@@ -18,6 +18,10 @@ whatsnew90-block-2-heading = Pangkalan anda adalah di mana VPN berada
 # Obsolete string
 whatsnew90-block-2-body = Bawa hiburan anda menjelajah atau pergi di mana hiburan anda berada. Sambungkan ke 750+ pelayan di lebih 30 negara dan strim, main, dan layari dengan lebih selamat dan kekal fleksibel.
 
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+whatsnew90-block-2-body-v2 = Bawa hiburan anda menjelajah atau pergi di mana hiburan anda berada. Sambungkan ke { $servers }+ pelayan di lebih { $countries } negara dan strim, main, dan layari dengan lebih selamat dan kekal fleksibel.
 
 whatsnew90-availability-heading = Kini boleh didapati di negara tambahan termasuklah:
 whatsnew90-availability-body = Jerman, Perancis, Itali, Sepanyol, Belgium, Austria, Switzerland.
