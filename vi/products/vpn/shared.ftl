@@ -16,7 +16,7 @@ vpn-shared-available-countries-v2 = Chúng tôi hiện cung cấp { -brand-name-
 vpn-shared-available-countries-v3 = Chúng tôi hiện cung cấp { -brand-name-mozilla-vpn } ở Hoa Kỳ, Canada, Vương quốc Anh, Đức, Pháp, Ý, Tây Ban Nha, Bỉ, Áo, Thụy Sĩ, Malaysia, New Zealand và Singapore.
 vpn-shared-money-back-guarantee = Đảm bảo hoàn tiền trong 30 ngày
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
-vpn-shared-featured-in = Tính năng nổi bật như
+vpn-shared-featured-in = Được truyền thông bởi
 vpn-shared-features-encrypt = Mã hóa cấp độ thiết bị
 # Variables:
 #   $servers (number) - number of available servers
