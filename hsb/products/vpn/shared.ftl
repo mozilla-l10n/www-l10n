@@ -102,6 +102,9 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Mobilny telefon
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Što je IP-adresa?
+vpn-subnav-when-to-use-a-vpn = Hdy wy dyrbjał VPN wužiwać
+vpn-subnav-vpn-vs-proxy = VPN porno proksy
 
 ##
 

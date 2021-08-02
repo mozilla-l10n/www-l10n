@@ -14,6 +14,7 @@ vpn-windows-hero-headline = Wěsty zwisk z { -brand-name-mozilla-vpn } za { -bra
 vpn-windows-wifi-headline = Wostańće priwatny w zjawnym WLAN
 vpn-windows-about-headline = Wot načolnika w internetnej priwatnosći
 vpn-windows-privacy-headline = Škit z tłóčenjom tłóčatka
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } waš internetny zwisk zaklučuje a škita wašu IP-adresu před wćipnymi wočemi na wašim desktopje abo laptopje z rozšěrjenym protokolom { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Přistup k serweram na cyłym swěće
 vpn-windows-devices-headline = Jedyn abonement za wšě waše graty
 vpn-windows-speed-headline = Žane wobmjezowanja šěrokosće pasma
