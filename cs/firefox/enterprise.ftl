@@ -38,5 +38,11 @@ firefox-enterprise-deployment-guide = Průvodce nasazením
 firefox-enterprise-policy-documentation = Dokumentace podnikových pravidel
 firefox-enterprise-release-notes = Poznámky k vydání
 firefox-enterprise-documentation-and-community = Dokumentace a komunitní podpora
+# Variables:
+#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+firefox-enterprise-sample-plist-for-configuration = Ukázkový <a href="{ $url }">plist pro konfigurační profil</a>
 firefox-enterprise-pkg-installer = Instalátor PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+firefox-enterprise-download-firefox-esr-or-rapid = Stažení { -brand-name-firefox-esr(case: "gen") } nebo standardní verze pro<br> <a href="{ $firefox_all }">jiný jazyk nebo platformu</a>.
