@@ -35,3 +35,7 @@ vpn-what-is-while-a-vpn = Aunque un VPN proporciona una conexión segura a Inter
 vpn-what-is-are-vpns-legal = ¿Son legales los VPN?
 vpn-what-is-installing-and-using = La instalación y el uso de un VPN es actualmente legal en la mayoría de los países, incluidos los Estados Unidos, el Reino Unido, Canadá y Nueva Zelanda, pero algunos países pueden regular su uso. Si eliges usar un VPN, es tu responsabilidad verificar la ley del país para determinar si su uso es legal o no.
 vpn-what-is-are-vpns-only = ¿Los VPN son solo para computadores?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-vpns-can-be = Los VPN pueden usarse para proteger todos tus dispositivos: computadores, portátiles, tablets y teléfonos. Si accedes a Internet a través de aplicaciones independientes fuera del navegador, un VPN es una buena opción para proteger tu privacidad y seguridad en cualquier dispositivo. Necesitarás instalar un VPN en cada dispositivo para que sea efectivo. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ofrece una conexión ilimitada para hasta cinco dispositivos cuando te conectes a internet desde cualquier app o navegador.
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rápido. Simple. Privado.
