@@ -7,9 +7,13 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = ¿Qué es un VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Obtén respuestas a nueve preguntas comunes sobre VPNs para que te sientas informado sobre lo que hacen, cuándo usar uno y por qué.
 vpn-what-is-how-do-vpns = ¿Cómo funcionan los VPN?
+vpn-what-is-a-vpn-is = Un VPN es una herramienta que te permite acceder a Internet de forma segura dondequiera que estés. Un VPN funciona creando un "túnel" seguro entre tu dispositivo y tu proveedor de VPN, y te protege de dos formas clave:
 vpn-what-is-concealing-your-ip = Ocultando tu dirección IP, protegiendo tu identidad y ubicación.
 vpn-what-is-encrypting-your-traffic = Cifrando tu tráfico entre tú y tu proveedor de VPN para que nadie en tu red local pueda descifrarlo o modificarlo.
+vpn-what-is-in-the-past = En el pasado, los VPN eran utilizados principalmente por las empresas para permitir un acceso remoto seguro a sus servicios internos y a sus datos privados. Ahora, sin embargo, los VPN están disponibles para cualquiera que quiera proteger su conexión a Internet, especialmente cuando se trata de redes porosas como el WiFi público, pero incluso es útil en una red hogareña.
 vpn-what-is-when-should-i = ¿Cuándo debería usar un VPN?
 vpn-what-is-wait-i-thought = Espera, pensé que mi tráfico de Internet ya estaba cifrado con HTTPS…
 vpn-what-is-why-would-i = ¿Por qué debería usar un VPN?
