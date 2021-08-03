@@ -8,5 +8,5 @@
 firefox-products-are = Los productos de { -brand-name-firefox } tán diseñaos pa protexer la privacidá
 learn-more-faq = FAQ de { -brand-name-firefox }
 what-is-a = ¿Qué ye un restolador web?
-choose-which-firefox = Escueyi que { -brand-name-firefox-browser } baxar na to llingua
+choose-which-firefox = Escueyi qué { -brand-name-firefox-browser } baxar na to llingua
 we-believe-everyone = Cuidamos que tol mundu habría tener accesu a internet. Poro, facemos que'l { -brand-name-firefox-browser } tea disponible en más de 90 llingües per duana de voluntarios de tol mundu.
