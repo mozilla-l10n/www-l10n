@@ -7,3 +7,5 @@
 
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = La diferencia entre un VPN y un proxy web
+# HTML page description and intro
+vpn-or-proxy-vpns-and-proxies-are = Los VPN y los proxies son soluciones para la privacidad y la seguridad en línea. Aquí tienes como te protegen y cómo elegir la mejor opción.
