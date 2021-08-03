@@ -19,6 +19,7 @@ firefox-enterprise-unmatched-data-protection = Bezkonkurenční ochrana dat při
 firefox-enterprise-the-firefox-browser-is-open = Prohlížeč { -brand-name-firefox } má otevřený zdrojový kód a disponuje rozšířenou ochranou proti sledování – to vše je součástí našeho dlouhodobého závazku chránit data.
 firefox-enterprise-your-data-stays-your-business = Vaše data zůstanou vaše
 firefox-enterprise-deploy-when-and-how-you-want = Nasaďte kde a jak chcete
+firefox-enterprise-with-install-packages-and = Díky instalačním balíčkům a širokému spektru zásad skupiny a funkcí je nasazení rychlejší a flexibilnější než kdykoli předtím – a v prostředích { -brand-name-windows } a { -brand-name-mac } je to hračka.
 firefox-enterprise-choose-your-release-cadence = Určete si vlastní rychlost vydávání nových verzí
 firefox-enterprise-enterprise-downloads = Stažení pro podniky
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
