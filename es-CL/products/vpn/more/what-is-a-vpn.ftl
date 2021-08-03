@@ -13,6 +13,7 @@ vpn-what-is-encrypting-your-traffic = Cifrando tu tráfico entre tú y tu provee
 vpn-what-is-when-should-i = ¿Cuándo debería usar un VPN?
 vpn-what-is-wait-i-thought = Espera, pensé que mi tráfico de Internet ya estaba cifrado con HTTPS…
 vpn-what-is-why-would-i = ¿Por qué debería usar un VPN?
+vpn-what-is-hiding-your-identity = Ocultar tu identidad y tu tráfico web puede parecer algo que solo hacen los computines supertécnicos o gente con agendas ocultas. Sin embargo, hay una serie de razones legítimas por las que puedes querer usar un VPN, entre las que se incluyen:
 vpn-what-is-keeping-your-online = Mantener privada tu actividad en línea.
 vpn-what-is-keeping-your-home = Mantén privados tu ubicación de inicio o los lugares más visitados.
 vpn-what-is-protecting-your-connection = Protegiendo tu conexión a una red WiFi pública, como en un café, aeropuerto, tienda o biblioteca.
