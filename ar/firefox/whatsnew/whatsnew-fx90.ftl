@@ -18,6 +18,10 @@ whatsnew90-block-2-heading = البيت هو المكان الذي تُوجد ب
 # Obsolete string
 whatsnew90-block-2-body = خُذ ألعابك الترفيهية حيث تذهب أو سافر إليها حيث كانت. اتصل بأكثر من 750 خادم في أكثر من 30 دولة واستمتع بمشاهدة مقاطع الفيديو واللعب والتصفّح بمزيد من الأمان مع الحفاظ على مُرونتك.
 
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+whatsnew90-block-2-body-v2 = خُذ ألعابك الترفيهية حيث تذهب أو سافر إليها حيث كانت. اتصل بأكثر من { $servers } خادم في أكثر من { $countries } دولة واستمتع بمُشاهدة مقاطع الفيديو واللعب والتصفّح بمزيد من الأمان مع الحفاظ على مُرونتك.
 
 whatsnew90-availability-heading = والآن أصبح متاحًا في دول أخرى مثل:
 whatsnew90-availability-body = ألمانيا وفرنسا وإيطاليا وإسبانيا وبلجيكا والنمسا وسويسرا.
