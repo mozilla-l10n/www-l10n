@@ -16,4 +16,7 @@ features-shared-password-manager = Rheolwr cyfrineiriau
 features-shared-customize-your-browser = Cyfaddasu eich porwr
 features-shared-sync-between-devices = Cydweddu rhwng dyfeisiau
 features-shared-better-bookmarks = Nodau tudalen gwell
+features-shared-fingerprinter-blocking = Rhwystro Bysbrintwyr
+features-shared-translate-the-web = Cyfieithu'r we
+features-shared-picture-in-picture = Llun-mewn-Llun
 brand-name-firefox = { -brand-name-firefox }
