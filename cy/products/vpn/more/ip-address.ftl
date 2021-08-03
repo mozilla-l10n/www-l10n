@@ -38,3 +38,8 @@ vpn-ip-address-you-dont-need = Does dim angen i chi guddio'ch cyfeiriad IP, ond 
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Mae yna hefyd resymau sefyllfaol i guddio'ch cyfeiriad IP. Efallai yr hoffech ei guddio wrth deithio. Bydd VPN hefyd yn rhoi <a href="{ $url }">mwy o breifatrwydd</a> i chi  wrth gysylltu â WiFi i ffrydio a siopa wrth i chi deithio'r byd.
 vpn-ip-address-how-do-you = Sut ydych chi'n ei guddio?
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is = Mae VPN yn ffordd i guddio'ch cyfeiriad IP. <a href="{ $vpn }"> Pan fyddwch yn defnyddio'ch VPN</a>, bydd eich cyfeiriad IP allanol yn dod o IP allanol gweinydd VPN, yn hytrach na chyfeiriad IP allanol eich lleoliad. Felly os yw'ch gweinydd VPN cysylltiol wedi'i leoli yng Nghaliffornia, bydd eich IP allanol yn edrych fel ei fod wedi'i gysylltu o California, lle bynnag rydych chi mewn gwirionedd. Hefyd, mae eich gweithgaredd ar-lein yn cael ei anfon dros gysylltiad diogel wedi'i amgryptio i'ch gweinydd VPN, gan gynnig diogelwch a phreifatrwydd ychwanegol. Mae <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> yn un ffordd i guddio'ch cyfeiriad IP. Nid ydym yn cadw cofnodion gweithgaredd nac yn bartner gyda llwyfannau dadansoddeg trydydd parti. Rydym yn cynnig diogelwch dyfais lawn ar gyfer hyd at bum dyfais gyda gweinyddwyr mewn { $countries }+ gwlad, gallwch gysylltu ag unrhyw le, o unrhyw le.
