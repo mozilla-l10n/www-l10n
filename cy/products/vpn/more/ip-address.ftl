@@ -23,3 +23,18 @@ vpn-ip-address-yes-even-if = Ydw. Hyd yn oed os ydych chi'n defnyddio'r rhyngrwy
 vpn-ip-address-can-more-than = A all mwy nag un ddyfais gael yr un cyfeiriad IP?
 vpn-ip-address-this-is-a = Mae hwn yn un anodd - yr ateb yw gall ac na. Gall mwy nag un ddyfais rannu'r un cyfeiriad IP allanol (cyhoeddus), ond bydd gan bob dyfais ei chyfeiriad IP lleol (preifat) ei hun. Er enghraifft, mae eich ISP (darparwr gwasanaeth rhyngrwyd) yn sefydlu'ch cartref gydag un cyfeiriad IP allanol. Gan mai eich llwybrydd yw'r hyn sy'n cysylltu â'r rhyngrwyd mewn gwirionedd, mae'r cyfeiriad IP yn cael ei roi i'ch llwybrydd. Yna bydd eich llwybrydd yn aseinio cyfeiriad IP lleol i bob dyfais sydd wedi'i chysylltu â'r rhyngrwyd ar y tro. Y cyfeiriad IP allanol yw'r hyn sy'n cael ei rannu gyda'r byd y tu allan. Nid yw eich cyfeiriad IP lleol yn cael ei rannu y tu allan i'ch rhwydwaith cartref preifat.
 vpn-ip-address-can-we-run = A allwn ni redeg allan ohonyn nhw?
+# Variables
+#   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
+#   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
+vpn-ip-address-when-the-internet = Pan ddyluniwyd y Rhyngrwyd yn wreiddiol, roedd yn defnyddio cyfeiriadau “fersiwn 4”. Mae'r rhain yn 32 darn, sy'n golygu y gallem gael hyd at <a href="{ $sr }">4.2bn cyfeiriad</a>. Roedd hyn yn ymddangos fel digon ar y pryd, ond nid yw unrhyw le'n ddigon mewn byd lle mae gan gartref cyffredin yn yr Unol Daleithiau tua <a href="{ $variety }">11 dyfais gysylltiedig</a>.
+vpn-ip-address-we-now-have = Bellach mae gennym gyfeiriadau IP fersiwn 6, sydd â 128 darn i bob cyfeiriad. Yn anffodus, nid yw fersiwn 4 a fersiwn 6 yn gallu siarad â’i gilydd yn uniongyrchol, felly bydd angen cyfeiriadau fersiwn 4 ar bobl am gyfnod maith.
+vpn-ip-address-should-you-hide = A ddylech chi guddio'ch cyfeiriad IP?
+# Variables
+#   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
+#   $doh (url) - https://support.mozilla.org/kb/firefox-dns-over-https
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+vpn-ip-address-you-dont-need = Does dim angen i chi guddio'ch cyfeiriad IP, ond mae yna rai adegau efallai yr hoffech chi wneud hynny. Y rheswm mwyaf cyffredin yw preifatrwydd. Yn yr Unol Daleithiau, <a href="{ $congress }">gwrthwynebodd y Gyngres</a> reoliadau preifatrwydd a ddyluniwyd i ddiogelu preifatrwydd defnyddwyr band eang. Gall darparwyr gwasanaeth rhyngrwyd weld eich arferion pori, beth rydych chi'n defnyddio'r rhyngrwyd i'w wneud, a pha mor hir rydych chi'n ei dreulio ar bob tudalen. Nid yw'r cyfathrebiad hwn wedi'i amgryptio, felly gall trydydd parti weld pa wefan rydych chi'n ymweld â hi. Un ffordd o frwydro yn erbyn hyn yw <a href="{ $doh }">DNS-dros-HTTPS</a> (DoH). Mae hyn yn amgryptio eich traffig DNS (System Enw Parth), gan ei gwneud hi'n anoddach i ISPau weld y gwefannau rydych chi'n ceisio ymweld â nhw. Ar gyfer <a href="{ $firefox }">defnyddwyr <a href="{ $firefox }">{ -brand-name-firefox }</a>, yn yr Unol Daleithiau mae eich ymholiadau DoH yn cael eu cyfeirio at weinyddion DNS dibynadwy yn ragosodedig, gan ei gwneud yn anoddach eich cysylltu â'r gwefannau rydych chi'n ceisio i ymweld â nhw.
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-there-are-also = Mae yna hefyd resymau sefyllfaol i guddio'ch cyfeiriad IP. Efallai yr hoffech ei guddio wrth deithio. Bydd VPN hefyd yn rhoi <a href="{ $url }">mwy o breifatrwydd</a> i chi  wrth gysylltu â WiFi i ffrydio a siopa wrth i chi deithio'r byd.
+vpn-ip-address-how-do-you = Sut ydych chi'n ei guddio?
