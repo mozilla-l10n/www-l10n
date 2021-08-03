@@ -16,5 +16,7 @@ features-shared-password-manager = パスワードマネージャー
 features-shared-customize-your-browser = ブラウザーをカスタマイズ
 features-shared-sync-between-devices = デバイス間で同期
 features-shared-better-bookmarks = より高機能なブックマーク
-
+features-shared-fingerprinter-blocking = フィンガープリント採取をブロック
+features-shared-translate-the-web = ウェブを翻訳
+features-shared-picture-in-picture = ピクチャーインピクチャー
 brand-name-firefox = { -brand-name-firefox }
