@@ -13,6 +13,10 @@ vpn-ip-address-every-time-you = Sempre que estiver na internet, endereços IP de
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Um exemplo de endereço IP que é uma sequência de quatro números, separados por pontos: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Se você procurar seu endereço IP, será algo parecido com isso.
+vpn-ip-address-does-it-travel = Ele acompanha você?
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip = Não. Seu endereço IP está associado apenas a um local, a menos que você esteja <a href="{ $url }">usando uma VPN</a> (mais detalhes à frente). Quando você está em casa, conectado à internet paga, usa um endereço IP. No entanto, se você usar o celular para conferir seus emails em casa de manhã, ver notícias no transporte, depois trabalhar em um escritório, terá usado um endereço IP diferente em cada local.
 vpn-ip-address-does-your-ip = Seu endereço IP muda?
 vpn-ip-address-can-more-than = Mais de um dispositivo pode ter o mesmo endereço IP?
 vpn-ip-address-should-you-hide = Você deve ocultar seu endereço IP?
