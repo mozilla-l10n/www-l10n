@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Mi az IP-cím?
+# HTML page description and intro
+vpn-ip-address-mozilla-answers-all-of = A { -brand-name-mozilla } megválaszolja az összes kérdését az IP-címekről, kezdve azzal, hogy mi is az IP-cím, hogyan működik, és hogyan rejtheti el.
 vpn-ip-address-does-it-travel = Önnel utazik?
 vpn-ip-address-does-your-ip = Változik az IP-címe?
 vpn-ip-address-can-more-than = Lehet-e több eszköznek ugyanaz az IP-címe?

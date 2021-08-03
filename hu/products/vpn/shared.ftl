@@ -102,6 +102,9 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Mobil
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Mi az IP-cím?
+vpn-subnav-when-to-use-a-vpn = Mikor használjon VPN-t
+vpn-subnav-vpn-vs-proxy = VPN kontra Proxy
 
 ##
 
