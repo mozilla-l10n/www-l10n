@@ -40,6 +40,10 @@ vpn-langing-faq-uses-question-heading = Beth yw VPN a beth yw ei ddefnydd?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Wrth i fwy o fywyd bob bydd ddigwydd trwy'r rhyngrwyd, mae preifatrwydd a diogelwch ar-lein yn dod yn bwysicach fyth. Gall VPN, <a href="{ $url }">Rhwydwaith Preifat Rhithwir</a>, eich helpu i greu cysylltiad preifat, diogel â'r rhyngrwyd. Mae'n gweithio trwy greu “twnnel” rhwng eich dyfais a'r rhyngrwyd yn gyffredinol, ac mae'n eich diogelu mewn dwy ffordd bwysig:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Cuddio'ch gwir <a href="{ $url }">gyfeiriad IP</a>. Mae hyn yn diogelu eich hunaniaeth ac yn cuddio'ch lleoliad.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Cuddio'ch gwir gyfeiriad IP. Mae hyn yn diogelu eich hunaniaeth ac yn cuddio'ch lleoliad.
 vpn-landing-faq-uses-encrypt = Amgryptio'r traffig rhyngoch chi a'ch darparwr VPN fel na all unrhyw un ar eich rhwydwaith lleol ei ddehongli na'i addasu.
 # Variables:
