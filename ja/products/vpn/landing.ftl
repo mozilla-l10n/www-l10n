@@ -49,6 +49,11 @@ vpn-langing-faq-uses-question-heading = VPN とは？その用途は？
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = インターネットが日常生活の多くを占めるようになり、オンラインのプライバシーとセキュリティは、より重要性を増してきました。VPN (<a href="{ $url }">仮想プライベートネットワーク</a>) は、安全かつプライベートにインターネットに接続する方法です。ユーザーのデバイスとインターネット全体の間に「トンネル」を作ることで、以下 2 つの重要な方法でユーザーを保護します。
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = ユーザーの本当の <a href="{ $url }">IP アドレス</a>を隠す。ユーザーの身元を保護し、所在地を見えなくします。
+
+# Obsolete string
 vpn-landing-faq-uses-conceal = ユーザーの本当の IP アドレスを隠す。ユーザーの身元を保護し、所在地を見えなくします。
 vpn-landing-faq-uses-encrypt = ユーザーと VPN プロバイダー間のトラフィックを暗号化して、ローカルネットワーク上の誰も解読や改変ができないようにする。
 
