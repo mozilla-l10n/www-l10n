@@ -14,6 +14,11 @@ vpn-what-is-a-vpn-is = Un VPN es una herramienta que te permite acceder a Intern
 vpn-what-is-concealing-your-ip = Ocultando tu dirección IP, protegiendo tu identidad y ubicación.
 vpn-what-is-encrypting-your-traffic = Cifrando tu tráfico entre tú y tu proveedor de VPN para que nadie en tu red local pueda descifrarlo o modificarlo.
 vpn-what-is-in-the-past = En el pasado, los VPN eran utilizados principalmente por las empresas para permitir un acceso remoto seguro a sus servicios internos y a sus datos privados. Ahora, sin embargo, los VPN están disponibles para cualquiera que quiera proteger su conexión a Internet, especialmente cuando se trata de redes porosas como el WiFi público, pero incluso es útil en una red hogareña.
+vpn-what-is-a-vpn-will = Un VPN protegerá el tráfico que envías entre tú y tu proveedor de VPN, ya sea a través de tu navegador, aplicaciones u otros servicios. Para configurar un VPN, tendrás que crear una cuenta con un proveedor de VPN e instalar el software VPN en tu ordenador o teléfono. Cuando está activado, un VPN gestionará el tráfico de todas las aplicaciones y software que se estén ejecutando en tu dispositivo, para que puedas navegar y comunicarte libremente a través de una conexión segura de red privada.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-what-is-a-vpn-provider = Un proveedor de VPN suele ofrecer una serie de puertas de conexión en diferentes ubicaciones en el planeta, lo que te permite usar una dirección IP de una ubicación diferente a la tuya. De esa manera, el lugar al que te estás conectando ve la IP del VPN, no tu dirección IP real, como el origen de tu tráfico. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> dirige tu tráfico a través de un servidor seguro y te permite elegir una ubicación de entre más de { $country } países.
 vpn-what-is-when-should-i = ¿Cuándo debería usar un VPN?
 vpn-what-is-wait-i-thought = Espera, pensé que mi tráfico de Internet ya estaba cifrado con HTTPS…
 vpn-what-is-why-would-i = ¿Por qué debería usar un VPN?
