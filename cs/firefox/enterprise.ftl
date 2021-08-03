@@ -5,11 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-get-firefox-for-your-enterprise-with = Získejte { -brand-name-firefox(case: "acc") } pro svůj podnik pomocí { -brand-name-esr } a rychlého vydání
 firefox-enterprise-enterprise = Podniky
 firefox-enterprise-overview = Přehled
 firefox-enterprise-downloads = Stažení
 firefox-enterprise-get-firefox-for-your-enterprise = Získat { -brand-name-firefox(case: "acc") } pro vaši společnost
-firefox-enterprise-unmatched-data-protection = Bezkonkurenční ochrana dat při tempu vydávání verzí, které bude vám bude vyhovovat
+firefox-enterprise-unmatched-data-protection = Bezkonkurenční ochrana dat při tempu vydávání verzí, které vám bude vyhovovat
 firefox-enterprise-your-data-stays-your-business = Vaše data zůstanou vaše
 firefox-enterprise-deploy-when-and-how-you-want = Nasaďte kde a jak chcete
 firefox-enterprise-choose-your-release-cadence = Určete si vlastní rychlost vydávání nových verzí
