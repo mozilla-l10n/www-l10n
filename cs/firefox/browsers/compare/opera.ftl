@@ -38,3 +38,4 @@ compare-opera-in-addition-to-the-regular = Kromě standardní mobilní aplikace 
 # Variables:
 #   $attrs (string) - link to https://play.google.com/store/apps/details?id=org.mozilla.fenix with additional attributes for analytics
 compare-opera-we-also-offer-an-additional = My také nabízíme další, i když experimentální verzi naší mobilní aplikace { -brand-name-firefox }, <a { $attrs }>{ -brand-name-firefox } Preview</a>, která se zaměřuje na rychlost a bezpečnost.
+compare-opera-most-major-browsers-these = Většina hlavních prohlížečů, s výjimkou { -brand-name-safari(case: "gen") }, dnes funguje bez problémů napříč platformami a prohlížeči. Výjimkou nejsou ani { -brand-name-opera } a { -brand-name-firefox }, oba prohlížeče nabízejí vynikající přenositelnost napříč všemi zařízeními.
