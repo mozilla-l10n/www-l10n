@@ -18,6 +18,10 @@ whatsnew90-block-2-heading = VPN があればどこでもホーム
 # Obsolete string
 whatsnew90-block-2-body = 外出先にエンターテイメントを持っていく、エンターテイメントに旅をするといった楽しみ方ができます。30 か国以上 750 台以上のサーバーに接続し、柔軟で、より安全にストリーミング、再生、ブラウズができます。
 
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+whatsnew90-block-2-body-v2 = 外出先にエンターテイメントを持っていく、エンターテイメントに旅をするといった楽しみ方ができます。{ $countries } か国以上 { $servers } 台以上のサーバーに接続し、柔軟で、より安全にストリーミング、再生、ブラウズができます。
 
 whatsnew90-availability-heading = 対応国を追加しました。次の国でも利用可能になりました。
 whatsnew90-availability-body = ドイツ、フランス、イタリア、スペイン、ベルギー、オーストリア、スイス。
