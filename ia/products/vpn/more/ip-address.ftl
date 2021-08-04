@@ -23,5 +23,9 @@ vpn-ip-address-yes-even-if = Si. Mesmo si tu usa internet solo a casa, le adress
 vpn-ip-address-can-more-than = Pote plus que un apparato haber identic adresse IP?
 vpn-ip-address-this-is-a = Isto es un question un poco difficile, le responsas es ambe: si e no. Plus que un apparato pote compartir identic externe (public) adresse IP, ma cata apparato habera su proprie local (private) adresse IP. Per exemplo, tu ISP (fornitor de servicio internet) configura tu casa con un adresse IP externe. Pois que tu router es lo que realmente se connecte a internet, le adresse IP es assignate a tu router. Tu router pois assigna un local adresse IP a cata apparato que es connexe a internet cata vice. Le adresse IP externe es illo que es compartite con le mundo externe. Tu local adresse IP non es compartite foras de tu private rete domestic.
 vpn-ip-address-can-we-run = Poter nos functionar foras de illos?
+# Variables
+#   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
+#   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
+vpn-ip-address-when-the-internet = Quando internet ha essite primo designate, illo usava su adresses in “version 4”. Id es 32 bits, isto significa que nos pote haber usque <a href="{ $sr }">4,2 milliardos de adresses</a>. Isto semblava bastante al tempore, ma es nusquam quasi bastante in un mundo ubi le familia medie SUA ha <a href="{ $varietate }">11 apparatos connexe</a>.
 vpn-ip-address-should-you-hide = Debe tu celar tu adresse IP?
 vpn-ip-address-how-do-you = Como pote tu celar lo?
