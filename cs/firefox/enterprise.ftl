@@ -10,13 +10,13 @@ firefox-enterprise-get-unmatched-data-protection = Získejte bezkonkurenční oc
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Přehled
 firefox-enterprise-downloads = Stažení
-firefox-enterprise-get-firefox-for-your-enterprise = Získat { -brand-name-firefox(case: "acc") } pro vaši společnost
+firefox-enterprise-get-firefox-for-your-enterprise = Získat { -brand-name-firefox(case: "acc") } pro vaši firmu
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Pořiďte si prohlížeč <a href="{ $url }">{ -brand-name-firefox-extended-support-release } nebo standardní verzi</a> pro komplexní zabezpečení a ochranu dat.
 firefox-enterprise-unmatched-data-protection = Bezkonkurenční ochrana dat při tempu vydávání verzí, které vám bude vyhovovat
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-enterprise-the-firefox-browser-is-open = Prohlížeč { -brand-name-firefox } má otevřený zdrojový kód a disponuje rozšířenou ochranou proti sledování – to vše je součástí našeho dlouhodobého závazku chránit data.
+firefox-enterprise-the-firefox-browser-is-open = Prohlížeč { -brand-name-firefox } má otevřený zdrojový kód a disponuje rozšířenou ochranou proti sledování – to vše je součástí našeho trvalého závazku chránit data.
 firefox-enterprise-your-data-stays-your-business = Vaše data zůstanou vaše
 firefox-enterprise-deploy-when-and-how-you-want = Nasaďte kde a jak chcete
 firefox-enterprise-with-install-packages-and = Díky instalačním balíčkům a širokému spektru zásad skupiny a funkcí je nasazení rychlejší a flexibilnější než kdykoli předtím – a v prostředích { -brand-name-windows } a { -brand-name-mac } je to hračka.
