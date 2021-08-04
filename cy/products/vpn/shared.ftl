@@ -102,6 +102,9 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Symudol
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Beth yw cyfeiriad IP?
+vpn-subnav-when-to-use-a-vpn = Pryd i ddefnyddio VPN
+vpn-subnav-vpn-vs-proxy = VPN neu Dirprwy
 
 ##
 
