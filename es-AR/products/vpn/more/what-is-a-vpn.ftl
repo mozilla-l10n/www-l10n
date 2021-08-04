@@ -7,10 +7,14 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = ¿Qué es una VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Vamos a responder nueve preguntas comunes sobre VPN para que estéss informado sobre lo que hacen, cuándo usar una y por qué.
+vpn-what-is-many-of-us = Muchos de nosotros pasamos varias horas al día usando Internet para hacer cosas cotidianas como ver videos, comprar, jugar y pagar facturas, así como para manejar proyectos de trabajo complejos y tener llamadas de video confidenciales. Una <strong>Red privada virtual (VPN)</strong> es una de las mejores formas de mantener tu privacidad y seguridad en línea y de proteger tus datos personales.
 vpn-what-is-how-do-vpns = ¿Cómo trabajan las VPNs?
 vpn-what-is-a-vpn-is = Una VPN es una herramienta que te permite acceder a Internet de forma segura dondequiera que estés. Una VPN funciona creando un “túnel“ seguro entre tu dispositivo y tu proveedor de VPN y te protege de dos formas clave:
 vpn-what-is-concealing-your-ip = Ocultando tu dirección IP, protegiendo tu identidad y tu ubicación.
 vpn-what-is-encrypting-your-traffic = Cifrando el tráfico entre vos y tu proveedor de VPN para que nadie en tu red local pueda descifrarlo o modificarlo.
+vpn-what-is-in-the-past = En el pasado, las VPNs eran usadas principalmente por las empresas para permitir un acceso remoto seguro a sus servicios internos y a sus datos privados. Ahora, sin embargo, las VPNs están disponibles para cualquiera que quiera proteger su conexión a Internet, especialmente cuando se trata de redes porosas como una WiFi pública, pero incluso es útil en la red de casa.
 vpn-what-is-when-should-i = ¿Cuándo debería usar una VPN?
 vpn-what-is-wait-i-thought = Pará, pará, pará. Pensé que mi tráfico de internet ya estaba cifrado con HTTPS…
 vpn-what-is-why-would-i = ¿Por qué debería usar una VPN?
