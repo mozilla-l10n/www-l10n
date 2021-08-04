@@ -8,7 +8,7 @@
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = Y gwahaniaeth rhwng VPN a dirprwy gwe
 # HTML page description and intro
-vpn-or-proxy-vpns-and-proxies-are = Mae VPNs a dirprwyon yn atebion ar gyfer preifatrwydd a diogelwch ar-lein. Dyma sut mae'r rhain yn eich diogelu a sut i ddewis yr un gorau.
+vpn-or-proxy-vpns-and-proxies-are = Mae VPN a dirprwyon yn atebion ar gyfer preifatrwydd a diogelwch ar-lein. Dyma sut mae'r rhain yn eich diogelu a sut i ddewis yr un gorau.
 vpn-or-proxy-virtual-private-networks = Mae rhwydweithiau preifat rhithwir (VPN) a dirprwyon gwe diogel yn atebion ar gyfer gwell preifatrwydd a diogelwch ar-lein, ond gall fod yn ddryslyd darganfod pa un sy'n iawn i chi. Dyma gip ar sut mae'r gwasanaethau hyn yn eich amddiffyn a sut i wneud y dewis gorau ar gyfer pan fyddwch chi ar-lein.
 vpn-or-proxy-stop-isps-from = Atal ISPs rhag ysbio arnoch chi
 # Variables
@@ -28,8 +28,8 @@ vpn-or-proxy-a-proxy-is-useful = Mae dirprwy yn ddefnyddiol pan fyddwch yn pori'
 # Variables
 #   $fpn (url) - https://fpn.firefox.com
 vpn-or-proxy-firefox-private-network = Mae <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> yn estyniad porwr hawdd ei osod sy'n darparu twnnel diogel, wedi'i amgryptio i'r we i ddiogelu cysylltiad eich porwr yn unrhyw le rydych chi'n defnyddio { -brand-name-firefox }. Mae'n gyflym ac yn hawdd ei droi ymlaen pryd bynnag y mae ei angen arnoch ar gyfer diogelwch ychwanegol yn eich porwr.
-vpn-or-proxy-vpns-devicelevel-protection = VPNs: diogelwch ar lefel dyfais
-vpn-or-proxy-vpns-do-more = Mae VPNau'n gwneud mwy na dirprwyon yn yr ystyr bod dirprwy yn diogelu yr hyn rydych chi'n ei wneud yn eich porwr yn unig, ond mae VPN yn amddiffyn eich holl draffig, gan gynnwys eich porwr, ble bynnag mae gennych chi VPN wedi'i osod a'i alluogi. Mae VPNs yn darparu diogelwch a phreifatrwydd ychwanegol ar gyfer eich holl weithgaredd ar-lein - ystyriaeth bwysig os ydych chi am gadw'ch gweithgaredd i chi'ch hun a'i gwneud hi'n anoddach i dracwyr  data llwglyd ac ISPau greu proffil ohonoch chi yn cynnwys eich holl ddyfeisiau, eich ffôn, cyfrifiadur a thabled.
+vpn-or-proxy-vpns-devicelevel-protection = VPN: diogelwch ar lefel dyfais
+vpn-or-proxy-vpns-do-more = Mae VPN yn gwneud mwy na dirprwyon yn yr ystyr bod dirprwy yn diogelu yr hyn rydych chi'n ei wneud yn eich porwr yn unig, ond mae VPN yn amddiffyn eich holl draffig, gan gynnwys eich porwr, ble bynnag mae gennych chi VPN wedi'i osod a'i alluogi. Mae VPN yn darparu diogelwch a phreifatrwydd ychwanegol ar gyfer eich holl weithgaredd ar-lein - ystyriaeth bwysig os ydych chi am gadw'ch gweithgaredd i chi'ch hun a'i gwneud hi'n anoddach i dracwyr  data llwglyd ac ISPau greu proffil ohonoch chi yn cynnwys eich holl ddyfeisiau, eich ffôn, cyfrifiadur a thabled.
 vpn-or-proxy-a-vpn-works = Mae VPN yn gweithio trwy greu “twnnel” diogel rhwng eich dyfais a'r rhyngrwyd yn gyffredinol. Mae'n diogelu eich preifatrwydd mewn dwy ffordd allweddol:
 vpn-or-proxy-concealing-your-ip = Cuddio'ch cyfeiriad IP, diogelu eich hunaniaeth a chuddio'ch lleoliad.
 vpn-or-proxy-encrypting-your-traffic = Amgryptio'r traffig rhyngoch chi a'ch darparwr VPN fel na all unrhyw un ar eich rhwydwaith lleol ei ddehongli na'i addasu.
