@@ -34,8 +34,8 @@ vpn-what-is-ensuring-the-confidentiality = Sicrhau cyfrinachedd a chywirdeb eich
 vpn-what-is-make-it-more = Ei gwneud hi'n anoddach i rwydweithiau hysbysebion ddefnyddio'ch IP i greu proffiliau targedu hysbysebion sy'n eich tracio ar draws y we.
 vpn-what-is-what-are-the = Beth yw anfanteision defnyddio VPN?
 vpn-what-is-some-service-providers = Mae rhai darparwyr gwasanaeth yn rhwystro ymweliadau a wneir trwy VPN, gan wneud eu cynnwys yn anhygyrch pan fydd VPN yn cael ei droi ymlaen. Gall rhai VPN eich arafu, neu gallan nhw gyfyngu ar eich lled band. Ac mae rhai VPN yn graddio'n wael o ran parchu preifatrwydd a diogelwch defnyddwyr.
-vpn-what-is-are-vpns-safe = A yw VPNs yn ddiogel?
-vpn-what-is-its-very-hard = Mae'n anodd iawn dod o hyd i VPN dibynadwy. Bwriad VPNs yw diogelu defnyddwyr tra'u bod ar-lein, ond nid yw pob VPN yn cynnig yr un math o  wasanaeth. Wrth chwilio am wasanaeth VPN, gwnewch yn siŵr eich bod chi'n deall yr amodau rydych chi'n cytuno iddyn nhw. Mae llawer yn honni eu bod yn wych ac yn canolbwyntio ar breifatrwydd, ond mae nifer fawr ohonyn nhw'n methu â chyrraedd eu haddewidion. Bydd rhai VPNs yn cofnodi'ch gweithgareddau ar-lein fel y gallan nhw werthu eich data a'ch manylion i gwmnïau marchnata eu hunain. Bydd cwmnïau VPN eraill yn ceisio eich argyhoeddi i osod meddalwedd maleisus ar eich dyfeisiau.
+vpn-what-is-are-vpns-safe = A yw VPN yn ddiogel?
+vpn-what-is-its-very-hard = Mae'n anodd iawn dod o hyd i VPN dibynadwy. Bwriad VPN yw diogelu defnyddwyr tra'u bod ar-lein, ond nid yw pob VPN yn cynnig yr un math o  wasanaeth. Wrth chwilio am wasanaeth VPN, gwnewch yn siŵr eich bod chi'n deall yr amodau rydych chi'n cytuno iddyn nhw. Mae llawer yn honni eu bod yn wych ac yn canolbwyntio ar breifatrwydd, ond mae nifer fawr ohonyn nhw'n methu â chyrraedd eu haddewidion. Bydd rhai VPN yn cofnodi'ch gweithgareddau ar-lein fel y gallan nhw werthu eich data a'ch manylion i gwmnïau marchnata eu hunain. Bydd cwmnïau VPN eraill yn ceisio eich argyhoeddi i osod meddalwedd maleisus ar eich dyfeisiau.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
@@ -46,12 +46,12 @@ vpn-what-is-can-vpns-protect = Gall VPN fy amddiffyn rhag seiberdroseddwyr?
 # Variables
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
 vpn-what-is-while-a-vpn = Er bod VPN yn darparu cysylltiad diogel â'r rhyngrwyd, nid yw'n eich diogelu rhag pob drwgweithredwr allan yna. Pryd bynnag rydych ar-lein, gyda neu heb VPN, dylech fod yn wyliadwrus o gysylltiadau amheus, ymgyrchoedd gwybodaeth anghywir, sgamiau gwe-rwydo a bygythiadau eraill. Mae <a href="{ $url }">aros yn ddiogel ar-lein</a> yn feddylfryd cyson, bob dydd.
-vpn-what-is-are-vpns-legal = A yw VPNs yn gyfreithlon?
+vpn-what-is-are-vpns-legal = A yw VPN yn gyfreithlon?
 vpn-what-is-installing-and-using = Ar hyn o bryd mae gosod a defnyddio VPN yn gyfreithiol yn y mwyafrif o wledydd, gan gynnwys yr Unol Daleithiau, y DU, Canada a Seland Newydd, ond gall rhai gwledydd reoleiddio eu defnydd. Os dewiswch ddefnyddio VPN, eich cyfrifoldeb chi yw sicrhau fod cyfraith y wlad yn caniatáu i chi ei ddefnyddio yn gyfreithiol ai peidio.
-vpn-what-is-are-vpns-only = A yw VPNs ar gyfer cyfrifiaduron yn unig?
+vpn-what-is-are-vpns-only = A yw VPN ar gyfer cyfrifiaduron yn unig?
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-vpns-can-be = Mae modd defnyddio VPNs i ddiogelu eich holl ddyfeisiau - cyfrifiaduron, gliniaduron, tabledi a ffonau. Os ydych chi'n cyrchu'r rhyngrwyd trwy apiau annibynnol y tu hwnt i'r porwr, mae VPN yn ddewis da ar gyfer diogelu eich preifatrwydd a'ch diogelwch ar unrhyw ddyfais. Bydd angen i chi osod VPN ar bob dyfais er mwyn iddo fod yn effeithiol. Mae <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> yn cynnig cysylltiad diderfyn ar gyfer hyd at bum dyfais pan fyddwch chi'n cysylltu â'r rhyngrwyd o unrhyw ap neu borwr.
+vpn-what-is-vpns-can-be = Mae modd defnyddio VPN i ddiogelu eich holl ddyfeisiau - cyfrifiaduron, gliniaduron, tabledi a ffonau. Os ydych chi'n cyrchu'r rhyngrwyd trwy apiau annibynnol y tu hwnt i'r porwr, mae VPN yn ddewis da ar gyfer diogelu eich preifatrwydd a'ch diogelwch ar unrhyw ddyfais. Bydd angen i chi osod VPN ar bob dyfais er mwyn iddo fod yn effeithiol. Mae <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> yn cynnig cysylltiad diderfyn ar gyfer hyd at bum dyfais pan fyddwch chi'n cysylltu â'r rhyngrwyd o unrhyw ap neu borwr.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Cyflym, diogel, dibynadwy
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/

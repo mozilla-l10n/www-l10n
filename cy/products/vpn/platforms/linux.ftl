@@ -34,4 +34,4 @@ vpn-linux-devices-copy = Gydag un tanysgrifiad, gallwch gael { -brand-name-mozil
 vpn-linux-speed-headline = Cyflym iawn gyda data diderfyn
 vpn-linux-speed-copy = Chwarae gemau, ffrydio ffilmiau a sioeau, a syrffio'r we ar gyflymder cyflym iawn a dim cyfyngu lled band — mae { -brand-name-mozilla-vpn } yn ddiderfyn.
 vpn-linux-log-headline = Mae'ch data yn perthyn i chi
-vpn-linux-log-copy = Mae rhai VPNs yn cofnodi'ch gweithgaredd ar eu gweinyddwyr. Nid yw  { -brand-name-mozilla-vpn } yn eich tracio ar-lein — mewn gwirionedd, mae hynny'n rhan fawr o'r hyn yr ydym yn sefyll drosto fel cwmni.
+vpn-linux-log-copy = Mae rhai VPN yn cofnodi'ch gweithgaredd ar eu gweinyddwyr. Nid yw  { -brand-name-mozilla-vpn } yn eich tracio ar-lein — mewn gwirionedd, mae hynny'n rhan fawr o'r hyn yr ydym yn sefyll drosto fel cwmni.
