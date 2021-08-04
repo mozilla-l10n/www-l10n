@@ -9,6 +9,7 @@
 vpn-what-is-what-is-a-vpn = ¿Qué es un VPN?
 # HTML page description and intro
 vpn-what-is-get-answers-to-nine = Obtén respuestas a nueve preguntas comunes sobre VPNs para que te sientas informado sobre lo que hacen, cuándo usar uno y por qué.
+vpn-what-is-many-of-us = Muchos de nosotros pasamos varias horas al día usando Internet para hacer cosas cotidianas como ver videos, comprar, jugar y pagar facturas, hasta incluso manejar proyectos de trabajo complejos y tener llamadas de video confidenciales. Una <strong>Red Privada Virtual (VPN)</strong> es una de las mejores formas de mantener tu privacidad y seguridad en línea, y de proteger tus datos personales.
 vpn-what-is-how-do-vpns = ¿Cómo funcionan los VPN?
 vpn-what-is-a-vpn-is = Un VPN es una herramienta que te permite acceder a Internet de forma segura dondequiera que estés. Un VPN funciona creando un "túnel" seguro entre tu dispositivo y tu proveedor de VPN, y te protege de dos formas clave:
 vpn-what-is-concealing-your-ip = Ocultando tu dirección IP, protegiendo tu identidad y ubicación.
@@ -20,7 +21,10 @@ vpn-what-is-a-vpn-will = Un VPN protegerá el tráfico que envías entre tú y t
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
 vpn-what-is-a-vpn-provider = Un proveedor de VPN suele ofrecer una serie de puertas de conexión en diferentes ubicaciones en el planeta, lo que te permite usar una dirección IP de una ubicación diferente a la tuya. De esa manera, el lugar al que te estás conectando ve la IP del VPN, no tu dirección IP real, como el origen de tu tráfico. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> dirige tu tráfico a través de un servidor seguro y te permite elegir una ubicación de entre más de { $country } países.
 vpn-what-is-when-should-i = ¿Cuándo debería usar un VPN?
+vpn-what-is-connecting-to-a = Conectarse a una red WiFi pública es a veces conveniente, como cuando no tienes un servicio de internet o no captas ninguna barra de señal en tu teléfono. Por otro lado, conectarse a una red WiFi pública puede ser una tarea arriesgada. Es imposible estar seguro de que alguien más no se está conectando a la misma red para husmear lo que estás haciendo. Incluso si tu tráfico está cifrado, todavía pueden ver los sitios que estás visitando. Y si estás usando una aplicación que no tiene cifrado — que incluso hoy muchas no lo tienen — entonces pueden ver todo lo que estás haciendo.
+vpn-what-is-when-youre-at = Cuando estás en casa, el riesgo de que aparezcan malandras en tu red doméstica es menor. Sin embargo, tu Proveedor de Servicios de Internet (ISP) puede rastrear y compartir tus actividades en línea porque todos los datos a los que accedes en la web se enrutan a través de la red de tu ISP, algunos de los cuales pueden no estar cifrados. Un VPN puede evitar que los ISP te espíen al cifrar el tráfico a tu proveedor de VPN sin importar dónde te encuentres.
 vpn-what-is-wait-i-thought = Espera, pensé que mi tráfico de Internet ya estaba cifrado con HTTPS…
+vpn-what-is-its-true-that = Es cierto que la mayoría de las conexiones a sitios web en estos días están protegidas por HTTPS, lo que significa que el contenido, pero no la dirección IP de origen o destino, está cifrado. Un VPN ofrece privacidad adicional al evitar que los sitios web y terceros conozcan tu dirección IP.
 vpn-what-is-why-would-i = ¿Por qué debería usar un VPN?
 vpn-what-is-hiding-your-identity = Ocultar tu identidad y tu tráfico web puede parecer algo que solo hacen los computines supertécnicos o gente con agendas ocultas. Sin embargo, hay una serie de razones legítimas por las que puedes querer usar un VPN, entre las que se incluyen:
 vpn-what-is-keeping-your-online = Mantener privada tu actividad en línea.
@@ -49,3 +53,6 @@ vpn-what-is-are-vpns-only = ¿Los VPN son solo para computadores?
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = Los VPN pueden usarse para proteger todos tus dispositivos: computadores, portátiles, tablets y teléfonos. Si accedes a Internet a través de aplicaciones independientes fuera del navegador, un VPN es una buena opción para proteger tu privacidad y seguridad en cualquier dispositivo. Necesitarás instalar un VPN en cada dispositivo para que sea efectivo. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ofrece una conexión ilimitada para hasta cinco dispositivos cuando te conectes a internet desde cualquier app o navegador.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rápido. Simple. Privado.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio en el que puedes confiar para mantener tu conexión a Internet segura en todos tus dispositivos. No guardamos registros de datos del usuario, y no nos asociamos con plataformas de análisis de terceros que quieran crear un perfil de lo que haces en línea. En un mundo donde la imprevisibilidad se ha convertido en la "nueva normalidad", sabemos que es más importante que nunca para ti sentirse seguro, y saber que lo que haces en línea es asunto tuyo.
