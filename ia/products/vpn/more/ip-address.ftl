@@ -27,5 +27,6 @@ vpn-ip-address-can-we-run = Poter nos functionar foras de illos?
 #   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
 #   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
 vpn-ip-address-when-the-internet = Quando internet ha essite primo designate, illo usava su adresses in “version 4”. Id es 32 bits, isto significa que nos pote haber usque <a href="{ $sr }">4,2 milliardos de adresses</a>. Isto semblava bastante al tempore, ma es nusquam quasi bastante in un mundo ubi le familia medie SUA ha <a href="{ $varietate }">11 apparatos connexe</a>.
+vpn-ip-address-we-now-have = Nos ora ha le adresses IP version 6, que ha 128 bits per adresse. Infortunatemente, version 4 e version 6 non pote parlar le un le altere directemente, assi personas besoniara del adresses version 4 pro un longe tempore.
 vpn-ip-address-should-you-hide = Debe tu celar tu adresse IP?
 vpn-ip-address-how-do-you = Como pote tu celar lo?
