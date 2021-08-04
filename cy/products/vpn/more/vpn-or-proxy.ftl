@@ -8,7 +8,7 @@
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = Y gwahaniaeth rhwng VPN a dirprwy gwe
 # HTML page description and intro
-vpn-or-proxy-vpns-and-proxies-are = Mae VPN a dirprwyon yn atebion ar gyfer preifatrwydd a diogelwch ar-lein. Dyma sut mae'r rhain yn eich diogelu a sut i ddewis yr un gorau.
+vpn-or-proxy-vpns-and-proxies-are = Mae VPN a dirprwyon yn atebion sy'n darparu preifatrwydd a diogelwch ar-lein. Dyma sut mae'r rhain yn eich diogelu a sut i ddewis yr un gorau.
 vpn-or-proxy-virtual-private-networks = Mae rhwydweithiau preifat rhithwir (VPN) a dirprwyon gwe diogel yn atebion ar gyfer gwell preifatrwydd a diogelwch ar-lein, ond gall fod yn ddryslyd darganfod pa un sy'n iawn i chi. Dyma gip ar sut mae'r gwasanaethau hyn yn eich amddiffyn a sut i wneud y dewis gorau ar gyfer pan fyddwch chi ar-lein.
 vpn-or-proxy-stop-isps-from = Atal ISPs rhag ysbio arnoch chi
 # Variables
