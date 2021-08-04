@@ -21,4 +21,6 @@ vpn-ip-address-no-your-ip = Não. Seu endereço IP está associado apenas a um l
 vpn-ip-address-does-your-ip = Seu endereço IP muda?
 vpn-ip-address-yes-even-if = Sim. Mesmo se você só estiver usando a internet em casa, o endereço IP na sua casa pode mudar. Você pode entrar em contato com seu provedor de serviços de internet para mudar, mas mesmo algo tão rotineiro como reiniciar o modem ou roteador devido a problemas de conexão com a internet pode resultar em mudança no endereço IP.
 vpn-ip-address-can-more-than = Mais de um dispositivo pode ter o mesmo endereço IP?
+vpn-ip-address-this-is-a = Esta é uma pergunta um tanto complicada — a resposta é sim e não. Mais de um dispositivo pode compartilhar o mesmo endereço IP externo (público), mas cada dispositivo tem seu próprio endereço IP local (privado). Por exemplo, seu provedor de serviços de internet configura a conexão na sua casa com um endereço IP externo. Como seu roteador é o que realmente se conecta à internet, o endereço IP é atribuído a ele. O roteador atribui um endereço IP local a cada dispositivo conectado à internet através dele. O endereço IP externo é o que é compartilhado com o mundo. Seu endereço IP local não é compartilhado fora de sua rede doméstica privada.
+vpn-ip-address-can-we-run = Pode chegar a faltar endereços?
 vpn-ip-address-should-you-hide = Você deve ocultar seu endereço IP?
