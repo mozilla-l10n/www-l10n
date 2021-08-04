@@ -49,6 +49,11 @@ vpn-langing-faq-uses-question-heading = Apa itu VPN dan apa kegunaannya?
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Dengan semakin banyaknya kehidupan sehari-hari yang bergantung pada internet, privasi dan keamanan daring menjadi semakin penting. VPN, <a href="{ $url }">Virtual Private Network</a>, dapat membantu Anda membuat sambungan pribadi yang aman ke internet. Fitur ini bekerja dengan membuat “terowongan” antara perangkat Anda dan internet secara luas, dan melindungi Anda dengan dua cara:
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Menyembunyikan <a href="{ $url }">alamat IP</a> Anda yang sebenarnya. Metode ini dapat melindungi identitas dan menyamarkan lokasi Anda.
+
+# Obsolete string
 vpn-landing-faq-uses-conceal = Menyembunyikan alamat IP Anda yang sebenarnya. Metode ini dapat melindungi identitas dan menyamarkan lokasi Anda.
 vpn-landing-faq-uses-encrypt = Mengenkripsi trafik antara Anda dan penyedia layanan VPN sehingga tidak ada orang di jaringan lokal Anda yang dapat memecahkan atau memodifikasinya.
 
