@@ -45,4 +45,4 @@ firefox-enterprise-pkg-installer = Instalátor PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
-firefox-enterprise-download-firefox-esr-or-rapid = Stažení { -brand-name-firefox-esr(case: "gen") } nebo standardní verze pro<br> <a href="{ $firefox_all }">jiný jazyk nebo platformu</a>.
+firefox-enterprise-download-firefox-esr-or-rapid = Stáhnout { -brand-name-firefox-esr(case: "acc") } nebo standardní verzi pro<br> <a href="{ $firefox_all }">jiný jazyk nebo platformu</a>.
