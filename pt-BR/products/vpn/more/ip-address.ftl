@@ -23,4 +23,9 @@ vpn-ip-address-yes-even-if = Sim. Mesmo se você só estiver usando a internet e
 vpn-ip-address-can-more-than = Mais de um dispositivo pode ter o mesmo endereço IP?
 vpn-ip-address-this-is-a = Esta é uma pergunta um tanto complicada — a resposta é sim e não. Mais de um dispositivo pode compartilhar o mesmo endereço IP externo (público), mas cada dispositivo tem seu próprio endereço IP local (privado). Por exemplo, seu provedor de serviços de internet configura a conexão na sua casa com um endereço IP externo. Como seu roteador é o que realmente se conecta à internet, o endereço IP é atribuído a ele. O roteador atribui um endereço IP local a cada dispositivo conectado à internet através dele. O endereço IP externo é o que é compartilhado com o mundo. Seu endereço IP local não é compartilhado fora de sua rede doméstica privada.
 vpn-ip-address-can-we-run = Pode chegar a faltar endereços?
+# Variables
+#   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
+#   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
+vpn-ip-address-when-the-internet = Quando a internet foi inicialmente projetada, usava endereços da “versão 4”. São de 32 bits, o que significa poder existir até <a href="{ $sr }">4,2 bilhões de endereços</a>. Isso parecia ser o suficiente na época, mas nem está próximo disso em um mundo onde a média de um lar nos Estados Unidos é de <a href="{ $variety }">11 dispositivos conectados</a>.
+vpn-ip-address-we-now-have = Agora temos endereços IP da versão 6, que têm 128 bits por endereço. Infelizmente, a versão 4 e a versão 6 não podem se comunicar diretamente, então as pessoas precisarão dos endereços da versão 4 por um longo tempo.
 vpn-ip-address-should-you-hide = Você deve ocultar seu endereço IP?
