@@ -38,3 +38,8 @@ vpn-ip-address-you-dont-need = Tu non besonia de celar tu adresse IP, ma il ha a
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Il ha alsi rationes circumstantial pro celar tu adresse IP. Tu poterea voler lo celar quando tu viagia. Un VPN alsi te dara <a href="{ $url }">plus confidentialitate</a> in le connexion a wi-fi pro le diffusion multimedial e le compras, durante que tu explora le mundo.
 vpn-ip-address-how-do-you = Como pote tu celar lo?
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is = Un VPN es un maniera de celar tu adresse IP. <a href="{ $vpn }">Quando tu usa un VPN</a>, tu adresse IP externe venira del adresse IP externe del servitor VPN, plus tosto que del adresse IP externe de tu position. Assi si le servitor VPN que te connecte es ubicate in California, tu IP externe parera connectite del California, non importa ubi tu realmente es. Plus, tu activitate online es inviate a tu servitor VPN super un connexion secur, cryptate, que te da altere securitate e confidentialitate. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un maniera de celar tu adresse IP. Nos non mantene registros de activitate, ni nos collabora con platteformas de analyse datos de tertie-partes. Nos offere protection total pro usque cinque apparatos, con servitores in ultra { $countries } paises, tu pote connecter te a ubique, non importa ubi tu es.
