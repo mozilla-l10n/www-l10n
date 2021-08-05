@@ -10,6 +10,7 @@ vpn-ip-address-what-is-an-ip-address = What is an IP address?
 # HTML page description and intro
 vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } answers all of your questions about IP addresses from what is an IP address, to how it works, and if you should hide it.
 vpn-ip-address-every-time-you = Every time you are on the internet, IP addresses are playing an essential role in the information exchange to help you see the sites you are requesting. Yet, there is a chance you don’t know what one is, so we are breaking down the most commonly asked questions below.
+vpn-ip-address-your-ip-address = Your IP address is a unique identifier, kind of like a mailing address, associated with your online activity. Any time that you use the internet (shopping online, sending emails, streaming TV), you’re requesting access to a specific online destination, and in return, information is sent back to you. How does that work? Well the IP stands for Internet Protocol, which lays out the standards and rules (yes, otherwise known as the protocol) for routing data and connecting to the internet. This protocol is a set of rules each party needs to follow to allow for a bi-directional flow of data.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = An example of an IP address that is a sequence of four numbers, separated by decimals: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = If you look up your IP address, it will look something like this.
