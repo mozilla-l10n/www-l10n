@@ -7,4 +7,5 @@
 
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Gracies por escoyer { -brand-name-firefox }
+set-as-default-thanks-having-trouble-setting-your = ¿Tienes problemes al predeterminar el restolador?
 set-as-default-thanks-having-trouble = ¿Tienes problemes?
