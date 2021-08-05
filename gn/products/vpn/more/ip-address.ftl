@@ -10,3 +10,9 @@ vpn-ip-address-what-is-an-ip-address = ¿Mba’épa IP kundaharape?
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Peteĩ techapyrã IP kundaharape oguerekóva irundy papapy, ojeíva ojuehegui kyta rupive: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Ehekáramo nde IP kundaharape, ikatu hína ehecha kóicha.
+vpn-ip-address-does-it-travel = ¿Egueraha nendive?
+vpn-ip-address-does-your-ip = ¿IP kundaharape iñambue?
+vpn-ip-address-can-more-than = ¿Ikatúpa heta mba’e’oka oreko IP kundaharape ojueheguáva?
+vpn-ip-address-can-we-run = ¿Ikatúpa opa?
+vpn-ip-address-should-you-hide = ¿Oñomikuaápa IP kundaharape?
+vpn-ip-address-how-do-you = ¿Mba’éicha oñomikuaa?
