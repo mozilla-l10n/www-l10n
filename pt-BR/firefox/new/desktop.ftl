@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Ferramenta integrada de captura
 firefox-desktop-download-primary-password = Senha principal
 # Obsolete string
 firefox-desktop-download-master-password = Senha principal
-firefox-desktop-download-we-block-the-ad = Nós bloqueamos publicidade com rastreamento. Você explora a internet mais rápido.
+firefox-desktop-download-we-block-the-ad = Nós bloqueamos publicidade que tem rastreamento. Você explora a internet mais rápido.
 firefox-desktop-download-ads-are-distracting = Anúncios distraem a atenção e tornam mais lento carregar páginas web, enquanto rastreadores tentam vigiar cada movimento que você faz online. O { -brand-name-firefox-browser } bloqueia a maioria dos rastreadores automaticamente para você não precisar se aprofundar nas configurações de segurança.
 firefox-desktop-download-see-your-report = Veja seu relatório de proteção
 firefox-desktop-download-for-everyone = O { -brand-name-firefox } é para todos
