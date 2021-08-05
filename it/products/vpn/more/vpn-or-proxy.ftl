@@ -24,3 +24,16 @@ vpn-or-proxy-a-secure-web = Un proxy web sicuro funziona solo per le attività c
 # Variables
 #   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
 vpn-or-proxy-a-proxy-is-useful = Un proxy è utile quando navighi sul Web da un Wi-Fi pubblico. Quando un proxy è attivo, impedisce agli intercettatori sulla stessa rete di spiare la tua attività di navigazione o leggere le tue transazioni su siti non crittati. Sembrano innocue, ma le reti Wi-Fi pubbliche possono essere una backdoor per i <a href="{ $url }">malintenzionati</a>.
+# Variables
+#   $fpn (url) - https://fpn.firefox.com
+vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> è un’estensione del browser, facile da installare, che fornisce un tunnel sicuro e crittato verso il Web per proteggere la connessione del browser in qualsiasi luogo utilizzi { -brand-name-firefox }. È facile e veloce da attivare ogni volta che ne hai bisogno per una maggiore sicurezza nel tuo browser.
+vpn-or-proxy-vpns-devicelevel-protection = VPN: protezione a livello di dispositivo
+vpn-or-proxy-vpns-do-more = Le VPN fanno più dei proxy: un proxy protegge solo ciò che fai nel tuo browser, mentre una VPN protegge tutto il tuo traffico, incluso il tuo browser, su qualunque dispositivo tu abbia una VPN installata e attiva. Le VPN forniscono maggiore sicurezza e privacy per tutte le tue attività online: una considerazione importante se vuoi tenere la tua attività privata e rendere più difficile per i servizi traccianti e per gli ISP affamati di dati creare un tuo profilo attraverso tutti i tuoi dispositivi, come il telefono, il computer e il tablet.
+vpn-or-proxy-a-vpn-works = Una VPN funziona creando un “tunnel” sicuro tra il tuo dispositivo e Internet in generale. Protegge la tua privacy in due modi fondamentali:
+vpn-or-proxy-concealing-your-ip = Nascondendo il tuo indirizzo IP e la tua posizione e proteggendo la tua identità.
+vpn-or-proxy-encrypting-your-traffic = Crittando il traffico tra te e il tuo fornitore VPN in modo che nessuno sulla tua rete locale possa decifrarlo o modificarlo.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = Una VPN offre anche sicurezza su connessioni Wi-Fi aperte e pubbliche. Il Wi-Fi aperto può essere rischioso ed è impossibile avere la certezza che qualcun altro non si connetta alla stessa rete per curiosare su ciò che stai facendo. Anche se il tuo traffico è crittato, possono comunque vedere quali siti stai visitando. Inoltre, se stai utilizzando un’app che non ha la crittografia, e anche al giorno d'oggi molte non ne dispongono, allora possono vedere tutto ciò che stai facendo in quell’app. { -brand-name-mozilla-vpn } è un servizio veloce, sicuro e affidabile che può aiutarti a colmare il divario di sicurezza. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ti consente anche di scegliere la tua “posizione” (da dove sembra provenire il tuo traffico) da oltre { $countries } Paesi.
+vpn-or-proxy-choose-a-trustworthy = Scegli un servizio affidabile
