@@ -38,3 +38,8 @@ vpn-ip-address-you-dont-need = Você não precisa ocultar seu endereço de IP, m
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Existem também situações em que há motivos para ocultar seu endereço IP. Você pode querer ocultar durante uma viagem. Uma VPN também oferece <a href="{ $url }">mais privacidade</a> ao se conectar a uma rede WiFi para assistir vídeos ou fazer compras enquanto explora o mundo.
 vpn-ip-address-how-do-you = Como ocultar?
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is = Uma VPN é uma forma de ocultar seu endereço IP. <a href="{ $vpn }">Quando você usa uma VPN</a>, seu endereço IP externo vem do IP externo do servidor VPN, em vez do endereço IP externo de sua localização. Assim, se o servidor de conexão VPN estiver na Califórnia, seu IP externo faz parecer que você está conectado na Califórnia, não importa onde realmente esteja. Além disso, sua atividade online é enviada através de uma conexão criptografada e segura para o servidor VPN, proporcionando segurança e privacidade adicionais. Usar o <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> é uma maneira de ocultar seu endereço IP. Não mantemos registro de atividades nem fazemos parceria com plataformas analíticas de terceiros. Oferecemos proteção completa de até cinco dispositivos, com servidores em mais de { $countries } países. Você pode se conectar a qualquer um deles, de qualquer lugar.
