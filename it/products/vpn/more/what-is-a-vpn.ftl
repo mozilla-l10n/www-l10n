@@ -7,3 +7,6 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Che cos’è una VPN?
+vpn-what-is-many-of-us = Molti di noi utilizzano Internet più ore al giorno per svolgere attività come guardare video, fare acquisti, giocare e pagare le bollette, fino alla gestione di progetti di lavoro complessi e videochiamate riservate. Una <strong>Rete Privata Virtuale (VPN)</strong> è uno dei modi migliori per navigare online in modo sicuro, restando privati e proteggendo i dati personali.
+vpn-what-is-how-do-vpns = Come funzionano le VPN?
+vpn-what-is-encrypting-your-traffic = Crittando il traffico tra te e il tuo provider VPN in modo che nessuno sulla tua rete locale possa decifrarlo o modificarlo.
