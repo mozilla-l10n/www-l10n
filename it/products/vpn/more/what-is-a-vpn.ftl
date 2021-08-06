@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Che cos’è una VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Ottieni le risposte alle nove domande più comuni sulle VPN, in modo da poter capire che cosa fanno, quando usarne una e perché.
 vpn-what-is-many-of-us = Molti di noi utilizzano Internet più ore al giorno per svolgere attività come guardare video, fare acquisti, giocare e pagare le bollette, fino alla gestione di progetti di lavoro complessi e videochiamate riservate. Una <strong>Rete Privata Virtuale (VPN)</strong> è uno dei modi migliori per navigare online in modo sicuro, restando privati e proteggendo i dati personali.
 vpn-what-is-how-do-vpns = Come funzionano le VPN?
 vpn-what-is-a-vpn-is = Una VPN è uno strumento che ti consente di accedere a Internet in modo sicuro ovunque tu sia. Una VPN crea un “tunnel” sicuro tra il tuo dispositivo e il tuo fornitore VPN, e ti protegge in due modi fondamentali:
