@@ -63,3 +63,7 @@ compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } t
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar = { -brand-name-firefox } též nabízí podobnou synchronizační funkci, pokud si vytvoříte bezplatný <a { $attrs }>{ -brand-name-firefox-account(case: "acc") }</a>, který uživatelům umožňuje snadno synchronizovat záložky, historii prohlížení, nastavení, hesla, vyplněné formuláře, doplňky a posledních 25 otevřených panelů v různých počítačích. { -brand-name-firefox } se od { -brand-name-safari(case: "gen") } liší především tím, že je k dispozici na jakékoli počítačové nebo mobilní platformě: { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } nebo { -brand-name-mac }, což zvyšuje jeho přenosnost na jakékoli zařízení, které můžete vlastnit.
+# Variables:
+#   $ios (string) - link to Apple store with additional attributes for analytics
+#   $android (string) - link to Google Play store with additional attributes for analytics
+compare-safari-the-firefox-app-for-ios-and = Aplikace { -brand-name-firefox } pro <a { $ios }>{ -brand-name-ios }</a> a pro <a { $android }>{ -brand-name-android }</a> je jedním z nejrychlejších dostupných prohlížečů a disponuje rovněž spolehlivými funkcemi zabezpečení a ochrany proti sledování – což je obrovská výhoda, pokud neustále přecházíte mezi notebookem a mobilními zařízeními.
