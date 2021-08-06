@@ -49,6 +49,11 @@ vpn-langing-faq-uses-question-heading = VPN क्या होता है औ
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = जैसे-जैसे इंटरनेट पर रोज़मर्रा की ज़िंदगी का दखल बढ़ता जा रहा है, वैसे-वैसे ऑनलाइन निजता और सुरक्षा और भी ज़्यादा ज़रूरी होती जा रही है। VPN यानी <a href="{ $url }">वर्चुअल प्राइवेट नेटवर्क</a> आपको इंटरनेट का एक सुरक्षित, गोपनीय कनेक्शन बनाने में मदद कर सकता है। यह आपके डिवाइस और इंटरनेट के बीच एक “सुरंग” की तरह काम करता है और दो महत्वपूर्ण ढंग से आपकी सुरक्षा करता है:
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = आपके वास्तविक <a href="{ $url }">आईपी एड्रेस</a> को छुपाकर। यह आपकी पहचान की सुरक्षा करता है और आपकी लोकेशन को छुपाता है।
+
+# Obsolete string
 vpn-landing-faq-uses-conceal = आपका वास्तविक आईपी एड्रेस छुपाकर। यह आपकी पहचान की सुरक्षा करता है और आपकी लोकेशन को छुपाता है।
 vpn-landing-faq-uses-encrypt = आप और आपके VPN प्रदाता के बीच के ट्रैफिक को एन्क्रिप्ट करके, ताकि आपके स्थानीय नेटवर्क में कोई भी उसे पढ़ न सके या उससे छेड़छाड़ न कर सके।
 
