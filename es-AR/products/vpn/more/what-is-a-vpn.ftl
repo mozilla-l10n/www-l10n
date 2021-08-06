@@ -27,6 +27,7 @@ vpn-what-is-protecting-your-connection = Proteger la conexión a una red WiFi p�
 vpn-what-is-ensuring-the-confidentiality = Garantizar la confidencialidad e integridad del acceso a Internet.
 vpn-what-is-make-it-more = Dificultar que las redes publicitarias usen tu IP para crear perfiles de orientación de anuncios que te rastrean en la web.
 vpn-what-is-what-are-the = ¿Cuáles son las desventajas de usar una VPN?
+vpn-what-is-some-service-providers = Algunos proveedores de servicios bloquean las visitas realizadas a través de VPN, haciendo que su contenido sea inaccesible cuando se activa una VPN. Algunas VPN pueden bajar la velocidad o restringir el ancho de banda. Y algunas VPN tienen ranquean muy bajo en términos de respeto a la privacidad y seguridad del usuario.
 vpn-what-is-are-vpns-safe = ¿Las VPNs son seguras?
 vpn-what-is-can-vpns-protect = ¿Las VPNs me protegen de los cibercriminales?
 vpn-what-is-are-vpns-legal = ¿Las VPNs son legales?
