@@ -39,6 +39,10 @@ vpn-or-proxy-encrypting-your-traffic = Crittando il traffico tra te e il tuo for
 vpn-or-proxy-a-vpn-also = Una VPN offre anche sicurezza su connessioni Wi-Fi aperte e pubbliche. Il Wi-Fi aperto può essere rischioso ed è impossibile avere la certezza che qualcun altro non si connetta alla stessa rete per curiosare su ciò che stai facendo. Anche se il tuo traffico è crittato, possono comunque vedere quali siti stai visitando. Inoltre, se stai utilizzando un’app che non usa la crittografia, e anche al giorno d’oggi molte non la utilizzano, allora possono vedere tutto ciò che stai facendo in quell’app. { -brand-name-mozilla-vpn } è un servizio veloce, sicuro e affidabile che può aiutarti a colmare il divario di sicurezza. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ti consente anche di scegliere la tua “posizione” (da dove sembra provenire il tuo traffico) da oltre { $countries } Paesi.
 vpn-or-proxy-choose-a-trustworthy = Scegli un servizio affidabile
 # Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-or-proxy-the-most-important = La cosa più importante da considerare quando si sceglie tra una VPN o un servizio proxy, è scegliere un’azienda affidabile. Assicurati di aver compreso i termini di servizio che accetti. Molti affermano di dare priorità alla privacy, ma molti di loro non mantengono le promesse. Non tutti i servizi proxy e VPN sono sicuri e privati. <a href="{ $cnet }">Alcuni</a> <a href="{ $pcmag }">registreranno</a> le tue attività online in modo da poter vendere i tuoi dati e le tue informazioni alle società di marketing. Altri servizi cercheranno di convincerti a installare malware sui tuoi dispositivi.
+# Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $fpn (url) - https://fpn.firefox.com/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
