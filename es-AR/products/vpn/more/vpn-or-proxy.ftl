@@ -23,4 +23,8 @@ vpn-or-proxy-vpns-devicelevel-protection = VPNs: protección a nivel de disposit
 vpn-or-proxy-a-vpn-works = Una VPN funciona creando un ”túnel“ seguro entre tu dispositivo e Internet en general. Protege tu privacidad de dos maneras principales:
 vpn-or-proxy-concealing-your-ip = Ocultando tu dirección IP, protegiendo tu identidad y ocultando tu ubicación.
 vpn-or-proxy-encrypting-your-traffic = Cifrando el tráfico entre vos y tu proveedor de VPN para que nadie en tu red local pueda descifrarlo o modificarlo.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = Una VPN también ofrece seguridad en las conexiones WiFi públicas y abiertas. Abrir una red WiFi puede ser riesgoso y es imposible estar seguro de que alguien más no se está conectando a la misma red para husmear lo que estás haciendo. Incluso si tu tráfico está cifrado, todavía pueden ver los sitios que estás visitando. Y si estás usando una aplicación que no tiene cifrado — incluso hoy, muchas no lo tienen — entonces pueden ver todo lo que estás haciendo en esa aplicación. { -brand-name-mozilla-vpn } es un servicio rápido, seguro y confiable que puede ayudar a cerrar la brecha de seguridad para ti. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> también te permite elegir tu “ubicación“ (de donde parece que viene tu tráfico) de más de { $countries } países.
 vpn-or-proxy-choose-a-trustworthy = Eligiendo un servicio confiable
