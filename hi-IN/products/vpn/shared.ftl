@@ -128,5 +128,8 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = मोबाइल
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = आईपी एड्रेस क्या होता है?
+vpn-subnav-when-to-use-a-vpn = VPN का उपयोग कब करें
+vpn-subnav-vpn-vs-proxy = VPN बनाम प्रॉक्सी
 
 ##
