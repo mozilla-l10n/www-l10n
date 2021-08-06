@@ -27,8 +27,14 @@ vpn-what-is-protecting-your-connection = Proteger la conexión a una red WiFi p�
 vpn-what-is-ensuring-the-confidentiality = Garantizar la confidencialidad e integridad del acceso a Internet.
 vpn-what-is-make-it-more = Dificultar que las redes publicitarias usen tu IP para crear perfiles de orientación de anuncios que te rastrean en la web.
 vpn-what-is-what-are-the = ¿Cuáles son las desventajas de usar una VPN?
-vpn-what-is-some-service-providers = Algunos proveedores de servicios bloquean las visitas realizadas a través de VPN, haciendo que su contenido sea inaccesible cuando se activa una VPN. Algunas VPN pueden bajar la velocidad o restringir el ancho de banda. Y algunas VPN tienen ranquean muy bajo en términos de respeto a la privacidad y seguridad del usuario.
+vpn-what-is-some-service-providers = Algunos proveedores de servicios bloquean las visitas realizadas a través de VPN, haciendo que su contenido sea inaccesible cuando se activa una VPN. Algunas VPN pueden bajar la velocidad o restringir el ancho de banda. Y algunas VPN ranquean muy bajo en términos de respeto a la privacidad y seguridad del usuario.
 vpn-what-is-are-vpns-safe = ¿Las VPNs son seguras?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-what-is-weve-done-the = Hemos hecho el trabajo necesario para asegurarnos de que <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> respete realmente tu privacidad y es algo en lo que estamos dispuestos a poner en riesgo nuestra reputación. { -brand-name-mozilla } tiene una reputación de crear productos que te ayudan a mantener tu información segura. Seguimos nuestros <a href="{ $principles }">principios de privacidad de datos</a> fáciles de leer, sin tonterías que nos permiten centrarnos solamente en la información que necesitamos para proporcionar un servicio. La tecnología de { -brand-name-mozilla-vpn } es simple y moderna para ofrecer a los usuarios una conexión rápida con protección completa y seguridad de VPN. Y como los fabricantes de está VPN están respaldados por una compañía <a href="{ $mission }">dirigida por una misión</a>, podés confiar en que el dinero que gastás en este producto no solo asegurará que tenés una VPN de primer nivel, sino que también están haciendo que Internet sea mejor para todos.
 vpn-what-is-can-vpns-protect = ¿Las VPNs me protegen de los cibercriminales?
 vpn-what-is-are-vpns-legal = ¿Las VPNs son legales?
 vpn-what-is-installing-and-using = Instalar y utilizar una VPN es actualmente legal en la mayoría de los países, incluidos los Estados Unidos, el Reino Unido, Canadá y Nueva Zelanda, pero algunos países pueden regular su uso. Si elegís usar una VPN, es tu responsabilidad revisar la ley del país para determinar si el uso es legal o no.
