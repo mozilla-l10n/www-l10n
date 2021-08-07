@@ -69,7 +69,7 @@
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-private-network = Red privada de Firefox
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
@@ -136,15 +136,15 @@
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = SO Chrome
 -brand-name-ios = iOS
 -brand-name-linux = Linux
--brand-name-ubuntu = Ubuntu
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
--brand-name-vista = Vista
--brand-name-chromeos = SO Chrome
 
 ## Apple products
 
