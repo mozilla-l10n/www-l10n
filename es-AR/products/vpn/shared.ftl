@@ -10,7 +10,7 @@ vpn-shared-subscribe-link = Obtener { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Unite a la lista de espera
 vpn-shared-sign-in-link = ¿Ya estás suscripto?
 # Outdated string
-vpn-shared-available-countries = en este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Reino Unido, Canadá, Nueva Zelanda, Singapur y Malasia.
+vpn-shared-available-countries = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Reino Unido, Canadá, Nueva Zelanda, Singapur y Malasia.
 # Outdated string
 vpn-shared-available-countries-v2 = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Reino Unido, Alemania, Francia, Canadá, Nueva Zelanda, Singapur y Malasia.
 vpn-shared-available-countries-v3 = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Malasia, Nueva Zelanda y Singapur.
