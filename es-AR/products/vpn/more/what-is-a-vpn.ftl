@@ -21,6 +21,7 @@ vpn-what-is-connecting-to-a = Conectarse a una red WiFi pública a veces es conv
 vpn-what-is-wait-i-thought = Pará, pará, pará. Pensé que mi tráfico de internet ya estaba cifrado con HTTPS…
 vpn-what-is-its-true-that = Es cierto que la mayoría de las conexiones a sitios web en estos días están seguras con HTTPS, lo que significa que el contenido, pero no la dirección IP de origen o destino, está cifrado. Una VPN ofrece privacidad adicional al impedir que los sitios web y terceros vean tu dirección IP.
 vpn-what-is-why-would-i = ¿Por qué debería usar una VPN?
+vpn-what-is-hiding-your-identity = Ocultar tu identidad y esconder tu tráfico web puede parecer algo que solo hacen los súper expertos en tecnología o personajes turbios. Sin embargo, hay una serie de razones legítimas por las que se puede querer usar una VPN, incluyendo:
 vpn-what-is-keeping-your-online = Mantener la actividad en línea privada.
 vpn-what-is-keeping-your-home = Mantener la ubicación de casa o los lugares más visitados en privado.
 vpn-what-is-protecting-your-connection = Proteger la conexión a una red WiFi pública, como en un café, aeropuerto, tienda o biblioteca.
@@ -29,6 +30,7 @@ vpn-what-is-make-it-more = Dificultar que las redes publicitarias usen tu IP par
 vpn-what-is-what-are-the = ¿Cuáles son las desventajas de usar una VPN?
 vpn-what-is-some-service-providers = Algunos proveedores de servicios bloquean las visitas realizadas a través de VPN, haciendo que su contenido sea inaccesible cuando se activa una VPN. Algunas VPN pueden bajar la velocidad o restringir el ancho de banda. Y algunas VPN ranquean muy bajo en términos de respeto a la privacidad y seguridad del usuario.
 vpn-what-is-are-vpns-safe = ¿Las VPNs son seguras?
+vpn-what-is-its-very-hard = Es muy difícil encontrar una VPN confiable. Las VPNs tienen como objetivo proteger a los usuarios mientras están en línea, pero no todas las VPNs son iguales en el servicio que prestan. Cuando comprés por un servicio VPN, asegurate de entender los términos que aceptas. Muchos dicen ser grandes y centrarse en la privacidad, pero muchos de ellos no cumplen su promesa. Algunas VPNs registrarán tus actividades en línea para poder vender tus datos e información a las empresas de marketing. Otras VPNs intentarán convencerte de instalar malware en tus dispositivos.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
