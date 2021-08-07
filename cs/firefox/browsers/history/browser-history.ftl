@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = Historie prohlížečů: Epické boje o moc, které nám přinesly moderní prohlížeče
 browser-history-the-history-of-web = Historie webových prohlížečů
 browser-history-resources = Zdroje
 browser-history-take-control-of = Převezměte kontrolu nad svým prohlížečem.
