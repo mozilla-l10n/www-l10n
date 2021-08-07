@@ -128,5 +128,8 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = モバイル
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = IP アドレスとは？
+vpn-subnav-when-to-use-a-vpn = VPN を使うべき場面
+vpn-subnav-vpn-vs-proxy = VPN とプロキシの比較
 
 ##
