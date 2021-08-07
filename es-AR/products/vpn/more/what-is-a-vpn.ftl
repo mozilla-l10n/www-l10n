@@ -39,4 +39,10 @@ vpn-what-is-can-vpns-protect = ¿Las VPNs me protegen de los cibercriminales?
 vpn-what-is-are-vpns-legal = ¿Las VPNs son legales?
 vpn-what-is-installing-and-using = Instalar y utilizar una VPN es actualmente legal en la mayoría de los países, incluidos los Estados Unidos, el Reino Unido, Canadá y Nueva Zelanda, pero algunos países pueden regular su uso. Si elegís usar una VPN, es tu responsabilidad revisar la ley del país para determinar si el uso es legal o no.
 vpn-what-is-are-vpns-only = ¿Las VPNs son solo para computadoras?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-vpns-can-be = Las VPNs pueden usarse para proteger todos sus dispositivos — computadoras, notebooks, tablets y teléfonos. Si accedés a Internet a través de aplicaciones independientes fuera del navegador, una VPN es una buena opción para proteger tu privacidad y seguridad en cualquier dispositivo. Necesitarás instalar una VPN en cada dispositivo para que sea efectivo. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ofrece una conexión ilimitada para hasta cinco dispositivos cuando se conecta a internet desde cualquier aplicación o navegador.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rápida, segura, confiable
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio en el que podés confiar para mantener tu conexión a Internet segura en todos tus dispositivos. No guardamos registros de datos del usuario y no nos asociamos con plataformas de análisis de terceros que quieran crear un perfil de lo que hacés en línea. En un mundo donde la imprevisibilidad se ha convertido en la “nueva normalidad“, sabemos que es más importante que nunca para vos sentirse seguro y saber que lo que haces en línea es asunto tuyo.
