@@ -8,7 +8,7 @@
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = La diferencia entre VPN y proxy web
 # HTML page description and intro
-vpn-or-proxy-vpns-and-proxies-are = VPNs y los proxys son soluciones para la privacidad y la seguridad en línea. Así es como te protegen y cómo elegir la mejor opción.
+vpn-or-proxy-vpns-and-proxies-are = VPNs y proxys son soluciones para la privacidad y la seguridad en línea. Así es como te protegen y cómo elegir la mejor opción.
 vpn-or-proxy-virtual-private-networks = Las redes privadas virtuales (VPN) y los proxys web seguros son soluciones para una mejor privacidad y seguridad en línea, pero puede resultar confuso descubrir cuál es el adecuado para vos. Acá te mostramos cómo te protegen estos servicios y cómo elegir la mejor opción para cuando estés en línea.
 vpn-or-proxy-when-should-you = ¿Cuándo deberías elegir una VPN o un proxy seguro?
 vpn-or-proxy-vpns-and-secure = Las VPNs y los proxys web seguros tienen metas compartidas: aseguran las conexiones. Pueden, y lo hacen, enmascarar la dirección IP original y protegen el tráfico web enviado entre vos y el proveedor de VPN o el proxy seguro. Pero ¿cuándo deberías usar VPN vs. proxy?
