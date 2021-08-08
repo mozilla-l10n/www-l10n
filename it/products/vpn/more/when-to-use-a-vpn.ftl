@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 motivi per cui dovresti utilizzare una VPN
+# HTML page description and intro
+vpn-when-to-use-here-are-five = Ecco cinque casi, che potresti non aver considerato prima, in cui una VPN affidabile potrebbe rivelarsi utile. Colma le lacune riguardanti la tua sicurezza online con { -brand-name-mozilla-vpn }.
 # Variables
 #   $vpn (url) - https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 vpn-when-to-use-as-more-of = Dal momento che sempre di più la vita quotidiana si svolge attraverso le connessioni internet, i problemi di privacy e sicurezza online diventano ancora più importanti. Una VPN, <a href="{ $vpn }">Virtual Private Network</a>, può aiutarti a stabilire una connessione sicura e privata attraverso la creazione di un “tunnel” tra il tuo dispositivo e Internet, proteggendoti in due modi importanti:
@@ -33,3 +35,9 @@ vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, un servizio VPN aff
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
 vpn-when-to-use-the-most-important = La cosa più importante da considerare quando si sceglie una VPN, è scegliere un’azienda affidabile. Assicurati di aver compreso i termini di servizio che accetti. Molti affermano di dare priorità alla privacy, ma molti di loro non mantengono le promesse. Non tutti i servizi proxy e VPN sono sicuri e privati. <a href="{ $cnet }">Alcuni</a> <a href="{ $pcmag }">registreranno</a> le tue attività online in modo da poter vendere i tuoi dati e le tue informazioni alle società di marketing. Altri servizi cercheranno di convincerti a installare malware sui tuoi dispositivi.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-when-to-use-weve-done-the = Abbiamo fatto tutto il possibile per garantire che <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> rispetti effettivamente la tua privacy e siamo disposti a scommetterci la nostra reputazione. { -brand-name-mozilla } ha la fama di creare prodotti che ti aiutano a proteggere le tue informazioni. Seguiamo i nostri semplici e trasparenti <a href="{ $principles }">Principi sulla privacy dei dati</a> che ci consentono di concentrarci solo sulle informazioni di cui abbiamo bisogno per fornire un servizio. E poiché siamo supportati da un’azienda <a href="{ $mission }">guidata da una missione</a>, puoi star tranquillo che i soldi spesi per questo prodotto non solo ti garantiranno una sicurezza di altissimo livello, ma contribuiranno a rendere Internet un posto migliore per tutti.
