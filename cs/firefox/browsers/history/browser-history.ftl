@@ -11,5 +11,8 @@ browser-history-the-history-of-web = Historie webových prohlížečů
 browser-history-world-history-is = Světové dějiny jsou plné epických bojů o moc, tyranů dobývajících svět a hrdinných poražených. Historie webových prohlížečů není o moc jiná. Univerzitní průkopníci napsali jednoduchý software, který odstartoval informační revoluci a boj o nadvládu prohlížečů a o uživatele internetu.
 browser-history-before-web-era = Předwebová éra
 browser-history-in-1950-computers = V roce 1950 zabíraly počítače celé místnosti a byly hloupější než dnešní kapesní kalkulačky. Pokrok byl ale rychlý a do roku 1960 byly schopny zpracovávat složité programy. Vlády a univerzity po celém světě si myslely, že by bylo skvělé, kdyby stroje uměly mluvit, což by podpořilo vzájemnou spolupráci a vědecký pokrok.
+# Variables:
+#   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
+browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> byl prvním úspěšným projektem sítě a v roce 1969 byla z laboratoře počítačové vědy na Kalifornské univerzitě v Los Angeles (UCLA) do Stanfordského výzkumného institutu (SRI), rovněž v Kalifornii, odeslána první zpráva.
 browser-history-resources = Zdroje
 browser-history-take-control-of = Převezměte kontrolu nad svým prohlížečem.
