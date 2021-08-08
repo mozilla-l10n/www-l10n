@@ -27,5 +27,8 @@ browser-history-by-1993-the-web = V roce 1993 nastal obrovský rozmach webu. Uni
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic běžel na počítačích se systémem { -brand-name-windows }, snadno se používal a umožňoval každému, kdo měl počítač, přístup k prvním webovým stránkám, chatovacím místnostem a knihovnám obrázků. V následujícím roce (1994) Andreessen založil <a href="{ $netscape }">{ -brand-name-netscape(case: "acc") }</a> a uvolnil pro veřejnost { -brand-name-netscape(case: "acc") } Navigator. Ten byl mimořádně úspěšný a stal se prvním prohlížečem pro obyčejné lidi. Byl to také první krok v novém druhu války o uživatele internetu.
 browser-history-the-browser-wars = Válka prohlížečů
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = V roce 1995 nepředstavoval { -brand-name-netscape } Navigator jediný způsob, jak se dostat na internet. Softwarový gigant { -brand-name-microsoft } si licencoval starý kód Mosaicu a vytvořil vlastní okno do webu, <a href="{ $ie }">{ -brand-name-ie(case: "acc") }</a>. Jeho vydání rozpoutalo válku. Společnosti { -brand-name-netscape } a { -brand-name-microsoft } horečně pracovaly na nových verzích svých programů a každá se snažila překonat tu druhou nabídkou rychlejších a lepších produktů.
 browser-history-resources = Zdroje
 browser-history-take-control-of = Převezměte kontrolu nad svým prohlížečem.
