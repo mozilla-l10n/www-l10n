@@ -10,6 +10,8 @@ vpn-when-to-use-5-reasons-you-should = 5 motivi per cui dovresti utilizzare una 
 # Variables
 #   $vpn (url) - https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 vpn-when-to-use-as-more-of = Dal momento che sempre di più la vita quotidiana si svolge attraverso le connessioni internet, i problemi di privacy e sicurezza online diventano ancora più importanti. Una VPN, <a href="{ $vpn }">Virtual Private Network</a>, può aiutarti a stabilire una connessione sicura e privata attraverso la creazione di un “tunnel” tra il tuo dispositivo e Internet, proteggendoti in due modi importanti:
+vpn-when-to-use-encrypting-your-traffic = Crittando il traffico tra te e il tuo fornitore VPN in modo che nessuno sulla tua rete locale possa decifrarlo o modificarlo.
+vpn-when-to-use-having-a-vpn = Avere una VPN a portata di mano quando serve, è una buona idea. Ecco alcune situazioni, che potresti non aver considerato prima, in cui una VPN affidabile potrebbe esserti utile.
 vpn-when-to-use-1-a-walk = 1. Una passeggiata nel parco
 vpn-when-to-use-2-in-the = 2. Nel quartiere
 vpn-when-to-use-3-on-the = 3. In movimento
