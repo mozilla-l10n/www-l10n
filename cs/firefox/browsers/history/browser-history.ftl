@@ -16,5 +16,9 @@ browser-history-in-1950-computers = V roce 1950 zabíraly počítače celé mís
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> byl prvním úspěšným projektem sítě a v roce 1969 byla z laboratoře počítačové vědy na Kalifornské univerzitě v Los Angeles (UCLA) do Stanfordského výzkumného institutu (SRI), rovněž v Kalifornii, odeslána první zpráva.
 browser-history-that-sparked-a-revolution = To vyvolalo revoluci v počítačových sítích. Vznikly nové sítě, které propojily univerzity a výzkumná centra po celém světě. Po dalších 20 let však nebyl internet přístupný veřejnosti. Byl vyhrazen pouze univerzitním a vládním výzkumníkům, studentům a soukromým společnostem. Existovaly sice desítky programů, které dokázaly vyměňovat informace po telefonních linkách, ale použití žádného z nich nebylo snadné. Skutečně otevřený internet a první webový prohlížeč vznikl až v roce 1990.
 browser-history-web-era = Webová éra
+# Variables:
+#   $cern (url) - https://home.cern/topics/birth-web
+browser-history-british-computer = Britský počítačový vědec Tim Berners-Lee vytvořil první webový server a grafický webový prohlížeč v roce 1990, když <a href="{ $cern }">pracoval v CERNu</a>, Evropské organizaci pro jaderný výzkum zřízené ve Švýcarsku. Své nové okno do internetu nazval „WorldWideWeb“. Jednalo se o snadno použitelné grafické rozhraní vytvořené pro počítač NeXT. Poprvé byly textové dokumenty vzájemně propojeny prostřednictvím veřejné sítě – webu, jak ho známe.
+browser-history-a-year-later-berners = O rok později Berners-Lee požádal studentku matematiky v CERNu Nicolu Pellowovou, aby napsala Line Mode Browser, program pro základní počítačové terminály.
 browser-history-resources = Zdroje
 browser-history-take-control-of = Převezměte kontrolu nad svým prohlížečem.
