@@ -23,5 +23,9 @@ browser-history-a-year-later-berners = O rok později Berners-Lee požádal stud
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = V roce 1993 nastal obrovský rozmach webu. Univerzity, vlády i soukromé společnosti spatřovaly v otevřeném internetu příležitost. Pro přístup k němu všichni potřebovali nové počítačové programy. Toho roku vytvořil počítačový vědec Marc Andreessen v Národním centru pro superpočítačové aplikace (NCSA) na Illinoiské univerzitě v Urbana-Champaign program Mosaic. Byl to vůbec první masově rozšířený webový prohlížeč a raný předchůdce <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox(case: "gen") }</a>.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic běžel na počítačích se systémem { -brand-name-windows }, snadno se používal a umožňoval každému, kdo měl počítač, přístup k prvním webovým stránkám, chatovacím místnostem a knihovnám obrázků. V následujícím roce (1994) Andreessen založil <a href="{ $netscape }">{ -brand-name-netscape(case: "acc") }</a> a uvolnil pro veřejnost { -brand-name-netscape(case: "acc") } Navigator. Ten byl mimořádně úspěšný a stal se prvním prohlížečem pro obyčejné lidi. Byl to také první krok v novém druhu války o uživatele internetu.
+browser-history-the-browser-wars = Válka prohlížečů
 browser-history-resources = Zdroje
 browser-history-take-control-of = Převezměte kontrolu nad svým prohlížečem.
