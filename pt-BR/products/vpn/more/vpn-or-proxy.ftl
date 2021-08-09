@@ -21,6 +21,10 @@ vpn-or-proxy-isps-can-use = Um provedor de internet pode usar essas informaçõe
 vpn-or-proxy-when-should-you = Quando você deve escolher uma VPN ou um proxy seguro?
 vpn-or-proxy-vpns-and-secure = VPN e proxy web seguro têm o mesmo objetivo: proteger conexões. Eles ocultam seu endereço IP original e protegem o tráfico web enviado entre você e sua VPN ou provedor de proxy seguro. Mas quando escolher usar uma VPN ou um proxy?
 vpn-or-proxy-secure-web-proxy = Proxy web seguro: Proteção no nível do navegador
+vpn-or-proxy-a-secure-web = Um proxy web seguro é eficaz em tarefas que você faz apenas no seu navegador. Isso pode incluir muitas atividades, como compras, pagamento de contas, uso de mídias sociais e leitura de emails. Um proxy web seguro serve como intermediário entre seu navegador e a internet. Seus dados de navegação passam por um túnel seguro para a internet, diretamente do navegador, ocultando seu endereço IP para que o servidor web em que está conectado não saiba exatamente em que lugar do mundo você está. Isso dificulta te rastrear e direcionar anúncios.
+# Variables
+#   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
+vpn-or-proxy-a-proxy-is-useful = Um proxy é útil quando você está navegando na web em uma rede WiFi pública. Quando um proxy está ativado, ele impede que bisbilhoteiros na mesma rede espiem sua atividade de navegação ou leiam suas transações em sites não criptografados. Parece inofensivo, mas redes WiFi públicas podem ser usadas como porta de entrada para <a href="{ $url }">hackers</a>.
 vpn-or-proxy-vpns-devicelevel-protection = VPN: Proteção no nível do dispositivo
 vpn-or-proxy-concealing-your-ip = Oculta seu endereço IP, protegendo sua identidade e dificultando descobrir sua localização.
 vpn-or-proxy-encrypting-your-traffic = Criptografa o tráfego entre você e seu provedor de VPN para que ninguém em sua rede local possa decifrar ou modificar.
