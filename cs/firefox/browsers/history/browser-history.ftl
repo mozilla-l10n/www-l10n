@@ -33,5 +33,8 @@ browser-history-by-1995-netscape = V roce 1995 nepředstavoval { -brand-name-net
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = Společnost { -brand-name-netscape } vytvořila a uvolnila JavaScript, který webovým stránkám poskytl dosud nevídané výpočetní možnosti. (Vytvořili také nechvalně proslulou <a href="{ $blink }">značku &lt;blink&gt;</a>.) { -brand-name-microsoft } odpověděl kaskádovými styly (CSS), které se staly při tvorbě webových stránek standardem.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = V roce 1997, kdy { -brand-name-microsoft } vydal { -brand-name-ie(case: "acc") } 4.0, se situace trochu vymkla kontrole. Jeho tým postavil obří písmeno „e“ a propašoval ho na trávník sídla společnosti { -brand-name-netscape }. Tým { -brand-name-netscape(case: "gen") } obří písmeno „e“ okamžitě povalil a <a href="{ $dino }">postavil na něj svého maskota, dinosaura { -brand-name-mozilla(case: "acc") }</a>.
 browser-history-resources = Zdroje
 browser-history-take-control-of = Převezměte kontrolu nad svým prohlížečem.
