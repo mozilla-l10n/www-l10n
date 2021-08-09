@@ -36,5 +36,9 @@ browser-history-netscape-created = Společnost { -brand-name-netscape } vytvoři
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
 browser-history-things-got-a-little = V roce 1997, kdy { -brand-name-microsoft } vydal { -brand-name-ie(case: "acc") } 4.0, se situace trochu vymkla kontrole. Jeho tým postavil obří písmeno „e“ a propašoval ho na trávník sídla společnosti { -brand-name-netscape }. Tým { -brand-name-netscape(case: "gen") } obří písmeno „e“ okamžitě povalil a <a href="{ $dino }">postavil na něj svého maskota, dinosaura { -brand-name-mozilla(case: "acc") }</a>.
+# Variables:
+#   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
+#   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
+browser-history-then-microsoft-began = Poté začal { -brand-name-microsoft } dodávat { -brand-name-ie(case: "acc") } se svým operačním systémem { -brand-name-windows }. Během čtyř let měl 75 % trhu a v roce 1999 už 99 % trhu. Společnost kvůli tomu čelila antimonopolnímu řízení, a { -brand-name-netscape } se rozhodl otevřít zdrojový kód své kódové báze a vytvořil neziskovou organizaci <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, která pak v roce 2002 vytvořila a vydala { -brand-name-firefox(case: "acc") }. Uvědomovala si, že monopolní postavení prohlížeče není v nejlepším zájmu uživatelů a otevřeného webu, a tak byl vytvořen { -brand-name-firefox }, aby uživatelům webu poskytl možnost volby. Do roku 2010 { -brand-name-mozilla }{ -brand-name-firefox } a další prohlížeče <a href="{ $marketshare }">snížily podíl { -brand-name-ie(case: "gen") } na trhu na 50 %</a>.
 browser-history-resources = Zdroje
 browser-history-take-control-of = Převezměte kontrolu nad svým prohlížečem.
