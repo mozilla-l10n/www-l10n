@@ -12,6 +12,7 @@ vpn-desktop-hero-headline = Zawěsććo swój internetny zwisk z { -brand-name-m
 vpn-desktop-wifi-headline = Cujśo se wěsty – teke w zjawnem WLAN
 vpn-desktop-about-headline = Wó { -brand-name-mozilla }
 vpn-desktop-privacy-headline = Priwatnosć z jadnym kliknjenim
+vpn-desktop-privacy-copy = Nałoženje { -brand-name-mozilla-vpn } waš internetny zwisk koděrujo a chowa wašu IP-adresu na wašom mobilnem telefonje abo tableśe z pomocu rozšyrjonego protokola { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Zwězajśo se ze serwerami na cełem swěśe
 # Variables:
 #   $devices (number) - number of available devices
