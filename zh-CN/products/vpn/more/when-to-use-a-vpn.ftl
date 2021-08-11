@@ -7,5 +7,8 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 您应该使用 VPN 的 5 个理由
-vpn-when-to-use-1-a-walk = 1. 徜徉于公园
+vpn-when-to-use-1-a-walk = 1. 公园散步
+vpn-when-to-use-3-on-the = 3. 旅途中
+vpn-when-to-use-4-home-away = 4. 暂歇处
+vpn-when-to-use-5-in-your = 5. 在家中
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }，可信赖的 VPN 服务
