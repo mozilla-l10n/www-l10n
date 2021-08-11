@@ -8,6 +8,7 @@
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = VPN 和 Web 代理之间的区别
 vpn-or-proxy-stop-isps-from = 阻止 ISP 对您的监视
+vpn-or-proxy-when-should-you = 何时应该选择 VPN 或安全代理？
 vpn-or-proxy-secure-web-proxy = 安全 Web 代理：浏览器级保护
 vpn-or-proxy-vpns-devicelevel-protection = VPN：设备级保护
 vpn-or-proxy-a-vpn-works = VPN 的工作原理就是在您的设备和整个互联网之间建立一个安全的“隧道”。它主要在两方面保护您的隐私：
