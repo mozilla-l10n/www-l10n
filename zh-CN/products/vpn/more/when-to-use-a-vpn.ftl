@@ -3,8 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use/
+### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 您应该使用 VPN 的 5 个理由
+vpn-when-to-use-1-a-walk = 1. 徜徉于公园
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }，可信赖的 VPN 服务
