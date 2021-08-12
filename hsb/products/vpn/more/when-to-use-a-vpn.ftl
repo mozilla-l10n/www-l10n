@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use/
+### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
+# HTML page title and main title
+vpn-when-to-use-5-reasons-you-should = 5 přičinow, čehodla wy dyrbjał VPN wužiwać
 vpn-when-to-use-concealing-your-true = Waša woprawdźita IP-adresa so schowa, štož wašu identita škita a waše stejnišćo znjespóznajomni.
 vpn-when-to-use-1-a-walk = 1. Přechodźowanje w parku
 vpn-when-to-use-2-in-the = 2, Wu susodstwje
