@@ -58,31 +58,6 @@ manifesto-an-internet-with-these = الإنترنت بهذه الصفات لن �
 manifesto-i-support-the-vision-of = أؤيد رؤية إنترنت أفضل وصحي من @mozilla، هل ستنضم إليّ؟
 manifesto-share-on-twitter = مشاركة على { -brand-name-twitter }
 manifesto-our-10-principles = <strong>مبادئنا العشرة</strong>
-manifesto-use-open-badges-to-share = استخدم "الشارات المفتوحة" لمُشاركة مهاراتك واهتماماتك
-manifesto-explore-how-the-web-impacts = اكتشاف كيف يُؤثر الويب على العلم
-manifesto-learn-about-open-source = التعرّف على التعليمات البرمجية مفتوحة المصدر في الصحافة
-manifesto-read-about-open-internet = الاطّلاع على عمليات تطوير ومبادرات سياسة الإنترنت المفتوح
-manifesto-explore-how-to-help-keep = اكتشاف كيفية المساعدة في إبقاء الويب مفتوحًا
-manifesto-see-how-the-web-can-connect = مشاهدة كيف يُمكن للويب أن يربط العالم بالرعاية الصحية
-manifesto-explore-how-the-web-works = اكتشاف طريقة عمل الويب
-manifesto-see-how-mozilla-works = معرفة كيف يعمل { -brand-name-mozilla } لوضع خصوصيتك في المقام الأول
-manifesto-read-about-developments = التعرّف على التطورات في الخصوصية وأمان البيانات
-manifesto-learn-more-about-how-to = معرفة المزيد حول كيفية حماية نفسك عبر الإنترنت
-manifesto-use-these-free-tools-to = استخدم هذه الأدوات المجانية لتعليم الويب
-manifesto-learn-about-creating-and = التعرّف على كيفية إنشاء المحتوى وتنظيمه للويب
-manifesto-add-new-voices-to-open = إضافة أصوات جديدة في جانب التكنولوجيا مفتوحة المصدر
-manifesto-set-your-do-not-track = تعيين تفضيل "عدم التعقب"
-manifesto-understand-the-web-ecosystem = فهم النظام البيئي للويب
-manifesto-explore-how-open-practices = استكشف كيف تحافظ المُمارسات المفتوحة على إمكانية الوصول إلى الويب
-manifesto-learn-how-to-remix-content = تعرّف على كيفية إعادة مزج المُحتوى لإنشاء شيء جديد
-manifesto-learn-how-to-maximize = اطّلع عل كيفية تعزيز الإمكانيات التفاعلية للوِيب
-manifesto-participate-in-our-governance = ساهم في مُنتدى الحوكمة
-manifesto-join-us-as-a-volunteer = انضم إلينا كمُتطوّع
-manifesto-learn-how-to-collaborate = تعرف على كيفية التعاون عبر الإنترنت
-manifesto-visualize-who-you-interact = تعرّف على من تتفاعل معه على الويب عبر { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = تعرف على كيفية إنشاء موارد الويب مع الآخرين
-manifesto-host-or-join-a-maker-party = استضِف { -brand-name-maker-party } أو انضم إليها
-manifesto-learn-how-to-build-online = تعرّف على كيفية بناء مهارات التعاون عبر الإنترنت
 manifesto-read-the-entire-manifesto = اقرأ البيان كاملًا
 manifesto-love-the-web = هل تُحب الويب؟
 manifesto-get-the-mozilla-newsletter = احصل على رسائل { -brand-name-mozilla } الإخبارية، وساعدنا في إبقائها مفتوحة ومجانية.
