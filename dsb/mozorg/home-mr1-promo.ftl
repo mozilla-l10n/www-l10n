@@ -18,3 +18,7 @@ home-promo-desc-ryan-updated = Wuměłcowka, grajaŕka, atletka a aktiwistka, fa
 home-promo-desc-lalo = Restawrator, fan Firefox
 # Obsolete string
 home-promo-desc-soraya = Meblowy designer, fan Firefox
+# Obsolete string
+home-promo-desc-gary = Zgótowaŕ surfowańskich delkow, fan Firefox
+# Obsolete string
+home-promo-desc-ryan = Wuměłcowka, grajaŕka, atletka a aktiwistka, fanowka Firefox

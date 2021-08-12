@@ -16,4 +16,7 @@ features-shared-password-manager = Zastojnik gronidłow
 features-shared-customize-your-browser = Pśiměŕśo swój wobglědowak
 features-shared-sync-between-devices = Synchronizěrujśo mjazy rědami
 features-shared-better-bookmarks = Lěpše cytańske znamjenja
+features-shared-fingerprinter-blocking = Blokěrowanje palcowych wótśišćow
+features-shared-translate-the-web = Web pśełožyś
+features-shared-picture-in-picture = Wobraz-we-wobrazu
 brand-name-firefox = { -brand-name-firefox }
