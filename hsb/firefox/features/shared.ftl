@@ -16,4 +16,7 @@ features-shared-password-manager = Zrjadowak hesłow
 features-shared-customize-your-browser = Přiměrće swój wobhladowak
 features-shared-sync-between-devices = Synchronizujće mjez gratami
 features-shared-better-bookmarks = Lěpše zapołožki
+features-shared-fingerprinter-blocking = Blokowanje porstowych wotćišćow
+features-shared-translate-the-web = Web přełožować
+features-shared-picture-in-picture = Wobraz-we-wobrazu
 brand-name-firefox = { -brand-name-firefox }

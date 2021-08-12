@@ -57,3 +57,6 @@ firefox-new-visit-support-for-more = Wopytajće strony pomocy za dalše podrobno
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = { -brand-name-firefox-browser } sćahnyć
+firefox-new-fast = Spěšny, priwatny a darmotny
+firefox-new-from-mozilla = wot { -brand-name-mozilla }
+firefox-new-download-a-different = Za druhu platformu a rěč sćahnyć
