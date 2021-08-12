@@ -17,6 +17,12 @@ vpn-landing-hero-sub-heading = Wěstota, na kotruž móžeće so spušćić. Mje
 vpn-landing-hero-desc = Wirtualna priwatna syć wot wuwiwarjow { -brand-name-firefox }.
 vpn-landing-privacy-heading = Priwatnosć z jednym podótkom
 vpn-landing-fast-secure-heading = Spěšna a wěsta syć
+# Obsolete string
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } w globalnej syći serwerow běži, kotraž so wot <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a> wobhospodarja. Z pomocu rozšěrjeneho protokola <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, zaklučujemy wašu syćowu aktiwitu a chowamy wašu IP-adresu. Njeprotokolujemy, njeslědujemy abo njedźělimy waše syćowe daty.
 vpn-landing-brand-trust-heading = VPN wot marki, kotrejž móžeće dowěrić
 
 ## FAQ section

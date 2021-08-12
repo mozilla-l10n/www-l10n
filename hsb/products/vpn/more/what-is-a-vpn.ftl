@@ -13,3 +13,7 @@ vpn-what-is-when-should-i = Hdy dyrbjał ja VPN wužiwać?
 vpn-what-is-why-would-i = Čehodla dyrbjał ja VPN wužiwać?
 vpn-what-is-what-are-the = Kotre njelěpšiny wužiwanje VPN ma?
 vpn-what-is-are-vpns-safe = Su VPN wěste?
+vpn-what-is-can-vpns-protect = Móža VPN mje před cyberkriminelnymi škitać?
+vpn-what-is-are-vpns-legal = Su VPN legalne?
+vpn-what-is-are-vpns-only = Su VPN jenož za ličaki?
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Spěšny, wěsty, dowěry hódny.
