@@ -72,6 +72,7 @@ does-firefox-have = Ma { -brand-name-firefox } zatwarjony VPN?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+firefox-does-not = { -brand-name-firefox } zatwarjony VPN (virtual private network „wirtuelna priwatna seś“) njama, ale stej dwa produkta zgótowjonej wót { -brand-name-mozilla }/{ -brand-name-firefox }, kótarejž móžośo pśidatnje k priwatnemu { -brand-name-firefox-browser }, kótaryž móžo pak swój wobglědowak (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) abo rědowy (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) zwisk na WLAN ako teke wašu IP-adresu šćita.
 related-questions-ip = Pódobne pšašanja: Chowa { -brand-name-firefox } wašu IP-adresu
 who-owns-firefox = Komu { -brand-name-firefox } słuša?
 
