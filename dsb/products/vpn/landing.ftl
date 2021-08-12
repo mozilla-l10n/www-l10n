@@ -22,7 +22,7 @@ vpn-landing-fast-secure-heading = Malsna a wěsta seś
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } w globalnej seśi serwerow běžy, kótaraž se wót <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a> wobgóspodarjujo. Z pomocu rozšyrjonego protokola <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, koděrujomy wašu seśowu aktiwitu a chowamy swašu IP-adresu. Njeprotokulěromy, njeslědujomy abo njeźělimy waše seśiwe daty.
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } w globalnej seśi serwerow běžy, kótaraž se wót <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a> wobgóspodarjujo. Z pomocu rozšyrjonego protokola <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, koděrujomy wašu seśowu aktiwitu a chowamy wašu IP-adresu. Njeprotokolěrujomy, njeslědujomy abo njeźělimy waše seśowe daty.
 vpn-landing-brand-trust-heading = VPN wót marki, kótarejž móžośo dowěriś
 
 ## FAQ section
