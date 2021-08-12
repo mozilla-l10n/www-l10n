@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = O que é uma VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Consiga respostas a nove dúvidas comuns sobre VPNs para ficar informado sobre o que elas fazem, quando usar e por quê.
 vpn-what-is-how-do-vpns = Como funcionam as VPNs?
 vpn-what-is-concealing-your-ip = Oculta seu endereço IP, protegendo sua identidade e localização.
 vpn-what-is-encrypting-your-traffic = Criptografa o tráfego entre você e seu provedor de VPN para que ninguém em sua rede local possa decifrar ou modificar.
