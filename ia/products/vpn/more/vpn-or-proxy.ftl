@@ -23,4 +23,11 @@ vpn-or-proxy-isps-can-use = ISPs pote usar iste informationes pro mirar lor prop
 vpn-or-proxy-when-should-you = Quando deberea tu eliger un VPN o un proxy secur?
 vpn-or-proxy-vpns-and-secure = Le VPNs e le proxies de web secur ha scopos in commun: render secur le connexiones. Illos pote mascar tu original adresse IP e proteger le traffico web que tu invia inter te e tu fornitor de VPN o proxy secur. Ma quando volera tu usar un VPN contra un proxy?
 vpn-or-proxy-secure-web-proxy = Proxy de web secur: protection a nivello de navigator
+vpn-or-proxy-a-secure-web = Un proxy de web secur functiona pro activitates que tu pote facer solo in tu navigator. Illo pote attinger multe activitates como: compras, pagar facturas, registration in retes social e lectura de e-mails. Un proxy de web secur servi como intermediario inter tu navigator e internet. Tu datos de navigation del web passara a transverso de un tunnel secur a internet directemente de tu navigator, disguisante tu adresse IP, assi le servitor de web que tu continge non sape exactemente ubi tu es in le mundo. E isto rende plus ardue traciar te e prender te de mira.
+# Variables
+#   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
+vpn-or-proxy-a-proxy-is-useful = Un proxy es utile quando tu naviga le web sur un rete wi-fi public. Quando un proxy es activate, illo impedira le spias, del mesme rete, de spiar sur le activitate de tu navigation o lectura de tu transactiones sur sitos non cryptate. Il pare innocente, ma le retes wi-fi public pote esser como un porta de servicio pro <a href="{ $url }">le piratas informatic</a>.
+# Variables
+#   $fpn (url) - https://fpn.firefox.com
+vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> es un extension de navigator facile a installar, que offere un secur, cryptate tunnel al web pro proteger tu navigator connexion ubique tu usa { -brand-name-firefox }. Il es rapide e facile activar lo, quandocunque illo te besonia pro major securitate in tu navigator.
 vpn-or-proxy-encrypting-your-traffic = Cryptante tu traffico inter te e tu fornitor de VPN assi que nemo sur tu rete local pote decifrar lo o modificar lo.
