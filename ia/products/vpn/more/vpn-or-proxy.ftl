@@ -35,3 +35,19 @@ vpn-or-proxy-vpns-do-more = VPNs face plus que proxies, nam un proxy solo proteg
 vpn-or-proxy-a-vpn-works = Un VPN functiona per le creation de un secur “tunnel” inter tu apparato e internet in general. Illo protege tu confidentialitate in duo manieras clave:
 vpn-or-proxy-concealing-your-ip = Occultante tu adresse IP, protegente tu identitate e obscurante tu position.
 vpn-or-proxy-encrypting-your-traffic = Cryptante tu traffico inter te e tu fornitor de VPN assi que nemo sur tu rete local pote decifrar lo o modificar lo.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = Le rete wi-fi aperte pote esser riscose, e il es impossibile esser secur que alcuno altere non es connexe al identic rete pro spiar lo que tu face. Mesmo si tu traffico es cryptate, illes pote ancora vider qual sitos tu visita. E si tu usa un app sin cryptation, e mesmo hodie multe non lo ha, illes pote vider toto lo que tu face in ille app. { -brand-name-mozilla-vpn } es un rapide, secur, digne de fide servicio que pote adjutar plenar le lacuna de securitate pro te. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> alsi te permitte de eliger tu “position” apparente (de ubi tu traffico appare venir) de plus que { $countries } paises.
+vpn-or-proxy-choose-a-trustworthy = Elige un servicio digne de fide
+# Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-or-proxy-the-most-important = Le plus importante cosa a considerar quando on elige un VPN o un servicio proxy es le election de un compania digne de fide. Cura de comprender le terminos que tu accepta. Multe assere de esser formidabile e attente al confidentialitate, ma un grande numero de illes rumpe lor promissa. Non tote le proxies e le servicios VPN es secur e private. Alcun <a href="{ $cnet }">volera</a> <a href="{ $pcmag }">registrar</a> tu activitates online pro que illes poter vender tu datos e informationes a lor proprie interprisas de marketing. Altere servicios probara a convincer te de installar malware sur tu apparatos.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $fpn (url) - https://fpn.firefox.com/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-or-proxy-weve-done-the = Nos ha facite le labor necessari pro permitter a ambe le extensiones proxy <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> e <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> de realmente respectar tu confidentialitate, e sur isto nos es preste a mitter in joco nostre reputation. { -brand-name-mozilla } ha un reputation pro crear productos que te adjuta a mantener secur tu informationes. Nos seque nostre <a href="{ $principles }">Principios de confidentialitate del datos</a> facile a leger, sin-nonsensos, que permitte nos de concentrar nos solo sur le informationes necessari pro fornir un servicio. E pois que nos es supportate per un compania <a href="{ $mission }">ducite per mission</a>, tu pote te fider que le dollars que tu expende pro iste producto non solo te assecurara que tu ha un VPN de maxime grado, ma alsi rende internet melior pro totes.
