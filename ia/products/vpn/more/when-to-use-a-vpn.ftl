@@ -18,6 +18,8 @@ vpn-when-to-use-having-a-vpn = Haber un VPN a tu punctas de digito, quando te be
 vpn-when-to-use-1-a-walk = 1. Un promenada in le parco
 vpn-when-to-use-its-a-beautiful = Il es un belle sabbato matino, e tu ha sedite sur un banco de parco pro sorber un caffe e actualisar te sur tu favorite sitos de novas, spectar alcun videos e facer alcun rapide compras online prendente sol e area fresc. Plus tosto que exhaurir tu datos mobile assignate, tu accede al servicio de rete wi-fi public de tu citate. Il es gratis, e flue per le citate, assi illo debe esser ok, justo? De facto, tu non pote esser certe que le rete municipal es secur o mesmo real (vider le sequente puncto) e implementate pro proteger te de maligne personas o entitates que spia sur te durante que tu es connectite. Activar un VPN pote adjutar proteger tu apparato de quicunque proba a spiar le sitos que tu visita o robar tu informationes de accesso sensibile, durante que tu es extendite sur ille banco de parco ulle die del septimana.
 vpn-when-to-use-2-in-the = 2. In le vicinitate
+vpn-when-to-use-3-on-the = 3. In movimento
+vpn-when-to-use-4-home-away = 4. In casa, distante de casa
 vpn-when-to-use-5-in-your = 5. In tu proprie casa
 vpn-when-to-use-make-sure-you = Verifica que tu comprende lo que un VPN non face
 # Variables
