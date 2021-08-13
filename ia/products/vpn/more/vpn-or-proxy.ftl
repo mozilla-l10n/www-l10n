@@ -21,4 +21,6 @@ vpn-or-proxy-because-your-internet =
     Perque vole ISPs facer isto? In breve: iste datos es preciose.
 vpn-or-proxy-isps-can-use = ISPs pote usar iste informationes pro mirar lor proprie aviso publicitari o pro opportunitates de monetisation que pote includer compartimento de tu informationes con tertie partes interessate in sondage de datos, marketing e publicitate mirate, isto significa minus confidentialitate e plus traciamento. Navigar in modo private non impedi al ISPs de vider ubi tu va online. Ma inviar tu traffico web a transverso de un proxy web o VPN pote render lo multo plus ardue.
 vpn-or-proxy-when-should-you = Quando deberea tu eliger un VPN o un proxy secur?
+vpn-or-proxy-vpns-and-secure = Le VPNs e le proxies de web secur ha scopos in commun: render secur le connexiones. Illos pote mascar tu original adresse IP e proteger le traffico web que tu invia inter te e tu fornitor de VPN o proxy secur. Ma quando volera tu usar un VPN contra un proxy?
+vpn-or-proxy-secure-web-proxy = Proxy de web secur: protection a nivello de navigator
 vpn-or-proxy-encrypting-your-traffic = Cryptante tu traffico inter te e tu fornitor de VPN assi que nemo sur tu rete local pote decifrar lo o modificar lo.
