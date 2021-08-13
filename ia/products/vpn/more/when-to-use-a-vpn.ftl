@@ -20,6 +20,7 @@ vpn-when-to-use-its-a-beautiful = Il es un belle sabbato matino, e tu ha sedite 
 vpn-when-to-use-2-in-the = 2. In le vicinitate
 vpn-when-to-use-3-on-the = 3. In movimento
 vpn-when-to-use-4-home-away = 4. In casa, distante de casa
+vpn-when-to-use-if-you-are = Si tu loca un placia temporari pro labor remote o planifica un futur vacantia Airbnb, il es probabile que il habera un wi-fi gratis. Mesmo si le wi-fi es protegite detra un contrasigno, isto non lo rende automaticamente secur e private. Pro comenciar, le hoste pote acceder le rete pro traciar lo que tu face online. Alsi, si ille non ha cambiate le contrasigno inter hospites, ulle prior hospite pote reconnecter se al latere de te. In ultra, un hospite precedente pote haber accedite le router del location, e installate software que le permitte de spiar lo a distantia. Multo a considerar! A minus de saltar le wi-fi integremente, le melior action es de usar un VPN digne de fide quandocunque tu connecte tu computator, telephono o tabletta a internet, de un placia locate. Isto vale pro hotels e albergos, alsi.
 vpn-when-to-use-5-in-your = 5. In tu proprie casa
 vpn-when-to-use-make-sure-you = Verifica que tu comprende lo que un VPN non face
 # Variables
