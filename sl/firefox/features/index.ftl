@@ -39,3 +39,4 @@ features-index-download-latest = Prenesite najnovejši { -brand-name-firefox }
 features-index-fingerprinter-blocking = Zavračanje sledilcev prstnih odtisov
 features-index-fingerprinting-is-a = Sledenje prstnim odtisom brskalnikov ("fingerprinting") je način sledenja na spletu, ki je invazivnejši od običajnega sledenja s piškotki – zato ga { -brand-name-firefox-browser } preprečuje.
 features-index-translate-the-web = Prevedite splet
+features-index-picture-in-picture = Slika v sliki
