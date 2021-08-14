@@ -78,7 +78,7 @@ firefox-desktop-download-cryptominer-blocking = Blocco dei cryptominer
 firefox-desktop-download-private-browsing-mode = Modalità di navigazione anonima
 firefox-desktop-download-individual-protections-report = Rapporto sulla protezione personalizzato
 firefox-desktop-download-secure-your-personal = Proteggi le tue informazioni personali
-firefox-desktop-download-breached-website-alerts = Avvisi per i siti web violati
+firefox-desktop-download-breached-website-alerts = Avvisi per i siti web con violazioni
 firefox-desktop-download-built-in-password = Gestione password integrata
 firefox-desktop-download-clear-history = Opzione per cancellare la cronologia
 firefox-desktop-download-form-autofill = Compilazione automatica dei moduli
@@ -175,6 +175,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Stai utilizzando un 
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Il download dovrebbe iniziare automaticamente. In caso contrario, <a id="{ $id }" href="{ $fallback_url }">fai clic qui</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è molto più di un browser.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Il download è stato interrotto, ma non tutto è perduto.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
