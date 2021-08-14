@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
 
 # HTML page title and main title
-vpn-or-proxy-the-difference-between = Skillnaden mellan en VPN och en webbproxy
+vpn-or-proxy-the-difference-between = Skillnaden mellan ett VPN och en webbproxy
 # HTML page description and intro
 vpn-or-proxy-vpns-and-proxies-are = VPN och proxyservrar är lösningar för integritet och säkerhet online. Så här skyddar du dig och väljer det bästa alternativet.
 vpn-or-proxy-virtual-private-networks = Virtuella privata nätverk (VPN) och säkra webbproxyer är lösningar för bättre integritet och säkerhet online, men det kan vara förvirrande att ta reda på vilken som är rätt för dig. Här tittar vi på hur dessa tjänster skyddar dig och hur du väljer det bästa alternativet när du är online.
