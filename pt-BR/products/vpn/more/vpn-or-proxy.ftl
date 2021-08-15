@@ -33,4 +33,8 @@ vpn-or-proxy-vpns-do-more = VPN faz mais do que proxy. Um proxy protege apenas o
 vpn-or-proxy-a-vpn-works = Uma VPN funciona criando um “túnel” seguro entre seu dispositivo e a internet. Ela protege sua privacidade de duas principais formas:
 vpn-or-proxy-concealing-your-ip = Oculta seu endereço IP, protegendo sua identidade e dificultando descobrir sua localização.
 vpn-or-proxy-encrypting-your-traffic = Criptografa o tráfego entre você e seu provedor de VPN para que ninguém em sua rede local possa decifrar ou modificar.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = Uma VPN também oferece segurança em conexões WiFi abertas e públicas. Usar uma rede WiFi aberta pode ser arriscado e é impossível ter certeza de que não há outra pessoa conectada na mesma rede para espionar o que você faz. Mesmo que seu tráfego seja criptografado, ela ainda pode ver quais sites você visita. E se você usar um aplicativo que não tenha criptografia — mesmo atualmente, muitos não têm — então ela pode ver tudo o que fizer nele. O { -brand-name-mozilla-vpn } é um serviço rápido, seguro e confiável que pode ajudar a eliminar lacunas de segurança. O <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> também permite escolher sua “localização” (de onde parece que seu tráfego vem) em mais de { $countries } países.
 vpn-or-proxy-choose-a-trustworthy = Escolha um serviço confiável
