@@ -53,3 +53,6 @@ vpn-what-is-are-vpns-only = Är VPN endast för datorer?
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = VPN kan användas för att skydda alla dina enheter — datorer, bärbara datorer, surfplattor och telefoner. Om du ansluter till internet via fristående appar bortom webbläsaren är ett VPN ett bra val för att skydda din integritet och säkerhet på alla enheter. Du måste installera ett VPN på varje enhet för att det ska vara effektivt. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> erbjuder obegränsad anslutning för upp till fem enheter när du ansluter till internet från en app eller webbläsare.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Snabb, säker, pålitlig
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> är en tjänst som du kan lita på för att hålla din anslutning till internet säker på alla dina enheter. Vi lagrar inte användardata och vi samarbetar inte med analysplattformar från tredje part som vill skapa en profil över vad du gör online. I en värld där oförutsägbarhet har blivit den "nya normalen", vet vi att det är viktigare än någonsin för dig att känna dig trygg och att du ska veta att det du gör online är din ensak.
