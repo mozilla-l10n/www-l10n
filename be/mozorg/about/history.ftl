@@ -25,6 +25,12 @@ history-by-creating-an-open-community = Стварыўшы адкрытую су
 history-community-members-got-involved = Удзельнікі супольнасці ўключыліся і пашырылі рамкі <a href="{ $mission }">першапачатковай місіі праекта</a> — замест таго, каб проста працаваць над наступнымі версіямі браўзера { -brand-name-netscape }, людзі пачалі ствараць <a href="{ $browsers }">розныя браўзеры</a>, <a href="{ $bugzilla }">інструменты распрацоўкі</a> і шэраг іншых <a href="{ $projects }">праектаў</a>.
 history-people-contributed-to-mozilla = Людзі рабілі свой уклад у { -brand-name-mozilla } па-рознаму, але ўсе захапляліся стварэннем бясплатнага праграмнага забеспячэння, якое дазволіла б людзям выбіраць спосабы працы ў Інтэрнэце.
 # Variables:
+#   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
+history-after-several-years-of-development = Пасля некалькіх гадоў распрацоўкі <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, першая мажорная версія, была выпушчана ў 2002 годзе. Гэтая версія ўнесла шмат паляпшэнняў у браўзер, паштовы кліент і ў іншыя праграмы, якія ўваходзяць у набор, але нямногія карысталіся ёю.
+# Variables:
+#   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
+history-by-2002-well-over-90 = Да 2002 года <a href="{ $over90 }">больш за 90% карыстальнікаў Інтэрнэту</a> аглядалі з дапамогай { -brand-name-ie }.
+# Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Адноўленая канкурэнцыя <a href="{ $innovation }">паскорыла інавацыі</a> і палепшыла Інтэрнэт для ўсіх.
 history-of-course-were-not-alone = Вядома, мы не самотныя ў гэтым.
