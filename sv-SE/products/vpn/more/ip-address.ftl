@@ -34,6 +34,9 @@ vpn-ip-address-should-you-hide = Ska du dölja din IP-adress?
 #   $doh (url) - https://support.mozilla.org/kb/firefox-dns-over-https
 #   $firefox (url) - https://www.mozilla.org/firefox/new/
 vpn-ip-address-you-dont-need = Du behöver inte dölja din IP-adress, men det kan finnas tillfällen som du kanske vill. Den vanligaste orsaken är integritet. I USA har <a href="{ $congress }">kongressen åsidosatt</a> sekretessbestämmelser som är utformade för att skydda bredbandsanvändares integritet. Internetleverantörer kan se dina surfvanor, vad du använder internet för och hur lång tid du spenderar på varje sida. Denna kommunikation är inte krypterad, så tredje part kan se vilken webbplats du besöker. Ett sätt att bekämpa detta är <a href="{ $doh }">DNS-over-HTTPS</a> (DoH). Detta krypterar din DNS-trafik (Domain Name System), vilket gör det svårare för Internetleverantörer att se de webbplatser du försöker besöka. För amerikanska <a href="{ $firefox }">{ -brand-name-firefox }-användare</a> riktas dina DoH-frågor som standard till betrodda DNS-servrar, vilket gör det svårare att associera dig med de webbplatser du försöker att besöka.
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-there-are-also = Det finns också situationer då du vill dölja din IP-adress. Du kanske vill dölja det när du reser. Ett VPN ger dig också <a href="{ $url }">mer integritet</a> när du ansluter till WiFi för att strömma och handla medan du utforskar världen.
 vpn-ip-address-how-do-you = Hur döljer du den?
 # Variables
 #   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
