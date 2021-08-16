@@ -41,7 +41,7 @@ vpn-or-proxy-choose-a-trustworthy = Escolha um serviço confiável
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
-vpn-or-proxy-the-most-important = O mais importante a considerar ao decidir entre uma VPN ou um serviço de proxy é escolher uma empresa confiável. Tenha certeza de que compreende os termos com que irá concordar. Muitos desses serviços alegam ser ótimos e focados em privacidade, mas grande parte deles não cumpre as promessas. Nem todos os serviços de proxy e VPN são seguros e privativos. Alguns <a href="{ $cnet }">irão</a> <a href="{ $pcmag }">gravar registro</a> de sua atividade online para poder, eles mesmos, vender suas informações e dados para empresas de marketing. Outros tentarão te convencer a instalar malware (aplicativo com código malicioso) em seus dispositivos.
+vpn-or-proxy-the-most-important = O mais importante a considerar ao decidir entre uma VPN ou um serviço de proxy é escolher uma empresa confiável. Tenha certeza de realmente compreender os termos com que concorda. Muitos desses serviços alegam ser ótimos e focados em privacidade, mas grande parte deles não cumpre as promessas. Nem todos os serviços de proxy e VPN são seguros e privativos. Alguns <a href="{ $cnet }">gravam</a> registro de sua <a href="{ $pcmag }">atividade</a> online para vender suas informações e dados para empresas de marketing. Outros tentam te convencer a instalar malware (aplicativo com código malicioso) em seus dispositivos.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $fpn (url) - https://fpn.firefox.com/
