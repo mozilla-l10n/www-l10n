@@ -18,6 +18,13 @@ history-within-the-first-year-new = Цягам <a href="{ $firstyear }">перш
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = Стварыўшы адкрытую супольнасць, праект { -brand-name-mozilla } стаў <a href="{ $stevecase }">большым за любую кампанію</a>.
 # Variables:
+#   $mission (url) link to https://www-archive.mozilla.org/mission.html
+#   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
+#   $bugzilla (url) link to https://www.bugzilla.org
+#   $projects (url) link to https://www.mozilla.org/firefox/
+history-community-members-got-involved = Удзельнікі супольнасці ўключыліся і пашырылі рамкі <a href="{ $mission }">першапачатковай місіі праекта</a> — замест таго, каб проста працаваць над наступнымі версіямі браўзера { -brand-name-netscape }, людзі пачалі ствараць <a href="{ $browsers }">розныя браўзеры</a>, <a href="{ $bugzilla }">інструменты распрацоўкі</a> і шэраг іншых <a href="{ $projects }">праектаў</a>.
+history-people-contributed-to-mozilla = Людзі рабілі свой уклад у { -brand-name-mozilla } па-рознаму, але ўсе захапляліся стварэннем бясплатнага праграмнага забеспячэння, якое дазволіла б людзям выбіраць спосабы працы ў Інтэрнэце.
+# Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Адноўленая канкурэнцыя <a href="{ $innovation }">паскорыла інавацыі</a> і палепшыла Інтэрнэт для ўсіх.
 history-of-course-were-not-alone = Вядома, мы не самотныя ў гэтым.
