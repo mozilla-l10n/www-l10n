@@ -24,4 +24,7 @@ vpn-when-to-use-2-in-the = 2. I grannskapet
 # "legit" is shortened slang for "legitimate"
 vpn-when-to-use-have-you-ever = Har du någonsin anslutit till en hotspot som heter <em>C0MCAST-WiFi-77th-St</em> eller <em>Verizon3-Hotspot-Baltimore</em>? Ser okej ut eller hur? Inte så fort. I verkligheten kan vem som helst skapa en falsk offentlig WiFi med ett legitimt namn som låter lura folk att använda det. Att ansluta till okänt WiFi gör dig till ett enkelt mål för kriminella som vill komma åt din enhet för att stjäla privat information, installera skadlig kod eller värre. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> kan öka din säkerhet varje gång du är ansluten till ett offentlig WiFi genom att blockera okända enheter från att se privata data som överförs från din telefon eller bärbara dator. Detta gäller anslutning till WiFi-nätverk på kaféer, butiker, läkarmottagningar och så vidare.
 vpn-when-to-use-3-on-the = 3. På språng
+vpn-when-to-use-5-in-your = 5. I ditt eget hem
+vpn-when-to-use-for-the-most = För det mesta gäller scenarierna ovan inte för ditt hemnätverk, förutsatt att det har konfigurerats korrekt med ett starkt lösenord och säkerhetsåtgärder. Men det betyder inte att du är fri från alla nyfikna ögon.
+vpn-when-to-use-make-sure-you = Se till att du förstår vad ett VPN inte gör
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, en pålitlig VPN-tjänst
