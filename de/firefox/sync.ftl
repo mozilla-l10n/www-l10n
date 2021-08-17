@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Greifen Sie auf Ihre Lesezeichen, Passwörter, offenen Tabs und mehr zu und synchronisieren Sie diese überall dort, wo Sie { -brand-name-firefox } verwenden.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Synchronisieren Sie { -brand-name-firefox } auf allen Geräten
 firefox-sync-privacy-made-easy = Datenschutz leicht gemacht
 firefox-sync-all-you-need = Alles, was Sie für { -brand-name-firefox-sync } benötigen, ist ein { -brand-name-firefox-account }
