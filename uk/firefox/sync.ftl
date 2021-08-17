@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Доступ та синхронізація ваших закладок, паролів, відкритих вкладок тощо — скрізь, де ви користуєтеся { -brand-name-firefox }.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Синхронізуйте { -brand-name-firefox } на будь-якому пристрої
 firefox-sync-privacy-made-easy = Приватність стала простою
 firefox-sync-all-you-need = Все, що вам потрібно для { -brand-name-firefox-sync }, це { -brand-name-firefox-account }.
