@@ -7,3 +7,4 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Τι είναι μια διεύθυνση IP;
+vpn-ip-address-does-your-ip = Αλλάζει η διεύθυνση IP σας;
