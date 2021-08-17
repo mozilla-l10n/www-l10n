@@ -20,7 +20,6 @@ browsers-chromebook-while-a-chromebook = Bien qu’un { -brand-name-chromebook }
 browsers-chromebook-alwayson-tracking-protection = Protection permanente contre le pistage : par défaut, { -brand-name-firefox } exécute la protection renforcée contre le pistage (ETP) pour protéger vos données personnelles contre les traqueurs publicitaires connus, les traqueurs sociaux et les scripts de minage de cryptomonnaies qui vous suivent sur le Web.
 browsers-chromebook-supporting-independent-technology = Un soutien aux technologies indépendantes : étant donné que la plupart des principaux navigateurs fonctionnent désormais grâce à { -brand-name-chromium }, il y a moins d’options qui ne sont pas intégrées aux grandes entreprises du numérique. { -brand-name-firefox } est soutenu par une organisation à but non lucratif et se consacre à réparer Internet. En utilisant { -brand-name-firefox }, vous participez à cela.
 browsers-chromebook-is-it-hard = Est-ce compliqué d’installer { -brand-name-firefox } pour { -brand-name-chromebook } ?
-browsers-chromebook-install-firefox-from = Installez { -brand-name-firefox } depuis { -brand-name-google-play } Store : sur les nouvelles versions de { -brand-name-chromeos } (x86 basée sur { -brand-name-chromebook } exécutant { -brand-name-chromeos } 80 ou ultérieur), vous pouvez installer l’application { -brand-name-firefox } pour { -brand-name-android }. Cette application est développée pour les appareils mobiles.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
