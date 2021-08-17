@@ -18,6 +18,7 @@ browsers-chromebook-dropdown-copy = Télécharger { -brand-name-firefox } pour {
 browsers-chromebook-why-get-firefox = Pourquoi installer <span>{ -brand-name-firefox }</span> pour { -brand-name-chromebook } ?
 browsers-chromebook-while-a-chromebook = Bien qu’un { -brand-name-chromebook } soit fourni avec { -brand-name-chrome }, télécharger et utiliser { -brand-name-firefox } comme navigateur de votre choix vous procure quelques avantages :
 browsers-chromebook-alwayson-tracking-protection = Protection permanente contre le pistage : par défaut, { -brand-name-firefox } exécute la protection renforcée contre le pistage (ETP) pour protéger vos données personnelles contre les traqueurs publicitaires connus, les traqueurs sociaux et les scripts de minage de cryptomonnaies qui vous suivent sur le Web.
+browsers-chromebook-supporting-independent-technology = Un soutien aux technologies indépendantes : étant donné que la plupart des principaux navigateurs fonctionnent désormais grâce à { -brand-name-chromium }, il y a moins d’options qui ne sont pas intégrées aux grandes entreprises du numérique. { -brand-name-firefox } est soutenu par une organisation à but non lucratif et se consacre à réparer Internet. En utilisant { -brand-name-firefox }, vous participez à cela.
 browsers-chromebook-is-it-hard = Est-ce compliqué d’installer { -brand-name-firefox } pour { -brand-name-chromebook } ?
 
 # Variables:
