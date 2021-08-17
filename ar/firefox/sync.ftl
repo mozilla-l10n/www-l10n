@@ -8,6 +8,7 @@ firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 
 firefox-sync-access-and-sync = قم بالوصول إلى الإشارات المرجعية وكلمات السرّ وعلامات التبويب المفتوحة والمزيد ومُزامنتها — من أي مكان تستخدم فيه { -brand-name-firefox }.
 
+
 firefox-sync-sync-your-firefox = مزامنة { -brand-name-firefox } على أي جهاز
 
 firefox-sync-privacy-made-easy = الخصوصية أسهل

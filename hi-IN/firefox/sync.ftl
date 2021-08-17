@@ -8,6 +8,7 @@ firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 
 firefox-sync-access-and-sync = अपने बुकमार्क, पासवर्ड, खुले टैब और भी बहुत कुछ सिंक करें — जहाँ भी आप { -brand-name-firefox } का उपयोग करते हैं।
 
+
 firefox-sync-sync-your-firefox = किसी भी डिवाइस पर { -brand-name-firefox } को सिंक करें
 
 firefox-sync-privacy-made-easy = निजता अब आसान है

@@ -8,6 +8,7 @@ firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 
 firefox-sync-access-and-sync = どこにいても { -brand-name-firefox } でブックマークやパスワードを同期させ、タブを開くことができます。
 
+
 firefox-sync-sync-your-firefox = { -brand-name-firefox } をあらゆるデバイスで同期
 
 firefox-sync-privacy-made-easy = プライバシーが手軽に
