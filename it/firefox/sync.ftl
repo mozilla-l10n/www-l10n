@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Accedi e sincronizza segnalibri, password, schede aperte e molto altro in tutti i dispositivi in cui usi { -brand-name-firefox }.
+firefox-sync-firefox = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-sync-sync-your-firefox = Sincronizza { -brand-name-firefox } su tutti i tuoi dispositivi
 firefox-sync-privacy-made-easy = La privacy facilitata
 firefox-sync-all-you-need = Per usare { -brand-name-firefox-sync } ti serve soltanto un { -brand-name-firefox-account }.
