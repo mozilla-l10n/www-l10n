@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = 在任何使用 { -brand-name-firefox } 的地方使用並同步書籤、密碼、開啟的分頁與更多資料。
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = 將您的 { -brand-name-firefox } 資料同步到任何裝置
 firefox-sync-privacy-made-easy = 很簡單就能保護隱私
 firefox-sync-all-you-need = 只需要註冊一組 { -brand-name-firefox-account }即可使用 { -brand-name-firefox-sync }。
