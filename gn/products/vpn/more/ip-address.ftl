@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = ¿Mba’épa IP kundaharape?
+# HTML page description and intro
+vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } ombohovái ne porandu IP kundaharape rehegua pe IP kundaharapete guive, mba’éichapa oku’e guive ha eñomisépa.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Peteĩ techapyrã IP kundaharape oguerekóva irundy papapy, ojeíva ojuehegui kyta rupive: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Ehekáramo nde IP kundaharape, ikatu hína ehecha kóicha.
