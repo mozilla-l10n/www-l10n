@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Érje el és szinkronizálja a könyvjelzőket, a jelszavakat és még többet – bárhol is használja a { -brand-name-firefox }ot.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Szinkronizálja a { -brand-name-firefox }ot fájlját bármely eszközön
 firefox-sync-privacy-made-easy = Könnyűvé tett adatvédelem
 firefox-sync-all-you-need = A { -brand-name-firefox-sync } használatához csak egy { -brand-name-firefox-account }ra van szüksége.
