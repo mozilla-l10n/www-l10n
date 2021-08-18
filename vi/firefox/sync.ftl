@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Truy cập và đồng bộ hóa dấu trang, mật khẩu, thẻ đang mở và hơn thế nữa — ở mọi nơi bạn sử dụng { -brand-name-firefox }.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Đồng bộ hóa { -brand-name-firefox } của bạn trên mọi thiết bị
 firefox-sync-privacy-made-easy = Quyền riêng tư được làm dễ dàng hơn
 firefox-sync-all-you-need = Tất cả những gì bạn cần cho { -brand-name-firefox-sync } là { -brand-name-firefox-account }.
