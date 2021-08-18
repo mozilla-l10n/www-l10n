@@ -16,4 +16,7 @@ features-shared-password-manager = Passwird manager
 features-shared-customize-your-browser = Mak yer stravaiger yer ain
 features-shared-sync-between-devices = Sync atween devices
 features-shared-better-bookmarks = Better buikmerks
+features-shared-fingerprinter-blocking = Fingirprenter Blockin
+features-shared-translate-the-web = Owerset the wab
+features-shared-picture-in-picture = Pictur-in-Pictur
 brand-name-firefox = { -brand-name-firefox }

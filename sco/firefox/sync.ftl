@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Hae ingang tae and sync yer buikmerks, passwirds, open tabs and mair — everywhaur ye yaise { -brand-name-firefox }.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Sync yer { -brand-name-firefox } on onie device
 firefox-sync-privacy-made-easy = Privacy makkit easy
 firefox-sync-all-you-need = Aw ye need fur { -brand-name-firefox-sync } is a { -brand-name-firefox-account }.

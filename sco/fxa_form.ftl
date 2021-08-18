@@ -5,4 +5,5 @@
 fxa-form-enter-your-email = <strong>Inpit yer email</strong> tae hae ingang tae { -brand-name-firefox-accounts }.
 fxa-form-email-address = Email address
 fxa-form-continue = Haud Forrit
+fxa-form-create-account = Mak accoont
 fxa-form-get-the-app = Get the app
