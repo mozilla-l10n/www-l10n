@@ -103,6 +103,8 @@ vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Κινητές συσκευές
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Τι είναι μια διεύθυνση IP;
+vpn-subnav-when-to-use-a-vpn = Πότε να χρησιμοποιήσετε ένα VPN
+vpn-subnav-vpn-vs-proxy = VPN vs διακομιστή μεσολάβησης
 
 ##
 

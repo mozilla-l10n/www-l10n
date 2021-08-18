@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Πρόσβαση και συγχρονισμός σελιδοδεικτών, κωδικών πρόσβασης, ανοικτών καρτελών και άλλων δεδομένων — όπου χρησιμοποιείτε το { -brand-name-firefox }.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Συγχρονίστε το { -brand-name-firefox } σας σε κάθε συσκευή
 firefox-sync-privacy-made-easy = Απόρρητο με ευκολία
 firefox-sync-all-you-need = Χρειάζεστε μόνο έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") } για το { -brand-name-firefox-sync }.
