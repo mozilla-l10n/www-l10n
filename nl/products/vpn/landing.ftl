@@ -40,6 +40,10 @@ vpn-langing-faq-uses-question-heading = Wat is een VPN en wat zijn de toepassing
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Naarmate meer van het dagelijkse leven via internet plaatsvindt, worden online privacy en beveiliging steeds belangrijker. Een VPN, <a href="{ $url }">Virtual Private Network</a>, kan u helpen een veilige privéverbinding met internet tot stand te brengen. Een VPN werkt door een ‘tunnel’ te creëren tussen uw apparaat en het algemene internet en beschermt u op twee belangrijke manieren:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Verbergen van uw werkelijke <a href="{ $url }">IP-adres</a>. Dit beschermt uw identiteit en verhult uw locatie.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Verbergen van uw werkelijke IP-adres. Dit beschermt uw identiteit en verhult uw locatie.
 vpn-landing-faq-uses-encrypt = Versleutelen van het verkeer tussen u en uw VPN-provider, zodat niemand op uw lokale netwerk het kan ontcijferen of aanpassen.
 # Variables:
