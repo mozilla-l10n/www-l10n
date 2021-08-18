@@ -16,4 +16,7 @@ features-shared-password-manager = Ñe’ẽñemi ñangarekohára
 features-shared-customize-your-browser = Emomba’ete ne kundahára
 features-shared-sync-between-devices = Embojuehe mba’e’oka
 features-shared-better-bookmarks = Techaukaha iporãvéva
+features-shared-fingerprinter-blocking = Kuãhũ ñandutigua juhuha jejoko
+features-shared-translate-the-web = Emoñe’ẽasa ñanduti
+features-shared-picture-in-picture = Picture-in-picture
 brand-name-firefox = { -brand-name-firefox }
