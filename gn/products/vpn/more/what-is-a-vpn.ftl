@@ -8,5 +8,9 @@
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = ¿Mba’épa VPN?
 vpn-what-is-how-do-vpns = ¿Mba’éicha omba’apo VPNs?
+vpn-what-is-when-should-i = ¿Araka’épa eipuruva’erã VPN?
+vpn-what-is-wait-i-thought = Epyta, aimo’ã jeku’e ñandutigua ipapapýma HTTPS ndive…
+vpn-what-is-why-would-i = ¿Mba’érepa eipuruva’erã VPN?
+vpn-what-is-keeping-your-online = Eikundaha ñanduti ñemiguávape.
 vpn-what-is-are-vpns-only = ¿Umi VPNsha’e mohendahápe g̃uarã añónte?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Ipya’e, hekorosã, jeroviaha
