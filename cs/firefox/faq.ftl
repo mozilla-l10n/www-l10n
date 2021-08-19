@@ -48,6 +48,7 @@ is-firefox-safe = Je { -brand-name-firefox } bezpečný?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = Nejen, že je { -brand-name-firefox } bezpečný, ale také pomáhá udržovat vaše data a soukromé informace v bezpečí. { -brand-name-firefox-browser } automaticky blokuje známé sledovací prvky třetích stran, sledovací prvky sociálních sítí a skripty pro těžbu kryptoměny a pro vytváření otisku prohlížeče, aby neshromažďovaly vaše údaje. <a href="{ $url }">Zjistěte více o ochraně soukromí v našich produktech.</a>
 related-questions-safe = A s tím souvisí: je { -brand-name-firefox } vhodný s ohledem na soukromí, je { -brand-name-firefox } bezpečný?
 does-firefox-sell = Prodává { -brand-name-firefox } vaše osobní data?
 
