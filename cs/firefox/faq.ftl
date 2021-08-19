@@ -48,7 +48,7 @@ is-firefox-safe = Je { -brand-name-firefox } bezpečný?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
-not-only-is = Nejen, že je { -brand-name-firefox } bezpečný, ale také pomáhá udržovat vaše data a soukromé informace v bezpečí. { -brand-name-firefox-browser } automaticky blokuje známé sledovací prvky třetích stran, sledovací prvky sociálních sítí a skripty pro těžbu kryptoměny a pro vytváření otisku prohlížeče, aby neshromažďovaly vaše údaje. <a href="{ $url }">Zjistěte více o ochraně soukromí v našich produktech.</a>
+not-only-is = Nejen, že je { -brand-name-firefox } bezpečný, ale také pomáhá udržovat v bezpečí vaše data a soukromé informace. { -brand-name-firefox-browser } automaticky blokuje známé sledovací prvky třetích stran, sledovací prvky sociálních sítí a skripty pro těžbu kryptoměny a pro vytváření otisku prohlížeče, aby neshromažďovaly vaše údaje. <a href="{ $url }">Zjistěte více o ochraně soukromí v našich produktech.</a>
 related-questions-safe = A s tím souvisí: je { -brand-name-firefox } vhodný s ohledem na soukromí, je { -brand-name-firefox } bezpečný?
 does-firefox-sell = Prodává { -brand-name-firefox } vaše osobní data?
 
@@ -57,7 +57,7 @@ does-firefox-sell = Prodává { -brand-name-firefox } vaše osobní data?
 
 nope-never-have = Ne, nikdy neprodával a nikdy nebude. Zároveň vaše data chráníme před mnoha reklamními společnostmi. Produkty { -brand-name-firefox } jsou navržené tak, aby vaše soukromí chránili. <a href="{ $url }">To vám slibujeme.</a>
 why-is-firefox = Proč je { -brand-name-firefox } tak pomalý?
-firefox-isnt-slow = { -brand-name-firefox } není pomalý… už. V roce 2017 jsme kompletně předělali jádro našeho prohlížeče (nazvané Quantum), abychom se ujistili, že { -brand-name-firefox } bude konkurenceschopný ve srovnání s ostatními prohlížeči. Zároveň naše blokování sledovacích prvků pomáhá rychlejšímu načítání stránek. Takže { -brand-name-firefox } je bleskurychlý bez jakéhokoliv narušení vašeho soukromí.
+firefox-isnt-slow = { -brand-name-firefox } není pomalý… už. V roce 2017 jsme kompletně předělali jádro našeho prohlížeče (nazvané Quantum), abychom zajistili, že bude { -brand-name-firefox } konkurenceschopný ve srovnání s ostatními prohlížeči. Zároveň naše blokování sledovacích prvků napomáhá rychlejšímu načítání stránek. Takže { -brand-name-firefox } je bleskurychlý bez jakéhokoliv narušení vašeho soukromí.
 is-firefox-chromium = Je { -brand-name-firefox } založený na { -brand-name-chromium(case: "loc") }?
 firefox-is-not = { -brand-name-firefox } není založený na { -brand-name-chromium(case: "loc") } (open-source jádro prohlížeče vytvořené pro { -brand-name-google(case: "acc") } { -brand-name-chrome }). Ve skutečnosti jsme jedním z posledních velkých prohlížečů, který ho nepoužívá. { -brand-name-firefox } běží na jádru Quantum, které jsme vytvořili speciálně pro { -brand-name-firefox(case: "acc") }. Díky tomu dokážeme zajistit, že je s vašimi daty zacházeno s respektem a důvěrně.
 does-firefox-use = Používá { -brand-name-firefox } vyhledávač { -brand-name-google }?
