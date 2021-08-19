@@ -10,6 +10,7 @@ features-translate-translate-the-web-title = Nechte si přeložit obsah na webu 
 # page description
 features-translate-translate-more-than = Přímo v { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } si můžete snadno přeložit obsah stránek z více než stovky jazyků.
 features-translate-translate-the-web = Přeložte si na webu cokoliv díky { -brand-name-firefox(case: "dat") }
+features-translate-the-google-translate = Rozšíření To { -brand-name-google } Translate pro { -brand-name-firefox(case: "acc") } zpřístupňuje web celému světu.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Získat toto rozšíření
 # $attrs (string) - link to https://translate.google.com/about/languages/
