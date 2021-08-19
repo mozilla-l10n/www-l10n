@@ -5,5 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
 
+# HTML page title and main title
+vpn-what-is-what-is-a-vpn = ¿Mba’épa VPN?
+vpn-what-is-how-do-vpns = ¿Mba’éicha omba’apo VPNs?
 vpn-what-is-are-vpns-only = ¿Umi VPNsha’e mohendahápe g̃uarã añónte?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Ipya’e, hekorosã, jeroviaha

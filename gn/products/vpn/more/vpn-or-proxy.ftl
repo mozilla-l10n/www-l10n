@@ -13,3 +13,4 @@ vpn-or-proxy-vpns-and-secure = VPN ha ñanduti proxy hekorosãva ohupytyse pete�
 vpn-or-proxy-secure-web-proxy = Proxy ñandutigua hekorosãva: ñemo’ã kundahára peve
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: ñemo’ã a mba’e’oka peve
 vpn-or-proxy-concealing-your-ip = Emokañývo nde IP kundaharape, omo’ãvo nde reratee ha oñomívo ne rendaite.
+vpn-or-proxy-choose-a-trustworthy = Eipurúvo mba’epuru jeroviaha
