@@ -12,4 +12,6 @@ features-pip-got-things-to-do-and-things-to-watch = Chcete pracovat a zároveň 
 features-pip-new-feature-firefox-multi-picture = Nová funkce: Multi obraz v obraze ve { -brand-name-firefox(case: "loc") }
 features-pip-cool-feature-picture-in-picture = Skvělá funkce: Obraz v obraze
 features-pip-get-more-done-with-pop-out-videos = S vyjímatelnými videi toho zvládnete víc
+features-pip-got-things-to-do-do-both-with = Máte něco na práci a něco ke zhlédnutí? Ve { -brand-name-firefox(case: "loc") } zvládnete obojí díky funkci Obraz v obraze. Umožňuje vyjmout video z webové stránky a připnout ho na obrazovku, abyste mohli pokračovat ve sledování, i když se přesunete na jinou stránku, do jiného panelu nebo jiné aplikace.
+features-pip-play-the-video = Přehrát video
 features-pip-heres-how-it-works = Jak to funguje:
