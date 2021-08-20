@@ -34,6 +34,9 @@ compare-safari-in-addition-to-the-regular = Avei umi tembiapoite orekomeméva eh
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = { -brand-name-safari } chaite, { -brand-name-firefox } amokyre’ỹ imboguatahára atýpe omoheñóivo <a { $attrs }>moĩmbaha ha jepysokue</a> kundahárape g̃uarã. Ha ore plataforma ha’e rupi ayvu ijurujáva, oĩ heta jeporavo ombojuajúva hetaiterei tembiapoite.
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated = Avei, eñemboheraguapývo { -brand-name-firefox } mba’etépe, eikekuaáta mba’epurukuéra ha’éva <a { $pocket }>{ -brand-name-pocket }</a> ojuajúva ne kundahára rehe. Pe votõ { -brand-name-pocket } { -brand-name-firefox } peg̃uarã omoneĩ eñongatúvo ñanduti kuatiarogue ha ta’ãngamýi { -brand-name-pocket }-pe peteĩ jekutúpente, emoñe’ẽkuaa hag̃uáicha apañuãi’ỹ rehe eime eimehápe, jepémo ñanduti’ỹre.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
