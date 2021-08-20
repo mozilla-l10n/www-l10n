@@ -15,5 +15,6 @@ features-fingerprinting-ditch-the-sticky = Zbavte se vlezlých reklam, které v�
 features-fingerprinting-every-fingerprint = Každý otisk je jedinečný.
 features-fingerprinting-download-firefox = Stáhnout { -brand-name-firefox(case: "acc") }
 features-fingerprinting-what-is-fingerprinting-body = Co je to vytváření otisku prohlížeče?
+features-fingerprinting-fingerprinting-is-a = Vytváření otisku prohlížeče je typ internetového sledování, které je invazivnější než běžné sledování pomocí cookies. Digitální otisk prohlížeče vzniká, když si nějaká obchodní společnost vytvoří váš jedinečný profil na základě hardwaru, softwaru, doplňků a dokonce i nastavení vašeho počítače. K vytvoření otisku prohlížeče může posloužit vaše nastavení jako třeba používaná obrazovka, písma nainstalovaná v počítači, a dokonce i zvolený webový prohlížeč.
 features-fingerprinting-fingerprinting-is-bad = Technika vytváření otisku prohlížeče není pro web dobrá
 features-fingerprinting-protect = Chraňte své soukromí
