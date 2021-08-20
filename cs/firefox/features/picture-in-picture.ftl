@@ -22,6 +22,6 @@ features-pip-cruise-around-to-other = <strong>Přecházejte různě do jiných p
 features-pip-repeat-steps-1-3-to-have = <strong>Opakujte kroky 1-3</strong>, až budete mít tolik videí přehrávaných jako obraz v obraze, kolik si přejete.
 features-pip-3-more-ways-to-use-picture = Další 3 způsoby použití funkce Obraz v obraze
 features-pip-3-ways-to-use-picture = 3 způsoby použití funkce Obraz v obraze
-features-pip-watch-a-lecture-or-meeting = Sledování přednášky nebo porady, zatímco si děláte poznámky
+features-pip-watch-a-lecture-or-meeting = Sledujte přednášku nebo poradu a přitom si dělejte poznámky
 features-pip-keep-a-tutorial-video-open = Během vaření mějte otevřené výukové video s receptem
 features-pip-entertain-cats-dogs-and-kids = Zabavte kočky, psy a děti během své práce
