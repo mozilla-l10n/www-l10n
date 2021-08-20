@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+# page title
+features-fingerprinting-what-is-fingerprinting-title = Co je to vytváření otisku prohlížeče a proč byste ho měli blokovat
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Vytváření otisku prohlížeče je invazivní technika vašeho sledování bez použití běžných cookies, a proto ji { -brand-name-firefox-browser } blokuje.
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokuje vytváření otisku prohlížeče
