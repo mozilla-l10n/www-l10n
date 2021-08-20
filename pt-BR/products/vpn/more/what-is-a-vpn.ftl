@@ -14,6 +14,7 @@ vpn-what-is-how-do-vpns = Como funcionam as VPNs?
 vpn-what-is-a-vpn-is = VPN é uma ferramenta que permite acessar a internet com segurança, independente de onde você esteja. Uma VPN funciona criando um “túnel” seguro entre seu dispositivo e o provedor de VPN. Ela te protege de duas principais maneiras:
 vpn-what-is-concealing-your-ip = Oculta seu endereço IP, protegendo sua identidade e localização.
 vpn-what-is-encrypting-your-traffic = Criptografa o tráfego entre você e seu provedor de VPN para que ninguém em sua rede local possa decifrar ou modificar.
+vpn-what-is-in-the-past = No passado, VPNs eram usadas principalmente por empresas para permitir acesso remoto seguro a seus serviços internos e dados proprietários. Mas agora, VPNs estão disponíveis para qualquer um que queira proteger sua conexão com a internet, especialmente quando estiver usando redes não seguras como um WiFi público, mas também é útil em uma rede doméstica.
 vpn-what-is-when-should-i = Quando devo usar uma VPN?
 vpn-what-is-why-would-i = Por que devo usar uma VPN?
 vpn-what-is-keeping-your-online = Manter a privacidade de sua atividade online.
