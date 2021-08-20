@@ -18,5 +18,6 @@ vpn-what-is-ensuring-the-confidentiality = Emoañete pe ñemiguaitéva ha ñandu
 vpn-what-is-what-are-the = ¿Mba’épa umi ivaikuaáva eipurukuévo VPN?
 vpn-what-is-are-vpns-safe = ¿Hekorosãpa ko’ã VPNs?
 vpn-what-is-can-vpns-protect = ¿Ko’ã VPNs omo’ãpa umi mba’evaiapohápe?
+vpn-what-is-are-vpns-legal = ¿Hekovoñápiko ko’ã VPNs?
 vpn-what-is-are-vpns-only = ¿Umi VPNsha’e mohendahápe g̃uarã añónte?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Ipya’e, hekorosã, jeroviaha
