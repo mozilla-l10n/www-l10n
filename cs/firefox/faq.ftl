@@ -80,5 +80,5 @@ who-owns-firefox = Kdo vlastní { -brand-name-firefox(case: "acc") }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
-firefox-is-made = { -brand-name-firefox(case: "acc") } vyvíjí společnost { -brand-name-mozilla-corporation }, dceřiná společnost neziskové organizace <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>, a řídí se zásadami Manifestu { -brand-name-mozilla(case: "gen") }. Více se o tvůrci { -brand-name-firefox(case: "gen") } dozvíte <a href="{ $url2 }">zde</a>.
+firefox-is-made = { -brand-name-firefox(case: "acc") } vyvíjí { -brand-name-mozilla-corporation }, dceřiná společnost neziskové organizace <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>, a řídí se zásadami Manifestu { -brand-name-mozilla(case: "gen") }. Více se o tvůrci { -brand-name-firefox(case: "gen") } dozvíte <a href="{ $url2 }">zde</a>.
 related-questions-who = A s tím souvisí: kdo je vlastníkem { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }, patří { -brand-name-firefox } { -brand-name-google(case: "dat") }, patří { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-google(case: "dat") }?
