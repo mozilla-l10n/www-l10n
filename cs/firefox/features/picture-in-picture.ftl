@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
 
+# HTML page title
+features-pip-firefox-picture-in-picture-get-more = Obraz v obraze ve { -brand-name-firefox(case: "loc") }: S vysunovacími videi toho zvládnete víc
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Chcete pracovat a zároveň sledovat videa? S { -brand-name-firefox(case: "ins") } a jeho režimem obraz v obraze můžete obojí.
 features-pip-cool-feature-picture-in-picture = Skvělá funkce: Obraz v obraze
