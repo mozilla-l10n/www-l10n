@@ -10,9 +10,10 @@ features-fingerprinting-what-is-fingerprinting-title = Co je to vytváření oti
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Vytváření otisku prohlížeče je invazivní technika vašeho sledování bez použití běžných cookies, a proto ji { -brand-name-firefox-browser } blokuje.
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokuje vytváření otisku prohlížeče
+features-fingerprinting-ditch-the-sticky = Zbavte se vlezlých reklam, které vás neustále pronásledují, díky blokování vytváření otisku prohlížeče zabudovaného v prohlížeči { -brand-name-firefox }.
 # description for the header image
 features-fingerprinting-every-fingerprint = Každý otisk je jedinečný.
 features-fingerprinting-download-firefox = Stáhnout { -brand-name-firefox(case: "acc") }
-features-fingerprinting-what-is-fingerprinting-body = Je je vytváření otisku prohlížeče?
+features-fingerprinting-what-is-fingerprinting-body = Co je to vytváření otisku prohlížeče?
 features-fingerprinting-fingerprinting-is-bad = Technika vytváření otisku prohlížeče není pro web dobrá
 features-fingerprinting-protect = Chraňte své soukromí
