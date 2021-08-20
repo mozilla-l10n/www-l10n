@@ -30,6 +30,10 @@ vpn-landing-brand-trust-heading = Peteĩ VPN márka ejeroviakuaaha
 
 vpn-landing-faq-heading = FAQs
 vpn-langing-faq-uses-question-heading = ¿Mba’épa VPN ha mba’éicha ijepuru?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Emokañýta nde <a href="{ $url }">IP kundaharape</a>. Kóva omo’ãta nde reratee ha oñomíta ne rendaite.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Emokañývo nde IP kundaharape ha’etéva. Kóva omo’ãta nde reratee ha oñomíta ne rendaite.
 vpn-landing-faq-uses-encrypt = Ombopapapy pe jeikeita nde ha ne VPN me’ẽhára pa’ũme avave ani hag̃uáicha ombopapapy’o téra omoambue ndehegui.
 # Variables:
