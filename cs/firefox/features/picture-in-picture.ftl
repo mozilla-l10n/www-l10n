@@ -24,3 +24,4 @@ features-pip-3-more-ways-to-use-picture = Další 3 způsoby použití funkce Ob
 features-pip-3-ways-to-use-picture = 3 způsoby použití funkce Obraz v obraze
 features-pip-watch-a-lecture-or-meeting = Sledování přednášky nebo porady, zatímco si děláte poznámky
 features-pip-keep-a-tutorial-video-open = Během vaření mějte otevřené výukové video s receptem
+features-pip-entertain-cats-dogs-and-kids = Zabavte kočky, psy a děti během své práce
