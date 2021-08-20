@@ -25,7 +25,7 @@ how-do-i = Jak získám { -brand-name-firefox-browser(case: "acc", capitalizatio
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
-you-can-easily = Prohlížeč { -brand-name-firefox } pro počítače si můžete snadno stáhnout <a href="{ $url }">zde</a>. { -brand-name-firefox } funguje na zařízeních se systémy <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> a je k dispozici také pro <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios }</a>. Ujistěte se, že si náš prohlížeč stahujete z našich webových stránek { -brand-name-mozilla(case: "gen") }.
+you-can-easily = Prohlížeč { -brand-name-firefox } pro počítače si můžete snadno stáhnout <a href="{ $url }">zde</a>. { -brand-name-firefox } funguje na zařízeních se systémy <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> a je k dispozici také pro <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios }</a>. Vždy se prosím ujistěte, že si náš prohlížeč stahujete z našich webových stránek, tj. ze stránek { -brand-name-mozilla(case: "gen") }.
 is-firefox-free = Je { -brand-name-firefox } zdarma?
 yep-the-firefox = Ano, { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } je zdarma. Úplně zdarma, bez skrytých poplatků a podobně. Nemusíte platit za jeho používání penězi ani svými osobními daty.
 related-questions-free = A s tím souvisí: je { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } zdarma, nebo se za { -brand-name-firefox(case: "acc") } něco platí?
