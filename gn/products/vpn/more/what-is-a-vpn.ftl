@@ -13,5 +13,7 @@ vpn-what-is-wait-i-thought = Epyta, aimo’ã jeku’e ñandutigua ipapapýma HT
 vpn-what-is-why-would-i = ¿Mba’érepa eipuruva’erã VPN?
 vpn-what-is-keeping-your-online = Eikundaha ñanduti ñemiguávape.
 vpn-what-is-keeping-your-home = Eguerekóke nde róga renda térã umi tenda eikeveha ñemihápe.
+vpn-what-is-protecting-your-connection = Emo’ã ñandutípe jeike WiFi rupive, taperyva’uha, pepoatãguejyha, ñemuha térã arandukarendápe.
+vpn-what-is-ensuring-the-confidentiality = Emoañete pe ñemiguaitéva ha ñandutípe jeike reko.
 vpn-what-is-are-vpns-only = ¿Umi VPNsha’e mohendahápe g̃uarã añónte?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Ipya’e, hekorosã, jeroviaha
