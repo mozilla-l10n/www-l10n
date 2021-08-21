@@ -12,6 +12,7 @@ vpn-what-is-when-should-i = Πότε πρέπει να χρησιμοποιήσ�
 vpn-what-is-why-would-i = Γιατί να χρησιμοποιήσω ένα VPN;
 vpn-what-is-what-are-the = Ποια είναι τα μειονεκτήματα της χρήσης ενός VPN;
 vpn-what-is-are-vpns-safe = Είναι τα VPN ασφαλή;
+vpn-what-is-can-vpns-protect = Μπορούν τα VPN να με προστατεύσουν από κυβερνοεγκληματίες;
 vpn-what-is-are-vpns-legal = Είναι τα VPN νόμιμα;
 vpn-what-is-are-vpns-only = Είναι τα VPN μόνο για υπολογιστές;
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Γρήγορο, ασφαλές, αξιόπιστο
