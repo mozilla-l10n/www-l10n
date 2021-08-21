@@ -34,6 +34,6 @@ misinformation-why-trust-firefox = Γιατί να εμπιστευτείτε τ
 misinformation-because-we-put-people-first = Επειδή προτεραιότητα έχει ο άνθρωπος. Στην πραγματικότητα, μας υποστηρίζει ένας <a href="{ $foundation }">μη κερδοσκοπικός οργανισμός</a>. Από την πρώτη μέρα, αποστολή μας είναι η προστασία του διαδικτύου και όλων των χρηστών του.
 misinformation-learn-more-about-our-mission = Μάθετε περισσότερα σχετικά με την αποστολή μας
 misinformation-your-privacy-by-the-product = Το απόρρητό σας, ανά προϊόν
-misinformation-firefox-products-work-differently = Τα προϊόντα { -brand-name-firefox } λειτουργούν διαφορετικά — επειδή έχουν σχεδιαστεί ώστε να προστατεύουν το απόρρητό σας.
+misinformation-firefox-products-work-differently = Τα προϊόντα { -brand-name-firefox } λειτουργούν διαφορετικά — επειδή έχουν σχεδιαστεί για να προστατεύουν το απόρρητό σας.
 misinformation-learn-about-our-products = Μάθετε για τα προϊόντα μας
 misinformation-designed-to-protect = Σχεδιασμένο να προστατεύει το απόρρητό σας
