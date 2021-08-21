@@ -6,22 +6,24 @@
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 # Page title the subscription preferences page
-newsletters-newsletter-subscriptions = Přihlášení odběru zpravodaje
+newsletters-newsletter-subscriptions = Přihlášení k odběru zpravodaje
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = Zpravodaj { -brand-name-mozilla(case: "gen") }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Přečtěte si o všem v našem <span>zpravodaji</span>
-# Subtitle for https://www-dev.allizom.org/newsletter/
+# Outdated string
 newsletters-subscribe-to-updates-and-keep = Přihlaste se k aktualizacím a zůstávejte aktuální s novinkami { -brand-name-mozilla(case: "gen") }. Je to skvělá cesta, jak zůstat ve spojení!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Potvrzení zpravodaje
 newsletters-thanks-for-subscribing = Děkujeme za přihlášení odběru!
 newsletters-your-newsletter-subscription = Vaše přihlášení k odběru zpravodaje bylo potvrzeno.
+# Obsolete string
 newsletters-please-be-sure-to-add-our = Přidejte si prosím naši odesílací adresu mozilla@e.mozilla.org do svých kontaktů, aby pošta nekončila v nevyžádané (spamu).
 newsletters-the-supplied-link-has-expired = Odkaz vypršel. Nový obdržíte spolu s dalším zpravodajem.
 newsletters-something-is-amiss-with = Něco není v pořádku s našim systémem. Omlouváme se! Zkuste to prosím později.
 newsletters-youre-awesome = Jste úžasní!
 newsletters-and-were-not-just-saying = A to neříkáme jen proto, že jste nám sdělili svou e-mailovou adresu.
+# Obsolete string
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Přidejte si prosím adresu mozilla@e.mozilla.org do svých kontaktů, aby pošta nekončila v nevyžádané poště (spamu).
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } se zajímá o řadu důležitých otázek.
 newsletters-open-your-inbox-and-your = Otevřete svou doručenou poštu a zauvažujte nad dalšími tématy, ke kterým máme co říci.
@@ -102,6 +104,7 @@ newsletters-i-didnt-sign-up = Tento odběr jsem si nepřihlásil(a).
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Tato e-mailová adresa není v našem systému. Zkontrolujte ji prosím, popřípadě <a href="{ $url }">se přihlaste k odběru našeho zpravodaje.</a>
+# Obsolete string
 newsletters-im-keeping-in-touch = Jsem místo toho v kontaktu s { -brand-name-mozilla(case: "ins") } na { -brand-name-facebook(case: "loc") } a { -brand-name-twitter(case: "loc") }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Odebírejte, čtěte,<br> zůstaňte v obraze.
@@ -231,11 +234,11 @@ newsletters-firefox-news = Novinky ve { -brand-name-firefox(case: "loc") }
 newsletters-get-how-tos = Dostávejte návody, rady a novinky, které vám umožní využívat naplno všechny funkce { -brand-name-firefox(case: "gen") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
-# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+# Obsolete string
 newsletters-special-announcements-about-mozilla = Zvláštní oznámení o každoročním festivalu { -brand-name-mozilla(case: "gen") } věnovaném utváření budoucnosti otevřeného webu.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Novinky od { -brand-name-mozilla(case: "gen") }
-# Description for the newsletter in Newsletter subscription page (Mozilla News)
+# Obsolete string
 newsletters-regular-updates-to-keep = Pravidelné informace o našem boji za lepší internet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
