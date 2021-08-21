@@ -31,6 +31,6 @@ vpn-ios-devices-headline = Get access for { $devices } devices
 #   $devices (number) - number of available devices
 vpn-ios-devices-copy = With one subscription, you can get { -brand-name-mozilla-vpn } on up to { $devices } different devices, including { -brand-name-ios } for { -brand-name-iphone } and { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } and { -brand-name-linux }.
 vpn-ios-speed-headline = Top speeds. Unlimited data.
-vpn-ios-speed-copy = Play online games, stream your favourite shows, and cruise around the web at ultra-fast speeds. Don’t worry about your bandwidth on { -brand-name-mozilla-vpn } — it’s unlimited.
+vpn-ios-speed-copy = Play online games, stream your favourite shows and cruise around the web at ultra-fast speeds. Don’t worry about your bandwidth on { -brand-name-mozilla-vpn } — it’s unlimited.
 vpn-ios-log-headline = Your data stays private. Period.
 vpn-ios-log-copy = Some VPN providers log your activity on their servers. Not only does { -brand-name-mozilla-vpn } not track you online — we’re vehemently opposed to it. It’s a huge part of what we stand for as a company.
