@@ -20,6 +20,6 @@ firefox-sync-open-the-menu = Otevřete nabídku v pravém horním rohu { -brand-
 firefox-sync-click-get-started = V panelu, který se otevře, klepněte na <strong>„Začít“</strong>.
 firefox-sync-enter-an-email = Zadejte e-mailovou adresu a heslo k <strong>vytvoření { -brand-name-firefox-account(case: "gen", capitalization: "lower") }</strong>.
 firefox-sync-click-next-to = Klepněte na <strong>„Další“</strong> pro obdržení ověřovacího e-mailu.
-firefox-sync-after-you-check = Poté, co zkontrolujete svou e-mailovou schránku a klepnete na ověřovací odkaz, zahájí { -brand-name-firefox } automatickou synchronizaci na pozadí.
+firefox-sync-after-you-check = Poté, co zkontrolujete svou e-mailovou schránku a klepnete na ověřovací odkaz, zahájí { -brand-name-firefox } na pozadí automatickou synchronizaci.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
 firefox-sync-learn-more = Další pomoc se správou { -brand-name-firefox-account(case: "gen", capitalization: "lower") }

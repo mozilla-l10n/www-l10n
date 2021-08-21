@@ -10,7 +10,7 @@ newsletters-newsletter-subscriptions = Přihlášení k odběru zpravodaje
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = Zpravodaj { -brand-name-mozilla(case: "gen") }
 # Headline for https://www-dev.allizom.org/newsletter/
-newsletters-read-all-about-it-in-our-newsletter = Přečtěte si o všem v našem <span>zpravodaji</span>
+newsletters-read-all-about-it-in-our-newsletter = Přečtěte si více v našem <span>zpravodaji</span>
 # Outdated string
 newsletters-subscribe-to-updates-and-keep = Přihlaste se k aktualizacím a zůstávejte aktuální s novinkami { -brand-name-mozilla(case: "gen") }. Je to skvělá cesta, jak zůstat ve spojení!
 # Page title the subscription confirmation page
