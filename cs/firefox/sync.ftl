@@ -13,4 +13,6 @@ firefox-sync-privacy-made-easy = Ochrana soukromí jednoduše
 firefox-sync-all-you-need = Vše, co k synchronizaci Firefoxu potřebujete, je { -brand-name-firefox-account(capitalize: "lower") }.
 firefox-sync-encrypt-your-data = Šifrujte svá data
 firefox-sync-your-encryption-key = Váš šifrovací klíč zůstává jen na vámi autorizovaných zařízeních, a to bezpečně uložený.
+firefox-sync-feel-safe = Cítíte se v bezpečí
+firefox-sync-we-store-your = Na našich serverech uchováváme vaše informace v zašifrované podobě, takže je nemůžeme číst.
 firefox-sync-click-next-to = Pro ověření svého e-mailu klepněte na <strong>“Další”</strong>.
