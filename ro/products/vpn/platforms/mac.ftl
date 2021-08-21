@@ -9,3 +9,4 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } pentru { -brand-name-mac-short }
+vpn-mac-privacy-headline = Confidențialitate la îndemână
