@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
-firefox-sync-sync-your-firefox = Synchronizujte svůj { -brand-name-firefox(case: "acc") } na jakémkoliv zařízeních
+firefox-sync-access-and-sync = Mějte přístup ke svým záložkám, heslům, otevřeným panelům a dalším věcem všude, kde používáte { -brand-name-firefox(case: "acc") }.
+firefox-sync-firefox = { -brand-name-firefox-browser }
+firefox-sync-sync-your-firefox = Synchronizujte svůj { -brand-name-firefox(case: "acc") } na jakémkoli zařízení
 firefox-sync-privacy-made-easy = Ochrana soukromí jednoduše
 firefox-sync-encrypt-your-data = Šifrujte svá data
 firefox-sync-your-encryption-key = Váš šifrovací klíč zůstává jen na vámi autorizovaných zařízeních, a to bezpečně uložený.
