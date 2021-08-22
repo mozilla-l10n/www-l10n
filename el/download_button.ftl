@@ -17,7 +17,7 @@ download-button-recommended = Προτεινόμενα
 download-button-mozilla-no-longer-provides = <a href="{ $url }">Η { -brand-name-mozilla } δεν παρέχει πλέον ενημερώσεις ασφαλείας για το { -brand-name-firefox } στα { -brand-name-windows } { -brand-name-xp } ή { -brand-name-vista }</a>, αλλά μπορείτε ακόμη να κάνετε λήψη της τελευταίας έκδοσης για { -brand-name-windows } 32-bit παρακάτω.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Παρακαλώ ακολουθήστε <a href="{ $url }">αυτές τις οδηγίες</a> για εγκατάσταση του { -brand-name-firefox }.
+download-button-please-follow-these = Παρακαλούμε ακολουθήστε <a href="{ $url }">αυτές τις οδηγίες</a> για να εγκαταστήσετε το { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Το σύστημά σας δεν πληροί τις <a href="{ $url }">απαιτήσεις</a> για την εκτέλεση του { -brand-name-firefox }.

@@ -73,7 +73,7 @@ firefox-desktop-download-curated-content-on = Επιλεγμένο περιεχ�
 firefox-desktop-download-share-links = Κοινή χρήση συνδέσμων
 firefox-desktop-download-protect-your-privacy = Προστασία απορρήτου
 firefox-desktop-download-third-party-cookie = Φραγή cookies τρίτων
-firefox-desktop-download-fingerprinter-blocking = Φραγή fingerprinters
+firefox-desktop-download-fingerprinter-blocking = Αποκλεισμός fingerprinter
 firefox-desktop-download-cryptominer-blocking = Φραγή cryptominers
 firefox-desktop-download-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης
 firefox-desktop-download-individual-protections-report = Εξατομικευμένη αναφορά προστασίας
@@ -175,10 +175,11 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Χρησιμοποι
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Η λήψη θα ξεκινήσει αυτόματα. Δεν άρχισε; <a id="{ $id }" href="{ $fallback_url }">Νέα δοκιμή λήψης.</a>
 firefox-new-firefox-is-more-than-a-browser = Το { -brand-name-firefox } είναι κάτι περισσότερο από ένα πρόγραμμα περιήγησης.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Η λήψη σας διακόπηκε. Αλλά δεν έχουν χαθεί όλα.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Παρακαλώ ακολουθήστε <a href="{ $url }">αυτές τις οδηγίες</a> για εγκατάσταση του { -brand-name-firefox }.
+firefox-desktop-download-please-follow = Παρακαλούμε ακολουθήστε <a href="{ $url }">αυτές τις οδηγίες</a> για να εγκαταστήσετε το { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Το σύστημά σας ενδέχεται να μην πληροί τις απαιτήσεις του { -brand-name-firefox }, αλλά μπορείτε να δοκιμάσετε κάποια από <a href="{ $url }">αυτές τις εκδόσεις</a>.

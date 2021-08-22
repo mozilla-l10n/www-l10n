@@ -42,7 +42,7 @@ firefox-channel-test-about-to-be-released = Δοκιμάστε τις έτοιμ
 firefox-channel-release-notes = Σημειώσεις έκδοσης
 firefox-channel-previous-nightly-builds = Προηγούμενες εκδόσεις { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
-firefox-channel-build-test-scale-and-more = Χτίστε, δοκιμάστε και πολλά περισσότερα με την μόνη έκδοση περιηγητή μόνο για προγραμματιστές.
+firefox-channel-build-test-scale-and-more = Ανάπτυξη, δοκιμή και πολλά άλλα με το μόνο πρόγραμμα περιήγησης για προγραμματιστές.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = Το { -brand-name-developer-edition } είναι μια ασταθής, δοκιμαστική πλατφόρμα ανάπτυξης. Αποστέλλει δεδομένα στη { -brand-name-mozilla } — και κάποιες φορές στους συνεργάτες μας — για αντιμετώπιση προβλημάτων και δοκιμή ιδεών. <a href="{ $link }">Μάθετε τι κοινοποιείται</a>.

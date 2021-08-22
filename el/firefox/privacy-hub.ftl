@@ -34,7 +34,7 @@ firefox-privacy-hub-theres-no-hidden-agenda-here = Δεν υπάρχει καμ�
 firefox-privacy-hub-why-trust-firefox = Γιατί να εμπιστευτείτε το { -brand-name-firefox };
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
-firefox-privacy-hub-because-we-put-people-first = Επειδή προτεραιότητα έχουν οι χρήστες. Στην πραγματικότητα, μας υποστηρίζει ένας <a href="{ $foundation }">μη κερδοσκοπικός οργανισμός</a>. Από την πρώτη μέρα, ήταν η αποστολή μας να προστατεύσουμε το διαδίκτυο και όλους όσους βρίσκονται σε αυτό.
+firefox-privacy-hub-because-we-put-people-first = Επειδή προτεραιότητα έχει ο άνθρωπος. Στην πραγματικότητα, μας υποστηρίζει ένας <a href="{ $foundation }">μη κερδοσκοπικός οργανισμός</a>. Από την πρώτη μέρα, αποστολή μας είναι η προστασία του διαδικτύου και όλων των χρηστών του.
 firefox-privacy-hub-learn-more-about-our-mission = Μάθετε περισσότερα σχετικά με την αποστολή μας
 firefox-privacy-hub-your-privacy-by-the-product = Το απόρρητό σας, ανά προϊόν
 firefox-privacy-hub-firefox-products-work-differently = Τα προϊόντα { -brand-name-firefox } λειτουργούν διαφορετικά — επειδή έχουν σχεδιαστεί για να προστατεύουν το απόρρητό σας.
