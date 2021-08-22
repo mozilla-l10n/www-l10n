@@ -33,8 +33,8 @@ newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } se zabývá �
 newsletters-open-your-inbox-and-your = Otevřete svou e-mailovou schránku (a své srdce) ještě více – podívejte se na další témata, kterým se věnujeme.
 newsletters-manage-your-email-preferences = Správa nastavení pro váš e-mail
 newsletters-this-page-is-in-maintenance = Tato stránka je v režimu údržby a je dočasně nedostupná.
-newsletters-to-update-your-email-preferences = Pro nastavení zasílání e-mailů to prosím zkuste znovu za malou chvíli. Děkujeme!
-newsletters-we-love-sharing-updates = Milujeme sdílení novinek o všech těch úžasných věcech, které se v { -brand-name-mozilla(case: "loc") } dějí.
+newsletters-to-update-your-email-preferences = Chcete-li provést změny v nastavení pro váš e-mail, zkuste to prosím znovu za malou chvíli. Děkujeme!
+newsletters-we-love-sharing-updates = Velmi rádi sdílíme novinky o všech úžasných věcech, které se v { -brand-name-mozilla(case: "loc") } dějí.
 newsletters-set-your-preferences-below = Nastavte si níže zasílání těch novinek, které vás zajímají.
 # Form field label
 newsletters-your-email-address = Vaše e-mailová adresa:
