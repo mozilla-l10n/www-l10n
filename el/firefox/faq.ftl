@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
-firefox-faq = Συνήθεις ερωτήσεις { -brand-name-firefox }
+firefox-faq = Συχνές ερωτήσεις για το { -brand-name-firefox }
 whether-you-searched-privacy = Αν ψάξατε να βρείτε ένα γρήγορο πρόγραμμα περιήγησης που προστατεύει το απόρρητό σας, εδώ θα βρείτε τις απαντήσεις στις πιο συνήθεις ερωτήσεις σχετικά με το { -brand-name-firefox }.
 whether-you-searched-independant = Είτε θέλετε ένα γρήγορο πρόγραμμα περιήγησης, είτε αναζητάτε ανεξάρτητες τεχνολογίες που προστατεύουν το απόρρητό σας, εδώ θα βρείτε τις απαντήσεις στις πιο συνήθεις ερωτήσεις σχετικά με το { -brand-name-firefox }.
 what-is-firefox = Τι είναι το { -brand-name-firefox };
@@ -70,7 +70,7 @@ does-firefox-have = Διαθέτει το { -brand-name-firefox } ενσωματ
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 firefox-does-not = Το { -brand-name-firefox } δεν ενσωματώνει VPN (εικονικό ιδιωτικό δίκτυο), αλλά υπάρχουν δύο προϊόντα από τη { -brand-name-mozilla }/{ -brand-name-firefox } που μπορείτε να χρησιμοποιήσετε μαζί με το ιδιωτικό { -brand-name-firefox-browser } και μπορούν να προστατέψουν τη σύνδεση WiFi, καθώς και τη διεύθυνση IP, είτε του προγράμματος περιήγησής σας (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>), είτε της συσκευής σας (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) .
 related-questions-ip = Σχετικές ερωτήσεις: κρύβει το { -brand-name-firefox } τη διεύθυνση IP σας

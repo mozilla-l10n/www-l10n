@@ -5,9 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/details/
 
-about-shared-about-mozilla = Περί { -brand-name-mozilla }
+about-shared-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
 about-shared-mission = Η αποστολή μας
-about-shared-history = Η ιστορία μας
+about-shared-history = Ιστορικό
 about-shared-leadership = Ηγεσία
 about-shared-governance = Διακυβέρνηση
 about-shared-forums = Φόρουμ

@@ -31,7 +31,7 @@ firefox-privacy-hub-youll-always-know-where-you = Θα ξέρετε πάντα �
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Δεν υπάρχει καμία κρυφή ατζέντα. Η επιχείρησή μας δεν βασίζεται στην κρυφή εκμετάλλευση της εμπιστοσύνης σας. Η <a href="{ $privacy }">Σημείωση απορρήτου</a> μας είναι πραγματικά εύκολη στην κατανόηση. Όλοι μπορούν να παρακολουθήσουν τις <a href="{ $meetings }">εβδομαδιαίες εταιρικές συναντήσεις</a> μας. Αν θέλετε να εξετάσετε κάθε σημείο συλλογής δεδομένων, ο κώδικάς μας είναι ανοικτός. Αυτοί είμαστε.
-firefox-privacy-hub-why-trust-firefox = Γιατί να εμπιστευτώ το { -brand-name-firefox };
+firefox-privacy-hub-why-trust-firefox = Γιατί να εμπιστευτείτε το { -brand-name-firefox };
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = Επειδή προτεραιότητα έχουν οι χρήστες. Στην πραγματικότητα, μας υποστηρίζει ένας <a href="{ $foundation }">μη κερδοσκοπικός οργανισμός</a>. Από την πρώτη μέρα, ήταν η αποστολή μας να προστατεύσουμε το διαδίκτυο και όλους όσους βρίσκονται σε αυτό.
