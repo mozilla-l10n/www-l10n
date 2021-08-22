@@ -19,7 +19,7 @@ browser-history-web-era = Webová éra
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
 browser-history-british-computer = Britský počítačový vědec Tim Berners-Lee vytvořil první webový server a grafický webový prohlížeč v roce 1990, když <a href="{ $cern }">pracoval v CERNu</a>, Evropské organizaci pro jaderný výzkum zřízené ve Švýcarsku. Své nové okno do internetu nazval „WorldWideWeb“. Jednalo se o snadno použitelné grafické rozhraní vytvořené pro počítač NeXT. Poprvé byly textové dokumenty vzájemně propojeny prostřednictvím veřejné sítě – webu, jak ho známe.
-browser-history-a-year-later-berners = O rok později Berners-Lee požádal studentku matematiky v CERNu Nicolu Pellowovou, aby napsala Line Mode Browser, program pro základní počítačové terminály.
+browser-history-a-year-later-berners = O rok později požádal Berners-Lee studentku matematiky v CERNu Nicolu Pellowovou, aby napsala Line Mode Browser, program pro základní počítačové terminály.
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = V roce 1993 nastal obrovský rozmach webu. Univerzity, vlády i soukromé společnosti spatřovaly v otevřeném internetu příležitost. Pro přístup k němu všichni potřebovali nové počítačové programy. Toho roku vytvořil počítačový vědec Marc Andreessen v Národním centru pro superpočítačové aplikace (NCSA) na Illinoiské univerzitě v Urbana-Champaign program Mosaic. Byl to vůbec první masově rozšířený webový prohlížeč a raný předchůdce <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox(case: "gen") }</a>.
