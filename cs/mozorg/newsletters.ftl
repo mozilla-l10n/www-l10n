@@ -108,8 +108,9 @@ newsletters-i-didnt-sign-up = Tento odběr jsem si nepřihlásil(a).
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Tato e-mailová adresa není v našem systému. Zkontrolujte ji prosím, popřípadě <a href="{ $url }">se přihlaste k odběru našeho zpravodaje.</a>
+newsletters-im-keeping-in-touch-v2 = Jsem místo toho s { -brand-name-mozilla(case: "ins") } v kontaktu na { -brand-name-twitter(case: "loc") }.
 # Obsolete string
-newsletters-im-keeping-in-touch = Jsem místo toho v kontaktu s { -brand-name-mozilla(case: "ins") } na { -brand-name-facebook(case: "loc") } a { -brand-name-twitter(case: "loc") }.
+newsletters-im-keeping-in-touch = Jsem místo toho s { -brand-name-mozilla(case: "ins") } v kontaktu na { -brand-name-facebook(case: "loc") } a { -brand-name-twitter(case: "loc") }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Odebírejte, čtěte,<br> zůstaňte v obraze.
 # Obsolete string
