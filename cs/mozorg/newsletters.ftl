@@ -130,6 +130,7 @@ newsletters-check-for-data-breaches = Zkontrolovat úniky dat
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } je bezplatná služba, která vám umožní zjistit, zda jste byli součástí nějakého internetového úniku dat.
 newsletters-sign-in-to-monitor = Přihlásit se do { -brand-name-monitor(case: "gen") }
 newsletters-meet-our-parent-brand = Seznamte se s naší mateřskou značkou
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, nezisková organizace, která stojí za { -brand-name-firefox(case: "ins") }, dává přednost lidem před ziskem ve všem, co říkáme, vytváříme a děláme.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = O standardech
 # Name for the newsletter in Newsletter subscription page
@@ -146,6 +147,8 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } pro počítač
 newsletters-dont-miss-the-latest = Nenechte si ujít aktuální oznámení o našem prohlížeči pro počítač.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Zapojte se
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Přehledy
 # Obsolete string
 newsletters-internet-health-report = Hlášení o zdraví internetu
 # Obsolete string
