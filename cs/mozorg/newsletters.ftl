@@ -261,6 +261,8 @@ newsletters-special-announcements-about-mozilla-v2 = Zvláštní oznámení o na
 newsletters-special-announcements-about-mozilla = Zvláštní oznámení o každoročním festivalu { -brand-name-mozilla(case: "gen") } věnovaném utváření budoucnosti otevřeného webu.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Novinky od { -brand-name-mozilla(case: "gen") }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep-v2 = Pravidelné informace, které vám pomohou chytřeji se rozhodovat o svém online životě a aktivně se zapojit do našeho boje za lepší internet.
 # Obsolete string
 newsletters-regular-updates-to-keep = Pravidelné informace o našem boji za lepší internet.
 # Name for the newsletter in Newsletter subscription page
@@ -279,3 +281,5 @@ newsletters-were-building-the-technology = Budujeme technologie budoucnosti. Obj
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Zvláštní oznámení, která vám pomohou využívat { -brand-name-webmaker(case: "acc") } naplno.
+# Name for the newsletter in Newsletter subscription page
+newsletters-android = { -brand-name-android }
