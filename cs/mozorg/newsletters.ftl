@@ -60,13 +60,13 @@ newsletters-there-are-many-ways-to = Existuje mnoho způsobů, jak se zapojit a 
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } není platný zpravodaj
-newsletters-subscribe = Přihlásit
+newsletters-subscribe = Přihlásit se
 newsletters-remove-me-from-all-the = Odhlásit ze všech odběrů na této stránce
-newsletters-save-preferences = Uložit předvolby
+newsletters-save-preferences = Uložit nastavení
 # Page title for https://www-dev.allizom.org/newsletter/recovery/
-newsletters-newsletter-email-recovery = Obnovení e-mailu zpravodaje
+newsletters-newsletter-email-recovery = Obnovení e-mailu pro odběr zpravodaje
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
-newsletters-manage-your-newsletter = Spravujte své <span>odběry magazínů</span>
+newsletters-manage-your-newsletter = Spravujte své <span>odběry zpravodajů</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-enter-your-email-address = Zadejte vaši e-mailovou adresu a my vám zašleme odkaz na nastavení zasílání zpravodaje.
 newsletters-send-me-a-link = Pošlete mi odkaz
