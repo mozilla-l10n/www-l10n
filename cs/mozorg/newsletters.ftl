@@ -119,6 +119,17 @@ newsletters-sign-up-read-up-make-a-difference = Přihlaste se a sledujte.<br>
 newsletters-get-smart-on-the-issues = Pozor na problémy, které ovlivňují váš online život.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Přihlaste se ke zpravodaji { -brand-name-mozilla(case: "gen") } a nechte se informovat o zdraví internetu a možnostech, jak se můžete zapojit.
+newsletters-your-email-preferences = Nastavení pro váš e-mail bylo úspěšně aktualizováno.
+newsletters-consider-it-done = Považujte to za vyřízené
+newsletters-back-to-email-preferences = Zpět na nastavení pro e-mail
+newsletters-here-are-a-few-things = Zde je několik věcí, které můžete při čekání na další e-mail prozkoumat.
+newsletters-take-your-privacy = Vezměte si s sebou své soukromí
+newsletters-travel-the-internet = Cestujte po internetu s ochranou na všech svých zařízeních.
+newsletters-download-the-app = Stáhnout aplikaci
+newsletters-check-for-data-breaches = Zkontrolovat úniky dat
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } je bezplatná služba, která vám umožní zjistit, zda jste byli součástí nějakého internetového úniku dat.
+newsletters-sign-in-to-monitor = Přihlásit se do { -brand-name-monitor(case: "gen") }
+newsletters-meet-our-parent-brand = Seznamte se s naší mateřskou značkou
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = O standardech
 # Name for the newsletter in Newsletter subscription page
