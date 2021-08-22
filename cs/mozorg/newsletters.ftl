@@ -151,6 +151,8 @@ newsletters-get-involved = Zapojte se
 newsletters-insights = Přehledy
 # Obsolete string
 newsletters-internet-health-report = Hlášení o zdraví internetu
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publikuje články a hloubkové analýzy týkající se zdraví internetu a spolehlivé umělé inteligence, včetně naší výroční zprávy o stavu internetu.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Buďte neustále v obraze díky našemu každoročnímu kompilátu z výzkumu a článků o otázkách ochrany soukromí a bezpečnosti, otevřenosti, digitálního začleňování, decentralizace a webové gramotnosti.
 # Name for the newsletter in Newsletter subscription page
@@ -253,6 +255,8 @@ newsletters-firefox-news = Novinky ve { -brand-name-firefox(case: "loc") }
 newsletters-get-how-tos = Dostávejte návody, rady a novinky, které vám umožní využívat naplno všechny funkce { -brand-name-firefox(case: "gen") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla-v2 = Zvláštní oznámení o našem každoročním festivalu věnovaném vytváření budoucnosti otevřeného webu.
 # Obsolete string
 newsletters-special-announcements-about-mozilla = Zvláštní oznámení o každoročním festivalu { -brand-name-mozilla(case: "gen") } věnovaném utváření budoucnosti otevřeného webu.
 # Name for the newsletter in Newsletter subscription page
