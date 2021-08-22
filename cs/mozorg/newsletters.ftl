@@ -68,7 +68,7 @@ newsletters-newsletter-email-recovery = Obnovení e-mailu pro odběr zpravodaje
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Spravujte své <span>odběry zpravodajů</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/recovery/
-newsletters-enter-your-email-address = Zadejte vaši e-mailovou adresu a my vám zašleme odkaz na nastavení zasílání zpravodaje.
+newsletters-enter-your-email-address = Zadejte svou e -mailovou adresu a my vám zašleme odkaz na centrum nastavení vašeho e-mailu.
 newsletters-send-me-a-link = Pošlete mi odkaz
 newsletters-youve-been-unsubscribed = Odběr zpravodaje byl odhlášen.
 newsletters-were-sorry-to-see-you-go = Je nám líto, že odcházíte.
