@@ -26,10 +26,11 @@ newsletters-the-supplied-link-has-expired = Platnost dodaného odkazu vypršela.
 newsletters-something-is-amiss-with = Něco není v pořádku s našim systémem. Omlouváme se! Zkuste to prosím později.
 newsletters-youre-awesome = Jste úžasní!
 newsletters-and-were-not-just-saying = A to neříkáme jen proto, že jste nám sdělili svou e-mailovou adresu.
+newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Nezapomeňte si prosím přidat adresu mozilla@email.mozilla.org do svých kontaktů, abyste měli jistotu, že se vždy objevíme ve složce doručené pošty.
 # Obsolete string
-newsletters-please-be-sure-to-add-mozillaemozillaorg = Přidejte si prosím adresu mozilla@e.mozilla.org do svých kontaktů, aby pošta nekončila v nevyžádané poště (spamu).
-newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } se zajímá o řadu důležitých otázek.
-newsletters-open-your-inbox-and-your = Otevřete svou doručenou poštu a zauvažujte nad dalšími tématy, ke kterým máme co říci.
+newsletters-please-be-sure-to-add-mozillaemozillaorg = Nezapomeňte si prosím přidat adresu mozilla@e.mozilla.org do svých kontaktů, abyste měli jistotu, že se vždy objevíme ve složce doručené pošty.
+newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } se zabývá řadou důležitých témat.
+newsletters-open-your-inbox-and-your = Otevřete svou e-mailovou schránku (a své srdce) ještě více – podívejte se na další témata, kterým se věnujeme.
 newsletters-manage-your-email-preferences = Správa nastavení pro váš e-mail
 newsletters-this-page-is-in-maintenance = Tato stránka je v režimu údržby a je dočasně nedostupná.
 newsletters-to-update-your-email-preferences = Pro nastavení zasílání e-mailů to prosím zkuste znovu za malou chvíli. Děkujeme!
