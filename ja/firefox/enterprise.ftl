@@ -47,7 +47,7 @@ firefox-enterprise-documentation-and-community = 説明書・コミュニティ�
 firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">構成プロフィールのサンプル plist</a>
 
 firefox-enterprise-pkg-installer = PKG インストーラー
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 64 ビット
+firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 ビット
 
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
