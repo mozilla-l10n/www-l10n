@@ -14,14 +14,15 @@ newsletters-read-all-about-it-in-our-newsletter = Přečtěte si více v našem 
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Přihlaste se k odběru, abyste měli neustále přehled o novinkách { -brand-name-mozilla(case: "gen") }, podnikali kroky pro zdravější internet a byli chytřejší ve svém online životě.
 # Outdated string
-newsletters-subscribe-to-updates-and-keep = Přihlaste se k aktualizacím a zůstávejte aktuální s novinkami { -brand-name-mozilla(case: "gen") }. Je to skvělá cesta, jak zůstat ve spojení!
+newsletters-subscribe-to-updates-and-keep = Přihlaste se k odběru aktualit a mějte neustále přehled o novinkách { -brand-name-mozilla(case: "gen") }. Je to ideální způsob, jak s námi zůstat v kontaktu!
 # Page title the subscription confirmation page
-newsletters-newsletter-confirm = Potvrzení zpravodaje
-newsletters-thanks-for-subscribing = Děkujeme za přihlášení odběru!
-newsletters-your-newsletter-subscription = Vaše přihlášení k odběru zpravodaje bylo potvrzeno.
+newsletters-newsletter-confirm = Potvrzení odběru zpravodaje
+newsletters-thanks-for-subscribing = Děkujeme za přihlášení k odběru!
+newsletters-your-newsletter-subscription = Váš odběr zpravodaje byl potvrzen.
+newsletters-please-be-sure-to-add-our-v2 = Nezapomeňte si prosím přidat naši odesílací adresu mozilla@email.mozilla.org do svých kontaktů, abyste měli jistotu, že se vždy objevíme ve složce doručené pošty.
 # Obsolete string
-newsletters-please-be-sure-to-add-our = Přidejte si prosím naši odesílací adresu mozilla@e.mozilla.org do svých kontaktů, aby pošta nekončila v nevyžádané (spamu).
-newsletters-the-supplied-link-has-expired = Odkaz vypršel. Nový obdržíte spolu s dalším zpravodajem.
+newsletters-please-be-sure-to-add-our = Nezapomeňte si prosím přidat naši odesílací adresu mozilla@e.mozilla.org do svých kontaktů, abyste měli jistotu, že se vždy objevíme ve složce doručené pošty.
+newsletters-the-supplied-link-has-expired = Platnost dodaného odkazu vypršela. Nový obdržíte v příštím zpravodaji.
 newsletters-something-is-amiss-with = Něco není v pořádku s našim systémem. Omlouváme se! Zkuste to prosím později.
 newsletters-youre-awesome = Jste úžasní!
 newsletters-and-were-not-just-saying = A to neříkáme jen proto, že jste nám sdělili svou e-mailovou adresu.
