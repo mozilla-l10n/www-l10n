@@ -56,3 +56,5 @@ be-free-to = Opěvujte klidně { -brand-name-firefox(case: "acc") }, kdykoli se 
 the-ad-blocker = Blokování reklam – tajná zbraň proti otravným reklamám.
 so-many-ads = Tolik reklam a tak málo trpělivosti… Je na čase zastavit to šílenství.
 firefox-more-protection = { -brand-name-firefox }: Více ochrany. Méně starostí.
+were-obsessed-with = Ochranou vašeho soukromí jsme posedlí. Proto je anonymní prohlížení ve { -brand-name-firefox(case: "loc") } dokonalejší než u konkurence.
+incognito-browser-what = Inkognito prohlížeč: Co to vlastně znamená
