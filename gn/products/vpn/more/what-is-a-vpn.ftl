@@ -11,6 +11,7 @@ vpn-what-is-how-do-vpns = ¿Mba’éicha omba’apo VPNs?
 vpn-what-is-when-should-i = ¿Araka’épa eipuruva’erã VPN?
 vpn-what-is-wait-i-thought = Epyta, aimo’ã jeku’e ñandutigua ipapapýma HTTPS ndive…
 vpn-what-is-why-would-i = ¿Mba’érepa eipuruva’erã VPN?
+vpn-what-is-hiding-your-identity = Eñomívo nde reratee ha emokañývo ne kundahakue ha’ete ku umi oipurukuaaitereívante mohendaha añónte ojapokuaáva térã hembiapo vaívante. Upéicharõ jepe, oĩ hetaiterei mba’eporã omboajéva pe VPN jepuru, oikehápe:
 vpn-what-is-keeping-your-online = Eikundaha ñanduti ñemiguávape.
 vpn-what-is-keeping-your-home = Eguerekóke nde róga renda térã umi tenda eikeveha ñemihápe.
 vpn-what-is-protecting-your-connection = Emo’ã ñandutípe jeike WiFi rupive, taperyva’uha, pepoatãguejyha, ñemuha térã arandukarendápe.
