@@ -19,4 +19,5 @@ update-your-browser = Aktualizujte svůj prohlížeč na rychlý, spolehlivý a 
 the-firefox-browser = Prohlížeč { -brand-name-firefox } je vytvořen tak, aby na každém kroku chránil vaše soukromí – poněvadž to je nejrychlejší způsob, jak vás zbavit pomalého načítání, nepříjemných reklam a sledovacích prvků.
 firefox-is-more = { -brand-name-firefox } je víc než jenom prohlížeč
 its-a-lightning = Jsou to bleskurychlé dveře k nejlepším webovým zážitkům.
+get-the-browsers = Pořiďte si prohlížeče, u kterých je vaše soukromí na prvním místě – a vždy bylo
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pro { -brand-name-chromebook(case: "acc") }
