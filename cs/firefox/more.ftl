@@ -23,3 +23,6 @@ get-the-browsers = Pořiďte si prohlížeče, u kterých je vaše soukromí na 
 get-the-privacy = Mějte soukromí, které si zasloužíte. Vylepšená ochrana proti sledování zajišťuje ochranu soukromí automaticky při každém otevření prohlížeče.
 choose-which-firefox = Vyberte, který { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } chcete ve svém jazyce stáhnout
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pro { -brand-name-chromebook(case: "acc") }
+firefox-more-while-on-chromebook = { -brand-name-chromebook } má sice předinstalovaný { -brand-name-chrome(case: "acc") }, ale stažení a používání { -brand-name-firefox(case: "gen") } jako hlavního prohlížeče vám přinese určité výhody
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } byl převratem ve vývoji { -brand-name-firefox(case: "gen") }.   V roce 2017 jsme vytvořili nový a bleskově rychlý prohlížeč, který neustále vylepšujeme. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser(capitalization: "lower") }.
