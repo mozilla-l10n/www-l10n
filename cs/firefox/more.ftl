@@ -26,3 +26,4 @@ firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pro { -brand-n
 firefox-more-while-on-chromebook = { -brand-name-chromebook } má sice předinstalovaný { -brand-name-chrome(case: "acc") }, ale stažení a používání { -brand-name-firefox(case: "gen") } jako hlavního prohlížeče vám přinese určité výhody
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } byl převratem ve vývoji { -brand-name-firefox(case: "gen") }.   V roce 2017 jsme vytvořili nový a bleskově rychlý prohlížeč, který neustále vylepšujeme. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser(capitalization: "lower") }.
+firefox-more-little-book = Drobný spis o ochraně soukromí
