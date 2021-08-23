@@ -8,6 +8,8 @@
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = ¿Mba’épa VPN?
 vpn-what-is-how-do-vpns = ¿Mba’éicha omba’apo VPNs?
+vpn-what-is-concealing-your-ip = Emokañývo nde IP kundaharape, emo’ãvo nde reratee ha ne rendaite.
+vpn-what-is-encrypting-your-traffic = Ombopapapy pe jeikeita nde ha nde VPN me’ẽhára pa’ũme avave ani hag̃uáicha ombopapapy’o térã omoambue ndehegui.
 vpn-what-is-when-should-i = ¿Araka’épa eipuruva’erã VPN?
 vpn-what-is-wait-i-thought = Epyta, aimo’ã jeku’e ñandutigua ipapapýma HTTPS ndive…
 vpn-what-is-why-would-i = ¿Mba’érepa eipuruva’erã VPN?
@@ -16,6 +18,7 @@ vpn-what-is-keeping-your-online = Eikundaha ñanduti ñemiguávape.
 vpn-what-is-keeping-your-home = Eguerekóke nde róga renda térã umi tenda eikeveha ñemihápe.
 vpn-what-is-protecting-your-connection = Emo’ã ñandutípe jeike WiFi rupive, taperyva’uha, pepoatãguejyha, ñemuha térã arandukarendápe.
 vpn-what-is-ensuring-the-confidentiality = Emoañete pe ñemiguaitéva ha ñandutípe jeike reko.
+vpn-what-is-make-it-more = Embohasy umi maranduñemurã apohápe oipurúvo nde IP oñemoheñói hag̃ua mba’ete ombohapekuaáva ñemurã nde rapykuehokuaáva ñandutípe.
 vpn-what-is-what-are-the = ¿Mba’épa umi ivaikuaáva eipurukuévo VPN?
 vpn-what-is-are-vpns-safe = ¿Hekorosãpa ko’ã VPNs?
 vpn-what-is-can-vpns-protect = ¿Ko’ã VPNs omo’ãpa umi mba’evaiapohápe?
