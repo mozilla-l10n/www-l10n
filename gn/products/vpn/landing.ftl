@@ -35,7 +35,7 @@ vpn-langing-faq-uses-question-heading = ¿Mba’épa VPN ha mba’éicha ijepuru
 vpn-landing-faq-uses-conceal-v2 = Emokañýta nde <a href="{ $url }">IP kundaharape</a>. Kóva omo’ãta nde reratee ha oñomíta ne rendaite.
 # Obsolete string
 vpn-landing-faq-uses-conceal = Emokañývo nde IP kundaharape ha’etéva. Kóva omo’ãta nde reratee ha oñomíta ne rendaite.
-vpn-landing-faq-uses-encrypt = Ombopapapy pe jeikeita nde ha ne VPN me’ẽhára pa’ũme avave ani hag̃uáicha ombopapapy’o téra omoambue ndehegui.
+vpn-landing-faq-uses-encrypt = Ombopapapy pe jeikeita nde ha ne VPN me’ẽhára pa’ũme avave ani hag̃uáicha ombopapapy’o térã omoambue ndehegui.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Ema’ẽ <a href="{ $url }">po techapyrã jeikove rehegua</a> eipotátaramo peteĩ VPN ne mba’e’okápe.
