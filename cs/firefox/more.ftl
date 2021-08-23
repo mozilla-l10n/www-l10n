@@ -27,3 +27,6 @@ firefox-more-while-on-chromebook = { -brand-name-chromebook } má sice předinst
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } byl převratem ve vývoji { -brand-name-firefox(case: "gen") }.   V roce 2017 jsme vytvořili nový a bleskově rychlý prohlížeč, který neustále vylepšujeme. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser(capitalization: "lower") }.
 firefox-more-little-book = Drobný spis o ochraně soukromí
+firefox-more-you-can-reclaim = Své soukromí a kontrolu nad svým internetovým prostředím můžete získat zpět! Je to vlastně překvapivě snadné. Zvládne to každý.
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Mějte přístup ke svým záložkám, heslům, otevřeným panelům a dalším věcem všude, kde používáte { -brand-name-firefox(case: "acc") }.
