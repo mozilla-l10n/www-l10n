@@ -35,5 +35,6 @@ vpn-what-is-make-it-more = Dificultar para as redes de anúncios usar seu IP par
 vpn-what-is-what-are-the = Quais são as desvantagens de usar uma VPN?
 vpn-what-is-some-service-providers = Alguns provedores de serviços bloqueiam visitas feitas através de VPNs, tornando o conteúdo inacessível quando uma VPN está ativada. Algumas VPNs podem deixar a navegação mais lenta ou restringir sua largura de banda. E algumas VPNs têm baixa reputação em termos de segurança e respeito à privacidade do usuário.
 vpn-what-is-are-vpns-safe = VPNs são seguras?
+vpn-what-is-its-very-hard = É muito difícil encontrar uma VPN confiável. Serviços de VPN têm o objetivo de proteger os usuários enquanto estão online, mas nem todos são iguais em relação ao que entregam. Ao escolher um serviço de VPN, tenha certeza de que entende com clareza os termos com os quais irá concordar. Muitos alegam ser ótimos e focados em privacidade, mas grande número não consegue cumprir suas promessas. Algumas VPNs registram sua atividade online para vender dados e informações para empresas de marketing. Outras tentam te convencer a instalar malware (código malicioso) nos seus dispositivos.
 vpn-what-is-can-vpns-protect = VPNs podem me proteger de cibercriminosos?
 vpn-what-is-are-vpns-only = VPNs são só para computadores?
