@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Falschinformationen im Internet vermeiden – { -brand-name-firefox } hilft dir dabei
 misinformation-page-desc = Fehlinformationen stören, lenken ab und sind teuer. { -brand-name-firefox } hat einige Tipps, um falsche Informationen zu vermeiden – und weniger davon zu sehen, wenn du im Internet surfst.
 misinformation-page-subheading = Sieh dir Tipps an, mit deren Hilfe du weniger Falschinformationen siehst und dich auf das konzentrieren kannst, was dir wichtig ist.
