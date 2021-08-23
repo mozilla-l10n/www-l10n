@@ -12,4 +12,6 @@ learn-more-faq = Časté dotazy ohledně { -brand-name-firefox(case: "gen") }
 the-history-of = Historie webových prohlížečů
 firefox-has-been = { -brand-name-firefox } je zde téměř od samého počátku.
 firefox-rebel-with = { -brand-name-firefox }: Rebel s posláním
+firefox-is-independent = { -brand-name-firefox } je nezávislý a zaštiťuje ho nezisková organizace { -brand-name-mozilla }, která bojuje za vaše práva na internetu a ten zpřístupňuje všem a všude.
+what-is-a = Co je to webový prohlížeč?
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pro { -brand-name-chromebook(case: "acc") }
