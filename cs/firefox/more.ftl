@@ -15,4 +15,5 @@ firefox-rebel-with = { -brand-name-firefox }: Rebel s posláním
 firefox-is-independent = { -brand-name-firefox } je nezávislý a zaštiťuje ho nezisková organizace { -brand-name-mozilla }, která bojuje za vaše práva na internetu a ten zpřístupňuje všem a všude.
 what-is-a = Co je to webový prohlížeč?
 a-web-browser = Webový prohlížeč vás přesune na libovolné místo internetu a umožní prohlížet text, obrázky a videa odkudkoli na světě.
+update-your-browser = Aktualizujte svůj prohlížeč na rychlý, spolehlivý a zabezpečený { -brand-name-firefox(case: "acc") }.
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pro { -brand-name-chromebook(case: "acc") }
