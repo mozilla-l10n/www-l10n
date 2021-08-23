@@ -5,4 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+firefox-products-are = Produkty { -brand-name-firefox } jsou navrženy tak, aby chránily vaše soukromí
+learn-more-about-firefox = Seznamte se s { -brand-name-firefox(case: "ins") }, jeho historií, funkcemi a posláním.
+learn-more-about = Seznamte se s prohlížeči a produkty z rodiny { -brand-name-firefox }, které zacházejí s respektem s vašimi údaji a jsou vytvořeny s cílem zajistit na kterémkoliv místě internetu soukromí.
+learn-more-faq = Časté dotazy ohledně { -brand-name-firefox(case: "gen") }
+the-history-of = Historie webových prohlížečů
+firefox-has-been = { -brand-name-firefox } je zde téměř od samého počátku.
+firefox-rebel-with = { -brand-name-firefox }: Rebel s posláním
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pro { -brand-name-chromebook(case: "acc") }
