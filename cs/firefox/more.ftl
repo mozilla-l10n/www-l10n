@@ -20,4 +20,6 @@ the-firefox-browser = Prohlížeč { -brand-name-firefox } je vytvořen tak, aby
 firefox-is-more = { -brand-name-firefox } je víc než jenom prohlížeč
 its-a-lightning = Jsou to bleskurychlé dveře k nejlepším webovým zážitkům.
 get-the-browsers = Pořiďte si prohlížeče, u kterých je vaše soukromí na prvním místě – a vždy bylo
+get-the-privacy = Mějte soukromí, které si zasloužíte. Vylepšená ochrana proti sledování zajišťuje ochranu soukromí automaticky při každém otevření prohlížeče.
+choose-which-firefox = Vyberte, který { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } chcete ve svém jazyce stáhnout
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pro { -brand-name-chromebook(case: "acc") }
