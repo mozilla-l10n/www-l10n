@@ -18,5 +18,5 @@ a-web-browser = Webový prohlížeč vás přesune na libovolné místo internet
 update-your-browser = Aktualizujte svůj prohlížeč na rychlý, spolehlivý a zabezpečený { -brand-name-firefox(case: "acc") }.
 the-firefox-browser = Prohlížeč { -brand-name-firefox } je vytvořen tak, aby na každém kroku chránil vaše soukromí – poněvadž to je nejrychlejší způsob, jak vás zbavit pomalého načítání, nepříjemných reklam a sledovacích prvků.
 firefox-is-more = { -brand-name-firefox } je víc než jenom prohlížeč
-its-a-lightning = Je to bleskurychlá cesta k nejlepším webovým zážitkům.
+its-a-lightning = Jsou to bleskurychlé dveře k nejlepším webovým zážitkům.
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pro { -brand-name-chromebook(case: "acc") }
