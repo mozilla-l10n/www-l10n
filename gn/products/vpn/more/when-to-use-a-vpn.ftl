@@ -8,6 +8,8 @@
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 mba’e eipuru hag̃ua peteĩ VPN
 vpn-when-to-use-concealing-your-true = Emokañývo nde IP kundaharape ha’etéva, kóva omo’ãta nde reratee ha oñomíta ne rendaite.
+vpn-when-to-use-encrypting-your-traffic = Ombopapapy pe jeikeita nde ha ne VPN me’ẽhára pa’ũme avave ani hag̃uáicha ombopapapy’o téra omoambue ndehegui.
+vpn-when-to-use-having-a-vpn = Erekóramo peteĩ VPN eipuru hag̃uáicha ejapose vove iporãiterei. Ápe oĩ heta techapyrã erekóvo peteĩ VPN ejeroviaha ou porãta ndéve ikatúva neremomba’éi kuri reikóko.
 vpn-when-to-use-1-a-walk = 1. Eho eguata okarusu rupi
 vpn-when-to-use-2-in-the = 2. Reikohápe
 vpn-when-to-use-3-on-the = 3. Tapére
