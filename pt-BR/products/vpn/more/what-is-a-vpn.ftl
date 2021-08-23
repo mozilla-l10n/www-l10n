@@ -26,6 +26,7 @@ vpn-what-is-when-youre-at = Quando você está em casa, o risco de maus elemento
 vpn-what-is-wait-i-thought = Espere, eu achava que o tráfego da minha internet já fosse criptografado com HTTPS…
 vpn-what-is-its-true-that = É verdade que atualmente a maioria das conexões a sites é protegida por HTTPS, o que significa que o conteúdo é criptografado, mas não os endereços IP de origem e destino. Uma VPN oferece privacidade adicional ao impedir que sites e terceiros descubram seu endereço IP.
 vpn-what-is-why-would-i = Por que devo usar uma VPN?
+vpn-what-is-hiding-your-identity = Ocultar sua identidade e encobrir seu tráfego de internet pode parecer coisa que só faz quem tem muito conhecimento de tecnologia, ou elementos duvidosos. No entanto, há uma série de motivos legítimos para você querer usar uma VPN, incluindo:
 vpn-what-is-keeping-your-online = Manter a privacidade de sua atividade online.
 vpn-what-is-keeping-your-home = Manter a privacidade da localização da sua casa ou dos lugares mais visitados.
 vpn-what-is-protecting-your-connection = Proteger sua conexão a uma rede WiFi pública, como em um café, aeroporto, loja ou biblioteca.
