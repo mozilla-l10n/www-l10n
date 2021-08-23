@@ -17,5 +17,6 @@ vpn-desktop-servers-headline = Zwjazajće so ze serwerami w cyłym swěće
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Škitajće do { $devices } gratow
+vpn-desktop-devices-copy = Waš abonement wam njewobmjezowany přistup k našej VPN-słužbje na wašim smartfonje, tableće a desktopje za { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux } wobstara.
 vpn-desktop-speed-headline = Njesměrna spěšnosć, žane wobmjezowanja
 vpn-desktop-log-headline = Waša priwatnosć na prěnim městnje steji

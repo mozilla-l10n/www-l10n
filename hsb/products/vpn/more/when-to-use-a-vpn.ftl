@@ -13,4 +13,5 @@ vpn-when-to-use-2-in-the = 2, Wu susodstwje
 vpn-when-to-use-3-on-the = 3. Po puću
 vpn-when-to-use-4-home-away = 4. Druha domizna
 vpn-when-to-use-5-in-your = 5. Doma
+vpn-when-to-use-make-sure-you = Zawěsćće so, zo rozumiće, štož VPN nječini
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, dowěryhódna VPN-słužba
