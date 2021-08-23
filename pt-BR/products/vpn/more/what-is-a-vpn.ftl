@@ -21,6 +21,7 @@ vpn-what-is-a-vpn-will = Uma VPN protege o tráfego enviado entre você e seu pr
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
 vpn-what-is-a-vpn-provider = Tipicamente, um provedor de VPN oferece uma série de pontos de conexão em diferentes partes do mundo, permitindo que você use um endereço IP de uma região diferente da sua. Assim, qualquer lugar onde você se conectar enxerga o IP da VPN, em vez de seu IP real, como origem do tráfego. O <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> roteia seu tráfego através de um servidor seguro e permite que você escolha uma localização dentre mais de { $countries } países.
 vpn-what-is-when-should-i = Quando devo usar uma VPN?
+vpn-what-is-connecting-to-a = Às vezes pode ser conveniente se conectar a uma rede pública de WiFi, como quando você está sem serviço móvel de internet ou não consegue sinal no celular. Por outro lado, usar uma rede pública de WiFi pode ser arriscado. É impossível ter certeza de que não há pessoas conectadas na mesma rede para bisbilhotar o que os outros fazem. Mesmo se o tráfego do navegador for criptografado, elas ainda podem ver quais sites você visita. E se você estiver usando um aplicativo que não tenha criptografia — mesmo atualmente, muitos não tem — elas podem ver tudo o que você faz.
 vpn-what-is-why-would-i = Por que devo usar uma VPN?
 vpn-what-is-keeping-your-online = Manter a privacidade de sua atividade online.
 vpn-what-is-keeping-your-home = Manter a privacidade da localização da sua casa ou dos lugares mais visitados.
