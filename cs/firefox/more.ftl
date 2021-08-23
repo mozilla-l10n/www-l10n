@@ -67,3 +67,5 @@ firefox-more-translate-the-web = Překládání webových stránek
 firefox-more-translate-more-than = Přímo v { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } si můžete snadno přeložit obsah stránek z více než stovky jazyků.
 firefox-more-a-guide-to = Průvodce bezpečnějšími přihlašovacími jmény a hesly
 firefox-more-more-and-more = Stále více citlivých a cenných věcí v našem životě je chráněno hesly.
+firefox-more-avoid-misinformation-heading = Vyvarujte se na internetu dezinformací – { -brand-name-firefox } je tu, aby vám pomohl
+firefox-more-avoid-misinformation-desc = Podívejte se na tipy, jak se vyhnout dezinformacím a věnovat se tomu, co je pro vás důležité.
