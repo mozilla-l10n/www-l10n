@@ -46,3 +46,7 @@ big-isnt-always = Velký není vždy nejlepší. Zvolte raději nezávislost.
 comparing-firefox-brave = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-brave(case: "ins") }
 be-bold-and = Při výběru vhodného prohlížeče buďte rozhodní a smělí.
 comparing-firefox-edge = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-edge(case: "ins") } od { -brand-name-microsoft(case: "gen") }
+youll-never-guess = Určitě neuhodnete, který prohlížeč má navrch, co se týče rychlosti a funkcí.
+comparing-firefox-ie = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-ie(case: "ins") } od { -brand-name-microsoft(case: "gen") }
+old-habits-that = Starých návyků se těžko zbavuje, ale až se tak stane, budete se cítit lépe.
+comparing-firefox-safari = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } se { -brand-name-safari(case: "ins") } od { -brand-name-apple(case: "gen") }
