@@ -52,3 +52,4 @@ old-habits-that = Starých návyků se těžko zbavuje, ale až se tak stane, bu
 comparing-firefox-safari = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } se { -brand-name-safari(case: "ins") } od { -brand-name-apple(case: "gen") }
 you-dont-have = Nemusíte používat v systému předinstalovaný prohlížeč.
 comparing-firefox-opera = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-opera(case: "ins") }
+be-free-to = Můžete opěvovat { -brand-name-firefox(case: "acc") }, kdykoli se vám zachce.
