@@ -39,4 +39,6 @@ privacy-passwords-get-help-from = Erekóta pytyvõ ñe’ẽñemi ñangarehágui
 privacy-passwords-twofactor-authentication-2fa = Ñemboaje mokõi mba’ére (2FA)
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Ne mba’ete { -brand-name-firefox } pegua, techapyrãramo, omo’ãkuaa 2FA ndive, <a { $url_sumo_2fa }>ikatukuaa eñemomaranduve ko’ápe</a>.
+#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+privacy-passwords-2fa-provides-much = 2FA ome’ẽve tekorosã umi ñe’ẽñemi añógui, hákatu ndaha’éi opavave ñanduti renda omoneĩva. Ejuhukuaa peteĩ ñanduti renda rysýi omoneĩva 2FA <a { $url_2fa }>https://twofactorauth.org</a>-pe, péicha avei tenda rysýi omoneĩ’ỹva 2FA ha mba’éichapa ejerurekuaa ñepytyvõ.
 privacy-passwords-strong-diverse-and = Imbarete, hekoeta ha multifactorial
