@@ -50,3 +50,5 @@ youll-never-guess = Určitě neuhodnete, který prohlížeč má navrch, co se t
 comparing-firefox-ie = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-ie(case: "ins") } od { -brand-name-microsoft(case: "gen") }
 old-habits-that = Starých návyků se těžko zbavuje, ale až se tak stane, budete se cítit lépe.
 comparing-firefox-safari = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } se { -brand-name-safari(case: "ins") } od { -brand-name-apple(case: "gen") }
+you-dont-have = Nemusíte používat v systému předinstalovaný prohlížeč.
+comparing-firefox-opera = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-opera(case: "ins") }
