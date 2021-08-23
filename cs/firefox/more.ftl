@@ -58,3 +58,7 @@ so-many-ads = Tolik reklam a tak málo trpělivosti… Je na čase zastavit to �
 firefox-more-protection = { -brand-name-firefox }: Více ochrany. Méně starostí.
 were-obsessed-with = Ochranou vašeho soukromí jsme posedlí. Proto je anonymní prohlížení ve { -brand-name-firefox(case: "loc") } dokonalejší než u konkurence.
 incognito-browser-what = Inkognito prohlížeč: Co to vlastně znamená
+firefox-calls-it = { -brand-name-firefox } tomu říká anonymní prohlížení, { -brand-name-chrome } anonymní režim. V obou případech můžete procházet web bez ukládání historie prohlížení.
+take-the-stress = Zbavte se stresu z hledání bezpečného prohlížeče.
+building-a-safe = Vytvořit bezpečný prohlížeč je umění i věda, protože neexistují žádná pevně daná pravidla.
+firefox-more-fingerprinter-blocking = Blokování vytváření otisku prohlížeče
