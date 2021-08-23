@@ -30,3 +30,5 @@ firefox-more-little-book = Drobný spis o ochraně soukromí
 firefox-more-you-can-reclaim = Své soukromí a kontrolu nad svým internetovým prostředím můžete získat zpět! Je to vlastně překvapivě snadné. Zvládne to každý.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-more-access-your-sync = Mějte přístup ke svým záložkám, heslům, otevřeným panelům a dalším věcem všude, kde používáte { -brand-name-firefox(case: "acc") }.
+we-believe-everyone = Věříme, že přístup k internetu by měl mít každý – proto s pomocí zapálených dobrovolníků z celého světa zpřístupňujeme { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } ve více než 90 jazycích.
+firefox-fights-for = { -brand-name-firefox } za vás ve { -brand-name-windows(case: "loc") } bojuje
