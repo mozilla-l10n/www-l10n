@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Уникайте хибної інформації в Мережі – { -brand-name-firefox } тут, щоб допомогти
 misinformation-page-desc = Хибна інформація дратує, відвертає увагу і коштує дорого. { -brand-name-firefox } містить кілька порад, як уникнути неправдивої інформації та бачити менше її під час перегляду вебсторінок.
 misinformation-page-subheading = Ознайомтеся з порадами щодо того, як бачити менше хибної інформації та зосередитись на тому, що для вас важливо.
