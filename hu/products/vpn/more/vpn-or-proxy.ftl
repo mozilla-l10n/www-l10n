@@ -10,4 +10,5 @@ vpn-or-proxy-the-difference-between = A különbség a VPN és a webes proxy kö
 vpn-or-proxy-when-should-you = Mikor válasszon VPN-t vagy biztonságos proxyt?
 vpn-or-proxy-secure-web-proxy = Biztonságos webes proxy: böngésző szintű védelem
 vpn-or-proxy-vpns-devicelevel-protection = VPN-ek: eszközszintű védelem
+vpn-or-proxy-encrypting-your-traffic = Titkosítja a forgalmat Ön és a VPN szolgáltató között, így a helyi hálózaton senki nem tudja azt megfejteni vagy módosítani.
 vpn-or-proxy-choose-a-trustworthy = Válasszon megbízható szolgáltatást
