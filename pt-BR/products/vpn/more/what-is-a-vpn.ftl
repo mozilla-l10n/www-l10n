@@ -16,6 +16,10 @@ vpn-what-is-concealing-your-ip = Oculta seu endereço IP, protegendo sua identid
 vpn-what-is-encrypting-your-traffic = Criptografa o tráfego entre você e seu provedor de VPN para que ninguém em sua rede local possa decifrar ou modificar.
 vpn-what-is-in-the-past = No passado, VPNs eram usadas principalmente por empresas para permitir acesso remoto seguro a seus serviços internos e dados proprietários. Mas agora, VPNs estão disponíveis para qualquer um que queira proteger sua conexão com a internet, especialmente quando estiver usando redes não seguras como um WiFi público, mas também é útil em uma rede doméstica.
 vpn-what-is-a-vpn-will = Uma VPN protege o tráfego enviado entre você e seu provedor de VPN, pelo navegador, aplicativos ou outros serviços. Para configurar uma VPN, você precisa criar uma conta em um provedor de VPN e instalar um software de VPN em seu computador ou celular. Quando ativada, uma VPN controla o tráfego de todos os aplicativos e softwares em execução no seu dispositivo, para você poder navegar e se comunicar livremente através de uma conexão de rede privativa e segura.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-what-is-a-vpn-provider = Tipicamente, um provedor de VPN oferece uma série de pontos de conexão em diferentes partes do mundo, permitindo que você use um endereço IP de uma região diferente da sua. Assim, qualquer lugar onde você se conectar enxerga o IP da VPN, em vez de seu IP real, como origem do tráfego. O <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> roteia seu tráfego através de um servidor seguro e permite que você escolha uma localização dentre mais de { $countries } países.
 vpn-what-is-when-should-i = Quando devo usar uma VPN?
 vpn-what-is-why-would-i = Por que devo usar uma VPN?
 vpn-what-is-keeping-your-online = Manter a privacidade de sua atividade online.
