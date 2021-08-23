@@ -3,10 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use/
+### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 mba’e eipuru hag̃ua peteĩ VPN
+vpn-when-to-use-concealing-your-true = Emokañývo nde IP kundaharape ha’etéva, kóva omo’ãta nde reratee ha oñomíta ne rendaite.
 vpn-when-to-use-1-a-walk = 1. Eho eguata okarusu rupi
 vpn-when-to-use-2-in-the = 2. Reikohápe
 vpn-when-to-use-3-on-the = 3. Tapére
