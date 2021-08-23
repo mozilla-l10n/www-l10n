@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = 远离网上的错误信息 – { -brand-name-firefox } 可为您提供帮助
 misinformation-page-desc = 错误信息很讨人嫌，它们容易使人分心，有时甚至会令人们付出惨痛的代价。{ -brand-name-firefox } 可提供相关提示，避免您受到虚假信息的欺骗，还能让您在畅游网络时更少看到这类信息。
 misinformation-page-subheading = 了解如何更少看到错误信息，专注于重要的事情
