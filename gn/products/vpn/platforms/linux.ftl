@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } { -brand-name-linux } ({ -brand-name-ubuntu }) peg̃uarã
+vpn-linux-page-description = { -brand-name-linux } { -brand-name-ubuntu } rayhuhárarõ, eikuaáma mba’épa he’ise pe ñemigua ha tekorosã ñandutípe. Ikatuhína eikuaavoi { -brand-name-mozilla } ha umi rohechaukáva: peteĩ ñanduti hekoñemíva, ijuruja ha reigua opavave mba’éva. Jajuajumava’erã mokõivéva.
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } { -brand-name-ubuntu } peg̃uarã { -brand-name-linux } — mokõi mba’e teetéva
 vpn-linux-maker-of-firefox = Peteĩva umi téra ojejeroviaveha tembipurupyahu reheguápe, { -brand-name-mozilla } omba’apo tapiaite eñeñandu hag̃ua tekorosãme eike vove.
