@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Mějće přistup k swojim zapołožki, hesłam, wočinjenym rajtarkam a wjace – wšudźe, hdźež { -brand-name-firefox } wužiwaće a sychronizujće je.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Synchronizujće swój { -brand-name-firefox } na kóždym graće
 firefox-sync-privacy-made-easy = Priwatnosć na lochke wašnje
 firefox-sync-all-you-need = Wšitko, štož za { -brand-name-firefox-sync } trjebaće, je { -brand-name-firefox-account }.
