@@ -14,6 +14,9 @@ what-is-a-browser-a-web-browser = Peteĩ ñanduti kundahára ndegueraha oimera�
 what-is-a-browser-its-important = Opavave oikekuaava’erã ñandutípe, avei opavave <a href="{ $tools }">jaikuaapava’erã tembipurukuéra</a> jaipurúva jaike hag̃ua pype. Jaipuru ñanduti kundahára { -brand-name-mozilla } { -brand-name-firefox }, { -brand-name-google } { -brand-name-chrome }, { -brand-name-microsoft } { -brand-name-edge } ha { -brand-name-apple } { -brand-name-safari } opaite ára, hákatu ¿roikumby añetete mba’eichagua ha mba’éichapa oku’e?
 what-is-a-browser-in-a-short-period = Nda’areietépe, rohasa ñemondýi rire mba’éichapa romondo ñanduti veve oimeraẽvape arapy tuichakue jave ha mba’éichapa roñamindu’u ko’ág̃a iñambueha marandukuéra.
 what-is-a-browser-how-does-a-web = ¿Mba’éicha omba’apo ñanduti kundahára?
+# Variables:
+#   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
+what-is-a-browser-when-the-web-browser = Pe ñanduti kundahára orekóvo apopyvusu mba’ekuaarã iñandutíva, oipuru software ojeheróva motor de renderizado omoñe’ẽasa hag̃ua umi mba’ekuaarã moñe’ẽrãme térã ta’ãngápe. Ko’ã mba’ekuaarã ojehai <a href="{ $html }">Marcas de hipertexto ñe’ẽme</a> (HTML) ha ñanduti kundaharakuéra omoñe’ẽ ko ayvu omoheñói hag̃ua jahecha, ñahendu ha jajapóva ñandutípe.
 what-is-a-browser-cookies-not-the = Kookie (ndaha’éi oje’úva)
 what-is-a-browser-when-you-go-to = Eikévo ñanduti rendápe, kuatiarogue imandu’a nde puruhára réra ha ñe’ẽñemíre, kóva ikatu peteĩ kookie rupive.
 what-is-a-browser-understanding = Ñemigua ñeikumby
