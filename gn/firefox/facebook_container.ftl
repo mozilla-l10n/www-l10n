@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Ñem
 facebook-container-get-the-facebook-container = Eguereko "{ -brand-name-facebook-container }" jepysokue
 facebook-container-download-firefox-and-get-the = Emboguejy { -brand-name-firefox } eguereko hag̃ua "{ -brand-name-facebook-container }" jepysokue
 facebook-container-only-available-for-desktop = Ko { -brand-name-facebook-container } jepysokue ikatu eipuru { -brand-name-firefox } mohendahápe añoite.
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
