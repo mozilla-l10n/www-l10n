@@ -24,3 +24,5 @@ misinformation-known-to-br-credible = Je znám jako důvěryhodný? Pokud si nej
 misinformation-overly-sensational = Je titulek až moc senzační?
 misinformation-check-out-websites = Projděte si weby a zpravodajské servery, kterým důvěřujete, a zjistěte, zda a jak informují o tomtéž tématu. Obsah, který má za cíl manipulovat, bude často používat extrémy a přehánění, pro něž neexistují žádné důkazy, a nenajdete je v dobře ověřeném zpravodajství.
 misinformation-content-up-to-date = Je obsah aktuální?
+misinformation-outdated-information = Zastaralé informace nemusí nutně znamenat dezinformaci, ale již nemusí být věcně správné.
+misinformation-credible-publication = Publikoval autor další články nebo příspěvky, nejlépe také v důvěryhodných publikacích?
