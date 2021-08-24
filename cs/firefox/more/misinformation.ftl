@@ -36,3 +36,8 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } má pod 
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = Jak již bylo zmíněno, velkou roli při šíření mylných informací hraje sledování. <a href="{ $firefox }">Používání { -brand-name-firefox(case: "gen") }</a> s <a href="{ $protection }">rozšířenou ochranou proti sledování</a> pomáhá tím, že při procházení webu ve výchozím nastavení blokuje sledovací prvky třetích stran od mnoha reklamních systémů a dalších subjektů, takže nad svými údaji na internetu máte opět kontrolu.
 misinformation-social-media-clean-heading = { -brand-name-firefox } pomáhá udržovat vaše kanály na sociálních sítích čisté:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Sociální sítě toho o vás vědí hodně. Navíc vás mohou sledovat i mimo své platformy pomocí tlačítek Sdílet a To se mi líbí, a to i přes ochranu proti sledování – i když nemáte účet. Doplněk <a href="{ $container }">{ -brand-name-facebook-container }</a> pro { -brand-name-firefox(case: "acc") } zajišťuje, že to { -brand-name-facebook } a { -brand-name-instagram } nedokážou tak snadno, což opět značně snižuje pravděpodobnost zobrazení dezinformací prostřednictvím reklam a propagovaného obsahu.
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = { -brand-name-firefox } vám pomůže najít obsah, který stojí za váš čas:
