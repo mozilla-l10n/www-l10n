@@ -22,3 +22,5 @@ misinformation-spot-online-heading = Jak na internetu poznat nepravdivé informa
 misinformation-look-at-url = Podívejte se na adresu URL a/nebo na zdroj.
 misinformation-known-to-br-credible = Je znám jako důvěryhodný? Pokud si nejste jisti, zkuste si na internetu o tomto zdroji a o jeho pověsti zjistit bližší informace.
 misinformation-overly-sensational = Je titulek až moc senzační?
+misinformation-check-out-websites = Projděte si weby a zpravodajské servery, kterým důvěřujete, a zjistěte, zda a jak informují o tomtéž tématu. Obsah, který má za cíl manipulovat, bude často používat extrémy a přehánění, pro něž neexistují žádné důkazy, a nenajdete je v dobře ověřeném zpravodajství.
+misinformation-content-up-to-date = Je obsah aktuální?
