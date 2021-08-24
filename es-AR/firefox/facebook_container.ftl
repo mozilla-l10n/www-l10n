@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Bien
 facebook-container-get-the-facebook-container = Obtener la extensión { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Descargá { -brand-name-firefox } y obtené la extensión { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = La extensión { -brand-name-facebook-container } actualmente solo está disponible para { -brand-name-firefox } para escritorio.
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -28,7 +29,7 @@ facebook-container-facebook-can-track-almost = { -brand-name-facebook } puede ra
 facebook-container-install-and-contain = Instalá y contené
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-installing-the-extension-is = Es fácil instalar la <a href="{ $fbcontainer }">extensión</a> y, una vez activada, { -brand-name-facebook } se abrirá en una pestaña azul cada vez que la utiliza. Usá y disfruta de { -brand-name-facebook } normalmente. { -brand-name-facebook } seguirá siendo capaz de enviar publicidad y recomendaciones en su sitio, pero será mucho más difícil que { -brand-name-facebook } para use tu actividad recolectada <strong>fuera de { -brand-name-facebook }</strong> para enviarte anuncios y otros mensajes dirigidos a vos.
+facebook-container-installing-the-extension-is = Es fácil instalar la <a href="{ $fbcontainer }">extensión</a> y, una vez activada, { -brand-name-facebook } se abrirá en una pestaña azul cada vez que la utiliza. Usá y disfruta de { -brand-name-facebook } normalmente. { -brand-name-facebook } seguirá siendo capaz de enviar publicidad y recomendaciones en su sitio, pero será mucho más difícil que { -brand-name-facebook } use tu actividad recolectada <strong>fuera de { -brand-name-facebook }</strong> para enviarte anuncios y otros mensajes dirigidos a vos.
 facebook-container-about-firefox-and-mozilla = Acerca de { -brand-name-firefox } y { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
