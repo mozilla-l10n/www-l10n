@@ -38,7 +38,7 @@ misinformation-firefox-keeps-trackers-desc = Jak již bylo zmíněno, velkou rol
 misinformation-social-media-clean-heading = { -brand-name-firefox } pomáhá udržovat vaše kanály na sociálních sítích čisté:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
-misinformation-social-media-clean-desc = Sociální sítě toho o vás vědí hodně. Navíc vás mohou sledovat i mimo své platformy pomocí tlačítek „Sdílet“ a „To se mi líbí“ i přes ochranu proti sledování – i když nemáte účet. Doplněk <a href="{ $container }">{ -brand-name-facebook-container }</a> pro { -brand-name-firefox(case: "acc") } zajišťuje, že to { -brand-name-facebook } a { -brand-name-instagram } nedokážou tak snadno, což opět značně snižuje pravděpodobnost zobrazení dezinformací prostřednictvím reklam a propagovaného obsahu.
+misinformation-social-media-clean-desc = Sociální sítě toho o vás vědí hodně. Navíc vás mohou sledovat i mimo své platformy pomocí tlačítek „Sdílet“ a „To se mi líbí“ i přes ochranu proti sledování – i když nemáte účet. Doplněk <a href="{ $container }">{ -brand-name-facebook-container }</a> pro { -brand-name-firefox(case: "acc") } zajišťuje, že to { -brand-name-facebook } a { -brand-name-instagram } nedokážou tak snadno, což opět značně snižuje pravděpodobnost zobrazení mylných informací prostřednictvím reklam a propagovaného obsahu.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } vám pomůže najít obsah, který stojí za váš čas:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
@@ -52,3 +52,7 @@ misinformation-why-trust-firefox = Proč věřit { -brand-name-firefox(case: "da
 #   $foundation (url) - link to https://foundation.mozilla.org/
 misinformation-because-we-put-people-first = Protože pro nás jsou na prvním místě lidé. Ve skutečnosti za námi stojí <a href="{ $foundation }">nezisková organizace</a>. Od prvního dne je naším posláním ochrana internetu a všech lidí na něm.
 misinformation-learn-more-about-our-mission = Zjistěte více o naší misi
+misinformation-your-privacy-by-the-product = Vaše soukromí s našimi produkty
+misinformation-firefox-products-work-differently = Produkty { -brand-name-firefox } fungují jinak – mají totiž v první řadě chránit vaše soukromí.
+misinformation-learn-about-our-products = Zjistěte více o našich produktech
+misinformation-designed-to-protect = Navržen pro ochranu vašeho soukromí
