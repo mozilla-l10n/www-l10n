@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. На
 facebook-container-get-the-facebook-container = Отримайте розширення { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Завантажте { -brand-name-firefox } та встановіть розширення { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Розширення { -brand-name-facebook-container } наразі доступне лише у { -brand-name-firefox } для комп'ютерів.
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
