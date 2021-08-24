@@ -26,3 +26,5 @@ misinformation-check-out-websites = Projděte si weby a zpravodajské servery, k
 misinformation-content-up-to-date = Je obsah aktuální?
 misinformation-outdated-information = Zastaralé informace nemusí nutně znamenat dezinformaci, ale již nemusí být věcně správné.
 misinformation-credible-publication = Publikoval autor další články nebo příspěvky, nejlépe také v důvěryhodných publikacích?
+misinformation-authors-name = Pokud najdete jméno autora pouze na pochybných stránkách, neměli byste jeho tvrzením přikládat příliš velký význam.
+misinformation-images-captions = Odpovídají obrázky svým popiskům?
