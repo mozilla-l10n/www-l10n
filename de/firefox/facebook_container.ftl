@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = Pack { -brand-name-facebook } 
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } hinzufügen
 facebook-container-download-firefox-and-get-the = Lade dir { -brand-name-firefox } herunter und füge die { -brand-name-facebook-container } Erweiterung hinzu
 facebook-container-only-available-for-desktop = Die { -brand-name-facebook-container } Erweiterung ist aktuell nur für { -brand-name-firefox } für Desktop verfügbar.
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
