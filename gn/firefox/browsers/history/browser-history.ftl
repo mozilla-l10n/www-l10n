@@ -8,6 +8,7 @@
 browser-history-browser-history = Kundahára rembiasakue: ñorairõ guasu pokatúre oguerúva kundahára pyahu
 browser-history-the-browser-wars-underdogs-giants = Umi kundahára ñorairõ, umi michĩvéva tuichavéva rovake ha omoambuéva arapy. Emoñe’ẽ ñanduti kundahára rembiasakue.
 browser-history-the-history-of-web = Ñanduti kundahára rembiasakue
+browser-history-world-history-is = Arapy rembiasakuépe heta ñorairõ guasu pokaturã, tekoveñaña oipotáva arapy tuichakue ha tapicha rekoporã oñemomba’e’ỹva. Ñanduti kundahára rembiasakue naiñambuéi pévagui. Mbo’ehaovusugua omoheñoiva’ekue software apo omoñepyrũ marandu ñemyasãi ha oñepyrũ ñorairõ mávapa omotenondéta kundahára ha ñanduti puruhára apytépe.
 browser-history-before-web-era = Ñanduti mboyveguare
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
