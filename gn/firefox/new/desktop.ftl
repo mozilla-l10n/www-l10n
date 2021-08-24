@@ -122,6 +122,9 @@ firefox-desktop-download-learn-about-the = Eikuave { -brand-name-firefox } kunda
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Ne rekorosã guive marandu ha ñembosarái peve, oĩ <a { $attrs }>moĩmbaha opavavépe g̃uarã</a>. Embojuaju eikotevẽva ne kundahára eipotaháicha peve.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } omoheñói <a { $attrs }>{ -brand-name-mozilla }</a> peteĩ kundahára ipya’e ha hekoñemíva { -brand-name-ie } rovake, ha ko’ág̃a { -brand-name-chrome }. Ko ára rupi, ore pytyvõhára rekoha ha mba’apohaguasu rembiecha omoakãrapu’ãva ha omomba’éva ne rekoñemi opamba’e ári.
+# Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } eipurukuaa opaite mba’e’okápe; eraha tendayke, tembiasakue ha techaukaha nendive. Opamba’e eikotevẽva ha’e <a { $attrs }>{ -brand-name-firefox } mba’ete</a>.
 # Variables:
