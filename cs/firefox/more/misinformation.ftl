@@ -28,3 +28,4 @@ misinformation-outdated-information = Zastaralé informace nemusí nutně znamen
 misinformation-credible-publication = Publikoval autor další články nebo příspěvky, nejlépe také v důvěryhodných publikacích?
 misinformation-authors-name = Pokud najdete jméno autora pouze na pochybných stránkách, neměli byste jeho tvrzením přikládat příliš velký význam.
 misinformation-images-captions = Odpovídají obrázky svým popiskům?
+misinformation-images-are-powerful = Obrázky jsou velmi silným nástrojem cílené dezinformace. V závislosti na titulku lze jeho vnímání překroutit do absolutního opaku. Pokud si nejste jisti, proveďte vyhledání podle obrázku, abyste zjistili, jak je obrázek popsán na jiných webech.
