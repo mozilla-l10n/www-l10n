@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Wedi
 facebook-container-get-the-facebook-container = Cael yr Estyniad { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Llwythwch { -brand-name-firefox } i Lawr a defnyddiwch y { -brand-name-facebook-container } Extension
 facebook-container-only-available-for-desktop = Mae'r Estyniad { -brand-name-facebook-container } ar gael ar gyfer { -brand-name-firefox } y Bwrdd Gwaith yn unig ar hyn o bryd.
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
