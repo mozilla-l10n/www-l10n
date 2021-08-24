@@ -18,4 +18,7 @@ nightly-whatsnew-this-is-a-good = Roaguyjeveme’ẽ ore pytyvõ haguére { -bra
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Eikuaasevéramo oikóva { -brand-name-nightly } jerére ha pe hekoha rupi, ikatukuaa eñepyrũ emoñe’ẽvo ore <a href="{ $blog }">blog</a> ha orerapykueho <a href="{ $twitter }">{ -brand-name-twitter }</a>.
+# Variables:
+#   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
+nightly-whatsnew-want-to-know-which = ¿Eikuaase mba’éichagua plataforma eipurukuaa { -brand-name-nightly } ndive ha ndaikatúiva ojehecha ambue canal { -brand-name-firefox } mba’évape? Upévare ehechami kuatiarogue <a href="{ $mdn }">mba’e oñeha’ãva</a> <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>-pe.
 nightly-whatsnew-go-community = ¡Che maitei tekohápe!
