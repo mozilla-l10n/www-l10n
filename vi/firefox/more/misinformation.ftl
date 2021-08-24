@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Tránh thông tin sai lệch trực tuyến – { -brand-name-firefox } sẵn sàng trợ giúp
 misinformation-page-desc = Thông tin sai lệch gây phiền nhiễu, mất tập trung và tốn kém. { -brand-name-firefox } có một số mẹo để tránh thông tin sai lệch – và ít thấy thông tin đó hơn khi duyệt web.
 misinformation-page-subheading = Xem các mẹo để biết ít thông tin sai lệch hơn và tập trung vào những gì quan trọng đối với bạn.
