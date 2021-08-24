@@ -10,6 +10,7 @@ browser-history-the-browser-wars-underdogs-giants = Umi kundahára ñorairõ, um
 browser-history-the-history-of-web = Ñanduti kundahára rembiasakue
 browser-history-world-history-is = Arapy rembiasakuépe heta ñorairõ guasu pokaturã, tekoveñaña oipotáva arapy tuichakue ha tapicha rekoporã oñemomba’e’ỹva. Ñanduti kundahára rembiasakue naiñambuéi pévagui. Mbo’ehaovusugua omoheñoiva’ekue software apo omoñepyrũ marandu ñemyasãi ha oñepyrũ ñorairõ mávapa omotenondéta kundahára ha ñanduti puruhára apytépe.
 browser-history-before-web-era = Ñanduti mboyveguare
+browser-history-in-1950-computers = 1950-pe, umi mohendaha omyanyhẽva’ekue peteĩ koty ha ivyrove umi jepapaha ag̃aguágui. Hákatu pyaeterei oñakãrapu’ã ha péicha 1960-pe oñemoheñóima tembiaporape ikatupyrýva. Tekuái ha mbo’ehaovusu arapy tuichakue jave oñamindu’u iporãvetaha pe mohendaha oñe’ẽramo, oipytyvõtava mba’ekuaa pyahu iñapysẽtava.
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> ha’e apopyrã ñandutigua peteĩha oikoitéva ha 1969 jave oñemondo pe ñe’ẽmondo peteĩha Universidad de California, Los Ángeles (UCLA) rembipurupyahu rekohatee guive Instituto de Investigación de Stanford (SRI)-pe, avei California-gua.
