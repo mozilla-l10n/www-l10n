@@ -6,5 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
 
 vpn-or-proxy-stop-isps-from = İSS’lerin sizi gözetlemesini durdurun
+vpn-or-proxy-when-should-you = Ne zaman VPN veya güvenli bir proxy kullanmalısınız?
 vpn-or-proxy-vpns-devicelevel-protection = VPN’ler: cihaz düzeyinde koruma
 vpn-or-proxy-choose-a-trustworthy = Güvenilir bir hizmet seçin
