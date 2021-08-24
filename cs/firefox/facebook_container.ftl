@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Dob�
 facebook-container-get-the-facebook-container = Získat doplněk { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Stáhněte si { -brand-name-firefox(case: "acc") } a získejte doplněk { -brand-name-facebook-container }.
 facebook-container-only-available-for-desktop = Doplněk { -brand-name-facebook-container } je nyní dostupný jen ve { -brand-name-firefox(case: "loc") } pro počítač.
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
