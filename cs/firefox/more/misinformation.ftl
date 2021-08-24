@@ -30,4 +30,9 @@ misinformation-authors-name = Pokud najdete jméno autora pouze na pochybných s
 misinformation-images-captions = Odpovídají obrázky svým popiskům?
 misinformation-images-are-powerful = Obrázky jsou velmi silným nástrojem cílené dezinformace. V závislosti na titulku lze jeho vnímání překroutit do absolutního opaku. Pokud si nejste jisti, proveďte vyhledání podle obrázku, abyste zjistili, jak je obrázek popsán na jiných webech.
 misinformation-how-firefox-helps-heading = Jak vám { -brand-name-firefox } pomáhá vyhnout se mylným informacím
-misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } má sledovací prvky pod kontrolou:
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } má pod kontrolou sledovací prvky:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Jak již bylo zmíněno, velkou roli při šíření mylných informací hraje sledování. <a href="{ $firefox }">Používání { -brand-name-firefox(case: "gen") }</a> s <a href="{ $protection }">rozšířenou ochranou proti sledování</a> pomáhá tím, že při procházení webu ve výchozím nastavení blokuje sledovací prvky třetích stran od mnoha reklamních systémů a dalších subjektů, takže nad svými údaji na internetu máte opět kontrolu.
+misinformation-social-media-clean-heading = { -brand-name-firefox } pomáhá udržovat vaše kanály na sociálních sítích čisté:
