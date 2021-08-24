@@ -45,7 +45,7 @@ vpn-what-is-weve-done-the = Nós nos esforçamos muito para assegurar que o <a h
 vpn-what-is-can-vpns-protect = VPNs podem me proteger de cibercriminosos?
 # Variables
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
-vpn-what-is-while-a-vpn = Embora uma VPN forneça conexão segura com a Internet, ela não protege você de todos os elementos mal-intencionados que estão por aí. Sempre que estiver online, com ou sem uma VPN, você deve ter cuidado com links suspeitos, campanhas de desinformação, fraudes e outras ameaças. <a href="{ $url }">Ficar seguro online</a> deve ser uma atitude cotidiana.
+vpn-what-is-while-a-vpn = Embora uma VPN forneça conexão segura com a internet, ela não protege você de todos os elementos mal-intencionados que estão por aí. Sempre que estiver online, com ou sem VPN, você deve ter cuidado com links suspeitos, campanhas de desinformação, fraudes e outras ameaças. <a href="{ $url }">Permanecer seguro online</a> deve ser uma atitude cotidiana.
 vpn-what-is-are-vpns-legal = É juridicamente legal usar VPNs?
 vpn-what-is-installing-and-using = Atualmente, instalar e usar uma VPN é legal na maioria dos países, incluindo Estados Unidos, Reino Unido, Canadá e Nova Zelândia, mas alguns países podem regular seu uso. Se você escolher usar uma VPN, é sua responsabilidade verificar as leis do país onde está para saber se usar atende ou não à legislação.
 vpn-what-is-are-vpns-only = VPNs são só para computadores?
