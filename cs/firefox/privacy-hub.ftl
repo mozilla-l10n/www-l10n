@@ -68,6 +68,7 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Hesla a přihlašovací údaje uložené ve { -brand-name-firefox-lockwise(case: "loc") } jsou na všech vašich zařízeních zašifrovány, takže je nevidíme ani my.
 firefox-privacy-hub-learn-more-about-lockwise = Zjistěte více o { -brand-name-lockwise(case: "loc") }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Názvy ani obsah velkých souborů, které sdílíte prostřednictvím služby { -brand-name-firefox-send }, nemůžeme vidět, protože jsou šifrovány mezi koncovými body – vy rozhodujete o tom, kdo odeslané soubory uvidí, a můžete dokonce nastavit datum vypršení platnosti a heslo.
 firefox-privacy-hub-send-a-file = Poslat soubor
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Získejte { -brand-name-pocket(case: "acc") }
