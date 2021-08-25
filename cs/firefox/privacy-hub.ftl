@@ -5,12 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = Slib ochrany osobních údajů ve { -brand-name-firefox(case: "loc") }
+# HTML page description
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } si bere méně dat, uchovává je v bezpečí a bez tajností.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-privacy-hub-firefox-products-are-designed = Produkty { -brand-name-firefox } jsou navrženy tak, aby chránily vaše <strong>soukromí</strong>
 # Sub navigation title
 firefox-privacy-privacy = Soukromí
 # Sub navigation link
 firefox-privacy-our-promise = Náš slib
 # Sub navigation link
 firefox-privacy-our-products = Naše produkty
+firefox-privacy-hub-you-should-be-able-to-decide = O tom, kdo uvidí vaše osobní údaje, byste měli mít možnost rozhodnout vy sami. Nejen mezi svými přáteli, ale u všech inzerentů a společností na internetu – včetně nás.
 firefox-privacy-hub-keep-it-safe = Uchovejte ho v bezpečí
 firefox-privacy-hub-no-secrets = Žádná tajemství
 firefox-privacy-hub-youll-always-know-where-you = S námi vždy víte, na čem jste
