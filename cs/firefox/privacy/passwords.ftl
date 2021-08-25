@@ -7,3 +7,8 @@
 
 # HTML page title
 privacy-passwords-security-guide-to = Průvodce bezpečnějšími přihlašovacími jmény a hesly
+# HTML page description
+privacy-passwords-more-and-more-desc = Stále více citlivých a cenných věcí v našem životě je střeženo prostřednictvím heslem chráněných internetových účtů. Jak bychom měli chránit své přihlašovací údaje?
+# page content
+privacy-passwords-a-security-guide = Průvodce bezpečnějšími přihlašovacími jmény a hesly
+privacy-passwords-protecting-your-accounts = Ochrana vašich účtů nemusí být složitá – a { -brand-name-firefox } vám s ní může pomoci.
