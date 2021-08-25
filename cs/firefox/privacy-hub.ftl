@@ -62,6 +62,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Pokud máte { -brand-name-fi
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Každý den je pro uživatele { -brand-name-firefox(case: "gen") } na celém světě zablokováno více než { $trackers } sledovacích prvků
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Když zadáte svou e-mailovou adresu do služby { -brand-name-firefox-monitor }, zapomeneme ji hned poté, co jsme prověřili shodu ve známých případech úniku dat – pokud nebudete chtít, abychom pokračovali ve sledování nových případů úniku vašich osobních údajů.
 firefox-privacy-hub-check-for-breaches = Zkontrolovat úniky
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-learn-more-about-lockwise = Zjistěte více o { -brand-name-lockwise(case: "loc") }
