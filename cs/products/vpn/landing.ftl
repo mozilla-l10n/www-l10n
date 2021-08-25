@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
-vpn-landing-hero-sub-heading-v2 = Bezpečnost, spolehlivost a rychlost — na každém zařízení a kdekoliv jste.
+vpn-landing-hero-sub-heading-v2 = Bezpečnost, spolehlivost a rychlost – na každém zařízení a kdekoliv jste.
 # Obsolete string
 vpn-landing-hero-sub-heading = Bezpečnost, na kterou se můžete spolehnout. Jméno, kterému můžete důvěřovat.
 

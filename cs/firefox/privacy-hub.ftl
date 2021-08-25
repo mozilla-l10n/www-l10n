@@ -30,7 +30,7 @@ firefox-privacy-hub-youll-always-know-where-you = S námi vždy víte, na čem j
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
-firefox-privacy-hub-theres-no-hidden-agenda-here = Není tu žádný skrytý záměr. Naše podnikání nespočívá v tajném zneužívání vaší důvěry. Naše <a href="{ $privacy }">oznámení o ochraně osobních údajů</a> je opravdu přehledné. Kdokoli na světě se může zúčastnit našich <a href="{ $meetings }">týdenních firemních schůzek</a>. Pokud se chcete přehrabovat v každém datovém bodu, který shromažďujeme, náš kód je otevřený. A my také.
+firefox-privacy-hub-theres-no-hidden-agenda-here = Není tu žádný skrytý záměr. Naše podnikání nespočívá v tajném zneužívání vaší důvěry. Naše <a href="{ $privacy }">prohlášení o ochraně osobních údajů</a> je skutečně přehledné. Kdokoli na světě se může zúčastnit našich <a href="{ $meetings }">týdenních pracovních schůzek</a>. Pokud se chcete přehrabovat v každém datovém bodu, který shromažďujeme, náš kód je otevřený. A my také.
 firefox-privacy-hub-why-trust-firefox = Proč věřit { -brand-name-firefox(case: "dat") }
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
@@ -86,3 +86,4 @@ firefox-privacy-hub-already-have-an-account = Už máte účet? <a { $sign_in } 
 firefox-privacy-hub-read-the-privacy-notice-for = Přečtěte si <a href="{ $url }">zásady ochrany osobních údajů</a> pro naše produkty
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-privacy-hub-surf-stream-and-get-work = Surfujte, streamujte a pracujte na serverech ve více než 30 zemích a získejte tak bezpečné připojení k internetu s novou perspektivou.
+firefox-privacy-hub-get-mozilla-vpn = Získejte { -brand-name-mozilla-vpn(case: "acc") }
