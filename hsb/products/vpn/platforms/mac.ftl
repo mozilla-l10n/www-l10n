@@ -11,6 +11,7 @@
 vpn-mac-page-title = { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
 # Mac strings
 vpn-mac-hero-headline = Škitajće swój zwisk online z { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
+vpn-mac-wifi-headline = Čujće sej wěsty w dwělomnym WLAN
 vpn-mac-about-headline = Wot dowěry hódneho zhotowjerja technologije
 vpn-mac-privacy-headline = Priwatnosć k ruce
 vpn-mac-servers-headline = Přistup k serweram na cyłym swěće
