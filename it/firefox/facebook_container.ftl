@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = Mantieni la tua privacy, tracc
 facebook-container-get-the-facebook-container = Scarica l’estensione { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Scarica { -brand-name-firefox } e installa l’estensione { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = L’estensione { -brand-name-facebook-container } è attualmente disponibile solo per { -brand-name-firefox } per desktop.
+facebook-container-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

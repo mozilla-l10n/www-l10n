@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 misinformation-page-title = Evita la cattiva informazione online – { -brand-name-firefox } è qui per aiutarti
 misinformation-page-desc = La cattiva informazione (misinformation) è fastidiosa, distrae e ha un costo. { -brand-name-firefox } ha alcuni suggerimenti per evitare informazioni false e incontrarne di meno quando navighi il Web.
 misinformation-page-subheading = Dai un’occhiata ai suggerimenti per vedere meno cattiva informazione e concentrarti su ciò che è importante per te
