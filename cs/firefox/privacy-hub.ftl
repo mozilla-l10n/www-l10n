@@ -27,8 +27,16 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Usilovně pracujeme na ochr
 firefox-privacy-hub-data-security-is-complicated = Zabezpečení dat je složité – nebo by alespoň mělo být. Proto podnikáme další kroky k roztřídění dat, která máme, udržujeme pravidla pro ukládání a ochranu jednotlivých typů a naše postupy nepřestáváme zdokonalovat. Vaše soukromí je pro nás prioritou. Investujeme do něj. Jsme mu oddáni. Dokonce učíme ostatní společnosti, jak na to.
 firefox-privacy-hub-no-secrets = Žádná tajemství
 firefox-privacy-hub-youll-always-know-where-you = S námi vždy víte, na čem jste
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Není tu žádný skrytý záměr. Naše podnikání nespočívá v tajném zneužívání vaší důvěry. Naše <a href="{ $privacy }">oznámení o ochraně osobních údajů</a> je opravdu přehledné. Kdokoli na světě se může zúčastnit našich <a href="{ $meetings }">týdenních firemních schůzek</a>. Pokud se chcete přehrabovat v každém datovém bodu, který shromažďujeme, náš kód je otevřený. A my také.
 firefox-privacy-hub-why-trust-firefox = Proč věřit { -brand-name-firefox(case: "dat") }
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Protože pro nás jsou na prvním místě lidé. Ve skutečnosti za námi stojí <a href="{ $foundation }">nezisková organizace</a>. Od prvního dne je naším posláním ochrana internetu a všech lidí na něm.
 firefox-privacy-hub-learn-more-about-our-mission = Zjistěte více o naší misi
+firefox-privacy-hub-your-privacy-by-the-product = Vaše soukromí s našimi produkty
 firefox-privacy-hub-learn-about-our-products = Zjistěte více o našich produktech
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } chrání vaše soukromí v každém produktu.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>chrání</strong> vaše soukromí v každém produktu.
