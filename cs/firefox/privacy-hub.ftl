@@ -71,8 +71,10 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Názvy ani obsah velkých souborů, které sdílíte prostřednictvím služby { -brand-name-firefox-send }, nemůžeme vidět, protože jsou šifrovány mezi koncovými body – vy rozhodujete o tom, kdo odeslané soubory uvidí, a můžete dokonce nastavit datum vypršení platnosti a heslo.
 firefox-privacy-hub-send-a-file = Poslat soubor
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } doporučuje vysoce kvalitní, lidmi vybrané články bez toho, aby shromažďoval vaši historii prohlížení nebo sdílel vaše osobní údaje s reklamními společnostmi.
 firefox-privacy-hub-get-pocket = Získejte { -brand-name-pocket(case: "acc") }
 firefox-privacy-hub-your-firefox-account = Váš { -brand-name-firefox-account(capitalization: "lower") }
+firefox-privacy-hub-all-the-information-synced = Všechny informace synchronizované prostřednictvím { -brand-name-firefox-account(case: "gen") } – od historie prohlížení až po hesla – jsou šifrovány. A jediným klíčem je heslo k vašemu účtu.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
