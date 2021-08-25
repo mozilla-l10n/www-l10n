@@ -65,6 +65,7 @@ firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = Když zadáte svou e-mailovou adresu do služby { -brand-name-firefox-monitor }, zapomeneme ji hned poté, co jsme prověřili shodu ve známých případech úniku dat – pokud nebudete chtít, abychom pokračovali ve sledování nových případů úniku vašich osobních údajů.
 firefox-privacy-hub-check-for-breaches = Zkontrolovat úniky
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Hesla a přihlašovací údaje uložené ve { -brand-name-firefox-lockwise(case: "loc") } jsou na všech vašich zařízeních zašifrovány, takže je nevidíme ani my.
 firefox-privacy-hub-learn-more-about-lockwise = Zjistěte více o { -brand-name-lockwise(case: "loc") }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Poslat soubor
