@@ -46,8 +46,13 @@ firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Automaticky blokuje přes 2000 sledovacích prvků
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-tracking-has-become-an = Sledování se na internetu stalo epidemií: společnosti sledují každý pohyb, kliknutí a nákup a sbírají data, aby předvídaly a ovlivňovaly, co uděláte příště. Podle nás je to hrubý zásah do vašeho soukromí. Proto mají prohlížeče { -brand-name-firefox } pro mobilní zařízení i počítače ve výchozím nastavení zapnutou rozšířenou ochranu proti sledování.
+firefox-privacy-hub-if-you-want-to-see-what = Pokud chcete zjistit, co všechno pro vás { -brand-name-firefox } blokuje, navštivte ve { -brand-name-firefox(case: "loc") } pro počítač tuto stránku.
+firefox-privacy-hub-see-what-firefox-has-blocked = Podívejte se, co všechno pro vás { -brand-name-firefox } zablokoval
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Získejte rozšířenou ochranu proti sledování
 firefox-privacy-hub-download-the-firefox-browser = Stáhnout prohlížeč { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Aktualizujte svůj prohlížeč { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Neviditelný pro nejčastější sledovací prvky
 firefox-privacy-hub-always-in-your-control = Vždy pod vaší kontrolou
 firefox-privacy-hub-protection-beyond-tracking = Ochrana nejen před sledováním
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
