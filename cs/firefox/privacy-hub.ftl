@@ -23,6 +23,7 @@ firefox-privacy-hub-take-less = Brát méně
 firefox-privacy-hub-we-make-a-point-of-knowing = Dbáme na to, abychom o vás věděli méně
 firefox-privacy-hub-all-tech-companies-collect = Všechny technologické společnosti sbírají data, aby mohly své produkty vylepšovat. Není však nutné, aby mezi nimi bylo tolik vašich osobních údajů. Jediné údaje, které chceme my, jsou ty, které vám nakonec poslouží. Ptáme se sami sebe: Opravdu toto potřebujeme? K čemu to potřebujeme? A kdy to můžeme vymazat?
 firefox-privacy-hub-keep-it-safe = Uchovávat v bezpečí
+firefox-privacy-hub-we-do-the-hard-work-to-protect = Pracujeme tvrdě na ochraně vašich osobních údajů.
 firefox-privacy-hub-no-secrets = Žádná tajemství
 firefox-privacy-hub-youll-always-know-where-you = S námi vždy víte, na čem jste
 firefox-privacy-hub-why-trust-firefox = Proč věřit { -brand-name-firefox(case: "dat") }
