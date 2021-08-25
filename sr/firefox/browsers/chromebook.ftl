@@ -9,6 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Преузмите { -brand-name-firefox-browser } за { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = Кад већ имате нови { -brand-name-chromebook } зграбите и { -brand-name-firefox-browser }, независни прегледач са интегрисаном приватношћу који штити ваше личне податке.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Преузмите { -brand-name-firefox } за { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Преузмите { -brand-name-firefox } десктоп за { -brand-name-chromebook }
 browsers-chromebook-dropdown-copy = Преузмите { -brand-name-firefox } за { -brand-name-chromebook }

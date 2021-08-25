@@ -38,6 +38,7 @@ firefox-accounts-get-it-all-on-every = Набавите на сваком уре
 firefox-accounts-and-get-it-all-on = И набавите на сваком уређају, без осећаја да сте ограничени једним оперативним системом.
 firefox-accounts-get-the-respect-you = Осигурајте поштовање које заслужујете.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Потпуна заштита свих уређаја
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Од нас ћете увек добити истину. Све што радимо поштује <a href="{ $promise }">Обећање о личним подацима</a>:
