@@ -16,6 +16,8 @@ browsers-chromebook-x86-based-chromebook = *x86 битни { -brand-name-chromeb
 browsers-chromebook-dropdown-copy = Преузмите { -brand-name-firefox } за { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Зашто преузети <span>{ -brand-name-firefox }</span> за { -brand-name-chromebook }?
+browsers-chromebook-while-a-chromebook = Иако { -brand-name-chromebook } има већ инсталиран { -brand-name-chrome }, преузимање, инсталирање и употреба { -brand-name-firefox }-а има одређене предности:
+browsers-chromebook-alwayson-tracking-protection = Трајна заштита од праћења: подразумевано, { -brand-name-firefox } користи побољшану заштиту од праћења да заштити ваше личне податке од познатих елемената за праћење, реклама, трагача са друштвених мрежа и скрипти за рударење криптовалута.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
