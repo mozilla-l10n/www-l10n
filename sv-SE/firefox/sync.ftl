@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Få åtkomst till och synkronisera dina bokmärken, lösenord, öppna flikar och mer — var du än använder { -brand-name-firefox }.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Synkronisera { -brand-name-firefox } på vilken enhet som helst
 firefox-sync-privacy-made-easy = Integritet på ett enkelt sätt
 firefox-sync-all-you-need = Allt du behöver för { -brand-name-firefox-sync } är ett { -brand-name-firefox-account }.

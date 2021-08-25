@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Unde
 facebook-container-get-the-facebook-container = Hämta tillägget { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Ladda ner { -brand-name-firefox } och hämta tillägget { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Tillägget { -brand-name-facebook-container } är för närvarande endast tillgängligt på { -brand-name-firefox } för datorer.
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
