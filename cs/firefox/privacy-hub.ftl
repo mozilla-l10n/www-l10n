@@ -53,8 +53,14 @@ firefox-privacy-hub-get-enhanced-tracking-protection = Získejte rozšířenou o
 firefox-privacy-hub-download-the-firefox-browser = Stáhnout prohlížeč { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Aktualizujte svůj prohlížeč { -brand-name-firefox }
 firefox-privacy-hub-invisible-to-the-top-trackers = Neviditelný pro nejčastější sledovací prvky
+firefox-privacy-hub-meet-four-of-the-most-common = Seznamte se se čtyřmi nejběžnějšími skupinami sledovacích prvků, které se s vámi nesetkají.
 firefox-privacy-hub-always-in-your-control = Vždy pod vaší kontrolou
+firefox-privacy-hub-want-to-customize-what = Chcete si přizpůsobit, co se blokuje? Stačí jen jedno kliknutí.
 firefox-privacy-hub-protection-beyond-tracking = Ochrana nejen před sledováním
+firefox-privacy-hub-if-you-have-a-firefox-account = Pokud máte { -brand-name-firefox-account(case: "gen", capitalization: "lower") }, můžete se také podívat, jak vám pomáháme chránit vaše osobní údaje a hesla.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Každý den je pro uživatele { -brand-name-firefox(case: "gen") } na celém světě zablokováno více než { $trackers } sledovacích prvků
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Zkontrolovat úniky
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
