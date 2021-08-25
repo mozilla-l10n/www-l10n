@@ -27,5 +27,5 @@ home-extensions = Екстензије
 home-personalize-firefox-with-your = Уређујте { -brand-name-firefox } вашим омиљеним додацима као што су менаџер лозинки, блокатор реклама и друго.
 home-careers = Каријере
 home-learn-about-the-benefits-of = Сазнајте о бенефицијама запошљавања у { -brand-name-mozilla }-и и погледајте отворене позиције широм света.
-home-need-help = Потребна вам је помоћ?
+home-need-help = Помоћ?
 home-get-answers-to-your-questions = Нађите одговоре на ваша питања о { -brand-name-firefox }-у и свим { -brand-name-mozilla } производима од нашег тима подршке.
