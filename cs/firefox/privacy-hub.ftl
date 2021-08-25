@@ -17,7 +17,7 @@ firefox-privacy-privacy = Soukromí
 firefox-privacy-our-promise = Náš slib
 # Sub navigation link
 firefox-privacy-our-products = Naše produkty
-firefox-privacy-hub-you-should-be-able-to-decide = O tom, kdo uvidí vaše osobní údaje, byste měli mít možnost rozhodnout vy sami. Nejen mezi svými přáteli, ale u všech inzerentů a společností na internetu – včetně nás.
+firefox-privacy-hub-you-should-be-able-to-decide = Měli byste mít možnost rozhodnout, kdo uvidí vaše osobní údaje. Nejen z okruhu vašich přátel, ale i u všech společností a reklamních systémů na internetu – včetně nás.
 firefox-privacy-hub-keep-it-safe = Uchovejte ho v bezpečí
 firefox-privacy-hub-no-secrets = Žádná tajemství
 firefox-privacy-hub-youll-always-know-where-you = S námi vždy víte, na čem jste
