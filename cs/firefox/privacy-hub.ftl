@@ -17,14 +17,14 @@ firefox-privacy-privacy = Soukromí
 firefox-privacy-our-promise = Náš slib
 # Sub navigation link
 firefox-privacy-our-products = Naše produkty
-firefox-privacy-hub-you-should-be-able-to-decide = Měli byste mít možnost rozhodnout, kdo uvidí vaše osobní údaje. Nejen z okruhu vašich přátel, ale i u všech společností a reklamních systémů na internetu – včetně nás.
+firefox-privacy-hub-you-should-be-able-to-decide = Měli byste mít možnost rozhodnout, kdo uvidí vaše osobní údaje. Nejen z okruhu vašich přátel, ale i ze všech společností a reklamních systémů na internetu – včetně nás.
 firefox-privacy-hub-thats-why-everything-we-make = Proto je vše, co vytváříme a co činíme, ve shodě s naším slibem o osobních údajích.
 firefox-privacy-hub-take-less = Brát méně
 firefox-privacy-hub-we-make-a-point-of-knowing = Dbáme na to, abychom toho o vás věděli méně
 firefox-privacy-hub-all-tech-companies-collect = Všechny technologické společnosti sbírají data, aby mohly své produkty vylepšovat. Není však nutné, aby mezi nimi bylo tolik vašich osobních údajů. Jediné údaje, které chceme my, jsou ty, které vám nakonec poslouží. Ptáme se sami sebe: Opravdu toto potřebujeme? K čemu to potřebujeme? A kdy to můžeme vymazat?
 firefox-privacy-hub-keep-it-safe = Uchovávat v bezpečí
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Usilovně pracujeme na ochraně vašich osobních údajů.
-firefox-privacy-hub-data-security-is-complicated = Zabezpečení dat je složité – nebo by alespoň mělo být. Proto podnikáme další kroky k roztřídění dat, která máme, udržujeme pravidla pro ukládání a ochranu jednotlivých typů a naše postupy nepřestáváme zdokonalovat. Vaše soukromí je pro nás prioritou. Investujeme do něj. Jsme mu oddáni. Dokonce učíme ostatní společnosti, jak na to.
+firefox-privacy-hub-data-security-is-complicated = Zabezpečení dat je složité – nebo by alespoň mělo být. Proto podnikáme další kroky k roztřídění dat, která máme, udržujeme pravidla pro uchovávání a ochranu jednotlivých typů a naše postupy nepřestáváme zdokonalovat. Vaše soukromí je pro nás prioritou. Investujeme do něj. Jsme mu oddáni. Dokonce učíme ostatní společnosti, jak na to.
 firefox-privacy-hub-no-secrets = Žádná tajemství
 firefox-privacy-hub-youll-always-know-where-you = S námi vždy víte, na čem jste
 # Variables:
