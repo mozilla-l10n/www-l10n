@@ -26,3 +26,4 @@ privacy-passwords-guessing-it = Uhodne ho
 privacy-passwords-stealing-a-file = Ukradne soubor, v němž je vaše heslo uvedeno
 privacy-passwords-using-password-recovery = Pomocí funkce obnovy hesla ho resetuje
 privacy-passwords-tricking-you-into = Lstí vás navede k tomu, abyste mu heslo předali
+privacy-passwords-to-keep-your = Aby bylo vaše přihlašovací jméno v bezpečí, musíte předejít co největšímu počtu z nich. Pro každé z těchto rizik existuje jiné opatření na jeho snížení.
