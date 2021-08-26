@@ -12,3 +12,4 @@ privacy-passwords-more-and-more-desc = Stále více citlivých a cenných věcí
 # page content
 privacy-passwords-a-security-guide = Průvodce bezpečnějšími přihlašovacími jmény a hesly
 privacy-passwords-protecting-your-accounts = Ochrana vašich účtů nemusí být složitá – a { -brand-name-firefox } vám s ní může pomoci.
+privacy-passwords-more-and-more = Stále více citlivých a cenných věcí v našem životě je střeženo prostřednictvím internetových účtů chráněných heslem – milostné dopisy, lékařské záznamy, bankovní účty a mnoho dalšího. K ochraně těchto cenných věcí používají webové stránky přihlašovací procedury. Obecně platí, že pokud se někdo nemůže přihlásit k vašemu účtu, nemůže si přečíst váš e-mail ani převést peníze z vašeho bankovního účtu. Jak bychom tedy měli chránit své přihlašovací údaje, když žijeme online?
