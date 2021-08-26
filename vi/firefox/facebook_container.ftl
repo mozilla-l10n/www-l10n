@@ -11,6 +11,8 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Ki�
 facebook-container-get-the-facebook-container = Nhận tiện ích mở rộng { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Tải xuống { -brand-name-firefox } và tải Tiện ích mở rộng { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Tiện ích mở rộng { -brand-name-facebook-container } hiện chỉ khả dụng cho { -brand-name-firefox } dành cho máy tính để bàn.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
