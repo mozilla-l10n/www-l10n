@@ -23,5 +23,10 @@ vpn-ip-address-yes-even-if = Igen. Még akkor is, ha csak az otthoni internetét
 vpn-ip-address-can-more-than = Lehet-e több eszköznek ugyanaz az IP-címe?
 vpn-ip-address-this-is-a = Ez egy kicsit becsapós kérdés – a válasz igen és nem. Több eszköz is osztozhat ugyanazon a külső (nyilvános) IP-címen, de minden eszköz saját helyi (privát) IP-címmel rendelkezik. Például az ISP (internetszolgáltató) egyetlen külső IP-címmel állítja be otthonát. Mivel az útválasztó az, ami valójában az internethez csatlakozik, így az IP-cím az útválasztóhoz van rendelve. Az útválasztó ezután helyi IP-címet rendel hozzá minden olyan eszközhöz, amely egyszerre csatlakozik az internethez. A külső IP-cím az, amit megosztanak a külvilággal. A helyi IP-cím nincs megosztva a saját otthoni hálózatán kívül.
 vpn-ip-address-can-we-run = Elfogyhatnak-e?
+# Variables
+#   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
+#   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
+vpn-ip-address-when-the-internet = Amikor az internetet először tervezték, a „4-es verziójú” címeket használta. Ezek 32 bitesek, ami azt jelenti, hogy legfeljebb <a href="{ $sr }">4,2 milliárd cím</a> áll rendelkezésre. Ez akkor elégnek tűnt, de közel sem elég egy olyan világban, ahol az átlagos amerikai háztartásban <a href="{ $variety }">11 csatlakoztatott eszköz</a> van.
+vpn-ip-address-we-now-have = Jelenleg a 6-os verziójú IP-címek vannak, amelyek címenként 128 bitesek. Sajnos a 4-es és a 6-os verzió nem tud közvetlenül beszélni egymással, így az embereknek még sokáig szükségük lesz a 4-es verziójú címekre.
 vpn-ip-address-should-you-hide = El kell rejtenie az IP-címét?
 vpn-ip-address-how-do-you = Hogyan rejti el?
