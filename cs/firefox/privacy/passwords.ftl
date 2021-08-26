@@ -15,3 +15,5 @@ privacy-passwords-protecting-your-accounts = Ochrana vašich účtů nemusí bý
 privacy-passwords-more-and-more = Stále více citlivých a cenných věcí v našem životě je střeženo prostřednictvím internetových účtů chráněných heslem – milostné dopisy, lékařské záznamy, bankovní účty a mnoho dalšího. K ochraně těchto cenných věcí používají webové stránky přihlašovací procedury. Obecně platí, že pokud se někdo nemůže přihlásit k vašemu účtu, nemůže si přečíst váš e-mail ani převést peníze z vašeho bankovního účtu. Jak bychom tedy měli chránit své přihlašovací údaje, když žijeme online?
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Ve zkratce:
+privacy-passwords-use-random-passwords = Používejte náhodná hesla a pro každý web používejte jiné heslo
+privacy-passwords-pay-attention-to = Věnujte pozornost bezpečnostním signálům prohlížeče a buďte podezřívaví
