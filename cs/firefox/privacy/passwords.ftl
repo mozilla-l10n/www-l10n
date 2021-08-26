@@ -19,4 +19,4 @@ privacy-passwords-use-random-passwords = Používejte náhodná hesla a pro kaž
 privacy-passwords-pay-attention-to = Věnujte pozornost bezpečnostním signálům prohlížeče a buďte podezřívaví
 privacy-passwords-make-your-answers = Odpovědi na bezpečnostní otázky musí být stejně silné jako hesla
 privacy-passwords-use-a-password = Používejte správce hesel, který vám usnadní vytváření a zapamatování hesel
-privacy-passwords-use-twofactor-authentication = Všude, kde můžete, používejte dvoufaktorové ověření
+privacy-passwords-use-twofactor-authentication = Všude, kde můžete, používejte „dvoufázové ověření“
