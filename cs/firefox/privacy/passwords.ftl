@@ -23,3 +23,6 @@ privacy-passwords-use-twofactor-authentication = Všude, kde můžete, používe
 privacy-passwords-most-logins-today = Většina přihlašovacích jmen je dnes chráněna heslem. Pokud útočník získá vaše heslo, může se dostat do vašeho účtu a dělat s ním cokoli, co vy. Když se tedy ptáte, jak bezpečný je váš účet, měli byste se vážně zamyslet nad tím, jak bezpečné je vaše heslo. A to znamená, že musíte zvážit všechny různé způsoby, jak by se útočník mohl k heslu k vašemu účtu dostat:
 privacy-passwords-seeing-you-use = Vidí, jak ho používáte na webu neužívajícím šifrované spojení
 privacy-passwords-guessing-it = Uhodne ho
+privacy-passwords-stealing-a-file = Ukradne soubor, v němž je vaše heslo uvedeno
+privacy-passwords-using-password-recovery = Pomocí funkce obnovy hesla ho resetuje
+privacy-passwords-tricking-you-into = Lstí vás navede k tomu, abyste mu heslo předali
