@@ -11,6 +11,8 @@ facebook-container-facebook-well-contained-keep = 把 { -brand-name-facebook } �
 facebook-container-get-the-facebook-container = 安裝 { -brand-name-facebook-container } 擴充套件
 facebook-container-download-firefox-and-get-the = 下載 { -brand-name-firefox } 並安裝 { -brand-name-facebook-container } 擴充套件
 facebook-container-only-available-for-desktop = { -brand-name-facebook-container } 擴充套件目前只支援 { -brand-name-firefox } 桌面版。
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
