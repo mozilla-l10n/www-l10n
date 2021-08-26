@@ -9,6 +9,7 @@
 vpn-ip-address-what-is-an-ip-address = Mi az IP-cím?
 # HTML page description and intro
 vpn-ip-address-mozilla-answers-all-of = A { -brand-name-mozilla } megválaszolja az összes kérdését az IP-címekről, kezdve azzal, hogy mi is az IP-cím, hogyan működik, és hogyan rejtheti el.
+vpn-ip-address-every-time-you = Minden alkalommal, amikor az internetet használja, az IP-címek alapvető szerepet játszanak az információcserében, hogy segítsenek megtekinteni a kért webhelyeket. Ennek ellenére előfordulhat, hogy nem tudja, mi az, ezért az alábbiakban a leggyakrabban feltett kérdéseket taglaljuk.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Egy IP-cím négy szám sorozata, amely pontokkal van elválasztva: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Ha megkeresi az IP-címét, akkor valahogy így fog kinézni.
