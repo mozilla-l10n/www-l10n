@@ -32,7 +32,7 @@ privacy-index-to-review-and-comment-on-proposed = Pro hodnocení a návrh změn 
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Přečtěte si více o dlouhodobé práci { -brand-name-mozilla(case: "gen") } v oblastech soukromí a bezpečnosti na <a href="{ $blog }">našem blogu Open Policy and Advocacy</a>.
 privacy-index-outdated-policies = Staré Zásady
-privacy-index-mozilla-websites-communications = Webové stránky Mozilly, Komunikace &amp; Cookies
+privacy-index-mozilla-websites-communications = Webové stránky { -brand-name-mozilla(case: "gen") }, Komunikace &amp; Cookies
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
