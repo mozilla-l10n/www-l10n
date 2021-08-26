@@ -17,3 +17,5 @@ privacy-passwords-more-and-more = Stále více citlivých a cenných věcí v na
 privacy-passwords-tldr = Ve zkratce:
 privacy-passwords-use-random-passwords = Používejte náhodná hesla a pro každý web používejte jiné heslo
 privacy-passwords-pay-attention-to = Věnujte pozornost bezpečnostním signálům prohlížeče a buďte podezřívaví
+privacy-passwords-make-your-answers = Odpovědi na bezpečnostní otázky musí být stejně silné jako hesla
+privacy-passwords-use-a-password = Používejte správce hesel, který vám usnadní vytváření a zapamatování hesel
