@@ -14,10 +14,10 @@ vpn-shared-available-countries = Nous proposons actuellement { -brand-name-mozil
 # Outdated string
 vpn-shared-available-countries-v2 = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Royaume-Uni, en Allemagne, en France, au Canada, en Malaisie, en Nouvelle-Zélande et à Singapour.
 vpn-shared-available-countries-v3 = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Canada, au Royaume-Uni, en Allemagne, en France, en Italie, en Espagne, en Belgique, en Autriche, en Suisse, en Malaisie, en Nouvelle-Zélande et à Singapour.
-vpn-shared-money-back-guarantee = Garantie de remboursement jusqu’à 30 jours
+vpn-shared-money-back-guarantee = Une garantie de remboursement jusqu’à 30 jours
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
-vpn-shared-featured-in = Ce qu’on dit de nous
-vpn-shared-features-encrypt = Chiffrement de l’appareil
+vpn-shared-featured-in = On parle de nous
+vpn-shared-features-encrypt = Le chiffrement de l’appareil
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -30,7 +30,7 @@ vpn-shared-features-activity-logs = Aucune trace de vos activités en ligne n’
 vpn-shared-features-access-countries = Accès aux serveurs de plus de { $countries } pays
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Possibilité de connecter jusqu’à 5 appareils
+vpn-shared-features-devices = La possibilité de connecter jusqu’à 5 appareils
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Protection pour un maximum de { $devices } appareils
@@ -62,7 +62,7 @@ vpn-shared-pricing-variable-heading-v2 = Optez pour l’abonnement qui vous conv
 # Outdated string
 vpn-shared-pricing-variable-heading = Optez pour l’abonnement qui vous convient
 vpn-shared-pricing-variable-sub-heading = Tous nos abonnements comprennent :
-vpn-shared-pricing-recommended-offer = Recommandation
+vpn-shared-pricing-recommended-offer = Notre recommandation
 vpn-shared-pricing-plan-6-month = 6 mois
 vpn-shared-pricing-plan-12-month = 12 mois
 vpn-shared-pricing-plan-monthly = 1 mois
@@ -77,7 +77,7 @@ vpn-shared-pricing-get-monthly = Optez pour un abonnement mensuel
 vpn-shared-pricing-save-percent = { $percent } % d’économie
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
-vpn-shared-pricing-total = Total { $amount }
+vpn-shared-pricing-total = Soit { $amount }
 
 # Platform subpage shared strings
 

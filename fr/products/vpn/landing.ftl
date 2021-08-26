@@ -15,7 +15,7 @@ vpn-landing-page-desc = Utilisez { -brand-name-mozilla-vpn } pour une protection
 vpn-landing-hero-sub-heading = Une sécurité infaillible. Un partenaire de confiance.
 vpn-landing-hero-desc = Le nouveau réseau privé virtuel conçu par les équipes de { -brand-name-firefox }.
 vpn-landing-privacy-heading = Un clic, plus de confidentialité
-vpn-landing-privacy-desc = Surfez, jouez, travaillez et streamez tout en préservant votre confidentialité sur Internet. Pour tous vos déplacements, lorsque vous utilisez le WiFi public, ou quand vous avez tout simplement besoin de plus de sécurité en ligne, votre confidentialité sera toujours notre priorité.
+vpn-landing-privacy-desc = Surfez, jouez, travaillez et streamez tout en préservant votre confidentialité sur Internet. Pour tous vos déplacements, lorsque vous utilisez le Wi-Fi public, ou quand vous avez tout simplement besoin de plus de sécurité en ligne, votre confidentialité sera toujours notre priorité.
 vpn-landing-fast-secure-heading = Réseau rapide et sécurisé
 # Obsolete string
 # Variables:
