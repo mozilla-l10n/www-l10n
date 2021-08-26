@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Kerülje az online félretájékoztatást – a { -brand-name-firefox } segítségére van
 misinformation-page-desc = A téves információ idegesítő, zavaró és drága. A { -brand-name-firefox }nak van néhány tippje a hamis információk elkerülése érdekében – és lehetővé teszi, hogy kevesebbet lásson ezekből a világháló böngészése során.
 misinformation-page-subheading = Nézzen meg tippeket, hogy kevesebb téves információt láthasson, és arra koncentrálhasson, ami fontos Önnek.

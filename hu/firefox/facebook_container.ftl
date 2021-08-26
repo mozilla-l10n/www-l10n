@@ -11,6 +11,9 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Elk�
 facebook-container-get-the-facebook-container = Szerezze be a { -brand-name-facebook-container } kiegészítőt
 facebook-container-download-firefox-and-get-the = Töltse le a { -brand-name-firefox }ot, és szerezze be a { -brand-name-facebook-container } kiegészítőt
 facebook-container-only-available-for-desktop = A { -brand-name-facebook-container } kiegészítő jelenleg csak az asztali { -brand-name-firefox }ra érhető el.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
