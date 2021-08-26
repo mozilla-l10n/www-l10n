@@ -40,7 +40,7 @@ vpn-landing-faq-uses-conceal = En masquant votre véritable adresse IP. Cela pro
 vpn-landing-faq-uses-encrypt = En chiffrant le trafic entre vous et votre fournisseur VPN afin que personne sur votre réseau local ne puisse le déchiffrer ou le modifier.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
-vpn-landing-faq-uses-examples = Découvrez <a href="{ $url }"> cinq exemples concrets </a> d'utilisation d’un VPN sur vos appareils (article en anglais).
+vpn-landing-faq-uses-examples = Découvrez <a href="{ $url }"> cinq exemples concrets </a> d’utilisation d’un VPN sur vos appareils (article en anglais).
 vpn-landing-faq-info-question-heading = Quelles informations { -brand-name-mozilla-vpn } conserve-t-il ?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
