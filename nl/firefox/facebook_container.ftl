@@ -11,6 +11,8 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Onde
 facebook-container-get-the-facebook-container = De { -brand-name-facebook-container }-extensie downloaden
 facebook-container-download-firefox-and-get-the = Download { -brand-name-firefox } en installeer de { -brand-name-facebook-container }-extensie
 facebook-container-only-available-for-desktop = De { -brand-name-facebook-container }-extensie is op dit moment alleen beschikbaar voor { -brand-name-firefox } voor desktop.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
