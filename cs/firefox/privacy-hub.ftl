@@ -37,7 +37,7 @@ firefox-privacy-hub-why-trust-firefox = Proč věřit { -brand-name-firefox(case
 firefox-privacy-hub-because-we-put-people-first = Protože pro nás jsou na prvním místě lidé. Ve skutečnosti za námi stojí <a href="{ $foundation }">nezisková organizace</a>. Od prvního dne je naším posláním ochrana internetu a všech lidí na něm.
 firefox-privacy-hub-learn-more-about-our-mission = Zjistěte více o naší misi
 firefox-privacy-hub-your-privacy-by-the-product = Vaše soukromí s našimi produkty
-firefox-privacy-hub-firefox-products-work-differently = Produkty { -brand-name-firefox } fungují jinak – mají totiž v první řadě chránit vaše soukromí.
+firefox-privacy-hub-firefox-products-work-differently = Produkty { -brand-name-firefox } fungují jinak – jsou totiž navrženy tak, aby především chránily vaše soukromí.
 firefox-privacy-hub-learn-about-our-products = Zjistěte více o našich produktech
 firefox-privacy-hub-firefox-privacy-by-the = Vaše soukromí v produktech { -brand-name-firefox }
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } chrání vaše soukromí v každém produktu.
