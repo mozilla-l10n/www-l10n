@@ -29,3 +29,4 @@ privacy-passwords-using-password-recovery = Pomocí funkce obnovy hesla ho reset
 privacy-passwords-tricking-you-into = Lstí vás navede k tomu, abyste mu heslo předali
 privacy-passwords-to-keep-your = Aby bylo vaše přihlašovací jméno v bezpečí, musíte předejít co největšímu počtu z nich. Pro každé z těchto rizik existuje jiné opatření na jeho snížení.
 privacy-passwords-look-for-the = Dívejte se v prohlížeči po zámku
+privacy-passwords-its-easy-to = Při přihlašování se na webu neužívajícím šifrované spojení lze snadno zabránit útočníkům v krádeži hesla: jestliže se v adresním řádku nezobrazuje ikona zámku, jako je třeba ta na obrázku, důkladně si to rozmyslete, než zadáte heslo:
