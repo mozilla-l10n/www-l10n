@@ -11,6 +11,8 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Bien
 facebook-container-get-the-facebook-container = Obtener la extensión { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Descargá { -brand-name-firefox } y obtené la extensión { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = La extensión { -brand-name-facebook-container } actualmente solo está disponible para { -brand-name-firefox } para escritorio.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
