@@ -32,3 +32,4 @@ privacy-passwords-look-for-the = Dívejte se v prohlížeči po zámku
 privacy-passwords-its-easy-to = Při přihlašování se na webu neužívajícím šifrované spojení lze snadno zabránit útočníkům v krádeži hesla: důkladně se před jeho zadáním rozmyslete, jestliže se v adresním řádku nezobrazuje ikona zámku, jako jsou třeba tyto:
 privacy-passwords-a-closed-lock = Zavřený visací zámek se ve všech hlavních prohlížečích zobrazuje v adresním řádku těsně před adresou webové stránky.
 privacy-passwords-the-lock-means = Zámek znamená, že používaná webová stránka užívá šifrované spojení, takže i kdyby někdo sledoval váš pohyb po síti (například jiná osoba na veřejném Wi-Fi hotspotu), nemůže vidět vaše heslo. Když se budete chystat zadat heslo na webu užívajícím nešifrované spojení, { -brand-name-firefox } se vás pokusí varovat.
+privacy-passwords-a-padlock-with = Červeně přeškrtnutý zámek označuje, že připojení není zabezpečené.
