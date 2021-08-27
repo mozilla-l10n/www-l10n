@@ -30,3 +30,4 @@ privacy-passwords-tricking-you-into = Lstí vás navede k tomu, abyste mu heslo 
 privacy-passwords-to-keep-your = Aby bylo vaše přihlašovací jméno v bezpečí, musíte předejít co největšímu počtu z nich. Pro každé z těchto rizik existuje jiné opatření na jeho snížení.
 privacy-passwords-look-for-the = Dívejte se v prohlížeči po zámku
 privacy-passwords-its-easy-to = Při přihlašování se na webu neužívajícím šifrované spojení lze snadno zabránit útočníkům v krádeži hesla: důkladně se před jeho zadáním rozmyslete, jestliže se v adresním řádku nezobrazuje ikona zámku, jako je třeba tato:
+privacy-passwords-a-closed-lock = Zavřený visací zámek se ve všech hlavních prohlížečích zobrazuje v adresním řádku těsně před adresou webové stránky.
