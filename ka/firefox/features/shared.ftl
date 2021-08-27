@@ -16,4 +16,7 @@ features-shared-password-manager = პაროლების მმართ�
 features-shared-customize-your-browser = თქვენზე მორგებული ბრაუზერი
 features-shared-sync-between-devices = მოწყობილობების დასინქრონება
 features-shared-better-bookmarks = გაუმჯობესებული სანიშნები
+features-shared-fingerprinter-blocking = ამოცნობის შეზღუდვა
+features-shared-translate-the-web = გვერდების თარგმნა
+features-shared-picture-in-picture = ეკრანი-ეკრანში
 brand-name-firefox = { -brand-name-firefox }

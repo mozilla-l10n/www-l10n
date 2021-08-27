@@ -40,6 +40,10 @@ vpn-langing-faq-uses-question-heading = რა არის VPN და რას
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = ვინაიდან ყოველდღიურობის დიდი ნაწილი ინტერნეტში ინაცვლებს, ციფრული პირადულობა და უსაფრთხოება მეტ მნიშვნელობას იძენს. VPN, ანუ <a href="{ $url }">წარმოსახვითი კერძო ქსელი</a> ინტერნეტთან დაცული, პირადი კავშირის დამყარების საშუალებას იძლევა. იგი ქმნის ერთგვარ „გვირაბს“ თქვენს მოწყობილობასა და დანარჩენ ინტერნეტს შორის და უზრუნველყოფს უსაფრთხოებას ორი გზით:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = ფარავს თქვენს ნამდვილ <a href="{ $url }">IP-მისამართს</a>. გიცავთ ვინაობისა და მდებარეობის გამჟღავნებისგან.
+# Obsolete string
 vpn-landing-faq-uses-conceal = ფარავს თქვენს ნამდვილ IP-მისამართს. გიცავთ ვინაობისა და მდებარეობის გამჟღავნებისგან.
 vpn-landing-faq-uses-encrypt = შიფრავს მიმოცვლილ მონაცემებს თქვენსა და VPN-ის მომწოდებელს შორის, შედეგად ვერავინ ადგილობრივ ქსელში, ვერ შეძლებს მის ამოკითხვას ან ჩანაცვლებას.
 # Variables:

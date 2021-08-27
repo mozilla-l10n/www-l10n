@@ -11,6 +11,9 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. ს�
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } გაფართოების გადმოწერა
 facebook-container-download-firefox-and-get-the = ჩამოტვირთეთ { -brand-name-firefox } და მიიღეთ { -brand-name-facebook-container } გაფართოება
 facebook-container-only-available-for-desktop = გაფართოება { -brand-name-facebook-container } ჯერჯერობით მხოლოდ კომპიუტერის { -brand-name-firefox }-ზეა ხელმისაწვდომი.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

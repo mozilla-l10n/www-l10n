@@ -102,6 +102,9 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = მობილური
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = რა არის IP-მისამართი?
+vpn-subnav-when-to-use-a-vpn = როდის გამოვიყენოთ VPN
+vpn-subnav-vpn-vs-proxy = VPN თუ პროქსი
 
 ##
 

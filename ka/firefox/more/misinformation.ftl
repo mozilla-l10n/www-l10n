@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = აირიდეთ ყალბი ამბები ინტერნეტში – { -brand-name-firefox } მზადაა დაგეხმაროთ
 misinformation-page-desc = მცდარი ამბები მომაბაზრებელი, დამაბნეველი და ზარალის მომტანია. { -brand-name-firefox } გთავაზობთ რამდენიმე რჩევას, ცრუ ინფორმაციის ასარიდებლად – და მათ შესამცირებლად ვებსივრცით სარგებლობისას.
 misinformation-page-subheading = გაეცანით რჩევებს, როგორ იხილოთ ნაკლები ყალბი ამბავი და როგორ გაამახვილოთ ყურადღება, თქვენთვის მნიშვნელოვანზე

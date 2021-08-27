@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = დაასინქრონეთ წვდომისთვის თქვენი სანიშნები, პაროლები და ა.შ. — ყველგან, სადაც გიყენიათ { -brand-name-firefox }.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = დაასინქრონეთ { -brand-name-firefox } ყველა თქვენს მოწყობილობაზე
 firefox-sync-privacy-made-easy = გაიადვილეთ პირადულობა
 firefox-sync-all-you-need = მხოლოდ { -brand-name-firefox-account } გესაჭიროებათ { -brand-name-firefox-sync }-ისთვის
