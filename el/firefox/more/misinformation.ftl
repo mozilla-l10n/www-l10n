@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Αποφύγετε την παραπληροφόρηση – το { -brand-name-firefox } είναι εδώ για εσάς
 misinformation-page-desc = Η παραπληροφόρηση είναι ενοχλητική, ακριβή και σας αποσπά την προσοχή. Το { -brand-name-firefox } έχει μερικές συμβουλές για την αποφυγή ψευδών πληροφοριών κατά την περιήγηση στο διαδίκτυο.
 misinformation-page-subheading = Δείτε τις συμβουλές μας για λιγότερη παραπληροφόρηση και εστίαση σε ό,τι είναι σημαντικό για εσάς
