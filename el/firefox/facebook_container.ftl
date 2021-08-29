@@ -11,6 +11,9 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Σε
 facebook-container-get-the-facebook-container = Λήψη της επέκτασης { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Λήψη του { -brand-name-firefox } και απόκτηση της επέκτασης { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Η επέκταση { -brand-name-facebook-container } είναι διαθέσιμη μόνο στο { -brand-name-firefox } για υπολογιστές προς το παρόν.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
