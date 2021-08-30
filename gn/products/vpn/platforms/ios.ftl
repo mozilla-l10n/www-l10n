@@ -15,6 +15,7 @@ vpn-ios-maker-of-firefox = Ñanduti kundahára mboguataháraramo { -brand-name-f
 vpn-ios-wifi-headline = Eiko tekorosãme ñandutípe eku’ekuévo
 vpn-ios-wifi-copy = ¿Eipuru wifi opavavegua? Apañuãi’ỹre. { -brand-name-mozilla-vpn } omoneĩ ehechajey nde viru ñongatupy taperyva’uha guive, embosako’i ne ñe’ẽñemi tapejuasahápe — ikatuháicha, ikatuhápe ejapo opaite ejapóva tapiaite nde { -brand-name-iphone } térã { -brand-name-ipad } py’aguapýpe.
 vpn-ios-about-headline = ¿Mba’ére ejeroviáta orerehe?
+vpn-ios-about-copy = Ikatu orekuaa ore ñanduti kundahára rupive, { -brand-name-firefox } — hákatu mombyryvévo, { -brand-name-mozilla } oñarairõ nde derécho ñandutípe 1998 guive — ha’e ore rembipota tuichavéva. Ñoñeha’ãmaite ñanduti oiko hag̃ua juruja ha sãsóme ombopoyhúvo opavavete derécho hekoñemi ha hekorosãvo opaite ára.
 vpn-ios-privacy-headline = Jeike 1 jekutúpe
 vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } ndahasýi ijepuru. Eikutu peteĩ jey ha embopapapýta nde jeike omokañyháicha nde IP kundaharape { -brand-name-iphone } térã { -brand-name-ipad } oipurúvo pe taperekoite { -brand-name-wireguard }® mba’éva.
 # Variables:
