@@ -29,9 +29,14 @@ vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } běží na globál
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } běží na globální síti serverů, kterou provozuje společnost <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Pomocí nejpokročilejšího protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme vaši síťovou aktivitu a skrýváme vaši IP adresu. Nikdy nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data.
 vpn-landing-brand-trust-heading = VPN od značky, které můžete důvěřovat
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = Již více než 20 let { -brand-name-mozilla } bojuje za ochranu soukromí na internetu a stará se o to, aby lidé byli na prvním místě. Zaštítěni neziskovou organizací se usilovně snažíme budovat lepší a zdravější internet pro všechny lidi. Vše, co děláme, je součástí našeho poslání a řídí se našimi <a href="{ $url }">principy</a>.
 
 ## FAQ section
 
+vpn-landing-faq-heading = Časté dotazy
+vpn-langing-faq-uses-question-heading = Co je to VPN a jaké je její využití?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
