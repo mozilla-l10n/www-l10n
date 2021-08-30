@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
 
 # HTML page title
-privacy-passwords-security-guide-to = Průvodce bezpečnějšími přihlašovacími jmény a hesly
+privacy-passwords-security-guide-to = Průvodce bezpečnějšími přihlašovacími údaji
 # HTML page description
 privacy-passwords-more-and-more-desc = Stále více citlivých a cenných věcí v našem životě je střeženo prostřednictvím heslem chráněných internetových účtů. Jak bychom měli chránit své přihlašovací údaje?
 # page content
@@ -58,3 +58,6 @@ privacy-passwords-your-firefox-account = Například váš účet { -brand-name-
 privacy-passwords-2fa-provides-much = Dvoufázové ověření poskytuje mnohem lepší zabezpečení než samotná hesla, ale ne každý web ho podporuje. Seznam webů, které dvoufázové ověření podporují, najdete na adrese <a { $url_2fa }>https://twofactorauth.org</a>, kde najdete i seznam webů, které ho nepodporují, a způsoby, jak je můžete požádat o jeho implementaci.
 privacy-passwords-strong-diverse-and = Silný, různorodý a vícefázový
 privacy-passwords-for-better-or = Ať tak či onak, v dlouhodobém výhledu budeme k ochraně svých internetových účtů používat hesla. Používejte <strong>silná</strong> hesla, která jsou <strong>pro každý web jiná</strong>, a používejte <strong>správce hesel</strong>, jenž vám pomůže si je bezpečně zapamatovat. Na bezpečnostní otázky si nastavte <strong>dlouhé a náhodné odpovědi</strong> (i když nejsou pravdivé). A na všech webech, které to podporují, <strong>používejte dvoufázové ověření</strong>.
+#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
+#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
+privacy-passwords-in-todays-internet = V dnešní době internetu, kdy jsou denně ukradeny tisíce hesel a s účty se obchoduje na černém trhu, se vyplatí věnovat úsilí tomu, aby byl váš online život v bezpečí. Když používáte produkty { -brand-name-firefox }, část tohoto úsilí vám odpadá, protože všechny naše produkty jsou vytvořeny tak, aby dodržovaly náš <a { $url_privacy_products }>slib o ochraně soukromí</a>. A { -brand-name-firefox } se vždy řídí <a { $url_about_manifesto }>posláním Mozilly</a>, neziskové organizace, která za námi stojí, budovat lepší internet.
