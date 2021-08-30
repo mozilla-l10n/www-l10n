@@ -37,6 +37,9 @@ vpn-landing-brand-trust-desc = Již více než 20 let { -brand-name-mozilla } bo
 
 vpn-landing-faq-heading = Časté dotazy
 vpn-langing-faq-uses-question-heading = Co je to VPN a jaké je její využití?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = S tím, jak se stále více každodenního života odehrává prostřednictvím internetu, roste důležitost ochrany soukromí a bezpečnosti na internetu. VPN, <a href="{ $url }">virtuální privátní síť</a>, vám může pomoci vytvořit bezpečné a soukromé připojení k internetu. Funguje tak, že mezi vaším zařízením a internetem jako celkem vytvoří „tunel“, který vás chrání dvěma důležitými způsoby:
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
