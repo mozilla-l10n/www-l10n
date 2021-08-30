@@ -15,6 +15,7 @@ vpn-android-maker-of-firefox = Ñanduti kundahára mboguataháraramo { -brand-na
 vpn-android-wifi-headline = Eiko tekorosãme ñandutípe eku’ekuévo
 vpn-android-wifi-copy = Heta jey umi mba’ekuaarã iñinimbo’ỹva ndereipurukuaái ha pe wifi opavaveguáva ha’e pe eipurukuaáva. { -brand-name-mozilla-vpn } ndive ne mba’e’okápe { -brand-name-android }, ani ejepy’apy emoingévo ñe’ẽñemi pepoatãguejyhápe térã emba’ejogua ñandutípe ñemuha ag̃uivévape — eike jepokópe ha ejapo ejaposéva.
 vpn-android-about-headline = { -brand-name-mozilla } ha’e téra ejeroviakuaaha
+vpn-android-about-copy = Rojekuaave pe ore ñanduti kundahára rupive, { -brand-name-firefox }, hákatu { -brand-name-mozilla } mba’apohaguasu tuichavevaháicha oguereko hembipota tuichavéva: oñorairõ nde derécho ñandutípe rehegua. Ha’e pe rojapova’ekue 1998 guive. Ore ñanduti mo’ãhára, romba’apóva ñanduti ijuruja ha hekosãso hag̃ua rombopoyhúvo opavave derécho hekoñemi ha hekorosãvo.
 vpn-android-privacy-headline = Eikutu eikekuaa hag̃ua
 vpn-android-privacy-copy = Eipuru { -brand-name-mozilla-vpn } { -brand-name-android } peg̃uarã ndahasýi. Epoko pe votõ ha nde jeike ipapapýta ijehegui taperekoite oikóv ndive { -brand-name-wireguard }®. ¡Peichaite!
 # Variables:
