@@ -54,6 +54,11 @@ vpn-landing-faq-info-question-heading = Jaké informace si { -brand-name-mozilla
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Žádnou vaši síťovou aktivitu nezaznamenáváme, nesledujeme ani nesdílíme. Přísně dodržujeme <a href="{ $url }">principy ochrany osobních údajů</a> společnosti { -brand-name-mozilla } a shromažďujeme pouze data potřebná k udržení funkčnosti sítě VPN a k postupnému vylepšování produktu.
 vpn-landing-faq-protected-question-heading = Jak je chráněno mé soukromí?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = Váš síťový provoz je šifrován protokolem <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®, čímž jsou chráněny všechny vaše soukromé informace. V porovnání se stávajícími protokoly pro sítě VPN se odlehčený kód protokolu { -brand-name-wireguard } snáze kontroluje a audituje bezpečnostními analytiky, což z něj činí bezpečnější alternativu pro sítě VPN. Vaše online aktivity navíc zůstanou anonymní, protože nikdy nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data.
+vpn-landing-faq-competition-question-heading = Jak si { -brand-name-mozilla-vpn } vede ve srovnání s konkurencí?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
