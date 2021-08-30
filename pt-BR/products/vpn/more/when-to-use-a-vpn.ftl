@@ -35,3 +35,7 @@ vpn-when-to-use-make-sure-you = Certifique-se de entender o que uma VPN não faz
 #   $book (url) - https://www.mozilla.org/firefox/privacy/book/
 vpn-when-to-use-a-vpn-provides = Uma VPN fornece uma importante ligação de segurança ao proteger seus dados privativos antes que eles se desloquem pela internet, além de ocultar seu endereço IP, ajudando a proteger sua identidade e localização. Ela não evita, no entanto, ações suas como clicar em links suspeitos, baixar código malicioso ou ser vítima de fraudes por email. Você ainda precisa praticar <a href="{ $book }">bons hábitos para se proteger online</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, um serviço VPN confiável
+# Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-when-to-use-the-most-important = O mais importante a considerar ao se decidir por uma VPN é escolher uma empresa confiável. Tenha certeza de compreender com clareza os termos com que irá concordar. Muitos desses serviços alegam ser ótimos e ter foco em privacidade, mas grande parte não cumpre suas promessas. Nem todos os serviços de proxy e VPN são seguros e privativos. Alguns <a href="{ $cnet }">gravam</a> registro de sua <a href="{ $pcmag }">atividade</a> online para vender suas informações e dados para empresas de marketing. Outros tentam te convencer a instalar malware (aplicativo com código malicioso) em seus dispositivos.
