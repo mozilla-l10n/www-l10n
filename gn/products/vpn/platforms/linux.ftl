@@ -17,6 +17,7 @@ vpn-linux-maker-of-firefox = Peteĩva umi téra ojejeroviaveha tembipurupyahu re
 vpn-linux-wifi-headline = Eiko tekorosãme eipuruse vove wifi
 vpn-linux-wifi-copy = Heta jey, wifi opavavegua añoite pe eipurukuaáva. { -brand-name-mozilla-vpn } omoneĩ eikévo ne ñanduti vevépe pepoatãguejyha guive, embosako’i ne ñe’ẽñemi taperyva’uhápe — ejapovavoínte nde róga guive py’aguapýpe.
 vpn-linux-about-headline = Téra jeroviaha 1998 guive
+vpn-linux-about-copy = Ñanduti kundahára moheñoiháraramo { -brand-name-firefox }, { -brand-name-mozilla } oñorairõkuri nde derécho ñandutigua rehe heta ary pukukue. Ko’ãva umi rojapóva. Mba’apohaguasu rãngue mba’ekuaarã mbyatyháraramo, roheka tapiaite mba’éichapa roipota ñanduti ijuruja ha hekorosã, ombopoyhúvo opaite derécho tekoñemi rehegua.
 vpn-linux-privacy-headline = Tekorosã 1 jekutúpe añoite
 vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } ndahasýi ijepuru. Eikutu peteĩ jey ha embopapapýta nde jeike omokañyháicha nde IP kundaharape { -brand-name-iphone } térã { -brand-name-ipad } oipurúvo pe taperekoite { -brand-name-wireguard }® mba’éva.
 # Variables:
