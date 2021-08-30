@@ -16,6 +16,8 @@ vpn-landing-hero-sub-heading-v2 = Bezpečnost, spolehlivost a rychlost – na ka
 vpn-landing-hero-sub-heading = Bezpečnost, na kterou se můžete spolehnout. Jméno, kterému můžete důvěřovat.
 vpn-landing-hero-desc = Virtuální privátní síť od tvůrců { -brand-name-firefox(case: "gen") }.
 vpn-landing-privacy-heading = Soukromí na jedno klepnutí
+vpn-landing-privacy-desc = Surfujte, streamujte, hrajte hry a pracujte při současném zachování svého soukromí na internetu. Ať už cestujete, používáte veřejnou Wi-Fi nebo jen hledáte větší bezpečnost na internetu, vaše soukromí je u nás vždy na prvním místě.
+vpn-landing-fast-secure-heading = Rychlá a bezpečná síť
 
 ## FAQ section
 
