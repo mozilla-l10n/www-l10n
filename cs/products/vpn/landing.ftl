@@ -40,6 +40,20 @@ vpn-langing-faq-uses-question-heading = Co je to VPN a jaké je její využití?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = S tím, jak se stále více každodenního života odehrává prostřednictvím internetu, roste důležitost ochrany soukromí a bezpečnosti na internetu. VPN, <a href="{ $url }">virtuální privátní síť</a>, vám může pomoci vytvořit bezpečné a soukromé připojení k internetu. Funguje tak, že mezi vaším zařízením a internetem jako celkem vytvoří „tunel“, který vás chrání dvěma důležitými způsoby:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Tají vaší skutečnou <a href="{ $url }">IP adresu</a>. Tím chrání vaši identitu a zamlžuje vaši polohu.
+# Obsolete string
+vpn-landing-faq-uses-conceal = Tají vaší skutečnou IP adresu. Tím chrání vaši identitu a zamlžuje vaši polohu.
+vpn-landing-faq-uses-encrypt = Šifruje přenosy mezi vámi a vaším poskytovatelem VPN, takže je nikdo ve vaší místní síti nemůže dešifrovat ani pozměňovat.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Podívejte se na <a href="{ $url }">pět příkladů z reálného života</a>, kdy byste ve svém zařízení měli mít síť VPN.
+vpn-landing-faq-info-question-heading = Jaké informace si { -brand-name-mozilla-vpn } uchovává?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Žádnou vaši síťovou aktivitu nezaznamenáváme, nesledujeme ani nesdílíme. Přísně dodržujeme <a href="{ $url }">principy ochrany osobních údajů</a> společnosti { -brand-name-mozilla } a shromažďujeme pouze data potřebná k udržení funkčnosti sítě VPN a k postupnému vylepšování produktu.
+vpn-landing-faq-protected-question-heading = Jak je chráněno mé soukromí?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
