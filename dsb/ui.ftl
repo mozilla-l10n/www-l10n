@@ -20,3 +20,4 @@ ui-show-less = Mjenjej pokazaś
 ui-show-all = Wšykne pokazaś
 ui-hide-all = Wšykne schowaś
 ui-learn-more = Dalšne informacije
+ui-view = Naglěd
