@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
+# HTML page title and main title
+vpn-when-to-use-5-reasons-you-should = 5 ok, amiért érdemes VPN-t használni
 vpn-when-to-use-make-sure-you = Győződjön meg arról, hogy tudja, mit nem csinál egy VPN
 # Variables
 #   $book (url) - https://www.mozilla.org/firefox/privacy/book/

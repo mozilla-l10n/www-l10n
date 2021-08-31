@@ -9,5 +9,7 @@
 vpn-what-is-what-is-a-vpn = Mi a VPN?
 vpn-what-is-how-do-vpns = Hogyan működnek a VPN-ek?
 vpn-what-is-why-would-i = Miért használnék VPN-t?
+vpn-what-is-what-are-the = Milyen hátrányai vannak a VPN használatának?
 vpn-what-is-are-vpns-safe = Biztonságosak-e a VPN-ek?
 vpn-what-is-can-vpns-protect = A VPN-ek megvédhetnek-e a kiberbűnözőktől?
+vpn-what-is-are-vpns-legal = Legálisak-e a VPN-ek?
