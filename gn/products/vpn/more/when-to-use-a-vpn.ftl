@@ -9,6 +9,9 @@
 vpn-when-to-use-5-reasons-you-should = 5 mba’e eipuru hag̃ua peteĩ VPN
 # HTML page description and intro
 vpn-when-to-use-here-are-five = Ko’ápe oĩ po hendáicha peteĩ VPN ejeroviaha ou porãta ndéve ikatúva neremomba’éi kuri reikóko. Emboty pa’ũ ne kundaha rekorosã ñandutípe { -brand-name-mozilla-vpn } ndive.
+# Variables
+#   $vpn (url) - https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-when-to-use-as-more-of = Ára ha ára hetave aravo ojehasa ñanduti ñeikundahápe, umi apañuãi tekoñemi ha tekorosã ha’e umi ojehecharamovéva. Peteĩ VPN — <a href="{ $vpn }">Ñanduti mba’eñemiguáva</a> — ikatu nepytyvõ emoheñói hag̃ua jeikerã ñanduti ñemigua hekorosãvape. Ojehu omoheñóivo peteĩ “tapeyvyguy” hekorosãva ne mba’e’oka ha ñanduti tuichaháicha ha nemo’ãta mokõi hendáicha:
 vpn-when-to-use-concealing-your-true = Emokañývo nde IP kundaharape ha’etéva, kóva omo’ãta nde reratee ha oñomíta ne rendaite.
 vpn-when-to-use-encrypting-your-traffic = Ombopapapy pe jeikeita nde ha ne VPN me’ẽhára pa’ũme avave ani hag̃uáicha ombopapapy’o térã omoambue ndehegui.
 vpn-when-to-use-having-a-vpn = Erekóramo peteĩ VPN eipuru hag̃uáicha ejapose vove iporãiterei. Ápe oĩ heta techapyrã erekóvo peteĩ VPN ejeroviaha ou porãta ndéve ikatúva neremomba’éi kuri reikóko.
