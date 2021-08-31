@@ -35,5 +35,5 @@ facebook-container-installing-the-extension-is = Встановити <a href="{
 facebook-container-about-firefox-and-mozilla = Про { -brand-name-firefox } та { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
-facebook-container-were-backed-by-mozilla-the = За нами стоїть <a href="{ $mozilla }">{ -brand-name-mozilla }</a> - некомерційна організація, яка цінує права людей більше за прибуток, й метою якої є забезпечення рівних прав у інтернеті для кожного. Ми створили це розширення, тому що переконані в тому, що ви повинні мати прості засоби, які допомагають вам керувати своєю приватністю та безпекою.
+facebook-container-were-backed-by-mozilla-the = За нами стоїть <a href="{ $mozilla }">{ -brand-name-mozilla }</a> - некомерційна організація, яка цінує права людей більше за прибуток, й метою якої є забезпечення рівних прав у інтернеті для кожного. Ми створили це розширення, тому що переконані в тому, що ви повинні мати прості засоби, які допомагають вам керувати своєю приватністю й безпекою.
 facebook-container-browse-freely-with-firefox = Користуйтеся інтернетом вільно разом з { -brand-name-firefox }.
