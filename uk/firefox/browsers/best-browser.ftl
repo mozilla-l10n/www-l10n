@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
-best-browser-find-your-best-browser = Знайдіть найкращий веббраузер для швидкості, приватності та безпеки.
+best-browser-find-your-best-browser = Знайдіть найкращий веббраузер для швидкості, приватності й безпеки.
 best-browser-so-many-browser-options = Так багато параметрів веббраузера, але є тільки один, який найкраще підходить для ваших потреб. Найкращий для вас браузер повинен забезпечувати як і швидкість, так і захист приватності.
 best-browser-privacy-speed-and-security = Приватність, швидкість і безпека.
 best-browser-how-to-choose-the-best = Як обрати найкращий для вас браузер.
