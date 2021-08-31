@@ -10,10 +10,14 @@ vpn-desktop-page-title = { -brand-name-mozilla-vpn } mesa arigua (PC ha laptop)
 vpn-desktop-page-description = Eguereko tekorosã ipya’e ha hasy’ỹva ne mohendaha ha guerahakuaáva { -brand-name-mozilla } rupive, ojejeroviaveha tembipurupyahúpe.
 # Desktop strings
 vpn-desktop-hero-headline = Eike ñandutípe tekorosãme { -brand-name-mozilla-vpn } mesa arigua ndive
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-ability = { -brand-name-mozilla-vpn } ome’ẽ ndéve pa’ũ eike hag̃ua jeroviápe ha eguereko ne marandu mombyry oma’ẽvaíva térã mondahágui eime aja ñandutípe. { -brand-name-mozilla-vpn } oipuru pe taperekoite { -brand-name-wireguard }® oikóva ombopapapy ne mba’ekuaarãtee ne pumbyry térã mohendahápe — { $devices } mba’e’oka peve. Ehecha umi ta’ãngamýi, eñembosarái, ejogua ha eikove ára ha ára eikuaahápe eguerekoha tekorosã iporãvéva.
 vpn-desktop-maker-of-firefox = Ñanduti kundahára mboguataháraramo { -brand-name-firefox } ha peteĩva umi jeroviaha oñorairõvéva ne ñemigua ñandutípe rehe, { -brand-name-mozilla } oguereko ohupytysevévaramo ne ñemigua ha ne rekorosã eike vovénte.
 vpn-desktop-wifi-headline = Eñandu tekorosã eipurúvo wifi opavavegua
 vpn-desktop-wifi-copy = Ore VPN omo’ã nde jeike ñandutípe mba’evaiapoha ha oma’ẽñemívagui, ejoguakuaáva taperyva’uhágui, eporandúvo nde viru ñongatupy mba’yrumýi guive ha emba’ejoguávo ñandutí guive oimehápe ejepy’apy’ỹre tekorosãre.
 vpn-desktop-about-headline = { -brand-name-mozilla } rehegua
+vpn-desktop-about-copy = Ore rojekuaave { -brand-name-firefox-browser } rupive, { -brand-name-mozilla } ha’e puruhára arapygua rekoha, pytyvõhára ha mboguatahára oñeha’ãvo Ñanduti ojejuhu hag̃ua yvypóra pópe. Heñóiva ary 1998 jave, ore ha’e romoñepyrũva’ekue ñanduti sãso ha ijuruja hag̃ua, ha roipota péicha oiko tapiaite.
 vpn-desktop-privacy-headline = Tekoñemi peteĩ jeikutúpe
 vpn-desktop-privacy-copy = { -brand-name-mozilla-vpn } rembipuru’i ombopapapy ñandutípe jeike ha oñomi pe ne pumbyry IP kundaharape terã tabléta oipurúvo pe taperekoite oikóva { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Eike a mohendahavusu arapyguávape
