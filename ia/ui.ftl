@@ -20,3 +20,4 @@ ui-show-less = Monstrar minus
 ui-show-all = Monstrar toto
 ui-hide-all = Celar toto
 ui-learn-more = Apprender plus
+ui-view = Vider
