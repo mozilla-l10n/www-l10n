@@ -20,3 +20,4 @@ ui-show-less = Prikaži manj
 ui-show-all = Prikaži vse
 ui-hide-all = Skrij vse
 ui-learn-more = Več o tem
+ui-view = Pogled
