@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Yer imlerinizi, parolalarınızı ve daha fazlasını { -brand-name-firefox } kullandığınız her yerde senkronize edin ve onlara erişin.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = { -brand-name-firefox }’u istediğiniz cihazda senkronize edin
 firefox-sync-privacy-made-easy = Daha kolay gizlilik
 firefox-sync-all-you-need = { -brand-name-firefox-sync } için ihtiyacınız olan tek şey bir { -brand-name-firefox-account }.

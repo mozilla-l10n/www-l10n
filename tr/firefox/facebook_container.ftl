@@ -11,6 +11,9 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }’un 
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } eklentisini yükle
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox }’u indir ve { -brand-name-facebook-container } eklentisini yükle
 facebook-container-only-available-for-desktop = { -brand-name-facebook-container } eklentisi şu anda { -brand-name-firefox }’un yalnızca bilgisayar sürümünde kullanılabilir.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

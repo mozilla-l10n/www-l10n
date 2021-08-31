@@ -16,4 +16,7 @@ features-shared-password-manager = Parola yöneticisi
 features-shared-customize-your-browser = Tarayıcınızı özelleştirin
 features-shared-sync-between-devices = Farklı cihazları eşitleyin
 features-shared-better-bookmarks = Daha iyi yer imleri
+features-shared-fingerprinter-blocking = Parmak izi toplayıcı engelleme
+features-shared-translate-the-web = Web’i çevirin
+features-shared-picture-in-picture = Görüntü içinde görüntü
 brand-name-firefox = { -brand-name-firefox }

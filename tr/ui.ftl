@@ -20,3 +20,4 @@ ui-show-less = Daha az göster
 ui-show-all = Tümünü göster
 ui-hide-all = Tümünü gizle
 ui-learn-more = Ayrıntılı bilgi al
+ui-view = Göster
