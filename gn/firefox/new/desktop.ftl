@@ -125,6 +125,9 @@ firefox-desktop-download-from-security-to = Ne rekorosã guive marandu ha ñembo
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } omoheñói <a { $attrs }>{ -brand-name-mozilla }</a> peteĩ kundahára ipya’e ha hekoñemíva { -brand-name-ie } rovake, ha ko’ág̃a { -brand-name-chrome }. Ko ára rupi, ore pytyvõhára rekoha ha mba’apohaguasu rembiecha omoakãrapu’ãva ha omomba’éva ne rekoñemi opamba’e ári.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Ñanduti okakuaave ha iñambuévo, { -brand-name-firefox } oma’ẽ tapia nde rekoñemi deréchore; rombohéra <a { $attrs }>Mba’ekuaarãtee ñe’ẽme’ẽ</a>: Ombyaty’ive. Oreko tekorosãme. Mba’ekañy’ỹre. Ne mba’ekuaarã, ne rembiapo ñandutípe, nde rekove eikundahávo emo’ãmba { -brand-name-firefox } ndive.
+# Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } eipurukuaa opaite mba’e’okápe; eraha tendayke, tembiasakue ha techaukaha nendive. Opamba’e eikotevẽva ha’e <a { $attrs }>{ -brand-name-firefox } mba’ete</a>.
 # Variables:
