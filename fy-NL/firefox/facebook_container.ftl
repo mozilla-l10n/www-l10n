@@ -11,6 +11,9 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Unde
 facebook-container-get-the-facebook-container = Download de útwreiding { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Download { -brand-name-firefox } en de útwreiding { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = De { -brand-name-facebook-container }-útwreiding is op dit stuit allinnich beskikber foar { -brand-name-firefox } foar desktop.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

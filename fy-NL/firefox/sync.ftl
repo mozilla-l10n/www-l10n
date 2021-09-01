@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Benaderje en syngronisearje jo blêdwizers, wachtwurden, iepen ljepblêden en mear – oeral wêr't jo { -brand-name-firefox } brûke.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Syngronisearje jo { -brand-name-firefox } op elk apparaat
 firefox-sync-privacy-made-easy = Privacy maklik makke
 firefox-sync-all-you-need = It iennige dat jo nedich hawwe foar { -brand-name-firefox-sync } is in { -brand-name-firefox-account }.

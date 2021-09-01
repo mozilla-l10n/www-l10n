@@ -40,6 +40,10 @@ vpn-langing-faq-uses-question-heading = Wat is in VPN en wat binne de tapassinge
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Om't mear fan it deistich libben fia ynternet bart, wurde online privacy en befeiliging hieltyd wichtiger. In VPN, <a href="{ $url }">Virtual Private Network</a>, kin jo helpe in feilige priveeferbining mei ynternet ta stân te bringen. In VPN wurket troch in ‘tunnel’ te kreëarjen tusken jo apparaat en it algemiene ynternet en beskermet jo op twa wichtige manieren:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Ferbergjen fan jo wiere <a href="{ $url }">IP-adres</a>. Dit beskermet jo identiteit en fertsjusteret jo lokaasje.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Ferbergje jo wiere IP-adres. Dit beskermet jo identiteit en fertsjusteret jo lokaasje.
 vpn-landing-faq-uses-encrypt = Fersifering fan it ferkear tusken jo en jo VPN-provider, sadat nimmen yn jo lokale netwurk it ûntsiferje of oanpasse kin.
 # Variables:

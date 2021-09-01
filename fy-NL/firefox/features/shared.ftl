@@ -16,4 +16,7 @@ features-shared-password-manager = Wachtwurdbehearder
 features-shared-customize-your-browser = Pas jo browser oan
 features-shared-sync-between-devices = Syngronisearje tusken apparaten
 features-shared-better-bookmarks = Bettere blêdwizers
+features-shared-fingerprinter-blocking = Blokkearjen fan fingerprinters
+features-shared-translate-the-web = It ynternet oersette
+features-shared-picture-in-picture = Picture-in-Picture
 brand-name-firefox = { -brand-name-firefox }
