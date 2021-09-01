@@ -20,3 +20,4 @@ ui-show-less = Ehechauka’ive
 ui-show-all = Ehechaukapaite
 ui-hide-all = Emoñemipaite
 ui-learn-more = Eikuaave
+ui-view = Hecha
