@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } sćahnyć
-navigation-v2-get-a-firefox-account = Wobstarajće sej { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
 navigation-v2-menu = Meni
+# Obsolete string
+navigation-v2-get-a-firefox-account = Wobstarajće sej { -brand-name-firefox-account }
 
 ## Firefox menu
 
