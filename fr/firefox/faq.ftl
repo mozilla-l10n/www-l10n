@@ -20,6 +20,7 @@
 
 is-firefox-free = { -brand-name-firefox } est-il gratuit ?
 yep-the-firefox = Oui ! Le { -brand-name-firefox-browser } est gratuit. Vraiment gratuit. Il n’y a aucun coût caché. Vous n’avez pas besoin de payer quoi que ce soit pour l’utiliser, et nous ne revendons pas vos données personnelles.
+related-questions-free = Questions liées : le { -brand-name-firefox-browser } est-il gratuit ? { -brand-name-firefox } est-il payant ?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -36,6 +37,7 @@ yep-the-firefox = Oui ! Le { -brand-name-firefox-browser } est gratuit. Vraimen
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Pourquoi { -brand-name-firefox } est-il si lent ?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox

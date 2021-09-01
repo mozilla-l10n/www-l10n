@@ -11,6 +11,9 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook } d’u
 facebook-container-get-the-facebook-container = Installer l’extension { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Téléchargez { -brand-name-firefox } puis installez l’extension { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = L’extension { -brand-name-facebook-container } n’est actuellement disponible que pour { -brand-name-firefox } pour ordinateurs.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+# Obsolete string
+facebook-container-firefox-browser = { -brandname-firefox-browser(capitalization: "uppercase") }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

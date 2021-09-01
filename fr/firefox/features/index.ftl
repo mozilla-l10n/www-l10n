@@ -46,3 +46,5 @@ features-index-compare-browsers = Comparez les navigateurs
 features-index-see-themes = Voir les meilleurs thèmes
 features-index-download-latest = Télécharger la dernière version de { -brand-name-firefox }
 features-index-translate-the-web = Traduisez le Web
+features-index-translate-to-your = Traduisez dans votre langue
+features-index-picture-in-picture = Incrustation vidéo
