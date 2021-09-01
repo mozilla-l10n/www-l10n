@@ -21,6 +21,7 @@ misinformation-outdated-information = Pe marandu ndahekopyahúi ndaha’éi katu
 misinformation-credible-publication = ¿Ohechauka apohára ambue jehaipyre térã guenohẽmbyre, ikatu haguéicha tenda ojekuaávape?
 misinformation-authors-name = Ejuhumba’éramo pe apohára réra añónte tenda naiporãmbáivape, anínte emomba’eterei umi he’iva’ekue.
 misinformation-images-captions = ¿Umi ta’ãnga ha avara’ãnga reratee’i ojuehegua?
+misinformation-images-are-powerful = Ta’ãngakuéra ha’e tembipuru mbarete marandu’ỹrã sãmbyhypyre. Pe teratee’i he’iháicha, ñeñandu ikatu oñemoambue ndaha’éiva pe oiko haguéicha. Nanerekorosãiramo, eheka peteĩ ta’ãnga guive eikuaa hag̃ua mba’éichapa oñeñe’ẽ ambue tendápe.
 misinformation-how-firefox-helps-heading = Mba’éicha nepytyvõta { -brand-name-firefox } emboyke hag̃ua marandu’ỹ
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } oreko tapykuehoha ma’ẽag̃uíme:
 misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ipotĩ hag̃ua nde feeds ava ñandutieta:
