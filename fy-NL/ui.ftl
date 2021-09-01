@@ -20,3 +20,4 @@ ui-show-less = Minder toane
 ui-show-all = Alles toane
 ui-hide-all = Alles ferstopje
 ui-learn-more = Mear lêze
+ui-view = Werjaan
