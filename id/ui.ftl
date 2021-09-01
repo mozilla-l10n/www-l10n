@@ -19,3 +19,4 @@ ui-show-less = Tampilkan Lebih Sedikit
 ui-show-all = Tampilkan Semua
 ui-hide-all = Sembunyikan Semua
 ui-learn-more = Pelajari selengkapnya
+ui-view = Lihat
