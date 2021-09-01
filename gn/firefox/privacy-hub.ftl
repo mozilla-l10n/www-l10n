@@ -21,6 +21,7 @@ firefox-privacy-hub-you-should-be-able-to-decide = Nde emoneĩva’erã ohechát
 firefox-privacy-hub-thats-why-everything-we-make = Upévare rojapóva guive ojokupyty ore Ñe’ẽme’ẽ Mba’ekuaarã Nemba’etévare
 firefox-privacy-hub-take-less = Emokõ’ve
 firefox-privacy-hub-we-make-a-point-of-knowing = Roikuaase sa’ive mba’emimi nde rehegua
+firefox-privacy-hub-all-tech-companies-collect = Opavave mba’apohaguasu tembipurupyahugua ombyaty mba’ekuaarã omoporãve hag̃ua ijapopyre. Hákatu upéva nomoingeiva’erã mba’emimi tapicha rehegua. Mba’ekuaarã roipotáva ha’e umi ore pytyvõkuaáva. Roporandu: ¿Roikotevẽpiko ko’ã mba’ekuaarã? ¿Ma’erã roikotevẽ? ¿Ha araka’e romboguekuaa?
 firefox-privacy-hub-keep-it-safe = Eñemo’ãke
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Roñeha’ãmbaite romo’ã hag̃ua ne maranduete
 firefox-privacy-hub-no-secrets = Kañymby’ỹre
