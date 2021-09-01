@@ -27,7 +27,7 @@ facebook-container-try-firefox-focus-the-privacy = Δοκιμάστε το <stro
 facebook-container-opt-out-on-your-terms = Τα πάντα με τους δικούς σας όρους
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = Το { -brand-name-facebook } μπορεί να καταγράψει σχεδόν όλη τη δραστηριότητά σας στο διαδίκτυο και να τη συσχετίσει στο προφίλ σας. Αν δεν σας αρέσει αυτό, η <a href="{ $fbcontainer }">επέκταση { -brand-name-facebook-container }</a> απομονώνει την ταυτότητά σας σε μια ξεχωριστή θεματική καρτέλα, εμποδίζοντας την καταγραφή σας από το { -brand-name-facebook } στις υπόλοιπες ιστοσελίδες.
+facebook-container-facebook-can-track-almost = Το { -brand-name-facebook } μπορεί να καταγράψει σχεδόν όλη τη δραστηριότητά σας στο διαδίκτυο και να τη συσχετίσει με το προφίλ σας. Αν δεν σας αρέσει αυτό, η <a href="{ $fbcontainer }">επέκταση { -brand-name-facebook-container }</a> απομονώνει την ταυτότητά σας σε μια ξεχωριστή θεματική καρτέλα, εμποδίζοντας την καταγραφή σας από το { -brand-name-facebook } στις υπόλοιπες ιστοσελίδες.
 facebook-container-install-and-contain = Εγκατάσταση και απομόνωση
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
