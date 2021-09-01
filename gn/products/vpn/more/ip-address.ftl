@@ -16,5 +16,6 @@ vpn-ip-address-does-it-travel = ¿Egueraha nendive?
 vpn-ip-address-does-your-ip = ¿IP kundaharape iñambue?
 vpn-ip-address-can-more-than = ¿Ikatúpa heta mba’e’oka oreko IP kundaharape ojueheguáva?
 vpn-ip-address-can-we-run = ¿Ikatúpa opa?
+vpn-ip-address-we-now-have = Ko’ág̃a roreko IP kundaharenda 6 ichguáva, orekóva 128 bits peteĩva kundaharenda. Rombyasýrõ jepe, 4 ha 6 ichagua noñe’ẽkuaái oñondive, upévare opavave oikotevẽta kundaharenda 4 ichguáva heta ára gueteri.
 vpn-ip-address-should-you-hide = ¿Oñomikuaápa IP kundaharape?
 vpn-ip-address-how-do-you = ¿Mba’éicha oñomikuaa?
