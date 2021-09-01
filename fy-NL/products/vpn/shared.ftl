@@ -102,6 +102,9 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Mobyl
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Wat is in IP-adres?
+vpn-subnav-when-to-use-a-vpn = Wannear in VPN brûke
+vpn-subnav-vpn-vs-proxy = VPN fersus proxy
 
 ##
 
