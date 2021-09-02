@@ -10,6 +10,9 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }। �
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } एक्सटेंशन पाएँ
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } डाउनलोड करें और { -brand-name-facebook-container } एक्सटेंशन पाएँ
 facebook-container-only-available-for-desktop = { -brand-name-facebook-container } एक्सटेंशन वर्तमान में केवल { -brand-name-firefox } डेस्कटॉप के लिए उपलब्ध है।
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
