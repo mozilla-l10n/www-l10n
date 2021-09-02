@@ -14,6 +14,7 @@ vpn-shared-available-countries = 目前，我们在美国、英国、加拿大�
 # Outdated string
 vpn-shared-available-countries-v2 = 目前，我们在美国、英国、德国、法国、加拿大、马来西亚、新西兰和新加坡提供 { -brand-name-mozilla-vpn } 服务。
 vpn-shared-available-countries-v3 = 我们目前在美国、加拿大、英国、德国、法国、意大利、西班牙、比利时、奥地利、瑞士、马来西亚、新西兰和新加坡提供 { -brand-name-mozilla-vpn } 服务。
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 天退款保证
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = 媒体报道
@@ -51,6 +52,8 @@ vpn-shared-features-strong-servers = { $countries }+ 个国家/地区的高性�
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = 连接多达 { $devices } 台设备
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30 天退款保证
 vpn-shared-refund-policy = 退款政策
 vpn-shared-privacy-notice = 隐私声明
 vpn-shared-terms-conditions = 使用条款
