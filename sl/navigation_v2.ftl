@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Prenesite { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Ustvarite { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = Namestite { -brand-name-mozilla-vpn }
 navigation-v2-menu = Meni
+# Obsolete string
+navigation-v2-get-a-firefox-account = Ustvarite { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -22,6 +24,7 @@ navigation-v2-learn-how-firefox-treats = Preberite, kako { -brand-name-firefox }
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Preberite o najnovejših značilnostih { -brand-name-firefox }a in načinih, kako ostati varni na spletu.
 navigation-v2-release-notes = Opombe ob izdaji
+navigation-v2-get-the-details-on-the = Oglejte si podrobnosti o najnovejših posodobitvah { -brand-name-firefox(sklon: "rodilnik") }.
 
 ## Products menu
 
