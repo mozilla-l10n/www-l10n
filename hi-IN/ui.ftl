@@ -19,3 +19,4 @@ ui-show-less = कम दिखाएँ
 ui-show-all = सभी दिखाएँ
 ui-hide-all = सभी छिपाएँ
 ui-learn-more = अधिक जानें
+ui-view = देखें
