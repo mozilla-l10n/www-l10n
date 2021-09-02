@@ -19,4 +19,5 @@ ui-show-more = ვრცლად
 ui-show-less = შემოკლებულად
 ui-show-all = ყველას გამოჩენა
 ui-hide-all = ყველას დამალვა
-ui-learn-more = იხილეთ ვრცლად
+ui-learn-more = ვრცლად
+ui-view = ნახვა
