@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Scarica { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Registra un { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
+# Obsolete string
+navigation-v2-get-a-firefox-account = Registra un { -brand-name-firefox-account }
 
 ## Firefox menu
 
