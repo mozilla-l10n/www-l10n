@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = ऑनलाइन गलत जानकारी से बचें – { -brand-name-firefox } यहाँ मदद के लिए है
 misinformation-page-desc = गलत जानकारी, परेशान करने वाली, विचलित करने वाली और महंगी होती है। { -brand-name-firefox } के सुझावों के साथ ऑनलाइन गलत जानकारी कम देखें और उससे बचे।
 misinformation-page-subheading = गलत जानकारी कम देखने के लिए और अपने लिए महत्त्वपूर्ण बातों पर अधिक ध्यान केन्द्रित करने के लिए कुछ सुझाव देखें
