@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = 下载 { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = 获取 { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = 下载 { -brand-name-mozilla-vpn }
 navigation-v2-menu = 菜单
+# Obsolete string
+navigation-v2-get-a-firefox-account = 获取 { -brand-name-firefox-account }
 
 ## Firefox menu
 
