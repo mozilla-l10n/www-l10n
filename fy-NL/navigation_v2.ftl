@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } downloade
-navigation-v2-get-a-firefox-account = Meitsje in { -brand-name-firefox-account } oan
+navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } downloade
 navigation-v2-menu = Menu
+# Obsolete string
+navigation-v2-get-a-firefox-account = Meitsje in { -brand-name-firefox-account } oan
 
 ## Firefox menu
 
