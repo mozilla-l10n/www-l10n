@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox }’u indir
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } aç
+navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin
 navigation-v2-menu = Menü
+# Obsolete string
+navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } aç
 
 ## Firefox menu
 
