@@ -17,4 +17,5 @@ vpn-or-proxy-secure-web-proxy = Proxy ñandutigua hekorosãva: ñemo’ã kundah
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: ñemo’ã a mba’e’oka peve
 vpn-or-proxy-a-vpn-works = Peteĩ VPN oku’e omoheñóivo “tapeyvyguy” hekorosãva ne mba’e’oka pa’ũme ha ñanduti tuichaháicha. Emo’ã ne rekoñemi hendáicha:
 vpn-or-proxy-concealing-your-ip = Emokañývo nde IP kundaharape, omo’ãvo nde reratee ha oñomívo ne rendaite.
+vpn-or-proxy-encrypting-your-traffic = Ombopapapývo pe jeikeita nde ha ne VPN me’ẽhára avave ani hag̃uáicha ne ñanduti ombopapapy’o térã omoambue ndehegui.
 vpn-or-proxy-choose-a-trustworthy = Eipurúvo mba’epuru jeroviaha
