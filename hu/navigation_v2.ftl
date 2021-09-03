@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Töltse le a { -brand-name-firefox }ot
-navigation-v2-get-a-firefox-account = Szerezzen be egy { -brand-name-firefox-account }ot
+navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } beszerzése
 navigation-v2-menu = Menü
+# Obsolete string
+navigation-v2-get-a-firefox-account = Szerezzen be egy { -brand-name-firefox-account }ot
 
 ## Firefox menu
 
