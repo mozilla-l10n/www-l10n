@@ -20,5 +20,6 @@ vpn-when-to-use-2-in-the = 2. Reikohápe
 vpn-when-to-use-3-on-the = 3. Tapére
 vpn-when-to-use-4-home-away = 4. Nde rógape mombyry upégui
 vpn-when-to-use-5-in-your = 5. Nde rogaitépe
+vpn-when-to-use-for-the-most = Hetave jey, umi mba’e ojehuva’ekue ndoikói ñanduti nde róga peguápe, ojejapóma guive peteĩ ñe’ẽñemi hekorosãva añetéva reheve ha hekorosãve hag̃ua. Hákatu nde’iséi repytamaha tesaráipe umi mba’evaiapohágui.
 vpn-when-to-use-make-sure-you = Eikuaaporãva’erã pe VPN ojapokuaa’ỹva
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, ha’e VPN ejeroviakuaaha

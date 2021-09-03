@@ -21,6 +21,7 @@ vpn-what-is-protecting-your-connection = Emo’ã ñandutípe jeike WiFi rupive,
 vpn-what-is-ensuring-the-confidentiality = Emoañete pe ñemiguaitéva ha ñandutípe jeike reko.
 vpn-what-is-make-it-more = Embohasy umi maranduñemurã apohápe oipurúvo nde IP oñemoheñói hag̃ua mba’ete ombohapekuaáva ñemurã nde rapykuehokuaáva ñandutípe.
 vpn-what-is-what-are-the = ¿Mba’épa umi ivaikuaáva eipurukuévo VPN?
+vpn-what-is-some-service-providers = Heta mba’epytyvõrã me’ẽhára ojoko umi jeike ojejapóva peteĩ VPN rupive, ha péicha pe hetepýpe ndaikatúi ojeike emyandúvo pe VPN. Ndahetái VPN omboguejykuaa pe pya’ekue térã omomichĩ pe ancho de banda. Ha heta VPN oha’ã karape puruhára rekoñemi ha rekorosã.
 vpn-what-is-are-vpns-safe = ¿Hekorosãpa ko’ã VPNs?
 vpn-what-is-can-vpns-protect = ¿Ko’ã VPNs omo’ãpa umi mba’evaiapohápe?
 vpn-what-is-are-vpns-legal = ¿Hekovoñápiko ko’ã VPNs?
