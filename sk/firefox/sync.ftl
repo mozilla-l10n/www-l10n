@@ -7,6 +7,7 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Synchronizujte svoje záložky, heslá, otvorené karty a ďalšie údaje - všade, kde používate { -brand-name-firefox }.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Zosynchronizujte si { -brand-name-firefox } na každom zariadení
 firefox-sync-privacy-made-easy = Zjednodušili sme súkromie
 firefox-sync-all-you-need = Na používanie služby { -brand-name-firefox-sync } vám stačí { -brand-name-firefox-account(capitalization: "lower") }.

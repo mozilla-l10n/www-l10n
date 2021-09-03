@@ -14,6 +14,7 @@ vpn-shared-available-countries = { -brand-name-mozilla-vpn } je v súčasnosti k
 # Outdated string
 vpn-shared-available-countries-v2 = { -brand-name-mozilla-vpn } je v súčasnosti k dispozícii v USA, Spojenom kráľovstve, Nemecku, Francúzsku, Kanade, Singapure, Malajzii a na Novom Zélande.
 vpn-shared-available-countries-v3 = { -brand-name-mozilla-vpn } je v súčasnosti k dispozícii v USA, Kanade, Spojenom kráľovstve, Nemecku, Francúzsku, Taliansku, Španielsku, Belgicku, Rakúsku, Švajčiarsku, Malajzii, Singapure a na Novom Zélande.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 dňová záruka vrátenia peňazí
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Písali o nás
@@ -51,6 +52,8 @@ vpn-shared-features-strong-servers = Silné servery vo viac ako { $countries }
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Pripojte až { $devices } zariadení
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30 dňová záruka vrátenia peňazí
 vpn-shared-refund-policy = Pravidlá vrátenia peňazí
 vpn-shared-privacy-notice = Zásady ochrany súkromia
 vpn-shared-terms-conditions = Podmienky používania
@@ -80,6 +83,10 @@ vpn-shared-platform-cta-headline = Začíname
 vpn-shared-platform-cta-button = Zobraziť cenu a dostupnosť
 vpn-shared-platform-privacy-promise = Vaše súkromie je náš prísľub
 vpn-shared-platform-trust-partner-headline = O našom partnerovi
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } beží na celosvetovej sieti serverov poháňanej spoločnosťou <a href="{ $policy }">{ -brand-name-mullvad }</a>. Za použitia najpokročilejšieho protokolu <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® šifrujeme všetku vašu aktivitu a skrývame vašu IP adresu. { -brand-name-mullvad } nezaznamenáva, nesleduje a nezdieľa vaše údaje.
 vpn-shared-platform-what-youll-get = Čo získate s { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
@@ -93,6 +100,9 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Mobil
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Čo je IP adresa?
+vpn-subnav-when-to-use-a-vpn = Kedy je vhodné používať VPN
+vpn-subnav-vpn-vs-proxy = VPN vs proxy
 
 ##
 

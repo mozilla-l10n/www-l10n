@@ -16,4 +16,7 @@ features-shared-password-manager = Správca hesiel
 features-shared-customize-your-browser = Prispôsobte si svoj prehliadač
 features-shared-sync-between-devices = Synchronizácia medzi zariadeniami
 features-shared-better-bookmarks = Lepšie záložky
+features-shared-fingerprinter-blocking = Blokovanie vytvárania odtlačkov prehliadača
+features-shared-translate-the-web = Prekladanie webových stránok
+features-shared-picture-in-picture = Obraz v obraze
 brand-name-firefox = { -brand-name-firefox }
