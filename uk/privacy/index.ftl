@@ -24,7 +24,7 @@ privacy-index-transparency-report = Звіт про прозорість
 privacy-index-get-involved = Долучитися
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
-privacy-index-as-an-open-source-project = Відкритість і прозорість є найважливішою частиною принципів роботи проєкту { -brand-name-mozilla }. Наша кодова база є відкритою та доступною для аудиту. Наш процес розробки є відкритим. Наш <a href="{ $report }">Звіт про прозорість</a>, що виходить кожні пів року, також відображає нашу відданість цим принципам.
+privacy-index-as-an-open-source-project = Відкритість і прозорість є найважливішою частиною принципів роботи проєкту { -brand-name-mozilla }. Наша кодова база є відкритою та доступною для аудиту. Наш процес розробки є відкритим. Наш <a href="{ $report }">Звіт про прозорість</a>, що виходить кожні пів року, також свідчить про нашу відданість цим принципам.
 # Variables:
 #   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
 privacy-index-to-review-and-comment-on-proposed = Щоб перевірити й залишити коментарі з пропозиціями про зміни для нашої політики приватності, <a href="{ $group }"> підпишіться на групу управління { -brand-name-mozilla }</a>.
