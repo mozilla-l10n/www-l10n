@@ -14,6 +14,7 @@ vpn-shared-available-countries = Προς το παρόν, το { -brand-name-mo
 # Outdated string
 vpn-shared-available-countries-v2 = Προς το παρόν, το { -brand-name-mozilla-vpn } διατίθεται στις ΗΠΑ, το Ηνωμένο Βασίλειο, τη Γερμανία, τη Γαλλία, τον Καναδά, τη Μαλαισία, τη Νέα Ζηλανδία και τη Σιγκαπούρη.
 vpn-shared-available-countries-v3 = Προς το παρόν, το { -brand-name-mozilla-vpn } διατίθεται στις ΗΠΑ, τον Καναδά, το Ηνωμένο Βασίλειο, τη Γερμανία, τη Γαλλία, την Ιταλία, την Ισπανία, το Βέλγιο, την Αυστρία, την Ελβετία, τη Μαλαισία, τη Νέα Ζηλανδία και τη Σιγκαπούρη.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Εγγύηση επιστροφής χρημάτων εντός 30 ημερών
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Προτείνεται από
@@ -51,6 +52,8 @@ vpn-shared-features-strong-servers = Ισχυροί διακομιστές σε 
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Σύνδεση έως και { $devices } συσκευών
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = Εγγύηση επιστροφής χρημάτων 30 ημερών
 vpn-shared-refund-policy = Πολιτική επιστροφής
 vpn-shared-privacy-notice = Σημείωση απορρήτου
 vpn-shared-terms-conditions = Όροι και συνθήκες
