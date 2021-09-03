@@ -14,6 +14,7 @@ vpn-shared-available-countries = Ko’ág̃a roikuave’ẽ { -brand-name-mozill
 # Outdated string
 vpn-shared-available-countries-v2 = Ko’ág̃a roikuave’ẽ { -brand-name-mozilla-vpn } Estados Unidos, Reino Unido, Alemania, Francia, Canadá, Malasia, Nueva Zelanda ha Singapur-pe.
 vpn-shared-available-countries-v3 = Ko’ág̃a roikuave’ẽ { -brand-name-mozilla-vpn } Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Malasia, Nueva Zelanda ha Singapur-pe.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ára haguépe ome’ẽkuaajey viru
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Momba’epyre pe
@@ -51,6 +52,8 @@ vpn-shared-features-strong-servers = Mohendahavusu mbarete { $countries }+ tetã
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Eike { $devices } mba’e’okuérape peve
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30 ára haguépe ome’ẽkuaajey viru
 vpn-shared-refund-policy = Myengovia Purureko
 vpn-shared-privacy-notice = Marandu’i ñemiguáva
 vpn-shared-terms-conditions = Ñe’ẽtegua ha Mba’éichapa
