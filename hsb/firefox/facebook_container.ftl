@@ -11,6 +11,9 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Pod 
 facebook-container-get-the-facebook-container = Wobstarajće sej rozšěrjenje { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Sćehńće { -brand-name-firefox } a wobstarajće sej rozšěrjenje { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Rozšěrjenje { -brand-name-facebook-container } je tuchwilu jenož za { -brand-name-firefox } za desktop k dispoziciji.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
