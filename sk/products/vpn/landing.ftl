@@ -19,6 +19,11 @@ vpn-landing-privacy-heading = Súkromie na jedno ťuknutie
 vpn-landing-privacy-desc = Robte všetky svoje aktivity na internete bez straty súkromia. Či už cestujete, používate verejnú WiFi alebo len chcete mať väčšie súkromie, môžete sa spoľahnúť, že my budeme vaše súkromie vždy klásť na prvé miesto.
 vpn-landing-fast-secure-heading = Rýchla a bezpečná sieť
 # Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } beží na celosvetovej sieti serverov . Za použitia najpokročilejšieho protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme všetku vašu aktivitu a skrývame vašu IP adresu. Nezaznamenávame, nesledujeme a nezdieľame vaše údaje.
+# Obsolete string
+# Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
@@ -35,6 +40,10 @@ vpn-langing-faq-uses-question-heading = Čo je to VPN a na čo sa používa?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Súkromie a bezpečnosť na internete sú v dnešnej dobe čoraz dôležitejšie. VPN (<a href="{ $url }">Virtuálna privátna sieť) vám môže pomôcť vytvoriť si bezpečné a súkromné pripojenie na internet. Vytvára totižto istý „tunel“ medzi vašim zariadením a internetom vo všeobecnosti. Vaše súkromie je chránené dvoma dôležitými spôsobmi:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Skrýva vašu skutočnú <a href="{ $url }">IP adresu</a>. Takto chráni vašu identitu a skrýva vaše umiestnenie.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Skrýva vašu skutočnú IP adresu. Takto chráni vašu identitu a skrýva vaše umiestnenie.
 vpn-landing-faq-uses-encrypt = Šifruje spojenie medzi vami a vašim poskytovateľom VPN, takže ju nikto vo vašej lokálnej sieti nemôže rozlúštiť alebo upraviť.
 # Variables:
