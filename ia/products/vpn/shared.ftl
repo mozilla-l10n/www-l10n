@@ -14,6 +14,7 @@ vpn-shared-available-countries = Nos actualmente offere { -brand-name-mozilla-vp
 # Outdated string
 vpn-shared-available-countries-v2 = Nos actualmente offere { -brand-name-mozilla-vpn } in le SUA, le UK, Germania, Francia, Canada, Malaysia, Nove Zelanda e Singapore.
 vpn-shared-available-countries-v3 = Nos actualmente offere { -brand-name-mozilla-vpn } in le SUA, le UK, Germania, Francia, Italia Espania, Belgio, Austria Canada, Suissa, Malaya, Nove Zelanda e Singapur.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Reimbursamento garantite pro 30-dies
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Consiliate in
@@ -51,6 +52,8 @@ vpn-shared-features-strong-servers = Forte servitores in ultra { $countries } pa
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Connecte te a maximo { $devices } apparatos
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = Reimbursamento garantite pro 30-dies
 vpn-shared-refund-policy = Regulamento de reimbursamento
 vpn-shared-privacy-notice = Aviso de confidentialitate
 vpn-shared-terms-conditions = Terminos e conditiones
