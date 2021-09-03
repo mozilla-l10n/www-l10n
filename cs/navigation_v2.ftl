@@ -4,13 +4,15 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Stáhnout { -brand-name-firefox(case: "acc") }
-navigation-v2-get-a-firefox-account = Vytvořte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
+navigation-v2-get-mozilla-vpn = Získejte { -brand-name-mozilla-vpn(case: "acc") }
 navigation-v2-menu = Nabídka
+# Obsolete string
+navigation-v2-get-a-firefox-account = Vytvořte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
 
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
-navigation-v2-close-firefox-browsers-menu = Zavřít
+navigation-v2-close-firefox-browsers-menu = Zavřít nabídku { -brand-name-firefox-browsers(case: "gen", capitalization: "lower") }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pro počítač
 navigation-v2-get-the-not-for-profit-backed = Používejte prohlížeč od neziskové organizace, dostupný pro { -brand-name-windows(case: "acc") }, { -brand-name-mac-short(case: "acc") } i { -brand-name-linux(case: "acc") }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android(case: "acc") }
