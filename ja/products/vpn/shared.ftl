@@ -16,6 +16,8 @@ vpn-shared-available-countries = { -brand-name-mozilla-vpn } は現在、米国�
 vpn-shared-available-countries-v2 = { -brand-name-mozilla-vpn } は現在、米国、英国、ドイツ、フランス、カナダ、マレーシア、ニュージーランド、シンガポールで提供しています。
 
 vpn-shared-available-countries-v3 = { -brand-name-mozilla-vpn } は、現在アメリカ、カナダ、英国、ドイツ、フランス、イタリア、スペイン、ベルギー、オーストリア、スイス、マレーシア、ニュージーランド、シンガポールで提供しています。
+
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 日間の返金保証
 
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.

@@ -16,6 +16,8 @@ vpn-shared-available-countries = Saat ini kami menawarkan { -brand-name-mozilla-
 vpn-shared-available-countries-v2 = Saat ini kami menawarkan { -brand-name-mozilla-vpn } di AS, Inggris, Jerman, Prancis, Kanada, Malaysia, Selandia Baru, dan Singapura.
 
 vpn-shared-available-countries-v3 = Saat ini kami menawarkan { -brand-name-mozilla-vpn } di AS, Kanada, Inggris, Jerman, Prancis, Italia, Spanyol, Belgia, Austria, Swiss, Malaysia, Selandia Baru, dan Singapura.
+
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Jaminan uang kembali selama 30 hari
 
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
