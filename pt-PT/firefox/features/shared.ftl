@@ -16,4 +16,5 @@ features-shared-password-manager = Gestor de palavras-passe
 features-shared-customize-your-browser = Personalize o seu navegador
 features-shared-sync-between-devices = Sincronize entre dispositivos
 features-shared-better-bookmarks = Melhores marcadores
+features-shared-translate-the-web = Traduzir a Internet
 brand-name-firefox = { -brand-name-firefox }
