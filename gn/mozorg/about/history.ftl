@@ -50,6 +50,7 @@ history-the-future-is-full-of-challenges = Tenondevépe oĩ heta mba’eaporã h
 history-theres-no-guarantee-that = Ndaikatúi ja’e Ñanduti oiko aretaha juruja, vy’a térã tekorosãme.
 history-mozilla-will-continue-to = { -brand-name-mozilla } ome’ẽvéta pa’ũ opaite yvypóra ohenduka hag̃ua iñe’ẽ ha avei oikoporãvo oikundahakuévo.
 history-of-course-were-not-alone = Peichaite, ndaoreañói ko tembiapópe.
+history-the-mozilla-community-together = { -brand-name-mozilla } rekoha, ambue apopyrã ijayvu jurujáva ndive ha ambue tendaguasu pytyvõhárarava, omba’apóva tapichakuéra omongu’éva umi ore rembipota añetehápe rehehápe.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Eikeséramo orendive ore rembipotápe, ikatúrõ <a href="{ $contribute }">eikékatu</a>.
