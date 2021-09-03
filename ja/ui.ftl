@@ -19,3 +19,4 @@ ui-show-less = 折りたたむ
 ui-show-all = すべて表示
 ui-hide-all = すべて非表示
 ui-learn-more = もっと詳しく
+ui-view = 見る
