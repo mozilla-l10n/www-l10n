@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Τι είναι μια διεύθυνση IP;
+# HTML page description and intro
+vpn-ip-address-mozilla-answers-all-of = Η { -brand-name-mozilla } απαντά σε όλες τις απορίες σας σχετικά με τις διευθύνσεις IP, από το τι είναι και πώς λειτουργεί μια διεύθυνση IP μέχρι το αν θα πρέπει να την αποκρύψετε.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Παράδειγμα διεύθυνσης IP, η οποία αποτελείται από τέσσερις αριθμούς, χωρισμένους με τελείες: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Αν αναζητήσετε τη διεύθυνση IP σας, θα μοιάζει κάπως έτσι.
