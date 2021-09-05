@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Pobierz { -brand-name-firefox(case: "acc") }
-navigation-v2-get-a-firefox-account = Utwórz { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
+navigation-v2-get-mozilla-vpn = Wypróbuj { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
+# Obsolete string
+navigation-v2-get-a-firefox-account = Utwórz { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
 
 ## Firefox menu
 
