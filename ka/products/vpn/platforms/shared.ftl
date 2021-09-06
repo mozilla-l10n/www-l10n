@@ -9,7 +9,7 @@
 vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
 vpn-platforms-shared-cta-headline = დავიწყოთ
 vpn-platforms-shared-cta = იხილეთ ფასები და ხელმისაწვდომობა
-vpn-platforms-shared-day-guarantee = 30-დღიანი ვადა თანხის დასაბრუნებლად
+vpn-platforms-shared-day-guarantee = 30-დღიანი ვადით თანხის დასაბრუნებლად
 vpn-platforms-shared-what-youll-get = რას მოგცემთ { -brand-name-mozilla-vpn }:
 vpn-platforms-shared-privacy-headline = თქვენი პირადულობა ჩვენი პირობაა
 # Variables:

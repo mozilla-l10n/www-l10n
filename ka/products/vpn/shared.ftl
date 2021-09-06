@@ -15,7 +15,7 @@ vpn-shared-available-countries = ამჟამად, { -brand-name-mozilla-vp
 vpn-shared-available-countries-v2 = ამჟამად, { -brand-name-mozilla-vpn } ხელმისაწვდომია შტატებში, გაერთიანებულ სამეფოში, გერმანიაში, საფრანგეთში, კანადაში, მალაიზიაში, ახალ ზელანდიასა და სინგაპურში.
 vpn-shared-available-countries-v3 = ამჟამად, { -brand-name-mozilla-vpn } ხელმისაწვდომია შტატებში, კანადაში, გაერთიანებულ სამეფოში, გერმანიაში, საფრანგეთში, იტალიაში, ესპანეთში, ბელგიაში, ავსტრიაში, შვეიცარიაში, მალაიზიაში, ახალ ზელანდიასა და სინგაპურში.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
-vpn-shared-money-back-guarantee = 30-დღიანი ვადა თანხის დასაბრუნებლად
+vpn-shared-money-back-guarantee = 30-დღიანი ვადით თანხის დასაბრუნებლად
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = შესაძლებლობები
 vpn-shared-features-encrypt = მოწყობილობის დონეზე დაშიფვრა
@@ -53,7 +53,7 @@ vpn-shared-features-strong-servers = მძლავრი სერვერე
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = კავშირი { $devices } მოწყობილობამდე
 # This string is displayed as an item in a list of features.
-vpn-shared-features-guarantee = 30-დღიანი ვადა თანხის დასაბრუნებლად
+vpn-shared-features-guarantee = 30-დღიანი ვადით თანხის დასაბრუნებლად
 vpn-shared-refund-policy = ანაზღაურების დებულება
 vpn-shared-privacy-notice = პირადულობის განაცხადი
 vpn-shared-terms-conditions = პირობები და ვადები
