@@ -14,6 +14,7 @@ vpn-shared-available-countries = Ar hyn o bryd rydym yn cynnig { -brand-name-moz
 # Outdated string
 vpn-shared-available-countries-v2 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn UDA, y DU, Canada, Seland Newydd, Singapore, a Malaysia.
 vpn-shared-available-countries-v3 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn y DU, yr Almaen, Ffrainc, Sbaen, Gwlad Belg, Awstria, y Swistir, yr UDA, Canada, Seland Newydd, Singapore, a Malaysia.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Gwarant arian-yn-ôl 30 diwrnod
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Sylw yn
@@ -51,6 +52,8 @@ vpn-shared-features-strong-servers = Gweinyddion cryf mewn { $countries }+ gwlad
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Cysylltwch hyd at { $devices } dyfais
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = Gwarant arian-yn-ôl 30 diwrnod
 vpn-shared-refund-policy = Polisi Ad-dalu
 vpn-shared-privacy-notice = Hysbysiad Preifatrwydd
 vpn-shared-terms-conditions = Telerau ac Amodau

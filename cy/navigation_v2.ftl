@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Llwytho { -brand-name-firefox } i Lawr
-navigation-v2-get-a-firefox-account = Cael { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = Cael { -brand-name-mozilla-vpn }
 navigation-v2-menu = Dewislen
+# Obsolete string
+navigation-v2-get-a-firefox-account = Cael { -brand-name-firefox-account }
 
 ## Firefox menu
 

@@ -20,3 +20,4 @@ ui-show-less = Dangos Llai
 ui-show-all = Dangos y Cyfan
 ui-hide-all = Cuddio'r Cyfan
 ui-learn-more = Dysgu rhagor
+ui-view = Gweld
