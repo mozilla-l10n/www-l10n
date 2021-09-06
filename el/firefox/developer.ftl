@@ -9,7 +9,7 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition-desc = Το { -brand-name-firefox-developer-edition } είναι ένα αστραπιαίο πρόγραμμα περιήγησης που προσφέρει σύγχρονα εργαλεία προγραμματιστή και νέες λειτουργίες, όπως υποστήριξη πλέγματος CSS και αποσφαλμάτωση πλαισίου
+firefox-developer-firefox-developer-edition-desc = Το { -brand-name-firefox-developer-edition } είναι ένα αστραπιαίο πρόγραμμα περιήγησης που προσφέρει σύγχρονα εργαλεία ανάπτυξης και νέες λειτουργίες, όπως υποστήριξη πλέγματος CSS και έλεγχος σφαλμάτων πλαισίου
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Καλώς ορίσατε στο νέο, αγαπημένο σας πρόγραμμα περιήγησης. Λάβετε τις πιο πρόσφατες λειτουργίες, υψηλές επιδόσεις και τα εργαλεία προγραμματιστή που χρειάζεστε για να αναπτύξετε το ανοικτό διαδίκτυο.
 firefox-developer-speak-up = Εκφραστείτε
@@ -55,7 +55,7 @@ firefox-developer-new-tools = Νέα εργαλεία
 firefox-developer-inactive-css = Ανενεργό CSS
 firefox-developer-firefox-devtools-now-grays-out = Το { -brand-name-firefox-devtools } πλέον απενεργοποιεί τις δηλώσεις CSS που δεν επιδρούν στη σελίδα. Όταν τοποθετήσετε τον δείκτη του ποντικιού στο εικονίδιο πληροφοριών, θα δείτε ένα χρήσιμο μήνυμα σχετικά με τον λόγο που δεν εφαρμόζεται το CSS, καθώς και μια υπόδειξη για τον τρόπο διόρθωσης του προβλήματος.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-the-new-firefox-devtools = Τα νέα { -brand-name-firefox-devtools } είναι ισχυρά, ευέλικτα και, το καλύτερο, επεκτάσιμα. Περιλαμβάνουν καλύτερη αποσφαλμάτωση JavaScript, που μπορεί να στοχεύσει πολλαπλά προγράμματα περιήγησης και αναπτύσσεται σε React και Redux.
+firefox-developer-the-new-firefox-devtools = Τα νέα { -brand-name-firefox-devtools } είναι ισχυρά, ευέλικτα και, το καλύτερο, επεκτάσιμα. Περιλαμβάνουν τον καλύτερο έλεγχο σφαλμάτων JavaScript, που μπορεί να στοχεύσει πολλαπλά προγράμματα περιήγησης και αναπτύσσεται σε React και Redux.
 firefox-developer-master-css-grid = Τιθασεύστε το πλέγμα CSS
 firefox-developer-next-gen-css-engine = Μηχανισμός CSS νέας γενιάς
 firefox-developer-a-next-generation = Ένας μηχανισμός CSS από το μέλλον
