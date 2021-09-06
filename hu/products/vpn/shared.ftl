@@ -14,6 +14,7 @@ vpn-shared-available-countries = Jelenleg a { -brand-name-mozilla-vpn }-t az Ame
 # Outdated string
 vpn-shared-available-countries-v2 = Jelenleg a { -brand-name-mozilla-vpn }-t az Amerikai Egyesült Államokban, az Egyesült Királyságban, Németországban, Franciaországban, Kanadában, Malajziában, Új-Zélandon és Szingapúrban kínáljuk.
 vpn-shared-available-countries-v3 = Jelenleg a { -brand-name-mozilla-vpn }-t az Amerikai Egyesült Államokban, Kanadában, az Egyesült Királyságban, Németországban, Franciaországban, Olaszországban, Spanyolországban, Belgiumban, Ausztriában, Svájcban, Malajziában, Új-Zélandon és Szingapúrban kínáljuk.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 napos pénzvisszafizetési garancia
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Sajtó
@@ -51,6 +52,8 @@ vpn-shared-features-strong-servers = Erős kiszolgálók { $countries }+ ország
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Csatlakoztasson akár { $devices } eszközt
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30 napos pénzvisszafizetési garancia
 vpn-shared-refund-policy = Pénzvisszatérítési házirend
 vpn-shared-privacy-notice = Adatvédelmi nyilatkozat
 vpn-shared-terms-conditions = Használati feltételek

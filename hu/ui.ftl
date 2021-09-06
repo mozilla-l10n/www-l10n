@@ -20,3 +20,4 @@ ui-show-less = Kevesebb megjelenítése
 ui-show-all = Összes megjelenítése
 ui-hide-all = Összes elrejtése
 ui-learn-more = Tudjon meg többet
+ui-view = Nézet
