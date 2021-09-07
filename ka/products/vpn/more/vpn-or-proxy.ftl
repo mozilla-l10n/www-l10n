@@ -1,0 +1,12 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
+
+# HTML page title and main title
+vpn-or-proxy-the-difference-between = რით განსხვავდება VPN და პროქსი
+# HTML page description and intro
+vpn-or-proxy-vpns-and-proxies-are = VPN და პროქსი, ინტერნეტში პირადულობისა და უსაფრთხოებისთვისაა. იხილეთ, როგორ გიცავთ თითოეული და რომლის არჩევაა უმჯობესი.
+vpn-or-proxy-virtual-private-networks = წარმოსახვითი კერძო ქსელი (VPN) და დაცული პროქსი (ვებპროქსი) გამოიყენება ინტერნეტში პირადულობისა და უსაფრთხოების გასაუმჯობესებლად, თუმცა, შესაძლოა დამაბნეველი იყოს, მათ შორის სწორი არჩევანის გაკეთება. აქ გაეცნობით, თითოეული მომსახურება როგორ გიცავთ და რომლის არჩევა ჯობია, ინტერნეტით სარგებლობისას.
