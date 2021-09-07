@@ -35,7 +35,7 @@ no-we-dont = არა, ჩვენ არ მიგვაჩნია რო�
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
-see-how-firefox = <a href="{ $url }">იხილეთ, { -brand-name-firefox } რითი სჯობს { -brand-name-chrome }-ს.</a>
+see-how-firefox = <a href="{ $url }">იხილეთ, { -brand-name-firefox } რით სჯობს { -brand-name-chrome }-ს.</a>
 related-questions-better = მსგავსი კითხვები: არის { -brand-name-firefox } უკეთესი ვიდრე { -brand-name-chrome }, { -brand-name-firefox } ჯობია { -brand-name-google }-ს, { -brand-name-firefox } უფრო უსაფრთხოა ვიდრე { -brand-name-chrome }, { -brand-name-firefox } უფრო დაცულია ვიდრე { -brand-name-chrome }
 is-firefox-safe-download = { -brand-name-firefox } უსაფრთხოა ჩამოსატვირთად?
 
