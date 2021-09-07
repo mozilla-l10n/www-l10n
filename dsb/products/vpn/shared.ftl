@@ -14,6 +14,7 @@ vpn-shared-available-countries = Tuchylu { -brand-name-mozilla-vpn } w Zjadnośo
 # Outdated string
 vpn-shared-available-countries-v2 = Tuchylu { -brand-name-mozilla-vpn } w Zjadnośonych statach, Zjadnośonem kralojstwu, Francoskej, Kanaźe, Malajziji, Nowoseelandskej a Singapurje póbitujomy
 vpn-shared-available-countries-v3 = Tuchylu { -brand-name-mozilla-vpn } w Zjadnośonych statach, Kanaźe, Zjadnośonem kralojstwu, Nimskej, Francoskej, Italskej, Špańskej, Belgiskej, Awstriskej, Šwicaŕskej, Malajziji, Nowoseelandskej a Singapurje póbitujomy.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnjowna garantija slědkdaśa pjenjez
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Pśedstajony w
@@ -51,6 +52,8 @@ vpn-shared-features-strong-servers = Mócne serwery we wěcej ako { $countries }
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Zwěžćo až k { $devices } rědam
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30-dnjowska garantija slědkdaśa pjenjez
 vpn-shared-refund-policy = Pšawidła zarownanja
 vpn-shared-privacy-notice = Wuzjawjenje priwatnosći
 vpn-shared-terms-conditions = Wužywańske wuměnjenja
