@@ -18,5 +18,8 @@ vpn-windows-privacy-headline = Šćit z tłocenim tłocaška
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } waš internetny zwisk koděrujo a šćita wašu IP-adresu pśed narskimi wócymi na wašom desktopje abo laptopje z rozšyrjonym protokolom { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Pśistup k serweram na cełem swěśe
 vpn-windows-devices-headline = Jaden abonement za wše waše rědy
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = Z wašym { -brand-name-mozilla-vpn }-abonementom dostanjośo njewobgranicowany pśistup k našej VPN-słužbje na až do { $devices } rědach za { -brand-name-windows } (mjazy nimi { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
 vpn-windows-speed-headline = Žedne wobgranicowanja šyrokosći pasma
 vpn-windows-log-headline = Waša priwatnosć jo naša priorita

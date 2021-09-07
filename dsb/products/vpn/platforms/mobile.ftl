@@ -18,5 +18,6 @@ vpn-mobile-servers-headline = Zwězajśo se ze serwerami na cełem swěśe
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Šćitajśo až do { $devices } rědow
+vpn-mobile-devices-copy = Z wašym abonementom dostanjośo njewobgranicowany pśistup k našej VPN-słužbje na swójim smartfonje, tableśe a desktopje za { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
 vpn-mobile-speed-headline = Tšašnycka malsnosć, žedne wobgranicowanja
 vpn-mobile-log-headline = Priwatnosć ma nejwušu prioritu
