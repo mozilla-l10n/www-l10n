@@ -11,3 +11,8 @@ vpn-or-proxy-the-difference-between = რით განსხვავდე�
 vpn-or-proxy-vpns-and-proxies-are = VPN და პროქსი, ინტერნეტში პირადულობისა და უსაფრთხოებისთვისაა. იხილეთ, როგორ გიცავთ თითოეული და რომლის არჩევაა უმჯობესი.
 vpn-or-proxy-virtual-private-networks = წარმოსახვითი კერძო ქსელი (VPN) და დაცული პროქსი (ვებპროქსი) გამოიყენება ინტერნეტში პირადულობისა და უსაფრთხოების გასაუმჯობესებლად, თუმცა, შესაძლოა დამაბნეველი იყოს, მათ შორის სწორი არჩევანის გაკეთება. აქ გაეცნობით, თითოეული მომსახურება როგორ გიცავთ და რომლის არჩევა ჯობია, ინტერნეტით სარგებლობისას.
 vpn-or-proxy-stop-isps-from = შეაჩერეთ თვალთვალი ინტერნეტის მომწოდებლისგან
+# Variables
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+#   $etp (url) - https://blog.mozilla.org/products/firefox/control-trackers-with-firefox/
+#   $trackers (url) - https://blog.mozilla.org/internet-culture/mozilla-explains/what-is-a-web-tracker/
+vpn-or-proxy-when-you-use-firefox = როცა <a href="{ $firefox }">იყენებთ { -brand-name-firefox }-ს</a>, <a href="{ $etp }">თვალთვალისგან გაძლიერებული დაცვა</a> თავისთავად ზღუდავს გარეშე მხარეების უმეტეს <a href="{ $trackers }">მეთვალყურეს</a> მთელი ვებსივრციდან. თუმცა, აქ ერთი საგულისხმო საკითხია: თქვენი ინტერნეტის მომწოდებელს (ISP), რომელსაც თანხას უხდით მომსახურებისთვის — მაინც შეუძლია თვალი გადევნოთ.
