@@ -25,5 +25,6 @@ vpn-what-is-some-service-providers = Heta mba’epytyvõrã me’ẽhára ojoko 
 vpn-what-is-are-vpns-safe = ¿Hekorosãpa ko’ã VPNs?
 vpn-what-is-can-vpns-protect = ¿Ko’ã VPNs omo’ãpa umi mba’evaiapohápe?
 vpn-what-is-are-vpns-legal = ¿Hekovoñápiko ko’ã VPNs?
+vpn-what-is-installing-and-using = Emohenda ha eipuru VPN ojepurukuaáva opavave nunga tetãme, oĩhápe avei Estados Unidos, Reino Unido, Canadá ha Nueva Zelanda, hákatu ndahetái tetã ombohape ijepuru. Eiporavóramo peteĩ VPN jepuru, nde ehechava’erã tetãnguéra léi ohecha hag̃ua ijepuru ojokupytýpa pe léi he’iháicha.
 vpn-what-is-are-vpns-only = ¿Umi VPNsha’e mohendahápe g̃uarã añónte?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Ipya’e, hekorosã, jeroviaha
