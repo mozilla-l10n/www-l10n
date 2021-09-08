@@ -4,7 +4,7 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } downloaden
-navigation-v2-get-mozilla-vpn = Download { -brand-name-mozilla-vpn }
+navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } downloaden
 navigation-v2-menu = Menu
 # Obsolete string
 navigation-v2-get-a-firefox-account = Maak een { -brand-name-firefox-account } aan

@@ -20,4 +20,4 @@ ui-show-less = Minder tonen
 ui-show-all = Alles tonen
 ui-hide-all = Alles verbergen
 ui-learn-more = Meer info
-ui-view = Weergeven
+ui-view = Tonen
