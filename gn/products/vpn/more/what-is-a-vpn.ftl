@@ -24,6 +24,9 @@ vpn-what-is-what-are-the = ¿Mba’épa umi ivaikuaáva eipurukuévo VPN?
 vpn-what-is-some-service-providers = Heta mba’epytyvõrã me’ẽhára ojoko umi jeike ojejapóva peteĩ VPN rupive, ha péicha pe hetepýpe ndaikatúi ojeike emyandúvo pe VPN. Ndahetái VPN omboguejykuaa pe pya’ekue térã omomichĩ pe ancho de banda. Ha heta VPN oha’ã karape puruhára rekoñemi ha rekorosã.
 vpn-what-is-are-vpns-safe = ¿Hekorosãpa ko’ã VPNs?
 vpn-what-is-can-vpns-protect = ¿Ko’ã VPNs omo’ãpa umi mba’evaiapohápe?
+# Variables
+#   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
+vpn-what-is-while-a-vpn = Peteĩ VPN ome’ẽkuaa jeike ñandutípe tekorosãme, nanemo’ãi opavave tapicha hekovaíva pérupigui. Eike vove ñandutípe, VPN térã hese’ỹ, ejesarekóke umi juajuha imarãkuaáva rehe, maranduvai myasãimbyre, tembiapo vai ha ambue imarãkuaáva. <a href="{ $url }">Eiko tekorosãme ñandutípe</a> ko’áva ha’e ñamindu’u ára ha ára rehegua.
 vpn-what-is-are-vpns-legal = ¿Hekovoñápiko ko’ã VPNs?
 vpn-what-is-installing-and-using = Emohenda ha eipuru VPN ojepurukuaáva opavave nunga tetãme, oĩhápe avei Estados Unidos, Reino Unido, Canadá ha Nueva Zelanda, hákatu ndahetái tetã ombohape ijepuru. Eiporavóramo peteĩ VPN jepuru, nde ehechava’erã tetãnguéra léi ohecha hag̃ua ijepuru ojokupytýpa pe léi he’iháicha.
 vpn-what-is-are-vpns-only = ¿Umi VPNsha’e mohendahápe g̃uarã añónte?
