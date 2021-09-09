@@ -18,6 +18,9 @@ browser-history-web-era = Ñanduti oĩ rire
 browser-history-a-year-later-berners = Peteĩ ary rire, Berners-Lee ojerure Nicola Pellow-pe, oñembokatupyrýva matemática CERN-pe, ohaíva Line Mode Browser, apopyrã mohendaha peguakuéra.
 browser-history-the-browser-wars = Kundaharakuéra ñeñorairõ
 # Variables:
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+browser-history-netscape-created = { -brand-name-netscape } omoheñói ha omyasãi JavaScript, ome’ẽva ñanduti kuatiaroguépe pa’ũ guasu oguereko’ỹva kuri. (Avei omoheñói <a href="{ $blink }">blink&gt; teramoĩ</a>.) { -brand-name-microsoft } ombeti Cascading Style Sheets (CSS) reheve, oikóva chugui mba’e iporãmbajepéva oñemoheñói hag̃ua ñanduti kuatiarogue.
+# Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
 browser-history-things-got-a-little = Pe ary 1997 jave ha’ete ku osẽnungava’ekue ñande pógui, { -brand-name-microsoft } omoheñóivo { -brand-name-ie } 4.0. Ko aty ojapo peteĩ tai tuichaitereíva “e” ha omoĩ { -brand-name-netscape } róga kapi’ipépe. { -brand-name-netscape } aty oity pya’eterei tai “e” tuichávape ha <a href="{ $dino }">omoĩ hi’ári hymbaitevoi, pe dinosaurio { -brand-name-mozilla }</a>.
 browser-history-other-competitors = Opakuévo arykuéra 90 pegua ha oñepyrũvo 2000 heñói ambuéva, oĩhápe { -brand-name-opera }, { -brand-name-safari }, ha { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } omyengovia { -brand-name-ie }-pe oguenohẽvo { -brand-name-windows } 10 ary 2015 jave.
