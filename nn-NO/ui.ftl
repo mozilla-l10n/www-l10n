@@ -20,3 +20,4 @@ ui-show-less = Vis mindre
 ui-show-all = Vis alle
 ui-hide-all = Gøym alle
 ui-learn-more = Les meir
+ui-view = Vis

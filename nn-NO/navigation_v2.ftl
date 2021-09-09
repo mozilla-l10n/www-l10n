@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Last ned { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Få deg ein { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }
 navigation-v2-menu = Meny
+# Obsolete string
+navigation-v2-get-a-firefox-account = Få deg ein { -brand-name-firefox-account }
 
 ## Firefox menu
 
