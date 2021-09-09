@@ -26,3 +26,4 @@ what-is-a-browser-when-you-go-to = Eikévo ñanduti rendápe, kuatiarogue imandu
 what-is-a-browser-understanding = Ñemigua ñeikumby
 what-is-a-browser-firefox-helps = { -brand-name-firefox } ne pytyvõ ne ñemigua ñandutípe ojokokuaáva umi tapykuehoha ani hag̃ua nde rapykueho.
 what-is-a-browser-making-your-web = Emomba’apo ñanduti kundahára ndéve g̃uarã
+what-is-a-browser-most-major-web = Hetave umi ñanduti kundahára tuichavéva omoneĩ puruhárape omoambuévo hapykuere jepysokue rupi térã moĩmbaha. Ko’ã jepysokue ha’e software vore ojuajukuaáva ne kundahárare omboava hag̃ua térã omboajuajúvo tembiapoite. Ko’ã jepysokue ojapokuaa opaichagua mba’e oiko ha omokyre’ỹva, ikatúva tembiapoite pyahu, pytagua ñe’ẽnguéra ñe’ẽryru térã omoambue jehecharã ha téma ojehechakuaáva.
