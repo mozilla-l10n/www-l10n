@@ -29,7 +29,11 @@ whatsnew79-take-less-keep-it-safe = Tak less. Keep it sauf. Nae secrets. Oor bus
 # CTA link
 whatsnew79-read-more = Read Mair
 whatsnew79-keep-facebook-contained = Keep { -brand-name-facebook } conteened
+whatsnew79-get-the-power-to-prevent = Get the pouer tae hinder { -brand-name-facebook } and { -brand-name-instagram } fae trackin ye aw ower the wab.
 # CTA link
 whatsnew79-add-facebook-container = Eik on { -brand-name-facebook-container }
 # Modal title
 whatsnew79-get-firefox-on-your-phone = Get { -brand-name-firefox } on yer Phone
+whatsnew79-scan-the-qr-code = Scan the QR code tae get stairtit
+# Accessible text replacement for a QR code image
+whatsnew79-qr-code-to-scan = QR code tae scan fur { -brand-name-firefox }
