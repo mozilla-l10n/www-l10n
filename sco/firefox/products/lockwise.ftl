@@ -7,6 +7,7 @@
 
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Tak yer passwirds awwhaur
+lockwise-try-lockwise-now = Try { -brand-name-lockwise } noo
 lockwise-install-for-firefox = Instaw fur { -brand-name-firefox }
 lockwise-open-in-firefox = Open in { -brand-name-firefox }
 lockwise-only-in-the-firefox-browser = Anely in the { -brand-name-firefox-browser }

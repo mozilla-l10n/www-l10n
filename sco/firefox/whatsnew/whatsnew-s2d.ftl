@@ -11,4 +11,4 @@ whatsnew-s2d-want-privacy-on-every-device = Want privacy on ilka device?
 whatsnew-s2d-you-got-it-get-firefox-for = Nae fash. Get { -brand-name-firefox } fur mobile.
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = Send { -brand-name-firefox } tae yer phone<br> and lowsen yer Internet.
-whatsnew-s2d-download-firefox-for-your = Doonload { -brand-name-firefox } fur yer smairtphone and tablet.
+whatsnew-s2d-download-firefox-for-your = Doonload { -brand-name-firefox } fur yer smertphone and tablet.

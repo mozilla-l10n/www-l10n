@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-stay-ahead-of-hackers = Stey aheid o hackers
+welcome-page1-why-am-i-seeing-this = Whit fur am I seein this?

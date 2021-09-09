@@ -16,6 +16,6 @@ whatsnew-account-main-button = Sign In
 
 whatsnew-account-signed-in-headline = Get mair duin. Yaise { -brand-name-firefox } fur mobile.
 whatsnew-account-signed-in-lead-in = Send a doonload link tae yer phone.
-whatsnew-account-signed-in-qr-title = Doonload { -brand-name-firefox } fur yer smairtphone and tablet.
+whatsnew-account-signed-in-qr-title = Doonload { -brand-name-firefox } fur yer smertphone and tablet.
 # An accessible label for a QR code image
 whatsnew-account-qr-code-alt = Scan this QR code

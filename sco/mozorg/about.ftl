@@ -13,6 +13,7 @@ about-berlin = Berlin
 about-toronto = Toronto
 about-work-at-mozilla = Wirk at { -brand-name-mozilla }
 about-mozilla-careers = { -brand-name-mozilla } Careers
+about-how-you-can-help = How Ye Can Gie Us A Haun
 about-get-involved = Tak Pairt
 
 ## Newsletter

@@ -12,5 +12,7 @@ welcome-page8-see-whats-blocked = See whit's bein blockit
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-go-to-monitor = Gang tae { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }
+welcome-page8-try-send = Try { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
+welcome-page8-add-facebook-container = Eik on { -brand-name-facebook-container }
 welcome-page8-why-am-i = Whit fur am I seein this?
