@@ -16,6 +16,9 @@ browser-history-in-1950-computers = 1950-pe, umi mohendaha omyanyhẽva’ekue p
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> ha’e apopyrã ñandutigua peteĩha oikoitéva ha 1969 jave oñemondo pe ñe’ẽmondo peteĩha Universidad de California, Los Ángeles (UCLA) rembipurupyahu rekohatee guive Instituto de Investigación de Stanford (SRI)-pe, avei California-gua.
 browser-history-web-era = Ñanduti oĩ rire
 browser-history-a-year-later-berners = Peteĩ ary rire, Berners-Lee ojerure Nicola Pellow-pe, oñembokatupyrýva matemática CERN-pe, ohaíva Line Mode Browser, apopyrã mohendaha peguakuéra.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic oku’e mohendahápe { -brand-name-windows }, ndahasýi ijepuru ha ome’ẽ oimeraẽva avápe PC rupi oikévo ñanduti kuatiarogue ñepyrũgua, chat koty ha ta’ãnga rendaguasúpe. Ary pyahu (1994), Andreessen omoheñói <a href="{ $netscape }">{ -brand-name-netscape }</a> ha omyasãi { -brand-name-netscape } Navigator puruhárape g̃uarã. Ojehayhueterei ha kundahára peteĩha opavavépe g̃uarã. Avei ha’e jeku’e peteĩha ñorairõ guasu oñepyrũva ñanduti puruharakuérape g̃uarã.
 browser-history-the-browser-wars = Kundaharakuéra ñeñorairõ
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
