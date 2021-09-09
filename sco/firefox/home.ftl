@@ -7,11 +7,11 @@
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } - Bield yer life online wi privacy-first products
 firefox-home-firefox-is-more-than = { -brand-name-firefox } is mair than a stravaiger. Lairn mair aboot { -brand-name-firefox } products that haunle yer data wi tent and are biggit fur privacy oniewhaur ye gang online.
-firefox-home-the-browser-is-just = The stravaiger is jist the stairt
+firefox-home-the-browser-is-just = The stravaiger is jist the stert
 firefox-home-meet-our-family-of = Meet oor faimily o products
 firefox-home-get-trackers-off = Get 2,000+ trackers aff yer trail — includin { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Ken when hackers set tae — and stey yin step aheid
-firefox-home-start-getting-breach = Stairt gettin breach reports
+firefox-home-start-getting-breach = Stert gettin breach reports
 # Obsolete string
 firefox-home-keep-your-passwords = Keep yer passwirds siccar on ilka device
 # Obsolete string
@@ -22,7 +22,7 @@ firefox-home-every-single-firefox = Every single { -brand-name-firefox } product
 # Obsolete string
 firefox-home-share-large-files-without = Share muckle files withoot keekin een
 # Obsolete string
-firefox-home-start-sending-files = Stairt sendin files siccarly
+firefox-home-start-sending-files = Stert sendin files siccarly
 firefox-home-trade-clickbait-for = Swap clickbait fur smashin content
 firefox-home-learn-more-about-pocket = Lairn mair aboot { -brand-name-pocket }
 firefox-home-protection-for-your-whole = Bieldin fur yer hale device, on ilka device.

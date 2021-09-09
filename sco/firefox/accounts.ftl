@@ -14,6 +14,8 @@ firefox-accounts-travel-the-internet = Stravaig the internet wi bieldin on aw ye
 # Obsolete string
 firefox-accounts-share-large-files = Share muckle files withoot keekin een.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+# Line breaks for visual formatting.
+firefox-accounts-take-less-keep-it = Tak less.<br> Keep it sauf.<br> Nae secrets.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
