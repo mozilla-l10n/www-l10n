@@ -20,3 +20,4 @@ ui-show-less = Shaw Less
 ui-show-all = Shaw Aw
 ui-hide-all = Hide Aw
 ui-learn-more = Lairn mair
+ui-view = View
