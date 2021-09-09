@@ -5,6 +5,7 @@
 newsletter-form-your-email-address = Yer email address
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yernemme@example.com
+newsletter-form-your-email-here = YER EMAIL HERE
 newsletter-form-format = Format
 newsletter-form-html = HTML
 newsletter-form-text = Text
