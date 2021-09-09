@@ -9,6 +9,7 @@ firefox-browsers-desktop = Desktap
 firefox-browsers-download-for-desktop = Doonload fur Desktap
 firefox-browsers-mobile = Mobile
 firefox-browsers-download-for-mobile = Doonload fur Mobile
+firefox-browsers-send-me-a-link = Send me a link
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-learn-more-about-devtools = Lairn mair aboot { -brand-name-devtools }

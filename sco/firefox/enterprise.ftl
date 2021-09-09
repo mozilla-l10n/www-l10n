@@ -10,6 +10,7 @@ firefox-enterprise-downloads = Doonloads
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } doonloads
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-select-your-download = Wale yer doonload
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI instawer
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })

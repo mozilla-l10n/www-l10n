@@ -59,5 +59,5 @@ firefox-new-visit-support-for-more = Veesit Support fur Mair Details
 firefox-new-download-browser = Doonload { -brand-name-firefox-browser }
 firefox-new-fast = Fast, Private & Free
 firefox-new-from-mozilla = fae { -brand-name-mozilla }
-firefox-new-desc = { -brand-name-firefox-browser } is a free wab stravaiger wi fast page loadin, less memory yaise, and hunners o featurs - a project o the no-for-profit { -brand-name-mozilla }.
+firefox-new-desc = { -brand-name-firefox-browser } is a free wab stravaiger wi fast page loadin, less memory yaise, and hunners o featurs - a project o the no-fur-profit { -brand-name-mozilla }.
 firefox-new-download-a-different = Doonload anither platform or leid

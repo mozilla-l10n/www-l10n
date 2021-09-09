@@ -8,6 +8,8 @@
 firefox-channel-desktop = Desktap
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
+firefox-channel-see-something-that-isnt-working = See somethin that isnae wirkin? Lat us ken.
+firefox-channel-file-a-bug-now = File a bug noo
 firefox-channel-nightly-blog = { -brand-name-nightly } Blog
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = Roll-oot Notes

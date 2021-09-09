@@ -27,4 +27,7 @@ firefox-developer-learn-more-about-performance = Lairn mair aboot Performance To
 firefox-developer-memory = Memory
 firefox-developer-learn-more-about-memory = Lairn mair aboot Memory Tools
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
+firefox-developer-download-the-firefox-browser = Doonload the { -brand-name-firefox } stravaiger shapit fur forderers
+firefox-developer-welcome-to-the-all-new = Walcome tae the aw-new { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-welcome-to-firefox-browser = Walcome tae { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-made-for-developers = The stravaiger shapit fur forderers

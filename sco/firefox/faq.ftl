@@ -13,6 +13,7 @@ what-is-firefox = Whit is { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+how-do-i = How dae I get the { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -21,10 +22,13 @@ what-is-firefox = Whit is { -brand-name-firefox }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-firefox-free = Is { -brand-name-firefox } free?
+is-chrome-better = Is { -brand-name-chrome } better than { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+is-firefox-safe-download = Is { -brand-name-firefox } siccar tae doonload?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
