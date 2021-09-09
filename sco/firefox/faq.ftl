@@ -33,6 +33,7 @@ is-firefox-safe-download = Is { -brand-name-firefox } siccar tae doonload?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = Is { -brand-name-firefox } sauf?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
@@ -41,10 +42,13 @@ is-firefox-safe-download = Is { -brand-name-firefox } siccar tae doonload?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+is-firefox-chromium = Is { -brand-name-firefox } { -brand-name-chromium } based?
+does-firefox-use = Daes { -brand-name-firefox } yaise { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = Daes { -brand-name-firefox } hae an in-biggit VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
