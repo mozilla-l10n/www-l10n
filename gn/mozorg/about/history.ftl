@@ -25,6 +25,9 @@ history-after-several-years-of-development = Heta ary oñemboguata rire, <a href
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Pe 2002 jave, <a href="{ $over90 }">hetave 90% ñanduti puruhára </a> oikundaha { -brand-name-ie } ndive.
 # Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = Ndahetái tapicha ohechakuaa upéramo, hákatu pe Phoenix ñepyrũguáva (uperire ojeheróva kuri { -brand-name-firefox }) avei ogueñohẽ kuri { -brand-name-mozilla } atygua upe arýpe ome’ẽkuaa hag̃uáicha <a href="{ $charter }">ñeikundaha porãve rekávo</a> hetaiteve tapichápe g̃uarã.
+# Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = Ary 2003 jave, { -brand-name-mozilla } apopyrã omoheñói { -brand-name-mozilla-foundation }, peteĩ <a href="{ $foundation }">atyguasu ijeheguíva viru’ỹgua</a> ombojopóiva tapicha peteĩteĩ ha avei heta mba’apohaguasu.
 # Variables:
