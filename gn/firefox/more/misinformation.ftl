@@ -11,6 +11,9 @@ misinformation-page-desc = Pe marandu’ỹ neko’õ, nemboyke ha avei hepy. { 
 misinformation-page-subheading = Ema’ẽ ko’ã ñemoñe’ẽre ehecha hag̃ua sa’ive maranduvai ha ehechakuaa mba’épa erohoryvéva
 misinformation-what-is-heading = ¿Mba’épa marandu javygua? ¿Mba’épa maranduvai?
 misinformation-false-info-heading = ¿Moõpa osẽ marandu ijapúva?
+# Variables:
+#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+misinformation-widespread-online = Ejuhukuaa marandu vai ha marandujapu opaite hendápe, hákatu oñemyasãi ha omombarete oñemoherakuãvo ñandutípe. Umi algoritmo ha <a href="{ $tracking }">tapykueho</a> ombotuichave maranduvai ñemyasãi ha marandujapu og̃uahẽ hag̃uáicha hetave tapichápe ñanduti renda rupipe, blog, atyguasu ha ava ñandutietápe.
 misinformation-spot-online-heading = Mba’éichapa eikuaáta marandu japugua ñandutípe ha eipytyvõta ejoko hag̃ua iñemyasãi
 misinformation-look-at-url = Ema’ẽ pe URL ha/térã heñoihague.
 misinformation-known-to-br-credible = ¿Ojeguerovia chupe? Nderegueroviáiramo, eñeha’ã eheka marandu teñoiha rehegua ha rerakuãporã ñandutípe.
