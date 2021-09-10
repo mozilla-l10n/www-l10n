@@ -61,6 +61,7 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Umi ñe’ẽñemi ha terachaukaha eñongatúva { -brand-name-firefox-lockwise }-pe ipapapy opaite ne mba’e’okápe, péicha ndaikatúi ore avei rohecha.
 firefox-privacy-hub-learn-more-about-lockwise = Maranduve { -brand-name-lockwise } rehegua
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Ndaikatúi ojehecha téra térã marandurenda retepy pohýi emoherakuãva { -brand-name-firefox-send } rupi, ipapapýva ñepyrũha guive ijapýra peve. Eiporavóta máva ohecháta emondóva, ha embohekokuaa ára opataha ha peteĩ ñe’ẽñemi.
 firefox-privacy-hub-send-a-file = Emondo marandurenda
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } omomorã haipyre iporãva ha poravopyre avaite rupive ombyaty’ỹre ñeikundaha mba’ekuaarã rembiasakue omoherakuã’ỹre ne maranduete mba’apohaguasu ñemurãva ndive.
