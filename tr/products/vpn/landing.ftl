@@ -12,6 +12,7 @@ vpn-landing-hero-sub-heading-v2 = Güvenlik, güvenilirlik ve hız: Her yerde, h
 vpn-landing-hero-sub-heading = Güvenilir bir markadan güvenilir bir hizmet.
 vpn-landing-hero-desc = { -brand-name-firefox }’un yapımcılarından sanal özel ağ (VPN).
 vpn-landing-privacy-heading = Tek dokunuşla gizlilik
+vpn-landing-privacy-desc = İnternette dolaşırken, video izlerken, oyun oynarken ve çalışırken gizliliğinizi koruyun. İster seyahat ediyor olun ister halka açık bir WiFi ağını kullanıyor olun isterseniz de yalnızca daha fazla güvenlik arıyor olun, gizliliğiniz her zaman önceliğimiz.
 vpn-landing-fast-secure-heading = Hızlı ve güvenli ağ
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
@@ -29,6 +30,7 @@ vpn-landing-brand-trust-heading = Güvenebileceğiniz bir markanın VPN’i
 
 vpn-landing-faq-heading = SSS
 vpn-langing-faq-uses-question-heading = VPN nedir ve neden kullanılır?
+# Obsolete string
 vpn-landing-faq-uses-conceal = Gerçek IP adresinizi gizler. Böylece hem kimliğiniz korunur hem de konumunuz gizlenir.
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } hangi bilgilerinizi saklar?
 vpn-landing-faq-protected-question-heading = Gizliliğim nasıl korunuyor?

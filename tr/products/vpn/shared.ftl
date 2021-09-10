@@ -14,9 +14,10 @@ vpn-shared-available-countries = { -brand-name-mozilla-vpn } servisini şu anda 
 # Outdated string
 vpn-shared-available-countries-v2 = { -brand-name-mozilla-vpn } servisini şu anda ABD, İngiltere, Almanya, Fransa, Kanada, Malezya, Yeni Zelanda ve Singapur’da sunuyoruz.
 vpn-shared-available-countries-v3 = { -brand-name-mozilla-vpn } servisini şu anda ABD, Kanada, İngiltere, Almanya, Fransa, İtalya, İspanya, Belçika, Avusturya, İsviçre, Malezya, Yeni Zelanda ve Singapur’da sunuyoruz.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 gün para iade garantisi
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
-vpn-shared-featured-in = Basında biz
+vpn-shared-featured-in = Bizden bahsedenler
 vpn-shared-features-encrypt = Cihaz düzeyinde şifreleme
 # Variables:
 #   $servers (number) - number of available servers
@@ -51,6 +52,8 @@ vpn-shared-features-strong-servers = { $countries }+ ülkede bulunan güçlü su
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = { $devices } cihaz bağlayabilme imkânı
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30 gün para iade garantisi
 vpn-shared-refund-policy = İade politikası
 vpn-shared-privacy-notice = Gizlilik Bildirimi
 vpn-shared-terms-conditions = Şart ve koşullar
