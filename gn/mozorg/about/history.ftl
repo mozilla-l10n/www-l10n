@@ -19,6 +19,9 @@ history-within-the-first-year-new = Ipukukue <a href="{ $firstyear }">ary peteĩ
 history-by-creating-an-open-community = Oñemoheñói tekoha ijurujáva, { -brand-name-mozilla } apopyrãgui oiko <a href="{ $stevecase }">mba’apohaguasu tuichavéva opavavégui</a>.
 history-people-contributed-to-mozilla = Tapichakuéra oipytyvõ { -brand-name-mozilla } ndive heta hendáicha, hákatu opavavete omoheñoise software ijurujáva omoneĩva yvypórape oiporavokuaávo mba’éichapa oipurúta ñanduti.
 # Variables:
+#   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
+history-after-several-years-of-development = Heta ary oñemboguata rire, <a href="{ $mozilla1 }">{ -brand-name-mozilla }1.0</a>, tembiapo ñepyrũgua, osẽypy ary 2002 jave. Ko tembiapo oguereko heta mba’epyahu porã kundahárape, ñanduti veve puruhára ha ambue tembipuru’i oĩva ipype, hákatu ndahetái tapicha oipurúva kuri.
+# Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Pe 2002 jave, <a href="{ $over90 }">hetave 90% ñanduti puruhára </a> oikundaha { -brand-name-ie } ndive.
 # Variables:
