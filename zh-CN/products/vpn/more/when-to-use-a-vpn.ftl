@@ -16,7 +16,6 @@ vpn-when-to-use-concealing-your-true = 掩藏您的真实 IP 地址，以保护�
 vpn-when-to-use-encrypting-your-traffic = 加密您与 VPN 提供商之间的流量，杜绝本地网络上的任何人进行解密或修改。
 vpn-when-to-use-having-a-vpn = 在您需要时拥有触手可及的 VPN 是个好主意。这里有几次您可能没有考虑过的值得信赖的 VPN 会派上用场。
 vpn-when-to-use-1-a-walk = 1. 公园散步
-vpn-when-to-use-its-a-beautiful = 这是一个美丽的星期六早晨，您已经在公园的长椅上安顿下来，喝杯咖啡，看看您最喜欢的新闻网站，观看一些视频，并在享受阳光和新鲜空气的同时进行一些快速的网上购物。您无需耗尽分配的移动数据，而是使用城市的公共 WiFi 服务。它是免费的，由城市运营，所以应该没问题吧？事实是，您无法确定市政网络是安全的甚至是真实的（请参阅下一点）并设置为在您连接时保护您免受恶意人员或实体的监视。打开 VPN 可以帮助保护您的设备免受任何试图窥探您正在访问的网站或劫持您敏感登录信息的人的侵害，而您则在一周中的任何一天被踢回公园长椅。
 vpn-when-to-use-2-in-the = 2.在附近
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
