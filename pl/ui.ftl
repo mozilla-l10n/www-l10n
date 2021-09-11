@@ -20,3 +20,4 @@ ui-show-less = Zwiń
 ui-show-all = Rozwiń wszystko
 ui-hide-all = Zwiń wszystko
 ui-learn-more = Więcej informacji
+ui-view = Wyświetl
