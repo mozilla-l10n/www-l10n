@@ -15,4 +15,4 @@ home-virtual-reality-platform = Virtual Reality Platform
 home-careers = अवसरहरु
 home-learn-about-the-benefits-of = { -brand-name-mozilla } मा काम गर्दाका फाइदाहरूका बारेमा जान्नुहोस् र सँसारभरिका खाली स्थानहरूबारे थाहा पाउनुहोस्।
 home-need-help = सहयोग चाहियो?
-home-get-answers-to-your-questions = { -brand-name-firefox } र सबै मोजिला उत्पादनहरुका बारेमा तपाईँको प्रश्नहरूको जवाफ हाम्रो समर्थन टोलीबाट प्राप्त गर्नुहोस्।
+home-get-answers-to-your-questions = { -brand-name-firefox } र सबै { -brand-name-mozilla } उत्पादनहरुका बारेमा तपाईँको प्रश्नहरूको जवाफ हाम्रो समर्थन टोलीबाट प्राप्त गर्नुहोस्।
