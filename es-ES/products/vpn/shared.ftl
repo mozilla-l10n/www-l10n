@@ -14,6 +14,7 @@ vpn-shared-available-countries = En este momento ofrecemos { -brand-name-mozilla
 # Outdated string
 vpn-shared-available-countries-v2 = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Reino Unido, Alemania, Francia, Canadá, Malasia, Nueva Zelanda y Singapur.
 vpn-shared-available-countries-v3 = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Malasia, Nueva Zelanda y Singapur.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 días de garantía de devolución de dinero
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Destacado en
@@ -102,6 +103,8 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Móvil
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = ¿Qué es una dirección IP?
+vpn-subnav-when-to-use-a-vpn = Cuándo usar una VPN
 
 ##
 
