@@ -20,3 +20,4 @@ ui-show-less = Afficher moins d’informations
 ui-show-all = Tout afficher
 ui-hide-all = Tout masquer
 ui-learn-more = En savoir plus
+ui-view = Afficher
