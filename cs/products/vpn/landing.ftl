@@ -120,6 +120,7 @@ vpn-landing-faq-link = Další časté dotazy
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-heading = Přidat se na čekací listinu
 vpn-landing-invite-required-label = Povinné
 
 ##

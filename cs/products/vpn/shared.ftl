@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
+vpn-shared-waitlist-link = Přidat se na čekací listinu
 # Outdated string
 vpn-shared-available-countries = Službu { -brand-name-mozilla-vpn } v současnosti nabízíme v USA, Velké Británii, Kanadě, na Novém Zélandu, v Singapuru a Malajsii.
 # Outdated string
