@@ -63,6 +63,53 @@ vpn-landing-faq-competition-question-heading = Jak si { -brand-name-mozilla-vpn 
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
 vpn-landing-faq-competition-question-desc = Bezplatné sítě VPN se sice zdají být atraktivní, nezavazují se však k ochraně soukromí tak jako { -brand-name-mozilla-vpn } a mohou prodávat nebo uchovávat vaše údaje. Ostatní placené sítě VPN nemají více než dvacetileté <a href="{ $url }">výsledky</a> společnosti { -brand-name-mozilla } v oblasti vytváření produktů, které staví lidi a soukromí na první místo.
 vpn-landing-faq-compatibility-question-heading = S jakými zařízeními je { -brand-name-mozilla-vpn } kompatibilní?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je kompatibilní s <a href="{ $mobile }">mobily</a>, tablety a <a href="{ $desktop }">počítači</a> se systémy:
+# Outdated string
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } je kompatibilní se systémy:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (pouze 64bitová verze)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (pouze 64bitová verze)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (verze 10.14 a novější)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (verze 10.15 a novější)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (verze 10.15 a novější)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (verze 8 a vyšší)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (verze 6 a vyšší)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (verze 6 a vyšší)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (verze 12.0 a vyšší)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (verze 13.0 a vyšší)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (verze 13.0 a vyšší)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 a vyšší)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (pouze { -brand-name-ubuntu })
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (pouze { -brand-name-ubuntu })
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
