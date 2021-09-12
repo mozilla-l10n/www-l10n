@@ -110,9 +110,17 @@ vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (pouze { -brand-name-ubuntu })
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (pouze { -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = Jaké jsou u služby { -brand-name-mozilla-vpn } zásady vracení peněz?
+vpn-landing-faq-refund-question-desc = O vrácení peněz můžete požádat do 30 dnů od zakoupení předplatného. Kontaktujte nás nebo vytvořte žádost o vrácení peněz přímo v aplikaci { -brand-name-mozilla-vpn } kliknutím na tlačítko „Získat pomoc“ v nastavení.
+vpn-landing-faq-manage-subscription-question-heading = Jak mohu spravovat své předplatné?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Pokud již máte službu { -brand-name-mozilla-vpn } předplacenou, můžete kdykoli změnit svůj plán nebo <a href="{ $url }">spravovat své předplatné</a>.
+vpn-landing-faq-link = Další časté dotazy
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-required-label = Povinné
 
 ##
 
