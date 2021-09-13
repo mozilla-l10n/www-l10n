@@ -117,9 +117,12 @@ vpn-landing-faq-manage-subscription-question-heading = Jak mohu spravovat své p
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Pokud již máte službu { -brand-name-mozilla-vpn } předplacenou, můžete kdykoli změnit svůj plán nebo <a href="{ $url }">spravovat své předplatné</a>.
 vpn-landing-faq-link = Další časté dotazy
+# message shown to visitors who try to sign-in without an active subscription.
+vpn-landing-sub-not-found = Ajaj! Vypadá to, že předplatné ještě nemáte.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Přidat se na čekací listinu: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-heading = Přidat se na čekací listinu
 vpn-landing-invite-required-label = Povinné
 
