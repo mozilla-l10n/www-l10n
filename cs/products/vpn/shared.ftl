@@ -25,6 +25,7 @@ vpn-shared-features-encrypt = Šifrování na úrovni zařízení
 vpn-shared-features-servers = Více než { $servers } serverů ve více než { $countries } zemích
 vpn-shared-features-bandwidth = Žádná omezení šířky pásma
 vpn-shared-features-activity = Žádné protokolování vaší síťové aktivity
+vpn-shared-features-activity-logs = Žádné záznamy o online aktivitách nyní ani později
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
