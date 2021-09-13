@@ -86,6 +86,12 @@ vpn-shared-pricing-total = Celkem { $amount }
 
 vpn-shared-platform-privacy-promise = Vaše soukromí je naším slibem
 vpn-shared-platform-trust-partner-headline = O našem partnerovi
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } běží na celosvětové síti serverů společnosti <a href="{ $policy }">{ -brand-name-mullvad }</a> za použití protokolu <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. Společnost { -brand-name-mullvad } klade vaše soukromí na první místo a neuchovává si žádné záznamy.
+vpn-subnav-faqs = Časté dotazy
+vpn-subnav-get-help = Získat pomoc
 
 ##
 
