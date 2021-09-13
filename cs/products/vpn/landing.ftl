@@ -143,6 +143,7 @@ vpn-landing-invite-platform-linux = { -brand-name-linux }
 vpn-landing-invite-privacy-policy = Klepnutím na „Přidat se na čekací listinu“ souhlasíte s našimi  <a href="{ $privacy }">zásadami ochrany osobních údajů</a>.
 vpn-landing-invite-your-information = Vaše údaje budou použity pouze na informování o dostupnosti.
 vpn-landing-invite-thanks-heading = Díky! Jste na seznamu
+vpn-landing-invite-thanks-desc = Jakmile bude služba { -brand-name-mozilla-vpn } dostupná pro vaši oblast, pošleme vám e-mail.
 
 ##
 
