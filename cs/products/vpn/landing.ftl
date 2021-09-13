@@ -140,7 +140,7 @@ vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
-vpn-landing-invite-privacy-policy = Klepnutím na „Přidat se na čekací listinu“ souhlasíte s našimi  <a href="{ $privacy }">zásadami ochrany osobních údajů</a>.
+vpn-landing-invite-privacy-policy = Klepnutím na tlačítko „Přidat se na čekací listinu“ souhlasíte s našimi  <a href="{ $privacy }">zásadami ochrany osobních údajů</a>.
 vpn-landing-invite-your-information = Vaše údaje budou použity pouze na informování o dostupnosti.
 vpn-landing-invite-thanks-heading = Díky! Jste na seznamu
 vpn-landing-invite-thanks-desc = Jakmile bude služba { -brand-name-mozilla-vpn } dostupná pro vaši oblast, pošleme vám e-mail.
