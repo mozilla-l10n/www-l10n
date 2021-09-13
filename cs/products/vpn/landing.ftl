@@ -21,13 +21,13 @@ vpn-landing-fast-secure-heading = Rychlá a bezpečná síť
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } běží na celosvětové síti serverů. Pomocí nejpokročilejšího protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme vaši síťovou aktivitu a skrýváme vaši IP adresu. Nikdy nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data.
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } běží na celosvětové síti serverů. Pomocí nejpokročilejšího protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme vaši síťovou aktivitu a skrýváme vaši IP adresu. Nikdy neprotokolujeme, nesledujeme ani nesdílíme vaše síťová data.
 # Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } běží na globální síti serverů, kterou provozuje společnost <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Pomocí nejpokročilejšího protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme vaši síťovou aktivitu a skrýváme vaši IP adresu. Nikdy nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data.
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } běží na globální síti serverů, kterou provozuje společnost <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Pomocí nejpokročilejšího protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme vaši síťovou aktivitu a skrýváme vaši IP adresu. Nikdy neprotokolujeme, nesledujeme ani nesdílíme vaše síťová data.
 vpn-landing-brand-trust-heading = VPN od značky, které můžete důvěřovat
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
@@ -52,12 +52,12 @@ vpn-landing-faq-uses-examples = Podívejte se na <a href="{ $url }">pět příkl
 vpn-landing-faq-info-question-heading = Jaké informace si { -brand-name-mozilla-vpn } uchovává?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = Žádnou vaši síťovou aktivitu nezaznamenáváme, nesledujeme ani nesdílíme. Přísně dodržujeme <a href="{ $url }">principy ochrany osobních údajů</a> společnosti { -brand-name-mozilla } a shromažďujeme pouze data potřebná k udržení funkčnosti sítě VPN a k postupnému vylepšování produktu.
+vpn-landing-faq-info-question-desc = Žádnou vaši síťovou aktivitu neprotokolujeme, nesledujeme ani nesdílíme. Přísně dodržujeme <a href="{ $url }">principy ochrany osobních údajů</a> společnosti { -brand-name-mozilla } a shromažďujeme pouze data potřebná k udržení funkčnosti sítě VPN a k postupnému vylepšování produktu.
 vpn-landing-faq-protected-question-heading = Jak je chráněno mé soukromí?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = Váš síťový provoz je šifrován protokolem <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®, čímž jsou chráněny všechny vaše soukromé informace. V porovnání se stávajícími protokoly pro sítě VPN se odlehčený kód protokolu { -brand-name-wireguard } snáze kontroluje a audituje bezpečnostními analytiky, což z něj činí bezpečnější alternativu pro sítě VPN. Vaše online aktivity navíc zůstanou anonymní, protože nikdy nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data.
+vpn-landing-faq-protected-question-desc = Váš síťový provoz je šifrován protokolem <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®, čímž jsou chráněny všechny vaše soukromé informace. V porovnání se stávajícími protokoly pro sítě VPN se odlehčený kód protokolu { -brand-name-wireguard } snáze kontroluje a audituje bezpečnostními analytiky, což z něj činí bezpečnější alternativu pro sítě VPN. Vaše online aktivity navíc zůstanou anonymní, protože nikdy neprotokolujeme, nesledujeme ani nesdílíme vaše síťová data.
 vpn-landing-faq-competition-question-heading = Jak si { -brand-name-mozilla-vpn } vede ve srovnání s konkurencí?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
