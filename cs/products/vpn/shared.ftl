@@ -26,6 +26,29 @@ vpn-shared-features-servers = Více než { $servers } serverů ve více než { $
 vpn-shared-features-bandwidth = Žádná omezení šířky pásma
 vpn-shared-features-activity = Žádné protokolování vaší síťové aktivity
 vpn-shared-features-activity-logs = Žádné záznamy o online aktivitách nyní ani později
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Přístup k serverům ve více než { $countries } zemích
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = Možnost připojení až { $devices } zařízení
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Ochrana až pro { $devices } zařízení
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Připojte se k více než { $servers } serverům ve více než { $countries } zemích
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Momentálně dostupné v { $countries } zemích. Další přibudou již brzy
+# Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Podívejte se na náš seznam všech <a href="{ $url }" { $attrs }>serverů</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Silné servery ve více než { $countries } zemích
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
