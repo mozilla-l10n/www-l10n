@@ -16,6 +16,13 @@ vpn-shared-available-countries-v2 = Službu { -brand-name-mozilla-vpn } v souča
 vpn-shared-available-countries-v3 = Službu { -brand-name-mozilla-vpn } v současnosti nabízíme v USA, Kanadě, Velké Británii, Německu, Francii, Itálii, Španělsku, Belgii, Rakousku, Švýcarsku, Malajsii, na Novém Zélandu a v Singapuru.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30denní záruka vrácení peněz
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = Psali o nás
+vpn-shared-features-encrypt = Šifrování na úrovni zařízení
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = Více než { $servers } serverů ve více než { $countries } zemích
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
