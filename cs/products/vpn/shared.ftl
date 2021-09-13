@@ -84,6 +84,8 @@ vpn-shared-pricing-total = Celkem { $amount }
 
 # Platform subpage shared strings
 
+vpn-shared-platform-privacy-promise = Vaše soukromí je naším slibem
+vpn-shared-platform-trust-partner-headline = O našem partnerovi
 
 ##
 
