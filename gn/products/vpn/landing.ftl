@@ -49,6 +49,9 @@ vpn-landing-faq-info-question-heading = ¿Mba’eichagua marandu oñongatu { -br
 vpn-landing-faq-info-question-desc = Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne rembiapo ñandutípe. Roguata he’iháicha <a href="{ $url }">Mba’ekuaarã rekoñemi rehegua</a> { -brand-name-mozilla } mba’e ha rombyaty mba’ekuaarã tekotevẽvante VPN omba’apo hag̃ua ha péicha apopyrã oikoporãvéta.
 vpn-landing-faq-protected-question-heading = ¿Mba’éicha oñemo’ã che rekoñemi?
 vpn-landing-faq-competition-question-heading = ¿Mba’éicha oñemoñondive { -brand-name-mozilla-vpn } ijoguaha ndive?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+vpn-landing-faq-competition-question-desc = Jepémo umi VPN reigua ha’ete iporãva, ndojapyhýi tekoñemi { -brand-name-mozilla-vpn }-icha ha ikatu ohepyme’ẽ térã ombyaty mba’ekuaarã. Ambue VPN jehepyme’ẽgua ndorekói <a href="{ $url }">tembiasakue</a> hetave 20 arýgui { -brand-name-mozilla } oñemoheñóivo apopyre omoĩva tapicha ha tekoñemi tenondete.
 vpn-landing-faq-compatibility-question-heading = ¿Máva mba’e’oka rehe ojokupyty { -brand-name-mozilla-vpn }?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
