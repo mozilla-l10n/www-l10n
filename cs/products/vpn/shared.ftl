@@ -80,7 +80,7 @@ vpn-shared-pricing-get-monthly = Získat měsíční plán
 vpn-shared-pricing-save-percent = Ušetříte { $percent }%
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
-vpn-shared-pricing-total = Celkem { $amount }
+vpn-shared-pricing-total = Celková částka: { $amount }
 
 # Platform subpage shared strings
 
