@@ -123,8 +123,21 @@ vpn-landing-sub-not-found = Ajaj! Vypadá to, že předplatné ještě nemáte.
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Přidat se na čekací listinu: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Dáme vám vědět, až bude { -brand-name-mozilla-vpn } k dispozici pro vaše zařízení a váš region.
 vpn-landing-invite-page-heading = Přidat se na čekací listinu
+vpn-landing-invite-email-label = Jaká je vaše e-mailová adresa?
 vpn-landing-invite-required-label = Povinné
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = vase-adresa@example.com
+vpn-landing-invite-country-label = V jaké zemi žijete?
+vpn-landing-invite-language-label = Vyberte svůj preferovaný jazyk.
+vpn-landing-invite-platform-label = O které platformy máte zájem?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
 
 ##
 
