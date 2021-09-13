@@ -10,6 +10,7 @@ vpn-what-is-what-is-a-vpn = Co jo VPN?
 vpn-what-is-how-do-vpns = Kak VPN funkcioněruju?
 vpn-what-is-concealing-your-ip = Waša IP-adresa se schowajo. Tak se waša identita a wašo stojnišćo šćitatej.
 vpn-what-is-when-should-i = Gdy ja dejał VPN wužywaś?
+vpn-what-is-wait-i-thought = Wokognuśe, som myslił,  až mój internetny wobchad jo se južo skoděrował z HTTPS …
 vpn-what-is-why-would-i = Cogodla by ja wužywał VPN?
 vpn-what-is-what-are-the = Kótare njelěpšyny wužywanje VPN ma?
 vpn-what-is-are-vpns-safe = Su VPN wěste?
