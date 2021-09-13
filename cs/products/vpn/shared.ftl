@@ -49,9 +49,21 @@ vpn-shared-features-full-list-servers = Podívejte se na náš seznam všech <a 
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Silné servery ve více než { $countries } zemích
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Připojte až { $devices } zařízení
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30denní záruka vrácení peněz
+vpn-shared-refund-policy = Pravidla vracení peněz
+vpn-shared-privacy-notice = Zásady ochrany osobních údajů
+vpn-shared-terms-conditions = Podmínky a ujednání
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registrovaná ochranná známka Jasona A. Donenfelda
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = Vyberte si plán předplatného, který vám vyhovuje
+# Outdated string
+vpn-shared-pricing-variable-heading = Vyberte si plán, který vám vyhovuje
 
 # Platform subpage shared strings
 
