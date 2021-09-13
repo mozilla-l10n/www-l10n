@@ -21,7 +21,7 @@ vpn-landing-fast-secure-heading = Rychlá a bezpečná síť
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } běží na globální síti serverů. Pomocí nejpokročilejšího protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme vaši síťovou aktivitu a skrýváme vaši IP adresu. Nikdy nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data.
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } běží na celosvětové síti serverů. Pomocí nejpokročilejšího protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme vaši síťovou aktivitu a skrýváme vaši IP adresu. Nikdy nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data.
 # Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
@@ -31,7 +31,7 @@ vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } běží na globální
 vpn-landing-brand-trust-heading = VPN od značky, které můžete důvěřovat
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
-vpn-landing-brand-trust-desc = Již více než 20 let { -brand-name-mozilla } bojuje za ochranu soukromí na internetu a stará se o to, aby lidé byli na prvním místě. Zaštítěni neziskovou organizací se usilovně snažíme budovat lepší a zdravější internet pro všechny lidi. Vše, co děláme, je součástí našeho poslání a řídí se našimi <a href="{ $url }">principy</a>.
+vpn-landing-brand-trust-desc = Již více než 20 let { -brand-name-mozilla } bojuje za ochranu soukromí na internetu a stará se o to, aby lidé byli na prvním místě. Zaštítěni neziskovou organizací se usilovně snažíme budovat lepší a zdravější internet pro všechny. Vše, co děláme, je součástí naší mise a řídí se našimi <a href="{ $url }">principy</a>.
 
 ## FAQ section
 
