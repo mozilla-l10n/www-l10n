@@ -16,6 +16,7 @@ features-translate-to-google-translate = Emoñe’ẽasa hag̃ua { -brand-name-g
 features-translate-google-translate-with = { -brand-name-google } Translate, eipurukuaáva hetave 100 ñe’ẽmegui*, oikundahahápe hetaitereirasa tapicha arapy tuichakue. Hákatu eku’évo translate.google.com pa’ũme ha pe kuatiarogue emoñe’ẽséva ndaha’éi oikoporãmbáva. Pe jepysokue <a { $attrs }>To { -brand-name-google } Translate</a> nombohasyive umi kuatiarogue emoñe’ẽasa hag̃ua.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Erekóke Jepysokue
+features-translate-once-installed-simply = Emohendapa vove, embosa’ýnte pe moñe’ẽrã emoñe’ẽasaséva ha eikutu akatúa gotyo embojuruja hag̃ua poravorã mokõi jeporavorãme: 1) Nde gueraháta translate.google.com pe moñe’ẽrã eiporavóva oikéva ijehegui ñe’ẽasa renda gotyo; térã 2) Ehendu mba’éichapa oñemoñe’ẽ pe mba’epu ñe’ẽrysýi ({ -brand-name-google } Text-to-Speech) rembipuru pyahu ndive, iporãva eikuaasevéramo peteĩ ñe’ẽ pyahu.
 features-translate-switch-languages-in = Emoambue ñe’ẽ { -brand-name-firefox }-pe
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
 features-translate-if-you-are = Eipurúmaramo { -brand-name-firefox }, emoambuekuaa ñe’ẽ ne mohendahápe térã embojuaju ñe’ẽnguéra { -brand-name-firefox } mba’erechahápe. <a { $attrs }>Eñemomaranduve ko’ápe.</a>
