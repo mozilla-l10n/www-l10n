@@ -9,3 +9,4 @@
 vpn-ip-address-what-is-an-ip-address = Co je to IP adresa?
 # HTML page description and intro
 vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } odpovídá na všechny vaše otázky týkající se IP adres, počínaje tím, co to vlastně IP adresa je, a konče tím, jak funguje a zda byste ji měli skrývat.
+vpn-ip-address-every-time-you = Během každého pobytu na internetu hrají IP adresy zásadní roli při výměně informací umožňujících zobrazení požadovaných stránek. Přesto je však možné, že nevíte, co to je, a proto pro vás níže rozebíráme nejčastěji kladené otázky.
