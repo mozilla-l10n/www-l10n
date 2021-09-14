@@ -84,6 +84,7 @@ vpn-shared-pricing-total = Celková částka: { $amount }
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = Jdeme na to
 vpn-shared-platform-cta-button = Prohlédnout si ceník a dostupnost
 vpn-shared-platform-privacy-promise = Vaše soukromí je naším slibem
 vpn-shared-platform-trust-partner-headline = O našem partnerovi
