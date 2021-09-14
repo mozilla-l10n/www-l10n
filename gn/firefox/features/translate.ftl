@@ -12,6 +12,8 @@ features-translate-translate-more-than = Emoñe’ẽasa hetave 100 ñe’ẽgui
 features-translate-translate-the-web = Emoñe’ẽasa ñanduti { -brand-name-firefox } ndive
 features-translate-the-google-translate = Jepysokue To { -brand-name-google } Translate { -brand-name-firefox } ombojuruja ñanduti ojepuru hag̃ua arapy tuichakue.
 features-translate-to-google-translate = Emoñe’ẽasa hag̃ua { -brand-name-google }
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-google-translate-with = { -brand-name-google } Translate, eipurukuaáva hetave 100 ñe’ẽmegui*, oikundahahápe hetaitereirasa tapicha arapy tuichakue. Hákatu eku’évo translate.google.com pa’ũme ha pe kuatiarogue emoñe’ẽséva ndaha’éi oikoporãmbáva. Pe jepysokue <a { $attrs }>To { -brand-name-google } Translate</a> nombohasyive umi kuatiarogue emoñe’ẽasa hag̃ua.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Erekóke Jepysokue
 features-translate-switch-languages-in = Emoambue ñe’ẽ { -brand-name-firefox }-pe
