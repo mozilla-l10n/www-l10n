@@ -17,6 +17,8 @@ features-fingerprinting-download-firefox = Emboguejy { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = ¿Mba’e pe kuãhũ rapykuere jeujhu?
 features-fingerprinting-fingerprinting-is-a = Pe kuãhũ rapykuere (fingerprinting) ñemoheñói ha’e jehapykueho ñandutípe hypy’ũvéva pe jehapykueho jepiguágui kookie rehegua. Pe kuãhũ rapykuere oñemoheñói pe mba’apohaguasu orekóvo mba’ete nemba’éva hardware, software, moĩmbaha ha oikehápe oguerohoryvéva ne mohendaha. Ne ñemboheko, mba’erechaha eipurúvape, teñoiha mohendapyre ne mohendaha ha avei ne ñanduti kundahára jeporavo, ikatu ojepuru oñemoheñói hag̃ua kuãhũ rapykuere.
 features-fingerprinting-fingerprinting-is-bad = Kuãhũ ñandutigua ñemoheñói ivai ñandutípe g̃uarã
+# $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
+features-fingerprinting-the-latest-firefox = { -brand-name-firefox } kundahára ipyahuvéva ne mo’ãta pe kuãhũ kuaaukaha rovake ojokóvo mba’ejerure mbohapyháva mba’apohaguasugua eike haguére kuãhũ kuaaukaha rapykuehohápe. Romba’apo kyre’ỹ rombojuruja hag̃ua tekoñemi ñemo’ã romboyke’ỹre ñanduti renda eikehápe tapiaite. (Emoñe’ẽvekuaa ko’ápe, ejaposéramo { $url_details }>aporeko mba’emimi</a>.)
 # $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
 features-fingerprinting-and-its-not = Ha ndaha’éi ñemoĩporã ñomimbyre ehekakuaáva. Pe { -brand-name-firefox } apopyre ipyahuvéva, pe kuãhũ rapykuere jejoko ha’e ñemboheko ypyguáva, ñemoĩmbyre. Eike ne ñemo’ã ñemigua rupápe { $url_protections }>ehecha hag̃ua mba’éichapa ohapykueho ehecha’ỹre ha mba’éichapa { -brand-name-firefox } omboykekuaa.
 # $url_download (string) - link to firefox/new
