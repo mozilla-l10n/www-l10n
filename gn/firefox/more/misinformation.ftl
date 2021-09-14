@@ -27,6 +27,10 @@ misinformation-images-captions = ¿Umi ta’ãnga ha avara’ãnga reratee’i o
 misinformation-images-are-powerful = Ta’ãngakuéra ha’e tembipuru mbarete marandu’ỹrã sãmbyhypyre. Pe teratee’i he’iháicha, ñeñandu ikatu oñemoambue ndaha’éiva pe oiko haguéicha. Nanerekorosãiramo, eheka peteĩ ta’ãnga guive eikuaa hag̃ua mba’éichapa oñeñe’ẽ ambue tendápe.
 misinformation-how-firefox-helps-heading = Mba’éicha nepytyvõta { -brand-name-firefox } emboyke hag̃ua marandu’ỹ
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } oreko tapykuehoha ma’ẽag̃uíme:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Oje’éma haguéicha, tapykueho ha’e tuicháva marandu vai ñemyasãirã. <a href="{ $firefox }">Pe { -brand-name-firefox } jepuru</a> <a href="{ $protection } ndive">ñemo’ã iporãvéva tapykuehoha rovake</a> oipytyvõ ojokóvo tapykuehoha mbohapyháva heta ñemurã myasãiha ha ambue mba’apohaguasu ijypykue rupi eikundahakuévo ñandutípe, ha péicha erekóta ndejehe mba’ekuaarã ñandutigua.
 misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ipotĩ hag̃ua nde feeds ava ñandutieta:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } ne pytyvõta ohechauka tetepy ojogueraháva nde aravo ndive:
