@@ -9,6 +9,7 @@
 what-is-a-browser-what-is-a-web = ¿Mba’e ñanduti kundahára?
 # HTML page description
 what-is-a-browser-a-web-browser = Peteĩ ñanduti kundahára ndegueraha oimeraẽva ñanduti rendápe, omoneĩva ehechávo moñe’ẽrã, ta’ãnga ha ta’ãngamýi oimeraẽva tenda arapýpe.
+what-is-a-browser-the-web-is-a-vast = Ñanduti ha’e tembipuru tuicha ha imbaretéva. Heta ary ohasa rire, Ñanduti iñambue mba’éichapa oñemba’apo, mba’éichapa oñeñembosarái ha avei jeiko oñondivegua. Eikuaávo mba’éichapa ojepuru, ombojuaju tetãnguérape, omombarete ñemu rehegua, omoakãrapu’ã jeiko oñondigua, omombarete teko tenonderãgua ha hembiapo opaite meme ojehecháva opaite ára.
 # Variables:
 #   $tools (url) - link to https://blog.mozilla.org/firefox/internet-search-engine-browser/
 what-is-a-browser-its-important = Opavave oikekuaava’erã ñandutípe, avei opavave <a href="{ $tools }">jaikuaapava’erã tembipurukuéra</a> jaipurúva jaike hag̃ua pype. Jaipuru ñanduti kundahára { -brand-name-mozilla } { -brand-name-firefox }, { -brand-name-google } { -brand-name-chrome }, { -brand-name-microsoft } { -brand-name-edge } ha { -brand-name-apple } { -brand-name-safari } opaite ára, hákatu ¿roikumby añetete mba’eichagua ha mba’éichapa oku’e?
