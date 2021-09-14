@@ -90,8 +90,22 @@ vpn-shared-platform-trust-partner-headline = O našem partnerovi
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } běží na celosvětové síti serverů společnosti <a href="{ $policy }">{ -brand-name-mullvad }</a> za použití protokolu <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. Společnost { -brand-name-mullvad } klade vaše soukromí na první místo a neuchovává si žádné záznamy.
+vpn-shared-platform-what-youll-get = Co se službou { -brand-name-mozilla-vpn } získáte:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Co je to VPN?
 vpn-subnav-faqs = Časté dotazy
 vpn-subnav-get-help = Získat pomoc
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Počítač
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Mobil
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Co je to IP adresa?
+vpn-subnav-when-to-use-a-vpn = Kdy používat síť VPN
+vpn-subnav-vpn-vs-proxy = Síť VPN vs. proxy server
 
 ##
 

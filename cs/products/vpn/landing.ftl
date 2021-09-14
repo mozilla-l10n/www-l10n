@@ -122,7 +122,7 @@ vpn-landing-sub-not-found = Ajaj! Vypadá to, že předplatné ještě nemáte.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
-vpn-landing-invite-page-title = Přidat se na čekací listinu: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-title = Přidat se na čekací listinu služby { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc = Dáme vám vědět, až bude { -brand-name-mozilla-vpn } dostupná pro vaše zařízení a vaší oblast.
 vpn-landing-invite-page-heading = Přidat se na čekací listinu
 vpn-landing-invite-email-label = Jaká je vaše e-mailová adresa?
