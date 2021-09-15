@@ -13,7 +13,7 @@ whatsnew90-block-1-heading = Sûr et sécurisé
 whatsnew90-block-1-body = Le Wi-Fi public est l’un des moyens les plus simples pour les pirates d’obtenir vos informations personnelles. { -brand-name-mozilla-vpn } chiffre vos activités réseau et masque votre emplacement et votre adresse IP.
 whatsnew90-block-2-heading = Comme à la maison
 # Obsolete string
-whatsnew90-block-2-body = Emportez votre contenu avec vous sur la route ou faites venir le contenu à vous. Connectez-vous à plus de 400 serveurs dans plus de 30 pays et streamez, jouez et surfez en toute sécurité tout en restant flexible.
+whatsnew90-block-2-body = Emportez votre contenu lors de vos déplacements ou faites-le venir à vous. Connectez-vous à plus de 400 serveurs dans plus de 30 pays et streamez, jouez et surfez en toute sécurité tout en restant flexible.
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
