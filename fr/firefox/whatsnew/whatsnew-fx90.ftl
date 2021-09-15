@@ -11,7 +11,7 @@ whatsnew90-main-body = Du café au camping, de la gare à la plage : le Wi-Fi p
 whatsnew90-main-cta = Installer { -brand-name-mozilla-vpn }
 whatsnew90-block-1-heading = Sûr et sécurisé
 whatsnew90-block-1-body = Le Wi-Fi public est l’un des moyens les plus simples pour les pirates d’obtenir vos informations personnelles. { -brand-name-mozilla-vpn } chiffre vos activités réseau et masque votre emplacement et votre adresse IP.
-whatsnew90-block-2-heading = La maison est l’endroit où se trouve votre VPN
+whatsnew90-block-2-heading = Comme à la maison
 # Obsolete string
 whatsnew90-block-2-body = Emportez votre contenu avec vous sur la route ou faites venir le contenu à vous. Connectez-vous à plus de 400 serveurs dans plus de 30 pays et streamez, jouez et surfez en toute sécurité tout en restant flexible.
 # Variables:
