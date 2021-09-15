@@ -25,6 +25,9 @@ browser-history-a-year-later-berners = Peteĩ ary rire, Berners-Lee ojerure Nico
 browser-history-ncsa-mosaic-ran = NCSA Mosaic oku’e mohendahápe { -brand-name-windows }, ndahasýi ijepuru ha ome’ẽ oimeraẽva avápe PC rupi oikévo ñanduti kuatiarogue ñepyrũgua, chat koty ha ta’ãnga rendaguasúpe. Ary pyahu (1994), Andreessen omoheñói <a href="{ $netscape }">{ -brand-name-netscape }</a> ha omyasãi { -brand-name-netscape } Navigator puruhárape g̃uarã. Ojehayhueterei ha kundahára peteĩha opavavépe g̃uarã. Avei ha’e jeku’e peteĩha ñorairõ guasu oñepyrũva ñanduti puruharakuérape g̃uarã.
 browser-history-the-browser-wars = Kundaharakuéra ñeñorairõ
 # Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = 1995 jave, { -brand-name-netscape } Navigator ndaha’éi kuri ha’eñóva ñeikundahakuaaha. Pe software apoha { -brand-name-microsoft } oreko ñemonei Mosaic ayvúgui ha ojapo ñanduti rovetã teéva, <a href="{ $ie }">{ -brand-name-ie }</a>. Ñemyasãi omoñepyrũ ñorairõ. { -brand-name-netscape } ha { -brand-name-microsoft } omba’apo kane’õ’ỹre omoheñóivo tembiaporape pyahu, peteĩteĩva oñeha’ã itenondévo ambuére apopyre iporã ha ipya’éva reheve.
+# Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = { -brand-name-netscape } omoheñói ha omyasãi JavaScript, ome’ẽva ñanduti kuatiaroguépe pa’ũ guasu oguereko’ỹva kuri. (Avei omoheñói <a href="{ $blink }">blink&gt; teramoĩ</a>.) { -brand-name-microsoft } ombeti Cascading Style Sheets (CSS) reheve, oikóva chugui mba’e iporãmbajepéva oñemoheñói hag̃ua ñanduti kuatiarogue.
 # Variables:
