@@ -23,5 +23,5 @@ welcome-page8-share-large-files = Compartí archivos grandes con cifrado de punt
 welcome-page8-try-send = Probá { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-stay-connected = Mantenete conectado con las personas con las que no podes estar en la vida real y evitá que { -brand-name-facebook } te siga en línea.
-welcome-page8-add-facebook-container = Añadir { -brand-name-facebook-container }
+welcome-page8-add-facebook-container = Agregar { -brand-name-facebook-container }
 welcome-page8-why-am-i = ¿Por qué estoy viendo esto?

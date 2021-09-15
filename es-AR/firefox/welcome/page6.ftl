@@ -9,7 +9,7 @@
 welcome-page6-make-firefox-your-default = Hacé que { -brand-name-firefox } sea tu navegador predeterminado
 welcome-page6-make-sure-youre-protected = Asegurate de estar protegido cada vez que te conectás
 welcome-page6-when-you-choose-firefox-you = Cuando eligís { -brand-name-firefox }, contribuís para tener una mejor web para vos y para todos los demás. Ahora da el siguiente paso para protegerte.
-welcome-page6-get-the-firefox-app = Usá la aplicación { -brand-name-firefox }
+welcome-page6-get-the-firefox-app = Obtené la aplicación { -brand-name-firefox }
 welcome-page6-get-firefox-on-your-phone = Usá { -brand-name-firefox } en tu teléfono
 welcome-page6-scan-the-qr-code-to-get-started = Escaneá el código QR para comenzar
 welcome-page6-qr-code-to-scan-for-firefox = Código QR para escanear y buscar { -brand-name-firefox }

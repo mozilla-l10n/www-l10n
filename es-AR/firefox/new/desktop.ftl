@@ -32,7 +32,7 @@ firefox-desktop-download-yes = Sí
 firefox-desktop-download-no = No
 firefox-desktop-download-blocks-third-party = Bloquea cookies de rastreo de terceros
 firefox-desktop-download-blocks-third-party-default = Bloquea las cookies de rastreo de terceros de forma predeterminada
-firefox-desktop-download-autoplay-blocking = Bloquea la reproducción automática
+firefox-desktop-download-autoplay-blocking = Bloqueo de reproducción automática
 firefox-desktop-download-blocks-social-trackers = Bloquea rastreadores sociales
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Disponibilidad de sistemas operativos
@@ -175,6 +175,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Estás usando un sis
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = La descarga debería comenzar automáticamente. ¿No funcionó? <a id="{ $id }" href="{ $fallback_url }">Probá descargarlo de nuevo</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que un navegador.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = La descarga fue interrumpida. Pero no está todo perdido.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux

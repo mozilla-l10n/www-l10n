@@ -49,7 +49,7 @@ footer-company = Compañía
 # Outdated string
 footer-about = Acerca de
 footer-press-center = Área de prensa
-footer-careers = Carreras
+footer-careers = Empleos
 # Outdated string
 footer-test-new-features = Probá las nuevas funciones
 # Outdated string

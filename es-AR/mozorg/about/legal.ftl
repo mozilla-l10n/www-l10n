@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/legal/
 
 legal-legal = Legal
-legal-get-involved = Involúcrate
+legal-get-involved = Involucrate
 legal-protect-the-fox = Protege al panda rojo
 legal-takedown-requests = Solicitudes de retirada
 legal-back-to-legal = Volver a Legal
