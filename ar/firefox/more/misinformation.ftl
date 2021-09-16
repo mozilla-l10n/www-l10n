@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = تجنّب المعلومات المغلوطة عبر الإنترنت – { -brand-name-firefox } هنا لمُساعدتك.
 misinformation-page-desc = المعلومات المغلوط مزعجة ومشتتة ومكلفة. لدى { -brand-name-firefox } بعض التلميحات لتجنّب المعلومات الخاطئة – ورؤية القليل منها عن تصفح الويب.
 misinformation-page-subheading = راجع التلميحات لرؤية معلومات مغلوطة أقل والتركيز على ما هو مهم بالنسبة لك
