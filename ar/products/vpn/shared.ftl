@@ -68,6 +68,8 @@ vpn-shared-features-strong-servers = خوادم قوية في أكثر من { $c
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = توصيل { $devices } أجهزة بحد أقصى
 
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = ضمان استرداد الأموال لِمدة 30 يومًا
 
 vpn-shared-refund-policy = سياسة استرداد الأموال
 vpn-shared-privacy-notice = سياسة الخصوصيّة
