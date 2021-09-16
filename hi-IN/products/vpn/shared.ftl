@@ -68,6 +68,8 @@ vpn-shared-features-strong-servers = { $countries }+ देशों में �
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = अधिकतम { $devices } डिवाइस कनेक्ट करें
 
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30-दिन की धनवापसी की गारंटी
 
 vpn-shared-refund-policy = रिफ़ंड नीति
 vpn-shared-privacy-notice = निजता सूचना
