@@ -8,6 +8,7 @@ firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 
 firefox-sync-access-and-sync = Akses dan sinkronkan markah, kata sandi, tab terbuka, dan lainnya — di mana pun Anda menggunakan { -brand-name-firefox }.
 
+firefox-sync-firefox = { -brand-name-firefox-browser }
 
 firefox-sync-sync-your-firefox = Sinkronkan { -brand-name-firefox } Anda di perangkat apa pun
 
