@@ -5,8 +5,11 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } डाउनलोड करें
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } पाएँ
+navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } प्राप्त करें
 navigation-v2-menu = मेन्यू
+
+# Obsolete string
+navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } पाएँ
 
 ## Firefox menu
 
