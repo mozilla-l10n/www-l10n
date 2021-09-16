@@ -10,6 +10,9 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. مع
 facebook-container-get-the-facebook-container = ثبّت الإضافة { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = نزّل { -brand-name-firefox } وثبّت الإضافة { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = تتوفر الإضافة { -brand-name-facebook-container } في الوقت الحالي في { -brand-name-firefox } لأجهزة سطح المكتب فقط.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/

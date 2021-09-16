@@ -10,6 +10,9 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Terk
 facebook-container-get-the-facebook-container = Dapatkan Ekstensi { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Unduh { -brand-name-firefox } dan dapatkan ekstensi { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Ekstensi { -brand-name-facebook-container } saat ini hanya tersedia untuk Desktop { -brand-name-firefox }.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+facebook-container-firefox-browser = { -brandname-firefox-browser }
 
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
