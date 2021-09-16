@@ -21,6 +21,9 @@ browser-history-web-era = Ñanduti oĩ rire
 browser-history-british-computer = Pe arandupavẽhára tembipurupyahugua Tim Berners-Lee (Gran Bretaña) omoheñói ñanduti mohendahavusu ha ñanduti kundahára 1990 jave, avei <a href="{ $cern }">omba’apókuri CERN-pe</a>, Organización Europea para la Investigación Nuclear, Suiza-gua. Ombohéra Ñanduti ovetã pyahu "WorldWideWeb". Ha’ékuri mba’erechaha hasy’ỹva ijepuru oñemoheñóiva mohendaha NeXT peg̃uarã. Péicha oñepyrũ, moñe’ẽrã kuati ojuajúva pyha tetã mba’e’ỹvandi — ñanduti jaikuaaháicha ko’ág̃a.
 browser-history-a-year-later-berners = Peteĩ ary rire, Berners-Lee ojerure Nicola Pellow-pe, oñembokatupyrýva matemática CERN-pe, ohaíva Line Mode Browser, apopyrã mohendaha peguakuéra.
 # Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = 1993 jave, ñanduti ipotyjera. Mbo’ehaovusu, tetãrekuái ha mba’apoha’aty ohecha pa’ũguasu Ñanduti ijurujávape. Arapy tuichakue oikotevẽ tembipurupyahu apopyre oike hag̃ua. Upe arýpe, Mosaic-pe oñemoheñói Centro Nacional de Aplicaciones de Supercomputación (NCSA) Universidad de Illinois Urbana-Champaign-pe arandupavẽhára tembipurupyahugua Marc Andreessen rupive. Ha’e ñanduti kundahára ñepyrũgua ha <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a> osẽ uperire.
+# Variables:
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic oku’e mohendahápe { -brand-name-windows }, ndahasýi ijepuru ha ome’ẽ oimeraẽva avápe PC rupi oikévo ñanduti kuatiarogue ñepyrũgua, chat koty ha ta’ãnga rendaguasúpe. Ary pyahu (1994), Andreessen omoheñói <a href="{ $netscape }">{ -brand-name-netscape }</a> ha omyasãi { -brand-name-netscape } Navigator puruhárape g̃uarã. Ojehayhueterei ha kundahára peteĩha opavavépe g̃uarã. Avei ha’e jeku’e peteĩha ñorairõ guasu oñepyrũva ñanduti puruharakuérape g̃uarã.
 browser-history-the-browser-wars = Kundaharakuéra ñeñorairõ
