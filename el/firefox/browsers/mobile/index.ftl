@@ -10,6 +10,7 @@ browsers-mobile-firefox-mobile-browsers-put = Το { -brand-name-firefox } γι�
 browsers-mobile-firefox-for-android = { -brand-name-firefox } για { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } για { -brand-name-ios }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-compare-mobile-browsers = Σύγκριση φυλλομετρητών για κινητά
 browsers-mobile-compare = Σύγκριση
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
