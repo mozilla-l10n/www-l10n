@@ -40,3 +40,4 @@ compare-index-browsers-have-come-a-long = { -brand-name-chrome } が登場して
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } は、非営利法人の { -brand-name-mozilla } が提供しています。
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } は、あらゆる開発と活動においてユーザーのプライバシーを第一に考えています。ユーザーには、自分自身の個人情報をどのように、誰と共有するかを決定する権利があると考えています。{ -brand-name-firefox } は、収集するデータはできる限り少なく抑え、売却することは一切ありません。わずかに収集するデータは、製品開発と機能改善にのみ使用します。秘密は作りません。その代わり、透明性と本物のプライバシーを徹底します。
 compare-index-based-on-the-criteria-we-outlined = ここで採用した基準 (プライバシー、実用性、ポータブル性) から、その条件を満たすブラウザーは { -brand-name-firefox } だけです。差別化の決め手となったのは、機能性ではなくプライバシーです。{ -brand-name-firefox } は、ユーザーを囲い込まない最もプライベートなブラウザーです。あらゆる OS とデバイスで、安心して利用できます。
+
