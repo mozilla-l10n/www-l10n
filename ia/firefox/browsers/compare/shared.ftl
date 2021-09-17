@@ -21,6 +21,7 @@ compare-shared-autoplay-blocking = Blocada de autoreproduction
 compare-shared-tab-browsing = Navigation a schedas
 compare-shared-bookmark-manager = Gestor de marcapaginas
 compare-shared-automatically-fills-out-forms = Plena formularios automaticamente
+compare-shared-automatically-fills-out-payments = Plenamento del formularios de pagamento automatic
 compare-shared-search-engine-options = Optiones de motor de recerca
 compare-shared-text-to-speech = De texto a voce
 compare-shared-reader-mode = Modo lector

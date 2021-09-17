@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+# HTML page title
+mobile-compare-5-of-the-best = 5 del melior navigatores mobile in comparation directe
+# HTML description
+mobile-compare-who-makes-the = Qui produce le melior navigator mobile? Nos comparara versiones mobile de { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, e { -brand-name-opera } pro lo discoperir.
 mobile-compare-features = Functionalitates
 mobile-compare-syncing = Synchronisation
 mobile-compare-conclusion = Conclusion
