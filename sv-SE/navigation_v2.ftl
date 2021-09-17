@@ -19,6 +19,7 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } för { -brand-name-a
 navigation-v2-get-the-customizable-mobile = Hämta den anpassningsbara mobilwebbläsaren för smartphones med { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } för { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Hämta mobilwebbläsaren för din { -brand-name-iphone } eller { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-privacy-promise = Sekretesslöfte
 navigation-v2-learn-how-firefox-treats = Lär dig hur { -brand-name-firefox } behandlar dina data med respekt.
 navigation-v2-firefox-blog = { -brand-name-firefox }s blogg
