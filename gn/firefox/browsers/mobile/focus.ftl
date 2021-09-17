@@ -5,7 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
-# HTML page title
-mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
-mobile-android-firefox-browser = { -brand-name-firefox-browser }
-mobile-android-about-mozilla = { -brand-name-mozilla } rehegua
+mobile-focus-firefox-focus = { -brand-name-firefox-focus }
+mobile-focus-get-firefox-focus = Erekóke { -brand-name-firefox-focus }
