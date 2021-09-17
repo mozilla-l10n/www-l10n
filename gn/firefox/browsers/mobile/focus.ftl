@@ -7,3 +7,4 @@
 
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-get-firefox-focus = Erekóke { -brand-name-firefox-focus }
+mobile-focus-made-by-mozilla = { -brand-name-mozilla } ojapopyre
