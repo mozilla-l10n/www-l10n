@@ -10,7 +10,11 @@
 ## Company names
 
 -brand-name-amazon = Amazon
--brand-name-apple = Apple
+-brand-name-apple =
+    { $cap ->
+       *[upper] Apple
+        [lower] apple
+    }
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub

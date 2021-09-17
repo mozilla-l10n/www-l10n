@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = Alapértelmezetten blokkolj
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Harmadik féltől származó követő sütik blokkolása
 compare-shared-blocks-cryptomining-scripts = Kriptobányász parancsfájlok blokkolása
+compare-shared-blocks-fingerprinting-scripts = Blokkolja az ujjlenyomat-készítőket
 compare-shared-blocks-social-trackers = Közösségi oldalak követőinek blokkolása
+compare-shared-dashboard-to-review = Irányítópult a letiltott nyomkövetők áttekintéséhez
 compare-shared-autoplay-blocking = Automatikus lejátszás blokkolása
 compare-shared-tab-browsing = Böngészőlapok
 compare-shared-bookmark-manager = Könyvjelzőkezelő
 compare-shared-automatically-fills-out-forms = Űrlapok automatikus kitöltése
+compare-shared-automatically-fills-out-payments = Kifizetések automatikus kitöltése
 compare-shared-search-engine-options = Keresőszolgáltatás-beállítások
 compare-shared-text-to-speech = Szöveg beszéddé alakítása
 compare-shared-reader-mode = Olvasó mód

@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/ (View on an Android or iOS browser)
 
 banner-firefox-app-store-title = { -brand-name-firefox }: privát, biztonságos böngésző
+banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: az adatvédelmi böngésző
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Ingyenes – A { -brand-name-google-play }-en
 banner-firefox-app-store-free-app-store = Ingynes – Az { -brand-name-app-store }-ban
