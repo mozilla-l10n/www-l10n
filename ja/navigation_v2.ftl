@@ -5,8 +5,11 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } をダウンロード
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } を作成
+navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } をダウンロード
 navigation-v2-menu = メニュー
+
+# Obsolete string
+navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } を作成
 
 ## Firefox menu
 
