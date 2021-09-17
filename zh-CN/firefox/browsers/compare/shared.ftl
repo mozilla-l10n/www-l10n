@@ -14,6 +14,7 @@ compare-shared-blocks-third-party-tracking-default = 默认拦截第三方跟踪
 # Obsolete string
 compare-shared-blocks-third-party-tracking = 拦截第三方跟踪性 Cookie
 compare-shared-blocks-cryptomining-scripts = 拦截加密货币挖矿脚本
+compare-shared-blocks-fingerprinting-scripts = 拦截数字指纹跟踪脚本
 compare-shared-blocks-social-trackers = 拦截社交跟踪器
 compare-shared-autoplay-blocking = 阻止自动播放
 compare-shared-tab-browsing = 标签页浏览
