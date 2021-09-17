@@ -19,6 +19,7 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } pro { -brand-name-an
 navigation-v2-get-the-customizable-mobile = Installa le navigator personalisabile pro apparatos mobile { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pro { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Installa le navigator mobile pro tu { -brand-name-iphone } o { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-privacy-promise = Promissa de confidentialitate
 navigation-v2-learn-how-firefox-treats = Apprende como { -brand-name-firefox } tracta tu datos con respecto.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
