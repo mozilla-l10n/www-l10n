@@ -31,3 +31,5 @@ browsers-mobile-join-firefox-and-get-the-most = Erstellen Sie ein { -brand-name-
 #   $accounts_attr (string) - anchor link url and attributes
 browsers-mobile-already-have-an-account-sign = Sie haben schon ein Konto? <a { $fxa_attr }>Melden Sie sich an</a> oder <a { $accounts_attr }>erfahren Sie mehr</a> über die Nutzung von { -brand-name-firefox }.
 browsers-mobile-download = Herunterladen
+browsers-mobile-android = { -brand-name-android }
+browsers-mobile-ios = { -brand-name-ios }
