@@ -68,6 +68,8 @@ vpn-shared-features-strong-servers = { $countries } か国以上に強力なサ�
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = デバイス { $devices } 台まで接続
 
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30 日間の返金保証
 
 vpn-shared-refund-policy = 返金ポリシー
 vpn-shared-privacy-notice = プライバシーに関する通知
