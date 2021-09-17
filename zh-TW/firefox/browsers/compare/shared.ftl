@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = 自動封鎖第三方追蹤
 # Obsolete string
 compare-shared-blocks-third-party-tracking = 封鎖第三方追蹤 Cookie
 compare-shared-blocks-cryptomining-scripts = 封鎖加密貨幣採礦程式
+compare-shared-blocks-fingerprinting-scripts = 封鎖數位指紋追蹤指令碼
 compare-shared-blocks-social-trackers = 封鎖社交追蹤器
+compare-shared-dashboard-to-review = 追蹤器封鎖儀錶板
 compare-shared-autoplay-blocking = 封鎖自動播放
 compare-shared-tab-browsing = 分頁瀏覽
 compare-shared-bookmark-manager = 書籤管理員
 compare-shared-automatically-fills-out-forms = 自動填寫網頁表單
+compare-shared-automatically-fills-out-payments = 自動填寫付款資訊
 compare-shared-search-engine-options = 搜尋引擎選項
 compare-shared-text-to-speech = 文字轉語音
 compare-shared-reader-mode = 閱讀器模式
