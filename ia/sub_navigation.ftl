@@ -11,6 +11,7 @@ sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = Comparar navigatores web
+sub-navigation-compare-mobile-browsers = Comparar le navigatores mobile
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } pro scriptorio
 sub-navigation-release-notes = Notas de version
 sub-navigation-desktop = Scriptorio
