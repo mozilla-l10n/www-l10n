@@ -8,3 +8,5 @@
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-fast-and-private = Rapide e private
+mobile-android-one-tap-to = Un tocco pro le modo private
