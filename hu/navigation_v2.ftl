@@ -19,6 +19,7 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } for { -brand-name-an
 navigation-v2-get-the-customizable-mobile = Szerezze be a testreszabható mobilböngészőt { -brand-name-android(cap: "lower") }os okostelefonokhoz.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Szerezze be a mobilböngészőt a { -brand-name-iphone }-ra vagy { -brand-name-ipad }-ra.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-privacy-promise = Adatvédelmi ígéret
 navigation-v2-learn-how-firefox-treats = Tudja meg, hogyan kezeli tisztelettel a { -brand-name-firefox } az Ön adatait.
 navigation-v2-firefox-blog = { -brand-name-firefox } blog

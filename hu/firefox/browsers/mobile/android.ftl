@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
 # HTML page title
-mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }ra
 # HTML description
 mobile-android-firefox-browser-for = Az { -brand-name-android(cap: "lower") }os { -brand-name-firefox } böngésző gyors, biztonságos és privát, az első megnyitásától kezdve.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
