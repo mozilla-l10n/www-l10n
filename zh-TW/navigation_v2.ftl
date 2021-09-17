@@ -20,6 +20,7 @@ navigation-v2-get-the-customizable-mobile = 下載適用於 { -brand-name-androi
 navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = 下載適用於 { -brand-name-iphone } 或 { -brand-name-ipad } 的行動瀏覽器。
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = 單純的隱私保護瀏覽器。
 navigation-v2-privacy-promise = 隱私權承諾
 navigation-v2-learn-how-firefox-treats = 了解 { -brand-name-firefox } 如何以尊重您的方式，處理相關資料。
 navigation-v2-firefox-blog = { -brand-name-firefox } 部落格
