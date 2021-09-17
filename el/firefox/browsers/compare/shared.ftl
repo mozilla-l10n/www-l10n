@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = Φραγή cookies κατα
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Φραγή cookies καταγραφής τρίτων
 compare-shared-blocks-cryptomining-scripts = Φραγή σεναρίων εξόρυξης κρυπτονομισμάτων
-compare-shared-blocks-social-trackers = Φραγή κοινωνικών ιχνηλατών
+compare-shared-blocks-fingerprinting-scripts = Φραγή σεναρίων fingerprinting
+compare-shared-blocks-social-trackers = Φραγή ιχνηλατών κοινωνικών δικτύων
+compare-shared-dashboard-to-review = Πίνακας για εποπτεία αποκλεισμένων ιχνηλατών
 compare-shared-autoplay-blocking = Φραγή αυτόματης αναπαραγωγής
 compare-shared-tab-browsing = Περιήγηση με καρτέλες
 compare-shared-bookmark-manager = Διαχείριση σελιδοδεικτών
 compare-shared-automatically-fills-out-forms = Αυτόματη συμπλήρωση φορμών
+compare-shared-automatically-fills-out-payments = Αυτόματη συμπλήρωση μέσων πληρωμής
 compare-shared-search-engine-options = Επιλογές μηχανών αναζήτησης
 compare-shared-text-to-speech = Κείμενο σε ομιλία
 compare-shared-reader-mode = Λειτουργία ανάγνωσης
