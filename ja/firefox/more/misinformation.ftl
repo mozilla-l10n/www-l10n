@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = オンラインの誤報を回避 – { -brand-name-firefox } がお手伝いします
 misinformation-page-desc = 誤報は厄介で困惑させられるだけでなく、金銭的にも大きな被害を及ぼします。{ -brand-name-firefox } は誤報を回避し、ウェブをブラウジングする際に表示される誤報の数を削減するコツをご案内します。
 misinformation-page-subheading = 表示される誤報を減らし、重要な情報に焦点を当てるヒントをご覧ください。
