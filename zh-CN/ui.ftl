@@ -20,4 +20,4 @@ ui-show-less = 显示更少
 ui-show-all = 全部显示
 ui-hide-all = 全部隐藏
 ui-learn-more = 了解更多
-ui-view = 视图
+ui-view = 查看

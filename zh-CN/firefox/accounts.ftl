@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = 捍卫隐私不是幻想。加入 { -brand-name-firefox } 一同抗争。
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = 注册 { -brand-name-firefox-account } - 保障数据私密、安全，随身带着走
+firefox-accounts-get-a-firefox-account = 注册 { -brand-name-firefox-account } - 确保数据隐私、安全、同步
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = 站出来，反对售卖您个人隐私的灰色产业链。使用我们为您而战的技术，安全明智地上网冲浪。
 # Old HTML page description
