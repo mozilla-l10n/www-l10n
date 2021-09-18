@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+# HTML page title
+browsers-mobile-firefox-mobile-browsers-put = Trình duyệt { -brand-name-firefox } trên di động đặt quyền riêng tư của bạn lên hàng đầu
+# HTML page description
+browsers-mobile-overview-of-all-mobile = Tổng quan về tất cả các trình duyệt trên điện thoại di động { -brand-name-firefox } ({ -brand-name-firefox } dành cho { -brand-name-android }, { -brand-name-firefox } dành cho { -brand-name-ios }, { -brand-name-firefox-focus })
 browsers-mobile-at-home-or-on-the-move = Ở nhà hoặc khi đang di chuyển, bạn xứng đáng nhận được sự riêng tư trên mọi thiết bị. Trình chống theo dõi nâng cao tự động trong mọi trình duyệt { -brand-name-firefox } trên di động.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-get-the-mobile-browser-privacy = Tải xuống trình duyệt dành cho di động đặt <strong>quyền riêng tư</strong> của bạn lên hàng đầu
