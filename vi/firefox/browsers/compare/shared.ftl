@@ -21,6 +21,7 @@ compare-shared-autoplay-blocking = Chặn tự động phát
 compare-shared-tab-browsing = Duyệt theo thẻ
 compare-shared-bookmark-manager = Trình quản lý dấu trang
 compare-shared-automatically-fills-out-forms = Tự động điền vào biểu mẫu
+compare-shared-automatically-fills-out-payments = Tự động điền vào các khoản thanh toán
 compare-shared-search-engine-options = Tùy chọn công cụ tìm kiếm
 compare-shared-text-to-speech = Chuyển văn bản thành giọng nói
 compare-shared-reader-mode = Chế độ đọc

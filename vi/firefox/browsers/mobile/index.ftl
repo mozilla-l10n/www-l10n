@@ -22,6 +22,9 @@ browsers-mobile-looking-for-a-streamlined = Bạn đang tìm kiếm một trình
 browsers-mobile-compare-mobile-browsers = So sánh các trình duyệt trên thiết bị di động
 browsers-mobile-see-how-firefox-stacks-up = Xem cách { -brand-name-firefox } so sánh với các trình duyệt phổ biến khác khi nói đến ba yếu tố lớn: quyền riêng tư, tính năng và đồng bộ hóa.
 browsers-mobile-compare = So sánh
+browsers-mobile-see-how-firefox-for-desktop-stacks = Xem cách { -brand-name-firefox } dành cho máy tính để bàn so sánh lên đến bảy trình duyệt khác.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Xem cách { -brand-name-firefox } dành cho <strong>máy tính để bàn</strong> so sánh lên đến bảy trình duyệt khác.
 browsers-mobile-join-firefox-and-get-the-most = Tham gia { -brand-name-firefox } và tận dụng tối đa mọi sản phẩm — trên mọi thiết bị.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

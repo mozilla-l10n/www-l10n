@@ -10,6 +10,8 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Trình duyệt { -brand-name-firefox } dành cho { -brand-name-android } nhanh, an toàn và riêng tư ngay từ lần đầu tiên bạn mở.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+mobile-android-go-mobile-go = Di động. Độc lập với { -brand-name-firefox } dành cho { -brand-name-android }
 mobile-android-when-you-download = Khi tải xuống { -brand-name-firefox }, bạn đang chọn hỗ trợ một công ty công nghệ độc lập. { -brand-name-firefox } là trình duyệt duy nhất được hỗ trợ bởi cuộc chiến phi lợi nhuận nhằm mang lại cho bạn sự cởi mở, minh bạch và kiểm soát cuộc sống trực tuyến của bạn nhiều hơn.
 mobile-android-get-firefox-for = Tải xuống { -brand-name-firefox } dành cho { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Gửi liên kết tải xuống đến điện thoại của bạn.
@@ -20,6 +22,7 @@ mobile-android-firefox-for-android = { -brand-name-firefox } dành cho { -brand-
 mobile-android-one-tap-to = Một lần nhấn để chuyển sang chế độ riêng tư
 mobile-android-get-to-private = Chuyển đến chế độ duyệt web riêng tư chỉ bằng một lần nhấn. Và khi bạn đóng chế độ duyệt web riêng tư, lịch sử duyệt web của bạn sẽ tự động bị xóa khỏi thiết bị của bạn.
 mobile-android-search-your-own = Tìm kiếm theo cách của riêng bạn
+mobile-android-got-a-big = Bạn có một chiếc điện thoại lớn và kích thước ngón tay cái không to? Không vấn đề gì. { -brand-name-firefox } dành cho { -brand-name-android } cho phép bạn di chuyển thanh tìm kiếm từ trên xuống dưới, giúp bạn sử dụng dễ dàng hơn bằng một tay. Bạn cũng có thể chọn công cụ tìm kiếm của riêng mình trong trình duyệt và đặt { -brand-name-firefox } làm trình duyệt mặc định nếu bạn muốn.
 mobile-android-save-power-with = Tiết kiệm pin với chế độ tối
 mobile-android-switch-to-dark = Chuyển sang chế độ tối bất kỳ lúc nào để giảm mỏi mắt và kéo dài thời lượng pin của bạn.
 mobile-android-easily-organize-your = Dễ dàng sắp xếp các thẻ của bạn
