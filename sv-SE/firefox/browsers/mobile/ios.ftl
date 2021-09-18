@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
+# HTML page title
+mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-about-mozilla = Om { -brand-name-mozilla }
