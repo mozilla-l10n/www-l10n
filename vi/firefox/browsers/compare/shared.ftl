@@ -14,7 +14,9 @@ compare-shared-blocks-third-party-tracking-default = Chặn cookie theo dõi c�
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Chặn cookie theo dõi của bên thứ ba
 compare-shared-blocks-cryptomining-scripts = Chặn các tập lệnh khai thác tiền điện tử
+compare-shared-blocks-fingerprinting-scripts = Chặn các tập lệnh in dấu vết (fingerprinting)
 compare-shared-blocks-social-trackers = Chặn các trình theo dõi xã hội
+compare-shared-dashboard-to-review = Trang tổng quan để xem lại các trình theo dõi bị chặn
 compare-shared-autoplay-blocking = Chặn tự động phát
 compare-shared-tab-browsing = Duyệt theo thẻ
 compare-shared-bookmark-manager = Trình quản lý dấu trang

@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/ (View on an Android or iOS browser)
 
 banner-firefox-app-store-title = { -brand-name-firefox }: Trình duyệt riêng tư, an toàn
+banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Trình duyệt web riêng tư
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Miên phí – Trên { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Miễn phí – Trên { -brand-name-app-store }
