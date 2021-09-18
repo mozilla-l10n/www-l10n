@@ -18,3 +18,11 @@ browsers-mobile-looking-for-a-streamlined = Bạn đang tìm kiếm một trình
 browsers-mobile-compare-mobile-browsers = So sánh các trình duyệt trên thiết bị di động
 browsers-mobile-see-how-firefox-stacks-up = Xem cách { -brand-name-firefox } so sánh với các trình duyệt phổ biến khác khi nói đến ba yếu tố lớn: quyền riêng tư, tính năng và đồng bộ hóa.
 browsers-mobile-compare = So sánh
+browsers-mobile-join-firefox-and-get-the-most = Tham gia { -brand-name-firefox } và tận dụng tối đa mọi sản phẩm — trên mọi thiết bị.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+browsers-mobile-already-have-an-account-sign = Đã có một tài khoản? <a { $fxa_attr }>Đăng nhập</a> hoặc <a { $accounts_attr }>tìm hiểu thêm</a> về việc tham gia { -brand-name-firefox }.
+browsers-mobile-download = Tải xuống
+browsers-mobile-android = { -brand-name-android }
+browsers-mobile-ios = { -brand-name-ios }
