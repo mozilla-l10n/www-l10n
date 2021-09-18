@@ -24,6 +24,7 @@ mobile-focus-private-browsing-on = "Privat surfning" i de flesta webbläsare är
 mobile-focus-tracking-protection = Spårningsskydd
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } blockerar ett brett utbud av vanliga spårare som standard, inklusive sociala spårare och de klibbiga som kommer från saker som { -brand-name-facebook }-annonser.
 mobile-focus-ad-blocking = Annonsblockering
+mobile-focus-focus-blocks-the = { -brand-name-focus } blockerar annonserna som du normalt ser på webbsidor — inga extra tillägg behövs. Med färre annonser får du bättre hastighet, vilket innebär att du kommer mycket snabbare till de saker du vill ha.
 mobile-focus-see-it-all = Se allt snabbare
 mobile-focus-focus-removes-trackers = { -brand-name-focus } tar bort spårare och annonser så att sidorna du tittar kräver mindre data och laddas mycket snabbare.
 mobile-focus-made-by-mozilla = Skapad av { -brand-name-mozilla }
