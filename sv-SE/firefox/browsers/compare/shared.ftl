@@ -14,6 +14,7 @@ compare-shared-blocks-third-party-tracking-default = Blockerar spårningskakor f
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Blockerar spårningskakor från tredje part
 compare-shared-blocks-cryptomining-scripts = Blockerar kryptogrävarskript
+compare-shared-blocks-fingerprinting-scripts = Blockerar fingeravtrycksskript
 compare-shared-blocks-social-trackers = Blockerar sociala spårare
 compare-shared-autoplay-blocking = Autoplay-blockering
 compare-shared-tab-browsing = Surfa med flikar

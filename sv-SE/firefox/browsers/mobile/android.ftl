@@ -10,5 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Webbläsaren { -brand-name-firefox } för { -brand-name-android } är snabb, säker och privat från första gången du öppnade den.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-get-firefox-for = Hämta { -brand-name-firefox } för { -brand-name-android }
 mobile-android-fast-and-private = Snabb och privat
 mobile-android-about-mozilla = Om { -brand-name-mozilla }
