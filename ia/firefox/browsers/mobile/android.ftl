@@ -10,3 +10,4 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 mobile-android-fast-and-private = Rapide e private
 mobile-android-one-tap-to = Un tocco pro le modo private
+mobile-android-about-mozilla = A proposito de { -brand-name-mozilla }

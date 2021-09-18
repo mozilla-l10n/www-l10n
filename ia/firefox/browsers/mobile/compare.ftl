@@ -26,6 +26,7 @@ mobile-compare-reader-mode = Modo lector
 mobile-compare-spell-checking = Controlo del orthographia
 mobile-compare-web-extensionsaddons = Extensiones o additivos Web
 mobile-compare-dark-mode = Modo obscur
+mobile-compare-desktop-mode = Modo scriptorio
 mobile-compare-find-on-page = Trovar sur le pagina
 mobile-compare-image-search = Recerca per imagine
 mobile-compare-voice-search = Recerca vocal
