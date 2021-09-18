@@ -8,10 +8,14 @@
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-android } 版 { -brand-name-firefox-browser }
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-when-you-download = 下载 { -brand-name-firefox }，即代表您选择支持一家独立的科技公司。 { -brand-name-firefox } 是最后一款由非营利组织支持的主流浏览器，给您更多的开放性、透明度和对在线生活的掌控。
 mobile-android-get-firefox-for = 获取 { -brand-name-android } 版 { -brand-name-firefox }
+mobile-android-send-a-download-link-to-your = 发送下载链接至您的手机。
 mobile-android-scan-the-qr-code-to-get-started = 扫码下载
 mobile-android-scan-alt-text = 扫码下载 { -brand-name-android } 版 { -brand-name-firefox }
-mobile-android-one-tap-to = 一键进入隐私模式
+mobile-android-fast-and-private = 快速又隐私
+mobile-android-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox } 提供便捷的隐私保护与轻快的页面加载。增强型跟踪保护可自动拦截在网上监视您且拖慢页面的在线跟踪器。
+mobile-android-one-tap-to = 隐私，一触即得
 mobile-android-save-power-with = 深色模式更省电
 mobile-android-switch-to-dark = 随时切换至深色模式，缓解眼睛疲劳并节省更多电量。
 mobile-android-easily-organize-your = 轻松管理您的标签页

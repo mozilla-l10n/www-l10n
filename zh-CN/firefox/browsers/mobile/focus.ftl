@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
+mobile-focus-send-a-download-link-to-your = 发送下载链接至您的手机。
 mobile-focus-scan-the-qr-code-to-get-started = 扫码下载
 mobile-focus-scan-alt-text = 扫码下载 { -brand-name-firefox-focus }

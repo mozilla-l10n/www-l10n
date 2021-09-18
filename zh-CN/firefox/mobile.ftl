@@ -33,6 +33,6 @@ firefox-mobile-find-it-fast-with-a-smart = 使用智能搜索栏更快找到结�
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } 通过智能搜索建议和快速打开您最常访问的网站，满足您的需求。
 firefox-mobile-the-privacy-you-deserve-the = 隐私、速度，二者得兼。
 firefox-mobile-get-firefox-for-mobile = 下载 { -brand-name-firefox } 移动版
-firefox-mobile-send-a-download-link-to-your = 发送下载链接到您的手机。
+firefox-mobile-send-a-download-link-to-your = 发送下载链接至您的手机。
 firefox-mobile-scan-the-qr-code-to-get-started = 扫描二维码立刻获取
 firefox-mobile-scan-alt-text = 扫描二维码，立即下载 { -brand-name-firefox } 移动版
