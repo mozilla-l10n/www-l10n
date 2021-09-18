@@ -16,10 +16,12 @@ compare-shared-blocks-third-party-tracking = 拦截第三方跟踪性 Cookie
 compare-shared-blocks-cryptomining-scripts = 拦截加密货币挖矿脚本
 compare-shared-blocks-fingerprinting-scripts = 拦截数字指纹跟踪脚本
 compare-shared-blocks-social-trackers = 拦截社交跟踪器
+compare-shared-dashboard-to-review = 跟踪器拦截面板
 compare-shared-autoplay-blocking = 阻止自动播放
 compare-shared-tab-browsing = 标签页浏览
 compare-shared-bookmark-manager = 书签管理器
 compare-shared-automatically-fills-out-forms = 自动填写表单
+compare-shared-automatically-fills-out-payments = 自动填写付款信息
 compare-shared-search-engine-options = 搜索引擎选项
 compare-shared-text-to-speech = 文字转语音
 compare-shared-reader-mode = 阅读模式
@@ -33,11 +35,11 @@ compare-shared-password-management = 密码管理
 compare-shared-primary-password = 主密码
 # Obsolete string
 compare-shared-master-password = 主密码
-compare-shared-security-and-privacy = 安全性与隐私权
+compare-shared-security-and-privacy = 安全性与隐私
 compare-shared-utility = 实用性
 compare-shared-portability = 跨平台性
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = 安全性与<strong>隐私权</strong>
+compare-shared-security-and-privacy-strong = 安全性与<strong>隐私</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>实用性</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.

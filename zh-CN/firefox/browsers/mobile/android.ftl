@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
+# HTML page title
+mobile-android-firefox-browser-android = { -brand-name-android } 版 { -brand-name-firefox-browser }
 mobile-android-one-tap-to = 一键进入隐私模式
 mobile-android-easily-organize-your = 轻松管理您的标签页
 mobile-android-pick-up-where = 从上次看到的地方继续
