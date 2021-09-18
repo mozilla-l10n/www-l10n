@@ -16,3 +16,5 @@ mobile-compare-text-to-speech = 文字转语音
 mobile-compare-reader-mode = 阅读模式
 mobile-compare-spell-checking = 拼写检查
 mobile-compare-web-extensionsaddons = Web 扩展/附加组件
+mobile-compare-scan-the-qr-code-to-get-started = 扫码下载
+mobile-compare-scan-alt-text = 扫码下载适用于移动设备的 { -brand-name-firefox }
