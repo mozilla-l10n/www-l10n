@@ -20,4 +20,6 @@ mobile-ios-now-iphone-and = Nu kan { -brand-name-iphone } och { -brand-name-ipad
 mobile-ios-fast-private-secure = Snabb. Privat. Säker
 mobile-ios-keep-whats-personal = Behåll det personliga privat utan att offra hastighet. Dessutom ger smarta surffunktioner dig möjlighet att ta med dig din integritet, lösenord och bokmärken säkert vart du än går, vilket gör ditt liv online enklare.
 mobile-ios-stay-private-online = Skydda din integritet på internet
+mobile-ios-your-browsing-history = Din surfhistorik är historia
+mobile-ios-if-you-want = Om du vill, kan du enkelt välja att gå ut på internet och söka i privat surfläge. Och när du stänger privat surfläge raderas din webbläsarhistorik och eventuella kakor automatiskt från din enhet.
 mobile-ios-about-mozilla = Om { -brand-name-mozilla }
