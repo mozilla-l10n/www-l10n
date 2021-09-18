@@ -22,4 +22,5 @@ mobile-ios-keep-whats-personal = Behåll det personliga privat utan att offra ha
 mobile-ios-stay-private-online = Skydda din integritet på internet
 mobile-ios-your-browsing-history = Din surfhistorik är historia
 mobile-ios-if-you-want = Om du vill, kan du enkelt välja att gå ut på internet och söka i privat surfläge. Och när du stänger privat surfläge raderas din webbläsarhistorik och eventuella kakor automatiskt från din enhet.
+mobile-ios-get-more-firefox = Få mer { -brand-name-firefox } i ditt liv
 mobile-ios-about-mozilla = Om { -brand-name-mozilla }
