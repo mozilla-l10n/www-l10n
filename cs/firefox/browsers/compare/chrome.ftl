@@ -8,7 +8,7 @@
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs. { -brand-name-chrome }: Který je lepší?
 # HTML page description
-compare-chrome-we-compare-mozilla-firefox = { -brand-name-mozilla(case: "acc") } { -brand-name-firefox } a { -brand-name-google(case: "acc") } { -brand-name-chrome } porovnáváme z hlediska soukromí, funkcionality a přenositelnosti
+compare-chrome-we-compare-mozilla-firefox = Porovnáváme prohlížeče { -brand-name-mozilla } { -brand-name-firefox(case: "acc") } a { -brand-name-google } { -brand-name-chrome(case: "acc") } z hlediska ochrany soukromí, rozsahu funkcí a přenositelnosti
 # Main title.
 compare-chrome-comparing-firefox-browser = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-google } { -brand-name-chrome(case: "ins") }
 # Variables:
