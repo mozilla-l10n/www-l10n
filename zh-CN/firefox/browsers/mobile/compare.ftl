@@ -10,12 +10,21 @@ mobile-compare-5-of-the-best = 5 款最佳移动浏览器同台对比
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>功能</strong>
 mobile-compare-features = 功能
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>同步</strong>
+mobile-compare-syncing = 同步
+mobile-compare-does-your-browser = 您的浏览器是否与其他设备兼容？
 mobile-compare-conclusion = 结论：
 mobile-compare-search-engine-options = 搜索引擎选项
 mobile-compare-text-to-speech = 文字转语音
 mobile-compare-reader-mode = 阅读模式
 mobile-compare-spell-checking = 拼写检查
 mobile-compare-web-extensionsaddons = Web 扩展/附加组件
+mobile-compare-dark-mode = 深色模式
+mobile-compare-desktop-mode = 桌面模式
+mobile-compare-image-search = 图片搜索
+mobile-compare-voice-search = 语音搜索
+mobile-compare-collections = 收藏集
 mobile-compare-inapp-vpn = 内置 VPN
 mobile-compare-shopping = 购物
 mobile-compare-mobile-os-availability = 移动操作系统可用性

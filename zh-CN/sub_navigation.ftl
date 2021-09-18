@@ -23,6 +23,7 @@ sub-navigation-desktop-beta-and-developer = 桌面版 { -brand-name-beta } 与 {
 sub-navigation-desktop-nightly = 桌面版 { -brand-name-nightly }
 sub-navigation-features = 特色
 sub-navigation-support = 用户支持
+sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = 附加组件
 sub-navigation-add-ons = 附加组件
@@ -36,7 +37,6 @@ sub-navigation-android-add-ons = { -brand-name-android } 附加组件
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
-sub-navigation-lockwise = { -brand-name-lockwise }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64 位
 sub-navigation-mac = { -brand-name-mac-short }
