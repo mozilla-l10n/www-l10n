@@ -16,3 +16,4 @@ mobile-compare-a-main-ingredient = Thành phần chính của một trình duy�
 mobile-compare-syncing-strong = <strong>Đồng bộ hóa</strong>
 mobile-compare-syncing = Đồng bộ hóa
 mobile-compare-does-your-browser = Trình duyệt của bạn có hỗ trợ tốt các thiết bị khác không?
+mobile-compare-almost-all-of = Hầu hết tất cả các trình duyệt di động được so sánh ở đây đều cho phép đồng bộ hóa hoàn toàn giữa thiết bị di động và máy tính để bàn.
