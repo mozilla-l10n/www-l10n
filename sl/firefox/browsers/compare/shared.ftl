@@ -14,6 +14,7 @@ compare-shared-blocks-third-party-tracking-default = Privzeto zavračanje sledil
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Zavračanje sledilnih piškotkov tretjih strani
 compare-shared-blocks-cryptomining-scripts = Zavračanje kriptorudarskih skriptov
+compare-shared-blocks-fingerprinting-scripts = Zavračanje skriptov za prstne odtise brskalnika
 compare-shared-blocks-social-trackers = Zavračanje sledilcev družbenih omrežij
 compare-shared-dashboard-to-review = Pregledna plošča zavrnjenih sledilcev
 compare-shared-autoplay-blocking = Preprečevanje samodejnega predvajanja

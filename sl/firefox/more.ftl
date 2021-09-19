@@ -14,6 +14,7 @@ firefox-has-been = { -brand-name-firefox } obstaja že skoraj od samega začetka
 firefox-rebel-with = { -brand-name-firefox }: upornik z razlogom
 firefox-is-independent = { -brand-name-firefox } je neodvisen in pod okriljem neprofitne organizacije { -brand-name-mozilla }, ki se bori za vaše pravice na spletu in dela internet dostopen vsakomur, povsod.
 what-is-a = Kaj je spletni brskalnik?
+update-your-browser = Posodobite svoj brskalnik na hitri in varni { -brand-name-firefox }.
 firefox-is-more = { -brand-name-firefox } je več kot le brskalnik
 get-the-browsers = Izberite brskalnike, ki na prvo mesto postavljajo vašo zasebnost – kot vedno
 choose-which-firefox = Izberite, kateri brskalnik { -brand-name-firefox-browser } želite prenesti v svojem jeziku
