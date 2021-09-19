@@ -7,13 +7,31 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = 5 av de bästa mobilwebbläsarna i direkt jämförelse
+# HTML description
+mobile-compare-who-makes-the = Vem gör den bästa mobilwebbläsaren? Vi jämför mobilversioner av { -brand-name-firefox },{ -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } och { -brand-name-opera } för att ta reda på det.
+mobile-compare-which-mobile-browser = Vilken mobil webbläsare håller saker konfidentiella?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Funktioner</strong>
 mobile-compare-features = Funktioner
+mobile-compare-what-can-your = Vad kan din webbläsare göra för dig?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Synkronisering</strong>
 mobile-compare-syncing = Synkronisering
+mobile-compare-does-your-browser = Funkar din webbläsare bra med andra enheter?
+mobile-compare-conclusion = Slutsats
+mobile-compare-dark-mode = Mörkt läge
+mobile-compare-find-on-page = Sök på sidan
+mobile-compare-image-search = Bildsökning
+mobile-compare-voice-search = Röstsökning
+mobile-compare-add-to-homescreen = Lägg till på startskärmen
+mobile-compare-read-text-aloud = Läs text högt
+mobile-compare-news-feed = Nyhetsflöde
+mobile-compare-collections = Samlingar
+mobile-compare-inapp-vpn = VPN i appen
 mobile-compare-shopping = Shopping
+mobile-compare-syncs-with-desktopmobile = Synkroniseras med dator/mobilapp
+mobile-compare-password-management = Lösenordshantering
+mobile-compare-primary-password = Huvudlösenord
 mobile-compare-get-firefox-for-mobile = Hämta { -brand-name-firefox } för mobilen
 mobile-compare-send-a-download-link-to-your = Skicka en nedladdningslänk till din telefon.
 mobile-compare-scan-the-qr-code-to-get-started = Skanna QR-koden för att komma igång
