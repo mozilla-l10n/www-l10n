@@ -49,6 +49,7 @@ does-firefox-sell = Ali { -brand-name-firefox } prodaja osebne podatke uporabnik
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Ne. Nikoli nismo in nikoli ne bomo. In ščitimo vas pred množico oglaševalcev, ki to počnejo. Izdelki { -brand-name-firefox } so zasnovani, da ščitijo vašo zasebnost. <a href="{ $url }">To je naša obljuba.</a>
 why-is-firefox = Zakaj je { -brand-name-firefox } tako počasen?
 is-firefox-chromium = Ali { -brand-name-firefox } temelji na { -brand-name-chromium }u?
 firefox-is-not = { -brand-name-firefox } ne temelji na { -brand-name-chromium(sklon: "mestnik") } (odprtokodnem projektu, ki je jedro { -brand-name-google } { -brand-name-chrome(sklon: "rodilnik") }). Pravzaprav smo eden od zadnjih velikih brskalnikov, ki ne temelji na njem. { -brand-name-firefox }ov pogon je Quantum, ustvarjen posebej za { -brand-name-firefox }, zato lahko zagotovimo, da se z vašimi podatki ravna spoštljivo in varno.
@@ -73,3 +74,4 @@ who-owns-firefox = Kdo je lastnik { -brand-name-firefox }a?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } ustvarja { -brand-name-mozilla-corporation }, hčerinsko podjetje v polni lasti neprofitne organizacije <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>, ki ga vodijo načela iz Manifesta { -brand-name-mozilla(sklon: "rodilnik") }. Spoznajte podjetje, ki razvija Firefox, na { -brand-name-firefox } <a href="{ $url2 }">tej strani</a>.
+related-questions-who = Povezana vprašanja: kdo je lastnik { -brand-name-firefox(sklon: "rodilnik") }, kdo je lastnik { -brand-name-firefox-browser(sklon: "rodilnik") }, ali je { -brand-name-google } lastnik { -brand-name-firefox(sklon: "rodilnik") }, ali je { -brand-name-mozilla } { -brand-name-firefox } v lasti { -brand-name-google(sklon: "rodilnik") }
