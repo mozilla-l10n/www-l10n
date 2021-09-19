@@ -20,6 +20,7 @@ contribute-tag-technical = Tehnično
 contribute-tag-technical-non-technical = Tehnično in netehnično
 contribute-tag-support = Podpora
 contribute-task-translate-heading = Prevedite vsebino
+contribute-task-translate-desc = Internet je globalen le, če ga povsod razumejo. Pomagajte nam prevesti izdelke in spletna mesta { -brand-name-mozilla(sklon: "rodilnik") } v svoj jezik.
 contribute-task-join-heading = Pridružite se skupnosti
 contribute-task-join-desc = Se želite dejavneje sodelovati v skupnosti { -brand-name-mozilla }? Oglejte si vse priložnosti za prostovoljstvo na našem portalu skupnosti.
 
@@ -45,6 +46,7 @@ contribute-newsletter-heading = Še niste prepričani?
 
 ## Support
 
+contribute-support-heading = Poiščite pomoč
 contribute-mozilla-support = Podpora { -brand-name-mozilla }
 
 ## Web compat
