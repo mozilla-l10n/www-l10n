@@ -12,16 +12,26 @@ mobile-compare-who-makes-the = Vem gör den bästa mobilwebbläsaren? Vi jämfö
 mobile-compare-since-your-mobile = Eftersom din mobila webbläsare är din inkörsport till information var du än är, är snabbhet, säkerhet, integritet och användarvänlighet nycklarna till en bra upplevelse. Så vilken är den bästa mobilwebbläsaren? Låt oss jämföra de bästa — och se vilken som bäst passar dina behov.
 mobile-compare-which-mobile-browser = Vilken mobil webbläsare håller saker konfidentiella?
 mobile-compare-at-a-minimum = Åtminstone bör din mobilwebbläsare tillhandahålla någon version av "privat surfläge", som automatiskt tar bort din historik och sökhistorik. I detta område får alla sju webbläsare som jämförs poäng.
+mobile-compare-another-mobile-feature = En annan mobilfunktion som borde vara given är möjligheten att hindra webbplatser och företag från att spåra din surf- och shoppingdata — även i normalt surfläge.
+mobile-compare-blocking-thirdparty-trackers = Att blockera tredjepartsspårare är inte bara viktigt för integriteten — det hjälper också sidor att ladda mycket snabbare, utan att dessa kodsnuttar bifogar sig och slöar ner din webbläsare.
+mobile-compare-from-the-chart = Från diagrammet ovan är det uppenbart att { -brand-name-firefox } erbjuder den mest kompletta integritets- och säkerhetsverktygssatsen av de fem webbläsarna och ger en översikt över din säkerhet och integritet online.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Funktioner</strong>
 mobile-compare-features = Funktioner
 mobile-compare-what-can-your = Vad kan din webbläsare göra för dig?
+mobile-compare-a-main-ingredient = En viktig ingrediens i en välgjord webbläsare är dess funktionalitet. Vad kan den göra? Nästan alla fem webbläsare är lika när det gäller flikar, bokmärken, automatisk komplettering av fält, men bara { -brand-name-firefox } och { -brand-name-safari } erbjuder tillägg, som är typ appar för din webbläsare för att göra den mer privat, kraftfull eller bara roligare.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Synkronisering</strong>
 mobile-compare-syncing = Synkronisering
 mobile-compare-does-your-browser = Funkar din webbläsare bra med andra enheter?
 mobile-compare-conclusion = Slutsats
+mobile-compare-search-engine-options = Inställningar för sökmotorer
+mobile-compare-text-to-speech = Text till tal
+mobile-compare-reader-mode = Läsläge
+mobile-compare-spell-checking = Stavningskontroll
+mobile-compare-web-extensionsaddons = Webbtillägg/tillägg
 mobile-compare-dark-mode = Mörkt läge
+mobile-compare-desktop-mode = Datorläge
 mobile-compare-find-on-page = Sök på sidan
 mobile-compare-image-search = Bildsökning
 mobile-compare-voice-search = Röstsökning
