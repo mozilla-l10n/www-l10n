@@ -43,6 +43,8 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } šč
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>ščiti</strong> vašo zasebnost v vsakem izdelku
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Več kot 2000 zavrnjenih sledilcev – samodejno
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Sledenje je postalo spletna epidemija: podjetja sledijo vsakemu gibu, kliku in nakupu ter zbirajo podatke o vas, da bi uganili in vplivali na vaš naslednji premik. Nam se to zdi grob poseg v vašo zasebnost. Zato imajo brskalniki { -brand-name-firefox } za namizne in mobilne naprave privzeto vključeno zaščito pred sledenjem.
 firefox-privacy-hub-if-you-want-to-see-what = Če želite videti, kaj je { -brand-name-firefox } zavrnil za vas, obiščite to stran v brskalniku { -brand-name-firefox } za namizja.
 firefox-privacy-hub-see-what-firefox-has-blocked = Poglejte, kaj je { -brand-name-firefox } zavrnil za vas
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -54,10 +56,14 @@ firefox-privacy-hub-meet-four-of-the-most-common = Spoznajte štiri najpogostej�
 firefox-privacy-hub-always-in-your-control = Vedno na vaših vajetih
 firefox-privacy-hub-want-to-customize-what = Želite prilagoditi, kaj se zavrača? Vaše nastavitve so oddaljene le en klik.
 firefox-privacy-hub-if-you-have-a-firefox-account = Če imate { -brand-name-firefox-account }, si lahko ogledate tudi, kako vam pomagamo zaščititi vaše osebne podatke in gesla.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Več kot { $trackers } sledilcev je dnevno zavrnjenih za uporabnike { -brand-name-firefox(sklon: "rodilnik") } po svetu
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = Ko v { -brand-name-firefox-monitor } vnesete svoj e-poštni naslov, ga pozabimo takoj, ko preverimo, ali se ujema z znanimi krajami podatkov – razen če nas pooblastite, da nadaljujemo s spremljanjem novih kraj vaših osebnih podatkov.
 firefox-privacy-hub-check-for-breaches = Preverite kraje podatkov
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Gesla in poverilnice, ki jih shranite v { -brand-name-firefox-lockwise }, so šifrirane na vseh vaših napravah, zato jih niti mi ne moremo videti.
 firefox-privacy-hub-learn-more-about-lockwise = Več o { -brand-name-lockwise }u
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Pošljite datoteko
