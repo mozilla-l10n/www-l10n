@@ -26,6 +26,7 @@ mobile-compare-syncing = Synchronisation
 mobile-compare-does-your-browser = An tu navigator functiona ben con altere apparatos?
 mobile-compare-the-mobile-version = Le version mobile de { -brand-name-safari }, que es pre-installate sur le apparatos mobile { -brand-name-apple }, es solo compatibile con altere apparatos { -brand-name-apple }, como le portabiles { -brand-name-ipad } e { -brand-name-mac-short }. { -brand-name-firefox }, { -brand-name-chrome }, e { -brand-name-opera } functiona inter tote le platteformas, includite { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short }, e { -brand-name-linux }, con le exception del navigator { -brand-name-edge } que non es compatibile con apparatos basate sur { -brand-name-linux }.
 mobile-compare-almost-all-of = Quasi tote le navigatores mobile comparate hic permitte un complete synchronisation inter apparatos mobile e scriptorio.
+mobile-compare-the-good-news = Le bon novas pro le usatores de { -brand-name-iphone } es que { -brand-name-apple } ha recentemente permittite al usatores de { -brand-name-iphone } de eliger lor proprie navigator predefinite, assi ora illes pote synchronisar lor apparatos inter platteformas si, per exemplo, illes installa { -brand-name-firefox } sur lor { -brand-name-iphone } e PC { -brand-name-windows }.
 mobile-compare-conclusion = Conclusion
 mobile-compare-search-engine-options = Optiones de motor de recerca
 mobile-compare-text-to-speech = De texto a voce
