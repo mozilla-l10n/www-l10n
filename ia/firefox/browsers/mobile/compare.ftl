@@ -19,7 +19,13 @@ mobile-compare-from-the-chart = Ab le diagramma supra, il es obvie que { -brand-
 mobile-compare-features-strong = <strong>Functionalitates</strong>
 mobile-compare-features = Functionalitates
 mobile-compare-what-can-your = Que poter tu navigator facer pro te?
+mobile-compare-a-main-ingredient = Un principal ingrediente pro un navigator ben facite es su functionalitate. Que pote illo facer? Quasi tote le cinque navigatores es equal quanto a schedas, marcapaginas, auto-completamento de campos, ma solo { -brand-name-firefox } e { -brand-name-safari } offere additivos/extensiones, que es un sorta de apps pro render tu navigator plus private, potente o, solmente, plus amusante.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>Synchronisation</strong>
 mobile-compare-syncing = Synchronisation
+mobile-compare-does-your-browser = An tu navigator functiona ben con altere apparatos?
+mobile-compare-the-mobile-version = Le version mobile de { -brand-name-safari }, que es pre-installate sur le apparatos mobile { -brand-name-apple }, es solo compatibile con altere apparatos { -brand-name-apple }, como le portabiles { -brand-name-ipad } e { -brand-name-mac-short }. { -brand-name-firefox }, { -brand-name-chrome }, e { -brand-name-opera } functiona inter tote le platteformas, includite { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short }, e { -brand-name-linux }, con le exception del navigator { -brand-name-edge } que non es compatibile con apparatos basate sur { -brand-name-linux }.
+mobile-compare-almost-all-of = Quasi tote le navigatores mobile comparate hic permitte un complete synchronisation inter apparatos mobile e scriptorio.
 mobile-compare-conclusion = Conclusion
 mobile-compare-search-engine-options = Optiones de motor de recerca
 mobile-compare-text-to-speech = De texto a voce
