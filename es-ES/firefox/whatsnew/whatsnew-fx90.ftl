@@ -12,7 +12,12 @@ whatsnew90-main-cta = Consigue { -brand-name-mozilla-vpn }
 whatsnew90-block-1-heading = Seguro
 whatsnew90-block-1-body = El wifi público es una de las formas más fáciles para que los piratas informáticos accedan a tu información personal. { -brand-name-mozilla-vpn } cifra tu actividad de red y oculta tu ubicación y dirección IP.
 whatsnew90-block-2-heading = El hogar es donde está tu VPN
+# Obsolete string
 whatsnew90-block-2-body = Lleva tu entretenimiento contigo o viaja hacia tu entretenimiento. Conéctate a más de 750 servidores en más de 30 países y transmite, juega y navega de forma más segura con la máxima flexibilidad.
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+whatsnew90-block-2-body-v2 = Lleva tu entretenimiento contigo o viaja hacia tu entretenimiento. Conéctate a más de { $servers } servidores en más de { $countries } países y transmite, juega y navega de forma más segura con la máxima flexibilidad.
 whatsnew90-availability-heading = Ahora disponible en más países, entre ellos:
 whatsnew90-availability-body = Alemania, Francia, Italia, España, Bélgica, Austria, Suiza.
 whatsnew90-press-logos-heading = Destacado en

@@ -52,6 +52,8 @@ vpn-shared-features-strong-servers = Potentes servidores en más de { $countries
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Conecta hasta { $devices } dispositivos
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30 días de garantía de devolución de dinero
 vpn-shared-refund-policy = Política de reembolso
 vpn-shared-privacy-notice = Aviso de privacidad
 vpn-shared-terms-conditions = Términos y condiciones
@@ -105,6 +107,7 @@ vpn-subnav-platform-mobile = Móvil
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = ¿Qué es una dirección IP?
 vpn-subnav-when-to-use-a-vpn = Cuándo usar una VPN
+vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 
 ##
 
