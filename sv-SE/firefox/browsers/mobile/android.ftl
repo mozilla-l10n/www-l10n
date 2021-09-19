@@ -10,6 +10,8 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Webbläsaren { -brand-name-firefox } för { -brand-name-android } är snabb, säker och privat från första gången du öppnade den.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+mobile-android-go-mobile-go = Bli oberoende med { -brand-name-firefox } för { -brand-name-android }
 mobile-android-when-you-download = När du laddar ner { -brand-name-firefox } väljer du att stödja ett oberoende teknikföretag. { -brand-name-firefox } är den enda stora webbläsaren som stöds av en ideell organisation för att ge dig mer öppenhet, transparens och kontroll över ditt liv online.
 mobile-android-get-firefox-for = Hämta { -brand-name-firefox } för { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Skicka en nedladdningslänk till din telefon.

@@ -5,12 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+# HTML page title
+mobile-compare-5-of-the-best = 5 av de bästa mobilwebbläsarna i direkt jämförelse
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Funktioner</strong>
 mobile-compare-features = Funktioner
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Synkronisering</strong>
 mobile-compare-syncing = Synkronisering
+mobile-compare-shopping = Shopping
 mobile-compare-get-firefox-for-mobile = Hämta { -brand-name-firefox } för mobilen
 mobile-compare-send-a-download-link-to-your = Skicka en nedladdningslänk till din telefon.
 mobile-compare-scan-the-qr-code-to-get-started = Skanna QR-koden för att komma igång
