@@ -10,6 +10,7 @@
 
 contribute-page-title = Priložnosti za prostovoljstvo pri { -brand-name-mozilla(sklon: "mestnik") }
 contribute-page-heading = Potrebujemo vaše talente za boljši internet
+contribute-page-intro = { -brand-name-mozilla } je neprofitna organizacija, ki si prizadeva, da bi bil internet odprt in sprejemajoč za vsakogar. In potrebujemo vašo pomoč. Kot del naše skupnosti lahko pomagate gnati napredek, širiti odgovornost in zaupanje ter iz interneta ustvarjati boljše mesto za vsakogar.
 contribute-how-heading = Kako lahko prispevate …
 
 ## Contribution tasks
