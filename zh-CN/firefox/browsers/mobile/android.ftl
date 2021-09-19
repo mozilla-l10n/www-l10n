@@ -21,4 +21,5 @@ mobile-android-switch-to-dark = 随时切换至深色模式，缓解眼睛疲劳
 mobile-android-easily-organize-your = 轻松管理您的标签页
 mobile-android-supercharge-firefox-with = 用附加组件增强 { -brand-name-firefox }
 mobile-android-pick-up-where = 从上次看到的地方继续
+mobile-android-pin-videos-to = 将视频固定到屏幕上
 mobile-android-about-mozilla = 关于 { -brand-name-mozilla }

@@ -11,6 +11,7 @@ sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = 比较浏览器
+sub-navigation-compare-mobile-browsers = 比较移动浏览器
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } 桌面版
 sub-navigation-release-notes = 发行说明
 sub-navigation-desktop = 桌面版
