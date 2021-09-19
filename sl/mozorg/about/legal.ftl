@@ -15,6 +15,7 @@ legal-our-websites = Naša spletna mesta
 legal-firefox-services = Storitve { -brand-name-firefox }
 legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = Zasebnost in blagovne znamke
+legal-downloadable-software-notices = Obvestila o preneseni programski opremi
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: O vaših pravicah
 legal-thunderbird = { -brand-name-thunderbird }

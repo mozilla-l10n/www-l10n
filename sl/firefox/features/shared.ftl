@@ -16,4 +16,7 @@ features-shared-password-manager = Upravitelj gesel
 features-shared-customize-your-browser = Prilagodite svoj brskalnik
 features-shared-sync-between-devices = Sinhronizirajte med napravami
 features-shared-better-bookmarks = Boljši zaznamki
+features-shared-fingerprinter-blocking = Zavračanje sledilcev prstnih odtisov
+features-shared-translate-the-web = Prevedite splet
+features-shared-picture-in-picture = Slika v sliki
 brand-name-firefox = { -brand-name-firefox }

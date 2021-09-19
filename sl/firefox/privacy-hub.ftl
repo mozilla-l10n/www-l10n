@@ -49,6 +49,7 @@ firefox-privacy-hub-see-what-firefox-has-blocked = Poglejte, kaj je { -brand-nam
 firefox-privacy-hub-get-enhanced-tracking-protection = Uporabite izboljšano zaščito pred sledenjem
 firefox-privacy-hub-download-the-firefox-browser = Prenesite brskalnik { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = Posodobite svoj brskalnik { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Neviden največjim sledilcem
 firefox-privacy-hub-meet-four-of-the-most-common = Spoznajte štiri najpogostejše vrste sledilcev – ki vas ne bodo spoznali.
 firefox-privacy-hub-always-in-your-control = Vedno na vaših vajetih
 firefox-privacy-hub-want-to-customize-what = Želite prilagoditi, kaj se zavrača? Vaše nastavitve so oddaljene le en klik.
