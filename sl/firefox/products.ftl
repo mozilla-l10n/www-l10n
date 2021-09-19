@@ -21,11 +21,19 @@ firefox-products-desktop = Namizje
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Oglejte si vse brskalnike
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-get-mozilla-vpn = Namestite { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Ohranite svoja gesla varna in dostopajte do njih na vseh sinhroniziranih napravah.
+# Obsolete string
 firefox-products-download-lockwise = Prenesite { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Odpri v { -brand-name-firefox }u
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Več o { -brand-name-lockwise }u
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Varno pošiljajte datoteke in občutljive dokumente velikosti do 2,5 GB.
 firefox-products-send-a-file = Pošljite datoteko

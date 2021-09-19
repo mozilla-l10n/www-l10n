@@ -58,4 +58,6 @@ firefox-new-visit-support-for-more = Za več podrobnosti obiščite podporo
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Prenesite { -brand-name-firefox-browser }
 firefox-new-fast = Hiter, zaseben in prost
+firefox-new-from-mozilla = izpod rok { -brand-name-mozilla(sklon: "rodilnik") }
+firefox-new-desc = { -brand-name-firefox-browser } je brezplačen spletni brskalnik, ki hitro nalaga strani, porablja manj pomnilnika in je opremljen s kopico zmožnosti – projekt neprofitne organizacije { -brand-name-mozilla }.
 firefox-new-download-a-different = Prenesi za drugo platformo ali jezik

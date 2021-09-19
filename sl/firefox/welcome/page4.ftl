@@ -23,6 +23,7 @@ welcome-page4-enhanced-tracking-protection = Izboljšana zaščita pred sledenje
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Ne puščajte sledi
 welcome-page4-automatically-clear-your-history = Samodejno počistite zgodovino in piškotke z načinom zasebnega brskanja.
+welcome-page4-go-faster-do-more = Bodite hitrejši. Bodite učinkovitejši.
 welcome-page4-take-it-all-with-you = Vzemite vse s seboj
 welcome-page4-more-done-fast-smart = Naredite več z bliskovitim nalaganjem strani in pametnimi predlogi iskanja.
 welcome-page4-dont-walk-out-the-door-without = Ne zapuščajte svojega doma brez zaznamkov, zavihkov, beležk in gesel.

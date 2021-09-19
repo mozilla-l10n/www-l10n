@@ -25,6 +25,7 @@ firefox-home-share-large-files-without = Delite velike datoteke brez radovednih 
 firefox-home-start-sending-files = Začnite varno pošiljati datoteke
 firefox-home-trade-clickbait-for = Zamenjajte vabe za klike s kakovostno vsebino
 firefox-home-learn-more-about-pocket = Več o { -brand-name-pocket }u
+firefox-home-protection-for-your-whole = Zaščita za celotno vašo napravo – katerokoli napravo.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Ena prijava. Vse vaše naprave. Družina izdelkov, ki spoštujejo vašo <strong>zasebnost</strong>.
 firefox-home-join-firefox = Pridružite se { -brand-name-firefox }u

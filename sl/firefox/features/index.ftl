@@ -41,6 +41,7 @@ features-index-enhanced-tracking = Izboljšana zaščita pred sledenjem
 features-index-we-dont-sell-access-to-your = Ne prodajamo dostopa do vaših podatkov. Pika.
 features-index-get-firefox-for-privacy = Prenesite { -brand-name-firefox } za zasebnost
 features-index-firefox-vs = { -brand-name-firefox } proti ostalim brskalnikom
+features-index-stack-up = Oglejte si, kako se { -brand-name-firefox } odreže v primerjavi z drugimi brskalniki
 features-index-compare-browsers = Primerjajte brskalnike
 features-index-see-themes = Oglejte si najboljše teme
 features-index-download-latest = Prenesite najnovejši { -brand-name-firefox }
