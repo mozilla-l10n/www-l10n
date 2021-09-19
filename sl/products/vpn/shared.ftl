@@ -14,7 +14,10 @@ vpn-shared-available-countries = { -brand-name-mozilla-vpn } trenutno ponujamo v
 # Outdated string
 vpn-shared-available-countries-v2 = { -brand-name-mozilla-vpn } trenutno ponujamo v Združenem kraljestvu, Nemčiji, Franciji, ZDA, Kanadi, Maleziji, na Novi Zelandiji in v Singapurju.
 vpn-shared-available-countries-v3 = { -brand-name-mozilla-vpn } trenutno ponujamo v Avstriji, Nemčiji, Švici, Italiji, Belgiji, Španiji, Franciji, Združenem kraljestvu, ZDA, Kanadi, Maleziji, na Novi Zelandiji in v Singapurju.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnevno vračilo denarja
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = O nas so pisali
 vpn-shared-features-encrypt = Šifriranje na ravni naprave
 # Variables:
 #   $servers (number) - number of available servers
@@ -79,6 +82,11 @@ vpn-shared-platform-cta-headline = Pa začnimo
 vpn-shared-platform-cta-button = Oglejte si cene in razpoložljivost
 vpn-shared-platform-privacy-promise = Vaša zasebnost je naša obljuba
 vpn-shared-platform-trust-partner-headline = O našem zaupanja vrednem partnerju
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } deluje na svetovnem omrežju strežnikov, ki jih poganja <a href="{ $policy }">{ -brand-name-mullvad }</a> z uporabo protokola <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. Za { -brand-name-mullvad } je vaša zasebnost na prvem mestu in ne shranjuje nikakršnih dnevnikov dejavnosti.
+vpn-shared-platform-what-youll-get = Kaj vam prinaša { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = Kaj je VPN?

@@ -55,10 +55,11 @@ firefox-privacy-hub-invisible-to-the-top-trackers = Neviden največjim sledilcem
 firefox-privacy-hub-meet-four-of-the-most-common = Spoznajte štiri najpogostejše vrste sledilcev – ki vas ne bodo spoznali.
 firefox-privacy-hub-always-in-your-control = Vedno na vaših vajetih
 firefox-privacy-hub-want-to-customize-what = Želite prilagoditi, kaj se zavrača? Vaše nastavitve so oddaljene le en klik.
+firefox-privacy-hub-protection-beyond-tracking = Več kot zaščita pred sledenjem
 firefox-privacy-hub-if-you-have-a-firefox-account = Če imate { -brand-name-firefox-account }, si lahko ogledate tudi, kako vam pomagamo zaščititi vaše osebne podatke in gesla.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
-firefox-privacy-hub-more-than-s-trackers-blocked = Več kot { $trackers } sledilcev je dnevno zavrnjenih za uporabnike { -brand-name-firefox(sklon: "rodilnik") } po svetu
+firefox-privacy-hub-more-than-s-trackers-blocked = Preko { $trackers } sledilcev je dnevno zavrnjenih za uporabnike { -brand-name-firefox(sklon: "rodilnik") } po svetu
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = Ko v { -brand-name-firefox-monitor } vnesete svoj e-poštni naslov, ga pozabimo takoj, ko preverimo, ali se ujema z znanimi krajami podatkov – razen če nas pooblastite, da nadaljujemo s spremljanjem novih kraj vaših osebnih podatkov.
 firefox-privacy-hub-check-for-breaches = Preverite kraje podatkov
@@ -66,11 +67,14 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Gesla in poverilnice, ki jih shranite v { -brand-name-firefox-lockwise }, so šifrirane na vseh vaših napravah, zato jih niti mi ne moremo videti.
 firefox-privacy-hub-learn-more-about-lockwise = Več o { -brand-name-lockwise }u
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Nemogoče nam je videti imena ali vsebino velikih datotek, ki jih delite preko storitve { -brand-name-firefox-send }, ker so šifrirane od konca do konca – vi odločate, kdo bo videl vaše datoteke, ki jim lahko celo nastavite datum poteka in geslo.
 firefox-privacy-hub-send-a-file = Pošljite datoteko
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } priporoča kakovostne in ročno izbrane članke, ne da bi spremljal vašo zgodovino brskanja ali vaše osebne podatke posredoval oglaševalcem.
 firefox-privacy-hub-get-pocket = Prenesite { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Vaš { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Vsi podatki, ki se sinhronizirajo preko { -brand-name-firefox-account(sklon: "rodilnik") } – od zgodovine brskanja do gesel – so šifrirani. In edini ključ je geslo vašega računa.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Vzemite svojo zasebnost in zaznamke s seboj s { -brand-name-firefox-account(sklon: "orodnik") }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
@@ -80,3 +84,4 @@ firefox-privacy-hub-already-have-an-account = Že imate račun? <a { $sign_in } 
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Preberite <a href="{ $url }">obvestilo o zasebnosti</a> za naše izdelke
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-get-mozilla-vpn = Namestite { -brand-name-mozilla-vpn }
