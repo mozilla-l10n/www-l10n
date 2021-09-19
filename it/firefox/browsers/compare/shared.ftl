@@ -14,6 +14,7 @@ compare-shared-blocks-third-party-tracking-default = Blocca i cookie traccianti 
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Blocca cookie traccianti di terze parti
 compare-shared-blocks-cryptomining-scripts = Blocca script per il cryptomining
+compare-shared-blocks-fingerprinting-scripts = Blocca script per il fingerprinting
 compare-shared-blocks-social-trackers = Blocca traccianti social
 compare-shared-autoplay-blocking = Blocco della riproduzione automatica
 compare-shared-tab-browsing = Navigazione a schede
