@@ -57,7 +57,7 @@ vpn-landing-faq-protected-question-heading = Como es protegite mi confidentialit
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = Le protocollo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® crypta tu traffico de rete, protegente tote tu informationes private. Al contrario del protocollos VPN existente, le codice legier de { -brand-name-wireguard } es plus facile pro le analystas de securitate a revider e verificar, rendente lo un option plus secur pro le VPN. In addition, tu activitates online resta anonyme perque nos jammais registra, tracia o comparti tu datos de rete.
+vpn-landing-faq-protected-question-desc = Le protocollo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® crypta tu traffico de rete, protegente tote tu informationes private. Al contrario del protocollos VPN existente, le codice legier de { -brand-name-wireguard } es plus facile pro le analystas de securitate a revider e verificar, rendente lo un option plus secur pro le VPN. In addition, tu activitates in linea resta anonyme perque nos non registra, tracia o comparti jammais tu datos de rete.
 vpn-landing-faq-competition-question-heading = Como comparar { -brand-name-mozilla-vpn } al competition?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
