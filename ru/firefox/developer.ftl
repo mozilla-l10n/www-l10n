@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Помогите нам в создан�
 firefox-developer-start-now = Начать сейчас
 firefox-developer-design-code-test = Разрабатывайте. Кодите. Тестируйте. Улучшайте.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Создавайте и улучшайте свои сайты <br> с помощью { -brand-name-firefox-devtools(case: "instrumental") }
+firefox-developer-build-and-perfect = Создавайте и улучшайте свои сайты <br> с помощью { -brand-name-firefox-devtools(case: "genitive") }
 firefox-developer-inspector = Инспектор
 firefox-developer-inspect-and-refine = Изучайте и совершенствуйте код, чтобы создавать попиксельно-идеальные макеты.
 firefox-developer-learn-about-page-inspector = Подробнее об инспекторе страниц
