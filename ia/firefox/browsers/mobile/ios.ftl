@@ -31,3 +31,5 @@ mobile-ios-keep-tabs-on = Prende le controlo de tu schedas
 mobile-ios-create-as-many = Crea tante schedas como tu vole sin perder le tracia. { -brand-name-firefox } monstra tu schedas aperte como miniaturas e schedas numerate, rendente facile trovar rapidemente lo que tu vole.
 mobile-ios-discover-more-of = Discoperi plus de lo que tu ama
 mobile-ios-open-a-new = Aperi un nove scheda in { -brand-name-firefox } pro vider le sitos que tu visita le plus, tu marcapaginas recente e articulos popular in { -brand-name-pocket }. { -brand-name-firefox } te da accesso rapide al sitos recentemente visitate pro adjutar te a arrivar plus rapidemente a tu destination.
+mobile-ios-about-mozilla = A proposito de { -brand-name-mozilla }
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } existe pro disveloppar Internet como un ressource public accessibile pro totes perque nos crede que un Internet aperte e libere es melior que un Internet clause e controlate. Nos construe productos como { -brand-name-firefox } e { -brand-name-pocket } pro promover election, transparentia e controlo.
