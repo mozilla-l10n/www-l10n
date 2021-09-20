@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+# HTML page title
+browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } 移动浏览器将您的隐私放在首位
 browsers-mobile-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox }
 browsers-mobile-firefox-for-ios = { -brand-name-ios } 版 { -brand-name-firefox }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }

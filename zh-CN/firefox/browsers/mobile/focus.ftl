@@ -17,5 +17,6 @@ mobile-focus-scan-the-qr-code-to-get-started = 扫码下载
 mobile-focus-scan-alt-text = 扫码下载 { -brand-name-firefox-focus }
 mobile-focus-take-private-mode = 隐私模式更进一步
 mobile-focus-tracking-protection = 跟踪保护
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } 默认即会拦截各种常见跟踪器，包括社交跟踪器和那些来自 { -brand-name-facebook } 广告的“粘人”跟踪器。
 mobile-focus-ad-blocking = 广告拦截
 mobile-focus-see-it-all = 肉眼可见的更快
