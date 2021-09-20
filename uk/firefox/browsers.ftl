@@ -30,7 +30,7 @@ firefox-browsers-join-firefox-and-get-the-most = Приєднуйтеся до {
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Вже маєте обліковий запис? <a { $fxa_attr }>Увійдіть</a> або <a { $accounts_attr }>дізнайтеся більше</a> про те, як приєднатися до Firefox.
+firefox-browsers-already-have-an-account-sign = Уже маєте обліковий запис? <a { $fxa_attr }>Увійдіть</a> або <a { $accounts_attr }>дізнайтеся більше</a> про те, як приєднатися до Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
