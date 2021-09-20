@@ -40,7 +40,7 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - це бі
 firefox-new-download-interrupted = Завантаження було перервано. Але нічого не втрачено.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Дотримуйтесь <a href="{ $url }">цих настанов,</a> щоб встановити { -brand-name-firefox }.
+firefox-new-please-follow = Дотримуйтесь <a href="{ $url }">цих настанов,</a> щоб установити { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ваша система може не задовольняти вимог для { -brand-name-firefox }, але ви можете спробувати одну з <a href="{ $url }">цих версій</a>.
