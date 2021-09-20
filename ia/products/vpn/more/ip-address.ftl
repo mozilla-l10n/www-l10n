@@ -17,7 +17,7 @@ vpn-ip-address-if-you-look-up-your = Si tu cerca tu adresse IP, illo apparera qu
 vpn-ip-address-does-it-travel = Viagia illo con te?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
-vpn-ip-address-no-your-ip = No. Tu adresse IP es solo associate con un position a minus que tu <a href="{ $url }">usa un VPN</a> (nos te dicera plus re isto plus tarde). Quando tu es a tu casa, connexe a internet, tu paga pro, lo que tu usa. Totevia, si tu controla tu e-mail a casa al matino, pois scande le novas a un café local, compra durante que attendente tu caffe, e pois labora de un officio, tu habera usate altere adresses IP a cata position.
+vpn-ip-address-no-your-ip = No. Tu adresse IP es associate a solmente un loco, excepte si tu <a href="{ $url }">usa un VPN</a> (plus detalios a continuation). Quando tu es a casa usante le connexion a internet que tu paga, tu usa un sol adresse IP. Totevia, si tu lege tu e-mail a casa in le matino, pois percurre le novas in un café local durante que tu attende le caffe, e pois labora in un officio, tu habera usate differente adresses IP in cata loco.
 vpn-ip-address-does-your-ip = Cambia tu adresse IP?
 vpn-ip-address-yes-even-if = Si. Mesmo si tu usa internet solo a casa, le adresse IP pro tu casa pote cambiar. Tu pote continger tu fornitor de servicio internet (ISP) pro cambiar lo, ma mesmo qualque routine como reinitiar tu modem o router per problemas de connexion a internet, poterea comportar un cambio.
 vpn-ip-address-can-more-than = Pote plus que un apparato haber identic adresse IP?
