@@ -7,6 +7,7 @@
 
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+mobile-android-firefox-browser = { -brand-name-firefox-browser }
 mobile-android-search-your-own = Pesquise do seu jeito
 mobile-android-pick-up-where = Continue de onde parou
 mobile-android-about-mozilla = Sobre a { -brand-name-mozilla }

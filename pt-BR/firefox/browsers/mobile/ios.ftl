@@ -7,3 +7,4 @@
 
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-send-a-download-link-to-your = Envie um link de download para seu celular.
+mobile-ios-about-mozilla = Sobre a { -brand-name-mozilla }
