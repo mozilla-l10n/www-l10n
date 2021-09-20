@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
 # HTML page title
-mobile-compare-5-of-the-best = 5 款最佳移动浏览器同台对比
+mobile-compare-5-of-the-best = 五款最佳移动浏览器同台对比
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>功能</strong>
 mobile-compare-features = 功能
@@ -22,8 +22,10 @@ mobile-compare-spell-checking = 拼写检查
 mobile-compare-web-extensionsaddons = Web 扩展/附加组件
 mobile-compare-dark-mode = 深色模式
 mobile-compare-desktop-mode = 桌面模式
+mobile-compare-find-on-page = 页内查找
 mobile-compare-image-search = 图片搜索
 mobile-compare-voice-search = 语音搜索
+mobile-compare-add-to-homescreen = 添加至主屏幕
 mobile-compare-read-text-aloud = 朗读文本
 mobile-compare-collections = 收藏集
 mobile-compare-inapp-vpn = 内置 VPN

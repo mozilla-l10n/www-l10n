@@ -13,6 +13,13 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = 比较移动浏览器
 browsers-mobile-compare = 比较
 browsers-mobile-see-how-firefox-for-desktop-stacks = 看看 { -brand-name-firefox } 桌面版与其他浏览器有何不同。
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = 看看 { -brand-name-firefox } <strong>桌面版</strong>与其他浏览器有何不同。
+browsers-mobile-join-firefox-and-get-the-most = 加入 { -brand-name-firefox } 的行列，跨越设备边界，体验各个产品的智能技术。
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+browsers-mobile-already-have-an-account-sign = 已有账户？<a { $fxa_attr }>在此登录</a>或<a { $accounts_attr }>详细了解</a>关于加入 { -brand-name-firefox } 的行列。
 browsers-mobile-download = 下载
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
