@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Le navigator confidential
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-tracking-protection = Protection contra le traciamento
 mobile-focus-ad-blocking = Blocada del avisos publicitari

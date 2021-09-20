@@ -34,5 +34,6 @@ mobile-android-go-from-your = Passa de tu telephono a tu computator portabile, t
 mobile-android-search-from-your = Cerca a partir del schermo initial de tu telephono
 mobile-android-no-need-to = Non es necessari aperir le application. Adde le widget de recerca de { -brand-name-firefox } e cerca in le web directemente ab le schermo initial de tu apparato.
 mobile-android-pin-videos-to = Fixar videos sur tu schermo
-mobile-android-pop-videos-out = Distacha videos de lor sitos web o reproductores e fixa los in le parte superior del schermo de tu telephono pro reguardar durante que tu naviga per le web e face altere cosas. Mantene te intertenite faciente plure cosas insimul.
+mobile-android-pop-videos-out = Distacha videos de lor sitos web o reproductores e fixa los in le parte superior del schermo de tu telephono pro spectar durante que tu naviga per le web e face altere cosas. Mantene te intertenite faciente plure cosas insimul.
 mobile-android-about-mozilla = A proposito de { -brand-name-mozilla }
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } existe pro disveloppar Internet como un ressource public accessibile pro totes perque nos crede que un Internet aperte e libere es melior que un Internet clause e controlate. Nos construe productos como { -brand-name-firefox } e { -brand-name-pocket } pro promover election, transparentia e controlo.
