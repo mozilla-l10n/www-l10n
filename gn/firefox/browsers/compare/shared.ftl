@@ -14,6 +14,7 @@ compare-shared-blocks-third-party-tracking-default = Ejoko kookie tapykuehoha mb
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Ejoko kookie tapykuehoha mbohapyháva
 compare-shared-blocks-cryptomining-scripts = Ejoko scritps criptomineriagua
+compare-shared-blocks-fingerprinting-scripts = Ejoko kuãhũ kuaaukaha scripts
 compare-shared-blocks-social-trackers = Ejoko tapykuehoha avaatygua
 compare-shared-autoplay-blocking = Ñemboheta ijeheguíva jejoko
 compare-shared-tab-browsing = Ñeikundaha tendayke ndive

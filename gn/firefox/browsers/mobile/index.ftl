@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+# HTML page title
+browsers-mobile-firefox-mobile-browsers-put = Kundahára pumbyrygua { -brand-name-firefox } omotenonde nde rekoñemi
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg̃uarã
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }

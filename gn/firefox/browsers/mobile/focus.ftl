@@ -7,6 +7,9 @@
 
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-get-firefox-focus = Erekóke { -brand-name-firefox-focus }
+mobile-focus-send-a-download-link-to-your = Emondo juajuha mboguejyrã ne pumbyrýpe.
+mobile-focus-scan-the-qr-code-to-get-started = Emoha’ãnga QR ayvu eñepyrũ hag̃ua
+mobile-focus-scan-alt-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-name-firefox-focus }
 mobile-focus-disappear-your-history = Okañymba ne rembiasakue
 mobile-focus-take-private-mode = Egueraha teko ñemi ambue hendápe
 mobile-focus-tracking-protection = Tapykuehoha ñemo’ã
