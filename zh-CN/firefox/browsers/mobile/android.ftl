@@ -8,6 +8,8 @@
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-android } 版 { -brand-name-firefox-browser }
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+mobile-android-go-mobile-go = { -brand-name-android } 端，亦用独立开发的 { -brand-name-firefox }
 mobile-android-when-you-download = 下载 { -brand-name-firefox }，即代表您选择支持一家独立的科技公司。 { -brand-name-firefox } 是最后一款由非营利组织支持的主流浏览器，给您更多的开放性、透明度和对在线生活的掌控。
 mobile-android-get-firefox-for = 获取 { -brand-name-android } 版 { -brand-name-firefox }
 mobile-android-send-a-download-link-to-your = 发送下载链接至您的手机。
