@@ -11,8 +11,7 @@ whatsnew81-page-title = Qual novas re { -brand-name-firefox }
 whatsnew81-main-title = Un nove { -brand-name-firefox } pro cata apparato
 whatsnew81-main-intro = Qualcunque sia tu systema operative, ora tu pote installar le navigator mobile sin scopo de lucro melior de sempre.
 whatsnew81-send-form-label = Insere tu email pro obtener le ligamine de discargamento.
-whatsnew81-send-form-label-alt = Insere tu email o numero de telephono pro obtener le ligamine de discargamento.
-whatsnew81-scan-this-qr-code = Scande iste codice QR pro discargar
+whatsnew81-scan-this-qr-code = Scanna iste codice QR pro discargar
 # content blocks below hero
 whatsnew81-the-new-firefox-for-android = Le nove { -brand-name-firefox } pro { -brand-name-android } es hic
 whatsnew81-our-latest-for-android-has = Le ultime version de { -brand-name-android } ha plure functiones amusante e intelligente, como un barra de recerca mobile. Perque illo es un navigator independente e nos cura tu pollices.

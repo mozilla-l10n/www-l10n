@@ -52,5 +52,5 @@ mobile-compare-password-management = Gestion de contrasigno
 mobile-compare-primary-password = Contrasigno primari
 mobile-compare-get-firefox-for-mobile = Obtene { -brand-name-firefox } pro mobile
 mobile-compare-send-a-download-link-to-your = Inviar un ligamine de discargamento a tu telephono.
-mobile-compare-scan-the-qr-code-to-get-started = Scande le codice QR pro comenciar
-mobile-compare-scan-alt-text = Scande le codice QR pro obtener { -brand-name-firefox } sur tu apparato mobile
+mobile-compare-scan-the-qr-code-to-get-started = Scanna le codice QR pro comenciar
+mobile-compare-scan-alt-text = Scanna le codice QR pro installar { -brand-name-firefox } sur tu apparato mobile

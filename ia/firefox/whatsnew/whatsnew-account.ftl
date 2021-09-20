@@ -18,4 +18,4 @@ whatsnew-account-signed-in-headline = Attinge plus objectivos. Usa { -brand-name
 whatsnew-account-signed-in-lead-in = Inviar un ligamine de discargamento a tu telephono.
 whatsnew-account-signed-in-qr-title = Discarga { -brand-name-firefox } pro telephonos intelligente e tablettas.
 # An accessible label for a QR code image
-whatsnew-account-qr-code-alt = Scander iste codice QR
+whatsnew-account-qr-code-alt = Scannar iste codice QR
