@@ -7,4 +7,5 @@
 
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-get-firefox-focus = Erekóke { -brand-name-firefox-focus }
+mobile-focus-disappear-your-history = Okañymba ne rembiasakue
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } ojapopyre
