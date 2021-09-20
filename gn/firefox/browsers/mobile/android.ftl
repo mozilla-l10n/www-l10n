@@ -20,4 +20,7 @@ mobile-android-fast-and-private = Ipya’e ha Hekoñemi
 mobile-android-one-tap-to = Jepoko tekoñemi ayvúpe g̃uarã
 mobile-android-search-your-own = Eheka mba’éichapa
 mobile-android-save-power-with = Eipuru’ive batería teko ypytũme
+mobile-android-easily-organize-your = Emoĩpora ne rendaykekuéra
+mobile-android-pick-up-where = Eku’ejey eheja haguégui
+mobile-android-pin-videos-to = Embojuehe ta’ãngamýi ne mba’erechaháre
 mobile-android-about-mozilla = { -brand-name-mozilla } rehegua
