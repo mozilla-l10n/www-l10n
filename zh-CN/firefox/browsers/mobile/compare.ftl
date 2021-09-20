@@ -30,6 +30,7 @@ mobile-compare-shopping = 购物
 mobile-compare-mobile-os-availability = 移动操作系统可用性
 mobile-compare-password-management = 密码管理
 mobile-compare-primary-password = 主密码
+mobile-compare-get-firefox-for-mobile = 获取 { -brand-name-firefox } 移动版
 mobile-compare-send-a-download-link-to-your = 发送下载链接至您的手机。
 mobile-compare-scan-the-qr-code-to-get-started = 扫码下载
 mobile-compare-scan-alt-text = 扫码下载适用于移动设备的 { -brand-name-firefox }
