@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = ზღუდავს გ�
 # Obsolete string
 compare-shared-blocks-third-party-tracking = ზღუდავს გარეშე მეთვალყურეების ფუნთუშებს
 compare-shared-blocks-cryptomining-scripts = ზღუდავს კრიპტოვალუტის გამომმუშავებლებს
-compare-shared-blocks-social-trackers = ზღუდავს სოც. ქსელების მეთვალყურეებს
+compare-shared-blocks-fingerprinting-scripts = ზღუდავს ვინაობის ამომცნობებს
+compare-shared-blocks-social-trackers = ზღუდავს სოცქსელის მეთვალყურეებს
+compare-shared-dashboard-to-review = მეთვალყურეების შეზღუდვის მაჩვენებლები
 compare-shared-autoplay-blocking = თვითგაშვების შეზღუდვა
 compare-shared-tab-browsing = ჩანართებით თვალიერება
 compare-shared-bookmark-manager = სანიშნების მმართველი
 compare-shared-automatically-fills-out-forms = ველების თვითშევსება
+compare-shared-automatically-fills-out-payments = გადახდების თვითშევსება
 compare-shared-search-engine-options = საძიებო სისტემის პარამეტრები
 compare-shared-text-to-speech = ტექსტის წარმოთქმა
 compare-shared-reader-mode = კითხვის რეჟიმი

@@ -23,6 +23,7 @@ sub-navigation-desktop-beta-and-developer = კომპიუტერზე { 
 sub-navigation-desktop-nightly = კომპიუტერზე { -brand-name-nightly }
 sub-navigation-features = შესაძლებლობები
 sub-navigation-support = მხარდაჭერა
+sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = დამატებები
 sub-navigation-add-ons = დამატებები
@@ -36,7 +37,6 @@ sub-navigation-android-add-ons = { -brand-name-android } დამატებ�
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
-sub-navigation-lockwise = { -brand-name-lockwise }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-ბიტიანი
 sub-navigation-mac = { -brand-name-mac-short }
