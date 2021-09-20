@@ -27,3 +27,7 @@ mobile-ios-get-more-firefox = Obtene plus { -brand-name-firefox } in tu vita
 mobile-ios-add-firefox-across = Installa { -brand-name-firefox } sur tote tu apparatos pro navigation secur e sin interruptiones. Con { -brand-name-sync }, tu pote synchronisar tu apparatos e portar tu marcapaginas favorite, credentiales salvate, contrasignos e historia de navigation con te, non importa ubi tu va. De plus, tu pote inviar schedas aperte inter telephono e scriptorio pro reprender ubi tu restava.
 mobile-ios-find-it-all = Trova toto plus rapidemente
 mobile-ios-get-search-suggestions = Obtene suggestiones in le barra de recerca e accede rapidemente al sitos que tu visita le plus. Digita tu consulta e obtene resultatos suggerite e resultatos previemente cercate in tote tu motores de recerca favorite.
+mobile-ios-keep-tabs-on = Prende le controlo de tu schedas
+mobile-ios-create-as-many = Crea tante schedas como tu vole sin perder le tracia. { -brand-name-firefox } monstra tu schedas aperte como miniaturas e schedas numerate, rendente facile trovar rapidemente lo que tu vole.
+mobile-ios-discover-more-of = Discoperi plus de lo que tu ama
+mobile-ios-open-a-new = Aperi un nove scheda in { -brand-name-firefox } pro vider le sitos que tu visita le plus, tu marcapaginas recente e articulos popular in { -brand-name-pocket }. { -brand-name-firefox } te da accesso rapide al sitos recentemente visitate pro adjutar te a arrivar plus rapidemente a tu destination.
