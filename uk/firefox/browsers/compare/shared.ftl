@@ -35,11 +35,11 @@ compare-shared-password-management = Керування паролями
 compare-shared-primary-password = Головний пароль
 # Obsolete string
 compare-shared-master-password = Головний пароль
-compare-shared-security-and-privacy = Безпека та приватність
+compare-shared-security-and-privacy = Безпека й приватність
 compare-shared-utility = Функції
 compare-shared-portability = Доступність
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Безпека та <strong>приватність</strong>
+compare-shared-security-and-privacy-strong = Безпека й <strong>приватність</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>Зручність</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
