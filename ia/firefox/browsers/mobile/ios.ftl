@@ -24,3 +24,6 @@ mobile-ios-firefox-gives-you = { -brand-name-firefox } te offere un melior prote
 mobile-ios-your-browsing-history = Tu historia de navigation deveni historia
 mobile-ios-if-you-want = Si tu vole, tu pote facilemente eliger de ir in linea e cercar in modo de navigation private. E quando tu claude le modo de navigation private, tu historia de navigation e tote le cookies se rade automaticamente de tu apparato.
 mobile-ios-get-more-firefox = Obtene plus { -brand-name-firefox } in tu vita
+mobile-ios-add-firefox-across = Installa { -brand-name-firefox } sur tote tu apparatos pro navigation secur e sin interruptiones. Con { -brand-name-sync }, tu pote synchronisar tu apparatos e portar tu marcapaginas favorite, credentiales salvate, contrasignos e historia de navigation con te, non importa ubi tu va. De plus, tu pote inviar schedas aperte inter telephono e scriptorio pro reprender ubi tu restava.
+mobile-ios-find-it-all = Trova toto plus rapidemente
+mobile-ios-get-search-suggestions = Obtene suggestiones in le barra de recerca e accede rapidemente al sitos que tu visita le plus. Digita tu consulta e obtene resultatos suggerite e resultatos previemente cercate in tote tu motores de recerca favorite.
