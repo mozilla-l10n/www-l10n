@@ -19,6 +19,7 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } per { -brand-name-an
 navigation-v2-get-the-customizable-mobile = Ottieni il browser mobile personalizzabile per smartphone { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } per { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Ottieni il browser per dispositivi mobili per il tuo { -brand-name-iphone } o { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-privacy-promise = Impegno per la privacy
 navigation-v2-learn-how-firefox-treats = Scopri come { -brand-name-firefox } garantisce il rispetto dei tuoi dati.
 navigation-v2-firefox-blog = Blog di { -brand-name-firefox }
