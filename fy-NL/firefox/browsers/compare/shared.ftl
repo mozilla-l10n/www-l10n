@@ -14,11 +14,13 @@ compare-shared-blocks-third-party-tracking-default = Blokkearret standert tracki
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Blokkearret tracking-cookies fan tredden
 compare-shared-blocks-cryptomining-scripts = Blokkearret cryptomining-scripts
+compare-shared-blocks-fingerprinting-scripts = Blokkearret fingerprintscripts
 compare-shared-blocks-social-trackers = Blokkearret sosjale trackers
 compare-shared-autoplay-blocking = Automatysk ôfspyljen blokkearje
 compare-shared-tab-browsing = Navigearje mei ljepblêden
 compare-shared-bookmark-manager = Blêdwizerbehearder
 compare-shared-automatically-fills-out-forms = Automatysk ynfoljen fan formulieren
+compare-shared-automatically-fills-out-payments = Automatysk ynfoljen fan betellingen
 compare-shared-search-engine-options = Sykmasine-opsjes
 compare-shared-text-to-speech = Tekst nei spraak
 compare-shared-reader-mode = Lêzermodus
