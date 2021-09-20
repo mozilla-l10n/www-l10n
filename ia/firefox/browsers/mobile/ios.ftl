@@ -16,3 +16,5 @@ mobile-ios-send-a-download-link-to-your = Inviar un ligamine de discargamento a 
 mobile-ios-scan-the-qr-code-to-get-started = Scanna le codice QR pro comenciar
 mobile-ios-scan-alt-text = Scanna le codice QR pro installar { -brand-name-firefox } sur { -brand-name-ios }
 mobile-ios-make-firefox-your = Face { -brand-name-firefox } tu navigator predefinite
+mobile-ios-now-iphone-and = Ora le usatores de { -brand-name-iphone } e { -brand-name-ipad } pote eliger lor proprie navigator predefinite. Isto significa que tu non es coercite a usar { -brand-name-safari } e que tu navigator mobile pote restar synchronisate con tu navigator favorite de scriptorio. In ultra, quando tu elige { -brand-name-firefox } como tu navigator predefinite, tu supporta un compania de technologia independente. { -brand-name-firefox } es le unic navigator importante que es sustenite per un organisation sin scopo de lucro.
+mobile-ios-fast-private-secure = Rapide. Private. Secur
