@@ -4,7 +4,7 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifesto de { -brand-name-mozilla }
-footer-privacy-hub = Cardine del confidentialitate
+footer-privacy-hub = Centro de confidentialitate
 footer-privacy = Confidentialitate
 footer-press = Pressa
 footer-corporate-blog = Blog corporative
