@@ -32,4 +32,7 @@ mobile-android-addons-are-like = Additivos es utensiles micre ma potente que tu 
 mobile-android-pick-up-where = Reprende ubi tu restava
 mobile-android-go-from-your = Passa de tu telephono a tu computator portabile, tabletta e vice versa sin perder tempore. Con { -brand-name-firefox } sur tote tu apparatos, tu pote portar tu favorites, contrasignos, credentiales salvate e historia de navigation con te, non importa ubi tu va.
 mobile-android-search-from-your = Cerca a partir del schermo initial de tu telephono
+mobile-android-no-need-to = Non es necessari aperir le application. Adde le widget de recerca de { -brand-name-firefox } e cerca in le web directemente ab le schermo initial de tu apparato.
+mobile-android-pin-videos-to = Fixar videos sur tu schermo
+mobile-android-pop-videos-out = Distacha videos de lor sitos web o reproductores e fixa los in le parte superior del schermo de tu telephono pro reguardar durante que tu naviga per le web e face altere cosas. Mantene te intertenite faciente plure cosas insimul.
 mobile-android-about-mozilla = A proposito de { -brand-name-mozilla }
