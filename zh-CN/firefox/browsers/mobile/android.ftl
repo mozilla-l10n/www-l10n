@@ -16,6 +16,7 @@ mobile-android-scan-alt-text = 扫码下载 { -brand-name-android } 版 { -brand
 mobile-android-fast-and-private = 快速又隐私
 mobile-android-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox } 提供便捷的隐私保护与轻快的页面加载。增强型跟踪保护可自动拦截在网上监视您且拖慢页面的在线跟踪器。
 mobile-android-one-tap-to = 隐私，一触即得
+mobile-android-search-your-own = 怎么顺手怎么搜
 mobile-android-save-power-with = 深色模式更省电
 mobile-android-switch-to-dark = 随时切换至深色模式，缓解眼睛疲劳并节省更多电量。
 mobile-android-easily-organize-your = 轻松管理您的标签页

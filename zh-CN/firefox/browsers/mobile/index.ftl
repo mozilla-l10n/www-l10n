@@ -8,6 +8,8 @@
 browsers-mobile-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox }
 browsers-mobile-firefox-for-ios = { -brand-name-ios } 版 { -brand-name-firefox }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-compare-mobile-browsers = 比较移动浏览器
+browsers-mobile-compare = 比较
 browsers-mobile-download = 下载
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
