@@ -140,7 +140,7 @@ vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
-vpn-landing-invite-privacy-policy = A „Csatlakozás a várólistához” gombra kattintva elfogadja az <a href="{ $privacy }">adatvédelmi irányelveinket</a>.
+vpn-landing-invite-privacy-policy = A „Csatlakozzon a várólistához” gombra kattintva elfogadja az <a href="{ $privacy }">adatvédelmi irányelveinket</a>.
 vpn-landing-invite-your-information = Adatait csak arra használjuk, hogy értesítsük a platform elérhetőségéről.
 vpn-landing-invite-thanks-heading = Köszönjük! Felkerült a listára
 vpn-landing-invite-thanks-desc = Amint a { -brand-name-mozilla-vpn } elérhetővé válik az Ön régiójában, e-mailt küldünk Önnek.
