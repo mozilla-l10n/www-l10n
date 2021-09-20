@@ -20,6 +20,7 @@ navigation-v2-get-the-customizable-mobile = Ereko kundahára oku’éva momba’
 navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg̃uarã
 navigation-v2-get-the-mobile-browser = - Ereko kundahára oku’éva { -brand-name-iphone } peg̃uarã térã { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Ñeikundaha pumbyry ñemigua.
 navigation-v2-privacy-promise = Ñemigua Ñe’ẽme’ẽ
 navigation-v2-learn-how-firefox-treats = Eikuaa mba’éichapa { -brand-name-firefox } oreko poyhúpe ne mba’ekuaarã.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog

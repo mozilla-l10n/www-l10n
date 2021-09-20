@@ -11,6 +11,7 @@ sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = Emoñondive Kundahára
+sub-navigation-compare-mobile-browsers = Emoñondive kundahára pumbyrygua
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } mesa ariguápe
 sub-navigation-release-notes = Jehaipy rehegua
 sub-navigation-desktop = Mesa arigua

@@ -8,5 +8,7 @@
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg̃uarã
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-compare-mobile-browsers = Emoñondive kundahára pumbyrygua
+browsers-mobile-compare = Moñondive
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
