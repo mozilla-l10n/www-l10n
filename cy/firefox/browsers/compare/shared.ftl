@@ -14,6 +14,7 @@ compare-shared-blocks-third-party-tracking-default = Wedi ei ragosod i rwystro c
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Yn rhwystro cwcis tracio trydydd parti
 compare-shared-blocks-cryptomining-scripts = Yn rhwystro sgriptiau cryptogloddio
+compare-shared-blocks-fingerprinting-scripts = Yn rhwystro sgriptiau bysbrintio
 compare-shared-blocks-social-trackers = Yn rhwystro tracwyr cymdeithasol
 compare-shared-autoplay-blocking = Yn rhwystro awtochwarae
 compare-shared-tab-browsing = Pori tabiau

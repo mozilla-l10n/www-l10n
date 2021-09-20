@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/ (View on an Android or iOS browser)
 
 banner-firefox-app-store-title = { -brand-name-firefox }: Porwr Preifat a Diogel
+banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Y porwr preifatrwydd
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Am ddim - yn { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Am ddim - Yn yr { -brand-name-app-store }
