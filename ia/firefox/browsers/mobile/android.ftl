@@ -26,4 +26,6 @@ mobile-android-got-a-big = Ha un grande telephono e pollices de grandor normal? 
 mobile-android-save-power-with = Economisa energia con le modo obscur
 mobile-android-switch-to-dark = Commuta al modo obscur a qualcunque momento pro reducer le fatiga visual e prolongar le energia de tu batteria.
 mobile-android-easily-organize-your = Organisa facilemente tu schedas
+mobile-android-got-lots-of = Ha un massa de schedas aperte? Nulle problema, organisa los in Collectiones pro evitar distractiones. Iste collectiones pote esser condividite inter apparatos de sorta que tu pote continuar a navigar le mesme cosas non importa qual apparato tu usa.
+mobile-android-supercharge-firefox-with = Augmenta { -brand-name-firefox } con Additivos
 mobile-android-about-mozilla = A proposito de { -brand-name-mozilla }
