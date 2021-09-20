@@ -22,4 +22,5 @@ mobile-android-firefox-for-android = { -brand-name-firefox } pro { -brand-name-a
 mobile-android-one-tap-to = Un tocco pro le modo private
 mobile-android-get-to-private = Accede al modo de navigation private con solo un tocco. E quando tu claude le modo de navigation private, tu historia de navigation se rade automaticamente de tu apparato.
 mobile-android-search-your-own = Cerca de tu maniera
+mobile-android-got-a-big = Ha un grande telephono e pollices de grandor normal? Nulle problema. { -brand-name-firefox } pro { -brand-name-android } te permitte displaciar le barra de recerca de alto a basso, lo que facilita su uso con un mano. In ultra, tu pote eliger tu proprie motor de recerca in le navigator e eliger { -brand-name-firefox } como tu navigator predefinite si tu vole.
 mobile-android-about-mozilla = A proposito de { -brand-name-mozilla }
