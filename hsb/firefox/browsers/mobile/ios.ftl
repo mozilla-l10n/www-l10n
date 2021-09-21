@@ -19,4 +19,5 @@ mobile-ios-stay-private-online = Wostańće priwatny online
 mobile-ios-your-browsing-history = Waša přehladowanska historija je historija
 mobile-ios-get-more-firefox = Wobstarajće sej wjace { -brand-name-firefox } w swojim žiwjenju
 mobile-ios-find-it-all = Spěšnišo namakać
+mobile-ios-discover-more-of = Wokryjće wjace wo tym, štož so wam spodoba
 mobile-ios-about-mozilla = Wo { -brand-name-mozilla }
