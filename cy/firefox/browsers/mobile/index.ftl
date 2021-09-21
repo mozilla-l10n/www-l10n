@@ -15,3 +15,8 @@ browsers-mobile-get-the-mobile-browser-privacy = Cael y porwr symudol sy'n rhoi 
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = Yn hynod gyfaddasadwy, preifat a diogel, mae { -brand-name-firefox } { -brand-name-android } yn borwr cyflym iawn na fydd byth yn eich gadael chi lawr.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }
+# "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
+browsers-mobile-get-enhanced-tracking-protection = Cael Diogelwch Uwch rhag Tracio a  a gwneud { -brand-name-firefox } eich prif borwr parhaol ar eich { -brand-name-iphone } a { -brand-name-ipad }.
+browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = Ydych chi'n chwilio am borwr symudol cyflym, chwim gyda nodweddion preifatrwydd uchel iawn? Mae { -brand-name-firefox-focus } yn dileu eich holl hanes pori yn awtomatig o'r eiliad y byddwch chi'n agor eich porwr i'r eiliad y byddwch chi'n ei gau.
+browsers-mobile-compare-mobile-browsers = Cymharu porwyr symudol
