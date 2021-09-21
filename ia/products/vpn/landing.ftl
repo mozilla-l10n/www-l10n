@@ -111,7 +111,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-solo)
 vpn-landing-faq-refund-question-heading = Que es le regulamento de reimbursamento de { -brand-name-mozilla-vpn }?
-vpn-landing-faq-refund-question-desc = Tu pote haber reimbursate tu moneta intra 30 dies del compra de tu subscription. Continge nos e invia le requesta de reimbursamento pulsante le button “Demandar adjuta” in Parametros sur tu app { -brand-name-mozilla-vpn }.
+vpn-landing-faq-refund-question-desc = Tu pote facer te reimbursar tu moneta intra 30 dies post le compra de tu subscription. Contacta nos e invia le requesta de reimbursamento pulsante le button “Demandar adjuta” in Parametros sur tu application { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Como gere io mi subscription?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
