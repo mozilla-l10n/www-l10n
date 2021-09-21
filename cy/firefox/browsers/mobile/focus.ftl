@@ -22,3 +22,5 @@ mobile-focus-easily-erase-your = Dilëwch eich hanes, cyfrineiriau a chwcis yn h
 mobile-focus-take-private-mode = Ewch â'r modd preifat i'r lefel nesaf
 mobile-focus-private-browsing-on = Nid yw “pori preifat” ar y mwyafrif o borwyr yn breifat iawn. Mae { -brand-name-firefox-focus } yn llawer mwy, yn breifat o hyd ac yn cael ei gefnogi gan { -brand-name-mozilla }, y corff  dim-er-elw sy'n ymladd dros eich hawliau ar y we.
 mobile-focus-tracking-protection = Diogelwch rhag Tracio
+mobile-focus-firefox-focus-blocks = Mae { -brand-name-firefox-focus } yn rhwystro ystod eang o dracwyr cyffredin fel rhagosodiad gan gynnwys tracwyr cymdeithasol a'r rhai gludiog hynny sy'n dod o bethau fel hysbysebion { -brand-name-facebook }.
+mobile-focus-ad-blocking = Rhwystro hysbysebion
