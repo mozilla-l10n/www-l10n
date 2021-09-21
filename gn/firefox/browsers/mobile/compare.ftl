@@ -7,9 +7,11 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = Emoñondive umi 5 kundahára pumbyrygua
+mobile-compare-which-mobile-browser = ¿Mba’e kundahára pumbyrygua oreko imba’e kañyhápe?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Mboja’opy</strong>
 mobile-compare-features = Mboja’opy
+mobile-compare-what-can-your = ¿Mba’e ojapokuaa kundahára nderehe?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Mbojuehepyre</strong>
 mobile-compare-syncing = Mbojuehepyre
