@@ -16,6 +16,7 @@ mobile-android-when-you-download = Emboguejy vove { -brand-name-firefox }, eipor
 mobile-android-get-firefox-for = Erekóke { -brand-name-firefox } { -brand-name-android } peg̃uarã
 mobile-android-send-a-download-link-to-your = Emondo juajuha mboguejyrã ne pumbyrýpe.
 mobile-android-scan-the-qr-code-to-get-started = Emoha’ãnga QR ayvu eñepyrũ hag̃ua
+mobile-android-scan-alt-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-name-firefox } { -brand-name-android }-pe
 mobile-android-fast-and-private = Ipya’e ha Hekoñemi
 mobile-android-one-tap-to = Jepoko tekoñemi ayvúpe g̃uarã
 mobile-android-search-your-own = Eheka mba’éichapa
