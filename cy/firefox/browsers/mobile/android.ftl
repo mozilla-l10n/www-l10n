@@ -36,3 +36,4 @@ mobile-android-no-need-to = Nid oes angen agor yr ap. Ychwanegwch y teclyn chwil
 mobile-android-pin-videos-to = Piniwch fideos i'ch sgrin
 mobile-android-pop-videos-out = Agorwch fideos allan o'u gwefannau neu chwaraewyr a'u pinio i frig sgrin eich ffôn i'w gwylio wrth i chi syrffio'r we a gwneud pethau eraill. Difyrrwch wrth amldasgio.
 mobile-android-about-mozilla = Ynghylch { -brand-name-mozilla }
+mobile-android-mozilla-exists-to = Mae { -brand-name-mozilla } yn bodoli i adeiladu'r Rhyngrwyd fel adnodd cyhoeddus sy'n hygyrch i bawb am ein bod yn credu fod agored ac am ddim yn well na caeedig a rheoledig. Rydym yn adeiladu cynnyrch fel { -brand-name-firefox } a { -brand-name-pocket } i hyrwyddo dewis, tryloywder a rheolaeth.
