@@ -15,11 +15,14 @@ compare-shared-blocks-third-party-tracking-default = يَحجب ملفات تع�
 # Obsolete string
 compare-shared-blocks-third-party-tracking = يَحجب ملفات تعريف الارتباط التعقّبية الخاصة بأطراف ثالثة
 compare-shared-blocks-cryptomining-scripts = يحجب نُصوص التنقيب الإلكتروني عن العمليات المشفرة
+compare-shared-blocks-fingerprinting-scripts = حجب برامج تتبع البصمات
 compare-shared-blocks-social-trackers = يَحجب المُتعقّبات الاجتماعية
+compare-shared-dashboard-to-review = لوحة بيانات لمراجعة المُتعقِّبات المحجوبة
 compare-shared-autoplay-blocking = حجب التشغيل التلقائي
 compare-shared-tab-browsing = تصفّح علامات التبويب
 compare-shared-bookmark-manager = مدير العلامات المرجعية
 compare-shared-automatically-fills-out-forms = استكمال النماذج تلقائيًا
+compare-shared-automatically-fills-out-payments = استكمال عمليات الدفع تلقائيًا
 compare-shared-search-engine-options = خيارات محرّكات البحث
 compare-shared-text-to-speech = نطق النصوص
 compare-shared-reader-mode = وضع القارئ
