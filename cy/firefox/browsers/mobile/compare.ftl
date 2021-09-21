@@ -19,3 +19,10 @@ mobile-compare-from-the-chart = O'r siart uchod, mae'n amlwg bod { -brand-name-f
 mobile-compare-features-strong = <strong>Nodweddion</strong>
 mobile-compare-features = Nodweddion
 mobile-compare-what-can-your = Beth all eich porwr ei wneud i chi?
+mobile-compare-a-main-ingredient = Prif nodwedd porwr da yw ei ymarferoldeb. Beth all ei wneud? Mae bron pob un o'r pum porwr yn gyfartal o ran tabiau, nodau tudalen, cwblhau meysydd yn awtomatig, ond dim ond { -brand-name-firefox } a { -brand-name-safari } sy'n cynnig ychwanegion/estyniadau, sy'n fath o fel apiau i'ch porwr i'w wneud yn fwy preifat, pwerus neu'n fwy o hwyl.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>Cydweddu</strong>
+mobile-compare-syncing = Cydweddu
+mobile-compare-does-your-browser = A yw'ch porwr yn cyd-fynd yn dda gyda dyfeisiau eraill?
+mobile-compare-the-mobile-version = Mae'r fersiwn symudol o { -brand-name-safari }, sydd wedi'i osod ymlaen llaw ar ddyfeisiau symudol { -brand-name-apple }, ond yn gydnaws â dyfeisiau { -brand-name-apple } eraill fel { -brand-name-ipad } a { -brand-name-mac-short }. Mae { -brand-name-firefox }, { -brand-name-chrome }, a { -brand-name-opera } yn gweithio ar draws pob platfform gan gynnwys { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short }, a { -brand-name-linux }, ar wahân i i'r porwr { -brand-name-edge } sydd ddim yn gydnaws gyda dyfeisiau wedi'u seilio ar { -brand-name-linux }.
+mobile-compare-almost-all-of = Mae bron pob un o'r porwyr symudol sy'n cael eu cymharu yma yn caniatáu cydweddu llwyr rhwng dyfeisiau symudol a bwrdd gwaith.
