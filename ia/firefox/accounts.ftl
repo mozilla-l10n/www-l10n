@@ -19,7 +19,7 @@ firefox-accounts-there-is-a-way-to-protect = Il ha un maniera de proteger tu vit
 firefox-accounts-take-your-stand-against = Prende position contra un industria pro le qual tu es le producto a vender.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Tu ha aperite <br>session in { -brand-name-firefox }. <br><span>Ora prova { -brand-name-firefox-monitor }.</span>
-firefox-accounts-see-if-youve-been = Vide si tu ha essite implicate in un violation de datos online.
+firefox-accounts-see-if-youve-been = Verifica si tu ha essite implicate in un violation de datos in linea.
 firefox-accounts-sign-in-to-monitor = Aperir session a { -brand-name-monitor }
 firefox-accounts-join-firefox = Junge te a { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Insere tu adresse de e-mail pro comenciar.
@@ -45,7 +45,7 @@ firefox-accounts-youll-always-get-the = Tu recipera sempre le veritate ab nos. T
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Colliger minus.<br> Con securitate.<br> Sin secretos.
 firefox-accounts-get-the-knowledge = Acquire le cognoscentia pro mantener te secur.
-firefox-accounts-learn-everything-you = Apprende tote lo que tu debe saper sur mantener te astute e secur online per alcunes del expertos principal del mundo.
+firefox-accounts-learn-everything-you = Apprende tote lo que tu debe saper sur mantener te astute e secur in linea ab alcunes del expertos principal del mundo.
 firefox-accounts-and-be-part-of-protecting = E contribue al protection de internet, pro futur generationes.
 firefox-accounts-help-us-build-a-better = Adjuta nos a producer un { -brand-name-firefox } melior pro totes.
 firefox-accounts-get-into-the-open = Adopta le spirito open-source e proba le proxime productos.
