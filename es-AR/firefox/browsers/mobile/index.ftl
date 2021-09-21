@@ -7,6 +7,8 @@
 
 # HTML page title
 browsers-mobile-firefox-mobile-browsers-put = Los navegadores móviles { -brand-name-firefox } dan prioridad a tu privacidad
+# HTML page description
+browsers-mobile-overview-of-all-mobile = Una descripción general de todos los navegadores móviles de { -brand-name-firefox } ({ -brand-name-firefox } para { -brand-name-android }, { -brand-name-firefox } para { -brand-name-ios }, { -brand-name-firefox-focus })
 browsers-mobile-at-home-or-on-the-move = En casa o en movimiento, merecés privacidad en cada dispositivo. La Protección contra rastreo aumentada es automática en todos los navegadores móviles { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-get-the-mobile-browser-privacy = Conseguí el navegador móvil que prioriza tu <strong>privacidad</strong>
