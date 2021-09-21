@@ -23,3 +23,8 @@ vpn-ip-address-yes-even-if = Ano. I když používáte internet pouze doma, mů�
 vpn-ip-address-can-more-than = Může mít více zařízení tutéž IP adresu?
 vpn-ip-address-this-is-a = To je trochu ošemetná otázka – odpověď zní ano i ne. Více zařízení může sdílet stejnou vnější (veřejnou) IP adresu, ale každé zařízení bude mít svou vlastní místní (soukromou) IP adresu. Například váš poskytovatel internetového připojení (ISP) nastaví vaší domácnosti jednu vnější IP adresu. Protože k internetu se fakticky připojuje váš směrovač, je tato IP adresa přidělena vašemu směrovači. Váš směrovač pak každému zařízení, které je v daném okamžiku připojeno k internetu, přidělí místní IP adresu. Vnější IP adresa je ta, která je sdílena s vnějším světem. Vaše místní IP adresa není sdílena mimo vaši soukromou domácí síť.
 vpn-ip-address-can-we-run = Mohou nám dojít?
+# Variables
+#   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
+#   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
+vpn-ip-address-when-the-internet = Když byl internet poprvé navržen, používal adresy „verze 4“. Ty mají 32 bitů, což znamená, že bychom mohli mít až <a href="{ $sr }">4,2 miliardy adres</a>. V té době se to zdálo být dost, ale ve světě, kde průměrná americká domácnost měla <a href="{ $variety }">11 připojených zařízení</a>, to zdaleka nestačí.
+vpn-ip-address-should-you-hide = Měli byste svou IP adresu skrývat?
