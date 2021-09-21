@@ -27,4 +27,5 @@ vpn-ip-address-can-we-run = Mohou nám dojít?
 #   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
 #   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
 vpn-ip-address-when-the-internet = Když byl internet poprvé navržen, používal adresy „verze 4“. Ty mají 32 bitů, což znamená, že bychom mohli mít až <a href="{ $sr }">4,2 miliardy adres</a>. V té době se to zdálo být dost, ale ve světě, kde průměrná americká domácnost měla <a href="{ $variety }">11 připojených zařízení</a>, to zdaleka nestačí.
+vpn-ip-address-we-now-have = Nyní máme IP adresy verze 6, které mají 128 bitů na adresu. Bohužel verze 4 a verze 6 spolu nemohou přímo komunikovat, takže lidé budou adresy verze 4 ještě dlouho potřebovat.
 vpn-ip-address-should-you-hide = Měli byste svou IP adresu skrývat?
