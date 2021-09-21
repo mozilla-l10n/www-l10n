@@ -20,3 +20,4 @@ browsers-mobile-get-enhanced-tracking-protection = Cael Diogelwch Uwch rhag Trac
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Ydych chi'n chwilio am borwr symudol cyflym, chwim gyda nodweddion preifatrwydd uchel iawn? Mae { -brand-name-firefox-focus } yn dileu eich holl hanes pori yn awtomatig o'r eiliad y byddwch chi'n agor eich porwr i'r eiliad y byddwch chi'n ei gau.
 browsers-mobile-compare-mobile-browsers = Cymharu porwyr symudol
+browsers-mobile-see-how-firefox-stacks-up = Gweld sut mae { -brand-name-firefox } yn cymharu â phorwyr poblogaidd eraill pan ddaw at y tri mawr: preifatrwydd, nodweddion a chydweddu.
