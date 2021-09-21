@@ -11,8 +11,6 @@ facebook-container-get-the-facebook-container = { -brand-name-facebook-container
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } をダウンロードして { -brand-name-facebook-container } 拡張機能をご利用ください
 facebook-container-only-available-for-desktop = { -brand-name-facebook-container } 拡張機能は現在デスクトップ用 { -brand-name-firefox } のみで利用可能です。
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/

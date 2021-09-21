@@ -11,8 +11,6 @@ facebook-container-get-the-facebook-container = Dapatkan Sambungan { -brand-name
 facebook-container-download-firefox-and-get-the = Muat turun { -brand-name-firefox } dan dapatkan Sambungan { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Pada masa ini, Sambungan { -brand-name-facebook-container } hanya tersedia kepada { -brand-name-firefox } untuk Desktop.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
