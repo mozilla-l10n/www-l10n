@@ -1,0 +1,17 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
+
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Y porwr preifatrwydd
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } yw eich porwr preifatrwydd pwrpasol gyda diogelwch rhag tracio awtomatig a rhwystro hysbysebion.
+mobile-focus-firefox-focus = { -brand-name-firefox-focus }
+mobile-focus-simply-private-mobile = Pori symudol preifat
+mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } yw eich porwr preifatrwydd pwrpasol gyda diogelwch rhag tracio awtomatig a rhwystro hysbysebion. Gyda { -brand-name-focus }, mae eich tudalennau'n llwytho'n gyflymach ac mae'ch data'n aros yn breifat.
+mobile-focus-firefox-focus-is-available = Mae { -brand-name-firefox-focus } ar gael ar gyfer dyfeisiau { -brand-name-ios } a { -brand-name-android }.
+mobile-focus-get-firefox-focus = Cael { -brand-name-firefox-focus }
+mobile-focus-send-a-download-link-to-your = Anfonwch ddolen llwytho i'ch ffôn.
