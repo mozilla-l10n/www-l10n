@@ -5,6 +5,7 @@
 ### URL: https://www-dev.allizom.org/firefox/ (View on an Android or iOS browser)
 
 banner-firefox-app-store-title = { -brand-name-firefox }: Peramban Pribadi dan Aman
+banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Peramban privasi
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Gratis – di { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Gratis – di { -brand-name-app-store }
