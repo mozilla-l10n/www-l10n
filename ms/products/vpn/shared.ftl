@@ -68,6 +68,8 @@ vpn-shared-features-strong-servers = Pelayan yang mantap di { $countries }+ nega
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Sambungkan sehingga { $devices } peranti
 
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = Jaminan wang dikembalikan dalam 30 hari
 
 vpn-shared-refund-policy = Polisi Bayaran Balik
 vpn-shared-privacy-notice = Notis Privasi
