@@ -24,6 +24,8 @@ mobile-ios-firefox-gives-you = { -brand-name-firefox } gives you greater privacy
 mobile-ios-your-browsing-history = Your browsing history is history
 mobile-ios-if-you-want = If you want, you can easily select to go online and search in private browsing mode. And when you close private browsing mode, your browsing history and any cookies are automatically erased from your device.
 mobile-ios-get-more-firefox = Get more { -brand-name-firefox } in your life
+mobile-ios-add-firefox-across-v2 = Add { -brand-name-firefox } across your devices for secure, seamless browsing. Synchronise your devices to take your favourite bookmarks, saved logins, passwords and browsing history wherever you go. Plus, send open tabs between your phone and desktop to pick up where you left off.
+# Obsolete string
 mobile-ios-add-firefox-across = Add { -brand-name-firefox } across your devices for secure, seamless browsing. { -brand-name-sync } your devices to take your favourite bookmarks, saved logins, passwords and browsing history wherever you go. Plus, send open tabs between your phone and desktop to pick up where you left off.
 mobile-ios-find-it-all = Find it all faster
 mobile-ios-get-search-suggestions = Get search suggestions in the search bar and quickly access the sites you visit most. Type in your search question, and get suggested and previously searched results across your favourite search engines.
