@@ -15,6 +15,7 @@ mobile-compare-what-can-your = ¿Mba’e ojapokuaa kundahára nderehe?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Mbojuehepyre</strong>
 mobile-compare-syncing = Mbojuehepyre
+mobile-compare-does-your-browser = ¿Ne kundahára oikoporã ambue mba’e’oka ndive?
 mobile-compare-conclusion = Mohu’ã
 mobile-compare-search-engine-options = Mongu’eha jeporavorã jeheka
 mobile-compare-text-to-speech = Moñe’ẽrã ayvúpe
@@ -32,6 +33,8 @@ mobile-compare-news-feed = Marandu
 mobile-compare-collections = Ñembyatyha
 mobile-compare-inapp-vpn = VPN tembipuru’ípe
 mobile-compare-shopping = Ñemuhaguasu
+mobile-compare-mobile-os-availability = Eipurukuaa pumbyry apopyvusúpe g̃uarã
+mobile-compare-syncs-with-desktopmobile = Oñembojuehe tembipuru’i mesa arigua/pumbyry
 mobile-compare-password-management = Ñe’ẽñemi ñemoheñói
 mobile-compare-primary-password = Ñe’ẽñemi ñepyrũgua
 mobile-compare-get-firefox-for-mobile = Erekóke { -brand-name-firefox } pumbyrýpe g̃uarã
