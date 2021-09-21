@@ -14,3 +14,7 @@ mobile-android-firefox-browser = { -brand-name-firefox-browser }
 mobile-android-go-mobile-go = Ewch yn symudol. Ewch yn nannibynnol gyda { -brand-name-firefox } ar gyfer { -brand-name-android }
 mobile-android-when-you-download = Pan fyddwch yn llwytho { -brand-name-firefox } i lawr, rydych chi'n dewis cefnogi cwmni technoleg annibynnol. { brand-name-firefox } yw'r unig borwr mawr sy'n cael ei gefnogi gan gorff dim-er-elw sy'n brwydro i cynnig   mwy o ryddid, tryloywder a rheolaeth i'ch bywyd ar-lein.
 mobile-android-get-firefox-for = Cael { -brand-name-firefox } ar gyfer { -brand-name-android }
+mobile-android-send-a-download-link-to-your = Anfonwch ddolen llwytho i'ch ffôn.
+mobile-android-scan-the-qr-code-to-get-started = Sganiwch y cod QR i gychwyn
+mobile-android-scan-alt-text = Sganiwch y cod QR i gael { -brand-name-firefox } ar { -brand-name-android }
+mobile-android-fast-and-private = Cyflym a Phreifat
