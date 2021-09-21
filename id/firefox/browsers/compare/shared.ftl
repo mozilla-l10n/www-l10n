@@ -15,11 +15,14 @@ compare-shared-blocks-third-party-tracking-default = Blokir pelacak kuki pihak k
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Blokir pelacak kuki pihak ketiga
 compare-shared-blocks-cryptomining-scripts = Memblokir skrip penambangan kripto
+compare-shared-blocks-fingerprinting-scripts = Memblokir skrip pengumpulan sidik jari (fingerprinting)
 compare-shared-blocks-social-trackers = Blokir pelacak sosial
+compare-shared-dashboard-to-review = Dasbor untuk meninjau pelacak yang diblokir
 compare-shared-autoplay-blocking = Pemblokiran pemutaran otomatis
 compare-shared-tab-browsing = Penjelajahan tab
 compare-shared-bookmark-manager = Pengelola markah
 compare-shared-automatically-fills-out-forms = Pengisian formulir secara otomatis
+compare-shared-automatically-fills-out-payments = Secara otomatis mengisi pembayaran
 compare-shared-search-engine-options = Opsi mesin pencari
 compare-shared-text-to-speech = Pengucapan teks
 compare-shared-reader-mode = Mode baca
