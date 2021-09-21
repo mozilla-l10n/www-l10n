@@ -12,5 +12,6 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } pe
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Emoñondive kundahára pumbyrygua
 browsers-mobile-compare = Moñondive
+browsers-mobile-download = Mboguejy
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

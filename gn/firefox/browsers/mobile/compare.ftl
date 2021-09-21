@@ -38,3 +38,6 @@ mobile-compare-syncs-with-desktopmobile = Oñembojuehe tembipuru’i mesa arigua
 mobile-compare-password-management = Ñe’ẽñemi ñemoheñói
 mobile-compare-primary-password = Ñe’ẽñemi ñepyrũgua
 mobile-compare-get-firefox-for-mobile = Erekóke { -brand-name-firefox } pumbyrýpe g̃uarã
+mobile-compare-send-a-download-link-to-your = Emondo juajuha mboguejyrã ne pumbyrýpe.
+mobile-compare-scan-the-qr-code-to-get-started = Emoha’ãnga QR ayvu eñepyrũ hag̃ua
+mobile-compare-scan-alt-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-name-firefox } ne pumbyrýpe

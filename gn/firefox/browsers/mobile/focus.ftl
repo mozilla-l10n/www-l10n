@@ -3,9 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Kundahára hekoñemíva
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
+mobile-focus-simply-private-mobile = Ñeikundaha pumbyry ñemiguápe
+mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } eipurukuaa mba’e’okápe { -brand-name-ios } ndive ha { -brand-name-android }.
 mobile-focus-get-firefox-focus = Erekóke { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Emondo juajuha mboguejyrã ne pumbyrýpe.
 mobile-focus-scan-the-qr-code-to-get-started = Emoha’ãnga QR ayvu eñepyrũ hag̃ua
