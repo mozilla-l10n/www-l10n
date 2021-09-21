@@ -24,6 +24,8 @@ mobile-ios-firefox-gives-you = { -brand-name-firefox } bietet Ihnen besseren Dat
 mobile-ios-your-browsing-history = Ihre Surf-Chronik ist Geschichte
 mobile-ios-if-you-want = Wenn Sie möchten, können Sie ganz einfach online gehen und im privaten Browsermodus suchen. Und wenn Sie den privaten Browsermodus schließen, werden Ihre Surf-Chronik und alle Cookies automatisch von Ihrem Gerät gelöscht.
 mobile-ios-get-more-firefox = Holen Sie sich mehr { -brand-name-firefox } in Ihr Leben
+mobile-ios-add-firefox-across-v2 = Installieren Sie { -brand-name-firefox } auf Ihren Geräten, um sicheres, nahtloses Surfen zu ermöglichen. Synchronisieren Sie Ihre Geräte, um Ihre Lieblingslesezeichen, gespeicherten Zugangsdaten, Passwörter und die Surf-Chronik überallhin mitzunehmen. Versenden Sie außerdem geöffnete Tabs von Ihrem Handy auf Ihren Desktop-PC, um dort weiterzumachen, wo Sie aufgehört haben.
+# Obsolete string
 mobile-ios-add-firefox-across = Installieren Sie { -brand-name-firefox } auf Ihren Geräten, um sicheres, nahtloses Surfen zu ermöglichen. Mit { -brand-name-sync } können Sie Ihre Geräte synchronisieren, um Ihre Lieblingslesezeichen, gespeicherten Logins, Passwörter und die Surf-Chronik überallhin mitzunehmen. Versenden Sie außerdem geöffnete Tabs von Ihrem Handy auf Ihren Desktop-PC, um dort weiterzumachen, wo Sie aufgehört haben.
 mobile-ios-find-it-all = Schneller finden
 mobile-ios-get-search-suggestions = Erhalten Sie Suchvorschläge in der Suchleiste und greifen Sie schnell auf die Websites zu, die Sie am häufigsten besuchen. Geben Sie Ihre Suchfrage ein und erhalten Sie vorgeschlagene und zuvor gesuchte Ergebnisse in Ihren bevorzugten Suchmaschinen.
