@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Elakkan maklumat salah dalam talian – { -brand-name-firefox } sedia membantu
 misinformation-page-desc = Salah maklumat memang menjengkelkan, mengganggu dan mahal. { -brand-name-firefox } ada beberapa tip untuk mengelakkan maklumat palsu – dan kurang melihatnya semasa anda melayari web.
 misinformation-page-subheading = Lihat tip untuk kurang melihat maklumat salah dan fokus pada perkara yang penting bagi anda
