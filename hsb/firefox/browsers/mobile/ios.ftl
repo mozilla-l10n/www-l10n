@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } za { -brand-name-ios } ({ -brand-name-iphone } a { -brand-name-ipad })
+# HTML description
+mobile-ios-firefox-browser-for = Wobhladowak { -brand-name-firefox } za { -brand-name-ios } je spěšny, wěsty a priwatny, hdyž jón wočinjeće.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-automatic-privacy = Wobstarajće sej awtomatisku priwatnosć za waš { -brand-name-iphone } a { -brand-name-ipad }.
 mobile-ios-get-firefox-for = Wobstarajće sej { -brand-name-firefox } za { -brand-name-ios }
