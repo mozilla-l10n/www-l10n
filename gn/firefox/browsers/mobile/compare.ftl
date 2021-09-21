@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+# HTML page title
+mobile-compare-5-of-the-best = Emoñondive umi 5 kundahára pumbyrygua
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Mboja’opy</strong>
 mobile-compare-features = Mboja’opy
