@@ -12,6 +12,7 @@ sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = قارِن بين المتصفحات
+sub-navigation-compare-mobile-browsers = مقارنة بين مُتصفحات الأجهزة المحمولة
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } لأجهزة الكمبيوتر
 sub-navigation-release-notes = ملاحظات الإصدار
 sub-navigation-desktop = أجهزة الكمبيوتر
@@ -24,6 +25,7 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } و{ -brand-name
 sub-navigation-desktop-nightly = { -brand-name-nightly } لأجهزة الكمبيوتر
 sub-navigation-features = الميزات
 sub-navigation-support = الدعم
+sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = الوظائف الإضافية
