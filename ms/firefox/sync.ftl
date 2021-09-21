@@ -8,6 +8,7 @@ firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 
 firefox-sync-access-and-sync = Akses dan selaraskan tandabuku, kata laluan, tab terbuka dan banyak lagi — di mana sahaja anda menggunakan { -brand-name-firefox }.
 
+firefox-sync-firefox = { -brand-name-firefox-browser }
 
 firefox-sync-sync-your-firefox = Selaraskan { -brand-name-firefox } pada mana-mana peranti
 
