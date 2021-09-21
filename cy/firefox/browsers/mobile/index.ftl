@@ -21,3 +21,15 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Ydych chi'n chwilio am borwr symudol cyflym, chwim gyda nodweddion preifatrwydd uchel iawn? Mae { -brand-name-firefox-focus } yn dileu eich holl hanes pori yn awtomatig o'r eiliad y byddwch chi'n agor eich porwr i'r eiliad y byddwch chi'n ei gau.
 browsers-mobile-compare-mobile-browsers = Cymharu porwyr symudol
 browsers-mobile-see-how-firefox-stacks-up = Gweld sut mae { -brand-name-firefox } yn cymharu â phorwyr poblogaidd eraill pan ddaw at y tri mawr: preifatrwydd, nodweddion a chydweddu.
+browsers-mobile-compare = Cymharu
+browsers-mobile-see-how-firefox-for-desktop-stacks = Gweld sut mae { -brand-name-firefox } symudol yn cymharu â saith porwr symudol arall.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Gweld sut mae { -brand-name-firefox } ar gyfer y <strong>bwrdd gwaith</strong> yn cymharu â saith porwr arall.
+browsers-mobile-join-firefox-and-get-the-most = Ymunwch â { -brand-name-firefox } a chael y gorau o bob cynnyrch - ar draws pob dyfais.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+browsers-mobile-already-have-an-account-sign = Eisoes â chyfrif? <a { $fxa_attr }>Mewngofnodwch</a> neu <a { $accounts_attr }> dysgu rhagor</a> am ymuno â { -brand-name-firefox }.
+browsers-mobile-download = Llwytho i Lawr
+browsers-mobile-android = { -brand-name-android }
+browsers-mobile-ios = { -brand-name-ios }
