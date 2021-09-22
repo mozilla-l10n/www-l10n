@@ -19,6 +19,7 @@ mobile-android-scan-the-qr-code-to-get-started = Emoha’ãnga QR ayvu eñepyrũ
 mobile-android-scan-alt-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-name-firefox } { -brand-name-android }-pe
 mobile-android-fast-and-private = Ipya’e ha Hekoñemi
 mobile-android-one-tap-to = Jepoko tekoñemi ayvúpe g̃uarã
+mobile-android-get-to-private = Eike kundahára ñimigua rekópe peteĩ jekutúpe. Ha embotývo kundahára ñimigua reko, ne ñeikundaha rembiasakue oguéta ijehegui ne mba’e’okápe.
 mobile-android-search-your-own = Eheka mba’éichapa
 mobile-android-save-power-with = Eipuru’ive batería teko ypytũme
 mobile-android-easily-organize-your = Emoĩpora ne rendaykekuéra
