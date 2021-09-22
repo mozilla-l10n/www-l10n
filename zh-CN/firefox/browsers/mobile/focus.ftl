@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }：隐私浏览器
@@ -21,3 +21,4 @@ mobile-focus-tracking-protection = 跟踪保护
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } 默认即会拦截各种常见跟踪器，包括社交跟踪器和那些来自 { -brand-name-facebook } 广告的“粘人”跟踪器。
 mobile-focus-ad-blocking = 广告拦截
 mobile-focus-see-it-all = 肉眼可见的更快
+mobile-focus-made-by-mozilla = { -brand-name-mozilla } 出品

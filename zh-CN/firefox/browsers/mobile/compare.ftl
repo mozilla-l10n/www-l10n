@@ -7,6 +7,7 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = 五款最佳移动浏览器同台对比
+mobile-compare-blocking-thirdparty-trackers = 拦截第三方跟踪器不仅有助于保护隐私，还能防止这些附加代码拉低浏览器的速度，助您更快看到所需内容。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>功能</strong>
 mobile-compare-features = 功能
