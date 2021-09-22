@@ -1,0 +1,39 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
+
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: गोपनीयता ब्राउज़र
+
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } स्वचालित ट्रैकिंग सुरक्षा और विज्ञापन ब्लॉकिंग वाला आपका अपना प्राइवेसी ब्राउज़र है।
+
+mobile-focus-firefox-focus = { -brand-name-firefox-focus }
+mobile-focus-simply-private-mobile = मोबाइल ब्राउज़िंग पूरी निजता के साथ
+mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } स्वचालित ट्रैकिंग सुरक्षा और विज्ञापन ब्लॉकिंग वाला आपका अपना प्राइवेसी ब्राउज़र है। { -brand-name-focus } के जरिए, आपके पेज तेजी से लोड होते हैं और आपके डेटा की गोपनीयता बनी रहती है।
+mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } की उपलब्धता { -brand-name-ios } और { -brand-name-android } दोनों प्रकार की डिवाइसों के लिए है।
+
+mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } प्राप्त करें
+mobile-focus-send-a-download-link-to-your = अपने फ़ोन पर एक डाउनलोड लिंक भेजें।
+mobile-focus-scan-the-qr-code-to-get-started = शुरू करने के लिए QR कोड को स्कैन करें
+mobile-focus-scan-alt-text = { -brand-name-firefox-focus } पाने के लिए QR कोड स्कैन करें
+
+mobile-focus-disappear-your-history = अपनी हिस्ट्री का नामोनिशान न रहने दें
+mobile-focus-easily-erase-your = अपनी हिस्ट्री, पासवर्ड और कुकीज़ को आसानी से मिटाएँ, ताकि अवांछित विज्ञापन आपको ऑनलाइन फ़ॉलो न कर पाएँ। सर्च फ़ील्ड में 'मिटाएँ' बटन को टैप करें और समझिए आपका काम बन गया।
+
+mobile-focus-take-private-mode = प्राइवेट मोड को अगले लेवल पर ले जाएँ
+mobile-focus-private-browsing-on = अधिकांश ब्राउज़रों में "प्राइवेट ब्राउज़िंग" दरअसल उतनी भी गोपनीय नहीं होती है। { -brand-name-firefox-focus } अगले लेवल का है, हमेशा आपकी निजता को ध्यान में रखने वाला यह { -brand-name-mozilla } द्वारा सपोर्टेड है, जो ऐसी गैर-लाभकारी संस्था है जिसने इंटरनेट पर आपके अधिकारों के लिए हमेशा संघर्ष किया है।
+
+mobile-focus-tracking-protection = ट्रैकिंग सुरक्षा
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } सामान्य ट्रैकर्स की एक व्यापक रेंज को डिफ़ॉल्ट रूप से ही ब्लॉक कर देता है, जिनमें सोशल ट्रैकर्स या ऐसे स्टिकी ट्रैकर्स भी शामिल हैं, जो { -brand-name-facebook } विज्ञापन जैसी चीज़ों से आ रहे होते हैं।
+
+mobile-focus-ad-blocking = विज्ञापन ब्लॉकिंग
+mobile-focus-focus-blocks-the = { -brand-name-focus } विज्ञापनों को ब्लॉक कर देता है जिस तरह के विज्ञापन आप आमतौर पर वेब पेजों पर देखते हैं — किसी अतिरिक्त ऐड-ऑन या एक्सटेंशन की आवश्यकता नहीं है। कम विज्ञापनों के साथ, आपकी पेज लोड स्पीड बेहतर हो जाती है, जिसका अर्थ है कि आप अपनी इच्छित सामग्री बहुत तेज़ी से प्राप्त कर सकते हैं।
+
+mobile-focus-see-it-all = यह सब तेज़ी से देखें
+mobile-focus-focus-removes-trackers = { -brand-name-focus } ट्रैकर्स और विज्ञापनों को हटा देता है ताकि आपके द्वारा देखे जा रहे पेजों में कम डेटा की ज़रूरत पड़े और वे बहुत तेज़ी से लोड हो जाएँ।
+
+mobile-focus-made-by-mozilla = { -brand-name-mozilla } द्वारा निर्मित
+mobile-focus-we-believe-everyone = हमारा मानना है कि हर व्यक्ति का ऑनलाइन अपने जीवन पर पूरा कंट्रोल होना चाहिए। इस बात के लिए हम 1998 से संघर्ष कर रहे हैं।
