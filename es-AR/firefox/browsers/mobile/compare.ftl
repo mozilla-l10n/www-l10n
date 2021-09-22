@@ -28,6 +28,7 @@ mobile-compare-the-mobile-version = La versión móvil de { -brand-name-safari }
 mobile-compare-almost-all-of = Casi todos los navegadores móviles comparados acá permiten una sincronización completa entre dispositivos móviles y de escritorio.
 mobile-compare-the-good-news = La buena noticia para usuarios de { -brand-name-iphone } es que { -brand-name-apple } recientemente ha permitido que los usuarios de { -brand-name-iphone } puedan seleccionar su propio navegador predeterminado, así que ahora los usuarios pueden sincronizar sus dispositivos a través de las plataformas si, por ejemplo, instalan { -brand-name-firefox } en su { -brand-name-iphone } y PC con { -brand-name-windows }.
 mobile-compare-conclusion = Conclusión
+mobile-compare-based-on-the = Según los criterios que describimos — privacidad, funciones y sincronización — realmente solo hay un navegador móvil que cumple con los tres y ese es { -brand-name-firefox }. Aunque es similar en las características y categorías de sincronización, { -brand-name-firefox } se distingue por su privacidad, porque creemos que es el componente esencial que permite disfrutar de Internet, exactamente como te gusta.
 mobile-compare-our-recommendations-aside = Dejando de lado nuestras recomendaciones, encontrar el navegador adecuado para vos siempre dependerá de tus necesidades individuales y de lo que más valorás mientras navegás en línea.
 mobile-compare-search-engine-options = Opciones de buscadores
 mobile-compare-text-to-speech = Texto a voz
