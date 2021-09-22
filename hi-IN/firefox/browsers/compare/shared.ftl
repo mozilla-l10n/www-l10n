@@ -15,11 +15,14 @@ compare-shared-blocks-third-party-tracking-default = अपने-आप ही 
 # Obsolete string
 compare-shared-blocks-third-party-tracking = तृतीय-पक्ष ट्रैकिंग कुकीज़ ब्लॉक करता है
 compare-shared-blocks-cryptomining-scripts = क्रिप्टोमाइनिंग स्क्रिप्ट्स को ब्लॉक कर देता है
+compare-shared-blocks-fingerprinting-scripts = फ़िंगरप्रिंटिंग स्क्रिप्ट ब्लॉक करता है
 compare-shared-blocks-social-trackers = सोशल ट्रैकर्स को ब्लॉक कर देता है
+compare-shared-dashboard-to-review = ब्लॉक्ड ट्रैकर्स पर नज़र डालने के लिए डैशबोर्ड
 compare-shared-autoplay-blocking = ऑटोप्‍ले को ब्लॉक कर देता है
 compare-shared-tab-browsing = टैब ब्राउज़िंग
 compare-shared-bookmark-manager = बुकमार्क प्रबंधक
 compare-shared-automatically-fills-out-forms = स्वतः फ़ॉर्म भरता है
+compare-shared-automatically-fills-out-payments = भुगतान संबंधी जानकारी स्वचालित रूप से भरता है
 compare-shared-search-engine-options = खोज इंजन विकल्प
 compare-shared-text-to-speech = बोलने के लिए टैक्स्ट
 compare-shared-reader-mode = रीडर मोड

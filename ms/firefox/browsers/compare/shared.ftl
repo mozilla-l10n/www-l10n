@@ -15,11 +15,14 @@ compare-shared-blocks-third-party-tracking-default = Menyekat kuki penjejak piha
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Menyekat kuki penjejak pihak ketiga
 compare-shared-blocks-cryptomining-scripts = Menyekat skrip perlombongan kripto
+compare-shared-blocks-fingerprinting-scripts = Menyekat skrip pengecap jari
 compare-shared-blocks-social-trackers = Menyekat pengesan sosial
+compare-shared-dashboard-to-review = Papan pemuka untuk menyemak penjejak yang disekat
 compare-shared-autoplay-blocking = Sekatan main automatik
 compare-shared-tab-browsing = Pelayaran tab
 compare-shared-bookmark-manager = Pengurus tandabuku
 compare-shared-automatically-fills-out-forms = Mengisi borang secara automatik
+compare-shared-automatically-fills-out-payments = Mengisi ruang bayaran secara automatik
 compare-shared-search-engine-options = Pilihan enjin carian
 compare-shared-text-to-speech = Teks ke ucapan
 compare-shared-reader-mode = Mod pembaca
