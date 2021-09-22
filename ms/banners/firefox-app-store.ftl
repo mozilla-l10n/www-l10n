@@ -5,6 +5,7 @@
 ### URL: https://www-dev.allizom.org/firefox/ (View on an Android or iOS browser)
 
 banner-firefox-app-store-title = { -brand-name-firefox }: Pelayar yang Peribadi dan Selamat
+banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Pelayar privasi
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Percuma - Di { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Percuma - Di { -brand-name-app-store }
