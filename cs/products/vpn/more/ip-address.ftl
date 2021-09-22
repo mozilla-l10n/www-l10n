@@ -37,3 +37,4 @@ vpn-ip-address-you-dont-need = Svou IP adresu skrývat nemusíte, ale v někter�
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Existují také situační důvody pro skrytí IP adresy. Můžete ji chtít skrýt, když cestujete. Síť VPN vám také poskytne <a href="{ $url }">větší soukromí</a> při připojování k síti Wi-Fi za účelem streamování a nakupování na cestách po světě.
+vpn-ip-address-how-do-you = Jak ji skryjete?
