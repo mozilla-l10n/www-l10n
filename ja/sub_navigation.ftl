@@ -12,6 +12,7 @@ sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = ブラウザーを比較する
+sub-navigation-compare-mobile-browsers = モバイルブラウザーの比較
 sub-navigation-firefox-for-desktop = デスクトップ用 { -brand-name-firefox }
 sub-navigation-release-notes = リリースノート
 sub-navigation-desktop = デスクトップ
@@ -24,6 +25,7 @@ sub-navigation-desktop-beta-and-developer = デスクトップ用 { -brand-name-
 sub-navigation-desktop-nightly = デスクトップ用 { -brand-name-nightly }
 sub-navigation-features = 機能
 sub-navigation-support = サポート
+sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = アドオン
