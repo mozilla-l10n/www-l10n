@@ -10,8 +10,17 @@ mobile-compare-5-of-the-best = Comparación directa de los cinco mejores navegad
 # HTML description
 mobile-compare-who-makes-the = ¿Quién hace el mejor navegador móvil? Compararemos las versiones móviles de { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } y { -brand-name-opera } para averiguarlo.
 mobile-compare-which-mobile-browser = ¿Qué navegador móvil mantiene las cosas confidenciales?
+mobile-compare-at-a-minimum-v2 = Como mínimo, el navegador móvil debe proporcionar alguna versión del ”modo de navegación privada“, que borra automáticamente el historial de navegación y de búsqueda. En esta área, los cinco navegadores comparados acá obtienen puntos.
+# Obsolete string
 mobile-compare-at-a-minimum = Como mínimo, el navegador móvil debe proporcionar alguna versión del ”modo de navegación privada“, que borra automáticamente el historial de navegación y de búsqueda. En esta área, los siete navegadores comparados acá obtienen puntos.
+mobile-compare-another-mobile-feature = Otra característica móvil que debería tener es la habilidad de evitar que los sitios web y las compañías rastreen los datos de navegación y compras — aún en modo de navegación normal.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-features-strong = <strong>Características</strong>
+mobile-compare-features = Características
+mobile-compare-what-can-your = ¿Qué puede hacer tu navegador por vos?
+mobile-compare-does-your-browser = ¿Tu navegador funciona bien con otros dispositivos?
 mobile-compare-almost-all-of = Casi todos los navegadores móviles comparados acá permiten una sincronización completa entre dispositivos móviles y de escritorio.
+mobile-compare-conclusion = Conclusión
 mobile-compare-search-engine-options = Opciones de buscadores
 mobile-compare-text-to-speech = Texto a voz
 mobile-compare-reader-mode = Modo lectura

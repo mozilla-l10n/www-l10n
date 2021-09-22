@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: el navegador de la privacidad
@@ -11,6 +11,7 @@ mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: el naveg
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } es un navegador dedicado de privacidad con protección automática de rastreo y bloqueo de publicidades.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Simplemente navegación privada móvil
+mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } es tu navegador de privacidad dedicada con protección contra rastreo automática y bloqueo de publicidades. Con { -brand-name-focus } las páginas se cargan más rápido y los datos se mantienen privados.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } está disponible en dispositivos con { -brand-name-ios } y { -brand-name-android }.
 mobile-focus-get-firefox-focus = Conseguí { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Enviá un enlace de descarga a tu teléfono.
@@ -22,5 +23,6 @@ mobile-focus-take-private-mode = Llevá el modo privado al siguiente nivel
 mobile-focus-private-browsing-on = La “navegación privada” en la mayoría de los navegadores no es realmente tan privada. { -brand-name-firefox-focus } es el siguiente nivel, siempre en privacidad y está respaldado por { -brand-name-mozilla }, la organización sin fines de lucro que lucha por tus derechos en la web.
 mobile-focus-tracking-protection = Protección contra rastreo
 mobile-focus-ad-blocking = Bloqueo de publicidades
+mobile-focus-focus-removes-trackers = { -brand-name-focus } elimina los rastreadores y las publicidades, por lo que las páginas que estés viendo requieren menos datos y se cargan mucho más rápido.
 mobile-focus-made-by-mozilla = Hecho por { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Creemos que todos deberían tener control sobre sus vidas en línea. Es por lo que hemos estado luchando desde 1998.

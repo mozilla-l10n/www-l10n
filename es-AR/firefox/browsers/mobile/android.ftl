@@ -33,3 +33,4 @@ mobile-android-pick-up-where = Continuá desde donde dejaste
 mobile-android-search-from-your = Buscá desde la pantalla de inicio de tu teléfono
 mobile-android-no-need-to = No es necesario abrir la aplicación. Agregá el widget de búsqueda de { -brand-name-firefox } y buscá en la web directamente desde la pantalla de inicio de tu dispositivo.
 mobile-android-about-mozilla = Acerca de { -brand-name-mozilla }
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } existe para construir Internet como un recurso público accesible para todos porque creemos que abierto y gratis es mejor que cerrado y controlado. Creamos productos como { -brand-name-firefox } y { -brand-name-pocket } para promover la elección, la transparencia y el control.
