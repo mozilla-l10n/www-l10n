@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Kundahára hekoñemíva
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } ha’e kundahára omba’apóva ñemigua ñemo’ã ijeheguívare tapykuehoha ha maranduñemurã ndive.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Ñeikundaha pumbyry ñemiguápe
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } eipurukuaa mba’e’okápe { -brand-name-ios } ndive ha { -brand-name-android }.
