@@ -9,7 +9,7 @@
 compare-shared-yes = iawn
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Na
-compare-shared-private-browsing-mode = Y modd Pori Preifat
+compare-shared-private-browsing-mode = Modd Pori Preifat
 compare-shared-blocks-third-party-tracking-default = Wedi ei ragosod i rwystro cwcis tracio trydydd parti
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Yn rhwystro cwcis tracio trydydd parti
