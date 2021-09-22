@@ -22,6 +22,7 @@ mobile-android-one-tap-to = Jepoko tekoñemi ayvúpe g̃uarã
 mobile-android-get-to-private = Eike kundahára ñimigua rekópe peteĩ jekutúpe. Ha embotývo kundahára ñimigua reko, ne ñeikundaha rembiasakue oguéta ijehegui ne mba’e’okápe.
 mobile-android-search-your-own = Eheka mba’éichapa
 mobile-android-save-power-with = Eipuru’ive batería teko ypytũme
+mobile-android-switch-to-dark = Emoambue ypytũ reko oimeraẽva aravo omomichĩve hag̃ua tesa kane’õ ha ipukuve hag̃ua batería jepuru.
 mobile-android-easily-organize-your = Emoĩpora ne rendaykekuéra
 mobile-android-supercharge-firefox-with = Emombarete { -brand-name-firefox } moĩmbaha ndive
 mobile-android-pick-up-where = Eku’ejey eheja haguégui
