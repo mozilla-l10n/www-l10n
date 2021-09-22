@@ -5,8 +5,11 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Muat turun { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Dapatkan { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = Dapatkan { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
+
+# Obsolete string
+navigation-v2-get-a-firefox-account = Dapatkan { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -18,6 +21,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } untuk { -brand-name-
 navigation-v2-get-the-customizable-mobile = Dapatkan pelayar mudah alih untuk telefon pintar { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } untuk { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Dapatkan pelayar mudah alih untuk { -brand-name-iphone } atau { -brand-name-ipad } anda.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Pelayar mudah alih yang benar-benar peribadi.
 navigation-v2-privacy-promise = Janji Privasi
 navigation-v2-learn-how-firefox-treats = Ketahui bagaimana { -brand-name-firefox } menjaga data anda dengan bertanggungjawab.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
