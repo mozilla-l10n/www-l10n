@@ -12,6 +12,7 @@ sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = ब्राउज़रों की तुलना करें
+sub-navigation-compare-mobile-browsers = मोबाइल ब्राउज़रों की तुलना करें
 sub-navigation-firefox-for-desktop = डेस्कटॉप के लिए { -brand-name-firefox }
 sub-navigation-release-notes = रिलीज़ नोट्स
 sub-navigation-desktop = डेस्कटॉप
@@ -24,6 +25,7 @@ sub-navigation-desktop-beta-and-developer = डेस्कटॉप { -brand-na
 sub-navigation-desktop-nightly = डेस्कटॉप { -brand-name-nightly }
 sub-navigation-features = फ़ीचर्स
 sub-navigation-support = सपोर्ट
+sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = ऐड-ऑन्स
