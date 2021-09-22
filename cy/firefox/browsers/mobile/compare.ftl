@@ -11,6 +11,7 @@ mobile-compare-5-of-the-best = 5 o'r porwyr symudol gorau mewn cymhariaeth union
 mobile-compare-who-makes-the = Pwy sy'n gwneud y porwr symudol gorau? Byddwn yn cymharu fersiynau symudol o { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, a { -brand-name-opera } i ddarganfod yr ateb.
 mobile-compare-since-your-mobile = Gan mai eich porwr symudol yw eich ffynhonell o wybodaeth ble bynnag yr ydych, cyflymder, diogelwch, preifatrwydd a rhwyddineb defnydd yw'r allweddi i brofiad da. Felly pa un yw'r porwr symudol gorau? Gadewch i ni gymharu'r rhai gorau - a gweld pa un sydd orau i'ch anghenion.
 mobile-compare-which-mobile-browser = Pa borwr symudol sy'n cadw pethau'n gyfrinachol?
+mobile-compare-at-a-minimum-v2 = Dylai eich porwr symudol o leiaf ddarparu rhyw fersiwn o'r “modd pori preifat,” sy'n dileu eich hanes a'ch hanes chwilio yn awtomatig. Yn hyn o beth, mae pob un o'r pump porwr sy'n cael eu cymharu yma'n sgorio pwyntiau.
 # Obsolete string
 mobile-compare-at-a-minimum = Dylai eich porwr symudol o leiaf ddarparu rhyw fersiwn o'r “modd pori preifat,” sy'n dileu eich hanes a'ch hanes chwilio yn awtomatig. Yn hyn o beth, mae pob un o'r saith porwr sy'n cael eu cymharu yma'n sgorio pwyntiau.
 mobile-compare-another-mobile-feature = Nodwedd porwr arall a ddylai fod ar gael yw'r gallu i atal gwefannau a chwmnïau rhag tracio'ch data pori a siopa - hyd yn oed yn y modd pori arferol.

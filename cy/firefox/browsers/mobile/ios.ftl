@@ -24,6 +24,7 @@ mobile-ios-firefox-gives-you = Mae { -brand-name-firefox } yn rhoi mwy o ddiogel
 mobile-ios-your-browsing-history = Hanes yw eich hanes pori
 mobile-ios-if-you-want = Os hoffech chi, mae'n hawdd dewis mynd ar-lein a chwilio yn y modd pori preifat. A phan fyddwch yn cau'r modd pori preifat, caiff eich hanes pori ac unrhyw gwcis eu dileu o'ch dyfais yn awtomatig.
 mobile-ios-get-more-firefox = Cael mwy o { -brand-name-firefox } yn eich bywyd
+mobile-ios-add-firefox-across-v2 = Ychwanegwch { -brand-name-firefox } ar draws eich dyfeisiau ar gyfer pori diogel, di-dor. Cydweddwch eich dyfeisiau i fynd â'ch hoff nodau tudalen, mewngofnodi wedi'u cadw, cyfrineiriau a hanes pori i ble bynnag yr ewch chi. Hefyd, anfonwch dabiau agored o'ch ffôn i'ch bwrdd gwaith i barhau'r hyn roeddech yn ei wneud.
 # Obsolete string
 mobile-ios-add-firefox-across = Ychwanegwch { -brand-name-firefox } ar draws eich dyfeisiau ar gyfer pori diogel, di-dor. Defnyddiwch { -brand-name-sync } ar eich dyfeisiau i fynd â'ch hoff nodau tudalen, mewngofnodi wedi'u cadw, cyfrineiriau a hanes pori i ble bynnag yr ewch chi. Hefyd, anfonwch dabiau agored o'ch ffôn i'ch bwrdd gwaith i barhau'r hyn roeddech yn ei wneud.
 mobile-ios-find-it-all = Canfod popeth yn gynt
