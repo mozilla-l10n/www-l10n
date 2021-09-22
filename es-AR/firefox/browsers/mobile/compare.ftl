@@ -19,6 +19,10 @@ mobile-compare-blocking-thirdparty-trackers = Bloquear rastreadores de terceros 
 mobile-compare-features-strong = <strong>Características</strong>
 mobile-compare-features = Características
 mobile-compare-what-can-your = ¿Qué puede hacer tu navegador por vos?
+mobile-compare-a-main-ingredient = Un ingrediente principal de un navegador bien hecho es su funcionalidad. ¿Qué puede hacer? Los cinco navegadores son casi iguales en cuanto a pestañas, marcadores, autocompletado de campos, pero solo { -brand-name-firefox } y { -brand-name-safari } ofrecen complementos/extensiones, que son una especie de aplicaciones para el navegador para hacerlo más privado, poderoso o simplemente más divertido.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>Sincronización</strong>
+mobile-compare-syncing = Sincronización
 mobile-compare-does-your-browser = ¿Tu navegador funciona bien con otros dispositivos?
 mobile-compare-almost-all-of = Casi todos los navegadores móviles comparados acá permiten una sincronización completa entre dispositivos móviles y de escritorio.
 mobile-compare-conclusion = Conclusión
