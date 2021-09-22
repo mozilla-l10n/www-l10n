@@ -15,11 +15,14 @@ compare-shared-blocks-third-party-tracking-default = 既定でサードパーテ
 # Obsolete string
 compare-shared-blocks-third-party-tracking = サードパーティのトラッキング Cookie をブロック
 compare-shared-blocks-cryptomining-scripts = 暗号通貨マイニングスクリプトをブロック
+compare-shared-blocks-fingerprinting-scripts = フィンガープリント採取スクリプトをブロック
 compare-shared-blocks-social-trackers = ソーシャルトラッカーをブロック
+compare-shared-dashboard-to-review = ブロックしたトラッカーを確認するダッシュボード
 compare-shared-autoplay-blocking = 自動再生をブロック
 compare-shared-tab-browsing = タブブラウジング
 compare-shared-bookmark-manager = ブックマークマネージャー
 compare-shared-automatically-fills-out-forms = フォームに自動的に入力
+compare-shared-automatically-fills-out-payments = 決済フォームに自動的に入力
 compare-shared-search-engine-options = 検索エンジンのオプション
 compare-shared-text-to-speech = テキスト読み上げ
 compare-shared-reader-mode = リーダーモード
