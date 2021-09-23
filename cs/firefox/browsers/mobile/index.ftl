@@ -13,3 +13,5 @@ browsers-mobile-at-home-or-on-the-move = Ať už jste doma nebo na cestách, sou
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-get-the-mobile-browser-privacy = Pořiďte si mobilní prohlížeč, u něhož je vaše <strong>soukromí</strong> na prvním místě
 browsers-mobile-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android }
+browsers-mobile-infinitely-customizable-private = Neskonale přizpůsobitelný, soukromý a bezpečný { -brand-name-firefox } pro { -brand-name-android(case: "acc") } je bleskurychlý prohlížeč, který vás nikdy nezaprodá.
+browsers-mobile-firefox-for-ios = { -brand-name-firefox } pro { -brand-name-ios }
