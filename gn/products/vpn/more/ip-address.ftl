@@ -19,4 +19,7 @@ vpn-ip-address-can-more-than = ¿Ikatúpa heta mba’e’oka oreko IP kundaharap
 vpn-ip-address-can-we-run = ¿Ikatúpa opa?
 vpn-ip-address-we-now-have = Ko’ág̃a roreko IP kundaharenda 6 ichguáva, orekóva 128 bits peteĩva kundaharenda. Rombyasýrõ jepe, 4 ha 6 ichagua noñe’ẽkuaái oñondive, upévare opavave oikotevẽta kundaharenda 4 ichguáva heta ára gueteri.
 vpn-ip-address-should-you-hide = ¿Oñomikuaápa IP kundaharape?
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-there-are-also = Avei ikatukuaa eñomi nde IP kundaharape. Ikatu eñomi eho aja mombyry. Peteĩ VPN ome’ẽkuaa <a href="{ $url }">tekoñemive</a> eike vove WiFi-pe ehechauka hag̃ua ta’ãngamýi ha emba’ejogua eikundaha aja arapy tuichakue jave.
 vpn-ip-address-how-do-you = ¿Mba’éicha oñomikuaa?
