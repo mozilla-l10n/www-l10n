@@ -31,6 +31,9 @@ mobile-ios-your-browsing-history = Riwayat penjelajahan Anda kini tinggal sejara
 mobile-ios-if-you-want = Jika ingin, Anda dapat dengan mudah berselancar di internet dan melakukan penelusuran dalam mode penjelajahan pribadi. Dan saat Anda menutup mode penjelajahan pribadi, riwayat penjelajahan Anda dan kuki apa pun secara otomatis dihapus dari perangkat Anda.
 
 mobile-ios-get-more-firefox = Dapatkan lebih banyak manfaat { -brand-name-firefox } dalam hidup Anda
+mobile-ios-add-firefox-across-v2 = Tambahkan { -brand-name-firefox } di seluruh perangkat untuk penjelajahan yang aman dan lancar. Sinkronkan perangkat Anda untuk membawa serta markah favorit, log masuk tersimpan, kata sandi, dan riwayat penjelajahan ke mana pun Anda pergi. Selain itu, kirim tab terbuka antara ponsel dan desktop untuk melanjutkan pekerjaan dari tempat terakhir yang Anda tinggalkan.
+
+# Obsolete string
 mobile-ios-add-firefox-across = Tambahkan { -brand-name-firefox } di seluruh perangkat untuk penjelajahan yang aman dan lancar. Gunakan { -brand-name-sync } di perangkat Anda untuk membawa serta markah favorit, log masuk tersimpan, kata sandi, dan riwayat penjelajahan ke mana pun Anda pergi. Selain itu, kirim tab terbuka antara ponsel dan desktop untuk melanjutkan pekerjaan dari tempat terakhir yang Anda tinggalkan.
 
 mobile-ios-find-it-all = Temukan semuanya lebih cepat
