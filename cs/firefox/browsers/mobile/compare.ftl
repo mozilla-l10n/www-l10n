@@ -25,3 +25,4 @@ mobile-compare-a-main-ingredient = Hlavní složkou dobře vytvořeného prohlí
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Synchronizace</strong>
 mobile-compare-syncing = Synchronizace
+mobile-compare-does-your-browser = Spolupracuje váš prohlížeč dobře s jinými zařízeními?
