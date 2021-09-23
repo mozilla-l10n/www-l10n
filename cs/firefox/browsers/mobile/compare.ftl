@@ -21,3 +21,7 @@ mobile-compare-from-the-chart = Z výše uvedeného grafu je zřejmé, že { -br
 mobile-compare-features-strong = <strong>Funkce</strong>
 mobile-compare-features = Funkce
 mobile-compare-what-can-your = Co pro vás může váš prohlížeč udělat?
+mobile-compare-a-main-ingredient = Hlavní složkou dobře vytvořeného prohlížeče je jeho funkční výbava. Co umí?  Téměř všech pět prohlížečů si je rovných, pokud jde o panely, záložky, automatické doplňování polí, avšak pouze { -brand-name-firefox } a { -brand-name-safari } nabízejí doplňky/rozšíření, což jsou něco jako aplikace pro váš prohlížeč, které jej učiní soukromějším, výkonnějším nebo prostě jen zábavnějším.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>Synchronizace</strong>
+mobile-compare-syncing = Synchronizace
