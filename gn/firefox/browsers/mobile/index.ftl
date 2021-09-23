@@ -10,6 +10,8 @@ browsers-mobile-firefox-mobile-browsers-put = Kundahára pumbyrygua { -brand-nam
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Opaite kundahára ñemoha’ãnga { -brand-name-firefox } ({ -brand-name-firefox } { -brand-name-android } peg̃uarã, { -brand-name-firefox } { -brand-name-ios } peg̃uarã, { -brand-name-firefox-focus })
 browsers-mobile-at-home-or-on-the-move = Nde róga térã okápe, eikotevẽ tekoñemi peteĩteĩva mba’e’okápe. Pe ñemo’ã tapykuehoha iporãvéva ijeheguíva opaite kundahárape { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-get-the-mobile-browser-privacy = Aguerekóma kundahára omotenondéva nde <strong>rekoñemi</strong>
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg̃uarã
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
