@@ -42,3 +42,7 @@ mobile-compare-desktop-mode = Verze pro počítač
 mobile-compare-find-on-page = Najít na stránce
 mobile-compare-image-search = Vyhledávání obrázků
 mobile-compare-voice-search = Hlasové vyhledávání
+mobile-compare-add-to-homescreen = Přidat na domovskou obrazovku
+mobile-compare-read-text-aloud = Předčítání textu
+mobile-compare-news-feed = Webový kanál
+mobile-compare-collections = Sbírky
