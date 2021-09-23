@@ -9,12 +9,14 @@
 mobile-compare-5-of-the-best = Comparación directa de los cinco mejores navegadores móviles
 # HTML description
 mobile-compare-who-makes-the = ¿Quién hace el mejor navegador móvil? Compararemos las versiones móviles de { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } y { -brand-name-opera } para averiguarlo.
+mobile-compare-since-your-mobile = Dado que el navegador de tu dispositivo móvil es el sustento de la información dondequiera que estés, la velocidad, la seguridad, la privacidad y la facilidad de uso son las claves para una buena experiencia. Entonces, ¿cuál es el mejor navegador móvil? Comparemos los mejores y veamos cuál se adapta mejor a tus necesidades.
 mobile-compare-which-mobile-browser = ¿Qué navegador móvil mantiene las cosas confidenciales?
 mobile-compare-at-a-minimum-v2 = Como mínimo, el navegador móvil debe proporcionar alguna versión del ”modo de navegación privada“, que borra automáticamente el historial de navegación y de búsqueda. En esta área, los cinco navegadores comparados acá obtienen puntos.
 # Obsolete string
 mobile-compare-at-a-minimum = Como mínimo, el navegador móvil debe proporcionar alguna versión del ”modo de navegación privada“, que borra automáticamente el historial de navegación y de búsqueda. En esta área, los siete navegadores comparados acá obtienen puntos.
 mobile-compare-another-mobile-feature = Otra característica móvil que debería tener es la habilidad de evitar que los sitios web y las compañías rastreen los datos de navegación y compras — aún en modo de navegación normal.
 mobile-compare-blocking-thirdparty-trackers = Bloquear rastreadores de terceros no solo es importante para la privacidad, sino que también ayuda a que las páginas se carguen mucho más rápido, sin que esos fragmentos de código se adhieran y ralenticen al navegador.
+mobile-compare-from-the-chart = A partir del cuadro anterior, es obvio que { -brand-name-firefox } ofrece el conjunto de herramientas de privacidad y seguridad más completo de los cinco navegadores y proporciona una descripción general de su seguridad y privacidad en línea en general.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Características</strong>
 mobile-compare-features = Características

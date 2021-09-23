@@ -20,6 +20,7 @@ mobile-ios-now-iphone-and = Ahora los usuarios de { -brand-name-iphone } y { -br
 mobile-ios-fast-private-secure = Rápido. Privado. Seguro
 mobile-ios-keep-whats-personal = Mantené lo que es personal en privado sin sacrificar la velocidad ultrarrápida. Además, las funciones de navegación inteligente te brindan el poder de llevar tu privacidad, contraseñas y marcadores de manera segura dondequiera que vayas, lo que facilita tu vida en línea.
 mobile-ios-stay-private-online = Mantenete privado en línea
+mobile-ios-firefox-gives-you = { -brand-name-firefox } te brinda una mayor protección de la privacidad mientras estás en la Web. De forma predeterminada, nuestra Protección de rastreo aumentada bloquea rastreadores y scripts como rastreadores de redes sociales, rastreadores de cookies entre sitios, criptomineros y detectores de huellas dactilares.
 mobile-ios-your-browsing-history = Tu historial de navegación es historia
 mobile-ios-if-you-want = Si querés, podés seleccionar fácilmente conectarte y buscar en el modo de navegación privada. Y cuando se cierra el modo de navegación privada, el historial de navegación y las cookies se borran automáticamente de tu dispositivo.
 mobile-ios-add-firefox-across-v2 = Agregá { -brand-name-firefox } a todos tus dispositivos para una navegación segura y sin problemas. Sincronizá tus dispositivos para llevar tus marcadores favoritos, inicios de sesión guardados, contraseñas e historial de navegación donde quiera que vayas. Además, enviá pestañas abiertas entre tu teléfono y el escritorio para continuar donde lo dejaste.
