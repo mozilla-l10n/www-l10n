@@ -13,6 +13,9 @@ mobile-compare-who-makes-the = Siapa yang mengembangkan peramban seluler terbaik
 mobile-compare-since-your-mobile = Karena peramban seluler adalah sumber informasi yang dapat digunakan di mana pun Anda berada, maka kecepatan, keamanan, privasi, dan kemudahan penggunaan adalah aspek utama untuk mendapatkan pengalaman yang baik. Jadi manakah peramban seluler terbaik? Coba bandingkan peramban utama — lalu lihat mana yang paling sesuai dengan kebutuhan Anda.
 
 mobile-compare-which-mobile-browser = Peramban seluler mana yang paling menjaga kerahasiaan?
+mobile-compare-at-a-minimum-v2 = Minimal, peramban seluler Anda harus menyediakan beberapa versi “mode penjelajahan pribadi” yang otomatis menghapus riwayat penjelajahan dan pencarian Anda. Dalam lingkup ini, kelima peramban dibandingkan dengan skor berikut.
+
+# Obsolete string
 mobile-compare-at-a-minimum = Minimal, peramban seluler Anda harus menyediakan beberapa versi “mode penjelajahan pribadi” yang otomatis menghapus riwayat penjelajahan dan pencarian Anda. Dalam lingkup ini, ketujuh peramban dibandingkan dengan skor berikut.
 mobile-compare-another-mobile-feature = Fitur seluler lain yang harus ditambahkan ialah kemampuan untuk mencegah laman web dan perusahaan agar tidak melacak data penjelajahan dan belanja Anda — bahkan di mode penjelajahan biasa.
 mobile-compare-blocking-thirdparty-trackers = Memblokir pelacak pihak ketiga tidak hanya penting bagi privasi — tapi juga untuk memuat halaman lebih cepat, tanpa berbagai kode yang terlampir sendiri dan memperlambat peramban Anda.
