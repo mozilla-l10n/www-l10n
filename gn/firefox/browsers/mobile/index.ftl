@@ -9,6 +9,7 @@
 browsers-mobile-firefox-mobile-browsers-put = Kundahára pumbyrygua { -brand-name-firefox } omotenonde nde rekoñemi
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Opaite kundahára ñemoha’ãnga { -brand-name-firefox } ({ -brand-name-firefox } { -brand-name-android } peg̃uarã, { -brand-name-firefox } { -brand-name-ios } peg̃uarã, { -brand-name-firefox-focus })
+browsers-mobile-at-home-or-on-the-move = Nde róga térã okápe, eikotevẽ tekoñemi peteĩteĩva mba’e’okápe. Pe ñemo’ã tapykuehoha iporãvéva ijeheguíva opaite kundahárape { -brand-name-firefox }.
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg̃uarã
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
