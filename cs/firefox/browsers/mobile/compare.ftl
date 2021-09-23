@@ -13,4 +13,6 @@ mobile-compare-since-your-mobile = Jelikož je mobilní prohlížeč vaším ži
 mobile-compare-which-mobile-browser = Který mobilní prohlížeč zachovává důvěrnost?
 mobile-compare-at-a-minimum-v2 = Váš mobilní prohlížeč by měl přinejmenším poskytovat nějakou verzi „režimu soukromého prohlížení“, který automaticky odstraní vaší historii prohlížení a vyhledávání. V této oblasti boduje všech pět porovnávaných prohlížečů.
 # Obsolete string
-mobile-compare-at-a-minimum = Váš mobilní prohlížeč by měl přinejmenším poskytovat nějakou verzi „režimu soukromého prohlížení“, který automaticky odstraní vaší historii prohlížení a vyhledávání. V této oblasti boduje všech sedm porovnávaných prohlížečů.
+mobile-compare-at-a-minimum = Váš mobilní prohlížeč by měl přinejmenším poskytovat nějakou formu „režimu soukromého prohlížení“, který automaticky odstraní vaší historii prohlížení a vyhledávání. V této oblasti boduje všech sedm porovnávaných prohlížečů.
+mobile-compare-another-mobile-feature = Další mobilní funkcí, která by měla být samozřejmostí, je možnost zabránit webovým stránkám a společnostem sledovat vaše údaje o prohlížení a nakupování – a to i v režimu normálního prohlížení.
+mobile-compare-blocking-thirdparty-trackers = Blokování sledovacích prvků třetích stran není důležité jen z hlediska ochrany soukromí – pomáhá také stránkám načítat se mnohem rychleji bez těchto kousků kódu, které se k nim přičleňují a zpomalují prohlížeč.
