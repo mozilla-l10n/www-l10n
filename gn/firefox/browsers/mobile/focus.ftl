@@ -21,4 +21,6 @@ mobile-focus-take-private-mode = Egueraha teko ñemi ambue hendápe
 mobile-focus-tracking-protection = Tapykuehoha ñemo’ã
 mobile-focus-ad-blocking = Ñemurã jejoko
 mobile-focus-see-it-all = Ehechapaite pya’eve
+mobile-focus-focus-removes-trackers = { -brand-name-focus } ombogue tapykuehoha ha ñemurã, upévare kuatiarogue ehecháva oikotevẽ’ive mba’ekuaarã ha henyhẽ pya’eve.
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } ojapopyre
+mobile-focus-we-believe-everyone = Roguerovia opavave ohechava’erã tapiaite iñeikundaha ñandutípe. Ha’e umi roñorairõha ary 1998 guive.
