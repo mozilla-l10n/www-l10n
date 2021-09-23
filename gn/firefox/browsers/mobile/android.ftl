@@ -31,5 +31,6 @@ mobile-android-addons-are-like = Moĩmbahakuéra ha’e tembipuru ha’evéva em
 mobile-android-pick-up-where = Eku’ejey eheja haguégui
 mobile-android-go-from-your = Embohasa pumbyrýgui mohendahápe, tableta ha ambueháicha okañy’ỹre mba’eve. { -brand-name-firefox } ndive opaite mba’e’okápe, erahakuaa nde rechaukaha, ñe’ẽñemi, tembiapo ñepyrũ ñongatupyre ha kundahára rembiasakue eho ehohápe.
 mobile-android-search-from-your = Eheka mba’erechaha pumbyrygua ñepyrũha guive
+mobile-android-no-need-to = Natekotevẽi embojuruja tembipuru’i. Embjuaju jehekaha widget { -brand-name-firefox } ha eike ñandutípe ne mba’e’oka mba’erechaha ñepyrũgua guive.
 mobile-android-pin-videos-to = Embojuehe ta’ãngamýi ne mba’erechaháre
 mobile-android-about-mozilla = { -brand-name-mozilla } rehegua
