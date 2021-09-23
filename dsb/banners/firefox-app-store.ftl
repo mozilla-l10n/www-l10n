@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/ (View on an Android or iOS browser)
 
 banner-firefox-app-store-title = { -brand-name-firefox }: Priwatny, wěsty wobglědowak
+banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Wobglědowak z priwatnosću
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Dermotny – w { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Dermotny – w { -brand-name-app-store }
