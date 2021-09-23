@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = Bloquea las cookies de rast
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Bloquea las cookies de rastreo de terceros
 compare-shared-blocks-cryptomining-scripts = Bloquea los scripts de criptomineros
+compare-shared-blocks-fingerprinting-scripts = Bloquea scripts de creación de huellas (fingerprint)
 compare-shared-blocks-social-trackers = Bloquea los rastreadores sociales
+compare-shared-dashboard-to-review = Panel para revisar rastreadores bloqueados
 compare-shared-autoplay-blocking = Bloqueo de reproducción automática
 compare-shared-tab-browsing = Navegación con pestañas
 compare-shared-bookmark-manager = Administrador de marcadores
 compare-shared-automatically-fills-out-forms = Llena formularios automáticamente
+compare-shared-automatically-fills-out-payments = Completa automáticamente datos de pagos
 compare-shared-search-engine-options = Opciones de motor de búsqueda
 compare-shared-text-to-speech = Texto a voz
 compare-shared-reader-mode = Modo de lectura
