@@ -15,3 +15,6 @@ browsers-mobile-get-the-mobile-browser-privacy = Pořiďte si mobilní prohlíž
 browsers-mobile-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = Neskonale přizpůsobitelný, soukromý a bezpečný { -brand-name-firefox } pro { -brand-name-android(case: "acc") } je bleskurychlý prohlížeč, který vás nikdy nezaprodá.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } pro { -brand-name-ios }
+# "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
+browsers-mobile-get-enhanced-tracking-protection = Získejte rozšířenou ochranu proti sledování a učiňte z { -brand-name-firefox(case: "gen") } ve svém { -brand-name-iphone(case: "loc") } a { -brand-name-ipad(case: "loc") } už navždy svůj výchozí prohlížeč.
+browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
