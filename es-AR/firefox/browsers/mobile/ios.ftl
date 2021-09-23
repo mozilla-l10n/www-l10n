@@ -22,6 +22,11 @@ mobile-ios-keep-whats-personal = Mantené lo que es personal en privado sin sacr
 mobile-ios-stay-private-online = Mantenete privado en línea
 mobile-ios-your-browsing-history = Tu historial de navegación es historia
 mobile-ios-if-you-want = Si querés, podés seleccionar fácilmente conectarte y buscar en el modo de navegación privada. Y cuando se cierra el modo de navegación privada, el historial de navegación y las cookies se borran automáticamente de tu dispositivo.
+mobile-ios-add-firefox-across-v2 = Agregá { -brand-name-firefox } a todos tus dispositivos para una navegación segura y sin problemas. Sincronizá tus dispositivos para llevar tus marcadores favoritos, inicios de sesión guardados, contraseñas e historial de navegación donde quiera que vayas. Además, enviá pestañas abiertas entre tu teléfono y el escritorio para continuar donde lo dejaste.
+# Obsolete string
+mobile-ios-add-firefox-across = Agregá { -brand-name-firefox } a todos tus dispositivos para una navegación segura y sin problemas. Usá { -brand-name-sync } en tus dispositivos para llevar tus marcadores favoritos, inicios de sesión guardados, contraseñas e historial de navegación donde quiera que vayas. Además, enviá pestañas abiertas entre tu teléfono y el escritorio para continuar donde lo dejaste.
 mobile-ios-find-it-all = Encontrá todo más rápido
+mobile-ios-get-search-suggestions = Obtené sugerencias de búsqueda en la barra de búsqueda y accedé rápidamente a los sitios que más visitás. Escribí tu pregunta de búsqueda y obtené resultados sugeridos y previamente buscados en tus buscadores favoritos.
 mobile-ios-discover-more-of = Descubrí más de lo que te gusta
 mobile-ios-about-mozilla = Acerca de { -brand-name-mozilla }
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } existe para construir Internet como un recurso público accesible para todos porque creemos que abierto y gratis es mejor que cerrado y controlado. Creamos productos como { -brand-name-firefox } y { -brand-name-pocket } para promover la elección, la transparencia y el control.
