@@ -16,6 +16,8 @@ mobile-compare-at-a-minimum-v2 = Váš mobilní prohlížeč by měl přinejmen�
 mobile-compare-at-a-minimum = Váš mobilní prohlížeč by měl přinejmenším poskytovat nějakou formu „režimu soukromého prohlížení“, který automaticky odstraní vaší historii prohlížení a vyhledávání. V této oblasti boduje všech sedm porovnávaných prohlížečů.
 mobile-compare-another-mobile-feature = Další mobilní funkcí, která by měla být samozřejmostí, je možnost zabránit webovým stránkám a společnostem sledovat vaše údaje o prohlížení a nakupování – a to i v režimu normálního prohlížení.
 mobile-compare-blocking-thirdparty-trackers = Blokování sledovacích prvků třetích stran není důležité jen z hlediska ochrany soukromí – pomáhá také stránkám načítat se mnohem rychleji bez těchto kousků kódu, které se k nim přičleňují a zpomalují prohlížeč.
-mobile-compare-from-the-chart = Z výše uvedeného grafu je zřejmé, že { -brand-name-firefox } nabízí nejúplnější sadu nástrojů pro ochranu soukromí a zajištění bezpečnosti ze všech pěti prohlížečů a poskytuje přehled o celkovém zabezpečení a ochraně soukromí na internetu.
+mobile-compare-from-the-chart = Z výše uvedeného grafu je zřejmé, že { -brand-name-firefox } nabízí nejúplnější sadu nástrojů pro ochranu soukromí a zajištění bezpečnosti ze všech pěti prohlížečů, a poskytuje přehled o celkovém zabezpečení a ochraně soukromí na internetu.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Funkce</strong>
+mobile-compare-features = Funkce
+mobile-compare-what-can-your = Co pro vás může váš prohlížeč udělat?
