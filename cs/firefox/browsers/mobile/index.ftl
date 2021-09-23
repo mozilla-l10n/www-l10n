@@ -22,6 +22,12 @@ browsers-mobile-looking-for-a-streamlined = Hledáte jednoduchý, superrychlý m
 browsers-mobile-compare-mobile-browsers = Porovnejte mobilní prohlížeče
 browsers-mobile-see-how-firefox-stacks-up = Podívejte se, jak si { -brand-name-firefox } stojí v porovnání s ostatními oblíbenými prohlížeči z hlediska tří hlavních kritérií: ochrany soukromí, rozsahu funkcí a synchronizace.
 browsers-mobile-compare = Porovnat
-browsers-mobile-see-how-firefox-for-desktop-stacks = Podívejte se, jak si { -brand-name-firefox } pro počítače stojí v porovnání se sedmi dalšími prohlížeči.
+browsers-mobile-see-how-firefox-for-desktop-stacks = Podívejte se, jak si { -brand-name-firefox } pro počítač stojí v porovnání se sedmi dalšími prohlížeči.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Podívejte se, jak si { -brand-name-firefox } pro <strong>počítače</strong> stojí v porovnání se sedmi dalšími prohlížeči.
+browsers-mobile-see-how-firefox-for-desktop-strong = Podívejte se, jak si { -brand-name-firefox } pro <strong>počítač</strong> stojí v porovnání se sedmi dalšími prohlížeči.
+browsers-mobile-join-firefox-and-get-the-most = Přihlaste se k { -brand-name-firefox(case: "dat") } a využívejte naše produkty na maximum – na všech zařízeních.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+browsers-mobile-already-have-an-account-sign = Už máte účet? <a { $fxa_attr }>Přihlaste se</a> nebo <a { $accounts_attr }>zjistěte více</a> o připojení se do { -brand-name-firefox(case: "gen") }.
+browsers-mobile-download = Stáhnout
