@@ -25,6 +25,7 @@ mobile-android-search-your-own = Eheka mba’éichapa
 mobile-android-save-power-with = Eipuru’ive batería teko ypytũme
 mobile-android-switch-to-dark = Emoambue ypytũ reko oimeraẽva aravo omomichĩve hag̃ua tesa kane’õ ha ipukuve hag̃ua batería jepuru.
 mobile-android-easily-organize-your = Emoĩpora ne rendaykekuéra
+mobile-android-got-lots-of = ¿Eguereko heta tendayke embojurujáva? Naiñapañuãiri, embyatypaite peteĩ hendápe. Umi ñembyatyguasu avei emoherakuãkuaa mba’e’okakuéra pa’ũme ikatu hag̃uáicha eikundaha ema’ẽ’ỹre mba’e’oka reipurúva rehe.
 mobile-android-supercharge-firefox-with = Emombarete { -brand-name-firefox } moĩmbaha ndive
 mobile-android-pick-up-where = Eku’ejey eheja haguégui
 mobile-android-search-from-your = Eheka mba’erechaha pumbyrygua ñepyrũha guive
