@@ -26,3 +26,5 @@ mobile-compare-a-main-ingredient = Hlavní složkou dobře vytvořeného prohlí
 mobile-compare-syncing-strong = <strong>Synchronizace</strong>
 mobile-compare-syncing = Synchronizace
 mobile-compare-does-your-browser = Spolupracuje váš prohlížeč dobře s jinými zařízeními?
+mobile-compare-the-mobile-version = Mobilní verze { -brand-name-safari }, která je předinstalovaná v mobilních zařízeních od { -brand-name-apple(case: "gen") }, je kompatibilní pouze s ostatními zařízeními od { -brand-name-apple(case: "gen") }, jako je { -brand-name-ipad } a notebooky { -brand-name-mac-short }. { -brand-name-firefox }, { -brand-name-chrome } a { -brand-name-opera } fungují na všech platformách, tj. na { -brand-name-ios(case: "ins") }, { -brand-name-android(case: "ins") }, { -brand-name-windows(case: "ins") }, { -brand-name-mac-short(case: "ins") } a { -brand-name-linux(case: "ins") }, s výjimkou prohlížeče { -brand-name-edge }, který není kompatibilní se zařízeními založenými na { -brand-name-linux(case: "loc") }.
+mobile-compare-almost-all-of = Téměř všechny zde porovnávané mobilní prohlížeče umožňují úplnou synchronizaci mezi mobilními a stolními zařízeními.
