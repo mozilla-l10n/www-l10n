@@ -18,6 +18,7 @@ mobile-android-send-a-download-link-to-your = Emondo juajuha mboguejyrã ne pumb
 mobile-android-scan-the-qr-code-to-get-started = Emoha’ãnga QR ayvu eñepyrũ hag̃ua
 mobile-android-scan-alt-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-name-firefox } { -brand-name-android }-pe
 mobile-android-fast-and-private = Ipya’e ha Hekoñemi
+mobile-android-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã ome’ẽ ñemo’ã ñemigua kane’õ’ỹre kuatiarogue myanyhẽ pya’e ndive. Tapykuehoha ñemo’ã tuichavéva ojoko ijehegui tapykuehoha ñandutigua ani hag̃ua nde rapykueho ñandutípe ha omombegue nde kuatiarogue.
 mobile-android-one-tap-to = Jepoko tekoñemi ayvúpe g̃uarã
 mobile-android-get-to-private = Eike kundahára ñimigua rekópe peteĩ jekutúpe. Ha embotývo kundahára ñimigua reko, ne ñeikundaha rembiasakue oguéta ijehegui ne mba’e’okápe.
 mobile-android-search-your-own = Eheka mba’éichapa
