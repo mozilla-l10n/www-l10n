@@ -21,6 +21,7 @@ mobile-ios-fast-private-secure = Rápido. Privado. Seguro
 mobile-ios-keep-whats-personal = Mantené lo que es personal en privado sin sacrificar la velocidad ultrarrápida. Además, las funciones de navegación inteligente te brindan el poder de llevar tu privacidad, contraseñas y marcadores de manera segura dondequiera que vayas, lo que facilita tu vida en línea.
 mobile-ios-stay-private-online = Mantenete privado en línea
 mobile-ios-your-browsing-history = Tu historial de navegación es historia
+mobile-ios-if-you-want = Si querés, podés seleccionar fácilmente conectarte y buscar en el modo de navegación privada. Y cuando se cierra el modo de navegación privada, el historial de navegación y las cookies se borran automáticamente de tu dispositivo.
 mobile-ios-find-it-all = Encontrá todo más rápido
 mobile-ios-discover-more-of = Descubrí más de lo que te gusta
 mobile-ios-about-mozilla = Acerca de { -brand-name-mozilla }
