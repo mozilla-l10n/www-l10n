@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = Blokěrujo pó standarźe s
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Blokěrujo slědujuce cookiejei tśeśich
 compare-shared-blocks-cryptomining-scripts = Blokěrujo kryptokopańske skripty
+compare-shared-blocks-fingerprinting-scripts = Blokěrujo skripty, kótrež wótśišće palcow bjeru
 compare-shared-blocks-social-trackers = Blokěrujo socialne pśeslědowaki
+compare-shared-dashboard-to-review = Delka wó zablokěrowanych pśeslědowakach
 compare-shared-autoplay-blocking = Blokěrowanje awtomatiskego wótgrawanja
 compare-shared-tab-browsing = Rejtarikowe pśeglědowanje
 compare-shared-bookmark-manager = Zastojnik cytańskich znamjenjow
 compare-shared-automatically-fills-out-forms = Awtomatiske wudopołnjenje formularow
+compare-shared-automatically-fills-out-payments = Zapisujo awtomatiski płaśenja
 compare-shared-search-engine-options = Nastajenja pytnicow
 compare-shared-text-to-speech = Tekst do powědanja
 compare-shared-reader-mode = Cytański modus
