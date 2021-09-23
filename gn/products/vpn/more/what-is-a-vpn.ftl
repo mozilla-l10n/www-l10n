@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = ¿Mba’épa VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Ereko mbohovái porundy porandúpe VPNs rehegua eñemomarandu hag̃ua ojejapóvare, araka’épa eipurúta ha mba’ére.
 vpn-what-is-how-do-vpns = ¿Mba’éicha omba’apo VPNs?
 vpn-what-is-a-vpn-is = Ko VPN ha’e peteĩ tembipuru omoneĩva eikekuaa hag̃ua ñandutípe tekorosãme eime eimehápe. Ko VPN omba’apo omoheñóivo “túnel” hekorosãva ne mba’e’oka ha ne VPN me’ẽhára ha ne mo’ã añete mokõi mba’égui:
 vpn-what-is-concealing-your-ip = Emokañývo nde IP kundaharape, emo’ãvo nde reratee ha ne rendaite.
