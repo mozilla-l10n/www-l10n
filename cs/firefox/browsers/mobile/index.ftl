@@ -31,3 +31,5 @@ browsers-mobile-join-firefox-and-get-the-most = Přihlaste se k { -brand-name-fi
 #   $accounts_attr (string) - anchor link url and attributes
 browsers-mobile-already-have-an-account-sign = Už máte účet? <a { $fxa_attr }>Přihlaste se</a> nebo <a { $accounts_attr }>zjistěte více</a> o připojení se do { -brand-name-firefox(case: "gen") }.
 browsers-mobile-download = Stáhnout
+browsers-mobile-android = { -brand-name-android }
+browsers-mobile-ios = { -brand-name-ios }
