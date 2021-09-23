@@ -20,3 +20,8 @@ browsers-mobile-get-enhanced-tracking-protection = Získejte rozšířenou ochra
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Hledáte jednoduchý, superrychlý mobilní prohlížeč s pokročilejšími funkcemi pro ochranu soukromí? { -brand-name-firefox-focus } automaticky vymaže veškerou historii prohlížení od okamžiku otevření prohlížeče až do jeho zavření.
 browsers-mobile-compare-mobile-browsers = Porovnejte mobilní prohlížeče
+browsers-mobile-see-how-firefox-stacks-up = Podívejte se, jak si { -brand-name-firefox } stojí v porovnání s ostatními oblíbenými prohlížeči z hlediska tří hlavních kritérií: ochrany soukromí, rozsahu funkcí a synchronizace.
+browsers-mobile-compare = Porovnat
+browsers-mobile-see-how-firefox-for-desktop-stacks = Podívejte se, jak si { -brand-name-firefox } pro počítače stojí v porovnání se sedmi dalšími prohlížeči.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Podívejte se, jak si { -brand-name-firefox } pro <strong>počítače</strong> stojí v porovnání se sedmi dalšími prohlížeči.
