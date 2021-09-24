@@ -12,7 +12,7 @@ mobile-android-firefox-browser-for = Mae porwr { -brand-name-firefox } { -brand-
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 # "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Ewch yn symudol. Ewch yn annibynnol gyda { -brand-name-firefox } { -brand-name-android }
-mobile-android-when-you-download = Pan fyddwch yn llwytho { -brand-name-firefox } i lawr, rydych yn dewis cefnogi cwmni technoleg annibynnol. { brand-name-firefox } yw'r unig borwr mawr sy'n cael ei gefnogi gan gorff dim-er-elw sy'n brwydro i cynnig mwy o ryddid, tryloywder a rheolaeth i'ch bywyd ar-lein.
+mobile-android-when-you-download = Pan fyddwch yn llwytho { -brand-name-firefox } i lawr, rydych yn dewis cefnogi cwmni technoleg annibynnol. { -brand-name-firefox } yw'r unig borwr mawr sy'n cael ei gefnogi gan gorff dim-er-elw sy'n brwydro i cynnig mwy o ryddid, tryloywder a rheolaeth i'ch bywyd ar-lein.
 mobile-android-get-firefox-for = Cael { -brand-name-firefox } { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Anfonwch ddolen llwytho i'ch ffôn.
 mobile-android-scan-the-qr-code-to-get-started = Sganiwch y cod QR i gychwyn
