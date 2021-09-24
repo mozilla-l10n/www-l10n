@@ -18,3 +18,5 @@ mobile-android-send-a-download-link-to-your = Poslat odkaz ke stažení do vaše
 mobile-android-scan-the-qr-code-to-get-started = Naskenujte QR kód a můžete začít
 mobile-android-scan-alt-text = Naskenujte QR kód a získejte { -brand-name-firefox(case: "acc") } v systému { -brand-name-android }
 mobile-android-fast-and-private = Rychlý a soukromý
+mobile-android-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android(case: "acc") } nabízí snadnou ochranu soukromí a bleskurychlé načítání stránek. Rozšířená ochrana proti sledování automaticky blokuje webové sledovací prvky, aby vás nesledovaly po celém webu a nezpomalovaly načítání stránek.
+mobile-android-one-tap-to = Soukromý režim na jedno klepnutí
