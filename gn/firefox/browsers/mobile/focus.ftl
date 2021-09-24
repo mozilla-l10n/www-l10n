@@ -11,6 +11,7 @@ mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Kundahá
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } ha’e kundahára omba’apóva ñemigua ñemo’ã ijeheguívare tapykuehoha ha maranduñemurã ndive.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Ñeikundaha pumbyry ñemiguápe
+mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } ha’e kundahára hekoñemíva orekóva tapykuehoha ñemo’ã ijeheguíva ha ojokóva ñemurã. { -brand-name-focus } ndive kuatiaroguekuéra henyhẽ pya’eve ha mba’ekuaarã iñemi.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } eipurukuaa mba’e’okápe { -brand-name-ios } ndive ha { -brand-name-android }.
 mobile-focus-get-firefox-focus = Erekóke { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Emondo juajuha mboguejyrã ne pumbyrýpe.
