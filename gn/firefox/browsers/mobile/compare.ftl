@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = Emoñondive umi 5 kundahára pumbyrygua
+# HTML description
+mobile-compare-who-makes-the = ¿Mávapa ojapo kundahára pumbyrygua oikovéva? Ñamoñondivéta opáichagua { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } ha { -brand-name-opera } jaikuaa hag̃ua.
 mobile-compare-which-mobile-browser = ¿Mba’e kundahára pumbyrygua oreko imba’e kañyhápe?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Mboja’opy</strong>
@@ -16,7 +18,9 @@ mobile-compare-what-can-your = ¿Mba’e ojapokuaa kundahára nderehe?
 mobile-compare-syncing-strong = <strong>Mbojuehepyre</strong>
 mobile-compare-syncing = Mbojuehepyre
 mobile-compare-does-your-browser = ¿Ne kundahára oikoporã ambue mba’e’oka ndive?
+mobile-compare-almost-all-of = Opavave nunga kundahára pumbyrygua oñemoñondivéva omoneĩ ñembojuehe mba’e’oka pumbyrygua pa’ũme ha mesa ariguápe.
 mobile-compare-conclusion = Mohu’ã
+mobile-compare-our-recommendations-aside = Emboykévo ore ñemoñe’ẽ, ejuhu hag̃ua kundahára oikóva añetéva ndéve g̃uarã ojokupytýva ne remikotevẽ rehe ha umi ehecharamovéva eikundahakuévo ñandutípe.
 mobile-compare-search-engine-options = Mongu’eha jeporavorã jeheka
 mobile-compare-text-to-speech = Moñe’ẽrã ayvúpe
 mobile-compare-reader-mode = Ayvúpe ñemoñe’ẽ
