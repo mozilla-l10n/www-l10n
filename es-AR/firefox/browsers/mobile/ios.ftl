@@ -23,11 +23,15 @@ mobile-ios-stay-private-online = Mantenete privado en línea
 mobile-ios-firefox-gives-you = { -brand-name-firefox } te brinda una mayor protección de la privacidad mientras estás en la Web. De forma predeterminada, nuestra Protección de rastreo aumentada bloquea rastreadores y scripts como rastreadores de redes sociales, rastreadores de cookies entre sitios, criptomineros y detectores de huellas dactilares.
 mobile-ios-your-browsing-history = Tu historial de navegación es historia
 mobile-ios-if-you-want = Si querés, podés seleccionar fácilmente conectarte y buscar en el modo de navegación privada. Y cuando se cierra el modo de navegación privada, el historial de navegación y las cookies se borran automáticamente de tu dispositivo.
+mobile-ios-get-more-firefox = Obtené más { -brand-name-firefox } en tu vida.
 mobile-ios-add-firefox-across-v2 = Agregá { -brand-name-firefox } a todos tus dispositivos para una navegación segura y sin problemas. Sincronizá tus dispositivos para llevar tus marcadores favoritos, inicios de sesión guardados, contraseñas e historial de navegación donde quiera que vayas. Además, enviá pestañas abiertas entre tu teléfono y el escritorio para continuar donde lo dejaste.
 # Obsolete string
 mobile-ios-add-firefox-across = Agregá { -brand-name-firefox } a todos tus dispositivos para una navegación segura y sin problemas. Usá { -brand-name-sync } en tus dispositivos para llevar tus marcadores favoritos, inicios de sesión guardados, contraseñas e historial de navegación donde quiera que vayas. Además, enviá pestañas abiertas entre tu teléfono y el escritorio para continuar donde lo dejaste.
 mobile-ios-find-it-all = Encontrá todo más rápido
 mobile-ios-get-search-suggestions = Obtené sugerencias de búsqueda en la barra de búsqueda y accedé rápidamente a los sitios que más visitás. Escribí tu pregunta de búsqueda y obtené resultados sugeridos y previamente buscados en tus buscadores favoritos.
+mobile-ios-keep-tabs-on = Mantené el control de todas esas pestañas
+mobile-ios-create-as-many = Creá tantas pestañas como quieras sin perderles la pista. { -brand-name-firefox } muestra las pestañas abiertas como miniaturas y pestañas numeradas, lo que facilita la búsqueda rápida de lo que buscás.
 mobile-ios-discover-more-of = Descubrí más de lo que te gusta
+mobile-ios-open-a-new = Abrí una nueva pestaña en { -brand-name-firefox } para ver los sitios que más visitás, tus marcadores recientes y artículos populares en { -brand-name-pocket }. { -brand-name-firefox } te brinda acceso rápido a los sitios que usaste más recientemente para ayudarte a llegar más rápido a lo que buscás.
 mobile-ios-about-mozilla = Acerca de { -brand-name-mozilla }
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } existe para construir Internet como un recurso público accesible para todos porque creemos que abierto y gratis es mejor que cerrado y controlado. Creamos productos como { -brand-name-firefox } y { -brand-name-pocket } para promover la elección, la transparencia y el control.
