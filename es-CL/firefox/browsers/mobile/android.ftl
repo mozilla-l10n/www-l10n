@@ -26,6 +26,7 @@ mobile-android-switch-to-dark = Cambie al modo oscuro en cualquier momento para 
 mobile-android-easily-organize-your = Organiza fácilmente tus pestañas
 mobile-android-got-lots-of = ¿Tienes muchas pestañas abiertas? No hay problema, organízalas en colecciones para mantener la concentración. Las colecciones también se pueden compartir entre dispositivos para que puedas continuar tu navegación sin importar qué dispositivo estés usando.
 mobile-android-supercharge-firefox-with = Potencia { -brand-name-firefox } con complementos
+mobile-android-addons-are-like = Los complementos son como pequeñas herramientas poderosas que puedes añadir a tu navegador para hacer cosas como potenciar los ajustes de privacidad predeterminados y personalizar tu experiencia.
 mobile-android-pick-up-where = Continúa donde quedaste
 mobile-android-search-from-your = Busca desde la pantalla de inicio de tu teléfono
 mobile-android-pin-videos-to = Ancla videos a tu pantalla
