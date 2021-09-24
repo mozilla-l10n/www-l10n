@@ -13,10 +13,14 @@ browsers-mobile-at-home-or-on-the-move = Nde róga térã okápe, eikotevẽ tek
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-get-the-mobile-browser-privacy = Aguerekóma kundahára omotenondéva nde <strong>rekoñemi</strong>
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã
+browsers-mobile-infinitely-customizable-private = Eñemomba’ekuaa, hekoñemi ha hekorosã, { -brand-name-firefox } { -brand-name-android } peg̃uarã ha’e kundahára ipya’e añetéva araka’eve nanembyaimo’ãiva.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg̃uarã
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Emoñondive kundahára pumbyrygua
 browsers-mobile-compare = Moñondive
+browsers-mobile-see-how-firefox-for-desktop-stacks = Mba’éichapa { -brand-name-firefox } mohendahagua oñemoñondive pokõi kundahára rehe.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Mba’éichapa { -brand-name-firefox } <strong>mesa arigua</strong> peg̃uarã pokõi kundahára rehe.
 browsers-mobile-download = Mboguejy
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
