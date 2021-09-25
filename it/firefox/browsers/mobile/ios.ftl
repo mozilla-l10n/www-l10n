@@ -23,3 +23,5 @@ mobile-ios-get-search-suggestions = Ottieni suggerimenti di ricerca nella barra 
 mobile-ios-keep-tabs-on = Tieni sotto controllo tutte le tue schede
 mobile-ios-create-as-many = Crea tutte le schede che desideri senza perderne traccia. { -brand-name-firefox } visualizza le schede aperte come miniature e schede numerate, rendendo più facile e rapida la ricerca di ciò che ti interessa.
 mobile-ios-discover-more-of = Scopri di più su ciò che ami
+mobile-ios-open-a-new = Apri una nuova scheda in { -brand-name-firefox } per vedere i siti che visiti con maggior frequenza, i tuoi segnalibri recenti e gli articoli più popolari su { -brand-name-pocket }. { -brand-name-firefox } ti consente di accedere rapidamente ai siti utilizzati più di recente per aiutarti a raggiungere la tua destinazione più velocemente.
+mobile-ios-about-mozilla = Informazioni su { -brand-name-mozilla }
