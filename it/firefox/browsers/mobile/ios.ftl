@@ -24,6 +24,9 @@ mobile-ios-firefox-gives-you = { -brand-name-firefox } ti offre una maggiore pro
 mobile-ios-your-browsing-history = Dimentica la tua cronologia
 mobile-ios-if-you-want = Se lo desideri, puoi facilmente scegliere di andare online ed effettuare ricerche utilizzando la modalità di navigazione anonima. Quando hai finito ed esci dalla modalità di navigazione anonima, la cronologia di navigazione e gli eventuali cookie vengono automaticamente cancellati dal tuo dispositivo.
 mobile-ios-get-more-firefox = Ancora più { -brand-name-firefox } nella tua vita
+mobile-ios-add-firefox-across-v2 = Aggiungi { -brand-name-firefox } ai tuoi dispositivi per una navigazione sicura e senza interruzioni. Sincronizza i tuoi dispositivi per portare sempre con te i tuoi segnalibri preferiti, gli accessi salvati, le password e la cronologia di navigazione ovunque tu vada. Inoltre, puoi inviare le schede aperte sul tuo telefono al tuo computer desktop e viceversa per riprendere da dove avevi interrotto.
+# Obsolete string
+mobile-ios-add-firefox-across = Aggiungi { -brand-name-firefox } ai tuoi dispositivi per una navigazione sicura e senza interruzioni. Sincronizza i tuoi dispositivi con { -brand-name-sync } per portare sempre con te i tuoi segnalibri preferiti, gli accessi salvati, le password e la cronologia di navigazione ovunque tu vada. Inoltre, puoi inviare le schede aperte sul tuo telefono al tuo computer desktop e viceversa per riprendere da dove avevi interrotto.
 mobile-ios-find-it-all = Trova più velocemente tutto ciò che ti serve
 mobile-ios-get-search-suggestions = Ottieni suggerimenti di ricerca nella barra di ricerca e accedi rapidamente ai siti che visiti con maggior frequenza. Digita i termini della tua ricerca e ottieni i risultati suggeriti assieme a quelli ricercati in precedenza sui tuoi motori di ricerca preferiti.
 mobile-ios-keep-tabs-on = Tieni sotto controllo tutte le tue schede
@@ -31,3 +34,4 @@ mobile-ios-create-as-many = Crea tutte le schede che desideri senza perderne tra
 mobile-ios-discover-more-of = Scopri di più su ciò che ami
 mobile-ios-open-a-new = Apri una nuova scheda in { -brand-name-firefox } per vedere i siti che visiti con maggior frequenza, i tuoi segnalibri recenti e gli articoli più popolari su { -brand-name-pocket }. { -brand-name-firefox } ti consente di accedere rapidamente ai siti utilizzati più di recente per aiutarti a raggiungere la tua destinazione più velocemente.
 mobile-ios-about-mozilla = Informazioni su { -brand-name-mozilla }
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } esiste per contribuire alla crescita di Internet come risorsa pubblica accessibile a tutti, perché crediamo che un Web aperto e gratuito sia meglio di uno chiuso e controllato. Realizziamo prodotti come { -brand-name-firefox } e { -brand-name-pocket } per promuovere la possibilità di scelta, la trasparenza e il controllo da parte degli utenti.
