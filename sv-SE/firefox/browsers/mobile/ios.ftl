@@ -24,6 +24,8 @@ mobile-ios-firefox-gives-you = { -brand-name-firefox } ger dig större integrite
 mobile-ios-your-browsing-history = Din surfhistorik är historia
 mobile-ios-if-you-want = Om du vill, kan du enkelt välja att gå ut på internet och söka i privat surfläge. Och när du stänger privat surfläge raderas din webbläsarhistorik och eventuella kakor automatiskt från din enhet.
 mobile-ios-get-more-firefox = Få mer { -brand-name-firefox } i ditt liv
+mobile-ios-add-firefox-across-v2 = Lägg till { -brand-name-firefox } på dina enheter för säker, smidig surfning. Synkronisera dina enheter för att ta med dina favoritbokmärken, sparade inloggningar, lösenord och webbhistorik vart du än går. Skicka dessutom öppna flikar mellan din telefon och dator för att fortsätta där du slutade.
+# Obsolete string
 mobile-ios-add-firefox-across = Lägg till { -brand-name-firefox } på dina enheter för säker, smidig surfning. { -brand-name-sync } dina enheter för att ta med dina favoritbokmärken, sparade inloggningar, lösenord och webbhistorik vart du än går. Skicka dessutom öppna flikar mellan din telefon och dator för att fortsätta där du slutade.
 mobile-ios-find-it-all = Hitta allt snabbare
 mobile-ios-get-search-suggestions = Få sökförslag i sökfältet och få snabbt tillgång till de webbplatser du besöker mest. Skriv in din sökfråga och få föreslagna och tidigare sökresultat för dina favoritsökmotorer.
