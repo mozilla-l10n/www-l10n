@@ -7,7 +7,17 @@
 
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+# HTML description
+mobile-android-firefox-browser-for = O navegador { -brand-name-firefox } para { -brand-name-android } é rápido, seguro e privativo desde a primeira vez que você o abre.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-get-firefox-for = Instale o { -brand-name-firefox } para { -brand-name-android }
+mobile-android-send-a-download-link-to-your = Envie um link de download para seu celular.
+mobile-android-scan-the-qr-code-to-get-started = Capture o código QR para começar
+mobile-android-scan-alt-text = Capture o código QR para instalar o { -brand-name-firefox } no { -brand-name-android }
+mobile-android-fast-and-private = Rápido e privativo
+mobile-android-one-tap-to = Só um toque para o modo privativo
 mobile-android-search-your-own = Pesquise do seu jeito
+mobile-android-save-power-with = Economize bateria com o modo escuro
+mobile-android-switch-to-dark = Mude para o modo escuro quando quiser para reduzir o cansaço visual e prolongar a carga da bateria.
 mobile-android-pick-up-where = Continue de onde parou
 mobile-android-about-mozilla = Sobre a { -brand-name-mozilla }
