@@ -34,3 +34,5 @@ mobile-android-go-from-your = Přejděte z telefonu do notebooku, tabletu a zpě
 mobile-android-search-from-your = Vyhledávejte z domovské obrazovky telefonu
 mobile-android-no-need-to = Není nutné otevírat aplikaci. Přidejte si widget pro vyhledávání ve { -brand-name-firefox(case: "loc") } a vyhledávejte na webu přímo z domovské obrazovky zařízení.
 mobile-android-pin-videos-to = Připněte si videa na obrazovku
+mobile-android-pop-videos-out = Vyjměte videa z jejich webových stránek nebo přehrávačů a připněte je na obrazovku telefonu, abyste je mohli sledovat a zároveň surfovat po webu nebo dělat jiné věci. Bavte se, i když děláte více věcí najednou.
+mobile-android-about-mozilla = O { -brand-name-mozilla(case: "loc") }
