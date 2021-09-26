@@ -36,3 +36,4 @@ mobile-android-no-need-to = Není nutné otevírat aplikaci. Přidejte si widget
 mobile-android-pin-videos-to = Připněte si videa na obrazovku
 mobile-android-pop-videos-out = Vyjměte videa z jejich webových stránek nebo přehrávačů a připněte je na obrazovku telefonu, abyste je mohli sledovat a zároveň surfovat po webu nebo dělat jiné věci. Bavte se, i když děláte více věcí najednou.
 mobile-android-about-mozilla = O { -brand-name-mozilla(case: "loc") }
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } existuje proto, aby se internet stal veřejným zdrojem přístupným všem, protože věříme, že otevřený a svobodný je lepší než uzavřený a regulovaný. Vytváříme produkty jako { -brand-name-firefox } a { -brand-name-pocket }, které podporují možnost volby, transparentnost a plnou kontrolu.
