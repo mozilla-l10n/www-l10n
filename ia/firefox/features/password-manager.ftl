@@ -15,7 +15,7 @@ password-manager-give-up-the-memory = Libere del jocos de memoria con le Gestor 
 password-manager-password-hero = Le heroe del contrasignos
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
-password-manager-forget-the-reset-v2 = Oblida le reinitialisar. { -brand-name-firefox } Gestor de contrasignos mantene tote tu contrasignos de sorta que tu pote aperir session automaticamente, o trovar contrasignos salvate facilemente. Pro super securitate, da a tu computator un <a href="{ $url }">contrasigno primari</a>.
+password-manager-forget-the-reset-v2 = Oblida le reinitialisar. Le gestor de contrasignos de { -brand-name-firefox } mantene tote tu contrasignos de sorta que tu pote aperir session automaticamente, o trovar contrasignos salvate facilemente. Pro securitate superbe, da a tu computator un <a href="{ $url }">contrasigno primari</a>.
 # Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
