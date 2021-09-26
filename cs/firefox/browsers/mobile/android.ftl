@@ -31,3 +31,6 @@ mobile-android-supercharge-firefox-with = Vylepšete si { -brand-name-firefox(ca
 mobile-android-addons-are-like = Doplňky jsou jakési malé výkonné nástroje, které si můžete přidat do prohlížeče, například za účelem zvýšení výchozí úrovně ochrany soukromí nebo přizpůsobení prostředí.
 mobile-android-pick-up-where = Pokračujte tam, kde jste skončili
 mobile-android-go-from-your = Přejděte z telefonu do notebooku, tabletu a zpět bez vynechání jediné řádky. S { -brand-name-firefox(case: "ins") } na všech svých zařízeních si můžete vzít své záložky, uložené přihlašovací údaje a historii prohlížení kamkoli s sebou.
+mobile-android-search-from-your = Vyhledávejte z domovské obrazovky telefonu
+mobile-android-no-need-to = Není nutné otevírat aplikaci. Přidejte si widget pro vyhledávání ve { -brand-name-firefox(case: "loc") } a vyhledávejte na webu přímo z domovské obrazovky zařízení.
+mobile-android-pin-videos-to = Připněte si videa na obrazovku
