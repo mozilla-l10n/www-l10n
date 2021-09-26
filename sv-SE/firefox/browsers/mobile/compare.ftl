@@ -6,11 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
 # HTML page title
-mobile-compare-5-of-the-best = 5 av de bästa mobilwebbläsarna i direkt jämförelse
+mobile-compare-5-of-the-best = 5 av de bästa mobilwebbläsarna i en direkt jämförelse
 # HTML description
 mobile-compare-who-makes-the = Vem gör den bästa mobilwebbläsaren? Vi jämför mobilversioner av { -brand-name-firefox },{ -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } och { -brand-name-opera } för att ta reda på det.
 mobile-compare-since-your-mobile = Eftersom din mobila webbläsare är din inkörsport till information var du än är, är snabbhet, säkerhet, integritet och användarvänlighet nycklarna till en bra upplevelse. Så vilken är den bästa mobilwebbläsaren? Låt oss jämföra de bästa — och se vilken som bäst passar dina behov.
 mobile-compare-which-mobile-browser = Vilken mobil webbläsare håller saker konfidentiella?
+# Obsolete string
 mobile-compare-at-a-minimum = Åtminstone bör din mobilwebbläsare tillhandahålla någon version av "privat surfläge", som automatiskt tar bort din historik och sökhistorik. I detta område får alla sju webbläsare som jämförs poäng.
 mobile-compare-another-mobile-feature = En annan mobilfunktion som borde vara given är möjligheten att hindra webbplatser och företag från att spåra din surf- och shoppingdata — även i normalt surfläge.
 mobile-compare-blocking-thirdparty-trackers = Att blockera tredjepartsspårare är inte bara viktigt för integriteten — det hjälper också sidor att ladda mycket snabbare, utan att dessa kodsnuttar bifogar sig och slöar ner din webbläsare.
