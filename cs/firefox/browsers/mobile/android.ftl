@@ -26,3 +26,4 @@ mobile-android-got-a-big = Máte velký telefon a normálně velké palce? Žád
 mobile-android-save-power-with = Šetřete energii díky tmavému režimu
 mobile-android-switch-to-dark = Přepnutím do tmavého režimu kdykoli snížíte namáhání očí a prodloužíte výdrž baterie.
 mobile-android-easily-organize-your = Snadno si uspořádejte své panely
+mobile-android-got-lots-of = Máte spoustu otevřených panelů? Žádný problém, uspořádejte si je do sbírek, abyste se mohli soustředit na daný úkol. Sbírky lze také sdílet mezi zařízeními, takže můžete pokračovat v prohlížení téhož, ať už používáte jakékoliv zařízení.
