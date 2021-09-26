@@ -7,6 +7,10 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = 5 dei migliori browser per dispositivi mobili messi a confronto
+# HTML description
+mobile-compare-who-makes-the = Chi realizza il miglior browser per dispositivi mobili? Andremo a confrontare le versioni mobili di { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } e { -brand-name-opera } per scoprirlo.
+mobile-compare-since-your-mobile = Il browser mobile rappresenta il tuo punto di accesso alle informazioni ovunque ti trovi. Per questo motivo velocità, sicurezza, privacy e facilità d’uso sono fondamentali per una buona esperienza. Qual è allora il miglior browser per dispositivi mobili? Mettiamo i migliori a confronto e vediamo quale si adatta meglio alle tue esigenze.
+mobile-compare-which-mobile-browser = Quale browser mobile garantisce la massima riservatezza?
 mobile-compare-another-mobile-feature = Un’altra opzione che ogni browser mobile dovrebbe offrire all’utente è la possibilità di impedire a siti web e aziende di tenere traccia dei dati di navigazione e di acquisto, anche in modalità di navigazione normale.
 mobile-compare-blocking-thirdparty-trackers = Il blocco degli elementi traccianti di terze parti è importante non solo per la privacy ma aiuta anche a caricare le pagine più velocemente, senza che il browser sia rallentato dall’aggiunta di quei frammenti di codice.
 mobile-compare-from-the-chart = Dal grafico qui sopra è chiaro che { -brand-name-firefox } offre il set di strumenti per la privacy e la sicurezza più completo tra i cinque browser e fornisce una panoramica complessiva sulla tua sicurezza e la tua privacy online.
