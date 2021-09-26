@@ -21,3 +21,4 @@ mobile-android-fast-and-private = Rychlý a soukromý
 mobile-android-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android(case: "acc") } nabízí snadnou ochranu soukromí a bleskurychlé načítání stránek. Rozšířená ochrana proti sledování automaticky blokuje webové sledovací prvky, aby vás nesledovaly po celém webu a nezpomalovaly načítání stránek.
 mobile-android-one-tap-to = Soukromý režim na jedno klepnutí
 mobile-android-get-to-private = Do režimu anonymního prohlížení se dostanete jediným klepnutím. A po jeho ukončení se vaše historie prohlížení ze zařízení automaticky vymaže.
+mobile-android-search-your-own = Hledejte po svém
