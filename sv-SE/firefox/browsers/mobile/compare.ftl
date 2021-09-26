@@ -11,6 +11,7 @@ mobile-compare-5-of-the-best = 5 av de bästa mobilwebbläsarna i en direkt jäm
 mobile-compare-who-makes-the = Vem gör den bästa mobilwebbläsaren? Vi jämför mobilversioner av { -brand-name-firefox },{ -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } och { -brand-name-opera } för att ta reda på det.
 mobile-compare-since-your-mobile = Eftersom din mobila webbläsare är din inkörsport till information var du än är, är snabbhet, säkerhet, integritet och användarvänlighet nycklarna till en bra upplevelse. Så vilken är den bästa mobilwebbläsaren? Låt oss jämföra de bästa — och se vilken som bäst passar dina behov.
 mobile-compare-which-mobile-browser = Vilken mobil webbläsare håller saker konfidentiella?
+mobile-compare-at-a-minimum-v2 = Åtminstone bör din mobilwebbläsare tillhandahålla någon version av "privat surfläge", som automatiskt tar bort din historik och sökhistorik. I detta område får alla fem webbläsare som jämförs poäng.
 # Obsolete string
 mobile-compare-at-a-minimum = Åtminstone bör din mobilwebbläsare tillhandahålla någon version av "privat surfläge", som automatiskt tar bort din historik och sökhistorik. I detta område får alla sju webbläsare som jämförs poäng.
 mobile-compare-another-mobile-feature = En annan mobilfunktion som borde vara given är möjligheten att hindra webbplatser och företag från att spåra din surf- och shoppingdata — även i normalt surfläge.
@@ -25,6 +26,9 @@ mobile-compare-a-main-ingredient = En viktig ingrediens i en välgjord webbläsa
 mobile-compare-syncing-strong = <strong>Synkronisering</strong>
 mobile-compare-syncing = Synkronisering
 mobile-compare-does-your-browser = Funkar din webbläsare bra med andra enheter?
+mobile-compare-the-mobile-version = Mobilversionen av { -brand-name-safari }, som är förinstallerad på { -brand-name-apple }:s mobila enheter, är endast kompatibel med andra { -brand-name-apple }-enheter som { -brand-name-ipad } och { -brand-name-mac-short } bärbara datorer. { -brand-name-firefox }, { -brand-name-chrome } och { -brand-name-opera } fungerar på alla plattformar inklusive { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short } och { -brand-name-linux }, med undantag för webbläsaren { -brand-name-edge } som inte är kompatibel med { -brand-name-linux }-baserade enheter.
+mobile-compare-almost-all-of = Nästan alla mobilwebbläsare som jämförs här tillåter fullständig synkronisering mellan mobila och stationära enheter.
+mobile-compare-the-good-news = Den goda nyheten för { -brand-name-iphone }-användare är att { -brand-name-apple } nyligen har tillåtit { -brand-name-iphone }-användare att välja sin egen standardwebbläsare, så nu kan användare synkronisera sina enheter mellan plattformar om de till exempel installerar { -brand-name-firefox } på sin { -brand-name-iphone } och { -brand-name-windows } PC.
 mobile-compare-conclusion = Slutsats
 mobile-compare-search-engine-options = Inställningar för sökmotorer
 mobile-compare-text-to-speech = Text till tal
