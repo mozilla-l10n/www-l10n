@@ -22,3 +22,7 @@ mobile-android-firefox-for-android = { -brand-name-firefox } pro { -brand-name-a
 mobile-android-one-tap-to = Soukromý režim na jedno klepnutí
 mobile-android-get-to-private = Do režimu anonymního prohlížení se dostanete jediným klepnutím. A po jeho ukončení se vaše historie prohlížení ze zařízení automaticky vymaže.
 mobile-android-search-your-own = Hledejte po svém
+mobile-android-got-a-big = Máte velký telefon a normálně velké palce? Žádný problém. { -brand-name-firefox } pro { -brand-name-android(case: "acc") } umožňuje přesunout vyhledávací pole z horní části do spodní, aby se dalo snadněji používat jednou rukou. Také si můžete v rámci prohlížeče zvolit vlastní vyhledávač, a pokud chcete, nastavit { -brand-name-firefox(case: "acc") } jako výchozí prohlížeč.
+mobile-android-save-power-with = Šetřete energii díky tmavému režimu
+mobile-android-switch-to-dark = Přepnutím do tmavého režimu kdykoli snížíte namáhání očí a prodloužíte výdrž baterie.
+mobile-android-easily-organize-your = Snadno si uspořádejte své panely
