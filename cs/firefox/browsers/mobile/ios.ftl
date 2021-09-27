@@ -22,3 +22,4 @@ mobile-ios-keep-whats-personal = Zachovejte si soukromí, aniž byste museli ob�
 mobile-ios-stay-private-online = Ponechte si na internetu soukromí
 mobile-ios-firefox-gives-you = { -brand-name-firefox } vám během pobytu na webu poskytuje lepší ochranu soukromí. Ve výchozím nastavení naše rozšířená ochrana proti sledování blokuje sledovací prvky a skripty, jako třeba sledovací prvky sociálních sítí, sledovací cross-site cookies, těžbu kryptoměny a vytváření otisku prohlížeče.
 mobile-ios-your-browsing-history = Vaše historie prohlížení je minulostí
+mobile-ios-if-you-want = Když budete chtít, můžete snadno zvolit možnost přechodu do režimu online a vyhledávat v režimu soukromého prohlížení. A při jeho ukončení se pak ze zařízení automaticky vymaže historie prohlížení a všechny cookies.
