@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } e { -brand-name-ipad })
+# HTML description
+mobile-ios-firefox-browser-for = El navegador { -brand-name-firefox } para { -brand-name-ios } es rápido, seguro y privado desde la primera vez que lo abres.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-firefox-for = Obtén { -brand-name-firefox } para { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Envía un enlace de descarga a tu teléfono.
