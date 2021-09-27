@@ -19,3 +19,6 @@ mobile-focus-scan-the-qr-code-to-get-started = Naskenujte QR kód a můžete za�
 mobile-focus-scan-alt-text = Naskenujte QR kód a získejte { -brand-name-firefox-focus(case: "acc") }
 mobile-focus-disappear-your-history = Zbavte se své historie
 mobile-focus-easily-erase-your = Snadno vymažte historii, hesla a cookies, aby vás na internetu nepronásledovaly nevítané reklamy. Stačí v adresním řádku klepnout na tlačítko pro vymazání a je to všechno pryč.
+mobile-focus-take-private-mode = Posuňte soukromý režim na vyšší úroveň
+mobile-focus-private-browsing-on = „Soukromé prohlížení“ není ve většině prohlížečů ve skutečnosti až tak soukromé. { -brand-name-firefox-focus } je na vyšší úrovni, vždy se zaměřuje na zajištění soukromí a stojí za ním nezisková organizace { -brand-name-mozilla }, která bojuje za vaše práva na webu.
+mobile-focus-tracking-protection = Ochrana proti sledování
