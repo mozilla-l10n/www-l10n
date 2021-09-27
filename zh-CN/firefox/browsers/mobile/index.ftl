@@ -7,6 +7,8 @@
 
 # HTML page title
 browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } 移动浏览器将您的隐私放在首位
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-get-the-mobile-browser-privacy = 下载将您的<strong>隐私</strong>放在首位的移动浏览器
 browsers-mobile-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox }
 browsers-mobile-firefox-for-ios = { -brand-name-ios } 版 { -brand-name-firefox }
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
