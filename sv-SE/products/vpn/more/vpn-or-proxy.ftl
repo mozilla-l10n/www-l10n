@@ -33,4 +33,19 @@ vpn-or-proxy-vpns-do-more = VPN gör mer än proxy genom att en proxy bara skydd
 vpn-or-proxy-a-vpn-works = Ett VPN fungerar genom att skapa en säker "tunnel" mellan din enhet och internet i stort. Det skyddar din integritet på två viktiga sätt:
 vpn-or-proxy-concealing-your-ip = Döljer din sanna IP-adress. Detta skyddar din identitet och döljer din plats.
 vpn-or-proxy-encrypting-your-traffic = Krypterar trafiken mellan dig och din VPN-leverantör så att ingen i ditt lokala nätverk kan dechiffrera eller ändra den.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = Ett VPN erbjuder också säkerhet på öppna och offentliga WiFi-anslutningar. Öppen WiFi kan vara riskabelt och det är omöjligt att vara säker på att någon annan inte ansluter till samma nätverk för att snoka på vad du gör. Även om din trafik är krypterad kan de fortfarande se vilka webbplatser du besöker. Och om du använder en app som inte har kryptering — och även idag saknar många det — så kan de se allt du gör i den appen. { -brand-name-mozilla-vpn } är en snabb, säker och pålitlig tjänst som kan hjälpa till att minska säkerhetsluckan för dig. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> låter dig också välja din "plats" (dit din trafik verkar komma från) från mer än { $countries } länder.
 vpn-or-proxy-choose-a-trustworthy = Välj en pålitlig tjänst
+# Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-or-proxy-the-most-important = Det viktigaste att tänka på när du väljer antingen ett VPN eller en proxytjänst är att välja ett pålitligt företag. Var säker på att du förstår villkoren du godkänner. Många hävdar att de är stora och fokuserade på integritet, men ett stort antal av dem missar sitt löfte. Alla proxy- och VPN-tjänster är inte säkra och privata. Vissa <a href="{ $cnet }">kommer</a> <a href="{ $pcmag }">logga</a> dina onlineaktiviteter så att de kan sälja din data och information till marknadsföringsföretag. Andra tjänster försöker övertyga dig om att installera skadlig kod på dina enheter.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $fpn (url) - https://fpn.firefox.com/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-or-proxy-weve-done-the = Vi har gjort grovjobbet för att se till att <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> och proxy-tillägget <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> faktiskt respekterar din integritet och det är något vi är villiga att satsa vårt rykte på. { -brand-name-mozilla } har rykte om sig att bygga produkter som hjälper dig att hålla din information säker. Vi följer våra lättlästa, okomplicerade <a href="{ $principles }">dataskyddsprinciper</a> som gör att vi bara kan fokusera på den information vi behöver för att tillhandahålla en tjänst. Och eftersom skaparna av detta VPN stöds av ett <a href="{ $mission }">uppdragsdrivet</a> företag kan du lita på att de pengar du spenderar för denna produkt inte bara kommer att säkerställa att du har ett bra VPN, men gör också internet bättre för alla.
