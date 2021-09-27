@@ -8,6 +8,7 @@
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Mi a VPN?
 vpn-what-is-how-do-vpns = Hogyan működnek a VPN-ek?
+vpn-what-is-when-should-i = Mikor használjak VPN-t?
 vpn-what-is-why-would-i = Miért használnék VPN-t?
 vpn-what-is-what-are-the = Milyen hátrányai vannak a VPN használatának?
 vpn-what-is-are-vpns-safe = Biztonságosak-e a VPN-ek?
