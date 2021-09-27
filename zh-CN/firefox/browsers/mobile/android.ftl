@@ -28,6 +28,7 @@ mobile-android-switch-to-dark = 随时切换至深色模式，缓解眼睛疲劳
 mobile-android-easily-organize-your = 轻松管理您的标签页
 mobile-android-got-lots-of = 开了一大堆标签页？这好办。把它们放入收藏集，使您更好专注于当前任务。收藏集可跨设备同步，因此无论您在用哪台设备，都可以继续浏览相同内容。
 mobile-android-supercharge-firefox-with = 用附加组件增强 { -brand-name-firefox }
+mobile-android-addons-are-like = 附加组件就像是功能强大的小工具，您可以将其安装至浏览器，以增强默认隐私设置或定制浏览体验。
 mobile-android-pick-up-where = 从上次看到的地方继续
 mobile-android-go-from-your = 手机平板笔记本，部部协同节奏稳。在您的所有设备上安装 { -brand-name-firefox }，即可把书签、密码、保存的登录信息以及浏览历史安全随身带着走。
 mobile-android-search-from-your = 从手机主屏幕进行搜索
