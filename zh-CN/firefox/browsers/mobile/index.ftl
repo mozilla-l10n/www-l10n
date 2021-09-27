@@ -13,6 +13,7 @@ browsers-mobile-firefox-for-ios = { -brand-name-ios } 版 { -brand-name-firefox 
 browsers-mobile-get-enhanced-tracking-protection = 将 { -brand-name-firefox } 设为您 { -brand-name-iphone } 和 { -brand-name-ipad } 上的默认浏览器，以获得增强型跟踪保护。
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = 比较移动浏览器
+browsers-mobile-see-how-firefox-stacks-up = 了解 { -brand-name-firefox } 在隐私、功能和同步这三大方面如何与其他主流浏览器相抗衡。
 browsers-mobile-compare = 比较
 browsers-mobile-see-how-firefox-for-desktop-stacks = 看看 { -brand-name-firefox } 桌面版与其他浏览器有何不同。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.

@@ -15,6 +15,7 @@ mobile-focus-get-firefox-focus = 获取 { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = 发送下载链接至您的手机。
 mobile-focus-scan-the-qr-code-to-get-started = 扫码下载
 mobile-focus-scan-alt-text = 扫码下载 { -brand-name-firefox-focus }
+mobile-focus-disappear-your-history = 销毁历史记录
 mobile-focus-easily-erase-your = 轻松清除您的历史记录、密码和 Cookie，拒绝广告跟踪。只需点按搜索栏上的清除按钮，就会消失不见。
 mobile-focus-take-private-mode = 隐私模式更进一步
 mobile-focus-tracking-protection = 跟踪保护
