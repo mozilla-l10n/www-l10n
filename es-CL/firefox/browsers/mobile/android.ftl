@@ -29,5 +29,6 @@ mobile-android-supercharge-firefox-with = Potencia { -brand-name-firefox } con c
 mobile-android-addons-are-like = Los complementos son como pequeñas herramientas poderosas que puedes añadir a tu navegador para hacer cosas como potenciar los ajustes de privacidad predeterminados y personalizar tu experiencia.
 mobile-android-pick-up-where = Continúa donde quedaste
 mobile-android-search-from-your = Busca desde la pantalla de inicio de tu teléfono
+mobile-android-no-need-to = No es necesario abrir la aplicación. Añade el widget de búsqueda de { -brand-name-firefox } y busca directamente en la Web desde la pantalla de inicio de tu dispositivo.
 mobile-android-pin-videos-to = Ancla videos a tu pantalla
 mobile-android-about-mozilla = Acerca de { -brand-name-mozilla }
