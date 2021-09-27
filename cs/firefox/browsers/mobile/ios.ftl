@@ -10,10 +10,11 @@ mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-i
 # HTML description
 mobile-ios-firefox-browser-for = Prohlížeč { -brand-name-firefox } pro { -brand-name-ios(case: "acc") } je rychlý, bezpečný a soukromý od prvního otevření.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-mobile-ios-get-automatic-privacy = Získejte na svém { -brand-name-iphone(case: "loc") } a { -brand-name-ipad(case: "loc") } automaticky soukromí
+mobile-ios-get-automatic-privacy = Získejte na svém { -brand-name-iphone(case: "loc") } a { -brand-name-ipad(case: "loc") } automatické soukromí
 mobile-ios-get-firefox-for = Získejte { -brand-name-firefox(case: "acc") } pro { -brand-name-ios(case: "acc") }
 mobile-ios-send-a-download-link-to-your = Poslat odkaz ke stažení do vašeho telefonu.
 mobile-ios-scan-the-qr-code-to-get-started = Naskenujte QR kód a můžete začít
 mobile-ios-scan-alt-text = Naskenujte QR kód a získejte { -brand-name-firefox(case: "acc") } v systému { -brand-name-ios }
 mobile-ios-make-firefox-your = Nastavte si { -brand-name-firefox(case: "acc") } jako výchozí prohlížeč
 mobile-ios-now-iphone-and = Uživatelé { -brand-name-iphone(case: "gen") } a { -brand-name-ipad(case: "gen") } si nyní mohou zvolit vlastní výchozí prohlížeč. To znamená, že už nejste nuceni používat { -brand-name-safari(case: "acc") } a váš mobilní prohlížeč může být neustále synchronizován s vaším oblíbeným prohlížečem pro počítač. Navíc když si nastavíte { -brand-name-firefox(case: "acc") } jako výchozí prohlížeč, podpoříte nezávislou technologickou společnost. { -brand-name-firefox } je také jediný hlavní prohlížeč, za kterým stojí nezisková organizace.
+mobile-ios-fast-private-secure = Rychlý, soukromý, bezpečný
