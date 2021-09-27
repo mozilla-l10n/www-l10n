@@ -25,3 +25,4 @@ mobile-focus-tracking-protection = Ochrana proti sledování
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } ve výchozím nastavení blokuje celou řadu běžných sledovacích prvků, včetně sledovacích prvků sociálních sítí a těch na vás nalepených, které pocházejí například z reklam na { -brand-name-facebook(case: "loc") }.
 mobile-focus-ad-blocking = Blokování reklam
 mobile-focus-focus-blocks-the = { -brand-name-focus } blokuje reklamy, které se běžně zobrazují na webových stránkách – nejsou zapotřebí žádné další doplňky nebo rozšíření. S menším počtem reklam dosáhnete vyšší rychlosti načítání stránek, což znamená, že se k požadovaným věcem dostanete mnohem rychleji.
+mobile-focus-see-it-all = Vše uvidíte rychleji
