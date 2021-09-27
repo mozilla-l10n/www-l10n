@@ -16,3 +16,4 @@ mobile-ios-send-a-download-link-to-your = Poslat odkaz ke stažení do vašeho t
 mobile-ios-scan-the-qr-code-to-get-started = Naskenujte QR kód a můžete začít
 mobile-ios-scan-alt-text = Naskenujte QR kód a získejte { -brand-name-firefox(case: "acc") } v systému { -brand-name-ios }
 mobile-ios-make-firefox-your = Nastavte si { -brand-name-firefox(case: "acc") } jako výchozí prohlížeč
+mobile-ios-now-iphone-and = Uživatelé { -brand-name-iphone(case: "gen") } a { -brand-name-ipad(case: "gen") } si nyní mohou zvolit vlastní výchozí prohlížeč. To znamená, že už nejste nuceni používat { -brand-name-safari(case: "acc") } a váš mobilní prohlížeč může být neustále synchronizován s vaším oblíbeným prohlížečem pro počítač. Navíc když si nastavíte { -brand-name-firefox(case: "acc") } jako výchozí prohlížeč, podpoříte nezávislou technologickou společnost. { -brand-name-firefox } je také jediný hlavní prohlížeč, za kterým stojí nezisková organizace.
