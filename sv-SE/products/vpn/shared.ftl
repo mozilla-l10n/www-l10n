@@ -13,7 +13,9 @@ vpn-shared-sign-in-link = Är du redan prenumerant?
 vpn-shared-available-countries = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i USA, Storbritannien, Kanada, Nya Zeeland, Singapore och Malaysia.
 # Outdated string
 vpn-shared-available-countries-v2 = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i USA, Storbritannien, Tyskland, Frankrike, Kanada, Malaysia, Nya Zeeland och Singapore.
+# Outdated string
 vpn-shared-available-countries-v3 = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i USA, Kanada, Storbritannien, Tyskland, Frankrike, Italien, Spanien, Belgien, Österrike, Schweiz, Malaysia, Nya Zeeland och Singapore.
+vpn-shared-available-countries-v4 = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i Österrike, Belgien, Kanada, Frankrike, Tyskland, Irland, Italien, Malaysia, Nederländerna, Nya Zeeland, Singapore, Spanien, Schweiz, Storbritannien och USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dagars pengarna tillbaka garanti
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
