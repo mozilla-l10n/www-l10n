@@ -33,5 +33,6 @@ mobile-android-go-from-your = 手机平板笔记本，部部协同节奏稳。�
 mobile-android-search-from-your = 从手机主屏幕进行搜索
 mobile-android-no-need-to = 不打开应用照样能搜。将 { -brand-name-firefox } 搜索小组件添加至主屏幕，即可在您设备的主屏幕上搜遍天下。
 mobile-android-pin-videos-to = 将视频固定到屏幕上
+mobile-android-pop-videos-out = 将视频从网站或播放器中弹出并置顶于手机屏幕，网上冲浪或做其他事时也不影响观看。工作、娱乐，我全都要。
 mobile-android-about-mozilla = 关于 { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } 致力于将互联网打造成人人皆可访问的公共资源，我们坚信开放和免费胜过封闭和受控。为此，我们开发了 { -brand-name-firefox } 和 { -brand-name-pocket } 等产品，以此拓宽用户选择权、提升产品透明度、保障用户控制权。

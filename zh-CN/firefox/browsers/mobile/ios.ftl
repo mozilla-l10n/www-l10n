@@ -13,4 +13,5 @@ mobile-ios-send-a-download-link-to-your = 发送下载链接至您的手机。
 mobile-ios-scan-the-qr-code-to-get-started = 扫码下载
 mobile-ios-scan-alt-text = 扫码下载 { -brand-name-ios } 版 { -brand-name-firefox }
 mobile-ios-make-firefox-your = 将 { -brand-name-firefox } 设为您的默认浏览器
+mobile-ios-find-it-all = 搜索更迅捷
 mobile-ios-about-mozilla = 关于 { -brand-name-mozilla }
