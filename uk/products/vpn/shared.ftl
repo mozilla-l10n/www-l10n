@@ -13,7 +13,9 @@ vpn-shared-sign-in-link = Уже підписалися?
 vpn-shared-available-countries = На сьогодні ми пропонуємо { -brand-name-mozilla-vpn } у США, Великобританії, Канаді, Новій Зеландії, Сингапурі та Малайзії.
 # Outdated string
 vpn-shared-available-countries-v2 = В цей час ми пропонуємо { -brand-name-mozilla-vpn } у США, Великобританії, Німеччині, Франції, Канаді, Малайзії, Новій Зеландії та Сингапурі.
+# Outdated string
 vpn-shared-available-countries-v3 = В цей час ми пропонуємо { -brand-name-mozilla-vpn } у США, Канаді, Великобританії, Німеччині, Франції, Італії, Іспанії, Бельгії, Австрії, Швейцарії, Малайзії, Новій Зеландії та Сингапурі.
+vpn-shared-available-countries-v4 = Наразі ми пропонуємо { -brand-name-mozilla-vpn } в Австрії, Бельгії, Канаді, Франції, Німеччині, Ірландії, Італії, Малайзії, Нідерландах, Новій Зеландії, Сінгапурі, Іспанії, Швейцарії, Великобританії та США.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Гарантоване повернення коштів упродовж 30 днів
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
