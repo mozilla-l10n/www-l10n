@@ -31,4 +31,5 @@ mobile-android-pick-up-where = Continúa donde quedaste
 mobile-android-search-from-your = Busca desde la pantalla de inicio de tu teléfono
 mobile-android-no-need-to = No es necesario abrir la aplicación. Añade el widget de búsqueda de { -brand-name-firefox } y busca directamente en la Web desde la pantalla de inicio de tu dispositivo.
 mobile-android-pin-videos-to = Ancla videos a tu pantalla
+mobile-android-pop-videos-out = Saca los videos de sus sitios web o reproductores y fíjalos a la parte superior de la pantalla de tu teléfono para verlos mientras navegas por la web y realizas otras cosas. Mantén tu entretención a mano mientras realiza múltiples tareas.
 mobile-android-about-mozilla = Acerca de { -brand-name-mozilla }
