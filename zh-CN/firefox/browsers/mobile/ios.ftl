@@ -8,6 +8,7 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = 适用于 { -brand-name-ios }（{ -brand-name-iphone } 和 { -brand-name-ipad }）的 { -brand-name-firefox-browser }
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+mobile-ios-get-firefox-for = 获取 { -brand-name-ios } 版 { -brand-name-firefox }
 mobile-ios-send-a-download-link-to-your = 发送下载链接至您的手机。
 mobile-ios-scan-the-qr-code-to-get-started = 扫码下载
 mobile-ios-scan-alt-text = 扫码下载 { -brand-name-ios } 版 { -brand-name-firefox }
