@@ -12,7 +12,7 @@ mobile-android-firefox-browser-for = Prohlížeč { -brand-name-firefox } pro { 
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 # "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Buďte mobilní. Získejte nezávislost díky { -brand-name-firefox(case: "dat") } pro { -brand-name-android(case: "acc") }
-mobile-android-when-you-download = Když si stáhnete { -brand-name-firefox(case: "acc") }, rozhodnete se podpořit nezávislou technologickou společnost. { -brand-name-firefox } je jediný hlavní prohlížeč, za kterým stojí nezisková organizace bojující za to, aby vám poskytla větší otevřenost, transparentnost a kontrolu nad vaším životem online.
+mobile-android-when-you-download = Když si stáhnete { -brand-name-firefox(case: "acc") }, rozhodnete se podpořit nezávislou technologickou společnost. { -brand-name-firefox } je jediný hlavní prohlížeč, za kterým stojí nezisková organizace bojující za větší otevřenost, transparentnost a abyste měli kontrolu nad svým životem online.
 mobile-android-get-firefox-for = Získejte { -brand-name-firefox(case: "acc") } pro { -brand-name-android(case: "acc") }
 mobile-android-send-a-download-link-to-your = Poslat odkaz ke stažení do vašeho telefonu.
 mobile-android-scan-the-qr-code-to-get-started = Naskenujte QR kód a můžete začít
@@ -36,4 +36,4 @@ mobile-android-no-need-to = Není nutné otevírat aplikaci. Přidejte si widget
 mobile-android-pin-videos-to = Připněte si videa na obrazovku
 mobile-android-pop-videos-out = Vyjměte videa z jejich webových stránek nebo přehrávačů a připněte je na obrazovku telefonu, abyste je mohli sledovat a zároveň surfovat po webu nebo dělat jiné věci. Bavte se, i když děláte více věcí najednou.
 mobile-android-about-mozilla = O { -brand-name-mozilla(case: "loc") }
-mobile-android-mozilla-exists-to = { -brand-name-mozilla } existuje proto, aby se internet stal veřejným zdrojem přístupným všem, protože věříme, že otevřený a svobodný je lepší než uzavřený a regulovaný. Vytváříme produkty jako { -brand-name-firefox } a { -brand-name-pocket }, které podporují možnost volby, transparentnost a plnou kontrolu.
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } je tu proto, aby se internet stal veřejným zdrojem přístupným všem, protože věříme, že otevřený a svobodný je lepší než uzavřený a regulovaný. Vytváříme produkty jako { -brand-name-firefox } a { -brand-name-pocket }, které podporují možnost volby, transparentnost a plnou kontrolu.
