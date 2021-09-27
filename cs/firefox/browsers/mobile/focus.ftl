@@ -22,3 +22,5 @@ mobile-focus-easily-erase-your = Snadno vymažte historii, hesla a cookies, aby 
 mobile-focus-take-private-mode = Posuňte soukromý režim na vyšší úroveň
 mobile-focus-private-browsing-on = „Soukromé prohlížení“ není ve většině prohlížečů ve skutečnosti až tak soukromé. { -brand-name-firefox-focus } je na vyšší úrovni, vždy se zaměřuje na zajištění soukromí a stojí za ním nezisková organizace { -brand-name-mozilla }, která bojuje za vaše práva na webu.
 mobile-focus-tracking-protection = Ochrana proti sledování
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } ve výchozím nastavení blokuje celou řadu běžných sledovacích prvků, včetně sledovacích prvků sociálních sítí a těch na vás nalepených, které pocházejí například z reklam na { -brand-name-facebook(case: "loc") }.
+mobile-focus-ad-blocking = Blokování reklam
