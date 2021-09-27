@@ -12,6 +12,7 @@ compare-index-six-of-the-best-browsers-fallback = 六款最佳浏览器同台对
 compare-index-privacy-utility-portability = 隐私、实用、跨平台。
 # HTML page description
 compare-index-a-great-internet-browser-should = 一款出色的浏览器应具备：您必需的功能、跨设备的可用性，及您应得的隐私。
+compare-index-which-browser-is-best-at-keeping = 哪款浏览器最能保护您的信息安全？
 compare-index-its-not-unreasonable-to-expect = 期望我们经常使用的在线产品能提供高水平的数据保护和隐私保护，这并非没有道理。至少，浏览器应该提供某种形式的“隐私浏览模式”，自动删除您的浏览历史和搜索记录，以使同一台计算机上的其他用户无法得知您的网上活动。在此方面，所有六款在此比较的浏览器都得到分数。
 compare-index-its-not-unreasonable-to-expect-fallback = 人们期望常用的在线产品能提供高水平的数据保护和隐私保护，这并非没有道理。至少，浏览器应该提供某种形式的“隐私浏览模式”，自动删除浏览历史和搜索记录，这样同一台计算机上的其他用户就无法得知您的网上活动。在此方面，所有七款在此比较的浏览器都得到分数。
 compare-index-what-you-do-online-literally = 无论您在网上做了何事，其他任何人都无权使用这些活动数据获利。
