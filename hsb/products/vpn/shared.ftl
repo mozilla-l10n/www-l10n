@@ -13,7 +13,9 @@ vpn-shared-sign-in-link = Sće hižo abonent?
 vpn-shared-available-countries = Tuchwilu { -brand-name-mozilla-vpn } w Zjednoćenych statach, Zjednoćenym kralestwu, Kanadźe, Nowoseelandskej, Singapurje a Malajziji poskićamy.
 # Outdated string
 vpn-shared-available-countries-v2 = Tuchwilu { -brand-name-mozilla-vpn } w Zjednoćenych statach, Zjednoćenym kralestwu, Francoskej, Kanadźe, Malajziji, Nowoseelandskej a Singapurje poskićamy.
+# Outdated string
 vpn-shared-available-countries-v3 = Tuchwilu { -brand-name-mozilla-vpn } w Zjednoćenych statach, Kanadźe, Zjednoćenym kralestwu, Němskej, Francoskej, Italskej, Španiskej, Belgiskej, Awstriskej, Šwicarskej, Malajziji, Nowoseelandskej a Singapurje poskićamy.
+vpn-shared-available-countries-v4 = Tuchwilu { -brand-name-mozilla-vpn } w Awstriskej, Belgiskej, Kanadźe, Francoskej, Němskej, Irskej, Italskej, Malajziji, Nižozemskej, Nowoseelandskej, Singapurje, Španiskej, Šwicarskej, Zjednoćenym kralestwje a USA poskićamy.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnjowska garantija wróćenja pjenjez
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
