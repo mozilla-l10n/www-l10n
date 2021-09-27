@@ -28,3 +28,4 @@ mobile-focus-focus-blocks-the = { -brand-name-focus } 可拦截您常在网页�
 mobile-focus-see-it-all = 更快，肉眼可见
 mobile-focus-focus-removes-trackers = { -brand-name-focus } 会拦截跟踪器和广告，页面加载又快又省流量。
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } 出品
+mobile-focus-we-believe-everyone = 我们相信每个人都有权利掌控自己的在线生活。这也是我们自 1998 年以来一直为之而战的使命。
