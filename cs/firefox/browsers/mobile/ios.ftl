@@ -28,3 +28,5 @@ mobile-ios-add-firefox-across-v2 = Přidejte si { -brand-name-firefox(case: "acc
 # Obsolete string
 mobile-ios-add-firefox-across = Přidejte si { -brand-name-firefox(case: "acc") } do všech svých zařízení a získejte bezpečné a plynulé surfování. Svá zařízení synchronizujte, abyste měli své oblíbené záložky, uložené přihlašovací údaje a historii prohlížení všude s sebou. Navíc si můžete mezi telefonem a počítačem posílat i otevřené panely, abyste mohli pokračovat tam, kde jste skončili.
 mobile-ios-find-it-all = Najděte všechno rychleji
+mobile-ios-get-search-suggestions = Nechte si v adresním řádku našeptávat vyhledávání a rychle tak přistupujte ke svým nejčastěji navštěvovaným stránkám. Zadejte hledaný výraz a zobrazí se vám navrhované a dříve hledané výsledky z vašich oblíbených vyhledávačů.
+mobile-ios-keep-tabs-on = Mějte přehled o všech těch panelech
