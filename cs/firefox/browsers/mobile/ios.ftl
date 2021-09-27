@@ -30,3 +30,4 @@ mobile-ios-add-firefox-across = Přidejte si { -brand-name-firefox(case: "acc") 
 mobile-ios-find-it-all = Najděte všechno rychleji
 mobile-ios-get-search-suggestions = Nechte si v adresním řádku našeptávat vyhledávání a rychle tak přistupujte ke svým nejčastěji navštěvovaným stránkám. Zadejte hledaný výraz a zobrazí se vám navrhované a dříve hledané výsledky z vašich oblíbených vyhledávačů.
 mobile-ios-keep-tabs-on = Mějte přehled o všech těch panelech
+mobile-ios-create-as-many = Vytvořte si libovolný počet panelů, aniž byste ztratili přehled. { -brand-name-firefox } zobrazuje otevřené panely jako náhledy a očíslované listy, což usnadňuje rychlé nalezení toho, co potřebujete.
