@@ -17,3 +17,5 @@ mobile-focus-get-firefox-focus = Získejte { -brand-name-firefox-focus(case: "ac
 mobile-focus-send-a-download-link-to-your = Poslat odkaz ke stažení do vašeho telefonu.
 mobile-focus-scan-the-qr-code-to-get-started = Naskenujte QR kód a můžete začít
 mobile-focus-scan-alt-text = Naskenujte QR kód a získejte { -brand-name-firefox-focus(case: "acc") }
+mobile-focus-disappear-your-history = Zbavte se své historie
+mobile-focus-easily-erase-your = Snadno vymažte historii, hesla a cookies, aby vás na internetu nepronásledovaly nevítané reklamy. Stačí v adresním řádku klepnout na tlačítko pro vymazání a je to všechno pryč.
