@@ -20,3 +20,4 @@ mobile-ios-now-iphone-and = Uživatelé { -brand-name-iphone(case: "gen") } a { 
 mobile-ios-fast-private-secure = Rychlý, soukromý, bezpečný
 mobile-ios-keep-whats-personal = Zachovejte si soukromí, aniž byste museli obětovat obrovskou rychlost. Díky funkcím chytrého procházení si navíc můžete vzít své soukromí, hesla a záložky všude bezpečně s sebou a usnadnit si tak život na internetu.
 mobile-ios-stay-private-online = Zůstaňte na internetu v soukromí
+mobile-ios-firefox-gives-you = { -brand-name-firefox } vám během pobytu na webu poskytuje lepší ochranu soukromí. Ve výchozím nastavení naše rozšířená ochrana proti sledování blokuje sledovací prvky a skripty, jako třeba sledovací prvky sociálních sítí, sledovací cookies, těžbu kryptoměny a vytváření otisku prohlížeče.
