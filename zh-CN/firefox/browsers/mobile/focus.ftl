@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }：隐私浏览器
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated = 自动跟踪保护与广告拦截加持，{ -brand-name-firefox-focus } 就是您的隐私专用浏览器。
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = 移动端隐私浏览，如此简单
 mobile-focus-firefox-focus-dedicated-with = 自动跟踪保护与广告拦截加持，{ -brand-name-firefox-focus } 就是您的隐私专用浏览器。{ -brand-name-focus } 不但页面加载飞快，更可保护您的隐私数据。

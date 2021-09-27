@@ -28,6 +28,7 @@ mobile-compare-image-search = 图片搜索
 mobile-compare-voice-search = 语音搜索
 mobile-compare-add-to-homescreen = 添加至主屏幕
 mobile-compare-read-text-aloud = 朗读文本
+mobile-compare-news-feed = 信息流
 mobile-compare-collections = 收藏集
 mobile-compare-inapp-vpn = 内置 VPN
 mobile-compare-shopping = 购物
