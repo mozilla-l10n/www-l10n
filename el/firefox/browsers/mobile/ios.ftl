@@ -8,6 +8,7 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+mobile-ios-get-firefox-for = Λήψη του { -brand-name-firefox } για { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Στείλτε έναν σύνδεσμο λήψης στο τηλέφωνό σας.
 mobile-ios-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
 mobile-ios-fast-private-secure = Γρήγορο. Ιδιωτικό. Ασφαλές
