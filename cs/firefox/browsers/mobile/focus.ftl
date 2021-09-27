@@ -26,3 +26,6 @@ mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } ve výchozím 
 mobile-focus-ad-blocking = Blokování reklam
 mobile-focus-focus-blocks-the = { -brand-name-focus } blokuje reklamy, které se běžně zobrazují na webových stránkách – nejsou zapotřebí žádné další doplňky nebo rozšíření. S menším počtem reklam dosáhnete vyšší rychlosti načítání stránek, což znamená, že se k požadovaným věcem dostanete mnohem rychleji.
 mobile-focus-see-it-all = Vše uvidíte rychleji
+mobile-focus-focus-removes-trackers = { -brand-name-focus } odstraňuje reklamy a sledovací prvky, takže zobrazované stránky vyžadují méně dat a načítají se tak mnohem rychleji.
+mobile-focus-made-by-mozilla = Od { -brand-name-mozilla(case: "gen") }
+mobile-focus-we-believe-everyone = Věříme, že by každý měl mít kontrolu nad svým online životem. Za to bojujeme již od roku 1998.
