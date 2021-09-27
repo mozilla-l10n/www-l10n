@@ -21,5 +21,7 @@ mobile-focus-take-private-mode = 隐私模式更进一步
 mobile-focus-tracking-protection = 跟踪保护
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } 默认即会拦截各种常见跟踪器，包括社交跟踪器和那些来自 { -brand-name-facebook } 广告的“粘人”跟踪器。
 mobile-focus-ad-blocking = 广告拦截
+mobile-focus-focus-blocks-the = { -brand-name-focus } 可拦截您常在网页上看到的那些广告——不用安装其他附加组件或扩展。广告越少，页面加载速度就越快，这意味着您可以更快地获得想要的内容。
 mobile-focus-see-it-all = 肉眼可见的更快
+mobile-focus-focus-removes-trackers = { -brand-name-focus } 会拦截跟踪器和广告，页面加载又快又省流量。
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } 出品
