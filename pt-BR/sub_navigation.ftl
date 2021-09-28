@@ -11,6 +11,7 @@ sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = Comparar navegadores
+sub-navigation-compare-mobile-browsers = Compare navegadores de dispositivos móveis
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } para computador
 sub-navigation-release-notes = Notas de atualização
 sub-navigation-desktop = Desktop

@@ -18,6 +18,7 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Tenha a proteção aprimorada contra rastreamento e torne o { -brand-name-firefox } seu navegador padrão definitivo em seu { -brand-name-iphone } e { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = Procurando um navegador para dispositivos móveis super rápido e simplificado, com recursos de privacidade de nível superior? O { -brand-name-firefox-focus } apaga automaticamente todo o histórico de navegação desde quando você abre o navegador até o momento em que o fecha.
 browsers-mobile-compare-mobile-browsers = Compare navegadores de dispositivos móveis
 browsers-mobile-see-how-firefox-stacks-up = Veja como o { -brand-name-firefox } fica à frente de outros navegadores populares quando se trata das três principais características: privacidade, recursos e sincronização.
 browsers-mobile-compare = Comparar
