@@ -7,7 +7,14 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = 5 dos melhores navegadores de dispositivos móveis em comparação direta
+# HTML description
+mobile-compare-who-makes-the = Quem faz o melhor navegador para dispositivos móveis? Vamos comparar o { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } e { -brand-name-opera } para descobrir.
+mobile-compare-since-your-mobile = Como o navegador do seu celular é seu canal de acesso para informações onde quer que você esteja, velocidade, segurança, privacidade e facilidade de uso são as chaves para uma boa experiência de uso. Então, qual é o melhor navegador para dispositivos móveis? Vamos comparar os principais e ver qual se adapta melhor às suas necessidades.
 mobile-compare-which-mobile-browser = Qual navegador móvel mantém as coisas confidenciais?
+mobile-compare-at-a-minimum-v2 = No mínimo, seu navegador para dispositivos móveis deve fornecer alguma versão de “modo de navegação privativa”, que exclui automaticamente seu histórico de pesquisa e navegação. Nesta área, todos os cinco navegadores comparados aqui marcam pontos.
+# Obsolete string
+mobile-compare-at-a-minimum = No mínimo, seu navegador para dispositivos móveis deve fornecer alguma versão de “modo de navegação privativa”, que exclui automaticamente seu histórico de pesquisa e navegação. Nesta área, todos os sete navegadores comparados aqui marcam pontos.
+mobile-compare-another-mobile-feature = Outro recurso que deve ser disponibilizado em dispositivos móveis é a capacidade de impedir que sites e empresas rastreiem seus dados de navegação e compras, mesmo no modo de navegação normal.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Recursos</strong>
 mobile-compare-features = Recursos
