@@ -16,3 +16,7 @@ vpn-windows-ability = Ať už jste na internetu kdekoli, zasloužíte si cítit 
 vpn-windows-wifi-headline = Zůstaňte ve veřejné síti Wi-Fi v soukromí
 vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } chrání vaše připojení k internetu před špehováním, takže se můžete věnovat svým obchodním záležitostem kdekoli – na letišti, na koleji, v kavárně – bez obav o své soukromí online.
 vpn-windows-about-headline = Od lídra v oblasti ochrany soukromí na internetu
+vpn-windows-about-copy = { -brand-name-mozilla }, nezisková organizace stojící za { -brand-name-firefox-browser(case: "ins", capitalization: "lower") }, je komunita internetových občanů z celého světa, která usiluje o to, aby internet zůstal svobodným a otevřeným zdrojem pro všechny. Mise { -brand-name-mozilla(case: "gen") } „upřednostňovat lidi před ziskem“ zaručuje, že každý náš produkt má na prvním místě vás.
+vpn-windows-privacy-headline = Ochrana jediným stisknutím tlačítka
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } šifruje vaše internetové připojení a chrání vaši IP adresu na počítači i notebooku před zvědavci pomocí pokročilého protokolu { -brand-name-wireguard }®.
+vpn-windows-servers-headline = Přístup k serverům po celém světě
