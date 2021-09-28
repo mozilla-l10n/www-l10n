@@ -22,4 +22,7 @@ vpn-when-to-use-4-home-away = 4. Nde rógape mombyry upégui
 vpn-when-to-use-5-in-your = 5. Nde rogaitépe
 vpn-when-to-use-for-the-most = Hetave jey, umi mba’e ojehuva’ekue ndoikói ñanduti nde róga peguápe, ojejapóma guive peteĩ ñe’ẽñemi hekorosãva añetéva reheve ha hekorosãve hag̃ua. Hákatu nde’iséi repytamaha tesaráipe umi mba’evaiapohágui.
 vpn-when-to-use-make-sure-you = Eikuaaporãva’erã pe VPN ojapokuaa’ỹva
+# Variables
+#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+vpn-when-to-use-a-vpn-provides = VPN ome’ẽ joajuha hekorosãva omo’ãvo ne mba’ekuaarãite ñemiguáva oho mboyve ñandutípe ha avei oñomi nde IP kundaharape, oipytyvõvo omo’ã nde reratee ha ne rendaite avei. Upéicha rupi, ndojokomo’ãi eikutúvo juajuha ivaikuaáva, emboguejývo malware térã eñembotavývo ñanduti veve rupive. Ejapoveva’erã gueteri <a href="{ $book }">tembiapo porã ne rekorosã hag̃ua tapiaite ñandutípe</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, ha’e VPN ejeroviakuaaha
