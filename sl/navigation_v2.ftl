@@ -19,12 +19,15 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } za { -brand-name-and
 navigation-v2-get-the-customizable-mobile = Pridobite prilagodljiv mobilni brskalnik za pametne telefone { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Pridobite mobilni brskalnik za { -brand-name-iphone } ali { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Preprosto zasebno mobilno brskanje.
 navigation-v2-privacy-promise = Obljuba o zasebnosti
 navigation-v2-learn-how-firefox-treats = Preberite, kako { -brand-name-firefox } spoštuje vaše podatke.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Preberite o najnovejših značilnostih { -brand-name-firefox }a in načinih, kako ostati varni na spletu.
 navigation-v2-release-notes = Opombe ob izdaji
 navigation-v2-get-the-details-on-the = Oglejte si podrobnosti o najnovejših posodobitvah { -brand-name-firefox(sklon: "rodilnik") }.
+navigation-v2-view-all-firefox-browsers = Oglej si vse { -brand-name-firefox-browsers(sklon: "tožilnik") }
 
 ## Products menu
 
