@@ -21,6 +21,11 @@ browsers-mobile-compare = Moñondive
 browsers-mobile-see-how-firefox-for-desktop-stacks = Mba’éichapa { -brand-name-firefox } mohendahagua oñemoñondive pokõi kundahára rehe.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = Mba’éichapa { -brand-name-firefox } <strong>mesa arigua</strong> peg̃uarã pokõi kundahára rehe.
+browsers-mobile-join-firefox-and-get-the-most = Eñemoirũ { -brand-name-firefox } ndive ha eipuru opaite ijapopyre opaite ne mba’e’okápe.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+browsers-mobile-already-have-an-account-sign = ¿Erekóma mba’ete? <a { $fxa_attr }>Eñepyrũ tembiapo</a> térã <a { $accounts_attr }>eikuaave</a> mba’éichapa ejuajúta { -brand-name-firefox } rehe.
 browsers-mobile-download = Mboguejy
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
