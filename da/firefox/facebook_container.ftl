@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook } under
 facebook-container-get-the-facebook-container = Hent udvidelsen { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Hent { -brand-name-firefox } og få udvidelsen { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Udvidelsen { -brand-name-facebook-container } er i øjeblikket kun tilgængelig til { -brand-name-firefox } til computer.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
