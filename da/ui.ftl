@@ -20,3 +20,4 @@ ui-show-less = Vis mindre
 ui-show-all = Vis alt
 ui-hide-all = Skjul alt
 ui-learn-more = Læs mere
+ui-view = Vis
