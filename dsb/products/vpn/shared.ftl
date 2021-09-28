@@ -10,10 +10,6 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } wobstaraś
 vpn-shared-waitlist-link = Pśistupśo cakańskej lisćinje
 vpn-shared-sign-in-link = Sćo južo abonent?
 # Outdated string
-vpn-shared-available-countries = Tuchylu { -brand-name-mozilla-vpn } w Zjadnośonych statach, Zjadnośonem kralojstwu, Kanaźe, Nowoseelandskej, Singapurje a Malajziji póbitujomy.
-# Outdated string
-vpn-shared-available-countries-v2 = Tuchylu { -brand-name-mozilla-vpn } w Zjadnośonych statach, Zjadnośonem kralojstwu, Francoskej, Kanaźe, Malajziji, Nowoseelandskej a Singapurje póbitujomy
-# Outdated string
 vpn-shared-available-countries-v3 = Tuchylu { -brand-name-mozilla-vpn } w Zjadnośonych statach, Kanaźe, Zjadnośonem kralojstwu, Nimskej, Francoskej, Italskej, Špańskej, Belgiskej, Awstriskej, Šwicaŕskej, Malajziji, Nowoseelandskej a Singapurje póbitujomy.
 vpn-shared-available-countries-v4 = Tuchylu { -brand-name-mozilla-vpn } w Awstriskej, Belgiskej, Kanaźe, Francojskej, Nimskej, Irskej, Italskej, Malajziji, Nižozemskej, Nowoseelandskej, Singapurje, Špańskej, Šwicaŕskej, Zjadnośonem kralojstwje a USA póbitujomy.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -74,8 +70,12 @@ vpn-shared-pricing-plan-monthly = Kuždy mjasec
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/mjasec</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = 6-mjasecny plan wobstaraś
+# Outdated string
 vpn-shared-pricing-get-12-month = 12-mjasecny plan wobstaraś
+vpn-shared-pricing-get-6-month-v2 = 6-mjasecny plan wobstaraś
+vpn-shared-pricing-get-12-month-v2 = 12-mjasecny plan wobstaraś
 vpn-shared-pricing-get-monthly = Mjasecny plan wobstaraś
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'

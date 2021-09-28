@@ -10,5 +10,6 @@ vpn-or-proxy-the-difference-between = Rozdźěl mjazy VPN a proksy
 vpn-or-proxy-when-should-you = Gdy dejał wy VPN abo wěsty proksy wužywaś?
 vpn-or-proxy-secure-web-proxy = Wěsty webproksy: šćit na rowninje wobglědowaka
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: šćit na rowninje rěda
+vpn-or-proxy-a-vpn-works = VPN wěsty „tunel“ mjazy wašym rědom a internetom napórajo. Šćita wašu priwatnosć na dwě wašnje:
 vpn-or-proxy-concealing-your-ip = Waša IP-adresa se schowajo. Tak se waša identita šćita a wašo stojnišćo k njepóznaśeju cyni.
 vpn-or-proxy-choose-a-trustworthy = Wubjeŕśo dowěry gódnu słužbu
