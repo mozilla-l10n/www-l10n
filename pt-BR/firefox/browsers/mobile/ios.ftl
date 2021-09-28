@@ -18,6 +18,7 @@ mobile-ios-scan-alt-text = Capture o código QR para instalar o { -brand-name-fi
 mobile-ios-make-firefox-your = Torne o { -brand-name-firefox } seu navegador padrão
 mobile-ios-fast-private-secure = Rápido. Privativo. Seguro
 mobile-ios-stay-private-online = Fique privativo online
+mobile-ios-firefox-gives-you = O { -brand-name-firefox } oferece maior proteção de privacidade enquanto você está na web. Por padrão, nossa proteção aprimorada contra rastreamento bloqueia rastreadores e scripts, como rastreadores de mídias sociais, rastreadores de cookies entre sites, criptomineradores e fingerprinters.
 mobile-ios-your-browsing-history = Seu histórico de navegação é passado
 mobile-ios-get-more-firefox = Tenha mais { -brand-name-firefox } em sua vida
 mobile-ios-find-it-all = Encontre tudo mais rápido
