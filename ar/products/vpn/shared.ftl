@@ -10,12 +10,6 @@ vpn-shared-waitlist-link = انضم إلى قائمة الانتظار
 vpn-shared-sign-in-link = هل أنت مشترك بالفعل؟
 
 # Outdated string
-vpn-shared-available-countries = نقدم حاليًا { -brand-name-mozilla-vpn } في الولايات المتحدة والمملكة المتحدة وكندا ونيوزيلندا وسنغافورة وماليزيا.
-
-# Outdated string
-vpn-shared-available-countries-v2 = نُقدم حاليًا { -brand-name-mozilla-vpn } في الولايات المتحدة والمملكة المتحدة وألمانيا وفرنسا وكندا وماليزيا ونيوزيلندا وسنغافورة.
-
-# Outdated string
 vpn-shared-available-countries-v3 = نُوفّر { -brand-name-mozilla-vpn } حاليًا في الولايات المتحدة وكندا والمملكة المتحدة وألمانيا وفرنسا وإيطاليا وإسبانيا وبلجيكا والنمسا وسويسرا وماليزيا ونيوزيلندا وسنغافورة.
 
 vpn-shared-available-countries-v4 = نُوفّر مُتصفّح { -brand-name-mozilla-vpn } حاليًا في النمسا وبلجيكا وكندا وفرنسا وألمانيا وأيرلندا وإيطاليا وماليزيا وهولندا ونيوزيلندا وسنغافورة وإسبانيا وسويسرا والمملكة المتحدة والولايات المتحدة.
@@ -96,8 +90,6 @@ vpn-shared-pricing-plan-monthly = شهريًا
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/شهر</span>
 
-vpn-shared-pricing-get-6-month = احصل على خطة مدتها 6 أشهر
-vpn-shared-pricing-get-12-month = احصل على خطة مدتها 12 شهرًا
 vpn-shared-pricing-get-monthly = احصل على خطة شهرية
 
 # Variables:

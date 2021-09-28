@@ -10,12 +10,6 @@ vpn-shared-waitlist-link = Bergabunglah ke Daftar Tunggu
 vpn-shared-sign-in-link = Sudah menjadi pelanggan?
 
 # Outdated string
-vpn-shared-available-countries = Saat ini kami menawarkan { -brand-name-mozilla-vpn } di AS, Inggris, Kanada, Selandia Baru, Singapura, dan Malaysia.
-
-# Outdated string
-vpn-shared-available-countries-v2 = Saat ini kami menawarkan { -brand-name-mozilla-vpn } di AS, Inggris, Jerman, Prancis, Kanada, Malaysia, Selandia Baru, dan Singapura.
-
-# Outdated string
 vpn-shared-available-countries-v3 = Saat ini kami menawarkan { -brand-name-mozilla-vpn } di AS, Kanada, Inggris, Jerman, Prancis, Italia, Spanyol, Belgia, Austria, Swiss, Malaysia, Selandia Baru, dan Singapura.
 
 vpn-shared-available-countries-v4 = Saat ini kami menawarkan { -brand-name-mozilla-vpn } di Austria, Belgia, Kanada, Prancis, Jerman, Irlandia, Italia, Malaysia, Belanda, Selandia Baru, Singapura, Spanyol, Swiss, Inggris, dan AS.
@@ -96,8 +90,6 @@ vpn-shared-pricing-plan-monthly = Bulanan
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/bulan</span>
 
-vpn-shared-pricing-get-6-month = Dapatkan paket 6 bulan
-vpn-shared-pricing-get-12-month = Dapatkan paket 12 bulan
 vpn-shared-pricing-get-monthly = Dapatkan paket bulanan
 
 # Variables:
