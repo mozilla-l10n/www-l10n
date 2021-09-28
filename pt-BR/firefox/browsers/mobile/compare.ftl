@@ -16,10 +16,12 @@ mobile-compare-at-a-minimum-v2 = No mínimo, seu navegador para dispositivos mó
 mobile-compare-at-a-minimum = No mínimo, seu navegador para dispositivos móveis deve fornecer alguma versão de “modo de navegação privativa”, que exclui automaticamente seu histórico de pesquisa e navegação. Nesta área, todos os sete navegadores comparados aqui marcam pontos.
 mobile-compare-another-mobile-feature = Outro recurso que deve ser disponibilizado em dispositivos móveis é a capacidade de impedir que sites e empresas rastreiem seus dados de navegação e compras, mesmo no modo de navegação normal.
 mobile-compare-blocking-thirdparty-trackers = Bloquear rastreadores de terceiros não é importante apenas para privacidade. Também ajuda a carregar páginas muito mais rápido. Ao remover aqueles trechos de código, diminui a carga e agiliza a navegação.
+mobile-compare-from-the-chart = Olhando o gráfico acima, fica óbvio que o { -brand-name-firefox } oferece o conjunto mais completo de ferramentas de privacidade e segurança dentre os cinco navegadores e fornece um painel com visão geral de sua segurança e privacidade online.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Recursos</strong>
 mobile-compare-features = Recursos
 mobile-compare-what-can-your = O que seu navegador pode fazer por você?
+mobile-compare-a-main-ingredient = Um ingrediente principal para um navegador bem feito é sua funcionalidade. O que ele pode fazer? Quase todos os cinco navegadores são iguais quando se trata de abas, favoritos, preenchimento automático de campos, mas somente o { -brand-name-firefox } e o { -brand-name-safari } oferecem extensões, que são como aplicativos no navegador para torná-lo mais privativo, mais poderoso ou simplesmente mais divertido.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Sincronização</strong>
 mobile-compare-syncing = Sincronização
