@@ -5,8 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: O navegador da privacidade
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
+mobile-focus-get-firefox-focus = Instale o { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Envie um link de download para seu celular.
+mobile-focus-scan-the-qr-code-to-get-started = Capture o código QR para começar
+mobile-focus-scan-alt-text = Capture o código QR para instalar o { -brand-name-firefox-focus }
+mobile-focus-take-private-mode = Leve o modo privativo ao próximo nível
 mobile-focus-tracking-protection = Proteção contra rastreamento
 mobile-focus-ad-blocking = Bloqueio de propaganda
 mobile-focus-see-it-all = Veja tudo mais rápido
