@@ -7,7 +7,7 @@
 
 features-adblocker-how-to-block-annoying = Como bloquear anúncios chatos usando um bloqueador de anúncios
 features-adblocker-how-to-stop-seeing-too = Como parar de ver propaganda demais e impedir que empresas sigam você internet afora. Um guia de bloqueadores de anúncios do navegador web { -brand-name-firefox }.
-features-adblocker-the-ad-blocker-a-secret = O bloqueador de anúncios – uma arma secreta contra anúncios irritantes.
+features-adblocker-the-ad-blocker-a-secret = O bloqueador de anúncios, uma arma secreta contra propaganda inconveniente.
 features-adblocker-so-many-ads-so-little = Tanta propaganda, tão pouca paciência… É hora de acabar com esta loucura.
 features-adblocker-the-average-person-sees = Uma pessoa comum vê em média 4000 anúncios por dia. Se você acha que isso é demais, um bloqueador de anúncios é seu novo melhor amigo.
 features-adblocker-an-ad-blocker-is-a-piece = Um bloqueador de anúncios é um software que pode ser usado para bloquear propaganda e funciona de duas maneiras. A primeira é quando bloqueia o sinal vindo do servidor de um anunciante, assim o anúncio nunca aparece na sua página. Outra forma de funcionar é bloqueando seções de um site que podem conter anúncios.
@@ -32,22 +32,22 @@ features-adblocker-create-a-tracker-free = Crie uma área livre de rastreadores 
 features-adblocker-on-firefox-you-can-use = No { -brand-name-firefox }, você pode usar configurações de <a href="{ $privacy }">Privacidade</a> ou <a href="{ $blocking }">Bloqueio de conteúdo</a> para ter ainda mais controle sobre rastreadores que entregam anúncios a você.
 features-adblocker-choose-your-level-of-protection = Escolha seu nível de proteção
 features-adblocker-to-start-click-on-the = Para começar, clique no menu do { -brand-name-firefox } no canto superior direito. É uma figura com três linhas horizontais, uma sobre a outra. No menu suspenso, clique em Bloqueio de conteúdo. Aparece uma página de configuração com várias opções.
-features-adblocker-go-easy-with-standard = Vá com calma no modo Padrão
+features-adblocker-go-easy-with-standard = Vá com calma no modo Normal
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
-features-adblocker-if-ads-dont-bother-you = Se anúncios não te incomodam e você não se importa em ser seguido por rastreadores e cookies de terceiros, então a configuração Padrão serve para você. Para evitar rastreadores no modo Padrão, use uma janela de <a href="{ $url }">navegação privativa</a>.
+features-adblocker-if-ads-dont-bother-you = Se anúncios não te incomodam e você não se importa em ser seguido por rastreadores e cookies de terceiros, então a configuração Normal serve para você. Para evitar rastreadores no modo Normal, use uma janela de <a href="{ $url }">navegação privativa</a>.
 features-adblocker-get-tough-with-strict = Seja duro no modo Rigoroso
 features-adblocker-if-seeing-too-many-ads = Se ficar vendo muitos anúncios acaba com seu dia, então o modo Rigoroso se ajusta melhor. Este modo bloqueia rastreadores e cookies conhecidos de terceiros em todas as janelas do { -brand-name-firefox }.
 features-adblocker-do-it-yourself-custom = Faça do seu jeito no modo Personalizado
 features-adblocker-the-custom-setting-gives = O modo Personalizado lhe dá o máximo de opções. Você pode decidir o que bloquear, incluindo rastreadores, cookies e muito mais. Se você permitir cookies em um determinado site, mudará automaticamente para o modo Personalizado.
 features-adblocker-cover-your-trail-block = Cubra seu rastro, bloqueie rastreadores
 features-adblocker-click-on-the-trackers = Marque a opção Rastreadores e você poderá bloquear rastreadores de duas maneiras. Um jeito de bloquear rastreadores é fazer isso quando está em uma janela privativa. Outro é bloquear rastreadores em todas as janelas. Tenha em mente que se você escolher sempre bloquear rastreadores, algumas páginas podem não ser carregadas corretamente.
-features-adblocker-take-a-bite-out-of-cookies = Tire fora alguns cookies
+features-adblocker-take-a-bite-out-of-cookies = Acabe com a moleza dos cookies
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookies</a> são enviados por sites que você visita. Eles ficam no seu computador e monitoram o que você faz em um site. Quando uma companhia aérea aumenta os preços só porque várias pessoas deram uma olhada nas passagens de um determinado dia, isso é obra de um cookie.
 features-adblocker-in-firefox-you-can-block = No { -brand-name-firefox }, você pode bloquear todos os cookies de terceiros, ou apenas aqueles definidos por rastreadores. Fique ciente que bloquear todos os cookies pode atrapalhar alguns sites.
-features-adblocker-send-a-do-not-track-signal = Enviar um sinal "Não rastrear"
+features-adblocker-send-a-do-not-track-signal = Envie um sinal de que não quer ser rastreado
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Se não quer que seu comportamento online seja usado para anúncios, pode enviar aos sites uma mensagem educada dizendo “agradeço mas não obrigado”, marcando a opção <a href="{ $url }">Não rastrear</a> do { -brand-name-firefox }. A participação é voluntária, mas os sites que participam irão parar de rastrear você imediatamente.
