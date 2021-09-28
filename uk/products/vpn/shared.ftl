@@ -10,10 +10,6 @@ vpn-shared-subscribe-link = Отримати { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Долучитись до списку очікування
 vpn-shared-sign-in-link = Уже підписалися?
 # Outdated string
-vpn-shared-available-countries = На сьогодні ми пропонуємо { -brand-name-mozilla-vpn } у США, Великобританії, Канаді, Новій Зеландії, Сингапурі та Малайзії.
-# Outdated string
-vpn-shared-available-countries-v2 = В цей час ми пропонуємо { -brand-name-mozilla-vpn } у США, Великобританії, Німеччині, Франції, Канаді, Малайзії, Новій Зеландії та Сингапурі.
-# Outdated string
 vpn-shared-available-countries-v3 = В цей час ми пропонуємо { -brand-name-mozilla-vpn } у США, Канаді, Великобританії, Німеччині, Франції, Італії, Іспанії, Бельгії, Австрії, Швейцарії, Малайзії, Новій Зеландії та Сингапурі.
 vpn-shared-available-countries-v4 = Наразі ми пропонуємо { -brand-name-mozilla-vpn } в Австрії, Бельгії, Канаді, Франції, Німеччині, Ірландії, Італії, Малайзії, Нідерландах, Новій Зеландії, Сінгапурі, Іспанії, Швейцарії, Великобританії та США.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -74,8 +70,12 @@ vpn-shared-pricing-plan-monthly = Щомісячно
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Отримати 6-місячний план
+# Outdated string
 vpn-shared-pricing-get-12-month = Отримати 12-місячний план
+vpn-shared-pricing-get-6-month-v2 = Отримати 6-місячний тарифний план
+vpn-shared-pricing-get-12-month-v2 = Отримати 12-місячний тарифний план
 vpn-shared-pricing-get-monthly = Отримати щомісячний план
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
