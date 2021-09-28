@@ -10,10 +10,6 @@ vpn-shared-subscribe-link = Installar { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Junge te al lista de attender
 vpn-shared-sign-in-link = Jam abonate?
 # Outdated string
-vpn-shared-available-countries = Nos actualmente offere { -brand-name-mozilla-vpn } in le SUA, le UK, Canada, Nove Zelanda, Singapore, e Malaysia.
-# Outdated string
-vpn-shared-available-countries-v2 = Nos actualmente offere { -brand-name-mozilla-vpn } in le SUA, le UK, Germania, Francia, Canada, Malaysia, Nove Zelanda e Singapore.
-# Outdated string
 vpn-shared-available-countries-v3 = Nos actualmente offere { -brand-name-mozilla-vpn } in le SUA, le UK, Germania, Francia, Italia Espania, Belgio, Austria Canada, Suissa, Malaya, Nove Zelanda e Singapur.
 vpn-shared-available-countries-v4 = Nos actualmente offere { -brand-name-mozilla-vpn } in Austria, Belgio, Canada, Francia, Germania, Irlanda, Italia, Malaya, the Nederland, Nove Zelanda, Singapur, Espania, Suissa, le Regno Unite, e le Statos Unite de America.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -74,8 +70,12 @@ vpn-shared-pricing-plan-monthly = Mensual
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Compra un plan de 6 menses
+# Outdated string
 vpn-shared-pricing-get-12-month = Compra un plan de 12 menses
+vpn-shared-pricing-get-6-month-v2 = Compra un plano de 6 menses
+vpn-shared-pricing-get-12-month-v2 = Compra un plano de 12 menses
 vpn-shared-pricing-get-monthly = Compra un plan mensual
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
