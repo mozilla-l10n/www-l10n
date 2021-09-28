@@ -22,6 +22,7 @@ mobile-focus-easily-erase-your = Apague facilmente seu histórico, senhas e cook
 mobile-focus-take-private-mode = Leve o modo privativo ao próximo nível
 mobile-focus-private-browsing-on = “Navegação privativa” na maioria dos navegadores não é realmente tão privativa. O { -brand-name-firefox-focus } é o próximo nível, sempre com privacidade e respaldado pela { -brand-name-mozilla }, a organização sem fins lucrativos que luta por seus direitos na web.
 mobile-focus-tracking-protection = Proteção contra rastreamento
+mobile-focus-firefox-focus-blocks = O { -brand-name-firefox-focus } bloqueia por padrão uma ampla gama de rastreadores comuns, incluindo rastreadores de redes sociais e aqueles pegajosos que vêm de coisas como anúncios do { -brand-name-facebook }.
 mobile-focus-ad-blocking = Bloqueio de propaganda
 mobile-focus-see-it-all = Veja tudo mais rápido
 mobile-focus-made-by-mozilla = Feito pela { -brand-name-mozilla }
