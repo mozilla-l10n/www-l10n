@@ -15,6 +15,7 @@ mobile-compare-at-a-minimum-v2 = No mínimo, seu navegador para dispositivos mó
 # Obsolete string
 mobile-compare-at-a-minimum = No mínimo, seu navegador para dispositivos móveis deve fornecer alguma versão de “modo de navegação privativa”, que exclui automaticamente seu histórico de pesquisa e navegação. Nesta área, todos os sete navegadores comparados aqui marcam pontos.
 mobile-compare-another-mobile-feature = Outro recurso que deve ser disponibilizado em dispositivos móveis é a capacidade de impedir que sites e empresas rastreiem seus dados de navegação e compras, mesmo no modo de navegação normal.
+mobile-compare-blocking-thirdparty-trackers = Bloquear rastreadores de terceiros não é importante apenas para privacidade. Também ajuda a carregar páginas muito mais rápido. Ao remover aqueles trechos de código, diminui a carga e agiliza a navegação.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Recursos</strong>
 mobile-compare-features = Recursos
