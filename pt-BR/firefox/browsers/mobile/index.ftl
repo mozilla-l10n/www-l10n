@@ -19,7 +19,16 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios
 browsers-mobile-get-enhanced-tracking-protection = Tenha a proteção aprimorada contra rastreamento e torne o { -brand-name-firefox } seu navegador padrão definitivo em seu { -brand-name-iphone } e { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Compare navegadores de dispositivos móveis
+browsers-mobile-see-how-firefox-stacks-up = Veja como o { -brand-name-firefox } fica à frente de outros navegadores populares quando se trata das três principais características: privacidade, recursos e sincronização.
 browsers-mobile-compare = Comparar
+browsers-mobile-see-how-firefox-for-desktop-stacks = Veja como o { -brand-name-firefox } de computador fica à frente de outros sete navegadores.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Veja como o { -brand-name-firefox } de <strong>computador</strong> fica à frente de outros sete navegadores.
+browsers-mobile-join-firefox-and-get-the-most = Junte-se ao { -brand-name-firefox } e aproveite ao máximo todos os produtos, em todos os dispositivos.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+browsers-mobile-already-have-an-account-sign = Já tem uma conta? <a { $fxa_attr }>Entre</a> ou <a { $accounts_attr }>saiba mais</a> sobre como se juntar ao { -brand-name-firefox }.
 browsers-mobile-download = Baixar
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

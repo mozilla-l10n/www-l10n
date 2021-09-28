@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } e { -brand-name-ipad })
+# HTML description
+mobile-ios-firefox-browser-for = O navegador { -brand-name-firefox } para { -brand-name-ios } é rápido, seguro e privativo desde a primeira vez que você o abre.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-automatic-privacy = Tenha privacidade automática em seu { -brand-name-iphone } e { -brand-name-ipad }
 mobile-ios-get-firefox-for = Instale o { -brand-name-firefox } para { -brand-name-ios }
@@ -15,6 +17,7 @@ mobile-ios-scan-the-qr-code-to-get-started = Capture o código QR para começar
 mobile-ios-scan-alt-text = Capture o código QR para instalar o { -brand-name-firefox } no { -brand-name-ios }
 mobile-ios-make-firefox-your = Torne o { -brand-name-firefox } seu navegador padrão
 mobile-ios-fast-private-secure = Rápido. Privativo. Seguro
+mobile-ios-stay-private-online = Fique privativo online
 mobile-ios-your-browsing-history = Seu histórico de navegação é passado
 mobile-ios-get-more-firefox = Tenha mais { -brand-name-firefox } em sua vida
 mobile-ios-find-it-all = Encontre tudo mais rápido
