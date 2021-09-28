@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: O navegador da privacidade
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated = O { -brand-name-firefox-focus } é seu navegador dedicado à privacidade, com recursos automáticos de proteção contra rastreamento e bloqueio de anúncios.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-get-firefox-focus = Instale o { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Envie um link de download para seu celular.
