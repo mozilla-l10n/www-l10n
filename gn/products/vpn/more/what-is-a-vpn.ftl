@@ -14,6 +14,7 @@ vpn-what-is-a-vpn-is = Ko VPN ha’e peteĩ tembipuru omoneĩva eikekuaa hag̃ua
 vpn-what-is-concealing-your-ip = Emokañývo nde IP kundaharape, emo’ãvo nde reratee ha ne rendaite.
 vpn-what-is-encrypting-your-traffic = Ombopapapy pe jeikeita nde ha nde VPN me’ẽhára pa’ũme avave ani hag̃uáicha ombopapapy’o térã omoambue ndehegui.
 vpn-what-is-when-should-i = ¿Araka’épa eipuruva’erã VPN?
+vpn-what-is-when-youre-at = Eimévo nde rógape, ikatu osẽ tekove ñaña nde pyha ogaguápe michĩvéta. Upéicharamo jepe, ne ñanduti me’ẽhára (ISP) ikatu ohapykueho ha omoherakuã ne rembiapo ñandutípe umi mba’ekuaarã ñanduti rupive eikeha oñemondo pyha rupi nde ISP-pe, oĩkuaahápe oñembopapapýva. VPN omboykekuaa umi ISP nde rapykuehóvo ha ombopapapývo nde VPN me’ẽhára toĩ oĩhápe.
 vpn-what-is-wait-i-thought = Epyta, aimo’ã jeku’e ñandutigua ipapapýma HTTPS ndive…
 vpn-what-is-its-true-that = Añetehápe heta ñanduti rendápe jeike hekorosã HTTPS ndive, he’iséva pe tetepy, hákatu ndaha’éi pe IP kundaharape ou térã ohohague, ipapapýva. Pe VPN ome’ẽ tekoñemiete omboykévo umi ñanduti renda ha mbohapyháva ohechávo IP kundaharape.
 vpn-what-is-why-would-i = ¿Mba’érepa eipuruva’erã VPN?
