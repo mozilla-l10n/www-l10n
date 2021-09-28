@@ -20,3 +20,8 @@ vpn-windows-about-copy = { -brand-name-mozilla }, nezisková organizace stojíc�
 vpn-windows-privacy-headline = Ochrana jediným stisknutím tlačítka
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } šifruje vaše internetové připojení a chrání vaši IP adresu na počítači i notebooku před zvědavci pomocí pokročilého protokolu { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Přístup k serverům po celém světě
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-windows-servers-copy = S více než { $servers } servery ve více než { $countries } zemích můžete dělat vše, co na internetu potřebujete – prohlížet si stránky, nakupovat, číst si zpravodajství – nastavením polohy svého zařízení na téměř libovolné místo na světě.
+vpn-windows-devices-headline = Jedno předplatné pro všechna vaše zařízení
