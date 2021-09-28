@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = Blokkeert standaard trackin
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Blokkeert tracking-cookies van derden
 compare-shared-blocks-cryptomining-scripts = Blokkeert cryptomining-scripts
+compare-shared-blocks-fingerprinting-scripts = Blokkeert fingerprinting-scripts
 compare-shared-blocks-social-trackers = Blokkeert sociale trackers
+compare-shared-dashboard-to-review = Dashboard om geblokkeerde trackers te bekijken
 compare-shared-autoplay-blocking = Automatisch afspelen blokkeren
 compare-shared-tab-browsing = Navigeren met tabbladen
 compare-shared-bookmark-manager = Bladwijzerbeheerder
 compare-shared-automatically-fills-out-forms = Automatisch invullen van formulieren
+compare-shared-automatically-fills-out-payments = Vult automatisch betalingen in
 compare-shared-search-engine-options = Zoekmachine-opties
 compare-shared-text-to-speech = Tekst naar spraak
 compare-shared-reader-mode = Lezermodus
