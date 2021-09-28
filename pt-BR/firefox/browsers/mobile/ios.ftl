@@ -20,6 +20,7 @@ mobile-ios-fast-private-secure = Rápido. Privativo. Seguro
 mobile-ios-stay-private-online = Fique privativo online
 mobile-ios-firefox-gives-you = O { -brand-name-firefox } oferece maior proteção de privacidade enquanto você está na web. Por padrão, nossa proteção aprimorada contra rastreamento bloqueia rastreadores e scripts, como rastreadores de mídias sociais, rastreadores de cookies entre sites, criptomineradores e fingerprinters.
 mobile-ios-your-browsing-history = Seu histórico de navegação é passado
+mobile-ios-if-you-want = Se você quiser, pode facilmente selecionar para pesquisar e acessar online no modo de navegação privativa. E quando você fecha o modo de navegação privativa, o histórico de navegação e todos os cookies são apagados automaticamente do seu dispositivo.
 mobile-ios-get-more-firefox = Tenha mais { -brand-name-firefox } em sua vida
 mobile-ios-find-it-all = Encontre tudo mais rápido
 mobile-ios-discover-more-of = Descubra mais do que você adora
