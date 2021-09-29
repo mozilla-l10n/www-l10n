@@ -33,3 +33,4 @@ mobile-android-no-need-to = No es necesario abrir la aplicación. Añade el widg
 mobile-android-pin-videos-to = Ancla videos a tu pantalla
 mobile-android-pop-videos-out = Saca los videos de sus sitios web o reproductores y fíjalos a la parte superior de la pantalla de tu teléfono para verlos mientras navegas por la web y realizas otras cosas. Mantén tu entretención a mano mientras realiza múltiples tareas.
 mobile-android-about-mozilla = Acerca de { -brand-name-mozilla }
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } existe para construir Internet como un recurso público accesible para todos porque creemos que abierto y gratis es mejor que cerrado y controlado. Creamos productos como { -brand-name-firefox } y { -brand-name-pocket } para promover la elección, la transparencia y el control.
