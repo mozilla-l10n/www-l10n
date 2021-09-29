@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+# HTML description
+mobile-android-firefox-browser-for = Wobhladowak { -brand-name-firefox } za { -brand-name-android } je spěšny, wěsty a priwatny, hdyž jón wočinjeće.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 mobile-android-get-firefox-for = Wobstarajće sej { -brand-name-firefox } za { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Sćelće swojemu telefonej sćehnjenski wotkaz.
