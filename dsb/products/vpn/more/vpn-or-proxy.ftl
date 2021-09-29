@@ -7,6 +7,7 @@
 
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = Rozdźěl mjazy VPN a proksy
+vpn-or-proxy-stop-isps-from = Zajźujśo tomu, až ISP was wunuchlijośo
 vpn-or-proxy-when-should-you = Gdy dejał wy VPN abo wěsty proksy wužywaś?
 vpn-or-proxy-secure-web-proxy = Wěsty webproksy: šćit na rowninje wobglědowaka
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: šćit na rowninje rěda

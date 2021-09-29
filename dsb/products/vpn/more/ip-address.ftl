@@ -7,7 +7,10 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Co jo IP-adresa?
+# Used as an accessible text alternative for an image
+vpn-ip-address-an-example-of-an-ip = Pśikład IP-adrese, kótaraž jo slěd styrich licbow, źělonych pśez decimalne dypki: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Jolic za wašeju IP-adresu glědaśo, wuglěda někak tak.
+vpn-ip-address-does-it-travel = Pśewóźujo was?
 vpn-ip-address-does-your-ip = Změnja se waša IP-adresa?
 vpn-ip-address-can-more-than = Móžo wěcej ako jaden rěd tu samsku IP-adresu měś?
 vpn-ip-address-can-we-run = Mamy hyšći dosć z nich?
