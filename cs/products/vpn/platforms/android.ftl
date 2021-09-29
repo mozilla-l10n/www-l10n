@@ -7,3 +7,6 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } pro { -brand-name-android }
+vpn-android-page-description = Zabezpečte se jedním klepnutím na telefonu s { -brand-name-android(case: "ins") } prostřednictvím { -brand-name-mozilla(case: "gen") }, jedné z nejdůvěryhodnějších značek v oblasti technologií.
+# Mobile strings
+vpn-android-hero-headline = Dočkejte se na internetu ochrany a soukromí díky službě { -brand-name-mozilla-vpn } pro { -brand-name-android(case: "acc") }
