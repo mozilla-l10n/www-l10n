@@ -33,4 +33,5 @@ mobile-android-go-from-your = Embohasa pumbyrýgui mohendahápe, tableta ha ambu
 mobile-android-search-from-your = Eheka mba’erechaha pumbyrygua ñepyrũha guive
 mobile-android-no-need-to = Natekotevẽi embojuruja tembipuru’i. Embjuaju jehekaha widget { -brand-name-firefox } ha eike ñandutípe ne mba’e’oka mba’erechaha ñepyrũgua guive.
 mobile-android-pin-videos-to = Embojuehe ta’ãngamýi ne mba’erechaháre
+mobile-android-pop-videos-out = Enohẽ ta’ãngamýi ñanduti rendágui térã mbohechaha ha emoĩ pumbyry mba’erechahápe yvate gotyo ehecha hag̃ua eikundaha aja térã ambue mba’épe eimekuévo. Eiko torýpe ejapokuévo heta mba’e.
 mobile-android-about-mozilla = { -brand-name-mozilla } rehegua
