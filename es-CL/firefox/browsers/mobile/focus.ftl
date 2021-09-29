@@ -18,6 +18,7 @@ mobile-focus-send-a-download-link-to-your = Envía un enlace de descarga a tu te
 mobile-focus-scan-the-qr-code-to-get-started = Escanea el código QR para empezar
 mobile-focus-scan-alt-text = Escanea el código QR para obtener { -brand-name-firefox-focus }
 mobile-focus-disappear-your-history = Has desaparecer tu historial
+mobile-focus-easily-erase-your = Borra fácilmente tu historial, contraseñas y cookies, para que los anuncios no deseados no te sigan en línea. Simplemente toca el botón de borrar en el campo de búsqueda y desaparecerá.
 mobile-focus-take-private-mode = Lleva el modo privado al siguiente nivel
 mobile-focus-tracking-protection = Protección de seguimiento
 mobile-focus-ad-blocking = Bloqueo de publicidad

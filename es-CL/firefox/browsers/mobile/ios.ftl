@@ -19,6 +19,7 @@ mobile-ios-make-firefox-your = Establece { -brand-name-firefox } como tu navegad
 mobile-ios-fast-private-secure = Rápido. Privado. Seguro
 mobile-ios-stay-private-online = Mantén tu privacidad en línea
 mobile-ios-your-browsing-history = Tu historial de navegación es cosa del pasado
+mobile-ios-if-you-want = Si lo deseas, puedes seleccionar fácilmente conectarte y buscar en el modo de navegación privada. Y cuando cierras el modo de navegación privada, tu historial de navegación y las cookies se borran automáticamente de tu dispositivo.
 mobile-ios-get-more-firefox = Obtén más { -brand-name-firefox } para tu vida
 mobile-ios-add-firefox-across-v2 = Añade { -brand-name-firefox } a todos tus dispositivos para una navegación segura y sin problemas. Sincroniza tus dispositivos para llevar tus marcadores favoritos, credenciales guardadas, contraseñas e historial de navegación a donde sea que vayas. Además, envía pestañas abiertas entre tu teléfono y computador para continuar donde mismo quedaste.
 # Obsolete string
@@ -30,3 +31,4 @@ mobile-ios-create-as-many = Crea tantas pestañas como quieras sin perderles la 
 mobile-ios-discover-more-of = Descubre más de lo que amas
 mobile-ios-open-a-new = Abre una nueva pestaña en { -brand-name-firefox } para ver los sitios que más visitas, tus marcadores recientes y artículos populares en { -brand-name-pocket }. { -brand-name-firefox } te brinda acceso rápido a los sitios que utilizaste más recientemente para ayudarte a llegar más rápido a tu destino.
 mobile-ios-about-mozilla = Acerca de { -brand-name-mozilla }
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } existe para construir Internet como un recurso público accesible para todos porque creemos que abierto y gratis es mejor que cerrado y controlado. Creamos productos como { -brand-name-firefox } y { -brand-name-pocket } para promover la elección, la transparencia y el control.
