@@ -29,3 +29,4 @@ vpn-windows-devices-headline = Jedno předplatné pro všechna vaše zařízení
 #   $devices (number) - number of available devices
 vpn-windows-devices-copy = Předplatné služby { -brand-name-mozilla-vpn } vám zajistí neomezený přístup k naší zabezpečené síti VPN až na { $devices } zařízeních se systémy { -brand-name-windows } (včetně { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
 vpn-windows-speed-headline = Žádná omezení šířky pásma
+vpn-windows-speed-copy = Streamujte, hrajte hry, nakupujte a prozkoumávejte web bleskovou rychlostí. S neomezenou šířkou pásma a neomezenými daty vám nebude služba { -brand-name-mozilla-vpn } vůbec stát v cestě.
