@@ -10,10 +10,8 @@ vpn-shared-subscribe-link = Nhận { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Tham gia danh sách chờ
 vpn-shared-sign-in-link = Đã là một người đăng ký?
 # Outdated string
-vpn-shared-available-countries = Chúng tôi hiện cung cấp { -brand-name-mozilla-vpn } ở Hoa Kỳ, Vương quốc Anh, Canada, New Zealand, Singapore và Malaysia.
-# Outdated string
-vpn-shared-available-countries-v2 = Chúng tôi hiện cung cấp { -brand-name-mozilla-vpn } ở Hoa Kỳ, Vương quốc Anh, Đức, Pháp, Canada, Malaysia, New Zealand và Singapore.
 vpn-shared-available-countries-v3 = Chúng tôi hiện cung cấp { -brand-name-mozilla-vpn } ở Hoa Kỳ, Canada, Vương quốc Anh, Đức, Pháp, Ý, Tây Ban Nha, Bỉ, Áo, Thụy Sĩ, Malaysia, New Zealand và Singapore.
+vpn-shared-available-countries-v4 = Chúng tôi hiện cung cấp { -brand-name-mozilla-vpn } ở Áo, Bỉ, Canada, Pháp, Đức, Ireland, Ý, Malaysia, Hà Lan, New Zealand, Singapore, Tây Ban Nha, Thụy Sĩ, Vương quốc Anh và Hoa Kỳ.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Đảm bảo hoàn tiền trong 30 ngày
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -72,8 +70,12 @@ vpn-shared-pricing-plan-monthly = Hàng tháng
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/tháng</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Nhận gói 6 tháng
+# Outdated string
 vpn-shared-pricing-get-12-month = Nhận gói 12 tháng
+vpn-shared-pricing-get-6-month-v2 = Chọn gói 6 tháng
+vpn-shared-pricing-get-12-month-v2 = Chọn gói 12 tháng
 vpn-shared-pricing-get-monthly = Nhận gói hàng tháng
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
