@@ -18,5 +18,6 @@ vpn-mobile-servers-headline = Zwjazajće so ze serwerami w cyłym swěće
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Škitajće do { $devices } gratow
+vpn-mobile-devices-copy = Waš abonement wam njewobmjezowany přistup k našej VPN-słužbje na wašim smartfonje, tableće a desktopje za { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux } wobstara.
 vpn-mobile-speed-headline = Njesměrna spěšnosć, žane wobmjezowanja
 vpn-mobile-log-headline = Priwatnosć ma najwyšu prioritu
