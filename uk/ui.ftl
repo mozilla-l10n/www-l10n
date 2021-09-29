@@ -18,6 +18,6 @@ ui-please-turn-on-javascript = Увімкніть JavaScript для належн
 ui-show-more = Показати більше
 ui-show-less = Показати менше
 ui-show-all = Показати все
-ui-hide-all = Приховати все
+ui-hide-all = Сховати все
 ui-learn-more = Докладніше
 ui-view = Перегляд
