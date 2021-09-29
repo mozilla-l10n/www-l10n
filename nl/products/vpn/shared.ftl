@@ -10,10 +10,6 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } downloaden
 vpn-shared-waitlist-link = Op de wachtlijst plaatsen
 vpn-shared-sign-in-link = Bent u al abonnee?
 # Outdated string
-vpn-shared-available-countries = We bieden { -brand-name-mozilla-vpn } momenteel aan in de VS, het VK, Canada, Nieuw-Zeeland, Singapore en Maleisië.
-# Outdated string
-vpn-shared-available-countries-v2 = We bieden { -brand-name-mozilla-vpn } momenteel aan in de VS, het VK, Duitsland, Frankrijk, Canada, Maleisië, Nieuw-Zeeland en Singapore.
-# Outdated string
 vpn-shared-available-countries-v3 = We bieden { -brand-name-mozilla-vpn } momenteel aan in de VS, Canada, het VK, Duitsland, Frankrijk, Italië, Spanje, België, Oostenrijk, Zwitserland, Maleisië, Nieuw-Zeeland en Singapore.
 vpn-shared-available-countries-v4 = We bieden { -brand-name-mozilla-vpn } momenteel aan in Oostenrijk, België, Canada, Frankrijk, Duitsland, Ierland, Italië, Maleisië, Nederland, Nieuw-Zeeland, Singapore, Spanje, Zwitserland, het VK en de VS.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -74,8 +70,12 @@ vpn-shared-pricing-plan-monthly = Maandelijks
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/maand</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Abonnement voor 6 maanden afsluiten
+# Outdated string
 vpn-shared-pricing-get-12-month = Abonnement voor 12 maanden afsluiten
+vpn-shared-pricing-get-6-month-v2 = Abonnement voor 6 maanden afsluiten
+vpn-shared-pricing-get-12-month-v2 = Abonnement voor 12 maanden afsluiten
 vpn-shared-pricing-get-monthly = Maandabonnement afsluiten
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
