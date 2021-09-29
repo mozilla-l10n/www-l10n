@@ -10,9 +10,6 @@ vpn-shared-subscribe-link = Λήψη του { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Εγγραφή στη λίστα αναμονής
 vpn-shared-sign-in-link = Είστε ήδη συνδρομητής;
 # Outdated string
-vpn-shared-available-countries = Προς το παρόν, το { -brand-name-mozilla-vpn } διατίθεται στις ΗΠΑ, το Ηνωμένο Βασίλειο, τον Καναδά, τη Νέα Ζηλανδία, τη Σιγκαπούρη και τη Μαλαισία.
-# Outdated string
-vpn-shared-available-countries-v2 = Προς το παρόν, το { -brand-name-mozilla-vpn } διατίθεται στις ΗΠΑ, το Ηνωμένο Βασίλειο, τη Γερμανία, τη Γαλλία, τον Καναδά, τη Μαλαισία, τη Νέα Ζηλανδία και τη Σιγκαπούρη.
 vpn-shared-available-countries-v3 = Προς το παρόν, το { -brand-name-mozilla-vpn } διατίθεται στις ΗΠΑ, τον Καναδά, το Ηνωμένο Βασίλειο, τη Γερμανία, τη Γαλλία, την Ιταλία, την Ισπανία, το Βέλγιο, την Αυστρία, την Ελβετία, τη Μαλαισία, τη Νέα Ζηλανδία και τη Σιγκαπούρη.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Εγγύηση επιστροφής χρημάτων εντός 30 ημερών
@@ -72,8 +69,12 @@ vpn-shared-pricing-plan-monthly = Μηνιαία
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/μήνα</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Απόκτηση 6-μηνιαίου προγράμματος
+# Outdated string
 vpn-shared-pricing-get-12-month = Απόκτηση 12-μηνιαίου προγράμματος
+vpn-shared-pricing-get-6-month-v2 = Απόκτηση 6-μηνιαίου πακέτου
+vpn-shared-pricing-get-12-month-v2 = Απόκτηση ετήσιου πακέτου
 vpn-shared-pricing-get-monthly = Απόκτηση μηνιαίου προγράμματος
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
