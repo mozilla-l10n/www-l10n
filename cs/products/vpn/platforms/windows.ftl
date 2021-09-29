@@ -25,3 +25,7 @@ vpn-windows-servers-headline = Přístup k serverům po celém světě
 #   $servers (number) - number of available servers
 vpn-windows-servers-copy = S více než { $servers } servery ve více než { $countries } zemích můžete dělat vše, co na internetu potřebujete – prohlížet si stránky, nakupovat, pročítat zpravodajství – nastavením polohy svého zařízení na téměř libovolné místo na světě.
 vpn-windows-devices-headline = Jedno předplatné pro všechna vaše zařízení
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = Předplatné služby { -brand-name-mozilla-vpn } vám zajistí neomezený přístup k naší zabezpečené síti VPN až na { $devices } zařízeních se systémy { -brand-name-windows } (včetně { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
+vpn-windows-speed-headline = Žádná omezení šířky pásma
