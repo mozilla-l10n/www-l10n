@@ -31,4 +31,4 @@ vpn-windows-devices-copy = Předplatné služby { -brand-name-mozilla-vpn } vám
 vpn-windows-speed-headline = Žádná omezení šířky pásma
 vpn-windows-speed-copy = Streamujte, hrajte hry, nakupujte a prozkoumávejte web bleskovou rychlostí. S neomezenou šířkou pásma a neomezenými daty vám nebude služba { -brand-name-mozilla-vpn } vůbec stát v cestě.
 vpn-windows-log-headline = Vaše soukromí je naší prioritou
-vpn-windows-log-copy = { -brand-name-mozilla } nikdy nepřestane pracovat na lepším internetu, který klade vaše soukromí na první místo. Proto o vás služba { -brand-name-mozilla-vpn } neshromažďuje žádné údaje, ani si nezaznamenává vaši online aktivitu – žádný z našich produktů to nedělá.
+vpn-windows-log-copy = { -brand-name-mozilla } nikdy nepřestane pracovat na lepším internetu, který klade vaše soukromí na první místo. Proto o vás služba { -brand-name-mozilla-vpn } neshromažďuje žádné údaje, ani si nevede záznam o vaší aktivitě na internetu – žádný z našich produktů to nedělá.
