@@ -10,10 +10,6 @@ vpn-shared-subscribe-link = 下载 { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = 加入预约名单
 vpn-shared-sign-in-link = 已经是订阅者？
 # Outdated string
-vpn-shared-available-countries = 目前，我们在美国、英国、加拿大、新西兰、新加坡和马来西亚提供 { -brand-name-mozilla-vpn } 服务。
-# Outdated string
-vpn-shared-available-countries-v2 = 目前，我们在美国、英国、德国、法国、加拿大、马来西亚、新西兰和新加坡提供 { -brand-name-mozilla-vpn } 服务。
-# Outdated string
 vpn-shared-available-countries-v3 = 我们目前在美国、加拿大、英国、德国、法国、意大利、西班牙、比利时、奥地利、瑞士、马来西亚、新西兰和新加坡提供 { -brand-name-mozilla-vpn } 服务。
 vpn-shared-available-countries-v4 = 我们目前已在奥地利、比利时、加拿大、法国、德国、爱尔兰、意大利、马来西亚、荷兰、新西兰、新加坡、西班牙、瑞士、英国和美国推出 { -brand-name-mozilla-vpn }。
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -68,14 +64,18 @@ vpn-shared-pricing-variable-heading-v2 = 选择适合您的订阅方案
 vpn-shared-pricing-variable-heading = 选择适合您的方案
 vpn-shared-pricing-variable-sub-heading = 我们的所有方案包括：
 vpn-shared-pricing-recommended-offer = 推荐
-vpn-shared-pricing-plan-6-month = 6 个月
-vpn-shared-pricing-plan-12-month = 12 个月
+vpn-shared-pricing-plan-6-month = 半年
+vpn-shared-pricing-plan-12-month = 全年
 vpn-shared-pricing-plan-monthly = 每月
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = <span>每月</span> { $amount }
-vpn-shared-pricing-get-6-month = 订阅 6 个月方案
-vpn-shared-pricing-get-12-month = 订阅 12 个月方案
+# Outdated string
+vpn-shared-pricing-get-6-month = 订阅半年方案
+# Outdated string
+vpn-shared-pricing-get-12-month = 订阅全年方案
+vpn-shared-pricing-get-6-month-v2 = 订阅半年方案
+vpn-shared-pricing-get-12-month-v2 = 订阅全年方案
 vpn-shared-pricing-get-monthly = 订阅月度方案
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
