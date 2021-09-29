@@ -18,6 +18,7 @@ mobile-compare-what-can-your = ¿Mba’e ojapokuaa kundahára nderehe?
 mobile-compare-syncing-strong = <strong>Mbojuehepyre</strong>
 mobile-compare-syncing = Mbojuehepyre
 mobile-compare-does-your-browser = ¿Ne kundahára oikoporã ambue mba’e’oka ndive?
+mobile-compare-the-mobile-version = Pumbyrýpe g̃uarãva { -brand-name-safari }, oĩmavavoi ñepyrũha guive pumbyrýpe { -brand-name-apple }, ojokupyty ambue mba’e’oka ndive { -brand-name-apple } avei { -brand-name-ipad } ha pumbyryguáva { -brand-name-mac-short }. { -brand-name-firefox }, { -brand-name-chrome } ha { -brand-name-opera } oiko opaite pyendavusúpe oĩhápe { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short } ha { -brand-name-linux }, oĩ’ỹhápe kundahára { -brand-name-edge } ndojokupytýiva { -brand-name-linux } mba’e’oka ndive.
 mobile-compare-almost-all-of = Opavave nunga kundahára pumbyrygua oñemoñondivéva omoneĩ ñembojuehe mba’e’oka pumbyrygua pa’ũme ha mesa ariguápe.
 mobile-compare-conclusion = Mohu’ã
 mobile-compare-our-recommendations-aside = Emboykévo ore ñemoñe’ẽ, ejuhu hag̃ua kundahára oikóva añetéva ndéve g̃uarã ojokupytýva ne remikotevẽ rehe ha umi ehecharamovéva eikundahakuévo ñandutípe.
