@@ -10,10 +10,8 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn }’i edinin
 vpn-shared-waitlist-link = Bekleme listesine katılın
 vpn-shared-sign-in-link = Zaten abone misiniz?
 # Outdated string
-vpn-shared-available-countries = { -brand-name-mozilla-vpn } servisini şu anda ABD, İngiltere, Kanada, Yeni Zelanda, Singapur ve Malezya’da sunuyoruz.
-# Outdated string
-vpn-shared-available-countries-v2 = { -brand-name-mozilla-vpn } servisini şu anda ABD, İngiltere, Almanya, Fransa, Kanada, Malezya, Yeni Zelanda ve Singapur’da sunuyoruz.
 vpn-shared-available-countries-v3 = { -brand-name-mozilla-vpn } servisini şu anda ABD, Kanada, İngiltere, Almanya, Fransa, İtalya, İspanya, Belçika, Avusturya, İsviçre, Malezya, Yeni Zelanda ve Singapur’da sunuyoruz.
+vpn-shared-available-countries-v4 = { -brand-name-mozilla-vpn } şu anda Avusturya, Belçika, Kanada, Fransa, Almanya, İrlanda, İtalya, Malezya, Hollanda, Yeni Zelanda, Singapur, İspanya, İsviçre, Birleşik Krallık ve ABD'de mevcuttur.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 gün para iade garantisi
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -72,8 +70,12 @@ vpn-shared-pricing-plan-monthly = Aylık
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/ay</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = 6 aylık planı alın
+# Outdated string
 vpn-shared-pricing-get-12-month = 12 aylık planı alın
+vpn-shared-pricing-get-6-month-v2 = 6 aylık paket alın
+vpn-shared-pricing-get-12-month-v2 = 12 aylık paket alın
 vpn-shared-pricing-get-monthly = Aylık planı alın
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'

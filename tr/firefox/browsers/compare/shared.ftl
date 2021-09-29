@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = Varsayılan olarak üçünc
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Üçüncü taraf takip çerezlerini engeller
 compare-shared-blocks-cryptomining-scripts = Kripto madencilik betiklerini engeller
+compare-shared-blocks-fingerprinting-scripts = Parmak izi toplayıcıları engeller
 compare-shared-blocks-social-trackers = Sosyal takipçileri engeller
+compare-shared-dashboard-to-review = Engellenen takipçileri görebileceğiniz kontrol paneli
 compare-shared-autoplay-blocking = Otomatik oynatma engelleme
 compare-shared-tab-browsing = Sekmeli gezinti
 compare-shared-bookmark-manager = Yer imi yöneticisi
 compare-shared-automatically-fills-out-forms = Formları otomatik olarak doldurur
+compare-shared-automatically-fills-out-payments = Ödeme formlarını otomatik doldurma
 compare-shared-search-engine-options = Arama motoru seçenekleri
 compare-shared-text-to-speech = Metin okuma
 compare-shared-reader-mode = Okuyucu modu

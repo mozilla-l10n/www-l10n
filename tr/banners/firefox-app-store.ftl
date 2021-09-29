@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/ (View on an Android or iOS browser)
 
 banner-firefox-app-store-title = { -brand-name-firefox }: Gizli, Güvenli Tarayıcı
+banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Gizlilik tarayıcısı
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Ücretsiz – { -brand-name-google-play }’de
 banner-firefox-app-store-free-app-store = Ücretsiz – { -brand-name-app-store }’da
