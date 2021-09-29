@@ -10,10 +10,6 @@ vpn-shared-subscribe-link = Cael { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Ymunwch â'r Rhestr Aros
 vpn-shared-sign-in-link = Eisoes yn danysgrifiwr?
 # Outdated string
-vpn-shared-available-countries = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn UDA, y DU, Canada, Seland Newydd, Singapore, a Malaysia.
-# Outdated string
-vpn-shared-available-countries-v2 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn UDA, y DU, Canada, Seland Newydd, Singapore, a Malaysia.
-# Outdated string
 vpn-shared-available-countries-v3 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn y DU, yr Almaen, Ffrainc, Sbaen, Gwlad Belg, Awstria, y Swistir, yr UDA, Canada, Seland Newydd, Singapore, a Malaysia.
 vpn-shared-available-countries-v4 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn Awstria, Gwlad Belg, Canada, Ffrainc, Yr Almaen, Iwerddon, Yr Eidal, Malaysia, Yr Iseldiroedd, Seland Newydd, Singapore, Sbaen, Y Swisdir, Prydain a'r Unol Daleithiau.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -74,8 +70,12 @@ vpn-shared-pricing-plan-monthly = Misol
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Cael cynllun 6 mis
+# Outdated string
 vpn-shared-pricing-get-12-month = Cael cynllun 12 mis
+vpn-shared-pricing-get-6-month-v2 = Cael cynllun 6 mis
+vpn-shared-pricing-get-12-month-v2 = Cael cynllun 12 mis
 vpn-shared-pricing-get-monthly = Cael cynllun misol
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
