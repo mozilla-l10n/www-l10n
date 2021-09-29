@@ -20,6 +20,7 @@ mobile-focus-scan-alt-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-name-f
 mobile-focus-disappear-your-history = Okañymba ne rembiasakue
 mobile-focus-easily-erase-your = Emboguekuaa ne rembiasakue, ñe’ẽñemi ha kookie umi maranduñemurã eipota’ỹva nderapykuehóvo ñandutípe. Eikutu pe mbogueha votõ jehekaha korápe ha okañymbáta.
 mobile-focus-take-private-mode = Egueraha teko ñemi ambue hendápe
+mobile-focus-private-browsing-on = Pe “ñeikundaha ñemigua” heta kundahárape ndahekoñemimbái. { -brand-name-firefox-focus } ha’e pe oĩva yvateve, hekoñemíme ha oykeko chupe { -brand-name-mozilla }, tendaguasu viru’ỹgua oñorairõva nde derécho rehe ñandutípe.
 mobile-focus-tracking-protection = Tapykuehoha ñemo’ã
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } ojoko hetáichagua tapykuehoha ijehegui rupi, oikehápe umi tapykuehoha tekohagua ha umi mba’evai oúva { -brand-name-facebook } maranduñemurãgui.
 mobile-focus-ad-blocking = Ñemurã jejoko

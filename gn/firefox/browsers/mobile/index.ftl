@@ -15,6 +15,8 @@ browsers-mobile-get-the-mobile-browser-privacy = Aguerekóma kundahára omotenon
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã
 browsers-mobile-infinitely-customizable-private = Eñemomba’ekuaa, hekoñemi ha hekorosã, { -brand-name-firefox } { -brand-name-android } peg̃uarã ha’e kundahára ipya’e añetéva araka’eve nanembyaimo’ãiva.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg̃uarã
+# "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
+browsers-mobile-get-enhanced-tracking-protection = Erekóke ñemo’ã tapykuehoha rovake ha eipuru { -brand-name-firefox } kundahára ypyguárõ, tuichavéva ha opa ára g̃uarã { -brand-name-iphone } ha { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Emoñondive kundahára pumbyrygua
 browsers-mobile-compare = Moñondive
