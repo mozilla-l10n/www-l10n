@@ -18,7 +18,9 @@ browsers-mobile-firefox-for-ios = { -brand-name-ios } için { -brand-name-firefo
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = { -brand-name-iphone } ve { -brand-name-ipad }’de Gelişmiş İzlenme Koruması’na kavuşun, { -brand-name-firefox }’u varsayılan tarayıcınız yapın.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = Gelişmiş gizlilik özelliklerine sahip, basit ve hızlı bir tarayıcı mı arıyorsunuz? { -brand-name-firefox-focus } tarayıcıyı açtığınız andan kapattığınız ana kadar gizliliğinizi korur ve gezinti geçmişinizi otomatik olarak siler.
 browsers-mobile-compare-mobile-browsers = Mobil tarayıcıları karşılaştırın
+browsers-mobile-see-how-firefox-stacks-up = { -brand-name-firefox }’un gizlilik, özellikler ve senkronizasyon konularında diğer popüler tarayıcılara göre nasıl bir performans sergilediğini görün.
 browsers-mobile-compare = Karşılaştır
 browsers-mobile-see-how-firefox-for-desktop-stacks = { -brand-name-firefox }’un bilgisayar sürümünün diğer yedi tarayıcıyla karşılaştırmasını inceleyin.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
