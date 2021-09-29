@@ -90,6 +90,14 @@ vpn-shared-pricing-plan-monthly = प्रतिमाह
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/माह</span>
 
+# Outdated string
+vpn-shared-pricing-get-6-month = 6 माह का प्लान लें
+
+# Outdated string
+vpn-shared-pricing-get-12-month = 12 माह का प्लान लें
+
+vpn-shared-pricing-get-6-month-v2 = 6-माह वाला प्लान लें
+vpn-shared-pricing-get-12-month-v2 = 12-माह वाला प्लान लें
 vpn-shared-pricing-get-monthly = मासिक प्लान लें
 
 # Variables:
