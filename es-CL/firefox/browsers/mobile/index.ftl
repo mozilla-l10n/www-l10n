@@ -14,6 +14,8 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Comparar navegadores móviles
 browsers-mobile-compare = Comparar
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Mira cómo { -brand-name-firefox } para <strong>escritorio</strong> se compara con otros siete navegadores.
 browsers-mobile-join-firefox-and-get-the-most = Únete a { -brand-name-firefox } y saca el máximo provecho de cada producto — en todos los dispositivos.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
