@@ -70,8 +70,12 @@ vpn-shared-pricing-plan-monthly = Jasygua
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Ereko oikótava 6 jasy
+# Outdated string
 vpn-shared-pricing-get-12-month = Ereko oikótava 12 jasy
+vpn-shared-pricing-get-6-month-v2 = Ereko oikótava 6 jasy
+vpn-shared-pricing-get-12-month-v2 = Ereko oikótava 12 jasy
 vpn-shared-pricing-get-monthly = Ereko oikótava jasýnte
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'

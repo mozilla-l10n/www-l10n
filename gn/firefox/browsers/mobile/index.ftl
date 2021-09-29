@@ -18,7 +18,9 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } pe
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Erekóke ñemo’ã tapykuehoha rovake ha eipuru { -brand-name-firefox } kundahára ypyguárõ, tuichavéva ha opa ára g̃uarã { -brand-name-iphone } ha { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = ¿Ehekápa pumbyry kundahára ipya’etereíva ha oñemoheñóiva hekoñemi guasuvéva reheve? { -brand-name-firefox-focus } omboguete ijehegui umi ne ñeikundaha rembiasakue eike ñepyrũ guive esẽte peve.
 browsers-mobile-compare-mobile-browsers = Emoñondive kundahára pumbyrygua
+browsers-mobile-see-how-firefox-stacks-up = Ehecha mba’éichapa { -brand-name-firefox } oñemoñondive ambue kundahára rehe ko’ã mbohapyve oĩhápe: tekoñemi, tembiapoite ha ñembojuehe.
 browsers-mobile-compare = Moñondive
 browsers-mobile-see-how-firefox-for-desktop-stacks = Mba’éichapa { -brand-name-firefox } mohendahagua oñemoñondive pokõi kundahára rehe.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
