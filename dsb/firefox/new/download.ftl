@@ -59,4 +59,5 @@ firefox-new-visit-support-for-more = Woglědajśo se k bokam pomocy za dalšne d
 firefox-new-download-browser = { -brand-name-firefox-browser } ześěgnuś
 firefox-new-fast = Malsny, priwatny a dermotny
 firefox-new-from-mozilla = wót { -brand-name-mozilla }
+firefox-new-desc = { -brand-name-firefox-browser } jo dwrmotny webwobglědowak, kótaryž boki malsnje zacytujo, mjenjej składa wužywa a wjele funkcijow ma - projekt za wše wužytneje organizacije { -brand-name-mozilla }.
 firefox-new-download-a-different = Firefox za druge platformy abo rěcy ześěgnuś
