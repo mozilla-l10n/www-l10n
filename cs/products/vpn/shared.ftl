@@ -10,10 +10,8 @@ vpn-shared-subscribe-link = Pořiďte si službu { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Přidat se na čekací listinu
 vpn-shared-sign-in-link = Už máte předplatné?
 # Outdated string
-vpn-shared-available-countries = Službu { -brand-name-mozilla-vpn } v současnosti nabízíme v USA, Velké Británii, Kanadě, na Novém Zélandu, v Singapuru a Malajsii.
-# Outdated string
-vpn-shared-available-countries-v2 = Službu { -brand-name-mozilla-vpn } v současnosti nabízíme v USA, Velké Británii, Německu, Francii, Kanadě, Malajsii, na Novém Zélandu a v Singapuru.
 vpn-shared-available-countries-v3 = Službu { -brand-name-mozilla-vpn } v současnosti nabízíme v USA, Kanadě, Velké Británii, Německu, Francii, Itálii, Španělsku, Belgii, Rakousku, Švýcarsku, Malajsii, na Novém Zélandu a v Singapuru.
+vpn-shared-available-countries-v4 = Službu { -brand-name-mozilla-vpn } v současnosti nabízíme v Rakousku, Belgii, Kanadě, Francii, Německu, Irsku, Itálii, Malajsii, Nizozemsku, na Novém Zélandu, v Singapuru, Španělsku, Švýcarsku, Velké Británii a USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30denní záruka vrácení peněz
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -72,7 +70,9 @@ vpn-shared-pricing-plan-monthly = Měsíčně
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/měsíc</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Získat 6měsíční plán
+# Outdated string
 vpn-shared-pricing-get-12-month = Získat 12měsíční plán
 vpn-shared-pricing-get-monthly = Získat měsíční plán
 # Variables:
