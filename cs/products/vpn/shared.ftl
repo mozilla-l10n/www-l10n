@@ -11,7 +11,7 @@ vpn-shared-waitlist-link = Přidat se na čekací listinu
 vpn-shared-sign-in-link = Už máte předplatné?
 # Outdated string
 vpn-shared-available-countries-v3 = Službu { -brand-name-mozilla-vpn } v současnosti nabízíme v USA, Kanadě, Velké Británii, Německu, Francii, Itálii, Španělsku, Belgii, Rakousku, Švýcarsku, Malajsii, na Novém Zélandu a v Singapuru.
-vpn-shared-available-countries-v4 = Službu { -brand-name-mozilla-vpn } v současnosti nabízíme v Rakousku, Belgii, Kanadě, Francii, Německu, Irsku, Itálii, Malajsii, Nizozemsku, na Novém Zélandu, v Singapuru, Španělsku, Švýcarsku, Velké Británii a USA.
+vpn-shared-available-countries-v4 = Službu { -brand-name-mozilla-vpn } v současnosti nabízíme v Belgii, Francii, Irsku, Itálii, Kanadě, Malajsii, Německu, Nizozemsku, na Novém Zélandu, v Rakousku, Singapuru, Španělsku, Švýcarsku, USA a Velké Británii.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30denní záruka vrácení peněz
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -74,6 +74,8 @@ vpn-shared-pricing-monthly = { $amount }<span>/měsíc</span>
 vpn-shared-pricing-get-6-month = Získat 6měsíční plán
 # Outdated string
 vpn-shared-pricing-get-12-month = Získat 12měsíční plán
+vpn-shared-pricing-get-6-month-v2 = Získat 6měsíční plán
+vpn-shared-pricing-get-12-month-v2 = Získat 12měsíční plán
 vpn-shared-pricing-get-monthly = Získat měsíční plán
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
