@@ -10,14 +10,9 @@ vpn-shared-waitlist-link = ウェイトリストに登録
 vpn-shared-sign-in-link = 既にサブスクリプションをご契約の場合
 
 # Outdated string
-vpn-shared-available-countries = { -brand-name-mozilla-vpn } は現在、米国、英国、カナダ、ニュージーランド、シンガポール、マレーシアで提供しています。
-
-# Outdated string
-vpn-shared-available-countries-v2 = { -brand-name-mozilla-vpn } は現在、米国、英国、ドイツ、フランス、カナダ、マレーシア、ニュージーランド、シンガポールで提供しています。
-
-# Outdated string
 vpn-shared-available-countries-v3 = { -brand-name-mozilla-vpn } は、現在アメリカ、カナダ、英国、ドイツ、フランス、イタリア、スペイン、ベルギー、オーストリア、スイス、マレーシア、ニュージーランド、シンガポールで提供しています。
 
+vpn-shared-available-countries-v4 = 現在、{ -brand-name-mozilla-vpn } はアイルランド、イタリア、オーストリア、オランダ、カナダ、シンガポール、スイス、スペイン、ドイツ、ニュージーランド、フランス、ベルギー、マレーシア、英国、米国で提供しています。
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 日間の返金保証
@@ -95,8 +90,14 @@ vpn-shared-pricing-plan-monthly = 毎月
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/月</span>
 
+# Outdated string
 vpn-shared-pricing-get-6-month = 6 か月プランを契約
+
+# Outdated string
 vpn-shared-pricing-get-12-month = 12 か月プランを契約
+
+vpn-shared-pricing-get-6-month-v2 = 6 か月プランを契約
+vpn-shared-pricing-get-12-month-v2 = 12 か月プランを契約
 vpn-shared-pricing-get-monthly = 月額プランを契約
 
 # Variables:
