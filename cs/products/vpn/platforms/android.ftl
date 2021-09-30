@@ -34,3 +34,5 @@ vpn-android-devices-copy = { -brand-name-mozilla-vpn } umožňuje připojit { $d
 vpn-android-speed-headline = Extrémně vysoké rychlosti. Neomezená data.
 vpn-android-speed-copy = Hrajte online hry, streamujte filmy a surfujte po webu superrychle na svém zařízení se systémem { -brand-name-android } – to vše s neomezenou šířkou pásma.
 vpn-android-log-headline = Žádné záznamy. Žádné sledování. Žádné narušování soukromí.
+# "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
+vpn-android-log-copy = Mnoho poskytovatelů sítí VPN si na svých serverech vede záznamy o vaší aktivitě. My to tak neděláme. { -brand-name-mozilla-vpn } nikdy nesleduje vaši online aktivitu – to je proti všemu, co jako organizace prosazujeme. Vaše soukromí a bezpečnost jsou u nás na prvním místě, nade vším ostatním.
