@@ -15,3 +15,5 @@ vpn-android-maker-of-firefox = Jakožto tvůrce webového prohlížeče { -brand
 vpn-android-wifi-headline = Zůstaňte na internetu v bezpečí, i když jste na cestách
 vpn-android-wifi-copy = Někdy nejsou bezdrátová data dostupná a jedinou možností je veřejná Wi-Fi. Se službou { -brand-name-mozilla-vpn } v zařízení s { -brand-name-android(case: "ins") } se už nikdy nemusíte obávat zadávat heslo na letišti nebo nakupovat online v kavárně na rohu – jednoduše se jedním klepnutím připojíte a pak už jen děláte, co potřebujete.
 vpn-android-about-headline = { -brand-name-mozilla } je značka, které můžete důvěřovat
+vpn-android-about-copy = Jsme známí především díky našemu webovému prohlížeči { -brand-name-firefox }, ale { -brand-name-mozilla } jakožto větší organizace má jednu hlavní misi – bojovat za vaše práva na internetu. To je to, co stále děláme už od roku 1998. Jsme obhájci internetu, snažící se zajistit, aby zůstal otevřený a svobodný, a zároveň aby respektoval právo každého na soukromí a bezpečnost.
+vpn-android-privacy-headline = Připojení jedním klepnutím
