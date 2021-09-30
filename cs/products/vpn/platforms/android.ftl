@@ -28,3 +28,7 @@ vpn-android-servers-copy = Se službou { -brand-name-mozilla-vpn } můžete polo
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Jedno předplatné až pro { $devices } zařízení
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy = { -brand-name-mozilla-vpn } umožňuje připojit { $devices } různých zařízení se systémem { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } nebo { -brand-name-linux }. Využijete ji ve svém chytrém telefonu, počítači, notebooku, tabletu a v dalších zařízeních.
+vpn-android-speed-headline = Extrémně vysoké rychlosti. Neomezená data.
