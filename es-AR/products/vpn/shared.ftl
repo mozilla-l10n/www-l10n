@@ -23,7 +23,7 @@ vpn-shared-features-encrypt = Cifrado a nivel del dispositivo
 vpn-shared-features-servers = Más de { $servers } servidores en más de { $countries } países
 vpn-shared-features-bandwidth = Sin restricciones de ancho de banda
 vpn-shared-features-activity = Sin registro de la actividad de tu red
-vpn-shared-features-activity-logs = No se guarda la actividad en línea no ahora ni nunca
+vpn-shared-features-activity-logs = No se guarda la actividad en línea ni ahora ni nunca
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Acceso a servidores en más de { $countries } países

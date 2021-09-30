@@ -61,7 +61,7 @@ firefox-desktop-download-built-in-screenshot = Herramienta de captura de pantall
 firefox-desktop-download-bookmarks-manager = Administrador de marcadores
 firefox-desktop-download-autosuggest-urls = Sugerencia automática de URLs
 firefox-desktop-download-sync-across-devices = Sincroniza entre dispositivos
-firefox-desktop-download-reader-mode = Modo lectura
+firefox-desktop-download-reader-mode = Modo de lectura
 firefox-desktop-download-spell-check = Corrección ortográfica
 firefox-desktop-download-pinned-tabs = Pestañas pegadas
 firefox-desktop-download-stream-share-play = Transmití, compartí y jugá
@@ -179,7 +179,7 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que
 firefox-desktop-download-interrupted = La descarga fue interrumpida. Pero no está todo perdido.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Seguí <a href="{ $url }">estás instrucciones</a> para instalar { -brand-name-firefox }.
+firefox-desktop-download-please-follow = Seguí <a href="{ $url }">estas instrucciones</a> para instalar { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Puede que el sistema no cumpla los requerimientos para { -brand-name-firefox }, pero podés probar una de <a href="{ $url }">estas versiones</a>.
