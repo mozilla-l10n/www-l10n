@@ -18,6 +18,7 @@ mobile-android-send-a-download-link-to-your = Küldjön egy letöltési hivatkoz
 mobile-android-scan-the-qr-code-to-get-started = Olvassa le a QR-kódot, és kezdjen neki
 mobile-android-scan-alt-text = Olvassa le a QR-kódot, hogy beszerezze a { -brand-name-firefox } for { -brand-name-android }ot
 mobile-android-fast-and-private = Gyors és privát
+mobile-android-firefox-for-android = A { -brand-name-firefox } for { -brand-name-android } erőfeszítésmentes adatvédelmet és villámgyors oldalbetöltést nyújt. A fokozott követés elleni védelem automatikusan blokkolja az online követőket, hogy ne követhessék a weben, és ne lassítsák le a weboldalakat.
 mobile-android-one-tap-to = Egy koppintás a privát módhoz
 mobile-android-search-your-own = Keressen a saját módján
 mobile-android-save-power-with = Takarékoskodjon az energiával a Sötét móddal
