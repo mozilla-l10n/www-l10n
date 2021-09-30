@@ -30,6 +30,6 @@ vpn-mobile-servers-copy = Navegá desde Brasil. Jugá desde Japón. Transmití d
 vpn-mobile-devices-headline = Protegé hasta { $devices } dispositivos
 vpn-mobile-devices-copy = Tu suscripción te da acceso ilimitado a nuestro servicio seguro de VPN en tu teléfono, tableta y computadora de escritorio para { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } y { -brand-name-linux }.
 vpn-mobile-speed-headline = Velocidad increíble, sin restricciones
-vpn-mobile-speed-copy = Transmití videos, jugá, comprá y navegá a velocidad ultra rápida. La { -brand-name-mozilla-vpn } no limitará tu ancho de banda o ni ralentizará tu teléfono celular.
+vpn-mobile-speed-copy = Transmití videos, jugá, comprá y navegá a velocidad ultra rápida. { -brand-name-mozilla-vpn } no limitará tu ancho de banda o ni ralentizará tu teléfono inteligente.
 vpn-mobile-log-headline = Tu privacidad está primero
 vpn-mobile-log-copy = En { -brand-name-mozilla }, no recolectamos ningún dato sobre vos ni registramos tu actividad en línea ni a través de nuestra VPN ni con cualquiera de nuestros otros productos. Proteger tu privacidad es un principio básico la misión de { -brand-name-mozilla }.

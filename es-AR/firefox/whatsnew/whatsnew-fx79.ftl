@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/79.0/whatsnew/all/
 
 # HTML page title
-whatsnew79-page-title = ¿Qué hay de nuevo en { -brand-name-firefox }
+whatsnew79-page-title = ¿Qué hay de nuevo en { -brand-name-firefox }?
 # Main title
 whatsnew79-main-title = Mantené tus datos privados, incluso de nosotros
 whatsnew79-main-intro = Internet debería ser un lugar seguro para todos. Es por eso que { -brand-name-firefox } no te sigue en línea y evita que otros también te sigan.

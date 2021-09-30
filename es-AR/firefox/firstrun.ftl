@@ -12,4 +12,4 @@ firstrun-already-using-firefox = ¿Ya estás usando { -brand-name-firefox }?
 firstrun-get-your-bookmarks-history = Llevá tus marcadores, historial, contraseñas y otras configuraciones en todos tus dispositivos.
 firstrun-sign-in-to-your-account = Ingresá con tu cuenta y sincronizaremos los marcadores, contraseñas y otras grandes cosas que tenés en { -brand-name-firefox } en otros dispositivos.
 firstrun-already-have-an-account = ¿Ya tenés una cuenta?
-firstrun-sign-in = Ingresar
+firstrun-sign-in = Iniciar sesión
