@@ -9,6 +9,7 @@
 mobile-compare-5-of-the-best = 五款最佳移动浏览器同台对比
 # HTML description
 mobile-compare-who-makes-the = 谁是最好的移动浏览器？我们将比较移动版本的 { -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari } 和 { -brand-name-opera } 找出答案。
+mobile-compare-since-your-mobile = 移动浏览器已成为现代人获取信息的重要途径，而速度、安全性、隐私和易用性是其良好体验的关键。那么谁才是最好的移动浏览器呢？让我们来比较一下，看看哪一款最符合您的需求。
 mobile-compare-which-mobile-browser = 哪款移动浏览器最能保护您的信息安全？
 mobile-compare-at-a-minimum-v2 = 至少，您的移动浏览器应该提供某种形式的“隐私浏览模式”，自动删除您的浏览历史和搜索记录。在此方面，所有五款在此比较的浏览器都得到分数。
 # Obsolete string
@@ -18,6 +19,7 @@ mobile-compare-blocking-thirdparty-trackers = 拦截第三方跟踪器不仅有�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>功能</strong>
 mobile-compare-features = 功能
+mobile-compare-what-can-your = 您的浏览器能为您做什么？
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>同步</strong>
 mobile-compare-syncing = 同步
