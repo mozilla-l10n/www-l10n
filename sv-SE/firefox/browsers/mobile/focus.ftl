@@ -34,5 +34,6 @@ mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } blockerar annonser som 
 mobile-focus-see-it-all = Se allt snabbare
 # Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } tar bort spårare och annonser så att sidorna du tittar kräver mindre data och laddas mycket snabbare.
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } tar bort spårare och aktiverar blockering av annonser så att sidorna du tittar kräver mindre data och laddas mycket snabbare. Fäst också upp till fyra genvägar på startskärmen och kom ännu snabbare till din favoritsajt utan att skriva något.
 mobile-focus-made-by-mozilla = Skapad av { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Vi anser att alla borde ha kontroll över sina liv online. Det har vi kämpat för sedan 1998.

@@ -51,6 +51,11 @@ vpn-landing-faq-uses-encrypt = Krypterar trafiken mellan dig och din VPN-leveran
 vpn-landing-faq-uses-examples = Kolla in <a href="{ $url }">fem verkliga exempel</a> där du vill ha ett VPN på din enhet.
 vpn-landing-faq-info-question-heading = Vilken information behåller { -brand-name-mozilla-vpn }?
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Vi följer strikt { -brand-name-mozilla }s <a href="{ $principles }">principer för dataskydd</a> och vi samlar in den information som krävs för att VPN ska fungera och för att förbättra produkten över tid . Vi spårar också kampanj- och hänvisningsdata i vår mobilapp för att hjälpa { -brand-name-mozilla } att förstå effektiviteten i våra marknadsföringskampanjer. Läs mer i vår <a href="{ $notice }">sekretesspolicy</a>.
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Vi loggar, spårar eller delar inte någon av dina nätverksaktiviteter. Vi följer strikt { -brand-name-mozilla }:s <a href="{ $url }">Dataskyddsprinciper</a> och vi samlar endast in de uppgifter som krävs för att hålla VPN-operativt och förbättra produkten över tid .
 vpn-landing-faq-protected-question-heading = Hur skyddas min integritet?
@@ -59,8 +64,9 @@ vpn-landing-faq-protected-question-heading = Hur skyddas min integritet?
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokollet krypterar din nätverkstrafik och skyddar all din privata information. Jämfört med befintliga VPN-protokoll är { -brand-name-wireguard }:s lättviktskod lättare för säkerhetsanalytiker att granska—vilket gör det till ett säkrare alternativ för VPN. Dessutom förblir dina onlineaktiviteter anonyma eftersom vi aldrig loggar, spårar eller delar dina nätverksdata.
 vpn-landing-faq-competition-question-heading = Hur är { -brand-name-mozilla-vpn } jämfört med konkurrenterna?
+# Obsolete string
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Även om gratis VPN verkar attraktiva, gör de inte samma åtaganden om integritet som { -brand-name-mozilla-vpn } och kan sälja eller lagra dina data. Andra betalda VPN har inte { -brand-name-mozilla }:s över 20-års <a href="{ $url }">erfarenhet</a> av att bygga produkter som sätter människor och integritet först.
 vpn-landing-faq-compatibility-question-heading = Vilka enheter är kompatibla med { -brand-name-mozilla-vpn }?
 # Variables:
