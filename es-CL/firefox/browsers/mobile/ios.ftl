@@ -17,6 +17,7 @@ mobile-ios-scan-the-qr-code-to-get-started = Escanea el código QR para empezar
 mobile-ios-scan-alt-text = Escanea el código QR para obtener { -brand-name-firefox } para { -brand-name-ios }.
 mobile-ios-make-firefox-your = Establece { -brand-name-firefox } como tu navegador predeterminado
 mobile-ios-fast-private-secure = Rápido. Privado. Seguro
+mobile-ios-keep-whats-personal = Mantén privado lo que es personal, sin sacrificar la velocidad ultrarrápida. Además, las funciones de navegación inteligente te brindan el poder de llevar tu privacidad, contraseñas y marcadores de manera segura a donde sea que vayas, lo que te facilita tu vida en línea.
 mobile-ios-stay-private-online = Mantén tu privacidad en línea
 mobile-ios-your-browsing-history = Tu historial de navegación es cosa del pasado
 mobile-ios-if-you-want = Si lo deseas, puedes seleccionar fácilmente conectarte y buscar en el modo de navegación privada. Y cuando cierras el modo de navegación privada, tu historial de navegación y las cookies se borran automáticamente de tu dispositivo.
