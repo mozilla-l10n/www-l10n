@@ -10,6 +10,8 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = El navegador { -brand-name-firefox } para { -brand-name-android } es rápido, seguro y privado desde la primera vez que lo abres.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+mobile-android-go-mobile-go = Vuélvete móvil. Vuélvete independiente con { -brand-name-firefox } para { -brand-name-android }
 mobile-android-when-you-download = Cuando bajas { -brand-name-firefox }, estás eligiendo apoyar a una empresa de tecnología independiente. { -brand-name-firefox } es el único navegador de los grandes respaldado por una organización sin fines de lucro que lucha por brindarte más apertura, transparencia y control sobre tu vida en línea.
 mobile-android-get-firefox-for = Obtén { -brand-name-firefox } para { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Envía un enlace de descarga a tu teléfono.
@@ -28,6 +30,7 @@ mobile-android-got-lots-of = ¿Tienes muchas pestañas abiertas? No hay problema
 mobile-android-supercharge-firefox-with = Potencia { -brand-name-firefox } con complementos
 mobile-android-addons-are-like = Los complementos son como pequeñas herramientas poderosas que puedes añadir a tu navegador para hacer cosas como potenciar los ajustes de privacidad predeterminados y personalizar tu experiencia.
 mobile-android-pick-up-where = Continúa donde quedaste
+mobile-android-go-from-your = Pasa del teléfono a tu notebook, tablet y viceversa sin perder el ritmo. Con { -brand-name-firefox } en todos sus dispositivos, puedes llevar tus marcadores, contraseñas, credenciales guardadas e historial de navegación a donde sea que vayas.
 mobile-android-search-from-your = Busca desde la pantalla de inicio de tu teléfono
 mobile-android-no-need-to = No es necesario abrir la aplicación. Añade el widget de búsqueda de { -brand-name-firefox } y busca directamente en la Web desde la pantalla de inicio de tu dispositivo.
 mobile-android-pin-videos-to = Ancla videos a tu pantalla
