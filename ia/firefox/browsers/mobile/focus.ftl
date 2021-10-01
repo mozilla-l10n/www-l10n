@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Le navigator confidential
@@ -17,15 +17,20 @@ mobile-focus-get-firefox-focus = Obtene { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Inviar un ligamine de discargamento a tu telephono.
 mobile-focus-scan-the-qr-code-to-get-started = Scanna le codice QR pro comenciar
 mobile-focus-scan-alt-text = Scanna le codice QR pro obtener { -brand-name-firefox-focus }
+# Outdated string
 mobile-focus-disappear-your-history = Elimina tu historia de navigation
+mobile-focus-delete-your-history = Dele tu chronologia
 mobile-focus-easily-erase-your = Rade facilemente tu historia, contrasignos e cookies, de sorta que le annuncios indesirate non te perseque in linea. Simplemente tocca le button Rader sur le campo de recerca e disparera.
 mobile-focus-take-private-mode = Porta le modo private al proxime nivello
+# Outdated string
 mobile-focus-private-browsing-on = Le “navigation private” sur le major parte de navigatores non es vermente tanto private. { -brand-name-firefox-focus } forni un protection de vanguarda e sempre active de confidentialitate, sustenite per { -brand-name-mozilla }, le organisation sin scopo de lucro que lucta pro tu derectos in linea.
 mobile-focus-tracking-protection = Protection contra le traciamento
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } bloca per predefinition un grande varietate de traciatores commun, como traciatores social e le traciatores persistente que proveni de cosas como annuncios de { -brand-name-facebook }.
 mobile-focus-ad-blocking = Blocada del avisos publicitari
+# Outdated string
 mobile-focus-focus-blocks-the = { -brand-name-focus } bloca le annuncios que tu normalmente vide sur paginas web. Nulle additivos o extensiones necessari. Con minus annuncios, tu paginas se carga plus rapidemente e tu attinge plus tosto le cosas que tu vole.
 mobile-focus-see-it-all = Attinge toto plus rapidemente
+# Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } remove traciatores e annuncios, de maniera que le paginas que tu visita consume minus datos e se carga multo plus rapidemente.
 mobile-focus-made-by-mozilla = Facite per { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Nos crede que cata uno deberea haber le controlo de su vita in linea. Es pro isto que nos lucta desde 1998.
