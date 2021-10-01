@@ -14,14 +14,14 @@ firefox-desktop-download-meta-desc = 下载由致力于互联网健康与隐私�
 firefox-desktop-download-og-title = 下载有史以来最快的 { -brand-name-firefox }
 firefox-desktop-download-og-desc = 加载更快、内存占用更低、包含更多功能。全新的 { -brand-name-firefox } 闪耀登场！
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
-firefox-desktop-download-get-the-browser = 选用会保护重要数据的浏览器
+firefox-desktop-download-get-the-browser = 选择会保护重要数据的浏览器
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = 没有晦涩难懂的隐私保护政策，更不向广告商预留后门，纯粹是一款闪电般快、不会出卖您的浏览器。
 firefox-desktop-download-download-options = 下载其他平台与语言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }用户支持
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = 上网无拘束。<br>{ -brand-name-firefox-browser }<strong>不会</strong>偷看。
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 与其他浏览器比较
+firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 与其他浏览器相比
 firefox-desktop-download-get-all-the-speed = 不必牺牲隐私，即可获得最佳速度和实用工具。{ -brand-name-firefox-browser }只会收集您非常少的数据，甚至不用输入邮箱地址就能下载。在网上跟踪您对我们来说没有任何好处 — 这是我们与其他浏览器最大的不同。
 firefox-desktop-download-how-we-compare = 我们与其他浏览器的不同
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } 与下列浏览器：
@@ -43,7 +43,7 @@ firefox-desktop-download-master-password = 主密码
 firefox-desktop-download-we-block-the-ad = 有我们拦截广告跟踪器，上网冲浪更畅快。
 firefox-desktop-download-ads-are-distracting = 广告使人分心，其中的跟踪器会监视您在网上的一举一动，并拖慢网页加载速度。{ -brand-name-firefox-browser }会自动拦截网上大部分的跟踪器，您大可不必深入研究哪些安全设置需要调整。
 firefox-desktop-download-see-your-report = 查看您的保护报告
-firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-firefox }
+firefox-desktop-download-for-everyone = 人人皆可使用 { -brand-name-firefox }
 firefox-desktop-download-available-in-over = 无论您身在何处，使用哪种设备，{ -brand-name-firefox } 有超过 90 种语言版本，且兼容于 { -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux } 三大平台。请确保您的操作系统已升级到最新版，以获得最佳使用体验。
 firefox-desktop-download-review-system-req = 确认系统配置要求
 firefox-desktop-download-all-your-devices = 将 { -brand-name-firefox } 安装到您所有的设备上
@@ -175,6 +175,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = 您正在使用一�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = 您的下载即将自动开始。并没有开始？<a id="{ $id }" href="{ $fallback_url }">重试下载</a>。
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是浏览器。
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = 下载已中断，但已下载部分将保留。
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
