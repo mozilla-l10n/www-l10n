@@ -64,6 +64,9 @@ vpn-landing-faq-protected-question-heading = Como es protegite mi confidentialit
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = Le protocollo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® crypta tu traffico de rete, protegente tote tu informationes private. Al contrario del protocollos VPN existente, le codice legier de { -brand-name-wireguard } es plus facile pro le analystas de securitate a revider e verificar, rendente lo un option plus secur pro le VPN. In addition, tu activitates in linea resta anonyme perque nos non registra, tracia o comparti jammais tu datos de rete.
 vpn-landing-faq-competition-question-heading = Como comparar { -brand-name-mozilla-vpn } al competition?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Ben que le VPNsgratuite pare attractive, illos non es tanto dedicate al confidentialitate como { -brand-name-mozilla-vpn }. Altere VPNs non ha le <a href="{ $url }">fama</a> ultra 20ennal de { -brand-name-mozilla } re crear productos que primo pone personas e confidentialitate.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
