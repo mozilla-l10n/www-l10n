@@ -8,6 +8,7 @@
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-get-firefox-for = Λήψη του { -brand-name-firefox } για { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Στείλτε έναν σύνδεσμο λήψης στο τηλέφωνό σας.
 mobile-android-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
 mobile-android-fast-and-private = Γρήγορο και ιδιωτικό
