@@ -24,11 +24,13 @@ mobile-focus-easily-erase-your = Rade facilemente tu historia, contrasignos e co
 mobile-focus-take-private-mode = Porta le modo private al proxime nivello
 # Outdated string
 mobile-focus-private-browsing-on = Le “navigation private” sur le major parte de navigatores non es vermente tanto private. { -brand-name-firefox-focus } forni un protection de vanguarda e sempre active de confidentialitate, sustenite per { -brand-name-mozilla }, le organisation sin scopo de lucro que lucta pro tu derectos in linea.
+mobile-focus-private-browsing-on-v2 = Le “navigation anonyme” sur le major parte del navigatores non es vermente tanto anonyme. { -brand-name-firefox-focus } forni de norma un protection de vanguarda e illo es sustenite per { -brand-name-mozilla }, le organisation sin scopo de lucro que lucta pro tu derectos sur le web.
 mobile-focus-tracking-protection = Protection contra le traciamento
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } bloca per predefinition un grande varietate de traciatores commun, como traciatores social e le traciatores persistente que proveni de cosas como annuncios de { -brand-name-facebook }.
 mobile-focus-ad-blocking = Blocada del avisos publicitari
 # Outdated string
 mobile-focus-focus-blocks-the = { -brand-name-focus } bloca le annuncios que tu normalmente vide sur paginas web. Nulle additivos o extensiones necessari. Con minus annuncios, tu paginas se carga plus rapidemente e tu attinge plus tosto le cosas que tu vole.
+mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } bloca le annuncios que tenta te traciar inter le paginas web. Nulle additivos o extensiones necessari. Con minus annuncios, tu paginas se carga plus rapidemente e tu attinge plus tosto le cosas que tu vole.
 mobile-focus-see-it-all = Attinge toto plus rapidemente
 # Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } remove traciatores e annuncios, de maniera que le paginas que tu visita consume minus datos e se carga multo plus rapidemente.
