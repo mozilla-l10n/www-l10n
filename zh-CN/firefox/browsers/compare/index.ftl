@@ -13,8 +13,8 @@ compare-index-privacy-utility-portability = 隐私、实用、跨平台。
 # HTML page description
 compare-index-a-great-internet-browser-should = 一款出色的浏览器应具备：您必需的功能、跨设备的可用性，及您应得的隐私。
 compare-index-which-browser-is-best-at-keeping = 哪款浏览器最能保护您的信息安全？
-compare-index-its-not-unreasonable-to-expect = 期望我们经常使用的在线产品能提供高水平的数据保护和隐私保护，这并非没有道理。至少，浏览器应该提供某种形式的“隐私浏览模式”，自动删除您的浏览历史和搜索记录，以使同一台计算机上的其他用户无法得知您的网上活动。在此方面，所有六款在此比较的浏览器都得到分数。
-compare-index-its-not-unreasonable-to-expect-fallback = 人们期望常用的在线产品能提供高水平的数据保护和隐私保护，这并非没有道理。至少，浏览器应该提供某种形式的“隐私浏览模式”，自动删除浏览历史和搜索记录，这样同一台计算机上的其他用户就无法得知您的网上活动。在此方面，所有七款在此比较的浏览器都得到分数。
+compare-index-its-not-unreasonable-to-expect = 期望日常上网工具提供高水平的数据和隐私保护相当正常。至少，浏览器应该提供可以清除浏览历史和搜索记录的“隐私浏览模式”，这样同一台计算机上的其他用户才无法获知您的网上活动。在此方面，所有六款在此比较的浏览器都得到分数。
+compare-index-its-not-unreasonable-to-expect-fallback = 期望日常上网工具提供高水平的数据和隐私保护相当正常。至少，浏览器应该提供可以清除浏览历史和搜索记录的“隐私浏览模式”，这样同一台计算机上的其他用户才无法获知您的网上活动。在此方面，所有七款在此比较的浏览器都得到分数。
 compare-index-what-you-do-online-literally = 无论您在网上做了何事，其他任何人都无权使用这些活动数据获利。
 compare-index-another-browser-feature-that = 浏览器应该提供的另一个功能是，即使普通浏览模式下，也能够阻止网站和各个公司跟踪您的浏览和购物数据。
 compare-index-another-browser-feature-fallback = 另一个浏览器应提供的功能是 — 能够阻止网站和企业跟踪您的浏览和购物数据 — 即使在普通浏览模式下。但实际并非如此：事实上，默认阻止第三方跟踪性 Cookie 的浏览器只有 { -brand-name-firefox } 和 { -brand-name-safari }。

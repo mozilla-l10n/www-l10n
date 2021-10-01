@@ -11,9 +11,9 @@ mobile-compare-5-of-the-best = 五款最佳移动浏览器同台对比
 mobile-compare-who-makes-the = 谁是最好的移动浏览器？我们将比较移动版本的 { -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari } 和 { -brand-name-opera } 找出答案。
 mobile-compare-since-your-mobile = 移动浏览器已成为现代人获取信息的重要途径，而速度、安全性、隐私和易用性是其良好体验的关键。那么谁才是最好的移动浏览器呢？让我们来比较一下，看看哪一款最符合您的需求。
 mobile-compare-which-mobile-browser = 哪款移动浏览器最能保护您的信息安全？
-mobile-compare-at-a-minimum-v2 = 至少，您的移动浏览器应该提供某种形式的“隐私浏览模式”，自动删除您的浏览历史和搜索记录。在此方面，所有五款在此比较的浏览器都得到分数。
+mobile-compare-at-a-minimum-v2 = 至少，您的移动浏览器应该提供可以清除浏览历史和搜索记录的“隐私浏览模式”。在此方面，所有五款在此比较的浏览器都得到分数。
 # Obsolete string
-mobile-compare-at-a-minimum = 至少，您的移动浏览器应该提供某种形式的“隐私浏览模式”，自动删除您的浏览历史和搜索记录。在此方面，所有七款在此比较的浏览器都得到分数。
+mobile-compare-at-a-minimum = 至少，您的移动浏览器应该提供可以清除浏览历史和搜索记录的“隐私浏览模式”。在此方面，所有七款在此比较的浏览器都得到分数。
 mobile-compare-another-mobile-feature = 移动浏览器应该提供的另一个功能是，即使普通浏览模式下，也能够阻止网站和各个公司跟踪您的浏览和购物数据。
 mobile-compare-blocking-thirdparty-trackers = 拦截第三方跟踪器不仅有助于保护隐私，还能防止这些附加代码拉低浏览器的速度，助您更快看到所需内容。
 mobile-compare-from-the-chart = 从上面的图表可以清晰看出，{ -brand-name-firefox } 内置了五款浏览器中最完整的隐私和安全工具，并提供有关您整体在线安全和隐私摘要信息的面板。
