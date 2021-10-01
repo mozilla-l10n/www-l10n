@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
-privacy-index-mozilla-privacy = ಮೊಜಿಲ್ಲಾ ಗೌಪ್ಯತೆ
-privacy-index-contact-mozilla = ಮೊಜಿಲ್ಲಾವನ್ನು ಸಂಪರ್ಕಿಸಿ
+privacy-index-mozilla-privacy = { -brand-name-firefox } ಗೌಪ್ಯತೆ
+privacy-index-contact-mozilla = { -brand-name-mozilla } ಸಂಪರ್ಕಿಸಿ
 privacy-index-data-privacy-principles = ದತ್ತಾಂಶ ಗೋಪ್ಯತೆ ಕಾರ್ಯನೀತಿಗಳು
 privacy-index-transparency-report = ಪಾರದರ್ಶಕತೆ ವರದಿ
 privacy-index-outdated-policies = ಹಳತಾದ ನೀತಿಗಳು
