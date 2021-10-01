@@ -34,5 +34,6 @@ mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } bloca le annuncios que 
 mobile-focus-see-it-all = Attinge toto plus rapidemente
 # Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } remove traciatores e annuncios, de maniera que le paginas que tu visita consume minus datos e se carga multo plus rapidemente.
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } remove traciatores e activa le blocatores de avisos publicitari assi le paginas web que tu visualisa require minus datos e carga multo plus veloce. Alsi, appuncta usque quatro vias breve sur tu pagina initial e accede a tu sitos favorite mesmo plus facilemente sin scriber alco.
 mobile-focus-made-by-mozilla = Facite per { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Nos crede que cata uno deberea haber le controlo de su vita in linea. Es pro isto que nos lucta desde 1998.
