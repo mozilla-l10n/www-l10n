@@ -30,6 +30,7 @@ mobile-compare-the-mobile-version = { -brand-name-safari } 的移动版本预装
 mobile-compare-almost-all-of = 这里比较的移动浏览器几乎都支持移动设备和桌面设备间的完全同步。
 mobile-compare-the-good-news = { -brand-name-iphone } 用户的好消息：{ -brand-name-apple } 最近已经允许 { -brand-name-iphone } 用户自行选择默认浏览器。只需在 { -brand-name-iphone } 和 { -brand-name-windows } 上同时安装 { -brand-name-firefox }，即可跨平台同步设备。
 mobile-compare-conclusion = 结论：
+mobile-compare-based-on-the = 根据上述标准——隐私、功能和同步——实际上只有一款移动浏览器可以满足这三项要求，那就是 { -brand-name-firefox }。虽然 { -brand-name-firefox } 在功能和同步上无太大差别，但在隐私方面的确与众不同。我们始终认为若要尽情享受互联网，隐私保护是重要一环，您觉得呢？
 mobile-compare-our-recommendations-aside = 撇开我们的建议不谈，找到适合您的浏览器，最终还是取决于您的个人需求和网络浏览最看重的体验取向。
 mobile-compare-search-engine-options = 搜索引擎选项
 mobile-compare-text-to-speech = 文字转语音
