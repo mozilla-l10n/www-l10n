@@ -8,7 +8,7 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Отримати { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Долучитись до списку очікування
-vpn-shared-sign-in-link = Уже підписалися?
+vpn-shared-sign-in-link = Уже передплатили?
 # Outdated string
 vpn-shared-available-countries-v3 = В цей час ми пропонуємо { -brand-name-mozilla-vpn } у США, Канаді, Великобританії, Німеччині, Франції, Італії, Іспанії, Бельгії, Австрії, Швейцарії, Малайзії, Новій Зеландії та Сингапурі.
 vpn-shared-available-countries-v4 = Наразі ми пропонуємо { -brand-name-mozilla-vpn } в Австрії, Бельгії, Канаді, Франції, Німеччині, Ірландії, Італії, Малайзії, Нідерландах, Новій Зеландії, Сінгапурі, Іспанії, Швейцарії, Великобританії та США.
