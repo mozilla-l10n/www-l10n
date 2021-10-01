@@ -51,6 +51,11 @@ vpn-landing-faq-uses-encrypt = Cryptante le traffico inter te e tu fornitor de V
 vpn-landing-faq-uses-examples = Discoperi <a href="{ $url }">cinque exemplos de vita real</a> in le qual tu desirarea un VPN sur tu apparato.
 vpn-landing-faq-info-question-heading = Que informationes retene le { -brand-name-mozilla-vpn }?
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Nos adhere strictemente al <a href="{ $principles }">principios de confidentialitate del datos</a> de { -brand-name-mozilla } e nos solo collige le datos necessari pro mantener le VPN operative e meliorar le producto in le tempore. Nos alsi tracia campanias e datos de referentia sur nostre app mobile pro adjutar { -brand-name-mozilla } a comprender le efficacia de nostre campanias de marketing. Lege plus in nostre <a href="{ $notice }">Advertentia de confidentialitate</a>.
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Nos non registra, tracia o comparti ulle tu activitate de rete. Nos adhere strictemente al <a href="{ $url }">principios de confidentialitate del datos</a> de { -brand-name-mozilla } e nos solo collige le datos necessari pro mantener le VPN operative e meliorar le producto in le tempore.
 vpn-landing-faq-protected-question-heading = Como es protegite mi confidentialitate?
@@ -59,8 +64,9 @@ vpn-landing-faq-protected-question-heading = Como es protegite mi confidentialit
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = Le protocollo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® crypta tu traffico de rete, protegente tote tu informationes private. Al contrario del protocollos VPN existente, le codice legier de { -brand-name-wireguard } es plus facile pro le analystas de securitate a revider e verificar, rendente lo un option plus secur pro le VPN. In addition, tu activitates in linea resta anonyme perque nos non registra, tracia o comparti jammais tu datos de rete.
 vpn-landing-faq-competition-question-heading = Como comparar { -brand-name-mozilla-vpn } al competition?
+# Obsolete string
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Ben que le VPNs gratuite pare attractive, illos non es dedicate al confidentialitate como { -brand-name-mozilla-vpn } e pote vender o immagazinar tu datos. Altere VPNs pagate non ha le <a href="{ $url }">fama</a> ultra 20ennal de { -brand-name-mozilla } production que antepone le personas e le confidentialitate.
 vpn-landing-faq-compatibility-question-heading = Qual apparatos es compatibile con { -brand-name-mozilla-vpn }?
 # Variables:
