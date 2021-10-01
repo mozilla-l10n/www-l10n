@@ -18,6 +18,7 @@ browsers-mobile-firefox-for-ios = { -brand-name-ios } 版 { -brand-name-firefox 
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = 将 { -brand-name-firefox } 设为您 { -brand-name-iphone } 和 { -brand-name-ipad } 上的默认浏览器，以获得增强型跟踪保护。
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = 在寻找一款简洁、快速、高度隐私的移动浏览器？{ -brand-name-firefox-focus } 会自动删除您使用期间的所有浏览历史。
 browsers-mobile-compare-mobile-browsers = 比较移动浏览器
 browsers-mobile-see-how-firefox-stacks-up = 了解 { -brand-name-firefox } 在隐私、功能和同步这三大方面如何与其他主流浏览器相抗衡。
 browsers-mobile-compare = 比较
