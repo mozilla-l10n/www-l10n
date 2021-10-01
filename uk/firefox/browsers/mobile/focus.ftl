@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Браузер для приватності
@@ -17,15 +17,19 @@ mobile-focus-get-firefox-focus = Отримайте { -brand-name-firefox-focus 
 mobile-focus-send-a-download-link-to-your = Надіслати посилання для завантаження на свій телефон.
 mobile-focus-scan-the-qr-code-to-get-started = Скануйте QR-код, щоб почати завантаження
 mobile-focus-scan-alt-text = Скануйте QR-код, щоб отримати { -brand-name-firefox-focus }
+# Outdated string
 mobile-focus-disappear-your-history = Позбувайтеся історії перегляду
 mobile-focus-easily-erase-your = Легко стирайте історію, паролі та куки, щоб небажана реклама не стежила за вами в інтернеті. Просто натисніть кнопку стерти у полі пошуку, і вона зникне.
 mobile-focus-take-private-mode = Піднесіть приватний режим на новий рівень
-mobile-focus-private-browsing-on = “Приватний перегляд” у більшості браузерів насправді не такий вже й приватний. { -brand-name-firefox-focus } — це вищий рівень, заснований на постійному приватному перегляді, і підтримуваний { -brand-name-mozilla }, некомерційна організація, яка бореться за ваші права в інтернеті.
+# Outdated string
+mobile-focus-private-browsing-on = “Приватний перегляд” у більшості браузерів насправді не такий вже й приватний. { -brand-name-firefox-focus } — це вищий рівень, заснований на постійному приватному перегляді, і підтримуваний { -brand-name-mozilla }, некомерційною організацією, яка бореться за ваші права в інтернеті.
 mobile-focus-tracking-protection = Захист від стеження
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } з коробки блокує широкий спектр поширених елементів стеження, включно з елементами стеження суспільних мереж та таких реп'яхів, які наліплюються, як, наприклад, оголошення { -brand-name-facebook }.
 mobile-focus-ad-blocking = Блокування реклами
+# Outdated string
 mobile-focus-focus-blocks-the = { -brand-name-focus } блокує рекламу, яку ви зазвичай бачите на вебсторінках — без жодних додатків чи розширень. Зі зменшенням кількості оголошень ви отримуєте зростання швидкості завантажень сторінки, а це означає, що ви набагато швидше дістаєтеся до потрібного вмісту.
 mobile-focus-see-it-all = Пришвидшення перегляду
+# Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } прибирає елементи стеження та оголошення, тому перегляд сторінок потребує меншого використання даних і вони завантажуються значно швидше.
 mobile-focus-made-by-mozilla = Створено у { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Ми віримо, що кожен повинен мати можливість контролю свого життя в інтернеті. Це те, що ми відстоюємо з 1998 року.
