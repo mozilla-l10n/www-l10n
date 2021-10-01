@@ -45,7 +45,7 @@ vpn-landing-faq-uses-question-desc = ვინაიდან ყოველდ
 vpn-landing-faq-uses-conceal-v2 = ფარავს თქვენს ნამდვილ <a href="{ $url }">IP-მისამართს</a>. გიცავთ ვინაობისა და მდებარეობის გამჟღავნებისგან.
 # Obsolete string
 vpn-landing-faq-uses-conceal = ფარავს თქვენს ნამდვილ IP-მისამართს. გიცავთ ვინაობისა და მდებარეობის გამჟღავნებისგან.
-vpn-landing-faq-uses-encrypt = შიფრავს მიმოცვლილ მონაცემებს თქვენსა და VPN-ის მომწოდებელს შორის, შედეგად ვერავინ ადგილობრივ ქსელში, ვერ შეძლებს მის ამოკითხვას ან ჩანაცვლებას.
+vpn-landing-faq-uses-encrypt = შიფრავს მიმოცვლილ მონაცემებს თქვენსა და VPN-ის მომწოდებელს შორის და ვერავინ ადგილობრივ ქსელში, ვერ შეძლებს მის ამოკითხვას ან ჩანაცვლებას.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = გაეცანით <a href="{ $url }">ხუთ ცხოვრებისეულ მაგალითს</a> თუ რისთვისაა გამოსადეგი VPN თქვენს მოწყობილობაზე.
