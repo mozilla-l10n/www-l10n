@@ -16,12 +16,16 @@ mobile-ios-send-a-download-link-to-your = 发送下载链接至您的手机。
 mobile-ios-scan-the-qr-code-to-get-started = 立即扫码
 mobile-ios-scan-alt-text = 扫码下载 { -brand-name-ios } 版 { -brand-name-firefox }
 mobile-ios-make-firefox-your = 将 { -brand-name-firefox } 设为您的默认浏览器
+mobile-ios-now-iphone-and = 现在 { -brand-name-iphone } 和 { -brand-name-ipad } 用户可以选择自己的默认浏览器了。这意味着您无需再受困于 { -brand-name-safari } ，并且您的移动浏览器可以与您最喜欢的桌面浏览器保持同步。另外，将 { -brand-name-firefox } 设置为默认浏览器，即代表您选择支持一家独立的科技公司。 { -brand-name-firefox } 是最后一款由非营利组织支持的主流浏览器。
 mobile-ios-fast-private-secure = 快速、私密、安全
 mobile-ios-keep-whats-personal = 保护个人隐私与超快浏览速度，全都要。此外，智能浏览功能让您可将隐私数据、密码和书签安全地随身携带，让您的在线生活更轻松。
 mobile-ios-stay-private-online = 保护在线隐私
 mobile-ios-firefox-gives-you = { -brand-name-firefox } 在您上网时为您提供更强大的隐私保护。默认情况下，我们的增强型跟踪保护便会拦截社交媒体跟踪器、跨网站 Cookie 跟踪器、加密货币挖矿程序和数字指纹跟踪程序等跟踪器和脚本。
 mobile-ios-your-browsing-history = 浏览历史已成历史
+mobile-ios-if-you-want = 如有需要，您可以轻松选择通过隐私浏览模式上网和搜索。当您关闭隐私浏览模式时，您的浏览历史及所有 Cookie 都会从您的设备中自动删除。
 mobile-ios-get-more-firefox = { -brand-name-firefox } 让您的生活更美好
+# Obsolete string
+mobile-ios-add-firefox-across = 在您的设备上安装 { -brand-name-firefox } 以获得安全、无缝的浏览体验。 { -brand-name-sync }您的设备，将您的书签、保存的登录信息、密码和浏览历史随身带走。另外，您可以在手机和电脑之间发送打开的标签页，以从您离开的地方继续。
 mobile-ios-find-it-all = 搜索更迅捷
 mobile-ios-keep-tabs-on = 全局掌控标签页
 mobile-ios-create-as-many = 不必担心打开太多标签页而迷失其中。{ -brand-name-firefox } 可将您打开的标签页显示为缩略图并进行编号，以便快速找到所需内容。
