@@ -26,6 +26,7 @@ mobile-compare-a-main-ingredient = 一款浏览器是否优秀，功能是关键
 mobile-compare-syncing-strong = <strong>同步</strong>
 mobile-compare-syncing = 同步
 mobile-compare-does-your-browser = 您的浏览器是否与其他设备兼容？
+mobile-compare-the-mobile-version = { -brand-name-safari } 的移动版本预装在 { -brand-name-apple } 的移动设备上，只与其他 { -brand-name-apple } 设备兼容，如 { -brand-name-ipad } 和 { -brand-name-mac-short } 笔记本电脑。 { -brand-name-firefox }、{ -brand-name-chrome } 和 { -brand-name-opera } 则适用于所有平台，包括 { -brand-name-ios }、{ -brand-name-android }、 { -brand-name-windows }、{ -brand-name-mac-short } 和 { -brand-name-linux }；{ -brand-name-edge } 浏览器尚不兼容 { -brand-name-linux } 设备。
 mobile-compare-almost-all-of = 这里比较的移动浏览器几乎都支持移动设备和桌面设备间的完全同步。
 mobile-compare-the-good-news = { -brand-name-iphone } 用户的好消息：{ -brand-name-apple } 最近已经允许 { -brand-name-iphone } 用户自行选择默认浏览器。只需在 { -brand-name-iphone } 和 { -brand-name-windows } 上同时安装 { -brand-name-firefox }，即可跨平台同步设备。
 mobile-compare-conclusion = 结论：
