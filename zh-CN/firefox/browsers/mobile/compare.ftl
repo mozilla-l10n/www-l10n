@@ -21,6 +21,7 @@ mobile-compare-from-the-chart = 从上面的图表可以清晰看出，{ -brand-
 mobile-compare-features-strong = <strong>功能</strong>
 mobile-compare-features = 功能
 mobile-compare-what-can-your = 您的浏览器能为您做什么？
+mobile-compare-a-main-ingredient = 一款浏览器是否优秀，功能是关键。它能做什么？在标签页、书签、自动补全字段方面，五款浏览器几乎平起平坐，但只有 { -brand-name-firefox } 和 { -brand-name-safari } 支持附加组件/扩展——可看作浏览器上的应用程序，让它更隐私、更强大或更有趣。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>同步</strong>
 mobile-compare-syncing = 同步
