@@ -53,6 +53,9 @@ vpn-what-is-are-vpns-only = VPN 仅适用于计算机吗？
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = VPN 可用于保护您的所有设备——计算机、笔记本电脑、平板电脑和手机。如果您通过浏览器之外的独立应用程序访问互联网，VPN 是在任何设备上保护您的隐私和安全的不错选择。您需要在每台设备上安装 VPN 才能使其生效。当您从任何应用程序或浏览器连接到互联网时，<a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 为最多五台设备提供无限连接。
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }：快速、安全、可信赖
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 是一项您可以信赖的服务，它可以确保您在所有设备上安全地接入互联网。我们不会保存您的网络活动日志，更不会与第三方分析公司合作。在这个不可预测性已经成为新常态的世界里……
 # Obsolete string
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/

@@ -34,5 +34,6 @@ mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } 可拦截试图跨网�
 mobile-focus-see-it-all = 更快，肉眼可见
 # Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } 会拦截跟踪器和广告，页面加载又快又省流量。
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } 会移除跟踪器并启用广告拦截器，页面加载又快又省流量。此外，您可以在主屏幕上固定最多四个快捷方式，无需输入便可快速访问常用网站。
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } 出品
 mobile-focus-we-believe-everyone = 我们相信每个人都有权利掌控自己的在线生活。这也是我们自 1998 年以来一直为之而战的使命。
