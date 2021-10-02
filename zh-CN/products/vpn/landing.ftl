@@ -50,6 +50,10 @@ vpn-landing-faq-uses-encrypt = 加密您与 VPN 提供商之间的流量，杜�
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = 看看 5 个<a href="{ $url }">现实生活中的场景</a>，您可能想要在设备上使用 VPN。
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 会保存哪些信息？
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = 我们严格遵循 { -brand-name-mozilla } 的 <a href="{ $principles }">数据隐私准则</a>，只收集保持 VPN 正常运行和改进产品所需的信息。我们也会跟踪移动应用程序上的活动和推荐数据，以帮助 { -brand-name-mozilla } 了解营销活动的有效性。可阅读我们的<a href="{ $notice }">隐私声明</a>进一步了解。
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/

@@ -13,7 +13,7 @@ privacy-faq-it-can-be-tricky-for-people = 也许很难让人们弄懂他们在�
 privacy-faq-at-mozilla-we-respect-and-protect = 在 { -brand-name-mozilla }，我们非常尊重并保护您的个人信息：
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-we-follow-a-set-of-data-privacy = 我们遵循一系列<a href="{ $link }">数据隐私原则</a>，这些原则塑造了我们在 { -brand-name-firefox } 桌面和移动浏览器中保护隐私的方法。
+privacy-faq-we-follow-a-set-of-data-privacy = 我们遵循一系列<a href="{ $link }">数据隐私准则</a>，这些准则塑造了我们在 { -brand-name-firefox } 桌面和移动浏览器中保护隐私的方法。
 privacy-faq-we-only-collect-the-data-we = 我们仅为打造优秀产品收集必要信息。
 privacy-faq-we-put-people-in-control-of = 我们坚持让民众掌控自身数据与网络体验。
 privacy-faq-we-adhere-to-no-surprises-principle = 我们坚持“如所料”的原则，即我们努力确保 { -brand-name-firefox } 的实际运作符合人们的直觉预期。
@@ -30,6 +30,7 @@ privacy-faq-wait-so-how-do-you-make-money = 等等，那你们这样要如何赚
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } 绝非寻常组织。自从 1998 年组建为众志开源项目，{ -brand-name-mozilla } 一直由使命驱动，致力于协力打造更健康的互联网。{ -brand-name-mozilla-corporation }的大部份收入由 { -brand-name-firefox } Web 浏览器的搜索合作与遍布世界的各类交易而来。您可以看看我们的<a href="{ $link }">年度财报</a>，详细了解我们的营收从何而来。
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = 好吧，说重点。你们收集了哪些数据？
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
@@ -53,7 +54,7 @@ privacy-faq-data-collection-still-bugs-me = 数据收集仍让我感到不安。
 # Variables:
 #   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
-privacy-faq-yes-user-control-is-one-of-our = 是的。用户控制是我们的数据隐私原则之一。我们将这部分实现在<a href="{ $settings }">隐私设置页面</a>，该页面可为想要控制 { -brand-name-firefox } 隐私的任何人提供一站式服务。您可以在那里<a href="{ $data }">关闭数据收集</a>。
+privacy-faq-yes-user-control-is-one-of-our = 是的。用户控制是我们的数据隐私准则之一。我们将这部分实现在<a href="{ $settings }">隐私设置页面</a>，该页面可为想要控制 { -brand-name-firefox } 隐私的任何人提供一站式服务。您可以在那里<a href="{ $data }">关闭数据收集</a>。
 privacy-faq-what-about-my-account-data = 那我的账户数据呢？
 privacy-faq-we-are-big-believers-of-data = 我们坚信数据最简化原则，绝不索取我们不需要的东西。
 # Variables:

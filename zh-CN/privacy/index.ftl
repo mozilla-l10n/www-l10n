@@ -19,7 +19,7 @@ privacy-index-data-privacy-principles = 数据隐私准则
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
-privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla } 的<a href="{ $principles }">数据隐私原则</a>是我们尊重和保护互联网使用者的准则。欢迎查阅<a href="{ $faq }">常见问题</a>了解这些原则如何塑造了我们的 { -brand-name-firefox } 等产品。
+privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla } 的<a href="{ $principles }">数据隐私准则</a>是我们尊重和保护互联网使用者的准则。欢迎查阅<a href="{ $faq }">常见问题</a>了解这些准则如何塑造了我们的 { -brand-name-firefox } 等产品。
 privacy-index-transparency-report = 透明度报告
 privacy-index-get-involved = 参与进来
 # Variables:

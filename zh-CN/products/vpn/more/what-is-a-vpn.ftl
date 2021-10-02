@@ -41,7 +41,7 @@ vpn-what-is-its-very-hard = 很难找到值得信赖的 VPN。 VPN 旨在保护�
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
 #   $mission (url) - https://www.mozilla.org/mission/
 # "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
-vpn-what-is-weve-done-the = 我们已经做了大量工作以确保 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 实际上尊重您的隐私，这是我们愿意用我们的上的声誉。 { -brand-name-mozilla } 以构建可帮助您保护信息安全的产品而闻名。我们遵循易于阅读、严肃的<a href="{ $principles }">数据隐私原则</a>，这使我们能够只关注提供服务所需的信息。 { -brand-name-mozilla-vpn } 技术简洁而现代，可为用户提供具有完整 VPN 保护和安全性的快速连接。由于此 VPN 的制造商得到了<a href="{ $mission }">任务驱动</a>公司的支持，因此您可以相信，您为该产品花费的美元不仅可以确保您拥有顶级- 一流的 VPN，但也让互联网更适合每个人。
+vpn-what-is-weve-done-the = 我们已经做了大量工作以确保 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 实际上尊重您的隐私，这是我们愿意用我们的上的声誉。 { -brand-name-mozilla } 以构建可帮助您保护信息安全的产品而闻名。我们遵循易于阅读、严肃的<a href="{ $principles }">数据隐私准则</a>，这使我们能够只关注提供服务所需的信息。 { -brand-name-mozilla-vpn } 技术简洁而现代，可为用户提供具有完整 VPN 保护和安全性的快速连接。由于此 VPN 的制造商得到了<a href="{ $mission }">任务驱动</a>公司的支持，因此您可以相信，您为该产品花费的美元不仅可以确保您拥有顶级- 一流的 VPN，但也让互联网更适合每个人。
 vpn-what-is-can-vpns-protect = VPN 可以保护我免受网络犯罪的侵害吗？
 # Variables
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
@@ -53,6 +53,7 @@ vpn-what-is-are-vpns-only = VPN 仅适用于计算机吗？
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = VPN 可用于保护您的所有设备——计算机、笔记本电脑、平板电脑和手机。如果您通过浏览器之外的独立应用程序访问互联网，VPN 是在任何设备上保护您的隐私和安全的不错选择。您需要在每台设备上安装 VPN 才能使其生效。当您从任何应用程序或浏览器连接到互联网时，<a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 为最多五台设备提供无限连接。
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }：快速、安全、可信赖
+# Obsolete string
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 是一项您可以信赖的服务，可以让您在所有设备上安全地连接到互联网。我们不保留用户数据日志，也不与第三方分析平台合作，第三方分析平台希望建立您在线活动的档案。在一个不可预测性已成为“新常态”的世界中，我们知道让您感到安全比以往任何时候都更加重要，让您知道您在网上所做的事情是您自己的事。
