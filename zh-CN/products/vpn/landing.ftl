@@ -50,6 +50,7 @@ vpn-landing-faq-uses-encrypt = 加密您与 VPN 提供商之间的流量，杜�
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = 看看 5 个<a href="{ $url }">现实生活中的场景</a>，您可能想要在设备上使用 VPN。
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 会保存哪些信息？
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = 我们不会记录、跟踪或共享您的任何网络活动。我们严格遵守 { -brand-name-mozilla } 的<a href="{ $url }">数据隐私准则</a>，仅收集保证 VPN 正常工作及持续改进产品所需的数据。
@@ -60,7 +61,11 @@ vpn-landing-faq-protected-question-heading = 将如何保护我的隐私？
 vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® 协议会加密您的网络流量，从而保护您的所有私人信息。与现有的 VPN 协议相比，{ -brand-name-wireguard } 的轻量级代码更易于安全分析人员进行检查和审计，从而使其成为 VPN 的更安全选择。此外，我们永远不会记录、跟踪或共享您的网络数据，您的在线活动将因此保持匿名。
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 与竞品相比如何？
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = 免费 VPN 看似很有吸引力，但它们无法作出与 { -brand-name-mozilla-vpn } 相同的承诺。其他 VPN 品牌均缺少 { -brand-name-mozilla } 超过 20 年来以人为本及将隐私放在首位的<a href="{ $url }">履行记录</a>。
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = 免费 VPN 看似很有吸引力，但它们无法作出与 { -brand-name-mozilla-vpn } 相同的承诺：{ -brand-name-mozilla } 不会存储或出售您的数据。其他的付费 VPN 品牌均缺少 { -brand-name-mozilla } 超过 20 年来以人为本及将隐私放在首位的<a href="{ $url }">履行记录</a>。
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } 与哪些设备兼容？
 # Variables:
