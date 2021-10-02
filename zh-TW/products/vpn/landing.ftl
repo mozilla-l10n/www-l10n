@@ -51,6 +51,11 @@ vpn-landing-faq-uses-encrypt = 您與 VPN 供應商之間的流量會被加密�
 vpn-landing-faq-uses-examples = 看看五組會讓您想要在裝置上使用 VPN 的<a href="{ $url }">生活實際應用</a>。
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 會保存哪些資訊？
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = 我們嚴格遵守 { -brand-name-mozilla } 的<a href="{ $principles }">隱私資料處理原則</a>，只收集讓 VPN 能正常運作並改善產品所必需資料。我們也會在我們的行動應用程式中追蹤行銷活動和導流資料，以幫助 { -brand-name-mozilla } 了解行銷活動的效果。若需更多資訊，請閱讀我們的<a href="{ $notice }">隱私權公告</a>。
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = 我們不會記錄、追蹤或與他人分享您的任何網路活動。我們嚴格遵守 { -brand-name-mozilla } 的<a href="{ $url }">隱私資料處理原則</a>，也只會收集為了保持 VPN 運作或改善產品所必須的資料。
 vpn-landing-faq-protected-question-heading = 會如何保護我的隱私權？
@@ -60,7 +65,11 @@ vpn-landing-faq-protected-question-heading = 會如何保護我的隱私權？
 vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® 通訊協定會加密您的網路流量，保護您所有的隱私資訊。比起現有其他的 VPN 通訊協定，{ -brand-name-wireguard } 的程式碼更精簡，讓安全性分析師更簡單就能檢查與審計 — 讓 VPN 變得更安全。除此之外，由於我們不會記錄、追蹤或分享您的網路資料，您的線上活動能夠保持匿名。
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } 與其他類似產品，有什麼不同？
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = 免費 VPN 看似很吸引人，但他們無法在隱私作出與 { -brand-name-mozilla-vpn } 相同的承諾：其他的 VPN 品牌都沒有 { -brand-name-mozilla } 超過 20 年來把人們與隱私權放在最優先的<a href="{ $url }">實績紀錄</a>。
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = 免費 VPN 看似很吸引人，但他們無法在隱私作出與 { -brand-name-mozilla-vpn } 相同的承諾: { -brand-name-mozilla } 並不會儲存或賣出您的資料。其他的付費 VPN 品牌都沒有 { -brand-name-mozilla } 超過 20 年來把人們與隱私權放在最優先的<a href="{ $url }">實績紀錄</a>。
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } 相容於哪些裝置？
 # Variables:
