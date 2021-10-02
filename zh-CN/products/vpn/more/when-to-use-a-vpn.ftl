@@ -21,7 +21,7 @@ vpn-when-to-use-2-in-the = 2.在附近
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 # "C0MCAST-WiFi-77th-St" and "Verizon3-Hotspot-Baltimore" are examples of possibly suspicious public wifi networks. You can substitute similar example names for your locale.
 # "legit" is shortened slang for "legitimate"
-vpn-when-to-use-have-you-ever = 您是否曾经连接到诸如 <em>C0MCAST-WiFi-77th-St</em> 或 <em>Verizon3-Hotspot-Baltimore</em> 之类的热点？看起来合法，对吧？没那么快。在现实中，任何人都可以建立一个假冒的公共 WiFi，并用一个听起来合法的名字来引诱人们使用它。连接到任何未知的 WiFi 使您很容易成为想要访问您的设备以窃取私人信息、安装恶意软件或更糟的小偷和罪犯的目标。 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 可以在您连接到公共 WiFi 的任何时候通过阻止未知实体查看传输的私人数据来提高您的安全性您的手机或笔记本电脑。这适用于在咖啡店、商店、医生办公室等处连接到 WiFi 网络。
+vpn-when-to-use-have-you-ever = 您是否曾经连接到诸如 <em>C0MCAST-WiFi-77th-St</em> 或 <em>Verizon3-Hotspot-Baltimore</em> 之类的热点？看起来合法，对吧？别这么快下结论。在现实中，任何人都可以建立一个假冒的公共 WiFi，并用一个听起来合法的名字来引诱人们使用它。连接到任何未知的 WiFi 使您很容易成为想要访问您的设备以窃取私人信息、安装恶意软件或更糟的小偷和罪犯的目标。 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 可以在您连接到公共 WiFi 的任何时候通过阻止未知实体查看传输的私人数据来提高您的安全性您的手机或笔记本电脑。这适用于在咖啡店、商店、医生办公室等处连接到 WiFi 网络。
 vpn-when-to-use-3-on-the = 3. 旅途中
 vpn-when-to-use-open-wifi-abounds = 从联网巴士到火车站热点再到免费机场互联网，随时随地都可以使用开放式 WiFi。无论它们看起来多么安全，都要小心谨慎地对待这些 WiFi 热点。为了方便起见，我们中的许多人有时会使用这些免费连接，但本文中概述的所有风险都适用于任何开放、未经验证的 WiFi 网络。使用 VPN 可以帮助保护您的身份、文件传输和在线活动免受试图通过同一 WiFi 网络监视您的不良行为者的侵害。
 vpn-when-to-use-4-home-away = 4. 暂歇处
