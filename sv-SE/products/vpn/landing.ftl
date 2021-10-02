@@ -64,6 +64,9 @@ vpn-landing-faq-protected-question-heading = Hur skyddas min integritet?
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokollet krypterar din nätverkstrafik och skyddar all din privata information. Jämfört med befintliga VPN-protokoll är { -brand-name-wireguard }:s lättviktskod lättare för säkerhetsanalytiker att granska—vilket gör det till ett säkrare alternativ för VPN. Dessutom förblir dina onlineaktiviteter anonyma eftersom vi aldrig loggar, spårar eller delar dina nätverksdata.
 vpn-landing-faq-competition-question-heading = Hur är { -brand-name-mozilla-vpn } jämfört med konkurrenterna?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Även om gratis VPN verkar attraktiva, har de inte samma åtaganden för sekretess som { -brand-name-mozilla-vpn }. Andra VPN har inte { -brand-name-mozilla }s över 20-års <a href="{ $url }">erfarenhet</a> av att bygga produkter som sätter människor och integritet först.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
