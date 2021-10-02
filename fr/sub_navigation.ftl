@@ -23,6 +23,7 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } et { -brand-nam
 sub-navigation-desktop-nightly = { -brand-name-nightly } pour ordinateur
 sub-navigation-features = Fonctionnalités
 sub-navigation-support = Assistance
+sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Modules complémentaires
 sub-navigation-add-ons = Modules complémentaires
@@ -36,7 +37,6 @@ sub-navigation-android-add-ons = Modules complémentaires pour { -brand-name-and
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts(capitalization: "uppercase") }
 sub-navigation-sync = { -brand-name-sync }
-sub-navigation-lockwise = { -brand-name-lockwise }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64 bits
 sub-navigation-mac = { -brand-name-mac-short }
