@@ -36,7 +36,7 @@ no-we-dont = No, non pensiamo che { -brand-name-chrome } sia migliore di { -bran
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Scopri il confronto tra { -brand-name-firefox } e { -brand-name-chrome }.</a>
-related-questions-better = Domande collegate: { -brand-name-firefox } è meglio di { -brand-name-chrome }, { -brand-name-firefox } è meglio di { -brand-name-google }, { -brand-name-firefox } è più sicuro di { -brand-name-chrome }, { -brand-name-firefox } è più anonimo di { -brand-name-chrome }
+related-questions-better = Domande collegate: { -brand-name-firefox } è meglio di { -brand-name-chrome }, { -brand-name-firefox } è meglio di { -brand-name-google }, { -brand-name-firefox } è più sicuro di { -brand-name-chrome }, { -brand-name-firefox } è più rispettoso della privacy di { -brand-name-chrome }
 is-firefox-safe-download = { -brand-name-firefox } è sicuro da scaricare?
 
 # Variables:
@@ -70,7 +70,7 @@ does-firefox-have = { -brand-name-firefox } ha una VPN integrata?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 firefox-does-not = { -brand-name-firefox } non ha una VPN (virtual private network) integrata, ma puoi utilizzare in sinergia con il { -brand-name-firefox-browser } due altri prodotti sviluppati da { -brand-name-mozilla }/{ -brand-name-firefox }, per proteggere il browser stesso (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) o la connessione Wi-Fi (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) del tuo dispositivo, così come il tuo indirizzo IP.
 related-questions-ip = Domande correlate: { -brand-name-firefox } nasconde il tuo indirizzo IP
