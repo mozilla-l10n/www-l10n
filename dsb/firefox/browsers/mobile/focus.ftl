@@ -14,6 +14,10 @@ mobile-focus-get-firefox-focus = Wobstarajśo se { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Sćelśo swójomu telefonoju ześěgnjeński wótkaz.
 mobile-focus-scan-the-qr-code-to-get-started = Skannujśo QR-kod, aby zachopił
 mobile-focus-scan-alt-text = Skannujśo QR-kod, aby se { -brand-name-firefox-focus } wobstarał
+# Outdated string
+mobile-focus-disappear-your-history = Dajśo swóju historiju zgubiś
+mobile-focus-delete-your-history = Wašu historiju wulašowaś
 mobile-focus-tracking-protection = Slědowański šćit
 mobile-focus-ad-blocking = Blokěrowanje wabjenja
+mobile-focus-see-it-all = Woglědajśo se wšykno malsnjej
 mobile-focus-made-by-mozilla = Wót { -brand-name-mozilla } wuwity

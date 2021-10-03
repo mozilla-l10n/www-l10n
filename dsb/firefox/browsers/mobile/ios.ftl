@@ -21,5 +21,6 @@ mobile-ios-stay-private-online = Wostańśo priwatny online
 mobile-ios-your-browsing-history = Waša pśeglědowańska historija jo historija
 mobile-ios-get-more-firefox = Wobstarajśo se wěcej { -brand-name-firefox } w swójom žiwjenju
 mobile-ios-find-it-all = Malsnjej namakaś
+mobile-ios-keep-tabs-on = Wobchowajśo rejtariki we wócyma
 mobile-ios-discover-more-of = Namakajśo wěcej wó tom, což se wam spódoba
 mobile-ios-about-mozilla = Wó { -brand-name-mozilla }

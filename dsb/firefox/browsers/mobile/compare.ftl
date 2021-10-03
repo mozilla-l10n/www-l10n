@@ -7,6 +7,7 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = 5 z nejlěpšych mobilnych wobglědowakow w direktnem pśirownanju
+mobile-compare-which-mobile-browser = Kótary mobilny wobglědowak wěcy dowěrliwe źaržy?
 mobile-compare-another-mobile-feature = Dalšna mobilna funkcija, kótaraž měła samorozmějuca byś, websedłam a pśedewześam slědowanje wašych pśeglědowańskich a nakupowańskich datow zawoboraś – samo w normalnem pśeglědowanskem modusu.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Funkcije</strong>
@@ -16,6 +17,7 @@ mobile-compare-what-can-your = Co móžo waš wobglědowak za was cyniś?
 mobile-compare-syncing-strong = <strong>Synchronizacija</strong>
 mobile-compare-syncing = Synchronizěrowanje
 mobile-compare-does-your-browser = Funkcioněrujo waš wobglědowak derje z drugimi rědami?
+mobile-compare-almost-all-of = Skóro wšykne mobilne wobglědowaki, kótarež so how pśirownuju, dopołnu synchronizaciju mjazy mobilnymi a desktopowymi rědami zmóžnjaju.
 mobile-compare-conclusion = Konkluzija
 mobile-compare-search-engine-options = Nastajenja pytnicow
 mobile-compare-text-to-speech = Tekst do powědanja
