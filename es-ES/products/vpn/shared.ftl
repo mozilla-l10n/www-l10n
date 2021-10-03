@@ -10,10 +10,8 @@ vpn-shared-subscribe-link = Consigue { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Únete a la lista de espera
 vpn-shared-sign-in-link = ¿Ya eres un suscriptor?
 # Outdated string
-vpn-shared-available-countries = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Reino Unido, Canadá, Nueva Zelanda, Singapur y Malasia.
-# Outdated string
-vpn-shared-available-countries-v2 = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Reino Unido, Alemania, Francia, Canadá, Malasia, Nueva Zelanda y Singapur.
 vpn-shared-available-countries-v3 = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Malasia, Nueva Zelanda y Singapur.
+vpn-shared-available-countries-v4 = Actualmente ofrecemos { -brand-name-mozilla-vpn } en Austria, Bélgica, Canadá, Francia, Alemania, Irlanda, Italia, Malasia, Países Bajos, Nueva Zelanda, Singapur, España, Suiza, Reino Unido y Estados Unidos.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 días de garantía de devolución de dinero
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -72,8 +70,12 @@ vpn-shared-pricing-plan-monthly = Al mes
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Obtener el plan de 6 meses
+# Outdated string
 vpn-shared-pricing-get-12-month = Obtener el plan de 12 meses
+vpn-shared-pricing-get-6-month-v2 = Obtener el plan de 6 meses
+vpn-shared-pricing-get-12-month-v2 = Obtener el plan de 12 meses
 vpn-shared-pricing-get-monthly = Obtener el plan mensual
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
