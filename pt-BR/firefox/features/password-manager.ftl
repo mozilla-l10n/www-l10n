@@ -28,7 +28,7 @@ password-manager-no-more-try-again = Nunca mais “tente novamente” enquanto e
 password-manager-password-champion = Campeão de senhas
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
-password-manager-earn-your-security-gold-medal = Ganhe sua medalha de ouro de segurança com o vasto conjunto de <a href="{ $addons }">extensões</a> de gerenciamento de senhas do { -brand-name-firefox }. Escolha uma preferida existente ou encontre uma de nível superior por meio de avaliações e revisões de especialistas da comunidade.
+password-manager-earn-your-security-gold-medal = Ganhe sua medalha de ouro em segurança com o vasto conjunto de <a href="{ $addons }">extensões</a> de gerenciamento de senhas do { -brand-name-firefox }. Escolha uma preferida sua ou encontre uma de nível superior por meio de avaliações e revisões de especialistas da comunidade.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Mestre das senhas
@@ -36,4 +36,4 @@ password-manager-password-master = Mestre das senhas
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Ganhe sua segunda faixa preta em segurança com as diversas <a href="{ $addons }">extensões</a> de gerenciadores de senhas do { -brand-name-firefox }. Escolha um favorito ou encontre um similar por meio da avaliação e opinião de especialistas da comunidade.
+password-manager-earn-your-second = Ganhe sua segunda faixa preta em segurança com a vasta gama de <a href="{ $addons }">extensões</a> de gerenciadores de senhas do { -brand-name-firefox }. Escolha uma preferida sua ou encontre uma de nível superior por meio de avaliações e opiniões de especialistas da comunidade.
