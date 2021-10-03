@@ -19,6 +19,7 @@ mobile-focus-scan-the-qr-code-to-get-started = Capture o código QR para começa
 mobile-focus-scan-alt-text = Capture o código QR para instalar o { -brand-name-firefox-focus }
 # Outdated string
 mobile-focus-disappear-your-history = Seu histórico desaparece
+mobile-focus-delete-your-history = Apague seu histórico
 mobile-focus-easily-erase-your = Apague facilmente seu histórico, senhas e cookies, para que anúncios indesejados não te sigam online. Basta tocar no botão de apagar no campo de pesquisa e tudo isso desaparece.
 mobile-focus-take-private-mode = Leve o modo privativo ao próximo nível
 # Outdated string
