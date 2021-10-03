@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Wobhladowak z priwatnosću
@@ -14,6 +14,10 @@ mobile-focus-get-firefox-focus = Wobstarajće sej { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Sćelće swojemu telefonej sćehnjenski wotkaz.
 mobile-focus-scan-the-qr-code-to-get-started = Skenujće QR-kod, zo byšće započał
 mobile-focus-scan-alt-text = Skenujće QR-kod, zo byšće sej { -brand-name-firefox-focus } za mobilny grat wobstarał
+# Outdated string
+mobile-focus-disappear-your-history = Dajće swoju historiju zhubić
+mobile-focus-delete-your-history = Wašu historiju zhašeć
 mobile-focus-tracking-protection = Slědowanski škit
 mobile-focus-ad-blocking = Blokowanje wabjenja
+mobile-focus-see-it-all = Wobhladajće sej wšitko spěšnišo
 mobile-focus-made-by-mozilla = Wot { -brand-name-mozilla } wuwity
