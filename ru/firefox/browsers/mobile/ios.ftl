@@ -10,6 +10,7 @@ mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-i
 # HTML description
 mobile-ios-firefox-browser-for = Браузер { -brand-name-firefox } для { -brand-name-ios } быстр, безопасен и обеспечивает приватность с первого запуска.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+mobile-ios-get-automatic-privacy = Получите автоматическую приватность на своих { -brand-name-iphone } и { -brand-name-ipad }
 mobile-ios-get-firefox-for = Загрузить { -brand-name-firefox } для { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Отправьте ссылку на загрузку на свой телефон.
 mobile-ios-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать
