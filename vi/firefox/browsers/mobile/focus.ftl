@@ -24,13 +24,16 @@ mobile-focus-easily-erase-your = Dễ dàng xóa lịch sử, mật khẩu và c
 mobile-focus-take-private-mode = Đưa chế độ riêng tư lên cấp độ tiếp theo
 # Outdated string
 mobile-focus-private-browsing-on = “Duyệt web riêng tư” trên hầu hết các trình duyệt không thực sự là tất cả những gì riêng tư. { -brand-name-firefox-focus } là cấp độ tiếp theo, luôn đảm bảo quyền riêng tư và được hỗ trợ bởi { -brand-name-mozilla }, tổ chức phi lợi nhuận đấu tranh cho quyền của bạn trên web.
+mobile-focus-private-browsing-on-v2 = "Duyệt web riêng tư" trên hầu hết các trình duyệt không hẳn là riêng tư. Theo mặc định, { -brand-name-firefox-focus } cung cấp quyền riêng tư cấp độ cao hơn và được hỗ trợ bởi { -brand-name-mozilla }, tổ chức phi lợi nhuận đấu tranh cho quyền của bạn trên web.
 mobile-focus-tracking-protection = Trình chống theo dõi
 mobile-focus-firefox-focus-blocks = Theo mặc định, { -brand-name-firefox-focus } chặn một loạt các trình theo dõi phổ biến, bao gồm cả trình theo dõi xã hội và những trình theo dõi cố định đến từ những thứ như quảng cáo { -brand-name-facebook }.
 mobile-focus-ad-blocking = Chặn quảng cáo
 # Outdated string
 mobile-focus-focus-blocks-the = { -brand-name-focus } chặn quảng cáo như bạn thường thấy trên các trang web — không cần thêm tiện ích bổ sung hoặc tiện ích mở rộng. Với ít quảng cáo hơn, bạn sẽ có được tốc độ tải trang tốt hơn, có nghĩa là bạn đến được những thứ mình muốn nhanh hơn rất nhiều.
+mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } chặn các quảng cáo cố gắng theo dõi bạn trên các trang web — không cần thêm tiện ích. Với ít quảng cáo hơn, bạn sẽ có được tốc độ tải trang tốt hơn, có nghĩa là bạn đến được những thứ mình muốn nhanh hơn rất nhiều.
 mobile-focus-see-it-all = Xem tất cả nhanh hơn
 # Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } xóa trình theo dõi và quảng cáo, do đó các trang bạn đang xem yêu cầu ít dữ liệu hơn và tải nhanh hơn nhiều.
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } xóa trình theo dõi và bật trình chặn quảng cáo để các trang bạn đang xem yêu cầu ít dữ liệu hơn và tải nhanh hơn nhiều. Ngoài ra, ghim tối đa bốn phím tắt trên màn hình chính và truy cập trang web yêu thích của bạn nhanh hơn mà không cần nhập bất kỳ thứ gì.
 mobile-focus-made-by-mozilla = Được tạo ra bởi { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Chúng tôi tin mọi người nên có quyền kiểm soát cuộc sống trực tuyến của họ. Đó là điều mà chúng tôi đấu tranh từ năm 1998.

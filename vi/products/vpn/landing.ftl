@@ -51,6 +51,11 @@ vpn-landing-faq-uses-encrypt = Mã hóa lưu lượng giữa bạn và nhà cung
 vpn-landing-faq-uses-examples = Xem <a href="{ $url }">năm ví dụ thực tế</a> mà bạn muốn có VPN trên thiết bị của mình.
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } lưu giữ thông tin gì?
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Chúng tôi tuân thủ nghiêm ngặt <a href="{ $principles }">nguyên tắc bảo mật dữ liệu</a> của { -brand-name-mozilla } và chúng tôi thu thập dữ liệu cần thiết để duy trì hoạt động của VPN và cải tiến sản phẩm theo thời gian. Chúng tôi cũng theo dõi dữ liệu giới thiệu và chiến dịch trên ứng dụng dành cho thiết bị di động của mình để giúp { -brand-name-mozilla } hiểu được hiệu quả của các chiến dịch tiếp thị của chúng tôi. Đọc thêm trong <a href="{ $notice }">thông báo về quyền riêng tư</a> của chúng tôi.
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Chúng tôi không ghi nhật ký, theo dõi hoặc chia sẻ bất kỳ hoạt động mạng nào của bạn. Chúng tôi tuân thủ nghiêm ngặt <a href="{ $url }">nguyên tắc bảo mật dữ liệu</a> của { -brand-name-mozilla } và chúng tôi chỉ thu thập dữ liệu cần thiết để duy trì hoạt động của VPN và cải tiến sản phẩm theo thời gian.
 vpn-landing-faq-protected-question-heading = Quyền riêng tư của tôi được bảo vệ như thế nào?
@@ -60,7 +65,11 @@ vpn-landing-faq-protected-question-heading = Quyền riêng tư của tôi đư�
 vpn-landing-faq-protected-question-desc = Giao thức <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® mã hóa lưu lượng mạng của bạn, bảo vệ tất cả thông tin cá nhân của bạn. So với các giao thức VPN hiện có, mã nguồn rất nhẹ của { -brand-name-wireguard } sẽ dễ dàng hơn cho các nhà phân tích bảo mật xem xét và kiểm tra — làm cho nó trở thành một tùy chọn an toàn hơn cho VPN. Ngoài ra, các hoạt động trực tuyến của bạn luôn ẩn danh vì chúng tôi không bao giờ ghi nhật ký, theo dõi hoặc chia sẻ dữ liệu mạng của bạn.
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } so với đối thủ cạnh tranh như thế nào?
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Mặc dù VPN miễn phí có vẻ hấp dẫn nhưng chúng không thực hiện các cam kết về quyền riêng tư giống như { -brand-name-mozilla-vpn }. Các VPN khác không có <a href="{ $url }">hồ sơ theo dõi</a> hơn 20 năm của { -brand-name-mozilla } về việc xây dựng các sản phẩm đặt con người và quyền riêng tư lên hàng đầu.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Mặc dù VPN miễn phí có vẻ hấp dẫn nhưng chúng không thực hiện các cam kết về quyền riêng tư giống như { -brand-name-mozilla-vpn } và có thể bán hoặc lưu trữ dữ liệu của bạn. Các VPN trả phí khác không có <a href="{ $url }">hồ sơ theo dõi</a> hơn 20 năm của { -brand-name-mozilla } về việc xây dựng các sản phẩm đặt con người và quyền riêng tư lên hàng đầu.
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } tương thích với những thiết bị nào?
 # Variables:
