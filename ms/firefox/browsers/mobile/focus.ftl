@@ -20,20 +20,36 @@ mobile-focus-send-a-download-link-to-your = Hantar pautan muat turun ke telefon 
 mobile-focus-scan-the-qr-code-to-get-started = Imbas kod QR untuk bermula
 mobile-focus-scan-alt-text = Imbas kod QR untuk mendapatkan { -brand-name-firefox-focus }
 
+# Outdated string
 mobile-focus-disappear-your-history = Padamkan sejarah anda
+
+mobile-focus-delete-your-history = Padamkan sejarah anda
+
 mobile-focus-easily-erase-your = Padamkan sejarah, kata laluan dan kuki anda dengan mudah, agar iklan-iklan penyibuk tidak mengekori anda dalam talian. Hanya ketik butang padam pada medan carian dan ia akan hilang.
 
 mobile-focus-take-private-mode = Bawakan mod peribadi ke tahap lebih tinggi
+
+# Outdated string
 mobile-focus-private-browsing-on = "Pelayaran peribadi" pada kebanyakan pelayar tidaklah begitu peribadi sebenarnya. { -brand-name-firefox-focus } berada di standard lebih tinggi, sentiasa dalam mod privasi dan disokong oleh { -brand-name-mozilla }, organisasi bukan berasaskan keuntungan yang memperjuangkan hak anda di internet.
+
+mobile-focus-private-browsing-on-v2 = "Pelayaran peribadi" pada kebanyakan pelayar tidaklah begitu peribadi sebenarnya. { -brand-name-firefox-focus } menawarkan privasi pada standard yang lebih tinggi secara automatik dan disokong oleh { -brand-name-mozilla }, organisasi bukan berasaskan keuntungan yang memperjuangkan hak anda di internet.
 
 mobile-focus-tracking-protection = Perlindungan jejak
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } menghalang banyak jenis penjejak secara lalai termasuk jenis penjejak sosial yang menjengkelkan yang datang dari iklan seperti { -brand-name-facebook }.
 
 mobile-focus-ad-blocking = Penyekat iklan
+
+# Outdated string
 mobile-focus-focus-blocks-the = { -brand-name-focus } menyekat iklan-iklan yang biasa anda lihat di laman web — tiada aplikasi dan perisian tambahan diperlukan. Kurangnya iklan, bermakna kelajuan pemuatan laman web lebih pantas, sekaligus membolehkan anda mencapai benda yang anda cari dengan lebih cepat.
 
+mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } menyekat iklan-iklan yang cuba menjejaki anda di seluruh web — tanpa perlu aplikasi tambahan atau sambungan perisian. Kurangnya iklan, bermakna kelajuan pemuatan laman web lebih pantas, sekaligus membolehkan anda mencapai benda yang anda cari dengan lebih cepat.
+
 mobile-focus-see-it-all = Lihat semuanya dengan lebih pantas
+
+# Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } menghalang penjejak dan iklan-iklan agar kurang menggunakan data dan memuat dengan lebih pantas.
+
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } menghalang penjejak dan membolehkan penyekat iklan agar laman web yang anda layari kurang menggunakan data dan memuat dengan lebih pantas. Selain itu, pinkan sehingga empat ikon pintasan di laman utama dan layari laman web kegemaran anda dengan segera tanpa perlu menaip.
 
 mobile-focus-made-by-mozilla = Diperbuat oleh { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Kami percaya semua orang patut mempunyai kawalan ke atas kehidupan mereka dalam talian. Inilah yang telah kami perjuangkan sejak 1998.
