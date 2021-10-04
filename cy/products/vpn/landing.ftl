@@ -51,6 +51,11 @@ vpn-landing-faq-uses-encrypt = Amgryptio'r traffig rhyngoch chi a'ch darparwr VP
 vpn-landing-faq-uses-examples = Dyma <a href="{ $url }">bum enghraifft bywyd go iawn</a> lle fyddech chi eisiau VPN ar eich dyfais.
 vpn-landing-faq-info-question-heading = Pa wybodaeth mae'r { -brand-name-mozilla-vpn } yn ei chadw?
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Rydym yn cadw'n gaeth at <a href="{ $principles }">Egwyddorion Preifatrwydd Data</a>  { -brand-name-mozilla } ac yn casglu'r data sy'n ofynnol i gadw'r VPN yn weithredol ac i wella'r cynnyrch dros amser. Rydym hefyd yn olrhain data ymgyrchoedd ac atgyfeirio ar ein ap symudol i helpu { -brand-name-mozilla } i ddeall effeithiolrwydd ein hymgyrchoedd marchnata. Darllenwch ragor yn ein <a href="{ $notice }">Hysbysiad Preifatrwydd</a>.
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Nid ydym yn cofnodi, tracio, nac yn rhannu unrhyw ran o'ch gweithgaredd rhwydwaith. Rydym yn cadw'n gaeth at <a href="{ $url }">Egwyddorion Preifatrwydd Data</a> { -brand-name-mozilla } a dim ond yn casglu data sy'n ofynnol i gadw'r VPN yn weithredol ac i wella'r cynnyrch  dros amser.
 vpn-landing-faq-protected-question-heading = Sut mae fy mhreifatrwydd yn cael ei ddiogelu?
@@ -60,7 +65,11 @@ vpn-landing-faq-protected-question-heading = Sut mae fy mhreifatrwydd yn cael ei
 vpn-landing-faq-protected-question-desc = Mae protocol <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® yn amgryptio traffig eich rhwydwaith, gan ddiogelu eich holl ddata preifat. O’i gymharu â phrotocolau VPN presennol, mae cod ysgafn { -brand-name-wireguard } yn haws i ddadansoddwyr diogelwch ei adolygu a’i archwilio - gan ei wneud yn opsiwn mwy diogel i’r VPN. Hefyd, mae eich gweithgareddau ar-lein yn aros yn anhysbys oherwydd fyddwn ni byth yn cofnodi, tracio, nac yn rhannu eich data rhwydwaith.
 vpn-landing-faq-competition-question-heading = Sut mae { -brand-name-mozilla-vpn } yn cymharu â'r gystadleuaeth?
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Er bod VPN rhad ac am ddim yn ymddangos yn ddeniadol, dydyn nhw ddim yn gwneud yr un ymrwymiadau i breifatrwydd â { -brand-name-mozilla-vpn }. Does gan yr un VPN taledig arall <a href="{ $url }">enw da</a> { -brand-name-mozilla } ers dros 20 mlynedd o greu cynnyrch sy'n rhoi'r flaenoriaeth i pobl a phreifatrwydd.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Er bod VPN rhad ac am ddim yn ymddangos yn ddeniadol, dydyn nhw ddim yn gwneud yr un ymrwymiadau i breifatrwydd â { -brand-name-mozilla-vpn } ac felly gallan nhw werthu neu storio eich data. Does gan yr un VPN taledig arall <a href="{ $url }">enw da</a> { -brand-name-mozilla } ers dros 20 mlynedd o greu cynnyrch sy'n blaenoriaethu pobl a phreifatrwydd.
 vpn-landing-faq-compatibility-question-heading = Pa ddyfeisiau y mae { -brand-name-mozilla-vpn } yn gydnaws â nhw?
 # Variables:

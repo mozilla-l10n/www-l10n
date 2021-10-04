@@ -55,4 +55,8 @@ vpn-what-is-vpns-can-be = Mae modd defnyddio VPN i ddiogelu eich holl ddyfeisiau
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Cyflym, diogel, dibynadwy
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v2 = Mae <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> yn wasanaeth y gallwch ymddiried ynddo i gadw'ch cysylltiad â'r rhyngrwyd yn ddiogel ar eich holl ddyfeisiau. Nid ydym yn cadw'ch cofnodion gweithgaredd rhwydwaith, ac nid ydym yn partneru â thrydydd parti sy'n adeiladu proffiliau o'r hyn rydych chi'n ei wneud ar-lein. Mewn byd lle mae natur anrhagweladwy wedi dod yr arferol newydd…
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a = Mae <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> yn wasanaeth y gallwch ymddiried ynddo i gadw'ch cysylltiad â'r rhyngrwyd yn ddiogel ar eich holl ddyfeisiau. Nid ydym yn cadw cofnodion data defnyddwyr, ac nid ydym yn partneru â llwyfannau dadansoddeg trydydd parti sydd am adeiladu proffil o'r hyn rydych chi'n ei wneud ar-lein. Mewn byd lle mae natur anrhagweladwy wedi dod yn “normal newydd,” rydyn ni'n gwybod ei bod hi'n bwysicach nag erioed i chi deimlo'n ddiogel, ac i chi wybod mai' eich busnes chi yw'r hyn rydych chi'n ei wneud ar-lein.

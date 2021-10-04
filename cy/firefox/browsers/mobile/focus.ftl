@@ -24,7 +24,7 @@ mobile-focus-easily-erase-your = Dilëwch eich hanes, cyfrineiriau a chwcis yn h
 mobile-focus-take-private-mode = Ewch â'r modd preifat i'r lefel nesaf
 # Outdated string
 mobile-focus-private-browsing-on = Nid yw “pori preifat” ar y mwyafrif o borwyr yn breifat iawn. Mae { -brand-name-firefox-focus } yn llawer mwy, yn breifat o hyd ac yn cael ei gefnogi gan { -brand-name-mozilla }, y corff  dim-er-elw sy'n ymladd dros eich hawliau ar y we.
-mobile-focus-private-browsing-on-v2 = Nid yw “pori preifat” ar y mwyafrif o borwyr yn breifat iawn. Mae { -brand-name-firefox-focus } yn fwy preifat drwy ragosodiad ac yn cael ei gefnogi gan { -brand-name-mozilla }, y corff  dim-er-elw sy'n ymladd dros eich hawliau ar y we.
+mobile-focus-private-browsing-on-v2 = Nid yw “pori preifat” ar y mwyafrif o borwyr yn breifat iawn. Mae { -brand-name-firefox-focus } yn fwy preifat drwy ragosodiad ac yn cael ei gefnogi gan { -brand-name-mozilla }, y corff  dim-er-elw sy'n brwydro dros eich hawliau ar y we.
 mobile-focus-tracking-protection = Diogelwch rhag Tracio
 mobile-focus-firefox-focus-blocks = Mae { -brand-name-firefox-focus } yn rhwystro ystod eang o dracwyr cyffredin fel rhagosodiad gan gynnwys tracwyr cymdeithasol a'r rhai gludiog hynny sy'n dod o bethau fel hysbysebion { -brand-name-facebook }.
 mobile-focus-ad-blocking = Rhwystro hysbysebion
@@ -34,6 +34,6 @@ mobile-focus-focus-blocks-the-v2 = Mae { -brand-name-focus } yn rhwystro hysbyse
 mobile-focus-see-it-all = Gweld y cyfan yn gyflymach
 # Outdated string
 mobile-focus-focus-removes-trackers = Mae { -brand-name-focus } yn dileu tracwyr a hysbysebion, felly mae angen llai o ddata ar y tudalennau rydych chi'n edrych arnyn nhw ac maen nhw'n llwytho'n gynt o lawer.
-mobile-focus-focus-removes-trackers-v2 = Mae { -brand-name-focus } yn dileu tracwyr ac yn galluogi rhwystrwyr hysbysebion felly mae angen llai o ddata ar y tudalennau rydych chi'n edrych arnyn nhw ac yn llwytho'n gynt o lawer. Hefyd, piniwch hyd at bedwar llwybr byr ar eich sgrin cartref a chyrraedd eich hoff wefan yn gynt heb deipio dim.
+mobile-focus-focus-removes-trackers-v2 = Mae { -brand-name-focus } yn dileu tracwyr ac yn galluogi rhwystrwyr hysbysebion, felly mae angen llai o ddata ar y tudalennau rydych chi'n edrych arnyn nhw ac yn llwytho'n gynt o lawer. Hefyd, piniwch hyd at bedwar llwybr byr ar eich sgrin cartref a chyrraedd eich hoff wefan yn gynt heb deipio dim.
 mobile-focus-made-by-mozilla = Gwnaed gan { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Rydym yn credu y dylai pawb reoli eu bywydau ar-lein. Dyna beth rydyn ni wedi bod yn ymladd drosto ers 1998.
