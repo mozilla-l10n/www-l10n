@@ -61,4 +61,9 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Pantas, selamat, dip
 
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> adalah perkhidmatan yang boleh anda percayai bagi memastikan sambungan anda ke internet selamat bagi semua peranti anda. Kami tidak menyimpan log data anda, dan kami tidak bersekongkol dengan pihak ketiga yang membina profil melalui aktiviti anda dalam talian. Dalam dunia di mana kejadian luar jangkaan menjadi norma baharu…
+
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> adalah perkhidmatan yang boleh anda percayai bagi memastikan sambungan anda ke internet selamat bagi semua peranti anda. Kami tidak menyimpan log data pengguna, dan kami tidak bersekongkol dengan platform analitik pihak ketiga yang mahu membina profil melalui aktiviti anda dalam talian. Dalam dunia di mana ketidaktentuan menjadi &quot;norma baharu&quot;, kita tahu betapa pentingnya sekarang untuk kekal selamat, dan untuk anda tahu bahawa aktiviti anda dalam talian adalah hak peribadi.
