@@ -50,6 +50,7 @@ vpn-landing-faq-uses-encrypt = Crittando il traffico tra te e il tuo provider VP
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Dai un’occhiata a <a href="{ $url }">cinque esempi di vita reale</a> in cui vorresti una VPN sul tuo dispositivo.
 vpn-landing-faq-info-question-heading = Quali informazioni conserva { -brand-name-mozilla-vpn }?
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Non registriamo, monitoriamo o condividiamo nessuna delle tue attività di rete. Aderiamo rigorosamente ai <a href="{ $url }">Principi sulla privacy dei dati</a> di { -brand-name-mozilla } e raccogliamo solo i dati necessari per mantenere operativa la VPN e migliorare il prodotto nel tempo.
@@ -60,7 +61,11 @@ vpn-landing-faq-protected-question-heading = Come viene protetta la mia privacy?
 vpn-landing-faq-protected-question-desc = Il protocollo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® critta il traffico di rete, proteggendo tutte le tue informazioni private. Rispetto ai protocolli VPN esistenti, il codice leggero di { -brand-name-wireguard } è più facile da esaminare e controllare da parte degli analisti della sicurezza, rendendolo un’opzione più sicura per la VPN. Inoltre, le tue attività online rimangono anonime perché non registriamo, monitoriamo o condividiamo mai i tuoi dati.
 vpn-landing-faq-competition-question-heading = Che differenza c’è tra { -brand-name-mozilla-vpn } e la concorrenza?
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Sebbene le VPN gratuite sembrino allettanti, non si assumono gli stessi impegni in materia di privacy come { -brand-name-mozilla-vpn }. Altre VPN non hanno la stessa <a href="{ $url }">esperienza</a> di oltre 20 anni di { -brand-name-mozilla } nella creazione di prodotti che mettono al primo posto le persone e la privacy.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Sebbene le VPN gratuite sembrino allettanti, non si assumono gli stessi impegni in materia di privacy come { -brand-name-mozilla-vpn } e potrebbero archiviare e vendere i tuoi dati. Altre VPN a pagamento non hanno la stessa <a href="{ $url }">esperienza</a> di oltre 20 anni di { -brand-name-mozilla } nella creazione di prodotti che mettono al primo posto le persone e la privacy.
 vpn-landing-faq-compatibility-question-heading = Con quali dispositivi è compatibile { -brand-name-mozilla-vpn }?
 # Variables:
