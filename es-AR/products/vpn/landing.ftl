@@ -51,6 +51,11 @@ vpn-landing-faq-uses-encrypt = Cifrando el tráfico entre vos y tu proveedor de 
 vpn-landing-faq-uses-examples = Mirá <a href="{ $url }">cinco ejemplos de vida real</a> en los que querrías una VPN en tu dispositivo.
 vpn-landing-faq-info-question-heading = ¿Qué información guarda { -brand-name-mozilla-vpn }?
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Cumplimos estrictamente con los <a href="{ $principles }"> principios de privacidad de datos </a> de { -brand-name-mozilla } y recopilamos los datos necesarios para mantener la VPN operativa y mejorar el producto con el tiempo. . También realizamos un seguimiento de los datos de campañas y referencias en nuestra aplicación móvil para ayudar a { -brand-name-mozilla } a comprender la eficacia de nuestras campañas de marketing. Obtenné más información en nuestro <a href="{ $notice }"> Aviso de privacidad </a>.
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = No registramos, rastreamos ni compartimos ninguna de tus actividades en la red. Nos adherimos estrictamente a los <a href="{ $url }">principios de privacidad de datos</a> de { -brand-name-mozilla } y solo recopilamos los datos necesarios para mantener la VPN operativa y mejorar el producto con el tiempo.
 vpn-landing-faq-protected-question-heading = ¿Cómo se protege mi privacidad?
@@ -60,7 +65,11 @@ vpn-landing-faq-protected-question-heading = ¿Cómo se protege mi privacidad?
 vpn-landing-faq-protected-question-desc = El protocolo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® cifra el tráfico de tu red, protegiendo toda tu información privada. Comparado con los protocolos VPN existentes, el código liviano de { -brand-name-wireguard } es más fácil de revisar y auditar para los analistas de seguridad, lo que lo convierte en una opción más segura para la VPN. Además, tus actividades en línea permanecen anónimas porque nunca registramos, rastreamos ni compartimos tus datos de red.
 vpn-landing-faq-competition-question-heading = ¿Cómo se compara { -brand-name-mozilla-vpn } con la competencia?
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Aunque las VPN gratuitas parecen atractivas, no asumen los mismos compromisos con la privacidad que { -brand-name-mozilla-vpn }. Otras VPN pagas no tienen el <a href="{ $url }">registro</a> de { -brand-name-mozilla } de más de 20 años de desarrollo de productos que priorizan a las personas y la privacidad.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Aunque las VPN gratuitas parecen atractivas, no asumen los mismos compromisos con la privacidad que { -brand-name-mozilla-vpn } y pueden vender o almacenar tus datos. Otras VPN pagas no tienen el <a href="{ $url }">registro</a> de { -brand-name-mozilla } de más de 20 años de desarrollo de productos que priorizan a las personas y la privacidad.
 vpn-landing-faq-compatibility-question-heading = ¿Con qué dispositivos es compatible { -brand-name-mozilla-vpn }?
 # Variables:
