@@ -64,6 +64,12 @@ vpn-landing-faq-uses-examples = Simak <a href="{ $url }">lima contoh nyata</a> s
 vpn-landing-faq-info-question-heading = Informasi apa yang disimpan { -brand-name-mozilla-vpn }?
 
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Kami sangat mematuhi <a href="{ $principles }">Prinsip Privasi Data</a> { -brand-name-mozilla } dan kami mengumpulkan data yang diperlukan agar VPN tetap beroperasi dan meningkatkan kualitas produk dari waktu ke waktu. Kami juga melacak data kampanye dan rujukan di aplikasi seluler kami agar { -brand-name-mozilla } dapat memahami seberapa efektif kampanye pemasaran yang kami terapkan. Baca selengkapnya di <a href="{ $notice }">Pemberitahuan Privasi</a> kami.
+
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Kami tidak mencatat, melacak, atau membagikan apa pun aktivitas jaringan Anda. Kami sangat mematuhi <a href="{ $url }">Prinsip Privasi Data</a> { -brand-name-mozilla } dan kami hanya mengumpulkan data yang diperlukan agar VPN tetap beroperasi dan meningkatkan kualitas produk dari waktu ke waktu.
 
@@ -77,7 +83,12 @@ vpn-landing-faq-protected-question-desc = Protokol <a href="{ $url }" { $attrs }
 vpn-landing-faq-competition-question-heading = Bagaimana { -brand-name-mozilla-vpn } dibandingkan dengan produk lain?
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Meskipun VPN gratis tampak menarik, akan tetapi produk tersebut tidak memiliki komitmen privasi yang sama seperti { -brand-name-mozilla-vpn }. VPN lainnya tidak memiliki <a href="{ $url }">rekam jejak</a> seperti { -brand-name-mozilla } yang selama lebih dari 20 tahun membuat produk yang mengutamakan pengguna dan privasi.
+
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Meskipun VPN gratis tampak menarik, akan tetapi produk tersebut tidak memiliki komitmen privasi yang sama seperti { -brand-name-mozilla-vpn } dan mungkin menjual atau menyimpan data Anda. VPN berbayar lainnya tidak memiliki <a href="{ $url }">rekam jejak</a> seperti { -brand-name-mozilla } yang selama lebih dari 20 tahun membuat produk yang mengutamakan pengguna dan privasi.
 
 vpn-landing-faq-compatibility-question-heading = Perangkat apa yang kompatibel dengan { -brand-name-mozilla-vpn }?
