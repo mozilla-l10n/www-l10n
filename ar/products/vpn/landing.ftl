@@ -64,6 +64,12 @@ vpn-landing-faq-uses-examples = اذكر <a href="{ $url }">خمسة أمثلة 
 vpn-landing-faq-info-question-heading = ما المعلومات التي يَحتفظ بها تطبيق { -brand-name-mozilla-vpn }؟
 
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = نلتزم <a href="{ $principles }">بمبادئ خصوصية بيانات</a> { -brand-name-mozilla } التزامًا تامًا، ولا نجمع سوى البيانات المطلوبة للحفاظ على تشغيل VPN وتحسين المُنتج بمرور الوقت. كما أننا نتعقّب أيضًا بيانات الحمَلات والبيانات المرجعية على تطبيق الهاتف الخاص بنا لمُساعدة مؤسسة { -brand-name-mozilla } على فهم فعّالية حملاتنا التسويقية. اقرأ المزيد في <a href="{ $notice }">إشعار الخصوصية</a>.
+
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = لا نُسجِّل أيًّا من أنشطتك على الشبكة ولا نتعقبها ولا نُشاركها مع الآخرين. ونلتزم <a href="{ $url }">بمبادئ خصوصية بيانات</a> { -brand-name-mozilla } التزامًا تامًا، ولا نجمع سوى البيانات المطلوبة للحفاظ على تشغيل VPN وتحسين المُنتج بمرور الوقت.
 
@@ -77,7 +83,12 @@ vpn-landing-faq-protected-question-desc = يُشفِّر بروتوكول <a hre
 vpn-landing-faq-competition-question-heading = كيف يُقارَن تطبيق { -brand-name-mozilla-vpn } بمنافسيه؟
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = على الرغم من أن شبكات VPN المجانية تبدو جذابة، إلا أنها لا تلتزم بالخصوصية مثل { -brand-name-mozilla-vpn }. وأما شبكات VPN الأخرى مدفوعة الأجر، فإنها لا تتمتّع بنفس <a href="{ $url }">السِجل الحافل</a> الذي يتمتّع به { -brand-name-mozilla } لأكثر من 20 عامًا في مجال تطوير المُنتجات التي تضع الأشخاص والخصوصية في المقام الأول.
+
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = على الرغم من أن شبكات VPN المجانية تبدو جذابة، إلا أنها لا تلتزم بالخصوصية مثلما يلتزم تطبيق { -brand-name-mozilla-vpn }، وقد تبيع بياناتك أو تُخزِّنها. وأما شبكات VPN الأخرى المدفوعة الأجر، فإنها لا تتمتع بنفس <a href="{ $url }">السِجل الحافل</a> الذي يتمتع به { -brand-name-mozilla } لأكثر من 20 عامًا في مجال تطوير المُنتجات التي تضع الأشخاص والخصوصية في المقام الأول.
 
 vpn-landing-faq-compatibility-question-heading = ما هي الأجهزة المُتوافقة مع تطبيق { -brand-name-mozilla-vpn }؟
