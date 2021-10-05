@@ -55,6 +55,10 @@ vpn-what-is-vpns-can-be = VPNs können verwendet werden, um alle Ihre Geräte zu
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Schnell, sicher, vertrauenswürdig
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ist ein vertrauenswürdiger Dienst, der Ihre Internetverbindung auf all Ihren Geräten schützt. Wir zeichnen Ihre Netzwerkaktivitäten nicht auf und arbeiten auch nicht mit Drittanbietern zusammen, die ein Profil Ihrer Online-Aktivitäten erstellen. In einer Welt, in der Unvorhersehbarkeit zur „neuen Normalität“ geworden ist, wissen wir, dass es wichtiger denn je ist, dass Sie sich sicher fühlen und dass Sie wissen, dass das, was Sie im Internet tun, nur Sie selbst etwas angeht.
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ist ein Dienst, dem Sie vertrauen können und der Ihre Internetverbindung auf all Ihren Geräten schützt. Wir zeichnen Ihre Netzwerkaktivitäten nicht auf und wir arbeiten nicht mit externen Dienstleistern zusammen, die Profile Ihrer Online-Aktivitäten erstellen. In einer Welt, in der Unvorhersehbarkeit zur neuen Normalität geworden ist…
 # Obsolete string
 # Variables
