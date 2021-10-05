@@ -61,4 +61,9 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: 高速、安全、�
 
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> は、すべてのデバイスでインターネットへ接続を守る信頼のサービスです。ユーザーのネットワーク活動のログを保持することはなく、ユーザーのオンライン上の行動のプロファイルを作成するサードパーティと提携することもありません。予測できなかったことが当たり前になった世界で...
+
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> は、すべてのデバイスでインターネットへ接続を守る信頼のサービスです。ユーザーデータログは保持せず、ユーザーのオンライン活動のプロファイルを構築しようとするサードパーティ分析プラットフォームと提携することはありません。先行きが見えないのが「ニューノーマル」になった世界では、安心感を持ち、オンライン活動を外部に漏らしていないと確信できることは、これまで以上に重要になっています。
