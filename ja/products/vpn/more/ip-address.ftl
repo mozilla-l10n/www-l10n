@@ -49,4 +49,11 @@ vpn-ip-address-how-do-you = 隠す方法は？
 #   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is-v2 = VPN で IP アドレスを隠すことができます。<a href="{ $vpn }">VPN を使用すると</a>、外部 IP アドレスは、ロケーションの外部 IP アドレスではなく、VPN サーバーの外部 IP アドレスから取得されます。そのため、接続先の VPN サーバーが米国カリフォルニア州にある場合、実際の現在地に関係なく、外部 IP からはカリフォルニアから接続しているように見えます。さらに、オンライン活動は VPN サーバーへの暗号化された安全な接続を介して送信されるため、セキュリティとプライバシーが強化されます。<a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> で IP アドレスを隠せます。ユーザーのネットワーク活動のログを保持することはなく、ユーザーのオンライン上の行動のプロファイルを作成するサードパーティと提携することもありません。{ $countries } か国以上に配置したサーバーで最大 5 台のデバイスを丸ごと保護し、どこからでも、どこへでも接続できます。
+
+# Obsolete string
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
 vpn-ip-address-a-vpn-is = VPN で IP アドレスを隠すことができます。<a href="{ $vpn }">VPN を使用すると</a>、外部 IP アドレスは、ロケーションの外部 IP アドレスではなく、VPN サーバーの外部 IP アドレスから取得されます。そのため、接続先の VPN サーバーが米国カリフォルニア州にある場合、実際の現在地に関係なく、外部 IP からはカリフォルニアから接続しているように見えます。さらに、オンライン活動は VPN サーバーへの暗号化された安全な接続を介して送信されるため、セキュリティとプライバシーが強化されます。<a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> で IP アドレスを隠せます。アクティビティログを保持したり、サードパーティの分析プラットフォームと提携したりすることはありません。{ $countries } か国以上に配置したサーバーで最大 5 台のデバイスを丸ごと保護し、どこからでも、どこへでも接続できます。
