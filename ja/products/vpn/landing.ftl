@@ -64,6 +64,12 @@ vpn-landing-faq-uses-examples = デバイスに VPN を導入したい <a href="
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } が保持する情報は？
 
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Mozilla は、{ -brand-name-mozilla } の<a href="{ $principles }">データプライバシー原則</a>を厳守し、収集するデータは、VPN を運用し、製品を継続的に改善するために必要なもののみです。また、Mozilla のモバイルアプリでキャンペーンデータや紹介データを追跡し、{ -brand-name-mozilla } が Mozilla のマーケティングキャンペーンの効果を把握できるようにしています。詳しくは <a href="{ $notice }">プライバシーポリシー</a> をご覧ください。
+
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = ユーザーのネットワークアクティビティを記録、追跡、共有することはありません。当社は、{ -brand-name-mozilla } の<a href="{ $url }">データプライバシー原則</a>を厳守し、収集するデータは、VPN を運用し、製品を継続的に改善するために必要なもののみです。
 
@@ -77,7 +83,12 @@ vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } と競合他社を比較すると？
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = 無料の VPN は魅力的に見えるものの、{ -brand-name-mozilla-vpn } ほどプライバシーのコミットメントを徹底していない可能性があります。他社の VPN には、ユーザーファースト、プライバシー第一の製品を構築してきた { -brand-name-mozilla } の 20 年以上の<a href="{ $url }">実績</a>がありません。
+
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = 無料の VPN は魅力的に見えるものの、{ -brand-name-mozilla-vpn } ほどプライバシーのコミットメントを徹底しておらず、ユーザーのデータを販売あるいは保持する可能性があります。他社の有料 VPN には、ユーザーファースト、プライバシー第一の製品を構築してきた { -brand-name-mozilla } の 20 年以上の<a href="{ $url }">実績</a>がありません。
 
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } が対応しているデバイスは？
