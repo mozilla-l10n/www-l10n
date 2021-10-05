@@ -59,6 +59,8 @@ vpn-what-is-are-vpns-only = Adakah VPN hanya untuk komputer?
 vpn-what-is-vpns-can-be = VPN boleh digunakan untuk melindungi semua peranti — komputer, komputer riba, tablet dan telefon. Sekiranya anda mengakses internet melalui aplikasi yang berdiri sendiri di luar penyemak imbas, VPN adalah pilihan yang baik untuk melindungi privasi dan keselamatan anda untuk sebarang peranti. Anda perlu memasang VPN bagi setiap peranti tersebut agar ia efektif. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> menawarkan sambungan tanpa had sehingga lima peranti berbeza sewaktu anda menghubungkan internet daripada sebarang aplikasi atau pelayar web.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Pantas, selamat, dipercayai
 
+
+# Obsolete string
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> adalah perkhidmatan yang boleh anda percayai bagi memastikan sambungan anda ke internet selamat bagi semua peranti anda. Kami tidak menyimpan log data anda, dan kami tidak bersekongkol dengan pihak ketiga yang membina profil melalui aktiviti anda dalam talian. Dalam dunia di mana kejadian luar jangkaan menjadi norma baharu…

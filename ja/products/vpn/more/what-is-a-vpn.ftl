@@ -59,6 +59,8 @@ vpn-what-is-are-vpns-only = VPN はパソコン専用？
 vpn-what-is-vpns-can-be = VPN は、パソコン、ノート PC、タブレット、スマートフォンなど、すべてのデバイスを保護できます。ブラウザー以外のスタンドアロンアプリからインターネットにアクセスする場合、あらゆるデバイスのプライバシーとセキュリティを保護するうえで VPN が適しています。VPN を有効にするには、各デバイスにインストールする必要があります。<a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> では、最大 5 台のデバイスで無制限に接続でき、あらゆるアプリやブラウザーからのインターネット接続に対応します。
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: 高速、安全、信頼の VPN
 
+
+# Obsolete string
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> は、すべてのデバイスでインターネットへ接続を守る信頼のサービスです。ユーザーのネットワーク活動のログを保持することはなく、ユーザーのオンライン上の行動のプロファイルを作成するサードパーティと提携することもありません。予測できなかったことが当たり前になった世界で...
