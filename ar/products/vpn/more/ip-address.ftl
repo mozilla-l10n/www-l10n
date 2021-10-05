@@ -49,4 +49,11 @@ vpn-ip-address-how-do-you = كيف يُمكنك إخفاء عنوان IP؟
 #   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is-v2 = تُعتبر شبكة VPN من الطُرق المُستخدمة لإخفاء عنوان IP. <a href="{ $vpn }">فعِند استخدام شبكة VPN</a>، يأتي عنوان IP الخارجي من عنوان IP الخارجي لِخادم VPN، بدلاً من عنوان IP الخارجي لموقعك. وعليه، إذا كان خادم VPN المُتصل موجودًا في كاليفورنيا، فسَيظهر عنوان IP الخارجي على أنه مُتصل من كاليفورنيا، بغض النظر عن مكان وجودك الحقيقي. كما أنّ أنشطتك التي تقُوم بها على الإنترنت تُرسَل عبر اتصال مُشفَّر وآمن بخادم VPN، مما يمنحُك مزيدًا من الأمان والخصوصية. وتُعتبر <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> من الطُرق المُستخدمة لإخفاء عنوان IP. فنحن لا نحتفظ بِسِجلات أنشطة الشبكة الخاصة بك ولا ندخُل في شراكات مع أطراف ثالثة ممن يُنشؤون ملفات تعريفية لما تقوم به عبر الإنترنت. ونُقدم حماية كاملة لما يصِل إلى خمسة أجهزة، وبفضل الخوادم الموجودة في أكثر من { $countries } بلدًا، يُمكنك الاتصال بأي مكان، من أي مكان.
+
+# Obsolete string
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
 vpn-ip-address-a-vpn-is = تُعتبر شبكة VPN من ضمن الطُرق المُستخدمة لإخفاء عنوان IP. <a href="{ $vpn }">فعند استخدام شبكة VPN</a>، يأتي عنوان IP الخارجي من عنوان IP الخارجي لخادم VPN، بدلاً من عنوان IP الخارجي لموقعك. ومن ثمّ فإنه إذا كان خادم VPN المُتصل موجودًا في كاليفورنيا، فسَيظهر عنوان IP الخارجي على أنه متصل من كاليفورنيا، بغض النظر عن مكان وجودك الحقيقي. كما أنّ أنشطتك التي تقوم بها على الإنترنت تُرسَل عبر اتصال مُشفَّر وآمن بخادم VPN، مما يمنحك مزيدًا من الأمان والخصوصية. وتُعتبر <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> من ضمن الطُرق المستخدمة لإخفاء عنوان IP. فنحن لا نحتفظ بِسِجلات للأنشطة ولا نتشارك مع مِنصات تحليلات تابعة لجهات خارجية. ونُقدم حماية كاملة لما يصل إلى خمسة أجهزة، وبفضل الخوادم الموجودة في أكثر من { $countries } بلدًا، يُمكنك الاتصال بأي مكان، من أي مكان.
