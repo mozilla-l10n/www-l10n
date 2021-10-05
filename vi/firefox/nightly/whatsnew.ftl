@@ -7,7 +7,7 @@
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
-nightly-whatsnew-youve-just-been = Bạn vừa được nâng cấp lên { -brand-name-firefox-nightly } { $version }!
+nightly-whatsnew-youve-just-been = Bạn vừa được cập nhật lên { -brand-name-firefox-nightly } { $version }!
 nightly-whatsnew-your-firefox-nightly = { -brand-name-firefox-nightly } của bạn đã được cập nhật.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = Cứ sau 4 đến 5 tuần, một phiên bản mới của { -brand-name-firefox } được phát hành và như kết quả, phiên bản của { -brand-name-nightly } cũng tăng theo.
@@ -20,8 +20,8 @@ nightly-whatsnew-this-is-a-good = Đây là thời điểm tốt để cảm ơn
 nightly-whatsnew-if-you-want-to = Nếu bạn muốn biết những gì đang diễn ra xung quanh { -brand-name-nightly } và cộng đồng của nó, bạn có thể bắt đầu bằng cách đọc <a href="{ $blog }">blog</a> và theo dõi chúng tôi trên <a href="{ $twitter }">{ -brand-name-twitter }</a>!
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
-nightly-whatsnew-want-to-know-which = Bạn muốn biết những tính năng nền tảng nào bạn có thể kiểm tra trên { -brand-name-nightly } và không thể thấy được trên các kênh { -brand-name-firefox } khác không? Sau đó, hãy xem trang <a href="{ $mdn }">Các tính năng thử nghiệm</a> trên <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
+nightly-whatsnew-want-to-know-which = Bạn muốn biết những tính năng nào đang thử nghiệm trên { -brand-name-nightly } và chưa phát hành trên các kênh { -brand-name-firefox } khác không? Nếu vậy, hãy xem <a href="{ $mdn }">các tính năng thử nghiệm</a> trên <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Bạn đã gặp sự cố? Lỗi bất ngờ? Có vấn đề về tương thích web? Chúng tôi rất muốn bạn gửi nó tới <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> để đảm bảo rằng những lỗi này sẽ không có trong bản phát hành chính thức (thêm karma nếu bạn thêm từ khóa <em>{ -brand-name-nightly }-community</em> vào báo cáo lỗi của bạn)!
-nightly-whatsnew-go-community = Đi đến cộng đồng thôi!
+nightly-whatsnew-go-community = Tham gia cộng đồng thôi!
