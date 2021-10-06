@@ -51,6 +51,11 @@ vpn-landing-faq-uses-encrypt = Versleutelen van het verkeer tussen u en uw VPN-p
 vpn-landing-faq-uses-examples = Bekijk <a href="{ $url }">vijf praktijkvoorbeelden</a> waarin u een VPN op uw apparaat zou willen hebben.
 vpn-landing-faq-info-question-heading = Welke informatie bewaart de { -brand-name-mozilla-vpn }?
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = We houden ons strikt aan de <a href="{ $principles }">Gegevensprivacyprincipes</a> van { -brand-name-mozilla } en we verzamelen de gegevens die nodig zijn om de VPN operationeel te houden en om het product mettertijd te verbeteren. We volgen ook campagne- en doorverwijzingsgegevens op onze mobiele app, om { -brand-name-mozilla } te helpen begrijpen hoe effectief onze marketingcampagnes zijn. Meer info in onze <a href="{ $notice }">Privacyverklaring</a>.
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = We loggen, volgen of delen niets van uw netwerkactiviteit. We houden ons strikt aan de <a href="{ $url }">gegevensprivacyprincipes</a> van { -brand-name-mozilla } en we verzamelen alleen de gegevens die nodig zijn om de VPN te laten werken en het product in de loop van de tijd te verbeteren.
 vpn-landing-faq-protected-question-heading = Hoe wordt mijn privacy beschermd?
@@ -60,7 +65,11 @@ vpn-landing-faq-protected-question-heading = Hoe wordt mijn privacy beschermd?
 vpn-landing-faq-protected-question-desc = Het <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protocol versleutelt uw netwerkverkeer, waardoor al uw privégegevens worden beschermd. In vergelijking met bestaande VPN-protocollen is de lichtgewicht code van { -brand-name-wireguard } eenvoudiger te beoordelen en auditen door beveiligingsanalisten – wat het een veiliger optie maakt voor de VPN. Daarnaast blijven uw online activiteiten anoniem, omdat we uw netwerkgegevens nooit loggen, volgen of delen.
 vpn-landing-faq-competition-question-heading = Hoe verhoudt { -brand-name-mozilla-vpn } zich tot de concurrentie?
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Hoewel gratis VPN’s aantrekkelijk lijken, gaan ze niet dezelfde verplichtingen met betrekking tot privacy aan als { -brand-name-mozilla-vpn }. Andere VPN’s kunnen niet bogen op de <a href="{ $url }">reputatie</a> van { -brand-name-mozilla } van meer dan 20 jaar van het bouwen van producten die mensen en privacy voorop stellen.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Hoewel gratis VPN’s aantrekkelijk lijken, gaan ze niet dezelfde verplichtingen met betrekking tot privacy aan als { -brand-name-mozilla-vpn } en kunnen ze uw gegevens verkopen of opslaan. Andere betaalde VPN’s kunnen niet bogen op de <a href="{ $url }">reputatie</a> van { -brand-name-mozilla } van meer dan 20 jaar van het bouwen van producten die mensen en privacy voorop stellen.
 vpn-landing-faq-compatibility-question-heading = Met welke apparaten is { -brand-name-mozilla-vpn } compatibel?
 # Variables:
