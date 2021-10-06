@@ -11,10 +11,10 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protege tote tu apparato
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Usa { -brand-name-mozilla-vpn } pro protection total del apparato pro tote le applicationes. Con servitores in plus de { $paises } paises, tu pote connecter te a ubique, non importa ubi tu es.
-vpn-landing-hero-sub-heading-v2 = Securitate, fidelitate e velocitate, sur cata apparato, ubique tu va.
+vpn-landing-hero-sub-heading-v2 = Securitate, fidelitate e velocitate, sur cata apparato, ubicunque tu va.
 # Obsolete string
 vpn-landing-hero-sub-heading = Securitate sur que tu pote contar. Un nomine digne de tu confidentia.
-vpn-landing-hero-desc = Un rete virtual private ex le productores de { -brand-name-firefox }.
+vpn-landing-hero-desc = Un rete virtual private concipite per le creatores de { -brand-name-firefox }.
 vpn-landing-privacy-heading = Un tocco pro le confidentialitate
 vpn-landing-privacy-desc = Naviga, diffunde, joca e conclude tu labores mantenente tu confidentialitate online. Si tu naviga per un rete wifi public o simplemente recerca plus de securitate online, nos sempre anteponera tu confidentialitate.
 vpn-landing-fast-secure-heading = Rete veloce e secur
