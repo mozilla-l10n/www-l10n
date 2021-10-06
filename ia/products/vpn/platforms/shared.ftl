@@ -9,7 +9,7 @@
 vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
 vpn-platforms-shared-cta-headline = Que nos comencia
 vpn-platforms-shared-cta = Vider precio e disponibilitate
-vpn-platforms-shared-day-guarantee = Reimbursamento garantite pro 30-dies
+vpn-platforms-shared-day-guarantee = Garantia de reimbursamento de 30 dies
 vpn-platforms-shared-what-youll-get = Que obtenera tu con { -brand-name-mozilla-vpn }:
 vpn-platforms-shared-privacy-headline = Tu confidentialitate es nostre promissa
 # Variables:
