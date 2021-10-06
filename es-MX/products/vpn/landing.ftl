@@ -21,7 +21,7 @@ vpn-landing-fast-secure-heading = Una red rápida y segura
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } funciona sobre una red mundial de servidores. Usando el protocolo <a href=" { $wireguard }" { $attrs }>{ -brand-name-wireguard }®/a> más avanzado, ciframos tu actividad de red y ocultamos tu dirección IP. Nunca registramos, rastreamos ni compartimos tus datos de red.
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } funciona sobre una red mundial de servidores. Usando el protocolo <a href=" { $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> más avanzado, ciframos tu actividad de red y ocultamos tu dirección IP. Nunca registramos, rastreamos ni compartimos tus datos de red.
 # Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
@@ -40,12 +40,14 @@ vpn-langing-faq-uses-question-heading = ¿Qué es una VPN y para qué se usa?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = A medida que más aspectos de la vida cotidiana se llevan a cabo a través de Internet, la privacidad y la seguridad en línea se vuelven aún más importantes. Una VPN, <a href="{ $url }">red privada virtual</a>, puede ayudarte a crear una conexión privada y segura a Internet. Funciona creando un “túnel” entre tu dispositivo e Internet en general, y te protege de dos formas importantes:
+# Obsolete string
 vpn-landing-faq-uses-conceal = Ocultando tu verdadera dirección IP. Esto protege tu identidad y oculta su ubicación.
 vpn-landing-faq-uses-encrypt = Cifrando el tráfico entre tú y tu proveedor de VPN para que nadie en tu red local pueda descifrarlo o modificarlo.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Echa un vistazo a <a href="{ $url }">cinco ejemplos de la vida real</a> en los que querrías tener una VPN en tu dispositivo.
 vpn-landing-faq-info-question-heading = ¿Qué información guarda { -brand-name-mozilla-vpn }?
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = No registramos, rastreamos ni compartimos nada de tu actividad en la red. Nos adherimos estrictamente a los <a href="{ $url }">Principios de privacidad de datos</a> de { -brand-name-mozilla } y solo recopilamos los datos necesarios para mantener operativa la VPN y mejorar el producto con el tiempo.
@@ -55,8 +57,9 @@ vpn-landing-faq-protected-question-heading = ¿Cómo se protege mi privacidad?
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = El protocolo de <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® cifra el tráfico de tu red, protegiendo toda tu información privada. Comparado con los protocolos VPN existentes, el código ligero de { -brand-name-wireguard } es más fácil de revisar y auditar para los analistas de seguridad — lo que lo convierte en una opción más segura para la VPN. Además, tu actividad en línea permanece anónima porque nunca registramos, rastreamos o compartimos tus datos de red.
 vpn-landing-faq-competition-question-heading = ¿Qué diferencia a { -brand-name-mozilla-vpn } de la competencia?
+# Obsolete string
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Aunque las VPN gratuitas parecen atractivas, no asumen los mismos compromisos de privacidad que { -brand-name-mozilla-vpn } y pueden vender o almacenar tus datos. Otras VPN de pago no tienen la <a href="{ $url }">historia</a> de más de 20 años de { -brand-name-mozilla } en creación de productos que ponen a las personas y la privacidad en primer lugar.
 vpn-landing-faq-compatibility-question-heading = ¿Con qué dispositivos es compatible { -brand-name-mozilla-vpn }?
 # Variables:
