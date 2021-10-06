@@ -30,6 +30,6 @@ vpn-mobile-servers-copy = Naviga ab Brasil. Joca ab Japon. Reproduce diffusion a
 vpn-mobile-devices-headline = Protege fin a { $devices } apparatos
 vpn-mobile-devices-copy = Tu subscription te forni accesso illimitate a nostre secur servicio VPN sur tu smartphono, tabletta e scriptorio pro { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }.
 vpn-mobile-speed-headline = Incredibile velocitate, nulle limitationes
-vpn-mobile-speed-copy = Diffunde videos, joca, face compras e naviga a velocitates ultra rapide. { -brand-name-mozilla-vpn } non limita tu largessa de banda e non relenta tu smartphono.
+vpn-mobile-speed-copy = Specta videos, joca jocos, face compras e naviga a velocitates ultrarapide. { -brand-name-mozilla-vpn } non limita tu largor de banda e non relenta tu telephono intelligente.
 vpn-mobile-log-headline = Primo tu confidentialitate.
 vpn-mobile-log-copy = A { -brand-name-mozilla }, nos non collige ulle datos re qui tu es e non registra tu activitate online, non per nostre VPN,  ni per ulle nostre altere productos. Proteger tu confidentialitate es un principio fundamental del mission principal de { -brand-name-mozilla }.

@@ -23,14 +23,14 @@ vpn-desktop-privacy-copy = Le app { -brand-name-mozilla-vpn } crypta tu connexio
 vpn-desktop-servers-headline = Connecte te a servitores in tote le mundo
 # Variables:
 #   $servers (number) - number of available servers
-vpn-desktop-servers-copy-updated = Naviga ab Brasil. Joca ab Japon. Diffunde del Mexico. { -brand-name-mozilla-vpn } te permitte de cambiar le ubication de tu telephono o computator a un del { $servers } servitores.
+vpn-desktop-servers-copy-updated = Naviga desde Brasil. Joca desde Japon. Specta desde Mexico. { -brand-name-mozilla-vpn } te permitte de cambiar le ubication de tu telephono o computator a un de { $servers } servitores.
 # Obsolete string
-vpn-desktop-servers-copy = Naviga ab Brasil. Joca ab Japon. Diffunde del Mexico. { -brand-name-mozilla-vpn } te permitte de cambiar le ubication de tu telephono o computator a un del { $servers }.
+vpn-desktop-servers-copy = Naviga desde Brasil. Joca desde Japon. Specta desde Mexico. { -brand-name-mozilla-vpn } te permitte de cambiar le ubication de tu telephono o computator a un de { $servers } servitores.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Protege usque { $devices } apparatos
 vpn-desktop-devices-copy = Tu subscription te forni accesso illimitate a nostre secur servicio VPN sur tu smartphono, tabletta e scriptorio pro { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }.
 vpn-desktop-speed-headline = Incredibile velocitate, nulle limitationes
-vpn-desktop-speed-copy = Diffunde videos, joca, face compras e naviga a velocitates ultra rapide. { -brand-name-mozilla-vpn } non limita tu largessa de banda e non relenta tu smartphono.
+vpn-desktop-speed-copy = Specta videos, joca jocos, face compras e naviga a velocitates ultrarapide. { -brand-name-mozilla-vpn } non limita tu largor de banda e non relenta tu telephono intelligente.
 vpn-desktop-log-headline = Primo tu confidentialitate.
 vpn-desktop-log-copy = A { -brand-name-mozilla }, nos non collige ulle datos re qui tu es e non registra tu activitate online, non per nostre VPN,  ni per tote nostre altere productos. Proteger tu confidentialitate es un principio fundamental de nostre mission.
