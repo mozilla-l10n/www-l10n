@@ -16,6 +16,7 @@ compare-shared-blocks-third-party-tracking = Blokkearret tracking-cookies fan tr
 compare-shared-blocks-cryptomining-scripts = Blokkearret cryptomining-scripts
 compare-shared-blocks-fingerprinting-scripts = Blokkearret fingerprintscripts
 compare-shared-blocks-social-trackers = Blokkearret sosjale trackers
+compare-shared-dashboard-to-review = Dashboard om blokkearre trackers te besjen
 compare-shared-autoplay-blocking = Automatysk ôfspyljen blokkearje
 compare-shared-tab-browsing = Navigearje mei ljepblêden
 compare-shared-bookmark-manager = Blêdwizerbehearder

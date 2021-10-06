@@ -7,7 +7,11 @@
 
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+# HTML description
+mobile-android-firefox-browser-for = { -brand-name-firefox }-browser foar { -brand-name-android } is fluch, feilich en privee fan it momint ôf dat jo it foar de earste kear iepenje.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+mobile-android-go-mobile-go = Gean mobyl. Gean yndy mei { -brand-name-firefox } foar { -brand-name-android }
 mobile-android-get-firefox-for = Download { -brand-name-firefox } foar { -brand-name-android }
 mobile-android-send-a-download-link-to-your = In downloadkeppeling nei jo telefoan ferstjoere.
 mobile-android-scan-the-qr-code-to-get-started = Scan de QR-koade om te begjinnen
