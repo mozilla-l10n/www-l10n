@@ -16,7 +16,7 @@ vpn-landing-hero-sub-heading-v2 = Securitate, fidelitate e velocitate, sur cata 
 vpn-landing-hero-sub-heading = Securitate sur que tu pote contar. Un nomine digne de tu confidentia.
 vpn-landing-hero-desc = Un rete virtual private concipite per le creatores de { -brand-name-firefox }.
 vpn-landing-privacy-heading = Un tocco pro le confidentialitate
-vpn-landing-privacy-desc = Naviga, diffunde, joca e conclude tu labores mantenente tu confidentialitate online. Si tu naviga per un rete wifi public o simplemente recerca plus de securitate online, nos sempre anteponera tu confidentialitate.
+vpn-landing-privacy-desc = Naviga, specta, joca e travalia conservante tu confidentialitate in linea. Sia que tu viagia, usa un rete wifi public o simplemente cerca plus de securitate in linea, nos sempre anteponera tu confidentialitate.
 vpn-landing-fast-secure-heading = Rete veloce e secur
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
