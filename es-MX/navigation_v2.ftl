@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Descargar { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Conseguir una { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = Obtener { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menú
+# Obsolete string
+navigation-v2-get-a-firefox-account = Conseguir una { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -17,6 +19,7 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } para { -brand-name-a
 navigation-v2-get-the-customizable-mobile = Obtén el navegador móvil personalizable para teléfonos inteligentes { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Obtén el navegador móvil para tu { -brand-name-iphone } o { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-privacy-promise = Promesa de privacidad
 navigation-v2-learn-how-firefox-treats = Aprende cómo { -brand-name-firefox } trata tus datos con respeto.
 navigation-v2-firefox-blog = Blog de { -brand-name-firefox }
