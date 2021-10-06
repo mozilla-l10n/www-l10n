@@ -59,6 +59,9 @@ vpn-what-is-are-vpns-only = Apakah VPN hanya untuk komputer?
 vpn-what-is-vpns-can-be = VPN dapat digunakan untuk melindungi semua perangkat Anda — komputer, laptop, tablet, dan ponsel. Jika Anda mengakses internet melalui aplikasi di luar peramban, VPN adalah pilihan yang bagus untuk melindungi privasi dan keamanan Anda di perangkat apa pun. Anda harus menginstal VPN di setiap perangkat agar bisa berfungsi secara efektif. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> menawarkan koneksi tak terbatas hingga lima perangkat saat Anda terhubung ke internet dari aplikasi atau peramban apa pun.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Cepat, aman, tepercaya
 
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> adalah layanan yang dapat Anda percayai agar koneksi Anda ke internet tetap aman di semua perangkat. Kami tidak menyimpan log aktivitas jaringan Anda, dan kami tidak bermitra dengan pihak ketiga yang membuat profil tentang aktivitas daring Anda. Di dunia di mana ketidakpastian saat ini telah menjadi “hal yang normal,” kami tahu bahwa yang terpenting adalah Anda merasa aman dan memahami bahwa semua aktivitas Anda saat daring adalah urusan Anda.
 
 # Obsolete string
 # Variables
