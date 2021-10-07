@@ -11,7 +11,7 @@ vpn-shared-waitlist-link = Únete a la lista de espera
 vpn-shared-sign-in-link = ¿Ya te has suscrito?
 # Outdated string
 vpn-shared-available-countries-v3 = En este momento ofrecemos { -brand-name-mozilla-vpn } en Estados Unidos, Canadá, Reino Unido, Alemania, Francia, Italia, España, Bélgica, Austria, Suiza, Malasia, Nueva Zelanda y Singapur.
-vpn-shared-available-countries-v4 = En este momento ofrecemos { -brand-name-mozilla-vpn } en Austria, Bélgica, Canadá, España, Francia, Alemania, Irlanda, Italia, Malasia, Singapur, Suiza, el Reino Unido y los Estados Unidos.
+vpn-shared-available-countries-v4 = En este momento ofrecemos { -brand-name-mozilla-vpn } en Alemania, Austria, Bélgica, Canadá, España, Estados Unidos, Francia, Irlanda, Italia, Malasia, Reino Unido, Singapur y Suiza.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 días de garantía de devolución de dinero
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -105,6 +105,7 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Celular
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 
 ##
 
