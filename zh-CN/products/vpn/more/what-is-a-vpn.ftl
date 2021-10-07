@@ -55,6 +55,10 @@ vpn-what-is-vpns-can-be = VPN 可用于保护您的所有设备——计算机�
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }：快速、安全、可信赖
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 是一项您可以信赖的服务，它可以确保您在所有设备上安全地接入互联网。我们不会保存您的网络活动日志，更不会与第三方分析公司合作。在这个不可预测性已经成为“新常态”的世界里，我们深知您对安全的渴求及网络隐私的重视。
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 是一项您可以信赖的服务，它可以确保您在所有设备上安全地接入互联网。我们不会保存您的网络活动日志，更不会与第三方分析公司合作。在这个不可预测性已经成为新常态的世界里……
 # Obsolete string
 # Variables
