@@ -21,6 +21,8 @@ mobile-ios-stay-private-online = Eiko ñandutípe tekoñemíme
 mobile-ios-your-browsing-history = Ne kundahára rembiasakue hembiasakue
 mobile-ios-if-you-want = Ejaposéramo péicha, eiporavokuaa jeike ha eheka ñeikundaha ñemigua reko. Ha oñembotývo pe ñeikundaha ñemigua reko, pe ñeikundaha rembiasakue ha umi kookie oguetéta ijeheguiete ne mba’e’okápe.
 mobile-ios-get-more-firefox = Erekove { -brand-name-firefox } nde rekovépe
+# Obsolete string
+mobile-ios-add-firefox-across = Embojuaju { -brand-name-firefox } opaite mba’e’okápe eikundaha hag̃ua tekorosãme ha apañuãi’ỹre. Eipuru { -brand-name-sync } ne mba’e’okápe eraha hag̃ua nde rechaukaha, tembiapo ñepyrũ ñongatupyre, ñe’ẽñemi ha ñeikundaha rembiasakue nendive. Avei, emondo tendayke ijurujáva pumbyry ha mohendahápe eku’ejey hag̃ua eheja haguégui.
 mobile-ios-find-it-all = Ejuhupaite pya’eve
 mobile-ios-keep-tabs-on = Ehechapaite umi tendayke
 mobile-ios-discover-more-of = Ehechakuaa umi ehecharamovéva
