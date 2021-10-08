@@ -37,6 +37,8 @@ privacy-passwords-strength-in-diversity = Mbarete oĩ tekoetápe
 privacy-passwords-use-firefox-monitor = Oipuru <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> oma’ẽ ñanduti veve kundaharape ojuajúva ne mba’etére. Ne ñanduti veve kundaharape ojekuaárõ mba’ekuaarã mboguaha atyguasu herakuãva, eñeñatõita ha oje’éta mba’épa ejapóta emo’ã hag̃ua ne mba’ete iñapañuãiva.
 privacy-passwords-security-questions-my = Porandu tekorosãrã: Che sy rerajoapy omenda mboyvegua ha’e “Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Erekóta pytyvõ ñe’ẽñemi ñangarehágui
+#   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged = Eike vove { -brand-name-firefox }-pe ne mba’ete { -brand-name-firefox } pegua rupive, embojuehekuaa opaite ne mba’e’okápe ha eikekuaa ne ñe’ẽñemíme pumbyry kundahára guive { -brand-name-firefox }. Eñemomarunduve <a { $url_sumo-manager }>mba’éichapa eñangarekóta ne ñe’ẽñemi ojuajúva rehe</a>.
 privacy-passwords-twofactor-authentication-2fa = Ñemboaje mokõi mba’ére (2FA)
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Ne mba’ete { -brand-name-firefox } pegua, techapyrãramo, omo’ãkuaa 2FA ndive, <a { $url_sumo_2fa }>ikatukuaa eñemomaranduve ko’ápe</a>.
