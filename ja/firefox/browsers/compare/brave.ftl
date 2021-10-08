@@ -29,7 +29,7 @@ compare-brave-the-internet-as-a-whole-is = インターネットの大部分は�
 compare-brave-whether-this-sounds-complicated = 複雑か名案か、どのような印象を持つかはインターネットのディスプレイ広告の好き嫌いによって分かれるかもしれません。ほとんどのインターネットユーザーは、良質なコンテンツにはお金がかかることを理解しており、その資金源が広告であるという事実を受け入れています。
 
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = その一方、{ -brand-name-firefox } はシンプルを求めています。{ -brand-name-firefox } は、既定で多くのサードパーティトラッカー、暗号通貨採掘、フィンガープリント採取トラッカーからつきまとわれないようにブロックします。ただし、{ -brand-name-firefox } は、プライベートブラウジングモード以外ではディスプレイ広告の表示をブロックしていません。つまり、<a { $attrs }>その目的のために設計された拡張機能</a>をインストールしない限りは表示します。
 
 # Variables:

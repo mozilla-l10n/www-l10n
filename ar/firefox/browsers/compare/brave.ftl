@@ -29,7 +29,7 @@ compare-brave-the-internet-as-a-whole-is = إن الإنترنت بأكمله ي
 compare-brave-whether-this-sounds-complicated = وسواءً كان هذا الأمر يبدو معقدًا أو يشبه فكرة رائعة، فإنه قد يعتمد على مستوى ازدرائك لعرض الإعلانات على الإنترنت. فمُعظم مستخدمي الإنترنت يعلمون أن صناعة محتوى جيد تُكلف بعض المال، ولا مانع لديهم من حقيقة الربح من خلال الإعلانات.
 
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = وعلى الجانب الآخر، يتبيَّن أننا نفضِّل تبسيط الأمور على مستخدمي { -brand-name-firefox }. فتجد أن { -brand-name-firefox } يتميز بميزة الحجب الافتراضي للعديد من المُتعقِّبات الخاصة بأطراف ثالثة ويحجب التنقيب الإلكتروني عن العمليات المشفرة ويحجب مُتعقِّبات البصمات. وعلى الرغم من ذلك، تجد أن { -brand-name-firefox }، خارج وضع التصفح الخاص، يختار عدم حجب ظهور الإعلانات. ولتعطيل هذا الاختيار، يمكنك تثبيت <a { $attrs }>أحد الملحقات المصممة خصيصًا لغرض حجب الإعلانات</a>.
 
 # Variables:

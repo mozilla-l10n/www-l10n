@@ -29,7 +29,7 @@ compare-brave-the-internet-as-a-whole-is = Internet secara keseluruhannya dibiay
 compare-brave-whether-this-sounds-complicated = Sama ada ini kedengaran rumit atau kedengaran seperti idea yang hebat, mungkin bergantung pada tahap kebencian anda terhadap iklan paparan di internet. Kebanyakan pengguna internet memahami bahawa kandungan yang baik perlu dibayar dan dapat menerima fakta bahawa wang itu diperolehi daripada iklan.
 
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Dari sudut yang lain pula, kami lebih suka membuat perkara menjadi mudah dengan pelayar { -brand-name-firefox }. { -brand-name-firefox } menyekat banyak penjejak pihak ketiga, pelombong kripto dan penjejak pengecapan jari daripada mengekori anda secara lalai. Namun begitu, { -brand-name-firefox }, di luar daripada Mod Pelayaran Peribadi, memilih untuk tidak menyekat paparan iklan daripada muncul. Maksudnya, melainkan anda memasang <a { $attrs }>salah satu sambungan yang direka khas untuk tujuan tersebut</a> .
 
 # Variables:
