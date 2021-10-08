@@ -19,6 +19,7 @@ mobile-ios-make-firefox-your = Ejapo { -brand-name-firefox }-gui kundahára ijyp
 mobile-ios-fast-private-secure = Ipya’e. Hekoñemi. Hekorosã
 mobile-ios-stay-private-online = Eiko ñandutípe tekoñemíme
 mobile-ios-your-browsing-history = Ne kundahára rembiasakue hembiasakue
+mobile-ios-if-you-want = Ejaposéramo péicha, eiporavokuaa jeike ha eheka ñeikundaha ñemigua reko. Ha oñembotývo pe ñeikundaha ñemigua reko, pe ñeikundaha rembiasakue ha umi kookie oguetéta ijeheguiete ne mba’e’okápe.
 mobile-ios-get-more-firefox = Erekove { -brand-name-firefox } nde rekovépe
 mobile-ios-find-it-all = Ejuhupaite pya’eve
 mobile-ios-keep-tabs-on = Ehechapaite umi tendayke
