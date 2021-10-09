@@ -1,0 +1,22 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
+
+# HTML page title
+mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+# HTML description
+mobile-android-firefox-browser-for = { -brand-name-android } için { -brand-name-firefox } tarayıcısı hızlı, güvenli ve ilk andan itibaren gizliliğiniz koruyor.
+mobile-android-firefox-browser = { -brand-name-firefox-browser }
+# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+mobile-android-go-mobile-go = { -brand-name-android } için { -brand-name-firefox } ile bağımsızlığından hiç vazgeçme
+mobile-android-get-firefox-for = { -brand-name-android } için { -brand-name-firefox }’u indir
+mobile-android-send-a-download-link-to-your = İndirme bağlantısını telefonunuza gönderin.
+mobile-android-scan-the-qr-code-to-get-started = Başlamak için QR kodunu okutun
+mobile-android-scan-alt-text = { -brand-name-android } için { -brand-name-firefox }’u indirmek için QR kodunu tarayın
+mobile-android-fast-and-private = Hızlı ve gizlilik yanlısı
+mobile-android-one-tap-to = Tek dokunuşla gizli mod
+mobile-android-search-your-own = Dilediğin gibi ara
+mobile-android-about-mozilla = { -brand-name-mozilla } hakkında
