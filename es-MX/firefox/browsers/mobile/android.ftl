@@ -8,4 +8,6 @@
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-when-you-download = Cuando descargas { -brand-name-firefox }, estás eligiendo apoyar a una empresa de tecnología independiente. { -brand-name-firefox } es el único navegador importante respaldado por una organización sin fines de lucro que lucha por brindarte más apertura, transparencia y control de tu vida en línea.
+mobile-android-get-firefox-for = Obtén { -brand-name-firefox } para { -brand-name-android }
 mobile-android-about-mozilla = Acerca de { -brand-name-mozilla }
