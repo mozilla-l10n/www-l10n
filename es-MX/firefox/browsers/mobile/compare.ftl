@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>Sincronización</strong>
+mobile-compare-syncing = Sincronización
 mobile-compare-conclusion = Conclusión
 mobile-compare-text-to-speech = Texto a voz
 mobile-compare-reader-mode = Modo de lectura
