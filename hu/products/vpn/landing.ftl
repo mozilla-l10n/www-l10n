@@ -51,6 +51,11 @@ vpn-landing-faq-uses-encrypt = Titkosítja a forgalmat Ön és a VPN szolgáltat
 vpn-landing-faq-uses-examples = Nézzen meg <a href="{ $url }">öt való életből származó példát</a>, amikor VPN-t szeretne az eszközére.
 vpn-landing-faq-info-question-heading = Milyen információkat tárol a { -brand-name-mozilla-vpn }?
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Szigorúan betartjuk a { -brand-name-mozilla } <a href="{ $principles }">Adatvédelmi elveit</a> és csak a VPN működtetéséhez és a termék fejlesztéséhez szükséges adatokat gyűjtjük. Követjük a kampányokkal kapcsolatos és az ajánlási adatokat is a mobilalkalmazásunkban, hogy segítsünk a { -brand-name-mozilla(ending: "accented") }nak megérteni a marketingkampányok hatásosságát. További információk az <a href="{ $notice }">Adatvédelmi nyilatkozatban</a>.
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Nem naplózzuk, követjük és osztjuk meg a hálózati forgalmát. Szigorúan a { -brand-name-mozilla } <a href="{ $url }">Adatvédelmi elveihez</a> tartjuk magunkat, és csak a VPN működtetéséhez és a termék fejlesztéséhez szükséges adatokat gyűjtjük be.
 vpn-landing-faq-protected-question-heading = Hogyan védik a magánszférámat?
@@ -60,7 +65,11 @@ vpn-landing-faq-protected-question-heading = Hogyan védik a magánszférámat?
 vpn-landing-faq-protected-question-desc = A <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protokoll titkosítja a hálózati forgalmát, megvédve a személyes információit. A meglévő VPN protokollokhoz képest, a { -brand-name-wireguard } relatíve egyszerű kódját könnyebben ellenőrizhetik és auditálhatják a biztonsági elemzők – így biztonságosabb lehetőséggé téve a VPN-t. Továbbá az online tevékenysége anonim marad, mert nem naplózzuk, követjük és osztjuk meg a hálózati adatait.
 vpn-landing-faq-competition-question-heading = Hogy áll a { -brand-name-mozilla-vpn } a versenytársakhoz képest?
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Bár az ingyenes VPN-ek vonzónak tűnnek, nem vállalnak ugyanolyan kötelezettségeket az adatvédelem terén, mint a { -brand-name-mozilla-vpn }. Más VPN-ek nem rendelkeznek a { -brand-name-mozilla } több mint 20 éves termékfejlesztési <a href="{ $url }">múltjával</a>, amely az embereket és az adatvédelmet helyezi az első helyre.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Bár az ingyenes VPN-ek vonzónak tűnnek, nem vállalnak ugyanolyan kötelezettségeket az adatvédelem terén, mint a { -brand-name-mozilla-vpn }, és eladhatják vagy tárolhatják adatait. Más fizetős VPN-ek nem rendelkeznek a { -brand-name-mozilla } több mint 20 éves termékfejlesztési <a href="{ $url }">múltjával</a>, amely az embereket és az adatvédelmet helyezi az első helyre.
 vpn-landing-faq-compatibility-question-heading = Milyen eszközökkel kompatibilis a { -brand-name-mozilla-vpn }?
 # Variables:

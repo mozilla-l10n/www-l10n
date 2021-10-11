@@ -10,10 +10,8 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } beszerzése
 vpn-shared-waitlist-link = Csatlakozzon a várólistához
 vpn-shared-sign-in-link = Már előfizető?
 # Outdated string
-vpn-shared-available-countries = Jelenleg a { -brand-name-mozilla-vpn }-t az Amerikai Egyesült Államokban, az Egyesült Királyságban, Kanadában, Új-Zélandon, Szingapúrban és Malajziában kínáljuk.
-# Outdated string
-vpn-shared-available-countries-v2 = Jelenleg a { -brand-name-mozilla-vpn }-t az Amerikai Egyesült Államokban, az Egyesült Királyságban, Németországban, Franciaországban, Kanadában, Malajziában, Új-Zélandon és Szingapúrban kínáljuk.
 vpn-shared-available-countries-v3 = Jelenleg a { -brand-name-mozilla-vpn }-t az Amerikai Egyesült Államokban, Kanadában, az Egyesült Királyságban, Németországban, Franciaországban, Olaszországban, Spanyolországban, Belgiumban, Ausztriában, Svájcban, Malajziában, Új-Zélandon és Szingapúrban kínáljuk.
+vpn-shared-available-countries-v4 = A { -brand-name-mozilla-vpn }-t jelenleg Ausztriában, Belgiumban, Kanadában, Franciaországban, Németországban, Írországban, Malajziában, Hollandiában, Új-Zélandon, Szingapúrban, Spanyolországban, Svájcban, az Egyesült Királyságban és az Amerikai Egyesült Államokban kínáljuk.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 napos pénzvisszafizetési garancia
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -72,8 +70,12 @@ vpn-shared-pricing-plan-monthly = Havi
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = 6 hónapos csomag beszerzése
+# Outdated string
 vpn-shared-pricing-get-12-month = 12 hónapos csomag beszerzése
+vpn-shared-pricing-get-6-month-v2 = 6 hónapos csomag beszerzése
+vpn-shared-pricing-get-12-month-v2 = 12 hónapos csomag beszerzése
 vpn-shared-pricing-get-monthly = Havi csomag beszerzése
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
