@@ -44,3 +44,4 @@ compare-brave-the-ability-to-sync-your-passwords = Dapi onns porscha { -brand-na
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = Dapi dacurt ha era { -brand-name-brave } ina funcziun per sincronisar datas tranter ils sistems operativs ed apparats ils pli derasads. Ultra da quai èsi pussaivel da sincronisar ils Basic Attention Tokens.
 compare-brave-when-comparing-the-two-browsers = Cun cumparegliar ils dus navigaturs { -brand-name-firefox } e { -brand-name-brave }, vesan ins che omadus garanteschan en lur configuraziun predefinida in aut nivel da protecziun da datas e segirezza, e quai gia cun avrir l'emprima giada il program.
+compare-brave-overall-brave-is-a-fast-and = En general è { -brand-name-brave } in navigatur svelt e segir, oravant tut interessant per utilisaders da criptovalutas. Dentant resta { -brand-name-firefox } per la gronda part dals «vischins» da l'internet la meglra soluziun e la pli simpla.
