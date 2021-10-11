@@ -20,3 +20,4 @@ ui-show-less = Mussar damain
 ui-show-all = Mussar tut
 ui-hide-all = Zuppentar tut
 ui-learn-more = Ulteriuras infurmaziuns
+ui-view = Mussar
