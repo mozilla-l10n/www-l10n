@@ -4,8 +4,10 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Telechargiar { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Ir per in { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = Utilisar ussa { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
+# Obsolete string
+navigation-v2-get-a-firefox-account = Ir per in { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -17,6 +19,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } per { -brand-name-an
 navigation-v2-get-the-customizable-mobile = Va per il navigatur mobil persunalisabel per telefonins cun { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } per { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Va per il navigatur per apparats mobils per tes { -brand-name-iphone } u { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Navigaziun mobila, simpla e privata.
 navigation-v2-privacy-promise = Engaschi per la protecziun da datas
 navigation-v2-learn-how-firefox-treats = Ve a savair co { -brand-name-firefox } tracta tias datas cun respect.
 navigation-v2-firefox-blog = Blog da { -brand-name-firefox }
