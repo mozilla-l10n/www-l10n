@@ -74,6 +74,8 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 vpn-shared-pricing-get-6-month = Obtener el plan de 6 meses
 # Outdated string
 vpn-shared-pricing-get-12-month = Obtener el plan de 12 meses
+vpn-shared-pricing-get-6-month-v2 = Obtener el plan de 6 meses
+vpn-shared-pricing-get-12-month-v2 = Obtener el plan de 12 meses
 vpn-shared-pricing-get-monthly = Obtener el plan mensual
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
@@ -105,6 +107,7 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Celular
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = ¿Qué es una dirección IP?
 vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 
 ##
