@@ -16,6 +16,7 @@ vpn-when-to-use-concealing-your-true = Emokañývo nde IP kundaharape ha’etév
 vpn-when-to-use-encrypting-your-traffic = Ombopapapy pe jeikeita nde ha ne VPN me’ẽhára pa’ũme avave ani hag̃uáicha ombopapapy’o térã omoambue ndehegui.
 vpn-when-to-use-having-a-vpn = Erekóramo peteĩ VPN eipuru hag̃uáicha ejapose vove iporãiterei. Ápe oĩ heta techapyrã erekóvo peteĩ VPN ejeroviaha ou porãta ndéve ikatúva neremomba’éi kuri reikóko.
 vpn-when-to-use-1-a-walk = 1. Eho eguata okarusu rupi
+vpn-when-to-use-its-a-beautiful = Arapokõi neporãva pyhareve ha reguapýma okarusúpe erambosa ha eñemomarandu opaite tenda ehecharamovévape, ehecha ta’ãngamýi ha emba’ejogua ñanduti rupive eñemonguarahy ha eñembopiro’y aja. Eipururangue ne pumbyry mba’ekuaarã, eike WiFi tavaguávape. Péva rei ha ome’ẽva táva, oĩporãmanteva’erã, ¿ajépa? Hákatu ndereikuaái pe pyha tavaguávapa hekorosã térã o ha’etépa (ehecha kyta tenondevegua) ha oñemboheko ne mo’ã hag̃ua tapicha térã tendavusu hekoñañáva nde recháva tapiaite eike jave. Emyandývo pe VPN ikatu nepytyvõ emo’ãvo ne mba’e’oka opaite tapicha omoingeséva itĩ umi tenda eikehápe térã omonda ne marandu tembiapo ñepyrũguáva eguapyjekóvo pe apykapuku ári oimeraẽva ára arapokõindy pegua.
 vpn-when-to-use-2-in-the = 2. Reikohápe
 vpn-when-to-use-3-on-the = 3. Tapére
 vpn-when-to-use-4-home-away = 4. Nde rógape mombyry upégui
