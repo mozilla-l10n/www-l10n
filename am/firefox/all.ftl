@@ -22,7 +22,7 @@ firefox-all-64-bit-installers = ባለ 64-ቢት ማቀናጃዎች
 firefox-all-choose-a-64-bit-installer = ባለ 64-ቢት ማቀናጃን ለባለ 64-ቢት መከወኛ ይምረጡ፣ ይኼም እያንዳንዱ ኘሮግራም ተጨማሪ RAM መጠቀም እንዲችል ይረዳል - በተለይ ለጨዋታ እና ይኼን ለሚፈልጉ መተግበሪያዎች ይጠቅማል።
 firefox-all-32-bit-installers = ባለ 32-ቢት ማቀናጃዎች
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = ፋየርፎክስ ድረ-ገፅ ማሰሻን በአማርኛ (am) አና በሌሎች 90 የተለያዩ ቋንቋዎች ይጫኑ
+firefox-all-download-the-firefox = { -brand-name-firefox-browser }ን በእንግሊዝኛ (ዩኤስ) እና ከ 90 በላይ ሌሎች ቋንቋዎች አውርድ
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = ሁሉም ሰው የኢንተርኔት አገልግሎት ማግኘት ይገባዋል - ቋንቋ መሰናክል ሊሆን አይገባውም። ለዛ ነው - በአለም ዙሪያ ባሉ በጎ ፈቃደኛ ሰዎች እርዳታ - ፋየርፎክስ የድረ-ገፅ ማሰሻን በ90 የተለያዩ ቋንቋዎች ያቀረብነው።
 firefox-all-choose-which-firefox = በራስዋ ቋንቋ ለመጫን የፈለጉትን አይነት የፋየርፎክስ ድረ-ገፅ ማሰሻ ይምረጡ
