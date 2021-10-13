@@ -34,4 +34,6 @@ mobile-android-go-from-your = Lépjen át zökkenőmentesen a telefonjáról a l
 mobile-android-search-from-your = Keressen a telefonja kezdőképernyőjéről
 mobile-android-no-need-to = Nem kell megnyitnia az alkalmazást. Adja hozzá a { -brand-name-firefox } keresőmodult, és böngéssze a webet közvetlenül az eszköze kezdőképernyőjéről.
 mobile-android-pin-videos-to = Rögzítsen videókat a képernyőjére
+mobile-android-pop-videos-out = Pattintsa ki a videókat a weboldalakból vagy lejátszókból, és tűzze őket a telefonja képernyőjére, hogy a web szörfölése és egyéb tevékenységek közben nézhesse azokat. Szórakoztassa magát, miközben más dolgokkal is foglalkozik.
 mobile-android-about-mozilla = A { -brand-name-mozilla(ending: "accented") }ról
+mobile-android-mozilla-exists-to = A { -brand-name-mozilla } azért létezik, hogy mindenki számára hozzáférhető nyilvános erőforrássá tegye az internetet, mert úgy gondoljuk, hogy a nyílt és szabad jobb, mint a zárt és ellenőrzött. Olyan termékeket építünk, mint a { -brand-name-firefox } és a { -brand-name-pocket }, hogy elősegítsük a felhasználói választást, az átláthatóságot és az irányítást.
