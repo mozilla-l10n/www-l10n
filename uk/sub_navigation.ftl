@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-sub-navigation-all-languages = Всі мови
+sub-navigation-all-languages = Усі мови
 sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-chrome = { -brand-name-chrome }
 sub-navigation-edge = { -brand-name-edge }

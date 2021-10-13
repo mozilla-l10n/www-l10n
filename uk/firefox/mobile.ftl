@@ -25,7 +25,7 @@ firefox-mobile-stop-companies-from-following = Не дозволяйте ком�
 #   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
 firefox-mobile-stay-off-their-radar-with = Тримайтеся осторонь від їхніх радарів, використовуючи <a href="{ $url }">Захист від стеження { -brand-name-firefox }</a>
 firefox-mobile-discover-products-that-keep = Відкрийте для себе продукти, які захищають вас
-firefox-mobile-sync-your-history-passwords = Синхронізуйте історію, паролі та закладки. Надсилайте вкладки між всіма своїми пристроями.
+firefox-mobile-sync-your-history-passwords = Синхронізуйте історію, паролі та закладки. Надсилайте вкладки між усіма своїми пристроями.
 firefox-mobile-android-only = Тільки для { -brand-name-android }
 firefox-mobile-make-android-your-own = Пристосуйте { -brand-name-android } для себе
 firefox-mobile-customize-your-firefox-mobile-truncated = Налаштуйте { -brand-name-firefox } за допомогою розширень.

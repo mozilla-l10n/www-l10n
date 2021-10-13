@@ -25,7 +25,7 @@ firefox-home-share-large-files-without = Обмінюйтесь великими
 firefox-home-start-sending-files = Почніть надсилати файли безпечно
 firefox-home-trade-clickbait-for = Обміняйте торгівлю кліками на якісний вміст
 firefox-home-learn-more-about-pocket = Дізнайтеся більше про { -brand-name-pocket }
-firefox-home-protection-for-your-whole = Повний захист всіх ваших пристроїв.
+firefox-home-protection-for-your-whole = Повний захист усіх ваших пристроїв.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Один обліковий запис. Усі ваші пристрої. Продукти, що поважають вашу <strong>приватність</strong>.
 firefox-home-join-firefox = Приєднуйтеся до { -brand-name-firefox }
