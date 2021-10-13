@@ -53,4 +53,4 @@ features-index-translate-the-web = Traducir la web
 features-index-translate-more-than = Traducción desde más de cien lenguajes a tu idioma directamente en tu { -brand-name-firefox-browser } - más fácil que nunca.
 features-index-translate-to-your = Traducí a tu idioma
 features-index-picture-in-picture = Picture-in-Picture
-features-index-got-things-to-do = ¿Tenés cosas que hacer y cosas que ver? Hacé ambas cosas con Picture-in-Pictureen { -brand-name-firefox }.
+features-index-got-things-to-do = ¿Tenés cosas que hacer y cosas que ver? Hacé ambas cosas con Picture-in-Picture en { -brand-name-firefox }.

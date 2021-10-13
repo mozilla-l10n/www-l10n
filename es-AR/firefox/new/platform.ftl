@@ -8,7 +8,7 @@
 
 ## Shared between Linux, Mac and Windows
 
-new-platform-free-web-browser = Navegador Web gratuito
+new-platform-free-web-browser = Navegador web gratuito
 new-platform-download-firefox = Descargá { -brand-name-firefox }
 new-platform-download-the-fastest = Descargá el { -brand-name-firefox } más rápido de la historia
 new-platform-faster-page-loading = Carga de páginas más rápida, menos uso de memoria y lleno de funcionalidades, acá está el nuevo { -brand-name-firefox }.

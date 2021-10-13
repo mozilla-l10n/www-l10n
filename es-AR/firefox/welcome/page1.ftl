@@ -24,4 +24,4 @@ welcome-page1-stay-in-the-know = Mantenete al día
 # Variables:
 #   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
 welcome-page1-were-you-one-of-many = ¿Fuiste una de las 100 985 047 personas invitadas a la <a href="{ $evite_breach }">"fiesta" para evitar violaciones de datos</a>?
-welcome-page1-why-am-i-seeing-this = ¿Por qué me aparece esto?
+welcome-page1-why-am-i-seeing-this = ¿Por qué estoy viendo esto?

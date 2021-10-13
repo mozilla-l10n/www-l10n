@@ -35,7 +35,7 @@ navigation-take-firefox-and-firefox = Llevá { -brand-name-firefox } y { -brand-
 navigation-get-firefox = Conseguí { -brand-name-firefox }
 navigation-get-firefox-focus = Conseguí { -brand-name-firefox-focus }
 navigation-android-extensions = Extensiones para { -brand-name-android }
-navigation-your-firefox-account = Tu cuenta { -brand-name-firefox-account }
+navigation-your-firefox-account = Tu { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Aprovecha al máximo tu experiencia con { -brand-name-firefox } en todos los dispositivos.
 # Outdated string
 navigation-learn-how-to-customize = Aprendé a personalizar la forma en que funciona { -brand-name-firefox }.

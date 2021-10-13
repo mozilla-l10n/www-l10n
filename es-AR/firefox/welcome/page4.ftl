@@ -15,7 +15,7 @@ welcome-page4-get-the-firefox-mobile = Conseguí { -brand-name-firefox } para m�
 welcome-page4-get-firefox-on-your-phone = Obtené { -brand-name-firefox } en tu teléfono
 welcome-page4-send-the-download-link-right = Mandá el enlace de descarga directamente a tu teléfono o correo electrónico.
 welcome-page4-download-firefox-for-your = Descargá { -brand-name-firefox } para tu teléfono inteligente y tablet.
-welcome-page4-firefox-private-safe-browser = "{ -brand-name-firefox }: navegador privado y seguro" en { -brand-name-ios } o { -brand-name-android }.
+welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: navegador privado y seguro” en { -brand-name-ios } o { -brand-name-android }.
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Evitá los rastreadores de datos
 # Variables:

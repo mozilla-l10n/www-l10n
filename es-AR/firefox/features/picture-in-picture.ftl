@@ -8,7 +8,7 @@
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Picture-in-Picture: hacé más cosas con videos emergentes
 # HTML page description
-features-pip-got-things-to-do-and-things-to-watch = ¿Tenés cosas que hacer y cosas que ver? Hacé ambas cosas usando Picture-in-Picture en { -brand-name-firefox }.
+features-pip-got-things-to-do-and-things-to-watch = ¿Tenés cosas que hacer y cosas que ver? Hacé ambas cosas con Picture-in-Picture en { -brand-name-firefox }.
 features-pip-new-feature-firefox-multi-picture = Nueva función: { -brand-name-firefox } múltiple Picture-in-Picture
 features-pip-cool-feature-picture-in-picture = Función genial: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Producí más con los videos emergentes
