@@ -15,6 +15,9 @@ vpn-or-proxy-when-should-you = ¿Araka’épa eiporavóta VPN térã proxy hekor
 vpn-or-proxy-vpns-and-secure = VPN ha ñanduti proxy hekorosãva ohupytyse peteĩ mba’e: oikéta tekorosãme. Ikatu, ha ojapo, IP kundaharape ypygua ha omo’ã ñandutípe jeike nendive ha VPN me’ẽhára térã pe proxy hekorosãva. Hákatu ¿araka’épa eipurukuaa VPN térã proxy?
 vpn-or-proxy-secure-web-proxy = Proxy ñandutigua hekorosãva: ñemo’ã kundahára peve
 # Variables
+#   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
+vpn-or-proxy-a-proxy-is-useful = Proxy iporã eikundahakuévo ñandutípe WiFi pyha opavave mba’éva. Peteĩ proxy ijurujáva, nomoneĩri hekoñañávape pyha pegua oma’ẽvo eikundahakuévo térã emoñe’ẽ ejapóva tenda ipapa’ỹvape. Hyapu ñaña’ỹvarõ, hákatu umi WiFi pyha opavave mba’éva ikatu ha’e peteĩ okẽ tapykue gotyo <a href="{ $url }">hackers</a> peg̃uarã.
+# Variables
 #   $fpn (url) - https://fpn.firefox.com
 vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> ha’e kundahára jepysokue hasy’ỹva iñemohenda ome’ẽkuaáva tapeyvyguy hekorosã ha ipapapýva ñandutíre omo’ã hag̃ua kundahárape jeike eipuru eipuruhápe { -brand-name-firefox }. Ipya’e ha ndahasýi imyandy eipuruse vove ereko hag̃ua tekorosãve ne kundahárape.
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: ñemo’ã a mba’e’oka peve
