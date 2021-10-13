@@ -24,8 +24,8 @@ firefox-all-32-bit-installers = ባለ 32-ቢት ማቀናጃዎች
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = { -brand-name-firefox-browser }ን በእንግሊዝኛ (ዩኤስ) እና ከ 90 በላይ ሌሎች ቋንቋዎች አውርድ
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = ሁሉም ሰው የኢንተርኔት አገልግሎት ማግኘት ይገባዋል - ቋንቋ መሰናክል ሊሆን አይገባውም። ለዛ ነው - በአለም ዙሪያ ባሉ በጎ ፈቃደኛ ሰዎች እርዳታ - ፋየርፎክስ የድረ-ገፅ ማሰሻን በ90 የተለያዩ ቋንቋዎች ያቀረብነው።
-firefox-all-choose-which-firefox = በራስዋ ቋንቋ ለመጫን የፈለጉትን አይነት የፋየርፎክስ ድረ-ገፅ ማሰሻ ይምረጡ
+firefox-all-everyone-deserves-access = ሁሉም ሰው የኢንተርኔት አገልግሎት ማግኘት ይገባዋል - ቋንቋ መሰናክል ሊሆን አይገባውም። ለዛ ነው - በአለም ዙሪያ ባሉ በጎ ፈቃደኛ ሰዎች እርዳታ  { -brand-name-firefox-browser }ን በ90 የተለያዩ ቋንቋዎች ያቀረብነው።
+firefox-all-choose-which-firefox = በራስዋ ቋንቋ የፈለጉትን አይነት { -brand-name-firefox-browser } ለመጫን ይምረጡ
 firefox-all-firefox-privacy-notice = ሰለ ግላዊነት የፋየርፎክስ ማስታወቂያ
 firefox-all-learn-about-firefox = ስለ ፋየርፎክስ ድረ-ገፅ ማሰሻ የበለጠ ይወቁ
 firefox-all-the-standard-firefox = ደረጃውን የጠበቀ የፋየርፎክስ ድረ-ገፅ ማሰሻ - ፈጣን እና አስተማማኝ። የትኛውን ፋየርፎክስ እንደሚመርጡ እርግጠኛ ካልሆኑ፤ ይኼን ይምረጡ።
