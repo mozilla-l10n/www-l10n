@@ -10,7 +10,7 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vs { -brand-na
 # HTML page description
 compare-ie-compare-internet-explorer-to = Compará { -brand-name-ie } con { -brand-name-firefox-browser } para descubrir cual es el mejor navegador para vos.
 # Main title
-compare-ie-comparing-firefox-browser-with = Comparación de { -brand-name-firefox-browser } con { -brand-name-microsoft }{ -brand-name-ie }
+compare-ie-comparing-firefox-browser-with = Comparación de { -brand-name-firefox-browser } con { -brand-name-microsoft } { -brand-name-ie }
 compare-ie-while-microsofts-internet-explorer = Aunque { -brand-name-ie } de { -brand-name-microsoft } aún viene preinstalado en la mayor parte de las PCs con Windows, claramente { -brand-name-microsoft } prefiere que uses el navegador { -brand-name-edge }, que viene predeterminado.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } descontinuó la marca { -brand-name-ie } hace varios años en favor de su nuevo navegador { -brand-name-edge } en { -brand-name-windows } 10. Sin embargo, la lenta adopción de { -brand-name-edge } creó un espacio para que { -brand-name-ie } siga viviendo, principalmente por razones de compatibilidad comercial.
 compare-ie-here-well-compare-our-firefox = Aquí vamos a comparar nuestro { -brand-name-firefox-browser } con { -brand-name-ie } en términos de seguridad, utilidad y portabilidad. Te vamos a ayudar a comprender las diferencias entre cómo un navegador moderno como { -brand-name-firefox }, que se adhiere a los estándares web, se compara con el navegador que tal ves uses para fines comerciales o por viejos hábitos muy difíciles de cambiar.

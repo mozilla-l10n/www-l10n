@@ -50,7 +50,7 @@ misinformation-surface-content-desc = Cuando abrís una nueva pestaña en el nav
 misinformation-why-trust-firefox = ¿Por qué confiar en { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
-misinformation-because-we-put-people-first = Porque ponemos a las personas en primer lugar. De hecho, estamos respaldados por una <a href="{ $foundation }"> sin fines de lucro </a>. Desde el primer día, nuestra misión fue proteger Internet y a todos los que están allí.
+misinformation-because-we-put-people-first = Porque ponemos a las personas en primer lugar. De hecho, estamos respaldados por una <a href="{ $foundation }">fundación sin fines de lucro</a>. Desde el primer día, nuestra misión fue proteger Internet y a todos los que están allí.
 misinformation-learn-more-about-our-mission = Conocé más sobre nuestra misión
 misinformation-your-privacy-by-the-product = Tu privacidad, por el producto
 misinformation-firefox-products-work-differently = Los productos { -brand-name-firefox } funcionan de manera diferente porque están diseñados para proteger tu privacidad en primer lugar.
