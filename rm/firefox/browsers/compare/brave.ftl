@@ -10,7 +10,7 @@ compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } vs. { -brand-n
 # HTML page description
 compare-brave-compare-brave-to-the-firefox = Cumpareglia { -brand-name-brave } cun { -brand-name-firefox-browser } per vegnir a savair tgenin ch'è il meglier navigatur per tai, areguard protecziun da datas, utilisabladad e portabilitad.
 # Main title
-compare-brave-comparing-firefox-browser = Cumparegliaziun da { -brand-name-firefox-browser } cun { -brand-name-brave }
+compare-brave-comparing-firefox-browser = Cumparegliaziun dal { -brand-name-firefox-browser } cun { -brand-name-brave }
 # "Brave Software" is a brand name.
 compare-brave-just-like-the-firefox-browser = Sco il navigatur { -brand-name-firefox } è era { -brand-name-brave } gratuit, open source e focussà sin la protecziun da datas dals utilisaders. { -brand-name-brave } è relativamain nov en il mund dals navigaturs: la sviluppadra, { -brand-name-brave } Software, ha lantschà il navigatur il schaner 2016. En quest artitgel cumparegliain nus noss navigatur { -brand-name-firefox } cun il navigatur { -brand-name-brave } en trais categorias: protecziun da datas, utilisabladad e portabilitad.
 # To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
