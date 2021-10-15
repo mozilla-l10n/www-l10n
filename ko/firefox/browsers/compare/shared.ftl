@@ -14,6 +14,7 @@ compare-shared-private-browsing-mode = 사생활 보호 모드
 compare-shared-blocks-third-party-tracking = 제3자 추적 쿠키 차단
 compare-shared-blocks-cryptomining-scripts = 암호화폐 채굴 스크립트 차단
 compare-shared-blocks-social-trackers = 소셜 추적기 차단
+compare-shared-dashboard-to-review = 차단된 추적기를 검토하는 대시보드
 compare-shared-autoplay-blocking = 자동 재생 차단
 compare-shared-tab-browsing = 탭 브라우징
 compare-shared-bookmark-manager = 북마크 관리자
