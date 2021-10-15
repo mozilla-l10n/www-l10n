@@ -14,6 +14,7 @@ compare-shared-blocks-third-party-tracking-default = Blochescha cookies da terza
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Blochescha cookies da terzas partidas che fastizeschan
 compare-shared-blocks-cryptomining-scripts = Blochescha scripts criptominiers
+compare-shared-blocks-fingerprinting-scripts = Blochescha scripts dad improntas dal det
 compare-shared-blocks-social-trackers = Blochescha fastizaders da social media
 compare-shared-autoplay-blocking = Bloccada da la reproducziun automatica
 compare-shared-tab-browsing = Navigaziun cun tabs
