@@ -42,10 +42,15 @@ navigation-learn-how-to-customize = เรียนรู้วิธีกา�
 navigation-explore-the-immersive = สำรวจเว็บแบบสมจริงบนแว่นสวมศีรษะความจริงเสมือนของคุณ
 # Outdated string
 navigation-experience-augmented = สัมผัสประสบการณ์ความเป็นจริงที่เพิ่มขึ้นและเสมือนกับ { -brand-name-firefox }
+navigation-get-together = พบปะกันในโลกความจริงเสมือนกับพื้นที่สังคมออนไลน์แห่งนี้
 # Outdated string
 navigation-meet-people-in-experimental = พบปะผู้คนในห้องแชทความเป็นจริงผสมทดลองกับ { -brand-name-firefox }
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } นำเทคโนโลยีความจริงเสมือนและความจริงเสริมสู่เว็บที่เปิดเสรี
+# Outdated string
+navigation-mozilla-brings-firefox = { -brand-name-mozilla } นำ { -brand-name-firefox } สู่เทคโนโลยีความจริงเสริมและความจริงเสมือน
 navigation-firefox-built-just-for = { -brand-name-firefox } สร้างมาเพื่อนักพัฒนา
 navigation-preview-the-latest-build = ทดลอง { -brand-name-firefox } บิลด์ล่าสุดและช่วยเราปรับปรุงให้ดีที่สุด
 navigation-firefox-playground = { -brand-name-firefox } Playground

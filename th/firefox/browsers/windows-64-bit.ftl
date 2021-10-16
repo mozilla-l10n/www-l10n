@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
 
+# HTML page title
+windows-64-bit-firefox-for-windows = { -brand-name-firefox } สำหรับ { -brand-name-windows } รุ่น 64 บิต
 windows-64-bit-64-bit = 64 บิต
 windows-64-bit-how-do-you-get-64 = คุณจะรับ { -brand-name-firefox } แบบ 64 บิตได้อย่างไร?
 # Variables:
