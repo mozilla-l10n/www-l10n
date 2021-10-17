@@ -5,5 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
+# HTML page title.
+compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } u { -brand-name-microsoft } { -brand-name-edge }: Tgenin navigatur è meglier per tai?
+# HTML page description.
+compare-edge-compare-microsoft-edge-to-the = Cumpareglia { -brand-name-microsoft } { -brand-name-edge } cun il { -brand-name-firefox-browser } per eruir tgenin navigatur che ta correspunda pli fitg.
 # Main title.
 compare-edge-comparing-firefox-browser-with = Cumparegliaziun dal { -brand-name-firefox-browser } cun { -brand-name-microsoft } { -brand-name-edge }
