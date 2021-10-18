@@ -30,7 +30,7 @@ vpn-desktop-servers-copy = Navegá desde Brasil. Jugá desde de Japón. Conectat
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Protegé hasta { $devices } dispositivos
 vpn-desktop-devices-copy = Tu suscripción te da acceso ilimitado a nuestro servicio seguro de VPN en tu teléfono, tablet y escritorio para { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } y { -brand-name-linux }.
-vpn-desktop-speed-headline = Velocidad increíble sin restricciones
+vpn-desktop-speed-headline = Velocidad increíble, sin restricciones
 vpn-desktop-speed-copy = Transmití videos, jugá, comprá y navegá a velocidad ultra rápida. { -brand-name-mozilla-vpn } no limitará tu ancho de banda o ni ralentizará tu teléfono inteligente.
 vpn-desktop-log-headline = Tu privacidad está primero
 vpn-desktop-log-copy = En { -brand-name-mozilla }, no recolectamos ningún dato sobre vos ni registramos tu actividad en línea ni a través de nuestra VPN ni con cualquiera de nuestros otros productos. Proteger tu privacidad es un principio básico de nuestra misión.

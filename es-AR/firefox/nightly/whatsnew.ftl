@@ -23,5 +23,5 @@ nightly-whatsnew-if-you-want-to = Si querés saber que pasa alrededeor de { -bra
 nightly-whatsnew-want-to-know-which = ¿Querés saber qué características de la plataforma podés probar en { -brand-name-nightly } y no podés aún ver en los otros canales de { -brand-name-firefox }? Entonces podés mirar la página de <a href="{ $mdn }">Funciones experimentales</a> en <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
-nightly-whatsnew-do-you-experience = ¿Se cuelga? ¿Comportamiento inesperado? ¿Regresiones en la compatibilidad web? ¡Nos encantaría que lo informés en <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> para asegurarnos que no lleguen a la versión final (extra karma si agregás la palabra clave <em>{ -brand-name-nightly }-community</em> a tus informes de errores!
+nightly-whatsnew-do-you-experience = ¿Se cuelga? ¿Comportamiento inesperado? ¿Regresiones en la compatibilidad web? ¡Nos encantaría que lo informés en <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> para asegurarnos que no lleguen a la versión final (extra karma si agregás la palabra clave <em>{ -brand-name-nightly }-community</em> a tus informes de errores)!
 nightly-whatsnew-go-community = ¡Vamos comunidad!

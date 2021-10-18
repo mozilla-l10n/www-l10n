@@ -7,7 +7,7 @@
 
 about-shared-about-mozilla = Acerca de { -brand-name-mozilla }
 about-shared-mission = Misión
-about-shared-history = Historial
+about-shared-history = Historia
 about-shared-leadership = Liderazgo
 about-shared-governance = Gobernanza
 about-shared-forums = Foros

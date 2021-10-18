@@ -42,7 +42,7 @@ firefox-channel-test-about-to-be-released = Probá funcionalidades que aún no h
 firefox-channel-release-notes = Notas de la versión
 firefox-channel-previous-nightly-builds = Compilaciones anteriores de { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
-firefox-channel-build-test-scale-and-more = Creá, probá y mucho más con el único navegador creado para desarrolladores.
+firefox-channel-build-test-scale-and-more = Creá, probá y mucho más con el único navegador creado solo para desarrolladores.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } es una plataforma inestable de prueba y desarrollo. De manera predeterminada, { -brand-name-developer-edition } envía datos a { -brand-name-mozilla } — y a veces a nuestros asociados — para ayudar a manejar problemas y probar ideas. <a href="{ $link }">Conocer qué es lo que se comparte</a>.
