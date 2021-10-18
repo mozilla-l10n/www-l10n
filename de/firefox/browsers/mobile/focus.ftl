@@ -8,18 +8,18 @@
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Der Browser mit Datenschutz
 # HTML description
-mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } ist Ihr dedizierter Datenschutzbrowser mit automatischem Tracking-Schutz und Werbeblocker.
+mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } ist dein dedizierter Datenschutzbrowser mit automatischem Tracking-Schutz und Werbeblocker.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Einfaches, privates, mobiles Surfen
-mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } ist Ihr dedizierter Datenschutzbrowser mit automatischem Tracking-Schutz und Werbeblocker. Mit { -brand-name-focus } werden Ihre Seiten schneller geladen und Ihre Daten bleiben privat.
+mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } ist dein dedizierter Datenschutzbrowser mit automatischem Tracking-Schutz und Werbeblocker. Mit { -brand-name-focus } werden Seiten schneller geladen und deine Daten bleiben privat.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } ist sowohl für { -brand-name-ios }- als auch für { -brand-name-android }-Geräte verfügbar.
-mobile-focus-get-firefox-focus = Holen Sie sich { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Download-Link an Ihr Telefon senden.
-mobile-focus-scan-the-qr-code-to-get-started = Scannen Sie den QR-Code und legen Sie los
-mobile-focus-scan-alt-text = Scannen Sie den QR-Code, um sich { -brand-name-firefox-focus } zu holen
+mobile-focus-get-firefox-focus = Hole dir { -brand-name-firefox-focus }
+mobile-focus-send-a-download-link-to-your = Download-Link an dein Handy senden.
+mobile-focus-scan-the-qr-code-to-get-started = Scanne den QR-Code und leg los
+mobile-focus-scan-alt-text = Scanne den QR-Code, um dir { -brand-name-firefox-focus } zu holen
 # Outdated string
-mobile-focus-disappear-your-history = Lassen Sie Ihre Chronik verschwinden
-mobile-focus-delete-your-history = Ihre Chronik löschen
+mobile-focus-disappear-your-history = Lasse deine Chronik verschwinden
+mobile-focus-delete-your-history = Deine Chronik löschen
 mobile-focus-easily-erase-your = Löschen Sie ganz einfach Ihre Chronik, Ihre Passwörter und Cookies, damit Ihnen keine unerwünschten Anzeigen im Internet folgen. Tippen Sie einfach auf die Schaltfläche zum Löschen im Suchfeld und weg sind sie.
 mobile-focus-take-private-mode = Privates Surfen – weitergedacht
 # Outdated string
