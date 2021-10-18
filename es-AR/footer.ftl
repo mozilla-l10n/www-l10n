@@ -48,7 +48,7 @@ footer-mozilla = { -brand-name-mozilla }
 footer-company = Compañía
 # Outdated string
 footer-about = Acerca de
-footer-press-center = Área de prensa
+footer-press-center = Sala de prensa
 footer-careers = Empleos
 # Outdated string
 footer-test-new-features = Probá las nuevas funciones
