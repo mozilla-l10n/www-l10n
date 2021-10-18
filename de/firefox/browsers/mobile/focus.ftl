@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
-mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Der Browser mit Datenschutz
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Der private Browser
 # HTML description
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } ist dein dedizierter Datenschutzbrowser mit automatischem Tracking-Schutz und Werbeblocker.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
@@ -20,7 +20,7 @@ mobile-focus-scan-alt-text = Scanne den QR-Code, um dir { -brand-name-firefox-fo
 # Outdated string
 mobile-focus-disappear-your-history = Lasse deine Chronik verschwinden
 mobile-focus-delete-your-history = Deine Chronik löschen
-mobile-focus-easily-erase-your = Löschen Sie ganz einfach Ihre Chronik, Ihre Passwörter und Cookies, damit Ihnen keine unerwünschten Anzeigen im Internet folgen. Tippen Sie einfach auf die Schaltfläche zum Löschen im Suchfeld und weg sind sie.
+mobile-focus-easily-erase-your = Lösche ganz einfach deine Chronik, Passwörter und Cookies, damit dir keine unerwünschten Anzeigen durchs Internet folgen. Tippe einfach auf die Schaltfläche im Suchfeld zum Löschen und weg sind sie.
 mobile-focus-take-private-mode = Privates Surfen – weitergedacht
 # Outdated string
 mobile-focus-private-browsing-on = „Privates Surfen“ ist bei den meisten Browsern nicht wirklich privat. { -brand-name-firefox-focus } ist die nächste Stufe, immer auf den Datenschutz ausgerichtet und wird von { -brand-name-mozilla } unterstützt, der gemeinnützigen Organisation, die für Ihre Rechte im Web kämpft.
