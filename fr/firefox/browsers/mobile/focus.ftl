@@ -21,3 +21,8 @@ mobile-focus-scan-alt-text = Scanner le code QR pour installer { -brand-name-fir
 mobile-focus-disappear-your-history = Faites disparaître votre historique de navigation
 mobile-focus-delete-your-history = Effacez votre historique de navigation
 mobile-focus-easily-erase-your = Effacez facilement votre historique, vos mots de passe et vos cookies, afin que les publicités indésirables ne vous suivent plus en ligne. Il suffit d'appuyer sur le bouton Effacer dans le champ de recherche pour que tout disparaisse.
+mobile-focus-take-private-mode = Faites passer le mode privé au niveau supérieur
+# Outdated string
+mobile-focus-private-browsing-on = Sur la plupart des navigateurs, le "mode privé" n'est pas si privé que ça. { -brand-name-firefox-focus } offre une protection de la vie privée de haut niveau, et est soutenu par { -brand-name-mozilla }, l'organisation à but non lucratif qui se bat pour vos droits sur le Web.
+mobile-focus-private-browsing-on-v2 = Sur la plupart des navigateurs, le "mode privé" n'est pas si privé que ça. { -brand-name-firefox-focus } offre une protection de la vie privée par défaut et est soutenu par { -brand-name-mozilla }, l'organisation à but non lucratif qui se bat pour vos droits sur le Web.
+mobile-focus-tracking-protection = Protection contre le pistage
