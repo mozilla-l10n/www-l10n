@@ -30,3 +30,10 @@ mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } bloque un larg
 mobile-focus-ad-blocking = Blocage des publicités
 # Outdated string
 mobile-focus-focus-blocks-the = { -brand-name-focus } bloque les publicités telles qu'elles sont normalement affichées sur les pages Web. Aucun module complémentaire ou extension supplémentaire n'est nécessaire. Avec moins de publicités, vous bénéficiez d'une meilleure vitesse de chargement des pages, ce qui signifie que vous accédez beaucoup plus rapidement à ce que vous voulez.
+mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } bloque les publicités qui tentent de vous suivre sur les pages Web. Aucun module complémentaire ou extension supplémentaire n'est nécessaire. Avec moins de publicités, vous bénéficiez d'une meilleure vitesse de chargement des pages, ce qui signifie que vous accédez beaucoup plus rapidement à ce que vous voulez.
+mobile-focus-see-it-all = Voyez tout plus rapidement
+# Outdated string
+mobile-focus-focus-removes-trackers = { -brand-name-focus } supprime les traqueurs et les publicités afin que les pages que vous consultez utilisent moins de données et se chargent beaucoup plus rapidement.
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } supprime les trackers et active les bloqueurs de publicités afin que les pages que vous consultez nécessitent moins de données et se chargent beaucoup plus rapidement. De plus, épinglez jusqu'à quatre raccourcis sur votre écran d'accueil et accédez à votre site préféré encore plus rapidement sans rien taper.
+mobile-focus-made-by-mozilla = Conçu par { -brand-name-mozilla }
+mobile-focus-we-believe-everyone = Nous pensons que chacun devrait être aux commandes de sa vie en ligne. C’est ce pour quoi nous nous battons depuis 1998.
