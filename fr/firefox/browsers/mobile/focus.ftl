@@ -26,3 +26,7 @@ mobile-focus-take-private-mode = Faites passer le mode privé au niveau supérie
 mobile-focus-private-browsing-on = Sur la plupart des navigateurs, le "mode privé" n'est pas si privé que ça. { -brand-name-firefox-focus } offre une protection de la vie privée de haut niveau, et est soutenu par { -brand-name-mozilla }, l'organisation à but non lucratif qui se bat pour vos droits sur le Web.
 mobile-focus-private-browsing-on-v2 = Sur la plupart des navigateurs, le "mode privé" n'est pas si privé que ça. { -brand-name-firefox-focus } offre une protection de la vie privée par défaut et est soutenu par { -brand-name-mozilla }, l'organisation à but non lucratif qui se bat pour vos droits sur le Web.
 mobile-focus-tracking-protection = Protection contre le pistage
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } bloque un large spectre de traqueurs courants par défaut, y compris les traqueurs de réseaux sociaux, et les indésirables comme ceux des pubs { -brand-name-facebook } par exemple.
+mobile-focus-ad-blocking = Blocage des publicités
+# Outdated string
+mobile-focus-focus-blocks-the = { -brand-name-focus } bloque les publicités telles qu'elles sont normalement affichées sur les pages Web. Aucun module complémentaire ou extension supplémentaire n'est nécessaire. Avec moins de publicités, vous bénéficiez d'une meilleure vitesse de chargement des pages, ce qui signifie que vous accédez beaucoup plus rapidement à ce que vous voulez.
