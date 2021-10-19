@@ -11,6 +11,9 @@ mobile-compare-5-of-the-best = Emoñondive umi 5 kundahára pumbyrygua
 mobile-compare-who-makes-the = ¿Mávapa ojapo kundahára pumbyrygua oikovéva? Ñamoñondivéta opáichagua { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } ha { -brand-name-opera } jaikuaa hag̃ua.
 mobile-compare-since-your-mobile = Reikuaápupe ne kundahára pumbyrygua ha’eha ne marandurã eime eimehápe, pya’ekue, tekorosã, tekoñemi ha ndahasýire ijepuru tuicha mba’e ñandutípe. Upévare, ¿mávapa kundahára iporãvéva? Ñambojoja umi ojepuruvéva ha jahecha mávapa ojokupyty ne remikotevẽre.
 mobile-compare-which-mobile-browser = ¿Mba’e kundahára pumbyrygua oreko imba’e kañyhápe?
+mobile-compare-at-a-minimum-v2 = Michĩveháramo, ne kundahára pumbyrygua ome’ẽva’erã pe “kundahára ñemigua reko”, omboguétava ijeheguiete ne rembiasakue ha nde jeheka rapykuere. Ko’ápe, umi po kundahára mbojuehepyre oguereko kyta.
+# Obsolete string
+mobile-compare-at-a-minimum = Michĩveháramo, ne kundahára pumbyrygua ome’ẽva’erã pe “kundahára ñemigua reko”, omboguétava ijeheguiete ne rembiasakue ha nde jeheka rapykuere. Ko’ápe, umi pokõi kundahára mbojuehepyre oguereko kyta.
 mobile-compare-another-mobile-feature = Ambue mba’e pumbyry orekova’erã ha’e katupyry omboykekuaávo ñanduti renda ha atyguasu ohapykuehóva ñeikundaha mba’ekuaarã ha mba’ejogua — eimérõ jepe ñeikundaha tapiaguávape.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Mboja’opy</strong>
