@@ -19,6 +19,7 @@ mobile-focus-scan-the-qr-code-to-get-started = Emoha’ãnga QR ayvu eñepyrũ h
 mobile-focus-scan-alt-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-name-firefox-focus }
 # Outdated string
 mobile-focus-disappear-your-history = Okañymba ne rembiasakue
+mobile-focus-delete-your-history = Embogue ne rembiasakue
 mobile-focus-easily-erase-your = Emboguekuaa ne rembiasakue, ñe’ẽñemi ha kookie umi maranduñemurã eipota’ỹva nderapykuehóvo ñandutípe. Eikutu pe mbogueha votõ jehekaha korápe ha okañymbáta.
 mobile-focus-take-private-mode = Egueraha teko ñemi ambue hendápe
 # Outdated string

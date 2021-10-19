@@ -16,6 +16,7 @@ mobile-compare-at-a-minimum-v2 = Michĩveháramo, ne kundahára pumbyrygua ome�
 mobile-compare-at-a-minimum = Michĩveháramo, ne kundahára pumbyrygua ome’ẽva’erã pe “kundahára ñemigua reko”, omboguétava ijeheguiete ne rembiasakue ha nde jeheka rapykuere. Ko’ápe, umi pokõi kundahára mbojuehepyre oguereko kyta.
 mobile-compare-another-mobile-feature = Ambue mba’e pumbyry orekova’erã ha’e katupyry omboykekuaávo ñanduti renda ha atyguasu ohapykuehóva ñeikundaha mba’ekuaarã ha mba’ejogua — eimérõ jepe ñeikundaha tapiaguávape.
 mobile-compare-blocking-thirdparty-trackers = Ejokóvo mbohapyháva tapykuehoha ndaha’éi iporãva tekoñemirã añónte, avei oipytyvõkuaa kuatiarogue henyhẽ pya’eve hag̃ua, umi ayvu vore omombegue’ỹre ne kundahára.
+mobile-compare-from-the-chart = Pe kora mboyvegua guive, { -brand-name-firefox } ome’ẽkuaa tembipuruita ñemigua ha hekorosãva oiko porãvéva umi po kundahára pa’ũme ha ome’ẽta ñema’ẽ guasu tekorosã ha ñemigua rehegua ñandutípe.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Mboja’opy</strong>
 mobile-compare-features = Mboja’opy
