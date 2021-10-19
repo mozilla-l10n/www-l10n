@@ -35,3 +35,4 @@ mobile-android-no-need-to = Natekotevẽi embojuruja tembipuru’i. Embjuaju jeh
 mobile-android-pin-videos-to = Embojuehe ta’ãngamýi ne mba’erechaháre
 mobile-android-pop-videos-out = Enohẽ ta’ãngamýi ñanduti rendágui térã mbohechaha ha emoĩ pumbyry mba’erechahápe yvate gotyo ehecha hag̃ua eikundaha aja térã ambue mba’épe eimekuévo. Eiko torýpe ejapokuévo heta mba’e.
 mobile-android-about-mozilla = { -brand-name-mozilla } rehegua
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } iñapysẽ ojapo hag̃ua Ñanduti oipurukuaátava opavave roguerovia rupi ijuruja ha hekosãsóramo iporãveha oñemboty ha oñemohekochi’ĩrangue. Romoheñói upévare { -brand-name-firefox } ha { -brand-name-pocket } romomba’évo jeporavo, tekosakã ha ñema’ẽmeme.
