@@ -13,6 +13,7 @@ vpn-mac-page-description = Είτε χρησιμοποιείτε ένα επιτ
 # Mac strings
 vpn-mac-hero-headline = Προστατέψτε τη σύνδεσή σας με το { -brand-name-mozilla-vpn } για { -brand-name-mac-short }
 vpn-mac-wifi-headline = Νιώστε ασφάλεια σε ύποπτα Wi-Fi
+vpn-mac-wifi-copy = Συνδεθείτε ξέγνοιαστα σε δημόσια WiFi με τη βοήθεια του { -brand-name-mozilla-vpn }. Προστατεύει τη σύνδεσή σας στο διαδίκτυο και αποκρύπτει τα δεδομένα σας από hackers και αδιάκριτα βλέμματα.
 vpn-mac-about-headline = Από έναν αξιόπιστο δημιουργό
 vpn-mac-about-copy = Από το 1998, η μη κερδοσκοπική { -brand-name-mozilla } καθοδηγείται από την αποστολή της για τη δημιουργία ενός καλύτερου διαδικτύου. Από την ανάπτυξη προϊόντων, όπως το { -brand-name-firefox-browser }, μέχρι τις εκδηλώσεις υπεράσπισης σε όλο τον κόσμο, το έργο της { -brand-name-mozilla } συνεχίζει να διασφαλίζει την ελευθερία και την προσβασιμότητα του διαδικτύου για όλους.
 vpn-mac-privacy-headline = Το απόρρητό σας, στα χέρια σας

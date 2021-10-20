@@ -5,12 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+# HTML page title
+mobile-compare-5-of-the-best = Τα 5 καλύτερα προγράμματα περιήγησης κινητών σε άμεση σύγκριση
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Λειτουργίες</strong>
 mobile-compare-features = Λειτουργίες
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Συγχρονισμός</strong>
 mobile-compare-syncing = Συγχρονισμός
+mobile-compare-does-your-browser = Συνεργάζεται καλά το πρόγραμμα περιήγησής σας με άλλες συσκευές;
 mobile-compare-conclusion = Επίλογος
 mobile-compare-search-engine-options = Επιλογές μηχανών αναζήτησης
 mobile-compare-text-to-speech = Κείμενο σε ομιλία
@@ -32,4 +35,7 @@ mobile-compare-mobile-os-availability = Διαθεσιμότητα ΛΣ κινη
 mobile-compare-syncs-with-desktopmobile = Συγχρονισμός με υπολογιστή/κινητό
 mobile-compare-password-management = Διαχείριση κωδικών πρόσβασης
 mobile-compare-primary-password = Κύριος κωδικός πρόσβασης
+mobile-compare-get-firefox-for-mobile = Λήψη του { -brand-name-firefox } για κινητά
+mobile-compare-send-a-download-link-to-your = Στείλτε έναν σύνδεσμο λήψης στο τηλέφωνό σας.
 mobile-compare-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
+mobile-compare-scan-alt-text = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-name-firefox } στην κινητή σας συσκευή
