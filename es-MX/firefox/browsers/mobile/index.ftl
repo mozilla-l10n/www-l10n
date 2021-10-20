@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+# HTML page description
+browsers-mobile-overview-of-all-mobile = Una descripción general de todos los navegadores móviles de { -brand-name-firefox } ({ -brand-name-firefox } para { -brand-name-android }, { -brand-name-firefox } para { -brand-name-ios }, { -brand-name-firefox-focus })
 browsers-mobile-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
