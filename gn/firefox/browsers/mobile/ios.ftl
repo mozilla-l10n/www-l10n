@@ -17,6 +17,7 @@ mobile-ios-scan-the-qr-code-to-get-started = Emoha’ãnga QR ayvu eñepyrũ hag
 mobile-ios-scan-alt-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-name-firefox } { -brand-name-ios }-pe
 mobile-ios-make-firefox-your = Ejapo { -brand-name-firefox }-gui kundahára ijypyguáva
 mobile-ios-fast-private-secure = Ipya’e. Hekoñemi. Hekorosã
+mobile-ios-keep-whats-personal = Eguerekóke nemba’etéva ñemihápe emboyke’ỹre ipya’etereikue. Avei, kundahára rembiapoite ha’evéva ome’ẽta ndéve pokatu erahakuaa hag̃ua ne rekoñemi, ñe’ẽñemi ha techaukaha tekorosãme eho ehohápe, oipytyvõva nde jeike ñandutípe.
 mobile-ios-stay-private-online = Eiko ñandutípe tekoñemíme
 mobile-ios-your-browsing-history = Ne kundahára rembiasakue hembiasakue
 mobile-ios-if-you-want = Ejaposéramo péicha, eiporavokuaa jeike ha eheka ñeikundaha ñemigua reko. Ha oñembotývo pe ñeikundaha ñemigua reko, pe ñeikundaha rembiasakue ha umi kookie oguetéta ijeheguiete ne mba’e’okápe.
