@@ -18,6 +18,7 @@ mobile-ios-scan-alt-text = Olvassa le a QR-kódot, hogy beszerezze a { -brand-na
 mobile-ios-make-firefox-your = A { -brand-name-firefox } alapértelmezett böngészővé tétele
 mobile-ios-now-iphone-and = Most már az { -brand-name-iphone } és { -brand-name-ipad } felhasználók is megválaszthatják az alapértelmezett böngészőjüket. Ez azt jelenti, hogy nem kötelező a { -brand-name-safari }t használni, és a mobilböngészőjét szinkronizálhatja a kedvenc asztali böngészőjével. Továbbá ha a { -brand-name-firefox }ot állítja be az alapértelmezett böngészőként, akkor egy független technológiai vállalatot támogat. A { -brand-name-firefox } az egyetlen nagy böngésző, melyet egy nonprofit szervezet támogat.
 mobile-ios-fast-private-secure = Gyors. Privát. Biztonságos.
+mobile-ios-keep-whats-personal = Tartsa privátan a magánszféráját, anélkül hogy feláldozná a villámgyors sebességet. Ezenkívül az intelligens böngészési funkciók lehetővé teszik, hogy az adatvédelmét, jelszavait és könyvjelzőit magával vihesse, bárhová is megy, megkönnyítve ezzel az online életét.
 mobile-ios-stay-private-online = Maradjon privát az interneten
 mobile-ios-firefox-gives-you = A { -brand-name-firefox } nagyobb adatvédelmet nyújt a weben. Alapértelmezés szerint a továbbfejlesztett nyomkövetési védelem blokkolja a nyomkövetőket és parancsfájlokat, például a közösségi médiakövetőket, a webhelyek közötti sütikövetőket, a kriptobányászokat és az ujjlenyomat-készítőket.
 mobile-ios-your-browsing-history = Az előzményei történelem
