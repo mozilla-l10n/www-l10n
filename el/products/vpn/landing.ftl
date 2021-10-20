@@ -51,6 +51,11 @@ vpn-landing-faq-uses-encrypt = Κρυπτογραφώντας την κίνησ�
 vpn-landing-faq-uses-examples = Δείτε <a href="{ $url }">πέντε πραγματικά παραδείγματα</a>, στα οποία θα χρειαστείτε VPN στη συσκευή σας.
 vpn-landing-faq-info-question-heading = Ποιες πληροφορίες διατηρεί το { -brand-name-mozilla-vpn };
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Τηρούμε αυστηρά τις <a href="{ $principles }">Αρχές απορρήτου δεδομένων</a> της { -brand-name-mozilla } και συλλέγουμε τα δεδομένα που απαιτούνται για να παραμείνει λειτουργικό και να βελτιώνεται συνεχώς το VPN. Καταγράφονται επίσης τα δεδομένα εκστρατειών και παραπομπών στην εφαρμογή μας για κινητές συσκευές, ώστε να κατανοήσει καλύτερα η { -brand-name-mozilla } την αποτελεσματικότητα των καμπανιών μάρκετινγκ μας. Διαβάστε περισσότερα στη <a href="{ $notice }">Σημείωση απορρήτου</a> μας.
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Δεν καταγράφουμε, παρακολουθούμε ή κοινοποιούμε καμία διαδικτυακή σας δραστηριότητα. Τηρούμε αυστηρά τις { -brand-name-mozilla }’s <a href="{ $url }">Αρχές απορρήτου δεδομένων</a> και συλλέγουμε μόνο τα δεδομένα που απαιτούνται για τη λειτουργία του VPN και τη βελτίωση του προϊόντος.
 vpn-landing-faq-protected-question-heading = Πώς προστατεύεται το απόρρητό μου;
@@ -60,7 +65,11 @@ vpn-landing-faq-protected-question-heading = Πώς προστατεύεται �
 vpn-landing-faq-protected-question-desc = Το πρωτόκολλο <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® κρυπτογραφεί την κίνηση του δικτύου σας, προστατεύοντας όλα τα ιδιωτικά σας δεδομένα. Σε σύγκριση με τα υπάρχοντα πρωτόκολλα VPN, ο κώδικας του { -brand-name-wireguard } ελέγχεται ευκολότερα από τους αναλυτές ασφαλείας—καθιστώντας το την πιο ασφαλή επιλογή για VPN. Επιπλέον, η διαδικτυακή σας δραστηριότητα παραμένει ανώνυμη επειδή δεν καταγράφουμε ποτέ, ούτε κοινοποιούμε τα δεδομένα του δικτύου σας.
 vpn-landing-faq-competition-question-heading = Πώς συγκρίνεται το { -brand-name-mozilla-vpn } με τον ανταγωνισμό;
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Αν και τα δωρεάν VPN φαίνονται ελκυστικά, δεν αναλαμβάνουν τις ίδιες δεσμεύσεις απορρήτου με το { -brand-name-mozilla-vpn }. Τα άλλα VPN δεν έχουν την <a href="{ $url }">ιστορία</a> 20+ ετών της { -brand-name-mozilla } στην ανάπτυξη προϊόντων που θέτουν σε προτεραιότητα τον άνθρωπο και το απόρρητο.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Αν και τα δωρεάν VPN φαίνονται ελκυστικά, δεν αναλαμβάνουν τις ίδιες δεσμεύσεις απορρήτου με το { -brand-name-mozilla-vpn } και ίσως πουλήσουν ή αποθηκεύσουν τα δεδομένα σας. Τα άλλα επί πληρωμή VPN δεν έχουν την <a href="{ $url }">ιστορία</a> 20+ ετών της { -brand-name-mozilla } στην ανάπτυξη προϊόντων που θέτουν σε προτεραιότητα τον άνθρωπο και το απόρρητο.
 vpn-landing-faq-compatibility-question-heading = Με ποιες συσκευές είναι συμβατό το { -brand-name-mozilla-vpn };
 # Variables:
