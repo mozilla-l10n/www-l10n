@@ -21,3 +21,4 @@ vpn-ip-address-can-we-run = Μπορούν να εξαντληθούν;
 #   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
 #   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
 vpn-ip-address-when-the-internet = Όταν πρωτοσχεδιάστηκε το διαδίκτυο, χρησιμοποίησε διευθύνσεις της «έκδοσης 4». Αυτές αποτελούνται από 32 bits, πράγμα που σημαίνει ότι μπορούμε να έχουμε έως <a href="{ $sr }">4,2 δισ. διευθύνσεις</a>. Αυτός ο αριθμός φάνταζε αρκετός εκείνη την εποχή, αλλά όχι σε έναν κόσμο όπου το μέσο νοικοκυριό στις ΗΠΑ έχει <a href="{ $variety }">11 συνδεδεμένες συσκευές</a>.
+vpn-ip-address-how-do-you = Πώς κρύβεται η διεύθυνση IP;
