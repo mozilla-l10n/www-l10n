@@ -15,6 +15,7 @@ mobile-focus-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικ�
 mobile-focus-scan-alt-text = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-name-firefox-focus }
 mobile-focus-tracking-protection = Προστασία από καταγραφή
 mobile-focus-ad-blocking = Φραγή διαφημίσεων
+mobile-focus-see-it-all = Δείτε τα όλα γρηγορότερα
 # Outdated string
 mobile-focus-focus-removes-trackers = Το { -brand-name-focus } αφαιρεί ιχνηλάτες και διαφημίσεις, ώστε οι σελίδες να απαιτούν λιγότερα δεδομένα και να φορτώνονται πολύ ταχύτερα.
 mobile-focus-made-by-mozilla = Από τη { -brand-name-mozilla }

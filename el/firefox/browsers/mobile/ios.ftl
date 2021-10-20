@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
+# HTML description
+mobile-ios-firefox-browser-for = Το { -brand-name-firefox } για { -brand-name-ios } είναι γρήγορο, ασφαλές και ιδιωτικό από την πρώτη εκκίνηση.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-automatic-privacy = Αυτόματο απόρρητο στο { -brand-name-iphone } και το { -brand-name-ipad } σας
 mobile-ios-get-firefox-for = Λήψη του { -brand-name-firefox } για { -brand-name-ios }
