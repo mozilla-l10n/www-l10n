@@ -21,6 +21,7 @@ mobile-compare-from-the-chart = Pe kora mboyvegua guive, { -brand-name-firefox }
 mobile-compare-features-strong = <strong>Mboja’opy</strong>
 mobile-compare-features = Mboja’opy
 mobile-compare-what-can-your = ¿Mba’e ojapokuaa kundahára nderehe?
+mobile-compare-a-main-ingredient = Mba’e tuicháva kundahára oikoporãvape ha’e pe hembiapoite. ¿Mba’e pe ojapokuaáva? Umi po kundahára ojueheguapanunga tendayke, techaukaha ha kora myanyhẽ ijeheguívape, hákatu { -brand-name-firefox } ha { -brand-name-safari } añoite ome’ẽkuaa moĩmbaha/jepysokue, ha’etéva tembipuru’i kundahárape g̃uarã hekoñemive hag̃ua, imbarete térã hekoretia’evégui.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Mbojuehepyre</strong>
 mobile-compare-syncing = Mbojuehepyre
