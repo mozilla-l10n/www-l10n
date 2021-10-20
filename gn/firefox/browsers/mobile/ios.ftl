@@ -26,6 +26,7 @@ mobile-ios-get-more-firefox = Erekove { -brand-name-firefox } nde rekovépe
 # Obsolete string
 mobile-ios-add-firefox-across = Embojuaju { -brand-name-firefox } opaite mba’e’okápe eikundaha hag̃ua tekorosãme ha apañuãi’ỹre. Eipuru { -brand-name-sync } ne mba’e’okápe eraha hag̃ua nde rechaukaha, tembiapo ñepyrũ ñongatupyre, ñe’ẽñemi ha ñeikundaha rembiasakue nendive. Avei, emondo tendayke ijurujáva pumbyry ha mohendahápe eku’ejey hag̃ua eheja haguégui.
 mobile-ios-find-it-all = Ejuhupaite pya’eve
+mobile-ios-get-search-suggestions = Eguerekóta mba’eichaitépa ehekáta pe jehekaha rendápe ha eike pya’eterei tendakuéra eikevehápe jepi. Ehai ne porandu jehekarãva ha eguerekóta eipotáva ha ehekamavavoi ne mba’erekaha eipuruvévape.
 mobile-ios-keep-tabs-on = Ehechapaite umi tendayke
 mobile-ios-create-as-many = Emoheñói heta tendayke eipotaháicha okañy’ỹre avave. { -brand-name-firefox } ohechauka umi tendayke ijurujáva michĩmíramo ha tendayke ipapapýva, ombopya’éva añetehápe nde jeheka.
 mobile-ios-discover-more-of = Ehechakuaa umi ehecharamovéva
