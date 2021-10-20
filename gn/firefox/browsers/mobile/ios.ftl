@@ -30,4 +30,5 @@ mobile-ios-get-search-suggestions = Eguerekóta mba’eichaitépa ehekáta pe je
 mobile-ios-keep-tabs-on = Ehechapaite umi tendayke
 mobile-ios-create-as-many = Emoheñói heta tendayke eipotaháicha okañy’ỹre avave. { -brand-name-firefox } ohechauka umi tendayke ijurujáva michĩmíramo ha tendayke ipapapýva, ombopya’éva añetehápe nde jeheka.
 mobile-ios-discover-more-of = Ehechakuaa umi ehecharamovéva
+mobile-ios-open-a-new = Embojuruja tendayke pyahu { -brand-name-firefox }-pe ehecha hag̃ua umi tenda eikeveha, nde rechaukaha ramovegua ha jehapyre ojehechavéva { -brand-name-pocket }-pe. { -brand-name-firefox } ne moinge pya’étava tendakuéra eipururamovévape ne pytyvõ hag̃ua ehekávape.
 mobile-ios-about-mozilla = { -brand-name-mozilla } rehegua
