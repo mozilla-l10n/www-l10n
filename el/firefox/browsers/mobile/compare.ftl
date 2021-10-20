@@ -7,10 +7,13 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = Τα 5 καλύτερα προγράμματα περιήγησης κινητών σε άμεση σύγκριση
+# HTML description
+mobile-compare-who-makes-the = Ποιος φτιάχνει το καλύτερο πρόγραμμα περιήγησης; Θα συγκρίνουμε τις εκδόσεις των { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } και { -brand-name-opera } για κινητές συσκευές.
 mobile-compare-which-mobile-browser = Ποιο πρόγραμμα περιήγησης για κινητά προστατεύει τα δεδομένα σας;
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Λειτουργίες</strong>
 mobile-compare-features = Λειτουργίες
+mobile-compare-what-can-your = Τι μπορεί να κάνει για εσάς το πρόγραμμα περιήγησής σας;
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Συγχρονισμός</strong>
 mobile-compare-syncing = Συγχρονισμός
