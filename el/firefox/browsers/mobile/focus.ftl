@@ -11,6 +11,7 @@ mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Απλά ιδιωτική περιήγηση σε κινητές συσκευές
 mobile-focus-firefox-focus-is-available = Το { -brand-name-firefox-focus } είναι διαθέσιμο για συσκευές { -brand-name-ios } και { -brand-name-android }.
 mobile-focus-get-firefox-focus = Λήψη του { -brand-name-firefox-focus }
+mobile-focus-send-a-download-link-to-your = Στείλτε έναν σύνδεσμο λήψης στο τηλέφωνό σας.
 mobile-focus-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
 mobile-focus-scan-alt-text = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-name-firefox-focus }
 mobile-focus-tracking-protection = Προστασία από καταγραφή
