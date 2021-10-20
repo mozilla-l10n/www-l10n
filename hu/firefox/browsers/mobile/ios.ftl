@@ -22,5 +22,10 @@ mobile-ios-keep-whats-personal = Tartsa privátan a magánszféráját, anélkü
 mobile-ios-stay-private-online = Maradjon privát az interneten
 mobile-ios-firefox-gives-you = A { -brand-name-firefox } nagyobb adatvédelmet nyújt a weben. Alapértelmezés szerint a továbbfejlesztett nyomkövetési védelem blokkolja a nyomkövetőket és parancsfájlokat, például a közösségi médiakövetőket, a webhelyek közötti sütikövetőket, a kriptobányászokat és az ujjlenyomat-készítőket.
 mobile-ios-your-browsing-history = Az előzményei történelem
+mobile-ios-if-you-want = Ha szeretné, egyszerűen kiválaszthatja, hogy az online kereséseket privát böngészési módban tegye. És amikor bezárja a privát böngészési módot, akkor az előzményei és a sütijei automatikusan törlésre kerülnek az eszközről.
+mobile-ios-get-more-firefox = Szerezzen több { -brand-name-firefox }ot az életébe
+mobile-ios-add-firefox-across-v2 = Adja hozzá a { -brand-name-firefox }ot az eszközeihez a biztonságos és zökkenőmentes böngészéshez. Szinkronizálja eszközeit, hogy bárhová magával vigye kedvenc könyvjelzőit, a mentett bejelentkezéseit, jelszavait és előzményeit. Ezenkívül küldjön nyitott lapokat a telefonja és az asztali számítógépe között, hogy ott folytathassa, ahol abbahagyta.
+# Obsolete string
+mobile-ios-add-firefox-across = Adja hozzá a { -brand-name-firefox }ot az eszközeihez a biztonságos és zökkenőmentes böngészéshez. Szinkronizálja eszközeit a { -brand-name-sync } segítsével, hogy bárhová magával vigye kedvenc könyvjelzőit, a mentett bejelentkezéseit, jelszavait és előzményeit. Ezenkívül küldjön nyitott lapokat a telefonja és az asztali számítógépe között, hogy ott folytathassa, ahol abbahagyta.
 mobile-ios-find-it-all = Találja meg gyorsabban
 mobile-ios-about-mozilla = A { -brand-name-mozilla(ending: "accented") }ról
