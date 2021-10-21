@@ -30,6 +30,7 @@ mobile-compare-the-mobile-version = Pumbyrýpe g̃uarãva { -brand-name-safari }
 mobile-compare-almost-all-of = Opavave nunga kundahára pumbyrygua oñemoñondivéva omoneĩ ñembojuehe mba’e’oka pumbyrygua pa’ũme ha mesa ariguápe.
 mobile-compare-the-good-news = Marandu porã puruhárape { -brand-name-iphone } guive { -brand-name-apple } ramoite omoneĩ { -brand-name-iphone } puruhárape oiporavóvo ikundahára ypyguarã, upévare puruhára ombojuehe imba’e’oka pyendavusu rupive, techapyrãrõ, omohenda rire { -brand-name-firefox } i-{ -brand-name-iphone } ha PC { -brand-name-windows } ndive.
 mobile-compare-conclusion = Mohu’ã
+mobile-compare-based-on-the = Pe romombe’uháicha — tekoñemi, tembiapoite ha ñembojuehe — peteĩ kundahára pumbyryguamínte oguereko mbohapyvéva ha péva ha’e { -brand-name-firefox }. Ojojoguanungáramo jepe hekópe ha iñembojuehekuépe, { -brand-name-firefox } osẽ tenonde gotyo hekoñemíme, roimo’ã ha’eha pe mba’e tuichavéva ñandutípe g̃uarã, pe nde reipotahaichaite.
 mobile-compare-our-recommendations-aside = Emboykévo ore ñemoñe’ẽ, ejuhu hag̃ua kundahára oikóva añetéva ndéve g̃uarã ojokupytýva ne remikotevẽ rehe ha umi ehecharamovéva eikundahakuévo ñandutípe.
 mobile-compare-search-engine-options = Mongu’eha jeporavorã jeheka
 mobile-compare-text-to-speech = Moñe’ẽrã ayvúpe
