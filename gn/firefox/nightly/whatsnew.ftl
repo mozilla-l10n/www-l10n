@@ -21,4 +21,7 @@ nightly-whatsnew-if-you-want-to = Eikuaasevéramo oikóva { -brand-name-nightly 
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = ¿Eikuaase mba’éichagua plataforma eipurukuaa { -brand-name-nightly } ndive ha ndaikatúiva ojehecha ambue canal { -brand-name-firefox } mba’évape? Upévare ehechami kuatiarogue <a href="{ $mdn }">mba’e oñeha’ãva</a> <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>-pe.
+# Variables:
+#   $bugzilla (url) - link to https://bugzilla.mozilla.org/
+nightly-whatsnew-do-you-experience = ¿Ehechápa jejavy? ¿Heko noñeha’arõi? ¿Ojevy jokupyty ojehechávo ñandutípe? Rovy’áta ejuajúrõ <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> ndive ko’ã apañuãi ani hag̃ua og̃uahẽ apopyre ipyahuvévape (¡japopyre ojo’áva embojuajúvo ñe’ẽ kañymby<em>{ -brand-name-nightly }-community</em> ne jehaikue jejavygua!).
 nightly-whatsnew-go-community = ¡Che maitei tekohápe!
