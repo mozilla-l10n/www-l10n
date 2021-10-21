@@ -24,6 +24,7 @@ mobile-ios-firefox-gives-you = { -brand-name-firefox } oikuave’ẽ tekoñemi �
 mobile-ios-your-browsing-history = Ne kundahára rembiasakue hembiasakue
 mobile-ios-if-you-want = Ejaposéramo péicha, eiporavokuaa jeike ha eheka ñeikundaha ñemigua reko. Ha oñembotývo pe ñeikundaha ñemigua reko, pe ñeikundaha rembiasakue ha umi kookie oguetéta ijeheguiete ne mba’e’okápe.
 mobile-ios-get-more-firefox = Erekove { -brand-name-firefox } nde rekovépe
+mobile-ios-add-firefox-across-v2 = Embojuaju { -brand-name-firefox } opaite mba’e’okáre eikundaha hag̃ua tekorosãme ha apañuãi’ỹre. Embojuehe mba’e’oka eraha hag̃ua nde rechaukaha eipuruvéva, tembiapo ñepyrũ ñongatupyre, ñe’ẽñemi ha ñeikundaha rembiasakue nendive. Avei, emondo tendayke ijurujáva pumbyry ha mohendahápe eku’ejey hag̃ua eheja haguégui.
 # Obsolete string
 mobile-ios-add-firefox-across = Embojuaju { -brand-name-firefox } opaite mba’e’okápe eikundaha hag̃ua tekorosãme ha apañuãi’ỹre. Eipuru { -brand-name-sync } ne mba’e’okápe eraha hag̃ua nde rechaukaha, tembiapo ñepyrũ ñongatupyre, ñe’ẽñemi ha ñeikundaha rembiasakue nendive. Avei, emondo tendayke ijurujáva pumbyry ha mohendahápe eku’ejey hag̃ua eheja haguégui.
 mobile-ios-find-it-all = Ejuhupaite pya’eve
