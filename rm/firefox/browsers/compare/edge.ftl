@@ -23,3 +23,6 @@ compare-edge-at-firefox-we-pride-ourselves = Nus da { -brand-name-firefox } essa
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-edge-at-firefox-our-privacy-fallback = Nus da { -brand-name-firefox } avain <a { $attrs }>directivas da la protecziun da datas</a> ch'èn transparentas e formuladas cler e net. Nus essan sa stentads da las formular a moda nuncumplitgada ed en ina lingua bain chapibla. Nus essan superbis da proteger la segirezza e la sfera privata da noss utilisaders. Grazia a nossa protecziun avanzada cunter fastizaders, installada sco standard, pudain nus bloccar automaticamain passa 2000 fastizaders. Fastizaders èn quels pitschens tocs da code che ta suondan tras l'internet ed analiseschan tut tias activitads per crear cun las datas rimnadas in profil cumplet e detaglià da tai. Quai violescha tia sfera privata mo per pudair ta mussar reclamas persunalisadas.
+# Variables:
+#   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
+compare-edge-your-privacy-protections-shows = Tias <a { $attrs }>Protecziuns da la sfera privata </a> mussan ils fastizaders e cookies che paginas-web han vulì laschar enavos tar tai e quants che { -brand-name-firefox } ha bloccà per tai.
