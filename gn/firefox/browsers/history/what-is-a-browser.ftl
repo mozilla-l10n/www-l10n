@@ -31,6 +31,7 @@ what-is-a-browser-cookies-not-the = Kookie (ndaha’éi oje’úva)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
 what-is-a-browser-websites-save = Umi ñanduti renda oñongatu marandu nde rehegua marandurenda hérava <a href="{ $cookies }">kookie</a>. Oñeñongatu ne mohendahápe eikejey vove tendápe. Ejujeývo, pe ñanduti renda ayvu omoñe’ẽta pe marandurenda oikuaa hag̃ua ndetejeýpa. Techapyrã, eike vove ñanduti rendápe, pe kuatiarogue imandu’a nde puruhára réra ha ñe’ẽñemíre, kóva oikokuaa kookie rupive.
+what-is-a-browser-there-are-also = Oĩ avei kookie oguenohẽva marandu nde rehegua. Ikatu pe reipotáva, ne ñanduti kundahára rape, ha hetave. Kóva he’ise pe tenda ome’ẽkuaaha tetepy heseguavéva, heta jey marandu ñemurãguávaramo. Oĩ peteĩchagua kookie, ojeheróva kookie <em>mbohapyháva</em>, oúva tenda eike’ỹha araka’eve upéramo ha ikatúva nderapykueho peteĩ tendágui ambuépe ombyaty hag̃ua marandu nde rehegua, heta jey ojehepyme’ẽva ambue mba’apohaguasúpe. Heta jey ikatu ejoko koichagua kookie, ndahetái kundahára omoneĩva.
 what-is-a-browser-when-you-go-to = Eikévo ñanduti rendápe, kuatiarogue imandu’a nde puruhára réra ha ñe’ẽñemíre, kóva ikatu peteĩ kookie rupive.
 what-is-a-browser-understanding = Ñemigua ñeikumby
 what-is-a-browser-firefox-helps = { -brand-name-firefox } ne pytyvõ ne ñemigua ñandutípe ojokokuaáva umi tapykuehoha ani hag̃ua nde rapykueho.
