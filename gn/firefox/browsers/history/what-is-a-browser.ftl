@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/what-is-a-browser/
@@ -23,6 +23,10 @@ what-is-a-browser-sadly-not-all = Rombyasy, ndaopavavéi kundahára oiporavo pe 
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = Pe ñanduti kundahára orekóvo apopyvusu mba’ekuaarã iñandutíva, oipuru software ojeheróva motor de renderizado omoñe’ẽasa hag̃ua umi mba’ekuaarã moñe’ẽrãme térã ta’ãngápe. Ko’ã mba’ekuaarã ojehai <a href="{ $html }">Marcas de hipertexto ñe’ẽme</a> (HTML) ha ñanduti kundaharakuéra omoñe’ẽ ko ayvu omoheñói hag̃ua jahecha, ñahendu ha jajapóva ñandutípe.
+# Variables:
+#   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
+#   $url(url) - link to https://wikipedia.org/wiki/URL
+what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Umi hipervínculo</a> omoneĩ puruhárape oguatávo ambue kuatiaroguépe térã ñanduti renda. Peteĩteĩva ñanduti kuatiarogue, ta’ãnga ha ta’ãngamýi oreko imba’etee <a href="{ $url }">Localizador Uniforme de Recursos</a> (URL), ojeheróva avei ñanduti kundaharape. Kundahára oipurúrõ mohendahavusu ohekávo mba’ekuaarã, ñanduti kundaharape he’i kundahárape moõpa ohekáta umi mba’epuru oĩva html-pe, he’íva kundahárape mba’e ñanduti kuatiaroguépepa oĩta.
 what-is-a-browser-cookies-not-the = Kookie (ndaha’éi oje’úva)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
