@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -23,3 +23,4 @@ compare-index-find-out-how-firefox-fallback = { -brand-name-firefox }, { -brand-
 compare-index-looking-for-a-better-browser = Daha iyi bir tarayıcı mı arıyorsunuz? Karar vermenize yardımcı olması için { -brand-name-firefox }'u { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ve { -brand-name-ie } ile karşılaştıracağız.
 compare-index-looking-for-a-better-fallback = Daha iyi bir tarayıcı mı arıyorsunuz? Karar vermenize yardımcı olması için { -brand-name-firefox }'u { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } ve { -brand-name-ie } ile karşılaştıracağız.
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox }, kâr amacı gütmeyen { -brand-name-mozilla } tarafından desteklenmektedir.
+compare-index-compare = Karşılaştır

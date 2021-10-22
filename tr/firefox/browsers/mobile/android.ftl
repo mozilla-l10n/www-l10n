@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
@@ -22,4 +22,9 @@ mobile-android-firefox-for-android = { -brand-name-android } için { -brand-name
 mobile-android-one-tap-to = Tek dokunuşla gizli mod
 mobile-android-get-to-private = Tek bir dokunuşla gizli gezinti moduna geçebilirsiniz. Gizli gezinti modunu kapattığınızda gezinti geçmişiniz cihazınızdan otomatik olarak silinir.
 mobile-android-search-your-own = Dilediğin gibi ara
+mobile-android-save-power-with = Koyu mod ile güç tasarrufu yapın
+mobile-android-easily-organize-your = Sekmelerinizi kolayca düzenleyin
+mobile-android-pick-up-where = Kaldığınız yerden devam edin
+mobile-android-search-from-your = Telefonunuzun ana ekranından arama yapın
+mobile-android-pin-videos-to = Videoları ekranınıza sabitleyin
 mobile-android-about-mozilla = { -brand-name-mozilla } hakkında
