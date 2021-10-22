@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -24,6 +24,9 @@ firefox-products-see-all-browsers = 看全部的瀏覽器
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = 以全新的視角，安全地透過超過 30 個國家的伺服器上網、觀看影片、完成工作。
 firefox-products-get-mozilla-vpn = 下載 { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = 保護您實際的電子郵件地址，並且自行控管收件匣。
+firefox-products-learn-more-about-relay = 了解 { -brand-name-firefox-relay } 的更多資訊
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
