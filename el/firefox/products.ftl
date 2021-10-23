@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -24,6 +24,9 @@ firefox-products-see-all-browsers = Προβολή όλων των προγρσ�
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Περιηγηθείτε, δείτε βίντεο και εργαστείτε σε διακομιστές περισσότερων από 30 χωρών για ασφαλή σύνδεση στο διαδίκτυο, με μια νέα προοπτική.
 firefox-products-get-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Προστατέψτε την πραγματική σας διεύθυνση email και ελέγξτε τα εισερχόμενά σας.
+firefox-products-learn-more-about-relay = Μάθετε περισσότερα για το { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
