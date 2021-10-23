@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
@@ -26,3 +26,6 @@ compare-edge-at-firefox-our-privacy-fallback = Nus da { -brand-name-firefox } av
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = Tias <a { $attrs }>Protecziuns da la sfera privata </a> mussan ils fastizaders e cookies che paginas-web han vulì laschar enavos tar tai e quants che { -brand-name-firefox } ha bloccà per tai.
+# "InPrivate" is a brand name.
+compare-edge-in-firefox-private-browsing = En il modus da navigaziun privata stizza { -brand-name-firefox } automaticamain infurmaziuns da navigaziun sco per exempel pleds-clav, cookies e tia cronologia, uschia che ti na laschas enavos nagins fastizs en il navigatur suenter avair finì tia sesida. { -brand-name-edge } percunter registrescha tia cronologia perfin en il modus privat (numnà «InPrivate»). Uschia èsi relativamain simpel per auters da reconstruir cumplettamain tia cronologia, tuttina sche ti es navigà en il modus regular u InPrivate.
+compare-edge-both-browsers-are-relatively = Schi sa tracta da criptar datas stattan domadus navigaturs a pèr in cun l'auter. Sche la sfera privata e la transparenza en l'internet ta stattan dentant propi a cor, lura è { -brand-name-firefox } cleramain la meglra opziun.
