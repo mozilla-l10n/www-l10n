@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -24,6 +24,9 @@ firefox-products-see-all-browsers = Alle browsers bekijken
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Surf, stream en voer werk uit op servers in meer dan 30 landen, voor een veilige internetverbinding met een nieuw perspectief.
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } downloaden
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Bescherm uw echte e-mailadres om uw Postvak IN te beschermen.
+firefox-products-learn-more-about-relay = Meer info over { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
