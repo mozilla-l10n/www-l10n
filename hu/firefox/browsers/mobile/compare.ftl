@@ -10,6 +10,11 @@ mobile-compare-5-of-the-best = Az 5 legjobb mobilböngésző közvetlen összeha
 # HTML description
 mobile-compare-who-makes-the = Ki készíti a legjobb mobilböngészőt? Összehasonlítjuk a { -brand-name-firefox }, a { -brand-name-chrome }, az { -brand-name-edge }, a { -brand-name-safari } és az { -brand-name-opera } mobilos verziót, hogy megtudja.
 mobile-compare-which-mobile-browser = Melyik mobilböngésző kezeli bizalmasan a dolgokat?
+mobile-compare-at-a-minimum-v2 = A mobilböngészőnek legalább a „privát böngészési mód” valamilyen formáját kellene biztosítania, amely automatikusan törli az előzményeit és kereséseit. Ezen a területen mind az öt böngésző kap pontot.
+# Obsolete string
+mobile-compare-at-a-minimum = A mobilböngészőnek legalább a „privát böngészési mód” valamilyen formáját kellene biztosítania, amely automatikusan törli az előzményeit és kereséseit. Ezen a területen mind az hét böngésző kap pontot.
+mobile-compare-another-mobile-feature = Egy másik mobilos funkció, amelynek természetesnek kellene lennie, hogy megakadályozhassa, hogy a webhelyek és a vállalatok nyomon követhessék a böngészési és vásárlási adatait – már normál böngészési módban is.
+mobile-compare-blocking-thirdparty-trackers = A harmadik féltől származó nyomkövetők blokkolása nem csak az adatvédelem szempontjából fontos – az oldalak sokkal gyorsabb betöltését is segíti, mivel ezek a kódrészletek lelassítanák a böngészőjét.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Jellemzők</strong>
 mobile-compare-features = Jellemzők
