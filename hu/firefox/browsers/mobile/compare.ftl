@@ -1,12 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
 # HTML page title
 mobile-compare-5-of-the-best = Az 5 legjobb mobilböngésző közvetlen összehasonlítása
+# HTML description
+mobile-compare-who-makes-the = Ki készíti a legjobb mobilböngészőt? Összehasonlítjuk a { -brand-name-firefox }, a { -brand-name-chrome }, az { -brand-name-edge }, a { -brand-name-safari } és az { -brand-name-opera } mobilos verziót, hogy megtudja.
+mobile-compare-which-mobile-browser = Melyik mobilböngésző kezeli bizalmasan a dolgokat?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Jellemzők</strong>
 mobile-compare-features = Jellemzők
