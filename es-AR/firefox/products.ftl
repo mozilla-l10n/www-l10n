@@ -25,6 +25,8 @@ firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Navegá, transmití y trabajá en servidores en más de 30 países con una conexión a Internet segura y con una nueva perspectiva.
 firefox-products-get-mozilla-vpn = Obtener { -brand-name-mozilla-vpn }
 firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Protegé tu dirección de correo electrónico real para ayudar a controlar tu bandeja de entrada.
+firefox-products-learn-more-about-relay = Conocé más sobre { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
