@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -21,11 +21,19 @@ firefox-products-desktop = Ordinateur
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Découvrir les navigateurs
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Gardez vos mots de passe pour vous et à votre portée sur tous vos appareils synchronisés.
+# Obsolete string
 firefox-products-download-lockwise = Télécharger { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Ouvrir dans { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = En savoir plus sur { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Envoyez vos fichiers volumineux et documents sensibles en toute sécurité, jusqu’à 2,5 Go.
 firefox-products-send-a-file = Envoyer un fichier
