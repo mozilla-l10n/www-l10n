@@ -21,6 +21,7 @@ privacy-passwords-make-your-answers = Ejapo ne porandu ñembohovái tekorosãgua
 privacy-passwords-use-a-password = Eipuru ñe’ẽñemi ñangarekohára hasy’ỹ hag̃ua imoheñói ha ñe’ẽñemi ñemomandu’a
 privacy-passwords-use-twofactor-authentication = Eipuru “ñemoneĩ mokõi reheguáva” ikatúma guive
 privacy-passwords-its-hard-out = Pe ñe’ẽñemi jeiko asy
+privacy-passwords-most-logins-today = Hetave mba’ete ko ára rupi oñemo’ã ñe’ẽñemi rupive. Peteĩ mba’evaiapoha omondáramo ne ñe’ẽñemi, oikekuaa ne mba’etápe ha ojapokuaa oimeraẽva mba’e péva rupive. Upévare, oñeporandúvo ne mba’ete rekorosãre, añetehápe eñamindu’umi ne ñe’ẽñemi mbaretekuére. Ha upéva he’ise eñamindu’uva’erãha opaite hendáicha umi mba’evaiapoha omondakuaaháicha ne mba’ete ñe’ẽñemi:
 privacy-passwords-seeing-you-use = Ehecha mba’éichapa oipuru tenda ipapapy’ỹva
 privacy-passwords-guessing-it = Ijurupyasy
 privacy-passwords-stealing-a-file = Amonda ne marandurenda orekóva ne ñe’ẽñemi
