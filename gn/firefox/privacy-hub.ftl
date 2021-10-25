@@ -27,6 +27,10 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Roñeha’ãmbaite romo’�
 firefox-privacy-hub-data-security-is-complicated = Umi mba’ekuaarã rekorosã ijetu’u, térã peichava’erãvoi. Upéicha rupi, roñeha’ãve roiporavo hag̃ua mba’ekuaarã, roreko tapeguatarã mba’éichapa oñembyaty ha oñemo’ãta peteĩteĩchagua mba’ekuaarã ha araka’eve ndorohejái jejapojey. Nde rekoñemi pe roipotavéva. Roipuru viru upevarã. Roñeha’ãmbaite. Péicha rombo’e ambue mba’apohaguasúpe ijeku’erã.
 firefox-privacy-hub-no-secrets = Kañymby’ỹre
 firefox-privacy-hub-youll-always-know-where-you = Ejerovia tapiáke ore reko resakãre
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Ndoroguerekói mokõigua rojaposéva. Ore ñemurenda ndoikói ne mba’eñemi ejeroviaha ñemboyképe. Ore <a href="{ $privacy }">Ñemigua marandu’i</a> ndahasýi imoñe’ẽ. Oimeraẽva tapicha oikekuaa ore <a href="{ $meetings }">mba’apohaguasu aty arapokõindygua</a>. Ehapykuerekasérõ opaite mba’ekuaarã rombyatývare, ore ayvu ijuruja. Ha ore avei.
 firefox-privacy-hub-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
