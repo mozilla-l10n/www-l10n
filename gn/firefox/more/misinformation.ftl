@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -10,6 +10,7 @@ misinformation-page-title = Emboykeve marandu’ỹ ñandutípe { -brand-name-fi
 misinformation-page-desc = Pe marandu’ỹ neko’õ, nemboyke ha avei hepy. { -brand-name-firefox } oguereko ñemoñe’ẽ omboyke hag̃ua marandu japugua ha ehecha sa’ive ekundahakuévo ñandutípe.
 misinformation-page-subheading = Ema’ẽ ko’ã ñemoñe’ẽre ehecha hag̃ua sa’ive maranduvai ha ehechakuaa mba’épa erohoryvéva
 misinformation-what-is-heading = ¿Mba’épa marandu javygua? ¿Mba’épa maranduvai?
+misinformation-ultimately-harmful = Ohasaramóva, marandu vai avei marandu’ỹicha oporombyaikuaa. Ndaha’éi oñemoheñóiva marandu vai añónte, avei pe marandu japuguáva oipuru hetaiterei viru arapy tuichakue ha ikatu ombyai tekojoja reko ha ñemboguata porã. Ha hasyeterei ijejoko pe marandu japuguáva, iñasãi pya’etereive rupi umi marandu iporãvagui.
 misinformation-false-info-heading = ¿Moõpa osẽ marandu ijapúva?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
