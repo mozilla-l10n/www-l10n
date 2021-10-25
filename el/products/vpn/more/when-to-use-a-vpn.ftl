@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
@@ -14,6 +14,7 @@ vpn-when-to-use-here-are-five = Ακολουθούν πέντε περιπτώσ
 vpn-when-to-use-as-more-of = Καθώς οι περισσότερες καθημερινές εργασίες σας πραγματοποιούνται με σύνδεση στο διαδίκτυο, τα ζητήματα απορρήτου και ασφαλείας έχουν γίνει ακόμα πιο σημαντικά. Ένα VPN — (<a href="{ $vpn }">εικονικό ιδιωτικό δίκτυο</a>) — μπορεί να βοηθήσει οποιονδήποτε με τη δημιουργία μιας ασφαλούς, ιδιωτικής σύνδεσης στο διαδίκτυο. Δημιουργεί ένα ασφαλές «τούνελ» μεταξύ της συσκευής σας και του διαδικτύου και σας προστατεύει με δύο τρόπους:
 vpn-when-to-use-concealing-your-true = Αποκρύπτει την πραγματική σας διεύθυνση IP, προστατεύοντας την ταυτότητα και την τοποθεσία σας.
 vpn-when-to-use-encrypting-your-traffic = Κρυπτογραφεί τις κινήσεις μεταξύ εσάς και του παρόχου VPN σας, ώστε να μην μπορεί κανείς στο τοπικό σας δίκτυο να τις αποκρυπτογραφήσει ή τροποποιήσει.
+vpn-when-to-use-having-a-vpn = Είναι μια καλή ιδέα να έχετε ένα VPN στη διάθεσή σας. Ορίστε μερικές περιπτώσεις που ίσως να σας φανεί χρήσιμο ένα αξιόπιστο VPN και ίσως να μην είχατε σκεφτεί.
 vpn-when-to-use-1-a-walk = 1. Σε μια βόλτα στο πάρκο
 vpn-when-to-use-2-in-the = 2. Στη γειτονιά
 vpn-when-to-use-3-on-the = 3. Εν κινήσει
