@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/what-is-a-browser/
@@ -24,6 +24,7 @@ what-is-a-browser-cookies-not-the = Cookies (όχι το νόστιμο είδο
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
 what-is-a-browser-websites-save = Οι ιστοσελίδες αποθηκεύουν πληροφορίες σχετικά με εσάς σε αρχεία που ονομάζονται <a href="{ $cookies }">cookies</a>. Αποθηκεύονται στον υπολογιστή σας για την επόμενη φορά που θα επισκεφθείτε αυτές τις ιστοσελίδες. Κατά την επιστροφή σας, ο κώδικας τους θα διαβάσει αυτά τα αρχεία για να διαπιστώσει ότι είστε εσείς. Για παράδειγμα, όταν μεταβείτε σε μια σελίδα, αυτή θυμάται τα στοιχεία σύνδεσής σας – αυτό οφείλεται στα cookies.
+what-is-a-browser-there-are-also = Υπάρχουν επίσης cookies που θυμούνται πιο λεπτομερείς πληροφορίες για εσάς. Ίσως τα ενδιαφέροντα, τις διαδικτυακές σας συνήθειες κ.λπ. Αυτό σημαίνει ότι ένας ιστότοπος μπορεί να σας παρέχει πιο στοχευμένο περιεχόμενο – συνήθως με τη μορφή διαφημίσεων. Υπάρχουν τύποι cookies, που ονομάζονται cookies <em>τρίτων</em> και προέρχονται από ιστοτόπους που δεν επισκέπτεστε εκείνη τη στιγμή και μπορούν να σας καταγραφούν από ιστότοπο σε ιστότοπο για να συλλέγουν πληροφορίες σχετικά με εσάς, οι οποίες πωλούνται μερικές φορές σε άλλες εταιρείες. Ορισμένες φορές, μπορείτε να αποκλείσετε αυτά τα cookies, αλλά δεν θα σας το επιτρέπουν όλα τα προγράμματα περιήγησης.
 what-is-a-browser-when-you-go-to = Όταν επισκέπτεστε μια ιστοσελίδα και αυτή αποθηκεύει το όνομα χρήστη και τον κωδικό πρόσβασής σας – αυτό είναι δυνατό χάρη στα cookies.
 what-is-a-browser-understanding = Κατανοώντας το απόρρητο
 what-is-a-browser-firefox-helps = Το { -brand-name-firefox } σάς βοηθά να προστατεύετε το απόρρητό σας αποκλείοντας ιχνηλάτες στο διαδίκτυο.
