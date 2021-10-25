@@ -26,6 +26,9 @@ firefox-products-see-all-browsers = Lihat semua pelayar
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Layari, strim dan selesaikan tugasan anda pada pelayan di lebih 30 negara untuk sambungan internet yang selamat dengan perspektif baru.
 firefox-products-get-mozilla-vpn = Dapatkan { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Lindungi alamat e-mel yang sebenar untuk melindungi peti e-mel anda.
+firefox-products-learn-more-about-relay = Ketahui lebih lanjut tentang { -brand-name-firefox-relay }
 
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
