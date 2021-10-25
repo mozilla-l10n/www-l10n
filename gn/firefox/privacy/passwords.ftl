@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -12,6 +12,7 @@ privacy-passwords-more-and-more-desc = Ko’ẽreíre hetave mba’e ñande reko
 # page content
 privacy-passwords-a-security-guide = Tekorosã rape puruhárape g̃uarã ha ñe’ẽñemi hekosãva
 privacy-passwords-protecting-your-accounts = Ne mba’ete ñemo’ã natekotevẽi hasývo ijejapo — ha { -brand-name-firefox } ne pytyvõkuaa upevarã.
+privacy-passwords-more-and-more = Ára ha ára hetave mba’e ha tuichavéva ñande rekovépe ñamo’ã ñe’ẽñemi mba’etekuéra ñanduti peguápe — jehaipy mborayhugua, ñepohano rehegua, viru ñongatuha ha hetave. Umi ñanduti renda oipuru tembiapo ñepyrũ rape emo’ã hag̃ua mba’e ehayhuvéva. Hetajey, mavave ndoikéi aja ne mba’etépe, ndaikatumo’ãi omoñe’ẽ ne ñandutiveve térã oguenohẽvo viru ne mba’etégui. Ñande rekove oguata ñanduti rupive, ¿mba’éicha ñamo’ãkuaa ñande rerachaukaha?
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = tl;dr:
 privacy-passwords-use-random-passwords = Oipuru ñe’ẽñemi jereguáva ha iñambuéva peteĩteĩva tendápe g̃uarã
