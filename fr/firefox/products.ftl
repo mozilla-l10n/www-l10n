@@ -22,7 +22,11 @@ firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Découvrir les navigateurs
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Surfez, streamez et travaillez sur des serveurs dans plus de 30 pays pour une connexion Internet sécurisée avec une nouvelle perspective.
+firefox-products-get-mozilla-vpn = Installer { -brand-name-mozilla-vpn }
 firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Protégez votre véritable adresse e-mail pour garde le contrôle de votre boîte de réception.
+firefox-products-learn-more-about-relay = En savoir plus sur { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
