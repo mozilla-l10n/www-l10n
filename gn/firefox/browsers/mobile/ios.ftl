@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
@@ -34,3 +34,4 @@ mobile-ios-create-as-many = Emoheñói heta tendayke eipotaháicha okañy’ỹr
 mobile-ios-discover-more-of = Ehechakuaa umi ehecharamovéva
 mobile-ios-open-a-new = Embojuruja tendayke pyahu { -brand-name-firefox }-pe ehecha hag̃ua umi tenda eikeveha, nde rechaukaha ramovegua ha jehapyre ojehechavéva { -brand-name-pocket }-pe. { -brand-name-firefox } ne moinge pya’étava tendakuéra eipururamovévape ne pytyvõ hag̃ua ehekávape.
 mobile-ios-about-mozilla = { -brand-name-mozilla } rehegua
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } iñapysẽ ojapo hag̃ua Ñanduti oipurukuaátava opavave roguerovia rupi ijuruja ha reiguáramo iporãveha oñemboty ha oñemohekochi’ĩrangue. Romoheñói upévare { -brand-name-firefox } ha { -brand-name-pocket } romomba’évo jeporavo, tekosakã ha ñema’ẽmeme.
