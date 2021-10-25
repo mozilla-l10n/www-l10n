@@ -26,6 +26,9 @@ firefox-products-see-all-browsers = عرض كل المتصفّحات
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = تصفّح وشاهد مقاطع الفيديو وأنجز أعمالك على الخوادم في أكثر من 30 دولة لاتصال آمن بالإنترنت بمنظور جديد.
 firefox-products-get-mozilla-vpn = احصل على { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = اِحمِ عنوان بريدك الإلكتروني الحقيقي للمساعدة على التحكّم في صندوق بريدك الوارد.
+firefox-products-learn-more-about-relay = اطَّلِع على المزيد عن { -brand-name-firefox-relay }
 
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
