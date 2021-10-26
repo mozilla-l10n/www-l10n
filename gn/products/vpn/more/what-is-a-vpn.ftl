@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
@@ -35,3 +35,7 @@ vpn-what-is-are-vpns-legal = ¿Hekovoñápiko ko’ã VPNs?
 vpn-what-is-installing-and-using = Emohenda ha eipuru VPN ojepurukuaáva opavave nunga tetãme, oĩhápe avei Estados Unidos, Reino Unido, Canadá ha Nueva Zelanda, hákatu ndahetái tetã ombohape ijepuru. Eiporavóramo peteĩ VPN jepuru, nde ehechava’erã tetãnguéra léi ohecha hag̃ua ijepuru ojokupytýpa pe léi he’iháicha.
 vpn-what-is-are-vpns-only = ¿Umi VPNsha’e mohendahápe g̃uarã añónte?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Ipya’e, hekorosã, jeroviaha
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ha’e mba’epuru ejeroviakuaaha eike meme hag̃ua ñanduti hekorosãvape opaite ne mba’e’oka rupive. Noroñongatúi ne rembiapokue rehegua pyhagua ha ndorojuajúi mbohapyháva ndive omoheñoiségui mba’ete ejapóva guive ñandutípe. Peteĩ jeikove oĩhápe jeikuaa’ỹ ha opavave ndohechakuaáiva…
