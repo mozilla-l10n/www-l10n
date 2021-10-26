@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -50,35 +50,10 @@ manifesto-we-are-committed-to-discourse = Biz; sivil katılımı, insanlık onur
 manifesto-we-are-committed-to-thinking = Biz; eleştirel düşünceye, mantığa dayalı savlara, bilgi paylaşımına ve doğrulanabilir olgulara önem veren bir interneti savunuyoruz.
 manifesto-we-are-committed-to-diverse = Biz, farklılıkları olan topluluk ve grupları ortak bir fayda uğruna birlikte çalışmaya teşvik eden bir interneti savunuyoruz.
 manifesto-show-your-support = Desteğinizi gösterin
-manifesto-an-internet-with-these = Böyle bir internet kendi kendine hayat bulamaz. Bireyler ve kurumlar, özlem duyduğumuz bu nitelikleri hem internet teknolojilerine hem de internetteki insan deneyimine yerleştirmelidir. { -brand-name-mozilla } Manifestosu ve Manifesto Eki, { -brand-name-mozilla }’nın bu nitelikleri hayatına geçirme sözünü temsil ediyor. { -brand-name-mozilla } olarak biz, interneti herkes için daha iyi bir yere dönüştürmek adına, hedeflerimizi paylaşan tüm insanlar ve kurumlarla işbirliği yapmayı amaçlıyoruz.
+manifesto-an-internet-with-these = Böyle bir internet kendi kendine hayat bulamaz. Bireyler ve kurumlar, özlem duyduğumuz bu nitelikleri hem internet teknolojilerine hem de internetteki insan deneyimine yerleştirmelidir. { -brand-name-mozilla } Manifestosu ve Manifesto Eki, { -brand-name-mozilla }’nın bu nitelikleri hayata geçirme sözünü temsil ediyor. { -brand-name-mozilla } olarak biz, interneti herkes için daha iyi bir yere dönüştürmek adına, hedeflerimizi paylaşan tüm insanlar ve kurumlarla işbirliği yapmayı amaçlıyoruz.
 manifesto-i-support-the-vision-of = @mozilla’nın daha güzel, daha sağlıklı internet vizyonunu destekliyorum. Siz de katılmaz mısınız?
 manifesto-share-on-twitter = { -brand-name-twitter }’da paylaş
 manifesto-our-10-principles = <strong>10</strong> ilkemiz
-manifesto-use-open-badges-to-share = Becerilerinizi ve ilgi alanlarınızı paylaşmak için Open Badges’ı kullanın
-manifesto-explore-how-the-web-impacts = Web’in bilimi nasıl etkilediğini görün
-manifesto-learn-about-open-source = Gazetecilikte açık kaynak kodu hakkında daha fazla bilgi alın
-manifesto-read-about-open-internet = Açık internet ilkesi girişimleri ve gelişmeleri hakkında bilgi alın
-manifesto-explore-how-to-help-keep = Web’in açık kalması için nasıl yardım edebileceğinizi keşfedin
-manifesto-see-how-the-web-can-connect = Web’in dünyaya sağlık bakımını nasıl yayabileceğini görün
-manifesto-explore-how-the-web-works = Web’in nasıl çalıştığını keşfedin
-manifesto-see-how-mozilla-works = { -brand-name-mozilla }’nın gizliliğinizi nasıl ilk sıraya koyduğunu görün
-manifesto-read-about-developments = Gizlilik ve veri güvenliği alanındaki gelişmeleri okuyun
-manifesto-learn-more-about-how-to = Kendinizi internette nasıl koruyacağınızı öğrenin
-manifesto-use-these-free-tools-to = Web’i öğretmek için bu bedava araçları kullanın
-manifesto-learn-about-creating-and = Web için içerik oluşturmayı ve derlemeyi öğrenin
-manifesto-add-new-voices-to-open = Açık kaynaklı teknolojilere yeni sesler ekleyin
-manifesto-set-your-do-not-track = Beni İzleme tercihinizi ayarlayın
-manifesto-understand-the-web-ecosystem = Web ekosistemini anlayın
-manifesto-explore-how-open-practices = Açık olmanın web’i nasıl erişilebilir kıldığını keşfedin
-manifesto-learn-how-to-remix-content = Yeni bir şeyler yaratmak için içeriklerle oynamayı öğrenin
-manifesto-learn-how-to-maximize = Web’in etkileşimli potansiyelini nasıl en tepeye çıkaracağınızı öğrenin
-manifesto-participate-in-our-governance = Yönetişim forumumuza katılın
-manifesto-join-us-as-a-volunteer = Gönüllü olarak aramıza katılın
-manifesto-learn-how-to-collaborate = İnternetteki işbirliklerine katılın
-manifesto-visualize-who-you-interact = { -brand-name-lightbeam } sayesinde web ile nasıl etkileşim kurduğunuzu görselleştirin
-manifesto-learn-about-creating-web = Başkalarıyla birlikte web kaynakları yaratmayı öğrenin
-manifesto-host-or-join-a-maker-party = { -brand-name-maker-party } düzenleyin veya bir partiye katılın
-manifesto-learn-how-to-build-online = Çevrimiçi işbirliği becerilerini geliştirmeyi öğrenin
 manifesto-read-the-entire-manifesto = Manifestonun tamamını okuyun
 manifesto-love-the-web = Web’i seviyor musunuz?
 manifesto-get-the-mozilla-newsletter = { -brand-name-mozilla } bültenine üye olarak web’in açıklığını ve özgürlüğünü korumamıza yardım edin.
