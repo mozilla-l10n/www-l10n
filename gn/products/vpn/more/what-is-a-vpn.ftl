@@ -34,6 +34,9 @@ vpn-what-is-while-a-vpn = Peteĩ VPN ome’ẽkuaa jeike ñandutípe tekorosãme
 vpn-what-is-are-vpns-legal = ¿Hekovoñápiko ko’ã VPNs?
 vpn-what-is-installing-and-using = Emohenda ha eipuru VPN ojepurukuaáva opavave nunga tetãme, oĩhápe avei Estados Unidos, Reino Unido, Canadá ha Nueva Zelanda, hákatu ndahetái tetã ombohape ijepuru. Eiporavóramo peteĩ VPN jepuru, nde ehechava’erã tetãnguéra léi ohecha hag̃ua ijepuru ojokupytýpa pe léi he’iháicha.
 vpn-what-is-are-vpns-only = ¿Umi VPNsha’e mohendahápe g̃uarã añónte?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-vpns-can-be = Umi VPNs ojepurukuaa oñemo’ã hag̃ua mba’e’okuéra — mohendaha, mohendaha’i, tabléta ha pumbyry. Eikévo ñandutípe tembipuru’i ijeheguíva rupive kundaháragui okápe, VPN ha’e eipurukuaáva emo’ã hag̃ua tekoñemi ha tekorosã oimeraẽva mba’e’okápe. Emohendava’erã VPN peteĩteĩ mba’e’okápe oiko porã hag̃ua. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ome’ẽ peteĩ jeike hu’ã’ỹva oipurukuaáva po mba’e’oka peve eike vove ñandutípe oimeraẽva tembipuru’i térã kundahára guive.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Ipya’e, hekorosã, jeroviaha
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
