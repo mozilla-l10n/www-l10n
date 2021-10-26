@@ -26,6 +26,9 @@ firefox-products-see-all-browsers = ブラウザー全種を確認
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = 新しい視点を取り入れた安全なインターネット接続。30 か国以上に設置したサーバーでブラウズ、ストリーミング、作業。
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } をダウンロード
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = 本当のメールアドレスを保護して迷惑メールを防止しましょう。
+firefox-products-learn-more-about-relay = { -brand-name-firefox-relay } について詳しく知る
 
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
