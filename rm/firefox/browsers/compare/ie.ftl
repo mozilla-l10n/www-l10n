@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
@@ -18,3 +18,6 @@ compare-ie-here-well-compare-our-firefox = Qua cumparegliain nus noss { -brand-n
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
 compare-ie-if-you-havent-moved-on-from-using = Sche ti n'has betg anc bandunà { -brand-name-ie } duess gia la ristga per la segirezza esser in argument persvadent per far quai. Schizunt <a{ $attrs }>il responsabel per la segirezza da { -brand-name-microsoft } ha avertì</a> milliuns persunas che utiliseschan anc adina { -brand-name-ie } sco lur navigatur principal, ch'els sa mettian en privel.
 compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } na sviluppescha betg pli vinavant { -brand-name-ie }. Quai munta ch'i dat adina dapli problems gravants da segirezza. { -brand-name-microsoft } conceda avertamain ch'i dat mancos da segirezza en praticamain mintga versiun da { -brand-name-ie }.
+# Variables:
+#   $attrs (string) - link to https://support.mozilla.org/kb/legacy-browser-support-extension-windows with additional attributes for analytics
+compare-ie-so-whats-the-solution-if-your = Tge far sche tia interpresa exequescha anc applicaziuns pli veglias che funcziunan mo cun { -brand-name-ie }? Noss cussegl è da betg confunder la fatschenta cun il divertiment. Nus recumandain l'utilisaziun da l'extensiun da <a{ $attrs }>Legacy Browser Support</a> per { -brand-name-windows }. Questa extensiun permetta dad avrir automaticamain tschertas URLs definidas en { -brand-name-ie } e da turnar a { -brand-name-firefox } per navigar en autras domenas.
