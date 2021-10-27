@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -12,8 +12,13 @@ compare-index-six-of-the-best-browsers-fallback = Priame porovnanie šiestich na
 compare-index-privacy-utility-portability = Súkromie. Použiteľnosť. Prenosnosť.
 # HTML page description
 compare-index-a-great-internet-browser-should = Skvelý internetový prehliadač by mal mať funkcie, ktoré potrebujete, prenosnosť medzi zariadeniami a súkromie, ktoré si zaslúžite.
+compare-index-which-browser-is-best-at-keeping = Ktorý prehliadač najlepšie zachováva dôvernosť informácií?
+compare-index-its-not-unreasonable-to-expect = Nie je nerozumné očakávať od produktov, ktoré pravidelne používame na online prístup, vysokú úroveň ochrany údajov a súkromia. Prehliadač by mal prinajmenšom ponúkať nejakú verziu „režimu súkromného prehliadania“, ktorý automaticky vymaže vašu históriu a históriu vyhľadávania, aby k nim ostatní používatelia toho istého počítača nemali prístup. V tejto oblasti boduje všetkých sedem porovnávaných prehliadačov.
+compare-index-its-not-unreasonable-to-expect-fallback = Nie je nerozumné očakávať od produktov, ktoré pravidelne používame na online prístup, vysokú úroveň ochrany údajov a súkromia. Prehliadač by mal prinajmenšom ponúkať nejakú verziu „režimu súkromného prehliadania“, ktorý automaticky vymaže vašu históriu a históriu vyhľadávania, aby k nim ostatní používatelia toho istého počítača nemali prístup. V tejto oblasti boduje všetkých šesť porovnávaných prehliadačov.
 compare-index-what-you-do-online-literally = To, čo robíte na internete je len vaša vec.
+compare-index-another-browser-feature-that = Ďalšou funkciou prehliadača, ktorá by mala byť samozrejmosťou, je schopnosť zabrániť webovým stránkam a spoločnostiam sledovať vaše údaje o prehliadaní a nakupovaní – dokonca aj v normálnom režime prehliadania.
 compare-index-another-browser-feature-fallback = Ďalšia funkcia, ktorú by mal obsahovať každý prehliadač je schopnosť zabrániť stránkam a spoločnostiam v zbieraní údajov o tom, aké stránky navštevujete alebo čo nakupujete - aj v normálnom režime prehliadania. V skutočnosti to tak nie je: jediné prehliadače, ktoré predvolene blokujú sledovacie cookies tretích strán sú { -brand-name-firefox } a { -brand-name-safari }.
+compare-index-using-a-browser-that-blocks = Používanie prehliadača, ktorý blokuje sledovače tretích strán, nie je dôležité len pre súkromie – zvyčajne to znamená, že beží oveľa rýchlejšie. Väčšina sledovačov sú len skripty, ktoré bežia na pozadí na mnohých webových stránkach. Nevidíte ich, ale cítite, že spomaľujú váš prehliadač. Od verzie 67 prehliadač { -brand-name-firefox } blokuje aj odtlačky prehliadača a ťažbu kryptomien. Ak nie ste oboznámení s ťažbou kryptomien, tu je príklad toho, ako vás môžu ovplyvniť: možno ste zažili, že sa váš počítač náhle zahrieval alebo sa batéria vybíjala rýchlejšie ako zvyčajne. To je často vedľajší efekt ťažby kryptomeny, ktorá prebieha na vašom zariadení.
 compare-index-what-has-your-browser-done = Čo pre vás prehliadač v poslednej dobe urobil?
 compare-index-how-well-does-your-browser = Ako dobre funguje váš prehliadač na všetkých vašich zariadeniach?
 compare-index-almost-all-of-the-browsers = Takmer všetky tu porovnávané prehliadače umožňujú synchronizáciu medzi počítačom a smartfónom. Stačí vám účet, ktorý použijete na prihlásenie do zariadení, ktoré chcete synchronizovať a o stálu dostupnosť hesiel, histórie prehliadania, záložiek a nastavení je postarané.
