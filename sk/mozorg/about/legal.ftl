@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/legal/
@@ -10,15 +10,21 @@ legal-get-involved = Zapojte sa
 legal-protect-the-fox = Ochraňujte líšku
 legal-takedown-requests = Požiadavky na odstránenie
 legal-back-to-legal = Naspäť na právne informácie
+legal-special-thanks-to-all-of-you = Osobitné poďakovanie patrí vám všetkým, ktorí pomáhate nahlasovať zneužívanie ochranných známok { -brand-name-mozilla(case: "gen") }, zúčastňujete sa fór o riadení, poskytujete spätnú väzbu na naše lokalizácie a právne podmienky a prispievate svojimi schopnosťami k úspechu projektu { -brand-name-mozilla }.
 legal-terms = Podmienky používania
 legal-our-websites = Naše webové stránky
+legal-firefox-services = Služby { -brand-name-firefox(case: "gen") }
 legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = Súkromie a ochranné známky
 legal-privacy-notices-and-policy = Zásady ochrany súkromia
+legal-downloadable-software-notices = Oznámenia o softvéri na stiahnutie
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: O vašich právach
 legal-thunderbird = { -brand-name-thunderbird }
 legal-thunderbird-rights = { -brand-name-thunderbird }: O vašich právach
+legal-websites-and-communications = Podmienky používania webových stránok a komunikácie
+legal-acceptable-use-policy = Zásady prijateľného používania
+legal-firefox-cloud-services = Cloudové služby { -brand-name-firefox(case: "gen") }: Zmluvné podmienky
 legal-firefox-better-web = { -brand-name-firefox-better-web }
 legal-firefox-better-web-terms = Podmienky používania služby { -brand-name-firefox-better-web }
 legal-firefox-light-rights = { -brand-name-firefox-lite }: O vašich právach

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -51,6 +51,11 @@ vpn-landing-faq-uses-encrypt = Šifruje spojenie medzi vami a vašim poskytovate
 vpn-landing-faq-uses-examples = Pozrite si <a href="{ $url }">5 príkladov z reálneho života</a>, v ktorých by ste mali používať VPN.
 vpn-landing-faq-info-question-heading = Aké informácie { -brand-name-mozilla-vpn } uchováva?
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Prísne dodržiavame <a href="{ $principles }">princípy ochrany osobných údajov</a> spoločnosti { -brand-name-mozilla } a zhromažďujeme údaje potrebné na udržanie prevádzkyschopnosti VPN a na zlepšovanie produktu v priebehu času. V našej mobilnej aplikácii sledujeme aj údaje o kampaniach a odporúčaniach, aby sme pomohli { -brand-name-mozilla(case: "dat") } pochopiť efektivitu našich marketingových kampaní. Ďalšie informácie nájdete v našom <a href="{ $notice }">Oznámení o ochrane osobných údajov</a>.
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Vašu aktivitu nezaznamenávame, nesledujeme a ani ju s nikým nezdieľame. Striktne sa riadime <a href="{ $url }">princípmi súkromia</a> { -brand-name-mozilla } a zbierame len údaje, ktoré potrebujeme k zachovaniu fungovania VPN a k budúcemu vylepšovaniu nášho produktu.
 vpn-landing-faq-protected-question-heading = Ako je chránené moje súkromie?
@@ -60,7 +65,11 @@ vpn-landing-faq-protected-question-heading = Ako je chránené moje súkromie?
 vpn-landing-faq-protected-question-desc = Protokol <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® šifruje vašu aktivitu a chráni vaše údaje. V porovnaní s existujúcimi protokolmi je kód { -brand-name-wireguard }u jednoduchší na kontrolu zabezpečenia bezpečnostnými analytikmi - čo z neho robí bezpečnejšiu možnosť pre VPN. Naviac sú vaše aktivity anonymné preto, lebo nezaznamenávame, nesledujeme a nezdieľame vaše údaje.
 vpn-landing-faq-competition-question-heading = Ako je na tom { -brand-name-mozilla-vpn } v porovnaní s konkurenciou?
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Aj keď sa bezplatné siete VPN zdajú atraktívne, nezaväzujú sa k ochrane súkromia ako { -brand-name-mozilla-vpn }. Iné siete VPN nemajú viac ako 20-ročné <a href="{ $url }">skúsenosti</a> spoločnosti { -brand-name-mozilla } pri vytváraní produktov, ktoré kladú ľudí a súkromie na prvé miesto.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Aj keď VPN zdarma pôsobia lákavo, neriadia sa rovnakými zásadami súkromia ako my v { -brand-name-mozilla-vpn } a môžu predávať vaše údaje. Ostatné platené VPN nemajú za sebou 20 rokov <a href="{ $url }">skúseností</a> pri tvorbe produktov, ktoré kladú na prvé miesto ľudí a súkromie, ako { -brand-name-mozilla }.
 vpn-landing-faq-compatibility-question-heading = S akými zariadeniami je { -brand-name-mozilla-vpn } kompatibilné?
 # Variables:

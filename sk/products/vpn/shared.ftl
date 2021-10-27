@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -10,10 +10,8 @@ vpn-shared-subscribe-link = Získajte { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Pridať sa na zoznam čakateľov
 vpn-shared-sign-in-link = Už máte predplatné?
 # Outdated string
-vpn-shared-available-countries = { -brand-name-mozilla-vpn } je v súčasnosti k dispozícii v USA, Spojenom kráľovstve, Kanade, Singapure, Malajzii a na Novom Zélande.
-# Outdated string
-vpn-shared-available-countries-v2 = { -brand-name-mozilla-vpn } je v súčasnosti k dispozícii v USA, Spojenom kráľovstve, Nemecku, Francúzsku, Kanade, Singapure, Malajzii a na Novom Zélande.
 vpn-shared-available-countries-v3 = { -brand-name-mozilla-vpn } je v súčasnosti k dispozícii v USA, Kanade, Spojenom kráľovstve, Nemecku, Francúzsku, Taliansku, Španielsku, Belgicku, Rakúsku, Švajčiarsku, Malajzii, Singapure a na Novom Zélande.
+vpn-shared-available-countries-v4 = V súčasnosti ponúkame { -brand-name-mozilla-vpn } v Rakúsku, Belgicku, Kanade, Francúzsku, Nemecku, Írsku, Taliansku, Malajzii, Holandsku, Novom Zélande, Singapure, Španielsku, Švajčiarsku, Spojenom kráľovstve a USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 dňová záruka vrátenia peňazí
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -66,10 +64,19 @@ vpn-shared-pricing-variable-heading-v2 = Vyberte si plán predplatného, ktorý 
 vpn-shared-pricing-variable-heading = Vyberte si plán, ktorý vám vyhovuje
 vpn-shared-pricing-variable-sub-heading = Všetky naše plány zahŕňajú:
 vpn-shared-pricing-recommended-offer = Odporúčané
+vpn-shared-pricing-plan-6-month = 6 mesiacov
+vpn-shared-pricing-plan-12-month = 12 mesiacov
 vpn-shared-pricing-plan-monthly = Mesačne
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span> mesačne</span>
+# Outdated string
+vpn-shared-pricing-get-6-month = Získajte 6-mesačný plán
+# Outdated string
+vpn-shared-pricing-get-12-month = Získajte 12-mesačný plán
+vpn-shared-pricing-get-6-month-v2 = Získajte 6-mesačný plán
+vpn-shared-pricing-get-12-month-v2 = Získajte 12-mesačný plán
+vpn-shared-pricing-get-monthly = Získajte mesačný plán
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Ušetríte { $percent } %
