@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Prevezmite si { -brand-name-firefox } pre svoj podnik - { -brand-name-esr } alebo klasickú verziu
 firefox-enterprise-get-unmatched-data-protection = Získajte bezkonkurenčnú ochranu údajov pri kadencii vydania, ktorá vám vyhovuje s prehliadačom { -brand-name-firefox } pre podniky. Vyberte si { -brand-name-esr } alebo klasickú verziu.
-firefox-enterprise-enterprise = Podniky
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Prehľad
 firefox-enterprise-downloads = Stiahnuť
 firefox-enterprise-get-firefox-for-your-enterprise = Prevezmite si { -brand-name-firefox } pre svoj podnik
@@ -22,7 +22,7 @@ firefox-enterprise-deploy-when-and-how-you-want = Nastavte ho podľa seba
 firefox-enterprise-with-install-packages-and = Pomocou inštalačných balíčkov a širokej ponuke pravidiel a funkcií je nastavenie rýchlejšie a flexibilnejšie než kedykoľvek predtým. Jednoduché nasadenie vo { -brand-name-windows }e aj { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Vyberte si, ako často chcete dostávať nové funkcie
 firefox-enterprise-get-rapid-releases-to-make = Klasická verzia zaručuje najnovšie funkcie, verzia s rozšírenou podporou garantuje stabilitu.
-firefox-enterprise-enterprise-downloads = Verzie pre podniky
+firefox-enterprise-enterprise-downloads = Na stiahnutie pre { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Vyberte si svoju verziu
