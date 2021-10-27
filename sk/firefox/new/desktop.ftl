@@ -1,13 +1,24 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Stiahnite si { -brand-name-firefox-browser } – rýchly, súkromný a voľne dostupný – od { -brand-name-mozilla(case: "gen") }
+firefox-desktop-download-meta-desc = Získajte { -brand-name-firefox }, bezplatný webový prehliadač podporovaný { -brand-name-mozilla(case: "ins") }, neziskovou organizáciou, ktorá sa venuje zdraviu a súkromiu na internete. K dispozícii pre operačné systémy { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
 firefox-desktop-download-og-title = Stiahnite si ten najrýchlejší { -brand-name-firefox } vôbec
 firefox-desktop-download-og-desc = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } je tu.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = Získajte prehliadač, ktorý chráni to, čo je dôležité
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Žiadne zahmlievacie pravidlá ochrany osobných údajov ani zadné vrátka pre inzerentov. Len bleskovo rýchly prehliadač, ktorý vás nepredáva.
+firefox-desktop-download-download-options = Možnosti sťahovania a iné jazyky
+firefox-desktop-download-browser-support = Podpora pre { -brand-name-firefox-browser(capitalization: "lower") }
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
@@ -25,6 +36,9 @@ firefox-desktop-download-primary-password = Hlavné heslo
 firefox-desktop-download-master-password = Hlavné heslo
 firefox-desktop-download-see-your-report = Pozrite sa na hlásenie o ochrane vášho súkromia
 firefox-desktop-download-for-everyone = { -brand-name-firefox } je pre všetkých
+firefox-desktop-download-review-system-req = Pozrite si systémové požiadavky
+firefox-desktop-download-all-your-devices = Nainštalujte si { -brand-name-firefox } na všetky svoje zariadenia
+firefox-desktop-download-search-smarter = Hľadajte inteligentnejšie a rýchlejšie
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Obraz v obraze
 firefox-desktop-download-your-privacy-comes = Vaše súkromie je na prvom mieste
@@ -49,6 +63,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Používate nezabezp
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Sťahovanie by malo začať automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Skúste to znova</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je viac ako prehliadač.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Vaše sťahovanie bolo prerušené. Nič však nie je stratené.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
