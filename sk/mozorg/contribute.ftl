@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/contribute/
@@ -10,6 +10,7 @@
 
 contribute-page-title = Dobrovoľníctvo v { -brand-name-mozilla(case: "loc") }
 contribute-page-heading = Váš talent pomôže vybudovať lepší internet
+contribute-page-intro = { -brand-name-mozilla } je nezisková organizácia, ktorá sa snaží zabezpečiť, aby bol internet otvorený a ústretový pre všetkých. A potrebujeme vašu pomoc. Pripojením sa k našej komunite môžete prispieť k inovácii, zvýšiť zodpovednosť a dôveru a urobiť internet lepším miestom pre každého.
 contribute-how-heading = Ako sa môžete zapojiť…
 
 ## Contribution tasks
