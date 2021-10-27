@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/
@@ -18,13 +18,14 @@ firefox-home-keep-your-passwords = Majte svoje heslá v bezpečí na každom zar
 firefox-home-learn-more-about-lockwise = Ďalšie informácie o { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Získajte <strong>rešpekt</strong>, ktorý si zaslúžite
-firefox-home-every-single-firefox = Zaväzujeme sa, že nezneužijeme vaše údaje. <strong>Menej dát je niekedy viac. Udržiavame ich v bezpečí a nemáme pred vami žiadne tajomstvá.</strong>
+firefox-home-every-single-firefox = Každý jeden produkt { -brand-name-firefox(case: "gen") } rešpektuje náš prísľub týkajúci sa osobných údajov: <strong>Berte menej. Udržujte to v bezpečí. Žiadne tajomstvá.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Zdieľajte súbory bez toho, aby vás niekto sledoval
 # Obsolete string
 firefox-home-start-sending-files = Odosielajte súbory bezpečne
 firefox-home-trade-clickbait-for = Vymeňte clickbait za kvalitný obsah
 firefox-home-learn-more-about-pocket = Ďalšie informácie o { -brand-name-pocket }e
+firefox-home-protection-for-your-whole = Ochrana pre celé vaše zariadenie, na každom zariadení.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Jedno prihlásenie. Všetky vaše zariadenia. Skupina produktov, ktoré rešpektujú vaše <strong>súkromie</strong>.
 firefox-home-join-firefox = Prihláste sa do { -brand-name-firefox(case: "dat") }

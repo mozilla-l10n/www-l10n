@@ -1,11 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Stiahnuť { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
+navigation-v2-get-mozilla-vpn = Získajte { -brand-name-mozilla-vpn }
 navigation-v2-menu = Ponuka
+# Obsolete string
+navigation-v2-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
 
 ## Firefox menu
 
@@ -17,6 +19,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } pre { -brand-name-an
 navigation-v2-get-the-customizable-mobile = Prevezmite si prispôsobiteľný mobilný prehliadač pre telefóny s { -brand-name-android(case: "ins") }
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pre { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Prevezmite si prehliadač pre svoj { -brand-name-iphone } alebo { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Jednoducho súkromné mobilné prehliadanie.
 navigation-v2-privacy-promise = Prísľub ohľadom súkromia
 navigation-v2-learn-how-firefox-treats = Pozrite sa, ako { -brand-name-firefox } zaobchádza s vašimi údajmi.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
