@@ -90,7 +90,19 @@ firefox-desktop-download-library-of-extensions = Knižnica rozšírení
 firefox-desktop-download-adjust-search-bar = Upravenie nastavení vyhľadávacieho panela
 firefox-desktop-download-change-new-tab = Zmena rozloženia novej karty
 firefox-desktop-download-make-firefox-your = Prispôsobte si <strong>{ -brand-name-firefox }</strong> podľa seba
+firefox-desktop-download-extensions-for-every = Rozšírenia pre každý záujem
+firefox-desktop-download-change-up-your = Zmeňte si vzhľad
+firefox-desktop-download-go-from-light = Prejdite zo svetlého režimu do tmavého režimu v závislosti od vašej nálady alebo preferencií alebo oživte veci pomocou vlastnej témy (napríklad dúhového jednorožca).
+firefox-desktop-download-tweak-your-settings = Upravte nastavenia
+firefox-desktop-download-theres-no-need = Nie je potrebné si zvykať. Zmeňte si stránku novej karty, vyhľadávací panel, záložky a ďalšie, aby ste mohli objavovať internet tak, ako chcete.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = S podporou <strong>neziskovej organizácie</strong>, ktorá kladie ľudí na prvé miesto
+firefox-desktop-download-challenging-the-status = Výzva súčasného stavu od roku 1998
 firefox-desktop-download-your-privacy-comes = Vaše súkromie je na prvom mieste
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Ponechajte si všetky svoje obľúbené funkcie prehliadača – a <strong>objavte</strong> nové.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Všetky vaše obľúbené nástroje { -brand-name-google } (ako Gmail a Dokumenty) fungujú v { -brand-name-firefox-browser(capitalization: "lower", case: "loc") } bez problémov.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
