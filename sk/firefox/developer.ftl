@@ -81,5 +81,7 @@ firefox-developer-this-isnt-just-an-update = Toto nie je iba aktualizácia. Toto
 firefox-developer-welcome-to-firefox-browser = Víta vás { -brand-name-firefox-browser(capitalization: "lower") } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Prehliadač vytvorený pre vývojárov
 firefox-developer-all-the-latest = Všetky najnovšie nástroje pre vývojárov v beta verzii plus <strong>experimentálne funkcie</strong>, ako je viacriadkový editor v konzole a WebSocket Inspector.
+firefox-developer-a-separate-profile = <strong>Samostatný profil a cesta</strong>, takže ho môžete jednoducho spustiť spolu s klasickým vydaním alebo s verziou { -brand-name-firefox } { -brand-name-beta }.
+firefox-developer-preferences-tailored = Predvoľby <strong>prispôsobené webovým vývojárom</strong>: prehliadač a vzdialené ladenie sú predvolene povolené, rovnako ako tmavá téma a tlačidlo pre vývojárov na paneli s nástrojmi.
 firefox-developer-congrats-you-now-have = Gratulujeme. Odteraz máte { -brand-name-firefox-browser(capitalization: "lower") } { -brand-name-developer-edition }.
 firefox-developer-congrats-you-now-have-latest = Gratulujeme. Teraz máte najnovšiu verziu { -brand-name-firefox-browser(capitalization: "lower", case: "gen") } { -brand-name-developer-edition }.
