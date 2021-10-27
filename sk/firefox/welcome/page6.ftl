@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/6/
@@ -9,8 +9,8 @@
 welcome-page6-make-firefox-your-default = Nastavte si { -brand-name-firefox } ako predvolený prehliadač
 welcome-page6-make-sure-youre-protected = Uistite sa, že ste chránení, zakaždým, keď sa pripojíte k internetu
 welcome-page6-when-you-choose-firefox-you = Tým, že si vyberiete { -brand-name-firefox }, podporujete lepší web pre vás a pre všetkých ostatných. Teraz urobte ďalší krok, aby ste sa chránili.
-welcome-page6-get-the-firefox-app = Prevziať { -brand-name-firefox }
-welcome-page6-get-firefox-on-your-phone = Prevziať { -brand-name-firefox } pre telefón
+welcome-page6-get-the-firefox-app = Získajte aplikáciu { -brand-name-firefox }
+welcome-page6-get-firefox-on-your-phone = Získajte { -brand-name-firefox } pre telefón
 welcome-page6-scan-the-qr-code-to-get-started = Naskenujte QR kód a začnite
 welcome-page6-qr-code-to-scan-for-firefox = QR kód pre naskenovanie vo { -brand-name-firefox(case: "loc") }
 welcome-page6-choose-automatic-privacy = Vyberte si automatické súkromie

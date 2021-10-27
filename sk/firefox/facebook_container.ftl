@@ -15,10 +15,10 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-facebook-container-visit-to-get-for-desktop = Na stránke <a href="{ $url }">{ $link_copy }</a> si môžete prevziať { -brand-name-firefox } pre počítače.
+facebook-container-visit-to-get-for-desktop = Na stránke <a href="{ $url }">{ $link_copy }</a> si môžete stiahnuť { -brand-name-firefox } pre počítače.
 # Outdated string
 facebook-container-the-facebook-container-extension = Rozšírenie { -brand-name-facebook-container } nie je dostupné pre mobilné zariadenia.
-facebook-container-get-firefox-android-ios = Prevezmite si { -brand-name-firefox } pre { -brand-name-android } a { -brand-name-ios }.
+facebook-container-get-firefox-android-ios = Získajte { -brand-name-firefox } pre { -brand-name-android } a { -brand-name-ios }.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Vyskúšajte <strong>{ -brand-name-firefox-focus }</strong>, súkromný prehliadač pre { -brand-name-android } a { -brand-name-ios }.

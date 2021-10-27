@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -9,11 +9,11 @@ firefox-mobile-download-the-firefox-browser = Stiahnite si { -brand-name-firefox
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } pre mobily blokuje v predvolenom nastavení viac ako 2 000 sledovacích prvkov, čím vám poskytuje súkromie, ktoré si zaslúžite a rýchlosť, ktorú potrebujete.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
-firefox-mobile-get-the-mobile-browser-built = Prevezmite si mobilný prehliadač vytvorený pre vás, nie pre inzerentov
+firefox-mobile-get-the-mobile-browser-built = Získajte mobilný prehliadač vytvorený pre vás, nie pre inzerentov
 firefox-mobile-check-out-firefox-again-its = Vyskúšajte { -brand-name-firefox }. Je rýchly, poskytuje súkromie a je na vašej strane. Pre { -brand-name-ios } a { -brand-name-android }.
 firefox-mobile-get-automatic-privacy-on-mobile = Získajte súkromie v mobile - automaticky
 firefox-mobile-super-fast-private-by-default = Neuveriteľne rýchly. Súkromie v predvolenom nastavení. Blokuje viac ako 2 000 sledovacích prvkov.
-firefox-mobile-get-firefox-mobile = Prevezmite si { -brand-name-firefox } pre mobily
+firefox-mobile-get-firefox-mobile = Získajte { -brand-name-firefox } pre mobily
 firefox-mobile-block-online-trackers-and = Blokujte sledovacie prvky a invazívne reklamy
 firefox-mobile-privacy-protection-by-default = Ochrana súkromia v predvolenom nastavení
 # Variables:

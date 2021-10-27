@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Stiahnuť { -brand-name-firefox }
 navigation-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
@@ -30,7 +30,7 @@ navigation-learn-how-firefox-treats = Pozrite sa, ako { -brand-name-firefox } za
 navigation-mozilla-careers = Práca v { -brand-name-mozilla(case: "loc") }
 navigation-approach-your-career = Kariéra v { -brand-name-mozilla(case: "loc") } je zmysluplná. Pozrite sa na pracovné ponuky.
 navigation-close-firefox-menu = Zavrieť ponuku { -brand-name-firefox(case: "gen") }
-navigation-get-the-browser-that-gives = Prevezmite si prehliadač, ktorý vám dáva kontrolu. K dispozícii pre { -brand-name-windows }, { -brand-name-mac } či { -brand-name-linux }.
+navigation-get-the-browser-that-gives = Získajte prehliadač, ktorý vám dáva kontrolu. K dispozícii pre { -brand-name-windows }, { -brand-name-mac } či { -brand-name-linux }.
 navigation-take-firefox-and-firefox = Vezmite si { -brand-name-firefox } a { -brand-name-firefox-focus } so sebou. Pre { -brand-name-android } a { -brand-name-ios }.
 navigation-get-firefox = Získajte { -brand-name-firefox }
 navigation-get-firefox-focus = Získajte { -brand-name-firefox-focus }

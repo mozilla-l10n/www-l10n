@@ -5,15 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-get-firefox-for-your-enterprise-with = Prevezmite si { -brand-name-firefox } pre svoj podnik - { -brand-name-esr } alebo klasickú verziu
+firefox-enterprise-get-firefox-for-your-enterprise-with = Získajte { -brand-name-firefox } pre svoj podnik - { -brand-name-esr } alebo klasickú verziu
 firefox-enterprise-get-unmatched-data-protection = Získajte bezkonkurenčnú ochranu údajov pri kadencii vydania, ktorá vám vyhovuje s prehliadačom { -brand-name-firefox } pre podniky. Vyberte si { -brand-name-esr } alebo klasickú verziu.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Prehľad
 firefox-enterprise-downloads = Stiahnuť
-firefox-enterprise-get-firefox-for-your-enterprise = Prevezmite si { -brand-name-firefox } pre svoj podnik
+firefox-enterprise-get-firefox-for-your-enterprise = Získajte { -brand-name-firefox } pre svoj podnik
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Prevezmite si <a href="{ $url }">Firefox s rozšírenou podporou alebo klasickú verziu</a> - ochráni a zabezpečí vaše údaje.
+firefox-enterprise-get-the-firefox-extended-support = Získajte prehliadač <a href="{ $url }">{ -brand-name-firefox-extended-support-release } alebo jeho štandardnú veziu</a> na komplexné zabezpečenie a ochranu údajov.
 firefox-enterprise-unmatched-data-protection = Čas vydávania nových verzií, ktorý vyhovuje vášmu podniku
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = Prehliadač { -brand-name-firefox } je open source a obsahuje rozšírenú ochranu pred sledovaním - to všetko je súčasť nášho záväzku týkajúceho sa ochrany údajov.
@@ -45,4 +45,4 @@ firefox-enterprise-pkg-installer = PKG inštalátor
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
-firefox-enterprise-download-firefox-esr-or-rapid = Prevezmite si Firefox <br><a href="{ $firefox_all }">v inom jazyku alebo pre inú platformu.</a>
+firefox-enterprise-download-firefox-esr-or-rapid = Stiahnite si { -brand-name-firefox-esr } alebo štandardnú verziu pre<br> <a href="{ $firefox_all }">iný jazyk alebo platformu.</a>

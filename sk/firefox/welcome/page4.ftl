@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
@@ -11,8 +11,8 @@ welcome-page4-wallet-keys-phone-firefox = Peňaženka. Kľúče. Telefón. <stro
 welcome-page4-privacy-every-screen-now = Súkromie na každej obrazovke
 welcome-page4-take-privacy-with-you-on-every = Vezmite si súkromie so sebou - a sledovacie prvky nechajte za sebou.
 welcome-page4-privacy-on-by-default = Vo { -brand-name-firefox(case: "loc") } pre { -brand-name-android(case: "acc") } je súkromie predvoleným nastavením - a odteraz si môžete nastaviť { -brand-name-firefox(case: "acc") } ako svoj predvolený prehliadač na { -brand-name-ios(case: "acc") } 14.
-welcome-page4-get-the-firefox-mobile = Prevezmite si { -brand-name-firefox } pre mobily
-welcome-page4-get-firefox-on-your-phone = Prevziať { -brand-name-firefox } pre telefón
+welcome-page4-get-the-firefox-mobile = Získajte { -brand-name-firefox } pre mobily
+welcome-page4-get-firefox-on-your-phone = Získajte { -brand-name-firefox } pre telefón
 welcome-page4-send-the-download-link-right = Odkaz na stiahnutie si môžete poslať priamo do telefónu alebo na e-mail.
 welcome-page4-download-firefox-for-your = Stiahnite si { -brand-name-firefox } pre svoj smartfón a tablet.
 welcome-page4-firefox-private-safe-browser = „{ -brand-name-firefox }“ pre { -brand-name-ios } alebo { -brand-name-android }.

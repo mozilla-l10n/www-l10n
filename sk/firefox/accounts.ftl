@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -27,7 +27,7 @@ firefox-accounts-already-have-an-account = Máte už účet?
 firefox-accounts-sign-in = Prihláste sa
 firefox-accounts-meet-our-family-of = Spoznajte náš rad produktov zameraných na súkromie.
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } je technológia, ktorá bojuje za vás.
-firefox-accounts-get-technology-that = Prevezmite si technológiu, ktorá bojuje za vás.
+firefox-accounts-get-technology-that = Získajte technológiu, ktorá bojuje za vás.
 firefox-accounts-travel-the-internet = Surfujte na internete bezpečne - na každom zariadení.
 # Obsolete string
 firefox-accounts-keep-your-passwords = Majte svoje heslá chránené a vždy so sebou.
