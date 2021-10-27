@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Pod 
 facebook-container-get-the-facebook-container = Získajte rozšírenie { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Stiahnite si { -brand-name-firefox } a získajte rozšírenie { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Doplnok { -brand-name-facebook-container } je v súčasnosti dostupný len vo { -brand-name-firefox(case: "loc") } pre počítače.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

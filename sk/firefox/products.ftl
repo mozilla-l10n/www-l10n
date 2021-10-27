@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -22,7 +22,11 @@ firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Zobraziť všetky prehliadače
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Prehliadajte, streamujte a pracujte na serveroch vo viac ako 30 krajinách pre bezpečné internetové pripojenie s novou perspektívou.
 firefox-products-get-mozilla-vpn = Získajte { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Chráňte svoju skutočnú e-mailovú adresu, aby ste mali svoju doručenú poštu pod kontrolou.
+firefox-products-learn-more-about-relay = Ďalšie informácie o službe { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string

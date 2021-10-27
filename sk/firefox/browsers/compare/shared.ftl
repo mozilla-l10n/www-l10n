@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = Blokovanie sledovacích coo
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Blokovanie sledovacích cookies tretích strán
 compare-shared-blocks-cryptomining-scripts = Blokovanie ťažby kryptomien
+compare-shared-blocks-fingerprinting-scripts = Blokuje skripty na vytváranie odtlačkov prehliadača
 compare-shared-blocks-social-trackers = Blokovanie sledovacích prvkov sociálnych sietí
+compare-shared-dashboard-to-review = Informačný panel na kontrolu zablokovaných sledovačov
 compare-shared-autoplay-blocking = Blokovanie automatického prehrávania
 compare-shared-tab-browsing = Prehliadanie na kartách
 compare-shared-bookmark-manager = Správa záložiek
 compare-shared-automatically-fills-out-forms = Automatické dopĺňanie formulárov
+compare-shared-automatically-fills-out-payments = Automatické vypĺňanie platieb
 compare-shared-search-engine-options = Nastavenia vyhľadávacieho modulu
 compare-shared-text-to-speech = Prevod textu na reč
 compare-shared-reader-mode = Režim Čítačka
