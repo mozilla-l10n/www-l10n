@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Todos los idiomas
 sub-navigation-firefox = { -brand-name-firefox }
@@ -11,6 +11,7 @@ sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = Comparar navegadores
+sub-navigation-compare-mobile-browsers = Comparar navegadores móviles
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } para escritorio
 sub-navigation-release-notes = Notas de la versión
 sub-navigation-desktop = Escritorio
