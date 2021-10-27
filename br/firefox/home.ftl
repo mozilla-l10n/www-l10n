@@ -1,11 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } - Gwarezit ho puhez enlinenn gant produioù prevezded-da-gentañ
+# Obsolete string
+firefox-home-learn-more-about-lockwise = Gouzout hiroc’h diwar-benn { -brand-name-lockwise }
+firefox-home-learn-more-about-pocket = Gouzout hiroc’h diwar-benn { -brand-name-pocket }
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
