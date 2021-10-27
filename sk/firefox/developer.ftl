@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
@@ -80,4 +80,6 @@ firefox-developer-congrats-you-now-have-firefox = Gratulujeme. Odteraz máte { -
 firefox-developer-this-isnt-just-an-update = Toto nie je iba aktualizácia. Toto je { -brand-name-firefox-quantum } - úplne nový { -brand-name-firefox }, ktorý bol od základov prerobený tak, aby bol rýchlejší, svižnejší a výkonnejší než kedykoľvek predtým.
 firefox-developer-welcome-to-firefox-browser = Víta vás { -brand-name-firefox-browser(capitalization: "lower") } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Prehliadač vytvorený pre vývojárov
+firefox-developer-all-the-latest = Všetky najnovšie nástroje pre vývojárov v beta verzii plus <strong>experimentálne funkcie</strong>, ako je viacriadkový editor v konzole a WebSocket Inspector.
 firefox-developer-congrats-you-now-have = Gratulujeme. Odteraz máte { -brand-name-firefox-browser(capitalization: "lower") } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Gratulujeme. Teraz máte najnovšiu verziu { -brand-name-firefox-browser(capitalization: "lower", case: "gen") } { -brand-name-developer-edition }.

@@ -122,6 +122,21 @@ firefox-desktop-download-learn-about-the = Nižšie nájdete informácie o prehl
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Od zabezpečenia cez správy až po hry, existuje <a { $attrs }>rozšírenie pre každého</a>. Pridajte ich koľko chcete, kým váš prehliadač nebude vedieť všetko, čo potrebujete.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } bol vytvorený <a { $attrs }>{ -brand-name-mozilla(case: "ins") }</a> ako rýchlejšia a súkromnejšia alternatíva k prehliadačom ako { -brand-name-ie } a teraz { -brand-name-chrome }. Dnes naša spoločnosť riadená poslaním v spojení s komunitou dobrovoľníkov naďalej uprednostňujú vaše súkromie.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Ako sa internet rozrastá a mení, { -brand-name-firefox } sa naďalej zameriava na vaše právo na súkromie – nazývame to <a { $attrs }>sľub týkajúci sa osobných údajov</a>: Berte menej. Udržujte v bezpečí. Žiadne tajomstvá. Vaše údaje, vaša webová aktivita, váš život online sú chránené vďaka { -brand-name-firefox(case: "dat") }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je k dispozícii na všetkých vašich zariadeniach. Vezmite si so sebou karty, históriu a záložky. Všetko, čo potrebujete, je <a { $attrs }>účet { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Získajte obrázok čohokoľvek online vo vysokom rozlíšení pomocou nášho nástroja <a { $attrs }>snímky obrazovky</a> zabudovaného priamo v prehliadači
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automaticky <a { $attrs }>blokuje mnoho sledovačov tretích strán</a> od zhromažďovania a predaja vašej webovej aktivity.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Podpora pre { -brand-name-mozilla }</a> vám pomôže.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
@@ -133,7 +148,24 @@ firefox-desktop-download-just-download-the-browser = Stiahnite si prehliadač
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Takmer hotovo!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Teraz dokončite <strong>inštaláciu</strong> { -brand-name-firefox(case: "gen") }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Teraz <strong>spustite</strong> inštalačný program, ktorý sa práve stiahol.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Teraz <strong>otvorte</strong> súbor, ktorý ste práve prevzali.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Mať problémy? <a { $attrs }>Získajte pomoc s inštaláciou</a>.
+firefox-desktop-download-in-another-language = Stiahnutie v inom jazyku alebo pre iný operačný systém.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Ak sa zobrazí výzva s informáciou, že aplikácia, ktorú sa pokúšate nainštalovať, nie je overená spoločnosťou { -brand-name-microsoft }, kliknite na tlačidlo „Aj tak nainštalovať“ alebo <a { $attrs }>zmeňte nastavenia odporúčaní aplikácií</a >.
+firefox-desktop-download-visit-support-for-more = Ďalšie podrobnosti nájdete na stránke podpory
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = Aj keď môžete { -brand-name-firefox } naďalej používať, { -brand-name-mozilla } už pre { -brand-name-windows } { -brand-name-xp } ani { -brand-name-vista } <a href="{ $url }">nebude vydávať bezpečnostné aktualizácie</a>.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
