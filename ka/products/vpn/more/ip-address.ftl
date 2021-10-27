@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
@@ -38,6 +38,12 @@ vpn-ip-address-you-dont-need = აუცილებელი არაა IP-�
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = ზოგიერთი გარემოებაც საჭიროებს ხოლმე, IP-მისამართის დამალვას. შესაძლოა, ადგილსამყოფლის შეცვლის გამჟღავნება არ გსურდეთ. აგრეთვე, VPN უზრუნველყოფს <a href="{ $url }">მეტ პირადულობას</a>, დაუცველი WiFi-ქსელების მეშვეობით ვიდეოების გადასაცემად ან საყიდლების შესაძენად, გარეთ სეირნობისას.
 vpn-ip-address-how-do-you = როგორ ხდება მისი დაფარვა?
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is-v2 = VPN ერთ-ერთი საშუალებაა, IP-მისამართის დასაფარად. <a href="{ $vpn }">როდესაც იყენებთ VPN-ს</a>, თქვენი ადგილსამყოფლის გარე IP-ის ნაცვლად, გამოჩნდება VPN-მომსახურების გარე IP-მისამართი. ასე რომ, თუ VPN, რომელთანაც ხართ დაკავშირებული, მდებარეობს კალიფორნიაში, თქვენი გარე IP-მისამართიც იქნება კალიფორნიის, იმისდა მიუხედავად, სინამდვილეში სად იმყოფებით. ამასთან, ინტერნეტში თქვენი საქმიანობა იქნება დაშიფრული, VPN-მომსახურებასთან კავშირისას, რაც დამატებით უზრუნველყოფს უსაფრთხოებასა და პირადულობას. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ერთ-ერთი გზაა, IP-მისამართის დასაფარად. ჩვენ არ აღვრიცხავთ ქსელში თქვენი მოქმედებების ჩანაწერებს და არც იმ გარეშე მხარეებთან ვთანამშრომლობთ, რომლებიც თქვენი დახასიათების შედგენას ცდილობენ, ინტერნეტში საქმიანობის საფუძველზე. გთავაზობთ სრულ დაცვას ხუთ მოწყობილობამდე სერვერებით { $countries }-ზე მეტ ქვეყანაში, შედეგად, მსოფლიოს ნებისმიერი წერტილიდან, ნებისმიერ ადგილას გექნებათ წვდომა.
+# Obsolete string
 # Variables
 #   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
