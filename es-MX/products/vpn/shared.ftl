@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -108,6 +108,7 @@ vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Celular
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = ¿Qué es una dirección IP?
+vpn-subnav-when-to-use-a-vpn = Cuándo usar una VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 
 ##
