@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: Stránka nebola nájdená
 not-found-page-sorry-we-cant-find-that-page = Ospravedlňujeme sa, ale túto stránku nedokážeme nájsť
-not-found-page-were-all-about-a-healthy-internet = Ide nám o zdravý internet, ale aj tak sa občas nejaká URL adresa rozbije.
+not-found-page-were-all-about-a-healthy-internet = Všetkým nám ide o zdravý internet, no niekedy sa vyskytnú nefunkčné adresy URL.
 not-found-page-go-back = Prejsť naspäť
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/

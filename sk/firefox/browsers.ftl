@@ -12,7 +12,7 @@ firefox-browsers-get-the-privacy-you-deserve = Získajte súkromie, ktoré si za
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Získajte <strong>prehliadače</strong>, pre ktoré je súkromie to najdôležitejšie – a vždy bolo
 firefox-browsers-desktop = Počítač
-firefox-browsers-seriously-private-browsing = Naozajstné súkromné prehliadanie. { -brand-name-firefox } automaticky blokuje viac ako 2 000 sledovacích prvkov. ktoré zbierajú informácie o tom, čo robíte na internete.
+firefox-browsers-seriously-private-browsing = Naozajstné súkromné prehliadanie. { -brand-name-firefox } automaticky blokuje viac ako 2 000 sledovacích prvkov, ktoré zbierajú informácie o tom, čo robíte na internete.
 firefox-browsers-download-for-desktop = Stiahnuť pre počítač
 firefox-browsers-mobile = Mobil
 firefox-browsers-take-the-same-level-of-privacy = Využite rovnakú úroveň súkromia a vezmite si heslá, históriu, otvorené karty a omnoho viac kdekoľvek so sebou.

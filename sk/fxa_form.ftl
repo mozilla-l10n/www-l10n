@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 fxa-form-enter-your-email = Ak si chcete vytvoriť { -brand-name-firefox-accounts(case: "dat", capitalization: "lower") }, <strong>zadajte svoju e-mailovú adresu</strong>.
 # Variables:
@@ -10,4 +10,4 @@ fxa-form-by-proceeding = Pokračovaním vyjadrujete súhlas s <a href="{ $url1 }
 fxa-form-email-address = E-mailová adresa
 fxa-form-continue = Pokračovať
 fxa-form-create-account = Vytvoriť účet
-fxa-form-get-the-app = Prevziať aplikáciu
+fxa-form-get-the-app = Stiahnuť aplikáciu

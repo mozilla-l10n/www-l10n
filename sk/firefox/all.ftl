@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -29,7 +29,7 @@ firefox-all-everyone-deserves-access = Všetci si zaslúžia mať prístup na in
 firefox-all-choose-which-firefox = Vyberte si, ktorý { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } chcete vo svojom jazyku stiahnuť
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } a súkromie
 firefox-all-learn-about-firefox = Ďalšie informácie o prehliadačoch { -brand-name-firefox }
-firefox-all-the-standard-firefox = Štandardný { -brand-name-firefox } - rýchly a zameraný na súkromie. Ak si nie ste istí, ktorý { -brand-name-firefox } si vybrať, vyberte si tento.
+firefox-all-the-standard-firefox = Klasický { -brand-name-firefox } - rýchly a zameraný na súkromie. Ak si nie ste istí, ktorý { -brand-name-firefox } si vybrať, vyberte si tento.
 firefox-all-get-a-sneak-peek-at = Vyskúšajte najnovšie funkcie { -brand-name-firefox }u pred vydaním finálnej verzie.
 firefox-all-test-your-sites-against = Otestujte svoje stránky s ohľadom na pripravované nové funkcie prehliadača { -brand-name-firefox } pomocou výkonných a flexibilných vývojárskych nástrojov, ktoré sú v predvolenom nastavení zapnuté.
 firefox-all-count-on-stability-and = Spoľahnite sa na stabilitu a jednoduché používanie prehliadača { -brand-name-firefox } vytvoreného pre podniky.

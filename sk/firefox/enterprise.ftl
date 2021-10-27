@@ -13,7 +13,7 @@ firefox-enterprise-downloads = Stiahnuť
 firefox-enterprise-get-firefox-for-your-enterprise = Získajte { -brand-name-firefox } pre svoj podnik
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Získajte prehliadač <a href="{ $url }">{ -brand-name-firefox-extended-support-release } alebo jeho štandardnú veziu</a> na komplexné zabezpečenie a ochranu údajov.
+firefox-enterprise-get-the-firefox-extended-support = Získajte prehliadač <a href="{ $url }">{ -brand-name-firefox-extended-support-release } alebo jeho klasickú veziu</a> na komplexné zabezpečenie a ochranu údajov.
 firefox-enterprise-unmatched-data-protection = Čas vydávania nových verzií, ktorý vyhovuje vášmu podniku
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = Prehliadač { -brand-name-firefox } je open source a obsahuje rozšírenú ochranu pred sledovaním - to všetko je súčasť nášho záväzku týkajúceho sa ochrany údajov.
@@ -45,4 +45,4 @@ firefox-enterprise-pkg-installer = PKG inštalátor
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
-firefox-enterprise-download-firefox-esr-or-rapid = Stiahnite si { -brand-name-firefox-esr } alebo štandardnú verziu pre<br> <a href="{ $firefox_all }">iný jazyk alebo platformu.</a>
+firefox-enterprise-download-firefox-esr-or-rapid = Stiahnite si { -brand-name-firefox-esr } alebo jeho klasickú verziu pre<br> <a href="{ $firefox_all }">iný jazyk alebo platformu.</a>
