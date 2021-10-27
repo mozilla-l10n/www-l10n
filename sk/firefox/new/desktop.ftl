@@ -132,7 +132,7 @@ firefox-desktop-download-as-the-internet = Ako sa internet rozrastá a mení, { 
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je k dispozícii na všetkých vašich zariadeniach. Vezmite si so sebou karty, históriu a záložky. Všetko, čo potrebujete, je <a { $attrs }>účet { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Získajte obrázok čohokoľvek online vo vysokom rozlíšení pomocou nášho nástroja <a { $attrs }>snímky obrazovky</a> zabudovaného priamo v prehliadači
+firefox-desktop-download-grab-a-high = Získajte obrázok čohokoľvek online vo vysokom rozlíšení pomocou nášho nástroja <a { $attrs }>snímky obrazovky</a> zabudovaného priamo v prehliadači.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automaticky <a { $attrs }>blokuje mnoho sledovačov tretích strán</a> od zhromažďovania a predaja vašej webovej aktivity.
