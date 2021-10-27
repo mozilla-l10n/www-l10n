@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = Krouit ho { -brand-name-firefox-account
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Bezit a-enep ur greanterezh a werzh ho roadennoù da dredeourien.  Chomit fin hag e surentez gant teknologiezhioù a stourm evidoc'h.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Goubredit en surentez ho kerioù-tremen, sinedoù, ivinelloù hag all war ho holl trevnadoù. Krouit ho { -brand-name-firefox-account } bremañ – Ur gevreadenn – Galloud ha prevezded e pep lec'h.
+firefox-accounts-securely-sync-your = Goubredit en surentez ho kerioù-tremen, sinedoù, ivinelloù hag all war ho holl drevnadoù. Krouit ho { -brand-name-firefox-account } bremañ – Ur gevreadenn – Galloud ha prevezded e pep lec’h.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Un doare a zo da wareziñ ho puhez prevez. <span>Tremenit da { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
