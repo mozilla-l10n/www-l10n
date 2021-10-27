@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -10,10 +10,8 @@ vpn-shared-subscribe-link = გამოიყენეთ { -brand-name-mozilla
 vpn-shared-waitlist-link = შეუერთდით მსურველებს
 vpn-shared-sign-in-link = უკვე ხართ გამომწერი?
 # Outdated string
-vpn-shared-available-countries = ამჟამად, { -brand-name-mozilla-vpn } ხელმისაწვდომია შტატებში, გაერთიანებულ სამეფოში, კანადაში, ახალ ზელანდიაში, სინგაპურსა და მალაიზიაში.
-# Outdated string
-vpn-shared-available-countries-v2 = ამჟამად, { -brand-name-mozilla-vpn } ხელმისაწვდომია შტატებში, გაერთიანებულ სამეფოში, გერმანიაში, საფრანგეთში, კანადაში, მალაიზიაში, ახალ ზელანდიასა და სინგაპურში.
 vpn-shared-available-countries-v3 = ამჟამად, { -brand-name-mozilla-vpn } ხელმისაწვდომია შტატებში, კანადაში, გაერთიანებულ სამეფოში, გერმანიაში, საფრანგეთში, იტალიაში, ესპანეთში, ბელგიაში, ავსტრიაში, შვეიცარიაში, მალაიზიაში, ახალ ზელანდიასა და სინგაპურში.
+vpn-shared-available-countries-v4 = ამჟამად, { -brand-name-mozilla-vpn } ხელმისაწვდომია ავსტრიაში, ბელგიაში, კანადაში, საფრანგეთში, გერმანიაში, ირლანდიაში, იტალიაში, მალაიზიაში, ნიდერლანდებში, ახალ ზელანდიაში, სინგაპურში, ესპანეთში, შვეიცარიაში, გაერთიანებულ სამეფოსა და შეერთებულ შტატებში.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-დღიანი ვადით თანხის დასაბრუნებლად
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -72,8 +70,12 @@ vpn-shared-pricing-plan-monthly = ყოველთვიური
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = 6-თვიანი გეგმით სარგებლობა
+# Outdated string
 vpn-shared-pricing-get-12-month = 12-თვიანი გეგმით სარგებლობა
+vpn-shared-pricing-get-6-month-v2 = ისარგებლეთ 6-თვიანი გეგმით
+vpn-shared-pricing-get-12-month-v2 = ისარგებლეთ 12-თვიანი გეგმით
 vpn-shared-pricing-get-monthly = ყოველთვიური გეგმით სარგებლობა
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
