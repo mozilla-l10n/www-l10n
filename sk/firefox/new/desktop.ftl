@@ -104,7 +104,23 @@ firefox-desktop-download-keep-all-your = Ponechajte si všetky svoje obľúbené
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Všetky vaše obľúbené nástroje { -brand-name-google } (ako Gmail a Dokumenty) fungujú v { -brand-name-firefox-browser(capitalization: "lower", case: "loc") } bez problémov.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Stiahnite si toto rozšírenie pre prehliadač</a>, aby vás { -brand-name-facebook } (a takisto { -brand-name-instagram }) nesledoval na webe.
+firefox-desktop-download-sync-your-devices = Synchronizácia medzi zariadeniami
+firefox-desktop-download-screenshots = Snímky obrazovky
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Rozšírená ochrana pred sledovaním (ETP)
+firefox-desktop-download-from-watching-a = Od sledovania webového tutoriálu až po sledovanie vášho obľúbeného tímu – vaše video vás bude sprevádzať pri multitaskingu.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Získajte { -brand-name-firefox-browser(capitalization: "lower", case: "acc") } pre <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Získajte { -brand-name-firefox-browser(capitalization: "lower", case: "acc") } pre <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Stiahnite si mobilný prehliadač { -brand-name-firefox } na automatickú ochranu na všetkých vašich zariadeniach.
+firefox-desktop-download-learn-about-the = Nižšie nájdete informácie o prehliadači { -brand-name-firefox }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Od zabezpečenia cez správy až po hry, existuje <a { $attrs }>rozšírenie pre každého</a>. Pridajte ich koľko chcete, kým váš prehliadač nebude vedieť všetko, čo potrebujete.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Podpora pre { -brand-name-mozilla }</a> vám pomôže.
