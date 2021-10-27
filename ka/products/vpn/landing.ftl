@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -51,6 +51,11 @@ vpn-landing-faq-uses-encrypt = შიფრავს მიმოცვლილ
 vpn-landing-faq-uses-examples = გაეცანით <a href="{ $url }">ხუთ ცხოვრებისეულ მაგალითს</a> თუ რისთვისაა გამოსადეგი VPN თქვენს მოწყობილობაზე.
 vpn-landing-faq-info-question-heading = რა მონაცემებს ინახავს { -brand-name-mozilla-vpn }?
 # Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = ჩვენ მკაცრად მივყვებით { -brand-name-mozilla }-ს <a href="{ $principles }">მონაცემების პირადულობის დებულებებს</a> და ვაგროვებთ მხოლოდ იმ ინფორმაციას, რომელიც აუცილებელია VPN-ის გამართულად მუშაობისთვის და დროდადრო გასაუმჯობესებლად. ჩვენ, აგრეთვე თვალს ვადევნებთ სარეკლამო კამპანიას და მასთან დაკავშირებულ მონაცემებს, მობილური აპლიკაციით, რომ { -brand-name-mozilla }-მ შეძლოს გაწეული სამუშაოების სარგებლიანობის განსაზღვრა. ვრცლად, იხილეთ <a href="{ $notice }">პირადულობის ჩვენი განაცხადი</a>.
+# Obsolete string
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მოქმედებებს ქსელში. ჩვენ მკაცრად მივყვებით { -brand-name-mozilla }-ს <a href="{ $url }">მონაცემების პირადულობის პრინციპებს</a> და მხოლოდ იმ მონაცემებს ვაგროვებთ, რომელიც აუცილებელია VPN-ის მუშაობისა და დროდადრო გაუმჯობესებისთვის.
 vpn-landing-faq-protected-question-heading = როგორაა დაცული ჩემი პირადი მონაცემები?
@@ -59,8 +64,9 @@ vpn-landing-faq-protected-question-heading = როგორაა დაცუ�
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ოქმი შიფრავს თქვენს ქსელში მიმოცვლილ მონაცემებს და სრულად იცავს თქვენს პირად ინფორმაციას. სხვა არსებული VPN-ოქმებისგან განსხვავებით, { -brand-name-wireguard } მსუბუქი კოდითაა და აადვილებს უსაფრთხოების გამოკვლევასა და გადამოწმებას — რაც მეტად დაცულს ხდის დანარჩენებთან შედარებით. ამასთან, თქვენი მოქმედებები ინტერნეტში რჩება გაუმჟღავნებელი, ვინაიდან ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მონაცემებს.
 vpn-landing-faq-competition-question-heading = რითი გამოირჩევა { -brand-name-mozilla-vpn } მეტოქეებისგან?
+# Obsolete string
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = მართალია უფასო VPN-ებიც არსებობს, რომლებიც მიმზიდველი ჩანს, თუმცა პირადულობაზე ისე ვერავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn } და შესაძლოა თქვენი მონაცემები აღირიცხოს ან გაიყიდოს. არც სხვა ფასიან VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a>, პირადი მონაცემების დაცვის საქმეში.
 vpn-landing-faq-compatibility-question-heading = რომელ მოწყობილობებთანაა { -brand-name-mozilla-vpn } თავსებადი?
 # Variables:
