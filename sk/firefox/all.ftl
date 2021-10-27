@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Skontrolujte systémové požiadavky
+firefox-all-check-the-system-requirements = Pozrite si systémové požiadavky
 firefox-all-release-notes = Poznámky k vydaniu
 firefox-all-source-code = Zdrojový kód
 firefox-all-need-help = Potrebujete pomoc?
@@ -25,7 +25,7 @@ firefox-all-32-bit-installers = 32-bitové inštalátory
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Stiahnite si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } v slovenčine či v jednom z viac ako 90 ďalších jazykov
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Všetci si zaslúžia mať prístup na internet a jazyk by nikdy nemal byť prekážkou. Preto vďaka dobrovoľníkom z celého sveta ponúkame{ -brand-name-firefox-browser(case: "acc", capitalization: "lower") } vo viac ako 90 jazykoch.
+firefox-all-everyone-deserves-access = Všetci si zaslúžia mať prístup na internet a jazyk by nikdy nemal byť prekážkou. Preto vďaka dobrovoľníkom z celého sveta ponúkame { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } vo viac ako 90 jazykoch.
 firefox-all-choose-which-firefox = Vyberte si, ktorý { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } chcete vo svojom jazyku stiahnuť
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } a súkromie
 firefox-all-learn-about-firefox = Ďalšie informácie o prehliadačoch { -brand-name-firefox }
