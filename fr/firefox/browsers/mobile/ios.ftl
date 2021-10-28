@@ -7,9 +7,16 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-ios } ({ -brand-name-iphone } et { -brand-name-ipad })
+# HTML description
+# Obsolete string
+mobile-ios-firefox-browser-for = Le navigateur { -brand-name-firefox } pour { -brand-name-ios } est rapide, sécurisé et privé dès la première fois que vous l’ouvrez.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+# Obsolete string
+mobile-ios-get-automatic-privacy = Profitez d'une confidentialité automatique sur votre { -brand-name-iphone } et { -brand-name-ipad }
 mobile-ios-get-firefox-for = Téléchargez { -brand-name-firefox } pour { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Envoyez un lien vers votre téléphone.
+mobile-ios-scan-the-qr-code-to-get-started = Scanner le QR code pour commencer
+mobile-ios-scan-alt-text = Scanner le code QR pour installer { -brand-name-firefox } sur { -brand-name-ios }
 mobile-ios-make-firefox-your = Faites de { -brand-name-firefox } votre navigateur par défaut
 mobile-ios-firefox-gives-you = { -brand-name-firefox } vous offre une meilleure protection de la confidentialité lorsque vous êtes sur le Web. Par défaut, notre protection renforcée contre le pistage bloque les traqueurs et les scripts tels que les traqueurs de réseaux sociaux, les traqueurs de cookies intersites, les mineurs de cryptomonnaies et les détecteurs d’empreintes numériques.
 mobile-ios-your-browsing-history = L’historique, c’est de l’histoire ancienne
