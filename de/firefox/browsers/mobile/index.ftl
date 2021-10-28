@@ -19,21 +19,22 @@ browsers-mobile-infinitely-customizable-private = Unbegrenzt anpassbar, privat u
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } für { -brand-name-ios }
 browsers-mobile-go-your-own-way = Geh deinen eigenen Weg mit { -brand-name-firefox } fürs Handy
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } fürs Handy passt sich dir an und macht es dir leichter als je zuvor all deine offenen Tabs, letzten Suchanfragen und Lieblingsseiten au feinen Blick zu sehen.
+browsers-mobile-the-more-you-use = Je mehr du ihn nutzt, desto cleverer wird er. { -brand-name-firefox } Homescreen passt sich dir an und erleichtert es dir immer da weiterzumachen, wo du aufgehört hast.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Holen Sie sich den verbesserten Tracking-Schutz und machen Sie { -brand-name-firefox } zu Ihrem dauerhaften Standardbrowser auf Ihrem { -brand-name-iphone } und { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
-browsers-mobile-looking-for-a-streamlined = Suchen Sie nach einem optimierten, superschnellen mobilen Browser mit Datenschutzfunktionen der nächsten Stufe? { -brand-name-firefox-focus } löscht automatisch Ihre gesamte Chronik vom Moment des Öffnens bis zum Schließen des Browsers.
+browsers-mobile-looking-for-a-streamlined = Suchst du nach einem optimierten, superschnellen mobilen Browser mit Datenschutzfunktionen der nächsten Stufe? { -brand-name-firefox-focus } löscht automatisch deine gesamte Chronik vom Moment des Öffnens bis zum Schließen des Browsers.
 browsers-mobile-compare-mobile-browsers = Mobile Browser vergleichen
-browsers-mobile-see-how-firefox-stacks-up = Sehen Sie, wie sich { -brand-name-firefox } bei den großen Drei im Vergleich zu anderen gängigen Browsern schlägt: Datenschutz, Funktionen und Synchronisierung.
+browsers-mobile-see-how-firefox-stacks-up = Sieh, wie sich { -brand-name-firefox } bei den großen Drei im Vergleich zu anderen gängigen Browsern schlägt: Datenschutz, Funktionen und Synchronisierung.
 browsers-mobile-compare = Vergleichen
-browsers-mobile-see-how-firefox-for-desktop-stacks = Sehen Sie, wie sich { -brand-name-firefox } für Desktop gegen sieben andere Browser schlägt.
+browsers-mobile-see-how-firefox-for-desktop-stacks = Sieh, wie sich { -brand-name-firefox } für Desktop gegen sieben andere Browser schlägt.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Sehen Sie, wie sich { -brand-name-firefox } für <strong>Desktop</strong> gegen sieben andere Browser schlägt.
-browsers-mobile-join-firefox-and-get-the-most = Erstellen Sie ein { -brand-name-firefox }-Konto und holen das Beste aus jedem Produkt heraus – auf allen Geräten.
+browsers-mobile-see-how-firefox-for-desktop-strong = Sieh, wie sich { -brand-name-firefox } für <strong>Desktop</strong> gegen sieben andere Browser schlägt.
+browsers-mobile-join-firefox-and-get-the-most = Erstelle dir ein { -brand-name-firefox }-Konto und hol das Beste aus jedem Produkt heraus – auf allen Geräten.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = Sie haben schon ein Konto? <a { $fxa_attr }>Melden Sie sich an</a> oder <a { $accounts_attr }>erfahren Sie mehr</a> über die Nutzung von { -brand-name-firefox }.
+browsers-mobile-already-have-an-account-sign = Du hast schon ein Konto? <a { $fxa_attr }>Melde dich an</a> oder <a { $accounts_attr }>erfahre mehr</a> über die Nutzung von { -brand-name-firefox }.
 browsers-mobile-download = Herunterladen
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
