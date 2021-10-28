@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -15,7 +15,7 @@ vpn-landing-hero-sub-heading-v2 = 安全、可靠、高速 — 随时随地，�
 # Obsolete string
 vpn-landing-hero-sub-heading = 安全可依赖，品牌可信任。
 vpn-landing-hero-desc = 由 { -brand-name-firefox } 开发商推出的 VPN 虚拟专用网络。
-vpn-landing-privacy-heading = 隐私，一触即得
+vpn-landing-privacy-heading = 一触即得的隐私
 vpn-landing-privacy-desc = 浏览、播放流媒体、完成工作，同时也要捍卫您的在线隐私。无论您是在旅行途中，或是正在使用公共 WiFi，还是只想寻求更强的在线安全感，我们都始终把您的隐私放在首位。
 vpn-landing-fast-secure-heading = 快速且安全的网络
 # Variables:

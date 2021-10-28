@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
@@ -17,7 +17,7 @@ vpn-mac-wifi-headline = 放心使用公共 Wi-Fi
 vpn-mac-wifi-copy = 有了 { -brand-name-mozilla-vpn }，您可以安心在公共 WI-FI 下上网。它可以保护您的互联网连接，隐藏个人数据不被黑客和窥探的眼睛发现。
 vpn-mac-about-headline = Mozilla 出品，值得信赖
 vpn-mac-about-copy = 自 1998 年以来，非营利组织 { -brand-name-mozilla } 一直以建立更好的互联网为使命。从 { -brand-name-firefox-browser }等产品到全球的宣传工作，{ -brand-name-mozilla } 努力确保互联网的开放与自由，并将继续进行下去。
-vpn-mac-privacy-headline = 隐私，一触即得
+vpn-mac-privacy-headline = 一触即得的隐私
 vpn-mac-privacy-copy = 您的互联网连接将使用 { -brand-name-mozilla-vpn } 的 { -brand-name-wireguard }® 高级协议加密，保护 IP 地址不受黑客和运营商的恶意侵扰。
 vpn-mac-servers-headline = 访问世界各地的服务器
 # Variables:
