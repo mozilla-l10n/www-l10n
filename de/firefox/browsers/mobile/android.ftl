@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
@@ -8,17 +8,18 @@
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
 # HTML description
-mobile-android-firefox-browser-for = Der { -brand-name-firefox }-Browser für { -brand-name-android } bietet standardmäßig Geschwindigkeit, Sicherheit und Privatsphäre.
+mobile-android-firefox-browser-for = Der { -brand-name-firefox }-Browser für { -brand-name-android } ist schnell, sicher und privat vom ersten Tag an.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Nehmen Sie den Browser mit. Holen Sie sich Unabhängigkeit und { -brand-name-firefox } für { -brand-name-android }
-mobile-android-when-you-download = Wenn Sie { -brand-name-firefox } herunterladen, unterstützen Sie ein unabhängiges Technologieunternehmen. { -brand-name-firefox } ist der einzige große Browser, der von einer gemeinnützigen Organisation unterstützt wird, die Ihnen mehr Offenheit, Transparenz und Kontrolle über Ihr Online-Leben bietet.
-mobile-android-get-firefox-for = Holen Sie sich { -brand-name-firefox } für { -brand-name-android }
-mobile-android-send-a-download-link-to-your = Download-Link an Ihr Telefon senden.
-mobile-android-scan-the-qr-code-to-get-started = Scannen Sie den QR-Code und legen Sie los
-mobile-android-scan-alt-text = Scannen Sie den QR-Code, um { -brand-name-firefox } auf { -brand-name-android } zu übertragen
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+mobile-android-go-mobile-go = Sei mobil. Sei unabhängig mit { -brand-name-firefox } für { -brand-name-android }
+# Obsolete string
+mobile-android-when-you-download = Wenn du { -brand-name-firefox } herunterlädst, unterstützt du ein unabhängiges Technologieunternehmen. { -brand-name-firefox } ist der einzige große Browser, der von einer gemeinnützigen Organisation unterstützt wird, die dir mehr Offenheit, Transparenz und Kontrolle über dein Online-Leben gibt.
+mobile-android-get-firefox-for = Hol dir { -brand-name-firefox } für { -brand-name-android }
+mobile-android-send-a-download-link-to-your = Download-Link an dein Telefon senden.
+mobile-android-scan-the-qr-code-to-get-started = Scanne den QR-Code und leg los
+mobile-android-scan-alt-text = Scanne den QR-Code, um { -brand-name-firefox } auf { -brand-name-android } zu downlaoden
 mobile-android-fast-and-private = Schnell und privat
-mobile-android-firefox-for-android = { -brand-name-firefox } für { -brand-name-android } bietet Datenschutz ohne Komplikationen mit blitzschnellen Seitenladevorgängen. Der verbesserte Schutz vor Aktivitätenverfolgung verhindert automatisch, dass Online-Tracker Ihnen im Internet folgen und Ihre Seiten verlangsamen.
+mobile-android-firefox-for-android = { -brand-name-firefox } für { -brand-name-android } bietet Datenschutz ohne Komplikationen mit blitzschnellen Seitenladevorgängen. Der verbesserte Schutz vor Aktivitätenverfolgung verhindert automatisch, dass Online-Tracker dir im Internet folgen und dich ausbremsen.
 mobile-android-one-tap-to = Privatsphäre mit einem Fingertipp
 mobile-android-get-to-private = Rufen Sie mit nur einem Fingertipp den privaten Modus auf. Und wenn Sie den privaten Modus schließen, wird Ihre Chronik automatisch von Ihrem Gerät gelöscht.
 mobile-android-search-your-own = Benutzerdefinierte Suche
