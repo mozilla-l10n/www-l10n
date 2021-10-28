@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
@@ -9,12 +9,15 @@
 browsers-mobile-firefox-mobile-browsers-put = Kundahára pumbyrygua { -brand-name-firefox } omotenonde nde rekoñemi
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Opaite kundahára ñemoha’ãnga { -brand-name-firefox } ({ -brand-name-firefox } { -brand-name-android } peg̃uarã, { -brand-name-firefox } { -brand-name-ios } peg̃uarã, { -brand-name-firefox-focus })
+# Obsolete string
 browsers-mobile-at-home-or-on-the-move = Nde róga térã okápe, eikotevẽ tekoñemi peteĩteĩva mba’e’okápe. Pe ñemo’ã tapykuehoha iporãvéva ijeheguíva opaite kundahárape { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+# Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = Aguerekóma kundahára omotenondéva nde <strong>rekoñemi</strong>
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android } peg̃uarã
 browsers-mobile-infinitely-customizable-private = Eñemomba’ekuaa, hekoñemi ha hekorosã, { -brand-name-firefox } { -brand-name-android } peg̃uarã ha’e kundahára ipya’e añetéva araka’eve nanembyaimo’ãiva.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg̃uarã
+browsers-mobile-go-your-own-way = Eguata tape { -brand-name-firefox } pumbyrygua ndive
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Erekóke ñemo’ã tapykuehoha rovake ha eipuru { -brand-name-firefox } kundahára ypyguárõ, tuichavéva ha opa ára g̃uarã { -brand-name-iphone } ha { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }

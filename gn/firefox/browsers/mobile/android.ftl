@@ -41,3 +41,4 @@ mobile-android-mozilla-exists-to = { -brand-name-mozilla } iñapysẽ ojapo hag�
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Ñandutí jeike { -brand-name-firefox } ndive { -brand-name-android } peg̃uarã
 mobile-android-get-there-faster = Eg̃uahẽ pya’eve { -brand-name-firefox } ndive { -brand-name-android } peg̃uarã
+mobile-android-own-your-home = Eñembojára mba’erechaha ñepyrũre
