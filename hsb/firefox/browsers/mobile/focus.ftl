@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
@@ -17,6 +17,7 @@ mobile-focus-scan-alt-text = Skenujće QR-kod, zo byšće sej { -brand-name-fire
 # Outdated string
 mobile-focus-disappear-your-history = Dajće swoju historiju zhubić
 mobile-focus-delete-your-history = Wašu historiju zhašeć
+mobile-focus-take-private-mode = Zběhńće priwatny modus na přichodnu runinu
 mobile-focus-tracking-protection = Slědowanski škit
 mobile-focus-ad-blocking = Blokowanje wabjenja
 mobile-focus-see-it-all = Wobhladajće sej wšitko spěšnišo
