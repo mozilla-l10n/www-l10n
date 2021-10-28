@@ -20,3 +20,11 @@ mobile-focus-scan-alt-text = წააკითხეთ QR-კოდი { -bran
 # Outdated string
 mobile-focus-disappear-your-history = გააქრეთ ყველა ჩანაწერი
 mobile-focus-delete-your-history = წაშალეთ ისტორია
+mobile-focus-easily-erase-your = მარტივად გაასუფთავეთ ისტორია, პაროლები და ფუნთუშები, რომ არასასურველი რეკლამები ვერ დაგედევნოთ. მხოლოდ, ერთხელ შეეხეთ წაშლის ღილაკს საძიებო ველზე და ყველაფერი გაქრება.
+mobile-focus-take-private-mode = აიყვანეთ პირადულობა ახალ დონეზე
+# Outdated string
+mobile-focus-private-browsing-on = „პირადი თვალიერება“ ბრაუზერების უმეტესობაზე, სულაც არაა პირადი. { -brand-name-firefox-focus } კი უმაღლესი დონის, თავისთავადი პირადულობის დაცვის მქონეა და მას ქმნის { -brand-name-mozilla }, არამომგებიანი ორგანიზაცია, რომელიც ვებსივრცეში ხალხის უფლებების დაცვისთვის იბრძვის.
+mobile-focus-private-browsing-on-v2 = „პირადი თვალიერება“ ბრაუზერების უმეტესობაზე, სულაც არაა პირადი. { -brand-name-firefox-focus } კი გთავაზობთ უმაღლესი დონის, პირადულობის თავისთავად დაცვას და მას ქმნის { -brand-name-mozilla }, არამომგებიანი ორგანიზაცია, რომელიც ვებსივრცეში ხალხის უფლებების დაცვისთვის იბრძვის.
+mobile-focus-tracking-protection = თვალთვალისგან დაცვა
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } ნაგულისხმევად ზღუდავს არაერთ, გავრცელებული სახის მეთვალყურეს მათ შორის ისეთ რთულად ასარიდებლებსაც, როგორიც ახლავს { -brand-name-facebook }-რეკლამებს.
+mobile-focus-ad-blocking = რეკლამის შეზღუდვა
