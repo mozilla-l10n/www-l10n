@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -10,12 +10,12 @@ compare-shared-yes = დიახ
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = არა
 compare-shared-private-browsing-mode = პირადი თვალიერების რეჟიმი
-compare-shared-blocks-third-party-tracking-default = ზღუდავს გარეშე მეთვალყურეების ფუნთუშებს ნაგულისხმევად
+compare-shared-blocks-third-party-tracking-default = გარეშე მეთვალყურეების ფუნთუშებს ნაგულისხმევი შეზღუდვა
 # Obsolete string
 compare-shared-blocks-third-party-tracking = ზღუდავს გარეშე მეთვალყურეების ფუნთუშებს
-compare-shared-blocks-cryptomining-scripts = ზღუდავს კრიპტოვალუტის გამომმუშავებლებს
-compare-shared-blocks-fingerprinting-scripts = ზღუდავს ვინაობის ამომცნობებს
-compare-shared-blocks-social-trackers = ზღუდავს სოცქსელის მეთვალყურეებს
+compare-shared-blocks-cryptomining-scripts = კრიპტოვალუტის გამომმუშავებლების შეზღუდვა
+compare-shared-blocks-fingerprinting-scripts = ვინაობის ამომცნობების შეზღუდვა
+compare-shared-blocks-social-trackers = სოცქსელის მეთვალყურეების შეზღუდვა
 compare-shared-dashboard-to-review = მეთვალყურეების შეზღუდვის მაჩვენებლები
 compare-shared-autoplay-blocking = თვითგაშვების შეზღუდვა
 compare-shared-tab-browsing = ჩანართებით თვალიერება
