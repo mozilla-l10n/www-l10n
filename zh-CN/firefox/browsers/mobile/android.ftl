@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
@@ -10,8 +10,9 @@ mobile-android-firefox-browser-android = { -brand-name-android } 版 { -brand-na
 # HTML description
 mobile-android-firefox-browser-for = 自见面起，它就会为您提供快速、安全、私密的浏览体验。这就是 { -brand-name-android } 版 { -brand-name-firefox } 。
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = { -brand-name-android } 端，亦用独立开发的 { -brand-name-firefox }
+# Obsolete string
 mobile-android-when-you-download = 下载 { -brand-name-firefox }，即代表您选择支持一家独立的科技公司。 { -brand-name-firefox } 是最后一款由非营利组织支持的主流浏览器，给您更多的开放性、透明度和对在线生活的掌控。
 mobile-android-get-firefox-for = 下载 { -brand-name-android } 版 { -brand-name-firefox }
 mobile-android-send-a-download-link-to-your = 发送下载链接至您的手机。
@@ -19,7 +20,7 @@ mobile-android-scan-the-qr-code-to-get-started = 立即扫码
 mobile-android-scan-alt-text = 扫码下载 { -brand-name-android } 版 { -brand-name-firefox }
 mobile-android-fast-and-private = 快速又私密
 mobile-android-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox } 提供便捷的隐私保护与轻快的页面加载。增强型跟踪保护可自动拦截在网上监视您且拖慢页面的在线跟踪器。
-mobile-android-one-tap-to = 隐私，一触即得
+mobile-android-one-tap-to = 一触即得的隐私
 mobile-android-get-to-private = 轻轻一点即可进入隐私浏览模式。当您关闭隐私浏览模式，历史记录就会自动从您的设备中删除。
 mobile-android-search-your-own = 怎么顺手怎么搜
 mobile-android-got-a-big = 手机太大手太小？无需烦恼。您可以将 { -brand-name-android } 版 { -brand-name-firefox } 的搜索栏从顶部移至底部，便于单手操作。您还可以自定义搜索引擎，并根据需要将 { -brand-name-firefox } 设置为默认浏览器。
