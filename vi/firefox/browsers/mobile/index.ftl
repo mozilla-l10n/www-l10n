@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
@@ -9,12 +9,17 @@
 browsers-mobile-firefox-mobile-browsers-put = Trình duyệt { -brand-name-firefox } trên di động đặt quyền riêng tư của bạn lên hàng đầu
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Tổng quan về tất cả các trình duyệt trên điện thoại di động { -brand-name-firefox } ({ -brand-name-firefox } dành cho { -brand-name-android }, { -brand-name-firefox } dành cho { -brand-name-ios }, { -brand-name-firefox-focus })
+# Obsolete string
 browsers-mobile-at-home-or-on-the-move = Ở nhà hoặc khi đang di chuyển, bạn xứng đáng nhận được sự riêng tư trên mọi thiết bị. Trình chống theo dõi nâng cao tự động trong mọi trình duyệt { -brand-name-firefox } trên di động.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+# Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = Tải xuống trình duyệt dành cho di động đặt <strong>quyền riêng tư</strong> của bạn lên hàng đầu
 browsers-mobile-firefox-for-android = { -brand-name-firefox } dành cho { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = Có thể tùy chỉnh vô hạn, riêng tư và an toàn, { -brand-name-firefox } dành cho { -brand-name-android } là một trình duyệt nhanh như chớp sẽ không bao giờ bán dữ liệu của bạn.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } dành cho { -brand-name-ios }
+browsers-mobile-go-your-own-way = Đi theo lối riêng của bạn với { -brand-name-firefox } dành cho di động
+browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } dành cho di động thích ứng với bạn và giúp bạn xem tất cả các thẻ đang mở, các tìm kiếm trước đây và các trang web yêu thích của mình dễ dàng hơn bao giờ hết.
+browsers-mobile-the-more-you-use = Bạn càng sử dụng nó, nó càng thông minh hơn. Màn hình chính của { -brand-name-firefox } thích ứng với bạn và giúp bạn luôn bắt đầu ngay từ khi đã dừng lại dễ dàng hơn.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Nhận trình chống theo dõi nâng cao và đặt { -brand-name-firefox } làm trình duyệt mặc định, truy cập, mãi mãi trên { -brand-name-iphone } và { -brand-name-ipad } của bạn.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }

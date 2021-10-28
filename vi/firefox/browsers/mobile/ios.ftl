@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
@@ -8,8 +8,10 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
 # HTML description
+# Obsolete string
 mobile-ios-firefox-browser-for = Trình duyệt { -brand-name-firefox } dành cho { -brand-name-ios } nhanh, an toàn và riêng tư ngay từ lần đầu tiên bạn mở.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 mobile-ios-get-automatic-privacy = Nhận quyền riêng tư tự động trên { -brand-name-iphone } và { -brand-name-ipad } của bạn
 mobile-ios-get-firefox-for = Tải xuống { -brand-name-firefox } dành cho { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Gửi liên kết tải xuống đến điện thoại của bạn.
@@ -25,11 +27,17 @@ mobile-ios-your-browsing-history = Lịch sử duyệt web của bạn đã là 
 mobile-ios-if-you-want = Nếu muốn, bạn có thể dễ dàng chọn truy cập trực tuyến và tìm kiếm ở chế độ duyệt web riêng tư. Và khi bạn đóng chế độ duyệt web riêng tư, lịch sử duyệt web và mọi cookie sẽ tự động bị xóa khỏi thiết bị của bạn.
 mobile-ios-get-more-firefox = Nhận thêm { -brand-name-firefox } trong cuộc sống của bạn
 mobile-ios-add-firefox-across-v2 = Thêm { -brand-name-firefox } trên các thiết bị của bạn để duyệt web an toàn, liền mạch. Đồng bộ hóa các thiết bị của bạn để lấy dấu trang yêu thích, thông tin đăng nhập đã lưu, mật khẩu và lịch sử duyệt web của bạn mọi lúc mọi nơi. Ngoài ra, gửi các thẻ đang mở giữa điện thoại và máy tính để bàn để tiếp tục nơi bạn đã dừng lại.
+mobile-ios-get-to-your-go-to = Đến những địa điểm bạn muốn đến nhanh hơn trên { -brand-name-iphone } và { -brand-name-ipad } của bạn
+mobile-ios-see-your-open-tabs = Xem tất cả các thẻ đang mở, các tìm kiếm trước đây và các trang web yêu thích của bạn ở một nơi với { -brand-name-firefox-browser } dành cho { -brand-name-ios }.
+mobile-ios-own-your-home = Màn hình chính của riêng bạn
+mobile-ios-get-to-the-parts = Truy cập các phần của Internet mà bạn quan tâm nhanh hơn. Chọn để xem tất cả các thẻ đang mở, các tìm kiếm gần đây, dấu trang và các trang web yêu thích của bạn, tất cả ở một nơi.
 # Obsolete string
 mobile-ios-add-firefox-across = Thêm { -brand-name-firefox } trên các thiết bị của bạn để duyệt web an toàn, liền mạch. { -brand-name-sync } các thiết bị của bạn để lấy dấu trang yêu thích, thông tin đăng nhập đã lưu, mật khẩu và lịch sử duyệt web của bạn mọi lúc mọi nơi. Ngoài ra, gửi các thẻ đang mở giữa điện thoại và máy tính để bàn để tiếp tục nơi bạn đã dừng lại.
 mobile-ios-find-it-all = Tìm tất cả nhanh hơn
 mobile-ios-get-search-suggestions = Nhận các đề xuất tìm kiếm trong thanh tìm kiếm và nhanh chóng truy cập các trang web bạn truy cập nhiều nhất. Nhập câu hỏi tìm kiếm của bạn và nhận các kết quả được đề xuất và tìm kiếm trước đó trên các công cụ tìm kiếm yêu thích của bạn.
+# Obsolete string
 mobile-ios-keep-tabs-on = Giữ thẻ trên tất cả các thẻ đó
+# Obsolete string
 mobile-ios-create-as-many = Tạo bao nhiêu thẻ tùy thích mà không bị mất dấu. { -brand-name-firefox } hiển thị các thẻ đang mở của bạn dưới dạng hình thu nhỏ và các thẻ được đánh số, giúp bạn dễ dàng tìm thấy những gì bạn muốn một cách nhanh chóng.
 mobile-ios-discover-more-of = Khám phá thêm những gì bạn yêu thích
 mobile-ios-open-a-new = Mở một thẻ mới trong { -brand-name-firefox } để xem các trang web bạn truy cập nhiều nhất, các dấu trang gần đây của bạn và các bài viết phổ biến trong { -brand-name-pocket }. { -brand-name-firefox } cho phép bạn truy cập nhanh vào các trang web được sử dụng gần đây nhất của bạn để giúp bạn đến nơi nhanh hơn.
