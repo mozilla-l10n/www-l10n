@@ -42,3 +42,5 @@ mobile-android-mozilla-exists-to = A { -brand-name-mozilla } existe para estabel
 mobile-android-short-cut-the-internet = Faça as coisas mais rápido na internet com o { -brand-name-firefox } para { -brand-name-android }
 mobile-android-get-there-faster = Faça mais rápido com o { -brand-name-firefox } para { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Veja todas as suas abas abertas, pesquisas recentes e sites preferidos em um só lugar com o navegador { -brand-name-firefox } para { -brand-name-android }.
+mobile-android-own-your-home = Assuma o controle da sua tela inicial
+mobile-android-get-to-the-parts = Acesse mais rápido as partes da internet de seu interesse. Escolha ver todas as abas abertas, pesquisas recentes, favoritos e sites preferidos em um só lugar.
