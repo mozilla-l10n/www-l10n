@@ -19,4 +19,5 @@ mobile-android-send-a-download-link-to-your = Envoyez un lien vers votre télép
 mobile-android-scan-the-qr-code-to-get-started = Scanner le code QR pour commencer
 mobile-android-scan-alt-text = Scannez le code QR pour installer { -brand-name-firefox } sur { -brand-name-android }
 mobile-android-fast-and-private = Rapide et privé
+mobile-android-firefox-for-android = { -brand-name-firefox } pour { -brand-name-android } offre une protection de la vie privée sans effort avec des chargements de page ultra rapides. La protection renforcée contre le pistage empêche automatiquement les traqueurs en ligne de vous suivre sur le Web et de ralentir vos pages.
 mobile-android-about-mozilla = À propos de { -brand-name-mozilla }
