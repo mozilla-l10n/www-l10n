@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
@@ -10,8 +10,9 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Le navigator { -brand-name-firefox } pro { -brand-name-android } es rapide, secur e private a partir del prime uso.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Sia mobile. Assere tu independentia con { -brand-name-firefox } pro { -brand-name-android }
+# Obsolete string
 mobile-android-when-you-download = Quando tu discarga { -brand-name-firefox }, tu elige de appoiar un compania de technologia independente. { -brand-name-firefox } es le unic navigator importante e sin scopo de lucro que lucta pro dar te plus interoperabilitate, transparentia e controlo de tu vita in linea.
 mobile-android-get-firefox-for = Obtene { -brand-name-firefox } pro { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Inviar un ligamine de discargamento a tu telephono.
@@ -37,3 +38,5 @@ mobile-android-pin-videos-to = Fixar videos sur tu schermo
 mobile-android-pop-videos-out = Distacha videos de lor sitos web o reproductores e fixa los in le parte superior del schermo de tu telephono pro spectar durante que tu naviga per le web e face altere cosas. Mantene te intertenite faciente plure cosas insimul.
 mobile-android-about-mozilla = A proposito de { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } existe pro disveloppar Internet como un ressource public accessibile pro totes perque nos crede que un Internet aperte e libere es melior que un Internet clause e controlate. Nos construe productos como { -brand-name-firefox } e { -brand-name-pocket } pro promover election, transparentia e controlo.
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Via-breve a internet con { -brand-name-firefox } pro { -brand-name-android }
