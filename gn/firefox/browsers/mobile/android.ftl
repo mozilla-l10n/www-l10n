@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
@@ -10,8 +10,9 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Kundahára { -brand-name-firefox } { -brand-name-android } peg̃uarã ipya’e, hekorosã ha hekoñemíva eike ñepyrũ guive.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Eku’ekuaáke. Tanderekosãso { -brand-name-firefox } ndive { -brand-name-android } peg̃uarã
+# Obsolete string
 mobile-android-when-you-download = Emboguejy vove { -brand-name-firefox }, eiporavo eykekotaha mba’apohaguasu tembipurupyahugua hekosãsóva. { -brand-name-firefox } ha’e kundahára iporãva oipytyvõtava chupe tendaguasu viru’ỹgua oñorairõva teko jurujave, tekoresakã ha nde rekove ñandutípe ñemboguata.
 mobile-android-get-firefox-for = Erekóke { -brand-name-firefox } { -brand-name-android } peg̃uarã
 mobile-android-send-a-download-link-to-your = Emondo juajuha mboguejyrã ne pumbyrýpe.
@@ -37,3 +38,6 @@ mobile-android-pin-videos-to = Embojuehe ta’ãngamýi ne mba’erechaháre
 mobile-android-pop-videos-out = Enohẽ ta’ãngamýi ñanduti rendágui térã mbohechaha ha emoĩ pumbyry mba’erechahápe yvate gotyo ehecha hag̃ua eikundaha aja térã ambue mba’épe eimekuévo. Eiko torýpe ejapokuévo heta mba’e.
 mobile-android-about-mozilla = { -brand-name-mozilla } rehegua
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } iñapysẽ ojapo hag̃ua Ñanduti oipurukuaátava opavave roguerovia rupi ijuruja ha hekosãsóramo iporãveha oñemboty ha oñemohekochi’ĩrangue. Romoheñói upévare { -brand-name-firefox } ha { -brand-name-pocket } romomba’évo jeporavo, tekosakã ha ñema’ẽmeme.
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Ñandutí jeike { -brand-name-firefox } ndive { -brand-name-android } peg̃uarã
+mobile-android-get-there-faster = Eg̃uahẽ pya’eve { -brand-name-firefox } ndive { -brand-name-android } peg̃uarã
