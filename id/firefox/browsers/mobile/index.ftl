@@ -9,13 +9,20 @@ browsers-mobile-firefox-mobile-browsers-put = Peramban seluler { -brand-name-fir
 
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Ikhtisar semua peramban seluler { -brand-name-firefox } ({ -brand-name-firefox } untuk { -brand-name-android }, { -brand-name-firefox } untuk { -brand-name-ios }, { -brand-name-firefox-focus })
+# Obsolete string
 browsers-mobile-at-home-or-on-the-move = Di rumah atau saat bepergian, Anda berhak mendapatkan privasi di setiap perangkat. Perlindungan Pelacakan yang Ditingkatkan otomatis tersedia di setiap peramban seluler { -brand-name-firefox }.
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+# Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = Dapatkan peramban seluler yang mengutamakan <strong>privasi</strong> Anda
+
 browsers-mobile-firefox-for-android = { -brand-name-firefox } untuk { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = Dapat disesuaikan, pribadi, dan aman, { -brand-name-firefox } untuk { -brand-name-android } adalah peramban secepat kilat yang tidak akan pernah menjual data Anda.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } untuk { -brand-name-ios }
+browsers-mobile-go-your-own-way = Telusuri sesuka Anda dengan { -brand-name-firefox } seluler
+browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } seluler beradaptasi untuk Anda dan kini semakin mudah melihat semua tab terbuka, penelusuran sebelumnya, dan situs favorit Anda.
+browsers-mobile-the-more-you-use = Semakin sering Anda menggunakannya, semakin cerdas aplikasinya. Layar beranda { -brand-name-firefox } beradaptasi untuk Anda dan akan semakin mudah kembali ke bagian terakhir yang Anda tinggalkan.
+
 
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Dapatkan Perlindungan Pelacakan yang Ditingkatkan dan jadikan { -brand-name-firefox } peramban bawaan, andalan, yang selalu digunakan di { -brand-name-iphone } dan { -brand-name-ipad }.
