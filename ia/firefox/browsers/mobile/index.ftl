@@ -19,6 +19,7 @@ browsers-mobile-infinitely-customizable-private = Infinitemente personalisabile,
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } pro { -brand-name-ios }
 browsers-mobile-go-your-own-way = Vade a modo tue con { -brand-name-firefox } mobile
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } mobile se adapta a te e simplifica plus que mais vider tote tu schedas aperte, recercas passate e sitos favorite.
+browsers-mobile-the-more-you-use = Plus tu lo usa e plus intelligente tu lo recipe. Le pagina initial de { -brand-name-firefox } se adapta a te e simplifica sempre reprender justo de ubi tu lassava.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Obtene le Protection Antitraciamento Reinfortiate e face de { -brand-name-firefox } tu navigator predefinite, preferite, perpetue sur { -brand-name-iphone } e { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
