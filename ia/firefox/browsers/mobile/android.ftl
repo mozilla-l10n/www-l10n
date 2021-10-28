@@ -43,3 +43,4 @@ mobile-android-short-cut-the-internet = Via-breve a internet con { -brand-name-f
 mobile-android-get-there-faster = Arriva illac plus velocemente con { -brand-name-firefox } pro { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Vide tote tu schedas aperte, recente recercas e sitos favorite in un sol loco con le navigator { -brand-name-firefox } pro { -brand-name-android }.
 mobile-android-own-your-home = Domina tu pagina initial
+mobile-android-get-to-the-parts = Accede plus velocemente al partes de internet que tu cura. Elige vider tote tu schedas aperte, recente recercas, marcapaginas e sitos favorite in un sol loco.
