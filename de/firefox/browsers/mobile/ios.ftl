@@ -36,10 +36,10 @@ mobile-ios-add-firefox-across = Installiere { -brand-name-firefox } auf deinen G
 mobile-ios-find-it-all = Erhalte Suchvorschläge in der Suchleiste und greife schnell auf die Websites zu, die du am häufigsten besuchst. Gib deine Suchfrage ein und erhalte vorgeschlagene und zuvor gesuchte Ergebnisse in deinen bevorzugten Suchmaschinen.
 mobile-ios-get-search-suggestions = Erhalte Suchvorschläge in der Suchleiste und greife schnell auf die Websites zu, die du am häufigsten besuchst. Gib deine Suchfrage ein und erhalte vorgeschlagene und zuvor gesuchte Ergebnisse in deinen bevorzugten Suchmaschinen.
 # Obsolete string
-mobile-ios-keep-tabs-on = Behalten Sie die Tabs im Auge
+mobile-ios-keep-tabs-on = Behalte die Tabs im Auge
 # Obsolete string
-mobile-ios-create-as-many = Erstellen Sie so viele Tabs, wie Sie möchten, ohne den Überblick zu verlieren. { -brand-name-firefox } zeigt Ihre geöffneten Tabs als Miniaturansichten und nummerierte Tabs an, sodass Sie schnell finden, was Sie suchen.
-mobile-ios-discover-more-of = Endecken sie mehr von dem, was Ihnen gefällt
-mobile-ios-open-a-new = Öffnen Sie einen neuen Tab in { -brand-name-firefox }, um die von Ihnen am häufigsten besuchten Websites, Ihre letzten Lesezeichen und beliebten Artikel in { -brand-name-pocket } anzuzeigen. { -brand-name-firefox } bietet Ihnen schnellen Zugriff auf Ihre zuletzt verwendeten Websites, damit Sie schneller ans Ziel gelangen.
+mobile-ios-create-as-many = Erstelle so viele Tabs, wie du möchtest, ohne den Überblick zu verlieren. { -brand-name-firefox } zeigt deine offenen Tabs Miniaturansicht und nummeriert an, sodass du schnell findest, was du suchst.
+mobile-ios-discover-more-of = Endecke mehr von dem, was dir gefällt
+mobile-ios-open-a-new = Öffne einen neuen Tab in { -brand-name-firefox }, um die von dir am häufigsten besuchten Websites, deine letzten Lesezeichen und beliebte Artikel in { -brand-name-pocket } angezeigt zu bekommen. { -brand-name-firefox } bietet dir schnellen Zugriff auf deine zuletzt verwendeten Websites, damit du schneller ans Ziel gelangst.
 mobile-ios-about-mozilla = Über { -brand-name-mozilla }
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } existiert, um das Internet als öffentliche Ressource für alle zugänglich zu machen, weil wir glauben, dass offen und frei besser ist als geschlossen und kontrolliert. Wir entwickeln Produkte wie { -brand-name-firefox } und { -brand-name-pocket }, um Auswahl, Transparenz und Kontrolle zu fördern.
