@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
@@ -9,8 +9,10 @@
 browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } 移动浏览器将您的隐私放在首位
 # HTML page description
 browsers-mobile-overview-of-all-mobile = { -brand-name-firefox } 移动浏览器概览（包括 { -brand-name-android } 版 { -brand-name-firefox }、{ -brand-name-ios } 版 { -brand-name-firefox } 以及 { -brand-name-firefox-focus }）
-browsers-mobile-at-home-or-on-the-move = 无论在家还是出门，您都理应在每台设备上享有隐私。增强型跟踪保护在所有 { -brand-name-firefox } 浏览器中均默认开启。
+# Obsolete string
+browsers-mobile-at-home-or-on-the-move = 无论在家还是出门，您都有权在每台设备上享有隐私。增强型跟踪保护在所有 { -brand-name-firefox } 浏览器中均默认开启。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+# Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = 下载将您<strong>隐私</strong>放在首位的移动浏览器
 browsers-mobile-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox }
 browsers-mobile-infinitely-customizable-private = 快如闪电的 { -brand-name-android } 版 { -brand-name-firefox } 有着超高定制性，私密又安全，绝不会出卖您的信息。
