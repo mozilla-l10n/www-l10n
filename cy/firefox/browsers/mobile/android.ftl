@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
@@ -10,8 +10,9 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Mae porwr { -brand-name-firefox } { -brand-name-android } yn gyflym, yn ddiogel ac yn breifat o'r tro cyntaf y byddwch yn ei agor.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Ewch yn symudol. Ewch yn annibynnol gyda { -brand-name-firefox } { -brand-name-android }
+# Obsolete string
 mobile-android-when-you-download = Pan fyddwch yn llwytho { -brand-name-firefox } i lawr, rydych yn dewis cefnogi cwmni technoleg annibynnol. { -brand-name-firefox } yw'r unig borwr mawr sy'n cael ei gefnogi gan gorff dim-er-elw sy'n brwydro i cynnig mwy o ryddid, tryloywder a rheolaeth i'ch bywyd ar-lein.
 mobile-android-get-firefox-for = Cael { -brand-name-firefox } { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Anfonwch ddolen llwytho i'ch ffôn.
@@ -37,3 +38,6 @@ mobile-android-pin-videos-to = Piniwch fideos i'ch sgrin
 mobile-android-pop-videos-out = Agorwch fideos o'u gwefannau neu chwaraewyr a'u pinio i frig sgrin eich ffôn i'w gwylio wrth i chi syrffio'r we a gwneud pethau eraill. Difyrrwch wrth amldasgio.
 mobile-android-about-mozilla = Ynghylch { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = Mae { -brand-name-mozilla } yn bodoli i adeiladu'r Rhyngrwyd fel adnodd cyhoeddus sy'n hygyrch i bawb am ein bod yn credu fod agored ac am ddim yn well na caeedig a rheoledig. Rydym yn adeiladu cynnyrch fel { -brand-name-firefox } a { -brand-name-pocket } i hyrwyddo dewis, tryloywder a rheolaeth.
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Cyflymu'r rhyngrwyd gyda { -brand-name-firefox } { -brand-name-android }
+mobile-android-get-there-faster = Cyrraedd yno'n gynt gyda { -brand-name-firefox } { -brand-name-android }
