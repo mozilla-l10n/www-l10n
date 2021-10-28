@@ -21,3 +21,10 @@ mobile-compare-from-the-chart = ზემოთ მოცემული ცხ�
 mobile-compare-features-strong = <strong>სარგებლიანობა</strong>
 mobile-compare-features = შესაძლებლობები
 mobile-compare-what-can-your = რის გაკეთება შეუძლია ბრაუზერს თქვენთვის?
+mobile-compare-a-main-ingredient = მთავარი შემადგენელი, სრულყოფილი ბრაუზერისა, მისი შესაძლებლობებია. რისთვისაა გამოსადეგი?  თითქმის ყველა ბრაუზერი თანაბარია, როცა საქმე ეხება ჩანართებს, სანიშნებს, ველების თვითშევსებას, მაგრამ მხოლოდ { -brand-name-firefox } და { -brand-name-safari } იძლევა საშუალებას, ჩაიდგას დამატებები/გაფართოებები, რომლებიც მცირე სახის პროგრამებია ბრაუზერისთვის, პირადულობის, სიმძლავრის მოსამატებლად ან გასახალისებლად.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>სინქრონიზაცია</strong>
+mobile-compare-syncing = შესაბამისობა
+mobile-compare-does-your-browser = კარგად ურთიერთობს ბრაუზერი სხვა მოწყობილობებთან?
+mobile-compare-the-mobile-version = მობილურისთვის განკუთვნილი { -brand-name-safari }, რომელიც მოყვება { -brand-name-apple }-ის მოწყობილობებს, თავსებადია მხოლოდ, სხვა { -brand-name-apple }-მოწყობილობებთან, როგორიცაა { -brand-name-ipad } და { -brand-name-mac-short }-ლეპტოპები. { -brand-name-firefox }, { -brand-name-chrome } და { -brand-name-opera } კი მუშაობს, თითქმის ყველა სისტემაზე, ესენია { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short } და { -brand-name-linux }, გამონაკლისია { -brand-name-edge }-ბრაუზერი, რომელიც შეუთავსებელია { -brand-name-linux }-ზე გამართულ მოწყობილობებთან.
+mobile-compare-almost-all-of = აქ შედარებული თითქმის ყველა მობილური ბრაუზერი იძლევა სინქრონიზაციის სრულ შესაძლებლობას, მობილურსა და კომპიუტერს შორის.

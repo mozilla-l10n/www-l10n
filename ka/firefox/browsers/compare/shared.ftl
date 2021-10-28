@@ -10,7 +10,7 @@ compare-shared-yes = დიახ
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = არა
 compare-shared-private-browsing-mode = პირადი თვალიერების რეჟიმი
-compare-shared-blocks-third-party-tracking-default = გარეშე მეთვალყურეების ფუნთუშებს ნაგულისხმევი შეზღუდვა
+compare-shared-blocks-third-party-tracking-default = გარეშე მეთვალყურეების ფუნთუშების თავისთავად შეზღუდვა
 # Obsolete string
 compare-shared-blocks-third-party-tracking = ზღუდავს გარეშე მეთვალყურეების ფუნთუშებს
 compare-shared-blocks-cryptomining-scripts = კრიპტოვალუტის გამომმუშავებლების შეზღუდვა
