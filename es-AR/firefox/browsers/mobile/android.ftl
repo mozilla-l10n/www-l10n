@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
@@ -10,8 +10,9 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser }{ -brand
 # HTML description
 mobile-android-firefox-browser-for = El navegador { -brand-name-firefox } para { -brand-name-android } es rápido, seguro y privado desde la primera vez que lo abrís.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Volvete móvil. Convertite en independiente con { -brand-name-firefox } para { -brand-name-android }
+# Obsolete string
 mobile-android-when-you-download = Cuando descargás { -brand-name-firefox }, estás eligiendo apoyar a una empresa de tecnología independiente. { -brand-name-firefox } es el único navegador importante respaldado por una organización sin fines de lucro que lucha por brindarte más apertura, transparencia y control de tu vida en línea.
 mobile-android-get-firefox-for = Obtené { -brand-name-firefox } para { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Enviá un enlace de descarga a tu teléfono.
@@ -37,3 +38,7 @@ mobile-android-pin-videos-to = Fijá videos a tu pantalla
 mobile-android-pop-videos-out = Sacá videos de sus sitios web o reproductores y fijalos encima de la pantalla de tu teléfono para verlos mientras navegás por la web y hacés otras cosas. Mantenete entretenido mientras realizás múltiples tareas.
 mobile-android-about-mozilla = Acerca de { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } existe para construir Internet como un recurso público accesible para todos porque creemos que abierto y gratis es mejor que cerrado y controlado. Creamos productos como { -brand-name-firefox } y { -brand-name-pocket } para promover la elección, la transparencia y el control.
+mobile-android-get-there-faster = Llegá más rápido con { -brand-name-firefox } para { -brand-name-android }
+mobile-android-see-all-your-open-tabs = Mirá todas tus pestañas abiertas, búsquedas recientes y sitios favoritos en un solo lugar con el navegador { -brand-name-firefox } para { -brand-name-android }.
+mobile-android-own-your-home = Apropiate de tu pantalla de inicio
+mobile-android-get-to-the-parts = Llegá a todas las partes de internet que te interesan más rápido. Elegí ver todas tus pestañas abiertas, búsquedas recientes y sitios favoritos en un solo lugar.
