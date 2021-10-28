@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -10,10 +10,8 @@ vpn-shared-subscribe-link = Installer { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Rejoindre la liste d’attente
 vpn-shared-sign-in-link = Déjà abonné·e ?
 # Outdated string
-vpn-shared-available-countries = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Royaume-Uni, au Canada, en Malaisie, en Nouvelle-Zélande et à Singapour.
-# Outdated string
-vpn-shared-available-countries-v2 = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Royaume-Uni, en Allemagne, en France, au Canada, en Malaisie, en Nouvelle-Zélande et à Singapour.
 vpn-shared-available-countries-v3 = Nous proposons actuellement { -brand-name-mozilla-vpn } aux États-Unis, au Canada, au Royaume-Uni, en Allemagne, en France, en Italie, en Espagne, en Belgique, en Autriche, en Suisse, en Malaisie, en Nouvelle-Zélande et à Singapour.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Garantie de remboursement jusqu’à 30 jours
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = On parle de nous
@@ -51,6 +49,8 @@ vpn-shared-features-strong-servers = Serveurs rapides dans plus de { $countries 
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Connecter jusqu’à { $devices } appareils
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = Garantie de remboursement jusqu’à 30 jours
 vpn-shared-refund-policy = Politique de remboursement
 vpn-shared-privacy-notice = Politique de confidentialité
 vpn-shared-terms-conditions = Conditions d’utilisation
@@ -69,8 +69,12 @@ vpn-shared-pricing-plan-monthly = 1 mois
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/mois</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Optez pour un abonnement de 6 mois
+# Outdated string
 vpn-shared-pricing-get-12-month = Optez pour un abonnement de 12 mois
+vpn-shared-pricing-get-6-month-v2 = Optez pour un abonnement de 6 mois
+vpn-shared-pricing-get-12-month-v2 = Optez pour un abonnement de 12 mois
 vpn-shared-pricing-get-monthly = Optez pour un abonnement mensuel
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
@@ -102,6 +106,8 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Mobile
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Qu’est-ce qu’une adresse IP ?
+vpn-subnav-when-to-use-a-vpn = Quand utiliser un VPN
 
 ##
 
