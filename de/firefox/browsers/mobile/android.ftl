@@ -42,3 +42,5 @@ mobile-android-mozilla-exists-to = { -brand-name-mozilla } existiert, um das Int
 mobile-android-short-cut-the-internet = Sei schneller am Ziel mit { -brand-name-firefox } für { -brand-name-android }
 mobile-android-get-there-faster = Schneller ans Ziel kommen mit { -brand-name-firefox } für { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Sieh all deine offenen Tabs, letzten Suchanfragen und Lieblingsseiten auf einen Blick mit { -brand-name-firefox } für { -brand-name-android }.
+mobile-android-own-your-home = Dein persönlicher Homescreen
+mobile-android-get-to-the-parts = Sei schneller in dem Teil des Webs, der dir am Herzen liegt. Sieh deine offenen Tabs, letzten Suchanfragen, Lesezeichen und Lieblingsseiten auf einen Blick.
