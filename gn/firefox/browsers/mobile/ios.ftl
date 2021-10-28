@@ -8,8 +8,10 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } ha { -brand-name-ipad })
 # HTML description
+# Obsolete string
 mobile-ios-firefox-browser-for = Kundahára { -brand-name-firefox } { -brand-name-ios } peg̃uarã ipya’e, hekorosã ha hekoñemíva eike ñepyrũ guive.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 mobile-ios-get-automatic-privacy = Erekóke tekoñemi ijeheguíva { -brand-name-iphone } ha { -brand-name-ipad }-pe.
 mobile-ios-get-firefox-for = Erekóke { -brand-name-firefox } { -brand-name-ios } peg̃uarã
 mobile-ios-send-a-download-link-to-your = Emondo juajuha mboguejyrã ne pumbyrýpe.
@@ -25,11 +27,15 @@ mobile-ios-your-browsing-history = Ne kundahára rembiasakue hembiasakue
 mobile-ios-if-you-want = Ejaposéramo péicha, eiporavokuaa jeike ha eheka ñeikundaha ñemigua reko. Ha oñembotývo pe ñeikundaha ñemigua reko, pe ñeikundaha rembiasakue ha umi kookie oguetéta ijeheguiete ne mba’e’okápe.
 mobile-ios-get-more-firefox = Erekove { -brand-name-firefox } nde rekovépe
 mobile-ios-add-firefox-across-v2 = Embojuaju { -brand-name-firefox } opaite mba’e’okáre eikundaha hag̃ua tekorosãme ha apañuãi’ỹre. Embojuehe mba’e’oka eraha hag̃ua nde rechaukaha eipuruvéva, tembiapo ñepyrũ ñongatupyre, ñe’ẽñemi ha ñeikundaha rembiasakue nendive. Avei, emondo tendayke ijurujáva pumbyry ha mohendahápe eku’ejey hag̃ua eheja haguégui.
+mobile-ios-get-to-your-go-to = Eg̃uahẽ pya’eve tendakuérape nde { -brand-name-iphone } ha { -brand-name-ipad } rupive.
+mobile-ios-own-your-home = Eñembojára mba’erechaha ñepyrũre
 # Obsolete string
 mobile-ios-add-firefox-across = Embojuaju { -brand-name-firefox } opaite mba’e’okápe eikundaha hag̃ua tekorosãme ha apañuãi’ỹre. Eipuru { -brand-name-sync } ne mba’e’okápe eraha hag̃ua nde rechaukaha, tembiapo ñepyrũ ñongatupyre, ñe’ẽñemi ha ñeikundaha rembiasakue nendive. Avei, emondo tendayke ijurujáva pumbyry ha mohendahápe eku’ejey hag̃ua eheja haguégui.
 mobile-ios-find-it-all = Ejuhupaite pya’eve
 mobile-ios-get-search-suggestions = Eguerekóta mba’eichaitépa ehekáta pe jehekaha rendápe ha eike pya’eterei tendakuéra eikevehápe jepi. Ehai ne porandu jehekarãva ha eguerekóta eipotáva ha ehekamavavoi ne mba’erekaha eipuruvévape.
+# Obsolete string
 mobile-ios-keep-tabs-on = Ehechapaite umi tendayke
+# Obsolete string
 mobile-ios-create-as-many = Emoheñói heta tendayke eipotaháicha okañy’ỹre avave. { -brand-name-firefox } ohechauka umi tendayke ijurujáva michĩmíramo ha tendayke ipapapýva, ombopya’éva añetehápe nde jeheka.
 mobile-ios-discover-more-of = Ehechakuaa umi ehecharamovéva
 mobile-ios-open-a-new = Embojuruja tendayke pyahu { -brand-name-firefox }-pe ehecha hag̃ua umi tenda eikeveha, nde rechaukaha ramovegua ha jehapyre ojehechavéva { -brand-name-pocket }-pe. { -brand-name-firefox } ne moinge pya’étava tendakuéra eipururamovévape ne pytyvõ hag̃ua ehekávape.
