@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -35,7 +35,7 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } აჩ�
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = როგორც ზემოთ აღინიშნა, თვალთვალს დიდი ადგილი უკავია ყალბი ამბების გავრცელებაში. <a href="{ $firefox }">{ -brand-name-firefox } თავისი</a> <a href="{ $protection }">თვალთვალისგან გაძლიერებული დაცვით</a> ნაგულისხმევად გეხმარებათ შეზღუდოთ გარეშე მეთვალყურეები სარეკლამოებისა და სხვა კომპანიებისგან, ვებსივრცით სარგებლობისას, რაც თავისთავად გიბრუნებთ საკუთარი ინტერნეტმონაცემების განკარგვის შესაძლებლობას.
-misinformation-social-media-clean-heading = { -brand-name-firefox } გეხმარებათ, სოც. ქსელით მოწოდებული მასალის გაწმენდაში:
+misinformation-social-media-clean-heading = { -brand-name-firefox } გეხმარებათ, სოცქსელით მოწოდებული მასალის გაწმენდაში:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = სოციალურმა ქსელებმა ბევრი რამ იცის თქვენ შესახებ. ამასთან, შეუძლია თვალი გადევნოთ სხვა საიტებზეც, გაზიარებისა და მოწონების ღილაკებით, თვალთვალისგან დაცვის მიუხედავად — ანგარიშის არ ქონის შემთხვევაშიც კი. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox }-ის მეშვეობით, უზრუნველყოფს, რომ { -brand-name-facebook } და { -brand-name-instagram } ამას მარტივად ვეღარ ახერხებდეს, რაც თავისმხრივ მკვეთრად ამცირებს ალბათობას, იხილოთ ყალბი რეკლამები და დაფინანსებული მასალები.
