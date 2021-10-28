@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
@@ -8,8 +8,10 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } ac { -brand-name-ipad })
 # HTML description
+# Obsolete string
 mobile-ios-firefox-browser-for = Mae porwr { -brand-name-firefox } { -brand-name-ios } yn gyflym, yn ddiogel ac yn breifat o'r tro cyntaf y byddwch yn ei agor.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 mobile-ios-get-automatic-privacy = Cael preifatrwydd awtomatig ar eich { -brand-name-iphone } ac { -brand-name-ipad }
 mobile-ios-get-firefox-for = Cael { -brand-name-firefox } { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Anfonwch ddolen llwytho i'ch ffôn.
@@ -25,11 +27,17 @@ mobile-ios-your-browsing-history = Hanes yw eich hanes pori
 mobile-ios-if-you-want = Os hoffech chi, mae'n hawdd dewis mynd ar-lein a chwilio yn y modd pori preifat. A phan fyddwch yn cau'r modd pori preifat, caiff eich hanes pori ac unrhyw gwcis eu dileu o'ch dyfais yn awtomatig.
 mobile-ios-get-more-firefox = Cael mwy o { -brand-name-firefox } yn eich bywyd
 mobile-ios-add-firefox-across-v2 = Ychwanegwch { -brand-name-firefox } ar draws eich dyfeisiau ar gyfer pori diogel, di-dor. Cydweddwch eich dyfeisiau i fynd â'ch hoff nodau tudalen, mewngofnodi wedi'u cadw, cyfrineiriau a hanes pori i ble bynnag yr ewch chi. Hefyd, anfonwch dabiau agored o'ch ffôn i'ch bwrdd gwaith i barhau'r hyn roeddech yn ei wneud.
+mobile-ios-get-to-your-go-to = Mynd i'ch llefydd pwysig yn gynt ar eich { -brand-name-iphone } a { -brand-name-ipad }
+mobile-ios-see-your-open-tabs = Gweld eich holl dabiau agored, chwilio diweddar a'ch hoff wefannau i gyd mewn un lle gyda phorwr { -brand-name-firefox-browser } { -brand-name-ios }.
+mobile-ios-own-your-home = Creu eich sgrin eich hun
+mobile-ios-get-to-the-parts = Mynd i'ch hoff rannau o'r rhyngrwyd yn gynt. Dewiswch weld eich holl dabiau agored, chwilio diweddar, nodau tudalen a'ch hoff wefannau i gyd mewn un lle.
 # Obsolete string
 mobile-ios-add-firefox-across = Ychwanegwch { -brand-name-firefox } ar draws eich dyfeisiau ar gyfer pori diogel, di-dor. Defnyddiwch { -brand-name-sync } ar eich dyfeisiau i fynd â'ch hoff nodau tudalen, mewngofnodi wedi'u cadw, cyfrineiriau a hanes pori i ble bynnag yr ewch chi. Hefyd, anfonwch dabiau agored o'ch ffôn i'ch bwrdd gwaith i barhau'r hyn roeddech yn ei wneud.
 mobile-ios-find-it-all = Canfod popeth yn gynt
 mobile-ios-get-search-suggestions = Cael awgrymiadau chwilio yn y bar chwilio a chael mynediad i wefannau rydych yn ymweld â nhw amlaf, yn gyflym. Teipiwch eich cwestiwn chwilio, a chael canlyniadau a awgrymwyd ac a chwiliwyd yn flaenorol ar draws eich hoff beiriannau chwilio.
+# Obsolete string
 mobile-ios-keep-tabs-on = Cadwch afael ar yr holl dabiau hynny
+# Obsolete string
 mobile-ios-create-as-many = Crëwch cymaint o dabiau ag yr hoffech chi heb golli trac. Mae { -brand-name-firefox } yn dangos eich tabiau agored fel lluniau bach a thabiau wedi'u rhifo, gan ei gwneud hi'n hawdd dod o hyd i'r hyn rydych chi ei eisiau yn gyflym.
 mobile-ios-discover-more-of = Darganfyddwch fwy o'r hyn rydych chi'n ei hoffi
 mobile-ios-open-a-new = Agorwch dab newydd yn { -brand-name-firefox } i weld y gwefannau rydych yn ymweld â nhw fwyaf, eich nodau tudalen diweddar a'ch erthyglau poblogaidd yn { -brand-name-pocket }. Mae { -brand-name-firefox } yn rhoi mynediad cyflym i chi i'ch gwefannau a ddefnyddiwyd yn fwyaf diweddar i'ch helpu chi i gyrraedd lle rydych yn mynd yn gyflymach.
