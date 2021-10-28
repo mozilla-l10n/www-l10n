@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
@@ -10,8 +10,9 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = { -brand-name-firefox } для { -brand-name-android } — швидкий, безпечний і приватний з першої секунди.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Будьте мобільними. Будьте незалежними з { -brand-name-firefox } для { -brand-name-android }
+# Obsolete string
 mobile-android-when-you-download = Завантажуючи { -brand-name-firefox }, ви обираєте підтримку незалежної технологічної компанії. { -brand-name-firefox } — єдиний великий браузер, який підтримується некомерційним борцем за надання вам більшої відкритості, прозорості та контролю вашого життя в інтернеті.
 mobile-android-get-firefox-for = Отримати { -brand-name-firefox } для { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Надіслати посилання для завантаження на свій телефон.
@@ -37,3 +38,7 @@ mobile-android-pin-videos-to = Закріплюйте відео на екран
 mobile-android-pop-videos-out = Прикріплюйте відео зі своїх вебсайтів або програвачів над усіма запущеними застосунками, щоб переглядати їх під час вебперегляду та інших справ. Продовжуйте розваги виконуючи багато завдань.
 mobile-android-about-mozilla = Про { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } існує для перетворення інтернету на загальнодоступний ресурс, доступний для всіх, тому що ми вважаємо, що відкритий і вільний, він краще закритого та контрольованого. Ми створюємо такі продукти, як { -brand-name-firefox } та { -brand-name-pocket }, щоб сприяти різноманіттю, прозорості та контролю.
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Швидкий доступ до інтернету за допомогою { -brand-name-firefox } для { -brand-name-android }
+mobile-android-get-there-faster = Швидша навігація за допомогою { -brand-name-firefox } для { -brand-name-android }
+mobile-android-see-all-your-open-tabs = Переглядайте всі відкриті вкладки, останні пошукові запити та улюблені сайти в одному місці за допомогою браузера { -brand-name-firefox } для { -brand-name-android }
