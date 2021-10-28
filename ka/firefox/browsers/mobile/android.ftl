@@ -23,7 +23,7 @@ mobile-android-firefox-for-android = { -brand-name-firefox } { -brand-name-andro
 mobile-android-one-tap-to = პირადულობა ერთი შეხებით
 mobile-android-get-to-private = გადადით პირად რეჟიმზე ერთი შეხებით. პირადი რეჟიმიდან გამოსვლისას კი, მონახულებეული გვერდების ჩანაწერები, მაშინვე გასუფთავდება.
 mobile-android-search-your-own = მოიძიეთ თქვენებურად
-mobile-android-got-a-big = გაქვთ დიდი ტელეფონი გაქვთ, მაგრამ ჩვეულებრივი ზომის ცერა თითი? არა უშავს. { -brand-name-firefox } { -brand-name-android }-ზე საშუალებას მოგცემთ საძიებო ველი ქვემოთ გადმოიტანოთ, ცალი ხელით მარტივად გამოყენებისთვის. ამასთან, შეგიძლიათ თავადვე აირჩიოთ სასურველი საძიეობო სისტემა და გახადოთ { -brand-name-firefox } ნაგულისხმევ ბრაუზერად,, თუ მოისურვებთ.
+mobile-android-got-a-big = დიდ ტელეფონს იყენებთ, მაგრამ ჩვეულებრივი ზომის ცერა თითი გაქვთ? არა უშავს. { -brand-name-firefox } { -brand-name-android }-ზე საშუალებას მოგცემთ საძიებო ველი ქვემოთ ჩამოიტანოთ, ცალი ხელით მარტივად გამოყენებისთვის. ამასთან, შეგიძლიათ თავადვე აირჩიოთ სასურველი საძიებო სისტემა და გახადოთ { -brand-name-firefox } ნაგულისხმევ ბრაუზერად,, თუ მოისურვებთ.
 mobile-android-save-power-with = დაზოგეთ ენერგია მუქი რეჟიმით
 mobile-android-switch-to-dark = ნებისმიერ დროს გადართეთ მუქ რეჟიმზე, რომ შეამციროთ თვალების დაძაბვა და გაახანგრძლივოთ ბატარეის მუშაობა.
 mobile-android-easily-organize-your = მარტივად განალაგეთ ჩანართები
@@ -38,3 +38,5 @@ mobile-android-pin-videos-to = მიამაგრეთ ვიდეოებ
 mobile-android-pop-videos-out = ამოაგდეთ ვიდეოები საიტიდან და დატოვეთ ეკრანზე მიმაგრებული, გვერდების თვალიერებისას ან სხვა რამის კეთებისას. გაერთეთ, რამდენიმე საქმის ერთდროულად შესრულებისას.
 mobile-android-about-mozilla = გაიცანით { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } არსებობს იმისთვის, რომ ინტერნეტი გახადოს საყოველთად ხელმისაწვდომი საშუალება, ვინაიდან ჩვენ მიგვაჩნია, რომ ღია და თავისუფალი, ყოველთვის სჯობს დახურულსა და მართულს. რასაც ვქმნით, მათ შორის { -brand-name-firefox } და { -brand-name-pocket }, მიმართულია არჩევანის შესაძლებლობის, გამჭვირვალობისა და დამოუკიდებულობის წასახალისებლად.
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = მოკლე გზებით იმოგზაურეთ ინტერნეტში, { -brand-name-firefox }-ით { -brand-name-android }-ზე

@@ -17,7 +17,7 @@ browsers-mobile-get-the-mobile-browser-privacy = ისარგებლოთ 
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android }-ზე
 browsers-mobile-infinitely-customizable-private = მორგების უსაზღვრო შესაძლებლობით, პირადი და დაცული, { -brand-name-firefox } { -brand-name-android }-ზე უმსუბუქესი ბრაუზერია, რომელიც არასდროს დაგაღალატებთ.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }-ზე
-browsers-mobile-go-your-own-way = იყავით ის, რაც ხართ { -brand-name-firefox } მობილური ბრაუზერით
+browsers-mobile-go-your-own-way = დარჩით ის, რაც ხართ, { -brand-name-firefox } მობილური ბრაუზერით
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } მობილურისთვის სრულად ერგება თქვენს მოთხოვნილებებს და გიმარტივებთ გახსნილ ჩანართებთან, უკვე მონახულებულ ან რჩეულ საიტებთან წვდომას.
 browsers-mobile-the-more-you-use = ხშირი გამოყენებისას, მეტად დახელოვნდება. { -brand-name-firefox }-ის საწყისი ეკრანი, თქვენს ჩვევებზე დაყრდნობით, საშუალებას მოგცემთ, ზუსტად იქიდან განაგრძოთ, სადაც შეწყვიტეთ.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
