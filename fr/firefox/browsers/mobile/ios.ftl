@@ -30,4 +30,12 @@ mobile-ios-get-to-your-go-to = Accédez plus rapidement à vos sites préférés
 mobile-ios-see-your-open-tabs = Trouvez vos onglets ouverts, vos recherches antérieures et vos sites préférés au même endroit avec { -brand-name-firefox-browser } pour { -brand-name-ios }.
 mobile-ios-own-your-home = Appropriez-vous votre écran d'accueil
 mobile-ios-get-to-the-parts = Accédez plus rapidement à l'Internet qui vous intéresse. Choisissez de voir tous vos onglets ouverts, recherches récentes, marque-pages et sites favoris en un seul endroit.
+# Obsolete string
+mobile-ios-add-firefox-across = Ajoutez { -brand-name-firefox } sur tous vos appareils pour une navigation sécurisée et transparente. { -brand-name-sync } vos appareils pour emporter partout où vous allez vos marque-pages, vos identifiants de connexion enregistrés, vos mots de passe et votre historique de navigation. De plus, envoyez vos onglets ouverts entre votre téléphone et votre bureau pour reprendre là où vous vous étiez arrêté.
+mobile-ios-find-it-all = Trouvez tout plus rapidement
+mobile-ios-get-search-suggestions = Obtenez des suggestions de recherche dans la barre de recherche et accédez rapidement aux sites que vous visitez le plus. Tapez votre question de recherche et obtenez les résultats suggérés et précédemment recherchés dans vos moteurs de recherche favoris.
+# Obsolete string
+mobile-ios-keep-tabs-on = Gardez un œil sur tous vos onglets
+# Obsolete string
+mobile-ios-create-as-many = Ouvrez autant d’onglets que vous le souhaitez sans perdre le fil. { -brand-name-firefox } affiche vos onglets ouverts sous forme de vignettes et d’onglets numérotés, ce qui vous permet de trouver ce que vous voulez rapidement.
 mobile-ios-about-mozilla = À propos de { -brand-name-mozilla }
