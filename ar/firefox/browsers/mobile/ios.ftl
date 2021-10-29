@@ -8,9 +8,12 @@
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } و{ -brand-name-ipad })
 
 # HTML description
+# Obsolete string
 mobile-ios-firefox-browser-for = يتميز مُتصفح { -brand-name-firefox } المُخصص للأجهزة التي تعمل بنظام { -brand-name-ios } بالسرعة والأمان والخصوصية من أول مرة تفتحه فيها.
 
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+
+# Obsolete string
 mobile-ios-get-automatic-privacy = استمتع بخصوصية تلقائية على جهاز { -brand-name-iphone } أو جهاز { -brand-name-ipad }
 mobile-ios-get-firefox-for = نزِّل { -brand-name-firefox } لنظام التشغيل { -brand-name-ios }
 
@@ -33,13 +36,21 @@ mobile-ios-if-you-want = يُمكنك الاتصال بالإنترنت والب
 mobile-ios-get-more-firefox = عزِّز استخدام مُتصفح { -brand-name-firefox }
 mobile-ios-add-firefox-across-v2 = ثبِّت مُتصفح { -brand-name-firefox } على أجهزتك لِتستمتع بتجربة تصفّح آمنة وسهلة. زامن أجهزتك لتتمكّن من استخدام الإشارات المرجعية المُفضلة وبيانات تسجيل الدخول المحفوظة وكلمات المرور وسِجل التصفّح أينما ذهبتَ. بالإضافة إلى إمكانية إرسال علامات التبويب المفتوحة بين هاتفك والكمبيوتر المكتبي الخاص بك لتُكمِل من حيث توقفت.
 
+mobile-ios-get-to-your-go-to = اذهب إلى المواقع التي تزورُها بشكل أسرع على { -brand-name-iphone } و { -brand-name-ipad }
+mobile-ios-see-your-open-tabs = شاهد تبويباتك المفتوحة وعمليات البحث السابقة والمواقع المفضّلة، جميعها في مكان واحد مع { -brand-name-firefox-browser } لنظام تشغيل { -brand-name-ios }.
+
+mobile-ios-own-your-home = امتلك شاشتك الرئيسية
+mobile-ios-get-to-the-parts = انطلق بشكل أسرع إلى أجزاء الإنترنت التي تهتُم بها. شاهد جميع تبويباتك المفتوحة وآخر عمليات البحث والعلامات والمواقع المُفضّلة، جميعها في مكان واحد.
+
 # Obsolete string
 mobile-ios-add-firefox-across = ثبِّت مُتصفح { -brand-name-firefox } على أجهزتك لِتستمتع بتجربة تصفح آمنة وسهلة. واستخدم { -brand-name-sync } بين أجهزتك لتتمكّن من استخدام الإشارات المرجعية المُفضلة وتسجيلات الدخول المحفوظة وكلمات المرور وسِجل التصفّح في أي مكان. وأرسِل علامات التبويب المفتوحة بين هاتفك والكمبيوتر المكتبي الخاص بك لتُكمِل من حيث توقفت.
 
 mobile-ios-find-it-all = استمتع بتجربة بحث أسرع
 mobile-ios-get-search-suggestions = احصل على اقتراحات للبحث في شريط البحث وادخل بسرعة إلى المواقع التي تزورها كثيرًا. اكتب سؤالك البحثي، واحصل على نتائج مقترحة ونتائج بحثتَ عنها مسبقًا عبر محركات البحث المفضلة لديك.
 
+# Obsolete string
 mobile-ios-keep-tabs-on = راقب كل علامات التبويب
+# Obsolete string
 mobile-ios-create-as-many = افتح العديد من علامات التبويب دون أن تفقد مسار الوصول إليها. حيث يعرض مُتصفح { -brand-name-firefox } علامات التبويب المفتوحة في شكل صور مصغرة وعلامات تبويب مُرقمة، مما يُسهِّل عليك إيجاد ما تريده بسرعة.
 
 mobile-ios-discover-more-of = اكتشف المزيد مما تُحب
