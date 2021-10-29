@@ -9,13 +9,20 @@ browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } मोब�
 
 # HTML page description
 browsers-mobile-overview-of-all-mobile = सभी { -brand-name-firefox } मोबाइल ब्राउज़रों पर एक नज़र ({ -brand-name-android } वाला { -brand-name-firefox }, { -brand-name-ios } वाला{ -brand-name-firefox }, { -brand-name-firefox-focus })
+# Obsolete string
 browsers-mobile-at-home-or-on-the-move = घर पर, सफर में या कहीं भी, आपका अधिकार है कि हर डिवाइस में आपकी निजता बरकरार रहे। प्रत्येक { -brand-name-firefox } मोबाइल ब्राउज़र में उन्नत ट्रैकिंग सुरक्षा ऑटोमैटिक है।
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+# Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = वह मोबाइल ब्राउज़र पाएँ जो आपकी <strong>निजता</strong> को सबसे ज्यादा महत्व देता है
+
 browsers-mobile-firefox-for-android = { -brand-name-android } के लिए { -brand-name-firefox }
 browsers-mobile-infinitely-customizable-private = { -brand-name-android } के लिए - जितना मन चाहे उतना कस्टमाइज़ करने लायक, गोपनीय व सुरक्षित { -brand-name-firefox } एक धाँसू स्पीड वाला ब्राउज़र है, जो आपको कभी धोखा नहीं देगा।
 browsers-mobile-firefox-for-ios = { -brand-name-ios } के लिए { -brand-name-firefox }
+browsers-mobile-go-your-own-way = { -brand-name-firefox } मोबाइल के जरिए मनमुताबिक काम करें
+browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } मोबाइल आपके हिसाब से ढल जाता है और आपके अपनी सभी खुले टैब, पिछली खोजें और पसंदीदा साइटें देखना पहले से कहीं अधिक आसान बना देता है।
+browsers-mobile-the-more-you-use = जितना आप इसे इस्तेमाल करते हैं, यह उतना ही स्मार्ट होता जाता है। { -brand-name-firefox } होम स्क्रीन आपके अनुकूल हो जाती है और हमेशा वहीं से कोई भी चीज़ शुरू करना आसान बनाती है जहां आपने छोड़ा था।
+
 
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = { -brand-name-iphone } और { -brand-name-ipad } पर { -brand-name-firefox } को अपना डिफ़ॉल्ट, भरोसेमंद और हमेशा वाला ब्राउज़र बनाएँ, उन्नत ट्रैकिंग सुरक्षा पाएँ.
