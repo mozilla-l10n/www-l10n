@@ -17,6 +17,7 @@ browsers-mobile-get-the-mobile-browser-privacy = Conseguí el navegador móvil q
 browsers-mobile-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = Infinitamente personalizable, privado y seguro, { -brand-name-firefox } para { -brand-name-android } es un navegador ultrarrápido que nunca te traicionará.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
+browsers-mobile-go-your-own-way = Seguí tu camino con { -brand-name-firefox } móvil
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } móvil se adapta a vos y hace que sea más fácil que nunca ver todas tus pestañas abiertas, búsquedas anteriores y sitios favoritos.
 browsers-mobile-the-more-you-use = Mientras más lo usás, se vuelve más inteligente. La pantalla de inicio de { -brand-name-firefox } se adapta a vos y hace que sea más fácil continuar siempre en el punto en que habías dejado.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
