@@ -43,3 +43,4 @@ mobile-android-short-cut-the-internet = Ñandutí jeike { -brand-name-firefox } 
 mobile-android-get-there-faster = Eg̃uahẽ pya’eve { -brand-name-firefox } ndive { -brand-name-android } peg̃uarã
 mobile-android-see-all-your-open-tabs = Ema’ẽ ne rendayke ijurujávare, eheka ramovéva ha tenda erohoryvéva peteĩ tendápe año { -brand-name-firefox } kundahára { -brand-name-android } peg̃uarã ndive.
 mobile-android-own-your-home = Eñembojára mba’erechaha ñepyrũre
+mobile-android-get-to-the-parts = Eg̃uahẽmbaite umi ñanduti vore eikotevẽhápe pya’etereive. Ehechapaite tendayke ijurujáva, ojeheka ramovéva ha tendakuéra eikeveha peteĩ hendápe añoite.
