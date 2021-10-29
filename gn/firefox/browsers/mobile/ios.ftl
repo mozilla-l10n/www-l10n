@@ -28,6 +28,7 @@ mobile-ios-if-you-want = Ejaposéramo péicha, eiporavokuaa jeike ha eheka ñeik
 mobile-ios-get-more-firefox = Erekove { -brand-name-firefox } nde rekovépe
 mobile-ios-add-firefox-across-v2 = Embojuaju { -brand-name-firefox } opaite mba’e’okáre eikundaha hag̃ua tekorosãme ha apañuãi’ỹre. Embojuehe mba’e’oka eraha hag̃ua nde rechaukaha eipuruvéva, tembiapo ñepyrũ ñongatupyre, ñe’ẽñemi ha ñeikundaha rembiasakue nendive. Avei, emondo tendayke ijurujáva pumbyry ha mohendahápe eku’ejey hag̃ua eheja haguégui.
 mobile-ios-get-to-your-go-to = Eg̃uahẽ pya’eve tendakuérape nde { -brand-name-iphone } ha { -brand-name-ipad } rupive.
+mobile-ios-see-your-open-tabs = Ema’ẽ tendayke ijurujávare, ehekáva ha tenda erohoryvéva peteĩ hendápe año { -brand-name-firefox-browser } { -brand-name-ios } peg̃uarã ndive.
 mobile-ios-own-your-home = Eñembojára mba’erechaha ñepyrũre
 # Obsolete string
 mobile-ios-add-firefox-across = Embojuaju { -brand-name-firefox } opaite mba’e’okápe eikundaha hag̃ua tekorosãme ha apañuãi’ỹre. Eipuru { -brand-name-sync } ne mba’e’okápe eraha hag̃ua nde rechaukaha, tembiapo ñepyrũ ñongatupyre, ñe’ẽñemi ha ñeikundaha rembiasakue nendive. Avei, emondo tendayke ijurujáva pumbyry ha mohendahápe eku’ejey hag̃ua eheja haguégui.
