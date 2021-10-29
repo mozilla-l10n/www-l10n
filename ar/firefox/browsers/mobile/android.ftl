@@ -12,8 +12,9 @@ mobile-android-firefox-browser-for = يَتميز مُتصفح { -brand-name-fir
 
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = تَصفَّح الإنترنت أثناء التنقل واستمتع بالاستقلالية مع مُتصفح { -brand-name-firefox } المُخصص لنظام التشغيل { -brand-name-android }
+# Obsolete string
 mobile-android-when-you-download = عندما تُنزِّل مُتصفح { -brand-name-firefox }، فإنك بهذا تختار دعم شركة تكنولوجية مستقلة. فمُتصفح { -brand-name-firefox } هو المُتصفح الرئيسي الوحيد المدعوم من مؤسسة غير ربحية تدافع لِمنحك المزيد من الانفتاح والشفافية والتحكّم في أوقاتك عبر الإنترنت.
 
 mobile-android-get-firefox-for = نزِّل { -brand-name-firefox } لنظام التشغيل { -brand-name-android }
@@ -50,3 +51,11 @@ mobile-android-pop-videos-out = افصل الفيديوهات عن مواقعه�
 
 mobile-android-about-mozilla = نبذة عن { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = تحرص مؤسسة { -brand-name-mozilla } على أن يكون الإنترنت موردًا عامًا ينهل منه الجميع، لأنها تُؤمن بأن الانفتاح والحرية أفضل من الانغلاق والتحكّم. كما أنها تُصمم منتجات مثل { -brand-name-firefox } و{ -brand-name-pocket } لتعزيز الاختيار والشفافية والتحكّم.
+
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = اختصر الإنترنت مع { -brand-name-firefox } لنظام تشغيل { -brand-name-android }
+mobile-android-get-there-faster = انطلق إلى وجهتك بشكل أسرع مع { -brand-name-firefox } لِنظام تشغيل { -brand-name-android }
+mobile-android-see-all-your-open-tabs = شاهد جميع تبويباتك المفتوحة وآخر عمليات البحث والمواقع المُفضّلة، جميعُها في مكان واحد مع مُتصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-android }.
+mobile-android-own-your-home = امتلك شاشتك الرئيسية
+mobile-android-get-to-the-parts = انطلق بشكل أسرع إلى أجزاء الإنترنت التي تهتُم بها. شاهد جميع تبويباتك المفتوحة وآخر عمليات البحث والعلامات والمواقع المُفضّلة، جميعها في مكان واحد.
+
