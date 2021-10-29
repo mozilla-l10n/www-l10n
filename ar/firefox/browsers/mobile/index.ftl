@@ -9,13 +9,20 @@ browsers-mobile-firefox-mobile-browsers-put = تضع مُتصفحات { -brand-n
 
 # HTML page description
 browsers-mobile-overview-of-all-mobile = نظرة عامة على جميع متصفحات { -brand-name-firefox } المخصصة للأجهزة المحمولة ({ -brand-name-firefox } لنظام التشغيل { -brand-name-android }، و{ -brand-name-firefox } لنظام التشغيل { -brand-name-ios }، و{ -brand-name-firefox-focus })
+# Obsolete string
 browsers-mobile-at-home-or-on-the-move = سواءً كنت في المنزل أو كنت تتنقل خارجه، يُمكنك الاستمتاع بالخصوصية على جميع أجهزتك. فميزة الحماية المعزَّزة من التعقُّب تعمل تلقائيًا في جمع مُتصفحات { -brand-name-firefox } للأجهزة المحمولة.
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+# Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = احصل على مُتصفح الأجهزة المحمولة الذي <strong>يضع خصوصيك فوق كل اعتبار</strong>
+
 browsers-mobile-firefox-for-android = مُتصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = إنّ مُتصفح { -brand-name-firefox } المُخصص لنظام التشغيل { -brand-name-android } والقابل للتخصيص بلا حدود والمُتميز بالخصوصية والأمان هو مُتصفح سريع للغاية، ولن يخذلك أبدًا.
 browsers-mobile-firefox-for-ios = مُتصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-ios }
+browsers-mobile-go-your-own-way = اذهب على طريقتك مع { -brand-name-firefox } للهاتف المحمول
+browsers-mobile-firefox-mobile-adapts-to-you = يتأقلم { -brand-name-firefox } للهاتف المحمول معك ويجعل من السهل بالنسبة لك أن ترى جميع التبويبات المفتوحة وعمليات البحث السابقة والمواقع المفضّلة.
+browsers-mobile-the-more-you-use = كلما استخدمته أكثر، زاد ذكاؤه. تتأقلم الشاشة الرئيسية لـ { -brand-name-firefox } معك وتجعل من السهل عليك البدء من حيث توقّفت.
+
 
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = استخدم ميزة الحماية المُعزَّزة من التعقب واجعل مُتصفح { -brand-name-firefox } مُتصفحك الافتراضي إلى الأبد على أجهزة { -brand-name-iphone } و{ -brand-name-ipad } الخاصة بك.
