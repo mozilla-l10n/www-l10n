@@ -12,8 +12,9 @@ mobile-android-firefox-browser-for = { -brand-name-android } 用の { -brand-nam
 
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = モバイルにも。{ -brand-name-android } 用 { -brand-name-firefox } で、独立非営利団体を選ぶ。
+# Obsolete string
 mobile-android-when-you-download = { -brand-name-firefox } をダウンロードすると、独立したテクノロジー企業をサポートできます。{ -brand-name-firefox } は、オープンさと透明性、オンライン生活のコントロールを提供する非営利団体による唯一の主要ブラウザーです。
 
 mobile-android-get-firefox-for = { -brand-name-android } 用 { -brand-name-firefox } をダウンロード
@@ -50,3 +51,11 @@ mobile-android-pop-videos-out = ウェブサイトやプレーヤーから動画
 
 mobile-android-about-mozilla = { -brand-name-mozilla } について
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } は、誰もがアクセスできる公共の資源としてのインターネットを構築するために存在しています。閉鎖的で管理されたインターネットよりも、オープンで自由なほうが理想であると信じているためです。{ -brand-name-firefox } や { -brand-name-pocket } などの製品を作り、選択、透明性、コントロールを促進しています。
+
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = { -brand-name-android } 用 { -brand-name-firefox } で高速インターネット
+mobile-android-get-there-faster = { -brand-name-android } 用 { -brand-name-firefox } で目的の情報が早く見つかります
+mobile-android-see-all-your-open-tabs = { -brand-name-android } 用 { -brand-name-firefox } ブラウザーは、開いているタブ、最近の検索、お気に入りサイトをすべて 1 か所にまとめます。
+mobile-android-own-your-home = 自分だけのホーム画面
+mobile-android-get-to-the-parts = よく使うサイトにもっと早くアクセスできます。開いているタブ、最近の検索、ブックマーク、お気に入りのサイトをすべて 1 か所で見ることができます。
+
