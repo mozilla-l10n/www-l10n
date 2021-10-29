@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -33,6 +33,6 @@ firefox-mobile-find-it-fast-with-a-smart = Poiščite hitro s pametno iskalno vr
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } izpolnjuje vaša pričakovanja s predlogi pametnega iskanja in hitrim dostopom do najpogosteje obiskanih spletnih mest.
 firefox-mobile-the-privacy-you-deserve-the = Zasebnost, ki si jo zaslužite. Hitrost, ki jo potrebujete.
 firefox-mobile-get-firefox-for-mobile = Prenesite { -brand-name-firefox } za mobilne naprave
-firefox-mobile-send-a-download-link-to-your = Pošljite povezavo za prenos v telefon.
+firefox-mobile-send-a-download-link-to-your = Pošljite si povezavo za prenos na telefon.
 firefox-mobile-scan-the-qr-code-to-get-started = Skenirajte QR-kodo, da začnete
 firefox-mobile-scan-alt-text = Skenirajte kodo QR za prenos { -brand-name-firefox }a za mobilne naprave
