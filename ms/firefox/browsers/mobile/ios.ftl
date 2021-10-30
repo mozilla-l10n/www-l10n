@@ -8,9 +8,12 @@
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } { -brand-name-iphone } & { -brand-name-ipad }
 
 # HTML description
+# Obsolete string
 mobile-ios-firefox-browser-for = Pelayar { -brand-name-firefox } untuk { -brand-name-ios } amat pantas, selamat dan peribadi sejak pertama kali anda membukanya.
 
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+
+# Obsolete string
 mobile-ios-get-automatic-privacy = Nikmati privasi automatik untuk { -brand-name-iphone } dan { -brand-name-ipad } anda
 mobile-ios-get-firefox-for = Dapatkan { -brand-name-firefox } untuk { -brand-name-ios }
 
@@ -33,13 +36,21 @@ mobile-ios-if-you-want = Anda mampu saja melayari web dalam mod peribadi dengan 
 mobile-ios-get-more-firefox = Gunakan { -brand-name-firefox } dengan lebih cekap dalam hidup anda
 mobile-ios-add-firefox-across-v2 = Gunakan { -brand-name-firefox } pada kesemua peranti anda untuk pelayaran yang selamat dan lancar. Selaraskan peranti bagi membolehkan anda membawa penanda halaman kegemaran, log masuk tersimpan, kata laluan dan sejarah pelayaran ke mana sahaja anda pergi. Selain itu, hantarkan tab terbuka di antara telefon dan komputer peribadi untuk menyambung kembali aktiviti anda.
 
+mobile-ios-get-to-your-go-to = Lawati laman yang sering anda kunjungi pada { -brand-name-iphone } dan { -brand-name-ipad }
+mobile-ios-see-your-open-tabs = Lihat semua tab terbuka, carian terdahulu dan laman kegemaran dalam satu tempat dengan { -brand-name-firefox-browser } untuk { -brand-name-ios }.
+
+mobile-ios-own-your-home = Miliki laman utama anda
+mobile-ios-get-to-the-parts = Jelajah ke lokasi yang penting untuk anda di internet dengan lebih pantas. Pilih untuk lihat semua tab terbuka, carian terkini, penanda buku dan laman kegemaran dalam satu tempat.
+
 # Obsolete string
 mobile-ios-add-firefox-across = Gunakan { -brand-name-firefox } pada kesemua peranti anda untuk pelayaran yang selamat dan lancar. { -brand-name-sync } peranti anda dan bawa penanda halaman kegemaran anda, log masuk tersimpan, kata laluan dan sejarah pelayaran ke mana sahaja anda pergi. Tambahan lagi, hantarkan tab terbuka di antara telefon dan komputer peribadi untuk menyambung kembali aktiviti anda.
 
 mobile-ios-find-it-all = Cari dengan lebih pantas
 mobile-ios-get-search-suggestions = Dapatkan cadangan carian pada bar carian dan akses laman yang sering anda lawati dengan pantas. Masukkan soalan carian, dan dapatkan cadangan dan hasil carian terdahulu di kesemua enjin pencari kegemaran anda.
 
+# Obsolete string
 mobile-ios-keep-tabs-on = Simpan semua tab yang terbuka
+# Obsolete string
 mobile-ios-create-as-many = Buka sebanyak mana tab yang anda suka tanpa kehilangan jejak. { -brand-name-firefox } memaparkan tab terbuka sebagai ikon thumbnail dan tab bernombor, menjadikannya mudah untuk anda cari.
 
 mobile-ios-discover-more-of = Terokai apa jua yang anda kehendaki dengan lebih lagi
