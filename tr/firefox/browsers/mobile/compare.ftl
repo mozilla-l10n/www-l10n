@@ -7,11 +7,18 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = En iyi 5 tarayıcıyı karşılaştırdık
+# HTML description
+mobile-compare-who-makes-the = En iyi tarayıcıyı kim yapıyor? Öğrenmek için { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } ve { -brand-name-opera } tarayıcılarının mobil versiyonlarını karşılaştırıyoruz.
+mobile-compare-which-mobile-browser = Hangi mobil tarayıcı bilgilerinizin gizliliğine önem verir?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Özellikler</strong>
 mobile-compare-features = Özellikler
 mobile-compare-what-can-your = Tarayıcınız sizin için neler yapabilir?
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>Senkronizasyon</strong>
+mobile-compare-syncing = Senkronizasyon
 mobile-compare-does-your-browser = Tarayıcınız diğer cihazlarla uyumlu mu?
+mobile-compare-almost-all-of = Burada karşılaştırılan hemen hemen tüm mobil tarayıcılar, mobil ve masaüstü cihazlar arasında tam senkronizasyona sahip.
 mobile-compare-conclusion = Sonuç
 mobile-compare-search-engine-options = Arama motoru seçenekleri
 mobile-compare-text-to-speech = Metin okuma

@@ -13,6 +13,7 @@ compare-index-privacy-utility-portability = Gizlilik. Fayda. Taşınabilirlik.
 # HTML page description
 compare-index-a-great-internet-browser-should = Harika bir internet tarayıcısı ihtiyacınız olan işlevselliğe, cihazlar arasında taşınabilirliğe ve hak ettiğiniz gizliliğe sahip olmalıdır.
 compare-index-which-browser-is-best-at-keeping = Hangi tarayıcı gizliliğinize daha çok önem veriyor?
+compare-index-what-you-do-online-literally = İnternette yaptıklarınız sizden başka kimseyi ilgilendirmemeli.
 compare-index-what-has-your-browser-done = Tarayıcınız son zamanlarda sizin için ne yaptı?
 compare-index-how-well-does-your-browser = Tarayıcınız farklı cihazlarda ne kadar iyi çalışıyor?
 compare-index-almost-all-of-the-browsers = Burada karşılaştırılan tarayıcıların neredeyse tamamı, masaüstü ve mobil cihazlar arasında eşitlemeye izin verir. Bunu yapmak için tüm cihazlarda tarayıcıya giriş yaptıktan sonra parolalar, gezinti geçmişi, yer imleri ve ayarlar gibi şeyleri eşitlemek için kullanabileceğiniz bir hesaba ihtiyacınız olacaktır.
