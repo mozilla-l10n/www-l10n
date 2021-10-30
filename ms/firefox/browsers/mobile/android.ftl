@@ -12,8 +12,9 @@ mobile-android-firefox-browser-for = Pelayar { -brand-name-firefox } untuk { -br
 
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Mulakan mobiliti. Bebaskan diri dengan { -brand-name-firefox } untuk { -brand-name-android }
+# Obsolete string
 mobile-android-when-you-download = Apabila anda memuat turun { -brand-name-firefox }, anda pilih untuk menyokong syarikat teknologi yang bebas. { -brand-name-firefox } adalah satu-satunya pelayar utama oleh organisasi bukan berasaskan keuntungan demi memberikan anda lebih keterbukaan, ketelusan dan kawalan dalam kehidupan anda dalam talian.
 
 mobile-android-get-firefox-for = Dapatkan { -brand-name-firefox } untuk { -brand-name-android }
@@ -50,3 +51,11 @@ mobile-android-pop-videos-out = Keluarkan video dari laman web atau pemain dan s
 
 mobile-android-about-mozilla = Tentang { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } diwujudkan untuk menjadikan Internet sebagai sumber awam yang mudah diakses untuk semua kerana kami percaya, konsep percuma dan terbuka lebih baik daripada terkawal dan tertutup. Kami membina produk seperti { -brand-name-firefox } dan { -brand-name-pocket } untuk menggalakkan kepelbagaian pilihan, ketelusan dan kawalan.
+
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Jalan pintas di internet bersama { -brand-name-firefox } untuk { -brand-name-android }
+mobile-android-get-there-faster = Tiba dengan lebih pantas dengan { -brand-name-firefox } untuk { -brand-name-android }
+mobile-android-see-all-your-open-tabs = Lihat semua tab terbuka, carian terkini dan laman kegemaran anda dalam satu tempat dengan pelayar { -brand-name-firefox } untuk { -brand-name-android }.
+mobile-android-own-your-home = Miliki laman utama anda
+mobile-android-get-to-the-parts = Jelajah ke lokasi yang penting untuk anda di internet dengan lebih pantas. Pilih untuk lihat semua tab terbuka, carian terkini, penanda buku dan laman kegemaran dalam satu tempat.
+
