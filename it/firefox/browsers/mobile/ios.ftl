@@ -27,8 +27,10 @@ mobile-ios-your-browsing-history = Dimentica la tua cronologia
 mobile-ios-if-you-want = Se lo desideri, puoi facilmente scegliere di andare online ed effettuare ricerche utilizzando la modalità di navigazione anonima. Quando hai finito ed esci dalla modalità di navigazione anonima, la cronologia di navigazione e gli eventuali cookie vengono automaticamente cancellati dal tuo dispositivo.
 mobile-ios-get-more-firefox = Ancora più { -brand-name-firefox } nella tua vita
 mobile-ios-add-firefox-across-v2 = Aggiungi { -brand-name-firefox } ai tuoi dispositivi per una navigazione sicura e senza interruzioni. Sincronizza i tuoi dispositivi per portare sempre con te i tuoi segnalibri preferiti, gli accessi salvati, le password e la cronologia di navigazione ovunque tu vada. Inoltre, puoi inviare le schede aperte sul tuo telefono al tuo computer desktop e viceversa per riprendere da dove avevi interrotto.
+mobile-ios-get-to-your-go-to = Raggiungi i tuoi siti abituali più velocemente sul tuo { -brand-name-iphone } e { -brand-name-ipad }
 mobile-ios-see-your-open-tabs = Visualizza tutte le schede aperte, le ricerche precedenti e i siti preferiti in un unico posto con { -brand-name-firefox-browser } per { -brand-name-ios }.
 mobile-ios-own-your-home = Tieni sotto controllo la tua schermata principale
+mobile-ios-get-to-the-parts = Raggiungi più rapidamente le parti di Internet che ti interessano. Scegli di visualizzare tutte le schede aperte, le ricerche recenti, i segnalibri e i siti preferiti in un unico posto.
 # Obsolete string
 mobile-ios-add-firefox-across = Aggiungi { -brand-name-firefox } ai tuoi dispositivi per una navigazione sicura e senza interruzioni. Sincronizza i tuoi dispositivi con { -brand-name-sync } per portare sempre con te i tuoi segnalibri preferiti, gli accessi salvati, le password e la cronologia di navigazione ovunque tu vada. Inoltre, puoi inviare le schede aperte sul tuo telefono al tuo computer desktop e viceversa per riprendere da dove avevi interrotto.
 mobile-ios-find-it-all = Trova più velocemente tutto ciò che ti serve
