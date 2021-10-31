@@ -21,6 +21,7 @@ mobile-compare-from-the-chart = A fenti táblázatból nyilvánvaló, hogy a { -
 mobile-compare-features-strong = <strong>Jellemzők</strong>
 mobile-compare-features = Jellemzők
 mobile-compare-what-can-your = Mit tehet Önért a böngészője?
+mobile-compare-a-main-ingredient = Egy jól elkészített böngésző egyik fő összetevője a funkcionalitás. Mit tud?  Majdnem mind az öt böngésző egyforma, ha a lapokról, könyvjelzőkről, a mezők automatikus kitöltéséről van szó, de csak a { -brand-name-firefox } és a { -brand-name-safari } kínál kiegészítőket, melyek olyan alkalmazások a böngészőhöz, melyekkel még privátabbá, hatékonyabbá vagy egyszerűen csak szórakoztatóbbá tehetik azt.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Szinkronizálás</strong>
 mobile-compare-syncing = Szinkronizálás
