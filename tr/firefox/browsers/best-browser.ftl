@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,9 @@ best-browser-there-are-a-few-ways = Bir tarayıcının kullanıcılarını güve
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = İkincisi, çok fazla kullanıcı verisi depolamamaktır. { -brand-name-firefox }, kullanıcıları hakkında asgari miktarda bilgi saklar, hacker'lar da olmayan bir şeyi çalamaz. <a href="{ $data }">{ -brand-name-firefox } hangi tarayıcıyı kullandığınızı ve genel konumunuzu bilir</a> <a href="{ $privacy }">ama evcil hayvanınızın adını veya en sevdiğiniz rengi bilemez.</a>
 best-browser-last-but-not-least = Son olarak, güvenli bir tarayıcı, hesaplarınızı korumanızı sağlayacak araçlar sunmalıdır. Hesaplarınızdan biri ele geçirilirse doğrudan e-posta aracılığıyla sizi uyarabilmeli ve bir web sitesinin bağlantısının şifrelenmiş olup olmadığını söyleyen simgeler sunmalıdır. (Böylece, örneğin bir alışveriş sitesine kredi numaranızı yazmanın güvenli olup olmayacağını anlayabilirsiniz.)
+# Variables:
+# $monitor (url) - link to https://monitor.firefox.com
+best-browser-firefox-is-offering = { -brand-name-firefox } sizi güvende tutacak yeni bir şey sunuyor: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Bu ücretsiz hizmet, hesaplarınızın bulunduğu siteler hack’lenirse sizi uyarıyor ve hesaplarınız geçmişte hack’lenmişse sizi bilgilendiriyor. Bir diğer güzel özellik de “yeşil kilit”. Yeşil kilit, tarayıcı penceresinin sol üst tarafında görünen küçük yeşil bir simge. { -brand-name-firefox } kullanıyorsanız ve yeşil kilidi görüyorsanız, bakmakta olduğunuz web sitesi şifrelenmiş ve güvenli demek. Kilit griyse hassas bilgilerinizi yazarken bir daha düşünün.
 best-browser-we-visit-hundreds-or = Her gün yüzlerce, hatta binlerce web sitesini ziyaret ediyoruz. Kullanıcıların bu sitelerin her biri için güvenlik ve gizlilik kararları vermesini bekleyemeyiz. Bu nedenle size daha fazla kontrol sağlayan bir tarayıcı çok önemli. Böyle bir tarayıcı size gerçek, anlamlı bir koruma sunar.
 best-browser-a-browser-that-minds = Kendi işine bakan bir tarayıcı.
 best-browser-privacy-on-the-web = Web’de gizlilik önemli bir konu. Gizlilik sizin için de önemliyse ise gizliliğinizi ciddiye alan bir tarayıcı seçmelisiniz. En iyi gizliliği sunan tarayıcıyı seçerken tarayıcıların izleme politikalarına ve verilerinizi nasıl işlediklerine dikkat edin. Bunlar teknik sorular gibi görünüyor olabilir ancak bazı tarayıcıların diğerlerinden daha gizlilik yanlısı olmasının nedeni bunlar.

@@ -10,8 +10,9 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = { -brand-name-android } için { -brand-name-firefox } tarayıcısı hızlı, güvenli ve ilk andan itibaren gizliliğiniz koruyor.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = { -brand-name-android } için { -brand-name-firefox } ile bağımsızlığından hiç vazgeçme
+# Obsolete string
 mobile-android-when-you-download = { -brand-name-firefox }’u indirdiğinizde bağımsız bir teknoloji şirketini desteklemiş oluyorsunuz. { -brand-name-firefox }, internetteki yaşamınızda size daha fazla açıklık, şeffaflık ve kontrol olanağı sağlamak için kâr amacı gütmeyen bir kuruluş tarafından geliştirilen tek büyük tarayıcı.
 mobile-android-get-firefox-for = { -brand-name-android } için { -brand-name-firefox }’u indir
 mobile-android-send-a-download-link-to-your = İndirme bağlantısını telefonunuza gönderin.
@@ -37,3 +38,9 @@ mobile-android-pin-videos-to = Videoları ekranınıza sabitleyin
 mobile-android-pop-videos-out = Web'de gezinirken video izlemeye devam etmek için videoları ekranınızın üst kısmına sabitleyebilirsiniz. Böylece başka işlerle uğraşırken de eğlenmeye devam edebilirsiniz.
 mobile-android-about-mozilla = { -brand-name-mozilla } hakkında
 mobile-android-mozilla-exists-to = { -brand-name-mozilla }, interneti herkesin erişebildiği kamusal bir kaynağa dönüştürmek için var. Çünkü biz, açık ve özgür olan şeylerin kapalı ve kontrol altında tutulanlardan daha güzel olduğuna inanıyoruz. Tercih hakkını, şeffaflığı ve kontrolü kendi eline alma hakkını savunan { -brand-name-firefox } ve { -brand-name-pocket } gibi ürünler geliştiriyoruz.
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = { -brand-name-android } için { -brand-name-firefox } ile hedefine daha hızlı ulaş
+mobile-android-get-there-faster = { -brand-name-android } için { -brand-name-firefox } ile hedefine daha hızlı ulaş
+mobile-android-see-all-your-open-tabs = { -brand-name-android } için { -brand-name-firefox } tarayıcısıyla tüm açık sekmelerinizi, son aramalarınızı ve sık kullandığınız siteleri tek bir yerde görebilirsiniz.
+mobile-android-own-your-home = Size özel giriş ekranı
+mobile-android-get-to-the-parts = İnternette sizin için en önemli yerlere daha çabuk ulaşın. Tüm açık sekmelerinizi, son aramalarınızı, yer imlerinizi ve sık kullandığınız siteleri tek bir yerde topladık.
