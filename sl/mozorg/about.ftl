@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -23,7 +23,7 @@ about-when-you-use-the-new-firefox = Z uporabo novega { -brand-name-firefox }a p
 about-walking-our-privacy-talk = Uresničevanje naših načel zasebnosti
 about-when-the-facebook-breach-was = Ko so na dan prišle { -brand-name-facebook }ove kršitve, se je { -brand-name-mozilla } nemudoma odzvala – in izdala razširitev za { -brand-name-firefox } za zaščito zasebnosti uporabnikov.
 about-talking-internet-issues-irl = Poddaja IRL o težavah interneta
-about-in-mozillas-irl-podcast-host = V Mozillini poddaji IRL gostiteljica Manoush Zomorodi govori o resničnih zgodbah o življenju na spletu in njegovi prihodnosti.
+about-in-mozillas-irl-podcast-host = V podkastu { -brand-name-mozilla } IRL gostiteljica Manoush Zomorodi govori o resničnih zgodbah o življenju na spletu in njegovi prihodnosti.
 about-corporation-foundation-not = Podjetje. Organizacija. Neprofitna.
 about-learn-about-the-mozilla-foundation = Več o { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = Pri { -brand-name-mozilla(sklon: "mestnik") } postavljamo ljudi pred dobiček v vsem, kar govorimo, gradimo in delamo. Pravzaprav je v središču našega podjetja neprofitna fundacija.
