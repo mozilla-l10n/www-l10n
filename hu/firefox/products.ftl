@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -24,6 +24,9 @@ firefox-products-see-all-browsers = Az összes böngésző megtekintése
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Szörföljön, nézzen közvetítést és dolgozzon biztonságos internetkapcsolaton a több mint 30 országban található kiszolgálók segítségével.
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } beszerzése
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Védje valódi e-mail-címét, hogy könnyebben kezelje postaládáját.
+firefox-products-learn-more-about-relay = Tudjon meg többet a { -brand-name-firefox-relay }ről
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
