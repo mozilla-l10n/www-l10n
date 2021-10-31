@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
@@ -9,12 +9,15 @@
 browsers-mobile-firefox-mobile-browsers-put = I browser { -brand-name-firefox } per dispositivi mobili mettono la tua privacy al primo posto
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Una panoramica di tutti i browser { -brand-name-firefox } per dispositivi mobili ({ -brand-name-firefox } per { -brand-name-android }, { -brand-name-firefox } per { -brand-name-ios }, { -brand-name-firefox-focus })
+# Obsolete string
 browsers-mobile-at-home-or-on-the-move = A casa o in movimento, ti meriti la privacy su ogni dispositivo. La protezione antitracciamento avanzata è sempre disponibile in tutti browser { -brand-name-firefox } per dispositivi mobili.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+# Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = Ottieni il browser per dispositivi mobili che mette al primo posto la tua <strong>privacy</strong>
 browsers-mobile-firefox-for-android = { -brand-name-firefox } per { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = Completamente personalizzabile, privato e sicuro, { -brand-name-firefox } per { -brand-name-android } è un browser velocissimo che non ti tradirà mai.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } per { -brand-name-ios }
+browsers-mobile-the-more-you-use = Più lo usi, più diventa intelligente. La schermata principale di { -brand-name-firefox } si adatta a te e ti consente sempre di riprendere facilmente da dove avevi interrotto.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Ottieni una protezione antitracciamento avanzata e imposta { -brand-name-firefox } come browser predefinito, di riferimento, per sempre, sul tuo { -brand-name-iphone } e { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }

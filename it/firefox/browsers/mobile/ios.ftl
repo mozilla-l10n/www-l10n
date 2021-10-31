@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
@@ -8,8 +8,10 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-ios } ({ -brand-name-iphone } e { -brand-name-ipad })
 # HTML description
+# Obsolete string
 mobile-ios-firefox-browser-for = Il browser { -brand-name-firefox } per { -brand-name-ios } è veloce, sicuro e riservato fin dal primo avvio.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+# Obsolete string
 mobile-ios-get-automatic-privacy = Privacy sempre garantita sul tuo { -brand-name-iphone } e { -brand-name-ipad }
 mobile-ios-get-firefox-for = Scarica { -brand-name-firefox } per { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Invia un link per il download al tuo telefono.
@@ -25,11 +27,15 @@ mobile-ios-your-browsing-history = Dimentica la tua cronologia
 mobile-ios-if-you-want = Se lo desideri, puoi facilmente scegliere di andare online ed effettuare ricerche utilizzando la modalità di navigazione anonima. Quando hai finito ed esci dalla modalità di navigazione anonima, la cronologia di navigazione e gli eventuali cookie vengono automaticamente cancellati dal tuo dispositivo.
 mobile-ios-get-more-firefox = Ancora più { -brand-name-firefox } nella tua vita
 mobile-ios-add-firefox-across-v2 = Aggiungi { -brand-name-firefox } ai tuoi dispositivi per una navigazione sicura e senza interruzioni. Sincronizza i tuoi dispositivi per portare sempre con te i tuoi segnalibri preferiti, gli accessi salvati, le password e la cronologia di navigazione ovunque tu vada. Inoltre, puoi inviare le schede aperte sul tuo telefono al tuo computer desktop e viceversa per riprendere da dove avevi interrotto.
+mobile-ios-see-your-open-tabs = Visualizza tutte le schede aperte, le ricerche precedenti e i siti preferiti in un unico posto con { -brand-name-firefox-browser } per { -brand-name-ios }.
+mobile-ios-own-your-home = Tieni sotto controllo la tua schermata principale
 # Obsolete string
 mobile-ios-add-firefox-across = Aggiungi { -brand-name-firefox } ai tuoi dispositivi per una navigazione sicura e senza interruzioni. Sincronizza i tuoi dispositivi con { -brand-name-sync } per portare sempre con te i tuoi segnalibri preferiti, gli accessi salvati, le password e la cronologia di navigazione ovunque tu vada. Inoltre, puoi inviare le schede aperte sul tuo telefono al tuo computer desktop e viceversa per riprendere da dove avevi interrotto.
 mobile-ios-find-it-all = Trova più velocemente tutto ciò che ti serve
 mobile-ios-get-search-suggestions = Ottieni suggerimenti di ricerca nella barra di ricerca e accedi rapidamente ai siti che visiti con maggior frequenza. Digita i termini della tua ricerca e ottieni i risultati suggeriti assieme a quelli ricercati in precedenza sui tuoi motori di ricerca preferiti.
+# Obsolete string
 mobile-ios-keep-tabs-on = Tieni sotto controllo tutte le tue schede
+# Obsolete string
 mobile-ios-create-as-many = Crea tutte le schede che desideri senza perderne traccia. { -brand-name-firefox } visualizza le schede aperte come miniature e schede numerate, rendendo più facile e rapida la ricerca di ciò che ti interessa.
 mobile-ios-discover-more-of = Scopri di più su ciò che ami
 mobile-ios-open-a-new = Apri una nuova scheda in { -brand-name-firefox } per vedere i siti che visiti con maggior frequenza, i tuoi segnalibri recenti e gli articoli più popolari su { -brand-name-pocket }. { -brand-name-firefox } ti consente di accedere rapidamente ai siti utilizzati più di recente per aiutarti a raggiungere la tua destinazione più velocemente.

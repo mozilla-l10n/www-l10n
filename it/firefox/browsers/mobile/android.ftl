@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
@@ -10,8 +10,9 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser(capitaliz
 # HTML description
 mobile-android-firefox-browser-for = Il browser { -brand-name-firefox } per { -brand-name-android } è veloce, sicuro e riservato fin dal primo avvio.
 mobile-android-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Porta il browser con te. Diventa indipendente con { -brand-name-firefox } per { -brand-name-android }
+# Obsolete string
 mobile-android-when-you-download = Quando scarichi { -brand-name-firefox }, scegli di supportare un’azienda tecnologica indipendente. { -brand-name-firefox } è l’unico tra i browser più utilizzati a essere supportato da un’organizzazione senza fini di lucro che si impegna per offrirti maggiore apertura, trasparenza e controllo della tua vita online.
 mobile-android-get-firefox-for = Scarica { -brand-name-firefox } per { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Invia un link per il download al tuo telefono.
@@ -37,3 +38,4 @@ mobile-android-pin-videos-to = Appunta i video sul tuo schermo
 mobile-android-pop-videos-out = Estrai i video da siti web e lettori multimediali, appuntali nella parte superiore dello schermo del telefono per guardarli mentre navighi sul Web e fai altre cose. Divertiti mentre lavori in multitasking.
 mobile-android-about-mozilla = Informazioni su { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } esiste per contribuire alla crescita di Internet come risorsa pubblica accessibile a tutti, perché crediamo che un Web aperto e gratuito sia meglio di uno chiuso e controllato. Realizziamo prodotti come { -brand-name-firefox } e { -brand-name-pocket } per promuovere la possibilità di scelta, la trasparenza e il controllo da parte degli utenti.
+mobile-android-own-your-home = Tieni sotto controllo la tua schermata principale
