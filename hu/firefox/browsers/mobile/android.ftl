@@ -42,3 +42,5 @@ mobile-android-mozilla-exists-to = A { -brand-name-mozilla } azért létezik, ho
 mobile-android-short-cut-the-internet = Gyorsabb út az internethez a { -brand-name-firefox } for { -brand-name-android }dal
 mobile-android-get-there-faster = Érjen oda gyorsabban a { -brand-name-firefox } for { -brand-name-android }dal
 mobile-android-see-all-your-open-tabs = Tekintse meg az összes megnyitott lapot, a legutóbbi kereséseket és a kedvenc webhelyeit egy helyen, az { -brand-name-android }ra készült { -brand-name-firefox } böngészővel.
+mobile-android-own-your-home = Szabja testre a kezdőképernyőt
+mobile-android-get-to-the-parts = Érje el gyorsabban az internet azon részeit, amelyek érdeklik. Válassza azt, hogy az összes nyitott lapja, a legutóbbi keresései, könyvjelzői és a kedvenc oldalai egy helyen jelenjenek meg.
