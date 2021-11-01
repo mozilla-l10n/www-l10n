@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-page-title = Избегайте дезинформации в Интернете – вам поможет { -brand-name-firefox }
-misinformation-page-desc = Дезинформация раздражает, отвлекает и стоит дорого. { -brand-name-firefox } даёт несколько советов, как избежать ложной информации, и меньше её видеть при просмотре веб-страниц.
+misinformation-page-desc = Дезинформация раздражает, отвлекает и обходится дорого. { -brand-name-firefox } рассказывает, как избегать ложной информации и меньше её видеть при работе в Интернете.
 misinformation-page-subheading = Ознакомьтесь с советами о том, как видеть меньше дезинформации и сосредоточиться на том, что действительно для вас важно
 misinformation-what-is-heading = Что такое ошибочная информация? Что такое дезинформация?
 misinformation-disinformation = Ошибочная информация, дезинформация – вы, наверное, слышали эти термины в прошлом и задавались вопросом, различаются ли они по значению, и если да, то как. Их отличает намерение: Ошибочная информация — это любой вид ложной информации, на которую могут натолкнуться люди. Она неверна или вводит в заблуждение, но не была создана или распространена с намерением обмануть людей. Дезинформация же создаётся и распространяется с целью дезинформации и достижения определённых целей.
