@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
@@ -16,7 +16,7 @@ compare-edge-with-windows-10-microsoft-introduced-updated = { -brand-name-window
 compare-edge-with-windows-10-microsoft-introduced = { -brand-name-windows } 10-თან ერთად, { -brand-name-microsoft }-მა გამოუშვა თავისი { -brand-name-edge }-ბრაუზერი { -brand-name-firefox } და { -brand-name-chrome }-თან მეტოქეობისთვის, ნაგულისხმევ ბრაუზერად, რომელიც მოყვებოდა მილიონობით გაყიდულ კომპიუტერს. მიუხედავად ამისა, მომხმარებლები რთულად შეეგუვნენ და { -brand-name-microsoft }-მა ბოლოს გამოაცხადა, { -brand-name-edge }-ის ხელახლა გამოშვების შესახებ { -brand-name-chromium }-ზე დაფუძნებული ბრაუზერის სახით ({ -brand-name-chromium } თავისმხრივ { -brand-name-google }-ის ღია წყაროს ბრაუზერის პროექტია).
 compare-edge-here-well-compare-our-firefox = აქ შევადარებთ { -brand-name-firefox-browser(case: "dat") } და { -brand-name-chromium }-ზე დაფუძნებულ { -brand-name-microsoft } { -brand-name-edge }-ს პირადი მონაცემების დაცვაში, შესაძლებლობებსა და მოქნილობაში, რომ დაგეხმაროთ, უკეთ გაარკვიოთ რომელი ბრაუზერი შეესაბამება მეტად თქვენს საჭიროებებსა და ხასიათს.
 # "SmartScreen" and "Windows Hello" are brand names.
-compare-edge-edge-is-integrated-into-the = { -brand-name-edge } გაერთიანებულია { -brand-name-windows } 10 სისტემასთან და ეშვება იზოლირებულ გარემოში, რაც გულისხმობს, რომ მიჯნავს პროგრამებსა და უზღუდავს მავნე კოდს კომპიუტერის თვალთვალს. გააჩნია ჩაშენებული SmartScreen, რომელიც ამოწმებს მონახულებული საიტების სანდოობას და ზღუდავს საეჭვოებს. პირადულობის გასაუმჯობესებლად, { -brand-name-edge } საშუალებას გაძლევთ გამოიყენოთ ბიომეტრიული საშუალებები ან PIN-კოდი { -brand-name-windows } Hello-ს დახმარებით, ნაცვლად პაროლებისა, ინტერნეტ-ანგარიშებზე შესვლისთვის.
+compare-edge-edge-is-integrated-into-the = { -brand-name-edge } გაერთიანებულია { -brand-name-windows } 10 სისტემასთან და ეშვება იზოლირებულ გარემოში, რაც გულისხმობს, რომ მიჯნავს პროგრამებსა და უზღუდავს მავნე კოდს კომპიუტერის თვალთვალს. ჩაშენებული აქვს SmartScreen, რომელიც ამოწმებს მონახულებული საიტების სანდოობას და ზღუდავს საეჭვოებს. პირადულობის გასაუმჯობესებლად, { -brand-name-edge } საშუალებას გაძლევთ გამოიყენოთ ბიომეტრიული საშუალებები ან PIN-კოდი { -brand-name-windows } Hello-ს დახმარებით, ნაცვლად პაროლებისა, ინტერნეტ-ანგარიშებზე შესვლისთვის.
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-edge-at-firefox-we-pride-ourselves = { -brand-name-firefox }-ში, ჩვენ გვეამაყება მომხმარებელთა პირადულობისა და უსაფრთხოების დაცვა. ჩვენი <a { $attrs }>პირადულობის დებულება</a> არის გამჭვირვალე და მარტივი ენით დაწერილი. . თვალთვალის გაძლიერებული დაცვით, ახლა უკვე 2000+ მეთვალყურე იზღუდება ავტომატურად. მეთვალყურე ეწოდება კოდის იმ მცირე ნაწილებს, რომლებიც ცდილობს შეაგროვოს თითოეულ საიტზე თქვენი მოქმედებების შესახებ ინფორმაცია, თქვენზე სრული სურათის შესაქმნელად და პირადულობის ხელყოფისთვის, მხოლოდ იმიტომ, რომ უკეთ მოგარგონ რეკლამები.
