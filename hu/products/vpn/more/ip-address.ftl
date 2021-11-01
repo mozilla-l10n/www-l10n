@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
@@ -29,4 +29,12 @@ vpn-ip-address-can-we-run = Elfogyhatnak-e?
 vpn-ip-address-when-the-internet = Amikor az internetet először tervezték, a „4-es verziójú” címeket használta. Ezek 32 bitesek, ami azt jelenti, hogy legfeljebb <a href="{ $sr }">4,2 milliárd cím</a> áll rendelkezésre. Ez akkor elégnek tűnt, de közel sem elég egy olyan világban, ahol az átlagos amerikai háztartásban <a href="{ $variety }">11 csatlakoztatott eszköz</a> van.
 vpn-ip-address-we-now-have = Jelenleg a 6-os verziójú IP-címek vannak, amelyek címenként 128 bitesek. Sajnos a 4-es és a 6-os verzió nem tud közvetlenül beszélni egymással, így az embereknek még sokáig szükségük lesz a 4-es verziójú címekre.
 vpn-ip-address-should-you-hide = El kell rejtenie az IP-címét?
+# Variables
+#   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
+#   $doh (url) - https://support.mozilla.org/kb/firefox-dns-over-https
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+vpn-ip-address-you-dont-need = Nem kell elrejteni az IP-címét, de egyes esetekben lehet, hogy ezt szeretné. A leggyakoribb ok az adatvédelem. Az Egyesült Államokban a <a href="{ $congress }">Kongresszus leszavazta</a> a szélessávú felhasználók adatvédelmének biztosítását célzó adatvédelmi rendeletet. Az internetszolgáltatók megnézhetik a böngészési szokásait, hogy mire használja az internetet, és mennyi időt tölt az egyes oldalakon. Ez a kommunikáció nem titkosított, így harmadik felek is láthatják, hogy mely weboldalakat keresi fel. Ennek leküzdésének egy módja a <a href="{ $doh }">DNS-over-HTTPS</a> (DoH). Ez titkosítja a DNS (Domain Name System) forgalmat, így nehezebbé teszi az ISP-k számára hogy lássák a weboldalakat, melyeket felkeres. Például az amerikai <a href="{ $firefox }">{ -brand-name-firefox } felhasználóknál</a> a DoH kérések automatikusan megbízható DNS-kiszolgálók felé irányulnak, így nehezebbé teszik, hogy Önhöz kapcsolják a felkeresett weboldalakat.
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-there-are-also = Más, eseti okai is lehetnek annak, hogy elrejtené az IP-címét. Utazás közben lehet, hogy elrejtené. Egy VPN <a href="{ $url }">nagyobb adatvédelmet</a> is biztosít, ha WiFi-hez kapcsolódik hogy közvetítést nézzen vagy vásároljon, miközben felfedezi a világot.
 vpn-ip-address-how-do-you = Hogyan rejti el?
