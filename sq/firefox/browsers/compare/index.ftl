@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -39,3 +39,4 @@ compare-index-browsers-have-come-a-long = Shfletuesit kanë ecur mjaft qëkur er
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox }-i kap entin jofitimprurës { -brand-name-mozilla }.
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox }-i vë mbi gjithçka privatësinë tuaj — në çdo gjë që krijojmë dhe bëjmë. Ne besojmë se gëzoni të drejtën të vendosni si dhe me kë ndani të dhëna tuajat personale. { -brand-name-firefox }-i grumbullon aq pak të dhëna, sa është e mundur dhe nuk shet kurrë të tilla. Ato pak të dhëna që grumbullojmë përdoren vetëm për t’i bërë produktet dhe veçoritë më të mira. S’ka të fshehta në këtë. Ka ama plot transparencë dhe privatësi të njëmendtë.
 compare-index-based-on-the-criteria-we-outlined = Bazuar në kriteret që shtruam — privatësi, përdorim dhe bartje — ka vetëm një shfletues që i kap këto dhe ky është { -brand-name-firefox }-i. Fusha e dallimeve të njëmendta s’janë funksionet, është privatësia. { -brand-name-firefox }-i është shfletuesi më privat që nuk ju kyç brenda një ekosistemi. Përdoreni në çfarëdo sistemi operativ, në krejt pajisjet tuaja dhe ndihuni i sigurt kur e bëni.
+compare-index-compare = Krahasojini

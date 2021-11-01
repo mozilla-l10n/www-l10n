@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -29,12 +29,15 @@ firefox-accounts-meet-our-family-of = Njihuni me familjen tonë të produkteve p
 firefox-accounts-firefox-is-technology = { -brand-name-firefox }-i është teknologji që lufton për ju.
 firefox-accounts-get-technology-that = Merrni teknologji që lufton për ju.
 firefox-accounts-travel-the-internet = Udhëtoni në internet i mbrojtur, në çdo pajisje.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Mbajini fjalëkalimet tuaja të mbrojtur dhe me vete.
 firefox-accounts-get-a-lookout-for = Merrni njoftime mbi cenim të dhënash.
+# Obsolete string
 firefox-accounts-share-large-files = Shkëmbeni kartela të mëdha, pa sy që përgjojnë.
 firefox-accounts-get-it-all-on-every = Kini gjithçka në secilën pajisje, pa u ndjerë në grackë në një sistem të vetëm operativ.
 firefox-accounts-and-get-it-all-on = Dhe kijeni gjithçka në secilën pajisje, pa u ndjerë në grackë në një sistem të vetëm operativ.
 firefox-accounts-get-the-respect-you = Merrni respektin që meritoni.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Prej nesh do të merrni përherë të vërtetën. Gjithçka krijojmë dhe bëjmë, respekton <a href="{ $promise }">Premtimin tonë mbi të Dhëna Personale</a>:
@@ -47,11 +50,13 @@ firefox-accounts-help-us-build-a-better = Ndihmonani të ndërtojmë një { -bra
 firefox-accounts-get-into-the-open = Bëhuni pjesë e frymës së burimit të hapur, përmes testimit të produkteve të ardhshëm.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Ndihmonani të mbajmë nën free Big Tech-un.
+firefox-accounts-we-support-communities = Përkrahim bashkësinë anembanë botës që ngrenë zërin për një internet më të shëndetshëm. Shtoni te beteja zërin tuaj.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Përkrahim bashkësinë anembanë botës që ngrenë zërin për një internet më të shëndetshëm. Shtoni te beteja zërin tuaj.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
