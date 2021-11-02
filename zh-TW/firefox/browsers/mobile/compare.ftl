@@ -10,9 +10,11 @@ mobile-compare-5-of-the-best = 五套最佳行動瀏覽器功能比較
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>功能</strong>
 mobile-compare-features = 功能
+mobile-compare-what-can-your = 瀏覽器能幫您完成哪些事？
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>同步</strong>
 mobile-compare-syncing = 同步
+mobile-compare-does-your-browser = 您的瀏覽器能與其它裝置和諧相容嗎？
 mobile-compare-conclusion = 結論
 mobile-compare-search-engine-options = 搜尋引擎選項
 mobile-compare-text-to-speech = 文字轉語音
