@@ -2,10 +2,14 @@
     "locales": [{
             "smartling": "ar",
             "application": "ar"
-        },      
+        },
         {
-            "smartling": "ms-MY",
-            "application": "ms"
+            "smartling": "de-DE",
+            "application": "de"
+        },
+        {
+            "smartling": "fr-FR",
+            "application": "fr"
         },
         {
             "smartling": "hi-IN",
@@ -18,7 +22,11 @@
         {
             "smartling": "ja-JP",
             "application": "ja"
-        }                
+        },
+        {
+            "smartling": "ms-MY",
+            "application": "ms"
+        }
     ],
     "resourceSets": [{
         "type": "FLUENT",
