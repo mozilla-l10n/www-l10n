@@ -31,4 +31,9 @@ mobile-android-got-lots-of = Hawwe jo in protte iepen ljepblêden? Gjin probleem
 mobile-android-supercharge-firefox-with = Jou { -brand-name-firefox } in boost mei add-ons
 mobile-android-addons-are-like = Add-ons binne as krêftige lytse helpmiddelen dy't jo oan jo browser tafoegje kinne om dingen te dwaan, lykas it ferheegjen fan de standert privacyynstellingen en it oanpassen fan jo ûnderfining.
 mobile-android-pick-up-where = Gean troch wêr't jo bleaun wiene
+mobile-android-search-from-your = Sykje fan it startskerm fan jo telefoan út
+mobile-android-pin-videos-to = Set fideo’s fêst oan jo skerm
 mobile-android-about-mozilla = Oer { -brand-name-mozilla }
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Nim de sneldyk op it ynternet mei { -brand-name-firefox } foar { -brand-name-android }
+mobile-android-own-your-home = Bepaal sels jo startskerm

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
@@ -22,3 +22,7 @@ mobile-focus-disappear-your-history = Lit jo skiednis ferdwine
 mobile-focus-delete-your-history = Jo skiednis fuortsmite
 mobile-focus-easily-erase-your = Wiskje ienfâldich jo skiednis, wachtwurden en cookies, sadat net winske advertinsjes jo net online folgje. Tik gewoan op de knop Wiskje yn it sykfjild en it is fuort.
 mobile-focus-take-private-mode = Bring de priveemodus nei in heger nivo
+mobile-focus-tracking-protection = Beskerming tsjin folgjen
+mobile-focus-ad-blocking = Advertinsjeblokkearring
+mobile-focus-see-it-all = Sjoch it allegearre flugger
+mobile-focus-made-by-mozilla = Makke troch { -brand-name-mozilla }

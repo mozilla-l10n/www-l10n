@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
@@ -29,3 +29,4 @@ vpn-ip-address-can-we-run = Kinne se opreitsje?
 vpn-ip-address-when-the-internet = Doe't it ynternet foar it earst ûntwurpen waard, brûkte it ‘ferzje 4’-adressen. Dizze binne 32 bits, wat betsjut dat wy oant <a href="{ $sr }">4.2 miljard adressen</a> hawwe kinne. Dit like doetiids genôch, mar is net genôch yn in wrâld wêryn de gemiddelde Amerikaanske húshâlding <a href="{ $variety }">11 oansletten apparaten</a> hie.
 vpn-ip-address-we-now-have = Wy hawwe no ferzje 6 IP-adressen, dy't 128 bits per adres hawwe. Spitigernôch kinne ferzje 4 en ferzje 6 net direkt mei inoar prate, dus minsken sille ferzje 4-adressen lang nedich hawwe.
 vpn-ip-address-should-you-hide = Moatte jo jo IP-adres ferbergje?
+vpn-ip-address-how-do-you = Hoe ferbergje jo it?
