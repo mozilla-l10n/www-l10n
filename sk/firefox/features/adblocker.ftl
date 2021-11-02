@@ -14,7 +14,7 @@ features-adblocker-an-ad-blocker-is-a-piece = Blokovač reklám je softvér, kto
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-these-ads-might-be-loud = Týmito reklamami môžu byť hlasné videoreklamy, reklamy, ktoré vás sledujú na webe, sledovače, súbory cookie tretích strán a ďalšie. Ak chcete použiť blokovač reklám, môžete vyhľadať doplnky pre blokovanie reklám, ktoré sú dostupné vo vašom prehliadači. <a href="{ $firefox }">{ -brand-name-firefox }</a> má napríklad <a href="{ $addons }">tento zoznam schválených doplnkov na blokovanie reklám</a>. Kliknite na tento zoznam (alebo blokátory reklám, ktoré sú schválené pre váš prehliadač) a zistite, ktorý vyhovuje vašim potrebám.
+features-adblocker-these-ads-might-be-loud = Týmito reklamami môžu byť hlasné videoreklamy, reklamy, ktoré vás sledujú na webe, sledovače, súbory cookie tretích strán a ďalšie. Ak chcete použiť blokovač reklám, môžete vyhľadať doplnky pre blokovanie reklám, ktoré sú dostupné vo vašom prehliadači. <a href="{ $firefox }">{ -brand-name-firefox }</a> má napríklad <a href="{ $addons }">tento zoznam schválených doplnkov na blokovanie reklám</a>. Kliknite na tento zoznam (alebo blokovače reklám, ktoré sú schválené pre váš prehliadač) a zistite, ktorý vyhovuje vašim potrebám.
 features-adblocker-find-the-right-ad-blocker = Nájdite si pre seba ten správny blokovač
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
