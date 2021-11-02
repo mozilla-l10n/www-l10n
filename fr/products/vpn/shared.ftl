@@ -109,6 +109,7 @@ vpn-subnav-platform-mobile = Mobile
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Qu’est-ce qu’une adresse IP ?
 vpn-subnav-when-to-use-a-vpn = Quand utiliser un VPN
+vpn-subnav-vpn-vs-proxy = VPN vs proxy
 
 ##
 
