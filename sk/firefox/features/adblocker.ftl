@@ -32,6 +32,14 @@ features-adblocker-create-a-tracker-free = Vytvorte si zónu bez sledovacích pr
 features-adblocker-on-firefox-you-can-use = Vo { -brand-name-firefox(case: "loc") } môžete použiť nastavenia <a href="{ $privacy }">ochrany súkromia</a> alebo <a href="{ $blocking }">blokovania obsahu</a> a získať ešte väčšiu kontrolu nad nástrojmi na sledovanie reklám, ktoré vám zobrazujú reklamy.
 features-adblocker-choose-your-level-of-protection = Zvoľte si svoju úroveň ochrany
 features-adblocker-to-start-click-on-the = Ak chcete začať, kliknite na ponuku { -brand-name-firefox(case: "gen") } v pravom hornom rohu obrazovky. Vyzerá to ako tri riadky naukladané na seba. V rozbaľovacej ponuke kliknite na Blokovanie obsahu. Mali by ste vidieť modré vyskakovacie okno s rôznymi výbermi.
+features-adblocker-go-easy-with-standard = Jednoducho so štandardnou ochranou
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+features-adblocker-if-ads-dont-bother-you = Ak vás reklamy neobťažujú a nevadí vám, že vás sledujú sledovače a súbory cookie tretích strán, nastavenie Štandardnej ochrany by vám malo vyhovovať. Ak sa chcete v štandardnom režime zbaviť sledovačov, použite <a href="{ $url }">Súkromné prehliadanie</a>.
+features-adblocker-get-tough-with-strict = Najvyššia ochrana v prísnom režime
+features-adblocker-if-seeing-too-many-ads = Ak vám príliš veľa reklám ničí deň, potom je vhodnejšia Prísna ochrana. Tento režim zablokuje známe sledovače a súbory cookie tretích strán vo všetkých oknách { -brand-name-firefox(case: "gen") }.
+features-adblocker-do-it-yourself-custom = Vlastné nastavenia ochrany na spôsob „urob si sám“
+features-adblocker-the-custom-setting-gives = Vlastné nastavenie vám dáva dokonalý výber. Môžete sa rozhodnúť, čo budete blokovať, vrátane sledovačov, súborov cookie a ďalších. Ak povolíte cookies z webovej stránky, automaticky sa dostanete do vlastného režimu.
 features-adblocker-cover-your-trail-block = Zakryte stopy, zablokujte sledovačov
 features-adblocker-take-a-bite-out-of-cookies = Zredukujte cookies
 # Variables:
