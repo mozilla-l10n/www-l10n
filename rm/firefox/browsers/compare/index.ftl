@@ -27,4 +27,7 @@ compare-index-almost-all-of-the-browsers = Quasi tut ils navigaturs cumparegliad
 compare-index-conclusion = Conclusiun:
 compare-index-and-the-winner-is = Ed il victur è…
 compare-index-find-out-how-firefox-chrome = Chatta la differenza tranter { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ed { -brand-name-ie } areguard la sfera privata, l'utilitad e la portabilitad.
+compare-index-find-out-how-firefox-fallback = Chatta la differenza tranter { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } ed { -brand-name-ie } areguard la sfera privata, l'utilitad e la portabilitad.
+compare-index-looking-for-a-better-browser = Tschertgas ti in meglier navigatur? Nus cumparegliain ils navigaturs { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ed { -brand-name-ie } in cun l'auter per ta gidar da prender ina decisiun.
+compare-index-looking-for-a-better-fallback = Tschertgas ti in meglier navigatur? Nus cumparegliain ils navigaturs { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } ed { -brand-name-ie } in cun l'auter per ta gidar da prender ina decisiun.
 compare-index-compare = Cumparegliar
