@@ -7,7 +7,7 @@
 
 features-adblocker-how-to-block-annoying = Ako blokovať otravné reklamy pomocou blokovača reklám
 features-adblocker-how-to-stop-seeing-too = Ako zatočiť s reklamami a zabrániť spoločnostiam v sledovaní? Návod na blokovanie reklám od { -brand-name-firefox(case: "gen") }.
-features-adblocker-the-ad-blocker-a-secret = Blokovač reklám - tajná zbraň v boji proti otravným reklamám.
+features-adblocker-the-ad-blocker-a-secret = Blokovač reklám - tajná zbraň v boji proti otravným reklamám
 features-adblocker-so-many-ads-so-little = Tak veľa reklám a tak málo času… Je načase to zastaviť.
 features-adblocker-the-average-person-sees = Priemerný človek vidí za deň 4 000 reklám. Ak si myslíte, že je to priveľa, blokovač reklám je váš nový najlepší priateľ.
 features-adblocker-an-ad-blocker-is-a-piece = Blokovač reklám je softvér, ktorý sa dá použiť na blokovanie reklám a funguje dvoma spôsobmi. Prvý spôsob je blokovanie signálu zo serveru inzerenta, takže reklama sa na stránke nikdy nezobrazí. Druhým spôsobom je blokovanie častí webovej stránky, v ktorých môžu byť reklamy.
@@ -38,7 +38,7 @@ features-adblocker-go-easy-with-standard = Jednoducho so štandardnou ochranou
 features-adblocker-if-ads-dont-bother-you = Ak vás reklamy neobťažujú a nevadí vám, že vás sledujú sledovače a súbory cookie tretích strán, nastavenie Štandardnej ochrany by vám malo vyhovovať. Ak sa chcete v štandardnom režime zbaviť sledovačov, použite <a href="{ $url }">Súkromné prehliadanie</a>.
 features-adblocker-get-tough-with-strict = Najvyššia ochrana v prísnom režime
 features-adblocker-if-seeing-too-many-ads = Ak vám príliš veľa reklám ničí deň, potom je vhodnejšia Prísna ochrana. Tento režim zablokuje známe sledovače a súbory cookie tretích strán vo všetkých oknách { -brand-name-firefox(case: "gen") }.
-features-adblocker-do-it-yourself-custom = Vlastné nastavenia ochrany na spôsob „urob si sám“
+features-adblocker-do-it-yourself-custom = Vlastné nastavenia ochrany "urob si sám"
 features-adblocker-the-custom-setting-gives = Vlastné nastavenie vám dáva dokonalý výber. Môžete sa rozhodnúť, čo budete blokovať, vrátane sledovačov, súborov cookie a ďalších. Ak povolíte cookies z webovej stránky, automaticky sa dostanete do vlastného režimu.
 features-adblocker-cover-your-trail-block = Zakryte stopy, zablokujte sledovače
 features-adblocker-click-on-the-trackers = Kliknite na políčko Sledovací obsah a budete môcť zablokovať sledovače dvoma spôsobmi. Jedným zo spôsobov, ako zablokovať sledovače, je urobiť to keď pracujete v súkromnom okne. Ďalším spôsobom je zablokovať sledovače vo všetkých oknách. Majte na pamäti, že ak sa rozhodnete blokovať sledovače, niektoré stránky sa nemusia načítavať správne.
