@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Blockerar sociala spårare
 firefox-desktop-download-os-availability = OS tillgänglighet
 firefox-desktop-download-in-browser-screenshot = Skärmdumpsverktyg i webbläsaren
 firefox-desktop-download-primary-password = Huvudlösenord
+firefox-desktop-love-your-life = Gilla ditt liv online
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Det är ditt internet. Färglägg det som du vill med tusentals verktyg, teman och tillägg. Firefox är den ursprungliga alternativa webbläsaren som sätter människor före vinster.
 # Obsolete string
 firefox-desktop-download-master-password = Huvudlösenord
 firefox-desktop-download-we-block-the-ad = Vi blockerar annonsspårarna. Du utforskar internet snabbare.
@@ -175,6 +178,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Du använder ett os�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Din nedladdning bör starta automatiskt. Fungerade det inte? <a id="{ $id }" href="{ $fallback_url }">Försök att ladda ner igen.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } är mer än en webbläsare.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Din nedladdning avbröts. Men allt är inte förlorat.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
