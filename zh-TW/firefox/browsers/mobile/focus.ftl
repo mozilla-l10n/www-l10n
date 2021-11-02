@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
@@ -10,8 +10,11 @@ mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: 隱私�
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = 單純的隱私保護瀏覽器。
 mobile-focus-get-firefox-focus = 下載 { -brand-name-firefox-focus }
+mobile-focus-send-a-download-link-to-your = 傳送下載鏈結到您的手機。
 mobile-focus-scan-the-qr-code-to-get-started = 掃描 QR Code 開始使用
 mobile-focus-scan-alt-text = 掃描 QR Code，下載 { -brand-name-firefox-focus }
+# Outdated string
+mobile-focus-disappear-your-history = 讓上網紀錄消失
 mobile-focus-delete-your-history = 刪除瀏覽紀錄
 mobile-focus-tracking-protection = 追蹤保護
 mobile-focus-ad-blocking = 封鎖廣告

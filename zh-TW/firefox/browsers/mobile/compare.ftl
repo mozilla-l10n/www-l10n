@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
@@ -25,10 +25,13 @@ mobile-compare-find-on-page = 在頁面中搜尋
 mobile-compare-image-search = 搜尋圖片
 mobile-compare-voice-search = 語音搜尋
 mobile-compare-add-to-homescreen = 新增至裝置主畫面
+mobile-compare-read-text-aloud = 大聲朗讀文字
 mobile-compare-news-feed = 新聞來源
 mobile-compare-collections = 收藏集
+mobile-compare-inapp-vpn = 內建 VPN
 mobile-compare-shopping = 購物
 mobile-compare-mobile-os-availability = 提供行動版本
+mobile-compare-syncs-with-desktopmobile = 與桌面、行動版同步
 mobile-compare-password-management = 密碼管理
 mobile-compare-primary-password = 主控密碼
 mobile-compare-get-firefox-for-mobile = 下載 { -brand-name-firefox } 行動版
