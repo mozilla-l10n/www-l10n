@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Φραγή ιχνηλατών 
 firefox-desktop-download-os-availability = Διαθεσιμότητα ΛΣ
 firefox-desktop-download-in-browser-screenshot = Ενσωματωμένο εργαλείο στιγμιότυπων οθόνης
 firefox-desktop-download-primary-password = Κύριος κωδικός πρόσβασης
+firefox-desktop-love-your-life = Αγαπήστε τη διαδικτυακή σας ζωή
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Είναι το διαδίκτυό σας. Προσαρμόστε το όπως θέλετε με χιλιάδες εργαλεία, θέματα και επεκτάσεις. Το Firefox είναι το πρώτο εναλλακτικό πρόγραμμα περιήγησης που βάζει τους ανθρώπους πάνω από το κέρδος.
 # Obsolete string
 firefox-desktop-download-master-password = Κύριος κωδικός πρόσβασης
 firefox-desktop-download-we-block-the-ad = Φραγή ιχνηλατών διαφημίσεων. Ταχύτερη εξερεύνηση του ιστού.

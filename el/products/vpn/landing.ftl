@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -80,9 +80,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = Το { -brand-name-mozilla-vpn 
 vpn-landing-faq-compatibility-question-desc = Το { -brand-name-mozilla-vpn } είναι συμβατό με:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (μόνο 64-bit)
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (μόνο 64-bit)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (μόνο 64-bit)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (μόνο 64-bit)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 και νεότερο)
