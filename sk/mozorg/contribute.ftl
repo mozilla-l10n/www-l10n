@@ -25,7 +25,9 @@ contribute-task-translate-heading = Prekladajte obsah
 contribute-task-translate-desc = Internet je globálny len vtedy, keď mu všetci rozumejú. Pomôžte nám preložiť produkty a webové stránky { -brand-name-mozilla(case: "gen") } do vášho lokálneho jazyka.
 contribute-task-mozilla-codebase-heading = Prispejte do zdrojových kódov { -brand-name-mozilla(case: "gen") }
 contribute-task-mozilla-codebase-desc = Ponúkame veľa možností pre vývojárov, ako aktívne vylepšovať produkty { -brand-name-mozilla(case: "gen") }.
+contribute-task-support-desc = Pomôžte zjednodušiť používanie produktov od { -brand-name-mozilla(case: "gen") }. Odpovedajte na otázky používateľov na fórach podpory { -brand-name-mozilla(case: "gen") }.
 contribute-task-join-heading = Pridajte sa ku komunite
+contribute-task-join-desc = Chcete sa aktívne zapojiť do komunitných aktivít { -brand-name-mozilla(case: "gen") }? Pozrite si ďalšie dobrovoľnícke príležitosti na našom komunitnom portáli.
 
 ## Mission
 
