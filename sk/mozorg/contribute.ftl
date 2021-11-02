@@ -15,8 +15,16 @@ contribute-how-heading = Ako sa môžete zapojiť…
 
 ## Contribution tasks
 
+contribute-tag-non-technical = Netechnické
+contribute-tag-technical = Technické
+contribute-tag-technical-non-technical = Technické a netechnické
+contribute-tag-individual-event = Jednotlivci a organizované skupiny
+contribute-tag-individual = Jednotlivci
 contribute-tag-support = Podpora
 contribute-task-translate-heading = Prekladajte obsah
+contribute-task-translate-desc = Internet je globálny len vtedy, keď mu všetci rozumejú. Pomôžte nám preložiť produkty a webové stránky { -brand-name-mozilla(case: "gen") } do vášho lokálneho jazyka.
+contribute-task-mozilla-codebase-heading = Prispejte do zdrojových kódov { -brand-name-mozilla(case: "gen") }
+contribute-task-mozilla-codebase-desc = Ponúkame veľa možností pre vývojárov, ako aktívne vylepšovať produkty { -brand-name-mozilla(case: "gen") }.
 contribute-task-join-heading = Pridajte sa ku komunite
 
 ## Mission
@@ -34,11 +42,15 @@ contribute-opportunities = Novinky a príležitosti pre dobrovoľníkov
 
 ## Made by
 
+contribute-made-by-heading = Vytvorené nadšenými ľuďmi, ako ste vy
+contribute-made-by-desc = Keď prispievate do projektov { -brand-name-mozilla(case: "gen") }, stávate sa súčasťou celosvetovej komunity zloženej z ľudí z celého sveta, ktorí veria, že všetci zohrávame úlohu pri zabezpečovaní toho, aby internet zostal silou dobra.
+contribute-made-by-desc-cont = Veríme, že spolupráca komunity je nevyhnutná na vytvorenie internetu, ktorý je rôznorodý, inovatívny a zodpovedný k ľuďom, ktorí to najviac potrebujú. Či už máte vzdelanie v oblasti techniky, organizovania komunity alebo len počítač a máte nejaký voľný čas, môžete nám pomôcť urobiť internet lepším miestom.
 
 ## Newsletter
 
 contribute-newsletter-heading = Ešte si nie ste istí?
 contribute-newsletter-sub-heading = Získajte správy o komunite a zapojení sa do svojej e-mailovej schránky
+contribute-newsletter-desc = Prihláste sa na odber nášho bulletinu, pripojte sa k Mozillians po celom svete a dozviete sa o pôsobivých príležitostiach na podporu misie { -brand-name-mozilla(case: "gen") }.
 
 ## Support
 
