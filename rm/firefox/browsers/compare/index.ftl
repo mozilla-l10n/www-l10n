@@ -26,4 +26,5 @@ compare-index-how-well-does-your-browser = Quant bain funcziunescha tes navigatu
 compare-index-almost-all-of-the-browsers = Quasi tut ils navigaturs cumparegliads qua pussibiliteschan la sincronisaziun tranter il computer desktop ed ils apparats mobils. Ti dovras in conto per quest scopo. Cun quel pos ti lura s'annunziar sin tut tes apparats e sincronisar per exempel ils pleds-clav, la cronologia, ils segnapaginas e la configuraziun.
 compare-index-conclusion = Conclusiun:
 compare-index-and-the-winner-is = Ed il victur è…
+compare-index-find-out-how-firefox-chrome = Chatta la differenza tranter { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ed { -brand-name-ie } areguard la sfera privata, l'utilitad e la portabilitad.
 compare-index-compare = Cumparegliar
