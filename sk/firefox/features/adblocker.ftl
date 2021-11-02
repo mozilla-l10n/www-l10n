@@ -14,7 +14,7 @@ features-adblocker-an-ad-blocker-is-a-piece = Blokovač reklám je softvér, kto
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-these-ads-might-be-loud = Týmito reklamami môžu byť hlasné videoreklamy, reklamy, ktoré vás sledujú na webe, sledovače, súbory cookie tretích strán a ďalšie. Ak chcete použiť blokovač reklám, môžete vyhľadať doplnky pre blokovanie reklám, ktoré sú dostupné vo vašom prehliadači. <a href="{ $firefox }">{ -brand-name-firefox }</a> má napríklad <a href="{ $addons }">tento zoznam schválených doplnkov na blokovanie reklám</ a>. Kliknite na tento zoznam (alebo blokátory reklám, ktoré sú schválené pre váš prehliadač) a zistite, ktorý vyhovuje vašim potrebám.
+features-adblocker-these-ads-might-be-loud = Týmito reklamami môžu byť hlasné videoreklamy, reklamy, ktoré vás sledujú na webe, sledovače, súbory cookie tretích strán a ďalšie. Ak chcete použiť blokovač reklám, môžete vyhľadať doplnky pre blokovanie reklám, ktoré sú dostupné vo vašom prehliadači. <a href="{ $firefox }">{ -brand-name-firefox }</a> má napríklad <a href="{ $addons }">tento zoznam schválených doplnkov na blokovanie reklám</a>. Kliknite na tento zoznam (alebo blokátory reklám, ktoré sú schválené pre váš prehliadač) a zistite, ktorý vyhovuje vašim potrebám.
 features-adblocker-find-the-right-ad-blocker = Nájdite si pre seba ten správny blokovač
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
@@ -26,7 +26,12 @@ features-adblocker-popup-ads-are-the-worst = Vyskakovacie reklamy sú najhoršie
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Jedným z najobľúbenejších blokovačov reklám pre prehliadače { -brand-name-chrome }, { -brand-name-safari } a { -brand-name-firefox } je <a href="{ $url }">AdBlock</a>. Používajte ho na blokovanie reklám na { -brand-name-facebook(case: "loc") }, { -brand-name-youtube } a { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Vytvorte si zónu bez sledovacích prvkov pomocou blokovania obsahu
-features-adblocker-choose-your-level-of-protection = Vyberte si svoju úroveň ochrany
+# Variables:
+#   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
+#   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
+features-adblocker-on-firefox-you-can-use = Vo { -brand-name-firefox(case: "loc") } môžete použiť nastavenia <a href="{ $privacy }">ochrany súkromia</a> alebo <a href="{ $blocking }">blokovania obsahu</a> a získať ešte väčšiu kontrolu nad nástrojmi na sledovanie reklám, ktoré vám zobrazujú reklamy.
+features-adblocker-choose-your-level-of-protection = Zvoľte si svoju úroveň ochrany
+features-adblocker-to-start-click-on-the = Ak chcete začať, kliknite na ponuku { -brand-name-firefox(case: "gen") } v pravom hornom rohu obrazovky. Vyzerá to ako tri riadky naukladané na seba. V rozbaľovacej ponuke kliknite na Blokovanie obsahu. Mali by ste vidieť modré vyskakovacie okno s rôznymi výbermi.
 features-adblocker-cover-your-trail-block = Zakryte stopy, zablokujte sledovačov
 features-adblocker-take-a-bite-out-of-cookies = Zredukujte cookies
 # Variables:

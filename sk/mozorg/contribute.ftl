@@ -62,6 +62,6 @@ contribute-mozilla-support = Podpora { -brand-name-mozilla(case: "gen") }
 
 ## Web compat
 
-contribute-web-compat-heading = Problémy s webovou stránkou?
-contribute-web-compat-desc = Ak sa vaše skúsenosti s našou webovou stránkou líšia medzi prehliadačmii, pravdepodobne ste zistili problém s kompatibilitou webu. Radi by sme o tom vedeli!
+contribute-web-compat-heading = Problémy so stránkou?
+contribute-web-compat-desc = Ak sa vaša skúsenosť s webovou stránkou v jednotlivých prehliadačoch líši, možno ste objavili problém s kompatibilitou webu. Radi by sme o tom vedeli!
 contribute-report-issue = Nahlásiť chybu
