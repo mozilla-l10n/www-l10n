@@ -20,6 +20,7 @@ mobile-focus-scan-alt-text = Olvassa le a QR-kódot, hogy beszerezze a { -brand-
 # Outdated string
 mobile-focus-disappear-your-history = Tüntesse el az előzményeit
 mobile-focus-delete-your-history = Törölje az előzményeket
+mobile-focus-easily-erase-your = Könnyen törölheti előzményeit, jelszavait és sütijeit, így a nem kívánt hirdetések nem követhetik Önt az interneten. Csak koppintson a törlés gombra a keresőmezőben, és eltűnik.
 mobile-focus-take-private-mode = Emelje a privát módot a következő szintre
 mobile-focus-tracking-protection = Követés elleni védelem
 mobile-focus-ad-blocking = Reklámblokkolás
