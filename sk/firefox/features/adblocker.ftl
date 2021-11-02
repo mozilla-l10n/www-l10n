@@ -23,7 +23,19 @@ features-adblocker-popup-ads-are-the-worst = Vyskakovacie reklamy sú najhoršie
 features-adblocker-one-of-the-most-popular = Jedným z najobľúbenejších blokovačov reklám pre prehliadače { -brand-name-chrome }, { -brand-name-safari } a { -brand-name-firefox } je <a href="{ $url }">AdBlock</a>. Používajte ho na blokovanie reklám na { -brand-name-facebook(case: "loc") }, { -brand-name-youtube } a { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Vytvorte si zónu bez sledovacích prvkov pomocou blokovania obsahu
 features-adblocker-choose-your-level-of-protection = Vyberte si svoju úroveň ochrany
+features-adblocker-cover-your-trail-block = Zakryte stopy, zablokujte sledovačov
 features-adblocker-take-a-bite-out-of-cookies = Zredukujte cookies
-features-adblocker-send-a-do-not-track-signal = Odošlite signál Do Not Track
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/storage
+features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Súbory cookie</a> sú odosielané webovými stránkami, ktoré navštevujete. Tieto súbory žijú vo vašom počítači a sledujú, čo robíte na stránke. Keď vám letecká spoločnosť zvýši sadzby, pretože ste si v ten deň raz pozreli letenky, je to práca súborov cookies.
+features-adblocker-in-firefox-you-can-block = Vo { -brand-name-firefox(case: "loc") } môžete blokovať všetky súbory cookie tretích strán alebo len tie, ktoré nastavili sledovači. Uvedomte si, že zablokovanie všetkých súborov cookie môže znefunkčniť niektoré stránky.
+features-adblocker-send-a-do-not-track-signal = Odosielajte príznak Do Not Track
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
+features-adblocker-if-you-dont-want-your = Ak nechcete, aby sa vaše správanie online využívalo na reklamy, môžete webovým stránkam posielať zdvorilý list „ďakujem, ale neprosím“ zvolením voľby <a href="{ $url }">v sekcii Do Not Track</a> v nastaveniach { -brand-name-firefox(case: "gen") }. Účasť je dobrovoľná, ale zapojené webové stránky vás okamžite prestanú sledovať.
 features-adblocker-speed-up-thanks-to-ad = Zrýchlite vďaka blokovačom reklám
-features-adblocker-take-control-of-your-browser = Prevezmite kontrolu nad svojim prehliadačom.
+features-adblocker-in-some-cases-an-ad-blocker = V niektorých prípadoch môže blokovanie reklám pomôcť vášmu prehliadaču zrýchliť. Keď sa reklama načítava, môže spomaliť web. Ak ste príliš zaneprázdnení zatváraním ďalšej reklamy, hľadanie toho, čo skutočne hľadáte, trvá dlhšie.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more = Ak sa chcete dozvedieť viac o blokovaní reklám, pre prehliadač { -brand-name-firefox } ako aj ďalšie prehliadače sú k dispozícii stovky rozšírení na blokovanie reklám. Ak chcete vyskúšať blokovače reklám pre { -brand-name-firefox }, <a href="{ $url }">kliknutím sem</a> si stiahnete prehliadač, ktorý kladie súkromie na prvé miesto.
+features-adblocker-take-control-of-your-browser = Prevezmite kontrolu nad svojim prehliadačom
