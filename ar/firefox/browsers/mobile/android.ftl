@@ -54,7 +54,6 @@ mobile-android-mozilla-exists-to = تحرص مؤسسة { -brand-name-mozilla } �
 
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = اختصر الإنترنت مع { -brand-name-firefox } لنظام تشغيل { -brand-name-android }
-mobile-android-get-there-faster = انطلق إلى وجهتك بشكل أسرع مع { -brand-name-firefox } لِنظام تشغيل { -brand-name-android }
 mobile-android-see-all-your-open-tabs = شاهد جميع تبويباتك المفتوحة وآخر عمليات البحث والمواقع المُفضّلة، جميعُها في مكان واحد مع مُتصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-android }.
 mobile-android-own-your-home = امتلك شاشتك الرئيسية
 mobile-android-get-to-the-parts = انطلق بشكل أسرع إلى أجزاء الإنترنت التي تهتُم بها. شاهد جميع تبويباتك المفتوحة وآخر عمليات البحث والعلامات والمواقع المُفضّلة، جميعها في مكان واحد.
