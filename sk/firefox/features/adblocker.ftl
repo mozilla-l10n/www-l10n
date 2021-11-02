@@ -40,7 +40,8 @@ features-adblocker-get-tough-with-strict = Najvyššia ochrana v prísnom režim
 features-adblocker-if-seeing-too-many-ads = Ak vám príliš veľa reklám ničí deň, potom je vhodnejšia Prísna ochrana. Tento režim zablokuje známe sledovače a súbory cookie tretích strán vo všetkých oknách { -brand-name-firefox(case: "gen") }.
 features-adblocker-do-it-yourself-custom = Vlastné nastavenia ochrany na spôsob „urob si sám“
 features-adblocker-the-custom-setting-gives = Vlastné nastavenie vám dáva dokonalý výber. Môžete sa rozhodnúť, čo budete blokovať, vrátane sledovačov, súborov cookie a ďalších. Ak povolíte cookies z webovej stránky, automaticky sa dostanete do vlastného režimu.
-features-adblocker-cover-your-trail-block = Zakryte stopy, zablokujte sledovačov
+features-adblocker-cover-your-trail-block = Zakryte stopy, zablokujte sledovače
+features-adblocker-click-on-the-trackers = Kliknite na políčko Sledovací obsah a budete môcť zablokovať sledovače dvoma spôsobmi. Jedným zo spôsobov, ako zablokovať sledovače, je urobiť to keď pracujete v súkromnom okne. Ďalším spôsobom je zablokovať sledovače vo všetkých oknách. Majte na pamäti, že ak sa rozhodnete blokovať sledovače, niektoré stránky sa nemusia načítavať správne.
 features-adblocker-take-a-bite-out-of-cookies = Zredukujte cookies
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/storage
