@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Блокує стеження 
 firefox-desktop-download-os-availability = Доступність для різних ОС
 firefox-desktop-download-in-browser-screenshot = Вбудований засіб знімків екрана
 firefox-desktop-download-primary-password = Головний пароль
+firefox-desktop-love-your-life = Любіть своє онлайн-життя
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Це ваш інтернет. Прикрасьте його на свій смак за допомогою тисяч інструментів, тем і розширень. Firefox — оригінальний альтернативний браузер, який ставить людей понад прибуток.
 # Obsolete string
 firefox-desktop-download-master-password = Головний пароль
 firefox-desktop-download-we-block-the-ad = Ми блокуємо елементи стеження оголошень. Ви швидше переглядаєте в Інтернеті.
@@ -175,6 +178,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Ви викорис�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Завантаження розпочнеться автоматично. Не почалося? <a id="{ $id }" href="{ $fallback_url }">Спробуйте ще раз.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - це більше, ніж браузер.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Завантаження було перервано. Але нічого не втрачено.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
