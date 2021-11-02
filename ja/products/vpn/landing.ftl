@@ -101,12 +101,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } は
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } は、以下のデバイスと互換性があります。
 
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64 ビットのみ)
-
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64 ビットのみ)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/

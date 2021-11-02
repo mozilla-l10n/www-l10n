@@ -101,12 +101,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } م�
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } متوافق مع:
 
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-بت فقط)
-
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = نظام تشغيل 10 { -brand-name-windows } (64 بت فقط)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/

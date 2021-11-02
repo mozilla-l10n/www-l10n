@@ -101,12 +101,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } ser
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } serasi dengan:
 
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-bit sahaja)
-
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-bit sahaja)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
