@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
-nightly-whatsnew-youve-just-been = Práve ste aktualizovali { -brand-name-firefox-nightly } { $version }!
+nightly-whatsnew-youve-just-been = Práve ste aktualizovali na { -brand-name-firefox-nightly } { $version }!
 nightly-whatsnew-your-firefox-nightly = Váš { -brand-name-firefox-nightly } bol aktualizovaný.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = Vždy v priebehu 4 až 5 týždňov vychádza nová hlavná verzia { -brand-name-firefox }u a v dôsledku toho aj nová verzia { -brand-name-nightly }.
