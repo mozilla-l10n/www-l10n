@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -10,10 +10,8 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } downloade
 vpn-shared-waitlist-link = Op de wachtlist pleatse
 vpn-shared-sign-in-link = Binne jo al abonnee?
 # Outdated string
-vpn-shared-available-countries = Wy biede { -brand-name-mozilla-vpn } op dit stuit oan yn de FS, it FK, Kanada, Nij-Seelân, Singapore en Maleizië.
-# Outdated string
-vpn-shared-available-countries-v2 = Wy biede { -brand-name-mozilla-vpn } op dit stuit oan yn de FS, it FK, Dútslân, Frankryk, Kanada, Maleizië, Nij-Seelân en Singapore.
 vpn-shared-available-countries-v3 = Wy biede { -brand-name-mozilla-vpn } op dit stuit oan yn de FS, Kanada, it FK, Dútslân, Frankryk, Italië, Eastenryk, Switserlân, Spanje, België, Maleizië, Nij-Seelân en Singapoer.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dagen-jildweromgarânsje
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Oanrekommandearre yn
@@ -51,6 +49,8 @@ vpn-shared-features-strong-servers = Krêftige servers yn mear as { $countries }
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Ferbyn maksimaal { $devices } apparaten
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30-dagen-jildweromgarânsje
 vpn-shared-refund-policy = Restitúsjebelied
 vpn-shared-privacy-notice = Privacyferklearring
 vpn-shared-terms-conditions = Betingsten
@@ -69,8 +69,12 @@ vpn-shared-pricing-plan-monthly = Moanliks
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/moanne</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Abonnemint foar 6 moannen ôfslute
+# Outdated string
 vpn-shared-pricing-get-12-month = Abonnemint foar 12 moannen ôfslute
+vpn-shared-pricing-get-6-month-v2 = Abonnemint foar 6 moannen ôfslute
+vpn-shared-pricing-get-12-month-v2 = Abonnemint foar 12 moannen ôfslute
 vpn-shared-pricing-get-monthly = Moanne-abonnemint ôfslute
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
