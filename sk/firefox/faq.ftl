@@ -25,10 +25,17 @@ how-do-i = Ako získam { -brand-name-firefox-browser(capitalization: "lower") }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Verziu prehliadača { -brand-name-firefox } pre počítač si môžete jednoducho stiahnuť <a href="{ $url }">tu</a>. { -brand-name-firefox } funguje na zariadeniach s operačným systémom <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> a je takisto k dispozícii pre <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios }</a>. Uistite sa, že prehliadač sťahujete z niektorej z našich dôveryhodných stránok { -brand-name-mozilla(case: "gen") }/{ -brand-name-firefox(case: "gen") }.
+is-firefox-free = Je { -brand-name-firefox } zadarmo?
+yep-the-firefox = Áno! { -brand-name-firefox-browser } je zadarmo. Vlastne úplne zadarmo. Žiadne skryté náklady ani nič podobné. Za jeho používanie nič neplatíte a vaše osobné údaje nepredávame.
+related-questions-free = Súvisiace otázky: je { -brand-name-firefox-browser(capitalization: "lower") } zadarmo, stojí { -brand-name-firefox } nejaké peniaze
+is-chrome-better = Je { -brand-name-chrome } lepší ako { -brand-name-firefox }?
+no-we-dont = Nie, nemyslíme si, že { -brand-name-chrome } je lepší ako { -brand-name-firefox }, a tu je dôvod: keď sa ľudia pýtajú, ktorý prehliadač je lepší, v skutočnosti sa pýtajú, ktorý prehliadač je rýchlejší a bezpečnejší. { -brand-name-firefox } sa aktualizuje mesačne, aby ste sa uistili, že máte najrýchlejší prehliadač, ktorý automaticky rešpektuje vaše súkromie.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Pozrite si porovnanie { -brand-name-firefox(case: "gen") } a { -brand-name-chrome }</a>
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
