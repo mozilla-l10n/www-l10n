@@ -1,15 +1,25 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+firefox-products-are = Produkty { -brand-name-firefox(case: "gen") } sú navrhnuté tak, aby chránili vaše súkromie
+learn-more-about-firefox = Získajte ďalšie informácie o { -brand-name-firefox(case: "gen") }, jeho histórii, funkciách a poslaní
+learn-more-about = Získajte ďalšie informácie o prehliadačoch a produktoch { -brand-name-firefox(case: "gen") }, ktoré narábajú s vašimi údajmi s rešpektom a sú vytvorené pre ochranu súkromia, kdekoľvek sa pripojíte online.
+learn-more-faq = Často kladené otázky o { -brand-name-firefox(case: "loc") }
 the-history-of = História webových prehliadačov
+firefox-has-been = { -brand-name-firefox } je tu takmer od začiatku.
+firefox-rebel-with = { -brand-name-firefox } - rebel s poslaním
+firefox-is-independent = { -brand-name-firefox } je nezávislý a podporovaný neziskovou organizáciou { -brand-name-mozilla }, ktorá bojuje za vaše online práva a sprístupňuje internet každému a kdekoľvek.
 what-is-a = Čo je webový prehliadač?
+a-web-browser = Webový prehliadač vás zavedie kamkoľvek na internete a umožní vám prezerať si text, obrázky a videá odkiaľkoľvek na svete.
+update-your-browser = Aktualizujte svoj prehliadač na rýchly, bezpečný a bezpečný { -brand-name-firefox }.
+the-firefox-browser = Prehliadač { -brand-name-firefox } je vytvorený tak, aby chránil vaše súkromie na každom kroku – pretože je to najrýchlejší spôsob, ako vás zbaviť pomalého načítavania, zlých reklám a sledovačov.
 firefox-is-more = { -brand-name-firefox } je viac ako prehliadač
-take-your-passwords = Vezmite si svoje heslá so sebou
-securely-access-the = Bezpečný prístup k heslám uloženým vo { -brand-name-firefox(case: "loc") } kdekoľvek — aj mimo prehliadača.
+its-a-lightning = Je to bleskovo rýchla brána k tomu najlepšiemu na webe.
+get-the-browsers = Získajte prehliadače, pre ktoré je súkromie to najdôležitejšie – a vždy bolo
 choose-which-firefox = Vyberte si, ktorý { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } chcete vo svojom jazyku stiahnuť
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pre { -brand-name-chromebook }
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
