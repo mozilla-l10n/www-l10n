@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,7 @@ firefox-desktop-download-blocks-social-trackers = Bloca le traciatores social
 firefox-desktop-download-os-availability = Disponibilitate pro systemas operative
 firefox-desktop-download-in-browser-screenshot = Utensile de captura de schermo in le navigator
 firefox-desktop-download-primary-password = Contrasigno primari
+firefox-desktop-love-your-life = Ama tu vita online
 # Obsolete string
 firefox-desktop-download-master-password = Contrasigno maestro
 firefox-desktop-download-we-block-the-ad = Nos bloca le traciatores de avisos publicitari. Tu explora internet plus velocemente.
@@ -175,6 +176,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Tu usa un systema op
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Le discargamento deberea comenciar automaticamente. Non functiona? <a id="{ $id }" href="{ $fallback_url }">Tenta discargar lo de novo.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es plus que un navigator.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Tu discargamento se interrumpeva, ma non toto es perdite.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
