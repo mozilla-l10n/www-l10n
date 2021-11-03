@@ -80,3 +80,5 @@ who-owns-firefox = Kto vlastní { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } vyvíja { -brand-name-mozilla-corporation }, dcérska spoločnosť v úplnom vlastníctve neziskovej <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> a riadi sa princípmi Manifestu { -brand-name-mozilla(case: "gen") }. Ďalšie informácie o tvorcovi { -brand-name-firefox(case: "gen") } nájdete <a href="{ $url2 }">tu</a>.
+related-questions-who = Súvisiace otázky: kto je vlastníkom { -brand-name-firefox(case: "gen") }, kto vlastní { -brand-name-firefox-browser(capitalization: "lower") }, je { -brand-name-firefox } vlastnený spoločnosťou { -brand-name-google }, je { -brand-name-mozilla } { -brand-name-firefox } vo vlastníctve spoločnosti { -brand-name-google }
