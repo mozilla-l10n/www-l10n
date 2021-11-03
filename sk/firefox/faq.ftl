@@ -36,13 +36,13 @@ no-we-dont = Nie, nemyslíme si, že { -brand-name-chrome } je lepší ako { -br
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Pozrite si porovnanie { -brand-name-firefox(case: "gen") } a { -brand-name-chrome }</a>
-related-questions-better = Súvisiace otázky: je { -brand-name-firefox } lepší ako { -brand-name-chrome }, je { -brand-name-firefox } lepší ako { -brand-name-google } je { -brand-name-firefox } bezpečnejší ako { -brand-name-chrome }, je { -brand-name-firefox } lepší v ochrane súkromia ako { -brand-name-chrome }
+related-questions-better = Súvisiace otázky: je { -brand-name-firefox } lepší ako { -brand-name-chrome }, je { -brand-name-firefox } lepší ako { -brand-name-google }, je { -brand-name-firefox } bezpečnejší ako { -brand-name-chrome }, je { -brand-name-firefox } lepší v ochrane súkromia ako { -brand-name-chrome }
 is-firefox-safe-download = Je bezpečné sťahovať { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
-protecting-your-privacy = Ochrana vášho súkromia je našou prioritou číslo jedna a zaisťujeme, že inštalácia { -brand-name-firefox(case: "gen") } na vaše zariadenia je úplne bezpečná – vždy sa však uistite, že sťahujete z dôveryhodných stránok { -brand-name-mozilla(case: "gen") }/{ -brand-name-firefox(case: "gen") }, ako je <a href="{ $url }">naša stránka na stiahnutie</a>.
+protecting-your-privacy = Ochrana vášho súkromia je našou prioritou číslo jedna a preto sa snažíme zaistiť, aby inštalácia { -brand-name-firefox(case: "gen") } na vaše zariadenia bola úplne bezpečná – vždy sa však uistite, že sťahujete z dôveryhodných stránok { -brand-name-mozilla(case: "gen") }/{ -brand-name-firefox(case: "gen") }, ako je <a href="{ $url }">naša stránka na stiahnutie</a>.
 is-firefox-safe = Je { -brand-name-firefox } bezpečný?
 
 # Variables:
@@ -65,7 +65,7 @@ does-firefox-use = Používa { -brand-name-firefox } vyhľadávač { -brand-name
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
-firefoxs-default-search = { -brand-name-google } je predvolený vyhľadávací nástroj vo { -brand-name-firefox(case: "loc") }, čo znamená, že môžete vyhľadávať na webe priamo z panela s adresou. <a href="{ $url }">Ďalšie informácie o nastaveniach vyhľadávacieho nástroja a zmene predvolených nastavení.</a>
+firefoxs-default-search = { -brand-name-google } je predvoleným vyhľadávacím nástrojom vo { -brand-name-firefox(case: "loc") }, čo znamená, že môžete vyhľadávať na webe priamo z panela s adresou. <a href="{ $url }">Ďalšie informácie o nastaveniach vyhľadávacieho nástroja a zmene predvolených nastavení.</a>
 does-firefox-have = Má { -brand-name-firefox } vstavanú sieť VPN?
 
 # Variables:
