@@ -101,6 +101,9 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } は
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } は、以下のデバイスと互換性があります。
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64 ビットのみ)
 
 # Outdated string
 # Variables:
