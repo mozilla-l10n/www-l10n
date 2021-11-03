@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Produkty { -brand-name-firefox(case: "gen") } sú navrhnuté tak, aby chránili vaše súkromie
-learn-more-about-firefox = Získajte ďalšie informácie o { -brand-name-firefox(case: "gen") }, jeho histórii, funkciách a poslaní
+learn-more-about-firefox = Získajte ďalšie informácie o { -brand-name-firefox(case: "loc") }, jeho histórii, funkciách a poslaní
 learn-more-about = Získajte ďalšie informácie o prehliadačoch a produktoch { -brand-name-firefox(case: "gen") }, ktoré narábajú s vašimi údajmi s rešpektom a sú vytvorené pre ochranu súkromia, kdekoľvek sa pripojíte online.
 learn-more-faq = Často kladené otázky o { -brand-name-firefox(case: "loc") }
 the-history-of = História webových prehliadačov
@@ -65,3 +65,7 @@ firefox-more-fingerprinter-blocking = Blokovanie vytvárania odtlačkov prehliad
 firefox-more-fingerprinting-is-a = Snímanie odtlačkov prehliadača je typ online sledovania, ktorý je invazívnejší ako bežné sledovanie založené na súboroch cookie – preto ho { -brand-name-firefox-browser(capitalization: "lower") } blokuje.
 firefox-more-translate-the-web = Prekladanie webových stránok
 firefox-more-translate-more-than = Prekladajte z viac ako 100 jazykov do svojho jazyka priamo v { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } – jednoduchšie než kedykoľvek predtým.
+firefox-more-a-guide-to = Sprievodca bezpečnejšími prihlasovacími údajmi a heslami
+firefox-more-more-and-more = Čoraz viac citlivých a hodnotných vecí v našom živote je strážených heslami.
+firefox-more-avoid-misinformation-heading = Vyhnite sa dezinformáciám online – { -brand-name-firefox } je tu, aby vám pomohol
+firefox-more-avoid-misinformation-desc = Pozrite si tipy, ako vidieť menej dezinformácií a zamerať sa na to, čo je pre vás dôležité.
