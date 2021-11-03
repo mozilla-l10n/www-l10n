@@ -39,6 +39,8 @@ firefox-desktop-download-os-availability = Disponibilidade em sistemas operacion
 firefox-desktop-download-in-browser-screenshot = Ferramenta integrada de captura de tela
 firefox-desktop-download-primary-password = Senha principal
 firefox-desktop-love-your-life = Adore sua vida online
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = É a sua internet. Use-a do jeito que quiser com milhares de ferramentas, temas e extensões. O Firefox é o navegador alternativo original que coloca as pessoas à frente dos lucros.
 # Obsolete string
 firefox-desktop-download-master-password = Senha principal
 firefox-desktop-download-we-block-the-ad = Nós bloqueamos publicidade que tem rastreamento. Você explora a internet mais rápido.
