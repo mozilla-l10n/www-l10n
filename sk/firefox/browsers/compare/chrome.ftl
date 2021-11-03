@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 # HTML page title
-compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs. { -brand-name-chrome }: Ktorý je lepší?
+compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs. { -brand-name-chrome }: ktorý je lepší?
 # HTML page description
 compare-chrome-we-compare-mozilla-firefox = { -brand-name-mozilla(case: "acc") } { -brand-name-firefox } a { -brand-name-google } { -brand-name-chrome } porovnávame z hľadiska ochrany súkromia, užitočnosti a prenosnosti.
 # Main title.
