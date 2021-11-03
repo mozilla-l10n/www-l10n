@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,7 @@ firefox-desktop-download-blocks-social-trackers = Bloqueio de rastreadores de m�
 firefox-desktop-download-os-availability = Disponibilidade em sistemas operacionais
 firefox-desktop-download-in-browser-screenshot = Ferramenta integrada de captura de tela
 firefox-desktop-download-primary-password = Senha principal
+firefox-desktop-love-your-life = Adore sua vida online
 # Obsolete string
 firefox-desktop-download-master-password = Senha principal
 firefox-desktop-download-we-block-the-ad = Nós bloqueamos publicidade que tem rastreamento. Você explora a internet mais rápido.
