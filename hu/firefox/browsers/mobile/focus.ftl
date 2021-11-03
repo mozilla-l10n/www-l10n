@@ -22,6 +22,9 @@ mobile-focus-disappear-your-history = Tüntesse el az előzményeit
 mobile-focus-delete-your-history = Törölje az előzményeket
 mobile-focus-easily-erase-your = Könnyen törölheti előzményeit, jelszavait és sütijeit, így a nem kívánt hirdetések nem követhetik Önt az interneten. Csak koppintson a törlés gombra a keresőmezőben, és eltűnik.
 mobile-focus-take-private-mode = Emelje a privát módot a következő szintre
+# Outdated string
+mobile-focus-private-browsing-on = A „privát böngészés” a legtöbb böngészőben nem is olyan privát. A { -brand-name-firefox-focus } a következő szint, mindig bekapcsolt adatvédelemmel rendelkezik, és a { -brand-name-mozilla } támogatja, a nonprofit szervezet, amely az Ön jogaiért küzd a weben.
+mobile-focus-private-browsing-on-v2 = A „privát böngészés” a legtöbb böngészőben nem is olyan privát. A { -brand-name-firefox-focus } következő szintű adatvédelmet kínál alapértelmezetten, és a { -brand-name-mozilla } támogatja, a nonprofit szervezet, amely az Ön jogaiért küzd a weben.
 mobile-focus-tracking-protection = Követés elleni védelem
 mobile-focus-ad-blocking = Reklámblokkolás
 mobile-focus-see-it-all = Lásson mindet gyorsabban
