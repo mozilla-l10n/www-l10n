@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } pre { -brand-name-firefox } | Zabráňte { -brand-name-facebook }u sledovať, aké stránky navštevujete.
-facebook-container-millions-of-people-around = Milióny ľudí po celom svete veria { -brand-name-firefox }u ako svojmu webovému prehliadaču pre { -brand-name-android }, { -brand-name-ios } a počítače. Je rýchly a chráni vaše súkromie. Stiahnite si ho hneď teraz!
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } pre { -brand-name-firefox } | Zabráňte { -brand-name-facebook(case: "gen") } sledovať, aké stránky navštevujete.
+facebook-container-millions-of-people-around = Milióny ľudí po celom svete veria { -brand-name-firefox(case: "gen") } ako svojmu webovému prehliadaču pre { -brand-name-android }, { -brand-name-ios } a počítače. Je rýchly a chráni vaše súkromie. Stiahnite si ho hneď teraz!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Pod kontrolou. Nechajte si zvyšok svojho života pre seba.
 facebook-container-get-the-facebook-container = Získajte rozšírenie { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Stiahnite si { -brand-name-firefox } a získajte rozšírenie { -brand-name-facebook-container }
@@ -25,11 +25,11 @@ facebook-container-try-firefox-focus-the-privacy = Vyskúšajte <strong>{ -brand
 facebook-container-opt-out-on-your-terms = Vyjadrite svoj nesúhlas
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } môže sledovať skoro celú vašu webovú aktivitu a môže ju spojiť s vašou { -brand-name-facebook }ovou identitou. Ak je to na vás príliš, <a href="{ $fbcontainer }">rozšírenie { -brand-name-facebook-container }</a> môže izolovať vašu identitu do oddelenej kontajnerovej karty a sťažiť tak { -brand-name-facebook }u sledovanie vašej aktivity na stránkach mimo { -brand-name-facebook }u.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } môže sledovať skoro celú vašu webovú aktivitu a môže ju spojiť s vašou { -brand-name-facebook }ovou identitou. Ak je to na vás príliš, <a href="{ $fbcontainer }">rozšírenie { -brand-name-facebook-container }</a> môže izolovať vašu identitu do oddelenej kontajnerovej karty a sťažiť tak { -brand-name-facebook(case: "gen") } sledovanie vašej aktivity na stránkach mimo { -brand-name-facebook(case: "gen") }.
 facebook-container-install-and-contain = Nainštalujte si rozšírenie
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-installing-the-extension-is = Inštalácia <a href="{ $fbcontainer }">rozšírenia</a> je jednoduchá a akonáhle je aktivované, otvorí sa vám { -brand-name-facebook } vždy na modrej karte. { -brand-name-facebook } môžete používať tak, ako predtým. { -brand-name-facebook } vám stále bude môcť zobrazovať reklamy a odporúčania na svojej stránke, ale bude preň omnoho ťažšie používať aktivitu <strong>mimo stránky { -brand-name-facebook }u</strong> a na základe nej tieto reklamy a iné cielené správy zobrazovať.
+facebook-container-installing-the-extension-is = Inštalácia <a href="{ $fbcontainer }">rozšírenia</a> je jednoduchá a akonáhle je aktivované, otvorí sa vám { -brand-name-facebook } vždy na modrej karte. { -brand-name-facebook } môžete používať tak, ako predtým. { -brand-name-facebook } vám stále bude môcť zobrazovať reklamy a odporúčania na svojej stránke, ale bude preň omnoho ťažšie používať aktivitu <strong>mimo stránky { -brand-name-facebook(case: "gen") }</strong> a na základe nej tieto reklamy a iné cielené správy zobrazovať.
 facebook-container-about-firefox-and-mozilla = O { -brand-name-firefox(case: "loc") } a { -brand-name-mozilla(case: "loc") }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/

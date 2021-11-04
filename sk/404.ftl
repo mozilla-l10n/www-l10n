@@ -11,7 +11,7 @@ not-found-page-were-all-about-a-healthy-internet = Všetkým nám ide o zdravý 
 not-found-page-go-back = Prejsť naspäť
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Zistite viac</a> o { -brand-name-mozilla(case: "loc") }, neziskovej organizácii, ktorá je autorom { -brand-name-firefox(case: "gen") }.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Ďalšie informácie</a> o { -brand-name-mozilla(case: "loc") }, neziskovej organizácii, ktorá je autorom { -brand-name-firefox(case: "gen") }.
 # Variables:
 #   $explore (url) - link to https://www.mozilla.org/firefox/
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>Pozrite sa</a> na celý rad produktov s názvom { -brand-name-firefox } navrhnutých s ohľadom na vaše súkromie.

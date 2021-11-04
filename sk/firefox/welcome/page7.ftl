@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
 
 # HTML page title
-page7-make-it-harder-for-facebook = Sťažte { -brand-name-facebook }u vaše sledovanie
+page7-make-it-harder-for-facebook = Sťažte { -brand-name-facebook(case: "dat") } vaše sledovanie
 page7-its-okay-to-like-facebook = Je v poriadku, ak sa vám páči { -brand-name-facebook }
-page7-if-you-still-kinda-like-facebook = Ak máte radi { -brand-name-facebook }, no nedôverujete mu, vyskúšajte rozšírenie { -brand-name-facebook-container } pre { -brand-name-firefox } a obmedzte sledovanie zo strany { -brand-name-facebook }u.
+page7-if-you-still-kinda-like-facebook = Ak máte radi { -brand-name-facebook }, no nedôverujete mu, vyskúšajte rozšírenie { -brand-name-facebook-container } pre { -brand-name-firefox } a obmedzte sledovanie zo strany { -brand-name-facebook(case: "gen") }.
 page7-get-facebook-container = Získajte { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Funguje aj s Instagramom

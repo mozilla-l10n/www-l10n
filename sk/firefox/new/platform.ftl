@@ -45,7 +45,7 @@ new-platform-download-the-fastest-mac = Stiahnite si ten najrýchlejší { -bran
 new-platform-faster-page-loading-mac = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } pre { -brand-name-mac-short } je tu.
 new-platform-privacy-comes-first = Súkromie je na prvom mieste
 new-platform-firefox-doesnt-spy = { -brand-name-firefox } nesleduje vaše vyhľadávanie. Blokujeme sledovacie cookies tretích strán a dávame vám úplnú kontrolu.
-new-platform-get-speed-and-security = Rýchlosť aj bezpečnosť. { -brand-name-firefox } je na { -brand-name-mac-short }u rýchly, pretože vás nesleduje.
+new-platform-get-speed-and-security = Rýchlosť aj bezpečnosť. { -brand-name-firefox } je na { -brand-name-mac-short(case: "gen") } rýchly, pretože vás nesleduje.
 new-platform-block-trackers = Blokuje sledovacie prvky
 new-platform-be-the-master-of-your = Pomocou prísneho blokovania obsahu môžete odstrihnúť všetky cookies a sledovacie prvky.
 

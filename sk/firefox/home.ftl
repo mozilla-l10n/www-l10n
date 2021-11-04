@@ -9,7 +9,7 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - celý rad produkto
 firefox-home-firefox-is-more-than = { -brand-name-firefox } je viac než len prehliadač. Prečítajte si viac o produktoch { -brand-name-firefox }, ktoré spracúvajú vaše údaje s rešpektom a sú navrhnuté tak, aby chránili vaše súkromie kdekoľvek na internete.
 firefox-home-the-browser-is-just = Prehliadač je len začiatok
 firefox-home-meet-our-family-of = Spoznajte náš rad produktov
-firefox-home-get-trackers-off = Zablokujte viac ako 2 000 sledovacích prvkov - vrátane { -brand-name-facebook }u
+firefox-home-get-trackers-off = Zablokujte viac ako 2 000 sledovacích prvkov - vrátane { -brand-name-facebook(case: "gen") }
 firefox-home-know-when-hackers-strike = Zostaňte o krok vpred pred hackermi
 firefox-home-start-getting-breach = Nechajte si posielať upozornenia na úniky dát
 # Obsolete string
@@ -29,7 +29,7 @@ firefox-home-protection-for-your-whole = Ochrana pre celé vaše zariadenie, na 
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Jedno prihlásenie. Všetky vaše zariadenia. Skupina produktov, ktoré rešpektujú vaše <strong>súkromie</strong>.
 firefox-home-join-firefox = Prihláste sa do { -brand-name-firefox(case: "dat") }
-firefox-home-learn-more-about-joining = Prečítajte si viac informácií o prihlásení sa do { -brand-name-firefox }u
+firefox-home-learn-more-about-joining = Prečítajte si viac informácií o prihlásení sa do { -brand-name-firefox(case: "gen") }
 firefox-home-get-the-browser-extension = Získajte rozšírenie prehliadača
 firefox-home-get-the-facebook-container = Získajte rozšírenie { -brand-name-facebook-container }
 firefox-home-download-the-browser = Stiahnuť prehliadač

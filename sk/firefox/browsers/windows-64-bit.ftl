@@ -14,12 +14,12 @@ windows-64-bit-64-bit = 64-bit
 windows-64-bit-a-more-secure-firefox = Bezpečnejší { -brand-name-firefox }.
 # Variables:
 # $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
-windows-64-bit-users-on-64-bit-windows-crashes = Používatelia 64-bitového systému { -brand-name-windows } v predvolenom nastavení dostávajú 64-bitovú verziu { -brand-name-firefox }u. To znamená, že dostávajú bezpečnejšiu verziu { -brand-name-firefox }u, ktorá je <a href="{ $crashes }">omnoho stabilnejšia</a>. Ako veľmi? Podľa našich testov padá 64-bitový { -brand-name-firefox } na počítačoch so 4 GB RAM a viac o 39% menej.
+windows-64-bit-users-on-64-bit-windows-crashes = Používatelia 64-bitového systému { -brand-name-windows } v predvolenom nastavení dostávajú 64-bitovú verziu { -brand-name-firefox(case: "gen") }. To znamená, že dostávajú bezpečnejšiu verziu { -brand-name-firefox(case: "gen") }, ktorá je <a href="{ $crashes }">omnoho stabilnejšia</a>. Ako veľmi? Podľa našich testov padá 64-bitový { -brand-name-firefox } na počítačoch so 4 GB RAM a viac o 39% menej.
 windows-64-bit-whats-the-difference = Aký je rozdiel medzi 32-bitovou a 64-bitovou verziou?
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
-windows-64-bit-heres-the-key-thing = Hlavným rozdielom je, že 64-bitové aplikácie majú možnosť využiť viac pamäte a sú stabilnejšie ako 32-bitové aplikácie. Taktiež pre ne funguje bezpečnostná funkcia <a href="{ $ASLR }">Address Space Layout Randomization (ASLR)</a>, ktorá vás chráni pred útočníkmi. Používatelia { -brand-name-linux }u a { -brand-name-mac } sa nemusia báť, tí už 64-bitovú verziu { -brand-name-firefox }u používajú.
+windows-64-bit-heres-the-key-thing = Hlavným rozdielom je, že 64-bitové aplikácie majú možnosť využiť viac pamäte a sú stabilnejšie ako 32-bitové aplikácie. Taktiež pre ne funguje bezpečnostná funkcia <a href="{ $ASLR }">Address Space Layout Randomization (ASLR)</a>, ktorá vás chráni pred útočníkmi. Používatelia { -brand-name-linux(case: "gen") } a { -brand-name-mac } sa nemusia báť, tí už 64-bitovú verziu { -brand-name-firefox(case: "gen") } používajú.
 windows-64-bit-how-do-you-get-64 = Ako získam 64-bitový { -brand-name-firefox }?
 # Variables:
 # $version (url) - link to https://support.microsoft.com/help/13443/windows-which-operating-system

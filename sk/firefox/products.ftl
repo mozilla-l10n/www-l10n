@@ -45,8 +45,8 @@ firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Objavte ten najlepší obsah na webe - a majte k nemu prístup kdekoľvek a kedykoľvek.
 firefox-products-get-pocket = Získať { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Ďalšie informácie o { -brand-name-pocket }e
-firefox-products-join-firefox-and-get-the-most = Prihláste sa do { -brand-name-firefox }u a získajte čo najviac zo svojich produktov - na všetkých zariadeniach.
+firefox-products-join-firefox-and-get-the-most = Prihláste sa do { -brand-name-firefox(case: "gen") } a získajte čo najviac zo svojich produktov - na všetkých zariadeniach.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Už máte účet? <a { $fxa_attr }>Prihláste sa</a> alebo <a { $accounts_attr }>zistite viac</a> o prihlásení sa do { -brand-name-firefox }u.
+firefox-products-already-have-an-account-sign = Už máte účet? <a { $fxa_attr }>Prihláste sa</a> alebo <a { $accounts_attr }>zistite viac</a> o prihlásení sa do { -brand-name-firefox(case: "gen") }.

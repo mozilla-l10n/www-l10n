@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -40,5 +40,5 @@ best-browser-one-easy-way-to-check = Jeden jednoduchý spôsob, ako si to môže
 best-browser-choosing-the-best-browser = Výber najlepšieho prehliadača je ako výber domu. Mali by ste preskúmať všetky možnosti, urobiť si prieskum a rozhodnúť sa na základe toho, čo je pre vás dôležité.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
-best-browser-at-firefox-weve-worked = V prípade <a href="{ $firefox }">{ -brand-name-firefox }u</a> sme usilovne pracovali na vytvorení prehliadača, ktorý je dvakrát rýchlejší než kedykoľvek predtým a poskytuje používateľom väčšiu kontrolu nad ich online životom.
+best-browser-at-firefox-weve-worked = V prípade <a href="{ $firefox }">{ -brand-name-firefox(case: "gen") }</a> sme usilovne pracovali na vytvorení prehliadača, ktorý je dvakrát rýchlejší než kedykoľvek predtým a poskytuje používateľom väčšiu kontrolu nad ich online životom.
 best-browser-take-control-of-your = Prevezmite kontrolu nad svojim prehliadačom.

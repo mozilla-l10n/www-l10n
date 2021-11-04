@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
@@ -16,7 +16,7 @@ features-memory-every-computer-program-you = Každý program v počítači zaber
 features-memory-stop-running-out-of-memory = Neplytvajte zbytočne pamäťou
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/fx54memorytest/
-features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">{ -brand-name-chrome } používa 1.77x viac pamäte než { -brand-name-firefox }</a>. Ak má váš počítač už teraz málo pamäte, toto môže byť naozaj problém. Použitím najnovšej verzie { -brand-name-firefox }u s multiprocesovou architektúrou uvoľníte väčšie množstvo pamäte pre vaše obľúbené programy.
+features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">{ -brand-name-chrome } používa 1.77x viac pamäte než { -brand-name-firefox }</a>. Ak má váš počítač už teraz málo pamäte, toto môže byť naozaj problém. Použitím najnovšej verzie { -brand-name-firefox(case: "gen") } s multiprocesovou architektúrou uvoľníte väčšie množstvo pamäte pre vaše obľúbené programy.
 features-memory-browse-faster-privately = Prehliadajte rýchlejšie a súkromnejšie
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-firefox-accounts-there-is-a-way-to = Existuje spôsob, ako chrániť vaše súkromie. Prihláste sa do { -brand-name-firefox }u.
+firefox-accounts-there-is-a-way-to = Existuje spôsob, ako chrániť svoje súkromie. Prihláste sa do { -brand-name-firefox(case: "case") }.
 # Old HTML page title
 firefox-accounts-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } - majte svoje údaje v bezpečí a synchronizované
 # HTML page description
@@ -14,14 +14,14 @@ firefox-accounts-take-your-stand-stay-smart = Postavte sa proti spoločnostiam, 
 # Old HTML page description
 firefox-accounts-securely-sync-your = Bezpečne si synchronizujte svoje heslá, záložky a karty medzi všetkými svojimi zariadeniami. Založte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } hneď teraz – jedno prihlásenie – možnosti a súkromie všade.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
-firefox-accounts-there-is-a-way-to-protect = Existuje spôsob, ako chrániť vaše súkromie. <span>Prihláste sa do { -brand-name-firefox }u.</span>
+firefox-accounts-there-is-a-way-to-protect = Existuje spôsob, ako chrániť vaše súkromie. <span>Prihláste sa do { -brand-name-firefox(case: "case") }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = Postavte sa proti odvetviu, ktoré z vás robí produkt.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = Ste prihlásení <br>do { -brand-name-firefox }u. <br><span>Vyskúšajte { -brand-name-firefox-monitor }.</span>
+firefox-accounts-youre-signed-in-to = Ste prihlásení <br>do { -brand-name-firefox(case: "gen") }. <br><span>Vyskúšajte { -brand-name-firefox-monitor }.</span>
 firefox-accounts-see-if-youve-been = Pozrite sa, či ste sa stali súčasťou úniku dát.
-firefox-accounts-sign-in-to-monitor = Prihláste sa do { -brand-name-monitor }u
-firefox-accounts-join-firefox = Prihláste sa do { -brand-name-firefox }u
+firefox-accounts-sign-in-to-monitor = Prihláste sa do { -brand-name-monitor(case: "gen") }
+firefox-accounts-join-firefox = Prihláste sa do { -brand-name-firefox(case: "gen") }
 firefox-accounts-enter-your-email-address = Začnite zadaním svojej e-mailovej adresy.
 firefox-accounts-already-have-an-account = Máte už účet?
 firefox-accounts-sign-in = Prihláste sa
