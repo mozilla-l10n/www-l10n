@@ -11,7 +11,7 @@
 browsers-chromebook-get-firefox-browser = Získajte { -brand-name-firefox-browser(capitalization: "lower") } pre { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Takže máte { -brand-name-chromebook } – teraz je čas získať nezávislý, automaticky súkromný { -brand-name-firefox-browser(capitalization: "lower") } na ochranu vašich osobných údajov.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Získať { -brand-name-firefox } pre { -brand-name-android }
-browsers-chromebook-get-firefox-desktop = Získať { -brand-name-firefox } Desktop pre { -brand-name-chromebook }
+browsers-chromebook-get-firefox-desktop = Získať { -brand-name-firefox } vo verzii počítače pre { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = * { -brand-name-chromebook } založený na x86 so systémom { -brand-name-chromeos } 80 alebo novším
 browsers-chromebook-dropdown-copy = Získať { -brand-name-firefox } pre { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = Nainštalujte si { -brand-name-firefo
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Nainštalujte si { -brand-name-firefox } ako aplikáciu pre { -brand-name-linux }: prejsť touto cestou si vyžaduje niekoľko ďalších krokov, ale stojí to za to. Keď si nainštalujete prehliadač { -brand-name-firefox } ako aplikáciu pre { -brand-name-linux }, získate verziu prehliadača { -brand-name-firefox } pre počítače a všetky výhody, ktoré so sebou prináša, vrátane vylepšenej ochrany pred sledovaním, vstavaného správcu hesiel, prístupu k tisíckam doplnkov (vrátane blokovania reklám UBlock Origin) a témam na prispôsobenie vzhľadu prehliadača. <a { $url }>Pozrite si ďalšie informácie o inštalácii verzie prehliadača { -brand-name-firefox } pre počítače na zariadení { -brand-name-chromebook }.</a>
