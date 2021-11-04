@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -16,4 +16,7 @@ features-shared-password-manager = Përgjegjës fjalëkalimesh
 features-shared-customize-your-browser = Përshtateni shfletuesin tuaj
 features-shared-sync-between-devices = Njëkohësoni pajisje
 features-shared-better-bookmarks = Faqerojtës më të mirë
+features-shared-fingerprinter-blocking = Bllokim Krijimi Shenjash Gishtash
+features-shared-translate-the-web = Përktheni internetin
+features-shared-picture-in-picture = Picture-in-Picture
 brand-name-firefox = { -brand-name-firefox }
