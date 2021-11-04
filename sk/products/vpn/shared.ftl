@@ -79,7 +79,7 @@ vpn-shared-pricing-get-12-month-v2 = Získajte 12-mesačný plán
 vpn-shared-pricing-get-monthly = Získajte mesačný plán
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
-vpn-shared-pricing-save-percent = Ušetríte { $percent } %
+vpn-shared-pricing-save-percent = Ušetríte { $percent }%
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Celkom { $amount }

@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -14,7 +14,7 @@ windows-64-bit-64-bit = 64-bit
 windows-64-bit-a-more-secure-firefox = Bezpečnejší { -brand-name-firefox }.
 # Variables:
 # $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
-windows-64-bit-users-on-64-bit-windows-crashes = Používatelia 64-bitového systému { -brand-name-windows } v predvolenom nastavení dostávajú 64-bitovú verziu { -brand-name-firefox }u. To znamená, že dostávajú bezpečnejšiu verziu { -brand-name-firefox }u, ktorá je <a href="{ $crashes }">omnoho stabilnejšia</a>. Ako veľmi? Podľa našich testov padá 64-bitový { -brand-name-firefox } na počítačoch so 4 GB RAM a viac o 39 % menej.
+windows-64-bit-users-on-64-bit-windows-crashes = Používatelia 64-bitového systému { -brand-name-windows } v predvolenom nastavení dostávajú 64-bitovú verziu { -brand-name-firefox }u. To znamená, že dostávajú bezpečnejšiu verziu { -brand-name-firefox }u, ktorá je <a href="{ $crashes }">omnoho stabilnejšia</a>. Ako veľmi? Podľa našich testov padá 64-bitový { -brand-name-firefox } na počítačoch so 4 GB RAM a viac o 39% menej.
 windows-64-bit-whats-the-difference = Aký je rozdiel medzi 32-bitovou a 64-bitovou verziou?
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
