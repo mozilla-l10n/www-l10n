@@ -4,7 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } هو متصفح سريع للغاية يوفر أدوات مطور متطورة وأحدث الميزات، مثل دعم CSS Grid وتصحيح أخطاء إطار العمل

@@ -4,7 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } は最先端のデベロッパーツールや、CSS Grid 対応・フレームワークデバグなど、最新機能を備えた超高速ブラウザー

@@ -4,7 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } एक तीव्र ब्राउज़र है जो अत्याधुनिक डेवलपर साधनों और नवीनतम सुविधाओं जैसे CSS ग्रिड समर्थन और फ़्रेमवर्क डिबगिंग की पेशकश करता है
