@@ -25,7 +25,16 @@
 -brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-hulu = Hulu
--brand-name-microsoft = Microsoft
+-brand-name-microsoft =
+    { $case ->
+       *[nom] Microsoft
+        [gen] Microsoftu
+        [dat] Microsoftu
+        [acc] Microsoft
+        [loc] Microsofte
+        [ins] Microsoftom
+    }
+    .gender = masculine
 -brand-name-mozilla =
     { $case ->
        *[nom] Mozilla

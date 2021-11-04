@@ -26,7 +26,7 @@ what-is-a-browser-when-the-web-browser = Keď webový prehliadač načítava úd
 # Variables:
 #   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
 #   $url(url) - link to https://wikipedia.org/wiki/URL
-what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hyperlinkové odkazy</a> umožňujú používateľom prechádzať na iné stránky alebo lokality na webe. Každá webová stránka, obrázok a video má svoj vlastnú jedinečnú adresu <a href="{ $url }">Uniform Resource Locator</a> (URL), ktorá je známa aj ako webová adresa. Keď prehliadač navštívi server kvôli údajom, webová adresa povie prehliadaču, kde má hľadať každú položku popísanú v html, čo potom prehliadaču oznámi, kam na webovej stránke patrí.
+what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hypertextové odkazy</a> umožňujú používateľom prechádzať na iné stránky alebo lokality na webe. Každá webová stránka, obrázok a video má svoj vlastnú jedinečnú adresu <a href="{ $url }">Uniform Resource Locator</a> (URL), ktorá je známa aj ako webová adresa. Keď prehliadač navštívi server kvôli údajom, webová adresa povie prehliadaču, kde má hľadať každú položku popísanú v html, čo potom prehliadaču oznámi, kam na webovej stránke patrí.
 what-is-a-browser-cookies-not-the = Cookies (nie, nie sú to koláčiky)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
