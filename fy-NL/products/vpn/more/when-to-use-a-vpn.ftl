@@ -13,4 +13,5 @@ vpn-when-to-use-2-in-the = 2. Yn de buert
 vpn-when-to-use-3-on-the = 3. Underweis
 vpn-when-to-use-4-home-away = 4. Thús fuort fan hûs
 vpn-when-to-use-5-in-your = 5. Yn jo eigen hûs
+vpn-when-to-use-make-sure-you = Soargje derfoar dat jo begripe wat in VPN net docht
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, in betroubere VPN-tsjinst
