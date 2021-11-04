@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -28,4 +28,4 @@ home-personalize-firefox-with-your = Prispôsobte si { -brand-name-firefox } s v
 home-careers = Zamestnanie
 home-learn-about-the-benefits-of = Zistite viac o výhodách zamestnania v { -brand-name-mozilla(case: "loc") } a pozrite si otvorené pozície na celom svete.
 home-need-help = Potrebujete pomoc?
-home-get-answers-to-your-questions = Získajte odpovede na vaše otázky o { -brand-name-firefox }e a všetkých { -brand-name-mozilla } produktoch od nášho tímu podpory.
+home-get-answers-to-your-questions = Získajte odpovede na vaše otázky o { -brand-name-firefox(case: "loc") } a všetkých produktoch { -brand-name-mozilla(case: "gen") } od nášho tímu podpory.

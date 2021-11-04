@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -13,7 +13,7 @@ privacy-faq-it-can-be-tricky-for-people = Ľudia často nevedia, čo majú od so
 privacy-faq-at-mozilla-we-respect-and-protect = V { -brand-name-mozilla(case: "loc") } rešpektujeme a chránime vaše osobné informácie:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-we-follow-a-set-of-data-privacy = Riadime sa sériou <a href="{ $link }">Princípov ochrany údajov</a>, ktoré kreujú náš prístup k súkromiu vo { -brand-name-firefox }e pre počítače a mobily.
+privacy-faq-we-follow-a-set-of-data-privacy = Riadime sa súborom <a href="{ $link }">Princípov ochrany osobných údajov</a>, ktoré formujú náš prístup k ochrane súkromia vo { -brand-name-firefox(case: "loc") } pre počítače a mobilné zariadenia.
 privacy-faq-we-only-collect-the-data-we = Zbierame len údaje, ktoré potrebujeme na tvorbu lepších produktov.
 privacy-faq-we-put-people-in-control-of = Ľudia majú mať kontrolu nad svojim online zážitkom.
 privacy-faq-we-adhere-to-no-surprises-principle = Riadime sa princípom „žiadnych prekvapení“, čo znamená, že tvrdo pracujeme na tom, aby ľudia porozumeli tomu, aký je { -brand-name-firefox } v skutočnosti.
@@ -46,7 +46,7 @@ privacy-faq-do-you-collect-more-data-in = Zbierate viac údajov vo vývojových 
 privacy-faq-sort-of-in-addition-to-the-data = Dá sa to tak povedať. Vo vývojových verziách { -brand-name-firefox }u dostávame v predvolenom nastavení okrem údajov popísaných vyššie taktiež hlásenia o pádoch a o chybách.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = Ak robíme <a href="{ $link }">štúdiu</a>, môžeme zbierať dodatočné údaje. Niektoré štúdie napríklad vyžadujú tzv. „údaje o webovej aktivite“, ktoré môžu obsahovať URL adresy a ďalšie informácie o určitých webových stránkach. Vďaka tomu si môžeme odpovedať na určité otázky o { -brand-name-firefox }e a naďalej ho vylepšovať.
+privacy-faq-we-may-also-collect-additional = Ak robíme <a href="{ $link }">štúdiu</a>, môžeme zbierať dodatočné údaje. Niektoré štúdie napríklad vyžadujú tzv. „údaje o webovej aktivite“, ktoré môžu obsahovať URL adresy a ďalšie informácie o určitých webových stránkach. Vďaka tomu si môžeme odpovedať na určité otázky o { -brand-name-firefox(case: "loc") } a naďalej ho vylepšovať.
 privacy-faq-mozillas-pre-release-versions = Vývojové verzie { -brand-name-firefox(case: "gen") } sú často aktualizované experimentálnymi funkciami. Pred vydaním určitej verzie zbiera { -brand-name-mozilla } väčšie množstvo údajov ako po jej vydaní. Chceme sa totiž dozvedieť, ako tieto experimentálne funkcie pracujú. Zo zberu týchto údajov sa môžete odhlásiť v možnostiach.
 privacy-faq-but-why-do-you-collect-any-data = Ale prečo nejaké údaje vôbec zbierate?
 privacy-faq-if-we-dont-know-how-the-browser = Ak nevieme, ako sa prehliadač správa v ostrej prevádzke a aké funkcie ľudia používajú, nemôžeme ho vylepšovať. Investovali sme do analytických nástrojov a do nástrojov na zber údajov, ktoré rešpektujú súkromie ľudí.
@@ -54,7 +54,7 @@ privacy-faq-data-collection-still-bugs-me = Zber údajov sa mi prieči. Môžem 
 # Variables:
 #   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
-privacy-faq-yes-user-control-is-one-of-our = Áno. Používateľská kontrola je jednou z našich zásad. V praxi na tieto účely slúžia <a href="{ $settings }">nastavenia súkromia vo { -brand-name-firefox }e</a>. Práve v nich môžete <a href="{ $data }">vypnúť zber údajov</a>.
+privacy-faq-yes-user-control-is-one-of-our = Áno. Používateľská kontrola je jednou z našich zásad. V praxi na tieto účely slúžia <a href="{ $settings }">nastavenia súkromia vo { -brand-name-firefox(case: "loc") }</a>. Práve v nich môžete <a href="{ $data }">vypnúť zber údajov</a>.
 privacy-faq-what-about-my-account-data = A čo údaje súvisiace s mojím účtom?
 privacy-faq-we-are-big-believers-of-data = Veríme v minimalizáciu potreby údajov a nepýtame sa na veci, ktoré nepotrebujeme vedieť.
 # Variables:

@@ -57,7 +57,15 @@
         [loc] Netscape
         [ins] Netscapom
     }
--brand-name-twitter = Twitter
+-brand-name-twitter =
+    { $case ->
+       *[nom] Twitter
+        [gen] Twitteru
+        [dat] Twitteru
+        [acc] Twitter
+        [loc] Twitteri
+        [ins] Twitterom
+    }
 -brand-name-wireguard = WireGuard
 
 ## Firefox browsers

@@ -28,7 +28,7 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } automa
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Pošlite nám spätnú väzbu</a> a pomôžte nám vylepšiť výkon a funkcionalitu vo finálnych verzií Firefoxu.
-firefox-channel-check-out-new-android-features = Vyskúšajte nové funkcie na { -brand-name-android }e v ich raných fázach. Zážitok na vlastné nebezpečenstvo.
+firefox-channel-check-out-new-android-features = Vyskúšajte nové funkcie na { -brand-name-android(case: "loc") } v ich raných fázach. Zážitok na vlastné nebezpečenstvo.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release

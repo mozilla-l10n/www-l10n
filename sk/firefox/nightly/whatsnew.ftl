@@ -17,7 +17,7 @@ nightly-whatsnew-this-is-a-good = Teraz je správny čas na to, aby sme vám po�
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to = Ak chcete vedieť, čo sa deje okolo { -brand-name-nightly } a našej komunity, môžete si prečítať náš <a href="{ $blog }">blog</a> a začať nás sledovať na <a href="{ $twitter }">{ -brand-name-twitter }i</a>.
+nightly-whatsnew-if-you-want-to = Ak chcete vedieť, čo sa deje okolo { -brand-name-nightly } a našej komunity, môžete si prečítať náš <a href="{ $blog }">blog</a> a začať nás sledovať na <a href="{ $twitter }">{ -brand-name-twitter(case: "loc") }</a>.
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Chcete vedieť, ktoré funkcie môžete v { -brand-name-nightly } otestovať, a ktoré nie sú dostupné v žiadnej inej verzii { -brand-name-firefox(case: "gen") }? Tak sa pozrite na stránku <a href="{ $mdn }">Experimental Features</a> na <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.

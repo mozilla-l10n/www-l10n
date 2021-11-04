@@ -21,4 +21,4 @@ features-memory-browse-faster-privately = Prehliadajte rýchlejšie a súkromnej
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
 # "Decluttering" means reducing clutter
-features-memory-explore-the-web-faster-with = Preskúmajte web rýchlejšie pomocou <a href="{ $url }">súkromného prehliadania vo { -brand-name-firefox }e</a>. Iba súkromné prehliadanie vo { -brand-name-firefox }e obsahuje ochranu pred sledovaním, ktorá blokuje reklamy so sledovacími prvkami. "Oklieštené" verzie stránok sa načítavajú rýchlejšie.
+features-memory-explore-the-web-faster-with = Preskúmajte web rýchlejšie pomocou <a href="{ $url }">súkromného prehliadania vo { -brand-name-firefox(case: "loc") }</a>. Iba súkromné prehliadanie vo { -brand-name-firefox(case: "loc") } obsahuje ochranu pred sledovaním, ktorá blokuje reklamy so sledovacími prvkami. "Oklieštené" verzie stránok sa načítavajú rýchlejšie.

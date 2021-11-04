@@ -29,7 +29,7 @@ new-platform-faster-page-loading-linux = Rýchlejšie načítavanie stránok, me
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } pre { -brand-name-linux }
 new-platform-privacy-more-than = Súkromie - najdôležitejší prvok
-new-platform-your-life-your-business = Váš život, vaša vec. { -brand-name-firefox } blokuje sledovacie cookies tretích strán na { -brand-name-linux }e.
+new-platform-your-life-your-business = Váš život, vaša vec. { -brand-name-firefox } blokuje sledovacie cookies tretích strán na { -brand-name-linux(case: "loc") }.
 new-platform-speed-meet-security = Rýchlosť aj bezpečnosť. { -brand-name-firefox } je dvakrát rýchlejší ako { -brand-name-chrome }, pričom používa o 30% menej pamäte.
 new-platform-open-source = Otvorený zdrojový kód
 new-platform-look-under-the-hood = Pozrite sa pod kapotu. { -brand-name-firefox } je postavený na otvorenom zdrojovom kóde - tak, ako { -brand-name-linux }.
@@ -62,4 +62,4 @@ new-platform-firefox-moves-fast = { -brand-name-firefox } je rýchly a s vašimi
 new-platform-common-sense-privacy = Súkromie ruka v ruke so zdravým rozumom
 new-platform-live-your-life = Žite si svoj život. { -brand-name-firefox } vás nesleduje. Je len na vás, čo budete zdieľať a kedy.
 new-platform-seamless-setup = Jednoduché nastavenie
-new-platform-easy-migration = Jednoduchý prenos nastavení a záložiek vo { -brand-name-firefox }e pre { -brand-name-windows }.
+new-platform-easy-migration = Jednoduchý prenos nastavení a záložiek vo { -brand-name-firefox(case: "loc") } pre { -brand-name-windows }.

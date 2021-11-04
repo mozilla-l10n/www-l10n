@@ -34,7 +34,7 @@ firefox-products-keep-your-passwords-safe-and = Udržiavajte svoje heslá v bezp
 # Obsolete string
 firefox-products-download-lockwise = Stiahnuť { -brand-name-lockwise }
 # Obsolete string
-firefox-products-open-in-firefox = Otvoriť vo { -brand-name-firefox }e
+firefox-products-open-in-firefox = Otvoriť vo { -brand-name-firefox(case: "loc") }
 # Obsolete string
 firefox-products-learn-more-about-lockwise = Ďalšie informácie o { -brand-name-lockwise }
 # Obsolete string
@@ -44,7 +44,7 @@ firefox-products-send-a-file = Odoslať súbor
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Objavte ten najlepší obsah na webe - a majte k nemu prístup kdekoľvek a kedykoľvek.
 firefox-products-get-pocket = Získať { -brand-name-pocket }
-firefox-products-learn-more-about-pocket = Ďalšie informácie o { -brand-name-pocket }e
+firefox-products-learn-more-about-pocket = Ďalšie informácie o službe { -brand-name-pocket }
 firefox-products-join-firefox-and-get-the-most = Prihláste sa do { -brand-name-firefox(case: "gen") } a získajte čo najviac zo svojich produktov - na všetkých zariadeniach.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

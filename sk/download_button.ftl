@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Stiahnuť teraz
 download-button-free-download = Stiahnuť zadarmo
@@ -36,6 +36,6 @@ download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</s
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> pre { -brand-name-android }
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> pre { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pre { -brand-name-ios }
-download-button-firefox-privacy = Súkromie vo { -brand-name-firefox }e
+download-button-firefox-privacy = Súkromie vo { -brand-name-firefox(case: "loc") }
 download-button-firefox-privacy-notice = { -brand-name-firefox } a súkromie
 download-button-download = Stiahnuť

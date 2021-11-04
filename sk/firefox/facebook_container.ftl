@@ -25,7 +25,7 @@ facebook-container-try-firefox-focus-the-privacy = Vyskúšajte <strong>{ -brand
 facebook-container-opt-out-on-your-terms = Vyjadrite svoj nesúhlas
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } môže sledovať skoro celú vašu webovú aktivitu a môže ju spojiť s vašou { -brand-name-facebook }ovou identitou. Ak je to na vás príliš, <a href="{ $fbcontainer }">rozšírenie { -brand-name-facebook-container }</a> môže izolovať vašu identitu do oddelenej kontajnerovej karty a sťažiť tak { -brand-name-facebook(case: "dat") } sledovanie vašej aktivity na stránkach mimo { -brand-name-facebook(case: "gen") }.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } môže sledovať skoro celú vašu webovú aktivitu a môže ju spojiť s vašou identitou na { -brand-name-facebook(case: "loc") }. Ak je to na vás príliš, <a href="{ $fbcontainer }">rozšírenie { -brand-name-facebook-container }</a> môže izolovať vašu identitu do oddelenej kontajnerovej karty a sťažiť tak { -brand-name-facebook(case: "dat") } sledovanie vašej aktivity na stránkach mimo { -brand-name-facebook(case: "gen") }.
 facebook-container-install-and-contain = Nainštalujte si rozšírenie
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -34,4 +34,4 @@ facebook-container-about-firefox-and-mozilla = O { -brand-name-firefox(case: "lo
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
 facebook-container-were-backed-by-mozilla-the = Stojí za nami <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, nezisková organizácia, ktorá stavia na prvé miesto ľudí, nie zisk. Vytvorili sme toto rozšírenie, pretože si myslíme, že by ste mali mať jednoducho použiteľné nástroje, ktoré vám pomôžu spravovať svoje súkromie a bezpečnosť.
-facebook-container-browse-freely-with-firefox = Prehliadajte slobodne s { -brand-name-firefox }om.
+facebook-container-browse-freely-with-firefox = Prehliadajte slobodne s { -brand-name-firefox(case: "ins") }.
