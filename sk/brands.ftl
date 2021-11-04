@@ -469,7 +469,16 @@
     }
     .gender = masculine
 -brand-name-edge = Edge
--brand-name-ie = Internet Explorer
+-brand-name-ie =
+    { $case ->
+       *[nom] Internet Explorer
+        [gen] Internet Explorera
+        [dat] Internet Exploreru
+        [acc] Internet Explorer
+        [loc] Internet Exploreri
+        [ins] Internet Explorerom
+    }
+    .gender = masculine
 -brand-name-opera = Opera
 -brand-name-safari = Safari
 -brand-name-duckduckgo = DuckDuckGo
