@@ -19,7 +19,7 @@ new-platform-need-help = Potrebujete pomoc?
 
 ## Linux
 
-new-platform-download-mozilla-linux = Stiahnuť { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-linux }
+new-platform-download-mozilla-linux = Stiahnite si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Nainštalujte si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-linux }, slobodný webový prehliadač. { -brand-name-firefox } je vytváraný ako neziskový, kde vy ste na prvom mieste, pričom cieľom je udržať kontrolu vo vašich rukách. Získajte { -brand-name-firefox } pre { -brand-name-linux } ešte dnes!
 # /firefox/linux/ social sharing title
@@ -36,7 +36,7 @@ new-platform-look-under-the-hood = Pozrite sa pod kapotu. { -brand-name-firefox 
 
 ## Mac
 
-new-platform-download-mozilla-firefox-mac = Stiahnuť { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-mac-short }
+new-platform-download-mozilla-firefox-mac = Stiahnite si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
 new-platform-download-mozilla-firefox-desc-mac = Nainštalujte si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-mac-short }, slobodný webový prehliadač. { -brand-name-firefox } je vytváraný ako neziskový, kde vy ste na prvom mieste, pričom cieľom je udržať kontrolu vo vašich rukách. Získajte { -brand-name-firefox } pre { -brand-name-mac-short } ešte dnes!
 # /firefox/mac/ social sharing title
@@ -51,7 +51,7 @@ new-platform-be-the-master-of-your = Pomocou prísneho blokovania obsahu môžet
 
 ## Windows
 
-new-platform-download-mozilla-windows = Stiahnuť { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-windows }
+new-platform-download-mozilla-windows = Stiahnite si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-windows }
 # /firefox/windows/ HTML page description
 new-platform-download-mozilla-desc-windows = Nainštalujte si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-windows }, slobodný webový prehliadač. { -brand-name-firefox } je vytváraný ako neziskový, kde vy ste na prvom mieste, pričom cieľom je udržať kontrolu vo vašich rukách. Získajte { -brand-name-firefox } pre { -brand-name-windows } ešte dnes!
 # /firefox/windows/ social sharing title
