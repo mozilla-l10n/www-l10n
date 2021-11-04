@@ -21,7 +21,7 @@ vpn-landing-fast-secure-heading = Rýchla a bezpečná sieť
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } beží na celosvetovej sieti serverov . Za použitia najpokročilejšieho protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme všetku vašu aktivitu a skrývame vašu IP adresu. Nezaznamenávame, nesledujeme a nezdieľame vaše údaje.
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } beží na celosvetovej sieti serverov. Za použitia najpokročilejšieho protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme všetku vašu aktivitu a skrývame vašu IP adresu. Nezaznamenávame, nesledujeme a nezdieľame vaše údaje.
 # Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
@@ -39,7 +39,7 @@ vpn-landing-faq-heading = Často kladené otázky
 vpn-langing-faq-uses-question-heading = Čo je to VPN a na čo sa používa?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
-vpn-landing-faq-uses-question-desc = Súkromie a bezpečnosť na internete sú v dnešnej dobe čoraz dôležitejšie. VPN (<a href="{ $url }">Virtuálna privátna sieť) vám môže pomôcť vytvoriť si bezpečné a súkromné pripojenie na internet. Vytvára totižto istý „tunel“ medzi vašim zariadením a internetom vo všeobecnosti. Vaše súkromie je chránené dvoma dôležitými spôsobmi:
+vpn-landing-faq-uses-question-desc = Keďže čoraz viac každodenného života prebieha cez internet, súkromie a bezpečnosť online sa stávajú ešte dôležitejšími. VPN (<a href="{ $url }">Virtuálna súkromná sieť</a>), vám môže pomôcť vytvoriť bezpečné súkromné pripojenie k internetu. Funguje tak, že vytvára „tunel“ medzi vaším zariadením a internetom vo všeobecnosti a chráni vás dvoma dôležitými spôsobmi:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = Skrýva vašu skutočnú <a href="{ $url }">IP adresu</a>. Takto chráni vašu identitu a skrýva vaše umiestnenie.
@@ -75,9 +75,9 @@ vpn-landing-faq-compatibility-question-heading = S akými zariadeniami je { -bra
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
-vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je kompatibilné s <a href="{ $mobile }">mobilmi</a>, tabletmi a <a href="{ $desktop }">počítačmi</a> s:
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je kompatibilná s <a href="{ $mobile }">mobilnými telefónmi</a>, tabletmi a <a href="{ $desktop }">počítačmi</a> s:
 # Outdated string
-vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } je kompatibilné s:
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } je kompatibilná s:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (len 64-bitová verzia)
@@ -128,8 +128,6 @@ vpn-landing-faq-manage-subscription-question-heading = Ako môžem spravovať sv
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Ak už máte predplatné { -brand-name-mozilla-vpn }, môžete zmeniť svoj plán či <a href="{ $url }">spravovať svoje predplatné</a> kedykoľvek.
 vpn-landing-faq-link = Ďalšie často kladené otázky
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Hups. Vyzerá to tak, že ešte nemáte predplatné.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
@@ -139,7 +137,7 @@ vpn-landing-invite-page-heading = Pridajte sa na zoznam čakateľov na VPN
 vpn-landing-invite-email-label = Aká je vaša e-mailová adresa?
 vpn-landing-invite-required-label = Požadované
 # Only localize "yourname". Do not change "@example.com".
-vpn-landing-invite-email-placeholder = yourname@example.com
+vpn-landing-invite-email-placeholder = vasa_adresa@example.com
 vpn-landing-invite-country-label = V ktorej krajine žijete?
 vpn-landing-invite-language-label = Vyberte si vami požadovaný jazyk.
 vpn-landing-invite-platform-label = O ktoré platformy máte záujem?

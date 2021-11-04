@@ -141,7 +141,7 @@ firefox-desktop-download-grab-a-high = Získajte obrázok čohokoľvek online vo
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automaticky <a { $attrs }>blokuje mnoho sledovačov tretích strán</a> od zhromažďovania a predaja vašej webovej aktivity.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Podpora pre { -brand-name-mozilla }</a> vám pomôže.
+firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Stránky podpory pre produkty { -brand-name-mozilla(gen: "gen") }</a> vám pomôžu.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Prehliadač { -brand-name-firefox } už máte. No to nie je jediná vec so značkou { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Sledujte hackerov pomocou { -brand-name-firefox-monitor }u, chráňte svoje heslá pomocou { -brand-name-firefox-lockwise } a omnoho viac.
@@ -176,7 +176,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Používate nezabezp
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-firefox-new-should-begin = Sťahovanie by malo začať automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Skúste to znova</a>.
+firefox-desktop-download-your-firefox-new-should-begin = Sťahovanie by malo začať automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Skúste to znova</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je viac ako prehliadač.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Vaše sťahovanie bolo prerušené. Nič však nie je stratené.

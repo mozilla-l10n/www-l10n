@@ -26,7 +26,7 @@ firefox-all-32-bit-installers = 32-bitové inštalátory
 firefox-all-download-the-firefox = Stiahnite si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } v slovenčine či v jednom z viac ako 90 ďalších jazykov
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Všetci si zaslúžia mať prístup na internet a jazyk by nikdy nemal byť prekážkou. Preto vďaka dobrovoľníkom z celého sveta ponúkame { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } vo viac ako 90 jazykoch.
-firefox-all-choose-which-firefox = Vyberte si, ktorý { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } chcete vo svojom jazyku stiahnuť
+firefox-all-choose-which-firefox = Zvoľte si jazyk a verziu { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }, ktorú chcete stiahnuť
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } a súkromie
 firefox-all-learn-about-firefox = Ďalšie informácie o prehliadačoch { -brand-name-firefox }
 firefox-all-the-standard-firefox = Klasický { -brand-name-firefox } - rýchly a zameraný na súkromie. Ak si nie ste istí, ktorý { -brand-name-firefox } si vybrať, vyberte si tento.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ## Required
@@ -34,7 +34,7 @@ firefox-new-youre-using-an-insecure-outdated = Používate nezabezpečený, zast
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-new-your-firefox-new-should-begin = Sťahovanie by malo začať automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Skúste to znova</a>.
+firefox-new-your-firefox-new-should-begin = Sťahovanie by malo začať automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Skúste to znova</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je viac ako prehliadač.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Vaše sťahovanie bolo prerušené. Nič však nie je stratené.

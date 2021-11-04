@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -8,7 +8,7 @@
 firefox-channel-desktop = Počítač
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
-firefox-channel-take-a-browse-on-the-wild-side = Vezmite budúcnosť na testovaciu jazdu.
+firefox-channel-take-a-browse-on-the-wild-side = Vezmite budúcnosť na testovaciu jazdu
 firefox-channel-be-among-the-first-to-explore = Buďte medzi prvými, ktorí si môžu vyskúšať budúce verzie { -brand-name-firefox }u pre počítače, { -brand-name-android } a { -brand-name-ios }.
 firefox-channel-see-something-that-isnt-working = Niečo nefunguje? Oznámte nám to.
 firefox-channel-file-a-bug-now = Nahlásiť chybu
