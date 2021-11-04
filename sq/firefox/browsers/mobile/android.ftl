@@ -34,4 +34,6 @@ mobile-android-go-from-your = Kaloni nga telefoni juaj te portativi juaj, ose an
 mobile-android-search-from-your = Kërkoni që nga skena e kreut të telefonit tuaj
 mobile-android-no-need-to = S’ka nevojë të hapet aplikacioni. Shtoni widget-in { -brand-name-firefox } të kërkimeve dhe kërkoni në web drejt e nga skena e kreut e pajisjes tuaj.
 mobile-android-pin-videos-to = Fiksoni video te ekrani juaj
+mobile-android-pop-videos-out = Merrni video prej sajteve apo lojtësve të tyre dhe fiksojini në krye të ekranit të telefonit tuaj, për t’i parë kur shfletoni në internet dhe bëni gjëra të tjera. Dëfrehuni, teksa jeni shumëpunësh.
 mobile-android-about-mozilla = Rreth { -brand-name-mozilla }-s
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } ekziston për të ndërtuar Internetin si një burim publik i hapur për të gjithë, ngaqë besojmë se i hapur dhe i lirë është më i mirë se sa i mbyllur de i kontrolluar. Krijojmë produkte të tillë si { -brand-name-firefox }-i dhe { -brand-name-pocket }-i, që të promovojmë zgjedhjen, transparencën dhe kontrollin.
