@@ -37,6 +37,9 @@ firefox-desktop-download-blocks-social-trackers = Blokir pelacak sosial
 firefox-desktop-download-os-availability = Ketersediaan OS
 firefox-desktop-download-in-browser-screenshot = Alat penangkap layar dalam peramban
 firefox-desktop-download-primary-password = Sandi utama
+firefox-desktop-love-your-life = Cintai kehidupan daring Anda
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Ini internet Anda. Warnai sesuai keinginan dengan ribuan alat, tema, dan ekstensi. Firefox adalah peramban alternatif orisinal yang lebih mengutamakan pengguna dibanding profit.
 
 # Obsolete string
 firefox-desktop-download-master-password = Sandi utama
