@@ -21,5 +21,6 @@ vpn-or-proxy-isps-can-use = ISP’s kinne dizze ynformaasje brûke foar harren e
 vpn-or-proxy-when-should-you = Wannear kieze jo foar in VPN of in befeilige proxy?
 vpn-or-proxy-vpns-and-secure = VPN’s en befeilige webproxys hawwe dielde doelen: se befeiligje ferbiningen. Se kinne jo oarspronklike IP-adres maskearje en it ynternetferkear beskermje dat jo tusken jo en jo VPN- of befeilige proxyprovider ferstjoere en dogge dat ek. Mar wannear soene jo in VPN fersus in proxy brûke wolle?
 vpn-or-proxy-secure-web-proxy = Feilige webproxy: beskerming op browsernivo
+vpn-or-proxy-a-secure-web = In befeilige webproxy wurket foar taken dy't jo mooglik allinnich yn jo browser útfiere. Dit kin delkomme op hiel wat aktiviteiten, lykas winkeljen, rekkeningen betelje, oanmelde op sosjale media en it lêzen fan e-mailberjochten. In befeilige webproxy fungearret as tuskenpersoan tusken jo browser en ynternet. Jo webbrowsergegevens gean troch in befeilige tunnel streekrjocht fan jo browser út nei it ynternet, wêrby jo IP-adres maskearre wurdt, sadat de webserver wêrmei't jo kontakt opnimme net krekt wit wêr't jo jo op de wrâld binne. En dat makket jo swierder te folgjen en rjochte te benaderjen.
 vpn-or-proxy-vpns-devicelevel-protection = VPN's: beskerming op apparaatnivo
 vpn-or-proxy-choose-a-trustworthy = Kies in betroubere tsjinst
