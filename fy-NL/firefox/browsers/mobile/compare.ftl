@@ -7,7 +7,13 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = De fiif bêste mobile browsers streekrjocht fergelike
+# HTML description
+mobile-compare-who-makes-the = Wa makket de beste mobile browser? Wy fergelykje mobile ferzjes fan { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } en { -brand-name-opera } om der efter te kommen.
+mobile-compare-since-your-mobile = Omdat jo mobile browser jo libbensline nei ynformaasje is, wêr't jo ek binne, binne snelheid, feilichheid, privacy en gebrûksgemak de kaaien ta in goede ûnderfining. Dus wat is de beste mobile browser? Litte wy de topspilers fergelykje – en sjen hokke it beste by jo behoeften past.
 mobile-compare-which-mobile-browser = Hokker mobile browser hâldt dingen fertroulik?
+mobile-compare-at-a-minimum-v2 = Jo mobile browser moat minimaal in ferzje fan de ‘priveenavigaasjemodus’ biede, wêrmei't jo navigaasje- en sykskiednis automatysk fuortsmiten wurde. Op dit gebied skoare alle fiif de browsers dy't hjir fergelike wurde punten.
+# Obsolete string
+mobile-compare-at-a-minimum = Jo mobile browser moat minimaal in ferzje fan de ‘priveenavigaasjemodus’ biede, wêrmei't jo navigaasje- en sykskiednis automatysk fuortsmiten wurde. Op dit gebied skoare alle sân de browsers dy't hjir fergelike wurde punten.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Funksjes</strong>
 mobile-compare-features = Funksjes
