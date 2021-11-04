@@ -9,7 +9,7 @@
 windows-64-bit-firefox-for-windows = { -brand-name-firefox } pre { -brand-name-windows } 64-bit
 # HTML page description
 windows-64-bit-users-on-64-bit-windows = Používatelia 64-bitového systému { -brand-name-windows } v predvolenom nastavení dostanú 64-bitovú verziu { -brand-name-firefox(case: "gen") }. To znamená, že dostávajú bezpečnejšiu verziu { -brand-name-firefox(case: "gen") }.
-windows-64-bit-64-bit = 64-bit
+windows-64-bit-64-bit = 64-bitová verzia
 # Main title
 windows-64-bit-a-more-secure-firefox = Bezpečnejší { -brand-name-firefox }.
 # Variables:
