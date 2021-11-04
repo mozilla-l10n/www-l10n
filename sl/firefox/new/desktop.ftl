@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Zavrača sledilce družbenih o
 firefox-desktop-download-os-availability = Razpoložljiv za vse operacijske sisteme
 firefox-desktop-download-in-browser-screenshot = Orodje za zajemanje zaslonskih posnetkov
 firefox-desktop-download-primary-password = Glavno geslo
+firefox-desktop-love-your-life = Imejte radi svoje spletno življenje
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = To je vaš internet. Oblikujte ga po svoje s tisočerimi orodji, temami in razširitvami. Firefox je izvirni alternativni brskalnik, ki ljudi postavlja pred dobiček.
 # Obsolete string
 firefox-desktop-download-master-password = Glavno geslo
 firefox-desktop-download-we-block-the-ad = Mi zavračamo oglaševalske sledilce. Vi hitreje brskate po sletu.
