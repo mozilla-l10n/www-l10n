@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/whatsnew/
 
 whatsnew-s2d-download-firefox-for-android = { -brand-name-android } および { -brand-name-ios } 用 { -brand-name-firefox } をダウンロード
 whatsnew-s2d-want-privacy-on-every-device = すべてのデバイスでプライバシーを守る方法が
