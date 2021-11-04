@@ -17,6 +17,7 @@ browsers-mobile-get-the-mobile-browser-privacy = 下载将您<strong>隐私</str
 browsers-mobile-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox }
 browsers-mobile-infinitely-customizable-private = 快如闪电的 { -brand-name-android } 版 { -brand-name-firefox } 有着超高定制性，私密又安全，绝不会出卖您的信息。
 browsers-mobile-firefox-for-ios = { -brand-name-ios } 版 { -brand-name-firefox }
+browsers-mobile-go-your-own-way = { -brand-name-firefox } 移动版为您带来个性化的浏览体验
 browsers-mobile-the-more-you-use = 愈用，愈顺心。个性化的 { -brand-name-firefox } 主页，让您轻松从上次中断的地方继续浏览。
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = 将 { -brand-name-firefox } 设为您 { -brand-name-iphone } 和 { -brand-name-ipad } 上的默认浏览器，以获得增强型跟踪保护。

@@ -40,4 +40,5 @@ mobile-android-about-mozilla = 关于 { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } 致力于将互联网打造成人人皆可访问的公共资源，我们坚信开放和自由胜过封闭和受控。为此，我们开发了 { -brand-name-firefox } 和 { -brand-name-pocket } 等产品，以此拓宽用户选择权、提升产品透明度、保障用户控制权。
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = 下载上网更快的 { -brand-name-android } 版 { -brand-name-firefox }
-mobile-android-get-there-faster = 下载上网更快的 { -brand-name-android } 版 { -brand-name-firefox }
+mobile-android-see-all-your-open-tabs = 使用 { -brand-name-android } 版 { -brand-name-firefox }，随时查看打开的标签页、最近的搜索和喜爱的网站。
+mobile-android-own-your-home = 个性化的主页

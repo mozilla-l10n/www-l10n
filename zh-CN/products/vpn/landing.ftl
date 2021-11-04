@@ -80,9 +80,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } 兼
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 兼容于下列平台：
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10（仅限 64 位）
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11（仅限 64 位）
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10（仅 64 位）
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10（仅限 64 位）
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a>（10.14 及更高版本）
