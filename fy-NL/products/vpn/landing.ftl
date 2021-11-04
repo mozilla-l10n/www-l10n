@@ -50,6 +50,10 @@ vpn-landing-faq-uses-encrypt = Fersifering fan it ferkear tusken jo en jo VPN-pr
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Besjoch <a href="{ $url }">fiif echte foarbylden</a> wêryn jo in VPN op jo apparaat ha wolle soene.
 vpn-landing-faq-info-question-heading = Hokker ynformaasje bewarret de { -brand-name-mozilla-vpn }?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Wy hâlde ús strikt oan de <a href="{ $principles }">Gegevensprivacyprinsipen</a> fan { -brand-name-mozilla } en wy sammelje de gegevens dy't nedich binne om de VPN operasjoneel te hâlden en om it produkt meidertiid te ferbetterjen. Wy folgje ek kampanje- en trochferwizingsgegevens op ús mobile app, om { -brand-name-mozilla } te helpen begripen hoe effektyf ús marketingkampanjes binne. Mear ynfo yn ús <a href="{ $notice }">Privacyferklearring</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
@@ -60,6 +64,9 @@ vpn-landing-faq-protected-question-heading = Hoe wurdt myn privacy beskerme?
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = It <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokol fersiferet jo netwurkferkear, wêrtroch al jo priveegegevens beskerme wurde. Yn fergeliking mei besteande VPN-protokollen is de ljochtgewicht koade fan { -brand-name-wireguard } ienfâldiger te beoardielen en auditen troch befeiligingsanalisten – wat it in feiliger opsje makket foar de VPN. Dêrneist bliuwe jo online aktiviteiten anonym, omdat wy jo netwurkgegevens nea logge, folgje of diele.
 vpn-landing-faq-competition-question-heading = Hoe ferhâldt { -brand-name-mozilla-vpn } harren ta de konkurrinsje?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Hoewol fergeze VPN’s oantreklik lykje, gean se net deselde ferplichtingen mei betrekking ta privacy oan as { -brand-name-mozilla-vpn }. Oare VPN’s kinne net bôgje op de <a href="{ $url }">reputaasje</a> fan { -brand-name-mozilla } fan mear as 20 jier fan it bouwen fan produkten dy't minsken en privacy foarop stelle.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
@@ -121,8 +128,6 @@ vpn-landing-faq-manage-subscription-question-heading = Hoe behear ik myn abonnem
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = As jo al abonnearre binne op { -brand-name-mozilla-vpn }, dan kinne jo op elk winske momint jo soarte fan abonnemint wizigje of <a href="{ $url }">jo abonnemint beheare</a>.
 vpn-landing-faq-link = Mear faakstelde fragen lêze
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Oeps! It liket der op dat jo noch gjin abonnemint hawwe.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
