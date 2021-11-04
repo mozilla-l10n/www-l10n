@@ -21,10 +21,12 @@ mobile-compare-from-the-chart = Ut de boppesteande grafyk is it dúdlik dat { -b
 mobile-compare-features-strong = <strong>Funksjes</strong>
 mobile-compare-features = Funksjes
 mobile-compare-what-can-your = Wat kin jo browser foar jo dwaan?
+mobile-compare-a-main-ingredient = In haadyngrediïnt fan in goed makke browser is de funksjonaliteit. Wat kin hy dwaan? Hast alle fiif browsers binne lyk as it giet om ljepblêden, blêdwizers, automatysk ynfoljen fan fjilden, mar allinnich { -brand-name-firefox } en { -brand-name-safari } biede add-ons/útwreidingen, dy't in soarte fan apps foar jo browser binne, om dizze persoanliker, krêftiger of gewoanwei aardiger te meitsjen.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Syngronisaasje</strong>
 mobile-compare-syncing = Synchronisaasje
 mobile-compare-does-your-browser = Kin jo browser goed oerwei mei oare apparaten?
+mobile-compare-the-mobile-version = De mobile ferzje fan { -brand-name-safari }, dy't yn it foar ynstallearre is op de mobile apparaten fan { -brand-name-apple }, is allinnich kompatibel mei oare { -brand-name-apple }-apparaten lykas { -brand-name-ipad } en { -brand-name-mac-short }-laptops. { -brand-name-firefox }, { -brand-name-chrome } en { -brand-name-opera } wurkje op alle platfoarms, wêrûnder { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short } en { -brand-name-linux }, mei útsûndering fan de { -brand-name-edge }-browser, dy't net kompatibel is mei { -brand-name-linux }-basearre apparaten.
 mobile-compare-conclusion = Konklúzje
 mobile-compare-search-engine-options = Sykmasine-opsjes
 mobile-compare-text-to-speech = Tekst nei spraak
