@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -23,5 +23,5 @@ nightly-whatsnew-if-you-want-to = Si tu vole saper lo que occurre circum { -bran
 nightly-whatsnew-want-to-know-which = Vole tu saper qual functiones tu poterea probar sur { -brand-name-nightly }, le quales non es ancora disponibile sur altere canales de { -brand-name-firefox }? Alora consulta le pagina <a href="{ $mdn }">Functiones experimental</a> sur <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
-nightly-whatsnew-do-you-experience = Incontra tu collapsos? Comportamento non expectate? Regressiones de compatibilitate del web? Nos adorarea haber iste problemas reportate in <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> pro evitar que illos permane in le edition final (punctos bonus si tu adde le parola clave <em>{ -brand-name-nightly }-community</em> a tu reportos de defecto)!
+nightly-whatsnew-do-you-experience = Incontra tu crashes? Comportamento non expectate? Regressiones de compatibilitate del web? Nos adorarea haber iste problemas reportate in <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> pro evitar que illos permane in le edition final (punctos bonus si tu adde le parola clave <em>{ -brand-name-nightly }-community</em> a tu reportos de defecto)!
 nightly-whatsnew-go-community = Que nos va, communitate!

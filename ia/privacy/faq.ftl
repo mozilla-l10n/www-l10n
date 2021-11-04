@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -40,7 +40,7 @@ privacy-faq-we-make-our-documentation-public = Nos rende public nostre documenta
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Iste documentation es abracadabra pro me! Pote tu explicar me lo in interlingua simple?
 privacy-faq-there-are-two-categories-of = Il ha duo categorias de datos que nos normalmente collige in nostre version stabile de { -brand-name-firefox }.
-privacy-faq-the-first-is-what-we-call-technical = Le prime es le "datos technic": le datos sur le navigator mesme, como le systema de operation usate e informationes sur errores o collapsos.
+privacy-faq-the-first-is-what-we-call-technical = Le prime es le "datos technic": le datos sur le navigator mesme, como le systema de operation usate e informationes sur errores o crashes.
 privacy-faq-the-second-is-what-we-call-interaction = Le secunde es le "datos de interaction": le datos de uso personal de { -brand-name-firefox }, como le numero de schedas aperte, le stato del preferentias del usator, o le numero de vices que certe functiones del navigator ha essite usate, p.ex. capturas de schermo o schedas contentor. Per exemplo, nos collige tal datos sur le uso del button Retro, le flecha in le angulo superior sinistre de tu navigator que te permitte retornar a un previe pagina web, de un maniera que nos informa que alcuno ha usate le button Retro, ma non qual paginas web specific ha essite visitate.
 privacy-faq-do-you-collect-more-data-in = Collige vos plus datos in le versiones preliminar de { -brand-name-firefox }?
 privacy-faq-sort-of-in-addition-to-the-data = Plus o minus. In addition al datos describite supra, nos normalmente recipe reportos de collapso e errores del versiones preliminar de { -brand-name-firefox }.

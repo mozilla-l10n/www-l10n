@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -18,7 +18,7 @@ firefox-all-platform = Platteforma:
 firefox-all-language = Lingua:
 firefox-all-lang-multi = Plure linguas
 firefox-all-sorry-we-couldnt-find = Pardono, nos non poteva trovar le discarga que tu recerca. Reproba, o elige un discarga del lista infra.
-firefox-all-the-pre-alpha-version = Le version pre-alpha pro usatores experte qui ama deteger collapsos e provar nove functiones a mesura que illos es implementate.
+firefox-all-the-pre-alpha-version = Le version pre-alpha pro usatores experte qui ama deteger crashes e provar nove functiones a mesura que illos es implementate.
 firefox-all-64-bit-installers = Installatores a 64 bit
 firefox-all-choose-a-64-bit-installer = Elige un installator 64 bits pro computatores con processatores a 64 bits, que los permitte de allocar plus memoria RAM pro cata programma: particularmente importante pro jocos e altere applicationes exigente.
 firefox-all-32-bit-installers = Installatores a 32 bit

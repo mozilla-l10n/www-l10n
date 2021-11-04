@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -14,7 +14,7 @@ windows-64-bit-64-bit = 64-bit
 windows-64-bit-a-more-secure-firefox = Un { -brand-name-firefox } plus secur.
 # Variables:
 # $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
-windows-64-bit-users-on-64-bit-windows-crashes = Le usatores de { -brand-name-windows } 64-bit pote discargar nostre version 64-bit de { -brand-name-firefox } como standard. Isto significa que tu obtene un version plus secur de { -brand-name-firefox }, un que etiam <a href="{ $crashes }">collabe multo minus</a>. Quanto minus? In nostre tests usque al presente, { -brand-name-firefox } 64-bit reduceva le collapsos per 39% sur machinas con 4GB de RAM o plus.
+windows-64-bit-users-on-64-bit-windows-crashes = Le usatores de { -brand-name-windows } 64-bit pote discargar nostre version 64-bit de { -brand-name-firefox } como standard. Isto significa que tu obtene un version plus secur de { -brand-name-firefox }, un que etiam <a href="{ $crashes }">collabe multo minus</a>. Quanto minus? In nostre tests usque al presente, { -brand-name-firefox } 64-bit reduceva le crashes per 39% sur machinas con 4GB de RAM o plus.
 windows-64-bit-whats-the-difference = Que es le differentia inter 32-bit e 64-bit?
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
