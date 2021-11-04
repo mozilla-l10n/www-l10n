@@ -34,7 +34,10 @@ mobile-ios-get-to-the-parts = Gean flugger nei de dielen fan it ynternet dy't jo
 # Obsolete string
 mobile-ios-add-firefox-across = Foegje { -brand-name-firefox } ta oan al jo apparaten foar feilich en ûnbeheind sneupe. Brûk { -brand-name-sync } op jo apparaten om jo favorite blêdwizers, bewarre oanmeldingen, wachtwurden en navigaasjeskiednis oeral mei hinne te nimmen. Plus, ferstjoer iepen ljepblêden tusken jo telefoan en desktop om fierder te gean wêr't jo bleaun wiene.
 mobile-ios-find-it-all = Fyn alles flugger
+mobile-ios-get-search-suggestions = Untfang syksuggestjes yn de sykbalke en krij fluch tagong ta de websites dy't jo it meast besykje. Typ jo sykfraach en ûntfang foarstelde en earder opsochte resultaten yn jo favorite sykmasinen.
 # Obsolete string
 mobile-ios-keep-tabs-on = Hâld ljepblêden yn de gaten
+# Obsolete string
+mobile-ios-create-as-many = Meitsje safolle ljepblêden as jo wolle sûnder it oersicht te ferliezen. { -brand-name-firefox } jout jo iepene ljepblêden wer as miniatueren en nûmere ljepblêden, sadat jo fluch fine kinne wat jo sykje.
 mobile-ios-discover-more-of = Untdek mear fan wêr't jo fan hâlde
 mobile-ios-about-mozilla = Oer { -brand-name-mozilla }
