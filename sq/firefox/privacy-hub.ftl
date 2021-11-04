@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -84,3 +84,6 @@ firefox-privacy-hub-already-have-an-account = Keni tashmë një llogari? <a { $s
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Lexoni <a href="{ $url }">Shënimin mbi Privatësinë</a> për produktet tanë
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Shfletoni, shkarkoni dhe bëni punë në shërbyes në më shumë se 30 vende, për një lidhje të sigurt internet me një perspektivë të re.
+firefox-privacy-hub-get-mozilla-vpn = Merrni { -brand-name-mozilla-vpn }

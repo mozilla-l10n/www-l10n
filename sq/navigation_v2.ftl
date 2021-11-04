@@ -1,11 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Shkarkoni { -brand-name-firefox }-in
-navigation-v2-get-a-firefox-account = Merrni një { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = Merrni { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
+# Obsolete string
+navigation-v2-get-a-firefox-account = Merrni një { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -17,6 +19,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } për { -brand-name-a
 navigation-v2-get-the-customizable-mobile = Merrni shfletuesin celular që mund ta përshtatni, për telefona të mençur { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } për { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Merrni shfletuesin celular për { -brand-name-iphone } ose { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Thjesht shfletim privat në celular.
 navigation-v2-privacy-promise = Premtim Privatësie
 navigation-v2-learn-how-firefox-treats = Mësoni se si { -brand-name-firefox }-i trajton me respekt të dhënat tuaja.
 navigation-v2-firefox-blog = Blog i { -brand-name-firefox }-it

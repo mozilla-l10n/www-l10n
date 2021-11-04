@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Nën
 facebook-container-get-the-facebook-container = Merrni { -brand-name-facebook-container } Extension
 facebook-container-download-firefox-and-get-the = Shkarkoni { -brand-name-firefox }-in dhe merrni zgjerimin { -brand-name-facebook-container } Extension
 facebook-container-only-available-for-desktop = Zgjerimi { -brand-name-facebook-container } aktualisht është i gatshëm vetëm për { -brand-name-firefox } për Desktop.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

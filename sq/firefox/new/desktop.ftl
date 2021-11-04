@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Bllokon gjurmues shoqërorësh
 firefox-desktop-download-os-availability = Pasje në OS
 firefox-desktop-download-in-browser-screenshot = Mjet fotografimi ekrani brenda shfletuesit
 firefox-desktop-download-primary-password = Fjalëkalim parësor
+firefox-desktop-love-your-life = Duajeni jetën tuaj internetore
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Është interneti juaj. Ngjyroseni si doni, me mijëra mjete, tema dhe zgjerime. Firefox-i është shfletuesi alternativ që vendos njerëzit përpara fitimeve.
 # Obsolete string
 firefox-desktop-download-master-password = Fjalëkalim i përgjithshëm
 firefox-desktop-download-we-block-the-ad = Ne bllokojmë gjurmues reklamash. Ju eksploroni internetin më shpejt.
@@ -175,6 +178,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Keni në përdorim n
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Shkarkimi juaj do të duhej të fillonte vetvetiu. S’ndodhi? <a id="{ $id }" href="{ $fallback_url }">Provoni sërish ta shkarkoni</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-i është më shumë se një shfletues.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Shkarkimi juaj u ndërpre. Por jo gjithçka humbi.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux

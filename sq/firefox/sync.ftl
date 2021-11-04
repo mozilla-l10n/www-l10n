@@ -1,12 +1,13 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Përdorni dhe njëkohësoni faqerojtësit tua, fjalëkalimet, skeda të hapura, etj — kudo ku përdorni { -brand-name-firefox }-in.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Njëkohësojeni { -brand-name-firefox }-in në çfarëdo pajisje
 firefox-sync-privacy-made-easy = Privatësia e bërë e kollajshme
 firefox-sync-all-you-need = Krejt çka ju duhet për { -brand-name-firefox-sync } është një { -brand-name-firefox-account }.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -9,8 +9,9 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Merrni { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Bëhuni pjesë e Radhës
 vpn-shared-sign-in-link = Pajtimtar tashmë?
-vpn-shared-available-countries = Aktualisht e ofrojmë { -brand-name-mozilla-vpn } në ShBA, Britani të Madhe, Kanada, Zelandë të Re, Singapor dhe Malajzi.
-vpn-shared-available-countries-v2 = Aktualisht e ofrojmë { -brand-name-mozilla-vpn } në ShBA, Britani të Madhe, Gjermani, Francë, Kanada, Malajzi, Zelandë të Re dhe Singapor.
+# Outdated string
+vpn-shared-available-countries-v3 = Aktualisht e ofrojmë { -brand-name-mozilla-vpn } në ShBA, Kanada, Britani të Madhe, Gjermani, Francë, Itali, Spanjë, Belgjikë, Austri, Zvicër, Malajzi, Zelandë të Re dhe Singapor.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ditë garanci kthimi parash
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Siç shkruhet në
@@ -48,6 +49,8 @@ vpn-shared-features-strong-servers = Shërbyes të fuqishëm në më shumë se {
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Lidhni deri në { $devices } pajisje
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30 ditë garanci kthimi parash
 vpn-shared-refund-policy = Rregull Rimbursimi
 vpn-shared-privacy-notice = Shënim Mbi Privatësinë
 vpn-shared-terms-conditions = Terma dhe Kushte
@@ -66,8 +69,12 @@ vpn-shared-pricing-plan-monthly = Mujor
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/muaj</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Merrni planin për 6 muaj
+# Outdated string
 vpn-shared-pricing-get-12-month = Merrni planin për 12 muaj
+vpn-shared-pricing-get-6-month-v2 = Merrni planin për 6 muaj
+vpn-shared-pricing-get-12-month-v2 = Merrni planin për 12 muaj
 vpn-shared-pricing-get-monthly = Merrni planin mujor
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
@@ -99,6 +106,9 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Celular
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Ç’është një adresë IP?
+vpn-subnav-when-to-use-a-vpn = Kur të përdoret një VPN
+vpn-subnav-vpn-vs-proxy = VPN vs Ndërmjetësi
 
 ##
 
