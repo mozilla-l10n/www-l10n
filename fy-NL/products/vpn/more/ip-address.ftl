@@ -29,4 +29,12 @@ vpn-ip-address-can-we-run = Kinne se opreitsje?
 vpn-ip-address-when-the-internet = Doe't it ynternet foar it earst ûntwurpen waard, brûkte it ‘ferzje 4’-adressen. Dizze binne 32 bits, wat betsjut dat wy oant <a href="{ $sr }">4.2 miljard adressen</a> hawwe kinne. Dit like doetiids genôch, mar is net genôch yn in wrâld wêryn de gemiddelde Amerikaanske húshâlding <a href="{ $variety }">11 oansletten apparaten</a> hie.
 vpn-ip-address-we-now-have = Wy hawwe no ferzje 6 IP-adressen, dy't 128 bits per adres hawwe. Spitigernôch kinne ferzje 4 en ferzje 6 net direkt mei inoar prate, dus minsken sille ferzje 4-adressen lang nedich hawwe.
 vpn-ip-address-should-you-hide = Moatte jo jo IP-adres ferbergje?
+# Variables
+#   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
+#   $doh (url) - https://support.mozilla.org/kb/firefox-dns-over-https
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+vpn-ip-address-you-dont-need = Jo hoege jo IP-adres net te ferbergjen, mar der binne mominten wêrop jo dit miskien wolle. De meast foarkommende reden is privacy. Yn de F.S. hat it <a href="{ $congress }">Kongres</a> de privacyregeljouwing ta beskerming fan de privacy fan breedbânbrûkers negearre. Ynternetserviceproviders kinne sjen wat jo sneupgedrach is, wêrfoar jo ynternet brûke en hoe lang jo op elke side trochbringe. Dizze kommunikaasje is net fersifere, sadat tredden sjen kinne hokker website jo besykje. In manier om dit te bestriden is <a href="{ $doh }">DNS-oer-HTTPS</a> (DoH). Dit fersiferet  DNS-ferkear (Domain Name System), wêrtroch it swierder wurdt foar ISP’s om de websites te sjen dy't jo probearje te besykjen. Foar Amerikaanske <a href="{ $firefox }">{ -brand-name-firefox }-brûkers</a> wurde jo DoH-sykopdrachten standert trochstjoerd nei fertroude DNS-servers, wêrtroch it swierder wurdt om jo te assosjearjen mei de websites dy't jo probearje te besykjen.
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-there-are-also = Der binne ek situasjonele redenen om jo IP-adres te ferbergjen. Miskien wolle jo it wylst it reizgjen ferbergje. In VPN jout jo ek <a href="{ $url }">mear privacy</a> wannear't jo ferbining meitsje mei wifi om te streamen en te winkeljen wylst jo de wrâld ferkenne.
 vpn-ip-address-how-do-you = Hoe ferbergje jo it?
