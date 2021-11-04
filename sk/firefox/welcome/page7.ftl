@@ -12,7 +12,7 @@ page7-if-you-still-kinda-like-facebook = Ak máte radi { -brand-name-facebook },
 page7-get-facebook-container = Získajte { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Funguje aj s Instagramom
-page7-facebook-container-also-works = { -brand-name-facebook-container } funguje aj na iných stránkach vlastnených { -brand-name-facebook }om - { -brand-name-instagram }, { -brand-name-facebook-messenger } či { -brand-name-workplace }.
+page7-facebook-container-also-works = { -brand-name-facebook-container } funguje aj na iných stránkach vlastnených { -brand-name-facebook(case: "ins") } - { -brand-name-instagram }, { -brand-name-facebook-messenger } či { -brand-name-workplace }.
 page7-make-them-unfollow-you = Už žiadne sledovanie
 page7-that-sneaky-little-button = To nenápadné malé tlačidlo
 page7-those-innocent-looking-f-buttons = Nevinne vyzerajúce tlačidlá od { -brand-name-facebook(case: "gen") } sledujú vašu aktivitu na internete, a to aj v prípade, že na { -brand-name-facebook(case: "loc") } nemáte účet. Rozšírenie { -brand-name-facebook-container } ich blokuje.

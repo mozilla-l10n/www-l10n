@@ -7,11 +7,11 @@ navigation-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(cas
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser(case: "nom", capitalization: "upper") } pre počítače
 navigation-get-the-browser-that-respects = Používajte prehliadač, ktorý rešpektuje vaše súkromie. Dostupný pre { -brand-name-windows }, { -brand-name-mac } či { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pre mobily
-navigation-take-speed-privacy-and = Vezmite si rýchlosť a súkromie so sebou. K dispozícii na zariadeniach s { -brand-name-android }om a { -brand-name-ios }.
+navigation-take-speed-privacy-and = Vezmite si rýchlosť a súkromie so sebou. K dispozícii na zariadeniach s { -brand-name-android(case: "ins") } a { -brand-name-ios }.
 navigation-download-for-ios = Stiahnuť pre { -brand-name-ios }
 navigation-download-for-android = Stiahnuť pre { -brand-name-android }
 navigation-ios-support = Podpora { -brand-name-ios }
-navigation-android-support = Podpora { -brand-name-android }u
+navigation-android-support = Podpora pre { -brand-name-android }
 navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser(case: "gen", capitalization: "upper") } pre podniky
 navigation-strap-on-your-goggles = Nasaďte si okuliare a ponorte sa do sveta pôsobivého webu s { -brand-name-firefox-browser(case: "ins", capitalization: "lower") } pre VR.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } pre { -brand-name-fire-tv }
@@ -23,9 +23,9 @@ navigation-firefox-is-a-whole-family = { -brand-name-firefox } predstavuje celý
 navigation-join-firefox = Prihláste sa do { -brand-name-firefox(case: "loc") }
 navigation-access-all-of-firefox = Jeden účet { -brand-name-firefox } - kompletná kontrola nad všetkými produktami.
 navigation-meet-the-firefox-family = Spoznajte rad produktov { -brand-name-firefox }
-navigation-firefox-blog = Blog { -brand-name-firefox }u
-navigation-read-about-new-firefox = Prečítajte si o nových funkciách { -brand-name-firefox }u. Nájdete tu taktiež tipy pre bezpečnejšie používanie internetu.
-navigation-the-non-profit-behind = Nezisková organizácia v pozadí { -brand-name-firefox }u bojuje za zdravý internet pre všetkých.
+navigation-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
+navigation-read-about-new-firefox = Prečítajte si o nových funkciách { -brand-name-firefox(case: "gen") }. Nájdete tu taktiež tipy pre bezpečnejšie používanie internetu.
+navigation-the-non-profit-behind = Nezisková organizácia v pozadí { -brand-name-firefox(case: "gen") } bojuje za zdravý internet pre všetkých.
 navigation-learn-how-firefox-treats = Pozrite sa, ako { -brand-name-firefox } zaobchádza s vašimi údajmi.
 navigation-mozilla-careers = Práca v { -brand-name-mozilla(case: "loc") }
 navigation-approach-your-career = Kariéra v { -brand-name-mozilla(case: "loc") } je zmysluplná. Pozrite sa na pracovné ponuky.
@@ -36,15 +36,15 @@ navigation-get-firefox = Získajte { -brand-name-firefox }
 navigation-get-firefox-focus = Získajte { -brand-name-firefox-focus }
 navigation-android-extensions = Rozšírenia pre { -brand-name-android }
 navigation-your-firefox-account = Váš { -brand-name-firefox-account(case: "gen", capitalization: "lower") }
-navigation-make-the-most-of-your = Vyťažte zo svojho { -brand-name-firefox }u čo najviac - na každom zariadení.
+navigation-make-the-most-of-your = Vyťažte zo svojho { -brand-name-firefox(case: "gen") } čo najviac - na každom zariadení.
 # Outdated string
 navigation-learn-how-to-customize = Upravte si svoj { -brand-name-firefox } podľa seba.
 navigation-explore-the-immersive = Preskúmajte web pomocou svojho headsetu.
 # Outdated string
-navigation-experience-augmented = Zažite rozšírenú a virtuálnu realitu s { -brand-name-firefox }om.
+navigation-experience-augmented = Zažite rozšírenú a virtuálnu realitu s { -brand-name-firefox(case: "ins") }.
 navigation-get-together = Stretávajte sa vo svete vytvorenom vo virtuálnej realite.
 # Outdated string
-navigation-meet-people-in-experimental = Stretnite ľudí v experimentálnych chatovacích miestnostiach v zmiešanej realite pomocou { -brand-name-firefox }u.
+navigation-meet-people-in-experimental = Stretnite ľudí v experimentálnych četovacích miestnostiach v zmiešanej realite pomocou { -brand-name-firefox(case: "gen") }.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
@@ -52,7 +52,7 @@ navigation-mozilla-brings-virtual = { -brand-name-mozilla } prináša na web vir
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } prináša { -brand-name-firefox } do rozšírenej a virtuálnej reality.
 navigation-firefox-built-just-for = { -brand-name-firefox }, vytvorený pre vývojárov.
-navigation-preview-the-latest-build = Pomôžte nám vylepšiť najnovšie vydanie { -brand-name-firefox }u.
+navigation-preview-the-latest-build = Pomôžte nám vylepšiť najnovšie vydanie { -brand-name-firefox(case: "gen") }.
 navigation-firefox-playground = { -brand-name-firefox } Playground
 navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Support (MOSS)
 navigation-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }

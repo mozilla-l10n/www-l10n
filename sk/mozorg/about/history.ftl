@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -29,7 +29,7 @@ history-people-contributed-to-mozilla = Ľudia prispievali do { -brand-name-mozi
 history-after-several-years-of-development = Po niekoľkých rokoch vývoja bola v&nbsp;roku 2002 vydaná <a href="{ $mozilla1 }">{ -brand-name-mozilla }&nbsp;1.0</a>, prvá významná verzia. Táto verzia uviedla veľa vylepšení do prehliadača, e-mailového klienta a ďalších aplikácií zahrnutých v sade programov, ale nevyužívalo ich veľa ľudí.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
-history-by-2002-well-over-90 = V roku 2002 <a href="{ $over90 }">viac ako 90% internetových používateľov</a> prehliadalo web s { -brand-name-ie }om.
+history-by-2002-well-over-90 = V roku 2002 <a href="{ $over90 }">viac ako 90% internetových používateľov</a> používalo pri prehliadaní webu { -brand-name-ie }.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = V tej dobe si to nevšimlo veľa ľudí, ale prvá verzia Phoenixu (neskoršie premenovaná na { -brand-name-firefox }) bola v tom roku tiež vydaná členmi komunity { -brand-name-mozilla } s cieľom poskytnutia <a href="{ $charter }">najlepšej možnej skúsenosti z prehliadania</a> pre čo najširšie množstvo ľudí.
@@ -46,7 +46,7 @@ history-it-did-this-by-continuing = Toto pokračovalo vydávaním softvéru, ako
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox }&nbsp;1.0</a> bol vydaný v roku 2004 a získal veľký úspech — za menej ako rok bol stiahnutý a nainštalovaný <a href="{ $millions }">viac ako 100 milión krát</a>.
-history-new-versions-of-firefox = Od tej doby vychádzajú pravidelne nové verzie { -brand-name-firefox }u, ktoré stanovujú nové a nové rekordy. Popularita { -brand-name-firefox }u pomohla používateľom opäť získať možnosť voľby.
+history-new-versions-of-firefox = Od tej doby vychádzajú pravidelne nové verzie { -brand-name-firefox(case: "gen") }, ktoré stanovujú nové a nové rekordy. Popularita { -brand-name-firefox(case: "gen") } pomohla používateľom opäť získať možnosť voľby.
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Obnovená konkurenčná súťaž <a href="{ $innovation }">zrýchlila inovácie</a> a zdokonalila internet pre každého.
@@ -76,4 +76,4 @@ history-timeline-of-mozilla-project = Časová os projektu { -brand-name-mozilla
 history-mozilla-digital-memory-bank = Digitálna pamäťová banka { -brand-name-mozilla }
 # Variables:
 #   $link (url) link to https://www.foxkeh.com/downloads/
-history-the-history-of-firefox-and = <a href="{ $link }">História { -brand-name-firefox }u a plagátov { -brand-name-mozilla }</a> (dostupné v angličtine a japončine)
+history-the-history-of-firefox-and = <a href="{ $link }">História { -brand-name-firefox(case: "gen") } a plagátov { -brand-name-mozilla }</a> (dostupné v angličtine a japončine)

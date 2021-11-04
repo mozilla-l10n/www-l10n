@@ -9,7 +9,7 @@
 privacy-faq-mozillas-data-privacy-faq = Často kladené otázky o súkromí údajov - { -brand-name-mozilla }
 privacy-faq-at-mozilla-we-respect-and-protect-desc = V { -brand-name-mozilla(case: "loc") } rešpektujeme vaše osobné informácie.
 privacy-faq-we-stand-for-people-over-profit = Ide nám o ľudí, nie o zisk.
-privacy-faq-it-can-be-tricky-for-people = Ľudia často nevedia, čo majú od softvéru a služieb, ktoré v súčasnosti používajú, očakávať. Technológia, ktorá poháňa naše životy, je komplexná a ľudia nemajú čas vŕtať sa v podrobnostiach. Toto platí aj v prípade { -brand-name-firefox }u, kde sa stretávame s tým, že ľudia majú rozličné predstavy o tom, čo sa deje vo vnútri ich prehliadača.
+privacy-faq-it-can-be-tricky-for-people = Ľudia často nevedia, čo majú od softvéru a služieb, ktoré v súčasnosti používajú, očakávať. Technológia, ktorá poháňa naše životy, je komplexná a ľudia nemajú čas vŕtať sa v podrobnostiach. Toto platí aj v prípade { -brand-name-firefox(case: "gen") }, kde sa stretávame s tým, že ľudia majú rozličné predstavy o tom, čo sa deje vo vnútri ich prehliadača.
 privacy-faq-at-mozilla-we-respect-and-protect = V { -brand-name-mozilla(case: "loc") } rešpektujeme a chránime vaše osobné informácie:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
@@ -39,11 +39,11 @@ privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } v predvolen
 privacy-faq-we-make-our-documentation-public = Našu dokumentáciu zverejňujeme, takže ktokoľvek si môže overiť, či hovoríme pravdu. Ľudia nám tak môžu veriť, že nič neskrývame.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Tie dokumenty sú pre mňa španielska dedina. Môžete mi to vysvetliť jednoduchšou formou?
-privacy-faq-there-are-two-categories-of = V predvolenom nastavení zbierame v bežnej verzii { -brand-name-firefox }u dve kategórie údajov.
+privacy-faq-there-are-two-categories-of = V predvolenom nastavení zbierame v bežnej verzii { -brand-name-firefox(case: "gen") } dve kategórie údajov.
 privacy-faq-the-first-is-what-we-call-technical = Prvá sa nazýva „technické údaje“. Toto sú údaje o prehliadači samotnom, napríklad na akom operačnom systéme beží a informácie o chybách a pádoch.
 privacy-faq-the-second-is-what-we-call-interaction = Druhá sa nazýva „údaje o interakcii“. Toto sú údaje o tom, ako jednotlivci používajú { -brand-name-firefox }, napríklad počet otvorených kariet, nastavenia, či počet využití určitej funkcie. Ako príklad uvedieme tlačidlo pre prechod späť o jednu stránku - vieme, že niekto toto tlačidlo použil, nevieme však, na akú stránku prešiel.
-privacy-faq-do-you-collect-more-data-in = Zbierate viac údajov vo vývojových verziách { -brand-name-firefox }u?
-privacy-faq-sort-of-in-addition-to-the-data = Dá sa to tak povedať. Vo vývojových verziách { -brand-name-firefox }u dostávame v predvolenom nastavení okrem údajov popísaných vyššie taktiež hlásenia o pádoch a o chybách.
+privacy-faq-do-you-collect-more-data-in = Zbierate viac údajov vo vývojových verziách { -brand-name-firefox(case: "gen") }?
+privacy-faq-sort-of-in-addition-to-the-data = Dá sa to tak povedať. Vo vývojových verziách { -brand-name-firefox(case: "gen") } dostávame v predvolenom nastavení okrem údajov popísaných vyššie taktiež hlásenia o pádoch a o chybách.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = Ak robíme <a href="{ $link }">štúdiu</a>, môžeme zbierať dodatočné údaje. Niektoré štúdie napríklad vyžadujú tzv. „údaje o webovej aktivite“, ktoré môžu obsahovať URL adresy a ďalšie informácie o určitých webových stránkach. Vďaka tomu si môžeme odpovedať na určité otázky o { -brand-name-firefox(case: "loc") } a naďalej ho vylepšovať.
@@ -59,7 +59,7 @@ privacy-faq-what-about-my-account-data = A čo údaje súvisiace s mojím účto
 privacy-faq-we-are-big-believers-of-data = Veríme v minimalizáciu potreby údajov a nepýtame sa na veci, ktoré nepotrebujeme vedieť.
 # Variables:
 #   $accounts (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
-privacy-faq-you-dont-need-an-account-to = Na používanie { -brand-name-firefox }u nepotrebujete účet. <a href="{ $accounts }">Účty</a> potrebujete iba v prípade, že chcete synchronizovať údaje medzi zariadeniami. V takom prípade žiadame len e-mailovú adresu. Veci ako vaše meno, adresa, dátum narodenia či telefónne číslo vedieť nechceme.
+privacy-faq-you-dont-need-an-account-to = Na používanie { -brand-name-firefox(case: "gen") } nepotrebujete účet. <a href="{ $accounts }">Účty</a> potrebujete iba v prípade, že chcete synchronizovať údaje medzi zariadeniami. V takom prípade žiadame len e-mailovú adresu. Veci ako vaše meno, adresa, dátum narodenia či telefónne číslo vedieť nechceme.
 privacy-faq-you-use-digital-advertising = Používate digitálnu inzerciu ako súčasť vášho marketingového mixu. Nakupujete údaje o ľuďoch, aby ste na nich mohli cieliť online reklamu?
 privacy-faq-no-we-do-not-buy-peoples-data = Nie, nekupujeme údaje o ľuďoch na cielenie reklamy.
 privacy-faq-we-do-ask-our-advertising-partners = Žiadame našich reklamných partnerov, aby používali len všeobecné údaje o používateľoch, napríklad aký prehliadač alebo zariadenie používajú.
