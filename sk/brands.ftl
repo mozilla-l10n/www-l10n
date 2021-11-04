@@ -208,7 +208,16 @@
 -brand-name-developer-edition = Developer Edition
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
--brand-name-focus = Focus
+-brand-name-focus =
+    { $case ->
+       *[nom] Focus
+        [gen] Focusu
+        [dat] Focusu
+        [acc] Focus
+        [loc] Focuse
+        [ins] Focusom
+    }
+    .gender = masculine
 -brand-name-lite = Lite
 -brand-name-nightly = Nightly
 -brand-name-reality = Reality
