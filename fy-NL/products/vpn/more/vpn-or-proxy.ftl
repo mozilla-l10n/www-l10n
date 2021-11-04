@@ -29,4 +29,8 @@ vpn-or-proxy-a-proxy-is-useful = In proxy is handich wannear't jo op it ynternet
 #   $fpn (url) - https://fpn.firefox.com
 vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> is in ienfâldich te ynstallearjen browserútwreiding dy't in feilige, fersifere tunnel nei it ynternet biedt om jo browserferbining oeral wêr't jo { -brand-name-firefox } brûke te befeiligjen. It is fluch en maklik oan te setten wannear't jo it nedich hawwe foar ekstra befeiliging yn jo browser.
 vpn-or-proxy-vpns-devicelevel-protection = VPN's: beskerming op apparaatnivo
+vpn-or-proxy-vpns-do-more = VPN’s dogge mear as proxys, omdat in proxy allinnich beskermet wat jo yn jo browser dogge, wylst in VPN al jo ferkear beskermet, ynklusyf jo browser, oeral wêr't jo in VPN ynstallearre en ynskeakele hawwe. VPN’s biede ekstra befeiliging en privacy foar al jo online aktiviteiten - in wichtige oerweging as jo jo aktiviteit foar josels hâlde wolle en it foar gegevensfrettende trackers en ISP’s swierder meitsje wolle om in profyl fan jo te meitsjen op al jo apparaten, lykas jo telefoan, kompjûter en tablet.
+vpn-or-proxy-a-vpn-works = In VPN wurket troch in feilige ‘tunnel’ te kreëarjen tusken jo apparaat en ynternet yn it algemien. Hy beskermet jo privacy op twa wichtige manieren:
+vpn-or-proxy-concealing-your-ip = Ferbergjen fan jo IP-adres, wêrby jo identiteit beskerme wurdt en jo lokaasje ferberge.
+vpn-or-proxy-encrypting-your-traffic = Fersifering fan jo ferkear tusken jo en jo VPN-provider, sadat nimmen yn jo lokale netwurk it ûntsiferje of oanpasse kin.
 vpn-or-proxy-choose-a-trustworthy = Kies in betroubere tsjinst

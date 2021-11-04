@@ -7,6 +7,7 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 redenen wêrom jo in VPN brûke moatte soene
+vpn-when-to-use-encrypting-your-traffic = Fersifering fan jo ferkear tusken jo en jo VPN-provider, sadat nimmen yn jo lokale netwurk it ûntsiferje of oanpasse kin.
 vpn-when-to-use-1-a-walk = 1. In kuier yn it park
 vpn-when-to-use-2-in-the = 2. Yn de buert
 vpn-when-to-use-3-on-the = 3. Underweis
