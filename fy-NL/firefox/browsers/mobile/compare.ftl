@@ -14,6 +14,9 @@ mobile-compare-which-mobile-browser = Hokker mobile browser hâldt dingen fertro
 mobile-compare-at-a-minimum-v2 = Jo mobile browser moat minimaal in ferzje fan de ‘priveenavigaasjemodus’ biede, wêrmei't jo navigaasje- en sykskiednis automatysk fuortsmiten wurde. Op dit gebied skoare alle fiif de browsers dy't hjir fergelike wurde punten.
 # Obsolete string
 mobile-compare-at-a-minimum = Jo mobile browser moat minimaal in ferzje fan de ‘priveenavigaasjemodus’ biede, wêrmei't jo navigaasje- en sykskiednis automatysk fuortsmiten wurde. Op dit gebied skoare alle sân de browsers dy't hjir fergelike wurde punten.
+mobile-compare-another-mobile-feature = In oare mobile funksje dy't in gegeven wêze moatte soe, is de mooglikheid om foar te kommen dat websites en bedriuwen jo sneup- en winkelgegevens folgje – sels yn de normale navigaasjemodus.
+mobile-compare-blocking-thirdparty-trackers = It blokkearjen fan trackers fan tredden is net allinnich wichtich foar de privacy – it helpt siden ek folle flugger te laden, sûnder dy stikjes koade dy't harren oan jo browser hechte en dizze fertrage.
+mobile-compare-from-the-chart = Ut de boppesteande grafyk is it dúdlik dat { -brand-name-firefox } de meast komplete privacy- en befeiligingsset fan de fiif browsers biedt en in dashboerdoersjoch biedt fan jo folsleine feilichheid en privacy online.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Funksjes</strong>
 mobile-compare-features = Funksjes
