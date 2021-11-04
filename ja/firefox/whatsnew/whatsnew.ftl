@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
 whatsnew-page-title = { -brand-name-firefox }-の新機能 - プライバシーと保護がさらに充実。
 whatsnew-page-description = あなたのデータをサードパーティに売り渡す業界に対抗しましょう。ユーザーのために闘うテクノロジーで、スマートかつ安全なオンライン生活を。
