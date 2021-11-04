@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
-privacy-index-mozilla-privacy = { -brand-name-mozilla } a súkromie
+privacy-index-mozilla-privacy = Ochrana osobných údajov spoločnosti { -brand-name-mozilla }
 privacy-index-contact-mozilla = Kontaktujte { -brand-name-mozilla(case: "acc") }
 privacy-index-if-you-want-to-make-a-correction = Ak chcete navrhnúť úpravu vo vašich informáciách, alebo máte akékoľvek otázky o našich zásadách ochrany súkromia, prosím, kontaktuje nás:
 # Variables:
