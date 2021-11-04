@@ -38,6 +38,7 @@ firefox-accounts-get-it-all-on-every = Kini gjithçka në secilën pajisje, pa u
 firefox-accounts-and-get-it-all-on = Dhe kijeni gjithçka në secilën pajisje, pa u ndjerë në grackë në një sistem të vetëm operativ.
 firefox-accounts-get-the-respect-you = Merrni respektin që meritoni.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Mbrojtje e krejt pajisjes, në çdo pajisje
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Prej nesh do të merrni përherë të vërtetën. Gjithçka krijojmë dhe bëjmë, respekton <a href="{ $promise }">Premtimin tonë mbi të Dhëna Personale</a>:

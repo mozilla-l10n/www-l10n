@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = Bllokon, si parazgjedhje, c
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Bllokon cookie-t nga palë gjurmuese të treta
 compare-shared-blocks-cryptomining-scripts = Bllokon programthe nxjerrjeje kriptomonedhash
+compare-shared-blocks-fingerprinting-scripts = Bllokon programthe krijimi shenjash gishtash
 compare-shared-blocks-social-trackers = Bllokon gjurmues shoqërorësh
+compare-shared-dashboard-to-review = Pult për të shqyrtuar gjurmuesit e bllokuar
 compare-shared-autoplay-blocking = Bllokim vetëluajtjesh
 compare-shared-tab-browsing = Shfletim me skeda
 compare-shared-bookmark-manager = Përgjegjës faqerojtësish
 compare-shared-automatically-fills-out-forms = Plotëson automatikisht formularë
+compare-shared-automatically-fills-out-payments = Plotëson në mënyrë të automatizuar pagesat
 compare-shared-search-engine-options = Mundësi motori kërkimesh
 compare-shared-text-to-speech = Tekst në të folur
 compare-shared-reader-mode = Mënyra Lexues
