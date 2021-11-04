@@ -11,6 +11,7 @@ mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-get-firefox-focus = Obtener { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Envía un enlace de descarga a tu teléfono.
 mobile-focus-scan-the-qr-code-to-get-started = Escanea el código QR para comenzar
+mobile-focus-scan-alt-text = Escanea el código QR para obtener { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Borra tu historial
 mobile-focus-tracking-protection = Protección contra rastreo
 mobile-focus-made-by-mozilla = Hecho por { -brand-name-mozilla }
