@@ -168,9 +168,6 @@ vpn-landing-faq-manage-subscription-question-desc = 既に { -brand-name-mozilla
 
 vpn-landing-faq-link = よくあるご質問をもっと見る
 
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = 問題が発生しました。サブスクリプションに契約していません。
-
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = ウェイトリストに登録: { -brand-name-mozilla-vpn }

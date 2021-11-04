@@ -168,9 +168,6 @@ vpn-landing-faq-manage-subscription-question-desc = अगर आप पहल�
 
 vpn-landing-faq-link = अन्य आम सवाल देखें
 
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = ओह! लगता है आपने अभी सब्सक्राइब नहीं किया है।
-
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = वेटिंग लिस्ट में शामिल हों: { -brand-name-mozilla-vpn }

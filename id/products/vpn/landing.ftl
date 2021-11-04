@@ -168,9 +168,6 @@ vpn-landing-faq-manage-subscription-question-desc = Jika Anda sudah berlangganan
 
 vpn-landing-faq-link = Lihat Pertanyaan Umum lainnya
 
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Ups! Sepertinya Anda belum berlangganan.
-
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Gabung ke Daftar Tunggu: { -brand-name-mozilla-vpn }
