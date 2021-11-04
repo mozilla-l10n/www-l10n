@@ -26,3 +26,14 @@ mobile-focus-take-private-mode = Posuňte súkromný režim na ďalšiu úroveň
 mobile-focus-private-browsing-on = „Súkromné prehliadanie“ vo väčšine prehliadačov nie je až také súkromné. { -brand-name-firefox-focus } je na vyššej úrovni, vždy v záujme ochrany súkromia a stojí za ním { -brand-name-mozilla }, nezisková organizácia, ktorá bojuje za vaše práva na webe.
 mobile-focus-private-browsing-on-v2 = „Súkromné prehliadanie“ vo väčšine prehliadačov nie je až také súkromné. { -brand-name-firefox-focus } ponúka v predvolenom nastavení vyššiu úroveň ochrany súkromia a je podporovaný { -brand-name-mozilla(case: "ins") }, neziskovou organizáciou, ktorá bojuje za vaše práva na webe.
 mobile-focus-tracking-protection = Ochrana pred sledovaním
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } predvolene blokuje širokú škálu bežných sledovacích prvkov vrátane sledovačov sociálnych sietí a tých na vás nalepených, ktoré pochádzajú napríklad z reklám na { -brand-name-facebook(case: "loc") }.
+mobile-focus-ad-blocking = Blokovanie reklám
+# Outdated string
+mobile-focus-focus-blocks-the = { -brand-name-focus } blokuje reklamy, ktoré sa bežne zobrazujú na webových stránkach – nie sú potrebné žiadne ďalšie doplnky ani rozšírenia. S menším počtom reklám získate vyššiu rýchlosť načítania stránky, čo znamená, že sa k požadovaným veciam dostanete oveľa rýchlejšie.
+mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } blokuje reklamy, ktoré sa vás snažia sledovať na webových stránkach – nie sú potrebné žiadne ďalšie doplnky ani rozšírenia. S menším počtom reklám získate vyššiu rýchlosť načítania stránky, čo znamená, že sa k požadovaným veciam dostanete oveľa rýchlejšie.
+mobile-focus-see-it-all = Pozrite si to všetko rýchlejšie
+# Outdated string
+mobile-focus-focus-removes-trackers = { -brand-name-focus } odstraňuje sledovače a reklamy, takže stránky, ktoré si prezeráte, vyžadujú menej údajov a načítavajú sa oveľa rýchlejšie.
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } odstraňuje sledovacie prvky a zapína blokovanie reklám, takže stránky, ktoré si prezeráte, vyžadujú menej údajov a načítavajú sa oveľa rýchlejšie. Takisto si môžete pripnúť až štyri skratky na svoju domovskú obrazovku, vďaka čomu môžete prejsť na svoju obľúbenú stránku ešte rýchlejšie bez toho, aby ste museli čokoľvek písať.
+mobile-focus-made-by-mozilla = Od spoločnosti { -brand-name-mozilla }
+mobile-focus-we-believe-everyone = Veríme, že každý by mal mať kontrolu nad svojim online životom. Za to bojujeme od roku 1998.
