@@ -22,7 +22,16 @@ browsers-mobile-firefox-mobile-adapts-to-you = Мобильный { -brand-name-
 browsers-mobile-the-more-you-use = Чем больше вы его используете, тем умнее он становится. Домашний экран { -brand-name-firefox } подстраивается под вас и помогает продолжить работу с того места, на котором вы остановились.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Сравните мобильные браузеры
+browsers-mobile-see-how-firefox-stacks-up = Посмотрите, чем { -brand-name-firefox } отличается от других популярных браузеров в трёх основных аспектах: приватности, функциональности и синхронизации.
 browsers-mobile-compare = Сравнить
+browsers-mobile-see-how-firefox-for-desktop-stacks = Посмотрите, чем { -brand-name-firefox } для компьютера отличается от семи других браузеров.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Посмотрите, чем { -brand-name-firefox } для <strong>компьютера</strong> отличается от семи других браузеров.
+browsers-mobile-join-firefox-and-get-the-most = Присоединяйтесь к { -brand-name-firefox } и получайте максимум от каждого продукта на любом устройстве.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+browsers-mobile-already-have-an-account-sign = Уже есть аккаунт? <a { $fxa_attr }>Войдите</a> или <a { $accounts_attr }>узнайте больше</a> о присоединении к { -brand-name-firefox }.
 browsers-mobile-download = Загрузить
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
