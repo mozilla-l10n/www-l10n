@@ -17,3 +17,4 @@ compare-opera-the-firefox-browser-and-opera = Il { -brand-name-firefox-browser }
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = Las <a{ $attrs }>directivas da { -brand-name-firefox } per la protecziun da datas</a> explitgeschan cler e net tge datas persunalas che nus ramassain. Nossa unica finamira è da ta gidar da controllar tgeninas infurmaziuns che ti cundividas en l'internet.
+compare-opera-as-far-as-actual-privacy-protections = Quai che pertutga la protecziun da la sfera privata en il navigatur { -brand-name-opera }, datti in modus privat solid che ta permetta da navigar en il web senza ch'il navigatur protocolleschia tias activitads. Era en il modus da navigaziun normala èsi pussaivel da deactivar tschertas funcziuns da registraziun da datas en las configuraziuns cun activar il bloccader da reclamas ed adattar autras funcziuns da segirezza.
