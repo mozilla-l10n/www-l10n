@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Pozrite si systémové požiadavky
+firefox-all-check-the-system-requirements = Systémové požiadavky
 firefox-all-release-notes = Poznámky k vydaniu
 firefox-all-source-code = Zdrojový kód
 firefox-all-need-help = Potrebujete pomoc?
