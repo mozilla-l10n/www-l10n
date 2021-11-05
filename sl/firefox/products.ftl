@@ -24,6 +24,7 @@ firefox-products-see-all-browsers = Oglejte si vse brskalnike
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-get-mozilla-vpn = Namestite { -brand-name-mozilla-vpn }
 firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Zaščitite svoj pravi e-poštni naslov za lažji nadzor nad prejeto pošto.
 firefox-products-learn-more-about-relay = Več o { -brand-name-firefox-relay }u
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
