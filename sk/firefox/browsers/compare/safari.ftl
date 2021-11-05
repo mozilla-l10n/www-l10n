@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
 # HTML page title
-compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } vs. { -brand-name-safari }: Ktorý prehliadač je pre vás lepší?
+compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } vs. { -brand-name-safari }: ktorý prehliadač je pre vás lepší?
 # HTML page description.
-compare-safari-safari-is-the-pre-installed = { -brand-name-safari } je predinštalovaným prehliadačom na { -brand-name-mac } a { -brand-name-iphone }. Porovnajte { -brand-name-safari } a { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } a zistite, ktorý prehliadač je pre vás lepší.
+compare-safari-safari-is-the-pre-installed = { -brand-name-safari } je predinštalovaným prehliadačom na { -brand-name-mac(case: "gen") } a { -brand-name-iphone }. Porovnajte { -brand-name-safari } a { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } a zistite, ktorý je pre vás lepší.
 # Main title.
-compare-safari-comparing-firefox-browser = Porovnanie { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-apple } { -brand-name-safari }
+compare-safari-comparing-firefox-browser = Porovnanie { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } a { -brand-name-apple } { -brand-name-safari }
