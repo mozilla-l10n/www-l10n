@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -8,9 +8,9 @@
 # HTML Page title
 about-learn-about-mozilla = Zistite viac o { -brand-name-mozilla(case: "loc") }
 # HTML page description
-about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } tvorí prehliadače, aplikácie, kód a nástroje, ktoré kladú na prvé miesto ľudí, nie zisk. Našou misiou je udržať internet otvorený a prístupný pre všetkých.
+about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } vytvára prehliadače, aplikácie, kód a nástroje, ktoré kladú na prvé miesto ľudí, nie zisk. Našou misiou je udržať internet otvorený a prístupný pre všetkých.
 # Main heading
-about-mozilla-makes-browsers-apps = { -brand-name-mozilla } tvorí prehliadače, aplikácie, kód a nástroje, ktoré kladú na prvé miesto ľudí, nie zisk.
+about-mozilla-makes-browsers-apps = { -brand-name-mozilla } vytvára prehliadače, aplikácie, kód a nástroje, ktoré kladú na prvé miesto ľudí, nie zisk.
 # Main sub-heading
 about-our-mission-keep-the-internet = Našou misiou je udržať internet otvorený a prístupný pre všetkých.
 # Main call to action

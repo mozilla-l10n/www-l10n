@@ -20,7 +20,7 @@ set-as-default-thanks-heres-everything-you-need-android = Tu je všetko, čo pot
 set-as-default-thanks-heres-everything-you-need-ios = Tu je všetko, čo potrebujete vedieť o nastavení predvoleného prehliadača na <a href="{ $ios }">zariadeniach s iOS</a>.
 set-as-default-thanks-youre-all-set = Hotovo.
 set-as-default-thanks-get-firefox-for-mobile = Získajte { -brand-name-firefox } pre mobilné zariadenia
-set-as-default-thanks-travel-the-internet-with = Surfujte na internete bezpečne - na každom zariadení.
+set-as-default-thanks-travel-the-internet-with = Surfujte na internete bezpečne - na každom zariadení
 set-as-default-thanks-download-the-app = Stiahnuť aplikáciu
 set-as-default-thanks-join-firefox = Prihláste sa do { -brand-name-firefox(case: "gen") }
 set-as-default-thanks-sign-up-for-a-free-account = Vytvorte si účet zdarma a zosynchronizujte si svoje heslá, históriu prehliadania a nastavenia na všetkých svojich zariadeniach.

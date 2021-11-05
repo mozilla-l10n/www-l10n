@@ -28,10 +28,10 @@ firefox-accounts-sign-in = Prihláste sa
 firefox-accounts-meet-our-family-of = Spoznajte náš rad produktov zameraných na súkromie.
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } je technológia, ktorá bojuje za vás.
 firefox-accounts-get-technology-that = Získajte technológiu, ktorá bojuje za vás.
-firefox-accounts-travel-the-internet = Surfujte na internete bezpečne - na každom zariadení.
+firefox-accounts-travel-the-internet = Surfujte na internete bezpečne - na každom zariadení
 # Obsolete string
 firefox-accounts-keep-your-passwords = Majte svoje heslá chránené a vždy so sebou.
-firefox-accounts-get-a-lookout-for = Buďte informovaní o únikoch dát.
+firefox-accounts-get-a-lookout-for = Buďte informovaní o únikoch dát
 # Obsolete string
 firefox-accounts-share-large-files = Zdieľajte súbory bez toho, aby vás niekto sledoval.
 firefox-accounts-get-it-all-on-every = Používajte naše produkty na všetkých svojich zariadeniach. Nenechajte sa obmedzovať operačným systémom.
@@ -44,7 +44,7 @@ firefox-accounts-whole-device-protection = Celková ochrana na každom zariaden�
 firefox-accounts-youll-always-get-the = My vám vždy povieme pravdu. Všetko čo robíme je v súlade s naším <a href="{ $promise }">sľubom o osobných údajoch</a>:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Menej dát je niekedy viac.<br>Udržiavame vaše údaje v bezpečí.<br> Nemáme pred vami žiadne tajomstvá.
-firefox-accounts-get-the-knowledge = Získajte vedomosti, vďaka ktorím budete v bezpečí.
+firefox-accounts-get-the-knowledge = Získajte vedomosti, vďaka ktorým budete v bezpečí.
 firefox-accounts-learn-everything-you = Zistite všetko, čo potrebujete vedieť o tom, ako zostať v bezpečí na internete. Poradia vám svetoznámi experti.
 firefox-accounts-and-be-part-of-protecting = Buďte súčasťou boja za ochranu internetu pre budúce generácie.
 firefox-accounts-help-us-build-a-better = Pomôžte nám vytvoriť lepší { -brand-name-firefox } pre všetkých.

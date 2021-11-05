@@ -52,7 +52,7 @@ contribute-made-by-desc-cont = Veríme, že spolupráca komunity je nevyhnutná 
 
 contribute-newsletter-heading = Ešte si nie ste istí?
 contribute-newsletter-sub-heading = Získajte správy o komunite a zapojení sa do svojej e-mailovej schránky
-contribute-newsletter-desc = Prihláste sa na odber nášho bulletinu, pripojte sa k Mozillians po celom svete a dozviete sa o pôsobivých príležitostiach na podporu misie { -brand-name-mozilla(case: "gen") }.
+contribute-newsletter-desc = Prihláste sa na odber nášho magazínu, pripojte sa k Mozillians po celom svete a dozviete sa o pôsobivých príležitostiach na podporu misie { -brand-name-mozilla(case: "gen") }.
 
 ## Support
 

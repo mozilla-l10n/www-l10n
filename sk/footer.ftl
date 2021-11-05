@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
@@ -42,7 +42,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } pre { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } pre { -brand-name-android }
-footer-visit-mozilla-corporations = Navštívte stránku neziskovej materskej spoločnosti <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-visit-mozilla-corporations = Navštívte stránku <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, neziskovej materskej spoločnosti <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-portions-of-this-content = Časť tohto obsahu bola v rokoch ©1998–{ $current_year } vytvorená individuálnymi prispievateľmi mozilla.org. Obsah je dostupný pod licenciou <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Firma
