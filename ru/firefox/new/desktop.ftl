@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -9,19 +9,19 @@
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
-firefox-desktop-download-meta-title = Загрузите { -brand-name-firefox-browser } — Быстрый, приватный и бесплатный — с сайта { -brand-name-mozilla }
+firefox-desktop-download-meta-title = Загрузите { -brand-name-firefox-browser } — Быстрый, приватный и бесплатный — от { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Загрузите { -brand-name-firefox }, бесплатный веб-браузер, поддерживаемый { -brand-name-mozilla }, некоммерческой организацией, занимающейся вопросами здоровья и приватности Интернета. Уже доступен на { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } и { -brand-name-ios }.
 firefox-desktop-download-og-title = Загрузите самый быстрый в истории { -brand-name-firefox }
-firefox-desktop-download-og-desc = Более быстрая загрузка страниц, меньшее использование памяти и множество функций, новый { -brand-name-firefox } уже здесь.
+firefox-desktop-download-og-desc = Более быстрая загрузка страниц, уменьшенный расход памяти и множество функций — новый { -brand-name-firefox } уже здесь.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Загрузите браузер, который защитит всё важное
 # shady is slang which suggests something is untrustworthy
-firefox-desktop-download-no-shady = Никаких скрытых политик приватности или лазеек для рекламодателей. Просто молниеносно быстрый браузер, который вас не продаст.
+firefox-desktop-download-no-shady = Никаких скрытых политик приватности или лазеек для рекламодателей. Просто молниеносный браузер, который никогда вас не предаст.
 firefox-desktop-download-download-options = Варианты загрузки и другие языки
 firefox-desktop-download-browser-support = Поддержка { -brand-name-firefox-browser(case: "genitive") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Делайте то, что хотели в Интернете.<br> { -brand-name-firefox-browser } <strong>не</strong> следит за вами.
-firefox-desktop-download-how-firefox-compares = Сравнение { -brand-name-firefox } с другими браузерами
+firefox-desktop-download-do-what-you-do = Делайте что угодно в Интернете.<br> { -brand-name-firefox-browser(case: "nominative_uppercase") } <strong>не</strong> следит за вами.
+firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } по сравнению с другими браузерами
 firefox-desktop-download-get-all-the-speed = Получите полную скорость и инструменты без вторжения в приватность. { -brand-name-firefox-browser(case: "nominative_uppercase") } собирает о вас так мало данных, что для загрузки нам даже не нужен ваш адрес электронной почты. Это потому, что, в отличие от других браузеров, мы не заинтересованы в том, чтобы следить за вами в Интернете.
 firefox-desktop-download-how-we-compare = Как мы выглядим по сравнению с другими браузерами
 firefox-desktop-download-compare-firefox-to = Сравните { -brand-name-firefox } с:
@@ -38,10 +38,13 @@ firefox-desktop-download-blocks-social-trackers = Блокировка трек�
 firefox-desktop-download-os-availability = Доступность на ОС
 firefox-desktop-download-in-browser-screenshot = Встроенный инструмент для создания скриншотов
 firefox-desktop-download-primary-password = Мастер-пароль
+firefox-desktop-love-your-life = Полюбите свою жизнь в Интернете
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Это ваш Интернет. Раскрасьте его с помощью тысяч инструментов, тем и расширений. Firefox — оригинальный альтернативный браузер, который ставит людей выше прибыли.
 # Obsolete string
 firefox-desktop-download-master-password = Мастер-пароль
 firefox-desktop-download-we-block-the-ad = Мы блокируем рекламные трекеры. Вы быстрее работаете в Интернете.
-firefox-desktop-download-ads-are-distracting = Реклама отвлекает и замедляет загрузку веб-страниц, в то время как их трекеры отслеживают каждое ваше движение в Интернете. { -brand-name-firefox-browser(case: "nominative_uppercase") } автоматически блокирует большинство трекеров, поэтому нет необходимости копаться в настройках безопасности.
+firefox-desktop-download-ads-are-distracting = Объявления отвлекают и замедляют загрузку веб-страниц, в то время как их трекеры отслеживают каждое ваше движение в Интернете. { -brand-name-firefox-browser(case: "nominative_uppercase") } автоматически блокирует большинство трекеров, поэтому нет необходимости копаться в настройках безопасности.
 firefox-desktop-download-see-your-report = Просмотрите свой отчёт о защите
 firefox-desktop-download-for-everyone = { -brand-name-firefox } — для всех
 firefox-desktop-download-available-in-over = Доступный более чем на 90 языках и совместимый с компьютерами на { -brand-name-windows }, { -brand-name-mac-short } и { -brand-name-linux }, { -brand-name-firefox } работает независимо от того, что вы используете или где находитесь. Убедитесь, что ваша операционная система обновлена для его наилучшей работы.
@@ -175,6 +178,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Вы использ�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Загрузка начнётся автоматически. Не работает? <a id="{ $id }" href="{ $fallback_url }">Попробуйте загрузить снова</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } — больше, чем просто браузер.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Ваша загрузка была прервана. Но ещё не всё потеряно.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
