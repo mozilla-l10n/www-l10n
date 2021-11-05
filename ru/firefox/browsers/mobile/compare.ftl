@@ -16,6 +16,7 @@ mobile-compare-what-can-your = Что ваш браузер может для в
 mobile-compare-syncing-strong = <strong>Синхронизация</strong>
 mobile-compare-syncing = Синхронизация
 mobile-compare-does-your-browser = Ваш браузер хорошо работает с другими устройствами?
+mobile-compare-almost-all-of = Почти все сравниваемые здесь мобильные браузеры обеспечивают полную синхронизацию между мобильными и настольными устройствами.
 mobile-compare-conclusion = Заключение
 mobile-compare-search-engine-options = Настройка поисковых систем
 mobile-compare-text-to-speech = Озвучивание текста
