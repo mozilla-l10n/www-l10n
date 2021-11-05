@@ -14,7 +14,7 @@ compare-shared-blocks-third-party-tracking-default = Blokovanie sledovacích coo
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Blokovanie sledovacích cookies tretích strán
 compare-shared-blocks-cryptomining-scripts = Blokovanie ťažby kryptomien
-compare-shared-blocks-fingerprinting-scripts = Blokuje skripty na vytváranie odtlačkov prehliadača
+compare-shared-blocks-fingerprinting-scripts = Blokovanie skriptov na vytváranie odtlačkov prehliadača
 compare-shared-blocks-social-trackers = Blokovanie sledovacích prvkov sociálnych sietí
 compare-shared-dashboard-to-review = Informačný panel na kontrolu zablokovaných sledovačov
 compare-shared-autoplay-blocking = Blokovanie automatického prehrávania
