@@ -31,7 +31,7 @@ sub-navigation-add-ons = Doplnky
 sub-navigation-faq = Často kladené otázky
 sub-navigation-learn-more = Ďalšie informácie
 sub-navigation-developer-edition = { -brand-name-developer-edition }
-sub-navigation-firefox-for-mobile = { -brand-name-firefox } pre mobily
+sub-navigation-firefox-for-mobile = { -brand-name-firefox } pre mobilné zariadenia
 # Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Doplnky pre { -brand-name-android }
 sub-navigation-android-add-ons = Doplnky pre { -brand-name-android }
