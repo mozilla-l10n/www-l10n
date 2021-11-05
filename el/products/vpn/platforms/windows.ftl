@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
@@ -15,6 +15,7 @@ vpn-windows-hero-headline = Συνδεθείτε και προστατευθεί
 vpn-windows-wifi-headline = Προστασία σε ιδιωτικά Wi-Fi
 vpn-windows-wifi-copy = Το { -brand-name-mozilla-vpn } προστατεύει τη σύνδεσή σας στο διαδίκτυο από αδιάκριτα βλέμματα, ώστε να μπορείτε να εργαστείτε παντού — στο αεροδρόμιο, στη φοιτητική εστία, στην καφετέρια — χωρίς να ανησυχείτε για το διαδικτυακό σας απόρρητο.
 vpn-windows-about-headline = Από τον ηγέτη του διαδικτυακού απορρήτου
+vpn-windows-about-copy = Ο μη κερδοσκοπικός οργανισμός πίσω από το { -brand-name-firefox-browser }, η { -brand-name-mozilla } είναι μια κοινότητα διαδικτυακών πολιτών από όλο τον κόσμο, οι οποίοι είναι αφοσιωμένοι στο να διατηρούν το διαδίκτυο έναν ελεύθερο και ανοικτό πόρο για όλους. Αποστολή της { -brand-name-mozilla } είναι να βάζει τους ανθρώπους πάνω από το κέρδος με κάθε προϊόν της.
 vpn-windows-privacy-headline = Προστασία με το πάτημα ενός κουμπιού
 vpn-windows-privacy-copy = Το { -brand-name-mozilla-vpn } κρυπτογραφεί τη σύνδεση σας στο διαδίκτυο και θωρακίζει τη διεύθυνση IP σας από αδιάκριτα βλέμματα στον επιτραπέζιο ή τον φορητό υπολογιστή σας με το προηγμένο πρωτόκολλο { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Πρόσβαση σε διακομιστές από όλο τον κόσμο
