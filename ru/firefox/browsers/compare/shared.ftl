@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = Блокировка кук
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Блокировка кук сторонних трекеров
 compare-shared-blocks-cryptomining-scripts = Блокировка скриптов-криптомайнеров
+compare-shared-blocks-fingerprinting-scripts = Блокировка сборщиков цифровых отпечатков
 compare-shared-blocks-social-trackers = Блокировка трекеров социальных сетей
+compare-shared-dashboard-to-review = Панель для просмотра заблокированных трекеров
 compare-shared-autoplay-blocking = Блокировка автовоспроизведения
 compare-shared-tab-browsing = Использование вкладок
 compare-shared-bookmark-manager = Менеджер закладок
 compare-shared-automatically-fills-out-forms = Автозаполнение форм
+compare-shared-automatically-fills-out-payments = Автозаполнение платежей
 compare-shared-search-engine-options = Настройка поисковых систем
 compare-shared-text-to-speech = Озвучивание текста
 compare-shared-reader-mode = Режим чтения

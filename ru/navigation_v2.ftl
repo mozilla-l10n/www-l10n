@@ -1,11 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Загрузить { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Создать { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = Получить { -brand-name-mozilla-vpn }
 navigation-v2-menu = Меню
+# Obsolete string
+navigation-v2-get-a-firefox-account = Создать { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -17,6 +19,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } для { -brand-name
 navigation-v2-get-the-customizable-mobile = Загрузите настраиваемый мобильный браузер для смартфонов { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } для { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Загрузите мобильный браузер для своего { -brand-name-iphone } или { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Просто приватный мобильный веб-сёрфинг.
 navigation-v2-privacy-promise = Обещание по Приватности
 navigation-v2-learn-how-firefox-treats = Узнайте, насколько уважительно { -brand-name-firefox } относится к вашим данным.
 navigation-v2-firefox-blog = Блог { -brand-name-firefox }

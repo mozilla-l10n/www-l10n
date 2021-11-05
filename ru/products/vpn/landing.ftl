@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -50,6 +50,7 @@ vpn-landing-faq-uses-encrypt = Шифруя трафик между вами и 
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Ознакомьтесь с <a href="{ $url }">пятью ситуациями из реальной жизни</a>, в которых вы захотите использовать VPN на своём устройстве.
 vpn-landing-faq-info-question-heading = Какую информацию сохраняет { -brand-name-mozilla-vpn }?
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Мы не записываем, не отслеживаем и не передаем информацию о вашей сетевой активности. Мы строго соблюдаем <a href="{ $url }">Принципы конфиденциальности данных</a> { -brand-name-mozilla }, и собираем только те данные, которые необходимы для обеспечения работоспособности VPN и улучшения продукта с течением времени.
@@ -60,7 +61,11 @@ vpn-landing-faq-protected-question-heading = Как защищается моя 
 vpn-landing-faq-protected-question-desc = Протокол <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® шифрует ваш сетевой трафик, защищая всю вашу личную информацию. По сравнению с существующими протоколами VPN, облегченный код { -brand-name-wireguard } легче анализировать и проверять аналитикам по безопасности, что делает его более безопасным вариантом для VPN. Кроме того, ваши действия в Интернете остаются анонимными, потому что мы никогда не записываем, не отслеживаем и не передаем ваши сетевые данные.
 vpn-landing-faq-competition-question-heading = Чем { -brand-name-mozilla-vpn } отличается от конкурентов?
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Хотя бесплатные VPN кажутся привлекательными, они не принимают на себя таких же обязательств по обеспечению приватности как { -brand-name-mozilla-vpn }. Другие VPN-сервисы не имеют более чем 20-летнего <a href="{ $url }">опыта</a> { -brand-name-mozilla } по созданию продуктов, которые ставят людей и приватность на первое место.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Хотя бесплатные VPN кажутся привлекательными, они не принимают на себя таких же обязательств по обеспечению приватности, как { -brand-name-mozilla-vpn }, и могут продавать или хранить ваши данные. Другие платные VPN-сервисы не имеют более чем 20-летнего <a href="{ $url }">опыта</a> { -brand-name-mozilla } по созданию продуктов, которые ставят людей и приватность на первое место.
 vpn-landing-faq-compatibility-question-heading = С какими устройствами совместим { -brand-name-mozilla-vpn }?
 # Variables:
@@ -71,9 +76,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } с�
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } совместим с:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (только 64-битная версия)
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (только 64-битная версия)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (только 64-битная версия)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (только 64-битная версия)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 и выше)
@@ -117,8 +124,6 @@ vpn-landing-faq-manage-subscription-question-heading = Как я могу упр
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Если вы уже подписаны на { -brand-name-mozilla-vpn }, вы можете сменить свой тариф или <a href="{ $url }">управлять подпиской</a> в любое время.
 vpn-landing-faq-link = Посмотреть больше вопросов
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Ой! Похоже, вы ещё не подписались.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 

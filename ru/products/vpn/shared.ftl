@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -10,10 +10,9 @@ vpn-shared-subscribe-link = Получить доступ к { -brand-name-mozil
 vpn-shared-waitlist-link = Присоединиться к списку ожидания
 vpn-shared-sign-in-link = Уже подписаны?
 # Outdated string
-vpn-shared-available-countries = В настоящее время мы предоставляем { -brand-name-mozilla-vpn } для жителей США, Великобритании, Канады, Новой Зеландии, Сингапура и Малайзии.
-# Outdated string
-vpn-shared-available-countries-v2 = В настоящее время мы предоставляем { -brand-name-mozilla-vpn } для жителей США, Великобритании, Германии, Франции, Канады, Малайзии, Новой Зеландии и Сингапура.
 vpn-shared-available-countries-v3 = В настоящее время мы предоставляем { -brand-name-mozilla-vpn } для жителей США, Канады, Великобритании, Германии, Франции, Италии, Испании, Бельгии, Австрии, Швейцарии, Малайзии, Новой Зеландии и Сингапура.
+vpn-shared-available-countries-v4 = В настоящее время мы предоставляем { -brand-name-mozilla-vpn } для жителей Австрии, Бельгии, Великобритании, Германии, Ирландии, Испании, Италии, Канады, Малайзии, Нидерландов, Новой Зеландии, Сингапура, США, Франции и Швейцарии.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-дневная гарантия возврата денег
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Рекомендуемые
@@ -51,6 +50,8 @@ vpn-shared-features-strong-servers = Мощные серверы более че
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Подключите до { $devices } устройств
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30-дневная гарантия возврата денег
 vpn-shared-refund-policy = Политика возврата средств
 vpn-shared-privacy-notice = Политика приватности
 vpn-shared-terms-conditions = Условия использования
@@ -69,8 +70,12 @@ vpn-shared-pricing-plan-monthly = Ежемесячно
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/месяц</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Купить 6-месячный тариф
+# Outdated string
 vpn-shared-pricing-get-12-month = Купить 12-месячный тариф
+vpn-shared-pricing-get-6-month-v2 = Купить 6-месячный тариф
+vpn-shared-pricing-get-12-month-v2 = Купить 12-месячный тариф
 vpn-shared-pricing-get-monthly = Купить тариф с ежемесячной оплатой
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
