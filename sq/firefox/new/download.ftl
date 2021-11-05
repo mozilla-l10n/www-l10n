@@ -59,4 +59,5 @@ firefox-new-visit-support-for-more = Për Më Tepër Hollësi, Vizitoni Asistenc
 firefox-new-download-browser = Shkarkoni { -brand-name-firefox-browser }
 firefox-new-fast = I shpejtë, Privat & Falas
 firefox-new-from-mozilla = nga { -brand-name-mozilla }
+firefox-new-desc = { -brand-name-firefox-browser } është një shfletues falas me ngarkim të shpejtë faqesh, përdorim më të pakët të kujtesës dhe plot veçori - një projekt i entit jofitimprurës { -brand-name-mozilla }.
 firefox-new-download-a-different = Shkarkojeni për një platformë ose gjuhë tjetër
