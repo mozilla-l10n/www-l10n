@@ -37,6 +37,9 @@ firefox-desktop-download-blocks-social-trackers = يَحجب المُتعقّب�
 firefox-desktop-download-os-availability = التوافر على أنظمة التشغيل
 firefox-desktop-download-in-browser-screenshot = أداة مُدمجة بالمتصفح لأخذ لقطات الشاشة
 firefox-desktop-download-primary-password = كلمة مرور رئيسية
+firefox-desktop-love-your-life = عِش حياتك على الإنترنت
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = إنه الإنترنت الخاص بك. زيّنه بالطريقة التي تحلو لك مع آلاف الأدوات والأشكال والامتدادات. يُعد Firefox المتصفّح البديل الأصلي الذي يُقدّم الناس على الأرباح.
 
 # Obsolete string
 firefox-desktop-download-master-password = كلمة المرور الرئيسية
