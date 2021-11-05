@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+home-mr2-promo-title = Retorna al bon ideas – plus rapidemente
 
 ## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 
