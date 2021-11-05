@@ -114,7 +114,7 @@ firefox-desktop-download-sync-your-devices = Синхронизируйте св
 firefox-desktop-download-screenshots = Скриншоты
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Улучшенная защита от отслеживания (ETP)
-firefox-desktop-download-from-watching-a = От просмотра обучающего материала до наблюдения за игрой любимой команды — смотрите ваше видео, пока выполняете несколько задач одновременно.
+firefox-desktop-download-from-watching-a = От просмотра обучающего материала до наблюдения за игрой любимой команды — смотрите ваше видео, пока выполняете другие задачи.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Загрузите { -brand-name-firefox-browser } для <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Загрузите { -brand-name-firefox-browser } для <strong>{ -brand-name-ios }</strong>
@@ -132,7 +132,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } был с
 firefox-desktop-download-as-the-internet = По мере того, как растёт и меняется Интернет, { -brand-name-firefox } продолжает уделять внимание вашему праву на приватность — мы называем это <a { $attrs }>Обещанием по Личным Данным</a>: Собирать меньше. Держать в безопасности. Никаких секретов. Ваши данные, действия и жизнь в Интернете защищаются { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } доступен для всех ваших устройств; возьмите свои вкладки, историю и закладки с собой. Всё, что вам для этого нужно — Аккаунт <a { $attrs }>{ -brand-name-firefox }</a>.
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } доступен для всех ваших устройств; возьмите свои вкладки, историю и закладки с собой. Всё, что для этого нужно — <a { $attrs }>аккаунт { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Сделайте качественный снимок любого сайта в Интернете с помощью нашего инструмента <a { $attrs }>Скриншоты</a>, встроенного прямо в браузер.
@@ -141,7 +141,7 @@ firefox-desktop-download-grab-a-high = Сделайте качественный
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } автоматически блокирует сбор и продажу ваших действий в Интернете <a { $attrs }>большинством сторонних трекеров</a>.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = Вопросы? <a { $attrs }>Служба поддержки { -brand-name-mozilla }</a> вам поможет.
+firefox-desktop-download-questions = Есть вопросы? Вам поможет <a { $attrs }>Служба поддержки { -brand-name-mozilla }</a>.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = У вас уже есть браузер. Теперь вы можете получить ещё больше от { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Следите за хакерскими атаками с помощью { -brand-name-firefox-monitor }, защищайте пароли с помощью { -brand-name-firefox-lockwise } и многое другое.
@@ -172,12 +172,12 @@ firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Вы используете небезопасную, устаревшую операционную систему, <a href="{ $url }">более не поддерживаемую { -brand-name-firefox }</a>.
+firefox-desktop-download-youre-using-an-insecure-outdated = Вы используете небезопасную устаревшую операционную систему, <a href="{ $url }">более не поддерживаемую { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Загрузка начнётся автоматически. Не работает? <a id="{ $id }" href="{ $fallback_url }">Попробуйте загрузить снова</a>.
-firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } — больше, чем просто браузер.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } — это больше, чем просто браузер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Ваша загрузка была прервана. Но ещё не всё потеряно.
 # Variables:

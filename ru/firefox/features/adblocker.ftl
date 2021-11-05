@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -47,7 +47,7 @@ features-adblocker-take-a-bite-out-of-cookies = «Откусите» куки
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Куки</a> устанавливаются посещаемыми вами веб-сайтами. Они хранятся на вашем устройстве и следят за вашими действиями на сайте. Если авиакомпания повышает для вас цены, потому что вы ранее просматривали билеты на самолёт, то это работа куков.
 features-adblocker-in-firefox-you-can-block = В { -brand-name-firefox } вы можете заблокировать все сторонние куки или только те, которые устанавливаются трекерами. Помните, что блокирование всех куков может вызывать проблемы с некоторыми веб-сайтами.
-features-adblocker-send-a-do-not-track-signal = Передавайте сигнал «Не отслеживать»
+features-adblocker-send-a-do-not-track-signal = Отправлять сигнал «Не отслеживать»
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Если вы не хотите, чтобы ваши действия в Интернете использовались для персонализации рекламы, то вы можете передавать сайтам просьбу не следить за вами, установив опцию <a href="{ $url }">Не отслеживать</a> в { -brand-name-firefox }. Не все сайты удовлетворят такой запрос, а только те, которые придерживаются политики отказа от отслеживания.
