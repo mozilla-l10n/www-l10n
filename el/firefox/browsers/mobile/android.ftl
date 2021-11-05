@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
@@ -10,7 +10,7 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Το { -brand-name-firefox } για { -brand-name-android } είναι γρήγορο, ασφαλές και ιδιωτικό από την πρώτη εκκίνηση.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Ανεξαρτητοποιηθείτε με το { -brand-name-firefox } για { -brand-name-android }
 mobile-android-get-firefox-for = Λήψη του { -brand-name-firefox } για { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Στείλτε έναν σύνδεσμο λήψης στο τηλέφωνό σας.
@@ -27,3 +27,5 @@ mobile-android-search-from-your = Αναζήτηση από την αρχική 
 mobile-android-no-need-to = Δεν χρειάζεται να ανοίξετε την εφαρμογή. Προσθέστε το widget αναζήτησης του { -brand-name-firefox } και κάντε αναζήτηση απευθείας από την αρχική οθόνη της συσκευής σας.
 mobile-android-pin-videos-to = Καρφίτσωμα βίντεο στην οθόνη σας
 mobile-android-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Συντομεύσεις για το διαδίκτυο στο { -brand-name-firefox } για { -brand-name-android }
