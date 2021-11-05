@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Blocks social trackers
 firefox-desktop-download-os-availability = OS availability
 firefox-desktop-download-in-browser-screenshot = In-browser screenshot tool
 firefox-desktop-download-primary-password = Primary password
+firefox-desktop-love-your-life = Love your life online
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = It’s your internet. Color it the way you want with thousands of tools, themes and extensions. Firefox is the original alternative browser that puts people before profits.
 # Obsolete string
 firefox-desktop-download-master-password = Master password
 firefox-desktop-download-we-block-the-ad = We block the ad trackers. You explore the internet faster.
@@ -175,6 +178,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = You’re using an in
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Your download should begin automatically. Didn’t work? <a id="{ $id }" href="{ $fallback_url }">Try downloading again.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is more than a browser.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Your download was interrupted. But all is not lost.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
