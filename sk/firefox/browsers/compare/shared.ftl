@@ -48,7 +48,7 @@ compare-shared-overall-assessment = Celkové hodnotenie
 compare-shared-the-comparisons-made-here-updated = Pri porovnávaní sme použili nasledovné verzie prehliadačov v predvolenom nastavení:
 # Obsolete string
 compare-shared-the-comparisons-made-here = Pri porovnávaní sme použili nasledovné verzie prehliadačov:
-compare-shared-this-page-updated-semi-quarterly = Táto stránka je aktualizovaná každý mesiac a pol, aby odrážala najnovšie verzie a nemusí vždy odrážať najnovšie vydané aktualizácie.
+compare-shared-this-page-updated-semi-quarterly = Táto stránka je aktualizovaná každý mesiac a pol, aby zachytávala najnovšie vydané verzie. Nemusí však odrážať najnovšie vydané aktualizácie.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
