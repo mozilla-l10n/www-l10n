@@ -27,8 +27,8 @@ mobile-ios-your-browsing-history = Vaša história prehliadania je históriou
 mobile-ios-if-you-want = Ak chcete, môžete sa jednoducho rozhodnúť prejsť online a hľadať v režime súkromného prehliadania. A keď zatvoríte režim súkromného prehliadania, vaša história prehliadania a všetky súbory cookie sa z vášho zariadenia automaticky vymažú.
 mobile-ios-get-more-firefox = Získajte viac { -brand-name-firefox(case: "gen") } vo svojom živote
 mobile-ios-add-firefox-across-v2 = Pridajte { -brand-name-firefox } do svojich zariadení pre bezpečné a bezproblémové prehliadanie. Synchronizujte svoje zariadenia a vezmite si svoje obľúbené záložky, uložené prihlasovacie údaje, heslá a históriu prehliadania, nech ste kdekoľvek. Navyše posielajte otvorené karty medzi telefónom a počítačom, aby ste mohli pokračovať tam, kde ste prestali.
-mobile-ios-get-to-your-go-to = Dostaňte sa rýchlejšie na svoje obľúbené miesta na svojom zariadení { -brand-name-iphone } a { -brand-name-ipad }
-mobile-ios-see-your-open-tabs = Pozrite si svoje otvorené karty, predchádzajúce vyhľadávania a obľúbené stránky na jednom mieste pomocou { -brand-name-firefox-browser(case: "gen") } pre { -brand-name-ios }.
+mobile-ios-get-to-your-go-to = Dostaňte sa rýchlejšie na svoje obľúbené miesta na svojich zariadeniach { -brand-name-iphone } a { -brand-name-ipad }
+mobile-ios-see-your-open-tabs = Pozrite si svoje otvorené karty, predchádzajúce vyhľadávania a obľúbené stránky na jednom mieste pomocou { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } pre { -brand-name-ios }.
 mobile-ios-own-your-home = Vlastnite svoju domovskú obrazovku
 mobile-ios-get-to-the-parts = Dostaňte sa rýchlejšie do častí internetu, na ktorých vám záleží. Zvoľte si, či chcete zobraziť všetky svoje otvorené karty, posledné vyhľadávania, záložky a obľúbené stránky na jednom mieste.
 # Obsolete string
