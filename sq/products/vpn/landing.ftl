@@ -50,6 +50,10 @@ vpn-landing-faq-uses-encrypt = Duke fshehtëzuar trafikun mes jush dhe shërbimi
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Hidhuni një sy <a href="{ $url }">pesë shembujve realë</a> për të cilët do të donit një VPN në pajisjen tuaj.
 vpn-landing-faq-info-question-heading = Çfarë informacioni mban { -brand-name-mozilla-vpn }?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Ne aderojmë në mënyrë strikte te { -brand-name-mozilla }’s <a href="{ $principles }">Parimet e Privatësisë së të Dhënave</a> dhe grumbullojmë të dhëna të domosdoshme për ta mbajtur në punë VPN-në dhe për të përmirësuar produktin përgjatë kohës. Ndjekim gjithashtu të dhëna fushatash dhe të dhëna referuese te aplikacioni ynë për celular, për ta ndihmuar { -brand-name-mozilla } të shohë efektshmërinë e fushatave tona të marketingut. Lexoni më tepër, te <a href="{ $notice }">Shënimi ynë i mbi Privatësinë</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
@@ -60,6 +64,9 @@ vpn-landing-faq-protected-question-heading = Si mbrohet privatësia ime?
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = Protokolli <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®  fshehtëzon trafikun në rrjet, duke mbrojtur krejt të dhënat tuaja private. Krahasuar me protokolle ekzistuese VPN, kodi i pakët i { -brand-name-wireguard }-it e bën të lehtë për specialistë sigurie ta shqyrtojnë dhe kontrollojnë—duke e bërë një mundësi më të sigurt për VPN-ra.Veç kësaj, veprimtaritë tuaja internetore mbeten anonime, ngaqë ne s’regjistrojmë kurrë, gjurmojmë apo japin të dhëna tuajat nga rrjeti.
 vpn-landing-faq-competition-question-heading = Si del { -brand-name-mozilla-vpn } krahasuar me konkurrentët?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Teksa VPN-të falas duken tërheqëse, ato nuk i përkushtohen njësoj privatësisë si { -brand-name-mozilla-vpn }. VPN të tjera me pagesë nuk kanë <a href="{ $url }">historikun</a> mbi 20 vjeçar të { -brand-name-mozilla }-s në krijim produktesh që vënë njerëzit dhe privatësinë mbi gjithçka.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
@@ -71,6 +78,9 @@ vpn-landing-faq-compatibility-question-heading = Me cilat pajisje është i për
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } është i përputhshëm me <a href="{ $mobile }">celular</a>, tablet, dhe <a href="{ $desktop }">desktop</a> në:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } është i përputhshëm me:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (vetëm 64-bit)
 # Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
