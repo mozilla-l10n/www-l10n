@@ -21,3 +21,11 @@ vpn-or-proxy-isps-can-use = ISP-të mund ta përdorin këtë informacion për fo
 vpn-or-proxy-when-should-you = Kur duhet të zgjidhni një VPN, ose një ndërmjetës të sigurt?
 vpn-or-proxy-vpns-and-secure = VPN-të dhe ndërmjetësit e sigurt web kanë synime të përbashkëta: sigurojnë lidhjet. Munden dhe bëjnë maskimin e adresës tuaj origjinale IP dhe mbrojnë trafikun web që ju dërgoni mes jush dhe VPN-së tuaj pse furnizuesit të ndërmjetësit të sigurt. Por kur do të donit të përdorni një VPN, kundrejt një ndërmjetësi?
 vpn-or-proxy-secure-web-proxy = Ndërmjetës i sigurt web: mbrojtje në nivel shfletuesi
+vpn-or-proxy-a-secure-web = Një ndërmjetësi i sigurt web funksionon për punë që mund t’i bëni vetëm në shfletuesin tuaj. Këto mund të përfshijnë plot veprimtari, fjala vjen, blerje, pagim faturash, hyrje në media shoqërore dhe lexim email-esh. Një ndërmjetës i sigurt web shërben si një ndërmjetës mes shfletuesit tuaj dhe internetit. Të dhënat e shfletuesit tuaj do të kalojnë përmes një tuneli të sigurt në internet drejt e nga shfletuesi juaj, duke maskuar adresën tuaj IP, që shërbyesi me të cilin po lidheni nuk e di saktësisht se ku gjendeni në botë. Dhe kjo e bën më të vështirë ndjekjen tuaj dhe fokusimin në ju.
+# Variables
+#   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
+vpn-or-proxy-a-proxy-is-useful = Një ndërmjetës është i dobishëm kur shfletoni përmes një WiFi publik. Kur aktivizohet një ndërmjetës, do t’i pengojë përgjuesit në të njëjtin rrjet të spiunojnë veprimtarinë tuaj të shfletimit apo të lexojnë transaksionet tuaja në sajte jo të fshehtëzuar. Duket pa dëm, por rrjetet publike WiFi mund të jenë si një deriçkë e pasme për <a href="{ $url }">hacker-ët</a>.
+# Variables
+#   $fpn (url) - https://fpn.firefox.com
+vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> është një zgjerim shfletuesi i lehtë për t’u instaluar, që furnizon një tunel të sigurt, të fshehtëzuar, në web për të mbrojtur lidhjen e shfletuesit tuaj kurdo që përdorni { -brand-name-firefox }-in. Është i shpejtë dhe e lehtë të aktivizohet, kurdo që keni nevojë për siguri shtesë në shfletuesin tuaj.
+vpn-or-proxy-vpns-devicelevel-protection = VPNs: mbrojtje në nivel pajisjeje
