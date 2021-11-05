@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -40,12 +40,17 @@ vpn-langing-faq-uses-question-heading = Ç’është një VPN dhe cilat janë p�
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Teksa një pjesë gjithnjë e më e madhe e jetës së përditshme zhvillohet përmes internetit, privatësia dhe siguria internetore bëhet gjithnjë e më e rëndësishme. Një VPN, <a href="{ $url }">Rrjet Privat Virtual</a>, mund të ndihmojë për të krijuar një lidhje të sigurt, private me internetin. Funksionon duke krijuar një “tunel” mes pajisjesh tuaj dhe internetit në përgjithësi, dhe ju mbron përmes dy rrugësh të rëndësishme:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Duke fshehur <a href="{ $url }">adresën tuaj IP</a> të vërtetë. Kjo mbron identitetin tuaj dhe errëson të dhënat mbi vendndodhjen tuaj.
+# Obsolete string
 vpn-landing-faq-uses-conceal = Duke fshehur adresën tuaj të vërtetë IP. Kjo mbron identitetin tuaj dhe errëson të dhënat mbi vendndodhjen tuaj.
 vpn-landing-faq-uses-encrypt = Duke fshehtëzuar trafikun mes jush dhe shërbimit tuaj VPN, që kështu askush në rrjetin tuaj lokal të mund të mos e deshifrojë apo ndryshojë dot.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Hidhuni një sy <a href="{ $url }">pesë shembujve realë</a> për të cilët do të donit një VPN në pajisjen tuaj.
 vpn-landing-faq-info-question-heading = Çfarë informacioni mban { -brand-name-mozilla-vpn }?
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = S’regjistrojmë, gjurmojmë apo japin ndonjë gjë nga veprimtaria juaj internetore. Zbatojmë në mënyrë strikte { -brand-name-mozilla }’s <a href="{ $url }">Parimet e Privatësisë së të Dhënave</a> dhe grumbullojmë vetëm të dhëna për ta pasur VPN në funksionim dhe për të përmirësuar produktin përgjatë kohës.
@@ -55,8 +60,9 @@ vpn-landing-faq-protected-question-heading = Si mbrohet privatësia ime?
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = Protokolli <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®  fshehtëzon trafikun në rrjet, duke mbrojtur krejt të dhënat tuaja private. Krahasuar me protokolle ekzistuese VPN, kodi i pakët i { -brand-name-wireguard }-it e bën të lehtë për specialistë sigurie ta shqyrtojnë dhe kontrollojnë—duke e bërë një mundësi më të sigurt për VPN-ra.Veç kësaj, veprimtaritë tuaja internetore mbeten anonime, ngaqë ne s’regjistrojmë kurrë, gjurmojmë apo japin të dhëna tuajat nga rrjeti.
 vpn-landing-faq-competition-question-heading = Si del { -brand-name-mozilla-vpn } krahasuar me konkurrentët?
+# Obsolete string
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Teksa VPN-të falas duken tërheqëse, ato nuk i përkushtohen njësoj privatësisë si { -brand-name-mozilla-vpn } dhe mundë të shesin ose depozitojnë të dhëna tuajat. VPN të tjera me pagesë nuk kanë <a href="{ $url }">historikun</a> mbi 20 vjeçar të { -brand-name-mozilla }-s në krijim produktesh që vënë njerëzit dhe privatësinë mbi gjithçka.
 vpn-landing-faq-compatibility-question-heading = Me cilat pajisje është i përputhshëm { -brand-name-mozilla-vpn }?
 # Variables:
@@ -65,11 +71,10 @@ vpn-landing-faq-compatibility-question-heading = Me cilat pajisje është i për
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } është i përputhshëm me <a href="{ $mobile }">celular</a>, tablet, dhe <a href="{ $desktop }">desktop</a> në:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } është i përputhshëm me:
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (vetëm 64-bit)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (vetëm 64-bit)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 e sipër)
@@ -113,8 +118,6 @@ vpn-landing-faq-manage-subscription-question-heading = Si ta administroj pajtimi
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Nëse jeni pajtuar tashmë te { -brand-name-mozilla-vpn }, mund të ndryshoni planin ose të <a href="{ $url }">administroni pajtimin tuaj</a> në çfarëdo kohe.
 vpn-landing-faq-link = Shihni më tepër PBR
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Hëm! Duket se s’jeni pajtuar ende.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
