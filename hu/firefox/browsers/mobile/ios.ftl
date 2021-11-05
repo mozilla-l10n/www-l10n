@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
@@ -8,8 +8,10 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios }-re ({ -brand-name-iphone } és { -brand-name-ipad })
 # HTML description
+# Obsolete string
 mobile-ios-firefox-browser-for = Az { -brand-name-ios }-hez készült { -brand-name-firefox } böngésző gyors, biztonságos és privát, az első megnyitásától kezdve.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 mobile-ios-get-automatic-privacy = Szerezzen automatikus adatvédelmet az { -brand-name-iphone }-jára és { -brand-name-ipad }jére.
 mobile-ios-get-firefox-for = Szerezze be a { -brand-name-firefox } for { -brand-name-ios }-t
 mobile-ios-send-a-download-link-to-your = Küldjön egy letöltési hivatkozást a telefonjára.
@@ -25,7 +27,9 @@ mobile-ios-your-browsing-history = Az előzményei történelem
 mobile-ios-if-you-want = Ha szeretné, egyszerűen kiválaszthatja, hogy az online kereséseket privát böngészési módban tegye. És amikor bezárja a privát böngészési módot, akkor az előzményei és a sütijei automatikusan törlésre kerülnek az eszközről.
 mobile-ios-get-more-firefox = Szerezzen több { -brand-name-firefox }ot az életébe
 mobile-ios-add-firefox-across-v2 = Adja hozzá a { -brand-name-firefox }ot az eszközeihez a biztonságos és zökkenőmentes böngészéshez. Szinkronizálja eszközeit, hogy bárhová magával vigye kedvenc könyvjelzőit, a mentett bejelentkezéseit, jelszavait és előzményeit. Ezenkívül küldjön nyitott lapokat a telefonja és az asztali számítógépe között, hogy ott folytathassa, ahol abbahagyta.
+mobile-ios-own-your-home = Szabja testre a kezdőképernyőt
 # Obsolete string
 mobile-ios-add-firefox-across = Adja hozzá a { -brand-name-firefox }ot az eszközeihez a biztonságos és zökkenőmentes böngészéshez. Szinkronizálja eszközeit a { -brand-name-sync } segítsével, hogy bárhová magával vigye kedvenc könyvjelzőit, a mentett bejelentkezéseit, jelszavait és előzményeit. Ezenkívül küldjön nyitott lapokat a telefonja és az asztali számítógépe között, hogy ott folytathassa, ahol abbahagyta.
 mobile-ios-find-it-all = Találja meg gyorsabban
+mobile-ios-discover-more-of = Fedezzen fel többet abból, amit szeret
 mobile-ios-about-mozilla = A { -brand-name-mozilla(ending: "accented") }ról

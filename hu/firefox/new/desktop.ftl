@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Közösségi oldalak követői
 firefox-desktop-download-os-availability = Elérhetőség különböző operációs rendszereken
 firefox-desktop-download-in-browser-screenshot = Böngészőn belüli képernyőkép eszköz
 firefox-desktop-download-primary-password = Elsődleges jelszó
+firefox-desktop-love-your-life = Szeresse az online életét
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Ez az Ön internete. Színezze olyanra, amilyenre szeretné az eszközök, témák és kiegészítők ezreivel. A Firefox az eredeti alternatív böngésző, amely az embereket helyezi a profit elé.
 # Obsolete string
 firefox-desktop-download-master-password = Mesterjelszó
 firefox-desktop-download-we-block-the-ad = Blokkoljuk a hirdetéskövetőket. Gyorsabban fedezheti fel az internetet.
@@ -175,6 +178,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Egy nem biztonságos
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = A letöltés automatikusan elindul. Nem működött? <a id="{ $id }" href="{ $fallback_url }">Próbálja újra letölteni</a>.
 firefox-new-firefox-is-more-than-a-browser = A { -brand-name-firefox } több, mint egy böngésző.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = A letöltése megszakadt. De nincs minden veszve.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
