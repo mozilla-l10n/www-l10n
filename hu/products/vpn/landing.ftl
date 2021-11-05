@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -80,9 +80,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = A { -brand-name-mozilla-vpn } a
 vpn-landing-faq-compatibility-question-desc = A { -brand-name-mozilla-vpn } a következőkkel kompatibilis:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (csak 64 bites)
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (csak 64 bites)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (csak 64 bites)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (csak 64 bites)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 vagy újabb)
@@ -126,8 +128,6 @@ vpn-landing-faq-manage-subscription-question-heading = Hogyan kezelhetem az elő
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Ha már előfizetett a { -brand-name-mozilla-vpn } szolgáltatásra, akkor bármikor módosíthatja a csomagját vagy <a href="{ $url }">kezelheti az előfizetését</a>.
 vpn-landing-faq-link = További GYIK bejegyzések megtekintése
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Hoppá! Úgy tűnik, hogy még nem iratkozott fel.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
