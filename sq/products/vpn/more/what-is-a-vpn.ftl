@@ -53,3 +53,14 @@ vpn-what-is-are-vpns-only = A janë VPN-të vetëm për kompjutera?
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = VPN-të mund të përdoren për mbrojtjen e krejt pajisjeve tuaja — kompjutera, portativë, tablete dhe telefona. Nëse hyni në internet prej aplikacionesh më vete, tej shfletuesit, një VPN është një zgjidhje e mirë për mbrojtjen e privatësisë dhe sigurisë tuaj në çfarëdo pajisje. Do t’ju duhet të instaloni një VPN në çdo pajisje, që të jetë i efektshëm. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ofron lidhje të pakufizuar për deri në pesë pajisje, kur lidheni në internet prej çfarëdo aplikacioni apo shfletuesi.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: I shpejtë, i thjeshtë, i besueshëm
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> është një shërbim të cilit i besoni mbajtjen e lidhjes tuaj në internet të parrezik, në krejt pajisjet tuaja. Nuk mbajmë regjistra të veprimtarisë tuaj në rrjet dhe nuk bashkëpunojmë me palë të treta që krijojnë profile prej asaj çka bëni në internet. Në një botë ku e paparashikueshmja është bërë “normaliteti i ri”, e dimë se është më e rëndësishme se kurrë që të ndiheni i parrezik dhe të dini se çka bëni në internet është punë e juaja.
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> është një shërbim të cilit i besoni mbajtjen e lidhjes tuaj në internet të parrezik, në krejt pajisjet tuaja. Nuk mbajmë regjistra të veprimtarisë tuaj në rrjet dhe nuk bashkëpunojmë me palë të treta që krijojnë profile prej asaj çka bëni në internet. Në një botë ku e paparashikueshmja është bërë “normaliteti i ri”…
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> është një shërbim të cilit i besoni mbajtjen e lidhjes tuaj në internet të parrezik, në krejt pajisjet tuaja. Nuk mbajmë regjistra të dhënash përdoruesi dhe nuk bashkëpunojmë me palë të treta që duan të krijojnë profile prej asaj çka bëni në internet. Në një botë ku e paparashikueshmja është bërë “normaliteti i ri”, e dimë se është më e rëndësishme se kurrë që të ndiheni i parrezik dhe të dini se çka bëni në internet është punë e juaja.
