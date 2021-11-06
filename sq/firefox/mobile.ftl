@@ -1,11 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Shkarkoni në Celularin tuaj  { -brand-name-firefox-browser } për { -brand-name-ios } dhe { -brand-name-android }
+firefox-mobile-download-the-firefox-browser = Shkarkoni në Celularin tuaj { -brand-name-firefox-browser } për { -brand-name-ios } dhe { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } për Celular bllokon, si parazgjedhje, mbi 2000 gjurmues, duke ju dhënë privatësinë që meritoni dhe shpejtësinë që keni nevojë në një shfletues privat për celular.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }

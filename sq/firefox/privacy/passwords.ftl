@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -40,7 +40,7 @@ privacy-passwords-strength-in-diversity = Forcë nga larmia
 privacy-passwords-the-secret-to = E fshehta për të parandaluar hamendësim, vjedhje ose ricaktim fjalëkalimi, është sa më shumë rastësi. Kur agresori provon të hamendësojë fjalëkalime, zakonisht bën dy gjëra: 1) Përdor “fjalorë” — lista fjalësh të zakonshme të cilat njerëzit i përdorin gjithë kohën, dhe 2) bën ca hamendësime të rastit. Sa <strong>më i gjatë dhe i rastit të jetë fjalëkalimi juaj</strong>, aq më pak gjasa ka që të zbulohet nga këto teknika.
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
-privacy-passwords-when-an-attacker = Kur një agresor vjedh bazën e të dhënave të fjalëkalimeve për një sajt që përdorni (bie fjala, <a { $url_linkedin }>LinkedIn</a> ose <a { $url_yahoo }>Yahoo</a>), s’keni ç’bëni tjetër veç ndërrimit të fjalëkalimit tuaj për te ai sajt. S’është mirë, por dëmi mund të jetë shumë më i hidhur, nëse keni ripërdorur atë fjalëkalim me sajte të tjerë — në një rast të tillë agresori mund të hyjë në llogaritë tuaja edhe në këto sajte. Për ta mbajtur të izoluar dëmin, <strong>përdorni përherë fjalëkalime të ndryshëm për  sajte të ndryshëm.</strong>
+privacy-passwords-when-an-attacker = Kur një agresor vjedh bazën e të dhënave të fjalëkalimeve për një sajt që përdorni (bie fjala, <a { $url_linkedin }>LinkedIn</a> ose <a { $url_yahoo }>Yahoo</a>), s’keni ç’bëni tjetër veç ndërrimit të fjalëkalimit tuaj për te ai sajt. S’është mirë, por dëmi mund të jetë shumë më i hidhur, nëse keni ripërdorur atë fjalëkalim me sajte të tjerë — në një rast të tillë agresori mund të hyjë në llogaritë tuaja edhe në këto sajte. Për ta mbajtur të izoluar dëmin, <strong>përdorni përherë fjalëkalime të ndryshëm për sajte të ndryshëm.</strong>
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Përdorni <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> që të ndiqni adresa email që lidhen me llogaritë tuaja. Nëse adresa juaj email duket te një cenim i ditur të dhënash të një shoqërie, do të sinjalizoheni dhe do t’ju jepen hapat që duhen ndjekur për të mbrojtur llogarinë e prekur.
 privacy-passwords-security-questions-my = Pyetje Sigurie: Emri i sime ëme është “Ff926AKa9j6Q”

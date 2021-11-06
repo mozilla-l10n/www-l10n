@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -15,9 +15,9 @@ features-index-firefox-features = Veçori të { -brand-name-firefox }-it
 features-index-firefox-is-fast = { -brand-name-firefox }-i është shfletuesi i shpejtë, i peshës së lehtë, i përqendruar te privatësia, që funksionon nëpër krejt pajisjet tuaja.
 features-index-add-powerful-functions = Shtoni te shfletuesi juaj { -brand-name-firefox } funksione të fuqishëm, veçori të dobishme dhe madje pakëz zbavitje.
 features-index-see-all = Shihni tërë zgjerimet
-features-index-give-your-browser = Jepini shfletuesit tuaj pamjen që doni  me anën e mijëra temave të ndryshme.
+features-index-give-your-browser = Jepini shfletuesit tuaj pamjen që doni, me anën e mijëra temave të ndryshme.
 features-index-important-stuff = Sigurohuni që krejt gjërat tuaja të rëndësishme — kërkime në internet, fjalëkalime, skeda të hapura — shfaqen kur ju duhen, në çdo pajisje.
-features-index-get-an-account = Merrni një llogari  { -brand-name-firefox-account }
+features-index-get-an-account = Merrni një llogari { -brand-name-firefox-account }
 features-index-use-the-bookmark = Përdorni ikonën yll të faqeruajtjes që të jeni i sistemuar dhe shtoni shpejt e shpejt emra dhe dosje vetjake.
 features-index-from-the-company = Nga një shoqëri që vë njerëzit mbi fitimin
 features-index-private-browsing-mode = Mënyra e Shfletimit Privat i fshin të dhënat e cookie-ve dhe historikun e shfletimit tuaj sa herë që e mbyllni.

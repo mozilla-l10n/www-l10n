@@ -34,7 +34,7 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } i mban n
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
-misinformation-firefox-keeps-trackers-desc = Si u tha më parë, gjurmimi luan një rol të madh në përhapjen e keqinformimit. <a href="{ $firefox }">Përdorimi i { -brand-name-firefox }-it</a> me <a href="{ $protection }">Mbrojtje të Thelluar Nga Gjurmimi</a> ndihmon këtu përmes bllokimit të gjurmuesve nga palë të treta, të përdorur, si parazgjedhje,  nga mjaft reklamues dhe lojtarë të tjerë, kur shfletoni në internet, më mënyrë që të rifitoni kontrollin mbi të dhënat tuaja internetore.
+misinformation-firefox-keeps-trackers-desc = Si u tha më parë, gjurmimi luan një rol të madh në përhapjen e keqinformimit. <a href="{ $firefox }">Përdorimi i { -brand-name-firefox }-it</a> me <a href="{ $protection }">Mbrojtje të Thelluar Nga Gjurmimi</a> ndihmon këtu përmes bllokimit të gjurmuesve nga palë të treta, të përdorur, si parazgjedhje, nga mjaft reklamues dhe lojtarë të tjerë, kur shfletoni në internet, më mënyrë që të rifitoni kontrollin mbi të dhënat tuaja internetore.
 misinformation-social-media-clean-heading = { -brand-name-firefox }-i ju ndihmon të mbani të pastra prurjet tuaja nga media shoqërore:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/

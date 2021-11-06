@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
@@ -29,7 +29,7 @@ vpn-ios-servers-copy = Blini që nga Zvicra. Shkarkoni nga Kanadaja. Shfletoni n
 vpn-ios-devices-headline = Përfitoni përdorim për { $devices } pajisje
 # Variables:
 #   $devices (number) - number of available devices
-vpn-ios-devices-copy = Me një pajtim, mund ta keni { -brand-name-mozilla-vpn } në deri  { $devices } pajisje, përfshi { -brand-name-ios } për { -brand-name-iphone } dhe { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } dhe { -brand-name-linux }.
+vpn-ios-devices-copy = Me një pajtim, mund ta keni { -brand-name-mozilla-vpn } në deri { $devices } pajisje, përfshi { -brand-name-ios } për { -brand-name-iphone } dhe { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } dhe { -brand-name-linux }.
 vpn-ios-speed-headline = Shpejtësi maksimale. Pa kufizim të dhënash.
 vpn-ios-speed-copy = Luani lojëra në internet, shkarkoni shfaqet tuaja të parapëlqyera, dhe lëvizni në internet me shpejtësi ultra të larta. Pa çarë kokën për sasinë e trafikut në { -brand-name-mozilla-vpn } — është e pakufizuar.
 vpn-ios-log-headline = Të dhënat tuaja mbeten private. Pikë.

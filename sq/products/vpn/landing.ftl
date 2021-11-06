@@ -62,7 +62,7 @@ vpn-landing-faq-protected-question-heading = Si mbrohet privatësia ime?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = Protokolli <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®  fshehtëzon trafikun në rrjet, duke mbrojtur krejt të dhënat tuaja private. Krahasuar me protokolle ekzistuese VPN, kodi i pakët i { -brand-name-wireguard }-it e bën të lehtë për specialistë sigurie ta shqyrtojnë dhe kontrollojnë—duke e bërë një mundësi më të sigurt për VPN-ra.Veç kësaj, veprimtaritë tuaja internetore mbeten anonime, ngaqë ne s’regjistrojmë kurrë, gjurmojmë apo japin të dhëna tuajat nga rrjeti.
+vpn-landing-faq-protected-question-desc = Protokolli <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® fshehtëzon trafikun në rrjet, duke mbrojtur krejt të dhënat tuaja private. Krahasuar me protokolle ekzistuese VPN, kodi i pakët i { -brand-name-wireguard }-it e bën të lehtë për specialistë sigurie ta shqyrtojnë dhe kontrollojnë—duke e bërë një mundësi më të sigurt për VPN-ra.Veç kësaj, veprimtaritë tuaja internetore mbeten anonime, ngaqë ne s’regjistrojmë kurrë, gjurmojmë apo japin të dhëna tuajat nga rrjeti.
 vpn-landing-faq-competition-question-heading = Si del { -brand-name-mozilla-vpn } krahasuar me konkurrentët?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
@@ -149,7 +149,7 @@ vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
-vpn-landing-invite-privacy-policy = Duke klikuar mbi “Shtohuni në Radhë”, pajtoheni me  <a href="{ $privacy }">Rregullat tona të Privatësisë</a>.
+vpn-landing-invite-privacy-policy = Duke klikuar mbi “Shtohuni në Radhë”, pajtoheni me <a href="{ $privacy }">Rregullat tona të Privatësisë</a>.
 vpn-landing-invite-your-information = Të dhënat tuaja do të përdoren vetëm për t’ju njoftuar mbi qenien gati të platformës.
 vpn-landing-invite-thanks-heading = Faleminderit! Jeni në radhë
 vpn-landing-invite-thanks-desc = Pasi { -brand-name-mozilla-vpn } të jetë gati për rajonin tuaj, do t’ju dërgojmë një email.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -8,7 +8,7 @@
 # HTML page title
 manifesto-the-mozilla-manifesto = Manifesti i { -brand-name-mozilla }-s
 # HTML page description
-manifesto-these-are-the-principles = Këto janë parimet që na udhëheqin në misionin tonë për promovimin  e të qenit të hapur, të risive & mundësive në web.
+manifesto-these-are-the-principles = Këto janë parimet që na udhëheqin në misionin tonë për promovimin e të qenit të hapur, të risive & mundësive në web.
 manifesto-the-internet-is-an-integral = Interneti është pjesë e pandarë e jetës moderne – përbërës kyç në edukim, komunikim, bashkëpunim, biznes, dëfrim dhe në shoqërinë në tërësi.
 manifesto-the-internet-is-a-global = Interneti është burim i përbashkët mbarëbotëror që duhet të mbetet i hapur dhe i shfrytëzueshëm.
 manifesto-the-internet-must-enrich = Interneti duhet të pasurojë jetën e secilës qenie njerëzore.
@@ -54,31 +54,6 @@ manifesto-an-internet-with-these = Një internet me këto cilësi nuk lind vetve
 manifesto-i-support-the-vision-of = Përkrah vizionin e @mozilla-s për një internet më të mirë, më të shëndetshëm, a do të më pasoni?
 manifesto-share-on-twitter = Ndajeni me të tjerët në { -brand-name-twitter }
 manifesto-our-10-principles = <strong>10</strong> Parimet Tona
-manifesto-use-open-badges-to-share = Përdorni Open Badges që të ndani me të tjerët aftësitë dhe interesat tuaja
-manifesto-explore-how-the-web-impacts = Shihni se si ndikon Web-i në shkencat
-manifesto-learn-about-open-source = Mësoni rreth kodit me burim të hapur në gazetari
-manifesto-read-about-open-internet = Lexoni rreth nismave dhe zhvillimeve për rregulla Interneti të hapur
-manifesto-explore-how-to-help-keep = Shihni se si të mbahet Web-i i hapur
-manifesto-see-how-the-web-can-connect = Shihni se si Web-i mund të lidhë botën me kujdesin shëndetësor
-manifesto-explore-how-the-web-works = Eksploroni funksionimin e Web-it
-manifesto-see-how-mozilla-works = Shihni se si punon { -brand-name-mozilla } për ta vënë mbi gjithçka privatësinë tuaj
-manifesto-read-about-developments = Lexoni rreth zhvillimeve për privatësinë dhe sigurinë e të dhënave
-manifesto-learn-more-about-how-to = Mësoni më tepër se si të mbroni veten në linjë
-manifesto-use-these-free-tools-to = Përdorni këto mjete të lira për t’u mësuar Web-in të tjerëve
-manifesto-learn-about-creating-and = Mësoni si të krijoni dhe kujdeseni për lëndë Web-i
-manifesto-add-new-voices-to-open = Shtojini zëra të rinj teknologjive të burimit të hapur
-manifesto-set-your-do-not-track = Caktoni parapëlqimin tuaj për Mos Më Gjurmo
-manifesto-understand-the-web-ecosystem = Si të kuptohet ekosistemi i Web-it
-manifesto-explore-how-open-practices = Shihni se si praktikat e hapura e mbajnë Web-in të përdorshëm
-manifesto-learn-how-to-remix-content = Mësoni si të përzieni lëndë për të krijuar diçka të re
-manifesto-learn-how-to-maximize = Mësoni si të shtoni në maksimum potencialin ndërveprues të Web-it
-manifesto-participate-in-our-governance = Merrni pjesë në forumin tonë drejtues
-manifesto-join-us-as-a-volunteer = Bëhuni një vullnetar i yni
-manifesto-learn-how-to-collaborate = Mësoni si të bashkëpunoni në linjë
-manifesto-visualize-who-you-interact = Shihni përmes { -brand-name-lightbeam }-it se me kë ndërveproni në Web
-manifesto-learn-about-creating-web = Mësoni si të krijoni burime Web me të tjerët
-manifesto-host-or-join-a-maker-party = Organizoni ose merrni pjesë në një { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Mësoni si të krijoni aftësi bashkëpunimi në linjë
 manifesto-read-the-entire-manifesto = Lexoni krejt manifestin
 manifesto-love-the-web = E doni web-in?
 manifesto-get-the-mozilla-newsletter = Merrni buletinin e { -brand-name-mozilla }-s dhe ndihmonani ta mbajmë të hapru dhe të lirë.

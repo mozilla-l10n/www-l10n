@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } është një shfletues i shpejtë si rrufe që ofron mjete zhvilluesish të fjalës së fundit dhe veçoritë më të reja, të tilla mbulim për Rrjetë CSS dhe diagnostikim platformash
@@ -29,7 +29,7 @@ firefox-developer-track-css = Gjurmoni probleme CSS-je, JavaScript-i, sigurie dh
 firefox-developer-learn-about-web-console = Mësoni më tepër mbi Konsolën Web
 firefox-developer-debugger = Diagnostikues
 firefox-developer-powerful-javascript = Diagnostikues i fuqishëm JavaScript me mbulim për platformën tuaj.
-firefox-developer-learn-more-about-debugger = Mësoni më tepër rreth Diagnostikuesit  JavaScript
+firefox-developer-learn-more-about-debugger = Mësoni më tepër rreth Diagnostikuesit JavaScript
 firefox-developer-network = Rrjet
 firefox-developer-monitor-network-requests = Vëzhgoni kërkesa rrjeti që mund të ngadalësojnë apo bllokojnë sajtin tuaj.
 firefox-developer-learn-more-about-newtork-monitor = Mësoni më tepër rreth Vëzhguesit të Rrjetit
@@ -77,7 +77,7 @@ firefox-developer-download-the-firefox-browser = Shkarkoni shfletuesin { -brand-
 firefox-developer-welcome-to-the-all-new = Mirë se vini te { -brand-name-firefox-quantum }: { -brand-name-developer-edition } fringo i ri
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox }-i është rikrijuar nga e para për të qenë më i shpejtë, më i zhdërvjellët dhe më i fuqishëm se kurrë.
 firefox-developer-congrats-you-now-have-firefox = Përgëzime. Tani keni { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Ky s’është thjesht një përditësim. Ky është { -brand-name-firefox-quantum }: një  { -brand-name-firefox } fringo i ri që është rindërtuar nga e para për të qenë më i shpejtë, më i zhdërvjellët dhe më i fuqishëm se kurrë.
+firefox-developer-this-isnt-just-an-update = Ky s’është thjesht një përditësim. Ky është { -brand-name-firefox-quantum }: një { -brand-name-firefox } fringo i ri që është rindërtuar nga e para për të qenë më i shpejtë, më i zhdërvjellët dhe më i fuqishëm se kurrë.
 firefox-developer-welcome-to-firefox-browser = Mirë se vini te { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Shfletuesi i ndërtuar për zhvilluesit
 firefox-developer-all-the-latest = Krejt mjetet më të reja të zhvillimit në beta, plus <strong>veçori eksperimentale</strong>, bie fjala, Multi-line Console Editor dhe WebSocket Inspector.

@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
 # HTML page title
-lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise }  — përgjegjës fjalëkalimesh — merrini fjalëkalimet tuaj kudo me vete
+lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } — përgjegjës fjalëkalimesh — merrini fjalëkalimet tuaj kudo me vete
 # HTML page description
 lockwise-firefox-lockwise-lets-you = { -brand-name-firefox-lockwise } ju lejon të përdorni prej ngado me siguri fjalëkalimet që keni ruajtur në { -brand-name-firefox } — madje edhe jashtë shfletuesit. Bazohet në fshehtëzim 256-bitësh dhe Face/Touch ID.
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }

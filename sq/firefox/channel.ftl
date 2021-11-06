@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -32,7 +32,7 @@ firefox-channel-check-out-new-android-features = Provojini veçoritë e reja pë
 firefox-channel-nightly-blog = Blog për montimet { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } është një platformë e paqëndrueshme testimesh dhe zhvillimi. Si parazgjedhje, { -brand-name-nightly } dërgon të dhëna te { -brand-name-mozilla }  — dhe me raste edhe te partnerë tanët — për të na ndihmuar të trajtojmë probleme dhe të provojmë ide. <a href="{ $link }">Mësoni se ç’ndahet me të tjerët</a>.
+firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } është një platformë e paqëndrueshme testimesh dhe zhvillimi. Si parazgjedhje, { -brand-name-nightly } dërgon të dhëna te { -brand-name-mozilla } — dhe me raste edhe te partnerë tanët — për të na ndihmuar të trajtojmë probleme dhe të provojmë ide. <a href="{ $link }">Mësoni se ç’ndahet me të tjerët</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } i dërgon vetvetiu të dhëna { -brand-name-mozilla }-s.
 firefox-channel-try-new-browser-features = Provoni Veçoritë e Reja me një Version Paraqarkullim | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Shihni veçoritë e fjalës së fundit, me një version paraqarkullim të shfletuesit: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta }, Firefox Aurora dhe { -brand-name-firefox-nightly }. Shkarkojeni që tani!
