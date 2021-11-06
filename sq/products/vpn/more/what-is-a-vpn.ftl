@@ -9,6 +9,8 @@
 vpn-what-is-what-is-a-vpn = Ç’është një VPN?
 # HTML page description and intro
 vpn-what-is-get-answers-to-nine = Merrni përgjigje për nëntë pyetje të rëndomta rreth VPN-sh, që të ndiheni i informuar rreth se çfarë bëjnë, kur t’i zihet besë një të tille dhe pse.
+vpn-what-is-many-of-us = Mjaft prej nesh kalojnë shumë orë në ditë duke përdorur internetin për të bërë gjëra të përditshme, bie fjala, parje videosh, blerje, lojëra dhe pagim faturash, e deri te administrim projektesh të ndërlikuara pune dhe thirrje konfidenciale me video. Një <strong>Rrjet Virtual Privat (VPN)</strong> është një nga rrugët më të mira për të qenë privat dhe i siguruar në internet dhe për t’i mbajtur të dhënat tuaja të mbrojtura.
+vpn-what-is-how-do-vpns = Si funksionojnë VPN-tën?
 vpn-what-is-a-vpn-is = Një VPN është një mjet që ju lejon të hyni në internet në mënyrë të siguruar, kudo ku jeni. Një VPN funksionon duke krijuar një “tunel” të sigurt mes pajisjes tuaj dhe shërbimit tuaj VPN dhe ju mbron në dy rrugë kryesore:
 vpn-what-is-concealing-your-ip = Duke fshehur adresën tuaj IP, duke mbrojtur identitetin dhe hollësitë mbi vendndodhjen tuaj.
 vpn-what-is-encrypting-your-traffic = Duke fshehtëzuar trafikun mes jush dhe shërbimit tuaj VPN, që askush në rrjetin tuaj lokal të mund të mos e deshifrojë apo ndryshojë dot.
