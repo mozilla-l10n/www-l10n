@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -80,9 +80,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } tư
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } tương thích với:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (chỉ 64-bit)
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (chỉ 64-bit)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (chỉ phiên bản 64-bit)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (chỉ 64-bit)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 trở lên)
@@ -126,8 +128,6 @@ vpn-landing-faq-manage-subscription-question-heading = Làm cách nào để qu�
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Nếu bạn đã đăng ký { -brand-name-mozilla-vpn }, bạn có thể thay đổi gói hoặc <a href="{ $url }">quản lý thuê bao của mình</a> bất kỳ lúc nào.
 vpn-landing-faq-link = Xem thêm các câu hỏi thường gặp
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Oops! Có vẻ như bạn chưa đăng ký.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 

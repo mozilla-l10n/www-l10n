@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Chặn trình theo dõi xã h�
 firefox-desktop-download-os-availability = Hệ điều hành khả dụng
 firefox-desktop-download-in-browser-screenshot = Công cụ chụp màn hình trong trình duyệt
 firefox-desktop-download-primary-password = Mật khẩu chính
+firefox-desktop-love-your-life = Yêu cuộc sống trực tuyến của bạn
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Đó là internet của bạn. Tô màu theo cách bạn muốn với hàng nghìn công cụ, chủ đề và tiện ích mở rộng. Firefox là trình duyệt thay thế ban đầu đặt mọi người lên trước lợi nhuận.
 # Obsolete string
 firefox-desktop-download-master-password = Mật khẩu chính
 firefox-desktop-download-we-block-the-ad = Chúng tôi chặn trình theo dõi quảng cáo. Bạn khám phá internet nhanh hơn.
@@ -175,6 +178,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Bạn đang sử d�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Việc tải xuống sẽ diễn ra tự động. Nếu không, hãy <a id="{ $id }" href="{ $fallback_url }">nhấp vào đây.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } không chỉ là một trình duyệt.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Quá trình tải xuống của bạn bị gián đoạn, nhưng mọi thứ chưa bị mất.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
