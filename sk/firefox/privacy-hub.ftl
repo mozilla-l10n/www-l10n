@@ -74,7 +74,7 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } odporúča vysokokvalitné články spravované ľuďmi bez zhromažďovania vašej histórie prehliadania alebo zdieľania vašich osobných údajov s inzerentmi.
 firefox-privacy-hub-get-pocket = Získajte { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Váš { -brand-name-firefox-account(capitalization: "lower") }
-firefox-privacy-hub-all-the-information-synced = Všetky informácie synchronizované prostredníctvom vášho { -brand-name-firefox-account(case: "case", capitalization: "lower") } – od histórie prehliadania po heslá – sú šifrované. A vaše heslo účtu je jediným kľúčom.
+firefox-privacy-hub-all-the-information-synced = Všetky informácie synchronizované prostredníctvom vášho { -brand-name-firefox-account(case: "gen", capitalization: "lower") } – od histórie prehliadania po heslá – sú šifrované. A vaše heslo k účtu je jediným kľúčom.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Vezmite si svoje súkromie a záložky všade so sebou s { -brand-name-firefox-account(case: "ins", capitalization: "lower") }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
@@ -85,5 +85,5 @@ firefox-privacy-hub-already-have-an-account = Už máte účet? <a { $sign_in } 
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Prečítajte si <a href="{ $url }">Oznámenie o ochrane osobných údajov</a> pre naše produkty
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-privacy-hub-surf-stream-and-get-work = Prehliadajte, streamujte a pracujte na serveroch vo viac ako 30 krajinách pre bezpečné internetové pripojenie s novou perspektívou.
+firefox-privacy-hub-surf-stream-and-get-work = Prehliadajte, streamujte a pracujte na serveroch vo viac ako 30 krajinách so bezpečným internetovým pripojením s novou perspektívou.
 firefox-privacy-hub-get-mozilla-vpn = Získajte { -brand-name-mozilla-vpn }
