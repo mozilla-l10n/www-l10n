@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Ç’është një VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Merrni përgjigje për nëntë pyetje të rëndomta rreth VPN-sh, që të ndiheni i informuar rreth se çfarë bëjnë, kur t’i zihet besë një të tille dhe pse.
 vpn-what-is-a-vpn-is = Një VPN është një mjet që ju lejon të hyni në internet në mënyrë të siguruar, kudo ku jeni. Një VPN funksionon duke krijuar një “tunel” të sigurt mes pajisjes tuaj dhe shërbimit tuaj VPN dhe ju mbron në dy rrugë kryesore:
 vpn-what-is-concealing-your-ip = Duke fshehur adresën tuaj IP, duke mbrojtur identitetin dhe hollësitë mbi vendndodhjen tuaj.
 vpn-what-is-encrypting-your-traffic = Duke fshehtëzuar trafikun mes jush dhe shërbimit tuaj VPN, që askush në rrjetin tuaj lokal të mund të mos e deshifrojë apo ndryshojë dot.
@@ -19,3 +21,12 @@ vpn-what-is-keeping-your-home = Mbajtjen private të vendndodhjes së shtëpisë
 vpn-what-is-protecting-your-connection = Mbrojtjen e lidhjes tuaj me një rrjet WiFi publik, bie fjala, në një kafene, aeroport, dyqan apo bibliotekë.
 vpn-what-is-ensuring-the-confidentiality = Garantimin e të qenët rezervat dhe integritetin e hyrjes tuaj në internet.
 vpn-what-is-are-vpns-safe = A janë të parrezik VPN-të?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-what-is-weve-done-the = Ne i kemi kryer angaritë për të garantuar se <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> respekton faktikisht privatësinë tuaj dhe kjo është diçka ku duam ta bazojmë reputacionin tonë. { -brand-name-mozilla } ka një reputacion për krijim produktesh që ju ndihmojnë ta mbani informacionin tuaj të parrezik. Ndjekim We follow our easy to read, no-nonsense <a href="{ $principles }">Parimet tona të Privatësisë së të Dhënave</a>, që lexohen lehtë, pa broçkulla, të cilat na lejojnë të përqendrohemi vetëm te informacioni që na duhet për të dhënë një shërbim. Teknologjia { -brand-name-mozilla-vpn } është e qëruar dhe moderne, për t’u ofruar përdoruesve një lidhje të shpejtë me mbrojtje dhe siguri të plotë VPN-je. Dhe ngaqë krijuesit e kësaj VPN-je kanë pas një shoqëri <a href="{ $mission }">e udhëhequr nga një mision</a>, mund të besoni se paratë që shpenzoni për këtë produkt, jo vetëm do të garantojnë që të keni siguri nga më e mira, por edhe se e bëjnë internetin më të mirë për këdo.
+vpn-what-is-can-vpns-protect = A mund të më mbrojnë VPN-të nga keqbërës kibernetikë?
+vpn-what-is-are-vpns-legal = A janë të ligjshme VPN-të?
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: I shpejtë, i thjeshtë, i besueshëm
