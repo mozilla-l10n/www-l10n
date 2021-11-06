@@ -20,6 +20,7 @@ mobile-compare-syncing = Senkronizasyon
 mobile-compare-does-your-browser = Tarayıcınız diğer cihazlarla uyumlu mu?
 mobile-compare-almost-all-of = Burada karşılaştırılan hemen hemen tüm mobil tarayıcılar, mobil ve masaüstü cihazlar arasında tam senkronizasyona sahip.
 mobile-compare-conclusion = Sonuç
+mobile-compare-our-recommendations-aside = Önerilerimiz bir yana, sizin için en doğru tarayıcı, her zaman bireysel ihtiyaçlarınıza ve internette gezinirken en çok neye değer verdiğinize bağlı olacaktır.
 mobile-compare-search-engine-options = Arama motoru seçenekleri
 mobile-compare-text-to-speech = Metin okuma
 mobile-compare-reader-mode = Okuyucu modu

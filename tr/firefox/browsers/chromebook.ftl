@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
@@ -16,6 +16,7 @@ browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromeos } 80 veya üz
 browsers-chromebook-dropdown-copy = { -brand-name-chromebook } için { -brand-name-firefox }’u indir
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = { -brand-name-chromebook } için neden <span>{ -brand-name-firefox }</span>’u indirmelisiniz?
+browsers-chromebook-while-a-chromebook = { -brand-name-chromebook }’ta halihazırda { -brand-name-chrome } yüklü olsa da { -brand-name-firefox }’u indirip kullanmak size birkaç avantaj sağlar:
 browsers-chromebook-is-it-hard = { -brand-name-firefox } için { -brand-name-chromebook }’u yüklemek zor mu?
 
 # Variables:

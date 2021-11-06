@@ -24,4 +24,5 @@ compare-index-find-out-how-firefox-fallback = { -brand-name-firefox }, { -brand-
 compare-index-looking-for-a-better-browser = Daha iyi bir tarayıcı mı arıyorsunuz? Karar vermenize yardımcı olması için { -brand-name-firefox }'u { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ve { -brand-name-ie } ile karşılaştıracağız.
 compare-index-looking-for-a-better-fallback = Daha iyi bir tarayıcı mı arıyorsunuz? Karar vermenize yardımcı olması için { -brand-name-firefox }'u { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } ve { -brand-name-ie } ile karşılaştıracağız.
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox }, kâr amacı gütmeyen { -brand-name-mozilla } tarafından desteklenmektedir.
+compare-index-see-how-firefox-for-mobile = { -brand-name-firefox }’un mobil sürümünün diğer beş mobil tarayıcıyla karşılaştırmasını inceleyin.
 compare-index-compare = Karşılaştır
