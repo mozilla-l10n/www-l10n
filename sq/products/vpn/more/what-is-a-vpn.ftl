@@ -16,6 +16,10 @@ vpn-what-is-concealing-your-ip = Duke fshehur adresën tuaj IP, duke mbrojtur id
 vpn-what-is-encrypting-your-traffic = Duke fshehtëzuar trafikun mes jush dhe shërbimit tuaj VPN, që askush në rrjetin tuaj lokal të mund të mos e deshifrojë apo ndryshojë dot.
 vpn-what-is-in-the-past = Në të kaluarën, VPN-të përdoreshin kryesisht nga korporata për të lejuar hyrje të sigurt së largëti në shërbimet e tyre të brendshme dhe të dhëna pronësore. Sot ama, VPN-të janë të përdorshme nga cilido që dëshiron të mbrojë lidhjen e vet në internet, veçanërisht kur bëhet përmes rrjetesh porozë, të tillë si WiFi publik, por janë të dobishme madje edhe për një rrjet shtëpie.
 vpn-what-is-a-vpn-will = Një VPN do të mbrojë trafikun që dërgoni mes jush dhe shërbimit VPN, qoftë përmes shfletuesit tuaj, aplikacionesh apo shërbimesh të tjera. Që të ujdisni një VPN, do t’ju duhet të krijoni një llogari me një shërbim VPN dhe të instaloni software-in VPN në kompjuterin apo telefonin tuaj. Kur aktivizohet, një VPN do të kujdeset për trafikun nga krejt aplikacionet dhe <em>software</em> që xhirojnë në pajisjen tuaj, që të mund të shfletoni dhe komunikoni lirisht, përmes një lidhje të sigurt rrjeti privat.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-what-is-a-vpn-provider = Zakonisht, një shërbim VPN ofron një numër kanalesh lidhjeje në vendndodhje të ndryshme globale, që ju lejojnë të përdorni një adresë IP prej një vendndodhjeje tjetër nga ajo e juaja faktike. Në këtë mënyrë, vendi ku po lidheni sheh IP-në e VPN-së, jo adresën tuaj faktike IP, si burim të trafikut tuaj. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> e kalon trafikun tuaj përmes një shërbyesi të sigurt dhe ju lejon të zgjidhni një vend prej më shumë se { $countries } vendesh.
 vpn-what-is-when-should-i = Kur duhet të përdor një VPN?
 vpn-what-is-why-would-i = Pse do të duhej të përdor një VPN?
 vpn-what-is-keeping-your-online = Mbajtjen private të veprimtarisë tuaj internetore.
