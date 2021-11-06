@@ -22,6 +22,7 @@ mobile-compare-syncing-strong = <strong>Συγχρονισμός</strong>
 mobile-compare-syncing = Συγχρονισμός
 mobile-compare-does-your-browser = Συνεργάζεται καλά το πρόγραμμα περιήγησής σας με άλλες συσκευές;
 mobile-compare-the-mobile-version = Η έκδοση του { -brand-name-safari } για κινητές συσκευές, η οποία είναι προεγκατεστημένη στις κινητές συσκευές της { -brand-name-apple }, είναι συμβατή μόνο με άλλες συσκευές της { -brand-name-apple }, όπως το { -brand-name-ipad } και οι φορητοί υπολογιστές { -brand-name-mac-short }. Το { -brand-name-firefox }, το { -brand-name-chrome } και το { -brand-name-opera } λειτουργούν σε όλες τις πλατφόρμες, όπως το { -brand-name-ios }, το { -brand-name-android }, τα { -brand-name-windows }, το { -brand-name-mac-short } και το { -brand-name-linux }. Εξαίρεση αποτελεί το { -brand-name-edge } που δεν είναι συμβατό με συσκευές με { -brand-name-linux }.
+mobile-compare-almost-all-of = Σχεδόν όλοι οι συγκρινόμενοι φυλλομετρητές επιτρέπουν τον πλήρη συγχρονισμό μεταξύ κινητών και υπολογιστών.
 mobile-compare-the-good-news = Τα καλά νέα είναι ότι η { -brand-name-apple } επέτρεψε πρόσφατα στους χρήστες { -brand-name-iphone } να επιλέγουν οι ίδιοι το προεπιλεγμένο πρόγραμμα περιήγησής τους. Επομένως, οι χρήστες μπορούν πλέον να συγχρονίζουν συσκευές διαφορετικών πλατφορμών εάν, για παράδειγμα, εγκαταστήσουν το { -brand-name-firefox } στο { -brand-name-iphone } και το { -brand-name-windows } PC τους.
 mobile-compare-conclusion = Επίλογος
 mobile-compare-search-engine-options = Επιλογές μηχανών αναζήτησης

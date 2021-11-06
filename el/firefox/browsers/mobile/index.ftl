@@ -10,6 +10,7 @@ browsers-mobile-firefox-mobile-browsers-put = Το { -brand-name-firefox } γι�
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Μια επισκόπηση όλων των { -brand-name-firefox } για κινητές συσκευές ({ -brand-name-firefox } για { -brand-name-android }, { -brand-name-firefox } για { -brand-name-ios }, { -brand-name-firefox-focus })
 browsers-mobile-firefox-for-android = { -brand-name-firefox } για { -brand-name-android }
+browsers-mobile-infinitely-customizable-private = Άπειρα προσαρμόσιμο, ιδιωτικό και ασφαλές, το { -brand-name-firefox } για { -brand-name-android } είναι ένας αστραπιαίος φυλλομετρητής που δεν θα σας ξεπουλήσει ποτέ.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } για { -brand-name-ios }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Σύγκριση φυλλομετρητών για κινητά

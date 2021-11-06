@@ -15,6 +15,7 @@ features-fingerprinting-ditch-the-sticky = Ξεφορτωθείτε τις δι�
 features-fingerprinting-every-fingerprint = Κάθε αποτύπωμα είναι μοναδικό.
 features-fingerprinting-download-firefox = Λήψη του { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Τι είναι το fingerprinting;
+features-fingerprinting-fingerprinting-is-a = Το fingerprinting είναι ένας τύπος διαδικτυακής ιχνηλάτησης και είναι πιο επεμβατικό από τη συνήθη καταγραφή με βάση τα cookies. Ένα ψηφιακό αποτύπωμα δημιουργείται όταν μια εταιρεία κατασκευάζει ένα μοναδικό προφίλ για εσάς βάσει του υλικού, του λογισμικού, των προσθέτων και των προτιμήσεών σας. Οι ρυθμίσεις της οθόνης σας, οι εγκατεστημένες γραμματοσειρές, ακόμα και το πρόγραμμα περιήγησης της επιλογής σας μπορούν να χρησιμοποιηθούν για τη δημιουργία ενός αποτυπώματος.
 features-fingerprinting-fingerprinting-is-bad = Το fingerprinting βλάπτει το διαδίκτυο
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = Το πιο πρόσφατο { -brand-name-firefox } σάς προστατεύει από το fingerprinting αποκλείοντας τα αιτήματα τρίτων σε εταιρείες που είναι γνωστό ότι συμμετέχουν σε τέτοιες πρακτικές. Εργαστήκαμε σκληρά ώστε να υλοποιήσουμε αυτήν την προστασία χωρίς να προκαλέσουμε προβλήματα σε αγαπημένους σας ιστοτόπους. (Διαβάστε περισσότερα εδώ εάν θέλετε <a { $url_details }>τεχνικές λεπτομέρειες</a>.)
