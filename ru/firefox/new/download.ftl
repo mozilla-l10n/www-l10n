@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ## Required
@@ -11,7 +11,7 @@
 firefox-new-download-firefox = Загрузить { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Загрузите самый быстрый в истории { -brand-name-firefox }
 firefox-new-mozilla = { -brand-name-mozilla }
-firefox-new-faster-page-loading-less-memory = Более быстрая загрузка страниц, меньшее использование памяти и множество функций, новый { -brand-name-firefox } уже здесь.
+firefox-new-faster-page-loading-less-memory = Более быстрая загрузка страниц, уменьшенный расход памяти и множество функций — новый { -brand-name-firefox } уже здесь.
 firefox-new-get-the-latest-firefox = Загрузите последнюю версию браузера { -brand-name-firefox }.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Загрузить { -brand-name-firefox } <br>для { -brand-name-windows }
@@ -30,11 +30,11 @@ firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Вы используете небезопасную, устаревшую операционную систему, <a href="{ $url }">более не поддерживаемую { -brand-name-firefox }</a>.
+firefox-new-youre-using-an-insecure-outdated = Вы используете небезопасную устаревшую операционную систему, <a href="{ $url }">более не поддерживаемую { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-new-your-firefox-new-should-begin = Загрузка начнётся автоматически. Она не началась? <a id="{ $id }" href="{ $fallback_url }">Щёлкните здесь</a>.
+firefox-new-your-firefox-new-should-begin = Загрузка начнётся автоматически. Она не началась? <a id="{ $id }" href="{ $fallback_url }">Попробуйте загрузить снова</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } — больше, чем просто браузер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Ваша загрузка была прервана. Но ещё не всё потеряно.
@@ -57,6 +57,7 @@ firefox-new-visit-support-for-more = Посетите сайт поддержк�
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Загрузить { -brand-name-firefox-browser }
-firefox-new-fast = Быстрый, Приватный и Бесплатный
+firefox-new-fast = Быстрый, приватный и бесплатный
 firefox-new-from-mozilla = от { -brand-name-mozilla }
+firefox-new-desc = { -brand-name-firefox-browser } — это бесплатный веб-браузер с быстрой загрузкой страниц, уменьшенным расходом памяти и множеством функций, проект некоммерческой организации { -brand-name-mozilla }.
 firefox-new-download-a-different = Загрузить для других платформ и языков

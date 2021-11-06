@@ -101,9 +101,9 @@ firefox-desktop-download-theres-no-need = Не нужно приспосабли
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = При поддержке <strong>некоммерческой организации</strong>, которая ставит людей на первое место
 firefox-desktop-download-challenging-the-status = Бросает вызов статус-кво с 1998 года
-firefox-desktop-download-your-privacy-comes = Ваша приватность всегда на первом месте
+firefox-desktop-download-your-privacy-comes = Ваша приватность — всегда на первом месте
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-keep-all-your = Сохраните все свои любимые функции браузера — и <strong>откройте для себя</strong> новые.
+firefox-desktop-download-keep-all-your = Сохраните все свои любимые функции браузера и <strong>откройте</strong> новые.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Все ваши любимые инструменты { -brand-name-google } (такие как, Gmail и Docs) без проблем работают в { -brand-name-firefox-browser(case: "prepositional") }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
@@ -176,7 +176,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Вы использ�
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-firefox-new-should-begin = Загрузка начнётся автоматически. Не работает? <a id="{ $id }" href="{ $fallback_url }">Попробуйте загрузить снова</a>.
+firefox-desktop-download-your-firefox-new-should-begin = Загрузка начнётся автоматически. Она не началась? <a id="{ $id }" href="{ $fallback_url }">Попробуйте загрузить снова</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } — это больше, чем просто браузер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Ваша загрузка была прервана. Но ещё не всё потеряно.
