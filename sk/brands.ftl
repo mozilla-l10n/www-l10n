@@ -496,7 +496,16 @@
         [ins] Internet Explorerom
     }
     .gender = masculine
--brand-name-opera = Opera
+-brand-name-opera =
+    { $case ->
+       *[nom] Opera
+        [gen] Opery
+        [dat] Opere
+        [acc] Operu
+        [loc] Opere
+        [ins] Operou
+    }
+    .gender = feminine
 -brand-name-safari = Safari
 -brand-name-duckduckgo = DuckDuckGo
 
