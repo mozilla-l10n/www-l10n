@@ -26,10 +26,14 @@ vpn-what-is-when-youre-at = Kur jeni në shtëpi, rreziku i aktorëve të ligj q
 vpn-what-is-wait-i-thought = Pa dale, mendoja se trafiku im internet qe tashëm i fshehtëzuar me HTTPS…
 vpn-what-is-its-true-that = Është e vërtetë që shumica e lidhjeve te sajtet, në ditët e sotme, janë të siguruara përmes HTTPS-je, që do të thotë lënda, por jo adresa IP e burimit apo vendmbërritjes, është e fshehtëzuar. Një VPN ofron privatësi shtesë duke u penguar sajteve dhe palëve të treta të njohin adresën tuaj IP.
 vpn-what-is-why-would-i = Pse do të duhej të përdor një VPN?
+vpn-what-is-hiding-your-identity = Fshehja e identitetit tuaj dhe mbulimi i trafikut tuaj web mund të duket si diçka që arrihet vetëm nga super të zotë nga ana teknike, ose nga aktorë në hije. Por, ka një numër arsyesh të ligjshme pse mund të doni të përdorni një VPN, përfshi:
 vpn-what-is-keeping-your-online = Mbajtjen private të veprimtarisë tuaj internetore.
 vpn-what-is-keeping-your-home = Mbajtjen private të vendndodhjes së shtëpisë tuaj apo vendet e vizituara më shpesh.
 vpn-what-is-protecting-your-connection = Mbrojtjen e lidhjes tuaj me një rrjet WiFi publik, bie fjala, në një kafene, aeroport, dyqan apo bibliotekë.
 vpn-what-is-ensuring-the-confidentiality = Garantimin e të qenët rezervat dhe integritetin e hyrjes tuaj në internet.
+vpn-what-is-make-it-more = Bërjen më të vështirë për rrjete reklamash të përdorin IP-në tuaj për të krijuar dhe përdorur profile të fokusuar, që ju ndjekin nëpër internet.
+vpn-what-is-what-are-the = Cilat janë mangësitë e përdorimit të një VPN-je?
+vpn-what-is-some-service-providers = Disa furnizues shërbimi internet i bllokojnë vizitat e bëra përmes VPN-sh, duke e bërë lëndën e tyre të papërdorshme, kur ka të aktivizuar një VPN. Disa VPN mund të ngadalësojnë punimin tuaj, ose mund të kufizojnë sasinë e trafikut tuaj. Dhe disa VPN janë keq në klasifikim, kur vjen puna për respektimin e privatësisë dhe sigurisë së përdoruesve.
 vpn-what-is-are-vpns-safe = A janë të parrezik VPN-të?
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
