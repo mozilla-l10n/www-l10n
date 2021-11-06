@@ -9,8 +9,8 @@
 features-fingerprinting-what-is-fingerprinting-title = Čo sú to odtlačky prehliadačov a prečo by ste ich mali blokovať
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Snímanie odtlačkov prehliadača je typ online sledovania, ktorý je invazívnejší ako bežné sledovanie založené na súboroch cookie – preto ho { -brand-name-firefox-browser(capitalization: "lower") } blokuje.
-features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokuje odtlačky prehliadačov
-features-fingerprinting-ditch-the-sticky = Zbavte sa lepkavých reklám, ktoré vás sledujú, pomocou blokovačov odtlačkov prehliadača vstavaných priamo vo { -brand-name-firefox(case: "loc") }.
+features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokuje snímanie odtlačkov prehliadača
+features-fingerprinting-ditch-the-sticky = Zbavte sa lepkavých reklám, ktoré vás sledujú, pomocou blokovačov snímania odtlačkov prehliadača vstavaných priamo vo { -brand-name-firefox(case: "loc") }.
 # description for the header image
 features-fingerprinting-every-fingerprint = Každý odtlačok prehliadača je jedinečný.
 features-fingerprinting-download-firefox = Stiahnuť { -brand-name-firefox }
