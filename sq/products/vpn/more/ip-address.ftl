@@ -29,3 +29,12 @@ vpn-ip-address-can-we-run = A mund të na mbarojnë?
 vpn-ip-address-when-the-internet = Kur u hartua Interneti në fillim, përdorte adresa “version 4”. Këto janë 32 bit, që do të thotë se mund të kemi deri në <a href="{ $sr }">4.2 miliardë adresa</a>. Kjo dukej e mjaftueshme në atë kohë, por s’është kurrkund afër të mjaftueshmes, në një botë ku një shtëpi e rëndomtë në ShBA ka <a href="{ $variety }">11 pajisje të lidhura</a>.
 vpn-ip-address-we-now-have = Tani kemi versionin 6 të adresave IP, që kanë adresa 128 bit. Mjerisht. version i4 dhe versioni 6 s’mund të komunikojnë me njëri-tjetrin drejtpërsëdrejti, ndaj njerëzve do t’u duhen adresat version 4 për një kohë të gjatë.
 vpn-ip-address-should-you-hide = A duhet të fshihni adresën tuaj IP?
+# Variables
+#   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
+#   $doh (url) - https://support.mozilla.org/kb/firefox-dns-over-https
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+vpn-ip-address-you-dont-need = Nuk ju duhet ta fshihni adresën tuaj IP, por ka raste kur mund të donit. Arsyeja më e zakonshme është privatësia. Në ShBA, <a href="{ $congress }">Kongresi hodhi poshtë</a> rregullime privatësie të hartuara për të mbrojtur privatësinë e përdoruesve të internetit. Furnizuesit e shërbimeve internet mund të shohin zakonet tuaja të shfletimit, për çfarë po e përdorni internetin dhe sa kohë harxhoni në secilën faqe. Ky komunikim s’është i fshehtëzuar, ndaj palë të treta mund të shohin cilin sajt po vizitoni. Një rrugë për ta luftuar këtë është <a href="{ $doh }">DNS-over-HTTPS</a> (DoH). Kjo fshehtëzon trafikun tuaj DNS (Domain Name System), duke e bërë më të vështirë për ISP-të të shohin sajtet që po provoni të vizitoni. Për <a href="{ $firefox }">përdorues { -brand-name-firefox }</a> në ShBA, kërkesat tuaja DoH, si parazgjedhje, shpihen te shërbyes të besuar DNS, duke e bërë më të vështirë përshoqërimin tuaj me sajtet që po provoni të vizitoni.
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-there-are-also = Ka gjithashtu arsye sipas situatash për të fshehur adresën tuaj IP. Mund të doni ta fshihni, kur udhëtoni. Një VPN do t’ju japë <a href="{ $url }">më tepër privatësi</a>, kur lidheni me WiFi, për media dhe blerje, teksa eksploroni botën.
+vpn-ip-address-how-do-you = Si e fshihni?
