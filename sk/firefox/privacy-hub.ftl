@@ -85,5 +85,5 @@ firefox-privacy-hub-already-have-an-account = Už máte účet? <a { $sign_in } 
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Prečítajte si <a href="{ $url }">Oznámenie o ochrane osobných údajov</a> pre naše produkty
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-privacy-hub-surf-stream-and-get-work = Prehliadajte, streamujte a pracujte na serveroch vo viac ako 30 krajinách so bezpečným internetovým pripojením s novou perspektívou.
+firefox-privacy-hub-surf-stream-and-get-work = Prehliadajte, streamujte a pracujte na serveroch vo viac ako 30 krajinách so zabezpečeným internetovým pripojením s novou perspektívou.
 firefox-privacy-hub-get-mozilla-vpn = Získajte { -brand-name-mozilla-vpn }
