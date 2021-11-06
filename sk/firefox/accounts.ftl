@@ -41,7 +41,7 @@ firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-whole-device-protection = Celková ochrana na každom zariadení
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
-firefox-accounts-youll-always-get-the = My vám vždy povieme pravdu. Všetko čo robíme je v súlade s naším <a href="{ $promise }">sľubom o osobných údajoch</a>:
+firefox-accounts-youll-always-get-the = My vám vždy povieme pravdu. Všetko čo robíme je v súlade s naším <a href="{ $promise }">prísľubom týkajúcim sa osobných údajov</a>:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Menej dát je niekedy viac.<br>Udržiavame vaše údaje v bezpečí.<br> Nemáme pred vami žiadne tajomstvá.
 firefox-accounts-get-the-knowledge = Získajte vedomosti, vďaka ktorým budete v bezpečí.
