@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
@@ -10,6 +10,9 @@ vpn-desktop-page-title = { -brand-name-mozilla-vpn } για υπολογιστέ
 vpn-desktop-page-description = Λάβετε προστασία στον υπολογιστή σας από τη { -brand-name-mozilla }, μία από τις πιο αξιόπιστες επωνυμίες στον χώρο της τεχνολογίας.
 # Desktop strings
 vpn-desktop-hero-headline = Προφυλάξτε τη σύνδεσή σας στο διαδίκτυο με το { -brand-name-mozilla-vpn } για υπολογιστές
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-ability = Το { -brand-name-mozilla-vpn } σάς παρέχει τη δυνατότητα ασφαλούς σύνδεσης και προστασίας των δεδομένων σας από αδιάκριτα βλέμματα και κλέφτες στο διαδίκτυο. Το { -brand-name-mozilla-vpn } χρησιμοποιεί το προηγμένο πρωτόκολλο { -brand-name-wireguard }® για να κρυπτογραφεί τα προσωπικά δεδομένα του επιτραπέζιου ή του φορητού υπολογιστή σας — για έως και { $devices } συσκευές. Δείτε σειρές, παίξτε παιχνίδια, κάντε αγορές και εκτελέστε τις καθημερινές σας εργασίες στο διαδίκτυο, γνωρίζοντας ότι είστε ασφαλείς.
 vpn-desktop-maker-of-firefox = Ως δημιουργός του { -brand-name-firefox } και ένας από τους πιο αξιόπιστους υπερασπιστές του διαδικτυακού απορρήτου, η { -brand-name-mozilla } δεσμεύεται να διασφαλίσει ότι θα νιώθετε ασφαλείς και σεβαστοί κάθε φορά που συνδέεστε στο διαδίκτυο.
 vpn-desktop-wifi-headline = Νιώστε ασφάλεια σε δημόσια Wi-Fi
 vpn-desktop-wifi-copy = Το VPN μας προφυλάσσει τη σύνδεσή σας στο διαδίκτυο από hacker και κατασκόπους, ώστε να κάνετε αγορές από την καφετέρια, να ελέγχετε τον τραπεζικό σας λογαριασμό από το τρένο και να εργάζεστε στο διαδίκτυο, οπουδήποτε και χωρίς καμία ανησυχία.
