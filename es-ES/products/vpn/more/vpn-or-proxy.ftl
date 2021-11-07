@@ -25,3 +25,8 @@ vpn-or-proxy-a-secure-web = Un proxy web seguro funciona para tareas que puedes 
 # Variables
 #   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
 vpn-or-proxy-a-proxy-is-useful = Un proxy es útil cuando estás navegando por la web en una red WiFi pública. Cuando un proxy está habilitado, no permitirá a los espías de la misma red ver tu actividad de navegación o leer tus transacciones en sitios no cifrados. Suena inofensivo, pero las redes WiFi públicas pueden ser como una puerta trasera para <a href="{ $url }">hackers</a>.
+# Variables
+#   $fpn (url) - https://fpn.firefox.com
+vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> es una extensión del navegador fácil de instalar que proporciona un túnel seguro y cifrado a la web para proteger la conexión del navegador dondequiera que uses { -brand-name-firefox }. Es rápido y fácil de activar cuando lo necesites para tener seguridad adicional en tu navegador.
+vpn-or-proxy-vpns-devicelevel-protection = VPN: protección a nivel del dispositivo
+vpn-or-proxy-vpns-do-more = Las VPN hacen más que proxys, ya que un proxy solo protege lo que haces en tu navegador, mientras que una VPN protege todo tu tráfico, incluido tu navegador, dondequiera que tengas instalada y habilitada una VPN. Las VPNs proporcionan seguridad y privacidad adicionales para toda tu actividad en línea — una consideración importante si quieres mantener tu actividad solo para ti y hacer más difícil que rastreadores e ISPs con  hambre de datos creen un perfil tuyo en todos tus dispositivos, como teléfono, ordenador y tableta.
