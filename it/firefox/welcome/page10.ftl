@@ -9,3 +9,6 @@
 welcome-page10-page-title = { -brand-name-firefox } protegge la tua navigazione su Internet. { -brand-name-mozilla-vpn } ti protegge ovunque
 # The strong tag wraps a product name that gets highlighted in color for emphasis.
 welcome-page10-main-heading = { -brand-name-firefox } protegge la tua navigazione su Internet. <strong>{ -brand-name-mozilla-vpn }</strong> ti protegge ovunque.
+welcome-page10-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }
+welcome-page10-without-trace = Internet senza lasciare tracce
+welcome-page10-why-see-this = Perché viene visualizzato questo messaggio?
