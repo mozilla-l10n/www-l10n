@@ -15,3 +15,4 @@ mobile-focus-scan-the-qr-code-to-get-started = Që t’ia filloni, skanoni kodin
 mobile-focus-tracking-protection = Mbrojtje nga gjurmimet
 mobile-focus-ad-blocking = Bllokim reklamash
 mobile-focus-made-by-mozilla = Krijuar nga { -brand-name-mozilla }
+mobile-focus-we-believe-everyone = Besojmë se gjithkush duhet të ketë kontrollin e jetës së vet internetore. Për këtë ndeshemi që prej 1998-s.
