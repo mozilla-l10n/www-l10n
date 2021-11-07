@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+home-mr2-promo-title = Non lasciarti sfuggire buone idee. Torna sui tuoi passi, ancora più velocemente grazie a Firefox.
 
 ## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 
