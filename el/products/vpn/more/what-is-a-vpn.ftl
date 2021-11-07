@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
@@ -16,6 +16,7 @@ vpn-what-is-encrypting-your-traffic = Κρυπτογραφεί τις κινήσ
 vpn-what-is-when-should-i = Πότε πρέπει να χρησιμοποιήσω ένα VPN;
 vpn-what-is-wait-i-thought = Μα εγώ νόμιζα ότι η κίνησή μου στο διαδίκτυο κρυπτογραφούταν ήδη με το HTTPS…
 vpn-what-is-why-would-i = Γιατί να χρησιμοποιήσω ένα VPN;
+vpn-what-is-keeping-your-online = Διατήρηση της ιδιωτικότητας της διαδικτυακής σας δραστηριότητας.
 vpn-what-is-protecting-your-connection = Προστασία της σύνδεσής σας με δημόσιο δίκτυο WiFi, όπως σε καφετέριες, αεροδρόμια, καταστήματα ή βιβλιοθήκες.
 vpn-what-is-ensuring-the-confidentiality = Διασφάλιση απορρήτου και ακεραιότητας της πρόσβασής σας στο διαδίκτυο.
 vpn-what-is-what-are-the = Ποια είναι τα μειονεκτήματα της χρήσης ενός VPN;
