@@ -11,27 +11,27 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Защитите всё с
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Используйте { -brand-name-mozilla-vpn } для полной защиты устройства и всех приложений. Благодаря серверам более чем в { $countries } странах вы можете подключаться к любой точке Интернета из любого места.
-vpn-landing-hero-sub-heading-v2 = Безопасность, надёжность и скорость — на любом устройстве, куда бы вы не отправились.
+vpn-landing-hero-sub-heading-v2 = Безопасность, надёжность и скорость на любом устройстве, куда бы вы ни отправились.
 # Obsolete string
-vpn-landing-hero-sub-heading = Безопасность, на которую можно положиться. Имя, которому можно доверять.
+vpn-landing-hero-sub-heading = Защите, на которую можно положиться. Имя, которому можно доверять.
 vpn-landing-hero-desc = Виртуальная частная сеть от создателей { -brand-name-firefox }.
 vpn-landing-privacy-heading = Одно нажатие до приватности
-vpn-landing-privacy-desc = Просматривайте страницы, транслируйте медиа, играйте и работайте, сохраняя при этом свою приватность в Интернете. Независимо от того, путешествуете ли вы, пользуетесь ли вы общедоступным Wi-Fi или просто ищете дополнительную безопасность в Интернете, мы всегда будем ставить вашу приватность на первое место.
-vpn-landing-fast-secure-heading = Быстрый и безопасный Интернет
+vpn-landing-privacy-desc = Просматривайте страницы, транслируйте медиа, играйте и работайте, сохраняя при этом свою приватность в Интернете. Независимо от того, путешествуете ли вы, пользуетесь общедоступным Wi-Fi или просто ищете дополнительную безопасность в Интернете, для нас ваша приватность всегда будет на первом месте.
+vpn-landing-fast-secure-heading = Быстрая и безопасная сеть
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } работает в глобальной сети серверов. Используя самый продвинутый протокол <a href="{ $wireguard }" { $attrs }> { -brand-name-wireguard } ® </a>, мы шифруем вашу сетевую активность и скрываем ваш IP-адрес. Мы никогда не регистрируем, не отслеживаем и не передаем ваши сетевые данные.
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } работает на глобальной сети серверов. Используя самый продвинутый протокол <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, мы шифруем вашу сетевую активность и скрываем ваш IP-адрес. Мы никогда не регистрируем, не отслеживаем и не передаём ваши сетевые данные.
 # Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } работает в глобальной сети серверов на базе <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Используя самый продвинутый протокол <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, мы шифруем вашу сетевую активность и скрываем ваш IP-адрес. Мы никогда не записываем, не отслеживаем и не передаем ваши сетевые данные.
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } работает на глобальной сети серверов на базе <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Используя самый продвинутый протокол <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, мы шифруем вашу сетевую активность и скрываем ваш IP-адрес. Мы никогда не регистрируем, не отслеживаем и не передаём ваши сетевые данные.
 vpn-landing-brand-trust-heading = VPN от бренда, которому можно доверять
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
-vpn-landing-brand-trust-desc = За более чем 20 лет работы { -brand-name-mozilla } всегда ставила людей на первое место и боролась за приватность в Интернете. При поддержке некоммерческой организации мы стремимся создать лучший и здоровый Интернет для всех и каждого. Всё, что мы делаем, является частью нашей миссии и следует нашим <a href="{ $url }">принципам</a>.
+vpn-landing-brand-trust-desc = В течение более чем 20 лет работы { -brand-name-mozilla } всегда ставила людей на первое место и боролась за приватность в Интернете. При поддержке некоммерческой организации мы стремимся сделать Интернет лучше и здоровее для всех и каждого. Всё, что мы делаем, является частью нашей миссии и следует нашим <a href="{ $url }">принципам</a>.
 
 ## FAQ section
 
@@ -39,7 +39,7 @@ vpn-landing-faq-heading = ЧЗВ
 vpn-langing-faq-uses-question-heading = Что такое VPN и для чего он используется?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
-vpn-landing-faq-uses-question-desc = Поскольку все большая часть повседневной жизни происходит в Интернете, приватность и безопасность в нём становятся всё более важными. VPN, <a href="{ $url }">Виртуальная частная сеть</a>, может помочь вам создать безопасное, приватное подключение к Интернету. Он работает, создавая «туннель» между вашим устройством и Интернетом в целом, и защищает вас двумя важными способами:
+vpn-landing-faq-uses-question-desc = Поскольку всё большая часть повседневной жизни проходит в Интернете, приватность и безопасность в нём становятся всё более важными. VPN, <a href="{ $url }">виртуальная частная сеть</a>, помогает вам создавать безопасное приватное подключение к Интернету. Он создаёт «туннель» между вашим устройством и Интернетом, защищая вас в двух важных направлениях:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = Скрывая ваш настоящий <a href="{ $url }">IP-адрес</a>. Это защищает вашу личность и скрывает ваше местоположение.
@@ -50,6 +50,10 @@ vpn-landing-faq-uses-encrypt = Шифруя трафик между вами и 
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Ознакомьтесь с <a href="{ $url }">пятью ситуациями из реальной жизни</a>, в которых вы захотите использовать VPN на своём устройстве.
 vpn-landing-faq-info-question-heading = Какую информацию сохраняет { -brand-name-mozilla-vpn }?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Мы строго соблюдаем <a href="{ $principles }">Принципы конфиденциальности данных</a> { -brand-name-mozilla } и собираем только данные, необходимые для обеспечения работоспособности VPN и улучшения продукта с течением времени. Мы также отслеживаем данные о кампаниях и переходах по ссылкам в нашем мобильном приложении, чтобы помочь { -brand-name-mozilla } понять эффективность маркетинговых кампаний. Более подробная информация приведена в нашем <a href="{ $notice }">Уведомлении о конфиденциальности</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
