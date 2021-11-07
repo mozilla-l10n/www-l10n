@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook } ถ�
 facebook-container-get-the-facebook-container = รับส่วนขยาย { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = ดาวน์โหลด { -brand-name-firefox } และรับส่วนขยาย { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = ขณะนี้ส่วนขยาย { -brand-name-facebook-container } มีให้ใช้เฉพาะสำหรับ { -brand-name-firefox } สำหรับเดสก์ท็อปเท่านั้น
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
