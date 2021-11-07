@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
@@ -22,6 +22,7 @@ mobile-focus-disappear-your-history = Εξαφανίστε το ιστορικό
 mobile-focus-delete-your-history = Διαγράψτε το ιστορικό σας
 # Outdated string
 mobile-focus-private-browsing-on = Η «ιδιωτική περιήγηση» στα περισσότερα προγράμματα περιήγησης δεν είναι και τόσο ιδιωτική. Το { -brand-name-firefox-focus } είναι στο επόμενο επίπεδο, πάντα ιδιωτικό και υποστηρίζεται από τη { -brand-name-mozilla }, τον μη κερδοσκοπικό οργανισμό που αγωνίζεται για τα δικαιώματά σας στο διαδίκτυο.
+mobile-focus-private-browsing-on-v2 = Η «ιδιωτική περιήγηση» στα περισσότερα προγράμματα περιήγησης δεν είναι και τόσο ιδιωτική. Το { -brand-name-firefox-focus } προσφέρει απόρρητο ανώτερου επιπέδου από προεπιλογή και υποστηρίζεται από τη { -brand-name-mozilla }, τον μη κερδοσκοπικό οργανισμό που αγωνίζεται για τα δικαιώματά σας στο διαδίκτυο.
 mobile-focus-tracking-protection = Προστασία από καταγραφή
 mobile-focus-ad-blocking = Φραγή διαφημίσεων
 mobile-focus-focus-blocks-the-v2 = Το { -brand-name-focus } αποκλείει διαφημίσεις που προσπαθούν να σας καταγράψουν σε διάφορες ιστοσελίδες — δεν απαιτούνται πρόσθετα ή επεκτάσεις. Με λιγότερες διαφημίσεις, έχετε καλύτερες ταχύτερες φόρτωσης σελίδων, πράγμα που σημαίνει ότι βρίσκετε πολύ πιο γρήγορα αυτά που θέλετε.
