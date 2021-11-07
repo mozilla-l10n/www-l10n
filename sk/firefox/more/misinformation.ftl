@@ -31,3 +31,28 @@ misinformation-images-captions = Zhodujú sa obrázky a popisky?
 misinformation-images-are-powerful = Obrázky sú veľmi silným nástrojom na cielené dezinformácie. V závislosti od titulku môže byť vnímanie prekrútené do absolútneho opaku. Ak si nie ste istí, vykonajte spätné vyhľadávanie obrázkov, aby ste zistili, ako je obrázok popísaný na iných stránkach.
 misinformation-how-firefox-helps-heading = Ako vám { -brand-name-firefox } pomáha vyhnúť sa dezinformáciám
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } udržuje sledovacie prvky pod kontrolou:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Ako už bolo spomenuté, sledovanie zohráva veľkú úlohu pri šírení dezinformácií. <a href="{ $firefox }">Používanie { -brand-name-firefox(case: "gen") }</a> s predvolene zapnutou <a href="{ $protection }">rozšírenou ochranou pred sledovaním</a> pomáha blokovaním sledovacích prvkov tretích strán mnohých inzerentov a iných hráčov, aby ste získali späť kontrolu nad svojimi online údajmi.
+misinformation-social-media-clean-heading = { -brand-name-firefox } pomáha udržiavať vaše informačné kanály sociálnych médií čisté:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Sociálne siete o vás vedia veľa. Navyše vás môžu sledovať mimo svojich platforiem pomocou tlačidiel Zdieľať a Páči sa mi aj napriek ochrane pred sledovaním – aj keď nemáte účet. <a href="{ $container }">{ -brand-name-facebook-container }</a> pre { -brand-name-firefox } zaisťuje, že { -brand-name-facebook } a { -brand-name-instagram } to tak ľahko nedokáže, čo opäť výrazne znižuje pravdepodobnosť zobrazenia dezinformácií prostredníctvom reklám a propagovaného obsahu.
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = { -brand-name-firefox } vám pomôže objaviť obsah, ktorý si zaslúži váš čas:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+# Variables:
+#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
+#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
+#   $pocket (url) - link to https://getpocket.com/
+misinformation-surface-content-desc = Keď v prehliadači { -brand-name-firefox } otvoríte novú kartu, zobrazia sa vám články <a href="{ $recommended }">odporúčané službou { -brand-name-pocket }</a>. { -brand-name-pocket } nepoužíva žiadne vaše osobné údaje na poskytovanie odporúčaní. Namiesto toho sú články revidované skutočnými ľudmi, ktorí používajú aplikáciu. Schopnosť objavovať nové príbehy, uhly pohľadu a názory je jedným zo spôsobov, ako bojovať proti šíreniu dezinformácií. Ak chcete získať ešte viac odporúčaní, prihláste sa na odber magazínu <a href="{ $pocket_hits }">{ -brand-name-pocket(case: "gen") }</a> a stiahnite si <a href="{ $pocket }">aplikáciu { -brand-name-pocket }</a>.
+misinformation-why-trust-firefox = Prečo dôverovať { -brand-name-firefox(case: "gen") }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = Pretože ľudí kladieme na prvé miesto. V skutočnosti nás podporuje <a href="{ $foundation }">nezisková organizácia</a>. Od prvého dňa bolo naším poslaním chrániť internet a všetkých na ňom.
+misinformation-learn-more-about-our-mission = Ďalšie informácie o našej misii
+misinformation-your-privacy-by-the-product = Vaše súkromie v našich produktoch
+misinformation-firefox-products-work-differently = Produkty { -brand-name-firefox(case: "gen") } fungujú inak – pretože sú navrhnuté tak, aby v prvom rade chránili vaše súkromie.
+misinformation-learn-about-our-products = Ďalšie informácie o našich produktoch
+misinformation-designed-to-protect = Navrhnutý na ochranu vášho súkromia
