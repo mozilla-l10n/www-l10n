@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+# HTML page title
+mobile-compare-5-of-the-best = 5 nga shfletuesit më të mirë për celular në krahasim të drejtpërdrejtë
+# HTML description
+mobile-compare-who-makes-the = Kush krijon shfletuesin më të mirë për celular? Për ta zbuluar, do të krahasojmë versionet për celular të { -brand-name-firefox }-it, { -brand-name-chrome }-es, { -brand-name-edge }-it, { -brand-name-safari }-it dhe { -brand-name-opera }-s.
 mobile-compare-features = Veçori
 mobile-compare-what-can-your = Ç’mund të bëjë për ju shfletuesi juaj?
 mobile-compare-conclusion = Përfundim
