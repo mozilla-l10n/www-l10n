@@ -22,7 +22,15 @@ mobile-focus-disappear-your-history = Zhdukni historikun tuaj
 mobile-focus-delete-your-history = Fshihni historikun tuaj
 mobile-focus-easily-erase-your = Fshini lehtësisht historikun, fjalëkalimet dhe cookie-et tuaja, që reklamat e padëshiruara të mos ju ndjekin nëpër internet. Thjesht prekni butonin e fshirjes te fusha e kërkimeve dhe iku.
 mobile-focus-take-private-mode = Shpjereni një shkallë më lart mënyrën private
+# Outdated string
+mobile-focus-private-browsing-on = “Shfletimi privat”, në shumicën e shfletuesve, s’është me tërë mend edhe aq privat. { -brand-name-firefox-focus }-i është privatësi një shkallë më lart, gjithmonë aktive dhe mbështetet te { -brand-name-mozilla }, enti jofitimprurës që lufton për të drejtat tuaja në web.
+mobile-focus-private-browsing-on-v2 = “Shfletimi privat”, në shumicën e shfletuesve, s’është me tërë mend edhe aq privat. { -brand-name-firefox-focus }-i ofron si parazgjedhje privatësi të një shkalle më lart dhe mbështetet te { -brand-name-mozilla }, enti jofitimprurës që lufton për të drejtat tuaja në web.
 mobile-focus-tracking-protection = Mbrojtje nga gjurmimet
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus }-i bllokon si parazgjedhje një gamë të gjerë gjurmuesish të zakonshëm, përfshi gjurmues rrjetesh shoqërorë dhe ata të bezdisurit që vijnë prej gjërash të tilla si reklamat { -brand-name-facebook }.
 mobile-focus-ad-blocking = Bllokim reklamash
+# Outdated string
+mobile-focus-focus-blocks-the = { -brand-name-focus } bllokon reklamat që do të shihnit normalisht në faqe web — s’ka nevojë për shtesa apo zgjerime shtesë. Me më pak reklama, përfitoni shpejtësi më të mira ngarkimi faqesh, që do të thotë se arrini te gjërat që doni shumë më shpejt.
+mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } bllokon reklamat që përpiqen t’ju ndjekin nëpër faqe web — s’ka nevojë për shtesa apo zgjerime shtesë. Me më pak reklama, përfitoni shpejtësi më të mira ngarkimi faqesh, që do të thotë se arrini te gjërat që doni shumë më shpejt.
+mobile-focus-see-it-all = Shiheni gjithçka më shpejt
 mobile-focus-made-by-mozilla = Krijuar nga { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Besojmë se gjithkush duhet të ketë kontrollin e jetës së vet internetore. Për këtë ndeshemi që prej 1998-s.
