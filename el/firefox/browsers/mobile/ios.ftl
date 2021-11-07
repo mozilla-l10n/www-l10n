@@ -23,5 +23,10 @@ mobile-ios-stay-private-online = Ιδιωτικότητα στο διαδίκτ�
 mobile-ios-your-browsing-history = Το ιστορικό σας είναι παρελθόν
 mobile-ios-get-more-firefox = Περισσότερο { -brand-name-firefox } στη ζωή σας
 mobile-ios-get-to-your-go-to = Μεταβείτε ταχύτερα σε αγαπημένους ιστοτόπους στο { -brand-name-iphone } και το { -brand-name-ipad } σας
+mobile-ios-see-your-open-tabs = Δείτε τις ανοικτές καρτέλες, τις προηγούμενες αναζητήσεις και τους αγαπημένους σας ιστοτόπους σε ένα μέρος με το { -brand-name-firefox-browser } για { -brand-name-ios }.
+mobile-ios-own-your-home = Κάντε την αρχική οθόνη δική σας
 mobile-ios-find-it-all = Βρείτε τα πάντα, πιο γρήγορα
+# Obsolete string
+mobile-ios-keep-tabs-on = Διαχειριστείτε όλες αυτές τις καρτέλες
+mobile-ios-discover-more-of = Ανακαλύψτε κι άλλο αγαπημένο περιεχόμενο
 mobile-ios-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
