@@ -31,4 +31,5 @@ mobile-android-pin-videos-to = Καρφίτσωμα βίντεο στην οθό
 mobile-android-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Συντομεύσεις για το διαδίκτυο στο { -brand-name-firefox } για { -brand-name-android }
+mobile-android-see-all-your-open-tabs = Δείτε όλες τις ανοικτές καρτέλες, τις πρόσφατες αναζητήσεις και τους αγαπημένους σας ιστοτόπους σε ένα μέρος με το { -brand-name-firefox } για { -brand-name-android }.
 mobile-android-own-your-home = Κάντε την αρχική οθόνη δική σας
