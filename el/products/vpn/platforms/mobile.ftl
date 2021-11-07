@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
@@ -14,6 +14,7 @@ vpn-mobile-maker-of-firefox = Εξασφαλίστε ότι η σύνδεση τ
 vpn-mobile-wifi-headline = Νιώστε ασφάλεια σε δημόσια Wi-Fi
 vpn-mobile-wifi-copy = Το VPN μας προφυλάσσει τη σύνδεσή σας στο διαδίκτυο από hacker και κατασκόπους, ώστε να κάνετε αγορές από την καφετέρια, να ελέγχετε τον τραπεζικό σας λογαριασμό από το τρένο και να εργάζεστε στο διαδίκτυο, γνωρίζοντας ότι η διεύθυνση IP σας είναι προστατευμένη.
 vpn-mobile-about-headline = Σχετικά με τη { -brand-name-mozilla }
+vpn-mobile-about-copy = Περισσότερο γνωστή για το { -brand-name-firefox-browser }, η { -brand-name-mozilla } είναι μια παγκόσμια κοινότητα χρηστών, εθελοντών και προγραμματιστών που έχουν αφοσιωθεί στο να παραμείνει η δύναμη του διαδικτύου στα χέρια των ανθρώπων. Από το 1998, είμαστε ένας από τους πρωτοπόρους οργανισμούς του ελεύθερου και ανοικτού διαδικτύου — και αποστολή μας είναι να το διατηρήσουμε ως έχει.
 vpn-mobile-privacy-headline = Απόρρητο με ένα πάτημα
 vpn-mobile-privacy-copy = Το { -brand-name-mozilla-vpn } κρυπτογραφεί τη σύνδεσή σας στο διαδίκτυο και κρύβει τη διεύθυνση IP σας στην κινητή σας συσκευή με το προηγμένο πρωτόκολλο { -brand-name-wireguard }®.
 vpn-mobile-servers-headline = Συνδεθείτε σε διακομιστές από όλο τον κόσμο
