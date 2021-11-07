@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
+# HTML page title and main title
+vpn-when-to-use-5-reasons-you-should = 5 arsye ose duhet të përdorni një VPN
+# HTML page description and intro
+vpn-when-to-use-here-are-five = Ja pesë raste, që mund të mos i keni menduar, kur një VPN e besueshme do të bëjë punë. Mbyllni të çarën në sigurinë tuaj internetore, me { -brand-name-mozilla-vpn }.
 vpn-when-to-use-concealing-your-true = Duke fshehur adresën tuaj të vërtetë IP, çka mbron identitetin tuaj dhe errëson të dhënat mbi vendndodhjen tuaj.
 vpn-when-to-use-encrypting-your-traffic = Duke fshehtëzuar trafikun mes jush dhe shërbimit tuaj VPN, që askush në rrjetin tuaj lokal të mund të mos e deshifrojë apo ndryshojë dot.
 vpn-when-to-use-because-your-internet = Ngaqë trafiku juaj internet në shtëpi kalon nga dhe në pajisjet tuaja përmes furnizuesit tuaj të shërbimit internet — ISP, për shkurt — ata mund të shohin se ku shkoni në internet. Një ISP mund të shohë cilat sajte vizitoni, sa gjatë rrini në ta, vendndodhjen tuaj dhe hollësi rreth pajisjeve tuaja. Falë fshehtëzimit, një ISP mund të mos dijë hollësitë se ç’bëtë në këto sajte (fjala vjen, ç’bletë, ç’kërkuat apo lexuat), por mund të bëjnë hamendësime rreth jush, bazuar në sajtet që vizituat.  Këto të dhëna personale mund të përdoren nga IPS për të krijuar profile të hollësishme rreth jush. Shfletimi në mënyrë private nuk e pengon një ISP të shohë se ku shkoni në internet. Por dërgimi i trafikut tuaj përmes një VPN-je mund ta bëjë shumë më të vështirë.
