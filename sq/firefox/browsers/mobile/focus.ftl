@@ -32,5 +32,8 @@ mobile-focus-ad-blocking = Bllokim reklamash
 mobile-focus-focus-blocks-the = { -brand-name-focus } bllokon reklamat që do të shihnit normalisht në faqe web — s’ka nevojë për shtesa apo zgjerime shtesë. Me më pak reklama, përfitoni shpejtësi më të mira ngarkimi faqesh, që do të thotë se arrini te gjërat që doni shumë më shpejt.
 mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } bllokon reklamat që përpiqen t’ju ndjekin nëpër faqe web — s’ka nevojë për shtesa apo zgjerime shtesë. Me më pak reklama, përfitoni shpejtësi më të mira ngarkimi faqesh, që do të thotë se arrini te gjërat që doni shumë më shpejt.
 mobile-focus-see-it-all = Shiheni gjithçka më shpejt
+# Outdated string
+mobile-focus-focus-removes-trackers = { -brand-name-focus } heq gjurmues dhe reklama, kështu që faqet që po shihni kërkojnë më pak të dhëna dhe ngarkohen shumë më shpejt.
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } heq gjurmues dhe aktivizon bllokues reklamash, kështu që faqet që po shihni kërkojnë më pak të dhëna dhe ngarkohen shumë më shpejt. Veç kësaj, fiksoni deri në katër shkurtore në skenën tuaj të hyrjes dhe kaloni te sajti juaj i parapëlqyer edhe më shpejt, pa shtypur gjë.
 mobile-focus-made-by-mozilla = Krijuar nga { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Besojmë se gjithkush duhet të ketë kontrollin e jetës së vet internetore. Për këtë ndeshemi që prej 1998-s.
