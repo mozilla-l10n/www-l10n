@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Blokuje elementy śledzące se
 firefox-desktop-download-os-availability = Dostępna w różnych systemach operacyjnych
 firefox-desktop-download-in-browser-screenshot = Wbudowane narzędzie do wykonywania zrzutów ekranu
 firefox-desktop-download-primary-password = Hasło główne
+firefox-desktop-love-your-life = Pokochaj swoje życie w Internecie
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = To Twój Internet. Podkoloruj go jak tylko chcesz dzięki tysiącom narzędzi, motywów i rozszerzeń. Firefox to oryginalna alternatywna przeglądarka, która stawia ludzi przed zyskami.
 # Obsolete string
 firefox-desktop-download-master-password = Hasło główne
 firefox-desktop-download-we-block-the-ad = My blokujemy śledzące reklamy. Ty szybciej przeglądasz Internet.
@@ -175,6 +178,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Używasz niebezpiecz
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Pobieranie powinno rozpocząć się samoczynnie. Jeśli nie, to <a id="{ $id }" href="{ $fallback_url }">spróbuj jeszcze raz</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } to więcej niż przeglądarka.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Pobieranie zostało przerwane. Ale nie wszystko stracone.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
