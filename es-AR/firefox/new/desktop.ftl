@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Bloquea rastreadores sociales
 firefox-desktop-download-os-availability = Disponibilidad de sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla incorporada
 firefox-desktop-download-primary-password = Contraseña maestra
+firefox-desktop-love-your-life = Amá tu vida en línea
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Es tu internet. Coloreala como te guste con miles de herramientas, temas y extensiones. Firefox es navegador alternativo original que pone a las personas antes que a las ganancias.
 # Obsolete string
 firefox-desktop-download-master-password = Contraseña maestra
 firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores de oublicidad. Es más rápido en Internet
