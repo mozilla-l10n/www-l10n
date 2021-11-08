@@ -1,7 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/firefox/retention/thank-you/
 
@@ -9,7 +8,7 @@ thank-you-thank-you = Merci
 thank-you-thank-you-page = Page de remerciement
 thank-you-its-all-thanks-to-you = C’est grâce à vous
 thank-you-choosing-firefox-helps = En choisissant { -brand-name-firefox }, vous aidez { -brand-name-mozilla } à protéger et améliorer Internet. Voici ce que vous pouvez faire ensuite :
-thank-you-make-firefox-your-default = Faites de { -brand-name-firefox } votre navigateur par défaut
+thank-you-make-firefox-your-default = Adopter { -brand-name-firefox } comme navigateur par défaut
 thank-you-1-min-action = Se fait en 1 minute
 thank-you-set-as-your-default = Le définir par défaut
 thank-you-get-firefox-on-your-phone = Installez { -brand-name-firefox } sur votre téléphone
