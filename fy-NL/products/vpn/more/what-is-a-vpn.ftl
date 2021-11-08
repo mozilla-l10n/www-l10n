@@ -36,6 +36,12 @@ vpn-what-is-what-are-the = Wat binne de neidielen fan it brûken fan in VPN?
 vpn-what-is-some-service-providers = Guon tsjinstproviders blokkearje besiken dy’t fia VPN’s dien wurde, wêrtroch harren ynhâld net tagonklik is wannear’t in VPN ynskeakele is. Guon VPN’s kinne foar fertraging soargje of jo bânbreedte beheine. En guon VPN’s skoare slim wat it respektearjen fan de privacy en feilichheid fan brûkers oanbelanget.
 vpn-what-is-are-vpns-safe = Binne VPN's feilich?
 vpn-what-is-its-very-hard = It is hiel swier om in betroubere VPN te finen. VPN’s binne bedoeld om brûkers te beskermjen wylst se online binne, mar net alle VPN’s binne lyk yn de tsjinst dy’t se leverje. Soargje der by it sykjen nei in VPN-tsjinst foar dat jo de betingsten begripe wêrmei’t jo akkoard gean. In protte beweare geweldich en rjochte op privacy te wêzen, mar in grut tal komt harren belofte net nei. Guon VPN’s registrearje jo online aktiviteiten sadat se jo gegevens en ynformaasje sels oan marketingbedriuwen ferkeapje kinne. Oare VPN’s sille jo probearje te oertsjûgjen om malware op jo apparaten te ynstallearjen.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-what-is-weve-done-the = Wy hawwe it nedige dien om derfoar te soargjen dat sawol de <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> jo privacy respektearret, en dêr wolle wy ús reputaasje op ynsette. { -brand-name-mozilla } hat de reputaasje produkten te meitsjen dy’t jo helpe jo gegevens feilich te hâlden. Wy folgje ús maklik te lêzen, no-nonsense <a href="{ $principles }">Gegevensprivacyprinsipen</a>, wêrtroch wy ús suver konsintrearje kinne op de gegevens dy’t wy nedich hawwe om in tsjinst te ferlienen. En omdat wy stipe wurde troch in <a href="{ $mission }">missydreaune</a> bedriuw, kinne jo derop fertrouwe dat de euro’s dy’t jo oan dit produkt besteegje jo net allinnich in earsteklas befeiliging garandearje, mar ek it ynternet foar elkenien better meitsje.
 vpn-what-is-can-vpns-protect = Kinne VPN's my beskermje tsjin cyberkriminelen?
 vpn-what-is-are-vpns-legal = Binne VPN's legaal?
 vpn-what-is-are-vpns-only = Binne VPN's allinnich foar kompjûters?
