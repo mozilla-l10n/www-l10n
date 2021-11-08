@@ -1,11 +1,10 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ## Common user interface (ui) strings used in global templates and shared widgets.
 
-ui-back-to-home-page = Zur&uuml;ck zur Startseite
+ui-back-to-home-page = Zurück zur Startseite
 ui-return-to-top = Zum Seitenanfang
 ui-close = Schließen
 ui-previous = Zurück
