@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -29,7 +29,7 @@ vpn-shared-features-activity-logs = Nulle registros de activitate online ora o s
 vpn-shared-features-access-countries = Accede a servitores in plus de { $countries } paises
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Option pro connecte maximo { $devices } apparatos
+vpn-shared-features-devices = Option pro connecter maximo { $devices } apparatos
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Protection pro maximo { $devices } apparatos
