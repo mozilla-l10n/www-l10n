@@ -122,14 +122,15 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-solo)
 vpn-landing-faq-refund-question-heading = Que es le regulamento de reimbursamento de { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = Le prime vice que tu te abona a { -brand-name-mozilla-vpn } per le sito web de { -brand-name-mozilla }, si tu cancella tu conto intra le prime 30 dies, tu pote requirer un reimbursamento e { -brand-name-mozilla } reimbursara tu prime termino de subscription.
+vpn-landing-faq-refund-question-additional-desc = Si tu acquire tu abonamento per compra de in-app ab { -brand-name-apple } { -brand-name-app-store } o ab le boteca { -brand-name-google-play }, tu pagamento es subjecte al terminos e conditiones del { -brand-name-app-store }. Tu debe diriger ulle inquestas de facturation e reimbursamento pro simile compras a { -brand-name-apple } o { -brand-name-google }, como appropriate.
+# Outdated string
 vpn-landing-faq-refund-question-desc = Tu pote facer te reimbursar tu moneta intra 30 dies post le compra de tu subscription. Contacta nos e invia le requesta de reimbursamento pulsante le button “Demandar adjuta” in Parametros sur tu application { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Como gere io mi subscription?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Si tu es jam subscribite a { -brand-name-mozilla-vpn }, tu pote cambiar tu plan o <a href="{ $url }">gerer tu subscription</a> quando tu lo vole.
 vpn-landing-faq-link = Vider altere folios a questiones
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Oppla! Il pare que tu non ha subscribite ancora.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
