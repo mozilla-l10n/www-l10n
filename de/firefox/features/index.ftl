@@ -1,18 +1,22 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+
 # HTML page title
 features-index-protect-your-privacy-and-browse = { -brand-name-firefox } Features für noch mehr Privatsphäre und Geschwindigkeit
+
 # HTML page description
 features-index-youre-in-control-with-firefoxs = Sie behalten bei { -brand-name-firefox } die Kontrolle – mit den Features für Privatsphäre und schnelleres Surfen.
+
 # Hero title
 features-index-firefox-features = Funktionen von { -brand-name-firefox }
+
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox } ist der schnelle, leichte und datenschutzorientierte Browser, der auf allen Ihren Geräten funktioniert.
+
 features-index-add-powerful-functions = Ergänzen Sie Ihren { -brand-name-firefox }-Browser um leistungsstarke Funktionen, nützliche Funktionen und sogar ein wenig Spaß.
 features-index-see-all = Alle Erweiterungen anzeigen
 features-index-give-your-browser = Geben Sie Ihrem Browser das gewünschte Erscheinungsbild mit Tausenden verschiedener Themes.
