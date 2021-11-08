@@ -122,14 +122,15 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = { -brand-name-linux }<a h
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (endast { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Vad är { -brand-name-mozilla-vpn }:s återbetalningspolicy?
+vpn-landing-faq-refund-question-desc-v2 = Första gången du prenumererar på { -brand-name-mozilla-vpn }via { -brand-name-mozilla }s webbplats, om du avslutar ditt konto inom de första 30 dagarna, kan du begära en återbetalning och { -brand-name-mozilla } kommer att återbetala din första prenumerationsperiod.
+vpn-landing-faq-refund-question-additional-desc = Om du köper din prenumeration via köp i appen från { -brand-name-apple } { -brand-name-app-store } eller { -brand-name-google-play } Butik, är din betalning föremål för villkoren för { -brand-name-app-store }. Du måste skicka alla fakturerings- och återbetalningsförfrågningar för sådana köp till { -brand-name-apple } eller { -brand-name-google }, beroende på vad som passar.
+# Outdated string
 vpn-landing-faq-refund-question-desc = Du kan få tillbaka dina pengar inom 30 dagar efter att du har köpt din prenumeration. Kontakta oss och skicka återbetalningsförfrågan genom att trycka på knappen "Få hjälp" i Inställningar på din { -brand-name-mozilla-vpn }-app.
 vpn-landing-faq-manage-subscription-question-heading = Hur hanterar jag min prenumeration?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Om du redan prenumererar på { -brand-name-mozilla-vpn } kan du ändra din plan eller <a href="{ $url }">hantera din prenumeration</a> när som helst.
 vpn-landing-faq-link = Se fler vanliga frågor
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Hoppsan! Det verkar inte som du har en prenumeration.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
