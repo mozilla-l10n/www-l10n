@@ -1,14 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-
-### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use/
+### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 Gründe, warum Sie ein VPN verwenden sollten
+
 # HTML page description and intro
 vpn-when-to-use-here-are-five = Hier sind fünf Situationen, in denen sich ein vertrauenswürdiges VPN als nützlich erweisen wird, an die Sie möglicherweise nicht gedacht haben. Schließen Sie die Lücke in Ihrer Online-Sicherheit mit { -brand-name-mozilla-vpn }.
+
 # Variables
 #   $vpn (url) - https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 vpn-when-to-use-as-more-of = Da immer mehr des täglichen Lebens über Internetverbindungen stattfindet, werden Datenschutz- und Sicherheitsaspekte noch wichtiger. Ein VPN – <a href="{ $vpn }">Virtuelles Privates Netzwerk</a> – kann jedem helfen, eine sichere, private Verbindung zum Internet aufzubauen. Es funktioniert, indem es einen sicheren „Tunnel“ zwischen Ihrem Gerät und dem Internet insgesamt erstellt und Sie auf zwei wichtige Arten schützt:
@@ -18,6 +19,7 @@ vpn-when-to-use-having-a-vpn = Ein VPN zur Hand zu haben, wenn Sie es brauchen, 
 vpn-when-to-use-1-a-walk = 1. Ein Spaziergang im Park
 vpn-when-to-use-its-a-beautiful = Es ist ein wunderschöner Samstagmorgen, und Sie haben es sich auf einer Parkbank bequem gemacht, um einen Kaffee zu trinken und sich über Ihre Lieblingsnachrichtenseiten zu informieren, ein paar Videos anzusehen und schnell online einzukaufen, während Sie Sonne und frische Luft tanken. Anstatt Ihre mobiles Datenvolumen aufzubrauchen, nutzen Sie den öffentlichen WLAN-Dienst Ihrer Stadt. Er ist kostenlos und wird von der Stadt betrieben, also ist alles in Ordnung, oder? Tatsache ist, dass Sie nicht sicher sein können, ob das städtische Netzwerk sicher oder sogar echt ist (siehe nächster Punkt) und so eingerichtet ist, dass es Sie vor böswilligen Personen oder Entitäten schützt, die Sie ausspionieren, während Sie verbunden sind. Das Aktivieren eines VPN kann dazu beitragen, Ihr Gerät vor jedem zu schützen, der versucht, auf den von Ihnen besuchten Websites herumzuschnüffeln oder Ihre sensiblen Zugangsdaten auszuspähen, während Sie an einem beliebigen Tag der Woche auf dieser Parkbank sitzen.
 vpn-when-to-use-2-in-the = 2. In der Nachbarschaft
+
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 # "C0MCAST-WiFi-77th-St" and "Verizon3-Hotspot-Baltimore" are examples of possibly suspicious public wifi networks. You can substitute similar example names for your locale.
@@ -31,14 +33,17 @@ vpn-when-to-use-5-in-your = 5. Zu Hause
 vpn-when-to-use-for-the-most = Die oben genannten Szenarien gelten größtenteils nicht für Ihr Heimnetzwerk, vorausgesetzt, es wurde ordnungsgemäß mit einem starken Passwort und Sicherheitsmaßnahmen eingerichtet. Aber das bedeutet nicht, dass Sie frei von allen neugierigen Blicken sind.
 vpn-when-to-use-because-your-internet = Da Ihr Internetverkehr zu Hause über Ihren Internetdienstanbieter – kurz ISP – zu und von Ihren Geräten läuft, kann dieser sehen, wo Sie sich im Internet bewegen. Ein ISP kann sehen, welche Websites Sie besuchen, wie lange Sie auf ihnen sind, Ihren Standort und Informationen zu Ihren Geräten. Ein ISP weiß dank der Verschlüsselung möglicherweise nicht genau, was Sie auf diesen Websites getan haben (z. B. was Sie gekauft, gesucht oder gelesen haben), aber er könnte aufgrund der von Ihnen besuchten Websites Rückschlüsse auf Sie ziehen. Diese personenbezogenen Daten können von ISPs verwendet werden, um detaillierte Profile über Sie zu erstellen. Das Surfen im privaten Modus verhindert nicht, dass ISPs sehen, wo Sie sich im Internet bewegen. Aber das Senden Ihres Datenverkehrs über ein VPN kann es viel schwieriger machen.
 vpn-when-to-use-make-sure-you = Vergewissern Sie sich, dass Sie verstehen, was ein VPN nicht tut
+
 # Variables
 #   $book (url) - https://www.mozilla.org/firefox/privacy/book/
 vpn-when-to-use-a-vpn-provides = Ein VPN bietet eine wichtige Sicherheitsverbindung, indem es Ihre privaten Daten schützt, bevor sie über das Internet übertragen werden, und es verbirgt auch Ihre IP-Adresse, um Ihre Identität und Ihren Standort zu schützen. Es wird Sie jedoch nicht daran hindern, auf verdächtige Links zu klicken, Schadsoftware herunterzuladen oder Opfer von E-Mail-Betrug zu werden. Sie müssen immer noch <a href="{ $book }">vorsichtig bleiben, um im Internet sicher zu sein</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, ein vertrauenswürdiger VPN-Dienst
+
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
 vpn-when-to-use-the-most-important = Das Wichtigste bei der Auswahl eines VPN ist die Auswahl eines vertrauenswürdigen Unternehmens. Stellen Sie sicher, dass Sie die Bedingungen verstehen, denen Sie zustimmen. Viele behaupten, Qualität zu bieten und auf Privatsphäre ausgerichtet zu sein, aber viele von ihnen halten ihr Versprechen nicht. Nicht alle Proxy- und VPN-Dienste sind sicher und privat. Einige <a href="{ $cnet }">protokollieren</a> <a href="{ $pcmag }">Ihre Online-Aktivitäten</a>, damit sie Ihre Daten und Informationen selbst an Marketingfirmen verkaufen können. Andere Dienste werden versuchen, Sie davon zu überzeugen, Schadsoftware auf Ihren Geräten zu installieren.
+
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
