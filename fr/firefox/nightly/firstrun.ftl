@@ -1,7 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
@@ -16,6 +15,8 @@ nightly-firstrun-file-bugs-and-work = Signalez les problèmes et travaillez dire
 nightly-firstrun-start-coding = Commencez à coder
 nightly-firstrun-localize = Traduire
 nightly-firstrun-make-firefox-available = Rendez { -brand-name-firefox } disponible dans davantage de langues ou contribuez aux traductions existantes.
+
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
 nightly-firstrun-contribute-link = https://github.com/mozfr/besogne/wiki/Traduction
+
 nightly-firstrun-start-localizing = Commencez à traduire
