@@ -1,11 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
-
 
 ## Company names
 
@@ -20,10 +18,10 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation =
-    { $version ->
-       *[translated] Fondation Mozilla
-        [formal] Mozilla Foundation
-    }
+    { "" }    { "{" } $version ->
+           *[translated] Fondation Mozilla
+            [formal] Mozilla Foundation
+        { "}" }
 -brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
@@ -34,15 +32,15 @@
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
-    { $capitalization ->
-       *[lowercase] navigateur Firefox
-        [uppercase] Navigateur Firefox
-    }
+    { "" }    { "{" } $capitalization ->
+           *[lowercase] navigateur Firefox
+            [uppercase] Navigateur Firefox
+        { "}" }
 -brand-name-firefox-browsers =
-    { $capitalization ->
-       *[lowercase] navigateurs Firefox
-        [uppercase] Navigateurs Firefox
-    }
+    { "" }    { "{" } $capitalization ->
+           *[lowercase] navigateurs Firefox
+            [uppercase] Navigateurs Firefox
+        { "}" }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -58,12 +56,12 @@
 -brand-name-beta = Beta
 -brand-name-developer-edition = Developer Edition
 -brand-name-enterprise =
-    { $role ->
-       *[singular-upper] Entreprise
-        [singular-lower] entreprise
-        [plural-upper] Entreprises
-        [plural-lower] entreprises
-    }
+    { "" }    { "{" } $role ->
+           *[singular-upper] Entreprise
+            [singular-lower] entreprise
+            [plural-upper] Entreprises
+            [plural-lower] entreprises
+        { "}" }
 -brand-name-esr = ESR
 -brand-name-focus = Focus
 -brand-name-lite = Lite
@@ -81,20 +79,20 @@
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-account =
-    { $capitalization ->
-       *[lowercase] compte Firefox
-        [uppercase] Compte Firefox
-    }
+    { "" }    { "{" } $capitalization ->
+           *[lowercase] compte Firefox
+            [uppercase] Compte Firefox
+        { "}" }
 -brand-name-firefox-accounts =
-    { $capitalization ->
-       *[lowercase] comptes Firefox
-        [uppercase] Comptes Firefox
-    }
+    { "" }    { "{" } $capitalization ->
+           *[lowercase] comptes Firefox
+            [uppercase] Comptes Firefox
+        { "}" }
 -brand-name-firefox-devtools =
-    { $capitalization ->
-       *[lowercase] outils de développement de Firefox
-        [uppercase] Outils de développement de Firefox
-    }
+    { "" }    { "{" } $capitalization ->
+           *[lowercase] outils de développement de Firefox
+            [uppercase] Outils de développement de Firefox
+        { "}" }
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-sync = Firefox Sync
@@ -104,10 +102,10 @@
 ## Firefox products (short names)
 
 -brand-name-devtools =
-    { $capitalization ->
-       *[lowercase] outils de développement
-        [uppercase] Outils de développement
-    }
+    { "" }    { "{" } $capitalization ->
+           *[lowercase] outils de développement
+            [uppercase] Outils de développement
+        { "}" }
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-sync = Sync
@@ -120,7 +118,7 @@
 -brand-name-firefox-os = Firefox OS
 -brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-send = Firefox Send
--brand-name-send = Send
+-brand-name-send = Envoyer
 
 ## Pocket
 
@@ -154,6 +152,7 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
+
 # Outdated string
 -brand-name-web-assembly = Web Assembly
 

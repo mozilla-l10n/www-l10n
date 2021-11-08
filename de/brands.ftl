@@ -1,11 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
-
 
 ## Company names
 
@@ -86,7 +84,7 @@
 -brand-name-firefox-os = Firefox OS
 -brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-send = Firefox Send
--brand-name-send = Send
+-brand-name-send = Absenden
 
 ## Pocket
 
@@ -120,6 +118,7 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
+
 # Outdated string
 -brand-name-web-assembly = Web Assembly
 
