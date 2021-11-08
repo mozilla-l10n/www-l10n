@@ -1,14 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
 
 # HTML page title
 features-private-browsing-private-browser = Der private Browser mit Extraschutz vor Aktivitätenverfolgung
+
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } schützt Deine Privatsphäre und blockiert Tracker, die ohne Zustimmung Deine Daten sammeln.
+
 features-private-browsing-download-firefox = { -brand-name-firefox } herunterladen
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Mehr Schutz. Weniger Sorgen.
 features-private-browsing-were-obsessed-with = Deine PRIVATSPHÄRE wird bei uns ganz großgeschrieben. Deshalb ist der Private Modus von { -brand-name-firefox } so viel leistungsstärker als andere.
