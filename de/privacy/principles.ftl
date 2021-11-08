@@ -1,14 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/privacy/principles/
 
 # HTML page title and main title
-privacy-principles-data-privacy-principles = Datenschutz-Prinzipien
+privacy-principles-data-privacy-principles = Prinzipien zum Schutz von Daten
+
 # HTML page description
 privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } ist ein Open-Source-Projekt mit der Mission, Ihr Interneterlebnis zu verbessern. Dies ist die Triebfeder hinter unseren Datenschutzprinzipien.
+
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
 privacy-principles-the-following-five-principles = Die folgenden fünf Prinzipien stammen aus dem <a href="{ $link }">{ -brand-name-mozilla }-Manifest</a> und erklären, wie wir:
