@@ -53,3 +53,14 @@ vpn-what-is-are-vpns-only = Binne VPN's allinnich foar kompjûters?
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = VPN’s kinne brûkt wurde om al jo apparaten te beskermjen: kompjûters, laptops, tablets en telefoans. As jo fia selsstannige apps bûten de browser tagong krije ta it ynternet, is in VPN in goede kar om jo privacy en feilichheid op elk apparaat te beskermjen. Jo moatte foar in goede wurking op elk apparaat in VPN ynstallearje. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> biedt in ûnbeheinde ferbining foar maksimaal fiif apparaten wannear’t jo ferbining meitsje mei it ynternet fan elke app of browser út.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: fluch, feilich, betrouber
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> is in tsjinst wêrop jo fertrouwe kinne om jo ferbining mei it ynternet op al jo apparaten feilich te hâlden. Wy hâlde gjin lochboeken mei netwurkaktiviteiten by en wy wurkje net gear mei tredden dy’t profilen meitsje fan wat jo online dogge. Yn in wrâld wêryn ûnfoarsjenberheid it ‘nije normaal’ wurden is, witte wy dat it wichtiger as ea is dat jo jo feilich fiele en dat jo witte dat wat jo online dogge jo eigen saak is.
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> is in tsjinst wêrop jo fertrouwe kinne om jo ferbining mei it ynternet op al jo apparaten feilich te hâlden. Wy hâlde gjin lochboeken mei netwurkaktiviteiten by en wy wurkje net gear mei tredden dy’t profilen meitsje fan wat jo online dogge. Yn in wrâld wêryn ûnfoarsjenberheid it ‘nije normaal’ wurden is…
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> is in tsjinst wêrop jo fertrouwe kinne om jo ferbining mei it ynternet op al jo apparaten feilich te hâlden. Wy hâlde gjin lochboeken mei brûkersgegevens by en wy wurkje net gear mei analyseplatfoarmen fan tredden dy’t profilen meitsje fan wat jo online dogge. Yn in wrâld wêryn ûnfoarsjenberheid it ‘nije normaal’ wurden is, witte wy dat it wichtiger as ea is dat jo jo feilich fiele en dat jo witte dat wat jo online dogge jo eigen saak is.
