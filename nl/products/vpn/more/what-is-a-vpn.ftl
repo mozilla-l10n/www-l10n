@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
@@ -41,7 +41,7 @@ vpn-what-is-its-very-hard = Het is erg moeilijk om een betrouwbare VPN te vinden
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
 #   $mission (url) - https://www.mozilla.org/mission/
 # "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
-vpn-what-is-weve-done-the = We hebben het nodige gedaan om ervoor te zorgen dat de <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> uw privacy daadwerkelijk respecteert, en we zijn bereid om onze reputatie op. { -brand-name-mozilla } heeft de reputatie producten te maken die u helpen uw informatie veilig te houden. We volgen onze gemakkelijk te lezen, no-nonsense <a href="{ $principles }">Gegevensprivacyprincipes</a>, waardoor we ons puur kunnen concentreren op de gegevens die we nodig hebben om een service te verlenen. De { -brand-name-mozilla-vpn }-technologie is gestroomlijnd en modern om gebruikers een snelle verbinding te bieden met volledige VPN-bescherming en -beveiliging. En aangezien de makers van deze VPN worden ondersteund door een <a href="{ $mission }">missiegedreven</a> bedrijf, kunt u erop vertrouwen dat de euro’s die u uitgeeft aan dit product er niet alleen voor zorgen dat u over een fantastische VPN beschikt, maar ook het internet beter voor iedereen maken.
+vpn-what-is-weve-done-the = We hebben het nodige gedaan om ervoor te zorgen dat de <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> uw privacy daadwerkelijk respecteert, en we zijn bereid om onze reputatie op daar op in te zetten. { -brand-name-mozilla } heeft de reputatie producten te maken die u helpen uw informatie veilig te houden. We volgen onze gemakkelijk te lezen, no-nonsense <a href="{ $principles }">Gegevensprivacyprincipes</a>, waardoor we ons puur kunnen concentreren op de gegevens die we nodig hebben om een service te verlenen. De { -brand-name-mozilla-vpn }-technologie is gestroomlijnd en modern om gebruikers een snelle verbinding te bieden met volledige VPN-bescherming en -beveiliging. En aangezien de makers van deze VPN worden ondersteund door een <a href="{ $mission }">missiegedreven</a> bedrijf, kunt u erop vertrouwen dat de euro’s die u uitgeeft aan dit product er niet alleen voor zorgen dat u over een fantastische VPN beschikt, maar ook het internet beter voor iedereen maken.
 vpn-what-is-can-vpns-protect = Kunnen VPN’s mij beschermen tegen cybercriminelen?
 # Variables
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
