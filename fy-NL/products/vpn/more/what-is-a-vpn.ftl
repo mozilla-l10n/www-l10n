@@ -14,6 +14,12 @@ vpn-what-is-how-do-vpns = Hoe wurkje VPN's?
 vpn-what-is-a-vpn-is = In VPN is in helpmiddel wêrmei’t jo oeral feilich tagong hawwe ta ynternet. In VPN wurket troch in feilige ‘tunnel’ te kreëarjen tusken jo apparaat en jo VPN-provider, en hy beskermet jo op twa wichtige manieren:
 vpn-what-is-concealing-your-ip = Ferbergjen fan jo IP-adres, wêrtroch jo identiteit en lokaasje beskerme wurde.
 vpn-what-is-encrypting-your-traffic = Fersifering fan jo ferkear tusken jo en jo VPN-provider, sadat nimmen yn jo lokale netwurk it ûntsiferje of oanpasse kin.
+vpn-what-is-in-the-past = Yn it ferline waarden VPN’s benammen brûkt troch bedriuwen om feilige tagong op ôfstân ta harren ynterne tsjinsten en bedriuwseigen gegevens mooglik te meitsjen. No binne VPN’s echter beskikber foar elkenien dy’t harren ferbining mei ynternet beskermje wol, foaral wannear’t dizze fia maklik tagonklike netwurken lykas iepenbiere wifi gean, mar it is sels handich op in thúsnetwurk.
+vpn-what-is-a-vpn-will = In VPN beskermet it ferkear dat jo tusken jo en jo VPN-provider ferstjoere, fia jo browser, apps of oare tsjinsten. Om in VPN yn te stellen, moatte jo in account oanmeitsje by in VPN-provider en de VPN-software op jo kompjûter of telefoan ynstallearje. Wannear ynskeakele, ferwurket in VPN it ferkear fan alle apps en software dy’t op jo apparaat útfierd wurde, sadat jo frij navigearje en kommunisearje kinne fia in befeilige priveenetwurkferbining.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-what-is-a-vpn-provider = In VPN-provider biedt trochgeans in oantal ferbiningsgateways op ferskate wrâldwide lokaasjes, wêrtroch jo in IP-adres fan in oare lânynstelling dan jo eigen brûke kinne. Op dy manier sjocht it plak wêrmei’t jo ferbining meitsje it IP-adres fan de VPN, net jo wurklike IP-adres, as de boarne fan jo ferkear. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> liedt jo ferkear fia in befeilige server en lit jo in lokaasje kieze út mear as { $countries } lannen.
 vpn-what-is-when-should-i = Wannear moat ik in VPN brûke?
 vpn-what-is-wait-i-thought = Wachtsje, ik tocht dat myn ynternetferkear al fersifere wie mei HTTPS…
 vpn-what-is-why-would-i = Wêrom soe ik in VPN brûke?
