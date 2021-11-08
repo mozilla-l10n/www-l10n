@@ -49,4 +49,7 @@ vpn-what-is-while-a-vpn = Hoewol in VPN in feilige ferbining mei ynternet biedt,
 vpn-what-is-are-vpns-legal = Binne VPN's legaal?
 vpn-what-is-installing-and-using = It ynstallearjen en brûken fan in VPN is op dit stuit legaal yn de measte lannen, wêrûnder de Ferienige Steaten, it FK, Kanada en Nij-Seelân, mar guon lannen kinne it gebrûk derfan regulearje. As jo derfoar kieze om in VPN te brûken, is it jo ferantwurdlikheid om de wetjouwing fan it lân te kontrolearjen om te bepalen oft it gebrûk derfan legaal is of net.
 vpn-what-is-are-vpns-only = Binne VPN's allinnich foar kompjûters?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-vpns-can-be = VPN’s kinne brûkt wurde om al jo apparaten te beskermjen: kompjûters, laptops, tablets en telefoans. As jo fia selsstannige apps bûten de browser tagong krije ta it ynternet, is in VPN in goede kar om jo privacy en feilichheid op elk apparaat te beskermjen. Jo moatte foar in goede wurking op elk apparaat in VPN ynstallearje. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> biedt in ûnbeheinde ferbining foar maksimaal fiif apparaten wannear’t jo ferbining meitsje mei it ynternet fan elke app of browser út.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: fluch, feilich, betrouber
