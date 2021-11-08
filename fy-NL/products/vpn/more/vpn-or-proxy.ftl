@@ -33,4 +33,12 @@ vpn-or-proxy-vpns-do-more = VPN’s dogge mear as proxys, omdat in proxy allinni
 vpn-or-proxy-a-vpn-works = In VPN wurket troch in feilige ‘tunnel’ te kreëarjen tusken jo apparaat en ynternet yn it algemien. Hy beskermet jo privacy op twa wichtige manieren:
 vpn-or-proxy-concealing-your-ip = Ferbergjen fan jo IP-adres, wêrby jo identiteit beskerme wurdt en jo lokaasje ferberge.
 vpn-or-proxy-encrypting-your-traffic = Fersifering fan jo ferkear tusken jo en jo VPN-provider, sadat nimmen yn jo lokale netwurk it ûntsiferje of oanpasse kin.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = In VPN biedt ek befeiliging op iepen en iepenbiere wifi-ferbiningen. Iepen wifi kin riskant wêze en it is net mooglik om der wis fan te wêzen dat in oar gjin ferbining makket mei itselde netwurk om jo aktiviteiten te bespionearjen. Sels as jo ferkear fersifere is, kinne se noch hieltyd sjen hokker websites jo besykje. En as jo in app brûke dy’t gjin fersifering biedt – en hjoed de dei binne dat der noch in protte – dan kinne se alles sjen wat jo dogge yn dy app. { -brand-name-mozilla-vpn } is in flugge, feilige en betroubere tsjinst dy’t jo helpe kin de befeiligingskleau te oerbrêgjen. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> lit jo ek jo ‘lokaasje’ kieze (wêr’t jo ferkear fan del liket te kommen) út mear as { $countries } lannen.
 vpn-or-proxy-choose-a-trustworthy = Kies in betroubere tsjinst
+# Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-or-proxy-the-most-important = It wichtichste om te oerweagjen by it kiezen fan in VPN of in proxytsjinst is it kiezen fan in betrouber bedriuw. Soargje derfoar dat jo de betingsten begripe wêrmei’t jo akkoard geane. In protte beweare geweldich te wêzen en rjochte op privacy, mar in grut tal fan harren komt harren belofte net nei. Net alle proxy- en VPN-tsinsten binne feilich en privee. Guon <a href="{ $cnet }">sille</a> jo online aktiviteiten <a href="{ $pcmag }">logge</a>, sadat se jo gegevens en ynformaasje sels oan marketingbedriuwen ferkeapje kinne. Oare tsjinsten sille jo probearje te oertsjûgjen om malware op jo apparaten te ynstallearjen.
