@@ -122,6 +122,9 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (allinnich { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Wat is it restitúsjebelied fan { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = As jo jo foar it earst abonnearje op { -brand-name-mozilla-vpn } fia de website fan { -brand-name-mozilla }, en as jo jo account binnen de earste 30 dagen annulearje, kinne jo om restitúsje freegje en betellet { -brand-name-mozilla } jo earste abonnemintsperioade werom.
+vpn-landing-faq-refund-question-additional-desc = As jo jo abonnemint oanskaffe fia yn-app-oankeapen by de { -brand-name-apple } { -brand-name-app-store } of de { -brand-name-google-play } Store, falt jo betelling ûnder de algemiene betingsten fan de { -brand-name-app-store }. Jo moatte alle fersiken om fakturearjen en weromjefte foar sokke oankeapen rjochtsje oan { -brand-name-apple } of { -brand-name-google }, ôfhinklik fan de situaasje.
+# Outdated string
 vpn-landing-faq-refund-question-desc = Jo kinne binnen 30 dagen neidat jo jo abonnemint oanskaft hawwe jo jild weromfreegje. Nim kontakt mei ús op en tsjinje it restitúsjefersyk yn troch yn jo { -brand-name-mozilla-vpn }-app yn Ynstellingen op de knop ‘Help krije’ te tikken.
 vpn-landing-faq-manage-subscription-question-heading = Hoe behear ik myn abonnemint?
 # Variables:
