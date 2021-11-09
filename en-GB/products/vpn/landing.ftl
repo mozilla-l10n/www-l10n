@@ -122,14 +122,15 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-only)
 vpn-landing-faq-refund-question-heading = What is { -brand-name-mozilla-vpn }’s refund policy?
+vpn-landing-faq-refund-question-desc-v2 = The first time you subscribe to { -brand-name-mozilla-vpn } through { -brand-name-mozilla }’s web site, if you cancel your account within the first 30 days, you may request a refund and { -brand-name-mozilla } will refund your first subscription term.
+vpn-landing-faq-refund-question-additional-desc = If you purchase your subscription through in-app purchase from the { -brand-name-apple } { -brand-name-app-store } or the { -brand-name-google-play } Store, your payment is subject to the terms and conditions of the { -brand-name-app-store }. You must direct any billing and refund inquiries for such purchases to { -brand-name-apple } or { -brand-name-google }, as appropriate.
+# Outdated string
 vpn-landing-faq-refund-question-desc = You can get your money back within 30 days of purchasing your subscription. Contact us and submit the refund request by tapping the “Get Help” button in Settings on your { -brand-name-mozilla-vpn } app.
 vpn-landing-faq-manage-subscription-question-heading = How do I manage my subscription?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = If you’re already subscribed to { -brand-name-mozilla-vpn }, you can change your plan or <a href="{ $url }">manage your subscription</a> anytime.
 vpn-landing-faq-link = See more FAQs
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Oops! It looks like you haven’t subscribed yet.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
