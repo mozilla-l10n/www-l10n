@@ -122,14 +122,15 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (alleen { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Wat is het restitutiebeleid van { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = Als u zich voor het eerst abonneert op { -brand-name-mozilla-vpn } via de website van { -brand-name-mozilla }, en als u uw account binnen de eerste 30 dagen annuleert, kunt u om restitutie vragen en betaalt { -brand-name-mozilla } uw eerste abonnementsperiode terug.
+vpn-landing-faq-refund-question-additional-desc = Als u uw abonnement aanschaft via in-app-aankopen bij de { -brand-name-apple } { -brand-name-app-store } of de { -brand-name-google-play } Store, valt uw betaling onder de algemene voorwaarden van de { -brand-name-app-store }. U dient alle verzoeken om facturering en teruggave voor dergelijke aankopen te richten aan { -brand-name-apple } of { -brand-name-google }, afhankelijk van de situatie.
+# Outdated string
 vpn-landing-faq-refund-question-desc = U kunt binnen 30 dagen nadat u uw abonnement hebt aangeschaft uw geld terugvragen. Neem contact met ons op en dien het restitutieverzoek in door in uw { -brand-name-mozilla-vpn }-app in Instellingen op de knop ‘Hulp verkrijgen’ te tikken.
 vpn-landing-faq-manage-subscription-question-heading = Hoe beheer ik mijn abonnement?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Als u al bent geabonneerd op { -brand-name-mozilla-vpn }, dan kunt u op elk gewenst moment uw abonnementsoort wijzigen of <a href="{ $url }">uw abonnement beheren</a>.
 vpn-landing-faq-link = Meer veelgestelde vragen lezen
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Oeps! Het lijkt erop dat u nog geen abonnement hebt.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
