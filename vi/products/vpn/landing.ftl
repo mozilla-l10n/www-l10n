@@ -122,6 +122,9 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (chỉ phiên bản { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Chính sách hoàn lại tiền của { -brand-name-mozilla-vpn } là gì?
+vpn-landing-faq-refund-question-desc-v2 = Lần đầu tiên bạn đăng ký { -brand-name-mozilla-vpn } thông qua trang web của { -brand-name-mozilla }, nếu bạn hủy tài khoản của mình trong vòng 30 ngày đầu tiên, bạn có thể yêu cầu hoàn lại tiền và { -brand-name-mozilla } sẽ hoàn lại tiền cho thời hạn thuê bao đầu tiên của bạn.
+vpn-landing-faq-refund-question-additional-desc = Nếu bạn mua đăng ký của mình thông qua mua hàng trong ứng dụng từ { -brand-name-apple } { -brand-name-app-store } hoặc Cửa hàng { -brand-name-google-play }, thì khoản thanh toán của bạn phải tuân theo các điều khoản và điều kiện của { -brand-name-app-store }. Bạn phải chuyển mọi yêu cầu thanh toán và hoàn tiền cho các giao dịch mua đó đến { -brand-name-apple } hoặc { -brand-name-google }, nếu thích hợp.
+# Outdated string
 vpn-landing-faq-refund-question-desc = Bạn có thể nhận lại tiền trong vòng 30 ngày kể từ ngày mua đăng ký của mình. Liên hệ với chúng tôi và gửi yêu cầu hoàn lại tiền bằng cách nhấn vào nút “Nhận trợ giúp” trong Cài đặt trên ứng dụng { -brand-name-mozilla-vpn } của bạn.
 vpn-landing-faq-manage-subscription-question-heading = Làm cách nào để quản lý thuê bao của tôi?
 # Variables:
