@@ -122,14 +122,15 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (Μόνο για { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Ποια είναι η πολιτική επιστροφής χρημάτων του { -brand-name-mozilla-vpn };
+vpn-landing-faq-refund-question-desc-v2 = Την πρώτη φορά που θα εγγραφείτε στο { -brand-name-mozilla-vpn } μέσω του ιστοτόπου της { -brand-name-mozilla }, εάν ακυρώσετε τον λογαριασμό σας εντός των πρώτων 30 ημερών, μπορείτε να ζητήσετε επιστροφή χρημάτων και η { -brand-name-mozilla } θα σας επιστρέψει το ποσό της πρώτης σας συνδρομής.
+vpn-landing-faq-refund-question-additional-desc = Αν αγοράσετε τη συνδρομή σας εντός της εφαρμογής από το { -brand-name-apple } { -brand-name-app-store } ή το { -brand-name-google-play } Store, η πληρωμή σας υπόκειται στους όρους και τις προϋποθέσεις του { -brand-name-app-store }. Θα πρέπει να απευθυνθείτε, αναλόγως, στην { -brand-name-apple } ή την { -brand-name-google } για τυχόν απορίες σχετικά με τη χρέωση και την επιστροφή χρημάτων.
+# Outdated string
 vpn-landing-faq-refund-question-desc = Μπορείτε να πάρετε τα χρήματά σας πίσω εντός 30 ημερών από την αγορά της συνδρομής σας. Επικοινωνήστε μαζί μας και υποβάλλετε ένα αίτημα επιστροφής χρημάτων πατώντας το κουμπί “Λήψη βοήθειας” στις Ρυθμίσεις της εφαρμογής { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Πώς διαχειρίζομαι τη συνδρομή μου;
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Αν έχετε ήδη εγγραφεί στο { -brand-name-mozilla-vpn }, μπορείτε να αλλάξετε το πρόγραμμά σας ή να <a href="{ $url }">διαχειριστείτε τη συνδρομή σας</a> ανά πάσα στιγμή.
 vpn-landing-faq-link = Δείτε περισσότερες συχνές ερωτήσεις
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Ωχ! Φαίνεται ότι δεν έχετε εγγραφεί ακόμα.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
