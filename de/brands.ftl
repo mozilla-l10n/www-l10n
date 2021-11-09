@@ -84,7 +84,7 @@
 -brand-name-firefox-os = Firefox OS
 -brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-send = Firefox Send
--brand-name-send = Absenden
+-brand-name-send = Send
 
 ## Pocket
 
