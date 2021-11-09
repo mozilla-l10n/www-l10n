@@ -122,14 +122,15 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (dim ond { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Beth yw polisi ad-dalu { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = Y tro cyntaf y byddwch chi'n tanysgrifio i { -brand-name-mozilla-vpn } trwy wefan { -brand-name-mozilla }, byddwch yn gallu diddymu'ch cyfrif o fewn y 30 diwrnod cyntaf,  gallwch ofyn am ad-daliad a bydd { -brand-name-mozilla } yn ad-dalu'ch cyfnod tanysgrifio cyntaf.
+vpn-landing-faq-refund-question-additional-desc = Os ydych chi'n prynu'ch tanysgrifiad trwy'r { -brand-name-apple } { -brand-name-app-store } neu'r storfa { -brand-name-google-play }, mae eich taliad yn ddarostyngedig i delerau ac amodau'r { -brand-name-app-store }. Rhaid i chi gyfeirio unrhyw ymholiadau bilio ac ad-dalu am bryniannau o'r fath i { -brand-name-apple } neu { -brand-name-google }, fel sy'n briodol.
+# Outdated string
 vpn-landing-faq-refund-question-desc = Gallwch gael eich arian yn ôl cyn pen 30 diwrnod ar ôl prynu'ch tanysgrifiad. Cysylltwch â ni a chyflwyno'ch cais am ad-daliad trwy dapio'r botwm “Get Help” yng Ngosodiadau ar eich ap { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Sut fydda i'n rheoli fy nhanysgrifiad?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Os ydych chi eisoes wedi tanysgrifio i { -brand-name-mozilla-vpn }, gallwch newid eich cynllun neu <a href="{ $url }">rheoli eich tanysgrifiad</a> ar unrhyw adeg.
 vpn-landing-faq-link = Gweld ragor o Gwestiynau Cyffredin
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Wps! Mae'n edrych fel nad ydych chi wedi tanysgrifio eto.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
