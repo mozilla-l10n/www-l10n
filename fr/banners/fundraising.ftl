@@ -6,7 +6,7 @@
 
 banner-fundraising-title = L’avenir se joue en ligne. Aidez { -brand-name-mozilla } à lutter pour un Web pour tout le monde.
 banner-fundraising-body = Nos données personnelles sont collectées à chaque fois que nous accédons au Web, et il n’est pas facile de savoir comment elles sont traitées. La désinformation rend de plus en plus difficile notre recherche de la vérité. Des objets connectés sont mis sur le marché sans respecter de critères élémentaires de sécurité. L’organisation à but non lucratif { -brand-name-mozilla-foundation } se bat pour rendre Internet sûr, ouvert et accessible à tout le monde. <strong>Pouvez-vous faire un don aujourd’hui ?</strong>
-banner-fundraising-monthly = 1 mois
+banner-fundraising-monthly = Mensuel
 banner-fundraising-one-time = Unique
 banner-fundraising-donate = Faire un don
 
