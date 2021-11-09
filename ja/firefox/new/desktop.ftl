@@ -37,7 +37,9 @@ firefox-desktop-download-blocks-social-trackers = ソーシャルトラッカー
 firefox-desktop-download-os-availability = OS 対応
 firefox-desktop-download-in-browser-screenshot = ブラウザー内スクリーンショットツール
 firefox-desktop-download-primary-password = プライマリパスワード
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = オンライン生活を大切に
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = あなたのためのインターネットです。いくつものツールやテーマ、拡張機能で、思いのままのカラーにカスタマイズ。Firefox は利益よりもユーザーファーストのオリジナルブラウザーです。
 

@@ -37,7 +37,9 @@ firefox-desktop-download-blocks-social-trackers = Menyekat pengesan sosial
 firefox-desktop-download-os-availability = Ketersediaan OS
 firefox-desktop-download-in-browser-screenshot = Ciri tangkapan skrin dalam pelayar
 firefox-desktop-download-primary-password = Kata laluan utama
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Sayangi hidup anda dalam talian
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Ini internet anda. Warnainya mengikut kemahuan anda dengan ribuan alatan, tema dan sambungan. Firefox ialah pelayar alternatif asal yang mengutamakan pengguna daripada keuntungan.
 
