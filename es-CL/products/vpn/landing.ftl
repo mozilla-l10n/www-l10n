@@ -122,14 +122,15 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (solo para { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = ¿Cuál es la política de reembolso de { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = Para la primera vez que se suscribas a { -brand-name-mozilla-vpn } a través del sitio web de { -brand-name-mozilla }, si es que llegas a cancelar tu cuenta dentro de los primeros 30 días, puedes solicitar un reembolso y { -brand-name-mozilla } te reembolsará tu primer período de suscripción.
+vpn-landing-faq-refund-question-additional-desc = Si compras tu suscripción desde dentro de la aplicación en las tiendas de { -brand-name-apple } { -brand-name-app-store } o { -brand-name-google-play }, tu pago queda sujeto a la términos y condiciones de la { -brand-name-app-store }. Debes dirigir cualquier consulta de facturación y reembolso de dichas compras a { -brand-name-apple } o { -brand-name-google }, según corresponda.
+# Outdated string
 vpn-landing-faq-refund-question-desc = Puedes recuperar tu dinero dentro de los 30 días siguientes a la compra de tu suscripción. Contáctanos y envía la solicitud de reembolso seleccionando el botón "Obtener ayuda" en Ajustes dentro de tu aplicación { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = ¿Cómo administro mi suscripción?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Si ya estás suscrito a { -brand-name-mozilla-vpn }, puedes cambiar tu plan o <a href="{ $url }">administrar tu suscripción</a> en cualquier momento.
 vpn-landing-faq-link = Ver más preguntas frecuentes
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = ¡Chuta! Parece que aún no te has suscrito.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
