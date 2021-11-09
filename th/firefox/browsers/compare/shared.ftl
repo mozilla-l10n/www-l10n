@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = ปิดกั้นคุ
 # Obsolete string
 compare-shared-blocks-third-party-tracking = ปิดกั้นคุกกี้ติดตามจากบุคคลที่สาม
 compare-shared-blocks-cryptomining-scripts = ปิดกั้นสคริปต์การขุดเหรียญดิจิทัล
+compare-shared-blocks-fingerprinting-scripts = ปิดกั้นสคริปต์ลายนิ้วมือดิจิทัล
 compare-shared-blocks-social-trackers = ปิดกั้นตัวติดตามทางสังคม
+compare-shared-dashboard-to-review = แดชบอร์ดสำหรับตรวจสอบตัวติดตามที่ถูกปิดกั้น
 compare-shared-autoplay-blocking = ปิดกั้นการเล่นอัตโนมัติ
 compare-shared-tab-browsing = การเรียกดูแท็บ
 compare-shared-bookmark-manager = ตัวจัดการที่คั่นหน้า
 compare-shared-automatically-fills-out-forms = กรอกแบบฟอร์มโดยอัตโนมัติ
+compare-shared-automatically-fills-out-payments = กรอกข้อมูลการชำระเงินโดยอัตโนมัติ
 compare-shared-search-engine-options = ตัวเลือกเครื่องมือค้นหา
 compare-shared-text-to-speech = การแปลงข้อความเป็นคำพูด
 compare-shared-reader-mode = โหมดผู้อ่าน
