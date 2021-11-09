@@ -123,6 +123,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (apenas { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Qual é a política de reembolso do { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Na primeira vez que fizer uma assinatura do { -brand-name-mozilla-vpn } pelo site da { -brand-name-mozilla }, se você cancelar sua conta nos primeiros 30 dias poderá pedir um reembolso e a { -brand-name-mozilla } reembolsará seu primeiro período de assinatura.
+vpn-landing-faq-refund-question-additional-desc = Se você fizer uma assinatura através de compra no aplicativo usando { -brand-name-app-store } da { -brand-name-apple } ou { -brand-name-google-play } Store, seu pagamento estará sujeito aos termos e condições da { -brand-name-app-store }. Quaisquer dúvidas sobre cobrança ou reembolso de compras como essa devem ser direcionadas à { -brand-name-apple } ou ao { -brand-name-google }, conforme o caso.
 # Outdated string
 vpn-landing-faq-refund-question-desc = Você pode receber seu dinheiro de volta até 30 dias após adquirir sua assinatura. Entre em contato conosco e envie o pedido de reembolso tocando no botão “Pedir ajuda” nas configurações do seu aplicativo { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Como gerenciar minha assinatura?
