@@ -122,6 +122,9 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (vetëm për { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Cilat janë rregullat e rimbursimit për { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = Herën e parë që pajtoheni te { -brand-name-mozilla-vpn } përmes sajtit të  { -brand-name-mozilla }-s, nëse e anuloni llogarinë tuaj brenda 30 ditëve të para, mund të kërkoni një rimbursim dhe { -brand-name-mozilla } do të rimbursojë periudhën tuaj të parë të pajtimit.
+vpn-landing-faq-refund-question-additional-desc = Nëse blini një pajtim përmes blerjes që nga brenda aplikacionit, prej { -brand-name-apple } { -brand-name-app-store } apo { -brand-name-google-play } Store, pagesa juaj është subjekt i termave dhe kushteve të { -brand-name-app-store }. Duhet t’i drejtoheni { -brand-name-apple }-it apo { -brand-name-google }-it për çfarëdo çështjesh faturimi dhe rimbursimi, si rruga e duhur.
+# Outdated string
 vpn-landing-faq-refund-question-desc = Mund të merrni paratë mbrapsht brenda 30 ditësh nga blerja e pajtimit tuaj. Lidhuni me ne dhe parashtrojeni kërkesën për rimbursim duke prekur mbi butonin “Merrni Ndihmë” te Rregullimet e aplikacionit tuaj { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Si ta administroj pajtimin tim?
 # Variables:
