@@ -20,3 +20,4 @@ compare-chrome-at-firefox-we-have-a-huge-fallback = ที่ { -brand-name-fire
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = เรายังตอกย้ำความมุ่งมั่นของเราในเรื่องความเป็นส่วนตัวและความโปร่งใสเกี่ยวกับข้อมูลผู้ใช้ใน<a { $attrs }>ประกาศเกี่ยวกับความเป็นส่วนตัว</a>ล่าสุดซึ่งระบุว่า “ที่ Mozilla เราเชื่อว่าความเป็นส่วนตัวเป็นพื้นฐานของอินเทอร์เน็ตที่แข็งแกร่ง”
+compare-chrome-google-chrome-is-by-all-accounts = หากพูดรวม ๆ แล้ว { -brand-name-google } { -brand-name-chrome } ก็เป็นเบราว์เซอร์ที่ปลอดภัยเช่นกัน โดยมีคุณลักษณะอย่าง { -brand-name-google } Safe Browsing ซึ่งช่วยปกป้องผู้ใช้โดยแสดงคำเตือนให้เห็นเมื่อพยายามเข้าไปยังไซต์ที่อันตรายหรือดาวน์โหลดไฟล์ที่อันตราย
