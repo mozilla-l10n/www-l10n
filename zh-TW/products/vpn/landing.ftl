@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -80,9 +80,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } 已
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 相容於:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10（僅 64 位元版本）
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11（僅 64 位元版本）
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10（僅 64 位元）
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10（僅 64 位元版本）
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a>（10.14 或更新版本）
@@ -120,14 +122,13 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux }（僅 { -brand-name-ubuntu } 平台）
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } 的退款政策是什麼？
+# Outdated string
 vpn-landing-faq-refund-question-desc = 您可以在開始訂閱後 30 天內要求退費。若需退費，請點擊 { -brand-name-mozilla-vpn } 應用程式當中的「選項 -> 取得幫助」送出退費要求。
 vpn-landing-faq-manage-subscription-question-heading = 我要如何管理訂閱？
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = 若您已經訂閱了 { -brand-name-mozilla-vpn }，可以隨時更改方案或<a href="{ $url }">管理訂閱</a>。
 vpn-landing-faq-link = 看更多常見問題
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = 喔喔！看來您還沒有訂閱。
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
