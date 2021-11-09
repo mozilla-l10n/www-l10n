@@ -122,14 +122,15 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (лише { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Яка політика відшкодування { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = Якщо ви вперше передплачуєте { -brand-name-mozilla-vpn } через вебсайт { -brand-name-mozilla }, а потім скасуєте передплату протягом перших 30 днів, ви можете подати запит на відшкодування і { -brand-name-mozilla } поверне гроші за ваш перший термін передплати.
+vpn-landing-faq-refund-question-additional-desc = Якщо ви здійснюєте передплату через { -brand-name-apple } { -brand-name-app-store } або { -brand-name-google-play } Маркет, ваш платіж підлягає під положення та умови { -brand-name-app-store }. Будь-які запити щодо виставлення рахунків та відшкодування таких покупок необхідно направити на адресу { -brand-name-apple } або { -brand-name-google }, залежно від обставин.
+# Outdated string
 vpn-landing-faq-refund-question-desc = Ви можете повернути свої гроші впродовж 30 днів з моменту придбання передплати. Зв’яжіться з нами та надішліть запит на повернення коштів, натиснувши кнопку «Отримати допомогу» у Налаштуваннях своєї програми { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Як керувати передплатою?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Якщо ви вже передплатили { -brand-name-mozilla-vpn }, ви можете будь-коли змінити план або <a href="{ $url }">керувати передплатою</a>.
 vpn-landing-faq-link = Докладніше у ЧаП
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Йой! Схоже, ви ще не передплатили послугу.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
