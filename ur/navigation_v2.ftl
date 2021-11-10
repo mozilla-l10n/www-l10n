@@ -1,11 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } ڈائونلوڈ کریں
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } حاصل کریں
+navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } حاصل کریں
 navigation-v2-menu = مینیو
+# Obsolete string
+navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } حاصل کریں
 
 ## Firefox menu
 

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/contribute/
@@ -27,6 +27,7 @@ contribute-read-manifesto = ہمارا منشور پڑھیں
 contribute-find-event = ایک واقعہ تلاش کریں
 contribute-meet-volunteers = ہمارے پرجوش رضاکاروں سے ملیں
 contribute-donate = عطیہ
+contribute-follow-mozilla = { -brand-name-mozilla } کو فالو کریں
 contribute-opportunities = خبروں اور رضاکاروں کے مواقع
 
 ## Made by
