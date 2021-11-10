@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Skärmdumpsverktyg i webbläsar
 firefox-desktop-download-primary-password = Huvudlösenord
 firefox-desktop-love-your-life = Gilla ditt liv online
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = Det är ditt internet. Färglägg det som du vill med tusentals verktyg, teman och tillägg. Firefox är den ursprungliga alternativa webbläsaren som sätter människor före vinster.
+firefox-desktop-its-your-internet = Det är ditt internet. Färglägg det som du vill med tusentals verktyg, teman och tillägg. { -brand-name-firefox } är den ursprungliga alternativa webbläsaren som sätter människor före vinster.
 # Obsolete string
 firefox-desktop-download-master-password = Huvudlösenord
 firefox-desktop-download-we-block-the-ad = Vi blockerar annonsspårarna. Du utforskar internet snabbare.

@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Herramienta de captura de panta
 firefox-desktop-download-primary-password = Contraseña primaria
 firefox-desktop-love-your-life = Ama tu vida en línea
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = Es tu Internet. Píntalo a tu tinca con miles de herramientas, temas y extensiones. Firefox es el navegador alternativo original que coloca a las personas por sobre las ganancias.
+firefox-desktop-its-your-internet = Es tu Internet. Píntalo a tu tinca con miles de herramientas, temas y extensiones. { -brand-name-firefox } es el navegador alternativo original que coloca a las personas por sobre las ganancias.
 # Obsolete string
 firefox-desktop-download-master-password = Contraseña primaria
 firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores publicitarios. Por ello, exploras internet más rápido.

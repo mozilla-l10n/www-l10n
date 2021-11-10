@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Teclyn llun sgrin o fewn y porw
 firefox-desktop-download-primary-password = Prif gyfrinair
 firefox-desktop-love-your-life = Carwch eich bywyd ar-lein
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = Eich rhyngrwyd chi yw hi. Lliwiwch hi yn y ffordd rydych chi ei eisiau gyda miloedd o offer, themâu ac estyniadau. Firefox yw'r porwr amgen gwreiddiol sy'n rhoi pobl cyn elw.
+firefox-desktop-its-your-internet = Eich rhyngrwyd chi yw hi. Lliwiwch hi yn y ffordd rydych chi ei eisiau gyda miloedd o offer, themâu ac estyniadau. { -brand-name-firefox } yw'r porwr amgen gwreiddiol sy'n rhoi pobl cyn elw.
 # Obsolete string
 firefox-desktop-download-master-password = Prif gyfrinair
 firefox-desktop-download-we-block-the-ad = Rydyn ni'n rhwystro tracwyr hysbysebion. Rydych chi'n crwydro'r rhyngrwyd yn gynt.

@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Ενσωματωμένο εργ
 firefox-desktop-download-primary-password = Κύριος κωδικός πρόσβασης
 firefox-desktop-love-your-life = Αγαπήστε τη διαδικτυακή σας ζωή
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = Είναι το διαδίκτυό σας. Προσαρμόστε το όπως θέλετε με χιλιάδες εργαλεία, θέματα και επεκτάσεις. Το Firefox είναι το πρώτο εναλλακτικό πρόγραμμα περιήγησης που βάζει τους ανθρώπους πάνω από το κέρδος.
+firefox-desktop-its-your-internet = Είναι το διαδίκτυό σας. Προσαρμόστε το όπως θέλετε με χιλιάδες εργαλεία, θέματα και επεκτάσεις. Το { -brand-name-firefox } είναι το πρώτο εναλλακτικό πρόγραμμα περιήγησης που βάζει τους ανθρώπους πάνω από το κέρδος.
 # Obsolete string
 firefox-desktop-download-master-password = Κύριος κωδικός πρόσβασης
 firefox-desktop-download-we-block-the-ad = Φραγή ιχνηλατών διαφημίσεων. Ταχύτερη εξερεύνηση του ιστού.

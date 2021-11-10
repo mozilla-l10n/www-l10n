@@ -41,7 +41,7 @@ firefox-desktop-download-primary-password = كلمة مرور رئيسية
 firefox-desktop-love-your-life = عِش حياتك على الإنترنت
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = إنه الإنترنت الخاص بك. زيّنه بالطريقة التي تحلو لك مع آلاف الأدوات والأشكال والامتدادات. يُعد Firefox المتصفّح البديل الأصلي الذي يُقدّم الناس على الأرباح.
+firefox-desktop-its-your-internet = إنه الإنترنت الخاص بك. زيّنه بالطريقة التي تحلو لك مع آلاف الأدوات والأشكال والامتدادات. يُعد { -brand-name-firefox } المتصفّح البديل الأصلي الذي يُقدّم الناس على الأرباح.
 
 # Obsolete string
 firefox-desktop-download-master-password = كلمة المرور الرئيسية
