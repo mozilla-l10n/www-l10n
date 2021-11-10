@@ -24,6 +24,7 @@ firefox-products-see-all-browsers = Wšykne wobglědowaki pokazaś
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstaraś
 firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Šćitajśo swóju napšawdnu e-mailowu adresu, aby swój postowy dochad lěpjej kontrolěrował.
 firefox-products-learn-more-about-relay = Dalšne informacije wó { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }

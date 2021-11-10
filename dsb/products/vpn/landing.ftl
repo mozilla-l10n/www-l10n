@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -49,9 +49,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } jo 
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } jo kompatibelny z:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a>10 (jano 64-bitowy)
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a>10/11 (jano 64-bitowy)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } (jano 64-bitowy)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a>10 (jano 64-bitowy)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 a nowše)
@@ -94,8 +96,6 @@ vpn-landing-faq-manage-subscription-question-heading = Kak mógu swój abonement
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Jolic sćo južo aboněrował { -brand-name-mozilla-vpn }, móžośo kuždy cas swój tarif změniś abo <a href="{ $url }">swój abonement zastojaś</a>.
 vpn-landing-faq-link = Glejśo dalšne cesto stajone pšašanja
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Hopla! Zazdaśim hyšći njejsćo wótzamknuł abonement.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
