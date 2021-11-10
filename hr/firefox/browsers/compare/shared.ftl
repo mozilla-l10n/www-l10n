@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -10,13 +10,17 @@ compare-shared-yes = Da
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Ne
 compare-shared-private-browsing-mode = Modus privatnog pregledavanja
+compare-shared-blocks-third-party-tracking-default = Standardno blokira kolačiće za praćenje trećih strana
+# Obsolete string
 compare-shared-blocks-third-party-tracking = Blokira kolačiće za praćenje trećih strana
 compare-shared-blocks-cryptomining-scripts = Blokira skripte za kriptominiranje
 compare-shared-blocks-social-trackers = Blokira programe za praćenje od društvenih mreža
+compare-shared-dashboard-to-review = Nadzorna ploča za pregled blokiranih sustava za praćenje
 compare-shared-autoplay-blocking = Automatski pokreni blokiranje
 compare-shared-tab-browsing = Pregledavanje pomoću kartica
 compare-shared-bookmark-manager = Upravljanje zabilješkama
 compare-shared-automatically-fills-out-forms = Automatski ispunjava obrasce
+compare-shared-automatically-fills-out-payments = Automatski ispunjava uplate
 compare-shared-search-engine-options = Opcije za tražilice
 compare-shared-text-to-speech = Tekst u govor
 compare-shared-reader-mode = Modus čitača
@@ -27,6 +31,8 @@ compare-shared-os-availability = Dostupnost na operacijskim sustavima
 compare-shared-mobile-os-availability = Dostupnost na operacijskim sustavima mobilnih uređaja
 compare-shared-syncs-with-mobile = Sinkronizira s mobilnim uređajima
 compare-shared-password-management = Upravljanje lozinkama
+compare-shared-primary-password = Primarna lozinka
+# Obsolete string
 compare-shared-master-password = Glavna lozinka
 compare-shared-security-and-privacy = Sigurnost i privatnost
 compare-shared-utility = Korisnost
@@ -46,4 +52,10 @@ compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
+compare-shared-download-firefox = Preuzmi { -brand-name-firefox }
+compare-shared-download-firefox-browser = Preuzmi { -brand-name-firefox-browser }
+compare-shared-download-the-app = Preuzmi program
+compare-shared-desktop = Desktop
+compare-shared-brand-name-android = { -brand-name-android }
+compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = Usporedi preglednike
