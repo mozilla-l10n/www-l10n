@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
@@ -10,6 +10,8 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Wobglědowak { -brand-name-firefox } za { -brand-name-android } jo malsny, wěsty a priwatny wót zachopjeńka.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+mobile-android-go-mobile-go = Buźćo mobilny. Buźćo njewótwisny z { -brand-name-firefox } za { -brand-name-android }
 mobile-android-get-firefox-for = Wobstarajśo se { -brand-name-firefox } za { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Sćelśo swójomu telefonoju ześěgnjeński wótkaz.
 mobile-android-scan-the-qr-code-to-get-started = Skannujśo QR-kod, aby zachopił
@@ -24,3 +26,6 @@ mobile-android-pick-up-where = Cyńśo tam dalej, źož sćo pśestał
 mobile-android-search-from-your = Pytajśo na startowej wobrazowce swójogo telefona
 mobile-android-pin-videos-to = Wideo k wašej wobrazowce pśipěś
 mobile-android-about-mozilla = Wó { -brand-name-mozilla }
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Wótkrocćo drogu pśez internet z { -brand-name-firefox } za { -brand-name-android }
+mobile-android-own-your-home = Mějśo swójsku startowu wobrazowku
