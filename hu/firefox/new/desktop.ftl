@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Böngészőn belüli képernyő
 firefox-desktop-download-primary-password = Elsődleges jelszó
 firefox-desktop-love-your-life = Szeresse az online életét
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = Ez az Ön internete. Színezze olyanra, amilyenre szeretné az eszközök, témák és kiegészítők ezreivel. A Firefox az eredeti alternatív böngésző, amely az embereket helyezi a profit elé.
+firefox-desktop-its-your-internet = Ez az Ön internete. Színezze olyanra, amilyenre szeretné az eszközök, témák és kiegészítők ezreivel. A { -brand-name-firefox } az eredeti alternatív böngésző, amely az embereket helyezi a profit elé.
 # Obsolete string
 firefox-desktop-download-master-password = Mesterjelszó
 firefox-desktop-download-we-block-the-ad = Blokkoljuk a hirdetéskövetőket. Gyorsabban fedezheti fel az internetet.

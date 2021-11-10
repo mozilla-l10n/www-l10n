@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Orodje za zajemanje zaslonskih 
 firefox-desktop-download-primary-password = Glavno geslo
 firefox-desktop-love-your-life = Imejte radi svoje spletno življenje
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = To je vaš internet. Oblikujte ga po svoje s tisočerimi orodji, temami in razširitvami. Firefox je izvirni alternativni brskalnik, ki ljudi postavlja pred dobiček.
+firefox-desktop-its-your-internet = To je vaš internet. Oblikujte ga po svoje s tisočerimi orodji, temami in razširitvami. { -brand-name-firefox } je izvirni alternativni brskalnik, ki ljudi postavlja pred dobiček.
 # Obsolete string
 firefox-desktop-download-master-password = Glavno geslo
 firefox-desktop-download-we-block-the-ad = Mi zavračamo oglaševalske sledilce. Vi hitreje brskate po sletu.

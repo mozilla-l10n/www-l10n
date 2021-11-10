@@ -41,7 +41,7 @@ firefox-desktop-download-primary-password = プライマリパスワード
 firefox-desktop-love-your-life = オンライン生活を大切に
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = あなたのためのインターネットです。いくつものツールやテーマ、拡張機能で、思いのままのカラーにカスタマイズ。Firefox は利益よりもユーザーファーストのオリジナルブラウザーです。
+firefox-desktop-its-your-internet = あなたのためのインターネットです。いくつものツールやテーマ、拡張機能で、思いのままのカラーにカスタマイズ。{ -brand-name-firefox } は利益よりもユーザーファーストのオリジナルブラウザーです。
 
 # Obsolete string
 firefox-desktop-download-master-password = マスターパスワード

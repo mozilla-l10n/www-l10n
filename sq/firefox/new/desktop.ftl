@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Mjet fotografimi ekrani brenda 
 firefox-desktop-download-primary-password = Fjalëkalim parësor
 firefox-desktop-love-your-life = Duajeni jetën tuaj internetore
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = Është interneti juaj. Ngjyroseni si doni, me mijëra mjete, tema dhe zgjerime. Firefox-i është shfletuesi alternativ që vendos njerëzit përpara fitimeve.
+firefox-desktop-its-your-internet = Është interneti juaj. Ngjyroseni si doni, me mijëra mjete, tema dhe zgjerime. { -brand-name-firefox }-i është shfletuesi alternativ që vendos njerëzit përpara fitimeve.
 # Obsolete string
 firefox-desktop-download-master-password = Fjalëkalim i përgjithshëm
 firefox-desktop-download-we-block-the-ad = Ne bllokojmë gjurmues reklamash. Ju eksploroni internetin më shpejt.

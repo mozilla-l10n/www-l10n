@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Helpmiddel foar skermôfdrukken
 firefox-desktop-download-primary-password = Haadwachtwurd
 firefox-desktop-love-your-life = Hâld fan jo libben online
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = It is jo ynternet. Kleur it sa as jo wolle mei tûzenen helpmiddelen, tema’s en útwreidingen. Firefox is de orizjinele alternative browser dy't minsken boppe winst stelt.
+firefox-desktop-its-your-internet = It is jo ynternet. Kleur it sa as jo wolle mei tûzenen helpmiddelen, tema’s en útwreidingen. { -brand-name-firefox } is de orizjinele alternative browser dy't minsken boppe winst stelt.
 # Obsolete string
 firefox-desktop-download-master-password = Haadwachtwurd
 firefox-desktop-download-we-block-the-ad = Wy blokkearje de advertinsje-trackers. Jo sneupe flugger oer it ynternet.

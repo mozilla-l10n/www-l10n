@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Công cụ chụp màn hình tr
 firefox-desktop-download-primary-password = Mật khẩu chính
 firefox-desktop-love-your-life = Yêu cuộc sống trực tuyến của bạn
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = Đó là internet của bạn. Tô màu theo cách bạn muốn với hàng nghìn công cụ, chủ đề và tiện ích mở rộng. Firefox là trình duyệt thay thế ban đầu đặt mọi người lên trước lợi nhuận.
+firefox-desktop-its-your-internet = Đó là internet của bạn. Tô màu theo cách bạn muốn với hàng nghìn công cụ, chủ đề và tiện ích mở rộng. { -brand-name-firefox } là trình duyệt thay thế ban đầu đặt mọi người lên trước lợi nhuận.
 # Obsolete string
 firefox-desktop-download-master-password = Mật khẩu chính
 firefox-desktop-download-we-block-the-ad = Chúng tôi chặn trình theo dõi quảng cáo. Bạn khám phá internet nhanh hơn.

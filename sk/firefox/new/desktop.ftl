@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Nástroj na snímanie obrazovky
 firefox-desktop-download-primary-password = Hlavné heslo
 firefox-desktop-love-your-life = Milujte svoj život online
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = Je to váš internet. Vyfarbite si ho tak, ako chcete, s tisíckami nástrojov, tém vzhľadu a rozšírení. Firefox je originálny alternatívny prehliadač, ktorý uprednostňuje ľudí pred ziskom.
+firefox-desktop-its-your-internet = Je to váš internet. Vyfarbite si ho tak, ako chcete, s tisíckami nástrojov, tém vzhľadu a rozšírení. { -brand-name-firefox } je originálny alternatívny prehliadač, ktorý uprednostňuje ľudí pred ziskom.
 # Obsolete string
 firefox-desktop-download-master-password = Hlavné heslo
 firefox-desktop-download-we-block-the-ad = Blokujeme sledovacie prvky reklám. Internet preto preskúmate rýchlejšie.

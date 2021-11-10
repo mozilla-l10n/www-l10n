@@ -40,7 +40,7 @@ firefox-desktop-download-in-browser-screenshot = Вбудований засіб
 firefox-desktop-download-primary-password = Головний пароль
 firefox-desktop-love-your-life = Любіть своє онлайн-життя
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = Це ваш інтернет. Прикрасьте його на свій смак за допомогою тисяч інструментів, тем і розширень. Firefox — оригінальний альтернативний браузер, який ставить людей понад прибуток.
+firefox-desktop-its-your-internet = Це ваш інтернет. Прикрасьте його на свій смак за допомогою тисяч інструментів, тем і розширень. { -brand-name-firefox } — оригінальний альтернативний браузер, який ставить людей понад прибуток.
 # Obsolete string
 firefox-desktop-download-master-password = Головний пароль
 firefox-desktop-download-we-block-the-ad = Ми блокуємо елементи стеження оголошень. Ви швидше переглядаєте в Інтернеті.
