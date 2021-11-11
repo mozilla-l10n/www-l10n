@@ -27,6 +27,7 @@ mobile-ios-your-browsing-history = 浏览历史已成历史
 mobile-ios-if-you-want = 如有需要，您可以轻松选择通过隐私浏览模式上网和搜索。当您关闭隐私浏览模式时，您的浏览历史及所有 Cookie 都会从您的设备中自动删除。
 mobile-ios-get-more-firefox = { -brand-name-firefox } 让您的生活更美好
 mobile-ios-add-firefox-across-v2 = 在您的设备上安装 { -brand-name-firefox } 以获得安全、无缝的浏览体验。 同步您的设备，将您的书签、保存的登录信息、密码和浏览历史随身带走。另外，您可以在手机和电脑之间发送打开的标签页，以从您离开的地方继续。
+mobile-ios-get-to-your-go-to = 在 { -brand-name-iphone } 和 { -brand-name-ipad } 上冲浪更畅快。
 mobile-ios-see-your-open-tabs = 使用 { -brand-name-ios } 版 { -brand-name-firefox-browser }，随时查看打开的标签页、过去的搜索和喜爱的网站。
 mobile-ios-own-your-home = 个性化的主页
 # Obsolete string
