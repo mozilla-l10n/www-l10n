@@ -30,7 +30,7 @@ privacy-index-get-involved = شارك
 privacy-index-as-an-open-source-project = كمشروع مفتوح المصدر، تُعد الشفافية والانفتاح جزءًا أساسيًا من المبادئ التأسيسية لشركة { -brand-name-mozilla }. تعليمات برمجة أساسية الخاصة بنا مفتوح وقابلة للتدقيق. عمل التطوير الخاص بنا مفتوح. يعرض أيضًا <a href="{ $report }">تقرير الشفافية</a> النصف سنوي التزامنا بهذه المبادئ.
 
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = لمُراجعة والتعليق على التغييرات المقترحة على سياسات الخصوصية الخاصة بنا، <a href="{ $group }"> اشترك في مجموعة حوكمة { -brand-name-mozilla }</a>.
 
 # Variables:

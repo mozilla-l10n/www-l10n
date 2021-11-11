@@ -30,7 +30,7 @@ privacy-index-get-involved = इसमें शामिल हों
 privacy-index-as-an-open-source-project = ओपन सोर्स प्रोजेक्ट के रूप में, पारदर्शिता और खुलेपन { -brand-name-mozilla } के संस्थापक सिद्धांतों का एक अनिवार्य हिस्सा हैं। हमारे कोडबेस खुले और ऑडिटेबल हैं। हमारा विकास कार्य खुला है। हमारी द्वि-वार्षिक <a href="{ $report }">पारदर्शिता रिपोर्ट</a> इन सिद्धांतों के प्रति हमारी वचनबद्धता को भी प्रदर्शित करती है।
 
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = हमारी निजता नीतियों के प्रस्तावित परिवर्तनों पर समीक्षा और टिप्पणी करने के लिए, <a href="{ $group }">{ -brand-name-mozilla } के शासन समूह की सदस्यता लें</a> ।
 
 # Variables:

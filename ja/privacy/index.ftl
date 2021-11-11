@@ -30,7 +30,7 @@ privacy-index-get-involved = 参加する
 privacy-index-as-an-open-source-project = 透明性と情報公開は、オープンソースプロジェクトとしての { -brand-name-mozilla } の創設時の原則の重要な部分を占めています。Mozilla のコードベースは公開され、検査可能です。Mozilla の開発作業は公開されています。隔年で発表されるMozilla の<a href="{ $report }">透明性レポート</a>でも、本原則への Mozilla の取り組みが証明されています。
 
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Mozilla のプライバシー方針に関して提案された変更を確認し、意見をお寄せいただくには、<a href="{ $group }">{ -brand-name-mozilla } のガバナンスグループにご登録ください</a>。
 
 # Variables:

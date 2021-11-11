@@ -30,7 +30,7 @@ privacy-index-get-involved = Libatkan diri
 privacy-index-as-an-open-source-project = Sebagai projek sumber terbuka, ketelusan dan keterbukaan adalah bahagian penting dalam prinsip-prinsip pembentukan { -brand-name-mozilla }. Kod dasar kami terbuka dan boleh diaudit. Kerja pembangunan kami terbuka. <a href="{ $report }">Laporan Ketelusan</a> dwi-tahunan kami juga membuktikan komitmen kami terhadap prinsip-prinsip ini.
 
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Untuk mengulas dan komen pada cadangan perubahan ke atas polisi privasi kami, <a href="{ $group }"> langganilah kumpulan tadbir urus { -brand-name-mozilla }</a>.
 
 # Variables:
