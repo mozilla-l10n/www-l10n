@@ -29,6 +29,7 @@ mobile-compare-add-to-homescreen = Agregar a la pantalla de inicio
 mobile-compare-collections = Colecciones
 mobile-compare-inapp-vpn = VPN en la aplicación
 mobile-compare-shopping = Compras
+mobile-compare-mobile-os-availability = Disponibilidad para sistemas operativos móviles
 mobile-compare-primary-password = Contraseña primaria
 mobile-compare-get-firefox-for-mobile = Obtén { -brand-name-firefox } para móviles
 mobile-compare-send-a-download-link-to-your = Envía un enlace de descarga a tu teléfono.
