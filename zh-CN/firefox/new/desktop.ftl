@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,8 @@ firefox-desktop-download-blocks-social-trackers = 拦截社交跟踪器
 firefox-desktop-download-os-availability = 操作系统可用性
 firefox-desktop-download-in-browser-screenshot = 浏览器内置截图工具
 firefox-desktop-download-primary-password = 主密码
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = 热爱在线生活
 # Obsolete string
 firefox-desktop-download-master-password = 主密码
 firefox-desktop-download-we-block-the-ad = 有我们拦截广告跟踪器，上网冲浪更畅快。
