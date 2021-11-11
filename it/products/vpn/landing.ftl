@@ -122,6 +122,9 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (solo { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Quali sono i criteri di rimborso di { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = La prima volta che ti abboni a { -brand-name-mozilla-vpn } tramite il sito web di { -brand-name-mozilla }, puoi richiedere un rimborso se cancelli il tuo account entro i primi 30 giorni. { -brand-name-mozilla } rimborserà il tuo primo periodo di abbonamento.
+vpn-landing-faq-refund-question-additional-desc = Se sottoscrivi il tuo abbonamento tramite acquisto in-app dall’{ -brand-name-app-store } { -brand-name-apple } o da { -brand-name-google-play } Store, il pagamento è soggetto al termini e condizioni dell’{ -brand-name-app-store }. Devi indirizzare qualsiasi richiesta di fatturazione e rimborso per tali acquisti a { -brand-name-apple } o { -brand-name-google }.
+# Outdated string
 vpn-landing-faq-refund-question-desc = Puoi ricevere il rimborso entro 30 giorni dalla sottoscrizione dell’abbonamento. Contattaci e invia la tua richiesta di rimborso attraverso il pulsante ”Ottieni assistenza” nelle Impostazioni della tua applicazione { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Come faccio a gestire il mio abbonamento?
 # Variables:
