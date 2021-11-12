@@ -159,7 +159,14 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-فقط)
 
 vpn-landing-faq-refund-question-heading = ما مضمون سياسة استرداد الأموال الخاصة بتطبيق { -brand-name-mozilla-vpn }؟
+
+vpn-landing-faq-refund-question-desc-v2 = في المرة الأولى التي تشترك فيها مع { -brand-name-mozilla-vpn } من خلال الموقع الإلكتروني لـ { -brand-name-mozilla }، إذا ألغيت حسابك خلال الـ 30 يومًا الأولى، يُمكنك طلب استرداد أموالك وسَتقوم { -brand-name-mozilla } بإعادة أموال مدة الاشتراك الأولى.
+
+vpn-landing-faq-refund-question-additional-desc = إذا اشتريتَ اشتراكك من خلال مشتريات داخل التطبيق من { -brand-name-apple }{ -brand-name-app-store } أو متجر { -brand-name-google-play }، فإن عملية الدفع الخاصة بك تخضع لِشروط وأحكام { -brand-name-app-store }. يتوجّب عليك توجيه أي استفسارات بخصوص الفواتير واسترداد الأموال لهذه المشتريات إلى { -brand-name-apple } أو { -brand-name-google }، حسب الاقتضاء.
+
+# Outdated string
 vpn-landing-faq-refund-question-desc = يُمكنك استرداد أموالك في غضون 30 يومًا من شِراء اشتراكك. اتصل بنا وأرسل إلينا طلب استرداد الأموال من خلال النقر على زر "الحصول على مساعدة" في "الإعدادات" في تطبيق { -brand-name-mozilla-vpn }.
+
 vpn-landing-faq-manage-subscription-question-heading = كيف يُمكنني إدارة اشتراكي؟
 
 # Variables:
