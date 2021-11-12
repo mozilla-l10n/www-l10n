@@ -159,7 +159,14 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu } saja)
 
 vpn-landing-faq-refund-question-heading = Bagaimana kebijakan pengembalian dana { -brand-name-mozilla-vpn }?
+
+vpn-landing-faq-refund-question-desc-v2 = Saat pertama kali Anda berlangganan { -brand-name-mozilla-vpn } melalui situs web { -brand-name-mozilla }, jika Anda membatalkan akun Anda dalam 30 hari pertama, Anda dapat meminta pengembalian dana dan { -brand-name-mozilla } akan mengembalikan dana untuk masa berlangganan pertama tersebut.
+
+vpn-landing-faq-refund-question-additional-desc = Jika Anda membeli langganan melalui pembelian dalam aplikasi dari { -brand-name-apple } { -brand-name-app-store } atau { -brand-name-google-play } Store, pembayaran Anda tunduk pada syarat dan ketentuan { -brand-name-app-store }. Anda harus mengajukan pertanyaan seputar penagihan dan pengembalian dana untuk pembelian tersebut ke { -brand-name-apple } atau { -brand-name-google }, sebagaimana mestinya.
+
+# Outdated string
 vpn-landing-faq-refund-question-desc = Anda bisa mendapatkan uang Anda kembali dalam jangka waktu 30 hari setelah membayar biaya berlangganan. Hubungi kami dan kirimkan permintaan pengembalian dana dengan mengetuk tombol “Dapatkan Bantuan” di Pengaturan di aplikasi { -brand-name-mozilla-vpn }.
+
 vpn-landing-faq-manage-subscription-question-heading = Bagaimana cara mengelola langganan saya?
 
 # Variables:
