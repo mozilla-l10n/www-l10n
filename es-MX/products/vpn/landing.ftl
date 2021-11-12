@@ -40,6 +40,9 @@ vpn-langing-faq-uses-question-heading = ¿Qué es una VPN y para qué se usa?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = A medida que más aspectos de la vida cotidiana se llevan a cabo a través de Internet, la privacidad y la seguridad en línea se vuelven aún más importantes. Una VPN, <a href="{ $url }">red privada virtual</a>, puede ayudarte a crear una conexión privada y segura a Internet. Funciona creando un “túnel” entre tu dispositivo e Internet en general, y te protege de dos formas importantes:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Ocultando tu verdadera <a href="{ $url }">dirección IP</a>. Esto protege tu identidad y oculta tu ubicación.
 # Obsolete string
 vpn-landing-faq-uses-conceal = Ocultando tu verdadera dirección IP. Esto protege tu identidad y oculta su ubicación.
 vpn-landing-faq-uses-encrypt = Cifrando el tráfico entre tú y tu proveedor de VPN para que nadie en tu red local pueda descifrarlo o modificarlo.
@@ -57,6 +60,9 @@ vpn-landing-faq-protected-question-heading = ¿Cómo se protege mi privacidad?
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = El protocolo de <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® cifra el tráfico de tu red, protegiendo toda tu información privada. Comparado con los protocolos VPN existentes, el código ligero de { -brand-name-wireguard } es más fácil de revisar y auditar para los analistas de seguridad — lo que lo convierte en una opción más segura para la VPN. Además, tu actividad en línea permanece anónima porque nunca registramos, rastreamos o compartimos tus datos de red.
 vpn-landing-faq-competition-question-heading = ¿Qué diferencia a { -brand-name-mozilla-vpn } de la competencia?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Aunque las VPN gratuitas parecen atractivas, no asumen los mismos compromisos de privacidad que { -brand-name-mozilla-vpn } y pueden vender o almacenar tus datos. Otras VPN de pago no tienen la <a href="{ $url }">historia</a> de más de 20 años de { -brand-name-mozilla } en creación de productos que ponen a las personas y la privacidad en primer lugar.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
