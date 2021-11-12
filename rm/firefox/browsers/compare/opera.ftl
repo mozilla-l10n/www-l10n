@@ -38,3 +38,4 @@ compare-opera-in-addition-to-the-regular = Ultra da l'applicaziun mobila regular
 # Variables:
 #   $attrs (string) - link to https://play.google.com/store/apps/details?id=org.mozilla.fenix with additional attributes for analytics
 compare-opera-we-also-offer-an-additional = Era nus purschain ina versiun, actualmain mo experimentala da nossa applicaziun mobila da { -brand-name-firefox }, <a { $attrs }> { -brand-name-firefox }Preview</a> che sa concentrescha sin la sveltezza e la segirezza.
+compare-opera-most-major-browsers-these = Ils blers navigaturs ils pli derasads ozendi, cun excepziun da { -brand-name-safari }, funcziunan senza problems sin tut las plattafurmas e tut ils apparats. { -brand-name-opera } e { -brand-name-firefox } n'èn nagina excepziun. Omadus navigaturs porschan ina portabilitad excellenta sin tut ils apparats.
