@@ -61,8 +61,8 @@ privacy-passwords-2fa-is-a = 2FA merupakan cara terbaik untuk meningkatkan keama
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Akun { -brand-name-firefox } Anda, misalnya, dapat dilindungi dengan 2FA, <a { $url_sumo_2fa }>yang dapat Anda pelajari lebih lanjut di sini</a>.
 
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
-privacy-passwords-2fa-provides-much = 2FA memberikan keamanan yang jauh lebih baik daripada kata sandi saja, tetapi tidak setiap situs web mendukungnya. Anda dapat menemukan daftar situs web yang mendukung 2FA di <a { $url_2fa }>https://twofactorauth.org</a>, serta daftar situs yang tidak mendukung 2FA dan cara agar Anda dapat meminta mereka untuk menambahkan dukungan.
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
+privacy-passwords-2fa-provides-much = 2FA memberikan keamanan yang jauh lebih baik daripada kata sandi saja, tetapi tidak setiap situs web mendukungnya. Anda dapat menemukan daftar situs web yang mendukung 2FA di <a { $url_2fa }>https://2fa.directory</a>, serta daftar situs yang tidak mendukung 2FA dan cara agar Anda dapat meminta mereka untuk menambahkan dukungan.
 privacy-passwords-strong-diverse-and = Kuat, beragam, dan multi-faktor
 privacy-passwords-for-better-or = Baik atau buruk, kita akan menggunakan kata sandi untuk melindungi akun daring kita di masa mendatang. Gunakan kata sandi yang <strong>kuat</strong> dan <strong>berbeda untuk setiap situs</strong>, dan gunakan <strong>pengelola kata sandi</strong> untuk membantu Anda mengingatnya dengan aman. Tetapkan <strong>jawaban yang panjang dan acak</strong> untuk pertanyaan keamanan (walaupun bukan jawaban yang sebenarnya). Dan <strong>gunakan autentikasi dua faktor</strong> di situs mana pun yang mendukungnya.
 
