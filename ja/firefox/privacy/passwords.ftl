@@ -61,8 +61,8 @@ privacy-passwords-2fa-is-a = 2FA はセキュリティのレベルアップに�
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = { -brand-name-firefox } アカウントも 2FA で保護できますので、<a { $url_sumo_2fa }>ここではその方法を詳細に説明します。</a>
 
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
-privacy-passwords-2fa-provides-much = 2FA では、パスワードのみの場合よりもセキュリティが格段に向上されますが、2FA 非対応のサイトもあります。2FA 対応のウェブサイトのリストは <a { $url_2fa }>https://twofactorauth.org</a> にて確認できます。このサイトでは、2FA 非対応のウェブサイトのリストと、そうしたウェブサイトに対応を要求する方法も確認できます。
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
+privacy-passwords-2fa-provides-much = 2FA を利用すると、パスワードのみの場合よりもセキュリティが格段に向上しますが、2FA 非対応のサイトもあります。2FA に対応しているウェブサイトの一覧は、<a { $url_2fa }>https://2fa.directory</a> でご覧になれます。また、2FA に対応していないサイトのリストや、対応を要請する方法も紹介しています。
 privacy-passwords-strong-diverse-and = 強力・多種類・多要素
 privacy-passwords-for-better-or = 良かれ悪かれ、今後ともオンラインアカウントの保護にはパスワードが使用される見通しです。各ウェブサイトごとに<strong>個別</strong>の<strong>強力</strong>なパスワードを使用しましょう。また<strong>パスワードマネージャー</strong>を使用してパスワードを安全に記憶させましょう。セキュリティの質問は、<strong>文字数が多く、無作為</strong>な回答 (虚偽であったとしても同様です) を設定しましょう。また 2 要素認証対応のウェブサイトでは、<strong>2 要素認証を使用</strong>しましょう。
 

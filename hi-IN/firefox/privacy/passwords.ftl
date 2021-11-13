@@ -61,8 +61,8 @@ privacy-passwords-2fa-is-a = 2FA आपकी सुरक्षा बढ़ान
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = उदाहरण के लिए, आपके { -brand-name-firefox } एकाउंट को 2FA के साथ संरक्षित किया जा सकता है, <a { $url_sumo_2fa }>इसके बारे में यहाँ अधिक जान सकते हैं</a>।
 
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
-privacy-passwords-2fa-provides-much = 2FA अकेले पासवर्ड की तुलना में बहुत बेहतर सुरक्षा देता है, लेकिन हर वेबसाइट इसका समर्थन नहीं करती है। जो वेबसाइट 2FA का समर्थन करती हैं आप उनकी सूची <a { $url_2fa }> https://twofactorauth.org</a> पर पा सकते हैं, साथ ही उन साइटों की सूची भी मिल जाएगी जो 2FA का समर्थन नहीं करती हैं और आप उन्हें समर्थन जोड़ने के लिए कह सकते हैं।
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
+privacy-passwords-2fa-provides-much = 2FA अकेले पासवर्ड की तुलना में काफी बेहतर सुरक्षा देता है, लेकिन हर वेबसाइट इसको सपोर्ट नहीं करती है। 2FA को सपोर्ट करने वाली वेबसाइटों की सूची आप यहां देख सकते हैं: <a { $url_2fa }>https://2fa.directory</a>, साथ ही आपको उन साइटों की सूची मिल जाएगी जो 2FA को सपोर्ट नहीं करती हैं और आप यह भी जान सकते हैं उन्हें सपोर्ट जोड़ने का अनुरोध कैसे किया जाए।
 privacy-passwords-strong-diverse-and = मजबूत, विविध और बहु-कारक
 privacy-passwords-for-better-or = भला हो या बुरा, हम निकट भविष्य में अपने ऑनलाइन एकाउंट की सुरक्षा के लिए पासवर्ड का उपयोग करते रहेंगे। ऐसे पासवर्ड का उपयोग करें जो <strong>मज़बूत हों</strong> <strong>हर साइट के लिए अलग हो</strong> और <strong>पासवर्ड मैनेजर</strong> का उपयोग करके उन्हें सुरक्षित रूप से याद रखने में मदद मिलें। सुरक्षा प्रश्नों के लिए <strong>लंबे, क्रमरहित उत्तर</strong> निर्धारित करें (भले ही वे सच न हों)। और जिस साइट पर <strong>दो-कारक प्रमाणीकरण </strong> हो उसका उपयोग करें।
 
