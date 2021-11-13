@@ -39,6 +39,9 @@ firefox-desktop-download-in-browser-screenshot = Ciri tangkapan skrin dalam pela
 firefox-desktop-download-primary-password = Kata laluan utama
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Sayangi hidup anda dalam talian
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Ini Internet anda. Warnainya mengikut kemahuan anda dengan ribuan alatan, tema dan sambungan. { -brand-name-firefox } ialah pelayar alternatif tulen yang mengutamakan pengguna daripada keuntungan.
 
 # Obsolete string
 firefox-desktop-download-master-password = Kata laluan induk
