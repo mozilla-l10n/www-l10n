@@ -1,15 +1,16 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
 
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
+
 
 ## Company names
 
 -brand-name-amazon = Amazon
 -brand-name-apple = Apple
--brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
@@ -56,7 +57,6 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
@@ -64,8 +64,12 @@
 -brand-name-devtools = DevTools
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-send = Send
 -brand-name-sync = Sync
+
+## Firefox products (legacy)
+
+-brand-name-firefox-send = Firefox Send
+-brand-name-send = Send
 
 ## Pocket
 
@@ -86,9 +90,13 @@
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
 
+## Mozilla projects (legacy)
+
+
 ## Open Source projects
 
 -brand-name-rust = Rust
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
@@ -106,9 +114,9 @@
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
--brand-name-vista = Vista
 
 ## Apple products
 
