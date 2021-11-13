@@ -159,7 +159,14 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu } のみ)
 
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } の返金ポリシーは？
+
+vpn-landing-faq-refund-question-desc-v2 = { -brand-name-mozilla } ウェブサイトから初めて { -brand-name-mozilla-vpn } に契約すると、30 日以内にアカウントをキャンセルした場合、返金を要求できます。{ -brand-name-mozilla } は、初めてのサブスクリプション期間中の返金を行います。
+
+vpn-landing-faq-refund-question-additional-desc = { -brand-name-apple } { -brand-name-app-store } または { -brand-name-google-play } からアプリ内課金/購入でサブスクリプションを購入した場合、お支払いには { -brand-name-app-store } の利用規約が適用されます。この購入に関する請求および返金のお問い合わせは、{ -brand-name-apple } または { -brand-name-google } まで行う必要があります。
+
+# Outdated string
 vpn-landing-faq-refund-question-desc = サブスクリプションを購入してから 30 日以内に返金に対応します。{ -brand-name-mozilla-vpn } アプリの [設定] から [サポート] ボタンをタップして、返金リクエストを送信してください。
+
 vpn-landing-faq-manage-subscription-question-heading = サブスクリプションの管理方法は？
 
 # Variables:

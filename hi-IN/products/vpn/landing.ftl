@@ -159,7 +159,14 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (केवल { -brand-name-ubuntu })
 
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } की रिफंड नीति क्या है?
+
+vpn-landing-faq-refund-question-desc-v2 = { -brand-name-mozilla } की वेबसाइट के जरिए, अगर आप पहली बार { -brand-name-mozilla-vpn } के लिए सब्सक्राइब कर रहे हैं, तो याद रखें यदि आप पहले 30 दिनों के भीतर अपना अकाउंट कैंसिल कर देते हैं, तो आप रिफंड का अनुरोध कर सकते हैं और { -brand-name-mozilla } द्वारा आपके पहले सब्सक्रिप्शन टर्म का रिफंड कर दिया जाएगा।
+
+vpn-landing-faq-refund-question-additional-desc = अगर आप { -brand-name-apple } { -brand-name-app-store } इन-ऐप खरीदारी के जरिए या { -brand-name-google-play } Store से अपना सब्सक्रिप्शन खरीदते हैं, तो आपका भुगतान { -brand-name-app-store } के नियम एवं शर्तों के अधीन रहेगा। आपको ऐसी किसी भी खरीदारी के संबंध में, किसी भी बिलिंग और रिफंड संबंधी पूछताछ को { -brand-name-apple } या { -brand-name-google }, जैसा उपयुक्त हो, के पास भेजना होगा।
+
+# Outdated string
 vpn-landing-faq-refund-question-desc = आप अपना सब्सक्रिप्शन खरीदने के 30 दिन के अंदर अपना पैसा वापस पा सकते हैं। हमसे संपर्क करें और अपने { -brand-name-mozilla-vpn } ऐप के अंदर सेटिंग में जाकर “मदद पाएँ” बटन पर टैप करें और रिफंड का अनुरोध सबमिट करें।
+
 vpn-landing-faq-manage-subscription-question-heading = अपना सब्सक्रिप्शन कैसे मैनेज करूँ?
 
 # Variables:
