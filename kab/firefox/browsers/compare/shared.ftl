@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -14,11 +14,14 @@ compare-shared-blocks-third-party-tracking-default = Issewḥal inagan n tuqqna 
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Issewḥal inagan n tuqqna n uḍfar n wis kraḍ
 compare-shared-blocks-cryptomining-scripts = Issewḥal isekripten n uwgelhan
+compare-shared-blocks-fingerprinting-scripts = Issewḥal isekripten n yidsilen umḍinen
 compare-shared-blocks-social-trackers = Issewḥal ineḍfaren n yiẓeḍwa inmettiyen
+compare-shared-dashboard-to-review = Tafelwit n usenqed i tmeẓriwt n yimakaren yettusweḥlen
 compare-shared-autoplay-blocking = Asewḥel n tɣuri tawurmant
 compare-shared-tab-browsing = Tunigin deg yiccaren
 compare-shared-bookmark-manager = Amsefrak n tecraḍ
 compare-shared-automatically-fills-out-forms = Yeččaray tiferkiyin s wudem awurman
+compare-shared-automatically-fills-out-payments = Taččart tawurmant n lexlaṣ
 compare-shared-search-engine-options = Iɣewwaṛen n umsedday n unadi
 compare-shared-text-to-speech = Aḍris ɣer umeslay
 compare-shared-reader-mode = Askar n tɣuri

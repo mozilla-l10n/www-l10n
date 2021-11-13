@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -36,3 +36,4 @@ compare-index-browsers-have-come-a-long = Iminigen wwin-d amecwaṛ ɣezzifen se
 compare-index-firefox-is-backed-by-the-not = Mačči ɣef tedrimt i yettwaḥrez { -brand-name-firefox } sɣur { -brand-name-mozilla }.
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } yefka azal amezwaru i tbaḍnit-ik — deg wayen akk i ntegg d wayen i nxeddem. Akken nettwali tesɛiḍ azref ad tferneḍ ɣef wamek d wukkud ara tebḍuḍ talɣut-inek tudmawant. { -brand-name-firefox } ileqqeḍ drus maḍi n yisefka yerna ur ten-isnuzu ara. Drus-nni n yisefka-nni i d-nleqqeḍ nseqdac-iten kan i usnerni n yifarisen d tmahilin. Ulac tuffra. Maca aṭas n tefrawant d tbaḍnit n tidet.
 compare-index-based-on-the-criteria-we-outlined = Akken i yella deg yisefranen i d-nesbadu — tabaḍnit, tixxutert d uɛebbi — ɣer tidet yella yiwen kan n yiminig i yeddan d ulugen, wa d { -brand-name-firefox }. Taɣult n umgired n tidet mačči d tamhelt, d tabaḍnit. { -brand-name-firefox } d iminig uslig ugar ur k-nessewḥal ara deg twennaḍt. Seqdec-it deg unagraw n wammud i tebɣiḍ, deg yibenkan-ik akk, tḥulfuḍ s tɣellist mi ara t-tgeḍ.
+compare-index-compare = Serwes
