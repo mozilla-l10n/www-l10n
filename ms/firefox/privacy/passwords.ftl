@@ -61,8 +61,8 @@ privacy-passwords-2fa-is-a = 2FA ialah kaedah terbaik untuk meningkatkan keselam
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Akaun { -brand-name-firefox } anda misalnya, boleh dilindungi dengan 2FA, <a { $url_sumo_2fa }>yang boleh diketahui lebih lanjut di sini</a>.
 
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
-privacy-passwords-2fa-provides-much = 2FA memberikan keselamatan yang jauh lebih baik daripada kata laluan sahaja, tetapi tidak semua laman web menyokongnya. Anda boleh mendapatkan senarai laman web yang menyokong 2FA di <a { $url_2fa }>https://twofactorauth.org</a>, serta senarai laman web yang tidak menyokong 2FA dan cara anda boleh meminta mereka menambahkan sokongan.
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
+privacy-passwords-2fa-provides-much = 2FA memberikan keselamatan yang jauh lebih baik daripada kata laluan sahaja, tetapi tidak semua laman web menyokongnya. Anda boleh mencari senarai laman web yang menyokong 2FA di <a { $url_2fa }>https://2fa.directory</a>, termasuk laman web yang tidak menyokong 2FA dan cara anda boleh memohon untuk sokongan ditambah.
 privacy-passwords-strong-diverse-and = Kukuh, berbeza dan berbilang faktor
 privacy-passwords-for-better-or = Baik atau buruk, kita akan menggunakan kata laluan untuk melindungi akaun dalam talian sejauh yang nampak pada masa depan. Gunakan kata laluan yang <strong>kukuh</strong> dan <strong>berbeza bagi setiap laman web</strong> dan gunakan <strong>pengurus kata laluan</strong> untuk membantu anda mengingatinya dengan selamat. Tetapkan <strong>jawapan yang panjang dan rawak</strong> untuk soalan keselamatan (walaupun ia tidak benar). Dan <strong>gunakan pengesahan dua faktor</strong> di mana-mana laman web yang menyokongnya.
 
