@@ -11,21 +11,22 @@
 
 -brand-name-amazon = Amazon
 -brand-name-apple = Apple
--brand-name-facebook = Facebook
+-brand-name-creative-commons = Creative Commons
+-brand-name-facebook = फेसबुक
 -brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
--brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mozilla-foundation = Mozilla फाउण्डेसन
 -brand-name-twitter = Twitter
 
 ## Firefox browsers
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox Browser
--brand-name-firefox-developer-edition = Firefox Developer Edition
+-brand-name-firefox-browser = Firefox ब्राउजर
+-brand-name-firefox-developer-edition = Firefox बिकासकर्ता संस्करण
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
@@ -37,7 +38,7 @@
 ## Firefox browsers (short names)
 
 -brand-name-beta = Beta
--brand-name-developer-edition = Developer Edition
+-brand-name-developer-edition = बिकासकर्ता संस्करण
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
 -brand-name-focus = Focus
@@ -52,12 +53,12 @@
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-account = Firefox खाता
+-brand-name-firefox-accounts = Firefox खाताहरु
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-sync = Firefox सिङ्क
 
 ## Firefox products (short names)
 

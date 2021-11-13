@@ -1,8 +1,8 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-download-button-download-now = डाउनलोड गर्नुहोस
+download-button-download-now = डाउनलोड गर्नुहोस्
 download-button-free-download = निःशुल्क डाउनलोड
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
@@ -10,7 +10,7 @@ download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span>
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = समर्थित यन्त्रहरू
 download-button-whats-new = नयाँ के छ
-download-button-systems-languages = सिस्टमहरू र भाषाहरू
+download-button-systems-languages = प्रणालीहरू &amp; भाषाहरू
 download-button-recommended = सिफारिस गरिएको
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
