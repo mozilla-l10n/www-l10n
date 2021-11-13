@@ -8,24 +8,30 @@
 # HTML page title
 mobile-compare-5-of-the-best = 5 лучших мобильных браузеров в прямом сравнении
 # HTML description
-mobile-compare-who-makes-the = Чей мобильный браузер — лучший? Мы сравнили мобильные версии { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } и { -brand-name-opera } и выяснили.
+mobile-compare-who-makes-the = Чей мобильный браузер — лучший? Мы сравнили мобильные версии { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } и { -brand-name-opera } и выяснили это.
 mobile-compare-since-your-mobile = Поскольку браузер является вашим средством доступа к информации в Интернете, его скорость, безопасность, приватность и удобство первостепенны. Так какой же из мобильных браузеров — лучший? Сравним самых популярных игроков и выясним, какой из них лучше всего соответствует вашим потребностям.
 mobile-compare-which-mobile-browser = Какой мобильный браузер заботится о вашей приватности?
 mobile-compare-at-a-minimum-v2 = Как минимум, браузер должен поддерживать некоторую версию «режима приватного просмотра», которая будет автоматически удалять вашу историю просмотров и поиска. В этой области все пять сравниваемых браузеров получают баллы.
 # Obsolete string
 mobile-compare-at-a-minimum = Как минимум, браузер должен поддерживать некоторую версию «режима приватного просмотра», которая будет автоматически удалять вашу историю просмотров и поиска. В этой области все семь сравниваемых браузеров получают баллы.
 mobile-compare-another-mobile-feature = Ещё одна функция браузера, обязательная к предоставлению — возможность запрещать веб-сайтам и компаниям отслеживать ваши данные о просмотре и покупках даже в обычном режиме.
-mobile-compare-blocking-thirdparty-trackers = Блокировка сторонних трекеров не только важна для приватности — она также помогает страницам загружаться намного быстрее, не давая этим фрагментам кода цепляться за браузер и замедлять его работу.
+mobile-compare-blocking-thirdparty-trackers = Блокировка сторонних трекеров не только важна для приватности — она также помогает страницам загружаться намного быстрее, не давая этим фрагментам кода прикрепляться к вашему браузеру и замедлять его работу.
+mobile-compare-from-the-chart = Из вышеприведенной таблицы видно, что { -brand-name-firefox } предлагает наиболее полный набор инструментов для обеспечения приватности и безопасности среди пяти сравниваемых браузеров, предоставляя кроме этого общую панель управления вашей безопасностью и приватностью в Интернете.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Возможности</strong>
 mobile-compare-features = Возможности
-mobile-compare-what-can-your = Что ваш браузер может для вас сделать?
+mobile-compare-what-can-your = Что ваш браузер может сделать для вас?
+mobile-compare-a-main-ingredient = Ключевой компонент любого хорошего браузера — функциональность. Что он может сделать для вас?  Почти все пять браузеров одинаковы, когда речь идёт о вкладках, закладках, автозаполнении полей, но только { -brand-name-firefox } и { -brand-name-safari } предлагают дополнения/расширения, являющиеся своего рода приложениями для вашего браузера, делающими его более приватным, мощным и интересным.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-mobile-compare-syncing-strong = <strong>Синхронизация</strong>
-mobile-compare-syncing = Синхронизация
-mobile-compare-does-your-browser = Ваш браузер хорошо работает с другими устройствами?
-mobile-compare-almost-all-of = Почти все сравниваемые здесь мобильные браузеры обеспечивают полную синхронизацию между мобильными и настольными устройствами.
+mobile-compare-syncing-strong = <strong>Переносимость</strong>
+mobile-compare-syncing = Переносимость
+mobile-compare-does-your-browser = Ваш браузер хорошо работает на других устройствах?
+mobile-compare-the-mobile-version = Мобильная версия { -brand-name-safari }, предустановленная на мобильных устройствах { -brand-name-apple }, совместима только с другими устройствами { -brand-name-apple }, такими как { -brand-name-ipad } и ноутбуки { -brand-name-mac-short }. { -brand-name-firefox }, { -brand-name-chrome }, и { -brand-name-opera } работают на всех платформах, включая { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short } и { -brand-name-linux }, а браузер { -brand-name-edge } не совместим только с устройствами на { -brand-name-linux }.
+mobile-compare-almost-all-of = Почти все сравниваемые здесь мобильные браузеры обеспечивают синхронизацию между компьютерами и мобильными устройствами.
+mobile-compare-the-good-news = Хорошая новость для пользователей { -brand-name-iphone }: недавно { -brand-name-apple } разрешила выбирать собственный браузер по умолчанию в { -brand-name-iphone }, поэтому теперь можно синхронизировать устройства между платформами, например, вы можете установить { -brand-name-firefox } на свои { -brand-name-iphone } и ПК { -brand-name-windows }.
 mobile-compare-conclusion = Заключение
+mobile-compare-based-on-the = Исходя из изложенных нами критериев — приватности, функциональности и переносимости — существует только один браузер, соответствующий всем трём, и это — { -brand-name-firefox }. Несмотря на схожесть в возможностях и категориях синхронизации, { -brand-name-firefox } выделяется в приватности, потому что мы считаем её основной составляющей, позволяющей вам наслаждаться Интернетом именно так, как вы хотите.
+mobile-compare-our-recommendations-aside = Наши рекомендации необязательны, поиск подходящего для вас браузера всегда будет зависеть от ваших индивидуальных потребностей и того, что вы больше всего цените при работе в Интернете.
 mobile-compare-search-engine-options = Настройка поисковых систем
 mobile-compare-text-to-speech = Озвучивание текста
 mobile-compare-reader-mode = Режим чтения
@@ -40,13 +46,13 @@ mobile-compare-add-to-homescreen = Добавление на домашний э
 mobile-compare-read-text-aloud = Чтение текста вслух
 mobile-compare-news-feed = Лента новостей
 mobile-compare-collections = Коллекции
-mobile-compare-inapp-vpn = VPN в приложении
+mobile-compare-inapp-vpn = Встроенная VPN
 mobile-compare-shopping = Покупки
 mobile-compare-mobile-os-availability = Доступность на мобильных ОС
 mobile-compare-syncs-with-desktopmobile = Синхронизация с настольным/мобильным приложением
 mobile-compare-password-management = Управление паролями
 mobile-compare-primary-password = Мастер-пароль
-mobile-compare-get-firefox-for-mobile = Загрузить мобильный { -brand-name-firefox }
-mobile-compare-send-a-download-link-to-your = Отправить ссылку на загрузку на свой телефон.
+mobile-compare-get-firefox-for-mobile = Загрузить { -brand-name-firefox } для мобильных устройств
+mobile-compare-send-a-download-link-to-your = Отправить ссылку для загрузки на мой телефон.
 mobile-compare-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать
 mobile-compare-scan-alt-text = Отсканируйте QR-код, чтобы загрузить { -brand-name-firefox } на своё мобильное устройство

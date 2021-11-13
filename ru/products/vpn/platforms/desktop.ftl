@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
@@ -10,6 +10,7 @@ vpn-desktop-page-title = { -brand-name-mozilla-vpn } для компьютеро
 vpn-desktop-page-description = Обретите быструю и простую защиту на своём компьютере и ноутбуке с помощью { -brand-name-mozilla }, одного из самых надёжных брендов в мире технологий.
 # Desktop strings
 vpn-desktop-hero-headline = Защитите подключение своего компьютера к Интернету с помощью { -brand-name-mozilla-vpn }
+vpn-desktop-maker-of-firefox = Как создатель веб-браузера { -brand-name-firefox } и один из самых надежных борцов за приватность в Интернете, { -brand-name-mozilla } стремится к тому, чтобы вы чувствовали себя в безопасности каждый раз, когда вы выходите в Интернет.
 vpn-desktop-wifi-headline = Оставайтесь в безопасности при подключении к общедоступному Wi-Fi
 vpn-desktop-about-headline = О { -brand-name-mozilla }
 vpn-desktop-privacy-headline = Один щелчок до приватности
