@@ -77,6 +77,19 @@ vpn-landing-invite-required-label = Zahtevano
 vpn-landing-invite-email-placeholder = vase.ime@example.com
 vpn-landing-invite-country-label = V kateri državi živite?
 vpn-landing-invite-language-label = Izberite želeni jezik.
+vpn-landing-invite-platform-label = Katere platforme vas zanimajo?
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = S klikom na "Vpišite se na čakalni seznam" se strinjate z našo <a href="{ $privacy }">politiko zasebnosti</a>.
+vpn-landing-invite-your-information = Vaše podatke bomo uporabili samo za obveščanje o razpoložljivosti za platformo.
+vpn-landing-invite-thanks-heading = Hvala! Ste na seznamu
+vpn-landing-invite-thanks-desc = Ko bo { -brand-name-mozilla-vpn } na voljo za vašo državo, vas bomo obvestili po e-pošti.
 
 ##
 
