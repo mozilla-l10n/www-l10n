@@ -9,3 +9,22 @@
 browsers-mobile-firefox-mobile-browsers-put = Mobilni brskalniki { -brand-name-firefox } postavljajo vašo zasebnost na prvo mesto
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Pregled vseh brskalnikov { -brand-name-firefox } za mobilne naprave ({ -brand-name-firefox } za { -brand-name-android }, { -brand-name-firefox } za { -brand-name-ios }, { -brand-name-firefox-focus })
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+# Obsolete string
+browsers-mobile-get-the-mobile-browser-privacy = Pridobite mobilni brskalnik, ki postavlja vašo <strong>zasebnost</strong> na prvo mesto
+browsers-mobile-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
+browsers-mobile-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
+browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-compare-mobile-browsers = Primerjajte mobilne brskalnike
+browsers-mobile-compare = Primerjaj
+browsers-mobile-see-how-firefox-for-desktop-stacks = Oglejte si, kako se { -brand-name-firefox } za namizja odreže v primerjavi s sedmimi drugimi brskalniki
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Oglejte si, kako se { -brand-name-firefox } za <strong>namizja</strong> odreže v primerjavi s sedmimi drugimi brskalniki
+browsers-mobile-join-firefox-and-get-the-most = Pridružite se { -brand-name-firefox }u in kar najbolje izkoristite vsak izdelek – na vseh napravah.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+browsers-mobile-already-have-an-account-sign = Že imate račun? <a { $fxa_attr }>Prijavite se</a> ali <a { $accounts_attr }>izvedite več</a> o pridružitvi { -brand-name-firefox }u.
+browsers-mobile-download = Prenesi
+browsers-mobile-android = { -brand-name-android }
+browsers-mobile-ios = { -brand-name-ios }
