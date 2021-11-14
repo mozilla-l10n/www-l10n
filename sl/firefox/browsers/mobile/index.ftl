@@ -14,6 +14,7 @@ browsers-mobile-overview-of-all-mobile = Pregled vseh brskalnikov { -brand-name-
 browsers-mobile-get-the-mobile-browser-privacy = Pridobite mobilni brskalnik, ki postavlja vašo <strong>zasebnost</strong> na prvo mesto
 browsers-mobile-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
+browsers-mobile-the-more-you-use = Več ko ga uporabljate, pametnejši postane. Začetni zaslon { -brand-name-firefox(sklon: "rodilnik") } se vam prilagaja in omogoča, da vedno nadaljujete tam, kjer ste nazadnje ostali.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Primerjajte mobilne brskalnike
 browsers-mobile-compare = Primerjaj
