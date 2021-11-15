@@ -24,5 +24,6 @@ mobile-android-save-power-with = Prihranite energijo s temnim načinom
 mobile-android-switch-to-dark = Kadarkoli lahko preklopite na temni način, ki manj obremenjuje oči in podaljšuje trajanje baterije.
 mobile-android-easily-organize-your = Preprosto organizirajte zavihke
 mobile-android-search-from-your = Iščite z začetnega zaslona telefona
+mobile-android-no-need-to = Ni vam treba odpirati aplikacije. Dodajte pripomoček za iskanje { -brand-name-firefox } in iščite po spletu neposredno z domačega zaslona naprave.
 mobile-android-pin-videos-to = Pripnite videoposnetke na zaslon
 mobile-android-about-mozilla = O { -brand-name-mozilla(sklon: "mestnik") }
