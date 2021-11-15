@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -14,7 +14,9 @@ compare-shared-blocks-third-party-tracking-default = Bloqueia cookies de monitor
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Bloqueia cookies de monitorização de terceiros
 compare-shared-blocks-cryptomining-scripts = Bloqueia códigos de criptomineração
+compare-shared-blocks-fingerprinting-scripts = Bloqueia scripts de identificação
 compare-shared-blocks-social-trackers = Bloqueia rastreadores de redes sociais
+compare-shared-dashboard-to-review = Painel para rever os rastreadores bloqueados
 compare-shared-autoplay-blocking = Bloqueio de reprodução automática
 compare-shared-tab-browsing = Navegação por separadores
 compare-shared-bookmark-manager = Gestor de marcadores

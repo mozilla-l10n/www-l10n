@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,11 @@ firefox-desktop-download-blocks-social-trackers = Bloqueia rastreadores de redes
 firefox-desktop-download-os-availability = Disponibilidade para o sistema operativo
 firefox-desktop-download-in-browser-screenshot = Ferramenta de captura de ecrã no navegador
 firefox-desktop-download-primary-password = Palavra-passe principal
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = Adore a sua vida na Internet
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = É a sua Internet. Personalize a mesma da maneira que quiser com milhares de ferramentas, temas e extensões. O { -brand-name-firefox } é o navegador alternativo original que coloca as pessoas antes dos lucros.
 # Obsolete string
 firefox-desktop-download-master-password = Palavra-passe principal
 firefox-desktop-download-we-block-the-ad = Bloqueamos os rastreadores de anúncios. Assim, você explora a Internet mais rapidamente.
@@ -175,6 +180,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Está a utilizar um 
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = A sua transferência deveria ter sido iniciada automaticamente. Não funcionou? <a id="{ $id }" href="{ $fallback_url }">Tente repetir a transferência.</a>.
 firefox-new-firefox-is-more-than-a-browser = O { -brand-name-firefox } é mais do que um navegador.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = A sua transferência foi interrompida, mas nem tudo está perdido.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux

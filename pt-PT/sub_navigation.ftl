@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Todos os idiomas
 sub-navigation-firefox = { -brand-name-firefox }
@@ -11,6 +11,7 @@ sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = Comparar navegadores
+sub-navigation-compare-mobile-browsers = Comparar navegadores móveis
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } para computadores
 sub-navigation-release-notes = Notas de lançamento
 sub-navigation-desktop = Computador
@@ -23,6 +24,7 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } para computador
 sub-navigation-desktop-nightly = { -brand-name-nightly } para computador
 sub-navigation-features = Funcionalidades
 sub-navigation-support = Apoio
+sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Extras
 sub-navigation-add-ons = Extras
@@ -36,7 +38,6 @@ sub-navigation-android-add-ons = Extras para o { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
-sub-navigation-lockwise = { -brand-name-lockwise }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bit
 sub-navigation-mac = { -brand-name-mac-short }

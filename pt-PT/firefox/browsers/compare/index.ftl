@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -39,4 +39,5 @@ compare-index-browsers-have-come-a-long = Os navegadores percorreram um longo ca
 compare-index-firefox-is-backed-by-the-not = O { -brand-name-firefox } é apoiado pela { -brand-name-mozilla }, entidade sem fins lucrativos.
 compare-index-firefox-puts-your-privacy = O { -brand-name-firefox } coloca sua privacidade em primeiro lugar - em tudo o que fazemos. Acreditamos que tem o direito de decidir como e com quem compartilha as suas informações pessoais. O { -brand-name-firefox } recolhe o mínimo de dados possível e nunca os vende. Os poucos dados que recolhemos são utilizados apenas para melhorar os produtos e recursos. Sem segredos, mas com muita transparência e privacidade efetiva.
 compare-index-based-on-the-criteria-we-outlined = Com base nos critérios descritos - privacidade, utilidade e portabilidade - apenas o { -brand-name-firefox } cumpre com todos os requisitos. A verdadeira área de diferenciação não está nas funcionalidades, mas na privacidade. O { -brand-name-firefox } é o navegador mais privado que não o prende a um ecossistema. Utilize-o em todos os seus dispositivos, em qualquer sistema operativo, e sinta-se seguro quando o fizer.
+compare-index-see-how-firefox-for-mobile = Veja como o { -brand-name-firefox } para dispositivos móveis se compara com cinco outros navegadores para dispositivos móveis.
 compare-index-compare = Comparar
