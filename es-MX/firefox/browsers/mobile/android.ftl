@@ -17,6 +17,7 @@ mobile-android-send-a-download-link-to-your = Envía un enlace de descarga a tu 
 mobile-android-scan-the-qr-code-to-get-started = Escanea el código QR para comenzar
 mobile-android-scan-alt-text = Escanea el código QR para obtener { -brand-name-firefox } en { -brand-name-android }
 mobile-android-fast-and-private = Rápido y privado
+mobile-android-one-tap-to = Un toque para el modo privado
 mobile-android-search-your-own = Busca a tu manera
 mobile-android-save-power-with = Ahorra energía con el modo oscuro
 mobile-android-easily-organize-your = Organiza fácilmente tus pestañas
