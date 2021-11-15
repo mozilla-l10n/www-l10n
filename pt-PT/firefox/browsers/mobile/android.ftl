@@ -19,4 +19,7 @@ mobile-android-send-a-download-link-to-your = Enviar uma ligação de transferê
 mobile-android-scan-the-qr-code-to-get-started = Digitalizar o código QR para começar
 mobile-android-scan-alt-text = Digitalize o código QR para obter o { -brand-name-firefox } no { -brand-name-android }
 mobile-android-fast-and-private = Rápido e privado
+mobile-android-firefox-for-android = O { -brand-name-firefox } para { -brand-name-android } oferece proteção da privacidade, sem esforço e com carregamentos de página rápidos. A proteção melhorada contra a monitorização bloqueia automaticamente os rastreadores que monitorizam a sua navegação na Internet e que tornam as suas páginas mais lentas.
 mobile-android-one-tap-to = Um toque para entrar em modo privado
+mobile-android-get-to-private = Aceda ao modo de navegação privada apenas com um toque. E quando fechar o modo de navegação privada, o seu histórico de navegação é automaticamente eliminado do dispositivo.
+mobile-android-search-your-own = Pesquise à sua maneira
