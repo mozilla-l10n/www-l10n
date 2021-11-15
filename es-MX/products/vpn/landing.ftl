@@ -50,6 +50,10 @@ vpn-landing-faq-uses-encrypt = Cifrando el tráfico entre tú y tu proveedor de 
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Echa un vistazo a <a href="{ $url }">cinco ejemplos de la vida real</a> en los que querrías tener una VPN en tu dispositivo.
 vpn-landing-faq-info-question-heading = ¿Qué información guarda { -brand-name-mozilla-vpn }?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Cumplimos estrictamente con los <a href="{ $principles }">principios de privacidad de datos</a> de { -brand-name-mozilla } y recopilamos los datos necesarios para mantener la VPN operativa y mejorar el producto con el tiempo. También realizamos un seguimiento de los datos de campañas y referencias en nuestra aplicación móvil para ayudar a { -brand-name-mozilla } a comprender la eficacia de nuestras campañas de marketing. Obtenga más información en nuestro <a href="{ $notice }">Aviso de privacidad</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/

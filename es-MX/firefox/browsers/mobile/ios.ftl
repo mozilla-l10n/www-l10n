@@ -11,6 +11,8 @@ mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-i
 # Obsolete string
 mobile-ios-firefox-browser-for = El navegador { -brand-name-firefox } para { -brand-name-ios } es rápido, seguro y privado desde la primera vez que lo abres.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+mobile-ios-get-automatic-privacy = Obtén privacidad de forma automática en tu { -brand-name-iphone } y { -brand-name-ipad }
 mobile-ios-get-firefox-for = Obtén { -brand-name-firefox } para { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Envía un enlace de descarga a tu teléfono.
 mobile-ios-scan-the-qr-code-to-get-started = Escanea el código QR para comenzar
