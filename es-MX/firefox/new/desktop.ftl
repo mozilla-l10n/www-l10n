@@ -40,6 +40,9 @@ firefox-desktop-download-in-browser-screenshot = Herramienta de captura de panta
 firefox-desktop-download-primary-password = Contraseña primaria
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Ama tu vida en línea
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Es tu Internet. Coloréalo como quieras con miles de herramientas, temas y extensiones. { -brand-name-firefox } es el navegador alternativo original que pone a las personas por encima del lucro.
 # Obsolete string
 firefox-desktop-download-master-password = Contraseña primaria
 firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores publicitarios. Por ello, exploras internet más rápido.
@@ -94,7 +97,7 @@ firefox-desktop-download-change-new-tab = Cambia el diseño de la nueva pestaña
 firefox-desktop-download-make-firefox-your = Haz <strong>{ -brand-name-firefox }</strong> tuyo
 firefox-desktop-download-extensions-for-every = Extensiones para cada interés
 firefox-desktop-download-change-up-your = Cambia tu apariencia
-firefox-desktop-download-go-from-light = Pasa del modo claro al modo oscuro según tu estado de ánimo o preferencia, o ameniza las cosas con un tema personalizado (¿Quizás un unicornio arcoiris?).
+firefox-desktop-download-go-from-light = Pasa del modo claro al modo oscuro según tu estado de ánimo o preferencia, o ameniza las cosas con un tema personalizado (¿quizás un unicornio arcoíris?).
 firefox-desktop-download-tweak-your-settings = Realiza tus ajustes
 firefox-desktop-download-theres-no-need = No necesitas conformarte. Cambia la página que aparece al abrir nuevas pestañas, la barra de búsqueda, los marcadores y más para explorar internet de la manera que quieras.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
