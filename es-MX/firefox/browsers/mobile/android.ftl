@@ -24,5 +24,6 @@ mobile-android-easily-organize-your = Organiza fácilmente tus pestañas
 mobile-android-supercharge-firefox-with = Potencia { -brand-name-firefox } con complementos
 mobile-android-pick-up-where = Continúa donde lo dejaste.
 mobile-android-search-from-your = Busca desde la pantalla de inicio de tu teléfono
+mobile-android-no-need-to = No es necesario abrir la aplicación. Agrega el widget de búsqueda de { -brand-name-firefox } y busca en la web directamente desde la pantalla de inicio de tu dispositivo.
 mobile-android-pin-videos-to = Fija vídeos a tu pantalla
 mobile-android-about-mozilla = Acerca de { -brand-name-mozilla }
