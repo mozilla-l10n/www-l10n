@@ -13,6 +13,7 @@ mobile-compare-which-mobile-browser = Ποιο πρόγραμμα περιήγη
 mobile-compare-at-a-minimum-v2 = Το πρόγραμμα περιήγησής σας θα πρέπει να παρέχει κατ' ελάχιστον κάποια μορφή «ιδιωτικής περιήγησης», η οποία διαγράφει αυτόματα το ιστορικό περιήγησης και αναζητήσεων. Σε αυτόν τον τομέα, και οι πέντε εφαρμογές παίρνουν πόντους.
 # Obsolete string
 mobile-compare-at-a-minimum = Το πρόγραμμα περιήγησής σας θα πρέπει να παρέχει κατ' ελάχιστον κάποια μορφή «ιδιωτικής περιήγησης», η οποία διαγράφει αυτόματα το ιστορικό περιήγησης και αναζητήσεων. Σε αυτόν τον τομέα, και οι επτά εφαρμογές παίρνουν πόντους.
+mobile-compare-another-mobile-feature = Ένα άλλο χαρακτηριστικό που θα έπρεπε να είναι δεδομένο είναι η δυνατότητα αποτροπής παρακολούθησης των δεδομένων περιήγησης και αγορών σας από ιστοσελίδες και εταιρείες — ακόμα και στην κανονική λειτουργία περιήγησης.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Λειτουργίες</strong>
 mobile-compare-features = Λειτουργίες

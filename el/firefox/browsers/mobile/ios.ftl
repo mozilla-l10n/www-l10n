@@ -28,5 +28,7 @@ mobile-ios-own-your-home = Κάντε την αρχική οθόνη δική σ
 mobile-ios-find-it-all = Βρείτε τα πάντα, πιο γρήγορα
 # Obsolete string
 mobile-ios-keep-tabs-on = Διαχειριστείτε όλες αυτές τις καρτέλες
+# Obsolete string
+mobile-ios-create-as-many = Ανοίξτε όσες καρτέλες θέλετε χωρίς να χάσετε τον έλεγχο. Το { -brand-name-firefox } εμφανίζει τις ανοικτές καρτέλες σας ως μικρογραφίες και αριθμημένες καρτέλες, βοηθώντας σας να βρείτε εύκολα αυτό που ψάχνετε.
 mobile-ios-discover-more-of = Ανακαλύψτε κι άλλο αγαπημένο περιεχόμενο
 mobile-ios-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
