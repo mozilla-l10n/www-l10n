@@ -17,6 +17,7 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
 browsers-mobile-the-more-you-use = Več ko ga uporabljate, pametnejši postane. Začetni zaslon { -brand-name-firefox(sklon: "rodilnik") } se vam prilagaja in omogoča, da vedno nadaljujete tam, kjer ste nazadnje ostali.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Primerjajte mobilne brskalnike
+browsers-mobile-see-how-firefox-stacks-up = Oglejte si, kako se { -brand-name-firefox } odreže v primerjavi z drugimi priljubljenimi brskalniki na področjih zasebnosti, zmogljivosti in sinhronizacije.
 browsers-mobile-compare = Primerjaj
 browsers-mobile-see-how-firefox-for-desktop-stacks = Oglejte si, kako se { -brand-name-firefox } za namizja odreže v primerjavi s sedmimi drugimi brskalniki
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
