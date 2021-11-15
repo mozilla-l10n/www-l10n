@@ -9,6 +9,8 @@
 browsers-mobile-firefox-mobile-browsers-put = Mobilni brskalniki { -brand-name-firefox } postavljajo vašo zasebnost na prvo mesto
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Pregled vseh brskalnikov { -brand-name-firefox } za mobilne naprave ({ -brand-name-firefox } za { -brand-name-android }, { -brand-name-firefox } za { -brand-name-ios }, { -brand-name-firefox-focus })
+# Obsolete string
+browsers-mobile-at-home-or-on-the-move = Doma ali na poti – zaslužite si zasebnost na vsaki napravi. Izboljšana zaščita pred sledenjem je samodejno vključena v vseh brskalnikih { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 # Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = Pridobite mobilni brskalnik, ki postavlja vašo <strong>zasebnost</strong> na prvo mesto
