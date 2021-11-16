@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title = მომავალის ბედი წყდება ინტერნეტში. დაეხმარეთ { -brand-name-mozilla }-ს იბრძოლოს ვებსივრცეში თითოეული ჩვენგანისთვის.
-banner-fundraising-body = ჩვენი პირადი მონაცემები აღირიცხება ყოველ ჯერზე, ინტერნეტთან წვდომისას და რთულია იმის გარკვევა, შემდეგ რა მოსდის. ყალბი ამბები კიდევ უფრო გვირთულებს სიმართლის დადგენის საშუალებას. ვებსივრცეში მომუშავე მოწყობილობები გასაყიდად გამოაქვთ, უსაფრთხოების მოთხოვნების დაუკმაყოფილებლად. არამომგებიანი { -brand-name-mozilla-foundation } იბრძვის რომ ინტერნეტი გახდეს უსაფრთხო, ღია და საყოველთაოდ ხელმისაწვდომი. <strong>გსურთ შეიტანოთ წვლილი დღესვე?</strong>
+banner-fundraising-title = მომავლის ბედი ინტერნეტში წყდება. მიეხმარეთ { -brand-name-mozilla }-ს იბრძოლოს ვებსივრცის დასაბრუნებლად, თითოეული ჩვენგანისთვის.
+banner-fundraising-body = ჩვენი პირადი მონაცემები აღირიცხება ინტერნეტთან ყოველი წვდომისას და ძნელი დასადგენია, შემდეგ ვის ხელში ხვდება. ყალბი ამბები კიდევ უფრო გვირთულებს სიმართლის გამორკვევის საშუალებას. ვებსივრცეში მომუშავე მოწყობილობები ისე გამოაქვთ გასაყიდად, რომ უსაფრთხოების მოთხოვნებს, საერთოდ არ ითვალისწინებენ. არამომგებიანი { -brand-name-mozilla-foundation } კი იბრძვის, რომ ინტერნეტი გახდეს დაცული, ღია და საყოველთაოდ ხელმისაწვდომი. <strong>გსურთ შეიტანოთ წვლილი ახლავე?</strong>
 banner-fundraising-monthly = ყოველთვიურად
 banner-fundraising-one-time = ერთჯერადად
 banner-fundraising-donate = შემოწირულობა
