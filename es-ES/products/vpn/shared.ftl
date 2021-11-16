@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -36,7 +36,7 @@ vpn-shared-features-protection = Protección para hasta { $devices } dispositivo
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-shared-features-server-countries = Conexión a más de { $servers } en más de { $countries } países
+vpn-shared-features-server-countries = Conexión a más de { $servers } servidores en más de { $countries } países
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = Ya disponible en { $countries } países. Próximamente en más regiones
