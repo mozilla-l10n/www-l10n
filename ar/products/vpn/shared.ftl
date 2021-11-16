@@ -104,6 +104,7 @@ vpn-shared-pricing-get-monthly = احصل على خطة شهرية
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = وفِّر { $percent }%
 
+
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } إجمالًا

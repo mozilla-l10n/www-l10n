@@ -104,6 +104,7 @@ vpn-shared-pricing-get-monthly = Dapatkan paket bulanan
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Hemat { $percent }%
 
+
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Total { $amount }
