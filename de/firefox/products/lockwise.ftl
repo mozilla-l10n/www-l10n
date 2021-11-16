@@ -1,14 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
 
 # HTML page title
-lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } – Passwortmanager — Hab deine Passwörter überall parat.
+lockwise-firefox-lockwise-password = { -brand-name-firefox-lockwise } — Passwortmanager — Passwörter sicher speichern und mitnehmen
+
 # HTML page description
 lockwise-firefox-lockwise-lets-you = Mit { -brand-name-firefox-lockwise } hast du Passwörter, die du in { -brand-name-firefox } speicherst auch überall außerhalb des Browsers parat — mit 256-Bit-Verschlüsselung und Face/Touch-ID.
+
 lockwise-firefox-lockwise = { -brand-name-firefox-lockwise }
 lockwise-take-your-passwords-everywhere = Hab deine Passwörter immer parat
 lockwise-securely-access-the-passwords = Greife von überall aus sicher auf deine in { -brand-name-firefox } gespeicherten Passwörter zu – auch außerhalb des Browsers.
