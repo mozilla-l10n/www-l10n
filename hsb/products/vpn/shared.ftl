@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -80,6 +80,12 @@ vpn-shared-pricing-get-monthly = Měsačny plan wobstarać
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = { $percent } % zalutować
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = { $percent } % w { -brand-name-mozilla-vpn } składować*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *hdyž 12-měsačny plan abonujeće
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } dohromady
