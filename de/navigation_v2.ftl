@@ -1,11 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } herunterladen
-navigation-v2-get-mozilla-vpn = Jetzt { -brand-name-mozilla-vpn } nutzen
+navigation-v2-get-mozilla-vpn = Hol dir { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menü
+
 # Obsolete string
 navigation-v2-get-a-firefox-account = Hol dir einen { -brand-name-firefox-account }
 
@@ -13,7 +15,7 @@ navigation-v2-get-a-firefox-account = Hol dir einen { -brand-name-firefox-accoun
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers }-Menü schließen
-navigation-v2-firefox-for-desktop = { -brand-name-firefox } für Desktop-PCs
+navigation-v2-firefox-for-desktop = { -brand-name-firefox } für Desktop
 navigation-v2-get-the-not-for-profit-backed = Holen Sie sich den gemeinnützigen Browser für { -brand-name-windows }, { -brand-name-mac-short } oder { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } für { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Holen Sie sich den anpassbaren mobilen Browser für { -brand-name-android }-Smartphones.
@@ -22,7 +24,7 @@ navigation-v2-get-the-mobile-browser = Holen Sie sich den mobilen Browser für I
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Einfaches, privates, mobiles Surfen.
 navigation-v2-privacy-promise = Datenschutzversprechen
-navigation-v2-learn-how-firefox-treats = So behandelt { -brand-name-firefox } Ihre Daten mit Respekt.
+navigation-v2-learn-how-firefox-treats = So behandelt { -brand-name-firefox } deine Daten mit Respekt.
 navigation-v2-firefox-blog = Der { -brand-name-firefox } Blog
 navigation-v2-read-about-new-firefox-features = Informieren Sie sich über die neuesten { -brand-name-firefox }-Funktionen und Möglichkeiten für die Sicherheit im Internet.
 navigation-v2-release-notes = Versionshinweise
@@ -54,17 +56,17 @@ navigation-v2-view-all-products = Alle Produkte ansehen
 
 navigation-v2-who-we-are = Wer wir sind
 navigation-v2-close-who-we-are-menu = Menü „Wer wir sind“ schließen
-navigation-v2-mozilla-manifesto = { -brand-name-mozilla }-Manifest
+navigation-v2-mozilla-manifesto = Das { -brand-name-mozilla }-Manifest
 navigation-v2-learn-about-the-values = Erfahren Sie mehr über die Werte und Prinzipien, die unsere Mission leiten.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-meet-the-not-for-profit-behind = Lernen Sie die gemeinnützige Organisation hinter { -brand-name-firefox } kennen, die für ein besseres Internet steht.
 navigation-v2-get-involved = Mitmachen
-navigation-v2-join-the-fight-for-a = Kämpfen Sie mit uns gemeinsam für ein gesundes Internet.
-navigation-v2-leadership = Führung
+navigation-v2-join-the-fight-for-a = Kämpfe mit uns gemeinsam für ein gesundes Internet.
+navigation-v2-leadership = Führungsetage
 navigation-v2-meet-the-team-thats-building = Lernen Sie das Team kennen, das die Technologie für ein besseres Internet entwickelt.
-navigation-v2-careers = Karriere
+navigation-v2-careers = Karrieren
 navigation-v2-work-for-a-mission-driven-updated = Arbeiten Sie für eine Organisation mit einer Mission, für deren Produkte die Menschen zuerst kommen.
-navigation-v2-mozilla-blog = { -brand-name-mozilla }-Blog
+navigation-v2-mozilla-blog = Der { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Erfahren Sie mehr über { -brand-name-mozilla } und die Themen, die uns wichtig sind.
 navigation-v2-more-about-mozilla = Weitere Informationen zu { -brand-name-mozilla }
 
