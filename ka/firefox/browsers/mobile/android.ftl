@@ -39,8 +39,7 @@ mobile-android-pop-videos-out = ამოაგდეთ ვიდეოებ�
 mobile-android-about-mozilla = გაიცანით { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } არსებობს იმისთვის, რომ ინტერნეტი გახადოს საყოველთად ხელმისაწვდომი საშუალება, ვინაიდან ჩვენ მიგვაჩნია, რომ ღია და თავისუფალი, ყოველთვის სჯობს დახურულსა და მართულს. რასაც ვქმნით, მათ შორის { -brand-name-firefox } და { -brand-name-pocket }, მიმართულია არჩევანის შესაძლებლობის, გამჭვირვალობისა და დამოუკიდებულობის წასახალისებლად.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
-mobile-android-short-cut-the-internet = მოკლე გზებით იმოგზაურეთ ინტერნეტში, { -brand-name-firefox }-ით { -brand-name-android }-ზე
-mobile-android-get-there-faster = სწრაფად მოინახულეთ გვერდები { -brand-name-firefox }-ით { -brand-name-android }-ზე
+mobile-android-short-cut-the-internet = მოკლე გზებით იმოძრავეთ ინტერნეტში { -brand-name-firefox } { -brand-name-android }-ზე
 mobile-android-see-all-your-open-tabs = იხილეთ ყველა გახსნილი ჩანართი, ადრე მოძიებული და რჩეული საიტები ერთიანად, { -brand-name-firefox }-ბრაუზერით { -brand-name-android }-ზე.
 mobile-android-own-your-home = მოირგეთ მთავარი ეკრანი
 mobile-android-get-to-the-parts = ახლოს იქონიეთ სასურველი ინტერნეტგვერდები. იხილეთ გახსნილი ჩანართები, ბოლოს მოძიებული, ჩანიშნული და რჩეული საიტები, ერთიანად.
