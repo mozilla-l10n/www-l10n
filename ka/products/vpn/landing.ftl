@@ -80,9 +80,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } თ
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } თავსებადი სისტემებია:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-ბიტიანი მხოლოდ)
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-ბიტზე მხოლოდ)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64-ბიტიანი მხოლოდ)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-ბიტიანი მხოლოდ)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 და ზემოთ)
@@ -120,14 +122,13 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-მხოლოდ)
 vpn-landing-faq-refund-question-heading = რა არის { -brand-name-mozilla-vpn }-ის ანაზღაურების დებულება?
+# Outdated string
 vpn-landing-faq-refund-question-desc = თანხის დაბრუნება შეგეძლებათ 30 დღეში გამოწერის შეძენიდან. დაგვიკავშირდით ან მოითხოვეთ ანაზღაურება, „დახმარების“ ღილაკით პარამეტრებიდან, თქვენს { -brand-name-mozilla-vpn } პროგრამაში.
 vpn-landing-faq-manage-subscription-question-heading = როგორ ვმართო გამოწერილი მომსახურება?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = თუ უკვე გამოწერილი გაქვთ { -brand-name-mozilla-vpn }, გეგმის შეცვლა ან <a href="{ $url }">გამოწერის მართვა</a> ნებისმიერ დროს შეგიძლიათ.
 vpn-landing-faq-link = ვრცლად, იხილეთ ᲮᲓᲙ
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = უჰ! როგორც ჩანს, ჯერ არ გამოგიწერიათ.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 

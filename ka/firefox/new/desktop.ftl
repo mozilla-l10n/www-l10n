@@ -38,6 +38,11 @@ firefox-desktop-download-blocks-social-trackers = სოცქსელები
 firefox-desktop-download-os-availability = სისტემებთან თავსებადობა
 firefox-desktop-download-in-browser-screenshot = ეკრანის გადაღება ბრაუზერშივე
 firefox-desktop-download-primary-password = მთავარი პაროლი
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = გიყვარდეთ თქვენი ინტერნეტცხოვრება
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = ეს თქვენი ინტერნეტსივრცეა. გაიმრავალფეროვნეთ ათასობით სასურველი ხელსაწყოთი, გაფორმებებითა და გაფართოებებით. { -brand-name-firefox } ყველასგან გამორჩეული ბრაუზერია, რომელიც ხალხს აყენებს მოგებაზე წინ.
 # Obsolete string
 firefox-desktop-download-master-password = მთავარი პაროლი
 firefox-desktop-download-we-block-the-ad = სარეკლამო მეთვალყურეები შეზღუდულია. ვებგვერდების მონახულება, გაცილებით სწრაფად შეგიძლიათ.
