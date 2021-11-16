@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = ჩამოტვირთეთ { -brand-name-firefox }
@@ -36,7 +36,7 @@ navigation-v2-close-products-menu = პროდუქტების მენ�
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = გაარკვიეთ, თქვენი ელფოსტა კომპანიებიდან მიტაცებულ მონაცემებში ხომ არ მოხვედრილა.
 navigation-v2-pocket = { -brand-name-pocket }
-navigation-v2-save-and-discover-the-best = გადაინახეთ და აღმოაჩინეთ საუკეთესო ამბები, მთელი ვებსივრციდან.
+navigation-v2-save-and-discover-the-best = გადაინახეთ და მოიძიეთ საუკეთესო ამბები, ვებსამყაროდან.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = არ მისცეთ { -brand-name-facebook }-ს თქვენზე მონაცემების შეგროვების საშუალება, მისი საიტის გარეთ.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
