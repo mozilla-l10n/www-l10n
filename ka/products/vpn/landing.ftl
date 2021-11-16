@@ -122,6 +122,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-მხოლოდ)
 vpn-landing-faq-refund-question-heading = რა არის { -brand-name-mozilla-vpn }-ის ანაზღაურების დებულება?
+vpn-landing-faq-refund-question-desc-v2 = { -brand-name-mozilla-vpn } მომსახურების პირველად შეძენისას { -brand-name-mozilla }-ს საიტიდან, თუ 30 დღეში გააუქმებთ, საშუალება გექნებათ, მოითხოვოთ თანხის ანაზღაურება და { -brand-name-mozilla } უკან დაგიბრუნებთ პირველი ხელშეკრულების საფასურს.
 # Outdated string
 vpn-landing-faq-refund-question-desc = თანხის დაბრუნება შეგეძლებათ 30 დღეში გამოწერის შეძენიდან. დაგვიკავშირდით ან მოითხოვეთ ანაზღაურება, „დახმარების“ ღილაკით პარამეტრებიდან, თქვენს { -brand-name-mozilla-vpn } პროგრამაში.
 vpn-landing-faq-manage-subscription-question-heading = როგორ ვმართო გამოწერილი მომსახურება?
