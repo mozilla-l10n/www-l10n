@@ -1,6 +1,7 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
 
 sub-navigation-all-languages = Alle Sprachen
 sub-navigation-firefox = { -brand-name-firefox }
@@ -12,7 +13,7 @@ sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = Browser-Vergleich
 sub-navigation-compare-mobile-browsers = Mobile Browser vergleichen
-sub-navigation-firefox-for-desktop = { -brand-name-firefox } für Desktop-PCs
+sub-navigation-firefox-for-desktop = { -brand-name-firefox } für Desktop
 sub-navigation-release-notes = Versionshinweise
 sub-navigation-desktop = Desktop
 sub-navigation-android = { -brand-name-android }
@@ -25,15 +26,19 @@ sub-navigation-desktop-nightly = { -brand-name-nightly } für Desktop-PCs
 sub-navigation-features = Funktionen
 sub-navigation-support = Hilfe
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
+
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Add-ons
+
 sub-navigation-add-ons = Add-ons
 sub-navigation-faq = FAQ
 sub-navigation-learn-more = Weitere Informationen
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } für Mobilgeräte
+
 # Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Add-ons für { -brand-name-android }
+
 sub-navigation-android-add-ons = Add-ons für { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
