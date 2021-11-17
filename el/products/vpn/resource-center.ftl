@@ -7,4 +7,9 @@
 
 # HTML Page Title
 vpn-resource-center-title = Κέντρο πόρων VPN
+vpn-resource-center-whats-the-deal = Τι συμβαίνει με τα εικονικά ιδιωτικά δίκτυα;
+vpn-resource-center-view-all = Προβολή όλων
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
+vpn-resource-center-get-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
+vpn-resource-center-was-this-article = Ήταν χρήσιμο αυτό το άρθρο;
+vpn-resource-center-related-posts = Σχετικές αναρτήσεις
