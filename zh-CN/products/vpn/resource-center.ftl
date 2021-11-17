@@ -9,3 +9,7 @@
 vpn-resource-center-title = VPN 资源中心
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-get-mozilla-vpn = 下载 { -brand-name-mozilla-vpn }
+vpn-resource-center-was-this-article = 这篇文章对您有帮助吗？
+vpn-resource-center-article-helpful = 文章有帮助
+vpn-resource-center-article-not-helpful = 文章没有帮助
+vpn-resource-center-related-posts = 相关文章
