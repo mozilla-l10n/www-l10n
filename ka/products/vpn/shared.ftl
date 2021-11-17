@@ -81,6 +81,12 @@ vpn-shared-pricing-get-monthly = ყოველთვიური გეგმ�
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = დაზოგეთ { $percent }%
 # Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = { -brand-name-mozilla-vpn } { $percent }% ფასდაკლებით*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *12-თვიანი გამოწერისას
+# Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } სულ
 
