@@ -5,9 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/resource-center
 
+# HTML Page Title
+vpn-resource-center-title = Centro de recursos de VPN
+vpn-resource-center-whats-the-deal = Que história é essa de Redes Privadas Virtuais?
 vpn-resource-center-discover-how-they = Descubra como elas funcionam, por que são importantes e o que o uso de uma VPN pode fazer por você.
 vpn-resource-center-view-all = Ver tudo
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
+vpn-resource-center-start-protecting = Comece hoje a proteger sua identidade
+vpn-resource-center-obsessed-with = Obcecados em proteger sua privacidade desde 1998
 vpn-resource-center-get-mozilla-vpn = Instale o { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = Este artigo foi útil?
 vpn-resource-center-article-helpful = Artigo útil
