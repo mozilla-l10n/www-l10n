@@ -1,7 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
@@ -13,9 +12,11 @@ misinformation-what-is-heading = Was sind Fehlinformationen? Was ist Desinformat
 misinformation-disinformation = Fehlinformation, Desinformation – bestimmt hast du diese Ausdrücke schon einmal gehört und dich gefragt, inwiefern sie sich unterscheiden. Es ist die dahinterstehende Absicht, die einen Unterschied macht: Fehlinformationen sind alle Arten von falschen Informationen, auf die Menschen hereinfallen können. Sie sind nachweislich falsch oder irreführend, haben aber nicht den Zweck, Menschen gezielt zu täuschen. Desinformation hingegen wird bewusst entwickelt und verbreitet, um Menschen zu einem bestimmten Zweck falsch zu informieren.
 misinformation-ultimately-harmful = Letztendlich können sowohl Fehl- als auch Desinformation schädlich sein. Das Problem ist nicht nur, dass Menschen durch sie falsche Dinge glauben – sie kosten die Weltwirtschaft auch eine Menge Geld und können Demokratie und sogar effiziente Staatsführung gefährden. Und sie sind schwer einzudämmen, denn falsche Informationen verbreiten sich deutlich schneller, eindringlicher und weiter als sachlich korrekte Informationen. Laut Statista interagieren Menschen in Europa über 29 Milliarden Mal pro Jahr mit Falschinformationen, 37 Prozent der Internetnutzer sogar täglich.
 misinformation-false-info-heading = Wo tauchen falsche Informationen auf?
+
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
 misinformation-widespread-online = Fehl- und Desinformation können dir beinahe überall begegnen, aber beide sind online besonders weit verbreitet und wirkungsvoll. Algorithmen und <a href="{ $tracking }">Tracking</a> machen es Fehl- und Desinformation leicht, ein großes Publikum über Webseiten, Blogs, Foren und soziale Netzwerke zu erreichen.
+
 misinformation-tracking-advertising = Von Tracking hast du wahrscheinlich vor allem in Zusammenhang mit Werbung gehört. Es ist allerdings auch ein mächtiges Werkzeug bei der Verbreitung von falschen Informationen. Wieso? Wenn du im Internet surfst oder durch deinen Social-Media-Feed scrollst, werden dein Verhalten, deine Interessen und in manchen Fällen sogar deine Kontakte von verschiedenen Parteien über zahlreiche Webseiten hinweg getrackt. Basierend auf den so gesammelten Daten wird ein extrem detailliertes Profil von dir erstellt, das dann wiederum ohne dein Wissen oder deine Zustimmung an andere verkauft wird. Solche Profile werden für personalisierte Werbung verwendet, können aber auch zum Einsatz kommen, um dir alle möglichen Arten von auf dich zugeschnittenen Informationen anzubieten.
 misinformation-social-newtorks = Wenn dir eine Webseite oder ein soziales Netzwerk Inhaltsempfehlungen anzeigt, passiert das oft durch Algorithmen, die hierzu deine Profilinformationen verwenden. Auch wenn Algorithmen immer intelligenter werden, überprüfen sie Inhalte leider nicht auf Korrektheit. Das ist vor allem bei sozialen Medien problematisch: Diese Netzwerke bieten ihren Nutzern nämlich täglich unzählige Informationen an und haben nahezu unbegrenzt Inhalte hierfür zur Verfügung – von Posts anderer User über Nachrichtenartikel und Werbeanzeigen, bis hin zu gesponserten Inhalten. Während Posts und Artikel in der Regel eher unbeabsichtigt Falschinformationen verbreiten, können Werbung und gesponserte Beiträge eingesetzt werden, um dir gezielt Desinformation anzuzeigen und dich zu manipulieren. Deshalb solltest du unbedingt wissen, wie du Fehlinformationen erkennst.
 misinformation-spot-online-heading = Wie du falsche Informationen online erkennst und dabei helfen kannst, ihre Verbreitung zu stoppen
@@ -31,26 +32,34 @@ misinformation-images-captions = Stimmen Bilder und Bildunterschriften überein?
 misinformation-images-are-powerful = Bilder können eine starke Wirkung beim Einsatz zu Desinformationenszwecken haben. Je nach Bildunterschrift kann die Wahrnehmung sogar ins absolute Gegenteil verkehrt werden. Wenn du dir nicht sicher bist, probiere eine umgekehrte Bildersuche um herauszufinden, wie das Bild auf anderen Seiten beschrieben wird.
 misinformation-how-firefox-helps-heading = Wie { -brand-name-firefox } dir hilft, Fehlinformationen zu meiden
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } hält Tracker in Schach:
+
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
-misinformation-firefox-keeps-trackers-desc = Wie bereits erwähnt, spielt Tracking eine wichtige Rolle bei der Verbreitung von Fehlinformationen. Wenn du { -brand-name-firefox } </a> mit <a href="{ $protection }">verbessertem Tracking-Schutz</a> benutzt, werden Drittanbieter-Tracker von vielen Werbetreibenden und anderen Instanzen automatisch geblockt, sodass du wieder die Kontrolle über deine Online-Daten beim Surfen bekommst.
+misinformation-firefox-keeps-trackers-desc = Wie bereits erwähnt, spielt Tracking eine wichtige Rolle bei der Verbreitung von Fehlinformationen. <a href="{ $firefox }">Wenn Sie { -brand-name-firefox }</a> mit <a href="{ $protection }">verbessertem Tracking-Schutz</a> benutzten, werden Drittanbieter-Tracker von vielen Werbetreibenden und anderen Instanzen automatisch geblockt, sodass Sie die Kontrolle über Ihre Online-Daten beim Surfen wieder erhalten.
+
 misinformation-social-media-clean-heading = { -brand-name-firefox } hilft dir, deine Feeds in sozialen Netzwerken sauber zu halten:
+
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = Soziale Netzwerke wissen viel über dich. Außerdem können sie dich trotz des Tracking-Schutzes mit ihren “Teilen”- und “Gefällt mir”-Buttons über ihre Plattformen hinaus verfolgen – auch dann, wenn du gar keinen Account hast. Der <a href="{ $container }"> { -brand-name-facebook-container }</a> für { -brand-name-firefox } sorgt dafür, dass das zumindest { -brand-name-facebook } und { -brand-name-instagram } nicht mehr so leicht gelingt. Und das macht es wiederum weniger wahrscheinlich, dass du über Werbung und gesponserte Inhalte Fehlinformationen siehst.
+
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = Mit { -brand-name-firefox } Inhalte entdecken, die deine Zeit wert sind:
+
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 # Variables:
 #   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
 #   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
 #   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Wenn du einen neuen Tab in deinem { -brand-name-firefox }-Browser öffnest, siehst du Artikel, die <a href="{ $recommended }">von { -brand-name-pocket } empfohlen werden</a>. { -brand-name-pocket } verwendet keine deiner persönlichen Daten, um Empfehlungen abzugeben. Stattdessen werden die Artikel von echten Menschen kuratiert, die die App verwenden. Das Entdecken von neuen Geschichten, Blickwinkeln und Meinungen ist eine Möglichkeit, die Verbreitung von Fehlinformationen zu bekämpfen. Um noch mehr Empfehlungen zu erhalten, abonniere den <a href="{ $pocket_hits }">{ -brand-name-pocket }-Newsletter</a> und lade dir die <a href="{ $pocket }">{ -brand-name-pocket }-App</a> herunter.
+misinformation-surface-content-desc = Wenn Sie einen neuen Tab in Ihrem { -brand-name-firefox }-Browser öffnen, sehen Sie Artikel, die <a href="{ $recommended }">von { -brand-name-pocket } empfohlen werden</a>. { -brand-name-pocket } verwendet keine Ihrer persönlichen Daten, um Empfehlungen abzugeben. Stattdessen werden die Artikel von echten Menschen kuratiert, die die App verwenden. Das Entdecken von neuen Geschichten, Blickwinkeln und Meinungen ist eine Möglichkeit, die Verbreitung von Fehlinformationen zu bekämpfen. Um noch mehr Empfehlungen zu erhalten, abonnieren Sie den <a href="{ $pocket_hits }">{ -brand-name-pocket }-Newsletter</a> und laden Sie sich die <a href="{ $pocket }">{ -brand-name-pocket }-App herunter</a>.
+
 misinformation-why-trust-firefox = Warum solltest du { -brand-name-firefox } vertrauen?
+
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 misinformation-because-we-put-people-first = Weil Menschen bei uns an erster Stelle kommen. Hinter uns steht eine <a href="{ $foundation }">gemeinnützige Organisation</a>. Unsere Mission bestand vom ersten Tag an darin, das Internet und die Menschen, die es nutzen, zu beschützen.
+
 misinformation-learn-more-about-our-mission = Weitere Infos zu unserer Mission
 misinformation-your-privacy-by-the-product = Privatsphäre in jedem Produkt
 misinformation-firefox-products-work-differently = { -brand-name-firefox }-Produkte funktionieren anders – weil sie von Grund auf so entwickelt werden, dass sie deine Privatsphäre schützen.
