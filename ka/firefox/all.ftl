@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -31,7 +31,7 @@ firefox-all-firefox-privacy-notice = { -brand-name-firefox }-ის პირა
 firefox-all-learn-about-firefox = უკეთ გაეცანით { -brand-name-firefox }-ბრაუზერებს
 firefox-all-the-standard-firefox = ჩვეულებრივი { -brand-name-firefox }-ბრაუზერი – სწრაფი და პირადი. თუ ზუსტად არ იცით, რომელი { -brand-name-firefox } უნდა აირჩიოთ, ეს აირჩიეთ.
 firefox-all-get-a-sneak-peek-at = თვალი შეავლეთ ჩვენი უახლესი { -brand-name-firefox }-ბრაუზერის შესაძლებლობებს, მის გამოსვლამდე.
-firefox-all-test-your-sites-against = გამოცადეთ საიტები ახლო მომავალში გამოსაშვები { -brand-name-firefox }-ბრაუზერის შესაძლებლობებთან მიმართებით, მძლავრი და მოქნილი DevTools-ით, რომელიც თან მოყვება.
+firefox-all-test-your-sites-against = გამოცადეთ საიტები ახლო მომავალში გამოსაშვები { -brand-name-firefox }-ბრაუზერის შესაძლებლობებთან მიმართებით, მძლავრი და მოქნილი DevTools-ით, რომელიც თან მოჰყვება.
 firefox-all-count-on-stability-and = განკუთვნილი მდგრადობისა და მოხერხებულად გამოყენებისთვის, { -brand-name-firefox }-ბრაუზერი საგანგებოდ დაწესებულებებისთვის.
 firefox-all-windows-installers-for = Windows-ზე დასაყენებლად დაწესებულებებისთვის, სადაც გამარტივებულად შეიძლება განთავსდეს, მოეწყოს და იმართოს { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 დასაყენებელი
