@@ -63,3 +63,7 @@ compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } p
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar = { -brand-name-firefox } porscha era ina funcziun sumeglianta da sincronisaziun sche ti avras in <a { $attrs }>{ -brand-name-firefox-account }</a> gratuit che pussibilitescha da sincronisar facilmain ils segnapaginas, la cronologia, las preferenzas, ils pleds-clav, ils formulars emplenids, ils supplements ed il davos 25 tabs averts sin plirs computers. Quai che differenziescha { -brand-name-firefox } da { -brand-name-safari } è ch'el stat a disposiziun sin mintga plattafurma da computer u apparat mobil, saja quai { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } u { -brand-name-macos }. Uschia profiteschas ti sco utilisadra u utilisader da la portabilitad optimala per mintga apparat che ti possedas.
+# Variables:
+#   $ios (string) - link to Apple store with additional attributes for analytics
+#   $android (string) - link to Google Play store with additional attributes for analytics
+compare-safari-the-firefox-app-for-ios-and = L'applicaziun { -brand-name-firefox } per <a { $ios } >{ -brand-name-ios }</a> ed <a { $android }>{ -brand-name-android }</a> è actualmain in dals navigaturs ils pli sperts sin il martgà ed ha ultra da quai funcziuns solidas da segirezza e cunter fastizaders – in enorm avantatg sche ti midas adina puspè tranter in laptop ed apparats mobils.
