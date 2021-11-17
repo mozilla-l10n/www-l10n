@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
-firefox-home-firefox-protect-your = { -brand-name-firefox } - დაიცავით თქვენი ინტერნეტ-ცხოვრება, პირადულობის უწინარესობის პროდუქტებით
+firefox-home-firefox-protect-your = { -brand-name-firefox } - დაიცავით თქვენი ინტერნეტცხოვრება, პირადულობის უწინარესობის პროდუქტებით
 firefox-home-firefox-is-more-than = { -brand-name-firefox } მეტია, ვიდრე მხოლოდ ბრაუზერი. გაეცანით უკეთ { -brand-name-firefox }-პროდუქტებს, რომლებიც პატივისცემით ეპყრობა თქვენს მონაცემებს და შექმნილია პირადი მონაცემების სრულად დასაცავად მთელ ინტერნეტში.
 firefox-home-the-browser-is-just = ბრაუზერი მხოლოდ დასაწყისია
 firefox-home-meet-our-family-of = იხილეთ ჩვენი პროდუქტების ოჯახი
