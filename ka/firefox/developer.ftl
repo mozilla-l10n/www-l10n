@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } არის უსწრაფესი ბრაუზერი, რომელიც გთავაზობთ შემმუშავებლის უახლეს ხელსაწყოებსა და შესაძლებლობებს, როგორიცაა CSS-ბადის მხარდაჭერა და სამუშაო გარსის გამმართველი
@@ -82,6 +82,6 @@ firefox-developer-welcome-to-firefox-browser = მოგესალმება
 firefox-developer-made-for-developers = ბრაუზერი შექმნილი შემმუშავებლებისთვის
 firefox-developer-all-the-latest = ყველა უახლესი ხელსაწყო შემმუშავებლებისთვის, მათ შორის არამდგრადი, ამასთან <strong>საცდელი შესაძლებლობები</strong>, როგორიცაა კონსოლის მრავალხაზიანი შემსწორებელი და WebSocket-შემმოწმებელი.
 firefox-developer-a-separate-profile = <strong>განცალკევებული პროფილი და მდებარეობა</strong>, შედეგად მარტივად შეძლებთ გვერდიგვერდ გაუშვათ საბოლოო ვერსია და { -brand-name-beta } { -brand-name-firefox }.
-firefox-developer-preferences-tailored = პარამეტრები <strong>ზედგამოჭრილი ვებშემმუშავებლებისთვის</strong>: ბრაუზერიდან და დაშორებულად გამართვის შესაძლებლობა ამოქმედებულია ნაგულისხმევად, ასევე მოყვება მუქი იერსახე და შემმუშავებლის ღილაკი ხელსაწყოთა ზოლზე.
+firefox-developer-preferences-tailored = პარამეტრები <strong>ზედგამოჭრილი ვებშემმუშავებლებისთვის</strong>: ბრაუზერიდან და დაშორებულად გამართვის შესაძლებლობა ამოქმედებულია ნაგულისხმევად, ასევე მოჰყვება მუქი იერსახე და შემმუშავებლის ღილაკი ხელსაწყოთა ზოლზე.
 firefox-developer-congrats-you-now-have = გილოცავთ. თქვენ უკვე გიყენიათ { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 firefox-developer-congrats-you-now-have-latest = გილოცავთ. თქვენ უკვე გიყენიათ უახლესი { -brand-name-firefox-browser } { -brand-name-developer-edition }.

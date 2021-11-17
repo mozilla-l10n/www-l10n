@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -66,13 +66,13 @@ does-firefox-use = { -brand-name-firefox } იყენებს { -brand-name-g
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 firefoxs-default-search = { -brand-name-google } ნაგულისხმევი საძიებო სისტემაა { -brand-name-firefox }-ში, რაც ნიშნავს, რომ მისით გვერდების მოძიება, პირდაპირ მისამართების ველიდან შეიძლება. <a href="{ $url }">იხილეთ ვრცლად, საძიებოს სისტემის პარამეტრებისა და მისი ჩანაცვლების შესახებ.</a>
-does-firefox-have = { -brand-name-firefox }-ს მოყვება VPN?
+does-firefox-have = { -brand-name-firefox }-ს მოჰყვება VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
-firefox-does-not = { -brand-name-firefox }-ს არ მოყვება VPN (წარმოსახვითი კერძო ქსელი), თუმცა არის ორი პროდუქტი, რომელსაც ქმნის { -brand-name-mozilla }/{ -brand-name-firefox } და შეგიძლიათ დამატებით გამოიყენოთ პირად { -brand-name-firefox-browser(case: "add") } ერთად, რომ დაიცვათ ან თქვენი ბრაუზერის (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ან მოწყობილობის (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) WiFi-კავშირი, ისევე როგორც თქვენი IP-მისამართი.
+firefox-does-not = { -brand-name-firefox }-ს არ მოჰყვება VPN (წარმოსახვითი კერძო ქსელი), თუმცა არის ორი პროდუქტი, რომელსაც ქმნის { -brand-name-mozilla }/{ -brand-name-firefox } და შეგიძლიათ დამატებით გამოიყენოთ პირად { -brand-name-firefox-browser(case: "add") } ერთად, რომ დაიცვათ ან თქვენი ბრაუზერის (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ან მოწყობილობის (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) WiFi-კავშირი, ისევე როგორც თქვენი IP-მისამართი.
 related-questions-ip = მსგავსი კითხვები: ფარავს { -brand-name-firefox } თქვენს IP-მისამართს
 who-owns-firefox = ვის ეკუთვნის { -brand-name-firefox }?
 

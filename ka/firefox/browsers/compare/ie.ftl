@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
@@ -11,7 +11,7 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } თუ { -bran
 compare-ie-compare-internet-explorer-to = შევადაროთ { -brand-name-ie } და { -brand-name-firefox-browser }, რომ გავარკვიოთ რომელი უმჯობესია თქვენთვის.
 # Main title
 compare-ie-comparing-firefox-browser-with = შევადაროთ { -brand-name-firefox-browser } და { -brand-name-microsoft } { -brand-name-ie }
-compare-ie-while-microsofts-internet-explorer = მაშინ როცა { -brand-name-microsoft }-ის { -brand-name-ie } ჯერ კიდევ მოყვება Windows-იანი კომპიუტერების უმეტესობას, { -brand-name-microsoft } მკაფიოდ გირჩევთ გადახვიდეთ { -brand-name-edge }-ბრაუზერზე, რომელიც ყენდება ნაგულისხმევად, შეძენისთანავე.
+compare-ie-while-microsofts-internet-explorer = მაშინ როცა { -brand-name-microsoft }-ის { -brand-name-ie } ჯერ კიდევ მოჰყვება Windows-იანი კომპიუტერების უმეტესობას, { -brand-name-microsoft } მკაფიოდ გირჩევთ გადახვიდეთ { -brand-name-edge }-ბრაუზერზე, რომელიც ყენდება ნაგულისხმევად, შეძენისთანავე.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft }-მა შეწყვიტა მისი { -brand-name-ie }-ის ბრენდზე მუშაობა რამდენიმე წლის წინ, განახლებული { -brand-name-edge }-ბრაუზერის წარმოსადგენად { -brand-name-windows } 10-ისთვის. თუმცაღა, { -brand-name-edge }-თან შეგუების სირთულიდან გამომდინარე, { -brand-name-ie }-ს ჯერ კიდევ დარჩა სასიცოცხლო სივრცე, განსაკუთრებით დაწესებულებებში არსებული შეუთავსებლობების გამო.
 compare-ie-here-well-compare-our-firefox = აქ ჩვენ შევადარებთ { -brand-name-firefox-browser(case: "dat") } და { -brand-name-ie }-ს უსაფრთხოების, სარგებლიანობისა და მოქნილობის კუთხით. დაგეხმარებით განსხვავებების გამორკვევაში, თუ როგორ გამოირჩევა თანამედროვე ბრაუზერი, მათ შორის { -brand-name-firefox }, რომელიც აკმაყოფილებს ვებსივრცის არსებულ მოთხოვნებს იმ ბრაუზერისგან, რომელსაც შესაძლოა იყენებთ საქმის საჭიროებიდან გამომდინარე ან რთულად დასაძლევი ძველი ჩვევების გამო.
 # Variables:
