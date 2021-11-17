@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Bloquea rastreadores sociales
 firefox-desktop-download-os-availability = Disponibilidad de sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla incorporada
 firefox-desktop-download-primary-password = Contraseña maestra
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Amá tu vida en línea
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Es tu internet. Coloreala como te guste con miles de herramientas, temas y extensiones. { -brand-name-firefox } es navegador alternativo original que pone a las personas antes que a las ganancias.
 # Obsolete string
@@ -69,12 +71,12 @@ firefox-desktop-download-spell-check = Corrección ortográfica
 firefox-desktop-download-pinned-tabs = Pestañas pegadas
 firefox-desktop-download-stream-share-play = Transmití, compartí y jugá
 # Autoplay is a feature names and so is capitalized in English
-firefox-desktop-download-block-autoplay-of = Bloquear la reproducción automática de video y audio
+firefox-desktop-download-block-autoplay-of = Bloqueá la reproducción automática de video y audio
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Picture-in-Picture
 firefox-desktop-download-curated-content-on = Contenido seleccionado en las pestañas nuevas
-firefox-desktop-download-share-links = Compartir enlaces
-firefox-desktop-download-protect-your-privacy = Proteger la privacidad
+firefox-desktop-download-share-links = Compartí enlaces
+firefox-desktop-download-protect-your-privacy = Protegé tu privacidad
 firefox-desktop-download-third-party-cookie = Bloqueo de cookies de terceros
 firefox-desktop-download-fingerprinter-blocking = Bloqueo de detector de huellas digitales
 firefox-desktop-download-cryptominer-blocking = Bloqueo de criptominería
@@ -83,16 +85,16 @@ firefox-desktop-download-individual-protections-report = Informe de protecciones
 firefox-desktop-download-secure-your-personal = Asegurá tu información personal
 firefox-desktop-download-breached-website-alerts = Alertas de sitios web violados
 firefox-desktop-download-built-in-password = Administrador de contraseñas incorporado
-firefox-desktop-download-clear-history = Eliminar historial
+firefox-desktop-download-clear-history = Eliminá el historial
 firefox-desktop-download-form-autofill = Llenado automático de formularios
 firefox-desktop-download-automatic-updates = Actualizaciones automáticas
-firefox-desktop-download-customize-your-browser = Personalizar el navegador
+firefox-desktop-download-customize-your-browser = Personalizá tu navegador
 firefox-desktop-download-themes = Temas
 firefox-desktop-download-dark-mode = Modo oscuro
 firefox-desktop-download-library-of-extensions = Biblioteca de extensiones
-firefox-desktop-download-adjust-search-bar = Ajustar la configuración de la barra de búsqueda
-firefox-desktop-download-change-new-tab = Cambiar el diseño de la nueva pestaña
-firefox-desktop-download-make-firefox-your = Hacé tu propio <strong> { -brand-name-firefox } </strong>
+firefox-desktop-download-adjust-search-bar = Ajustá la configuración de la barra de búsqueda
+firefox-desktop-download-change-new-tab = Cambiá el diseño de la nueva pestaña
+firefox-desktop-download-make-firefox-your = Hacé tu propio <strong>{ -brand-name-firefox }</strong>
 firefox-desktop-download-extensions-for-every = Extensiones para todos los intereses.
 firefox-desktop-download-change-up-your = Cambiá tu apariencia
 firefox-desktop-download-go-from-light = Pasá del modo claro al modo oscuro según tu estado de ánimo o preferencia, o amenizá con un tema personalizado (unicornio arcoíris tal vez).
