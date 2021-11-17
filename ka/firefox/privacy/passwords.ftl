@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -8,11 +8,11 @@
 # HTML page title
 privacy-passwords-security-guide-to = უსაფრთხოების წესები ანგარიშებისა და პაროლებისთვის
 # HTML page description
-privacy-passwords-more-and-more-desc = თანდათან უფრო მეტ მნიშნელოვან და ღირებულ მონაცემებს ვინახავთ პაროლის დადებით. როგორ უნდა დავიცვათ ჩვენი ანგარიშები?
+privacy-passwords-more-and-more-desc = თანდათან უფრო მეტ მნიშვნელოვან და ღირებულ მონაცემებს ვინახავთ პაროლის დადებით. როგორ უნდა დავიცვათ ჩვენი ანგარიშები?
 # page content
 privacy-passwords-a-security-guide = უსაფრთხოების წესები ანგარიშებისა და პაროლებისთვის
 privacy-passwords-protecting-your-accounts = თქვენი ანგარიშების დაცვა არ უნდა იყოს რთული — { -brand-name-firefox } დაგეხმარებათ.
-privacy-passwords-more-and-more = თანდათან კიდევ უფრო მეტ მნიშნელოვან და ღირებულ მონაცემებს ვინახავთ პაროლიან ანგარიშებზე — სასიყვარულო წერილებს, სამედიცინო ჩანაწერებს, საბანკო ანგარიშებს და ა. შ. ვებსაიტები საჭიროებს შესვლის დამოწმებას მათი უსაფრთხოებისთვის. წესით, ვინც ვერ შევა თქვენს ანგარიშზე, ის ვერ წაიკითხავს თქვენს ელფოსტას და ვერც ფულს გადარიცხავს თქვენი ბანკიდან. როგორც ინტერნეტმომსახურებების მომხმარებლებმა, როგორ უნდა დავიცვათ ჩვენი ანგარიშები?
+privacy-passwords-more-and-more = თანდათან კიდევ უფრო მეტ მნიშვნელოვან და ღირებულ მონაცემებს ვინახავთ პაროლიან ანგარიშებზე — სასიყვარულო წერილებს, სამედიცინო ჩანაწერებს, საბანკო ანგარიშებს და ა. შ. ვებსაიტები საჭიროებს შესვლის დამოწმებას მათი უსაფრთხოებისთვის. წესით, ვინც ვერ შევა თქვენს ანგარიშზე, ის ვერ წაიკითხავს თქვენს ელფოსტას და ვერც ფულს გადარიცხავს თქვენი ბანკიდან. როგორც ინტერნეტმომსახურებების მომხმარებლებმა, როგორ უნდა დავიცვათ ჩვენი ანგარიშები?
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = უფრო მოკლედ
 privacy-passwords-use-random-passwords = გამოიყენეთ შემთხვევითი პაროლები და სხვადასხვა პაროლი თითოეულ საიტზე
@@ -54,7 +54,7 @@ privacy-passwords-twofactor-authentication-2fa = ორსაფეხური�
 privacy-passwords-2fa-is-a = 2FA მშვენიერი გზაა უსაფრთხოების ასამაღლებლად. ახალი ანგარიშის შექმნისას, ზოგიერთი საიტი გთავაზობთ „მეორე საფეხურის“ დამატებას, შესვლის დასამოწმებლად. უმეტესად, ეს გულისხმობს თქვენი ტელეფონის ნომრის მიბმას ანგარიშზე, ასე რომ როცა შეიყვანთ პაროლს, მოგთხოვთ, მობილურზე გამოგზავნილი კოდის შეყვანას. ასეთ შემთხვევაში, ჰაკერმა თქვენი პაროლის გაგებაც რომ მოახერხოს, მაინც ვერ შევა თქვენს ანგარიშზე, თუ თქვენს ტელეფონთან არ ექნება წვდომა.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = მაგალითად, თქვენი { -brand-name-firefox }-ანგარიშის დასაცავადაც, შეგიძლიათ გამოიყენოთ 2FA, <a { $url_sumo_2fa }>რომლის შესახებაც ვრცლად, აქ იხილავთ</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA იძლევა გაცილებით მძლავრი დაცვის საშუალებას, ვიდრე უბრალოდ პაროლები, თუმცა ყველა საიტი არ გთავაზობთ მას. შეგიძლიათ მოიძიოთ იმ ვებსაიტების ჩამონათვალი, რომლებზეც მხარდაჭერილია 2FA, მისამართზე <a { $url_2fa }>https://twofactorauth.org</a>, ასევე იხილავთ იმ საიტებსაც, რომელთაც არ აქვთ 2FA და გაეცნობით გზებს, როგორ შეგიძლიათ მოითხოვოთ მხარდაჭერის დამატება.
 privacy-passwords-strong-diverse-and = მძლავრი, მრავალფეროვანი და რამდენიმე საფეხურიანი
 privacy-passwords-for-better-or = კარგია თუ ცუდი, მოგვიწევს პაროლების გამოყენებით დავიცვათ ანგარიშები ინტერნეტში, უახლოესი მომავლის განმავლობაში მაინც. გამოიყენეთ პაროლები, რომლებიც არის <strong>ძლიერი</strong> და <strong>განსხვავებული თითოეულ საიტზე</strong>, ამასთან დაიხმარეთ <strong>პაროლების მმართველი,</strong> ადვილად და უსაფრთხოდ დამახსოვრებისთვის. მიუთითეთ <strong>გრძელი, შემთხვევით შედგენილი პასუხები</strong> საიდუმლო კითხვებზე (თუნდაც სიმართლეს არ შეესაბამებოდეს). და <strong>გამოიყენეთ ორსაფეხურიანი დამოწმება</strong> ყველა იმ საიტზე, რომელზეც მხარდაჭერილია.
