@@ -104,6 +104,12 @@ vpn-shared-pricing-get-monthly = मासिक प्लान लें
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = { $percent }% की बचत करें
 
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = { $percent }% की बचत करें { -brand-name-mozilla-vpn } पर*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *जब आप 12-महीने के प्लान वाला सब्सक्रिप्शन लेते हैं
 
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
