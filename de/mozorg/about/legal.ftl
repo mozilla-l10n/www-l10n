@@ -1,7 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/about/legal/
 
@@ -10,7 +9,7 @@ legal-get-involved = Mitmachen
 legal-protect-the-fox = Den Fuchs schützen
 legal-takedown-requests = Anfragen zur Abschaltung
 legal-back-to-legal = Zurück zu den rechtlichen Hinweisen
-legal-special-thanks-to-all-of-you = Besonderer Dank an alle, die dabei helfen, Missbrauch unserer { -brand-name-mozilla }-Symbole zu melden, in unseren Leitungsforen mitmachen, Rückmeldung zu unserer Übersetzung und rechtlichen Bedingungen geben und mit ihren Fähigkeiten zum Erfolg des { -brand-name-mozilla }-Projekts beitragen.
+legal-special-thanks-to-all-of-you = Besonderer Dank an alle, die dabei helfen, Missbrauch unserer { -brand-name-mozilla }-Symbole zu melden, in unseren Governance-Foren mitmachen, Rückmeldung zu unserer Übersetzung und rechtlichen Bedingungen geben und mit ihren Fähigkeiten zum Erfolg des { -brand-name-mozilla }-Projekts beitragen.
 legal-terms = Bedingungen
 legal-our-websites = Unsere Websites
 legal-firefox-services = { -brand-name-firefox }-Dienste
