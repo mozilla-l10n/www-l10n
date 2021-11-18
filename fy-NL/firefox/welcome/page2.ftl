@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/2/
 
 # HTML page title
-welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } – Bewarje nijs, fideo's, ferhalen en mear
+welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } – Bewarje nijs, fideo’s, ferhalen en mear
 welcome-page2-your-time-online-is-worth = Jo online tiid is it beskermjen wurdich
 welcome-page2-discover-and-save-stories = Untdek en bewarje ferhalen yn { -brand-name-pocket } – en sykje se wer op wannear’t jo tiid hawwe.
 welcome-page2-activate-pocket = { -brand-name-pocket } aktivearje
