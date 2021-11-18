@@ -19,7 +19,7 @@ browsers-mobile-infinitely-customizable-private = Uneinich oanpasber, privee en 
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } foar { -brand-name-ios }
 browsers-mobile-go-your-own-way = Gean jo eigen wei mei { -brand-name-firefox } mobyl
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } mobyl past him oan jo oan en makket it makliker as ea om al jo iepene ljepblêden, eardere sykopdrachten en favorite websites te besjen.
-browsers-mobile-the-more-you-use = Hoe mear jo it brûke, hoe tûker it wurdt. It startskerm fan { -brand-name-firefox } past him oan jo oan en makket it makliker om altyd fierder te gean wêr't jo bleaun wiene.
+browsers-mobile-the-more-you-use = Hoe mear jo it brûke, hoe tûker it wurdt. It startskerm fan { -brand-name-firefox } past him oan jo oan en makket it makliker om altyd fierder te gean wêr’t jo bleaun wiene.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Krij Ferbettere beskerming tsjin folgjen en meitsje fan { -brand-name-firefox } jo standertbrowser foar altyd op jo { -brand-name-iphone } en { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }

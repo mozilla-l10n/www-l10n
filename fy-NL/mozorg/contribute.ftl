@@ -32,7 +32,7 @@ contribute-task-join-desc = Wolle jo mear belutsen reitsje by de { -brand-name-m
 ## Mission
 
 contribute-mission-heading = Us missy
-contribute-mission-desc = It is ús missy om te fersekerjen dat it ynternet in globaal publike boarne is, iepen en tagonklik foar elkenien. In ynternet dat werklik minsken op it earste plak set, wêr't elkenien harren eigen ûnderfining foarmje kin en krêftich, feilich en ûnôfhinklik binne.
+contribute-mission-desc = It is ús missy om te fersekerjen dat it ynternet in globaal publike boarne is, iepen en tagonklik foar elkenien. In ynternet dat werklik minsken op it earste plak set, wêr’t elkenien harren eigen ûnderfining foarmje kin en krêftich, feilich en ûnôfhinklik binne.
 contribute-learn = Mear ynfo oer { -brand-name-mozilla }
 contribute-read-manifesto = Lês ús Manifest
 contribute-find-event = In evenemint fine

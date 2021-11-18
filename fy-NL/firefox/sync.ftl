@@ -1,12 +1,12 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
-firefox-sync-access-and-sync = Benaderje en syngronisearje jo blêdwizers, wachtwurden, iepen ljepblêden en mear – oeral wêr't jo { -brand-name-firefox } brûke.
+firefox-sync-access-and-sync = Benaderje en syngronisearje jo blêdwizers, wachtwurden, iepen ljepblêden en mear – oeral wêr’t jo { -brand-name-firefox } brûke.
 firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Syngronisearje jo { -brand-name-firefox } op elk apparaat
 firefox-sync-privacy-made-easy = Privacy maklik makke

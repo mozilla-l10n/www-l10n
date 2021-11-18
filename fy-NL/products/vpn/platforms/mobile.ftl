@@ -10,7 +10,7 @@ vpn-mobile-page-title = { -brand-name-mozilla-vpn } foar mobyl (snoadfoans en ta
 vpn-mobile-page-description = Beskermje jo snoadfoan en tablet mei in VPN fan { -brand-name-mozilla }, de fertroude pionier op it mêd fan ynternetprivacy.
 # Mobile strings
 vpn-mobile-hero-headline = Befeiligje jo privacy op mobyl mei { -brand-name-mozilla-vpn }
-vpn-mobile-maker-of-firefox = Soargje derfoar dat de ynternetferbining fan jo telefoan privee bliuwt, wêr't jo ek binne, mei { -brand-name-mozilla-vpn }, in essinsjeel privacyhelpmiddel fan de makkers fan { -brand-name-firefox }.
+vpn-mobile-maker-of-firefox = Soargje derfoar dat de ynternetferbining fan jo telefoan privee bliuwt, wêr’t jo ek binne, mei { -brand-name-mozilla-vpn }, in essinsjeel privacyhelpmiddel fan de makkers fan { -brand-name-firefox }.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-ability = { -brand-name-mozilla-vpn } foarkomt dat hackers en spionnen jo IP-adres sjen kinne en ferstoppet jo online lokaasje. Mei avansearre fersifering en sûnder bânbreedtebeheiningen makket it streamen en sneupen op jo snoadfoane of tablet ultrafluch of betrouber feilich. Foar in lyts bedrach yn de moanne kinne jo maksimaal { $devices } apparaten beskermje en ferbining meitsje mei tsientallen servers wrâldwiid.

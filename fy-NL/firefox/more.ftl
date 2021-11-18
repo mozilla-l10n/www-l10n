@@ -7,7 +7,7 @@
 
 firefox-products-are = { -brand-name-firefox }-produkten binne ûntwurpen om jo privacy te beskermjen
 learn-more-about-firefox = Lês mear oer { -brand-name-firefox }, syn skiednis, funksjes en missy
-learn-more-about = Lês mear oer { -brand-name-firefox }-browsers en -produkten dy’t jo gegevens mei respekt behannelje en dy’t boud binne foar privacy, oeral wêr't jo online gean.
+learn-more-about = Lês mear oer { -brand-name-firefox }-browsers en -produkten dy’t jo gegevens mei respekt behannelje en dy’t boud binne foar privacy, oeral wêr’t jo online gean.
 learn-more-faq = Faaks stelde fragen oer { -brand-name-firefox }
 the-history-of = De skiednis fan webbrowsers
 firefox-has-been = { -brand-name-firefox } is der sûnt hast it begjin.
@@ -29,7 +29,7 @@ firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } wie in rev
 firefox-more-little-book = Lyts privacyboekje
 firefox-more-you-can-reclaim = Jo kinne jo privacy weromhelje en wer kontrôle krije oer jo eigen ynternetûnderfining! It is eins ferrassend maklik. Elkenien kin it.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
-firefox-more-access-your-sync = Benaderje en syngronisearje jo blêdwizers, wachtwurden, iepen ljepblêden en mear – oeral wêr't jo { -brand-name-firefox } brûke.
+firefox-more-access-your-sync = Benaderje en syngronisearje jo blêdwizers, wachtwurden, iepen ljepblêden en mear – oeral wêr’t jo { -brand-name-firefox } brûke.
 we-believe-everyone = Wy fine dat elkenien tagong hawwe moat ta ynternet. Dêrom meitsje wy de { -brand-name-firefox-browser } beskikber yn mear as 90 talen, mei de help fan tawijde frijwilligers fan oer de hiele wrâld.
 firefox-fights-for = { -brand-name-firefox } fjochtet foar jo op { -brand-name-windows }
 easy-migration-of = Ienfâldige migraasje fan foarkarsynstellingen en blêdwizers wannear’t jo { -brand-name-firefox } foar { -brand-name-windows } downloade.

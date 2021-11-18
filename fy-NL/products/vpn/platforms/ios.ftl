@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
@@ -33,4 +33,4 @@ vpn-ios-devices-copy = Mei ien abonnemint kinne jo { -brand-name-mozilla-vpn } o
 vpn-ios-speed-headline = Topsnelheden. Unbeheinde data.
 vpn-ios-speed-copy = Spylje online games, stream jo favorite programma’s en sneup op it web mei ultrahege. Meitsje jo gjin soargen oer jo bânbreedte op { -brand-name-mozilla-vpn } – dy is ûnbeheind.
 vpn-ios-log-headline = Jo gegevens bliuwe privee. Punt út.
-vpn-ios-log-copy = Guon VPN-providers logge jo aktiviteit op harren servers. Net allinnich folget { -brand-name-mozilla-vpn } jo net online, wy binne fer fûl op tsjin. Dat is in grut part fan wêr't wy as bedriuw foar stean.
+vpn-ios-log-copy = Guon VPN-providers logge jo aktiviteit op harren servers. Net allinnich folget { -brand-name-mozilla-vpn } jo net online, wy binne fer fûl op tsjin. Dat is in grut part fan wêr’t wy as bedriuw foar stean.

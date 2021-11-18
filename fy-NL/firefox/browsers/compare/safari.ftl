@@ -36,7 +36,7 @@ compare-safari-in-addition-to-the-regular = Neist de normale set funksjes dy’t
 compare-safari-like-safari-firefox-encourages = Krekt as { -brand-name-safari } moediget { -brand-name-firefox } harren entûsjaste ûntwikkelersmienskip oan om <a { $attrs }>add-ons en útwreidingen</a> foar de browser te meitsjen. En omdat ús platfoarm iepenboarne is, is der in wiidweidige seleksje mei in skat oan funksjonaliteit.
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
-compare-safari-also-when-you-sign-up-for-updated = Jo krije as jo jo ynskriuwe foar in { -brand-name-firefox }-account ek tagong ta unike services, lykas <a { $pocket }>{ -brand-name-pocket }</a>, dat streekrjocht yn de browser ynboud is. Mei de knop { -brand-name-pocket } foar { -brand-name-firefox } kinne jo websien en fideo’s yn { -brand-name-firefox } yn mar ien klik bewarje yn { -brand-name-pocket }, sadat jo in opskjinne ferzje dy’t frij is fan ôfliedingen lêze kinne, wannear en wêr't jo dat wolle – sels offline.
+compare-safari-also-when-you-sign-up-for-updated = Jo krije as jo jo ynskriuwe foar in { -brand-name-firefox }-account ek tagong ta unike services, lykas <a { $pocket }>{ -brand-name-pocket }</a>, dat streekrjocht yn de browser ynboud is. Mei de knop { -brand-name-pocket } foar { -brand-name-firefox } kinne jo websien en fideo’s yn { -brand-name-firefox } yn mar ien klik bewarje yn { -brand-name-pocket }, sadat jo in opskjinne ferzje dy’t frij is fan ôfliedingen lêze kinne, wannear en wêr’t jo dat wolle – sels offline.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics

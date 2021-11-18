@@ -26,7 +26,7 @@ firefox-privacy-hub-keep-it-safe = Hâld it feilich
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Wat wurkje hurd om jopersoanlike gegevens te beskermjen
 firefox-privacy-hub-data-security-is-complicated = Gegevensbefeiliging is yngewikkeld – of dat soe it yn elk gefal wêze moatte. Dêrom nimme wy ekstra stappen om de gegevens dy’t wy hawwe te klassifisearjen, hâlde wy rigels oan foar hoe't wy elk type bewarje en beskermje, en stopje wy nea mei it ferbetterjen fan ús prosessen. Wy jouwe jo privacy prioriteit. Wy ynvestearje deryn. Wy binne deroan tawijd. Wy leare sels oare bedriuwen hoe't se it dwaan moatte.
 firefox-privacy-hub-no-secrets = Gjin geheimen
-firefox-privacy-hub-youll-always-know-where-you = By ús witte jo altyd wêr't jo oan ta binne
+firefox-privacy-hub-youll-always-know-where-you = By ús witte jo altyd wêr’t jo oan ta binne
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/

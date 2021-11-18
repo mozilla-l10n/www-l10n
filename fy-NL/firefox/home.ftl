@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } – Beskermje jo onlinelibben mei produkten dy’t privacy foarop stelle
-firefox-home-firefox-is-more-than = { -brand-name-firefox } is mear as in browser. Lês mear oer { -brand-name-firefox }-produkten dy’t jo gegevens mei respekt behannelje en dy’t boud binne foar privacy, oeral wêr't jo online gean.
+firefox-home-firefox-is-more-than = { -brand-name-firefox } is mear as in browser. Lês mear oer { -brand-name-firefox }-produkten dy’t jo gegevens mei respekt behannelje en dy’t boud binne foar privacy, oeral wêr’t jo online gean.
 firefox-home-the-browser-is-just = De browser is mar it begjin
 firefox-home-meet-our-family-of = Kom yn 'e kunde mei ús produktefamylje
 firefox-home-get-trackers-off = Skodzje mear as 2000 trackers ôf – ynklusyf { -brand-name-facebook }

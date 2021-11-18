@@ -9,7 +9,7 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } foar { -brand-name-linux } ({ -brand-name-ubuntu })
-vpn-linux-page-description = As in fan fan { -brand-name-ubuntu } { -brand-name-linux } witte jo al hoe wichtich online privacy en befeiliging binne. Jo kenne wierskynlik ek { -brand-name-mozilla } en wêr't wy foar stean – in privee, iepen en frij ynternet foar elkenien. It is tiid om dy twa tegearre te bringen.
+vpn-linux-page-description = As in fan fan { -brand-name-ubuntu } { -brand-name-linux } witte jo al hoe wichtich online privacy en befeiliging binne. Jo kenne wierskynlik ek { -brand-name-mozilla } en wêr’t wy foar stean – in privee, iepen en frij ynternet foar elkenien. It is tiid om dy twa tegearre te bringen.
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } foar { -brand-name-ubuntu } { -brand-name-linux } – in perfekte privee kombinaasje
 vpn-linux-ability = Nim in ekstra befeiligingsmaatregel wannear’t jo online binne – sawol thús as ûnderweis – mei { -brand-name-mozilla-vpn }. Foar in lyts moannebedrach wurdt gebrûk makke fan it avansearre { -brand-name-wireguard }®-protokol om jo ynternetferbining op jo { -brand-name-linux }-basearre kompjûter, en de measte oare apparaten, te fersiferjen, sadat jo programma's streame kinne, games spylje kinne, winkelje kinne en jo jo deistige online libben liede kinne yn de wittenskip dat jo beskerme wurde.
@@ -34,4 +34,4 @@ vpn-linux-devices-copy = Mei ien abonnemint kinne jo { -brand-name-mozilla-vpn }
 vpn-linux-speed-headline = Ultrafluch mei ûnbeheinde data
 vpn-linux-speed-copy = Spylje games, stream films en programma’s en sneup op it web mei ultrahege snelheden en sûnder beheining fan de bânbreedte – { -brand-name-mozilla-vpn } is ûnbeheind.
 vpn-linux-log-headline = Jo gegevens binne fan jo
-vpn-linux-log-copy = Guon VPN’s logge jo aktiviteit op harren servers. { -brand-name-mozilla-vpn } folget jo net online – dat is feitlik in grut part fan wêr't wy as bedriuw foar stean.
+vpn-linux-log-copy = Guon VPN’s logge jo aktiviteit op harren servers. { -brand-name-mozilla-vpn } folget jo net online – dat is feitlik in grut part fan wêr’t wy as bedriuw foar stean.
