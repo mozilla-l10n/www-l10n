@@ -7,3 +7,4 @@
 
 # HTML Page Title
 vpn-resource-center-title = VPN-boarnensintrum
+vpn-resource-center-whats-the-deal = Hoe sit it mei Virtual Private Networks?
