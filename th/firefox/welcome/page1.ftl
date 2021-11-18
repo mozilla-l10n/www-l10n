@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
@@ -10,8 +10,18 @@ welcome-page1-more-than-a-browser-firefox = เป็นมากกว่าเ
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = ทำขั้นตอนต่อไปเพื่อปกป้องตัวคุณเองในโลกออนไลน์ด้วยตระกูลผลิตภัณฑ์ของ { -brand-name-firefox }
 welcome-page1-stay-ahead-of-hackers-check = ปลอดภัยจากแฮกเกอร์อยู่เสมอ ตรวจสอบการรั่วไหลของข้อมูลด้วย { -brand-name-firefox-monitor }
+welcome-page1-youre-on-track-to-stay-protected = คุณอยู่ในเส้นทางที่จะได้รับการปกป้องแล้ว
+welcome-page1-youve-got-the-web-browser = คุณได้รับเบราว์เซอร์ที่ปกป้องความเป็นส่วนตัวของคุณแล้ว ตอนนี้ได้เวลาเฝ้าระวังเหล่าแฮกเกอร์ทั้งหลายแล้ว
 welcome-page1-check-your-breach-report = ตรวจสอบรายงานการรั่วไหลของคุณ
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } จะแสดงให้คุณเห็นเมื่อข้อมูลของคุณมีการรั่วไหล และจะเตือนคุณเมื่อการรั่วไหลเกิดขึ้นในอนาคต
 welcome-page1-stay-ahead-of-hackers = ป้องกันแฮกเกอร์
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = ค้นหาวิธีปกป้องข้อมูลของคุณด้วย<a href="{ $security_tips }">คำแนะนำเกี่ยวกับการรักษาความปลอดภัยของ { -brand-name-monitor }</a>
 welcome-page1-stay-in-the-know = รับทราบข่าวสารอยู่เสมอ
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = คุณเป็นหนึ่งใน 100,985,047 คนที่ถูกเชิญไปร่วม <a href="{ $evite_breach }">“งานเลี้ยงข้อมูลที่รั่วไหลของ Evite”</a> หรือเปล่า
 welcome-page1-why-am-i-seeing-this = ทำไมฉันจึงเห็นสิ่งนี้
