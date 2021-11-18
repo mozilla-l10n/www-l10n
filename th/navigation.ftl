@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = ดาวน์โหลด { -brand-name-firefox }
 navigation-get-a-firefox-account = รับ{ -brand-name-firefox-account }
@@ -75,6 +75,7 @@ navigation-share-large-files-safely = แชร์ไฟล์ขนาดให
 navigation-save-quality-content = บันทึกเนื้อหาคุณภาพและเติมพลังให้ใจของคุณได้ทุกที่
 navigation-sign-up = ลงทะเบียน
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: รวดเร็ว ง่าย และเป็นส่วนตัว
+navigation-protect-your-entire-device = ปกป้องอุปกรณ์และแอปพลิเคชันทั้งหมดของคุณ ปิดบังตำแหน่งที่ตั้งจริงของคุณ และเชื่อมต่ออุปกรณ์ได้สูงสุด 5 เครื่อง สมัครสมาชิกเลย
 # Outdated string
 navigation-connected-and-protected = เชื่อมต่อและป้องกัน
 navigation-join = เข้าร่วม
@@ -96,6 +97,7 @@ navigation-donate-your-voice-to = บริจาคเสียงของค�
 navigation-machine-learning = เครื่องเรียนรู้
 # Outdated string
 navigation-web-of-things-iot = เว็บของทุกสรรพสิ่ง (IoT)
+navigation-help-make-deep-learning = ช่วยทำให้อัลกอริธึมการเรียนรู้เชิงลึกพร้อมใช้งานในโลกโอเพนซอร์ส
 # Outdated string
 navigation-make-devices-connected = ทำให้อุปกรณ์ที่เชื่อมต่อกับอินเทอร์เน็ตปลอดภัย, มั่นคง และทำงานร่วมกันได้
 navigation-developers = นักพัฒนา

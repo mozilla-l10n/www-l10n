@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -15,6 +15,10 @@ firefox-enterprise-get-firefox-for-your-enterprise = รับ { -brand-name-fir
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = รับเบราว์เซอร์<a href="{ $url }">{ -brand-name-firefox-extended-support-release } หรือ Rapid Release</a> สำหรับการรักษาความปลอดภัยของข้อมูลและการปกป้องข้อมูลแบบครอบคลุม
 firefox-enterprise-unmatched-data-protection = ปกป้องข้อมูลชนิดต่าง ๆ บนจังหวะการออกรุ่นที่เหมาะกับคุณ
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-enterprise-the-firefox-browser-is-open = เบราว์เซอร์ { -brand-name-firefox } เป็นซอฟต์แวร์โอเพนซอร์สและมีการป้องกันการติดตามที่มากขึ้น ซึ่งเป็นส่วนหนึ่งของความมุ่งมั่นในการปกป้องข้อมูลที่มีมายาวนานของเรา
+firefox-enterprise-your-data-stays-your-business = ข้อมูลของคุณจะยังอยู่ในธุรกิจของคุณ
+firefox-enterprise-deploy-when-and-how-you-want = ปรับใช้เมื่อใดก็ได้และอย่างไรก็ได้ที่คุณต้องการ
 firefox-enterprise-enterprise-downloads = การดาวน์โหลด { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 บิต
 firefox-enterprise-macos = { -brand-name-mac }
