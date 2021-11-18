@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -21,11 +21,23 @@ firefox-products-desktop = เดสก์ท็อป
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = ดูเบราว์เซอร์ทั้งหมด
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = ท่องเว็บ สตรีม และทำงานให้เสร็จบนเซิร์ฟเวอร์ในกว่า 30 ประเทศเพื่อการเชื่อมต่ออินเทอร์เน็ตที่ปลอดภัยในมุมมองใหม่
+firefox-products-get-mozilla-vpn = รับ { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = ปกป้องที่อยู่อีเมลจริงของคุณเพื่อช่วยควบคุมกล่องจดหมายของคุณ
+firefox-products-learn-more-about-relay = เรียนรู้เพิ่มเติมเกี่ยวกับ { -brand-name-firefox-relay }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = รักษารหัสผ่านของคุณให้ปลอดภัย และเข้าถึงรหัสผ่านของคุณจากอุปกรณ์ที่ซิงค์ทั้งหมดของคุณ
+# Obsolete string
 firefox-products-download-lockwise = ดาวน์โหลด { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = เปิดใน { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = เรียนรู้เพิ่มเติมเกี่ยวกับ { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = ส่งไฟล์ขนาดใหญ่และเอกสารสำคัญของคุณได้อย่างปลอดภัยในขนาดสูงสุด 2.5G
 firefox-products-send-a-file = ส่งไฟล์

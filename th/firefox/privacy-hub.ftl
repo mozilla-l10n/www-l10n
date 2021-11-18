@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -84,3 +84,6 @@ firefox-privacy-hub-already-have-an-account = มีบัญชีแล้ว�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = อ่าน<a href="{ $url }">ประกาศความเป็นส่วนตัว</a>สำหรับผลิตภัณฑ์ของเรา
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = ท่องเว็บ สตรีม และทำงานให้เสร็จบนเซิร์ฟเวอร์ในกว่า 30 ประเทศเพื่อการเชื่อมต่ออินเทอร์เน็ตที่ปลอดภัยในมุมมองใหม่
+firefox-privacy-hub-get-mozilla-vpn = รับ { -brand-name-mozilla-vpn }

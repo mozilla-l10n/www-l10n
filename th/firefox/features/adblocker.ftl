@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -42,6 +42,7 @@ features-adblocker-do-it-yourself-custom = โหมดกำหนดเอง
 features-adblocker-the-custom-setting-gives = การตั้งค่าที่กำหนดเองจะให้ตัวเลือกที่ดีที่สุดแก่คุณ คุณสามารถตัดสินใจได้ว่าคุณจะปิดกั้นอะไรบ้าง รวมถึงตัวติดตาม คุกกี้ และอื่น ๆ อีกมากมาย หากคุณอนุญาตคุกกี้จากเว็บไซต์ คุณจะอยู่ในโหมดกำหนดเองโดยอัตโนมัติ
 features-adblocker-cover-your-trail-block = ปกปิดร่องรอยของคุณโดยการปิดกั้นตัวติดตาม
 features-adblocker-click-on-the-trackers = คลิกที่กล่อง ตัวติดตาม แล้วคุณจะสามารถปิดกั้นตัวติดตามต่าง ๆ ได้สองวิธี วิธีแรกคือปิดกั้นเมื่อคุณกำลังใช้หน้าต่างส่วนตัว อีกวิธีหนึ่งคือปิดกั้นในทุกหน้าต่าง โปรดทราบว่าหากคุณเลือกปิดกั้นตัวติดตามเสมอ บางหน้าอาจไม่โหลดอย่างถูกต้อง
+features-adblocker-take-a-bite-out-of-cookies = กัดคุกกี้กันสักหน่อย
 features-adblocker-send-a-do-not-track-signal = ส่งสัญญาณ ไม่ติดตาม
 features-adblocker-speed-up-thanks-to-ad = ท่องเว็บได้เร็วขึ้นด้วยตัวติดตามโฆษณา
 features-adblocker-take-control-of-your-browser = เข้าควบคุมเบราว์เซอร์ของคุณ
