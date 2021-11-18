@@ -1,21 +1,21 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
 firefox-faq = { -brand-name-firefox }-FAQ
-whether-you-searched-privacy = Oft jo no nei in flugge browser dy't jo privacy beskermet socht hawwe, dizze faakstelde fragen binne der om jo meast prangjende fragen oer { -brand-name-firefox } te beäntwurdzjen.
-whether-you-searched-independant = Oft jo no nei in flugge browser socht hawwe, oft jo op syk binne nei in ûnôfhinklik technologybedriuw dy't jo privacy beskermet, dizze faakstelde fragen binne der om jo meast prangjende fragen oer { -brand-name-firefox } te beäntwurdzjen.
+whether-you-searched-privacy = Oft jo no nei in flugge browser dy’t jo privacy beskermet socht hawwe, dizze faakstelde fragen binne der om jo meast prangjende fragen oer { -brand-name-firefox } te beäntwurdzjen.
+whether-you-searched-independant = Oft jo no nei in flugge browser socht hawwe, oft jo op syk binne nei in ûnôfhinklik technologybedriuw dy’t jo privacy beskermet, dizze faakstelde fragen binne der om jo meast prangjende fragen oer { -brand-name-firefox } te beäntwurdzjen.
 what-is-firefox = Wat is { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
-the-firefox-browser = De { -brand-name-firefox-browser } is de iennige grutte browser dy't stipe wurdt troch in bedriuw sûnder winsteachmerk, dat jo persoanlike gegevens net ferkeapet oan advertearders en tagelyk helpt jo persoanlike gegevens te beskermjen. Lês mear oer de <a href="{ $url }">{ -brand-name-firefox-browsers }</a> en <a href="{ $url2 }">oare produkten.</a>
+the-firefox-browser = De { -brand-name-firefox-browser } is de iennige grutte browser dy’t stipe wurdt troch in bedriuw sûnder winsteachmerk, dat jo persoanlike gegevens net ferkeapet oan advertearders en tagelyk helpt jo persoanlike gegevens te beskermjen. Lês mear oer de <a href="{ $url }">{ -brand-name-firefox-browsers }</a> en <a href="{ $url2 }">oare produkten.</a>
 how-do-i = Hoe krij ik de { -brand-name-firefox-browser }?
 
 # Variables:
@@ -30,7 +30,7 @@ is-firefox-free = Is { -brand-name-firefox } fergees?
 yep-the-firefox = Ja! De { -brand-name-firefox-browser } is fergees. Superfergees, eins. Gjin ferburgen kosten, neat. Jo betelje neat foar it gebrûk, en wy ferkeapje jo persoansgegevens net.
 related-questions-free = Besibbe fragen: is { -brand-name-firefox-browser } fergees, kostet { -brand-name-firefox } jild
 is-chrome-better = Is { -brand-name-chrome } better as { -brand-name-firefox }?
-no-we-dont = Nee, wy tinke net dat { -brand-name-chrome } better is as { -brand-name-firefox }, en wol om dizze reden: as minsken freegje hokker browser better is, freegje se eins hokker browser flugger en feiliger is. { -brand-name-firefox } wurdt moanliks bywurke, om derfoar te soargjen dat jo de fluchste browser hawwe dy't automatysk jo privacy respektearret.
+no-we-dont = Nee, wy tinke net dat { -brand-name-chrome } better is as { -brand-name-firefox }, en wol om dizze reden: as minsken freegje hokker browser better is, freegje se eins hokker browser flugger en feiliger is. { -brand-name-firefox } wurdt moanliks bywurke, om derfoar te soargjen dat jo de fluchste browser hawwe dy’t automatysk jo privacy respektearret.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -55,11 +55,11 @@ does-firefox-sell = Ferkeapet { -brand-name-firefox } persoanlike gegevens?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-nope-never-have = Nee. Nea dien, en sille wy ek nea dwaan. En wy beskermje jo tsjin in protte fan de advertearders dy't dat wol dogge. { -brand-name-firefox }-produkten binne ûntwurpen om jo privacy te beskermjen. <a href="{ $url }">Dat sizze wy ta.</a>
+nope-never-have = Nee. Nea dien, en sille wy ek nea dwaan. En wy beskermje jo tsjin in protte fan de advertearders dy’t dat wol dogge. { -brand-name-firefox }-produkten binne ûntwurpen om jo privacy te beskermjen. <a href="{ $url }">Dat sizze wy ta.</a>
 why-is-firefox = Wêrom is { -brand-name-firefox } sa stadich?
 firefox-isnt-slow = { -brand-name-firefox } is net stadich… no. Yn 2017 hawwe wy ús browserengine folslein opnij boud (mei de namme Quantum), om derfoar te soargjen dat { -brand-name-firefox } de striid oangean kin mei oare grutte browsers. En ús trackerblokkearring helpt siden noch flugger te laden. { -brand-name-firefox } is dus tige rap, sûnder jo privacy op te offerjen.
 is-firefox-chromium = Is { -brand-name-firefox } basearre op { -brand-name-chromium }?
-firefox-is-not = { -brand-name-firefox } is net basearre op { -brand-name-chromium } (it opensource-browserprojekt dat de kearn is fan { -brand-name-google } { -brand-name-chrome }). Eins binne wy ien fan de lêste browsers dy't dat net binne. { -brand-name-firefox } draait op ús Quantum-browserengine, spesjaal boud foar { -brand-name-firefox }, sadat wy derfoar soargje kinne dat jo gegevens mei respekt behannele wurde en privee bliuwe.
+firefox-is-not = { -brand-name-firefox } is net basearre op { -brand-name-chromium } (it opensource-browserprojekt dat de kearn is fan { -brand-name-google } { -brand-name-chrome }). Eins binne wy ien fan de lêste browsers dy’t dat net binne. { -brand-name-firefox } draait op ús Quantum-browserengine, spesjaal boud foar { -brand-name-firefox }, sadat wy derfoar soargje kinne dat jo gegevens mei respekt behannele wurde en privee bliuwe.
 does-firefox-use = Brûkt { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
@@ -70,9 +70,9 @@ does-firefox-have = Hat { -brand-name-firefox } in ynboude VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
-firefox-does-not = { -brand-name-firefox } hat gjin ynboude VPN (virtual private network), mar der binne twa produkten dy't makke binne troch { -brand-name-mozilla }/{ -brand-name-firefox } dy't jo brûke kinne yn oanfolling op de privee { -brand-name-firefox-browser }, dy't de ferbining fan jo browser (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) of jo apparaat (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) op wifi beskermje, krekt as jo IP-adres.
+firefox-does-not = { -brand-name-firefox } hat gjin ynboude VPN (virtual private network), mar der binne twa produkten dy’t makke binne troch { -brand-name-mozilla }/{ -brand-name-firefox } dy’t jo brûke kinne yn oanfolling op de privee { -brand-name-firefox-browser }, dy’t de ferbining fan jo browser (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) of jo apparaat (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) op wifi beskermje, krekt as jo IP-adres.
 related-questions-ip = Besibbe fragen: ferstoppet { -brand-name-firefox } jo IP-adres
 who-owns-firefox = Wa is de eigener fan { -brand-name-firefox }?
 

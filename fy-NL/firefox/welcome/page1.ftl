@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
@@ -11,7 +11,7 @@ welcome-page1-more-than-a-browser-firefox = Mear as in browser – { -brand-name
 welcome-page1-take-the-next-step-to-protect = Nim de folgjende stap om jo online privacy te beskermjen mei de { -brand-name-firefox }-produktfamylje.
 welcome-page1-stay-ahead-of-hackers-check = Bliuw hackers yn it foar. Kontrolearje op datalekken mei { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Jo binne op skema om beskerme te bliuwen
-welcome-page1-youve-got-the-web-browser = Jo hawwe de webbrowser dy't jo privacy beskermet – no is it tiid om in wachtpost foar hackers te krijen.
+welcome-page1-youve-got-the-web-browser = Jo hawwe de webbrowser dy’t jo privacy beskermet – no is it tiid om in wachtpost foar hackers te krijen.
 welcome-page1-check-your-breach-report = Kontrolearje jo datalekkenrapport
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } toant oft jo gegevens troffen binne troch in bekend datalek en warskôget jo as dat yn de takomst bart.

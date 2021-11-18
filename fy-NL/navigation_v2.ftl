@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } downloade
@@ -14,7 +14,7 @@ navigation-v2-get-a-firefox-account = Meitsje in { -brand-name-firefox-account }
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Menu { -brand-name-firefox-browsers } slute
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } foar Desktop
-navigation-v2-get-the-not-for-profit-backed = Download de browser dy't troch in bedriuw sûnder winsteachmerk stipe wurdt op { -brand-name-windows }, { -brand-name-mac-short } of { -brand-name-linux }.
+navigation-v2-get-the-not-for-profit-backed = Download de browser dy’t troch in bedriuw sûnder winsteachmerk stipe wurdt op { -brand-name-windows }, { -brand-name-mac-short } of { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } foar { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Download de oanpasbere mobile browser foar { -brand-name-android }-snoadfoans.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } foar { -brand-name-ios }
@@ -55,7 +55,7 @@ navigation-v2-view-all-products = Alle produkten besjen
 navigation-v2-who-we-are = Wa't wy binne
 navigation-v2-close-who-we-are-menu = Menu Wa't wy binne slute
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla }-manifest
-navigation-v2-learn-about-the-values = Lês oer de wearden en prinsipen dy't ús missy liede.
+navigation-v2-learn-about-the-values = Lês oer de wearden en prinsipen dy’t ús missy liede.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-meet-the-not-for-profit-behind = Kom yn de kunde mei it bedriuw sûnder winsteachmerk efter { -brand-name-firefox }, dat stiet foar in better ynternet.
 navigation-v2-get-involved = Meiwurkje
@@ -63,9 +63,9 @@ navigation-v2-join-the-fight-for-a = Fjochtsje mei foar in sûn ynternet.
 navigation-v2-leadership = Liederskip
 navigation-v2-meet-the-team-thats-building = Kom yn de kunde mei it team dat technology ûntwikkelet foar in better ynternet.
 navigation-v2-careers = Banen
-navigation-v2-work-for-a-mission-driven-updated = Wurkje foar in troch in missy dreaune organisaasje dy't produkten makket dy't minsken foarop sette.
+navigation-v2-work-for-a-mission-driven-updated = Wurkje foar in troch in missy dreaune organisaasje dy’t produkten makket dy’t minsken foarop sette.
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blog
-navigation-v2-learn-about-mozilla-and = Lês oer { -brand-name-mozilla } en de dingen dy't wichtich foar ús binne.
+navigation-v2-learn-about-mozilla-and = Lês oer { -brand-name-mozilla } en de dingen dy’t wichtich foar ús binne.
 navigation-v2-more-about-mozilla = Mear oer { -brand-name-mozilla }
 
 ## Innovation menu
@@ -75,7 +75,7 @@ navigation-v2-close-innovation-menu = Menu Ynnovaasje slute
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-gather-in-this-interactive-online = Kom tegearre yn dizze ynteraktive, online, multidiminsjonale sosjale romte.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-navigation-v2-get-the-firefox-browser-built = Download de { -brand-name-firefox }-browser dy't boud is foar ûntwikkelers.
+navigation-v2-get-the-firefox-browser-built = Download de { -brand-name-firefox }-browser dy’t boud is foar ûntwikkelers.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Besjoch de thúsbasis foar boarnen foar webûntwikkelers.
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }

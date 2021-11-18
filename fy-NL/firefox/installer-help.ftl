@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
@@ -22,7 +22,7 @@ installer-help-firefox-release-desc = Download it nijste. Automatyske privacy is
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = Test hast frijjûne funksjes yn de meast stabile pre-releasebuild.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
-installer-help-firefox-developer-desc = Bou, test, skeal en doch mear mei de iennige browser dy't makke is foar ûntwikkelers.
+installer-help-firefox-developer-desc = Bou, test, skeal en doch mear mei de iennige browser dy’t makke is foar ûntwikkelers.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Sjoch ris nei ús webbrowser fan de folgjende generaasje en help ús er de bêst mooglike browser fan te meitsjen.
 installer-help-need-help = Help nedich mei ynstallearjen?

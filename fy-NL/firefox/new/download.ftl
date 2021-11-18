@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ## Required
@@ -47,7 +47,7 @@ firefox-new-your-system-may-not = Jo systeem foldocht mooglik net oan de easken 
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-new-if-you-see-a-prompt = As jo in melding sjogge wêryn steld wurdt dat de app dy't jo probearje te ynstallearjen gjin troch { -brand-name-microsoft } ferifiearre app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wizigje de ynstellingen foar app-oanrekommandaasjes</a>.
+firefox-new-if-you-see-a-prompt = As jo in melding sjogge wêryn steld wurdt dat de app dy’t jo probearje te ynstallearjen gjin troch { -brand-name-microsoft } ferifiearre app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wizigje de ynstellingen foar app-oanrekommandaasjes</a>.
 firefox-new-visit-support-for-more = Besykje Stipe foar mear details
 
 ## Not-Required
@@ -59,5 +59,5 @@ firefox-new-visit-support-for-more = Besykje Stipe foar mear details
 firefox-new-download-browser = { -brand-name-firefox-browser } downloade
 firefox-new-fast = Fluch, privee en fergees
 firefox-new-from-mozilla = fan { -brand-name-mozilla }
-firefox-new-desc = { -brand-name-firefox-browser } is in fergeze webbrowser dy't siden fluch laadt, minder ûnthâld brûkt en folop funksjes befettet – in projekt fan de non-profitorganisaasje { -brand-name-mozilla }.
+firefox-new-desc = { -brand-name-firefox-browser } is in fergeze webbrowser dy’t siden fluch laadt, minder ûnthâld brûkt en folop funksjes befettet – in projekt fan de non-profitorganisaasje { -brand-name-mozilla }.
 firefox-new-download-a-different = Downloade foar in oar platfoarm of taal

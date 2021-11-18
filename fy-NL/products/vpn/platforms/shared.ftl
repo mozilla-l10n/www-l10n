@@ -40,4 +40,4 @@ vpn-platforms-shared-trust-partner-headline = Oer ús fertroude partner
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-platforms-shared-trust-partner = De { -brand-name-mozilla-vpn } draait op in wrâldwiid netwurk fan servers dy't oandreaun wurde troch <a href="{ $policy }">{ -brand-name-mullvad }</a> en brûkt it <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®-protokol. { -brand-name-mullvad } set jo privacy foarop en hâldt gjin inkelde log by.
+vpn-platforms-shared-trust-partner = De { -brand-name-mozilla-vpn } draait op in wrâldwiid netwurk fan servers dy’t oandreaun wurde troch <a href="{ $policy }">{ -brand-name-mullvad }</a> en brûkt it <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®-protokol. { -brand-name-mullvad } set jo privacy foarop en hâldt gjin inkelde log by.

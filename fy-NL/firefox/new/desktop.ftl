@@ -10,13 +10,13 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Download { -brand-name-firefox-browser } – Fluch, privee en fergees – fan { -brand-name-mozilla }
-firefox-desktop-download-meta-desc = Download { -brand-name-firefox }, in fergeze webbrowser stipe troch { -brand-name-mozilla }, in non-profitorganisaasje dy't harre taleit op ynternetsûnens en privacy. No beskikber op { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } en { -brand-name-ios }.
+firefox-desktop-download-meta-desc = Download { -brand-name-firefox }, in fergeze webbrowser stipe troch { -brand-name-mozilla }, in non-profitorganisaasje dy’t harre taleit op ynternetsûnens en privacy. No beskikber op { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } en { -brand-name-ios }.
 firefox-desktop-download-og-title = Download de fluchste { -brand-name-firefox } ea
 firefox-desktop-download-og-desc = Flugger siden lade, minder ûnthâldgebrûk en fol mei funksjes: de nije { -brand-name-firefox } is hjir.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
-firefox-desktop-download-get-the-browser = Download de browser dy't beskermet wat wichtich is
+firefox-desktop-download-get-the-browser = Download de browser dy’t beskermet wat wichtich is
 # shady is slang which suggests something is untrustworthy
-firefox-desktop-download-no-shady = Gjin skimerich privacybelied of efterdoarkes foar advertearders. Gewoan in razendflugge browser dy't jo net bedriget.
+firefox-desktop-download-no-shady = Gjin skimerich privacybelied of efterdoarkes foar advertearders. Gewoan in razendflugge browser dy’t jo net bedriget.
 firefox-desktop-download-download-options = Downloadopsjes en oare talen
 firefox-desktop-download-browser-support = Stipe foar { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -42,7 +42,7 @@ firefox-desktop-download-primary-password = Haadwachtwurd
 firefox-desktop-love-your-life = Hâld fan jo libben online
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
-firefox-desktop-its-your-internet = It is jo ynternet. Kleur it sa as jo wolle mei tûzenen helpmiddelen, tema’s en útwreidingen. { -brand-name-firefox } is de orizjinele alternative browser dy't minsken boppe winst stelt.
+firefox-desktop-its-your-internet = It is jo ynternet. Kleur it sa as jo wolle mei tûzenen helpmiddelen, tema’s en útwreidingen. { -brand-name-firefox } is de orizjinele alternative browser dy’t minsken boppe winst stelt.
 # Obsolete string
 firefox-desktop-download-master-password = Haadwachtwurd
 firefox-desktop-download-we-block-the-ad = Wy blokkearje de advertinsje-trackers. Jo sneupe flugger oer it ynternet.
@@ -101,7 +101,7 @@ firefox-desktop-download-go-from-light = Gean fan ljochte modus nei donkere modu
 firefox-desktop-download-tweak-your-settings = Pas jo ynstellingen oan
 firefox-desktop-download-theres-no-need = Jo hoege gjin fernoegen te nimmen mei de standert. Wizigje de nij-ljepblêdside, sykbalke, blêdwizers en mear om it ynternet te ferkennen sa as jo dat wolle.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = Stipe troch de <strong>non-profit </strong> dy't minsken foarop stelt
+firefox-desktop-download-backed-by-the = Stipe troch de <strong>non-profit </strong> dy’t minsken foarop stelt
 firefox-desktop-download-challenging-the-status = Daget sûnt 1998 de status quo út
 firefox-desktop-download-your-privacy-comes = Jo privacy stiet foarop
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -140,7 +140,7 @@ firefox-desktop-download-firefox-is-available = { -brand-name-firefox } is beski
 firefox-desktop-download-grab-a-high = Meitsje in ôfbylding mei in hege resolúsje fan alles wat online is mei ús helpmiddel foar <a { $attrs }>skermôfdrukken</a>, dat streekrjocht yn de browser ynboud is
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blokkearret automatysk in protte trackers fan tredden</a> dy't jo webaktiviteit sammelje en ferkeapje.
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blokkearret automatysk in protte trackers fan tredden</a> dy’t jo webaktiviteit sammelje en ferkeapje.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Fragen? <a { $attrs }>{ -brand-name-mozilla }-stipe </a> is der foar jo.
@@ -166,7 +166,7 @@ firefox-desktop-download-in-another-language = Downloade yn in oare taal of foar
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-desktop-download-if-you-see-a-prompt = As jo in melding sjogge wêryn steld wurdt dat de app dy't jo probearje te ynstallearjen gjin troch { -brand-name-microsoft } ferifiearre app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wizigje de ynstellingen foar app-oanrekommandaasjes</a>.
+firefox-desktop-download-if-you-see-a-prompt = As jo in melding sjogge wêryn steld wurdt dat de app dy’t jo probearje te ynstallearjen gjin troch { -brand-name-microsoft } ferifiearre app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wizigje de ynstellingen foar app-oanrekommandaasjes</a>.
 firefox-desktop-download-visit-support-for-more = Besykje Stipe foar mear details
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

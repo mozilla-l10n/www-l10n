@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
@@ -12,7 +12,7 @@ vpn-mac-page-title = { -brand-name-mozilla-vpn } foar { -brand-name-mac-short }
 vpn-mac-page-description = Oft jo no in { -brand-name-mac-short }-desktop, -laptop, { -brand-name-ipad } of { -brand-name-iphone } brûke, beskermje jo hiele apparaat tsjin hackers en nijsgjirrige blikken mei in VPN fan { -brand-name-mozilla }, in pionier op it mêd fan ynternetbefeiliging sûnt 1998.
 # Mac strings
 vpn-mac-hero-headline = Beskermje jo online ferbining mei { -brand-name-mozilla-vpn } foar { -brand-name-mac-short }
-vpn-mac-ability = Fan saken ta frijetiidsbesteging, jo soene jo online feilich fiele moatte, nettsjinsteande wêrom jo online binne. { -brand-name-mozilla-vpn } helpt jo iepenbiere wifi tûker te brûken troch jo ynternetferbining te beskermjen tsjin hackers en ynternetproviders dy't jo gegevens sammelje wolle. De ienklikprivacy is beskikber foar { -brand-name-mac-short } en { -brand-name-ios } (krekt as foar { -brand-name-windows } 10, { -brand-name-linux } en { -brand-name-android }) en hat gjin gefolgen foar jo snelheid. En omdat it in VPN is fan { -brand-name-mozilla } mei in { -brand-name-wireguard }®-protokol, kinne jo der op fertrouwe dat jo online aktiviteit net logd wurdt en jo gegevens fan jo bliuwe – altyd.
+vpn-mac-ability = Fan saken ta frijetiidsbesteging, jo soene jo online feilich fiele moatte, nettsjinsteande wêrom jo online binne. { -brand-name-mozilla-vpn } helpt jo iepenbiere wifi tûker te brûken troch jo ynternetferbining te beskermjen tsjin hackers en ynternetproviders dy’t jo gegevens sammelje wolle. De ienklikprivacy is beskikber foar { -brand-name-mac-short } en { -brand-name-ios } (krekt as foar { -brand-name-windows } 10, { -brand-name-linux } en { -brand-name-android }) en hat gjin gefolgen foar jo snelheid. En omdat it in VPN is fan { -brand-name-mozilla } mei in { -brand-name-wireguard }®-protokol, kinne jo der op fertrouwe dat jo online aktiviteit net logd wurdt en jo gegevens fan jo bliuwe – altyd.
 vpn-mac-wifi-headline = Foel jo feilich op twiveleftige wifi
 vpn-mac-wifi-copy = Gean mei in gerêst hert online as jo iepenbiere wifi brûke, tanksij { -brand-name-mozilla-vpn }. Dy beskermet jo ynternetferbining, sadat jo persoanlike gegevens ferburgen wurde foar hackers en nijsgjirrige blikken.
 vpn-mac-about-headline = Fan in fertroude technologybouwer
@@ -31,4 +31,4 @@ vpn-mac-devices-copy = Jo kompjûter, tablet en snoadfoan fertsjinje allegearre 
 vpn-mac-speed-headline = Jo hoege gjin snelheid op te offerjen
 vpn-mac-speed-copy = Unbeheinde data en gjin bânbreedtebeheiningen betstjutte dat jo de úthoeken fan it ynternet ferkenne kinne lykas jo normaal dogge – mei in ekstra befeiligingsnivo.
 vpn-mac-log-headline = Wat jo online dogge is jo saak
-vpn-mac-log-copy = Genietsje fan gemoedsrêst wannear't jo de { -brand-name-mozilla-vpn } brûke. Jo gegevens wurde fersifere, jo aktiviteit wurdt nea logd en jo privacy is altyd beskerme. Dat is ús belofte oan jo.
+vpn-mac-log-copy = Genietsje fan gemoedsrêst wannear’t jo de { -brand-name-mozilla-vpn } brûke. Jo gegevens wurde fersifere, jo aktiviteit wurdt nea logd en jo privacy is altyd beskerme. Dat is ús belofte oan jo.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
@@ -17,7 +17,7 @@ features-pip-play-the-video = De fideo ôfspylje
 features-pip-heres-how-it-works = Sa wurket it:
 features-pip-play-any-video-in-your-updated = <strong> Spylje elke fideo ôf</strong> yn jo { -brand-name-firefox }-browser, lykas dizze.
 features-pip-play-any-video-in-your = <strong>Spylje elke fideo af</strong> yn jo { -brand-name-firefox }-browser, lykas dizze mei reade pandawelpkes.
-features-pip-click-the-picture-in-picture-button = <strong>Klik op de knop Picture-in-Picture</strong> dy't boppe de fideo ferskynt, en dizze komt nei foaren.
+features-pip-click-the-picture-in-picture-button = <strong>Klik op de knop Picture-in-Picture</strong> dy’t boppe de fideo ferskynt, en dizze komt nei foaren.
 features-pip-cruise-around-to-other = <strong>Sjoch op oare ljepblêden</strong> of sels bûten { -brand-name-firefox }. De fideo bliuwt wêr't hy is!
 features-pip-repeat-steps-1-3-to-have = <strong>Werhelje stappen 1-3</strong> om safolle pip-fideo’s yn byld te hawwen as jo wolle.
 features-pip-3-more-ways-to-use-picture = Noch trije manieren om Picture-in-Picture te brûken

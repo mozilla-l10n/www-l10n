@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Download { -brand-name-firefox } foar jo ûndernimming mei { -brand-name-esr } en Rapid Release
-firefox-enterprise-get-unmatched-data-protection = Krij bjusterbaarlike gegevensbeskerming op de útjeftefrekwinsje dy't by jo past mei { -brand-name-firefox } foar ûndernimmingen. Download { -brand-name-esr } en Rapid Release.
+firefox-enterprise-get-unmatched-data-protection = Krij bjusterbaarlike gegevensbeskerming op de útjeftefrekwinsje dy’t by jo past mei { -brand-name-firefox } foar ûndernimmingen. Download { -brand-name-esr } en Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Oersjoch
 firefox-enterprise-downloads = Downloads
@@ -14,11 +14,11 @@ firefox-enterprise-get-firefox-for-your-enterprise = Download { -brand-name-fire
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Download de <a href="{ $url }">{ -brand-name-firefox-extended-support-release } of Rapid Release</a>-browser foar wiidweidige gegevensbefeiliging en -beskerming.
-firefox-enterprise-unmatched-data-protection = Bjusterbaarlike gegevensbeskerming – op de útjeftefrekwinsje dy't by jo past
+firefox-enterprise-unmatched-data-protection = Bjusterbaarlike gegevensbeskerming – op de útjeftefrekwinsje dy’t by jo past
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = De { -brand-name-firefox }-browser is iepen boarne en biedt Ferbettere beskerming tsjin folgjen – allegearre ûnderdiel fan ús jierrenlange ynset foar gegevensbeskerming.
 firefox-enterprise-your-data-stays-your-business = Jo gegevens bliuwe jo saak
-firefox-enterprise-deploy-when-and-how-you-want = Ymplemintearje wannear't en hoe't jo it wolle
+firefox-enterprise-deploy-when-and-how-you-want = Ymplemintearje wannear’t en hoe't jo it wolle
 firefox-enterprise-with-install-packages-and = Mei ynstallaasjepakketten en in breed oanbod fan groepsbelied en -funksjes is de ymplemintaasje flugger en fleksibeler as ea – en in fluitsje fan in sint yn { -brand-name-windows }- en { -brand-name-mac }-omjouwingen.
 firefox-enterprise-choose-your-release-cadence = Kies jo útjeftefrekwinsje
 firefox-enterprise-get-rapid-releases-to-make = Download flugge útjeftes om der wis fan te wêzen dat jo de nijste funksjes flugger ûntfange, of kies foar wiidweidich foar in superstabile ûnderfining.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -23,7 +23,7 @@ history-by-creating-an-open-community = Troch in iepen mienskip te foarmjen, wie
 #   $bugzilla (url) link to https://www.bugzilla.org
 #   $projects (url) link to https://www.mozilla.org/firefox/
 history-community-members-got-involved = Mienskipsleden giene meidwaan en fergrutten it berik fan de <a href="{ $mission }">oarspronklike missy</a> fan it projekt – yn stee fan allinnich mar oan de folgjende browser fan { -brand-name-netscape } te wurkjen, begûnen minsken <a href="{ $browsers }">útienrinnende browsers</a>, <a href="{ $bugzilla }">ûntwikkelhelpmiddelen</a> en in rige oare <a href="{ $projects }">projekten</a> te meitsjen.
-history-people-contributed-to-mozilla = Minsken levere op ferskate wizen bydragen oan { -brand-name-mozilla }, mar elkenien hie in passy foar it meitsjen fan fegeze software dy't derfoar soargje soe dat minsken in kar hawwe yn hoe't se it ynternet belibje.
+history-people-contributed-to-mozilla = Minsken levere op ferskate wizen bydragen oan { -brand-name-mozilla }, mar elkenien hie in passy foar it meitsjen fan fegeze software dy’t derfoar soargje soe dat minsken in kar hawwe yn hoe't se it ynternet belibje.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
 history-after-several-years-of-development = Nei in oantal jierren ûntwikkeling waard yn 2002 <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, de earste grutte ferzje, útbrocht. Yn dizze ferzje sieten in protte ferbetteringen yn de browser, e-mailclient en oare tapassingen yn it pakket, mar it waard net troch in protte minsken brûkt.
@@ -61,12 +61,12 @@ history-more-people-than-ever-before = Mear minsken as ea tefoaren brûke it ynt
 # Variables:
 #   $range (url) link to https://www.wikipedia.org
 #   $areas (url) link to https://creativecommons.org/
-history-a-sustainable-organization = Der is in duorsume organisaasje opset dy't merkemechanismen brûkt om in missy foar it grutte publyk te stypjen, en dit model is troch oaren opnij brûkt om iepen, transparante en gearwurkjende organisaasjes yn in <a href="{ $range }">breed skala</a> <a href="{ $areas }">fan gebieden</a> op te setten.
+history-a-sustainable-organization = Der is in duorsume organisaasje opset dy’t merkemechanismen brûkt om in missy foar it grutte publyk te stypjen, en dit model is troch oaren opnij brûkt om iepen, transparante en gearwurkjende organisaasjes yn in <a href="{ $range }">breed skala</a> <a href="{ $areas }">fan gebieden</a> op te setten.
 history-the-future-is-full-of-challenges = De takomst sit fol útdagingen en mooglikheden lykas dy yn ús ferline.
 history-theres-no-guarantee-that = Der is gjin garânsje dat it ynternet iepen, plezierich of feilich bliuwe sil.
 history-mozilla-will-continue-to = { -brand-name-mozilla } sil trochgean mei it bieden fan mooglikheden foar minsken om harren stim hearre te litten en harren eigen onlinelibben foarm te jaan.
 history-of-course-were-not-alone = Fansels dogge wy dit net allinnich.
-history-the-mozilla-community-together = De { -brand-name-mozilla }-mienskip bestiet, tegearre mei oare iepenboarneprojekten en oare algemien nut beëagjende ynstellingen, allinnich mei tank oan de minsken dy't harren ynsette foar it realisearjen fan ús mienskiplike doelen.
+history-the-mozilla-community-together = De { -brand-name-mozilla }-mienskip bestiet, tegearre mei oare iepenboarneprojekten en oare algemien nut beëagjende ynstellingen, allinnich mei tank oan de minsken dy’t harren ynsette foar it realisearjen fan ús mienskiplike doelen.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = As jo ús yn ús missy help wolle, <a href="{ $contribute }">doch dan mei</a>.

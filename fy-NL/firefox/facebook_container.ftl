@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -12,8 +12,6 @@ facebook-container-get-the-facebook-container = Download de útwreiding { -brand
 facebook-container-download-firefox-and-get-the = Download { -brand-name-firefox } en de útwreiding { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = De { -brand-name-facebook-container }-útwreiding is op dit stuit allinnich beskikber foar { -brand-name-firefox } foar desktop.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -35,5 +33,5 @@ facebook-container-installing-the-extension-is = De ynstallaasje fan de <a href=
 facebook-container-about-firefox-and-mozilla = Oer { -brand-name-firefox } en { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
-facebook-container-were-backed-by-mozilla-the = Wy wurde stipe troch <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, de non-profitorganisaasje foar wa't de minsken wichtiger binne as winst en dy't harren derfoar ynset dat elkenien op it ynternet mear ynfloed hat. Wy hawwe dizze útwreiding ûntwikkele, omdat wy fan miening binne dat elkenien syn privacy en feilichheid mei ienfâldich ark beheare moatte kin.
+facebook-container-were-backed-by-mozilla-the = Wy wurde stipe troch <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, de non-profitorganisaasje foar wa't de minsken wichtiger binne as winst en dy’t harren derfoar ynset dat elkenien op it ynternet mear ynfloed hat. Wy hawwe dizze útwreiding ûntwikkele, omdat wy fan miening binne dat elkenien syn privacy en feilichheid mei ienfâldich ark beheare moatte kin.
 facebook-container-browse-freely-with-firefox = Browse hjoed-de-dei frij mei { -brand-name-firefox }.

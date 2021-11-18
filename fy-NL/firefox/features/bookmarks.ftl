@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
@@ -27,9 +27,9 @@ features-bookmarks-customize-that-bookmark = Pas dy blêdwizer oan
 features-bookmarks-futz-with-that-bookmark = Belibje dy blêdwizer
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
-features-bookmarks-practice-your-precision = Oefen jo presise mei elke <a href="{ $url }">add-on</a> foar blêdwizerbehear dy't jo betinke kinne, fan momintopnamen fan folsleine siden oant fluch omskeakelbere sidebalken en fêstsette priveeblêdwizers.
+features-bookmarks-practice-your-precision = Oefen jo presise mei elke <a href="{ $url }">add-on</a> foar blêdwizerbehear dy’t jo betinke kinne, fan momintopnamen fan folsleine siden oant fluch omskeakelbere sidebalken en fêstsette priveeblêdwizers.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
-features-bookmarks-practice-your-exactitude = Oefen jo presise mei alle <a href="{ $url }">add-ons</a> foar blêdwizerbehear dy't jo betinke kinne, fan momintopnamen fan folsleine siden oant fluch omskeakelbere sidebalken en fêstsette priveeblêdwizers.
+features-bookmarks-practice-your-exactitude = Oefen jo presise mei alle <a href="{ $url }">add-ons</a> foar blêdwizerbehear dy’t jo betinke kinne, fan momintopnamen fan folsleine siden oant fluch omskeakelbere sidebalken en fêstsette priveeblêdwizers.

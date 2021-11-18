@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -42,13 +42,13 @@ firefox-channel-test-about-to-be-released = Test hast frijjûne funksjes yn de m
 firefox-channel-release-notes = Utjefteopmerkingen
 firefox-channel-previous-nightly-builds = Eardere builds fan { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
-firefox-channel-build-test-scale-and-more = Bou, test, skeal en doch mear mei de iennichste browser dy't makke is foar ûntwikkelers.
+firefox-channel-build-test-scale-and-more = Bou, test, skeal en doch mear mei de iennichste browser dy’t makke is foar ûntwikkelers.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } is in net-stabyl test- en ûntwikkelplatfoarm. Standert ferstjoert { -brand-name-developer-edition } gegevens nei { -brand-name-mozilla } – en somtiden ús partners – om ús te helpen by it oanpakken fan problemen en it probearjen fan ideeën. <a href="{ $link }">Lês wat der dield wurdt</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } ferstjoert automatysk feedback nei { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
-firefox-channel-get-a-sneak-peek-at-our = Besjoch alfêst ús browser fan de folgjende generaasje, en help dit de bêste browser te meitsjen dy't it wêze kin: probearje { -brand-name-firefox-nightly }.
+firefox-channel-get-a-sneak-peek-at-our = Besjoch alfêst ús browser fan de folgjende generaasje, en help dit de bêste browser te meitsjen dy’t it wêze kin: probearje { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Test elke dei (of nacht) hagelnije funksjes. Genietsje op eigen risiko.
 firefox-channel-try-new-features-in-a-pre-release = Probearje nije funksjes yn in pre-release-{ -brand-name-ios }-browser | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-features-ios = Underfyn grinsferlizzende funksjes yn in pre-release-browser foar { -brand-name-ios } fia { -brand-name-apple }’s { -brand-name-test-flight }-programma. Ynstallearje it no!

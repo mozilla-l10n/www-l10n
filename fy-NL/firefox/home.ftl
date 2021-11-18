@@ -5,12 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
-firefox-home-firefox-protect-your = { -brand-name-firefox } – Beskermje jo onlinelibben mei produkten dy't privacy foarop stelle
-firefox-home-firefox-is-more-than = { -brand-name-firefox } is mear as in browser. Lês mear oer { -brand-name-firefox }-produkten dy't jo gegevens mei respekt behannelje en dy't boud binne foar privacy, oeral wêr't jo online gean.
+firefox-home-firefox-protect-your = { -brand-name-firefox } – Beskermje jo onlinelibben mei produkten dy’t privacy foarop stelle
+firefox-home-firefox-is-more-than = { -brand-name-firefox } is mear as in browser. Lês mear oer { -brand-name-firefox }-produkten dy’t jo gegevens mei respekt behannelje en dy’t boud binne foar privacy, oeral wêr't jo online gean.
 firefox-home-the-browser-is-just = De browser is mar it begjin
 firefox-home-meet-our-family-of = Kom yn 'e kunde mei ús produktefamylje
 firefox-home-get-trackers-off = Skodzje mear as 2000 trackers ôf – ynklusyf { -brand-name-facebook }
-firefox-home-know-when-hackers-strike = Wit wannear't hackers taslaan – en bliuw se in stap yn it foar
+firefox-home-know-when-hackers-strike = Wit wannear’t hackers taslaan – en bliuw se in stap yn it foar
 firefox-home-start-getting-breach = Untfang meldingen oer datalekken
 # Obsolete string
 firefox-home-keep-your-passwords = Hâld jo wachtwurden feilich op elk apparaat
@@ -27,7 +27,7 @@ firefox-home-trade-clickbait-for = Ruil clickbait yn foar heechweardige ynhâld
 firefox-home-learn-more-about-pocket = Mear ynfo oer { -brand-name-pocket }
 firefox-home-protection-for-your-whole = Beskerming foar jo folsleine apparaat, op elk apparaat.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
-firefox-home-one-login-all-your = Ien oanmelding. Al jo apparaten. Ien famylje fan produkten dy't jo <strong>privacy</strong> respektearje.
+firefox-home-one-login-all-your = Ien oanmelding. Al jo apparaten. Ien famylje fan produkten dy’t jo <strong>privacy</strong> respektearje.
 firefox-home-join-firefox = Doch mei mei { -brand-name-firefox }
 firefox-home-learn-more-about-joining = Mear ynfo oer meidwaan mei { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Download de browserútwreiding

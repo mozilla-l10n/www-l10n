@@ -5,16 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
-browser-history-browser-history = Browserskiednis: epyske machtsstriid dy't ús moderne browsers brocht hat
-browser-history-the-browser-wars-underdogs-giants = De browseroarloggen, underdogs tsjin reuzen en mominten dy't de wrâld wizigje. Lês oer de skiednis fan de webbrowser.
+browser-history-browser-history = Browserskiednis: epyske machtsstriid dy’t ús moderne browsers brocht hat
+browser-history-the-browser-wars-underdogs-giants = De browseroarloggen, underdogs tsjin reuzen en mominten dy’t de wrâld wizigje. Lês oer de skiednis fan de webbrowser.
 browser-history-the-history-of-web = De skiednis fan webbrowsers
-browser-history-world-history-is = De wrâldskiednis is fol epyske machtsstriid, tirannen dy't de wrâld feroverje, en heldhaftige underdogs. De skiednis fan webbrowsers is net hiel oars. Universitêre pioniers skreau ienfâldige software dy't in ynformaasjerevolúsje en striid foar superioriteit fan browsers en ynternetbrûkers feroarsaakje.
+browser-history-world-history-is = De wrâldskiednis is fol epyske machtsstriid, tirannen dy’t de wrâld feroverje, en heldhaftige underdogs. De skiednis fan webbrowsers is net hiel oars. Universitêre pioniers skreau ienfâldige software dy’t in ynformaasjerevolúsje en striid foar superioriteit fan browsers en ynternetbrûkers feroarsaakje.
 browser-history-before-web-era = Foar it ynternettiidrek
 browser-history-in-1950-computers = Yn 1950 nommen kompjûters hiele keamers yn en wiene se dommer as de rekenmasinen fan hjoed. Mar foarútgong gie rap, en tsjin 1960 koene se komplekse programma's útfiere. Regearingen en universiteiten fan oer de hiele wrâld tochten dat it geweldich wêze soe as de masinen koene prate en sa gearwurking en wittenskiplike trochbraken befoarderje koene.
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> wie it earste suksesfolle netwurkprojekt en yn 1969 waard it earste berjocht ferstjoerd fan it laboratoarium foar kompjûterwittenskippen oan de Universiteit fan Kalifornje, Los Angeles (UCLA) nei it Stanford Research Institute ( SRI), ek yn Kalifornje.
-browser-history-that-sparked-a-revolution = Dat soarge foar in revolúsje yn kompjûternetwurken. Nije netwurken waarden foarme en ferbûnen universiteiten en ûndersykssintra fan oer de hiele wrâld. Mar de kommende 20 jier wie it ynternet net tagonklik foar it publyk. It waard beheind ta ûndersikers fan universiteiten en oerheden, studinten en partikuliere bedriuwen. Der wiene tsientallen programma's dy't ynformaasje útwikselje koene fia telefoanlinen, mar gjinien wie maklik te brûken. It echte iepen ynternet, en de earste webbrowser, waard pas yn 1990 makke.
+browser-history-that-sparked-a-revolution = Dat soarge foar in revolúsje yn kompjûternetwurken. Nije netwurken waarden foarme en ferbûnen universiteiten en ûndersykssintra fan oer de hiele wrâld. Mar de kommende 20 jier wie it ynternet net tagonklik foar it publyk. It waard beheind ta ûndersikers fan universiteiten en oerheden, studinten en partikuliere bedriuwen. Der wiene tsientallen programma's dy’t ynformaasje útwikselje koene fia telefoanlinen, mar gjinien wie maklik te brûken. It echte iepen ynternet, en de earste webbrowser, waard pas yn 1990 makke.
 browser-history-web-era = Ynternettiidrek
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
@@ -32,7 +32,7 @@ browser-history-the-browser-wars = De browseroarlogen
 browser-history-by-1995-netscape = Tsjin 1995 wie { -brand-name-netscape } Navigator net de iennige manier om online te gean. Kompjûtersoftwaregigant { -brand-name-microsoft } lisinsjearre de âlde Mosaic-koade en boude syn eigen finster nei it ynternet, <a href="{ $ie }">{ -brand-name-ie }</a>. De útjefte laad ta in oarloch. { -brand-name-netscape } en { -brand-name-microsoft } wurken koartsich om nije ferzjes fan harren programma’s te meitsjen en probearren elk de oaer te oertreffen mei fluggere, bettere produkten.
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
-browser-history-netscape-created = { -brand-name-netscape } hat JavaScript makke en útbrocht, wêrtroch websites krêftige rekkenmooglikheden krigen dy't se nea earder hiene. (Se makken ek de ferneamde <a href="{ $blink }">&lt;blink&gt;-tag.) { -brand-name-microsoft } reagearre mei Cascading Style Sheets (CSS), dat de standert waard foar it ûntwerp fan websiden.
+browser-history-netscape-created = { -brand-name-netscape } hat JavaScript makke en útbrocht, wêrtroch websites krêftige rekkenmooglikheden krigen dy’t se nea earder hiene. (Se makken ek de ferneamde <a href="{ $blink }">&lt;blink&gt;-tag.) { -brand-name-microsoft } reagearre mei Cascading Style Sheets (CSS), dat de standert waard foar it ûntwerp fan websiden.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
 browser-history-things-got-a-little = It rûn in bytsje út de hân yn 1997 doe't { -brand-name-microsoft } { -brand-name-ie } 4.0 útbrocht. It team boude in gigantyske letter ‘e’ en pleatste dizze stikem yn de foartún fan it haadkantoar fan { -brand-name-netscape }. It { -brand-name-netscape }-team hat de gigantyske ‘e’ daliks omsmiten en <a href="{ $dino }">pleatste harren eigen { -brand-name-mozilla }-dinosaurusmaskotte dêrop</a>.

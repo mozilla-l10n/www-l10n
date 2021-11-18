@@ -13,7 +13,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: beskermje jo hiele apparaa
 vpn-landing-page-desc = Brûk de { -brand-name-mozilla-vpn } foar beskerming foar alle apps op jo hiel apparaat. Mei servers yn { $countries } lannen, kinne jo oeral mei elke lokaasje ferbining meitsje.
 vpn-landing-hero-sub-heading-v2 = Befeiliging, betrouberheid en snelheid – op elk apparaat, wêr't jo ek binne.
 # Obsolete string
-vpn-landing-hero-sub-heading = Befeiliging wêrop jo fertrouwe kinne. In namme dy't jo fertrouwe kinne.
+vpn-landing-hero-sub-heading = Befeiliging wêrop jo fertrouwe kinne. In namme dy’t jo fertrouwe kinne.
 vpn-landing-hero-desc = In Virtual Private Network fan de makkers fan { -brand-name-firefox }.
 vpn-landing-privacy-heading = Ien tik nei privacy
 vpn-landing-privacy-desc = Sneup, stream, game en wurkje wylst jo jo online privacy behâlde. Oft jo no reizgje, iepenbiere wifi brûke of gewoanwei op syk binne nei mear online befeiliging, wy sille jo privacy altyd foarop stelle.
@@ -27,7 +27,7 @@ vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } draait op in wrâl
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } draait op in wrâldwiid netwurk fan servers dy't oandreaun wurde troch <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Troch gebrûk te meitsjen fan it meast avansearre  <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>-protokol, fersiferje wy jo netwurkaktiviteit en ferstopje wy jo IP-adres. Wy logge, folgje of diele jo netwurkgegevens nea.
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } draait op in wrâldwiid netwurk fan servers dy’t oandreaun wurde troch <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Troch gebrûk te meitsjen fan it meast avansearre  <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>-protokol, fersiferje wy jo netwurkaktiviteit en ferstopje wy jo IP-adres. Wy logge, folgje of diele jo netwurkgegevens nea.
 vpn-landing-brand-trust-heading = In VPN fan in merk dat jo fertrouwe kinne
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
@@ -53,11 +53,11 @@ vpn-landing-faq-info-question-heading = Hokker ynformaasje bewarret de { -brand-
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
-vpn-landing-faq-info-question-desc-v2 = Wy hâlde ús strikt oan de <a href="{ $principles }">Gegevensprivacyprinsipen</a> fan { -brand-name-mozilla } en wy sammelje de gegevens dy't nedich binne om de VPN operasjoneel te hâlden en om it produkt meidertiid te ferbetterjen. Wy folgje ek kampanje- en trochferwizingsgegevens op ús mobile app, om { -brand-name-mozilla } te helpen begripen hoe effektyf ús marketingkampanjes binne. Mear ynfo yn ús <a href="{ $notice }">Privacyferklearring</a>.
+vpn-landing-faq-info-question-desc-v2 = Wy hâlde ús strikt oan de <a href="{ $principles }">Gegevensprivacyprinsipen</a> fan { -brand-name-mozilla } en wy sammelje de gegevens dy’t nedich binne om de VPN operasjoneel te hâlden en om it produkt meidertiid te ferbetterjen. Wy folgje ek kampanje- en trochferwizingsgegevens op ús mobile app, om { -brand-name-mozilla } te helpen begripen hoe effektyf ús marketingkampanjes binne. Mear ynfo yn ús <a href="{ $notice }">Privacyferklearring</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = Wy logge, folgje of diele neat fan jo netwurkaktiviteit. Wy hâlde ús strikt oan de <a href="{ $url }">gegevensprivacyprinsipen</a> fan { -brand-name-mozilla } en wy sammelje allinnich de gegevens dy't nedich binne om de VPN wurkje te litten en it produkt yn de rin fan de tiid te ferbetterjen.
+vpn-landing-faq-info-question-desc = Wy logge, folgje of diele neat fan jo netwurkaktiviteit. Wy hâlde ús strikt oan de <a href="{ $url }">gegevensprivacyprinsipen</a> fan { -brand-name-mozilla } en wy sammelje allinnich de gegevens dy’t nedich binne om de VPN wurkje te litten en it produkt yn de rin fan de tiid te ferbetterjen.
 vpn-landing-faq-protected-question-heading = Hoe wurdt myn privacy beskerme?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
@@ -66,11 +66,11 @@ vpn-landing-faq-protected-question-desc = It <a href="{ $url }" { $attrs }>{ -br
 vpn-landing-faq-competition-question-heading = Hoe ferhâldt { -brand-name-mozilla-vpn } harren ta de konkurrinsje?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc-v2 = Hoewol fergeze VPN’s oantreklik lykje, gean se net deselde ferplichtingen mei betrekking ta privacy oan as { -brand-name-mozilla-vpn }. Oare VPN’s kinne net bôgje op de <a href="{ $url }">reputaasje</a> fan { -brand-name-mozilla } fan mear as 20 jier fan it bouwen fan produkten dy't minsken en privacy foarop stelle.
+vpn-landing-faq-competition-question-desc-v2 = Hoewol fergeze VPN’s oantreklik lykje, gean se net deselde ferplichtingen mei betrekking ta privacy oan as { -brand-name-mozilla-vpn }. Oare VPN’s kinne net bôgje op de <a href="{ $url }">reputaasje</a> fan { -brand-name-mozilla } fan mear as 20 jier fan it bouwen fan produkten dy’t minsken en privacy foarop stelle.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc = Hoewol fergeze VPN’s oantreklik lykje, gean se net deselde ferplichtingen mei betrekking ta privacy oan as { -brand-name-mozilla-vpn } en kinne se jo gegevens ferkeapje of bewarje. Oare betelle VPN’s kinne net bôgje op de <a href="{ $url }">reputaasje</a> fan { -brand-name-mozilla } fan mear as 20 jier fan it bouwen fan produkten dy't minsken en privacy foarop stelle.
+vpn-landing-faq-competition-question-desc = Hoewol fergeze VPN’s oantreklik lykje, gean se net deselde ferplichtingen mei betrekking ta privacy oan as { -brand-name-mozilla-vpn } en kinne se jo gegevens ferkeapje of bewarje. Oare betelle VPN’s kinne net bôgje op de <a href="{ $url }">reputaasje</a> fan { -brand-name-mozilla } fan mear as 20 jier fan it bouwen fan produkten dy’t minsken en privacy foarop stelle.
 vpn-landing-faq-compatibility-question-heading = Mei hokker apparaten is { -brand-name-mozilla-vpn } kompatibel?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
@@ -135,7 +135,7 @@ vpn-landing-faq-link = Mear faakstelde fragen lêze
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Pleats josels op de wachtlist: { -brand-name-mozilla-vpn }
-vpn-landing-invite-page-desc = Untfang in berjocht wannear't { -brand-name-mozilla-vpn } beskikber is foar jo apparaat en regio.
+vpn-landing-invite-page-desc = Untfang in berjocht wannear’t { -brand-name-mozilla-vpn } beskikber is foar jo apparaat en regio.
 vpn-landing-invite-page-heading = Pleats josels op de VPN-wachtlist
 vpn-landing-invite-email-label = Wat is jo e-mailadres?
 vpn-landing-invite-required-label = Fereaske

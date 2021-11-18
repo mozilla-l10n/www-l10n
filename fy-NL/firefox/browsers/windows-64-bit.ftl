@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -8,18 +8,18 @@
 # HTML page title
 windows-64-bit-firefox-for-windows = { -brand-name-firefox } foar { -brand-name-windows } 64-bits
 # HTML page description
-windows-64-bit-users-on-64-bit-windows = Brûkers fan 64-bits { -brand-name-windows } dy't { -brand-name-firefox } downloade, kinne standert ús 64-bits-ferzje krije. Dat betsjut dat jo in feiligere ferzje fan { -brand-name-firefox } krije.
+windows-64-bit-users-on-64-bit-windows = Brûkers fan 64-bits { -brand-name-windows } dy’t { -brand-name-firefox } downloade, kinne standert ús 64-bits-ferzje krije. Dat betsjut dat jo in feiligere ferzje fan { -brand-name-firefox } krije.
 windows-64-bit-64-bit = 64-bits
 # Main title
 windows-64-bit-a-more-secure-firefox = In feiliger { -brand-name-firefox }.
 # Variables:
 # $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
-windows-64-bit-users-on-64-bit-windows-crashes = Brûkers fan 64-bits { -brand-name-windows } dy't { -brand-name-firefox } downloade, kinne standert ús 64-bits-ferzje krije. Dat betsjut dat jo in feiligere ferzje fan { -brand-name-firefox } krije, in ferzje dy't ek <a href="{ $crashes }">in protte minder ferûngelokket</a>. Hoefolle minder? Yn ús tests oant no ta hat 64-bits { -brand-name-firefox } ûngelokken mei 39% fermindere op kompjûters mei 4 GB RAM of mear.
+windows-64-bit-users-on-64-bit-windows-crashes = Brûkers fan 64-bits { -brand-name-windows } dy’t { -brand-name-firefox } downloade, kinne standert ús 64-bits-ferzje krije. Dat betsjut dat jo in feiligere ferzje fan { -brand-name-firefox } krije, in ferzje dy’t ek <a href="{ $crashes }">in protte minder ferûngelokket</a>. Hoefolle minder? Yn ús tests oant no ta hat 64-bits { -brand-name-firefox } ûngelokken mei 39% fermindere op kompjûters mei 4 GB RAM of mear.
 windows-64-bit-whats-the-difference = Wat is it ferskil tusken 32-bits en 64-bits?
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
-windows-64-bit-heres-the-key-thing = Dit is it wichtichste om te witten: 64-bits tapassingen hawwe tagong ta mear ûnthâld en ferûngelokje minder gau as 32-bits tapassingen. Mei de sprong fan 32- nei 64-bits wurket ek in befeiligingsfunksje neamd <a href="{ $ASLR }">Address Space Layout Randomization (ASLR)</a> better om jo te beskermjen tsjin oanfallers. { -brand-name-linux }- en { -brand-name-mac }-brûkers, meitsje jo gjin soargen, jo genietsje al fan in { -brand-name-firefox } dy't optimalisearre is foar 64-bits.
+windows-64-bit-heres-the-key-thing = Dit is it wichtichste om te witten: 64-bits tapassingen hawwe tagong ta mear ûnthâld en ferûngelokje minder gau as 32-bits tapassingen. Mei de sprong fan 32- nei 64-bits wurket ek in befeiligingsfunksje neamd <a href="{ $ASLR }">Address Space Layout Randomization (ASLR)</a> better om jo te beskermjen tsjin oanfallers. { -brand-name-linux }- en { -brand-name-mac }-brûkers, meitsje jo gjin soargen, jo genietsje al fan in { -brand-name-firefox } dy’t optimalisearre is foar 64-bits.
 windows-64-bit-how-do-you-get-64 = Hoe downloade jo 64-bits { -brand-name-firefox }?
 # Variables:
 # $version (url) - link to https://support.microsoft.com/help/13443/windows-which-operating-system

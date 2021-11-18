@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/principles/
@@ -17,9 +17,9 @@ privacy-principles-manage-user-data-we-collect = mei sammele brûkersgegevens om
 privacy-principles-select-and-interact-with = partners selektearje en dêrmei wurkje
 privacy-principles-shape-our-public-policy = ús publike belied en belangebehertiging foarmjaan
 privacy-principles-no-surprises = Gjin ferrassingen
-privacy-principles-use-and-share-information = Ynformaasje brûke en diele op in manier dy't transparant is en de brûker foardielen biedt.
+privacy-principles-use-and-share-information = Ynformaasje brûke en diele op in manier dy’t transparant is en de brûker foardielen biedt.
 privacy-principles-user-control = Brûkerskontrole
-privacy-principles-develop-products-and = Produkten ûntwikkelje en pleitsje foar de bêste praktiken dy't brûkers kontrôle jouwe oer harren gegevens en online belibben.
+privacy-principles-develop-products-and = Produkten ûntwikkelje en pleitsje foar de bêste praktiken dy’t brûkers kontrôle jouwe oer harren gegevens en online belibben.
 privacy-principles-limited-data = Beheinde gegevens
 privacy-principles-collect-what-we-need = Sammelje wat wy nedich hawwe, de-identifisearje wêr wy kinne en fuortsmite as it net mear nedich is.
 privacy-principles-sensible-settings = Ferstannige ynstellingen

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -18,7 +18,7 @@ firefox-all-platform = Platfoarm:
 firefox-all-language = Taal:
 firefox-all-lang-multi = Meardere talen
 firefox-all-sorry-we-couldnt-find = Sorry, wy koenen de troch jo sochte download net fine. Probearje it opnij of selektearje in download út ûndersteande list.
-firefox-all-the-pre-alpha-version = De pre-alpha-ferzje foar krêftige brûkers dy't op crashes jeie en nije funksjes teste wylst de koade noch ûntwikkele wurde.
+firefox-all-the-pre-alpha-version = De pre-alpha-ferzje foar krêftige brûkers dy’t op crashes jeie en nije funksjes teste wylst de koade noch ûntwikkele wurde.
 firefox-all-64-bit-installers = 64-bits-ynstallaasjeprogramma’s
 firefox-all-choose-a-64-bit-installer = Kies in 64-bits-ynstallaasjeprogramma foar kompjûters mei 64-bits prosessors, wêrmei't se mear RAM oan yndividuele programma’s tawize kinne – mei namme wichtich foar spullen en oare sinnige tapassingen.
 firefox-all-32-bit-installers = 32-bits-ynstallaasjeprogramma’s
@@ -26,14 +26,14 @@ firefox-all-32-bit-installers = 32-bits-ynstallaasjeprogramma’s
 firefox-all-download-the-firefox = Download de { -brand-name-firefox-browser } yn it Frysk en yn mear as 90 oare talen
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Elkenien fertsjinnet tagong ta it ynternet – jo taal mei nea in barriêre foarmje. Dêrom stelle wy – mei help fan tawijde frijwilligers oer de hiele wrâld – de { -brand-name-firefox-browser } beskikber yn mear as 90 talen.
-firefox-all-choose-which-firefox = Kies de { -brand-name-firefox-browser } dy't jo yn jo taal downloade wolle
+firefox-all-choose-which-firefox = Kies de { -brand-name-firefox-browser } dy’t jo yn jo taal downloade wolle
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }-privacyferklearring
 firefox-all-learn-about-firefox = Mear ynformaasje oer { -brand-name-firefox }-browsers
 firefox-all-the-standard-firefox = De standert { -brand-name-firefox }-browser - fluch en privee. As jo net wis binne hokker { -brand-name-firefox } jo wolle, kies dit.
 firefox-all-get-a-sneak-peek-at = Besjoch in foarpriuwke fan de nijste { -brand-name-firefox }-browserfunksjes eardat dizze útjûn wurde.
-firefox-all-test-your-sites-against = Test jo websites tsjin ynkoarten te ferskinen { -brand-name-firefox }-browserfunksjes mei krêftige, fleksibele DevTools dy't standert ynskeakele binne.
-firefox-all-count-on-stability-and = Rekkenje op stabiliteit en brûksgemak mei dizze { -brand-name-firefox }-browser dy't boud is foar bedriuwen.
-firefox-all-windows-installers-for = Windows-ynstallaasjeprogramma’s foar IT-ôfdielingen dy't de konfiguraasje, ymplemintaasje en it behear fan de { -brand-name-firefox-browser } ferienfâldigje.
+firefox-all-test-your-sites-against = Test jo websites tsjin ynkoarten te ferskinen { -brand-name-firefox }-browserfunksjes mei krêftige, fleksibele DevTools dy’t standert ynskeakele binne.
+firefox-all-count-on-stability-and = Rekkenje op stabiliteit en brûksgemak mei dizze { -brand-name-firefox }-browser dy’t boud is foar bedriuwen.
+firefox-all-windows-installers-for = Windows-ynstallaasjeprogramma’s foar IT-ôfdielingen dy’t de konfiguraasje, ymplemintaasje en it behear fan de { -brand-name-firefox-browser } ferienfâldigje.
 firefox-all-arm64-installers = ARM/AArch64-ynstallaasjeprogramma’s
 firefox-all-arm64-installers-optimized = ARM64/AArch64-ynstallaasjeprogramma’s optimalisearre foar Snapdragon-oandreaune { -brand-name-windows }-pc’s.
 firefox-all-product-send-link = In downloadkeppeling nei jo telefoan ferstjoere

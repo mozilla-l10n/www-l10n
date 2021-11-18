@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -13,7 +13,7 @@ nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = Elke 4 oant 5 wiken wurdt in nije grutte ferzje fan { -brand-name-firefox } útbrocht, en dêrtroch wurdt de { -brand-name-nightly }-ferzje ek ophege.
 # Obsolete
 nightly-whatsnew-every-6-to-8-weeks = Elke 6 oant 8 wiken wurdt in nije grutte ferzje fan { -brand-name-firefox } útbrocht, en dêrtroch wurdt de { -brand-name-nightly }-ferzje ek ophege.
-nightly-whatsnew-this-is-a-good = Dit is in goed momint om jo te betankjen foar jo help by it ferbetterjen fan { -brand-name-firefox } en wat ferwizingen te jaan nei dokumintaasje, kommunikaasjekanalen en nijswebsites relatearre oan { -brand-name-nightly } dy't jo miskien ynteressant fine.
+nightly-whatsnew-this-is-a-good = Dit is in goed momint om jo te betankjen foar jo help by it ferbetterjen fan { -brand-name-firefox } en wat ferwizingen te jaan nei dokumintaasje, kommunikaasjekanalen en nijswebsites relatearre oan { -brand-name-nightly } dy’t jo miskien ynteressant fine.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly

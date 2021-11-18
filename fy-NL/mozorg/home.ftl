@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -13,8 +13,8 @@ home-we-make-the-internet-safer = Wy meitsje ynternet feiliger, sûner en flugge
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } is de net-foar-winst efter { -brand-name-firefox }, de orizjinele alternative browser. Wy meitsje produkten en belied om it ynternet yn tsjinst te stellen fan minsken, gjin winst.
 home-our-impact = Us ynfloed
 home-when-you-use-firefox-you-help = As jo { -brand-name-firefox } brûke, helpe jo { -brand-name-mozilla } tsjin online desynformaasje te fjochtsjen, digitale feardichheden oan te learen, en opinysiden minskliker te meitsjen. Besjoch wat in sûner ynternet helpt te meitjsen.
-home-working-to-keep-the-internet = Wy ûnderwize webgeletterdheid, leverje ark en pleitsje út namme fan elkenien dy't it ynternet as in wrâldwide publike helpboarne wurdearret, sadat it ynternet sûn, iepen en foar elkenien tagonklik bliuwt.
-home-working-at-the-grassroots-and = Troch oan de basis en beliedsnivo's te wurkjen, ûnderwize wy in belêzen web, leverje ark en pleitsje út namme fan elk yndividu dy't in ynternet wurdearret, dat boud is op earlikheid, ferskaat en respekt.
+home-working-to-keep-the-internet = Wy ûnderwize webgeletterdheid, leverje ark en pleitsje út namme fan elkenien dy’t it ynternet as in wrâldwide publike helpboarne wurdearret, sadat it ynternet sûn, iepen en foar elkenien tagonklik bliuwt.
+home-working-at-the-grassroots-and = Troch oan de basis en beliedsnivo's te wurkjen, ûnderwize wy in belêzen web, leverje ark en pleitsje út namme fan elk yndividu dy’t in ynternet wurdearret, dat boud is op earlikheid, ferskaat en respekt.
 home-mozilla-information-trust-initiative = { -brand-name-mozilla } Information Trust Initiative
 home-empowering-women-online = Empowering Women Online
 home-the-coral-project = The Coral Project

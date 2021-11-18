@@ -8,7 +8,7 @@
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Wat is in VPN?
 # HTML page description and intro
-vpn-what-is-get-answers-to-nine = Krij antwurd op njoggen faak stelde fragen oer VPN’s, sadat jo witte wat se dogge, wannear't jo der ien brûke moatte en wêrom.
+vpn-what-is-get-answers-to-nine = Krij antwurd op njoggen faak stelde fragen oer VPN’s, sadat jo witte wat se dogge, wannear’t jo der ien brûke moatte en wêrom.
 vpn-what-is-many-of-us = In protte fan ús besteegje meardere oeren per dei oan it ynternet om deistige saken te dwaan, lykas fideo’s besjen, winkelje, game en rekkeningen betelje, ta it behearen fan komplekse wurkprojekten en it fieren fan fertroulike fideopetearen. In <strong>Virtual Private Network (VPN)</strong> is ien fan de beste manieren om online prive en feilich te bliuwen en jo persoanlike gegevens te beskermjen.
 vpn-what-is-how-do-vpns = Hoe wurkje VPN's?
 vpn-what-is-a-vpn-is = In VPN is in helpmiddel wêrmei’t jo oeral feilich tagong hawwe ta ynternet. In VPN wurket troch in feilige ‘tunnel’ te kreëarjen tusken jo apparaat en jo VPN-provider, en hy beskermet jo op twa wichtige manieren:

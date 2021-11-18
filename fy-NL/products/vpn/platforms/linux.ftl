@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
@@ -12,12 +12,12 @@ vpn-linux-page-title = { -brand-name-mozilla-vpn } foar { -brand-name-linux } ({
 vpn-linux-page-description = As in fan fan { -brand-name-ubuntu } { -brand-name-linux } witte jo al hoe wichtich online privacy en befeiliging binne. Jo kenne wierskynlik ek { -brand-name-mozilla } en wêr't wy foar stean – in privee, iepen en frij ynternet foar elkenien. It is tiid om dy twa tegearre te bringen.
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } foar { -brand-name-ubuntu } { -brand-name-linux } – in perfekte privee kombinaasje
-vpn-linux-ability = Nim in ekstra befeiligingsmaatregel wannear't jo online binne – sawol thús as ûnderweis – mei { -brand-name-mozilla-vpn }. Foar in lyts moannebedrach wurdt gebrûk makke fan it avansearre { -brand-name-wireguard }®-protokol om jo ynternetferbining op jo { -brand-name-linux }-basearre kompjûter, en de measte oare apparaten, te fersiferjen, sadat jo programma's streame kinne, games spylje kinne, winkelje kinne en jo jo deistige online libben liede kinne yn de wittenskip dat jo beskerme wurde.
+vpn-linux-ability = Nim in ekstra befeiligingsmaatregel wannear’t jo online binne – sawol thús as ûnderweis – mei { -brand-name-mozilla-vpn }. Foar in lyts moannebedrach wurdt gebrûk makke fan it avansearre { -brand-name-wireguard }®-protokol om jo ynternetferbining op jo { -brand-name-linux }-basearre kompjûter, en de measte oare apparaten, te fersiferjen, sadat jo programma's streame kinne, games spylje kinne, winkelje kinne en jo jo deistige online libben liede kinne yn de wittenskip dat jo beskerme wurde.
 vpn-linux-maker-of-firefox = As ien fan de meast fertroude nammen yn de technologyyndustry, docht { -brand-name-mozilla } der alles oan om derfoar te soargjen dat jo jo feilich fiele, hieltyd as jo online gean.
 vpn-linux-wifi-headline = Bliuw feilich online as jo iepenbiere wifi brûke moatte
 vpn-linux-wifi-copy = Somtiden is iepenbiere wifi jo bêste en iennige opsje. Mei { -brand-name-mozilla-vpn } kinne jo frijút oanmelde by jo e-mail fan it fleanfjild ôf, jo wachtwurden bewurkje by in kafee – alles wat jo normaal thús dogge mei deselde gemoedsrêst.
 vpn-linux-about-headline = In fertroude namme sûnt 1998
-vpn-linux-about-copy = As makkers fan de webbrowser { -brand-name-firefox } stridet { -brand-name-mozilla } al desennia lang foar jo online rjochten – dat is wat wy dogge. As it alternatyf foar technologybedriuwen dy't big data sammelje, sykje wy hieltyd nei nije manieren om it ynternet iepen en frij te hâlden en tagelyk elkenien syn rjocht op privacy te respektearjen.
+vpn-linux-about-copy = As makkers fan de webbrowser { -brand-name-firefox } stridet { -brand-name-mozilla } al desennia lang foar jo online rjochten – dat is wat wy dogge. As it alternatyf foar technologybedriuwen dy’t big data sammelje, sykje wy hieltyd nei nije manieren om it ynternet iepen en frij te hâlden en tagelyk elkenien syn rjocht op privacy te respektearjen.
 vpn-linux-privacy-headline = Befeiliging mar ien klik fuort
 vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } is supermaklik te brûken. Tik op in knop en it fersiferet jo ferbining en ferstoppet it IP-adres op jo { -brand-name-iphone } of { -brand-name-ipad } mei help fan it avansearre { -brand-name-wireguard }®-protokol.
 # Variables:

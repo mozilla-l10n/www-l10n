@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
@@ -17,7 +17,7 @@ vpn-mobile-ability = { -brand-name-mozilla-vpn } foarkomt dat hackers en spionne
 vpn-mobile-wifi-headline = Fiel jo feilich as jo iepenbiere wifi brûke
 vpn-mobile-wifi-copy = Us VPN beskermet jo ynternetferbining tsjin hackers en spionnen, sadat jo winkelje kinne yn it kafee, jo bankrekken kontrolearje kinne yn de tein en oeral jo online saken dwaan kinne mei de wittenskip dat jo IP-adres beskerme wurdt.
 vpn-mobile-about-headline = Oer { -brand-name-mozilla }
-vpn-mobile-about-copy = It meast bekend om ús { -brand-name-firefox-browser } is { -brand-name-mozilla } in wrâldwide mienskip fan brûkers, meiwurkers en ûntwikkelers dy't harren ynsette om de krêft fan it ynternet yn hannen fan minsken te hâlden. Wy binne oprjochte yn 1998 en binne ien fan de pioniers fan it frije en iepen ynternet – en it is ús missy om dat sa te hâlden.
+vpn-mobile-about-copy = It meast bekend om ús { -brand-name-firefox-browser } is { -brand-name-mozilla } in wrâldwide mienskip fan brûkers, meiwurkers en ûntwikkelers dy’t harren ynsette om de krêft fan it ynternet yn hannen fan minsken te hâlden. Wy binne oprjochte yn 1998 en binne ien fan de pioniers fan it frije en iepen ynternet – en it is ús missy om dat sa te hâlden.
 vpn-mobile-privacy-headline = Privacy yn ien klik
 vpn-mobile-privacy-copy = De { -brand-name-mozilla-vpn }-app fersiferet jo ynternetferbining en ferstoppet it IP-adres op jo mobile telefoan of tablet troch gebrûk te meitsjen fan it avansearre { -brand-name-wireguard }®-protokol.
 vpn-mobile-servers-headline = Meitsje ferbining mei servers fan oer de hiele wrâld

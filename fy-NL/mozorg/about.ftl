@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -8,9 +8,9 @@
 # HTML Page title
 about-learn-about-mozilla = Ynfo oer { -brand-name-mozilla }
 # HTML page description
-about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } makket browsers, apps, koade en helpmiddelen dy't minsken foar winst stelle. Us missy: it ynternet foar elkenien iepen en tagonklik hâlde.
+about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } makket browsers, apps, koade en helpmiddelen dy’t minsken foar winst stelle. Us missy: it ynternet foar elkenien iepen en tagonklik hâlde.
 # Main heading
-about-mozilla-makes-browsers-apps = { -brand-name-mozilla } makket browsers, apps, koade en helpmiddelen dy't minsken foar winst stelle.
+about-mozilla-makes-browsers-apps = { -brand-name-mozilla } makket browsers, apps, koade en helpmiddelen dy’t minsken foar winst stelle.
 # Main sub-heading
 about-our-mission-keep-the-internet = Us missy: it ynternet foar elkenien iepen en tagonklik hâlde.
 # Main call to action
@@ -28,7 +28,7 @@ about-corporation-foundation-not = Korporaasje. Stichting. Non-profit.
 about-learn-about-the-mozilla-foundation = Ynfo oer de { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } pleatst minsken boppe winst yn alles wat wy sizze, bouwe en dogge. Eins sit der in non-profitstichting yn it hert fan ús ûndernimming.
 about-the-mozilla-manifesto = It { -brand-name-mozilla }-manifest
-about-the-principles-we-wrote-in = De prinsipen dy't wy yn 1998 skreaun hawwe, binne foar ús oant op de dei fan hjoed liedend. Yn 2018 hawwe wy hjirfoar in addendum makke om yntegraasje, privacy en feilichheid foar elkenien online klam te jaan.
+about-the-principles-we-wrote-in = De prinsipen dy’t wy yn 1998 skreaun hawwe, binne foar ús oant op de dei fan hjoed liedend. Yn 2018 hawwe wy hjirfoar in addendum makke om yntegraasje, privacy en feilichheid foar elkenien online klam te jaan.
 about-read-the-manifesto = Lês it manifest
 about-a-global-view = In globaal oersjoch
 about-with-offices-all-over-the = Mei <a href="{ $url }">kantoaren oer de hiele wrâld</a> beskôgje wy it ynternet as earne wat fan mear kultueren en konteksten.
@@ -42,7 +42,7 @@ about-toronto = Toronto
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = <strong>800</strong> jierliks konsumearre flessen kâld sette kofje.
 about-work-at-mozilla = Wurkje by { -brand-name-mozilla }
-about-join-a-mission-driven-organization = Slút jo oan by in troch in missy dreaun organisaasje dy't doelfêste produkten makket.
+about-join-a-mission-driven-organization = Slút jo oan by in troch in missy dreaun organisaasje dy’t doelfêste produkten makket.
 about-mozilla-careers = Karriêren by { -brand-name-mozilla }
 about-how-you-can-help = Hoe't jo helpe kinne
 about-your-voice-your-code-your = Jo stim. Jo koade. Jo stipe. Der binne sa folle manieren om mei te fjochtsjen foar in sûn ynternet.
@@ -51,5 +51,5 @@ about-get-involved = Meiwurkje
 ## Newsletter
 
 about-get-the-mozilla-newsletter = Untfang de { -brand-name-mozilla }-nijsbrief
-about-stay-informed-about-the-issues = Bliuw ynformearre oer problemen dy't it ynternet oangean, en lês hoe't jo bydrage kinne oan it beskermjen fan de nijste publike helpboarne fan de wrâld.
+about-stay-informed-about-the-issues = Bliuw ynformearre oer problemen dy’t it ynternet oangean, en lês hoe't jo bydrage kinne oan it beskermjen fan de nijste publike helpboarne fan de wrâld.
 about-subscribe = Ynskriuwe

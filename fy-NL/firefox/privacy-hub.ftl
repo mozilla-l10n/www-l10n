@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -21,10 +21,10 @@ firefox-privacy-hub-you-should-be-able-to-decide = Jo soene beslisse moatte kinn
 firefox-privacy-hub-thats-why-everything-we-make = Dêrom respektearret alles wat wy meitsje en dogge ús belofte oer persoanlike gegevens
 firefox-privacy-hub-take-less = Nim minder
 firefox-privacy-hub-we-make-a-point-of-knowing = Wy meitsje it punt om minder oer jo te witen
-firefox-privacy-hub-all-tech-companies-collect = Alle technologybedriuwen sammelje gegevens om harren produkten te ferbetterjen. Mar se hoege net sa folle fan jo persoanlike gegevens te befetsjen. De iennige gegevens dy't wy wolle binne de gegevens dy't jo úteinlik ta nut binne. Wy freegje ús ôf: hawwe wy dit echt nedich? Wêr hawwe wy it foar nedich? En wannear kinne wy it fuortsmite?
+firefox-privacy-hub-all-tech-companies-collect = Alle technologybedriuwen sammelje gegevens om harren produkten te ferbetterjen. Mar se hoege net sa folle fan jo persoanlike gegevens te befetsjen. De iennige gegevens dy’t wy wolle binne de gegevens dy’t jo úteinlik ta nut binne. Wy freegje ús ôf: hawwe wy dit echt nedich? Wêr hawwe wy it foar nedich? En wannear kinne wy it fuortsmite?
 firefox-privacy-hub-keep-it-safe = Hâld it feilich
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Wat wurkje hurd om jopersoanlike gegevens te beskermjen
-firefox-privacy-hub-data-security-is-complicated = Gegevensbefeiliging is yngewikkeld – of dat soe it yn elk gefal wêze moatte. Dêrom nimme wy ekstra stappen om de gegevens dy't wy hawwe te klassifisearjen, hâlde wy rigels oan foar hoe't wy elk type bewarje en beskermje, en stopje wy nea mei it ferbetterjen fan ús prosessen. Wy jouwe jo privacy prioriteit. Wy ynvestearje deryn. Wy binne deroan tawijd. Wy leare sels oare bedriuwen hoe't se it dwaan moatte.
+firefox-privacy-hub-data-security-is-complicated = Gegevensbefeiliging is yngewikkeld – of dat soe it yn elk gefal wêze moatte. Dêrom nimme wy ekstra stappen om de gegevens dy’t wy hawwe te klassifisearjen, hâlde wy rigels oan foar hoe't wy elk type bewarje en beskermje, en stopje wy nea mei it ferbetterjen fan ús prosessen. Wy jouwe jo privacy prioriteit. Wy ynvestearje deryn. Wy binne deroan tawijd. Wy leare sels oare bedriuwen hoe't se it dwaan moatte.
 firefox-privacy-hub-no-secrets = Gjin geheimen
 firefox-privacy-hub-youll-always-know-where-you = By ús witte jo altyd wêr't jo oan ta binne
 # Variables:
@@ -53,7 +53,7 @@ firefox-privacy-hub-get-enhanced-tracking-protection = Untfang Ferbettere besker
 firefox-privacy-hub-download-the-firefox-browser = Download de { -brand-name-firefox }-browser
 firefox-privacy-hub-update-your-firefox-browser = Wurkje jo { -brand-name-firefox }-browser by
 firefox-privacy-hub-invisible-to-the-top-trackers = Unsichtber foar de toptrackers
-firefox-privacy-hub-meet-four-of-the-most-common = Kom yn de kunde mei fjouwer fan de meast foarkommende kategoryen trackers – dy't net mei jo yn de kunde komme sille.
+firefox-privacy-hub-meet-four-of-the-most-common = Kom yn de kunde mei fjouwer fan de meast foarkommende kategoryen trackers – dy’t net mei jo yn de kunde komme sille.
 firefox-privacy-hub-always-in-your-control = Altyd yn kontrôle
 firefox-privacy-hub-want-to-customize-what = Wolle jo oanpasse wat blokkearre wurdt? Jo ynstellingen binne mar ien klik fierder.
 firefox-privacy-hub-protection-beyond-tracking = Beskerming foarby folgjen
@@ -62,19 +62,19 @@ firefox-privacy-hub-if-you-have-a-firefox-account = As jo in { -brand-name-firef
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Deistich wurde wrâldwiid mear as { $trackers } trackers foar { -brand-name-firefox }-brûkers blokkearre.
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email = Wannear't jo jo e-mailadres ynfiere yn { -brand-name-firefox-monitor }, ferjitte wy it daliks neidat wy kontrolearre hawwe op in oerienkomst yn bekende datalekken – útsein as jo ús tastimming jaan om kontrolearje te bliuwen op nije datalekken fan jo persoanlike gegevens.
+firefox-privacy-hub-when-you-enter-your-email = Wannear’t jo jo e-mailadres ynfiere yn { -brand-name-firefox-monitor }, ferjitte wy it daliks neidat wy kontrolearre hawwe op in oerienkomst yn bekende datalekken – útsein as jo ús tastimming jaan om kontrolearje te bliuwen op nije datalekken fan jo persoanlike gegevens.
 firefox-privacy-hub-check-for-breaches = Kontrolearje op datalekken
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
-firefox-privacy-hub-the-passwords-and-credentials = De wachtwurden en oanmeldgegevens dy't jo bewarje yn { -brand-name-firefox-lockwise } wurde op al jo apparaten fersifere, dus sels wy kinne se net sjen.
+firefox-privacy-hub-the-passwords-and-credentials = De wachtwurden en oanmeldgegevens dy’t jo bewarje yn { -brand-name-firefox-lockwise } wurde op al jo apparaten fersifere, dus sels wy kinne se net sjen.
 firefox-privacy-hub-learn-more-about-lockwise = Mear ynfo oer { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
-firefox-privacy-hub-we-cant-see-the-names-or = We kinne de nammen of ynhâld fan de grutte bestannen dy't jo fia { -brand-name-firefox-send } diele net sjen, omdat se end-to-end fersifere wurde – jo kieze wa't sjocht wat jo ferstjoere en jo kinne sels in ferrindatum en in wachtwurd ynstelle.
+firefox-privacy-hub-we-cant-see-the-names-or = We kinne de nammen of ynhâld fan de grutte bestannen dy’t jo fia { -brand-name-firefox-send } diele net sjen, omdat se end-to-end fersifere wurde – jo kieze wa't sjocht wat jo ferstjoere en jo kinne sels in ferrindatum en in wachtwurd ynstelle.
 firefox-privacy-hub-send-a-file = In bestân ferstjoere
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } rekommandearret heechweardige, troch minsken behearde artikelen oan sûnder jo sneupskiednis te sammeljen of jo persoanlike gegevens mei advertearders te dielen.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } brûke
 firefox-privacy-hub-your-firefox-account = Jo { -brand-name-firefox-account }
-firefox-privacy-hub-all-the-information-synced = Alle ynformaasje dy't syngronisearre wurdt fia jo { -brand-name-firefox-account } – fan navigaasjeskiednis oant wachtwurden – wurdt fersifere. En jo accountwachtwurd is de iennige kaai.
+firefox-privacy-hub-all-the-information-synced = Alle ynformaasje dy’t syngronisearre wurdt fia jo { -brand-name-firefox-account } – fan navigaasjeskiednis oant wachtwurden – wurdt fersifere. En jo accountwachtwurd is de iennige kaai.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Nim jo privacy en blêdwizers oeral mei hinne mei in { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
