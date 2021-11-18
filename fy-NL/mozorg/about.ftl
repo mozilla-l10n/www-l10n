@@ -44,12 +44,12 @@ about-800-bottles-of-cold-brew-coffee = <strong>800</strong> jierliks konsumearr
 about-work-at-mozilla = Wurkje by { -brand-name-mozilla }
 about-join-a-mission-driven-organization = Slút jo oan by in troch in missy dreaun organisaasje dy’t doelfêste produkten makket.
 about-mozilla-careers = Karriêren by { -brand-name-mozilla }
-about-how-you-can-help = Hoe't jo helpe kinne
+about-how-you-can-help = Hoe’t jo helpe kinne
 about-your-voice-your-code-your = Jo stim. Jo koade. Jo stipe. Der binne sa folle manieren om mei te fjochtsjen foar in sûn ynternet.
 about-get-involved = Meiwurkje
 
 ## Newsletter
 
 about-get-the-mozilla-newsletter = Untfang de { -brand-name-mozilla }-nijsbrief
-about-stay-informed-about-the-issues = Bliuw ynformearre oer problemen dy’t it ynternet oangean, en lês hoe't jo bydrage kinne oan it beskermjen fan de nijste publike helpboarne fan de wrâld.
+about-stay-informed-about-the-issues = Bliuw ynformearre oer problemen dy’t it ynternet oangean, en lês hoe’t jo bydrage kinne oan it beskermjen fan de nijste publike helpboarne fan de wrâld.
 about-subscribe = Ynskriuwe

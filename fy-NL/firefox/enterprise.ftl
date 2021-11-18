@@ -18,7 +18,7 @@ firefox-enterprise-unmatched-data-protection = Bjusterbaarlike gegevensbeskermin
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = De { -brand-name-firefox }-browser is iepen boarne en biedt Ferbettere beskerming tsjin folgjen – allegearre ûnderdiel fan ús jierrenlange ynset foar gegevensbeskerming.
 firefox-enterprise-your-data-stays-your-business = Jo gegevens bliuwe jo saak
-firefox-enterprise-deploy-when-and-how-you-want = Ymplemintearje wannear’t en hoe't jo it wolle
+firefox-enterprise-deploy-when-and-how-you-want = Ymplemintearje wannear’t en hoe’t jo it wolle
 firefox-enterprise-with-install-packages-and = Mei ynstallaasjepakketten en in breed oanbod fan groepsbelied en -funksjes is de ymplemintaasje flugger en fleksibeler as ea – en in fluitsje fan in sint yn { -brand-name-windows }- en { -brand-name-mac }-omjouwingen.
 firefox-enterprise-choose-your-release-cadence = Kies jo útjeftefrekwinsje
 firefox-enterprise-get-rapid-releases-to-make = Download flugge útjeftes om der wis fan te wêzen dat jo de nijste funksjes flugger ûntfange, of kies foar wiidweidich foar in superstabile ûnderfining.

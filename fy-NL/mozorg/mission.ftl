@@ -14,11 +14,11 @@ mission-we-believe-this-act-of-human-collaboration = Wy leauwe dat dizze died fa
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn = Lês it <a href="{ $url }">Mozilla-manifest</a> foar noch mear ynfo oer de wearden en prinsipen dy’t it neirinnen fan ús missy liede.
-mission-watch-the-video-above-to-learn-more = Besjoch de boppesteande fideo foar mear ynfo oer wa't wy binne, wêr’t wy fuort komme en hoe't wy it ynternet foar jo ferbetterje.
+mission-watch-the-video-above-to-learn-more = Besjoch de boppesteande fideo foar mear ynfo oer wa't wy binne, wêr’t wy fuort komme en hoe’t wy it ynternet foar jo ferbetterje.
 mission-get-involved = Meiwurkje
 mission-volunteer-opportunities-in-a-number = Mooglikheden foar frijwilligers
 mission-history = Skiednis
-mission-where-we-come-from-and-how-we-got = Wêr’t wy fandinne komme en hoe't wy wurden binne wa't wy binne
+mission-where-we-come-from-and-how-we-got = Wêr’t wy fandinne komme en hoe’t wy wurden binne wa't wy binne
 mission-forums = Foarums
 mission-topics-include-support-products = Underwerpen befetsje stipe, produkten en technologyën
 mission-governance = Bestjoer

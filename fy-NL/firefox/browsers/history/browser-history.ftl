@@ -35,7 +35,7 @@ browser-history-by-1995-netscape = Tsjin 1995 wie { -brand-name-netscape } Navig
 browser-history-netscape-created = { -brand-name-netscape } hat JavaScript makke en útbrocht, wêrtroch websites krêftige rekkenmooglikheden krigen dy’t se nea earder hiene. (Se makken ek de ferneamde <a href="{ $blink }">&lt;blink&gt;-tag.) { -brand-name-microsoft } reagearre mei Cascading Style Sheets (CSS), dat de standert waard foar it ûntwerp fan websiden.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
-browser-history-things-got-a-little = It rûn in bytsje út de hân yn 1997 doe't { -brand-name-microsoft } { -brand-name-ie } 4.0 útbrocht. It team boude in gigantyske letter ‘e’ en pleatste dizze stikem yn de foartún fan it haadkantoar fan { -brand-name-netscape }. It { -brand-name-netscape }-team hat de gigantyske ‘e’ daliks omsmiten en <a href="{ $dino }">pleatste harren eigen { -brand-name-mozilla }-dinosaurusmaskotte dêrop</a>.
+browser-history-things-got-a-little = It rûn in bytsje út de hân yn 1997 doe’t { -brand-name-microsoft } { -brand-name-ie } 4.0 útbrocht. It team boude in gigantyske letter ‘e’ en pleatste dizze stikem yn de foartún fan it haadkantoar fan { -brand-name-netscape }. It { -brand-name-netscape }-team hat de gigantyske ‘e’ daliks omsmiten en <a href="{ $dino }">pleatste harren eigen { -brand-name-mozilla }-dinosaurusmaskotte dêrop</a>.
 # Variables:
 #   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
 #   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share

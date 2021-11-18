@@ -11,7 +11,7 @@ privacy-principles-data-privacy-principles = Prinsipen fan gegevensprivacy
 privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } is in iepenboarneprojekt mei in missy om jo ynternetûnderfining te ferbetterjen. Dit is in driuwende krêft efter ús praktiken oangeande privacy.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
-privacy-principles-the-following-five-principles = De folgjende fiif prinsipen komme fuort út it <a href="{ $link }">{ -brand-name-mozilla }-manifest</a> en sizze hoe't wy:
+privacy-principles-the-following-five-principles = De folgjende fiif prinsipen komme fuort út it <a href="{ $link }">{ -brand-name-mozilla }-manifest</a> en sizze hoe’t wy:
 privacy-principles-develop-our-products = ús produkten en services ûntwikkelje
 privacy-principles-manage-user-data-we-collect = mei sammele brûkersgegevens omgean
 privacy-principles-select-and-interact-with = partners selektearje en dêrmei wurkje

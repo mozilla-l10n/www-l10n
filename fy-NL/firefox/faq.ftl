@@ -35,7 +35,7 @@ no-we-dont = Nee, wy tinke net dat { -brand-name-chrome } better is as { -brand-
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
-see-how-firefox = <a href="{ $url }">Besjoch hoe't { -brand-name-firefox } him ferhâldt ta { -brand-name-chrome }.</a>
+see-how-firefox = <a href="{ $url }">Besjoch hoe’t { -brand-name-firefox } him ferhâldt ta { -brand-name-chrome }.</a>
 related-questions-better = Besibbe fragen: is { -brand-name-firefox } better as { -brand-name-chrome }, is { -brand-name-firefox } better as { -brand-name-google }, is { -brand-name-firefox } feiliger as { -brand-name-chrome }, is { -brand-name-firefox } mear privee as { -brand-name-chrome }
 is-firefox-safe-download = Is { -brand-name-firefox } feilich om te downloaden?
 

@@ -24,7 +24,7 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Wy meitsje it punt om minder oe
 firefox-privacy-hub-all-tech-companies-collect = Alle technologybedriuwen sammelje gegevens om harren produkten te ferbetterjen. Mar se hoege net sa folle fan jo persoanlike gegevens te befetsjen. De iennige gegevens dy’t wy wolle binne de gegevens dy’t jo úteinlik ta nut binne. Wy freegje ús ôf: hawwe wy dit echt nedich? Wêr hawwe wy it foar nedich? En wannear kinne wy it fuortsmite?
 firefox-privacy-hub-keep-it-safe = Hâld it feilich
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Wat wurkje hurd om jopersoanlike gegevens te beskermjen
-firefox-privacy-hub-data-security-is-complicated = Gegevensbefeiliging is yngewikkeld – of dat soe it yn elk gefal wêze moatte. Dêrom nimme wy ekstra stappen om de gegevens dy’t wy hawwe te klassifisearjen, hâlde wy rigels oan foar hoe't wy elk type bewarje en beskermje, en stopje wy nea mei it ferbetterjen fan ús prosessen. Wy jouwe jo privacy prioriteit. Wy ynvestearje deryn. Wy binne deroan tawijd. Wy leare sels oare bedriuwen hoe't se it dwaan moatte.
+firefox-privacy-hub-data-security-is-complicated = Gegevensbefeiliging is yngewikkeld – of dat soe it yn elk gefal wêze moatte. Dêrom nimme wy ekstra stappen om de gegevens dy’t wy hawwe te klassifisearjen, hâlde wy rigels oan foar hoe’t wy elk type bewarje en beskermje, en stopje wy nea mei it ferbetterjen fan ús prosessen. Wy jouwe jo privacy prioriteit. Wy ynvestearje deryn. Wy binne deroan tawijd. Wy leare sels oare bedriuwen hoe’t se it dwaan moatte.
 firefox-privacy-hub-no-secrets = Gjin geheimen
 firefox-privacy-hub-youll-always-know-where-you = By ús witte jo altyd wêr’t jo oan ta binne
 # Variables:
@@ -57,7 +57,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Kom yn de kunde mei fjouwer f
 firefox-privacy-hub-always-in-your-control = Altyd yn kontrôle
 firefox-privacy-hub-want-to-customize-what = Wolle jo oanpasse wat blokkearre wurdt? Jo ynstellingen binne mar ien klik fierder.
 firefox-privacy-hub-protection-beyond-tracking = Beskerming foarby folgjen
-firefox-privacy-hub-if-you-have-a-firefox-account = As jo in { -brand-name-firefox-account } hawwe, dan kinne jo ek sjen hoe't wy jo helpe jo persoanlike gegevens en wachtwurden te beskermjen.
+firefox-privacy-hub-if-you-have-a-firefox-account = As jo in { -brand-name-firefox-account } hawwe, dan kinne jo ek sjen hoe’t wy jo helpe jo persoanlike gegevens en wachtwurden te beskermjen.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Deistich wurde wrâldwiid mear as { $trackers } trackers foar { -brand-name-firefox }-brûkers blokkearre.

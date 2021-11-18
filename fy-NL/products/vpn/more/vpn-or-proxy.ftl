@@ -8,8 +8,8 @@
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = It ferskil tusken in VPN en in webproxy
 # HTML page description and intro
-vpn-or-proxy-vpns-and-proxies-are = VPN’s en proxys binne oplossingen foar online privacy en befeiliging. Hjir lêze jo hoe't dizze jo beskermje en hoe't jo de beste opsje kieze.
-vpn-or-proxy-virtual-private-networks = Firtuele priveenetwurken (VPN’s) en befeilige webproxys binne oplossingen foar bettere privacy en feilichheid online, mar it kin ferwarrend wêze om út te sykjen hokker it beste foar jo is. Hjir lêze jo hoe't dizze tsjinsten jo beskermje en hoe't jo de beste opsje kieze foar wannear’t jo online binne.
+vpn-or-proxy-vpns-and-proxies-are = VPN’s en proxys binne oplossingen foar online privacy en befeiliging. Hjir lêze jo hoe’t dizze jo beskermje en hoe’t jo de beste opsje kieze.
+vpn-or-proxy-virtual-private-networks = Firtuele priveenetwurken (VPN’s) en befeilige webproxys binne oplossingen foar bettere privacy en feilichheid online, mar it kin ferwarrend wêze om út te sykjen hokker it beste foar jo is. Hjir lêze jo hoe’t dizze tsjinsten jo beskermje en hoe’t jo de beste opsje kieze foar wannear’t jo online binne.
 vpn-or-proxy-stop-isps-from = Foarkom dat ISP’s jo bespionearje
 # Variables
 #   $firefox (url) - https://www.mozilla.org/firefox/new/

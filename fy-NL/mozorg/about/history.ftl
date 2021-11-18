@@ -23,7 +23,7 @@ history-by-creating-an-open-community = Troch in iepen mienskip te foarmjen, wie
 #   $bugzilla (url) link to https://www.bugzilla.org
 #   $projects (url) link to https://www.mozilla.org/firefox/
 history-community-members-got-involved = Mienskipsleden giene meidwaan en fergrutten it berik fan de <a href="{ $mission }">oarspronklike missy</a> fan it projekt – yn stee fan allinnich mar oan de folgjende browser fan { -brand-name-netscape } te wurkjen, begûnen minsken <a href="{ $browsers }">útienrinnende browsers</a>, <a href="{ $bugzilla }">ûntwikkelhelpmiddelen</a> en in rige oare <a href="{ $projects }">projekten</a> te meitsjen.
-history-people-contributed-to-mozilla = Minsken levere op ferskate wizen bydragen oan { -brand-name-mozilla }, mar elkenien hie in passy foar it meitsjen fan fegeze software dy’t derfoar soargje soe dat minsken in kar hawwe yn hoe't se it ynternet belibje.
+history-people-contributed-to-mozilla = Minsken levere op ferskate wizen bydragen oan { -brand-name-mozilla }, mar elkenien hie in passy foar it meitsjen fan fegeze software dy’t derfoar soargje soe dat minsken in kar hawwe yn hoe’t se it ynternet belibje.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
 history-after-several-years-of-development = Nei in oantal jierren ûntwikkeling waard yn 2002 <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, de earste grutte ferzje, útbrocht. Yn dizze ferzje sieten in protte ferbetteringen yn de browser, e-mailclient en oare tapassingen yn it pakket, mar it waard net troch in protte minsken brûkt.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Fier in jildich e-mailadres yn
 newsletter-form-you-must-agree-to = Jo moatte akkoard gean mei de privacyferklearring
@@ -15,7 +15,7 @@ newsletter-form-text = Tekst
 newsletter-form-get-firefox-news = Krij { -brand-name-firefox }-nijs
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = Ik gean akkoard mei hoe't { -brand-name-mozilla } omgiet mei myn ynformaasje as útlein yn <a href="{ $url }">dit Privacybelied</a>
+newsletter-form-im-okay-with-mozilla = Ik gean akkoard mei hoe’t { -brand-name-mozilla } omgiet mei myn ynformaasje as útlein yn <a href="{ $url }">dit Privacybelied</a>
 newsletter-form-we-will-only-send = Wy sille jo allinnich { -brand-name-mozilla }-relatearre ynformaasje stjoere.
 newsletter-form-we-will-only-send-firefox = Wy stjoere allinnich { -brand-name-firefox }-relatearre ynformaasje.
 newsletter-form-if-you-havent-previously = As jo noch net earder in ynskriuwing foar in { -brand-name-mozilla }-relatearre nijsbrief befêstige hawwe, moatte jo dit mooglik dwaan. Kontrolearje jo Postfek YN of jo spamfilter foar in e-mail fan ús.

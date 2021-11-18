@@ -8,7 +8,7 @@
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Wat is in IP-adres?
 # HTML page description and intro
-vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } beäntwurdet al jo fragen oer IP-adressen, fan wat in IP-adres is, oant hoe't it wurket en oft jo it ferbergje moatte.
+vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } beäntwurdet al jo fragen oer IP-adressen, fan wat in IP-adres is, oant hoe’t it wurket en oft jo it ferbergje moatte.
 vpn-ip-address-every-time-you = Elke kear dat jo op it ynternet sneupe, spylje IP-adressen in essinsjele rol yn de gegevensútwikseling om jo te helpen de websites te sjen dy’t jo opfreegje. Dochs is der in kâns dat jo net witte wat it is, dêrom hawwe wy de meast stelde fragen hjirûnder opsplitst.
 vpn-ip-address-your-ip-address = Jo IP -adres is in unike identifikaasjekoade, lykas in postadres, dy’t keppele is oan jo online aktiviteit. Elke kear dat jo it ynternet brûke (online winkelje, e-mails ferstjoere, tv streame), freegje jo tagong ta in spesifike online bestimming, en yn ruil wurdt ynformaasje nei jo weromstjoerd. Hoe wurket dat? No, it IP stiet foar Internet Protocol, dat de noarms en regels (ja, oars bekend as it protokol) befettet foar it rûtearjen fan gegevens en it ferbinen mei it ynternet. Dit protokol is in set regels dy’t elke partij folgje moat om in bidireksjonele stream fan gegevens mooglik te meitsjen.
 # Used as an accessible text alternative for an image
@@ -26,7 +26,7 @@ vpn-ip-address-can-we-run = Kinne se opreitsje?
 # Variables
 #   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
 #   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
-vpn-ip-address-when-the-internet = Doe't it ynternet foar it earst ûntwurpen waard, brûkte it ‘ferzje 4’-adressen. Dizze binne 32 bits, wat betsjut dat wy oant <a href="{ $sr }">4.2 miljard adressen</a> hawwe kinne. Dit like doetiids genôch, mar is net genôch yn in wrâld wêryn de gemiddelde Amerikaanske húshâlding <a href="{ $variety }">11 oansletten apparaten</a> hie.
+vpn-ip-address-when-the-internet = Doe’t it ynternet foar it earst ûntwurpen waard, brûkte it ‘ferzje 4’-adressen. Dizze binne 32 bits, wat betsjut dat wy oant <a href="{ $sr }">4.2 miljard adressen</a> hawwe kinne. Dit like doetiids genôch, mar is net genôch yn in wrâld wêryn de gemiddelde Amerikaanske húshâlding <a href="{ $variety }">11 oansletten apparaten</a> hie.
 vpn-ip-address-we-now-have = Wy hawwe no ferzje 6 IP-adressen, dy’t 128 bits per adres hawwe. Spitigernôch kinne ferzje 4 en ferzje 6 net direkt mei inoar prate, dus minsken sille ferzje 4-adressen lang nedich hawwe.
 vpn-ip-address-should-you-hide = Moatte jo jo IP-adres ferbergje?
 # Variables

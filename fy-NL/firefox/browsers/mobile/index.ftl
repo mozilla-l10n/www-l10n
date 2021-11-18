@@ -27,9 +27,9 @@ browsers-mobile-looking-for-a-streamlined = Op syk nei in streamline, superflugg
 browsers-mobile-compare-mobile-browsers = Mobile browsers fergelykje
 browsers-mobile-see-how-firefox-stacks-up = Untdek hoe { -brand-name-firefox } him ferhâldt ta oare populêre browsers as it giet om de grutte trije: privacy, funksjes en syngronisaasje.
 browsers-mobile-compare = Fergelykje
-browsers-mobile-see-how-firefox-for-desktop-stacks = Untdek hoe't { -brand-name-firefox } foar desktop him ferhâldt ta sân oare browsers.
+browsers-mobile-see-how-firefox-for-desktop-stacks = Untdek hoe’t { -brand-name-firefox } foar desktop him ferhâldt ta sân oare browsers.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Untdek hoe't { -brand-name-firefox } foar <strong>desktop</strong> him ferhâldt ta sân oare browsers.
+browsers-mobile-see-how-firefox-for-desktop-strong = Untdek hoe’t { -brand-name-firefox } foar <strong>desktop</strong> him ferhâldt ta sân oare browsers.
 browsers-mobile-join-firefox-and-get-the-most = Doch mei mei { -brand-name-firefox } en helje it measte út elk produkt – op elk apparaat.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

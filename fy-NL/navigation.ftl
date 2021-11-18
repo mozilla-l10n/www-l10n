@@ -26,7 +26,7 @@ navigation-meet-the-firefox-family = Kom yn 'e kunde mei de { -brand-name-firefo
 navigation-firefox-blog = { -brand-name-firefox }-blog
 navigation-read-about-new-firefox = Lês oer nije { -brand-name-firefox }-funksjes en krij tips om online feiliger te bliuwen.
 navigation-the-non-profit-behind = De non-profit efter { -brand-name-firefox } fjochtet foar in sûn ynternet foar elkenien.
-navigation-learn-how-firefox-treats = Lês hoe't { -brand-name-firefox } jo gegevens mei respekt behannelet.
+navigation-learn-how-firefox-treats = Lês hoe’t { -brand-name-firefox } jo gegevens mei respekt behannelet.
 navigation-mozilla-careers = Fakatueren by { -brand-name-mozilla }
 navigation-approach-your-career = Benaderje jo karriêre mei in gefoel fan doel. Fyn weardich wurk by { -brand-name-mozilla }.
 navigation-close-firefox-menu = Menu { -brand-name-firefox } slute
@@ -38,7 +38,7 @@ navigation-android-extensions = { -brand-name-android }-útwreidingen
 navigation-your-firefox-account = Jo { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Helje it measte út jo { -brand-name-firefox }-ûnderfining, op alle apparaten.
 # Outdated string
-navigation-learn-how-to-customize = Lês hoe't jo de manier wêrop { -brand-name-firefox } wurket oanpasse kinne.
+navigation-learn-how-to-customize = Lês hoe’t jo de manier wêrop { -brand-name-firefox } wurket oanpasse kinne.
 navigation-explore-the-immersive = Ferken it ymmersive web op jo VR-headset.
 # Outdated string
 navigation-experience-augmented = Belibje tafoege en firtuele realiteit mei { -brand-name-firefox }.

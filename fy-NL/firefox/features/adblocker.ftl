@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
 features-adblocker-how-to-block-annoying = Sa blokkearje jo ferfelende advertinsjes mei in adblocker
-features-adblocker-how-to-stop-seeing-too = Hoe't jo foarkomme kinne dat jo te folle advertinsjes sjogge en dat bedriuwen jo online folgje. In gids oer adblockers fan de { -brand-name-firefox }-webbrowser.
+features-adblocker-how-to-stop-seeing-too = Hoe’t jo foarkomme kinne dat jo te folle advertinsjes sjogge en dat bedriuwen jo online folgje. In gids oer adblockers fan de { -brand-name-firefox }-webbrowser.
 features-adblocker-the-ad-blocker-a-secret = De adblocker – in geheim wapen tsjin ferfelende advertinsjes.
 features-adblocker-so-many-ads-so-little = Sa folle advertinsjes, sa min geduld… It wurdt tiid om in ein te meitsjen oan de gekheid.
 features-adblocker-the-average-person-sees = De gemiddelde persoan sjocht gemiddeld 4.000 advertinsjes op in dei. As jo fine dat dat der te folle binne, dan is in adblocker jo nije bêste freon.
