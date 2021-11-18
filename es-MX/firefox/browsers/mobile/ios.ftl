@@ -21,4 +21,5 @@ mobile-ios-make-firefox-your = Convierte { -brand-name-firefox } en tu navegador
 mobile-ios-fast-private-secure = Rápido. Privado. Seguro
 mobile-ios-your-browsing-history = Tu historial de navegación es historia
 mobile-ios-get-more-firefox = Obtén más de { -brand-name-firefox } en tu vida
+mobile-ios-discover-more-of = Descubre más de lo que amas
 mobile-ios-about-mozilla = Acerca de { -brand-name-mozilla }
