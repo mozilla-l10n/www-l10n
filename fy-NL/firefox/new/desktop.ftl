@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Blokkearret sosjale trackers
 firefox-desktop-download-os-availability = Beskikberheid op bestjoeringssystemen
 firefox-desktop-download-in-browser-screenshot = Helpmiddel foar skermôfdrukken yn de browser
 firefox-desktop-download-primary-password = Haadwachtwurd
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Hâld fan jo libben online
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = It is jo ynternet. Kleur it sa as jo wolle mei tûzenen helpmiddelen, tema’s en útwreidingen. { -brand-name-firefox } is de orizjinele alternative browser dy't minsken boppe winst stelt.
 # Obsolete string
@@ -129,7 +131,7 @@ firefox-desktop-download-from-security-to = Fan befeiliging oant nijs oant game,
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } waard troch <a { $attrs }>{ -brand-name-mozilla }</a> makke as in flugger, persoanliker alternatyf foar browsers lykas { -brand-name-ie }, en no { -brand-name-chrome }. Tsjintwurdich bliuwe ús missy-dreaune bedriuw en ús frijwilligersmienskip jo privacy boppe alles stelle.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Wylst it ynternet groeit en feroaret, bliuwt { -brand-name-firefox } him konsintrearje op jo rjocht op privacy – wy neame it de <a { $attrs }>Persoanlike Gegevensbelofte</a>: Nim minder. Hâld it feilich. Gjin geheimen. Jo gegevens, jo webaktiviteit en jo online libben wurde beskerme mei { -brand-name-firefox }.
+firefox-desktop-download-as-the-internet = Wylst it ynternet groeit en wiziget, bliuwt { -brand-name-firefox } him konsintrearje op jo rjocht op privacy – wy neame it de <a { $attrs }>Persoanlike Gegevensbelofte</a>: Nim minder. Hâld it feilich. Gjin geheimen. Jo gegevens, jo webaktiviteit en jo online libben wurde beskerme mei { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } is beskikber op al jo apparaten; nim jo ljepblêden, skiednis en blêdwizers mei. Jo hawwe allinnich in <a { $attrs }>{ -brand-name-firefox }-account</a> nedich.

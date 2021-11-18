@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
@@ -39,7 +39,7 @@ compare-ie-on-the-other-end-of-the-spectrum-fallback = Oan de oare kant fan i sp
 # "sunset" here means Microsoft is officially ending production of Internet Explorer. Alternative: "retire"
 compare-ie-as-microsoft-has-made-the-move = Omdat { -brand-name-microsoft } { -brand-name-ie } útfasearje sil, wurdt gjin inkelde ferzje fan { -brand-name-ios } mear stipe en is it nea foar { -brand-name-android } beskikber west. Dit betsjut dat jo, útsein jo in laptop of desktop-pc mei Windows brûke, gjin tagong hawwe ta jo blêdwizers, navigaasjeskiednis, bewarre wachtwurden of oare gegevens dy't moderne browsers tusken apparaten syngronisearje.
 compare-ie-firefox-works-on-any-platform = { -brand-name-firefox } wurket op elk platfoarm, wêrûnder { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } en { -brand-name-ios }. Dit betsjut ek dat jo al jo gegevens op ferskate platfoarms syngronisearje kinne. As jo dus op in { -brand-name-windows }-laptop oan it surfen binne, kinne jo fierder gean dêr't jo bleaun wiene wannear't jo fierder gean op jo { -brand-name-iphone } of { -brand-name-android }-apparaat. Dit gemak soe standert wêze moatte by elke moderne webbrowser en ûntbrekt by { -brand-name-ie }.
-compare-ie-there-was-a-time-not-so-long = Noch net sa lang lyn wie { -brand-name-ie } de populêrste en meast brûkte browser yn 'e wrâld. De tiden binne feroare, krekt as de technology, mar spitigernôch is { -brand-name-ie } frijwst itselde bleaun. { -brand-name-microsoft } freget sels brûkers om te stopjen mei it gebrûk fan { -brand-name-ie } en oer te stappen nei harren nijere { -brand-name-edge }-browser op basis fan { -brand-name-chromium }.
+compare-ie-there-was-a-time-not-so-long = Noch net sa lang lyn wie { -brand-name-ie } de populêrste en meast brûkte browser yn 'e wrâld. De tiden binne wizige, krekt as de technology, mar spitigernôch is { -brand-name-ie } frijwst itselde bleaun. { -brand-name-microsoft } freget sels brûkers om te stopjen mei it gebrûk fan { -brand-name-ie } en oer te stappen nei harren nijere { -brand-name-edge }-browser op basis fan { -brand-name-chromium }.
 # Variables:
 #   $attrs (string) - link to /firefox/download/thanks/ with additional attributes for analytics
 # "Nana" is a common nickname for a grandmother in many English-speaking countries. Use a similar name for a grandmother in your language or culture.

@@ -18,8 +18,8 @@ vpn-ip-address-does-it-travel = Reizget it mei jo mei?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-no-your-ip = Nee. Jo IP-adres is mar mei ien lokaasje keppele, útsein as jo <a href="{ $url }">in VPN brûke</a> (dêr sille wy letter mear op yngean). As jo by jo thús binne en ferbine mei it ynternet wêr't jo foar betelje, brûke jo ien. As jo lykwols jo e-mail thús moarns kontrolearje, dan it nijs scanne by in pleatslike kafee wylst jo op jo kofje wachtsje, en dan fan in kantoar út wurkje, sille jo op elke lokaasje ferskate IP-adressen brûkt hawwe.
-vpn-ip-address-does-your-ip = Feroaret jo IP-adres?
-vpn-ip-address-yes-even-if = Ja. Sels as jo allinnich it ynternet thús brûke, kin it IP-adres foar jo hûs feroarje. Jo kinne kontakt opnimme mei jo ynternetprovider (ISP) om it te wizigjen, mar sels sawat as it opnij starten fan jo modem of router fanwegen problemen mei de ynternetferbining kin resultearje yn in wiziging.
+vpn-ip-address-does-your-ip = Wiziget jo IP-adres?
+vpn-ip-address-yes-even-if = Ja. Sels as jo allinnich it ynternet thús brûke, kin it IP-adres foar jo hûs wizigje. Jo kinne kontakt opnimme mei jo ynternetprovider (ISP) om it te wizigjen, mar sels sawat as it opnij starten fan jo modem of router fanwegen problemen mei de ynternetferbining kin resultearje yn in wiziging.
 vpn-ip-address-can-more-than = Kinne mear apparaten itselde IP-adres hawwe?
 vpn-ip-address-this-is-a = Dit is in bytsje lestige fraach – it antwurd is sawol ja as nee. Mear as ien apparaat kin itselde eksterne (iepenbiere) IP-adres diele, mar elk apparaat sil in eigen lokaal (privee) IP-adres hawwe. Bygelyks, jo ISP (ynternetprovider) set jo hûs op mei ien ekstern IP-adres. Omdat it jo router is wat eins oanslút op it ynternet, wurdt it IP-adres tawiisd oan jo router. Jo router wiist dan in lokaal IP-adres ta oan elk apparaat dat tagelyk ferbûn is mei it ynternet. It eksterne IP-adres is wat dield wurdt mei de bûtenwrâld. Jo lokale IP-adres wurdt net dield bûten jo privee-thúsnetwurk.
 vpn-ip-address-can-we-run = Kinne se opreitsje?

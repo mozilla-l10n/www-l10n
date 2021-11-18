@@ -1,12 +1,12 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Browserskiednis: epyske machtsstriid dy't ús moderne browsers brocht hat
-browser-history-the-browser-wars-underdogs-giants = De browseroarlogen, underdogs tsjin reuzen en mominten dy't de wrâld feroarje. Lês oer de skiednis fan de webbrowser.
+browser-history-the-browser-wars-underdogs-giants = De browseroarloggen, underdogs tsjin reuzen en mominten dy't de wrâld wizigje. Lês oer de skiednis fan de webbrowser.
 browser-history-the-history-of-web = De skiednis fan webbrowsers
 browser-history-world-history-is = De wrâldskiednis is fol epyske machtsstriid, tirannen dy't de wrâld feroverje, en heldhaftige underdogs. De skiednis fan webbrowsers is net hiel oars. Universitêre pioniers skreau ienfâldige software dy't in ynformaasjerevolúsje en striid foar superioriteit fan browsers en ynternetbrûkers feroarsaakje.
 browser-history-before-web-era = Foar it ynternettiidrek
