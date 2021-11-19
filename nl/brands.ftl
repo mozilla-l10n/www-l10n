@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### Please read the trademarks localization guide
@@ -67,7 +67,7 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-sync = Firefox Synchronisatie
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-private-network = Firefox Private Network
 
@@ -76,7 +76,7 @@
 -brand-name-devtools = DevTools
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-sync = Sync
+-brand-name-sync = Synchronisatie
 -brand-name-relay = Relay
 -brand-name-fpn = FPN
 
@@ -136,15 +136,15 @@
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
--brand-name-ubuntu = Ubuntu
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
--brand-name-vista = Vista
--brand-name-chromeos = Chrome OS
 
 ## Apple products
 
