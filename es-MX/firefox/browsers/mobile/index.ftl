@@ -12,9 +12,12 @@ browsers-mobile-overview-of-all-mobile = Una descripción general de todos los n
 browsers-mobile-get-the-mobile-browser-privacy = Obtén el navegador móvil que prioriza tu <strong>privacidad</strong>
 browsers-mobile-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
+browsers-mobile-go-your-own-way = Sigue tu propio camino con { -brand-name-firefox } móvil
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Comparar navegadores móviles
 browsers-mobile-compare = Comparar
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Ve cómo { -brand-name-firefox } para <strong>escritorio</strong> se compara con otros siete navegadores.
 browsers-mobile-download = Descargar
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

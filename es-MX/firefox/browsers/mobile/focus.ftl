@@ -27,5 +27,6 @@ mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } bloquea anuncios que in
 mobile-focus-see-it-all = Míralo todo más rápido
 # Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } elimina rastreadores y anuncios para que las páginas que estás viendo requieran menos datos y se carguen mucho más rápido.
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } elimina los rastreadores y habilita los bloqueadores de anuncios para que las páginas que estés viendo requieran menos datos y se carguen mucho más rápido. Además, encuentra hasta cuatro accesos directos en tu pantalla de inicio y accede a tu sitio favorito más rápidamente sin escribir nada.
 mobile-focus-made-by-mozilla = Hecho por { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Creemos que todos deberían tener el control de sus vidas en línea. Por eso hemos estado luchando desde 1998.
