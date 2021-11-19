@@ -9,8 +9,10 @@ banner-fundraising-title-v2 = Segítsen a { -brand-name-mozilla(ending: "accente
 banner-fundraising-title-giving-day = Segítsen a { -brand-name-mozilla(ending: "accented") }nak a jobb internetért vívott harcában a Giving Tuesday alkalmával.
 # Outdated string
 banner-fundraising-title = A jövő online dől el. Segítsen a { -brand-name-mozilla(ending: "accented") }nak harcolni a mindenki számára jobb webért.
+banner-fundraising-body-v2 = Büszkén nonprofit szervezet vagyunk, és azon dolgozunk, hogy az internet egészséges maradjon. Hozzájárulásai segítenek a biztonságos és nyílt internet kialakításában.
 # Outdated string
 banner-fundraising-body = A személyes adatainkat minden egyes alkalommal gyűjtik, amikor elérjük a webet, és nem könnyű kideríteni, hogy mi történik velük. A félrevezető információk nehezebbé teszik az igazság kiderítését. A webre csatlakozó eszközöket úgy dobják piacra, hogy a minimális biztonsági szabványokat sem tartják be. A nonprofit { -brand-name-mozilla-foundation } azért harcol, hogy az internet biztonságos, nyílt és mindenki számára elérhető legyen. <strong>Adományoz még ma?</strong>
+banner-fundraising-body-extra = Tud ma adományozni?
 banner-fundraising-monthly = Havi
 banner-fundraising-one-time = Egyszeri
 banner-fundraising-donate = Adományozás
