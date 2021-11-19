@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+home-mr2-promo-title = 灵光不再只有一现
 
 ## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 
