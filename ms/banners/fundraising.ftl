@@ -4,15 +4,19 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title-v2 = Bantu { -brand-name-mozilla } berjuang demi internet yang lebih baik, sempena musim perayaan ini.
 
+banner-fundraising-title-giving-day = Bantu { -brand-name-mozilla } berjuang demi internet yang lebih baik, sempena Giving Tuesday ini.
 
 # Outdated string
 banner-fundraising-title = Masa hadapan sedang ditentukan atas talian. Bantulah { -brand-name-mozilla } memperjuangkan web yang menjadi hak kita semua.
 
+banner-fundraising-body-v2 = Kami bangga kerana bukan berasaskan keuntungan, dan kami berusaha demi memastikan web kekal sihat. Sumbangan anda membantu membina internet yang selamat dan terbuka.
 
 # Outdated string
 banner-fundraising-body = Data peribadi kita dikumpulkan setiap kali kita mengakses internet, dan bukannya mudah untuk kita ketahui apa yang terjadi dengan data tersebut. Maklumat yang salah menyukarkan lagi kita untuk mengetahui kebenarannya. Peranti penyambungan web dijual dengan terbuka tanpa memenuhi standard keselamatan yang minimum. Organisasi bukan berasaskan keuntungan { -brand-name-mozilla-foundation } berjuang demi memastikan internet yang selamat, terbuka dan mudah diakses untuk semua. <strong>Adakah anda ingin menderma hari ini?</strong>
 
+banner-fundraising-body-extra = Bolehkah anda menderma hari ini?
 banner-fundraising-monthly = Bulanan
 banner-fundraising-one-time = Satu kali sahaja
 banner-fundraising-donate = Sumbangan
