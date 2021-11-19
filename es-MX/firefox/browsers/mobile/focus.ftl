@@ -18,8 +18,11 @@ mobile-focus-scan-alt-text = Escanea el código QR para obtener { -brand-name-fi
 mobile-focus-disappear-your-history = Desaparece tu historial
 mobile-focus-delete-your-history = Borra tu historial
 mobile-focus-take-private-mode = Lleva el modo privado al siguiente nivel
+# Outdated string
+mobile-focus-private-browsing-on = La “navegación privada” en la mayoría de los navegadores no es realmente tan privada. { -brand-name-firefox-focus } ofrece el siguiente nivel de privacidad por defecto y está respaldado por { -brand-name-mozilla }, la organización sin fines de lucro que lucha por tus derechos en la web.
 mobile-focus-private-browsing-on-v2 = La “navegación privada” en la mayoría de los navegadores no es realmente tan privada. { -brand-name-firefox-focus } ofrece el siguiente nivel de privacidad por defecto y está respaldado por { -brand-name-mozilla }, la organización sin fines de lucro que lucha por tus derechos en la web.
 mobile-focus-tracking-protection = Protección contra rastreo
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } bloquea una amplia gama de rastreadores comunes de forma predeterminada, incluidos los rastreadores sociales y los de seguimiento que provienen de cosas como anuncios de { -brand-name-facebook }.
 mobile-focus-ad-blocking = Bloqueo de anuncios
 # Outdated string
 mobile-focus-focus-blocks-the = { -brand-name-focus } bloquea los anuncios que normalmente verías en las páginas web — no se necesitan complementos ni extensiones adicionales. Con menos anuncios, obtienes una mejor velocidad de carga de las páginas, lo que significa que llegas más rápido a lo que quieres.
