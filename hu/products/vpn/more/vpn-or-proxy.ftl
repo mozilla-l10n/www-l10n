@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
@@ -16,6 +16,7 @@ vpn-or-proxy-stop-isps-from = Akadályozza meg, hogy az internetszolgáltatók k
 #   $etp (url) - https://blog.mozilla.org/products/firefox/control-trackers-with-firefox/
 #   $trackers (url) - https://blog.mozilla.org/internet-culture/mozilla-explains/what-is-a-web-tracker/
 vpn-or-proxy-when-you-use-firefox = Ha a <a href="{ $firefox }">{ -brand-name-firefox }ot használja</a>, a <a href="{ $etp }">Továbbfejlesztett követésvédelem</a> automatikusan blokkol számos harmadik féltől származó <a href="{ $trackers }">webes követőt</a>, hogy ne követhessék a weben. De itt egy érdekes tény: az internetszolgáltatója (ISP), akinek az internetkapcsolatért fizet – továbbra is megfigyelheti és követheti Önt.
+vpn-or-proxy-because-your-internet = Mivel az internetes forgalom az internetszolgáltatón keresztül áramlik az eszközeire (számítógép, telefon, tévé, táblagép), így onnan láthatják, hogy hová megy online. Az internetszolgáltató láthatja, hogy milyen webhelyeket keres fel, mennyi ideig tartózkodik rajtuk, tudhatná az Ön tartózkodási helyét és az eszközeivel kapcsolatos információkat. Előfordulhat, hogy az internetszolgáltató a titkosításnak köszönhetően nem ismeri az Ön által ezeken a webhelyeken végzett tevékenységek (például azt, hogy mit vásárolt, keresett vagy olvasott) részleteit, de következtetéseket vonhatnak le Önről az Ön által meglátogatott webhelyek alapján. Ezek a személyes adatok felhasználhatók arra, hogy részletes profilt hozzanak létre Önről. Miért tennének ilyet az internetszolgáltatók? Röviden: ezek az adatok értékesek.
 vpn-or-proxy-when-should-you = Mikor válasszon VPN-t vagy biztonságos proxyt?
 vpn-or-proxy-secure-web-proxy = Biztonságos webes proxy: böngésző szintű védelem
 vpn-or-proxy-vpns-devicelevel-protection = VPN-ek: eszközszintű védelem
