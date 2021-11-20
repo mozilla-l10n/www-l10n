@@ -27,9 +27,15 @@ mobile-ios-your-browsing-history = Az előzményei történelem
 mobile-ios-if-you-want = Ha szeretné, egyszerűen kiválaszthatja, hogy az online kereséseket privát böngészési módban tegye. És amikor bezárja a privát böngészési módot, akkor az előzményei és a sütijei automatikusan törlésre kerülnek az eszközről.
 mobile-ios-get-more-firefox = Szerezzen több { -brand-name-firefox }ot az életébe
 mobile-ios-add-firefox-across-v2 = Adja hozzá a { -brand-name-firefox }ot az eszközeihez a biztonságos és zökkenőmentes böngészéshez. Szinkronizálja eszközeit, hogy bárhová magával vigye kedvenc könyvjelzőit, a mentett bejelentkezéseit, jelszavait és előzményeit. Ezenkívül küldjön nyitott lapokat a telefonja és az asztali számítógépe között, hogy ott folytathassa, ahol abbahagyta.
+mobile-ios-get-to-your-go-to = Érje el gyorsabban kedvenc helyeit az { -brand-name-iphone } és { -brand-name-ipad } eszközén
+mobile-ios-see-your-open-tabs = Tekintse meg a nyitott lapjait, korábbi kereséseit és kedvenc webhelyeit egy helyen az { -brand-name-ios }-re készült { -brand-name-firefox-browser }vel.
 mobile-ios-own-your-home = Szabja testre a kezdőképernyőt
+mobile-ios-get-to-the-parts = Érje el gyorsabban az internet azon részeit, amelyek érdeklik. Válassza azt, hogy az összes nyitott lapja, a legutóbbi keresései, könyvjelzői és a kedvenc oldalai egy helyen jelenjenek meg.
 # Obsolete string
 mobile-ios-add-firefox-across = Adja hozzá a { -brand-name-firefox }ot az eszközeihez a biztonságos és zökkenőmentes böngészéshez. Szinkronizálja eszközeit a { -brand-name-sync } segítsével, hogy bárhová magával vigye kedvenc könyvjelzőit, a mentett bejelentkezéseit, jelszavait és előzményeit. Ezenkívül küldjön nyitott lapokat a telefonja és az asztali számítógépe között, hogy ott folytathassa, ahol abbahagyta.
 mobile-ios-find-it-all = Találja meg gyorsabban
+mobile-ios-get-search-suggestions = Keresési javaslatokat kaphat a keresősávban, és gyorsan elérheti a leggyakrabban felkeresett webhelyeket. Írja be a keresési kérdését, és kapjon javasolt és korábban keresett találatokat a kedvenc keresőszolgáltatásaiban.
+# Obsolete string
+mobile-ios-keep-tabs-on = Kísérje figyelemmel ezeket a lapokat
 mobile-ios-discover-more-of = Fedezzen fel többet abból, amit szeret
 mobile-ios-about-mozilla = A { -brand-name-mozilla(ending: "accented") }ról
