@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,8 @@ firefox-desktop-download-blocks-social-trackers = 封鎖社交追蹤器
 firefox-desktop-download-os-availability = 不同作業系統皆有提供
 firefox-desktop-download-in-browser-screenshot = 內建畫面擷圖工具
 firefox-desktop-download-primary-password = 主控密碼
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = 愛上您的線上生活
 # Obsolete string
 firefox-desktop-download-master-password = 主控密碼
 firefox-desktop-download-we-block-the-ad = 交給我們封鎖廣告追蹤器，您就可以更快速悠遊上網。
@@ -175,6 +177,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = 您正在使用的�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = 將自動開始下載，若沒有的話請<a id="{ $id }" href="{ $fallback_url }">點擊此處再試一次。</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是瀏覽器。
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = 下載已中斷，但已下載的部分將保留。
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux

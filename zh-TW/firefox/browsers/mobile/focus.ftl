@@ -18,5 +18,6 @@ mobile-focus-disappear-your-history = 讓上網紀錄消失
 mobile-focus-delete-your-history = 刪除瀏覽紀錄
 mobile-focus-tracking-protection = 追蹤保護
 mobile-focus-ad-blocking = 封鎖廣告
+mobile-focus-see-it-all = 更快看到內容
 mobile-focus-made-by-mozilla = 由 { -brand-name-mozilla } 打造
 mobile-focus-we-believe-everyone = 我們相信，每個人皆應有權力自行控制自己的線上生活，這就是我們從 1998 年起開始奮鬥的原因。

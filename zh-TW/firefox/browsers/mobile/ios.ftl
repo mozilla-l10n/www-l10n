@@ -5,7 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
+# HTML page title
+mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios }（{ -brand-name-iphone } & { -brand-name-ipad }）
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+mobile-ios-get-automatic-privacy = 下載在 { -brand-name-iphone } 與 { -brand-name-ipad } 上自動開啟隱私保護的行動瀏覽器。
 mobile-ios-get-firefox-for = 取得 { -brand-name-firefox } for { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = 傳送下載鏈結到您的手機。
 mobile-ios-scan-the-qr-code-to-get-started = 掃描 QR Code 開始使用
