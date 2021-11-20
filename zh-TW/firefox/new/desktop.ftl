@@ -40,6 +40,9 @@ firefox-desktop-download-in-browser-screenshot = 內建畫面擷圖工具
 firefox-desktop-download-primary-password = 主控密碼
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = 愛上您的線上生活
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = 這是您的網路世界。用您想要的方式與數以千計的工具、佈景主題、擴充套件恣意增添色彩。{ -brand-name-firefox } 是最老牌的非內建瀏覽器，我們把人看得比利益更重要。
 # Obsolete string
 firefox-desktop-download-master-password = 主控密碼
 firefox-desktop-download-we-block-the-ad = 交給我們封鎖廣告追蹤器，您就可以更快速悠遊上網。
