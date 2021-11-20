@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/resource-center
 
+# HTML Page Title
+vpn-resource-center-title = Centro ressources de VPN
+vpn-resource-center-whats-the-deal = De que tracta le retes private virtual?
 vpn-resource-center-view-all = Vider toto
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-get-mozilla-vpn = Installar { -brand-name-mozilla-vpn }
