@@ -122,6 +122,9 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (csak { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Mi a { -brand-name-mozilla-vpn } pénzvisszatérítési házirendje?
+vpn-landing-faq-refund-question-desc-v2 = Amikor először előfizet a { -brand-name-mozilla-vpn } szolgáltatásra a { -brand-name-mozilla } webhelyén keresztül, és ekkor az első 30 napon belül megszünteti fiókját, akkor visszatérítést kérhet, és { -brand-name-mozilla } visszatéríti az első előfizetési időszakot.
+vpn-landing-faq-refund-question-additional-desc = Ha az előfizetést alkalmazáson belüli vásárlással vásárolja meg az { -brand-name-apple } { -brand-name-app-store }-ból vagy a { -brand-name-google-play } Áruházból, akkor a fizetésére az { -brand-name-app-store } általános szerződési feltételei érvényesek. Az ilyen vásárlásokkal kapcsolatos számlázással és visszatérítéssel kapcsolatos kérdéseit az { -brand-name-apple } vagy a { -brand-name-google } felé kell küldenie.
+# Outdated string
 vpn-landing-faq-refund-question-desc = Az előfizetés megvásárlásától számított 30 napon belül visszakaphatja a pénzét. Vegye fel velünk a kapcsolatot, és küldje el a visszatérítési kérelmet a { -brand-name-mozilla-vpn } alkalmazás Beállítások menüjének „Segítség kérése” gombjára koppintva.
 vpn-landing-faq-manage-subscription-question-heading = Hogyan kezelhetem az előfizetésemet?
 # Variables:

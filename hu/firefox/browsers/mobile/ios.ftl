@@ -37,5 +37,9 @@ mobile-ios-find-it-all = Találja meg gyorsabban
 mobile-ios-get-search-suggestions = Keresési javaslatokat kaphat a keresősávban, és gyorsan elérheti a leggyakrabban felkeresett webhelyeket. Írja be a keresési kérdését, és kapjon javasolt és korábban keresett találatokat a kedvenc keresőszolgáltatásaiban.
 # Obsolete string
 mobile-ios-keep-tabs-on = Kísérje figyelemmel ezeket a lapokat
+# Obsolete string
+mobile-ios-create-as-many = Hozzon létre annyi lapot, amennyit csak szeretne, anélkül hogy elveszítené a fonalat. A { -brand-name-firefox } bélyegképként és számozott lapokként jeleníti meg a nyitott lapjait, így könnyen és gyorsan megtalálhatja, amit keres.
 mobile-ios-discover-more-of = Fedezzen fel többet abból, amit szeret
+mobile-ios-open-a-new = Nyisson új lapot a { -brand-name-firefox }ban, hogy megtekinthesse a legtöbbet felkeresett webhelyeket, a legutóbbi könyvjelzőit és a népszerű cikkeket a { -brand-name-pocket }ben. A { -brand-name-firefox } gyors hozzáférést biztosít a legutóbb használt webhelyekhez, hogy gyorsabban elérje a célját.
 mobile-ios-about-mozilla = A { -brand-name-mozilla(ending: "accented") }ról
+mobile-ios-mozilla-exists-to = A { -brand-name-mozilla } azért létezik, hogy mindenki számára hozzáférhető nyilvános erőforrássá tegye az internetet, mert úgy gondoljuk, hogy a nyílt és szabad jobb, mint a zárt és ellenőrzött. Olyan termékeket építünk, mint a { -brand-name-firefox } és a { -brand-name-pocket }, hogy elősegítsük a felhasználói választást, az átláthatóságot és az irányítást.

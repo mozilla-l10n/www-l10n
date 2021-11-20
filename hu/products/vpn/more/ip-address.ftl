@@ -38,3 +38,8 @@ vpn-ip-address-you-dont-need = Nem kell elrejteni az IP-címét, de egyes esetek
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Más, eseti okai is lehetnek annak, hogy elrejtené az IP-címét. Utazás közben lehet, hogy elrejtené. Egy VPN <a href="{ $url }">nagyobb adatvédelmet</a> is biztosít, ha WiFi-hez kapcsolódik hogy közvetítést nézzen vagy vásároljon, miközben felfedezi a világot.
 vpn-ip-address-how-do-you = Hogyan rejti el?
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is-v2 = A VPN az IP-cím elrejtésének módja. <a href="{ $vpn }">Ha VPN-t használ</a>, akkor az Ön külső IP-címe a VPN-kiszolgáló külső IP-címe lesz, nem pedig a tartózkodási helyének külső IP-címe. Tehát, ha egy Kaliforniában található VPN-kiszolgálóhoz kapcsolódik, akkor a külső IP-címe úgy fog kinézni, mintha Kaliforniából csatlakozna, függetlenül attól, hogy valójában hol van. Ráadásul online tevékenységeit titkosított, biztonságos kapcsolaton keresztül továbbítják a VPN-kiszolgálóhoz, így további biztonságot és adatvédelmet biztosítanak Önnek. A <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> az egyik módja annak, hogy elrejtse IP-címét. Nem naplózzuk a hálózati tevékenységeket, és nem működünk együtt harmadik felekkel, akik profilokat készítenek az Ön online tevékenységeiről. Teljes eszközvédelmet kínálunk akár öt eszközre, és { $countries }+ országban vannak kiszolgálók, így bárhonnan, bárhonnan csatlakozhat.
