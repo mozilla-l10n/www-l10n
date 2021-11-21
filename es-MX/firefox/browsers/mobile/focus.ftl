@@ -17,6 +17,7 @@ mobile-focus-scan-alt-text = Escanea el código QR para obtener { -brand-name-fi
 # Outdated string
 mobile-focus-disappear-your-history = Desaparece tu historial
 mobile-focus-delete-your-history = Borra tu historial
+mobile-focus-easily-erase-your = Borra fácilmente tu historial, contraseñas y cookies, para que los anuncios no deseados no te sigan en línea. Simplemente toca el botón de borrar en el campo de búsqueda y desaparecerá.
 mobile-focus-take-private-mode = Lleva el modo privado al siguiente nivel
 # Outdated string
 mobile-focus-private-browsing-on = La “navegación privada” en la mayoría de los navegadores no es realmente tan privada. { -brand-name-firefox-focus } ofrece el siguiente nivel de privacidad por defecto y está respaldado por { -brand-name-mozilla }, la organización sin fines de lucro que lucha por tus derechos en la web.
