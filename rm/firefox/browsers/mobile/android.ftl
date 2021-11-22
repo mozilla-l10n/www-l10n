@@ -25,3 +25,6 @@ mobile-android-get-to-private = Activescha il modus privat mo cun tutgar cun il 
 mobile-android-search-your-own = Tschertga en tia moda e maniera
 mobile-android-got-a-big = Has ti in grond telefon e poleschs da grondezza mesauna? Nagin problem. { -brand-name-firefox } per { -brand-name-android } ta pussibilitescha da spustar la trav da tschertgar da sisum a l'ur giudim per facilitar il diever cun in maun. Ti pos era tscherner tia atgna maschina da retschertga en il navigatur e definir en cas da basegn { -brand-name-firefox } sco tes navigatur da standard.
 mobile-android-save-power-with = Spargna energia cun il modus stgir
+mobile-android-switch-to-dark = Mida da temp en temp en il modus stgir per schanegiar tes egls e la battaria.
+mobile-android-easily-organize-your = Organisescha facilmain tes tabs
+mobile-android-got-lots-of = Has ti avert ina massa tabs al medem mument? Nagin problem, organisescha quels en collecziuns per salvar la survista sin tes visur. Las collecziuns sa laschan era cundivider cun divers apparats, uschia che ti pos cuntinuar cun la navigaziun independentamain da l'apparat.
