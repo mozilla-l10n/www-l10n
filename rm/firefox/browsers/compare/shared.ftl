@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -16,10 +16,12 @@ compare-shared-blocks-third-party-tracking = Blochescha cookies da terzas partid
 compare-shared-blocks-cryptomining-scripts = Blochescha scripts criptominiers
 compare-shared-blocks-fingerprinting-scripts = Blochescha scripts dad improntas dal det
 compare-shared-blocks-social-trackers = Blochescha fastizaders da social media
+compare-shared-dashboard-to-review = Survista dals fastizaders bloccads
 compare-shared-autoplay-blocking = Bloccada da la reproducziun automatica
 compare-shared-tab-browsing = Navigaziun cun tabs
 compare-shared-bookmark-manager = Administraziun da segnapaginas
 compare-shared-automatically-fills-out-forms = Emplenescha automaticamain formulars
+compare-shared-automatically-fills-out-payments = Emplenescha automaticamain datas per pajaments
 compare-shared-search-engine-options = Opziuns per maschinas da tschertgar
 compare-shared-text-to-speech = Sintesa vocala
 compare-shared-reader-mode = Modus da lectura
