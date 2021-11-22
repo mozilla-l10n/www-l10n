@@ -28,3 +28,4 @@ mobile-android-save-power-with = Spargna energia cun il modus stgir
 mobile-android-switch-to-dark = Mida da temp en temp en il modus stgir per schanegiar tes egls e la battaria.
 mobile-android-easily-organize-your = Organisescha facilmain tes tabs
 mobile-android-got-lots-of = Has ti avert ina massa tabs al medem mument? Nagin problem, organisescha quels en collecziuns per salvar la survista sin tes visur. Las collecziuns sa laschan era cundivider cun divers apparats, uschia che ti pos cuntinuar cun la navigaziun independentamain da l'apparat.
+mobile-android-supercharge-firefox-with = Optimescha { -brand-name-firefox } cun supplements
