@@ -29,3 +29,7 @@ mobile-android-switch-to-dark = Mida da temp en temp en il modus stgir per schan
 mobile-android-easily-organize-your = Organisescha facilmain tes tabs
 mobile-android-got-lots-of = Has ti avert ina massa tabs al medem mument? Nagin problem, organisescha quels en collecziuns per salvar la survista sin tes visur. Las collecziuns sa laschan era cundivider cun divers apparats, uschia che ti pos cuntinuar cun la navigaziun independentamain da l'apparat.
 mobile-android-supercharge-firefox-with = Optimescha { -brand-name-firefox } cun supplements
+mobile-android-addons-are-like = Ils supplements sumeglian a pitschens utensils potents che ti pos agiuntar a tes navigatur per exempel per optimar las configuraziuns da standard da la protecziun da datas e per persunalisar tia experientscha en la rait.
+mobile-android-pick-up-where = Cuntinuescha là nua che ti has smess
+mobile-android-go-from-your = Mida da tes telefon sin tes laptop, tablet ed enavos senza interrupziuns. Cun { -brand-name-firefox } sin tuts tes apparats pos ti prender cun tai tes segnapaginas, pleds-clav, tias datas d'access e tia cronologia nua ch'i saja.
+mobile-android-search-from-your = Tschertga directamain cun il visur da partenza da tes telefonin
