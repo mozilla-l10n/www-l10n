@@ -21,3 +21,7 @@ mobile-android-scan-alt-text = Scannescha il code QR per telechargiar { -brand-n
 mobile-android-fast-and-private = Svelt e privat
 mobile-android-firefox-for-android = { -brand-name-firefox } per { -brand-name-android } porscha ina protecziun da datas senza cumplicaziuns e pussibilitescha ina chargiada sveltischma da las paginas-web. La protecziun avanzada cunter fastizaders blochescha automaticamain fastizaders che ta suondan tras il web e ralenteschan la navigaziun.
 mobile-android-one-tap-to = Mo tutgar per activar il modus privat
+mobile-android-get-to-private = Activescha il modus privat mo cun tutgar cun il det. E cura che ti bandunas il modus privat, vegn tia cronologia stizzada automaticamain da tes apparat.
+mobile-android-search-your-own = Tschertga en tia moda e maniera
+mobile-android-got-a-big = Has ti in grond telefon e poleschs da grondezza mesauna? Nagin problem. { -brand-name-firefox } per { -brand-name-android } ta pussibilitescha da spustar la trav da tschertgar da sisum a l'ur giudim per facilitar il diever cun in maun. Ti pos era tscherner tia atgna maschina da retschertga en il navigatur e definir en cas da basegn { -brand-name-firefox } sco tes navigatur da standard.
+mobile-android-save-power-with = Spargna energia cun il modus stgir
