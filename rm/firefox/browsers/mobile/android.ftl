@@ -17,3 +17,5 @@ mobile-android-when-you-download = Sche ti telechargias { -brand-name-firefox } 
 mobile-android-get-firefox-for = Telechargia { -brand-name-firefox } per { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Trametta ina colliaziun per telechargiar a tes telefonin.
 mobile-android-scan-the-qr-code-to-get-started = Scannescha il code QR per entschaiver
+mobile-android-scan-alt-text = Scannescha il code QR per telechargiar { -brand-name-firefox } sin { -brand-name-android }
+mobile-android-fast-and-private = Svelt e privat
