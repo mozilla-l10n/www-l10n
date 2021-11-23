@@ -1,24 +1,25 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
 # HTML page title
 manifesto-the-mozilla-manifesto = Das { -brand-name-mozilla }-Manifest
+
 # HTML page description
 manifesto-these-are-the-principles = Dies sind die Prinzipien, an denen sich unsere Mission zur Förderung von Offenheit, Innovation und Chancen im Internet orientiert.
-manifesto-the-internet-is-an-integral = Das Internet ist ein wesentlicher Bestandteil des heutigen Lebensalltags: ein wichtiger Bestandteil von Bildung, Kommunikation und Zusammenarbeit, im Geschäftsleben, in der Freizeit sowie für die Gesellschaft als Ganzes.
+
+manifesto-the-internet-is-an-integral = Das Internet ist ein wesentlicher Bestandteil des modernen Lebens: Ein wichtiger Teil von Ausbildung, Kommunikation und Zusammenarbeit, im Geschäftsleben, in Freizeit und der Gesellschaft als Ganzes.
 manifesto-the-internet-is-a-global = Das Internet ist eine globale und öffentliche Ressource, die offen und zugänglich bleiben muss.
 manifesto-the-internet-must-enrich = Das Internet muss das Leben jedes einzelnen Menschen bereichern.
-manifesto-individuals-security-and = Individuelle Sicherheit und Datenschutz im Internet sind von grundlegender Bedeutung und dürfen nicht als optional betrachtet werden.
+manifesto-individuals-security-and = Die Sicherheit und der Schutz der Daten einer Person im Internet sind von grundlegender Bedeutung und dürfen nicht als optional betrachtet werden.
 manifesto-individuals-must-have = Menschen müssen das Internet und ihr eigenes Erlebnis darin gestalten können.
-manifesto-the-effectiveness-of-the = Der Nutzen des Internets als öffentliche Ressource hängt von Kompatibilität (Protokolle, Datenformate, Inhalte), Innovation und einer weltweiten, dezentralen Mitwirkung ab.
+manifesto-the-effectiveness-of-the = Der Nutzen des Internets als öffentliche Ressource ist abhängig von Kompatibilität (Protokolle, Datenformate, Inhalte), Innovation und weltweiter dezentraler Mitwirkung.
 manifesto-free-and-open-source-software = Freie und quelloffene Software fördert die Entwicklung des Internets als öffentliche Ressource.
 manifesto-transparent-community = Transparente, auf Gemeinschaft basierende Prozesse fördern Mitwirkung, Verantwortlichkeit und Vertrauen.
 manifesto-commercial-involvement = Eine wirtschaftliches Beteiligung an der Entwicklung des Internets bringt viele Vorteile mit sich; allerdings ist entscheidend, dass dabei das Gleichgewicht zwischen kommerziellem Profit und öffentlichem Interesse gewahrt bleibt.
-manifesto-magnifying-the-public = Den Nutzen des Internets für die Allgemeinheit hervorzuheben, ist ein wichtiges Ziel und den Einsatz von Zeit, Aufmerksamkeit und Mitarbeit wert.
+manifesto-magnifying-the-public = Die gemeinnützigen Aspekte des Internets hervorzuheben ist ein wichtiges Ziel und den Einsatz von Zeit, Aufmerksamkeit und Mitarbeit wert.
 manifesto-principle-1 = 1. Prinzip
 manifesto-principle-2 = 2. Prinzip
 manifesto-principle-3 = 3. Prinzip
@@ -39,10 +40,13 @@ manifesto-07 = 07
 manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
+
 # Main page heading
 manifesto-the-mozilla-manifesto-addendum = Ergänzung zum { -brand-name-mozilla }-Manifest
+
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Versprechen für ein gesundes Internet
+
 manifesto-the-open-global-internet = Das offene, weltweite Internet ist die mächtigste Ressource für Kommunikation und Zusammenarbeit, die wir je gesehen haben. Es verkörpert einige unserer tiefsten Hoffnungen für den menschlichen Fortschritt. Es schafft neue Möglichkeiten, um zu lernen, ein Gefühl für gemeinsame Menschlichkeit zu entwickeln und Lösungen für die drängenden Probleme, vor denen Menschen überall stehen, zu entwickeln.
 manifesto-over-the-last-decade-we = In den letzten zehn Jahren wurde dieses Versprechen auf vielfältige Weise erfüllt. Die Macht des Internets verstärkt aber auch Spaltung, führt zu Gewalt, schürt Hass und manipuliert direkt Fakten und die Wirklichkeit. Wir haben gelernt, dass wir unsere Ziele für das menschliche Dasein im Internet deutlicher darstellen sollten. Dies tun wir jetzt.
 manifesto-we-are-committed-to-people = Wir stehen für ein Internet, das alle Menschen auf der Welt einbezieht – in dem die demografischen Merkmale eines Menschen keinen Einfluss auf seinen Online-Zugang, seine Chancen oder die Qualität seines Erlebnisses haben.
@@ -50,35 +54,10 @@ manifesto-we-are-committed-to-discourse = Wir stehen für ein Internet, das Aust
 manifesto-we-are-committed-to-thinking = Wir stehen für ein Internet, das kritisches Denken, sachliche Diskussionen, geteiltes Wissen und nachprüfbare Fakten schätzt.
 manifesto-we-are-committed-to-diverse = Wir stehen für ein Internet, das Zusammenarbeit unter vielfältigen Gemeinschaften zum Nutzen des Gemeinwohls fördert.
 manifesto-show-your-support = Unterstützen Sie uns
-manifesto-an-internet-with-these = Ein Internet mit diesen Eigenschaften entsteht nicht von alleine. Menschen und Organisationen müssen diese Ziele sowohl in Internettechnologie als auch in das individuelle Erleben im Internet integrieren. { -brand-name-mozilla }s Manifest und die Ergänzungen stehen für { -brand-name-mozilla }s Einsatz für diese Ziele. Wir möchten mit Menschen und Organisationen auf der ganzen Welt zusammenarbeiten, die diese Ziele teilen und zu einem besseren Internet für alle beitragen wollen.
+manifesto-an-internet-with-these = Ein Internet mit diesen Eigenschaften richtet sich nicht von selbst ein. Individuen und Organisationen müssen diese Ziele Internettechnologien und die individuellen Erfahrungen mit dem Internet integrieren. Das { -brand-name-mozilla }-Manifest und dessen Ergänzung repräsentieren { -brand-name-mozilla }s Einsatz für diese Ziele. Wir möchten mit Menschen und Organisationen weltweit zusammenarbeiten, die unsere Ziele mit uns teilen, um das Internet zu einem noch besseren Ort für uns alle zu machen.
 manifesto-i-support-the-vision-of = Ich unterstütze die Vision von @mozilla für ein besseres, gesünderes Internet – Sie auch?
 manifesto-share-on-twitter = Auf { -brand-name-twitter } teilen
 manifesto-our-10-principles = <strong>Unsere 10</strong> Prinzipien
-manifesto-use-open-badges-to-share = Verwenden Sie Open Badges, um Ihre Fähigkeiten und Interessen zu zeigen
-manifesto-explore-how-the-web-impacts = Entdecken Sie den Einfluss des Internets auf die Wissenschaft
-manifesto-learn-about-open-source = Erfahren Sie mehr über die Bedeutung von Open-Source-Code für den Journalismus
-manifesto-read-about-open-internet = Lesen Sie mehr zu netzpolitischen Initiativen und Entwicklungen
-manifesto-explore-how-to-help-keep = Finden Sie heraus, was sie dazu beitragen können, das Internet offen zu halten
-manifesto-see-how-the-web-can-connect = Schauen Sie sich an, wie das Internet der Welt Zugang zu Gesundheitsversorgung ermöglichen kann
-manifesto-explore-how-the-web-works = Entdecken Sie, wie das Internet funktioniert
-manifesto-see-how-mozilla-works = Sehen Sie sich an, was { -brand-name-mozilla } tut, um Ihre Privatsphäre an erste Stelle zu setzen
-manifesto-read-about-developments = Lesen Sie mehr über Entwicklungen bei Datenschutz und Datensicherheit
-manifesto-learn-more-about-how-to = Erfahren Sie mehr darüber, wie Sie sich im Internet schützen können
-manifesto-use-these-free-tools-to = Verwenden Sie diese kostenlosen Tools, um anderen etwas über das Internet beizubringen
-manifesto-learn-about-creating-and = Erfahren Sie mehr darüber, wie Sie Inhalte für das Internet erstellen und pflegen können
-manifesto-add-new-voices-to-open = Ergänzen Sie Open-Source-Technologie um neue Stimmen
-manifesto-set-your-do-not-track = Passen Sie Ihre Do-Not-Track-Einstellung an
-manifesto-understand-the-web-ecosystem = So funktioniert das Web-Ökosystem
-manifesto-explore-how-open-practices = Entdecken Sie, wie ein offenes Vorgehen das Internet zugänglich erhält
-manifesto-learn-how-to-remix-content = Erfahren Sie, wie Sie Inhalte umgestalten, um etwas Neues zu erschaffen
-manifesto-learn-how-to-maximize = Erfahren Sie, wie Sie das interaktive Potenzial des Internets maximieren können
-manifesto-participate-in-our-governance = Beteiligen Sie sich in unserem Steuerungsforum
-manifesto-join-us-as-a-volunteer = Helfen Sie ehrenamtlich bei uns mit
-manifesto-learn-how-to-collaborate = Erfahren Sie, wie Sie online mit anderen zusammenarbeiten können
-manifesto-visualize-who-you-interact = Visualisieren Sie mit { -brand-name-lightbeam }, mit wem Sie im Internet interagieren
-manifesto-learn-about-creating-web = Erfahren Sie mehr über das gemeinsame Erstellen von Ressourcen im Internet
-manifesto-host-or-join-a-maker-party = Veranstalten oder besuchen Sie eine { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Erfahren Sie, wie Sie Ihre Fähigkeiten für die Online-Zusammenarbeit weiterentwickeln können
 manifesto-read-the-entire-manifesto = Lesen Sie das gesamte Manifest
 manifesto-love-the-web = Lieben Sie das Internet?
 manifesto-get-the-mozilla-newsletter = Abonnieren Sie den { -brand-name-mozilla }-Newsletter und helfen Sie uns, es offen und frei zu erhalten.
@@ -98,15 +77,15 @@ manifesto-details-principles = Prinzipien
 manifesto-details-the-internet-is-integral = Das Internet ist ein wesentlicher Bestandteil des modernen Lebens: Ein wichtiger Teil von Ausbildung, Kommunikation und Zusammenarbeit, im Geschäftsleben, in Freizeit und der Gesellschaft als Ganzes.
 manifesto-details-the-internet-is-global = Das Internet ist eine globale und öffentliche Ressource, die offen und zugänglich bleiben muss.
 manifesto-details-the-internet-must = Das Internet muss das Leben jedes einzelnen Menschen bereichern.
-manifesto-details-individuals-security = Die Sicherheit und der Schutz der Daten einer Person im Internet sind von grundlegender Bedeutung und dürfen nicht als optional betrachtet werden.
+manifesto-details-individuals-security = Individuelle Sicherheit und Datenschutz im Internet sind von grundlegender Bedeutung und dürfen nicht als optional betrachtet werden.
 manifesto-details-individuals-must = Jeder muss die Möglichkeit haben, das Internet und sein Online-Erlebnis nach seinen eigenen Vorstellungen zu gestalten.
 manifesto-details-the-effectiveness = Der Nutzen des Internets als öffentliche Ressource ist abhängig von Kompatibilität (Protokolle, Datenformate, Inhalte), Innovation und weltweiter dezentraler Mitwirkung.
-manifesto-details-free-and-open = Freie und Open-Source-Software fördert die Entwicklung des Internets als öffentliche Ressource.
+manifesto-details-free-and-open = Freie und quelloffene Software fördert die Entwicklung des Internets als öffentliche Ressource.
 manifesto-details-transparent-community = Transparente, auf Gemeinschaft basierende Prozesse fördern Mitwirkung, Verantwortlichkeit und Vertrauen.
-manifesto-details-commercial-involvement = Kommerzielle Mitwirkung an der Entwicklung des Internets bringt viele Vorteile, allerdings ist ein Gleichgewicht von kommerziellem Profit und Gemeinnutzen entscheidend.
+manifesto-details-commercial-involvement = Eine wirtschaftliches Beteiligung an der Entwicklung des Internets bringt viele Vorteile mit sich; allerdings ist entscheidend, dass dabei das Gleichgewicht zwischen kommerziellem Profit und öffentlichem Interesse gewahrt bleibt.
 manifesto-details-magnifying-the = Die gemeinnützigen Aspekte des Internets hervorzuheben ist ein wichtiges Ziel und den Einsatz von Zeit, Aufmerksamkeit und Mitarbeit wert.
 manifesto-details-advancing-the = Vorantreiben des { -brand-name-mozilla }-Manifests
-manifesto-details-there-are-many = Es gibt viele Möglichkeiten, die im { -brand-name-mozilla }-Manifest angesprochenen Prinzipien voranzutreiben. Wir freuen uns über eine große Bandbreite an Aktivitäten und hoffen auf dasselbe Maß an Kreativität, das Mitwirkende am { -brand-name-mozilla }-Projekt schon in anderen Bereichen des Projektes gezeigt haben. Jeder, der sich nicht aktiv am { -brand-name-mozilla }-Projekt beteiligt, kann das Manifest auch durch die Nutzung von { -brand-name-mozilla } { -brand-name-firefox } und anderen Produkte, die sich diesen Prinzipien verschreiben, auf einfache und sehr effektive Art unterstützen.
+manifesto-details-there-are-many = Es gibt viele Möglichkeiten, die im { -brand-name-mozilla }-Manifest angesprochenen Prinzipien voranzutreiben. Wir freuen uns über eine große Bandbreite an Aktivitäten und hoffen auf dasselbe Maß an Kreativität, das Mitwirkende am { -brand-name-mozilla }-Projekt schon in anderen Bereichen des Projektes gezeigt haben. Jeder, der sich nicht aktiv am { -brand-name-mozilla }-Projekt beteiligt, kann das Manifest auch durch die Nutzung von { -brand-name-mozilla } { -brand-name-firefox } und anderen Produkten, die sich diesen Prinzipien verschreiben, auf einfache und sehr effektive Art unterstützen.
 manifesto-details-mozilla-foundation = Das Versprechen der { -brand-name-mozilla-foundation }
 manifesto-details-the-mozilla-foundation-pleges = Die { -brand-name-mozilla-foundation } verspricht, das { -brand-name-mozilla }-Manifest mit ihrer Arbeit zu unterstützen. Im Besonderen werden wir:
 manifesto-details-build-and-enable = Open-Source-Technologien entwickeln und unterstützen, die den Prinzipien des Manifests entsprechen;
