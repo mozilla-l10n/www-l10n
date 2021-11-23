@@ -40,3 +40,5 @@ mobile-android-about-mozilla = Davart { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } è qua per render accessibel l'internet sco resursa publica per tuts perquai che nus essan persvas che avert e liber saja meglier che serrà e controllà. Nus sviluppain products sco { -brand-name-firefox } e { -brand-name-pocket } per promover la schelta, la transparenza e l'autonomia da las utilisadras e dals utilisaders.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = { -brand-name-firefox } per { -brand-name-android }, tia scursanida en l'internet
+mobile-android-see-all-your-open-tabs = Lascha mussar tut tes tabs averts, tias ultimas retschertgas e las paginas-web preferidas en in lieu cun { -brand-name-firefox } per { -brand-name-android }.
+mobile-android-own-your-home = Tegna sut controlla tes visur da partenza
