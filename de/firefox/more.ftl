@@ -1,7 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
@@ -11,7 +10,7 @@ learn-more-about = Erfahren Sie mehr über { -brand-name-firefox }-Browser und P
 learn-more-faq = FAQ zu { -brand-name-firefox }
 the-history-of = Die Geschichte der Internet-Browser
 firefox-has-been = { -brand-name-firefox } war fast von Anfang an dabei.
-firefox-rebel-with = { -brand-name-firefox }: Ihr Browser mit der klaren Kante
+firefox-rebel-with = { -brand-name-firefox }: Dein Browser mit der klaren Kante
 firefox-is-independent = { -brand-name-firefox } ist unabhängig und wird von dem gemeinnützigen { -brand-name-mozilla } unterstützt, der für Ihre Online-Rechte kämpft und das Internet für alle und überall zugänglich macht.
 what-is-a = Was macht ein Internet-Browser?
 a-web-browser = Ein Internet-Browser bringt Sie im Internet überall hin und ermöglicht es Ihnen, Texte, Bilder und Videos aus der ganzen Welt zu sehen.
@@ -21,13 +20,11 @@ firefox-is-more = { -brand-name-firefox } ist mehr als ein Browser
 its-a-lightning = Es ist eine blitzschnelle Tür zum besten Web-Erlebnis.
 get-the-browsers = Browser, bei denen deine Privatsphäre an erster Stelle steht
 get-the-privacy = Holen Sie sich die Privatsphäre, die Sie verdienen. Der erweiterte Schutz vor Aktivitätenverfolgung macht die Privatsphäre zum Standard, jedes Mal, wenn Sie Ihren Browser öffnen.
-take-your-passwords = Nehmen Sie Ihre Passwörter überall mit
-securely-access-the = Greifen Sie von überall aus sicher auf Ihre in { -brand-name-firefox } gespeicherten Passwörter zu – auch außerhalb des Browsers.
 choose-which-firefox = Holen Sie sich den { -brand-name-firefox-browser } in Ihrer Sprache
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } für { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Ein { -brand-name-chromebook } hat schon { -brand-name-chrome } vorinstalliert, aber { -brand-name-firefox } als Standardbrowser bietet noch einige Vorteile:
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } war eine Revolution bei der Entwicklung von { -brand-name-firefox }. 2017 haben wir einen neuen, blitzschnellen Browser entwickelt, der sich ständig verbessert. { -brand-name-firefox-quantum } ist der { -brand-name-firefox-browser }.
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } war eine Revolution bei der Entwicklung von { -brand-name-firefox }. 2017 entwickelten wir einen neuen, blitzschnellen Browser, der sich fortlaufend verbessert. { -brand-name-firefox-quantum } ist der { -brand-name-firefox-browser }.
 firefox-more-little-book = Kleines Buch der Privatsphäre
 firefox-more-you-can-reclaim = Sie können Ihre Privatsphäre und die Kontrolle über Ihr eigenes Interneterlebnis zurückgewinnen! Es ist eigentlich überraschend einfach. Jeder kann es schaffen.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
@@ -43,13 +40,13 @@ firefox-for-windows = { -brand-name-firefox } für { -brand-name-windows } 64-bi
 we-worry-about = Wir kümmern uns um Ihre Datensicherheit, damit Sie dies nicht tun müssen.
 seven-of-the = Sieben der besten Browser im direkten Vergleich
 we-compare-firefox = Wir vergleichen{ -brand-name-firefox } mit { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } und { -brand-name-ie }, um dir bei deiner Entscheidung zu helfen.
-comparing-firefox-chrome = Der { -brand-name-firefox-browser } und { -brand-name-google } { -brand-name-chrome } im direkten Vergleich
+comparing-firefox-chrome = Vergleich von { -brand-name-firefox-browser } mit { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Groß ist nicht immer das Beste. Entscheiden Sie sich stattdessen für Unabhängigkeit.
 comparing-firefox-brave = { -brand-name-firefox-browser } und { -brand-name-brave } im Vergleich
 be-bold-and = Seien Sie mutig und entschlossen, wenn Sie auswählen, welcher Browser für Sie geeignet ist.
-comparing-firefox-edge = Der { -brand-name-firefox-browser } und { -brand-name-microsoft } { -brand-name-edge } im direkten Vergleich
+comparing-firefox-edge = Vergleich von { -brand-name-firefox-browser } mit { -brand-name-microsoft } { -brand-name-edge }
 youll-never-guess = Sie werden nie erraten, welcher Browser in Bezug auf Geschwindigkeit und Funktionen die Nase vorn hat.
-comparing-firefox-ie = Der { -brand-name-firefox-browser } und { -brand-name-microsoft } { -brand-name-ie } im direkten Vergleich
+comparing-firefox-ie = Vergleich von { -brand-name-firefox-browser } mit { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = Alte Gewohnheiten, die schwer loszuwerden sind, aber Sie werden sich besser fühlen, wenn sie es tun.
 comparing-firefox-safari = Vergleich von { -brand-name-firefox-browser } mit { -brand-name-apple } { -brand-name-safari }
 you-dont-have = Sie müssen nicht standardmäßig Ihren Standardbrowser verwenden.
