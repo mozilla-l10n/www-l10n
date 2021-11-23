@@ -14,11 +14,12 @@ firefox-enterprise-get-firefox-for-your-enterprise = Instal·leu el { -brand-nam
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Instal·leu el navegador <a href="{ $url }">{ -brand-name-firefox-extended-support-release } o Rapid Release</a> per a obtenir una seguretat i una protecció de dades integrals.
-firefox-enterprise-unmatched-data-protection = Obteniu una protecció de dades inigualable amb la cadència d'actualitzacions més idònia per a la vostra organització.
+firefox-enterprise-unmatched-data-protection = Obteniu una protecció de dades inigualable amb la cadència d'actualitzacions que desitgeu.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = El navegador { -brand-name-firefox } és de codi obert i ofereix una protecció de seguiment millorada; tot forma part del nostre compromís a llarg termini amb la protecció de dades.
 firefox-enterprise-your-data-stays-your-business = Les vostres dades són cosa vostra
 firefox-enterprise-deploy-when-and-how-you-want = Desplegueu quan i com vulgueu
+firefox-enterprise-with-install-packages-and = Amb els paquets d'instal·lació i una àmplia expansió de directives i característiques de grup, el desplegament és més ràpid i flexible que mai; bufar i fer ampolles als entorns { -brand-name-windows } i { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Trieu la cadència d'actualitzacions
 firefox-enterprise-get-rapid-releases-to-make = Baixeu Rapid Release per a assegurar-vos d'obtenir ràpidament les últimes característiques, o ESR per a garantir una experiència superestable.
 firefox-enterprise-enterprise-downloads = Baixades del { -brand-name-enterprise }
