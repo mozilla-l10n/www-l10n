@@ -5,8 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+# HTML page title
+mobile-compare-5-of-the-best = Cinco de los mejores navegadores móviles en comparación directa
 # HTML description
-mobile-compare-who-makes-the = ¿Quién hace el mejor navegador móvil? Compararemos las versiones móviles de { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } y { -brand-name-opera } para averiguarlo.
+mobile-compare-who-makes-the = ¿Quién desarrolla el mejor navegador móvil? Compararemos las versiones móviles de { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } y { -brand-name-opera } para averiguarlo.
+mobile-compare-since-your-mobile = Dado que tu navegador móvil es tu conexión a la información dondequiera que te encuentres, la velocidad, la seguridad, la privacidad y la facilidad de uso son claves para una buena experiencia. Entonces, ¿cuál es el mejor navegador móvil? Comparemos los más importantes y veamos cuál se adapta mejor a tus necesidades.
+mobile-compare-which-mobile-browser = ¿Qué navegador móvil mantiene la confidencialidad?
+mobile-compare-at-a-minimum-v2 = Como mínimo, tu navegador móvil debe proporcionar alguna versión del “modo de navegación privada”, que borre automáticamente tu historial y los registros de búsquedas. En este área, los cinco navegadores comparados aquí obtienen puntos.
+# Obsolete string
+mobile-compare-at-a-minimum = Como mínimo, tu navegador móvil debe proporcionar alguna versión del “modo de navegación privada”, que borre automáticamente tu historial y los registros de búsquedas. En este área, los siete navegadores comparados aquí obtienen puntos.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Características</strong>
 mobile-compare-features = Características
