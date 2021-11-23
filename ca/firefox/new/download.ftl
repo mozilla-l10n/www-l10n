@@ -45,6 +45,10 @@ firefox-new-please-follow = Seguiu <a href="{ $url }">aquestes instruccions</a> 
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = El vostre sistema no compleix els requisits per al { -brand-name-firefox }, però podeu provar alguna d'<a href="{ $url }">aquestes versions</a>.
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Si veieu un missatge que indica que l'aplicació que intenteu instal·lar no és una aplicació verificada per { -brand-name-microsoft }, feu clic a «Instal·la de totes maneres» o <a { $attrs }>canvia la configuració recomanada de l'aplicació</a >.
+firefox-new-visit-support-for-more = Visiteu l'assistència per a més detalls
 
 ## Not-Required
 
@@ -53,3 +57,7 @@ firefox-new-windows-10 = { -brand-name-windows } 10
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Baixa el { -brand-name-firefox-browser }
+firefox-new-fast = Ràpid, privat i gratuït
+firefox-new-from-mozilla = de { -brand-name-mozilla }
+firefox-new-desc = El { -brand-name-firefox-browser } és un navegador web gratuït que carrega ràpidament les pàgines, usa menys memòria i moltes funcions. Un projecte de l'organització sense ànim de lucre { -brand-name-mozilla }.
+firefox-new-download-a-different = Baixeu-lo per a una plataforma o llengua diferents
