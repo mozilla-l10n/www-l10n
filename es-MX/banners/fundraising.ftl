@@ -12,6 +12,7 @@ banner-fundraising-title = El futuro se decide en línea. Ayuda a { -brand-name-
 banner-fundraising-body-v2 = Estamos orgullosos de ser una organización sin fines de lucro que trabaja para mantener la web saludable. Tus contribuciones ayudan a construir un Internet seguro y abierto.
 # Outdated string
 banner-fundraising-body = Nuestros datos personales se recopilan cada vez que accedemos a la web, y no es fácil averiguar qué sucede con ellos. La desinformación nos dificulta encontrar la verdad. Los dispositivos conectados a la web se lanzan al mercado sin cumplir con los estándares mínimos de seguridad. La organización { -brand-name-mozilla-foundation } sin fines de lucro, lucha para hacer que el Internet sea seguro, abierto y accesible para todos. <strong> ¿Quieres donar ahora? </strong>
+banner-fundraising-body-extra = ¿Puedes donar hoy?
 banner-fundraising-monthly = Mensual
 banner-fundraising-one-time = Una sola vez
 banner-fundraising-donate = Donar
