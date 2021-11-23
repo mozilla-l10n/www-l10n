@@ -11,3 +11,6 @@ welcome-page11-page-title = { -brand-name-mozilla-vpn } per le festività natali
 welcome-page11-main-heading = In che modo <strong>{ -brand-name-mozilla-vpn }</strong> può farti risparmiare denaro durante queste festività natalizie?
 welcome-page11-it-helps-you-shop = Ti aiuta a fare acquisti su siti internazionali
 welcome-page11-it-protects-your-credit = Protegge i dati della tua carta di credito quando ti connetti a un Wi-Fi pubblico
+# CTA button
+welcome-page11-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }
+welcome-page11-why-see-this = Perché viene visualizzato questo messaggio?
