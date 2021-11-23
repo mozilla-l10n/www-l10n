@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -69,9 +69,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } ojo
 vpn-landing-faq-compatibility-question-desc = Máva ndive ojokupyty { -brand-name-mozilla-vpn }:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-bit añoite)
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-bit añoite)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (64 bits añoite)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-bit añoite)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ha tuichave)
@@ -109,14 +111,13 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-añoite)
 vpn-landing-faq-refund-question-heading = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia purureko?
+# Outdated string
 vpn-landing-faq-refund-question-desc = Erekojeykuaa nde viru 30 ára oútava pa’ũme ejogua rire mboheraguapy. Eñe’ẽ ore ndive ha emondo mba’ejerure me’ẽjeyrã eiporavóvo votõ “Pytyvõ jeguereko” Ñemoĩporãme ne rembipuru’i { -brand-name-mozilla-vpn } ryepýpe.
 vpn-landing-faq-manage-subscription-question-heading = ¿Mba’éicha añangarekóta che mboheraguapýre?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Eñemboheraguapýmarõ { -brand-name-mozilla-vpn }-pe, ikatu emoambue erekóva térã <a href="{ $url }">eñangareko ne ñemboheraguapýre</a> opa ára.
 vpn-landing-faq-link = Ehechave FAQs
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = ¡Ups! Nereñemboheraguapýi gueteri.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 

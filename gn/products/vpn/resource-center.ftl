@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/resource-center
 
+# HTML Page Title
+vpn-resource-center-title = VPN renda guasu
+vpn-resource-center-whats-the-deal = ¿Mba’e pe téma red privada virtual rehegua?
 vpn-resource-center-view-all = Ehechapa
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }

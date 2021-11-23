@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,8 @@ firefox-desktop-download-blocks-social-trackers = Ejoko tapykuehoha atyguáva
 firefox-desktop-download-os-availability = OS jepurukuaáva
 firefox-desktop-download-in-browser-screenshot = Mba’erecha japyhyha kundahárape rembipuru
 firefox-desktop-download-primary-password = Ñe’ẽñemi ha’etéva
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = Ejehayhúke eikundahávo
 # Obsolete string
 firefox-desktop-download-master-password = Ñe’ẽñemi peteĩháva
 firefox-desktop-download-we-block-the-ad = Roheka tapykuehoha ñemurãva. Upevarã eheka ñanduti ipya’éva.
