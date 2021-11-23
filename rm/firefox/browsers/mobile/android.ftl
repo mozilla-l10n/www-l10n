@@ -33,3 +33,5 @@ mobile-android-addons-are-like = Ils supplements sumeglian a pitschens utensils 
 mobile-android-pick-up-where = Cuntinuescha là nua che ti has smess
 mobile-android-go-from-your = Mida da tes telefon sin tes laptop, tablet ed enavos senza interrupziuns. Cun { -brand-name-firefox } sin tuts tes apparats pos ti prender cun tai tes segnapaginas, pleds-clav, tias datas d'access e tia cronologia nua ch'i saja.
 mobile-android-search-from-your = Tschertga directamain cun il visur da partenza da tes telefonin
+mobile-android-no-need-to = I na fa betg da basegn dad avrir l'applicaziun. Agiuntescha il widget da retschertga da { -brand-name-firefox } e cumenza a retschertgar il web directamain en il visur da partenza da tes apparat.
+mobile-android-pin-videos-to = Fixescha videos sin tes visur
