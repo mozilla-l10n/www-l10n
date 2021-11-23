@@ -84,6 +84,8 @@ vpn-shared-pricing-save-percent = Risparmia il { $percent }%
 #   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
 # Asterisk indicates a footnote for the following string
 vpn-shared-save-percent-on = Risparmia il { $percent }% su { -brand-name-mozilla-vpn }*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *se sottoscrivi un abbonamento a un piano annuale
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } totali
