@@ -14,3 +14,4 @@ vpn-resource-center-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = È stato utile questo articolo?
 vpn-resource-center-article-helpful = Utile
 vpn-resource-center-article-not-helpful = Non utile
+vpn-resource-center-related-posts = Post correlati
