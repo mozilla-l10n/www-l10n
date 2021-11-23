@@ -26,10 +26,17 @@ mobile-ios-firefox-gives-you = { -brand-name-firefox } te brinda una mayor prote
 mobile-ios-your-browsing-history = Tu historial de navegación es historia
 mobile-ios-if-you-want = Si lo deseas, puedes seleccionar fácilmente conectarte y buscar en el modo de navegación privada. Y cuando cierras el modo de navegación privada, tu historial de navegación y las cookies se borraran automáticamente de tu dispositivo.
 mobile-ios-get-more-firefox = Obtén más de { -brand-name-firefox } en tu vida
+mobile-ios-add-firefox-across-v2 = Agrega { -brand-name-firefox } a todos tus dispositivos para una navegación segura y sin problemas. Sincroniza tus dispositivos para llevar tus marcadores favoritos, credenciales guardadas, contraseñas e historial de navegación a donde sea que vayas. Además, envía pestañas abiertas entre tu teléfono y computador para continuar donde mismo quedaste.
 mobile-ios-get-to-your-go-to = Accede más rápido a tus sitios favoritos en tu { -brand-name-iphone } y { -brand-name-ipad }
 mobile-ios-see-your-open-tabs = Ve tus pestañas abiertas, búsquedas pasadas y sitios favoritos en un solo lugar con { -brand-name-firefox-browser } para { -brand-name-ios }.
+mobile-ios-own-your-home = Sé dueño de tu pantalla de inicio
 mobile-ios-get-to-the-parts = Accede más rápido a los sitios de Internet que te interesan. Elige ver todas tus pestañas abiertas, búsquedas recientes, marcadores y sitios favoritos en un solo lugar.
+# Obsolete string
+mobile-ios-add-firefox-across = Agrega { -brand-name-firefox } a todos tus dispositivos para una navegación segura y sin problemas. { -brand-name-sync } tus dispositivos para llevar tus marcadores favoritos, credenciales guardadas, contraseñas e historial de navegación a donde sea que vayas. Además, envía pestañas abiertas entre tu teléfono y computador para continuar donde mismo quedaste.
 mobile-ios-find-it-all = Encuentra todo mas rápido
+mobile-ios-get-search-suggestions = Recibe sugerencias de búsqueda en la barra de búsqueda y accede rápidamente a los sitios que más visitas. Escribe lo que deseas encontrar y obtén resultados sugeridos y previamente revisados con tus motores de búsqueda favoritos.
+# Obsolete string
+mobile-ios-keep-tabs-on = Mantén el control de todas las pestañas
 # Obsolete string
 mobile-ios-create-as-many = Crea tantas pestañas como quieras sin perder la pista. { -brand-name-firefox } muestra las pestañas abiertas como miniaturas y pestañas numeradas, lo que vuelve fácil encontrar lo que buscas.
 mobile-ios-discover-more-of = Descubre más de lo que amas
