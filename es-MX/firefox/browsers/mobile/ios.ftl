@@ -28,6 +28,7 @@ mobile-ios-if-you-want = Si lo deseas, puedes seleccionar fácilmente conectarte
 mobile-ios-get-more-firefox = Obtén más de { -brand-name-firefox } en tu vida
 mobile-ios-get-to-your-go-to = Accede más rápido a tus sitios favoritos en tu { -brand-name-iphone } y { -brand-name-ipad }
 mobile-ios-see-your-open-tabs = Ve tus pestañas abiertas, búsquedas pasadas y sitios favoritos en un solo lugar con { -brand-name-firefox-browser } para { -brand-name-ios }.
+mobile-ios-get-to-the-parts = Accede más rápido a los sitios de Internet que te interesan. Elige ver todas tus pestañas abiertas, búsquedas recientes, marcadores y sitios favoritos en un solo lugar.
 mobile-ios-find-it-all = Encuentra todo mas rápido
 # Obsolete string
 mobile-ios-create-as-many = Crea tantas pestañas como quieras sin perder la pista. { -brand-name-firefox } muestra las pestañas abiertas como miniaturas y pestañas numeradas, lo que vuelve fácil encontrar lo que buscas.
