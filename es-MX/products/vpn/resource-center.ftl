@@ -7,5 +7,8 @@
 
 vpn-resource-center-view-all = Ver todo
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
+vpn-resource-center-start-protecting = Empieza a proteger tu identidad hoy
+vpn-resource-center-get-mozilla-vpn = Obtén { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = ¿Te resultó útil este artículo?
+vpn-resource-center-article-helpful = Artículo útil
 vpn-resource-center-related-posts = Artículos relacionados
