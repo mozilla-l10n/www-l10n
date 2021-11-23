@@ -1,7 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
 
@@ -21,19 +20,25 @@ firefox-channel-download-and-test-the-latest-android = Nutzen und testen Sie die
 firefox-channel-try-the-latest-android-features = Probieren Sie die neuesten { -brand-name-android }-Funktionen aus, bevor sie der Rest der Welt zur Verfügung hat.
 firefox-channel-all-languages-and-platforms = Alle Sprachen und Plattformen
 firefox-channel-all-languages-and-builds = Alle Sprachen und Versionen
+
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ist eine instabile Test- und Entwicklungsplattform. { -brand-name-beta } sendet standardmäßig Daten an { -brand-name-mozilla } – und manchmal an unsere Partner –, um uns beim Lösen von Problemen und Ausprobieren von Ideen zu helfen. <a href="{ $link }">Erfahren Sie, was weitergegeben wird</a>.
-firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } sendet automatisch Feedback an { -brand-name-mozilla }.
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ist eine instabile Test- und Entwicklungsplattform. { -brand-name-beta } sendet standardmäßig Daten an { -brand-name-mozilla } – und manchmal an unsere Partner –, um uns bei der Problemlösung zu unterstützen und neue Ideen auszuprobieren. <a href="{ $link }">Erfahren Sie, welche Daten geteilt werden</a>.
+
+firefox-channel-firefox-beta-automatically = Die { -brand-name-firefox-beta } sendet automatisch Feedback an { -brand-name-mozilla }.
+
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Sagen Sie uns Ihre Meinung</a> und helfen Sie uns, in einer stabilen Umgebung die letzten Verbesserungen an Leistung und Funktionalität vorzunehmen.
+
 firefox-channel-check-out-new-android-features = Testen Sie neue { -brand-name-android }-Funktionen während der Entwicklung. Nutzung auf eigene Gefahr.
-firefox-channel-nightly-blog = { -brand-name-nightly }-Blog
+firefox-channel-nightly-blog = Der { -brand-name-nightly } Blog
+
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ist eine instabile Test- und Entwicklungsplattform. { -brand-name-nightly } sendet standardmäßig Daten an { -brand-name-mozilla } – und manchmal an unsere Partner –, um uns beim Lösen von Problemen und Ausprobieren von Ideen zu helfen. <a href="{ $link }">Erfahren Sie, was weitergegeben wird</a>.
-firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } sendet automatisch Feedback an { -brand-name-mozilla }.
+firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ist eine instabile Test- und Entwicklungsplattform. { -brand-name-nightly } sendet standardmäßig Daten an { -brand-name-mozilla } – und manchmal an unsere Partner –, um uns bei der Problemlösung zu unterstützen und neue Ideen auszuprobieren. <a href="{ $link }">Erfahren Sie, welche Daten geteilt werden</a>.
+
+firefox-channel-firefox-nightly-automatically = Die { -brand-name-firefox-nightly } sendet automatisch Feedback an { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Testen Sie neue Browser-Funktionen in Vorabversionen | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Erleben Sie brandneue Browser-Funktionen in Vorabversionen: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } und { -brand-name-firefox-nightly }. Jetzt herunterladen!
 firefox-channel-download-and-test-the-latest-desktop = Nutzen und testen Sie die neuesten Funktionen von { -brand-name-firefox } für Desktop mit der { -brand-name-developer-edition }, sowie { -brand-name-beta }- und { -brand-name-nightly }-Versionen.
@@ -42,11 +47,13 @@ firefox-channel-test-about-to-be-released = Testen Sie kurz vor der Veröffentli
 firefox-channel-release-notes = Versionshinweise
 firefox-channel-previous-nightly-builds = Ältere { -brand-name-nightly }-Builds
 firefox-channel-developer-edition = { -brand-name-developer-edition }
-firefox-channel-build-test-scale-and-more = Entwickeln, testen und skalieren Sie mit dem einzigen Browser nur für Entwickler.
+firefox-channel-build-test-scale-and-more = Entwickeln, testen und skalieren – mit dem einzigen Browser nur für Entwickler.
+
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ist eine instabile Test- und Entwicklungsplattform. { -brand-name-developer-edition } sendet standardmäßig Daten an { -brand-name-mozilla } – und manchmal an unsere Partner –, um uns beim Lösen von Problemen und Ausprobieren von Ideen zu helfen. <a href="{ $link }">Erfahren Sie, was weitergegeben wird</a>.
-firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } sendet automatisch Feedback an { -brand-name-mozilla }.
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ist eine instabile Test- und Entwicklungsplattform. { -brand-name-developer-edition } sendet standardmäßig Daten an { -brand-name-mozilla } – und manchmal an unsere Partner –, um uns bei der Problemlösung zu unterstützen und neue Ideen auszuprobieren. <a href="{ $link }">Erfahren Sie, welche Daten geteilt werden</a>.
+
+firefox-channel-firefox-developer-edition = Die { -brand-name-firefox-developer-edition } sendet automatisch Feedback an { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Sehen Sie eine Vorschau unseres Internet-Browsers der nächsten Generation und helfen Sie uns, ihn zum bestmöglichen Browser zu machen: Testen Sie { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Testen Sie täglich (oder… nächtlich) brandneue Funktionen. Nutzung auf eigene Gefahr.
