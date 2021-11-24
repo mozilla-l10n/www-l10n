@@ -14,3 +14,4 @@ mobile-compare-which-mobile-browser = Tgenin navigatur mobil garantescha che las
 mobile-compare-at-a-minimum-v2 = Tes navigatur mobil duess almain porscher ina sort «modus per la navigaziun privata» che stizza automaticamain tia cronologia da navigaziun e da retschertga. En questa domena fan tuts ils tschintg navigaturs cumparegliads qua lur puncts.
 # Obsolete string
 mobile-compare-at-a-minimum = Tes navigatur mobil duess almain porscher ina sort «modus per la navigaziun privata» che stizza automaticamain tia cronologia da navigaziun e da retschertga. En questa domena fan tuts ils set navigaturs cumparegliads qua lur puncts.
+mobile-compare-another-mobile-feature = In'ulteriura funcziun per apparats mobils che duess sa chapir da sasez è la pussaivladad dad impedir che websites ed interpresas possian fastizar las datas che ti laschas enavos cun navigar e far cumpras – era en il modus da navigaziun normala.
