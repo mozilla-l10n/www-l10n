@@ -17,6 +17,7 @@ vpn-what-is-when-should-i = ¿Cuándo debería usar una VPN?
 vpn-what-is-why-would-i = ¿Por qué debería usar una VPN?
 vpn-what-is-keeping-your-home = Mantener la ubicación de tu casa o los lugares más visitados en privado.
 vpn-what-is-protecting-your-connection = Proteger tu conexión a una red WiFi pública, como en una cafetería, aeropuerto, tienda o biblioteca.
+vpn-what-is-what-are-the = ¿Cuáles son las desventajas de usar una VPN?
 vpn-what-is-are-vpns-safe = ¿Son seguras las VPN?
 vpn-what-is-are-vpns-legal = ¿Son legales las VPN?
 vpn-what-is-are-vpns-only = ¿Las VPN son solo para computadoras?
