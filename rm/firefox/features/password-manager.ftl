@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = { -brand-name-firefox-browser }: Administrar pleds-clav a moda simpla e sperta
+password-manager-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }: Administrar pleds-clav a moda simpla e sperta
 # HTML page description
 password-manager-firefox-password = L'administraziun da pleds-clav da { -brand-name-firefox } memorisescha tut tes pleds-clav en in lieu, uschia che ti pos t'annunziar automaticamain tar paginas u avair access a moda simpla a tut tes pleds-clav memorisads.
 # Hero title

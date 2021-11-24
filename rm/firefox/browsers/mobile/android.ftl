@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
 # HTML page title
-mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+mobile-android-firefox-browser-android = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-android }
 # HTML description
 mobile-android-firefox-browser-for = Il navigatur { -brand-name-firefox } per { -brand-name-android } è svelt, segir e privat da bell'entschatta.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }

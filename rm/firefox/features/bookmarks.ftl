@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Segnapaginas optimads, adina per mauns
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser(capitalization: "uppercase") }: Segnapaginas optimads, adina per mauns
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organisescha tes segnapaginas a moda simpla en ordinaturs e ti has access ad els cun tut tes apparats – sin il computer u telefonin.
 features-bookmarks-better-bookmarks = Megliers segnapaginas

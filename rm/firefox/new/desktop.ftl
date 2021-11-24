@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -9,20 +9,20 @@
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
-firefox-desktop-download-meta-title = Telechargia { -brand-name-firefox-browser } — svelt, privat & gratuit — da { -brand-name-mozilla }
+firefox-desktop-download-meta-title = Telechargia il { -brand-name-firefox-browser } – svelt, privat & gratuit – da { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Va per { -brand-name-firefox }, il navigatur gratuit per il web, da { -brand-name-mozilla }, ina organisaziun senza finamira da profit che sa deditgescha ad in internet saun che respecta la protecziun da datas. Disponibel per { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
 firefox-desktop-download-og-title = Telechargia il pli svelt { -brand-name-firefox } da tuts
 firefox-desktop-download-og-desc = Paginas che chargian pli spert, in consum da memoria reducì e novas funcziuns: Il nov { -brand-name-firefox } è qua.
-firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-firefox = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-desktop-download-get-the-browser = Va per il navigatur che protegia quai che quinta
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Nagina protecziun da datas suspectusa cun largias per vendiders da reclama. Mo in navigatur sco ina frizza che na ta splima betg.
 firefox-desktop-download-download-options = Opziuns da telechargiadas ed autras linguas
-firefox-desktop-download-browser-support = Agid da { -brand-name-firefox-browser }
+firefox-desktop-download-browser-support = Agid dal { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Sta patgific en l'internet.<br> { -brand-name-firefox-browser } na t'observa <strong>betg</strong>.
+firefox-desktop-download-do-what-you-do = Sta patgific en l'internet.<br> Il { -brand-name-firefox-browser } na t'observa <strong>betg</strong>.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } en cumparegliaziun cun auters navigaturs
-firefox-desktop-download-get-all-the-speed = Profitescha da sveltezza ed ina massa utensils senza desister da la sfera privata. { -brand-name-firefox-browser } na rimna quasi naginas datas da tai. Nus na duvrain gnanc tia adressa d'e-mail per la telechargiada. En confrunt cun auters navigaturs n'avain nus nagin interess finanzial da ta persequitar en il web.
+firefox-desktop-download-get-all-the-speed = Profitescha da sveltezza ed ina massa utensils senza desister da la sfera privata. Il { -brand-name-firefox-browser } na rimna quasi naginas datas da tai. Nus na duvrain gnanc tia adressa d'e-mail per la telechargiada. En confrunt cun auters navigaturs n'avain nus nagin interess finanzial da ta persequitar en il web.
 firefox-desktop-download-how-we-compare = Ans cumpareglia cun auters navigaturs
 firefox-desktop-download-compare-firefox-to = Cumparegliar { -brand-name-firefox } cun:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -41,13 +41,13 @@ firefox-desktop-download-primary-password = Pled-clav universal
 # Obsolete string
 firefox-desktop-download-master-password = Pled-clav universal
 firefox-desktop-download-we-block-the-ad = Nus bloccain ils fastizaders da reclama. Ti navigheschas pli svelt en l'internet.
-firefox-desktop-download-ads-are-distracting = Reclamas distiran ed han per consequenza che paginas chargian pli plaun, fertant che lur fastizaders observan mintga pass che ti fas online. { -brand-name-firefox-browser } blochescha automaticamain la plipart dals fastizaders – uschia ch'i na fa gnanc da basegn da svutrar ditg en ils parameters da segirezza.
+firefox-desktop-download-ads-are-distracting = Reclamas distiran ed han per consequenza che paginas chargian pli plaun, fertant che lur fastizaders observan mintga pass che ti fas online. Il { -brand-name-firefox-browser } blochescha automaticamain la plipart dals fastizaders – uschia ch'i na fa gnanc da basegn da svutrar ditg en ils parameters da segirezza.
 firefox-desktop-download-see-your-report = Vesair tes rapport da protecziun
 firefox-desktop-download-for-everyone = { -brand-name-firefox } è per in e mintgina
 firefox-desktop-download-available-in-over = Disponibel en passa 90 linguas e cumpatibel cun maschinas da { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }: { -brand-name-firefox } funcziuna independent dal sistem che ti utiliseschas e nua ch'i saja. Controllescha che tes sistem saja actual per l'experientscha optimala.
 firefox-desktop-download-review-system-req = Verifitgar las premissas dal sistem
 firefox-desktop-download-all-your-devices = Installescha { -brand-name-firefox } sin tut tes apparats
-firefox-desktop-download-take-your-privacy = Piglia tia sfera privata adina cun tai. { -brand-name-firefox-browsers } per { -brand-name-ios } ed { -brand-name-android } ha la medema configuraziun stricta per la protecziun da datas che impedescha che fastizaders ta possian suandar en il web – nua ch'i saja.
+firefox-desktop-download-take-your-privacy = Piglia tia sfera privata adina cun tai. Il { -brand-name-firefox-browsers } per { -brand-name-ios } ed { -brand-name-android } ha la medema configuraziun stricta per la protecziun da datas che impedescha che fastizaders ta possian suandar en il web – nua ch'i saja.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Fa <strong>tut</strong> cun { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Tschertgar pli furber e pli svelt
@@ -102,7 +102,7 @@ firefox-desktop-download-your-privacy-comes = La protecziun da tias datas en emp
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Ti pos far quint cun tut tias funcziunalitads preferidas dal navigatur — e <strong>scuvrir</strong> novas.
 # Gmail and Docs are product names and should not be translated
-firefox-desktop-download-all-your-favourite = Tut tes utensils preferids da { -brand-name-google } (p.ex. Gmail e Docs) funcziunan perfetgamain en { -brand-name-firefox-browser }.
+firefox-desktop-download-all-your-favourite = Tut tes utensils preferids da { -brand-name-google } (p.ex. Gmail e Docs) funcziunan perfetgamain en il { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -112,9 +112,9 @@ firefox-desktop-download-screenshots = Maletgs dal visur
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protecziun avanzada cunter il fastizar
 firefox-desktop-download-from-watching-a = Vuls ti suandar in video da tutorial u tegnair en egl tia squadra preferida? Tes video resta en il fund davant fertant che ti ta deditgeschas anc ad autra rauba.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
-firefox-desktop-download-get-firefox-android = Va per { -brand-name-firefox-browser } per <strong>{ -brand-name-android }</strong>
-firefox-desktop-download-get-firefox-ios = Va per { -brand-name-firefox-browser } per <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+firefox-desktop-download-get-firefox-android = Va per il { -brand-name-firefox-browser } per <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Va per il { -brand-name-firefox-browser } per <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Telechargia il navigatur { -brand-name-firefox } per apparats mobils per proteger automaticamain tut tes apparats.
 firefox-desktop-download-learn-about-the = Ulteriuras infurmaziuns davart il navigatur { -brand-name-firefox } per computers suondan sutvart
 # Variables:
@@ -175,6 +175,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Ti utiliseschas in s
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Tia telechargiada duess cumenzar automaticamain. Betg funcziunà? <a id="{ $id }" href="{ $fallback_url }">Emprova anc ina giada da telechargiar.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è dapli ch'in navigatur.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Tia telechargiada è interrutta. Ma betg tut è pers.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux

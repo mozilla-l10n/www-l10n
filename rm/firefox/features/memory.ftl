@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Dovra pli pauca memoria, dat dapli sveltezza
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser(capitalization: "uppercase") }: Dovra pli pauca memoria, dat dapli sveltezza
 # HTML page description
 features-memory-is-your-computer-slow-your = È tes computer plaun? Forsa dovra tes navigatur memia blera memoria. Mida a { -brand-name-firefox } per esser pli svelt.
 features-memory-less-memory-usage-than-chrome = Dovra pli pauca memoria che { -brand-name-chrome }

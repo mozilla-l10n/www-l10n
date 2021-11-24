@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ## Required
@@ -56,8 +56,8 @@ firefox-new-visit-support-for-more = Visita l'agid per ulteriurs detagls
 ### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
-firefox-new-download-browser = Telechargiar { -brand-name-firefox-browser }
+firefox-new-download-browser = Telechargiar il { -brand-name-firefox-browser }
 firefox-new-fast = Svelt, segir e gratuit
 firefox-new-from-mozilla = da { -brand-name-mozilla }
-firefox-new-desc = { -brand-name-firefox-browser } è in navigatur-web liber e gratuit che chargia svelt las paginas, dovra pauca memoria e porscha bleras funcziunalitads - in project da l'organisaziun senza finamira da profit { -brand-name-mozilla }.
+firefox-new-desc = Il { -brand-name-firefox-browser } è in navigatur-web liber e gratuit che chargia svelt las paginas, dovra pauca memoria e porscha bleras funcziunalitads – in project da l'organisaziun senza finamira da profit { -brand-name-mozilla }.
 firefox-new-download-a-different = Telechargiar per in'autra plattafurma u lingua

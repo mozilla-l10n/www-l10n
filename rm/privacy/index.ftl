@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -26,14 +26,14 @@ privacy-index-get-involved = Ta participescha
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Sco project open source èn transparenza ed avertadad princips fundamentals da { -brand-name-mozilla }. Il code da funtauna da { -brand-name-mozilla } è avert ed examinabel. Il svilup succeda a moda transparenta. Noss <a href="{ $report }">rapport da transparenza</a> semestril demussa noss engaschi per quests princips.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Per consultar e commentar midadas proponidas concernent nossas directivas da la protecziun da datas, <a href="{ $group }">abunescha la gruppa { -brand-name-mozilla } Governance</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Legia dapli davart nossa lavur politica cuntinuanta concernent la protecziun da datas e la segirezza sin l'<a href="{ $blog }"> Open Policy and Advocacy Blog</a> da { -brand-name-mozilla }.
 privacy-index-outdated-policies = Directivas obsoletas
 privacy-index-mozilla-websites-communications = Websites da { -brand-name-mozilla }, communicaziuns e cookies
-privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-browser = Il { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
 privacy-index-firefox-private-network = { -brand-name-firefox-private-network }

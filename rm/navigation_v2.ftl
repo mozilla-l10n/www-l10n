@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Telechargiar { -brand-name-firefox }
@@ -11,8 +11,8 @@ navigation-v2-get-a-firefox-account = Ir per in { -brand-name-firefox-account }
 
 ## Firefox menu
 
-navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
-navigation-v2-close-firefox-browsers-menu = Serrar il menu { -brand-name-firefox-browsers }
+navigation-v2-firefox-browsers = Ils { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = Serrar il menu dals { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } per computers
 navigation-v2-get-the-not-for-profit-backed = Va per il navigatur senza finamira da profit per { -brand-name-windows }, { -brand-name-mac-short } u { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } per { -brand-name-android }

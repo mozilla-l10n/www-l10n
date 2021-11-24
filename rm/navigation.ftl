@@ -1,19 +1,19 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Telechargiar { -brand-name-firefox }
 navigation-get-a-firefox-account = Ir per in { -brand-name-firefox-account }
-navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } per computers
+navigation-firefox-browser-for-desktop = Il { -brand-name-firefox-browser } per computers
 navigation-get-the-browser-that-respects = Va per il navigatur che respecta automaticamain tia sfera privata. Sin { -brand-name-windows }, { -brand-name-mac } u { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } per apparats mobils
+navigation-firefox-browser-for-mobile = Il { -brand-name-firefox-browser } per apparats mobils
 navigation-take-speed-privacy-and = Piglia la sveltezza e la protecziun da datas cun tai e sta patgific. Sin { -brand-name-android } e { -brand-name-ios }.
 navigation-download-for-ios = Telechargiar per { -brand-name-ios }
 navigation-download-for-android = Telechargiar per { -brand-name-android }
 navigation-ios-support = Agid per { -brand-name-ios }
 navigation-android-support = Agid per { -brand-name-android }
-navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } per interpresas
-navigation-strap-on-your-goggles = Metta si tes egliers VR e fa il pass en il web immersiv cun { -brand-name-firefox-browser } per la realitad virtuala.
+navigation-firefox-browser-for-enterprise = Il { -brand-name-firefox-browser } per interpresas
+navigation-strap-on-your-goggles = Metta si tes egliers VR e fa il pass en il web immersiv cun il { -brand-name-firefox-browser } per la realitad virtuala.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } per { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Guarda videos e navighescha en l'internet sin tia { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Ils navigaturs { -brand-name-firefox } respectan tia sfera privata — da bell'entschatta
