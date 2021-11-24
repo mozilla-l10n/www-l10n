@@ -1,10 +1,8 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/contribute/
-
 
 ## Page heading
 
@@ -25,7 +23,7 @@ contribute-task-translate-heading = Inhalt übersetzen
 contribute-task-translate-desc = Das Internet ist nur global, wenn es überall verstanden wird. Helfen Sie uns, { -brand-name-mozilla }-Produkte und Websites in Ihre Landessprache zu übersetzen.
 contribute-task-mozilla-codebase-heading = Tragen Sie zur Codebasis von { -brand-name-mozilla } bei
 contribute-task-mozilla-codebase-desc = Verbessern Sie aktiv { -brand-name-mozilla }-Produkte, indem Sie zu einer Vielzahl von Entwicklungsmöglichkeiten beitragen.
-contribute-task-support-desc = Helfen Sie dabei, die Verwendung von { -brand-name-mozilla }-Produkten zu vereinfachen. Beantworten Sie die Fragen der Teilnehmer im Rahmen der { -brand-name-mozilla }-Hilfeforen der Gemeinschaft.
+contribute-task-support-desc = Helfen Sie dabei, die Verwendung von { -brand-name-mozilla }-Produkten einfacher zu machen. Beantworten Sie die „Hilfe“-Fragen anderer als Teil des { -brand-name-mozilla } Support Community Forums.
 contribute-task-join-heading = Werden Sie Mitglied der Gemeinschaft
 contribute-task-join-desc = Möchten Sie sich stärker in der { -brand-name-mozilla }-Gemeinschaft engagieren? Schauen Sie sich alle Möglichkeiten für Freiwillige in unserem Gemeinschaftsportal an.
 
@@ -56,9 +54,9 @@ contribute-newsletter-desc = Abonnieren Sie unseren Newsletter, schließen Sie s
 
 ## Support
 
-contribute-support-heading = Unterstützung erhalten
+contribute-support-heading = Hilfe erhalten
 contribute-support-desc = { -brand-name-mozilla } verfügt über ein engagiertes Team von Freiwilligen, die bei allen Problemen helfen.
-contribute-mozilla-support = { -brand-name-mozilla }-Hilfe
+contribute-mozilla-support = Hilfe für { -brand-name-mozilla }
 
 ## Web compat
 
