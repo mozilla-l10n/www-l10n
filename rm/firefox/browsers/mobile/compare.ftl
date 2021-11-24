@@ -21,3 +21,8 @@ mobile-compare-from-the-chart = En la tabella sisur ves'ins che { -brand-name-fi
 mobile-compare-features-strong = <strong>Funcziuns</strong>
 mobile-compare-features = Funcziuns
 mobile-compare-what-can-your = Tge po tes navigatur far per tai?
+mobile-compare-a-main-ingredient = Ina part essenziala dad in bun navigatur è sia funcziunalitad. Tge po el far? Quasi tut ils tschintg navigaturs stattan a pèr in cun l'auter areguard ils tabs, ils segnapaginas, l'endataziun automatica en champs vids, ma sulettamain { -brand-name-firefox } e { -brand-name-safari } porschan supplements/extensiuns che sumeglian ad applicaziuns per tes navigatur e pon al render pli discret, potent u simplamain era pli divertent.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>Sincronisaziun</strong>
+mobile-compare-syncing = Sincronisaziun
+mobile-compare-does-your-browser = Funcziunescha tes navigatur bain cun auters apparats?
