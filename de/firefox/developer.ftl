@@ -1,12 +1,10 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Bei der { -brand-name-firefox-developer-edition } für Dich drin: Top-Speed, richtungsweisende Developer Tools und starke Features wie CSS Grid Support und Framework Debugging.
@@ -15,12 +13,14 @@ firefox-developer-welcome-to-your-new-favorite = Dein neuer Lieblings-Browser is
 firefox-developer-speak-up = Dein Feedback
 firefox-developer-feedback-makes-us = Wie können wir Browser und DevTools weiter verbessern? Dein Input zählt.
 firefox-developer-join-the-convo = Hier Mitreden
-firefox-developer-get-involved = Sei dabei
+firefox-developer-get-involved = Mitmachen
 firefox-developer-help-build-the-last = Mache mit beim letzten unabhängigen Browser: Code schreiben, Bugs fixen, Add-ons entwickeln und mehr.
 firefox-developer-start-now = Los geht’s
 firefox-developer-design-code-test = Gestalte. Code. Teste. Verbessere.
+
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Die { -brand-name-firefox-devtools } für perfekte Websites
+firefox-developer-build-and-perfect = Bauen und perfektionieren Sie Ihre Websites<br> mit { -brand-name-firefox-devtools }
+
 firefox-developer-inspector = Inspector
 firefox-developer-inspect-and-refine = Code inspizieren und optimieren für pixelgenaue Layouts.
 firefox-developer-learn-about-page-inspector = Mehr über den Inspector erfahren
@@ -75,7 +75,7 @@ firefox-developer-the-new-fonts-panel = Mit dem neuen Schriftart-Panel in den { 
 firefox-developer-firefox-developer-edition-sends = Die { -brand-name-firefox-developer-edition } sendet automatisch Feedback an { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = { -brand-name-firefox } für Developer. Jetzt herunterladen.
 firefox-developer-welcome-to-the-all-new = Zeit für die neue { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
-firefox-developer-firefox-has-been-rebuilt = Wir haben { -brand-name-firefox } fundamental erneuert. Das Ergebnis: { -brand-name-firefox } ist schneller, flüssiger und leistungsstärker als je zuvor.
+firefox-developer-firefox-has-been-rebuilt = Wir haben { -brand-name-firefox } fundamental erneuert. Das Ergebnis: er ist schneller, geschmeidiger und leistungsstärker als je zuvor.
 firefox-developer-congrats-you-now-have-firefox = Glückwunsch – Du hast die { -brand-name-firefox-quantum }: { -brand-name-developer-edition } am Start.
 firefox-developer-this-isnt-just-an-update = Weit mehr als nur ein Update: { -brand-name-firefox-quantum } ist ein völlig neuer { -brand-name-firefox }. Und noch viel schneller, flüssiger und leistungsstärker als je zuvor.
 firefox-developer-welcome-to-firefox-browser = Willkommen bei { -brand-name-firefox-browser } { -brand-name-developer-edition }
