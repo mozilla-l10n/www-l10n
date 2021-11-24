@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -8,7 +8,7 @@
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } vs. { -brand-name-brave }: Tgenin è il meglier navigatur per tai?
 # HTML page description
-compare-brave-compare-brave-to-the-firefox = Cumpareglia { -brand-name-brave } cun { -brand-name-firefox-browser } per vegnir a savair tgenin ch'è il meglier navigatur per tai, areguard protecziun da datas, utilisabladad e portabilitad.
+compare-brave-compare-brave-to-the-firefox = Cumpareglia { -brand-name-brave } cun il { -brand-name-firefox-browser } per vegnir a savair tgenin ch'è il meglier navigatur per tai, areguard protecziun da datas, utilisabladad e portabilitad.
 # Main title
 compare-brave-comparing-firefox-browser = Cumparegliaziun dal { -brand-name-firefox-browser } cun { -brand-name-brave }
 # "Brave Software" is a brand name.

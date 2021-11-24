@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -23,9 +23,9 @@ firefox-all-64-bit-installers = Programs d'installaziun 64 bits
 firefox-all-choose-a-64-bit-installer = Tscherna in program d'installaziun 64 bits per computers cun in processur da 64 bits. Quai als permetta dad attribuir dapli RAM a singuls programs — quai è spezialmain impurtant per gieus ed autras applicaziuns exigentas.
 firefox-all-32-bit-installers = Programs d'installaziun 32 bits
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Telechargia il navigatur { -brand-name-firefox-browser } per rumantsch (u passa 90 autras linguas)
+firefox-all-download-the-firefox = Telechargia il { -brand-name-firefox-browser } per rumantsch (u passa 90 autras linguas)
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Mintgin ha merità dad avair access a l'internet — en sia atgna lingua. Perquai stat { -brand-name-firefox-browser } — grazia a la lavur da voluntaris — a disposiziun per rumantsch e passa 90 autras linguas.
+firefox-all-everyone-deserves-access = Mintgin ha merità dad avair access a l'internet — en sia atgna lingua. Perquai stat il { -brand-name-firefox-browser } — grazia a la lavur da voluntaris — a disposiziun per rumantsch e passa 90 autras linguas.
 firefox-all-choose-which-firefox = Tscherna tge { -brand-name-firefox-browser } telechargiar en tia lingua
 firefox-all-firefox-privacy-notice = Las directivas da { -brand-name-firefox } per la protecziun da datas
 firefox-all-learn-about-firefox = Ulteriuras infurmaziuns davart ils navigaturs { -brand-name-firefox }
@@ -33,7 +33,7 @@ firefox-all-the-standard-firefox = Il navigatur { -brand-name-firefox } da stand
 firefox-all-get-a-sneak-peek-at = Dà in tgit a las funcziuns las pli novas da { -brand-name-firefox } – avant ch'ellas vegnan publitgadas.
 firefox-all-test-your-sites-against = Testescha tias websites cun las funcziuns da novas versiuns da { -brand-name-firefox } che vegnan prest publitgadas, cun agid dals utensils per sviluppaders, integrads gia en la versiun standard.
 firefox-all-count-on-stability-and = Questa varianta da { -brand-name-firefox } creada per interpresas è specialmain stabila e simpla d'utilisar.
-firefox-all-windows-installers-for = Programs d'installaziun per ambients informatics da Windows en interpresas che simplifitgeschan la configuraziun, l'implementaziun e l'administraziun da { -brand-name-firefox-browser }.
+firefox-all-windows-installers-for = Programs d'installaziun per ambients informatics da Windows en interpresas che simplifitgeschan la configuraziun, l'implementaziun e l'administraziun dal { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Programs d'installaziun ARM64/AArch64
 firefox-all-arm64-installers-optimized = Programs d'installaziun ARM64/AArch64 optimads per PCs cun { -brand-name-windows } e processurs Snapdragon.
 firefox-all-product-send-link = Trametter ina colliaziun per telechargiar a tes telefonin

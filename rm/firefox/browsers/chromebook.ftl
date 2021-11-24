@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
@@ -8,8 +8,8 @@
 
 # HTML page title
 
-browsers-chromebook-get-firefox-browser = Va per { -brand-name-firefox-browser } per { -brand-name-chromebook }
-browsers-chromebook-so-youve-got = Ussa che ti has in { -brand-name-chromebook } èsi temp dad ir per il navigatur independent { -brand-name-firefox-browser } cun protecziun automatica da la sfera privata – per proteger tias datas persunalas.
+browsers-chromebook-get-firefox-browser = Va per il { -brand-name-firefox-browser } per { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = Ussa che ti has in { -brand-name-chromebook } èsi temp dad ir per il navigatur { -brand-name-firefox-browser } independent cun protecziun automatica da la sfera privata – per proteger tias datas persunalas.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Va per { -brand-name-firefox } per { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Va per { -brand-name-firefox } per computers { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = { -brand-name-chromebook } basà sin *x86 cun { -brand-name-chromeos } 80 u pli nov

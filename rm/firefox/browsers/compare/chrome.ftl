@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -27,7 +27,7 @@ compare-chrome-ultimately-its-up-to-you = La fin finala èsi tia decisiun. Ti po
 compare-chrome-fast-forward-to-today-the-updated = En cumparegliaziun cun antruras èn las aspectativas envers ils navigaturs-web sa midadas. Ils utilisaders d'ozendi sa fatschentan cun la dumonda tge che capita cun lur datas online sco la cronologia, lur pleds-clavs e cun ulteriuras infurmaziuns sensiblas. Dapi che { -brand-name-chrome } è vegnì en acziun l'onn 2008 è sa midà bler. Nus da { -brand-name-firefox } avain lavurà fitg per actualisar nossa interfatscha e metter a disposiziun a noss utilisaders ina purschida adina pli vasta che meglierescha la protecziun da datas e la prestaziun. Ultra da quai datti utensils pratics per il navigatur, e tut quai sco standard.
 # Obsolete string
 compare-chrome-fast-forward-to-today-the = En cumparegliaziun cun antruras èn las aspectativas envers ils navigaturs-web sa midadas. Ils utilisaders d'ozendi sa fatschentan cun la dumonda tge che capita cun lur datas online sco la cronologia, lur pleds-clavs e cun ulteriuras infurmaziuns sensiblas. Dapi che { -brand-name-chrome } è vegnì en acziun l'onn 2008 è sa midà bler. Nus da { -brand-name-firefox } avain lavurà fitg per actualisar nossa interfatscha e metter a disposiziun a noss utilisaders ina purschida adina pli vasta che meglierescha la protecziun da datas e la prestaziun. Ultra da quai datti utensils pratics per il navigatur.
-compare-chrome-and-so-here-we-are-the-browser = E voilà, la guerra tranter ils navigaturs escalescha puspè. Perquai èsi puspè ura e temp da reevaluar e cumparegliar ils navigaturs { -brand-name-firefox-browser } e { -brand-name-google } { -brand-name-chrome } in cun l'auter.
+compare-chrome-and-so-here-we-are-the-browser = E voilà, la guerra tranter ils navigaturs escalescha puspè. Perquai èsi puspè ura e temp da reevaluar e cumparegliar il { -brand-name-firefox-browser } e { -brand-name-google } { -brand-name-chrome } in cun l'auter.
 compare-chrome-in-2008-google-introduced = L'onn 2008 ha { -brand-name-google } preschentà { -brand-name-chrome } e cun quai è l'effect innovativ da la tecnologia dal navigatur sa fatg valair immediatamain: Igl è ì bler pli spert da chargiar paginas-web, il spazi occupà sin il monitur è sa reducì e l'interfatscha è daventada pli survesaivla e definitivamain pli simpla d'utilisar.
 compare-chrome-in-fact-both-chrome-and-firefox = Per propi han tant { -brand-name-chrome } sco era { -brand-name-firefox } applitgà mesiras da segirezza rigurusas. Domadus dovran ina tecnologia, numnada «sandboxing». Quella separa ils process dal navigatur da maniera ch'ina pagina-web donnegiusa na possia betg infectar ulteriuras parts da tes laptop (u auter apparat).
 # "Beside the point" means that a subject might be worth noting, but isn't the main focus (the point) of the discussion. Alternative: "but that's not the real issue."
