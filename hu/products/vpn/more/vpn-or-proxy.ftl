@@ -22,6 +22,29 @@ vpn-or-proxy-when-should-you = Mikor válasszon VPN-t vagy biztonságos proxyt?
 vpn-or-proxy-vpns-and-secure = A VPN-eknek és a biztonságos webes proxyknak közös céljaik vannak: biztosítják a kapcsolatokat. Elrejtik eredeti az IP-címét, és megvédik az Ön és a VPN- vagy biztonságos proxyszolgáltatója közötti internetes forgalmat. De mikor szeretne VPN-t használni egy proxyval szemben?
 vpn-or-proxy-secure-web-proxy = Biztonságos webes proxy: böngésző szintű védelem
 vpn-or-proxy-a-secure-web = A biztonságos webproxy olyan feladatoknál működik, amelyeket csak a böngészőjében végez. Ez sok tevékenységet jelenthet, például vásárlást, számlák fizetését, bejelentkezést a közösségi médiába, e-mailezést. A biztonságos webproxy közvetítőként szolgál a böngésző és az internet között. Az Ön webböngészési adatai egy biztonságos alagúton keresztül jutnak el az internetre, közvetlenül a böngészőből, elfedve az Ön IP-címét, így a webkiszolgáló, amellyel kapcsolatba lép, nem tudja pontosan, hol tartózkodik a világon. Ez pedig megnehezíti a követést és a célzást.
+# Variables
+#   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
+vpn-or-proxy-a-proxy-is-useful = A proxy hasznos, ha nyilvános Wi-Fin böngészi a webet. Ha egy proxy be van kapcsolva, akkor megakadályozza azt, hogy az egyazon hálózaton lévők lehallgassák a böngészési tevékenységét vagy a nem titkosított oldalakon végzett tranzakcióit. Ez ártatlannak hangozhat, de a nyilvános Wi-Fik hátsó ajtók lehetnek a <a href="{ $url }">hackerek</a> számára.
+# Variables
+#   $fpn (url) - https://fpn.firefox.com
+vpn-or-proxy-firefox-private-network = A <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> egy könnyen telepíthető böngészőkiegészítő, amely biztonságos, titkosított csatornát biztosít a web felé, hogy megvédje a böngészője kapcsolatát, bárhol is használja a { -brand-name-firefox }ot. Bekapcsolása gyors és könnyű, bármikor is legyen szükséges a megnövelt biztonságra.
 vpn-or-proxy-vpns-devicelevel-protection = VPN-ek: eszközszintű védelem
+vpn-or-proxy-a-vpn-works = A VPN úgy működik, hogy biztonságos „alagutat” hoz létre az eszköz és az internet között. Két kulcsfontosságú módon védi személyes adatait:
+vpn-or-proxy-concealing-your-ip = Elrejti a valódi IP-címét, védve a személyazonosságát, és elfedve a tartózkodási helyét.
 vpn-or-proxy-encrypting-your-traffic = Titkosítja a forgalmat Ön és a VPN szolgáltató között, így a helyi hálózaton senki nem tudja azt megfejteni vagy módosítani.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = A VPN a nyílt és nyilvános Wi-Fi-kapcsolatokon is biztonságot nyújt. A nyílt W-Fi kockázatos lehet, és nem lehet biztos abban, hogy valaki más nem csatlakozik ugyanarra a hálózatra, hogy megfigyelje, mit csinál. Még ha a forgalma titkosított is, akkor is láthatják, hogy milyen oldalakat látogat meg. Ha pedig olyan alkalmazást használ, amely nem rendelkezik titkosítással – és még ma is sok nem –, akkor mindent láthatnak, amit abban az alkalmazásban csinál. A { -brand-name-mozilla-vpn } egy gyors, biztonságos és megbízható szolgáltatás, amely segíthet a biztonsági rés megszüntetésében. A <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> lehetővé teszi azt is, hogy több mint { $countries } ország közül válassza ki a „tartózkodási helyét” (a forgalma látszólag onnan fog érkezni).
 vpn-or-proxy-choose-a-trustworthy = Válasszon megbízható szolgáltatást
+# Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-or-proxy-the-most-important = A legfontosabb dolog, amit figyelembe kell venni a VPN vagy a proxyszolgáltatás kiválasztásakor az, hogy megbízható céget válasszon. Győződjön meg róla, hogy megértette a feltételeket, amelyekbe beleegyezik. Sokan azt állítják, hogy nagyszerűek és a magánszférára összpontosítanak, de nagy részük nem teljesíti az ígéretét. Nem minden proxy- és VPN-szolgáltatás biztonságos és privát. Néhány <a href="{ $cnet }">naplózza</a> az <a href="{ $pcmag }">online tevékenységeit</a>, hogy eladhassák marketingcégeknek az Ön adatait és információit. Egyes szolgáltatások megpróbálhatják meggyőzni Önt arról, hogy rosszindulatú programokat telepítsen az eszközeire.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $fpn (url) - https://fpn.firefox.com/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-or-proxy-weve-done-the = Megtettük a szükséges munkát annak biztosítása érdekében, hogy mind a <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a>, mind a <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> valóban tiszteletben tartsa az Ön magánéletét, és erre hajlandóak vagyunk feltenni a hírnevünket. A { -brand-name-mozilla } arról ismert, hogy olyan termékeket készít, amelyek segítenek az adatainak biztonságban tartásában. Követjük a könnyen olvasható, lényegre törő <a href="{ $principles }">Adatvédelmi irányelveinket </a>, amelyek lehetővé teszik számunkra, hogy csak a szolgáltatás nyújtásához szükséges információkra koncentráljunk. Továbbá mivel egy <a href="{ $mission }">küldetésvezérelt</a> cég áll mögöttünk, így bízhat abban, hogy az erre a termékre költött összeg nemcsak a legmagasabb szintű biztonságot biztosítja, hanem mindenki számára jobbá teszi az internetet.
