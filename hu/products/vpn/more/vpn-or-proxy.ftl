@@ -21,6 +21,7 @@ vpn-or-proxy-isps-can-use = Az internetszolgáltatók felhasználhatják ezeket 
 vpn-or-proxy-when-should-you = Mikor válasszon VPN-t vagy biztonságos proxyt?
 vpn-or-proxy-vpns-and-secure = A VPN-eknek és a biztonságos webes proxyknak közös céljaik vannak: biztosítják a kapcsolatokat. Elrejtik eredeti az IP-címét, és megvédik az Ön és a VPN- vagy biztonságos proxyszolgáltatója közötti internetes forgalmat. De mikor szeretne VPN-t használni egy proxyval szemben?
 vpn-or-proxy-secure-web-proxy = Biztonságos webes proxy: böngésző szintű védelem
+vpn-or-proxy-a-secure-web = A biztonságos webproxy olyan feladatoknál működik, amelyeket csak a böngészőjében végez. Ez sok tevékenységet jelenthet, például vásárlást, számlák fizetését, bejelentkezést a közösségi médiába, e-mailezést. A biztonságos webproxy közvetítőként szolgál a böngésző és az internet között. Az Ön webböngészési adatai egy biztonságos alagúton keresztül jutnak el az internetre, közvetlenül a böngészőből, elfedve az Ön IP-címét, így a webkiszolgáló, amellyel kapcsolatba lép, nem tudja pontosan, hol tartózkodik a világon. Ez pedig megnehezíti a követést és a célzást.
 vpn-or-proxy-vpns-devicelevel-protection = VPN-ek: eszközszintű védelem
 vpn-or-proxy-encrypting-your-traffic = Titkosítja a forgalmat Ön és a VPN szolgáltató között, így a helyi hálózaton senki nem tudja azt megfejteni vagy módosítani.
 vpn-or-proxy-choose-a-trustworthy = Válasszon megbízható szolgáltatást
