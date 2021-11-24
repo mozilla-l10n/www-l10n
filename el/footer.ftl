@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Διακήρυξη της { -brand-name-mozilla }
@@ -61,7 +61,7 @@ footer-product-help = Βοήθεια προϊόντος
 footer-support = Υποστήριξη
 footer-file-a-bug = Αναφορά σφάλματος
 footer-community-participation-guidelines = Κανόνες συμμετοχής κοινότητας
-footer-websites-privacy-notice = Σημείωση απορρήτου ιστοσελίδας
+footer-websites-privacy-notice = Σημείωση απορρήτου ιστοτόπου
 footer-websites-cookies = Cookies
 footer-websites-legal = Νομικά
 footer-language = Γλώσσα
