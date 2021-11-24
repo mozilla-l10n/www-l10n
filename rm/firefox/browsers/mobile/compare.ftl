@@ -26,3 +26,4 @@ mobile-compare-a-main-ingredient = Ina part essenziala dad in bun navigatur è s
 mobile-compare-syncing-strong = <strong>Sincronisaziun</strong>
 mobile-compare-syncing = Sincronisaziun
 mobile-compare-does-your-browser = Funcziunescha tes navigatur bain cun auters apparats?
+mobile-compare-the-mobile-version = La versiun mobila da { -brand-name-safari } ch'è preinstallada sin ils apparats mobils dad { -brand-name-apple } è mo cumpatibla cun auters apparats dad { -brand-name-apple } sco l'{ -brand-name-ipad } e laptops da { -brand-name-mac-short }. { -brand-name-firefox }, { -brand-name-chrome } ed { -brand-name-opera } funcziuneschan sin tut las plattafurmas inclusivamain { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux } cun excepziun dal navigatur { -brand-name-edge } che n'è betg cumpatibel cun apparats da { -brand-name-linux }.
