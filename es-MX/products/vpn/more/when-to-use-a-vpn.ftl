@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
+vpn-when-to-use-1-a-walk = 1. Un paseo por el parque
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, un servicio VPN confiable
