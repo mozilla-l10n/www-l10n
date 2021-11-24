@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -26,13 +26,13 @@ privacy-index-get-involved = Συμμετοχή
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Ως έργο ανοικτού κώδικα, η διαφάνεια και η προσβασιμότητα είναι θεμελιώδεις αρχές της { -brand-name-mozilla }. Οι βάσεις κώδικά μας είναι ανοικτές και ελέγξιμες. Η προγραμματιστική μας εργασία είναι ανοικτή. Η εξαμηνιαία μας <a href="{ $report }">αναφορά διαφάνειας</a> προβάλει την αφοσίωσή μας σε αυτές τις αρχές.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Για να αξιολογήσετε και να σχολιάσετε τις προτεινόμενες αλλαγές για τις πολιτικές απορρήτου μας, <a href="{ $group }"> εγγραφείτε στη διοικητική ομάδα της { -brand-name-mozilla }</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Μάθετε περισσότερα σχετικά με την εξελισσόμενη εργασία μας στη δημόσια πολιτική απορρήτου και ασφάλειας στο <a href="{ $blog }">Open Policy and Advocacy Blog της { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Παρωχημένες Πολιτικές
-privacy-index-mozilla-websites-communications = Ιστοσελίδες { -brand-name-mozilla }, επικοινωνίες & cookies
+privacy-index-mozilla-websites-communications = Ιστότοποι { -brand-name-mozilla }, επικοινωνίες & cookies
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
