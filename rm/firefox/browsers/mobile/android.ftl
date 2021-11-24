@@ -42,3 +42,4 @@ mobile-android-mozilla-exists-to = { -brand-name-mozilla } è qua per render acc
 mobile-android-short-cut-the-internet = { -brand-name-firefox } per { -brand-name-android }, tia scursanida en l'internet
 mobile-android-see-all-your-open-tabs = Lascha mussar tut tes tabs averts, tias ultimas retschertgas e las paginas-web preferidas en in lieu cun { -brand-name-firefox } per { -brand-name-android }.
 mobile-android-own-your-home = Tegna sut controlla tes visur da partenza
+mobile-android-get-to-the-parts = Cuntanscha pli svelt quellas parts da l'internet che ta stattan a cor. Chatta tuts tes tabs averts, tias ultimas retschertgas, tes segnapaginas e tias websites preferidas en in lieu.
