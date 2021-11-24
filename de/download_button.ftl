@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Jetzt herunterladen
 download-button-free-download = Kostenloser Download
@@ -11,20 +11,24 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Unterstützte Geräte
 download-button-whats-new = Was ist neu
 download-button-systems-languages = Systeme &amp; Sprachen
-download-button-recommended = Empfohlen
+download-button-recommended = Empfehlung
+
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } bietet für { -brand-name-firefox } unter { -brand-name-windows } { -brand-name-xp } oder { -brand-name-vista } keine Sicherheitsupdates mehr an</a>, aber Sie können hier weiterhin die letzte 32-Bit-Version für { -brand-name-windows } herunterladen.
+
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Bitte folge <a href="{ $url }">dieser Anleitung</a>, um { -brand-name-firefox } zu installieren.
+download-button-please-follow-these = Bitte folgen Sie <a href="{ $url }">dieser Anleitung</a>, um { -brand-name-firefox } zu installieren.
+
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Dein System erfüllt nicht alle <a href="{ $url }">Voraussetzungen</a>, um { -brand-name-firefox } auszuführen.
+
 download-button-firefox-other-platforms = { -brand-name-firefox } für andere Plattformen & Sprachen
 download-button-update-your-firefox = Aktualisiere bitte { -brand-name-firefox }
-download-button-get-firefox-android = Hol Dir { -brand-name-firefox } für { -brand-name-android }
-download-button-get-firefox-ios = Hole Dir { -brand-name-firefox } für { -brand-name-ios }
+download-button-get-firefox-android = Holen Sie sich { -brand-name-firefox } für { -brand-name-android }
+download-button-get-firefox-ios = Holen Sie sich { -brand-name-firefox } für { -brand-name-ios }
 download-button-google-play = Bei { -brand-name-google-play } herunterladen
 download-button-free-google-play = Kostenlos erhältlich bei { -brand-name-google-play }
 download-button-app-store = Kostenlos erhältlich im { -brand-name-app-store }
@@ -38,4 +42,4 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> für { -b
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> für { -brand-name-ios }
 download-button-firefox-privacy = Datenschutz bei { -brand-name-firefox }
 download-button-firefox-privacy-notice = { -brand-name-firefox }-Datenschutzhinweis
-download-button-download = Herunterladen
+download-button-download = Download
