@@ -8,16 +8,16 @@
 welcome-page11-page-title = { -brand-name-mozilla-vpn } für die Feiertage
 
 # The strong tag wraps a product name that gets highlighted in color for emphasis.
-welcome-page11-main-heading = Wie <strong>{ -brand-name-mozilla-vpn }</strong> Ihnen diese Weihnachten bares Geld sparen kann
+welcome-page11-main-heading = Wie du mit <strong>{ -brand-name-mozilla-vpn }</strong> beim Feiertagsshopping Geld sparen kannst
 
-welcome-page11-it-helps-you-shop = Es hilft Ihnen, auf internationalen Seiten zu shoppen
-welcome-page11-retailers-sometimes-sell = Retailer verkaufen manchmal Produkte an Einkäufer vor Ort, die sie nicht weltweit verkaufen. Nutzen Sie das { -brand-name-mozilla-vpn }, um Ihren Standort in ein anderes Land zu versetzen, und schauen Sie, was es gerade im Angebot gibt.
+welcome-page11-it-helps-you-shop = Es hilft dir, auf internationalen Websites einzukaufen
+welcome-page11-retailers-sometimes-sell = Einzelhändler verkaufen Artikel manchmal nur an lokale Kunden, statt sie weltweit anzubieten. Ändere deinen Standort mit { -brand-name-mozilla-vpn }, um auch diese Angebote sehen zu können.
 
-welcome-page11-it-prevents-surcharging = Es verhindert Zuschläge basierend auf Ihrem Wohnort
-welcome-page11-retailers-sometimes-adjust = Einzelhändler passen manchmal Ihre Preise je nach Region an. Nutzen Sie das { -brand-name-mozilla-vpn }, um Ihren Standort an eine von Dutzenden anderer Städte zu versetzen.
-welcome-page11-it-protects-your-credit = Es schützt Ihre Kreditkarteninformationen im öffentlichen WLAN
-welcome-page11-shopping-on-the-go = Sie shoppen unterwegs? { -brand-name-mozilla-vpn } verschlüsselt Ihre Netzwerkaktivitäten und lässt Sie unterwegs sicherer Transaktionen durchführen.
+welcome-page11-it-prevents-surcharging = Es verhindert Preisaufschläge basierend auf deinen Wohnort
+welcome-page11-retailers-sometimes-adjust = Einzelhändler passen die Preise manchmal je nach Region unterschiedlich an. Mit { -brand-name-mozilla-vpn } kannst du deinen Standort einfach in eine andere Stadt verlegen.
+welcome-page11-it-protects-your-credit = Es schützt deine Kreditkartendaten im öffentlichen WLAN
+welcome-page11-shopping-on-the-go = Online shoppen im Café? { -brand-name-mozilla-vpn } verschlüsselt deine Netzwerkaktivitäten und macht es sicherer, Transaktionen unterwegs durchzuführen.
 
 # CTA button
-welcome-page11-get-mozilla-vpn = Jetzt { -brand-name-mozilla-vpn } nutzen
+welcome-page11-get-mozilla-vpn = Hol dir jetzt { -brand-name-mozilla-vpn }
 welcome-page11-why-see-this = Warum wird mir das angezeigt?
