@@ -77,6 +77,10 @@ vpn-shared-pricing-get-12-month = Get 12 month plan
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Prihranite { $percent } %
 # Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = Prihranite { $percent } % za { -brand-name-mozilla-vpn }*
+# Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Skupaj { $amount }
 
