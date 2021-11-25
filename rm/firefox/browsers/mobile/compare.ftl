@@ -52,3 +52,7 @@ mobile-compare-mobile-os-availability = Disponibilitad per sistems operativs mob
 mobile-compare-syncs-with-desktopmobile = Sincronisaziun cun app per desktop/apparats mobils
 mobile-compare-password-management = Administraziun da pleds-clav
 mobile-compare-primary-password = Pled-clav principal
+mobile-compare-get-firefox-for-mobile = Installescha { -brand-name-firefox } per apparats mobils
+mobile-compare-send-a-download-link-to-your = Trametter ina colliaziun per telechargiar a tes telefon.
+mobile-compare-scan-the-qr-code-to-get-started = Scannescha il code QR per entschaiver
+mobile-compare-scan-alt-text = Scannescha il code QR per telechargiar { -brand-name-firefox } sin tes apparat mobil
