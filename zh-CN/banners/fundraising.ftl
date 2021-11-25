@@ -7,6 +7,7 @@
 
 # Outdated string
 banner-fundraising-title = 携手塑造未来。帮助 { -brand-name-mozilla } 为我们共同的 Web 而战。
+banner-fundraising-body-v2 = 我们以非营利为荣，致力于保持 Web 的健康发展。您的捐款将有助于建立一个安全、开放的互联网。
 # Outdated string
 banner-fundraising-body = 我们的个人数据在每次上网时都会被默默收集，要弄清楚会有什么影响并不容易。错误信息则使我们更难找到真相。众多联网设备在未达到最低安全标准的情况下被推向市场。非营利组织 { -brand-name-mozilla-foundation } 致力于让互联网安全、开放且人人可用。 <strong>您愿意捐助我们吗？</strong>
 banner-fundraising-body-extra = 您愿意捐款帮助我们吗？
