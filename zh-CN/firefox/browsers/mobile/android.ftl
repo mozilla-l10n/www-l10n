@@ -42,3 +42,4 @@ mobile-android-mozilla-exists-to = { -brand-name-mozilla } 致力于将互联网
 mobile-android-short-cut-the-internet = 下载上网更快的 { -brand-name-android } 版 { -brand-name-firefox }
 mobile-android-see-all-your-open-tabs = 使用 { -brand-name-android } 版 { -brand-name-firefox }，随时查看打开的标签页、最近的搜索和喜爱的网站。
 mobile-android-own-your-home = 个性化的主页
+mobile-android-get-to-the-parts = 快速访问互联网中您最关心的内容。一处尽览您打开的标签页、最近的搜索、书签和喜爱的网站。

@@ -30,6 +30,7 @@ mobile-ios-add-firefox-across-v2 = 在您的设备上安装 { -brand-name-firefo
 mobile-ios-get-to-your-go-to = 在 { -brand-name-iphone } 和 { -brand-name-ipad } 上冲浪更畅快。
 mobile-ios-see-your-open-tabs = 使用 { -brand-name-ios } 版 { -brand-name-firefox-browser }，随时查看打开的标签页、过去的搜索和喜爱的网站。
 mobile-ios-own-your-home = 个性化的主页
+mobile-ios-get-to-the-parts = 快速访问互联网中您最关心的内容。一处尽览您打开的标签页、最近的搜索、书签和喜爱的网站。
 # Obsolete string
 mobile-ios-add-firefox-across = 在您的设备上安装 { -brand-name-firefox } 以获得安全、无缝的浏览体验。 { -brand-name-sync }您的设备，将您的书签、保存的登录信息、密码和浏览历史随身带走。另外，您可以在手机和电脑之间发送打开的标签页，以从您离开的地方继续。
 mobile-ios-find-it-all = 搜索更迅捷
