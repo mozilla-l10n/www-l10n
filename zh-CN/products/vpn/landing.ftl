@@ -123,6 +123,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux }（仅 { -brand-name-ubuntu } 平台）
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } 的退款政策如何？
 vpn-landing-faq-refund-question-desc-v2 = 当您第一次在 { -brand-name-mozilla } 网站订阅 { -brand-name-mozilla-vpn } 时，若您在一开始的 30 天内取消账户，则可要求全额退款，{ -brand-name-mozilla } 将会退还您的第一期订阅费用。
+vpn-landing-faq-refund-question-additional-desc = 若您是通过应用内购买（{ -brand-name-apple } { -brand-name-app-store } 或 { -brand-name-google-play } 商店）的方式付款订阅，则会受应用商店的条款所约束。您须直接联系 { -brand-name-apple } 或 { -brand-name-google } 要求退款。
 # Outdated string
 vpn-landing-faq-refund-question-desc = 您可以在购买订阅后 30 天内进行退款。请前往 { -brand-name-mozilla-vpn } 应用程序的“设置”页面，并点按“获取帮助”按钮，与我们联系并提交退款申请。
 vpn-landing-faq-manage-subscription-question-heading = 我要如何管理订阅？
