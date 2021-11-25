@@ -122,14 +122,14 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux }（仅 { -brand-name-ubuntu } 平台）
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } 的退款政策如何？
+vpn-landing-faq-refund-question-desc-v2 = 当您第一次在 { -brand-name-mozilla } 网站订阅 { -brand-name-mozilla-vpn } 时，若您在一开始的 30 天内取消账户，则可要求全额退款，{ -brand-name-mozilla } 将会退还您的第一期订阅费用。
+# Outdated string
 vpn-landing-faq-refund-question-desc = 您可以在购买订阅后 30 天内进行退款。请前往 { -brand-name-mozilla-vpn } 应用程序的“设置”页面，并点按“获取帮助”按钮，与我们联系并提交退款申请。
 vpn-landing-faq-manage-subscription-question-heading = 我要如何管理订阅？
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = 订阅 { -brand-name-mozilla-vpn } 后，您可以随时更改计划或<a href="{ $url }">管理订阅</a>。
 vpn-landing-faq-link = 参阅更多常见问题
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = 哎呀！您似乎还未订阅。
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
