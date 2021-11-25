@@ -10,6 +10,7 @@ welcome-page4-download-the-firefox-browser = Prenesite mobilni brskalnik { -bran
 welcome-page4-wallet-keys-phone-firefox = Denarnica. Ključi. Telefon. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen-now = Zagotovite si zasebnost na vseh zaslonih
 welcome-page4-take-privacy-with-you-on-every = Vzemite zasebnost s seboj na vsako napravo — in pustite sledilce podatkov za seboj.
+welcome-page4-privacy-on-by-default = Vaša zasebnost je privzeto vključena v novem { -brand-name-firefox(sklon: "mestnik") } za { -brand-name-android } – in sedaj lahko { -brand-name-firefox } nastavite za privzeti brskalnik v { -brand-name-ios } 14.
 welcome-page4-get-the-firefox-mobile = Prenesite mobilni { -brand-name-firefox }
 welcome-page4-get-firefox-on-your-phone = Prenesite { -brand-name-firefox } na svoj telefon
 welcome-page4-send-the-download-link-right = Pošljite si povezavo za prenos na telefon ali po e-pošti.
