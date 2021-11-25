@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/
 
 banner-fundraising-title-v2 = 在这个假期，帮助 { -brand-name-mozilla } 为更好的互联网环境而战。
+banner-fundraising-title-giving-day = 在这个周二回馈日（Giving Tuesday），帮助 { -brand-name-mozilla } 为更好的互联网环境而战。
 # Outdated string
 banner-fundraising-title = 携手塑造未来。帮助 { -brand-name-mozilla } 为我们共同的 Web 而战。
 banner-fundraising-body-v2 = 我们以非营利为荣，致力于保持 Web 的健康发展。您的捐款将有助于建立一个安全、开放的互联网。
