@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Zavrača sledilce družbenih o
 firefox-desktop-download-os-availability = Razpoložljiv za vse operacijske sisteme
 firefox-desktop-download-in-browser-screenshot = Orodje za zajemanje zaslonskih posnetkov
 firefox-desktop-download-primary-password = Glavno geslo
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Imejte radi svoje spletno življenje
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = To je vaš internet. Oblikujte ga po svoje s tisočerimi orodji, temami in razširitvami. { -brand-name-firefox } je izvirni alternativni brskalnik, ki ljudi postavlja pred dobiček.
 # Obsolete string
@@ -107,7 +109,7 @@ firefox-desktop-download-all-your-favourite = Vsa vaša priljubljena orodja { -b
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-firefox-desktop-download-download-this-browser = <a { $attrs } >Prenesite to razširitev za brskalnik</a> in preprečite, da bi vam { -brand-name-facebook } (in { -brand-name-instagram } sledila po spletu.
+firefox-desktop-download-download-this-browser = <a { $attrs } >Prenesite to razširitev za brskalnik</a> in preprečite, da bi vam { -brand-name-facebook } (in { -brand-name-instagram }) sledil po spletu.
 firefox-desktop-download-sync-your-devices = Sinhronizirajte svoje naprave
 firefox-desktop-download-screenshots = Posnetki zaslona
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -129,7 +131,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je ustvar
 firefox-desktop-download-as-the-internet = Medtem ko internet raste in se spreminja, se { -brand-name-firefox } še naprej osredotoča na vašo pravico do zasebnosti – mi to imenujemo <a { $attrs }>obljuba o osebnih podatkih</a>: Vzemi manj. Obdrži jih varne. Brez skrivnosti. Vaše podatke, vašo dejavnost in življenje na spletu ščiti { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je na voljo za vse vaše naprave. Vzemite zavihke, zgodovino in zaznamke s seboj – vse, kar potrebujete, je <a { $attrs }>{ -brand-name-firefox } account</a>.
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je na voljo za vse vaše naprave. Vzemite zavihke, zgodovino in zaznamke s seboj – vse, kar potrebujete, je <a { $attrs }>{ -brand-name-firefox } Račun</a>.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } samodejno <a { $attrs }>preprečuje množici spletnih sledilcev</a>, da bi zbirali in prodajali podatke o vaši spletni dejavnosti.

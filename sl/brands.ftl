@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### Please read the trademarks localization guide
@@ -61,7 +61,15 @@
         [orodnik] Firefoxom
     }
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Brskalnik Firefox
+-brand-name-firefox-browser =
+    { $sklon ->
+       *[imenovalnik] brskalnik Firefox
+        [rodilnik] brskalnika Firefox
+        [dajalnik] brskalniku Firefox
+        [tozilnik] brskalnik Firefox
+        [mestnik] brskalniku Firefox
+        [orodnik] brskalnikom Firefox
+    }
 -brand-name-firefox-browsers =
     { $sklon ->
        *[imenovalnik] Brskalniki Firefox
