@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -45,3 +45,4 @@ features-index-stack-up = { -brand-name-firefox }가 다른 인기 있는 브라
 features-index-compare-browsers = 브라우저 비교
 features-index-see-themes = 주요 인기 테마보기
 features-index-download-latest = { -brand-name-firefox } 최신 버전 다운로드
+features-index-translate-the-web = 웹 번역
