@@ -20,3 +20,4 @@ mobile-focus-scan-alt-text = Scannescha il code QR per telechargiar { -brand-nam
 # Outdated string
 mobile-focus-disappear-your-history = Fa sparir tia cronologia
 mobile-focus-delete-your-history = Stizza tia cronologia
+mobile-focus-easily-erase-your = Stizza tut facilmain tia cronologia, tes pleds-clav e cookies per che naginas reclamas nungiavischadas na ta suondian en l'internet. Smatga simplamain il buttun per stizzar en il champ da retschertga e tut sparescha per dal bun.
