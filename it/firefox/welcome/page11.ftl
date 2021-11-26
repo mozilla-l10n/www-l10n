@@ -11,8 +11,10 @@ welcome-page11-page-title = { -brand-name-mozilla-vpn } per le festività natali
 welcome-page11-main-heading = In che modo <strong>{ -brand-name-mozilla-vpn }</strong> può farti risparmiare denaro durante queste festività natalizie?
 welcome-page11-it-helps-you-shop = Ti aiuta a fare acquisti su siti internazionali
 welcome-page11-retailers-sometimes-sell = A volte i rivenditori vendono agli acquirenti locali articoli che non sono invece venduti a livello globale. Utilizza { -brand-name-mozilla-vpn } per impostare la tua posizione su un Paese diverso e vedere quanto ancora potrebbe essere disponibile per la vendita.
+welcome-page11-it-prevents-surcharging = Evita sovrapprezzi applicati a seconda del Paese in cui ti trovi
 welcome-page11-retailers-sometimes-adjust = A volte i rivenditori adeguano i prezzi per le diverse aree. Utilizza { -brand-name-mozilla-vpn } per impostare la tua posizione su una delle decine di altre città disponibili.
 welcome-page11-it-protects-your-credit = Protegge i dati della tua carta di credito quando ti connetti a un Wi-Fi pubblico
+welcome-page11-shopping-on-the-go = Shopping in movimento? { -brand-name-mozilla-vpn } critta la tua attività di rete, rendendo più sicure le transazioni quando sei fuori casa.
 # CTA button
 welcome-page11-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }
 welcome-page11-why-see-this = Perché viene visualizzato questo messaggio?
