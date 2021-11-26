@@ -9,8 +9,10 @@ banner-fundraising-title-v2 = Unisciti alla lotta di { -brand-name-mozilla } per
 banner-fundraising-title-giving-day = Unisciti alla lotta di { -brand-name-mozilla } per un Internet migliore durante questo GivingTuesday.
 # Outdated string
 banner-fundraising-title = Il futuro viene deciso online. Aiuta { -brand-name-mozilla } nella lotta per un Web accessibile a tutti.
+banner-fundraising-body-v2 = Siamo un’organizzazione orgogliosamente senza scopo di lucro e lavoriamo per mantenere sano il Web. I tuoi contributi aiutano nella costruzione di Internet come luogo sicuro e aperto.
 # Outdated string
 banner-fundraising-body = I nostri dati personali sono raccolti ogni volta che accediamo al Web e non è facile capire l’uso che ne viene fatto: la disinformazione rende difficile la ricerca della verità e i dispositivi connessi a Internet sono spesso lanciati sul mercato senza soddisfare gli standard di sicurezza minimi. L’organizzazione non-profit { -brand-name-mozilla-foundation } si batte per mantenere Internet un luogo sicuro, aperto e accessibile a tutti. <strong>Farai una donazione oggi?</strong>
+banner-fundraising-body-extra = Ti andrebbe di fare una donazione oggi?
 banner-fundraising-monthly = Mensile
 banner-fundraising-one-time = Una tantum
 banner-fundraising-donate = Fai una donazione
