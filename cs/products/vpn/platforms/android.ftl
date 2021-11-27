@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } pro { -brand-name-android }
-vpn-android-page-description = Zabezpečte se jedním klepnutím na telefonu s { -brand-name-android(case: "ins") } prostřednictvím { -brand-name-mozilla(case: "gen") }, jedné z nejdůvěryhodnějších značek v oblasti technologií.
+vpn-android-page-description = Zabezpečte se na telefonu s { -brand-name-android(case: "ins") } jedním klepnutím prostřednictvím { -brand-name-mozilla(case: "gen") }, jedné z nejdůvěryhodnějších značek v oblasti technologií.
 # Mobile strings
 vpn-android-hero-headline = Dočkejte se na internetu ochrany a soukromí díky službě { -brand-name-mozilla-vpn } pro { -brand-name-android(case: "acc") }
 vpn-android-ability = Se službou { -brand-name-mozilla-vpn } máte jistotu, že jsou vaše data v bezpečí před hackery a zvědavci – jak doma, tak i na veřejné Wi-Fi. Za cenu šálku kávy jsou vaše osobní data v zařízení se systémem { -brand-name-android } šifrována prostřednictvím protokolu { -brand-name-wireguard }®. Pomocí sítě { -brand-name-mozilla-vpn } můžete na internetu streamovat pořady, hrát hry, spravovat své finance, nakupovat a dělat cokoli jiného s vědomím, že je vaše připojení bezpečné.
