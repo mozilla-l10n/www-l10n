@@ -18,3 +18,8 @@ browsers-mobile-firefox-for-android = { -brand-name-firefox } per { -brand-name-
 browsers-mobile-infinitely-customizable-private = Adattabel senza limitaziuns, discret e segir, { -brand-name-firefox } per { -brand-name-android } è in navigatur svelt sco ina frizza che na ta tradescha mai.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } per { -brand-name-ios }
 browsers-mobile-go-your-own-way = Fa tia atgna via cun { -brand-name-firefox } per apparats mobils
+browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } per apparats mobils s'adatta a tai e ta facilitescha pli che mai da vesair tuts tes tabs averts, tias davosas tschertgas e tias websites preferidas en in'egliada.
+browsers-mobile-the-more-you-use = Pli che ti al utiliseschas e pli intelligent ch'el daventa. Il visur principal da { -brand-name-firefox } s'adatta a tai e ta facilitescha dad adina cuntinuar là nua che ti has smess.
+# "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
+browsers-mobile-get-enhanced-tracking-protection = Profitescha da la protecziun avanzada cunter fastizaders e fa da { -brand-name-firefox } tes navigatur da standard permanent sin tes { -brand-name-iphone } ed { -brand-name-ipad }.
+browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
