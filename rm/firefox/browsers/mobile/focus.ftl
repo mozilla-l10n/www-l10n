@@ -28,3 +28,7 @@ mobile-focus-private-browsing-on-v2 = Tar ils blers navigaturs n'è il «modus p
 mobile-focus-tracking-protection = Protecziun cunter fastizaders
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } blochescha gia en sia configuraziun da standard blers tips da fastizaders currents, inclusivamain ils fastizaders da social media mulestus, integrads per exempel en reclamas da { -brand-name-facebook }.
 mobile-focus-ad-blocking = Bloccada da reclamas
+# Outdated string
+mobile-focus-focus-blocks-the = { -brand-name-focus } blochescha las reclamas che ti vesas normalmain sin las paginas-web – e quai senza ch'i faschess da basegn dad ulteriurs supplements u dad extensiuns. Cun damain reclamas sa laschan las paginas chargiar pli svelt, uschia che ti vegns bler pli svelt als cuntegns giavischads.
+mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } blochescha las reclamas ch'emprovan da ta fastizar dad ina pagina-web a la proxima – e quai senza ch'i faschess da basegn dad ulteriurs supplements u dad extensiuns. Cun damain reclamas sa laschan las paginas chargiar pli svelt, uschia che ti vegns bler pli svelt als cuntegns giavischads.
+mobile-focus-see-it-all = Navighescha sc'in chapitani
