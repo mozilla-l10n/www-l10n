@@ -24,3 +24,7 @@ mobile-focus-easily-erase-your = Stizza tut facilmain tia cronologia, tes pleds-
 mobile-focus-take-private-mode = Il modus privat ch'è in pass pli lunsch
 # Outdated string
 mobile-focus-private-browsing-on = Tar ils blers navigaturs n'è il «modus privat» betg uschè privat sco empermess. { -brand-name-firefox-focus } è in pass pli lunsch, adina da la vart da la protecziun da datas e vegn sustegnì da { -brand-name-mozilla }, l'organisaziun senza finamira da profit che cumbatta per tes dretgs en il web.
+mobile-focus-private-browsing-on-v2 = Tar ils blers navigaturs n'è il «modus privat» betg uschè privat sco empermess. { -brand-name-firefox-focus } porscha gia en la configuraziun da standard la protecziun da datas ch'è in pass pli lunsch e davos il navigatur stat { -brand-name-mozilla }, l'organisaziun senza finamira da profit che cumbatta per tes dretgs en il web.
+mobile-focus-tracking-protection = Protecziun cunter fastizaders
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } blochescha gia en sia configuraziun da standard blers tips da fastizaders currents, inclusivamain ils fastizaders da social media mulestus, integrads per exempel en reclamas da { -brand-name-facebook }.
+mobile-focus-ad-blocking = Bloccada da reclamas
