@@ -34,3 +34,6 @@ mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } blochescha las reclamas
 mobile-focus-see-it-all = Navighescha sc'in chapitani
 # Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } eliminescha fastizaders e reclamas da maniera che las paginas-web visitadas consumeschan damain datas e sa laschan chargiar bler pli svelt.
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } eliminescha fastizaders ed activescha la bloccada da reclamas da maniera che las paginas-web che ti visitas transmettan damain datas e sa laschan uschia chargiar pli svelt. Agiunta ultra da quai enfin quatter colliaziuns a tes visur da partenza per avrir anc pli svelt tia website preferida, senza stuair tippar.
+mobile-focus-made-by-mozilla = Sviluppà da { -brand-name-mozilla }
+mobile-focus-we-believe-everyone = Nus essan da l'avis che mintgin duess pudair controllar sia atgna vita en l'internet. Per questa finamira cumbattain nus dapi il 1998.
