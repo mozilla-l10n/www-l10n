@@ -23,3 +23,5 @@ browsers-mobile-the-more-you-use = Pli che ti al utiliseschas e pli intelligent 
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Profitescha da la protecziun avanzada cunter fastizaders e fa da { -brand-name-firefox } tes navigatur da standard permanent sin tes { -brand-name-iphone } ed { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = Tschertgas ti in navigatur optimà, ultra-svelt cun funcziuns per la protecziun da datas las pli avanzadas? { -brand-name-firefox-focus } stizza automaticamain tia cronologia cumpletta dal mument cura che ti has avert tes navigatur enfin cura che ti al serras.
+browsers-mobile-compare-mobile-browsers = Cumpareglia ils navigaturs mobils
