@@ -32,3 +32,5 @@ mobile-focus-ad-blocking = Bloccada da reclamas
 mobile-focus-focus-blocks-the = { -brand-name-focus } blochescha las reclamas che ti vesas normalmain sin las paginas-web – e quai senza ch'i faschess da basegn dad ulteriurs supplements u dad extensiuns. Cun damain reclamas sa laschan las paginas chargiar pli svelt, uschia che ti vegns bler pli svelt als cuntegns giavischads.
 mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } blochescha las reclamas ch'emprovan da ta fastizar dad ina pagina-web a la proxima – e quai senza ch'i faschess da basegn dad ulteriurs supplements u dad extensiuns. Cun damain reclamas sa laschan las paginas chargiar pli svelt, uschia che ti vegns bler pli svelt als cuntegns giavischads.
 mobile-focus-see-it-all = Navighescha sc'in chapitani
+# Outdated string
+mobile-focus-focus-removes-trackers = { -brand-name-focus } eliminescha fastizaders e reclamas da maniera che las paginas-web visitadas consumeschan damain datas e sa laschan chargiar bler pli svelt.
