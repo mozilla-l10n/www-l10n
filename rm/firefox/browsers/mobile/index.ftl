@@ -28,3 +28,9 @@ browsers-mobile-compare-mobile-browsers = Cumpareglia ils navigaturs mobils
 browsers-mobile-see-how-firefox-stacks-up = Ve a savair co che { -brand-name-firefox } sa batta cunter auters navigaturs populars sch'i sa tracta da las trais exigenzas cardinalas: protecziun da datas, funcziuns e sincronisaziun.
 browsers-mobile-compare = Cumparegliar
 browsers-mobile-see-how-firefox-for-desktop-stacks = Ve sa savair co che { -brand-name-firefox } per computers desktop sa batta en cumparegliaziun cun set ulteriurs navigaturs.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Ve sa savair co che { -brand-name-firefox } per <strong>computers desktop</strong> sa batta en cumparegliaziun cun set ulteriurs navigaturs.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+browsers-mobile-already-have-an-account-sign = Has ti gia in conto? <a { $fxa_attr }>T'annunzia</a> u <a { $accounts_attr }ve a savair</a> co ti pos far part da { -brand-name-firefox }.
