@@ -30,7 +30,11 @@ browsers-mobile-compare = Cumparegliar
 browsers-mobile-see-how-firefox-for-desktop-stacks = Ve sa savair co che { -brand-name-firefox } per computers desktop sa batta en cumparegliaziun cun set ulteriurs navigaturs.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = Ve sa savair co che { -brand-name-firefox } per <strong>computers desktop</strong> sa batta en cumparegliaziun cun set ulteriurs navigaturs.
+browsers-mobile-join-firefox-and-get-the-most = Creescha in conto da { -brand-name-firefox } e rabla ora il meglier da mintga product – sin tuts ils apparats.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 browsers-mobile-already-have-an-account-sign = Has ti gia in conto? <a { $fxa_attr }>T'annunzia</a> u <a { $accounts_attr }ve a savair</a> co ti pos far part da { -brand-name-firefox }.
+browsers-mobile-download = Telechargiar
+browsers-mobile-android = { -brand-name-android }
+browsers-mobile-ios = { -brand-name-ios }
