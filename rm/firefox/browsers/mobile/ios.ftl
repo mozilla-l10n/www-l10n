@@ -18,3 +18,5 @@ mobile-ios-send-a-download-link-to-your = Trametta in link per telechargiar a te
 mobile-ios-scan-the-qr-code-to-get-started = Scannescha il code QR per entschaiver
 mobile-ios-scan-alt-text = Scannescha il code QR per telechargiar { -brand-name-firefox } sin { -brand-name-ios }
 mobile-ios-make-firefox-your = Fa da { -brand-name-firefox } tes navigatur da standard
+mobile-ios-now-iphone-and = Ussa pon utilisaders dad { -brand-name-iphone } ed { -brand-name-ipad } tscherner lur agen navigatur da standard. Quai munta che ti na stos betg utilisar { -brand-name-safari } e che tes navigatur mobil po vegnir sincronisà cun tes navigatur da desktop preferì. E sche ti defineschas { -brand-name-firefox } sco tes navigatur da standard, sustegnas ti in'interpresa tecnologica independenta. Plinavant è { -brand-name-firefox } l'unic navigatur grond che vegn sustegnì dad in'organisaziun senza finamira da profit.
+mobile-ios-fast-private-secure = Svelt. Privat. Segir
