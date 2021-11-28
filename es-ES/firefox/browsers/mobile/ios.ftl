@@ -42,3 +42,4 @@ mobile-ios-create-as-many = Crea tantas pestañas como quieras sin perderles la 
 mobile-ios-discover-more-of = Descubre más de lo que amas
 mobile-ios-open-a-new = Abre una nueva pestaña en { -brand-name-firefox } para ver los sitios que más visitas, tus marcadores recientes y artículos populares en { -brand-name-pocket }. { -brand-name-firefox } te da acceso rápido a los sitios que has utilizado recientemente para ayudarte a llegar más rápido.
 mobile-ios-about-mozilla = Acerca de { -brand-name-mozilla }
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } existe para construir Internet como un recurso público accesible para todos porque creemos que abierto y libre es mejor que cerrado y controlado. Creamos productos como { -brand-name-firefox } y { -brand-name-pocket } para promover la elección, la transparencia y el control.
