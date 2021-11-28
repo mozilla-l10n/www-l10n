@@ -25,3 +25,6 @@ browsers-mobile-get-enhanced-tracking-protection = Profitescha da la protecziun 
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Tschertgas ti in navigatur optimà, ultra-svelt cun funcziuns per la protecziun da datas las pli avanzadas? { -brand-name-firefox-focus } stizza automaticamain tia cronologia cumpletta dal mument cura che ti has avert tes navigatur enfin cura che ti al serras.
 browsers-mobile-compare-mobile-browsers = Cumpareglia ils navigaturs mobils
+browsers-mobile-see-how-firefox-stacks-up = Ve a savair co che { -brand-name-firefox } sa batta cunter auters navigaturs populars sch'i sa tracta da las trais exigenzas cardinalas: protecziun da datas, funcziuns e sincronisaziun.
+browsers-mobile-compare = Cumparegliar
+browsers-mobile-see-how-firefox-for-desktop-stacks = Ve sa savair co che { -brand-name-firefox } per computers desktop sa batta en cumparegliaziun cun set ulteriurs navigaturs.
