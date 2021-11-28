@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/11/
 
 # HTML page title
-welcome-page11-page-title = { -brand-name-mozilla-vpn } para las fiestas
+welcome-page11-page-title = { -brand-name-mozilla-vpn } para las fiestas navideñas
 # The strong tag wraps a product name that gets highlighted in color for emphasis.
 welcome-page11-main-heading = Cómo puede <strong>{ -brand-name-mozilla-vpn }</strong> ahorrarte dinero en esta temporada navideña
 welcome-page11-it-helps-you-shop = Te ayuda a comprar en sitios internacionales.
