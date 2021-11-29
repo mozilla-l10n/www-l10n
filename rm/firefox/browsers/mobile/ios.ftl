@@ -34,3 +34,6 @@ mobile-ios-get-to-the-parts = Cuntanscha pli svelt quellas parts da l'internet c
 # Obsolete string
 mobile-ios-add-firefox-across = Installescha { -brand-name-firefox } sin tuts tes apparats per ina navigaziun segira e senza interrupziuns. Cun { -brand-name-sync } pos ti sincronisar tes apparats per prender cun tai tes segnapaginas preferids, tias datas d'annunzia memorisadas, tes pleds-clav e tia cronologia da navigaziun nua ch'i saja. Trametta ultra da quai tabs averts tranter tes telefon e tes computer desktop per cuntinuar là nua che ti has smess.
 mobile-ios-find-it-all = Chatta tut pli svelt
+mobile-ios-get-search-suggestions = Retschaiva propostas da tschertga en la trav da retschertga ed acceda directamain a las paginas che ti visitas il pli savens. Endatescha tia dumonda da retschertga ed obtegna propostas e resultats da tschertgas precedentas da tias maschinas da tschertgar preferidas.
+# Obsolete string
+mobile-ios-keep-tabs-on = Tegna en egl tuts tes tabs
