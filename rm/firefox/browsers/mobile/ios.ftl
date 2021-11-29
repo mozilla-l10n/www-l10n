@@ -40,3 +40,5 @@ mobile-ios-keep-tabs-on = Tegna en egl tuts tes tabs
 # Obsolete string
 mobile-ios-create-as-many = Avra tants tabs sco che ti vuls, senza perder la survista. { -brand-name-firefox } mussa tes tabs averts sco miniaturas e tabs numerads, uschia che ti chattas svelt quai che ti tschertgas.
 mobile-ios-discover-more-of = Scuvra dapli da quai che ta plascha
+mobile-ios-open-a-new = Avra in nov tab en { -brand-name-firefox } per vesair las paginas che ti visitas il pli savens, tes segnapaginas ils pli novs ed artitgels populars en { -brand-name-pocket }. { -brand-name-firefox } ta porscha in access svelt a tias websites visitadas dacurt per che ti cuntanschias pli svelt tia finamira.
+mobile-ios-about-mozilla = Davart { -brand-name-mozilla }
