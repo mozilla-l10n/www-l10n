@@ -111,6 +111,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-añoite)
 vpn-landing-faq-refund-question-heading = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia purureko?
+vpn-landing-faq-refund-question-additional-desc = Ejoguárõ ne ñemboheraguapy tembipuru’i ryepy guive { -brand-name-apple } ñemuha { -brand-name-app-store } térã { -brand-name-google-play } Store, ne ñehepyme’ẽ ojokupyty pe { -brand-name-app-store } he’iháicha rehe. Embohapeva’erã ne ñeporandu kuatia ñemuhague ha viru ñembojevy ejoguahaguégui { -brand-name-apple } térã { -brand-name-google }, oikotevẽháicha.
 # Outdated string
 vpn-landing-faq-refund-question-desc = Erekojeykuaa nde viru 30 ára oútava pa’ũme ejogua rire mboheraguapy. Eñe’ẽ ore ndive ha emondo mba’ejerure me’ẽjeyrã eiporavóvo votõ “Pytyvõ jeguereko” Ñemoĩporãme ne rembipuru’i { -brand-name-mozilla-vpn } ryepýpe.
 vpn-landing-faq-manage-subscription-question-heading = ¿Mba’éicha añangarekóta che mboheraguapýre?
