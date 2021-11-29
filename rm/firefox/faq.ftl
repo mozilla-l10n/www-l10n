@@ -42,6 +42,8 @@ is-firefox-safe-download = È { -brand-name-firefox } segir per telechargiar?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = La protecziun da tia sfera privata è nossa emprima prioritad. Nus garantin che l'installaziun da { -brand-name-firefox } sin tes apparats è absolutamain segira – ma fa la segira che ti telechargias noss navigatur dad ina website fidabla da { -brand-name-mozilla }/{ -brand-name-firefox } sco <a href="{ $url }">nossa pagina per telechargiadas</a>.
+is-firefox-safe = È { -brand-name-firefox } segir?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
