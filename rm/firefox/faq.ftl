@@ -30,10 +30,13 @@ is-firefox-free = È { -brand-name-firefox } gratuit?
 yep-the-firefox = Gea! Il { -brand-name-firefox-browser } è gratuit. E liber. I na dat nagins custs zuppads e sumegliant. Per l'utilisaziun na stos ti pajar nagut e nus na vendain era betg tias datas persunalas.
 related-questions-free = Dumondas sumegliantas: È { -brand-name-firefox-browser } gratuit? Custa { -brand-name-firefox }?
 is-chrome-better = È { -brand-name-chrome } meglier che { -brand-name-firefox }?
+no-we-dont = Na, nus na crajain betg che { -brand-name-chrome } saja meglier che { -brand-name-firefox } e quai è il motiv: Sch'insatgi dumonda tgenin navigatur che saja il meglier, vul la persuna atgnamain savair tgenin navigatur che saja il pli svelt ed il pli segir. { -brand-name-firefox } vegn actualisà mintga mais per far la segira che ti hajas il navigatur il pli svelt che respecta automaticamain tia sfera privata.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Legia la cumparegliaziun da { -brand-name-firefox } cun { -brand-name-chrome }.</a>
+related-questions-better = Dumondas sumegliantas: È { -brand-name-firefox } meglier che { -brand-name-chrome }? È { -brand-name-firefox } meglier che { -brand-name-google }? È { -brand-name-firefox } pli segir che { -brand-name-chrome }? Respecta { -brand-name-firefox } pli fitg la sfera privata che { -brand-name-chrome }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
