@@ -25,6 +25,11 @@ how-do-i = Co survegn jau il { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Ti pos simplamain telechargiar il navigatur { -brand-name-firefox } per computers desktop <a href="{ $url }">qua</a>. { -brand-name-firefox } funcziuna sin apparats da <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux }</a>  e stat era a disposiziun per <a href="{ $url5 }">{ -brand-name-android } ed { -brand-name-ios }</a>. Fa la segira che ti telechargias noss navigatur dad ina da las paginas fidadas da { -brand-name-mozilla }/{ -brand-name-firefox }.
+is-firefox-free = È { -brand-name-firefox } gratuit?
+yep-the-firefox = Gea! Il { -brand-name-firefox-browser } è gratuit. E liber. I na dat nagins custs zuppads e sumegliant. Per l'utilisaziun na stos ti pajar nagut e nus na vendain era betg tias datas persunalas.
+related-questions-free = Dumondas sumegliantas: È { -brand-name-firefox-browser } gratuit? Custa { -brand-name-firefox }?
+is-chrome-better = È { -brand-name-chrome } meglier che { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
