@@ -26,8 +26,11 @@ mobile-ios-firefox-gives-you = { -brand-name-firefox } ta porscha ina protecziun
 mobile-ios-your-browsing-history = Tia cronologia è istorgia
 mobile-ios-if-you-want = Sche ti vuls, pos ti ir facilmain online e tschertgar en il modus da navigaziun privat. E cura che ti serras il modus da navigaziun privat, vegnan tia cronologia e tut ils cookies stizzads automaticamain da tes apparat.
 mobile-ios-get-more-firefox = Anc dapli { -brand-name-firefox } en tia vita
-mobile-ios-add-firefox-across-v2 = Installescha { -brand-name-firefox } sin tuts tes apparats per ina navigaziun segira e senza interrupziuns. Sincronisescha tes apparats per prender tes segnapaginas, tias datas d'annunzia, tes pleds-clav e tia cronologia da navigaziun nua ch'i saja. Trametta ultra da quai tabs averts tranter tes telefon e tes computer desktop per cuntinuar là nua che ti has smess.
+mobile-ios-add-firefox-across-v2 = Installescha { -brand-name-firefox } sin tuts tes apparats per ina navigaziun segira e senza interrupziuns. Sincronisescha tes apparats per prender cun tai tes segnapaginas preferids, tias datas d'annunzia memorisadas, tes pleds-clav e tia cronologia da navigaziun nua ch'i saja. Trametta ultra da quai tabs averts tranter tes telefon e tes computer desktop per cuntinuar là nua che ti has smess.
 mobile-ios-get-to-your-go-to = Acceda pli svelt a tias websites preferidas sin tes { -brand-name-iphone } e tes { -brand-name-ipad }
 mobile-ios-see-your-open-tabs = Lascha mussar tes tabs averts, tias ultimas retschertgas e las websites preferidas en in lieu cun { -brand-name-firefox-browser } per { -brand-name-ios }.
 mobile-ios-own-your-home = Tegna sut controlla tes visur da partenza
 mobile-ios-get-to-the-parts = Cuntanscha pli svelt quellas parts da l'internet che ta stattan a cor. Chatta tuts tes tabs averts, tias ultimas retschertgas, tes segnapaginas e tias websites preferidas en in lieu.
+# Obsolete string
+mobile-ios-add-firefox-across = Installescha { -brand-name-firefox } sin tuts tes apparats per ina navigaziun segira e senza interrupziuns. Cun { -brand-name-sync } pos ti sincronisar tes apparats per prender cun tai tes segnapaginas preferids, tias datas d'annunzia memorisadas, tes pleds-clav e tia cronologia da navigaziun nua ch'i saja. Trametta ultra da quai tabs averts tranter tes telefon e tes computer desktop per cuntinuar là nua che ti has smess.
+mobile-ios-find-it-all = Chatta tut pli svelt
