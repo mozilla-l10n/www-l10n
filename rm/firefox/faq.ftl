@@ -28,7 +28,7 @@ how-do-i = Co survegn jau il { -brand-name-firefox-browser }?
 you-can-easily = Ti pos simplamain telechargiar il navigatur { -brand-name-firefox } per computers desktop <a href="{ $url }">qua</a>. { -brand-name-firefox } funcziuna sin apparats da <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux }</a>  e stat era a disposiziun per <a href="{ $url5 }">{ -brand-name-android } ed { -brand-name-ios }</a>. Fa la segira che ti telechargias noss navigatur dad ina da las paginas fidadas da { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = È { -brand-name-firefox } gratuit?
 yep-the-firefox = Gea! Il { -brand-name-firefox-browser } è gratuit. E liber. I na dat nagins custs zuppads e sumegliant. Per l'utilisaziun na stos ti pajar nagut e nus na vendain era betg tias datas persunalas.
-related-questions-free = Dumondas sumegliantas: È { -brand-name-firefox-browser } gratuit? Custa { -brand-name-firefox }?
+related-questions-free = Dumondas sumegliantas: È il { -brand-name-firefox-browser } gratuit? Custa { -brand-name-firefox }?
 is-chrome-better = È { -brand-name-chrome } meglier che { -brand-name-firefox }?
 no-we-dont = Na, nus na crajain betg che { -brand-name-chrome } saja meglier che { -brand-name-firefox } e quai è il motiv: Sch'insatgi dumonda tgenin navigatur che saja il meglier, vul la persuna atgnamain savair tgenin navigatur che saja il pli svelt ed il pli segir. { -brand-name-firefox } vegn actualisà mintga mais per far la segira che ti hajas il navigatur il pli svelt che respecta automaticamain tia sfera privata.
 
