@@ -12,3 +12,10 @@ firefox-quantum-was = { -brand-name-firefox-quantum } è stà ina revoluziun en 
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Ve a savair dapli davart { -brand-name-firefox-quantum }
 privacy-first = La protecziun da datas ha prioritad
+firefox-doesnt-spy = { -brand-name-firefox } na ta spiunescha betg en l'internet. Nus bloccain blers cookies da terzas partidas che fastizeschan e ta laschain la plaina controlla.
+super-fast = Ultrasvelt
+get-speed-and = Navighescha svelt ed en segirezza. { -brand-name-firefox } è svelt perquai ch'el na spiunescha betg.
+always-evolving = Svilup cuntinuant
+# Variables:
+# $url (url) - link to https://www.mozilla.org/firefox/features
+find-out-about = Ve a savair tut davart las <a href="{ $url }">funcziuns fantasticas da { -brand-name-firefox }</a>.
