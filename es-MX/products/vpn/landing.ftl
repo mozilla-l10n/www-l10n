@@ -144,6 +144,8 @@ vpn-landing-invite-email-placeholder = tunombre@ejemplo.com
 vpn-landing-invite-country-label = ¿En qué país vives?
 vpn-landing-invite-language-label = Selecciona tu idioma preferido.
 vpn-landing-invite-platform-label = ¿Qué plataformas te interesan?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
