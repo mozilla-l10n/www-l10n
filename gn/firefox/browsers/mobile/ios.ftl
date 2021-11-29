@@ -30,6 +30,7 @@ mobile-ios-add-firefox-across-v2 = Embojuaju { -brand-name-firefox } opaite mba�
 mobile-ios-get-to-your-go-to = Eg̃uahẽ pya’eve tendakuérape nde { -brand-name-iphone } ha { -brand-name-ipad } rupive.
 mobile-ios-see-your-open-tabs = Ema’ẽ tendayke ijurujávare, ehekáva ha tenda erohoryvéva peteĩ hendápe año { -brand-name-firefox-browser } { -brand-name-ios } peg̃uarã ndive.
 mobile-ios-own-your-home = Eñembojára mba’erechaha ñepyrũre
+mobile-ios-get-to-the-parts = Eike pya’eve umi ñanduti vore eikotevẽhápe. Ehechapaite tendayke ijurujáva, ojeheka ramovéva, techaukaha ha tendakuéra eikeveha peteĩ hendápe añoite.
 # Obsolete string
 mobile-ios-add-firefox-across = Embojuaju { -brand-name-firefox } opaite mba’e’okápe eikundaha hag̃ua tekorosãme ha apañuãi’ỹre. Eipuru { -brand-name-sync } ne mba’e’okápe eraha hag̃ua nde rechaukaha, tembiapo ñepyrũ ñongatupyre, ñe’ẽñemi ha ñeikundaha rembiasakue nendive. Avei, emondo tendayke ijurujáva pumbyry ha mohendahápe eku’ejey hag̃ua eheja haguégui.
 mobile-ios-find-it-all = Ejuhupaite pya’eve
