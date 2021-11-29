@@ -54,7 +54,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } untuk { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } untuk { -brand-name-android }
-footer-visit-mozilla-corporations = Layari entiti induk bukan berasaskan keuntungan<a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-visit-mozilla-corporations = Layari entiti induk bukan berasaskan keuntungan <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Sebahagian daripada kandungan ini ©1998–{ $current_year } oleh penyumbang individu mozilla.org. Kandungan tersedia di bawah lesen <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Syarikat
