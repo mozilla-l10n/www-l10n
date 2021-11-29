@@ -37,6 +37,7 @@ no-we-dont = Na, nus na crajain betg che { -brand-name-chrome } saja meglier che
 
 see-how-firefox = <a href="{ $url }">Legia la cumparegliaziun da { -brand-name-firefox } cun { -brand-name-chrome }.</a>
 related-questions-better = Dumondas sumegliantas: È { -brand-name-firefox } meglier che { -brand-name-chrome }? È { -brand-name-firefox } meglier che { -brand-name-google }? È { -brand-name-firefox } pli segir che { -brand-name-chrome }? Respecta { -brand-name-firefox } pli fitg la sfera privata che { -brand-name-chrome }?
+is-firefox-safe-download = È { -brand-name-firefox } segir per telechargiar?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
