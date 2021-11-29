@@ -37,3 +37,6 @@ mobile-ios-find-it-all = Chatta tut pli svelt
 mobile-ios-get-search-suggestions = Retschaiva propostas da tschertga en la trav da retschertga ed acceda directamain a las paginas che ti visitas il pli savens. Endatescha tia dumonda da retschertga ed obtegna propostas e resultats da tschertgas precedentas da tias maschinas da tschertgar preferidas.
 # Obsolete string
 mobile-ios-keep-tabs-on = Tegna en egl tuts tes tabs
+# Obsolete string
+mobile-ios-create-as-many = Avra tants tabs sco che ti vuls, senza perder la survista. { -brand-name-firefox } mussa tes tabs averts sco miniaturas e tabs numerads, uschia che ti chattas svelt quai che ti tschertgas.
+mobile-ios-discover-more-of = Scuvra dapli da quai che ta plascha
