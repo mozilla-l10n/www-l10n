@@ -189,7 +189,11 @@ vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = お住まいの国を選択してください。
 vpn-landing-invite-language-label = ご希望の言語を選択してください。
 vpn-landing-invite-platform-label = ご希望のプラットフォームを選択してください。
+
+
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }

@@ -189,7 +189,11 @@ vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = في أي بلد تعيش؟
 vpn-landing-invite-language-label = اختر اللغة التي تريد
 vpn-landing-invite-platform-label = ما هي المنصات التي تُفضلها؟
+
+
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
