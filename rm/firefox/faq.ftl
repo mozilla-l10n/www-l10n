@@ -48,6 +48,9 @@ is-firefox-safe = È { -brand-name-firefox } segir?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = { -brand-name-firefox } n'è betg mo segir per utilisar, el gida era da segirar tias datas ed infurmaziuns privatas. Il { -brand-name-firefox-browser } blochescha automaticamain ils fatizaders enconuschents da terzas partidas, fastizaders da medias socialas, criptominiers ed improntaders ed impedescha che quels ramassian tias datas. <a href="{ $url }">Ulteriuras infurmaziuns davart la protecziun da datas en noss products.</a>
+related-questions-safe = Dumondas sumegliantas: È { -brand-name-firefox } bun per la protecziun da datas? È { -brand-name-firefox } segir? È { -brand-name-firefox } meglier per la protecziun da datas?
+does-firefox-sell = Venda { -brand-name-firefox } tias datas persunalas?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
