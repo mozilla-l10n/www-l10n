@@ -19,3 +19,4 @@ firefox-mobile-privacy-protection-by-default = Protecziun da la sfera privata sc
 # Variables:
 #   $promise (url) - link to ttps://www.mozilla.org/firefox/features/private-browsing/
 firefox-mobile-leave-no-trace-with-private = Grazia al <a href="{ $url }">modus da navigar privat</a> na laschas ti enavos nagins fastizs. Cura che ti termineschas il navigatur, vegnan stizzads tia cronologia ed ils cookies.
+firefox-mobile-stop-companies-from-following = Impedescha che las interpresas ta suondian en il web
