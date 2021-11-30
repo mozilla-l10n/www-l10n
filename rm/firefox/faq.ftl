@@ -80,3 +80,5 @@ who-owns-firefox = Tgi è il proprietari da { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } vegn sviluppà da la { -brand-name-mozilla-corporation }, ina societad affiliada che appartegna per tschient pertschient a l'organisaziun senza finamira da profit <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>, e s'orientescha als princips dal Manifest da { -brand-name-mozilla }. T'infurmescha <a href="{ $url2 }">qua</a> davart ils realisaturs da { -brand-name-firefox }.
+related-questions-who = Dumondas sumeglianantas: Tgi è il proprietari da { -brand-name-firefox }? A tgi appartegna { -brand-name-firefox-browser }? Appartegna { -brand-name-firefox } a { -brand-name-google }? Appartegna { -brand-name-mozilla } { -brand-name-firefox } a { -brand-name-google }?
