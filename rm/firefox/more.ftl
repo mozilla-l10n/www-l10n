@@ -14,3 +14,5 @@ firefox-has-been = { -brand-name-firefox } è stà da la partida quasi da bell'e
 firefox-rebel-with = { -brand-name-firefox }: L'idealist rebel
 firefox-is-independent = { -brand-name-firefox } è independent e vegn sustegnì da { -brand-name-mozilla }, l'organisaziun d'util public che cumbatta per tes dretgs online e renda accessibel l'internet a mintgin e dapertut.
 what-is-a = Tge è in navigatur-web?
+a-web-browser = In navigatur-web ta maina dapertut per l'internet enturn e ta pussibilitescha da leger texts e da guardar maletgs e videos da tut il mund.
+update-your-browser = Actualisescha tes navigatur { -brand-name-firefox } per navigar svelt ed en segirezza.
