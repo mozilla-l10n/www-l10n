@@ -12,3 +12,5 @@ learn-more-faq = FAQ davart { -brand-name-firefox }
 the-history-of = L'istorgia dals navigaturs-web
 firefox-has-been = { -brand-name-firefox } è stà da la partida quasi da bell'entschatta.
 firefox-rebel-with = { -brand-name-firefox }: L'idealist rebel
+firefox-is-independent = { -brand-name-firefox } è independent e vegn sustegnì da { -brand-name-mozilla }, l'organisaziun d'util public che cumbatta per tes dretgs online e renda accessibel l'internet a mintgin e dapertut.
+what-is-a = Tge è in navigatur-web?
