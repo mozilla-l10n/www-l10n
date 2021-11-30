@@ -55,6 +55,11 @@ does-firefox-sell = Venda { -brand-name-firefox } tias datas persunalas?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Na. Quai n'avain nus ni fatg en il passà ni vegnin nus a far quai en l'avegnir. Anzi – nus ta protegin da blers incumbensaders da reclamas che han questa intenziun. Ils products da { -brand-name-firefox } èn concepids per proteger tia sfera privata. <a href="{ $url }">Quai è in'empermischun.</a>
+why-is-firefox = Pertge è { -brand-name-firefox } uschè plaun?
+firefox-isnt-slow = { -brand-name-firefox } n'è betg plaun… almain ozendi betg pli. L'onn 2017 avain nus restructurà cumplettamain il motor da noss navigatur (numnà Quantum) per far la segira che { -brand-name-firefox } possia tegnair pass cun ils auters navigaturs pli gronds sin il martgà. Ultra da quai gidan nossa bloccada da fastizaders da chargiar anc pli svelt las paginas-web. Quai vul dir che { -brand-name-firefox } è svelt sco ina frizza senza far cumpromiss en connex cun tia sfera privata.
+is-firefox-chromium = Sa basa { -brand-name-firefox } sin { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } na sa basa betg sin { -brand-name-chromium } (il project open-source che furma la basa da { -brand-name-google } { -brand-name-chrome }). Per propi essan nus in dals davos navigaturs pli gronds per ils quals quai n'è betg il cas. { -brand-name-firefox } funcziunescha sin noss motor Quantum, sviluppà aposta per { -brand-name-firefox } da maniera che nus pudain garantir che tias datas vegnian tractadas cun respect e restian privatas.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
