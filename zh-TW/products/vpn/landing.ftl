@@ -144,6 +144,8 @@ vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = 您生活在哪個國家？
 vpn-landing-invite-language-label = 選擇想使用的語言。
 vpn-landing-invite-platform-label = 您對哪些平台感興趣？
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }

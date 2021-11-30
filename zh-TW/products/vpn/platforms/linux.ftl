@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
@@ -21,5 +21,6 @@ vpn-linux-servers-headline = 連線到 { $countries } 個國家當中超過 { $s
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = 最多可有 { $devices } 台裝置連線
+vpn-linux-devices-copy = 只要一次訂閱就可以在最多 { $devices } 台裝置上使用 { -brand-name-mozilla-vpn }，支援 { -brand-name-linux }、{ -brand-name-windows }、{ -brand-name-android }、{ -brand-name-mac-short } 及 { -brand-name-iphone } 與 { -brand-name-ipad } 的 { -brand-name-ios } 版本。
 vpn-linux-speed-headline = 速度超快，頻寬不設限
 vpn-linux-log-headline = 自己的資料屬於自己

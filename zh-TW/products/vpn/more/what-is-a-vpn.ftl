@@ -8,6 +8,7 @@
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = VPN 是什麼？
 vpn-what-is-how-do-vpns = VPN 的運作原理是什麼？
+vpn-what-is-concealing-your-ip = 隱藏您的 IP 地址，保護您的個人身分與實際所在地點。
 vpn-what-is-encrypting-your-traffic = 您與 VPN 供應商之間的流量會被加密起來，讓本地區網當中的其他人或電信業者都無法解密或竄改傳輸資料。
 vpn-what-is-when-should-i = 我該在什麼時候使用 VPN？
 vpn-what-is-wait-i-thought = 等一下，我以為我的網路流量已經被 HTTPS 加密起來了…
