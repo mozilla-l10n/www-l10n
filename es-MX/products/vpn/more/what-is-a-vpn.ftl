@@ -13,6 +13,7 @@ vpn-what-is-many-of-us = Muchos de nosotros pasamos varias horas al día usando 
 vpn-what-is-how-do-vpns = ¿Cómo funcionan las VPN?
 vpn-what-is-a-vpn-is = Una VPN es una herramienta que te permite acceder a Internet de forma segura dondequiera que estés. Una VPN funciona creando un “túnel” seguro entre tu dispositivo y tu proveedor de VPN, y te protege de dos formas clave:
 vpn-what-is-concealing-your-ip = Ocultando tu dirección IP, protegiendo tu identidad y ubicación.
+vpn-what-is-encrypting-your-traffic = Cifrando el tráfico entre tú y tu proveedor de VPN para que nadie en tu red local pueda descifrarlo o modificarlo.
 vpn-what-is-when-should-i = ¿Cuándo debería usar una VPN?
 vpn-what-is-why-would-i = ¿Por qué debería usar una VPN?
 vpn-what-is-keeping-your-home = Mantener la ubicación de tu casa o los lugares más visitados en privado.
@@ -22,3 +23,7 @@ vpn-what-is-are-vpns-safe = ¿Son seguras las VPN?
 vpn-what-is-are-vpns-legal = ¿Son legales las VPN?
 vpn-what-is-are-vpns-only = ¿Las VPN son solo para computadoras?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rápida, segura, confiable
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio en el que puedes confiar para mantener tu conexión a Internet segura en todos tus dispositivos. No guardamos registros de datos del usuario, y no nos asociamos con plataformas de análisis de terceros que quieran crear un perfil de lo que haces en línea. En un mundo donde la imprevisibilidad se ha convertido en la "nueva normalidad", sabemos que es más importante que nunca para ti sentirse seguro, y para ti saber que lo que haces en línea es asunto tuyo.
