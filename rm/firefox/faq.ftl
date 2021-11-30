@@ -60,10 +60,13 @@ why-is-firefox = Pertge è { -brand-name-firefox } uschè plaun?
 firefox-isnt-slow = { -brand-name-firefox } n'è betg plaun… almain ozendi betg pli. L'onn 2017 avain nus restructurà cumplettamain il motor da noss navigatur (numnà Quantum) per far la segira che { -brand-name-firefox } possia tegnair pass cun ils auters navigaturs pli gronds sin il martgà. Ultra da quai gidan nossa bloccada da fastizaders da chargiar anc pli svelt las paginas-web. Quai vul dir che { -brand-name-firefox } è svelt sco ina frizza senza far cumpromiss en connex cun tia sfera privata.
 is-firefox-chromium = Sa basa { -brand-name-firefox } sin { -brand-name-chromium }?
 firefox-is-not = { -brand-name-firefox } na sa basa betg sin { -brand-name-chromium } (il project open-source che furma la basa da { -brand-name-google } { -brand-name-chrome }). Per propi essan nus in dals davos navigaturs pli gronds per ils quals quai n'è betg il cas. { -brand-name-firefox } funcziunescha sin noss motor Quantum, sviluppà aposta per { -brand-name-firefox } da maniera che nus pudain garantir che tias datas vegnian tractadas cun respect e restian privatas.
+does-firefox-use = Utilisescha { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } è la maschina da tschertgar da standard en { -brand-name-firefox }. Quai munta che ti pos far retschertgas en il web directamain via la trav d'adressas. <a href="{ $url }">T'infurmescha davart las preferenzas da la maschina da tschertgar e la modificaziun da configuraziuns predefinidas.</a>
+does-firefox-have = Ha { -brand-name-firefox } ina VPN integrada?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
