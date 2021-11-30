@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
@@ -11,6 +11,7 @@
 vpn-windows-page-title = { -brand-name-mozilla-vpn } for { -brand-name-windows } 10
 # Windows strings
 vpn-windows-hero-headline = 使用 { -brand-name-windows } 10 上的 { -brand-name-mozilla-vpn }，讓您安全與網路世界保持聯繫。
+vpn-windows-wifi-headline = 使用公共 Wi-Fi 時也保持隱私
 vpn-windows-about-headline = 來自網路隱私的領導者
 vpn-windows-privacy-headline = 只要按個按鈕即可開啟保護
 vpn-windows-servers-headline = 使用世界各地的伺服器
