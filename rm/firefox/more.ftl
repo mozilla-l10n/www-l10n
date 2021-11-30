@@ -16,3 +16,5 @@ firefox-is-independent = { -brand-name-firefox } è independent e vegn sustegnì
 what-is-a = Tge è in navigatur-web?
 a-web-browser = In navigatur-web ta maina dapertut per l'internet enturn e ta pussibilitescha da leger texts e da guardar maletgs e videos da tut il mund.
 update-your-browser = Actualisescha tes navigatur { -brand-name-firefox } per navigar svelt ed en segirezza.
+the-firefox-browser = Il navigatur { -brand-name-firefox } è concepì per proteger mintga mument tia sfera privata. Quai è numnadamain la furma la pli svelta da ta liberar da telechargiadas plaunas, reclamas mulestusas e fastizaders.
+firefox-is-more = { -brand-name-firefox } è dapli ch'in navigatur
