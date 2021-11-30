@@ -17,4 +17,5 @@ vpn-what-is-what-are-the = Milyen hátrányai vannak a VPN használatának?
 vpn-what-is-are-vpns-safe = Biztonságosak-e a VPN-ek?
 vpn-what-is-can-vpns-protect = A VPN-ek megvédhetnek-e a kiberbűnözőktől?
 vpn-what-is-are-vpns-legal = Legálisak-e a VPN-ek?
+vpn-what-is-are-vpns-only = A VPN-ek csak számítógépekhez használhatók?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Gyors, biztonságos, megbízható

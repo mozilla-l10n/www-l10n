@@ -144,6 +144,8 @@ vpn-landing-invite-email-placeholder = email@example.com
 vpn-landing-invite-country-label = Melyik országban él?
 vpn-landing-invite-language-label = Válassza ki az előnyben részesített nyelvét.
 vpn-landing-invite-platform-label = Mely platformok érdeklik?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
