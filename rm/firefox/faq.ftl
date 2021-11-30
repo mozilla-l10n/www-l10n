@@ -74,6 +74,7 @@ does-firefox-have = Ha { -brand-name-firefox } ina VPN integrada?
 
 firefox-does-not = { -brand-name-firefox } na dispona betg dad in VPN (virtual private network) integrà, ma i dat dus products da { -brand-name-mozilla }/{ -brand-name-firefox } che ti pos utilisar supplementarmain cun il navigatur { -brand-name-firefox-browser } per proteger ubain tes navigatur (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) u tia colliaziun da WLAN (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) da tes apparat, sco era tia adressa IP.
 related-questions-ip = Dumondas sumegliantas: Zuppenta { -brand-name-firefox } tia adressa IP?
+who-owns-firefox = Tgi è il proprietari da { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
