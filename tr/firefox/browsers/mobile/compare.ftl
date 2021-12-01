@@ -21,6 +21,7 @@ mobile-compare-syncing = Senkronizasyon
 mobile-compare-does-your-browser = Tarayıcınız diğer cihazlarla uyumlu mu?
 mobile-compare-almost-all-of = Burada karşılaştırılan hemen hemen tüm mobil tarayıcılar, mobil ve masaüstü cihazlar arasında tam senkronizasyona sahip.
 mobile-compare-conclusion = Sonuç
+mobile-compare-based-on-the = Belirttiğimiz gizlilik, özellikler ve senkronizasyon kriterlerinin üçünü de karşılayan tek bir mobil tarayıcı var: { -brand-name-firefox }. Özellikler ve senkronizasyon kategorilerinde benzer olsa da { -brand-name-firefox } gizlilik açısından diğerlerinden ayrılıyor, çünkü bunun internetin keyfini dilediğiniz gibi çıkarmanızı sağlayan temel bileşen olduğunu düşünüyoruz.
 mobile-compare-our-recommendations-aside = Önerilerimiz bir yana, sizin için en doğru tarayıcı, her zaman bireysel ihtiyaçlarınıza ve internette gezinirken en çok neye değer verdiğinize bağlı olacaktır.
 mobile-compare-search-engine-options = Arama motoru seçenekleri
 mobile-compare-text-to-speech = Metin okuma
