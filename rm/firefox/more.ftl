@@ -65,3 +65,6 @@ firefox-more-fingerprinter-blocking = Bloccada dad improntaders
 firefox-more-fingerprinting-is-a = Improntaders (fingerprinting) èn tscherts fastizaders online ch'èn pli invasivs ch'ils fastizaders usitads che sa basan sin cookies – perquai als blochescha { -brand-name-firefox-browser }.
 firefox-more-translate-the-web = Translatar il web
 firefox-more-translate-more-than = Translatescha passa 100 linguas en tia lingua, directamain en tes navigatur { -brand-name-firefox-browser }. Quai n'è anc mai stà uschè simpel sco ussa.
+firefox-more-a-guide-to = In mussavia per datas d'annunzia e pleds-clav pli segirs
+firefox-more-more-and-more = I dat adina dapli rauba sensibla e preziusa en nossa vita vegn segirada cun agid da pleds-clav.
+firefox-more-avoid-misinformation-heading = Evitescha dischinfurmaziuns en la rait – { -brand-name-firefox } ta gida qua
