@@ -34,3 +34,5 @@ we-believe-everyone = Nus essan persvas che mintgin duess avair access a l'inter
 firefox-fights-for = { -brand-name-firefox } cumbatta per tai sin { -brand-name-windows }
 easy-migration-of = La migraziun da preferenzas e segnapaginas è simpla sche ti telechargias { -brand-name-firefox } per { -brand-name-windows }.
 firefox-respects-your = { -brand-name-firefox } respecta tia sfera privata sin { -brand-name-mac-short }.
+firefox-doesnt-spy = { -brand-name-firefox } na spiunescha betg cura che ti tschertgas. Nus bloccain cookies enconuschents da terzas partidas che fastizeschan e ta dain la controlla cumplaina.
+firefox-for-linux = { -brand-name-firefox } per { -brand-name-linux }
