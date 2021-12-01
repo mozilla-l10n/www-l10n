@@ -57,3 +57,5 @@ the-ad-blocker = La bloccada da reclamas – in'arma secreta cunter reclamas mul
 so-many-ads = Bleras reclamas e pauca pazienza… igl è ura e temp da metter ina fin a questa narradad.
 firefox-more-protection = { -brand-name-firefox }: Dapli protecziun. Damain quitads.
 were-obsessed-with = Nus ans engaschain cun corp ed olma per tia sfera privata. Perquai avain nus creà in modus privat per { -brand-name-firefox } bler pli ferm che quel dad auters navigaturs.
+incognito-browser-what = Navigatur incognito: Tge che quai vul propi dir
+firefox-calls-it = { -brand-name-firefox } numna quai il modus privat, per { -brand-name-chrome } èsi il modus incognito. Domadus ta permettan da navigar en l'internet senza che tia cronologia vegnia memorisada.
