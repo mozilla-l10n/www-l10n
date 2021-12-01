@@ -1,20 +1,24 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/about/
 
 # HTML Page title
 about-learn-about-mozilla = En savoir plus sur { -brand-name-mozilla }
+
 # HTML page description
 about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } conçoit des navigateurs, des applications, du code et des outils qui font passer les utilisateurs avant les profits. Notre mission : garder Internet ouvert et accessible à tous.
+
 # Main heading
 about-mozilla-makes-browsers-apps = { -brand-name-mozilla } conçoit des navigateurs, des applications, du code et des outils qui font passer les utilisateurs avant les profits.
+
 # Main sub-heading
 about-our-mission-keep-the-internet = Notre mission : garder Internet ouvert et accessible à tous.
+
 # Main call to action
 about-read-our-mission = Lire notre mission
+
 about-our-mission-in-action = Notre mission en action
 about-pioneers-of-the-open-web = Pionniers du Web ouvert
 about-our-leadership-has-been-at = Notre équipe dirigeante a été à l’avant-garde de la construction d’un Internet plus sain depuis le premier jour. Ce qui a commencé comme une alternative à la domination des grandes entreprises s’est mué en une puissance mondiale pour le bien en ligne.
@@ -33,17 +37,23 @@ about-read-the-manifesto = Lire le manifeste
 about-a-global-view = Une vision globale
 about-with-offices-all-over-the = Avec <a href="{ $url }">des bureaux partout dans le monde</a>, nous envisageons Internet depuis plusieurs cultures et plusieurs contextes.
 about-san-francisco = San Francisco
+
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2 000</strong> visiteurs accueillis chaque année.
+
 about-berlin = Berlin
+
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
-about-500-annual-attendees-to-the = <strong>500</strong> participants à nos <em>speaker series</em> berlinoises chaque année.
+about-500-annual-attendees-to-the = <strong>500</strong> participants à nos speaker series berlinoises chaque année.
+
 about-toronto = Toronto
+
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = <strong>800</strong> bouteilles de café infusé à froid consommées chaque année.
+
 about-work-at-mozilla = Travailler chez { -brand-name-mozilla }
 about-join-a-mission-driven-organization = Rejoignez une organisation qui se donne pour mission de concevoir des produits qui répondent à des besoins.
-about-mozilla-careers = Offres d’emplois chez { -brand-name-mozilla }
+about-mozilla-careers = Offres d’emploi chez { -brand-name-mozilla }
 about-how-you-can-help = Comment vous pouvez aider
 about-your-voice-your-code-your = Votre voix. Votre code. Votre soutien. Il y a tellement de façons de rejoindre la bataille pour un Internet sain.
 about-get-involved = Participer
@@ -52,4 +62,4 @@ about-get-involved = Participer
 
 about-get-the-mozilla-newsletter = Abonnez-vous à la lettre d’information de { -brand-name-mozilla }
 about-stay-informed-about-the-issues = Tenez-vous au courant des problèmes concernant Internet et apprenez à vous impliquer dans la protection de la ressource publique la plus récente du monde.
-about-subscribe = S’abonner
+about-subscribe = Abonnement
