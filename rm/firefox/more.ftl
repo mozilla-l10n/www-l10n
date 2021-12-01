@@ -36,3 +36,7 @@ easy-migration-of = La migraziun da preferenzas e segnapaginas è simpla sche ti
 firefox-respects-your = { -brand-name-firefox } respecta tia sfera privata sin { -brand-name-mac-short }.
 firefox-doesnt-spy = { -brand-name-firefox } na spiunescha betg cura che ti tschertgas. Nus bloccain cookies enconuschents da terzas partidas che fastizeschan e ta dain la controlla cumplaina.
 firefox-for-linux = { -brand-name-firefox } per { -brand-name-linux }
+new-school-meets = Il fancy nov scuntra il classicher tecnologic cun il pli svelt navigatur ch'i dat actualmain.
+firefox-for-windows = { -brand-name-firefox } per { -brand-name-windows } a 64 bits
+we-worry-about = Nus ans occupain da la segirezza da tias datas per che ti na stoppias betg far quai.
+seven-of-the = Cumparegliaziun directa da set dals megliers navigaturs
