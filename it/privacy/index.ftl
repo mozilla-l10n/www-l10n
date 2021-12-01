@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -26,14 +26,14 @@ privacy-index-get-involved = Partecipa
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = In qualità di progetto Open Source, trasparenza e apertura sono una parte essenziale dei principi fondanti di { -brand-name-mozilla }. Il nostro codice è aperto e verificabile. Lo sviluppo avviene in modo trasparente. La nostra <a href="{ $report }">relazione di trasparenza</a>, pubblicata due volte all’anno, dimostra il nostro impegno nel rispettare questi principi.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Per discutere e commentare proposte di modifica delle nostre politiche sulla privacy <a href="{ $group }">iscriviti al gruppo “{ -brand-name-mozilla } Governance”</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Leggi ulteriori approfondimenti sul nostro costante lavoro in materia di privacy e politiche di sicurezza nel blog <a href="{ $blog }">Open Policy and Advocacy</a> di { -brand-name-mozilla }.
 privacy-index-outdated-policies = Informative obsolete
 privacy-index-mozilla-websites-communications = Siti web Mozilla, comunicazioni e cookie
-privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
 privacy-index-firefox-private-network = { -brand-name-firefox-private-network }

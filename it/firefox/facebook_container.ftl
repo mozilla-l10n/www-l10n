@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -11,9 +11,7 @@ facebook-container-facebook-well-contained-keep = Mantieni la tua privacy, tracc
 facebook-container-get-the-facebook-container = Scarica l’estensione { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Scarica { -brand-name-firefox } e installa l’estensione { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = L’estensione { -brand-name-facebook-container } è attualmente disponibile solo per { -brand-name-firefox } per desktop.
-facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

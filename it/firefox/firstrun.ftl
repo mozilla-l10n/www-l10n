@@ -1,11 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/firstrun/
 
-firstrun-firefox-browser = { -brand-name-firefox-browser }
+firstrun-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firstrun-welcome-to-firefox = Benvenuto in { -brand-name-firefox }
 firstrun-take-firefox-with-you = Porta { -brand-name-firefox } con te
 firstrun-already-using-firefox = Sei già un utente { -brand-name-firefox }?
