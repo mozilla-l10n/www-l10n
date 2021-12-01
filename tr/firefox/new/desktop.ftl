@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,11 @@ firefox-desktop-download-blocks-social-trackers = Sosyal takipçileri engeller
 firefox-desktop-download-os-availability = Farklı işletim sistemleri desteği
 firefox-desktop-download-in-browser-screenshot = Tarayıcı içi ekran görüntüsü aracı
 firefox-desktop-download-primary-password = Ana parola
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = İnterneti seviyoruz
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Bu internet senin. Binlerce araç, tema ve uzantıyla istediğin gibi özelleştir. { -brand-name-firefox }, insanlığı paraya yeğleyen ilk alternatif tarayıcı.
 # Obsolete string
 firefox-desktop-download-master-password = Ana parola
 firefox-desktop-download-we-block-the-ad = Biz reklam takipçilerini engelliyoruz, siz daha hızlı geziniyorsunuz
@@ -175,6 +180,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">A
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = İndirme işlemi birazdan kendiliğinden başlayacak. Başlamazsa <a id="{ $id }" href="{ $fallback_url }">yeniden deneyin.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } yalnızca bir tarayıcı değil.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = İndirmeniz kesintiye uğradı.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
