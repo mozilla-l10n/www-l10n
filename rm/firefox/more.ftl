@@ -54,3 +54,5 @@ you-dont-have = Ti na stos betg utilisar per forza tes navigatur preinstallà.
 comparing-firefox-opera = La cumparegliaziun dal { -brand-name-firefox-browser } cun { -brand-name-opera }
 be-free-to = Chanta laud a { -brand-name-firefox } cura ch'i saja.
 the-ad-blocker = La bloccada da reclamas – in'arma secreta cunter reclamas mulestusas.
+so-many-ads = Bleras reclamas e pauca pazienza… igl è ura e temp da metter ina fin a questa narradad.
+firefox-more-protection = { -brand-name-firefox }: Dapli protecziun. Damain quitads.
