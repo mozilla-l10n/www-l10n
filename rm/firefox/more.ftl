@@ -68,3 +68,4 @@ firefox-more-translate-more-than = Translatescha passa 100 linguas en tia lingua
 firefox-more-a-guide-to = In mussavia per datas d'annunzia e pleds-clav pli segirs
 firefox-more-more-and-more = I dat adina dapli rauba sensibla e preziusa en nossa vita vegn segirada cun agid da pleds-clav.
 firefox-more-avoid-misinformation-heading = Evitescha dischinfurmaziuns en la rait – { -brand-name-firefox } ta gida qua
+firefox-more-avoid-misinformation-desc = Dà in'egliada als cussegls per evitar dischinfurmaziun e ta concentrar a quai che ta stat a cor.
