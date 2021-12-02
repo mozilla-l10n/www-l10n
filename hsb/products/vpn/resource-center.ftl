@@ -7,6 +7,8 @@
 
 # HTML Page Title
 vpn-resource-center-title = Resursowy centrum VPN
+vpn-resource-center-whats-the-deal = Što ma z wirtuelnymi priwatnyni syćemi na sebi?
+vpn-resource-center-discover-how-they = Wuslědźće, kak funguja, čehodla wažne su a što VPN móže za was činić, hdyž ju wužiwaće.
 vpn-resource-center-view-all = Wšě pokazać
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
