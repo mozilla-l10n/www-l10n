@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Приєднуйтеся до {
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Уже маєте обліковий запис? <a { $fxa_attr }>Увійдіть</a> або <a { $accounts_attr }>дізнайтеся більше</a> про те, як приєднатися до { -brand-name-firefox }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Браузер, зосереджений на вашій приватності та з автоматичним захистом від стеження й блокуванням реклами.
