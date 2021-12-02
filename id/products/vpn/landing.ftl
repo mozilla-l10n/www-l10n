@@ -190,6 +190,7 @@ vpn-landing-invite-country-label = Di negara mana Anda tinggal?
 vpn-landing-invite-language-label = Pilih bahasa pilihan Anda.
 vpn-landing-invite-platform-label = Platform mana yang Anda minati?
 
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
 
 # Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10

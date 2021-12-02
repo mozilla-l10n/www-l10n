@@ -190,6 +190,7 @@ vpn-landing-invite-country-label = आप किस देश में रह�
 vpn-landing-invite-language-label = अपनी पसंदीदा भाषा चुनें।
 vpn-landing-invite-platform-label = आपको कौन-सा प्लेटफ़ॉर्म पसंद है?
 
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
 
 # Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
