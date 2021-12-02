@@ -51,3 +51,4 @@ firefox-products-join-firefox-and-get-the-most = Junge te a { -brand-name-firefo
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Ha tu jam un conto? <a { $fxa_attr }>Aperi session</a> o <a { $accounts_attr }>lege plus</a> sur junger te a { -brand-name-firefox }.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Le navigator dedicate al confidentialitate con protection automatic contra le traciamento e blocada del avisos publicitari.
