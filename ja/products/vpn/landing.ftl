@@ -190,6 +190,7 @@ vpn-landing-invite-country-label = お住まいの国を選択してください
 vpn-landing-invite-language-label = ご希望の言語を選択してください。
 vpn-landing-invite-platform-label = ご希望のプラットフォームを選択してください。
 
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
 
 # Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
