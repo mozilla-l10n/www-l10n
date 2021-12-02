@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
-home-mr2-promo-title = Pśiźmy na dobre deje slědk – malsnjej
+home-mr2-promo-title = Pśiźmy na dobre ideje slědk – malsnjej
 
 ## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 
