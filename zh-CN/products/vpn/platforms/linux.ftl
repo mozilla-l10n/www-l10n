@@ -32,6 +32,6 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } 可以将 { -brand-name-lin
 vpn-linux-devices-headline = 连接多达 { $devices } 台设备
 vpn-linux-devices-copy = 一次订阅，即可在最多 { $devices } 台设备上使用 { -brand-name-mozilla-vpn }，支持 { -brand-name-linux }、{ -brand-name-windows }、{ -brand-name-android }、{ -brand-name-mac-short }，以及 { -brand-name-ios } 系统的 { -brand-name-iphone } 和 { -brand-name-ipad }。
 vpn-linux-speed-headline = 速度超快，不限流量
-vpn-linux-speed-copy = 玩游戏、看电影和电视节目、网上冲浪，速度超快不限速——{ -brand-name-mozilla-vpn } 无限制。
+vpn-linux-speed-copy = 玩游戏、看影视节目、网上冲浪，速度超快不限速——{ -brand-name-mozilla-vpn } 无限制。
 vpn-linux-log-headline = 您的数据只属于您
 vpn-linux-log-copy = 某些 VPN 服务商会记录您在其服务器上的活动，但 { -brand-name-mozilla-vpn } 绝不会在网上跟踪您——实际上，这是 Mozilla 公司的重要行事原则之一。
