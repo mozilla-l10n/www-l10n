@@ -144,6 +144,8 @@ vpn-landing-invite-email-placeholder = vasa_adresa@example.com
 vpn-landing-invite-country-label = V ktorej krajine žijete?
 vpn-landing-invite-language-label = Vyberte si vami požadovaný jazyk.
 vpn-landing-invite-platform-label = O ktoré platformy máte záujem?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }

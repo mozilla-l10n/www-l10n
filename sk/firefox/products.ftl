@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Prihláste sa do { -brand-name-
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Už máte účet? <a { $fxa_attr }>Prihláste sa</a> alebo <a { $accounts_attr }>zistite viac</a> o prihlásení sa do { -brand-name-firefox(case: "gen") }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Prehliadač špecializovaný na ochranu súkromia s automatickou ochranou pred sledovaním a blokovaním reklám.
