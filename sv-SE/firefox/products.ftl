@@ -51,3 +51,4 @@ firefox-products-join-firefox-and-get-the-most = Gå med i { -brand-name-firefox
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Har du redan ett konto? <a { $fxa_attr }>Logga in</a> eller <a { $accounts_attr }>läs mer</a> om att gå med i { -brand-name-firefox }.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Din integritetsfokuserade webbläsare med automatiskt spårningsskydd och annonsblockering.
