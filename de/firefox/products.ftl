@@ -59,3 +59,4 @@ firefox-products-join-firefox-and-get-the-most = Erstelle dein { -brand-name-fir
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Du hast schon ein Konto? <a { $fxa_attr }>Melde dich an</a> oder <a { $accounts_attr }>erfahre mehr</a> über die Nutzung von { -brand-name-firefox }.
+

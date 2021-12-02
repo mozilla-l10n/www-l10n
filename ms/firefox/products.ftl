@@ -59,3 +59,4 @@ firefox-products-join-firefox-and-get-the-most = Sertai { -brand-name-firefox } 
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Sudah ada akaun? <a { $fxa_attr }>Daftar Masuk</a> atau <a { $accounts_attr }>ketahui lebih lanjut</a> tentang menyertai { -brand-name-firefox }.
+

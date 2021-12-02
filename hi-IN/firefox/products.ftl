@@ -59,3 +59,4 @@ firefox-products-join-firefox-and-get-the-most = { -brand-name-firefox } के 
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = पहले से ही एक एकाउंट है? <a { $fxa_attr }>साइन इन करें</a> या { -brand-name-firefox } से जुड़ने के बारे में <a { $accounts_attr }>और जानें</a>
+

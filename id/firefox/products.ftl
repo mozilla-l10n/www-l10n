@@ -59,3 +59,4 @@ firefox-products-join-firefox-and-get-the-most = Bergabunglah bersama { -brand-n
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Sudah memiliki akun? <a { $fxa_attr }>Masuk</a> atau <a { $accounts_attr }>pelajari lebih lanjut</a> mengenai bergabung dengan { -brand-name-firefox }.
+

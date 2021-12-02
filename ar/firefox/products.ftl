@@ -59,3 +59,4 @@ firefox-products-join-firefox-and-get-the-most = انضم إلى { -brand-name-f
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = ألديك حساب بالفعل؟ <a { $fxa_attr }>سجّل الدخول</a> أو <a { $accounts_attr }>اطّلع على المزيد</a> حول الانضمام إلى { -brand-name-firefox }.
+
