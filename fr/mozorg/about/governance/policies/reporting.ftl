@@ -1,7 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/about/governance/policies/participation/reporting/
 
@@ -9,7 +8,7 @@ reporting-community-participation = Directives relatives à la participation com
 reporting-how-to-report-violations = Comment signaler les violations des Directives relatives à la participation communautaire
 reporting-this-document-provides = Ce document fournit des informations de haut niveau pour comprendre et signaler les violations des Directives relatives à la participation communautaire de { -brand-name-mozilla }.
 reporting-from-the-community-participation = À partir des <a href="{ $cpg }">Directives relatives à la participation communautaire</a> :
-reporting-the-heart-of-mozilla-is = Les personnes sont au cœur de { -brand-name-mozilla }. Elles sont notre priorité, et nous faisons de notre mieux pour reconnaître, apprécier et respecter la diversité de nos contributeurs dans le monde. Le projet { -brand-name-mozilla } accueille les contributions de tous ceux qui partagent nos objectifs et souhaitent s’impliquer d’une façon saine et constructive au sein de notre communauté. Pour cette raison, nous avons adopté le présent code de conduite et nous demandons à tous les participants d’accepter et d’adhérer aux Directives relatives à la participation communautaire, afin de pouvoir créer une expérience communautaire sûre et positive pour tous.
+reporting-the-heart-of-mozilla-is = Les personnes sont au cœur de { -brand-name-mozilla }. Elles sont notre priorité et nous faisons de notre mieux pour reconnaître, apprécier et respecter la diversité de nos contributeurs et contributrices dans le monde. Le projet { -brand-name-mozilla } accueille les contributions de toutes celles et ceux qui partagent nos objectifs et souhaitent s’impliquer d’une façon saine et constructive dans notre communauté. Pour cette raison, nous avons adopté le présent code de conduite et nous demandons à tous les participants d’accepter et d’adhérer aux Directives relatives à la participation communautaire, afin de pouvoir créer une expérience communautaire sûre et positive pour tous.
 reporting-this-document-is-intended = Ce document est conçu comme une interface avec les documents existants, les processus et les personnes en charge de vérifier que les communautés { -brand-name-mozilla } sont saines et inclusives pour tous.
 reporting-when-to-report = Quand effectuer un signalement
 reporting-please-report-all-incidents = Veuillez signaler tous les incidents dans lesquels une personne a manifesté un comportement potentiellement illégal ou contribuant à vous sentir, vous ou un tiers, en danger, mal accueilli ou mal à l’aise, <a href="{ $cpg }">comme expliqué plus en détail dans les Directives relatives à la participation communautaire</a>.
@@ -22,7 +21,7 @@ reporting-put-another-way = Autrement dit…
 reporting-by = Par
 reporting-employee = Employé
 reporting-contributor = Contributeur
-reporting-about = Au sujet de
+reporting-about = À propos
 reporting-employee-hotline = Ligne d’assistance téléphonique pour les employés
 reporting-contractor = Sous-traitant
 reporting-vendor = Fournisseur
@@ -38,8 +37,8 @@ reporting-description-of-incident = Description de l’incident, y compris les d
 reporting-if-the-reporter-wants = Si le déclarant souhaite effectuer un signalement anonyme, veuillez l’informer que sans ces coordonnées, nous ne pourrons peut-être pas mettre à jour le déclarant initial, le cas échéant. Certaines lois interdisent les signalements anonymes et vous devrez peut-être fournir leur nom si vous êtes un manager { -brand-name-mozilla } ou un responsable de la communauté.
 reporting-relationship-of-reportervictim = Lien de parenté entre le déclarant et la victime.
 reporting-mozilla-managers-and-community = Manager { -brand-name-mozilla } et responsables de la communauté.
-reporting-if-a-mozilla-manager-or = Si un manager { -brand-name-mozilla } ou des responsables de la communauté sont informés d’éventuelles violations des <a href="{ $cpg }">Directives relatives à la participation communautaire</a>, ils sont tenus de signaler immédiatement l’incident par le biais de la ligne d’assistance téléphonique applicable, même si le déclarant initial doit également effectuer un signalement. Les managers de { -brand-name-mozilla } et les responsables de la communauté ne sont pas autorisés à mener eux-mêmes une enquête sur les plaintes.
-reporting-if-a-mozilla-manager-or-email = Si un manager { -brand-name-mozilla } ou des responsables de la communauté sont informés d’éventuelles violations des <a href="{ $cpg }">Directives relatives à la participation communautaire</a>, ils sont tenus de signaler immédiatement l’incident par le biais de la ligne d’assistance téléphonique ou de l’adresse e-mail applicable, même si le déclarant initial doit également effectuer un signalement. Les managers de { -brand-name-mozilla } et les responsables de la communauté ne sont pas autorisés à mener eux-mêmes une enquête sur les plaintes.
+reporting-if-a-mozilla-manager-or = Si un responsable ou une personne chargée de la communauté { -brand-name-mozilla } sont informés d’éventuelles violations des <a href="{ $cpg }">Directives relatives à la participation communautaire</a>, ils sont tenus de signaler immédiatement l’incident via la ligne d’assistance téléphonique correspondante, même si le déclarant initial doit lui aussi effectuer un signalement. Les responsables et les personnes chargées de la communauté de { -brand-name-mozilla } ne sont pas autorisés à mener eux-mêmes une enquête sur les plaintes.
+reporting-if-a-mozilla-manager-or-email = Si un manager { -brand-name-mozilla } ou des responsables de la communauté sont informés d’éventuelles violations des <a href="{ $cpg }">Directives relatives à la participation communautaire</a>, ils sont tenus de signaler immédiatement l’incident par le biais de la ligne d’assistance téléphonique applicable, même si le déclarant initial doit également effectuer un signalement. Les managers de { -brand-name-mozilla } et les responsables de la communauté ne sont pas autorisés à mener eux-mêmes une enquête sur les plaintes.
 reporting-do-not-impose-your-own = Veillez à ne pas juger la réaction du déclarant. Concentrez-vous sur l’écoute.
 reporting-what-happens-after-the = Que se passe-t-il après le dépôt du signalement
 reporting-investigation = Investigation
