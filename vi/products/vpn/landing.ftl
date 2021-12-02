@@ -144,6 +144,8 @@ vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = Bạn sống ở nước nào?
 vpn-landing-invite-language-label = Chọn ngôn ngữ chính của bạn.
 vpn-landing-invite-platform-label = Bạn quan tâm đến những nền tảng nào?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
