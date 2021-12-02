@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Unite a { -brand-name-firefox }
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = ¿Ya tenés una cuenta? <a { $fxa_attr }>Iniciá sesión</a> o<a { $accounts_attr }>conocé  más</a> sobre cómo unirte a { -brand-name-firefox }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Tu navegador privado con protección contra rastreo automática y bloqueo de publicidad.
