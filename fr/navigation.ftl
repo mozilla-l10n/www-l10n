@@ -1,25 +1,27 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Télécharger { -brand-name-firefox }
 navigation-get-a-firefox-account = Créer un { -brand-name-firefox-account }
-navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser(capitalization: "uppercase") } pour ordinateur
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } pour ordinateur
 navigation-get-the-browser-that-respects = Obtenez le navigateur qui respecte votre vie privée automatiquement. Sous { -brand-name-windows }, { -brand-name-mac } ou { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser(capitalization: "uppercase") } pour mobile
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pour mobile
 navigation-take-speed-privacy-and = Emportez avec vous vitesse, confidentialité et tranquillité d’esprit. Sur { -brand-name-android } et { -brand-name-ios }.
 navigation-download-for-ios = Télécharger pour { -brand-name-ios }
 navigation-download-for-android = Télécharger pour { -brand-name-android }
 navigation-ios-support = Assistance pour { -brand-name-ios }
 navigation-android-support = Assistance pour { -brand-name-android }
-navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser(capitalization: "uppercase") } pour l’entreprise
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } pour l’entreprise
 navigation-strap-on-your-goggles = Enfilez vos casques et entrez dans le Web immersif avec le { -brand-name-firefox-browser } pour la réalité virtuelle.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } pour { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Regardez des vidéos et naviguez sur Internet avec votre { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Depuis toujours, les navigateurs { -brand-name-firefox } mettent un point d’honneur à respecter votre vie privée.
 navigation-take-the-passwords-youve = Emportez partout avec vous les mots de passe que vous avez enregistrés dans { -brand-name-firefox }.
+
 # Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox }, c’est toute une gamme de produits conçus pour garantir votre sécurité et votre productivité en ligne.
+
 navigation-join-firefox = Rejoindre { -brand-name-firefox }
 navigation-access-all-of-firefox = Accédez à tout { -brand-name-firefox } avec un seul identifiant et profitez de toutes les fonctionnalités de nos produits.
 navigation-meet-the-firefox-family = Découvrez la gamme de produits { -brand-name-firefox }
@@ -37,20 +39,30 @@ navigation-get-firefox-focus = Installer { -brand-name-firefox-focus }
 navigation-android-extensions = Extensions { -brand-name-android }
 navigation-your-firefox-account = Votre { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Profitez au mieux de l’expérience { -brand-name-firefox }, sur tous vos appareils.
+
 # Outdated string
 navigation-learn-how-to-customize = Découvrez comment personnaliser le fonctionnement de { -brand-name-firefox }.
+
 navigation-explore-the-immersive = Explorez le Web immersif avec votre casque de réalité virtuelle.
+
 # Outdated string
 navigation-experience-augmented = Essayez la réalité augmentée et virtuelle avec { -brand-name-firefox }.
+
 navigation-get-together = Rencontrez-vous dans la réalité virtuelle avec cet espace social en ligne.
+
 # Outdated string
 navigation-meet-people-in-experimental = Rencontrez des personnes dans des salons de discussion expérimentaux en réalité mixte avec { -brand-name-firefox }.
+
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
+
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } apporte la réalité virtuelle et augmentée sur le Web ouvert.
+
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } apporte la réalité augmentée et virtuelle à { -brand-name-firefox }.
+
 navigation-firefox-built-just-for = { -brand-name-firefox }, conçu spécialement pour les développeurs.
 navigation-preview-the-latest-build = Découvrez en avant-première la plus récente version de { -brand-name-firefox } et aidez-nous à l’améliorer.
 navigation-firefox-playground = { -brand-name-firefox } Playground
@@ -74,10 +86,13 @@ navigation-security-tips = Conseils de sécurité
 navigation-share-large-files-safely = Partagez des fichiers volumineux en toute sécurité, avec des liens qui « s’autodétruisent ».
 navigation-save-quality-content = Enregistrez des contenus de qualité où que vous soyez. Enrichissez votre esprit en permanence.
 navigation-sign-up = Créer un compte
+
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn } : Rapide. Simple. Privé.
 navigation-protect-your-entire-device = Protégez l’ensemble de votre appareil et toutes ses applications. Masquez votre emplacement réel et connectez jusqu’à 5 appareils différents. Abonnez-vous maintenant.
+
 # Outdated string
 navigation-connected-and-protected = Connecté et protégé
+
 navigation-join = Rejoindre
 navigation-close-join-menu = Fermer le menu Rejoindre
 navigation-sign-in = Connexion
@@ -89,16 +104,23 @@ navigation-meet-the-technology-company = Découvrez l’entreprise tech qui plac
 navigation-new-features = Nouvelles fonctionnalités
 navigation-save-content-absorb-knowledge = Enregistrez des contenus. Augmentez vos connaissances.
 navigation-same-speed-and-safety = La vitesse et la sécurité que vous attendez, conçues particulièrement pour les entreprises.
+
 # Outdated string
 navigation-add-ons = Modules complémentaires
+
 navigation-projects = Projets
 navigation-close-projects-menu = Fermer le menu Projets
 navigation-donate-your-voice-to = Donnez de votre voix pour que la reconnaissance vocale soit ouverte à tous.
 navigation-machine-learning = Apprentissage automatique
+
 # Outdated string
 navigation-web-of-things-iot = Internet des objets (IoT)
+
+navigation-help-make-deep-learning = Contribuez à l’implantation d’algorithmes d’apprentissage profond dans le monde open source.
+
 # Outdated string
 navigation-make-devices-connected = Rendez les appareils connectés à Internet plus sûrs, sécurisés et interopérables.
+
 navigation-developers = Développeurs
 navigation-close-developers-menu = Fermer le menu Développeurs
 navigation-test-soon-to-be-released = Testez les fonctionnalités sur le point d’être publiées en utilisant la préversion la plus stable.
@@ -115,14 +137,14 @@ navigation-press-center = Centre de presse
 navigation-contact = Contact
 navigation-careers = Emplois
 navigation-work-for-a-mission-driven = Travaillez pour une organisation qui se donne pour mission de concevoir des produits qui répondent à des vrais besoins.
-navigation-get-involved = S’impliquer
+navigation-get-involved = Contribuer
 navigation-join-the-fight-for-a = Aidez-nous à lutter pour un Internet en bonne santé.
 navigation-events = Événements
 navigation-donate = Faire un don
 navigation-your-right-to-security = Votre droit à la sécurité et à la vie privée sur Internet est fondamental, jamais facultatif.
-navigation-release-notes = Notes de version
+navigation-release-notes = Notes de mise à jour
 navigation-features = Fonctionnalités
-navigation-products = Logiciels
+navigation-products = Produits
 navigation-mozilla = { -brand-name-mozilla }
 navigation-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-mozilla-corporation = { -brand-name-mozilla-corporation }
