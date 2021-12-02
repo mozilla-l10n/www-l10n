@@ -1,18 +1,22 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+
 # HTML page title
 features-index-protect-your-privacy-and-browse = Protégez votre vie privée et naviguez plus rapidement grâce aux fonctionnalités de { -brand-name-firefox }
+
 # HTML page description
 features-index-youre-in-control-with-firefoxs = C’est vous qui contrôlez les options de { -brand-name-firefox } qui sont faciles à utiliser, protègent votre vie privée et accélèrent votre navigation.
+
 # Hero title
 features-index-firefox-features = Fonctionnalités de { -brand-name-firefox }
+
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox } est le navigateur rapide, léger et respectueux de la vie privée qui fonctionne sur tous vos appareils.
+
 features-index-add-powerful-functions = Ajoutez des fonctionnalités puissantes, utiles ou même amusantes à votre navigateur { -brand-name-firefox }.
 features-index-see-all = Voir toutes les extensions
 features-index-give-your-browser = Donnez à votre navigateur l’apparence que vous souhaitez avec des milliers de thèmes différents.
@@ -29,6 +33,7 @@ features-index-open-source-minds = Logiciel libre. Esprits libres.
 features-index-mozilla-creates = { -brand-name-mozilla } crée de puissantes technologies web pour tout le monde.
 features-index-see-what-makes-us-different = Voyez en quoi nous sommes différents
 features-index-by-non-profit-mozilla = Par une organisation à but non lucratif, { -brand-name-mozilla }
+features-index-by-not-for-profit-mozilla = Par l’organisation à but non lucratif, { -brand-name-mozilla }
 features-index-keep-corporate-power = Contrecarrez les plans des grandes entreprises
 features-index-independent-browser = { -brand-name-firefox } est le seul grand navigateur indépendant.
 features-index-on-a-mission = Nous avons pour mission de garder Internet ouvert et accessible à tous.
@@ -45,6 +50,11 @@ features-index-stack-up = Découvrez ce qui distingue { -brand-name-firefox } d�
 features-index-compare-browsers = Comparez les navigateurs
 features-index-see-themes = Voir les meilleurs thèmes
 features-index-download-latest = Télécharger la dernière version de { -brand-name-firefox }
+features-index-fingerprinter-blocking = Blocage des détecteurs d’empreinte numérique
+features-index-fingerprinting-is-a = La détection d’empreinte numérique est une forme de suivi en ligne plus invasive que le suivi ordinaire basé sur les cookies. C’est pour cette raison que { -brand-name-firefox-browser } la bloque.
+features-index-block-fingerprinters = Bloquer la détection d’empreinte numérique
 features-index-translate-the-web = Traduisez le Web
+features-index-translate-more-than = Traduisez à partir de plus de 100 langues vers votre langue directement dans le { -brand-name-firefox-browser }, plus facilement que jamais.
 features-index-translate-to-your = Traduisez dans votre langue
 features-index-picture-in-picture = Incrustation vidéo
+features-index-got-things-to-do = Vous avez des choses à faire et de vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }.
