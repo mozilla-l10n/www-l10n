@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Csatlakozzon a { -brand-name-fi
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Már van fiókja? <a { $fxa_attr }>Jelentkezzen be</a> vagy <a { $accounts_attr }>tudjon meg többet</a> a { -brand-name-firefox }hoz csatlakozásról.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = A dedikált adatvédelmi böngészője automatikus követés elleni védelemmel és reklámblokkolással.
