@@ -42,3 +42,4 @@ mobile-android-mozilla-exists-to = { -brand-name-mozilla } je tu proto, aby se i
 mobile-android-short-cut-the-internet = Dostaňte se tam rychleji díky { -brand-name-firefox(case: "gen") } pro { -brand-name-android(case: "acc") }
 mobile-android-see-all-your-open-tabs = Zobrazte si v prohlížeči { -brand-name-firefox } pro { -brand-name-android(case: "acc") } všechny otevřené panely, poslední vyhledávání a oblíbené weby na jednom místě.
 mobile-android-own-your-home = Vlastněte svou domovskou obrazovku
+mobile-android-get-to-the-parts = Dostaňte se rychleji do částí internetu, které vás zajímají. Nechte si zobrazovat všechny otevřené panely, poslední vyhledávání, záložky a oblíbené weby na jednom místě.
