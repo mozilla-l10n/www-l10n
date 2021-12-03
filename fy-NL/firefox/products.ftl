@@ -51,4 +51,4 @@ firefox-products-join-firefox-and-get-the-most = Doch mei mei { -brand-name-fire
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Hawwe jo al in account? <a { $fxa_attr }>Oanmelde</a> of <a { $accounts_attr }>mear ynfo</a> oer meidwaan mei { -brand-name-firefox }.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Jo spesjale privacybrowser mei advertinsjeblokkearring en automatyske befeiliging tsjin folgjen.
+firefox-products-your-dedicated-privacy = Jo spesjale privacybrowser mei automatyske advertinsjeblokkearring en befeiliging tsjin folgjen.
