@@ -51,4 +51,4 @@ firefox-products-join-firefox-and-get-the-most = Doe mee met { -brand-name-firef
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Hebt u al een account? <a { $fxa_attr }>Aanmelden</a> of <a { $accounts_attr }>meer info</a> over meedoen met { -brand-name-firefox }.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Uw speciale privacybrowser met automatische beveiliging tegen volgen en advertentieblokkering.
+firefox-products-your-dedicated-privacy = Uw speciale privacybrowser met automatische advertentieblokkering en beveiliging tegen volgen.
