@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Hent { -brand-name-firefox }
 navigation-get-a-firefox-account = Få en { -brand-name-firefox-account }
@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } til { -brand-name-fire-
 navigation-watch-videos-and-browse = Se videoer og surf på internettet med dit { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = { -brand-name-firefox }-browsere sætter beskyttelsen af dit privatliv i første række — og har altid gjort det.
 navigation-take-the-passwords-youve = Tag adgangskoderne, du har gemt i { -brand-name-firefox }, med dig overalt.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } er en hel familie af produkter, der er designet til at beskytte dig online.
 navigation-join-firefox = Slut dig til { -brand-name-firefox }
 navigation-access-all-of-firefox = Få adgang til alt { -brand-name-firefox } med et enkelt login — og få mere ud af alle vores produkter.
@@ -36,10 +37,17 @@ navigation-get-firefox-focus = Hent { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android }-udvidelser
 navigation-your-firefox-account = Din { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Få mest muligt ud af { -brand-name-firefox } - på alle dine enheder.
+# Outdated string
 navigation-learn-how-to-customize = Læs, hvordan du tilpasser { -brand-name-firefox }.
+navigation-explore-the-immersive = Udforsk det tredimensionelle web på dit virtual reality-headset.
+# Outdated string
 navigation-experience-augmented = Oplev augmented- og virtual reality med { -brand-name-firefox }.
+# Outdated string
 navigation-meet-people-in-experimental = Mød mennesker i eksperimentelle chatrum med mixed reality i { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed reality
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } tager { -brand-name-firefox } med ind i augmented- og virtual reality.
 navigation-firefox-built-just-for = { -brand-name-firefox }, bygget til udviklere.
 navigation-preview-the-latest-build = Få et smugkig på den nyeste version af { -brand-name-firefox }, og hjælp os med at gøre { -brand-name-firefox } bedre.
@@ -64,6 +72,8 @@ navigation-security-tips = Sikkerhedstips
 navigation-share-large-files-safely = Del store filer sikkert, med et link der ‘selvdestruerer’.
 navigation-save-quality-content = Gem indhold fra alle steder, og få adgang til det alle steder.
 navigation-sign-up = Tilmeld dig
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Hurtig. Enkel. Privat.
+# Outdated string
 navigation-connected-and-protected = Forbundet og beskyttet
 navigation-join = Vær med
 navigation-close-join-menu = Luk menuen Deltag
@@ -76,11 +86,14 @@ navigation-meet-the-technology-company = Mød teknologi-firmaet, der sætter men
 navigation-new-features = Nye funktioner
 navigation-save-content-absorb-knowledge = Gem indhold og bliv klogere.
 navigation-same-speed-and-safety = Samme hastighed og sikkerhed som altid - designet til virksomheder.
+# Outdated string
 navigation-add-ons = Tilføjelser
 navigation-projects = Projekter
 navigation-close-projects-menu = Luk menuen Projekter
 navigation-donate-your-voice-to = Bidrag med din stemme, og hjælp med at gøre talegenkendelse tilgængelig for alle.
+# Outdated string
 navigation-web-of-things-iot = Web of Things (IoT)
+# Outdated string
 navigation-make-devices-connected = Gør enheder, der er forbundet til internettet, sikre og kompatible.
 navigation-developers = Udviklere
 navigation-close-developers-menu = Luk udvikler-menuen

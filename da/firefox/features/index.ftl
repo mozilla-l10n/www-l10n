@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -52,3 +52,4 @@ features-index-block-fingerprinters = Bloker fingerprinters
 features-index-translate-the-web = Oversæt websider
 features-index-translate-more-than = Oversæt fra mere end 100 sprog til dit sprog direkte i din { -brand-name-firefox-browser } – lettere end nogensinde.
 features-index-translate-to-your = Oversæt til dit sprog
+features-index-picture-in-picture = Billede-i-billede
