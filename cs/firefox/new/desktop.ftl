@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,11 @@ firefox-desktop-download-blocks-social-trackers = Blokování sledovacích prvk�
 firefox-desktop-download-os-availability = Dostupnost pro více OS
 firefox-desktop-download-in-browser-screenshot = Nástroj pro vytváření snímků stránek
 firefox-desktop-download-primary-password = Hlavní heslo
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = Milujte svůj život online
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Je to váš internet. Vybarvěte si ho podle svých představ pomocí tisíců nástrojů, motivů vzhledu a rozšíření. { -brand-name-firefox } je originální alternativní prohlížeč, který dává přednost lidem před ziskem.
 # Obsolete string
 firefox-desktop-download-master-password = Hlavní heslo
 firefox-desktop-download-we-block-the-ad = My blokujeme sledující reklamy. Vy prohlížíte internet rychleji.
@@ -175,6 +180,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Používáte zastara
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Vaše stahování by mělo začít automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Zkuste to znova</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je víc než jenom prohlížeč.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Vaše stahování bylo přerušeno. Ale nic není ztraceno.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -24,6 +24,9 @@ firefox-products-see-all-browsers = Zobrazit všechny prohlížeče
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Brouzdejte, streamujte nebo pracujte na internetu díky serverům, které vám zajistí bezpečné připojení k internetu, umístěných ve více než 30 zemích.
 firefox-products-get-mozilla-vpn = Získejte { -brand-name-mozilla-vpn(case: "acc") }
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Chraňte svou skutečnou e-mailovou adresu, abyste měli svou doručenou poštu pod kontrolou.
+firefox-products-learn-more-about-relay = Zjistěte více o službě { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
@@ -47,3 +50,4 @@ firefox-products-join-firefox-and-get-the-most = Přihlaste se k { -brand-name-f
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Už máte účet? <a { $fxa_attr }>Přihlaste se</a> nebo <a { $accounts_attr }>zjistěte více</a> o připojení se do { -brand-name-firefox(case: "gen") }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }

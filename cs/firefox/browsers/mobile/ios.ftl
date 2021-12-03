@@ -28,6 +28,7 @@ mobile-ios-if-you-want = Když budete chtít, můžete snadno zvolit možnost p�
 mobile-ios-get-more-firefox = Zařaďte do svého života více { -brand-name-firefox(case: "gen") }
 mobile-ios-add-firefox-across-v2 = Přidejte si { -brand-name-firefox(case: "acc") } do všech svých zařízení a získejte bezpečné a plynulé surfování. Svá zařízení synchronizujte, abyste měli své oblíbené záložky, uložené přihlašovací údaje a historii prohlížení všude s sebou. Navíc si můžete mezi telefonem a počítačem posílat i otevřené panely, abyste mohli pokračovat tam, kde jste skončili.
 mobile-ios-get-to-your-go-to = Dostaňte se rychleji na svá oblíbená místa ve svém { -brand-name-iphone(case: "loc") } a { -brand-name-ipad(case: "loc") }.
+mobile-ios-see-your-open-tabs = Zobrazte si v { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } pro { -brand-name-ios(case: "acc") } všechny otevřené panely, poslední vyhledávání a oblíbené weby na jednom místě.
 mobile-ios-own-your-home = Vlastněte svou domovskou obrazovku
 mobile-ios-get-to-the-parts = Dostaňte se rychleji do částí internetu, které vás zajímají. Nechte si zobrazovat všechny otevřené panely, poslední vyhledávání, záložky a oblíbené weby na jednom místě.
 # Obsolete string
