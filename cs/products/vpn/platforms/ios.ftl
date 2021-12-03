@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
@@ -12,3 +12,4 @@ vpn-ios-page-description = Pořiďte si rychlé a snadné zabezpečení svého {
 vpn-ios-hero-headline = Chraňte se na internetu pomocí služby { -brand-name-mozilla-vpn } pro { -brand-name-ios(case: "acc") }
 vpn-ios-ability = Se službou { -brand-name-mozilla-vpn } se budete na internetu cítit v bezpečí před hackery a zvědavci – doma i na cestách. Za nízký měsíční poplatek bude na vašem { -brand-name-iphone(case: "loc") }, { -brand-name-ipad(case: "loc") } a většině dalších zařízení šifrovat osobní data prostřednictvím pokročilého protokolu { -brand-name-wireguard }®, takže budete moci streamovat pořady, hrát hry, nakupovat a žít si svůj každodenní online život s vědomím, že jste v bezpečí.
 vpn-ios-maker-of-firefox = Jakožto tvůrce webového prohlížeče { -brand-name-firefox } a jeden z nejdůvěryhodnějších bojovníků za zachování soukromí na internetu se { -brand-name-mozilla } zavazuje zajistit, abyste se při každém vstupu na internet cítili bezpečně a respektovaně.
+vpn-ios-wifi-copy = Používáte veřejnou wifi? Žádný problém. Díky službě { -brand-name-mozilla-vpn } si můžete klidně zkontrolovat svůj bankovní účet v kavárně, upravovat hesla na rohu ulice - v podstatě můžete bez obav dělat vše, co běžně děláte na { -brand-name-iphone(case: "loc") } nebo { -brand-name-ipad(case: "loc") }.
