@@ -33,3 +33,4 @@ vpn-ios-devices-copy = S jedním předplatným můžete službu { -brand-name-mo
 vpn-ios-speed-headline = Maximální rychlosti. Neomezená data.
 vpn-ios-speed-copy = Hrajte online hry, streamujte své oblíbené pořady a procházejte web pomocí superrychlého připojení. Se službou { -brand-name-mozilla-vpn } si nemusíte dělat starosti kvůli šířce pásma – je neomezená.
 vpn-ios-log-headline = Vaše data zůstávají soukromá. Tečka.
+vpn-ios-log-copy = Někteří poskytovatelé sítí VPN si na svých serverech zaznamenávají vaši aktivitu. Nejenže vás služba { -brand-name-mozilla-vpn } na internetu nesleduje – my se důrazně stavíme proti tomu. Je to velká část toho, co jako společnost reprezentujeme.
