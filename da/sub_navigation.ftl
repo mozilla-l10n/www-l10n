@@ -39,3 +39,5 @@ sub-navigation-ad-tracker-blocking = Blokering af annoncesporing
 sub-navigation-private-browsing = Privat browsing
 sub-navigation-what-is-a-browser = Hvad er en browser?
 sub-navigation-privacy = Privatliv
+sub-navigation-our-products = Vores produkter
+sub-navigation-safe-passwords = Sikre adgangskoder
