@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = 加入 { -brand-name-firefox }�
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = 已經有帳號了嗎？<a { $fxa_attr }>在此登入</a>或<a { $accounts_attr }>在此了解</a>加入 { -brand-name-firefox } 的更多資訊。
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = 您專門的隱私保護瀏覽器，自動開啟追蹤保護與廣告封鎖功能。
