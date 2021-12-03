@@ -14,3 +14,5 @@ vpn-ios-ability = Se službou { -brand-name-mozilla-vpn } se budete na internetu
 vpn-ios-maker-of-firefox = Jakožto tvůrce webového prohlížeče { -brand-name-firefox } a jeden z nejdůvěryhodnějších bojovníků za zachování soukromí na internetu se { -brand-name-mozilla } zavazuje zajistit, abyste se při každém vstupu na internet cítili bezpečně a respektovaně.
 vpn-ios-wifi-headline = Zůstaňte na internetu v bezpečí, i když jste na cestách
 vpn-ios-wifi-copy = Používáte veřejnou wifi? Žádný problém. Díky službě { -brand-name-mozilla-vpn } si můžete klidně zkontrolovat svůj bankovní účet v kavárně, upravovat hesla na rohu ulice – v podstatě můžete bez obav dělat vše, co běžně děláte na { -brand-name-iphone(case: "loc") } nebo { -brand-name-ipad(case: "loc") }.
+vpn-ios-about-headline = Proč nám věřit?
+vpn-ios-about-copy = Možná nás znáte díky našemu webovému prohlížeči { -brand-name-firefox } – ale vedle toho { -brand-name-mozilla } již od roku 1998 bojuje za vaše práva na internetu – to je naše hlavní mise. Jsme posedlí snahou zajistit, aby internet zůstal otevřený a svobodný, při současném respektování práva každého na soukromí a bezpečnost.
