@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Εγγραφείτε στο { -
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Έχετε ήδη λογαριασμό; <a { $fxa_attr }>Συνδεθείτε</a> ή <a { $accounts_attr }>μάθετε περισσότερα</a> σχετικά με τη συμμετοχή στο { -brand-name-firefox }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Το ιδιωτικό σας πρόγραμμα περιήγησης με αυτόματη προστασία από καταγραφή και φραγή διαφημίσεων.
