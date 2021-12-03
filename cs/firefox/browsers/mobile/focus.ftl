@@ -34,5 +34,6 @@ mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } blokuje reklamy, které
 mobile-focus-see-it-all = Vše uvidíte rychleji
 # Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } odstraňuje reklamy a sledovací prvky, takže zobrazované stránky vyžadují méně dat a načítají se tak mnohem rychleji.
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } odstraňuje reklamy a zapíná blokování reklam, takže zobrazované stránky vyžadují méně dat a načítají se mnohem rychleji. Navíc si na domovskou obrazovku můžete připnout až čtyři zkratky a dostat se tak na své oblíbené stránky ještě rychleji, aniž byste museli cokoli psát.
 mobile-focus-made-by-mozilla = Od { -brand-name-mozilla(case: "gen") }
 mobile-focus-we-believe-everyone = Věříme, že by každý měl mít kontrolu nad svým online životem. Za to bojujeme již od roku 1998.
