@@ -34,7 +34,7 @@ vpn-subnav-platform-desktop = Počítač
 vpn-subnav-platform-ios = { -brand-name-ios }
 vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
-vpn-subnav-platform-mobile = Mobil
+vpn-subnav-platform-mobile = Mobilné zariadenia
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-platforms-shared-trust-partner-headline = O našom partnerovi
 # Variables:
