@@ -16,3 +16,5 @@ vpn-ios-wifi-headline = Zůstaňte na internetu v bezpečí, i když jste na ces
 vpn-ios-wifi-copy = Používáte veřejnou wifi? Žádný problém. Díky službě { -brand-name-mozilla-vpn } si můžete klidně zkontrolovat svůj bankovní účet v kavárně, upravovat hesla na rohu ulice – v podstatě můžete bez obav dělat vše, co běžně děláte na { -brand-name-iphone(case: "loc") } nebo { -brand-name-ipad(case: "loc") }.
 vpn-ios-about-headline = Proč nám věřit?
 vpn-ios-about-copy = Možná nás znáte díky našemu webovému prohlížeči { -brand-name-firefox } – ale vedle toho { -brand-name-mozilla } již od roku 1998 bojuje za vaše práva na internetu – to je naše hlavní mise. Jsme posedlí snahou zajistit, aby internet zůstal otevřený a svobodný, při současném respektování práva každého na soukromí a bezpečnost.
+vpn-ios-privacy-headline = Připojení na jedno klepnutí
+vpn-ios-privacy-copy = Používání služby { -brand-name-mozilla-vpn } je velmi snadné. Klepněte na tlačítko a vaše připojení se zašifruje pomocí pokročilého protokolu { -brand-name-wireguard }® a IP adresa na vašem { -brand-name-iphone(case: "loc") } nebo { -brand-name-ipad(case: "loc") } se rozostří.
