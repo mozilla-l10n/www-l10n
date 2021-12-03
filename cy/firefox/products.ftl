@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Ymunwch â { -brand-name-firefo
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Eisoes â chyfrif? <a { $fxa_attr }>Mewngofnodwch</a> neu <a { $accounts_attr }> dysgu rhagor</a> am ymuno â { -brand-name-firefox }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Eich porwr preifatrwydd pwrpasol gydag diogelwch rhag tracio awtomatig a rhwystro hysbysebion.
