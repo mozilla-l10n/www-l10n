@@ -60,3 +60,5 @@ firefox-products-join-firefox-and-get-the-most = { -brand-name-firefox } के 
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = पहले से ही एक एकाउंट है? <a { $fxa_attr }>साइन इन करें</a> या { -brand-name-firefox } से जुड़ने के बारे में <a { $accounts_attr }>और जानें</a>
 
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = ऑटोमेटिक ट्रैकिंग सुरक्षा और विज्ञापन ब्लॉकिंग वाला आपका अपना प्राइवेसी ब्राउज़र।
