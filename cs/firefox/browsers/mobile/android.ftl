@@ -41,3 +41,4 @@ mobile-android-mozilla-exists-to = { -brand-name-mozilla } je tu proto, aby se i
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Dostaňte se tam rychleji díky { -brand-name-firefox(case: "gen") } pro { -brand-name-android(case: "acc") }
 mobile-android-see-all-your-open-tabs = Všechny otevřené panely, poslední vyhledávání a oblíbené weby máte v prohlížeči { -brand-name-firefox } pro { -brand-name-android(case: "acc") } na jednom místě.
+mobile-android-own-your-home = Vlastněte svou domovskou obrazovku
