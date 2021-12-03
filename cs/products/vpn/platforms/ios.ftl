@@ -27,3 +27,7 @@ vpn-ios-servers-copy = Nakupujte ze Švýcarska. Streamujte z Kanady. Surfujte z
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Získejte přístup pro { $devices } zařízení
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = S jedním předplatným můžete službu { -brand-name-mozilla-vpn } využívat až na { $devices } různých zařízeních se systémy { -brand-name-ios } pro { -brand-name-iphone(case: "acc") } a { -brand-name-ipad(case: "acc") }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
+vpn-ios-speed-headline = Maximální rychlosti. Neomezená data.
