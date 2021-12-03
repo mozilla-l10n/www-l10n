@@ -50,3 +50,4 @@ firefox-products-join-firefox-and-get-the-most = 加入 { -brand-name-firefox } 
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = 已有账户？<a { $fxa_attr }>在此登录</a>或<a { $accounts_attr }>详细了解</a>关于加入 { -brand-name-firefox } 的行列。
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
