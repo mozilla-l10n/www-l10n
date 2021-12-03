@@ -40,5 +40,5 @@ mobile-android-about-mozilla = O { -brand-name-mozilla(case: "loc") }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } je tu proto, aby se internet stal veřejným zdrojem přístupným všem, protože věříme, že otevřený a svobodný je lepší než uzavřený a regulovaný. Vytváříme produkty jako { -brand-name-firefox } a { -brand-name-pocket }, které podporují možnost volby, transparentnost a plnou kontrolu.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Dostaňte se tam rychleji díky { -brand-name-firefox(case: "gen") } pro { -brand-name-android(case: "acc") }
-mobile-android-see-all-your-open-tabs = Všechny otevřené panely, poslední vyhledávání a oblíbené weby máte v prohlížeči { -brand-name-firefox } pro { -brand-name-android(case: "acc") } na jednom místě.
+mobile-android-see-all-your-open-tabs = Zobrazte si v prohlížeči { -brand-name-firefox } pro { -brand-name-android(case: "acc") } všechny otevřené panely, poslední vyhledávání a oblíbené weby na jednom místě.
 mobile-android-own-your-home = Vlastněte svou domovskou obrazovku
