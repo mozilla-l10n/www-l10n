@@ -9,8 +9,10 @@ banner-fundraising-title-v2 = Pomozte o letošních svátcích { -brand-name-moz
 banner-fundraising-title-giving-day = Pomozte o tomto Štědrém úterý { -brand-name-mozilla(case: "dat") } bojovat za lepší internet.
 # Outdated string
 banner-fundraising-title = O budoucnosti se rozhoduje online. Pomozte { -brand-name-mozilla(case: "dat") } bojovat za web pro nás všechny.
+banner-fundraising-body-v2 = Jsme hrdí na to, že jsme nezisková organizace, která se snaží udržet web zdravý. Vaše příspěvky pomáhají budovat bezpečný a otevřený internet.
 # Outdated string
 banner-fundraising-body = Naše osobní údaje se shromažďují pokaždé, když přistupujeme na web, a není snadné zjistit, co se s nimi stane. Dezinformace nám ztěžují hledání pravdy. Zařízení připojená k webu jsou tlačena na trh bez splnění minimálních bezpečnostních standardů. Nezisková organizace { -brand-name-mozilla-foundation } bojuje za to, aby byl internet bezpečný, otevřený a přístupný všem. <strong> Darujete dnes? </strong>
+banner-fundraising-body-extra = Můžete darovat ještě dnes?
 banner-fundraising-monthly = Měsíčně
 banner-fundraising-one-time = Jednorázově
 banner-fundraising-donate = Darovat
