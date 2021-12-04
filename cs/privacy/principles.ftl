@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/principles/
 
 # HTML page title and main title
-privacy-principles-data-privacy-principles = Zásady ochrany osobních údajů
+privacy-principles-data-privacy-principles = Principy ochrany osobních údajů
 # HTML page description
 privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } je otevřený projekt s vlastní misí zlepšit vaše možnosti na internetu. Ta je hnací silou za našimi postoji k soukromí.
 # Variables:
@@ -24,5 +24,5 @@ privacy-principles-limited-data = Omezení údajů
 privacy-principles-collect-what-we-need = Sbíráme jen potřebné, anonymizujeme, kdekoliv je to možné, a mažeme ty údaje, které již nejsou nadále potřeba.
 privacy-principles-sensible-settings = Rozumná nastavení
 privacy-principles-design-for-a-thoughtful = Navržená s ohledem na důslednou rovnováhu mezi bezpečností a uživatelským komfortem.
-privacy-principles-defense-in-depth = Neproniknutelná ochrana
-privacy-principles-maintain-multi-layered = Několikaúrovňové bezpečnostní kontroly, které lze co možná nejvíce ověřit.
+privacy-principles-defense-in-depth = Důkladná ochrana
+privacy-principles-maintain-multi-layered = Zachováváme několikaúrovňové bezpečnostní kontroly a postupy, z nichž mnohé jsou veřejně ověřitelné.
