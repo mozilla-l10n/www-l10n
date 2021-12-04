@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
@@ -38,6 +38,12 @@ vpn-ip-address-you-dont-need = Svou IP adresu skrývat nemusíte, ale v někter�
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Existují také situační důvody pro skrytí IP adresy. Můžete ji chtít skrýt, když cestujete. Síť VPN vám také poskytne <a href="{ $url }">větší soukromí</a> při připojování k síti Wi-Fi za účelem streamování a nakupování na cestách po světě.
 vpn-ip-address-how-do-you = Jak ji skryjete?
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is-v2 = Síť VPN představuje způsob, jak skrýt svou IP adresu. <a href="{ $vpn }">Při použití sítě VPN</a> bude vaše vnější IP adresa pocházet z vnější IP adresy serveru sítě VPN, nikoli z vnější IP adresy vašeho umístění. Pokud se tedy váš připojovací server sítě VPN nachází v Kalifornii, bude vaše vnější IP vypadat, jako by byla připojena z Kalifornie, a to bez ohledu na to, kde se ve skutečnosti nacházíte. Vaše online aktivity jsou navíc serveru sítě VPN odesílány prostřednictvím šifrovaného a zabezpečeného připojení, což zvyšuje vaši bezpečnost a soukromí. Služba <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je jedním ze způsobů, jak skrýt svou IP adresu. Neuchováváme si záznamy o vaší síťové aktivitě a nespolupracujeme s třetími stranami, které vytvářejí profily toho, co na internetu děláte. Nabízíme plnou ochranu až pro pět zařízení pomocí serverů ve více než { $countries } zemích, přičemž připojit se můžete odkudkoli a kamkoli.
+# Obsolete string
 # Variables
 #   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
