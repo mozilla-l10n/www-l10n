@@ -10,4 +10,5 @@ firefox-enterprise-get-unmatched-data-protection = Profitescha dad ina protecziu
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Survista
 firefox-enterprise-downloads = Telechargiadas
+firefox-enterprise-get-firefox-for-your-enterprise = Installescha { -brand-name-firefox } per tia interpresa
 firefox-enterprise-macos = { -brand-name-mac }
