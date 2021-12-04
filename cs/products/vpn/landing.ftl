@@ -123,6 +123,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (pouze { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Jaké jsou u služby { -brand-name-mozilla-vpn } zásady vracení peněz?
 vpn-landing-faq-refund-question-desc-v2 = Když si poprvé předplatíte službu { -brand-name-mozilla-vpn } prostřednictvím webových stránek { -brand-name-mozilla(case: "gen") } a během prvních 30 dnů zrušíte svůj účet, můžete požádat o vrácení peněz a { -brand-name-mozilla } vám vrátí peníze za první období předplatného.
+vpn-landing-faq-refund-question-additional-desc = Pokud si předplatné zakoupíte prostřednictvím nákupu v aplikaci v obchodě { -brand-name-apple } { -brand-name-app-store } nebo { -brand-name-google-play }, řídí se vaše platba obchodními podmínkami obchodu { -brand-name-app-store }. Veškeré dotazy týkající se vyúčtování a vrácení peněz za takové nákupy musíte směřovat na společnost { -brand-name-apple }, případně { -brand-name-google }.
 # Outdated string
 vpn-landing-faq-refund-question-desc = O vrácení peněz můžete požádat do 30 dnů od zakoupení předplatného. Kontaktujte nás nebo vytvořte žádost o vrácení peněz přímo v aplikaci { -brand-name-mozilla-vpn } kliknutím na tlačítko „Získat pomoc“ v nastavení.
 vpn-landing-faq-manage-subscription-question-heading = Jak mohu spravovat své předplatné?
@@ -143,6 +144,7 @@ vpn-landing-invite-email-placeholder = vase-adresa@example.com
 vpn-landing-invite-country-label = V jaké zemi žijete?
 vpn-landing-invite-language-label = Vyberte svůj preferovaný jazyk.
 vpn-landing-invite-platform-label = O které platformy máte zájem?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
 # Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
