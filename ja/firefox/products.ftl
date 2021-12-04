@@ -60,3 +60,5 @@ firefox-products-join-firefox-and-get-the-most = { -brand-name-firefox } に登�
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = 既にアカウントをお持ちの場合:<a { $fxa_attr }>ログイン</a>または { -brand-name-firefox } への登録の<a { $accounts_attr }>詳細を確認</a>
 
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = 自動トラッキング防止機能と広告ブロック機能を備えたプライバシー第一のブラウザーです。
