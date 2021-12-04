@@ -15,7 +15,7 @@ privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Požadavek na zpř
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/
 privacy-index-for-product-support-requests = S požadavky na uživatelskou podporu se prosím <a href="{ $sumo }">obracejte na naše fórum</a>.
-privacy-index-data-privacy-principles = Zásady ochrany osobních údajů
+privacy-index-data-privacy-principles = Principy ochrany osobních údajů
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
