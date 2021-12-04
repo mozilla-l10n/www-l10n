@@ -8,7 +8,7 @@
 # HTML page title and main title
 privacy-principles-data-privacy-principles = Principy ochrany osobních údajů
 # HTML page description
-privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } je otevřený projekt s vlastní misí zlepšit vaše možnosti na internetu. Ta je hnací silou za našimi postoji k soukromí.
+privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } je otevřený projekt s vlastní misí zlepšit práci s internetem. To je hnací silou našich postupů pro ochranu osobních údajů.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
 privacy-principles-the-following-five-principles = Následujících pět principů vychází z <a href="{ $link }">Manifestu { -brand-name-mozilla(case: "gen") }</a> a říkají, jak:
