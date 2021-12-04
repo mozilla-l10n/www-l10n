@@ -64,6 +64,9 @@ vpn-landing-faq-protected-question-heading = Jak je chráněno mé soukromí?
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = Váš síťový provoz je šifrován protokolem <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®, čímž jsou chráněny všechny vaše soukromé informace. V porovnání se stávajícími protokoly pro sítě VPN se odlehčený kód protokolu { -brand-name-wireguard } snáze kontroluje a audituje bezpečnostními analytiky, což z něj činí bezpečnější alternativu pro sítě VPN. Vaše online aktivity navíc zůstanou anonymní, protože nikdy neprotokolujeme, nesledujeme ani nesdílíme vaše síťová data.
 vpn-landing-faq-competition-question-heading = Jak si { -brand-name-mozilla-vpn } vede ve srovnání s konkurencí?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Bezplatné sítě VPN se sice zdají být atraktivní, nezavazují se však k ochraně soukromí tak jako { -brand-name-mozilla-vpn } a mohou prodávat nebo uchovávat vaše údaje. Ostatní sítě VPN nemají více než dvacetileté <a href="{ $url }">výsledky</a> společnosti { -brand-name-mozilla } v oblasti vytváření produktů, které staví lidi a soukromí na první místo.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
@@ -75,6 +78,9 @@ vpn-landing-faq-compatibility-question-heading = S jakými zařízeními je { -b
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je kompatibilní s <a href="{ $mobile }">mobily</a>, tablety a <a href="{ $desktop }">počítači</a> se systémy:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } je kompatibilní se systémy:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (pouze 64bitová verze)
 # Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
