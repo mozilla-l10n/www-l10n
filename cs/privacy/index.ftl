@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -15,7 +15,7 @@ privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Požadavek na zpř
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/
 privacy-index-for-product-support-requests = S požadavky na uživatelskou podporu se prosím <a href="{ $sumo }">obracejte na naše fórum</a>.
-privacy-index-data-privacy-principles = Zásady ochrany soukromých dat
+privacy-index-data-privacy-principles = Zásady ochrany osobních údajů
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
@@ -26,7 +26,7 @@ privacy-index-get-involved = Zapojte se
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Jako pro každý open source projekt, tak i pro { -brand-name-mozilla(case: "acc") } jsem otevřenost a transparence jedněmi ze základních principů. Naše kódy jsou dostupné a auditovatelné. Postupy naší práce jsou otevřené. Náš pololetní <a href="{ $report }">Transparency Report</a> demonstruje naše odhodlání a oddanost těmto principům.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Pro hodnocení a návrh změn našich zásad ochrany osobních údajů <a href="{ $group }"> se přihlaste do skupiny { -brand-name-mozilla } governance</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/

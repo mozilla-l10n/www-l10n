@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -50,17 +50,19 @@ vpn-landing-faq-uses-encrypt = Šifruje přenosy mezi vámi a vaším poskytovat
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Podívejte se na <a href="{ $url }">pět příkladů z reálného života</a>, kdy byste ve svém zařízení měli mít síť VPN.
 vpn-landing-faq-info-question-heading = Jaké informace si { -brand-name-mozilla-vpn } uchovává?
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = Žádnou vaši síťovou aktivitu neprotokolujeme, nesledujeme ani nesdílíme. Přísně dodržujeme <a href="{ $url }">principy ochrany osobních údajů</a> společnosti { -brand-name-mozilla } a shromažďujeme pouze data potřebná k udržení funkčnosti sítě VPN a k postupnému vylepšování produktu.
+vpn-landing-faq-info-question-desc = Žádnou vaši síťovou aktivitu neprotokolujeme, nesledujeme ani nesdílíme. Přísně dodržujeme <a href="{ $url }">zásady ochrany osobních údajů</a> společnosti { -brand-name-mozilla } a shromažďujeme pouze data potřebná k udržení funkčnosti sítě VPN a k postupnému vylepšování produktu.
 vpn-landing-faq-protected-question-heading = Jak je chráněno mé soukromí?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = Váš síťový provoz je šifrován protokolem <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®, čímž jsou chráněny všechny vaše soukromé informace. V porovnání se stávajícími protokoly pro sítě VPN se odlehčený kód protokolu { -brand-name-wireguard } snáze kontroluje a audituje bezpečnostními analytiky, což z něj činí bezpečnější alternativu pro sítě VPN. Vaše online aktivity navíc zůstanou anonymní, protože nikdy neprotokolujeme, nesledujeme ani nesdílíme vaše síťová data.
 vpn-landing-faq-competition-question-heading = Jak si { -brand-name-mozilla-vpn } vede ve srovnání s konkurencí?
+# Obsolete string
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/en-US/about/history/
+#   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Bezplatné sítě VPN se sice zdají být atraktivní, nezavazují se však k ochraně soukromí tak jako { -brand-name-mozilla-vpn } a mohou prodávat nebo uchovávat vaše údaje. Ostatní placené sítě VPN nemají více než dvacetileté <a href="{ $url }">výsledky</a> společnosti { -brand-name-mozilla } v oblasti vytváření produktů, které staví lidi a soukromí na první místo.
 vpn-landing-faq-compatibility-question-heading = S jakými zařízeními je { -brand-name-mozilla-vpn } kompatibilní?
 # Variables:
@@ -69,11 +71,10 @@ vpn-landing-faq-compatibility-question-heading = S jakými zařízeními je { -b
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je kompatibilní s <a href="{ $mobile }">mobily</a>, tablety a <a href="{ $desktop }">počítači</a> se systémy:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } je kompatibilní se systémy:
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (pouze 64bitová verze)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (pouze 64bitová verze)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (verze 10.14 a novější)
@@ -111,14 +112,13 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (pouze { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Jaké jsou u služby { -brand-name-mozilla-vpn } zásady vracení peněz?
+# Outdated string
 vpn-landing-faq-refund-question-desc = O vrácení peněz můžete požádat do 30 dnů od zakoupení předplatného. Kontaktujte nás nebo vytvořte žádost o vrácení peněz přímo v aplikaci { -brand-name-mozilla-vpn } kliknutím na tlačítko „Získat pomoc“ v nastavení.
 vpn-landing-faq-manage-subscription-question-heading = Jak mohu spravovat své předplatné?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Pokud již máte službu { -brand-name-mozilla-vpn } předplacenou, můžete kdykoli změnit svůj plán nebo <a href="{ $url }">spravovat své předplatné</a>.
 vpn-landing-faq-link = Další časté dotazy
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Ajaj! Vypadá to, že předplatné ještě nemáte.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
@@ -132,6 +132,7 @@ vpn-landing-invite-email-placeholder = vase-adresa@example.com
 vpn-landing-invite-country-label = V jaké zemi žijete?
 vpn-landing-invite-language-label = Vyberte svůj preferovaný jazyk.
 vpn-landing-invite-platform-label = O které platformy máte zájem?
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
