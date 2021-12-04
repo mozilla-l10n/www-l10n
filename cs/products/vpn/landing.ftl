@@ -53,7 +53,7 @@ vpn-landing-faq-info-question-heading = Jaké informace si { -brand-name-mozilla
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = Žádnou vaši síťovou aktivitu neprotokolujeme, nesledujeme ani nesdílíme. Přísně dodržujeme <a href="{ $url }">zásady ochrany osobních údajů</a> společnosti { -brand-name-mozilla } a shromažďujeme pouze data potřebná k udržení funkčnosti sítě VPN a k postupnému vylepšování produktu.
+vpn-landing-faq-info-question-desc = Žádnou vaši síťovou aktivitu neprotokolujeme, nesledujeme ani nesdílíme. Přísně dodržujeme <a href="{ $url }">principy ochrany osobních údajů</a> společnosti { -brand-name-mozilla } a shromažďujeme pouze údaje potřebné k udržení funkčnosti sítě VPN a k postupnému vylepšování produktu.
 vpn-landing-faq-protected-question-heading = Jak je chráněno mé soukromí?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
