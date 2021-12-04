@@ -14,3 +14,7 @@ vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Začněte chránit svou identitu ještě dnes
 vpn-resource-center-obsessed-with = Posedlí vaším soukromím již od roku 1998
 vpn-resource-center-get-mozilla-vpn = Získat službu { -brand-name-mozilla-vpn }
+vpn-resource-center-was-this-article = Byl tento článek užitečný?
+vpn-resource-center-article-helpful = Článek byl užitečný
+vpn-resource-center-article-not-helpful = Článek nebyl užitečný
+vpn-resource-center-related-posts = Podobné příspěvky
