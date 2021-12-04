@@ -50,6 +50,10 @@ vpn-landing-faq-uses-encrypt = Šifruje přenosy mezi vámi a vaším poskytovat
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Podívejte se na <a href="{ $url }">pět příkladů z reálného života</a>, kdy byste ve svém zařízení měli mít síť VPN.
 vpn-landing-faq-info-question-heading = Jaké informace si { -brand-name-mozilla-vpn } uchovává?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Přísně dodržujeme <a href="{ $principles }">principy ochrany osobních údajů</a> společnosti { -brand-name-mozilla } a shromažďujeme údaje potřebné k udržení funkčnosti sítě VPN a k postupnému vylepšování produktu. V naší mobilní aplikaci také sledujeme údaje o kampaních a doporučeních, abychom pomohli { -brand-name-mozilla(case: "dat") } porozumět účinnosti našich marketingových kampaní. Více informací najdete v našich <a href="{ $notice }">Oznámení o ochraně osobních údajů</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
