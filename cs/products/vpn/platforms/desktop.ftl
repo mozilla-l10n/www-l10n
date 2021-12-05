@@ -10,3 +10,6 @@ vpn-desktop-page-title = { -brand-name-mozilla-vpn } pro počítače (PC a noteb
 vpn-desktop-page-description = Získejte rychlé a snadné zabezpečení stolního a přenosného počítače prostřednictvím { -brand-name-mozilla(case: "gen") }, jedné z nejdůvěryhodnějších značek na poli technologií.
 # Desktop strings
 vpn-desktop-hero-headline = Zabezpečte své připojení k internetu pomocí služby { -brand-name-mozilla-vpn } pro počítače
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-ability = Služba { -brand-name-mozilla-vpn } vám umožňuje se připojit bez obav a při surfování chránit své osobní údaje před zvědavci a zloději dat. { -brand-name-mozilla-vpn } používá pokročilý protokol { -brand-name-wireguard }® k šifrování osobních dat na vašem notebooku nebo stolním počítači – až pro { $devices } zařízení. Streamujte pořady, hrajte hry, nakupujte a žijte si svůj každodenní život online s vědomím, že jste v bezpečí.
