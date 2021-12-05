@@ -31,3 +31,6 @@ vpn-desktop-servers-copy = Brouzdejte z Brazílie. Hrajte hry z Japonska. Stream
 vpn-desktop-devices-headline = Chraňte až { $devices } zařízení
 vpn-desktop-devices-copy = Předplatné vám zajistí neomezený přístup k naší zabezpečené službě VPN v chytrém telefonu, tabletu a počítači se systémy { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
 vpn-desktop-speed-headline = Ohromná rychlost, žádná omezení
+vpn-desktop-speed-copy = Streamujte videa, hrajte hry, nakupujte a brouzdejte bleskovou rychlostí. { -brand-name-mozilla-vpn } vám neomezí šířku pásma ani nezpomalí chytrý telefon.
+vpn-desktop-log-headline = Vaše soukromí vždy na prvním místě
+vpn-desktop-log-copy = V { -brand-name-mozilla(case: "loc") } neshromažďujeme žádné údaje o tom, kdo jste, ani si nezaznamenáváme vaši aktivitu na internetu – ani prostřednictvím naší sítě VPN, ani prostřednictvím jiných našich produktů. Ochrana vašeho soukromí je základem naší mise.
