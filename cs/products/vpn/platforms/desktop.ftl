@@ -19,3 +19,5 @@ vpn-desktop-wifi-copy = Naše VPN chrání vaše internetové připojení před 
 vpn-desktop-about-headline = O službě { -brand-name-mozilla }
 vpn-desktop-about-copy = { -brand-name-mozilla }, známá především díky { -brand-name-firefox-browser(case: "dat", capitalize: "lower") }, je celosvětová komunita uživatelů, přispěvatelů a vývojářů, kteří se zasazují o to, aby sílu internetu měli ve svých rukou uživatelé. Založeni jsme byli v roce 1998 a patříme k průkopníkům svobodného a otevřeného webu – a naší misí je, aby to tak zůstalo.
 vpn-desktop-privacy-headline = Soukromí na jedno klepnutí
+vpn-desktop-privacy-copy = Aplikace služby { -brand-name-mozilla-vpn } v mobilním telefonu nebo tabletu šifruje vaše internetové připojení a skrývá IP adresu za použití pokročilého protokolu { -brand-name-wireguard }®.
+vpn-desktop-servers-headline = Připojte se k serverům z celého světa
