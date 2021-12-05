@@ -26,3 +26,8 @@ vpn-desktop-servers-headline = Připojte se k serverům z celého světa
 vpn-desktop-servers-copy-updated = Brouzdejte z Brazílie. Hrajte hry z Japonska. Streamujte z Mexika. { -brand-name-mozilla-vpn } vám umožní změnit polohu vašeho telefonu nebo počítače na jeden ze { $servers } serverů.
 # Obsolete string
 vpn-desktop-servers-copy = Brouzdejte z Brazílie. Hrajte hry z Japonska. Streamujte z Mexika. { -brand-name-mozilla-vpn } vám umožní změnit polohu vašeho telefonu nebo počítače na jednu ze { $servers }.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = Chraňte až { $devices } zařízení
+vpn-desktop-devices-copy = Předplatné vám zajistí neomezený přístup k naší zabezpečené službě VPN v chytrém telefonu, tabletu a počítači se systémy { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
+vpn-desktop-speed-headline = Ohromná rychlost, žádná omezení
