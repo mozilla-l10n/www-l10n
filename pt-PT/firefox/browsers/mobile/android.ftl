@@ -32,3 +32,6 @@ mobile-android-supercharge-firefox-with = Complemente o { -brand-name-firefox } 
 mobile-android-addons-are-like = Os extras são como pequenas ferramentas poderosas que pode adicionar ao seu navegador para fazer coisas como aumentar as configurações de privacidade predefinidas e personalizar a sua experiência.
 mobile-android-pick-up-where = Retome onde ficou
 mobile-android-go-from-your = Alterne do seu telefone para o seu computador, tablet e vice-versa sem perder o ritmo. Com o { -brand-name-firefox } em todos os seus dispositivos, pode levar os seus marcadores, palavras-passe, credenciais e histórico de navegação guardados onde quer que vá.
+mobile-android-search-from-your = Pesquise a partir do ecrã inicial do seu telemóvel
+mobile-android-no-need-to = Não há necessidade de abrir a aplicação. Adicione o widget de pesquisa do { -brand-name-firefox } e pesquise diretamente a Internet a partir do ecrã inicial do seu dispositivo.
+mobile-android-pin-videos-to = Fixar vídeos no seu ecrã
