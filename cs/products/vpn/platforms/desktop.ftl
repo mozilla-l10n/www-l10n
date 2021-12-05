@@ -17,3 +17,5 @@ vpn-desktop-maker-of-firefox = Jakožto tvůrce webového prohlížeče { -brand
 vpn-desktop-wifi-headline = Mějte při používání veřejné sítě Wi-Fi pocit bezpečí
 vpn-desktop-wifi-copy = Naše VPN chrání vaše internetové připojení před hackery a slídily, takže můžete nakupovat v kavárně, kontrolovat svůj bankovní účet ve vlaku a kdekoli se věnovat svým online záležitostem bez obav o svou bezpečnost.
 vpn-desktop-about-headline = O službě { -brand-name-mozilla }
+vpn-desktop-about-copy = { -brand-name-mozilla }, známá především díky { -brand-name-firefox-browser(case: "dat", capitalize: "lower") }, je celosvětová komunita uživatelů, přispěvatelů a vývojářů, kteří se zasazují o to, aby sílu internetu měli ve svých rukou uživatelé. Založeni jsme byli v roce 1998 a patříme k průkopníkům svobodného a otevřeného webu – a naší misí je, aby to tak zůstalo.
+vpn-desktop-privacy-headline = Soukromí na jedno klepnutí
