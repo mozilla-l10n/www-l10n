@@ -12,4 +12,6 @@ vpn-resource-center-view-all = Προβολή όλων
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-get-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = Ήταν χρήσιμο αυτό το άρθρο;
+vpn-resource-center-article-helpful = Χρήσιμο άρθρο
+vpn-resource-center-article-not-helpful = Μη χρήσιμο άρθρο
 vpn-resource-center-related-posts = Σχετικές αναρτήσεις

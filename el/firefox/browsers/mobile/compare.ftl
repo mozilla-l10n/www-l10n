@@ -26,6 +26,7 @@ mobile-compare-the-mobile-version = Η έκδοση του { -brand-name-safari 
 mobile-compare-almost-all-of = Σχεδόν όλοι οι συγκρινόμενοι φυλλομετρητές επιτρέπουν τον πλήρη συγχρονισμό μεταξύ κινητών και υπολογιστών.
 mobile-compare-the-good-news = Τα καλά νέα είναι ότι η { -brand-name-apple } επέτρεψε πρόσφατα στους χρήστες { -brand-name-iphone } να επιλέγουν οι ίδιοι το προεπιλεγμένο πρόγραμμα περιήγησής τους. Επομένως, οι χρήστες μπορούν πλέον να συγχρονίζουν συσκευές διαφορετικών πλατφορμών εάν, για παράδειγμα, εγκαταστήσουν το { -brand-name-firefox } στο { -brand-name-iphone } και το { -brand-name-windows } PC τους.
 mobile-compare-conclusion = Επίλογος
+mobile-compare-our-recommendations-aside = Εκτός από τις συστάσεις μας, η εύρεση του κατάλληλου προγράμματος περιήγησης θα εξαρτάται πάντα από τις ατομικές σας ανάγκες και από το τι εκτιμάτε περισσότερο καθώς πλοηγείστε στο διαδίκτυο.
 mobile-compare-search-engine-options = Επιλογές μηχανών αναζήτησης
 mobile-compare-text-to-speech = Κείμενο σε ομιλία
 mobile-compare-reader-mode = Λειτουργία ανάγνωσης
