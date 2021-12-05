@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = შემოუერთდი�
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = უკვე გაქვთ ანგარიში? <a { $fxa_attr }>შედით</a> ან <a { $accounts_attr }>იხილეთ ვრცლად,</a> როგორ შემოუერთდეთ { -brand-name-firefox }-ს.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = თქვენი პირადულობის უზრუნველმყოფი ბრაუზერი, თვალთვალისგან თავისთავადი დაცვითა და რეკლამების შეზღუდვით.
