@@ -36,3 +36,8 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Mobil
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-platforms-shared-trust-partner-headline = O našem partnerovi
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-platforms-shared-trust-partner = { -brand-name-mozilla-vpn } běží na celosvětové síti serverů společnosti <a href="{ $policy }">{ -brand-name-mullvad }</a> za použití protokolu <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. Společnost { -brand-name-mullvad } klade vaše soukromí na první místo a neuchovává si žádné záznamy.
