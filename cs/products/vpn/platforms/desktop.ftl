@@ -21,3 +21,8 @@ vpn-desktop-about-copy = { -brand-name-mozilla }, známá především díky { -
 vpn-desktop-privacy-headline = Soukromí na jedno klepnutí
 vpn-desktop-privacy-copy = Aplikace služby { -brand-name-mozilla-vpn } v mobilním telefonu nebo tabletu šifruje vaše internetové připojení a skrývá IP adresu za použití pokročilého protokolu { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Připojte se k serverům z celého světa
+# Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Brouzdejte z Brazílie. Hrajte hry z Japonska. Streamujte z Mexika. { -brand-name-mozilla-vpn } vám umožní změnit polohu vašeho telefonu nebo počítače na jeden ze { $servers } serverů.
+# Obsolete string
+vpn-desktop-servers-copy = Brouzdejte z Brazílie. Hrajte hry z Japonska. Streamujte z Mexika. { -brand-name-mozilla-vpn } vám umožní změnit polohu vašeho telefonu nebo počítače na jednu ze { $servers }.
