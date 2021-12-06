@@ -20,3 +20,10 @@ vpn-mac-about-copy = Už od roku 1998 je nezisková organizace { -brand-name-moz
 vpn-mac-privacy-headline = Soukromí na dosah ruky
 vpn-mac-privacy-copy = Se službou { -brand-name-mozilla-vpn } je vaše internetové připojení šifrované a vaše IP adresa je chráněna před hackery a zvědavými poskytovateli internetu díky pokročilému protokolu { -brand-name-wireguard }®.
 vpn-mac-servers-headline = Přístup k serverům po celém světě
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = Nastavte si polohu { -brand-name-mac-short(case: "gen") } podle vlastního výběru z více než { $servers } serverů ve více než { $countries } zemích. Můžete tak prohlížet zprávy, nakupovat, streamovat a surfovat po webu téměř odkudkoli.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Chraňte { $devices } zařízení jedním předplatným
