@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -23,7 +23,7 @@ privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, který běž
 privacy-faq-really-you-dont-collect-my-browsing = Opravdu nevidíte nic z mé historie prohlížení?
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
-privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } opravdu o vás zdaleka neví tolik, kolik byste mohli očekávat. Pro nás jako autory prohlížeče to může být složité, a proto nabízíme volitelné nástroje jako <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, které dovolují nám posílat informace o tom, jak prohlížíte internet. Pokud synchronizujete svou historii prohlížení mezi různými instalacemi { -brand-name-firefox(case: "gen") }, nic z ní nevidíme. Je totiž zašifrovaná už na vašem zařízení tak, že jen zase u vás se může dešifrovat.
+privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } o vás opravdu neví zdaleka tolik, kolik byste mohli očekávat. Pro nás jako autory prohlížeče to může být složité, a proto nabízíme volitelné nástroje jako <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, které dovolují posílat nám informace o tom, jak prohlížíte internet. Pokud synchronizujete svou historii prohlížení mezi různými instalacemi { -brand-name-firefox(case: "gen") }, nic z ní nevidíme. Je totiž zašifrovaná už na vašem zařízení tak, že jen zase u vás se může dešifrovat.
 privacy-faq-it-seems-like-every-company = Myslím, že každá internetová společnost kupuje nebo prodává má data. Jak se Mozilla liší?
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } neprodává žádná vaše data, stejně tak je ani nekupujeme.
 privacy-faq-wait-so-how-do-you-make-money = Ale jak potom vyděláváte?

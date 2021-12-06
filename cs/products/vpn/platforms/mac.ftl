@@ -9,3 +9,4 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }
+vpn-mac-page-description = Ať už používáte { -brand-name-mac-short } na stolním počítači, notebooku, { -brand-name-ipad(case: "loc") } nebo { -brand-name-iphone(case: "loc") }, chraňte celé své zařízení před hackery a zvědavci pomocí sítě VPN od { -brand-name-mozilla(case: "gen") }, průkopníka v oblasti zajištění bezpečnosti na internetu již od roku 1998.
