@@ -10,4 +10,4 @@ vpn-mobile-page-title = { -brand-name-mozilla-vpn } pro mobily (chytré telefony
 vpn-mobile-page-description = Chraňte svůj chytrý telefon a tablet pomocí sítě VPN od { -brand-name-mozilla(case: "gen") }, důvěryhodného průkopníka v oblasti ochrany soukromí na internetu.
 # Mobile strings
 vpn-mobile-hero-headline = Zabezpečte své soukromí v mobilu pomocí služby { -brand-name-mozilla-vpn }
-vpn-mobile-maker-of-firefox = Zajistěte díky službě { -brand-name-mozilla-vpn }, základnímu nástroji pro ochranu soukromí od tvůrců { -brand-name-firefox(case: "gen") }, že bude internetové připojení vašeho telefonu stále soukromé, ať už vás den zavane kamkoli.
+vpn-mobile-maker-of-firefox = Zajistěte díky službě { -brand-name-mozilla-vpn }, základnímu nástroji pro ochranu soukromí od tvůrců { -brand-name-firefox(case: "gen") }, že bude internetové připojení vašeho telefonu stále soukromé, ať už vás den zavede kamkoli.
