@@ -16,11 +16,11 @@ vpn-desktop-ability = Služba { -brand-name-mozilla-vpn } vám umožňuje se př
 vpn-desktop-maker-of-firefox = Jakožto tvůrce webového prohlížeče { -brand-name-firefox } a jeden z nejdůvěryhodnějších bojovníků za zachování soukromí na internetu se { -brand-name-mozilla } zavazuje zajistit, abyste se při každém vstupu na internet cítili bezpečně a respektovaně.
 vpn-desktop-wifi-headline = Mějte při používání veřejné sítě Wi-Fi pocit bezpečí
 vpn-desktop-wifi-copy = Naše VPN chrání vaše internetové připojení před hackery a slídily, takže můžete nakupovat v kavárně, kontrolovat svůj bankovní účet ve vlaku a kdekoli se věnovat svým online záležitostem bez obav o svou bezpečnost.
-vpn-desktop-about-headline = O službě { -brand-name-mozilla }
+vpn-desktop-about-headline = O { -brand-name-mozilla(case: "loc") }
 vpn-desktop-about-copy = { -brand-name-mozilla }, známá především díky { -brand-name-firefox-browser(case: "dat", capitalize: "lower") }, je celosvětová komunita uživatelů, přispěvatelů a vývojářů, kteří se zasazují o to, aby sílu internetu měli ve svých rukou uživatelé. Založeni jsme byli v roce 1998 a patříme k průkopníkům svobodného a otevřeného webu – a naší misí je, aby to tak zůstalo.
 vpn-desktop-privacy-headline = Soukromí na jedno klepnutí
 vpn-desktop-privacy-copy = Aplikace služby { -brand-name-mozilla-vpn } v mobilním telefonu nebo tabletu šifruje vaše internetové připojení a skrývá IP adresu za použití pokročilého protokolu { -brand-name-wireguard }®.
-vpn-desktop-servers-headline = Připojte se k serverům z celého světa
+vpn-desktop-servers-headline = Připojte se k serverům po celém světě
 # Variables:
 #   $servers (number) - number of available servers
 vpn-desktop-servers-copy-updated = Brouzdejte z Brazílie. Hrajte hry z Japonska. Streamujte z Mexika. { -brand-name-mozilla-vpn } vám umožní změnit polohu vašeho telefonu nebo počítače na jeden ze { $servers } serverů.
