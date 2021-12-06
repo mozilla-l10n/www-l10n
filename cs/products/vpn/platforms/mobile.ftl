@@ -25,3 +25,11 @@ vpn-mobile-servers-headline = Připojte se k serverům po celém světě
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-mobile-servers-copy = Brouzdejte z Brazílie. Hrajte hry z Japonska. Streamujte z Austrálie. { -brand-name-mozilla-vpn } vám umožní změnit polohu vašeho telefonu nebo počítače na jeden z více než { $servers } serverů ve více než { $countries } zemích.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-devices-headline = Chraňte až { $devices } zařízení
+vpn-mobile-devices-copy = Předplatné vám zajistí neomezený přístup k naší zabezpečené službě VPN v chytrém telefonu, tabletu a počítači se systémy { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
+vpn-mobile-speed-headline = Ohromná rychlost, žádná omezení
+vpn-mobile-speed-copy = Streamujte videa, hrajte hry, nakupujte a brouzdejte bleskovou rychlostí. { -brand-name-mozilla-vpn } vám neomezí šířku pásma ani nezpomalí chytrý telefon.
+vpn-mobile-log-headline = Vaše soukromí vždy na prvním místě
+vpn-mobile-log-copy = V { -brand-name-mozilla(case: "loc") } neshromažďujeme žádné údaje o tom, kdo jste, ani si nezaznamenáváme vaši aktivitu na internetu – ani prostřednictvím naší sítě VPN, ani prostřednictvím jiných našich produktů. Ochrana vašeho soukromí je základem naší mise.
