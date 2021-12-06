@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = { -brand-name-firefox }’a kat
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Zaten hesabınız var mı? <a { $fxa_attr }>Giriş yapın</a> veya { -brand-name-firefox }'a katılma hakkında <a { $accounts_attr }>daha fazla bilgi alın</a>.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Otomatik izlenme koruması ve reklam engelleme özelliğiyle gizlilik yanlısı tarayıcınız.
