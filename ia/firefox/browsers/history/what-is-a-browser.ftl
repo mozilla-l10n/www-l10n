@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/what-is-a-browser/
@@ -31,7 +31,7 @@ what-is-a-browser-cookies-not-the = Cookies (non illos que on mangia)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
 what-is-a-browser-websites-save = Le sitos web salva informationes re te in files appellate <a href="{ $cookies }">cookies</a>. Illos es salvate sur tu computator pro le proxime vice que tu visita ille sito. Un vice que tu retorna, le codice del sito web legera ille file pro vider que il es tu. Per exemplo, quando tu va a un sito web, le pagina rememora tu nomine de usator e contrasigno: illo es rendite possibile per un cookie.
-what-is-a-browser-there-are-also = Il ha alsi cookies que rememora informationes plus detaliate re te. Forsan tu interesses, tu patronos de navigation web, etc. Id es que un sito pote te fornir contento plus mirate, sovente in forma de avisos publicitari. Il ha typos de cookies, appellate cookies de <em>tertie-parte</em>, que veni de sitos que tu non mesmo visita al tempore e pote traciar te de sito in sito pro colliger informationes re te, que es aliquando vendite a altere companias. Aliquando tu pote blocar iste sorta de cookies, ben que non tote le navigatores te lo permitte.
+what-is-a-browser-there-are-also = In ultra, existe cookies que registra informationes plus detaliate sur te. Forsan tu interesses, tu patronos de navigation web, etc. Isto significa que un sito pote fornir contento plus specific a te, sovente in forma de publicitate. Il ha typos de cookies, appellate cookies de <em>tertios</em>, que proveni de sitos que, ben que tu non los visita, pote traciar te de sito a sito pro colliger informationes sur te, e iste informationes pote esser vendite a altere companias. A vices es possibile blocar iste typo de cookies, ma non tote le navigatores te lo permitte.
 what-is-a-browser-when-you-go-to = Quando tu visita un sito web e le pagina recorda tu nomine de usator y contrasigno, isto es possibile gratias a un cookie.
 what-is-a-browser-understanding = Comprender le confidentialitate
 what-is-a-browser-nearly-all-major = Quasi tote major navigatores ha un parametro de navigation private. Isto existe pro celar le chronologia de navigation de altere usatores sur le mesme computator. Multe personas pensa que le navigation private o modo in incognito celara ambe lor identitate e chronologia de navigation contra le fornitores de servicio internet, governamentos e publicitarios. Illos non lo face. Iste parametros justo clara le chronologia sur tu systema, que es utile si tu tracta sensibile informationes personal sur un computator compartite o public. { -brand-name-firefox } va ultra illo.

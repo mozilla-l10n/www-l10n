@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
@@ -9,7 +9,7 @@
 ## Required
 
 installer-help-page-title = Tu discargamento era interrumpite
-installer-help-main-tagline = Isto eveni, aliquando. Que nos prova alco differente.
+installer-help-main-tagline = Isto occurre a vices. Que nos tenta altere cosa.
 installer-help-action-channel = Iste discargamento deberea functionar melio pro te.
 installer-help-action-choose = Elige un discargamento infra.
 
