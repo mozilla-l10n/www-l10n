@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
@@ -15,7 +15,7 @@ vpn-linux-hero-headline = { -brand-name-mozilla-vpn } pro { -brand-name-ubuntu }
 vpn-linux-ability = Prende un mesura extra de securitate quando tu es in linea – tanto a casa como foras – con { -brand-name-mozilla-vpn }. Pro un micre tarifa mensual, illo usa le protocollo avantiate { -brand-name-wireguard }® pro cryptar tu connexion a internet sur tu computator con { -brand-name-linux } assi como altere typos de apparatos, permittente te de spectar videos, jocar jocos, facer compras e viver tu vita quotidian in linea sapiente que tu es secur.
 vpn-linux-maker-of-firefox = Como un del nomines plus digne de fide in le industria technologic, { -brand-name-mozilla } es dedicate a assecurar te de sentir te e esser secur cata vice que tu va online.
 vpn-linux-wifi-headline = Sta secur online quando tu debe usar retes wifi public
-vpn-linux-wifi-copy = Aliquando un rete wifi public es tu melior o sol option. { -brand-name-mozilla-vpn } te permitte de sentir te libere de connecter te a tu e-mail ab le aeroporto, rediger tu contrasignos a un caffe, facer compras, toto lo que tu normalmente face a casa con le mesme tranquillitate.
+vpn-linux-wifi-copy = Alcun vices un rete wifi public es tu melior o unic option. { -brand-name-mozilla-vpn } te permitte de sentir te libere e secur quando tu accede tu e-mail ab le aeroporto, redige tu contrasignos a un cafeteria, etc. – tu pote facer tote lo que tu normalmente face a casa con le mesme tranquillitate.
 vpn-linux-about-headline = Un nomine digne de fide desde le 1998
 vpn-linux-about-copy = Como productores del navigator del Web { -brand-name-firefox }, { -brand-name-mozilla } ha luctate pro tu derectos online pro decades,  es isto lo que nos face. Como alternativa al technica de collection de big-data, nos imagina constantemente nove manieras pro mantener internet aperte e gratuite respectante le derecto al confidentialitate de totes.
 vpn-linux-privacy-headline = Securitate a portata de un sol clic
