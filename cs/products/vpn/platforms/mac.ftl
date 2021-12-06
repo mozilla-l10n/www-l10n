@@ -29,3 +29,6 @@ vpn-mac-servers-copy = Nastavte si polohu { -brand-name-mac-short(case: "gen") }
 vpn-mac-devices-headline = Chraňte { $devices } zařízení jedním předplatným
 vpn-mac-devices-copy = Váš počítač, tablet i chytrý telefon si zaslouží být v bezpečí. Pomocí služby { -brand-name-mozilla-vpn } můžete chránit až { $devices } zařízení { -brand-name-mac-short } a { -brand-name-ios } (vedle { -brand-name-windows }, { -brand-name-linux(case: "gen") } a { -brand-name-android(case: "gen") }).
 vpn-mac-speed-headline = Není třeba obětovat rychlost
+vpn-mac-speed-copy = Neomezená data a žádná omezení šířky pásma znamená, že můžete prozkoumávat zákoutí internetu tak, jako obvykle, ovšem s vyšší úrovní zabezpečení.
+vpn-mac-log-headline = Co děláte na internetu, je vaše věc
+vpn-mac-log-copy = Při používání služby { -brand-name-mozilla-vpn } můžete být v klidu. Vaše data jsou šifrována, vaše aktivity nejsou nikdy zaznamenávány a vaše soukromí je vždy chráněno. To je náš slib.
