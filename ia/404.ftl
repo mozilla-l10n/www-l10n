@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: Pagina non trovate
 not-found-page-sorry-we-cant-find-that-page = Desolate, nos non pote trovar ille pagina
-not-found-page-were-all-about-a-healthy-internet = Nos lucta pro un internet salubre, ma aliquando URLs corrupte eveni.
+not-found-page-were-all-about-a-healthy-internet = Ben que es nostre prioritate mantener internet salubre, a vices occurre un URL que non functiona.
 not-found-page-go-back = Retornar
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
