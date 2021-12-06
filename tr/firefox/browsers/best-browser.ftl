@@ -34,6 +34,9 @@ best-browser-a-browser-that-minds = Kendi işine bakan bir tarayıcı.
 best-browser-privacy-on-the-web = Web’de gizlilik önemli bir konu. Gizlilik sizin için de önemliyse ise gizliliğinizi ciddiye alan bir tarayıcı seçmelisiniz. En iyi gizliliği sunan tarayıcıyı seçerken tarayıcıların izleme politikalarına ve verilerinizi nasıl işlediklerine dikkat edin. Bunlar teknik sorular gibi görünüyor olabilir ancak bazı tarayıcıların diğerlerinden daha gizlilik yanlısı olmasının nedeni bunlar.
 best-browser-trackers-are-all-those = Takipçiler, havayolu sitelerinde alabileceğiniz sinir bozucu "çerez" mesajlarıdır. Bu üçüncü taraf takipçiler, nereye tıkladığınızı bilir ve bunu davranışınızı analiz etmek için kullanabilir. Gizli bir tarayıcı kullanıcılara üçüncü taraf takipçileri kapatma seçeneği sunmalıdır ancak ideal olan, tarayıcının bunları varsayılan olarak kapatmasıdır.
 best-browser-another-way-to-stop = Takip kodlarının sizi izlemesini durdurmanın bir başka yolu da internette gezinirken gizli modu kullanmak. Gizli olduğunu iddia eden her tarayıcı gizli modda gezinme olanağını sunmalı.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+best-browser-one-easy-way-to-check = Bunu kontrol etmenin kolay bir yolu, tarayıcının içerik ayar sayfasını ve gizlilik politikasını ziyaret etmek. Gizlilik sayfası, verilerinizin paylaşılıp paylaşılmadığını ve bunların nedenlerini belirtmeli. <a href="{ $privacy }">{ -brand-name-firefox } gizlilik bildirimini</a> okumak ve bulmak bu yüzden çok kolay.
 best-browser-choosing-the-best-browser = En doğru tarayıcıyı seçmek, evinizi seçmeye çok benzer. Seçeneklerinizi incelemeli ve sizin için önemli olan şeylere göre araştırma yapıp karar vermelisiniz.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
