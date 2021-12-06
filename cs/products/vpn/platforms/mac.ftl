@@ -27,3 +27,5 @@ vpn-mac-servers-copy = Nastavte si polohu { -brand-name-mac-short(case: "gen") }
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Chraňte { $devices } zařízení jedním předplatným
+vpn-mac-devices-copy = Váš počítač, tablet i chytrý telefon si zaslouží být v bezpečí. Pomocí služby { -brand-name-mozilla-vpn } můžete chránit až { $devices } zařízení { -brand-name-mac-short } a { -brand-name-ios } (vedle { -brand-name-windows }, { -brand-name-linux(case: "gen") } a { -brand-name-android(case: "gen") }).
+vpn-mac-speed-headline = Není třeba obětovat rychlost
