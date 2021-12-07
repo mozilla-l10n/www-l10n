@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/
 
 banner-fundraising-title-v2 = 이번 휴가철에 더 나은 인터넷을 위해 싸우는 { -brand-name-mozilla }를 도와주세요.
+banner-fundraising-title-giving-day = 이번 Giving Tuesday에 더 나은 인터넷을 위해 싸우는 { -brand-name-mozilla }를 도와주세요.
 # Outdated string
 banner-fundraising-title = 미래는 온라인으로 결정되고 있습니다. 우리 모두를 위해 { -brand-name-mozilla }가 웹을 위해 싸울 수 있도록 도와주시기 바랍니다.
 banner-fundraising-body-v2 = 우리는 웹을 건강하게 유지하기 위해 노력하는 비영리 단체입니다. 귀하의 기여는 안전하고 개방된 인터넷을 구축하는 데 도움이 됩니다.
