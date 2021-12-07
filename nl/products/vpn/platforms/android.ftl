@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
@@ -13,7 +13,7 @@ vpn-android-hero-headline = Ontvang online bescherming en privacy met { -brand-n
 vpn-android-ability = U kunt erop vertrouwen dat uw gegevens veilig zijn voor hackers en nieuwsgierige blikken – zowel thuis als op openbare wifi – met { -brand-name-mozilla-vpn }. Voor de prijs van een kop koffie worden uw persoonlijke gegevens op uw { -brand-name-android }-apparaat op geavanceerde wijze versleuteld via het { -brand-name-wireguard }®-protocol. Gebruik { -brand-name-mozilla-vpn } om shows te streamen, spellen te spelen, uw financiën te beheren, te winkelen en alles wat u wilt online te doen in de wetenschap dat uw verbinding beveiligd is.
 vpn-android-maker-of-firefox = Als de maker van de { -brand-name-firefox }-webbrowser en een van de felste beschermers van internetprivacy, heeft { -brand-name-mozilla } een diepe toewijding aan uw privacy en veiligheid, elke keer dat u online gaat.
 vpn-android-wifi-headline = Blijf onderweg online veilig
-vpn-android-wifi-copy = Soms is mobiele data niet beschikbaar en is openbare wifi uw enige optie. Met { -brand-name-mozilla-vpn } op uw { -brand-name-android }-apparaat hoeft u nooit meer een wachtwoord op het vliegveld in te vullen of een online-aankoop te doen in het café om de hoek – maak gewoon verbinding door te tikken en doe wat u wilt doen.
+vpn-android-wifi-copy = Soms is mobiele data niet beschikbaar en is openbare wifi uw enige optie. Met { -brand-name-mozilla-vpn } op uw { -brand-name-android }-apparaat kunt u zorgeloos een wachtwoord op het vliegveld invullen of een online-aankoop doen in het café om de hoek – maak gewoon verbinding door te tikken en doe wat u wilt.
 vpn-android-about-headline = { -brand-name-mozilla } is een naam die u kunt vertrouwen
 vpn-android-about-copy = We zijn het bekendst om onze webbrowser, { -brand-name-firefox }, maar { -brand-name-mozilla } als grotere organisatie heeft een kernmissie – vechten voor uw online rechten. Dat hebben we altijd al gedaan, sinds 1998. We zijn de pleitbezorgers van het internet, toegewijd aan het ervoor zorgen dat het open en vrij blijft, met respect voor ieders recht op privacy en beveiliging.
 vpn-android-privacy-headline = Eén tik om verbinding te maken
