@@ -60,3 +60,5 @@ firefox-products-join-firefox-and-get-the-most = Erstelle dein { -brand-name-fir
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Du hast schon ein Konto? <a { $fxa_attr }>Melde dich an</a> oder <a { $accounts_attr }>erfahre mehr</a> über die Nutzung von { -brand-name-firefox }.
 
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Dein Browser für mehr Datenschutz – mit automatischem Tracking-Schutz und Werbeblocker.
