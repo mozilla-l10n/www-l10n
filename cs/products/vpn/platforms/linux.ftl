@@ -17,3 +17,5 @@ vpn-linux-maker-of-firefox = Jako jedna z nejdůvěryhodnějších značek v tec
 vpn-linux-wifi-headline = Zůstaňte v bezpečí, i když musíte používat veřejnou síť Wi-Fi
 vpn-linux-wifi-copy = Někdy je veřejná síť Wi-Fi tou jedinou možností. Díky službě { -brand-name-mozilla-vpn } se můžete bez obav přihlašovat do svého e-mailu na letišti, upravovat svá hesla v kavárně – zkrátka se stejným klidem dělat vše, co běžně děláte doma.
 vpn-linux-about-headline = Spolehlivá značka od roku 1998
+vpn-linux-about-copy = { -brand-name-mozilla } jakožto tvůrce webového prohlížeče { -brand-name-firefox } bojuje za vaše práva na internetu již desítky let – to je naše práce. Jakožto alternativa k technologiím shromažďujícím velké objemy dat neustále vymýšlíme nové způsoby, jak udržet internet otevřený a svobodný za současného respektování práva každého na soukromí.
+vpn-linux-privacy-headline = Zabezpečení na jedno klepnutí
