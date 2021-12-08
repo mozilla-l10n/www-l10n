@@ -1,12 +1,16 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Tüm Cihazlarınızı Koruyun
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Tüm uygulamalarınızda tam cihaz koruması için { -brand-name-mozilla-vpn } kullanın. { $countries }+ ülkedeki sunuculara her yerden bağlanabilirsiniz.
 vpn-landing-hero-sub-heading-v2 = Güvenlik, güvenilirlik ve hız: Her yerde, her cihazda.
 # Obsolete string
 vpn-landing-hero-sub-heading = Güvenilir bir markadan güvenilir bir hizmet.
@@ -25,6 +29,9 @@ vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn }, dünyanın farkl�
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn }, dünyanın farklı yerlerindeki <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a> sunucuları üzerinde çalışıyor. Gelişmiş <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> protokolüyle ağ etkinliğinizi şifreliyor ve IP adresinizi gizliyoruz. Ağ verilerinizi asla kaydetmiyor, izlemiyor ve paylaşmıyoruz.
 vpn-landing-brand-trust-heading = Güvenebileceğiniz bir markanın VPN’i
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = { -brand-name-mozilla }, 20 yılı aşkın bir süredir insanları ilk sıraya koyuyor ve çevrimiçi gizliliğiniz için mücadele ediyor. Kâr amacı gütmeyen bir kuruluş olarak, insanlık için daha iyi ve daha sağlıklı bir internet inşa etmeye kararlıyız. Yaptığımız her şey misyonumuzun bir parçası ve <a href="{ $url }">ilkelerimizle</a> destekleniyor.
 
 ## FAQ section
 
@@ -44,9 +51,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } aş
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } aşağıdaki cihazlarla uyumludur:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (yalnızca 64 bit)
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (yalnızca 64 bit)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (yalnızca 64 bit)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (yalnızca 64 bit)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ve üstü)
@@ -84,11 +93,10 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (yalnızca { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn }’in iade politikası nasıl?
+# Outdated string
 vpn-landing-faq-refund-question-desc = Aboneliğinizi başlattıktan sonraki 30 gün içinde para iadesi alabilirsiniz. İade talebinde bulunmak için { -brand-name-mozilla-vpn } uygulamanızın Ayarlar kısmındaki “Yardım Al” düğmesine dokunarak bizimle iletişime geçebilirsiniz.
 vpn-landing-faq-manage-subscription-question-heading = Aboneliğimi nasıl yönetebilirim?
 vpn-landing-faq-link = Diğer SSS'ler
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Henüz abone olmamışsınız.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
@@ -102,6 +110,8 @@ vpn-landing-invite-email-placeholder = kullanici@example.com
 vpn-landing-invite-country-label = Hangi ülkede yaşıyorsunuz?
 vpn-landing-invite-language-label = Tercih ettiğiniz dili seçin.
 vpn-landing-invite-platform-label = Hangi platformları kullanıyorsunuz?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
