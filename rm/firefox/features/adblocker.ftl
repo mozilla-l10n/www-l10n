@@ -40,3 +40,4 @@ features-adblocker-get-tough-with-strict = Rinforza tia defensiun cun il modus s
 features-adblocker-if-seeing-too-many-ads = Sche memia bleras reclamas ruinan tes di, correspunda il modus strict meglier a tes basegns. Quest modus vegn a bloccar ils fastizaders enconuschents da terzas partidas e cookies en tut las fanestras da { -brand-name-firefox }.
 features-adblocker-do-it-yourself-custom = Modus persunalisà per far tez
 features-adblocker-the-custom-setting-gives = Ils parameters da persunalisaziun ta dattan la schelta maximala. Ti pos decider sez tge bloccar, p.ex. ils fastizaders, cookies ed auter pli. Sche ti permettas cookies dad ina website, ta chattas ti automaticamain en il modus persunalisà.
+features-adblocker-cover-your-trail-block = Zuppenta tes fastizs e blochescha fastizaders
