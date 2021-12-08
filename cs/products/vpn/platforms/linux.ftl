@@ -24,3 +24,9 @@ vpn-linux-privacy-copy = Používání služby { -brand-name-mozilla-vpn } je ve
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
 vpn-linux-servers-headline = Připojte se k více než { $servers } serverům ve { $countries } různých zemích
+# Variables:
+#   $countries (number) - number of available countries
+vpn-linux-servers-copy = { -brand-name-mozilla-vpn } vám umožňuje nastavit polohu svého počítače se systémem { -brand-name-linux } na jednu z více než { $countries } zemí a zpřístupnit si tak nový vzrušující obsah z celého světa.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-linux-devices-headline = Připojte až { $devices } zařízení
