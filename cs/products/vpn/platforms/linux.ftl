@@ -14,6 +14,6 @@ vpn-linux-page-description = Jako fanouškovi { -brand-name-ubuntu } { -brand-na
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } pro { -brand-name-ubuntu } { -brand-name-linux(case: "acc") } – dokonale soukromé spojení
 vpn-linux-ability = Ať se k internetu připojujete doma nebo na cestách, se službou { -brand-name-mozilla-vpn } získáte vyšší míru zabezpečení. Za malý měsíční poplatek používá pokročilý protokol { -brand-name-wireguard }® k šifrování vašeho internetového připojení na počítači se systémem { -brand-name-linux } i na jiných typech zařízení, takže můžete streamovat pořady, hrát hry, nakupovat a věnovat se každodennímu životu online s vědomím, že jste v bezpečí.
 vpn-linux-maker-of-firefox = Jako jedna z nejdůvěryhodnějších značek v technologickém průmyslu se { -brand-name-mozilla } usilovně snaží zajistit, abyste se při každém přístupu na internet cítili bezpečně.
-vpn-linux-wifi-headline = Zůstaňte v bezpečí, i když musíte používat veřejnou síť Wi-Fi.
+vpn-linux-wifi-headline = Zůstaňte v bezpečí, i když musíte používat veřejnou síť Wi-Fi
 vpn-linux-wifi-copy = Někdy je veřejná síť Wi-Fi tou jedinou možností. Díky službě { -brand-name-mozilla-vpn } se můžete bez obav přihlašovat do svého e-mailu na letišti, upravovat svá hesla v kavárně – zkrátka se stejným klidem dělat vše, co běžně děláte doma.
 vpn-linux-about-headline = Spolehlivá značka od roku 1998
