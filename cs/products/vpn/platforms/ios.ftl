@@ -17,7 +17,7 @@ vpn-ios-wifi-copy = Používáte veřejnou wifi? Žádný problém. Díky služb
 vpn-ios-about-headline = Proč nám věřit?
 vpn-ios-about-copy = Možná nás znáte díky našemu webovému prohlížeči { -brand-name-firefox } – ale vedle toho { -brand-name-mozilla } již od roku 1998 bojuje za vaše práva na internetu – to je naše hlavní mise. Jsme posedlí snahou zajistit, aby internet zůstal otevřený a svobodný, při současném respektování práva každého na soukromí a bezpečnost.
 vpn-ios-privacy-headline = Připojení na jedno klepnutí
-vpn-ios-privacy-copy = Používání služby { -brand-name-mozilla-vpn } je velmi snadné. Klepněte na tlačítko a vaše připojení se zašifruje pomocí pokročilého protokolu { -brand-name-wireguard }® a IP adresa na vašem { -brand-name-iphone(case: "loc") } nebo { -brand-name-ipad(case: "loc") } se rozostří.
+vpn-ios-privacy-copy = Používání služby { -brand-name-mozilla-vpn } je velmi snadné. Klepněte na tlačítko a vaše připojení se zašifruje za pomoci pokročilého protokolu { -brand-name-wireguard }® a IP adresa vašeho { -brand-name-iphone(case: "gen") } nebo { -brand-name-ipad(case: "gen") } se zastře.
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Připojte se k více než { $servers } serverům po celém světě
