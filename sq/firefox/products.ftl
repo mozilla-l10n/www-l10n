@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Bëhuni pjesë e { -brand-name-
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Keni tashmë një llogari? <a { $fxa_attr }>Hyni</a> ose <a { $accounts_attr }>mësoni më tepër</a> rreth pjesëmarrjes në { -brand-name-firefox }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Shfletues me privatësi enkas për ju, me mbrojtje të automatizuar nga gjurmimet dhe bllokim reklamash.

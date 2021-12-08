@@ -144,6 +144,8 @@ vpn-landing-invite-email-placeholder = emrijuaj@example.com
 vpn-landing-invite-country-label = Në cilin vend jetoni?
 vpn-landing-invite-language-label = Përzgjidhni gjuhën tuaj të parapëlqyer.
 vpn-landing-invite-platform-label = Cilat platforma ju interesojnë?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
