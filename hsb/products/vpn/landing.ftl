@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -49,9 +49,11 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je 
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } je kompatibelny z:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a>10 (jenož 64-bitowy)
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a>10/11 (jenož 64-bitowy)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } (jenož 64-bitowy)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a>10 (jenož 64-bitowy)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 a nowše)
@@ -94,8 +96,6 @@ vpn-landing-faq-manage-subscription-question-heading = Kak móžu swój abonemen
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Jeli sće { -brand-name-mozilla-vpn } hižo abonował, móžeće koždy čas swój tarif změnić abo <a href="{ $url }">swój abonement rjadować</a>.
 vpn-landing-faq-link = Hlejće dalše husto stajene prašenja
-# message shown to visitors who try to sign-in without an active subscription.
-vpn-landing-sub-not-found = Hopla! Po wšěm zdaću hišće njejsće abonement wotzamknył.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
@@ -109,6 +109,8 @@ vpn-landing-invite-email-placeholder = wašemjeno@example.com
 vpn-landing-invite-country-label = W kotrym kraju bydliće?
 vpn-landing-invite-language-label = Wubjerće swoju preferowanu rěč.
 vpn-landing-invite-platform-label = Na kotre platformy sće zajimowany?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
