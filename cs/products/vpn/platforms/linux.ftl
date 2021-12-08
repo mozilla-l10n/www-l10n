@@ -32,3 +32,6 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } vám umožňuje nastavit po
 vpn-linux-devices-headline = Připojte až { $devices } zařízení
 vpn-linux-devices-copy = S jedním předplatným můžete službu { -brand-name-mozilla-vpn } užívat až na { $devices } různých zařízeních se systémy { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } a { -brand-name-ios } pro { -brand-name-iphone(case: "acc") } a { -brand-name-ipad(case: "acc") }.
 vpn-linux-speed-headline = Superrychlá s neomezenými daty
+vpn-linux-speed-copy = Hrajte hry, streamujte filmy a pořady a surfujte po webu superrychle a bez přiškrcování šířky pásma – { -brand-name-mozilla-vpn } je totiž bez limitací.
+vpn-linux-log-headline = Vaše data patří vám
+vpn-linux-log-copy = Některé sítě VPN si na svých serverech zaznamenávají vaši aktivitu. { -brand-name-mozilla-vpn } vás na internetu nesleduje – je to ostatně z velké části to, co jako společnost prosazujeme.
