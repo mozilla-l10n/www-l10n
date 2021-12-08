@@ -31,3 +31,4 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } vám umožňuje nastavit po
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Připojte až { $devices } zařízení
 vpn-linux-devices-copy = S jedním předplatným můžete službu { -brand-name-mozilla-vpn } užívat až na { $devices } různých zařízeních se systémy { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } a { -brand-name-ios } pro { -brand-name-iphone(case: "acc") } a { -brand-name-ipad(case: "acc") }.
+vpn-linux-speed-headline = Superrychlá s neomezenými daty
