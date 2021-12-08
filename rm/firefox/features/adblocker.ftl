@@ -32,3 +32,4 @@ features-adblocker-create-a-tracker-free = Creescha ina zona libra da fastizader
 features-adblocker-on-firefox-you-can-use = En { -brand-name-firefox } pos ti utilisar ils parameters da la <a href="{ $privacy }">protecziun da datas</a> u da la <a href="{ $blocking }">bloccada da cuntegn</a> per controllar anc meglier ils fastizaders che ta mussan reclamas.
 features-adblocker-choose-your-level-of-protection = Tscherna tes nivel da protecziun
 features-adblocker-to-start-click-on-the = Per entschaiver, clicca sin il menu da { -brand-name-firefox } en il chantun sisum a dretga da tes visur. I sa tracta da las trais lingias orizontalas parallelas. En il menu drop-down cliccas ti sin bloccada da cuntegn. Alura s'avra in pop-up blau cun differentas opziuns.
+features-adblocker-go-easy-with-standard = Cun il modus da standard vai magari simpel
