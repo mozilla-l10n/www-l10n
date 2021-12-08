@@ -28,5 +28,5 @@ mobile-android-pin-videos-to = Wideja k wašej wobrazowce připjeć
 mobile-android-about-mozilla = Wo { -brand-name-mozilla }
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Skrótšće puć přez internet z { -brand-name-firefox } za { -brand-name-android }
-mobile-android-get-there-faster = Docpějće cil spěšnišo z { -brand-name-firefox } za { -brand-name-android }
+mobile-android-see-all-your-open-tabs = Wobhladajće sej swoje wočinjene rajtarki, najnowše pytanja a najlubše sydła na jednym městnje z wobhladowakom { -brand-name-firefox } za { -brand-name-android }.
 mobile-android-own-your-home = Mějće swójsku startowu wobrazowku

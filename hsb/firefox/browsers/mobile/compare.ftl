@@ -19,6 +19,7 @@ mobile-compare-what-can-your = Što móže waš wobhladowak za was činić?
 mobile-compare-syncing-strong = <strong>Synchronizacija</strong>
 mobile-compare-syncing = Synchronizowanje
 mobile-compare-does-your-browser = Funguje waš wobhladowak derje z druhimi gratami?
+mobile-compare-the-mobile-version = Mobilna wersija { -brand-name-safari }, kotraž je na gratach { -brand-name-apple } předinstalowana, je jenož kompatibelna z druhimi gratami { -brand-name-apple } kaž { -brand-name-ipad } a laptopy { -brand-name-mac-short }. { -brand-name-firefox }, { -brand-name-chrome } a { -brand-name-opera } na wšěch platformach funguja, mjez nimi { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short } a { -brand-name-linux }, z wuwzaćom wobhladowaka { -brand-name-edge }, kotryž z gratami na zakładźe { -brand-name-linux } kompatibelny njeje.
 mobile-compare-almost-all-of = Nimale wšě mobilne wobhladowaki, kotrež so tu přirunuja, dospołnu synchronizaciju mjez mobilnymi a desktopowymi gratami zmóžnjeja.
 mobile-compare-conclusion = Konkluzija
 mobile-compare-search-engine-options = Nastajenja pytawy
