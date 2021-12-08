@@ -20,3 +20,7 @@ vpn-linux-about-headline = Spolehlivá značka od roku 1998
 vpn-linux-about-copy = { -brand-name-mozilla } jakožto tvůrce webového prohlížeče { -brand-name-firefox } bojuje za vaše práva na internetu již desítky let – to je naše práce. Jakožto alternativa k technologiím shromažďujícím velké objemy dat neustále vymýšlíme nové způsoby, jak udržet internet otevřený a svobodný za současného respektování práva každého na soukromí.
 vpn-linux-privacy-headline = Zabezpečení na jedno klepnutí
 vpn-linux-privacy-copy = Používání služby { -brand-name-mozilla-vpn } je velmi snadné. Klepněte na tlačítko a vaše připojení se zašifruje za pomoci pokročilého protokolu { -brand-name-wireguard }® a IP adresa vašeho { -brand-name-iphone(case: "gen") } nebo { -brand-name-ipad(case: "gen") } se zastře.
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-linux-servers-headline = Připojte se k více než { $servers } serverům ve { $countries } různých zemích
