@@ -1,12 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
 # HTML page title
 mobile-compare-5-of-the-best = 5 z najlěpšich mobilnych wobhladowakow w direktnym přirunanju
+# HTML description
+mobile-compare-who-makes-the = Štó wuwiwa najlěpši mobilny wobhladowak? Přirunamy mobilne wersije { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } a { -brand-name-opera }, zo bychmy to won namakali.
 mobile-compare-which-mobile-browser = Kotry mobilny wobhladowak wěcy dowěrliwe dźerži?
 mobile-compare-another-mobile-feature = Dalša mobilna funkcija, kotraž měła samozrozumliwa być, websydła a předewzaća při slědowanju wašich přehladowanskich a nakupowanskich datow haćić – samo w normalnym přehladowanskim modusu.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
