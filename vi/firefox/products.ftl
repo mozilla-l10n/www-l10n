@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Tham gia { -brand-name-firefox 
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Đã có một tài khoản? <a { $fxa_attr }>Đăng nhập</a> hoặc <a { $accounts_attr }>tìm hiểu thêm</a> về việc tham gia { -brand-name-firefox }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Trình duyệt dành riêng cho quyền riêng tư của bạn với tính năng chống theo dõi tự động và chặn quảng cáo.
