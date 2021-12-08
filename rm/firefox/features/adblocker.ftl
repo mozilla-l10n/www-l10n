@@ -33,3 +33,9 @@ features-adblocker-on-firefox-you-can-use = En { -brand-name-firefox } pos ti ut
 features-adblocker-choose-your-level-of-protection = Tscherna tes nivel da protecziun
 features-adblocker-to-start-click-on-the = Per entschaiver, clicca sin il menu da { -brand-name-firefox } en il chantun sisum a dretga da tes visur. I sa tracta da las trais lingias orizontalas parallelas. En il menu drop-down cliccas ti sin bloccada da cuntegn. Alura s'avra in pop-up blau cun differentas opziuns.
 features-adblocker-go-easy-with-standard = Cun il modus da standard vai magari simpel
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+features-adblocker-if-ads-dont-bother-you = Sche las reclamas na ta disturban betg e sch'igl è tuttina che fastizaders e cookies da terzas partidas ta suondan, stuessan las configuraziuns da standard tanscher per tes basegns. Utilisescha ina fanestra en il <a href="{ $url }">modus privat</a> per che fastizaders ta laschian en pasch en il modus da standard.
+features-adblocker-get-tough-with-strict = Rinforza tia defensiun cun il modus strict
+features-adblocker-if-seeing-too-many-ads = Sche memia bleras reclamas ruinan tes di, correspunda il modus strict meglier a tes basegns. Quest modus vegn a bloccar ils fastizaders enconuschents da terzas partidas e cookies en tut las fanestras da { -brand-name-firefox }.
+features-adblocker-do-it-yourself-custom = Modus persunalisà per far tez
