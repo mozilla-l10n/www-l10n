@@ -9,3 +9,5 @@
 vpn-what-is-what-is-a-vpn = Co je to síť VPN?
 # HTML page description and intro
 vpn-what-is-get-answers-to-nine = Přečtěte si odpovědi na devět nejčastějších otázek ohledně sítí VPN, abyste měli přehled o tom, k čemu slouží, kdy je používat a proč.
+vpn-what-is-many-of-us = Mnozí z nás tráví na internetu několik hodin denně, a to jak při každodenních činnostech, jako je sledování videí, nakupování, hraní her a placení účtů, tak i při řízení složitých pracovních projektů a důvěrných videohovorech. <strong>Virtuální privátní síť (VPN)</strong> je jedním z nejlepších způsobů, jak si na internetu zajistit soukromí a bezpečí a chránit své osobní údaje.
+vpn-what-is-how-do-vpns = Jak sítě VPN fungují?
