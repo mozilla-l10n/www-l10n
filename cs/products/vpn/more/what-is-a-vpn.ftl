@@ -6,4 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
 
 # HTML page title and main title
-vpn-what-is-what-is-a-vpn = Co je to VPN?
+vpn-what-is-what-is-a-vpn = Co je to síť VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Přečtěte si odpovědi na devět nejčastějších otázek ohledně sítí VPN, abyste měli přehled o tom, k čemu slouží, kdy je používat a proč.
