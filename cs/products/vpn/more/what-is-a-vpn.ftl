@@ -14,3 +14,4 @@ vpn-what-is-how-do-vpns = Jak sítě VPN fungují?
 vpn-what-is-a-vpn-is = Síť VPN je nástroj, který vám poskytne bezpečný přístup k internetu, ať jste kdekoli. VPN funguje tak, že mezi vaším zařízením a vaším poskytovatelem sítě VPN vytvoří zabezpečený „tunel“, který vás chrání dvěma zásadními způsoby:
 vpn-what-is-concealing-your-ip = Tají vaši IP adresu, čímž chrání vaši identitu a polohu.
 vpn-what-is-encrypting-your-traffic = Šifruje přenosy probíhající mezi vámi a vaším poskytovatelem sítě VPN, takže je nikdo ve vaší místní síti nemůže dešifrovat ani pozměňovat.
+vpn-what-is-in-the-past = V minulosti využívaly sítě VPN především korporace, aby umožnily bezpečný vzdálený přístup ke svým interním službám a firemním datům. Dnes jsou však sítě VPN k dispozici všem, kteří chtějí chránit své připojení k internetu, zejména když se připojují přes ne zcela bezpečné sítě jako je veřejná síť Wi-Fi, ale užitečné jsou i v domácí síti.
