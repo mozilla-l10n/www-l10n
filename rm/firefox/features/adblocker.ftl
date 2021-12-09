@@ -41,3 +41,5 @@ features-adblocker-if-seeing-too-many-ads = Sche memia bleras reclamas ruinan te
 features-adblocker-do-it-yourself-custom = Modus persunalisà per far tez
 features-adblocker-the-custom-setting-gives = Ils parameters da persunalisaziun ta dattan la schelta maximala. Ti pos decider sez tge bloccar, p.ex. ils fastizaders, cookies ed auter pli. Sche ti permettas cookies dad ina website, ta chattas ti automaticamain en il modus persunalisà.
 features-adblocker-cover-your-trail-block = Zuppenta tes fastizs e blochescha fastizaders
+features-adblocker-click-on-the-trackers = Clicca sin la chaschetta «Fastizaders» e ti pos bloccar fastizaders en duas modas. L'emprima opziun per bloccar fastizaders è da far quai cura che ti lavuras en ina fanestra privata. La segunda è da bloccar fastizaders en tut las fanestras. Considerescha che tschertas paginas na vegnan eventualmain betg chargiadas correctamain sche ti ta decidas dad adina bloccar ils fastizaders.
+features-adblocker-take-a-bite-out-of-cookies = Mangia si ils cookies
