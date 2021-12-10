@@ -20,3 +20,4 @@ vpn-what-is-a-vpn-will = Síť VPN chrání datové přenosy, které probíhají
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
 vpn-what-is-a-vpn-provider = Poskytovatel sítě VPN obvykle nabízí několik přípojných bran nacházejících se různě po celém světě, což vám umožní používat IP adresu jiné než vaší lokality. Místo, ke kterému se připojujete, tak jako zdroj vašich přenosů uvidí IP adresu sítě VPN a nikoli vaši skutečnou IP adresu. Služba <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> směruje vaše přenosy přes zabezpečený server a umožňuje vám vybrat si lokalitu z více než { $countries } zemí.
+vpn-what-is-when-should-i = Kdy bych měl používat síť VPN?
