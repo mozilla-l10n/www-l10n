@@ -27,3 +27,4 @@ vpn-what-is-wait-i-thought = Počkat, myslel jsem, že můj internetový provoz 
 vpn-what-is-its-true-that = Je pravda, že většina spojení s webovými stránkami je dnes zabezpečena protokolem HTTPS, což znamená, že obsah, nikoli však zdrojová ani cílová IP adresa, je šifrován. Síť VPN nabízí další ochranu soukromí tím, že znemožňuje webům a třetím stranám zjistit vaši IP adresu.
 vpn-what-is-why-would-i = Proč bych měl používat síť VPN?
 vpn-what-is-hiding-your-identity = Skrývání identity a zahalování webového provozu se může zdát jako něco, co dělají jen velmi technicky zdatní lidé nebo pochybní aktéři. Existuje však celá řada legitimních důvodů, proč byste mohli chtít používat síť VPN, například:
+vpn-what-is-keeping-your-online = Zachování soukromí při online aktivitách.
