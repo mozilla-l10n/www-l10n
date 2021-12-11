@@ -29,3 +29,5 @@ vpn-what-is-why-would-i = Proč bych měl používat síť VPN?
 vpn-what-is-hiding-your-identity = Skrývání identity a zahalování webového provozu se může zdát jako něco, co dělají jen velmi technicky zdatní lidé nebo pochybní aktéři. Existuje však celá řada legitimních důvodů, proč byste mohli chtít používat síť VPN, například:
 vpn-what-is-keeping-your-online = Zachování soukromí při online aktivitách.
 vpn-what-is-keeping-your-home = Uchování geografické polohy domova nebo často navštěvovaných míst v tajnosti.
+vpn-what-is-protecting-your-connection = Ochrana připojení k veřejné síti Wi-Fi, jako třeba v kavárně, na letišti, v obchodě nebo v knihovně.
+vpn-what-is-ensuring-the-confidentiality = Zajištění důvěrnosti a integrity přístupu na internet.
