@@ -22,6 +22,7 @@ mobile-ios-fast-private-secure = Malsny. Priwatny. Wěsty
 mobile-ios-stay-private-online = Wostańśo priwatny online
 mobile-ios-your-browsing-history = Waša pśeglědowańska historija jo historija
 mobile-ios-get-more-firefox = Wobstarajśo se wěcej { -brand-name-firefox } w swójom žiwjenju
+mobile-ios-get-to-your-go-to = Dostańśo se na swójom { -brand-name-iphone } a { -brand-name-ipad } malsnjej tam, źož cośo byś.
 mobile-ios-own-your-home = Mějśo swójsku startowu wobrazowku
 mobile-ios-find-it-all = Malsnjej namakaś
 # Obsolete string
