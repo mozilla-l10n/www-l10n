@@ -33,3 +33,5 @@ vpn-what-is-protecting-your-connection = Ochrana připojení k veřejné síti W
 vpn-what-is-ensuring-the-confidentiality = Zajištění důvěrnosti a integrity přístupu na internet.
 vpn-what-is-make-it-more = Ztížení možnosti reklamních sítí využívat vaši IP adresu k vytváření profilů pro cílení reklamy, které vás sledují po celém webu.
 vpn-what-is-what-are-the = Jaké jsou nevýhody používání sítě VPN?
+vpn-what-is-some-service-providers = Někteří poskytovatelé služeb blokují návštěvy uskutečňované prostřednictvím sítě VPN a znemožňují tak přístup ke svému obsahu, když je zapnutá síť VPN. Některé sítě VPN vás mohou zpomalovat nebo mohou omezovat šířku pásma. A některé sítě VPN dosahují slabých výsledků, pokud jde o respektování soukromí a bezpečnosti uživatelů.
+vpn-what-is-are-vpns-safe = Jsou sítě VPN bezpečné?
