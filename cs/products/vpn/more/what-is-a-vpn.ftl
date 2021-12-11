@@ -31,3 +31,5 @@ vpn-what-is-keeping-your-online = Zachování soukromí při online aktivitách.
 vpn-what-is-keeping-your-home = Uchování geografické polohy domova nebo často navštěvovaných míst v tajnosti.
 vpn-what-is-protecting-your-connection = Ochrana připojení k veřejné síti Wi-Fi, jako třeba v kavárně, na letišti, v obchodě nebo v knihovně.
 vpn-what-is-ensuring-the-confidentiality = Zajištění důvěrnosti a integrity přístupu na internet.
+vpn-what-is-make-it-more = Ztížení možnosti reklamních sítí využívat vaši IP adresu k vytváření profilů pro cílení reklamy, které vás sledují po celém webu.
+vpn-what-is-what-are-the = Jaké jsou nevýhody používání sítě VPN?
