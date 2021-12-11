@@ -43,3 +43,8 @@ features-adblocker-the-custom-setting-gives = Ils parameters da persunalisaziun 
 features-adblocker-cover-your-trail-block = Zuppenta tes fastizs e blochescha fastizaders
 features-adblocker-click-on-the-trackers = Clicca sin la chaschetta «Fastizaders» e ti pos bloccar fastizaders en duas modas. L'emprima opziun per bloccar fastizaders è da far quai cura che ti lavuras en ina fanestra privata. La segunda è da bloccar fastizaders en tut las fanestras. Considerescha che tschertas paginas na vegnan eventualmain betg chargiadas correctamain sche ti ta decidas dad adina bloccar ils fastizaders.
 features-adblocker-take-a-bite-out-of-cookies = Mangia si ils cookies
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/storage
+features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookies</a> ta vegnan tramess da websites che ti visitas. Els èn activs sin tes computer ed observan tge che ti fas sin ina website. Sche ina societad aviatica auza per exempel il pretsch perquai che ti has gia dà in'egliada a bigliets da sgol il medem di, è quai l'effect dad in cookie.
+features-adblocker-in-firefox-you-can-block = En { -brand-name-firefox } pos ti bloccar tuts ils cookies da terzas partidas u mo quels endrizzads da fastizaders. Considerescha che la bloccada da tuts ils cookies po disturbar il funcziunament correct da tschertas websites.
+features-adblocker-send-a-do-not-track-signal = Trametta in signal «Do Not Track»
