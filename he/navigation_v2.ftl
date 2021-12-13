@@ -1,11 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = הורדת { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = קבלת { -brand-name-firefox-account(case: "a") }
 navigation-v2-menu = תפריט
+# Obsolete string
+navigation-v2-get-a-firefox-account = קבלת { -brand-name-firefox-account(case: "a") }
 
 ## Firefox menu
 
@@ -36,6 +37,7 @@ navigation-v2-save-and-discover-the-best = לשמור ולגלות את הסיפ
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = קבלת הגנה מעבר לדפדפן שלך, בכל המכשירים שברשותך.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = ‏{ -brand-name-firefox-relay } (בטא)
 navigation-v2-sign-up-for-new-accounts = הרשמה לחשבונות חדשים מבלי למסור את כתובת הדוא״ל שלך.
 navigation-v2-firefox-private-network-beta = ‏{ -brand-name-firefox-private-network } (בטא)
