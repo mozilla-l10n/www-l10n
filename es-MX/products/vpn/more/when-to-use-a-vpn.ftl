@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 razones por las que deberías usar una VPN
+# HTML page description and intro
+vpn-when-to-use-here-are-five = Aquí hay cinco situaciones en las que una VPN confiable resultará útil, que tal vez no hayas considerado. Cierra la brecha de tu seguridad en línea con { -brand-name-mozilla-vpn }.
 vpn-when-to-use-concealing-your-true = Ocultado tu dirección IP real, lo cual protege tu identidad y esconde tu ubicación.
 vpn-when-to-use-1-a-walk = 1. Un paseo por el parque
 vpn-when-to-use-make-sure-you = Asegurate de entender lo que una VPN no hace

@@ -7,6 +7,7 @@
 
 # HTML Page Title
 vpn-resource-center-title = Centro de recursos de VPN
+vpn-resource-center-whats-the-deal = ¿Cómo funcionan las redes privadas virtuales?
 vpn-resource-center-discover-how-they = Descubre cómo funcionan, por qué son importantes y qué puede hacer por ti el uso de una VPN.
 vpn-resource-center-view-all = Ver todo
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
