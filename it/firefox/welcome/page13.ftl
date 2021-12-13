@@ -19,3 +19,4 @@ welcome-page13-cover-your-work = Proteggi il tuo lavoro e la tua vita privata
 welcome-page13-use-it-on-your = Usalo sul desktop per lavorare, su dispositivi mobili per giocare o per qualsiasi altra combinazione ti serva.
 # CTA button
 welcome-page13-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }
+welcome-page13-why-see-this = Perché viene visualizzata questa pagina?
