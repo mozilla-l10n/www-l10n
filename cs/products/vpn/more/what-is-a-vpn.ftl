@@ -9,7 +9,7 @@
 vpn-what-is-what-is-a-vpn = Co je to síť VPN?
 # HTML page description and intro
 vpn-what-is-get-answers-to-nine = Přečtěte si odpovědi na devět nejčastějších otázek ohledně sítí VPN, abyste měli přehled o tom, k čemu slouží, kdy je používat a proč.
-vpn-what-is-many-of-us = Mnozí z nás tráví na internetu několik hodin denně, a to jak při každodenních činnostech, jako je sledování videí, nakupování, hraní her a placení účtů, tak i při řízení složitých pracovních projektů a důvěrných videohovorech. <strong>Virtuální privátní síť (VPN)</strong> je jedním z nejlepších způsobů, jak si na internetu zajistit soukromí a bezpečí a jak chránit své osobní údaje.
+vpn-what-is-many-of-us = Mnozí z nás tráví na internetu několik hodin denně, a to jak při každodenních činnostech jako je sledování videí, nakupování, hraní her a placení účtů, tak i při řízení složitých pracovních projektů a důvěrných videohovorech. <strong>Virtuální privátní síť (VPN)</strong> je jedním z nejlepších způsobů, jak si na internetu zajistit soukromí a bezpečí a jak chránit své osobní údaje.
 vpn-what-is-how-do-vpns = Jak sítě VPN fungují?
 vpn-what-is-a-vpn-is = Síť VPN je nástroj, který vám poskytne bezpečný přístup k internetu, ať jste kdekoli. VPN funguje tak, že mezi vaším zařízením a vaším poskytovatelem sítě VPN vytvoří zabezpečený „tunel“, který vás chrání dvěma zásadními způsoby:
 vpn-what-is-concealing-your-ip = Tají vaši IP adresu, čímž chrání vaši identitu a zeměpisnou polohu.
@@ -48,4 +48,8 @@ vpn-what-is-can-vpns-protect = Mohou mě sítě VPN ochránit před kyberzločin
 vpn-what-is-while-a-vpn = Přestože síť VPN poskytuje bezpečné připojení k internetu, nechrání vás před všemi zlovolnými aktéry. Při každém svém pobytu na internetu, ať už používáte síť VPN, nebo ne, byste si měli dávat pozor na podezřelé odkazy, dezinformační kampaně, phishingové podvody a další hrozby. <a href="{ $url }">Zachování své bezpečnosti na internetu</a> je věcí každodenního způsobu uvažování.
 vpn-what-is-are-vpns-legal = Jsou sítě VPN legální?
 vpn-what-is-installing-and-using = Instalace a používání sítě VPN je v současné době legální ve většině zemí včetně Spojených států, Velké Británie, Kanady a Nového Zélandu, ale v některých zemích může být jejich používání regulováno. Pokud se rozhodnete síť VPN používat, je vaší povinností prověřit zákony dané země, zda je či není její používání legální.
-vpn-what-is-are-vpns-only = Jsou sítě VPN určeny pouze pro počítače?
+vpn-what-is-are-vpns-only = Jsou sítě VPN určeny jen pro počítače?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-vpns-can-be = Sítě VPN lze použít k ochraně všech vašich zařízení – počítačů, notebooků, tabletů i telefonů. Pokud přistupujete na internet prostřednictvím ještě dalších aplikací než jen prohlížeče, je síť VPN dobrou volbou k ochraně vašeho soukromí a zabezpečení na jakémkoli zařízení. Aby byla síť VPN účinná, je třeba ji nainstalovat do každého zařízení. Služba <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> nabízí neomezené připojení až pro pět zařízení při připojení na internet z jakékoli aplikace nebo prohlížeče.
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rychlá, bezpečná, důvěryhodná
