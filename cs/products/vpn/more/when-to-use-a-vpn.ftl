@@ -16,3 +16,4 @@ vpn-when-to-use-concealing-your-true = Tají vaší skutečnou IP adresu, čím�
 vpn-when-to-use-encrypting-your-traffic = Šifruje přenosy probíhající mezi vámi a vaším poskytovatelem sítě VPN, takže je nikdo ve vaší místní síti nemůže dešifrovat ani pozměňovat.
 vpn-when-to-use-having-a-vpn = Mít síť VPN po ruce, když ji potřebujete, je dobrý nápad. Zde je několik případů, kdy se vám spolehlivá síť VPN bude hodit a o kterých jste možná dosud neuvažovali.
 vpn-when-to-use-1-a-walk = 1. Procházka v parku
+vpn-when-to-use-make-sure-you = Ujistěte se, že chápete, co síť VPN nedělá
