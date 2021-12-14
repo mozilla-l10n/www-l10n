@@ -7,3 +7,5 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 důvodů, proč byste měli používat síť VPN
+# HTML page description and intro
+vpn-when-to-use-here-are-five = Zde uvádíme pět situací, kdy se vám bude hodit spolehlivá síť VPN, o kterých jste možná neuvažovali. Zacelte díru ve svém internetovém zabezpečení pomocí služby { -brand-name-mozilla-vpn }.
