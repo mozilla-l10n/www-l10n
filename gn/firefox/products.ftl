@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Eñemoirũ { -brand-name-firefo
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = ¿Erekóma mba’ete? <a { $fxa_attr }>Eñepyrũ tembiapo</a> térã <a { $accounts_attr }>ehecha</a> mba’éichapa ejuajúta { -brand-name-firefox } rehe.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Ne kundahára omba’apóva tekoñemíre ñemo’ã ijeheguíva tapykueho rovake ha ñemurã jejokópe.

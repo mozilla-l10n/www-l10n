@@ -132,6 +132,8 @@ vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = ¿Mba’e tetãme reiko?
 vpn-landing-invite-language-label = Eiporavo ñe’ẽ eguerohoryvéva.
 vpn-landing-invite-platform-label = ¿Mba’e jehechaukahapa pe eipotavéva?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }

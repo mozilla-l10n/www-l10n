@@ -40,6 +40,9 @@ firefox-desktop-download-in-browser-screenshot = Mba’erecha japyhyha kundahár
 firefox-desktop-download-primary-password = Ñe’ẽñemi ha’etéva
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Ejehayhúke eikundahávo
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Ne ñanduti. Embosa’y eipotaháicha etaiterei tembipuru rupive, téma ha jepysokue. { -brand-name-firefox } ha’e kundahára mokõiha ypyguáva oguerekóva yvypórape viru jepota ári.
 # Obsolete string
 firefox-desktop-download-master-password = Ñe’ẽñemi peteĩháva
 firefox-desktop-download-we-block-the-ad = Roheka tapykuehoha ñemurãva. Upevarã eheka ñanduti ipya’éva.
