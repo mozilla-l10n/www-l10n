@@ -14,3 +14,5 @@ vpn-when-to-use-here-are-five = Zde uvádíme pět situací, kdy se vám bude ho
 vpn-when-to-use-as-more-of = S tím, jak se stále více každodenního života odehrává prostřednictvím internetového připojení, nabývají na důležitosti otázky ochrany soukromí a bezpečnosti. VPN – <a href="{ $vpn }">virtuální privátní síť</a> – může každému pomoci vytvořit bezpečné a soukromé připojení k internetu. Funguje tak, že mezi vaším zařízením a internetem jako celkem vytvoří bezpečný „tunel“, který vás chrání dvěma důležitými způsoby:
 vpn-when-to-use-concealing-your-true = Tají vaší skutečnou IP adresu, čímž chrání vaši identitu a zamlžuje vaši zeměpisnou polohu.
 vpn-when-to-use-encrypting-your-traffic = Šifruje přenosy probíhající mezi vámi a vaším poskytovatelem sítě VPN, takže je nikdo ve vaší místní síti nemůže dešifrovat ani pozměňovat.
+vpn-when-to-use-having-a-vpn = Mít síť VPN po ruce, když ji potřebujete, je dobrý nápad. Zde je několik případů, kdy se vám spolehlivá síť VPN bude hodit a o kterých jste možná dosud neuvažovali.
+vpn-when-to-use-1-a-walk = 1. Procházka v parku
