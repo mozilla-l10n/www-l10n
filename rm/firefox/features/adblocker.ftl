@@ -53,3 +53,7 @@ features-adblocker-send-a-do-not-track-signal = Trametta in signal «Do Not Trac
 features-adblocker-if-you-dont-want-your = Sche ti na vulessas betg che tes cumportament online vegnia utilisà per reclamas, pos ti trametter in messadi curtaschaivel «Na, grazia!» cun activar l'opziun <a href="{ $url }">Betg ma fastizar</a> en { -brand-name-firefox }. La participaziun è facultativa, ma las websites che participeschan, chalan immediatamain da ta suandar.
 features-adblocker-speed-up-thanks-to-ad = Tempo grazia a bloccadas da reclama
 features-adblocker-in-some-cases-an-ad-blocker = En tscherts cas po ina bloccada da reclamas accelerar tes navigatur. Sch'ina reclama vegn chargiada po quai ralentar ina website. Il medem mument duri pli ditg da chattar quai che ti tschertgas sche ti es fatschentà cun serrar anc ina reclama.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more = Sche ti vuls savair dapli davart la bloccada da reclamas stattan a disposiziun tschients dad extensiuns per { -brand-name-firefox } ed auters navigaturs. Sche ti vuls empruvar la bloccada da reclamas che { -brand-name-firefox } utilisescha, <a href="{ $url }">clicca qua per telechargiar</a> in navigatur per il qual la protecziun da datas ha la prioritad.
+features-adblocker-take-control-of-your-browser = Tegna sut controlla tes navigatur.
