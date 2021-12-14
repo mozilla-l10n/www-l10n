@@ -52,3 +52,4 @@ features-adblocker-send-a-do-not-track-signal = Trametta in signal «Do Not Trac
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Sche ti na vulessas betg che tes cumportament online vegnia utilisà per reclamas, pos ti trametter in messadi curtaschaivel «Na, grazia!» cun activar l'opziun <a href="{ $url }">Betg ma fastizar</a> en { -brand-name-firefox }. La participaziun è facultativa, ma las websites che participeschan, chalan immediatamain da ta suandar.
 features-adblocker-speed-up-thanks-to-ad = Tempo grazia a bloccadas da reclama
+features-adblocker-in-some-cases-an-ad-blocker = En tscherts cas po ina bloccada da reclamas accelerar tes navigatur. Sch'ina reclama vegn chargiada po quai ralentar ina website. Il medem mument duri pli ditg da chattar quai che ti tschertgas sche ti es fatschentà cun serrar anc ina reclama.
