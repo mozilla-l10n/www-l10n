@@ -52,7 +52,7 @@ vpn-what-is-are-vpns-only = Jsou sítě VPN určeny jen pro počítače?
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = Sítě VPN lze použít k ochraně všech vašich zařízení – počítačů, notebooků, tabletů i telefonů. Pokud přistupujete na internet prostřednictvím ještě dalších aplikací než jen prohlížeče, je síť VPN dobrou volbou pro ochranu vašeho soukromí a zabezpečení na jakémkoli zařízení. Aby měla síť VPN patřičný efekt, je třeba ji nainstalovat do každého zařízení. Služba <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> nabízí neomezené připojení až pro pět zařízení při připojení na internet z jakékoli aplikace nebo prohlížeče.
-vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rychlá, bezpečná, důvěryhodná
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rychlá, bezpečná, spolehlivá
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je služba, u níž se můžete spolehnout, že bude vaše připojení k internetu na všech vašich zařízeních bezpečné. Nevedeme si záznamy o vaší síťové aktivitě a nespolupracujeme s třetími stranami, které si vytvářejí profily toho, co na internetu děláte. Uvědomujeme si, že ve světě, kde se nevyzpytatelnost stala „novým normálem“, je důležitější než kdy jindy, abyste se cítili v bezpečí a abyste věděli, že to, co na internetu děláte, je jen a jen vaše věc.
@@ -60,3 +60,7 @@ vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vp
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je služba, u níž se můžete spolehnout, že bude vaše připojení k internetu na všech vašich zařízeních bezpečné. Nevedeme si záznamy o vaší síťové aktivitě a nespolupracujeme s třetími stranami, které si vytvářejí profily toho, co na internetu děláte. Uvědomujeme si, že ve světě, kde se nevyzpytatelnost stala novým normálem…
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je služba, u níž se můžete spolehnout, že bude vaše připojení k internetu na všech vašich zařízeních bezpečné. Nevedeme si záznamy uživatelských dat a nespolupracujeme s analytickými platformami třetích stran, které si chtějí vytvářet profil toho, co na internetu děláte. Uvědomujeme si, že ve světě, kde se nevyzpytatelnost stala „novým normálem“, je důležitější než kdy jindy, abyste se cítili v bezpečí a abyste věděli, že to, co na internetu děláte, je jen a jen vaše věc.
