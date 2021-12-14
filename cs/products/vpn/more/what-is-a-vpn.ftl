@@ -47,7 +47,7 @@ vpn-what-is-can-vpns-protect = Mohou mě sítě VPN ochránit před kyberzločin
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
 vpn-what-is-while-a-vpn = Přestože síť VPN poskytuje bezpečné připojení k internetu, nechrání vás před všemi zlovolnými aktéry. Při každém svém pobytu na internetu, ať už používáte síť VPN, nebo ne, byste si měli dávat pozor na podezřelé odkazy, dezinformační kampaně, phishingové podvody a další hrozby. <a href="{ $url }">Zachování své bezpečnosti na internetu</a> je věcí každodenního způsobu uvažování.
 vpn-what-is-are-vpns-legal = Jsou sítě VPN legální?
-vpn-what-is-installing-and-using = Instalace a používání sítě VPN je v současné době legální ve většině zemí včetně České republiky, Spojených států, Velké Británie, Kanady a Nového Zélandu, ale v některých zemích může být jejich používání regulováno. Pokud se rozhodnete síť VPN používat, je vaší povinností ověřit si v zákonech dané země, zda je či není její používání legální.
+vpn-what-is-installing-and-using = Instalace a používání sítě VPN je v současné době legální ve většině zemí včetně České republiky, Spojených států, Velké Británie, Kanady a Nového Zélandu, ale v některých zemích může být jejich používání regulováno. Pokud se rozhodnete síť VPN používat, je vaší povinností ověřit si v zákonech dané země, zda je její používání legální.
 vpn-what-is-are-vpns-only = Jsou sítě VPN určeny jen pro počítače?
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
