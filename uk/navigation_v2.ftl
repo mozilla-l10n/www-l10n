@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Завантажити { -brand-name-firefox }
@@ -73,7 +73,7 @@ navigation-v2-more-about-mozilla = Докладніше про { -brand-name-moz
 navigation-v2-innovation = Нововведення
 navigation-v2-close-innovation-menu = Закрити меню Нововведення
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Збирайтеся в цьому інтерактивному, мережному, багатовимірному соціальному просторі.
+navigation-v2-gather-in-this-interactive-online = Збирайтеся в цьому інтерактивному, мережному, багатовимірному суспільному просторі.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Отримати створений спеціально для розробників браузер { -brand-name-firefox }.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
