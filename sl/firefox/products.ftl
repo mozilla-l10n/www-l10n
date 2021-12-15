@@ -49,3 +49,5 @@ firefox-products-join-firefox-and-get-the-most = Pridružite se { -brand-name-fi
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Že imate račun? <a { $fxa_attr }>Prijavite se</a> ali <a { $accounts_attr }>izvedite več</a> o pridružitvi { -brand-name-firefox }u.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Vaš namenski zasebni brskalnik s samodejno zaščito pred sledenjem in zavračanjem oglasov.
