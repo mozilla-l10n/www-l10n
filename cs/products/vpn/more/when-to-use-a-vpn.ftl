@@ -17,6 +17,7 @@ vpn-when-to-use-encrypting-your-traffic = Šifruje přenosy probíhající mezi 
 vpn-when-to-use-having-a-vpn = Mít síť VPN po ruce, když ji potřebujete, je dobrý nápad. Zde je několik případů, kdy se vám spolehlivá síť VPN bude hodit a o kterých jste možná dosud neuvažovali.
 vpn-when-to-use-1-a-walk = 1. Procházka v parku
 vpn-when-to-use-its-a-beautiful = Je krásné sobotní ráno a vy jste se usadili na lavičce v parku, abyste si na sluníčku a čerstvém vzduchu vychutnali kávu a přitom si prošli své oblíbené zpravodajské weby, zhlédli pár videí a rychle si nakoupili online. Než abyste vyčerpali svá mobilní data, raději se připojíte k městské veřejné síti Wi-Fi. Je zdarma a provozuje ji město, takže musí být v pohodě, ne? Faktem ovšem je, že si nemůžete být jisti, zda je městská síť bezpečná nebo dokonce skutečná (viz další bod) a nastavená tak, aby vás chránila před zlomyslnými lidmi nebo subjekty, které vás během připojení špehují. Zapnutí sítě VPN může pomoci ochránit vaše zařízení před kýmkoli, kdo se během vašeho pohodlného vysedávání na lavičce v parku pokusí slídit na stránkách, které navštěvujete, nebo zmocnit vašich citlivých přihlašovacích údajů.
+vpn-when-to-use-2-in-the = 2. V blízkém okolí
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 # "C0MCAST-WiFi-77th-St" and "Verizon3-Hotspot-Baltimore" are examples of possibly suspicious public wifi networks. You can substitute similar example names for your locale.
