@@ -8,9 +8,9 @@
 # HTML Page title
 about-learn-about-mozilla = Μάθετε για τη { -brand-name-mozilla }
 # HTML page description
-about-mozilla-makes-browsers-apps-desc = Η { -brand-name-mozilla } δημιουργεί προγράμματα περιήγησης, εφαρμογές, κώδικα και εργαλεία που βάζουν τους ανθρώπους πριν από τα κέρδη. Η αποστολή μας: Να παραμείνει το διαδίκτυο ανοικτό και προσβάσιμο σε όλους.
+about-mozilla-makes-browsers-apps-desc = Η { -brand-name-mozilla } δημιουργεί προγράμματα περιήγησης, εφαρμογές, κώδικα και εργαλεία που βάζουν τους ανθρώπους πάνω από το κέρδος. Η αποστολή μας: Να παραμείνει το διαδίκτυο ανοικτό και προσβάσιμο σε όλους.
 # Main heading
-about-mozilla-makes-browsers-apps = Η { -brand-name-mozilla } δημιουργεί προγράμματα περιήγησης, εφαρμογές, κώδικα και εργαλεία που βάζουν τους ανθρώπους πριν από τα κέρδη.
+about-mozilla-makes-browsers-apps = Η { -brand-name-mozilla } δημιουργεί προγράμματα περιήγησης, εφαρμογές, κώδικα και εργαλεία που βάζουν τους ανθρώπους πάνω από το κέρδος.
 # Main sub-heading
 about-our-mission-keep-the-internet = Η αποστολή μας: Διατηρήστε το διαδίκτυο ανοικτό και προσβάσιμο σε όλους.
 # Main call to action

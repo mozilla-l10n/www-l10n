@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -19,7 +19,7 @@ features-index-give-your-browser = Δώστε στο πρόγραμμα περι
 features-index-important-stuff = Όλα τα σημαντικά δεδομένα σας — αναζητήσεις, κωδικοί πρόσβασης, ανοικτές καρτέλες — θα είναι διαθέσιμα σε κάθε σας συσκευή.
 features-index-get-an-account = Απόκτηση { -brand-name-firefox-account(case: "gen", capitalization: "lower") }
 features-index-use-the-bookmark = Οργάνωση σελιδοδεικτών, προσθήκη προσαρμοσμένων ονομάτων και φακέλων με το κουμπί σελιδοδεικτών (εικονίδιο-αστέρι).
-features-index-from-the-company = Από μια εταιρεία που βάζει τους ανθρώπους πριν από το κέρδος
+features-index-from-the-company = Από μια εταιρεία που βάζει τους ανθρώπους πάνω από το κέρδος
 features-index-private-browsing-mode = Η λειτουργία ιδιωτικής περιήγησης διαγράφει τα δεδομένα cookie και το ιστορικό περιήγησής σας κάθε φορά που την κλείνετε.
 features-index-firefox-automatically = Το { -brand-name-firefox } αποκλείει αυτόματα 2000+ ιχνηλάτες διαφημίσεων σε όλο το διαδίκτυο.
 features-index-access-all-passwords = Το { -brand-name-firefox-lockwise } παρέχει πρόσβαση σε όλα τα στοιχεία σύνδεσης που έχετε αποθηκεύσει στο { -brand-name-firefox } — δωρεάν.
