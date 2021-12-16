@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -28,7 +28,7 @@ about-corporation-foundation-not = Εταιρεία. Ίδρυμα. Όχι για
 about-learn-about-the-mozilla-foundation = Μάθετε για το { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = Η { -brand-name-mozilla } βάζει τους ανθρώπους πάνω από το κέρδος, σε όσα λέει, κάνει και δημιουργεί. Στην πραγματικότητα, υπάρχει ένα μη κερδοσκοπικό ίδρυμα στην καρδιά της επιχείρησής μας.
 about-the-mozilla-manifesto = Η Διακήρυξη της { -brand-name-mozilla }
-about-the-principles-we-wrote-in = Οι αρχές που γράψαμε το 1998 μάς καθοδηγούν ακόμη και σήμερα. Και το 2018, δημιουργήσαμε ένα προσάρτημα με έμφαση στην ένταξη, το απόρρητο και την ασφάλεια όλων στο διαδίκτυο.
+about-the-principles-we-wrote-in = Οι αρχές που γράψαμε το 1998 μας καθοδηγούν ακόμη και σήμερα. Και το 2018, δημιουργήσαμε ένα προσάρτημα με έμφαση στην ένταξη, το απόρρητο και την ασφάλεια όλων στο διαδίκτυο.
 about-read-the-manifesto = Διαβάστε τη διακήρυξη
 about-a-global-view = Μια παγκόσμια θέα
 about-with-offices-all-over-the = Με <a href="{ $url }">γραφεία σε όλο τον κόσμο</a>, παρατηρούμε το διαδίκτυο από πολλαπλούς πολιτισμούς και περιβάλλοντα.

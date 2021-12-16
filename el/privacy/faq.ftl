@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -19,7 +19,7 @@ privacy-faq-we-put-people-in-control-of = Δίνουμε στους χρήστε
 privacy-faq-we-adhere-to-no-surprises-principle = Ακολουθούμε την αρχή “καμία έκπληξη”, που σημαίνει ότι εργαζόμαστε σκληρά, ώστε να εξασφαλίσουμε ότι η αντίληψη των χρηστών για το { -brand-name-firefox } ταυτίζεται με την πραγματικότητα.
 privacy-faq-the-following-questions-and = Οι ακόλουθες ερωτήσεις και απαντήσεις θα σάς βοηθήσουν να καταλάβετε τι να περιμένετε από τη { -brand-name-mozilla } και το { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Χρησιμοποιώ το { -brand-name-firefox } για σχεδόν οτιδήποτε στο διαδίκτυο. Εσείς στη { -brand-name-mozilla } πρέπει να ξέρετε τα πάντα για μένα, έτσι;
-privacy-faq-firefox-the-web-browser-that = Το { -brand-name-firefox }, το πρόγραμμα περιήγησης ιστού που εκτελείται στην κινητή συσκευή ή τον υπολογιστή σας, είναι η πύλη προς το διαδίκτυο. Το πρόγραμμα περιήγησής σας θα διαχειρίζεται πολλές πληροφορίες σχετικά με τις ιστοσελίδες που επισκέπτεστε, αλλά οι πληροφορίες παραμένουν στη συσκευή σας. Η { -brand-name-mozilla }, η εταιρεία που αναπτύσσει το { -brand-name-firefox }, δεν τις συλλέγει (εκτός κι αν μάς το ζητήσετε).
+privacy-faq-firefox-the-web-browser-that = Το { -brand-name-firefox }, το πρόγραμμα περιήγησης ιστού που εκτελείται στην κινητή συσκευή ή τον υπολογιστή σας, είναι η πύλη προς το διαδίκτυο. Το πρόγραμμα περιήγησής σας θα διαχειρίζεται πολλές πληροφορίες σχετικά με τους ιστοτόπους που επισκέπτεστε, αλλά οι πληροφορίες παραμένουν στη συσκευή σας. Η { -brand-name-mozilla }, η εταιρεία που αναπτύσσει το { -brand-name-firefox }, δεν τις συλλέγει (εκτός κι αν μας το ζητήσετε).
 privacy-faq-really-you-dont-collect-my-browsing = Ειλικρινά, δεν συλλέγετε το ιστορικό περιήγησής μου;
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/

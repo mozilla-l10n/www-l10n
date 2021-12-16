@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -10,7 +10,7 @@ firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = Περιηγηθείτε στην άγρια πλευρά.
 firefox-channel-be-among-the-first-to-explore = Γίνετε από τους πρώτους που θα εξερευνήσουν τις μελλοντικές εκδόσεις του { -brand-name-firefox } για τον υπολογιστή, το { -brand-name-android } και το { -brand-name-ios }.
-firefox-channel-see-something-that-isnt-working = Εντοπίσατε ότι κάτι δεν πάει καλά; Ενημερώστε μάς.
+firefox-channel-see-something-that-isnt-working = Εντοπίσατε ότι κάτι δεν πάει καλά; Ενημερώστε μας.
 firefox-channel-file-a-bug-now = Αναφορά σφάλματος τώρα
 firefox-channel-tips-for-filing-a-bug = Συμβουλές για τις αναφορές
 firefox-channel-try-new-features-in-a-pre = Δοκιμάστε νέες λειτουργίες σε ένα πρώιμο πρόγραμμα περιήγησης για { -brand-name-android } | { -brand-name-firefox }
@@ -49,7 +49,7 @@ firefox-channel-developer-edition-is-an = Το { -brand-name-developer-edition }
 firefox-channel-firefox-developer-edition = Το { -brand-name-firefox-developer-edition } στέλνει αυτόματα σχόλια στη { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Πάρτε μια πρώτη γεύση από τη νέα γενιά της περιήγησης στο διαδίκτυο και βοηθήστε μας να δημιουργήσουμε το καλύτερο πρόγραμμα περιήγησης: δοκιμάστε το { -brand-name-firefox-nightly }.
-firefox-channel-test-brand-new-features = Δοκιμάστε ολοκαίνουριες λειτουργίες καθημερινά. Δοκιμάστε με δική σας ευθύνη.
+firefox-channel-test-brand-new-features = Δοκιμάστε ολοκαίνουριες λειτουργίες καθημερινά. Απολαύστε με δική σας ευθύνη.
 firefox-channel-try-new-features-in-a-pre-release = Δοκιμάστε νέα χαρακτηριστικά στην προ-έκδοση ενός προγράμματος περιήγησης για { -brand-name-ios } | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-features-ios = Πειραματιστείτε με τα πιο σύγχρονα χαρακτηριστικά στην προ-έκδοση ενός προγράμματος περιήγησης για { -brand-name-ios } μέσω του προγράμματος { -brand-name-test-flight } της { -brand-name-apple }. Εγκατάσταση τώρα!
 firefox-channel-test-beta-versions-of-firefox-ios-long = Δοκιμάστε τις εκδόσεις beta του { -brand-name-firefox } για { -brand-name-ios } μέσω του προγράμματος { -brand-name-test-flight } της { -brand-name-apple } και συνεισφέρετε στη βελτίωση του προγράμματος περιήγησής μας για { -brand-name-iphone }, { -brand-name-ipad } και iPod touch.

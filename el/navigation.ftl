@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Λήψη του { -brand-name-firefox }
 navigation-get-a-firefox-account = Απόκτηση { -brand-name-firefox-account(case: "gen", capitalization: "lower") }
@@ -52,7 +52,7 @@ navigation-mozilla-brings-virtual = Η { -brand-name-mozilla } φέρνει τη
 # Outdated string
 navigation-mozilla-brings-firefox = Η { -brand-name-mozilla } φέρνει το { -brand-name-firefox } στην επαυξημένη και την εικονική πραγματικότητα.
 navigation-firefox-built-just-for = Το { -brand-name-firefox }, μόνο για προγραμματιστές.
-navigation-preview-the-latest-build = Προεπισκοπήστε την τελευταία έκδοση του { -brand-name-firefox } και βοηθήστε μάς να το κάνουμε καλύτερο.
+navigation-preview-the-latest-build = Δοκιμάστε την τελευταία έκδοση του { -brand-name-firefox } και βοηθήστε μας να το κάνουμε καλύτερο.
 navigation-firefox-playground = { -brand-name-firefox } Playground
 navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Support (MOSS)
 navigation-mozilla-manifesto = Διακήρυξη της { -brand-name-mozilla }
