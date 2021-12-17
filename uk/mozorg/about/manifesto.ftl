@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -43,7 +43,7 @@ manifesto-10 = 10
 manifesto-the-mozilla-manifesto-addendum = Додаток до маніфесту { -brand-name-mozilla }
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Ми - за здоровий інтернет
-manifesto-the-open-global-internet = Відкритий, глобальний інтернет - це найпотужніший з відомих нам ресурсів комунікації та співпраці. Він втілює наші найглибші надії на прогрес людства. Він надає нові можливості для навчання, взаєморозуміння та вирішення глобальних проблем.
+manifesto-the-open-global-internet = Відкритий, глобальний інтернет — це найпотужніший з відомих нам ресурсів спілкування та співпраці. Він втілює наші найглибші надії на прогрес людства. Він надає нові можливості для навчання, взаєморозуміння та розвʼязання глобальних проблем.
 manifesto-over-the-last-decade-we = Протягом останнього десятиріччя інтернет виправдав чимало із наших сподівань. Але інтернет може так само виступати потужним інструментом розповсюдження розладу, жорстокості, ненависті та дезінформації. Ми вважаємо за необхідне конкретизувати свої погляди на користування інтернетом. Ось вони.
 manifesto-we-are-committed-to-people = Ми виступаємо за інтернет для всіх, інтернет, у якому наявність доступу, вибір можливостей та якість зв'язку не залежать від демографічних характеристик користувача.
 manifesto-we-are-committed-to-discourse = Ми виступаємо за інтернет, який впроваджує ввічливість у спілкуванні, повагу до людської гідності та право на свободу думки.

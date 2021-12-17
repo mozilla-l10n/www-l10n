@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -23,7 +23,7 @@ firefox-channel-all-languages-and-platforms = Усі мови та платфо�
 firefox-channel-all-languages-and-builds = Усі мови та випуски
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } - це нестабільна платформа для тестування й розробки. Типово, { -brand-name-beta } надсилає дані в { -brand-name-mozilla } — й іноді нашим партнерам — для допомоги з вирішенням проблем і випробування ідей. <a href="{ $link }">Дізнайтеся, яка інформація надсилається</a>.
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } — це нестабільна платформа для тестування й розробки. Типово, { -brand-name-beta } надсилає дані до { -brand-name-mozilla } — а іноді нашим партнерам — для допомоги з усунення проблем і випробування ідей. <a href="{ $link }">Дізнайтеся, яка інформація надсилається</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } автоматично надсилає дані в { -brand-name-mozilla }.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
@@ -32,7 +32,7 @@ firefox-channel-check-out-new-android-features = Спробуйте нові м�
 firefox-channel-nightly-blog = Блог { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } - це нестабільна платформа для тестування й розробки. Типово, { -brand-name-nightly } надсилає дані в { -brand-name-mozilla } — й іноді нашим партнерам — для допомоги з вирішенням проблем і випробування ідей. <a href="{ $link }">Дізнайтеся, яка інформація надсилається</a>.
+firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } — це нестабільна платформа для тестування й розробки. Типово, { -brand-name-nightly } надсилає дані до { -brand-name-mozilla } — а іноді нашим партнерам — для допомоги з усунення проблем і випробування ідей. <a href="{ $link }">Дізнайтеся, яка інформація надсилається</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } автоматично надсилає дані в { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Спробуйте нові функції браузера в тестових версіях | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Спробуйте найновіші функції браузера в тестових версіях: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } і { -brand-name-firefox-nightly }. Завантажте зараз!
@@ -45,7 +45,7 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Створюйте, випробовуйте, вимірюйте та виконуйте інші завдання за допомогою єдиного браузера для розробників.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } - це нестабільна платформа для тестування й розробки. Типово, { -brand-name-developer-edition } надсилає дані в { -brand-name-mozilla } — й іноді нашим партнерам — для допомоги з вирішенням проблем і випробування ідей. <a href="{ $link }">Дізнайтеся, яка інформація надсилається</a>.
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } — це нестабільна платформа для тестування й розробки. Типово, { -brand-name-developer-edition } надсилає дані до { -brand-name-mozilla } — а іноді нашим партнерам — для допомоги з усунення проблем і випробування ідей. <a href="{ $link }">Дізнайтеся, яка інформація надсилається</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } автоматично надсилає дані в { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Погляньте на наш браузер нового покоління і допоможіть нам зробити його найкращим з усіх: спробуйте { -brand-name-firefox-nightly }.
