@@ -20,7 +20,7 @@ mobile-focus-scan-alt-text = Naskenujte QR kód a získajte { -brand-name-firefo
 # Outdated string
 mobile-focus-disappear-your-history = Zbavte sa svojej histórie
 mobile-focus-delete-your-history = Odstráňte svoju históriu
-mobile-focus-easily-erase-your = Jednoducho vymažte svoju históriu, heslá a súbory cookie, aby vás na internete neprenasledovali nechcené reklamy. Stačí klepnúť na tlačidlo vymazať vo vyhľadávacom poli a je to preč.
+mobile-focus-easily-erase-your = Jednoducho vymažte svoju históriu, heslá a súbory cookie, aby vás na internete neprenasledovali nechcené reklamy. Stačí ťuknúť na tlačidlo vymazať vo vyhľadávacom poli a je to preč.
 mobile-focus-take-private-mode = Posuňte súkromný režim na ďalšiu úroveň
 # Outdated string
 mobile-focus-private-browsing-on = „Súkromné prehliadanie“ vo väčšine prehliadačov nie je až také súkromné. { -brand-name-firefox-focus } je na vyššej úrovni, vždy v záujme ochrany súkromia a stojí za ním { -brand-name-mozilla }, nezisková organizácia, ktorá bojuje za vaše práva na webe.
