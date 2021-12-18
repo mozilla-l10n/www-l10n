@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Aw Leids
 sub-navigation-firefox = { -brand-name-firefox }
@@ -23,6 +23,7 @@ sub-navigation-desktop-beta-and-developer = Desktap { -brand-name-beta } & { -br
 sub-navigation-desktop-nightly = Desktap { -brand-name-nightly }
 sub-navigation-features = Featurs
 sub-navigation-support = Hauners
+sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Eik-ons
 sub-navigation-add-ons = Eik-ons
@@ -36,7 +37,6 @@ sub-navigation-android-add-ons = { -brand-name-android } Eik-ons
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
-sub-navigation-lockwise = { -brand-name-lockwise }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bit
 sub-navigation-mac = { -brand-name-mac-short }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Doonload { -brand-name-firefox }
@@ -19,6 +19,7 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } fur { -brand-name-an
 navigation-v2-get-the-customizable-mobile = Get the mobile stravaiger ye can mak yer ain fur { -brand-name-android } smertphones.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } fur { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Get the mobile stravaiger fur yer { -brand-name-iphone } or { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-privacy-promise = Privacy Promise
 navigation-v2-learn-how-firefox-treats = Lairn how { -brand-name-firefox } treats yer data wi respect.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
