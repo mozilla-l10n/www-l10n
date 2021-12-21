@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -12,7 +12,7 @@ best-browser-how-to-choose-the-best = Tak najlěpši wobhladowak za was wuběra�
 best-browser-the-internet-has-become = Internet bu tak wažny kaž elektricita a běžaca woda, tak je wažniše hač do toho, najlěpši wobhladowak wubrać. Internet je druhi běrow, wučer a druhdy medicinski radźićel, samo hdy by waš poprawny lěkar preferował, zo za swojimi symptomami online njehladaće.
 best-browser-in-the-mid-nineties = Srjedź dźewjećdźesatych lět su { -brand-name-netscape }, { -brand-name-ie } a AOL krajinu dominowali. Běše jednoriši čas, hdyž słódka melodija wolenskeho interneta přez kraj zazwoni. Sće wuknył, sćerpny być, doniž so webstrony njezačitaja. Tehdy je so jenož spěšnosć wobhladowaka ličiła.
 best-browser-today-is-a-different = Dźensa to je hinak. Wabjenje, zranjenja priwatnosće, wěstotne dźěry a falšne powěsće wjedu k tomu, zo maće druhe kwality wobhladowaka za wažniše. Kak wobhladowak wašu priwatnosć škita? Dowoluje přesćěhowakam, zo wam po webje slěduja? Je so za multiprocesowe dźěło wutworił a zo by z wjele operacijemi ličaka a interneta naraz wobchadźał?
-best-browser-when-you-use-a-browser = Hdyž wobhladowak za wšitko wužiwaće, dyrbi spěšny być. Ale ze samsneje přičiny dyrbi priwatny być. Wobhladowak ma přistup na wšitko, štož online činiće, móže was tuž strachej wustajić, jeli mócne funkcije priwatnosće nima.
+best-browser-when-you-use-a-browser = Hdyž wobhladowak za wšitko wužiwaće, dyrbi spěšny być. Ale ze samsneje přičiny dyrbi priwatny być. Wobhladowak ma přistup ke wšemu, štož online činiće, móže was tuž strachej wustajić, jeli mócne funkcije priwatnosće nima.
 best-browser-marshall-erwin-senior = Marshall Erwin, Senior Director za dowěru a wěstotu pola { -brand-name-mozilla }
 best-browser-if-youre-wondering = Jeli so sebje prašeće, što rěka, priwatny abo spěšny wobhladowak měć, tu je zestawa třoch wěcow, kotrež wobhladowak dyrbjał měć.
 best-browser-a-browser-built-for = Wobhladowak, kotryž je so za spěšnosć wuwił.

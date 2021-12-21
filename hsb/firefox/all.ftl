@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -25,7 +25,7 @@ firefox-all-32-bit-installers = 32-bitowe instalowaki
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Sćehńće wobhladowak { -brand-name-firefox-browser } w hornjoserbšćinje a wjace hač 90 druhich rěčach
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Kóždy sej přistup na internet zasłuži - waša rěč njeměła ženje zadźěwk być. Tohodla stajamy z pomocu angažowanych dobrowólnikow z cyłeho swěta { -brand-name-firefox-browser } we wjace hač 90 rěčach k dispoziciji.
+firefox-all-everyone-deserves-access = Kóždy sej přistup k internetej zasłuži - waša rěč njeměła ženje zadźěwk być. Tohodla stajamy z pomocu angažowanych dobrowólnikow z cyłeho swěta { -brand-name-firefox-browser } we wjace hač 90 rěčach k dispoziciji.
 firefox-all-choose-which-firefox = Wubjerće { -brand-name-firefox-browser }, kotryž chceće w swojej rěči sćahnyć
 firefox-all-firefox-privacy-notice = Pokazki priwatnosće { -brand-name-firefox }
 firefox-all-learn-about-firefox = Zhońće wjace wo wobhladowakach { -brand-name-firefox }
