@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
@@ -8,7 +8,7 @@
 # HTML page title
 features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Lěpše zapołožki wšudźe, hdźež sće
 # HTML page description
-features-bookmarks-easily-organize-your-bookmarks = Rjadujće swoje zapołožki lochko w rjadowaku a mějće přistup na nje přez wšě graty, wot desktopa do mobilneho grata.
+features-bookmarks-easily-organize-your-bookmarks = Rjadujće swoje zapołožki lochko w rjadowaku a mějće přistup k nim přez wšě graty, wot desktopa do mobilneho grata.
 features-bookmarks-better-bookmarks = Lěpše zapołožki
 features-bookmarks-dont-agonize-lovers-of = Njedračujće so, přećeljo zapołožkow. Organizujće z { -brand-name-firefox }.
 # File means to save (that bookmark).
@@ -20,7 +20,7 @@ features-bookmarks-fly-with-that-bookmark = Wužiwajće swoju zapołožku po pu�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
-features-bookmarks-take-your-favorites-on = Wužiwajće swoje fawority po puću. Wužiwajće { -brand-name-firefox-sync }, zo byšće přez wšě graty přistup na swoje zapołoki měł, wot desktopa do mobilneho grata. Abo spytajće <a href="{ $url }">{ -brand-name-pocket }</a>, zo byšće nastawk abo stronu online składował a so pozdźiśo wróćił - samo bjez interneta.
+features-bookmarks-take-your-favorites-on = Wužiwajće swoje fawority po puću. Wužiwajće { -brand-name-firefox-sync }, zo byšće přez wšě graty přistup k swojim zapołokam měł, wot desktopa do mobilneho grata. Abo spytajće <a href="{ $url }">{ -brand-name-pocket }</a>, zo byšće nastawk abo stronu online składował a so pozdźiśo wróćił - samo bjez interneta.
 features-bookmarks-customize-that-bookmark = Tu zapołožku přiměrić
 # Obsolete string
 # Futz with means to spend a lot of time on something.

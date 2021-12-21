@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } sćahnyć
 navigation-get-a-firefox-account = Wobstarajće sej { -brand-name-firefox-account }
@@ -21,7 +21,7 @@ navigation-take-the-passwords-youve = Wzmiće hesła, kotrež sće w { -brand-na
 # Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } je cyła produktowa swójba, kotraž je za to myslena, zo sće wěsćiši a bóle inteligentny online.
 navigation-join-firefox = Přidružće so k { -brand-name-firefox }
-navigation-access-all-of-firefox = Mějće přistup na wšě programy { -brand-name-firefox } z jeničkim přizjewjenjom - a wućehńće najlěpše z kóždeho produkta.
+navigation-access-all-of-firefox = Mějće přistup ke wšěm programam { -brand-name-firefox } z jeničkim přizjewjenjom - a wućehńće najlěpše z kóždeho produkta.
 navigation-meet-the-firefox-family = Zetkajće so ze swójbu { -brand-name-firefox }
 navigation-firefox-blog = Blog { -brand-name-firefox }
 navigation-read-about-new-firefox = Informujće so wo nowych funkcijach { -brand-name-firefox } a dóstańće pokiwy za wjace wěstoty online.

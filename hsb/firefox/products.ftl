@@ -29,7 +29,7 @@ firefox-products-learn-more-about-relay = Dalše informacije wo { -brand-name-fi
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
-firefox-products-keep-your-passwords-safe-and = Dźeržće swoje hesła wěste a mějće na nje přistup na wšěch synchronizowanych gratach.
+firefox-products-keep-your-passwords-safe-and = Dźeržće swoje hesła wěste a mějće na nje přistup ke wšěm synchronizowanym gratam.
 # Obsolete string
 firefox-products-download-lockwise = { -brand-name-lockwise } sćahnyć
 # Obsolete string

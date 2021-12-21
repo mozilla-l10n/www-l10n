@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -39,7 +39,7 @@ features-index-opted-in-to-privacy-so-you = Po standardźe z priwatnosću, zo by
 features-index-read-our-privacy-policy = Čitajće naše prawidła priwatnosće
 features-index-private-by-default = Po standardźe priwatny
 features-index-enhanced-tracking = Polěpšeny slědowanski škit
-features-index-we-dont-sell-access-to-your = Přistup na waše daty online njepředawamy. Dypk.
+features-index-we-dont-sell-access-to-your = Přistup k wašim datam online njepředawamy. Dypk.
 features-index-get-firefox-for-privacy = Wobstarajće sej { -brand-name-firefox } za priwatnosć
 features-index-firefox-vs = { -brand-name-firefox } porno druhim wobhladowakam
 features-index-stack-up = Hlejće, kak je { -brand-name-firefox } přirunajo z druhimi woblubowanymi wobhladowakami.

@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je błyskospěšny wobhladowak, kotryž wulkotne wuwiwarske nastroje a najnowše funkcije kaž podpěru CSS-lěsycow a framework debugging skići
@@ -61,7 +61,7 @@ firefox-developer-next-gen-css-engine = CSS-mašina přichodneje generacije
 firefox-developer-a-next-generation = CSS-mašina přichodneje generacije
 firefox-developer-master-innovative-features = Inowatiwne funkcije
 firefox-developer-want-to-be-on-the-cutting-edge = Chceće na najnowšim stawje być?
-firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } kóždy dźeń aktualizacije dóstawa a zmóžnja wam přistup na funkcije hižo měsacy před jich wozjewjenjom.
+firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } kóždy dźeń aktualizacije dóstawa a zmóžnja wam přistup k funkcijam hižo měsacy před jich wozjewjenjom.
 firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } nowu CSS-mašinu, napisanu w Rusće, wobsahuje, kotraž ma wurjadne inowacije a je błyskospěšny.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } je jenički wobhladowak z nastrojemi, kotryž je za wuwiwanje a wuhotowanje z CSS-lěsycu wuwity. Tute nastroje wam zmóžnjeja, lěsycu wizualizować, zwjazane mjena wobłukow pokazać, transformacije na lěsycy w přehledźe pokazać a wjele wjace.
 firefox-developer-convenient-features = Praktiske funkcije
@@ -71,7 +71,7 @@ firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-de
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } maja čisće nowy editor za twarowe šćežki, z kotrymž móžeće zahłosowanje sćinoweho wonkowneho boka a twarow klipoweje šćežki přewjesć a wam zmóžnja, swoje přiměrjenja z wizuelnym editorom lochko zahłosować.
 firefox-developer-faster-innovation = Spěšniše informacije
 firefox-developer-fonts-panel = Polo pismow
-firefox-developer-the-new-fonts-panel = Nowe polo pismow we { -brand-name-firefox-devtools } zmóžnja wuwiwarjam spěšny přistup na wšě informacije, kotrež wo wužitych pismach w elemenće trjebaja. Wobsahuje tež hódnotne informacije wo žórle, waze, stil pisma a wjace.
+firefox-developer-the-new-fonts-panel = Nowe polo pismow we { -brand-name-firefox-devtools } zmóžnja wuwiwarjam spěšny přistup ke wšěm informacijam, kotrež wo wužitych pismach w elemenće trjebaja. Wobsahuje tež hódnotne informacije wo žórle, waze, stil pisma a wjace.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } { -brand-name-mozilla } awtomatisce informacije sćele.
 firefox-developer-download-the-firefox-browser = Sćehńće wobhladowak { -brand-name-firefox } wuwity za wuwiwarjow
 firefox-developer-welcome-to-the-all-new = Witajće k cyle nowemu { -brand-name-firefox-quantum }: { -brand-name-developer-edition }

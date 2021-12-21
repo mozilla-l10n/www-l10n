@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
@@ -17,7 +17,7 @@ features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } bu wot pow
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox } bu wot powšitkownosći wužitneje organizacije wuwity. To rěka, zo móžemy wěcy činić, kotrež druzy njemóža činić, na přikład nowe produkty a funkcije bjez schowaneho dnjoweho porjada wuwiwać. Zakitujemy waše prawo na priwatnosć z nastrojemi kaž priwatnym modusom ze slědowanskim škitom, kotrež to přesahuja, štož { -brand-name-google } { -brand-name-chrome } a { -brand-name-microsoft } { -brand-name-edge } poskićetej.
 features-independent-what-you-see-is-what = Dóstanjeće, štož widźiće
-features-independent-we-believe-the-internet = Wěrimy, zo internet je za ludźi, nic za komericelne zaměry. Na rozdźěl wot druhich předewzaćow, njepředawamy přistup na waše daty. <em>Wy maće</em> kontrolu nad tym, štóž wašu pytansku a přehladowansku historiju widźi. Wólba - je to, wo čož pola stroweho interneta dźe!
+features-independent-we-believe-the-internet = Wěrimy, zo internet je za ludźi, nic za komercielne zaměry. Na rozdźěl wot druhich předewzaćow, njepředawamy přistup k wašim datam. <em>Wy maće</em> kontrolu nad tym, štóž wašu pytansku a přehladowansku historiju widźi. Wólba - je to, wo čož pola stroweho interneta dźe!
 features-independent-a-browser-on-a-mission = Wobhladowak na misiji
 features-independent-in-addition-to-fighting = Wojujemy za waše prawa online, dźeržimy tež komercielne předewzaća w šachu a dźěłamy z partnerami z cyłeho swěta hromadźe, zo bychmy wašnja postupowanja za strowy hinternet spěchowali. Hdyž so za { -brand-name-firefox } rozsudźeće, rozsudźemy my tež za was.
 # Obsolete string
