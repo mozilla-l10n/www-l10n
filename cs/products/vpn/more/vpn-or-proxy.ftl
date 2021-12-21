@@ -7,3 +7,5 @@
 
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = Rozdíl mezi sítí VPN a webovým proxy serverem
+# HTML page description and intro
+vpn-or-proxy-vpns-and-proxies-are = Sítě VPN a proxy servery představují řešení pro zajištění soukromí a bezpečnosti na internetu. Ukážeme vám, jak vás chrání a jak si vybrat tu nejlepší možnost.
