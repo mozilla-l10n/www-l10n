@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -23,7 +23,7 @@ firefox-channel-all-languages-and-platforms = ਸਾਰੀਆਂ ਭਾਸ਼ਾਵ
 firefox-channel-all-languages-and-builds = ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਅਤੇ ਬਿਲਡ
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = ਬੀਟਾ ਅਸਥਿਰ ਪ੍ਰੀਖਿਆ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਡਿਫੌਲਟ ਰੂਪ ਵਿੱਚ, ਬੀਟਾ ਮੋਜ਼ੀਲਾ ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ – ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਭਾਈਵਾਲਾਂ - ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਦਾ ਯਤਨ ਕਰਨ ਲਈ ਸਾਡੀ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ਅਸਥਿਰ ਟੈਸਟਿੰਗ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਮੂਲ ਰੂਪ ਵਿੱਚ, { -brand-name-beta } { -brand-name-mozilla } ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ — ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਭਾਈਵਾਲਾਂ — ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਦਾ ਯਤਨ ਕਰਨ ਲਈ ਸਾਡੀ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ਆਪਣੇ-ਆਪ ਹੀ ਫੀਡਬੈਕ { -brand-name-mozilla } ਨੂੰ ਭੇਜਦਾ ਹੈ।
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
@@ -32,11 +32,11 @@ firefox-channel-check-out-new-android-features = ਨਵੇਂ { -brand-name-andr
 firefox-channel-nightly-blog = { -brand-name-nightly } ਬਲੌਗ
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-nightly-is-an-unstable-testing = ਰਾਤ ਇੱਕ ਅਸਥਿਰ ਜਾਂਚ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਡਿਫੌਲਟ ਰੂਪ ਵਿੱਚ, ਰਾਤ ਵੇਲੇ ਮੋਜ਼ੀਲਾ ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ - ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਸਾਂਝੇਦਾਰ - ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੰ ਅਜਮਾਉਣ ਵਿੱਚ ਸਾਡੀ ਸਹਾਈਤਾ ਦੇ ਲਈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
-firefox-channel-firefox-nightly-automatically = ਫਾਇਰਫਾਕਸ ਨਾਈਟਲੀ ਆਪਣੇ-ਆਪ ਫੀਡਬੈਕ ਮੌਜ਼ੀਲਾ ਨੂੰ ਭੇਜਦਾ ਹੈ।
+firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ਇੱਕ ਅਸਥਿਰ ਟੈਸਟਿੰਗ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਮੂਲ ਰੂਪ ਵਿੱਚ { -brand-name-nightly } { -brand-name-mozilla } ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ — ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਸਾਂਝੇਦਾਰ — ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੰ ਅਜਮਾਉਣ ਵਿੱਚ ਸਾਡੀ ਸਹਾਈਤਾ ਦੇ ਲਈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
+firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } ਆਪਣੇ-ਆਪ ਫੀਡਬੈਕ { -brand-name-mozilla } ਨੂੰ ਭੇਜਦਾ ਹੈ।
 firefox-channel-try-new-browser-features = ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਵਰਜ਼ਨ ਵਿੱਚ ਨਵੇਂ ਬਰਾਊਜ਼ਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਵਰਜ਼ਨ ਵਿੱਚ ਨਵੇਂ-ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ਅਤੇ { -brand-name-firefox-nightly }। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
-firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, { -brand-name-beta } ਅਤੇ { -brand-name-nightly } ਵਾਲੇ ਨਵੇਂ ਨਕੋਰ ਡੈਸਕਟਾਪ ਲਈ ਫਾਇਰਫਾਕਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਟੈਸਟ ਕਰੋ।
+firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, { -brand-name-beta } ਅਤੇ { -brand-name-nightly } ਵਾਲੇ ਨਵੇਂ ਨਕੋਰ ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਟੈਸਟ ਕਰੋ।
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = ਸਭ ਤੋਂ ਸਥਿਰ ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਬਿਲਡ ਵਿੱਚ ਰੀਲਿਜ਼ ਲਈ ਤਿਆਰ ਫੀਚਰਾਂ ਨੂੰ ਟੈਸਟ ਕਰੋ।
 firefox-channel-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
