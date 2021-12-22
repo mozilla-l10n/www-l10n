@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/principles/
@@ -8,10 +8,10 @@
 # HTML page title and main title
 privacy-principles-data-privacy-principles = ਡਾਟਾ ਪਰਦੇਦਾਰੀ ਸਿਧਾਂਤ
 # HTML page description
-privacy-principles-mozilla-is-an-open-source = ਮੋਜ਼ੀਲਾ ਤੁਹਾਡੇ ਇੰਟਰਨੈਟ ਤਜਰਬੇ ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ ਦੇ ਮਕਸਦ ਨਾਲ ਓਪਨ ਸਰੋਤ ਪ੍ਰੋਜੈਕਟ ਹੈ। ਇਹੀ ਸਾਡੇ ਪਰਦੇਦਾਰੀ ਅਮਲਾਂ ਦੀ ਨੀਂਹ ਹੈ।
+privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } ਤੁਹਾਡੇ ਇੰਟਰਨੈਟ ਤਜਰਬੇ ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ ਦੇ ਮਕਸਦ ਨਾਲ ਓਪਨ ਸਰੋਤ ਪ੍ਰੋਜੈਕਟ ਹੈ। ਇਹੀ ਸਾਡੇ ਪਰਦੇਦਾਰੀ ਅਮਲਾਂ ਦੀ ਨੀਂਹ ਹੈ।
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
-privacy-principles-the-following-five-principles = <a href="{ $link }">ਮੋਜ਼ੀਲਾ ਐਲਾਨਾਮੇ</a> ਤੋਂ ਅੱਗੇ ਦਿੱਤੇ ਪੰਜ ਸਿਧਾਂਤ ਤੇ ਜਾਣਕਾਰੀ ਹੈ ਕਿ ਅਸੀਂ ਕਿਵੇਂ
+privacy-principles-the-following-five-principles = <a href="{ $link }">{ -brand-name-mozilla } ਐਲਾਨਾਮੇ</a> ਤੋਂ ਅੱਗੇ ਦਿੱਤੇ ਪੰਜ ਸਿਧਾਂਤ ਤੇ ਜਾਣਕਾਰੀ ਹੈ ਕਿ ਅਸੀਂ ਕਿਵੇਂ
 privacy-principles-develop-our-products = ਆਪਣੇ ਉਤਪਾਦ ਤੇ ਸੇਵਾਵਾਂ ਨੂੰ ਵਿਕਸਿਤ ਕਰਦੇ ਹਾਂ
 privacy-principles-manage-user-data-we-collect = ਸਾਡੇ ਵਲੋਂ ਇਕੱਠੇ ਕੀਤੇ ਵਰਤੋਂਕਾਰ ਡੇਟੇ ਦਾ ਪ੍ਰਬੰਧ ਕਰਦੇ ਹਾਂ
 privacy-principles-select-and-interact-with = ਹਿੱਸੇਦਾਰਾਂ ਦੀ ਚੋਣ ਤੇ ਤਾਲਮੇਲ ਕਰਦੇ ਹਾਂ

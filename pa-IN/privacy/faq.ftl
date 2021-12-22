@@ -1,37 +1,37 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-mozillas-data-privacy-faq = ਮੌਜ਼ੀਲਾ ਡਾਟਾ ਪਰਦੇਦਾਰੀ ਸਵਾਲ-ਜਵਾਬ
-privacy-faq-at-mozilla-we-respect-and-protect-desc = ਮੋਜ਼ੀਲਾ ਤੇ ਅਸੀਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਦਾ ਸਤਿਕਾਰ ਕਰਦੇ ਹਾਂ ਅਤੇ ਸੁਰੱਖਿਆ ਕਰਦੇ ਹਾਂ।
+privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla } ਡਾਟਾ ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਸਵਾਲ-ਜਵਾਬ
+privacy-faq-at-mozilla-we-respect-and-protect-desc = { -brand-name-mozilla } ਤੇ ਅਸੀਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਦਾ ਸਤਿਕਾਰ ਕਰਦੇ ਹਾਂ ਅਤੇ ਸੁਰੱਖਿਆ ਰੱਖਦੇ ਹਾਂ।
 privacy-faq-we-stand-for-people-over-profit = ਅਸੀਂ ਮੁਨਾਫ਼ੇ ਦੇ ਉਲਟ ਲੋਕਾਂ ਲਈ ਖੜ੍ਹੇ ਹਾਂ।
-privacy-faq-it-can-be-tricky-for-people = ਲੋਕਾਂ ਲਈ ਇਹ ਜਾਣਨਾ ਬਹੁਤ ਔਖਾ ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਅੱਜ ਉਹ ਕਿਸੇ ਵੀ ਸਾਫਟਵੇਅਰ ਜਾਂ ਸੇਵਾਵਾਂ ਤੋਂ ਕੀ ਆਸ ਕਰਦਾ ਹੈ। ਸਾਡੇ ਜੀਵਨ ਨੂੰ ਸ਼ਕਤੀ ਦੇਣ ਵਾਲੀ ਤਕਨਾਲੋਜੀ ਬਹੁਤ ਗੁੰਝਲਦਾਰ ਹੈ ਅਤੇ ਲੋਕਾਂ ਕੋਲ ਵੇਰਵੇ ਵਿੱਚ ਖੋਣ ਦਾ ਸਮਾਂ ਨਹੀਂ ਹੈ। ਇਹ ਅਜੇ ਵੀ ਫਾਇਰਫਾਕਸ ਲਈ ਸੱਚ ਹੈ, ਜਿੱਥੇ ਸਾਨੂੰ ਪਤਾ ਲੱਗਦਾ ਹੈ ਕਿ ਲੋਕਾਂ ਦੇ ਆਪਣੇ ਵੱਖ-ਵੱਖ ਵਿਚਾਰ ਹਨ ਜੋ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਹੋ ਰਿਹਾ ਹੈ।
-privacy-faq-at-mozilla-we-respect-and-protect = ਮੋਜ਼ੀਲਾ ਤੇ, ਅਸੀਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਦਾ ਸਤਿਕਾਰ ਕਰਦੇ ਹਾਂ ਅਤੇ ਸੁਰੱਖਿਆ ਕਰਦੇ ਹਾਂ:
+privacy-faq-it-can-be-tricky-for-people = ਲੋਕਾਂ ਲਈ ਇਹ ਜਾਣਨਾ ਬਹੁਤ ਔਖਾ ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਅੱਜ ਉਹ ਕਿਸੇ ਵੀ ਸਾਫਟਵੇਅਰ ਜਾਂ ਸੇਵਾਵਾਂ ਤੋਂ ਕੀ ਆਸ ਕਰਦਾ ਹੈ। ਸਾਡੇ ਜੀਵਨ ਨੂੰ ਸ਼ਕਤੀ ਦੇਣ ਵਾਲੀ ਤਕਨਾਲੋਜੀ ਬਹੁਤ ਗੁੰਝਲਦਾਰ ਹੈ ਅਤੇ ਲੋਕਾਂ ਕੋਲ ਵੇਰਵੇ ਵਿੱਚ ਖੋਣ ਦਾ ਸਮਾਂ ਨਹੀਂ ਹੈ। ਇਹ ਅਜੇ ਵੀ { -brand-name-firefox } ਲਈ ਸੱਚ ਹੈ, ਜਿੱਥੇ ਸਾਨੂੰ ਪਤਾ ਲੱਗਦਾ ਹੈ ਕਿ ਲੋਕਾਂ ਦੇ ਆਪਣੇ ਵੱਖ-ਵੱਖ ਵਿਚਾਰ ਹਨ ਜੋ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਹੋ ਰਿਹਾ ਹੈ।
+privacy-faq-at-mozilla-we-respect-and-protect = { -brand-name-mozilla } ਵਿਖੇ ਅਸੀਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਦਾ ਸਤਿਕਾਰ ਕਰਦੇ ਹਾਂ ਅਤੇ ਸੁਰੱਖਿਆ ਰੱਖਦੇ ਹਾਂ:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-we-follow-a-set-of-data-privacy = ਅਸੀਂ <a href="{ $link }">ਡੇਟਾ ਪ੍ਰਾਈਵੇਟ ਪ੍ਰਣਾਲੀ </a> ਦੇ ਇੱਕ ਸਮੂਹ ਦੀ ਪਾਲਣਾ ਕਰਦੇ ਹਾਂ, ਜੋ ਫਾਇਰਫਾਕਸ ਡੈਸਕਟਾਪ ਅਤੇ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਪਰਦੇਦਾਰੀ ਲਈ ਸਾਡੇ ਪਹੁੰਚ ਨੂੰ ਦਰਸਾਉਂਦੇ ਹਨ।
+privacy-faq-we-follow-a-set-of-data-privacy = ਅਸੀਂ <a href="{ $link }">ਡੇਟਾ ਪਰਦੇਦਾਰੀ ਸਿਧਾਂਤ </a> ਦੇ ਇੱਕ ਸਮੂਹ ਦੀ ਪਾਲਣਾ ਕਰਦੇ ਹਾਂ, ਜੋ { -brand-name-firefox } ਡੈਸਕਟਾਪ ਅਤੇ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਪਰਦੇਦਾਰੀ ਲਈ ਸਾਡੇ ਪਹੁੰਚ ਨੂੰ ਦਰਸਾਉਂਦੇ ਹਨ।
 privacy-faq-we-only-collect-the-data-we = ਅਸੀਂ ਸਭ ਤੋਂ ਵਧੀਆ ਉਤਪਾਦ ਬਣਾਉਣ ਲਈ ਸਾਨੂੰ ਲੋੜੀਂਦੇ ਡਾਟਾ ਇਕੱਠਾ ਕਰਦੇ ਹਾਂ।
 privacy-faq-we-put-people-in-control-of = ਅਸੀਂ ਲੋਕਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਡਾਟਾ ਅਤੇ ਆਨਲਾਈਨ ਅਨੁਭਵਾਂ ਦੇ ਕੰਟਰੋਲ ਵਿੱਚ ਰੱਖਦੇ ਹਾਂ।
-privacy-faq-we-adhere-to-no-surprises-principle = ਅਸੀਂ “ਕੋਈ ਹੈਰਾਨੀਜਨਕ ਨਹੀਂ” ਸਿਧਾਂਤ ਦੀ ਪਾਲਣਾ ਕਰਦੇ ਹਾਂ, ਭਾਵ ਅਸੀਂ ਸਖਤ ਮਿਹਨਤ ਕਰਦੇ ਹਾਂ ਤਾਂ ਕਿ ਲੋਕ ਇਹ ਯਕੀਨੀ ਬਣਾ ਸਕਣ ਕਿ ਫਾਇਰਫਾਕਸ ਅਸਲੀਅਤ ਨਾਲ ਮਿਲਦੇ ਹਨ।
-privacy-faq-the-following-questions-and = ਹੇਠਾਂ ਦਿੱਤੇ ਪ੍ਰਸ਼ਨਾਂ ਅਤੇ ਜਵਾਬਾਂ ਨੂੰ ਇਹ ਸਮਝਣ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ਕਿ ਮੋਜ਼ੀਲਾ ਅਤੇ ਫਾਇਰਫਾਕਸ ਤੋਂ ਕੀ ਆਸ ਕੀਤੀ ਜਾਏ:
-privacy-faq-i-use-firefox-for-almost-everything = ਮੈਂ ਫਾਇਰਫਾਕਸ ਨੂੰ ਵੈੱਬ ਉੱਤੇ ਤਕਰੀਬਨ ਹਰ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ। ਤੁਸੀਂ ਮੋਜ਼ੀਲਾ ਦੇ ਲੋਕਾਂ ਨੂੰ ਮੇਰੇ ਬਾਰੇ ਇਕ ਟਨ ਜਾਣਕਾਰੀ ਜ਼ਰੂਰ ਜਾਣਦੇ ਹੋ, ਠੀਕ ਹੈ?
-privacy-faq-firefox-the-web-browser-that = ਫਾਇਰਫਾਕਸ, ਵੈਬ ਬਰਾਊਜ਼ਰ ਜੋ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਜਾਂ ਕੰਪਿਊਟਰ ਤੇ ਚੱਲਦਾ ਹੈ, ਤੁਹਾਡਾ ਇੰਟਰਨੈਟ ਦਾ ਗੇਟਵੇ ਹੈ। ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਤੁਹਾਡੇ ਵੱਲੋਂ ਮਿਲਣ ਵਾਲੀਆਂ ਵੈਬਸਾਈਟਾਂ ਬਾਰੇ ਬਹੁਤ ਸਾਰੀ ਜਾਣਕਾਰੀ ਦਾ ਬੰਦੋਬਸਤ ਕਰੇਗਾ, ਪਰ ਉਹ ਜਾਣਕਾਰੀ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਤੇ ਹੀ ਰਹਿੰਦੀ ਹੈ। ਮੋਜ਼ੀਲਾ, ਜਿਹੜੀ ਕੰਪਨੀ ਫਾਇਰਫਾਕਸ ਬਣਾਉਂਦੀ ਹੈ, ਉਹ ਇਸ ਨੂੰ ਇਕੱਠੀ ਨਹੀਂ ਕਰਦੀ (ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਸਾਨੂੰ ਨਹੀਂ ਪੁੱਛਦੇ)।
+privacy-faq-we-adhere-to-no-surprises-principle = ਅਸੀਂ “ਕੋਈ ਹੈਰਾਨੀਜਨਕ ਨਹੀਂ” ਸਿਧਾਂਤ ਦੀ ਪਾਲਣਾ ਕਰਦੇ ਹਾਂ, ਭਾਵ ਅਸੀਂ ਸਖਤ ਮਿਹਨਤ ਕਰਦੇ ਹਾਂ ਤਾਂ ਕਿ ਲੋਕ ਇਹ ਯਕੀਨੀ ਬਣਾ ਸਕਣ ਕਿ { -brand-name-firefox } ਅਸਲੀਅਤ ਨਾਲ ਮਿਲਦੇ ਹਨ।
+privacy-faq-the-following-questions-and = ਹੇਠਾਂ ਦਿੱਤੇ ਸਵਾਲਾਂ ਅਤੇ ਜਵਾਬਾਂ ਨੂੰ ਇਹ ਸਮਝਣ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ਕਿ { -brand-name-mozilla } ਅਤੇ { -brand-name-firefox } ਤੋਂ ਕੀ ਆਸ ਕੀਤੀ ਜਾਏ:
+privacy-faq-i-use-firefox-for-almost-everything = ਮੈਂ { -brand-name-firefox } ਨੂੰ ਵੈੱਬ ਉੱਤੇ ਤਕਰੀਬਨ ਹਰ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ। ਤੁਸੀਂ { -brand-name-mozilla } ਦੇ ਲੋਕਾਂ ਨੂੰ ਮੇਰੇ ਬਾਰੇ ਇਕ ਟਨ ਜਾਣਕਾਰੀ ਜ਼ਰੂਰ ਜਾਣਦੇ ਹੋ, ਠੀਕ ਹੈ?
+privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, ਵੈਬ ਬਰਾਊਜ਼ਰ ਜੋ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਜਾਂ ਕੰਪਿਊਟਰ ਤੇ ਚੱਲਦਾ ਹੈ, ਤੁਹਾਡਾ ਇੰਟਰਨੈਟ ਦਾ ਗੇਟਵੇ ਹੈ। ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਤੁਹਾਡੇ ਵੱਲੋਂ ਮਿਲਣ ਵਾਲੀਆਂ ਵੈਬਸਾਈਟਾਂ ਬਾਰੇ ਬਹੁਤ ਸਾਰੀ ਜਾਣਕਾਰੀ ਦਾ ਬੰਦੋਬਸਤ ਕਰੇਗਾ, ਪਰ ਉਹ ਜਾਣਕਾਰੀ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਤੇ ਹੀ ਰਹਿੰਦੀ ਹੈ। { -brand-name-mozilla }, ਜਿਹੜੀ ਕੰਪਨੀ { -brand-name-firefox } ਬਣਾਉਂਦੀ ਹੈ, ਉਹ ਇਸ ਨੂੰ ਇਕੱਠੀ ਨਹੀਂ ਕਰਦੀ (ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਸਾਨੂੰ ਨਹੀਂ ਪੁੱਛਦੇ)।
 privacy-faq-really-you-dont-collect-my-browsing = ਅਸਲ ਵਿੱਚ, ਤੁਸੀਂ ਮੇਰੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਇਕੱਤਰ ਨਹੀਂ ਕਰਦੇ?
 privacy-faq-it-seems-like-every-company = ਇਹ ਲਗਦਾ ਹੈ ਕਿ ਵੈਬ ਤੇ ਹਰ ਕੰਪਨੀ ਮੇਰੇ ਡਾਟਾ ਖਰੀਦ ਰਹੀ ਹੈ ਅਤੇ ਵੇਚ ਰਹੀ ਹੈ। ਤੁਸੀਂ ਸ਼ਾਇਦ ਵੱਖਰੇ ਨਹੀਂ ਹੋ।
-privacy-faq-mozilla-doesnt-sell-data-about = ਮੌਜ਼ੀਲਾ ਤੁਹਾਡੇ ਬਾਰੇ ਡਾਟਾ ਨਹੀਂ ਵੇਚਦੀ, ਅਤੇ ਅਸੀਂ ਤੁਹਾਡੇ ਬਾਰੇ ਡਾਟਾ ਨਹੀਂ ਖਰੀਦਦੇ।
+privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ਤੁਹਾਡੇ ਬਾਰੇ ਡਾਟਾ ਨਹੀਂ ਵੇਚਦੀ, ਅਤੇ ਅਸੀਂ ਤੁਹਾਡੇ ਬਾਰੇ ਡਾਟਾ ਨਹੀਂ ਖਰੀਦਦੇ।
 privacy-faq-wait-so-how-do-you-make-money = ਰੁਕੋ, ਤਾਂ ਤੁਸੀਂ ਪੈਸੇ ਕਿਵੇਂ ਕਮਾਓਗੇ?
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = ਠੀਕ ਹੈ, ਉਹ ਪਹਿਲੇ ਕੁਝ ਸਾਫਟਬਾਲ ਸਨ। ਤੁਸੀਂ ਕਿਹੜਾ ਡੇਟਾ ਇਕੱਠਾ ਕਰਦੇ ਹੋ?
 privacy-faq-we-make-our-documentation-public = ਅਸੀਂ ਆਪਣੇ ਦਸਤਾਵੇਜ਼ ਜਨਤਕ ਬਣਾ ਦਿੰਦੇ ਹਾਂ ਤਾਂ ਜੋ ਕੋਈ ਵੀ ਸੱਚ ਦੀ ਪੁਸ਼ਟੀ ਕਰੇ ਜੋ ਅਸੀਂ ਕਹਿੰਦੇ ਹਾਂ ਕਿ ਸੱਚ ਹੈ, ਸਾਨੂੰ ਦੱਸੋ ਜੇ ਸਾਨੂੰ ਸੁਧਾਰ ਕਰਨ ਦੀ ਜ਼ਰੂਰਤ ਹੈ, ਅਤੇ ਇਹ ਵਿਸ਼ਵਾਸ ਹੈ ਕਿ ਅਸੀਂ ਕੁਝ ਨਹੀਂ ਛੁਪਾ ਰਹੇ ਹਾਂ।
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = ਇਹ ਦਸਤਾਵੇਜ਼ ਮੇਰੇ ਲਈ ਬੁਝਾਰਤ ਹੈ! ਕੀ ਤੁਸੀਂ ਮੈਨੂੰ ਇਹ ਸੌਖੀ ਅੰਗਰੇਜ਼ੀ ਵਿੱਚ ਦੇ ਸਕਦੇ ਹੋ?
-privacy-faq-there-are-two-categories-of = ਸਾਡੇ ਦੁਆਰਾ ਫਾਇਰਫਾਕਸ ਦੇ ਰੀਲਿਜ਼ ਵਰਜਨ ਵਿੱਚ ਡਿਫਾਲਟ ਤੌਰ ਤੇ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਡਾਟੇ ਦੇ ਦੋ ਵਰਗ ਹਨ।
+privacy-faq-there-are-two-categories-of = ਸਾਡੇ ਦੁਆਰਾ { -brand-name-firefox } ਦੇ ਰੀਲਿਜ਼ ਵਰਜਨ ਵਿੱਚ ਡਿਫਾਲਟ ਤੌਰ ਤੇ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਡਾਟੇ ਦੇ ਦੋ ਵਰਗ ਹਨ।
 privacy-faq-the-first-is-what-we-call-technical = ਪਹਿਲਾਂ ਅਸੀਂ "ਤਕਨੀਕੀ ਡਾਟਾ" ਕਹਿੰਦੇ ਹਾਂ। ਇਹ ਬਰਾਊਜ਼ਰ ਦੇ ਬਾਰੇ ਵਿੱਚ ਡਾਟਾ ਹੈ, ਜਿਵੇਂ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਜਿਸ ਉੱਤੇ ਇਹ ਚੱਲ ਰਿਹਾ ਹੈ ਅਤੇ ਗਲਤੀਆਂ ਜਾਂ ਕ੍ਰੈਸ਼ਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ।
-privacy-faq-do-you-collect-more-data-in = ਕੀ ਤੁਸੀਂ ਫਾਇਰਫਾਕਸ ਦੇ ਪਰੀ-ਰੀਲਿਜ਼ ਵਾਲੇ ਵਰਜਨਾਂ ਵਿੱਚ ਹੋਰ ਡਾਟਾ ਇਕੱਠਾ ਕਰਦੇ ਹੋ?
+privacy-faq-do-you-collect-more-data-in = ਕੀ ਤੁਸੀਂ { -brand-name-firefox } ਦੇ ਪਰੀ-ਰੀਲਿਜ਼ ਵਾਲੇ ਵਰਜ਼ਨਾਂ ਵਿੱਚ ਹੋਰ ਡਾਟਾ ਇਕੱਠਾ ਕਰਦੇ ਹੋ?
 privacy-faq-but-why-do-you-collect-any-data = ਪਰ ਤੁਸੀਂ ਕੋਈ ਡੇਟਾ ਕਿਉਂ ਇਕੱਠਾ ਕਰਦੇ ਹੋ?
 privacy-faq-if-we-dont-know-how-the-browser = ਜੇ ਸਾਨੂੰ ਨਹੀਂ ਪਤਾ ਕਿ ਬਰਾਊਜ਼ਰ ਕਿਵੇਂ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ ਜਾਂ ਲੋਕਾਂ ਦਾ ਕਿਹੜਾ ਗੁਣ ਹੈ, ਤਾਂ ਅਸੀਂ ਇਸ ਨੂੰ ਬਿਹਤਰ ਨਹੀਂ ਬਣਾ ਸਕਦੇ ਅਤੇ ਤੁਹਾਨੂੰ ਕਿਹੜਾ ਵਧੀਆ ਉਤਪਾਦ ਪ੍ਰਦਾਨ ਕਰਨਾ ਹੈ। ਅਸੀਂ ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਅਤੇ ਵਿਸ਼ਲੇਸ਼ਣ ਸਾਧਨ ਬਣਾਉਣ ਵਿੱਚ ਨਿਵੇਸ਼ ਕੀਤਾ ਹੈ ਜੋ ਲੋਕਾਂ ਦੀ ਪਰਦੇਦਾਰੀ ਦਾ ਸਤਿਕਾਰ ਕਰਦੇ ਸਮੇਂ ਸਾਡੇ ਉਤਪਾਦਾਂ ਬਾਰੇ ਸਾਨੂੰ ਸ਼ਾਨਦਾਰ ਫੈਸਲੇ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦੇ ਹਨ।
 privacy-faq-data-collection-still-bugs-me = ਡਾਟਾ ਇਕੱਤਰਤਾ ਅਜੇ ਵੀ ਮੇਰੇ ਬੱਗ ਹਨ। ਕੀ ਮੈਂ ਇਸਨੂੰ ਬੰਦ ਕਰ ਸਕਦਾ ਹਾਂ?
@@ -42,4 +42,4 @@ privacy-faq-no-we-do-not-buy-peoples-data = ਨਹੀਂ, ਅਸੀਂ ਇਸ਼
 privacy-faq-we-do-ask-our-advertising-partners = ਅਸੀਂ ਆਪਣੇ ਇਸ਼ਤਿਹਾਰ ਭਾਗੀਦਾਰਾਂ ਨੂੰ ਸਿਰਫ ਪਹਿਲੇ ਪਾਰਟੀ ਦੇ ਡਾਟੇ ਨੂੰ ਵਰਤਣ ਲਈ ਆਖਦੇ ਹਾਂ, ਜੋ ਵੈਬਸਾਈਟਾਂ ਅਤੇ ਪਬਲੀਸ਼ਰ ਸਾਰੇ ਵਰਤੋਂਕਾਰਾਂ ਬਾਰੇ ਜਾਣਦੇ ਹਨ, ਜਿਵੇਂ ਕਿ ਤੁਸੀਂ ਜੋ ਬਰਾਊਜ਼ਰ ਵਰਤ ਰਹੇ ਹੋ ਅਤੇ ਜਿਸ ਡਿਵਾਈਸ ਤੇ ਤੁਸੀਂ ਆ ਰਹੇ ਹੋ।
 privacy-faq-well-it-seems-like-you-really = ਠੀਕ ਹੈ, ਇਹ ਲਗਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਸੱਚਮੁੱਚ ਇਸ ਪਰਦੇਦਾਰੀ ਸਮੱਗਰੀ ਤੇ ਮੇਰੀ ਵਾਪਸੀ ਕੀਤੀ ਹੈ।
 privacy-faq-yes-we-do = ਹਾਂ, ਅਸੀਂ ਕਰਦੇ ਹਾਂ।
-privacy-faq-find-out-more-about-how-mozilla = ਇਸ ਬਾਰੇ ਹੋਰ ਪਤਾ ਲਗਾਓ ਕਿ ਕਿਵੇਂ ਮੌਜ਼ੀਲਾ ਇੰਟਰਨੈਟ ਦੀ ਰੱਖਿਆ ਕਰਦਾ ਹੈ।
+privacy-faq-find-out-more-about-how-mozilla = ਇਸ ਬਾਰੇ ਹੋਰ ਪਤਾ ਲਗਾਓ ਕਿ ਕਿਵੇਂ { -brand-name-mozilla } ਇੰਟਰਨੈਟ ਦੀ ਸੁਰੱਖਿਆ ਕਰਦਾ ਹੈ।
