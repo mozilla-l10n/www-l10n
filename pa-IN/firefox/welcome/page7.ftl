@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
 
 # HTML page title
-page7-make-it-harder-for-facebook = ਫੇਸਬੁੱਕ ਲਈ ਤੁਹਾਨੂੰ ਟਰੈਕ ਕਰਨਾ ਔਖਾ ਕਰੋ
+page7-make-it-harder-for-facebook = { -brand-name-facebook } ਲਈ ਤੁਹਾਨੂੰ ਟਰੈਕ ਕਰਨਾ ਔਖਾ ਕਰੋ
 page7-its-okay-to-like-facebook = { -brand-name-facebook } ਨੂੰ ਪਸੰਦ ਕਰਨਾ ਠੀਕ ਹੈ
 page7-get-facebook-container = { -brand-name-facebook-container } ਲਵੋ
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"

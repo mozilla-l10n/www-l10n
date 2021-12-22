@@ -1,16 +1,16 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
 
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = { -brand-name-firefox } ਚੁਣਨ ਲਈ ਧੰਨਵਾਦ
-set-as-default-thanks-success-your-default-browser = ਕਾਮਯਾਬ! ਤੁਹਾਡਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਫਾਇਰਫਾਕਸ ਬਣਾਇਆ ਗਿਆ।
-set-as-default-thanks-looks-like-youre-using-a = ਜਾਪਦਾ ਹੈ ਕਿ ਇਸ ਵੇਲੇ ਤੁਸੀਂ ਵੱਖਰਾ ਬਰਾਊਜ਼ਰ ਵਰਤ ਰਹੇ ਹੋ। ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਡਿਵਾਈਸ ਉੱਤੇ ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰ ਲਿਆ ਹੈ।
+set-as-default-thanks-success-your-default-browser = ਕਾਮਯਾਬ! ਤੁਹਾਡਾ ਮੂਲ ਬਰਾਊਜ਼ਰ { -brand-name-firefox } ਬਣ ਗਿਆ ਹੈ।
+set-as-default-thanks-looks-like-youre-using-a = ਜਾਪਦਾ ਹੈ ਕਿ ਇਸ ਵੇਲੇ ਤੁਸੀਂ ਵੱਖਰਾ ਬਰਾਊਜ਼ਰ ਵਰਤ ਰਹੇ ਹੋ। ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਡਿਵਾਈਸ ਉੱਤੇ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰ ਲਿਆ ਹੈ।
 # When a visitor sees this message a system dialog will also open on screen.
-set-as-default-thanks-youre-almost-done-just-change = ਤੁਸੀਂ ਲਗਭਗ ਪੂਰਾ ਕਰ ਚੁੱਕੇ ਹੋ। ਹੁਣ ਤੁਸੀਂ ਸਿਰਫ਼ ਆਪਣੀ ਸਕਰੀਨ ਉੱਤੇ ਸੈਟਿੰਗਾਂ ਪੈਨਲ ਵਿੱਚ ਆਪਣੇ ਮੂਲ ਬਰਾਊਜ਼ਰ ਨੂੰ ਫਾਇਰਫਾਕਸ ਵਜੋਂ ਬਦਲਣਾ ਹੈ।
+set-as-default-thanks-youre-almost-done-just-change = ਤੁਸੀਂ ਲਗਭਗ ਪੂਰਾ ਕਰ ਚੁੱਕੇ ਹੋ। ਹੁਣ ਤੁਸੀਂ ਸਿਰਫ਼ ਆਪਣੀ ਸਕਰੀਨ ਉੱਤੇ ਸੈਟਿੰਗਾਂ ਪੈਨਲ ਵਿੱਚ ਆਪਣੇ ਮੂਲ ਬਰਾਊਜ਼ਰ ਨੂੰ { -brand-name-firefox } ਵਜੋਂ ਬਦਲਣਾ ਹੈ।
 set-as-default-thanks-having-trouble-setting-your = ਕੀ ਤੁਹਾਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਸੈਟਿੰਗ ਕਰਨ ਲਈ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
