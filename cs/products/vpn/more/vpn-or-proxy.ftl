@@ -9,3 +9,4 @@
 vpn-or-proxy-the-difference-between = Rozdíl mezi sítí VPN a webovým proxy serverem
 # HTML page description and intro
 vpn-or-proxy-vpns-and-proxies-are = Sítě VPN a proxy servery představují řešení, jak na internetu zajistit soukromí a bezpečnost. Ukážeme vám, jak vás chrání a jak si vybrat tu nejlepší možnost.
+vpn-or-proxy-virtual-private-networks = Virtuální privátní sítě (VPN) a zabezpečené webové proxy servery jsou řešením pro větší soukromí a bezpečnost na internetu, ale může být složité rozhodnout, které z nich je pro vás to pravé. Zde se podíváme na to, jak vás tyto služby chrání a jak si vybrat tu nejlepší možnost, když jste online.
