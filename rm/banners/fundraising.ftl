@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title-v2 = Gida { -brand-name-mozilla } durant quests dis da festa da cumbatter per in meglier internet.
+banner-fundraising-title-giving-day = Gida { -brand-name-mozilla } da cumbatter per in meglier internet quest Giving Tuesday.
 # Outdated string
 banner-fundraising-title = L'internet vegn a daventar anc pli impurtant. Gida a { -brand-name-mozilla } da cumbatter per in web per nus tuts.
 # Outdated string
