@@ -9,8 +9,10 @@ banner-fundraising-title-v2 = Gida { -brand-name-mozilla } durant quests dis da 
 banner-fundraising-title-giving-day = Gida { -brand-name-mozilla } da cumbatter per in meglier internet quest Giving Tuesday.
 # Outdated string
 banner-fundraising-title = L'internet vegn a daventar anc pli impurtant. Gida a { -brand-name-mozilla } da cumbatter per in web per nus tuts.
+banner-fundraising-body-v2 = Nus essan superbis dad esser in'organisaziun senza finamira da profit e nus lavurain per in internet saun. Tias contribuziuns gidan da crear in internet segir ed avert.
 # Outdated string
 banner-fundraising-body = Nossas datas persunalas vegnan rimnadas mintga giada che nus accedin al web ed i n'è betg simpel da chattar ora tge che capita cun ellas. La dischinfurmaziun renda anc pli difficil da chattar la vardad. Apparats connectads cun il web vegnan mess sin il martgà senza resguardar standards da segirezza minimals. La { -brand-name-mozilla-foundation } senza finamira da profit cumbatta per che l'internet daventia segir, avert ed accessibel a tuts. <strong>Pos ti oz far ina donaziun?</strong>
+banner-fundraising-body-extra = Pudessas ti far oz ina donaziun?
 banner-fundraising-monthly = Mensilmain
 banner-fundraising-one-time = Ina giada
 banner-fundraising-donate = Fa ina donaziun
