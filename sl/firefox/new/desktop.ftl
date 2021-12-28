@@ -74,6 +74,7 @@ firefox-desktop-download-stream-share-play = Pretakajte, delite, igrajte
 firefox-desktop-download-block-autoplay-of = Onemogočeno samodejno predvajanje videa in zvoka
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Slika v sliki
+firefox-desktop-download-curated-content-on = Izbrana vsebina na novem zavihku
 firefox-desktop-download-share-links = Deljenje povezav
 firefox-desktop-download-protect-your-privacy = Zaščitite svojo zasebnost
 firefox-desktop-download-third-party-cookie = Zavračanje piškotkov tretjih strani
