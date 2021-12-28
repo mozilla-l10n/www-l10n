@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/contribute/
@@ -21,6 +21,8 @@ contribute-tag-technical-non-technical = Tehnično in netehnično
 contribute-tag-support = Podpora
 contribute-task-translate-heading = Prevedite vsebino
 contribute-task-translate-desc = Internet je globalen le, če ga povsod razumejo. Pomagajte nam prevesti izdelke in spletna mesta { -brand-name-mozilla(sklon: "rodilnik") } v svoj jezik.
+contribute-task-mozilla-codebase-heading = Prispevajte k izvorni kodi { -brand-name-mozilla(sklon: "rodilnik") }
+contribute-task-support-desc = Pomagajte narediti izdelke { -brand-name-mozilla(sklon: "rodilnik") } preproste za uporabo. Odgovarjajte na vprašanja ljudi, ki potrebujejo pomoč, kot del skupnosti na Mozillinih forumih za podporo.
 contribute-task-join-heading = Pridružite se skupnosti
 contribute-task-join-desc = Se želite dejavneje sodelovati v skupnosti { -brand-name-mozilla }? Oglejte si vse priložnosti za prostovoljstvo na našem portalu skupnosti.
 
@@ -43,6 +45,7 @@ contribute-opportunities = Novice in priložnosti za prostovoljce
 ## Newsletter
 
 contribute-newsletter-heading = Še niste prepričani?
+contribute-newsletter-sub-heading = Prejemajte novice o skupnosti in sodelovanju po e-pošti
 
 ## Support
 

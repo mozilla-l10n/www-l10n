@@ -7,7 +7,11 @@
 
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } za namizja (osebne in prenosne računalnike)
+vpn-desktop-wifi-headline = Počutite se varno na javnih omrežjih WiFi
 vpn-desktop-about-headline = O { -brand-name-mozilla(sklon: "mestnik") }
+vpn-desktop-privacy-headline = Zasebnost z enim klikom
+vpn-desktop-privacy-copy = Aplikacija { -brand-name-mozilla-vpn } šifrira vašo povezavo z internetom in skrije vaš naslov IP na telefonu ali tablici z uporabo naprednega protokola { -brand-name-wireguard }®.
+vpn-desktop-servers-headline = Povežite se s strežniki po vsem svetu
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Zaščitite do { $devices } naprav

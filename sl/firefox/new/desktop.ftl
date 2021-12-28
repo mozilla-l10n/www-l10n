@@ -98,6 +98,7 @@ firefox-desktop-download-extensions-for-every = Razširitve za vsak okus
 firefox-desktop-download-change-up-your = Spremenite videz
 firefox-desktop-download-go-from-light = Preklopite s svetlega na temni način, odvisno od razpoloženja ali želje, ali pa si poživite brskalnik s poljubno temo (morda mavričnim samorogom?).
 firefox-desktop-download-tweak-your-settings = Prilagodite si nastavitve
+firefox-desktop-download-theres-no-need = Ni se vam treba ustaliti. Nastavite si stran novega zavihka, iskalno vrstico, zaznamke in ostale možnosti po svoje in raziskujte internet, kot sami želite.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Pod okriljem <strong>neprofitne</strong> organizacije, ki na prvo mesto postavlja ljudi
 firefox-desktop-download-challenging-the-status = Izzivamo status quo od leta 1998

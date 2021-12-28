@@ -62,6 +62,7 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registrirana blago
 vpn-shared-pricing-variable-heading-v2 = Izberite naročnino, ki vam ustreza
 # Outdated string
 vpn-shared-pricing-variable-heading = Izberite načrt, ki vam ustreza
+vpn-shared-pricing-variable-sub-heading = Vse naše naročnine vključujejo:
 vpn-shared-pricing-recommended-offer = Priporočamo
 vpn-shared-pricing-plan-6-month = 6 mesecev
 vpn-shared-pricing-plan-12-month = 12 mesecev
@@ -73,6 +74,9 @@ vpn-shared-pricing-monthly = { $amount }<span>/mesec</span>
 vpn-shared-pricing-get-6-month = Get 6 month plan
 # Outdated string
 vpn-shared-pricing-get-12-month = Get 12 month plan
+vpn-shared-pricing-get-6-month-v2 = Kupite 6-mesečno naročnino
+vpn-shared-pricing-get-12-month-v2 = Kupite 12-mesečno naročnino
+vpn-shared-pricing-get-monthly = Kupite mesečno naročnino
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Prihranite { $percent } %
@@ -80,6 +84,8 @@ vpn-shared-pricing-save-percent = Prihranite { $percent } %
 #   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
 # Asterisk indicates a footnote for the following string
 vpn-shared-save-percent-on = Prihranite { $percent } % za { -brand-name-mozilla-vpn }*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *ob nakupu 12-mesečne naročnine
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Skupaj { $amount }
