@@ -7,3 +7,5 @@
 
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = Maletg-en-maletg en { -brand-name-firefox }: Dapli pussaivladads cun videos statgabels
+# HTML page description
+features-pip-got-things-to-do-and-things-to-watch = Has ti bler da far e bler da guardar? Grazia a maletg-en-maletg pos ti far tuts dus en { -brand-name-firefox }.
