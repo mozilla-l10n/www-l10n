@@ -5,8 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title-v2 = Hjelp { -brand-name-mozilla } med å kjempe for eit betre internett denne jula.
+banner-fundraising-title-giving-day = Hjelp { -brand-name-mozilla } med å kjempe for eit betre internett denne Giving Tuesday.
 # Outdated string
 banner-fundraising-title = Framtida vert bestemt online. Hjelp { -brand-name-mozilla } med å kjempe for eit nett for alle.
+banner-fundraising-body-v2 = Vi er stolte, ideelle og arbeider for å halde nettet helsesamt. Dine bidrag hjelper til med å byggje eit trygt og ope internett.
 # Outdated string
 banner-fundraising-body = Personopplysningane våre vert samla inn kvar gong vi er ute på nettet og det er ikkje lett å finne ut kva som skjer med dei. Feilinformasjon gjer det vanskelegare for oss å finne sanninga. Nett-tilkopla einingar vert pressa ut på marknaden utan å oppfylle minstekrava for datasikkerheit. Den ideelle organisasjonen { -brand-name-mozilla-foundation } kjempar forå gjere internett trygt, ope og tilgjengeleg for alle. <strong>Vil du støtte arbeidet vårt med ein donasjon?</strong>
 banner-fundraising-body-extra = Kan du donere i dag?
