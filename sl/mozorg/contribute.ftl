@@ -41,18 +41,22 @@ contribute-opportunities = Novice in priložnosti za prostovoljce
 
 ## Made by
 
+contribute-made-by-desc = S sodelovanjem pri { -brand-name-mozilla(sklon: "mestnik") } postanete del skupnosti, ki jo sestavljajo ljudje z vsega sveta s prepričanjem, da je usoda interneta v rokah vseh nas.
 
 ## Newsletter
 
 contribute-newsletter-heading = Še niste prepričani?
 contribute-newsletter-sub-heading = Prejemajte novice o skupnosti in sodelovanju po e-pošti
+contribute-newsletter-desc = Naročite se na naše novice, pridružite se Moziljanom z vsega sveta in bodite obveščeni o priložnostih, da podprete poslanstvo { -brand-name-mozilla(sklon: "rodilnik") }.
 
 ## Support
 
 contribute-support-heading = Poiščite pomoč
+contribute-support-desc = { -brand-name-mozilla } ima ekipo prostovoljcev, ki vam bodo pomagali pri kakršnihkoli težavah, na katere naletite.
 contribute-mozilla-support = Podpora { -brand-name-mozilla }
 
 ## Web compat
 
 contribute-web-compat-heading = Težave s spletno stranjo?
+contribute-web-compat-desc = Če vam spletna stran deluje različno v različnih brskalnikih, ste morda odkrili težavo s spletno združljivostjo. Radi bi, da nas obvestite o njej!
 contribute-report-issue = Prijavite težavo

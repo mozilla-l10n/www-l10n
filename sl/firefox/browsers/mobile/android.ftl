@@ -25,6 +25,7 @@ mobile-android-search-your-own = Iščite po svoje
 mobile-android-save-power-with = Prihranite energijo s temnim načinom
 mobile-android-switch-to-dark = Kadarkoli lahko preklopite na temni način, ki manj obremenjuje oči in podaljšuje trajanje baterije.
 mobile-android-easily-organize-your = Preprosto organizirajte zavihke
+mobile-android-got-lots-of = Imate veliko odprtih zavihkov? Ni problema, uredite jih v zbirke in ostanite organizirani. Zbirke lahko tudi delite med napravami, tako da lahko nadaljujete z brskanjem po istih straneh ne glede na to, katero napravo uporabljate.
 mobile-android-supercharge-firefox-with = Obogatite { -brand-name-firefox } z dodatki
 mobile-android-addons-are-like = Dodatki so zmogljivi pripomočki, ki jih lahko namestite v brskalnik in mu s tem dodate nove zmožnosti, kot je povečana zaščita zasebnosti ali brskanje na drugačen način.
 mobile-android-pick-up-where = Nadaljujte, kjer ste končali
