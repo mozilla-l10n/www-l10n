@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
+# HTML page title
+mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
 # HTML description
 mobile-android-firefox-browser-for = Brskalnik { -brand-name-firefox } za { -brand-name-android } je hiter, varen in zaseben od prvega trenutka, ko ga odprete.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
@@ -31,3 +33,4 @@ mobile-android-no-need-to = Ni vam treba odpirati aplikacije. Dodajte pripomoče
 mobile-android-pin-videos-to = Pripnite videoposnetke na zaslon
 mobile-android-about-mozilla = O { -brand-name-mozilla(sklon: "mestnik") }
 mobile-android-own-your-home = Obvladajte domači zaslon
+mobile-android-get-to-the-parts = Skrajšajte si pot do spletnih mest, ki so vam pomembna. Izberite prikaz vseh odprtih zavihkov, nedavnih iskanj, zaznamkov in priljubljenih strani na enem mestu.
