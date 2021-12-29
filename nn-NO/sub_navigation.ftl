@@ -11,6 +11,7 @@ sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = Samanlikning av nettlesarar
+sub-navigation-compare-mobile-browsers = Samanlikn mobilnettlesarar
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } for datamaskiner
 sub-navigation-release-notes = Versjonsnotat
 sub-navigation-desktop = Datamaskin

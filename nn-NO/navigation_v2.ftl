@@ -20,6 +20,7 @@ navigation-v2-get-the-customizable-mobile = Få den tilpassbare mobilnettlesaren
 navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Få mobilnettlesaren for { -brand-name-iphone } eller { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Enkel, privat, mobilsurfning
 navigation-v2-privacy-promise = Personvernlovnad
 navigation-v2-learn-how-firefox-treats = Les om korleis { -brand-name-firefox } handterer dataa dine med respekt.
 navigation-v2-firefox-blog = { -brand-name-firefox }-blogg
