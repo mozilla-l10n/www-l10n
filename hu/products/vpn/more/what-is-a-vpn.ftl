@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Mi a VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Kapjon választ kilenc gyakori kérdésre a VPN-ekkel kapcsolatban, hogy tájékozottnak érezze magát, hogy mit csinálnak, mikor és miért érdemes egyet használni.
 vpn-what-is-how-do-vpns = Hogyan működnek a VPN-ek?
 vpn-what-is-concealing-your-ip = Elrejti a valódi IP-címét, védve a személyazonosságát és a tartózkodási helyét.
 vpn-what-is-encrypting-your-traffic = Titkosítja a forgalmat Ön és a VPN szolgáltató között, így a helyi hálózaton senki nem tudja azt megfejteni vagy módosítani.
