@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,11 @@ firefox-desktop-download-blocks-social-trackers = Blokkerer sosiale mediesporara
 firefox-desktop-download-os-availability = OS-tilgjengelegheit
 firefox-desktop-download-in-browser-screenshot = Skjermbildeverktøy i nettlesaren
 firefox-desktop-download-primary-password = Hovudpassord
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = Lik det du gjer på nettet
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Det er ditt internett. Fargelegg det som du vil med tusentals verktøy, tema og tillegg. { -brand-name-firefox } er den opphavlege alternative nettlesaren som set menneske over profitt.
 # Obsolete string
 firefox-desktop-download-master-password = Hovudpassord
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporarar. Du utforskar internett raskare.
@@ -175,6 +180,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Du brukar eit utrygt
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Nedlastinga di bør starte automatisk. Fungerte det ikkje? <a id="{ $id }" href="{ $fallback_url }">Prøv å laste ned på nytt.</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er meir enn ein nettlesar.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Nedlastinga di vart avbroten. Men alt er ikkje tapt.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux

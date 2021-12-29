@@ -22,12 +22,17 @@ contribute-tag-individual-event = Individ- og hendingsorganisasjon
 contribute-tag-individual = Individuell
 contribute-tag-support = Brukarstøtte
 contribute-task-translate-heading = Omset innhald
+contribute-task-translate-desc = Internett er berre globalt dersom det vert forstått overalt. Hjelp oss å omsette { -brand-name-mozilla }-produkter og -nettstadar til ditt lokale språk.
 contribute-task-mozilla-codebase-heading = Bidra til { -brand-name-mozilla }-kodebasen
+contribute-task-mozilla-codebase-desc = Forbetre { -brand-name-mozilla }-produkter aktivt ved å bidra til ei rekkje utviklingsmulegheiter.
+contribute-task-support-desc = Hjelp til med å gjere { -brand-name-mozilla }-produkt enklare å bruke. Svar på spørsmåla til deltakarane i { -brand-name-mozilla }-brukarstøtteforum.
 contribute-task-join-heading = Ver med i fellesskapet
+contribute-task-join-desc = Vil du involvere deg meir i { -brand-name-mozilla }-miljøet? Sjekk ut alle frivilligmulegheitene på fellesskapsportalen vår.
 
 ## Mission
 
 contribute-mission-heading = Oppdraget vårt
+contribute-mission-desc = Målsetjinga vår er å verne om internett som ein global, offentleg ressurs, som er open og tilgjengeleg for alle. Eit internett som set folk først, der individ kan forme deira eigne opplevingar, og kjenne seg sterke, trygge, og uavhengige.
 contribute-learn = Les om { -brand-name-mozilla }
 contribute-read-manifesto = Les manifestet vårt
 contribute-find-event = Finn eit arrangement
@@ -40,6 +45,8 @@ contribute-opportunities = Nyheiter og frivillige moglegheiter
 ## Made by
 
 contribute-made-by-heading = Laga av eldfulle folk som deg
+contribute-made-by-desc = Når du bidrar til { -brand-name-mozilla } blir du ein del av eit verdsomspennande fellesskap av folk frå heile verda som trur at vi alle har ei rolle i å sikre at internett blir verande ein styrke for godt.
+contribute-made-by-desc-cont = Vi trur at fellessamarbeid er avgjerende for å skape eit internett som er mangfaldig, innovativt og ansvarleg for dei folka som treng det mest. Anten du har ein bakgrunn i teknikk, fellesskapsorganisering, eller berre har ei datamaskin og litt ledig tid, kan du hjelpe oss med å gjere internett til ein betre stad.
 
 ## Newsletter
 
