@@ -31,6 +31,7 @@ privacy-passwords-to-keep-your = Ereko hag̃ua ne mba’ete tekorosãme, emboyke
 privacy-passwords-look-for-the = Eheka pe mbotyha ne kundahárape
 privacy-passwords-its-easy-to = Ndahasýi emboykévo mba’evaiapoha omondakuaáva ne ñe’ẽñemi eikévo peteĩ ñanduti renda ipapapy’ỹvape: Eñamindu’uvéke ehai mboyve ne ñe’ẽñemi nderehecháiramo mbotyha ra’ãnga’i pe URL rendápe, koichagua:
 privacy-passwords-a-closed-lock = Kundahára tuichavévape ojehecha mbotyha ijurja’ỹva ñanduti kundaharape renda kundaharape rupápe.
+privacy-passwords-the-lock-means = Pe mbotyha he’ise pe ñanduti renda eipurúva oñembopapapyhague, upévare oĩramo jepe oma’ẽva ne ñeikundaha rehe pyhápe (ambue tapicha oimeraẽva hendápe WiFi rupive), ndohechamo’ãi ne ñe’ẽñemi. { -brand-name-firefox } ohechaukáta ndéve emondopotaitépe ne ñe’ẽñemi peteĩ ñanduti renda ipapa’ỹvape.
 privacy-passwords-a-padlock-with = Peteĩ mbotyha juasapyre tairenda ndive ohechauka nahekorosãiha jeike.
 privacy-passwords-your-browser-also = Ne kundahára ne pytyvõta avei eñemorandu hag̃ua tendakuéra jeroviaha rehegua, ne pytyvõkuaa hag̃ua phishing rembiapova’ígui. Péicharamo, eikese vove ñanduti renda ha’ekuaáva phishing, { -brand-name-firefox } (ha oimeraẽva kundahára) ohechaukáta kyhyjerã mba’erechaha tuichavévape — <strong>ema’ẽ ha eñamindu’u mokõi jey eipuru hag̃ua pe tenda</strong>
 privacy-passwords-firefox-will = Firefox ohechaukáta kyhyjerã pe ñanduti rendápe térã tenda phishing ojekuaávape.
@@ -44,6 +45,6 @@ privacy-passwords-when-youre-logged = Eike vove { -brand-name-firefox }-pe ne mb
 privacy-passwords-twofactor-authentication-2fa = Ñemboaje mokõi mba’ére (2FA)
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Ne mba’ete { -brand-name-firefox } pegua, techapyrãramo, omo’ãkuaa 2FA ndive, <a { $url_sumo_2fa }>ikatukuaa eñemomaranduve ko’ápe</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA ome’ẽve tekorosã umi ñe’ẽñemi añógui, hákatu ndaha’éi opavave ñanduti renda omoneĩva. Ejuhukuaa peteĩ ñanduti renda rysýi omoneĩva 2FA <a { $url_2fa }>https://twofactorauth.org</a>-pe, péicha avei tenda rysýi omoneĩ’ỹva 2FA ha mba’éichapa ejerurekuaa ñepytyvõ.
 privacy-passwords-strong-diverse-and = Imbarete, hekoeta ha multifactorial
