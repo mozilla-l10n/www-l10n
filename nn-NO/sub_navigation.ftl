@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Alle språk
 sub-navigation-firefox = { -brand-name-firefox }
@@ -23,6 +23,7 @@ sub-navigation-desktop-beta-and-developer = Datamaskin { -brand-name-beta } og {
 sub-navigation-desktop-nightly = Datamaskin { -brand-name-nightly }
 sub-navigation-features = Funksjonar
 sub-navigation-support = Brukarstøtte
+sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Utvidingar
 sub-navigation-add-ons = Tillegg
@@ -36,7 +37,6 @@ sub-navigation-android-add-ons = Tillegg for { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
-sub-navigation-lockwise = { -brand-name-lockwise }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bit
 sub-navigation-mac = { -brand-name-mac-short }
