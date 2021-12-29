@@ -15,6 +15,7 @@ vpn-what-is-a-vpn-is = A VPN egy olyan eszköz, amely lehetővé teszi, hogy biz
 vpn-what-is-concealing-your-ip = Elrejti a valódi IP-címét, védve a személyazonosságát és a tartózkodási helyét.
 vpn-what-is-encrypting-your-traffic = Titkosítja a forgalmat Ön és a VPN szolgáltató között, így a helyi hálózaton senki nem tudja azt megfejteni vagy módosítani.
 vpn-what-is-in-the-past = A múltban a VPN-eket elsősorban vállalatok használták, hogy biztonságos távoli hozzáférést biztosítsanak belső szolgáltatásaikhoz és védett adataikhoz. Mára azonban a VPN-ek bárki számára elérhetők, aki meg akarja védeni az internetkapcsolatát, különösen, ha olyan hálózatokat használ, mint a nyilvános WiFi, de még otthoni hálózaton is hasznosak.
+vpn-what-is-a-vpn-will = A VPN védi az Ön és a VPN-szolgáltatója között küldött adatforgalmat, akár a böngészőn, akár az alkalmazásokon vagy más szolgáltatásokon keresztül. A VPN beállításához létre kell hoznia egy fiókot egy VPN-szolgáltatónál, és telepítenie kell a VPN-szoftvert a számítógépére vagy telefonjára. Ha engedélyezve van, a VPN kezeli az eszközén futó összes alkalmazás és szoftver forgalmát, így szabadon böngészhet és kommunikálhat egy biztonságos magánhálózati kapcsolaton keresztül.
 vpn-what-is-when-should-i = Mikor használjak VPN-t?
 vpn-what-is-wait-i-thought = Várjunk, azt hittem, hogy az internetes forgalmam már HTTPS-sel titkosított…
 vpn-what-is-why-would-i = Miért használnék VPN-t?
