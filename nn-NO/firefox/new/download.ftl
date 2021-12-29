@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ## Required
@@ -59,4 +59,5 @@ firefox-new-visit-support-for-more = Besøk brukarstøtte for meir informasjon
 firefox-new-download-browser = Last ned { -brand-name-firefox-browser }
 firefox-new-fast = Rask, privat og gratis
 firefox-new-from-mozilla = frå { -brand-name-mozilla }
+firefox-new-desc = { -brand-name-firefox-browser } er ein gratis nettlesar med snøgg sidelasting, mindre minnebruk og massevis av funksjonar - eit projekt av den ideella organisasjonen { -brand-name-mozilla }.
 firefox-new-download-a-different = Last ned for andre plattformer og språk
