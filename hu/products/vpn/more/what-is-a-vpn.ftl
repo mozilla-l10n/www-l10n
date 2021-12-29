@@ -16,6 +16,10 @@ vpn-what-is-concealing-your-ip = Elrejti a valódi IP-címét, védve a személy
 vpn-what-is-encrypting-your-traffic = Titkosítja a forgalmat Ön és a VPN szolgáltató között, így a helyi hálózaton senki nem tudja azt megfejteni vagy módosítani.
 vpn-what-is-in-the-past = A múltban a VPN-eket elsősorban vállalatok használták, hogy biztonságos távoli hozzáférést biztosítsanak belső szolgáltatásaikhoz és védett adataikhoz. Mára azonban a VPN-ek bárki számára elérhetők, aki meg akarja védeni az internetkapcsolatát, különösen, ha olyan hálózatokat használ, mint a nyilvános WiFi, de még otthoni hálózaton is hasznosak.
 vpn-what-is-a-vpn-will = A VPN védi az Ön és a VPN-szolgáltatója között küldött adatforgalmat, akár a böngészőn, akár az alkalmazásokon vagy más szolgáltatásokon keresztül. A VPN beállításához létre kell hoznia egy fiókot egy VPN-szolgáltatónál, és telepítenie kell a VPN-szoftvert a számítógépére vagy telefonjára. Ha engedélyezve van, a VPN kezeli az eszközén futó összes alkalmazás és szoftver forgalmát, így szabadon böngészhet és kommunikálhat egy biztonságos magánhálózati kapcsolaton keresztül.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-what-is-a-vpn-provider = A VPN-szolgáltatók általában számos, különböző globális helyeken található kapcsolati átjárót kínálnak, ami lehetővé teszi, hogy az Önétől eltérő helyről származó IP-címet használhasson. Így az a hely, ahová csatlakozik, a VPN IP-címét látja a forgalom forrásaként, nem pedig a tényleges IP-címét. A <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> egy biztonságos kiszolgálón keresztül irányítja a forgalmat, és több mint { $countries } ország közül választhat helyszínt.
 vpn-what-is-when-should-i = Mikor használjak VPN-t?
 vpn-what-is-wait-i-thought = Várjunk, azt hittem, hogy az internetes forgalmam már HTTPS-sel titkosított…
 vpn-what-is-why-would-i = Miért használnék VPN-t?
