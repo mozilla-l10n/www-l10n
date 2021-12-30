@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
@@ -16,6 +16,7 @@ features-fingerprinting-every-fingerprint = Peteĩteĩva kuãhũ ñandutigua ha�
 features-fingerprinting-download-firefox = Emboguejy { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = ¿Mba’e pe kuãhũ rapykuere jeujhu?
 features-fingerprinting-fingerprinting-is-a = Pe kuãhũ rapykuere (fingerprinting) ñemoheñói ha’e jehapykueho ñandutípe hypy’ũvéva pe jehapykueho jepiguágui kookie rehegua. Pe kuãhũ rapykuere oñemoheñói pe mba’apohaguasu orekóvo mba’ete nemba’éva hardware, software, moĩmbaha ha oikehápe oguerohoryvéva ne mohendaha. Ne ñemboheko, mba’erechaha eipurúvape, teñoiha mohendapyre ne mohendaha ha avei ne ñanduti kundahára jeporavo, ikatu ojepuru oñemoheñói hag̃ua kuãhũ rapykuere.
+features-fingerprinting-if-you-have = Erekórõ mohendaha’i, PC térã smartphone ojepuruvéva, ombohasyvekuaa eikuaa hag̃ua ne mba’e’oka pe kuãhũ kuaaukaha ñemoheñói rupive. Upéicharõ jepe, ha’eñovérõ moĩmbaha, teñoiha ha ñemoĩporã erekóva, ndahasyivéta ehecha hag̃ua. Umi mba’apohaguasu oipurukuaa ko marandu ojueheguáva emoheñói hag̃ua kuãhũ kuaaukaha. Upévare { -brand-name-firefox } ojoko kuãhũ kuaaukaha moheñoihára ojekuaávape, eipurukuaa hag̃ua jepysokue, téma ha ñemboava erohoryvéva nde myangekoi’ỹre maranduñemurã.
 features-fingerprinting-fingerprinting-is-bad = Kuãhũ ñandutigua ñemoheñói ivai ñandutípe g̃uarã
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = { -brand-name-firefox } kundahára ipyahuvéva ne mo’ãta pe kuãhũ kuaaukaha rovake ojokóvo mba’ejerure mbohapyháva mba’apohaguasugua eike haguére kuãhũ kuaaukaha rapykuehohápe. Romba’apo kyre’ỹ rombojuruja hag̃ua tekoñemi ñemo’ã romboyke’ỹre ñanduti renda eikehápe tapiaite. (Emoñe’ẽvekuaa ko’ápe, ejaposéramo { $url_details }>aporeko mba’emimi</a>.)
