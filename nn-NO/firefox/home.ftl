@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/
@@ -12,12 +12,16 @@ firefox-home-meet-our-family-of = Møt produktfamilien vår
 firefox-home-get-trackers-off = Blokker meir enn 2000 sporarar — inkludert { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Få greie på når hackarar slår til — og ver eitt steg framom dei
 firefox-home-start-getting-breach = Begynn å få rapportar om datalekkasjar
+# Obsolete string
 firefox-home-keep-your-passwords = Hald passorda dine trygge på alle einingar
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Les meir om { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Få <strong>respekten</strong> du fortener
 firefox-home-every-single-firefox = Kvart { -brand-name-firefox }-produkt overheld lovnaden vår om private data i alt vi gjer: <strong>Samle inn mindre. Oppbevar dei trygt. Ingen hemmelegheiter.</strong>
+# Obsolete string
 firefox-home-share-large-files-without = Del store filer utan nysgjerrige auge
+# Obsolete string
 firefox-home-start-sending-files = Begynn å sende filer trygt
 firefox-home-trade-clickbait-for = Byt ut klikkfang (clickbait) med kvalitetsinnhald
 firefox-home-learn-more-about-pocket = Les meir om { -brand-name-pocket }
@@ -29,6 +33,7 @@ firefox-home-get-the-browser-extension = Hent nettlesarutvidinga
 firefox-home-get-the-facebook-container = Hent utvidinga{ -brand-name-facebook-container }
 firefox-home-download-the-browser = Last ned nettlesaren
 firefox-home-download-the-app = Last ned appen
+firefox-home-get-mozilla-vpn = Få { -brand-name-mozilla-vpn }
 firefox-home-desktop = Datamaskin
 firefox-home-browsers = Nettlesarar
 firefox-home-android = { -brand-name-android }

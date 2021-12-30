@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -21,11 +21,12 @@ privacy-index-data-privacy-principles = Prinsipp for datapersonvern
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla }s <a href="{ $principles }">datapersonvernprinsipp</a> respekterer og vernar personar på nettet. Les om korleis desse prinsippa formar { -brand-name-firefox } og alle produkta våre i desse <a href="{ $faq }">ofte stilte spørsmåla</a>.
 privacy-index-transparency-report = Rapport om openheit
+privacy-index-get-involved = Ver med
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Som eit opent kjeldekode-prosjekt, så er innsyn og openheit ein viktig del av { -brand-name-mozilla }s grunnleggande prinsipp. Kodebasen vår er open og open for vurdering. Utviklingsarbeidet vårt er opent. Den toårige rapporten vår <a href="{ $report }">rapport om openheit</a> viser også engasjement vårt for desse prinsippa.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = For å granske og kommentere føreslåtte forandringar av personpraksisen vår, <a href="{ $group }">abonner på { -brand-name-mozilla }s styringsgruppe</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
