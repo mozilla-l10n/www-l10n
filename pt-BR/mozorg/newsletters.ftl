@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
@@ -47,7 +47,7 @@ newsletters-language = Idioma:
 newsletters-not-all-subscriptions-are = Nem todas as inscrições estão disponíveis em todos os idiomas listados. Quase todos são oferecidos em inglês, alemão e francês.
 # Form field label
 newsletters-format = Formato:
-newsletters-text-subscribers-will-receive = Inscritos no modo texto recebem um email duas vezes ao ano para confirmar se desejam manter a inscrição. Esses emails podem incluir formatação HTML.
+newsletters-text-subscribers-will-receive = Inscritos no modo texto recebem um email duas vezes ao ano para confirmar se querem manter a inscrição. Esses emails podem incluir formatação HTML.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 newsletters-many-of-our-communications = Muitas de nossas comunicações são relacionadas a uma conta em que você se inscreveu, como { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } ou Add-on Developer. Para gerenciar uma de suas contas ou ver uma lista de todas as contas, visite nossa <a href="{ $url }">página de suporte de gerenciamento de contas</a>.

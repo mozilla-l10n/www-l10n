@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -71,4 +71,4 @@ compare-safari-since-safari-is-apples-proprietary = Como o { -brand-name-safari 
 # Variables:
 #   $attrs (string) - link to blog post with additional attributes for analytics
 compare-safari-safari-does-a-great-job-of = O { -brand-name-safari } faz um ótimo trabalho ao tornar a experiência de navegação simples, rápida e direta se você é um usuário da { -brand-name-apple } com vários produtos da { -brand-name-apple }. Assim como o { -brand-name-safari }, o { -brand-name-firefox } é um navegador rápido e utilitário, mas a privacidade e a compatibilidade entre plataformas são nossos recursos característicos. O { -brand-name-firefox } é atualizado a cada mês com novos recursos e funcionalidades. Por exemplo, uma atualização recente ativou por padrão nossa <a { $attrs }>proteção aprimorada contra rastreamento</a> para novos usuários, efetivamente bloqueando rastreadores de cookies e entre sites.
-compare-safari-in-the-end-it-just-boils = No final, tudo se resume ao que você valoriza no seu navegador. Se você está integrado ao ecossistema da { -brand-name-apple }, o { -brand-name-safari } ainda é uma ótima opção. Mas se você valoriza ter as melhores e mais recentes proteções de privacidade e poder usar em vários sistemas operacionais, achamos que o { -brand-name-firefox } é sua melhor aposta. O { -brand-name-firefox } também é uma sólida opção como navegador secundário para os usuários exclusivos da { -brand-name-apple } que desejam mudar para um navegador diferente naqueles momentos online que exigem camadas extras de proteção de privacidade.
+compare-safari-in-the-end-it-just-boils = No final, tudo se resume ao que você valoriza no seu navegador. Se você está integrado ao ecossistema da { -brand-name-apple }, o { -brand-name-safari } ainda é uma ótima opção. Mas se você valoriza ter as melhores e mais recentes proteções de privacidade e poder usar em vários sistemas operacionais, achamos que o { -brand-name-firefox } é sua melhor aposta. O { -brand-name-firefox } também é uma sólida opção como navegador secundário para usuários que só usam { -brand-name-apple }, mas podem querer mudar para outro navegador naqueles momentos online que exigem camadas extras de proteção de privacidade.
