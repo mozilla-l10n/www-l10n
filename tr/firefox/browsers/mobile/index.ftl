@@ -18,7 +18,7 @@ browsers-mobile-firefox-for-android = { -brand-name-android } için { -brand-nam
 browsers-mobile-infinitely-customizable-private = Özelleştirilebilir, gizlilik yanlısı ve güvenli. { -brand-name-android } için { -brand-name-firefox } sizi asla satmayan, ışık hızında bir tarayıcı.
 browsers-mobile-firefox-for-ios = { -brand-name-ios } için { -brand-name-firefox }
 browsers-mobile-go-your-own-way = { -brand-name-firefox } mobil ile kendi yolunu çiz
-browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } mobil, size uyum sağlıyor ve açık sekmelerinizi, geçmiş aramalarınızı ve sık kullandığınız siteleri görmenizi daha da kolay hale getiriyor.
+browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } mobil size uyum sağlıyor ve açık sekmelerinizi, geçmiş aramalarınızı ve sık kullandığınız siteleri görmenizi daha da kolaylaştırıyor.
 browsers-mobile-the-more-you-use = { -brand-name-firefox } tarayıcınızı ne kadar kullanırsanız o kadar akıllanıyor. Giriş ekranı, kullanım alışkanlıklarınıza uyum sağlıyor ve işlerinize kaldığınız yerden devam etmeyi kolaylaştırıyor.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = { -brand-name-iphone } ve { -brand-name-ipad }’de Gelişmiş İzlenme Koruması’na kavuşun, { -brand-name-firefox }’u varsayılan tarayıcınız yapın.
