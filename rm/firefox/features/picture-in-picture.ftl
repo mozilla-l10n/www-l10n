@@ -20,5 +20,6 @@ features-pip-play-any-video-in-your = <strong>Fa ir x in video</strong> en tes n
 features-pip-click-the-picture-in-picture-button = <strong>Clicca sin il buttun maletg-en-maletg</strong> che cumpara sin il video per al avrir en ina fanestra separada.
 features-pip-cruise-around-to-other = <strong>Fa in gir e guarda en tes auters tabs</strong> u banduna schizunt { -brand-name-firefox }. Il video resta nua ch'el è!
 features-pip-repeat-steps-1-3-to-have = <strong>Repeta ils pass 1-3</strong> per vesair tants videos maletg-en-maletg sco ti vuls.
-features-pip-3-more-ways-to-use-picture = 3 ulteriuras pussaivladads dad utilisar la funcziun maletg-en-maletg
+features-pip-3-more-ways-to-use-picture = 3 ulteriuras pussaivladads dad utilisar maletg-en-maletg
 features-pip-3-ways-to-use-picture = 3 pussaivladads dad utilisar la funcziun maletg-en-maletg
+features-pip-watch-a-lecture-or-meeting = Taidla in referat u participescha a sesidas e fa notizias al medem mument
