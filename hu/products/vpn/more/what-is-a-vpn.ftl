@@ -47,5 +47,6 @@ vpn-what-is-can-vpns-protect = A VPN-ek megvédhetnek-e a kiberbűnözőktől?
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
 vpn-what-is-while-a-vpn = Bár a VPN biztonságos kapcsolatot biztosít az internethez, nem védi meg Önt az összes rossz szereplőtől. Bármikor, amikor online van, VPN-nel vagy anélkül, óvakodnia kell a gyanús hivatkozásoktól, félretájékoztatási kampányoktól, az adathalász csalásoktól és más fenyegetésektől. <a href="{ $url }">Az online biztonság</a> egy mindennapos gondolkodásmód.
 vpn-what-is-are-vpns-legal = Legálisak-e a VPN-ek?
+vpn-what-is-installing-and-using = A VPN telepítése és használata jelenleg a legtöbb országban legális, beleértve az Egyesült Államokat, az Egyesült Királyságot, Kanadát és Új-Zélandot, de egyes országok szabályozhatják a használatukat. Ha úgy dönt, hogy VPN-t használ, az Ön felelőssége, hogy ellenőrizze az adott ország törvényeit, hogy megállapítása, hogy a VPN használata legális-e vagy sem.
 vpn-what-is-are-vpns-only = A VPN-ek csak számítógépekhez használhatók?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Gyors, biztonságos, megbízható
