@@ -19,10 +19,10 @@ firefox-desktop-download-no-shady = Keine zwielichtigen Datenschutzhinweise oder
 firefox-desktop-download-download-options = Download-Optionen und weitere Sprachen
 firefox-desktop-download-browser-support = Hilfe zu { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Tun Sie online, was Sie online tun wollen.<br> { -brand-name-firefox-browser } schaut dabei <strong>nicht</strong> zu.
+firefox-desktop-download-do-what-you-do = Tue online, was du online tun willst.<br> { -brand-name-firefox-browser } schaut dabei <strong>nicht</strong> zu.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } im Vergleich zu anderen Browsern
 firefox-desktop-download-get-all-the-speed = Hol dir Geschwindigkeit und smarte Tools, ohne an Privatsphäre einzubüßen. Der { -brand-name-firefox-browser } sammelt nur sehr wenige Daten von dir – du musst nicht einmal deine E-Mail-Adresse hergeben, um den Browser herunterzuladen. Im Gegensatz zu anderen Browsern haben wir kein finanzielles Interesse daran, deine Aktivitäten im Web zu verfolgen.
-firefox-desktop-download-how-we-compare = Wir wir im Vergleich zu anderen Browsern dastehen
+firefox-desktop-download-how-we-compare = Wie wir im Vergleich zu anderen Browsern dastehen
 firefox-desktop-download-compare-firefox-to = Vergleiche { -brand-name-firefox } mit:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
