@@ -9,6 +9,12 @@
 vpn-when-to-use-5-reasons-you-should = 5 ok, amiért érdemes VPN-t használni
 # HTML page description and intro
 vpn-when-to-use-here-are-five = Íme öt olyan helyzet, amikor egy megbízható VPN jól jöhet, amire talán még nem is gondolt. Tegye szorosabbá az online biztonságát a { -brand-name-mozilla-vpn } segítségével.
+# Variables
+#   $vpn (url) - https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-when-to-use-as-more-of = Ahogy a mindennapi életünk egyre nagyobb része az interneten keresztül zajlik, az online adatvédelem és biztonság még fontosabbá vált. Egy VPN – <a href="{ $vpn }">virtuális magánhálózat</a> – segítségével bárki biztonságos, privát kapcsolatot hozhat létre az internet felé. Úgy működik, hogy egy „alagutat” hoz létre az eszköz és az Internet egésze között, és két fontos módon védi meg:
+vpn-when-to-use-concealing-your-true = Elrejti a valódi IP-címét, mely védi a személyazonosságát, és elfedi a tartózkodási helyét.
+vpn-when-to-use-encrypting-your-traffic = Titkosítja a forgalmat Ön és a VPN szolgáltató között, így a helyi hálózaton senki nem tudja azt megfejteni vagy módosítani.
+vpn-when-to-use-having-a-vpn = Jó ötlet, ha van egy VPN a keze ügyében, amikor szüksége van rá. Íme néhány alkalom, amikor egy megbízható VPN jól jöhet, amire talán nem is gondolt.
 vpn-when-to-use-1-a-walk = 1. Séta a parkban
 vpn-when-to-use-2-in-the = 2. A környéken
 vpn-when-to-use-3-on-the = 3. Menet közben
