@@ -16,6 +16,7 @@ vpn-when-to-use-concealing-your-true = Elrejti a valódi IP-címét, mely védi 
 vpn-when-to-use-encrypting-your-traffic = Titkosítja a forgalmat Ön és a VPN szolgáltató között, így a helyi hálózaton senki nem tudja azt megfejteni vagy módosítani.
 vpn-when-to-use-having-a-vpn = Jó ötlet, ha van egy VPN a keze ügyében, amikor szüksége van rá. Íme néhány alkalom, amikor egy megbízható VPN jól jöhet, amire talán nem is gondolt.
 vpn-when-to-use-1-a-walk = 1. Séta a parkban
+vpn-when-to-use-its-a-beautiful = Gyönyörű szombat reggel van, és Ön letelepedett egy parkban egy padra, hogy egy kávét kortyolgatva felzárkózzon kedvenc híroldalaival, megnézzen néhány videót, és gyorsan vásároljon online, miközben napozik és friss levegőt szív. Ahelyett, hogy elhasználná a rendelkezésére álló mobiladatkeretét, inkább felugrik a város nyilvános WiFi-szolgáltatására. Ez ingyenes, és a város üzemelteti, szóval biztos jó lesz, nem igaz? A helyzet az, hogy nem lehet biztos benne, hogy az önkormányzati hálózat biztonságos, sőt, még az is lehet, hogy nem is valódi (lásd a következő pontot), és nem védi meg a rosszindulatú emberektől vagy szervezetektől, akik kémkednek Ön után, ha csatlakozik. Egy VPN bekapcsolása segíthet megvédeni az eszközét bárkitől, aki megpróbálja kikémlelni az Ön által látogatott oldalakat, vagy eltéríteni az érzékeny bejelentkezési adatait, miközben Ön a hét bármely napján hátradől a park padján.
 vpn-when-to-use-2-in-the = 2. A környéken
 vpn-when-to-use-3-on-the = 3. Menet közben
 vpn-when-to-use-4-home-away = 4. Otthon, távol az otthontól
