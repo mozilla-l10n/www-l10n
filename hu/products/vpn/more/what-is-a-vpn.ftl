@@ -49,4 +49,18 @@ vpn-what-is-while-a-vpn = Bár a VPN biztonságos kapcsolatot biztosít az inter
 vpn-what-is-are-vpns-legal = Legálisak-e a VPN-ek?
 vpn-what-is-installing-and-using = A VPN telepítése és használata jelenleg a legtöbb országban legális, beleértve az Egyesült Államokat, az Egyesült Királyságot, Kanadát és Új-Zélandot, de egyes országok szabályozhatják a használatukat. Ha úgy dönt, hogy VPN-t használ, az Ön felelőssége, hogy ellenőrizze az adott ország törvényeit, hogy megállapítása, hogy a VPN használata legális-e vagy sem.
 vpn-what-is-are-vpns-only = A VPN-ek csak számítógépekhez használhatók?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-vpns-can-be = A VPN-ek az összes eszköze – számítógépek, laptopok, táblagépek és telefonok – védelmére használhatók. Ha a böngészőn kívül önálló alkalmazásokon keresztül éri el az internetet, a VPN jó választás az adatvédelem és a biztonság szempontjából bármely eszközön. A hatékony működéshez minden eszközre telepítenie kell egy VPN-t. A <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> korlátlan kapcsolatot kínál akár öt eszközhöz, ha bármilyen alkalmazásból vagy böngészőből csatlakozik az internethez.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Gyors, biztonságos, megbízható
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = A <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> egy olyan szolgáltatás, amelyben megbízhat, és amellyel minden eszközén biztonságban tudja az internetkapcsolatát. Nem tároljuk a hálózati tevékenységének naplóit, és nem működünk együtt olyan harmadik felekkel, akik profilokat készítenek arról, hogy mit csinál az interneten. Egy olyan világban, ahol a kiszámíthatatlanság vált az „új normává”, tudjuk, hogy minden eddiginél fontosabb, hogy biztonságban érezze magát, és hogy tudja, hogy amit online csinál, az csak a saját dolga.
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v2 = A <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> egy olyan szolgáltatás, amelyben megbízhat, és amellyel minden eszközén biztonságban tudja az internetkapcsolatát. Nem tároljuk a hálózati tevékenységének naplóit, és nem működünk együtt olyan harmadik felekkel, akik profilokat készítenek arról, hogy mit csinál az interneten. Egy olyan világban, ahol a kiszámíthatatlanság vált az „új normává”…
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a = A <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> egy olyan szolgáltatás, amelyben megbízhat, és amellyel minden eszközén biztonságban tudja az internetkapcsolatát. Nem tároljuk a felhasználó adatainak naplóit, és nem működünk együtt olyan harmadik felű analitikai platformokkal, akik profilokat készítenek arról, hogy mit csinál az interneten. Egy olyan világban, ahol a kiszámíthatatlanság vált az „új normává”, tudjuk, hogy minden eddiginél fontosabb, hogy biztonságban érezze magát, és hogy tudja, hogy amit online csinál, az csak a saját dolga.

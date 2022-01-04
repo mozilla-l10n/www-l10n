@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 ok, amiért érdemes VPN-t használni
+# HTML page description and intro
+vpn-when-to-use-here-are-five = Íme öt olyan helyzet, amikor egy megbízható VPN jól jöhet, amire talán még nem is gondolt. Tegye szorosabbá az online biztonságát a { -brand-name-mozilla-vpn } segítségével.
 vpn-when-to-use-1-a-walk = 1. Séta a parkban
 vpn-when-to-use-2-in-the = 2. A környéken
 vpn-when-to-use-3-on-the = 3. Menet közben
