@@ -21,6 +21,7 @@ mobile-compare-from-the-chart = No gráfico acima, é óbvio que o { -brand-name
 mobile-compare-features-strong = <strong>Funcionalidades</strong>
 mobile-compare-features = Funcionalidades
 mobile-compare-what-can-your = O que pode o seu navegador fazer por si?
+mobile-compare-a-main-ingredient = Um dos principais ingredientes para um navegador bem feito é sua funcionalidade. O que pode fazer? Quase todos os cinco navegadores são iguais quando se trata de separadores, marcadores, preenchimento automático de campos, mas apenas o { -brand-name-firefox } e o { -brand-name-safari } fornecem extras/extensões, que funcionam como aplicações para o seu navegador para o tornar mais privado, poderoso ou apenas mais divertido.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>A Sincronizar</strong>
 mobile-compare-syncing = A sincronizar
