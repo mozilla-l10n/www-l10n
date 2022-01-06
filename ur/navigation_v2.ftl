@@ -16,6 +16,7 @@ navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } م�
 navigation-v2-firefox-for-desktop = ڈیسک ٹاپ کے لئے { -brand-name-firefox }
 navigation-v2-firefox-for-android = { -brand-name-android } کی لئے  { -brand-name-firefox }
 navigation-v2-firefox-for-ios = { -brand-name-ios } کے لیے { -brand-name-firefox }
+navigation-v2-simply-private-mobile = بس نجی موبائل براؤزنگ۔
 navigation-v2-privacy-promise = رازداری کا وعدہ
 navigation-v2-firefox-blog = { -brand-name-firefox } بلاگ
 navigation-v2-release-notes = اجرائی نوٹ
