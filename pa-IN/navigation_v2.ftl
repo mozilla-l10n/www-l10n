@@ -1,11 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } ਲਵੋ
+navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } ਲਵੋ
 navigation-v2-menu = ਮੇਨੂ
+# Obsolete string
+navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } ਲਵੋ
 
 ## Firefox menu
 
@@ -17,6 +19,8 @@ navigation-v2-firefox-for-android = { -brand-name-android } ਲਈ { -brand-name
 navigation-v2-get-the-customizable-mobile = { -brand-name-android } ਸਮਾਰਟ-ਫ਼ੋਨਾਂ ਲਈ ਲੋੜ ਮੁਤਾਬਕ ਢਲਣ ਵਾਲਾ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਲਵੋ।
 navigation-v2-firefox-for-ios = { -brand-name-ios } ਲਈ { -brand-name-firefox }
 navigation-v2-get-the-mobile-browser = ਆਪਣੇ { -brand-name-iphone } ਜਾਂ { -brand-name-ipad } ਲਈ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਲਵੋ।
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = ਬੱਸ ਪ੍ਰਾਈਵੇਟ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਿੰਗ ਹੈ।
 navigation-v2-privacy-promise = ਪਰਦੇਦਾਰੀ ਦਾ ਇਕਰਾਰ
 navigation-v2-learn-how-firefox-treats = ਜਾਣੋ ਕਿ { -brand-name-firefox } ਤੁਹਾਡੇ ਡਾਟੇ ਦਾ ਮਾਣ ਕਿਵੇਂ ਰੱਖਦਾ ਹੈ।
 navigation-v2-firefox-blog = { -brand-name-firefox } ਬਲੌਗ
@@ -53,6 +57,7 @@ navigation-v2-close-who-we-are-menu = ਅਸੀਂ ਕੌਣ ਹਾਂ ਮੇਨ
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } ਮੈਨੀਫਿਸਟੋ
 navigation-v2-learn-about-the-values = ਮੁੱਲਾਂ ਅਤੇ ਸਿਧਾਂਤਾ ਬਾਰੇ ਸਿੱਖੋ, ਜੋ ਕਿ ਸਾਡੇ ਮਕਸਦ ਲਈ ਸੇਧ ਦਿੰਦੇ ਹਨ।
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = { -brand-name-firefox } ਦੇ ਪਿੱਛੇ ਗ਼ੈਰ-ਫਾਇਦਾ ਨੂੰ ਵੇਖੋ, ਜੋ ਕਿ ਵਧੀਆ ਵੈੱਬ ਲਈ ਡਟੀ ਹੈ।
 navigation-v2-get-involved = ਹਿੱਸਾ ਲਵੋ
 navigation-v2-join-the-fight-for-a = ਚੰਗੇ ਇੰਟਰਨੈੱਟ ਲਈ ਜੰਗ ਵਿੱਚ ਹਿੱਸਾ ਪਾਓ।
 navigation-v2-leadership = ਅਗਵਾਈ
