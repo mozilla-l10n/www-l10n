@@ -13,6 +13,7 @@ vpn-what-is-how-do-vpns = ¿Mba’éicha omba’apo VPNs?
 vpn-what-is-a-vpn-is = Ko VPN ha’e peteĩ tembipuru omoneĩva eikekuaa hag̃ua ñandutípe tekorosãme eime eimehápe. Ko VPN omba’apo omoheñóivo “túnel” hekorosãva ne mba’e’oka ha ne VPN me’ẽhára ha ne mo’ã añete mokõi mba’égui:
 vpn-what-is-concealing-your-ip = Emokañývo nde IP kundaharape, emo’ãvo nde reratee ha ne rendaite.
 vpn-what-is-encrypting-your-traffic = Ombopapapy pe jeikeita nde ha nde VPN me’ẽhára pa’ũme avave ani hag̃uáicha ombopapapy’o térã omoambue ndehegui.
+vpn-what-is-in-the-past = Ymave, VPNs ojepuruvékuri mba’apohaguasúpe omoneĩ hag̃ua jeike tekorosãme oka guive ne mba’epuru hyepyguávape ha mba’ekuaarã ñemiguávape. Ko’ág̃a, upéicharõ jepe, VPNs oipurukuaa oimeraẽva omo’ãséva ijeike ñandutípe, péva oiko ojepurukuévo pyha imarãkuaáva ha’éva WiFi opavave oipurukuaáva, hákatu avei tuichamba’e pyha óga peguávape.
 vpn-what-is-when-should-i = ¿Araka’épa eipuruva’erã VPN?
 vpn-what-is-when-youre-at = Eimévo nde rógape, ikatu osẽ tekove ñaña nde pyha ogaguápe michĩvéta. Upéicharamo jepe, ne ñanduti me’ẽhára (ISP) ikatu ohapykueho ha omoherakuã ne rembiapo ñandutípe umi mba’ekuaarã ñanduti rupive eikeha oñemondo pyha rupi nde ISP-pe, oĩkuaahápe oñembopapapýva. VPN omboykekuaa umi ISP nde rapykuehóvo ha ombopapapývo nde VPN me’ẽhára toĩ oĩhápe.
 vpn-what-is-wait-i-thought = Epyta, aimo’ã jeku’e ñandutigua ipapapýma HTTPS ndive…
