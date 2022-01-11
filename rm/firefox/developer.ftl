@@ -76,3 +76,6 @@ firefox-developer-welcome-to-the-all-new = Bainvegni en il { -brand-name-firefox
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } è vegnì reconstruì da fund ensi per esser pli svelt, pli elegant e pli pussant che mai.
 firefox-developer-congrats-you-now-have-firefox = Gratulaziun. Ti has ussa { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Quai n'è betg mo ina actualisaziun. Quai è { -brand-name-firefox-quantum }: in { -brand-name-firefox } dal tuttafatg nov ch'è vegnì reconstruì da fund ensi per esser pli svelt, pli elegant e pli pussant che mai.
+firefox-developer-welcome-to-firefox-browser = Bainvegni en il { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-made-for-developers = Il navigatur concepì per sviluppaders
+firefox-developer-all-the-latest = Tut ils utensils da svilup ils pli novs en la versiun beta ed ultra da quai <strong>funcziuns experimentalas</strong> sco l'editur da consola en pliras lingias u l'inspectur WebSocket.
