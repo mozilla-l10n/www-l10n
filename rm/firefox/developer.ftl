@@ -79,3 +79,7 @@ firefox-developer-this-isnt-just-an-update = Quai n'è betg mo ina actualisaziun
 firefox-developer-welcome-to-firefox-browser = Bainvegni en il { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Il navigatur concepì per sviluppaders
 firefox-developer-all-the-latest = Tut ils utensils da svilup ils pli novs en la versiun beta ed ultra da quai <strong>funcziuns experimentalas</strong> sco l'editur da consola en pliras lingias u l'inspectur WebSocket.
+firefox-developer-a-separate-profile = In <strong>profil separà cun in agen percurs</strong> per che ti al pos exequir parallelamain a la versiun uffiziala u a { -brand-name-beta } da { -brand-name-firefox }.
+firefox-developer-preferences-tailored = Preferenzas <strong>adattadas aposta per sviluppaders da web</strong>: Il navigatur ed il debugadi a distanza èn activads en la configuraziun da standard. Il medem vala per il design stgir ed il buttun da la trav d'utensils da svilup.
+firefox-developer-congrats-you-now-have = Gratulaziun. Ussa utiliseschas ti { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Gratulaziun. Ti has ussa la versiun la pli nova da { -brand-name-firefox-browser }{ -brand-name-developer-edition }.
