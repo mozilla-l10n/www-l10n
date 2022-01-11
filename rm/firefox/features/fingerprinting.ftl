@@ -14,3 +14,4 @@ features-fingerprinting-ditch-the-sticky = Ta liberescha da las reclamas mulestu
 # description for the header image
 features-fingerprinting-every-fingerprint = Mintga impronta è unica.
 features-fingerprinting-download-firefox = Telechargiar { -brand-name-firefox }
+features-fingerprinting-what-is-fingerprinting-body = Tge èn improntaders (fingerprinting)?
