@@ -7,3 +7,10 @@
 
 # page title
 features-fingerprinting-what-is-fingerprinting-title = Tge èn improntaders (fingerprinting) e pertge als duessas ti bloccar?
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = Improntaders èn fastizaders anc pli invasivs che solits fastizaders che sa basan sin cookies – perquai als blochescha { -brand-name-firefox-browser }.
+features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blochescha improntaders
+features-fingerprinting-ditch-the-sticky = Ta liberescha da las reclamas mulestusas che ta suondan dapertut cun agid da la funcziun preinstallada da { -brand-name-firefox } per bloccar improntaders.
+# description for the header image
+features-fingerprinting-every-fingerprint = Mintga impronta è unica.
+features-fingerprinting-download-firefox = Telechargiar { -brand-name-firefox }
