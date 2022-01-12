@@ -39,6 +39,7 @@ privacy-passwords-strength-in-diversity = Mbarete oĩ tekoetápe
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Oipuru <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> oma’ẽ ñanduti veve kundaharape ojuajúva ne mba’etére. Ne ñanduti veve kundaharape ojekuaárõ mba’ekuaarã mboguaha atyguasu herakuãva, eñeñatõita ha oje’éta mba’épa ejapóta emo’ã hag̃ua ne mba’ete iñapañuãiva.
 privacy-passwords-security-questions-my = Porandu tekorosãrã: Che sy rerajoapy omenda mboyvegua ha’e “Ff926AKa9j6Q”
+privacy-passwords-finally-most-websites = Ipahápe, heta ñanduti renda omoneĩ eguerujeývo ne ñe’ẽñemi nde resaráiramo. Tuichaháicha, ko’ã apopyvusu ne mbohovaika “porandu tekorosãgua” eguerujey mboyve ne ñe’ẽñemi. <strong>Umi mbohovái ko’ã porandu rehegua hekoñemiva’erã ne ñe’ẽñemícha.</strong> Péicha ndoikóiramo, peteĩ tekoveñaña ikatu oikuaa ne mbohovái ha omoambue pe ñe’ẽñemi ha’e oipotaháicha.
 privacy-passwords-get-help-from = Erekóta pytyvõ ñe’ẽñemi ñangarehágui
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Eike vove { -brand-name-firefox }-pe ne mba’ete { -brand-name-firefox } pegua rupive, embojuehekuaa opaite ne mba’e’okápe ha eikekuaa ne ñe’ẽñemíme pumbyry kundahára guive { -brand-name-firefox }. Eñemomarunduve <a { $url_sumo-manager }>mba’éichapa eñangarekóta ne ñe’ẽñemi ojuajúva rehe</a>.

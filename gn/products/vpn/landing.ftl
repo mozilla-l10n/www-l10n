@@ -29,6 +29,9 @@ vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } oku’e apopyvusu 
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } omba’apo apopyvusu yvoragua ñandutípe tembipurupyahu ndive <a href="{ $mullvad }" { $attrs }> { -brand-name-mullvad }</a>. Oipurúvo taperekoite <a href="{ $wireguard }" { $attrs }> { -brand-name-wireguard }®</a> pyahu, rombopapapy ne rembiapo ñandutigua ha romoñemi nde IP kundaharape. Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã ñandutigua.
 vpn-landing-brand-trust-heading = Peteĩ VPN márka ejeroviakuaaha
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = Hetave 20 arýgui, { -brand-name-mozilla } omoĩ yvypórape tenondete ha oñorairõ tekoñemíre ñandutípe. Peteĩ atyguasu viru’ỹguáva jeykekópe, roime rojapo hag̃ua peteĩ Ñanduti iporã ha hesãi añetéva opavave tapichápe g̃uarã. Opamba’e rojapóva oĩ ore rembipotápe ha oguata ore <a href="{ $url }">rapetére</a>.
 
 ## FAQ section
 
