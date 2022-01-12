@@ -15,3 +15,4 @@ features-fingerprinting-ditch-the-sticky = Ta liberescha da las reclamas mulestu
 features-fingerprinting-every-fingerprint = Mintga impronta è unica.
 features-fingerprinting-download-firefox = Telechargiar { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Tge èn improntaders (fingerprinting)?
+features-fingerprinting-fingerprinting-is-a = Improntaders (fingerprinting) èn fastizaders online ch'èn anc pli invasivs che solits fastizaders a basa da cookies. Ina impronta digitala vegn producida sch'ina interpresa creescha in profil unic da tai che sa basa sin tia hardware, tia software, tes supplements e schizunt sin tias preferenzas. Configuraziuns sco il visur che ti utiliseschas, las scrittiras installadas sin tes computer e schizunt la schelta da tes navigatur pon tuttas vegnir duvradas per crear ina impronta.
