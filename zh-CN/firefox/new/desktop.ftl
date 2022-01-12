@@ -116,7 +116,7 @@ firefox-desktop-download-sync-your-devices = 同步您的设备
 firefox-desktop-download-screenshots = 屏幕截图
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = 增强型跟踪保护（ETP）
-firefox-desktop-download-from-watching-a = 无论是看网课，还是追球赛，可以同时做其他事情，两不相误。
+firefox-desktop-download-from-watching-a = 无论是看网课，还是追球赛，都可以同时做其他事情，两不相误。
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = 下载 <strong>{ -brand-name-android }</strong> 版 { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-ios = 下载 <strong>{ -brand-name-ios }</strong> 版 { -brand-name-firefox-browser }
@@ -131,7 +131,7 @@ firefox-desktop-download-from-security-to = 从安全、新闻、到网络游戏
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一开始是由 <a { $attrs }>{ -brand-name-mozilla }</a> 开发，希望成为在 { -brand-name-ie }（如今则是 { -brand-name-chrome }）之外，更快、更具隐私的浏览器。而现在，我们由以使命驱动的公司与全球志愿者社区组成，任何时刻都将您的隐私放在首位。
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = 随着互联网的发展和改变，{ -brand-name-firefox } 更加注重于保护您的隐私权 — 我们称之为<a { $attrs }>个人数据承诺</a>：索取更少、确保安全、绝不隐瞒。{ -brand-name-firefox } 承诺保护——您的数据、您的网络活动、您的在线生活。
+firefox-desktop-download-as-the-internet = 随着互联网的发展和改变，{ -brand-name-firefox } 更加注重于保护您的隐私权 — 我们称之为<a { $attrs }>个人数据承诺</a>：索取更少、确保安全、绝不隐瞒。{ -brand-name-firefox } 承诺保护您的数据、网络活动及在线生活。
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } 在您所有设备上皆可用。只需创建 <a { $attrs }>{ -brand-name-firefox } 账户</a>，即可无缝同步标签页、历史记录与书签。
