@@ -50,6 +50,10 @@ vpn-landing-faq-uses-encrypt = Ombopapapy pe jeikeita nde ha ne VPN me’ẽhár
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Ema’ẽ <a href="{ $url }">po techapyrã jeikove rehegua</a> eipotátaramo peteĩ VPN ne mba’e’okápe.
 vpn-landing-faq-info-question-heading = ¿Mba’eichagua marandu oñongatu { -brand-name-mozilla-vpn }?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Romomba’e <a href="{ $principles }">mba’ekuaarã rekoñemi ñepyrũha</a> { -brand-name-mozilla } mba’e ha rombyaty mba’ekuaarã tekotevẽva ereko hag̃ua VPN tekoku’épe ha iporãvévo apopyre tenondeve. Avei rohapykueho mba’ekuaarã moherakuãrã ha jehecharã ore pumbyry rembipuru’i oipytyvõ hag̃ua { -brand-name-mozilla }-pe oikumby hag̃ua iporãha ore marketing. Eñemomaranduve <a href="{ $notice }">tekoñemi marandúpe</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
