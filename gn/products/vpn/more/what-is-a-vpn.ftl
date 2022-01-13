@@ -9,6 +9,7 @@
 vpn-what-is-what-is-a-vpn = ¿Mba’épa VPN?
 # HTML page description and intro
 vpn-what-is-get-answers-to-nine = Ereko mbohovái porundy porandúpe VPNs rehegua eñemomarandu hag̃ua ojejapóvare, araka’épa eipurúta ha mba’ére.
+vpn-what-is-many-of-us = Ore heta aravo rohasa Ñandutípe rohechávo ta’ãngamýi, mba’ejogua, ñembosarái ha ñehepyme’ẽ, ikatuhápe romoinge tembiapo apopyrã ha ñehenói ta’ãngamýi rupive. Peteĩ <strong>Red Privada Virtual (VPN)</strong> ikatuhápe eguereko tekoñemi ha tekorosã ñandutípe, ha emo’ãvo ne mba’ekuaarã ha’etéva.
 vpn-what-is-how-do-vpns = ¿Mba’éicha omba’apo VPNs?
 vpn-what-is-a-vpn-is = Ko VPN ha’e peteĩ tembipuru omoneĩva eikekuaa hag̃ua ñandutípe tekorosãme eime eimehápe. Ko VPN omba’apo omoheñóivo “túnel” hekorosãva ne mba’e’oka ha ne VPN me’ẽhára ha ne mo’ã añete mokõi mba’égui:
 vpn-what-is-concealing-your-ip = Emokañývo nde IP kundaharape, emo’ãvo nde reratee ha ne rendaite.
