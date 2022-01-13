@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
@@ -11,6 +11,7 @@ vpn-or-proxy-the-difference-between = Mba’épepa iñambue VPN ha proxy ñandut
 vpn-or-proxy-vpns-and-proxies-are = VPNs ha proxy ha’e tekoñemi ha tekorosãme g̃uarã ñemoĩporã ñandutípe. Pe nemo’ãháicha ha mba’éichapa eiporavo porãvéta.
 vpn-or-proxy-virtual-private-networks = Umi red privada virtual (VPN) ha ñanduti proxy hekorosãva ha’e ñemoĩpora tekoñemive ha tekorosãrãve ñadutípe, hákatu nemokañykuaa eikuaase vove mba’épa pe eipotavéva. Ko’ápe rohechaukáta mba’éichapa nemo’ã ko’ã pytyvõrã ha eiporavóta mba’etépa pe eikotevẽtava eikévo ñandutípe.
 vpn-or-proxy-stop-isps-from = Emboyke umi ISPs nde rapykuehosévape
+vpn-or-proxy-isps-can-use = Umi ISP ojepurukuaa ko marandu imaranduñemurã térã viru ñembyatyrã oikekuaahápe marandu moherakuã mbohapyháva ndive oipotáva mba’ekuaarã, marketing ha marandu ñemurã, he’iséva tekorosã’ive ha jehapykueho. Pe ñeikundaha tekoñemi ayvúpe nomboykéi umi ISP ohechávo moõpa oho ñandutípe. Hákatu emondóvo tembiapo ñandutípe peteĩ proxy térã VPN ikatu ombohasyve.
 vpn-or-proxy-when-should-you = ¿Araka’épa eiporavóta VPN térã proxy hekorosãva?
 vpn-or-proxy-vpns-and-secure = VPN ha ñanduti proxy hekorosãva ohupytyse peteĩ mba’e: oikéta tekorosãme. Ikatu, ha ojapo, IP kundaharape ypygua ha omo’ã ñandutípe jeike nendive ha VPN me’ẽhára térã pe proxy hekorosãva. Hákatu ¿araka’épa eipurukuaa VPN térã proxy?
 vpn-or-proxy-secure-web-proxy = Proxy ñandutigua hekorosãva: ñemo’ã kundahára peve
