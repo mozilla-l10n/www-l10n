@@ -23,3 +23,6 @@ features-index-from-the-company = Dad ina interpresa che dat la prioritad a las 
 features-index-private-browsing-mode = Il modus da navigaziun privat stizza datas da cookies e tia cronologia da navigaziun mintga giada che ti al bandunas.
 features-index-firefox-automatically = { -brand-name-firefox } blochescha automaticamain passa 2000 fastizaders da reclama che ta suandassan uschiglio en l'internet.
 features-index-access-all-passwords = { -brand-name-firefox-lockwise } ta permetta dad acceder a tuts tes pleds-clav che ti has memorisà en { -brand-name-firefox } – ed i na custa nagut.
+features-index-just-enough = { -brand-name-firefox } utilisescha mo la memoria necessaria per pussibilitar ina navigaziun currenta per che tes computer haja anc avunda capacitads per autras incumbensas.
+features-index-use-less-memory = { -brand-name-firefox } dovra damain memoria che { -brand-name-chrome }, uschia che auters programs pon era funcziunar cun la sveltezza maximala.
+features-index-open-source-minds = Open source. Spiert avert.
