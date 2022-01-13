@@ -34,3 +34,4 @@ features-fingerprinting-the-latest-firefox = Il nov navigatur{ -brand-name-firef
 features-fingerprinting-and-its-not = Igl è facil da chattar las configuraziuns correspundentas. En la versiun la pli actuala dal navigatur { -brand-name-firefox } è la bloccada dad improntaders gia activada en la configuraziun da standard. Avra tia <a { $url_protections }>survista da la protecziun da datas</a> per reconstruir co che ti vegns fastizà davos las culissas e co { -brand-name-firefox } impedescha quai.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Probablamain n'avessas ti betg gugent sch'insatgi ta suandass dapertut en la vita reala. I na dat era nagin motiv dad acceptar quai en la rait. Sche ti n'utiliseschas betg anc { -brand-name-firefox }, <a { $url_download } >telechargia e ta protegia</a> cunter improntaders.
+features-fingerprinting-protect = Protegia tia sfera privata
