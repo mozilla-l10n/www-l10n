@@ -16,3 +16,7 @@ features-index-firefox-is-fast = { -brand-name-firefox } è il navigatur svelt, 
 features-index-add-powerful-functions = Agiuntescha funcziuns potentas, nizzaivlas e schizunt in pau divertentas a tes navigatur { -brand-name-firefox }.
 features-index-see-all = Mussar tut las extensiuns
 features-index-give-your-browser = Dà a tes navigatur l'apparientscha che ta plascha  cun millis designs differents.
+features-index-important-stuff = T'atschertescha che tut tias infurmaziuns impurtantas – retschertgas en l'internet, pleds-clav, tabs averts – cumparan sin tuts tes apparats sin ils quals ti las dovras.
+features-index-get-an-account = Creescha in { -brand-name-firefox-account }
+features-index-use-the-bookmark = Utilisescha il simbol da staila dals segnapaginas per far urden e per agiuntar svelt nums ed ordinaturs persunalisads.
+features-index-from-the-company = Dad ina interpresa che dat la prioritad a las persunas, betg al profit
