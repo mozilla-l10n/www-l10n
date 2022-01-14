@@ -50,3 +50,7 @@ features-index-fingerprinter-blocking = Bloccada dad improntaders
 features-index-fingerprinting-is-a = Improntaders èn fastizaders anc pli invasivs che solits fastizaders che sa basan sin cookies – perquai als blochescha { -brand-name-firefox-browser }.
 features-index-block-fingerprinters = Bloccada dad improntaders
 features-index-translate-the-web = Translatescha il web
+features-index-translate-more-than = Translatescha ord passa 100 linguas en tia lingua, directamain en tes navigatur { -brand-name-firefox-browser }. Quai n'è anc mai stà uschè simpel sco ussa.
+features-index-translate-to-your = Translatescha en tia lingua
+features-index-picture-in-picture = Maletg-en-maletg
+features-index-got-things-to-do = Has ti bler da far e bler da guardar? Grazia a maletg-en-maletg pos ti far tuts dus en { -brand-name-firefox }.
