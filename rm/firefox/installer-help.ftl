@@ -16,3 +16,9 @@ installer-help-action-choose = Tscherna ina telechargiada sutvart.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc = Va per la versiun la pli actuala. Qua è la protecziun da datas garantida automaticamain. Telechargia { -brand-name-firefox-browser } per bloccar passa { $trackers } fastizaders.
+installer-help-firefox-beta-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-beta }
+installer-help-firefox-beta-desc = Emprova funcziuns ch'èn quasi prontas per vegnir publitgadas en la versiun preliminara la pli stabila.
+installer-help-firefox-developer-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-developer-edition }
