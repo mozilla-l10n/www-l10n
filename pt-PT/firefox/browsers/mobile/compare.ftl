@@ -25,6 +25,7 @@ mobile-compare-a-main-ingredient = Um dos principais ingredientes para um navega
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>A Sincronizar</strong>
 mobile-compare-syncing = A sincronizar
+mobile-compare-does-your-browser = O seu navegador funciona bem com outros dispositivos?
 mobile-compare-conclusion = Conclusão
 mobile-compare-search-engine-options = Opções de motores de pesquisa
 mobile-compare-text-to-speech = Texto para voz
