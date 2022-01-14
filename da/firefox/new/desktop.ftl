@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,11 @@ firefox-desktop-download-blocks-social-trackers = Blokerer sporing via sociale m
 firefox-desktop-download-os-availability = Tilgængelig på alle operativsystemer
 firefox-desktop-download-in-browser-screenshot = Indbygget funktion til at tage skærmbilleder
 firefox-desktop-download-primary-password = Hovedadgangskode
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = Gør nettet til dit eget
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Du bestemmer. Vælg de farver, du har lyst til - med tusindvis af forskellige værktøjer, temaer og udvidelser. { -brand-name-firefox } er den oprindelige alternative browser, der sætter mennesker før profit.
 # Obsolete string
 firefox-desktop-download-master-password = Hovedadgangskode
 firefox-desktop-download-we-block-the-ad = Vi forhindrer sporing. Og gør det hurtigere for dig at bruge nettet.
@@ -175,6 +180,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Du bruger et usikker
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Filhentningen skulle gerne begynde automatisk. Virker det ikke? <a id="{ $id }" href="{ $fallback_url }">Prøv at hente igen.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er mere end en browser.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Hentning af din fil blev afbrudt. Men alt er ikke tabt.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
