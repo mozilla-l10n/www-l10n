@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-firefox-protect-your = { -brand-name-firefox } – Protegia tia vita online cun products che dattan la prioritad a tia sfera privata
+firefox-home-firefox-is-more-than = { -brand-name-firefox } è dapli ch'in navigatur. Ve a savair dapli davart ils products da { -brand-name-firefox } che tractan tias datas cun respect e ch'èn concepids per proteger tia sfera privata en l'entir internet.
+firefox-home-the-browser-is-just = Il navigatur è mo l'entschatta
+firefox-home-meet-our-family-of = Scuvra nossa paletta da products
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }

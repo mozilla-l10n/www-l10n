@@ -20,3 +20,10 @@ features-translate-google-translate-with = { -brand-name-google } Translate cun 
 features-translate-get-the-extension = Installescha l'extensiun
 features-translate-once-installed-simply = Suenter l'installaziun pos ti simplamain selecziunar il text che ti vulessas translatar e cliccar cun la tasta dretga da la mieur per avrir in menu cun duas opziuns: 1) Ta maina a la pagina translate.google.com ed il text tschernì vegn endatà automaticamain en il champ da translaziun; u 2) Prelegia la frasa (cun agid da- { -brand-name-google } text-to-speech). Quai è util sche ti emprendas ina nova lingua.
 features-translate-switch-languages-in = Mida la lingua en { -brand-name-firefox }
+# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
+features-translate-if-you-are = Sche ti utiliseschas gia { -brand-name-firefox } pos ti midar la lingua da tes navigatur u agiuntar linguas a l'interfatscha da { -brand-name-firefox }. <a { $attrs }>Ve a savair co.</a>
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-with-the-to = *Cun l'extensiun To { -brand-name-google } Translate pos ti actualmain translatar <a { $attrs }>las suandantas linguas</a>:
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }> e dapli!</a>
+features-translate-for-everyone = Firefox è qua per mintgin
