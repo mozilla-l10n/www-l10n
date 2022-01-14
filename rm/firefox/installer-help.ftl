@@ -22,3 +22,10 @@ installer-help-firefox-release-desc = Va per la versiun la pli actuala. Qua è l
 installer-help-firefox-beta-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-beta }
 installer-help-firefox-beta-desc = Emprova funcziuns ch'èn quasi prontas per vegnir publitgadas en la versiun preliminara la pli stabila.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-developer-edition }
+installer-help-firefox-developer-desc = Creescha, testescha e scalescha cun agid da l'unic navigatur concepì bel ed aposta per sviluppaders.
+installer-help-firefox-nightly-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = Dà in'egliada a noss navigatur-web da la proxima generaziun e gida nus d'al far daventar il meglier navigatur pussaivel.
+installer-help-need-help = Dovras agid cun l'installaziun?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Sche ti dovras vinavant agid cun l'installaziun, <a href="{ $url }">legia il manual en nossa rubrica da support</a>.
