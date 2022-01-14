@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
@@ -11,6 +11,8 @@ features-translate-translate-the-web-title = Emoñe’ẽasa ñanduti ne mohenda
 features-translate-translate-more-than = Emoñe’ẽasa hetave 100 ñe’ẽgui nemba’épe nde { -brand-name-firefox-browser } guive - ndahasyive ko’ág̃a rupi ijapo.
 features-translate-translate-the-web = Emoñe’ẽasa ñanduti { -brand-name-firefox } ndive
 features-translate-the-google-translate = Jepysokue To { -brand-name-google } Translate { -brand-name-firefox } ombojuruja ñanduti ojepuru hag̃ua arapy tuichakue.
+# $attrs (string) - link to https://www.mozilla.org/firefox/all/
+features-translate-the-internet-is = Ñanduti henyhẽ mba’eita porãgui, hákatu hetaiterei mba’e oĩ’ỹva España ñe’ẽme — upévare hetaiterei yvypóra arapy tuichakue oikotevẽ ñe’ẽasahára oipuru hag̃ua ñanduti. Ikatu <a { $attrs }>omboguejy { -brand-name-firefox } hetave 100 ñe’ẽme</a>, eguereko hag̃uáicha poravorã, marandu’i ha ñe’ẽmondo ne kundahára oĩ hag̃ua ne ñe’ẽme, hákatu péva ndoipe’apái apañuãi opaite tetepy eguerovia’ỹva ehekáva ne kundahára ndive.
 features-translate-to-google-translate = Emoñe’ẽasa hag̃ua { -brand-name-google }
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, eipurukuaáva hetave 100 ñe’ẽmegui*, oikundahahápe hetaitereirasa tapicha arapy tuichakue. Hákatu eku’évo translate.google.com pa’ũme ha pe kuatiarogue emoñe’ẽséva ndaha’éi oikoporãmbáva. Pe jepysokue <a { $attrs }>To { -brand-name-google } Translate</a> nombohasyive umi kuatiarogue emoñe’ẽasa hag̃ua.
