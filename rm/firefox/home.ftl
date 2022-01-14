@@ -23,6 +23,20 @@ firefox-home-every-single-firefox = Mintga singul product da { -brand-name-firef
 firefox-home-share-large-files-without = Cundivida grondas datotecas senza egliadas mirvegliusas
 # Obsolete string
 firefox-home-start-sending-files = Trametta datotecas a moda segira
+firefox-home-trade-clickbait-for = Cuntegn da qualitad enstagl da traplas da clics
+firefox-home-learn-more-about-pocket = Ve a savair dapli davart { -brand-name-pocket }
+firefox-home-protection-for-your-whole = Protecziun cumpletta per tes apparat, per tut ils apparats.
+# The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-one-login-all-your = In unic conto. Per tuts tes apparats. Ina paletta da products che respectan tia <strong>sfera privata</strong>.
+firefox-home-join-firefox = Ve tar { -brand-name-firefox }
+firefox-home-learn-more-about-joining = Ve a savair dapli davart il sistem { -brand-name-firefox }
+firefox-home-get-the-browser-extension = Va per l'extensiun da navigatur
+firefox-home-get-the-facebook-container = Va per l'extensiun { -brand-name-facebook-container }
+firefox-home-download-the-browser = Telechargiar il navigatur
+firefox-home-download-the-app = Telechargiar l'app
+firefox-home-get-mozilla-vpn = Obtegna { -brand-name-mozilla-vpn }
+firefox-home-desktop = Desktop
+firefox-home-browsers = Navigaturs
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
@@ -30,6 +44,8 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-home-relay = { -brand-name-relay }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
