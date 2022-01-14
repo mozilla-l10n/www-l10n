@@ -23,3 +23,5 @@ features-pip-repeat-steps-1-3-to-have = <strong>Repeta ils pass 1-3</strong> per
 features-pip-3-more-ways-to-use-picture = 3 ulteriuras pussaivladads dad utilisar maletg-en-maletg
 features-pip-3-ways-to-use-picture = 3 pussaivladads dad utilisar la funcziun maletg-en-maletg
 features-pip-watch-a-lecture-or-meeting = Taidla in referat u participescha a sesidas e fa notizias al medem mument
+features-pip-keep-a-tutorial-video-open = Guarda in video cun in recept durant che ti cuschinas
+features-pip-entertain-cats-dogs-and-kids = Divertescha tes giats, chauns ed uffants entant che ti fas tia lavur
