@@ -10,6 +10,19 @@ firefox-home-firefox-is-more-than = { -brand-name-firefox } è dapli ch'in navig
 firefox-home-the-browser-is-just = Il navigatur è mo l'entschatta
 firefox-home-meet-our-family-of = Scuvra nossa paletta da products
 firefox-home-get-trackers-off = Stgatscha passa 2'000 fastizaders – inclusivamain quels da { -brand-name-facebook }
+firefox-home-know-when-hackers-strike = Infurmà en cas che hackers attatgan – e gia in pass pli lunsch
+firefox-home-start-getting-breach = Obtegna rapports da perditas da datas
+# Obsolete string
+firefox-home-keep-your-passwords = Tegna en salv tes pleds-clav en in lieu segir – sin tuts tes apparats
+# Obsolete string
+firefox-home-learn-more-about-lockwise = Ve a savair dapli davart { -brand-name-lockwise }
+# The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-get-the-respect-you = Obtegna il <strong>respect</strong> che ti meritas
+firefox-home-every-single-firefox = Mintga singul product da { -brand-name-firefox } resguarda nossa empermischun areguard la protecziun da tias datas persunalas: <strong>Rimnar pauc. Arcunar a moda segira. Nagins secrets.</strong>
+# Obsolete string
+firefox-home-share-large-files-without = Cundivida grondas datotecas senza egliadas mirvegliusas
+# Obsolete string
+firefox-home-start-sending-files = Trametta datotecas a moda segira
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
