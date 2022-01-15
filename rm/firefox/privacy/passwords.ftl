@@ -16,3 +16,6 @@ privacy-passwords-more-and-more = Adina dapli rauba sensibla e preziusa en nossa
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Curt e bain:
 privacy-passwords-use-random-passwords = Utilisescha pleds-clav casuals e mintgamai in auter pled-clav per mintga website
+privacy-passwords-pay-attention-to = Fa stim dals signals da segirezza da tes navigatur e na ta fida betg
+privacy-passwords-make-your-answers = Formulescha respostas a las dumondas da segirezza ch'èn uschè fermas sco tes pleds-clav
+privacy-passwords-use-a-password = Fa diever dad ina administraziun da pleds-clav per crear e tegnair endament pleds-clav a moda pli simpla
