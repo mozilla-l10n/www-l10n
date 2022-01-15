@@ -14,7 +14,7 @@ firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Проверьте, не были ли ваши персональные данные украдены в результате корпоративной утечки, и подпишитесь на уведомления о будущих.
 firefox-products-check-for-breaches = Проверить на утечки
-firefox-products-sign-up-for-breach-alerts = Подпишитесь на уведомления об утечках
+firefox-products-sign-up-for-breach-alerts = Подписаться на уведомления об утечках
 firefox-products-firefox-browsers = Браузеры { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Загрузите браузеры, которые автоматически блокируют более 2000 трекеров. Улучшенная защита от отслеживания является стандартом в каждом браузере { -brand-name-firefox }.
 firefox-products-desktop = Для компьютера
@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Присоединяйтесь 
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Уже есть аккаунт? <a { $fxa_attr }>Войдите</a> или <a { $accounts_attr }>узнайте больше</a> о присоединении к { -brand-name-firefox }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Браузер, сосредоточенный на вашей приватности, с автоматической защитой от отслеживания и блокировкой рекламы.

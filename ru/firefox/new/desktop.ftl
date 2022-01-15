@@ -10,7 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Загрузите { -brand-name-firefox-browser } — Быстрый, приватный и бесплатный — от { -brand-name-mozilla }
-firefox-desktop-download-meta-desc = Загрузите { -brand-name-firefox }, бесплатный веб-браузер, поддерживаемый { -brand-name-mozilla }, некоммерческой организацией, занимающейся вопросами здоровья и приватности Интернета. Уже доступен на { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } и { -brand-name-ios }.
+firefox-desktop-download-meta-desc = Получите { -brand-name-firefox } — бесплатный веб-браузер, поддерживаемый { -brand-name-mozilla }, некоммерческой организацией, занимающейся вопросами здоровья и приватности Интернета. Уже доступен на { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } и { -brand-name-ios }.
 firefox-desktop-download-og-title = Загрузите самый быстрый в истории { -brand-name-firefox }
 firefox-desktop-download-og-desc = Более быстрая загрузка страниц, уменьшенный расход памяти и множество функций — новый { -brand-name-firefox } уже здесь.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Блокировка трек�
 firefox-desktop-download-os-availability = Доступность на ОС
 firefox-desktop-download-in-browser-screenshot = Встроенный инструмент для создания скриншотов
 firefox-desktop-download-primary-password = Мастер-пароль
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Полюбите свою жизнь в Интернете
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Это ваш Интернет. Раскрасьте его с помощью тысяч инструментов, тем и расширений. { -brand-name-firefox } — оригинальный альтернативный браузер, который ставит людей выше прибыли.
 # Obsolete string
@@ -129,10 +131,10 @@ firefox-desktop-download-from-security-to = От безопасности до �
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } был создан <a { $attrs }>{ -brand-name-mozilla }</a> как более быстрая и приватная альтернатива таким браузерам, как { -brand-name-ie }, и теперь { -brand-name-chrome }. Сегодня наша целеустремленная компания и сообщество волонтеров по-прежнему ставят вашу приватность превыше всего.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = По мере того, как растёт и меняется Интернет, { -brand-name-firefox } продолжает уделять внимание вашему праву на приватность — мы называем это <a { $attrs }>Обещанием по Личным Данным</a>: Собирать меньше. Держать в безопасности. Никаких секретов. Ваши данные, действия и жизнь в Интернете защищаются { -brand-name-firefox }.
+firefox-desktop-download-as-the-internet = По мере того, как растёт и меняется Интернет, { -brand-name-firefox } продолжает уделять большое внимание вашему праву на приватность — мы называем это <a { $attrs }>Обещанием по личным данным</a>: Собирать меньше. Держать в безопасности. Никаких секретов. Ваши данные, действия и жизнь в Интернете защищаются { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } доступен для всех ваших устройств; возьмите свои вкладки, историю и закладки с собой. Всё, что для этого нужно — <a { $attrs }>аккаунт { -brand-name-firefox }</a>.
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } доступен для всех ваших устройств; возьмите вкладки, историю и закладки с собой. Всё, что для этого нужно — <a { $attrs }>аккаунт { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Сделайте качественный снимок любого сайта в Интернете с помощью нашего инструмента <a { $attrs }>Скриншоты</a>, встроенного прямо в браузер.
