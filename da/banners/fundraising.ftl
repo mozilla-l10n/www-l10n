@@ -9,8 +9,10 @@ banner-fundraising-title-v2 = Hjælp { -brand-name-mozilla } hér i højtiden me
 banner-fundraising-title-giving-day = Hjælp { -brand-name-mozilla } her på denne Giving Tuesday med at kæmpe for et bedre internet.
 # Outdated string
 banner-fundraising-title = Fremtiden besluttes online. Hjælp { -brand-name-mozilla } med at kæmpe for et internet, der kommer alle til gode.
+banner-fundraising-body-v2 = Vi er en nonprofit-organisation, der arbejder for at beskytte internettet som vores allesammens fælles ressource. Dine bidrag hjælper med at skabe et sikkert og åbent internet.
 # Outdated string
 banner-fundraising-body = Dine personlige data bliver registreret, hver gang du går på nettet. Det er ikke nemt at finde ud af, hvad disse data bliver brugt til. Misinformation gør det sværere for os at se forskel på sandt og falsk. Internetopkoblede produkter sendes på markedet uden at opfylde minimumskravene til datasikkerhed. Non-profit organisationen { -brand-name-mozilla-foundation } arbejder med at skabe et åbent og sikkert internet, der er tilgængeligt for alle. <strong>Vil du støtte vores arbejde?</strong>
+banner-fundraising-body-extra = Vil du hjælpe med en donation?
 banner-fundraising-monthly = Månedligt
 banner-fundraising-one-time = Én gang
 banner-fundraising-donate = Donér
