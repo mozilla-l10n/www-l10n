@@ -10,6 +10,7 @@ misinformation-page-title = Emboykeve marandu’ỹ ñandutípe { -brand-name-fi
 misinformation-page-desc = Pe marandu’ỹ neko’õ, nemboyke ha avei hepy. { -brand-name-firefox } oguereko ñemoñe’ẽ omboyke hag̃ua marandu japugua ha ehecha sa’ive ekundahakuévo ñandutípe.
 misinformation-page-subheading = Ema’ẽ ko’ã ñemoñe’ẽre ehecha hag̃ua sa’ive maranduvai ha ehechakuaa mba’épa erohoryvéva
 misinformation-what-is-heading = ¿Mba’épa marandu javygua? ¿Mba’épa maranduvai?
+misinformation-disinformation = Marandu ojavýva, marandu’ỹ. Ikatúkuri ehendu ko’ã ñe’ẽ ymave ha eñeporandu mba’épepa ojuavy he’isévape. Pe ombojuavýva ha’e ije’ekue: Pe marandu ojavýva ha’e oimehaichagua marandu japu oimeraẽva yvypóra ikatuhápe ho’a. Ojehechajeykuaa oĩvai térã oporombotavykuaávaramo, hákatu noñemoheñói ha ñoñemoherakuãi nembotavy hag̃ua katuete. Ambue hendáicha, pe marandu’ỹ oñemoheñói ha oñemoherakuã ani hag̃ua eñemomarandu ha péva rupi ohupyty umi mba’e oipotáva.
 misinformation-ultimately-harmful = Ohasaramóva, marandu vai avei marandu’ỹicha oporombyaikuaa. Ndaha’éi oñemoheñóiva marandu vai añónte, avei pe marandu japuguáva oipuru hetaiterei viru arapy tuichakue ha ikatu ombyai tekojoja reko ha ñemboguata porã. Ha hasyeterei ijejoko pe marandu japuguáva, iñasãi pya’etereive rupi umi marandu iporãvagui.
 misinformation-false-info-heading = ¿Moõpa osẽ marandu ijapúva?
 # Variables:
