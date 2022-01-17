@@ -33,6 +33,7 @@ mobile-compare-reader-mode = Modo de leitura
 mobile-compare-spell-checking = Verificação ortográfica
 mobile-compare-web-extensionsaddons = Extensões web/Extras
 mobile-compare-dark-mode = Modo Escuro
+mobile-compare-desktop-mode = Modo de computador
 mobile-compare-find-on-page = Localizar na página
 mobile-compare-image-search = Pesquisa de Imagem
 mobile-compare-voice-search = Pesquisa de Voz
