@@ -16,6 +16,7 @@ misinformation-false-info-heading = ¿Moõpa osẽ marandu ijapúva?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
 misinformation-widespread-online = Ejuhukuaa marandu vai ha marandujapu opaite hendápe, hákatu oñemyasãi ha omombarete oñemoherakuãvo ñandutípe. Umi algoritmo ha <a href="{ $tracking }">tapykueho</a> ombotuichave maranduvai ñemyasãi ha marandujapu og̃uahẽ hag̃uáicha hetave tapichápe ñanduti renda rupipe, blog, atyguasu ha ava ñandutietápe.
+misinformation-tracking-advertising = Ikatúkuri rehendu oñeñe’ẽramo jehapykueho rehe hetavejey marandu ñemurãgua jerére. Upéicharamo jepe, avei ha’e tembipuru oikoitéva emoherakuãséramo marandu japuguáva. ¿Mba’ére oiko? Eikundahakuévo Ñandutípe térã marandukuéra nde ava ñandutietápe, nde reko, nerembipota, reñe’ẽkuaaha hetajey, ha hetave ohapykuehova chupe heta mba’apohaguasu ñanduti rendápe omoheñói hag̃ua mba’ete ndereheguaitéva ikatúva oikuave’ẽ ambuépe nde eikuaa térã emoneĩ’ỹre. Ko’ã mba’ete ojepuru oñemoheñói hag̃ua ñemurã mba’eteéva, hákatu avei ojapokuaa ohechauka hag̃ua oimehaichagua marandu.
 misinformation-spot-online-heading = Mba’éichapa eikuaáta marandu japugua ñandutípe ha eipytyvõta ejoko hag̃ua iñemyasãi
 misinformation-look-at-url = Ema’ẽ pe URL ha/térã heñoihague.
 misinformation-known-to-br-credible = ¿Ojeguerovia chupe? Nderegueroviáiramo, eñeha’ã eheka marandu teñoiha rehegua ha rerakuãporã ñandutípe.
