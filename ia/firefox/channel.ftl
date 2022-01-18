@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -10,7 +10,7 @@ firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = Naviga verso nove horizontes.
 firefox-channel-be-among-the-first-to-explore = Sia inter le primes a explorar le versiones futur de { -brand-name-firefox } pro scriptorio, { -brand-name-android } e { -brand-name-ios }.
-firefox-channel-see-something-that-isnt-working = Alco que non functiona ben? Face lo saper a nos.
+firefox-channel-see-something-that-isnt-working = Qualcosa non functiona? Dice nos lo.
 firefox-channel-file-a-bug-now = Invia subito un reporto de error
 firefox-channel-tips-for-filing-a-bug = Consilios pro un bon reporto de error
 firefox-channel-try-new-features-in-a-pre = Proba le ultime functionalitates in un edition preliminar del navigator { -brand-name-android } | { -brand-name-firefox }
