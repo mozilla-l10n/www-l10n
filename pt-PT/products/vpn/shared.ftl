@@ -22,12 +22,33 @@ vpn-shared-features-encrypt = Criptografia ao nível do dispositivo
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = +{ $servers } servidores em +{ $countries } países
 vpn-shared-features-bandwidth = Sem restrições de largura de banda
+vpn-shared-features-activity = Nenhum registo da sua atividade de rede
+vpn-shared-privacy-notice = Política de privacidade
+vpn-shared-terms-conditions = Termos e condições
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-sub-heading = Todos os nossos planos incluem:
+vpn-shared-pricing-recommended-offer = Recomendado
+vpn-shared-pricing-plan-6-month = 6 Meses
+vpn-shared-pricing-plan-12-month = 12 Meses
+vpn-shared-pricing-plan-monthly = Mensalmente
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/mês</span>
+# Outdated string
+vpn-shared-pricing-get-6-month = Obter o plano de 6 meses
+# Outdated string
+vpn-shared-pricing-get-12-month = Obter o plano de 12 meses
+vpn-shared-pricing-get-6-month-v2 = Obter o plano de 6 meses
+vpn-shared-pricing-get-12-month-v2 = Obter o plano de 12 meses
+vpn-shared-pricing-get-monthly = Obter o plano mensal
 
 # Platform subpage shared strings
 
+vpn-subnav-platform-mobile = Móvel
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = O que é um endereço IP?
 
 ##
 
