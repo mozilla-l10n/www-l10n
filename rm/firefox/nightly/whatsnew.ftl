@@ -21,3 +21,7 @@ nightly-whatsnew-if-you-want-to = Sche ti vuls savair novas da quai che capita t
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Vuls ti savair tge funcziuns che ti pudessas testar en { -brand-name-nightly } che na stattan anc betg a disposiziun en ils auters chanals da publicaziun da { -brand-name-firefox }? Lura dà in'egliada a la pagina da <a href="{ $mdn }">funcziuns experimentalas</a> en <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
+# Variables:
+#   $bugzilla (url) - link to https://bugzilla.mozilla.org/
+nightly-whatsnew-do-you-experience = Constateschas ti collaps e pannas? In cumportament nunspetgà? Novs problems da cumpatibilitad en il web? Nus beneventassan fitg sche ti annunziassas tias observaziuns en <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> per che nus pudain evitar che tals sbagls cumparan en la versiun definitiva (ti pos ramassar puncts da bonus sche ti menziunas il chavazzin <em>{ -brand-name-nightly } community</em> en tia annunzia d'errur!
+nightly-whatsnew-go-community = Viva la cuminanza!
