@@ -6,6 +6,10 @@
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla }s historie
+history-people-contributed-to-mozilla = Folk bidrog til { -brand-name-mozilla } på forskellige måder. Men alle gik op i at bygge software, der gav den enkelte mulighed for at vælge, hvordan vedkommende ville opleve internettet.
+# Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = Dengang var der ikke mange, der lagde mærke til det - men samme år udgav medlemmer af { -brand-name-mozilla }-fællesskabet også den første version af Phoenix (som senere skiftede navn til { -brand-name-firefox }). Målet var at skabe den <a href="{ $charter }">bedst mulige oplevelse på internettet</a> for så mange mennesker som muligt.
 history-of-course-were-not-alone = Det er vi selvfølgelig ikke alene om.
 history-the-mozilla-community-together = { -brand-name-mozilla }-fællesskabet samt andre open source-projekter og almennyttige organisationer eksisterer kun på grund af de mennesker, der engagerer sig og arbejder for at gøre vores fælles mål til virkelighed.
 # Variables:
