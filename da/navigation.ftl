@@ -42,11 +42,13 @@ navigation-learn-how-to-customize = Læs, hvordan du tilpasser { -brand-name-fir
 navigation-explore-the-immersive = Udforsk det tredimensionelle web på dit virtual reality-headset.
 # Outdated string
 navigation-experience-augmented = Oplev augmented- og virtual reality med { -brand-name-firefox }.
+navigation-get-together = Mød hinanden i den virtuelle virkelighed med sociale rum på nettet.
 # Outdated string
 navigation-meet-people-in-experimental = Mød mennesker i eksperimentelle chatrum med mixed reality i { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } bringer virtual- og augmented reality til det åbne internet.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } tager { -brand-name-firefox } med ind i augmented- og virtual reality.
 navigation-firefox-built-just-for = { -brand-name-firefox }, bygget til udviklere.
@@ -73,6 +75,7 @@ navigation-share-large-files-safely = Del store filer sikkert, med et link der �
 navigation-save-quality-content = Gem indhold fra alle steder, og få adgang til det alle steder.
 navigation-sign-up = Tilmeld dig
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Hurtig. Enkel. Privat.
+navigation-protect-your-entire-device = Beskyt din enhed og alle applikationer. Skjul din rigtige placering og tilslut op til fem enheder. Abonner nu.
 # Outdated string
 navigation-connected-and-protected = Forbundet og beskyttet
 navigation-join = Vær med
@@ -91,8 +94,10 @@ navigation-add-ons = Tilføjelser
 navigation-projects = Projekter
 navigation-close-projects-menu = Luk menuen Projekter
 navigation-donate-your-voice-to = Bidrag med din stemme, og hjælp med at gøre talegenkendelse tilgængelig for alle.
+navigation-machine-learning = Maskinlæring
 # Outdated string
 navigation-web-of-things-iot = Web of Things (IoT)
+navigation-help-make-deep-learning = Hjælp med at gøre deep learning-algoritmer tilgængeligt for open source-miljøet.
 # Outdated string
 navigation-make-devices-connected = Gør enheder, der er forbundet til internettet, sikre og kompatible.
 navigation-developers = Udviklere
