@@ -26,3 +26,6 @@ privacy-passwords-seeing-you-use = Spiunar sche ti l'endateschas sin ina website
 privacy-passwords-guessing-it = L'engiavinar
 privacy-passwords-stealing-a-file = Engular ina datoteca che cuntegna tes pled-clav
 privacy-passwords-using-password-recovery = Utilisar la funcziun da recuperaziun da pleds-clav per al reinizialisar
+privacy-passwords-tricking-you-into = T'engianar da maniera che ti al tradeschas
+privacy-passwords-to-keep-your = Per proteger tes conto stos ti evitar uschè bleras da las situaziuns surmenziunadas sco pussaivel. Cunter mintga ristga datti strategias correspundentas.
+privacy-passwords-look-for-the = Tschertga il maschlos en tes navigatur
