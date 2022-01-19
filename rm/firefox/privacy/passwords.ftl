@@ -29,3 +29,5 @@ privacy-passwords-using-password-recovery = Utilisar la funcziun da recuperaziun
 privacy-passwords-tricking-you-into = T'engianar da maniera che ti al tradeschas
 privacy-passwords-to-keep-your = Per proteger tes conto stos ti evitar uschè bleras da las situaziuns surmenziunadas sco pussaivel. Cunter mintga ristga datti strategias correspundentas.
 privacy-passwords-look-for-the = Tschertga il maschlos en tes navigatur
+privacy-passwords-its-easy-to = Igl è simpel dad evitar che attatgaders possian engular tes pled-clav durant che ti t'annunzias sin ina website betg criptada: Ponderescha duas giadas avant ch'endatar tes pled-clav sche ti na vesas betg ina tala icona da maschlos en la trav da l'URL:
+privacy-passwords-a-closed-lock = In maschlos serrà cumpara directamain avant l'adressa da la pagina-web en la trav da l'URL e quai en tut ils navigaturs principals.
