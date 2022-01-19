@@ -20,3 +20,4 @@ privacy-passwords-pay-attention-to = Fa stim dals signals da segirezza da tes na
 privacy-passwords-make-your-answers = Formulescha respostas a las dumondas da segirezza ch'èn uschè fermas sco tes pleds-clav
 privacy-passwords-use-a-password = Fa diever dad ina administraziun da pleds-clav per crear e tegnair endament pleds-clav a moda pli simpla
 privacy-passwords-use-twofactor-authentication = Utilisescha l'autentificaziun en dus pass («two-factor authentication») dapertut nua ch'i va
+privacy-passwords-its-hard-out = La vita difficultusa dad in pled-clav
