@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -28,12 +28,9 @@ firefox-mobile-discover-products-that-keep = Deskubritu babesten zaituzten produ
 firefox-mobile-sync-your-history-passwords = Sinkronizatu historia, pasahitzak eta laster-markak. Bidali fitxak zure gailu guztietara.
 firefox-mobile-android-only = { -brand-name-android }erako soilik
 firefox-mobile-make-android-your-own = Zeuretu { -brand-name-android }
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Pertsonalizatu { -brand-name-firefox } nabigatzaile mugikorra <a href="{ $url }">hedapenak</a> erabiliz: blokeatu iragarkiak, kudeatu pasahitzak, eragotzi { -brand-name-facebook }ek jarrai zaitzan eta gehiago.
 firefox-mobile-find-it-fast-with-a-smart = Bilatu ziztu bizian bilaketa-barra adimentsuarekin
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox }ek zure beharrak aurreikusten ditu, bilatzeko iradokizun adimentsuak eginez eta gehien bisitatzen dituzun guneetara sarbide bizkorra emanez.
 firefox-mobile-the-privacy-you-deserve-the = Merezi duzun pribatutasuna. Behar duzun abiadura.
 firefox-mobile-get-firefox-for-mobile = Eskuratu mugikorrerako { -brand-name-firefox }
 firefox-mobile-send-a-download-link-to-your = Bidali deskargatzeko lotura mugikorrera.
-firefox-mobile-scan-the-qr-code-to-get-started = Eskaneatu QR kodea hasteko
+firefox-mobile-scan-the-qr-code-to-get-started = Hasteko, eskaneatu QR kodea
