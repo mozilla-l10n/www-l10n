@@ -15,6 +15,9 @@ history-it-was-intended-to-harness = Tanken var, at udnytte den kreative kraft f
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
 history-within-the-first-year-new = Inden for <a href="{ $firstyear }">det første år</a> havde nye medlemmer af fællesskabet fra hele verden allerede bidraget med nye funktioner,  forbedret de eksisterende - og hjulpet med at lede og planlægge selve projektet.
 # Variables:
+#   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
+history-by-creating-an-open-community = Ved at skabt et åbent fællesskab var { -brand-name-mozilla }-projektet blevet <a href="{ $stevecase }">mere end en virksomhed</a>.
+# Variables:
 #   $mission (url) link to https://www-archive.mozilla.org/mission.html
 #   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
 #   $bugzilla (url) link to https://www.bugzilla.org
