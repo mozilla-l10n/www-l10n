@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -54,6 +54,7 @@ history-the-community-has-shown = Skupnost je dokazala, da imajo komercialna pod
 history-more-people-than-ever-before = Internet uporablja več ljudi kot kdajkoli prej in ga doživlja <a href="{ $all }">v svojem lastnem jeziku</a>.
 history-the-future-is-full-of-challenges = Prihodnost je polna izzivov in priložnosti, enakih tistim iz naše preteklosti.
 history-theres-no-guarantee-that = Nobenega zagotovila ni, da bo internet ostal odprt in prijazen in varen.
+history-mozilla-will-continue-to = { -brand-name-mozilla } bo ljudem še naprej nudila priložnost, da se njihov glas sliši in da si sami oblikujejo spletno življenje.
 history-of-course-were-not-alone = Seveda pri tem nismo sami.
 history-the-mozilla-community-together = Skupnost { -brand-name-mozilla } tako kot ostali odprtokodni projekti in organizacije v javnem interesu obstaja le po zaslugi ljudi, predanih uresničevanju naših skupnih ciljev.
 # Variables:
