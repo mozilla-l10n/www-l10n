@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -8,7 +8,7 @@
 # HTML page title
 firefox-faq = ЧАП { -brand-name-firefox }
 whether-you-searched-privacy = Якщо ви шукали швидкий браузер, який захищає вашу приватність, цей розділ частих питань тут і відповідає на найактуальніші питання, пов’язані з { -brand-name-firefox }.
-whether-you-searched-independant = Незалежно від того, чи шукали ви швидкий переглядач, чи шукаєте незалежну технологію, яка захищає вашу приватність, ці часті питання пропонують відповіді на найактуальніші питання, пов’язані з { -brand-name-firefox }.
+whether-you-searched-independant = Незалежно від того, чи шукали ви швидкий переглядач, чи шукаєте незалежну технологію, яка захищає вашу приватність, ці ЧаПи дають відповіді на найактуальніші запитання, пов’язані з { -brand-name-firefox }.
 what-is-firefox = Що таке { -brand-name-firefox }?
 
 # Variables:
@@ -70,7 +70,7 @@ does-firefox-have = Чи має { -brand-name-firefox } вбудований VPN
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 firefox-does-not = { -brand-name-firefox } не має вбудованої VPN (віртуальної приватної мережі), але є два продукти, створені { -brand-name-mozilla }/ { -brand-name-firefox }, якими ви можете скористатися на додаток до приватного { -brand-name-firefox-browser }, що може захистити будь-який ваш браузер (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) або під'єднаний пристрій (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) до Wi-Fi, а також вашу IP-адресу.
 related-questions-ip = Пов’язані питання: чи приховує { -brand-name-firefox } вашу IP-адресу

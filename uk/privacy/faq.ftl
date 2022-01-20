@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-mozillas-data-privacy-faq = Часті питання щодо Приватності даних { -brand-name-mozilla }
+privacy-faq-mozillas-data-privacy-faq = Часті запитання щодо приватності даних { -brand-name-mozilla }
 privacy-faq-at-mozilla-we-respect-and-protect-desc = В { -brand-name-mozilla } ми поважаємо і захищаємо вашу особисту інформацію.
 privacy-faq-we-stand-for-people-over-profit = Ми відстоюємо права людей, а не прибуток.
 privacy-faq-it-can-be-tricky-for-people = Людям може бути складно дізнатися, що очікувати від будь-якого програмного забезпечення чи сервісу, якими вони сьогодні користуються. Технології, що заповнюють наше життя є складними й люди не мають часу розбиратися в подробицях. Це також стосується і { -brand-name-firefox }, де ми бачимо, що користувачі мають багато різних уявлень про те, що насправді відбувається за межами інтерфейсу їхнього браузера.
