@@ -26,6 +26,7 @@ mobile-compare-a-main-ingredient = Um dos principais ingredientes para um navega
 mobile-compare-syncing-strong = <strong>A Sincronizar</strong>
 mobile-compare-syncing = A sincronizar
 mobile-compare-does-your-browser = O seu navegador funciona bem com outros dispositivos?
+mobile-compare-the-mobile-version = A versão móvel do { -brand-name-safari }, que é pré-instalada nos dispositivos móveis da { -brand-name-apple }, só é compatível com outros dispositivos { -brand-name-apple } como o { -brand-name-ipad } e portáteis { -brand-name-mac-short }. { -brand-name-firefox }, { -brand-name-chrome } e { -brand-name-opera } funcionam em todas as plataformas incluindo { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, com a exceção do navegador { -brand-name-edge } que não é compatível com dispositivos baseados em { -brand-name-linux }.
 mobile-compare-conclusion = Conclusão
 mobile-compare-search-engine-options = Opções de motores de pesquisa
 mobile-compare-text-to-speech = Texto para voz

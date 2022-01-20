@@ -17,6 +17,8 @@ mobile-focus-scan-the-qr-code-to-get-started = Digitalize o código QR para come
 # Outdated string
 mobile-focus-disappear-your-history = Desaparecimento do seu histórico
 mobile-focus-delete-your-history = Eliminar o seu histórico
+mobile-focus-take-private-mode = Leve o modo privado ao próximo nível
 mobile-focus-tracking-protection = Proteção contra monitorização
+mobile-focus-ad-blocking = Bloqueio de anúncios
 mobile-focus-see-it-all = Veja tudo mais rápido
 mobile-focus-made-by-mozilla = Criado pela { -brand-name-mozilla }
