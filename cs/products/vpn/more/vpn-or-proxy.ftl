@@ -33,4 +33,12 @@ vpn-or-proxy-vpns-do-more = Sítě VPN toho umí více než proxy servery, proto
 vpn-or-proxy-a-vpn-works = Síť VPN funguje tak, že mezi vaším zařízením a internetem jako celkem vytváří bezpečný „tunel“. Vaše soukromí chrání dvěma zásadními způsoby:
 vpn-or-proxy-concealing-your-ip = Tají vaší IP adresu, čímž chrání vaši identitu a zamlžuje vaši zeměpisnou polohu.
 vpn-or-proxy-encrypting-your-traffic = Šifruje přenosy probíhající mezi vámi a vaším poskytovatelem sítě VPN, takže je nikdo ve vaší místní síti nemůže dešifrovat ani pozměňovat.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = Síť VPN též nabízí zabezpečení připojení k otevřené a veřejné síti Wi-Fi. Otevřená síť Wi-Fi může být nebezpečná a nemůžete si být jisti, že se ke stejné síti nepřipojuje někdo jiný, s cílem sledovat vaši činnost. I když jsou vaše přenosy šifrované, stále může zjistit, jaké stránky navštěvujete. A pokud používáte aplikaci, která nedisponuje šifrováním – a ještě dnes je mnoho takových – pak může vidět vše, co v této aplikaci děláte. { -brand-name-mozilla-vpn } je rychlá, bezpečná a důvěryhodná služba, která vám pomůže tuto bezpečnostní díru zacelit. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> vám také umožňuje vybrat si „polohu“ (odkud se zdá, že vaše přenosy přicházejí) z nabídky více než { $countries } zemí.
 vpn-or-proxy-choose-a-trustworthy = Vyberte si důvěryhodnou službu
+# Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-or-proxy-the-most-important = Nejdůležitější věcí, kterou je třeba při výběru VPN nebo proxy služby zvážit, je to, abyste si vybrali důvěryhodnou společnost. Ujistěte se, že rozumíte smluvním podmínkám, se kterými souhlasíte. Mnohé z nich tvrdí, že jsou skvělé a zaměřené na ochranu soukromí, ale velká část z nich svému slibu nedostojí. Ne všechny proxy a VPN služby jsou bezpečné a poskytují soukromí. Některé si <a href="{ $cnet }">budou</a> <a href="{ $pcmag }">zaznamenávat</a> vaše aktivity na internetu, aby mohly vaše data a údaje prodávat samotným marketingovým firmám. Jiné služby se vás budou snažit přesvědčit, abyste si do svých zařízení nainstalovali škodlivý software.
