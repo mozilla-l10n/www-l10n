@@ -14,9 +14,11 @@ mobile-focus-simply-private-mobile = Navegação móvel simplesmente privada
 mobile-focus-get-firefox-focus = Obter o { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Enviar uma ligação de transferência para o seu dispositivo móvel.
 mobile-focus-scan-the-qr-code-to-get-started = Digitalize o código QR para começar
+mobile-focus-scan-alt-text = Digitalize o código QR para obter o { -brand-name-firefox-focus }
 # Outdated string
 mobile-focus-disappear-your-history = Desaparecimento do seu histórico
 mobile-focus-delete-your-history = Eliminar o seu histórico
+mobile-focus-easily-erase-your = Apague facilmente o seu histórico, palavras-passe e cookies, para que anúncios indesejados não o sigam online. Basta tocar no botão apagar no campo de pesquisa e ele desaparece.
 mobile-focus-take-private-mode = Leve o modo privado ao próximo nível
 mobile-focus-tracking-protection = Proteção contra monitorização
 mobile-focus-ad-blocking = Bloqueio de anúncios

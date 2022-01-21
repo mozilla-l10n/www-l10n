@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -24,6 +24,9 @@ firefox-products-see-all-browsers = Ver todos os navegadores
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Navegue, transmita e trabalhe em servidores disponíveis em mais de 30 países, para uma ligação segura com a Internet e com uma nova perspetiva.
 firefox-products-get-mozilla-vpn = Obter a { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Proteja o seu endereço de e-mail real para ajudar a controlar a sua caixa de correio.
+firefox-products-learn-more-about-relay = Saber mais sobre o { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
@@ -47,3 +50,4 @@ firefox-products-join-firefox-and-get-the-most = Adira ao { -brand-name-firefox 
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Já tem uma conta? <a { $fxa_attr }>Inicie sessão</a> ou <a { $accounts_attr }>saiba mais</a> sobre como aderir ao { -brand-name-firefox }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }

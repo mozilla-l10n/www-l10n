@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -16,5 +16,7 @@ features-shared-password-manager = Gestor de palavras-passe
 features-shared-customize-your-browser = Personalize o seu navegador
 features-shared-sync-between-devices = Sincronize entre dispositivos
 features-shared-better-bookmarks = Melhores marcadores
+features-shared-fingerprinter-blocking = Bloqueio de identificadores digitais
 features-shared-translate-the-web = Traduzir a Internet
+features-shared-picture-in-picture = Vídeo em janela flutuante
 brand-name-firefox = { -brand-name-firefox }
