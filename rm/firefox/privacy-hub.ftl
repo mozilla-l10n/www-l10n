@@ -21,3 +21,6 @@ firefox-privacy-hub-you-should-be-able-to-decide = Ti duessas pudair decider sez
 firefox-privacy-hub-thats-why-everything-we-make = Perquai è nossa empermischun da proteger tias datas persunalas la basa per tut quai che nus faschain
 firefox-privacy-hub-take-less = Rimnar pauc
 firefox-privacy-hub-we-make-a-point-of-knowing = Per nus èsi impurtant da savair pauc da tai
+firefox-privacy-hub-all-tech-companies-collect = Tut las interpresas en il sectur tecnologic ramassan datas per optimar lur products. Quai na sto dentant betg cumpigliar tantas infurmaziuns persunalas. Las unicas datas che nus vulain, èn quellas che gidan la finala puspè a tai. Nus ans dumandain sez: Avain nus propi basegn da questas datas? Per tge scopo las duvrain nus? E cura las pudain nus puspè stizzar?
+firefox-privacy-hub-keep-it-safe = Arcunar a moda segira
+firefox-privacy-hub-we-do-the-hard-work-to-protect = Nus lavurain il chau giu da la persuna per proteger tias datas persunalas
