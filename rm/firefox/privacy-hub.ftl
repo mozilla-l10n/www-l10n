@@ -44,3 +44,6 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } prot
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protegia</strong> tia sfera privata en mintga product
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Passa 2'000 fastizaders bloccads – automaticamain
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Il fastizar è daventà in'epidemia en l'internet: Interpresas suondan mintga moviment, clic e cumpra, ellas ramassan datas per predir tge che ti vegns a far e per influenzar tes cumportament. Nus essan da l'avis che quai è ina violaziun massiva da tia sfera privata. Perquai disponan ils navigaturs mobils e da desktop da { -brand-name-firefox } gia en la configuraziun da standard da la protecziun avanzada cunter fastizaders.
+firefox-privacy-hub-if-you-want-to-see-what = Sche ti vulessas vesair tge che { -brand-name-firefox } blochescha per tai, visita questa pagina sin tes navigatur da desktop da { -brand-name-firefox }.
