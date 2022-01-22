@@ -24,3 +24,10 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Per nus èsi impurtant da savai
 firefox-privacy-hub-all-tech-companies-collect = Tut las interpresas en il sectur tecnologic ramassan datas per optimar lur products. Quai na sto dentant betg cumpigliar tantas infurmaziuns persunalas. Las unicas datas che nus vulain, èn quellas che gidan la finala puspè a tai. Nus ans dumandain sez: Avain nus propi basegn da questas datas? Per tge scopo las duvrain nus? E cura las pudain nus puspè stizzar?
 firefox-privacy-hub-keep-it-safe = Arcunar a moda segira
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Nus lavurain il chau giu da la persuna per proteger tias datas persunalas
+firefox-privacy-hub-data-security-is-complicated = Igl è cumplitgà da segirar datas – almain duessi esser uschia. Perquai prendain nus mesiras spezialas per classifitgar las datas che nus avain e resguardar las reglas che dian co nus memorisain e protegin mintga tip da datas. E nus optimain permanentamain noss process. La protecziun da tias datas ha prioritad absoluta per nus. Nus investin en quella. Nus ans engaschain per quella. E nus gidain schizunt autras interpresas en quel grà.
+firefox-privacy-hub-no-secrets = Nagins secrets
+firefox-privacy-hub-youll-always-know-where-you = Da nus ta pos ti fidar, nus essan adina transparents
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Nus n'avain naginas intenziuns zuppadas. Noss model da fatschenta na sa basa betg sin l'abus da tia confidenza. Nossa <a href="{ $privacy }">decleraziun da la protecziun da datas</a> è formulada cler e net. Mintgin en tut il mund ha la pussaivladad da sa participar a nossas <a href="{ $meetings }">sesidas da fatschenta emnilas</a>. Sche ti vulessas vegnir a savair tut davart las datas che nus ramassain – noss code è uschè avert sco nus.
