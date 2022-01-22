@@ -31,3 +31,16 @@ firefox-privacy-hub-youll-always-know-where-you = Da nus ta pos ti fidar, nus es
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Nus n'avain naginas intenziuns zuppadas. Noss model da fatschenta na sa basa betg sin l'abus da tia confidenza. Nossa <a href="{ $privacy }">decleraziun da la protecziun da datas</a> è formulada cler e net. Mintgin en tut il mund ha la pussaivladad da sa participar a nossas <a href="{ $meetings }">sesidas da fatschenta emnilas</a>. Sche ti vulessas vegnir a savair tut davart las datas che nus ramassain – noss code è uschè avert sco nus.
+firefox-privacy-hub-why-trust-firefox = Pertge pos ti sa fidar da { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Perquai che nus dain la prioritad a las persunas. Nus vegnin sustegnids dad in'organisaziun <a href="{ $foundation }">senza finamira da profit</a>. Nus avain gia da bell'entschatta vulì proteger l'internet e tuts che l'utiliseschan.
+firefox-privacy-hub-learn-more-about-our-mission = Ve a savair dapli davart nossa idea
+firefox-privacy-hub-your-privacy-by-the-product = Nus resguardain tia sfera privata en mintga product
+firefox-privacy-hub-firefox-products-work-differently = Ils products da { -brand-name-firefox } èn auters – perquai ch'els èn concepids en emprima lingia per proteger tia sfera privata.
+firefox-privacy-hub-learn-about-our-products = Ve a savair dapli davart noss products
+firefox-privacy-hub-firefox-privacy-by-the = La protecziun da datas da { -brand-name-firefox } en mintga product
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } protegia tia sfera privata en mintga product.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protegia</strong> tia sfera privata en mintga product
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+firefox-privacy-hub-2000-trackers-blocked-automatically = Passa 2'000 fastizaders bloccads – automaticamain
