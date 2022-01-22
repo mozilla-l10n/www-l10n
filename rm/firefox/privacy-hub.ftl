@@ -17,3 +17,7 @@ firefox-privacy-privacy = Protecziun da datas
 firefox-privacy-our-promise = Nossa empermischun
 # Sub navigation link
 firefox-privacy-our-products = Noss products
+firefox-privacy-hub-you-should-be-able-to-decide = Ti duessas pudair decider sez tgi che vesa tias infurmaziuns persunalas. Cun quai na manegiain nus betg mo tes amis, ma tge agentura da reclamas u interpresa en l'internet ch'i saja – cumprais nossa.
+firefox-privacy-hub-thats-why-everything-we-make = Perquai è nossa empermischun da proteger tias datas persunalas la basa per tut quai che nus faschain
+firefox-privacy-hub-take-less = Rimnar pauc
+firefox-privacy-hub-we-make-a-point-of-knowing = Per nus èsi impurtant da savair pauc da tai
