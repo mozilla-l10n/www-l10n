@@ -5,7 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+home-mr2-promo-title = Возвращайтесь к хорошим идеям быстрее
 
 ## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 
-home-mr2-promo-cta = Загрузите новый { -brand-name-firefox }
+home-mr2-promo-cta = Получите новый { -brand-name-firefox }

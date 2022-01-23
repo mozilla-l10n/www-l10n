@@ -14,10 +14,10 @@ firefox-desktop-download-meta-desc = Получите { -brand-name-firefox } �
 firefox-desktop-download-og-title = Загрузите самый быстрый в истории { -brand-name-firefox }
 firefox-desktop-download-og-desc = Более быстрая загрузка страниц, уменьшенный расход памяти и множество функций — новый { -brand-name-firefox } уже здесь.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
-firefox-desktop-download-get-the-browser = Загрузите браузер, который защитит всё важное
+firefox-desktop-download-get-the-browser = Получите браузер, который защищает всё важное
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Никаких скрытых политик приватности или лазеек для рекламодателей. Просто молниеносный браузер, который никогда вас не предаст.
-firefox-desktop-download-download-options = Варианты загрузки и другие языки
+firefox-desktop-download-download-options = Параметры загрузки и другие языки
 firefox-desktop-download-browser-support = Поддержка { -brand-name-firefox-browser(case: "genitive") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Делайте что угодно в Интернете.<br> { -brand-name-firefox-browser(case: "nominative_uppercase") } <strong>не</strong> следит за вами.
@@ -49,7 +49,7 @@ firefox-desktop-download-we-block-the-ad = Мы блокируем реклам�
 firefox-desktop-download-ads-are-distracting = Объявления отвлекают и замедляют загрузку веб-страниц, в то время как их трекеры отслеживают каждое ваше движение в Интернете. { -brand-name-firefox-browser(case: "nominative_uppercase") } автоматически блокирует большинство трекеров, поэтому нет необходимости копаться в настройках безопасности.
 firefox-desktop-download-see-your-report = Просмотрите свой отчёт о защите
 firefox-desktop-download-for-everyone = { -brand-name-firefox } — для всех
-firefox-desktop-download-available-in-over = Доступный более чем на 90 языках и совместимый с компьютерами на { -brand-name-windows }, { -brand-name-mac-short } и { -brand-name-linux }, { -brand-name-firefox } работает независимо от того, что вы используете или где находитесь. Убедитесь, что ваша операционная система обновлена для его наилучшей работы.
+firefox-desktop-download-available-in-over = Доступный более чем на 90 языках и совместимый с компьютерами на { -brand-name-windows }, { -brand-name-mac-short } и { -brand-name-linux }, { -brand-name-firefox } работает независимо от того, что вы используете и где находитесь. Убедитесь, что ваша операционная система обновлена для его наилучшей работы.
 firefox-desktop-download-review-system-req = Посмотрите системные требования
 firefox-desktop-download-all-your-devices = Установите { -brand-name-firefox } на все свои устройства
 firefox-desktop-download-take-your-privacy = Ваша приватность всегда будет с вами. { -brand-name-firefox-browsers(case: "nominative_uppercase") } для { -brand-name-ios } и { -brand-name-android } имеют одинаково строгие настройки приватности, чтобы трекеры не могли следить за вами в Интернете, где бы вы ни находились.
@@ -96,13 +96,13 @@ firefox-desktop-download-adjust-search-bar = Настройте параметр
 firefox-desktop-download-change-new-tab = Измените макет новой вкладки
 firefox-desktop-download-make-firefox-your = Сделайте <strong>{ -brand-name-firefox }</strong> своим
 firefox-desktop-download-extensions-for-every = Расширения на любой вкус
-firefox-desktop-download-change-up-your = Меняйте внешний вид браузера
-firefox-desktop-download-go-from-light = Переходите со светлой темы на тёмную в зависимости от вашего настроения или предпочтений, или украсьте свой мир с помощью собственной темы (например, радужного единорога).
-firefox-desktop-download-tweak-your-settings = Измените свои настройки
+firefox-desktop-download-change-up-your = Изменяйте внешний вид браузера
+firefox-desktop-download-go-from-light = Переходите со светлой темы на тёмную в зависимости от вашего настроения и предпочтений или украсьте свой мир с помощью собственной темы (например, радужного единорога).
+firefox-desktop-download-tweak-your-settings = Изменяйте свои настройки
 firefox-desktop-download-theres-no-need = Не нужно приспосабливаться. Измените страницу новой вкладки, панель поиска, закладки и многое другое, чтобы работать в Интернете так, как вам нравится.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = При поддержке <strong>некоммерческой организации</strong>, которая ставит людей на первое место
-firefox-desktop-download-challenging-the-status = Бросает вызов статус-кво с 1998 года
+firefox-desktop-download-challenging-the-status = Бросаем вызов статусу-кво с 1998 года
 firefox-desktop-download-your-privacy-comes = Ваша приватность — всегда на первом месте
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Сохраните все свои любимые функции браузера и <strong>откройте</strong> новые.
@@ -116,9 +116,9 @@ firefox-desktop-download-sync-your-devices = Синхронизируйте св
 firefox-desktop-download-screenshots = Скриншоты
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Улучшенная защита от отслеживания (ETP)
-firefox-desktop-download-from-watching-a = От просмотра обучающего материала до наблюдения за игрой любимой команды — смотрите ваше видео, пока выполняете другие задачи.
+firefox-desktop-download-from-watching-a = От просмотра обучающего материала до наблюдения за игрой любимой команды — смотрите видео, пока выполняете другие задачи.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
-firefox-desktop-download-get-firefox-android = Загрузите { -brand-name-firefox-browser } для <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-android = Получить { -brand-name-firefox-browser } для <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Загрузите { -brand-name-firefox-browser } для <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Загрузите мобильный браузер { -brand-name-firefox } для автоматической защиты на всех ваших устройствах.
 firefox-desktop-download-learn-about-the = Узнайте больше о браузере { -brand-name-firefox } для компьютера ниже

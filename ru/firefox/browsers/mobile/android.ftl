@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
 # HTML page title
-mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+mobile-android-firefox-browser-android = { -brand-name-firefox-browser(case: "uppercase") } для { -brand-name-android }
 # HTML description
-mobile-android-firefox-browser-for = Браузер { -brand-name-firefox } для { -brand-name-android } быстр, безопасен и обеспечивает приватность с первого запуска.
+mobile-android-firefox-browser-for = Браузер { -brand-name-firefox } для { -brand-name-android } — быстрый, безопасный и приватный с первого запуска.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 # Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Будьте мобильны. Обеспечьте свою независимость с { -brand-name-firefox } для { -brand-name-android }

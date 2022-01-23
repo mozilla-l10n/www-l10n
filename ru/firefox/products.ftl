@@ -16,7 +16,7 @@ firefox-products-see-if-your-personal-information = Проверьте, не б�
 firefox-products-check-for-breaches = Проверить на утечки
 firefox-products-sign-up-for-breach-alerts = Подписаться на уведомления об утечках
 firefox-products-firefox-browsers = Браузеры { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = Загрузите браузеры, которые автоматически блокируют более 2000 трекеров. Улучшенная защита от отслеживания является стандартом в каждом браузере { -brand-name-firefox }.
+firefox-products-get-the-browsers-that-block = Получите браузеры, которые автоматически блокируют более 2000 трекеров. Улучшенная защита от отслеживания включена в каждый браузер { -brand-name-firefox }.
 firefox-products-desktop = Для компьютера
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
@@ -30,7 +30,7 @@ firefox-products-learn-more-about-relay = Узнайте больше о { -bran
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
-firefox-products-keep-your-passwords-safe-and = Храните свои пароли в безопасности и получайте к ним доступ на всех ваших синхронизируемых устройствах.
+firefox-products-keep-your-passwords-safe-and = Храните свои пароли в безопасности и получайте к ним доступ на всех синхронизируемых устройствах.
 # Obsolete string
 firefox-products-download-lockwise = Загрузить { -brand-name-lockwise }
 # Obsolete string
@@ -39,11 +39,11 @@ firefox-products-open-in-firefox = Открыть в { -brand-name-firefox }
 firefox-products-learn-more-about-lockwise = Узнайте больше о { -brand-name-lockwise }
 # Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
-firefox-products-send-your-large-files-and = Отправляйте ваши большие файлы и важные документы безопасно, до 2,5 ГБ.
+firefox-products-send-your-large-files-and = Безопасно отправляйте большие файлы и важные документы размером до 2,5 ГБ.
 firefox-products-send-a-file = Отправить файл
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Открывайте для себя лучшие статьи со всего Интернета — и читайте их, где и когда заходите.
-firefox-products-get-pocket = Загрузить { -brand-name-pocket }
+firefox-products-get-pocket = Получить { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Узнайте больше о { -brand-name-pocket }
 firefox-products-join-firefox-and-get-the-most = Присоединяйтесь к { -brand-name-firefox } и получайте максимум от каждого продукта на любом устройстве.
 # Variables:
