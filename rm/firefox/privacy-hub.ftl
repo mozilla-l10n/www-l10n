@@ -55,3 +55,5 @@ firefox-privacy-hub-update-your-firefox-browser = Actualisescha tes navigatur { 
 firefox-privacy-hub-invisible-to-the-top-trackers = Invisibel per ils fastizaders principals
 firefox-privacy-hub-meet-four-of-the-most-common = Quai èn las quatter categorias las pli impurtantas da fastizaders – che na ta vegnan betg pli a suandar.
 firefox-privacy-hub-always-in-your-control = Ti has adina la controlla
+firefox-privacy-hub-want-to-customize-what = Vulessas ti decider sez tge che vegn bloccà? Las configuraziuns sa chattan a la purtada dad in clic.
+firefox-privacy-hub-protection-beyond-tracking = Dapli che mo protecziun cunter fastizaders
