@@ -47,3 +47,11 @@ firefox-privacy-hub-2000-trackers-blocked-automatically = Passa 2'000 fastizader
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-tracking-has-become-an = Il fastizar è daventà in'epidemia en l'internet: Interpresas suondan mintga moviment, clic e cumpra, ellas ramassan datas per predir tge che ti vegns a far e per influenzar tes cumportament. Nus essan da l'avis che quai è ina violaziun massiva da tia sfera privata. Perquai disponan ils navigaturs mobils e da desktop da { -brand-name-firefox } gia en la configuraziun da standard da la protecziun avanzada cunter fastizaders.
 firefox-privacy-hub-if-you-want-to-see-what = Sche ti vulessas vesair tge che { -brand-name-firefox } blochescha per tai, visita questa pagina sin tes navigatur da desktop da { -brand-name-firefox }.
+firefox-privacy-hub-see-what-firefox-has-blocked = Survista dals elements che { -brand-name-firefox } ha bloccà per tai
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Va per la protecziun avanzada cunter fastizaders
+firefox-privacy-hub-download-the-firefox-browser = Telechargiar il navigatur { -brand-name-firefox }
+firefox-privacy-hub-update-your-firefox-browser = Actualisescha tes navigatur { -brand-name-firefox }
+firefox-privacy-hub-invisible-to-the-top-trackers = Invisibel per ils fastizaders principals
+firefox-privacy-hub-meet-four-of-the-most-common = Quai èn las quatter categorias las pli impurtantas da fastizaders – che na ta vegnan betg pli a suandar.
+firefox-privacy-hub-always-in-your-control = Ti has adina la controlla
