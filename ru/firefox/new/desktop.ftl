@@ -119,7 +119,7 @@ firefox-desktop-download-enhanced-tracking-protection = Улучшенная з�
 firefox-desktop-download-from-watching-a = От просмотра обучающего материала до наблюдения за игрой любимой команды — смотрите видео, пока выполняете другие задачи.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Получить { -brand-name-firefox-browser } для <strong>{ -brand-name-android }</strong>
-firefox-desktop-download-get-firefox-ios = Загрузите { -brand-name-firefox-browser } для <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-get-firefox-ios = Получить { -brand-name-firefox-browser } для <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Загрузите мобильный браузер { -brand-name-firefox } для автоматической защиты на всех ваших устройствах.
 firefox-desktop-download-learn-about-the = Узнайте больше о браузере { -brand-name-firefox } для компьютера ниже
 # Variables:
@@ -166,7 +166,7 @@ firefox-desktop-download-in-another-language = Загрузить на друг�
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-desktop-download-if-you-see-a-prompt = Если вы видите предупреждение утверждающее, что приложение, которое вы пытаетесь установить, не является проверенным { -brand-name-microsoft } приложением, щёлкните «Всё равно установить» или <a { $attrs }>измените настройки рекомендации приложений</a>.
+firefox-desktop-download-if-you-see-a-prompt = Если вы видите предупреждение о том, что приложение, которое вы пытаетесь установить, не является проверенным приложением { -brand-name-microsoft }, щёлкните «Всё равно установить» или <a { $attrs }>измените настройки рекомендации приложений</a>.
 firefox-desktop-download-visit-support-for-more = Посетите сайт поддержки для получения дополнительных сведений
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
