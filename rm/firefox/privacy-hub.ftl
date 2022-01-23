@@ -76,3 +76,14 @@ firefox-privacy-hub-get-pocket = Ir per { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Tes { -brand-name-firefox-account }
 firefox-privacy-hub-all-the-information-synced = Tut las infurmaziuns sincronisadas via tes { -brand-name-firefox-account } – da la cronologia enfin als pleds-clav èn criptadas. E tes pled-clav per il conto è l'unica clav.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Cun tes { -brand-name-firefox-account } pos ti pigliar cun tai tia sfera privata e tes segnapaginas nua ch'i saja.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Has ti gia in conto? <a { $sign_in } class="{ $class_name }">T'annunzia</a> u <a href="{ $learn_more }">ve a savair dapli</a> davart il sistem { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Legia la <a href="{ $url }">decleraziun davart la protecziun da datas</a> per noss products
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Navighescha, streamescha e lavura via servers en passa 30 pajais cun ina connexiun segira cun l'internet ed ina nova perspectiva.
+firefox-privacy-hub-get-mozilla-vpn = Va per { -brand-name-mozilla-vpn }
