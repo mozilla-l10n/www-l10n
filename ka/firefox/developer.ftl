@@ -21,8 +21,8 @@ firefox-developer-start-now = დაიწყეთ ახლავე
 firefox-developer-design-code-test = მოიფიქრეთ. შექმენით. გამოცადეთ. დახვეწეთ.
 # Line break for visual formatting
 firefox-developer-build-and-perfect = შეიმუშავეთ და სრულყავით თქვენი საიტები<br> { -brand-name-firefox-devtools }-ის დახმარებით
-firefox-developer-inspector = ელემენტზე დაკვირვება
-firefox-developer-inspect-and-refine = გამოიკვლიეთ და გააუმჯობესეთ კოდი, ზუსტი და სრულყოფილი განლაგების შესაქმნელად.
+firefox-developer-inspector = ელემენტების გამოკვლევა
+firefox-developer-inspect-and-refine = შეისწავლეთ და გააუმჯობესეთ კოდი, ზუსტი და სრულყოფილი განლაგების შესაქმნელად.
 firefox-developer-learn-about-page-inspector = ვრცლად, საიტზე დაკვირვების ხელსაწყოების შესახებ
 firefox-developer-console = კონსოლი
 firefox-developer-track-css = თვალი ადევნეთ CSS, JavaScript, უსაფრთხოებასა და ქსელის მუშაობას.
