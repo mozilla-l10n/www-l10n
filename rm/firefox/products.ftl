@@ -41,3 +41,7 @@ firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Trametta tias datotecas grondas e tes documents confidenzials a moda segira – enfin 2,5 GB.
 firefox-products-send-a-file = Trametter ina datoteca
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content = Scuvra il meglier cuntegn dal web – e profitescha dad el nua e cura ch'i saja.
+firefox-products-get-pocket = Va per { -brand-name-pocket }
+firefox-products-learn-more-about-pocket = Ve a savair dapli davart { -brand-name-pocket }
+firefox-products-join-firefox-and-get-the-most = Ve tar { -brand-name-firefox } e rabla ora il meglier da mintga product – sin mintga apparat.
