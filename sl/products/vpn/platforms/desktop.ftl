@@ -16,3 +16,4 @@ vpn-desktop-servers-headline = Povežite se s strežniki po vsem svetu
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Zaščitite do { $devices } naprav
 vpn-desktop-speed-headline = Neverjetna hitrost, brez omejitev
+vpn-desktop-log-headline = Vaša zasebnost je na prvem mestu

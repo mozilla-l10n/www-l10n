@@ -16,6 +16,7 @@ vpn-landing-fast-secure-heading = Hitro in varno omrežje
 
 vpn-landing-faq-heading = Pogosta vprašanja
 vpn-langing-faq-uses-question-heading = Kaj je VPN in za kaj se uporablja?
+vpn-landing-faq-info-question-heading = Katere podatke { -brand-name-mozilla-vpn } shranjuje?
 vpn-landing-faq-protected-question-heading = Kako je zaščitena moja zasebnost?
 vpn-landing-faq-competition-question-heading = Kakšen je { -brand-name-mozilla-vpn } v primerjavi s konkurenco?
 vpn-landing-faq-compatibility-question-heading = S katerimi napravami je { -brand-name-mozilla-vpn } združljiv?
@@ -82,6 +83,7 @@ vpn-landing-invite-email-placeholder = vase.ime@example.com
 vpn-landing-invite-country-label = V kateri državi živite?
 vpn-landing-invite-language-label = Izberite želeni jezik.
 vpn-landing-invite-platform-label = Katere platforme vas zanimajo?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
 # Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
