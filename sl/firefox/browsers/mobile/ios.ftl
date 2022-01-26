@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
+# HTML page title
+mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } in { -brand-name-ipad })
 # HTML description
 # Obsolete string
 mobile-ios-firefox-browser-for = Brskalnik { -brand-name-firefox } za { -brand-name-ios } je hiter, varen in zaseben od prvega trenutka, ko ga odprete.
