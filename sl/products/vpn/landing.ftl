@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: Zaščitite svojo celotno napravo
+# Obsolete string
+vpn-landing-hero-sub-heading = Varnost, na katero se lahko zanesete. Ime, ki mu lahko zaupate.
 vpn-landing-privacy-heading = En dotik do zasebnosti
 vpn-landing-fast-secure-heading = Hitro in varno omrežje
 
@@ -78,6 +82,7 @@ vpn-landing-invite-email-placeholder = vase.ime@example.com
 vpn-landing-invite-country-label = V kateri državi živite?
 vpn-landing-invite-language-label = Izberite želeni jezik.
 vpn-landing-invite-platform-label = Katere platforme vas zanimajo?
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }
