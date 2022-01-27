@@ -14,3 +14,5 @@ firefox-sync-all-you-need = Tut che ti dovras per { -brand-name-firefox-sync } Ã
 firefox-sync-encrypt-your-data = Criptescha tias datas
 firefox-sync-your-encryption-key = Tia clav da criptadi resta secreta, mo ti e tes apparats autorisads l'enconuschan.
 firefox-sync-feel-safe = Ti pos ta sentir segir
+firefox-sync-we-store-your = Nus memorisain tias datas a moda criptada sin nos servers uschia che gnanc nus na las pudain leger.
+firefox-sync-start-syncing-in = Lantscha la sincronisaziun en quatter simpels pass:
