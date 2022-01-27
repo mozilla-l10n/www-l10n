@@ -18,3 +18,16 @@ set-as-default-thanks-heres-everything-you-need-android = Qua chattas ti tut che
 # Variables:
 #   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
 set-as-default-thanks-heres-everything-you-need-ios = Qua chattas ti tut che ti stos savair per configurar tes navigatur da standard sin <a href="{ $ios }">apparats iOS</a>.
+set-as-default-thanks-youre-all-set = Ussa è tut pront.
+set-as-default-thanks-get-firefox-for-mobile = Installescha { -brand-name-firefox } per apparats mobils
+set-as-default-thanks-travel-the-internet-with = Navighescha en l'internet a moda segira – cun tuts tes apparats.
+set-as-default-thanks-download-the-app = Telechargiar l'app
+set-as-default-thanks-join-firefox = Ve tar { -brand-name-firefox }
+set-as-default-thanks-sign-up-for-a-free-account = Avra in conto gratuit e sincronisescha tuts tes pleds-clav, tia cronologia e tias preferenzas sin tuts tes apparats.
+# Account here refers to a Firefox Account
+set-as-default-thanks-get-an-account = Avra in conto
+set-as-default-thanks-having-trouble = Datti problems?
+# Variables:
+#   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
+#   $desktop (url) - link to https://support.mozilla.org/kb/make-firefox-your-default-browser
+set-as-default-thanks-heres-everything-you-need-android-desktop = Qua chattas ti tut che ti stos savair per configurar tes navigatur da standard sin <a href="{ $android }">apparats Android</a> u <a href="{ $desktop }">computers desktop</a>.
