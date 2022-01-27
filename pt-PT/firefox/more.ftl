@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -21,8 +21,6 @@ firefox-is-more = O { -brand-name-firefox } é mais do que um navegador
 its-a-lightning = É uma via rápida para a melhor experiência na Internet.
 get-the-browsers = Obtenha os navegadores que colocam a sua privacidade em primeiro lugar — e que sempre o fizeram
 get-the-privacy = Obtenha a privacidade que você merece. A proteção melhorada contra a monitorização torna a privacidade algo automático, sempre que abre o seu navegador.
-take-your-passwords = Leve as suas palavras-passe para todo o lado
-securely-access-the = Aceda com segurança às palavras-passe que guardou no { -brand-name-firefox } a partir de qualquer lugar — mesmo fora do navegador.
 choose-which-firefox = Escolha qual o idioma do { -brand-name-firefox-browser } a transferir
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } para { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Apesar do { -brand-name-chromebook } já ter o { -brand-name-chrome } instalado, descarregar e utilizar o { -brand-name-firefox } como o seu navegador principal tem alguns benefícios:
@@ -35,5 +33,8 @@ be-free-to = Sinta-se à vontade para elogiar o { -brand-name-firefox } sempre q
 the-ad-blocker = O bloqueador de publicidade – a arma secreta contra anúncios irritantes.
 so-many-ads = Tantos anúncios, tão pouca paciência… É tempo de parar com a loucura.
 firefox-more-protection = { -brand-name-firefox }: Mais proteção. Menos preocupação.
+firefox-more-fingerprinter-blocking = Bloqueio de identificadores digitais
+firefox-more-fingerprinting-is-a = A identificação digital é um tipo de rastreamento na Internet que é mais invasivo do que o rastreamento comum baseado em cookies - é por isso que o { -brand-name-firefox-browser } a bloqueia.
 firefox-more-translate-the-web = Traduzir a Internet
 firefox-more-translate-more-than = Traduza mais de 100 idiomas para o seu idioma, diretamente no seu { -brand-name-firefox-browser } - mais simples que nunca.
+firefox-more-a-guide-to = Um guia para credenciais e palavras-passe mais seguras

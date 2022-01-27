@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -21,15 +21,25 @@ privacy-index-data-privacy-principles = Princípios da privacidade dos dados
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = Os <a href="{ $principles }">princípios da privacidade dos dados</a> da { -brand-name-mozilla } inspiram as nossas práticas que respeitam e protegem as pessoas que utilizam a Internet. Saiba mais sobre como estes princípios definem o { -brand-name-firefox } e todos os nossos produtos nestas <a href="{ $faq }">perguntas frequentes</a>.
 privacy-index-transparency-report = Relatório de transparência
+privacy-index-get-involved = Envolva-se
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Como um projeto de código aberto, transparência e abertura são uma parte essencial dos princípios fundadores da { -brand-name-mozilla }. As nossas bases de código são abertas e auditáveis. O nosso trabalho de desenvolvimento é aberto. Os nossos <a href="{ $report }">relatórios de transparência</a> bi-anuais demonstram também o nosso compromisso com estes princípios.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Para rever e comentar as alterações propostas às nossas políticas de privacidade, <a href="{ $group }">subscreva ao grupo de administração da { -brand-name-mozilla }</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Saiba mais sobre o nosso trabalho atual sobre a política de privacidade e de segurança pública no <a href="{ $blog }">blogue de advocacia e política aberta da { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Políticas desatualizadas
 privacy-index-mozilla-websites-communications = Sites de Internet, comunicações e cookies da { -brand-name-mozilla }
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } para { -brand-name-fire-tv }

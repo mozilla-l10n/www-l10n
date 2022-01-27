@@ -28,5 +28,12 @@ mobile-focus-private-browsing-on-v2 = A “Navegação privada” na maioria dos
 mobile-focus-tracking-protection = Proteção contra monitorização
 mobile-focus-firefox-focus-blocks = O { -brand-name-firefox-focus } bloqueia uma grande variedade de rastreadores comuns por padrão, incluindo rastreadores de redes sociais e aqueles que se agarram que vêm de coisas como anúncios do { -brand-name-facebook }.
 mobile-focus-ad-blocking = Bloqueio de anúncios
+# Outdated string
+mobile-focus-focus-blocks-the = O { -brand-name-focus } bloqueia os anúncios que normalmente veria nas páginas da Internet — sem complementos ou extensões extra necessários. Com menos anúncios, obtém uma velocidade de carregamento de página superior, o que significa que obtém as coisas que quer de uma forma muito mais rápida.
+mobile-focus-focus-blocks-the-v2 = O { -brand-name-focus } bloqueia os anúncios que tentam rastreá-lo pelas páginas da Internet — sem complementos ou extensões extra necessários. Com menos anúncios, obtém uma velocidade de carregamento de página superior, o que significa que obtém as coisas que quer de uma forma muito mais rápida.
 mobile-focus-see-it-all = Veja tudo mais rápido
+# Outdated string
+mobile-focus-focus-removes-trackers = O { -brand-name-focus } remove rastreadores e anúncios para que as páginas que está a ver necessitem de menos dados e carreguem muito mais rapidamente.
+mobile-focus-focus-removes-trackers-v2 = O { -brand-name-focus } remove rastreadores e ativa bloqueadores de anúncios para que as páginas que estiver a ver necessitem de menos dados e carreguem muito mais rapidamente. Além disso, fixe até quatro atalhos no seu ecrã principal e obtenha a sua página favorita ainda mais rapidamente sem escrever nada.
 mobile-focus-made-by-mozilla = Criado pela { -brand-name-mozilla }
+mobile-focus-we-believe-everyone = Acreditamos que todos devem ter controlo sobre as suas vidas online. É para isto que temos estado a lutar desde 1998.
