@@ -20,3 +20,6 @@ firefox-sync-open-the-menu = Avra il menu sisum a dretga en { -brand-name-firefo
 firefox-sync-click-get-started = Clicca sin <strong>«Cumenzar»</strong> en il tab che s'avra.
 firefox-sync-enter-an-email = Endatescha ina adressa dad e-mail ed in pled-clav per <strong>«Crear in { -brand-name-firefox-account }»</strong>.
 firefox-sync-click-next-to = Clicca sin <strong>«Enavant»</strong> per retschaiver in e-mail da verificaziun en tia posta entrada.
+firefox-sync-after-you-check = Suenter che ti has dà in'egliada a tes e-mails e cliccà sin la colliaziun da verificaziun vegn { -brand-name-firefox } a sincronisar automaticamain tias datas davos las culissas.
+# https://support.mozilla.org/kb/firefox-accounts-managing-account-data
+firefox-sync-learn-more = Ulteriur sustegn per administrar tes { -brand-name-firefox-account }
