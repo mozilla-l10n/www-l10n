@@ -16,3 +16,7 @@ firefox-sync-your-encryption-key = Tia clav da criptadi resta secreta, mo ti e t
 firefox-sync-feel-safe = Ti pos ta sentir segir
 firefox-sync-we-store-your = Nus memorisain tias datas a moda criptada sin nos servers uschia che gnanc nus na las pudain leger.
 firefox-sync-start-syncing-in = Lantscha la sincronisaziun en quatter simpels pass:
+firefox-sync-open-the-menu = Avra il menu sisum a dretga en { -brand-name-firefox } e tscherna <strong>«S'annunziar tar { -brand-name-sync }»</strong>.
+firefox-sync-click-get-started = Clicca sin <strong>«Cumenzar»</strong> en il tab che s'avra.
+firefox-sync-enter-an-email = Endatescha ina adressa dad e-mail ed in pled-clav per <strong>«Crear in { -brand-name-firefox-account }»</strong>.
+firefox-sync-click-next-to = Clicca sin <strong>«Enavant»</strong> per retschaiver in e-mail da verificaziun en tia posta entrada.
