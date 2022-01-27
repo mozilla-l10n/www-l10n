@@ -19,3 +19,7 @@ lockwise-only-in-the-firefox-browser = Sulettamain en il { -brand-name-firefox-b
 lockwise-256-bit-encryption-protects = Il criptadi a 256 bits ta protegia entant che ti sincroniseschas
 lockwise-get-to-your-passwords-securely = Acceda a moda segira a tes pleds-clav grazia a l'identificaziun da la fatscha u da l'impronta dal det
 lockwise-your-privacy-comes-first = Tia sfera privata ha prioritad.
+lockwise-we-keep-your-data-safe = Nus protegin tias datas e na las vendain mai.
+lockwise-support = Agid
+lockwise-your-privacy = Tia sfera privata
+lockwise-github = { -brand-name-github }
