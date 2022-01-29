@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+misinformation-page-title = Evitescha infurmaziuns falladas en l'internet – { -brand-name-firefox } è qua per ta gidar
