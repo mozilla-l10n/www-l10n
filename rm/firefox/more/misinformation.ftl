@@ -7,3 +7,6 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 misinformation-page-title = Evitescha infurmaziuns falladas en l'internet – { -brand-name-firefox } è qua per ta gidar
+misinformation-page-desc = Infurmaziuns falladas disturban, distiran e custan bler. { -brand-name-firefox } dat in pèr cussegls per evitar infurmaziuns falladas – e per las guntgir cun navigar en il web.
+misinformation-page-subheading = Dà in'egliada als suandants cussegls per scuntrar damain infurmaziuns falladas e per ta concentrar meglier a quai che ta stat a cor
+misinformation-what-is-heading = Tge èn infurmaziuns falladas? Tge è dischinfurmaziun?
