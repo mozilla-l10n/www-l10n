@@ -22,3 +22,7 @@ misinformation-spot-online-heading = Co identifitgar infurmaziuns falladas en la
 misinformation-look-at-url = Dà in'egliada a l'adressa (URL) e/u a la funtauna.
 misinformation-known-to-br-credible = È ella fidabla? Sche ti n'es betg segir, emprova dad eruir dapli davart la funtauna e sia reputaziun en l'internet.
 misinformation-overly-sensational = È il titel sensaziunalissem?
+misinformation-check-out-websites = Consultescha websites e publicaziuns da las qualas ti ta fidas per cumparegliar co che quellas tractan il medem tema. Cuntegns che han l'intenziun da manipular l'opiniun dovran savens superlativs ed exageraziuns per las qualas ins na chatta nagina cumprova en rapports schurnalistics retschertgads bain.
+misinformation-content-up-to-date = È il cuntegn actual?
+misinformation-outdated-information = Infurmaziuns che n'èn betg à jour n'han betg per forza l'intenziun da dischinfurmar. Ma il cuntegn n'è eventualmain betg pli correct.
+misinformation-credible-publication = Ha l'autur gia publitgà auters artitgels u posts, en il cas ideal era en publicaziuns fidablas?
