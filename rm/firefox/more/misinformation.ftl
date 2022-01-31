@@ -26,3 +26,5 @@ misinformation-check-out-websites = Consultescha websites e publicaziuns da las 
 misinformation-content-up-to-date = È il cuntegn actual?
 misinformation-outdated-information = Infurmaziuns che n'èn betg à jour n'han betg per forza l'intenziun da dischinfurmar. Ma il cuntegn n'è eventualmain betg pli correct.
 misinformation-credible-publication = Ha l'autur gia publitgà auters artitgels u posts, en il cas ideal era en publicaziuns fidablas?
+misinformation-authors-name = Sche ti chattas il num da l'autur mo sin paginas dubiusas, na duessas ti betg dar memia gronda paisa a ses commentaris.
+misinformation-images-captions = Correspundan ils maletgs e las legendas?
