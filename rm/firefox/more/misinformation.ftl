@@ -31,3 +31,7 @@ misinformation-images-captions = Correspundan ils maletgs e las legendas?
 misinformation-images-are-powerful = Maletgs pon avair in grond effect en la derasaziun da dischinfurmaziun persunalisada. Tut tenor la legenda po il messadi dad in maletg midar en il cuntrari. Sche ti has dubis, fa ina retschertga da maletg inversa per chattar il maletg sin autras websites ed eruir co quel vegn descrit là.
 misinformation-how-firefox-helps-heading = Co { -brand-name-firefox } ta gida dad evitar infurmaziuns falladas
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } tegna sut controlla ils fastizaders:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Sco menziunà survart giogan fastizaders ina gronda rolla en la derasaziun dad infurmaziuns falladas. <a href="{ $firefox }">L'utilisaziun da { -brand-name-firefox }</a> cun la <a href="{ $protection }">protecziun avanzada cunter fastizaders</a> gida cun bloccar automaticamain fastizaders da terzas partidas (da bleras fatschentas da reclama e dad autras instanzas) durant che ti navigheschas en il web. Uschia obtegnas ti puspè la controlla da tias datas en l'internet.
