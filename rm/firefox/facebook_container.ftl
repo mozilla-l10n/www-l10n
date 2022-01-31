@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,7 +10,16 @@ facebook-container-millions-of-people-around = Milliuns umans sin tut il mund sa
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook } sin ina vart ed il rest da tia vita digitala sin l'autra vart da la barriera, en libertad.
 facebook-container-get-the-facebook-container = Telechargiar ussa { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Ussa telechargiar { -brand-name-firefox } per avair l'extensiun { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = L'extensiun { -brand-name-facebook-container } stat actualmain a disposiziun mo per { -brand-name-firefox } per computers desktop.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Visita <a href="{ $url }">{ $link_copy }</a> per telechargiar { -brand-name-firefox } per desktop.
+# Outdated string
 facebook-container-the-facebook-container-extension = L'extensiun { -brand-name-facebook-container } n'è betg disponibla per apparats mobils.
+facebook-container-get-firefox-android-ios = Va ussa per { -brand-name-firefox } per { -brand-name-android } ed { -brand-name-ios }.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Emprova <strong>{ -brand-name-firefox-focus }</strong>, il navigatur che respecta la sfera privata per { -brand-name-android } ed { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Tenor tias reglas
