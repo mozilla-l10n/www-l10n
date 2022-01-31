@@ -28,3 +28,6 @@ misinformation-outdated-information = Infurmaziuns che n'èn betg à jour n'han 
 misinformation-credible-publication = Ha l'autur gia publitgà auters artitgels u posts, en il cas ideal era en publicaziuns fidablas?
 misinformation-authors-name = Sche ti chattas il num da l'autur mo sin paginas dubiusas, na duessas ti betg dar memia gronda paisa a ses commentaris.
 misinformation-images-captions = Correspundan ils maletgs e las legendas?
+misinformation-images-are-powerful = Maletgs pon avair in grond effect en la derasaziun da dischinfurmaziun persunalisada. Tut tenor la legenda po il messadi dad in maletg midar en il cuntrari. Sche ti has dubis, fa ina retschertga da maletg inversa per chattar il maletg sin autras websites ed eruir co quel vegn descrit là.
+misinformation-how-firefox-helps-heading = Co { -brand-name-firefox } ta gida dad evitar infurmaziuns falladas
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } tegna sut controlla ils fastizaders:
