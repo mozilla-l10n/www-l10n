@@ -17,3 +17,6 @@ page7-make-them-unfollow-you = Ta deliberescha dals fastizaders
 page7-that-sneaky-little-button = Quest pitschen buttun malign
 page7-those-innocent-looking-f-buttons = Quests buttuns cun l'«f» da { -brand-name-facebook } che paran uschè innocents fastizeschan tias activitads en il web – schizunt sche ti n'has gnanc in conto. { -brand-name-facebook-container } als blochescha.
 page7-stay-ahead-of-hackers = Lascha enavos ils hackers
+page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } ta di tge che hackers san forsa gia da tai e ta gida ad esser adina in pass oravant. (Dal rest è il servetsch gratuit.)
+page7-get-firefox-monitor = Scuvra { -brand-name-firefox-monitor }
+page7-why-am-i-seeing-this = Pertge ves jau quai?
