@@ -20,6 +20,7 @@ firefox-products-get-the-browsers-that-block = Installescha quels navigaturs che
 firefox-products-desktop = Computer desktop
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
+firefox-products-see-all-browsers = Mussar tut ils navigaturs
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Navighescha, streamescha e lavura via servers en passa 30 pajais cun ina connexiun segira cun l'internet ed ina nova perspectiva.
 firefox-products-get-mozilla-vpn = Va per { -brand-name-mozilla-vpn }

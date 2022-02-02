@@ -51,3 +51,8 @@ misinformation-why-trust-firefox = Pertge sa fidar da { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 misinformation-because-we-put-people-first = Perquai che nus dain la prioritad a las persunas. Nus vegnin sustegnids dad in'organisaziun <a href="{ $foundation }">senza finamira da profit</a>. Nus avain gia da bell'entschatta vulì proteger l'internet e tuts che l'utiliseschan.
+misinformation-learn-more-about-our-mission = Ve a savair dapli davart nossa idea
+misinformation-your-privacy-by-the-product = Tia sfera privata en mintga product
+misinformation-firefox-products-work-differently = Ils products da { -brand-name-firefox } èn auters – perquai ch'els èn concepids en emprima lingia per proteger tia sfera privata.
+misinformation-learn-about-our-products = Ve a savair dapli davart noss products
+misinformation-designed-to-protect = Concepì per proteger tia sfera privata
