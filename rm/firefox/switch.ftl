@@ -22,6 +22,7 @@ switch-still-not-convinced = Ma tge? Anc adina betg persvas che la midada a { -b
 switch-enjoy-the-web-faster = Giauda in navigatur pli svelt, configurà per tai.
 switch-download-and-switch = Telechargiar Firefox e midar
 switch-share-to-facebook = Cundivider via Facebook
+switch-share-to-facebook-updated = Cundivider via { -brand-name-facebook }
 switch-send-a-tweet = Trametter in tweet
 switch-hey = Ueila,
 switch-check-it-out = Dà in tgit e ma fa a savair tge che ti pensas:
