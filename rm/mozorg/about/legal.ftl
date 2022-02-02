@@ -8,3 +8,5 @@
 legal-legal = Infurmaziuns giuridicas
 legal-get-involved = Contribuir
 legal-protect-the-fox = Proteger la vulp
+legal-takedown-requests = Dumondas da stizzar
+legal-back-to-legal = Enavos a las infurmaziuns giuridicas
