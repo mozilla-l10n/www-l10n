@@ -32,9 +32,19 @@ contribute-task-join-desc = Vuls ti t'engaschar pli fitg en la cuminanza da { -b
 ## Mission
 
 contribute-mission-heading = Nossa missiun
+contribute-mission-desc = Igl è nossa missiun da procurar che l'internet saja ina resursa publica globala, averta ed accessibla per tuts. In internet che ha en egl en emprima lingia las persunas, nua che mintgin po crear sia atgna experientscha e nua che mintgin po far valair ses basegns – en moda e maniera segira ed independenta.
+contribute-learn = Ve a savair dapli davart { -brand-name-mozilla }
+contribute-read-manifesto = Legia noss manifest
+contribute-find-event = Chatta in'occurrenza
+contribute-meet-volunteers = Scuntra noss voluntaris passiunads
+contribute-donate = Fa ina donaziun
+contribute-help-fund = Gida a finanziar nossa missiun
+contribute-follow-mozilla = Suonda { -brand-name-mozilla }
+contribute-opportunities = Novitads e pussaivladads per voluntaris
 
 ## Made by
 
+contribute-made-by-heading = Realisà da glieud passiunada sco ti
 
 ## Newsletter
 
