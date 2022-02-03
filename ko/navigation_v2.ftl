@@ -1,11 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } 다운로드
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } 생성
+navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } 받기
 navigation-v2-menu = 메뉴
+# Obsolete string
+navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } 생성
 
 ## Firefox menu
 
@@ -17,6 +19,7 @@ navigation-v2-firefox-for-android = { -brand-name-android } 용 { -brand-name-fi
 navigation-v2-get-the-customizable-mobile = { -brand-name-android } 스마트 폰을위한 맞춤형 모바일 브라우저를 받으세요.
 navigation-v2-firefox-for-ios = { -brand-name-ios } 용 { -brand-name-firefox }
 navigation-v2-get-the-mobile-browser = { -brand-name-iphone } 또는 { -brand-name-ipad } 용 모바일 브라우저를 다운로드하세요.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-privacy-promise = 개인정보 보호 약속
 navigation-v2-learn-how-firefox-treats = { -brand-name-firefox }가 개인 정보를 보호하는 방식에 대해 알아보세요.
 navigation-v2-firefox-blog = { -brand-name-firefox } 블로그
@@ -39,13 +42,16 @@ navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = 모든 기기에서 브라우저외에도 보호를 받으세요.
 navigation-v2-product-promise = 제품 약속
 navigation-v2-learn-how-each-firefox-product = 각 { -brand-name-firefox } 제품이 어떻게 사용자의 데이터를 보호하고 존중하는지 알아보세요.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }(베타)
+navigation-v2-sign-up-for-new-accounts = 사용자의 이메일 주소 전달 없이 새로 계정에 가입하세요.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network }(베타)
 navigation-v2-view-all-products = 모든 제품보기
 
 ## Who We Are menu
 
 navigation-v2-who-we-are = 만드는 사람들
+navigation-v2-close-who-we-are-menu = 만드는 사람들 메뉴 닫기
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } 선언문
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = 참여하기
