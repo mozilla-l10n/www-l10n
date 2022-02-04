@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
@@ -48,6 +48,7 @@ browser-history-today-there-are = Dnes existuje jen několik málo způsobů př
 # Variables:
 #   $vr (url) - https://mixedreality.mozilla.org/
 browser-history-in-the-future-the = V budoucnu se web pravděpodobně ještě více odkloní od svých hypertextových kořenů a stane se obrovským mořem interaktivních zážitků. Virtuální realita je na obzoru již několik desetiletí (přinejmenším od uvedení filmu Trávníkář v roce 1992 a vydání herní konzole Nintendo Virtual Boy v roce 1995), ale web ji možná konečně zpřístupní všem. { -brand-name-firefox } má dnes zabudovanou podporu pro <a href="{ $vr }">WebVR a A-Frame</a>, které umožňují vývojářům rychle a snadno vytvářet webové stránky s virtuální realitou. Většina moderních mobilních zařízení podporuje <a href="{ $vr }">WebVR</a> a díky jednoduchým lepenkovým pouzdrům je lze snadno použít jako náhlavní soupravy. Web s 3D virtuální realitou, jaký si představoval například autor science fiction Neal Stephenson, může být už klidně za dveřmi. Je-li tomu tak, webový prohlížeč jako takový možná úplně zmizí a stane se opravdovým oknem do jiného světa.
+browser-history-in-the-future-the-v2 = V budoucnu se web pravděpodobně ještě více odkloní od svých hypertextových kořenů a stane se obrovským mořem interaktivních zážitků. Virtuální realita je na obzoru již několik desetiletí (přinejmenším od uvedení filmu Trávníkář v roce 1992 a vydání herní konzole Nintendo Virtual Boy v roce 1995), ale web ji možná konečně zpřístupní všem. { -brand-name-firefox } má dnes zabudovanou podporu pro WebVR a A-Frame, které umožňují vývojářům rychle a snadno vytvářet webové stránky s virtuální realitou. Většina moderních mobilních zařízení podporuje WebVR a díky jednoduchým lepenkovým pouzdrům je lze snadno použít jako náhlavní soupravy. Web s 3D virtuální realitou, jaký si představoval například autor science fiction Neal Stephenson, může být už klidně za dveřmi. Je-li tomu tak, webový prohlížeč jako takový možná úplně zmizí a stane se opravdovým oknem do jiného světa.
 browser-history-whatever-the-future = Ať už bude budoucnost webu jakákoli, { -brand-name-mozilla } a { -brand-name-firefox } tu budou pro uživatele a zajistí jim výkonné nástroje pro práci s webem a se vším, co nabízí. Web je pro každého a každý by měl mít kontrolu nad tím, co na něm dělá. Proto { -brand-name-firefox(case: "dat") } dáváme nástroje na ochranu soukromí uživatelů a nikdy neprodáváme údaje o uživatelích inzerentům.
 browser-history-resources = Zdroje
 browser-history-take-control-of = Převezměte kontrolu nad svým prohlížečem.
