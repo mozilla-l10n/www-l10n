@@ -8,6 +8,7 @@
 # HTML Page Title
 vpn-resource-center-title = Κέντρο πόρων VPN
 vpn-resource-center-whats-the-deal = Τι συμβαίνει με τα εικονικά ιδιωτικά δίκτυα;
+vpn-resource-center-discover-how-they = Ανακαλύψτε πώς λειτουργούν, γιατί είναι σημαντικά και σε τι μπορεί να σας ωφελήσει η χρήση ενός VPN.
 vpn-resource-center-view-all = Προβολή όλων
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Ξεκινήστε να προστατεύετε την ταυτότητά σας σήμερα
