@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
@@ -50,6 +50,7 @@ browser-history-today-there-are =
 # Variables:
 #   $vr (url) - https://mixedreality.mozilla.org/
 browser-history-in-the-future-the = In le futuro, le web probabilemente se dimittera de su radices de hypertexto pro devenir un vaste mar de experientias interactive. Le realitate virtual esseva sur le horizonte pro decades (al minus depost le publication de Lawnmower Man in 1992 e le Nintendo Virtual Boy in 1995), ma le web pote al fin apportar lo al massas. { -brand-name-firefox } ora ha le supporto a <a href="{ $vr }">WebVR e A-Frame</a>, que permitte al disveloppatores de rapidemente e facilemente producer sitos web de realitate virtual. Le major parte del moderne apparatos mobile supporta <a href="{ $vr }">WebVR</a> e pote facilemente esser usate como cascos con simple cassas de carton. Un web realitate virtual 3D, como ille que imaginava per scientia fiction le autor Neal Stephenson, pote esser justo detra le angulo. In iste caso, le navigator del Web mesme pote completemente disparer e devenir un ver fenestra in un altere mundo.
+browser-history-in-the-future-the-v2 = -- In le futuro, le web probabilemente se dimittera de su radices de hypertexto pro devenir un vaste mar de experientias interactive. Le realitate virtual esseva sur le horizonte pro decades (al minus depost le publication de Lawnmower Man in 1992 e le Nintendo Virtual Boy in 1995), ma le web pote al fin apportar lo al massas. { -brand-name-firefox } ora ha le supporto al WebVR e A-Frame, que permitte al disveloppatores de rapidemente e facilemente construer sitos web de realitate virtual. Le major parte del moderne apparatos mobile supporta WebVR, e pote facilemente esser usate como bonettos con simple cassas de carton. Un realitate virtual 3D web, como illo que imaginava per scientia fiction le autor Neal Stephenson, pote esser justo detra le angulo. Un realitate virtual 3D web, como illo que imaginava per scientia fiction le autor Neal Stephenson, pote esser justo detra le angulo.
 browser-history-whatever-the-future = Qualcunque essera le futuro del web, { -brand-name-mozilla } e { -brand-name-firefox } sera illac pro le usatores, assecurante se que illes ha potente applicationes pro experimentar le web e tote illo que ha a offerer. Le web es pro totes e totes debe haber controlo de lor experientia online. Ecce perque nos da applicationes { -brand-name-firefox } pro proteger le confidentialitate del usator e nos jammais vende datos del usator a publicitarios.
 browser-history-resources = Ressources
 browser-history-take-control-of = Prende controlo de tu navigator.
