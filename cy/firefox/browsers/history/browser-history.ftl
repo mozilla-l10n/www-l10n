@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
@@ -48,6 +48,7 @@ browser-history-today-there-are = Heddiw, dim ond llond dwrn o ffyrdd sydd ar ga
 # Variables:
 #   $vr (url) - https://mixedreality.mozilla.org/
 browser-history-in-the-future-the = Yn y dyfodol, mae'n debygol y bydd y we yn crwydro ymhellach o'i wreiddiau hyperdestun i ddod yn fôr enfawr o brofiadau rhyngweithiol. Mae realiti rhithwir wedi bod ar y gorwel ers degawdau (o leiaf ers i Lawnmower Man gael ei ryddhau yn 1992 a'r Nintendo Virtual Boy ym 1995), ond efallai y bydd y we yn dod ag ef i'r dyrfa. Erbyn hyn mae gan { -brand-name-firefox } gefnogaeth ar gyfer <a href="{ $vr }">WebVR ac A-Frame</a>, sy'n gadael i ddatblygwyr adeiladu gwefannau rhith-realiti yn gyflym ac yn hawdd. Mae'r rhan fwyaf o gefnogaeth dyfeisiau symudol modern <a href="{ $vr }">WebVR</a>, a gellir eu defnyddio'n hawdd fel clustffonau gydag chas gardfwrdd syml. Gall gwe rhith-realiti 3D fel yr un sy'n cael ei dychmygu gan yr awdur ffuglen wyddonol Neal Stephenson fod rownd y gornel. Os felly, gall y porwr gwe ei hun ddiflannu'n llwyr a dod yn wir ffenestr i fyd arall.
+browser-history-in-the-future-the-v2 = Yn y dyfodol, mae'n debygol y bydd y we yn crwydro ymhellach o'i wreiddiau hyperdestun i ddod yn fôr enfawr o brofiadau rhyngweithiol. Mae realiti rhithwir wedi bod ar y gorwel ers degawdau (o leiaf ers i Lawnmower Man gael ei ryddhau yn 1992 a'r Nintendo Virtual Boy ym 1995), ond efallai y bydd y we yn dod ag ef i'r dorf. Erbyn hyn mae gan { -brand-name-firefox } gefnogaeth ar gyfer <a href="{ $vr }">WebVR ac A-Frame</a>, sy'n gadael i ddatblygwyr adeiladu gwefannau rhith-realiti yn gyflym ac yn hawdd. Mae'r rhan fwyaf o ddyfeisiau symudol modern yn cefnogi <a href="{ $vr }">WebVR</a>, ac mae modd eu defnyddio'n hawdd fel pensetiau gydag chas cardfwrdd syml. Gall gwe rhith-realiti 3D fel yr un sy'n cael ei dychmygu gan yr awdur ffuglen wyddonol Neal Stephenson fod rownd y gornel. Os felly, gall y porwr gwe ei hun ddiflannu'n llwyr a dod yn wir ffenestr i fyd arall.
 browser-history-whatever-the-future = Beth bynnag yw dyfodol y we, bydd { -brand-name-mozilla } a { -brand-name-firefox } ar gael ar gyfer defnyddwyr, gan sicrhau bod ganddyn nhw offer pwerus i brofi'r we a'r cyfan sydd ganddo i'w gynnig. Mae'r we ar gyfer pawb, a dylai pawb fod â rheolaeth dros eu profiad ar-lein. Dyna pam rydym yn gosod offer { -brand-name-firefox } i ddiogelu preifatrwydd defnyddwyr ac nid ydym byth yn gwerthu data defnyddwyr i hysbysebwyr.
 browser-history-resources = Adnoddau
 browser-history-take-control-of = Cymerwch reolaeth o'ch porwr.
