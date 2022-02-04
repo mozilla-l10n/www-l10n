@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
@@ -48,6 +48,7 @@ browser-history-today-there-are = { -brand-name-firefox }、{ -brand-name-google
 # Variables:
 #   $vr (url) - https://mixedreality.mozilla.org/
 browser-history-in-the-future-the = 在未来，Web 可能会跳脱原始的超文本，提供各式不同而广阔的互动式体验。虚拟现实已经出现了几十年（从 1992 年的《Lawnmower Man》 与 1995 年的任天堂 Virtual Boy 算起），但 Web 最可能将其带入大众。{ -brand-name-firefox } 已经支持 <a href="{ $vr }">WebVR 与 A-Frame</a>，可让开发者快速便捷地构建虚拟现实网站。大多数现代移动设备都支持 <a href="{ $vr }">WebVR</a>，可以将手机插入简单的纸盒中，变成 VR 头戴设备。由科幻小说家尼尔·斯蒂芬森（Neal Stephenson）所描绘的 3D 虚拟现实 Web 世界可能已经离我们不远。如果是这样的话，Web 浏览器可能会融入为另一个世界的真实入口。
+browser-history-in-the-future-the-v2 = 在未来，Web 可能会跳脱原始的超文本，提供各式不同而广阔的互动式体验。虚拟现实已经出现了几十年（从 1992 年的《割草者（Lawnmower Man）》 与 1995 年的任天堂 Virtual Boy 算起），但 Web 最可能将其带入大众。{ -brand-name-firefox } 已经支持 WebVR 与 A-Frame，可让开发者快速便捷地构建虚拟现实网站。大多数现代移动设备都支持 WebVR，可以将手机插入简单的纸盒中，变成 VR 头戴设备。由科幻小说家尼尔·斯蒂芬森（Neal Stephenson）所描绘的 3D 虚拟现实 Web 世界可能已经离我们不远。如果是这样的话，网页浏览器可能会融入为另一个世界的真实入口。
 browser-history-whatever-the-future = 无论 Web 未来如何发展，{ -brand-name-mozilla } 与 { -brand-name-firefox } 都将坚持为用户提供服务，确保用户拥有强大的工具来遨游网络。我们相信 Web 是属于所有人的，每个人都有权掌控自己的上网体验。这也是为什么我们在 { -brand-name-firefox } 中提供各种能够保护用户隐私的工具，并且我们绝不会向广告商出售用户数据。
 browser-history-resources = 资源
 browser-history-take-control-of = 掌控您的浏览器。
