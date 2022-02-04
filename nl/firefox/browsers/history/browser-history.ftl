@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
@@ -48,6 +48,7 @@ browser-history-today-there-are = Tegenwoordig is er slechts een handjevol manie
 # Variables:
 #   $vr (url) - https://mixedreality.mozilla.org/
 browser-history-in-the-future-the = In de toekomst zal het web waarschijnlijk verder van zijn hypertekstwortels afdwalen en een enorm aanbod van interactieve ervaringen worden. Virtual reality is al tientallen jaren een opkomende technologie (in ieder geval sinds de uitgave van Lawnmower Man in 1992 en de Nintendo Virtual Boy in 1995), maar het internet kan het eindelijk naar de massa brengen. { -brand-name-firefox } biedt nu ondersteuning voor <a href="{ $vr }">WebVR en A-Frame</a>, waarmee ontwikkelaars snel en eenvoudig virtual reality-websites kunnen bouwen. De meeste moderne mobiele apparaten ondersteunen <a href="{ $vr }">WebVR</a> en kunnen met eenvoudige kartonnen doosjes gemakkelijk worden gebruikt als headsets. Een 3D virtual reality-web zoals dat door sciencefictionauteur Neal Stephenson werd voorgesteld, ligt misschien om de hoek. Als dat het geval is, kan de webbrowser zelf volledig verdwijnen en een echt venster naar een andere wereld worden.
+browser-history-in-the-future-the-v2 = In de toekomst zal het web waarschijnlijk verder van zijn hypertekstwortels afdwalen en een enorm aanbod van interactieve ervaringen worden. Virtual reality is al tientallen jaren een opkomende technologie (in ieder geval sinds de uitgave van Lawnmower Man in 1992 en de Nintendo Virtual Boy in 1995), maar het internet kan het eindelijk naar de massa brengen. { -brand-name-firefox } biedt nu ondersteuning voor WebVR en A-Frame, waarmee ontwikkelaars snel en eenvoudig virtual reality-websites kunnen bouwen. De meeste moderne mobiele apparaten ondersteunen WebVR en kunnen met eenvoudige kartonnen doosjes gemakkelijk worden gebruikt als headsets. Een 3D virtual reality-web zoals dat door sciencefictionauteur Neal Stephenson werd voorgesteld, ligt misschien om de hoek. Als dat het geval is, kan de webbrowser zelf volledig verdwijnen en een echt venster naar een andere wereld worden.
 browser-history-whatever-the-future = Wat de toekomst van het web ook in petto heeft, { -brand-name-mozilla } en { -brand-name-firefox } zullen er zijn voor gebruikers, zodat ze over krachtige hulpmiddelen beschikken om het internet en alles wat het te bieden heeft te ervaren. Het internet is voor iedereen, en iedereen zou grip moeten hebben op zijn of haar online ervaring. Daarom geven we { -brand-name-firefox } hulpmiddelen om de privacy van gebruikers te beschermen en verkopen we nooit gebruikersgegevens aan adverteerders.
 browser-history-resources = Bronnen
 browser-history-take-control-of = Neem de controle over uw browser.
