@@ -1,12 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } 桌面板（PC 與筆記型電腦）
+# Desktop strings
+vpn-desktop-hero-headline = 使用 { -brand-name-mozilla-vpn } 保護您在桌機的網路連線
 vpn-desktop-wifi-headline = 使用公共 Wi-Fi 時也能高枕無憂
 vpn-desktop-about-headline = 關於 { -brand-name-mozilla }
 vpn-desktop-privacy-headline = 輕鬆一點就開啟隱私保護
