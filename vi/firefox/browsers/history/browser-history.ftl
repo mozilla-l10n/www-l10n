@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
@@ -48,6 +48,7 @@ browser-history-today-there-are = Ngày nay chỉ có một số cách để tru
 # Variables:
 #   $vr (url) - https://mixedreality.mozilla.org/
 browser-history-in-the-future-the = Trong tương lai, web có thể sẽ đi xa hơn khỏi nguồn gốc siêu văn bản của nó để trở thành một biển trải nghiệm tương tác rộng lớn. Thực tế ảo đã xuất hiện trong nhiều thập kỷ (ít nhất là kể từ khi phát hành Lawnmower Man vào năm 1992 và Nintendo Virtual Boy vào năm 1995), nhưng cuối cùng web cũng có thể đưa nó đến với đại chúng. { -brand-name-firefox } hiện đã hỗ trợ <a href="{ $vr }">WebVR và A-Frame</a>, cho phép các nhà phát triển nhanh chóng và dễ dàng xây dựng các trang web thực tế ảo. Hầu hết các thiết bị di động hiện đại đều hỗ trợ <a href="{ $vr }">WebVR</a> và có thể dễ dàng được sử dụng làm tai nghe với hộp các tông đơn giản. Một web thực tế ảo 3D giống như web mà tác giả khoa học viễn tưởng Neal Stephenson tưởng tượng có thể đang ở gần đây. Nếu đúng như vậy, bản thân trình duyệt web có thể hoàn toàn biến mất và trở thành một cửa sổ thực sự vào một thế giới khác.
+browser-history-in-the-future-the-v2 = Trong tương lai, web có thể sẽ đi xa hơn khỏi nguồn gốc siêu văn bản của nó để trở thành một biển trải nghiệm tương tác rộng lớn. Thực tế ảo đã xuất hiện trong nhiều thập kỷ (ít nhất là kể từ khi phát hành Lawnmower Man vào năm 1992 và Nintendo Virtual Boy vào năm 1995), nhưng cuối cùng web cũng có thể đưa nó đến với đại chúng. { -brand-name-firefox } hiện đã hỗ trợ WebVR và A-Frame, cho phép các nhà phát triển nhanh chóng và dễ dàng xây dựng các trang web thực tế ảo. Hầu hết các thiết bị di động hiện đại đều hỗ trợ WebVR và có thể dễ dàng được sử dụng làm tai nghe với hộp các tông đơn giản. Một web thực tế ảo 3D giống như web mà tác giả khoa học viễn tưởng Neal Stephenson tưởng tượng có thể đang ở gần đây. Nếu đúng như vậy, bản thân trình duyệt web có thể hoàn toàn biến mất và trở thành một cửa sổ thực sự vào một thế giới khác.
 browser-history-whatever-the-future = Dù tương lai của web có ra sao, { -brand-name-mozilla } và { -brand-name-firefox } sẽ ở đó cho người dùng, đảm bảo rằng họ có các công cụ mạnh mẽ để trải nghiệm web và tất cả những gì nó cung cấp. Trang web dành cho tất cả mọi người và mọi người nên có quyền kiểm soát trải nghiệm trực tuyến của họ. Đó là lý do tại sao chúng tôi cung cấp cho { -brand-name-firefox } các công cụ để bảo vệ quyền riêng tư của người dùng và chúng tôi không bao giờ bán dữ liệu người dùng cho các nhà quảng cáo.
 browser-history-resources = Tài nguyên
 browser-history-take-control-of = Kiểm soát trình duyệt của bạn.
