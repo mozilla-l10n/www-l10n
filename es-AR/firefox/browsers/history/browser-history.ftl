@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
@@ -48,6 +48,7 @@ browser-history-today-there-are = Hoy hay un puñado de formas de acceder a inte
 # Variables:
 #   $vr (url) - https://mixedreality.mozilla.org/
 browser-history-in-the-future-the = En el futuro, la web probablemente se aleje más todavía de sus raíces hipertextuales para transformarse en un vasto mar de experiencias interactivas. La realidad virtual ha estado en el horizonte por décadas (al menos desde el estreno de El Hombre Del Jardín en 1992 y el Nintendo Virtual Boy en 1995), pero la web puede finalmente hacerla llegar a las masas. { -brand-name-firefox } ahora tiene soporte para <a href="{ $vr }">WebVR y A-Frame</a>, que permiten a los desarrolladores rápida y fácilmente construir sitios web de realidad virtual. La mayor parte de los dispositivos móviles sopora <a href="{ $vr }">WebVR</a> y puede ser fácilmente usado con headsets hechos con cartón. Una web de realidad virtual 3D como la que imaginó el autor de ciencia ficción Neal Stephenson puede estar a la vuelta de la esquina. Si ese es el caso, el navegador web quizás desaparezca y se convierta en una verdadera ventana a otro mundo.
+browser-history-in-the-future-the-v2 = En el futuro, la web probablemente se aleje más todavía de sus raíces hipertextuales para transformarse en un vasto mar de experiencias interactivas. La realidad virtual estuvo en el horizonte durante décadas (al menos desde el estreno de El Hombre Del Jardín en 1992 y el Nintendo Virtual Boy en 1995), pero la web podría finalmente hacerla llegar a las masas. { -brand-name-firefox } ahora es compatible con la WebVR y A-Frame, que permiten a los desarrolladores  construir sitios web de realidad virtual con facilida y rapidez. La mayor parte de los dispositivos móviles es compatible con la WebVR y pueden usarse simplemente como auriculaeres con micrófono hechos de cartón. Una web de realidad virtual 3D como la que imaginó el autor de ciencia ficción Neal Stephenson puede estar a la vuelta de la esquina. Si ese es el caso, el navegador web en sí mismo quizás desaparezca y se convierta en una verdadera ventana a otro mundo.
 browser-history-whatever-the-future = Sea cual sea el futuro de la web, { -brand-name-mozilla } y { -brand-name-firefox } estarán ahí para los usuarios, asegurando que tengan herramientas poderosas para experimentar la web todo lo que tenga para ofrecer. La web es para todos y cada uno debería tener control de su experiencia en línea. Es por eso que damos herramientas de { -brand-name-firefox } para proteger la privacidad del usuario y nunca venderemos datos del usuario a empresas de publicidad.
 browser-history-resources = Recursos
 browser-history-take-control-of = Tomá el control de tu navegador.
