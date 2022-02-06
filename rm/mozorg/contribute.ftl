@@ -45,9 +45,12 @@ contribute-opportunities = Novitads e pussaivladads per voluntaris
 ## Made by
 
 contribute-made-by-heading = Realisà da glieud passiunada sco ti
+contribute-made-by-desc = Sche ti contribueschas a { -brand-name-mozilla }, daventas ti ina part dad ina cuminanza mundiala da persunas ch'èn persvasas ch'i tutga a nus tuts da procurar che l'internet restia ina forza positiva.
+contribute-made-by-desc-cont = Nus crajain che la collavuraziun en la cuminanza saja essenziala per crear in internet ch'è multifar, innovativ e responsabel per quellas persunas ch'al dovran il pli fitg. I na dependa betg sche ti has experientschas professiunalas en il mund da la tecnologia, en l'organisaziun dad ina communitad u sche ti has simplamain in computer ed in pau temp liber – ti pos gidar per che l'internet daventia in meglier lieu.
 
 ## Newsletter
 
+contribute-newsletter-heading = Es ti anc indecis?
 
 ## Support
 
