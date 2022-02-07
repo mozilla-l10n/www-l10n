@@ -51,9 +51,12 @@ contribute-made-by-desc-cont = Nus crajain che la collavuraziun en la cuminanza 
 ## Newsletter
 
 contribute-newsletter-heading = Es ti anc indecis?
+contribute-newsletter-sub-heading = Obtegna novitads davart cuminanza e collavuraziun en tia posta entrada
+contribute-newsletter-desc = Abunescha noss newsletter, inscuntra Mozillians da tut il mund e ve a savair dapli davart las pussaivladads effectivas da sustegnair l'idea da { -brand-name-mozilla }.
 
 ## Support
 
+contribute-support-heading = Dumonda agid
 
 ## Web compat
 
