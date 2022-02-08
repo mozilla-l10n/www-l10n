@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Prenesite { -brand-name-firefox }
 navigation-get-a-firefox-account = Ustvarite { -brand-name-firefox-account }
@@ -51,7 +51,7 @@ navigation-mozilla-brings-firefox = { -brand-name-mozilla } prinaša { -brand-na
 navigation-firefox-built-just-for = { -brand-name-firefox }, ustvarjen samo za razvijalce.
 navigation-preview-the-latest-build = Pokukajte v najnovejšo izgradnjo { -brand-name-firefox }a in nam jo pomagajte izpopolniti.
 navigation-firefox-playground = Igrišče { -brand-name-firefox }
-navigation-mozilla-open-source-support = Mozillina podpora odprtim virom (MOSS)
+navigation-mozilla-open-source-support = Mozillina podpora odprti kodi (MOSS)
 navigation-mozilla-manifesto = Manifest { -brand-name-mozilla(sklon: "rodilnik") }
 navigation-menu = Meni
 navigation-check-out-the-benefits = Oglejte si ugodnosti

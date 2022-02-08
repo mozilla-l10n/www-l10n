@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -23,6 +23,7 @@ how-do-i = Kako dobim { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Brskalnik { -brand-name-firefox } za namizne računalnike lahko prenesete <a href="{ $url }">tukaj.</a> { -brand-name-firefox } deluje na napravah s sistemom <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> ali <a href="{ $url4 }">{ -brand-name-linux }</a>, na voljo pa je tudi za <a href="{ $url5 }">{ -brand-name-android } in { -brand-name-ios }.</a> Naš brskalnik vedno prenesite z ene od uradnih, zaupanja vrednih strani { -brand-name-mozilla(sklon: "rodilnik") } ali { -brand-name-firefox(sklon: "rodilnik") }.
 is-firefox-free = Je { -brand-name-firefox } brezplačen?
 yep-the-firefox = Je! { -brand-name-firefox-browser } je brezplačen. Pravzaprav več kot brezplačen. Nobenih skritih računov. Za njegovo uporabo ne plačate nič in mi ne prodajamo vaših osebnih podatkov.
 related-questions-free = Povezana vprašanja: ali je { -brand-name-firefox-browser } brezplačen, ali { -brand-name-firefox } stane

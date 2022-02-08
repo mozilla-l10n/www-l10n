@@ -9,6 +9,7 @@
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Zaščitite svojo celotno napravo
 # Obsolete string
 vpn-landing-hero-sub-heading = Varnost, na katero se lahko zanesete. Ime, ki mu lahko zaupate.
+vpn-landing-hero-desc = Navidezno zasebno omrežje, ki so ga ustvarili izdelovalci { -brand-name-firefox(sklon: "rodilnik") }.
 vpn-landing-privacy-heading = En dotik do zasebnosti
 vpn-landing-fast-secure-heading = Hitro in varno omrežje
 
@@ -16,6 +17,9 @@ vpn-landing-fast-secure-heading = Hitro in varno omrežje
 
 vpn-landing-faq-heading = Pogosta vprašanja
 vpn-langing-faq-uses-question-heading = Kaj je VPN in za kaj se uporablja?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Oglejte si <a href="{ $url }">pet življenjskih situacij</a>, v katerih bi na svoji napravi želeli VPN.
 vpn-landing-faq-info-question-heading = Katere podatke { -brand-name-mozilla-vpn } shranjuje?
 vpn-landing-faq-protected-question-heading = Kako je zaščitena moja zasebnost?
 vpn-landing-faq-competition-question-heading = Kakšen je { -brand-name-mozilla-vpn } v primerjavi s konkurenco?

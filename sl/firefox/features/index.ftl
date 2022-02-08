@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -18,6 +18,7 @@ features-index-see-all = Prikaži vse razširitve
 features-index-give-your-browser = Nadenite Firefoxu poseben videz  s tisoči različnih tem.
 features-index-important-stuff = Poskrbite, da vam bodo vse pomembne stvari – spletna iskanja, gesla, odprti zavihki – na voljo tam, kjer jih potrebujete, na vsaki napravi.
 features-index-get-an-account = Ustvarite { -brand-name-firefox-account }
+features-index-use-the-bookmark = Ikona zvezdice vam pomaga, da ostanete organizirani in zaznamke hitro uredite po imenih in mapah.
 features-index-from-the-company = Iz podjetja, ki postavlja ljudi pred dobiček
 features-index-private-browsing-mode = Način zasebnega brskanja izbriše podatke piškotkov in vašo zgodovino brskanja vsakič, ko ga zaprete.
 features-index-firefox-automatically = { -brand-name-firefox } samodejno preprečuje več kot 2000 oglaševalskim sledilcem, da bi vam sledili po spletu.

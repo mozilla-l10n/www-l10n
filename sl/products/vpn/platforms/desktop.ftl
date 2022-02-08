@@ -7,6 +7,8 @@
 
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } za namizja (osebne in prenosne računalnike)
+# Desktop strings
+vpn-desktop-hero-headline = Zavarujte svojo internetno povezavo z { -brand-name-mozilla-vpn } za namizja
 vpn-desktop-wifi-headline = Počutite se varno na javnih omrežjih WiFi
 vpn-desktop-about-headline = O { -brand-name-mozilla(sklon: "mestnik") }
 vpn-desktop-privacy-headline = Zasebnost z enim klikom
