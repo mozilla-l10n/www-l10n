@@ -22,6 +22,13 @@ vpn-landing-fast-secure-heading = Ina rait svelta e segira
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } sa basa sin ina rait globala da servers. Nus criptain tia activitad en la rait e zuppain tia adressa IP cun agid dal protocol il pli avanzà <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>. Nus na registrain, fastizain u cundividain mai questas datas.
+# Obsolete string
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } sa basa sin ina rait globala da servers gestiunads da <a href="{ $mullvad }" { $attrs } >{ -brand-name-mullvad }</a>. Nus criptain tia activitad en la rait e zuppain tia adressa IP cun agid dal protocol il pli avanzà <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>. Nus na registrain, fastizain u cundividain mai questas datas.
+vpn-landing-brand-trust-heading = In VPN dad ina marca da la quala ti pos ta fidar
 
 ## FAQ section
 
