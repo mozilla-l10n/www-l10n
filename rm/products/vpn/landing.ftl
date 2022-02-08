@@ -29,9 +29,13 @@ vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } sa basa sin ina ra
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } sa basa sin ina rait globala da servers gestiunads da <a href="{ $mullvad }" { $attrs } >{ -brand-name-mullvad }</a>. Nus criptain tia activitad en la rait e zuppain tia adressa IP cun agid dal protocol il pli avanzà <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>. Nus na registrain, fastizain u cundividain mai questas datas.
 vpn-landing-brand-trust-heading = In VPN dad ina marca da la quala ti pos ta fidar
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = { -brand-name-mozilla } cumbatta dapi passa 20 onns per la protecziun da datas en l'internet e dat adina la prioritad a las persunas. Nus vegnin sustegnids dad in'organisaziun senza finamira da profit ed ans engaschain per in internet meglier e pli saun per tuts. Tut quai che nus faschain è part da nossa missiun e s'orientescha a noss <a href="{ $url }">princips</a>.
 
 ## FAQ section
 
+vpn-landing-faq-heading = Dumondas frequentas
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
