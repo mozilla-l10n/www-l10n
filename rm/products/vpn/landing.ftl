@@ -36,6 +36,7 @@ vpn-landing-brand-trust-desc = { -brand-name-mozilla } cumbatta dapi passa 20 on
 ## FAQ section
 
 vpn-landing-faq-heading = Dumondas frequentas
+vpn-langing-faq-uses-question-heading = Tge è in VPN ed a tge serva el?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
