@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -14,6 +14,7 @@ firefox-has-been = { -brand-name-firefox } obstaja že skoraj od samega začetka
 firefox-rebel-with = { -brand-name-firefox }: upornik z razlogom
 firefox-is-independent = { -brand-name-firefox } je neodvisen in pod okriljem neprofitne organizacije { -brand-name-mozilla }, ki se bori za vaše pravice na spletu in dela internet dostopen vsakomur, povsod.
 what-is-a = Kaj je spletni brskalnik?
+a-web-browser = Spletni brskalnik je program, ki vas ponese po internetu in vam omogoča ogled besedil, slik in videoposnetkov od koderkoli na svetu.
 update-your-browser = Posodobite svoj brskalnik na hitri in varni { -brand-name-firefox }.
 firefox-is-more = { -brand-name-firefox } je več kot le brskalnik
 get-the-browsers = Izberite brskalnike, ki na prvo mesto postavljajo vašo zasebnost – kot vedno
