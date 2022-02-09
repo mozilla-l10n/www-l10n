@@ -53,7 +53,12 @@ vpn-landing-faq-info-question-heading = Tge infurmaziuns arcuna { -brand-name-mo
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
-vpn-landing-faq-info-question-desc-v2 = Nus observain strictamain ils <a href="{ $principles }">princips da la protecziun da datas</a> da { -brand-name-mozilla } e nus ramassain las datas necessarias per mantegnair en funcziun il VPN e per optimar cuntinuadamain il product. Nus registrain era datas da campagnas e da recumandaziuns en nossa applicaziun mobila per gidar { -brand-name-mozilla } da chapir l'effect da nossas campagnas da marketing. Ve a savair dapli en nossa <a href="{ $notice }">decleraziun davart la protecziun da datas</a>.
+vpn-landing-faq-info-question-desc-v2 = Nus observain strictamain ils <a href="{ $principles }">princips da la protecziun da datas</a> da { -brand-name-mozilla } e nus ramassain las datas necessarias per garantir il funcziunament dal VPN e per optimar cuntinuadamain il product. Nus registrain era datas da campagnas e da recumandaziuns en nossa applicaziun mobila per gidar { -brand-name-mozilla } da chapir l'effect da nossas campagnas da marketing. Ve a savair dapli en nossa <a href="{ $notice }">decleraziun davart la protecziun da datas</a>.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Nus na registrain, fastizain u cundividain naginas da tias activitads en la rait. Nus resguardain strictamain ils <a href="{ $url }">princips da la protecziun da datas</a> da { -brand-name-mozilla } e nus ramassain sulettamain las datas necessarias per garantir il funcziunament dal VPN e per optimar cuntinuadamain il product.
+vpn-landing-faq-protected-question-heading = Co vegn protegida mia sfera privata?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
