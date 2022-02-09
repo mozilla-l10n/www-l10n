@@ -37,6 +37,14 @@ vpn-landing-brand-trust-desc = { -brand-name-mozilla } cumbatta dapi passa 20 on
 
 vpn-landing-faq-heading = Dumondas frequentas
 vpn-langing-faq-uses-question-heading = Tge è in VPN ed a tge serva el?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Essend che l'internet dominescha adina pli fitg nossa vita da mintgadi, daventan era la protecziun da datas e la segirezza online adina pli impurtantas. In <a href="{ $url }">VPN</a>, ina rait virtuala privata, serva per etablir ina connexiun segira e privata cun l'internet. Quella funcziunescha uschia ch'ella creescha in «tunnel» tranter tes apparat e l'internet e ta protegia en dus reguards impurtants:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = El zuppa tia <a href="{ $url }">adressa IP</a>. Quai protegia tia identitad e renda nunvisibla tia posiziun actuala.
+# Obsolete string
+vpn-landing-faq-uses-conceal = Ella zuppa tia adressa IP. Quai protegia tia identitad e renda nunvisibla tia posiziun actuala.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
