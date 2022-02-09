@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: brskalnik za zasebnost
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } je vaš namenski zasebni brskalnik s samodejno zaščito pred sledenjem in zavračanjem oglasov.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Preprosto zasebno mobilno brskanje
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } je na voljo tako za naprave { -brand-name-ios } kot { -brand-name-android }.
