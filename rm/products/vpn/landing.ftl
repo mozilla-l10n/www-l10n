@@ -45,6 +45,10 @@ vpn-landing-faq-uses-question-desc = Essend che l'internet dominescha adina pli 
 vpn-landing-faq-uses-conceal-v2 = El zuppa tia <a href="{ $url }">adressa IP</a>. Quai protegia tia identitad e renda nunvisibla tia posiziun actuala.
 # Obsolete string
 vpn-landing-faq-uses-conceal = Ella zuppa tia adressa IP. Quai protegia tia identitad e renda nunvisibla tia posiziun actuala.
+vpn-landing-faq-uses-encrypt = El criptescha il traffic da datas tranter tai e tes purschider da VPN uschia che nagin en tia rait locala n'al po decriptar u modifitgar.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Dà in'egliada a <a href="{ $url }">tschintg exempels da la vita reala</a> en ils quals ti pudessas duvrar in VPN sin tes apparat.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
