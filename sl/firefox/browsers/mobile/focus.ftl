@@ -19,6 +19,8 @@ mobile-focus-scan-alt-text = Skenirajte kodo QR za prenos { -brand-name-firefox-
 # Outdated string
 mobile-focus-disappear-your-history = Razblinite svojo zgodovino
 mobile-focus-delete-your-history = Izbrišite svojo zgodovino
+# Outdated string
+mobile-focus-private-browsing-on = "Zasebno brskanje" v večini brskalnikov pravzaprav ni tako zelo zasebno. { -brand-name-firefox-focus } je korak pred njimi in vam ponuja samodejno zasebnost, pri čemer ga podpira { -brand-name-mozilla }, neprofitna organizacija, ki se bori za vaše pravice na spletu.
 mobile-focus-tracking-protection = Zaščita pred sledenjem
 mobile-focus-ad-blocking = Zavračanje oglasov
 mobile-focus-we-believe-everyone = Verjamemo, da bi moral vsakdo imeti nadzor nad svojim spletnim življenjem. Za to se borimo že od leta 1998.
