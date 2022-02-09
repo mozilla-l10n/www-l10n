@@ -116,6 +116,7 @@ firefox-desktop-download-sync-your-devices = Sinhronizirajte svoje naprave
 firefox-desktop-download-screenshots = Posnetki zaslona
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Izboljšana zaščita pred sledenjem
+firefox-desktop-download-from-watching-a = Od priročnika z YouTuba do vaše priljubljene serije – video vam sledi, ko se premikate med stranmi in med programi.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Prenesite { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Prenesite { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
@@ -134,6 +135,9 @@ firefox-desktop-download-as-the-internet = Medtem ko internet raste in se spremi
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je na voljo za vse vaše naprave. Vzemite zavihke, zgodovino in zaznamke s seboj – vse, kar potrebujete, je <a { $attrs }>{ -brand-name-firefox } Račun</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Zajemite sliko česarkoli na spletu z orodjem za <a { $attrs }>posnetke zaslona</a>, vgrajenim naravnost v brskalnik
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } samodejno <a { $attrs }>preprečuje množici spletnih sledilcev</a>, da bi zbirali in prodajali podatke o vaši spletni dejavnosti.

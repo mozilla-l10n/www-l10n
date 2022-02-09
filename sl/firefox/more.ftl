@@ -49,6 +49,7 @@ the-ad-blocker = Orodje za zavračanje oglasov – skrivno orožje proti nadlež
 so-many-ads = Tako veliko oglasov, tako malo potrpljenja ... Čas je, da ustavimo norost.
 firefox-more-protection = { -brand-name-firefox }: Več zaščite. Manj skrbi.
 were-obsessed-with = Varovanje vaše zasebnosti nam je zelo pomembno. Zato je { -brand-name-firefox }ovo zasebno brskanje zmogljivejše od kateregakoli drugega.
+incognito-browser-what = Inkognito brskalnik: kaj to v resnici pomeni
 firefox-calls-it = { -brand-name-firefox } to imenuje zasebno brskanje, { -brand-name-chrome } pa način brez beleženja zgodovine. Oba vam omogočata brskanje po spletu brez shranjevanja zgodovine brskanja.
 building-a-safe = Razvoj varnega brskalnika je umetnost in znanost, ker ni določenih pravil.
 firefox-more-fingerprinter-blocking = Zavračanje sledilcev prstnih odtisov

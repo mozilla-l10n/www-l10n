@@ -18,6 +18,7 @@ mobile-ios-scan-alt-text = Skenirajte kodo QR za prenos { -brand-name-firefox(sk
 mobile-ios-make-firefox-your = Nastavite { -brand-name-firefox } kot privzeti brskalnik
 mobile-ios-now-iphone-and = Uporabniki naprav { -brand-name-iphone } in { -brand-name-ipad } lahko sedaj izbirajo svoj privzeti brskalnik. To pomeni, da niste obsojeni na uporabo { -brand-name-safari(sklon: "rodilnik") } in da lahko svoj mobilni brskalnik sinhronizirate s priljubljenim brskalnikom na računalniku. In ne samo to: ko nastavite { -brand-name-firefox(sklon: "tožilnik") } za privzet brskalnik, podprete neodvisno tehnološko podjetje. { -brand-name-firefox } je edini veliki spletni brskalnik, za katerim stoji neprofitna organizacija.
 mobile-ios-fast-private-secure = Hiter. Zaseben. Varen
+mobile-ios-stay-private-online = Zaščitite svojo zasebnost na spletu
 mobile-ios-your-browsing-history = Vaša zgodovina brskanja je zgodovina
 mobile-ios-own-your-home = Obvladajte domači zaslon
 mobile-ios-get-to-the-parts = Skrajšajte si pot do spletnih mest, ki so vam pomembna. Izberite prikaz vseh odprtih zavihkov, nedavnih iskanj, zaznamkov in priljubljenih strani na enem mestu.

@@ -18,6 +18,8 @@ contribute-how-heading = Kako lahko prispevate …
 contribute-tag-non-technical = Netehnično
 contribute-tag-technical = Tehnično
 contribute-tag-technical-non-technical = Tehnično in netehnično
+contribute-tag-individual-event = Kot posameznik in organizacija dogodkov
+contribute-tag-individual = Kot posameznik
 contribute-tag-support = Podpora
 contribute-task-translate-heading = Prevedite vsebino
 contribute-task-translate-desc = Internet je globalen le, če ga povsod razumejo. Pomagajte nam prevesti izdelke in spletna mesta { -brand-name-mozilla(sklon: "rodilnik") } v svoj jezik.
@@ -41,6 +43,7 @@ contribute-opportunities = Novice in priložnosti za prostovoljce
 
 ## Made by
 
+contribute-made-by-heading = Delo strastnih ljudi, kot ste vi
 contribute-made-by-desc = S sodelovanjem pri { -brand-name-mozilla(sklon: "mestnik") } postanete del skupnosti, ki jo sestavljajo ljudje z vsega sveta s prepričanjem, da je usoda interneta v rokah vseh nas.
 
 ## Newsletter
