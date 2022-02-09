@@ -49,6 +49,11 @@ vpn-landing-faq-uses-encrypt = El criptescha il traffic da datas tranter tai e t
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Dà in'egliada a <a href="{ $url }">tschintg exempels da la vita reala</a> en ils quals ti pudessas duvrar in VPN sin tes apparat.
+vpn-landing-faq-info-question-heading = Tge infurmaziuns arcuna { -brand-name-mozilla-vpn }?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Nus observain strictamain ils <a href="{ $principles }">princips da la protecziun da datas</a> da { -brand-name-mozilla } e nus ramassain las datas necessarias per mantegnair en funcziun il VPN e per optimar cuntinuadamain il product. Nus registrain era datas da campagnas e da recumandaziuns en nossa applicaziun mobila per gidar { -brand-name-mozilla } da chapir l'effect da nossas campagnas da marketing. Ve a savair dapli en nossa <a href="{ $notice }">decleraziun davart la protecziun da datas</a>.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
