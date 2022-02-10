@@ -63,21 +63,69 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $sklon ->
-       *[imenovalnik] brskalnik Firefox
-        [rodilnik] brskalnika Firefox
-        [dajalnik] brskalniku Firefox
-        [tozilnik] brskalnik Firefox
-        [mestnik] brskalniku Firefox
-        [orodnik] brskalnikom Firefox
+       *[imenovalnik]
+            { $zacetnica ->
+                [velika] Brskalnik Firefox
+               *[mala] brskalnik Firefox
+            }
+        [rodilnik]
+            { $zacetnica ->
+                [velika] Brskalnika Firefox
+               *[mala] brskalnika Firefox
+            }
+        [dajalnik]
+            { $zacetnica ->
+                [velika] Brskalniku Firefox
+               *[mala] brskalniku Firefox
+            }
+        [tozilnik]
+            { $zacetnica ->
+                [velika] Brskalnik Firefox
+               *[mala] brskalnik Firefox
+            }
+        [mestnik]
+            { $zacetnica ->
+                [velika] Brskalniku Firefox
+               *[mala] brskalniku Firefox
+            }
+        [orodnik]
+            { $zacetnica ->
+                [velika] Brskalnikom Firefox
+               *[mala] brskalnikom Firefox
+            }
     }
 -brand-name-firefox-browsers =
     { $sklon ->
-       *[imenovalnik] Brskalniki Firefox
-        [rodilnik] Brskalnikov Firefox
-        [dajalnik] Brskalnikom Firefox
-        [tozilnik] Brskalnike Firefox
-        [mestnik] Brskalnikih Firefox
-        [orodnik] Brskalniki Firefox
+       *[imenovalnik]
+            { $zacetnica ->
+                [velika] Brskalniki Firefox
+               *[mala] brskalniki Firefox
+            }
+        [rodilnik]
+            { $zacetnica ->
+                [velika] Brskalnikov Firefox
+               *[mala] brskalnikov Firefox
+            }
+        [dajalnik]
+            { $zacetnica ->
+                [velika] Brskalnikom Firefox
+               *[mala] brskalnikom Firefox
+            }
+        [tozilnik]
+            { $zacetnica ->
+                [velika] Brskalnike Firefox
+               *[mala] brskalnike Firefox
+            }
+        [mestnik]
+            { $zacetnica ->
+                [velika] Brskalnikih Firefox
+               *[mala] brskalnikih Firefox
+            }
+        [orodnik]
+            { $zacetnica ->
+                [velika] Brskalniki Firefox
+               *[mala] brskalniki Firefox
+            }
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise

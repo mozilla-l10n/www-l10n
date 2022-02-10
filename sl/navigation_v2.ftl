@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Prenesite { -brand-name-firefox }
@@ -27,7 +27,7 @@ navigation-v2-firefox-blog = Blog { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Preberite o najnovejših značilnostih { -brand-name-firefox }a in načinih, kako ostati varni na spletu.
 navigation-v2-release-notes = Opombe ob izdaji
 navigation-v2-get-the-details-on-the = Oglejte si podrobnosti o najnovejših posodobitvah { -brand-name-firefox(sklon: "rodilnik") }.
-navigation-v2-view-all-firefox-browsers = Oglej si vse { -brand-name-firefox-browsers(sklon: "tožilnik") }
+navigation-v2-view-all-firefox-browsers = Oglej si vse { -brand-name-firefox-browsers(sklon: "tozilnik") }
 
 ## Products menu
 
