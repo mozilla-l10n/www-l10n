@@ -127,9 +127,14 @@ vpn-landing-faq-refund-question-additional-desc = Sche ti cumpras tes abunament 
 # Outdated string
 vpn-landing-faq-refund-question-desc = Ti pos dumandar ina restituziun entaifer 30 dis suenter avair cumprà tes abunament. Ans contactescha ed inoltrescha tia dumonda da restituziun cun tutgar il buttun dad agid en ils parameters da tia applicaziun da { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Co poss jau administrar mes abunament?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Sche ti utiliseschas gia { -brand-name-mozilla-vpn } pos ti midar tes plan u <a href="{ $url }">administrar tes abunament</a> da tut temp.
+vpn-landing-faq-link = Ulteriuras dumondas frequentas
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = T'inscriva en la glista da spetga: { -brand-name-mozilla-vpn }
 
 ##
 
