@@ -124,6 +124,9 @@ vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (mo { 
 vpn-landing-faq-refund-question-heading = Tge reglas ha { -brand-name-mozilla-vpn } per la restituziun?
 vpn-landing-faq-refund-question-desc-v2 = L'emprima giada che ti abuneschas { -brand-name-mozilla-vpn } via la website da { -brand-name-mozilla } pos ti dumandar ina restituziun sche ti annulleschas tes conto entaifer ils emprims 30 dis. { -brand-name-mozilla } vegn a restituir l'import da l'emprima perioda da tes abunament.
 vpn-landing-faq-refund-question-additional-desc = Sche ti cumpras tes abunament via ina cumpra in-app da l'{ -brand-name-app-store } dad { -brand-name-apple } u il { -brand-name-google-play } Store è tes pajament suttamess a las directivas e cundiziuns da l'{ -brand-name-app-store }. Ti stos inoltrar eventualas dumondas che pertutgan la facturaziun u restituziun dad ina tala cumpra tar { -brand-name-apple } u { -brand-name-google }.
+# Outdated string
+vpn-landing-faq-refund-question-desc = Ti pos dumandar ina restituziun entaifer 30 dis suenter avair cumprà tes abunament. Ans contactescha ed inoltrescha tia dumonda da restituziun cun tutgar il buttun dad agid en ils parameters da tia applicaziun da { -brand-name-mozilla-vpn }.
+vpn-landing-faq-manage-subscription-question-heading = Co poss jau administrar mes abunament?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
