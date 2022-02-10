@@ -14,7 +14,7 @@ what-is-firefox = Kaj je { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } je edini večji brskalnik, za katerim stoji neprofitna organizacija, ki vaših osebnih podatkov ne prodaja oglaševalcem in vam pomaga ščititi svoje podatke. Preberite več o <a href="{ $url }">{ -brand-name-firefox-browsers(sklon: "mestnik") }</a> in o <a href="{ $url2 }">ostalih izdelkih</a>.
-how-do-i = Kako dobim { -brand-name-firefox-browser }?
+how-do-i = Kako dobim { -brand-name-firefox-browser(sklon: "tozilnik") }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/

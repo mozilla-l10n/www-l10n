@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je noro hiter brskalnik, ki ponuja najsodobnejša orodja za razvijalce in najnovejše možnosti, kot je podpora za mreže CSS in razhroščevanje ogrodij
@@ -77,10 +77,10 @@ firefox-developer-welcome-to-the-all-new = Dobrodošli v povsem nov { -brand-nam
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je bil popolnoma prenovljen, da bo hitrejši, lepši in močnejši kot kdajkoli prej.
 firefox-developer-congrats-you-now-have-firefox = Čestitamo. Sedaj imate { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = To je več kot le posodobitev. To je { -brand-name-firefox-quantum }: popolnoma prenovljen { -brand-name-firefox }, ki je hitrejši, elegantnejši in zmogljivejši kot kdajkoli prej.
-firefox-developer-welcome-to-firefox-browser = Dobrodošli v { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-welcome-to-firefox-browser = Dobrodošli v { -brand-name-firefox-browser(sklon: "mestnik") } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Brskalnik, ustvarjen za razvijalce
 firefox-developer-all-the-latest = Vsa najnovejša razvojna orodja iz beta različice in še <strong>poskusne zmogljivosti</strong>, kot sta večvrstični urejevalnik konzole in pregledovalnik WebSocket.
 firefox-developer-a-separate-profile = Po zaslugi <strong>ločenega profila in programskega imenika</strong> lahko brez težav deluje sočasno z izdajno ali { -brand-name-beta } različico { -brand-name-firefox(sklon: "rodilnik") }.
 firefox-developer-preferences-tailored = Nastavitve, <strong>prikrojene spletnim razvijalcem</strong>: razhroščevanje brskalnika in oddaljeno razhroščevanje sta privzeto vključeni, kot tudi temna tema in gumb orodne vrstice za razvijalce.
-firefox-developer-congrats-you-now-have = Čestitamo. Sedaj imate { -brand-name-firefox-browser } { -brand-name-developer-edition }.
-firefox-developer-congrats-you-now-have-latest = Čestitamo. Sedaj imate najnovejšo različico brskalnika { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have = Čestitamo. Sedaj imate { -brand-name-firefox-browser(sklon: "tozilnik") } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Čestitamo. Sedaj imate najnovejšo različico { -brand-name-firefox-browser(sklon: "rodilnik") } { -brand-name-developer-edition }.
