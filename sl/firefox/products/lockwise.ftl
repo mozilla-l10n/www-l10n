@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/lockwise/
@@ -15,7 +15,7 @@ lockwise-securely-access-the-passwords = Varno dostopajte do gesel, shranjenih v
 lockwise-try-lockwise-now = Preskusite { -brand-name-lockwise } zdaj
 lockwise-install-for-firefox = Namestite za { -brand-name-firefox }
 lockwise-open-in-firefox = Odpri v { -brand-name-firefox }u
-lockwise-only-in-the-firefox-browser = Samo v { -brand-name-firefox-browser }u
+lockwise-only-in-the-firefox-browser = Samo v { -brand-name-firefox-browser(sklon: "mestnik") }
 lockwise-256-bit-encryption-protects = 256-bitno šifriranje vas varuje pri sinhronizaciji
 lockwise-get-to-your-passwords-securely = Varno dostopajte do svojih gesel s Face ID ali Touch ID
 lockwise-your-privacy-comes-first = Vaša zasebnost je na prvem mestu

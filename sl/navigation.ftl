@@ -4,16 +4,16 @@
 
 navigation-download-firefox = Prenesite { -brand-name-firefox }
 navigation-get-a-firefox-account = Ustvarite { -brand-name-firefox-account }
-navigation-firefox-browser-for-desktop = Brskalnik { -brand-name-firefox-browser } za namizja
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser(zacetnica: "velika") } za namizja
 navigation-get-the-browser-that-respects = Prenesite brskalnik, ki samodejno spoštuje vašo zasebnost. Za { -brand-name-windows }, { -brand-name-mac } ali { -brand-name-linux }.
-navigation-firefox-browser-for-mobile = Brskalnik { -brand-name-firefox-browser } za mobilne naprave
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser(zacetnica: "velika") } za mobilne naprave
 navigation-take-speed-privacy-and = Vzemite s seboj hitrost, zasebnost in brezskrbnost. Za { -brand-name-android } in { -brand-name-ios }.
 navigation-download-for-ios = Prenesite za { -brand-name-ios }
 navigation-download-for-android = Prenesite za { -brand-name-android }
 navigation-ios-support = Podpora za { -brand-name-ios }
 navigation-android-support = Podpora za { -brand-name-android }
-navigation-firefox-browser-for-enterprise = Brskalnik { -brand-name-firefox-browser } za podjetja
-navigation-strap-on-your-goggles = Nadenite si očala in stopite v potopni splet z brskalnikom { -brand-name-firefox-browser } za VR.
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser(zacetnica: "velika") } za podjetja
+navigation-strap-on-your-goggles = Nadenite si očala in stopite v potopni splet z { -brand-name-firefox-browser(sklon: "orodnik") } za VR.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } za { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Oglejte si videoposnetke in brskajte po internetu na { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Brskalniki { -brand-name-firefox } na prvo mesto postavljajo vašo zasebnost – kot vedno.
