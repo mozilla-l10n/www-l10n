@@ -122,6 +122,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (mo { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Tge reglas ha { -brand-name-mozilla-vpn } per la restituziun?
+vpn-landing-faq-refund-question-desc-v2 = L'emprima giada che ti abuneschas { -brand-name-mozilla-vpn } via la website da { -brand-name-mozilla } pos ti dumandar ina restituziun sche ti annulleschas tes conto entaifer ils emprims 30 dis. { -brand-name-mozilla } vegn a restituir l'import da l'emprima perioda da tes abunament.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
