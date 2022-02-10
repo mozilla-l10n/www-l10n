@@ -135,6 +135,13 @@ vpn-landing-faq-link = Ulteriuras dumondas frequentas
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = T'inscriva en la glista da spetga: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Lascha t'infurmar cura che { -brand-name-mozilla-vpn } stat a disposiziun per tes apparat e per tia regiun.
+vpn-landing-invite-page-heading = T'inscriva en la glista da spetga per VPN
+vpn-landing-invite-email-label = Tgenina è tia adressa dad e-mail?
+vpn-landing-invite-required-label = Obligatoric
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = tes.num@example.com
+vpn-landing-invite-country-label = En tge pajais vivas ti?
 
 ##
 
