@@ -71,6 +71,45 @@ vpn-landing-faq-competition-question-desc-v2 = Malgrà che VPNs gratuits paran d
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc = Malgrà che VPNs gratuits paran dad esser attractivs na s'obligheschan quels betg en la medema maniera da resguardar la protecziun da datas sco { -brand-name-mozilla-vpn }. Purschiders gratuits vendan u arcunan eventualmain tias datas. Auters VPNs che custan n'han betg l'<a href="{ $url }">experientscha</a> da { -brand-name-mozilla } cun passa 20 onns svilup da products che mettan en il center las persunas e lur sfera privata.
+vpn-landing-faq-compatibility-question-heading = Cun tge apparats è { -brand-name-mozilla-vpn } cumpatibel?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } è cumpatibel cun <a href="{ $mobile }">telefonins</a>, tablets e <a href="{ $desktop }">computers desktop</a> cun:
+# Outdated string
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } è cumpabel cun:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (mo 64 bits)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (mo 64 bits)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 e versiuns pli actualas)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 e versiuns pli actualas)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e versiuns pli actualas)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (versiun 8 e versiuns pli actualas)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (versiun 6 e versiuns pli actualas)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versiun 6 e versiuns pli actualas)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 e versiuns pli actualas)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 e versiuns pli actualas)
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
