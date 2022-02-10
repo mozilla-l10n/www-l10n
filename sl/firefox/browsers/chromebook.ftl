@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
@@ -8,7 +8,7 @@
 
 # HTML page title
 
-browsers-chromebook-get-firefox-browser = Prenesite { -brand-name-firefox-browser } za { -brand-name-chromebook }
+browsers-chromebook-get-firefox-browser = Prenesite { -brand-name-firefox-browser(sklon: "tozilnik") } za { -brand-name-chromebook }
 browsers-chromebook-browsers-chromebook-get-firefox-for = Prenesite { -brand-name-firefox } za { -brand-name-android }
 browsers-chromebook-dropdown-copy = Prenesite { -brand-name-firefox } za { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
