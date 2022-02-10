@@ -67,6 +67,10 @@ vpn-landing-faq-competition-question-heading = Fa { -brand-name-mozilla-vpn } bu
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc-v2 = Malgrà che VPNs gratuits paran dad esser attractivs na s'obligheschan quels betg en la medema maniera da resguardar la protecziun da datas sco { -brand-name-mozilla-vpn }. Auters VPNs n'han betg l'<a href="{ $url }">experientscha</a> da { -brand-name-mozilla } cun passa 20 onns svilup da products che mettan en il center las persunas e lur sfera privata.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc = Malgrà che VPNs gratuits paran dad esser attractivs na s'obligheschan quels betg en la medema maniera da resguardar la protecziun da datas sco { -brand-name-mozilla-vpn }. Purschiders gratuits vendan u arcunan eventualmain tias datas. Auters VPNs che custan n'han betg l'<a href="{ $url }">experientscha</a> da { -brand-name-mozilla } cun passa 20 onns svilup da products che mettan en il center las persunas e lur sfera privata.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
