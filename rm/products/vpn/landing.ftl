@@ -110,6 +110,18 @@ vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 e versiuns pli actualas)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e versiuns pli actualas)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 e versiuns pli actualas)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (mo { -brand-name-ubuntu })
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (mo { -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = Tge reglas ha { -brand-name-mozilla-vpn } per la restituziun?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
