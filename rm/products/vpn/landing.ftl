@@ -63,6 +63,10 @@ vpn-landing-faq-protected-question-heading = Co vegn protegida mia sfera privata
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = Il protocol <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® criptescha tes traffic en la rait e protegia tut tias infurmaziuns privatas. Cumpareglià cun protocols da VPN existents è il code lev da { -brand-name-wireguard } pli simpel dad examinar e reveder per analists da segirezza – e cun quai er in'opziun pli segira per il VPN. Ultra da quai restan tias activitads online anonimas perquai che nus na registrain, fastizain u cundividain mai tias datas da rait.
+vpn-landing-faq-competition-question-heading = Fa { -brand-name-mozilla-vpn } buna figura en cumparegliaziun cun la concurrenza?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Malgrà che VPNs gratuits paran dad esser attractivs na s'obligheschan quels betg en la medema maniera da resguardar la protecziun da datas sco { -brand-name-mozilla-vpn }. Auters VPNs n'han betg l'<a href="{ $url }">experientscha</a> da { -brand-name-mozilla } cun passa 20 onns svilup da products che mettan en il center las persunas e lur sfera privata.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
