@@ -152,6 +152,12 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Cun cliccar sin «S'inscriver en la glista da spetga» acceptas ti nossa <a href="{ $privacy }">decleraziun davart la protecziun da datas</a>.
+vpn-landing-invite-your-information = Tias datas vegnan sulettamain utilisadas per t'infurmar davart la disponibilitad da la plattafurma.
+vpn-landing-invite-thanks-heading = Grazia fitg! Ti es sin la glista
+vpn-landing-invite-thanks-desc = Apaina che { -brand-name-mozilla-vpn } stat a disposiziun en tia regiun ta tramettain nus in e-mail.
 
 ##
 
