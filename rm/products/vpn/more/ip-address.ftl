@@ -18,3 +18,5 @@ vpn-ip-address-does-it-travel = T'accumpogna l'adressa IP?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-no-your-ip = Na. Tia adressa IP è mo liada ad in tschert lieu, nun che ti <a href="{ $url }">utiliseschias in VPN</a> (nus revegnin pli tard a quai). Sche ti es tar tai a chasa e ta connecteschas cun l'internet per il qual ti pajas, dovras ti ina. Sche ti das dentant in'egliada a tes e-mails a chasa la damaun, legias las novitads en ina ustaria entant che ti spetgas sin tes café e vas alura a lavurar en in biro, has ti duvrà en mintga lieu in'autra adressa IP.
+vpn-ip-address-does-your-ip = Po tia adressa IP sa midar?
+vpn-ip-address-yes-even-if = Gea. Schizunt sche ti utiliseschas l'internet mo a chasa po l'adressa IP sa midar per tes dachasa. Ti pos contactar tes purschider d'internet per la midar, dentant po ina simpla reinizialisaziun da tes modem u router causa problems da connexiun cun l'internet avair per consequenza che l'adressa IP sa mida.
