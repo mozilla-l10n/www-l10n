@@ -52,7 +52,7 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } je za vsakogar
 firefox-desktop-download-available-in-over = { -brand-name-firefox } je na voljo v več kot 90 jezikih in je združljiv z napravami { -brand-name-windows }, { -brand-name-mac-short } in { -brand-name-linux }, zato bo z vami ne glede na to, kje ste in kaj uporabljate. Za najboljše delovanje se prepričate, da je vaš sistem posodobljen na najnovejšo različico.
 firefox-desktop-download-review-system-req = Preverite sistemske zahteve
 firefox-desktop-download-all-your-devices = Prenesite { -brand-name-firefox } za vse svoje naprave
-firefox-desktop-download-take-your-privacy = Vzemite zasebnost s seboj. { -brand-name-firefox-browsers } za { -brand-name-ios } in { -brand-name-android } so opremljeni z enako močnimi nastavitvami zasebnosti za zavračanje sledilcev, ki vas zasledujejo po spletu, ne glede na to, kje ste.
+firefox-desktop-download-take-your-privacy = Vzemite zasebnost s seboj. { -brand-name-firefox-browsers(zacetnica: "velika") } za { -brand-name-ios } in { -brand-name-android } so opremljeni z enako močnimi nastavitvami zasebnosti za zavračanje sledilcev, ki vas zasledujejo po spletu, ne glede na to, kje ste.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Delajte <strong>vse</strong> s { -brand-name-firefox }om
 firefox-desktop-download-search-smarter = Iščite pametneje in hitreje

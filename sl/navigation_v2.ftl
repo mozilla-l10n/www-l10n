@@ -11,8 +11,8 @@ navigation-v2-get-a-firefox-account = Ustvarite { -brand-name-firefox-account }
 
 ## Firefox menu
 
-navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
-navigation-v2-close-firefox-browsers-menu = Zapri meni { -brand-name-firefox-browsers }
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers(zacetnica: "velika") }
+navigation-v2-close-firefox-browsers-menu = Zapri meni { -brand-name-firefox-browsers(zacetnica: "velika") }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } za namizja
 navigation-v2-get-the-not-for-profit-backed = Prenesite neprofiten brskalnik za { -brand-name-windows }, { -brand-name-mac-short } ali { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
