@@ -13,7 +13,7 @@ vpn-ip-address-every-time-you = Mintga giada che ti es en l'internet giogan adre
 vpn-ip-address-your-ip-address = Tia adressa IP è in identificatur univoc, cumparegliabel cun ina adressa postala, associada cun tias activitads online. Mintga giada che ti dovras l'internet (per exempel per far cumpras online, trametter e-mails u guardar televisiun via streaming) dumondas ti l'access ad ina tscherta destinaziun specifica en l'internet e per la paja ta vegnan tramessas infurmaziuns. Co funcziuna quai? Curt e bain, IP munta «Internet Protocol» e quel definescha ils standards e las reglas (quai che vegn era numnà «protocol») per adressar datas e stabilir la connexiun cun l'internet. Quest protocol cuntegna las reglas che mintga partida sto resguardar per pussibilitar la circulaziun da datas en omaduas direcziuns.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Qua in exempel dad in'adressa IP che consista dad ina sequenza da quatter cifras ch'èn mintgamai separadas cun in punct: 123.45.67.89
-vpn-ip-address-if-you-look-up-your = Sche ti tschertgas tia adressa IP, vegn quella a sumegliar a l'exempel.
+vpn-ip-address-if-you-look-up-your = Sche ti tschertgas tia adressa IP, chattas ti insatge uschè.
 vpn-ip-address-does-it-travel = T'accumpogna l'adressa IP?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
