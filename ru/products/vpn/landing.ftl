@@ -122,6 +122,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (только { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Какова политика возврата средств { -brand-name-mozilla-vpn }?
+# Outdated string
 vpn-landing-faq-refund-question-desc = Вы можете вернуть свои деньги в течение 30 дней с момента оплаты подписки. Свяжитесь с нами и отправьте запрос на возврат, нажав кнопку «Получить помощь» в настройках приложения { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Как я могу управлять своей подпиской?
 # Variables:
@@ -141,6 +142,8 @@ vpn-landing-invite-email-placeholder = ваш_логин@example.com
 vpn-landing-invite-country-label = В какой стране вы живёте?
 vpn-landing-invite-language-label = Выберите предпочитаемый язык.
 vpn-landing-invite-platform-label = В каких платформах вы заинтересованы?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 vpn-landing-invite-platform-ios = { -brand-name-ios }
 vpn-landing-invite-platform-android = { -brand-name-android }

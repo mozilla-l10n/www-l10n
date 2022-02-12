@@ -39,7 +39,7 @@ compare-shared-security-and-privacy = Безопасность и Приватн
 compare-shared-utility = Удобство
 compare-shared-portability = Переносимость
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Безопасность и <strong>Приватность</strong>
+compare-shared-security-and-privacy-strong = Безопасность и <strong>приватность</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>Удобство</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
