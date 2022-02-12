@@ -9,7 +9,7 @@
 mobile-compare-5-of-the-best = 5 лучших мобильных браузеров в прямом сравнении
 # HTML description
 mobile-compare-who-makes-the = Чей мобильный браузер — лучший? Мы сравнили мобильные версии { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } и { -brand-name-opera } и выяснили это.
-mobile-compare-since-your-mobile = Поскольку браузер является вашим средством доступа к информации, его скорость, безопасность, приватность и удобство играют важную роль. Так какой же из мобильных браузеров — лучший? Сравним самых популярных игроков и выясним, какой из них наиболее полно соответствует вашим потребностям.
+mobile-compare-since-your-mobile = Поскольку браузер является вашим средством доступа к информации, его скорость, безопасность, приватность и удобство очень важны. Так какой же из мобильных браузеров — лучший? Сравним самых популярных игроков и выясним, какой из них наиболее полно соответствует вашим потребностям.
 mobile-compare-which-mobile-browser = Какой мобильный браузер заботится о вашей приватности?
 mobile-compare-at-a-minimum-v2 = Как минимум, браузер должен поддерживать некоторую версию «режима приватного просмотра», который будет автоматически удалять вашу историю просмотра и поиска. Этому критерию отвечают все пять сравниваемых браузеров.
 # Obsolete string
@@ -38,7 +38,7 @@ mobile-compare-reader-mode = Режим чтения
 mobile-compare-spell-checking = Проверка орфографии
 mobile-compare-web-extensionsaddons = Веб-расширения/Дополнения
 mobile-compare-dark-mode = Темный режим
-mobile-compare-desktop-mode = Версия для ПК
+mobile-compare-desktop-mode = Версия для компьютера
 mobile-compare-find-on-page = Поиск на странице
 mobile-compare-image-search = Поиск изображений
 mobile-compare-voice-search = Голосовой поиск

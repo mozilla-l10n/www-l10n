@@ -26,7 +26,7 @@ compare-shared-search-engine-options = Настройка поисковых с�
 compare-shared-text-to-speech = Озвучивание текста
 compare-shared-reader-mode = Режим чтения
 compare-shared-spell-checking = Проверка орфографии
-compare-shared-web-extensionsadd-ons = Веб-расширения/дополнения
+compare-shared-web-extensionsadd-ons = Веб-расширения/Дополнения
 compare-shared-in-browser-screenshot-tool = Встроенный инструмент для создания скриншотов
 compare-shared-os-availability = Доступность на ОС
 compare-shared-mobile-os-availability = Доступность на мобильных ОС
@@ -35,7 +35,7 @@ compare-shared-password-management = Управление паролями
 compare-shared-primary-password = Мастер-пароль
 # Obsolete string
 compare-shared-master-password = Мастер-пароль
-compare-shared-security-and-privacy = Безопасность и Приватность
+compare-shared-security-and-privacy = Безопасность и приватность
 compare-shared-utility = Удобство
 compare-shared-portability = Переносимость
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
@@ -48,7 +48,7 @@ compare-shared-overall-assessment = Общая оценка
 compare-shared-the-comparisons-made-here-updated = Приведённые здесь сравнения были выполнены с настройками по умолчанию в следующих версиях браузеров:
 # Obsolete string
 compare-shared-the-comparisons-made-here = Приведённые здесь сравнения были выполнены в следующих версиях браузеров:
-compare-shared-this-page-updated-semi-quarterly = Эта страница обновляется два раза в квартал, чтобы учитывать последние версии и не всегда может отражать последние обновления.
+compare-shared-this-page-updated-semi-quarterly = Эта страница обновляется два раза в квартал, чтобы учитывать новые версии, и может не отражать последние обновления.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
