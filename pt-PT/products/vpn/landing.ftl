@@ -15,6 +15,8 @@ vpn-landing-fast-secure-heading = Rede rápida e segura
 ## FAQ section
 
 vpn-landing-faq-heading = Perguntas frequentes
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e superior)
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
