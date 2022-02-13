@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
 # HTML page title
-mobile-android-firefox-browser-android = { -brand-name-firefox-browser(case: "uppercase") } для { -brand-name-android }
+mobile-android-firefox-browser-android = { -brand-name-firefox-browser(case: "nominative_uppercase") } для { -brand-name-android }
 # HTML description
 mobile-android-firefox-browser-for = Браузер { -brand-name-firefox } для { -brand-name-android } — быстрый, безопасный и приватный с первого запуска.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
@@ -35,7 +35,11 @@ mobile-android-go-from-your = Переходите с телефона на но
 mobile-android-search-from-your = Ищите прямо с домашнего экрана телефона
 mobile-android-no-need-to = Нет необходимости открывать приложение. Добавьте виджет поиска { -brand-name-firefox } и ищите в Интернете прямо с домашнего экрана вашего устройства.
 mobile-android-pin-videos-to = Закрепляйте видео на экране
+mobile-android-pop-videos-out = Извлекайте видео из веб-сайтов и плееров и закрепляйте в верхней части экрана вашего телефона, чтобы смотреть их, пока занимаетесь веб-сёрфингом или другими делами. Развлекайтесь, выполняя множество заданий.
 mobile-android-about-mozilla = О { -brand-name-mozilla }
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } существует для того, чтобы сделать Интернет доступным для каждого, потому что мы считаем, что открытая и свободная сеть лучше закрытой и регулируемой. Мы создаем такие продукты, как { -brand-name-firefox } и { -brand-name-pocket }, чтобы способствовать возможности выбора, прозрачности и контролю.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
-mobile-android-short-cut-the-internet = Быстрый доступ в Интернет с { -brand-name-firefox } для { -brand-name-android }
-mobile-android-own-your-home = Контролируйте свой домашний экран
+mobile-android-short-cut-the-internet = Ворвитесь в Интернет с { -brand-name-firefox } для { -brand-name-android }
+mobile-android-see-all-your-open-tabs = Просматривайте все свои открытые вкладки, недавние поиски и любимые сайты в одном месте с браузером { -brand-name-firefox } для { -brand-name-android }.
+mobile-android-own-your-home = Настраивайте свой домашний экран
+mobile-android-get-to-the-parts = Находите то, что вас интересует в Интернете, быстрее. Выбирайте просмотр всех своих открытых вкладок, недавних поисков, закладок и любимых сайтов в одном месте.
