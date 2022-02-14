@@ -10,3 +10,4 @@ vpn-or-proxy-the-difference-between = La differenza tranter in VPN ed in web pro
 # HTML page description and intro
 vpn-or-proxy-vpns-and-proxies-are = VPNs e proxies èn soluziuns per la protecziun da datas e la segirezza en l'internet. Qua vegns ti a savair co che questas tecnologias ta protegian e co ti tschernas la meglra opziun per tes basegns.
 vpn-or-proxy-virtual-private-networks = Raits privatas virtualas (VPNs) e web proxies segirs èn soluziuns per meglierar la protecziun da datas e la segirezza en l'internet, ma i po dar confusiuns cun eruir la soluziun la pli adattada per tai. Qua vegns ti a savair co che quests servetschs ta protegian e co ti tschernas la meglra opziun per tes basegns durant che ti es online.
+vpn-or-proxy-stop-isps-from = Evitescha che purschiders d'internet ta spiuneschian
