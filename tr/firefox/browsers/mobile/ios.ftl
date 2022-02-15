@@ -16,5 +16,6 @@ mobile-ios-make-firefox-your = { -brand-name-firefox }’u varsayılan tarayıc�
 mobile-ios-fast-private-secure = Hızlı. Gizli. Güvenli
 mobile-ios-stay-private-online = internette gizli kalın
 mobile-ios-your-browsing-history = Gezinti geçmişiniz geçmişte kaldı
+mobile-ios-get-more-firefox = Hayatınızda { -brand-name-firefox }'a yer açın
 mobile-ios-find-it-all = Daha hızlı bulun
 mobile-ios-about-mozilla = { -brand-name-mozilla } hakkında
