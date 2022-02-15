@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -10,23 +10,23 @@ compare-shared-yes = Так
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Ні
 compare-shared-private-browsing-mode = Режим приватного перегляду
-compare-shared-blocks-third-party-tracking-default = Типово блокує сторонні куки стеження
+compare-shared-blocks-third-party-tracking-default = Усталене блокування сторонніх кук стеження
 # Obsolete string
-compare-shared-blocks-third-party-tracking = Блокує сторонні куки стеження
-compare-shared-blocks-cryptomining-scripts = Блокує скрипти для добування криптовалют
-compare-shared-blocks-fingerprinting-scripts = Блокує скрипти цифрових відбитків
-compare-shared-blocks-social-trackers = Блокує стеження соціальних мереж
-compare-shared-dashboard-to-review = Інформаційна панель для перевірки заблокованих елементів стеження
+compare-shared-blocks-third-party-tracking = Блокування сторонніх кук стеження
+compare-shared-blocks-cryptomining-scripts = Блокування скриптів для добування криптовалют
+compare-shared-blocks-fingerprinting-scripts = Блокування скриптів збору цифрових відбитків
+compare-shared-blocks-social-trackers = Блокування стеження соціальних мереж
+compare-shared-dashboard-to-review = Панель перегляду заблокованих елементів стеження
 compare-shared-autoplay-blocking = Блокування автовідтворення
-compare-shared-tab-browsing = Перегляд у вкладках
-compare-shared-bookmark-manager = Керування закладками
+compare-shared-tab-browsing = Підтримка вкладок
+compare-shared-bookmark-manager = Менеджер закладок
 compare-shared-automatically-fills-out-forms = Автозаповнення форм
 compare-shared-automatically-fills-out-payments = Автозаповнення платіжних даних
 compare-shared-search-engine-options = Керування засобами пошуку
-compare-shared-text-to-speech = Озвучення тексту
+compare-shared-text-to-speech = Озвучування тексту
 compare-shared-reader-mode = Режим читання
 compare-shared-spell-checking = Перевірка правопису
-compare-shared-web-extensionsadd-ons = Веброзширення / Додатки
+compare-shared-web-extensionsadd-ons = Веброзширення/Додатки
 compare-shared-in-browser-screenshot-tool = Вбудований засіб знімків екрана
 compare-shared-os-availability = Доступність для ОС
 compare-shared-mobile-os-availability = Доступність для мобільних ОС
@@ -36,7 +36,7 @@ compare-shared-primary-password = Головний пароль
 # Obsolete string
 compare-shared-master-password = Головний пароль
 compare-shared-security-and-privacy = Безпека й приватність
-compare-shared-utility = Функції
+compare-shared-utility = Зручність
 compare-shared-portability = Доступність
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Безпека й <strong>приватність</strong>
