@@ -21,3 +21,16 @@ vpn-desktop-about-copy = Mais conhecidos pelo nosso { -brand-name-firefox-browse
 vpn-desktop-privacy-headline = Privacidade em um clique
 vpn-desktop-privacy-copy = A app { -brand-name-mozilla-vpn } encripta a sua ligação à Internet e esconde o endereço IP do seu dispositivo móvel ou table ao utilizar o protocolo avançado { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Ligue-se a servidores de todo o mundo
+# Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Navegue a partir do Brasil. Jogue a partir do Japão. Faça streaming a partir do México. A { -brand-name-mozilla-vpn } permite que altere a localização do seu telemóvel ou computador para um dos { $servers } servidores.
+# Obsolete string
+vpn-desktop-servers-copy = Navegue a partir do Brasil. Jogue a partir do Japão. Faça streaming a partir do México. A { -brand-name-mozilla-vpn } permite que altere a localização do seu telemóvel ou computador para um dos { $servers }.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = Proteja até { $devices } dispositivos
+vpn-desktop-devices-copy = A sua subscrição dá-lhe acesso ilimitado ao nosso serviço VPN seguro no seu smartphone, tablet e desktop para { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }.
+vpn-desktop-speed-headline = Velocidade incrível, sem restrições
+vpn-desktop-speed-copy = Faça streaming de vídeos, jogue, compre e navegue com velocidades ultrarrápidas. A { -brand-name-mozilla-vpn } não irá limitar a sua largura de banda nem atrasar o seu smartphone.
+vpn-desktop-log-headline = A sua privacidade vem em primeiro lugar
+vpn-desktop-log-copy = Na { -brand-name-mozilla }, não recolhemos dados sobre si nem registamos a sua atividade online — nem através da nossa VPN, nem através de qualquer um dos nossos outros produtos. Proteger a sua privacidade é um princípio central da nossa missão.
