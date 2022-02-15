@@ -45,6 +45,7 @@ is-firefox-safe = Je { -brand-name-firefox } varen?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+related-questions-safe = Povezana vprašanja: ali je { -brand-name-firefox } dober za zasebnost, ali je { -brand-name-firefox } varen, ali je { -brand-name-firefox } boljši za zasebnost
 does-firefox-sell = Ali { -brand-name-firefox } prodaja osebne podatke uporabnikov?
 
 # Variables:

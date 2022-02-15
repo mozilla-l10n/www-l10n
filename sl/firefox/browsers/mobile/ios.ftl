@@ -22,4 +22,6 @@ mobile-ios-stay-private-online = Zaščitite svojo zasebnost na spletu
 mobile-ios-your-browsing-history = Vaša zgodovina brskanja je zgodovina
 mobile-ios-own-your-home = Obvladajte domači zaslon
 mobile-ios-get-to-the-parts = Skrajšajte si pot do spletnih mest, ki so vam pomembna. Izberite prikaz vseh odprtih zavihkov, nedavnih iskanj, zaznamkov in priljubljenih strani na enem mestu.
+# Obsolete string
+mobile-ios-create-as-many = Ustvarite toliko zavihkov, kot želite, ne da bi se v njih izgubili. { -brand-name-firefox } prikazuje odprte zavihke v obliki sličic in oštevilčenih zavihkov, kar vam omogoča hitreje najti, kar potrebujete.
 mobile-ios-about-mozilla = O { -brand-name-mozilla(sklon: "mestnik") }
