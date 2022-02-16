@@ -29,7 +29,7 @@ history-people-contributed-to-mozilla = Mọi người đã đóng góp cho { -b
 history-after-several-years-of-development = Sau vài năm phát triển, <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, phiên bản chính thức đầu tiên, đã ra mắt năm 2002. Phiên bản này có nhiều cải tiến cho trình duyệt, ứng dụng email và các ứng dụng khác có trong bộ phần mềm, nhưng không nhiều người sử dụng nó.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
-history-by-2002-well-over-90 = Bởi năm 2002, <a href="{ $over90 }>hơn 90% người dùng internet</a> đang duyệt web bằng { -brand-name-ie }.
+history-by-2002-well-over-90 = Bởi năm 2002, <a href="{ $over90 }">hơn 90% người dùng internet</a> đang duyệt web bằng { -brand-name-ie }.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = Không nhiều người chú ý vào thời điểm đó, nhưng phiên bản đầu tiên của Phoenix (sau đó được đổi tên thành { -brand-name-firefox }) cũng được phát hành bởi các thành viên cộng đồng năm đó của { -brand-name-mozilla } với mục tiêu cung cấp <a href="{ $charter }">trải nghiệm duyệt web tốt nhất có thể</a> đến nhóm người rộng nhất có thể.
