@@ -22,3 +22,10 @@ vpn-or-proxy-when-should-you = Cura duessas ti tscherner in VPN u in proxy segir
 vpn-or-proxy-vpns-and-secure = VPNs e web proxies segirs han ina finamira cuminaivla: els protegian connexiuns. Els zuppentan tia adressa IP originara e protegian tes traffic web tranter tai e tes purschider da VPN u tes purschider dad in proxy segir. Cura èsi dentant raschunaivel dad utilisar in VPN empè dad in proxy?
 vpn-or-proxy-secure-web-proxy = In web proxy segir: protecziun a nivel dal navigatur
 vpn-or-proxy-a-secure-web = In web proxy segir funcziuna per quai che capita sulettamain en tes navigatur. Quai pon esser bleras activitads sco per exempel far cumpras, pajar quints, s'annunziar en medias socialas e leger e-mails. In web proxy segir serva sco intermediatur tranter tes navigatur e l'internet. Las datas da tia navigaziun en il web passan directamain da tes navigatur tras in tunnel segir en l'internet, uschia che tia adressa IP vegn zuppada ed il server web che ti contacteschas na sa betg exactamain nua che ti ta chattas en il mund. E quai renda pli difficil da ta fastizar e da ta prender en mira.
+# Variables
+#   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
+vpn-or-proxy-a-proxy-is-useful = In proxy è nizzaivel cura che ti navigheschas cun agid dad in WLAN public en il web. Sch'in proxy è activà vegn quel ad impedir che spiuns en la medema rait observian tia navigaziun u legian tias transacziuns sin websites betg criptadas. I na tuna betg privlus, ma raits WLAN publicas pon servir sco entrada clandestina per <a href="{ $url }">attatgaders</a>.
+# Variables
+#   $fpn (url) - https://fpn.firefox.com
+vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> è ina extensiun per il navigatur facila dad installar che porscha in tunnel segir e criptà al web per proteger tia connexiun dal navigatur dapertut nua che ti utiliseschas { -brand-name-firefox }. Ella sa lascha activar a moda svelta e simpla mintga mument che ti la dovras per augmentar la segirezza en tes navigatur.
+vpn-or-proxy-vpns-devicelevel-protection = VPNs: protecziun a nivel da l'apparat
