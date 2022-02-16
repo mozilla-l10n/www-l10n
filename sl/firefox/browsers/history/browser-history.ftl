@@ -12,6 +12,7 @@ browser-history-in-1950-computers = Leta 1950 so računalniki zavzemali celotne 
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> je bil prvi uspešen projekt računalniškega omrežja in leta 1969 je prvo sporočilo potovalo iz laboratorija za informatiko na Univerzi Kalifornije v Los Angelesu na  raziskovalni inštitut v Stanfordu, prav tako v Kaliforniji.
 browser-history-web-era = Doba spleta
+browser-history-a-year-later-berners = Leto pozneje je Berners-Lee študentki matematike na inštitutu CERN Nicoli Pellow zadal nalogo, naj ustvari Line Mode Browser, program za osnovne računalniške terminale.
 # Variables:
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic je deloval na računalnikih { -brand-name-windows }, bil je preprost za uporabo in je vsakemu lastniku osebnega računalnika omogočil dostop do zgodnjih spletnih strani, klepetalnic in knjižnic slik. Naslednjega leta (1994) je Andreessen ustanovil <a href="{ $netscape }">{ -brand-name-netscape }</a> in javnosti predstavil { -brand-name-netscape } Navigator. Doživel je izjemen uspeh in postal prvi ljudski brskalnik. Bil je tudi prva poteza v vojni za uporabnike interneta.
@@ -25,6 +26,10 @@ browser-history-netscape-created = { -brand-name-netscape } je ustvaril in izdal
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
 browser-history-things-got-a-little = Dogajanje je nekoliko ušlo izpod nadzora leta 1997, ko je { -brand-name-microsoft } izdal { -brand-name-ie } 4.0. Njihova ekipa je izdelala velikansko črko “e” in jo vtihotapila na dvorišče sedeža { -brand-name-netscape(sklon: "rodilnik") }. Ekipa { -brand-name-netscape(sklon: "rodilnik") } je orjaški “e” nemudoma prevrnila in <a href="{ $dino }">nanj postavila svojo dinozavrsko maskoto, { -brand-name-mozilla(sklon: "tožilnik") }</a>.
+# Variables:
+#   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
+#   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
+browser-history-then-microsoft-began = Zatem je { -brand-name-microsoft } pričel prilagati { -brand-name-ie } svojemu operacijskemu sistemu { -brand-name-windows }. V 4 letih je zavzel 75&nbsp;% tržišča, do leta 1999 pa ga je obvladoval že 99&nbsp;%. Zaradi te poteze se je podjetje soočilo s tožbami zaradi ustvarjanja monopola, { -brand-name-netscape } pa je sklenil izdati svojo kodo pod odprto licenco in ustanovil neprofitno organizacijo <a href="{ $mozilla }">{ -brand-name-mozilla }</a>. Ta se je zavedala, da monopol nad brskalniki ni v najboljšem interesu uporabnikov in odprtega spleta, in leta 2002 je izdala { -brand-name-firefox }, da bi uporabnikom spleta ponudila izbiro. Do leta 2010 so { -brand-name-mozilla } { -brand-name-firefox } in ostali brskalniki <a href="{ $marketshare }">znižali tržni delež { -brand-name-ie(sklon: "rodilnik") } na 50&nbsp;%</a>.
 browser-history-other-competitors = Ob koncu 90. in začetku 2000. let so se pojavili še drugi tekmeci kot { -brand-name-opera }, { -brand-name-safari } in { -brand-name-google } { -brand-name-chrome }. { -brand-name-ie } je { -brand-name-microsoft } v sistemu { -brand-name-windows } 10 leta 2015 zamenjal z novim brskalnikom { -brand-name-edge }.
 browser-history-browsing-the-web = Brskanje po spletu danes
 browser-history-resources = Viri
