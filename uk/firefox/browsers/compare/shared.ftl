@@ -13,7 +13,7 @@ compare-shared-private-browsing-mode = Режим приватного пере�
 compare-shared-blocks-third-party-tracking-default = Усталене блокування сторонніх кук стеження
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Блокування сторонніх кук стеження
-compare-shared-blocks-cryptomining-scripts = Блокування скриптів для добування криптовалют
+compare-shared-blocks-cryptomining-scripts = Блокування скриптів добування криптовалют
 compare-shared-blocks-fingerprinting-scripts = Блокування скриптів збору цифрових відбитків
 compare-shared-blocks-social-trackers = Блокування стеження соціальних мереж
 compare-shared-dashboard-to-review = Панель перегляду заблокованих елементів стеження
