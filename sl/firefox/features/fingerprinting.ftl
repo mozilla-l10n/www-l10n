@@ -8,3 +8,4 @@
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Sledenje prstnim odtisom brskalnikov ("fingerprinting") je način sledenja na spletu, ki je invazivnejši od običajnega sledenja s piškotki – zato ga { -brand-name-firefox-browser } preprečuje.
 features-fingerprinting-download-firefox = Prenesite { -brand-name-firefox }
+features-fingerprinting-protect = Zaščitite svojo zasebnost

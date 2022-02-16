@@ -12,12 +12,17 @@ vpn-landing-hero-sub-heading = Varnost, na katero se lahko zanesete. Ime, ki mu 
 vpn-landing-hero-desc = Navidezno zasebno omrežje, ki so ga ustvarili izdelovalci { -brand-name-firefox(sklon: "rodilnik") }.
 vpn-landing-privacy-heading = En dotik do zasebnosti
 vpn-landing-fast-secure-heading = Hitro in varno omrežje
+# Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } deluje na svetovnem omrežju strežnikov. Z uporabo najnaprednejšega protokola <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifriramo vašo omrežno dejavnost in skrijemo vaš naslov IP. Vaše dejavnosti ne beležimo, ji ne sledimo in je ne delimo naprej.
 # Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } deluje na svetovnem omrežju strežnikov, ki jih poganja <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Z uporabo najnaprednejšega protokola <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifriramo vašo omrežno dejavnost in skrijemo vaš naslov IP. Vaše dejavnosti ne beležimo, ji ne sledimo in je ne delimo naprej.
+vpn-landing-brand-trust-heading = VPN znamke, ki ji lahko zaupate
 
 ## FAQ section
 

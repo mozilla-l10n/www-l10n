@@ -25,3 +25,4 @@ mobile-ios-get-to-the-parts = Skrajšajte si pot do spletnih mest, ki so vam pom
 # Obsolete string
 mobile-ios-create-as-many = Ustvarite toliko zavihkov, kot želite, ne da bi se v njih izgubili. { -brand-name-firefox } prikazuje odprte zavihke v obliki sličic in oštevilčenih zavihkov, kar vam omogoča hitreje najti, kar potrebujete.
 mobile-ios-about-mozilla = O { -brand-name-mozilla(sklon: "mestnik") }
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } obstaja, da bi iz interneta zgradila javen in vsakomur dostopen vir, saj verjamemo, da je odprto in svobodno boljše od zaprtega in nadzorovanega. { -brand-name-firefox(sklon: "tozilnik") }, { -brand-name-pocket(sklon: "tozilnik") } in druge izdelke ustvarjamo, da bi ljudem ponudili izbiro, preglednost in nadzor.
