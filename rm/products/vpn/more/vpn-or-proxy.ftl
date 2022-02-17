@@ -33,3 +33,7 @@ vpn-or-proxy-vpns-do-more = VPNs prestan dapli che proxies perquai ch'in proxy p
 vpn-or-proxy-a-vpn-works = In VPN funcziuna cun crear in «tunnel» segir tranter tes apparat e l'internet. El protegia tia sfera privata en dus reguards:
 vpn-or-proxy-concealing-your-ip = El zuppenta tia adressa IP, protegia uschia tia identitad e renda nunvisibla tia posiziun actuala.
 vpn-or-proxy-encrypting-your-traffic = El criptescha tes traffic da datas tranter tai e tes purschider da VPN, uschia che nagin en tia rait locala n'al po decriptar u modifitgar.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = In VPN porscha era segirezza en raits avertas e publicas da WLAN. WLANs averts pon esser ristgus perquai che ti na pos betg esser segir ch'insatgi auter na sa connectescha betg cun la medema rait per ta spiunar. Schizunt sche tes traffic è criptà pon auters vesair las websites che ti visitas. E sche ti utiliseschas in'applicaziun che n'ha nagin criptadi – anc ozendi è quai memia savens il cas – èsi pussaivel da vesair tut quai che ti fas en quell'applicaziun. { -brand-name-mozilla-vpn } è in servetsch svelt, segir e fidabel che gida dad eliminar quest manco da segirezza per tai. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ta pussibilitescha era da tscherner tes «lieu» (danunder che tes traffic da datas para da vegnir) en ina glista da passa { $countries } pajais.
