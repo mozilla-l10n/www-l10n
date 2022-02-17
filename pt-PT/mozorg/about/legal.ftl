@@ -9,5 +9,7 @@ legal-legal = Informação legal
 legal-get-involved = Envolva-se
 legal-protect-the-fox = Proteja a Raposa
 legal-terms = Termos
+legal-firefox-services = Serviços { -brand-name-firefox }
+legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = Privacidade e marcas registradas
 legal-acceptable-use-policy = Política de Utilização Aceitável

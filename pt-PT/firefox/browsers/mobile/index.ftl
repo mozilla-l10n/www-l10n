@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+# HTML page title
+browsers-mobile-firefox-mobile-browsers-put = Os navegadores para dispositivos móveis { -brand-name-firefox } colocam a sua privacidade em primeiro
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Comparar navegadores móveis
