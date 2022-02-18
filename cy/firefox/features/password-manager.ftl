@@ -28,7 +28,7 @@ password-manager-no-more-try-again = Dim mwy o “geisio eto” wrth geisio mynd
 password-manager-password-champion = Pencampwr cyfrineiriau
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
-password-manager-earn-your-security-gold-medal = Gallwch ennill eich ail wobr diogelwch { -brand-name-firefox } gydag ystod eang o <a href="%(addons)s">ychwanegion</a> rheolwyr cyfrineiriau Firefox. Dewiswch ffefryn neu un gwell drwy adolygiadau a graddio gan arbenigwyr y gymuned.
+password-manager-earn-your-security-gold-medal = Gallwch ennill eich ail wobr diogelwch { -brand-name-firefox } gydag ystod eang o <a href="{ $addons }">ychwanegion</a> rheolwyr cyfrineiriau Firefox. Dewiswch ffefryn neu un gwell drwy adolygiadau a graddio gan arbenigwyr y gymuned.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Prif gyfrinair
