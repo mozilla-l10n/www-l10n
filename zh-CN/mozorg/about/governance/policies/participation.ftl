@@ -90,8 +90,8 @@ participation-reporting = 举报
 participation-if-you-believe-youre = 如果您认为正经历自己无法接受的行为，也不为上述规范所容忍，<a href="{ $hotline }">请使用我们的热线提出举报</a>。举报会直接交由 { -brand-name-mozilla } 的就业顾问和人力资源合作伙伴，并由社区参与准则回应负责人进行分类。
 participation-if-you-believe-youre-email = 若您认为遇到了上述无法容忍的行为，请发邮件到 <a href="{ $mailto_report }">cpg-report@mozilla.com</a> 进行举报。举报将由社区参与准则响应负责人进行分类处理。
 participation-after-receiving-a = 在接获您对有关情况提供的简要说明之后，这些人员将进行核实以确定后续步骤。除了进行任何调查之外，这些人也将提供私人咨询或其他社区资源等各种资源。这些人将视情况请其他同事（包括法律顾问）提供协助，以便妥善地解决各种情况。
-participation-additional-resources = 其他资源：<a href="{ $missing-var }">如何举报</a>
-participation-questions-cpg-questionsmozillacom = 若有疑问，请询：<a href="{ $missing-var }">cpg-questions@mozilla.com</a>
+participation-additional-resources = 其他资源：<a href="{ $url }">如何举报</a>
+participation-questions-cpg-questionsmozillacom = 若有疑问，请询：<a href="{ $url }">cpg-questions@mozilla.com</a>
 participation-please-also-report = 如果察觉到潜在的危险情况、有人需要协助或违反这些准则，即使您并非当事人，也请提出举报。
 participation-if-you-feel-you-have = 如果您认为您受到违反这些准则的不公平指控，请遵循相同的流程提出举报。
 participation-mozilla-spaces = { -brand-name-mozilla } Space
@@ -106,4 +106,4 @@ participation-this-set-of-guidelines = 本准则遵循<a href="{ $license }" rel
 participation-these-guidelines-have = 这些准则修改自： { -brand-name-mozilla } 原版《社区参与准则》、<a href="{ $ubuntu_coc }">《Ubuntu 行为守则》</a>、{ -brand-name-mozilla } 的<a href="{ $viewsource_coc }">《View Source 研讨会行为守则》</a>以及<a href="{ $rustlang_coc }">《{ -brand-name-rust } 语言行为守则》</a>（修改自斯顿普敦协会的<a href="{ $citizen_coc }">《公民行为守则》</a>）。其他文本内容来自<a href="{ $lgbtqtech_coc }">《面向性少数群体的技术行为守则》</a>和<a href="{ $wiscon_coc }">《威斯康星行为守则》</a>。本文档和所有相关流程是众多谋智人共同努力的成果。
 participation-modifications-to-these = 准则修订
 participation-mozilla-may-amend = { -brand-name-mozilla } 须随时修正本准则，并根据特定案例情况调整处理程序。您同意遵守准则即代表您同意对本准则的所有更改。此政策不构成任何 { -brand-name-mozilla } 员工的雇佣合同的一部分，亦无合同效力。
-participation-1-the-anti-harassment = [1] 在职职工可在<a href="{ $missing-var }">此处</a>参阅反骚扰政策。
+participation-1-the-anti-harassment = [1] 在职职工可在<a href="{ $url }">此处</a>参阅反骚扰政策。
