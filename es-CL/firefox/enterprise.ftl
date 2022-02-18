@@ -13,7 +13,7 @@ firefox-enterprise-downloads = Descargas
 firefox-enterprise-get-firefox-for-your-enterprise = Obtén { -brand-name-firefox } para tu empresa
 # Variables:
 #   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Obtén <a href="%s">{ -brand-name-firefox-extended-support-release } o el de lanzamiento rápido</a> para una seguridad y protección integral de datos.
+firefox-enterprise-get-the-firefox-extended-support = Obtén <a href="{ $url }">{ -brand-name-firefox-extended-support-release } o el de lanzamiento rápido</a> para una seguridad y protección integral de datos.
 firefox-enterprise-unmatched-data-protection = Protección de datos sin igual — en la cadena de lanzamiento que se adapta a ti
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = El navegador { -brand-name-firefox } es de código abierto y proporciona protección mejorada contra el rastreo, todo parte de nuestro compromiso a largo plazo con la protección de datos.
