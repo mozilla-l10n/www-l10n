@@ -28,7 +28,7 @@ password-manager-no-more-try-again = Finite tote le tentativas tediose de atting
 password-manager-password-champion = Contrasigno defendente
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
-password-manager-earn-your-security-gold-medal = Gania tu medalia auree de securitate con le vaste serie de <a href="{ $additivos }">additivos</a> gestores de contrasignos de { -brand-name-firefox }. Elige un additivo existente de tu preferentia, o trova un additivo ancora melior legente le evalutationes e recensiones del communitate experte.
+password-manager-earn-your-security-gold-medal = Gania tu medalia auree de securitate con le vaste serie de <a href="{ $addons }">additivos</a> gestores de contrasignos de { -brand-name-firefox }. Elige un additivo existente de tu preferentia, o trova un additivo ancora melior legente le evalutationes e recensiones del communitate experte.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Contrasigno maestro
