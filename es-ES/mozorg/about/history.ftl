@@ -69,7 +69,7 @@ history-of-course-were-not-alone = Por supuesto, no estamos solos en esta tarea.
 history-the-mozilla-community-together = La comunidad { -brand-name-mozilla }, junto con otros proyectos de código abierto y otras organizaciones de beneficio público, existe solo por las personas que se dedican a hacer nuestros objetivos comunes realidad.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
-history-if-you-want-to-join-us-in = Si quieres unirte a nosotros en nuestra misión, por favor <a href="{ $Contribute }">involúcrate</a>.
+history-if-you-want-to-join-us-in = Si quieres unirte a nosotros en nuestra misión, por favor <a href="{ $contribute }">involúcrate</a>.
 history-for-more-information-about = Para obtener más información sobre la historia de { -brand-name-mozilla }, lee lo siguiente:
 history-mozilla-bookmarks = Marcadores de { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Cronología del proyecto { -brand-name-mozilla }
