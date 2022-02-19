@@ -14,9 +14,9 @@ mobile-android-firefox-browser = { -brand-name-firefox-browser }
 mobile-android-go-mobile-go = Будьте мобильны. Обеспечьте свою независимость с { -brand-name-firefox } для { -brand-name-android }
 # Obsolete string
 mobile-android-when-you-download = Загружая { -brand-name-firefox }, вы оказываете поддержку независимой технологической компании. { -brand-name-firefox } — единственный крупный браузер, поддерживаемый некоммерческой организацией, которая борется за предоставление вам большей открытости, прозрачности и контроля над вашей жизнью в Интернете.
-mobile-android-get-firefox-for = Получить { -brand-name-firefox } для { -brand-name-android }
+mobile-android-get-firefox-for = Получите { -brand-name-firefox } для { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Отправить ссылку для загрузки на мой телефон.
-mobile-android-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать
+mobile-android-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать загрузку
 mobile-android-scan-alt-text = Отсканируйте QR-код, чтобы получить { -brand-name-firefox } на { -brand-name-android }
 mobile-android-fast-and-private = Быстрый и приватный
 mobile-android-firefox-for-android = { -brand-name-firefox } для { -brand-name-android } легко обеспечивает защиту приватности с молниеносной загрузкой страниц. Улучшенная защита от отслеживания автоматически блокирует онлайн-трекеры, не давая им следить за вами в Интернете и замедлять работу ваших страниц.
