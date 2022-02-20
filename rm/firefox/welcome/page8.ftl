@@ -22,3 +22,5 @@ welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-share-large-files = Cundivida datotecas grondas cun criptadi da fin a fin ed ina colliaziun che scada automaticamain.
 welcome-page8-try-send = Emprova { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
+welcome-page8-stay-connected = Resta collià cun persunas ch'èn lunsch davent ed impedescha al medem mument che { -brand-name-facebook } ta suondia en il web.
+welcome-page8-add-facebook-container = Agiuntar { -brand-name-facebook-container }
