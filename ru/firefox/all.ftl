@@ -39,12 +39,12 @@ firefox-all-arm64-installers-optimized = Установщики ARM64/AArch64 о
 firefox-all-product-send-link = Отправить ссылку для загрузки на мой телефон
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Выберите 32-битный установщик для компьютеров с 32-разрядными процессорами или для старых и менее мощных компьютеров. <a href="{ $url }">Если вы не уверены</a>, выбрать ли 64-битный или 32-битный установщик, мы рекомендуем использовать 32-разрядную версию.
+firefox-all-choose-a-32-bit-installer = Выберите 32-разрядный установщик для компьютеров с 32-разрядными процессорами или для более старых и менее мощных компьютеров. <a href="{ $url }">Если вы не уверены</a>, какой установщик выбрать, мы рекомендуем использовать 32-разрядный.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
 #   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Загрузить { $product_label } для { $platform } на { $locale }
+firefox-all-download-product-for = Загрузить { $product_label } для { $platform }, язык: { $locale }
 firefox-all-msi-installers = MSI-установщики
 firefox-all-which-version = Какая версия вам нужна?
 firefox-all-select-your-preferred-installer = Выберите предпочитаемый установщик
