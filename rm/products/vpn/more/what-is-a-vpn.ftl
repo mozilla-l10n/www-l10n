@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
 
+# HTML page title and main title
+vpn-what-is-what-is-a-vpn = Tge è in VPN?
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/

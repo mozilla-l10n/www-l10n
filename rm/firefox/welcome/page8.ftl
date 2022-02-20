@@ -14,7 +14,7 @@ welcome-page8-view-your-protection-report = Visualisar tes rapport da protecziun
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Protecziun avanzada cunter il fastizar
 welcome-page8-automatically-block-sites = Impedescha automaticamain che websites ta suondian en l'internet.
-welcome-page8-see-whats-blocked = Controllescha tge che vegn bloccà
+welcome-page8-see-whats-blocked = Controllar tge che vegn bloccà
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Ve a savair sche ti es pertutgà da sperditas da datas online enconuschentas e piglia eventualmain mesiras per gestir il problem.
 welcome-page8-go-to-monitor = Utilisar { -brand-name-monitor }
@@ -24,3 +24,4 @@ welcome-page8-try-send = Emprova { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-stay-connected = Resta collià cun persunas ch'èn lunsch davent ed impedescha al medem mument che { -brand-name-facebook } ta suondia en il web.
 welcome-page8-add-facebook-container = Agiuntar { -brand-name-facebook-container }
+welcome-page8-why-am-i = Pertge ves jau quai?
