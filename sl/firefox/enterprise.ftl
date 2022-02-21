@@ -12,7 +12,7 @@ firefox-enterprise-overview = Pregled
 firefox-enterprise-downloads = Prenosi
 firefox-enterprise-get-firefox-for-your-enterprise = Prenesite { -brand-name-firefox } za svoje podjetje
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Prenesite brskalnik <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ali Rapid Release</a> za celovito varnost in zaščito podatkov.
 firefox-enterprise-unmatched-data-protection = Neprekosljiva zaščita podatkov – s posodobitvenim ciklom, ki ustreza vam
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,5 +39,5 @@ firefox-enterprise-documentation-and-community = Dokumentacija in podpora skupno
 firefox-enterprise-pkg-installer = Namestitveni program PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } (32-bitni)
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Prenesite { -brand-name-firefox-esr } ali Rapid Release za <br> <a href="{ $firefox_all }"> drug jezik ali platformo.</a>

@@ -12,7 +12,7 @@ firefox-enterprise-overview = მიმოხილვა
 firefox-enterprise-downloads = ჩამოტვირთვა
 firefox-enterprise-get-firefox-for-your-enterprise = { -brand-name-firefox } თქვენი დაწესებულებისთვის
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = გადმოწერეთ <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ან სწრაფი გამოშვების</a> ბრაუზერი მონაცემთა უსაფრთხოების სრული და ყოველმხრივი დაცვით.
 firefox-enterprise-unmatched-data-protection = მონაცემთა უბადლო დაცვა — გამოშვებები თქვენზე მორგებული სიხშირით
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = დებულებების მ�
 firefox-enterprise-release-notes = გამოშვების მონაცემები
 firefox-enterprise-documentation-and-community = მასალები და მხარდაჭერა ერთობისგან
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = ნიმუშად <a href="{ $url }">plist პროფილის გამართვისთვის</a>
 firefox-enterprise-pkg-installer = PKG-დასაყენებელი
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-ბიტიანი
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = ჩამოტვირთეთ { -brand-name-firefox-esr } ან სწრაფი გამოშვება<br> <a href="{ $firefox_all }">სხვა ენასა და სისტემაზე.</a>

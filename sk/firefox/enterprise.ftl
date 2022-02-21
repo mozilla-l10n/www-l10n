@@ -12,7 +12,7 @@ firefox-enterprise-overview = Prehľad
 firefox-enterprise-downloads = Stiahnuť
 firefox-enterprise-get-firefox-for-your-enterprise = Získajte { -brand-name-firefox } pre svoj podnik
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Získajte prehliadač <a href="{ $url }">{ -brand-name-firefox-extended-support-release } alebo jeho klasickú veziu</a> na komplexné zabezpečenie a ochranu údajov.
 firefox-enterprise-unmatched-data-protection = Čas vydávania nových verzií, ktorý vyhovuje vášmu podniku
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Dokumentácia k pravidlám
 firefox-enterprise-release-notes = Poznámky k vydaniu
 firefox-enterprise-documentation-and-community = Dokumentácia a komunitná podpora
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Zoznam pre <a href="{ $url }">nastavenie profilu</a>
 firefox-enterprise-pkg-installer = PKG inštalátor
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Stiahnite si { -brand-name-firefox-esr } alebo jeho klasickú verziu pre<br> <a href="{ $firefox_all }">iný jazyk alebo platformu.</a>

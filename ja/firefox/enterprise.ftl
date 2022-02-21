@@ -12,7 +12,7 @@ firefox-enterprise-downloads = ダウンロード
 firefox-enterprise-get-firefox-for-your-enterprise = 業務用として { -brand-name-firefox } をご利用ください
 
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = <a href="{ $url }">{ -brand-name-firefox-extended-support-release }ブラウザーでも Rapid Release ブラウザーでも</a>、包括的なデータのセキュリティと保護をご利用いただけます。
 
 firefox-enterprise-unmatched-data-protection = 所属組織に合った頻度のリリースで、業界随一のデータ保護を
@@ -43,12 +43,12 @@ firefox-enterprise-release-notes = リリースノート
 firefox-enterprise-documentation-and-community = 説明書・コミュニティサポート
 
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">構成プロフィールのサンプル plist</a>
 
 firefox-enterprise-pkg-installer = PKG インストーラー
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 ビット
 
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = <a href="{ $firefox_all }">別の言語または別のプラットフォーム用</a>の { -brand-name-firefox-esr } または Rapid Release をダウンロード

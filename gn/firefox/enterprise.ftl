@@ -12,7 +12,7 @@ firefox-enterprise-overview = Jehechapa
 firefox-enterprise-downloads = Ñemboguejy
 firefox-enterprise-get-firefox-for-your-enterprise = Ereko { -brand-name-firefox } ne mba’apohaguasúpe g̃uarã
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Ereko kundahára <a href="{ $url }">{ -brand-name-firefox-extended-support-release } térã Rapid Release</a> mba’ekuaarã rekorosã ha ñemo’ãrã tuichaháicha.
 firefox-enterprise-unmatched-data-protection = Mba’ekuaarã ñemo’ã ijojaha’ỹva — mbohekopyahu meme eikotevẽva.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Purureko kuatiaita
 firefox-enterprise-release-notes = Jehaipy rehegua
 firefox-enterprise-documentation-and-community = Kuatiata ha tekohagua ñepytyvõ
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Techapyrã <a href="{ $url }">plist mbohekopyahu mba’tépe g̃uarã</a>
 firefox-enterprise-pkg-installer = PKG mohendaha
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Emboguejy { -brand-name-firefox-esr } térã Rapid Release <br> <a href="{ $firefox_all }">ambue ñe’ẽ térã plataforma peg̃uarã.</a>

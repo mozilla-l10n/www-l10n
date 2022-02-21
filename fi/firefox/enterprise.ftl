@@ -32,7 +32,7 @@ firefox-enterprise-deployment-guide = Käyttöönotto-opas
 firefox-enterprise-release-notes = Julkaisutiedot
 firefox-enterprise-documentation-and-community = Dokumentaatio ja yhteisön tuki
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Esimerkki <a href="{ $url }">plist konfiguraatioprofiili</a>
 firefox-enterprise-pkg-installer = PKG-asentaja
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bittinen

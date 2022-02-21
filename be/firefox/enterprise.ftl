@@ -12,7 +12,7 @@ firefox-enterprise-overview = Агляд
 firefox-enterprise-downloads = Сцягванні
 firefox-enterprise-get-firefox-for-your-enterprise = Атрымайце { -brand-name-firefox } для свайго прадпрыемства
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Атрымайце <a href="{ $url }">{ -brand-name-firefox-extended-support-release } або рэгулярны выпуск</a> для ўсебаковай бяспекі і абароны дадзеных.
 firefox-enterprise-unmatched-data-protection = Непараўнальная ахова звестак — з цыклам выпускаў, які падыходзіць вам
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Дакументацыя групав�
 firefox-enterprise-release-notes = Заўвагі пры выпуску
 firefox-enterprise-documentation-and-community = Дакументацыя і падтрымка супольнасці
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Прыклад <a href="{ $url }">plist для профілю канфігурацыі</a>
 firefox-enterprise-pkg-installer = Усталявальнік PKG
 firefox-enterprise-windows-32-bit = 32-разрадная { -brand-name-windows }
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Сцягніце { -brand-name-firefox-esr } або рэгулярны выпуск для<br> <a href="{ $firefox_all }">іншай мовы ці платформы.</a>

@@ -12,7 +12,7 @@ firefox-enterprise-overview = Επισκόπηση
 firefox-enterprise-downloads = Λήψεις
 firefox-enterprise-get-firefox-for-your-enterprise = Λήψη του { -brand-name-firefox } για επιχειρήσεις
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Αποκτήστε το <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ή την έκδοση ταχείας κυκλοφορίας</a> για πλήρη προστασία και ασφάλεια δεδομένων.
 firefox-enterprise-unmatched-data-protection = Ασύγκριτη προστασία δεδομένων — με το ρυθμό εκδόσεων που σας ταιριάζει
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Τεκμηρίωση πολιτική�
 firefox-enterprise-release-notes = Σημειώσεις έκδοσης
 firefox-enterprise-documentation-and-community = Τεκμηρίωση και υποστήριξη κοινότητας
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Δείγμα <a href="{ $url }">plist για προφίλ ρυθμίσεων παραμέτρων</a>
 firefox-enterprise-pkg-installer = Πρόγραμμα εγκατάστασης PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Λήψη της έκδοσης { -brand-name-firefox-esr } ή της έκδοσης ταχείας κυκλοφορίας για<br> <a href="{ $firefox_all }">άλλη γλώσσα ή πλατφόρμα.</a>

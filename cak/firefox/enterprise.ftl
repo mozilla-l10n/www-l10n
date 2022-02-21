@@ -12,7 +12,7 @@ firefox-enterprise-overview = Chijun rutzijoxkil
 firefox-enterprise-downloads = Taq qasanïk
 firefox-enterprise-get-firefox-for-your-enterprise = Tak'ulu' { -brand-name-firefox } richin ri amoloj k'ayij
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Tik'ul ri <a href="{ $url }">{ -brand-name-firefox-extended-support-release } o Rapid Release</a> okik'amaya'l richin jun jikom chuqa' tz'aqät kichajinik taq tzij.
 firefox-enterprise-unmatched-data-protection = Man relik ta ruchajixik tzij — rik'in ri jutaqil taq ruk'exoj nik'atzin chawe.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Kimolik Na'ojil
 firefox-enterprise-release-notes = Ruch'utitzijol Ruwäch
 firefox-enterprise-documentation-and-community = Molïk chuqa' Ruto'ik Tinamït
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Rutz'etob'al <a href="{ $url }">plist richin runuk'ulem ruwäch rub'i'</a>
 firefox-enterprise-pkg-installer = PKG yakonel
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Tiqasäx { -brand-name-firefox-esr } o Rapid Release richin<br> <a href="{ $firefox_all }">jun chik ch'ab'äl o nuk'che'el.</a>

@@ -12,7 +12,7 @@ firefox-enterprise-downloads = Unduhan
 firefox-enterprise-get-firefox-for-your-enterprise = Dapatkan { -brand-name-firefox } untuk perusahaan Anda
 
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Dapatkan peramban <a href="{ $url }">{ -brand-name-firefox-extended-support-release } atau Rilis Cepat</a> untuk keamanan dan perlindungan data yang komprehensif.
 
 firefox-enterprise-unmatched-data-protection = Perlindungan data tak tertandingi — dengan laju rilis yang sesuai dengan Anda
@@ -43,12 +43,12 @@ firefox-enterprise-release-notes = Catatan Rilis
 firefox-enterprise-documentation-and-community = Dokumentasi dan Dukungan Komunitas
 
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Contoh <a href="{ $url }">plist untuk profil konfigurasi</a>
 
 firefox-enterprise-pkg-installer = Penginstal PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Unduh { -brand-name-firefox-esr } atau Rilis Rapid untuk<br><a href="{ $firefox_all }">bahasa atau platform lain.</a>

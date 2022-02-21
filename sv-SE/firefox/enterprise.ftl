@@ -12,7 +12,7 @@ firefox-enterprise-overview = Översikt
 firefox-enterprise-downloads = Hämtningar
 firefox-enterprise-get-firefox-for-your-enterprise = Hämta { -brand-name-firefox } till ditt företag
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Hämta webbläsaren <a href="{ $url }">{ -brand-name-firefox-extended-support-release } eller Rapid Release</a> för omfattande datasäkerhet och dataskydd.
 firefox-enterprise-unmatched-data-protection = Få ett oöverträffat dataskydd — med utgåvor som släpps i en rytm som passar din organisation.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Policy-dokumentation
 firefox-enterprise-release-notes = Versionsfakta
 firefox-enterprise-documentation-and-community = Dokumentation och stöd från gemenskapen
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Exempel på <a href="{ $url }">plist för konfigurationsprofil</a>
 firefox-enterprise-pkg-installer = PKG-installationsprogram
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bitars
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Hämta { -brand-name-firefox-esr } eller Rapid Release för<br> <a href="{ $firefox_all }">ett annat språk eller plattform.</a>

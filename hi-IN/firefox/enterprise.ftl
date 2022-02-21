@@ -12,7 +12,7 @@ firefox-enterprise-downloads = डाउनलोड
 firefox-enterprise-get-firefox-for-your-enterprise = अपने बिज़नेस के लिए { -brand-name-firefox } पाएँ
 
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = पूर्ण रूप से डेटा सुरक्षा और डेटा प्रोटेक्शन के लिए <a href="{ $url }">{ -brand-name-firefox-extended-support-release } या रैपिड रिलीज़</a> ब्राउज़र पाएँ।
 
 firefox-enterprise-unmatched-data-protection = बेमिसाल डेटा सुरक्षा - आपकी पसंद की रिलीज़ पर
@@ -43,12 +43,12 @@ firefox-enterprise-release-notes = रिलीज़ नोट्स
 firefox-enterprise-documentation-and-community = प्रलेखन और सामुदायिक समर्थन
 
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">कॉन्फ़िगरेशन प्रोफ़ाइल के लिए</a> नमूना
 
 firefox-enterprise-pkg-installer = PKG इंस्टॉलर
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-बिट
 
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = <br><a href="{ $firefox_all }">दूसरी भाषा या प्लैटफ़ार्म</a> के लिए { -brand-name-firefox-esr } या रैपिड रिलीज़ डाउनलोड करें।

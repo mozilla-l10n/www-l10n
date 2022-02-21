@@ -12,7 +12,7 @@ firefox-enterprise-overview = 개요
 firefox-enterprise-downloads = 다운로드
 firefox-enterprise-get-firefox-for-your-enterprise = 기업용 { -brand-name-firefox } 다운로드
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = 기업 내 포괄적인 데이터 보안을 위해 <a href="{ $url }"> { -brand-name-firefox-extended-support-release } 또는 Rapid Release </a> 브라우저를 다운로드하세요.
 firefox-enterprise-unmatched-data-protection = 타의 추종을 불허하는 데이터 보호 기능 — 적절한 출시 주기
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = 정책 문서
 firefox-enterprise-release-notes = 출시 안내
 firefox-enterprise-documentation-and-community = 문서 및 커뮤니티 지원
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }"> 구성 프로필의 plist </a> 샘플
 firefox-enterprise-pkg-installer = PKG 설치 프로그램
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32비트
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = <br> <a href="{ $firefox_all }"> 다른 언어 또는 플랫폼 </a> 용 { -brand-name-firefox-esr } 또는 Rapid Release를 다운로드하세요.

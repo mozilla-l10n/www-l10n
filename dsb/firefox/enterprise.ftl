@@ -12,7 +12,7 @@ firefox-enterprise-overview = Pśeglěd
 firefox-enterprise-downloads = Ześěgnjenja
 firefox-enterprise-get-firefox-for-your-enterprise = Wobstarajśo se { -brand-name-firefox } za Enterprise
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Wobstarajśo se wobglědowak <a href="{ $url }">{ -brand-name-firefox-extended-support-release } abo Rapid Release</a> za wobšyrnu datowu wěstotu a šćit datow.
 firefox-enterprise-unmatched-data-protection = Njepśetrjefjony datowy šćit - pla wózjawjeńskego rytmusa, kótaryž se k wam maka.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Dokumentacija pšawidłow
 firefox-enterprise-release-notes = Wersijowe informacije
 firefox-enterprise-documentation-and-community = Dokumentacija a pódpěra wót zgromaźeństwa
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Pśikład <a href="{ $url }">plist za konfiguraciski profil</a>
 firefox-enterprise-pkg-installer = PKG-instalěrowak
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Ześěgniśo { -brand-name-firefox-esr } abo Rapid Release za<br> <a href="{ $firefox_all }">drugu rěc abo platformu.</a>

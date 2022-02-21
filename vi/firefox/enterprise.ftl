@@ -12,7 +12,7 @@ firefox-enterprise-overview = Tổng quan
 firefox-enterprise-downloads = Tải xuống
 firefox-enterprise-get-firefox-for-your-enterprise = Tải { -brand-name-firefox } cho doanh nghiệp của bạn
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Tải xuống <a href="{ $url }">{ -brand-name-firefox-extended-support-release } hoặc bản phát hành chính thức</a> của trình duyệt để bảo mật dữ liệu toàn diện và bảo vệ dữ liệu.
 firefox-enterprise-unmatched-data-protection = Bảo vệ dữ liệu chưa từng có — trên nhịp phát hành phù hợp với bạn
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Tài liệu chính sách
 firefox-enterprise-release-notes = Ghi chú phát hành
 firefox-enterprise-documentation-and-community = Tài liệu và hỗ trợ cộng đồng
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Mẫu <a href="{ $url }">plist cho các tập tin cấu hình</a>
 firefox-enterprise-pkg-installer = Trình cài đặt PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Tải xuống { -brand-name-firefox-esr } hoặc bản phát hành nhanh cho<br> <a href="{ $firefox_all }">ngôn ngữ hoặc nền tảng khác.</a>
