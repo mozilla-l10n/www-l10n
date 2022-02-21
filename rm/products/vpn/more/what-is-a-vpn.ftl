@@ -24,6 +24,11 @@ vpn-what-is-when-should-i = Cura duess jau utilisar in VPN?
 vpn-what-is-connecting-to-a = Ina connexiun cun ina rait WLAN publica po esser pratica, per exempel sche ti n'has nagin'autra connexiun d'internet u nagins stritgins sin tes telefon. Da l'autra vart po la connexiun cun ina rait WLAN publica esser ristgusa. I n'è betg pussaivel da verifitgar che nagin auter saja connectà cun la medema rait per spiunar e vegnir a savair tge che ti fas. Schizunt sche tes traffic è criptà pon auters vesair las websites che ti visitas. E sche ti utiliseschas in'applicaziun betg criptada – talas datti anc ozendi bleras – pon auters vesair potenzialmain tut quai che ti fas gist.
 vpn-what-is-when-youre-at = Sche ti es a chasa è la ristga pli pitschna ch'insatgi cun nauschas intenziuns cumparia en tia rait da chasa. Tes purschider d'internet po tuttina fastizar e cundivider tias activitads online perquai che tut las datas che ti retschaivas da l'internet vegnan tramessas tras la rait da tes purschider d'internet ch'è eventualmain gnanc criptada. In VPN po impedir che purschiders d'internet ta spiuneschian cun criptar tes traffic cun tes purschider da VPN independentamain da tes lieu.
 vpn-what-is-wait-i-thought = Spetga in mument, jau hai pensà che mes traffic d'internet saja gia criptà cun agid da HTTPS…
+vpn-what-is-its-true-that = Igl è correct che las bleras connexiuns cun websites èn segiradas ozendi cun HTTPS. Quai munta ch'il cuntegn è criptà, dentant betg l'adressa IP da la funtauna u quella da la destinaziun. In VPN porscha ina protecziun da datas supplementara cun impedir che websites e terzas partidas vegnian a savair tia adressa IP.
+vpn-what-is-why-would-i = Pertge duess jau utilisar in VPN?
+vpn-what-is-hiding-your-identity = Zuppentar l'identitad ed il traffic da datas dal web para dad esser insatge che mo persunas tecnologicamain super versadas fan, u lura glieud cun intenziuns dubiusas. Ma i dat in pèr motivs legitims per utilisar in VPN, per exempel:
+vpn-what-is-keeping-your-online = Mantegnair privatas tias activitads online.
+vpn-what-is-keeping-your-home = Zuppentar la posiziun da tes dachasa u dals lieus che ti visitas savens.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
