@@ -11,6 +11,8 @@ vpn-what-is-what-is-a-vpn = Tge è in VPN?
 vpn-what-is-get-answers-to-nine = Legia las respostas a nov dumondas frequentas davart VPNs e ve a savair tge ch'els fan, cura als utilisar e pertge.
 vpn-what-is-many-of-us = Blers da nus passentan pliras uras al di cun utilisar l'internet per chaussas dal mintgadi sco guardar videos, far cumpras, giugar e per pajar quints enfin a l'administraziun da projects cumplexs e communicaziun confidenziala via videotelefonia. Ina <strong>rait privata virtuala (VPN)</strong> è ina da las meglras opziuns per garantir la sfera privata e la segirezza online e per proteger tias datas persunalas.
 vpn-what-is-how-do-vpns = Co funcziunan VPNs?
+vpn-what-is-a-vpn-is = In VPN è in instrument che ta permetta dad acceder a l'internet a moda segira danunder ch'i saja. In VPN funcziuna cun crear in «tunnel» segir tranter tes apparat e tes purschider da VPN ed el ta protegia en duas manieras fundamentalas:
+vpn-what-is-concealing-your-ip = El zuppenta tia adressa IP per che tia identitad e tes lieu actual vegnian protegids.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
