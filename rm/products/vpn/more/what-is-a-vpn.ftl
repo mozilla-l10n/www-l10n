@@ -15,6 +15,7 @@ vpn-what-is-a-vpn-is = In VPN è in instrument che ta permetta dad acceder a l'i
 vpn-what-is-concealing-your-ip = El zuppenta tia adressa IP per che tia identitad e tes lieu actual vegnian protegids.
 vpn-what-is-encrypting-your-traffic = El criptescha tes traffic da datas tranter tai e tes purschider da VPN uschia che nagin en tia rait locala n'al po decriptar u modifitgar.
 vpn-what-is-in-the-past = En il passà vegnivan VPNs utilisads per regla dad interpresas per pussibilitar l'access a distanza segir a lur servetschs interns ed a las datas proprietaras da l'interpresa. Ozendi percunter stattan VPNs a disposiziun a mintgin che vuless proteger sia connexiun cun l'internet, surtut sch'i sa tracta da raits malsegiras sco WLANs publics, ma els èn schizunt nizzaivels sch'i sa tracta dad ina rait privata a chasa.
+vpn-what-is-a-vpn-will = In VPN protegia il traffic da datas tranter tai e tes furnitur da VPN, saja quai via tes navigatur, tias applicaziuns u ulteriurs servetschs. Per configurar in VPN stos ti crear in conto cun in purschider da VPN ed installar la software da VPN sin tes computer u telefon. Sch'il VPN è activà vegn quel a gestir il traffic da datas da tut las applicaziuns e la software installadas sin tes apparat. Uschia pos ti navigar e communitgar libramain via ina connexiun da rait privata e segira.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
