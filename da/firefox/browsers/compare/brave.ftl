@@ -22,7 +22,7 @@ compare-brave-the-internet-as-a-whole-is = Internettet er generelt finansieret a
 compare-brave-whether-this-sounds-complicated = Om det lyder kompliceret eller som en fantastisk idé kommer nok an på, hvor meget du hader bannerreklamer på internettet. De fleste internetbrugere forstår, at godt indhold koster penge at producere - og de har det fint med, at pengene kommer fra reklamer.
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
-compare-brave-on-the-other-side-of-the-coin = Med { -brand-name-firefox } foretrækker vi derimod simple løsninger. { -brand-name-firefox } forhindrer som standard mange tredjeparts-sporings-mekanismer, cryptominers og fingerprinters i at følge dig rundt på nettet. Men udenfor tilstanden Privat browsing blokerer { -brand-name-firefox } ikke bannerreklamer. Altså, ikke medmindre du installerer { $attrs }én af de udvidelser, der er designet til at blokere reklamer</a>.
+compare-brave-on-the-other-side-of-the-coin = Med { -brand-name-firefox } foretrækker vi derimod simple løsninger. { -brand-name-firefox } forhindrer som standard mange tredjeparts-sporings-mekanismer, cryptominers og fingerprinters i at følge dig rundt på nettet. Men udenfor tilstanden Privat browsing blokerer { -brand-name-firefox } ikke bannerreklamer. Altså, ikke medmindre du installerer <a { $attrs }>én af de udvidelser, der er designet til at blokere reklamer</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
 #   $extension (string) - link to https://addons.mozilla.org/addon/https-everywhere/ with additional attributes for analytics
