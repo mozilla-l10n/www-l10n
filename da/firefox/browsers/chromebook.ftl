@@ -8,6 +8,8 @@
 
 # HTML page title
 
+browsers-chromebook-get-firefox-browser = Hent { -brand-name-firefox-browser } til { -brand-name-chromebook }
+browsers-chromebook-browsers-chromebook-get-firefox-for = Hent { -brand-name-firefox } til { -brand-name-android }
 browsers-chromebook-dropdown-copy = Få { -brand-name-firefox } til { -brand-name-chromebook }
 
 # Variables:
