@@ -13,6 +13,7 @@ vpn-what-is-many-of-us = Blers da nus passentan pliras uras al di cun utilisar l
 vpn-what-is-how-do-vpns = Co funcziunan VPNs?
 vpn-what-is-a-vpn-is = In VPN è in instrument che ta permetta dad acceder a l'internet a moda segira danunder ch'i saja. In VPN funcziuna cun crear in «tunnel» segir tranter tes apparat e tes purschider da VPN ed el ta protegia en duas manieras fundamentalas:
 vpn-what-is-concealing-your-ip = El zuppenta tia adressa IP per che tia identitad e tes lieu actual vegnian protegids.
+vpn-what-is-encrypting-your-traffic = El criptescha tes traffic da datas tranter tai e tes purschider da VPN uschia che nagin en tia rait locala n'al po decriptar u modifitgar.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
