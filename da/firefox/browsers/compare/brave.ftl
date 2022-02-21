@@ -7,6 +7,8 @@
 
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } eller { -brand-name-brave }: Hvilken browser er bedst til dig?
+# HTML page description
+compare-brave-compare-brave-to-the-firefox = Sammenlign { -brand-name-brave } med { -brand-name-firefox-browser } for at finde ud af, hvilken browser der er bedst til dig med i forhold til funktionalitet, portabilitet og beskyttelse af dit privatliv.
 # Main title
 compare-brave-comparing-firefox-browser = Sammenligning mellem { -brand-name-firefox-browser } og { -brand-name-brave }
 # "Brave Software" is a brand name.
