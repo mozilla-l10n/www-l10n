@@ -29,6 +29,10 @@ vpn-what-is-why-would-i = Pertge duess jau utilisar in VPN?
 vpn-what-is-hiding-your-identity = Zuppentar l'identitad ed il traffic da datas dal web para dad esser insatge che mo persunas tecnologicamain super versadas fan, u lura glieud cun intenziuns dubiusas. Ma i dat in pèr motivs legitims per utilisar in VPN, per exempel:
 vpn-what-is-keeping-your-online = Mantegnair privatas tias activitads online.
 vpn-what-is-keeping-your-home = Zuppentar la posiziun da tes dachasa u dals lieus che ti visitas savens.
+vpn-what-is-protecting-your-connection = Proteger tia connexiun cun ina rait WLAN publica, per exempel en in café, a l'eroport, en ina butia u biblioteca.
+vpn-what-is-ensuring-the-confidentiality = Garantir la confidenzialitad ed integritad da tes access a l'internet.
+vpn-what-is-make-it-more = Difficultar a raits da reclama dad utilisar tia IP per crear profils per reclama persunalisada che registreschan tia navigaziun en il web.
+vpn-what-is-what-are-the = Tge èn ils dischavantatgs dad in VPN?
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
