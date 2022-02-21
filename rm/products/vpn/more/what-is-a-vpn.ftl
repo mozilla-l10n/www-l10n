@@ -18,6 +18,10 @@ vpn-what-is-in-the-past = En il passà vegnivan VPNs utilisads per regla dad int
 vpn-what-is-a-vpn-will = In VPN protegia il traffic da datas tranter tai e tes furnitur da VPN, saja quai via tes navigatur, tias applicaziuns u ulteriurs servetschs. Per configurar in VPN stos ti crear in conto cun in purschider da VPN ed installar la software da VPN sin tes computer u telefon. Sch'il VPN è activà vegn quel a gestir il traffic da datas da tut las applicaziuns e la software installadas sin tes apparat. Uschia pos ti navigar e communitgar libramain via ina connexiun da rait privata e segira.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-what-is-a-vpn-provider = In purschider da VPN porscha per regla ina retscha da gateways da connexiun en differents lieus sin l'entir mund. Quai ta permetta dad utilisar in'adressa IP dad ina posiziun geografica che n'è betg tia atgna. Uschia vesa il lieu cun il qual ti es connectà l'IP da tes VPN e betg tia adressa IP effectiva sco funtauna da tes traffic. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> maina tes traffic tras in server segir e ta lascha tscherner in lieu en passa { $countries } pajais.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
 #   $mission (url) - https://www.mozilla.org/mission/
 # "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
