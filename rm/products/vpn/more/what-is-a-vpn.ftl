@@ -33,6 +33,9 @@ vpn-what-is-protecting-your-connection = Proteger tia connexiun cun ina rait WLA
 vpn-what-is-ensuring-the-confidentiality = Garantir la confidenzialitad ed integritad da tes access a l'internet.
 vpn-what-is-make-it-more = Difficultar a raits da reclama dad utilisar tia IP per crear profils per reclama persunalisada che registreschan tia navigaziun en il web.
 vpn-what-is-what-are-the = Tge èn ils dischavantatgs dad in VPN?
+vpn-what-is-some-service-providers = Tscherts purschiders da servetschs blocheschan visitas via VPNs e rendan inaccessibels lur cuntegns sch'in VPN è activà. Insaquants VPNs ta ralenteschan u limiteschan tes volumen da datas transferibel. Ed auters VPNs han ina reputaziun dubiusa en connex cun la protecziun da datas e la segirezza da lur utilisaders.
+vpn-what-is-are-vpns-safe = Èn VPNs segirs?
+vpn-what-is-its-very-hard = Igl è fitg difficil da chattar in VPN fidabel. VPNs duessan avair l'intenziun da proteger lur utilisaders cura che quels èn online, ma betg tut ils VPNs porschan in servetsch da medema qualitad. Sche ti es a la tschertga dad in servetsch da VPN, fa la segira che ti hajas chapì la cundiziuns che ti acceptas. Blers servetschs pretendan da porscher ina qualitad excellenta e che la sfera privata als stettia a cor, ma blers na tegnan betg pled. Tscherts VPNs registreschan tias activitads online per pudair vender tias datas ed infurmaziuns ad interpresas da marketing. Auters VPNs emprovan da ta surmanar dad installar software nuschaivla sin tes apparats.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
