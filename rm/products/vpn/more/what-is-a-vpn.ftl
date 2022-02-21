@@ -20,6 +20,7 @@ vpn-what-is-a-vpn-will = In VPN protegia il traffic da datas tranter tai e tes f
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
 vpn-what-is-a-vpn-provider = In purschider da VPN porscha per regla ina retscha da gateways da connexiun en differents lieus sin l'entir mund. Quai ta permetta dad utilisar in'adressa IP dad ina posiziun geografica che n'è betg tia atgna. Uschia vesa il lieu cun il qual ti es connectà l'IP da tes VPN e betg tia adressa IP effectiva sco funtauna da tes traffic. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> maina tes traffic tras in server segir e ta lascha tscherner in lieu en passa { $countries } pajais.
+vpn-what-is-when-should-i = Cura duess jau utilisar in VPN?
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
