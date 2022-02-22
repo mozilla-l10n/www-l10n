@@ -12,7 +12,7 @@ firefox-enterprise-overview = Ակնարկ
 firefox-enterprise-downloads = Ներբեռնումներ
 firefox-enterprise-get-firefox-for-your-enterprise = Ստացեք { -brand-name-firefox }-ը ձեր ձեռնարկության համար
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Ստացեք <a href="{ $url }"> { -brand-name-firefox-extended-support-release } կամ արագ թողարկում</a> զննարկիչը` տվյալների համապարփակ անվտանգության և պաշտպանության համար:
 firefox-enterprise-unmatched-data-protection = Անհամեմատելի տվյալների պաշտպանություն. թողարկման ռիթմում, որը հարմար է ձեզ
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Քաղաքականության փաս�
 firefox-enterprise-release-notes = Թողարկման նշումներ
 firefox-enterprise-documentation-and-community = Փաստաթղթավորում և համայնքային աջակցություն
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Նմուշ <a href="{ $url }">բաց թողնել կազմաձևման պրոֆիլի համար</a>
 firefox-enterprise-pkg-installer = PKG տեղադրիչ
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-բիթանոց
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Ներբեռնել { -brand-name-firefox-esr }-ը կամ արագ թողարկումը<br> <a href="{ $firefox_all }">այլ լեզվով կամ հարթակով: </a>

@@ -15,7 +15,7 @@ vpn-or-proxy-stop-isps-from = Stoppa le ISPs de spiar te
 #   $firefox (url) - https://www.mozilla.org/firefox/new/
 #   $etp (url) - https://blog.mozilla.org/products/firefox/control-trackers-with-firefox/
 #   $trackers (url) - https://blog.mozilla.org/internet-culture/mozilla-explains/what-is-a-web-tracker/
-vpn-or-proxy-when-you-use-firefox = Quando tu <a href="{ $firefox }">usa { -brand-name-firefox }</a>, le <a href="{ $etp }">protection contra-traciamento reinfortiate</a> bloca automaticamente multe <a href="{ $traciatores }">traciatores de web</a> de tertie parte sequer te circum le web.
+vpn-or-proxy-when-you-use-firefox = Quando tu <a href="{ $firefox }">usa { -brand-name-firefox }</a>, le <a href="{ $etp }">protection contra-traciamento reinfortiate</a> bloca automaticamente multe <a href="{ $trackers }">traciatores de web</a> de tertie parte sequer te circum le web.
 vpn-or-proxy-because-your-internet =
     Pois que tu traffico internet move a e de tu apparatos (computator, telephono, tv, tabletta) a transverso de tu ISP, illes pote vider ubi tu va online. Un ISP pote vider que sitos tu visita, per quante tempore tu es sur illos, tu position e informationes re tu apparatos. Un ISP non pote saper le detalios de que tu ha facite sur ille sitos (como que tu comprava, recercava o lege) gratias al cryptation, ma illes pote facer deductiones re te in base al sitos que tu visitava.  Ille datos personal pote esser usate pro crear detaliate profilos re te. 
     Perque vole ISPs facer isto? In breve: iste datos es preciose.

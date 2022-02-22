@@ -12,7 +12,7 @@ firefox-enterprise-overview = Tazwert
 firefox-enterprise-downloads = Isidar
 firefox-enterprise-get-firefox-for-your-enterprise = Awi-d { -brand-name-firefox } i tkebbanit-inek
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Awi iminig <a href="{ $url }">{ -brand-name-firefox-extended-support-release } or Rapid Release</a> i tɣellist d ummesten yemmden n yisefka.
 firefox-enterprise-unmatched-data-protection = Ammesten n yisefka ur nesɛi tamtilt — deg unya n lqem i ak-ilaqen
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Tasemlit n tsertit
 firefox-enterprise-release-notes = Tizmilin n lqem
 firefox-enterprise-documentation-and-community = Tasemlit d tallelt n tmezdagnut
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Amedya n <a href="{ $url }">plist i twila n umaɣnu</a>
 firefox-enterprise-pkg-installer = Asebdad PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-ibiten
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Sader { -brand-name-firefox-esr } neɣ lqem arurad i <br><a href="{ $firefox_all }"> tiɣerɣert-nniḍen n tutlayt. </a>

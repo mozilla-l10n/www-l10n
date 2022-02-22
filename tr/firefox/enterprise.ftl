@@ -12,7 +12,7 @@ firefox-enterprise-overview = Genel Bakış
 firefox-enterprise-downloads = İndirmeler
 firefox-enterprise-get-firefox-for-your-enterprise = İşletmeniz için { -brand-name-firefox }'u edinin
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Kapsamlı veri güvenliği ve koruması için <a href="{ $url }">{ -brand-name-firefox-extended-support-release } veya Hızlı Sürüm’ü</a> indirin.
 firefox-enterprise-unmatched-data-protection = Size en uygun sürüm takvimiyle benzersiz veri koruması
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = İlke belgeleri
 firefox-enterprise-release-notes = Sürüm notları
 firefox-enterprise-documentation-and-community = Belgeler ve topluluk desteği
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">Yapılandırma profili için plist</a> örneği
 firefox-enterprise-pkg-installer = PKG yükleyici
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bit
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = { -brand-name-firefox-esr } veya Hızlı Sürüm’ü<br><a href="{ $firefox_all }">başka bir dil veya platform</a> için indirin.

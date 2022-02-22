@@ -12,7 +12,7 @@ firefox-enterprise-overview = Trosolwg
 firefox-enterprise-downloads = Pecynnau
 firefox-enterprise-get-firefox-for-your-enterprise = Cael { -brand-name-firefox } ar gyfer eich menter
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Cael y porwr <a href="{ $url }">{ -brand-name-firefox-extended-support-release }  neu Rapid Release</a> am ddiogeledd data cynhwysfawr ac i ddiogelu eich data.
 firefox-enterprise-unmatched-data-protection = Cewch ddiogelwch data heb ei ail — gydag amlder ryddhau sy'n addas i'ch sefydliad.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Dogfennaeth polisi
 firefox-enterprise-release-notes = Nodiadau rhyddhau
 firefox-enterprise-documentation-and-community = Dogfennaeth a Chefnogaeth Gymunedol
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Sampl o'r <a href="{ $url }">plist ar gyfer proffil ffurfweddiad</a>
 firefox-enterprise-pkg-installer = Gosodwr PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-did
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Llwythwch { -brand-name-firefox-esr } neu Rapid Release  i lawr ar gyfer <br> <a href="{ $firefox_all }">iaith neu blatfform arall.</a>

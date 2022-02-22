@@ -12,7 +12,7 @@ firefox-enterprise-overview = Oersjoch
 firefox-enterprise-downloads = Downloads
 firefox-enterprise-get-firefox-for-your-enterprise = Download { -brand-name-firefox } foar jo ûndernimming
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Download de <a href="{ $url }">{ -brand-name-firefox-extended-support-release } of Rapid Release</a>-browser foar wiidweidige gegevensbefeiliging en -beskerming.
 firefox-enterprise-unmatched-data-protection = Bjusterbaarlike gegevensbeskerming – op de útjeftefrekwinsje dy’t by jo past
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Beliedsdokumintaasje
 firefox-enterprise-release-notes = Utjefteopmerkingen
 firefox-enterprise-documentation-and-community = Dokumintaasje en mienskipsstipe
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Foarbyld fan in <a href="{ $url }">plist foar konfiguraasjeprofyl</a>
 firefox-enterprise-pkg-installer = PKG-ynstallaasjeprogramma
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bits
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Download { -brand-name-firefox-esr } of Rapid Release foar<br><a href="{ $firefox_all }">in oare taal of platfoarm.</a>

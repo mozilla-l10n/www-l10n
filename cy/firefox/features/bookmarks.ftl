@@ -27,7 +27,7 @@ features-bookmarks-customize-that-bookmark = Cyfaddaswch y nod tudalen hwnnw
 features-bookmarks-futz-with-that-bookmark = Chwarae gyda nodau tudalen
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
-features-bookmarks-practice-your-precision = Arferwch eich manylder gyda phob <a href="%(url)s">ychwanegyn</a> rheoli nodau tudalen, fedrwch feddwl amdano, o luniau sgrin tudalen llawn i fariau ochr newid cyflym i nodau tudalen preifat wedi eu cloi'n dynn.
+features-bookmarks-practice-your-precision = Arferwch eich manylder gyda phob <a href="{ $url }">ychwanegyn</a> rheoli nodau tudalen, fedrwch feddwl amdano, o luniau sgrin tudalen llawn i fariau ochr newid cyflym i nodau tudalen preifat wedi eu cloi'n dynn.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers

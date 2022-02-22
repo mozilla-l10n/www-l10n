@@ -90,8 +90,8 @@ participation-reporting = 檢舉
 participation-if-you-believe-youre = 如果您認為正經歷自己無法接受的行為，也不為上述規範所容忍，<a href="{ $hotline }">請使用我們的專線提出檢舉</a>。檢舉會直接交由 { -brand-name-mozilla } 的雇用諮詢和人力資源合作夥伴，並由社群參與準則回應負責人進行分類。
 participation-if-you-believe-youre-email = 若您認為遇到了上述無法容忍的行為，請來信 <a href="{ $mailto_report }">cpg-report@mozilla.com</a> 檢舉。檢舉報告將由社群參與準則回應負責人進行分類處理。
 participation-after-receiving-a = 在收到您的情況的簡要說明後，他們會審查並決定下一步。除了進行任何調查外，還可以提供私人諮詢及其他各種社群資源，並將視需求尋找其他同仁或外部專家（例如法律顧問）的協助，以適當的方式來處理各種情況。
-participation-additional-resources = 其他資源：<a href="{ $missing-var }">如何檢舉</a>
-participation-questions-cpg-questionsmozillacom = 若有疑問，請來信：<a href="{ $missing-var }">cpg-questions@mozilla.com</a>
+participation-additional-resources = 其他資源：<a href="{ $url }">如何檢舉</a>
+participation-questions-cpg-questionsmozillacom = 若有疑問，請來信：<a href="{ $url }">cpg-questions@mozilla.com</a>
 participation-please-also-report = 如果察覺到潛在的危險情況、有人需要協助或違反這些準則，即使您並非當事人，也請提出檢舉。
 participation-if-you-feel-you-have = 如果您認為您受到違反這些準則的不公平指控，請依照相同的檢舉流程提出訴願。
 participation-mozilla-spaces = { -brand-name-mozilla } Space
@@ -106,4 +106,4 @@ participation-this-set-of-guidelines = 此準則係依照 <a href="{ $license }"
 participation-these-guidelines-have = 這些準則乃修改自 { -brand-name-mozilla } 原版〈社群參與準則〉、<a href="{ $ubuntu_coc }">〈Ubuntu 行為守則〉</a>、{ -brand-name-mozilla } 的<a href="{ $viewsource_coc }">〈View Source 研討會行為守則〉</a>以及<a href="{ $rustlang_coc }">〈{ -brand-name-rust } Language 行為守則〉</a>（修改自 Stumptown Syndicate 的〈<a href="{ $citizen_coc }">市民行為守則</a>〉）。其他文字內容來自<a href="{ $lgbtqtech_coc }">〈LGBTQ in Technology 行為守則〉</a>和<a href="{ $wiscon_coc }">〈WisCon 行為守則〉</a>。<br>本文件和所有相關流程是許許多多 Mozillian 共同努力的成果。
 participation-modifications-to-these = 準則修訂
 participation-mozilla-may-amend = { -brand-name-mozilla } 得隨時修正本準則，並且根據特定案例的情況來修正處理程序。您同意遵守準則就代表您同意對本準則的所有更改。此政策不構成任何 { -brand-name-mozilla } 員工的勞動契約的一部分，亦無合約效力。
-participation-1-the-anti-harassment = [1] 受薪員工可在<a href="{ $missing-var }">此處</a>參閱反騷擾政策。
+participation-1-the-anti-harassment = [1] 受薪員工可在<a href="{ $url }">此處</a>參閱反騷擾政策。

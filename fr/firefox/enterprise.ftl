@@ -12,7 +12,7 @@ firefox-enterprise-downloads = Téléchargements
 firefox-enterprise-get-firefox-for-your-enterprise = Obtenez { -brand-name-firefox } pour votre entreprise
 
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Téléchargez <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ou la version avec une cadence de publication rapide</a> pour une sécurité et une protection complètes des données.
 
 firefox-enterprise-unmatched-data-protection = Bénéficiez d’une protection des données sans égale avec la cadence de publication qui vous convient
@@ -43,12 +43,12 @@ firefox-enterprise-release-notes = Notes de mise à jour
 firefox-enterprise-documentation-and-community = Documentation et assistance communautaire
 
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Exemple de <a href="{ $url }">plist pour le profil de configuration</a>
 
 firefox-enterprise-pkg-installer = Installeurs PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bits
 
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Téléchargez { -brand-name-firefox-esr } ou la version avec une cadence de publication rapide<br> <a href="{ $firefox_all }">dans une autre langue ou pour une autre plateforme.</a>

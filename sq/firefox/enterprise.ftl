@@ -12,7 +12,7 @@ firefox-enterprise-overview = Përmbledhje
 firefox-enterprise-downloads = Shkarkime
 firefox-enterprise-get-firefox-for-your-enterprise = Merrni { -brand-name-firefox }-in për ndërmarrjen tuaj
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Për siguri të plotë të dhënash dhe mbrojtje të dhënash, merrni <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ose Rapid Release</a>.
 firefox-enterprise-unmatched-data-protection = Mbrojtje të pashoqe të dhënash — sipas shpeshtisë së hedhjeve në qarkullim që ju bën punë
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Dokumentim rregullash
 firefox-enterprise-release-notes = Shënime Versioni
 firefox-enterprise-documentation-and-community = Dokumentim dhe Asistencë nga Bashkësia
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Shembull <a href="{ $url }">plist-e për profil formësimi</a>
 firefox-enterprise-pkg-installer = Instalues PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Shkarkojeni { -brand-name-firefox-esr } ose atë Rapid Release për<br> <a href="{ $firefox_all }">tjetër gjuhë ose platformë.</a>

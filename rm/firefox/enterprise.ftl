@@ -12,7 +12,7 @@ firefox-enterprise-overview = Survista
 firefox-enterprise-downloads = Telechargiadas
 firefox-enterprise-get-firefox-for-your-enterprise = Installescha { -brand-name-firefox } per tia interpresa
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Telechargia il <a href="{ $url }">{ -brand-name-firefox-extended-support-release } u la versiun cun ina cadenza rapida dad acutualisaziuns</a> per la segirezza e protecziun da datas cumplessiva.
 firefox-enterprise-unmatched-data-protection = Protecziun da datas insuperada – cun ina cadenza dad actualisaziuns che correspunda a tes basegns.
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Documentaziun da las directivas
 firefox-enterprise-release-notes = Indicaziuns davart la versiun
 firefox-enterprise-documentation-and-community = Documentaziun e support da la cuminanza
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Exempel da <a href="{ $url }">plist per il profil da configuraziun</a>
 firefox-enterprise-pkg-installer = Program d'installaziun PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bits
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Telechargia { -brand-name-firefox-esr } u la versiun cun ina cadenza dad actualisaziuns rapida<br><a href="{ $firefox_all }">en in'autra lingua u per in'autra plattafurma</a>.

@@ -12,7 +12,7 @@ firefox-enterprise-overview = ภาพรวม
 firefox-enterprise-downloads = ดาวน์โหลด
 firefox-enterprise-get-firefox-for-your-enterprise = รับ { -brand-name-firefox } สำหรับองค์กรของคุณ
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = รับเบราว์เซอร์<a href="{ $url }">{ -brand-name-firefox-extended-support-release } หรือ Rapid Release</a> สำหรับการรักษาความปลอดภัยของข้อมูลและการปกป้องข้อมูลแบบครอบคลุม
 firefox-enterprise-unmatched-data-protection = ปกป้องข้อมูลชนิดต่าง ๆ บนจังหวะการออกรุ่นที่เหมาะกับคุณ
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = เอกสารประกอบ�
 firefox-enterprise-release-notes = บันทึกประจำรุ่น
 firefox-enterprise-documentation-and-community = เอกสารประกอบและการสนับสนุนของชุมชน
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">plist ตัวอย่างสำหรับโปรไฟล์กำหนดค่า</a>
 firefox-enterprise-pkg-installer = ตัวติดตั้ง PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 บิต
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = ดาวน์โหลด { -brand-name-firefox-esr } หรือ Rapid Release ใน<br> <a href="{ $firefox_all }">ภาษาหรือแพลตฟอร์มอื่น</a>

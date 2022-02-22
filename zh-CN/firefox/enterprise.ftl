@@ -12,7 +12,7 @@ firefox-enterprise-overview = 总览
 firefox-enterprise-downloads = 下载
 firefox-enterprise-get-firefox-for-your-enterprise = 为您的企业选择 { -brand-name-firefox }
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = 下载部署 <a href="{ $url }">{ -brand-name-firefox-extended-support-release }或快速发行版</a>，获得全面的信息安全和数据保护。
 firefox-enterprise-unmatched-data-protection = 以适合您的版本发行节奏，获得无与伦比的数据保护。
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = 策略文档
 firefox-enterprise-release-notes = 发行说明
 firefox-enterprise-documentation-and-community = 文档和社区支持
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = 配置文件的 <a href="{ $url }">Plist 模板</a>
 firefox-enterprise-pkg-installer = PKG 安装包
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 位
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = 下载 { -brand-name-firefox-esr } 或快速发行版<br> <a href="{ $firefox_all }">其他语言和平台。</a>

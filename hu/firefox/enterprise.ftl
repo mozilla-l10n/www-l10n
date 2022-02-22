@@ -12,7 +12,7 @@ firefox-enterprise-overview = Áttekintés
 firefox-enterprise-downloads = Letöltések
 firefox-enterprise-get-firefox-for-your-enterprise = Szerezze be a { -brand-name-firefox }ot vállalata számára
 # Variables:
-#   $promise (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Szerezze be a <a href="{ $url }">{ -brand-name-firefox-extended-support-release }t vagy a gyors kiadású</a> böngészőt az átfogó adatbiztonságért és adatvédelemért.
 firefox-enterprise-unmatched-data-protection = Páratlan adatvédelem – az Önnek megfelelő kiadási ütem mellett
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -39,10 +39,10 @@ firefox-enterprise-policy-documentation = Házirend-dokumentáció
 firefox-enterprise-release-notes = Kiadási megjegyzések
 firefox-enterprise-documentation-and-community = Dokumentáció és közösségi támogatás
 # Variables:
-#   $promise (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Minta <a href="{ $url }">plist konfigurációs profilhoz</a>
 firefox-enterprise-pkg-installer = PKG telepítő
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bites
 # Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = A { -brand-name-firefox-esr } vagy gyors kiadású verzió letöltése egy<br> <a href="{ $firefox_all }">másik nyelvre vagy platformra.</a>

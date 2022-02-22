@@ -33,7 +33,7 @@ vpn-when-to-use-because-your-internet = Pois que tu traffico internet a casa mov
 vpn-when-to-use-make-sure-you = Verifica que tu comprende lo que un VPN non face
 # Variables
 #   $book (url) - https://www.mozilla.org/firefox/privacy/book/
-vpn-when-to-use-a-vpn-provides = Un VPN offere un importante ligamine de securitate protegente tu datos private ante que illos viagia per internet, e illo alsi occulta tu adresse IP, adjutante proteger tu identitate e position. Illo totevia, non te prevenira de cosas como cliccar sur ligamines suspecte, discargar malware o devenir victima de fraude e-mail. Tu ancora besonia de practicar <a href="{ $libro }">bon habitudes pro remaner secur online</a>.
+vpn-when-to-use-a-vpn-provides = Un VPN offere un importante ligamine de securitate protegente tu datos private ante que illos viagia per internet, e illo alsi occulta tu adresse IP, adjutante proteger tu identitate e position. Illo totevia, non te prevenira de cosas como cliccar sur ligamines suspecte, discargar malware o devenir victima de fraude e-mail. Tu ancora besonia de practicar <a href="{ $book }">bon habitudes pro remaner secur online</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, un servicio VPN digne de fide
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
