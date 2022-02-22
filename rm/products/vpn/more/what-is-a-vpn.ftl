@@ -47,3 +47,5 @@ vpn-what-is-can-vpns-protect = Pon VPNs ma proteger da cybercriminals?
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
 vpn-what-is-while-a-vpn = Malgrà ch'in VPN porscha ina connexiun segira a l'internet n'è el betg en cas da ta proteger da tuts cun nauschas intenziuns en quest mund. Mintga giada che ti es online, cun u senza in VPN, duessas ti esser precaut cun colliaziuns suspectusas, campagnas da dischinfurmaziun, engions da phishing ed auters privels. Per <a href="{ $url }">restar segir en l'internet</a> dovri ina conscienza adequata en il mintgadi.
 vpn-what-is-are-vpns-legal = Èn VPNs legals?
+vpn-what-is-installing-and-using = L'installaziun e l'utilisaziun dad in VPN è actualmain legala en ils blers pajais, inclusivamain ils Stadis Unids, il Reginavel Unì, il Canada e la Nova Zelanda, ma tscherts pajais reglamenteschan eventualmain l'utilisaziun. Sche ti ta decidas d'utilisar in VPN es ti responsabel da controllar a maun da las leschas dal pajais sche l'utilisaziun è legala u betg.
+vpn-what-is-are-vpns-only = Èn VPNs mo per computers?
