@@ -10,9 +10,8 @@ vpn-shared-waitlist-link = ウェイトリストに登録
 vpn-shared-sign-in-link = 既にサブスクリプションをご契約の場合
 
 # Outdated string
-vpn-shared-available-countries-v3 = { -brand-name-mozilla-vpn } は、現在アメリカ、カナダ、英国、ドイツ、フランス、イタリア、スペイン、ベルギー、オーストリア、スイス、マレーシア、ニュージーランド、シンガポールで提供しています。
-
 vpn-shared-available-countries-v4 = 現在、{ -brand-name-mozilla-vpn } はアイルランド、イタリア、オーストリア、オランダ、カナダ、シンガポール、スイス、スペイン、ドイツ、ニュージーランド、フランス、ベルギー、マレーシア、英国、米国で提供しています。
+
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 日間の返金保証

@@ -10,9 +10,8 @@ vpn-shared-waitlist-link = Sertai Senarai Menunggu
 vpn-shared-sign-in-link = Sudah melanggan?
 
 # Outdated string
-vpn-shared-available-countries-v3 = Kini kami menawarkan perkhidmatan { -brand-name-mozilla-vpn } di AS, Kanada, UK, Jerman, Perancis, Itali, Sepanyol, Belgium, Austria, Switzerland, Malaysia, New Zealand dan Singapura.
-
 vpn-shared-available-countries-v4 = Kami kini menawarkan { -brand-name-mozilla-vpn } di Austria, Belgium, Kanada, Perancis, Jerman, Ireland, Itali, Malaysia, Belanda, New Zealand, Singapura, Sepanyol, Switzerland, UK, dan AS.
+
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Jaminan wang dikembalikan dalam masa 30 hari
