@@ -18,8 +18,7 @@ vpn-ip-address-an-example-of-an-ip = Contoh alamat IP yang merupakan urutan empa
 vpn-ip-address-if-you-look-up-your = Jika Anda mencari alamat IP Anda, seperti itulah yang akan terlihat.
 vpn-ip-address-does-it-travel = Apakah selalu menyertai Anda?
 
-# Variables
-#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+# Outdated string
 vpn-ip-address-no-your-ip = Tidak. Alamat IP Anda hanya terkait dengan satu lokasi kecuali Anda <a href="{ $url }">menggunakan VPN</a> (kami akan membahas lebih lanjut nanti). Saat Anda berada di rumah dan terhubung ke internet yang terpasang di rumah, maka Anda menggunakan salah satunya. Namun, jika Anda mengecek email di rumah di pagi hari, kemudian membaca berita di kedai kopi sambil sarapan, dan kemudian bekerja dari kantor, maka Anda akan menggunakan alamat IP yang berbeda di setiap lokasi.
 vpn-ip-address-does-your-ip = Apakah alamat IP Anda berubah?
 vpn-ip-address-yes-even-if = Ya. Bahkan jika Anda hanya menggunakan internet di rumah, alamat IP untuk rumah Anda dapat berubah. Anda dapat menghubungi penyedia layanan internet (ISP) untuk mengubahnya, tetapi berbagai tindakan yang biasa dilakukan seperti me-restart modem atau router karena masalah koneksi internet dapat mengakibatkan perubahan.

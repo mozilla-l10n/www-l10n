@@ -18,8 +18,7 @@ vpn-ip-address-an-example-of-an-ip = Ein Beispiel für eine IP-Adresse, die aus 
 vpn-ip-address-if-you-look-up-your = Wenn Sie Ihre IP-Adresse nachschlagen, sieht sie ungefähr so aus.
 vpn-ip-address-does-it-travel = Ist Ihre IP-Adresse standortungebunden?
 
-# Variables
-#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+# Outdated string
 vpn-ip-address-no-your-ip = Nein. Ihre IP-Adresse ist nur mit einem Standort verknüpft, es sei denn, Sie verwenden <a href="{ $url }">ein VPN</a> (dazu später mehr). Wenn Sie zu Hause sind und sich mit dem Internet verbinden, für das Sie bezahlen, verwenden Sie eine. Wenn Sie jedoch morgens zu Hause Ihre E-Mails lesen, dann die Nachrichten in einem Café überfliegen, während Sie auf Ihren Kaffee warten, und dann von einem Büro aus arbeiten, haben Sie an jedem Standort unterschiedliche IP-Adressen verwendet.
 vpn-ip-address-does-your-ip = Ändert sich Ihre IP-Adresse?
 vpn-ip-address-yes-even-if = ja. Auch wenn Sie nur zu Hause das Internet nutzen, kann sich die IP-Adresse für Ihr Zuhause ändern. Sie können sich an Ihren Internetdienstanbieter (ISP) wenden, um dies zu ändern, aber selbst etwas Alltägliches wie das Neustarten Ihres Modems oder Routers aufgrund von Problemen mit der Internetverbindung kann zu einer neuen IP-Adresse führen.

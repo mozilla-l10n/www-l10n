@@ -18,8 +18,7 @@ vpn-ip-address-an-example-of-an-ip = Exemple d’une adresse IP, qui est constit
 vpn-ip-address-if-you-look-up-your = Si vous cherchez votre adresse IP, voilà à quoi elle ressemble.
 vpn-ip-address-does-it-travel = Est-ce qu’elle vous accompagne partout ?
 
-# Variables
-#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+# Outdated string
 vpn-ip-address-no-your-ip = Non. Votre adresse IP est uniquement associée à un emplacement, à moins que vous <a href="{ $url }">utilisiez un VPN</a> (nous traiterons de la question plus loin). Lorsque vous êtes à la maison et que vous utilisez la connexion Internet que vous payez, vous utilisez une adresse IP. Toutefois, si vous consultez vos e-mails le matin à la maison, puis lisez les actualités dans un café et travaillez ensuite dans un bureau, vous aurez utilisé différentes adresses IP à chacun de ces endroits.
 vpn-ip-address-does-your-ip = Votre adresse IP change-t-elle ?
 vpn-ip-address-yes-even-if = Oui. Même si vous n’utilisez Internet qu’à la maison, l’adresse IP de votre domicile peut changer. Vous pouvez contacter votre fournisseur d’accès à Internet (FAI) pour la modifier, mais même une action aussi banale que le redémarrage de votre modem ou de votre routeur en raison de problèmes de connexion à Internet peut entraîner un changement.

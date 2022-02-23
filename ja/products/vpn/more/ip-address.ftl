@@ -18,8 +18,7 @@ vpn-ip-address-an-example-of-an-ip = IP アドレスは、123.45.67.89 のよう
 vpn-ip-address-if-you-look-up-your = 自分の IP アドレスを調べると、このような感じで表示されます。
 vpn-ip-address-does-it-travel = ユーザーが移動しても IP アドレスはついてくる？
 
-# Variables
-#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+# Outdated string
 vpn-ip-address-no-your-ip = いいえ。<a href="{ $url }">VPN を使用</a> (後で解説) していない限り、IP アドレスは 1 か所のロケーションにのみ関連付けられます。自宅で有料のインターネットに接続しているときは、IP アドレスを使用しています。ただし、朝に自宅でメールを確認し、それから地元のカフェでニュースを見て、オフィスで仕事をするといったときには、それぞれの場所で異なる IP アドレスを使用することになります。
 vpn-ip-address-does-your-ip = IP アドレスは変わる？
 vpn-ip-address-yes-even-if = はい。自宅のみでインターネットを使用していても、IP アドレスが変化することがあります。インターネットサービスプロバイダー (ISP) に連絡して変更することができますが、インターネット接続の問題でモデムやルーターを再起動するなどの日常的な作業でも変化することがあります。
