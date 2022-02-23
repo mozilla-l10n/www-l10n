@@ -52,3 +52,4 @@ vpn-what-is-are-vpns-only = Èn VPNs mo per computers?
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = VPNs pon vegnir utilisads per proteger tut tes apparats – computers, laptops, tablets e telefonins. Sche ti accedas a l'internet via applicaziuns independentas da tes navigatur è in VPN ina buna decisiun per proteger tia sfera privata e garantir tia segirezza sin mintga apparat. Ti stos installar in VPN sin mintga apparat per ch'i funcziunia. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> porscha ina connexiun illimitada per maximalmain tschintg apparats, sin ils quals ti pos ta connectar cun mintga app u navigatur cun l'internet.
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: svelt, segir, fidabel
