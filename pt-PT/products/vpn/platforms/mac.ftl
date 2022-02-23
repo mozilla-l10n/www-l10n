@@ -9,3 +9,8 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
+# Mac strings
+vpn-mac-hero-headline = Proteja a sua ligação online com a { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
+vpn-mac-wifi-headline = Sinta-se seguro numa rede wifi suspeita
+vpn-mac-about-headline = De um fabricante de tecnologia confiável
+vpn-mac-privacy-headline = Privacidade na ponta dos seus dedos
