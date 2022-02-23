@@ -53,3 +53,14 @@ vpn-what-is-are-vpns-only = Èn VPNs mo per computers?
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = VPNs pon vegnir utilisads per proteger tut tes apparats – computers, laptops, tablets e telefonins. Sche ti accedas a l'internet via applicaziuns independentas da tes navigatur è in VPN ina buna decisiun per proteger tia sfera privata e garantir tia segirezza sin mintga apparat. Ti stos installar in VPN sin mintga apparat per ch'i funcziunia. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> porscha ina connexiun illimitada per maximalmain tschintg apparats, sin ils quals ti pos ta connectar cun mintga app u navigatur cun l'internet.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: svelt, segir, fidabel
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> è in servetsch al qual ti pos ta fidar per proteger tia connexiun cun l'internet da tut tes apparats. Nus na preservain betg ils protocols da tias activitads en la rait e na collavurain era betg cun terzas partidas che creeschan profils da quai che ti fas online. En in mund en il qual l'imprevisibilitad è daventada la «nova normalitad», savain nus ch'igl è pli impurtant che mai che ti ta sentias segir e che ti sappias che quai che ti fas online reguarda mo tai.
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> è in servetsch al qual ti pos ta fidar per proteger tia connexiun cun l'internet da tut tes apparats. Nus na preservain betg ils protocols da tias activitads en la rait e na collavurain era betg cun terzas partidas che creeschan profils da quai che ti fas online. En in mund en il qual l'imprevisibilitad è daventada la nova normalitad…
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> è in servetsch al qual ti pos ta fidar per proteger tia connexiun cun l'internet da tut tes apparats. Nus na preservain betg protocols da datas d'utilisaders e na collavurain era betg cun plattafurmas d'analisa da terzas partidas che vulan crear in profil da quai che ti fas online. En in mund en il qual l'imprevisibilitad è daventada la «nova normalitad», savain nus ch'igl è pli impurtant che mai che ti ta sentias segir e che ti sappias che quai che ti fas online reguarda mo tai.
