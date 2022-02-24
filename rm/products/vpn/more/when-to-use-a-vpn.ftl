@@ -24,6 +24,10 @@ vpn-when-to-use-2-in-the = 2. En il quartier
 # "legit" is shortened slang for "legitimate"
 vpn-when-to-use-have-you-ever = Es ti gia ta connectà cun in hotspot che sa numna <em>C0MCAST-WiFi-77th-St</em> u <em>Verizon3-Hotspot-Baltimore</em> u sumegliant? Quai para in num legitim, u betg? Attenziun. En realitad è mintgin en cas dad endrizzar ina rait da WLAN publica faussa cun in num serius per surmanar la glieud da l'utilisar. La connexiun cun ina rait da WLAN nunenconschenta fa da tai ina victima ideala per spiuns e criminals che vulessan acceder a tes apparat per engular infurmaziuns privatas, installar software nuschaivla u far insatge anc pli nausch. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> po augmentar tia segirezza mintga giada che ti ta connecteschas cun in WLAN public cun impedir che persunas nunenconuschentas vesian datas privatas che vegnan tramessas da tes telefon u laptop. Quai vala per la connexiun cun ina rait da WLAN en cafés, butias, praticas da medis etc.
 # Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-when-to-use-the-most-important = Il pli impurtant da considerar en connex cun la decisiun per in VPN è la tscherna dad ina interpresa fidabla. Fa la segira che ti chapeschias las cundiziuns d'utilisaziun che ti acceptas. Blers pretendan da porscher ina buna qualitad e da garantir la protecziun da datas, ma blers na tegnan betg pled. Betg tut ils servetschs da proxy e da VPN èn propi segirs e privats. Tscherts <a href="{ $cnet }">protocolleschan</a> <a href="{ $pcmag }">tias activitads online</a> per sez pudair vender tias datas ed infurmaziuns ad interpresas da marketing. Auters servetschs emprovan schizunt da ta persvader dad installar software nuschaivla sin tes apparats.
+# Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
 #   $mission (url) - https://www.mozilla.org/mission/
