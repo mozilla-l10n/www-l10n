@@ -9,6 +9,9 @@
 browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } 行動瀏覽器將您的隱私擺在第一位
 # Obsolete string
 browsers-mobile-at-home-or-on-the-move = 不論是在家還是還是在外頭，加強型追蹤保護在每一套 { -brand-name-firefox } 行動瀏覽器中都自動開啟，讓您獲得應有的尊重。
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+# Obsolete string
+browsers-mobile-get-the-mobile-browser-privacy = 下載把您的<strong>隱私權</strong>置於最優先的行動瀏覽器。
 browsers-mobile-firefox-for-android = { -brand-name-firefox } for { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
