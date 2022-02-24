@@ -17,6 +17,8 @@ vpn-ip-address-if-you-look-up-your = Ak si vyhľadáte svoju IP adresu, bude to 
 vpn-ip-address-does-it-travel = Presúva sa s vami?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Nie. Vaša IP adresa je spojená iba s jedným miestom, pokiaľ nepoužívate sieť VPN (viac sa tomu budeme venovať neskôr). Keď ste doma a pripájate sa na internet, za ktorý platíte, používate jednu adresu. Ak si však ráno doma skontrolujete e-mail, potom si počas čakania na kávu naskenujete správy v miestnej kaviarni a potom budete pracovať z kancelárie, na každom mieste budete používať iné adresy IP.
+# Outdated string
 vpn-ip-address-no-your-ip = Nie. Vaša IP adresa je spojená iba s jedným miestom, pokiaľ <a href="{ $url }">nepoužívate sieť VPN</a> (viac sa tomu budeme venovať neskôr). Keď ste doma a pripájate sa na internet, za ktorý platíte, používate jednu adresu. Ak si však ráno doma skontrolujete e-mail, potom si počas čakania na kávu naskenujete správy v miestnej kaviarni a potom budete pracovať z kancelárie, na každom mieste budete používať iné adresy IP.
 vpn-ip-address-does-your-ip = Mení sa vaša IP adresa?
 vpn-ip-address-yes-even-if = Áno. Aj keď používate internet iba doma, IP adresa vášho domova sa môže zmeniť. Môžete sa obrátiť na svojho poskytovateľa internetových služieb (ISP), aby ho zmenil, ale aj niečo také bežné, ako je reštartovanie modemu alebo smerovača z dôvodu problémov s internetovým pripojením, môže viesť k zmene adresy.
