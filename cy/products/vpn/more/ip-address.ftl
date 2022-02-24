@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
@@ -17,6 +17,8 @@ vpn-ip-address-if-you-look-up-your = Os fyddwch yn chwilio am eich cyfeiriad IP,
 vpn-ip-address-does-it-travel = A yw'n teithio gyda chi?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Na. Dim ond un lleoliad y mae eich cyfeiriad IP yn gysylltiedig ag ef, oni bai eich bod yn defnyddio VPN (byddwn yn edrych yn fanylach ar hynny yn nes ymlaen). Pan fyddwch yn eich cartref ac yn cysylltu â'r rhyngrwyd ac yn talu amdano, rydych chi'n defnyddio un. Fodd bynnag, os gwiriwch eich e-bost gartref yn y bore, yna edrych ar y newyddion mewn siop goffi leol wrth aros am eich coffi, ac yna gweithio o swyddfa, byddwch wedi defnyddio cyfeiriadau IP gwahanol ym mhob lleoliad.
+# Outdated string
 vpn-ip-address-no-your-ip = Na. Dim ond un lleoliad y mae eich cyfeiriad IP yn gysylltiedig ag ef, oni bai eich bod yn <a href="{ $url }">yn defnyddio VPN</a> (byddwn yn edrych yn fanylach ar hynny yn nes ymlaen). Pan fyddwch yn eich cartref ac yn cysylltu â'r rhyngrwyd rydych chi'n talu amdano, rydych chi'n defnyddio un. Fodd bynnag, os gwiriwch eich e-bost gartref yn y bore, yna edrych ar y newyddion mewn siop goffi leol wrth aros am eich coffi, ac yna gweithio o swyddfa, byddwch wedi defnyddio cyfeiriadau IP gwahanol ym mhob lleoliad.
 vpn-ip-address-does-your-ip = A yw eich cyfeiriad IP yn newid?
 vpn-ip-address-yes-even-if = Ydy. Hyd yn oed os ydych chi'n defnyddio'r rhyngrwyd gartref yn unig, gall cyfeiriad IP eich cartref newid. Gallwch gysylltu â'ch darparwr gwasanaeth rhyngrwyd (ISP) i'w newid, ond gall hyd yn oed rhywbeth mor gyffredin ag ailgychwyn eich modem neu'ch llwybrydd oherwydd problemau cysylltiad rhyngrwyd arwain at newid.
