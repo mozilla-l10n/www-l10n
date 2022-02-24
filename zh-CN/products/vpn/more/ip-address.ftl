@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
@@ -17,6 +17,8 @@ vpn-ip-address-if-you-look-up-your = 若您查看自己的 IP 地址，它看起
 vpn-ip-address-does-it-travel = IP 地址是与您本人关联的吗？
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = 非也。除非您使用 VPN，否则您的 IP 地址只会与每个位置相关联（我们稍后会详细介绍）。您在家中连接付费互联网时，使用了一个 IP 地址。然而，您早上在家查收电子邮件，接着在咖啡店等待咖啡时浏览新闻，之后到办公室工作。事实上，您在这三个位置使用的 IP 地址都是不同的。
+# Outdated string
 vpn-ip-address-no-your-ip = 非也。除非您<a href="{ $url }">使用 VPN</a>，否则您的 IP 地址只会与每个位置相关联（我们稍后会详细介绍）。您在家中连接付费互联网时，使用了一个 IP 地址。然而，您早上在家查收电子邮件，接着在咖啡店等待咖啡时浏览新闻，之后到办公室工作。事实上，您在这三个位置使用的 IP 地址都是不同的。
 vpn-ip-address-does-your-ip = 您的 IP 地址会变化吗？
 vpn-ip-address-yes-even-if = 是的。即使您只在家中使用互联网，您家的 IP 地址也有可能发生变化。您可以联系您的互联网服务提供商（ISP）进行更改。此外，因互联网连接问题而重新启动调制解调器或路由器等常规操作也可能导致 IP 地址发生变更。

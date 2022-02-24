@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = 下载 { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = 加入预约名单
 vpn-shared-sign-in-link = 已经是订阅者？
 # Outdated string
-vpn-shared-available-countries-v3 = 我们目前在美国、加拿大、英国、德国、法国、意大利、西班牙、比利时、奥地利、瑞士、马来西亚、新西兰和新加坡提供 { -brand-name-mozilla-vpn } 服务。
 vpn-shared-available-countries-v4 = 我们目前已在奥地利、比利时、加拿大、法国、德国、爱尔兰、意大利、马来西亚、荷兰、新西兰、新加坡、西班牙、瑞士、英国和美国推出 { -brand-name-mozilla-vpn }。
+vpn-shared-available-countries-v5 = 我们目前已在奥地利、比利时、加拿大、芬兰、法国、德国、爱尔兰、意大利、马来西亚、荷兰、新西兰、新加坡、西班牙、瑞典、瑞士、英国和美国推出 { -brand-name-mozilla-vpn }。
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 天退款保证
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
