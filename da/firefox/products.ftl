@@ -23,6 +23,9 @@ firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Se alle browsere
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-get-mozilla-vpn = Få { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Beskyt din rigtige mailadresse for at få bedre kontrol over din indbakke.
+firefox-products-learn-more-about-relay = Læs mere om { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
@@ -46,3 +49,4 @@ firefox-products-join-firefox-and-get-the-most = Slut dig til { -brand-name-fire
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Har du allerede en konto? <a { $fxa_attr }>Log ind</a> eller <a { $accounts_attr }>læs mere</a> om at være en del af { -brand-name-firefox }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
