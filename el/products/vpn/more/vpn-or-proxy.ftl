@@ -10,6 +10,11 @@ vpn-or-proxy-the-difference-between = Η διαφορά μεταξύ VPN και 
 # HTML page description and intro
 vpn-or-proxy-vpns-and-proxies-are = Τα VPN και οι διακομιστές μεσολάβησης αποτελούν λύσεις για το απόρρητο και την ασφάλεια σας στο διαδίκτυο. Δείτε πώς σας προστατεύουν και πώς να κάνετε την καλύτερη επιλογή.
 vpn-or-proxy-stop-isps-from = Αποτροπή κατασκοπίας από τους ISP
+# Variables
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+#   $etp (url) - https://blog.mozilla.org/products/firefox/control-trackers-with-firefox/
+#   $trackers (url) - https://blog.mozilla.org/internet-culture/mozilla-explains/what-is-a-web-tracker/
+vpn-or-proxy-when-you-use-firefox = Όταν <a href="{ $firefox }">χρησιμοποιείτε το { -brand-name-firefox }</a>, η <a href="{ $etp }">Ενισχυμένη προστασία από καταγραφή</a> αποκλείει αυτόματα πολλούς <a href="{ $trackers }">ιχνηλάτες</a> τρίτων στο διαδίκτυο. Ενδιαφέρουσα πληροφορία: ο πάροχος υπηρεσίας διαδικτύου (ISP) σας που πληρώνετε για μια σύνδεση στο διαδίκτυο — μπορεί ακόμα να σας παρατηρεί και να σας παρακολουθεί.
 vpn-or-proxy-when-should-you = Πότε πρέπει να επιλέξετε ένα VPN ή διακομιστή μεσολάβησης;
 vpn-or-proxy-secure-web-proxy = Διακομιστής μεσολάβησης: προστασία σε επίπεδο φυλλομετρητή
 # Variables
