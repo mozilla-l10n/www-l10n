@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
@@ -17,6 +17,8 @@ vpn-ip-address-if-you-look-up-your = Als u uw IP-adres opzoekt, ziet het er onge
 vpn-ip-address-does-it-travel = Reist het met u mee?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Nee. Uw IP-adres is slechts aan één locatie gekoppeld, tenzij u een VPN gebruikt (daar komen we later op terug). Wanneer u thuis bent en verbinding maakt met internet waarvoor u betaalt, gebruikt u er een. Als u echter ’s ochtends thuis uw e-mail bekijkt, vervolgens het nieuws scant in een plaatselijke koffietent terwijl u op uw koffie wacht en vervolgens vanuit een kantoor werkt, heeft u op elke locatie verschillende IP-adressen gebruikt.
+# Outdated string
 vpn-ip-address-no-your-ip = Nee. Uw IP-adres is slechts aan één locatie gekoppeld, tenzij u <a href="{ $url }">een VPN gebruikt</a> (daar komen we later op terug). Wanneer u thuis bent en verbinding maakt met internet waarvoor u betaalt, gebruikt u er een. Als u echter ’s ochtends thuis uw e-mail bekijkt, vervolgens het nieuws scant in een plaatselijke koffietent terwijl u op uw koffie wacht en vervolgens vanuit een kantoor werkt, heeft u op elke locatie verschillende IP-adressen gebruikt.
 vpn-ip-address-does-your-ip = Verandert uw IP-adres?
 vpn-ip-address-yes-even-if = Ja. Zelfs als u alleen thuis internet gebruikt, kan het IP-adres voor uw huis veranderen. U kunt contact opnemen met uw internetserviceprovider (ISP) om dit te wijzigen, maar zelfs zoiets routineus als het opnieuw opstarten van uw modem of router vanwege problemen met de internetverbinding kan tot een wijziging leiden.
