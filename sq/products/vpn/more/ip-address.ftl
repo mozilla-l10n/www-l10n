@@ -17,6 +17,8 @@ vpn-ip-address-if-you-look-up-your = Nëse kërkoni për adresën tuaj IP, do t�
 vpn-ip-address-does-it-travel = A udhëton tok me ju?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Jo. Adresa juaj IP përshoqërohet vetëm me një vendndodhje, veç në përdorshi një VPN (këtë do ta shohim më gjerë më pas). Kur jeni në shtëpi dhe lidheni në internet për të cilin paguani, përdorni një adresë të tillë. Por, nëse kontrolloni email-in në shtëpi më mëngjes, më pas u hidhni një sy lajmeve në një kafene, teksa prisni për kafenë tuaj dhe më tej punoni në zyrë, në secilën vendndodhje do të keni përdorur adresa të ndryshme IP.
+# Outdated string
 vpn-ip-address-no-your-ip = Jo. Adresa juaj IP përshoqërohet vetëm me një vendndodhje, veç në <a href="{ $url }">përdorshi një VPN</a> (këtë do ta shohim më gjerë më pas). Kur jeni në shtëpi dhe lidheni në internet për të cilin paguani, përdorni një adresë të tillë. Por, nëse kontrolloni email-in në shtëpi më mëngjes, më pas u hidhni një sy lajmeve në një kafene, teksa prisni për kafenë tuaj dhe më tej punoni në zyrë, në secilën vendndodhje do të keni përdorur adresa të ndryshme IP.
 vpn-ip-address-does-your-ip = A ndryshon adresa juaj IP?
 vpn-ip-address-yes-even-if = Po. Edhe kur internetin e përdorni vetëm në shtëpi, adresa IP për shtëpinë tuaj mund të ndryshojë. Mund të lidheni me furnizuesin tuaj të shërbimit internet (ISP) për ta ndryshuar, por qoftë edhe diçka aq rutinë sa rinisja e modemit apo rrugëzuesit tuaj, për shkak problemesh lidhjeje internet, mund të sjellë një ndryshim të saj.

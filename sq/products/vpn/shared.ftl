@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = Merrni { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Bëhuni pjesë e Radhës
 vpn-shared-sign-in-link = Pajtimtar tashmë?
 # Outdated string
-vpn-shared-available-countries-v3 = Aktualisht e ofrojmë { -brand-name-mozilla-vpn } në ShBA, Kanada, Britani të Madhe, Gjermani, Francë, Itali, Spanjë, Belgjikë, Austri, Zvicër, Malajzi, Zelandë të Re dhe Singapor.
 vpn-shared-available-countries-v4 = Aktualisht e ofrojmë { -brand-name-mozilla-vpn } në Austri, Belgjikë, Britani të Madhe, Francë, Gjermani, Holandë, Irlandë, Itali, Kanada, Malajzi, ShBA, Singapor, Spanjë, Zelandë të Re dhe Zvicër.
+vpn-shared-available-countries-v5 = Aktualisht e ofrojmë { -brand-name-mozilla-vpn } në Austri, Belgjikë, Kanada, Britani të Madhe, Finlandë, Francë, Gjermani, Holandë, Irlandë, Itali, Kanada, Malajzi, ShBA, Singapor, Spanjë, Suedi, Zelandë të Re dhe Zvicër.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ditë garanci kthimi parash
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
