@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
@@ -17,6 +17,8 @@ vpn-ip-address-if-you-look-up-your = Om du letar upp din IP-adress kommer den at
 vpn-ip-address-does-it-travel = Följer den med dig?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Nej. Din IP-adress är bara kopplad till en plats såvida du inte använder ett VPN (vi kommer att gå in mer på det senare). När du är hemma och ansluter till internet som du betalar för använder du ett. Men om du kollar din e-post hemma på morgonen, sedan skannar nyheterna på ett lokalt kafé medan du väntar på ditt kaffe och sedan arbetar från ett kontor, kommer du att ha använt olika IP-adresser på varje plats.
+# Outdated string
 vpn-ip-address-no-your-ip = Nej. Din IP-adress är bara kopplad till en plats om du inte <a href="{ $url }">använder ett VPN</a> (vi kommer mer in på det senare). När du är hemma och ansluter till internet som du betalar för använder du en. Men om du kontrollerar din e -post hemma på morgonen, sedan skannar nyheterna på ett lokalt kafé medan du väntar på ditt kaffe och sedan arbetar från ett kontor, har du använt olika IP-adresser på varje plats.
 vpn-ip-address-does-your-ip = Ändras din IP-adress?
 vpn-ip-address-yes-even-if = Ja. Även om du bara använder internet hemma kan IP-adressen för ditt hem ändras. Du kan kontakta din internetleverantör (ISP) för att ändra den, men till och med något så rutinmässigt som att starta om ditt modem eller din router på grund av problem med internetanslutningen kan leda till en ändring.
