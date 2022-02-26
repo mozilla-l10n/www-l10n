@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
@@ -17,6 +17,8 @@ vpn-ip-address-if-you-look-up-your = Si tu cerca tu adresse IP, illo apparera qu
 vpn-ip-address-does-it-travel = Viagia illo con te?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = No. Tu adresse IP es associate a solmente un loco, excepte si tu usa un VPN (plus detalios a continuation). Quando tu es a casa usante le connexion a internet que tu paga, tu usa un sol adresse IP. Totevia, si tu lege tu e-mail a casa in le matino, pois percurre le novas in un café local durante que tu attende le caffe, e pois labora in un officio, tu habera usate differente adresses IP in cata loco.
+# Outdated string
 vpn-ip-address-no-your-ip = No. Tu adresse IP es associate a solmente un loco, excepte si tu <a href="{ $url }">usa un VPN</a> (plus detalios a continuation). Quando tu es a casa usante le connexion a internet que tu paga, tu usa un sol adresse IP. Totevia, si tu lege tu e-mail a casa in le matino, pois percurre le novas in un café local durante que tu attende le caffe, e pois labora in un officio, tu habera usate differente adresses IP in cata loco.
 vpn-ip-address-does-your-ip = Cambia tu adresse IP?
 vpn-ip-address-yes-even-if = Si. Mesmo si tu usa internet solmente a casa, le adresse IP de tu casa pote cambiar. Tu pote contactar tu fornitor de servicio internet (ISP) pro cambiar lo, ma mesmo qualcosa routinari como reinitiar tu modem o router pro reparar problemas de connexion a internet, poterea comportar un cambio.

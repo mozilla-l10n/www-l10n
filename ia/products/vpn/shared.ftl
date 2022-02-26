@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = Installar { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Junge te al lista de attender
 vpn-shared-sign-in-link = Jam abonate?
 # Outdated string
-vpn-shared-available-countries-v3 = Nos actualmente offere { -brand-name-mozilla-vpn } in le SUA, le UK, Germania, Francia, Italia Espania, Belgio, Austria Canada, Suissa, Malaya, Nove Zelanda e Singapur.
 vpn-shared-available-countries-v4 = Nos actualmente offere { -brand-name-mozilla-vpn } in Austria, Belgio, Canada, Francia, Germania, Irlanda, Italia, Malaya, the Nederland, Nove Zelanda, Singapur, Espania, Suissa, le Regno Unite, e le Statos Unite de America.
+vpn-shared-available-countries-v5 = Nos actualmente offere { -brand-name-mozilla-vpn } in Austria, Belgio, Canada, Finlandia, Francia, Germania, Irlanda, Italia, Malaya, the Nederland, Nove Zelanda, Singapur, Espania, Svedia, Suissa, le Regno Unite, e le Statos Unite de America.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Garantia de reimbursamento de 30 dies
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
