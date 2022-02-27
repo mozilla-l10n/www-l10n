@@ -17,6 +17,8 @@ vpn-ip-address-if-you-look-up-your = Si buscas tu dirección IP, te aparecerá a
 vpn-ip-address-does-it-travel = ¿Viaja contigo?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = No. Tu dirección IP solo está asociada con una ubicación a menos que estés usando un VPN (más adelante explicaremos eso). Cuando estás en tu casa y te conectas al internet por el que pagas, estás usando una. Sin embargo, si revisas tu correo electrónico en casa por la mañana, luego revisas las noticias en una cafetería local mientras esperas tu café, y más tarde trabajas desde una oficina, habrás usado diferentes direcciones IP en cada ubicación.
+# Outdated string
 vpn-ip-address-no-your-ip = No. Tu dirección IP solo está asociada con una ubicación a menos que estés <a href="{ $url }">usando un VPN</a> (más adelante explicaremos eso). Cuando estás en tu casa y te conectas al iInternet por el que pagas, estás usando una. Sin embargo, si revisas tu correo electrónico en casa por la mañana, luego revisas las noticias en una cafetería local mientras esperas tu café, y más tarde trabajas desde una oficina, habrás usado diferentes direcciones IP en cada ubicación.
 vpn-ip-address-does-your-ip = ¿La dirección IP cambia?
 vpn-ip-address-yes-even-if = Sí. Incluso si solo usas internet en casa, la dirección IP de tu hogar puede cambiar. Puedes comunicarte con tu "Proveedor de Servicios de Internet" (ISP) para cambiarla, pero incluso algo tan rutinario como reiniciar tu módem o router debido a problemas de conexión a internet podría producir el cambio.
