@@ -12,6 +12,7 @@ vpn-shared-sign-in-link = هل أنت مشترك بالفعل؟
 # Outdated string
 vpn-shared-available-countries-v4 = نُوفّر مُتصفّح { -brand-name-mozilla-vpn } حاليًا في النمسا وبلجيكا وكندا وفرنسا وألمانيا وأيرلندا وإيطاليا وماليزيا وهولندا ونيوزيلندا وسنغافورة وإسبانيا وسويسرا والمملكة المتحدة والولايات المتحدة.
 
+vpn-shared-available-countries-v5 = نُوفّر مُتصفّح { -brand-name-mozilla-vpn } حاليًا في النمسا وبلجيكا وكندا وفنلندا وفرنسا وألمانيا وأيرلندا وإيطاليا وماليزيا وهولندا ونيوزيلندا وسنغافورة وإسبانيا والسويد وسويسرا والمملكة المتحدة والولايات المتحدة.
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = ضمان استرداد الأموال لمدة 30 يومًا
