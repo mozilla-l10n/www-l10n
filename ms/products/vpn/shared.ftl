@@ -12,6 +12,7 @@ vpn-shared-sign-in-link = Sudah melanggan?
 # Outdated string
 vpn-shared-available-countries-v4 = Kami kini menawarkan { -brand-name-mozilla-vpn } di Austria, Belgium, Kanada, Perancis, Jerman, Ireland, Itali, Malaysia, Belanda, New Zealand, Singapura, Sepanyol, Switzerland, UK, dan AS.
 
+vpn-shared-available-countries-v5 = Pada ketika ini, kami menawarkan { -brand-name-mozilla-vpn } di Austria, Belgium, Kanada, Finland, Perancis, Jerman, Ireland, Itali, Malaysia, Belanda, New Zealand, Singapura, Sepanyol, Sweden, Switzerland, UK dan AS.
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Jaminan wang dikembalikan dalam masa 30 hari
