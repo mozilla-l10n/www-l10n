@@ -18,6 +18,9 @@ vpn-ip-address-an-example-of-an-ip = Contoh alamat IP yang merupakan jujukan emp
 vpn-ip-address-if-you-look-up-your = Jika anda cari alamat IP anda, ia akan kelihatan seperti ini.
 vpn-ip-address-does-it-travel = Adakah ia bergerak bersama anda?
 
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Tidak. Alamat IP anda hanya dihubungkan dengan satu lokasi sahaja kecuali jika anda menggunakan VPN (penerangan lebih lanjut nanti). Sewaktu anda di rumah dan bersambung ke internet yang anda langgani, anda sedang menggunakan alamat IP. Namun, jika anda memeriksa e-mel anda di waktu pagi, kemudian membaca berita di kafe berhampiran dan kemudian bertugas di pejabat, anda menggunakan alamat IP yang berlainan di setiap lokasi.
 # Outdated string
 vpn-ip-address-no-your-ip = Tidak. Alamat IP hanya dikaitkan dengan satu lokasi sahaja kecuali jika anda <a href="{ $url }">menggunakan VPN</a> (kami akan menerangkan lagi nanti). Sewaktu anda di rumah dan berhubung dengan internet yang anda langgani, anda sedang menggunakan alamat IP. Namun, jika anda memeriksa e-mel anda di waktu pagi, kemudian membaca berita di kafe berdekatan dan kemudian bertugas di pejabat, anda telah menggunakan alamat IP yang berlainan di setiap lokasi.
 vpn-ip-address-does-your-ip = Adakah alamat IP anda berubah?
