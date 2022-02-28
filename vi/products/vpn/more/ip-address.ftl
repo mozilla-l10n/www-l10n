@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
@@ -17,6 +17,8 @@ vpn-ip-address-if-you-look-up-your = Nếu bạn tra cứu địa chỉ IP của
 vpn-ip-address-does-it-travel = Nó có đi theo bạn không?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Không. Địa chỉ IP của bạn chỉ được liên kết với một vị trí trừ khi bạn sử dụng VPN (chúng ta sẽ tìm hiểu thêm về vấn đề đó sau). Khi bạn đang ở nhà và kết nối với Internet mà bạn phải trả tiền, nghĩa là bạn đang sử dụng một mạng. Tuy nhiên, nếu bạn kiểm tra email ở nhà vào buổi sáng, sau đó quét tin tức tại một quán cà phê địa phương trong khi đợi cà phê và sau đó làm việc tại văn phòng, bạn đã sử dụng các địa chỉ IP khác nhau ở mỗi địa điểm.
+# Outdated string
 vpn-ip-address-no-your-ip = Không. Địa chỉ IP của bạn chỉ được liên kết với một vị trí trừ khi bạn <a href="{ $url }">sử dụng VPN</a> (chúng ta sẽ tìm hiểu thêm về vấn đề đó sau). Khi bạn đang ở nhà và kết nối với Internet mà bạn phải trả tiền, nghĩa là bạn đang sử dụng một mạng. Tuy nhiên, nếu bạn kiểm tra email ở nhà vào buổi sáng, sau đó quét tin tức tại một quán cà phê địa phương trong khi đợi cà phê và sau đó làm việc tại văn phòng, bạn đã sử dụng các địa chỉ IP khác nhau ở mỗi địa điểm.
 vpn-ip-address-does-your-ip = Địa chỉ IP của bạn có thay đổi không?
 vpn-ip-address-yes-even-if = Có. Ngay cả khi bạn chỉ sử dụng Internet ở nhà, địa chỉ IP cho nhà của bạn có thể thay đổi. Bạn có thể liên hệ với nhà cung cấp dịch vụ internet (ISP) của mình để thay đổi nó, nhưng ngay cả một việc thường xuyên như khởi động lại modem hoặc bộ định tuyến vì sự cố kết nối internet cũng có thể dẫn đến thay đổi.
