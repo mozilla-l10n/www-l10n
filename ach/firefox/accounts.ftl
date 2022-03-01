@@ -36,6 +36,8 @@ firefox-accounts-get-the-knowledge = Nong ngec me gwoki maber.
 firefox-accounts-learn-everything-you = Nong ngec weng ma mite ki in me ngeno (ma pud pe ingeyo) ikom bedo kwiri ki ber bedo iwiyamo, ki bot lu ngec mabeco loyo ki iwilobo.
 firefox-accounts-and-be-part-of-protecting = Ki bed i dul me gwoko intanet pi yalwak me anyim.
 firefox-accounts-help-us-build-a-better = Konywa me yubo { -brand-name-firefox } maber pi dano weng.
+# "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
+firefox-accounts-help-us-keep-big-tech = Kony wa me gwoko Dul Diro madongo i te cik.
 firefox-accounts-we-support-communities = Wacwako lwak ma i but lobo weng me cung pi intanet ma yotkome ber kato. Med dwoni ikom lweny man.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
