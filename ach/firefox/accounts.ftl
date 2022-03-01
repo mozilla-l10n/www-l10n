@@ -28,6 +28,8 @@ firefox-accounts-travel-the-internet = Wot i intanet ki gwoke, i nyonyo weng.
 # Obsolete string
 firefox-accounts-share-large-files = Nywak pwail madongo labongo lwite pa wang mo.
 firefox-accounts-get-the-respect-you = Nong woro ma opore piri.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Gwoko-nyonyo olur i nyonyo weng
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = Cwal manok.<br> Gwok maber.<br> Mung pe tye.
 firefox-accounts-get-the-knowledge = Nong ngec me gwoki maber.
