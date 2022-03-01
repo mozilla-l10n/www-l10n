@@ -12,6 +12,7 @@ vpn-shared-sign-in-link = 既にサブスクリプションをご契約の場合
 # Outdated string
 vpn-shared-available-countries-v4 = 現在、{ -brand-name-mozilla-vpn } はアイルランド、イタリア、オーストリア、オランダ、カナダ、シンガポール、スイス、スペイン、ドイツ、ニュージーランド、フランス、ベルギー、マレーシア、英国、米国で提供しています。
 
+vpn-shared-available-countries-v5 = 現在、{ -brand-name-mozilla-vpn } はアイルランド、イタリア、オーストリア、オランダ、カナダ、シンガポール、スイス、スウェーデン、スペイン、ドイツ、ニュージーランド、フィンランド、フランス、ベルギー、マレーシア、英国、米国で提供しています。
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 日間の返金保証
