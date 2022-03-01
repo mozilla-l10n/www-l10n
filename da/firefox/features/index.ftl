@@ -53,3 +53,4 @@ features-index-translate-the-web = Oversæt websider
 features-index-translate-more-than = Oversæt fra mere end 100 sprog til dit sprog direkte i din { -brand-name-firefox-browser } – lettere end nogensinde.
 features-index-translate-to-your = Oversæt til dit sprog
 features-index-picture-in-picture = Billede-i-billede
+features-index-got-things-to-do = Har du meget at lave og ting, du vil se? Gør begge dele med billede-i-billede-funktionen i { -brand-name-firefox }.
