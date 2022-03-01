@@ -34,6 +34,7 @@ firefox-accounts-whole-device-protection = Gwoko-nyonyo olur i nyonyo weng
 firefox-accounts-take-less-keep-it = Cwal manok.<br> Gwok maber.<br> Mung pe tye.
 firefox-accounts-get-the-knowledge = Nong ngec me gwoki maber.
 firefox-accounts-learn-everything-you = Nong ngec weng ma mite ki in me ngeno (ma pud pe ingeyo) ikom bedo kwiri ki ber bedo iwiyamo, ki bot lu ngec mabeco loyo ki iwilobo.
+firefox-accounts-and-be-part-of-protecting = Ki bed i dul me gwoko intanet pi yalwak me anyim.
 firefox-accounts-help-us-build-a-better = Konywa me yubo { -brand-name-firefox } maber pi dano weng.
 firefox-accounts-we-support-communities = Wacwako lwak ma i but lobo weng me cung pi intanet ma yotkome ber kato. Med dwoni ikom lweny man.
 
