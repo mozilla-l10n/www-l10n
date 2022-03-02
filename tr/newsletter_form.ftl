@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Lütfen geçerli bir e-posta adresi yazın
 newsletter-form-you-must-agree-to = Gizlilik bildirimini kabul etmelisiniz
@@ -31,3 +31,9 @@ newsletter-form-thanks = Teşekkürler!
 newsletter-form-leave-this-field-empty = Bu alanı boş bırakın.
 newsletter-form-yes = Evet
 newsletter-form-no = Hayır
+multi-newsletter-form-checkboxes-legend = Şu konuda bilgi istiyorum:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Lütfen bülten seçeneklerinden en az birini işaretleyin.
+multi-newsletter-form-title = Love the Web
+multi-newsletter-form-desc = { -brand-name-mozilla } bültenlerine kaydolarak web’in açıklığını ve özgürlüğünü korumamıza yardım edin.
