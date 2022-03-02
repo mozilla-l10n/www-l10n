@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση email
 newsletter-form-you-must-agree-to = Πρέπει να συμφωνήσετε με τη σημείωση απορρήτου
@@ -31,3 +31,5 @@ newsletter-form-thanks = Ευχαριστούμε!
 newsletter-form-leave-this-field-empty = Αφήστε αυτό το πεδίο κενό.
 newsletter-form-yes = Ναι
 newsletter-form-no = Όχι
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
