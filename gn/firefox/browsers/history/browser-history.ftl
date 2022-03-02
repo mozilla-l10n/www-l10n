@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
@@ -48,6 +48,7 @@ browser-history-today-there-are = Ko ára rupi, ndahatái hendáicha ereko eike 
 # Variables:
 #   $vr (url) - https://mixedreality.mozilla.org/
 browser-history-in-the-future-the = Tenondeve gotyo, ikatu ñanduti imombyryve oñepyrũ haguégui jehairãnteva ha oiko chugui mba’e tuichapajepéva. Añetegua ñanduti oĩmavoi opárupi heta arýma (ja’ekuaa pe Lawnmower Man ary 1992 guive ha Nintendo Virtual Boy 1995-pe), hákatu ñanduti ogueraha tenondeve opavavépe. { -brand-name-firefox } ojokupytýma <a href="{ $vr }">WebVR y A-Frame</a> ndive, omoneĩva mboguatahárape omoheñóivo ñanduti renda añeteguáva ipya’e ha hasy’ỹva ijepuru. Heta umi mba’e’oka pumbyrygua omoneĩ <a href="{ $vr }">WebVR</a> ha ojepurukuaa tapiaite jehechaháramo mba’yru kuatiaanambusúguigua ndive. Pe pyha añetegua ñanduti rehegua 3D-pe oipota haguéicha pe ciencia ficción apohare Neal Stephenson ejuhukuaa ag̃uiete. Péicha oikóramo, pe ñanduti kundahára ikatukuaa oñehundiete ha oiko chugui ovetã ehasakuaatahápe ambue arapýpe.
+browser-history-in-the-future-the-v2 = Tenondeve gotyo, ikatu ñanduti imombyryve pe oñepyrũ haguégui jehairãnteva ha oiko ichugui mba’e tuichapajepéva. Añetegua ñanduti oĩmavoi opárupi heta arýma (ja’ekuaa pe Lawnmower Man ary 1992 guive ha Nintendo Virtual Boy 1995-pe), hákatu ñanduti ogueraha tenondeve opavavépe. { -brand-name-firefox } ojokupytýma WebVR ha A-Frame ndive, omoneĩva umi mboguatahárape omoheñóivo ñanduti renda añeteguáva ipya’e ha hasy’ỹva ijepuru. Heta umi mba’e’oka pumbyryguáva omoneĩ WebVR ha ojepurukuaa tapiaite jehechaháramo mba’yru kuatiaanambusúguigua ndive. Pe pyha añetegua ñanduti rehegua 3D pegua oipota haguéicha pe ciencia ficción apohare Neal Stephenson ejuhukuaa ag̃uieterei. Péicha oikóramo, pe ñanduti kundahára ikatukuaa oñehundiete ha oiko chugui ovetã ehasakuaatahápe ambue arapýpe.
 browser-history-whatever-the-future = Ndaha’éi katuete oikótava ñanduti renonderãme, { -brand-name-mozilla } ha { -brand-name-firefox } oĩta upépe puruhárape g̃uarã, orekotahápe tembipuru oikóva oike hag̃ua ñandutípe ha opaite mba’e ome’ẽkuaáva. Ñanduti ha’e opavavépe g̃uarã ha oñangarekova’erã ijeike rehe. Upévare roikuave’ẽ tembipuru { -brand-name-firefox }-pe omo’ã hag̃ua puruhára rekoñemi ha noroikuave’ẽi puruhára mba’ekuaarã maranduñemurã apohápe.
 browser-history-resources = Mba’eita
 browser-history-take-control-of = Ejapyhy ne kundaha jepuru.
