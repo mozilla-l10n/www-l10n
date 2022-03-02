@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Vnesite veljaven e-poštni naslov
 newsletter-form-you-must-agree-to = Strinjati se morate z obvestilom o zasebnosti
@@ -31,3 +31,5 @@ newsletter-form-thanks = Hvala!
 newsletter-form-leave-this-field-empty = Pustite to polje prazno.
 newsletter-form-yes = Da
 newsletter-form-no = Ne
+multi-newsletter-form-checkboxes-legend = Želim informacije o:
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox(sklon: "mestnik") }
