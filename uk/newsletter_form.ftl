@@ -35,3 +35,5 @@ multi-newsletter-form-checkboxes-legend = Я хочу отримувати ін�
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Позначте принаймні один із варіантів розсилки.
+multi-newsletter-form-title = Любов до інтернету
+multi-newsletter-form-desc = Підписуйтесь на новини від { -brand-name-mozilla } і допомагайте нам боротися за відкритість і свободу інтернету.
