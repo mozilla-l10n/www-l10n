@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Escribe una dirección de correo válida
 newsletter-form-you-must-agree-to = Debes aceptar el aviso de privacidad.
@@ -31,3 +31,9 @@ newsletter-form-thanks = ¡Gracias!
 newsletter-form-leave-this-field-empty = Deja este campo vacío.
 newsletter-form-yes = Sí
 newsletter-form-no = No
+multi-newsletter-form-checkboxes-legend = Quiero información acerca de:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Por favor, marca al menos una de las opciones del boletín.
+multi-newsletter-form-title = Amor por la Web
+multi-newsletter-form-desc = Recibe los boletines de { -brand-name-mozilla } y ayúdanos a mantener la web abierta y gratuita.
