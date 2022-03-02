@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Будь ласка, введіть дійсну адресу електронної пошти
 newsletter-form-you-must-agree-to = Ви повинні погодитися з повідомленням про приватність
@@ -31,3 +31,7 @@ newsletter-form-thanks = Дякуємо!
 newsletter-form-leave-this-field-empty = Залиште це поле порожнім.
 newsletter-form-yes = Так
 newsletter-form-no = Ні
+multi-newsletter-form-checkboxes-legend = Я хочу отримувати інформацію про:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Позначте принаймні один із варіантів розсилки.
