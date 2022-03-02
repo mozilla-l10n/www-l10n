@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -39,7 +39,7 @@ firefox-all-arm64-installers-optimized = Instaladores ARM64/AArch64 optimizados 
 firefox-all-product-send-link = Envía un enlace de descarga a tu teléfono
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Elige un instalador de 32-bit para computadores con procesadores de 32-bit — o para computadores más antiguos o menos potentes. <a href="{ $url }">Si no estás seguro</a> si elegir un instalador de 64-bit o 32-bit, te recomendamos ir por el de 32-bit.
+firefox-all-choose-a-32-bit-installer = Elige un instalador de 32-bit para computadores con procesadores de 32-bit — o para computadores más antiguos o menos potentes. <a href="{ $url }">Si no sabes</a> si elegir un instalador de 64-bit o 32-bit, te recomendamos ir por el de 32-bit.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
