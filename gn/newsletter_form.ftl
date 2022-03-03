@@ -34,3 +34,4 @@ newsletter-form-no = Nahániri
 multi-newsletter-form-checkboxes-legend = Añemomaranduse peteĩ rehegua:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Ikatúpiko emongurusu peteĩva jepe jeporavorã jehaipyre’i pegua.
