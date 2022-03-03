@@ -32,4 +32,6 @@ newsletter-form-leave-this-field-empty = Pustite to polje prazno.
 newsletter-form-yes = Da
 newsletter-form-no = Ne
 multi-newsletter-form-checkboxes-legend = Želim informacije o:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation(sklon: "mestnik") }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox(sklon: "mestnik") }
+multi-newsletter-form-checkboxes-error = Prosimo, izberite vsaj eno od možnosti okrožnice.
