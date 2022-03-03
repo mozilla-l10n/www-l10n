@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Rhowch gyfeiriad e-bost dilys.
 newsletter-form-you-must-agree-to = Rhaid i chi gytuno i'r hysbysiad preifatrwydd
@@ -31,3 +31,9 @@ newsletter-form-thanks = Diolch!
 newsletter-form-leave-this-field-empty = Gadewch y maes hwn yn wag.
 newsletter-form-yes = Iawn
 newsletter-form-no = Na
+multi-newsletter-form-checkboxes-legend = Rwyf eisiau gwybodaeth am:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Ticiwch o leiaf un o'r dewis o gylchlythyron.
+multi-newsletter-form-title = Caru'r We
+multi-newsletter-form-desc = Derbyniwch daflenni newyddion { -brand-name-mozilla } a'n cynorthwyo i'w gadw'n agored a rhydd.
