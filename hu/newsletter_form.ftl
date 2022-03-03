@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Kérjük adjon meg egy érvényes e-mail címet
 newsletter-form-you-must-agree-to = El kell fogadnia az adatvédelmi nyilatkozatot
@@ -31,3 +31,9 @@ newsletter-form-thanks = Köszönjük!
 newsletter-form-leave-this-field-empty = Hagyja üresen ezt a mezőt.
 newsletter-form-yes = Igen
 newsletter-form-no = Nem
+multi-newsletter-form-checkboxes-legend = Információt szeretnék ezekről:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Jelölje be legalább az egyik hírlevél-lehetőséget.
+multi-newsletter-form-title = Szeresse a webet
+multi-newsletter-form-desc = Kapja meg a { -brand-name-mozilla } hírleveleit, és segítsen, hogy a web nyílt és szabad maradjon.

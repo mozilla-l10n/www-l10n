@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -15,7 +15,7 @@ manifesto-the-internet-must-enrich = Az internetnek gazdagítania kell az egyén
 manifesto-individuals-security-and = Az egyének adatainak védelme és biztonsága az interneten alapvető fontosságú, nem kezelhető mellékes szempontként.
 manifesto-individuals-must-have = Mindenkinek meg kell adni a lehetőséget, hogy az internetet és azon keresztül saját élményeiket formálhassák.
 manifesto-the-effectiveness-of-the = Az internet, mint közösségi erőforrás hatékonysága függ az interoperabilitástól (protokollok, adatformátumok, tartalom), az innovációtól és a világszintű decentralizált részvételtől.
-manifesto-free-and-open-source-software = A szabad és nyílt forrású szoftverek elősegítik az internet, mint közösségi erőforrás fejlődését.
+manifesto-free-and-open-source-software = A szabad és nyílt forráskódú szoftverek elősegítik az internet, mint közösségi erőforrás fejlődését.
 manifesto-transparent-community = Az átlátható, közösségi alapú folyamatok előmozdítják a részvételt, az elszámoltathatóságot és a bizalmat.
 manifesto-commercial-involvement = Az üzleti szféra részvétele az internet fejlesztésében számos előnnyel jár, azonban kritikus fontosságú megtalálni az egyensúlyt a pénzügyi profit és a közjó között.
 manifesto-magnifying-the-public = Az internet közhasznosságának bemutatása fontos cél, amely időt, figyelmet és elkötelezettséget érdemel.
@@ -54,34 +54,9 @@ manifesto-an-internet-with-these = Az ezekkel a tulajdonságokkal rendelkező in
 manifesto-i-support-the-vision-of = Támogatom a @mozilla vízióját, a jobb és egészségesebb internetről, csatlakozol te is?
 manifesto-share-on-twitter = Megosztás { -brand-name-twitter }en
 manifesto-our-10-principles = <strong>A mi 10</strong> alapelvünk
-manifesto-use-open-badges-to-share = Használja az Open Badges-t, hogy megmutassa másoknak képességeit és érdeklődését
-manifesto-explore-how-the-web-impacts = Fedezze fel, hogyan hat a web a tudományra
-manifesto-learn-about-open-source = Tudjon meg többet a nyílt forráskódú szoftverek használatáról az újságírásban
-manifesto-read-about-open-internet = Olvasson a nyitott internettel kapcsolatos törekvésekről és fejleményekről
-manifesto-explore-how-to-help-keep = Fedezze fel, hogyan lehet segíteni a web nyitottságának fenntartásában
-manifesto-see-how-the-web-can-connect = Nézze meg, a web hogyan kapcsolja össze a világot az egészségüggyel
-manifesto-explore-how-the-web-works = Fedezze fel, hogyan működik a web
-manifesto-see-how-mozilla-works = Nézze meg, mit tesz a { -brand-name-mozilla } az Ön biztonságának előtérbe helyezéséért
-manifesto-read-about-developments = Olvasson az adatvédelem és adatbiztonság területén történt fejlesztésekről
-manifesto-learn-more-about-how-to = Tudjon meg többet arról, hogyan védheti meg magát az interneten
-manifesto-use-these-free-tools-to = Használja ezeket az ingyenes eszközöket a web tanítására
-manifesto-learn-about-creating-and = Tudjon meg többet arról, hogy hozhat létre és gondozhat tartalmakat a weben
-manifesto-add-new-voices-to-open = Adjon új színezetet a nyílt forráskódú technológiáknak
-manifesto-set-your-do-not-track = Állítsa be a Ne kövessenek funkciót
-manifesto-understand-the-web-ecosystem = Értse meg a web ökoszisztémáját
-manifesto-explore-how-open-practices = Fedezze fel, hogy a nyílt fejlesztési módszerek hogyan teszik a webet még nyitottabbá
-manifesto-learn-how-to-remix-content = Tudja meg, hogyan vegyíthet tartalmakat, hogy valami újat hozzon belőlük létre
-manifesto-learn-how-to-maximize = Tudja meg, hogyan használhatja ki teljesen a web interaktív lehetőségeit
-manifesto-participate-in-our-governance = Vegyen részt a döntéshozó fórumunkon
-manifesto-join-us-as-a-volunteer = Kapcsolódjon be hozzánk önkéntesként
-manifesto-learn-how-to-collaborate = Tudja meg, hogyan működhet együtt online
-manifesto-visualize-who-you-interact = Tegye láthatóvá, hogyan kapcsolódik másokhoz a weben a { -brand-name-lightbeam } segítségével
-manifesto-learn-about-creating-web = Tudja meg, hogyan teremthet webes erőforrásokat másokkal közösen
-manifesto-host-or-join-a-maker-party = Legyen házigazdája vagy vendége egy { -brand-name-maker-party }nak
-manifesto-learn-how-to-build-online = Tudjon meg többet, hogyan fejlesztheti online együttműködési képességeit
 manifesto-read-the-entire-manifesto = Olvassa el a teljes kiáltványt
 manifesto-love-the-web = Szereti a webet?
-manifesto-get-the-mozilla-newsletter = Kapja meg a { -brand-name-mozilla } hírlevelet, és segítsen nyíltnak és szabadnak megtartani.
+manifesto-get-the-mozilla-newsletter = Kapja meg a { -brand-name-mozilla } hírlevelet, és segítsen, hogy nyílt és szabad maradjon.
 manifesto-details-the-mozilla-manifesto = A { -brand-name-mozilla } Kiáltvány
 manifesto-details-introduction = Bevezető
 manifesto-details-the-internet-is-becoming = Az internet egyre fontosabb részét képezi életünknek.
@@ -101,7 +76,7 @@ manifesto-details-the-internet-must = Az internetnek gazdagítania kell az egyé
 manifesto-details-individuals-security = Az egyének adatainak védelme és biztonsága az interneten alapvető fontosságú. Nem kezelhető mellékes szempontként.
 manifesto-details-individuals-must = Az egyéneknek rendelkezniük kell annak lehetőségével, hogy a maguk számára megfelelő módon alakítsák az internetet és az internetezés élményét.
 manifesto-details-the-effectiveness = Az internet, mint közösségi erőforrás hatékonysága függ az interoperabilitástól (protokollok, adatformátumok, tartalom), az innovációtól és a decentralizált közreműködéstől.
-manifesto-details-free-and-open = A szabad és nyílt forrású szoftverek elősegítik az internet, mint közösségi erőforrás fejlődését.
+manifesto-details-free-and-open = A szabad és nyílt forráskódú szoftverek elősegítik az internet, mint közösségi erőforrás fejlődését.
 manifesto-details-transparent-community = Az átlátható, közösségi alapú folyamatok előmozdítják a részvételt, az elszámoltathatóságot és a bizalmat.
 manifesto-details-commercial-involvement = Az üzleti szféra részvétele az internet fejlesztésében számos előnnyel jár, azonban kritikus fontosságú megtalálni az egyensúlyt a pénzügyi profit és a közhasznú célok között.
 manifesto-details-magnifying-the = Fontos cél alaposan megvizsgálni, időt, figyelmet áldozni és elkötelezetten kutatni az internet közhasznú aspektusait.
