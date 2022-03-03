@@ -18,13 +18,42 @@ vpn-landing-hero-desc = Uma Rede Privada Virtual dos criadores do { -brand-name-
 vpn-landing-privacy-heading = Um toque para ter privacidade
 vpn-landing-privacy-desc = Navegue, faça streaming, jogue e trabalhe enquanto mantém a sua privacidade online. Quer esteja a viajar, a usar o Wi-Fi público ou simplesmente à procura de mais segurança online, iremos sempre colocar a sua privacidade em primeiro lugar.
 vpn-landing-fast-secure-heading = Rede rápida e segura
+# Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = A { -brand-name-mozilla-vpn } é executada numa rede global de servidores. Usando o protocolo mais avançado <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, encriptamos a sua atividade de rede e ocultaremos o seu endereço IP. Nunca registamos, rastreamos ou partilhamos os seus dados de rede.
+# Obsolete string
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = A { -brand-name-mozilla-vpn } é executada numa rede global de servidores alimentados pela <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Usando o mais avançado protocolo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, encriptamos a sua atividade de rede e ocultamos o seu endereço IP. Nunca registamos, rastreamos ou partilhamos os seus dados de rede.
 vpn-landing-brand-trust-heading = Uma VPN de uma marca em que pode confiar
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = Por mais de 20 anos, a { -brand-name-mozilla } tem um histórico de colocar as pessoas em primeiro lugar e lutar pela privacidade online. Apoiada por uma organização sem fins lucrativos, estamos comprometidos em construir uma Internet melhor e mais saudável para todas as pessoas. Tudo o que fazemos faz parte da nossa missão e segue os nossos <a href="{ $url }">princípios</a>.
 
 ## FAQ section
 
 vpn-landing-faq-heading = Perguntas frequentes
 vpn-langing-faq-uses-question-heading = O que é uma VPN e quais as suas utilidades?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = À medida que a vida quotidiana ocorre através da Internet, a privacidade e a segurança online tornam-se ainda mais importantes. Uma VPN, <a href="{ $url }">Rede Virtual Privada</a>, pode ajudá-lo a criar uma conexão segura e privada à Internet. Funciona ao criar um “túnel” entre o seu dispositivo e a Internet em geral e protege-o de duas maneiras importantes:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Escondendo o seu <a href="{ $url }">endereço IP</a> real. Isto protege a sua identidade e obscurece a sua localização.
+# Obsolete string
+vpn-landing-faq-uses-conceal = Escondendo o seu endereço IP real. Isto protege a sua identidade e obscurece a sua localização.
+vpn-landing-faq-uses-encrypt = Encriptando o tráfego entre si e o seu fornecedor de VPN para que ninguém na sua rede local possa decifrá-lo ou modificá-lo.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Veja <a href="{ $url }">cinco exemplos da vida real</a> em que desejaria uma VPN no seu dispositivo.
 vpn-landing-faq-info-question-heading = Que informação mantém a { -brand-name-mozilla-vpn }?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Aderimos estritamente aos <a href="{ $principles }">Princípios de Privacidade de Dados</a> da { -brand-name-mozilla } e recolhemos os dados necessários para manter a VPN operacional e melhorar o produto ao longo do tempo. Também rastreamos dados de campanha e referência na nossa aplicação móvel para ajudar a { -brand-name-mozilla } a compreender a eficácia das nossas campanhas de marketing. Leia mais no nosso <a href="{ $notice }">Aviso de Privacidade</a>.
 vpn-landing-faq-protected-question-heading = Como é que a minha privacidade é protegida?
 vpn-landing-faq-competition-question-heading = Como é que a { -brand-name-mozilla-vpn } se compara com a competição?
 vpn-landing-faq-compatibility-question-heading = Com que dispositivos a { -brand-name-mozilla-vpn } é compatível?
