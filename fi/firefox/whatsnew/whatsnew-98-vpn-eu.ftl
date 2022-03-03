@@ -12,3 +12,6 @@ whatsnew-98-vpn-eu-cta = Tutustu { -brand-name-mozilla-vpn }:ään
 whatsnew-98-vpn-eu-extra-heading-1 = Yksityisyyttä yhdellä napautuksella
 whatsnew-98-vpn-eu-extra-desc-1 = Virtuaalinen erillisverkkomme (VPN) käyttää kaikkein edistyneintä salausteknologiaa mahdollistaakseen sinulle turvallisen, nopean ja luotettavan yhteyden internetiin.
 whatsnew-98-vpn-eu-extra-heading-2 = VPN brändiltä, johon voit luottaa
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+whatsnew-98-vpn-eu-extra-desc-2 = Yli 20 vuoden ajan { -brand-name-mozilla } on asettanut ihmiset etusijalle ja taistellut yksityisyyden puolesta verkossa. Voittoa tavoittelemattoman järjestön tukemana olemme sitoutuneet rakentamaan entistä paremman ja terveellisemmän internetin kaikille. Kaikki mitä julkaisemme, olipa se sitten { -brand-name-firefox } tai { -brand-name-mozilla-vpn }, on osa tehtäväämme ja noudattaa <a href="{ $url }">periaatteitamme</a>.
