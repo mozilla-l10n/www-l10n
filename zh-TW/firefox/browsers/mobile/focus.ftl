@@ -19,6 +19,7 @@ mobile-focus-scan-alt-text = 掃描 QR Code，下載 { -brand-name-firefox-focus
 # Outdated string
 mobile-focus-disappear-your-history = 讓上網紀錄消失
 mobile-focus-delete-your-history = 刪除瀏覽紀錄
+mobile-focus-take-private-mode = 更高一級的隱私保護模式
 mobile-focus-tracking-protection = 追蹤保護
 mobile-focus-ad-blocking = 封鎖廣告
 mobile-focus-see-it-all = 更快看到內容

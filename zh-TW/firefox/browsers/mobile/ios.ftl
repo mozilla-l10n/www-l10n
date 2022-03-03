@@ -18,6 +18,7 @@ mobile-ios-make-firefox-your = 將 { -brand-name-firefox } 設成您的預設瀏
 mobile-ios-fast-private-secure = 快速、免費、安全
 mobile-ios-stay-private-online = 保持線上隱私
 mobile-ios-your-browsing-history = 瀏覽紀錄就是紀錄
+mobile-ios-get-to-your-go-to = 在您的 { -brand-name-iphone } 與 { -brand-name-ipad } 更快抵達想去的網站
 mobile-ios-own-your-home = 擁有自己的主畫面
 mobile-ios-find-it-all = 搜尋更快
 mobile-ios-discover-more-of = 探索更多您喜愛的內容
