@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
@@ -48,6 +48,7 @@ browser-history-today-there-are = Ozendi datti mo paucas modas e manieras per ac
 # Variables:
 #   $vr (url) - https://mixedreality.mozilla.org/
 browser-history-in-the-future-the = En l'avegir vegn il web a s'allontanar anc dapli da sias ragischs ipertextualas ed a porscher vastas experientschas interactivas. La realitad virtuala sa mussa gia dapi decennis a l'orizont (il pli tard dapi che Lawnmower Man è vegnì mess sin il martgà il 1992 ed il Nintendo Virtual Boy il 1995). Dentant porta forsa il web la realitad virtuala ad in public pli grond. { -brand-name-firefox } sustegna ussa <a href="{ $vr }">WebVR ed A-Frame</a>. Quai pussibilitescha a sviluppaders da crear svelt e simpel websites da realitad virtuala. Ils plirs apparats mobils moderns sustegnan <a href="{ $vr }">WebVR</a> e pon vegnir utilisads senza problems sco headsets cun simpels etuis da chartun. Po dar ch'ina rait da realitad virtuala 3D tenor il model da l'autur da science fiction Neal Stephenson ans spetga prest. Sche quai avess dad esser il cas, pudess il navigatur-web sez svanir cumplettamain e daventar ina veritabla fanestra en in auter mund.
+browser-history-in-the-future-the-v2 = En l'avegnir vegn il web a s'allontanar anc pli fitg da sias ragischs ipertextualas e porscher vastas experientschas interactivas. La realitad virtuala sa mussa gia dapi decennis a l'orizont (il pli tard dapi che Lawnmower Man è vegnì publitgà il 1992 ed il Nintendo Virtual Boy il 1995). Ma ussa porta forsa il web la realitad virtuala ad in public pli grond. { -brand-name-firefox } sustegna ussa WebVR ed A-Frame. Quai pussibilitescha a sviluppaders da crear websites da realitad virtuala a moda svelta e simpla. Ils blers apparats mobils moderns sustegnan WebVR e pon vegnir utilisads senza problems sco headsets cun simplas boxas da chartun. Po dar ch'in web da realitad virtuala 3D tenor il model da l'autur da science fiction Neal Stephenson ans spetga prest. Sche quai avess dad esser il cas, pudess il navigatur-web sez svanir cumplettamain e daventar ina veritabla fanestra en in auter mund.
 browser-history-whatever-the-future = N'emporta betg tge che l'internet ans porscha en l'avegnir, { -brand-name-mozilla } e { -brand-name-firefox } vegnan a sustegnair ils utilisaders er vinavant ed als garantir instruments da gronda prestaziun per explorar il web cun tut sias pussaivladads. L'internet è qua per tuts e mintgin duess avair sut controlla sia atgna experientscha en l'internet. Perquai furnin nus { -brand-name-firefox } cun utensils per proteger la sfera privata e nus na vendain mai datas dals utilisaders a firmas da reclama.
 browser-history-resources = Resursas
 browser-history-take-control-of = Tegna sut controlla tes navigatur.
