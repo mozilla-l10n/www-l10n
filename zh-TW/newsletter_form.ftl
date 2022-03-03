@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = 請輸入有效的電子郵件地址
 newsletter-form-you-must-agree-to = 您必須同意隱私權公告
@@ -31,3 +31,5 @@ newsletter-form-thanks = 感謝！
 newsletter-form-leave-this-field-empty = 將此欄位留白。
 newsletter-form-yes = 好的
 newsletter-form-no = 不要
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
