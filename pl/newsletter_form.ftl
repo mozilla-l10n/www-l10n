@@ -36,3 +36,4 @@ multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundatio
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Proszę zaznaczyć przynajmniej jedną opcję biuletynu.
 multi-newsletter-form-title = Kocham Internet
+multi-newsletter-form-desc = Subskrybuj biuletyny { -brand-name-mozilla(case: "gen") }, aby pomóc nam bronić otwartości i wolności Internetu.
