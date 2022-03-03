@@ -11,10 +11,15 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Proteja Todo o Seu Disposi
 vpn-landing-hero-sub-heading = Segurança em que pode confiar. Um nome que pode confiar.
 vpn-landing-privacy-heading = Um toque para ter privacidade
 vpn-landing-fast-secure-heading = Rede rápida e segura
+vpn-landing-brand-trust-heading = Uma VPN de uma marca em que pode confiar
 
 ## FAQ section
 
 vpn-landing-faq-heading = Perguntas frequentes
+vpn-langing-faq-uses-question-heading = O que é uma VPN e quais as suas utilidades?
+vpn-landing-faq-info-question-heading = Que informação mantém a { -brand-name-mozilla-vpn }?
+vpn-landing-faq-protected-question-heading = Como é que a minha privacidade é protegida?
+vpn-landing-faq-competition-question-heading = Como é que a { -brand-name-mozilla-vpn } se compara com a competição?
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e superior)
 
