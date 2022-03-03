@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -54,33 +54,8 @@ manifesto-an-internet-with-these = Internet o tych cechach nie powstanie sam z 
 manifesto-i-support-the-vision-of = Wspieram wizję lepszego, zdrowszego Internetu z @mozilla, dołączysz do mnie?
 manifesto-share-on-twitter = Udostępnij na { -brand-name-twitter(case: "loc") }
 manifesto-our-10-principles = <strong>10 naszych</strong> pryncypiów
-manifesto-use-open-badges-to-share = Dziel się swoimi umiejętnościami i zainteresowaniami dzięki programowi Open Badges
-manifesto-explore-how-the-web-impacts = Dowiedz się, jak sieć wpływa na naukę
-manifesto-learn-about-open-source = Poznaj znaczenie otwartego kodu źródłowego dla dziennikarstwa
-manifesto-read-about-open-internet = Przeczytaj o rozwoju i inicjatywach polityki otwartego Internetu
-manifesto-explore-how-to-help-keep = Dowiedz się, jak bronić otwartości sieci
-manifesto-see-how-the-web-can-connect = Sprawdź, jak sieć może upowszechnić opiekę medyczną
-manifesto-explore-how-the-web-works = Dowiedz się, jak działa sieć
-manifesto-see-how-mozilla-works = Sprawdź, jak { -brand-name-mozilla } dba o Twoją prywatność
-manifesto-read-about-developments = Przeczytaj o rozwoju prywatności i bezpieczeństwa danych
-manifesto-learn-more-about-how-to = Dowiedz się, jak chronić się w sieci
-manifesto-use-these-free-tools-to = Wykorzystaj nasze bezpłatne narzędzia, aby uczyć innych Internetu
-manifesto-learn-about-creating-and = Naucz się tworzyć i pielęgnować treści w sieci
-manifesto-add-new-voices-to-open = Dodaj nowy głos do technologii open source
-manifesto-set-your-do-not-track = Poinformuj witryny, że nie chcesz, by Cię śledzono
-manifesto-understand-the-web-ecosystem = Zrozum ekosystem sieci
-manifesto-explore-how-open-practices = Sprawdź, jak praktyka otwartości zapewnia dostępność sieci dla wszystkich
-manifesto-learn-how-to-remix-content = Dowiedz się, jak zmieniać treści, aby stworzyć coś nowego
-manifesto-learn-how-to-maximize = Dowiedz się, jak zwiększyć interaktywny potencjał sieci
-manifesto-participate-in-our-governance = Zabierz głos w dyskusji o zarządzaniu projektem
-manifesto-join-us-as-a-volunteer = Dołącz do nas jako wolontariusz
-manifesto-learn-how-to-collaborate = Dowiedz się, jak współpracować w sieci
-manifesto-visualize-who-you-interact = Zobacz, z kim łączysz się w sieci dzięki dodatkowi { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Naucz się tworzyć zasoby w sieci wraz z innymi Internautami
-manifesto-host-or-join-a-maker-party = Zorganizuj lub znajdź { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Dowiedz się, jak budować swoje umiejętności współpracowania w Internecie
 manifesto-read-the-entire-manifesto = Przeczytaj cały manifest
-manifesto-love-the-web = Kochasz sieć?
+manifesto-love-the-web = Kochasz Internet?
 manifesto-get-the-mozilla-newsletter = Subskrybuj biuletyn { -brand-name-mozilla(case: "gen") }, aby pomóc nam bronić jej otwartości i wolności.
 manifesto-details-the-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
 manifesto-details-introduction = Wprowadzenie
