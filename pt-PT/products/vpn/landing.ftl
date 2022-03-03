@@ -123,7 +123,13 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-apenas)
 vpn-landing-faq-refund-question-heading = Qual é a política de reembolso da { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Na primeira vez que se inscrever na { -brand-name-mozilla-vpn } através do site da { -brand-name-mozilla }, se cancelar a sua conta nos primeiros 30 dias, poderá pedir um reembolso e a { -brand-name-mozilla } reembolsará o seu primeiro período de subscrição.
+vpn-landing-faq-refund-question-additional-desc = Se adquirir a sua mensalidade através de compra dentro daaplicação na { -brand-name-apple } { -brand-name-app-store } ou na { -brand-name-google-play } Store, o seu pagamento estará sujeito aos termos e condições da { -brand-name-app-store }. Deve direcionar quaisquer pedidos de consulta de cobrança e reembolso para tais compras para a { -brand-name-apple } ou { -brand-name-google }, conforme apropriado.
+# Outdated string
+vpn-landing-faq-refund-question-desc = Pode receber o seu dinheiro de volta dentro de até 30 dias após a compra da sua subscrição. Entre em contacto connosco e envie o pedido de reembolso ao tocar no botão "Obter Ajuda" nas Opções da sua aplicação { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Como é que giro a minha subscrição?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Se já tem uma subscrição na { -brand-name-mozilla-vpn }, pode alterar o seu plano ou <a href="{ $url }">gerir a sua subscrição</a> a qualquer momento.
 vpn-landing-faq-link = Ver mais perguntas frequentes
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
