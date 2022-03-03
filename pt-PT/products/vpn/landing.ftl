@@ -64,6 +64,13 @@ vpn-landing-faq-protected-question-heading = Como é que a minha privacidade é 
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = O protocolo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® encripta o seu tráfego de rede, protegendo todas as suas informações privadas. Em comparação com os protocolos VPN existentes, o código leve do { -brand-name-wireguard } é mais fácil para os analistas de segurança reverem e auditarem, tornando-a uma opção mais segura para a VPN. Além disso, as suas atividades online permanecem anónimas porque nunca registamos, rastreamos ou partilhamos os seus dados de rede.
 vpn-landing-faq-competition-question-heading = Como é que a { -brand-name-mozilla-vpn } se compara com a competição?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Embora as VPNs gratuitas pareçam atraentes, não assumem os mesmos compromissos com a privacidade que a { -brand-name-mozilla-vpn }. Outras VPNs não têm os mais de 20 anos de <a href="{ $url }">histórico</a> da { -brand-name-mozilla } na criação de produtos que colocam as pessoas e a privacidade em primeiro lugar.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc = Embora as VPNs gratuitas pareçam atraentes, não assumem os mesmos compromissos com a privacidade que a { -brand-name-mozilla-vpn } e poderão vender ou armazenar os seus dados. Outras VPNs pagas não têm os mais de 20 anos de <a href="{ $url }">histórico</a> da { -brand-name-mozilla } na criação de produtos que colocam as pessoas e a privacidade em primeiro lugar.
 vpn-landing-faq-compatibility-question-heading = Com que dispositivos a { -brand-name-mozilla-vpn } é compatível?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
@@ -115,6 +122,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-apenas)
 vpn-landing-faq-refund-question-heading = Qual é a política de reembolso da { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = Na primeira vez que se inscrever na { -brand-name-mozilla-vpn } através do site da { -brand-name-mozilla }, se cancelar a sua conta nos primeiros 30 dias, poderá pedir um reembolso e a { -brand-name-mozilla } reembolsará o seu primeiro período de subscrição.
 vpn-landing-faq-manage-subscription-question-heading = Como é que giro a minha subscrição?
 vpn-landing-faq-link = Ver mais perguntas frequentes
 
