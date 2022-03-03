@@ -35,4 +35,5 @@ multi-newsletter-form-checkboxes-legend = Quero informações sobre:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Marque ao menos uma das opções de boletim informativo.
-multi-newsletter-form-desc = Inscreva-se nos boletins informativos da { -brand-name-mozilla } e ajude-nos a manter a web aberta e livre.
+multi-newsletter-form-title = Adoro a internet
+multi-newsletter-form-desc = Inscreva-se nos boletins informativos da { -brand-name-mozilla } e ajude-nos a manter a internet aberta e livre.
