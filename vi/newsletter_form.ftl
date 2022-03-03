@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Vui lòng nhập một địa chỉ email hợp lệ
 newsletter-form-you-must-agree-to = Bạn phải đồng ý với thông báo bảo mật
@@ -31,3 +31,9 @@ newsletter-form-thanks = Cảm ơn!
 newsletter-form-leave-this-field-empty = Để trống trường này.
 newsletter-form-yes = Đồng ý
 newsletter-form-no = Không
+multi-newsletter-form-checkboxes-legend = Tôi muốn thông tin về:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Vui lòng chọn ít nhất một trong các tùy chọn bản tin.
+multi-newsletter-form-title = Yêu thích web
+multi-newsletter-form-desc = Nhận bản tin { -brand-name-mozilla } và giúp chúng tôi giữ cho web mở và miễn phí.
