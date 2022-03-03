@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
+mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-get-firefox-for = { -brand-name-android }용 { -brand-name-firefox } 다운로드
 mobile-android-send-a-download-link-to-your = 휴대전화로 다운로드 링크를 보냅니다.
 mobile-android-scan-the-qr-code-to-get-started = QR 코드를 스캔하여 시작하기
 mobile-android-scan-alt-text = QR 코드를 스캔하여 { -brand-name-android }에서 { -brand-name-firefox } 다운로드

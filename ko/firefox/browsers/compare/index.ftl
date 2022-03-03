@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -39,3 +39,4 @@ compare-index-browsers-have-come-a-long = 웹 브라우저는 { -brand-name-chro
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox }는 비영리 { -brand-name-mozilla }가 만들고 있습니다.
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox }는 모든 점에서 여러분의 개인 정보를 최우선으로 생각합니다. 저희는 여러분이 스스로 개인 정보를 공유하는 방법과 대상을 결정할 권리가 있다고 믿습니다. { -brand-name-firefox }는 가능한 한 적은 데이터를 수집하고 절대 외부로 판매하지 않습니다. 우리가 수집하는 작은 데이터는 제품과 기능을 개선하는 데만 사용됩니다. 비밀이 없는 투명성으로 진정한 개인 정보 보호에 앞장서고 있습니다.
 compare-index-based-on-the-criteria-we-outlined = 개인 정보 보호, 유용성 및 이동성과 같은 기준에 따라 기준을 충족하는 브라우저는 { -brand-name-firefox }뿐입니다. 실제 차이점은 기능이 아니라 개인 정보 보호입니다. { -brand-name-firefox }는 사용자를 특정 서비스에 가두지 않는 가장 개인 보호에 충실한 브라우저입니다. 모든 운영 체제, 모든 장치에서 사용하고 안전하게 사용할 수 있습니다.
+compare-index-compare = 비교하기

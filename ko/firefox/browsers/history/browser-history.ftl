@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
@@ -11,6 +11,9 @@ browser-history-the-history-of-web = 웹 브라우저의 역사
 browser-history-world-history-is = 세계 역사는 장대한 권력 투쟁, 세계를 정복하는 폭군, 영웅적인 약자로 가득합니다. 웹 브라우저 역사라고 크게 다르지 않습니다. 대학 개척자들은 정보 혁명을 일으킨 간단한 소프트웨어를 작성했으며 브라우저의 우수함과 인터넷 사용자를 위해 싸웠습니다.
 browser-history-before-web-era = 웹 시대 이전
 browser-history-in-1950-computers = 1950년에 컴퓨터는 방 전체를 차지했고 오늘날의 휴대용 계산기보다 멍청했습니다. 하지만 발전은 빨랐고 1960년에는 복잡한 프로그램을 실행할 수 있었습니다. 전 세계의 정부와 대학은 기계가 말을 할 수 있고 협업과 과학적 돌파구를 육성 할 수 있다면 좋을 것이라고 생각했습니다.
+# Variables:
+#   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
+browser-history-arpanet-was-the = <a href="{ $arpanet }">아파넷(ARPANET)</a>은 최초의 성공한 네트워킹 프로젝트로 1969년에 캘리포니아에 있는 SRI(Stanford Research Institute)에서 UCLA(University of California, Los Angeles)로 첫 메시지 전송이 이뤄졌습니다.
 browser-history-that-sparked-a-revolution = 그것은 컴퓨터 네트워킹의 혁명을 일으켰습니다. 새로운 네트워크가 형성되어 전 세계의 대학과 연구 센터를 연결했습다. 하지만 그 후 20 년 동안 인터넷은 대중이 접근을 할 수 없었습니다. 대학 및 정부 연구원, 학생 및 민간 기업만이 접근할 수 있었습니다. 전화선을 통해 정보를 교환 할 수 있는 수십 개의 프로그램이 있었지만 사용하기 쉬운 프로그램은 없었습니다. 진정한 개방형 인터넷이자 최초의 웹 브라우저는 1990년까지 만들어지지 않았습니다.
 browser-history-web-era = 웹 시대
 # Variables:

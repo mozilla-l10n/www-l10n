@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+mobile-compare-features = 주요 기능
 mobile-compare-search-engine-options = 검색 엔진 옵션
 mobile-compare-text-to-speech = 텍스트 음성 변환
 mobile-compare-reader-mode = 읽기 모드

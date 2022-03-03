@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }은 최첨단 개발자 도구와 CSS Grid 지원 및 프레임 워크 디버깅과 같은 최신 기능을 제공하는 초고속 브라우저입니다.
@@ -77,3 +77,6 @@ firefox-developer-welcome-to-the-all-new = { -brand-name-firefox-quantum }에 �
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox }는 더  빠르고, 유연하고, 강력해졌습니다.
 firefox-developer-congrats-you-now-have-firefox = 축하합니다! { -brand-name-firefox-quantum }: { -brand-name-developer-edition }을 받으셨습니다.
 firefox-developer-this-isnt-just-an-update = 단순 업데이트가 아닌 최신 { -brand-name-firefox } { -brand-name-firefox-quantum }  브라우저입니다. 초기부터 새로 만들어진 더 빠른 브라우저입니다.
+firefox-developer-made-for-developers = 개발자를 위한 브라우저
+firefox-developer-congrats-you-now-have = 축하합니다! 지금부터 { -brand-name-firefox-browser }{ -brand-name-developer-edition }을 사용할 수 있습니다.
+firefox-developer-congrats-you-now-have-latest = 축하합니다! 가장 최신 버전의 { -brand-name-firefox-browser }{ -brand-name-developer-edition }을 사용중입니다!
