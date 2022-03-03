@@ -54,7 +54,15 @@ vpn-landing-faq-info-question-heading = Que informação mantém a { -brand-name
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
 vpn-landing-faq-info-question-desc-v2 = Aderimos estritamente aos <a href="{ $principles }">Princípios de Privacidade de Dados</a> da { -brand-name-mozilla } e recolhemos os dados necessários para manter a VPN operacional e melhorar o produto ao longo do tempo. Também rastreamos dados de campanha e referência na nossa aplicação móvel para ajudar a { -brand-name-mozilla } a compreender a eficácia das nossas campanhas de marketing. Leia mais no nosso <a href="{ $notice }">Aviso de Privacidade</a>.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Não registamos, rastreamos ou partilhamos nenhuma da sua atividade de rede. Aderimos estritamente aos <a href="{ $url }">Princípios de Privacidade de Dados</a> da { -brand-name-mozilla } e recolhemos apenas os dados necessários para manter a VPN operacional e melhorar o produto ao longo do tempo.
 vpn-landing-faq-protected-question-heading = Como é que a minha privacidade é protegida?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = O protocolo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® encripta o seu tráfego de rede, protegendo todas as suas informações privadas. Em comparação com os protocolos VPN existentes, o código leve do { -brand-name-wireguard } é mais fácil para os analistas de segurança reverem e auditarem, tornando-a uma opção mais segura para a VPN. Além disso, as suas atividades online permanecem anónimas porque nunca registamos, rastreamos ou partilhamos os seus dados de rede.
 vpn-landing-faq-competition-question-heading = Como é que a { -brand-name-mozilla-vpn } se compara com a competição?
 vpn-landing-faq-compatibility-question-heading = Com que dispositivos a { -brand-name-mozilla-vpn } é compatível?
 # Variables:
