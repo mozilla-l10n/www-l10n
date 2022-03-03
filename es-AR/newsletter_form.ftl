@@ -34,4 +34,6 @@ newsletter-form-no = No
 multi-newsletter-form-checkboxes-legend = Quiero información sobre:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Marcá al menos una de las opciones del boletín.
 multi-newsletter-form-title = Me encanta la web
+multi-newsletter-form-desc = Recibí los boletines de { -brand-name-mozilla } y ayudanos a mantener la web abierta y gratuita.
