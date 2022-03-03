@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = 请输入有效的电子邮件地址
 newsletter-form-you-must-agree-to = 您必须同意隐私声明
@@ -25,9 +25,13 @@ newsletter-form-keep-up-with = 持续关注<br>{ -brand-name-firefox } 的最新
 newsletter-form-get-mozilla-updates = 获取 { -brand-name-mozilla } 更新
 newsletter-form-available-languages = 可用语言
 newsletter-form-select-country = 选择国家/地区
-newsletter-form-sign-me-up = 为我注册
+newsletter-form-sign-me-up = 我要订阅
 newsletter-form-sign-up-now = 立即订阅
 newsletter-form-thanks = 谢谢！
 newsletter-form-leave-this-field-empty = 将此栏留空。
 newsletter-form-yes = 是的
 newsletter-form-no = 不要
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-title = 热爱 Web
+multi-newsletter-form-desc = 订阅 { -brand-name-mozilla } 新闻通讯，帮助我们保持 Web 的开放和自由。

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -54,33 +54,8 @@ manifesto-an-internet-with-these = 这样的互联网不会自行产生。每个
 manifesto-i-support-the-vision-of = 我支持 @mozilla 去创造一个更好的、更健康的互联网的愿景 , 你愿同我一道吗？
 manifesto-share-on-twitter = 分享到 { -brand-name-twitter }
 manifesto-our-10-principles = 我们的<strong>十大准则</strong>
-manifesto-use-open-badges-to-share = 使用“开放徽章”与他人展示您的技能和兴趣
-manifesto-explore-how-the-web-impacts = 探索网络如何影响科学
-manifesto-learn-about-open-source = 通过新闻媒体了解开放源代码文化
-manifesto-read-about-open-internet = 了解关于开放互联网政策的倡议及其发展
-manifesto-explore-how-to-help-keep = 探索如何帮助保持网络的开放
-manifesto-see-how-the-web-can-connect = 了解网络如何将医疗卫生与世界相连
-manifesto-explore-how-the-web-works = 探索网络是怎样运作的
-manifesto-see-how-mozilla-works = 了解 { -brand-name-mozilla } 如何努力，将您的隐私权置于首要
-manifesto-read-about-developments = 了解隐私和数据保护领域的发展
-manifesto-learn-more-about-how-to = 进一步了解怎样在网络上保护您自己
-manifesto-use-these-free-tools-to = 使用这些免费工具来教授网络知识
-manifesto-learn-about-creating-and = 了解如何动手创作互联网内容
-manifesto-add-new-voices-to-open = 为开放源代码技术加入新的观点
-manifesto-set-your-do-not-track = 设置您的“请勿追踪”选项
-manifesto-understand-the-web-ecosystem = 理解网络生态系统
-manifesto-explore-how-open-practices = 探索开放性如何能真实地保证网络人人可用
-manifesto-learn-how-to-remix-content = 学习如何重新汇编内容创造出新的东西
-manifesto-learn-how-to-maximize = 学习怎样充分发掘互联网的交互潜力
-manifesto-participate-in-our-governance = 参加我们的政府论坛
-manifesto-join-us-as-a-volunteer = 作为志愿者加入我们
-manifesto-learn-how-to-collaborate = 学习怎样在线协作
-manifesto-visualize-who-you-interact = 借助 { -brand-name-lightbeam }，直观看出网络上哪些网站与您有所接触
-manifesto-learn-about-creating-web = 学习如何与其他人一起创建网络资源
-manifesto-host-or-join-a-maker-party = 主办或参加{ -brand-name-maker-party }
-manifesto-learn-how-to-build-online = 掌握进行在线协作的技能
 manifesto-read-the-entire-manifesto = 阅读完整的宣言
-manifesto-love-the-web = 也热爱网络吗？
+manifesto-love-the-web = 也热爱 Web 吗？
 manifesto-get-the-mozilla-newsletter = 订阅 { -brand-name-mozilla } 电子报，与我们一同保持网络的开放和自由。
 manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } 宣言
 manifesto-details-introduction = 引言
