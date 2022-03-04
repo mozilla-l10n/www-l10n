@@ -6,26 +6,26 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
 # HTML page title
-mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+mobile-android-firefox-browser-android = { -brand-name-firefox-browser(case: "nominative_uppercase") } для { -brand-name-android }
 # HTML description
-mobile-android-firefox-browser-for = { -brand-name-firefox } для { -brand-name-android } — швидкий, безпечний і приватний з першої секунди.
+mobile-android-firefox-browser-for = Браузер { -brand-name-firefox } для { -brand-name-android } — швидкий, безпечний і приватний з першої секунди.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 # Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Будьте мобільними. Будьте незалежними з { -brand-name-firefox } для { -brand-name-android }
 # Obsolete string
-mobile-android-when-you-download = Завантажуючи { -brand-name-firefox }, ви обираєте підтримку незалежної технологічної компанії. { -brand-name-firefox } — єдиний великий браузер, який підтримується некомерційним борцем за надання вам більшої відкритості, прозорості та контролю вашого життя в інтернеті.
-mobile-android-get-firefox-for = Отримати { -brand-name-firefox } для { -brand-name-android }
+mobile-android-when-you-download = Завантажуючи { -brand-name-firefox }, ви підтримуєте незалежну технологічну компанію. { -brand-name-firefox } — єдиний великий браузер, який підтримується некомерційним борцем за надання вам більшої відкритості, прозорості та контролю вашого життя в інтернеті.
+mobile-android-get-firefox-for = Отримайте { -brand-name-firefox } для { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Надіслати посилання для завантаження на свій телефон.
 mobile-android-scan-the-qr-code-to-get-started = Скануйте QR-код, щоб почати завантаження
 mobile-android-scan-alt-text = Скануйте QR-код, щоб отримати { -brand-name-firefox } на { -brand-name-android }
-mobile-android-fast-and-private = Швидкий і приватнний
-mobile-android-firefox-for-android = { -brand-name-firefox } для { -brand-name-android } забезпечує легкий захист приватності з надшвидким завантаженням сторінок. Розширений захист від стеження автоматично блокує елементи онлайн-стеження, щоб вони не переслідували вас в інтернеті та не сповільнювали роботу ваших сторінок.
+mobile-android-fast-and-private = Швидкий і приватний
+mobile-android-firefox-for-android = { -brand-name-firefox } для { -brand-name-android } легко забезпечує захист приватності з блискавичним завантаженням сторінок. Розширений захист від стеження автоматично блокує елементи онлайн-стеження, щоб вони не переслідували вас в інтернеті та не сповільнювали роботу ваших сторінок.
 mobile-android-one-tap-to = Приватний режим на віддалі одного дотику
-mobile-android-get-to-private = Переходьте в режим приватного перегляду одним дотиком. А коли ви виходите з нього, історія перегляду автоматично стирається з вашого пристрою.
+mobile-android-get-to-private = Переходьте в режим приватного перегляду одним дотиком. Під час виходу історія перегляду автоматично зітреться з вашого пристрою.
 mobile-android-search-your-own = Пристосуйте його для себе
-mobile-android-got-a-big = Маєте великий телефон і пальці середнього розміру? Нема проблем. { -brand-name-firefox } для { -brand-name-android } дає змогу переміщувати панель пошуку з гори до низу, що полегшує користування однією рукою. Ви також можете обрати власний засіб пошуку у браузері та встановити { -brand-name-firefox } типовим браузером.
-mobile-android-save-power-with = Заощаджуйте енергію темним режимом
-mobile-android-switch-to-dark = У будь-який час перейдіть у темний режим, щоб зменшити навантаження на очі та заощадити заряд акумулятора.
+mobile-android-got-a-big = Маєте великий телефон і звичайні пальці? Нема проблем. { -brand-name-firefox } для { -brand-name-android } дає змогу переміщувати панель пошуку з верхньої частини екрана до нижньої, що полегшує керування однією рукою. Ви також можете обрати власний засіб пошуку у браузері та встановити { -brand-name-firefox } типовим браузером.
+mobile-android-save-power-with = Заощаджуйте заряд із темним режимом
+mobile-android-switch-to-dark = У будь-який час переходьте в темний режим, щоб зменшити навантаження на очі та заощадити заряд акумулятора.
 mobile-android-easily-organize-your = Легко впорядковуйте свої вкладки
 mobile-android-got-lots-of = У вас багато відкритих вкладок? Немає проблем, упорядкуйте їх у збірки, щоб продовжувати роботу. Збірки також можна надсилати на інші пристрої, щоб ви могли продовжувати переглядати сайти, незалежно від того, яким пристроєм ви користуєтесь.
 mobile-android-supercharge-firefox-with = Суперзаряд { -brand-name-firefox } за допомогою додатків
@@ -40,7 +40,6 @@ mobile-android-about-mozilla = Про { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } існує для перетворення інтернету на загальнодоступний ресурс, доступний для всіх, тому що ми вважаємо, що відкритий і вільний, він краще закритого та контрольованого. Ми створюємо такі продукти, як { -brand-name-firefox } та { -brand-name-pocket }, щоб сприяти різноманіттю, прозорості та контролю.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Швидкий доступ до інтернету за допомогою { -brand-name-firefox } для { -brand-name-android }
-mobile-android-get-there-faster = Швидша навігація за допомогою { -brand-name-firefox } для { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Переглядайте всі відкриті вкладки, останні пошукові запити та улюблені сайти в одному місці за допомогою браузера { -brand-name-firefox } для { -brand-name-android }
 mobile-android-own-your-home = Пристосуйте домівку для себе
 mobile-android-get-to-the-parts = Швидше діставайтеся до тих частин інтернету, які вас цікавлять. Виберіть, щоб побачити всі відкриті вкладки, останні пошукові запити, закладки та улюблені сайти в одному місці.
