@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -26,7 +26,7 @@ windows-64-bit-how-do-you-get-64 = ¿Cómo se obtiene { -brand-name-firefox } de
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
 windows-64-bit-if-youre-running = Si estás ejecutando { -brand-name-windows } de 64-bit (<a href="{ $version }">aquí te mostramos cómo comprobarlo</a>), puede que tu { -brand-name-firefox } ya sea de 64-bit. <a href="{ $check }">Verifica tu versión de { -brand-name-firefox }</a> (en la ventana "Acerca de { -brand-name-firefox }") y busca por "(32-bit)" o "(64-bit)" después del número de la versión:
 windows-64-bit-if-you-see-32-bit-older = Si ves "(32-bit)" y estás ejecutando { -brand-name-firefox } 56.0 o anterior, la actualización a la última versión de { -brand-name-firefox } debería actualizarte automáticamente a 64-bit.
-windows-64-bit-if-you-see-32-bit-newer = Si ves "(32-bit)" y estás ejecutando { -brand-name-firefox } 56.0.1 o posterior, es posible que tu computadora no cumpla con los requisitos mínimos de memoria para 64-bit (3 GB de RAM o más). Todavía puedes instalar manualmente { -brand-name-firefox } de 64-bit, si es que lo deseas.
+windows-64-bit-if-you-see-32-bit-newer = Si ves "(32-bit)" y estás ejecutando { -brand-name-firefox } 56.0.1 o posterior, es posible que tu computador no cumpla con los requisitos mínimos de memoria para 64-bit (3 GB de RAM o más). Si quieres, todavía puedes instalar manualmente { -brand-name-firefox } de 64-bit.
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Si necesitas ejecutar { -brand-name-firefox } de 32-bit o instalar manualmente { -brand-name-firefox } de 64-bit, puedes simplemente descargar y volver a ejecutar el instalador de { -brand-name-firefox } para { -brand-name-windows } (32-bit o 64-bit) desde <a href="{ $all }">la página de descarga de { -brand-name-firefox } para las diversas plataformas e idiomas.</a>
