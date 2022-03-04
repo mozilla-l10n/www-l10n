@@ -17,6 +17,8 @@ vpn-ip-address-if-you-look-up-your = As jo jo IP-adres opsykje, sil it der ûnge
 vpn-ip-address-does-it-travel = Reizget it mei jo mei?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Nee. Jo IP-adres is mar mei ien lokaasje keppele, útsein as jo in VPN brûke (dêr sille wy letter mear op yngean). As jo by jo thús binne en ferbine mei it ynternet wêr’t jo foar betelje, brûke jo ien. As jo lykwols jo e-mail thús moarns kontrolearje, dan it nijs scanne by in pleatslike kafee wylst jo op jo kofje wachtsje, en dan fan in kantoar út wurkje, sille jo op elke lokaasje ferskate IP-adressen brûkt hawwe.
+# Outdated string
 vpn-ip-address-no-your-ip = Nee. Jo IP-adres is mar mei ien lokaasje keppele, útsein as jo <a href="{ $url }">in VPN brûke</a> (dêr sille wy letter mear op yngean). As jo by jo thús binne en ferbine mei it ynternet wêr’t jo foar betelje, brûke jo ien. As jo lykwols jo e-mail thús moarns kontrolearje, dan it nijs scanne by in pleatslike kafee wylst jo op jo kofje wachtsje, en dan fan in kantoar út wurkje, sille jo op elke lokaasje ferskate IP-adressen brûkt hawwe.
 vpn-ip-address-does-your-ip = Wiziget jo IP-adres?
 vpn-ip-address-yes-even-if = Ja. Sels as jo allinnich it ynternet thús brûke, kin it IP-adres foar jo hûs wizigje. Jo kinne kontakt opnimme mei jo ynternetprovider (ISP) om it te wizigjen, mar sels sawat as it opnij starten fan jo modem of router fanwegen problemen mei de ynternetferbining kin resultearje yn in wiziging.
