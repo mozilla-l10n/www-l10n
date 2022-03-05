@@ -34,3 +34,6 @@ newsletter-form-no = Nie
 multi-newsletter-form-checkboxes-legend = Chcem informácie o:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Prosím, začiarknite aspoň jednu z možností.
+multi-newsletter-form-title = Milujeme web
+multi-newsletter-form-desc = Nechajte si zasielať novinky od { -brand-name-mozilla(case: "gen") } a pomôžte nám udržať internet otvorený a slobodný.
