@@ -31,3 +31,6 @@ newsletter-form-thanks = Vďaka!
 newsletter-form-leave-this-field-empty = Toto pole ponechajte prázdne.
 newsletter-form-yes = Áno
 newsletter-form-no = Nie
+multi-newsletter-form-checkboxes-legend = Chcem informácie o:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
