@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Zadejte prosím platnou e-mailovou adresu
 newsletter-form-you-must-agree-to = Musíte souhlasit se zásadami ochrany osobních údajů
@@ -31,3 +31,9 @@ newsletter-form-thanks = Děkujeme!
 newsletter-form-leave-this-field-empty = Toto pole ponechte prázdné.
 newsletter-form-yes = Ano
 newsletter-form-no = Ne
+multi-newsletter-form-checkboxes-legend = Chci informace o:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation(case: "loc") }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox(case: "loc") }
+multi-newsletter-form-checkboxes-error = Vyberte prosím alespoň jednu možnost pro zasílání zpravodaje.
+multi-newsletter-form-title = Z lásky k webu
+multi-newsletter-form-desc = Nechte si zasílat zpravodaj { -brand-name-mozilla(case: "gen") } a pomozte nám udržet internet otevřený a svobodný.
