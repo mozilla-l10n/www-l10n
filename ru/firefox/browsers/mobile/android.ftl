@@ -23,7 +23,7 @@ mobile-android-firefox-for-android = { -brand-name-firefox } для { -brand-nam
 mobile-android-one-tap-to = Приватный режим в одно касание
 mobile-android-get-to-private = Переходите в режим приватного просмотра одним касанием. При выходе история просмотра автоматически сотрётся с вашего устройства.
 mobile-android-search-your-own = Ищите так, как вам удобно
-mobile-android-got-a-big = Большой телефон и обычные пальцы? Нет проблем. { -brand-name-firefox } для { -brand-name-android } позволяет вам перемещать панель поиска из верхней части экрана в нижнюю, облегчая управление одной рукой. Вы также можете выбрать в браузере поисковую систему и сделать { -brand-name-firefox } вашим браузером по умолчанию.
+mobile-android-got-a-big = Большой телефон и обычные пальцы? Нет проблем. { -brand-name-firefox } для { -brand-name-android } позволяет вам перемещать панель поиска из верхней части экрана в нижнюю, облегчая управление одной рукой. Вы также можете выбрать в браузере поисковую систему и сделать { -brand-name-firefox } браузером по умолчанию.
 mobile-android-save-power-with = Экономьте заряд с тёмным режимом
 mobile-android-switch-to-dark = Переходите в тёмный режим в любое время, чтобы уменьшить нагрузку на глаза и продлить работу вашего аккумулятора.
 mobile-android-easily-organize-your = Легко организовывайте свои вкладки
@@ -35,7 +35,7 @@ mobile-android-go-from-your = Переходите с телефона на но
 mobile-android-search-from-your = Ищите прямо с домашнего экрана телефона
 mobile-android-no-need-to = Нет необходимости открывать приложение. Добавьте виджет поиска { -brand-name-firefox } и ищите в Интернете прямо с домашнего экрана вашего устройства.
 mobile-android-pin-videos-to = Закрепляйте видео на экране
-mobile-android-pop-videos-out = Извлекайте видео из веб-сайтов и плееров и закрепляйте в верхней части экрана вашего телефона, чтобы смотреть их, пока занимаетесь веб-сёрфингом или другими делами. Развлекайтесь, выполняя множество заданий.
+mobile-android-pop-videos-out = Закрепляйте видео из веб-сайтов и плееров над всеми запущенными приложениями, чтобы смотреть их, пока занимаетесь веб-сёрфингом или другими делами. Развлекайтесь, выполняя множество заданий.
 mobile-android-about-mozilla = О { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } существует для того, чтобы сделать Интернет доступным для каждого, потому что мы считаем, что открытая и свободная сеть лучше закрытой и регулируемой. Мы создаем такие продукты, как { -brand-name-firefox } и { -brand-name-pocket }, чтобы способствовать возможности выбора, прозрачности и контролю.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
