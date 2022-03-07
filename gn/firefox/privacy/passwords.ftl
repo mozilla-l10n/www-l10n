@@ -51,6 +51,7 @@ privacy-passwords-now-all-of = Tapicha akãreñói ndaikatupyrypái omoheñói h
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Eike vove { -brand-name-firefox }-pe ne mba’ete { -brand-name-firefox } pegua rupive, embojuehekuaa opaite ne mba’e’okápe ha eikekuaa ne ñe’ẽñemíme pumbyry kundahára guive { -brand-name-firefox }. Eñemomarunduve <a { $url_sumo-manager }>mba’éichapa eñangarekóta ne ñe’ẽñemi ojuajúva rehe</a>.
 privacy-passwords-twofactor-authentication-2fa = Ñemboaje mokõi mba’ére (2FA)
+privacy-passwords-2fa-is-a = 2FA ha’e peteĩ tembipuru ne rekorosãverã. Embohekóvo peteĩ mba’ete pyahu, oĩ tenda ome’ẽkuaáva ndéve embojuajukuaa hag̃ua “mokõiha mba’e” pe nde jeiképe. Py’ỹinte, kóva omoingese ne pumbyry papapy mba’etére, upévare emoinge rire ne ñe’ẽñemi, ojejeruréta ndéve ehai hag̃ua peteĩ tekorosãrã ayvu og̃uhẽtava ndéve ñe’ẽmondo rupive. Kóicha oikóramo, peteĩ mba’evaiapoha oikuaa sapy’áramo ne ñe’ẽñemi, ndoikekuaamo’ãi ne mba’etépe ndoguerekóire ne pumbyry.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Ne mba’ete { -brand-name-firefox } pegua, techapyrãramo, omo’ãkuaa 2FA ndive, <a { $url_sumo_2fa }>ikatukuaa eñemomaranduve ko’ápe</a>.
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
