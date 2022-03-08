@@ -59,6 +59,10 @@ vpn-landing-faq-info-question-desc-v2 = Romomba’e <a href="{ $principles }">mb
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
 vpn-landing-faq-info-question-desc = Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne rembiapo ñandutípe. Roguata he’iháicha <a href="{ $url }">Mba’ekuaarã rekoñemi rehegua</a> { -brand-name-mozilla } mba’e ha rombyaty mba’ekuaarã tekotevẽvante VPN omba’apo hag̃ua ha péicha apopyrã oikoporãvéta.
 vpn-landing-faq-protected-question-heading = ¿Mba’éicha oñemo’ã che rekoñemi?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = Pe taperekoite <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ombohape nde pyháre jeguata, omo’ãvo opaite ne maranduete. Emoñondivévo VPN raperekoite oĩmavavoi, auvy vevúi { -brand-name-wireguard } mba’e ndahasyive ehecha ha ema’ẽporã umi tekorosã rechakuaahára — ojapóva chugui jeporavorã hekorosãvéva VPN peg̃uarã. Avei, ne rembiapo ñandutípe oiko jekuaa’ỹme noroñongatúi rupi, rohapykueho térã terá romoherakuã ne mba’ekuaarã pyhápe.
 vpn-landing-faq-competition-question-heading = ¿Mba’éicha oñemoñondive { -brand-name-mozilla-vpn } ijoguaha ndive?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
