@@ -7,3 +7,4 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = O que é uma VPN?
+vpn-what-is-how-do-vpns = Como é que as VPNs funcionam?
