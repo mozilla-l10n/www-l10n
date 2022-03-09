@@ -35,3 +35,5 @@ multi-newsletter-form-checkboxes-legend = Θέλω πληροφορίες σχε
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Παρακαλούμε επιλέξετε τουλάχιστον μία από τις επιλογές του ενημερωτικού δελτίου.
+multi-newsletter-form-title = Αγαπάτε το διαδίκτυο;
+multi-newsletter-form-desc = Λάβετε το ενημερωτικό δελτίο της { -brand-name-mozilla } και βοηθήστε μας να διατηρήσουμε το διαδίκτυο ανοικτό και ελεύθερο.
