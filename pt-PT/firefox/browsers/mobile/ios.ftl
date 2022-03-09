@@ -10,3 +10,4 @@ mobile-ios-send-a-download-link-to-your = Enviar uma ligação de transferência
 mobile-ios-scan-the-qr-code-to-get-started = Digitalize o código QR para começar
 mobile-ios-fast-private-secure = Rápido. Privado. Seguro
 mobile-ios-stay-private-online = Mantenha-se privado online
+mobile-ios-your-browsing-history = O seu histórico de navegação é história
