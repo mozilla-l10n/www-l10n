@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -15,6 +15,7 @@ misinformation-spot-online-heading = Μάθετε πώς να εντοπίζετ
 misinformation-look-at-url = Παρατηρήστε το URL και/ή την πηγή.
 misinformation-known-to-br-credible = Είναι γνωστά για την αξιοπιστία τους; Αν δεν είστε σίγουροι, προσπαθήστε να μάθετε περισσότερα σχετικά με την πηγή και τη φήμη της στο διαδίκτυο.
 misinformation-overly-sensational = Είναι ο τίτλος υπερβολικά εντυπωσιακός;
+misinformation-check-out-websites = Ελέγξτε ιστοτόπους και ειδησεογραφικά μέσα που εμπιστεύεστε για να δείτε εάν και με ποιο τρόπο αναφέρουν το ίδιο θέμα. Το περιεχόμενο που αποσκοπεί στη χειραγώγηση θα χρησιμοποιεί συχνά ακρότητες και υπερβολές για τις οποίες δεν υπάρχουν αποδείξεις και που δεν απαντώνται σε εμπεριστατωμένα ρεπορτάζ.
 misinformation-content-up-to-date = Είναι ενημερωμένο το περιεχόμενο;
 misinformation-outdated-information = Οι παλαιές πληροφορίες δεν σκοπεύουν απαραίτητα να παραπληροφορήσουν, αλλά ενδέχεται να μην είναι έγκυρες πλέον.
 misinformation-credible-publication = Συνέταξε ο δημιουργός άλλα άρθρα ή αναρτήσεις, ιδανικά σε αξιόπιστες δημοσιεύσεις;
