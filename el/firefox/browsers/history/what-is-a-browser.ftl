@@ -20,6 +20,13 @@ what-is-a-browser-a-web-browser-long = Ένα πρόγραμμα περιήγη�
 # Variables:
 #   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
 what-is-a-browser-sadly-not-all = Δυστυχώς, δεν επιλέγουν όλοι οι κατασκευαστές προγραμμάτων περιήγησης να ερμηνεύουν αυτή τη μορφή με τον ίδιο τρόπο. Για τους χρήστες, αυτό σημαίνει ότι μια ιστοσελίδα μπορεί να έχει διαφορετική εμφάνιση και λειτουργία. Η δημιουργία συνοχής μεταξύ των προγραμμάτων περιήγησης, έτσι ώστε να απολαμβάνουν όλοι οι χρήστες το Διαδίκτυο, ανεξάρτητα από το πρόγραμμα περιήγησης που επιλέγουν, επιτυγχάνεται με τα <a href="{ $standards }">πρότυπα web</a>.
+# Variables:
+#   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
+what-is-a-browser-when-the-web-browser = Όταν το πρόγραμμα περιήγησης λαμβάνει δεδομένα από έναν διακομιστή στο διαδίκτυο, χρησιμοποιεί ένα λογισμικό που ονομάζεται «μηχανή απόδοσης» (rendering engine) για τη μετάφραση των δεδομένων αυτών σε κείμενο και εικόνες. Αυτά τα δεδομένα γράφονται σε <a href="{ $html }">Hypertext Markup Language</a> (HTML) και τα προγράμματα περιήγησης διαβάζουν αυτόν τον κώδικα για να δημιουργήσουν ό,τι βλέπουμε, ακούμε και συναντούμε στο διαδίκτυο.
+# Variables:
+#   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
+#   $url(url) - link to https://wikipedia.org/wiki/URL
+what-is-a-browser-hyperlinks-allow = Οι <a href="{ $hyperlink }">υπερσύνδεσμοι</a> επιτρέπουν στους χρήστες να ακολουθήσουν μια διαδρομή προς άλλες σελίδες ή ιστοτόπους στο διαδίκτυο. Κάθε ιστοσελίδα, εικόνα και βίντεο διαθέτει ένα μοναδικό <a href="{ $url }">Uniform Resource Locator</a> (URL), το οποίο είναι γνωστό κι ως διεύθυνση ιστού. Όταν ένα πρόγραμμα περιήγησης επισκεφθεί έναν διακομιστή για δεδομένα, η διεύθυνση ιστού λέει στο πρόγραμμα περιήγησης πού να ψάξει για κάθε στοιχείο που περιγράφεται στο αρχείο .html, το οποίο λέει τότε στο πρόγραμμα περιήγησης πού να μεταβείτε στην ιστοσελίδα.
 what-is-a-browser-cookies-not-the = Cookies (όχι το νόστιμο είδος)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
