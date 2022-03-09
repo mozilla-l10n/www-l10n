@@ -76,7 +76,17 @@
 -brand-name-devtools = DevTools
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-sync = Sync
+-brand-name-sync =
+    { $case ->
+       *[nominative] Синхронізація
+        [genitive] Синхронізації
+        [dative] Синхронізації
+        [accusative] Синхронізацію
+        [instrumental] Синхронізацією
+        [prepositional] Синхронізації
+        [vocative] Синхронізаціє
+        [verb] Синхронізуйте
+    }
 -brand-name-relay = Relay
 -brand-name-fpn = FPN
 
