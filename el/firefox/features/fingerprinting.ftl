@@ -17,6 +17,16 @@ features-fingerprinting-download-firefox = Λήψη του { -brand-name-firefox
 features-fingerprinting-what-is-fingerprinting-body = Τι είναι το fingerprinting;
 features-fingerprinting-fingerprinting-is-a = Το fingerprinting είναι ένας τύπος διαδικτυακής ιχνηλάτησης και είναι πιο επεμβατικό από τη συνήθη καταγραφή με βάση τα cookies. Ένα ψηφιακό αποτύπωμα δημιουργείται όταν μια εταιρεία κατασκευάζει ένα μοναδικό προφίλ για εσάς βάσει του υλικού, του λογισμικού, των προσθέτων και των προτιμήσεών σας. Οι ρυθμίσεις της οθόνης σας, οι εγκατεστημένες γραμματοσειρές, ακόμα και το πρόγραμμα περιήγησης της επιλογής σας μπορούν να χρησιμοποιηθούν για τη δημιουργία ενός αποτυπώματος.
 features-fingerprinting-fingerprinting-is-bad = Το fingerprinting βλάπτει το διαδίκτυο
+# $url_tracked (string) - link to https://hal.inria.fr/hal-01652021/document
+# $url_standards (string) - link to https://w3c.github.io/fingerprinting-guidance/
+# $url_bodies (string) - link to https://w3ctag.github.io/unsanctioned-tracking/
+# $url_browser (string) - link to https://www.blog.google/products/chrome/building-a-more-private-web
+# $url_vendors (string) - link to https://www.apple.com/safari/docs/Safari_White_Paper_Nov_2019.pdf
+# $url_harmful (string) - link to https://wiki.mozilla.org/Security/Anti_tracking_policy
+# $url_has (string) - link to https://www.cosic.esat.kuleuven.be/fpdetective/#paper
+# $url_steadily (string) - link to https://webtransparency.cs.princeton.edu/webcensus/
+# $url_increased (string) - link to https://sensor-js.xyz/
+features-fingerprinting-the-practice-of = Η πρακτική του fingerprinting επιτρέπει την <a { $url_tracked }>καταγραφή σας επί μήνες</a>, ακόμα κι όταν διαγράφετε τα αποθηκευμένα δεδομένα του προγράμματος περιήγησής σας ή χρησιμοποιείτε την ιδιωτική περιήγηση — αγνοώντας τα σαφή σας αιτήματα αποτροπής καταγραφής. Παρά τη σχεδόν πλήρως σύμφωνη γνώμη μεταξύ των <a { $url_bodies }>φορέων</a> <a { $url_standards }>προτύπων</a> και των <a { $url_vendors }>δημιουργών</a> <a { $url_browser }>προγραμμάτων περιήγησης</a> ότι το fingerprinting είναι <a { $url_harmful }>επιβλαβές</a>, η χρήση του στο διαδίκτυο <a { $url_has }>έχει</a> <a { $url_increased }>αυξηθεί</a> <a { $url_steadily }>σταθερά</a> την τελευταία δεκαετία.
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = Το πιο πρόσφατο { -brand-name-firefox } σάς προστατεύει από το fingerprinting αποκλείοντας τα αιτήματα τρίτων σε εταιρείες που είναι γνωστό ότι συμμετέχουν σε τέτοιες πρακτικές. Εργαστήκαμε σκληρά ώστε να υλοποιήσουμε αυτήν την προστασία χωρίς να προκαλέσουμε προβλήματα σε αγαπημένους σας ιστοτόπους. (Διαβάστε περισσότερα εδώ εάν θέλετε <a { $url_details }>τεχνικές λεπτομέρειες</a>.)
 # $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
