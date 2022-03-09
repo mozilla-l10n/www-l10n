@@ -20,6 +20,7 @@ mobile-compare-from-the-chart = Από τον παραπάνω πίνακα, ε�
 mobile-compare-features-strong = <strong>Λειτουργίες</strong>
 mobile-compare-features = Λειτουργίες
 mobile-compare-what-can-your = Τι μπορεί να κάνει για εσάς το πρόγραμμα περιήγησής σας;
+mobile-compare-a-main-ingredient = Ένα βασικό συστατικό ενός καλοφτιαγμένου προγράμματος περιήγησης είναι η λειτουργικότητά του. Τι μπορεί να κάνει; Και οι πέντε εφαρμογές είναι σχεδόν ίδιες όσον αφορά τις καρτέλες, τους σελιδοδείκτες, την αυτόματη συμπλήρωση πεδίων, αλλά μόνο το { -brand-name-firefox } και το { -brand-name-safari } προσφέρουν πρόσθετα/επεκτάσεις, που είναι κάτι σαν εφαρμογές για το πρόγραμμα περιήγησής σας και το κάνουν πιο ιδιωτικό, ισχυρό και διασκεδαστικό.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Συγχρονισμός</strong>
 mobile-compare-syncing = Συγχρονισμός
