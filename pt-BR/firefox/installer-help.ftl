@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
@@ -18,7 +18,7 @@ installer-help-action-choose = Escolha um download abaixo.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Pegue o mais novo. Privacidade automática é aqui. Baixe o { -brand-name-firefox-browser } para bloquear mais de { $trackers } rastreadores.
+installer-help-firefox-release-desc = Instale a versão mais recente. Privacidade automática é aqui. Use o { -brand-name-firefox-browser } para bloquear mais de { $trackers } rastreadores.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = Teste na versão de pré-lançamento mais estável os recursos prestes a ser lançados.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }

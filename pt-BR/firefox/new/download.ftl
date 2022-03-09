@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ## Required
@@ -9,14 +9,14 @@
 ### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Baixe o { -brand-name-firefox }
-firefox-new-download-the-fastest-firefox = Baixe o { -brand-name-firefox }, rápido como nunca
+firefox-new-download-the-fastest-firefox = Use o { -brand-name-firefox }, rápido como nunca
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Carregamento de páginas mais rápido, menos uso de memória e cheio de recursos, o novo { -brand-name-firefox } chegou.
 firefox-new-get-the-latest-firefox = Instale o mais recente navegador { -brand-name-firefox }
 # span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Baixe o { -brand-name-firefox } <br>para { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Baixe o { -brand-name-firefox } <br>para { -brand-name-mac }
-firefox-new-download-firefox-for-linux = Baixe o { -brand-name-firefox } <br>para { -brand-name-linux }
+firefox-new-download-firefox-for-windows = Use o { -brand-name-firefox } <br>para { -brand-name-windows }
+firefox-new-download-firefox-for-macos = Use o { -brand-name-firefox } <br>para { -brand-name-mac }
+firefox-new-download-firefox-for-linux = Use o { -brand-name-firefox } <br>para { -brand-name-linux }
 firefox-new-free-web-browser = Navegador web livre
 firefox-new-advanced-install-options = Opções avançadas de instalação e outras plataformas
 firefox-new-download-in-another-language = Baixar de outro idioma

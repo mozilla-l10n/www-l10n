@@ -202,13 +202,13 @@ newsletters-beta-news = Novidades do { -brand-name-beta }
 # Description for the newsletter in Newsletter subscription page (Beta News)
 newsletters-read-about-the-latest-features = Receba atualizações sobre os últimos recursos das versões do { -brand-name-firefox } que estão em fase Beta.
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-android = Baixe o { -brand-name-firefox } para { -brand-name-android }
+newsletters-download-firefox-for-android = Use o { -brand-name-firefox } para { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-firefox-for-android = Instale o { -brand-name-firefox } para { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-ios = Baixe o { -brand-name-firefox } para { -brand-name-ios }
+newsletters-download-firefox-for-ios = Use o { -brand-name-firefox } para { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-mobile = Baixe o { -brand-name-firefox } para dispositivos móveis
+newsletters-download-firefox-for-mobile = Use o { -brand-name-firefox } para dispositivos móveis
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = Dicas de { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)

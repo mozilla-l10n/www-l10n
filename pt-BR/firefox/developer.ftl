@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = O { -brand-name-firefox-developer-edition } é o navegador extremamente rápido que oferece ferramentas de desenvolvimento de ponta e recursos mais recentes, como o suporte ao CSS Grid e depuração de framework
@@ -73,7 +73,7 @@ firefox-developer-faster-innovation = Informações mais rápidas
 firefox-developer-fonts-panel = Painel de fontes
 firefox-developer-the-new-fonts-panel = O novo painel de fontes no { -brand-name-firefox-devtools } proporciona aos programadores acesso rápido a todas as informações que precisam sobre as fontes usadas por um elemento. Também inclui informações valiosas como origem da fonte, espessura, estilo e mais.
 firefox-developer-firefox-developer-edition-sends = O { -brand-name-firefox-developer-edition } automaticamente envia estatísticas de uso para a { -brand-name-mozilla }.
-firefox-developer-download-the-firefox-browser = Baixe o navegador { -brand-name-firefox } criado para desenvolvedores
+firefox-developer-download-the-firefox-browser = Use o navegador { -brand-name-firefox } criado para desenvolvedores
 firefox-developer-welcome-to-the-all-new = Boas-vindas ao novo { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = O { -brand-name-firefox } foi completamente reconstruído para ser mais rápido, mais elegante e mais poderoso do que nunca.
 firefox-developer-congrats-you-now-have-firefox = Parabéns. Agora você tem o { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.

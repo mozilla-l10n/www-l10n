@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Instale o { -brand-name-firefox } em sua organização com { -brand-name-esr } e Rapid Release
-firefox-enterprise-get-unmatched-data-protection = Tenha proteção de dados incomparável na cadência de atualização adequada para você com o { -brand-name-firefox } para empresas. Baixe o { -brand-name-esr } e Rapid Release.
+firefox-enterprise-get-unmatched-data-protection = Tenha proteção de dados incomparável na cadência de atualização adequada para você com o { -brand-name-firefox } para empresas. Use o { -brand-name-esr } e Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Apresentação
 firefox-enterprise-downloads = Downloads
