@@ -31,5 +31,7 @@ newsletter-form-thanks = Ευχαριστούμε!
 newsletter-form-leave-this-field-empty = Αφήστε αυτό το πεδίο κενό.
 newsletter-form-yes = Ναι
 newsletter-form-no = Όχι
+multi-newsletter-form-checkboxes-legend = Θέλω πληροφορίες σχετικά με:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Παρακαλούμε επιλέξετε τουλάχιστον μία από τις επιλογές του ενημερωτικού δελτίου.
