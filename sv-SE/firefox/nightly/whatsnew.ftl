@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -24,4 +24,4 @@ nightly-whatsnew-want-to-know-which = Vill du veta vilka plattformsfunktioner du
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Upplever du kraschar? Oväntat beteende? Regressioner av webbkompatibilitet? Vi skulle gärna få dem arkiverade i <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> för att se till att de inte når den slutliga utgåvan (extra karma om du lägger till nyckelordet <em>{ -brand-name-nightly }-community</em> i dina felrapporter)!
-nightly-whatsnew-go-community = Med vänliga hälsingar från oss i gemenskapen!
+nightly-whatsnew-go-community = Med vänliga hälsningar från oss i gemenskapen!
