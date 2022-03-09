@@ -14,6 +14,9 @@ vpn-ip-address-every-time-you = Eike vovénte ñandutípe, umi IP kundaharenda t
 vpn-ip-address-an-example-of-an-ip = Peteĩ techapyrã IP kundaharape oguerekóva irundy papapy, ojeíva ojuehegui kyta rupive: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Ehekáramo nde IP kundaharape, ikatu hína ehecha kóicha.
 vpn-ip-address-does-it-travel = ¿Egueraha nendive?
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Nahániri. Nde IP kundaharape oñemoirũ petẽi tendaite ndereipuruimba’éiramo VPN (tenodeve romyesakãta upéva). Reime jave nde rógape ha reikévo ñanduti nde rehepyme’ẽvape, reipuruhína upéva. Upeicharamo jepe, ehechajeývo ne ñanduti veve nde rógape pyharevekue, upéi ehecha marandu taperyva’uhápe eha’ãrõnguévo ne mba’ejerurepy, ha upe rire emba’apóvo peteĩ mba’apoha guive, eipuru heta IP kundaharape peteĩteĩ tendápe.
 vpn-ip-address-does-your-ip = ¿IP kundaharape iñambue?
 vpn-ip-address-yes-even-if = Héẽ. Eipurúramo jepe Ñanduti nde rógape, pe IP kundaharape nde róga pegua iñambuekuaa. Eñe’ẽkuaa ne Ñanduti me’ẽhára ndive (ISP) emoambue hag̃ua, hákatu ejapóvo hasy’ỹva jepe ha’éva ne módem moñepyrũjey térã router ojehukuaáva apañuãi Ñandutípe eike jave omoambuekuaáva.
 vpn-ip-address-can-more-than = ¿Ikatúpa heta mba’e’oka oreko IP kundaharape ojueheguáva?
