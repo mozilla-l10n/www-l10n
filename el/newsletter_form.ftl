@@ -15,7 +15,7 @@ newsletter-form-text = Απλό κείμενο
 newsletter-form-get-firefox-news = Λάβετε τα νέα του { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = Δέχομαι την επεξεργασία των πληροφοριών μου από τη { -brand-name-mozilla }, όπως εξηγεί η <a href='%(url)s'>Σημείωση απορρήτου</a>.
+newsletter-form-im-okay-with-mozilla = Δέχομαι την επεξεργασία των πληροφοριών μου από τη { -brand-name-mozilla }, όπως εξηγεί η <a href='{ $url }'>Σημείωση απορρήτου</a>.
 newsletter-form-we-will-only-send = Θα σάς στέλνουμε μόνο πληροφορίες σχετικές με τη { -brand-name-mozilla }.
 newsletter-form-we-will-only-send-firefox = Θα σας στέλνουμε μόνο πληροφορίες για το { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Αν δεν έχετε επιβεβαιώσει προηγουμένως μια συνδρομή σε ένα newsletter του { -brand-name-mozilla }, ίσως πρέπει να το κάνετε. Παρακαλώ ελέγξτε τα εισερχόμενά σας ή το φάκελο ανεπιθύμητων για ένα email από εμάς.
