@@ -18,10 +18,10 @@ browsers-mobile-firefox-for-android = { -brand-name-firefox } para { -brand-name
 browsers-mobile-infinitely-customizable-private = Infinitamente personalizável, privativo e seguro, o { -brand-name-firefox } para { -brand-name-android } é um navegador extremamente rápido, que nunca vende seus dados.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
 browsers-mobile-go-your-own-way = Faça do seu jeito com o { -brand-name-firefox } para dispositivos móveis
-browsers-mobile-firefox-mobile-adapts-to-you = O { -brand-name-firefox } para dispositivos móveis se adapta a você e torna mais fácil que nunca ver todas suas abas abertas, pesquisas anteriores e sites preferidos.
+browsers-mobile-firefox-mobile-adapts-to-you = O { -brand-name-firefox } para dispositivos móveis se adapta a você e torna mais fácil do que nunca ver todas as suas abas abertas, pesquisas anteriores e sites preferidos.
 browsers-mobile-the-more-you-use = Quanto mais você usa, mais inteligente ele fica. A tela inicial do { -brand-name-firefox } se adapta a você e facilita continuar de onde você parou.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
-browsers-mobile-get-enhanced-tracking-protection = Tenha a proteção aprimorada contra rastreamento e torne o { -brand-name-firefox } seu navegador padrão definitivo em seu { -brand-name-iphone } e { -brand-name-ipad }.
+browsers-mobile-get-enhanced-tracking-protection = Tenha a proteção aprimorada contra rastreamento e torne o { -brand-name-firefox } seu navegador padrão definitivo no { -brand-name-iphone } e { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Procurando um navegador para dispositivos móveis super rápido e simplificado, com recursos de privacidade de nível superior? O { -brand-name-firefox-focus } apaga automaticamente todo o histórico de navegação desde quando você abre o navegador até o momento em que o fecha.
 browsers-mobile-compare-mobile-browsers = Compare navegadores de dispositivos móveis
