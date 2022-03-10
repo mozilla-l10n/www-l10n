@@ -18,6 +18,7 @@ mobile-ios-send-a-download-link-to-your = Στείλτε έναν σύνδεσμ
 mobile-ios-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
 mobile-ios-scan-alt-text = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-name-firefox } στο { -brand-name-ios }
 mobile-ios-make-firefox-your = Ορίστε το { -brand-name-firefox } ως προεπιλογή
+mobile-ios-now-iphone-and = Πλέον οι χρήστες των { -brand-name-iphone } και { -brand-name-ipad } μπορούν να επιλέξουν το προεπιλεγμένο πρόγραμμα περιήγησής τους. Αυτό σημαίνει ότι δεν είστε αναγκασμένος να χρησιμοποιείτε το { -brand-name-safari } και το πρόγραμμα περιήγησης της κινητής σας συσκευής μπορεί να παραμένει συγχρονισμένο με αυτό του υπολογιστή σας. Επιπλέον, όταν ορίσετε το { -brand-name-firefox } ως προεπιλογή, υποστηρίζετε μια ανεξάρτητη τεχνολογική εταιρεία. Το { -brand-name-firefox } είναι επίσης το μόνο γνωστό πρόγραμμα περιήγησης που υποστηρίζεται από έναν μη κερδοσκοπικό οργανισμό.
 mobile-ios-fast-private-secure = Γρήγορο. Ιδιωτικό. Ασφαλές
 mobile-ios-stay-private-online = Ιδιωτικότητα στο διαδίκτυο
 mobile-ios-your-browsing-history = Το ιστορικό σας είναι παρελθόν
