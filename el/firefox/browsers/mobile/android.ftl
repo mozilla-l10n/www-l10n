@@ -22,6 +22,7 @@ mobile-android-fast-and-private = Γρήγορο και ιδιωτικό
 mobile-android-one-tap-to = Ιδιωτική λειτουργία με ένα πάτημα
 mobile-android-search-your-own = Αναζήτηση με τον δικό σας τρόπο
 mobile-android-save-power-with = Εξοικονόμηση με το σκουρόχρωμο θέμα
+mobile-android-switch-to-dark = Μεταβείτε στη σκουρόχρωμη λειτουργία ανά πάσα στιγμή για να μειώσετε την καταπόνηση των ματιών σας και να εξοικονομήσετε μπαταρία.
 mobile-android-easily-organize-your = Εύκολη οργάνωση καρτελών
 mobile-android-supercharge-firefox-with = Ενδυνάμωση του { -brand-name-firefox } με πρόσθετα
 mobile-android-addons-are-like = Τα πρόσθετα είναι μικρά αλλά ισχυρά εργαλεία που μπορείτε να προσθέσετε στο πρόγραμμα περιήγησής σας για να κάνετε διάφορα πράγματα, όπως η ενίσχυση των προεπιλεγμένων ρυθμίσεων απορρήτου και η προσαρμογή της εμπειρίας σας.
