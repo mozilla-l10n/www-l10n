@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
@@ -8,7 +8,7 @@
 # HTML page title
 features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Λιγότερη μνήμη, περισσότερη ταχύτητα
 # HTML page description
-features-memory-is-your-computer-slow-your = Ο υπολογιστής σας είναι αργός; Ο περιηγητής ενδεχομένως να χρησιμοποιεί περισσότερη μνήμη. Μεταβείτε στο { -brand-name-firefox } για περισσότερη ταχύτητα.
+features-memory-is-your-computer-slow-your = Ο υπολογιστής σας είναι αργός; Το πρόγραμμα περιήγησής σας μπορεί να χρησιμοποιεί περισσότερη μνήμη. Μεταβείτε στο { -brand-name-firefox } για περισσότερη ταχύτητα.
 features-memory-less-memory-usage-than-chrome = Λιγότερη χρήση μνήμης από το { -brand-name-chrome }
 features-memory-if-your-web-browser-uses = Αν το πρόγραμμα περιήγησής σας χρησιμοποιεί τόση πολλή μνήμη, ελάτε στο { -brand-name-firefox }.
 features-memory-speed-up-your-computer = Επιταχύνετε τον υπολογιστή σας

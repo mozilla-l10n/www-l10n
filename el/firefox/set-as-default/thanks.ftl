@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -8,7 +8,7 @@
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Ευχαριστούμε που επιλέξατε το { -brand-name-firefox }
 set-as-default-thanks-success-your-default-browser = Επιτυχία! Το προεπιλεγμένο πρόγραμμα περιήγησής σας έχει οριστεί σε { -brand-name-firefox }.
-set-as-default-thanks-looks-like-youre-using-a = Φαίνεται ότι χρησιμοποιείτε κάποιο άλλο πρόγραμμα περιήγησης αυτή τη στιγμή. Βεβαιωθείτε ότι έχετε κάνει λήψη του { -brand-name-firefox } στη συσκευή σας.
+set-as-default-thanks-looks-like-youre-using-a = Φαίνεται ότι χρησιμοποιείτε κάποιο άλλο πρόγραμμα περιήγησης αυτήν τη στιγμή. Βεβαιωθείτε ότι έχετε κάνει λήψη του { -brand-name-firefox } στη συσκευή σας.
 # When a visitor sees this message a system dialog will also open on screen.
 set-as-default-thanks-youre-almost-done-just-change = Έχετε σχεδόν τελειώσει. Απλώς αλλάξτε το προεπιλεγμένο πρόγραμμα περιήγησης στο { -brand-name-firefox } από τον πίνακα ρυθμίσεων.
 set-as-default-thanks-having-trouble-setting-your = Αντιμετωπίζετε πρόβλημα με τη ρύθμιση του προεπιλεγμένου προγράμματος περιήγησης;

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
@@ -10,10 +10,10 @@ features-fast-get-more-done-browse-faster = Κάντε περισσότερα. �
 # HTML description
 features-fast-our-new-powerful-multi-process = Η νέα, ισχυρή μας πλατφόρμα πολλαπλών διεργασιών χειρίζεται όλες τις καρτέλες σας χωρίς να επιβραδύνει τον υπολογιστή σας.
 features-fast-firefox-is-now-faster-and-leaner = Το { -brand-name-firefox } είναι πλέον πιο γρήγορο και ελαφρύ
-features-fast-weve-been-working-out-so-you = Κάνουμε γυμναστική, ώστε να μπορείτε να κάνετε περισσότερα.
+features-fast-weve-been-working-out-so-you = Εργαζόμαστε σκληρά, ώστε να κάνετε περισσότερα.
 features-fast-use-less-memory = Χρήση λιγότερης μνήμης
 # A "computer hog" here means software that consumes a lot of memory and resources
-features-fast-no-one-likes-a-computer-hog = Κανείς δεν θέλει μια υπερβολικά απαιτητική εφαρμογή! Το { -brand-name-firefox } είναι ένα εξαιρετικά λιτό και γρήγορο πρόγραμμα περιήγησης. Επειδή χρησιμοποιεί λιγότερη RAM από το { -brand-name-chrome }, τα άλλα σας προγράμματα θα συνεχίσουν να λειτουργούν ταχύτατα.
+features-fast-no-one-likes-a-computer-hog = Κανένας δεν θέλει μια υπερβολικά απαιτητική εφαρμογή! Το { -brand-name-firefox } είναι ένα εξαιρετικά λιτό και γρήγορο πρόγραμμα περιήγησης. Επειδή χρησιμοποιεί λιγότερη RAM από το { -brand-name-chrome }, τα άλλα σας προγράμματα θα λειτουργούν ταχύτατα.
 features-fast-get-all-the-tabs-without-lags = Πολλές καρτέλες, χωρίς καθυστέρηση
 features-fast-multi-tasking-with-multiple = Το multi-tasking με πολλαπλές καρτέλες μόλις έγινε πιο εύκολο. Το { -brand-name-firefox } είναι πλέον ένα πρόγραμμα περιήγησης πολλαπλών διεργασιών, που σημαίνει ότι οι καρτέλες σας παραμένουν "φρέσκες" και δεν χρειάζονται πολύ χρόνο για να κάνουν εκ νέου φόρτωση. Με 86% λιγότερο χρόνο καθυστερήσεων, κάντε ταχύτατα εναλλαγή ανάμεσα σε καρτέλες, ενώ ανοίγετε ακόμη περισσότερες.
 features-fast-level-up-browser-gameplay = Ενίσχυση παιχνιδιών προγράμματος περιήγησης

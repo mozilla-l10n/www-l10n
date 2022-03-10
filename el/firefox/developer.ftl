@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Το { -brand-name-firefox-developer-edition } είναι ένα αστραπιαίο πρόγραμμα περιήγησης που προσφέρει σύγχρονα εργαλεία ανάπτυξης και νέες λειτουργίες, όπως υποστήριξη πλέγματος CSS και έλεγχος σφαλμάτων πλαισίου
@@ -37,7 +37,7 @@ firefox-developer-storage-panel = Πλαίσιο αποθηκευτικών χώ
 firefox-developer-add-modify-remove = Διαχείριση κρυφής μνήμης, cookies, βάσεων δεδομένων και δεδομένων συνεδρίας.
 firefox-developer-learn-more-about-storage = Μάθετε περισσότερα σχετικά με τον πίνακα αποθήκευσης
 firefox-developer-responsive-design-mode = Δοκιμή ευελιξίας σχεδίου
-firefox-developer-test-sites-emulated = Δοκιμάστε σελίδες προσομοιώνοντας συσκευές στον περιηγητή σας.
+firefox-developer-test-sites-emulated = Δοκιμάστε σελίδες προσομοιώνοντας συσκευές στο πρόγραμμα περιήγησής σας.
 firefox-developer-learn-more-about-responsive = Μάθετε περισσότερα σχετικά με την προβολή ευελιξίας σχεδίου
 firefox-developer-visual-editing = Οπτική επεξεργασία
 firefox-developer-fine-tuning-animations = Ρυθμίστε στην εντέλεια τις κινήσεις, την στοίχιση και το γέμισμα.
@@ -49,7 +49,7 @@ firefox-developer-memory = Μνήμη
 firefox-developer-find-memory-leaks = Βρείτε διαρροές της μνήμης και κάντε την εφαρμογή σας να πετάει.
 firefox-developer-learn-more-about-memory = Μάθετε περισσότερα σχετικά με τα εργαλεία μνήμης
 firefox-developer-style-editor = Style Editor
-firefox-developer-edit-and-manage = Επεξεργαστείτε και διαχειριστείτε όλα τα CSS φύλλα στυλ στον περιηγητή σας.
+firefox-developer-edit-and-manage = Επεξεργαστείτε και διαχειριστείτε όλα τα CSS φύλλα στυλ στο πρόγραμμα περιήγησής σας.
 firefox-developer-learn-more-about-style = Μάθετε περισσότερα σχετικά με την επεξεργασία στυλ
 firefox-developer-new-tools = Νέα εργαλεία
 firefox-developer-inactive-css = Ανενεργό CSS

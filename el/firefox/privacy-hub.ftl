@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -46,7 +46,7 @@ firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000+ αποκλεισμένοι ιχνηλάτες — αυτόματα
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-tracking-has-become-an = Η καταγραφή έχει γίνει μια διαδικτυακή επιδημία: οι εταιρείες παρακολουθούν κάθε κίνηση, κλικ και αγορά, συλλέγοντας δεδομένα για να προβλέψουν και να επηρεάσουν τι θα κάνετε στη συνέχεια. Πιστεύουμε ότι είναι μια χυδαία παραβίαση του απορρήτου σας. Αυτός είναι ο λόγος που τα προγράμματα περιήγησης { -brand-name-firefox } για υπολογιστές κινητές συσκευές έχουν ενεργοποιημένη την Ενισχυμένη προστασία από καταγραφή από προεπιλογή.
-firefox-privacy-hub-if-you-want-to-see-what = Aν θέλετε να δείτε τι αποκλείει το { -brand-name-firefox } για εσάς, επισκεφτείτε αυτή τη σελίδα στο { -brand-name-firefox } σας.
+firefox-privacy-hub-if-you-want-to-see-what = Aν θέλετε να δείτε τι αποκλείει το { -brand-name-firefox } για εσάς, επισκεφτείτε αυτήν τη σελίδα στο { -brand-name-firefox } σας.
 firefox-privacy-hub-see-what-firefox-has-blocked = Δείτε τι έχει αποκλείσει το { -brand-name-firefox } για εσάς
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Λάβετε ενισχυμένη προστασία από καταγραφή
