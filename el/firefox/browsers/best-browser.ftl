@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -24,7 +24,7 @@ best-browser-there-are-a-few-ways = Υπάρχουν μερικοί τρόποι
 # Variables:
 # $data (url) - link to https://www.mozilla.org/privacy/firefox/
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-best-browser-the-second-is-not-storing = Ο δεύτερος είναι να μην αποθηκεύει πολλά δεδομένα χρήστη. Οι χάκερ δεν μπορούν να κλέψουν αυτό δεν υπάρχει, γι 'αυτό και το { -brand-name-firefox } διατηρεί έναν ελάχιστο αριθμό πληροφοριών για τους χρήστες του. Το <a href="{ $data }">{ -brand-name-firefox } γνωρίζει</a> αν χρησιμοποιείτε το πρόγραμμα περιήγησης και τη γενική τοποθεσία σας, <a href="{ $privacy }"> αλλά όχι το όνομα του παιδικού κατοικιδίου σας ή το αγαπημένο σας χρώμα.</a>
+best-browser-the-second-is-not-storing = Ο δεύτερος είναι να μην αποθηκεύει τόσα πολλά δεδομένα χρήστη. Οι hackers δεν μπορούν να υποκλέψουν κάτι που δεν υπάρχει και για τον λόγο αυτό, το { -brand-name-firefox } διατηρεί ελάχιστες πληροφορίες για τους χρήστες του. Το <a href="{ $data }">{ -brand-name-firefox } γνωρίζει</a> εάν χρησιμοποιείτε το πρόγραμμα περιήγησης και τη γενικότερη τοποθεσία σας, <a href="{ $privacy }">αλλά όχι το όνομα του πρώτου σας κατοικίδιου ή το αγαπημένο σας χρώμα.</a>
 best-browser-last-but-not-least = Τέλος, ένας ασφαλής φυλλομετρητής θα πρέπει να προσφέρει εργαλεία που να σας βοηθούν να εποπτεύετε τους λογαριασμούς σας. Φανταστείτε ειδοποιήσεις κατευθείαν στο email σας αν παραβιαστεί κάποιος από τους λογαριασμούς σας ή εικονίδια που θα σας ενημερώνουν εάν μια ιστοσελίδα είναι κρυπτογραφημένη (π.χ. εάν είναι ασφαλές να εισαγάγετε τον αριθμό της πιστωτικής σας κάρτας σε μια ιστοσελίδα αγορών).
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com

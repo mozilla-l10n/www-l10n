@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### Please read the trademarks localization guide
@@ -32,7 +32,7 @@
 -brand-name-firefox-browser = Firefox
 -brand-name-firefox-browsers = Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
--brand-name-firefox-enterprise = Firefox Enterprise
+-brand-name-firefox-enterprise = Firefox για επιχειρήσεις
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
 -brand-name-firefox-focus = Firefox Focus
