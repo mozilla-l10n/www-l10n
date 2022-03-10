@@ -8,6 +8,7 @@
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-send-a-download-link-to-your = Enviar uma ligação de transferência para o seu dispositivo móvel.
 mobile-ios-scan-the-qr-code-to-get-started = Digitalize o código QR para começar
+mobile-ios-make-firefox-your = Torne o { -brand-name-firefox } no seu navegador predefinido
 mobile-ios-fast-private-secure = Rápido. Privado. Seguro
 mobile-ios-stay-private-online = Mantenha-se privado online
 mobile-ios-your-browsing-history = O seu histórico de navegação é história
