@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -50,7 +50,7 @@ features-index-fingerprinter-blocking = Bloqueo de detector de huellas digitales
 features-index-fingerprinting-is-a = La detección de "huellas digitales" es un tipo de rastreo en línea que es más invasivo que el rastreo  basado en cookies; por eso, { -brand-name-firefox-browser } lo bloquea.
 features-index-block-fingerprinters = Bloquear detectores de huellas digitales
 features-index-translate-the-web = Traducir la web
-features-index-translate-more-than = Traducción desde más de cien lenguajes a tu idioma directamente en tu { -brand-name-firefox-browser } - más fácil que nunca.
+features-index-translate-more-than = Traducción desde más de cien idiomas al tuyo directamente en tu { -brand-name-firefox-browser } - más fácil que nunca.
 features-index-translate-to-your = Traducí a tu idioma
 features-index-picture-in-picture = Picture-in-Picture
 features-index-got-things-to-do = ¿Tenés cosas que hacer y cosas que ver? Hacé ambas cosas con Picture-in-Picture en { -brand-name-firefox }.
