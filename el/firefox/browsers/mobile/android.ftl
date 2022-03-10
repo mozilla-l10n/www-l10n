@@ -30,6 +30,7 @@ mobile-android-pick-up-where = Συνεχίστε από εκεί που στα�
 mobile-android-search-from-your = Αναζήτηση από την αρχική οθόνη του τηλεφώνου σας
 mobile-android-no-need-to = Δεν χρειάζεται να ανοίξετε την εφαρμογή. Προσθέστε το widget αναζήτησης του { -brand-name-firefox } και κάντε αναζήτηση απευθείας από την αρχική οθόνη της συσκευής σας.
 mobile-android-pin-videos-to = Καρφίτσωμα βίντεο στην οθόνη σας
+mobile-android-pop-videos-out = Εξαγάγετε τα βίντεο από τους ιστοτόπους ή τα προγράμματα αναπαραγωγής τους και καρφιτσώστε τα στο επάνω μέρος της οθόνης του τηλεφώνου σας για να τα παρακολουθείτε ενώ σερφάρετε στο διαδίκτυο και κάνετε άλλα πράγματα. Διασκεδάστε όσο κάνετε πολλαπλές εργασίες.
 mobile-android-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Συντομεύσεις για το διαδίκτυο στο { -brand-name-firefox } για { -brand-name-android }
