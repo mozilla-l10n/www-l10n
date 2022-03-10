@@ -22,4 +22,7 @@ best-browser-privacy-on-the-web = Mung i kakube tye lok malyet mada. Kacce mung 
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-one-easy-way-to-check = Yoo acel mayot me roto aye me limo potbuk me ter pa jami me layeny ki cik me mung. Kakube me mung myero onyut kace kitye ka nywako data mamegi dok pi ngo. En gin mumiyo yot tutwal me kwano <a href="{ $privacy }">{ -brand-name-firefox } cik me mung</a> dok yot me nongo.
 best-browser-choosing-the-best-browser = Yero layeny maber cal tutwal ki yero gang mamegi. Myero i nen jami weng matye me ayera, i tim kikweda ikom gi ka i mok tami malube ki ngo ma pire tek boti.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/firefox/new/
+best-browser-at-firefox-weve-worked = I <a href="{ $firefox }">{ -brand-name-firefox }</a>, watiyo matek me yubo layeny ma dwiro ne tye kiryo kato macon ki miyo loc mapol bot lutic kwede pi kwo gi me wiyamo.
 best-browser-take-control-of-your = Gam loc me layeny mamegi.
