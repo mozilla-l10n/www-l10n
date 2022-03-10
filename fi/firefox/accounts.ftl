@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -29,12 +29,16 @@ firefox-accounts-meet-our-family-of = Tutustu yksityisyyttä suojaavien tuotteid
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } on teknologiaa, joka taistelee puolestasi.
 firefox-accounts-get-technology-that = Hanki teknologiaa, joka taistelee puolestasi.
 firefox-accounts-travel-the-internet = Matkaa internetissä suojattuna kaikilla laitteillasi.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Pidä salasanat suojattuna ja siirrettävissä.
 firefox-accounts-get-a-lookout-for = Ota tietovuodot tarkkailuun.
+# Obsolete string
 firefox-accounts-share-large-files = Jaa suuria tiedostoja ilman urkintaa.
 firefox-accounts-get-it-all-on-every = Hallitse kaikkea jokaisella laitteella, ilman jähmettymistä tiettyyn ekosysteemiin.
 firefox-accounts-and-get-it-all-on = Ja käytä kaikkea jokaisella laitteella, ilman lukkiutumista yhteen ekosysteemiin.
 firefox-accounts-get-the-respect-you = Hanki ansaitsemasi kunnioitus.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Kokonaisvaltaista suojausta kaikille laitteillesi
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Meiltä tulet saamaan aina totuuden. Kaikki mitä luomme ja teemme kunnioittaa <a href="{ $promise }">henkilötietolupaustamme</a>:
@@ -47,11 +51,13 @@ firefox-accounts-help-us-build-a-better = Auta meitä luomaan parempi { -brand-n
 firefox-accounts-get-into-the-open = Pääset mukaan avoimen lähdekoodin henkeen testaamalla tulevia tuotteita.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Auta meitä pitämään teknologiajätit kurissa.
+firefox-accounts-we-support-communities = Tuemme kaikkialla maailmassa yhteisöjä, jotka edustavat terveellisempää Internetiä. Lisää äänesi taisteluun.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Tuemme kaikkialla maailmassa yhteisöjä, jotka edustavat terveellisempää Internetiä. Lisää äänesi taisteluun.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

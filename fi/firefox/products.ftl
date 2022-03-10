@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -15,10 +15,15 @@ firefox-products-desktop = Työpöytä
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Näytä kaikki selaimet
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-download-lockwise = Lataa { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Avaa { -brand-name-firefox }issa
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-a-file = Lähetä tiedosto
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-get-pocket = Hanki { -brand-name-pocket }
+firefox-products-firefox-focus = { -brand-name-firefox-focus }

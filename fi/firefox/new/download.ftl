@@ -1,43 +1,28 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+## Required
+
+
+### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Lataa { -brand-name-firefox }
-firefox-new-download-mozilla-firefox = Lataa { -brand-name-mozilla } { -brand-name-firefox }, vapaa ja ilmainen verkkoselain. { -brand-name-firefox } on tehty maailmanlaajuisen, voittoa tavoittelemattoman yhteisön toimesta päämääränä tarjota yksilölle mahdollisuus hallita tekemisiään verkossa. Hanki { -brand-name-firefox } { -brand-name-windows }ille, { -brand-name-mac }:lle, { -brand-name-linux }ille, { -brand-name-android }ille ja { -brand-name-ios }:lle tänään!
 firefox-new-download-the-fastest-firefox = Lataa nopein { -brand-name-firefox } koskaan
+firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Nopeampi sivujen latausaika, pienempi keskusmuistin käyttö ja runsaat ominaisuudet – uusi { -brand-name-firefox } on täällä.
-firefox-new-automatic-privacy-is-here = Automaattinen yksityisyys on täällä. Estä yli 2 000 seurainta lataamalla { -brand-name-firefox }.
 firefox-new-get-the-latest-firefox = Hanki uusin { -brand-name-firefox }-selain.
-firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } näyttää, kuinka monta tietoja keräävää seurainta on estetty <strong>Tehostetulla seurannan suojauksella</strong>.
-firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> tekee { -brand-name-firefox }issa tallentamasi salasanat turvallisiksi ja tuo ne käyttöösi kaikilla laitteillasi.
-firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> varoittaa sinua, jos huomaamme että tietosi ovat osa toisen yrityksen tietosuojavuotoa.
-firefox-new-join-firefox = Liity { -brand-name-firefox }iin
-firefox-new-firefox-lockwise-makes = <strong>{ -brand-name-firefox-lockwise }</strong> tuo { -brand-name-firefox }issa tallentamasi salasanat käyttöösi kaikilla laitteillasi.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Lataa { -brand-name-firefox } <br>{ -brand-name-windows }ille
 firefox-new-download-firefox-for-macos = Lataa { -brand-name-firefox } <br>{ -brand-name-mac }:lle
 firefox-new-download-firefox-for-linux = Lataa { -brand-name-firefox } <br>{ -brand-name-linux }ille
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-new-youve-already-got-the-browser = Sinulla on jo selain. Katso mitä muuta { -brand-name-firefox } tarjoaa.
-firefox-new-watch-for-hackers-with = Varaudu pahoilta hakkereilta { -brand-name-firefox-monitor }in avulla, suojaa salasanasi { -brand-name-firefox-lockwise }llä ja paljon muuta.
 firefox-new-free-web-browser = Avoin verkkoselain
 firefox-new-advanced-install-options = Edistyneet asennusvalinnat ja muut alustat
 firefox-new-download-in-another-language = Lataa toisella kielellä
-firefox-new-fix-a-problem = Korjaa ongelma
 firefox-new-need-help = Tarvitsetko apua?
-firefox-new-see-whats-being-blocked = Katso mitä estetään
-firefox-new-make-your-passwords-portable = Ota salasanat mukaasi
-firefox-new-watch-for-data-breaches = Tarkkaile tietovuotoja
-firefox-new-passwords-made-portable = Salasanat on tehty kulkemaan mukana
-firefox-new-protect-your-privacy = Suojaa yksityisyyttäsi
-firefox-new-private-browsing-clears = <strong>Yksityinen selaus</strong> tyhjentää selaushistoriasi, jotta se ei päädy muiden samaa tietokonetta käyttävien tietoon.
-firefox-new-advanced-install-options-heading = Edistyneet asennusvalinnat ja muut alustat
-firefox-new-just-download-the-browser = Lataa vain selain
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/
+### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Outdated string
 # Variables:
@@ -49,3 +34,14 @@ firefox-new-youre-using-an-insecure-outdated = Käytössäsi on tietoturvaton ja
 firefox-new-your-firefox-new-should-begin = Latauksen tulisi pian käynnistyä automaattisesti. Ongelmia? <a id="{ $id }" href="{ $fallback_url }">Yritä ladata uudelleen</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } on enemmän kuin selain.
 firefox-new-windows-10 = { -brand-name-windows } 10
+
+## Not-Required
+
+
+### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+
+# The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
+firefox-new-download-browser = Lataa { -brand-name-firefox-browser }
+firefox-new-fast = Nopea, yksityinen ja ilmainen
+firefox-new-from-mozilla = { -brand-name-mozilla }lta
+firefox-new-download-a-different = Lataa muille ympäristöille ja kielille

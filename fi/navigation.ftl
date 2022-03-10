@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Lataa { -brand-name-firefox }
 navigation-get-a-firefox-account = Hanki { -brand-name-firefox-account }
@@ -55,6 +55,8 @@ navigation-see-breaches = Katso vuodot
 navigation-security-tips = Turvallisuusvinkit
 navigation-sign-up = Rekisteröidy
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Nopea. Yksinkertainen. Yksityinen.
+# Outdated string
+navigation-connected-and-protected = Yhdistetty ja suojattu
 navigation-join = Liity
 navigation-sign-in = Kirjaudu sisään
 navigation-benefits = Hyödyt

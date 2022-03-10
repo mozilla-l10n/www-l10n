@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Kirjoita kelvollinen sähköpostiosoite
 newsletter-form-you-must-agree-to = Sinun tulee hyväksyä tietosuojailmoitus
@@ -31,3 +31,7 @@ newsletter-form-thanks = Kiitos!
 newsletter-form-leave-this-field-empty = Jätä tämä kenttä tyhjäksi.
 newsletter-form-yes = Kyllä
 newsletter-form-no = Ei
+multi-newsletter-form-checkboxes-legend = Haluan tietoa aiheesta:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Valitse ainakin yksi uutiskirjeen vaihtoehdoista.

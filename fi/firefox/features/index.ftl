@@ -8,6 +8,7 @@
 # Hero title
 features-index-firefox-features = { -brand-name-firefox }-ominaisuudet
 features-index-see-all = Selaa kaikkia laajennuksia
+features-index-get-an-account = Hanki { -brand-name-firefox-account }
 features-index-open-source-minds = Avoin lähdekoodi. Avoimet mielet.
 features-index-choose-independence = Valitse riippumattomuus
 features-index-read-our-privacy-policy = Lue tietosuojakäytäntömme
