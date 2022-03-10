@@ -19,6 +19,7 @@ mobile-android-send-a-download-link-to-your = Στείλτε έναν σύνδε
 mobile-android-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
 mobile-android-scan-alt-text = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-name-firefox } στο { -brand-name-android }
 mobile-android-fast-and-private = Γρήγορο και ιδιωτικό
+mobile-android-firefox-for-android = Το { -brand-name-firefox } για { -brand-name-android } παρέχει εξαιρετική προστασία απορρήτου με αστραπιαία φόρτωση σελίδων. Η Ενισχυμένη προστασία από καταγραφή αποκλείει αυτόματα την καταγραφή σας από ιχνηλάτες σε όλο το διαδίκτυο και την επιβράδυνση των σελίδων σας από αυτούς.
 mobile-android-one-tap-to = Ιδιωτική λειτουργία με ένα πάτημα
 mobile-android-search-your-own = Αναζήτηση με τον δικό σας τρόπο
 mobile-android-save-power-with = Εξοικονόμηση με το σκουρόχρωμο θέμα
