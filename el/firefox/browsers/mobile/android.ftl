@@ -24,6 +24,7 @@ mobile-android-search-your-own = Αναζήτηση με τον δικό σας 
 mobile-android-save-power-with = Εξοικονόμηση με το σκουρόχρωμο θέμα
 mobile-android-easily-organize-your = Εύκολη οργάνωση καρτελών
 mobile-android-supercharge-firefox-with = Ενδυνάμωση του { -brand-name-firefox } με πρόσθετα
+mobile-android-addons-are-like = Τα πρόσθετα είναι μικρά αλλά ισχυρά εργαλεία που μπορείτε να προσθέσετε στο πρόγραμμα περιήγησής σας για να κάνετε διάφορα πράγματα, όπως η ενίσχυση των προεπιλεγμένων ρυθμίσεων απορρήτου και η προσαρμογή της εμπειρίας σας.
 mobile-android-pick-up-where = Συνεχίστε από εκεί που σταματήσατε
 mobile-android-search-from-your = Αναζήτηση από την αρχική οθόνη του τηλεφώνου σας
 mobile-android-no-need-to = Δεν χρειάζεται να ανοίξετε την εφαρμογή. Προσθέστε το widget αναζήτησης του { -brand-name-firefox } και κάντε αναζήτηση απευθείας από την αρχική οθόνη της συσκευής σας.

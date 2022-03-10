@@ -18,6 +18,8 @@ browsers-mobile-firefox-for-android = { -brand-name-firefox } για { -brand-na
 browsers-mobile-infinitely-customizable-private = Άπειρα προσαρμόσιμο, ιδιωτικό και ασφαλές, το { -brand-name-firefox } για { -brand-name-android } είναι ένας αστραπιαίος φυλλομετρητής που δεν θα σας ξεπουλήσει ποτέ.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } για { -brand-name-ios }
 browsers-mobile-go-your-own-way = Περιηγηθείτε με το δικό σας τρόπο στο { -brand-name-firefox } για κινητά
+# "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
+browsers-mobile-get-enhanced-tracking-protection = Αποκτήστε την Ενισχυμένη προστασία από καταγραφή και ορίστε το { -brand-name-firefox } ως προεπιλογή στο { -brand-name-iphone } και το { -brand-name-ipad } σας.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Σύγκριση φυλλομετρητών για κινητά
 browsers-mobile-compare = Σύγκριση
