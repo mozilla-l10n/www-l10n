@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -24,6 +24,9 @@ firefox-all-everyone-deserves-access = Omyero ki dano weng me nongo intanet — 
 firefox-all-choose-which-firefox = Yer { -brand-name-firefox-browser } mene me agama i leb mamegi
 firefox-all-firefox-privacy-notice = Ngec me Mung pa { -brand-name-firefox }
 firefox-all-learn-about-firefox = Nong ngec ikom layeny me { -brand-name-firefox }
+firefox-all-get-a-sneak-peek-at = Nen jami manyen me layeny me { -brand-name-firefox } mapud pe kikelo gi woko.
+firefox-all-test-your-sites-against = Tem kakube mamegi ikom jami manyen me layeny me { -brand-name-firefox } ki DevTools ma tego, gome dok nonge calo makwongo.
+firefox-all-count-on-stability-and = Inongo kero ki yot me tic ki layeny man me { -brand-name-firefox } ma kiyubo pi tiyo jami mapol.
 firefox-all-product-send-link = Cwal kakube me gam i cim mamegi.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
