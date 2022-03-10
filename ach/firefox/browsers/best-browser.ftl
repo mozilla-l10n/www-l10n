@@ -18,4 +18,8 @@ best-browser-a-browser-that-puts = Layeny ma weko ber bedo kwongo.
 best-browser-we-visit-hundreds-or = Walimo kakube miya ki miya onyo alip ki alip nino acelacel, pe itwero geno lutic kwede me moko tam ikom ber bedo ki mung pi kakube magi ki acelacel. Meno aye gin ma omiyo layeny ma miyo boti loc mapol pire tek tutwal - pien miyo gokke kikome ma konyo.
 best-browser-a-browser-that-minds = Layeny ma mako mukeme.
 best-browser-privacy-on-the-web = Mung i kakube tye lok malyet mada. Kacce mung pire tek loyo boti, mite ni i yeny layeny ma tero meno calo gin ma pire tek. Ka itye ka yero layeny me mung maber loyo, nen cik me lubo kor ki kit ma layeny meno tero data ni kwede. Magi bedo calo lapeny me rwom ma malo, ento gubedo tyen lok mumiyo layeny mogo tye ki mung loyo mukene.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+best-browser-one-easy-way-to-check = Yoo acel mayot me roto aye me limo potbuk me ter pa jami me layeny ki cik me mung. Kakube me mung myero onyut kace kitye ka nywako data mamegi dok pi ngo. En gin mumiyo yot tutwal me kwano <a href="{ $privacy }">{ -brand-name-firefox } cik me mung</a> dok yot me nongo.
+best-browser-choosing-the-best-browser = Yero layeny maber cal tutwal ki yero gang mamegi. Myero i nen jami weng matye me ayera, i tim kikweda ikom gi ka i mok tami malube ki ngo ma pire tek boti.
 best-browser-take-control-of-your = Gam loc me layeny mamegi.
