@@ -1,14 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/principles/
 
 # HTML page title and main title
-privacy-principles-data-privacy-principles = Αρχές Προστασίας Δεδομένων
+privacy-principles-data-privacy-principles = Αρχές απορρήτου δεδομένων
 # HTML page description
-privacy-principles-mozilla-is-an-open-source = Ο { -brand-name-mozilla } τρέχει projects ανοιχτού κώδικα και έχει ως αποστολή την βελτίωση της εμπειρίας σας στο διαδίκτυο. Αυτός ο κανόνας οδηγεί τις τακτικές μας πίσω από τη προστασία δεδομένων.
+privacy-principles-mozilla-is-an-open-source = Η { -brand-name-mozilla } αποτελεί ένα έργο ανοικτού κώδικα και έχει ως αποστολή τη βελτίωση της εμπειρίας σας στο διαδίκτυο. Αυτή είναι η κινητήριος δύναμη των πρακτικών απορρήτου μας.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
 privacy-principles-the-following-five-principles = Οι πέντε αρχές που ακολουθούν πηγάζουν από τη <a href="{ $link }">διακήρυξη { -brand-name-mozilla }</a> και πληροφορούν για το πως εμείς:
