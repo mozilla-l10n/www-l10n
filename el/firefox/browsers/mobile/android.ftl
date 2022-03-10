@@ -38,3 +38,4 @@ mobile-android-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
 mobile-android-short-cut-the-internet = Συντομεύσεις για το διαδίκτυο στο { -brand-name-firefox } για { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Δείτε όλες τις ανοικτές καρτέλες, τις πρόσφατες αναζητήσεις και τους αγαπημένους σας ιστοτόπους σε ένα μέρος με το { -brand-name-firefox } για { -brand-name-android }.
 mobile-android-own-your-home = Κάντε την αρχική οθόνη δική σας
+mobile-android-get-to-the-parts = Μεταβείτε ταχύτερα στα αγαπημένα σας μέρη στο διαδίκτυο. Δείτε όλες τις ανοικτές καρτέλες, τις πρόσφατες αναζητήσεις, τους σελιδοδείκτες και τους αγαπημένους σας ιστοτόπους σε ένα μέρος.

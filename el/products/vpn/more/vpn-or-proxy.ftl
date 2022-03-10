@@ -26,3 +26,10 @@ vpn-or-proxy-a-vpn-works = Ένα VPN δημιουργεί μια ασφαλή �
 vpn-or-proxy-concealing-your-ip = Αποκρύπτει τη διεύθυνση IP σας, προστατεύοντας την ταυτότητα και την τοποθεσία σας.
 vpn-or-proxy-encrypting-your-traffic = Κρυπτογραφεί τις κινήσεις μεταξύ εσάς και του παρόχου VPN σας, ώστε να μην μπορεί κανείς στο τοπικό σας δίκτυο να τις αποκρυπτογραφήσει ή τροποποιήσει.
 vpn-or-proxy-choose-a-trustworthy = Επιλέξτε μια αξιόπιστη υπηρεσία
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $fpn (url) - https://fpn.firefox.com/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-or-proxy-weve-done-the = Έχουμε κάνει τα πάντα για να εξασφαλίσουμε ότι το <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> και η επέκταση του διακομιστή μεσολάβησης <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> σέβονται το απόρρητό σας και αυτό είναι κάτι για το οποίο είμαστε πρόθυμοι να στοιχηματίσουμε τη φήμη μας. Η { -brand-name-mozilla } έχει τη φήμη για την ανάπτυξη προϊόντων που σας βοηθούν να προστατεύσετε τις πληροφορίες σας. Τηρούμε τις ευανάγνωστες και ξεκάθαρες <a href="{ $principles }">αρχές απορρήτου δεδομένων</a> που μας επιτρέπουν να εστιάζουμε μόνο στις πληροφορίες που χρειαζόμαστε για την παροχή μιας υπηρεσίας. Και επειδή έχουμε την υποστήριξη μιας εταιρείας που <a href="{ $mission }">καθοδηγείται από την αποστολή</a> της, είναι σίγουρο ότι τα χρήματα που πληρώνετε για αυτό το προϊόν δεν θα εξασφαλίσουν μόνο την κορυφαίου επιπέδου ασφαλείας σας, αλλά και τη βελτίωση του διαδικτύου για όλους.

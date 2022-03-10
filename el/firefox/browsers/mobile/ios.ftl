@@ -26,6 +26,7 @@ mobile-ios-get-more-firefox = Περισσότερο { -brand-name-firefox } σ�
 mobile-ios-get-to-your-go-to = Μεταβείτε ταχύτερα σε αγαπημένους ιστοτόπους στο { -brand-name-iphone } και το { -brand-name-ipad } σας
 mobile-ios-see-your-open-tabs = Δείτε τις ανοικτές καρτέλες, τις προηγούμενες αναζητήσεις και τους αγαπημένους σας ιστοτόπους σε ένα μέρος με το { -brand-name-firefox-browser } για { -brand-name-ios }.
 mobile-ios-own-your-home = Κάντε την αρχική οθόνη δική σας
+mobile-ios-get-to-the-parts = Μεταβείτε ταχύτερα στα αγαπημένα σας μέρη στο διαδίκτυο. Δείτε όλες τις ανοικτές καρτέλες, τις πρόσφατες αναζητήσεις, τους σελιδοδείκτες και τους αγαπημένους σας ιστοτόπους σε ένα μέρος.
 mobile-ios-find-it-all = Βρείτε τα πάντα, πιο γρήγορα
 # Obsolete string
 mobile-ios-keep-tabs-on = Διαχειριστείτε όλες αυτές τις καρτέλες
