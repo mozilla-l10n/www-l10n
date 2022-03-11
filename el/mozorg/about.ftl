@@ -21,12 +21,12 @@ about-our-leadership-has-been-at = Η ηγεσία μας έχει βρεθεί 
 about-firefox-fast-for-good = { -brand-name-firefox }: Ακόμη πιο γρήγορο
 about-when-you-use-the-new-firefox = Όταν χρησιμοποιείτε το νέο { -brand-name-firefox }, απολαμβάνετε μια απίστευτα γρήγορη εμπειρία, ενώ παράλληλα υποστηρίζετε την αποστολή της { -brand-name-mozilla } για ένα υγιές, περίεργο και φιλόξενο προς όλους διαδίκτυο.
 about-walking-our-privacy-talk = Συζήτηση για τη σημασία του απορρήτου
-about-when-the-facebook-breach-was = Όταν αποκαλύφθηκε η παραβίαση του { -brand-name-facebook }, η { -brand-name-mozilla } αντέδρασε άμεσα - με ένα { -brand-name-firefox } που υπερασπίζεται το απόρρητο των χρηστών.
+about-when-the-facebook-breach-was = Όταν αποκαλύφθηκε η παραβίαση του { -brand-name-facebook }, η { -brand-name-mozilla } αντέδρασε άμεσα – με το { -brand-name-firefox } που υπερασπίζεται το απόρρητο των χρηστών.
 about-talking-internet-issues-irl = IRL συζήτησης διαδικτυακών ζητημάτων
-about-in-mozillas-irl-podcast-host = Στο podcast IRL του { -brand-name-mozilla }, ο οικοδεσπότης Manoush Zomorodi μοιράζεται πραγματικές ιστορίες ζωής στο διαδίκτυο και παρουσιάζει συζητήσεις σχετικά με το μέλλον του ιστού.
+about-in-mozillas-irl-podcast-host = Στο IRL podcast της { -brand-name-mozilla }, η Manoush Zomorodi μοιράζεται πραγματικές ιστορίες ζωής στο διαδίκτυο και παρουσιάζει συζητήσεις σχετικά με το μέλλον του ιστού.
 about-corporation-foundation-not = Εταιρεία. Ίδρυμα. Όχι για το κέρδος.
 about-learn-about-the-mozilla-foundation = Μάθετε για το { -brand-name-mozilla-foundation }
-about-mozilla-puts-people-over-profit = Η { -brand-name-mozilla } βάζει τους ανθρώπους πάνω από το κέρδος, σε όσα λέει, κάνει και δημιουργεί. Στην πραγματικότητα, υπάρχει ένα μη κερδοσκοπικό ίδρυμα στην καρδιά της επιχείρησής μας.
+about-mozilla-puts-people-over-profit = Η { -brand-name-mozilla } βάζει τους ανθρώπους πάνω από το κέρδος, σε όσα λέει, κάνει και δημιουργεί. Βασικά, υπάρχει ένα μη κερδοσκοπικό ίδρυμα στην καρδιά της εταιρείας μας.
 about-the-mozilla-manifesto = Η Διακήρυξη της { -brand-name-mozilla }
 about-the-principles-we-wrote-in = Οι αρχές που γράψαμε το 1998 μας καθοδηγούν ακόμη και σήμερα. Και το 2018, δημιουργήσαμε ένα προσάρτημα με έμφαση στην ένταξη, το απόρρητο και την ασφάλεια όλων στο διαδίκτυο.
 about-read-the-manifesto = Διαβάστε τη διακήρυξη
@@ -44,12 +44,12 @@ about-800-bottles-of-cold-brew-coffee = <strong>800</strong> μπουκάλια 
 about-work-at-mozilla = Εργασία στη { -brand-name-mozilla }
 about-join-a-mission-driven-organization = Γίνετε μέλος μιας οργάνωσης που έχει ως οδηγό την αποστολή της και που δημιουργεί στοχοστρεφή προϊόντα.
 about-mozilla-careers = Καριέρες { -brand-name-mozilla }
-about-how-you-can-help = Πώς μπορείτε να βοηθήσετε
+about-how-you-can-help = Τρόποι συνεισφοράς
 about-your-voice-your-code-your = Η φωνή σας. Ο κώδικάς σας. Η υποστήριξή σας. Υπάρχουν τόσοι τρόποι να συμμετάσχετε στη μάχη για ένα υγιές διαδίκτυο.
 about-get-involved = Συμμετοχή
 
 ## Newsletter
 
-about-get-the-mozilla-newsletter = Λήψη του { -brand-name-mozilla } Newsletter
+about-get-the-mozilla-newsletter = Ενημερωτικό δελτίο { -brand-name-mozilla }
 about-stay-informed-about-the-issues = Μείνετε ενημερωμένοι σχετικά με τα ζητήματα που επηρεάζουν το διαδίκτυο και μάθετε πώς μπορείτε να συμμετάσχετε στην προστασία του νεότερου δημόσιου πόρου στον κόσμο.
 about-subscribe = Εγγραφή
