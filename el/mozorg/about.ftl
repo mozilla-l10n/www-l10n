@@ -12,7 +12,7 @@ about-mozilla-makes-browsers-apps-desc = Η { -brand-name-mozilla } δημιου
 # Main heading
 about-mozilla-makes-browsers-apps = Η { -brand-name-mozilla } δημιουργεί προγράμματα περιήγησης, εφαρμογές, κώδικα και εργαλεία που βάζουν τους ανθρώπους πάνω από το κέρδος.
 # Main sub-heading
-about-our-mission-keep-the-internet = Η αποστολή μας: Διατηρήστε το διαδίκτυο ανοικτό και προσβάσιμο σε όλους.
+about-our-mission-keep-the-internet = Η αποστολή μας: Να παραμείνει το διαδίκτυο ανοικτό και προσβάσιμο σε όλους.
 # Main call to action
 about-read-our-mission = Διαβάστε για την αποστολή μας
 about-our-mission-in-action = Η αποστολή μας στην πράξη
