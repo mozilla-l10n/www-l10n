@@ -28,6 +28,10 @@ misinformation-images-captions = Ταιριάζουν οι εικόνες και
 misinformation-images-are-powerful = Οι εικόνες είναι ένα πανίσχυρο εργαλείο για τη στοχευμένη παραπληροφόρηση. Ανάλογα με τη λεζάντα, η αντίληψη μπορεί να διαστρεβλωθεί εντελώς. Αν δεν είστε σίγουροι, εκτελέστε μια αντίστροφη αναζήτηση εικόνας για να μάθετε πώς περιγράφεται η εικόνα σε άλλες ιστοσελίδες.
 misinformation-how-firefox-helps-heading = Πώς το { -brand-name-firefox } σάς βοηθά να αποφύγετε την παραπληροφόρηση
 misinformation-firefox-keeps-trackers-heading = Το { -brand-name-firefox } περιορίζει τους ιχνηλάτες:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Όπως αναφέρθηκε προηγουμένως, η καταγραφή παίζει μεγάλο ρόλο στη διάδοση της παραπληροφόρησης. Η <a href="{ $firefox }">χρήση του { -brand-name-firefox }</a> με την <a href="{ $protection }">Ενισχυμένη προστασία από καταγραφή</a> βοηθάει αποκλείοντας από προεπιλογή τους ιχνηλάτες πολλών διαφημιστών και άλλων τρίτων κατά την περιήγησή σας, έτσι ώστε να ανακτήσετε τον έλεγχο των δεδομένων σας στο διαδίκτυο.
 misinformation-social-media-clean-heading = Το { -brand-name-firefox } διατηρεί καθαρές τις ροές κοινωνικών δικτύων σας:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
