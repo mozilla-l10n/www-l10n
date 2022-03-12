@@ -17,6 +17,7 @@ vpn-or-proxy-stop-isps-from = Αποτροπή κατασκοπίας από τ�
 #   $trackers (url) - https://blog.mozilla.org/internet-culture/mozilla-explains/what-is-a-web-tracker/
 vpn-or-proxy-when-you-use-firefox = Όταν <a href="{ $firefox }">χρησιμοποιείτε το { -brand-name-firefox }</a>, η <a href="{ $etp }">Ενισχυμένη προστασία από καταγραφή</a> αποκλείει αυτόματα πολλούς <a href="{ $trackers }">ιχνηλάτες</a> τρίτων στο διαδίκτυο. Ενδιαφέρουσα πληροφορία: ο πάροχος υπηρεσίας διαδικτύου (ISP) σας που πληρώνετε για μια σύνδεση στο διαδίκτυο — μπορεί ακόμα να σας παρατηρεί και να σας παρακολουθεί.
 vpn-or-proxy-when-should-you = Πότε πρέπει να επιλέξετε ένα VPN ή διακομιστή μεσολάβησης;
+vpn-or-proxy-vpns-and-secure = Τα VPN και οι ασφαλείς διακομιστές μεσολάβησης έχουν κοινό στόχο: την προστασία των συνδέσεων. Κρύβουν την αρχική σας διεύθυνση IP και προστατεύουν την κίνηση μεταξύ εσάς και του VPN ή του παρόχου του ασφαλούς διακομιστή μεσολάβησης. Αλλά πότε είναι προτιμότερη η χρήση ενός VPN έναντι ενός διακομιστή μεσολάβησης;
 vpn-or-proxy-secure-web-proxy = Διακομιστής μεσολάβησης: προστασία σε επίπεδο φυλλομετρητή
 # Variables
 #   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
