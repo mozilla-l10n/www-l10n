@@ -27,6 +27,7 @@ vpn-or-proxy-a-proxy-is-useful = Proxy iporã eikundahakuévo ñandutípe WiFi p
 #   $fpn (url) - https://fpn.firefox.com
 vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> ha’e kundahára jepysokue hasy’ỹva iñemohenda ome’ẽkuaáva tapeyvyguy hekorosã ha ipapapýva ñandutíre omo’ã hag̃ua kundahárape jeike eipuru eipuruhápe { -brand-name-firefox }. Ipya’e ha ndahasýi imyandy eipuruse vove ereko hag̃ua tekorosãve ne kundahárape.
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: ñemo’ã a mba’e’oka peve
+vpn-or-proxy-vpns-do-more = Ko’ã VPN ojapove proxys-gui, peteĩ proxy omo’ãre ejapóva ne kundahárape añónte, hákatu pe VPN omo’ã opaite ne rembiapo, oĩháme avei ne kundahára, emohenda ha eipuruhápe pe VPN. Ko’ã VPNs ome’ẽ tekorosã ha tekoñemi jo’ajo’a opaite ne rembiapo ñanduti peguápe — peteĩ mba’e tuichapajepéva eguerekoséramo ne rembiapo ndéve g̃uarãnte ha embohasyve hag̃ua umi tapykuehohápe ha ISPs omondaséva ne mba’ekuaarã omoheñóivo ne mba’etechagua opaite ne mba’e’okápe, ikatúva pumbyry, mohendaha ha tabléta.
 vpn-or-proxy-a-vpn-works = Peteĩ VPN oku’e omoheñóivo “tapeyvyguy” hekorosãva ne mba’e’oka pa’ũme ha ñanduti tuichaháicha. Emo’ã ne rekoñemi hendáicha:
 vpn-or-proxy-concealing-your-ip = Emokañývo nde IP kundaharape, omo’ãvo nde reratee ha oñomívo ne rendaite.
 vpn-or-proxy-encrypting-your-traffic = Ombopapapývo pe jeikeita nde ha ne VPN me’ẽhára avave ani hag̃uáicha ne ñanduti ombopapapy’o térã omoambue ndehegui.
