@@ -15,3 +15,5 @@ vpn-android-maker-of-firefox = Sco sviluppadra dal navigatur-web { -brand-name-f
 vpn-android-wifi-headline = Ta protegia en l'internet, era cura che ti es en viadi
 vpn-android-wifi-copy = Mintgatant na stattan las datas mobilas betg a disposiziun ed il WLAN public è l'unica opziun. Grazia a { -brand-name-mozilla-vpn } sin tes apparat { -brand-name-android } na stos ti mai ta far quitads cun endatar in pled-clav a l'eroport u cun far cumpras online en il café da tes quartier – ta connectescha cun ina tutgada e gia funcziuna la chaussa.
 vpn-android-about-headline = { -brand-name-mozilla } è in num dal qual ti pos ta fidar
+vpn-android-about-copy = Nus essan enconuschents per noss navigatur-web { -brand-name-firefox }, ma { -brand-name-mozilla } ha en il senn il pli vast ina missiun centrala: nus cumbattain per tes dretgs online. Quai faschain nus da bell'entschatta, dapi l'onn 1998. Nus essan promoturs da l'internet ed ans engaschain per che quel restia avert e gratuit e respectia il dretg da sfera privata e segirezza dad in e mintgin.
+vpn-android-privacy-headline = Ina tutgada cun il det per ta connectar
