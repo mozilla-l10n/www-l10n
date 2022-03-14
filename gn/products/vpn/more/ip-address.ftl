@@ -10,6 +10,7 @@ vpn-ip-address-what-is-an-ip-address = ¿Mba’épa IP kundaharape?
 # HTML page description and intro
 vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } ombohovái ne porandu IP kundaharape rehegua pe IP kundaharapete guive, mba’éichapa oku’e guive ha eñomisépa.
 vpn-ip-address-every-time-you = Eike vovénte ñandutípe, umi IP kundaharenda tuichamba’e marandu jeju ha jehópe g̃uarã nepytyvõ hag̃ua ehechávo umi tenda ejeruréva. Upéicharamo jepe, ikatu ndereikuaái mba’épa upéva, upévare rombohovaipaite umi oñeporanduvéva ko’ág̃aite guive oikóva.
+vpn-ip-address-your-ip-address = Nde IP kundaharape jekuaaukaha ha’eñóva, ha’eháica avei pe ñandutiveve, ojuajúva ne rembiapo ñanduti peguáre. Eipuru vove ñanduti (emba’ejoguávo ñanduti rupive, emondo ñanduti veve, ehecha ta’ãngambyry), ejerurehína eike hag̃ua peteĩ ñanduti renda ha’etévape, ha og̃uahẽta ndéve marandu mbohováiramo. ¿Mba’éicha omba’apo? Ajépa, IP he’ise "Protocolo de Internet", oguenohẽva tekoguatarã ha mbojojaha (añete, avei ojekuaáva taperekoitéramo) omboguata mba’ekuaarã ha oikéma ñandutípe. Ko taperekoite ha’e mbojojaha aty oikotevẽva peteĩteĩ pehẽ omoneĩ hag̃ua mba’ekuaarã ñembohape ohoseha gotyo.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Peteĩ techapyrã IP kundaharape oguerekóva irundy papapy, ojeíva ojuehegui kyta rupive: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Ehekáramo nde IP kundaharape, ikatu hína ehecha kóicha.
