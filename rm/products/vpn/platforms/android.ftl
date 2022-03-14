@@ -17,3 +17,4 @@ vpn-android-wifi-copy = Mintgatant na stattan las datas mobilas betg a disposizi
 vpn-android-about-headline = { -brand-name-mozilla } è in num dal qual ti pos ta fidar
 vpn-android-about-copy = Nus essan enconuschents per noss navigatur-web { -brand-name-firefox }, ma { -brand-name-mozilla } ha en il senn il pli vast ina missiun centrala: nus cumbattain per tes dretgs online. Quai faschain nus da bell'entschatta, dapi l'onn 1998. Nus essan promoturs da l'internet ed ans engaschain per che quel restia avert e gratuit e respectia il dretg da sfera privata e segirezza dad in e mintgin.
 vpn-android-privacy-headline = Ina tutgada cun il det per ta connectar
+vpn-android-privacy-copy = L'utilisaziun da { -brand-name-mozilla-vpn } per { -brand-name-android } è fitg simpla. Tutga in buttun e tia connexiun è criptada automaticamain cun il protocol avanzà { -brand-name-wireguard }®. Bel e finì!
