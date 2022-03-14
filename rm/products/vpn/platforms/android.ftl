@@ -18,3 +18,17 @@ vpn-android-about-headline = { -brand-name-mozilla } è in num dal qual ti pos t
 vpn-android-about-copy = Nus essan enconuschents per noss navigatur-web { -brand-name-firefox }, ma { -brand-name-mozilla } ha en il senn il pli vast ina missiun centrala: nus cumbattain per tes dretgs online. Quai faschain nus da bell'entschatta, dapi l'onn 1998. Nus essan promoturs da l'internet ed ans engaschain per che quel restia avert e gratuit e respectia il dretg da sfera privata e segirezza dad in e mintgin.
 vpn-android-privacy-headline = Ina tutgada cun il det per ta connectar
 vpn-android-privacy-copy = L'utilisaziun da { -brand-name-mozilla-vpn } per { -brand-name-android } è fitg simpla. Tutga in buttun e tia connexiun è criptada automaticamain cun il protocol avanzà { -brand-name-wireguard }®. Bel e finì!
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-android-servers-headline = Dapli che { $servers } servers en passa { $countries } pajais
+# Variables:
+#   $countries (number) - number of available countries
+vpn-android-servers-copy = Cun { -brand-name-mozilla-vpn } pos ti definir la posiziun da tes telefon { -brand-name-android } cun tscherner in da passa { $countries } pajais. Quai munta che ti navigheschas sco sche ti fissas en il pajais che ti has tschernì. Quai è in'opziun divertenta ed interessanta per scuvrir il web dad ina nova perspectiva.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-headline = In abunament per enfin a { $devices } apparats
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy = Cun { -brand-name-mozilla-vpn } pos ti connectar { $devices } differents apparats dad { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }. Utilisescha la software sin tes telefonin, desktop, laptop, tablet ed auter pli.
+vpn-android-speed-headline = Sveltezza fenomenala. Quantitads illimitadas da datas.
