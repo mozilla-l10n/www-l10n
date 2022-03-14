@@ -32,3 +32,7 @@ vpn-android-devices-headline = In abunament per enfin a { $devices } apparats
 #   $devices (number) - number of available devices
 vpn-android-devices-copy = Cun { -brand-name-mozilla-vpn } pos ti connectar { $devices } differents apparats dad { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }. Utilisescha la software sin tes telefonin, desktop, laptop, tablet ed auter pli.
 vpn-android-speed-headline = Sveltezza fenomenala. Quantitads illimitadas da datas.
+vpn-android-speed-copy = Gioga online, streamescha films e navighescha en il web cun sveltezza impressiunanta sin tes apparat { -brand-name-android } – e tut quai cun in volumen da datas illimità.
+vpn-android-log-headline = Nagins protocols. Nagins fastizaders. Nagina violaziun da la sfera privata.
+# "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
+vpn-android-log-copy = Blers purschiders da VPN protocolleschan tias activitads sin lur servers. Quai na faschain nus betg. { -brand-name-mozilla-vpn } na fastizescha mai tias activitads online – quai cuntraschess a tut quai che nus represchentain sco interpresa. Per nus han tia sfera privata e tia segirezza la prioritad absoluta.
