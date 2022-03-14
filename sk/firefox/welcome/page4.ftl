@@ -14,7 +14,7 @@ welcome-page4-privacy-on-by-default = Vo { -brand-name-firefox(case: "loc") } pr
 welcome-page4-get-the-firefox-mobile = Získajte { -brand-name-firefox } pre mobilné zariadenia
 welcome-page4-get-firefox-on-your-phone = Získajte { -brand-name-firefox } pre telefón
 welcome-page4-send-the-download-link-right = Odkaz na stiahnutie si môžete poslať priamo do telefónu alebo na e-mail.
-welcome-page4-download-firefox-for-your = Stiahnite si { -brand-name-firefox } pre svoj smartfón a tablet.
+welcome-page4-download-firefox-for-your = Stiahnite si { -brand-name-firefox } pre svoj telefón či tablet.
 welcome-page4-firefox-private-safe-browser = „{ -brand-name-firefox }“ pre { -brand-name-ios } alebo { -brand-name-android }.
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Zbavte sa sledovacích prvkov

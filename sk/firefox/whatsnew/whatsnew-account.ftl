@@ -16,6 +16,6 @@ whatsnew-account-main-button = Prihlásiť sa
 
 whatsnew-account-signed-in-headline = S { -brand-name-firefox(case: "ins") } pre mobilné zariadenia toho dokážete viac.
 whatsnew-account-signed-in-lead-in = Odošlite si odkaz na stiahnutie do svojho telefónu.
-whatsnew-account-signed-in-qr-title = Stiahnite si { -brand-name-firefox } pre svoj smartfón a tablet.
+whatsnew-account-signed-in-qr-title = Stiahnite si { -brand-name-firefox } pre svoj telefón či tablet.
 # An accessible label for a QR code image
 whatsnew-account-qr-code-alt = Naskenujte tento QR kód
