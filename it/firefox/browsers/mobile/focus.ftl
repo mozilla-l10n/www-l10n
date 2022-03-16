@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
@@ -21,7 +21,7 @@ mobile-focus-scan-alt-text = Scansiona il codice QR per scaricare { -brand-name-
 mobile-focus-disappear-your-history = Fai sparire la tua cronologia
 mobile-focus-delete-your-history = Cancella la tua cronologia
 mobile-focus-easily-erase-your = Cancella facilmente la cronologia, le password e i cookie, in modo che gli annunci pubblicitari indesiderati non ti seguano online. Tocca il pulsante di cancellazione nel campo di ricerca e sparirà tutto.
-mobile-focus-take-private-mode = Porta la navigazione anonima al livello successivo
+mobile-focus-take-private-mode = Porta la navigazione anonima a un livello superiore
 # Outdated string
 mobile-focus-private-browsing-on = La “navigazione anonima” sulla maggior parte dei browser non è poi così anonima. { -brand-name-firefox-focus }, quando si parla di privacy, è a un livello superiore ed è supportato da { -brand-name-mozilla }, l’organizzazione senza fini di lucro che si batte per i tuoi diritti online.
 mobile-focus-private-browsing-on-v2 = La “navigazione anonima” sulla maggior parte dei browser non è poi così anonima. { -brand-name-firefox-focus } offre un livello superiore di privacy per impostazione predefinita ed è supportato da { -brand-name-mozilla }, l’organizzazione senza fini di lucro che si batte per i tuoi diritti online.
