@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -26,7 +26,7 @@ privacy-index-get-involved = Engagera dig
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Som ett open source-projekt, är insyn och öppenhet en viktig del av { -brand-name-mozilla } grundläggande principer. Våra kodbaser är öppna och granskningsbara. Vårt utvecklingsarbete är öppet. Vår tvååriga <a href="{ $report }">Rapport om öppenhet</a> visar också vårt engagemang för dessa principer.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = För att granska och kommentera föreslagna ändringar av vår sekretesspolicy, <a href="{ $group }"> prenumerera på { -brand-name-mozilla }s ledningsgrupp</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
@@ -43,3 +43,4 @@ privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } för Amazon { -brand-name-fire-tv }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }

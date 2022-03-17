@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } är en blixtrande snabb webbläsare som erbjuder avancerade utvecklingsverktyg och nya funktioner som support för CSS-rutnät och felsökning av framework
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = De nya { -brand-name-firefox-devtools } är kraftfulla, flexibla och bäst av allt, de går att utöka. Detta inkluderar en JavaScript-debugger, som kan användas på flera webbläsare och utvecklad i React och Redux.
 firefox-developer-master-css-grid = Behärska CSS-rutnät
+# outdated
 firefox-developer-next-gen-css-engine = Nästa generations CSS-motor
+firefox-developer-built-for-developers = Byggt för utvecklare
 firefox-developer-a-next-generation = Nästa generations CSS-motor
 firefox-developer-master-innovative-features = Innovativa funktioner
 firefox-developer-want-to-be-on-the-cutting-edge = Vill du vara i framkant?
