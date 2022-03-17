@@ -12,6 +12,7 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Comparar navegadores móveis
 browsers-mobile-compare = Comparar
+browsers-mobile-join-firefox-and-get-the-most = Adira ao { -brand-name-firefox } e tire o máximo proveito de todos os produtos — em todos os dispositivos.
 browsers-mobile-download = Transferência
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
