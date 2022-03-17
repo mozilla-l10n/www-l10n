@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 navigation-get-a-firefox-account = { -brand-name-firefox-account } ਲਵੋ
@@ -67,6 +67,7 @@ navigation-join = ਹਿੱਸਾ ਬਣੋ
 navigation-close-join-menu = ਜੁਆਇੰਨ ਮੇਨੂ ਬੰਦ ਕਰੋ
 navigation-sign-in = ਸਾਇਨ ਇਨ
 navigation-benefits = ਫਾਇਦੇ
+navigation-protect-your-life-online = ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲੇ ਉਤਪਾਦਾਂ ਰਾਹੀਂ ਆਪਣੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ।
 navigation-about = ਇਸ ਬਾਰੇ
 navigation-close-about-menu = ਇਸ ਬਾਰੇ ਮੇਨੂ ਬੰਦ ਕਰੋ
 navigation-meet-the-technology-company = ਅਜਿਹੀ ਤਕਨੀਕੀ ਕੰਪਨੀ ਨੂੰ ਮਿਲੋ, ਜੋ ਕਿ ਲੋਕਾਂ ਨੂੰ ਫਾਇਦੇ ਤੋਂ ਪਹਿਲ ਦਿੰਦੀ ਹੈ।

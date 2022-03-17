@@ -61,6 +61,7 @@ navigation-v2-meet-the-not-for-profit-behind = { -brand-name-firefox } ਦੇ �
 navigation-v2-get-involved = ਹਿੱਸਾ ਲਵੋ
 navigation-v2-join-the-fight-for-a = ਚੰਗੇ ਇੰਟਰਨੈੱਟ ਲਈ ਜੰਗ ਵਿੱਚ ਹਿੱਸਾ ਪਾਓ।
 navigation-v2-leadership = ਅਗਵਾਈ
+navigation-v2-meet-the-team-thats-building = ਟੀਮ ਨੂੰ ਮਿਲੋ, ਜੋ ਵਧੀਆ ਇੰਟਰਨੈੱਟ ਬਣਾਉਣ ਲਈ ਤਕਨੀਕਾਂ ਵਿਕਸਿਤ ਕਰਦੀ ਹੈ।
 navigation-v2-careers = ਕੈਰੀਅਰ
 navigation-v2-mozilla-blog = { -brand-name-mozilla } ਬਲੌਗ
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } ਅਤੇ ਸਾਡੇ ਉੱਤੇ ਅਸਰ ਪਾਉਣ ਵਾਲੇ ਮਸਲਿਆਂ ਬਾਰੇ ਜਾਣੋ।

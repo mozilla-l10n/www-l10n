@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -18,6 +18,7 @@ firefox-privacy-our-promise = ਸਾਡਾ ਵਾਅਦਾ
 # Sub navigation link
 firefox-privacy-our-products = ਸਾਡੇ ਉਤਪਾਦ
 firefox-privacy-hub-take-less = ਘੱਟ ਲਵੋ
+firefox-privacy-hub-we-make-a-point-of-knowing = ਅਸੀਂ ਤੁਹਾਡੇ ਬਾਰੇ ਘੱਟ ਜਾਣਕਾਰੀ ਫੈਲਣ ਦਿੰਦੇ ਹਾਂ।
 firefox-privacy-hub-keep-it-safe = ਇਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ
 firefox-privacy-hub-we-do-the-hard-work-to-protect = ਅਸੀਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਅਣਥੱਕ ਯਤਨ ਕਰ ਰਹੇ ਹਾਂ
 firefox-privacy-hub-no-secrets = ਕੋਈ ਭੇਤ ਨਹੀਂ
@@ -51,6 +52,9 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } ਲਵੋ
 firefox-privacy-hub-your-firefox-account = ਤੁਹਾਡਾ { -brand-name-firefox-account }
 firefox-privacy-hub-take-your-privacy-and-bookmarks = { -brand-name-firefox-account } ਨਾਲ ਆਪਣੇ ਪਰਦੇਦਾਰੀ ਅਤੇ ਬੁੱਕਮਾਰਕ ਹਰ ਥਾਂ ਲੈ ਜਾਓ
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = ਸਾਡੇ ਉਤਪਾਦਾਂ ਲਈ <a href="{ $url }">ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ</a> ਨੂੰ ਪੜ੍ਹੋ
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-privacy-hub-surf-stream-and-get-work = ਨਵੇਂ ਪੱਖ ਤੋਂ ਸੁਰੱਖਿਅਤ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਲਈ 30 ਦੇਸ਼ਾਂ ਤੋਂ ਵੱਧ ਵਿੱਚ ਮੌਜੂਦ ਸਰਵਰਾਂ ਰਾਹੀਂ ਇੰਟਰਨੈੱਟ ਸਰਫ਼ ਕਰੋ, ਸਟਰੀਮ ਕਰੋ ਤੇ ਕੰਮ ਮੁਕੰਮਲ ਕਰੋ।
 firefox-privacy-hub-get-mozilla-vpn = { -brand-name-mozilla-vpn } ਲਵੋ

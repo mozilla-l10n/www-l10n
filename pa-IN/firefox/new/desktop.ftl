@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -37,6 +37,8 @@ firefox-desktop-download-blocks-social-trackers = ਸਮਾਜਿਕ ਟਰੈ�
 firefox-desktop-download-os-availability = ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ
 firefox-desktop-download-in-browser-screenshot = ਬਰਾਊਜ਼ਰ ਵਿਚੇ ਸਕਰੀਨਸ਼ਾਟ ਟੂਲ
 firefox-desktop-download-primary-password = ਮੁੱਖ ਪਾਸਵਰਡ
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ ਲਈ ਪਿਆਰ
 # Obsolete string
 firefox-desktop-download-master-password = ਪ੍ਰਾਇਮਰੀ ਪਾਸਵਰਡ
 firefox-desktop-download-we-block-the-ad = ਅਸੀਂ ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦੇ ਹਾਂ। ਤੁਸੀਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਇੰਟਰਨੈੱਟ ਵਰਤਦੇ ਹੋ।
@@ -158,6 +160,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = ਤੁਸੀਂ ਅ�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = ਤੁਹਾਡਾ ਡਾਊਨਲੋਡ ਆਪਣੇ-ਆਪ ਸ਼ੁਰੂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਨਹੀਂ ਹੋਇਆ? <a id="{ $id }" href="{ $fallback_url }">ਮੁੜ ਡਾਊਨਲੋਡ ਕਰਕੇ ਵੇਖੋ।</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੋਂ ਵਧਕੇ ਹੈ।
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ਤੁਹਾਡੇ ਡਾਊਨਲੋਡ ਵਿੱਚ ਰੁਕਾਵਟ ਆਈ ਹੈ। ਪਰ ਸਭ ਖ਼ਤਮ ਨਹੀਂ ਹੋਇਆ।
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux

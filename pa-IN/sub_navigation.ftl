@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ
 sub-navigation-firefox = { -brand-name-firefox }
@@ -11,6 +11,7 @@ sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = ਬਰਾਊਜ਼ਰਾਂ 'ਚ ਫ਼ਰਕ ਵੇਖੋ
+sub-navigation-compare-mobile-browsers = ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰਾਂ ਦਾ ਟਾਕਰਾ ਕਰੋ
 sub-navigation-firefox-for-desktop = ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox }
 sub-navigation-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
 sub-navigation-desktop = ਡੈਸਕਟਾਪ
@@ -23,6 +24,7 @@ sub-navigation-desktop-beta-and-developer = ਡੈਸਕਟਾਪ { -brand-name-
 sub-navigation-desktop-nightly = ਡੈਸਕਟਾਪ { -brand-name-nightly }
 sub-navigation-features = ਫੀਚਰ
 sub-navigation-support = ਸਹਿਯੋਗ
+sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = ਐਡਆਨ
 sub-navigation-add-ons = ਐਡ-ਆਨ
@@ -36,7 +38,6 @@ sub-navigation-android-add-ons = { -brand-name-android } ਐਡ-ਆਨ
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
-sub-navigation-lockwise = { -brand-name-lockwise }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-ਬਿੱਟ
 sub-navigation-mac = { -brand-name-mac-short }

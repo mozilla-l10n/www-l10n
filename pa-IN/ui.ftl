@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ## Common user interface (ui) strings used in global templates and shared widgets.
@@ -20,3 +20,4 @@ ui-show-less = ਘੱਟ ਵੇਖੋ
 ui-show-all = ਸਾਰਾ ਵੇਖੋ
 ui-hide-all = ਸਾਰਾ ਓਹਲੇ ਕਰੋ
 ui-learn-more = ਹੋਰ ਜਾਣੋ
+ui-view = ਵੇਖੋ
