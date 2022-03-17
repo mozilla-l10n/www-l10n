@@ -33,4 +33,5 @@ legal-firefox-reality-rights = { -brand-name-firefox-reality }: Sobre seus direi
 legal-firefox-relay-terms = Termos de serviço do { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = Termos de serviço do { -brand-name-mozilla-vpn }
 legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = Termos de serviço do { -brand-name-mdn-plus }
 legal-report-copyright = Denunciar violação de direitos autorais ou marcas registradas
