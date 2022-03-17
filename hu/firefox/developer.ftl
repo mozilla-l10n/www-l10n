@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = A { -brand-name-firefox-developer-edition } egy villámgyors böngésző, amely élenjáró fejlesztői eszközöket, és a legfrissebb funkciókat tartalmazza, mint a CSS rács támogatás, és a keretrendszert felismerő hibakeresés
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = A { -brand-name-firefox-devto
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = A új { -brand-name-firefox-devtools } hatékonyak, rugalmasak, és ami a legjobb, hackelhetőek. Ez tartalmazza a legjobb JavaScript hibakeresőt, amely több böngészőt képes célozni, valamint beépített React és Redux támogatással rendelkezik.
 firefox-developer-master-css-grid = Legyen a CSS rács mestere
+# outdated
 firefox-developer-next-gen-css-engine = Új generációs CSS motor
+firefox-developer-built-for-developers = Fejlesztőknek készítve
 firefox-developer-a-next-generation = Új generációs CSS motor
 firefox-developer-master-innovative-features = Innovatív funkciók
 firefox-developer-want-to-be-on-the-cutting-edge = Szeretné kipróbálni a legújabb dolgokat?

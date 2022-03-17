@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/legal/
@@ -32,4 +32,6 @@ legal-firefox-private-network-terms = { -brand-name-firefox-private-network }: S
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: Az Ön jogairól
 legal-firefox-relay-terms = { -brand-name-firefox-relay }: Szolgáltatási feltételek
 legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn }: Szolgáltatási feltételek
+legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = Az { -brand-name-mdn-plus } szolgáltatási feltételei
 legal-report-copyright = Szerzői jogi vagy védjegyoltalmi visszaélések bejelentése
