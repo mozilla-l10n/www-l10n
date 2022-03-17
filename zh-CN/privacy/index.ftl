@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -26,7 +26,7 @@ privacy-index-get-involved = 参与进来
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = 作为一个开源项目，透明和开放是 { -brand-name-mozilla } 创立原则的重要组成部分。我们的代码库开放且可供审计。我们的开发工作是开放的。我们一年两次的<a href="{ $report }">透明度报告</a>也体现了我们对这些原则的承诺。
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = 要审阅和评论对我们隐私政策的建议修改，请<a href="{ $group }">订阅 { -brand-name-mozilla } 的管理小组</a>。
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
@@ -43,3 +43,4 @@ privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } for { -brand-name-fire-tv }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
