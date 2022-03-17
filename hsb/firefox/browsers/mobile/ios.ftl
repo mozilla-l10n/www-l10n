@@ -23,6 +23,7 @@ mobile-ios-stay-private-online = Wostańće priwatny online
 mobile-ios-your-browsing-history = Waša přehladowanska historija je historija
 mobile-ios-get-more-firefox = Wobstarajće sej wjace { -brand-name-firefox } w swojim žiwjenju
 mobile-ios-get-to-your-go-to = Dóstańće so na swojim { -brand-name-iphone } a { -brand-name-ipad } spěšnišo tam, hdźež chceće być.
+mobile-ios-see-your-open-tabs = Wobhladajće sej swoje wočinjene rajtarki, zańdźene pytanja a najlubše sydła na jednym městnje z wobhladowakom { -brand-name-firefox-browser } za { -brand-name-ios }.
 mobile-ios-own-your-home = Mějće swójsku startowu wobrazowku
 mobile-ios-find-it-all = Spěšnišo namakać
 # Obsolete string

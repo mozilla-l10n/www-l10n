@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Nowe { -brand-name-firefox-devtools } su mócne, fleksibelne a najlěpše, přeměnjomne. K nim tež program za pytanje za zmylkami słuša, najlěpše jeho družiny, kotryž móže z wjaocrymi wobhladowakami wobchadźeć a je so w React a Redux wuwił.
 firefox-developer-master-css-grid = Hłowna CSS-lěsyca
+# outdated
 firefox-developer-next-gen-css-engine = CSS-mašina přichodneje generacije
+firefox-developer-built-for-developers = Za wuwiwarjow wutworjeny
 firefox-developer-a-next-generation = CSS-mašina přichodneje generacije
 firefox-developer-master-innovative-features = Inowatiwne funkcije
 firefox-developer-want-to-be-on-the-cutting-edge = Chceće na najnowšim stawje być?
