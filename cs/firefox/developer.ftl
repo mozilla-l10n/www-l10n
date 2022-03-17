@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je šíleně rychlý prohlížeč, který nabízí moderní nástroje pro vývojáře a podporu nejnovějších funkcí jako je CSS Grid nebo ladění frameworků
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Nové nástroje pro vývojáře { -brand-name-firefox-devtools } jsou funkční, flexibilní a hlavně pro hackery. Obsahují nejlepší debugger JavaScriptu, který cílí na několik prohlížečů a je napsaný v Reactu a Reduxu.
 firefox-developer-master-css-grid = Ovládněte CSS Grid
+# outdated
 firefox-developer-next-gen-css-engine = CSS jádro nové generace
+firefox-developer-built-for-developers = Vytvořeno pro vývojáře
 firefox-developer-a-next-generation = CSS Engine nové generace
 firefox-developer-master-innovative-features = Inovativní funkce
 firefox-developer-want-to-be-on-the-cutting-edge = Chcete být na hraně inovací?
