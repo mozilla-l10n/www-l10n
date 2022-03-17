@@ -57,7 +57,10 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } baru ini kuat, fleksibel dan yang paling bagusnya, boleh digodam. Ia merangkumi penyahpepijat JavaScript yang terbaik dalam kelasnya, yang boleh menyasarkan berbilang pelayar dan dibina dalam React dan Redux.
 firefox-developer-master-css-grid = Kuasai CSS Grid
+
+# outdated
 firefox-developer-next-gen-css-engine = CSS Engine Generasi Akan Datang
+
 firefox-developer-a-next-generation = CSS Engine Generasi Akan Datang
 firefox-developer-master-innovative-features = Ciri Inovatif
 firefox-developer-want-to-be-on-the-cutting-edge = Ingin menjadi yang tercanggih?

@@ -57,7 +57,10 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = 新しい { -brand-name-firefox-devtools } はパワフルかつ柔軟、そして何よりもハッキングが容易です。これには、複数のブラウザーを対象とすることが可能で React とRedux がビルトインされた、クラス最高の JavaScript デバッガーが含まれています。
 firefox-developer-master-css-grid = CSS グリッドを自在に操る
+
+# outdated
 firefox-developer-next-gen-css-engine = 次世代 CSS エンジン
+
 firefox-developer-a-next-generation = 次世代 CSS エンジン
 firefox-developer-master-innovative-features = 革新的機能
 firefox-developer-want-to-be-on-the-cutting-edge = 最先端を求める方へ

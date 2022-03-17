@@ -57,7 +57,10 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = नए { -brand-name-firefox-devtools } मज़बूत, लचीले, और सबसे अच्छा है कि हैक करने लायक हैं। इसमें सबसे बेहतरीन JavaScript डिबगर शामिल है, जो एक साथ अनेक ब्राउज़र पर काम कर सकता है और React और Redux में निर्मित है।
 firefox-developer-master-css-grid = मास्टर CSS ग्रिड
+
+# outdated
 firefox-developer-next-gen-css-engine = अगली-पीढ़ी का CSS इंजन
+
 firefox-developer-a-next-generation = अगली-पीढ़ी का एक CSS इंजन
 firefox-developer-master-innovative-features = उन्नतिशील विशेषताएँ
 firefox-developer-want-to-be-on-the-cutting-edge = अत्याधुनिक होना चाहते हैं?
