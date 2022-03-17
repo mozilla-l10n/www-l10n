@@ -56,7 +56,9 @@ firefox-developer-inactive-css = Neaktivni CSS
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Nova Firefoxova orodja za razvijalce so zmogljiva in prilagodljiva, lahko pa jih tudi hekate. Vključujejo najboljši razhroščevalnik JavaScripta v razredu, ki lahko pokriva več brskalnikov, ter je razvit z Reactom in Reduxom.
 firefox-developer-master-css-grid = Obvladajte mrežo CSS
+# outdated
 firefox-developer-next-gen-css-engine = Pogon CSS naslednje generacije
+firefox-developer-built-for-developers = Ustvarjen za razvijalce
 firefox-developer-a-next-generation = Pogon CSS naslednje generacije
 firefox-developer-master-innovative-features = Inovativne možnosti
 firefox-developer-want-to-be-on-the-cutting-edge = Želite že danes preizkusiti prihodnost?

@@ -31,4 +31,6 @@ legal-firefox-private-network-terms = { -brand-name-firefox-private-network }: P
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: O vaših pravicah
 legal-firefox-relay-terms = { -brand-name-firefox-relay }: Pogoji uporabe
 legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn }: Pogoji uporabe
+legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = { -brand-name-mdn-plus }: Pogoji uporabe
 legal-report-copyright = Prijavite kršitev avtorskih pravic ali zlorabo blagovne znamke
