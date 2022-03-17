@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } - блискавично швидкий браузер із найновішими інструментами розробника та можливостями, такими як підтримка CSS-сітки та зневаджувач
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Нові { -brand-name-firefox-devtools } потужні, гнучкі й до того ж можуть бути персоналізовані. Серед них — висококласний зневаджувач JavaScript, збудований за допомогою React та Redux і здатний працювати з різними браузерами.
 firefox-developer-master-css-grid = Керування CSS-сіткою
+# outdated
 firefox-developer-next-gen-css-engine = Новий CSS-рушій
+firefox-developer-built-for-developers = Створено для розробників
 firefox-developer-a-next-generation = CSS-рушій нового покоління
 firefox-developer-master-innovative-features = Інноваційні функції
 firefox-developer-want-to-be-on-the-cutting-edge = Бажаєте бути попереду?
