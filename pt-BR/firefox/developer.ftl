@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = Agora o { -brand-name-firefox
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = O novo { -brand-name-firefox-devtools } é poderoso, flexível e o melhor de tudo, hackeável. Isso inclui o melhor depurador JavaScript, que pode segmentar vários navegadores e é construído em React e Redux.
 firefox-developer-master-css-grid = Seja um mestre no CSS Grid
+# outdated
 firefox-developer-next-gen-css-engine = Próxima geração de CSS
+firefox-developer-built-for-developers = Feito para desenvolvedores
 firefox-developer-a-next-generation = Um novo mecanismo de CSS da próxima geração
 firefox-developer-master-innovative-features = Recursos inovadores
 firefox-developer-want-to-be-on-the-cutting-edge = Quer estar à frente do seu tempo?
