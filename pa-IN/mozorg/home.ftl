@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -10,12 +10,12 @@ home-did-you-know-mozilla-the-maker = ਕੀ ਤੁਸੀਂ ਜਾਣਦੇ ਹ
 home-fast-for-good = ਚੰਗੇ ਲਈ ਤੇਜ਼।
 home-with-2x-the-speed-built-in = 2x ਦੀ ਗਤੀ ਦੇ ਨਾਲ, ਵਿੱਚੇ ਮੌਜੂਦ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ ਅਤੇ ਇਸ ਦੇ ਪਿੱਛੇ { -brand-name-mozilla }, ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਹੋਰ ਵੀ ਵਧੀਆ ਢੰਗ ਨਾਲ ਨਵਾਂ { -brand-name-firefox }।
 home-we-make-the-internet-safer = ਅਸੀਂ ਭਲੇ ਲਈ ਇੰਟਰਨੈੱਟ ਨੂੰ ਵੱਧ ਸੁਰੱਖਿਅਤ, ਮਜ਼ਬੂਤ ਅਤੇ ਵੱਧ ਤੇਜ਼ ਬਣਾਇਆ ਹੈ।
-home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } { -brand-name-firefox } ਦੇ ਪਿੱਛੇ ਮੁਨਾਫਾ ਨਹੀਂ ਹੈ, ਅਸਲ ਬਦਲਵੇਂ ਬਰਾਊਜ਼ਰ ਹੈ। ਅਸੀਂ ਲੋਕਾਂ ਨੂੰ ਇੰਟਰਨੈਟ ਦੀ ਸੇਵਾ ਵਿਚ ਰੱਖਣ ਲਈ ਉਤਪਾਦ ਅਤੇ ਨੀਤੀ ਬਣਾਉਂਦੇ ਹਾਂ, ਮੁਨਾਫ਼ਾ ਨਹੀਂ।
+home-mozilla-is-the-not-for-profit = { -brand-name-firefox } ਦੇ ਪਿੱਛੇ ਗ਼ੈਰ-ਮੁਨਾਫਾ { -brand-name-mozilla } ਹੈ, ਅਸਲ ਬਦਲਵਾਂ ਬਰਾਊਜ਼ਰ ਹੈ। ਅਸੀਂ ਇੰਟਰਨੈਟ ਨੂੰ ਲੋਕਾਂ ਦੀ ਸੇਵਾ ਵਿਚ ਰੱਖਣ ਲਈ ਉਤਪਾਦ ਅਤੇ ਨੀਤੀ ਬਣਾਉਂਦੇ ਹਾਂ, ਮੁਨਾਫ਼ੇ ਲਈ ਨਹੀਂ।
 home-our-impact = ਸਾਡਾ ਅਸਰ
-home-when-you-use-firefox-you-help = ਜਦੋਂ ਤੁਸੀਂ { -brand-name-firefox } ਵਰਤਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ { -brand-name-mozilla } ਨੂੰ ਆਨਲਾਈਨ ਗਲਤ ਜਾਣਕਾਰੀ ਵਿਰੁਧ ਲੜਨ, ਡਿਜ਼ੀਟਲ ਹੁਨਰ ਸਿਖਾਉਣ ਅਤੇ ਟਿੱਪਣੀ ਭਾਗ ਨੂੰ ਵੱਧ ਇਨਸਾਨੀ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹੋ। ਵੇਖੋ ਕਿ ਮਜ਼ਬੂਤ ਇੰਟਰਨੈੱਟ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਕੀ ਕਰ ਸਕਦੇ ਹੋ।
+home-when-you-use-firefox-you-help = ਜਦੋਂ ਤੁਸੀਂ { -brand-name-firefox } ਨੂੰ ਵਰਤਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ { -brand-name-mozilla } ਨੂੰ ਆਨਲਾਈਨ ਮੌਜੂਦ ਗ਼ਲਤ ਜਾਣਕਾਰੀ ਵਿਰੁੱਧ ਲੜਨ, ਡਿਜ਼ੀਟਲ ਹੁਨਰ ਸਿਖਾਉਣ ਅਤੇ ਟਿੱਪਣੀਆਂ ਵਾਲੇ ਭਾਗ ਨੂੰ ਵੱਧ ਇਨਸਾਨੀ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹੋ। ਵੇਖੋ ਕਿ ਮਜ਼ਬੂਤ ਇੰਟਰਨੈੱਟ ਬਣਾਉਣ ਲਈ ਕੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ।
 home-working-to-keep-the-internet = ਸਾਰਿਆਂ ਨੂੰ ਤੰਦਰੁਸਤ, ਖੁੱਲੇ ਅਤੇ ਪਹੁੰਚਣਯੋਗ ਬਣਾਉਣ ਲਈ ਕੰਮ ਕਰਨਾ, ਅਸੀਂ ਵੈਬ ਸਾਖਰਤਾ ਨੂੰ ਸਿਖਾਉਂਦੇ ਹਾਂ, ਸਾਧਨਾਂ ਪ੍ਰਦਾਨ ਕਰਦੇ ਹਾਂ ਅਤੇ ਹਰੇਕ ਵਿਅਕਤੀ ਦੀ ਤਰਫ਼ੋਂ ਵਕਾਲਤ ਕਰਦੇ ਹਾਂ ਜੋ ਇੰਟਰਨੈਟ ਨੂੰ ਇੱਕ ਵਿਆਪਕ ਜਨਤਕ ਸਰੋਤ ਵਜੋਂ ਮਹੱਤਵ ਦਿੰਦੇ ਹਨ।
 home-working-at-the-grassroots-and = ਜ਼ਮੀਨੀ ਪੱਧਰ ਅਤੇ ਨੀਤੀ ਪੱਧਰਾਂ ਤੇ ਕੰਮ ਕਰਨਾ, ਅਸੀਂ ਵੈਬ ਸਾਖਰਤਾ ਨੂੰ ਸਿਖਾਉਂਦੇ ਹਾਂ, ਨਿਰਪੱਖਤਾ, ਸ਼ਮੂਲੀਅਤ ਅਤੇ ਸਤਿਕਾਰਤ ਉੱਤੇ ਬਣਾਏ ਗਏ ਇੰਟਰਨੈਟ ਦੀ ਕੀਮਤ ਵਾਲੇ ਹਰੇਕ ਵਿਅਕਤੀ ਦੀ ਤਰਫੋਂ ਟੂਲ ਅਤੇ ਵਕੀਲ ਪ੍ਰਦਾਨ ਕਰਦੇ ਹਨ।
-home-mozilla-information-trust-initiative = { -brand-name-mozilla } ਜਾਣਕਾਰੀ ਟਰੱਸਟ ਪਹਿਲ
+home-mozilla-information-trust-initiative = { -brand-name-mozilla } ਦੀ ਜਾਣਕਾਰੀ ਟਰੱਸਟ ਪਹਿਲ
 home-empowering-women-online = ਮਹਿਲਾਵਾਂ ਨੂੰ ਆਨਲਾਈਨ ਸ਼ਕਤੀ ਪ੍ਰਦਾਨ ਕਰਨਾ
 home-the-coral-project = ਕੋਰਲ ਪ੍ਰੋਜੈਕਟ
 home-read-our-internet-health-report = ਸਾਡੀ ਇੰਟਰਨੈੱਟ ਹਾਲਤ ਰਿਪੋਰਟ ਪੜ੍ਹੋ
