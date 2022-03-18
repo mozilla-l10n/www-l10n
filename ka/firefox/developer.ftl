@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = ახალი { -brand-name-firefox-devtools } არის მძლავრი, მოქნილი და რაც მთავარია, მარტივადაა შესაძლებელი მისი მორგება საკუთარ საჭიროებებზე. ამასთან, გააჩნია უმაღლესი დონის JavaScript გამმართველი, რომელიც ნებისმიერი ბრაუზერისთვისაა გამოსადეგი და ჩაშენებული აქვს React/Redux ენების მხარდაჭერა.
 firefox-developer-master-css-grid = CSS-ბადე
+# outdated
 firefox-developer-next-gen-css-engine = ახალი თაობის CSS ძრავა
+firefox-developer-built-for-developers = შექმნილი შემმუშავებლებისთვის
 firefox-developer-a-next-generation = ახალი თაობის CSS ძრავა
 firefox-developer-master-innovative-features = ინოვაციური შესაძლებლობები
 firefox-developer-want-to-be-on-the-cutting-edge = გსურთ, პირველები ეზიაროთ უახლეს ტექნოლოგიებს?

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = გთხოვთ მიუთითოთ ელფოსტის მართებული მისამართი.
 newsletter-form-you-must-agree-to = უნდა დაეთანხმოთ გამოყენების პირობებს
@@ -31,3 +31,7 @@ newsletter-form-thanks = გმადლობთ!
 newsletter-form-leave-this-field-empty = ამ ველის ცარიელად დატოვება.
 newsletter-form-yes = დიახ
 newsletter-form-no = არა
+multi-newsletter-form-checkboxes-legend = მსურს, შევიტყო:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = გთხოვთ, მონიშნოთ ერთ-ერთი მათგანი მაინც.
