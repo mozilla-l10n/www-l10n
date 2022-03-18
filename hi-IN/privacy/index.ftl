@@ -48,3 +48,4 @@ privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-fire-tv } के लिए { -brand-name-firefox }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }

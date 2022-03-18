@@ -48,3 +48,4 @@ privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = مُتصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-fire-tv }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
