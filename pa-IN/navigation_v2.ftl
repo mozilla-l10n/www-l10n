@@ -22,7 +22,7 @@ navigation-v2-get-the-mobile-browser = ਆਪਣੇ { -brand-name-iphone } ਜ�
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = ਬੱਸ ਪ੍ਰਾਈਵੇਟ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਿੰਗ ਹੈ।
 navigation-v2-privacy-promise = ਪਰਦੇਦਾਰੀ ਦਾ ਇਕਰਾਰ
-navigation-v2-learn-how-firefox-treats = ਜਾਣੋ ਕਿ { -brand-name-firefox } ਤੁਹਾਡੇ ਡਾਟੇ ਦਾ ਮਾਣ ਕਿਵੇਂ ਰੱਖਦਾ ਹੈ।
+navigation-v2-learn-how-firefox-treats = ਜਾਣੋ ਕਿ { -brand-name-firefox } ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸਨਮਾਣ ਨਾਲ ਕਿਵੇਂ ਵਰਤਦਾ ਹੈ।
 navigation-v2-firefox-blog = { -brand-name-firefox } ਬਲੌਗ
 navigation-v2-read-about-new-firefox-features = ਨਵੇਂ { -brand-name-firefox } ਫ਼ੀਚਰਾਂ ਤੇ ਆਨਲਾਈਨ ਸੁਰੱਖਿਅਤ ਰਹਿਣ ਦੇ ਢੰਗਾਂ ਬਾਰੇ ਪੜ੍ਹੋ।
 navigation-v2-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
@@ -34,7 +34,7 @@ navigation-v2-view-all-firefox-browsers = ਸਾਰੇ { -brand-name-firefox-bro
 navigation-v2-products = ਉਤਪਾਦ
 navigation-v2-close-products-menu = ਉਤਪਾਦ ਮੇਨੂ ਬੰਦ ਕਰੋ
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
-navigation-v2-see-if-your-email-has = ਵੇਖੋ ਕਿ ਕੀ ਤੁਹਾਡੀ ਈਮੇਲ ਕੰਪਨੀ ਦੇ ਡਾਟਾ ਸੰਨ੍ਹ ਲੱਗਣ ਵਿੱਚ ਆਈ ਤਾਂ ਨਹੀ ਹੈ।
+navigation-v2-see-if-your-email-has = ਵੇਖੋ ਕਿ ਕੀ ਤੁਹਾਡੀ ਈਮੇਲ ਕਿਸੇ ਕੰਪਨੀ ਦੇ ਸੰਨ੍ਹ ਲੱਗੇ ਡਾਟੇ ਵਿੱਚ ਮੌਜੂਦ ਤਾਂ ਨਹੀ ਹੈ।
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = ਵੈੱਬ ਤੋਂ ਸਭ ਤੋਂ ਵਧੀਆਂ ਕਿੱਸੇ ਸੰਭਾਲੋ ਅਤੇ ਲੱਭੋ।
 navigation-v2-facebook-container = { -brand-name-facebook-container }
@@ -42,7 +42,7 @@ navigation-v2-help-prevent-facebook-from = { -brand-name-facebook } ਨੂੰ �
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬਾਹਰ ਵੀ ਸੁਰੱਖਿਆ ਲਵੋ, ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ।
 navigation-v2-product-promise = ਉਤਪਾਦ ਦਾ ਇਕਰਾਰ
-navigation-v2-learn-how-each-firefox-product = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ ਹਰ { -brand-name-firefox } ਉਤਪਾਦ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਤੇ ਮਾਣ ਦਿੰਦਾ ਹੈ।
+navigation-v2-learn-how-each-firefox-product = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ ਹਰ { -brand-name-firefox } ਉਤਪਾਦ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਤੇ ਸਨਮਾਣ ਦਿੰਦਾ ਹੈ।
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (ਬੀਟਾ)
 navigation-v2-sign-up-for-new-accounts = ਨਵੇਂ ਖਾਤਿਆਂ ਲਈ ਬਿਨਾਂ ਆਪਣਾ ਈਮੇਲ ਐਡਰੈਸ ਦਿੱਤੇ ਸਾਈਨ ਅੱਪ ਕਰੋ।
@@ -52,7 +52,7 @@ navigation-v2-view-all-products = ਸਾਰੇ ਉਤਪਾਦ ਵੇਖੋ
 
 ## Who We Are menu
 
-navigation-v2-who-we-are = ਅਸੀਂ ਕੌਣ ਹਨ
+navigation-v2-who-we-are = ਅਸੀਂ ਕੌਣ ਹਾਂ
 navigation-v2-close-who-we-are-menu = ਅਸੀਂ ਕੌਣ ਹਾਂ ਮੇਨੂ ਨੂੰ ਬੰਦ ਕਰੋ
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } ਮੈਨੀਫਿਸਟੋ
 navigation-v2-learn-about-the-values = ਮੁੱਲਾਂ ਅਤੇ ਸਿਧਾਂਤਾ ਬਾਰੇ ਸਿੱਖੋ, ਜੋ ਕਿ ਸਾਡੇ ਮਕਸਦ ਲਈ ਸੇਧ ਦਿੰਦੇ ਹਨ।
