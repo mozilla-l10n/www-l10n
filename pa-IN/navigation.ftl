@@ -38,6 +38,7 @@ navigation-your-firefox-account = ਤੁਹਾਡਾ { -brand-name-firefox-accou
 navigation-make-the-most-of-your = ਆਪਣੇ { -brand-name-firefox } ਤਰਜਬੇ ਨੂੰ ਹਰ ਡਿਵਾਈਸ ਉੱਤੇ ਇਕਸਾਰ ਬਣਾਈ ਰੱਖੋ।
 # Outdated string
 navigation-learn-how-to-customize = { -brand-name-firefox } ਦੇ ਕੰਮ ਕਰਨ ਦੇ ਢੰਗਾਂ ਨੂੰ ਆਪਣੇ ਮੁਤਾਬਕ ਬਦਲਣ ਲਈ ਢਾਲੋ।
+navigation-get-together = ਇਸ ਆਨਲਾਈਨ ਸਮਾਜਿਕ ਸੱਥ ਨਾਲ ਮਨਸੂਈ ਸੱਥ ਵਿੱਚ ਇਕੱਠੇ ਹੋਈਏ।
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
@@ -77,6 +78,7 @@ navigation-save-content-absorb-knowledge = ਸਮੱਗਰੀ ਸੰਭਾਲੋ
 navigation-add-ons = ਐਡ-ਆਨ
 navigation-projects = ਪਰੋਜੈਕਟ
 navigation-close-projects-menu = ਪ੍ਰੋਜੈਕਟ ਮੇਨੂ ਬੰਦ ਕਰੋ
+navigation-donate-your-voice-to = ਹਰ ਕਿਸੇ ਲਈ ਆਵਾਜ਼ ਪਛਾਣ ਨੂੰ ਪਹੁੰਚਾਉਣ ਲਈ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਆਪਣੀ ਆਵਾਜ਼ ਦਾਨ ਕਰੋ।
 navigation-machine-learning = ਮਸ਼ੀਨ ਸਿਖਲਾਈ
 # Outdated string
 navigation-web-of-things-iot = ਚੀਜ਼ਾਂ ਦਾ ਵੈੱਬ (IoT)
@@ -98,7 +100,7 @@ navigation-mission = ਮਕਸਦ
 navigation-press-center = ਪੱਤਰਕਾਰ ਕੇਂਦਰ
 navigation-contact = ਸੰਪਰਕ
 navigation-careers = ਕੈਰੀਅਰ
-navigation-work-for-a-mission-driven = ਇੱਕ ਮਿਸ਼ਨ-ਡਰਾਇਵਿੰਗ ਸੰਗਠਨ ਲਈ ਕੰਮ ਕਰੋ ਜੋ ਮਕਸਦ-ਅਧਾਰਿਤ ਉਤਪਾਦਾਂ ਨੂੰ ਬਣਾਉਂਦਾ ਹੈ।
+navigation-work-for-a-mission-driven = ਕਿਸੇ ਖਾਸ ਮਕਸਦ ਲਈ ਉਤਪਾਦ ਬਣਾਉਣ ਵਾਲੇ ਇੱਕ ਨਿਸ਼ਾਨਾ ਮਿੱਥ ਕੇ ਕੰਮ ਕਰਨ ਵਾਲੇ ਸੰਗਠਨ ਨਾਲ ਕੰਮ ਕਰੋ।
 navigation-get-involved = ਹਿੱਸਾ ਬਣੋ
 navigation-join-the-fight-for-a = ਮਜ਼ਬੂਤ ਇੰਟਰਨੈੱਟ ਲਈ ਸੰਘਰਸ਼ ਵਿੱਚ ਹਿੱਸਾ ਪਾਓ।
 navigation-events = ਸਮਾਗਮ
