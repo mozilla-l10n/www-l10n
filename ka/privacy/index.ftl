@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -26,7 +26,7 @@ privacy-index-get-involved = შემოგვიერთდით
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = როგორც ღია წყაროს პროექტისთვის, გამჭვირვალობა და გახსნილობა მთავარ ამოსავალ წერტილის წარმოადგენს, { -brand-name-mozilla }-ს ძირითადი დებულებების. ჩვენი კოდი ღიაა და თავისუფლად ექვემდებარება შემოწმებას. პროექტების შემუშავების მიმდინარეობაც სრულიად გახსნილია. ყოველ ნახევარ წელიწადში წარმოდგენილი <a href="{ $report }">გამჭვირვალობის ანგარიშიც</a> ნათლად აჩვენებს, ჩვენს პასუხისმგებლურ დამოკიდებულება ამ დებულებების მიმართ.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = პირადი მონაცემების დაცვის დებულებებში შემოთავაზებული ცვლილებების განსახილველად და მოსაზრების წარმოსადგენად, <a href="{ $group }"> გამოიწერეთ { -brand-name-mozilla }-ს სამმართველოს ჯგუფი</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
@@ -43,3 +43,4 @@ privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }-ისთვის
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
