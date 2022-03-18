@@ -31,4 +31,6 @@ legal-firefox-private-network-terms = شروط استخدام { -brand-name-fire
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: حول حقوقك
 legal-firefox-relay-terms = شروط استخدام { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = شروط استخدام { -brand-name-mozilla-vpn }
+legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = شروط استخدام { -brand-name-mdn-plus }
 legal-report-copyright = الإبلاغ عن انتهاك حقوق النشر أو العلامة التجارية

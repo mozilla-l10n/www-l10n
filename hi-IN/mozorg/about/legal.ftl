@@ -31,4 +31,6 @@ legal-firefox-private-network-terms = { -brand-name-firefox-private-network } �
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: अपने अधिकार जानें
 legal-firefox-relay-terms = { -brand-name-firefox-relay } सेवा की शर्तें
 legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } सेवा की शर्तें
+legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = { -brand-name-mdn-plus } सेवा की शर्तें
 legal-report-copyright = कॉपीराइट या ट्रेडमार्क उल्लंघन की रिपोर्ट करें

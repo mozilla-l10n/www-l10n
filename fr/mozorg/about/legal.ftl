@@ -31,4 +31,6 @@ legal-firefox-private-network-terms = Conditions d'utilisation de { -brand-name-
 legal-firefox-reality-rights = { -brand-name-firefox-reality } : À propos de vos droits
 legal-firefox-relay-terms = Conditions d'utilisation de { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = Conditions d'utilisation de { -brand-name-mozilla-vpn }
+legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = Conditions d'utilisation de { -brand-name-mdn-plus }
 legal-report-copyright = Signaler une violation de droits d’auteur ou de marque

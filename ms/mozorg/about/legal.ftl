@@ -31,4 +31,6 @@ legal-firefox-private-network-terms = Syarat Perkhidmatan { -brand-name-firefox-
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: Tentang Hak Anda
 legal-firefox-relay-terms = Syarat Perkhidmatan { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = Syarat Perkhidmatan { -brand-name-mozilla-vpn }
+legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = Syarat Perkhidmatan { -brand-name-mdn-plus }
 legal-report-copyright = Laporkan Pelanggaran Hak Cipta atau Tanda Dagangan
