@@ -8,3 +8,5 @@
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } per desktop (PC e laptop)
 vpn-desktop-page-description = Cun { -brand-name-mozilla }, in dals nums ils pli fidabels dal sectur tecnologic, survegns ti segirezza simpla e svelta sin tes computer desktop e laptop.
+# Desktop strings
+vpn-desktop-hero-headline = Segirescha tia connexiun cun l'internet cun { -brand-name-mozilla-vpn } per computers desktop
