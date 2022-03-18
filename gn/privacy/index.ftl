@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -26,7 +26,7 @@ privacy-index-get-involved = Eike pype
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Apopyrã ayvu ijurujávaramo, tekoresakã ha juruja ha’e umi tuicha mba’éva { -brand-name-mozilla } peg̃uarã. Ore rekoha ayvu ijuruja ha oñeha’ãkuaa. Ore rembiapo ñemboguatagua ijuruja opavavépe. Ore marandu tekoresakã rehegua <a href="{ $report }">mokõi jey arýpe</a> ohechauka avei ore rojapoha ko’ã mba’e.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Ehechajey ha emombe’u hag̃ua moambuepy oguenohẽva ore remiñemi purureko, <a href="{ $group }">eñemboheraguapy { -brand-name-mozilla } atýpe</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
@@ -43,3 +43,4 @@ privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv } peg̃uarã
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
