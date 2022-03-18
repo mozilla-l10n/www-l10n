@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } là trình duyệt nhanh, cung cấp các công cụ phát triển tiên tiến và các tính năng mới nhất như hỗ trợ gỡ lỗi lưới CSS
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } mới rất mạnh mẽ, linh hoạt, và tốt nhất của tất cả, dễ dàng tùy biến. Nó bao gồm một trình gỡ lỗi JavaScript tốt nhất, mà có thể nhắm mục tiêu tới nhiều trình duyệt và được xây dựng trong React và Redux.
 firefox-developer-master-css-grid = Bậc thầy về lưới CSS
+# outdated
 firefox-developer-next-gen-css-engine = Công cụ CSS thế hệ tiếp theo
+firefox-developer-built-for-developers = Được xây dựng cho các nhà phát triển
 firefox-developer-a-next-generation = Một công cụ CSS thế hệ tiếp theo
 firefox-developer-master-innovative-features = Tính năng sáng tạo
 firefox-developer-want-to-be-on-the-cutting-edge = Bạn có muốn theo đuổi xu hướng tiên tiến?
