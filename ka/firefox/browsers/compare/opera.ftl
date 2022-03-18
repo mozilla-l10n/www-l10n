@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
@@ -39,4 +39,4 @@ compare-opera-in-addition-to-the-regular = გარდა ჩვეულებ
 #   $attrs (string) - link to https://play.google.com/store/apps/details?id=org.mozilla.fenix with additional attributes for analytics
 compare-opera-we-also-offer-an-additional = ჩვენ, ასევე გთავაზობთ დამატებით, თუმცა ჯერ საცდელ გამოშვებას ჩვენი { -brand-name-firefox }-ის მობილური ვერსიის, დასახელებით <a { $attrs }>{ -brand-name-firefox } Preview</a>, რომლითაც უზრუნველყოფილია გაზრდილი სისწრაფე და უსაფრთხოება.
 compare-opera-most-major-browsers-these = ძირითადი ბრაუზერების უმეტესობა დღესდღეობით, გარდა { -brand-name-safari }-სა, შეუფერხებლად მუშაობს ყველა სისტემაზე. არც { -brand-name-opera } და { -brand-name-firefox } არაა გამონაკლისი და ორივე ბრაუზერი გთავაზობთ უზადო მოქნილობას თითოეულ მოწყობილობაზე.
-compare-opera-overall-opera-is-a-solid-browser = საბოლოო ჯამში, { -brand-name-opera } მეტად გამოსადეგი ბრაუზერია, სუფთა იერსახითა და მრავალი შესაძლებლობით. თუმცა, არის ბევრი დასაფიქრებელი საკითხი, რაც ეხება პირადი მონაცემების დაცვასა და გამოყენებისას აპარატურის ძლიერ დატვირთვას. მიუხედავად იმისა რომ, { -brand-name-opera } აღჭურვილია მარტივად გამოსაყენებელი არაერთი შესაძლებლობით, ჩვენ მიგვაჩნია, რომ { -brand-name-firefox } ჯაბნის მას წარმადობითა და გამჭვირვალე სამომხმარებლო პირობებით, ისევე როგორც პირადულობის მკაცრი დაცვით.
+compare-opera-overall-opera-is-a-solid-browser = საბოლოო ჯამში, { -brand-name-opera } მეტად გამოსადეგი ბრაუზერია, სუფთა იერსახითა და მრავალი შესაძლებლობით. თუმცა არის ბევრი დასაფიქრებელი საკითხი, რაც ეხება პირადი მონაცემების დაცვასა და გამოყენებისას აპარატურის ძლიერ დატვირთვას. მიუხედავად იმისა რომ, { -brand-name-opera } აღჭურვილია მარტივად გამოსაყენებელი არაერთი შესაძლებლობით, ჩვენ მიგვაჩნია, რომ { -brand-name-firefox } ჯაბნის მას წარმადობითა და გამჭვირვალე სამომხმარებლო პირობებით, ისევე როგორც პირადულობის მკაცრი დაცვით.
