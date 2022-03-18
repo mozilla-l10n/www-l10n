@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } es el navegador ultrarápido que brinda herramientas de avanzada para desarrolladores y funciones innovadoras como soporte para la grilla CSS y la depuración del marco de trabajo
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Las nuevas { -brand-name-firefox-devtools } de Firefox son poderosas, flexibles y, lo mejor de todo, modificables. Esto incluye un depurador JavaScript best-in-class, que puede apuntar a múltiples navegadores y está hecho en React y Redux.
 firefox-developer-master-css-grid = Grillas CSS profesionales
+# outdated
 firefox-developer-next-gen-css-engine = Motor de CSS de nueva generación
+firefox-developer-built-for-developers = Hecho para desarrolladores
 firefox-developer-a-next-generation = Un motor de CSS de nueva generación
 firefox-developer-master-innovative-features = Características innovadoras
 firefox-developer-want-to-be-on-the-cutting-edge = ¿Quiere estar en la vanguardia?
