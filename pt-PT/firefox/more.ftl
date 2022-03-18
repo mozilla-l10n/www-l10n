@@ -31,6 +31,7 @@ firefox-more-you-can-reclaim = Pode reclamar a sua privacidade e recuperar o con
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-respects-your = O { -brand-name-firefox } respeita a sua privacidade no { -brand-name-mac-short }.
 firefox-for-linux = { -brand-name-firefox } para { -brand-name-linux }
+firefox-for-windows = { -brand-name-firefox } para { -brand-name-windows } de 64 bits
 comparing-firefox-brave = Comparação entre o { -brand-name-firefox-browser } e o { -brand-name-brave }
 be-free-to = Sinta-se à vontade para elogiar o { -brand-name-firefox } sempre que quiser.
 the-ad-blocker = O bloqueador de publicidade – a arma secreta contra anúncios irritantes.
