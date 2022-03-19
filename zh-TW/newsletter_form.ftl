@@ -34,3 +34,6 @@ newsletter-form-no = 不要
 multi-newsletter-form-checkboxes-legend = 我想要下列單位的相關資訊：
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = 請勾選至少一組電子報選項。
+multi-newsletter-form-title = Love the Web
+multi-newsletter-form-desc = 訂閱 { -brand-name-mozilla } 電子報，與我們一起保持 Web 的自由與開放。

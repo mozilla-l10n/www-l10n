@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = IP 地址是什麼？
+# HTML page description and intro
+vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } 會回答您有關 IP 地址的問題，從 IP 地址是什麼、運作原理、是否應該隱藏它等問題。
 vpn-ip-address-if-you-look-up-your = 查詢您的 IP 地址時，會看到這樣的資訊。
 vpn-ip-address-does-it-travel = IP 地址會跟著我一起跑嗎？
 vpn-ip-address-does-your-ip = IP 地址會變更嗎？
