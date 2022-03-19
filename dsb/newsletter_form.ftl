@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Pšosym zapódajśo płaśiwu e-mailowu adresu
 newsletter-form-you-must-agree-to = Musyśo do pokazkow priwatnosći zwóliś.
@@ -31,3 +31,9 @@ newsletter-form-thanks = Wjeliki źěk!
 newsletter-form-leave-this-field-empty = Wóstajśo pólo prozne.
 newsletter-form-yes = Jo
 newsletter-form-no = Ně
+multi-newsletter-form-checkboxes-legend = Cu informacije wó:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Pšosym wužywajśo nanejmjenjej jadno z nastajenjow powěsćowego lista.
+multi-newsletter-form-title = Lubujśo web
+multi-newsletter-form-desc = Aboněrujśo powěsćowe listy { -brand-name-mozilla } a pomagajśo nam, web wótwórjony a lichy źaržaś.
