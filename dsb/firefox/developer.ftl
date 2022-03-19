@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } jo malsny kaž błysk wobglědowak, kótaryž wjelicne wuwijarske rědy a nejnowše funkcije ako pódpěru CSS-kśidnow a framework debugging bitujo
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Nowe { -brand-name-firefox-devtools } su mócne, fleksibelne a nejlěpše, dajo se pśeměniś. K nim teke program za pytanje za zmólkami słuša, nrjlěpše joho družyny, kótaryž móžo z někotarymi wobglědowakami wobchadaś a jo se w React a Redux wuwił.
 firefox-developer-master-css-grid = Głowne CSS-kśidno
+# outdated
 firefox-developer-next-gen-css-engine = CSS-mašina pśiduceje generacije
+firefox-developer-built-for-developers = Za wuwijarje napórany
 firefox-developer-a-next-generation = CSS-mašina pśiduceje generacije
 firefox-developer-master-innovative-features = Inowatiwne funkcije
 firefox-developer-want-to-be-on-the-cutting-edge = Cośo na nejnowšem stawje byś?
