@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }不但迅捷如火，还提供最先进的开发者工具，并支持 CSS 网格和调试框架等最新特性
@@ -51,13 +51,15 @@ firefox-developer-learn-more-about-memory = 详细了解内存工具
 firefox-developer-style-editor = 样式编辑器
 firefox-developer-edit-and-manage = 编辑和管理浏览器中的所有 CSS 样式表。
 firefox-developer-learn-more-about-style = 详细了解样式编辑器
-firefox-developer-new-tools = 新的工具
+firefox-developer-new-tools = 全新工具
 firefox-developer-inactive-css = 无效的 CSS
 firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools }现在会将页面中无效的 CSS 声明显示为灰色。当您将鼠标悬停在信息图标上时，会看到该 CSS 规则未应用的原因，以及如何修正问题的提示。
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = 新款 { -brand-name-firefox-devtools }具有强大、灵活、酷炫的工具。其中包括一流的 JavaScript 调试器，可以面向多种浏览器，且内置 React 和 Redux。
 firefox-developer-master-css-grid = 强大的 CSS 网格
+# outdated
 firefox-developer-next-gen-css-engine = 新一代 CSS 引擎
+firefox-developer-built-for-developers = 为开发者打造
 firefox-developer-a-next-generation = 新一代 CSS 引擎
 firefox-developer-master-innovative-features = 创新功能
 firefox-developer-want-to-be-on-the-cutting-edge = 想要跟进最先进的技术？
@@ -74,9 +76,9 @@ firefox-developer-fonts-panel = 字体面板
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools }中全新的字体面板，让开发者可以快速访问某元素使用的字体的所有信息。面板中也包含了字体来源、字重、样式等重要信息。
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition }会自动向 { -brand-name-mozilla } 发送反馈信息。
 firefox-developer-download-the-firefox-browser = 下载 { -brand-name-firefox } 为开发者打造的浏览器
-firefox-developer-welcome-to-the-all-new = 欢迎使用焕然一新的 { -brand-name-firefox-quantum }：{ -brand-name-developer-edition }
+firefox-developer-welcome-to-the-all-new = 欢迎使用焕然一新的 { -brand-name-firefox-quantum } - { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = 这是从头开始重新打造的 { -brand-name-firefox }，更快、更轻、更强大。
-firefox-developer-congrats-you-now-have-firefox = 欢迎。您现在使用的是 { -brand-name-firefox-quantum }：{ -brand-name-developer-edition }。
+firefox-developer-congrats-you-now-have-firefox = 欢迎。您现在使用的是 { -brand-name-firefox-quantum } - { -brand-name-developer-edition }。
 firefox-developer-this-isnt-just-an-update = 这不仅仅是次普通的更新。这是从底层开始重新打造的 { -brand-name-firefox }，更快、更轻、更强大。这是 { -brand-name-firefox-quantum }。
 firefox-developer-welcome-to-firefox-browser = 欢迎使用 { -brand-name-firefox-browser }：{ -brand-name-developer-edition }
 firefox-developer-made-for-developers = 专为开发者构建的浏览器
@@ -84,4 +86,4 @@ firefox-developer-all-the-latest = Beta 版中所有最新的开发者工具，�
 firefox-developer-a-separate-profile = <strong>单独的配置文件和路径</strong>，因此可以轻松与 { -brand-name-firefox } 稳定版或 { -brand-name-beta } 版共存。
 firefox-developer-preferences-tailored = <strong>为 Web 开发者量身定制的首选项</strong>：默认启用浏览器的远程调试、深色主题和开发者工具栏按钮。
 firefox-developer-congrats-you-now-have = 欢迎。您现在使用的是 { -brand-name-firefox-browser }：{ -brand-name-developer-edition }。
-firefox-developer-congrats-you-now-have-latest = 恭喜。您现在使用的是最新版 { -brand-name-firefox-browser }：{ -brand-name-developer-edition }。
+firefox-developer-congrats-you-now-have-latest = 恭喜。您现在使用的是最新版 { -brand-name-firefox-browser } - { -brand-name-developer-edition }。
