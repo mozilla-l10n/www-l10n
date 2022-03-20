@@ -32,4 +32,6 @@ legal-firefox-private-network-terms = Podmienky používania služby { -brand-na
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: O vašich právach
 legal-firefox-relay-terms = Podmienky používania služby { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = Podmienky používania služby { -brand-name-mozilla-vpn }
+legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = Podmienky používania služby { -brand-name-mdn-plus }
 legal-report-copyright = Nahlásiť porušenie autorských práv alebo ochrannej známky
