@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Mae { -brand-name-firefox-developer-edition } yn borwr eithriadol o gyflym sy'n cynnig offer datblygwyr blaengar a'r nodweddion diweddaraf fel cefnogaeth i CSS Grid a fframwaith dadfygio
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = Mae { -brand-name-firefox-dev
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Mae'r { -brand-name-firefox-devtools } newydd yn bwerus, hyblyg a gorau oll, yn hacadwy. Mae'n cynnwys y dadfygiwr JavaScript gorau yn ei ddosbarth, sy'n gallu targedu porwyr lluosog ac wedi ei adeiladu gyda React a Redux.
 firefox-developer-master-css-grid = Master CSS Grid
+# outdated
 firefox-developer-next-gen-css-engine = Peiriant CSS Cenhedlaeth Nesaf
+firefox-developer-built-for-developers = Adeiladwyd ar gyfer Datblygwyr
 firefox-developer-a-next-generation = Peiriant CSS Cenhedlaeth Nesaf
 firefox-developer-master-innovative-features = Nodweddion Arloesol
 firefox-developer-want-to-be-on-the-cutting-edge = Eisiau bod ar y blaen?
