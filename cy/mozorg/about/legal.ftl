@@ -33,4 +33,5 @@ legal-firefox-reality-rights = { -brand-name-firefox-reality }: Am eich Hawliau
 legal-firefox-relay-terms = Amodau Gwasanaeth { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = Amodau Gwasanaeth { -brand-name-mozilla-vpn }
 legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = Amodau Gwasanaeth { -brand-name-mdn-plus }
 legal-report-copyright = Adrodd ar Dorri Hawlfraint neu Nodau Masnach
