@@ -32,4 +32,6 @@ legal-firefox-private-network-terms = Όροι υπηρεσίας { -brand-name-
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: Σχετικά με τα δικαιώματά σας
 legal-firefox-relay-terms = Όροι υπηρεσίας { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = Όροι υπηρεσίας { -brand-name-mozilla-vpn }
+legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = Όροι υπηρεσίας { -brand-name-mdn-plus }
 legal-report-copyright = Αναφορά παραβίασης πνευματικών δικαιωμάτων ή εμπορικών σημάτων

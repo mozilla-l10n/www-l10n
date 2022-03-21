@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = Το { -brand-name-firefox-de
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Τα νέα { -brand-name-firefox-devtools } είναι ισχυρά, ευέλικτα και, το καλύτερο, επεκτάσιμα. Περιλαμβάνουν τον καλύτερο έλεγχο σφαλμάτων JavaScript, που μπορεί να στοχεύσει πολλαπλά προγράμματα περιήγησης και αναπτύσσεται σε React και Redux.
 firefox-developer-master-css-grid = Τιθασεύστε το πλέγμα CSS
+# outdated
 firefox-developer-next-gen-css-engine = Μηχανισμός CSS νέας γενιάς
+firefox-developer-built-for-developers = Για τους προγραμματιστές
 firefox-developer-a-next-generation = Ένας μηχανισμός CSS από το μέλλον
 firefox-developer-master-innovative-features = Καινοτόμα χαρακτηριστικά
 firefox-developer-want-to-be-on-the-cutting-edge = Θέλετε να έχετε τις πιο νέες τεχνολογίες;
