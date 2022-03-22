@@ -21,3 +21,11 @@ vpn-desktop-about-copy = { -brand-name-mozilla } è enconuschent surtut per ses 
 vpn-desktop-privacy-headline = Protecziun da datas cun in singul clic
 vpn-desktop-privacy-copy = L'applicaziun { -brand-name-mozilla-vpn } criptescha tia connexiun cun l'internet e zuppenta l'adressa IP da tes telefonin u tablet cun agid dal protocol avanzà { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Ta connectescha cun servers en tut il mund
+# Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Navighescha da la Brasilia. Fa gieus davent dal Giapun. Streamescha dal Mexico. { -brand-name-mozilla-vpn } ta permetta da midar la posiziun da tes telefon u computer cun tscherner in da { $servers } servers.
+# Obsolete string
+vpn-desktop-servers-copy = Navighescha da la Brasilia. Fa gieus davent dal Giapun. Streamescha dal Mexico. { -brand-name-mozilla-vpn } ta permetta da midar la posiziun da tes telefon u computer cun tscherner in da { $servers }.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = Protegia enfin a { $devices } apparats
