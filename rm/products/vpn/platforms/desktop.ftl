@@ -29,3 +29,7 @@ vpn-desktop-servers-copy = Navighescha da la Brasilia. Fa gieus davent dal Giapu
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Protegia enfin a { $devices } apparats
+vpn-desktop-devices-copy = Cun tes abunament survegns ti access illimità a noss servetsch segir da VPN sin tes smartphone, tablet e computer desktop per { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }.
+vpn-desktop-speed-headline = Sveltezza fenomenala, naginas restricziuns
+vpn-desktop-speed-copy = Streamescha videos, gioga games, fa cumpras e navighescha sco ina frizza. { -brand-name-mozilla-vpn } na vegn ni a limitar tes volumen da datas ni a ralentar tes smartphone.
+vpn-desktop-log-headline = Tia sfera privata ha prioritad
