@@ -23,6 +23,7 @@ vpn-ip-address-no-your-ip = Nahániri. Nde IP kundaharape oñemoirũ petẽi ten
 vpn-ip-address-does-your-ip = ¿IP kundaharape iñambue?
 vpn-ip-address-yes-even-if = Héẽ. Eipurúramo jepe Ñanduti nde rógape, pe IP kundaharape nde róga pegua iñambuekuaa. Eñe’ẽkuaa ne Ñanduti me’ẽhára ndive (ISP) emoambue hag̃ua, hákatu ejapóvo hasy’ỹva jepe ha’éva ne módem moñepyrũjey térã router ojehukuaáva apañuãi Ñandutípe eike jave omoambuekuaáva.
 vpn-ip-address-can-more-than = ¿Ikatúpa heta mba’e’oka oreko IP kundaharape ojueheguáva?
+vpn-ip-address-this-is-a = Ha’e porandu hasynungáva — pe mbohovái ha’e héẽ ha nahániri. Mokõi térã hetave mba’e’oka oipurukuaa pe IP kundaharape okapegua (opavaveguáva), hákatu peteĩteĩva mba’e’oka oguerekóta IP tendagua imba’eteéva (peteĩ mba’éva). Techapyrã, nde ISP (Ñanduti me’ẽhára) omboheko nde róga peteĩ IP kundaharape okayguávaramo. Pe nde router ha’e pe nembojuaju añetéva ñandutíre, pe IP kundaharape oñeme’ẽ kóvape. Upéi, nde router ome’ẽjey peteĩ IP kundaharape peteĩteĩva mba’e’okápe ojuajúva ñandutíre. Pe IP kundaharape okayguáva ha’e pe oñemoherakuãva arapy tuichakue r. IP kundaharape pypegua noñemoherakuãi oka gotyo nde pyha ogaygua ñemíva.
 vpn-ip-address-can-we-run = ¿Ikatúpa opa?
 # Variables
 #   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
