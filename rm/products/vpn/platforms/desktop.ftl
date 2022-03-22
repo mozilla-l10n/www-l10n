@@ -33,3 +33,4 @@ vpn-desktop-devices-copy = Cun tes abunament survegns ti access illimità a noss
 vpn-desktop-speed-headline = Sveltezza fenomenala, naginas restricziuns
 vpn-desktop-speed-copy = Streamescha videos, gioga games, fa cumpras e navighescha sco ina frizza. { -brand-name-mozilla-vpn } na vegn ni a limitar tes volumen da datas ni a ralentar tes smartphone.
 vpn-desktop-log-headline = Tia sfera privata ha prioritad
+vpn-desktop-log-copy = Nus da { -brand-name-mozilla } na ramassain naginas datas davart tia persuna e nus na registrain era betg tias activitads online – ni via noss VPN ni via in da noss auters products. La protecziun da tias datas è il coc da nossa missiun.
