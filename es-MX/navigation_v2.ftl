@@ -48,6 +48,8 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Regístrate para tener nuevas cuentas sin revelar tu correo electrónico.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Protege la conexión de tu navegador a Internet.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Nuevas funciones y herramientas para una experiencia personalizada de { -brand-name-mdn }
 navigation-v2-view-all-products = Todos los productos
 
 ## Who We Are menu
