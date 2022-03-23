@@ -49,6 +49,7 @@ navigation-v2-sign-up-for-new-accounts = Registrujte si nové účty bez nutnost
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Zabezpečte připojení svého prohlížeče do internetu.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Nové funkce a nástroje pro personalizované prostředí { -brand-name-mdn }
 navigation-v2-view-all-products = Zobrazit všechny produkty
 
 ## Who We Are menu
