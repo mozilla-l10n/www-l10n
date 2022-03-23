@@ -40,6 +40,7 @@ navigation-v2-save-and-discover-the-best = Shranjujte in odkrivajte najboljše z
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Otežite { -brand-name-facebook }u zbiranje vaših podatkov zunaj svojega spletnega mesta.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = Zagotovite si zaščito, ki presega okvire brskalnika, na vseh napravah.
 navigation-v2-learn-how-each-firefox-product = Oglejte si, kako vsak od izdelkov { -brand-name-firefox } ščiti in spoštuje vaše podatke.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
