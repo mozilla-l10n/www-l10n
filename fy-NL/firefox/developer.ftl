@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = De nije { -brand-name-firefox-devtools } is krêftich, fleksibel, en it bêste fan alles, oanpasber. Hjirûnder falt in treflike JavaScript-debugger, dy’t geskikt is foar mear browsers en boud is yn React en Redux.
 firefox-developer-master-css-grid = Master CSS-raster
+# outdated
 firefox-developer-next-gen-css-engine = Next-Gen CSS Engine
+firefox-developer-built-for-developers = Boud foar ûntwikkelers
 firefox-developer-a-next-generation = De CSS-masine fan de folgjende generaasje
 firefox-developer-master-innovative-features = Ynnovative funksjes
 firefox-developer-want-to-be-on-the-cutting-edge = Wolle jo foarút rinne bliuwe?
