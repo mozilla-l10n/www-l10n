@@ -12,9 +12,9 @@ navigation-v2-get-a-firefox-account = Conseguir una { -brand-name-firefox-accoun
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
-navigation-v2-close-firefox-browsers-menu = Cerrar el menú { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = Cerrar el menú de { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } para escritorio
-navigation-v2-get-the-not-for-profit-backed = Obtén el navegador respaldado por una organización sin ánimo de lucro para { -brand-name-windows }, { -brand-name-mac-short } o { -brand-name-linux }.
+navigation-v2-get-the-not-for-profit-backed = Consigue el navegador respaldado por una organización sin ánimo de lucro para { -brand-name-windows }, { -brand-name-mac-short } o { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Obtén el navegador móvil personalizable para teléfonos inteligentes { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
