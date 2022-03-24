@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } downloaden
@@ -48,6 +48,8 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Schrijf u in voor nieuwe accounts zonder uw e-mailadres af te geven.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Bescherm de verbinding van uw browser met het internet.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Nieuwe functies en hulpmiddelen voor een { -brand-name-mdn }-ervaring op maat
 navigation-v2-view-all-products = Alle producten bekijken
 
 ## Who We Are menu
