@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Llwytho { -brand-name-firefox } i Lawr
@@ -48,6 +48,8 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Cofrestrwch ar gyfer cyfrifon newydd heb drosglwyddo'ch cyfeiriad e-bost.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Diogelu cysylltiad eich porwr â'r rhyngrwyd.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Nodweddion ac offer newydd ar gyfer profiad personoledig o { -brand-name-mdn }
 navigation-v2-view-all-products = Gweld yr Holl Gynnyrch
 
 ## Who We Are menu
