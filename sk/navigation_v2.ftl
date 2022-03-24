@@ -48,6 +48,8 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrujte si nové účty bez toho, aby ste museli prezradiť svoju e-mailovú adresu.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Zabezpečte spojenie svojho počítača s internetom
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Nové funkcie a nástroje pre prispôsobené prostredie { -brand-name-mdn }
 navigation-v2-view-all-products = Zobraziť všetky produkty
 
 ## Who We Are menu
