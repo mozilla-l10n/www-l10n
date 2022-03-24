@@ -48,6 +48,8 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (béta)
 navigation-v2-sign-up-for-new-accounts = Regisztráljon új fiókokat anélkül, hogy átadná az e-mail-címét.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (béta)
 navigation-v2-protect-your-browsers-connection = Védje meg a böngészője internetkapcsolatát.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Új funkciók és eszközök a személyre szabott { -brand-name-mdn } élményhez
 navigation-v2-view-all-products = Összes termék megtekintése
 
 ## Who We Are menu
