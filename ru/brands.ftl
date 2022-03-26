@@ -193,6 +193,7 @@
         [instrumental] Веб-документацией MDN
         [prepositional] Веб-документации MDN
     }
+-brand-name-mdn-plus = MDN Plus
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
