@@ -50,6 +50,7 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Mendaftar akun baru tanpa menyerahkan alamat surel Anda.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Lindungi koneksi peramban Anda saat terhubung ke internet.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Lihat semua Produk
 
 ## Who We Are menu

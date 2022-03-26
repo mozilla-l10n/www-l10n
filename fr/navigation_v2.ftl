@@ -50,6 +50,7 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (bêta)
 navigation-v2-sign-up-for-new-accounts = Créez de nouveaux comptes sans transmettre votre adresse électronique.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (bêta)
 navigation-v2-protect-your-browsers-connection = Protégez la connexion de votre navigateur à Internet.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Voir tous les produits
 
 ## Who We Are menu

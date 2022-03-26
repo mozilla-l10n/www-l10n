@@ -50,6 +50,7 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (बीटा)
 navigation-v2-sign-up-for-new-accounts = अपना ईमेल एड्रेस दिए बिना नए अकाउंट के लिए साइन अप करें।
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (बीटा)
 navigation-v2-protect-your-browsers-connection = अपने ब्राउज़र और इंटरनेट के कनेक्शन को सुरक्षित करें।
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = सभी उत्पाद देखें
 
 ## Who We Are menu
