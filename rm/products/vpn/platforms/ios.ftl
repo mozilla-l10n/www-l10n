@@ -27,3 +27,9 @@ vpn-ios-servers-copy = Fa cumpras davent da la Svizra. Streamescha dal Canada. N
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Va per l'access per enfin a { $devices } apparats
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = Cun in singul abunament pos ti utilisar { -brand-name-mozilla-vpn } sin enfin a { $devices } differents apparats dad { -brand-name-ios } per { -brand-name-iphone } ed { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }.
+vpn-ios-speed-headline = Sveltezza maximala. Datas illimitadas.
+vpn-ios-speed-copy = Gioga games en l'internet, streamescha tias emissiuns preferidas e navighescha en l'internet cun sveltezza fenomenala – e quai senza quitads per il volumen da datas da { -brand-name-mozilla-vpn }: i ina dat nagina limita.
+vpn-ios-log-headline = Tias datas restan privatas. Punct.
