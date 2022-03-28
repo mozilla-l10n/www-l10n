@@ -34,3 +34,4 @@ vpn-linux-devices-copy = Cun in singul abunament pos ti utilisar { -brand-name-m
 vpn-linux-speed-headline = Sveltezza fenomenala cun datas illimitadas
 vpn-linux-speed-copy = Gioga games, streamescha films ed emissiuns e navighescha en il web cun sveltezza maximala e senza limitaziun dal volumen da datas – { -brand-name-mozilla-vpn } n'enconuscha nagins cunfins.
 vpn-linux-log-headline = Tias datas èn tias
+vpn-linux-log-copy = Tscherts VPNs registreschan tias activitads sin lur servers. { -brand-name-mozilla-vpn } na ta fastizescha betg online – quai è in aspect impurtant da l'intent da nossa interpresa.
