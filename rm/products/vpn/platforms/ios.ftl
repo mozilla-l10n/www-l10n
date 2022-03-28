@@ -11,3 +11,5 @@ vpn-ios-page-description = Va per segirezza svelta e simpla per tes { -brand-nam
 # Mobile strings
 vpn-ios-hero-headline = Ta protegia online cun { -brand-name-mozilla-vpn } per { -brand-name-ios }
 vpn-ios-ability = Ti pos ta sentir protegì dad attatgaders ed egliadas mirvegliusas cura che ti es online – tant a chasa sco era en viadi – grazia a { -brand-name-mozilla-vpn }. Per in pretsch mensil favuraivel utilisescha quel il protocol avanzà { -brand-name-wireguard }® per criptar las datas persunalas sin tes { -brand-name-iphone }, { -brand-name-ipad } e sin ils blers auters apparats. Quai ta pussibilitescha da streamar emissiuns, giugar games, far cumpras e da suandar tias activitads dal mintgadi en l'internet, savend che ti es protegì.
+vpn-ios-maker-of-firefox = Sco sviluppadra dal navigatur-web { -brand-name-firefox } e sco ina da las cumbattantas las pli ferventas per la protecziun da datas en l'internet, s'engascha { -brand-name-mozilla } per che ti possias ta sentir segir e respectà mintga giada che ti es online.
+vpn-ios-wifi-headline = Ta protegia en l'internet cura che ti es en viadi
