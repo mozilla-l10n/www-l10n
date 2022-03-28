@@ -33,3 +33,4 @@ vpn-ios-devices-copy = Cun in singul abunament pos ti utilisar { -brand-name-moz
 vpn-ios-speed-headline = Sveltezza maximala. Datas illimitadas.
 vpn-ios-speed-copy = Gioga games en l'internet, streamescha tias emissiuns preferidas e navighescha en l'internet cun sveltezza fenomenala – e quai senza quitads per il volumen da datas da { -brand-name-mozilla-vpn }: i ina dat nagina limita.
 vpn-ios-log-headline = Tias datas restan privatas. Punct.
+vpn-ios-log-copy = Tscherts purschiders da VPN registreschan tias activitads sin lur servers. { -brand-name-mozilla-vpn } na ta fastizescha betg en l'internet – anzi, nus ans dustain ferventamain cunter questa pratica. Quai è ina part fundamentala da nossa filosofia d'interpresa.
