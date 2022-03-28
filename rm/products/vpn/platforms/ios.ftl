@@ -8,3 +8,5 @@
 # Meta strings
 vpn-ios-page-title = { -brand-name-mozilla-vpn } per { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
 vpn-ios-page-description = Va per segirezza svelta e simpla per tes { -brand-name-iphone } u { -brand-name-ipad }, grazia a { -brand-name-mozilla }, in dals nums ils pli fidads dal sectur tecnologic.
+# Mobile strings
+vpn-ios-hero-headline = Ta protegia online cun { -brand-name-mozilla-vpn } per { -brand-name-ios }
