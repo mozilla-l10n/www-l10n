@@ -15,3 +15,15 @@ vpn-ios-maker-of-firefox = Sco sviluppadra dal navigatur-web { -brand-name-firef
 vpn-ios-wifi-headline = Ta protegia en l'internet cura che ti es en viadi
 vpn-ios-wifi-copy = Utiliseschas ti in WLAN public? Nagin problem. Grazia a { -brand-name-mozilla-vpn } pos ti ta sentir segir cura che ti controlleschas tes conto da banca en in café u midas tes pleds-clav al chantun da la via: ti pos far tut quai che ti fas normalmain sin tes { -brand-name-iphone } u { -brand-name-ipad } – en tutta pasch.
 vpn-ios-about-headline = Pertge sa fidar da nus?
+vpn-ios-about-copy = Probablamain ans enconuschas ti pervi da noss navigatur-web { -brand-name-firefox }, ma { -brand-name-mozilla } s'engascha ultra da quai dapi l'onn 1998 per tes dretgs en l'internet – quai è nossa missiun principala. A nus statti propi a cor che l'internet restia avert e liber e respectia al medem mument il dretg a sfera privata e segirezza dad ina e mintgin.
+vpn-ios-privacy-headline = Connexiun cun in singul clic
+vpn-ios-privacy-copy = L'utilisaziun da { -brand-name-mozilla-vpn } è fitg simpla. I basta da tutgar in buttun per criptar tia connexiun e zuppentar l'adressa IP sin tes { -brand-name-iphone } u { -brand-name-ipad } cun agid dal protocol avanzà { -brand-name-wireguard }®.
+# Variables:
+#   $servers (number) - number of available servers
+vpn-ios-servers-headline = Ta connectescha cun passa { $servers } servers en tut il mund
+# Variables:
+#   $countries (number) - number of available countries
+vpn-ios-servers-copy = Fa cumpras davent da la Svizra. Streamescha dal Canada. Navighescha da l'Australia. Cun { -brand-name-mozilla-vpn } pos ti definir la posiziun da tes { -brand-name-iphone } u { -brand-name-ipad } cun tscherner in da { $countries } pajais ed uschia scuvrir in mund entir plain cuntegn fascinant.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-headline = Va per l'access per enfin a { $devices } apparats
