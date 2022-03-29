@@ -100,6 +100,7 @@
 -brand-name-mozilla-labs = موزيلا لابز
 -brand-name-mozilla-vpn = موزيلا VPN
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mdn-plus = MDN Plus
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
