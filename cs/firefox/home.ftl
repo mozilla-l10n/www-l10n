@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Seznamte se s naší rodinou produktů
 firefox-home-get-trackers-off = Zbavte se více než 2000 sledovacích prvků – včetně { -brand-name-facebook(case: "gen") }
 firefox-home-know-when-hackers-strike = Buďte informování o útocích hackerů – a buďte stále o krok před nimi
 firefox-home-start-getting-breach = Nechte si zasílat upozornění na úniky dat
+firefox-home-un-spam-your-life = Odstraňte spam ze svého života díky { -brand-name-relay(case: "dat") }
+firefox-home-try-relay = Vyzkoušejte { -brand-name-relay(case: "acc") }
 # Obsolete string
 firefox-home-keep-your-passwords = Mějte svá hesla v bezpečí na každém zařízení
 # Obsolete string
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }

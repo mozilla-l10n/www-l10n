@@ -117,5 +117,9 @@ vpn-subnav-whats-an-ip-address = Co je to IP adresa?
 vpn-subnav-when-to-use-a-vpn = Kdy používat síť VPN
 vpn-subnav-vpn-vs-proxy = Síť VPN vs. proxy server
 
+## VPN Affiliate cookie notice
+
+vpn-shared-affiliate-notification-reject = Odmítnout
+
 ##
 
