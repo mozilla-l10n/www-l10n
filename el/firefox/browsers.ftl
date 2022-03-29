@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
@@ -24,7 +24,7 @@ firefox-browsers-enterprise-packages = Πακέτα { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Υπερπηδήστε τις δύο διαστάσεις και απολαύστε το καλύτερο εμβυθιστικό περιεχόμενο από όλο το διαδίκτυο.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = Ανάπτυξη ιστοσελίδων και βελτίωση κώδικα με το { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
+firefox-browsers-build-sites-and-refine-your = Ανάπτυξη ιστοτόπων και βελτίωση κώδικα με το { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Μάθετε περισσότερα για το { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Εγγραφείτε στο { -brand-name-firefox } και αξιοποιήστε στο έπακρο κάθε προϊόν — σε κάθε συσκευή.
 # Variables:

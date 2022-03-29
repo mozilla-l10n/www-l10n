@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -36,7 +36,7 @@ firefox-accounts-get-a-lookout-for = Παρακολούθηση παραβιάσ
 firefox-accounts-share-large-files = Μοιραστείτε μεγάλα αρχεία χωρίς υποκλοπές.
 firefox-accounts-get-it-all-on-every = Όλα αυτά σε κάθε συσκευή, χωρίς να παγιδευτείτε σε ένα μόνο λειτουργικό σύστημα.
 firefox-accounts-and-get-it-all-on = Και όλα αυτά σε κάθε συσκευή, χωρίς να παγιδευτείτε σε ένα μόνο λειτουργικό σύστημα.
-firefox-accounts-get-the-respect-you = Αποκτήστε το σεβασμό που σας αξίζει.
+firefox-accounts-get-the-respect-you = Λάβετε τον σεβασμό που σας αξίζει.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-whole-device-protection = Πλήρης προστασία σε κάθε συσκευή
 # Variables:
