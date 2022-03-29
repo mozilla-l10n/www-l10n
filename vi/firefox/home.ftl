@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Hãy xem các sản phẩm của chúng tôi
 firefox-home-get-trackers-off = Tránh xa 2.000+ trình theo dõi khỏi hành trình của bạn — bao gồm cả { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Biết khi nào tin tặc tấn công — và luôn đi trước một bước
 firefox-home-start-getting-breach = Bắt đầu nhận báo cáo các vụ rò rỉ
+firefox-home-un-spam-your-life = Bỏ thư rác khỏi cuộc sống của bạn với { -brand-name-relay }
+firefox-home-try-relay = Thử { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Giữ mật khẩu của bạn an toàn trên mọi thiết bị
 # Obsolete string
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
