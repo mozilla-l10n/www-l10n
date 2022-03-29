@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } 是超級快的瀏覽器，提供最強大的開發者工具、CSS Grid 支援、對框架除錯等最新功能。
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = 全新的 { -brand-name-firefox-devtools } 更強大、更靈活，而且最棒的是還可自行 hack 修改。這版開發者工具當中包含了同級當中最強大的 JavaScript 除錯器，可將不同瀏覽器作為除錯目標，也內建支援 React 及 Redux。
 firefox-developer-master-css-grid = 成為 CSS Grid 大師
+# outdated
 firefox-developer-next-gen-css-engine = 新一代 CSS 引擎
+firefox-developer-built-for-developers = 為開發者而打造
 firefox-developer-a-next-generation = 下一代的 CSS 引擎
 firefox-developer-master-innovative-features = 創新功能
 firefox-developer-want-to-be-on-the-cutting-edge = 想要尋求尖端科技？

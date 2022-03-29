@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = 了解我們的系列產品
 firefox-home-get-trackers-off = 趕走網路上超過 2,000 組的追蹤器 — 包含 { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = 了解駭客何時來襲，搶先一步做出反應
 firefox-home-start-getting-breach = 訂閱資料外洩警報
+firefox-home-un-spam-your-life = 使用 { -brand-name-relay } 讓您的信箱不再充滿垃圾信
+firefox-home-try-relay = 試用 { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = 在每個裝置上安全地儲存密碼
 # Obsolete string
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
