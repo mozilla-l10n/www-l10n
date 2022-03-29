@@ -146,4 +146,12 @@ vpn-subnav-whats-an-ip-address = IP アドレスとは？
 vpn-subnav-when-to-use-a-vpn = VPN を使うべき場面
 vpn-subnav-vpn-vs-proxy = VPN とプロキシの比較
 
+## VPN Affiliate cookie notice
+
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = 当社は、{ -brand-name-mozilla-vpn } に誘導したアフィリエイトパートナーを把握するために Cookie を使用しています。個人を特定できる情報をパートナーと共有することはありません。<a { $attrs }>プライバシーポリシー</a>をご覧ください。
+
+vpn-shared-affiliate-notification-reject = 拒否する
+
 ##
