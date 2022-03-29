@@ -117,5 +117,9 @@ vpn-subnav-whats-an-ip-address = Co jo IP-adresa?
 vpn-subnav-when-to-use-a-vpn = Gdy wy dejał VPN wužywaś
 vpn-subnav-vpn-vs-proxy = VPN w pśirownanju k proksy
 
+## VPN Affiliate cookie notice
+
+vpn-shared-affiliate-notification-reject = Wótpokazaś
+
 ##
 
