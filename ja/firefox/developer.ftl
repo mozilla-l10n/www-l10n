@@ -61,6 +61,7 @@ firefox-developer-master-css-grid = CSS グリッドを自在に操る
 # outdated
 firefox-developer-next-gen-css-engine = 次世代 CSS エンジン
 
+firefox-developer-built-for-developers = デベロッパー向け
 firefox-developer-a-next-generation = 次世代 CSS エンジン
 firefox-developer-master-innovative-features = 革新的機能
 firefox-developer-want-to-be-on-the-cutting-edge = 最先端を求める方へ

@@ -61,6 +61,7 @@ firefox-developer-master-css-grid = Master CSS Grid
 # outdated
 firefox-developer-next-gen-css-engine = Mesin CSS Generasi Berikutnya
 
+firefox-developer-built-for-developers = Dirancang untuk Pengembang
 firefox-developer-a-next-generation = Mesin CSS Generasi Berikutnya
 firefox-developer-master-innovative-features = Fitur Inovatif
 firefox-developer-want-to-be-on-the-cutting-edge = Ingin menjadi yang terdepan?
