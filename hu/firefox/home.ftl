@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Ismerje meg termékcsaládunkat
 firefox-home-get-trackers-off = Szabaduljon meg 2.000 nyomkövetőtől – beleértve a { -brand-name-facebook }ot is
 firefox-home-know-when-hackers-strike = Tudja meg, hogy mikor csapnak le a hackerek – és legyen egy lépéssel előrébb
 firefox-home-start-getting-breach = Kapjon adatsértési jelentéseket
+firefox-home-un-spam-your-life = Távolítsa el a kéretlen leveket az életéből a { -brand-name-relay } segítségével
+firefox-home-try-relay = Próbálja ki a { -brand-name-relay }t
 # Obsolete string
 firefox-home-keep-your-passwords = Tartsa biztonságban a jelszavait minden eszközén
 # Obsolete string
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }

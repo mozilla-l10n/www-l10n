@@ -117,5 +117,12 @@ vpn-subnav-whats-an-ip-address = Mi az IP-cím?
 vpn-subnav-when-to-use-a-vpn = Mikor használjon VPN-t
 vpn-subnav-vpn-vs-proxy = VPN kontra Proxy
 
+## VPN Affiliate cookie notice
+
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Sütiket használunk annak megértésére, hogy melyik partnerünk vezette Önt a { -brand-name-mozilla-vpn }-hez. Személyazonosításra alkalmas adatokat nem osztunk meg partnereinkkel. Olvassa el <a { $attrs }>Adatvédelmi irányelveinket</a>.
+vpn-shared-affiliate-notification-reject = Elutasítás
+
 ##
 
