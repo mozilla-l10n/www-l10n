@@ -61,6 +61,7 @@ firefox-developer-master-css-grid = احترف CSS Grid
 # outdated
 firefox-developer-next-gen-css-engine = محرك CSS للجيل القادم
 
+firefox-developer-built-for-developers = صُمّم للمطوّرين
 firefox-developer-a-next-generation = محرك CSS للجيل القادم
 firefox-developer-master-innovative-features = مزايا مبتكرة
 firefox-developer-want-to-be-on-the-cutting-edge = أتود أن تكون مواكبًا للتطور والتحديث؟
