@@ -51,6 +51,7 @@ navigation-v2-sign-up-for-new-accounts = メールアドレスを提供せずに
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (ベータ)
 navigation-v2-protect-your-browsers-connection = ブラウザーからインターネットへの接続を保護します。
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = 新しい機能とツールで { -brand-name-mdn } をカスタマイズ
 navigation-v2-view-all-products = すべての製品を表示
 
 ## Who We Are menu

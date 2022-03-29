@@ -51,6 +51,7 @@ navigation-v2-sign-up-for-new-accounts = Mendaftar akun baru tanpa menyerahkan a
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Lindungi koneksi peramban Anda saat terhubung ke internet.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Fitur dan alat baru untuk merasakan pengalaman { -brand-name-mdn } yang disesuaikan
 navigation-v2-view-all-products = Lihat semua Produk
 
 ## Who We Are menu
