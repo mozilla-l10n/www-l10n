@@ -117,5 +117,12 @@ vpn-subnav-whats-an-ip-address = Che cos’è un indirizzo IP?
 vpn-subnav-when-to-use-a-vpn = Quando utilizzare una VPN
 vpn-subnav-vpn-vs-proxy = Confronto tra VPN e proxy
 
+## VPN Affiliate cookie notice
+
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Utilizziamo i cookie per capire quale dei nostri partner affiliati ti ha portato a { -brand-name-mozilla-vpn }. Non condividiamo informazioni di identificazione personale con i nostri partner. Leggi la nostra <a { $attrs }>informativa sulla privacy</a>.
+vpn-shared-affiliate-notification-reject = Rifiuta
+
 ##
 
