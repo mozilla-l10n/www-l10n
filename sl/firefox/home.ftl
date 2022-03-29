@@ -12,6 +12,7 @@ firefox-home-meet-our-family-of = Spoznajte našo družino izdelkov
 firefox-home-get-trackers-off = Znebite se več kot 2000 sledilcev – vključno s { -brand-name-facebook }om
 firefox-home-know-when-hackers-strike = Bodite obveščeni, ko napadalci udarijo – in ostanite korak pred njimi
 firefox-home-start-getting-breach = Začnite prejemati poročila o krajah podatkov
+firefox-home-try-relay = Preizkusite { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Ohranite gesla varna na vseh napravah
 # Obsolete string
@@ -53,3 +54,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }

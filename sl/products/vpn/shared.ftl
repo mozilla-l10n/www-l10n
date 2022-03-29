@@ -117,5 +117,9 @@ vpn-subnav-whats-an-ip-address = Kaj je naslov IP?
 vpn-subnav-when-to-use-a-vpn = Kdaj uporabiti VPN
 vpn-subnav-vpn-vs-proxy = VPN ali posredniški strežnik?
 
+## VPN Affiliate cookie notice
+
+vpn-shared-affiliate-notification-reject = Zavrni
+
 ##
 
