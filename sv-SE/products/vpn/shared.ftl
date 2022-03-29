@@ -117,5 +117,9 @@ vpn-subnav-whats-an-ip-address = Vad är en IP-adress?
 vpn-subnav-when-to-use-a-vpn = När ska man använda ett VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 
+## VPN Affiliate cookie notice
+
+vpn-shared-affiliate-notification-reject = Avvisa
+
 ##
 
