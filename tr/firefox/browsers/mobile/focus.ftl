@@ -19,6 +19,7 @@ mobile-focus-scan-alt-text = { -brand-name-firefox-focus } uygulamasını indirm
 # Outdated string
 mobile-focus-disappear-your-history = Geçmişinizi silin
 mobile-focus-delete-your-history = Geçmişinizi silin
+mobile-focus-easily-erase-your = Geçmişinizi, parolalarınızı ve çerezlerinizi kolayca silin. Böylece istenmeyen reklamlar internette sizi takip etmez. Arama çubuğundaki sil düğmesine dokunmanız yeterli.
 mobile-focus-take-private-mode = Gizli modu bir üst seviyeye taşıyın
 mobile-focus-tracking-protection = İzlenme koruması
 mobile-focus-ad-blocking = Reklam engelleme

@@ -18,6 +18,7 @@ mobile-ios-send-a-download-link-to-your = İndirme bağlantısını telefonunuza
 mobile-ios-scan-the-qr-code-to-get-started = Başlamak için QR kodunu tarayın
 mobile-ios-scan-alt-text = { -brand-name-ios } için { -brand-name-firefox }’u indirmek için QR kodunu tarayın
 mobile-ios-make-firefox-your = { -brand-name-firefox }’u varsayılan tarayıcınız yapın
+mobile-ios-now-iphone-and = Artık { -brand-name-iphone } ve { -brand-name-ipad } kullanıcıları varsayılan tarayıcılarını seçebiliyor. YAni artık { -brand-name-safari }’ye bağımlı değilsiniz ve mobil tarayıcınızı bilgisayarınızdaki en sevdiğiniz tarayıcıyla senkronize edebilirsiniz. Ayrıca { -brand-name-firefox }'u varsayılan tarayıcı olarak ayarladığınızda bağımsız bir teknoloji şirketini desteklemiş olursunuz. Üstelik { -brand-name-firefox }, kâr amacı gütmeyen bir kuruluş tarafından geliştirilen tek büyük tarayıcıdır.
 mobile-ios-fast-private-secure = Hızlı. Gizli. Güvenli
 mobile-ios-stay-private-online = İnternette gizli kalın
 mobile-ios-firefox-gives-you = { -brand-name-firefox }, web'de size daha fazla gizlilik koruması sağlıyor. Gelişmiş izlenme korumamız, varsayılan olarak sosyal medya takipçileri, siteler arası çerez takipçileri, kripto madencileri ve parmak izi toplayıcılar gibi takip kodlarını ve betikleri engelliyor.
@@ -35,5 +36,7 @@ mobile-ios-find-it-all = Daha hızlı bulun
 mobile-ios-get-search-suggestions = Arama çubuğunda arama önerileri alın ve en çok ziyaret ettiğiniz sitelere hızla erişin. Arama terimlerinizi yazın, favori arama motorlarınızdan öneriler ve önceden aradığınız sonuçlar karşınıza gelsin.
 # Obsolete string
 mobile-ios-keep-tabs-on = Sekmeleri yönetin
+mobile-ios-discover-more-of = Seveceğiniz şeyleri keşfedin
+mobile-ios-open-a-new = Sık ziyaret ettiğiniz siteleri, en son yer imlerinizi ve  { -brand-name-pocket }’taki popüler makaleleri görmek için { -brand-name-firefox }’ta yeni bir sekme açın. Gideceğiniz yere daha hızlı ulaşmanız için { -brand-name-firefox } en son kullandığınız sitelere hızlı erişim sağlar.
 mobile-ios-about-mozilla = { -brand-name-mozilla } hakkında
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla }, interneti herkesin erişebildiği kamusal bir kaynağa dönüştürmek için var. Çünkü biz, açık ve özgür olan şeylerin kapalı ve kontrol altında tutulanlardan daha güzel olduğuna inanıyoruz. Tercih hakkını, şeffaflığı ve kontrolü kendi eline alma hakkını savunan { -brand-name-firefox } ve { -brand-name-pocket } gibi ürünler geliştiriyoruz.

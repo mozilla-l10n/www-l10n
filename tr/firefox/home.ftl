@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Ürün ailemizle tanışın
 firefox-home-get-trackers-off = 2000’den fazla takipçiye izinizi kaybettirin: { -brand-name-facebook } dahil
 firefox-home-know-when-hackers-strike = Hacker saldırılarından haberiniz olsun, hep bir adım önde olun
 firefox-home-start-getting-breach = İhlal raporlarına kaydolun
+firefox-home-un-spam-your-life = { -brand-name-relay } ile spam’i hayatınızdan çıkarın
+firefox-home-try-relay = { -brand-name-relay }’i deneyin
 # Obsolete string
 firefox-home-keep-your-passwords = Parolalarınızı tüm cihazlarınızda güvenle saklayın
 # Obsolete string
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
