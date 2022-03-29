@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Dyma'n teulu o gynnyrch
 firefox-home-get-trackers-off = Tynnwch 2,000+ o dracwyr oddi ar eich llwybr pori - gan gynnwys { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Cewch wybod pryd mae hacwyr yn taro - a chadw un cam o'u blaen
 firefox-home-start-getting-breach = Dechreuwch dderbyn adroddiadau tor-data
+firefox-home-un-spam-your-life = Dad-sbamiwch eich bywyd gyda { -brand-name-relay }
+firefox-home-try-relay = Rhowch gynnig ar { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Cadwch eich cyfrineiriau'n ddiogel ar bob dyfais
 # Obsolete string
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
