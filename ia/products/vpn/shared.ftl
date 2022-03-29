@@ -117,5 +117,9 @@ vpn-subnav-whats-an-ip-address = Que es un adresse IP?
 vpn-subnav-when-to-use-a-vpn = Quando usar un VPN
 vpn-subnav-vpn-vs-proxy = VPN contra Proxy
 
+## VPN Affiliate cookie notice
+
+vpn-shared-affiliate-notification-reject = Rejectar
+
 ##
 
