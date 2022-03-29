@@ -11,6 +11,8 @@ firefox-home-meet-our-family-of = 製品ファミリーのご紹介
 firefox-home-get-trackers-off = { -brand-name-facebook } など 2,000 以上のトラッカーをブロック
 firefox-home-know-when-hackers-strike = ハッカーの攻撃を検出、先手を取って対策
 firefox-home-start-getting-breach = 侵害レポートの利用を始める
+firefox-home-un-spam-your-life = { -brand-name-relay } で生活をスッキリと
+firefox-home-try-relay = { -brand-name-relay } を試用
 
 # Obsolete string
 firefox-home-keep-your-passwords = すべてのデバイスでパスワードの安全を守る
@@ -60,4 +62,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
-
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
