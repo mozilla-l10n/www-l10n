@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Γνωρίστε την οικογένεια �
 firefox-home-get-trackers-off = Απομακρύνετε 2.000+ ιχνηλάτες - ακόμη και το { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Μάθετε πότε επιτίθενται οι hackers — για να είστε ένα βήμα μπροστά
 firefox-home-start-getting-breach = Έναρξη αναφορών παραβιάσεων
+firefox-home-un-spam-your-life = Ζήστε χωρίς spam με το { -brand-name-relay }
+firefox-home-try-relay = Δοκιμή του { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Προστασία κωδικών πρόσβασης σε κάθε συσκευή
 # Obsolete string
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
