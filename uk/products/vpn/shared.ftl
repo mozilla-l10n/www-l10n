@@ -117,5 +117,12 @@ vpn-subnav-whats-an-ip-address = Що таке IP-адреса?
 vpn-subnav-when-to-use-a-vpn = Коли використовувати VPN
 vpn-subnav-vpn-vs-proxy = VPN чи проксі
 
+## VPN Affiliate cookie notice
+
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Ми використовуємо куки, щоб зрозуміти, який афілійований партнер привів вас до { -brand-name-mozilla-vpn }. Ми не передаємо особисту інформацію нашим партнерам. Прочитайте нашу <a { $attrs }>Політику приватності</a>.
+vpn-shared-affiliate-notification-reject = Відхилити
+
 ##
 
