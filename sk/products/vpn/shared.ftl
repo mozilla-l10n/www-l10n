@@ -117,5 +117,12 @@ vpn-subnav-whats-an-ip-address = Čo je IP adresa?
 vpn-subnav-when-to-use-a-vpn = Kedy je vhodné používať VPN
 vpn-subnav-vpn-vs-proxy = VPN vs proxy
 
+## VPN Affiliate cookie notice
+
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Používame cookies, aby sme pochopili, ktorý partner vás priviedol k { -brand-name-mozilla-vpn }. S našimi partnermi nezdieľame osobné identifikačné údaje. Prečítajte si naše <a { $attrs }>Zásady ochrany osobných údajov</a>.
+vpn-shared-affiliate-notification-reject = Odmietnuť
+
 ##
 
