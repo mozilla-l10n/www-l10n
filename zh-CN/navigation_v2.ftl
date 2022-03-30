@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = 下载 { -brand-name-firefox }
@@ -48,6 +48,7 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }（测试版）
 navigation-v2-sign-up-for-new-accounts = 无须电子邮件地址也能注册新账户。
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network }（测试版）
 navigation-v2-protect-your-browsers-connection = 保护浏览器与互联网之间的连接。
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = 一览所有产品
 
 ## Who We Are menu
