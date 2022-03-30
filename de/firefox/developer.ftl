@@ -61,6 +61,7 @@ firefox-developer-master-css-grid = Master CSS Grid
 # outdated
 firefox-developer-next-gen-css-engine = Next-Gen CSS Engine
 
+firefox-developer-built-for-developers = Für Entwickler gebaut
 firefox-developer-a-next-generation = Die CSS Engine der nächsten Generation
 firefox-developer-master-innovative-features = Innovative Features
 firefox-developer-want-to-be-on-the-cutting-edge = Heute schon morgen.
