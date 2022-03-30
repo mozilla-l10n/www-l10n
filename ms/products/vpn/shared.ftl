@@ -146,4 +146,12 @@ vpn-subnav-whats-an-ip-address = Apa itu alamat IP?
 vpn-subnav-when-to-use-a-vpn = Bila perlu menggunakan VPN?
 vpn-subnav-vpn-vs-proxy = VPN lwn Proksi
 
+## VPN Affiliate cookie notice
+
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Demi memahami rakan gabungan kami yang membawa anda ke { -brand-name-mozilla-vpn }, kami menggunakan kuki. Kami tidak berkongsi maklumat pengenalan peribadi dengan rakan kongsi kami. Baca <a { $attrs }>Dasar Privasi</a> kami.
+
+vpn-shared-affiliate-notification-reject = Tidak Setuju
+
 ##
