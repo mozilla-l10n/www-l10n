@@ -13,7 +13,7 @@ navigation-v2-get-a-firefox-account = Créer un { -brand-name-firefox-account }
 
 ## Firefox menu
 
-navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-firefox-browsers = Navigateurs Firefox
 navigation-v2-close-firefox-browsers-menu = Fermer le menu { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pour ordinateur
 navigation-v2-get-the-not-for-profit-backed = Adoptez le navigateur soutenu par une organisation à but non lucratif sous { -brand-name-windows }, { -brand-name-mac-short } ou { -brand-name-linux }.
@@ -51,6 +51,7 @@ navigation-v2-sign-up-for-new-accounts = Créez de nouveaux comptes sans transme
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (bêta)
 navigation-v2-protect-your-browsers-connection = Protégez la connexion de votre navigateur à Internet.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Nouvelles fonctionnalités et nouveaux outils pour une expérience { -brand-name-mdn } personnalisée
 navigation-v2-view-all-products = Voir tous les produits
 
 ## Who We Are menu
