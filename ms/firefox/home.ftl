@@ -11,6 +11,8 @@ firefox-home-meet-our-family-of = Ketahui rangkaian produk kami
 firefox-home-get-trackers-off = Halang 2,000+ penjejak daripada mencari anda — termasuk { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Ketahui saatnya penggodam menyerang — dan terus berada selangkah di hadapan
 firefox-home-start-getting-breach = Mula dapatkan laporan kebocoran
+firefox-home-un-spam-your-life = Hentikan spam dengan { -brand-name-relay }
+firefox-home-try-relay = Cubalah { -brand-name-relay }
 
 # Obsolete string
 firefox-home-keep-your-passwords = Pastikan kata laluan anda selamat pada setiap peranti
@@ -60,4 +62,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
-
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
