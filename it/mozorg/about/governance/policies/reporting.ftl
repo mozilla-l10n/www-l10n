@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/governance/policies/participation/reporting/
@@ -16,7 +16,7 @@ reporting-please-report-all-incidents = Si prega di segnalare tutti i casi in cu
 reporting-how-to-give-a-report = Come effettuare una segnalazione
 reporting-if-you-believe-someone = Se si ritiene che qualcuno sia fisicamente in pericolo, chiamare il numero di emergenza locale.
 reporting-if-you-have-a-report-by = Se si raccoglie una segnalazione <strong>di <em>e</em> su</strong> un contributor, (ad esempio, una segnalazione fatta <strong>da</strong> un contributor <strong>su</strong> un altro contributor), è necessario contattare la <a href="{ $community_hotline }">Linea diretta delle Linee guida di partecipazione alla community</a>.
-reporting-if-you-have-a-report-by-email = Se ricevi una segnalazione <strong>da parte di un collaboratore<em> e </em>che riguarda un collaboratore</strong>, (ad esempio, una segnalazione fatta <strong>da</strong> un collaboratore <strong>contro</strong> un altro collaboratore), effettua la segnalazione a <a href="{ $mailto_report }">cpg-<t0/>report@mozilla.com</a>.
+reporting-if-you-have-a-report-by-email = Se ricevi una segnalazione <strong>da parte di un collaboratore<em> e </em>che riguarda un collaboratore</strong>, (ad esempio, una segnalazione fatta <strong>da</strong> un collaboratore <strong>contro</strong> un altro collaboratore), effettua la segnalazione a <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
 reporting-if-you-have-a-report-involving = Se si raccoglie una segnalazione <strong>che coinvolge un dipendente, collaboratore o fornitore</strong> (ad esempio, una segnalazione effettuata <strong>da</strong> un dipendente oppure <strong>su</strong> un dipendente), è necessario contattare la <a href="{ $employee_hotline }">Linea diretta per i dipendenti { -brand-name-mozilla }</a>.
 reporting-put-another-way = Ricapitolando…
 reporting-by = Da parte di

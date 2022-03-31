@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -17,7 +17,7 @@ nightly-whatsnew-this-is-a-good = Questo è un buon momento per ringraziarti per
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to = Se vuoi sapere che cosa succede intorno a { -brand-name-nightly } e alla sua community, leggere il nostro <a href="{ $blog }">blog</a> e seguirci su { -brand-name-twitter } sono un buon punto di partenza.
+nightly-whatsnew-if-you-want-to = Se vuoi sapere che cosa succede intorno a { -brand-name-nightly } e alla sua community, leggere il nostro <a href="{ $blog }">blog</a> e seguirci su <a href="{ $twitter }">{ -brand-name-twitter }</a> sono un buon punto di partenza.
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Vuoi conoscere in anteprima quali funzionalità puoi provare in { -brand-name-nightly } ma non sono ancora disponibili in altre versioni di { -brand-name-firefox }? Dai un’occhiata alla pagina <a href="{ $mdn }">Funzionalità sperimentali</a> su <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.

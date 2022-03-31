@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -38,7 +38,7 @@ misinformation-firefox-keeps-trackers-desc = Come accennato in precedenza, il tr
 misinformation-social-media-clean-heading = { -brand-name-firefox } ti aiuta a tenere puliti i feed dei tuoi social media:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
-misinformation-social-media-clean-desc = I social network sanno molto di te. In più, sono in grado di tracciarti al di fuori della loro piattaforma usando i tasti Condividi e Mi piace, aggirando la protezione antitracciamento e anche se non possiedi un account. Il <a href="{ $container }">{ -brand-name-facebook-container } per { -brand-name-firefox } si assicura che { -brand-name-facebook } e { -brand-name-instagram } non possano farlo così facilmente, il che riduce in modo significativo la probabilità di vedere cattiva informazione tramite pubblicità e contenuti mirati.
+misinformation-social-media-clean-desc = I social network sanno molto di te. In più, sono in grado di tracciarti al di fuori della loro piattaforma usando i tasti Condividi e Mi piace, aggirando la protezione antitracciamento e anche se non possiedi un account. Il <a href="{ $container }">{ -brand-name-facebook-container }</a> per { -brand-name-firefox } si assicura che { -brand-name-facebook } e { -brand-name-instagram } non possano farlo così facilmente, il che riduce in modo significativo la probabilità di vedere cattiva informazione tramite pubblicità e contenuti mirati.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } ti aiuta a mettere in evidenza i contenuti meritevoli di attenzione:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
