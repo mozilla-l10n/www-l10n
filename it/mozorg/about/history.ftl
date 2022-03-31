@@ -52,7 +52,7 @@ history-new-versions-of-firefox = Da allora nuove versioni di { -brand-name-fire
 history-the-renewed-competition = La rinnovata concorrenza ha <a href="{ $innovation }">accelerato il processo di innovazione</a>, portando a un grande miglioramento di Internet per tutti gli utenti.
 # Variables:
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
-history-in-2013-we-launched-firefox = Nel 2013, abbiamo lanciato <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> per sprigionare tutta la potenza del Web anche sui dispositivi mobile e offrire ancora una volta controllo e scelta a una nuova generazione di utenti che iniziano a utilizzare la rete.
+history-in-2013-we-launched-firefox = Nel 2013, abbiamo lanciato <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> per sprigionare tutta la potenza del Web anche sui dispositivi <em>mobile</em> e offrire ancora una volta controllo e scelta a una nuova generazione di utenti che iniziano a utilizzare la rete.
 history-mozilla-also-celebrated = Nel 2013 { -brand-name-mozilla } ha anche celebrato il suo quindicesimo anniversario.
 history-the-community-has-shown = La comunità ha dimostrato che le società commerciali possono trarre beneficio dalla collaborazione in progetti open source e che anche i grandi prodotti destinati al consumatore finale possono essere prodotti come software a sorgente aperto.
 # Variables:
