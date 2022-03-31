@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Kom yn 'e kunde mei ús produktefamylje
 firefox-home-get-trackers-off = Skodzje mear as 2000 trackers ôf – ynklusyf { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Wit wannear’t hackers taslaan – en bliuw se in stap yn it foar
 firefox-home-start-getting-breach = Untfang meldingen oer datalekken
+firefox-home-un-spam-your-life = Un-spam jo libben mei { -brand-name-relay }
+firefox-home-try-relay = Probearje { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Hâld jo wachtwurden feilich op elk apparaat
 # Obsolete string
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
