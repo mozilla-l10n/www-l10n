@@ -35,4 +35,5 @@ multi-newsletter-form-checkboxes-legend = Jeg ønsker information om:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Vælg mindst én af mulighederne.
+multi-newsletter-form-title = Vild med internettet?
 multi-newsletter-form-desc = Modtag { -brand-name-mozilla }s nyhedsbreve, og hjælp os med at holde nettet åbent og frit.
