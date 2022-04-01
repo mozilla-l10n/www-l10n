@@ -18,3 +18,12 @@ vpn-mac-wifi-copy = Navighescha grazia a { -brand-name-mozilla-vpn } cun in bun 
 vpn-mac-about-headline = Dad in sviluppader da tecnologia dal qual ti pos ta fidar
 vpn-mac-about-copy = Dapi l'onn 1998 è la missiun principala da { -brand-name-mozilla } da crear in meglier internet. Da products sco { -brand-name-firefox-browser } enfin l'engaschament per ils interess dals utilisaders en tut il mund – { -brand-name-mozilla } garantescha cun sia lavur che l'internet restia vinavant liber, gratuit ed avert per ina e mintgin.
 vpn-mac-privacy-headline = Protecziun da datas adina per mauns
+vpn-mac-privacy-copy = Cun { -brand-name-mozilla-vpn } vegn tia connexiun d'internet criptada e tia adressa IP protegida cunter attatgaders e purschiders d'internet mirveglius, grazia al protocol avanzà { -brand-name-wireguard }®.
+vpn-mac-servers-headline = Acceda a servers en tut il mund
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = Tscherna in da passa { $servers } servers en dapli che { $countries } pajais per definir la posiziun da tes { -brand-name-mac-short }. Quai ta pussibilitescha da vesair las novitads, far cumpras, streamar e navigar en il web da quasi mintga lieu.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Protegia enfin { $devices } apparats cun in singul abunament
