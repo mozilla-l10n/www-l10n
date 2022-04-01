@@ -27,3 +27,8 @@ vpn-mac-servers-copy = Tscherna in da passa { $servers } servers en dapli che { 
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Protegia enfin { $devices } apparats cun in singul abunament
+vpn-mac-devices-copy = Tes computer, tablet e smartphone meritan tuts da vegnir protegids. Utilisescha { -brand-name-mozilla-vpn } per proteger enfin { $devices } apparats cun { -brand-name-mac-short } ed { -brand-name-ios } (u era { -brand-name-windows }, { -brand-name-linux } ed { -brand-name-android }).
+vpn-mac-speed-headline = I n'è betg necessari da desister da sveltezza
+vpn-mac-speed-copy = In volumen da datas illimità e naginas restricziuns da sveltezza muntan che ti pos explorar las entgarnas da l'internet sco adina – e quai cun segirezza supplementara.
+vpn-mac-log-headline = Tge che ti fas online è tes affar
+vpn-mac-log-copy = Giauda il sentiment da segirezza cura che ti utiliseschas { -brand-name-mozilla-vpn }. Tias datas èn criptadas, tias activitads na vegnan mai registradas e tia sfera privata è adina protegida. Quai empermettain nus a tai.
