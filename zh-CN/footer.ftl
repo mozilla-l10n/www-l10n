@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla } 宣言
@@ -40,8 +40,8 @@ footer-developers = 开发者
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
-footer-nightly-for-android = { -brand-name-android } 版 { -brand-name-nightly }
-footer-beta-for-android = { -brand-name-android } 版 { -brand-name-beta }
+footer-nightly-for-android = { -brand-name-nightly }（{ -brand-name-android } 版）
+footer-beta-for-android = { -brand-name-beta }（{ -brand-name-android } 版）
 footer-visit-mozilla-corporations = 欢迎访问 <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> 的非营利母公司 — <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>。
 footer-portions-of-this-content = 上述内容中的某些部分系 mozilla.org 志愿者个人版权所有（©1998–{ $current_year }）。内容可按<a rel="license" href="{ $url }">{ -brand-name-creative-commons }许可协议</a>使用。
 footer-mozilla = { -brand-name-mozilla }

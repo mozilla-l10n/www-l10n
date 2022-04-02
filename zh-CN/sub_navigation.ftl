@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = 所有语言
 sub-navigation-firefox = { -brand-name-firefox }
@@ -19,7 +19,7 @@ sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = { -brand-name-ios } 版技术支持
 sub-navigation-android-support = { -brand-name-android } 版技术支持
-sub-navigation-android-beta = { -brand-name-android } 版 { -brand-name-beta }
+sub-navigation-android-beta = { -brand-name-beta }（{ -brand-name-android } 版）
 sub-navigation-desktop-beta-and-developer = 桌面版 { -brand-name-beta } 与 { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = 桌面版 { -brand-name-nightly }
 sub-navigation-features = 特色
