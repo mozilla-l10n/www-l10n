@@ -117,5 +117,12 @@ vpn-subnav-whats-an-ip-address = IP 地址是什么？
 vpn-subnav-when-to-use-a-vpn = 何时应该使用 VPN
 vpn-subnav-vpn-vs-proxy = VPN VS 代理
 
+## VPN Affiliate cookie notice
+
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = 我们使用 cookie 以了解是哪个合作伙伴向您推荐了 { -brand-name-mozilla-vpn }。我们不会与合作伙伴共享您的个人识别信息。详情请见我们的<a { $attrs }>隐私政策</a>。
+vpn-shared-affiliate-notification-reject = 拒绝
+
 ##
 

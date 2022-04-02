@@ -12,6 +12,7 @@ firefox-home-meet-our-family-of = 这是我们的系列产品
 firefox-home-get-trackers-off = 赶走 2,000 多组网络跟踪器 — { -brand-name-facebook } 也不在话下
 firefox-home-know-when-hackers-strike = 黑客来袭有提醒 — 抢先一步作反应
 firefox-home-start-getting-breach = 订阅数据外泄警报
+firefox-home-un-spam-your-life = 善用 { -brand-name-relay }，从垃圾邮件中脱身
 firefox-home-try-relay = 试用 { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = 让密码时时安全、处处可及
