@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Scuvra nossa paletta da products
 firefox-home-get-trackers-off = Stgatscha passa 2'000 fastizaders – inclusivamain quels da { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Infurmà en cas che hackers attatgan – e gia in pass pli lunsch
 firefox-home-start-getting-breach = Obtegna rapports da perditas da datas
+firefox-home-un-spam-your-life = Fa fin cun spam grazia a { -brand-name-relay }
+firefox-home-try-relay = Emprova { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Tegna en salv tes pleds-clav en in lieu segir – sin tuts tes apparats
 # Obsolete string
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser(capitalization: "up
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
