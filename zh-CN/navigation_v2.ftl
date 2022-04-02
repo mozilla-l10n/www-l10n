@@ -49,6 +49,7 @@ navigation-v2-sign-up-for-new-accounts = 无须电子邮件地址也能注册新
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network }（测试版）
 navigation-v2-protect-your-browsers-connection = 保护浏览器与互联网之间的连接。
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = { -brand-name-mdn } 定制化体验：新特性、新工具
 navigation-v2-view-all-products = 一览所有产品
 
 ## Who We Are menu
