@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Descubre nuestra familia de productos
 firefox-home-get-trackers-off = Líbrate de más de 2000 rastreadores — incluyendo { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Recibe avisos cuando los hackers actúen — y mantente siempre un paso por delante
 firefox-home-start-getting-breach = Empieza a recibir informes sobre filtraciones
+firefox-home-un-spam-your-life = Elimina el spam de tu vida con { -brand-name-relay }
+firefox-home-try-relay = Prueba { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Protege tus contraseñas en cada dispositivo
 # Obsolete string
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
