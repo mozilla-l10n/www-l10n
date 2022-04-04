@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } e reja që Firefox-i ofron për zhvilluesit janë të fuqishme, të lakueshme, dhe më e mira e të mirave, të përpunueshme. Këtu përfshihen një diagnostikues JavaScript nga më të mirët, që mund të trajtojë shumë shfletues njëherësh dhe që është ndërtuar me React dhe Redux.
 firefox-developer-master-css-grid = Zotëroni Rrjetën CSS
+# outdated
 firefox-developer-next-gen-css-engine = Mekanizëm CSS i Brezit Pasues
+firefox-developer-built-for-developers = Ngritur për Zhvillues
 firefox-developer-a-next-generation = Mekanizëm CSS i Brezit Pasues
 firefox-developer-master-innovative-features = Veçori Risore
 firefox-developer-want-to-be-on-the-cutting-edge = Doni të jeni në pararojë?

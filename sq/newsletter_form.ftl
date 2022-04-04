@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Ju lutemi, jepni një adresë email të vlefshme
 newsletter-form-you-must-agree-to = Duhet të pajtoheni me shënimin mbi privatësinë.
@@ -31,3 +31,9 @@ newsletter-form-thanks = Faleminderit!
 newsletter-form-leave-this-field-empty = Lëreni të zbrazët këtë fushë.
 newsletter-form-yes = Po
 newsletter-form-no = Jo
+multi-newsletter-form-checkboxes-legend = Dua informacion mbi:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Ju lutemi, i vini shenjë të paktën njërës nga mundësitë për buletinë.
+multi-newsletter-form-title = Duajeni Web-in
+multi-newsletter-form-desc = Merrni buletinet e { -brand-name-mozilla }-s dhe ndihmonani ta mbajmë internetin të hapur dhe të lirë.
