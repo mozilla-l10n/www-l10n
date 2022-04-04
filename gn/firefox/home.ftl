@@ -12,6 +12,7 @@ firefox-home-meet-our-family-of = Eikuaa ore apopyre ñemigua aty.
 firefox-home-get-trackers-off = Hetave 2,000 tapykuehoha osẽ nde rapégui — { -brand-name-facebook } avei
 firefox-home-know-when-hackers-strike = Eikuaa mba’evaiapoha jeju — eime chugui tenondeve
 firefox-home-start-getting-breach = Og̃uahẽta ndéve marandu ñembyai rehegua
+firefox-home-try-relay = Eipuru { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Emohekorosã ne ñe’ẽñemi peteĩteĩva mba’e’okápe
 # Obsolete string
@@ -53,3 +54,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
