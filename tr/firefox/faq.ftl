@@ -1,18 +1,20 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } Hakkında SSS
+whether-you-searched-independant = Hızlı bir tarayıcı ya da gizliliğinizi koruyan bağımsız bir teknoloji arıyorsanız { -brand-name-firefox } ile ilgili sorularınızın cevapları bu SSS'de.
 what-is-firefox = { -brand-name-firefox } nedir?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } kişisel bilgilerinizi korumanıza yardımcı olurken, kişisel verilerinizi reklamverenlere satmayan, kâr amacı gütmeyen bir kuruluş tarafından desteklenen tek büyük tarayıcıdır. <a href="{ $url }">{ -brand-name-firefox-browsers }</a> ve <a href="{ $url2 }"> diğer ürünlerimiz</a> hakkında bilgi alın.
 how-do-i = { -brand-name-firefox-browser }nı nasıl indirebilirim?
 
 # Variables:
@@ -58,7 +60,7 @@ does-firefox-have = { -brand-name-firefox }'ta yerleşik bir VPN var mı?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 related-questions-ip = İlgili sorular: { -brand-name-firefox } IP adresinizi gizler mi
 who-owns-firefox = { -brand-name-firefox }'un sahibi kim?
