@@ -119,6 +119,9 @@ vpn-subnav-vpn-vs-proxy = VPN contra Proxy
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Nos usa le cookies pro comprender que partner affiliate te duceva a { -brand-name-mozilla-vpn }. Nos non comparti informationes de identification personal con nostre partners. Lege nostre<a { $attrs }>Politica de confidentialitate</a>.
 vpn-shared-affiliate-notification-reject = Rejectar
 
 ##
