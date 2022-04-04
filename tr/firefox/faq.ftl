@@ -24,6 +24,7 @@ how-do-i = { -brand-name-firefox-browser }nı nasıl indirebilirim?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = { -brand-name-firefox } masaüstü tarayıcısını <a href="{ $url }">buradan</a> kolayca indirebilirsiniz. { -brand-name-firefox } <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> ve <a href="{ $url4 }">{ -brand-name-linux }</a> cihazlarda da çalışır; ayrıca <a href="{ $url5 }">{ -brand-name-android } ve { -brand-name-ios }</a> sürümleri mevcuttur. Tarayıcımızı güvenilir { -brand-name-mozilla }/{ -brand-name-firefox } sayfalarımızdan indirdiğinizden emin olun.
 is-firefox-free = { -brand-name-firefox } ücretsiz mi?
 yep-the-firefox = Evet! { -brand-name-firefox-browser } ücretsiz. Hem de tamamen ücretsiz. Gizli maliyet falan yok. Kullanmak için hiçbir ödeme yapmıyorsunuz ve kişisel verilerinizi satmıyoruz.
 related-questions-free = İlgili sorular: { -brand-name-firefox-browser } bedava mı, { -brand-name-firefox } ücretli mi
@@ -34,6 +35,7 @@ no-we-dont = Hayır, bizce { -brand-name-chrome } { -brand-name-firefox }’tan 
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">{ -brand-name-firefox } ile { -brand-name-chrome }’un karşılaştırmasına bakın.</a>
+related-questions-better = İlgili sorular: { -brand-name-firefox } { -brand-name-chrome }'dan daha mı iyi, { -brand-name-firefox } { -brand-name-google }'dan daha mı iyi, { -brand-name-firefox } { -brand-name-chrome }'dan daha mı güvenli, { -brand-name-firefox } { -brand-name-chrome }'dan daha mı gizli
 is-firefox-safe-download = { -brand-name-firefox }’u indirmek güvenli mi?
 
 # Variables:
