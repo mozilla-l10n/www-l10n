@@ -26,3 +26,18 @@ vpn-platforms-shared-feature-item-access = Access a servers en passa { $countrie
 vpn-platforms-shared-feature-item-strong-servers = Servers potents en passa { $countries } pajais
 vpn-platforms-shared-feature-item-encryption = Criptadi a nivel da l'apparat
 vpn-platforms-shared-feature-item-bandwidth = Nagina restricziun dal volumen da datas transferibel
+vpn-platforms-shared-feature-item-logs = Naginas registraziuns da tias activitads online – mai
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Computer desktop
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Apparats mobils
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-platforms-shared-trust-partner-headline = Davart noss partenari fidabel
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-platforms-shared-trust-partner = { -brand-name-mozilla-vpn } funcziuna sin ina rait globala da servers gestiunads da <a href="{ $policy }">{ -brand-name-mullvad }</a> che utiliseschan il protocol <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } dat la prioritad a tia sfera privata e na memorisescha naginas registraziuns.
