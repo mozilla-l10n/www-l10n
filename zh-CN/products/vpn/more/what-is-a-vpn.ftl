@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
@@ -15,7 +15,7 @@ vpn-what-is-a-vpn-is = VPN 是一种可以让您随时随地安全访问互联�
 vpn-what-is-concealing-your-ip = 掩藏您的 IP 地址，以保护您的个人身份和位置。
 vpn-what-is-encrypting-your-traffic = 加密您与 VPN 提供商之间的流量，杜绝本地网络上的任何人进行解密或修改。
 vpn-what-is-in-the-past = 过去，VPN 主要被企业用于其内部服务和专有数据的远程安全访问。但现在，任何想要保护自己互联网连接的人都可以使用 VPN，尤其是在使用公共 WiFi 等非安全网络时，甚至家庭网络上也有用武之地。
-vpn-what-is-a-vpn-will = VPN 将保护您与 VPN 提供商之间的流量，无论这些流量是通过浏览器、应用程序还是其他服务产生。要设置 VPN，您需要在 VPN 提供商处创建一个帐户，并在您的计算机或手机上安装 VPN 软件。启用后，VPN 将处理您设备上的所有应用程序和软件产生的流量，因此您可以通过安全的专用网络连接自由地浏览和通信。
+vpn-what-is-a-vpn-will = VPN 将保护您与 VPN 提供商之间的流量，无论这些流量是通过浏览器、应用程序还是其他服务产生。要设置 VPN，您需要在 VPN 提供商处创建一个账户，并在您的计算机或手机上安装 VPN 软件。启用后，VPN 将处理您设备上的所有应用程序和软件产生的流量，因此您可以通过安全的专用网络连接自由地浏览和通信。
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
