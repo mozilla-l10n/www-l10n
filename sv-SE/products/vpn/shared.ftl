@@ -119,6 +119,9 @@ vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Vi använder kakor för att förstå vilken avtalspartner som ledde dig till { -brand-name-mozilla-vpn }. Vi delar inte personligt identifierande information med våra partners. Läs vår <a { $attrs }>sekretesspolicy</a>.
 vpn-shared-affiliate-notification-reject = Avvisa
 
 ##
