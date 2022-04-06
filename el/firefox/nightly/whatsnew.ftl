@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -23,5 +23,5 @@ nightly-whatsnew-if-you-want-to = Αν θέλετε να μαθαίνετε τα
 nightly-whatsnew-want-to-know-which = Θέλετε να μάθετε ποιες λειτουργίες μπορείτε να δοκιμάσετε στο { -brand-name-nightly }, ενώ δεν υπάρχουν ακόμα σε άλλα κανάλια του { -brand-name-firefox }; Τότε, ρίξτε μια ματιά στη σελίδα <a href="{ $mdn }">Πειραματικές λειτουργίες</a> του <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
-nightly-whatsnew-do-you-experience = Αντιμετωπίζετε σφάλματα; Απροσδόκητες συμπεριφορές; Ασυμβατότητες στο διαδίκτυο; Θα θέλαμε να τα αναφέρετε στο <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> για να βεβαιωθούμε ότι δεν θα φτάσουν στην τελική έκδοση (επιπλέον κάρμα αν προσθέστε τη λέξη-κλειδί <em>{ -brand-name-nightly }-community </em> στις αναφορές σφαλμάτων σας)!
+nightly-whatsnew-do-you-experience = Αντιμετωπίζετε σφάλματα; Απροσδόκητες συμπεριφορές; Ασυμβατότητες στο διαδίκτυο; Θα θέλαμε να τα αναφέρετε στο <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> για να βεβαιωθούμε ότι δεν θα φτάσουν στην τελική έκδοση (επιπλέον κάρμα αν προσθέστε τη λέξη-κλειδί «<em>{ -brand-name-nightly }-community </em>» στις αναφορές σφαλμάτων σας)!
 nightly-whatsnew-go-community = Εμπρός κοινότητα!
