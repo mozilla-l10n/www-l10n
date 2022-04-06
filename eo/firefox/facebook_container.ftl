@@ -1,16 +1,18 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = Ingo de { -brand-name-facebook } por { -brand-name-firefox } | Ne permesi al { -brand-name-facebook } vidi kiujn retejojn vi vizitas.
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } por { -brand-name-firefox } | Ne permesi al { -brand-name-facebook } vidi kiujn retejojn vi vizitas.
 facebook-container-millions-of-people-around = Milionoj da personoj ĉirkaŭ la mondo fidas la retumilojn { -brand-name-firefox } en { -brand-name-android }, { -brand-name-ios } kaj komputiloj. Rapida. Privata. Elŝutu nun!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Bone barita. Gardu la ceteron de via vivo privata.
-facebook-container-get-the-facebook-container = Ricevi la etendaĵon por la ingo de Facebook
+facebook-container-get-the-facebook-container = Elŝuti la etendaĵon { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Elŝutu { -brand-name-firefox } kaj ricevu la etendaĵon por la ingo de Facebook
+# Outdated string
 facebook-container-the-facebook-container-extension = La etendaĵo por la ingo de Facebook ne estas disponebla por poŝaparatoj.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Provi <strong>{ -brand-name-firefox-focus }</strong>, la privateca retumilo por { -brand-name-android } kaj { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Vi rajtas diri ne
