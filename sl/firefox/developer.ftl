@@ -53,6 +53,7 @@ firefox-developer-edit-and-manage = Uredite in upravljajte svoje slogovne predlo
 firefox-developer-learn-more-about-style = Več o urejevalniku sloga
 firefox-developer-new-tools = Nova orodja
 firefox-developer-inactive-css = Neaktivni CSS
+firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } zdaj zasenči lastnosti CSS, ki nimajo učinka na stran. Ko podržite miškin kazalec nad ikono z informacijami, se prikaže uporabno sporočilo o tem, zakaj CSS ni uveljavljen, vključno z namigom, kako odpraviti težavo.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Nova Firefoxova orodja za razvijalce so zmogljiva in prilagodljiva, lahko pa jih tudi hekate. Vključujejo najboljši razhroščevalnik JavaScripta v razredu, ki lahko pokriva več brskalnikov, ter je razvit z Reactom in Reduxom.
 firefox-developer-master-css-grid = Obvladajte mrežo CSS
