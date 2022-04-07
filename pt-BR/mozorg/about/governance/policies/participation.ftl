@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/governance/policies/participation/
@@ -35,7 +35,7 @@ participation-working-with-other = trabalhar com outros Mozillians e participant
 participation-representing-mozilla = representar a { -brand-name-mozilla } em eventos públicos;
 participation-representing-mozilla-social = representar a { -brand-name-mozilla } em mídias sociais (contas oficiais, contas da equipe, contas pessoais, páginas do { -brand-name-facebook });
 participation-participating-in-mozilla = participar de eventos externos e treinamentos da { -brand-name-mozilla };
-participation-participating-in-mozilla-related = participar de fóruns, listas de discussão, wikis, sites, canais de bate-papo, relatórios de erros, reuniões em grupo ou individuais e correspondências relacionadas a { -brand-name-mozilla }.
+participation-participating-in-mozilla-related = Participar de fóruns, listas de emails, wikis, sites, canais de conversa, relatórios de erros, reuniões em grupo ou individuais e correspondências relacionadas à { -brand-name-mozilla }.
 participation-these-guidelines-work = Estas diretrizes funcionam em conjunto com as nossas Políticas contra Assédio/Discriminação <a href="{ $note1 }">[1]</a>, que estabelecem proteções e obrigações para os funcionários da { -brand-name-mozilla }. As Políticas contra Assédio/Discriminação foram elaboradas, levando em consideração os requisitos e as definições legais específicas.
 participation-while-these-guidelines = Embora estas diretrizes/código de conduta sejam específicas para o trabalho e a comunidade da { -brand-name-mozilla }, reconhecemos que as ações realizadas fora dos espaços online ou individuais da { -brand-name-mozilla } podem ter impacto profundo na comunidade. Por exemplo, no passado, identificamos publicamente uma publicação anônima dirigida a um funcionário da { -brand-name-mozilla } em um fórum não pertencente à { -brand-name-mozilla } como motivo claro para sua remoção da nossa comunidade. Esse é um tópico presente no âmbito de diversidade e inclusão. Prevemos diversas discussões nas nossas comunidades sobre os limites adequados.
 participation-expected-behavior = Comportamento esperado
