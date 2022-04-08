@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -16,7 +16,7 @@ home-when-you-use-firefox-you-help = როდესაც იყენებთ
 home-working-to-keep-the-internet = მუშაობა ინტერნეტის სიჯანსაღის, გახსნილობისა და საყოველთაო ხელმისაწვდომობისთვის, ჩვენ ვასწავლით ვებლიტერატურას, ვაძლევთ საშუალებას და ვუცხადებთ მხარდაჭერას თითოეულ ადამიანს, ვისთვისაც ღირებულია ინტერნეტი, როგორც საერთაშორისო, საჯარო რესურსი.
 home-working-at-the-grassroots-and = ჩვენ ყველა დონეზე ვმუშაობთ ვებლიტერატურის მიმართულებით ცოდნის გასავრცელებლად, ვაძლევთ საშუალებას და ვუცხადებთ მხარდაჭერას თითოეულ ადამიანს, ვისთვისაც ღირებულია ინტერნეტი, როგორც საერთაშორისო საჯაროდ ხელმისაწვდომი რესურსი.
 home-mozilla-information-trust-initiative = { -brand-name-mozilla } ინფორმაციის სანდოობის ზრდის ხელშეწყობა
-home-empowering-women-online = ქალების ჩართულობის ზრდა, ტექნიკურ სფეროებში
+home-empowering-women-online = ქალების ჩართულობის ზრდა, ტექნიკურ დარგებში
 home-the-coral-project = Coral პროექტი
 home-read-our-internet-health-report = გაეცანით ჩვენს მოხსენებას ინტერნეტზე
 home-our-innovations = ჩვენ მიერ დანერგილი სიახლეები
