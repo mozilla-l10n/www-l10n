@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -16,13 +16,11 @@ firefox-is-independent = { -brand-name-firefox } დამოუკიდებ�
 what-is-a = რა არის ბრაუზერი?
 a-web-browser = ბრაუზერი გამოგზაურებთ ინტერნეტის ნებისმიერ წერტილში, საშუალებას გაძლევთ იხილოთ ტექსტები, სურათები და ვიდეოები, მთელი მსოფლიოდან.
 update-your-browser = გამოიყენეთ ბრაუზერად სწრაფი, უსაფრთხო და დაცული { -brand-name-firefox }.
-the-firefox-browser = { -brand-name-firefox }-ბრაუზერი აგებულია თქვენი პირდაულობის მუდმივად დასაცავად — ვინაიდან ესაა უსწრაფესი გზა გათავისუფლდეთ შენელებებისგან, მავნე რეკლამებისა და მეთვალყურეებისგან.
+the-firefox-browser = { -brand-name-firefox }-ბრაუზერი აგებულია თქვენი პირდაულობის მუდმივად დასაცავად — ვინაიდან ესაა უსწრაფესი გზა გათავისუფლდეთ შენელებისგან, მავნე რეკლამებისა და მეთვალყურეებისგან.
 firefox-is-more = { -brand-name-firefox } მეტია, ვიდრე უბრალოდ ბრაუზერი
 its-a-lightning = ესაა ნათელი და სწრაფი გზა, ინტერნეტის უკეთ გამოსაყენებლად.
 get-the-browsers = ისარგებლეთ ბრაუზერებით, რომელთათვისაც თქვენი პირადულობა უმთავრესია — და მუდამ ასე იქნება
 get-the-privacy = მიიღეთ პირადი მონაცემების ხელშეუხებლობა, რომელსაც იმსახურებთ. თვალთვალისგან გაძლიერებული დაცვა თავისთავად უზრუნველყოფს პირადულობას, ბრაუზერის ყოველი გამოყენებისას.
-take-your-passwords = თან წაიყოლეთ თქვენი პაროლები ყველგან
-securely-access-the = უსაფრთხო წვდომა პაროლებთან, რომლებსაც ინახავს { -brand-name-firefox }, ნებისმიერი ადგილიდან — მათ შორის ბრაუზერის გარეშეც.
 choose-which-firefox = აირჩიეთ, რომელი { -brand-name-firefox-browser } გსურთ ჩამოტვირთოთ თქვენს ენაზე
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } { -brand-name-chromebook }-ზე
 firefox-more-while-on-chromebook = მართალია { -brand-name-chromebook }-ს უკვე აქვს { -brand-name-chrome } დაყენებული, მაგრამ { -brand-name-firefox }-ის გადმოწერა და ყოველდღიურ ბრაუზერად გამოყენება გაძლევთ შემდეგ უპირატესობებს:
@@ -34,7 +32,7 @@ firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-more-access-your-sync = დაასინქრონეთ წვდომისთვის თქვენი სანიშნები, პაროლები და ა.შ. — ყველგან, სადაც გიყენიათ { -brand-name-firefox }.
 we-believe-everyone = ჩვენ მიგვაჩნია, რომ ყველას უნდა ჰქონდეს წვდომა ინტერნეტთან — სწორედ ამიტომაა { -brand-name-firefox-browser } ხელმისაწვდომი 90-ზე მეტ ენაზე, ჩვენი ერთგული მოხალისეების წყალობით, მთელი მსოფლიოდან.
 firefox-fights-for = { -brand-name-firefox } იბრძვის თქვენთვის { -brand-name-windows }-ზე
-easy-migration-of = გადმოიტანეთ პარამეტრები და სანიშნები მარტივად, როცა ჩამოტვირთავთ { -brand-name-firefox }-ს { -brand-name-windows }-ზე.
+easy-migration-of = გადმოიტანეთ პარამეტრები და სანიშნები მარტივად, როგორც კი ჩამოტვირთავთ { -brand-name-firefox }-ს { -brand-name-windows }-ზე.
 firefox-respects-your = { -brand-name-firefox } პატივს სცემს თქვენს პირადულობას { -brand-name-mac-short }-ზე.
 firefox-doesnt-spy = { -brand-name-firefox } არ გადევნებთ თვალს ძიებისას. ჩვენ ვზღუდავთ თვალთვალს გარეშე ფუნთუშების მეშვეობით და სრულად გიბრუნებთ მართვის სადავეებს.
 firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }-ზე

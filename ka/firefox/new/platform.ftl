@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/windows/
@@ -58,8 +58,8 @@ new-platform-download-mozilla-desc-windows = ჩამოტვირთეთ {
 new-platform-download-the-fastest-windows = ჩამოტვირთეთ უსწრაფესი { -brand-name-firefox } { -brand-name-windows }-ზე
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = გვერდების მეტად სწრაფი გახსნა, მეხსიერების ნაკლები მოხმარება, უამრავ დამატებით შესაძლებლობებთან ერთად, ახალი { -brand-name-firefox } { -brand-name-windows }-ისთვის გელით.
-new-platform-firefox-moves-fast = { -brand-name-firefox } მოქმედებს სწრაფად და ზრუნავს თქვენი მონაცემების უსაფრთხოებაზე – არავითარი თვალყურისმდევნელი რეკლამები და შენელებები.
+new-platform-firefox-moves-fast = { -brand-name-firefox } მოქმედებს სწრაფად და ზრუნავს თქვენი მონაცემების უსაფრთხოებაზე – არავითარი თვალყურისმდევნელი რეკლამები და შეფერხებები.
 new-platform-common-sense-privacy = ჯანსაღი პირადულობა
 new-platform-live-your-life = იცხოვრეთ თქვენი ცხოვრებით, { -brand-name-firefox } არ გადევნებთ თვალს. თავად აირჩიეთ რისი გაზიარება გსურთ და როდის.
 new-platform-seamless-setup = ადვილად გასამართი
-new-platform-easy-migration = პარამეტრებისა და სანიშნების მარტივი გადმოტანა, როცა ჩამოტვირთავთ { -brand-name-firefox }-ს { -brand-name-windows }-ზე.
+new-platform-easy-migration = გადმოიტანეთ პარამეტრები და სანიშნები მარტივად, როგორც კი ჩამოტვირთავთ { -brand-name-firefox }-ს { -brand-name-windows }-ზე.
