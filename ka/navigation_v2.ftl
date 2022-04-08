@@ -48,6 +48,8 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (საცდ�
 navigation-v2-sign-up-for-new-accounts = შექმენით ახალი ანგარიშები, თქვენი ელფოსტის გამჟღავნების გარეშე.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (საცდელი)
 navigation-v2-protect-your-browsers-connection = დაიცავით თქვენი ბრაუზერის კავშირი ინტერნეტთან.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = ახალი შესაძლებლობები, ხელსაწყოები და უკეთ მორგებული { -brand-name-mdn }
 navigation-v2-view-all-products = იხილეთ ყველა პროდუქტი
 
 ## Who We Are menu

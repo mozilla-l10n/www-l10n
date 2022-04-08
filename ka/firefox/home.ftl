@@ -12,6 +12,7 @@ firefox-home-meet-our-family-of = იხილეთ ჩვენი პრო�
 firefox-home-get-trackers-off = აირიდეთ 2,000+ მეთვალყურე — მათ შორის { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = შეიტყვეთ, ჰაკერული შეტევების შესახებ — იყავით წინდახედული
 firefox-home-start-getting-breach = მიიღეთ შეტყობინებები მონაცემების მიტაცებებზე
+firefox-home-try-relay = გამოცადეთ { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = დაიცავთ თქვენი პაროლები თითოეულ მოწყობილობაზე
 # Obsolete string
@@ -53,3 +54,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }

@@ -117,5 +117,9 @@ vpn-subnav-whats-an-ip-address = რა არის IP-მისამართ
 vpn-subnav-when-to-use-a-vpn = როდის გამოვიყენოთ VPN
 vpn-subnav-vpn-vs-proxy = VPN თუ პროქსი
 
+## VPN Affiliate cookie notice
+
+vpn-shared-affiliate-notification-reject = უარყოფა
+
 ##
 
