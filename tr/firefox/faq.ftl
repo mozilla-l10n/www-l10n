@@ -46,6 +46,7 @@ is-firefox-safe = { -brand-name-firefox } güvenli mi?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+related-questions-safe = İlgili sorular: { -brand-name-firefox } gizlilik için iyi mi, { -brand-name-firefox } güvenli mi, { -brand-name-firefox } gizlilik için daha mı iyi
 does-firefox-sell = { -brand-name-firefox } kişisel verilerimi satıyor mu?
 
 # Variables:
