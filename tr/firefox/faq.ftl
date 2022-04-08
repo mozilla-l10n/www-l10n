@@ -46,19 +46,24 @@ is-firefox-safe = { -brand-name-firefox } güvenli mi?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = { -brand-name-firefox } yalnızca güvenilir olmakla kalmıyor, verilerinizi ve özel bilgilerinizi de güvende tutuyor. { -brand-name-firefox-browser } üçüncü taraf takip kodlarının, sosyal medya takip kodlarının, kripto madencilerinin ve parmak izi toplayıcılarının verilerinizi toplamasını otomatik olarak engelliyor. <a href="{ $url }">Ürünlerimizin gizlilik uygulamaları hakkında daha fazla bilgi alın.</a>
 related-questions-safe = İlgili sorular: { -brand-name-firefox } gizlilik için iyi mi, { -brand-name-firefox } güvenli mi, { -brand-name-firefox } gizlilik için daha mı iyi
 does-firefox-sell = { -brand-name-firefox } kişisel verilerimi satıyor mu?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Hayır, asla satmadık ve satmayacağız. Ayrıca sizi bunu yapan birçok reklamverenden koruyoruz. { -brand-name-firefox } ürünlerini gizliliğinizi korumak için tasarladık. <a href="{ $url }">Sözümüz söz.</a>
 why-is-firefox = { -brand-name-firefox } neden bu kadar yavaş?
+firefox-isnt-slow = { -brand-name-firefox } artık yavaş değil. 2017'de { -brand-name-firefox }'un diğer büyük tarayıcılarla rekabet edebilmesi için Quantum adlı tarayıcı motorumuzu baştan yarattık. Ayrıca takip kodu engelleyicilerimiz sayfaların daha da hızlı yüklenmesini sağlıyor. Yani { -brand-name-firefox } gizliliğinizden ödün vermeden ışık hızında çalışıyor.
 is-firefox-chromium = { -brand-name-firefox } { -brand-name-chromium } tabanlı mı?
+firefox-is-not = { -brand-name-firefox } { -brand-name-chromium } ({ -brand-name-google } { -brand-name-chrome }'un merkezindeki açık kaynaklı tarayıcı projesi) tabanlı değil. Aslına bakılırsa Chromium tabanlı olmayan son büyük tarayıcılardan biriyiz. { -brand-name-firefox } tarayıcısı { -brand-name-firefox } için özel olarak tasarlanmış Quantum tarayıcı motorunu kullanıyor. Böylece verilerinizin emin ellerde ve gizli tutulduğundan emin olabiliyoruz.
 does-firefox-use = { -brand-name-firefox } { -brand-name-google }’ı kullanıyor mu?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google }, { -brand-name-firefox }'taki varsayılan arama motoru. Bu sayede doğrudan adres çubuğundan web'de arama yapabiliyorsunuz. <a href="{ $url }">Arama motoru tercihleri ve varsayılanları değiştirme hakkında daha fazla bilgi alın.</a>
 does-firefox-have = { -brand-name-firefox }'ta yerleşik bir VPN var mı?
 
 # Variables:
@@ -72,3 +77,5 @@ who-owns-firefox = { -brand-name-firefox }'un sahibi kim?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox }, kâr amacı gütmeyen <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>'nın yan kuruluşu { -brand-name-mozilla-corporation } tarafından { -brand-name-mozilla } Manifestosu'nun prensiplerine göre geliştiriliyor. { -brand-name-firefox }'un geliştiricisi hakkında <a href="{ $url2 }">buradan</a> daha fazla bilgi alabilirsiniz.
+related-questions-who = İlgili sorular: { -brand-name-firefox } kime ait, { -brand-name-firefox-browser }'un sahibi kim, { -brand-name-firefox }'un sahibi { -brand-name-google } mı, { -brand-name-mozilla } { -brand-name-firefox }'un sahibi { -brand-name-google } mu
