@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -10,6 +10,7 @@ compare-shared-yes = 예
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = 아니오
 compare-shared-private-browsing-mode = 사생활 보호 모드
+compare-shared-blocks-third-party-tracking-default = 기본적으로 제3자 추적 쿠키 차단
 # Obsolete string
 compare-shared-blocks-third-party-tracking = 제3자 추적 쿠키 차단
 compare-shared-blocks-cryptomining-scripts = 암호화폐 채굴 스크립트 차단
