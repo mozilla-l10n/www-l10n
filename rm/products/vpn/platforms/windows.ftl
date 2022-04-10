@@ -16,3 +16,7 @@ vpn-windows-ability = Ti meritas da ta sentir segir online nua ch'i saja, tant a
 vpn-windows-wifi-headline = Sfera privata garantida er en in WLAN public
 vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } protegia tia connexiun cun l'internet dad egliadas mirvegliusas, uschia che ti pos far dapertut tes affars – a l'eroport, en ina chombra d'hotel, en in café – senza ta far quitads per tia sfera privata online.
 vpn-windows-about-headline = Dal leader da la protecziun da datas en l'internet
+vpn-windows-about-copy = L'organisaziun senza finamira da profit che stat davos il { -brand-name-firefox-browser }, { -brand-name-mozilla }, è ina cuminanza da burgais da l'internet da tut il mund che s'engascha per che l'internet restia ina resursa gratuita ed averta per ina e mintgin. Igl è la missiun da { -brand-name-mozilla } da dar la prioritad a las persunas e betg al profit e da garantir che mintga product sviluppà saja en emprima lingia bun per tai.
+vpn-windows-privacy-headline = Protecziun cun tutgar in singul buttun
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } criptescha tia connexiun d'internet e zuppa tia adressa IP dad egliadas mirvegliusas sin tes desktop u laptop cun agid dal protocol avanzà { -brand-name-wireguard }®.
+vpn-windows-servers-headline = Acceda a servers en tut il mund
