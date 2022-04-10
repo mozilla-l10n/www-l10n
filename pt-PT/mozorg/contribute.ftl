@@ -22,12 +22,14 @@ contribute-task-translate-heading = Tradução de conteúdo
 
 ## Mission
 
+contribute-mission-heading = A nossa missão
 
 ## Made by
 
 
 ## Newsletter
 
+contribute-newsletter-heading = Ainda não tem a certeza?
 
 ## Support
 
@@ -35,3 +37,4 @@ contribute-support-heading = Obter ajuda
 
 ## Web compat
 
+contribute-report-issue = Reportar um problema
