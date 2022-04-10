@@ -1,12 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-the-browser-is-just = Браузер - бұл тек бастамасы
 firefox-home-meet-our-family-of = Біздің өнімдеріміздің отбасымен таныс болыңыз
+# Obsolete string
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } туралы көбірек білу
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Бір логин. Барлық құрылғыларыңыз. Сіздің <strong>жекелігіңізді</strong> құрметтейтін өнімдер отбасы.
@@ -14,6 +15,7 @@ firefox-home-get-the-browser-extension = Браузер кеңейтуін ал�
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } кеңейтуін алу
 firefox-home-download-the-browser = Браузерді жүктеп алу
 firefox-home-download-the-app = Қолданбаны жүктеп алу
+firefox-home-get-mozilla-vpn = { -brand-name-mozilla-vpn } алу
 firefox-home-desktop = Жұмыс үстелі
 firefox-home-browsers = Браузерлер
 firefox-home-android = { -brand-name-android }
