@@ -13,3 +13,6 @@ vpn-windows-page-description = Protegia tes entir PC cun ina rait privata virtua
 # Windows strings
 vpn-windows-hero-headline = Resta connectà e protegì grazia a { -brand-name-mozilla-vpn } per { -brand-name-windows } 10
 vpn-windows-ability = Ti meritas da ta sentir segir online nua ch'i saja, tant a chasa sco en viadi. Cun { -brand-name-mozilla-vpn } pos ti utilisar il WLAN public, savend che tia connexiun è protegida cunter attatgaders e purschiders d'internet mirveglius. Noss VPN sa lascha utilisar facilmain e stat a disposiziun per { -brand-name-windows } 10 (e per tut tes auters apparats) e na ta ralentescha betg. Il clou è ch'i sa tracta dad in VPN da { -brand-name-mozilla } cun il protocol { -brand-name-wireguard }®. Uschia sas ti che tias datas èn criptadas e che tias activitads na vegnan betg registradas. Igl è simplamain in VPN elegant e potent che ta protegia.
+vpn-windows-wifi-headline = Sfera privata garantida er en in WLAN public
+vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } protegia tia connexiun cun l'internet dad egliadas mirvegliusas, uschia che ti pos far dapertut tes affars – a l'eroport, en ina chombra d'hotel, en in café – senza ta far quitads per tia sfera privata online.
+vpn-windows-about-headline = Dal leader da la protecziun da datas en l'internet
