@@ -20,3 +20,11 @@ vpn-windows-about-copy = L'organisaziun senza finamira da profit che stat davos 
 vpn-windows-privacy-headline = Protecziun cun tutgar in singul buttun
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } criptescha tia connexiun d'internet e zuppa tia adressa IP dad egliadas mirvegliusas sin tes desktop u laptop cun agid dal protocol avanzà { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Acceda a servers en tut il mund
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-windows-servers-copy = Cun passa { $servers } servers en dapli che { $countries } pajais pos ti far tge che ti vuls u stos far online – navigar, far cumpras, leger las novitads – cun tscherner ina posiziun da quasi l'entir mund per tes apparat.
+vpn-windows-devices-headline = In abunament per tuts tes apparats
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = In abunament da { -brand-name-mozilla-vpn } ta garantescha l'access illimità a noss servetsch segir da VPN per in dumber da maximalmain { $devices } apparats da { -brand-name-windows } ({ -brand-name-windows } 10) u era { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ed { -brand-name-ios }.
