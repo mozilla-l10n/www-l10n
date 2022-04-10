@@ -29,3 +29,6 @@ vpn-windows-devices-headline = In abunament per tuts tes apparats
 #   $devices (number) - number of available devices
 vpn-windows-devices-copy = In abunament da { -brand-name-mozilla-vpn } ta garantescha l'access illimità a noss servetsch segir da VPN per in dumber da maximalmain { $devices } apparats da { -brand-name-windows } ({ -brand-name-windows } 10) u era { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ed { -brand-name-ios }.
 vpn-windows-speed-headline = Nagina restricziun dal volumen da datas transferibel
+vpn-windows-speed-copy = Streamescha, gioga games, fa cumpras ed explorescha il web cun sveltezza maximala. Cun datas illimitadas senza limitaziun da la sveltezza na ta stat { -brand-name-mozilla-vpn } betg enta pes.
+vpn-windows-log-headline = Tia sfera privata è nossa prioritad
+vpn-windows-log-copy = { -brand-name-mozilla } na vegn mai a chalar da lavurar per in meglier internet che dat la prioritad a tia sfera privata. Perquai na ramassa { -brand-name-mozilla-vpn } naginas datas sur da tai e na registrescha era betg tias activitads online – nagin da noss products na fa quai.
