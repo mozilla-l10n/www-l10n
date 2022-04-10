@@ -28,3 +28,4 @@ vpn-windows-devices-headline = In abunament per tuts tes apparats
 # Variables:
 #   $devices (number) - number of available devices
 vpn-windows-devices-copy = In abunament da { -brand-name-mozilla-vpn } ta garantescha l'access illimità a noss servetsch segir da VPN per in dumber da maximalmain { $devices } apparats da { -brand-name-windows } ({ -brand-name-windows } 10) u era { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ed { -brand-name-ios }.
+vpn-windows-speed-headline = Nagina restricziun dal volumen da datas transferibel
