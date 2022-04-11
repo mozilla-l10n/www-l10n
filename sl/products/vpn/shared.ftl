@@ -120,6 +120,7 @@ vpn-subnav-vpn-vs-proxy = VPN ali posredniški strežnik?
 ## VPN Affiliate cookie notice
 
 vpn-shared-affiliate-notification-reject = Zavrni
+vpn-shared-affiliate-notification-ok = V redu
 
 ##
 
