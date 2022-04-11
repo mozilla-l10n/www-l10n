@@ -123,6 +123,7 @@ vpn-subnav-vpn-vs-proxy = VPN so với Proxy
 #   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Chúng tôi sử dụng cookie để hiểu đối tác liên kết nào đã dẫn bạn đến { -brand-name-mozilla-vpn }. Chúng tôi không chia sẻ thông tin nhận dạng cá nhân với các đối tác của mình. Đọc <a { $attrs }>chính sách riêng tư</a> của chúng tôi.
 vpn-shared-affiliate-notification-reject = Từ chối
+vpn-shared-affiliate-notification-ok = OK
 
 ##
 
