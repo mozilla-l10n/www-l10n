@@ -120,6 +120,7 @@ vpn-subnav-vpn-vs-proxy = VPN w pśirownanju k proksy
 ## VPN Affiliate cookie notice
 
 vpn-shared-affiliate-notification-reject = Wótpokazaś
+vpn-shared-affiliate-notification-ok = W pórěźe
 
 ##
 
