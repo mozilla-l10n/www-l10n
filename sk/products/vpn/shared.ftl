@@ -123,6 +123,7 @@ vpn-subnav-vpn-vs-proxy = VPN vs proxy
 #   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Používame cookies, aby sme pochopili, ktorý partner vás priviedol k { -brand-name-mozilla-vpn }. S našimi partnermi nezdieľame osobné identifikačné údaje. Prečítajte si naše <a { $attrs }>Zásady ochrany osobných údajov</a>.
 vpn-shared-affiliate-notification-reject = Odmietnuť
+vpn-shared-affiliate-notification-ok = OK
 
 ##
 
