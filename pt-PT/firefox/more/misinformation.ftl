@@ -9,6 +9,7 @@ misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-look-at-url = Tenha em consideração o endereço e/ou fonte.
 misinformation-content-up-to-date = O conteúdo está atualizado?
 misinformation-images-captions = As imagens e as legendas correspondem?
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } mantém os rastreadores sob controlo:
 misinformation-social-media-clean-heading = O { -brand-name-firefox } ajuda a manter os seus feeds de redes sociais limpos:
 misinformation-why-trust-firefox = Porquê confiar no { -brand-name-firefox }?
 misinformation-learn-more-about-our-mission = Saber mais sobre a nossa missão
