@@ -40,6 +40,9 @@ firefox-desktop-download-in-browser-screenshot = Убудаваны інстру
 firefox-desktop-download-primary-password = Галоўны пароль
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Пакахайце сваё жыццё ў інтэрнэце
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Гэта ваш інтэрнэт. Расфарбуйце яго так, як хочаце, з тысячамі інструментаў, тэм і пашырэнняў. { -brand-name-firefox } — арыгінальны альтэрнатыўны браўзер, які ставіць людзей вышэй за прыбытак.
 # Obsolete string
 firefox-desktop-download-master-password = Галоўны пароль
 firefox-desktop-download-we-block-the-ad = Мы блакуем рэкламныя трэкеры. Вы хутчэй аглядаеце Інтэрнэт.
