@@ -120,6 +120,7 @@ vpn-subnav-vpn-vs-proxy = VPN porno proksy
 ## VPN Affiliate cookie notice
 
 vpn-shared-affiliate-notification-reject = Wotpokazać
+vpn-shared-affiliate-notification-ok = W porjadku
 
 ##
 
