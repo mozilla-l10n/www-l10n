@@ -123,6 +123,7 @@ vpn-subnav-vpn-vs-proxy = VPN kontra Proxy
 #   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Sütiket használunk annak megértésére, hogy melyik partnerünk vezette Önt a { -brand-name-mozilla-vpn }-hez. Személyazonosításra alkalmas adatokat nem osztunk meg partnereinkkel. Olvassa el <a { $attrs }>Adatvédelmi irányelveinket</a>.
 vpn-shared-affiliate-notification-reject = Elutasítás
+vpn-shared-affiliate-notification-ok = OK
 
 ##
 
