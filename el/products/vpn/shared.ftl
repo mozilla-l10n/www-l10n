@@ -123,6 +123,7 @@ vpn-subnav-vpn-vs-proxy = VPN vs διακομιστή μεσολάβησης
 #   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Χρησιμοποιούμε cookies για να κατανοήσουμε ποιος συνεργάτης σάς οδήγησε στο { -brand-name-mozilla-vpn }. Δεν μοιραζόμαστε προσωπικά στοιχεία ταυτοποίησης με τους συνεργάτες μας. Διαβάστε την <a { $attrs }>Πολιτική απορρήτου</a> μας.
 vpn-shared-affiliate-notification-reject = Απόρριψη
+vpn-shared-affiliate-notification-ok = OK
 
 ##
 
