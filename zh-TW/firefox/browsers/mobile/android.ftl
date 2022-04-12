@@ -27,3 +27,4 @@ mobile-android-search-from-your = 從手機主畫面直接進行搜尋
 mobile-android-about-mozilla = 關於 { -brand-name-mozilla }
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = 使用 { -brand-name-firefox } for { -brand-name-android } 抄捷徑，快速上網
+mobile-android-own-your-home = 擁有自己的主畫面
