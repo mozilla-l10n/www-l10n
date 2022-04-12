@@ -123,6 +123,7 @@ vpn-subnav-vpn-vs-proxy = VPN fersus proxy
 #   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Wy brûke cookies om te begripen hokker oansluten partner jo nei { -brand-name-mozilla-vpn } lied hat. Wy diele gjin persoanlik identifisearbere gegevens mei ús partners. Lês ús <a { $attrs }>Privacybelied</a>.
 vpn-shared-affiliate-notification-reject = Ofwize
+vpn-shared-affiliate-notification-ok = OK
 
 ##
 
