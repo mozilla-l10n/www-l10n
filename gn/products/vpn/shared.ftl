@@ -120,6 +120,7 @@ vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 ## VPN Affiliate cookie notice
 
 vpn-shared-affiliate-notification-reject = Hejarei
+vpn-shared-affiliate-notification-ok = MONEĨ
 
 ##
 
