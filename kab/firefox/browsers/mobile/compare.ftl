@@ -9,3 +9,7 @@ mobile-compare-another-mobile-feature = Tamahilt-nniḍen n uziraz i d-ittunefke
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Timahilin</strong>
 mobile-compare-features = Timahilin
+mobile-compare-what-can-your = D acu i yezmer ad t-yexdem yiminig-ik·im?
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>Amtawi</strong>
+mobile-compare-syncing = Amtawi
