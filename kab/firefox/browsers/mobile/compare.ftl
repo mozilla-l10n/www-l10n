@@ -14,3 +14,4 @@ mobile-compare-what-can-your = D acu i yezmer ad t-yexdem yiminig-ik·im?
 mobile-compare-syncing-strong = <strong>Amtawi</strong>
 mobile-compare-syncing = Amtawi
 mobile-compare-does-your-browser = Iminig-ik·im iteddu akken iwata d yibenkan-nniḍen?
+mobile-compare-conclusion = Tagrayt
