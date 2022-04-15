@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -33,6 +33,9 @@ history-by-2002-well-over-90 = Да 2002 года <a href="{ $over90 }">боль
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Адноўленая канкурэнцыя <a href="{ $innovation }">паскорыла інавацыі</a> і палепшыла Інтэрнэт для ўсіх.
+history-the-future-is-full-of-challenges = Будучыня поўная выклікаў і магчымасцяў, такіх жа, як і ў нашым мінулым.
+history-theres-no-guarantee-that = Няма гарантыі, што Інтэрнэт застанецца адкрытым, прыемным або бяспечным.
+history-mozilla-will-continue-to = { -brand-name-mozilla } будзе працягваць даваць людзям магчымасць выказаць свой голас і вызначыць сваё ўласнае жыццё ў Інтэрнэце.
 history-of-course-were-not-alone = Вядома, мы не самотныя ў гэтым.
 history-the-mozilla-community-together = Супольнасць { -brand-name-mozilla }, разам з іншымі праектамі з адкрытым зыходным кодам і іншымі грамадскімі арганізацыямі, існуе толькі дзякуючы людзям, якія займаюцца рэалізацыяй нашых агульных мэтаў.
 history-mozilla-bookmarks = Закладкі { -brand-name-mozilla }

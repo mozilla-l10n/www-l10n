@@ -49,6 +49,7 @@ navigation-v2-sign-up-for-new-accounts = Стварайце новыя ўлік�
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (бэта)
 navigation-v2-protect-your-browsers-connection = Абараніце падключэнне браўзера да Інтэрнэту.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Новыя функцыі і інструменты для персаналізаванага карыстання { -brand-name-mdn }
 navigation-v2-view-all-products = Паглядзець усе прадукты
 
 ## Who We Are menu
