@@ -1,11 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Сцягнуць { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Стварыць { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = Атрымаць { -brand-name-mozilla-vpn }
 navigation-v2-menu = Меню
+# Obsolete string
+navigation-v2-get-a-firefox-account = Стварыць { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -17,6 +19,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } для { -brand-name
 navigation-v2-get-the-customizable-mobile = Атрымайце ўладкавальны мабільны браўзер для смартфонаў з { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } для { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Атрымайце мабільны браўзер для свайго { -brand-name-iphone } або { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Проста прыватнае мабільнае агляданне.
 navigation-v2-privacy-promise = Абяцанне прыватнасці
 navigation-v2-learn-how-firefox-treats = Даведайцеся, як { -brand-name-firefox } ставіцца з павагай да вашых звестак.
 navigation-v2-firefox-blog = Блог { -brand-name-firefox }
@@ -44,6 +48,7 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (бэта)
 navigation-v2-sign-up-for-new-accounts = Стварайце новыя ўліковыя запісы, не перадаючы свой адрас электроннай пошты.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (бэта)
 navigation-v2-protect-your-browsers-connection = Абараніце падключэнне браўзера да Інтэрнэту.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Паглядзець усе прадукты
 
 ## Who We Are menu
