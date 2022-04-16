@@ -22,3 +22,5 @@ mobile-ios-fast-private-secure = D arurad. D uslig. D aɣellsan
 mobile-ios-stay-private-online = Qqim d uslgi srid
 mobile-ios-your-browsing-history = Azray-ik•im n tunigin d azray
 mobile-ios-get-more-firefox = Awi ugar { -brand-name-firefox } deg tudert-ik·im
+mobile-ios-discover-more-of = Snirem ugar ɣef wayen i tḥemmleḍ
+mobile-ios-about-mozilla = Ɣef { -brand-name-mozilla }
