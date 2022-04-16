@@ -76,13 +76,24 @@ vpn-shared-pricing-get-monthly = Awi aɣawas s wayyur
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Sekles { $percent }%
 # Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = Sekles { $percent }% ɣef { -brand-name-mozilla-vpn }*
+# Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } usemday
 
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = Aha bdu
+vpn-shared-platform-cta-button = Wali ssuma & tilin
 vpn-shared-platform-privacy-promise = Aqader n tudert-ik·im tabaḍnit d lεehd-nneɣ
+vpn-shared-platform-trust-partner-headline = Γef umendid-nneɣ yettwattkalen
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } iteddu s umata ɣef uzeṭṭa n yiqeddacen yellan ddaw leεnaya <a href="{ $policy }">{ -brand-name-mullvad }</a> s useqdec n uneggaf <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } yettakk i tbaḍnit-ik·im azal amezwaru, ur isseklas ara iɣmisen n wacu bɣun ilin.
+vpn-shared-platform-what-youll-get = Ayen ara tawiḍ s { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = D acu-t VPN?
@@ -95,9 +106,14 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Aziraz
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = D acu-tt tansa IP?
+vpn-subnav-when-to-use-a-vpn = Melmi ara tesqedceḍ VPN
+vpn-subnav-vpn-vs-proxy = VPN vs Apṛuksi
 
 ## VPN Affiliate cookie notice
 
+vpn-shared-affiliate-notification-reject = Agi
+vpn-shared-affiliate-notification-ok = IH
 
 ##
 
