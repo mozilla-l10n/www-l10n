@@ -37,6 +37,7 @@ vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 vpn-landing-invite-thanks-heading = Tanemmirt! Aql-ak•akem ɣef tebdart
+vpn-landing-invite-thanks-desc = Akken ara yuɣal { -brand-name-mozilla-vpn } yella i tmurt-ik•im, ad ak•am-n-nermes.
 
 ##
 
