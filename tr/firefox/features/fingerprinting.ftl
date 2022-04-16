@@ -15,5 +15,6 @@ features-fingerprinting-ditch-the-sticky = { -brand-name-firefox } tarayıcısı
 features-fingerprinting-every-fingerprint = Her parmak izi benzersizdir.
 features-fingerprinting-download-firefox = { -brand-name-firefox }’u indir
 features-fingerprinting-what-is-fingerprinting-body = Parmak izi toplama nedir?
+features-fingerprinting-fingerprinting-is-a = Parmak izi, sıradan çerez tabanlı izlemeden daha istilacı olan bir çevrimiçi izleme türüdür. Bir şirket, bilgisayar donanımınıza, yazılımınıza, eklentilerinize ve hatta tercihlerinize göre benzersiz bir profilinizi oluşturduğunda dijital parmak izi oluşturulur. Kullandığınız ekran, bilgisayarınızda yüklü olan yazı tipleri ve hatta web tarayıcısı seçiminiz gibi ayarlarınız parmak izi oluşturmak için kullanılabilir.
 features-fingerprinting-fingerprinting-is-bad = Parmak izi toplama web için kötüdür
 features-fingerprinting-protect = Gizliliğinizi koruyun

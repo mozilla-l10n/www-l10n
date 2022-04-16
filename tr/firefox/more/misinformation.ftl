@@ -11,6 +11,7 @@ misinformation-what-is-heading = Yanlış bilgi nedir? Dezenformasyon nedir?
 misinformation-false-info-heading = Yanlış bilgiler nerede ortaya çıkıyor?
 misinformation-spot-online-heading = İnternetteki yanlış bilgileri tespit etme ve yayılmasını durdurma
 misinformation-look-at-url = URL’ye ve/veya kaynağa bakın.
+misinformation-overly-sensational = Haber başlığı aşırı sansasyonel mi?
 misinformation-content-up-to-date = İçerik güncel mi?
 misinformation-images-captions = Resimlerle açıklamaları eşleşiyor mu?
 misinformation-how-firefox-helps-heading = { -brand-name-firefox } yanlış bilgilerden kaçınmanıza nasıl yardımcı olur?
