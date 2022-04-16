@@ -27,7 +27,7 @@ vpn-windows-servers-copy = S viac ako { $servers } servermi vo viac ako { $count
 vpn-windows-devices-headline = Jedno predplatné pre všetky vaše zariadenia
 # Variables:
 #   $devices (number) - number of available devices
-vpn-windows-devices-copy = Predplatné { -brand-name-mozilla-vpn } vám poskytne neobmedzený prístup k našej zabezpečenej službe VPN až na { $devices } zariadeniach pre { -brand-name-windows } (vrátane { -brand-name-windows } 10) , { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
+vpn-windows-devices-copy = Predplatné { -brand-name-mozilla-vpn } vám poskytne neobmedzený prístup k našej zabezpečenej službe VPN až na { $devices } zariadeniach pre { -brand-name-windows } (vrátane { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
 vpn-windows-speed-headline = Žiadne obmedzenia rýchlosti
 vpn-windows-speed-copy = Streamujte, hrajte, nakupujte a skúmajte web závratnou rýchlosťou. Vďaka neobmedzeným dátam a žiadnym obmedzeniam šírky pásma vám { -brand-name-mozilla-vpn } nebude stáť v ceste.
 vpn-windows-log-headline = Vaše súkromie je našou prioritou
