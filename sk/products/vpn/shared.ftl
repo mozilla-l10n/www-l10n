@@ -13,7 +13,7 @@ vpn-shared-sign-in-link = Už máte predplatné?
 vpn-shared-available-countries-v4 = V súčasnosti ponúkame { -brand-name-mozilla-vpn } v Rakúsku, Belgicku, Kanade, Francúzsku, Nemecku, Írsku, Taliansku, Malajzii, Holandsku, Novom Zélande, Singapure, Španielsku, Švajčiarsku, Veľkej Británii a USA.
 vpn-shared-available-countries-v5 = V súčasnosti ponúkame { -brand-name-mozilla-vpn } v Rakúsku, Belgicku, Kanade, Fínsku, Francúzsku, Nemecku, Írsku, Taliansku, Malajzii, Holandsku, Novom Zélande, Singapure, Španielsku, Švédsku, Švajčiarsku, Veľkej Británii a USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
-vpn-shared-money-back-guarantee = 30 dňová záruka vrátenia peňazí
+vpn-shared-money-back-guarantee = 30-dňová záruka vrátenia peňazí
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Písali o nás
 vpn-shared-features-encrypt = Šifrovanie na úrovni zariadenia
@@ -51,7 +51,7 @@ vpn-shared-features-strong-servers = Silné servery vo viac ako { $countries }
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Pripojte až { $devices } zariadení
 # This string is displayed as an item in a list of features.
-vpn-shared-features-guarantee = 30 dňová záruka vrátenia peňazí
+vpn-shared-features-guarantee = 30-dňová záruka vrátenia peňazí
 vpn-shared-refund-policy = Pravidlá vrátenia peňazí
 vpn-shared-privacy-notice = Zásady ochrany súkromia
 vpn-shared-terms-conditions = Podmienky používania

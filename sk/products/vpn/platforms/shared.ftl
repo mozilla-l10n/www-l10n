@@ -9,7 +9,7 @@
 vpn-platforms-shared-title = { -brand-name-mozilla-vpn }
 vpn-platforms-shared-cta-headline = Začíname
 vpn-platforms-shared-cta = Zobraziť cenu a dostupnosť
-vpn-platforms-shared-day-guarantee = 30 dňová záruka vrátenia peňazí
+vpn-platforms-shared-day-guarantee = 30-dňová záruka vrátenia peňazí
 vpn-platforms-shared-what-youll-get = Čo získate s { -brand-name-mozilla-vpn }:
 vpn-platforms-shared-privacy-headline = Vaše súkromie je náš prísľub
 # Variables:
