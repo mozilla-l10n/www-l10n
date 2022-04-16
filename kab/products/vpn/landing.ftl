@@ -7,6 +7,10 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Mmesten ibenk-ik·im n unekcum
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Seqdec { -brand-name-mozilla-vpn } i ummesten ummid n meṛṛa isnasen-ik•im. S yiqeddacen deg ugar n { $countries } tmura, tzemreḍ ad teqqneḍ sani i ak•am-yeḥwa, seg wanda yebɣu telliḍ.
 vpn-landing-privacy-heading = Yiwen usiti, ugar n tbaḍnit
 vpn-landing-fast-secure-heading = Azeṭṭa azurad, aɣellsan
 
