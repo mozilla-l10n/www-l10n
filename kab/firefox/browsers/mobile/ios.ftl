@@ -10,3 +10,15 @@ mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-i
 # HTML description
 # Obsolete string
 mobile-ios-firefox-browser-for = Iminig { -brand-name-firefox } i { -brand-name-ios } d arura, d aɣellsan, d uslig seg mi ara t-teldiḍ.
+mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+mobile-ios-get-automatic-privacy = Faṛes tabaḍnit tawurmant ɣef { -brand-name-iphone } akked { -brand-name-ipad } inek•inem
+mobile-ios-get-firefox-for = Sader { -brand-name-firefox } i { -brand-name-ios }
+mobile-ios-send-a-download-link-to-your = Azen aseɣwen n usader ɣer tiliɣri-ik.
+mobile-ios-scan-the-qr-code-to-get-started = Ṭṭef tangalt QR akken ad tebduḍ
+mobile-ios-scan-alt-text = Smiḍen tangalt QR akken ad tawiḍ { -brand-name-firefox } ɣef { -brand-name-ios }
+mobile-ios-make-firefox-your = Err { -brand-name-firefox } d iminig-ik amezwer
+mobile-ios-fast-private-secure = D arurad. D uslig. D aɣellsan
+mobile-ios-stay-private-online = Qqim d uslgi srid
+mobile-ios-your-browsing-history = Azray-ik•im n tunigin d azray
+mobile-ios-get-more-firefox = Awi ugar { -brand-name-firefox } deg tudert-ik·im
