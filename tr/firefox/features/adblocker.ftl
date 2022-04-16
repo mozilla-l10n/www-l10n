@@ -13,7 +13,11 @@ features-adblocker-find-the-right-ad-blocker = Size en uygun reklam engelleyiciy
 features-adblocker-create-a-tracker-free = İçerik engelleme sayesinde takipçilerden arınmış bir bölge yaratın
 features-adblocker-choose-your-level-of-protection = Koruma düzeyinizi seçin
 features-adblocker-go-easy-with-standard = Standart mod ile ağırdan alın
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+features-adblocker-if-ads-dont-bother-you = Reklamlar sizi rahatsız etmiyorsa, takip kodları ve üçüncü taraf çerezleri tarafından takip edilmek umrunuzda değilse "standart" ayar size göre. Standart modda takip kodlarının peşinizi bırakmasını istediğinizde <a href="{ $url }">gizli gezinti</a> penceresi açabilirsiniz.
 features-adblocker-get-tough-with-strict = Sıkı modla sert olun
+features-adblocker-if-seeing-too-many-ads = Çok fazla reklam görmek gününüzü mahvediyorsa "katı" mod sizin için daha uygun. Bu mod, bilinen üçüncü taraf takip kodlarını ve çerezleri tüm { -brand-name-firefox } pencerelerinde engeller.
 features-adblocker-do-it-yourself-custom = Özel modla kendi gizliliğinizi kendiniz ayarlayın
 features-adblocker-cover-your-trail-block = İzinizi belli etmeyin, takipçileri engelleyin
 features-adblocker-take-a-bite-out-of-cookies = Çerezleri dert etmeyin
