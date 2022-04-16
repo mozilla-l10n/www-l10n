@@ -19,3 +19,5 @@ mobile-focus-delete-your-history = Kkes azray-ik•im
 mobile-focus-take-private-mode = Err askar uslig ɣer uswir unnig
 mobile-focus-tracking-protection = Ammesten mgal aḍfar
 mobile-focus-ad-blocking = Asewḥel n udellel
+mobile-focus-see-it-all = Wali-t akk s zzerb
+mobile-focus-made-by-mozilla = Yettufeṣṣel sɣur { -brand-name-mozilla }
