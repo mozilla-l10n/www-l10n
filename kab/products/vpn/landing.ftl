@@ -28,6 +28,15 @@ vpn-landing-faq-link = Issin ugar FAQs
 
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+vpn-landing-invite-thanks-heading = Tanemmirt! Aql-ak•akem ɣef tebdart
 
 ##
 
