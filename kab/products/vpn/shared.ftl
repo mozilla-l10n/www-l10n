@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/
@@ -9,6 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Awi { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Rnu ɣer tebdart n uṛaǧu
 vpn-shared-sign-in-link = Tmuletɣeḍ yakan?
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Ṭṭmana n tiririt n yidrimen deg 30 n wussan
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Ayen i d-qqaren fell-aɣ
@@ -46,6 +47,8 @@ vpn-shared-features-strong-servers = Iqeddacen iǧehden deg { $countries }+ timu
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Qqen ɣer alamma { $devices } yibenkan
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = Ṭṭmana n tiririt n yidrimen n 30 n wussan
 vpn-shared-privacy-notice = Tasertit n tbaḍnit
 vpn-shared-terms-conditions = Tiwtilin d yilugan
 
@@ -62,8 +65,12 @@ vpn-shared-pricing-plan-monthly = S waggur
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Outdated string
 vpn-shared-pricing-get-6-month = Awi aɣawas n 6 wayyuren
+# Outdated string
 vpn-shared-pricing-get-12-month = Awi aɣawas n 12 wayyuren
+vpn-shared-pricing-get-6-month-v2 = Awi aɣawas n 6-wayyuren
+vpn-shared-pricing-get-12-month-v2 = Awi aɣawas n 12-wayyuren
 vpn-shared-pricing-get-monthly = Awi aɣawas s wayyur
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
@@ -88,6 +95,9 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Aziraz
 vpn-subnav-platform-windows = { -brand-name-windows }
+
+## VPN Affiliate cookie notice
+
 
 ##
 
