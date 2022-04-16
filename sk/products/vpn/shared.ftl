@@ -39,7 +39,7 @@ vpn-shared-features-protection = Ochrana až pre { $devices } zariadení
 vpn-shared-features-server-countries = Pripojte sa ku viac ako { $servers } serverov vo viac ako { $countries } krajinách
 # Variables:
 #   $countries (number) - number of available countries
-vpn-shared-countries-coming-soon = V súčasnosti dostupné v { $countries } krajinách. Ďalšie regióny prídu už čoskoro
+vpn-shared-countries-coming-soon = V súčasnosti k dispozícii v { $countries } krajinách. Ďalšie regióny prídu už čoskoro
 # Variables:
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
