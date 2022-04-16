@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
@@ -47,7 +47,7 @@ vpn-what-is-can-vpns-protect = Чи можуть VPN захистити мене
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
 vpn-what-is-while-a-vpn = Хоча VPN надає безпечне з'єднання з інтернетом, він не захищає вас від злодіїв. Завжди, коли ви користуєтесь інтернетом, через службу VPN або без неї, вам слід остерігатися підозрілих посилань, дезінформаційних кампаній, фішинг-шахрайств та інших загроз. <a href="{ $url }">Захист себе в інтернеті</a> — це спосіб повсякденного мислення.
 vpn-what-is-are-vpns-legal = Чи законні VPN?
-vpn-what-is-installing-and-using = Встановлення та користування VPN наразі є законним у більшості країн, включно зі США, Великобританією, Канадою та Новою Зеландією, але деякі країни можуть регулювати їхнє використовування. Якщо ви вирішите застосовувати VPN, ви несете відповідальність за перевірку законодавства країни, щоб визначити, чи законно користуватися ним.
+vpn-what-is-installing-and-using = Встановлення та користування VPN наразі є законним у більшості країн, включно зі США, Великою Британією, Канадою та Новою Зеландією, але деякі країни можуть регулювати їхнє використовування. Якщо ви вирішите застосовувати VPN, ви несете відповідальність за перевірку законодавства країни, щоб визначити, чи законно користуватися ним.
 vpn-what-is-are-vpns-only = VPN створено лише для комп’ютерів?
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
