@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -47,7 +47,7 @@ firefox-privacy-hub-2000-trackers-blocked-automatically = Mais de 2.000 rastread
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-tracking-has-become-an = Rastreamento tornou-se uma epidemia online: empresas seguem cada movimento, clique, compra, coletando dados para prever e influenciar o que você fará em seguida. Consideramos isso uma invasão grosseira em sua privacidade. É por isso que os navegadores { -brand-name-firefox } para celular e computador têm proteção aprimorada contra rastreamento ativada por padrão.
 firefox-privacy-hub-if-you-want-to-see-what = Se quiser ver o que o { -brand-name-firefox } está bloqueando para você, visite esta página no navegador { -brand-name-firefox } no computador.
-firefox-privacy-hub-see-what-firefox-has-blocked = Veja o que o { -brand-name-firefox } bloqueou para você
+firefox-privacy-hub-see-what-firefox-has-blocked = Veja o que o { -brand-name-firefox } bloqueia para sua proteção
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Tenha proteção aprimorada contra rastreamento
 firefox-privacy-hub-download-the-firefox-browser = Baixe o navegador { -brand-name-firefox }
