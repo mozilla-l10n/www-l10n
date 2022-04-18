@@ -153,5 +153,6 @@ vpn-subnav-vpn-vs-proxy = VPN बनाम प्रॉक्सी
 vpn-shared-affiliate-notification-message = हम कुकीज़ का उपयोग यह जानने के लिए करते हैं कि किस संबद्ध पार्टनर ने आपको { -brand-name-mozilla-vpn } तक पहुंचाया है। हम व्यक्ति की पहचान कराने वाली जानकारियां अपने पार्टनरों के साथ साझा नहीं करते हैं। हमारी <a { $attrs }>निजता नीति</a> पढ़ें।
 
 vpn-shared-affiliate-notification-reject = अस्वीकृत करें
+vpn-shared-affiliate-notification-ok = ठीक है
 
 ##
