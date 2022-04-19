@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }। �
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } ਇਕਸਟੈਨਸ਼ਨ ਲਵੋ
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ਡਾਊਨਲ੍ਹੋਡ ਕਰੋ ਅਤੇ { -brand-name-facebook-container } ਇਕਸਟੈਨਸ਼ਨ ਲਵੋ
 facebook-container-only-available-for-desktop = { -brand-name-facebook-container } ਇਕਸਟੈਨਸ਼ਨ ਇਸ ਵੇਲੇ ਸਿਰਫ਼ ਡੈਸਕਟਾਪ ਦੇ { -brand-name-firefox } ਲਈ ਹੀ ਉਪਲੱਬਧ ਹੈ।
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
