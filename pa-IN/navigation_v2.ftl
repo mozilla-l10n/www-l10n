@@ -48,6 +48,8 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (ਬੀਟਾ)
 navigation-v2-sign-up-for-new-accounts = ਨਵੇਂ ਖਾਤਿਆਂ ਲਈ ਬਿਨਾਂ ਆਪਣਾ ਈਮੇਲ ਐਡਰੈਸ ਦਿੱਤੇ ਸਾਈਨ ਅੱਪ ਕਰੋ।
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (ਬੀਟਾ)
 navigation-v2-protect-your-browsers-connection = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੇ ਕਨੈਕਸ਼ਨ ਨੂੰ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ।
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = ਚੁਣਿੰਦਾ { -brand-name-mdn } ਤਜਰਬੇ ਲਈ ਨਵੇਂ ਫ਼ੀਚਰ ਅਤੇ ਟੂਲ
 navigation-v2-view-all-products = ਸਾਰੇ ਉਤਪਾਦ ਵੇਖੋ
 
 ## Who We Are menu
@@ -73,7 +75,9 @@ navigation-v2-innovation = ਖੋਜਾਂ
 navigation-v2-close-innovation-menu = ਖੋਜ ਮੇਨੂ ਨੂੰ ਬੰਦ ਕਰੋ
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = ਸਿਰਫ਼ ਡਿਵੈਲਪਰਾਂ ਲਈ ਤਿਆਰ ਕੀਤਾ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਲਵੋ।
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = ਵੈੱਬ ਡਿਵੈਲਪਰ ਸਰੋਤਾਂ ਲਈ ਮੁੱਖ ਸਫ਼ੇ ਨੂੰ ਵੇਖੋ।
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = ਆਪਣਾ ਆਵਾਜ਼ ਦਾਨ ਦਿਓ ਤਾਂ ਕਿ ਵੈੱਬ ਦੇ ਭਵਿੱਖ ਹਰ ਕਿਸੇ ਨੂੰ ਸੁਣ ਸਕੇ।

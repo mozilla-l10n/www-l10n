@@ -42,6 +42,7 @@ firefox-desktop-love-your-life = ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰ
 # Obsolete string
 firefox-desktop-download-master-password = ਪ੍ਰਾਇਮਰੀ ਪਾਸਵਰਡ
 firefox-desktop-download-we-block-the-ad = ਅਸੀਂ ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦੇ ਹਾਂ। ਤੁਸੀਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਇੰਟਰਨੈੱਟ ਵਰਤਦੇ ਹੋ।
+firefox-desktop-download-ads-are-distracting = ਇਸ਼ਤਿਹਾਰ ਧਿਆਨ ਭਟਕਾਉਂਦੇ ਅਤੇ ਵੈੱਬ ਸਫ਼ਿਆਂ ਨੂੰ ਲੋਡ ਕਰਨਾ ਹੌਲੀ ਕਰ ਦਿੰਦੇ ਹਨ, ਜਦੋਂ ਕਿ ਟਰੈਕਰ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਦੀ ਸੂਹ ਲੈਂਦੇ ਹਨ। { -brand-name-firefox-browser } ਆਪਣੇ-ਆਪ ਹੀ ਬਹੁਤੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ, ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਆਪਣੀ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਦੀ ਜਾਂਚ ਨਾ ਕਰਨੀ ਪਵੇ।
 firefox-desktop-download-see-your-report = ਆਪਣੀ ਸੁਰੱਖਿਆ ਰਿਪੋਰਟ ਵੇਖੋ
 firefox-desktop-download-for-everyone = { -brand-name-firefox } ਹਰੇਕ ਲਈ ਹੈ
 firefox-desktop-download-available-in-over = 90 ਤੋਂ ਵੱਧ ਭਾਸ਼ਾਵਾਂ ਨਾਲ ਅਤੇ { -brand-name-windows }, { -brand-name-mac-short } ਤੇ { -brand-name-linux } ਮਸ਼ੀਨਾਂ ਉੱਤੇ ਚੱਲਣ ਕਰਕੇ { -brand-name-firefox } ਕੰਮ ਕਰਦਾ ਹੈ ਭਾਵੇਂ ਤੁਸੀਂ ਜੋ ਵੀ ਵਰਤੋਂ ਜਾਂ ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਹੋ। ਸਭ ਤੋਂ ਚੰਗੇ ਤਜਰਬੇ ਲਈ ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਹਾਡਾ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਪੂਰੀ ਤਰ੍ਹਾਂ ਅੱਪਡੇਟ ਹੈ।
@@ -151,6 +152,9 @@ firefox-desktop-download-get-help = ਸਮੱਸਿਆ ਹੈ? <a { $attrs }>ਆ
 firefox-desktop-download-in-another-language = ਹੋਰ ਭਾਸ਼ਾ ਜਾਂ ਹੋਰ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ।
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-desktop-download-visit-support-for-more = ਹੋਰ ਵੇਰਵਿਆਂ ਲਈ ਸਹਾਇਤਾ ਨੂੰ ਵੇਖੋ
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } { -brand-name-windows } { -brand-name-xp } ਜਾਂ { -brand-name-vista } ਲਈ <a href="{ $url }">ਹੁਣ ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ ਨਹੀਂ ਦਿੰਦਾ ਹੈ</a>, ਪਰ ਤੁਸੀਂ ਹਾਲੇ ਵੀ { -brand-name-firefox } ਨੂੰ ਵਰਤਣਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ।
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
