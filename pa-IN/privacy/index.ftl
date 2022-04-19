@@ -14,6 +14,17 @@ privacy-index-if-you-want-to-make-a-correction = ਜੇ ਤੁਸੀਂ ਆਪ�
 privacy-index-see-here-for-data-subject = <a href="{ $dsar }">ਡੇਟਾ ਵਿਸ਼ਾ ਪਹੁੰਚ ਬੇਨਤੀਆਂ ਲਈ ਇੱਥੇ ਦੇਖੋ।</a>
 privacy-index-data-privacy-principles = ਡਾਟਾ ਪਰਦੇਦਾਰੀ ਦੇ ਸਿਧਾਂਤ
 privacy-index-transparency-report = ਪਰਦੇਦਾਰੀ ਰਿਪੋਰਟ
+privacy-index-get-involved = ਸਾਥ ਦਿਓ
 privacy-index-outdated-policies = ਪੁਰਾਣੀਆਂ ਨੀਤੀਆਂ
 privacy-index-mozilla-websites-communications = ਮੋਜ਼ੀਲਾ ਵੈੱਬਸਾਈਟਾਂ, ਸੰਚਾਰ ਤੇ ਕੂਕੀਜ਼
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-fire-tv } ਲਈ { -brand-name-firefox }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }

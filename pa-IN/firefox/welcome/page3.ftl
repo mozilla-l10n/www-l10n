@@ -9,6 +9,7 @@
 welcome-page3-get-the-free-account-that = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਬਚਾਉਣ ਵਾਲਾ ਮੁਫ਼ਤ ਖਾਤਾ ਲਵੋ। { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣੋ।
 welcome-page3-no-account-required-but-you = ਖਾਤਾ ਲਾਜ਼ਮੀ ਨਹੀਂ ਹੈ। ਪਰ ਤੁਸੀਂ ਚਾਹ ਸਕਦੇ ਹੋ।
 welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } ਤੁਹਾਡੇ ਬਾਰੇ ਬਹੁਤ ਹੀ ਘੱਟ ਡਾਟਾ ਇਕੱਤਰ ਕਰਦਾ ਹੈ ਕਿ ਸਾਨੂੰ ਤੁਹਾਡੇ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਦੀ ਵੀ ਲੋੜ ਨਹੀਂ ਹੈ। ਪਰ ਜਦੋਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਆਪਣਾ { -brand-name-firefox-account } ਬਣਾਉਣ ਲਈ ਵਰਤਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ ਦੇ ਦੁਆਲੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦਾ ਬਚਾਅ ਕਰ ਸਕਦੇ ਹਾਂ।
+welcome-page3-sign-in = ਸਾਈਨ ਇਨ
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = ਘੱਟੋ-ਘੱਟ ਇੱਕ ਕੰਪਨੀ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਲੀਕ ਕਰਨ ਦੀ ਬਜਾਏ ਧਿਆਨ ਰੱਖ ਰਹੀ ਹੈ।
 welcome-page3-facebook-container = { -brand-name-facebook-container }

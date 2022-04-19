@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
@@ -20,6 +20,7 @@ switch-still-not-convinced = ਹਾਲੇ ਵੀ ਇਹ ਯਕੀਨੀ ਨਹ�
 switch-enjoy-the-web-faster = ਵੱਧ ਤੇਜ਼ ਵੈੱਬ ਦਾ ਆਨੰਦ ਲਵੋ, ਤੁਹਾਡੇ ਲਈ ਸਭ ਤਿਆਰ ਹੈ।
 switch-download-and-switch = ਡਾਊਨਲੋਡ ਕਰੋ ਅਤੇ ਬਦਲੋ।
 switch-share-to-facebook = ਫੇਸਬੁੱਕ ਉੱਤੇ ਸਾਂਝਾ ਕਰੋ
+switch-share-to-facebook-updated = { -brand-name-facebook } ਨਾਲ ਸਾਂਝਾ ਕਰੋ
 switch-send-a-tweet = ਟਵਿੱਟ ਭੇਜੋ
 switch-hey = ਹੈਲੋ,
 switch-check-it-out = ਇਸ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ ਅਤੇ ਮੈਨੂੰ ਦੱਸਿਓ ਕਿ ਤੁਹਾਨੂੰ ਕਿਵੇਂ ਲੱਗਾ:
