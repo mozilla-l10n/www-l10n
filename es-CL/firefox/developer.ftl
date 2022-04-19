@@ -55,7 +55,7 @@ firefox-developer-new-tools = Nuevas herramientas
 firefox-developer-inactive-css = CSS inactivo
 firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } ahora atenúa las declaraciones CSS que no tienen efecto en la página. Cuando pasas el cursor sobre el ícono de información, verás un mensaje útil sobre por qué no se aplica el CSS, incluida una pista sobre cómo solucionar el problema.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-the-new-firefox-devtools = Las nuevas herramientas de desarrollo de Firefox son potentes, flexibles, y lo mejor de todo, hackeables. Esto incluye el mejor de todos los depuradores JavaScript, apto para múltiples navegadores y que está integrado a React y Ember.
+firefox-developer-the-new-firefox-devtools = Las nuevas { -brand-name-firefox-devtools } son potentes, flexibles y, lo mejor de todo, hackeables. Esto incluye el mejor depurador JavaScript, que puede funcionar con múltiples navegadores y está creado en React y Redux.
 firefox-developer-master-css-grid = Sé un experto en cuadrículas CSS
 # outdated
 firefox-developer-next-gen-css-engine = Motor CSS de última generación

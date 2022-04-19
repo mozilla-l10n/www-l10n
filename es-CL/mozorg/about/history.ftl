@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = Para 2002, <a href="{ $over90 }">más del 90% de 
 history-not-many-people-noticed = No muchas personas lo notaron en el momento, pero la primera versión de Phoenix (posteriormente llamado { -brand-name-firefox }) también fue lanzado ese año por miembros de la comunidad { -brand-name-mozilla } con la meta de proveer la <a href="{ $charter }">mejor experiencia de navegación posible</a> a la mayor cantidad de personas.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = En 2003, el proyecto { -brand-name-mozilla } creó la Fundación { -brand-name-mozilla }, una <a href="{ $foundation }">organización sin fines de lucro independiente</a> apoyada por donantes individuales y una variedad de compañías.
+history-in-2003-the-mozilla-project = En 2003, el proyecto { -brand-name-mozilla } creó la { -brand-name-mozilla-foundation }, una <a href="{ $foundation }">organización independiente sin fines de lucro</a> apoyada por donantes individuales y una variedad de empresas.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = La nueva Fundación Mozilla continuó con el rol de gestionar las operaciones diarias del proyecto y también tomo oficialmente el rol de promover <a href="{ $manifesto }">la apertura, la innovación y las oportunidades</a> en Internet.
+history-the-new-mozilla-foundation = La nueva { -brand-name-mozilla-foundation } continuó con la función de administrar las operaciones diarias del proyecto y también asumió oficialmente la función de promover <a href="{ $manifesto }">transparencia, innovación y oportunidad</ a> en Internet.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Ésto lo hizo lanzando continuamente software, como { -brand-name-firefox } y { -brand-name-thunderbird }, y expandiéndose a nuevas áreas, por ejemplo, proveyendo <a href="{ $grants }">subvenciones</a> para apoyar las mejoras de accesibilidad en la Web.

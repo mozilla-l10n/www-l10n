@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -54,31 +54,6 @@ manifesto-an-internet-with-these = Un internet con estas cualidades no sucederá
 manifesto-i-support-the-vision-of = Yo apoyo la visión de un internet mejor y más saludable de @mozilla, ¿y tú?
 manifesto-share-on-twitter = Compartir en { -brand-name-twitter }
 manifesto-our-10-principles = <strong>Nuestros 10</strong> principios
-manifesto-use-open-badges-to-share = Usa Open Badges para compartir tus habilidades e intereses
-manifesto-explore-how-the-web-impacts = Explora cómo la web impacta en la ciencia
-manifesto-learn-about-open-source = Aprende acerca del código abierto en el periodismo
-manifesto-read-about-open-internet = Lee acerca de desarrollos e iniciativas de políticas de internet abierto
-manifesto-explore-how-to-help-keep = Explora cómo ayudar a mantener la web abierta
-manifesto-see-how-the-web-can-connect = Mira como la web puede conectar el mundo al cuidado de la salud
-manifesto-explore-how-the-web-works = Explora cómo funciona la web
-manifesto-see-how-mozilla-works = Mira cómo trabaja { -brand-name-mozilla } para poner tu privacidad primero
-manifesto-read-about-developments = Lee sobre los desarrollos en privacidad y seguridad de datos
-manifesto-learn-more-about-how-to = Aprende más acerca de cómo protegerte en línea
-manifesto-use-these-free-tools-to = Usa estas herramientas gratuitas para enseñar la web
-manifesto-learn-about-creating-and = Aprende acerca de crear y curar contenido para la web
-manifesto-add-new-voices-to-open = Agrega nuevas voces a la tecnología de código abierto
-manifesto-set-your-do-not-track = Ajusta tu preferencia de No rastrear
-manifesto-understand-the-web-ecosystem = Entiende el ecosistema web
-manifesto-explore-how-open-practices = Explora cómo las practicas abiertas mantienen la web accesible
-manifesto-learn-how-to-remix-content = Aprende cómo mezclar contenido para crear algo nuevo
-manifesto-learn-how-to-maximize = Aprende cómo maximizar el potencial interactivo de la web
-manifesto-participate-in-our-governance = Participa en nuestro foro de gobernanza
-manifesto-join-us-as-a-volunteer = Únete como voluntario
-manifesto-learn-how-to-collaborate = Aprende cómo colaborar en línea
-manifesto-visualize-who-you-interact = Visualiza con quién interactúas en la web con { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Aprende acerca de crear recursos web con otros
-manifesto-host-or-join-a-maker-party = Organiza o únete a la { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Aprende cómo construir habilidades de colaboración en línea
 manifesto-read-the-entire-manifesto = Leer el manifiesto completo
 manifesto-love-the-web = ¿Amas la web?
 manifesto-get-the-mozilla-newsletter = Recibe el boletín de { -brand-name-mozilla } y ayúdanos a mantenerlo abierto y libre.
@@ -89,7 +64,7 @@ manifesto-details-the-mozilla-project-global = El proyecto { -brand-name-mozilla
 manifesto-details-the-mozilla-project-community = El proyecto { -brand-name-mozilla } tiene una forma de trabajo basada en la comunidad con la que crea software de código abierto de primera calidad y desarrolla nuevas clases de actividades colaborativas. Creamos comunidades de personas dedicadas a lograr una mejor experiencia en Internet para todos.
 manifesto-details-as-a-result-of = Como resultado de estos esfuerzos, hemos elaborado algunos principios que consideramos fundamentales para que Internet continúe beneficiando tanto al bien público como a los aspectos comerciales de la vida. A continuación enumeramos estos principios.
 manifesto-details-the-goals-for = Los objetivos del Manifiesto son:
-manifesto-details-articulate-a-vision = definir una visión de internet que los participantes de { -brand-name-mozilla } deseen que persiga la Fundación { -brand-name-mozilla };
+manifesto-details-articulate-a-vision = definir una visión de Internet que los participantes de { -brand-name-mozilla } deseen que persiga la { -brand-name-mozilla-foundation };
 manifesto-details-speak-to-people = poder comunicarnos con la gente, tenga o no conocimientos técnicos;
 manifesto-details-make-mozilla-contributors = lograr que los colaboradores de { -brand-name-mozilla } estén orgullosos de lo que estamos haciendo y que esto nos motive a continuar; y
 manifesto-details-provide-a-framework = proporcionar un punto de partida para que otras personas mejoren esta visión de Internet.
