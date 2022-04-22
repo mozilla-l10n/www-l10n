@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Прыватнасць у { -brand-name-mozilla }
@@ -25,11 +25,11 @@ privacy-index-transparency-report = Справаздача аб празрыст
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Як для праекта з адкрытым зыходным кодам, празрыстасць і адкрытасць з'яўляюцца ключавымі часткамі фундаментальных прынцыпаў { -brand-name-mozilla }. Наш код адкрыты і правяральны. Наш працэс распрацоўкі адкрыты. Наша паўгадавая <a href="{ $report }">Справаздача аб празрыстасці</a> таксама паказвае нашу прыхільнасць да гэтых прынцыпаў.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Каб праглядаць і каментаваць прапановы па змяненнях ў нашай палітыцы прыватнасці, <a href="{ $group }">падпішыцеся на групу кіравання { -brand-name-mozilla }</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
-privacy-index-read-more-about-our-ongoing = <a href="{ $blog }">Блог „Open Policy and Advocacy” Mozilli</a> змяшчае далейшыя звесткі аб бягучых працах над публічнай палітыкай прыватнасці і бяспекі.
+privacy-index-read-more-about-our-ongoing = <a href="{ $blog }">Блог „Open Policy and Advocacy” { -brand-name-mozilla }</a> змяшчае далейшыя звесткі аб бягучых працах над публічнай палітыкай прыватнасці і бяспекі.
 privacy-index-outdated-policies = Папярэднія версіі
 privacy-index-mozilla-websites-communications = Вэб-сайты, камунікацыі і кукі { -brand-name-mozilla }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }

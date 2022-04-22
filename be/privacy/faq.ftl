@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } не пра
 privacy-faq-wait-so-how-do-you-make-money = Пачакайце, а як вы зарабляеце грошы?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } - не тое, што сярэдняя арганізацыя. Заснаваная як супольны праект з адкрытым зыходным кодам у 1998, { -brand-name-mozilla } - арганізацыя з кіроўнай місіяй, якая працуе ў напрамку больш здаровага інтэрнэту. Большасць даходаў { -brand-name-mozilla } Corporation ідзе ад працэнтаў, сабраных праз пошукавае партнёрства вэб-браўзера { -brand-name-firefox } і пагадненняў аб распаўсюдзе па ўсім свеце. Вы можаце даведацца больш аб тым, як мы зарабляем грошы, з нашай <a href="{ $link }">штогадовай фінансавай справаздачы</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } - не тое, што сярэдняя арганізацыя. Заснаваная як супольны праект з адкрытым зыходным кодам у 1998, { -brand-name-mozilla } - арганізацыя з кіроўнай місіяй, якая працуе ў напрамку больш здаровага інтэрнэту. Большасць даходаў { -brand-name-mozilla-corporation } ідзе ад працэнтаў, сабраных праз пошукавае партнёрства вэб-браўзера { -brand-name-firefox } і пагадненняў аб распаўсюдзе па ўсім свеце. Вы можаце даведацца больш аб тым, як мы зарабляем грошы, з нашай <a href="{ $link }">штогадовай фінансавай справаздачы</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Добра, гэтыя першыя-лепшыя былі лёгкія. Якія звесткі вы збіраеце?
 # Variables:
