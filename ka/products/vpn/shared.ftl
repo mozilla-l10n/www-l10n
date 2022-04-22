@@ -123,6 +123,7 @@ vpn-subnav-vpn-vs-proxy = VPN თუ პროქსი
 #   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = საიტზე ვიყენებთ ფუნთუშებს, რათა გავიგოთ, რომელმა ჩვენმა მოკავშირე მხარემ გაგაცნოთ { -brand-name-mozilla-vpn }. ჩვენ არ ვუზიარებთ ვინაობის გასამჟღავნებელ მონაცემებს თანამშრომელ კომპანიებს. იხილეთ ჩვენი <a { $attrs }>პირადულობის დებულება</a>.
 vpn-shared-affiliate-notification-reject = უარყოფა
+vpn-shared-affiliate-notification-ok = კარგი
 
 ##
 
