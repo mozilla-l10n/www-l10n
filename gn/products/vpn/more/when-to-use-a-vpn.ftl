@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
@@ -27,3 +27,9 @@ vpn-when-to-use-make-sure-you = Eikuaaporãva’erã pe VPN ojapokuaa’ỹva
 #   $book (url) - https://www.mozilla.org/firefox/privacy/book/
 vpn-when-to-use-a-vpn-provides = VPN ome’ẽ joajuha hekorosãva omo’ãvo ne mba’ekuaarãite ñemiguáva oho mboyve ñandutípe ha avei oñomi nde IP kundaharape, oipytyvõvo omo’ã nde reratee ha ne rendaite avei. Upéicha rupi, ndojokomo’ãi eikutúvo juajuha ivaikuaáva, emboguejývo malware térã eñembotavývo ñanduti veve rupive. Ejapoveva’erã gueteri <a href="{ $book }">tembiapo porã ne rekorosã hag̃ua tapiaite ñandutípe</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, ha’e VPN ejeroviakuaaha
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-when-to-use-weve-done-the = Hetaiterei romba’apo <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> omomba’e hag̃ua nde rekoñemi ha avei eikuaáke rojapotaha ikatumíva upevarã. { -brand-name-mozilla } oguereko jeroviapy omoheñoihápe apopyre ne ñepytyvõtava añetehápe ne marandu hekorosãtaha. Rohapykueho ore <a href="{ $principles }"> tekoñemi mba’ekuaarã rekoite</a> hasy’ỹva imoñe’ẽ, kachiãi’ỹre oremoma’ẽva pe marandu roikotevẽva rome’ẽkuaa hag̃uáicha mba’epururã oikótava añetehápe. Ha ore ykekóva peteĩ mba’apohaguasu <a href="{ $mission }">ombohapéva ore rembiecharã</a>, ejeroviakuaa pe viru eme’ẽva ko apopyre rehe ndaha’éi eguerkokuaátava tekorosã añónte, avei eipytyvõta ñanduti iporãvévo ko’ẽreíre.
