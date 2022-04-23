@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Deskargatu { -brand-name-firefox }
-navigation-get-a-firefox-account = Lortu Firefox kontu bat
+navigation-get-a-firefox-account = Lortu { -brand-name-firefox-account } kontua
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } mahaigainekorako
 navigation-get-the-browser-that-respects = Eskuratu pribatutasuna automatikoki errespetatzen duen nabigatzailea. { -brand-name-windows }, macOs edo { -brand-name-linux }erako.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } mugikorrerako
@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Ikusi bideoak eta nabigatu Interneten zure { -brand-name-amazon } { -brand-name-fire-tv }an.
 navigation-firefox-browsers-put = { -brand-name-firefox } nabigatzaileentzat pribatutasuna doa aurrena — orain eta beti.
 navigation-take-the-passwords-youve = Eraman zurekin { -brand-name-firefox }en gordetako pasahitz guztiak, edonora.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } produktu-familia oso bat da, online seguruago eta adimentsuago mantentzen zaituena.
 navigation-join-firefox = Batu { -brand-name-firefox }era
 navigation-access-all-of-firefox = Izan { -brand-name-firefox } osoa eskura saio-hasiera bakarrarekin — eta eskuratu gehiago produktu guztietan.
@@ -34,12 +35,17 @@ navigation-take-firefox-and-firefox = Eraman { -brand-name-firefox } eta { -bran
 navigation-get-firefox = Eskuratu { -brand-name-firefox }
 navigation-get-firefox-focus = Eskuratu { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android }erako hedapenak
-navigation-your-firefox-account = Zure Firefox kontua
+navigation-your-firefox-account = Zure { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Atera zukua { -brand-name-firefox }ekin duzun esperientziari, gailu guztietan.
+# Outdated string
 navigation-learn-how-to-customize = Ikasi nola pertsonalizatu { -brand-name-firefox }en funtzionamendua.
+# Outdated string
 navigation-experience-augmented = Gozatu errealitate areagotu eta birtualaz { -brand-name-firefox }ekin.
+# Outdated string
 navigation-meet-people-in-experimental = Ezagutu jendea errealitate misto esperimentaleko txat geletan { -brand-name-firefox } erabiliz.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla }k { -brand-name-firefox } errealitate areagotu eta birtualera dakar.
 navigation-firefox-built-just-for = { -brand-name-firefox }, garatzaileentzat egina.
 navigation-preview-the-latest-build = Aurreikusi { -brand-name-firefox }en azken konpilazio-bertsioa eta lagundu nabigatzailerik onena egiten.
@@ -64,6 +70,7 @@ navigation-security-tips = Segurtasun-aholkuak
 navigation-share-large-files-safely = Partekatu fitxategi handiak era seguruan, ‘auto-suntsitzen’ diren loturekin.
 navigation-save-quality-content = Gorde kalitatezko edukia edonondik. Leku guztietan duzu adimenerako erregaia.
 navigation-sign-up = Eman izena
+# Outdated string
 navigation-connected-and-protected = Konektaturik eta babesturik
 navigation-join = Batu
 navigation-close-join-menu = Itxi Batu menua
@@ -76,11 +83,14 @@ navigation-meet-the-technology-company = Ezagutu irabazien gainetik pertsonak ja
 navigation-new-features = Eginbide berriak
 navigation-save-content-absorb-knowledge = Gorde edukia. Bildu ezagutza.
 navigation-same-speed-and-safety = Konfiantza ematen dizun abiadura eta segurtasun bera, negoziorako diseinatua.
+# Outdated string
 navigation-add-ons = Gehigarriak
 navigation-projects = Proiektuak
 navigation-close-projects-menu = Itxi 'Proiektuak' menua
 navigation-donate-your-voice-to = Eman zure ahotsa eta lagundu ahots-ezagutza denontzako irekitzen.
+# Outdated string
 navigation-web-of-things-iot = Gauzen Weba (IoT)
+# Outdated string
 navigation-make-devices-connected = Mantendu Internetera konektatutako gailuak babestuta, seguru eta elkarreraginkor.
 navigation-developers = Garatzaileak
 navigation-close-developers-menu = Itxi 'Garatzaileak' menua
