@@ -31,6 +31,12 @@ history-after-several-years-of-development = Пасля некалькіх га�
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Да 2002 года <a href="{ $over90 }">больш за 90% карыстальнікаў Інтэрнэту</a> аглядалі з дапамогай { -brand-name-ie }.
 # Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = У 2003 годзе праект { -brand-name-mozilla } стварыў { -brand-name-mozilla-foundation }, <a href="{ $foundation }">незалежную некамерцыйную арганізацыю</a>, якую падтрымліваюць індывідуальныя інвестары і розныя кампаніі.
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = Новая арганізацыя { -brand-name-mozilla-foundation } працягнула ролю кіравання штодзённай дзейнасцю праекта, а таксама афіцыйна ўзяла на сябе ролю прасоўвання <a href="{ $manifesto }">адкрытасці, інавацый і магчымасцяў</a> у Інтэрнэце.
+# Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Адноўленая канкурэнцыя <a href="{ $innovation }">паскорыла інавацыі</a> і палепшыла Інтэрнэт для ўсіх.
 history-the-future-is-full-of-challenges = Будучыня поўная выклікаў і магчымасцяў, такіх жа, як і ў нашым мінулым.
