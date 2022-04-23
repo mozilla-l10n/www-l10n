@@ -37,8 +37,19 @@ history-in-2003-the-mozilla-project = У 2003 годзе праект { -brand-n
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Новая арганізацыя { -brand-name-mozilla-foundation } працягнула ролю кіравання штодзённай дзейнасцю праекта, а таксама афіцыйна ўзяла на сябе ролю прасоўвання <a href="{ $manifesto }">адкрытасці, інавацый і магчымасцяў</a> у Інтэрнэце.
 # Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = Гэта стала магчымым дзякуючы працягу выпуску праграмнага забеспячэння, такога як { -brand-name-firefox } і { -brand-name-thunderbird }, а таксама ахопу новых галін, такіх як прадстаўленне <a href="{ $grants }">грантаў</a> для падтрымкі паляпшэнняў даступнасці ў Інтэрнэце.
+# Variables:
+#   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
+#   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a>быў выпушчаны ў 2004 годзе і меў вялікі поспех — менш чым за год яго сцягнулі <a href="{ $millions }">больш за 100 мільёнаў разоў</a>.
+# Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Адноўленая канкурэнцыя <a href="{ $innovation }">паскорыла інавацыі</a> і палепшыла Інтэрнэт для ўсіх.
+# Variables:
+#   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
+history-in-2013-we-launched-firefox = У 2013 годзе мы запусцілі <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a>, каб раскрыць усю моц сеціва на смартфонах і зноў прапанаваць кантроль і выбар новаму пакаленню людзей, якія выходзяць у інтэрнэт.
+history-mozilla-also-celebrated = { -brand-name-mozilla } таксама адзначыла сваё 15-годдзе ў 2013 годзе.
 history-the-future-is-full-of-challenges = Будучыня поўная выклікаў і магчымасцяў, такіх жа, як і ў нашым мінулым.
 history-theres-no-guarantee-that = Няма гарантыі, што Інтэрнэт застанецца адкрытым, прыемным або бяспечным.
 history-mozilla-will-continue-to = { -brand-name-mozilla } будзе працягваць даваць людзям магчымасць выказаць свой голас і вызначыць сваё ўласнае жыццё ў Інтэрнэце.
