@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = { -brand-name-chrome } ਤੋਂ { -brand-name-firefox } ਲਈ ਸਿਰਫ਼ ਕੁਝ ਕੁ ਮਿੰਟਾਂ 'ਚ ਸਵਿੱਚ ਕਰੋ
+switch-switching-to-firefox-is-fast-updated = { -brand-name-firefox } ਲਈ ਬਦਲਣਾ ਤੇਜ਼, ਸੌਖਾ ਅਤੇ ਬਿਨਾਂ ਕਿਸੇ ਖ਼ਤਰੇ ਤੋਂ ਹੈ, ਕਿਉਂਕਿ { -brand-name-firefox } { -brand-name-chrome } ਤੋਂ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡਾਂ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਇੰਪੋਰਟ ਕਰਦਾ ਹੈ।
 switch-switching-to-firefox-is-fast = { -brand-name-chrome } ਤੋਂ { -brand-name-firefox } ਤੇਜੀ ਨਾਲ, ਸੌਖੇ ਤਰਾਂ, ਅਤੇ ਬਿਨਾਂ ਖਤਰੇ ਦੇ ਸਵਿੱਚ ਕਰਦਾ ਹੈ ਕਿਉਕਿ { -brand-name-firefox } ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ, ਆਪੇ ਭਰਨ, ਪਾਸਵਰਡਾਂ ਅਤੇ ਪਸੰਦਾਂ ਇੰਪੋਰਟ ਕਰਦਾ ਹੈ।
 switch-switching-to-firefox-page-description = { -brand-name-chrome } ਤੋਂ { -brand-name-firefox } ਤੇਜੀ ਨਾਲ, ਸੌਖੇ ਤਰਾਂ, ਅਤੇ ਬਿਨਾਂ ਖਤਰੇ ਦੇ ਸਵਿੱਚ ਕਰਦਾ ਹੈ। { -brand-name-firefox } ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ, ਆਪੇ ਭਰਨ, ਪਾਸਵਰਡਾਂ ਅਤੇ ਪਸੰਦਾਂ ਇੰਪੋਰਟ ਕਰਦਾ ਹੈ।
 switch-select-what-to-take = { -brand-name-chrome } ਤੋਂ ਕੀ ਲੈ ਕੇ ਆਉਣਾ ਹੈ, ਉਹ ਚੁਣੋ।
