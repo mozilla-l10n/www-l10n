@@ -16,7 +16,7 @@ vpn-landing-hero-sub-heading-v2 = Security, reliability and speed — on every d
 vpn-landing-hero-sub-heading = Security you can rely on. A name you can trust.
 vpn-landing-hero-desc = A Virtual Private Network from the makers of { -brand-name-firefox }.
 vpn-landing-privacy-heading = One tap to privacy
-vpn-landing-privacy-desc = Surf, stream, game, and get work done while maintaining your privacy online. Whether you're traveling, using public WiFi, or simply looking for more online security, we will always put your privacy first.
+vpn-landing-privacy-desc = Surf, stream, game, and get work done while maintaining your privacy online. Whether you're travelling, using public WiFi, or simply looking for more online security, we will always put your privacy first.
 vpn-landing-fast-secure-heading = Fast and secure network
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/

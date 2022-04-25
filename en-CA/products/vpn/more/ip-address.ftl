@@ -38,7 +38,7 @@ vpn-ip-address-should-you-hide = Should you hide your IP address?
 vpn-ip-address-you-dont-need = You don’t need to hide your IP address, but there are some times where you may want to. The most common reason is privacy. In the U.S., <a href="{ $congress }">Congress overruled</a> privacy regulations designed to protect the privacy of broadband users. Internet service providers can see your browsing habits, what you are using the internet for, and how long you spend on each page. This communication is not encrypted, so third-parties can see what website you’re visiting. One way to combat this is <a href="{ $doh }">DNS-over-HTTPS</a> (DoH). This encrypts your DNS (Domain Name System) traffic, making it harder for ISPs to see the websites you are trying to visit. For US <a href="{ $firefox }">{ -brand-name-firefox } users</a>, by default your DoH queries are directed to trusted DNS servers, making it harder to associate you with the websites you try to visit.
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
-vpn-ip-address-there-are-also = There are also situational reasons to hide your IP address. You may want to hide it when traveling. A VPN will also give you <a href="{ $url }">more privacy</a> when connecting to WiFi to stream and shop while you explore the world.
+vpn-ip-address-there-are-also = There are also situational reasons to hide your IP address. You may want to hide it when travelling. A VPN will also give you <a href="{ $url }">more privacy</a> when connecting to WiFi to stream and shop while you explore the world.
 vpn-ip-address-how-do-you = How do you hide it?
 # Variables
 #   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/

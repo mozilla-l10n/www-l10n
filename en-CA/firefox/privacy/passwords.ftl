@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -35,7 +35,7 @@ privacy-passwords-the-lock-means = The lock means that the website you’re usin
 privacy-passwords-a-padlock-with = A padlock with a line through it indicates the connection is not secure.
 privacy-passwords-your-browser-also = Your browser also helps keep you informed about how trustworthy sites are, to help keep you safe from phishing. When you try to visit a website that is known to be a phishing site, { -brand-name-firefox } (and any major browser) will display a full-screen warning — <strong>pay attention and think twice about using that site!</strong>
 privacy-passwords-firefox-will = Firefox will display a warning instead of the website if it is known to be a phishing site.
-privacy-passwords-in-general-the = In general, the best defense against phishing is to <strong>be suspicious of what you receive</strong>, whether it shows up in email, a text message or on the phone. Instead of taking action on what someone sent you, visit the site directly. For example, if an email says you need to reset your PayPal password, don’t click the link. Type in paypal.com yourself. If the bank calls, call them back.
+privacy-passwords-in-general-the = In general, the best defence against phishing is to <strong>be suspicious of what you receive</strong>, whether it shows up in email, a text message or on the phone. Instead of taking action on what someone sent you, visit the site directly. For example, if an email says you need to reset your PayPal password, don’t click the link. Type in paypal.com yourself. If the bank calls, call them back.
 privacy-passwords-strength-in-diversity = Strength in diversity
 privacy-passwords-the-secret-to = The secret to preventing guessing, theft or password reset is a whole lot of randomness. When attackers try to guess passwords, they usually do two things: 1) Use “dictionaries” — lists of common passwords that people use all the time, and 2) make some random guesses. The <strong>longer and more random your password is</strong>, the less likely that either of these guessing techniques will find it.
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
@@ -54,7 +54,7 @@ privacy-passwords-twofactor-authentication-2fa = Two-Factor Authentication (2FA)
 privacy-passwords-2fa-is-a = 2FA is a great way to level-up your security. When setting up a new account, some sites will give you the option to add a “second factor” to the login process. Often, this means linking your phone number to your account, so after you enter your password, you will be prompted to enter a secure code texted directly to you. This way, if a hacker has managed to get your password, they still won’t be able to get into your account, since they don’t have your phone.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Your { -brand-name-firefox } account, for instance, can be protected with 2FA, <a { $url_sumo_2fa }>which you can learn more about here</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA provides much better security than passwords alone, but not every website supports it. You can find a list of websites that support 2FA at <a { $url_2fa }>https://twofactorauth.org</a>, as well as a list of sites that don’t support 2FA and ways you can ask them to add support.
 privacy-passwords-strong-diverse-and = Strong, diverse, and multi-factor
 privacy-passwords-for-better-or = For better or worse, we’re going to be using passwords to protect our online accounts for the foreseeable future. Use passwords that are <strong>strong</strong> and <strong>different for each site</strong>, and use a <strong>password manager</strong> to help you remember them safely. Set <strong>long, random answers</strong> for security questions (even if they’re not the truth). And <strong>use two-factor authentication</strong> on any site that supports it.

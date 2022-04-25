@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use/
+### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 reasons you should use a VPN
@@ -16,7 +16,7 @@ vpn-when-to-use-concealing-your-true = Concealing your true IP address, which pr
 vpn-when-to-use-encrypting-your-traffic = Encrypting your traffic between you and your VPN provider so that no one on your local network can decipher or modify it.
 vpn-when-to-use-having-a-vpn = Having a VPN at your fingertips when you need it is a good idea. Here are a few times having a trustworthy VPN will come in handy that you might not have considered.
 vpn-when-to-use-1-a-walk = 1. A walk in the park
-vpn-when-to-use-its-a-beautiful = It’s a beautiful Saturday morning, and you’ve settled down on a park bench to sip a coffee and catch up on your favorite news sites, watch a few videos and do some quick online shopping while getting sun and fresh air. Rather than draining your allotted mobile data, you hop onto your city’s public WiFi service. It’s free, and run by the city, so it must be ok, right? The fact is, you can’t be certain the municipal network is secure or even real (see the next point) and set up to protect you from malicious people or entities spying on you while you’re connected. Turning on a VPN can help protect your device from anyone who tries to snoop on the sites you’re visiting or hijack your sensitive login information while you’re kicked back on that park bench any day of the week.
+vpn-when-to-use-its-a-beautiful = It’s a beautiful Saturday morning, and you’ve settled down on a park bench to sip a coffee and catch up on your favourite news sites, watch a few videos and do some quick online shopping while getting sun and fresh air. Rather than draining your allotted mobile data, you hop onto your city’s public WiFi service. It’s free, and run by the city, so it must be ok, right? The fact is, you can’t be certain the municipal network is secure or even real (see the next point) and set up to protect you from malicious people or entities spying on you while you’re connected. Turning on a VPN can help protect your device from anyone who tries to snoop on the sites you’re visiting or hijack your sensitive login information while you’re kicked back on that park bench any day of the week.
 vpn-when-to-use-2-in-the = 2. In the neighbourhood
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/

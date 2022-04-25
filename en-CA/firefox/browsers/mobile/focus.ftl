@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
@@ -34,6 +34,6 @@ mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } blocks ads that try to 
 mobile-focus-see-it-all = See it all faster
 # Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } removes trackers and ads so the pages you’re viewing require less data and load much faster.
-mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } removes trackers and enables adblockers so the pages you’re viewing require less data and load much faster. Also, pin up to four shortcuts on your home screen and get to your favorite site even quicker without typing anything.
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } removes trackers and enables adblockers so the pages you’re viewing require less data and load much faster. Also, pin up to four shortcuts on your home screen and get to your favourite site even quicker without typing anything.
 mobile-focus-made-by-mozilla = Made by { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.
