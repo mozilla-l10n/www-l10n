@@ -6,12 +6,12 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
-vpn-shared-subscribe-link = Pořiďte si službu { -brand-name-mozilla-vpn }
+vpn-shared-subscribe-link = Pořiďte si síť { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Přidat se na čekací listinu
 vpn-shared-sign-in-link = Už máte předplatné?
 # Outdated string
-vpn-shared-available-countries-v4 = Službu { -brand-name-mozilla-vpn } v současnosti nabízíme v Belgii, Francii, Irsku, Itálii, Kanadě, Malajsii, Německu, Nizozemsku, na Novém Zélandu, v Rakousku, Singapuru, Španělsku, Švýcarsku, USA a Velké Británii.
-vpn-shared-available-countries-v5 = Službu { -brand-name-mozilla-vpn } v současnosti nabízíme v Belgii, Finsku, Francii, Irsku, Itálii, Kanadě, Malajsii, Německu, Nizozemsku, na Novém Zélandu, v Rakousku, Singapuru, Španělsku, Švédsku, Švýcarsku, USA a Velké Británii.
+vpn-shared-available-countries-v4 = Síť { -brand-name-mozilla-vpn } v současnosti nabízíme v Belgii, Francii, Irsku, Itálii, Kanadě, Malajsii, Německu, Nizozemsku, na Novém Zélandu, v Rakousku, Singapuru, Španělsku, Švýcarsku, USA a Velké Británii.
+vpn-shared-available-countries-v5 = Síť { -brand-name-mozilla-vpn } v současnosti nabízíme v Belgii, Finsku, Francii, Irsku, Itálii, Kanadě, Malajsii, Německu, Nizozemsku, na Novém Zélandu, v Rakousku, Singapuru, Španělsku, Švédsku, Švýcarsku, USA a Velké Británii.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30denní záruka vrácení peněz
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -83,7 +83,7 @@ vpn-shared-pricing-save-percent = Ušetříte { $percent }%
 # Variables:
 #   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
 # Asterisk indicates a footnote for the following string
-vpn-shared-save-percent-on = Ušetřete { $percent }% se službou { -brand-name-mozilla-vpn }*
+vpn-shared-save-percent-on = Ušetřete { $percent }% se sítí { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *když si předplatíte 12měsíční plán
 # Variables:
@@ -100,7 +100,7 @@ vpn-shared-platform-trust-partner-headline = O našem partnerovi
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } běží na celosvětové síti serverů společnosti <a href="{ $policy }">{ -brand-name-mullvad }</a> za použití protokolu <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. Společnost { -brand-name-mullvad } klade vaše soukromí na první místo a neuchovává si žádné záznamy.
-vpn-shared-platform-what-youll-get = Co se službou { -brand-name-mozilla-vpn } získáte:
+vpn-shared-platform-what-youll-get = Co se sítí { -brand-name-mozilla-vpn } získáte:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = Co je to VPN?
@@ -121,7 +121,7 @@ vpn-subnav-vpn-vs-proxy = Síť VPN vs. proxy server
 
 # Variables:
 #   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = Používáme cookies, abychom zjistili, který z přidružených partnerů vás zavedl ke službě { -brand-name-mozilla-vpn }. S našimi partnery nesdílíme žádné údaje umožňující identifikaci osob. Přečtěte si naše <a { $attrs }>zásady ochrany osobních údajů</a>.
+vpn-shared-affiliate-notification-message = Používáme cookies, abychom zjistili, který z přidružených partnerů vás přivedl k { -brand-name-mozilla-vpn(case: "dat") }. S našimi partnery nesdílíme žádné údaje umožňující identifikaci osob. Přečtěte si naše <a { $attrs }>zásady ochrany osobních údajů</a>.
 vpn-shared-affiliate-notification-reject = Odmítnout
 vpn-shared-affiliate-notification-ok = OK
 
