@@ -10,7 +10,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Ochrana celého vašeho za
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-page-desc = Použitím služby { -brand-name-mozilla-vpn } získáte ochranu celého zařízení u všech aplikací. Díky serverům ve více než { $countries } zemích se můžete připojit odkudkoli a kamkoli.
+vpn-landing-page-desc = Použitím sítě { -brand-name-mozilla-vpn } získáte kompletní ochranu všech aplikací ve svém zařízení. Díky serverům ve více než { $countries } zemích se můžete připojit odkudkoli kamkoli.
 vpn-landing-hero-sub-heading-v2 = Bezpečnost, spolehlivost a rychlost – na každém zařízení a kdekoliv jste.
 # Obsolete string
 vpn-landing-hero-sub-heading = Bezpečnost, na kterou se můžete spolehnout. Jméno, kterému můžete důvěřovat.
