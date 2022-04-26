@@ -29,6 +29,6 @@ vpn-windows-devices-headline = Jedno předplatné pro všechna vaše zařízení
 #   $devices (number) - number of available devices
 vpn-windows-devices-copy = Předplatné sítě { -brand-name-mozilla-vpn } vám zajistí neomezený přístup k naší zabezpečené síti VPN až na { $devices } zařízeních se systémy { -brand-name-windows } (včetně { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
 vpn-windows-speed-headline = Žádná omezení šířky pásma
-vpn-windows-speed-copy = Streamujte, hrajte hry, nakupujte a prozkoumávejte web bleskovou rychlostí. S neomezenou šířkou pásma a neomezenými daty vám nebude síť { -brand-name-mozilla-vpn } vůbec stát v cestě.
+vpn-windows-speed-copy = Streamujte, hrajte hry, nakupujte a prozkoumávejte web bleskovou rychlostí. Díky neomezeným datům a žádnému omezení šířky pásma se vám nebude síť { -brand-name-mozilla-vpn } stavět do cesty.
 vpn-windows-log-headline = Vaše soukromí je naší prioritou
-vpn-windows-log-copy = { -brand-name-mozilla } nikdy nepřestane pracovat na lepším internetu, který klade vaše soukromí na první místo. Proto o vás služba { -brand-name-mozilla-vpn } neshromažďuje žádné údaje, ani si nevede záznam o vaší aktivitě na internetu – žádný z našich produktů to nedělá.
+vpn-windows-log-copy = { -brand-name-mozilla } nikdy nepřestane pracovat na lepším internetu, který klade vaše soukromí na první místo. Proto o vás síť { -brand-name-mozilla-vpn } neshromažďuje žádné údaje, ani si nevede záznam o vaší aktivitě na internetu – žádný z našich produktů to nedělá.
