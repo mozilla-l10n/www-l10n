@@ -17,7 +17,7 @@ vpn-android-wifi-copy = Někdy nejsou bezdrátová data dostupná a jedinou mož
 vpn-android-about-headline = { -brand-name-mozilla } je značka, které můžete důvěřovat
 vpn-android-about-copy = Jsme známí především díky našemu webovému prohlížeči { -brand-name-firefox }, ale { -brand-name-mozilla } jakožto větší organizace má jednu hlavní misi – bojovat za vaše práva na internetu. To je to, co stále děláme už od roku 1998. Jsme obhájci internetu, snažící se zajistit, aby zůstal otevřený a svobodný, a zároveň aby respektoval právo každého na soukromí a bezpečnost.
 vpn-android-privacy-headline = Připojení jedním klepnutím
-vpn-android-privacy-copy = Použití služby { -brand-name-mozilla-vpn } pro { -brand-name-android(case: "acc") } je velmi jednoduché. Klepnete na tlačítko a vaše připojení se automaticky zašifruje za použití pokročilého protokolu { -brand-name-wireguard }®. To je vše!
+vpn-android-privacy-copy = Použití sítě { -brand-name-mozilla-vpn } pro { -brand-name-android(case: "acc") } je velmi jednoduché. Klepnete na tlačítko a vaše připojení se automaticky zašifruje za použití pokročilého protokolu { -brand-name-wireguard }®. To je vše!
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
