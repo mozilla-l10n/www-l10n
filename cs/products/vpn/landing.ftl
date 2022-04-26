@@ -122,19 +122,19 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (pouze { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Jaké jsou u sítě { -brand-name-mozilla-vpn } zásady vracení peněz?
-vpn-landing-faq-refund-question-desc-v2 = Když si poprvé předplatíte službu { -brand-name-mozilla-vpn } prostřednictvím webových stránek { -brand-name-mozilla(case: "gen") } a během prvních 30 dnů zrušíte svůj účet, můžete požádat o vrácení peněz a { -brand-name-mozilla } vám vrátí peníze za první období předplatného.
+vpn-landing-faq-refund-question-desc-v2 = Když při svém prvním předplacení sítě { -brand-name-mozilla-vpn } na stránkách { -brand-name-mozilla(case: "gen") } zrušíte do 30 dnů svůj účet, můžete požádat o vrácení peněz a { -brand-name-mozilla } vám vrátí peníze za první období předplatného.
 vpn-landing-faq-refund-question-additional-desc = Pokud si předplatné zakoupíte prostřednictvím nákupu v aplikaci v obchodě { -brand-name-apple } { -brand-name-app-store } nebo { -brand-name-google-play }, řídí se vaše platba obchodními podmínkami obchodu { -brand-name-app-store }. Veškeré dotazy týkající se vyúčtování a vrácení peněz za takové nákupy musíte směřovat na společnost { -brand-name-apple }, případně { -brand-name-google }.
 # Outdated string
 vpn-landing-faq-refund-question-desc = O vrácení peněz můžete požádat do 30 dnů od zakoupení předplatného. Kontaktujte nás nebo vytvořte žádost o vrácení peněz přímo v aplikaci { -brand-name-mozilla-vpn } kliknutím na tlačítko „Získat pomoc“ v nastavení.
 vpn-landing-faq-manage-subscription-question-heading = Jak mohu spravovat své předplatné?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
-vpn-landing-faq-manage-subscription-question-desc = Pokud již máte službu { -brand-name-mozilla-vpn } předplacenou, můžete kdykoli změnit svůj plán nebo <a href="{ $url }">spravovat své předplatné</a>.
+vpn-landing-faq-manage-subscription-question-desc = Pokud již máte síť { -brand-name-mozilla-vpn } předplacenou, můžete kdykoli změnit svůj plán nebo <a href="{ $url }">spravovat své předplatné</a>.
 vpn-landing-faq-link = Další časté dotazy
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
-vpn-landing-invite-page-title = Přidat se na čekací listinu služby { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-title = Přidat se na čekací listinu sítě { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc = Dáme vám vědět, až bude { -brand-name-mozilla-vpn } dostupná pro vaše zařízení a vaší oblast.
 vpn-landing-invite-page-heading = Přidat se na čekací listinu
 vpn-landing-invite-email-label = Jaká je vaše e-mailová adresa?
@@ -157,7 +157,7 @@ vpn-landing-invite-platform-linux = { -brand-name-linux }
 vpn-landing-invite-privacy-policy = Klepnutím na tlačítko „Přidat se na čekací listinu“ souhlasíte s našimi  <a href="{ $privacy }">zásadami ochrany osobních údajů</a>.
 vpn-landing-invite-your-information = Vaše údaje budou použity pouze na informování o dostupnosti.
 vpn-landing-invite-thanks-heading = Díky! Jste na seznamu
-vpn-landing-invite-thanks-desc = Jakmile bude služba { -brand-name-mozilla-vpn } dostupná pro vaši oblast, pošleme vám e-mail.
+vpn-landing-invite-thanks-desc = Jakmile bude síť { -brand-name-mozilla-vpn } dostupná pro vaši oblast, pošleme vám e-mail.
 
 ##
 
