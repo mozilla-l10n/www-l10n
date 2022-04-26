@@ -19,7 +19,7 @@ vpn-linux-wifi-copy = Někdy je veřejná Wi-Fi tou jedinou možností. Se sít�
 vpn-linux-about-headline = Spolehlivá značka od roku 1998
 vpn-linux-about-copy = { -brand-name-mozilla } jakožto tvůrce webového prohlížeče { -brand-name-firefox } bojuje za vaše práva na internetu již desítky let – to je naše práce. Jakožto alternativa k technologiím shromažďujícím velké objemy dat neustále vymýšlíme nové způsoby, jak udržet internet otevřený a svobodný za současného respektování práva každého na soukromí.
 vpn-linux-privacy-headline = Zabezpečení na jedno klepnutí
-vpn-linux-privacy-copy = Používání sítě { -brand-name-mozilla-vpn } je velmi snadné. Klepněte na tlačítko a vaše připojení se zašifruje za pomoci pokročilého protokolu { -brand-name-wireguard }® a IP adresa vašeho { -brand-name-iphone(case: "gen") } nebo { -brand-name-ipad(case: "gen") } se zastře.
+vpn-linux-privacy-copy = Používání sítě { -brand-name-mozilla-vpn } je navýsost snadné. Klepněte na tlačítko a vaše připojení se zašifruje za pomoci pokročilého protokolu { -brand-name-wireguard }® a IP adresa vašeho { -brand-name-iphone(case: "gen") } nebo { -brand-name-ipad(case: "gen") } se zastře.
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
@@ -30,7 +30,7 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } vám umožňuje nastavit po
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Připojte až { $devices } zařízení
-vpn-linux-devices-copy = S jedním předplatným můžete službu { -brand-name-mozilla-vpn } užívat až na { $devices } různých zařízeních se systémy { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } a { -brand-name-ios } pro { -brand-name-iphone(case: "acc") } a { -brand-name-ipad(case: "acc") }.
+vpn-linux-devices-copy = S jedním předplatným můžete síť { -brand-name-mozilla-vpn } užívat až na { $devices } různých zařízeních se systémy { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } a { -brand-name-ios } pro { -brand-name-iphone(case: "acc") } a { -brand-name-ipad(case: "acc") }.
 vpn-linux-speed-headline = Superrychlá s neomezenými daty
 vpn-linux-speed-copy = Hrajte hry, streamujte filmy a pořady a surfujte po webu superrychle a bez přiškrcování šířky pásma – { -brand-name-mozilla-vpn } je totiž bez limitací.
 vpn-linux-log-headline = Vaše data patří vám
