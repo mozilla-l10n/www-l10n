@@ -10,7 +10,7 @@ vpn-mobile-page-title = { -brand-name-mozilla-vpn } pro mobily (chytré telefony
 vpn-mobile-page-description = Chraňte svůj chytrý telefon a tablet pomocí sítě VPN od { -brand-name-mozilla(case: "gen") }, důvěryhodného průkopníka v oblasti ochrany soukromí na internetu.
 # Mobile strings
 vpn-mobile-hero-headline = Zabezpečte své soukromí v mobilu pomocí sítě { -brand-name-mozilla-vpn }
-vpn-mobile-maker-of-firefox = Zajistěte díky síti { -brand-name-mozilla-vpn }, základnímu nástroji pro ochranu soukromí od tvůrců { -brand-name-firefox(case: "gen") }, že bude internetové připojení vašeho telefonu stále soukromé, ať už vás den zavane kamkoli.
+vpn-mobile-maker-of-firefox = Zajistěte pomocí sítě { -brand-name-mozilla-vpn }, základnímu nástroji pro ochranu soukromí od tvůrců { -brand-name-firefox(case: "gen") }, aby internetové připojení vašeho telefonu zůstalo soukromé, ať už vás den zavede kamkoli.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-ability = { -brand-name-mozilla-vpn } zabraňuje hackerům a slídilům vidět vaši IP adresu a zastírá vaši polohu. Díky pokročilému šifrování a žádnému omezování šířky pásma je streamování a brouzdání v chytrém telefonu nebo tabletu mimořádně rychlé a naprosto bezpečné. Za malý měsíční poplatek můžete chránit až { $devices } zařízení a připojit se ke spoustě serverů po celém světě.
@@ -19,7 +19,7 @@ vpn-mobile-wifi-copy = Naše VPN slouží vašemu internetovému připojení jak
 vpn-mobile-about-headline = O { -brand-name-mozilla(case: "loc") }
 vpn-mobile-about-copy = { -brand-name-mozilla }, známá především díky { -brand-name-firefox-browser(case: "dat", capitalize: "lower") }, je celosvětová komunita uživatelů, přispěvatelů a vývojářů, kteří se zasazují o to, aby sílu internetu měli ve svých rukou uživatelé. Založeni jsme byli v roce 1998 a patříme k průkopníkům svobodného a otevřeného webu – a naší misí je, aby to tak zůstalo.
 vpn-mobile-privacy-headline = Soukromí na jedno klepnutí
-vpn-mobile-privacy-copy = Aplikace služby { -brand-name-mozilla-vpn } v mobilním telefonu nebo tabletu šifruje vaše internetové připojení a skrývá IP adresu za použití pokročilého protokolu { -brand-name-wireguard }®.
+vpn-mobile-privacy-copy = Aplikace sítě { -brand-name-mozilla-vpn } v mobilním telefonu nebo tabletu šifruje vaše internetové připojení a skrývá IP adresu za použití pokročilého protokolu { -brand-name-wireguard }®.
 vpn-mobile-servers-headline = Připojte se k serverům po celém světě
 # Variables:
 #   $servers (number) - number of available servers
