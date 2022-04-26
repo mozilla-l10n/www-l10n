@@ -121,7 +121,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (pouze { -brand-name-ubuntu })
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (pouze { -brand-name-ubuntu })
-vpn-landing-faq-refund-question-heading = Jaké jsou u služby { -brand-name-mozilla-vpn } zásady vracení peněz?
+vpn-landing-faq-refund-question-heading = Jaké jsou u sítě { -brand-name-mozilla-vpn } zásady vracení peněz?
 vpn-landing-faq-refund-question-desc-v2 = Když si poprvé předplatíte službu { -brand-name-mozilla-vpn } prostřednictvím webových stránek { -brand-name-mozilla(case: "gen") } a během prvních 30 dnů zrušíte svůj účet, můžete požádat o vrácení peněz a { -brand-name-mozilla } vám vrátí peníze za první období předplatného.
 vpn-landing-faq-refund-question-additional-desc = Pokud si předplatné zakoupíte prostřednictvím nákupu v aplikaci v obchodě { -brand-name-apple } { -brand-name-app-store } nebo { -brand-name-google-play }, řídí se vaše platba obchodními podmínkami obchodu { -brand-name-app-store }. Veškeré dotazy týkající se vyúčtování a vrácení peněz za takové nákupy musíte směřovat na společnost { -brand-name-apple }, případně { -brand-name-google }.
 # Outdated string
