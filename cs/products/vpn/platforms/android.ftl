@@ -24,7 +24,7 @@ vpn-android-privacy-copy = Použití sítě { -brand-name-mozilla-vpn } pro { -b
 vpn-android-servers-headline = Více než { $servers } serverů ve více než { $countries } zemích
 # Variables:
 #   $countries (number) - number of available countries
-vpn-android-servers-copy = Se službou { -brand-name-mozilla-vpn } můžete polohu svého telefonu s { -brand-name-android(case: "ins") } nastavit na jednu z více než { $countries } zemí. To znamená, že web uvidíte jakožto místní obyvatel země, přes kterou jste připojeni. Je to zábavný a zajímavý způsob, jak poznat web z nové perspektivy.
+vpn-android-servers-copy = Se sítí { -brand-name-mozilla-vpn } můžete polohu svého telefonu s { -brand-name-android(case: "ins") } nastavit na jednu z více než { $countries } zemí. To znamená, že web uvidíte jakožto obyvatel země, přes kterou jste připojeni. Je to zábavný a zajímavý způsob, jak poznat web z nové perspektivy.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Jedno předplatné až pro { $devices } zařízení
