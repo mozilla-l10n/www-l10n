@@ -17,20 +17,20 @@ vpn-ios-wifi-copy = Používáte veřejnou wifi? Žádný problém. Díky síti 
 vpn-ios-about-headline = Proč nám věřit?
 vpn-ios-about-copy = Možná nás znáte díky našemu webovému prohlížeči { -brand-name-firefox } – ale vedle toho { -brand-name-mozilla } již od roku 1998 bojuje za vaše práva na internetu – to je naše hlavní mise. Jsme posedlí snahou zajistit, aby internet zůstal otevřený a svobodný, při současném respektování práva každého na soukromí a bezpečnost.
 vpn-ios-privacy-headline = Připojení na jedno klepnutí
-vpn-ios-privacy-copy = Používání služby { -brand-name-mozilla-vpn } je velmi snadné. Klepněte na tlačítko a vaše připojení se zašifruje za pomoci pokročilého protokolu { -brand-name-wireguard }® a IP adresa vašeho { -brand-name-iphone(case: "gen") } nebo { -brand-name-ipad(case: "gen") } se zastře.
+vpn-ios-privacy-copy = Používání sítě { -brand-name-mozilla-vpn } je velmi snadné. Klepněte na tlačítko a vaše připojení se zašifruje za pomoci pokročilého protokolu { -brand-name-wireguard }® a IP adresa vašeho { -brand-name-iphone(case: "gen") } nebo { -brand-name-ipad(case: "gen") } se zastře.
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Připojte se k více než { $servers } serverům po celém světě
 # Variables:
 #   $countries (number) - number of available countries
-vpn-ios-servers-copy = Nakupujte ze Švýcarska. Streamujte z Kanady. Surfujte z Austrálie. Se službou { -brand-name-mozilla-vpn } můžete polohu svého { -brand-name-iphone(case: "gen") } nebo { -brand-name-ipad(case: "gen") } nastavit na jednu z více než { $countries } zemí a otevřít si tak přístup ke spoustě zajímavého obsahu.
+vpn-ios-servers-copy = Nakupujte ze Švýcarska. Streamujte z Kanady. Surfujte z Austrálie. Se sítí { -brand-name-mozilla-vpn } můžete polohu svého { -brand-name-iphone(case: "gen") } nebo { -brand-name-ipad(case: "gen") } nastavit na jednu z více než { $countries } zemí a otevřít si tak přístup ke spoustě zajímavého obsahu.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Získejte přístup pro { $devices } zařízení
 # Variables:
 #   $devices (number) - number of available devices
-vpn-ios-devices-copy = S jedním předplatným můžete službu { -brand-name-mozilla-vpn } užívat až na { $devices } různých zařízeních se systémy { -brand-name-ios } pro { -brand-name-iphone(case: "acc") } a { -brand-name-ipad(case: "acc") }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
+vpn-ios-devices-copy = S jedním předplatným můžete síť { -brand-name-mozilla-vpn } užívat až na { $devices } různých zařízeních se systémy { -brand-name-ios } pro { -brand-name-iphone(case: "acc") } a { -brand-name-ipad(case: "acc") }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
 vpn-ios-speed-headline = Maximální rychlosti. Neomezená data.
-vpn-ios-speed-copy = Hrajte online hry, streamujte své oblíbené pořady a procházejte web pomocí superrychlého připojení. Se službou { -brand-name-mozilla-vpn } si nemusíte dělat starosti kvůli šířce pásma – je neomezená.
+vpn-ios-speed-copy = Hrajte online hry, streamujte své oblíbené pořady a procházejte web pomocí superrychlého připojení. V síti { -brand-name-mozilla-vpn } si nemusíte dělat starosti kvůli šířce pásma – je neomezená.
 vpn-ios-log-headline = Vaše data zůstávají soukromá. Tečka.
 vpn-ios-log-copy = Někteří poskytovatelé sítí VPN si na svých serverech zaznamenávají vaši aktivitu. Nejenže vás služba { -brand-name-mozilla-vpn } na internetu nesleduje – my se důrazně stavíme proti tomu. Je to z velké části to, co jako společnost reprezentujeme.
