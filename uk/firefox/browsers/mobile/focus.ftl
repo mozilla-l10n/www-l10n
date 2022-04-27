@@ -6,15 +6,15 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
-mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Браузер для приватності
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Приватний браузер
 # HTML description
-mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } — ваш відданий браузер для приватності з автоматичним захистом від стеження та блокуванням реклами.
+mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } — ваш відданий приватний браузер з автоматичним захистом від стеження та блокуванням реклами.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Просто приватний мобільний перегляд
-mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } — ваш відданий браузер для приватності з автоматичним захистом від стеження та блокуванням реклами. Завдяки { -brand-name-focus } ваші сторінки завантажуються швидше, а дані залишаються приватними.
+mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } — ваш відданий приватний браузер з автоматичним захистом від стеження та блокуванням реклами. Із { -brand-name-focus } ваші сторінки завантажуються швидше, а дані залишаються приватними.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } доступний як для пристроїв { -brand-name-ios }, так і для { -brand-name-android }.
 mobile-focus-get-firefox-focus = Отримайте { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Надіслати посилання для завантаження на свій телефон.
+mobile-focus-send-a-download-link-to-your = Надішліть посилання для завантаження на свій телефон.
 mobile-focus-scan-the-qr-code-to-get-started = Скануйте QR-код, щоб почати завантаження
 mobile-focus-scan-alt-text = Скануйте QR-код, щоб отримати { -brand-name-firefox-focus }
 # Outdated string
