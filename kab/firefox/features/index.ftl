@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -45,8 +45,11 @@ features-index-stack-up = Wali amek { -brand-name-firefox } i d-iban sdat n yimi
 features-index-compare-browsers = Serwes gar yiminigen
 features-index-see-themes = Wali isental imezwura
 features-index-download-latest = Sader { -brand-name-firefox }
+features-index-fingerprinter-blocking = Amsewḥal n udsil n umḍin
+features-index-fingerprinting-is-a = Adsil umḍin d anaw n uḍfar srid i leqqay uḍfar-ines ugar n uḍfar yebnan ɣef yinagan n tuqqna — ɣef waya i t-issewḥal { -brand-name-firefox-browser }.
 features-index-block-fingerprinters = Sewḥel idsilen umḍinen
 features-index-translate-the-web = Suqel web
 features-index-translate-more-than = Suqqel seg ugar n 100 tutlayin ɣer tatlayt-ik·im srid deg { -brand-name-firefox-browser }-inek·inem - fessus ugar ɣef wayen yezrin.
 features-index-translate-to-your = Suqel ɣer tutlayt-ik·im
 features-index-picture-in-picture = Tugna-deg-tugna
+features-index-got-things-to-do = Yella wayen ara txedmeḍ neɣ ara twaliḍ? Eg-iten ɣef tikkelt s useqdec n tugna-deg-tugna deg { -brand-name-firefox }.
