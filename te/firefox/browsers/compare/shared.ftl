@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -10,8 +10,11 @@ compare-shared-yes = అవును
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = కాదు
 compare-shared-private-browsing-mode = అంతరంగిక విహారణ రీతి
+# Obsolete string
 compare-shared-blocks-third-party-tracking = మూడవ-పక్ష ట్రాకింగు కుకీలు
 compare-shared-password-management = సంకేతపదాల నిర్వాహణ
+compare-shared-primary-password = ప్రధాన సంకేతపదం
+# Obsolete string
 compare-shared-master-password = ప్రధాన సంకేతపదం
 compare-shared-security-and-privacy = భద్రత, అంతరంగికత
 compare-shared-utility = ఉపయోగ్యత
