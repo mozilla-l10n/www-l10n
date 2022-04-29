@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title-v2 = Allel { -brand-name-mozilla } ad tennaɣ ɣef internet igerrzen deg wussan-a n tfaska.
+banner-fundraising-title-giving-day = Allel { -brand-name-mozilla } ad tennaɣ ɣef internet igerrzen deg wass-a n Giving Tuesday.
 # Outdated string
 banner-fundraising-title = Imal ha-t-an deg uzeṭṭa. Allel { -brand-name-mozilla } ad iḥareb i Web i medden merra.
 # Outdated string
