@@ -21,6 +21,7 @@ mobile-ios-make-firefox-your = Err { -brand-name-firefox } d iminig-ik amezwer
 mobile-ios-fast-private-secure = D arurad. D uslig. D aɣellsan
 mobile-ios-stay-private-online = Qqim d uslgi srid
 mobile-ios-your-browsing-history = Azray-ik•im n tunigin d azray
+mobile-ios-if-you-want = Ma tebɣiḍ, tzemreḍ s sshala ad tferneḍ ad tedduḍ srid syen ad tnadiḍ deg uskar n tunigin uslig. Mi ara tmedleḍ askar n tunigin uslig, azray-inek•inem n tunigin d yinagan n tuqqna ad ttwakksen s wudem awurman seg yibenk-ik•im.
 mobile-ios-get-more-firefox = Awi ugar { -brand-name-firefox } deg tudert-ik·im
 mobile-ios-discover-more-of = Snirem ugar ɣef wayen i tḥemmleḍ
 mobile-ios-about-mozilla = Ɣef { -brand-name-mozilla }
