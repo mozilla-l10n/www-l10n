@@ -7,6 +7,7 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = Aserwes srid gar 5 n yiminigen izirazen ufrinen
+mobile-compare-which-mobile-browser = Anwa iminig aziraz yettaǧǧan kullec d abaḍni?
 mobile-compare-another-mobile-feature = Tamahilt-nniḍen n uziraz i d-ittunefken d tazmert n usewḥel n yismal web d tkebbaniyin akken ur ṭṭafaren ara isefka n tunigin-ik•im d tiɣin-ik•im — ulamma deg uskar n tunigin timugna.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Timahilin</strong>
@@ -33,6 +34,7 @@ mobile-compare-collections = Tigrummiwin
 mobile-compare-inapp-vpn = VPN deg usnas
 mobile-compare-shopping = Tiɣin
 mobile-compare-mobile-os-availability = Tilin n unagraw n wammud n uziraz
+mobile-compare-syncs-with-desktopmobile = Semtawi s usnas n tnarit/aziraz
 mobile-compare-password-management = Asefrek n wawal uffir
 mobile-compare-primary-password = Awal uffir agejdan
 mobile-compare-get-firefox-for-mobile = Awi { -brand-name-firefox } i uziraz

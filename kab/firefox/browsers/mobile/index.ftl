@@ -18,9 +18,11 @@ browsers-mobile-at-home-or-on-the-move = Deg uxxam neɣ beṛṛa, tuklaleḍ aq
 browsers-mobile-get-the-mobile-browser-privacy = Awi iminig aziraz yettarran <strong>tudert-ik tabaḍnit</strong> deg umḍiq amezwaru
 browsers-mobile-firefox-for-android = { -brand-name-firefox } i { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } i { -brand-name-ios }
+browsers-mobile-go-your-own-way = Ddu deg ubrid i tebɣiḍ s uziraz { -brand-name-firefox }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Serwes gar yiminigen izirazen
 browsers-mobile-compare = Serwes
+browsers-mobile-see-how-firefox-for-desktop-stacks = Wali amek { -brand-name-firefox } i i uselkim ara d-iban sdat n sebɛa yiminigen-nniḍen.
 browsers-mobile-join-firefox-and-get-the-most = Ddu ɣer { -brand-name-firefox } tfaṛṣeḍ seg yal afaris — deg yal ibenk.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
