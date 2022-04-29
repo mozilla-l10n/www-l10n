@@ -23,6 +23,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Serwes gar yiminigen izirazen
 browsers-mobile-compare = Serwes
 browsers-mobile-see-how-firefox-for-desktop-stacks = Wali amek { -brand-name-firefox } i i uselkim ara d-iban sdat n sebɛa yiminigen-nniḍen.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Wali amek { -brand-name-firefox } i <strong>tnarit</strong> ara d-iban sdat n sebɛa yiminigen-nniḍen.
 browsers-mobile-join-firefox-and-get-the-most = Ddu ɣer { -brand-name-firefox } tfaṛṣeḍ seg yal afaris — deg yal ibenk.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
