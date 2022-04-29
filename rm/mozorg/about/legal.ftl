@@ -32,4 +32,6 @@ legal-firefox-private-network-terms = Cundiziuns d'utilisaziun da { -brand-name-
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: Davart tes dretgs
 legal-firefox-relay-terms = Cundiziuns d'utilisaziun da { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = Cundiziuns d'utilisaziun da { -brand-name-mozilla-vpn }
+legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = Cundiziuns d'utilisaziun da { -brand-name-mdn-plus }
 legal-report-copyright = Annunziar violaziuns dal dretg d'autur e dal dretg da marcas

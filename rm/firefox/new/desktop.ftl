@@ -38,6 +38,11 @@ firefox-desktop-download-blocks-social-trackers = Blochescha fastizaders da soci
 firefox-desktop-download-os-availability = Disponibladad per sistems operativs
 firefox-desktop-download-in-browser-screenshot = Utensil integrà per far maletgs dal visur
 firefox-desktop-download-primary-password = Pled-clav universal
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = Amur per tia vita online
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Igl è tes internet. Al colurescha tenor tes gust cun millis utensils, designs ed extensiuns. { -brand-name-firefox } è il vair navigatur alternativ che dat la prioritad a las persunas, betg al profit.
 # Obsolete string
 firefox-desktop-download-master-password = Pled-clav universal
 firefox-desktop-download-we-block-the-ad = Nus bloccain ils fastizaders da reclama. Ti navigheschas pli svelt en l'internet.

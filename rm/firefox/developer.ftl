@@ -52,10 +52,14 @@ firefox-developer-style-editor = Editur da styles
 firefox-developer-edit-and-manage = Modifitgescha e gestiunescha tut tes CSS stylesheets en il navigatur.
 firefox-developer-learn-more-about-style = Ulteriuras infurmaziuns davart l'editur da styles
 firefox-developer-new-tools = Novs utensils
+firefox-developer-inactive-css = CSS inactiv
+firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } mussa ussa en grisch las decleraziuns CSS che n'han nagin effect sin la pagina. Sche ti tegnas la mieur sur l'icona d'infurmaziun vesas ti in messadi nizzaivel che explitgescha daco ch'il CSS na vegn betg applitgà sco era in avis che gida da schliar il problem.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Ils novs { -brand-name-firefox-devtools } èn pussants, flexibels e surtut modifitgabels tenor tes giavischs. Els includan in debugadi da JavaScript extraordinari che s'adatta a differents navigaturs, sviluppà cun agid da React e Redux.
 firefox-developer-master-css-grid = Dumogna las griglias CSS
+# outdated
 firefox-developer-next-gen-css-engine = In motor CSS da la pli nova generaziun
+firefox-developer-built-for-developers = Fatg per sviluppaders
 firefox-developer-a-next-generation = In motor CSS da la pli nova generaziun
 firefox-developer-master-innovative-features = Funcziuns innovativas
 firefox-developer-want-to-be-on-the-cutting-edge = Vuls esser avantgarda?
