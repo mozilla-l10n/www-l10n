@@ -30,5 +30,7 @@ mobile-ios-own-your-home = Err agdil agejdan inek•inem
 mobile-ios-get-to-the-parts = Kcem s zzerb ɣer internet wuɣur terriḍ lwelha-k•m. Fren ad twaliḍ akk accaren-ik•im yeldin, inadiyen imaynuten, ticraḍ n yisebtar d yismal i tḥemmleḍ deg yiwen wadeg.
 # Obsolete string
 mobile-ios-add-firefox-across = Rnu { -brand-name-firefox } ɣef meṛṛa ibenkan-ik•im i tunigin taɣellsant, tafrawant. { -brand-name-sync } ibenkan-ik•im i wakken ad tawiḍ yid-k•m ticraḍ n yisebtar tḥemmleḍ, inekcam yettwaskelsen, awalen uffiren d uzray n tunigin anda ma teddiḍ. Rnu ɣer waya, azen accaren yeldin gar tiliɣri d tnarit i wakken ad tkemmleḍ ansi i tḥebseḍ.
+# Obsolete string
+mobile-ios-keep-tabs-on = Sers tiṭ-ik•im ɣef meṛṛa ibenkan-ik•im
 mobile-ios-discover-more-of = Snirem ugar ɣef wayen i tḥemmleḍ
 mobile-ios-about-mozilla = Ɣef { -brand-name-mozilla }
