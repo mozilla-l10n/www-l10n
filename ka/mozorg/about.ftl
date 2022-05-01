@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
 
 # HTML Page title
-about-learn-about-mozilla = ვრცლად, { -brand-name-mozilla }-ს შესახებ
+about-learn-about-mozilla = ვრცლად { -brand-name-mozilla }-ს შესახებ
 # HTML page description
 about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } ქმნის ბრაუზერებს, პროგრამებს, კოდსა და ხელსაწყოებს, რომლებიც ხალხს აყენებს მოგებაზე წინ. ჩვენი მიზანია: შევინარჩუნოთ ინტერნეტი მუდამ გახსნილი და საყოველთაოდ ხელმისაწვდომი.
 # Main heading
