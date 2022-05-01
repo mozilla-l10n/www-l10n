@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
@@ -15,7 +15,7 @@ vpn-android-maker-of-firefox = როგორც { -brand-name-firefox }-ბრ
 vpn-android-wifi-headline = იყავით უსაფრთხოდ, გადაადგილების დროსაც
 vpn-android-wifi-copy = ზოგჯერ უსადენო ინტერნეტი მიუწვდომელია და საჯარო WiFi ერთადერთი გამოსავალია. { -brand-name-mozilla-vpn } თქვენს { -brand-name-android }-მოწყობილობაზე საშუალებას მოგცემთ, აღარ იდარდოთ აეროპორტში ყოფნისას პაროლების შეყვანაზე, ან კუთხის ყავახანაში მოსვენებისას, ინტერნეტში საყიდლების შეძენაზე — უბრალოდ შეეხეთ დაკავშირების ღილაკს და აკეთეთ, რაც მოგესურვებათ.
 vpn-android-about-headline = { -brand-name-mozilla } არის სახელი, რომელსაც ენდობით
-vpn-android-about-copy = ჩვენ, ყველაზე უკეთ გვიცნობენ, როგორც { -brand-name-firefox }-ის შემქმნელს, თუმცა { -brand-name-mozilla } გაცილებით დიდი დაწესებულებაა უმთავრესი მიზნით — ინტერნეტში ადამიანის უფლებების დაცვისთვის ბრზოლით. სწორედ ამას ვაკეთებთ 1998 წლიდან მოყოლებული. ჩვენ ვზრუნავთ რომ ინტერნეტი დარჩეს საყოველთაოდ ღია, თავისუფალი და ამასთან, უზრუნველყოფილი იყოს ყველას უფლებები და პირადულობა.
+vpn-android-about-copy = ჩვენ ყველაზე უკეთ გვიცნობენ, როგორც { -brand-name-firefox }-ის შემქმნელს, თუმცა { -brand-name-mozilla } გაცილებით დიდი დაწესებულებაა უმთავრესი მიზნით — ინტერნეტში ადამიანის უფლებების დაცვისთვის ბრზოლით. სწორედ ამას ვაკეთებთ 1998 წლიდან მოყოლებული. ჩვენ ვზრუნავთ რომ ინტერნეტი დარჩეს საყოველთაოდ ღია, თავისუფალი და ამასთან, უზრუნველყოფილი იყოს ყველას უფლებები და პირადულობა.
 vpn-android-privacy-headline = ერთი შეხებით დაკავშირება
 vpn-android-privacy-copy = { -brand-name-mozilla-vpn }-ის { -brand-name-android }-ზე გამოყენება უმარტივესია. შეეხეთ მიერთების ღილაკს და კავშირი ავტომატურად დაიშიფრება მაღალი დონის { -brand-name-wireguard }® ოქმით. სულ ესაა!
 # Variables:
