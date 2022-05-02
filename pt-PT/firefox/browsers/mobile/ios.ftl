@@ -17,5 +17,7 @@ mobile-ios-your-browsing-history = O seu histórico de navegação é história
 mobile-ios-own-your-home = Controle o seu ecrã inicial
 mobile-ios-get-to-the-parts = Aceda mais rapidamente às partes da Internet do seu interesse. Escolha ver todos os seus separadores abertos, pesquisas recentes, marcadores e sites favoritos, tudo num único sítio.
 mobile-ios-find-it-all = Encontre tudo mais depressa
+# Obsolete string
+mobile-ios-keep-tabs-on = Mantenha controlo sobre todos os separadores
 mobile-ios-discover-more-of = Descubra mais daquilo que ama
 mobile-ios-about-mozilla = Sobre a { -brand-name-mozilla }
