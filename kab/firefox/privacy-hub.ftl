@@ -85,4 +85,5 @@ firefox-privacy-hub-already-have-an-account = Γur-k·m yakan amiḍan? a { $sig
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Γer <a href="{ $url }">tasertit n tbaḍnit</a> n yifarisen-nneɣ
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Nadi, zuzer, mahel ɣef yiqeddacen deg wugar n 30 tmura i tuqqna n internet taɣellsant s wudem amaynut.
 firefox-privacy-hub-get-mozilla-vpn = Awi { -brand-name-mozilla-vpn }

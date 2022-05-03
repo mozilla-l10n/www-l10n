@@ -25,6 +25,8 @@ firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Nadi, zuzer, mahel ɣef yiqeddacen deg wugar n 30 tmura i tuqqna n internet taɣellsant s wudem amaynut.
 firefox-products-get-mozilla-vpn = Awi { -brand-name-mozilla-vpn }
 firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Mmesten tansa-k n yimayl n tidet i wakken ad tesεuḍ asenqed ɣef tbewwaḍt-ik n tirawt.
+firefox-products-learn-more-about-relay = Issin ugar ɣef { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
@@ -48,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Ddu ɣer { -brand-name-firefox 
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Tesɛiḍ yakan amiḍan? <a { $fxa_attr }>Jerred deg </a> neɣ <a{ $accounts_attr }>issin ugar</a>ɣef tmerna ɣer { -brand-name-firefox }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Iminig-ik n tbaḍnit yettwagen i ummesten awurman mgal aḍfar akked usewḥel n udellel.
