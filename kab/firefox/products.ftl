@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -21,11 +21,21 @@ firefox-products-desktop = Tanarit
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Ẓer akk iminigen
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Nadi, zuzer, mahel ɣef yiqeddacen deg wugar n 30 tmura i tuqqna n internet taɣellsant s wudem amaynut.
+firefox-products-get-mozilla-vpn = Awi { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Ḥrez awalen-ik uffiren ad qqimen d iɣelsanen, daɣen kcem ɣer-sen deg meṛṛa ibenkan-ik yemtawin.
+# Obsolete string
 firefox-products-download-lockwise = Sider { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Ldi deg { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Issin ugar ɣef { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Azen ifuyla meqqren akked isemliyen ibaḍniyen s wudem aɣelsa, arma d 2.5G.
 firefox-products-send-a-file = Azen afaylu
