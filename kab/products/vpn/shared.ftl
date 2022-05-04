@@ -9,6 +9,9 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Awi { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Rnu ɣer tebdart n uṛaǧu
 vpn-shared-sign-in-link = Tmuletɣeḍ yakan?
+# Outdated string
+vpn-shared-available-countries-v4 = Nsummur-d akka tura { -brand-name-mozilla-vpn } deg Ustriya, Biljik, Kanada, Fṛansa, Lalman, Iṛland, Ṭelyan, Malizya, Huland, Ziland Tamaynut, Singapur, Spanya, Swis, UK akked Marikan.
+vpn-shared-available-countries-v5 = Nsummur-d akka tura { -brand-name-mozilla-vpn } deg Ustriya, Biljik, Kanada, Finlund, Fṛansa, Lalman, Iṛland, Ṭelyan, Malizya, Huland, Ziland Tamaynut, Singapur, Spanya, Swed, Swis, UK akked Marikan.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Ṭṭmana n tiririt n yidrimen deg 30 n wussan
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -49,6 +52,7 @@ vpn-shared-features-strong-servers = Iqeddacen iǧehden deg { $countries }+ timu
 vpn-shared-features-connect = Qqen ɣer alamma { $devices } yibenkan
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Ṭṭmana n tiririt n yidrimen n 30 n wussan
+vpn-shared-refund-policy = Tasertit n uɣram
 vpn-shared-privacy-notice = Tasertit n tbaḍnit
 vpn-shared-terms-conditions = Tiwtilin d yilugan
 
