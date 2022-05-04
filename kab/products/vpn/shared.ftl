@@ -55,6 +55,7 @@ vpn-shared-features-guarantee = Ṭṭmana n tiririt n yidrimen n 30 n wussan
 vpn-shared-refund-policy = Tasertit n uɣram
 vpn-shared-privacy-notice = Tasertit n tbaḍnit
 vpn-shared-terms-conditions = Tiwtilin d yilugan
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } d tacreḍt yettwagen i Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
@@ -83,6 +84,8 @@ vpn-shared-pricing-save-percent = Sekles { $percent }%
 #   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
 # Asterisk indicates a footnote for the following string
 vpn-shared-save-percent-on = Sekles { $percent }% ɣef { -brand-name-mozilla-vpn }*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *mi ara tmultɣeḍ ǧer uɣawas n 12 wayyuren
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } usemday

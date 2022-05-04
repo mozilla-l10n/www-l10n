@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
@@ -13,6 +13,7 @@ vpn-mobile-hero-headline = Sɣelles tudert-ik·im tabaḍnit ɣef uziraz s { -br
 vpn-mobile-wifi-headline = Ḥalfu s laman mi ara tseqdaceḍ wifi azayaz
 vpn-mobile-about-headline = Γef { -brand-name-mozilla }
 vpn-mobile-privacy-headline = Tudert tabaḍnit s yiwen usiti
+vpn-mobile-servers-headline = Qqen ɣer yiqeddacen deg yal tama n umaḍal
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Mmesten alamma { $devices } yibenkan
