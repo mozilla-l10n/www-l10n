@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
+# HTML page title and main title
+vpn-when-to-use-5-reasons-you-should = 5 n ssebbat ara ak-yeǧǧen ad tesqedceḍ VPN
 vpn-when-to-use-1-a-walk = 1. Tikli deg unannar
 vpn-when-to-use-3-on-the = 3. D ayen ara tawiḍ
 vpn-when-to-use-5-in-your = 5. Deg uxxam-ik kečč
