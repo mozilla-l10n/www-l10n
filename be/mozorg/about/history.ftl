@@ -31,6 +31,9 @@ history-after-several-years-of-development = Пасля некалькіх га�
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Да 2002 года <a href="{ $over90 }">больш за 90% карыстальнікаў Інтэрнэту</a> аглядалі з дапамогай { -brand-name-ie }.
 # Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = У той час мала хто заўважыў, але першая версія Phoenix (пазней перайменаванага ў { -brand-name-firefox }) была выпушчана ўдзельнікамі супольнасці { -brand-name-mozilla } у тым жа годзе з мэтай прадастаўлення <a href="{ $charter }">найлепшага досведу аглядання</a> для самага шырокага кола людзей.
+# Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = У 2003 годзе праект { -brand-name-mozilla } стварыў { -brand-name-mozilla-foundation }, <a href="{ $foundation }">незалежную некамерцыйную арганізацыю</a>, якую падтрымліваюць індывідуальныя інвестары і розныя кампаніі.
 # Variables:
