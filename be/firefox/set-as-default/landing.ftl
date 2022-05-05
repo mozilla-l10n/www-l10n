@@ -1,12 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
 
 # HTML page title
-set-as-default-landing-make-firefox-your-default = Зрабіце { -brand-name-firefox } вашым прадвызначаным браўзэрам
+set-as-default-landing-make-firefox-your-default = Зрабіць { -brand-name-firefox } вашым прадвызначаным браўзерам
+# HTML page description
+set-as-default-landing-choose-the-browser = Выберыце браўзер, які абараняе вашу прыватнасць. Усталюйце { -brand-name-firefox } прадвызначаным браўзерам.
 set-as-default-landing-make-sure-youre-protected = Пераканайцеся, што вы абаронены, кожны раз, калі вы выходзіце ў інтэрнэт
 set-as-default-landing-thanks-for-using-the = Дзякуем за выкарыстанне сучаснай версіі браўзера { -brand-name-firefox }. Выбіраючы { -brand-name-firefox }, вы падтрымліваеце лепшы інтэрнэт для вас і ўсіх астатніх. Цяпер зрабіце наступны крок, каб абараніць сябе.
 set-as-default-landing-choose-automatic-privacy = Выбірайце аўтаматычную прыватнасць
