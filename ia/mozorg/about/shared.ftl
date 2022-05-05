@@ -17,3 +17,4 @@ about-shared-software-innovations = Software e altere innovationes designate pro
 about-shared-get-involved = Collabora
 about-shared-volunteer = Deveni un collaborator voluntario in un numero del areas differente.
 vision-for-the-web = Le vision del Web de { -brand-name-mozilla }
+read-about-our-vision = Lege re nostre vision pro le Web e nostre modo de intender pro prosequer lo.
