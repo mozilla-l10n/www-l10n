@@ -22,13 +22,7 @@ compare-edge-here-well-compare-our-firefox = Di sini kami akan membandingkan { -
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = { -brand-name-edge } diintegrasikan ke dalam platform { -brand-name-windows } 10 dan berjalan dalam persekitaran sandbox, yang bermaksud ia mengasingkan program dan mencegah program hasad daripada mengintip komputer anda. Ia mempunyai SmartScreen yang mengimbas reputasi laman web yang anda kunjungi dan menyekat laman web yang mencurigakan. Untuk mempertingkatkan privasi, { -brand-name-edge } membolehkan anda menggunakan biometrik atau PIN dengan { -brand-name-windows } Hello dan bukannya kata laluan untuk pengesahan dalam talian.
 
-# Variables:
-#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
-compare-edge-at-firefox-we-pride-ourselves = Di { -brand-name-firefox }, kami bangga melindungi keselamatan dan privasi pengguna kami. <a { $attrs }>Polisi privasi</a> kami telus dan dalam bahasa yang mudah. Kami sebenarnya meletakkan banyak usaha dalam memastikan ia jelas dan mudah dibaca. Dengan Perlindungan Penjejakan Dipertingkatkan yang kini dihidupkan secara lalai, kami menyekat 2000+ penjejak secara automatik. Penjejak ialah kepingan kecil kod yang cuba mengumpulkan perkara yang anda lakukan di pelbagai laman web internet untuk membina gambaran komposit dan terperinci tentang diri anda, sehingga menjejaskan privasi anda hanya untuk menyasarkan iklan yang lebih baik.
 
-# Variables:
-#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
-compare-edge-at-firefox-our-privacy-fallback = Di { -brand-name-firefox }, <a { $attrs }>polisi privasi</a> kami telus dan dalam bahasa yang mudah. Kami sebenarnya meletakkan banyak usaha dalam memastikan ia jelas dan mudah dibaca. Kami bangga melindungi keselamatan dan privasi pengguna kami. Dengan Perlindungan Penjejakan Dipertingkatkan yang kini dihidupkan secara lalai, kami menyekat 2000+ penjejak secara automatik. Penjejak ialah kepingan kecil kod yang cuba mengumpulkan perkara yang anda lakukan di pelbagai laman web internet untuk membina gambaran komposit dan terperinci tentang diri anda, sehingga menjejaskan privasi anda hanya untuk menyasarkan iklan yang lebih baik.
 
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics

@@ -22,13 +22,7 @@ compare-edge-here-well-compare-our-firefox = Di sini kami akan membandingkan { -
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = { -brand-name-edge } diintegrasikan ke dalam platform { -brand-name-windows } dan berjalan di lingkungan sandbox, yang berarti mengisolasi program dan mencegah program jahat memata-matai komputer Anda. Edge memiliki SmartScreen bawaan yang memindai reputasi situs yang Anda kunjungi dan memblokir situs yang mencurigakan. Untuk meningkatkan privasi, { -brand-name-edge } memungkinkan Anda menggunakan biometrik atau PIN dengan { -brand-name-windows } Hello alih-alih kata sandi untuk autentikasi daring.
 
-# Variables:
-#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
-compare-edge-at-firefox-we-pride-ourselves = Di { -brand-name-firefox }, kami bangga melindungi keamanan dan privasi pengguna. <a { $attrs }>Kebijakan privasi</a> kami transparan dan menggunakan bahasa sederhana. Kami benar-benar berusaha maksimal untuk memastikannya agar mudah dipahami dan dibaca. Dengan Perlindungan Pelacakan yang Ditingkatkan yang kini aktif secara default, kami memblokir 2000+ pelacak secara otomatis. Pelacak adalah potongan-potongan kecil kode yang mencoba merumuskan apa yang Anda lakukan di beberapa situs internet untuk membuat gambar komposit dan rincian tentang siapa Anda, membahayakan privasi Anda hanya untuk penargetan iklan yang lebih baik.
 
-# Variables:
-#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
-compare-edge-at-firefox-our-privacy-fallback = Di { -brand-name-firefox }, <a { $attrs }>kebijakan privasi</a> kami transparan dan dalam bahasa yang sederhana. Kami benar-benar berusaha maksimal untuk memastikannya agar mudah dipahami dan dibaca. Kami bangga melindungi keamanan dan privasi pengguna. Dengan Perlindungan Pelacakan yang Ditingkatkan yang kini aktif secara default, kami memblokir 2000+ pelacak secara otomatis. Pelacak adalah potongan-potongan kecil kode yang mencoba merumuskan apa yang Anda lakukan di beberapa situs internet untuk membuat gambar komposit dan rincian tentang siapa Anda, membahayakan privasi Anda hanya untuk penargetan iklan yang lebih baik.
 
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
