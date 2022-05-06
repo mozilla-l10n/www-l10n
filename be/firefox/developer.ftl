@@ -59,6 +59,7 @@ firefox-developer-the-new-firefox-devtools = Новыя { -brand-name-firefox-de
 firefox-developer-master-css-grid = Кіраванне CSS-сеткай
 # outdated
 firefox-developer-next-gen-css-engine = CSS-рухавік новага пакалення
+firefox-developer-built-for-developers = Створаны для распрацоўшчыкаў
 firefox-developer-a-next-generation = CSS-рухавік новага пакалення
 firefox-developer-master-innovative-features = Інавацыйныя магчымасці
 firefox-developer-want-to-be-on-the-cutting-edge = Хочаце быць на пярэднім краі тэхналогій?
@@ -79,3 +80,7 @@ firefox-developer-welcome-to-the-all-new = Вітаем у цалкам новы
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } быў поўнасцю перабудаваны, каб быць хутчэйшым, лягчэйшым і магутнейшым, чымсьці калі-небудзь.
 firefox-developer-congrats-you-now-have-firefox = Віншуем! Вы ўсталявалі { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Гэта не проста абнаўленне. Гэта { -brand-name-firefox-quantum }: абсалютна новы { -brand-name-firefox }, які быў поўнасцю перабудаваны, каб быць хутчэйшым, лягчэйшым і магутнейшым, чымсьці калі-небудзь.
+firefox-developer-welcome-to-firefox-browser = Сардэчна запрашаем у { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-made-for-developers = Браўзер, створаны для распрацоўшчыкаў
+firefox-developer-all-the-latest = Усе найноўшыя інструменты распрацоўшчыка з бэта-версіі, а таксама <strong>эксперыментальныя функцыі</strong>, такія як шматрадковы кансольны рэдактар і даследчык WebSocket.
+firefox-developer-a-separate-profile = <strong>Асобны профіль і шлях</strong>, каб вы маглі лёгка запусціць яго адначасова з рэлізам { -brand-name-firefox } або { -brand-name-firefox } { -brand-name-beta }.
