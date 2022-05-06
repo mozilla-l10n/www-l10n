@@ -7,8 +7,6 @@
 # page title
 features-fingerprinting-what-is-fingerprinting-title = تعريف البصمة وسبب ضرورة حجبها
 
-# page description
-features-fingerprinting-fingerprinting-is-a-desc = إن تتبع بصمة المتصفح نوع من أنواع التعقب الإلكتروني الأكثر تغلغلًا وخطورة من التعقب العادي المستند إلى ملفات تعريف الارتباط — ولذلك يحجُبها متصفح { -brand-name-firefox-browser }.
 
 features-fingerprinting-firefox-blocks-fingerprinting = مُتصفح { -brand-name-firefox } يحجب بصمات المُتصفح
 features-fingerprinting-ditch-the-sticky = تخلَّص من الإعلانات المُملة التي تتبعك باستخدام أدوات حجب البصمة المضمنة في متصفح { -brand-name-firefox }.
@@ -18,7 +16,6 @@ features-fingerprinting-every-fingerprint = كل بصمة متصفح فريدة 
 features-fingerprinting-download-firefox = نزِّل { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = ما المقصود ببصمات المتصفح؟
 features-fingerprinting-fingerprinting-is-a = إن تتبع بصمات المُتصفح نوع من أنواع التعقب الإلكتروني الأكثر تغلغلًا وخطورة من التعقب العادي المستند إلى ملفات تعريف الارتباط. وتتكون البصمة الرقمية عندما تُنشِئ شركة ما ملفًا شخصيًا فريدًا لك استنادًا إلى خصائص حاسوبك وبرامجك ووظائفك الإضافية وتفضيلاتك المثبَّتة عليه. ومن المُمكن أن تُستَغل أدواتك وإعداداتك، مثل الشاشة التي تستخدمها وأنواع الخطوط المثبتة على حاسوبك وحتى اختيارك لمُتصفح الويب، لإنشاء بصمة متصفح.
-features-fingerprinting-if-you-have = وإذا كنت تَستخدم جهاز كمبيوتر محمول أو جهاز كمبيوتر مكتبي أو هاتفًا ذكيًا يستخدمه كثير من الأشخاص، قد يكون من الصعب التعرف على هذا الجهاز وتعقُّبه من خلال بصمة المُتصفح. ولكن كلما زادت الميزات الإضافية وأنواع الخطوط والإعدادات الفريدة التي تستخدمها، زادت سُهولة الوصول إليك والتعرف عليك. ويمكن للشركات استخدام هذا المزيج الفريد من المعلومات لإنشاء بصمة متصفح لك. ومن ثمّ فإن متصفح { -brand-name-firefox } يحجب البصمات المعروفة ليظل بإمكانك استخدام المُلحقات والسمات والتخصيصات المفضلة لديك دون أن تتعقبها الإعلانات.
 features-fingerprinting-fingerprinting-is-bad = بصمة المُتصفح وسيلة فاسدة على الإنترنت
 
 # $url_tracked (string) - link to https://hal.inria.fr/hal-01652021/document
