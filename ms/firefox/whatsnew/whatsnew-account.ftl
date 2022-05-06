@@ -11,6 +11,7 @@ whatsnew-account-main-lead-in = Data yang dikumpulkan oleh { -brand-name-firefox
 whatsnew-account-main-button = Daftar Masuk
 
 ##
+
 whatsnew-account-signed-in-headline = Selesaikan lebih banyak perkara. Gunakan { -brand-name-firefox } untuk mudah alih.
 whatsnew-account-signed-in-lead-in = Hantar pautan muat turun ke telefon anda.
 whatsnew-account-signed-in-qr-title = Muat turun { -brand-name-firefox } untuk telefon pintar dan tablet anda.

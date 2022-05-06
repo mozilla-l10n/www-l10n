@@ -11,6 +11,7 @@ whatsnew-account-main-lead-in = لا يَجمع مُتصفح { -brand-name-firef
 whatsnew-account-main-button = تسجيل الدخول
 
 ##
+
 whatsnew-account-signed-in-headline = أنجز أكثر. استخدم { -brand-name-firefox } للهاتف المحمول.
 whatsnew-account-signed-in-lead-in = أرسِل رابط تنزيل إلى هاتفك.
 whatsnew-account-signed-in-qr-title = نزِّل { -brand-name-firefox } على هاتفك الذّكي أو على جهازك اللوحي.

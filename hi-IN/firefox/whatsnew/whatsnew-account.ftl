@@ -11,6 +11,7 @@ whatsnew-account-main-lead-in = { -brand-name-firefox } ब्राउज़र
 whatsnew-account-main-button = साइन इन करें
 
 ##
+
 whatsnew-account-signed-in-headline = ज्यादा चीज़ें करें। मोबाइल के लिए { -brand-name-firefox } इस्तेमाल करें।
 whatsnew-account-signed-in-lead-in = अपने फ़ोन पर एक डाउनलोड लिंक भेजें।
 whatsnew-account-signed-in-qr-title = अपने स्मार्टफ़ोन और टैबलेट के लिए { -brand-name-firefox } डाउनलोड करें।

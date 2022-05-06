@@ -11,6 +11,7 @@ whatsnew-account-main-lead-in = Der { -brand-name-firefox } Browser sammelt so w
 whatsnew-account-main-button = Einloggen
 
 ##
+
 whatsnew-account-signed-in-headline = Mehr Möglichkeiten. Nutze { -brand-name-firefox } für Mobilgeräte.
 whatsnew-account-signed-in-lead-in = Download-Link an dein Telefon senden.
 whatsnew-account-signed-in-qr-title = { -brand-name-firefox } für Smartphone und Tablet downloaden.

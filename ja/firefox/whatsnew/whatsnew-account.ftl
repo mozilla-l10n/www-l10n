@@ -11,6 +11,7 @@ whatsnew-account-main-lead-in = { -brand-name-firefox } は、ユーザーに関
 whatsnew-account-main-button = サインイン
 
 ##
+
 whatsnew-account-signed-in-headline = もっとたくさんのことができます。モバイル用 { -brand-name-firefox } をご利用ください。
 whatsnew-account-signed-in-lead-in = スマートフォンにダウンロードリンクを送信
 whatsnew-account-signed-in-qr-title = スマートフォンおよびタブレット用に { -brand-name-firefox } をダウンロードしてください。

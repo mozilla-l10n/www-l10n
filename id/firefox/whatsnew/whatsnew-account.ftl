@@ -11,6 +11,7 @@ whatsnew-account-main-lead-in = Peramban { -brand-name-firefox } mengumpulkan sa
 whatsnew-account-main-button = Masuk
 
 ##
+
 whatsnew-account-signed-in-headline = Selesaikan lebih banyak hal. Gunakan { -brand-name-firefox } untuk seluler.
 whatsnew-account-signed-in-lead-in = Kirim tautan unduhan ke ponsel Anda.
 whatsnew-account-signed-in-qr-title = Unduh { -brand-name-firefox } untuk ponsel dan tablet Anda.
