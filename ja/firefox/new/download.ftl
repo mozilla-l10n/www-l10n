@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-## Required
+# Required
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } をダウンロード
 firefox-new-download-the-fastest-firefox = 史上最速の { -brand-name-firefox } をダウンロード
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = 高度なインストールオプショ�
 firefox-new-download-in-another-language = 別の言語でダウンロード
 firefox-new-need-help = お困りの場合
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -56,9 +56,9 @@ firefox-new-windows-10 = { -brand-name-windows } 10
 firefox-new-if-you-see-a-prompt = インストールしようとしているアプリが { -brand-name-microsoft } に検証されたアプリではないというメッセージが表示されたら、[このままインストールする] をクリックするか、<a { $attrs }>アプリの推奨に関する設定を変更してください</a>。
 firefox-new-visit-support-for-more = 詳しくはサポートをご覧ください
 
-## Not-Required
+# Not-Required
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = { -brand-name-firefox-browser } をダウンロード

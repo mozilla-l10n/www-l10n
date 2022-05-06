@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-## Required
+# Required
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = تنزيل { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = نزِّل أسرع { -brand-name-firefox } على الإطلاق
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = خيارات التثبيت المُتق�
 firefox-new-download-in-another-language = نزِّله بلغة أخرى
 firefox-new-need-help = أتحتاج لمساعدة؟
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -56,9 +56,9 @@ firefox-new-windows-10 = { -brand-name-windows } 10
 firefox-new-if-you-see-a-prompt = إذا ظهرت لك مُطالبة تفيد بأن التطبيق الذي تُحاول تثبيته غير مُعتمد من { -brand-name-microsoft }، انقر فوق &quot;تثبيت على أي حال&quot; أو <a { $attrs }>غيِّر إعدادات توصيات التطبيق</a>.
 firefox-new-visit-support-for-more = تفضل بزيارة الدعم للحصول على مزيد من التفاصيل
 
-## Not-Required
+# Not-Required
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = تحميل { -brand-name-firefox-browser }

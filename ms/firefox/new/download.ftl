@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-## Required
+# Required
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Muat turun { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Muat turun { -brand-name-firefox } yang terpantas
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Pilihan pemasangan lanjutan & lain-lain p
 firefox-new-download-in-another-language = Muat turun dalam bahasa lain
 firefox-new-need-help = Perlukan bantuan?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -56,9 +56,9 @@ firefox-new-windows-10 = { -brand-name-windows } 10
 firefox-new-if-you-see-a-prompt = Jika anda nampak arahan yang menyatakan aplikasi yang ingin anda pasang bukan disahkan oleh { -brand-name-microsoft }, klik &quot;Install anyway&quot; atau <a { $attrs }>ubah tetapan aplikasi</a>.
 firefox-new-visit-support-for-more = Layari Sokongan untuk Maklumat Lanjut
 
-## Not-Required
+# Not-Required
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Muat turun { -brand-name-firefox-browser }
