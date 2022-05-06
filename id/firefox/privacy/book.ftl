@@ -30,11 +30,9 @@ privacy-book-even-when-organizations = Bahkan ketika organisasi berhati-hati den
 
 privacy-book-the-web-never = Web tidak pernah lupa:
 
-privacy-book-according-to-the = Menurut GDPR, Anda dapat meminta data Anda untuk diserahkan kepada Anda atau dihapus; namun situs mungkin tidak memenuhi permintaan ini dan begitu pula situs yang tidak menawarkan layanannya di luar Eropa.
 
 privacy-book-trackers-everywhere- = Pelacak di mana-mana:
 
-privacy-book-trackers-cookies-youve = Pelacak, cookie? Anda kemungkinan besar mungkin pernah mendengar tentang mereka sebelumnya. Pelacak adalah elemen kecil di situs yang mengamati dan merekam perilaku Anda untuk diteruskan ke pemilik laman atau pihak ketiga. Beberapa dari mereka bahkan melacak Anda di berbagai situs web.
 
 privacy-book-tracking-cookies-are = Cookie pelacak seharusnya memberi tahu pemilik situs web dan pengiklan tentang perilaku penjelajahan Anda dan apa yang Anda minati. Ini kemudian digunakan untuk mempersonalisasikan pengalaman web Anda. Sering kali itu berarti Anda melihat iklan yang disesuaikan, yang sesuai dengan minat Anda. Pada akhirnya, cookie mengumpulkan banyak informasi mengenai Anda dan menyimpannya dalam profil. Ini mungkin terdengar nyaman, tetapi profil ini belum tentu akurat. Dalam kasus terbaik, itu berarti Anda mendapatkan iklan yang kurang relevan. Dalam kasus terburuk, informasi yang Anda lihat di beberapa situs web tidak sesuai dengan kebutuhan dan harapan Anda. Selain itu, ketahuilah bahwa profil Anda dapat memengaruhi, misalnya, harga produk dan layanan yang ditawarkan kepada Anda.
 
@@ -44,18 +42,15 @@ privacy-book-even-if-the = Walaupun Internet jarang memungkinkan kita untuk menj
 
 privacy-book-fake-news-and = Berita Palsu & Gelembung Filter:
 
-privacy-book-news-recommendations-are = Rekomendasi berita membuat kita nyaman, dan jujur saja, banyak dari kita yang lebih suka membaca konten yang sejalan dengan opini kita. Tetapi bagaimana jika konten tersebut tidak akurat? Atau bagaimana jika kita kehilangan gambaran besarnya karena hanya terpapar sebagian kecilnya saja – bagaimana kita bisa membentuk opini kita sendiri?
 
 privacy-book-how-much-control = Seberapa besar kendali yang kita miliki? Dan seberapa banyak yang dengan sukarela kita berikan?
 
-privacy-book-many-of-us = Banyak dari kita yang merasa bahwa kita hanya memiliki sedikit kendali atas keamanan, privasi, dan kualitas informasi yang kita lihat secara daring. Mungkin seperti itulah yang Anda rasakan juga. Ya, masih ada ruang untuk perbaikan – tetapi sering kali kita agak malas dan hanya menggunakan sebagian kecil alat yang tersedia untuk kita. Atau kita hanya mengandalkan pada kenyamanan solusi all-in-one, memberikan sejumlah besar data pribadi ke tangan satu perusahaan tanpa ragu-ragu. Mengapa? Karena kita tidak ingin memikirkannya lebih lanjut dari yang diperlukan. Atau mungkin juga karena kita tidak mengetahui seberapa banyak alternatif yang sebenarnya kita miliki.
 
 # Span is for visual formatting.
 privacy-book-tips-for = 15 kiat <span>untuk kehidupan digital yang lebih baik.</span>
 
 privacy-book-starting-over = Mulai kembali dari awal:
 
-privacy-book-its-time-for = Waktunya untuk Detoks Data! Bersama dengan Tactical Tech Collective, { -brand-name-mozilla } telah mengumpulkan paket kecil kiat praktis yang bagus, yang disebut Perangkat Detoks Data. Ini adalah sebuah program yang akan membuat Anda merasa seperti orang daring yang benar-benar baru. Masih belum merasa siap untuk program lengkapnya? Jangan ragu untuk memulai dengan salah satu kiat berikut (atau semuanya)!
 
 # Span is for visual formatting
 privacy-book-a-tidy-browser = Peramban rapi, pikiran pun rapi <span>– mungkin itu tidak berarti langsung seperti apa yang &quot;mereka&quot; katakan, tetapi masih benar!</span>
@@ -70,7 +65,6 @@ privacy-book-all-of-us = Kita semua, sebagian besar dan sebagian kecil, cenderun
 
 privacy-book-search-engine-title = Mesin pencari:
 
-privacy-book-search-engine-duckduckgo = { -brand-name-duckduckgo }, tidak seperti penyedia lainnya, tidak membuat profil pengguna atau hasil filter, sehingga semua pengguna mendapatkan hasil penelusuran yang sama. Ini tersedia di bilah pencarian peramban Anda dan sebagai ekstensi peramban.
 
 privacy-book-email-have-title = Email:
 
@@ -98,7 +92,6 @@ privacy-book-we-love-social = <strong>Kami menyukai media sosial!</strong> Namun
 
 privacy-book-theres-actually-even = <strong>Sebenarnya ada lebih banyak hal yang perlu diperhatikan dalam jejaring sosial:</strong> seperti yang Anda ketahui, jejaring sosial dibuat untuk berbagi hal-hal pribadi dengan orang yang kita kenal (beberapa kenal baik, beberapa kurang). Terserah Anda untuk memutuskan seberapa banyak informasi pribadi yang ingin Anda bagikan. Hal tersebut berlaku untuk postingan Anda serta lokasi, hal-hal yang Anda sukai, nomor telepon Anda atau dengan siapa Anda menghabiskan waktu. Ingat: semua data ini tidak hanya dapat dilihat oleh masing-masing jejaring sosial, tetapi mungkin juga untuk pengiklan dan masyarakat umum jika Anda membuat profil Anda tersedia untuk umum. Selain itu, jika Anda berbagi lebih sedikit, semakin sedikit pula yang bisa jatuh ke tangan orang-orang yang tidak Anda kenal atau percayai.
 
-privacy-book-what-feels-right = <strong>Apa yang terasa tepat untuk Anda hari ini mungkin berubah esok hari.</strong> Dan itu tidak masalah. Tidak ada ruginya untuk mengevaluasi kembali pandangan Anda mengenai dunia analog dan web sesekali dan menyesuaikannya jika perlu.
 
 privacy-book-what-does-the = Apa yang diketahui dunia mengenai Anda?
 
@@ -155,7 +148,6 @@ privacy-book-its-not-unusual = Bukan hal aneh untuk melihat alamat di internet d
 
 privacy-book-email-accounts-and = Akun email dan identitas daring:
 
-privacy-book-your-email-address = Alamat email Anda tidak selalu mengungkapkan banyak hal tentang Anda. Namun, jika Anda menggunakan alamat yang sama untuk sejumlah layanan dan situs web, Anda akan meninggalkan jejak. Alamat email Anda dapat menjadi pusat identitas daring Anda, terhubung ke semua jenis data (penjelajahan atau akun). Mungkin Anda dapat mempertimbangkan untuk memiliki lebih dari satu untuk tujuan yang berbeda?
 
 privacy-book-resist-the-urge = Tahan keinginan untuk mengklik:
 
@@ -192,7 +184,6 @@ privacy-book-even-if-you = Bahkan jika Anda membeli ponsel cerdas dengan banyak 
 
 privacy-book-the-more-apps = <strong>Batasi titik lemah.</strong> Semakin banyak aplikasi yang Anda miliki di perangkat Anda, semakin banyak entitas yang memiliki akses ke data Anda – dan tidak mungkin memiliki ikhtisar lengkap setiap saat.
 
-privacy-book-check-which-apps = <strong>Bersihkan ponsel Anda:</strong> Periksa aplikasi mana yang telah Anda pasang di perangkat Anda dan apakah Anda masih menggunakannya. Hapus yang sebenarnya tidak Anda butuhkan lagi (dan akun terkaitnya).
 
 privacy-book-also-reconsider-the = <strong>Batasi akses.</strong> Selain itu, pertimbangkan kembali izin yang pernah Anda berikan ke aplikasi yang tersisa, termasuk jejaring sosial, dan tanyakan ke diri sendiri: Apakah aplikasi ini benar-benar membutuhkan akses ke lokasi saya? Kontak saya? Foto saya? Kamera dan mikrofon saya?
 
@@ -200,7 +191,6 @@ privacy-book-friendly-reminder-what = Pengingat ramah: Apakah pelacak itu?
 
 privacy-book-we-distinguish-between = Kami membedakan antara pelacak pihak pertama dan ketiga, atau kuki pelacak. Anda mungkin menemukan pelacak pihak pertama di situs berita, misalnya. Tugas mereka adalah memperhatikan ketika pembaca baru atau pembaca berulang datang ke situs, memeriksa artikel mana yang mereka baca, berapa banyak waktu yang mereka habiskan di setiap halamannya, dan seterusnya. Mereka dapat menggunakan informasi ini untuk meningkatkan kualitas penawaran mereka dan menentukan apa yang sebenarnya disukai pembaca.
 
-privacy-book-thirdparty-trackers-on = Pelacak pihak ketiga, di sisi lain, dapat mencatat seluruh kunjungan situs web pengunjung, misalnya, untuk tujuan menampilkan iklan bertarget kepada mereka. Ini bahkan berfungsi di berbagai situs web yang dikunjungi seseorang; ditambah lagi, jarang sekali hanya terdapat satu pelacak di situs. Mereka sering bekerja bahu membahu dengan yang lain untuk menemukan cara untuk meyakinkan Anda melalui iklan untuk membelanjakan uang, mendaftar ke layanan, dan kemudian berbagi lebih banyak informasi mengenai diri Anda.
 
 privacy-book-as-you-might = Seperti yang mungkin sudah Anda asumsikan, informasi ini sangat berharga. Karena itulah mengapa perusahaan yang memilikinya dapat menghasilkan banyak uang dengan menjualnya kepada orang lain. Sayangnya, tidak ada yang melibatkan Anda dalam keputusan ini. Karena itulah { -brand-name-firefox } memblokir banyak pelacak pihak ketiga secara bawaan untuk memberi Anda kendali lebih atas pengalaman daring Anda dan mengurangi peluang Anda untuk diikuti di seluruh web oleh iklan dan perusahaan yang meragukan.
 

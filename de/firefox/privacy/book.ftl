@@ -30,11 +30,9 @@ privacy-book-even-when-organizations = Auch wenn Seitenbetreiber üblicherweise 
 
 privacy-book-the-web-never = Das Web vergisst nie:
 
-privacy-book-according-to-the = Laut DSGVO kannst du zwar um Herausgabe und Löschung deiner Daten bitten; betrügerische Seiten werden diesem Wunsch allerdings nicht nachkommen und eventuell auch solche nicht, die ihren Dienst nicht in Europa anbieten.
 
 privacy-book-trackers-everywhere- = Tracker überall:
 
-privacy-book-trackers-cookies-youve = Tracker, Cookies? Hast du sicher schonmal gehört. Tracker sind kleine Mechanismen auf Webseiten, die dein Verhalten aufzeichnen und an den oder die Seitenbetreiber weitergeben – teilweise auch über mehrere Seiten hinweg oder auch an Dritte.
 
 privacy-book-tracking-cookies-are = Tracking Cookies sollen Website-Betreibern und Werbetreibenden verraten, wie du dich im Web bewegst und wofür du dich interessierst. Basierend darauf können sie dein Browsing-Erlebnis dann personalisieren. Oft bedeutet das, dass du für dich angepasste Online-Werbung siehst, die zu deinen Interessen passt. Allerdings tragen sie auch eine ganze Menge an verschiedenen Informationen über dich zusammen und speichern sie in sogenannten Profilen. Das klingt zwar erstmal praktisch – tatsächlich sind diese Profile aber nicht immer korrekt. Im besten Fall führt das dazu, dass du lediglich weniger relevante Werbung angezeigt bekommst. In einem weniger guten Fall werden dir nur noch Informationen angezeigt, die du weder brauchst noch möchtest. Und: dein Profil kann zum Beispiel auch Einfluss darauf haben, zu welchen Preise dir Produkte und Dienstleistungen angeboten werden.
 
@@ -44,18 +42,15 @@ privacy-book-even-if-the = Auch wenn uns das Internet selten hundertprozentig an
 
 privacy-book-fake-news-and = Falschinformationen & Filterblasen:
 
-privacy-book-news-recommendations-are = Nachrichtenempfehlungen sind praktisch und sind wir mal ganz ehrlich – wir alle lesen am liebsten Inhalte, die mit unserer Meinung in Einklang stehen. Aber was, wenn diese Inhalte gar nicht sachlich richtig sind? Oder wenn wir den Blick fürs große Ganze verlieren, weil wir immer nur einen kleinen Ausschnitt davon sehen – können wir uns dann überhaupt eine eigene Meinung bilden?
 
 privacy-book-how-much-control = Wie viel Kontrolle haben wir wirklich? Und wie viel lassen wir uns entgehen?
 
-privacy-book-many-of-us = Viele von uns haben heute das Gefühl, dass sie kaum Kontrolle über ihre Sicherheit, Privatsphäre und die Qualität der Informationen haben, die ihnen das Web bietet. Vielleicht geht es dir auch so. Ja, es gibt Verbesserungsbedarf – aber allzu oft sind wir auch bequem und nutzen nur einen Bruchteil der Möglichkeiten, die uns zur Verfügung stehen. Oder wir verlassen uns gleich auf praktische Alles-aus-einer-Hand-Lösungen, bei denen wir einem Anbieter verschiedener Produkte und Dienste bedenkenlos und bereitwillig raue Mengen an privaten Daten überlassen. Wieso? Weil wir nicht mehr darüber nachdenken (wollen) als unbedingt nötig. Oder weil wir gar nicht wissen, welche Vielzahl an Alternativen wir tatsächlich haben.
 
 # Span is for visual formatting.
 privacy-book-tips-for = 15 Tipps <span>für ein besseres digitales Leben.</span>
 
 privacy-book-starting-over = Für den Neuanfang:
 
-privacy-book-its-time-for = Es ist Zeit für einen Daten-Detox! Gemeinsam mit dem Tactical Tech Collective hat { -brand-name-mozilla } ein nettes kleines Pakte mit praktischen Tipps zusammengestellt, das Data Detox Kit. Mit diesem Programm werden Sie sich online wie eine komplett neue Person fühlen. Ein ganzes Programm erscheint Ihnen noch zu viel? Dann fangen Sie gern erst einmal mit folgenden Tipps an (oder allen davon).
 
 # Span is for visual formatting
 privacy-book-a-tidy-browser = Ordnung ist das halbe Leben <span>– so sagt man. Na gut, vielleicht sagen das nicht alle, aber es steckt viel Wahres darin.</span>
@@ -72,7 +67,6 @@ privacy-book-all-of-us =
 
 privacy-book-search-engine-title = Suchmaschine:
 
-privacy-book-search-engine-duckduckgo = { -brand-name-duckduckgo } erstellt, ganz im Gegensatz zu anderen Suchmaschinen, keine Nutzerprofile und filtert auch nicht nach Interessen der User, sodass alle dieselben Ergebnisse erhalten. DuckDuckGo ist im Suchfenster deines Browsers verfügbar, außerdem gibt es eine Browser-Erweiterung, die du kostenlos herunterladen kannst.
 
 privacy-book-email-have-title = E-Mail:
 
@@ -100,7 +94,6 @@ privacy-book-we-love-social = <strong>Wir lieben soziale Medien!</strong> Allerd
 
 privacy-book-theres-actually-even = <strong>Ein weiterer Denkanstoß mit Blick auf soziale Netzwerke:</strong> Sie sind dafür gemacht, persönliche Infos mit Leuten zu teilen, die wir kennen (manche mehr, manche weniger). Du entscheidest dabei selbst, wie viel Privates du öffentlich machen willst. Das gilt für deine Posts ebenso wie für deinen Standort, was du likest, deine Telefonnummer oder mit wem du so rumhängst. Denk dabei immer daran: All diese Informationen sind nicht nur innerhalb des jeweiligen Netzwerks verfügbar, sondern auch für Werbetreibende. Außerdem: Je weniger du teilst, desto weniger Daten können bei einem Datenleck in die Hände von Betrügern gelangen.
 
-privacy-book-what-feels-right = <strong>Was sich heute für dich richtig anfühlt, kann morgen schon ganz anders aussehen.</strong> Das ist in Ordnung. Und es schadet auch ganz grundsätzlich nicht, die eigenen Einstellungen zur Welt und im Web gelegentlich neu zu bewerten und gegebenenfalls anzupassen.
 
 privacy-book-what-does-the = Was weiß die Welt über dich?
 
@@ -157,7 +150,6 @@ privacy-book-its-not-unusual = Viele Internetadressen fangen mit HTTP an. Dabei 
 
 privacy-book-email-accounts-and = Über Mailaccounts und Online-Identitäten:
 
-privacy-book-your-email-address = Für sich genommen verrät deine E-Mail-Adresse noch nicht allzu viel über dich. Benutzt du sie allerdings für eine ganze Reihe an Services und Webseiten, wird sie schnell zum roten Faden durch dein Online-Leben. Sie entwickelt sich zum Herzstück deiner Online-Identität und wird um alle möglichen Daten ergänzt, die du im Web teilst. Wieso also nicht einfach verschiedene Adressen für unterschiedliche Zwecke benutzen?
 
 privacy-book-resist-the-urge = Nicht klicken!
 
@@ -194,7 +186,6 @@ privacy-book-even-if-you = Auch wenn du extra das Smartphone mit dem besonders g
 
 privacy-book-the-more-apps = <strong>Halte potentielle Schwachstellen in Schach</strong> Je mehr Apps du auf deinem Gerät hast, desto mehr verschiedene Unternehmen haben im Zweifelsfall Zugriff auf deine Daten. Da verliert man schonmal schnell den Überblick.
 
-privacy-book-check-which-apps = <strong>Putz mal richtig durch</strong> Schau dir an, welche Apps du installiert hast und ob du sie noch benutzt. Lösche diejenigen (und die zugehörigen Accounts), die du nicht mehr brauchst.
 
 privacy-book-also-reconsider-the = <strong>Schränke den Zugriff ein</strong> Überlege dir bei allen anderen Apps – so wie auch in sozialen Netzwerken &amp; Co. – welche Berechtigungen du ihnen geben möchtest. Frage dich: Braucht diese App tatsächlich Zugriff auf meinen Standort? Mein Kontakte? Meine Fotos? Meine Kamera und mein Mikrofon?
 
@@ -202,7 +193,6 @@ privacy-book-friendly-reminder-what = Nur zur Erinnerung: Was waren Tracker noch
 
 privacy-book-we-distinguish-between = Wir unterscheiden zwischen Erst- und Drittanbieter-Trackern, oder auch Cookies. Erstere findest du beispielsweise auf Nachrichtenseiten. Dort erfassen sie, dass ein*e Leser*in da ist, welche Artikel er oder sie liest, wie lange er oder sie liest und so weiter. Diese Informationen können genutzt werden, um die Angebotsqualität der Seite zu verbessern und herauszufinden, was den Nutzer*innen tatsächlich gefällt.
 
-privacy-book-thirdparty-trackers-on = Drittanbieter-Tracker dagegen können den gesamten Besuch von Besucher*innen protokollieren, etwa um gezielt Werbung zu schalten, und das nicht nur auf der einen Seite, auf der er oder sie gerade ist, sondern Webseiten-übergreifend: Ein Tracker kommt nämlich selten allein. Oft arbeiten sie mit anderen Hand in Hand, um gemeinsam neue Wege zu finden, dich davon zu überzeugen, Geld auszugeben, dich für Dienstleistungen anzumelden und dann noch mehr Informationen über dich preiszugeben.
 
 privacy-book-as-you-might = Wie du dir sicher schon denkst, sind diese Informationen sehr wertvoll. Deshalb verdienen diejenigen Unternehmen, die sie besitzen, eine Menge Geld mit ihrem Verkauf. Leider bezieht dich in diese Entscheidung niemand ein. Deshalb blockt { -brand-name-firefox } standardmäßig viele Drittanbieter-Tracker, gibt dir so die Kontrolle über dein Online-Leben zurück und sorgt dafür, dass du deutlich weniger von Werbung und fragwürdigen Unternehmens durchs Internet verfolgt wirst.
 
