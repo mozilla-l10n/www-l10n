@@ -4,7 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-
 # HTML page title
 features-index-protect-your-privacy-and-browse = Lindungi privasi Anda dan jelajahi lebih cepat dengan fitur { -brand-name-firefox }
 

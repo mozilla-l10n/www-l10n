@@ -4,7 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-
 # HTML page title
 features-index-protect-your-privacy-and-browse = احمِ خصوصيتك وتصفَّح الإنترنت بسرعة أكبر بفضل مزايا متصفح { -brand-name-firefox }
 

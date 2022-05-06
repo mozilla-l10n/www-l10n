@@ -4,7 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-
 # HTML page title
 features-index-protect-your-privacy-and-browse = { -brand-name-firefox } の機能でプライバシーを保護して高速ブラウズ
 

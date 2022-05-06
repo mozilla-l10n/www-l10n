@@ -4,7 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-
 # HTML page title
 features-index-protect-your-privacy-and-browse = { -brand-name-firefox } के फ़ीचर्स से अपनी निजता की सुरक्षा करें और ज़्यादा तेज़ी से ब्राउज़िंग करें
 
