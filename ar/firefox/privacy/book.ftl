@@ -55,7 +55,6 @@ privacy-book-starting-over = نبدأ من جديد:
 # Span is for visual formatting
 privacy-book-a-tidy-browser = مُتصفح أنيق وعقل أنيق <span>– حسنًا، قد لا يكون هذا ما يقوله &quot;هم&quot; بشكل مُباشر ولكنه لا يزال صحيحًا!</span>
 
-privacy-book-delete-your-browser = <strong>احذف محفوظات المُتصفح الخاصة بك.</strong> سواءً كنت تستخدم { -brand-name-firefox } أو { -brand-name-chrome } أو { -brand-name-safari } أو أي مُنتج مُختلف – تقدّم جميعُها هذه الوظيفة. ستجدها عادةً في قائمة الإعدادات ضمن &quot;الأمان&quot; أو في منطقة منفصلة. هذه هي طريقة العناية بها في { -brand-name-firefox }.
 
 privacy-book-delete-your-google = <strong>احذف محفوظات نشاطات { -brand-name-google }.</strong> سجّل الدخول إلى حسابك، وافتح قسم &quot;نشاطي&quot;، وتصفّحه. هل أنت مندهش من كل المعلومات المخزنة هنا، وربما قد صُدمت؟ لا تتردد في حذفها: في القائمة الموجودة على اليسار، انقر للانتقال إلى &quot;حذف النشاط&quot;&gt; تغيير التاريخ إلى &quot;كل الوقت&quot; والمنتجات إلى &quot;جميع المنتجات&quot;&gt; انقر فوق &quot;حذف&quot;&gt; انقر فوق &quot;موافق&quot; للحذف إذا ظهرت نافذة منبثقة.
 

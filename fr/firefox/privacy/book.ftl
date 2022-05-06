@@ -55,7 +55,6 @@ privacy-book-starting-over = Reprendre depuis le début :
 # Span is for visual formatting
 privacy-book-a-tidy-browser = Un navigateur bien organisé, un esprit mieux pensé — <span>bon, c’est peut-être pas le proverbe exact, mais on n’en est pas loin !</span>
 
-privacy-book-delete-your-browser = <strong>Supprimez l’historique de votre navigateur.</strong> Que vous utilisiez { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-safari } ou un autre navigateur, tous offrent cette fonctionnalité. Vous la trouverez généralement dans les paramètres sous « Sécurité » ou dans une autre rubrique. Voici comment procéder sur { -brand-name-firefox }.
 
 privacy-book-delete-your-google = <strong>Supprimez l’historique de vos activités { -brand-name-google }.</strong> Connectez-vous à votre compte, ouvrez la section « Mon activité » et faites-la défiler. C’est une surprise ou même un choc de voir toutes les informations stockées là ? N’hésitez pas à les supprimer : dans le menu de gauche, cliquez pour aller à « Supprimer l’activité par », changez la date en « Permanent » et les produits en « Tous les produits », cliquez sur « Supprimer », et cliquez sur « OK » pour supprimer si une fenêtre apparaît.
 

@@ -55,7 +55,6 @@ privacy-book-starting-over = Bermula dari awal:
 # Span is for visual formatting
 privacy-book-a-tidy-browser = Pelayar yang tersusun, minda yang tenang<span>– ungkapan yang baru tetapi benar!</span>
 
-privacy-book-delete-your-browser = <strong>Padamkan kesemua sejarah pelayar anda.</strong> Sama ada anda menggunakan { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-safari }, atau produk yang lain – kesemuanya menawarkan fungsi ini. Anda biasanya akan menemui fungsi ini dalam menu tetapan di bawah &quot;Security&quot; atau dalam bahagian yang berasingan. Beginilah caranya jika anda menggunakan { -brand-name-firefox }.
 
 privacy-book-delete-your-google = <strong>Padam sejarah aktiviti { -brand-name-google } anda.</strong> Log masuk ke akaun anda, buka seksyen &quot;My Activity&quot;, tatal ke bawah. Terkejut dengan semua maklumat yang tersimpan di sini, atau luar jangkaan? Dipersilakan untuk memadamnya: Di menu sebelah kiri, klik &quot;Delete Activity by&quot; &gt; tukar tarikh ke &quot;All time&quot; dan produk ke &quot;All Products&quot; &gt; klik &quot;Delete&quot; &gt; klik &quot;OK&quot; untuk memadam jika pop-up muncul.
 

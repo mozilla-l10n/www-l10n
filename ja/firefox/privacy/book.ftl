@@ -55,7 +55,6 @@ privacy-book-starting-over = 始めましょう:
 # Span is for visual formatting
 privacy-book-a-tidy-browser = ブラウザーのクリーニングで気分爽快– <span>厳密には一般に言われていることと少し違いますが、一理あります。</span>
 
-privacy-book-delete-your-browser = <strong>ブラウザーの閲覧履歴を消去する。</strong>ご使用の製品が { -brand-name-firefox } { -brand-name-chrome } でも、{ -brand-name-safari } でも、それ以外の製品であっても、この機能はすべての製品に備わっています。この機能は、通常『セキュリティ』の設定メニューか、別のエリアにあります。これが { -brand-name-firefox } の場合の対処方法です。
 
 privacy-book-delete-your-google = <strong>{ -brand-name-google } のアクティビティ履歴を消去する。</strong>アカウントにログインして『マイ アクティビティ』セクションを開き、ページをスクロールしてみてください。ここに保存されている情報量には驚愕するでしょう。これは削除しても全く問題ありません。左側のメニューからクリックして『アクティビティを削除する基準』に移動→日付を『全期間』に変更し、サービスを『すべてのサービス』に変更→『削除』をクリック→ポップアップが表示された場合は『OK』をクリックします。
 

@@ -55,7 +55,6 @@ privacy-book-starting-over = Mulai kembali dari awal:
 # Span is for visual formatting
 privacy-book-a-tidy-browser = Peramban rapi, pikiran pun rapi <span>– mungkin itu tidak berarti langsung seperti apa yang &quot;mereka&quot; katakan, tetapi masih benar!</span>
 
-privacy-book-delete-your-browser = <strong>Hapus riwayat peramban Anda.</strong> Baik Anda menggunakan { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-safari }, atau produk lain – semuanya menawarkan fungsi ini. Biasanya Anda menemukannya di menu pengaturan di bawah &quot;Keamanan&quot; atau di area terpisah. Ini adalah cara melakukannya di { -brand-name-firefox }.
 
 privacy-book-delete-your-google = <strong>Hapus riwayat aktivitas { -brand-name-google } Anda.</strong> Masuk ke akun Anda, buka bagian &quot;Aktivitas Saya&quot;, dan gulir ke dalamnya. Terkejut dengan semua informasi yang disimpan di sini, bahkan mungkin kaget? Jangan ragu untuk menghapusnya: Di menu sebelah kiri, klik untuk pergi ke &quot;Hapus Aktivitas berdasarkan&quot; &gt; ubah tanggal ke &quot;Sepanjang waktu&quot; dan produk ke &quot;Semua Produk&quot; &gt; klik &quot;Hapus&quot; &gt; Klik &quot;OK&quot; untuk menghapus jika sembulan muncul.
 

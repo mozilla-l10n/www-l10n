@@ -55,7 +55,6 @@ privacy-book-starting-over = Für den Neuanfang:
 # Span is for visual formatting
 privacy-book-a-tidy-browser = Ordnung ist das halbe Leben <span>– so sagt man. Na gut, vielleicht sagen das nicht alle, aber es steckt viel Wahres darin.</span>
 
-privacy-book-delete-your-browser = <strong>Löschen Sie Ihren Browserverlauf.</strong> Ob Sie { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-safari } oder ein anderes Produkt nutzen – jeder Browser bietet diese Funktion. Sie finden sie normalerweise in den Einstellungen unter dem Menüpunkt „Sicherheit“ oder in einem separaten Bereicht. Und so funktioniert es bei { -brand-name-firefox }.
 
 privacy-book-delete-your-google = <strong>Lösche deine Aktivitäten bei { -brand-name-google }.</strong> Logge dich in deinen Account ein, öffne den Bereich “Meine Aktivitäten”, und scrolle durch. Überrascht, was da alles steht? Verständlich. Die  gute Nachricht: Du kannst es ganz einfach löschen. Klicke im Menü auf der linken Seite auf “Aktivitäten löschen nach” &gt; Datum ändern zu “Gesamt bisher”. Fertig.
 
