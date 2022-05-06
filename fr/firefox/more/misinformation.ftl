@@ -40,9 +40,6 @@ misinformation-firefox-keeps-trackers-desc = Comme nous l’avons vu, le pistage
 
 misinformation-social-media-clean-heading = { -brand-name-firefox } vous aide à faire le tri dans les fils d’actualités de vos réseaux sociaux :
 
-# Variables:
-#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
-misinformation-social-media-clean-desc = Les réseaux sociaux en savent beaucoup sur vous. De plus, ils sont capables de vous suivre en dehors de leurs plateformes grâce à leurs fonctions « Partager » et « J’aime » malgré la fonctionnalité de protection contre le pistage, et même si vous n’avez pas de compte. L’extension <a href="{ $container }">{ -brand-name-facebook-container }</a> pour { -brand-name-firefox } vous permet de vous assurer que { -brand-name-facebook } et { -brand-name-instagram } n’y arrivent pas si facilement que ça, ce qui réduit la probabilité de voir s’afficher de trop nombreux contenus de mésinformation dans les publicités et les contenus sponsorisés auxquels vous êtes exposé·e.
 
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } vous aide à trouver des contenus qui méritent que vous y consacriez du temps :

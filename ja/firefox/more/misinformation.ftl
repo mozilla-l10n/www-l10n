@@ -40,9 +40,6 @@ misinformation-firefox-keeps-trackers-desc = 先述のとおり、追跡は誤�
 
 misinformation-social-media-clean-heading = { -brand-name-firefox } はソーシャルメディアのフィードをすっきりさせる上で役立ちます。
 
-# Variables:
-#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
-misinformation-social-media-clean-desc = ソーシャルネットワークは、個人の情報をかなり詳しく把握しています。その上、ソーシャルネットワークは、追跡防止機能があっても、『シェア』や『いいね』ボタンにより、元のプラットフォーム外まで追跡することができます。これはアカウントを保持していなくても同様です。{ -brand-name-firefox } の <a href="{ $container }">{ -brand-name-facebook-container }</a> は、{ -brand-name-facebook } と { -brand-name-instagram } のそうした追跡を困難にし、それによって広告やプロモーションコンテンツの誤報が表示される可能性を大幅に削減します。
 
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } は閲覧する価値のあるコンテンツの特定に役立ちます。

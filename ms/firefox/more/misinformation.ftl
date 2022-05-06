@@ -40,9 +40,6 @@ misinformation-firefox-keeps-trackers-desc = Seperti yang disebut sebelum ini, p
 
 misinformation-social-media-clean-heading = { -brand-name-firefox } membantu memastikan suapan media sosial anda bersih:
 
-# Variables:
-#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
-misinformation-social-media-clean-desc = Rangkaian sosial tahu banyak tentang anda. Selain itu, mereka dapat menjejak anda di luar platform mereka dengan butang Kongsi dan Suka meskipun ada Perlindungan Penjejakan — walaupun anda tidak mempunyai akaun. <a href="{ $container }">{ -brand-name-facebook-container }</a> untuk { -brand-name-firefox } memastikan bahawa { -brand-name-facebook } dan { -brand-name-instagram } tidak dengan sewenang-wenangnya berbuat demikian. Ini juga dengan ketara akan mengurangkan kemungkinan melihat salah maklumat melalui iklan kandungan yang dipromosikan.
 
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } membantu anda memaparkan kandungan yang berbaloi dengan masa anda:

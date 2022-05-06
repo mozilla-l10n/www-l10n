@@ -40,9 +40,6 @@ misinformation-firefox-keeps-trackers-desc = Wie bereits erwähnt, spielt Tracki
 
 misinformation-social-media-clean-heading = { -brand-name-firefox } hilft dir, deine Feeds in sozialen Netzwerken sauber zu halten:
 
-# Variables:
-#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
-misinformation-social-media-clean-desc = Soziale Netzwerke wissen viel über dich. Außerdem können sie dich trotz des Tracking-Schutzes mit ihren “Teilen”- und “Gefällt mir”-Buttons über ihre Plattformen hinaus verfolgen – auch dann, wenn du gar keinen Account hast. Der <a href="{ $container }"> { -brand-name-facebook-container }</a> für { -brand-name-firefox } sorgt dafür, dass das zumindest { -brand-name-facebook } und { -brand-name-instagram } nicht mehr so leicht gelingt. Und das macht es wiederum weniger wahrscheinlich, dass du über Werbung und gesponserte Inhalte Fehlinformationen siehst.
 
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = Mit { -brand-name-firefox } Inhalte entdecken, die deine Zeit wert sind:
