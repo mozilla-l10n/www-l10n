@@ -6,5 +6,5 @@
 
 home-mr2-promo-title = Revenez à de bonnes idées… plus rapidement
 
-## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
+# CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 home-mr2-promo-cta = Optez pour le nouveau { -brand-name-firefox }

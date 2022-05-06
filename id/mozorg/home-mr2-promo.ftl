@@ -6,5 +6,5 @@
 
 home-mr2-promo-title = Kembali telusuri ide-ide bagus – lebih cepat
 
-## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
+# CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 home-mr2-promo-cta = Dapatkan { -brand-name-firefox } baru

@@ -6,5 +6,5 @@
 
 home-mr2-promo-title = अच्छे आइडिया पाएं – तेजी से
 
-## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
+# CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 home-mr2-promo-cta = नया { -brand-name-firefox } पाएं
