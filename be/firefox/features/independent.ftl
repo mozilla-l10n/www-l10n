@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
@@ -13,6 +13,7 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Бунта�
 features-independent-firefox-is-independent = { -brand-name-firefox } - незалежны браўзер і частка некамерцыйнай арганізацыі { -brand-name-mozilla }, якая змагаецца за вашы інтэрнэт-правы, стрымлівае моц карпарацый і робіць інтэрнэт даступным усім, усюды.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Без абмежаванняў
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } створаны некамерцыйнай арганізацыяй. Гэта азначае, што мы можам рабіць рэчы, якія іншыя не могуць, напрыклад, ствараць новыя прадукты і магчымасці адкрыта. Мы першыя ў ахове вашага права на прыватнасць з такімі інструментамі, як Прыватнае агляданне і Ахова ад сачэння.
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox } створаны некамерцыйнай арганізацыяй. Гэта азначае, што мы можам рабіць рэчы, якія іншыя не могуць, напрыклад, ствараць новыя прадукты і магчымасці адкрыта. Мы першыя ў ахове вашага права на прыватнасць з такімі інструментамі, як Прыватнае агляданне і Ахова ад сачэння, якія ідуць далей за тое, што прапануюць { -brand-name-google } { -brand-name-chrome } і { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Што вы бачыце, то і атрымліваеце

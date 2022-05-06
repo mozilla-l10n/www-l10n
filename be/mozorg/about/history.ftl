@@ -45,7 +45,7 @@ history-it-did-this-by-continuing = Гэта стала магчымым дзя�
 # Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
-history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a>быў выпушчаны ў 2004 годзе і меў вялікі поспех — менш чым за год яго сцягнулі <a href="{ $millions }">больш за 100 мільёнаў разоў</a>.
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> быў выпушчаны ў 2004 годзе і меў вялікі поспех — менш чым за год яго сцягнулі <a href="{ $millions }">больш за 100 мільёнаў разоў</a>.
 history-new-versions-of-firefox = З тых часоў рэгулярна выходзяць новыя версіі { -brand-name-firefox } і працягваюць ставіць новыя рэкорды. Папулярнасць { -brand-name-firefox } дапамагла вярнуць выбар карыстальнікам.
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/

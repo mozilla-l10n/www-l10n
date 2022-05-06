@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -28,9 +28,11 @@ firefox-mobile-discover-products-that-keep = Адкрыйце для сябе п
 firefox-mobile-sync-your-history-passwords = Сінхранізуйце гісторыю, паролі і закладкі. Перасылайце карткі паміж усімі сваімі прыладамі.
 firefox-mobile-android-only = Толькі для { -brand-name-android }
 firefox-mobile-make-android-your-own = Зрабіце { -brand-name-android } свойскім
+firefox-mobile-customize-your-firefox-mobile-truncated = Уладкуйце свой мабільны браўзер { -brand-name-firefox } з дапамогай пашырэнняў.
 firefox-mobile-find-it-fast-with-a-smart = Знайдзіце хутка з дапамогай разумнага радка пошуку
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } прадбачыць вашы патрэбы з разумнымі прапановамі пошуку і хуткім доступам да найчасцей наведаных сайтаў.
 firefox-mobile-the-privacy-you-deserve-the = Прыватнасць, якую вы заслугоўваеце. Хуткасць, якая вам патрэбна.
 firefox-mobile-get-firefox-for-mobile = Атрымаць { -brand-name-firefox } для мабільнага
 firefox-mobile-send-a-download-link-to-your = Адпраўце спасылку для сцягвання на свой тэлефон.
 firefox-mobile-scan-the-qr-code-to-get-started = Скануйце QR-код, каб пачаць
+firefox-mobile-scan-alt-text = Скануйце QR-код, каб атрымаць { -brand-name-firefox } на смартфон

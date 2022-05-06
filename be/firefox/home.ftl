@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/
@@ -12,6 +12,7 @@ firefox-home-meet-our-family-of = Пазнаёмцеся з нашым сяме�
 firefox-home-get-trackers-off = Пазбаўцеся больш за 2000 трэкераў — уключаючы { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Ведайце, калі хакеры атакуюць — і будзьце на крок наперадзе
 firefox-home-start-getting-breach = Пачаць атрымліваць справаздачы аб уцечках
+firefox-home-un-spam-your-life = Пазбаўце сваё жыццё ад спаму з дапамогай { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Захоўвайце свае паролі ў бяспецы на кожнай прыладзе
 # Obsolete string
