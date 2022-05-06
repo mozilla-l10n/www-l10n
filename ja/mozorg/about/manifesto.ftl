@@ -70,7 +70,6 @@ manifesto-details-as-a-result-of = こうした取り組みの結果、インタ
 manifesto-details-the-goals-for = 本マニフェストの目的は次のとおりです:
 manifesto-details-articulate-a-vision = { -brand-name-mozilla-foundation } が追求するものとして、{ -brand-name-mozilla } の参加者が望むインターネットに関するビジョンを説明すること
 manifesto-details-speak-to-people = 技術分野の経歴の有無を問わず、人々と対話すること
-manifesto-details-make-mozilla-contributors = Mozilla の作業を、{ -brand-name-mozilla } 寄稿者の誇りとなり、それを継続する Mozilla のモチベーションを高めるものにすること
 manifesto-details-provide-a-framework = 他の人々にこのインターネットに関するビジョンを推進する枠組みを提供すること
 manifesto-details-these-principles = これらの原則は、ひとりでに実現されるものではなく、インターネットを誰でも利用できる門戸が開かれたものにするためには、個人やグループで、あるいは他の人々のリーダーなど、人々が必要です。{ -brand-name-mozilla-foundation } は { -brand-name-mozilla } マニフェストに定める原則を推進する取り組みを行っています。Mozilla では、インターネットを万人にとってより良い場とする取り組みに変えるよう、Mozilla への参加を呼びかけています。
 manifesto-details-principles = 原則

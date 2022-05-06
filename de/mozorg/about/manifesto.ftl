@@ -70,7 +70,6 @@ manifesto-details-as-a-result-of = Das Ergebnis unserer Bemühungen ist eine Rei
 manifesto-details-the-goals-for = Die Ziele dieses Manifests sind:
 manifesto-details-articulate-a-vision = eine Vision für das Internet zu formulieren, die die { -brand-name-mozilla-foundation } nach Meinung der Mitwirkenden des { -brand-name-mozilla }-Projekts vorantreiben soll;
 manifesto-details-speak-to-people = Personen unabhängig von ihrem technischen Hintergrund anzusprechen;
-manifesto-details-make-mozilla-contributors = Die Mitwirkenden am { -brand-name-mozilla }-Projekt stolz auf das zu machen, was wir tun und uns zu motivieren, weiter daran zu arbeiten; und
 manifesto-details-provide-a-framework = einen Rahmen zu schaffen, in dem andere Personen diese Vision des Internets fortführen können.
 manifesto-details-these-principles = Diese Prinzipien werden nicht von alleine lebendig. Es braucht Menschen, die das Internet offen und zu einem Ort der aktiven Teilnahme machen; sowohl einzelne als auch Menschen, die in Gruppen zusammenarbeiten und andere anleiten. Die { -brand-name-mozilla-foundation } setzt sich dafür ein, die Prinzipien des { -brand-name-mozilla }-Manifestes voranzutreiben. Wir laden jeden dazu ein, das Internet mit uns gemeinsam zu einem noch besseren Ort für alle zu machen.
 manifesto-details-principles = Prinzipien

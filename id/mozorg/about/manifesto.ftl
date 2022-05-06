@@ -70,7 +70,6 @@ manifesto-details-as-a-result-of = Sebagai hasil dari upaya ini, kami telah meny
 manifesto-details-the-goals-for = Tujuan dari Manifesto adalah untuk:
 manifesto-details-articulate-a-vision = mengartikulasikan visi untuk internet yang partisipan { -brand-name-mozilla } ingin dikejar oleh { -brand-name-mozilla-foundation };
 manifesto-details-speak-to-people = berbicara ke orang-orang apakah mereka memiliki latar belakang teknis atau tidak;
-manifesto-details-make-mozilla-contributors = membuat kontributor { -brand-name-mozilla } bangga dengan apa yang kami lakukan dan memotivasi kami untuk melanjutkan; dan
 manifesto-details-provide-a-framework = menyediakan kerangka kerja bagi orang lain untuk memajukan visi internet ini.
 manifesto-details-these-principles = Prinsip-prinsip ini tidak akan terwujud dengan sendirinya. Dibutuhkan orang-orang untuk membuat internet terbuka dan partisipatif - orang yang bertindak sebagai individu, bekerja bersama dalam kelompok, dan memimpin orang lain. { -brand-name-mozilla-foundation } berkomitmen untuk memajukan prinsip-prinsip yang ditetapkan dalam Manifesto { -brand-name-mozilla }. Kami mengundang yang lain untuk bergabung dengan kami dan menjadikan internet tempat yang lebih baik bagi semua orang.
 manifesto-details-principles = Prinsip

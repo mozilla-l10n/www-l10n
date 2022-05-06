@@ -70,7 +70,6 @@ manifesto-details-as-a-result-of = ونتيجة لهذه الجهود، قُمن
 manifesto-details-the-goals-for = أهداف هذا البيان هي كما يلي:
 manifesto-details-articulate-a-vision = بَلورة رؤية للإنترنت يرغب المشاركون في { -brand-name-mozilla } أن تتبعها { -brand-name-mozilla-foundation }؛
 manifesto-details-speak-to-people = والتحدّث إلى الناس سواءً كانت لديهم خلفية تقنية أم لا؛
-manifesto-details-make-mozilla-contributors = وجعل المُساهمين في { -brand-name-mozilla } فخورين بما نقوم به وهو ما يُحفزنا على الاستمرار؛
 manifesto-details-provide-a-framework = وتوفير إطار عمل لأشخاص آخرين لتعزيز هذه الرؤية للإنترنت.
 manifesto-details-these-principles = لن تتحقق هذه المبادئ من تلقاء نفسها. نحتاج إلى الناس لجعل الإنترنت مفتوحًا وقائمًا على المشاركة، أشخاص يتصرفون كأفراد، ويعملُون معًا في مجموعات، ويقودون الآخرين. إن { -brand-name-mozilla-foundation } ملتزمة بالنهوض بالمبادئ المنصوص عليها في بيان { -brand-name-mozilla }. ندعو الآخرين إلى الانضمام إلينا وجعل الإنترنت مكانًا أفضل للجميع.
 manifesto-details-principles = المبادئ

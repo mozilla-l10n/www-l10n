@@ -70,7 +70,6 @@ manifesto-details-as-a-result-of = इन कोशिशों के परि
 manifesto-details-the-goals-for = घोषणा पत्र के लक्ष्य हैं :
 manifesto-details-articulate-a-vision = इंटरनेट के लिए ऐसा दृष्टिकोण बनाना जिसका अनुसरण { -brand-name-mozilla } प्रतिभागी { -brand-name-mozilla-foundation } से कराना चाहेंगे;
 manifesto-details-speak-to-people = उन लोगों को भी आसानी से समझ आए जिनकी तकनीकी पृष्ठभूमि नहीं है;
-manifesto-details-make-mozilla-contributors = { -brand-name-mozilla } सहयोगियों को अपने काम के लिए गौरवान्वित महसूस कराना और उन्हें इसे करते रहने के लिए प्रेरित करना; और
 manifesto-details-provide-a-framework = इंटरनेट के इस दृष्टिकोण को आगे बढ़ाने के लिए अन्य लोगों के लिए एक रूपरेखा देना।
 manifesto-details-these-principles = ये सिद्धांत अपने दम पर जीवन का हिस्सा नहीं बन पाएँगे। इंटरनेट को खुला और सहभागी बनाने के लिए ज़रूरी है कि लोग व्यक्तिगत रूप से काम करें, समूह में मिलकर काम करें और दूसरों का नेतृत्व करें। { -brand-name-mozilla-foundation } { -brand-name-mozilla } घोषणा पत्र में निर्धारित सिद्धांतों को आगे बढ़ाने के लिए प्रतिबद्ध है। हम औरों को हमारी पहल का हिस्सा बनने के लिए आमंत्रित करते हैं ताकि इंटरनेट को सभी के लिए और भी बेहतर जगह बनाया जा सके।
 manifesto-details-principles = सिद्धांत
