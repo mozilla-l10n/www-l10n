@@ -13,8 +13,6 @@ banner-fundraising-title = Über die Zukunft wird online entschieden. Helfen Sie
 
 banner-fundraising-body-v2 = Wir setzen uns gemeinnützig für ein gesundes Internet ein. Ihre Beiträge helfen uns dabei, ein sicheres und offenes Internet aufzubauen.
 
-# Outdated string
-banner-fundraising-body = Unsere persönlichen Daten werden jedes Mal erhoben, wenn wir auf das Internet zugreifen, und es ist nicht leicht herauszufinden, was damit passiert. Fehlinformationen erschweren es uns, die Wahrheit zu finden. Geräte mit Internetverbindung werden ohne Einhaltung von Mindestsicherheitsstandards auf den Markt gebracht. Die gemeinnützige { -brand-name-mozilla-foundation } kämpft dafür, dass das Internet sicher, offen und für alle zugänglich ist. <strong>Spenden Sie heute?</strong>
 
 banner-fundraising-body-extra = Können Sie heute spenden?
 banner-fundraising-monthly = Monatlich
