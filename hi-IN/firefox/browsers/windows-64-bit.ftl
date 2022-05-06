@@ -4,7 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
 
-
 # HTML page title
 windows-64-bit-firefox-for-windows = { -brand-name-windows } 64-बिट के लिए { -brand-name-firefox }
 
