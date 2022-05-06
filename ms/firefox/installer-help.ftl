@@ -5,12 +5,14 @@
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
 
 ## Required
+
 installer-help-page-title = Muat turun anda terganggu
 installer-help-main-tagline = Itu kadang-kadang ada berlaku. Mari cuba sesuatu yang berbeza.
 installer-help-action-channel = Muat turun ini sepatutnya berfungsi lebih baik untuk anda.
 installer-help-action-choose = Pilih muat turun di bawah.
 
 ##
+
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 
 # Variables:

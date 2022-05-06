@@ -5,12 +5,14 @@
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
 
 ## Required
+
 installer-help-page-title = Unduhan Anda terhenti
 installer-help-main-tagline = Hal tersebut kadang terjadi. Mari kita coba sesuatu yang berbeda.
 installer-help-action-channel = Unduhan ini akan bekerja lebih baik untuk Anda.
 installer-help-action-choose = Pilih unduhan di bawah ini.
 
 ##
+
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 
 # Variables:

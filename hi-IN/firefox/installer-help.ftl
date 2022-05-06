@@ -5,12 +5,14 @@
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
 
 ## Required
+
 installer-help-page-title = आपका डाउनलोड बाधित हो गया था
 installer-help-main-tagline = ऐसा कभी-कभी होता है। चलिए कुछ अलग करने की कोशिश करते हैं।
 installer-help-action-channel = यह डाउनलोड आपके लिए बेहतर काम करना चाहिए।
 installer-help-action-choose = नीचे एक डाउनलोड चुनें।
 
 ##
+
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 
 # Variables:

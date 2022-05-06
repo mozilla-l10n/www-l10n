@@ -5,12 +5,14 @@
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
 
 ## Required
+
 installer-help-page-title = Ihr Download wurde unterbrochen
 installer-help-main-tagline = Das kann passieren. Sie haben folgende Alternativen.
 installer-help-action-channel = Dieser Download funktioniert wahrscheinlich besser.
 installer-help-action-choose = Wählen Sie hier einen Download.
 
 ##
+
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 
 # Variables:

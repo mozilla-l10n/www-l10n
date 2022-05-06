@@ -5,12 +5,14 @@
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
 
 ## Required
+
 installer-help-page-title = تمت مُقاطعة عملية التنزيل
 installer-help-main-tagline = هذا يحدث أحيانًا. لنُجرب شيئًا مختلفًا.
 installer-help-action-channel = يَجب أن يَعمل هذا التنزيل بشكل أفضل معك.
 installer-help-action-choose = اختر تنزيلاً أدناه.
 
 ##
+
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 
 # Variables:

@@ -5,12 +5,14 @@
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
 
 ## Required
+
 installer-help-page-title = ダウンロードが中断されました。
 installer-help-main-tagline = 時々こうした問題が発生します。別の方法を試しましょう。
 installer-help-action-channel = こちらのダウンロードの方が適しているはずです。
 installer-help-action-choose = 以下のうちからダウンロードを 1 件選択してください。
 
 ##
+
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 
 # Variables:

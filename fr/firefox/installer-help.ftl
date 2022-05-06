@@ -5,12 +5,14 @@
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
 
 ## Required
+
 installer-help-page-title = Votre téléchargement a été interrompu
 installer-help-main-tagline = Cela arrive parfois. Essayons quelque chose de différent.
 installer-help-action-channel = Ce téléchargement devrait mieux fonctionner pour vous.
 installer-help-action-choose = Choisissez un téléchargement ci-dessous.
 
 ##
+
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 
 # Variables:
