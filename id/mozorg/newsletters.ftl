@@ -131,18 +131,13 @@ newsletters-the-supplied-link-has-expired-long = Tautan yang diberikan telah ked
 newsletters-success-an-email-has-been-sent = Berhasil! Email telah dikirimkan kepada Anda dengan tautan pusat preferensi Anda. Terima kasih!
 newsletters-this-is-not-a-valid-email = Ini bukan alamat email yang sah. Harap periksa ejaan.
 newsletters-you-send-too-many-emails = Anda mengirim terlalu banyak email.
-newsletters-your-content-wasnt-relevant = Konten Anda tidak relevan bagi saya.
 newsletters-your-email-design = Rancangan email Anda terlalu sulit untuk dibaca.
-newsletters-i-didnt-sign-up = Saya tidak mendaftar untuk ini.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Alamat email ini tidak ada di sistem kami. Silakan periksa kembali alamat Anda atau <a href="{ $url }">berlangganan ke buletin kami.</a>
 
-newsletters-im-keeping-in-touch-v2 = Namun, saya tetap berhubungan dengan { -brand-name-mozilla } di { -brand-name-twitter }.
 
-# Obsolete string
-newsletters-im-keeping-in-touch = Saya tetap terhubung dengan { -brand-name-mozilla } di { -brand-name-facebook } dan { -brand-name-twitter }.
 
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Daftar, baca,<br> tetap terinformasi.
@@ -178,8 +173,6 @@ newsletters-addon-development = Pengembangan Pengaya
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Buletin Pengembang
 
-# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
-newsletters-a-developers-guide = Panduan pengembang untuk menyoroti inovasi platform Web, praktik terbaik, dokumentasi baru, dan banyak lagi.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Kelompok Berita Drumbeat
@@ -328,8 +321,6 @@ newsletters-join-mozilla = Bergabunglah dengan { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Pesta Pembuat
 
-# Description for the newsletter in Newsletter subscription page (Maker Party)
-newsletters-mozillas-largest-celebration = Perayaan terbesar { -brand-name-mozilla } dalam membuat dan belajar di web.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
@@ -358,8 +349,6 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = Pengumuman khusus mengenai festival tahunan yang didedikasikan untuk menentukan masa depan web terbuka.
 
-# Obsolete string
-newsletters-special-announcements-about-mozilla = Pengumuman khusus mengenai acara { -brand-name-mozilla } tahunan, festival terbuka yang didedikasikan untuk menempa masa depan Web terbuka.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Berita { -brand-name-mozilla }
@@ -385,8 +374,6 @@ newsletters-updates-from-our-global = Pembaruan dari komunitas global kami, memb
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 
-# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
-newsletters-were-building-the-technology = Kami membangun teknologi masa depan. Ayo menjelajah bersama kami.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }

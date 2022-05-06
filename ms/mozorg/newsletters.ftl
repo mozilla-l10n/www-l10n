@@ -131,18 +131,13 @@ newsletters-the-supplied-link-has-expired-long = Pautan yang diberikan telah lup
 newsletters-success-an-email-has-been-sent = Berjaya! E-mel telah dihantar kepada anda dengan pautan pilihan anda. Terima kasih!
 newsletters-this-is-not-a-valid-email = Ini bukan alamat e-mel yang sah. Sila periksa ejaannya.
 newsletters-you-send-too-many-emails = Anda menghantar terlalu banyak e-mel.
-newsletters-your-content-wasnt-relevant = Kandungan anda tidak sesuai dengan saya.
 newsletters-your-email-design = Reka bentuk e-mel anda sukar untuk dibaca.
-newsletters-i-didnt-sign-up = Saya tidak mendaftar pun.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Alamat e-mel ini tidak ada di dalam sistem kami. Sila periksa semula alamat anda atau <a href="{ $url }">melanggan buletin kami.</a>
 
-newsletters-im-keeping-in-touch-v2 = Saya masih bersama { -brand-name-mozilla } di { -brand-name-twitter } pula.
 
-# Obsolete string
-newsletters-im-keeping-in-touch = Saya masih bersama { -brand-name-mozilla } di { -brand-name-facebook } dan { -brand-name-twitter } pula.
 
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Daftar, baca lagi,<br> kekal bermaklumat.
@@ -178,8 +173,6 @@ newsletters-addon-development = Pembangunan Tambahan
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Buletin Pembangun
 
-# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
-newsletters-a-developers-guide = Panduan bagi para pembangun untuk mengetahui tentang inovasi platform Internet, amalan terbaik, dokumentasi terkini dan banyak lagi.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Kumpulan Berita Drumbeat
@@ -328,8 +321,6 @@ newsletters-join-mozilla = Sertai { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Maker Party
 
-# Description for the newsletter in Newsletter subscription page (Maker Party)
-newsletters-mozillas-largest-celebration = Sambutan terbesar { -brand-name-mozilla } untuk mencipta dan belajar di internet.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
@@ -358,8 +349,6 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = Pengumuman khas berkaitan festival tahunan kami yang fokus kepada menempa masa depan internet yang terbuka.
 
-# Obsolete string
-newsletters-special-announcements-about-mozilla = Pengumuman istimewa tentang festival tahunan { -brand-name-mozilla } yang ditujukan khas demi menempa masa depan Internet.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Berita { -brand-name-mozilla }
@@ -385,8 +374,6 @@ newsletters-updates-from-our-global = Kemas kini daripada komuniti global kami, 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 
-# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
-newsletters-were-building-the-technology = Kami sedang membina teknologi masa hadapan. Mari meneroka bersama kami.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }

@@ -131,18 +131,13 @@ newsletters-the-supplied-link-has-expired-long = 入力されたリンクは有�
 newsletters-success-an-email-has-been-sent = 完了しました。設定センターのリンクがメールで送信されました。ありがとうございました。
 newsletters-this-is-not-a-valid-email = 入力されたメールアドレスは無効です。アドレスが正しいことを確認してください。
 newsletters-you-send-too-many-emails = 送信されるメール数が多すぎる。
-newsletters-your-content-wasnt-relevant = 内容が自分と無関係だ。
 newsletters-your-email-design = メールのデザインのせいでメールを読みにくい。
-newsletters-i-didnt-sign-up = サインアップしていないメールだ。
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = このメールアドレスはシステムに存在しません。アドレスをもう一度確認してください。あるいは、<a href="{ $url }">Mozilla のニュースレターの定期購読をリクエストしてください</a>。
 
-newsletters-im-keeping-in-touch-v2 = { -brand-name-mozilla } の情報は { -brand-name-twitter } で確認している。
 
-# Obsolete string
-newsletters-im-keeping-in-touch = { -brand-name-mozilla } の情報は { -brand-name-facebook } と { -brand-name-twitter } で確認している。
 
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = サインアップして最新情報をご確認ください。
@@ -178,8 +173,6 @@ newsletters-addon-development = アドオン開発
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = デベロッパーブログ
 
-# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
-newsletters-a-developers-guide = ウェブプラットフォームの主なイノベーションやベストプラクティス、新たなドキュメント等に関するデベロッパー向けガイド。
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Drumbeat Newsgroup
@@ -328,8 +321,6 @@ newsletters-join-mozilla = { -brand-name-mozilla } に参加
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Maker Party
 
-# Description for the newsletter in Newsletter subscription page (Maker Party)
-newsletters-mozillas-largest-celebration = ウェブ上の制作や学習に関する { -brand-name-mozilla } 最大の祝賀イベント。
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
@@ -358,8 +349,6 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = オープンなウェブの未来を切り拓くことをテーマとした毎年恒例のフェスティバルに関する特別発表。
 
-# Obsolete string
-newsletters-special-announcements-about-mozilla = オープンなウェブの未来を切り拓くことをテーマとして毎年開催される、{ -brand-name-mozilla } のフェスティバルに関する特別発表。
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } News
@@ -385,8 +374,6 @@ newsletters-updates-from-our-global = 現代の最も重要なスキル、デジ
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 
-# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
-newsletters-were-building-the-technology = Mozilla は未来のテクノロジーを創出しています。そのテクノロジーを紹介します。
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }

@@ -131,18 +131,13 @@ newsletters-the-supplied-link-has-expired-long = भेजे गए लिं�
 newsletters-success-an-email-has-been-sent = सफल हुआ! आपके वरीयता केंद्र लिंक के साथ आपको एक ईमेल भेजा गया है। धन्यवाद!
 newsletters-this-is-not-a-valid-email = यह कोई मान्य ईमेल पता नहीं है। कृपया स्पेलिंग की जाँच करें।
 newsletters-you-send-too-many-emails = आपने बहुत सारे ईमेल भेजते हैं।
-newsletters-your-content-wasnt-relevant = आपका कंटेंट मेरे लिए प्रासंगिक नहीं है।
 newsletters-your-email-design = आपका ईमेल डिज़ाइन पढ़ने के में बहुत मुश्किल था।
-newsletters-i-didnt-sign-up = मैंने इस के लिए साइन अप नहीं किया था।
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = यह ईमेल पता हमारे सिस्टम में नहीं है। कृपया अपना पता जाँचें या <a href="{ $url }">हमारे न्यूज़लेटर की सदस्यता लें।</a>
 
-newsletters-im-keeping-in-touch-v2 = इसके बजाय मैं { -brand-name-twitter } पर { -brand-name-mozilla } के संपर्क में निरंतर हूँ।
 
-# Obsolete string
-newsletters-im-keeping-in-touch = मैं { -brand-name-mozilla } के साथ { -brand-name-facebook } और { -brand-name-twitter } में संपर्क में हूँ।
 
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = साइन अप करें, पढ़ें, <br> सूचित रहें।
@@ -178,8 +173,6 @@ newsletters-addon-development = ऐड-ऑन डेवलपमेंट
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = डेवलपर न्यूज़लेटर
 
-# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
-newsletters-a-developers-guide = वेब प्लेटफ़ार्म नवाचार, बेहतर अभ्यासों, नए प्रलेखन और बहुत कुछ की विशेषताओं पर गौर करने के लिए एक डेवलपर की मार्गदर्शिका।
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = ड्रमबीट न्यूज़ग्रुप
@@ -328,8 +321,6 @@ newsletters-join-mozilla = { -brand-name-mozilla } से जुड़ें
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = मेकर पार्टी
 
-# Description for the newsletter in Newsletter subscription page (Maker Party)
-newsletters-mozillas-largest-celebration = { -brand-name-mozilla } का वेब पर बनाने और सीखने का सबसे बड़ा उत्सव।
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
@@ -358,8 +349,6 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = विशेष घोषणाएँ - वेब को स्वतंत्र और मुक्त रखने के प्रति समर्पित हमारे वार्षिक आयोजन के बारे में।
 
-# Obsolete string
-newsletters-special-announcements-about-mozilla = वेब को स्वतंत्र और मुक्त रखने लिए समर्पित { -brand-name-mozilla } के वार्षिक उत्सव के बारे में विशेष घोषणाएँ।
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } खबर
@@ -385,8 +374,6 @@ newsletters-updates-from-our-global = हमारे वैश्विक स�
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 
-# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
-newsletters-were-building-the-technology = हम भविष्य की तकनीक का निर्माण कर रहे हैं। हमारे साथ खोज करें।
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
