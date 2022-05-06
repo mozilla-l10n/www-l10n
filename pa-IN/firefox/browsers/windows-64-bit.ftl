@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -12,4 +12,4 @@ windows-64-bit-64-bit = 64-ਬਿੱਟ
 windows-64-bit-a-more-secure-firefox = ਵੱਧ ਸੁਰੱਖਿਅਤ { -brand-name-firefox }।
 windows-64-bit-whats-the-difference = 32-ਬਿੱਟ ਅਤੇ 64-ਬਿੱਟ ਵਿਚ ਕੀ ਅੰਤਰ ਹੈ?
 windows-64-bit-how-do-you-get-64 = ਤੁਸੀਂ 64-ਬਿੱਟ { -brand-name-firefox } ਕਿਵੇਂ ਪ੍ਰਾਪਤ ਕਰਦੇ ਹੋ?
-windows-64-bit-take-control-of-your = ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦਾ ਨਿਯੰਤਰਣ ਲਓ।
+windows-64-bit-take-control-of-your = ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦਾ ਕੰਟਰੋਲ ਆਪਣੇ ਹੱਥ ਲਵੋ।
