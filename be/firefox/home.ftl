@@ -13,6 +13,7 @@ firefox-home-get-trackers-off = Пазбаўцеся больш за 2000 трэ
 firefox-home-know-when-hackers-strike = Ведайце, калі хакеры атакуюць — і будзьце на крок наперадзе
 firefox-home-start-getting-breach = Пачаць атрымліваць справаздачы аб уцечках
 firefox-home-un-spam-your-life = Пазбаўце сваё жыццё ад спаму з дапамогай { -brand-name-relay }
+firefox-home-try-relay = Паспрабаваць { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Захоўвайце свае паролі ў бяспецы на кожнай прыладзе
 # Obsolete string
@@ -46,6 +47,7 @@ firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
 firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-home-relay = { -brand-name-relay }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }
