@@ -84,3 +84,6 @@ firefox-developer-welcome-to-firefox-browser = Сардэчна запрашае
 firefox-developer-made-for-developers = Браўзер, створаны для распрацоўшчыкаў
 firefox-developer-all-the-latest = Усе найноўшыя інструменты распрацоўшчыка з бэта-версіі, а таксама <strong>эксперыментальныя функцыі</strong>, такія як шматрадковы кансольны рэдактар і даследчык WebSocket.
 firefox-developer-a-separate-profile = <strong>Асобны профіль і шлях</strong>, каб вы маглі лёгка запусціць яго адначасова з рэлізам { -brand-name-firefox } або { -brand-name-firefox } { -brand-name-beta }.
+firefox-developer-preferences-tailored = Параметры <strong>прыстасаваныя для вэб-распрацоўшчыкаў</strong>: браўзерная і аддаленая адладка тыпова ўключаны, як і цёмная тэма і кнопка прылад распрацоўшчыка на панэлі інструментаў.
+firefox-developer-congrats-you-now-have = Віншуем! Вы ўсталявалі { -brand-name-firefox-browser }: { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Віншуем! Цяпер у вас найноўшая версія { -brand-name-firefox-browser } { -brand-name-developer-edition }.
