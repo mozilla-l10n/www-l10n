@@ -10,6 +10,7 @@ welcome-page4-download-the-firefox-browser = Сцягніце { -brand-name-fire
 welcome-page4-wallet-keys-phone-firefox = Кашалёк. Ключы. Тэлефон. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen-now = Цяпер прыватнасць на кожным экране
 welcome-page4-take-privacy-with-you-on-every = Вазьміце з сабой прыватнасць на ўсіх прыладах — і пакіньце трэкеры ззаду.
+welcome-page4-privacy-on-by-default = Ваша прыватнасць тыпова ўключана ў новым { -brand-name-firefox } для { -brand-name-android } — і цяпер вы можаце зрабіць { -brand-name-firefox } сваім прадвызначаным браўзерам на { -brand-name-ios } 14.
 welcome-page4-get-the-firefox-mobile = Атрымаць мабільны { -brand-name-firefox }
 welcome-page4-get-firefox-on-your-phone = Атрымаць { -brand-name-firefox } на свой тэлефон
 welcome-page4-send-the-download-link-right = Адпраўце спасылку для сцягвання прама на свой тэлефон ці на электронную пошту.
