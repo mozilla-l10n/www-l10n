@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Калі ласка, увядзіце сапраўдны адрас электроннай пошты
+newsletter-form-you-must-agree-to = Вы павінны пагадзіцца з паведамленнем аб прыватнасці
 newsletter-form-your-email-address = Ваш электронны адрас
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
@@ -32,3 +34,6 @@ newsletter-form-no = Не
 multi-newsletter-form-checkboxes-legend = Я хачу атрымліваць інфармацыю пра:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Калі ласка, пазначце хаця б адзін з варыянтаў рассылкі.
+multi-newsletter-form-title = Любіце сеціва
+multi-newsletter-form-desc = Падпішыцеся на навіны ад { -brand-name-mozilla } і дапамагайце нам бараніць адкрытасць і вольнасць Інтэрнэту.
