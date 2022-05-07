@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,7 +10,15 @@ facebook-container-millions-of-people-around = Мільёны людзей ва 
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Пад кантролем. Трымайце іншае сваё жыццё пры сабе.
 facebook-container-get-the-facebook-container = Атрымаць пашырэнне { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Сцягніце { -brand-name-firefox } і ўсталюйце пашырэнне { -brand-name-facebook-container }
+facebook-container-only-available-for-desktop = Пашырэнне { -brand-name-facebook-container } зараз даступна толькі для { -brand-name-firefox } для камп'ютара.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Наведайце <a href="{ $url }">{ $link_copy }</a>, каб атрымаць { -brand-name-firefox } для камп'ютара.
+# Outdated string
 facebook-container-the-facebook-container-extension = Пашырэнне { -brand-name-facebook-container } Extension недаступнае на мабільных прыладах.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Паспрабуйце <strong>{ -brand-name-firefox-focus }</strong>, прыватны браўзер для { -brand-name-android } і { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Адмоўцеся на сваіх умовах
