@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -14,7 +14,7 @@ firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Паглядзіце, ці стала ваша асабістая інфармацыя часткай карпаратыўнай уцечкі дадзеных, і падпішыцеся на будучыя абвесткі.
 firefox-products-check-for-breaches = Праверыць на ўцечкі
-firefox-products-sign-up-for-breach-alerts = Падпішыцеся на абвесткі аб уцечках
+firefox-products-sign-up-for-breach-alerts = Падпісацца на абвесткі аб уцечках
 firefox-products-firefox-browsers = Браўзеры { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Атрымайце браўзеры, якія аўтаматычна блакуюць больш за 2000 трэкераў дадзеных. Узмоцненая абарона ад сачэння ёсць стандартам у кожным браўзеры { -brand-name-firefox }.
 firefox-products-desktop = Для камп'ютара
@@ -22,7 +22,11 @@ firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Паглядзець усе браўзеры
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Аглядайце, транслюйце і працуйце, выкарыстоўваючы серверы ў больш чым 30 краінах для бяспечнага інтэрнэт-злучэння з новай перспектывай.
 firefox-products-get-mozilla-vpn = Атрымаць { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Абараніце свой сапраўдны адрас электроннай пошты, каб лепей кантраляваць паштовую скрыню.
+firefox-products-learn-more-about-relay = Даведацца больш пра { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
@@ -46,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Далучайцеся да { -
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Ужо маеце ўліковы запіс? <a { $fxa_attr }>Увайдзіце</a> або <a { $accounts_attr }>даведайцеся больш</a> пра далучэнне да { -brand-name-firefox }.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Ваш браўзер, засяроджаны на прыватнасці, з аўтаматычнай аховай ад сачэння і блакіроўкай рэкламы.
