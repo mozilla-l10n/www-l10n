@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
@@ -21,9 +21,13 @@ features-bookmarks-fly-with-that-bookmark = Рухайцеся разам з с�
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Вазьміце свае закладкі з сабой. Выкарыстоўвайце { -brand-name-firefox-sync }, каб атрымліваць доступ да вашых закладак з усіх вашых прылад, ад кампутараў да мабільных. Або паспрабуйце <a href="{ $url }">{ -brand-name-pocket }</a>, каб захоўваць любыя артыкулы або старонкі і вярнуцца да іх пазней – нават без Інтэрнэту.
+features-bookmarks-customize-that-bookmark = Уладкуйце гэту закладку
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Баўце час з закладкамі
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Практыкуйце сваю дакладнасць з <a href="{ $url }">дадаткамі - менеджарамі закладак</a> любога віду, ад поўных скрыншотаў старонак і панэляў хуткага пераключэння да добра ўтоеных прыватных закладак.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
