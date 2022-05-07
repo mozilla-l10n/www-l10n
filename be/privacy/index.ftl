@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = Прынцыпы прыватнасці 
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">Прынцыпы прыватнасці звестак</a> { -brand-name-mozilla } натхняюць нашы практыкі, якія шануюць і абараняюць людзей, якія карыстаюцца інтэрнэтам. Даведайцеся, як гэтыя прынцыпы фармуюць { -brand-name-firefox } і нашы прадукты ўвогуле, з гэтых <a href="{ $faq }">Частых пытанняў</a>.
 privacy-index-transparency-report = Справаздача аб празрыстасці
+privacy-index-get-involved = Далучыцца
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Як для праекта з адкрытым зыходным кодам, празрыстасць і адкрытасць з'яўляюцца ключавымі часткамі фундаментальных прынцыпаў { -brand-name-mozilla }. Наш код адкрыты і правяральны. Наш працэс распрацоўкі адкрыты. Наша паўгадавая <a href="{ $report }">Справаздача аб празрыстасці</a> таксама паказвае нашу прыхільнасць да гэтых прынцыпаў.
@@ -32,4 +33,14 @@ privacy-index-to-review-and-comment-on-proposed = Каб праглядаць і
 privacy-index-read-more-about-our-ongoing = <a href="{ $blog }">Блог „Open Policy and Advocacy” { -brand-name-mozilla }</a> змяшчае далейшыя звесткі аб бягучых працах над публічнай палітыкай прыватнасці і бяспекі.
 privacy-index-outdated-policies = Папярэднія версіі
 privacy-index-mozilla-websites-communications = Вэб-сайты, камунікацыі і кукі { -brand-name-mozilla }
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
