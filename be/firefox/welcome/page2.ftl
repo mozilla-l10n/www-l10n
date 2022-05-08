@@ -13,3 +13,7 @@ welcome-page2-activate-pocket = Актываваць { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-pocket-is-built-right-into = { -brand-name-pocket } убудаваны прама ў { -brand-name-firefox }, таму вы можаце лёгка захоўваць артыкулы па меры знаходжання, а потым чытаць іх на любой прыладзе.
 welcome-page2-save-content-from-everywhere = Захоўвайце змесціва адусюль
+welcome-page2-grab-articles-videos-and-links = Захоплівайце артыкулы, відэа і спасылкі з любога вэб-сайта, націснуўшы на значок { -brand-name-pocket } на панэлі інструментаў браўзера.
+welcome-page2-discover-new-stories = Адкрыйце для сябе новыя гісторыі
+welcome-page2-pocket-shows-recommended-stories = { -brand-name-pocket } паказвае рэкамендаваныя артыкулы кожны раз, калі вы адкрываеце новую картку. Захоўвайце тыя, што вас цікавяць.
+welcome-page2-why-am-i-seeing-this = Чаму я бачу гэта?
