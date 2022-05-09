@@ -17,3 +17,4 @@ about-shared-software-innovations = 借助软件和其他创新设计推进我�
 about-shared-get-involved = 参与
 about-shared-volunteer = 在多个不同领域成为志愿工作者。
 vision-for-the-web = { -brand-name-mozilla } 的 Web 愿景
+read-about-our-vision = 了解我们的 Web 愿景以及如何去实现。
