@@ -7,6 +7,7 @@
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } Hakkında SSS
+whether-you-searched-privacy = Gizliliğinizi koruyan hızlı bir tarayıcı arıyorsanız { -brand-name-firefox } ile ilgili sorularınızın cevapları bu SSS'de.
 whether-you-searched-independant = Hızlı bir tarayıcı ya da gizliliğinizi koruyan bağımsız bir teknoloji arıyorsanız { -brand-name-firefox } ile ilgili sorularınızın cevapları bu SSS'de.
 what-is-firefox = { -brand-name-firefox } nedir?
 

@@ -20,6 +20,7 @@ mobile-ios-scan-alt-text = { -brand-name-ios } için { -brand-name-firefox }’u
 mobile-ios-make-firefox-your = { -brand-name-firefox }’u varsayılan tarayıcınız yapın
 mobile-ios-now-iphone-and = Artık { -brand-name-iphone } ve { -brand-name-ipad } kullanıcıları varsayılan tarayıcılarını seçebiliyor. YAni artık { -brand-name-safari }’ye bağımlı değilsiniz ve mobil tarayıcınızı bilgisayarınızdaki en sevdiğiniz tarayıcıyla senkronize edebilirsiniz. Ayrıca { -brand-name-firefox }'u varsayılan tarayıcı olarak ayarladığınızda bağımsız bir teknoloji şirketini desteklemiş olursunuz. Üstelik { -brand-name-firefox }, kâr amacı gütmeyen bir kuruluş tarafından geliştirilen tek büyük tarayıcıdır.
 mobile-ios-fast-private-secure = Hızlı. Gizli. Güvenli
+mobile-ios-keep-whats-personal = Hızdan ödün vermeden kişisel verilerinizi gizli tutun. Ayrıca, akıllı gezinti özellikleriyle gizliliğinizi, parolalarınızı ve yer imlerinizi gittiğiniz her yere güvenle götürerek çevrimiçi hayatınızı kolaylaştırın.
 mobile-ios-stay-private-online = İnternette gizli kalın
 mobile-ios-firefox-gives-you = { -brand-name-firefox }, web'de size daha fazla gizlilik koruması sağlıyor. Gelişmiş izlenme korumamız, varsayılan olarak sosyal medya takipçileri, siteler arası çerez takipçileri, kripto madencileri ve parmak izi toplayıcılar gibi takip kodlarını ve betikleri engelliyor.
 mobile-ios-your-browsing-history = Gezinti geçmişiniz geçmişte kaldı
