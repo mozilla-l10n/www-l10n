@@ -23,6 +23,8 @@ contribute-tag-individual = Асабіста
 contribute-tag-support = Падтрымка
 contribute-task-translate-heading = Перакладайце змесціва
 contribute-task-translate-desc = Інтэрнэт глабальны толькі тады, калі яго разумеюць паўсюль. Дапамажыце нам перакласці прадукты і вэб-сайты { -brand-name-mozilla } на сваю мову.
+contribute-task-mozilla-codebase-heading = Укладайце кодавую базу { -brand-name-mozilla }
+contribute-task-mozilla-codebase-desc = Актыўна ўдасканальвайце прадукты { -brand-name-mozilla }, робячы свой уклад у розныя магчымасці для распрацоўкі.
 
 ## Mission
 
