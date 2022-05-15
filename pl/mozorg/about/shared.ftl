@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/details/
@@ -16,3 +16,5 @@ about-shared-our-products = Nasze produkty
 about-shared-software-innovations = Oprogramowanie i inne innowacje, mające na celu spełnienie naszej misji.
 about-shared-get-involved = Dołącz do nas
 about-shared-volunteer = Dołącz do nas jako wolontariusz w jednym z wielu obszarów naszej działalności.
+vision-for-the-web = Wizja przyszłości sieci { -brand-name-mozilla(case: "gen") }
+read-about-our-vision = Przeczytaj o naszej wizji przyszłości Internetu i jak zamierzamy ją realizować.
