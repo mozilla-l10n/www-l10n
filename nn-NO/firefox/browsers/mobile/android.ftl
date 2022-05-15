@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
 mobile-android-get-firefox-for = Last ned { -brand-name-firefox } for { -brand-name-android }
+mobile-android-scan-the-qr-code-to-get-started = Skann QR-koden for å kome i gang
 mobile-android-fast-and-private = Rask og privat
