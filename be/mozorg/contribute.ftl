@@ -39,9 +39,13 @@ contribute-find-event = Знайдзіце падзею
 contribute-meet-volunteers = Пазнаёміцца з нашымі захопленымі валанцёрамі
 contribute-donate = Ахвяруйце
 contribute-help-fund = Дапамагчы фінансаваць нашу місію
+contribute-follow-mozilla = Сачыце за { -brand-name-mozilla }
+contribute-opportunities = Навіны і магчымасці для валанцёраў
 
 ## Made by
 
+contribute-made-by-heading = Зроблена такімі ж захопленымі людзьмі, як вы
+contribute-made-by-desc = Калі вы ўносіце ўклад у { -brand-name-mozilla }, вы становіцеся часткай сусветнай супольнасці, якая складаецца з людзей з усяго свету, якія вераць, што ўсе мы адыгрываем сваю ролю ў забеспячэнні таго, каб Інтэрнэт заставаўся сілай дабра.
 
 ## Newsletter
 
