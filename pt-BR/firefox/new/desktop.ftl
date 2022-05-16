@@ -146,6 +146,8 @@ firefox-desktop-download-firefox-automatically = O { -brand-name-firefox } autom
 firefox-desktop-download-questions = Dúvidas? O <a { $attrs }>suporte da { -brand-name-mozilla }</a> pode ajudar.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Você já tem o navegador. Agora obtenha ainda mais do { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Esteja atento a hackers com o { -brand-name-firefox-monitor }, proteja seu endereço de email  com o { -brand-name-firefox-relay } e muito mais.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Fique atento a hackers com o { -brand-name-firefox-monitor }, proteja senhas com o { -brand-name-firefox-lockwise } e muito mais.
 firefox-desktop-download-get-more-from-firefox = Obter mais do { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Apenas baixar o navegador
