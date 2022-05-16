@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Bloca le traciatores social
 firefox-desktop-download-os-availability = Disponibilitate pro systemas operative
 firefox-desktop-download-in-browser-screenshot = Utensile de captura de schermo in le navigator
 firefox-desktop-download-primary-password = Contrasigno primari
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Ama tu vita online
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Illo es tu internet. Colora lo in le maniera que tu desira con milles de applicationes, themas e extensiones. { -brand-name-firefox } es le original navigator alternative que antepone le personas al profitos.
 # Obsolete string
@@ -144,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Questiones? Le supporto de <a { $attrs }>{ -brand-name-mozilla } assistentia</a> te coperi.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Tu usa jam { -brand-name-firefox } como navigator. Discoperi ancora plus de { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Survelia le hackers con { -brand-name-firefox-monitor }, protege tu adresse email con { -brand-name-firefox-relay }, e altero ancora.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Survelia le hackers con { -brand-name-firefox-monitor }, protege tu contrasignos con { -brand-name-firefox-lockwise }, e multo plus.
 firefox-desktop-download-get-more-from-firefox = Recipe plus per { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Discarga le navigator
