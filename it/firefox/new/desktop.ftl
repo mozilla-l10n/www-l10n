@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Blocca traccianti social
 firefox-desktop-download-os-availability = Disponibile sui maggiori sistemi operativi
 firefox-desktop-download-in-browser-screenshot = Strumento integrato di cattura dello schermo
 firefox-desktop-download-primary-password = Password principale
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Innamorati della tua vita online
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = È il tuo Internet. Arricchiscilo come vuoi con migliaia di strumenti, temi ed estensioni. { -brand-name-firefox } è il browser alternativo originale che antepone le persone al profitto.
 # Obsolete string
@@ -144,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Domande? Il <a { $attrs }>supporto { -brand-name-mozilla }</a> è a tua completa disposizione.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Hai già installato il browser. Ora scopri che cosa può offrirti { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Tieni sotto controllo gli hacker con { -brand-name-firefox-monitor }, proteggi il tuo indirizzo email con { -brand-name-firefox-relay } e altro ancora.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Tieni sotto controllo gli hacker con { -brand-name-firefox-monitor }, proteggi le tue password con { -brand-name-firefox-lockwise } e altro ancora.
 firefox-desktop-download-get-more-from-firefox = Ottieni di più da { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Devi solo scaricare il browser
