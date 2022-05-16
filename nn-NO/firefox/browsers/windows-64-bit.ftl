@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -24,7 +24,7 @@ windows-64-bit-how-do-you-get-64 = Korleis får du 64-bit { -brand-name-firefox 
 # Variables:
 # $version (url) - link to https://support.microsoft.com/help/13443/windows-which-operating-system
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
-windows-64-bit-if-youre-running = Dersom du køyrer 64-bit { -brand-name-windows } (<a href="{ $version }">slik kontrollerer du</a>), kan { -brand-name-firefox } allereie vere 64-bit. <a href="{ $check }">Sjekk { -brand-name-firefox }-versjonen</a> (i «Om { -brand-name-firefox }»-vinduet) og sjå etter «(32-bit)» eller «(64-bit)» etter versjonnummeret:
+windows-64-bit-if-youre-running = Dersom du køyrer 64-bit { -brand-name-windows } (<a href="{ $version }">slik kontrollerer du</a>), kan { -brand-name-firefox } allereie vere 64-bit. <a href="{ $check }">Sjekk { -brand-name-firefox }-versjonen</a> (i «Om { -brand-name-firefox }»-vindauget) og sjå etter «(32-bit)» eller «(64-bit)» etter versjonnummeret:
 windows-64-bit-if-you-see-32-bit-older = Dersom du ser «(32-bit)» og køyrer { -brand-name-firefox } 56.0 eller eldre, vil oppdatering til den nyaste { -brand-name-firefox }-versjonen automatisk oppgradere deg til 64-bit.
 windows-64-bit-if-you-see-32-bit-newer = Dersom du ser «(32-bit)» og køyrer { -brand-name-firefox } 56.0.1 eller nyare, kan det hende at datamaskina di ikkje oppfyller minstekravet for 64-bit (3 GB RAM eller meir). Du kan framleis installere 64-bit { -brand-name-firefox } manuelt, om du vil.
 # Variables:
