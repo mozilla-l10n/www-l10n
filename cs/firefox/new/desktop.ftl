@@ -146,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Podpora { -brand-name-mozilla(case: "gen") }</a> má odpovědi.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Prohlížeč už máte. { -brand-name-firefox } ale umí ještě více.
+firefox-desktop-download-watch-for-hackers-with-v2 = Hlídejte hackery pomocí { -brand-name-firefox-monitor(case: "gen") } a chraňte své emailové adresy s { -brand-name-firefox-relay(case: "ins") }, a nejen to.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Hlídejte hackery pomocí { -brand-name-firefox-monitor(case: "gen") }, chraňte hesla pomocí { -brand-name-firefox-lockwise(case: "case") } a nejen to.
 firefox-desktop-download-get-more-from-firefox = Využívejte { -brand-name-firefox(case: "acc") } naplno
 firefox-desktop-download-just-download-the-browser = Stáhněte si prohlížeč
