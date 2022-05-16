@@ -17,3 +17,4 @@ about-shared-software-innovations = Software a další inovace jsou navrženy ta
 about-shared-get-involved = Zapojte se
 about-shared-volunteer = Zapojte se do našeho projektu. Existuje řada oblastí, kde můžete pomoci.
 vision-for-the-web = Vize { -brand-name-mozilla(case: "gen") } pro web
+read-about-our-vision = Přečtěte si o naší vizi webu a o tom, jak ji hodláme naplňovat.
