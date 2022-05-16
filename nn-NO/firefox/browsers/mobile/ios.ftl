@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
 mobile-ios-scan-the-qr-code-to-get-started = Skann QR-koden for å kome i gang
+mobile-ios-make-firefox-your = Gjer { -brand-name-firefox } til din standardnettlesar
