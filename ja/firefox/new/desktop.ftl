@@ -155,7 +155,11 @@ firefox-desktop-download-questions = お問い合わせがありましたら、<
 
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = 既にブラウザーがインストールされています。{ -brand-name-firefox } なら、もっとたくさんのことができます。
+
+
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } がハッカーをブロック、{ -brand-name-firefox-lockwise } がパスワードを保護します。他にも機能は満載。
+
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } なら、もっとたくさんのことができます
 firefox-desktop-download-just-download-the-browser = ブラウザーをダウンロードするだけです
 
