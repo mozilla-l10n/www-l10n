@@ -49,6 +49,7 @@ navigation-v2-sign-up-for-new-accounts = Creescha novs contos senza tradir tia a
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Protegia la connexiun cun l'internet da tes navigatur.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Novas funcziuns e novs utensils per ina experientscha { -brand-name-mdn } persunalisada
 navigation-v2-view-all-products = Vesair tut ils products
 
 ## Who We Are menu

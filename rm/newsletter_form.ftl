@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Endatescha p.pl. ina adressa d'e-mail valida
 newsletter-form-you-must-agree-to = Ti stos acceptar las directivas da la protecziun da datas
@@ -31,3 +31,9 @@ newsletter-form-thanks = Grazia!
 newsletter-form-leave-this-field-empty = Betg emplenir quest champ.
 newsletter-form-yes = Gea
 newsletter-form-no = Na
+multi-newsletter-form-checkboxes-legend = Jau vuless infurmaziuns davart:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Tscherna almain ina da las opziuns da newsletters.
+multi-newsletter-form-title = Amur per il web
+multi-newsletter-form-desc = Abunescha ils newsletters da { -brand-name-mozilla } ed ans gida da mantegnair il web avert e liber.
