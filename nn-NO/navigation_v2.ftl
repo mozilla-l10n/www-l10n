@@ -48,6 +48,7 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrer deg for nye kontoar utan å gje frå deg e-postadressa di.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Beskytt nettlesartilkoplinga til internett.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Vis alle produkta
 
 ## Who We Are menu
