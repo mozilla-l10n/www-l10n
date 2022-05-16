@@ -8,3 +8,6 @@
 mobile-focus-get-firefox-focus = Last ned { -brand-name-firefox-focus }
 mobile-focus-scan-the-qr-code-to-get-started = Skann QR-koden for å kome i gang
 mobile-focus-scan-alt-text = Skann QR-koden for å få { -brand-name-firefox-focus }
+mobile-focus-tracking-protection = Sporingsvern
+mobile-focus-ad-blocking = Annonseblokkering
+mobile-focus-made-by-mozilla = Laga av { -brand-name-mozilla }
