@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Blokovanie sledovacích prvkov
 firefox-desktop-download-os-availability = Dostupnosť na OS
 firefox-desktop-download-in-browser-screenshot = Nástroj na snímanie obrazovky v prehliadači
 firefox-desktop-download-primary-password = Hlavné heslo
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Milujte svoj život online
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Je to váš internet. Vyfarbite si ho tak, ako chcete, s tisíckami nástrojov, tém vzhľadu a rozšírení. { -brand-name-firefox } je originálny alternatívny prehliadač, ktorý uprednostňuje ľudí pred ziskom.
 # Obsolete string
@@ -144,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Stránky podpory pre produkty { -brand-name-mozilla(gen: "gen") }</a> vám pomôžu.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Prehliadač { -brand-name-firefox } už máte. No to nie je jediná vec so značkou { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Sledujte hackerov pomocou služby { -brand-name-firefox-monitor }, chráňte svoju e-mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Sledujte hackerov pomocou { -brand-name-firefox-monitor(case: "gen") }, chráňte svoje heslá pomocou { -brand-name-firefox-lockwise } a omnoho viac.
 firefox-desktop-download-get-more-from-firefox = Využívajte { -brand-name-firefox } naplno
 firefox-desktop-download-just-download-the-browser = Stiahnite si prehliadač
