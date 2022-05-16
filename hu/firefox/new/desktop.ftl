@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Közösségi oldalak követői
 firefox-desktop-download-os-availability = Elérhetőség különböző operációs rendszereken
 firefox-desktop-download-in-browser-screenshot = Böngészőn belüli képernyőkép eszköz
 firefox-desktop-download-primary-password = Elsődleges jelszó
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Szeresse az online életét
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Ez az Ön internete. Színezze olyanra, amilyenre szeretné az eszközök, témák és kiegészítők ezreivel. A { -brand-name-firefox } az eredeti alternatív böngésző, amely az embereket helyezi a profit elé.
 # Obsolete string
@@ -144,6 +146,8 @@ firefox-desktop-download-firefox-automatically = A { -brand-name-firefox } autom
 firefox-desktop-download-questions = Kérdései vannak? A <a { $attrs }>{ -brand-name-mozilla } támogatás</a> a rendelkezésére áll.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Már rendelkezik a böngészővel. Most kapjon még többet a { -brand-name-firefox }tól.
+firefox-desktop-download-watch-for-hackers-with-v2 = Figyeljen a hackerekre a { -brand-name-firefox-monitor }ral, védje meg az e-mail-címét a { -brand-name-firefox-relay } segítségével, és így tovább.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Figyeljen a hackerekre a { -brand-name-firefox-monitor }ral, védje meg a jelszavait a { -brand-name-firefox-lockwise } segítségével, és így tovább.
 firefox-desktop-download-get-more-from-firefox = Kapjon többet a { -brand-name-firefox }tól
 firefox-desktop-download-just-download-the-browser = Csak a böngésző letöltése
