@@ -19,10 +19,14 @@ contribute-tag-individual-event = Organização individual e de eventos
 contribute-tag-individual = Individual
 contribute-tag-support = Apoio
 contribute-task-translate-heading = Tradução de conteúdo
+contribute-task-join-heading = Junte-se à comunidade
 
 ## Mission
 
 contribute-mission-heading = A nossa missão
+contribute-donate = Doar
+contribute-help-fund = Ajude a financiar a nossa missão
+contribute-follow-mozilla = Seguir { -brand-name-mozilla }
 
 ## Made by
 
