@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Блокує стеження 
 firefox-desktop-download-os-availability = Доступність для різних ОС
 firefox-desktop-download-in-browser-screenshot = Вбудований засіб знімків екрана
 firefox-desktop-download-primary-password = Головний пароль
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Любіть своє онлайн-життя
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Це ваш інтернет. Прикрасьте його на свій смак за допомогою тисяч інструментів, тем і розширень. { -brand-name-firefox } — оригінальний альтернативний браузер, який ставить людей понад прибуток.
 # Obsolete string
@@ -144,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } авт�
 firefox-desktop-download-questions = Маєте питання? <a { $attrs }>Підтримка { -brand-name-mozilla }</a> має для вас відповіді.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = У вас вже є браузер. Тепер отримайте ще більше від { -brand-name-firefox }
+firefox-desktop-download-watch-for-hackers-with-v2 = Слідкуйте за хакерами за допомогою { -brand-name-firefox-monitor }, захистіть свою адресу електронної пошти за допомогою { -brand-name-firefox-relay }, а також інші можливості.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Слідкуйте за діями зловмисників за допомогою { -brand-name-firefox-monitor }, захистіть паролі за допомогою { -brand-name-firefox-lockwise }, а також інші можливості.
 firefox-desktop-download-get-more-from-firefox = Отримайте більше від { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Просто завантажте браузер
