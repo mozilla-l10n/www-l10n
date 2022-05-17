@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -18,6 +18,10 @@ nightly-whatsnew-this-is-a-good = Nyní je správný čas poděkovat vám za pom
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Pokud chcete vědět, co se děje okolo { -brand-name-nightly(case: "gen") } a naší komunity, pro začátek je nejlepší si přečíst náš <a href="{ $blog }">blog</a> a začít sledovat náš účet na <a href="{ $twitter }">{ -brand-name-twitter(case: "loc") }</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Chcete vědět, které funkce můžete s { -brand-name-nightly(case: "ins") } otestovat a které zatím nejsou v žádné jiné verzi { -brand-name-firefox(case: "gen") }? Pak se podívejte na stránku <a { $attrs }>Nightly Experiments</a>.
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Chcete vědět, které funkce můžete s { -brand-name-nightly(case: "ins") } otestovat a které zatím nejsou v žádné jiné verzi { -brand-name-firefox(case: "gen") }? Pak se podívejte na stránku <a href="{ $mdn }">Experimental Features</a> na <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn(case: "loc") }</abbr>.
