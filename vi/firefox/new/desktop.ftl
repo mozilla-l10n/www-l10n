@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Chặn trình theo dõi xã h�
 firefox-desktop-download-os-availability = Hệ điều hành khả dụng
 firefox-desktop-download-in-browser-screenshot = Công cụ chụp màn hình trong trình duyệt
 firefox-desktop-download-primary-password = Mật khẩu chính
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Yêu cuộc sống trực tuyến của bạn
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Đó là internet của bạn. Tô màu theo cách bạn muốn với hàng nghìn công cụ, chủ đề và tiện ích mở rộng. { -brand-name-firefox } là trình duyệt thay thế ban đầu đặt mọi người lên trước lợi nhuận.
 # Obsolete string
@@ -144,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } tự đ
 firefox-desktop-download-questions = Có câu hỏi? <a { $attrs }>Hỗ trợ { -brand-name-mozilla }</a> sẽ giúp ích cho bạn.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Bạn đã có trình duyệt. Bây giờ nhận được nhiều hơn từ { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Đề phòng tin tặc bằng { -brand-name-firefox-monitor }, bảo vệ địa chỉ email của bạn bằng { -brand-name-firefox-relay }, v.v.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Theo dõi các tin tặc với { -brand-name-firefox-monitor }, bảo vệ mật khẩu với { -brand-name-firefox-lockwise } và hơn thế nữa.
 firefox-desktop-download-get-more-from-firefox = Nhận thêm từ { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Chỉ cần tải xuống trình duyệt
