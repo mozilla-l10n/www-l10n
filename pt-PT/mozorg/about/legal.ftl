@@ -20,5 +20,6 @@ legal-thunderbird = { -brand-name-thunderbird }
 legal-thunderbird-rights = { -brand-name-thunderbird }: Sobre os seus direitos
 legal-acceptable-use-policy = Política de Utilização Aceitável
 legal-firefox-better-web = { -brand-name-firefox-better-web }
+legal-firefox-reality-rights = { -brand-name-firefox-reality }: Sobre os seus direitos
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Termos de serviço do { -brand-name-mdn-plus }
