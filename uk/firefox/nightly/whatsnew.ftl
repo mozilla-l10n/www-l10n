@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -18,6 +18,10 @@ nightly-whatsnew-this-is-a-good = Це гарна нагода, щоб подя�
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Якщо ви хочете дізнатися, що відбувається навколо { -brand-name-nightly } та його спільноти, читайте наш <a href="{ $blog }">блог</a> та підписуйтеся на нас в <a href="{ $twitter }">{ -brand-name-twitter }</a>!
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Хочете дізнатись, які можливості платформи можна протестувати в { -brand-name-nightly }, які ще недоступні в інших каналах { -brand-name-firefox }? Тоді перегляньте сторінку налаштувань <a { $attrs }>Nightly Experiments</a>.
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Хочете дізнатись, які можливості платформи можна протестувати в { -brand-name-nightly }, які ще недоступні в інших каналах { -brand-name-firefox }? Тоді перегляньте сторінку <a href="{ $mdn }">Експериментальних можливостей</a> на <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
