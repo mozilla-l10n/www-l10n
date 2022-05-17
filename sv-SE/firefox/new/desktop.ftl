@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Blockerar sociala spårare
 firefox-desktop-download-os-availability = OS tillgänglighet
 firefox-desktop-download-in-browser-screenshot = Skärmdumpsverktyg i webbläsaren
 firefox-desktop-download-primary-password = Huvudlösenord
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Gilla ditt liv online
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Det är ditt internet. Färglägg det som du vill med tusentals verktyg, teman och tillägg. { -brand-name-firefox } är den ursprungliga alternativa webbläsaren som sätter människor före vinster.
 # Obsolete string
@@ -144,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Frågor? <a { $attrs }>{ -brand-name-mozilla } support</a> kan hjälpa dig.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Du har redan webbläsaren. Få ut ännu mer från { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Håll utkik efter hackare med { -brand-name-firefox-monitor }, skydda din e-postadress med { -brand-name-firefox-relay } och mer.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Akta dig för hackare med { -brand-name-firefox-monitor }, skydda lösenord med { -brand-name-firefox-lockwise } och mer.
 firefox-desktop-download-get-more-from-firefox = Hämta mer från { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Bara hämta webbläsaren
