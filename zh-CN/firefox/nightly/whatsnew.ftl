@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -18,6 +18,10 @@ nightly-whatsnew-this-is-a-good = 非常感谢您帮助我们打造更好的 { -
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = 如果您想了解 { -brand-name-nightly } 及社区的近况，阅读我们的<a href="{ $blog }">博客</a>并关注我们的 <a href="{ $twitter }">{ -brand-name-twitter }</a> 不失为一个上佳之选。
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = 想要了解 { -brand-name-nightly } 在测试哪些尚未登陆其他 { -brand-name-firefox } 版本的功能？去看看 <a { $attrs }>Nightly 实验</a> 页面吧。
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = 想要了解 { -brand-name-nightly } 在测试哪些尚未登陆其他 { -brand-name-firefox } 版本的功能？去看看 <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr> 上的 <a href="{ $mdn }">实验性功能</a> 页面吧。
