@@ -24,6 +24,8 @@ nightly-whatsnew-this-is-a-good = Ini saat yang tepat untuk berterima kasih kare
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Jika Anda ingin mengetahui apa yang terjadi dengan { -brand-name-nightly } dan komunitasnya, baca <a href="{ $blog }">blog</a> kami dan ikuti kami di <a href="{ $twitter }">{ -brand-name-twitter }</a>!
 
+
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Ingin mengetahui fitur platform mana yang dapat Anda uji di { -brand-name-nightly } dan yang belum dapat Anda lihat di kanal { -brand-name-firefox }? Maka coba lihat laman <a href="{ $mdn }">Fitur Eksperimental</a> di <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.

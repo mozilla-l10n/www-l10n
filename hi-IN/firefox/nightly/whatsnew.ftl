@@ -24,6 +24,8 @@ nightly-whatsnew-this-is-a-good = यह एक अच्छा समय है
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = अगर आप जानना चाहते हैं कि { -brand-name-nightly } और इसके समुदाय में क्या हो रहा है, तो हमारा <a href="{ $blog }">ब्लॉग</a> पढ़ना और <a href="{ $twitter }">{ -brand-name-twitter }</a> पर हमारा अनुसरण करना एक अच्छी शुरुआत हो सकती है!
 
+
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = जानना चाहते हैं कि आप कौनसी प्लेटफ़ॉर्म सुविधाएँ { -brand-name-nightly } पर जाँच सकते हैं जो दूसरे { -brand-name-firefox } चैनल पर अबतक नहीं देख सकते हैं? फिर <a href="{ $mdn }">प्रयोगात्मक सुविधाएँ</a> पेज पर एक नज़र डाले, यह आपको <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>पर मिलेगा।

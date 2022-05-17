@@ -24,6 +24,8 @@ nightly-whatsnew-this-is-a-good = この機会に、皆さんに { -brand-name-f
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = { -brand-name-nightly } とそのコミュニティ関連のニュースについては、まず Mozilla の<a href="{ $blog }">ブログ</a>をご覧いただくか、<a href="{ $twitter }">{ -brand-name-twitter }</a> で Mozilla をフォローしていただくとよいでしょう。
 
+
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = { -brand-name-nightly } のプラットフォームの機能のうち、どれをテストできるかを知りたい方で、他の { -brand-name-firefox } チャンネルでまだ確認できない方は、<a href="{ $mdn }">試験的機能</a>ページ (<abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr> 上にあります) をご覧ください。
