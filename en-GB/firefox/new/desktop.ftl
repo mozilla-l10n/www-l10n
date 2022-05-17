@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Blocks social trackers
 firefox-desktop-download-os-availability = OS availability
 firefox-desktop-download-in-browser-screenshot = In-browser screenshot tool
 firefox-desktop-download-primary-password = Primary password
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Love your life online
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = It’s your internet. Colour it the way you want with thousands of tools, themes and extensions. { -brand-name-firefox } is the original alternative browser that puts people before profits.
 # Obsolete string
@@ -144,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 firefox-desktop-download-questions = Questions? <a { $attrs }>{ -brand-name-mozilla } support</a> has you covered.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = You’ve already got the browser. Now get even more from { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Watch for hackers with { -brand-name-firefox-monitor }, protect your email address with { -brand-name-firefox-relay }, and more.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Watch for hackers with { -brand-name-firefox-monitor }, protect passwords with { -brand-name-firefox-lockwise }, and more.
 firefox-desktop-download-get-more-from-firefox = Get More From { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Just Download The Browser

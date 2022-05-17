@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -18,6 +18,10 @@ nightly-whatsnew-this-is-a-good = This is a good time to thank you for helping u
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = If you want to know what’s happening around { -brand-name-nightly } and its community, reading our <a href="{ $blog }">blog</a> and following us on <a href="{ $twitter }">{ -brand-name-twitter }</a> are good starting points!
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Want to know which platform features you could test on { -brand-name-nightly } and can’t see yet on other { -brand-name-firefox } channels? Then have a look at the <a { $attrs }>Nightly Experiments</a> preferences page.
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Want to know which platform features you could test on { -brand-name-nightly } and can’t see yet on other { -brand-name-firefox } channels? Then have a look at the <a href="{ $mdn }">Experimental Features</a> page on <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
