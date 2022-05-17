@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Φραγή ιχνηλατών 
 firefox-desktop-download-os-availability = Διαθεσιμότητα ΛΣ
 firefox-desktop-download-in-browser-screenshot = Ενσωματωμένο εργαλείο στιγμιότυπων οθόνης
 firefox-desktop-download-primary-password = Κύριος κωδικός πρόσβασης
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Αγαπήστε τη διαδικτυακή σας ζωή
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Είναι το διαδίκτυό σας. Προσαρμόστε το όπως θέλετε με χιλιάδες εργαλεία, θέματα και επεκτάσεις. Το { -brand-name-firefox } είναι το πρώτο εναλλακτικό πρόγραμμα περιήγησης που βάζει τους ανθρώπους πάνω από το κέρδος.
 # Obsolete string
@@ -144,6 +146,8 @@ firefox-desktop-download-firefox-automatically = Το { -brand-name-firefox } <a
 firefox-desktop-download-questions = Έχετε απορίες; Η <a { $attrs }>Υποστήριξη { -brand-name-mozilla }</a> είναι εδώ για σας.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Έχετε ήδη το πρόγραμμα περιήγησης. Ωφεληθείτε ακόμη περισσότερο από το { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Προφυλαχτείτε από τους hackers με το { -brand-name-firefox-monitor }, προστατέψτε τη διεύθυνση email σας με το { -brand-name-firefox-relay } και πολλά άλλα.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Προστατευτείτε από hackers με το { -brand-name-firefox-monitor }, φυλάξτε τους κωδικούς πρόσβασης με το { -brand-name-firefox-lockwise } και πολλά άλλα.
 firefox-desktop-download-get-more-from-firefox = Περισσότερα από το { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Απλή λήψη του προγράμματος περιήγησης
