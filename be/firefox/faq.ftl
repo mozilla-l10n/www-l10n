@@ -20,6 +20,11 @@ how-do-i = Як атрымаць { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Вы можаце лёгка сцягнуць настольны браўзер { -brand-name-firefox } <a href="{ $url }">тут.</a> { -brand-name-firefox } працуе на прыладах з <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> і <a href="{ $url4 }">{ -brand-name-linux }</a>, а таксама даступны для <a href="{ $url5 }">{ -brand-name-android } і { -brand-name-ios }.</a> Упэўніцеся, што сцягваеце наш браўзер з адной з нашых давераных старонак { -brand-name-mozilla }/{ -brand-name-firefox }.
+is-firefox-free = { -brand-name-firefox } бясплатны?
+yep-the-firefox = Так! Браўзер { -brand-name-firefox-browser } бясплатны. Насамрэч супер бясплатны. Ніякіх схаваных выдаткаў або чаго-небудзь яшчэ. Вы нічога не плаціце за яго выкарыстанне, і мы не прадаём вашыя асабістыя дадзеныя.
+related-questions-free = Звязаныя пытанні: ці бясплатны { -brand-name-firefox-browser }, ці каштуе { -brand-name-firefox } грошай
+is-chrome-better = { -brand-name-chrome } лепшы, чым { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
