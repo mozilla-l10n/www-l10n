@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Yn rhwystro tracwyr cymdeithas
 firefox-desktop-download-os-availability = Argaeledd yr OS
 firefox-desktop-download-in-browser-screenshot = Teclyn llun sgrin o fewn y porwr
 firefox-desktop-download-primary-password = Prif gyfrinair
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Carwch eich bywyd ar-lein
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Eich rhyngrwyd chi yw hi. Lliwiwch hi yn y ffordd rydych chi ei eisiau gyda miloedd o offer, themâu ac estyniadau. { -brand-name-firefox } yw'r porwr amgen gwreiddiol sy'n rhoi pobl cyn elw.
 # Obsolete string
@@ -144,6 +146,8 @@ firefox-desktop-download-firefox-automatically = Mae { -brand-name-firefox } yn 
 firefox-desktop-download-questions = Cwestiynau? Mae gan <a { $attrs }>Cymorth { -brand-name-mozilla }</a> yr atebion.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Mae porwr eisoes gyda chi. Nawr beth am gael mwy fyth gan { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Gwyliwch am hacwyr gyda { -brand-name-firefox-monitor }, diogelwch eich cyfeiriad e-bost gyda { -brand-name-firefox-relay }, a mwy.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Gwyliwch am hacwyr gyda { -brand-name-firefox-monitor }, diogelwch eich cyfrineiriau gyda { -brand-name-firefox-lockwise }, a mwy.
 firefox-desktop-download-get-more-from-firefox = Cael Mwy Gan { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Llwytho'r Porwr i Lawr
