@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -18,6 +18,10 @@ nightly-whatsnew-this-is-a-good = Mae hwn yn gyfle da i ddiolch i chi am ein cyn
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Os hoffech chi wybod beth sy'n digwydd o amgylch { -brand-name-nightly } a'r gymuned, mae darllen ein <a href="{ $blog }">blog</a> a'n dilyn ni ar <a href="{ $twitter }">{ -brand-name-twitter }</a> yn ffordd dda o gychwyn!
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Eisiau gwybod pa nodweddion platfform y mae modd eu profi ar { -brand-name-nightly } ac sydd ddim eto ar gael ar sianeli eraill { -brand-name-firefox } ? Yna edrychwch ar y dudalen dewisiadau <a { $attrs }>Arbrofion Nightly</a>.
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Eisiau gwybod pa nodweddion platfform y mae modd eu profi ar { -brand-name-nightly } ac sydd ddim eto ar gael ar sianeli eraill { -brand-name-firefox }? Edrychwch ar <a href="{ $mdn }">Nodweddion Arbrofol</a> ar dudalen <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
