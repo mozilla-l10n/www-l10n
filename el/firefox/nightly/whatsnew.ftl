@@ -19,6 +19,10 @@ nightly-whatsnew-this-is-a-good = Αυτή είναι η κατάλληλη στ
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Αν θέλετε να μαθαίνετε τα νέα του { -brand-name-nightly } και της κοινότητά του, μπορείτε να ξεκινήσετε διαβάζοντας το <a href="{ $blog }">blog</a> μας και ακολουθώντας μας στο <a href="{ $twitter }">{ -brand-name-twitter }</a>!
 # Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Θέλετε να μάθετε ποιες λειτουργίες μπορείτε να δοκιμάσετε στο { -brand-name-nightly }, ενώ δεν υπάρχουν ακόμα σε άλλα κανάλια του { -brand-name-firefox }; Ρίξτε μια ματιά στη σελίδα προτιμήσεων <a { $attrs }>Πειράματα του Nightly</a>.
+# Obsolete
+# Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Θέλετε να μάθετε ποιες λειτουργίες μπορείτε να δοκιμάσετε στο { -brand-name-nightly }, ενώ δεν υπάρχουν ακόμα σε άλλα κανάλια του { -brand-name-firefox }; Τότε, ρίξτε μια ματιά στη σελίδα <a href="{ $mdn }">Πειραματικές λειτουργίες</a> του <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
