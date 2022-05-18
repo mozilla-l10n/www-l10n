@@ -31,10 +31,14 @@ no-we-dont = Не, мы не лічым, што { -brand-name-chrome } лепш�
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Паглядзіце параўнанне { -brand-name-firefox } з { -brand-name-chrome }.</a>
+related-questions-better = Звязаныя пытанні: ці { -brand-name-firefox } лепшы, чым { -brand-name-chrome }, ці { -brand-name-firefox } лепшы, чым { -brand-name-google }, ці { -brand-name-firefox } бяспечнейшы, чым { -brand-name-chrome }, ці { -brand-name-firefox } больш прыватны, чым { -brand-name-chrome }
+is-firefox-safe-download = Ці бяспечна сцягваць { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Ахова вашай прыватнасці з'яўляецца нашым прыярытэтам нумар адзін, і мы гарантуем, што ўсталяванне { -brand-name-firefox } на вашы прылады цалкам бяспечнае, але заўсёды пераконвайцеся, што вы сцягваеце з даверанага { -brand-name-mozilla }/{ -brand-name-firefox } сайта, напрыклад, <a href="{ $url }">нашай старонкі сцягвання.</a>
+is-firefox-safe = { -brand-name-firefox } бяспечны?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
