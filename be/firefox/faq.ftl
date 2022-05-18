@@ -25,10 +25,12 @@ is-firefox-free = { -brand-name-firefox } бясплатны?
 yep-the-firefox = Так! Браўзер { -brand-name-firefox-browser } бясплатны. Насамрэч супер бясплатны. Ніякіх схаваных выдаткаў або чаго-небудзь яшчэ. Вы нічога не плаціце за яго выкарыстанне, і мы не прадаём вашыя асабістыя дадзеныя.
 related-questions-free = Звязаныя пытанні: ці бясплатны { -brand-name-firefox-browser }, ці каштуе { -brand-name-firefox } грошай
 is-chrome-better = { -brand-name-chrome } лепшы, чым { -brand-name-firefox }?
+no-we-dont = Не, мы не лічым, што { -brand-name-chrome } лепшы за { -brand-name-firefox }, і вось чаму: калі людзі пытаюць, які браўзер лепшы, яны насамрэч пытаюць, які браўзер хутчэйшы і бяспечнейшы. { -brand-name-firefox } абнаўляецца штомесяц, каб запэўніць, што ў вас самы хуткі браўзер, які аўтаматычна паважае вашу прыватнасць.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Паглядзіце параўнанне { -brand-name-firefox } з { -brand-name-chrome }.</a>
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
