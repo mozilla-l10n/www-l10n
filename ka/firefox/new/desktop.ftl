@@ -146,7 +146,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } თა�
 firefox-desktop-download-questions = კითხვები გაქვთ? <a { $attrs }>{ -brand-name-mozilla } მხარდაჭერა</a> გამოგადგებათ.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = ბრაუზერი უკვე გაქვთ. კიდევ უფრო უკეთ გამოიყენეთ { -brand-name-firefox }.
-firefox-desktop-download-watch-for-hackers-with-v2 = თვალი ადევნეთ ჰაკერებს { -brand-name-firefox-monitor }-ით, დაიცავით თქვენი ელფოსტის მისამართები { -brand-name-firefox-relay }-ით, და ა. შ.
+firefox-desktop-download-watch-for-hackers-with-v2 = თვალი ადევნეთ ჰაკერებს { -brand-name-firefox-monitor }-ით, დაიცავით თქვენი ელფოსტის მისამართები { -brand-name-firefox-relay }-ით, და ა. შ.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = თვალი ადევნეთ ჰაკერებს { -brand-name-firefox-monitor }-ით, დაიცავით პაროლები { -brand-name-firefox-lockwise }-ით, და ა. შ.
 firefox-desktop-download-get-more-from-firefox = მიიღეთ მეტი { -brand-name-firefox }-ისგან
