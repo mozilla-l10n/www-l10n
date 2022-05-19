@@ -17,3 +17,4 @@ about-shared-software-innovations = ჩვენი მისიის ხელ
 about-shared-get-involved = შემოგვიერთდით
 about-shared-volunteer = გახდით მოხალისე ხელშემწყობი სხვადასხვა სფეროში.
 vision-for-the-web = { -brand-name-mozilla }-ს ხედვა ვებსვირცის შესახებ
+read-about-our-vision = გაეცანით, თუ რა მიზნები გვაქვს ვებსამყაროსთან დაკავშირებით და როგორ ვაპირებთ მათ განხორციელებას.
