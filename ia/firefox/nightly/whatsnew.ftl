@@ -19,6 +19,10 @@ nightly-whatsnew-this-is-a-good = Isto es un bon momento pro regratiar te pro ad
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Si tu vole saper lo que occurre circum { -brand-name-nightly } e su communitate, leger nostre <a href="{ $blog }">blog</a> e sequer nos sur <a href="{ $twitter }">{ -brand-name-twitter }</a> es un bon initio!
 # Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Vole tu saper qual functionalitates de platteforma poterea tu probar sur { -brand-name-nightly }, que non es ancora disponibile sur altere { -brand-name-firefox }? Alora consulta le pagina de preferentias<a { $attrs }>Nightly Experiments</a>.
+# Obsolete
+# Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Vole tu saper qual functiones tu poterea probar sur { -brand-name-nightly }, le quales non es ancora disponibile sur altere canales de { -brand-name-firefox }? Alora consulta le pagina <a href="{ $mdn }">Functiones experimental</a> sur <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
