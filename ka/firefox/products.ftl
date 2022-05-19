@@ -30,7 +30,7 @@ firefox-products-learn-more-about-relay = ვრცლად გაიცან�
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
-firefox-products-keep-your-passwords-safe-and = შეინახეთ თქვენი პაროლები უსაფრთხოდ და მიიღეთ მათზე წვდომა, ყველა დასინქრონებული მოწყობილობიდან.
+firefox-products-keep-your-passwords-safe-and = შეინახეთ თქვენი პაროლები უსაფრთხოდ და მიიღეთ მათთან წვდომის საშუალება, ყველა დასინქრონებული მოწყობილობიდან.
 # Obsolete string
 firefox-products-download-lockwise = ჩამოტვირთეთ { -brand-name-lockwise }
 # Obsolete string
