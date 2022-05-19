@@ -43,10 +43,12 @@ is-firefox-safe = { -brand-name-firefox } бяспечны?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+related-questions-safe = Звязаныя пытанні: ці добры { -brand-name-firefox } для прыватнасці, ці бяспечны { -brand-name-firefox }, ці { -brand-name-firefox } лепшы для прыватнасці
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+is-firefox-chromium = Ці заснаваны { -brand-name-firefox } на { -brand-name-chromium }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
