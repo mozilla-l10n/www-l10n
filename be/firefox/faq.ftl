@@ -44,10 +44,12 @@ is-firefox-safe = { -brand-name-firefox } бяспечны?
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
 related-questions-safe = Звязаныя пытанні: ці добры { -brand-name-firefox } для прыватнасці, ці бяспечны { -brand-name-firefox }, ці { -brand-name-firefox } лепшы для прыватнасці
+does-firefox-sell = Ці прадае { -brand-name-firefox } вашы асабістыя звесткі?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Не. Ніколі не было, ніколі не будзе. І мы абараняем вас ад многіх рэкламадаўцаў, якія гэта робяць. Прадукты { -brand-name-firefox } створаны для абароны вашай прыватнасці. <a href="{ $url }">Гэта абяцанне.</a>
 is-firefox-chromium = Ці заснаваны { -brand-name-firefox } на { -brand-name-chromium }?
 
 # Variables:
