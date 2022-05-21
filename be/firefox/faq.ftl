@@ -11,6 +11,7 @@ what-is-firefox = Што такое { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } — адзіны асноўны браўзера, падтрыманы некамерцыйнай арганізацыяй, якая не прадае вашыя асабістыя звесткі рэкламадаўцам, дапамагаючы вам абараніць сваю асабістую інфармацыю. Падрабязней пра <a href="{ $url }">{ -brand-name-firefox-browsers }</a> і <a href="{ $url2 }">іншыя прадукты.</a>
 how-do-i = Як атрымаць { -brand-name-firefox-browser }?
 
 # Variables:
@@ -43,6 +44,7 @@ is-firefox-safe = { -brand-name-firefox } бяспечны?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = { -brand-name-firefox } не толькі бяспечны ў выкарыстанні, ён таксама дапамагае захаваць вашы дадзеныя і асабістую інфармацыю ў бяспецы. Браўзер { -brand-name-firefox-browser } аўтаматычна блакуе збор вашых дадзеных вядомымі трэкерамі старонніх асоб, трэкеры сацыяльных сетак, крыптамайнераў і збіральнікаў лічбавых адбіткаў. <a href="{ $url }">Даведацца больш аб прыватнасці ў нашых прадуктах.</a>
 related-questions-safe = Звязаныя пытанні: ці добры { -brand-name-firefox } для прыватнасці, ці бяспечны { -brand-name-firefox }, ці { -brand-name-firefox } лепшы для прыватнасці
 does-firefox-sell = Ці прадае { -brand-name-firefox } вашы асабістыя звесткі?
 
@@ -58,11 +60,13 @@ does-firefox-use = Ці выкарыстоўвае { -brand-name-firefox } { -br
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = Ці мае { -brand-name-firefox } убудаваны VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+who-owns-firefox = Каму належыць { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
