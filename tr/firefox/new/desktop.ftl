@@ -146,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }, web et
 firefox-desktop-download-questions = Sorularınız mı var? <a { $attrs }>{ -brand-name-mozilla } Destek</a>’e danışabilirsiniz.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Tarayıcıyı zaten kullanıyorsunuz, ama { -brand-name-firefox } yalnızca bir tarayıcı değil.
+firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-relay } ile e-posta adresinizi koruyabilir ve çok daha fazlasını yapabilirsiniz.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-lockwise } ile parolalarınızı koruyabilir ve çok daha fazlasını yapabilirsiniz.
 firefox-desktop-download-get-more-from-firefox = Diğer { -brand-name-firefox } ürünlerini göster
 firefox-desktop-download-just-download-the-browser = Yalnızca tarayıcıyı indir

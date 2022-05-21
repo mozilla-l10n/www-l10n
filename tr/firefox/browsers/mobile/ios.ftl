@@ -37,6 +37,8 @@ mobile-ios-find-it-all = Daha hızlı bulun
 mobile-ios-get-search-suggestions = Arama çubuğunda arama önerileri alın ve en çok ziyaret ettiğiniz sitelere hızla erişin. Arama terimlerinizi yazın, favori arama motorlarınızdan öneriler ve önceden aradığınız sonuçlar karşınıza gelsin.
 # Obsolete string
 mobile-ios-keep-tabs-on = Sekmeleri yönetin
+# Obsolete string
+mobile-ios-create-as-many = İstediğiniz kadar sekme açın. { -brand-name-firefox } açık sekmelerinizi küçük resimler ve numaralı seklemeler halinde görüntüleyerek aradığınız şeyleri bulmanızı kolaylaştırır.
 mobile-ios-discover-more-of = Seveceğiniz şeyleri keşfedin
 mobile-ios-open-a-new = Sık ziyaret ettiğiniz siteleri, en son yer imlerinizi ve  { -brand-name-pocket }’taki popüler makaleleri görmek için { -brand-name-firefox }’ta yeni bir sekme açın. Gideceğiniz yere daha hızlı ulaşmanız için { -brand-name-firefox } en son kullandığınız sitelere hızlı erişim sağlar.
 mobile-ios-about-mozilla = { -brand-name-mozilla } hakkında
