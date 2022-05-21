@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = Частыя пытанні па { -brand-name-firefox }
+whether-you-searched-privacy = Калі вы шукалі хуткі браўзер, які ахоўвае вашу прыватнасць, гэты спіс тут, каб адказаць на найбольш актуальныя пытанні, звязаныя з { -brand-name-firefox }.
+whether-you-searched-independant = Незалежна ад таго, шукаеце вы хуткі браўзер або шукаеце незалежную арганізацыю, якая ахоўвае вашу прыватнасць, гэты спіс тут, каб адказаць на самыя актуальныя пытанні, звязаныя з { -brand-name-firefox }.
 what-is-firefox = Што такое { -brand-name-firefox }?
 
 # Variables:
@@ -66,6 +70,7 @@ does-firefox-have = Ці мае { -brand-name-firefox } убудаваны VPN?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+related-questions-ip = Звязаныя пытанні: ці хавае { -brand-name-firefox } ваш IP-адрас
 who-owns-firefox = Каму належыць { -brand-name-firefox }?
 
 # Variables:
