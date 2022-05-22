@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Bloquea los rastreadores socia
 firefox-desktop-download-os-availability = Disponibilidad para sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla en el navegador
 firefox-desktop-download-primary-password = Contraseña maestra
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Ama tu vida en línea
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Es tu Internet. Coloréalo como quieras con miles de herramientas, temas y extensiones. { -brand-name-firefox } es el navegador alternativo original que coloca a las personas por encima del lucro.
 # Obsolete string
@@ -144,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automá
 firefox-desktop-download-questions = ¿Preguntas? La <a { $attrs }>ayuda de { -brand-name-mozilla }</a> está a tu disposición.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Ya tienes el navegador. Ahora consigue aún más de { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Vigila a los hackers con { -brand-name-firefox-monitor }, protege tu dirección de correo con { -brand-name-firefox-relay } y más.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Presta atención a los piratas informáticos con { -brand-name-firefox-monitor }, protege las contraseñas con { -brand-name-firefox-lockwise } y más.
 firefox-desktop-download-get-more-from-firefox = Consigue más productos de { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Simplemente descarga el navegador
