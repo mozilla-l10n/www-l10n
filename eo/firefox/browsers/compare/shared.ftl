@@ -14,6 +14,12 @@ compare-shared-blocks-third-party-tracking-default = Norma blokado de nerektaj s
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Blokado de nerektaj kuketoj
 compare-shared-blocks-cryptomining-scripts = Blokado de miniloj de ĉifromono
+compare-shared-blocks-fingerprinting-scripts = Blokado de identigiloj de ciferecaj spuroj
+compare-shared-blocks-social-trackers = Blokado de sociretaj spuriloj
+compare-shared-dashboard-to-review = Panelo por kontrolo de blokitaj spuriloj
+compare-shared-autoplay-blocking = Blokado de aŭtomata ludado
+compare-shared-tab-browsing = Retumo en langetoj
+compare-shared-bookmark-manager = Administrilo de legosignoj
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
