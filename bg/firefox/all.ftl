@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Предстои да изтеглите
 firefox-all-browser = Мрежов четец:
 firefox-all-platform = Платформа:
 firefox-all-language = Език:
+firefox-all-lang-multi = Множество езици
 firefox-all-64-bit-installers = 64-битови инсталатори
 firefox-all-32-bit-installers = 32-битови инсталатори
 # HTML page title. Replace "English (US)" with your local language.

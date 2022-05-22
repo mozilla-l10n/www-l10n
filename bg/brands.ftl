@@ -1,9 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
 
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
+
 
 ## Company names
 
@@ -17,7 +19,9 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
+-brand-name-wireguard = WireGuard
 
 ## Firefox browsers
 
@@ -56,7 +60,6 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
@@ -64,8 +67,13 @@
 -brand-name-devtools = DevTools
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-send = Send
 -brand-name-sync = Sync
+-brand-name-fpn = FPN
+
+## Firefox products (legacy)
+
+-brand-name-firefox-send = Firefox Send
+-brand-name-send = Send
 
 ## Pocket
 
@@ -86,9 +94,13 @@
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
 
+## Mozilla projects (legacy)
+
+
 ## Open Source projects
 
 -brand-name-rust = Rust
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
@@ -103,12 +115,15 @@
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
--brand-name-vista = Vista
 
 ## Apple products
 
@@ -122,10 +137,13 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
+-brand-name-messenger = Messenger
 
 ## Google products
 
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook
