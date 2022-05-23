@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Póznajśo našu produktowu swójźbu
 firefox-home-get-trackers-off = Blokěrujśo wěcej ako 2000 pśeslědowakow - inkluziwnje { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Zgóńśo, gdy hackery napaduju - a buźćo pśecej kšac pśed nimi
 firefox-home-start-getting-breach = Dostańśo rozpšawy wó datowych źěrach
+firefox-home-un-spam-your-life = Wulichujśo swójo žywjenje wót spama z { -brand-name-relay }
+firefox-home-try-relay = Wopytajśo { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Wobchowajśo swóje gronidła wěste na kuždem rěźe
 # Obsolete string
@@ -53,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }

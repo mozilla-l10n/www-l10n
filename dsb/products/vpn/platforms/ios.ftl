@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
@@ -18,5 +18,8 @@ vpn-ios-servers-headline = Zwězajśo z pśez { $servers } serwerami na cełem s
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Mějśo pśistup za { $devices } rědow
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = Z jadnym abonementom móžośo { -brand-name-mozilla-vpn } na až do { $devices } rozdźělnych rědow dostaś, mjazy nimi { -brand-name-ios } za { -brand-name-iphone } a { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
 vpn-ios-speed-headline = Nejwuše malsnosći. Njewobgranicowane daty.
 vpn-ios-log-headline = Waše daty priwatne wóstanu. Kóńc.
