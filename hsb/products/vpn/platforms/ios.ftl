@@ -20,6 +20,6 @@ vpn-ios-servers-headline = Zwjazajće z přez { $servers } serwerami na cyłym s
 vpn-ios-devices-headline = Mějće přistup za { $devices } gratow
 # Variables:
 #   $devices (number) - number of available devices
-vpn-ios-devices-copy = Z abonementom móžeće { -brand-name-mozilla-vpn } na hač do { $devices } rozdźělnych gratow dóstać, mjez nimi { -brand-name-ios } za { -brand-name-iphone } a { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
+vpn-ios-devices-copy = Z jednym abonementom móžeće { -brand-name-mozilla-vpn } na hač do { $devices } rozdźělnych gratach dóstać, mjez nimi { -brand-name-ios } za { -brand-name-iphone } a { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
 vpn-ios-speed-headline = Najwyše spěšnosće. Njewobmjezowane daty.
 vpn-ios-log-headline = Waše daty priwatne wostanu. Kónc.
