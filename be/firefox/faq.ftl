@@ -59,11 +59,13 @@ nope-never-have = Не. Ніколі не было, ніколі не будзе
 why-is-firefox = Чаму { -brand-name-firefox } такі марудны?
 firefox-isnt-slow = { -brand-name-firefox } не марудны… цяпер. У 2017 годзе мы цалкам перабудавалі наш рухавік браўзера (пад назвай Quantum), каб гарантаваць, што { -brand-name-firefox } можа канкурыраваць з іншымі асноўнымі браўзерамі. І нашы блакіроўкі трэкераў дапамагаюць старонкам загружацца яшчэ хутчэй. Таму { -brand-name-firefox } працуе бліскавічна хутка, не ахвяруючы вашай прыватнасцю.
 is-firefox-chromium = Ці заснаваны { -brand-name-firefox } на { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } не заснаваны на { -brand-name-chromium } (праект браўзера з адкрытым зыходным кодам у аснове { -brand-name-google } { -brand-name-chrome }). Насамрэч, мы адзін з апошніх асноўных браўзераў, які не з'яўляецца такім. { -brand-name-firefox } працуе на нашым браўзерным рухавіку Quantum, створаным спецыяльна для { -brand-name-firefox }, таму мы можам забяспечыць апрацоўку вашых дадзеных з павагай і захаванне іх прыватнасці.
 does-firefox-use = Ці выкарыстоўвае { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } — прадвызначаная пошукавая сістэма ў { -brand-name-firefox }, што азначае, што вы можаце шукаць у Інтэрнэце наўпрост з адраснага радка. <a href="{ $url }">Падрабязней пра налады пошукавых сістэм і змяненне прадвызначаных налад.</a>
 does-firefox-have = Ці мае { -brand-name-firefox } убудаваны VPN?
 
 # Variables:
