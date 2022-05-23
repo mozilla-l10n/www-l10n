@@ -67,6 +67,9 @@
         [ins] Twitterom
     }
 -brand-name-wireguard = WireGuard
+-brand-name-linkedin = LinkedIn
+-brand-name-tiktok = TikTok
+-brand-name-spotify = Spotify
 
 ## Firefox browsers
 
