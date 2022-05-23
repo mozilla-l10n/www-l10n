@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -18,6 +18,10 @@ nightly-whatsnew-this-is-a-good = Đây là thời điểm tốt để cảm ơn
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Nếu bạn muốn biết những gì đang diễn ra xung quanh { -brand-name-nightly } và cộng đồng của nó, bạn có thể bắt đầu bằng cách đọc <a href="{ $blog }">blog</a> và theo dõi chúng tôi trên <a href="{ $twitter }">{ -brand-name-twitter }</a>!
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Bạn muốn biết những tính năng nền tảng nào bạn có thể thử nghiệm trên { -brand-name-nightly } và chưa thể xem trên các kênh { -brand-name-firefox } khác? Hãy xem trang tùy chỉnh <a { $attrs }>Thử nghiệm Nightly</a>.
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Bạn muốn biết những tính năng nào đang thử nghiệm trên { -brand-name-nightly } và chưa phát hành trên các kênh { -brand-name-firefox } khác không? Nếu vậy, hãy xem <a href="{ $mdn }">các tính năng thử nghiệm</a> trên <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
