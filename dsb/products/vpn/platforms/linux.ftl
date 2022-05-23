@@ -21,6 +21,6 @@ vpn-linux-servers-headline = Zwězajśo z wěcej ako { $servers } serwerami we w
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Zwěžćo až k { $devices } rědam
-vpn-linux-devices-copy = Z jadnym abonementom móžośo { -brand-name-mozilla-vpn } na až do { $devices } rozdźělnych rědach na rozdźělnych źěowych systemach dostaś, mjazy nimi { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } a { -brand-name-ios } za { -brand-name-iphone } a { -brand-name-ipad }.
+vpn-linux-devices-copy = Z jadnym abonementom móžośo { -brand-name-mozilla-vpn } na až do { $devices } rozdźělnych rědach na rozdźělnych źěłowych systemach dostaś, mjazy nimi { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } a { -brand-name-ios } za { -brand-name-iphone } a { -brand-name-ipad }.
 vpn-linux-speed-headline = Ultramalsny z njewobgranicowanymi datami
 vpn-linux-log-headline = Waše daty wam słušaju
