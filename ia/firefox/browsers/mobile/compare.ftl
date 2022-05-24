@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
@@ -39,7 +39,7 @@ mobile-compare-spell-checking = Controlo del orthographia
 mobile-compare-web-extensionsaddons = Extensiones o additivos Web
 mobile-compare-dark-mode = Modo obscur
 mobile-compare-desktop-mode = Modo scriptorio
-mobile-compare-find-on-page = Trovar sur le pagina
+mobile-compare-find-on-page = Cercar in le pagina
 mobile-compare-image-search = Recerca per imagine
 mobile-compare-voice-search = Recerca vocal
 mobile-compare-add-to-homescreen = Adder al pagina initial
