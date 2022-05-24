@@ -84,6 +84,6 @@ firefox-developer-welcome-to-firefox-browser = Benvenite a { -brand-name-firefox
 firefox-developer-made-for-developers = Le navigator dedicate a disveloppatores
 firefox-developer-all-the-latest = Tote le ultime utensiles de disveloppator in version beta, plus <strong>functionalitates experimental</strong> como le Redactor de consola multilinea e le Inspector de WebSocket.
 firefox-developer-a-separate-profile = Un <strong> profilo e route separate</strong> assi que pote currer preter le version official o le { -brand-name-beta } de { -brand-name-firefox }.
-firefox-developer-preferences-tailored = Le preferentias <strong>taliate pro le disveloppatores web</strong>: navigator e depuration remote, es activate de ordinario, assi como le thema obscur e le button de barra del instrumentos del disveloppator.
+firefox-developer-preferences-tailored = Le preferentias <strong>adjustate pro le disveloppatores web</strong>: le depuratores remote e del navigator es activate per configuration predefinite, assi como le thema obscur e le button de disveloppator sur le barra de instrumentos.
 firefox-developer-congrats-you-now-have = Felicitationes. Ora tu ha { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 firefox-developer-congrats-you-now-have-latest = Felicitationes. Ora tu ha le ultime version de { -brand-name-firefox-browser } { -brand-name-developer-edition }.
