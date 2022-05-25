@@ -1,14 +1,20 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
 whatsnew-page-title = Τι νέο υπάρχει στο { -brand-name-firefox } - Περισσότερο απόρρητο και προστασία
 whatsnew-page-description = Αντισταθείτε σε μια βιομηχανία που πουλά τα δεδομένα σας σε τρίτους. Παραμείνετε ασφαλείς στο διαδίκτυο με την τεχνολογία που μάχεται για εσάς.
+whatsnew-firefox = { -brand-name-firefox }
+# Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification-v2 = Συγχαρητήρια! Χρησιμοποιείτε την πιο πρόσφατη έκδοση του { -brand-name-firefox }.
+# Obsolete string
 whatsnew-up-to-date-notification = Συγχαρητήρια! Χρησιμοποιείτε την πιο πρόσφατη έκδοση του { -brand-name-firefox-browser }.
+whatsnew-out-of-date-notification-v2 = Ένα ακόμη νεότερο { -brand-name-firefox } είναι διαθέσιμο. Κάντε επανεκκίνηση για ενημέρωση.
+# Obsolete string
 whatsnew-out-of-date-notification = Ένα ακόμη νεότερο { -brand-name-firefox-browser } είναι διαθέσιμο. Κάντε επανεκκίνηση για ενημέρωση.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
