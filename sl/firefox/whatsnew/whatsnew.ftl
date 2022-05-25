@@ -7,8 +7,14 @@
 
 whatsnew-page-title = Kaj je novega v { -brand-name-firefox }u – Več zasebnosti, več zaščite.
 whatsnew-page-description = Zoperstavite se industriji, ki prodaja vaše podatke. Bodite pametni in varni na spletu s tehnologijo, ki se bori za vas.
+whatsnew-firefox = { -brand-name-firefox }
+# Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification-v2 = Čestitke, uporabljate najnovejšo različico { -brand-name-firefox(sklon: "rodilnik") }.
+# Obsolete string
 whatsnew-up-to-date-notification = Čestitke, uporabljate najnovejšo različico { -brand-name-firefox-browser(sklon: "rodilnik") }.
+whatsnew-out-of-date-notification-v2 = Na voljo je še novejši { -brand-name-firefox }. Ponovno zaženite za posodobitev.
+# Obsolete string
 whatsnew-out-of-date-notification = Na voljo je novejši { -brand-name-firefox-browser }. Ponovno zaženite za posodobitev.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
