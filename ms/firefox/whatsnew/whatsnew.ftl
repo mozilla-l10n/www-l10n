@@ -6,8 +6,14 @@
 
 whatsnew-page-title = Apa yang baru dengan { -brand-name-firefox } - Lebih privasi, lebih perlindungan.
 whatsnew-page-description = Teguhkan pendirian anda menentang industri yang menjual data anda kepada pihak ketiga. Kekal bijak dan selamat dalam talian dengan teknologi yang berjuang demi anda.
+
+# Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+
+# Obsolete string
 whatsnew-up-to-date-notification = Tahniah! Anda menggunakan versi { -brand-name-firefox-browser } yang terbaru.
+
+# Obsolete string
 whatsnew-out-of-date-notification = { -brand-name-firefox-browser } yang terkini boleh didapati. Mulakan semula untuk mengemas kini.
 
 # Variables:

@@ -6,8 +6,14 @@
 
 whatsnew-page-title = { -brand-name-firefox }-の新機能 - プライバシーと保護がさらに充実。
 whatsnew-page-description = あなたのデータをサードパーティに売り渡す業界に対抗しましょう。ユーザーのために闘うテクノロジーで、スマートかつ安全なオンライン生活を。
+
+# Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+
+# Obsolete string
 whatsnew-up-to-date-notification = あなたは{ -brand-name-firefox-browser } の最新バージョンを使用しています。
+
+# Obsolete string
 whatsnew-out-of-date-notification = もっと新しい { -brand-name-firefox-browser } を公開中です。アップデートするには再起動してください。
 
 # Variables:
