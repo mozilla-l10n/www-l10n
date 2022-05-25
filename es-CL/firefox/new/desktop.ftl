@@ -180,7 +180,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Estás usando un sis
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-firefox-new-should-begin = Tu descarga debiera empezar automáticamente. ¿No funcionó? <a id="{ $id }" href="{ $fallback_url }">Intenta bajarlo nuevamente</a>.
+firefox-desktop-download-your-firefox-new-should-begin = Tu descarga debiera empezar automáticamente. ¿No funcionó? <a id="{ $id }" href="{ $fallback_url }">Intenta bajarlo nuevamente.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que un navegador.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Tu descarga fue interrumpida. Pero no todo está perdido.
