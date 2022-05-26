@@ -50,3 +50,4 @@ firefox-products-join-firefox-and-get-the-most = Wužywajśo { -brand-name-firef
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Maśo južo konto? <a { $fxa_attr }>Pśizjawśo se</a> abo <a { $accounts_attr }>zgóńśo wěcej</a> wó wužywanju { -brand-name-firefox }.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Waš wobglědowak z funkcijami priwatnosći z awtomatiskim  šćitom pśed slědowanim a blokěrowanim wabjenja.
