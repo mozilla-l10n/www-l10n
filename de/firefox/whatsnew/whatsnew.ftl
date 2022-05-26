@@ -6,12 +6,15 @@
 
 whatsnew-page-title = Was ist neu in { -brand-name-firefox }? – Mehr Privatsphäre, mehr Schutz.
 whatsnew-page-description = Stell dich gegen eine Branche, die deine Daten an Dritte verkauft. Nutze Technologien, die sich für dich einsetzen und schütze dich online noch besser.
+whatsnew-firefox = { -brand-name-firefox }
 
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification-v2 = Perfekt! Du hast die neueste Version von { -brand-name-firefox }.
 
 # Obsolete string
 whatsnew-up-to-date-notification = Perfekt! Du hast die neueste Version von { -brand-name-firefox-browser }.
+whatsnew-out-of-date-notification-v2 = Es gibt eine neuere Version von { -brand-name-firefox }. Starte den Browser neu, um das Update abzuschließen.
 
 # Obsolete string
 whatsnew-out-of-date-notification = Es gibt eine neuere Version von { -brand-name-firefox-browser }. Starte den Browser neu, um das Update abzuschließen.

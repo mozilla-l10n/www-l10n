@@ -6,12 +6,15 @@
 
 whatsnew-page-title = { -brand-name-firefox } में नया क्या है - अधिक गोपनीयता, अधिक सुरक्षा।
 whatsnew-page-description = ऐसी इंडस्ट्री जो आपके डेटा को थर्ड पार्टी को बेचती है उसके खिलाफ आवाज़ उठाएँ। ऑनलाइन स्मार्ट और सुरक्षित रहें ऐसी टेक्नोलॉजी के साथ जो आपके हितों के लिए संघर्ष करती है।
+whatsnew-firefox = { -brand-name-firefox }
 
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification-v2 = बधाई! आप { -brand-name-firefox } के नवीनतम संस्करण का उपयोग कर रहे हैं।
 
 # Obsolete string
 whatsnew-up-to-date-notification = बधाई! आप { -brand-name-firefox-browser } के नवीनतम संस्करण का उपयोग कर रहे हैं।
+whatsnew-out-of-date-notification-v2 = एक और नवीनतम { -brand-name-firefox } उपलब्ध है। अपडेट करने के लिए रीस्टार्ट करें।
 
 # Obsolete string
 whatsnew-out-of-date-notification = एक और नवीनतम { -brand-name-firefox-browser } उपलब्ध है। अपडेट करने के लिए रीस्टार्ट करें।
