@@ -46,6 +46,9 @@ navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }(베타)
 navigation-v2-sign-up-for-new-accounts = 사용자의 이메일 주소 전달 없이 새로 계정에 가입하세요.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network }(베타)
+navigation-v2-protect-your-browsers-connection = 브라우저의 인터넷 연결을 보호하세요.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = 맞춤형 { -brand-name-mdn } 경험을 위한 새로운 기능과 도구
 navigation-v2-view-all-products = 모든 제품보기
 
 ## Who We Are menu

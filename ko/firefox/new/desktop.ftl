@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,11 @@ firefox-desktop-download-blocks-social-trackers = 소셜 추적기 차단
 firefox-desktop-download-os-availability = 사용 가능 OS
 firefox-desktop-download-in-browser-screenshot = 브라우저 내 스크린 샷 도구
 firefox-desktop-download-primary-password = 기본 비밀번호
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = 온라인 생활을 사랑합니다.
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = 당신의 인터넷입니다. 수천 개의 도구, 테마 및 확장 기능을 사용하여 원하는 색을 칠하세요. { -brand-name-firefox }는 이익보다 사람을 우선시하는 독보적인 대안 브라우저입니다.
 # Obsolete string
 firefox-desktop-download-master-password = 기본 비밀번호
 firefox-desktop-download-we-block-the-ad = 저희는 광고 추적기를 차단합니다. 여러분은 인터넷을 더 빨리 탐험할 수 있습니다.
@@ -141,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }는 자�
 firefox-desktop-download-questions = 질문이 있으십니까? <a { $attrs }> { -brand-name-mozilla } 도움말 </a>을 참고하세요.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = 많은 브라우저가 있지만, 이제 { -brand-name-firefox }에 대해 알아보세요.
+firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor }로 해커를 감시하고, { -brand-name-firefox-relay } 등으로 이메일 주소를 보호하세요.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor }로 해커를 감시하고 { -brand-name-firefox-lockwise }로 비밀번호를 보호하세요.
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox }에서 더 많은 정보 얻기
 firefox-desktop-download-just-download-the-browser = 브라우저 다운로드
@@ -175,6 +182,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">{
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = 다운로드가 자동으로 시작됩니다. 그렇지 않다면, <a id="{ $id }" href="{ $fallback_url }">다시 시도 해보세요</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }는 브라우저 그 이상입니다.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = 다운로드가 중단되었습니다. 하지만 모두 손실되지는 않았습니다.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
