@@ -8,7 +8,7 @@
 # HTML page title
 features-independent-firefox-a-different = { -brand-name-firefox }, erilainen selain erilaiselle aikakaudelle. Selaa vapaasti.
 # HTML page description
-features-independent-browse-the-internet = Selaa internetiä sellaisena, kuin sen oli tarkoitus olla... vapaana, turvallisena ja kaikkien tavoitettavana. Julista verkkovapauttasi.
+features-independent-browse-the-internet = Selaa internetiä sellaisena, kuin sen oli tarkoitus olla… vapaana, turvallisena ja kaikkien tavoitettavana. Julista verkkovapauttasi.
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Aatteellinen kapinallinen
 features-independent-firefox-is-independent = { -brand-name-firefox } on itsenäinen ja osa voittoa tavoittelematonta { -brand-name-mozilla }a, joka taistelee verkko-oikeuksiesi puolesta, pitää kurissa suuryritysten vallan ja tuo Internetin kaikkien ulottuville - kaikkialla.
 # This phrase means without conditions or restrictions, expecting nothing in return

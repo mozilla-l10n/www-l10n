@@ -59,7 +59,7 @@ vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vp
 # Obsolete string
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> är en tjänst som du kan lita på för att hålla din anslutning till internet säker på alla dina enheter. Vi behåller inte dina nätverksaktivitetsloggar och vi samarbetar inte med tredje part som bygger profiler av vad du gör online. I en värld där oförutsägbarhet har blivit det nya normala...
+vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> är en tjänst som du kan lita på för att hålla din anslutning till internet säker på alla dina enheter. Vi behåller inte dina nätverksaktivitetsloggar och vi samarbetar inte med tredje part som bygger profiler av vad du gör online. I en värld där oförutsägbarhet har blivit det nya normala…
 # Obsolete string
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/

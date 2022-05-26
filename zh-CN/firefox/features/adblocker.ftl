@@ -8,7 +8,7 @@
 features-adblocker-how-to-block-annoying = 如何使用广告拦截器屏蔽恼人的广告
 features-adblocker-how-to-stop-seeing-too = 来自 { -brand-name-firefox } 网页浏览器的广告屏蔽指南，如何减少看到广告的数量，并阻止各个公司在网络上跟踪您。
 features-adblocker-the-ad-blocker-a-secret = 广告拦截器 - 对付恼人广告的秘密武器。
-features-adblocker-so-many-ads-so-little = 广告太多了，我的耐心是有限的......是时候干掉这些广告了。
+features-adblocker-so-many-ads-so-little = 广告太多了，我的耐心是有限的……是时候干掉这些广告了。
 features-adblocker-the-average-person-sees = 人们平均一天会看到 4,000 条广告。如果您觉得这个数字太多了，广告拦截器会是您的好朋友。
 features-adblocker-an-ad-blocker-is-a-piece = 广告拦截器是一种可用于屏蔽广告的软件，其以两种方式工作。第一种是直接拦截来自广告商服务器的流量，因此广告就不会显示在您的网页上。另一种方式是屏蔽网页中可能是广告的内容。
 # Variables:

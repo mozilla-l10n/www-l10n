@@ -8,7 +8,7 @@
 features-adblocker-how-to-block-annoying = Estä ärsyttävät mainokset mainostenestäjällä
 features-adblocker-how-to-stop-seeing-too = Estä liiallisten mainosten näkeminen ja estä yrityksiä seuraamasta verkossa. Mainosteneston opas { -brand-name-firefox }-selaimelle.
 features-adblocker-the-ad-blocker-a-secret = Mainostenesto - salainen ase ärsyttäviä mainoksia vastaan.
-features-adblocker-so-many-ads-so-little = Niin paljon mainoksia, niin lyhyt pinna... On aika lopettaa hulluttelu.
+features-adblocker-so-many-ads-so-little = Niin paljon mainoksia, niin lyhyt pinna… On aika lopettaa hulluttelu.
 features-adblocker-the-average-person-sees = Keskimääräinen henkilö näkee noin 4000 mainosta päivässä. Jos arvelet sen olevan liikaa, mainosten estäjä on uusi paras ystäväsi.
 features-adblocker-an-ad-blocker-is-a-piece = Mainosten estolla voidaan estää mainoksia, ja se toimii kahdella tavalla. Ensiksi mainosten esto estää signaalin mainostajan palvelimelta, jolloin mainos ei koskaan näy sivulla. Toiseksi mainosten esto piilottaa sellaisia verkkosivuston osia, joita se arvelee mainoksiksi.
 # Variables:

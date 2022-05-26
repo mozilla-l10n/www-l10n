@@ -23,7 +23,7 @@ newsletters-please-be-sure-to-add-our-v2 = Certifique-se de adicionar nosso ende
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Por favor, adicione nosso endereço mozilla@e.mozilla.org nos seus contatos para garantir que nossas mensagens serão entregues corretamente.
 newsletters-the-supplied-link-has-expired = Esse link já está desativado. Você receberá um novo na próxima newsletter.
-newsletters-something-is-amiss-with = Ops! Aconteceu algum problema em nosso sistema... Por favor, tente novamente mais tarde. Nos desculpe! :(
+newsletters-something-is-amiss-with = Ops! Aconteceu algum problema em nosso sistema… Por favor, tente novamente mais tarde. Nos desculpe! :(
 newsletters-youre-awesome = Você é demais!
 newsletters-and-were-not-just-saying = E não estamos dizendo isso só porque você confiou em nós com o seu endereço de email.
 newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Certifique-se de adicionar mozilla@email.mozilla.org no seu catálogo de endereços para garantir que nossas mensagens sempre cheguem à sua caixa de entrada.
@@ -73,7 +73,7 @@ newsletters-send-me-a-link = Envie o link
 newsletters-youve-been-unsubscribed = Você foi descadastrado.
 newsletters-were-sorry-to-see-you-go = Ficamos triste em te ver partir.
 newsletters-would-you-mind-telling-us = Que tal nos dizer porque você está nos deixando?
-newsletters-other = Outros...
+newsletters-other = Outros…
 newsletters-submit = Enviar
 newsletters-thanks-for-telling-us-why = Obrigado por nos dizer porque você se descadastrou.
 newsletters-while-here-why-not-check = Enquanto está por aqui, que tal conferir outras maravilhas do { -brand-name-firefox }?

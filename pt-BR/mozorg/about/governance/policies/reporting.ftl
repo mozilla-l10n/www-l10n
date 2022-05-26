@@ -18,7 +18,7 @@ reporting-if-you-believe-someone = Se você acredita que alguém corre perigo f�
 reporting-if-you-have-a-report-by = Se você tem uma denúncia <strong>de <em>e</em> sobre</strong> um colaborador (por exemplo, a denúncia é feita <strong>de</strong> um colaborador <strong>sobre</strong> outro colaborador), você deve fazer a denúncia na <a href="{ $community_hotline }">linha direta das diretrizes de participação na comunidade</a>.
 reporting-if-you-have-a-report-by-email = Se você tem uma denúncia <strong>de <em>e</em> sobre</strong> um colaborador (por exemplo, a denúncia é feita <strong>de</strong> um colaborador <strong>sobre</strong> outro colaborador), você deve fazer a denúncia em <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
 reporting-if-you-have-a-report-involving = Se você tem uma denúncia <strong>envolvendo um funcionário, prestador de serviços ou fornecedor</strong> (por exemplo, o relatório é feito <strong>de</strong> ou <strong>sobre</strong> um funcionário), você deve denunciar na <a href="{ $employee_hotline }">linha direta de funcionários da { -brand-name-mozilla }</a>.
-reporting-put-another-way = Em outras palavras...
+reporting-put-another-way = Em outras palavras…
 reporting-by = Por
 reporting-employee = Funcionário
 reporting-contributor = Colaborador
@@ -26,7 +26,7 @@ reporting-about = Sobre
 reporting-employee-hotline = Linha direta para funcionários
 reporting-contractor = Contratante
 reporting-vendor = Fornecedor
-reporting-if-someone-reports-to = Se alguém fizer uma denúncia para você...
+reporting-if-someone-reports-to = Se alguém fizer uma denúncia para você…
 reporting-do-not-question-or-judge = Não questione ou julgue sua experiência.
 reporting-do-not-invite-them-to = Não peça para retirar a denúncia do incidente.
 reporting-do-not-promise-any-particular = Não prometa nenhuma resposta em particular.

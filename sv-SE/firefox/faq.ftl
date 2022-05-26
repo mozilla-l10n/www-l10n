@@ -57,7 +57,7 @@ does-firefox-sell = Säljer { -brand-name-firefox } dina personuppgifter?
 
 nope-never-have = Nej. Det har vi aldrig gjort, kommer aldrig att göra. Och vi skyddar dig från många av de annonsörer som gör det. { -brand-name-firefox } produkter är utformade för att skydda din integritet. <a href="{ $url }">Det är ett löfte</a>.
 why-is-firefox = Varför är { -brand-name-firefox } så långsam?
-firefox-isnt-slow = { -brand-name-firefox } är inte långsam... nu. År 2017 byggde vi helt om vår webbläsarmotor (kallad Quantum) för att säkerställa att { -brand-name-firefox } skulle kunna konkurrera med andra stora webbläsare. Och vår blockering av spårare hjälper sidor att laddas ännu snabbare. Så { -brand-name-firefox } är blixtsnabb utan att offra någon av din integritet.
+firefox-isnt-slow = { -brand-name-firefox } är inte långsam… nu. År 2017 byggde vi helt om vår webbläsarmotor (kallad Quantum) för att säkerställa att { -brand-name-firefox } skulle kunna konkurrera med andra stora webbläsare. Och vår blockering av spårare hjälper sidor att laddas ännu snabbare. Så { -brand-name-firefox } är blixtsnabb utan att offra någon av din integritet.
 is-firefox-chromium = Är { -brand-name-firefox } { -brand-name-chromium }-baserad?
 firefox-is-not = { -brand-name-firefox } bygger inte på { -brand-name-chromium } (webbläsarprojektet med öppen källkod i kärnan av { -brand-name-google } { -brand-name-chrome }). Vi är faktiskt en av de sista stora webbläsarna som inte är det. { -brand-name-firefox } körs på vår Quantum-webbläsarmotor byggd specifikt för { -brand-name-firefox }, så vi kan se till att dina uppgifter hanteras med respekt och hålls privata.
 does-firefox-use = Använder { -brand-name-firefox } { -brand-name-google }?

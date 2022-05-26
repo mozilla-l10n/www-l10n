@@ -8,7 +8,7 @@
 features-adblocker-how-to-block-annoying = Cómo bloquear la publicidad molesta usando un bloqueador de publicidad
 features-adblocker-how-to-stop-seeing-too = Cómo dejar de ver demasiada publicidad y evitar que las compañías lo sigan en línea. Guía de bloqueador de publicidad del navegador web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = El bloqueador de publicidad - un arma secreta contra la publicidad molesta.
-features-adblocker-so-many-ads-so-little = Tanta publicidad, tan poca paciencia... Es hora de detener la locura.
+features-adblocker-so-many-ads-so-little = Tanta publicidad, tan poca paciencia… Es hora de detener la locura.
 features-adblocker-the-average-person-sees = La persona promedio ve un promedio de 4.000 publicidades por día. Si te parece que son demasiadas, un bloqueador de publicidad es tu nuevo mejor amigo.
 features-adblocker-an-ad-blocker-is-a-piece = Un bloqueador de publicidad es un programa que se puede usar para no mostrar la publicidad, y funciona de dos maneras. La primera es cuando un bloqueador de publicidad impide la señal del servidor de un anunciante, por lo que el anuncio nunca aparece en tu página. Otra forma en que funcionan los bloqueadores de publicidad es al no mostrar secciones de un sitio web que podrían ser anuncios.
 # Variables:
