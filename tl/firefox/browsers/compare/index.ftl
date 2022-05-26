@@ -7,6 +7,6 @@
 
 compare-index-six-of-the-best-browsers-fallback = Anim sa pinaka mahusay na browser na direktang paghahabingin
 compare-index-conclusion = Konklusyon:
-compare-index-and-the-winner-is = At ang nanalo ay...
+compare-index-and-the-winner-is = At ang nanalo ay…
 compare-index-find-out-how-firefox-fallback = Alamin kung paano ang { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } at { -brand-name-ie } ay nagkaiba sa tuntunin ng privacy, utility at portablity.
 compare-index-firefox-is-backed-by-the-not = Ang { -brand-name-firefox } ay suportado ng { -brand-name-mozilla } na not-for-profit.

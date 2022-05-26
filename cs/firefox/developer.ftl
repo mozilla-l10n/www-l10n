@@ -16,7 +16,7 @@ firefox-developer-speak-up = Řekněte nám, co si myslíte
 firefox-developer-feedback-makes-us = Na zpětné vazbě záleží. Řekněte nám, jak máme náš prohlížeč a nástroje pro vývojáře vylepšit.
 firefox-developer-join-the-convo = Zapojte se do konverzace
 firefox-developer-get-involved = Zapojte se
-firefox-developer-help-build-the-last = Pomozte nám vybudovat poslední nezávislý prohlížeč. Pište kód, opravujte chyby, tvořte doplňky...
+firefox-developer-help-build-the-last = Pomozte nám vybudovat poslední nezávislý prohlížeč. Pište kód, opravujte chyby, tvořte doplňky…
 firefox-developer-start-now = Začněte nyní
 firefox-developer-design-code-test = Navrhujte. Programujte. Testujte. Vylepšujte.
 # Line break for visual formatting

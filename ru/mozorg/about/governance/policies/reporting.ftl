@@ -18,7 +18,7 @@ reporting-if-you-believe-someone = Если вы считаете, что кто
 reporting-if-you-have-a-report-by = Если у вас есть заявление <strong>от участника <em>и</em> об участнике</strong> (например, жалоба составлена <strong>одним</strong> участником <strong>о другом</strong> участнике), то вам необходимо обратиться с вашей жалобой на <a href="{ $community_hotline }">горячую линию по вопросам соблюдения Правил поведения в сообществах</a>.
 reporting-if-you-have-a-report-by-email = Если у вас есть заявление <strong>от участника <em>и</em> об участнике</strong> (например, жалоба составлена <strong>одним</strong> участником <strong>о другом</strong> участнике), то вам необходимо обратиться с вашей жалобой по адресу <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
 reporting-if-you-have-a-report-involving = Если у вас есть заявление, <strong>которое касается сотрудника, подрядчика или поставщика</strong> (например, заявление <strong>подано</strong> сотрудником или <strong>касается</strong> сотрудника), тогда вам нужно обратиться на <a href="{ $employee_hotline }">горячую линию для сотрудников { -brand-name-mozilla }</a>.
-reporting-put-another-way = Другие способы...
+reporting-put-another-way = Другие способы…
 reporting-by = От
 reporting-employee = Сотрудник
 reporting-contributor = Участник
@@ -26,7 +26,7 @@ reporting-about = О ком
 reporting-employee-hotline = Горячая линия для сотрудников
 reporting-contractor = Подрядчик
 reporting-vendor = Поставщик
-reporting-if-someone-reports-to = Если вам направляют заявление...
+reporting-if-someone-reports-to = Если вам направляют заявление…
 reporting-do-not-question-or-judge = Не подвергайте сомнению и не пытайтесь вынести суждение о ситуации.
 reporting-do-not-invite-them-to = Не предлагайте отказаться от отправки заявления.
 reporting-do-not-promise-any-particular = Не обещайте каких-то конкретных итогов рассмотрения заявления.

@@ -11,7 +11,7 @@ page7-its-okay-to-like-facebook = Mae'n iawn i hoffi { -brand-name-facebook }
 page7-if-you-still-kinda-like-facebook = Os ydych chi'n dal i ryw hoffi { -brand-name-facebook } ond ddim yn ymddiried ynddyn nhw, yna defnyddiwch estyniad { -brand-name-facebook-container } gan { -brand-name-firefox } a'i gwneud hi'n anoddach iddyn nhw eich tracio chi o amgylch y we.
 page7-get-facebook-container = Cael { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
-page7-do-it-for-the-gram = Fy Instagram...
+page7-do-it-for-the-gram = Fy Instagram…
 page7-facebook-container-also-works = Mae { -brand-name-facebook-container } hefyd yn gweithio ar wefannau eraill sy'n perthyn i { -brand-name-facebook } fel { -brand-name-instagram }, { -brand-name-facebook-messenger } a { -brand-name-workplace }.
 page7-make-them-unfollow-you = Gwneud iddyn nhw roi gorau i'ch dilyn chi
 page7-that-sneaky-little-button = Y botwm bach slei yna

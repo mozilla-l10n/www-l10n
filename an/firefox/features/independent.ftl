@@ -8,7 +8,7 @@
 # HTML page title
 features-independent-firefox-a-different = { -brand-name-firefox }, un navegador diferent pa un tiempo diferent. Navega libre.
 # HTML page description
-features-independent-browse-the-internet = Navega per Internet como ha d'estar... libre, seguro y accesible a totz. Declara la tuya independencia en linia.
+features-independent-browse-the-internet = Navega per Internet como ha d'estar… libre, seguro y accesible a totz. Declara la tuya independencia en linia.
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Rebelde con una causa
 features-independent-firefox-is-independent = { -brand-name-firefox } ye independient, y un programa de { -brand-name-mozilla }, una organización sin animo de lucro, que luito per los tuyos dreitos en linia, cosira los poders corporativos y fa internet accesible pa totz, en qualsequier puesto.
 # This phrase means without conditions or restrictions, expecting nothing in return

@@ -19,7 +19,7 @@ password-manager-forget-the-reset = Unohda salasanojen nollaus. { -brand-name-fi
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Salasananinja
-password-manager-no-more-try-again = Ei enää "uudelleenyrityksiä" kun yrität päästä jonnekin. Kirjaudu Firefox-tilillesi puhelimellasi ja salasanasi seuraavat sinua. Kirjautumistietosi vain yksinkertaisesti ilmestyvät...tuosta noin!
+password-manager-no-more-try-again = Ei enää "uudelleenyrityksiä" kun yrität päästä jonnekin. Kirjaudu Firefox-tilillesi puhelimellasi ja salasanasi seuraavat sinua. Kirjautumistietosi vain yksinkertaisesti ilmestyvät…tuosta noin!
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Salasanamestari

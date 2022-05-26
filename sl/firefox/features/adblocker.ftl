@@ -8,7 +8,7 @@
 features-adblocker-how-to-block-annoying = Kako zavrniti nadležne oglase z uporabo orodja za zavračanje oglasov
 features-adblocker-how-to-stop-seeing-too = Kako zmanjšati število oglasov in preprečiti, da bi vas podjetja spremljala po spletu. Vodnik za zavračanje oglasov v spletnem brskalniku { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Orodje za zavračanje oglasov – skrivno orožje proti nadležnim oglasom.
-features-adblocker-so-many-ads-so-little = Tako veliko oglasov, tako malo potrpljenja ... Čas je, da ustavimo norost.
+features-adblocker-so-many-ads-so-little = Tako veliko oglasov, tako malo potrpljenja … Čas je, da ustavimo norost.
 features-adblocker-the-average-person-sees = Povprečna oseba na dan vidi v povprečju 4000 oglasov. Če menite, da je to preveč, je orodje za zavračanje oglasov vaš novi najboljši prijatelj.
 features-adblocker-an-ad-blocker-is-a-piece = Orodje za zavračanje oglasov je del programske opreme, s katero se lahko zavrnejo oglasi, in delujejo na dva načina. Prvi način je, ko orodje za zavračanje oglasov zavrne signal s strežnika oglaševalca, tako da se oglas na strani nikoli ne prikaže. Drugi način delovanja orodij za zavračanje oglasov je z zavračanjem delov spletnih strani, na katerih bi lahko bili oglasi.
 # Variables:

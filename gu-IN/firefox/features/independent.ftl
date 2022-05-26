@@ -8,7 +8,7 @@
 # HTML page title
 features-independent-firefox-a-different = { -brand-name-firefox }, અલગ સમય માટે એક અલગ બ્રાઉઝર. મફત બ્રાઉઝ કરો.
 # HTML page description
-features-independent-browse-the-internet = ઇંટરનેટને બ્રાઉઝ કરો કારણ કે તે હેતુથી... મફત, સુરક્ષિત અને બધા માટે સુલભ છે. તમારી ઑનલાઇન સ્વતંત્રતા જાહેર કરો.
+features-independent-browse-the-internet = ઇંટરનેટને બ્રાઉઝ કરો કારણ કે તે હેતુથી… મફત, સુરક્ષિત અને બધા માટે સુલભ છે. તમારી ઑનલાઇન સ્વતંત્રતા જાહેર કરો.
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }: કારણ સાથે બળવાખોર
 features-independent-firefox-is-independent = { -brand-name-firefox } સ્વતંત્ર અને બિન-નફાકારક { -brand-name-mozilla }નો એક ભાગ, જે તમારા ઓનલાઈન અધિકારો માટે લડે છે, કૉર્પોરેટ સત્તાઓને ચેકમાં રાખે છે અને દરેકને માટે,સર્વત્ર ઇન્ટરનેટને સુલભ બનાવે છે.
 # This phrase means without conditions or restrictions, expecting nothing in return

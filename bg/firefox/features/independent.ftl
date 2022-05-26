@@ -8,7 +8,7 @@
 # HTML page title
 features-independent-firefox-a-different = { -brand-name-firefox }, новият четец за новото време. Разглеждайте свободно.
 # HTML page description
-features-independent-browse-the-internet = Сърфирайте интернет така като се полага... свободно, сигурно и достъпно за всички. Декларирайте вашата онлайн независимост.
+features-independent-browse-the-internet = Сърфирайте интернет така като се полага… свободно, сигурно и достъпно за всички. Декларирайте вашата онлайн независимост.
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Бунтар с кауза
 features-independent-firefox-is-independent = { -brand-name-firefox } е независим четец и е част от { -brand-name-mozilla }, която е с нестопанска цел и се бори за вашите права онлайн, изправяйки се срещу корпоративните интереси и грижейки се за достъпен интернет навсякъде и за всички.
 # This phrase means without conditions or restrictions, expecting nothing in return
