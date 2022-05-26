@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -39,3 +39,4 @@ compare-index-browsers-have-come-a-long = Nettlesarar har kome langt sidan { -br
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } er støtta av den ideelle organisasjonen { -brand-name-mozilla }.
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } set personvernet ditt først - i alt vi lagar og gjer. Vi meiner at du har rett til å bestemme korleis og med kven du deler den personlege informasjonen din. { -brand-name-firefox } samlar inn så lite data som mogleg og sel aldri dataa dine. Den vesle informasjonen vi samlar inn vert berre brukt til å gjere produkt og funksjonar betre. Ingen hemmelegheiter. Men mykje openheit og ekte privatliv.
 compare-index-based-on-the-criteria-we-outlined = Basert på kriteria vi skisserte — personvern, nytte og portabilitet - er det eigentleg berre ein nettleser som oppfyller krava, og det er { -brand-name-firefox }. Det verkelege området med forskjell er ikkje i funksjonalitet, det er personvernet. { -brand-name-firefox } er den mest private nettlesaren som ikkje låser deg i eit økosystem. Bruk det på alle operativsystem, på alle einingane dine, og føl deg trygg når du gjer det.
+compare-index-compare = Samanlikn
