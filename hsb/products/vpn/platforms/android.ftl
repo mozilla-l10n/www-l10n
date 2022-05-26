@@ -21,6 +21,6 @@ vpn-android-servers-headline = Přez { $servers } serwerow w přez { $countries 
 vpn-android-devices-headline = Jedyn abonement za hač { $devices } gratow
 # Variables:
 #   $devices (number) - number of available devices
-vpn-android-devices-copy = { -brand-name-mozilla-vpn } wam móžosć dawa, { $devices } rozdźělnych gratow zwjazać, mjez nimi , { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }. Wužiwajće jón na swojim smóratku, desktopje, laptopje a dalšich.
+vpn-android-devices-copy = { -brand-name-mozilla-vpn } wam móžnosć dawa, { $devices } rozdźělnych gratow zwjazać, mjez nimi , { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }. Wužiwajće jón na swojim smóratce, desktopje, laptopje a dalšich.
 vpn-android-speed-headline = Ultraspěšne spěšnosće. Njewobmjezowane daty.
 vpn-android-log-headline = Žane protokole. Žane slědowanje. Žane zasahi do priwatnosće.
