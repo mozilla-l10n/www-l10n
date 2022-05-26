@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -17,13 +17,13 @@ compare-brave-just-like-the-firefox-browser = Как и { -brand-name-firefox },
 # Variables:
 #   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
 #   $edge (string) - link to /firefox/browsers/compare/edge/ with additional attributes for analytics
-compare-brave-the-brave-browser-like-so = Браузер { -brand-name-brave }, как и многие другие, создан на основе открытого исходного кода { -brand-name-chromium } от { -brand-name-google }. Открытый исходный код означает, что любой может использовать исходный код, и сделать обёртку поверх него, чтобы создать что угодно — например, браузеры <a { $opera }>{ -brand-name-opera }</a> и <a{ $edge }>{ -brand-name-edge }</a>. Но это не значит, что все браузеры на основе { -brand-name-chromium } одинаковы или являются открытыми.
+compare-brave-the-brave-browser-like-so = Браузер { -brand-name-brave }, как и многие другие, создан на основе открытого исходного кода { -brand-name-chromium } от { -brand-name-google }. Открытый исходный код означает, что любой может использовать исходный код, и сделать обёртку поверх него, чтобы создать что угодно — например, браузеры <a { $opera }>{ -brand-name-opera }</a> и <a { $edge }>{ -brand-name-edge }</a>. Но это не значит, что все браузеры на основе { -brand-name-chromium } одинаковы или являются открытыми.
 compare-brave-brave-differentiates-itself = { -brand-name-brave } отличает себя от других { -brand-name-chromium }-браузеров, уделяя особое внимание приватности пользователей — в частности, по умолчанию блокируя трекеры, скрипты и рекламу. Поэтому когда вы используете браузер { -brand-name-brave }, области веб-сайта, на которых обычно отображаются рекламные объявления, отображаются в виде пробелов. В некоторых случаях страницы не загружаются должным образом, что потребует от вас выбрать другой браузер или переключить настройку «Поднять щиты» на «Опустить щиты», которая отключает защиту приватности и безопасности.
 # "Basic Attention Token" and "BAT" are brand names. "a.k.a." is an abbreviation of "also known as".
 compare-brave-the-internet-as-a-whole-is = Интернет в целом оплачивается за счёт медийной рекламы, которая делает фактическое содержимое, которое вы хотите просматривать, бесплатным. { -brand-name-brave } попытался перевернуть эту модель, поощряя своих пользователей выбирать собственную систему вознаграждений { -brand-name-brave }, которая в действительности является собственной рекламной платформой. После того, как пользователь зарегистрировался, { -brand-name-brave } отобразит то, что они называют «конфиденциальной рекламой», для чего вы можете просматривать и зарабатывать то, что они называют токеном базового внимания, или BAT. Это предполагает, что пользователи { -brand-name-brave } могут потратить свои BAT на поддержку сайтов или отдельных участников, которые им нравятся, и они, в свою очередь, могут конвертировать BAT в реальную валюту.
 compare-brave-whether-this-sounds-complicated = Будет ли это выглядеть сомнительно или как отличная идея, вероятно, зависит от вашего уровня презрения к медийной рекламе в Интернете. Большинство пользователей Интернета понимают, что хорошее содержимое стоит денег, и согласны с тем фактом, что деньги поступают от рекламы.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = С другой стороны, с браузером { -brand-name-firefox } мы предпочитаем, чтобы всё было просто. { -brand-name-firefox } блокирует отслеживание вас многими сторонними трекерами, майнерами криптовалют и сборщиками цифровых отпечатков по умолчанию. Однако { -brand-name-firefox } вне Режима приватного просмотра предпочитает не блокировать показ рекламных объявлений. Это будет так, если вы не установите <a { $attrs }>одно из расширений, специально разработанных для этой цели</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
