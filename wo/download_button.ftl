@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Yebbi
 download-button-free-download = Yebbi gu amul-fay
@@ -23,10 +23,10 @@ download-button-update-your-firefox = Yeesal sa { -brand-name-firefox }
 download-button-get-firefox-android = Yebbi { -brand-name-firefox } ngir { -brand-name-android }
 download-button-get-firefox-ios = Yebbi { -brand-name-firefox } ngir { -brand-name-ios }
 download-button-google-play = Yebbee ko ca { -brand-name-google-play }
-download-button-free-google-play = Amul-fay ci Google&nbsp;Play
-download-button-app-store = Amul-fay ci App&nbsp;Store
+download-button-free-google-play = Amul-fay ci { -brand-name-google-play }
+download-button-app-store = Amul-fay ci { -brand-name-app-store }
 download-button-download-app-store = Yebbee ko ca { -brand-name-app-store }
-download-button-download-firefox = Yebbi Firework
+download-button-download-firefox = Yebbi { -brand-name-firefox }
 download-button-your-system-may = Xéj-na sa noste amul càkkutéef yim laaj ngir doxal { -brand-name-firefox }, waaye man ngaa xool benn ci yii sumb:
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> ngir { -brand-name-android }
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> ngir { -brand-name-android }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -13,7 +13,7 @@ firefox-channel-be-among-the-first-to-explore = Doonal kiy njëkk a jëfanfikoo 
 firefox-channel-see-something-that-isnt-working = Dafa am luy sooxe? Wax nu ko.
 firefox-channel-file-a-bug-now = Wax nu liy sooxe léegi
 firefox-channel-tips-for-filing-a-bug = Xelal ci nees di yónnee ag sooxe
-firefox-channel-try-new-features-in-a-pre = Jéemal jëfandikoo solo yu yees yiy waaj-a-génn ci joowukaay bu Andoid|{ -brand-name-firefox }
+firefox-channel-try-new-features-in-a-pre = Jéemal jëfandikoo solo yu yees yiy waaj-a-génn ci joowukaay bu { -brand-name-android }|{ -brand-name-firefox }
 firefox-channel-download-and-test-future = Yebbil te saytu sumb yiy ñëwi yu { -brand-name-firefox } bu nosukaay, { -brand-name-android } ak { -brand-name-ios }.
 firefox-channel-all-languages-and-builds = Wépp làkk ak sumb
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } mooy yónneel boppam xibaar { -brand-name-mozilla }.
