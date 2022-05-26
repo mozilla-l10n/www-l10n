@@ -11,7 +11,7 @@ vpn-when-to-use-5-reasons-you-should = 5 rheswm i ddefnyddio VPN
 vpn-when-to-use-here-are-five = Dyma bum sefyllfa annisgwyl y bydd VPN dibynadwy yn ddefnyddiol. Caewch y bwlch yn eich diogelwch ar-lein gyda { -brand-name-mozilla-vpn }.
 # Variables
 #   $vpn (url) - https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
-vpn-when-to-use-as-more-of = Wrth i fwy o fywyd bob bydd ddigwydd trwy'r rhyngrwyd, mae preifatrwydd a diogelwch ar-lein yn dod yn bwysicach fyth. Gall VPN, <a href="{ $url }">Rhwydwaith Preifat Rhithwir</a>, eich helpu i greu cysylltiad preifat, diogel â'r rhyngrwyd. Mae'n gweithio trwy greu “twnnel” rhwng eich dyfais a'r rhyngrwyd yn gyffredinol, ac mae'n eich diogelu mewn dwy ffordd bwysig:
+vpn-when-to-use-as-more-of = Wrth i fwy o fywyd bob bydd ddigwydd trwy'r rhyngrwyd, mae preifatrwydd a diogelwch ar-lein yn dod yn bwysicach fyth. Gall VPN, <a href="{ $vpn }">Rhwydwaith Preifat Rhithwir</a>, eich helpu i greu cysylltiad preifat, diogel â'r rhyngrwyd. Mae'n gweithio trwy greu “twnnel” rhwng eich dyfais a'r rhyngrwyd yn gyffredinol, ac mae'n eich diogelu mewn dwy ffordd bwysig:
 vpn-when-to-use-concealing-your-true = Cuddio'ch cyfeiriad IP, diogelu eich hunaniaeth a chuddio'ch lleoliad.
 vpn-when-to-use-encrypting-your-traffic = Amgryptio'r traffig rhyngoch chi a'ch darparwr VPN fel na all unrhyw un ar eich rhwydwaith lleol ei ddehongli na'i addasu.
 vpn-when-to-use-having-a-vpn = Mae'n syniad da cael VPN at eich galw pan fydd ei angen arnoch. Dyma ychydig o enghreifftiau pan fydd cael VPN dibynadwy yn ddefnyddiol na fyddech efallai wedi'u hystyried.
