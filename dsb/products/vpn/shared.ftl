@@ -116,6 +116,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Co jo IP-adresa?
 vpn-subnav-when-to-use-a-vpn = Gdy wy dejał VPN wužywaś
 vpn-subnav-vpn-vs-proxy = VPN w pśirownanju k proksy
+vpn-subnav-subscribe = { -brand-name-mozilla-vpn } aboněrowaś
 
 ## VPN Affiliate cookie notice
 
