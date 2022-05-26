@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
@@ -19,5 +19,8 @@ vpn-android-servers-headline = Přez { $servers } serwerow w přez { $countries 
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Jedyn abonement za hač { $devices } gratow
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy = { -brand-name-mozilla-vpn } wam móžosć dawa, { $devices } rozdźělnych gratow zwjazać, mjez nimi , { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }. Wužiwajće jón na swojim smóratku, desktopje, laptopje a dalšich.
 vpn-android-speed-headline = Ultraspěšne spěšnosće. Njewobmjezowane daty.
 vpn-android-log-headline = Žane protokole. Žane slědowanje. Žane zasahi do priwatnosće.

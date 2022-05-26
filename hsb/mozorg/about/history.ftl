@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -52,7 +52,7 @@ history-new-versions-of-firefox = Wot toho časa su prawidłownje nowe wersije {
 history-the-renewed-competition = Wobnowjene wubědźowanje je <a href="{ $innovation }">inowacije pospěšiło</a> a internet za kóždeho polěpšiło.
 # Variables:
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
-history-in-2013-we-launched-firefox = W lěće 2013 smy <a href="{ $firefoxos }">Mozilla { -brand-name-firefox-os }</a> startowali, zo bychmy połnu móc weba na smartfony pušćili a jónkróć wjace kontrolu a wuběransku móžnosć za nowu generaciju ludźi poskićili, kotřiž su nětko online.
+history-in-2013-we-launched-firefox = W lěće 2013 smy <a href="{ $firefoxos }">Mozilla { -brand-name-firefox-os }</a> startowali, zo bychmy połnu móc weba na šmóratka pušćili a jónkróć wjace kontrolu a wuběransku móžnosć za nowu generaciju ludźi poskićili, kotřiž su nětko online.
 history-mozilla-also-celebrated = { -brand-name-mozilla } je tež w lěće 2013 swoju 15. róčnicu woswjećił.
 history-the-community-has-shown = Zhromadźenstwo je pokazało, zo komercielne předewzaća móža wužitk ze sobudźěła w projektach wotewrjeneho žórła ćahnyć a zo wulkotne produkty za kónčnych wužiwarjow hodźa so jako softwara wotewrjeneho žórła zhotowić.
 # Variables:

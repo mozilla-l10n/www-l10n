@@ -95,6 +95,10 @@ vpn-landing-faq-manage-subscription-question-heading = Kak móžu swój abonemen
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Jeli sće { -brand-name-mozilla-vpn } hižo abonował, móžeće koždy čas swój tarif změnić abo <a href="{ $url }">swój abonement rjadować</a>.
+vpn-landing-faq-download-heading = Kak móžu { -brand-name-mozilla-vpn } sćahnyć, hdyž sym hižo abonował?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Wopytajće <a { $attrs }>sćehnjensku stronu</a>, zo byšće { -brand-name-mozilla-vpn } na swojim graće instalował, a přizjewće so potom z pomocu swojeho { -brand-name-firefox-account }.
 vpn-landing-faq-link = Hlejće dalše husto stajene prašenja
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/

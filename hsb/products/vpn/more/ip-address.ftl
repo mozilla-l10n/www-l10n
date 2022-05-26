@@ -1,12 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Što je IP-adresa?
+# HTML page description and intro
+vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } na wšě waše prašenja wo IP-adresach wotmołwja, na přikład što je IP-adresa, kak wona funguje a hač maće ju schować.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Přikład IP-adresy, kotraž je slěd štyrjoch ličbow, dźělenych přez decimalne dypki: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Jeli za wašej IP-adresu hladaće, wupada někak tak.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
@@ -14,7 +14,7 @@ welcome-page4-privacy-on-by-default = Waša priwatnosć je standard na nowym { -
 welcome-page4-get-the-firefox-mobile = Wobstarajće sej { -brand-name-firefox } Mobile
 welcome-page4-get-firefox-on-your-phone = Wužiwajće { -brand-name-firefox } na swojim telefonje
 welcome-page4-send-the-download-link-right = Sćelće sćehnjenski wotkaz direktnje na swój telefon abo na swoju e-mejlowu adresu.
-welcome-page4-download-firefox-for-your = Sćehńće { -brand-name-firefox } za swój smartfon a tablet.
+welcome-page4-download-firefox-for-your = Sćehńće { -brand-name-firefox } za swóje šmóratko a tablet.
 welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: priwatny, wěsty wobhladowak” za { -brand-name-ios } abo { -brand-name-android }.
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Wotpójsńće datowe přesćěhowaki
