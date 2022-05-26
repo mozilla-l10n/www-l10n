@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
@@ -11,6 +11,8 @@ compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } vs. { -br
 compare-edge-compare-microsoft-edge-to-the = { -brand-name-microsoft } { -brand-name-edge }와 { -brand-name-firefox-browser }를 비교하여 더 적합한 브라우저를 찾으세요.
 # Main title.
 compare-edge-comparing-firefox-browser-with = { -brand-name-firefox-browser }와 { -brand-name-microsoft } { -brand-name-edge } 비교
+compare-edge-with-windows-10-microsoft-introduced-updated = { -brand-name-windows } 10과 합께 { -brand-name-microsoft }는 { -brand-name-firefox }나 { -brand-name-chrome }과 경쟁하기 위해 { -brand-name-edge } 브라우저를 도입했습니다. 판매된 수백만 대의 PC에 설치된 기본 브라우저입니다. 그럼에도 불구하고 사용자들의 선택이 느려서 { -brand-name-microsoft }는 결국 { -brand-name-edge }를 { -brand-name-chromium } 기반 브라우저({ -brand-name-chromium }은 { -brand-name-google }의 오픈 소스 브라우저 프로젝트입니다)로 재출시하는 계획을 발표 합니다. 2020년 1월부터 { -brand-name-microsoft }의 { -brand-name-chromium } 기반 { -brand-name-edge }가 { -brand-name-edge }의 이전 버전을 대체했습니다. { -brand-name-edge }가 이제 { -brand-name-google }의 { -brand-name-chromium }을 기반으로 구축되었지만 여러 고유 기능이 { -brand-name-google }과 차별화됩니다.
+# Obsolete string
 compare-edge-with-windows-10-microsoft-introduced = { -brand-name-windows } 10과 함께 { -brand-name-microsoft }는 { -brand-name-firefox } 및 { -brand-name-chrome }과 경쟁하기 위해 { -brand-name-edge } 브라우저를 도입했습니다. 수백만 대의 PC에 사전 설치된 기본 브라우저가 되었습니다. 그럼에도 불구하고 사용자는 이를 잘 선택하지 않았고, { -brand-name-microsoft }는 결국 { -brand-name-edge }를 { -brand-name-chromium } 기반 브라우저로 재출시 할 계획을 발표했습니다. ({ -brand-name-chromium }는 { -brand-name-google }의 오픈 소스 브라우저 프로젝트입니다.)
 compare-edge-here-well-compare-our-firefox = 여기서는 개인 정보 보호, 유용성, 휴대성 측면에서 { -brand-name-firefox-browser }를 { -brand-name-chromium } 기반 { -brand-name-microsoft } { -brand-name-edge }와 비교합니다. 이를 통해 어떤 브라우저가 사용자의 요구와 선호에 더 잘 맞는지 더 잘 이해할 수 있도록 도와드립니다.
 # "SmartScreen" and "Windows Hello" are brand names.
