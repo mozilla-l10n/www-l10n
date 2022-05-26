@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -8,7 +8,7 @@
 firefox-desktop-download-get-the-browser = Consigui'l restolador que protexe lo que ye importante
 firefox-desktop-download-download-options = Opciones de descarga y otres llingües
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Fai lo que quieras en llinia.<br>El { -brand-name-firefox-browser }<strong> nun t'escluca.
+firefox-desktop-download-do-what-you-do = Fai lo que quieras en llinia.<br>El { -brand-name-firefox-browser } <strong>nun</strong> t'escluca.
 firefox-desktop-download-for-everyone = { -brand-name-firefox } ye pa tol mundu
 firefox-desktop-download-all-your-devices = Pon { -brand-name-firefox } en tolos preseos
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
