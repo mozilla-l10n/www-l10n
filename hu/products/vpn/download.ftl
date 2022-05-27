@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
 vpn-download-page-title = { -brand-name-mozilla-vpn } letöltése
+vpn-download-page-description = A { -brand-name-mozilla-vpn } letöltése { -brand-name-windows }ra, { -brand-name-mac }re, { -brand-name-linux }ra, { -brand-name-android }ra és { -brand-name-ios }-re.
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Egy előfizetéssel akár { $devices } eszközre is letöltheti a { -brand-name-mozilla-vpn }-t.
