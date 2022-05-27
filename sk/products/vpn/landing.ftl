@@ -130,6 +130,10 @@ vpn-landing-faq-manage-subscription-question-heading = Ako môžem spravovať sv
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Ak už máte predplatné { -brand-name-mozilla-vpn }, môžete zmeniť svoj plán či <a href="{ $url }">spravovať svoje predplatné</a> kedykoľvek.
+vpn-landing-faq-download-heading = Ako si stiahnem { -brand-name-mozilla-vpn }, keď už som zaregistrovaný?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Navštívte <a { $attrs }>stránku sťahovania</a>, nainštalujte si { -brand-name-mozilla-vpn } do svojho zariadenia a potom sa prihláste pomocou svojho { -brand-name-firefox-account(case: "gen", capitalization: "lower") }.
 vpn-landing-faq-link = Ďalšie často kladené otázky
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
