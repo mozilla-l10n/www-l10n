@@ -133,7 +133,7 @@ vpn-landing-faq-manage-subscription-question-desc = Pokud již máte síť { -br
 vpn-landing-faq-download-heading = Jak si mohu stáhnout aplikaci { -brand-name-mozilla-vpn }, když už mám tuto síť předplacenou?
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
-vpn-landing-faq-download-desc = Navštivte její <a { $attrs }>stránku ke stažení</a>, nainstalujte si síť { -brand-name-mozilla-vpn } do svého zařízení a poté se přihlaste pomocí svého { -brand-name-firefox-account(case: "gen", capitalize: "lower") }.
+vpn-landing-faq-download-desc = Navštivte její <a { $attrs }>stránku ke stažení</a>, nainstalujte si síť { -brand-name-mozilla-vpn } do svého zařízení a poté se přihlaste pomocí svého { -brand-name-firefox-account(case: "gen", capitalization: "lower") }.
 vpn-landing-faq-link = Další časté dotazy
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
