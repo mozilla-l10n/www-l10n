@@ -24,3 +24,5 @@ vpn-download-for-linux = VPN pro { -brand-name-linux(case: "acc") }
 vpn-download-for-linux-requirements = Ubuntu { $version } a vyšší
 vpn-download-for-android = VPN pro { -brand-name-android }
 vpn-download-for-ios = VPN pro { -brand-name-ios }
+vpn-download-get-on-google-play = Získat v obchodu { -brand-name-google-play }
+vpn-download-get-on-app-store = Získat v { -brand-name-app-store(case: "loc") }
