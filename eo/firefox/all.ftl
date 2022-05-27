@@ -37,6 +37,19 @@ firefox-all-windows-installers-for = Instaliloj por Windows por entreprenaj info
 firefox-all-arm64-installers = ARM64/AArch64 instaliloj
 firefox-all-arm64-installers-optimized = ARM64/AArch64 instaliloj optimumigitaj por komputiloj { -brand-name-windows } pelitaj de Snapdragon.
 firefox-all-product-send-link = Sendi elŝutan ligilon al via telefono
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = Elektu 32-bita instalilon por komputiloj kun 32-bitaj proceziloj — aŭ por pli malnovaj aŭ malpli povaj komputiloj. <a href="{ $url }">Se vi ne certas</a> ĉu elekti 64-bitan aŭ 32-bitan instalilon, ni rekomendas al vi la 32-bitan.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = Elŝuti { $product_label } por { $platform } en la { $locale }
+firefox-all-msi-installers = MSI instaliloj
+firefox-all-which-version = Kiun version vi ŝatus?
+firefox-all-select-your-preferred-installer = Elektu vian preferatan instalilon
+firefox-all-select-your-preferred-language = Elektu vian preferatan lingvon
+firefox-all-learn-about-installers = Pli da informo pri instaliloj
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
@@ -45,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
