@@ -130,6 +130,10 @@ vpn-landing-faq-manage-subscription-question-heading = Як керувати п�
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Якщо ви вже передплатили { -brand-name-mozilla-vpn }, ви можете будь-коли змінити план або <a href="{ $url }">керувати передплатою</a>.
+vpn-landing-faq-download-heading = Як мені завантажити { -brand-name-mozilla-vpn } якщо я вже маю передплату?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Відвідайте <a { $attrs }>сторінку завантаження</a> для встановлення { -brand-name-mozilla-vpn } на своєму пристрої, а потім увійдіть за допомогою { -brand-name-firefox-account }.
 vpn-landing-faq-link = Докладніше у ЧаП
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
