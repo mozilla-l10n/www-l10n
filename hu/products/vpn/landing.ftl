@@ -130,6 +130,10 @@ vpn-landing-faq-manage-subscription-question-heading = Hogyan kezelhetem az elő
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Ha már előfizetett a { -brand-name-mozilla-vpn } szolgáltatásra, akkor bármikor módosíthatja a csomagját vagy <a href="{ $url }">kezelheti az előfizetését</a>.
+vpn-landing-faq-download-heading = Hogyan tölthetem le a { -brand-name-mozilla-vpn }-t, ha már előfizető vagyok?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Látogasson el a <a { $attrs }>letöltési oldalra</a>, hogy telepítse a { -brand-name-mozilla-vpn }-t az eszközére, majd jelentkezzen be a { -brand-name-firefox-account }-ja használatával.
 vpn-landing-faq-link = További GYIK bejegyzések megtekintése
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
