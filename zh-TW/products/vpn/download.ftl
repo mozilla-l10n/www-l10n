@@ -7,6 +7,9 @@
 
 vpn-download-page-title = 下載 { -brand-name-mozilla-vpn }
 vpn-download-page-description = 下載 { -brand-name-mozilla-vpn } for { -brand-name-windows }、{ -brand-name-mac }、{ -brand-name-linux }、{ -brand-name-android } 及 { -brand-name-ios }。
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-download-sub-heading = 只要一次訂閱，您可以在最多 { $devices } 台裝置上下載 { -brand-name-mozilla-vpn }。
 vpn-download-not-available-in-country = 抱歉，{ -brand-name-mozilla-vpn } 尚未於您所在的國家推出。
 vpn-download-button-copy = 下載
 vpn-download-for-windows = { -brand-name-windows } 10/11 的 VPN
