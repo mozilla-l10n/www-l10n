@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -76,4 +76,4 @@ history-timeline-of-mozilla-project = { -brand-name-mozilla } 專案時間軸
 history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital Memory Bank
 # Variables:
 #   $link (url) link to https://www.foxkeh.com/downloads/
-history-the-history-of-firefox-and = <a href="http://mozlinks-zh.blogspot.com/2014/04/poster.html">{ -brand-name-firefox } 與 { -brand-name-mozilla } 瀏覽器發展簡史海報</a>（<a href="{ $link }">英文版與日文版請點此處開啟</a>）
+history-the-history-of-firefox-and = <a href="{ $link }">{ -brand-name-firefox } 與 { -brand-name-mozilla } 瀏覽器發展簡史海報</a>（<a href="{ $link }">英文版與日文版請點此處開啟</a>）
