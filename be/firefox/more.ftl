@@ -38,3 +38,4 @@ firefox-more-protection = { -brand-name-firefox }: Больш абароны. М
 were-obsessed-with = Мы апантаны аховай вашай прыватнасці. Таму мы зрабілі прыватны рэжым у { -brand-name-firefox } больш функцыянальным, чым у іншых.
 firefox-more-fingerprinter-blocking = Блакаванне збору лічбавых адбіткаў
 firefox-more-translate-the-web = Перакладайце сеціва
+firefox-more-a-guide-to = Кіраўніцтва па больш бяспечных лагінах і паролях
