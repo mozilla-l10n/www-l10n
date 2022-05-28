@@ -130,6 +130,10 @@ vpn-landing-faq-manage-subscription-question-heading = Làm cách nào để qu�
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Nếu bạn đã đăng ký { -brand-name-mozilla-vpn }, bạn có thể thay đổi gói hoặc <a href="{ $url }">quản lý thuê bao của mình</a> bất kỳ lúc nào.
+vpn-landing-faq-download-heading = Làm cách nào để tải xuống { -brand-name-mozilla-vpn } khi tôi đã đăng ký?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Truy cập <a { $attrs }>trang tải xuống</a> để cài đặt { -brand-name-mozilla-vpn } trên thiết bị của bạn, sau đó đăng nhập bằng { -brand-name-firefox-account } của bạn.
 vpn-landing-faq-link = Xem thêm các câu hỏi thường gặp
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
