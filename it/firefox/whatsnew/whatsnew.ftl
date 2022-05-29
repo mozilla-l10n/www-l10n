@@ -10,6 +10,7 @@ whatsnew-page-description = Prendi posizione contro un’industria che guadagna 
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+whatsnew-up-to-date-notification-v2 = Complimenti. Stai utilizzando la versione più recente di { -brand-name-firefox }.
 # Obsolete string
 whatsnew-up-to-date-notification = Congratulazioni. Stai utilizzando la versione più recente del { -brand-name-firefox-browser }.
 whatsnew-out-of-date-notification-v2 = La versione più recente di { -brand-name-firefox } è disponibile. Riavvia per aggiornare.
