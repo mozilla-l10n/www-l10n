@@ -116,6 +116,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Vad är en IP-adress?
 vpn-subnav-when-to-use-a-vpn = När ska man använda ett VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Proxy
+vpn-subnav-subscribe = Prenumerera på { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 

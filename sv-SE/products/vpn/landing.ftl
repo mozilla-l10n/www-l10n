@@ -130,6 +130,10 @@ vpn-landing-faq-manage-subscription-question-heading = Hur hanterar jag min pren
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Om du redan prenumererar på { -brand-name-mozilla-vpn } kan du ändra din plan eller <a href="{ $url }">hantera din prenumeration</a> när som helst.
+vpn-landing-faq-download-heading = Hur laddar jag ned { -brand-name-mozilla-vpn } om jag redan prenumererar?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Besök <a { $attrs }>nedladdningssidan</a> för att installera { -brand-name-mozilla-vpn } på din enhet och logga sedan in med ditt { -brand-name-firefox-account }.
 vpn-landing-faq-link = Se fler vanliga frågor
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
