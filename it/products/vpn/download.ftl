@@ -7,3 +7,5 @@
 
 vpn-download-page-title = Scarica { -brand-name-mozilla-vpn }
 vpn-download-page-description = Scarica { -brand-name-mozilla-vpn } per { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
+vpn-download-button-copy = Scarica
+vpn-download-for-windows = VPN per { -brand-name-windows } 10/11
