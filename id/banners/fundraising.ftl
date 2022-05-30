@@ -13,6 +13,8 @@ banner-fundraising-title = Masa depan ditentukan secara daring. Bantu { -brand-n
 
 banner-fundraising-body-v2 = Kami bangga menjadi organisasi nirlaba, bekerja agar internet tetap sehat. Kontribusi Anda membantu membangun internet yang aman dan terbuka.
 
+# Outdated string
+banner-fundraising-body = Data pribadi dikumpulkan setiap kali kita mengakses sebuah web, dan tidak mudah mengetahui apa yang terjadi pada data tersebut. Informasi yang salah semakin mempersulit upaya kita untuk mengetahui kebenarannya. Perangkat yang terhubung ke web dipasarkan tanpa memenuhi standar keamanan minimum. Organisasi nirlaba { -brand-name-mozilla-foundation } berjuang untuk membuat internet lebih aman, terbuka, dan dapat diakses oleh semua. <strong>Apakah Anda akan berdonasi hari ini?</strong>
 
 banner-fundraising-body-extra = Apakah Anda akan berdonasi hari ini?
 banner-fundraising-monthly = Setiap bulan

@@ -13,6 +13,8 @@ banner-fundraising-title = 未来はオンラインで決まります。あら�
 
 banner-fundraising-body-v2 = Mozilla は、ウェブを健全に保つために取り組む非営利団体を掲げています。皆様からのご寄付は、安全で開かれたインターネットを作るために役立てられます。
 
+# Outdated string
+banner-fundraising-body = 個人データはウェブにアクセスするたびに収集され、それがどのように利用されているかを把握することは困難です。誤報により、真実が覆い隠されています。ウェブ接続されたデバイスは、最小限のセキュリティ基準を満たすことなく市場に出回っています。非営利法人の { -brand-name-mozilla-foundation } は、インターネットをあらゆる人にとって安全、オープンで、アクセスしやすい場所にするために闘っています。<strong>寄付にご協力ください。</strong>
 
 banner-fundraising-body-extra = 寄付にご協力ください
 banner-fundraising-monthly = 毎月
