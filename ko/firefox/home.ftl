@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/
@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Firefox의 제품군을 만나보세요
 firefox-home-get-trackers-off = { -brand-name-facebook }을 포함한 2000개 이상의 추적기로부터 벗어나세요
 firefox-home-know-when-hackers-strike = 해커의 공격 시점을 알고 — 한 발 더 앞서 나가세요
 firefox-home-start-getting-breach = 데이터 유출 보고서 받기
+firefox-home-un-spam-your-life = { -brand-name-relay }를 통해 스팸으로부터 벗어나세요
+firefox-home-try-relay = { -brand-name-relay } 사용해보기
 # Obsolete string
 firefox-home-keep-your-passwords = 모든 기기에서 비밀번호를 안전하게 보관하세요
 # Obsolete string
@@ -45,6 +47,7 @@ firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
 firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-home-relay = { -brand-name-relay }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
@@ -52,3 +55,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -24,6 +24,9 @@ firefox-products-see-all-browsers = 모든 브라우저보기
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = 30개가 넘는 국가에서 새로운 관점의 안전하게 인터넷과 연결된 서버에서 서핑과 스트리밍, 작업을 하세요.
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } 받기
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = 받은 편지함을 제어하는 데 도움이 되도록 실제 이메일 주소를 보호하세요.
+firefox-products-learn-more-about-relay = { -brand-name-firefox-relay }에 대해 더 알아보기
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
@@ -47,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = { -brand-name-firefox }에 가�
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = 이미 계정이 있습니까? { -brand-name-firefox } <a { $fxa_attr }> 로그인 </a> 혹은 <a { $accounts_attr }>자세히 알아보기</a>
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = 자동 추적 보호 및 광고 차단 기능을 갖춘 당신만의 개인 정보 보호 브라우저입니다.
