@@ -13,6 +13,7 @@ whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification-v2 = Llongyfarchiadau! Rydych chi'n defnyddio'r fersiwn ddiweddaraf o { -brand-name-firefox }.
 # Obsolete string
 whatsnew-up-to-date-notification = Llongyfarchiadau! Rydych chi'n defnyddio'r fersiwn ddiweddaraf o { -brand-name-firefox-browser }.
+whatsnew-out-of-date-notification-v2 = Mae { -brand-name-firefox } mwy diweddar ar gael. Ailgychwynnwch i ddiweddaru.
 # Obsolete string
 whatsnew-out-of-date-notification = Mae { -brand-name-firefox-browser } mwy newydd ar gael. Ailgychwynnwch i ddiweddaru.
 # Variables:

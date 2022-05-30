@@ -130,6 +130,10 @@ vpn-landing-faq-manage-subscription-question-heading = Sut fydda i'n rheoli fy n
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Os ydych chi eisoes wedi tanysgrifio i { -brand-name-mozilla-vpn }, gallwch newid eich cynllun neu <a href="{ $url }">rheoli eich tanysgrifiad</a> ar unrhyw adeg.
+vpn-landing-faq-download-heading = Sut mae llwytho { -brand-name-mozilla-vpn } i lawr pan fyddaf eisoes wedi tanysgrifio?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Ewch i'r <a { $attrs }>dudalen llwytho</a> i osod { -brand-name-mozilla-vpn } ar eich dyfais, ac yna mewngofnodi gan ddefnyddio'ch cyfrif { -brand-name-firefox-account }.
 vpn-landing-faq-link = Gweld ragor o Gwestiynau Cyffredin
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/

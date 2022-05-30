@@ -116,6 +116,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Beth yw cyfeiriad IP?
 vpn-subnav-when-to-use-a-vpn = Pryd i ddefnyddio VPN
 vpn-subnav-vpn-vs-proxy = VPN neu Dirprwy
+vpn-subnav-subscribe = Tanysgrifiwch i { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
