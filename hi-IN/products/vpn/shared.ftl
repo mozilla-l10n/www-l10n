@@ -145,6 +145,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = आईपी एड्रेस क्या होता है?
 vpn-subnav-when-to-use-a-vpn = VPN का उपयोग कब करें
 vpn-subnav-vpn-vs-proxy = VPN बनाम प्रॉक्सी
+vpn-subnav-subscribe = { -brand-name-mozilla-vpn } का सब्सक्रिप्शन लें
 
 ## VPN Affiliate cookie notice
 

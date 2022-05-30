@@ -145,6 +145,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = ما هو عنوان IP؟
 vpn-subnav-when-to-use-a-vpn = متى تستخدم VPN
 vpn-subnav-vpn-vs-proxy = VPN مقابل Proxy
+vpn-subnav-subscribe = اشترك في { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
