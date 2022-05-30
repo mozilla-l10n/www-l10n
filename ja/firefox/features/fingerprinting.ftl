@@ -7,6 +7,8 @@
 # page title
 features-fingerprinting-what-is-fingerprinting-title = フィンガープリント採取とは？ それをブロックする理由は？
 
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = フィンガープリント採取とは、オンライントラッキングの一種で、通常の Cookie ベースのトラッキングよりも侵入度が高くなります。そのため、{ -brand-name-firefox-browser } はこれをブロックします。
 
 features-fingerprinting-firefox-blocks-fingerprinting = フィンガープリント採取をブロックする { -brand-name-firefox }
 features-fingerprinting-ditch-the-sticky = { -brand-name-firefox } ブラウザーの内蔵フィンガープリント採取ブロッカーで、しつこい広告につきまとわれなくなります。
@@ -16,6 +18,7 @@ features-fingerprinting-every-fingerprint = フィンガープリントは一人
 features-fingerprinting-download-firefox = { -brand-name-firefox } をダウンロード
 features-fingerprinting-what-is-fingerprinting-body = フィンガープリント採取とは？
 features-fingerprinting-fingerprinting-is-a = フィンガープリント採取とは、オンライントラッキングの一種で、通常の Cookie ベースのトラッキングよりも侵入度が高くなります。企業は、ユーザーのコンピューターのハードウェア、ソフトウェア、アドオン、さらには設定に基づいてユーザーの一意のプロファイルを作成することで、デジタルフィンガープリントを作成します。使用している画面、コンピューターにインストールされているフォント、ウェブブラウザーなど、すべてがフィンガープリント作成に使用されます。
+features-fingerprinting-if-you-have = 一般的なノートパソコンやデスクトップ、スマートフォンを使用しているだけなら、フィンガープリント採取でデバイスを特定するのは困難でしょう。しかし、独自性の高いアドオンやフォント、設定を使用しているほど特定されやすくなります。企業は、この情報の組み合わせを使用してユーザーのフィンガープリントを作成します。そこで { -brand-name-firefox } は、既知のフィンガープリント採取行為をブロックすることで、広告につきまとわれることなく、お気に入りの拡張機能やテーマ、カスタマイズを利用できるようにします。
 features-fingerprinting-fingerprinting-is-bad = フィンガープリント採取はウェブにとって有害です
 
 # $url_tracked (string) - link to https://hal.inria.fr/hal-01652021/document

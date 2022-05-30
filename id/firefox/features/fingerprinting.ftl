@@ -7,6 +7,8 @@
 # page title
 features-fingerprinting-what-is-fingerprinting-title = Apa itu pengumpulan sidik jari dan mengapa Anda harus memblokirnya
 
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = Pengumpulan sidik jari (fingerprinting) adalah jenis pelacakan daring yang lebih invasif dibanding pelacakan berbasis cookie biasa — itulah sebabnya { -brand-name-firefox-browser } memblokirnya.
 
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } memblokir pengumpulan sidik jari (fingerprinting)
 features-fingerprinting-ditch-the-sticky = Singkirkan iklan melekat yang mengikuti Anda dengan pemblokir fingerprinting yang tersemat di peramban { -brand-name-firefox }.
@@ -16,6 +18,7 @@ features-fingerprinting-every-fingerprint = Setiap sidik jari itu unik.
 features-fingerprinting-download-firefox = Unduh { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Apa itu pengumpulan sidik jari?
 features-fingerprinting-fingerprinting-is-a = Pengumpulan sidik jari adalah sejenis pelacakan daring yang lebih invasif dibanding pelacakan berbasis kuki biasa. Sidik jari digital dibuat saat perusahaan membuat profil unik Anda berdasarkan perangkat keras, perangkat lunak, pengaya, dan bahkan preferensi komputer Anda. Pengaturan Anda seperti layar yang digunakan, fon yang diinstal di komputer, dan bahkan pilihan peramban web Anda dapat digunakan untuk membuat sidik jari.
+features-fingerprinting-if-you-have = Jika Anda memiliki laptop, PC, atau smartphone yang biasa digunakan, maka biasanya akan lebih sulit mengidentifikasi perangkat Anda secara unik melalui sidik jari. Namun, semakin unik pengaya, fon, dan pengaturan yang Anda miliki, semakin mudah Anda menemukannya. Perusahaan dapat menggunakan kombinasi informasi unik ini untuk membuat sidik jari Anda. Itulah sebabnya { -brand-name-firefox } memblokir fingerprinting yang dikenal, sehingga Anda tetap dapat menggunakan ekstensi, tema, dan setelan favorit Anda tanpa diikuti oleh iklan.
 features-fingerprinting-fingerprinting-is-bad = Fingerprinting berdampak buruk bagi web
 
 # $url_tracked (string) - link to https://hal.inria.fr/hal-01652021/document
