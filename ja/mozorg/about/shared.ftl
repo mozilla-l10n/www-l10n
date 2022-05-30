@@ -15,3 +15,5 @@ about-shared-our-products = Mozilla 製品
 about-shared-software-innovations = Mozilla のミッションを推進するソフトウェアその他のイノベーション
 about-shared-get-involved = 参加する
 about-shared-volunteer = 様々な分野でボランティア寄稿者として参加
+vision-for-the-web = { -brand-name-mozilla } のウェブのビジョン
+read-about-our-vision = ウェブにかける私たちのビジョンと、そのビジョンの追求についてご覧ください。
