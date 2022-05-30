@@ -24,6 +24,9 @@ nightly-whatsnew-this-is-a-good = यह एक अच्छा समय है
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = अगर आप जानना चाहते हैं कि { -brand-name-nightly } और इसके समुदाय में क्या हो रहा है, तो हमारा <a href="{ $blog }">ब्लॉग</a> पढ़ना और <a href="{ $twitter }">{ -brand-name-twitter }</a> पर हमारा अनुसरण करना एक अच्छी शुरुआत हो सकती है!
 
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = जानना चाहते हैं कि आप कौन-से प्लेटफ़ॉर्म फ़ीचर्स { -brand-name-nightly } पर जाँच सकते हैं जिन्हें दूसरे { -brand-name-firefox } चैनलों पर अब तक देख पाना संभव नहीं है? फिर <a { $attrs }>Nightly एक्सपेरिमेंट्स</a> वरीयता पेज पर एक नज़र डालें।
 
 # Obsolete
 # Variables:
