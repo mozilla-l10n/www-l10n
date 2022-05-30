@@ -32,6 +32,11 @@ vpn-ip-address-when-the-internet = Oñemoheñóiramoguare Ñanduti ñepyrũrãit
 vpn-ip-address-we-now-have = Ko’ág̃a roreko IP kundaharenda 6 ichguáva, orekóva 128 bits peteĩva kundaharenda. Rombyasýrõ jepe, 4 ha 6 ichagua noñe’ẽkuaái oñondive, upévare opavave oikotevẽta kundaharenda 4 ichguáva heta ára gueteri.
 vpn-ip-address-should-you-hide = ¿Oñomikuaápa IP kundaharape?
 # Variables
+#   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
+#   $doh (url) - https://support.mozilla.org/kb/firefox-dns-over-https
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+vpn-ip-address-you-dont-need = Natekotevẽi remokañy nde IP renda, ha katu oĩ sapy’ánte ikatuhápe reñomise. Pe mba’érepa ojehechavéva ha’e petekoñemi. Estados Unidos-pe, <a href="{ $congress }">Congreso ombogue umi ñe’ẽñemi rehegua</a> ojejapóva oñeñangareko hag̃ua umi poruhára banda ancha ñemigua rehe. Umi ome'ẽva Pytyvõ Ñandutiroguépe ikatu ohecha mba’éichapa reiporu, mba’épe g̃uarãpa reiporu Ñandutiveve ha mboy árapa reiporu peteĩteĩva kuatiaroguépe. Ko momarandu ndaha’éi oñemíva, upévare mbohapyha ikatu ohecha pe ñandutirogue reikehápe. Peteĩ tape oñembohovái hag̃ua kóva ha’e ojepuru <a href="{ $doh }">DNS-over-HTTPS</a> (DoH). Kóva ombogue DNS (Domain Name System) jeguata, hasyve ISP-kuérape ohecha hag̃ua umi ñanduti renda reñeha’ãva reike. <a href="{ $firefox }">oipurúvape g̃uarã { -brand-name-firefox }</a> EE.UU.-pe, ñepyrũrã, iñeporandu DoH-pegua ojegueraha DNS poruhára ojeroviapyrévape, hasyve oñembojoaju hag̃ua hendivekuéra umi ñandutirogue oñeha’ãva oho hikuái.
+# Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Avei ikatukuaa eñomi nde IP kundaharape. Ikatu eñomi eho aja mombyry. Peteĩ VPN ome’ẽkuaa <a href="{ $url }">tekoñemive</a> eike vove WiFi-pe ehechauka hag̃ua ta’ãngamýi ha emba’ejogua eikundaha aja arapy tuichakue jave.
 vpn-ip-address-how-do-you = ¿Mba’éicha oñomikuaa?
