@@ -146,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ijehegu
 firefox-desktop-download-questions = ¿Porandu? Pe <a { $attrs }>{ -brand-name-mozilla } pytyvõha</a> ne mo’ã meme.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Eguerekóma kundahára. Ko’ág̃a eñeha’ãta eipuruporãve { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Ejesareko umi mba’evai’apoha rehe { -brand-name-firefox-monitor }, emo’ã ne ñe’ẽveve { -brand-name-firefox-relay } rupive ha hetave.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Ehecha tembipurupyahu mbyaiha { -brand-name-firefox-monitor } ndive, emo’ã ñe’ẽñemi { -brand-name-firefox-lockwise } ndive ha hetave.
 firefox-desktop-download-get-more-from-firefox = Eipuruvéke { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Emboguejy pe kundahára

@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
+vpn-download-page-title = Emboguejy { -brand-name-mozilla-vpn }
+vpn-download-page-description = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android }, ha { -brand-name-ios } peg̃uarã.
 vpn-download-button-copy = Mboguejy
 vpn-download-for-windows = VPN for { -brand-name-windows } 10/11 peg̃uarã
 vpn-download-for-mac = VPN { -brand-name-mac-short } peg̃uara
