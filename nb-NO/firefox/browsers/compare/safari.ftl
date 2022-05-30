@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -52,7 +52,7 @@ compare-safari-firefox-is-also-great-for-video = { -brand-name-firefox } er ogs�
 # Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
 # "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
-compare-safari-screenshots-is-another-popular = <a >Screenshots</a> er en annen populær funksjon innebygd i { -brand-name-firefox }-nettleseren, slik at du enkelt kan ta et bilde av skjermen. Når du tar et skjermbilde, kan du velge å kopiere filen eller velge hvilken mappe du vil lagre den i, i stedet for å rote til på skrivebordet.
+compare-safari-screenshots-is-another-popular = <a { $attrs }>Screenshots</a> er en annen populær funksjon innebygd i { -brand-name-firefox }-nettleseren, slik at du enkelt kan ta et bilde av skjermen. Når du tar et skjermbilde, kan du velge å kopiere filen eller velge hvilken mappe du vil lagre den i, i stedet for å rote til på skrivebordet.
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } og { -brand-name-safari } gir begge en sømløs opplevelse når du går fra datamaskin til mobil surfing eller omvendt. For { -brand-name-safari } er en av hovedstyrkene dens kontinuitetsfunksjoner. Den synkroniserer bokmerkene, fanene, historikken og mer til iCloud slik at de er tilgjengelige på alle enhetene dine. Det betyr at du kan åpne en fane på { -brand-name-iphone } og få den også til å vises på { -brand-name-mac } bærbare datamaskiner med bare et klikk.
 compare-safari-both-browsers-have-a-lot = Begge nettlesere har funksjoner til felles, i tillegg til noen unike funksjoner. Det er verdt å nevne at hvis du tar mange skjermbilder, lurer du på hvordan du noen gang har levd uten denne praktiske funksjonen som er bygget rett inn i { -brand-name-firefox }. Men hvis du bare ser etter en rask, privat nettleser for surfing og shopping, kan det være lurt å prøve { -brand-name-firefox } — spesielt hvis du utelukkende har brukt { -brand-name-safari } fordi den kom forhåndsinnlastet som standard nettleser på datamaskinen din. Etter hvert vil du oppdage hvilken som er best tilpasset dine behov.
