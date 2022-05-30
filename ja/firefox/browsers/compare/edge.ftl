@@ -22,7 +22,13 @@ compare-edge-here-well-compare-our-firefox = ここでは、プライバシー�
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = { -brand-name-edge } は { -brand-name-windows } 10 のプラットフォームに統合され、サンドボックス環境で実行します。つまり、プログラムを分離し、悪意のあるプログラムからコンピューターを守ります。訪問したサイトの評判をスキャンし、疑わしいサイトをブロックする SmartScreen が組み込まれています。{ -brand-name-edge } では、プライバシー強化のため、パスワードでオンライン認証を行う代わりに、{ -brand-name-windows } Hello で生体認証 (バイオメトリクス) や暗証番号を使用できます。
 
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-edge-at-firefox-we-pride-ourselves = { -brand-name-firefox } は、ユーザーのセキュリティとプライバシーの保護に自信があります。当社の<a { $attrs }>プライバシーポリシー</a>は、透明性を確保し、わかりやすい表現を心がけています。はっきりと読みやすくするために努力しました。強化型トラッキング防止を既定でオンにしており、2000 以上のトラッカーを自動的にブロックしています。トラッカーとは、複数のインターネットサイトでユーザーの操作を繋ぎ合わせるコードです。こうして情報を複合させて、ユーザーの詳細な人物像を作り上げ、個人に合わせた広告を表示するためだけにプライバシーを損なうものです。
 
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-edge-at-firefox-our-privacy-fallback = { -brand-name-firefox } の<a { $attrs }>プライバシーポリシー</a>は、透明性を確保し、わかりやすい表現を心がけています。はっきりと読みやすくするために努力しました。ユーザーのセキュリティとプライバシーの保護に自信があります。強化型トラッキング防止を既定でオンにしており、2000 以上のトラッカーを自動的にブロックしています。トラッカーとは、複数のインターネットサイトでユーザーの操作を繋ぎ合わせるコードです。こうして情報を複合させて、ユーザーの詳細な人物像を作り上げ、個人に合わせた広告を表示するためだけにプライバシーを損なうものです。
 
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
