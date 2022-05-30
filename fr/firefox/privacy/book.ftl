@@ -30,9 +30,11 @@ privacy-book-even-when-organizations = Même lorsque les serveurs web font atten
 
 privacy-book-the-web-never = Le Web n’oublie jamais :
 
+privacy-book-according-to-the = Selon le RGPD, vous pouvez demander la remise de vos données ou leur suppression ; néanmoins, il est possible que les sites frauduleux ne se conforment pas à cette demande, tout comme tous ceux qui n’offrent pas leurs services hors Europe.
 
 privacy-book-trackers-everywhere- = Traqueurs partout :
 
+privacy-book-trackers-cookies-youve = Traqueurs, cookies ? Vous en avez probablement déjà entendu parler auparavant. Les traqueurs sont de minuscules éléments sur les sites web qui observent et enregistrent votre comportement afin de le transmettre au(x) propriétaire(s) de la page ou à des tiers. Certains d’entre eux vous suivent même sur de nombreux sites web.
 
 privacy-book-tracking-cookies-are = Les cookies de pistage sont censés informer les propriétaires de sites web et les annonceurs de votre comportement de navigation et de vos centres d’intérêt. Ils sont ensuite utilisés pour personnaliser votre expérience web. C’est pourquoi vous voyez souvent des annonces personnalisées, conformes à vos intérêts. Au fil du temps, ils amassent un maximum d’informations sur vous et les stockent dans un profil. Cela peut paraître pratique mais, malheureusement, ces profils ne sont pas tout le temps précis. Dans le meilleur des cas, cela veut juste dire que vous recevez des annonces un chouia moins pertinentes. Dans le pire des cas, les informations que vous voyez sur certains sites web ne correspondent pas du tout à vos besoins et attentes. Mais bon, sachez également que votre profil peut influencer, par exemple, les prix auxquels divers produits et services vous sont proposés. Eh oui !
 
@@ -42,19 +44,23 @@ privacy-book-even-if-the = Même si Internet nous permet rarement d’être comp
 
 privacy-book-fake-news-and = Fake news et bulles de filtres :
 
+privacy-book-news-recommendations-are = Les informations recommandées, c’est pratique et, entre nous, on préfère souvent lire un contenu conforme à notre opinion. Mais ces articles ne disent pas toujours l’exacte vérité. Et si l’on perdait notre discernement et la vue d’ensemble parce que nous ne voyons qu’une infime partie de la réalité ? Comment pouvons-nous alors nous forger notre propre opinion ?
 
 privacy-book-how-much-control = Quel contrôle a-t-on vraiment ? Et à quelles libertés sommes-nous d’accord de renoncer ?
 
+privacy-book-many-of-us = Aujourd’hui, de nombreux internautes estiment avoir peu de contrôle sur leur sécurité, leur confidentialité et la qualité des informations trouvées en ligne. C’est peut-être aussi votre cas. C’est vrai, il y a encore beaucoup de choses à améliorer — même si très souvent notre paresse nous conforte à n’utiliser qu’une fraction des outils à notre disposition. En effet, les solutions tout-en-un sont pratiques, et l’on n’hésite pas une seconde à mettre une grande quantité de données personnelles entre les mains d’une seule entreprise. Pourquoi ? Parce que l’on ne veut pas trop réfléchir. Mais peut-être aussi parce qu’on n’est tout simplement pas au courant des nombreuses alternatives qui s’offrent à nous.
 
 # Span is for visual formatting.
 privacy-book-tips-for = 15 conseils <span>pour une vie numérique optimisée</span>
 
 privacy-book-starting-over = Reprendre depuis le début :
 
+privacy-book-its-time-for = C’est le moment de faire une Data Detox ! Avec l’aide du Tactical Tech Collective, { -brand-name-mozilla } a mis au point un joli petit ensemble de conseils pratiques, appelé Data Detox Kit. C’est un programme qui vous permettra de redémarrer à zéro sur le Web. Vous n’êtes pas encore prêt·e pour le programme complet ? Pas de problème, optez alors pour l’un des conseils suivants (ou tous).
 
 # Span is for visual formatting
 privacy-book-a-tidy-browser = Un navigateur bien organisé, un esprit mieux pensé — <span>bon, c’est peut-être pas le proverbe exact, mais on n’en est pas loin !</span>
 
+privacy-book-delete-your-browser = <strong>Supprimez l’historique de votre navigateur.</strong> Que vous utilisiez { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-safari } ou un autre navigateur, tous offrent cette fonctionnalité. Vous le trouverez généralement dans le menu des paramètres sous « Sécurité » ou dans une autre section. Voici comment procéder sur { -brand-name-firefox }.
 
 privacy-book-delete-your-google = <strong>Supprimez l’historique de vos activités { -brand-name-google }.</strong> Connectez-vous à votre compte, ouvrez la section « Mon activité » et faites-la défiler. C’est une surprise ou même un choc de voir toutes les informations stockées là ? N’hésitez pas à les supprimer : dans le menu de gauche, cliquez pour aller à « Supprimer l’activité par », changez la date en « Permanent » et les produits en « Tous les produits », cliquez sur « Supprimer », et cliquez sur « OK » pour supprimer si une fenêtre apparaît.
 
@@ -64,6 +70,7 @@ privacy-book-all-of-us = La plupart d’entre nous, certain·e·s plus que d’a
 
 privacy-book-search-engine-title = Moteur de recherche :
 
+privacy-book-search-engine-duckduckgo = Contrairement à d’autres fournisseurs, { -brand-name-duckduckgo } ne crée pas de profil utilisateur et ne filtre pas les résultats, donc tous les internautes obtiennent le même résultat de recherche. Il est disponible dans la barre de recherche de votre navigateur et en tant qu’extension de navigateur.
 
 privacy-book-email-have-title = E-Mail :
 
@@ -91,6 +98,7 @@ privacy-book-we-love-social = <strong>Nous adorons les réseaux sociaux !</stro
 
 privacy-book-theres-actually-even = <strong>En fait, il y a encore plus de choses à garder à l’esprit quand il s’agit des réseaux sociaux :</strong> comme vous le savez, ils sont là pour nous aider à partager des choses personnelles avec des gens qu’on connaît (certains mieux que d’autres). C’est à vous de décider de la quantité d’informations privées que vous souhaitez partager. Cela s’applique à vos messages et qui peut les voir, ainsi qu’à votre emplacement, aux choses que vous aimez, à votre numéro de téléphone ou aux personnes avec qui vous passez du temps. Mais souvenez-vous : toutes ces données sont non seulement visibles par le réseau social, mais peuvent être également destinées aux annonceurs. Alors, si vous partagez moins, il y a moins de choses qui pourraient tomber entre les mains des fraudeurs en cas de fuite de données.
 
+privacy-book-what-feels-right = <strong>Ce qui vous convient aujourd’hui pourrait changer demain.</strong> Et c’est tant mieux. Il est plutôt sain de reconsidérer de temps à autre votre vision du monde, en ligne comme hors ligne, et de l’ajuster si nécessaire.
 
 privacy-book-what-does-the = Qu’est-ce que le monde sait de vous ?
 
@@ -147,6 +155,7 @@ privacy-book-its-not-unusual = Il est commun de voir une adresse Internet commen
 
 privacy-book-email-accounts-and = Comptes de messagerie et identités en ligne :
 
+privacy-book-your-email-address = Votre adresse e-mail ne dit pas nécessairement grand-chose sur vous. Mais si vous utilisez la même adresse pour un certain nombre de services et de sites web, vous laissez une trace. Votre adresse e-mail peut devenir le centre de votre identité en ligne, connectée à tous les types de données (de navigation ou de compte). Peut-être est-ce le moment d’en créer plusieurs à des fins différentes ?
 
 privacy-book-resist-the-urge = Résistez à l’envie de cliquer :
 
@@ -183,6 +192,7 @@ privacy-book-even-if-you = Même si vous avez acheté un smartphone avec beaucou
 
 privacy-book-the-more-apps = <strong>Limitez les points faibles.</strong> Plus vous avez d’applications sur votre appareil, plus les entités ont accès à vos données, et il est impossible d’avoir une vue d’ensemble complète en tout temps.
 
+privacy-book-check-which-apps = <strong>Nettoyez de fond en comble votre téléphone portable.</strong> Vérifiez les applications que vous avez installées sur votre appareil et si vous les utilisez toujours. Supprimez celles dont vous n’avez plus besoin.
 
 privacy-book-also-reconsider-the = <strong>Limitez les accès.</strong> De même, songez à nouveau aux autorisations que vous avez accordées aux applications restantes, y compris les réseaux sociaux, et posez-vous la bonne question : cette application a-t-elle vraiment besoin d’accéder à mon emplacement ? Mes contacts ? Mes photos ? Ma caméra et mon microphone ?
 
@@ -190,6 +200,7 @@ privacy-book-friendly-reminder-what = Rappel amical : C’est quoi des traqueur
 
 privacy-book-we-distinguish-between = On distingue les traqueurs propriétaires et tiers, et les cookies de pistage. Vous pouvez trouver des traqueurs propriétaires sur des sites d’actualités, par exemple. Leur mission consiste à remarquer quand une personne abonnée vient sur le site, à vérifier quels articles sont lus, combien de temps elle passe sur chaque page, etc. Ces informations peuvent être utilisées pour améliorer la qualité de leur offre et déterminer ce que leurs membres aiment réellement.
 
+privacy-book-thirdparty-trackers-on = Les traqueurs tiers, en revanche, peuvent enregistrer la visite complète d’un site web par un·e internaute, par exemple dans le but de lui montrer des publicités ciblées. Cela fonctionne même à travers différents sites web que l’on visite ; et il y a rarement un seul traqueur par site. Il travaille souvent main dans la main avec d’autres pour trouver de nouvelles façons de vous convaincre de dépenser de l’argent, vous inscrire à des services, ou partager plus d’informations sur vous-même.
 
 privacy-book-as-you-might = Comme vous pouvez déjà l’imaginer, ces informations ont beaucoup de valeur. C’est pourquoi les entreprises qui y ont accès se font beaucoup d’argent en les vendant à d’autres. Malheureusement, personne ne prend en compte votre avis dans la décision. C’est pourquoi { -brand-name-firefox } bloque par défaut de nombreux traqueurs venant de ces tiers afin de vous redonner plus de contrôle sur votre expérience en ligne et de réduire vos chances d’être suivi·e sur le Web par des publicités et des sociétés douteuses.
 
