@@ -15,3 +15,5 @@ about-shared-our-products = مُنتجاتنا
 about-shared-software-innovations = تطبيقات وإبداعات أُخرى صُمّمت لدعم مهمّتنا.
 about-shared-get-involved = شارك
 about-shared-volunteer = انضم إلينا وتطوّع في مجالات مُختلفة.
+vision-for-the-web = ورؤية { -brand-name-mozilla } للويب
+read-about-our-vision = اقرأ عن رؤيتنا للويب وكيف نَعتزم متابعة تنفيذ تلك الرؤية.
