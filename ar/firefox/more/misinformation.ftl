@@ -40,6 +40,9 @@ misinformation-firefox-keeps-trackers-desc = كما ذكرنا سابقًا، ي
 
 misinformation-social-media-clean-heading = يُساعد { -brand-name-firefox } في تنظيف موجزات وسائل التوصل الاجتماعي الخاصة بك:
 
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = الشبكات الاجتماعية تَعرف الكثير عنك. بالإضافة إلى ذلك، يُمكنُها تتبعك خارج الأنظمة الأساسية الخاصة بهم باستخدام أزرار &quot;المشاركة&quot; و&quot;الإعجاب&quot; على الرغم من استخدام الحماية من التتبع — حتى إذا لم يكن لديك حساب. يَضمن <a href="{ $container }">{ -brand-name-facebook-container }</a> في ألا يتمكّن { -brand-name-firefox } و{ -brand-name-facebook } و { -brand-name-instagram } من القيام بذلك بسهولة، مما يُقلل مرة أخرى من احتمالية رؤية المعلومات المغلوطة عبر الإعلانات والمحتوى المروّج لها بشكل كبير.
 
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = يُساعدك { -brand-name-firefox } في الاطّلاع على المحتوى الذي يستحق وقتك:
