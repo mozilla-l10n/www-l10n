@@ -21,6 +21,9 @@ download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mo
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Ikuti <a href="{ $url }">arahan ini</a> untuk memasang { -brand-name-firefox }.
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
+download-button-your-system-does-not = Sistem anda tidak memenuhi <a href="{ $url }">syarat</a> untuk menjalankan { -brand-name-firefox }.
 
 download-button-firefox-other-platforms = { -brand-name-firefox } untuk Platform & Bahasa lain
 download-button-update-your-firefox = Kemas kini { -brand-name-firefox } anda
