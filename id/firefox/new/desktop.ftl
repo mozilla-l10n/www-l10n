@@ -156,6 +156,7 @@ firefox-desktop-download-questions = Ada pertanyaan? <a { $attrs }>Dukungan { -b
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Anda sudah punya perambannya. Kini dapatkan lebih banyak lagi dari { -brand-name-firefox }.
 
+firefox-desktop-download-watch-for-hackers-with-v2 = Waspadai peretas dengan { -brand-name-firefox-monitor }, lindungi alamat email Anda dengan { -brand-name-firefox-relay }, dan masih banyak lagi.
 
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Waspadai peretas dengan { -brand-name-firefox-monitor }, lindungi sandi dengan { -brand-name-firefox-lockwise }, dan masih banyak lagi.
