@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -40,7 +40,7 @@ privacy-passwords-strength-in-diversity = Erő a sokszínűségben
 privacy-passwords-the-secret-to = A találgatás, lopás vagy jelszó-visszaállítás megakadályozásának titka a sok véletlenszerűség. Amikor a támadók megpróbálnak jelszavakat kitalálni, általában két dolgot tesznek: 1) „szótárakat” használnak - az emberek folyamatosan használt gyakori jelszavak listáit, és 2) véletlenszerűen találgatnak. <strong>Minél hosszabb és véletlenszerűbb a jelszava</strong>, annál kevésbé valószínű, hogy e találgatási technikák megtalálják.
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
-privacy-passwords-when-an-attacker = Amikor egy támadó ellopja egy Ön által használt webhely jelszó-adatbázisát (például a <a { $url_linkedin }>LinkedIn</a>ét vagy a <a { $url_yahoo }Yahoo</a>-ét), nem tehet mást, mint megváltoztatni a jelszavát az adott webhelyhez. Ez rossz, de a károk sokkal rosszabbak lehetnek, ha e jelszót újra felhasználta más webhelyeken – akkor a támadó e webhelyeken is hozzáférhet a fiókjához. A károk megelőzése érdekében <strong>mindig használjon különböző jelszavakat a különböző webhelyekhez.</strong>
+privacy-passwords-when-an-attacker = Amikor egy támadó ellopja egy Ön által használt webhely jelszó-adatbázisát (például a <a { $url_linkedin }>LinkedIn</a>ét vagy a <a { $url_yahoo }>Yahoo</a>-ét), nem tehet mást, mint megváltoztatni a jelszavát az adott webhelyhez. Ez rossz, de a károk sokkal rosszabbak lehetnek, ha e jelszót újra felhasználta más webhelyeken – akkor a támadó e webhelyeken is hozzáférhet a fiókjához. A károk megelőzése érdekében <strong>mindig használjon különböző jelszavakat a különböző webhelyekhez.</strong>
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Használja a <a { $url_monitor }>{ -brand-name-firefox-monitor }t</a>, hogy szemmel tartsa a fiókjaihoz használt e-mail-címeket. Ha az e-mail-címe megjelenik egy ismert vállalati adatsértésben, akkor értesíteni fogjuk, és lépéseket biztosítunk, amellyel megvédheti az érintett fiókot.
 privacy-passwords-security-questions-my = Biztonsági kérdések: Anyám leánykori neve „Ff926AKa9j6Q”
@@ -54,7 +54,7 @@ privacy-passwords-twofactor-authentication-2fa = Kétlépcsős hitelesítés (2F
 privacy-passwords-2fa-is-a = A kétlépcsős hitelesítés nagyszerű módja a biztonság következő szintre emeléséhez. Ha új fiókot hoz létre, egyes oldalak lehetővé teszik, hogy egy „második faktort” adjon hozzá a bejelentkezési folyamathoz. Gyakran ez azt jelenti, hogy hozzárendeli a telefonszámát a fiókjához, így miután megadja a jelszavát, egy biztonságos kódot is meg kell adnia, amelyet SMS-ben kap meg. Így, ha egy hacker meg is szerzi a jelszavát, akkor sem fog tudni belépni a fiókjába, mert nincs nála az Ön telefonja.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Például az Ön { -brand-name-firefox }-fiókja is megvédheti kétlépcsős hitelesítéssel, <a { $url_sumo_2fa }>melyről itt tudhat meg többet</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = A kétlépcsős hitelesítés sokkal biztonságosabb, mint a jelszavak önmagukban, de nem minden webhely támogatja. A <a { $url_2fa }>https://twofactorauth.org</a> weboldalon találhat egy listát a kétlépcsős hitelesítést támogató webhelyekről, valamint felsorol olyan oldalakat is, melyek nem támogatják ezt, és olyan módokat, amellyel kérheti tőlük ennek a támogatását.
 privacy-passwords-strong-diverse-and = Erős, sokszínű és többlépcsős
 privacy-passwords-for-better-or = Attól függetlenül, hogy ez jó-e, a belátható jövőben továbbra is jelszavakat fogunk használni az online fiókjaink megvédéséhez. Használjon olyan jelszavakat, melyek <strong>erősek</strong> és <strong>eltérők minden egyes webhelynél</strong>, illetve használjon egy <strong>jelszókezelőt</strong>, hogy biztonságosan megjegyezze őket. Állítson be <strong>hosszú, véletlenszerű válaszokat</strong> a biztonsági kérdésekhez (akkor is, ha nem igazak). És <strong>használjon kétlépcsős hitelesítést</strong> minden olyan oldalon, amely ezt támogatja.

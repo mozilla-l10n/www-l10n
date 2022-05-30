@@ -20,7 +20,7 @@ nightly-whatsnew-this-is-a-good = Ez egy remek alkalom arra, hogy megköszönjü
 nightly-whatsnew-if-you-want-to = Ha tudni akarja, hogy mi történik a { -brand-name-nightly }val és a közösséggel, akkor a <a href="{ $blog }">blogunk</a> olvasása és a <a href="{ $twitter }">{ -brand-name-twitter }</a> oldalunk követése jó kiindulópont.
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v2 = Szeretné tudni, hogy mely funkciókat tesztelheti a { -brand-name-nightly }ban, és miket nem láthat még a többi { -brand-name-firefox }-csatornában? Akkor tekintse meg a <a href="{ $mdn }">Night kísérletek</a> beállítási oldalát.
+nightly-whatsnew-want-to-know-which-v2 = Szeretné tudni, hogy mely funkciókat tesztelheti a { -brand-name-nightly }ban, és miket nem láthat még a többi { -brand-name-firefox }-csatornában? Akkor tekintse meg a <a { $attrs }>Night kísérletek</a> beállítási oldalát.
 # Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
