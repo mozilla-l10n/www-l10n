@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
@@ -52,5 +52,5 @@ compare-edge-edge-also-allows-you-to-connect = { -brand-name-edge } lar deg ogs�
 compare-edge-edge-also-allows-you-to-fallback = { -brand-name-edge } lar deg også koble den tilknyttede { -brand-name-microsoft }-kontoen din og logge inn for å synkronisere favorittene, historikken, passordene dine og mer mellom datamaskinen din og { -brand-name-ios }- eller { -brand-name-android }-enheter, selv om noen { -brand-name-android }-nettbrett ikke støttes for øyeblikket.
 # Variables:
 #   $attrs (string) - link to home page with additional attributes for analytics
-compare-edge-aside-from-sucking-up-a-lot = Bortsett fra å suge opp mye datakraft, har { -brand-name-edge } som kjører på { -brand-name-chromium } svart på mange brukerers behov for funksjonalitet og funksjoner. Men det er fortsatt mye å ta hensyn til når det gjelder nettleserens personvern. Det er vår vurdering at { -brand-name-firefox } fremdeles er et bedre valg for folk flest å bruke i hverdagen, ikke bare basert på funksjonalitet, men enda viktigere på vår åpenhet i hvordan vi samler inn brukerdata, hva vi samler inn, og hva vi gjør med det. Fordi morselskapet vårt <a { -brand-name-mozilla }>{ -brand-name-mozilla }</a>, er en ideell organisasjon dedikert til Internett-personvern og -frihet, har vi ganske enkelt et annet sett av prioriteringer når det gjelder brukerens data.
+compare-edge-aside-from-sucking-up-a-lot = Bortsett fra å suge opp mye datakraft, har { -brand-name-edge } som kjører på { -brand-name-chromium } svart på mange brukerers behov for funksjonalitet og funksjoner. Men det er fortsatt mye å ta hensyn til når det gjelder nettleserens personvern. Det er vår vurdering at { -brand-name-firefox } fremdeles er et bedre valg for folk flest å bruke i hverdagen, ikke bare basert på funksjonalitet, men enda viktigere på vår åpenhet i hvordan vi samler inn brukerdata, hva vi samler inn, og hva vi gjør med det. Fordi morselskapet vårt <a { $attrs }>{ -brand-name-mozilla }</a>, er en ideell organisasjon dedikert til Internett-personvern og -frihet, har vi ganske enkelt et annet sett av prioriteringer når det gjelder brukerens data.
 compare-edge-the-bottom-line-is-that-while = Hovedpoenget er at selv om vi foreslår at du bruker { -brand-name-firefox }, vil den beste nettleseren for deg til slutt være den som passer dine individuelle behov med utvidelsesstøtte, tilpasning av surfeverktøy, hastighet, personvern og sikkerhet.
