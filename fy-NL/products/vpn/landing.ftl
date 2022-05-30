@@ -130,6 +130,10 @@ vpn-landing-faq-manage-subscription-question-heading = Hoe behear ik myn abonnem
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = As jo al abonnearre binne op { -brand-name-mozilla-vpn }, dan kinne jo op elk winske momint jo soarte fan abonnemint wizigje of <a href="{ $url }">jo abonnemint beheare</a>.
+vpn-landing-faq-download-heading = Hoe download ik { -brand-name-mozilla-vpn } as ik al abonnearre bin?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Besykje de <a { $attrs }>downloadside</a> om { -brand-name-mozilla-vpn } op jo apparaat te ynstallearjen en meld jo dernei oan mei jo { -brand-name-firefox-account }.
 vpn-landing-faq-link = Mear faakstelde fragen lêze
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/

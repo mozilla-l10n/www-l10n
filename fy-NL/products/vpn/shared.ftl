@@ -116,6 +116,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Wat is in IP-adres?
 vpn-subnav-when-to-use-a-vpn = Wannear in VPN brûke
 vpn-subnav-vpn-vs-proxy = VPN fersus proxy
+vpn-subnav-subscribe = Abonnearje op { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
