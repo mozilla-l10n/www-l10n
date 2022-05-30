@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
@@ -26,4 +26,4 @@ browsers-chromebook-install-firefox-from = Εγκατάσταση του { -bran
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
-browsers-chromebook-install-firefox-as = Εγκατάσταση του { -brand-name-firefox } ως εφαρμογή { -brand-name-linux }: αυτή η μέθοδος απαιτεί λίγο περισσότερα βήματα, αλλά αξίζει τον κόπο. Αν εγκαταστήσετε το { -brand-name-firefox } ως εφαρμογή { -brand-name-linux }, θα λάβετε το { -brand-name-firefox } για υπολογιστές μαζί με όλες τις λειτουργίες του, όπως Ενισχυμένη προστασία από καταγραφή, ενσωματωμένη διαχείριση κωδικών πρόσβασης, πρόσβαση σε χιλιάδες πρόσθετα (όπως το UBlock Origin) και διάφορα θέματα για την προσαρμογή του προγράμματος περιήγησής σας. <a{ $url }>Μάθετε περισσότερα για την εγκατάσταση του { -brand-name-firefox } για υπολογιστές σε { -brand-name-chromebook }</a>.
+browsers-chromebook-install-firefox-as = Εγκατάσταση του { -brand-name-firefox } ως εφαρμογή { -brand-name-linux }: αυτή η μέθοδος απαιτεί λίγο περισσότερα βήματα, αλλά αξίζει τον κόπο. Αν εγκαταστήσετε το { -brand-name-firefox } ως εφαρμογή { -brand-name-linux }, θα λάβετε το { -brand-name-firefox } για υπολογιστές μαζί με όλες τις λειτουργίες του, όπως Ενισχυμένη προστασία από καταγραφή, ενσωματωμένη διαχείριση κωδικών πρόσβασης, πρόσβαση σε χιλιάδες πρόσθετα (όπως το UBlock Origin) και διάφορα θέματα για την προσαρμογή του προγράμματος περιήγησής σας. <a { $url }>Μάθετε περισσότερα για την εγκατάσταση του { -brand-name-firefox } για υπολογιστές σε { -brand-name-chromebook }</a>.
