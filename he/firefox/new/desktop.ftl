@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -99,7 +99,7 @@ firefox-desktop-download-almost-there = כמעט סיימנו!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = רק נשאר להשלים את <strong>ההתקנה</strong> של { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-windows = רק נשאר </strong>להריץ</strong> את קובץ ההתקנה שהורד.
+firefox-desktop-download-now-windows = רק נשאר <strong>להריץ</strong> את קובץ ההתקנה שהורד.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = רק נשאר <strong>לפתוח</strong> את הקובץ שהורד.
 # Variables:
@@ -116,4 +116,5 @@ firefox-desktop-download-youre-using-an-insecure-outdated = מערכת ההפע�
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = ההורדה שלך אמורה להתחיל אוטומטית. לא התחילה? <a id="{ $id }" href="{ $fallback_url }">אפשר לנסות להוריד שוב</a>
 firefox-new-firefox-is-more-than-a-browser = ‏{ -brand-name-firefox } הוא יותר מדפדפן.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ההורדה שלך הופסקה, אבל לא הכל אבוד.
