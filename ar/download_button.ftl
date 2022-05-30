@@ -21,6 +21,9 @@ download-button-mozilla-no-longer-provides = لم تَعد <a href="{ $url }">{ 
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = يُرجى اتباع <a href="{ $url }">هذه التعليمات</a> لتثبيت { -brand-name-firefox }.
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
+download-button-your-system-does-not = لا يفي نظامُك <a href="{ $url }">بمتطلبات</a> تشغيل { -brand-name-firefox }.
 
 download-button-firefox-other-platforms = { -brand-name-firefox } للمنصات واللغات الأخرى.
 download-button-update-your-firefox = حدِّث { -brand-name-firefox }
