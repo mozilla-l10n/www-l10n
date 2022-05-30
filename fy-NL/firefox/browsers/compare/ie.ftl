@@ -20,7 +20,7 @@ compare-ie-if-you-havent-moved-on-from-using = As jo { -brand-name-ie } noch net
 compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } stipet gjin nije ûntwikkelingen mear foar { -brand-name-ie }. Dêrtroch binne feilichheidsproblemen oan de oarder fan de dei. { -brand-name-microsoft } jout iepenlik ta dat elke ferzje fan { -brand-name-ie } kwetsber is.
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/legacy-browser-support-extension-windows with additional attributes for analytics
-compare-ie-so-whats-the-solution-if-your = Dus wat is de oplossing as jo bedriuw ferâldere apps brûkt dy’t allinnich yn { -brand-name-ie } wurkje? Us bêste advys is om saken net mei wille te kombinearjen. Wy riede it gebrûk fan de < { $attrs }>Legacy Browser Support-útwreiding</a> foar { -brand-name-windows } oan. Mei dizze útwreiding kinne brûkers in yn it foar definiearre set fan URL’s yn { -brand-name-ie } iepenje en by it navigearjen nei in oar domein weromskeakelje nei { -brand-name-firefox }.
+compare-ie-so-whats-the-solution-if-your = Dus wat is de oplossing as jo bedriuw ferâldere apps brûkt dy’t allinnich yn { -brand-name-ie } wurkje? Us bêste advys is om saken net mei wille te kombinearjen. Wy riede it gebrûk fan de <a { $attrs }>Legacy Browser Support-útwreiding</a> foar { -brand-name-windows } oan. Mei dizze útwreiding kinne brûkers in yn it foar definiearre set fan URL’s yn { -brand-name-ie } iepenje en by it navigearjen nei in oar domein weromskeakelje nei { -brand-name-firefox }.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
 #   $privacy (string) - link to /privacy/firefox/ with additional attributes for analytics
