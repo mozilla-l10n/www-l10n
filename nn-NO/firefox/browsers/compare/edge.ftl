@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
@@ -11,6 +11,7 @@ compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } mot { -br
 compare-edge-compare-microsoft-edge-to-the = Samanlikn { -brand-name-microsoft } { -brand-name-edge } med { -brand-name-firefox-browser } for å finne ut kva for ein som er den beste nettlesaren for deg.
 # Main title.
 compare-edge-comparing-firefox-browser-with = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-microsoft } { -brand-name-edge }
+# Obsolete string
 compare-edge-with-windows-10-microsoft-introduced = Med { -brand-name-windows } 10 introduserte { -brand-name-microsoft } sin { -brand-name-edge }-nettlesar for å konkurrere med { -brand-name-firefox } og { -brand-name-chrome } noko som gjer han til standardnettlesar førehandsinstallert på millionar av selde PC-ar. Trass i dette, var brukarane trege til å ta han i bruk og { -brand-name-microsoft } kunngjorde til slutt planear om å relansere { -brand-name-edge } som ein { -brand-name-chromium }-basert nettlesar (der { -brand-name-chromium } sjølvsagt er { -brand-name-google } sit nettlesarprosjekt basert på open kjeldekode).
 compare-edge-here-well-compare-our-firefox = Her samanliknar vi { -brand-name-firefox-browser } med den { -brand-name-chromium }-baserte { -brand-name-microsoft } { -brand-name-edge } når det gjeld personvern, nytte og portabilitet, for å hjelpe deg med å få ei betre forståing av kva for ein nettleser som passar best til dine behov og preferansar.
 # "SmartScreen" and "Windows Hello" are brand names.
@@ -50,5 +51,5 @@ compare-edge-edge-also-allows-you-to-connect = { -brand-name-edge } lèt deg ogs
 compare-edge-edge-also-allows-you-to-fallback = { -brand-name-edge } lèt deg også kople den tilknytta { -brand-name-microsoft }-kontoen din og logge inn for å synkronisere favorittane, historikken, passorda dine og meir mellom datamaskina di og { -brand-name-ios }- eller { -brand-name-android }-einingar, sjølv om enkelte { -brand-name-android }-nettbrett for tida ikkje er støtta.
 # Variables:
 #   $attrs (string) - link to home page with additional attributes for analytics
-compare-edge-aside-from-sucking-up-a-lot = Bortsett fra å suge opp mykje datakraft, har { -brand-name-edge } som køyrer på { -brand-name-chromium } svart på mange brukarar sitt behov for funksjonalitet og funksjonar. Men det er framleis mykje å ta omsyn til når det gjeld personvernet til nettlesaren. Det er vår vurdering at { -brand-name-firefox } framleis er eit betre val for folk flest å bruke i kvardagen, ikkje berre basert på funksjonalitet, men endå viktigare på openheita vår i korleis vi samlar inn brukardata, kva vi samlar inn, og kva vi gjer med dei. Fordi morselskapet vårt <a { -brand-name-mozilla }>{ -brand-name-mozilla }</a>, er ein ideell organisasjon dedikert til Internett-personvern og -fridom har vi ganske enkelt eit anna sett av prioriteringar når det gjeld brukaren sine data.
+compare-edge-aside-from-sucking-up-a-lot = Bortsett fra å suge opp mykje datakraft, har { -brand-name-edge } som køyrer på { -brand-name-chromium } svart på mange brukarar sitt behov for funksjonalitet og funksjonar. Men det er framleis mykje å ta omsyn til når det gjeld personvernet til nettlesaren. Det er vår vurdering at { -brand-name-firefox } framleis er eit betre val for folk flest å bruke i kvardagen, ikkje berre basert på funksjonalitet, men endå viktigare på openheita vår i korleis vi samlar inn brukardata, kva vi samlar inn, og kva vi gjer med dei. Fordi morselskapet vårt <a { $attrs }>{ -brand-name-mozilla }</a>, er ein ideell organisasjon dedikert til Internett-personvern og -fridom har vi ganske enkelt eit anna sett av prioriteringar når det gjeld brukaren sine data.
 compare-edge-the-bottom-line-is-that-while = Hovudpoenget er at sjølv om vi føreslår at du brukar { -brand-name-firefox }, vil den beste nettlesaren for deg til slutt vere den som passar dine individuelle behov med utvidingsstøtte, tilpassing av surfeverktøy, fart, personvern og sikkerheit.
