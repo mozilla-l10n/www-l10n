@@ -70,6 +70,7 @@ manifesto-details-as-a-result-of = À partir de cette démarche, nous avons éla
 manifesto-details-the-goals-for = Les buts du Manifeste sont les suivants :
 manifesto-details-articulate-a-vision = élaborer un idéal d’Internet que les participants au Projet { -brand-name-mozilla } veulent que la { -brand-name-mozilla-foundation } s’efforce d’atteindre ;
 manifesto-details-speak-to-people = communiquer avec les personnes, qu’elles aient ou non des qualifications techniques ;
+manifesto-details-make-mozilla-contributors = rendre les personnes qui soutiennent { -brand-name-mozilla } fières de ce que nous faisons et nous motiver à continuer ;
 manifesto-details-provide-a-framework = fournir un canevas à d’autres pour faire avancer cette vision d’Internet.
 manifesto-details-these-principles = Ces principes ne se concrétiseront pas d’eux-mêmes. Des personnes sont nécessaires pour rendre Internet ouvert et participatif — des personnes qui agissent en tant qu’individus, qui travaillent ensemble dans des groupes et qui en mènent d’autres. La { -brand-name-mozilla-foundation } est partie prenante pour intégrer ces principes dans le Manifeste { -brand-name-mozilla }. Nous invitons chacun à nous rejoindre et à faire d’Internet un lieu encore meilleur pour tout le monde.
 manifesto-details-principles = Principes
