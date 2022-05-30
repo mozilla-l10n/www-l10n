@@ -145,6 +145,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = IP アドレスとは？
 vpn-subnav-when-to-use-a-vpn = VPN を使うべき場面
 vpn-subnav-vpn-vs-proxy = VPN とプロキシの比較
+vpn-subnav-subscribe = { -brand-name-mozilla-vpn } をサブスクライブ
 
 ## VPN Affiliate cookie notice
 
@@ -153,5 +154,6 @@ vpn-subnav-vpn-vs-proxy = VPN とプロキシの比較
 vpn-shared-affiliate-notification-message = 当社は、{ -brand-name-mozilla-vpn } に誘導したアフィリエイトパートナーを把握するために Cookie を使用しています。個人を特定できる情報をパートナーと共有することはありません。<a { $attrs }>プライバシーポリシー</a>をご覧ください。
 
 vpn-shared-affiliate-notification-reject = 拒否する
+vpn-shared-affiliate-notification-ok = OK
 
 ##

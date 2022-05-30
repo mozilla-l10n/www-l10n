@@ -145,6 +145,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Apa itu alamat IP?
 vpn-subnav-when-to-use-a-vpn = Kapan harus menggunakan VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Proxy
+vpn-subnav-subscribe = Berlangganan { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
@@ -153,5 +154,6 @@ vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 vpn-shared-affiliate-notification-message = Kami menggunakan kuki untuk mengetahui mitra afiliasi mana yang mengarahkan Anda ke { -brand-name-mozilla-vpn }. Kami tidak membagikan informasi identitas pribadi kepada mitra kami. Baca <a { $attrs }>Kebijakan Privasi</a> kami.
 
 vpn-shared-affiliate-notification-reject = Tolak
+vpn-shared-affiliate-notification-ok = Oke
 
 ##
