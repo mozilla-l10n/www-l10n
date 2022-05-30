@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
@@ -27,7 +27,7 @@ features-fingerprinting-fingerprinting-is-bad = Fingerprinting is slecht voor he
 # $url_has (string) - link to https://www.cosic.esat.kuleuven.be/fpdetective/#paper
 # $url_steadily (string) - link to https://webtransparency.cs.princeton.edu/webcensus/
 # $url_increased (string) - link to https://sensor-js.xyz/
-features-fingerprinting-the-practice-of = Door fingerprinten kunt u <a { $url_tracked }>maandenlang worden gevolgd</a>, zelfs wanneer u uw browseropslag leegmaakt of de privénavigatie gebruikt, zonder rekening te houden met duidelijke aanwijzingen van u dat u dat niet wilt worden gevolgd. Ondanks een vrijwel volledige overeenkomst tussen <a { $url_standards }>normstellende</a> <a { $url_bodies }>instanties</a> en <a { $url_browser }>browser</a>< a { $url_vendors }>leveranciers</a> dat fingerprinting <a { $url_harmful }>schadelijk</a> is, <a { $url_has }>is</a> het gebruik ervan op internet in het afgelopen decennium <a { $url_steadily }>gestaag</a> <a { $url_increased }>toegenomen</a>.
+features-fingerprinting-the-practice-of = Door fingerprinten kunt u <a { $url_tracked }>maandenlang worden gevolgd</a>, zelfs wanneer u uw browseropslag leegmaakt of de privénavigatie gebruikt, zonder rekening te houden met duidelijke aanwijzingen van u dat u dat niet wilt worden gevolgd. Ondanks een vrijwel volledige overeenkomst tussen <a { $url_standards }>normstellende</a> <a { $url_bodies }>instanties</a> en <a { $url_browser }>browser</a> <a { $url_vendors }>leveranciers</a> dat fingerprinting <a { $url_harmful }>schadelijk</a> is, <a { $url_has }>is</a> het gebruik ervan op internet in het afgelopen decennium <a { $url_steadily }>gestaag</a> <a { $url_increased }>toegenomen</a>.
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = De nieuwste { -brand-name-firefox }-browser beschermt u tegen fingerprinten door verzoeken van derden aan bedrijven waarvan bekend is dat ze aan fingerprinten deelnemen te blokkeren. We hebben hard gewerkt om deze privacybescherming mogelijk te maken zonder de websites die u graag bezoekt slechter te laten werken. (Lees hier meer als u de <a { $url_details }>technische details</a> wilt weten.)
 # $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/

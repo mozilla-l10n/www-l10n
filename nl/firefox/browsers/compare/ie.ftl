@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
@@ -20,7 +20,7 @@ compare-ie-if-you-havent-moved-on-from-using = Als u { -brand-name-ie } nog niet
 compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } ondersteunt geen nieuwe ontwikkelingen meer voor { -brand-name-ie }. Daardoor zijn veiligheidsproblemen aan de orde van de dag. { -brand-name-microsoft } geeft openlijk toe dat elke versie van { -brand-name-ie } kwetsbaar is.
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/legacy-browser-support-extension-windows with additional attributes for analytics
-compare-ie-so-whats-the-solution-if-your = Dus wat is de oplossing als uw bedrijf verouderde apps gebruikt die alleen in { -brand-name-ie } werken? Ons beste advies is om zaken niet met plezier te combineren. We raden het gebruik van de < { $attrs }>Legacy Browser Support-extensie</a> voor { -brand-name-windows } aan. Met deze extensie kunnen gebruikers een voorgedefinieerde set van URL’s in { -brand-name-ie } openen en bij het navigeren naar een ander domein terugschakelen naar { -brand-name-firefox }.
+compare-ie-so-whats-the-solution-if-your = aDus wat is de oplossing als uw bedrijf verouderde apps gebruikt die alleen in { -brand-name-ie } werken? Ons beste advies is om zaken niet met plezier te combineren. We raden het gebruik van de < { $attrs }>Legacy Browser Support-extensie</a> voor { -brand-name-windows } aan. Met deze extensie kunnen gebruikers een voorgedefinieerde set van URL’s in { -brand-name-ie } openen en bij het navigeren naar een ander domein terugschakelen naar { -brand-name-firefox }.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
 #   $privacy (string) - link to /privacy/firefox/ with additional attributes for analytics
