@@ -22,6 +22,9 @@
 -brand-name-netscape = Netscape
 -brand-name-twitter = تويتر
 -brand-name-wireguard = WireGuard
+-brand-name-linkedin = لِنكد‌إن
+-brand-name-tiktok = تيك توك
+-brand-name-spotify = سبوتيفاي
 
 ## Firefox browsers
 
