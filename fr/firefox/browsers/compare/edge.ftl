@@ -22,7 +22,13 @@ compare-edge-here-well-compare-our-firefox = Nous comparerons ici notre { -brand
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = { -brand-name-edge } est intégré à la plateforme { -brand-name-windows } 10 et s'exécute dans un environnement sandbox, ce qui signifie qu'il isole les programmes et empêche les logiciels malveillants d'espionner votre ordinateur. Il dispose d'un SmartScreen intégré qui analyse la réputation des sites que vous visitez et bloque les sites suspects. Pour renforcer la confidentialité, { -brand-name-edge } vous permet d'utiliser la biométrie ou un code PIN avec { -brand-name-windows } Hello, au lieu de mots de passe pour vous authentifier en ligne.
 
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-edge-at-firefox-we-pride-ourselves = Chez { -brand-name-firefox }, c’est avec beaucoup de fierté que nous protégeons la sécurité et la confidentialité de nos utilisateurs et utilisatrices. Notre <a { $attrs }>politique de confidentialité</a> se veut transparente et rédigée dans un langage simple. À vrai dire, nous avons fourni beaucoup d’efforts pour qu’elle soit claire et facile à lire. Grâce à la protection renforcée contre le pistage, nous bloquons par défaut plus de 2 000 traqueurs. Les traqueurs sont ces petits morceaux de code qui tentent de reconstituer votre activité en ligne sur différents sites pour créer une image composite et détaillée de qui vous êtes, compromettant ainsi votre vie privée pour proposer de meilleures publicités ciblées.
 
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-edge-at-firefox-our-privacy-fallback = La <a { $attrs }>politique de confidentialité</a> de { -brand-name-firefox } est transparente et simple. À vrai dire, nous avons fourni beaucoup d’efforts pour qu’elle soit claire et facile à lire. Nous sommes fiers de protéger la sécurité et la confidentialité de nos utilisateurs et utilisatrices. Grâce à la protection renforcée contre le pistage, nous bloquons par défaut plus de 2 000 traqueurs. Les traqueurs sont ces petits morceaux de code qui tentent de reconstituer votre activité en ligne sur différents sites pour créer une image composite et détaillée de qui vous êtes, compromettant ainsi votre vie privée pour proposer de meilleures publicités ciblées.
 
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
