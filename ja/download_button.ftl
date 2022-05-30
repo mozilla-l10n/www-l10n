@@ -21,6 +21,9 @@ download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mo
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = { -brand-name-firefox } をインストールするには、<a href="{ $url }">こちらの手順に従ってください</a>。
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
+download-button-your-system-does-not = お使いのシステムが { -brand-name-firefox } を実行するための<a href="{ $url }">要件</a>を満たしていません。
 
 download-button-firefox-other-platforms = その他のプラットフォームおよび言語用 { -brand-name-firefox }
 download-button-update-your-firefox = { -brand-name-firefox } をアップデート
