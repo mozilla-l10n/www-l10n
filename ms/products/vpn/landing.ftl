@@ -173,6 +173,12 @@ vpn-landing-faq-manage-subscription-question-heading = Bagaimana saya mahu mengu
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Jika anda sudah pun melanggan { -brand-name-mozilla-vpn }, anda boleh mengubah pelan atau <a href="{ $url }">uruskan langganan anda</a> bila-bila masa.
 
+vpn-landing-faq-download-heading = Bagaimana untuk muat turun { -brand-name-mozilla-vpn } apabila saya sudah pun melanggan?
+
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Layari <a { $attrs }>laman muat turun</a> untuk memasang { -brand-name-mozilla-vpn } pada peranti anda, dan kemudian log masuk menggunakan { -brand-name-firefox-account } anda.
+
 vpn-landing-faq-link = Lihat lain-lain Soalan Lazim
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
