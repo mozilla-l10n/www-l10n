@@ -7,8 +7,14 @@
 
 whatsnew-page-title = Wat is der nij yn { -brand-name-firefox } – Mear privacy, mear beskerming.
 whatsnew-page-description = Kom yn aksje tsjin in yndustry dy’t jo gegevens oan oare partijen ferkeapet. Tûk en feilich online mei technology dy’t oan jo kant stiet.
+whatsnew-firefox = { -brand-name-firefox }
+# Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification-v2 = Lokwinske! Jo brûke de nijste ferzje fan { -brand-name-firefox }.
+# Obsolete string
 whatsnew-up-to-date-notification = Lokwinske! Jo brûke de nijste ferzje fan { -brand-name-firefox-browser }.
+whatsnew-out-of-date-notification-v2 = Der is in noch nijere ferzje fan { -brand-name-firefox } beskikber. Start opnij om by te wurkjen.
+# Obsolete string
 whatsnew-out-of-date-notification = Der is in fernijing fan { -brand-name-firefox-browser } beskikber. Start opnij om de nije ferzje te ynstallearjen.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
