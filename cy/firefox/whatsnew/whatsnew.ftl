@@ -1,14 +1,19 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
 whatsnew-page-title = Beth sy'n newydd gyda { -brand-name-firefox } - Rhagor o breifatrwydd, rhagor o ddiogelu.
 whatsnew-page-description = Gwnewch eich safiad yn erbyn diwydiant sy'n gwerthu'ch data i drydydd partïon. Cadwch yn glyfar ac yn ddiogel ar-lein gyda thechnoleg sy'n ymladd drosoch chi.
+whatsnew-firefox = { -brand-name-firefox }
+# Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification-v2 = Llongyfarchiadau! Rydych chi'n defnyddio'r fersiwn ddiweddaraf o { -brand-name-firefox }.
+# Obsolete string
 whatsnew-up-to-date-notification = Llongyfarchiadau! Rydych chi'n defnyddio'r fersiwn ddiweddaraf o { -brand-name-firefox-browser }.
+# Obsolete string
 whatsnew-out-of-date-notification = Mae { -brand-name-firefox-browser } mwy newydd ar gael. Ailgychwynnwch i ddiweddaru.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
