@@ -36,7 +36,7 @@ vpn-shared-features-protection = Védelem akár { $devices } eszköznek
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-shared-features-server-countries = Csatlakozzon több mint { $server } kiszolgálóhoz, több mint { $countries } országban
+vpn-shared-features-server-countries = Csatlakozzon több mint { $servers } kiszolgálóhoz, több mint { $countries } országban
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = Jelenleg { $countries } országban érhető el. Hamarosan további régiók is várhatóak.
