@@ -131,13 +131,18 @@ newsletters-the-supplied-link-has-expired-long = انتهت صلاحية الر�
 newsletters-success-an-email-has-been-sent = نجاح! تم إرسال بريد إلكتروني إليك يحتوي على رابط مركز التفضيلات الخاص بك. شكراً!
 newsletters-this-is-not-a-valid-email = هذا ليس عنوان بريد إلكتروني صالح. يُرجى التحقق من الإملاء.
 newsletters-you-send-too-many-emails = ترسلون الكثير من الرسائل الإلكترونية.
+newsletters-your-content-wasnt-relevant = ليس لمُحتواكم صلة بيّ.
 newsletters-your-email-design = تصميم رسائلكم صعب القراءة.
+newsletters-i-didnt-sign-up = لم أشترك في هذا.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = عنوان البريد الإلكتروني هذا ليس مدرجًا في نظامنا. يُرجى التحقق مرتين من عنوانك أو <a href="{ $url }">اشترك في الرسائل الإخبارية.</a>
 
+newsletters-im-keeping-in-touch-v2 = أنا على تواصل مع { -brand-name-mozilla } على { -brand-name-twitter } كَحل بديل.
 
+# Obsolete string
+newsletters-im-keeping-in-touch = أنا على تواصل مع { -brand-name-mozilla } على { -brand-name-facebook } و { -brand-name-twitter } كحل بديل.
 
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = سجّل وطالع،<br> وابق مطلعًا.
@@ -173,6 +178,8 @@ newsletters-addon-development = تطوير الإضافات
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = رسائل المطوّر الإخبارية
 
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = يُسلط دليل المُطوّر الضوء على ابتكارات منصة الويب وأفضل الممارسات والوثائق الجديدة والمزيد.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Drumbeat Newsgroup
@@ -321,6 +328,8 @@ newsletters-join-mozilla = انضم إلى { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Maker Party
 
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = احتفال { -brand-name-mozilla } الأكبر بالابتكار والتعلم على الويب.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
@@ -349,6 +358,8 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = إعلانات خاصة عن احتفالنا السنوي المُخصّص لِصياغة مستقبل الويب المفتوح.
 
+# Obsolete string
+newsletters-special-announcements-about-mozilla = إعلانات خاصة حول احتفال { -brand-name-mozilla } العملي والسنوي المكرّس لصياغة مستقبل الويب المفتوح.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = أخبار { -brand-name-mozilla }
@@ -374,6 +385,8 @@ newsletters-updates-from-our-global = تحديثات من مجتمعنا الع�
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = نبني تكنولوجيا المستقبل. تعال واستكشف معنا.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
