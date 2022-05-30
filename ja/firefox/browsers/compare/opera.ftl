@@ -25,6 +25,7 @@ compare-opera-as-far-as-actual-privacy-protections = { -brand-name-opera } ブ�
 # Variables:
 #   $attrs (string) - link to https://blog.mozilla.org/blog/2019/09/03/todays-firefox-blocks-third-party-tracking-cookies-and-cryptomining-by-default/ with additional attributes for analytics
 compare-opera-with-the-latest-version-of = { -brand-name-firefox } の最新バージョンでは、<a { $attrs }>強化型トラッキング防止</a>が既定でオンになっているため、トラッカーから身を守るために設定をいじる必要がありません。強化型トラッキング防止では、ウェブ上でユーザーにつきまとう何千ものサードパーティトラッカーを { -brand-name-firefox } がアクティブにブロックします。ウェブ閲覧時に、{ -brand-name-firefox } がサードパーティ Cookie やソーシャルメディアトラッカー、フィンガープリント採取ツール、暗号通貨採掘をブロックする頻度を示します。
+compare-opera-we-make-firefox-for-people = { -brand-name-firefox } は、個人のプライバシーとセキュリティを気にかけるユーザーのために開発されました。そのため、ユーザーに関する情報はほぼ収集せず、収集する情報の用途は透明に明記しています。{ -brand-name-opera } の場合、プライバシーの観点からどのように運用されているかを知るのは困難です。堅牢なプライバシー機能を揃えているものの、開発元自身がデータをどのように収集、共有しているかについては不透明です。{ -brand-name-firefox } は、ユーザーのプライバシー保護について、一貫した主張と行動を通しています。
 
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
