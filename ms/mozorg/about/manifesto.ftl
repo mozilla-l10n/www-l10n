@@ -70,6 +70,7 @@ manifesto-details-as-a-result-of = Hasil usaha ini, kami telah mengenal pasti pr
 manifesto-details-the-goals-for = Matlamat Manifesto ini ialah:
 manifesto-details-articulate-a-vision = menjelaskan satu visi internet di mana peserta { -brand-name-mozilla } mahukan { -brand-name-mozilla-foundation } turuti;
 manifesto-details-speak-to-people = bercakap dengan pengguna sama ada mereka mempunyai latar belakang teknikal atau tidak;
+manifesto-details-make-mozilla-contributors = menjadikan penyumbang { -brand-name-mozilla } bangga dengan apa yang mereka laksanakan dan memotivasikan kami untuk terus maju; dan
 manifesto-details-provide-a-framework = membekalkan rangka kerja untuk pengguna lain memajukan lagi visi internet ini.
 manifesto-details-these-principles = Prinsip ini tidak akan dicapai dengan sendirinya. Tenaga manusia diperlukan bagi menjadikan internet terbuka dan untuk semua - pengguna bertindak sebagai individu, bekerjasama dalam kumpulan, dan memimpin yang lain. { -brand-name-mozilla-foundation } komited untuk memajukan prinsip-prinsip yang dijelaskan dalam Manifesto { -brand-name-mozilla }. Kami menjemput lebih ramai lagi untuk menyertai kami dan menjadikan internet sebuah tempat yang lebih baik untuk semua orang.
 manifesto-details-principles = Prinsip-prinsip
