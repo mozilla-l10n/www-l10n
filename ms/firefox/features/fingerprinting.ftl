@@ -7,6 +7,8 @@
 # page title
 features-fingerprinting-what-is-fingerprinting-title = Apakah pengecapan jari dan mengapa anda perlu menyekatnya
 
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = Pengecapan jari ialah sejenis penjejakan dalam talian yang lebih menceroboh berbanding dengan penjejakan berasaskan kuki yang biasa — itulah sebab { -brand-name-firefox-browser } menyekatnya.
 
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } menyekat pengecapan jari
 features-fingerprinting-ditch-the-sticky = Buang iklan yang mengekori anda ke sana ke mari dengan penyekat pengecapan jari terbina dalam pelayar { -brand-name-firefox }.
@@ -16,6 +18,7 @@ features-fingerprinting-every-fingerprint = Setiap pengecapan jari adalah unik.
 features-fingerprinting-download-firefox = Muat turun { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Apakah maksud pengecapan jari?
 features-fingerprinting-fingerprinting-is-a = Pengecapan jari ialah sejenis penjejakan dalam talian yang lebih bersifat menceroboh berbanding dengan penjejakan berasaskan kuki yang biasa. Pengecapan jari digital dicipta apabila syarikat membuat profil unik anda berdasarkan perkakasan, perisian, tambahan malahan pilihan komputer anda. Tetapan anda seperti skrin yang anda gunakan, fon yang dipasang pada komputer anda termasuk pilihan pelayar web anda semuanya boleh digunakan untuk mencipta pengecapan jari.
+features-fingerprinting-if-you-have = Jika anda mempunyai komputer riba, PC atau telefon pintar yang digunakan oleh ramai orang, mungkin lebih sukar untuk mengenal pasti secara unik peranti anda melalui pengenalan identiti. Namun, lebih terperinci add-on yang anda guna, jenis tulisan dan tetapan yang anda ada, lebih mudah untuk anda dijejaki. Syarikat-syarikat ini boleh menggunakan kombinasi maklumat yang unik ini untuk mencipta pengenalan identiti anda. Sebab itulah { -brand-name-firefox } menyekat pengenalan identiti yang kami temui, supaya anda masih boleh menggunakan sambungan, tema dan penyesuaian kegemaran anda tanpa diekori oleh iklan.
 features-fingerprinting-fingerprinting-is-bad = Pengecapan jari tidak bagus untuk web
 
 # $url_tracked (string) - link to https://hal.inria.fr/hal-01652021/document
