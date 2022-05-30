@@ -25,5 +25,5 @@ features-translate-if-you-are = Om du redan använder { -brand-name-firefox } ka
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-with-the-to = *Med To { -brand-name-google } Translate-tillägget kan du för närvarande översätta <a { $attrs }>dessa språk</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a{ $attrs }> och fler!</a>
+features-translate-and-more = <a { $attrs }> och fler!</a>
 features-translate-for-everyone = Firefox är för alla

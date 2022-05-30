@@ -30,7 +30,7 @@ firefox-browsers-join-firefox-and-get-the-most = Ddu ɣer { -brand-name-firefox 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Tesɛiḍ yakan amiḍan? <a { $fxa_attr }>Jerred deg </a> neɣ <a{ $accounts_attr }>issin ugar</a>ɣef tmerna ɣer Firefox.
+firefox-browsers-already-have-an-account-sign = Tesɛiḍ yakan amiḍan? <a { $fxa_attr }>Jerred deg </a> neɣ <a { $accounts_attr }>issin ugar</a>ɣef tmerna ɣer Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }

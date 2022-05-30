@@ -25,7 +25,7 @@ firefox-browsers-join-firefox-and-get-the-most = Tawtu { -brand-name-firefox } n
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Aɗa jogii konte kisa? <a { $fxa_attr }<Seŋo</a> walla <a{ $accounts_attr }>ɓeydu humpito</a>baɗte tawtugol Firefox.
+firefox-browsers-already-have-an-account-sign = Aɗa jogii konte kisa? <a { $fxa_attr }<Seŋo</a> walla <a { $accounts_attr }>ɓeydu humpito</a>baɗte tawtugol Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }

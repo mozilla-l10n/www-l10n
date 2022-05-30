@@ -29,7 +29,7 @@ browsers-mobile-join-firefox-and-get-the-most = Ddu ɣer { -brand-name-firefox }
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = Tesɛiḍ yakan amiḍan? <a { $fxa_attr }>Jerred deg </a> neɣ <a{ $accounts_attr }>issin ugar</a>ɣef tmerna ɣer { -brand-name-firefox }.
+browsers-mobile-already-have-an-account-sign = Tesɛiḍ yakan amiḍan? <a { $fxa_attr }>Jerred deg </a> neɣ <a { $accounts_attr }>issin ugar</a>ɣef tmerna ɣer { -brand-name-firefox }.
 browsers-mobile-download = Sader
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

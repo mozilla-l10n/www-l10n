@@ -30,4 +30,4 @@ firefox-products-join-firefox-and-get-the-most = Tawtu { -brand-name-firefox } n
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Aɗa jogii konte kisa? <a { $fxa_attr }<Seŋo</a> walla <a{ $accounts_attr }>ɓeydu humpito</a>baɗte tawtugol { -brand-name-firefox }.
+firefox-products-already-have-an-account-sign = Aɗa jogii konte kisa? <a { $fxa_attr }<Seŋo</a> walla <a { $accounts_attr }>ɓeydu humpito</a>baɗte tawtugol { -brand-name-firefox }.

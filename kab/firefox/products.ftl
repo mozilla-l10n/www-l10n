@@ -49,6 +49,6 @@ firefox-products-join-firefox-and-get-the-most = Ddu ɣer { -brand-name-firefox 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Tesɛiḍ yakan amiḍan? <a { $fxa_attr }>Jerred deg </a> neɣ <a{ $accounts_attr }>issin ugar</a>ɣef tmerna ɣer { -brand-name-firefox }.
+firefox-products-already-have-an-account-sign = Tesɛiḍ yakan amiḍan? <a { $fxa_attr }>Jerred deg </a> neɣ <a { $accounts_attr }>issin ugar</a>ɣef tmerna ɣer { -brand-name-firefox }.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Iminig-ik n tbaḍnit yettwagen i ummesten awurman mgal aḍfar akked usewḥel n udellel.
