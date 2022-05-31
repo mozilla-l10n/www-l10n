@@ -119,6 +119,9 @@ vpn-subnav-vpn-vs-proxy = VPN ali posredniški strežnik?
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Piškotke uporabljamo, da izvemo, preko katerega od naših partnerjev ste izvedeli za { -brand-name-mozilla-vpn }. S partnerji ne delimo nobenih podatkov, na podlagi katerih bi vas bilo možno prepoznati. Preberite našo <a { $attrs }>politiko zasebnosti</a>.
 vpn-shared-affiliate-notification-reject = Zavrni
 vpn-shared-affiliate-notification-ok = V redu
 

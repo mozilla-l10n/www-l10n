@@ -53,3 +53,4 @@ features-index-translate-the-web = Prevedite splet
 features-index-translate-more-than = Prevedite strani v preko 100 jezikih v svoj jezik neposredno v { -brand-name-firefox-browser(sklon: "mestnik") } – preprosteje kot kdajkoli prej.
 features-index-translate-to-your = Prevedite v svoj jezik
 features-index-picture-in-picture = Slika v sliki
+features-index-got-things-to-do = Imate opravke, čeprav bi raje gledali videoposnetke? { -brand-name-firefox }ova možnost slike v sliki vam omogoča oboje hkrati.

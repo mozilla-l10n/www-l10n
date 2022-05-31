@@ -23,6 +23,7 @@ browsers-mobile-the-more-you-use = Več ko ga uporabljate, pametnejši postane. 
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Pridobite izboljšano zaščito pred sledenjem in si nastavite { -brand-name-firefox } za privzeti, priročni, večni brskalnik na svoji napravi { -brand-name-iphone } ali { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = Potrebujete preprost, posebej hiter mobilni brskalnik z zmožnostmi zasebnosti višjega razreda? { -brand-name-firefox-focus } samodejno izbriše vso zgodovino brskanja od trenutka, ko odprete brskalnik, do trenutka, ko ga zaprete.
 browsers-mobile-compare-mobile-browsers = Primerjajte mobilne brskalnike
 browsers-mobile-see-how-firefox-stacks-up = Oglejte si, kako se { -brand-name-firefox } odreže v primerjavi z drugimi priljubljenimi brskalniki na področjih zasebnosti, zmogljivosti in sinhronizacije.
 browsers-mobile-compare = Primerjaj

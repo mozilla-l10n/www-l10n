@@ -13,6 +13,7 @@ vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } odgovarja na vsa
 vpn-ip-address-an-example-of-an-ip = Primer naslova IP, ki sestoji iz štirih številk, ločenih s pikami: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Če bi preverili, kakšen je vaš naslov IP, bi bil videti podobno temu.
 vpn-ip-address-does-your-ip = Ali se vaš naslov IP spreminja?
+vpn-ip-address-yes-even-if = Da. Tudi če uporabljate internet samo doma, se vaš hišni naslov IP lahko spremeni. Spremembo naslova IP lahko zahtevate pri svojem ponudniku internetnih storitev (ISP), do spremembe pa lahko pride tudi ob povsem običajnem dejanju, kot je ponovni zagon modema ali usmerjevalnika.
 vpn-ip-address-can-more-than = Ali ima lahko več naprav enak naslov IP?
 vpn-ip-address-this-is-a = To je nekoliko zapleteno vprašanje – odgovor je da in ne. Več naprav si lahko deli isti zunanji (javni) naslov IP, vendar bo vsaka od njih imela svoj lokalni (zasebni) naslov IP. Vaš ponudnik internetnih storitev na primer dodeli vašemu domu en zunanji naslov IP. Ker se z internetom dejansko povezuje vaš usmerjevalnik, je naslov IP dodeljen njemu. Usmerjevalnik nato vsaki napravi, ki je povezana z internetom, dodeli lokalni naslov IP. Zunanjemu svetu je prikazan zunanji naslov IP, medtem ko lokalni naslov IP ni viden zunaj vašega domačega omrežja.
 vpn-ip-address-can-we-run = Ali naslovov IP lahko zmanjka?

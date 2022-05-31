@@ -35,3 +35,4 @@ multi-newsletter-form-checkboxes-legend = Želim informacije o:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation(sklon: "mestnik") }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox(sklon: "mestnik") }
 multi-newsletter-form-checkboxes-error = Prosimo, izberite vsaj eno od možnosti okrožnice.
+multi-newsletter-form-title = Ljubezen do spleta
