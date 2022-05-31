@@ -48,6 +48,7 @@ compare-shared-overall-assessment = Splošna ocena
 compare-shared-the-comparisons-made-here-updated = Primerjava med brskalniki je bila opravljena s privzetimi nastavitvami v sledečih različicah:
 # Obsolete string
 compare-shared-the-comparisons-made-here = Primerjava med brskalniki je bila opravljena v sledečih različicah:
+compare-shared-this-page-updated-semi-quarterly = Ta stran se posodablja enkrat na mesec in pol, da odrazi najnovejše različice, in morda ne odraža vedno najnovejših posodobitev.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
