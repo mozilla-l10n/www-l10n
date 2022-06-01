@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
+best-browser-find-your-best-browser = Открийте най-бързия и сигурен четец.
 best-browser-privacy-speed-and-security = Поверителност, скорост и сигурност.
+best-browser-a-browser-built-for = Четец, създаден да бъде бърз.
+best-browser-a-browser-that-puts = Четец, който поставя безопасността на първо място.
+best-browser-take-control-of-your = Поемете контрола над своя четец.
