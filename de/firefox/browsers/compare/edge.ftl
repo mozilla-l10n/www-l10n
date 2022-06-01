@@ -22,7 +22,13 @@ compare-edge-here-well-compare-our-firefox = In diesem Artikel vergleichen wir {
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = { -brand-name-edge } ist in die { -brand-name-windows }-10-Plattform integriert und läuft in einer „Sandbox“-Umgebung. Das heißt, er isoliert Programme und hindert Malware-Programme daran, Ihren Computer auszuspionieren. Er verfügt über einen integrierten SmartScreen, der den Ruf von besuchten Websites überprüft und verdächtige Sites blockiert. Um den Datenschutz zu verbessern, erlaubt { -brand-name-edge } statt Passwörtern die Nutzung von biometrischen Daten oder einer PIN für die Online-Authentifizierung bei { -brand-name-windows } Hello.
 
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-edge-at-firefox-we-pride-ourselves = Bei { -brand-name-firefox } sind wir stolz darauf, die Daten unserer Nutzer*innen zu schützen und für ihre Sicherheit zu sorgen. Unsere <a { $attrs }>Datenschutzrichtlinie</a> ist transparent und in einfacher Sprache verfasst. Wir haben viel Arbeit hineingesteckt, um sicherzustellen, dass sie so deutlich und einfach zu lesen ist wie möglich. Mit dem jetzt standardmäßig aktivierten verbesserten Tracking-Schutz blocken wir 2000+ Tracker automatisch. Tracker sind kleine Code-Teilchen, die Ihre Aktivitäten über verschiedene Websites hinweg verfolgen und die Einzelteile zu einem ganzen und detaillierten Bild zusammenfügen, das zeigt, wer Sie sind. Ihre Daten werden allein zu dem Zweck kompromittiert, Ihnen zielgerichtetere Anzeigen zu zeigen.
 
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-edge-at-firefox-our-privacy-fallback = Unsere { -brand-name-firefox } <a { $attrs }>Datenschutzrichtlinie</a> ist transparent und in klarer Sprache verfasst. Wir haben viel Arbeit hineingesteckt, um sicherzustellen, dass sie so deutlich und einfach zu lesen ist wie möglich. Wir schützen die Sicherheit und Daten unserer Nutzer*innen mit stolz. Mit dem jetzt standardmäßig aktivierten verbesserten Tracking-Schutz blocken wir 2000+ Tracker automatisch. Tracker sind kleine Code-Teilchen, die Ihre Aktivitäten über verschiedene Websites hinweg verfolgen und die Einzelteile zu einem ganzen und detaillierten Bild zusammenfügen, das zeigt, wer Sie sind. Ihre Daten werden allein zu dem Zweck kompromittiert, Ihnen zielgerichtetere Anzeigen zu zeigen.
 
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
