@@ -7,6 +7,8 @@
 # page title
 features-fingerprinting-what-is-fingerprinting-title = Was ist Fingerprinting und warum sollte man es blockieren?
 
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting ist eine Art von Online-Tracking, das invasiver ist als gewöhnliches Cookie-basiertes Tracking. Deshalb wird es von { -brand-name-firefox-browser } blockiert.
 
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blockiert Fingerprinting
 features-fingerprinting-ditch-the-sticky = Lassen Sie die störenden Werbeanzeigen, die Sie verfolgen, mit dem integrierten Fingerprinting-Blocker des Browsers { -brand-name-firefox } hinter sich.
@@ -16,6 +18,7 @@ features-fingerprinting-every-fingerprint = Jeder Fingerabdruck ist einzigartig.
 features-fingerprinting-download-firefox = { -brand-name-firefox } herunterladen
 features-fingerprinting-what-is-fingerprinting-body = Was ist Fingerprinting?
 features-fingerprinting-fingerprinting-is-a = Fingerprinting ist eine Art von Online-Tracking, das invasiver ist als gewöhnliches Cookie-basiertes Tracking. Ein digitaler Fingerabdruck wird erstellt, wenn ein Unternehmen ein eindeutiges Profil von Ihnen erstellt, das auf Ihrer Computerhardware, -software, Add-ons und sogar Ihren Einstellungen basiert. Ihre Einstellungen wie der von Ihnen verwendete Bildschirm, die auf Ihrem Computer installierten Schriftarten und sogar die Auswahl eines Webbrowsers können zum Erstellen eines Fingerabdrucks verwendet werden.
+features-fingerprinting-if-you-have = Falls Sie einen Laptop, PC oder ein Smartphone gemeinsam mit anderen nutzen, könnte es schwieriger sein, Ihr Gerät durch Fingerprinting zu identifizieren. Allerdings sind Sie leichter zu finden, je mehr einzigartige Add-ons, Fonts und Einstellungen Sie haben. Unternehmen können diese einzigartige Kombination von Informationen dazu nutzen, Ihren Fingerprint zu erstellen. Deshalb blockiert { -brand-name-firefox } bekannte Fingerprinter, damit Sie Ihre Lieblingserweiterungen, Themen und Einstellungen nutzen können, ohne dabei von Werbung verfolgt zu werden.
 features-fingerprinting-fingerprinting-is-bad = Fingerprinting ist schlecht für das Internet
 
 # $url_tracked (string) - link to https://hal.inria.fr/hal-01652021/document
