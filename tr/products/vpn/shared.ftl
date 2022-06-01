@@ -116,6 +116,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = IP adresi nedir?
 vpn-subnav-when-to-use-a-vpn = VPN ne zaman kullanılmalı?
 vpn-subnav-vpn-vs-proxy = VPN mi proxy mi?
+vpn-subnav-subscribe = { -brand-name-mozilla-vpn }’e abone olun
 
 ## VPN Affiliate cookie notice
 
