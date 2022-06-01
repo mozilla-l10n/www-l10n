@@ -173,6 +173,12 @@ vpn-landing-faq-manage-subscription-question-heading = Wie verwalte ich mein Abo
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Wenn du { -brand-name-mozilla-vpn } bereits nutzt, kannst du dein <a href="{ $url }">Abonnement hier verwalten</a> und zum Beispiel deinen Tarif ändern.
 
+vpn-landing-faq-download-heading = Wie lade ich { -brand-name-mozilla-vpn } herunter, wenn ich bereits ein Abonnement habe?
+
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Gehen Sie auf die <a { $attrs }>Download-Seite,</a> um { -brand-name-mozilla-vpn } auf Ihrem Gerät zu installieren und loggen Sie sich dann mit Ihrem { -brand-name-firefox-account } ein.
+
 vpn-landing-faq-link = Weitere Fragen zum Thema
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
