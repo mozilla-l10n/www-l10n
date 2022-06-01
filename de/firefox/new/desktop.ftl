@@ -156,6 +156,7 @@ firefox-desktop-download-questions = Hast du Fragen? Die <a { $attrs }>{ -brand-
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Den Browser hast du schon. Hol dir jetzt noch mehr von { -brand-name-firefox }.
 
+firefox-desktop-download-watch-for-hackers-with-v2 = Halten Sie mit { -brand-name-firefox-monitor } nach Hackern Ausschau, schützen Sie Ihre E-Mail-Adresse mit { -brand-name-firefox-relay } und mehr.
 
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Halte mit { -brand-name-firefox-monitor } nach Hackern und Datenlecks Ausschau, schütze deine Passwörter mit { -brand-name-firefox-lockwise } und mehr.
