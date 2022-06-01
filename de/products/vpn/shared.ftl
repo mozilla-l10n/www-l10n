@@ -145,6 +145,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Was ist eine IP-Adresse?
 vpn-subnav-when-to-use-a-vpn = Wann Sie ein VPN verwenden sollten
 vpn-subnav-vpn-vs-proxy = VPN vs. Proxy
+vpn-subnav-subscribe = { -brand-name-mozilla-vpn } abonnieren
 
 ## VPN Affiliate cookie notice
 
@@ -153,5 +154,6 @@ vpn-subnav-vpn-vs-proxy = VPN vs. Proxy
 vpn-shared-affiliate-notification-message = Wir verwenden Cookies, um zu verstehen, welcher Partner dich zu { -brand-name-mozilla-vpn } geführt hat. Wir geben keine persönlichen und dich identifizierende Informationen an unsere Partner weiter. Lies unsere <a { $attrs }>Datenschutzrichtlinien</a>.
 
 vpn-shared-affiliate-notification-reject = Ablehnen
+vpn-shared-affiliate-notification-ok = OK
 
 ##
