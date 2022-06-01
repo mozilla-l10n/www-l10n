@@ -15,3 +15,5 @@ about-shared-our-products = Unsere Produkte
 about-shared-software-innovations = Software und andere Innovationen, die im Sinne unserer Mission entwickelt werden.
 about-shared-get-involved = Beteiligen Sie sich
 about-shared-volunteer = Werden Sie freiwilliger Mitwirkender in verschiedenen Bereichen.
+vision-for-the-web = { -brand-name-mozilla }s Vision für das Internet
+read-about-our-vision = Lesen Sie über unsere Vision für das Internet und wie wir diese Vision Wirklichkeit werden lassen wollen.
