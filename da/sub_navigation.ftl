@@ -53,5 +53,7 @@ sub-navigation-what-is-a-browser = Hvad er en browser?
 sub-navigation-browsing-history = Browserhistorik
 sub-navigation-browser-history = Browserhistorik
 sub-navigation-privacy = Privatliv
+sub-navigation-our-promise = Vores løfte
 sub-navigation-our-products = Vores produkter
+sub-navigation-little-book-of-privacy = Den lille bog om beskyttelse af privatlivet
 sub-navigation-safe-passwords = Sikre adgangskoder
