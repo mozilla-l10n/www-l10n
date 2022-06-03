@@ -1,11 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = ดาวน์โหลด { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = รับ{ -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = รับ { -brand-name-mozilla-vpn }
 navigation-v2-menu = เมนู
+# Obsolete string
+navigation-v2-get-a-firefox-account = รับ{ -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -17,6 +19,7 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } สำหรับ {
 navigation-v2-get-the-customizable-mobile = รับเบราว์เซอร์มือถือที่ปรับแต่งได้สำหรับสมาร์ทโฟน { -brand-name-android }
 navigation-v2-firefox-for-ios = { -brand-name-firefox } สำหรับ { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = รับเบราว์เซอร์มือถือสำหรับ { -brand-name-iphone } หรือ { -brand-name-ipad } ของคุณ
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-privacy-promise = คำมั่นสัญญาเกี่ยวกับความเป็นส่วนตัว
 navigation-v2-learn-how-firefox-treats = เรียนรู้ว่า { -brand-name-firefox } จัดการกับข้อมูลของคุณด้วยความเคารพอย่างไรบ้าง
 navigation-v2-firefox-blog = บล็อก { -brand-name-firefox }
