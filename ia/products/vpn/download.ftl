@@ -7,6 +7,13 @@
 
 vpn-download-button-copy = Discargar
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit solo)
+# Variables:
+#   $version (number) - operating system version
+vpn-download-version-requirements = Version { $version } e ultra
 vpn-download-for-linux = VPN pro { -brand-name-linux }
+# Variables:
+#   $version (number) - operating system version
+vpn-download-for-linux-requirements = Ubuntu { $version } e ultra
 vpn-download-for-android = VPN pro { -brand-name-android }
 vpn-download-for-ios = VPN pro { -brand-name-ios }
+vpn-download-get-on-google-play = Obtene lo per { -brand-name-google-play } Store
