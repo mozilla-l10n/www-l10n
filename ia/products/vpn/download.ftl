@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
+vpn-download-page-title = Discargar { -brand-name-mozilla-vpn }
+vpn-download-page-description = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android }, e { -brand-name-ios }.
 vpn-download-button-copy = Discargar
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit solo)
 # Variables:

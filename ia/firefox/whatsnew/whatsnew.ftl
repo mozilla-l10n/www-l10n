@@ -13,6 +13,7 @@ whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification-v2 = Congratulationes! Tu usa le ultime version de { -brand-name-firefox }
 # Obsolete string
 whatsnew-up-to-date-notification = Congratulationes! Tu usa le ultime version de { -brand-name-firefox-browser }.
+whatsnew-out-of-date-notification-v2 = Un version ancora plus recente de { -brand-name-firefox } es disponibile. Reinitia pro actualisar.
 # Obsolete string
 whatsnew-out-of-date-notification = Un version ancora plus recente de { -brand-name-firefox-browser } es disponibile. Reinitia pro actualisar.
 # Variables:
