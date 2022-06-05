@@ -89,6 +89,15 @@
     }
 -brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
+-brand-name-tiktok =
+    { $case ->
+       *[nom] TikTok
+        [gen] TikToka
+        [dat] TikTokowi
+        [acc] TikToka
+        [ins] TikTokiem
+        [loc] TikToku
+    }
 -brand-name-spotify = Spotify
 
 ## Firefox browsers
