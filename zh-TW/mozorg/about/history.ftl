@@ -76,4 +76,4 @@ history-timeline-of-mozilla-project = { -brand-name-mozilla } 專案時間軸
 history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital Memory Bank
 # Variables:
 #   $link (url) link to https://www.foxkeh.com/downloads/
-history-the-history-of-firefox-and = <a href="{ $link }">{ -brand-name-firefox } 與 { -brand-name-mozilla } 瀏覽器發展簡史海報</a>（<a href="{ $link }">英文版與日文版請點此處開啟</a>）
+history-the-history-of-firefox-and = <a href="https://mozlinks.moztw.org/2014/04/poster.html">{ -brand-name-firefox } 與 { -brand-name-mozilla } 瀏覽器發展簡史海報</a>（<a href="{ $link }">英文版與日文版請點此處開啟</a>）
