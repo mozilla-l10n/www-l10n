@@ -13,8 +13,9 @@ whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification-v2 = 恭喜！您目前使用的是最新版 { -brand-name-firefox }。
 # Obsolete string
 whatsnew-up-to-date-notification = 恭喜！您目前使用的是最新版本的 { -brand-name-firefox-browser }。
+whatsnew-out-of-date-notification-v2 = { -brand-name-firefox } 有新版可用。重启以进行更新。
 # Obsolete string
-whatsnew-out-of-date-notification = 更新版本的{ -brand-name-firefox-browser } 现已推出。重启以进行更新。
+whatsnew-out-of-date-notification = { -brand-name-firefox-browser }有新版可用。重启以进行更新。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = 阅读<a href="{ $url }">发行说明</a>，详细了解 { -brand-name-firefox } 浏览器的更新内容。
