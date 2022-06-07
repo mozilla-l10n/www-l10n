@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -30,7 +30,7 @@ compare-shared-web-extensionsadd-ons = Web extensions/Add-ons
 compare-shared-in-browser-screenshot-tool = In-browser screenshot tool
 compare-shared-os-availability = OS availability
 compare-shared-mobile-os-availability = Mobile OS availability
-compare-shared-syncs-with-mobile = Synchrnoises with mobile
+compare-shared-syncs-with-mobile = Synchronises with mobile
 compare-shared-password-management = Password management
 compare-shared-primary-password = Primary password
 # Obsolete string
