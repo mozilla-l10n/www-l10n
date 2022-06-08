@@ -1,12 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet fyrir fólk, ekki gróða
 home-did-you-know-mozilla-the-maker = Vissirðu þetta? Að { -brand-name-mozilla } — sem býr til { -brand-name-firefox } — berst fyrir því að viðhalda Internetinu opnu og aðgengilegu fyrir alla.
+home-fast-for-good = Hraðar og betur.
+home-with-2x-the-speed-built-in = Með tvöfalt meiri hraða, innbyggðri persónuvernd og { -brand-name-mozilla } að baki, er nýi { -brand-name-firefox } betri leið til að vafra.
+home-we-make-the-internet-safer = Við gerum internetið öruggara, heilbrigðara og hraðvirkara fyrir betri upplifun.
 home-our-impact = Áhrif okkar
 home-working-to-keep-the-internet = Við vinnum að því að gera vefinn betri, opinn og fyrir alla, við kennum veflæsi, bjóðum upp á verkfæri og erum málsvarar fyrir alla þá sem eru hlynntir því að vefurinn sé opinn og fyrir alla.
 home-working-at-the-grassroots-and = Við erum grasrótarfyrirtæki sem vinnur að því að kenna veflæsi, bjóða upp á ýmis verkfæri og berjast fyrir sanngirni, aðgengi og virðingu á Internetinu.

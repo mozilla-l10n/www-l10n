@@ -1,10 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-browser = Vafri:
+firefox-all-platform = Stýrikerfi:
+firefox-all-language = Tungumál:
+firefox-all-lang-multi = Mörg tungumál
+firefox-all-firefox-privacy-notice = Persónuverndarstefna { -brand-name-firefox }
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }

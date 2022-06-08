@@ -1,8 +1,8 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-download-button-download-now = Hala niður núna
+download-button-download-now = Sækja núna
 download-button-free-download = Ókeypis niðurhal
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
@@ -25,8 +25,8 @@ download-button-get-firefox-ios = Ná í { -brand-name-firefox } fyrir { -brand-
 download-button-google-play = Ná í á { -brand-name-google-play }
 download-button-free-google-play = Ná í ókeypis á { -brand-name-google-play }
 download-button-app-store = Ná í ókeypis á { -brand-name-app-store }
-download-button-download-app-store = Hala niður á { -brand-name-app-store }
-download-button-download-firefox = Hala niður { -brand-name-firefox }
+download-button-download-app-store = Sækja á { -brand-name-app-store }
+download-button-download-firefox = Sækja { -brand-name-firefox }
 download-button-your-system-may = Tækið þitt uppfyllir ekki þær kröfur sem þarf fyrir { -brand-name-firefox }, en þú getur prófað einhverja aðra útgáfu:
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> fyrir { -brand-name-android }
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> fyrir { -brand-name-android }
@@ -34,4 +34,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> fyrir { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> fyrir { -brand-name-ios }
 download-button-firefox-privacy = { -brand-name-firefox } friðhelgi
+download-button-firefox-privacy-notice = Persónuverndarstefna { -brand-name-firefox }
 download-button-download = Niðurhal
