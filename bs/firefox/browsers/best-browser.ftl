@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -30,3 +30,5 @@ best-browser-last-but-not-least = Na kraju, ali ne i posljednje, siguran browser
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } nudi nešto novo za vašu sigurnost: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. To je besplatna usluga koja će vas upozoriti ako postoje javni hakovi na vašim računima i obavijestiti vas ako su vam računi hakovani u prošlosti. Još jedna zgodna karakteristika je Green Lock. Izgleda kao mala zelena ikona u gornjem lijevom dijelu prozora browsera. Ako ste na { -brand-name-firefox } i vidite zelenu bravu, to znači da je web stranica šifrovana i sigurna. Ako je brava siva, razmislite dvaput o unosu osjetljivih podataka.
 best-browser-we-visit-hundreds-or = Svaki dan posjećujemo stotine ili čak hiljade web stranica i ne možete očekivati od korisnika da donose odluke o sigurnosti i privatnosti za svaku od ovih web stranica. Zato je browser koji vam daje veću kontrolu toliko važan - jer nudi stvarnu, smislenu zaštitu.
+best-browser-a-browser-that-minds = Browser koji se brine o svom poslu.
+best-browser-privacy-on-the-web = Privatnost na webu je aktuelan problem. Ako Vam je privatnost broj jedan na listi prioriteta, želite da potražite browser koji to shvata ozbiljno. Prilikom odabira najboljeg privatnog browsera za Vas, pogledajte politiku praćenja i kako browser rukuje Vašim podacima. Ovo izgledaju kao tehnička pitanja, ali oni su razlog zašto su neki browseri privatniji od drugih.
