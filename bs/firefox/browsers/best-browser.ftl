@@ -32,3 +32,13 @@ best-browser-firefox-is-offering = { -brand-name-firefox } nudi nešto novo za v
 best-browser-we-visit-hundreds-or = Svaki dan posjećujemo stotine ili čak hiljade web stranica i ne možete očekivati od korisnika da donose odluke o sigurnosti i privatnosti za svaku od ovih web stranica. Zato je browser koji vam daje veću kontrolu toliko važan - jer nudi stvarnu, smislenu zaštitu.
 best-browser-a-browser-that-minds = Browser koji se brine o svom poslu.
 best-browser-privacy-on-the-web = Privatnost na webu je aktuelan problem. Ako Vam je privatnost broj jedan na listi prioriteta, želite da potražite browser koji to shvata ozbiljno. Prilikom odabira najboljeg privatnog browsera za Vas, pogledajte politiku praćenja i kako browser rukuje Vašim podacima. Ovo izgledaju kao tehnička pitanja, ali oni su razlog zašto su neki browseri privatniji od drugih.
+best-browser-trackers-are-all-those = Trackeri su sve one dosadne „kolačići“ poruke koje dobijete na stranicama aviokompanija. Ovi alati za praćenje trećih strana znaju gdje kliknete i mogu se koristiti za analizu Vašeg ponašanja. Privatni browser bi korisnicima trebao dati mogućnost da isključe trackere trećih strana, ali u idealnom slučaju, isključite ih prema zadanim postavkama.
+best-browser-another-way-to-stop = Drugi način da zaustavite praćenje je korištenje privatnog načina pretraživanja. Svaki browser koji tvrdi da je privatan trebao bi ponuditi pretraživanje u privatnom načinu rada.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+best-browser-one-easy-way-to-check = Jednostavan način za provjeru je da posjetite stranicu sa postavkama sadržaja i politiku privatnosti u browseru. Web stranica o privatnosti treba da navede da li se Vaši podaci dijele i zašto. Zbog toga je <a href="{ $privacy }">{ -brand-name-firefox }obavještenje o privatnosti</a> lahko za čitanje i jednostavno za pronaći.
+best-browser-choosing-the-best-browser = Odabir najboljeg browsera za Vas je sličan odabiru kuće. Želite istražiti svoje mogućnosti, istražiti i donijeti odluku na osnovu onoga što Vam je važno.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/firefox/new/
+best-browser-at-firefox-weve-worked = U <a href="{ $firefox }">{ -brand-name-firefox }</a>, naporno smo radili da napravimo browser koji je dvostruko brži nego prije i koji korisnicima daje veću kontrolu nad njihovim online životom.
+best-browser-take-control-of-your = Preuzmite kontrolu nad Vašim pretraživačem.
