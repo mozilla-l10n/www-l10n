@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -30,3 +30,4 @@ compare-index-browsers-have-come-a-long = Браўзеры прайшлі доў
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } падтрымліваецца некамерцыйнай арганізацыяй { -brand-name-mozilla }.
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } ставіць вашу прыватнасць на першае месца — ва ўсім, што мы робім. Мы лічым, што вы маеце права самастойна вырашаць, якім чынам і з кім вы будзеце дзяліцца вашай асабістай інфармацыяй. { -brand-name-firefox } збірае як мага менш дадзеных і ніколі не прадае іх. Нешматлікія звесткі, якія мы збіраем, выкарыстоўваюцца толькі для паляпшэння прадуктаў і функцый. Ніякіх сакрэтаў. Але шмат празрыстасці і сапраўднай прыватнасці.
 compare-index-based-on-the-criteria-we-outlined = Зыходзячы з крытэрыяў, якія мы акрэслілі — прыватнасць, зручнасць і пераноснасць — ёсць толькі адзін браўзер, які трымае марку, і гэта { -brand-name-firefox }. Сапраўдная яго асаблівасць — не ў функцыянальнасці, а ў прыватнасці. { -brand-name-firefox } — самы прыватны браўзер, які не замыкае вас у экасістэме. Выкарыстоўвайце яго ў любой аперацыйнай сістэме, на ўсіх сваіх прыладах і адчувайце сябе ў бяспецы пры гэтым.
+compare-index-compare = Параўнаць
