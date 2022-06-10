@@ -5,19 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+firefox-products-are = Прадукты { -brand-name-firefox } створаны для аховы вашай прыватнасці
+learn-more-about-firefox = Даведайцеся больш пра { -brand-name-firefox }, яго гісторыю, магчымасці і місію
 learn-more-about = Даведайцеся больш аб браўзерах { -brand-name-firefox } і прадуктах, якія з павагай ставяцца да вашых дадзеных, створаных для захавання прыватнасці ў любым месцы сеціва.
 learn-more-faq = Частыя пытанні па { -brand-name-firefox }
 the-history-of = Гісторыя вэб-браўзераў
 firefox-has-been = { -brand-name-firefox } існуе амаль з самага пачатку.
 firefox-rebel-with = { -brand-name-firefox }: Бунтар з мэтай
+firefox-is-independent = { -brand-name-firefox } — незалежны браўзер, падтрыманы некамерцыйнай арганізацыяй { -brand-name-mozilla }, якая змагаецца за вашы правы ў Інтэрнэце і робіць Інтэрнэт даступным для ўсіх і ўсюды.
 what-is-a = Што такое вэб-браўзер?
+a-web-browser = Вэб-браўзер перанясе вас у любую кропку Інтэрнэту, дазваляючы бачыць тэкст, відарысы і відэа з любога кутка сусвету.
+update-your-browser = Абнавіце свой браўзер да хуткага, надзейнага і бяспечнага { -brand-name-firefox }.
+the-firefox-browser = Браўзер { -brand-name-firefox } створаны для аховы вашай прыватнасці на кожным кроку — таму што гэта самы хуткі спосаб пазбавіць вас ад павольнай загрузкі старонак, дрэннай рэкламы і трэкераў.
 firefox-is-more = { -brand-name-firefox } — гэта больш, чым браўзер
+its-a-lightning = Гэта бліскавічна хуткія дзверы да найлепшага досведу ў сеціве.
 get-the-browsers = Атрымайце браўзеры, якія ставяць вашу прыватнасць на першае месца — цяпер і заўжды.
 get-the-privacy = Атрымайце прыватнасць, якую вы заслугоўваеце. Узмоцненая ахова ад сачэння робіць прыватнасць аўтаматычнай кожны раз, калі вы адкрываеце браўзер.
 choose-which-firefox = Выберыце, які { -brand-name-firefox-browser } сцягнуць на сваёй на мове
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } для { -brand-name-chromebook }
+firefox-more-while-on-chromebook = Хоць на { -brand-name-chromebook } ужо ўсталяваны { -brand-name-chrome }, сцягванне і выкарыстанне { -brand-name-firefox } у якасці вашага асноўнага браўзера дае вам некалькі пераваг
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } быў рэвалюцыяй у распрацоўцы { -brand-name-firefox }. У 2017 годзе мы стварылі новы бліскавічны браўзер, які пастаянна ўдасканальваецца. { -brand-name-firefox-quantum } — гэта { -brand-name-firefox-browser }.
 firefox-more-little-book = Маленькая кніга прыватнасці
+firefox-more-you-can-reclaim = Вы можаце вярнуць сваю прыватнасць і атрымаць ізноў кантроль над сваім уласным досведам у Інтэрнэце! Гэта насамрэч на здзіўленне лёгка. Кожны можа зрабіць гэта.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 easy-migration-of = Лёгкі перанос пераваг і закладак, калі вы сцягваеце { -brand-name-firefox } для { -brand-name-windows }.
 firefox-respects-your = { -brand-name-firefox } паважае вашу прыватнасць на { -brand-name-mac-short }.
