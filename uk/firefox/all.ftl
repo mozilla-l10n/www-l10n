@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -33,7 +33,7 @@ firefox-all-the-standard-firefox = Стандартний браузер { -bran
 firefox-all-get-a-sneak-peek-at = Ознайомтеся з новими функціями браузера { -brand-name-firefox }, перш ніж вони будуть випущені.
 firefox-all-test-your-sites-against = Тестуйте свої сайти на сумісність з функціями браузера { -brand-name-firefox }, які стануть доступними в його наступних версіях, за допомогою інтегрованих потужних та гнучких інструментів розробника.
 firefox-all-count-on-stability-and = Розраховуйте на стабільність та простоту версії { -brand-name-firefox } для корпоративного користування.
-firefox-all-windows-installers-for = Інсталятори Windows для корпоративних ІТ, що спрощують конфігурацію, розгортання та управління { -brand-name-firefox-browser }.
+firefox-all-windows-installers-for = Інсталятори Windows для корпоративних ІТ, що спрощують конфігурацію, розгортання та керування { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Встановлювачі ARM64/AArch64
 firefox-all-arm64-installers-optimized = Встановлювачі ARM64/AArch64 оптимізовано для комп'ютерів на базі Snapdragon зі встановленою { -brand-name-windows }
 firefox-all-product-send-link = Надіслати посилання для завантаження на свій телефон.
