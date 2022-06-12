@@ -131,6 +131,9 @@ vpn-landing-faq-manage-subscription-question-heading = Πώς διαχειρίζ
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Αν έχετε ήδη εγγραφεί στο { -brand-name-mozilla-vpn }, μπορείτε να αλλάξετε το πρόγραμμά σας ή να <a href="{ $url }">διαχειριστείτε τη συνδρομή σας</a> ανά πάσα στιγμή.
 vpn-landing-faq-download-heading = Πώς κάνω λήψη του { -brand-name-mozilla-vpn } όταν έχω κάνει ήδη εγγραφή;
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Επισκεφθείτε τη <a { $attrs }>σελίδα λήψεων</a> για να εγκαταστήσετε το { -brand-name-mozilla-vpn } στη συσκευή σας και έπειτα, συνδεθείτε με τον { -brand-name-firefox-account(case: "acc", capitalization: "lower") } σας.
 vpn-landing-faq-link = Δείτε περισσότερες συχνές ερωτήσεις
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
