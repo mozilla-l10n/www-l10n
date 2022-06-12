@@ -10,6 +10,7 @@ vpn-download-page-description = Κάντε λήψη του { -brand-name-mozilla
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Μπορείτε να κάνετε λήψη του { -brand-name-mozilla-vpn } σε έως και { $devices } συσκευές με μία συνδρομή.
+vpn-download-not-available-in-country = Δυστυχώς, το { -brand-name-mozilla-vpn } δεν είναι διαθέσιμο για λήψη στη χώρα σας.
 vpn-download-button-copy = Λήψη
 vpn-download-for-windows = VPN για { -brand-name-windows } 10/11
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (μόνο 64-bit)
