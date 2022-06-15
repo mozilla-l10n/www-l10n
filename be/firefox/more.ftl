@@ -44,6 +44,7 @@ we-compare-firefox = Мы параўноўваем { -brand-name-firefox } з { 
 comparing-firefox-chrome = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Вялікі — не заўсёды лепшы. Выберыце незалежнасць наўзамен.
 comparing-firefox-brave = Параўнанне { -brand-name-firefox-browser } з { -brand-name-brave }
+be-bold-and = Будзьце смелымі і адважнымі, выбіраючы браўзер, які падыходзіць менавіта вам.
 comparing-firefox-edge = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-edge }
 comparing-firefox-ie = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-ie }
 comparing-firefox-safari = Параўнанне { -brand-name-firefox-browser } з { -brand-name-apple } { -brand-name-safari }
