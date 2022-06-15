@@ -63,3 +63,4 @@ firefox-more-translate-the-web = Prevedite splet
 firefox-more-translate-more-than = Prevedite več kot 100 jezikov v svoj jezik neposredno v { -brand-name-firefox-browser(sklon: "mestnik") } – preprosteje kot kdajkoli prej.
 firefox-more-a-guide-to = Vodnik za varnejše prijave in gesla
 firefox-more-more-and-more = Vedno več občutljivih in dragocenih stvari v naših življenjih varujejo gesla.
+firefox-more-avoid-misinformation-heading = Izogibajte se napačnim informacijam na spletu – { -brand-name-firefox } je tu, da vam pomaga

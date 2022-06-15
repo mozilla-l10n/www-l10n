@@ -116,6 +116,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Kaj je naslov IP?
 vpn-subnav-when-to-use-a-vpn = Kdaj uporabiti VPN
 vpn-subnav-vpn-vs-proxy = VPN ali posredniški strežnik?
+vpn-subnav-subscribe = Naročite se na { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
