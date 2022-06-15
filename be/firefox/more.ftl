@@ -38,6 +38,7 @@ firefox-doesnt-spy = { -brand-name-firefox } не шпіёніць за пошу
 firefox-for-linux = { -brand-name-firefox } для { -brand-name-linux }
 new-school-meets = Новая школа сустракае старую школу з самым хуткім браўзерам.
 firefox-for-windows = { -brand-name-firefox } для 64-разраднай { -brand-name-windows }
+we-worry-about = Мы турбуемся аб бяспецы вашых звестак, каб вам не прыходзілася гэта рабіць.
 seven-of-the = Сем лепшых браўзераў у прамым параўнанні
 we-compare-firefox = Мы параўноўваем { -brand-name-firefox } з { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } і { -brand-name-ie }, каб дапамагчы вам вырашыць.
 comparing-firefox-chrome = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-google } { -brand-name-chrome }
