@@ -10,6 +10,7 @@ developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest = Felicidades. Ahora tienes la última versión de { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Más { -brand-name-mdn }. <em>Tu</em> { -brand-name-mdn }.
+developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } es un proyecto colaborativo de código abierto que documenta tecnologías de la plataforma Web, incluidos CSS, HTML, JavaScript y las Web APIs. También proporcionamos un amplio conjunto de recursos de aprendizaje para desarrolladores principiantes y estudiantes
 # CTA button
 developer-mdnplus-get-started = Comenzar
 developer-mdnplus-whats-included = Qué está incluido
