@@ -35,3 +35,5 @@ legal-mozilla-vpn-terms = Termos de serviço do { -brand-name-mozilla-vpn }
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Termos de serviço do { -brand-name-mdn-plus }
 legal-report-copyright = Denunciar violação de direitos autorais ou marcas registradas
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = Termos de serviço do { -brand-name-mozilla-hubs }
