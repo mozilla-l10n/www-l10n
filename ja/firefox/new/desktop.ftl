@@ -176,7 +176,7 @@ firefox-desktop-download-now-mac = ダウンロードしたファイルを<stron
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = 問題が発生しましたら、<a { $attrs }>インストールに関するヘルプをご覧ください</a>。
-firefox-desktop-download-in-another-language = 別の言語または別の OS でダウンロードしてください。
+firefox-desktop-download-in-another-language = 別の言語または別の OS でダウンロード。
 
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
