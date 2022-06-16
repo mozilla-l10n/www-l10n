@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
@@ -9,8 +9,12 @@
 set-as-default-landing-make-firefox-your-default = Convierte { -brand-name-firefox } en tu navegador predeterminado
 # HTML page description
 set-as-default-landing-choose-the-browser = Elige el navegador que protege tu privacidad. Establece { -brand-name-firefox } como tu navegador predeterminado.
-set-as-default-landing-make-sure-youre-protected = Asegúrate de estar protegido cada vez que te conectas
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = Gracias por usar la versión más reciente de { -brand-name-firefox }. Cuando eliges { -brand-name-firefox } apoyas una web mejor para ti y para todos. Ahora da el siguiente paso para protegerte.
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = Asegúrate de estar protegido cada vez que te conectas
+set-as-default-landing-you-should-get = Deberías opinar sobre cómo navegas
+set-as-default-landing-if-you-recently = Si recientemente actualizaste tu computadora, es posible que tu configuración haya cambiado. Apoya una Internet libre y abierta cada vez que te conectes con { -brand-name-firefox }.
 set-as-default-landing-choose-automatic-privacy = Elige privacidad automática
 set-as-default-landing-companies-keep-finding = Las empresas siguen encontrando nuevas formas de robar tus datos personales. { -brand-name-firefox } es el único navegador con la misión de encontrar nuevas formas de protegerte.
 set-as-default-landing-choose-freedom-on-every = Elige la libertad en cada dispositivo
