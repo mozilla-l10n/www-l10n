@@ -9,9 +9,11 @@ set-as-default-landing-make-firefox-your-default = <strong>{ -brand-name-firefox
 
 # HTML page description
 set-as-default-landing-choose-the-browser = プライバシーを保護するブラウザーを選択しましょう。<strong>{ -brand-name-firefox }</strong> を既定のブラウザーにする
-
-set-as-default-landing-make-sure-youre-protected = オンライン上での保護をつねに確保
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = 最新版 { -brand-name-firefox } ブラウザーをダウンロードしていただき、ありがとうございました。{ -brand-name-firefox } をご使用いただくということは、万人のためにウェブ改善をご支援いただくということなのです。ご自身の保護のため、早速ご使用ください。
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = オンライン上での保護をつねに確保
+
 set-as-default-landing-choose-automatic-privacy = 自動プライバシー
 set-as-default-landing-companies-keep-finding = 多くの企業がつねに新たな個人データ不正取得方法を探求しています。{ -brand-name-firefox } ブラウザーは、新たなユーザー保護方法を探求し続けることを使命としています。
 set-as-default-landing-choose-freedom-on-every = あらゆるデバイスで自由を手に入れる

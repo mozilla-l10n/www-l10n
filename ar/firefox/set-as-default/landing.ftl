@@ -9,9 +9,11 @@ set-as-default-landing-make-firefox-your-default = تعيين { -brand-name-fire
 
 # HTML page description
 set-as-default-landing-choose-the-browser = اختر المتصفح الذي يحمي خصوصيتك. عيّن { -brand-name-firefox } كمتصفح افتراضي خاص بك.
-
-set-as-default-landing-make-sure-youre-protected = تأكّد من أنّك مَحمي متى اتصلت بالإنترنت
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = نشكُرك على استخدام مُتصفح { -brand-name-firefox } الأحدث. عندما تَختار { -brand-name-firefox }، فأنت تدعم شَبكة ويب أفضل لك وللآخرين. الآن اتخذ الخطوة التالية لِحماية نفسك.
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = تأكّد من أنّك مَحمي متى اتصلت بالإنترنت
+
 set-as-default-landing-choose-automatic-privacy = اختيار خُصوصية تلقائية
 set-as-default-landing-companies-keep-finding = تُواصل الشركات إيجاد طُرق جديدة لانتزاع بياناتك الشخصية. { -brand-name-firefox } هو المُتصفح الذي تتمثل مُهمته في إيجاد طُرق جديدة لحمايتك.
 set-as-default-landing-choose-freedom-on-every = اختيار الحرية على كل جهاز
