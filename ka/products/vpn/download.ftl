@@ -9,7 +9,7 @@ vpn-download-page-title = ჩამოტვირთეთ { -brand-name-mozill
 vpn-download-page-description = ჩამოტვირთეთ { -brand-name-mozilla-vpn } სისტემებისთვის: { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } და { -brand-name-ios }.
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-download-sub-heading = { -brand-name-mozilla-vpn } შეგიძლიათ ჩამოტვირთოთ { $devices }-ზე მოწყობილობაზე ერთი გამოწერით.
+vpn-download-sub-heading = { -brand-name-mozilla-vpn } შეგიძლიათ ჩამოტვირთოთ { $devices }-მდე მოწყობილობაზე ერთი გამოწერით.
 vpn-download-not-available-in-country = სამწუხაროდ { -brand-name-mozilla-vpn } მიუწვდომელია თქვენს ქვეყანაში.
 vpn-download-button-copy = ჩამოტვირთვა
 vpn-download-for-windows = VPN { -brand-name-windows } 10/11-ზე
