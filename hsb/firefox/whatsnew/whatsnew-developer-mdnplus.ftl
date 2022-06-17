@@ -10,6 +10,7 @@ developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest = Zbožopřeće. Maće nětko najnowšu wersiju { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Wjace { -brand-name-mdn }. <em>Waš</em> { -brand-name-mdn }.
+developer-mdnplus-support-mdn-and-make = Podpěrujće { -brand-name-mdn } <em>a</em> přiswojće sej jón.
 # CTA button
 developer-mdnplus-get-started = Prědne kšace
 developer-mdnplus-whats-included = Što je wobsahowane
