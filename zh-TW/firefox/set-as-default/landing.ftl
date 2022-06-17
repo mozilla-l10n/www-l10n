@@ -14,6 +14,7 @@ set-as-default-landing-thanks-for-using-the = 感謝您使用最新版的 { -bra
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = 每次上網時都受到保護
 set-as-default-landing-you-should-get = 您應該對您的上網方式有發言權
+set-as-default-landing-if-you-recently = 若您最近更新過電腦，預設瀏覽器設定可能發生了變更。隨時使用 { -brand-name-firefox } 來聲援自由與開放的網際網路環境。
 set-as-default-landing-choose-automatic-privacy = 自動保護隱私
 set-as-default-landing-companies-keep-finding = 大企業一直在想辦法竊取您的個人資料，而 { -brand-name-firefox } 是唯一將想辦法保護您視為己任的瀏覽器。
 set-as-default-landing-choose-freedom-on-every = 在任何裝置都有選擇自由

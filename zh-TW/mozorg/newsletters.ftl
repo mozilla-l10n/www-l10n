@@ -285,6 +285,8 @@ newsletters-special-announcements-helping-you = 幫助您熟悉 { -brand-name-we
 newsletters-android = { -brand-name-android }
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
 newsletters-subscribe-to-the-newsletter = 訂閱電子報
+# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
+newsletters-get-the-news-and-tips = 接收來自 { -brand-name-mozilla } 的消息與祕訣以確保安全，並且瞭解能讓網路環境變得更安全的所有事項。
 
 ## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
 

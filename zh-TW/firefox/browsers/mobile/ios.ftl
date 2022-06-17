@@ -7,6 +7,9 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios }（{ -brand-name-iphone } & { -brand-name-ipad }）
+# HTML description
+# Obsolete string
+mobile-ios-firefox-browser-for = 從您第一次開啟使用 { -brand-name-firefox } for { -brand-name-ios } 瀏覽器，它就又快、又安全、更有隱私。
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 # Obsolete string
 mobile-ios-get-automatic-privacy = 下載在 { -brand-name-iphone } 與 { -brand-name-ipad } 上自動開啟隱私保護的行動瀏覽器。
