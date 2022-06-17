@@ -130,6 +130,10 @@ vpn-landing-faq-manage-subscription-question-heading = როგორ ვმა
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = თუ უკვე გამოწერილი გაქვთ { -brand-name-mozilla-vpn }, გეგმის შეცვლა ან <a href="{ $url }">გამოწერის მართვა</a> ნებისმიერ დროს შეგიძლიათ.
+vpn-landing-faq-download-heading = როგორ ჩამოვტვირთო { -brand-name-mozilla-vpn }, თუ უკვე გამოწერილი მაქვს?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = ეწვიეთ <a { $attrs }>ჩამოტვირთვის გვერდს</a>, რომ დააყენოთ { -brand-name-mozilla-vpn } თქვენს მოწყობილობაზე, შემდეგ კი შედით თქვენი { -brand-name-firefox-account(case: "adj") }.
 vpn-landing-faq-link = ვრცლად, იხილეთ ᲮᲓᲙ
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/

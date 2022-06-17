@@ -35,3 +35,5 @@ legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } მომსახურ�
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } მომსახურების პირობები
 legal-report-copyright = გვაცნობეთ საავტორო უფლებების ან სავაჭრო ნიშნების დარღვევებზე
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = { -brand-name-mozilla-hubs } Terms of Service

@@ -116,6 +116,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = რა არის IP-მისამართი?
 vpn-subnav-when-to-use-a-vpn = როდის გამოვიყენოთ VPN
 vpn-subnav-vpn-vs-proxy = VPN თუ პროქსი
+vpn-subnav-subscribe = გამოიწერეთ { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 

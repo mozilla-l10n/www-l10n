@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
@@ -9,8 +9,12 @@
 set-as-default-landing-make-firefox-your-default = გახადეთ { -brand-name-firefox } ნაგულისხმევი ბრაუზერი
 # HTML page description
 set-as-default-landing-choose-the-browser = აირჩიეთ ბრაუზერი, რომელიც დაიცავს თქვენს პირადულობას. გახადეთ { -brand-name-firefox } მთავარი ბრაუზერი.
-set-as-default-landing-make-sure-youre-protected = იგრძენით თავი დაცულად, ინტერნეტში ყოველი შესვლისას
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = გმადლობთ, რომ უახლეს { -brand-name-firefox }-ბრაუზერს იყენებთ. როცა ირჩევთ { -brand-name-firefox }-ს, ამით მხარს უჭერთ ვებსივრცის საყოველთაო განვითარებას. შემდეგი ნაბიჯი, საკუთარი თავის დაცვაა.
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = იგრძენით თავი დაცულად, ინტერნეტში ყოველი შესვლისას
+set-as-default-landing-you-should-get = თავად განსაზღვრეთ, როგორ გამოიყენოთ ინტერნეტი
+set-as-default-landing-if-you-recently = თუ ახლახან განაახლეთ კომპიუტერი, თქვენი პარამეტრები შეიძლება შეცვლილიყო. გამოიყენეთ { -brand-name-firefox } და მისით ყოველი სარგებლობისას მხარს დაუჭერთ თავისუფალ და ღია ინტერნეტს.
 set-as-default-landing-choose-automatic-privacy = აირჩიეთ თავისთავადი პირადულობა
 set-as-default-landing-companies-keep-finding = კომპანიები განაგრძობენ ახალი გზების ძიებას, თქვენს პირად ცხოვრებაში შემოჭრისთვის. { -brand-name-firefox } კი ერთადერთი ბრაუზერია, რომლის მიზანიც, ახალი საშუალებების მონახვაა, თქვენს დასაცავად.
 set-as-default-landing-choose-freedom-on-every = აირჩიეთ თავისუფლება თითოეულ მოწყობილობაზე
