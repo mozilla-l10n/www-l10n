@@ -35,3 +35,5 @@ legal-mozilla-vpn-terms = Podmienky používania služby { -brand-name-mozilla-v
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Podmienky používania služby { -brand-name-mdn-plus }
 legal-report-copyright = Nahlásiť porušenie autorských práv alebo ochrannej známky
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = Podmienky používania služby { -brand-name-mozilla-hubs }
