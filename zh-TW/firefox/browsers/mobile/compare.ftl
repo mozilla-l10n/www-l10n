@@ -15,6 +15,7 @@ mobile-compare-what-can-your = 瀏覽器能幫您完成哪些事？
 mobile-compare-syncing-strong = <strong>同步</strong>
 mobile-compare-syncing = 同步
 mobile-compare-does-your-browser = 您的瀏覽器能與其它裝置和諧相容嗎？
+mobile-compare-the-mobile-version = { -brand-name-safari } 行動板內建於 { -brand-name-apple } 行動裝置，僅與其他 { -brand-name-apple } 裝置，例如 { -brand-name-ipad }、{ -brand-name-mac-short } 筆記型電腦。{ -brand-name-firefox }、{ -brand-name-chrome } 及 { -brand-name-opera } 可在 { -brand-name-ios }、{ -brand-name-android }、{ -brand-name-windows }、{ -brand-name-mac-short } 及 { -brand-name-linux } 等所有平台使用。（例外：{ -brand-name-edge } 與 { -brand-name-linux } 裝置不相容）
 mobile-compare-conclusion = 結論
 mobile-compare-search-engine-options = 搜尋引擎選項
 mobile-compare-text-to-speech = 文字轉語音
