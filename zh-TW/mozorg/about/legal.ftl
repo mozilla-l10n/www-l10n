@@ -35,3 +35,5 @@ legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } 服務條款
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } 服務條款
 legal-report-copyright = 回報著作權或商標侵害行為
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = { -brand-name-mozilla-hubs } 服務條款
