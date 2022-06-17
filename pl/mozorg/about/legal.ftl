@@ -35,3 +35,5 @@ legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } — Warunki świadczenia
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } — Warunki świadczenia
 legal-report-copyright = Zgłoś naruszenie znaków towarowych lub praw autorskich
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = { -brand-name-mozilla-hubs } — Warunki świadczenia
