@@ -35,3 +35,5 @@ legal-mozilla-vpn-terms = Όροι υπηρεσίας { -brand-name-mozilla-vpn 
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Όροι υπηρεσίας { -brand-name-mdn-plus }
 legal-report-copyright = Αναφορά παραβίασης πνευματικών δικαιωμάτων ή εμπορικών σημάτων
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = Όροι υπηρεσίας του { -brand-name-mozilla-hubs }
