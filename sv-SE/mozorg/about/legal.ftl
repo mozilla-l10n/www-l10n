@@ -35,3 +35,5 @@ legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } Användarvillkor
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Användarvillkor för { -brand-name-mdn-plus }
 legal-report-copyright = Rapportera upphovsrättsintrång eller varumärkesintrång
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = Användarvillkor för { -brand-name-mozilla-hubs }
