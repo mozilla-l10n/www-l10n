@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
@@ -17,7 +17,7 @@ vpn-mac-wifi-headline = იყავით უსაფრთხოდ დაუ
 vpn-mac-wifi-copy = გადით ინტერნეტში აუღელვებლად, საჯარო WiFi-ს გამოყენების დროსაც, { -brand-name-mozilla-vpn }-ის მეშვეობით. იგი დაიცავს თქვენს ინტერნეტკავშირს და თქვენი პირადი მონაცემები უხილავი დარჩება ჰაკერებისა და ცნობისმოყვარეებისგან.
 vpn-mac-about-headline = სანდო ტექმწარმოებლისგან
 vpn-mac-about-copy = 1998 წლიდან, არამომგებიანი { -brand-name-mozilla } მიჰყვება თავის მიზანს, უკეთესი ინტერნეტის შენებისკენ. პროდუქტები, როგორიცაა { -brand-name-firefox-browser } ეხმარება მსოფლიო მასშტაბით { -brand-name-mozilla }-ს, განაგრძოს მუშაობა ინტერნეტის გახსნილობისა და საყოველთაო თავისუფლებისთვის.
-vpn-mac-privacy-headline = პირადულობა თქვენს თითებთან
+vpn-mac-privacy-headline = ხელთ იქონიეთ პირადულობა
 vpn-mac-privacy-copy = { -brand-name-mozilla-vpn }-ის მეშვეობით, თქვენი ინტერნეტკავშირი იშიფრება და IP-მისამართი იფარება ჰაკერებისა და ინტერნეტის ცნობისმოყვარე მომწოდებლებისგან, { -brand-name-wireguard }® მაღალი დონის ოქმის დახმარებით.
 vpn-mac-servers-headline = სერვერებთან წვდომა, მთელ მსოფლიოში
 # Variables:
