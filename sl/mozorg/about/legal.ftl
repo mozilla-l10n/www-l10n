@@ -35,3 +35,5 @@ legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn }: Pogoji uporabe
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus }: Pogoji uporabe
 legal-report-copyright = Prijavite kršitev avtorskih pravic ali zlorabo blagovne znamke
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = { -brand-name-mozilla-hubs }: Pogoji uporabe
