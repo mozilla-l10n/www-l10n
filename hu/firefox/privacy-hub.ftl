@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -62,7 +62,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Ha van { -brand-name-firefox
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Naponta több mint { $trackers } nyomkövető blokkolva a { -brand-name-firefox } felhasználók számára világszerte
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email = Ha megadja az e-mail címét a { -brand-name-firefox-monitor }ban, akkor azonnal elfelejtjük az e-mail címét, amint ellenőriztük az ismert adatsértéseket – hacsak nem engedélyezi, hogy kövessük az új adatsértéseket az Ön információi után keresve.
+firefox-privacy-hub-when-you-enter-your-email = Ha megadja az e-mail-címét a { -brand-name-firefox-monitor }ban, akkor azonnal elfelejtjük, amint ellenőriztük az ismert adatsértéseket – hacsak nem engedélyezi, hogy kövessük az új adatsértéseket az Ön információi után keresve.
 firefox-privacy-hub-check-for-breaches = Adatsértések keresése
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = A { -brand-name-firefox-lockwise }-ba mentett jelszavak és hitelesítő adatok minden eszközén titkosítva vannak, így még mi sem látjuk őket.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -22,7 +22,7 @@ firefox-accounts-youre-signed-in-to = Bejelentkezett a <br>{ -brand-name-firefox
 firefox-accounts-see-if-youve-been = Nézze meg, hogy szerepelt-e online adatsértésben.
 firefox-accounts-sign-in-to-monitor = Jelentkezzen be a { -brand-name-monitor }ba
 firefox-accounts-join-firefox = Csatlakozzon a { -brand-name-firefox }hoz
-firefox-accounts-enter-your-email-address = A kezdéshez adja meg az e-mail címét.
+firefox-accounts-enter-your-email-address = A kezdéshez adja meg az e-mail-címét.
 firefox-accounts-already-have-an-account = Van felhasználói fiókja?
 firefox-accounts-sign-in = Jelentkezzen be
 firefox-accounts-meet-our-family-of = Ismerkedjen meg az adatvédelmet szem előtt tartó termékcsaládunkkal.

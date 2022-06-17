@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
@@ -283,3 +283,14 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = Különleges közlemények, melyek segítenek Önnek kihozni a legtöbbet a { -brand-name-webmaker }ből.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
+# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+newsletters-subscribe-to-the-newsletter = Iratkozzon fel a hírlevélre
+# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
+newsletters-get-the-news-and-tips = Kapjon híreket és tippeket a { -brand-name-mozilla(ending: "accented") }tól, hogy biztonságban maradhasson, és minden olyasmiről tájékozott legyen, amely egészségesebb hellyé teszi a világhálót.
+
+## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
+
+knowledge-is-power-mozilla = { -brand-name-mozilla }
+knowledge-is-power-firefox = { -brand-name-firefox } böngésző
+knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
+knowledge-is-power-pocket = { -brand-name-pocket }

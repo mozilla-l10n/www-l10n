@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = A { -brand-name-brave } megkülönb�
 compare-brave-the-internet-as-a-whole-is = Az internet egészét nagyrészt a megjelenített reklámokkal finanszírozzák, amelyek a megtekinteni kívánt tényleges tartalom ingyenességét biztosítják. A { -brand-name-brave } megpróbált véget vetni ennek a modellnek azáltal, hogy a felhasználóit a { -brand-name-brave } saját jutalmazási rendszerének használatára szoktassa, amely valójában a saját hirdetési platformja. Ha a felhasználó ezt választotta, akkor a { -brand-name-brave } „magánszférát tisztelő hirdetéseket” jelenít meg, amelyekért ún. Basic Attention Tokeneket, más néven BAT-okat, szerezhet. Ezután a { -brand-name-brave } felhasználói választhatnak, hogy a BAT-okat az általuk kedvelt oldalak vagy egyéni közreműködők támogatására költik, akik a BAT-okat valódi pénzre tudják váltani.
 compare-brave-whether-this-sounds-complicated = Hogy ez bonyolultnak vagy nagyszerű ötletnek hangzik, valószínűleg attól függ, hogy Ön mennyire veti meg az Interneten megjelenő hirdetéseket. A legtöbb internethasználó megérti, hogy a jó tartalom pénzbe kerül és elfogadhatónak tartja, hogy ez a pénz hirdetésből származik.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Az érem másik oldala, hogy a { -brand-name-firefox } böngészővel, inkább egyszerűen tartjuk a dolgokat. A { -brand-name-firefox } számos harmadik féltől származó nyomkövető, kriptobányász és ujjlenyomat-készítő követését blokkolja. Azonban a { -brand-name-firefox } a Privát böngészés módon kívül azt választja, hogy nem akadályozza a megjelenő hirdetések megjelenését. Illetve, hacsak nem telepíti a <a { $attrs }>kifejezetten erre a célra kifejlesztett kiegészítőket</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,7 +45,7 @@ compare-brave-the-ability-to-sync-your-passwords = A jelszavak, kiegészítők �
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
-compare-brave-the-firefox-browser-also-gives = A { -brand-name-firefox } böngésző arra is lehetőséget biztosít, hogy a felhasználók ingyenes <a { $accounts }>{ -brand-name-firefox-account }ot</a> regisztráljanak. A { -brand-name-firefox }-fiók az eszközök közti szinkronizáció kulcsa, továbbá olyan termékekhez is használható, mint a <a { $monitor }>{ -brand-name-firefox-monitor }</a>, amely figyeli az e-mail címeit, és értesíti ha az információi kiszivárogtak egy ismert <a { $breaches }>adatsértésben</a>.
+compare-brave-the-firefox-browser-also-gives = A { -brand-name-firefox } böngésző arra is lehetőséget biztosít, hogy a felhasználók ingyenes <a { $accounts }>{ -brand-name-firefox-account }ot</a> regisztráljanak. A { -brand-name-firefox }-fiók az eszközök közti szinkronizáció kulcsa, továbbá olyan termékekhez is használható, mint a <a { $monitor }>{ -brand-name-firefox-monitor }</a>, amely figyeli az e-mail-címeit, és értesíti ha az információi kiszivárogtak egy ismert <a { $breaches }>adatsértésben</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = Mostanában a { -brand-name-brave } is képes lett az operációs rendszerek és eszközök közti szinkronizációra, azzal kiegészítve, hogy a Basic Attention Tokenek is szinkronizálásra kerülnek.
 compare-brave-when-comparing-the-two-browsers = A két böngészőt összehasonlítva, mind a { -brand-name-firefox }, mind a { -brand-name-brave } komoly adatvédelmet és biztonságot nyújtanak alapértelmezés szerint, automatikusan az első megnyitásuktól kezdve.

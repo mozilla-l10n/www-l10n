@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -25,7 +25,7 @@ best-browser-there-are-a-few-ways = Számos módja van annak, hogy egy böngész
 # $data (url) - link to https://www.mozilla.org/privacy/firefox/
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = A második mód az, ha nem tárolunk túl sok felhasználói adatot. A hackerek nem tudják azt ellopni, amely nincs ott, ezért a { -brand-name-firefox } csak minimális mennyiségű adatot tárol a felhasználóiról. A <a href="{ $data }">{ -brand-name-firefox } tudja</a> hogy használja a böngészőt, és nagyjából tudja a tartózkodási helyét, <a href="{ $privacy }">de nem tudja a gyermekkori háziállata nevét vagy a kedvenc színét.</a>
-best-browser-last-but-not-least = Végül, de nem utolsó sorban, egy biztonságos böngésző eszközöket biztosít, hogy szemmel tartsa a profiljait. Olyan értesítésekre gondoljon, melyek egyenesen az e-mail fiókjába érkeznek, ha egy fiókját feltörték; vagy olyan ikonokra, amelyek jelzik, hogy egy weboldal nem titkosított (például ez jelzi, hogy jó ötlet-e megadni a bankkártyaszámát egy vásárlási oldalon).
+best-browser-last-but-not-least = Végül, de nem utolsó sorban, egy biztonságos böngésző eszközöket biztosít, hogy szemmel tartsa a profiljait. Olyan értesítésekre gondoljon, melyek egyenesen az e-mail-fiókjába érkeznek, ha egy fiókját feltörték; vagy olyan ikonokra, amelyek jelzik, hogy egy weboldal nem titkosított (például ez jelzi, hogy jó ötlet-e megadni a bankkártyaszámát egy vásárlási oldalon).
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = A { -brand-name-firefox } valami újat biztosít, amely segít, hogy biztonságban legyen: a <a href="{ $monitor }">{ -brand-name-firefox-monitor }t</a>. Ez egy ingyenes szolgáltatás, amely értesíti, ha ismert feltörések érintették a fiókjait, és tudatja Önnel, ha a fiókjait a múltban feltörték-e. Egy másik hasznos funkció a zöld lakat. Ez egy apró zöld ikon a böngészőablak bal felső sarkában. Ha a { -brand-name-firefox }ot használja, és egy zöld lakatot lát, az azt jelenti, hogy a weboldal titkosított és biztonságos. Ha lakat szürke, akkor kétszer is gondolja meg, hogy megad-e érzékeny adatokat.
