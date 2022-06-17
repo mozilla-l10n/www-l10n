@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
@@ -9,8 +9,12 @@
 set-as-default-landing-make-firefox-your-default = Đặt { -brand-name-firefox } thành trình duyệt mặc định của bạn
 # HTML page description
 set-as-default-landing-choose-the-browser = Chọn trình duyệt bảo vệ sự riêng tư của bạn. Đặt { -brand-name-firefox } làm trình duyệt mặc định của bạn.
-set-as-default-landing-make-sure-youre-protected = Hãy chắc chắn rằng bạn được bảo vệ, mỗi khi bạn trực tuyến
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = Cảm ơn bạn đã sử dụng trình duyệt { -brand-name-firefox } mới nhất. Khi bạn chọn { -brand-name-firefox }, bạn hỗ trợ một trang web tốt hơn cho bạn và mọi người khác. Bây giờ hãy thực hiện bước tiếp theo để bảo vệ chính mình.
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = Hãy chắc chắn rằng bạn được bảo vệ, mỗi khi bạn trực tuyến
+set-as-default-landing-you-should-get = Bạn sẽ có tiếng nói trong cách bạn duyệt web
+set-as-default-landing-if-you-recently = Nếu gần đây bạn đã cập nhật máy tính của mình, cài đặt của bạn có thể đã thay đổi. Hỗ trợ Internet mở và miễn phí mỗi khi bạn trực tuyến với { -brand-name-firefox }.
 set-as-default-landing-choose-automatic-privacy = Chọn quyền riêng tư tự động
 set-as-default-landing-companies-keep-finding = Các công ty tiếp tục tìm cách mới để săn trộm dữ liệu cá nhân của bạn. { -brand-name-firefox } là trình duyệt với sứ mệnh tìm ra những cách mới để bảo vệ bạn.
 set-as-default-landing-choose-freedom-on-every = Chọn tự do trên mọi thiết bị

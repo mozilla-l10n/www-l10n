@@ -35,3 +35,5 @@ legal-mozilla-vpn-terms = Điều khoản dịch vụ của { -brand-name-mozill
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Điều khoản dịch vụ của { -brand-name-mdn-plus }
 legal-report-copyright = Báo cáo vi phạm bản quyền hoặc nhãn hiệu
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = Điều khoản dịch vụ của { -brand-name-mozilla-hubs }
