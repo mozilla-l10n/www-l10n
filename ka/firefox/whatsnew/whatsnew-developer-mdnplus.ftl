@@ -17,3 +17,6 @@ developer-mdnplus-get-started = დაიწყეთ
 developer-mdnplus-whats-included = რას მოიცავს
 developer-mdnplus-notifications = შეტყობინებები
 developer-mdnplus-development-in-real-time = შემუშავება მიმდინარე დროში: მიიღეთ მორგებული შეტყობინებები
+developer-mdnplus-the-web-doesnt-have-a = ვებსივრცეს არ გააჩნია ცვლილებების აღმრიცხავი, მაგრამ { -brand-name-mdn } დაგეხმარებათ. მიჰყევით გვერდებს და მიიღეთ შეტყობინებების მასალის განახლებისას, CSS-შესაძლებლობების გაშვებისას, API-ებით აღჭურვისას.
+developer-mdnplus-collections = კრებულები
+developer-mdnplus-build-your-perfect-library = შექმენით საკუთარი სრულყოფილი ბიბლიოთეკა. ან ჩვენ შეგიქმნით.
