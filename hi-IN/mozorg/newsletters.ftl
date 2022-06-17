@@ -396,3 +396,8 @@ newsletters-special-announcements-helping-you = विशेष घोषणा�
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
+
+
+
+## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
+
