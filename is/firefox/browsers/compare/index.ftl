@@ -8,3 +8,4 @@
 # Sub-headline
 compare-index-privacy-utility-portability = Persónuvernd. Gagnsemi. Flytjanleiki.
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } er stutt af { -brand-name-mozilla } sem ekki er rekið í hagnaðarskyni.
+compare-index-compare = Bera saman

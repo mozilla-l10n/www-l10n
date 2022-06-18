@@ -6,6 +6,8 @@ navigation-v2-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
 
 ## Firefox menu
 
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = Loka { -brand-name-firefox-browsers } valmyndinni
 
 ## Products menu
 

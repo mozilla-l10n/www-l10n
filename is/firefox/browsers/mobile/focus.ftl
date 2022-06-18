@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
+mobile-focus-firefox-focus = { -brand-name-firefox-focus }
+mobile-focus-scan-the-qr-code-to-get-started = Skannaðu QR-kóðann til að komast í gang
 mobile-focus-scan-alt-text = Skannaðu QR-kóðann til að sækja { -brand-name-firefox-focus }
