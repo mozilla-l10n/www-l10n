@@ -285,6 +285,8 @@ newsletters-special-announcements-helping-you = Avisos especiais, para te ajudar
 newsletters-android = { -brand-name-android }
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
 newsletters-subscribe-to-the-newsletter = Inscreva-se no boletim informativo
+# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
+newsletters-get-the-news-and-tips = Receba notícias e dicas da { -brand-name-mozilla } para se manter seguro e informado sobre tudo o que torna a web um lugar mais saudável.
 
 ## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
 

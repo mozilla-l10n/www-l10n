@@ -20,6 +20,7 @@ developer-mdnplus-development-in-real-time = Desenvolvimento em tempo real: Rece
 developer-mdnplus-the-web-doesnt-have-a = A web não tem um log de alterações, mas o { -brand-name-mdn } pode ajudar. Siga páginas e receba notificações personalizadas quando houver mudanças na documentação, lançamento de funcionalidades de CSS e novas APIs.
 developer-mdnplus-collections = Coleções
 developer-mdnplus-build-your-perfect-library = Monte sua biblioteca perfeita. Ou deixe fazermos isso para você.
+developer-mdnplus-no-more-haphazard-hunting = Chega de caça aleatória na vasta biblioteca virtual. Libere seu curador interno e colete seus artigos preferidos em um só lugar para consulta conveniente.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } offline
 developer-mdnplus-mdns-entire-library-at-your = Toda a biblioteca do { -brand-name-mdn } na sua mão: offline
 developer-mdnplus-resources-for-developers = Recursos para desenvolvedores, por desenvolvedores.
