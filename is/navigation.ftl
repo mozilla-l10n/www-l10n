@@ -9,6 +9,7 @@ navigation-support = Aðstoð
 navigation-donate-your-voice-to = Gefðu rödd þína til að gera raddgreiningu opna fyrir alla.
 navigation-resources = Tilföng
 navigation-resources-for-developers = Tilföng fyrir hönnuði, eftir hönnuði.
+navigation-contact = Hafa samband
 navigation-careers = Störf í boði
 navigation-donate = Styrkja
 navigation-release-notes = Útgáfuupplýsingar

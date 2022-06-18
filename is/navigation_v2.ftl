@@ -8,6 +8,8 @@
 
 ## Products menu
 
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (prófunarútgáfa)
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (prófunarútgáfa)
 
 ## Who We Are menu
 

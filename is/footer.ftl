@@ -24,6 +24,7 @@ footer-pocket = { -brand-name-pocket }
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
+footer-beta-for-android = { -brand-name-beta } fyrir { -brand-name-android }
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Fyrirtæki
 # Outdated string
@@ -34,6 +35,7 @@ footer-careers = Störf í boði
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Verkfæri
 footer-resources = Tilföng
+footer-contact = Hafa samband
 footer-support = Aðstoð
 footer-file-a-bug = Skrá villu
 footer-community-participation-guidelines = Leiðbeiningar um þátttöku í samfélaginu

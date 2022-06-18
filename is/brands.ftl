@@ -31,7 +31,7 @@
 ## Firefox browsers
 
 -brand-name-firefox = Firefox
--brand-name-firefox-beta = Firefox Beta
+-brand-name-firefox-beta = Firefox Beta-prófunarútgáfa
 -brand-name-firefox-browser = Firefox Browser
 -brand-name-firefox-browsers = Firefox-vafrar
 -brand-name-firefox-developer-edition = Firefox Developer Edition
@@ -46,7 +46,7 @@
 
 ## Firefox browsers (short names)
 
--brand-name-beta = Beta
+-brand-name-beta = Beta-prófunarútgáfa
 -brand-name-developer-edition = Developer Edition
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
