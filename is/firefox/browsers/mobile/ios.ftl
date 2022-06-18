@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
+mobile-ios-get-firefox-for = Ná í { -brand-name-firefox } fyrir { -brand-name-ios }
+mobile-ios-scan-alt-text = Skannaðu QR-kóðann til að fá { -brand-name-firefox } á { -brand-name-ios }
 mobile-ios-about-mozilla = Um { -brand-name-mozilla }

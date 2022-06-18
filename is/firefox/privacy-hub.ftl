@@ -8,3 +8,4 @@
 # Sub navigation link
 firefox-privacy-our-products = Hugbúnaðurinn okkar
 firefox-privacy-hub-learn-about-our-products = Lærðu um hugbúnaðinn okkar
+firefox-privacy-hub-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }

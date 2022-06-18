@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
 mobile-compare-web-extensionsaddons = Vefviðaukar/Viðbætur
+mobile-compare-scan-alt-text = Skannaðu QR-kóðann til að fá { -brand-name-firefox } í farsímann þinn

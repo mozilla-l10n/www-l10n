@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
+mobile-android-get-firefox-for = Ná í { -brand-name-firefox } fyrir { -brand-name-android }
+mobile-android-scan-alt-text = Skannaðu QR-kóðann til að fá { -brand-name-firefox } á { -brand-name-android }
 mobile-android-about-mozilla = Um { -brand-name-mozilla }

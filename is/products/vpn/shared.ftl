@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
+vpn-shared-subscribe-link = Fáðu { -brand-name-mozilla-vpn }
 vpn-shared-privacy-notice = Meðferð persónuupplýsinga
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).

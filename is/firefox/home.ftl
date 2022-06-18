@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
 firefox-home-browsers = Vafrar
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
