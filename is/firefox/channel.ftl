@@ -26,7 +26,7 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } sendir
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Sendu inn þína skoðun</a> og hjálpaðu til með að fínstilla afköst og eiginleika.
 firefox-channel-check-out-new-android-features = Kíktu á nýja hluti í { -brand-name-android } sem eru ennþá á byrjunarstigi. Prófaðu samt bara á þína eigin ábyrgð.
-firefox-channel-nightly-blog = { -brand-name-nightly } Blogg
+firefox-channel-nightly-blog = { -brand-name-nightly } bloggið
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } sendir sjálkrafa upplýsingar til { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Prófaðu nýja eiginleika í forútgáfu | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Prófaðu nýjustu vafratæknina í forútgáfu: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } og { -brand-name-firefox-nightly }. Sæktu þetta strax!

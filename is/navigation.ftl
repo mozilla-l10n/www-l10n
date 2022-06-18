@@ -4,6 +4,8 @@
 
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } fyrir vinnutölvur
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } fyrir farsíma
+navigation-firefox-blog = { -brand-name-firefox } bloggið
+navigation-the-non-profit-behind = Sjálfseignarstofnunin á bak við { -brand-name-firefox } berst fyrir heilbrigðu interneti fyrir alla.
 navigation-mozilla-careers = Störf hjá { -brand-name-mozilla }
 navigation-android-extensions = Forritsaukar { -brand-name-android }
 navigation-browsers = Vafrar
@@ -18,6 +20,7 @@ navigation-developers = Hönnuðir
 navigation-close-developers-menu = Loka hönnuðavalmyndinni
 navigation-resources = Tilföng
 navigation-resources-for-developers = Tilföng fyrir hönnuði, eftir hönnuði.
+navigation-developer-blog = Blogg þróunaraðila
 navigation-contact = Hafa samband
 navigation-careers = Störf í boði
 navigation-donate = Styrkja

@@ -10,6 +10,7 @@ navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Loka { -brand-name-firefox-browsers } valmyndinni
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } fyrir vinnutölvur
 navigation-v2-privacy-promise = Loforð um persónuvernd
+navigation-v2-firefox-blog = { -brand-name-firefox } bloggið
 
 ## Products menu
 
@@ -30,6 +31,7 @@ navigation-v2-view-all-products = Skoða allan hugbúnað
 ## Who We Are menu
 
 navigation-v2-careers = Störf í boði
+navigation-v2-mozilla-blog = { -brand-name-mozilla } bloggið
 navigation-v2-more-about-mozilla = Meira um { -brand-name-mozilla }
 
 ## Innovation menu
