@@ -33,7 +33,9 @@ navigation-v2-view-all-products = Skoða allan hugbúnað
 ## Who We Are menu
 
 navigation-v2-join-the-fight-for-a = Taktu þátt í baráttunni fyrir heilbrigðu interneti.
+navigation-v2-leadership = Forysta
 navigation-v2-careers = Störf í boði
+navigation-v2-work-for-a-mission-driven-updated = Vinndu fyrir verkefnadrifið félag sem býr til vörur sem hafa fólk í fyrirrúmi.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } bloggið
 navigation-v2-more-about-mozilla = Meira um { -brand-name-mozilla }
 
@@ -43,6 +45,7 @@ navigation-v2-innovation = Nýsköpun
 navigation-v2-close-innovation-menu = Loka nýsköpunarvalmyndinni
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Náðu í { -brand-name-firefox }-vafrann, hannaðan beinlínis fyrir forritara.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Gefðu rödd þína svo vefir framtíðarinnar heyri í öllum.
 navigation-v2-webassembly = { -brand-name-webassembly }

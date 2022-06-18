@@ -32,7 +32,7 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta-prófunarútgáfa
--brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browser = Firefox-vafrinn
 -brand-name-firefox-browsers = Firefox-vafrar
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise

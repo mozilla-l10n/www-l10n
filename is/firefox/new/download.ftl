@@ -27,3 +27,5 @@ firefox-new-please-follow = Fylgdu þessum <a href="{ $url }">leiðbeiningum</a>
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+# The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
+firefox-new-download-browser = Sækja { -brand-name-firefox-browser }

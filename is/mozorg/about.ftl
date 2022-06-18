@@ -7,6 +7,7 @@
 
 # HTML Page title
 about-learn-about-mozilla = Frekari upplýsingar um { -brand-name-mozilla }
+about-our-leadership-has-been-at = Forystufólk okkar hefur verið í fararbroddi við að byggja upp heilbrigðara internet allt frá fyrsta degi. Það sem byrjaði sem valkostur á móti yfirráðum fyrirtækja, hefur vaxið í að verða alþjóðlegt afl til góðs á internetinu.
 about-firefox-fast-for-good = { -brand-name-firefox }: Hraðar og betur
 about-the-mozilla-manifesto = Yfirlýsing um stefnumál { -brand-name-mozilla }
 about-read-the-manifesto = Lestu yfirlýsinguna
