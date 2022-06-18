@@ -21,4 +21,5 @@ developer-mdnplus-the-web-doesnt-have-a = A web não tem um log de alterações,
 developer-mdnplus-collections = Coleções
 developer-mdnplus-build-your-perfect-library = Monte sua biblioteca perfeita. Ou deixe fazermos isso para você.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } offline
+developer-mdnplus-mdns-entire-library-at-your = Toda a biblioteca do { -brand-name-mdn } na sua mão: offline
 developer-mdnplus-resources-for-developers = Recursos para desenvolvedores, por desenvolvedores.
