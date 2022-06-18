@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = Fá aðstoð
+firefox-all-you-are-about-to-download = Þú ert að fara að sækja:
 firefox-all-browser = Vafri:
 firefox-all-platform = Stýrikerfi:
 firefox-all-language = Tungumál:
@@ -16,6 +19,7 @@ firefox-all-learn-about-firefox = Lærðu um { -brand-name-firefox } vafrana
 #   $platform (string) e.g. Windows, macOS, Linux
 #   $locale(string) e.g. English (US), German, French
 firefox-all-download-product-for = Sæktu { $product_label } fyrir { $platform } á { $locale }
+firefox-all-learn-about-installers = Lærðu um uppsetningarforrit
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }

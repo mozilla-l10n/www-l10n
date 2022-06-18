@@ -17,6 +17,7 @@ vpn-shared-save-percent-on = Sparaðu { $percent }% á { -brand-name-mozilla-vpn
 
 # Platform subpage shared strings
 
+vpn-shared-platform-trust-partner-headline = Um traustan samstarfsaðila okkar
 vpn-subnav-whats-a-vpn = Hvað er VPN?
 vpn-subnav-faqs = Algengar spurningar
 vpn-subnav-get-help = Fá aðstoð

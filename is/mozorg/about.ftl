@@ -5,10 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/about/
 
+# HTML Page title
+about-learn-about-mozilla = Frekari upplýsingar um { -brand-name-mozilla }
 about-firefox-fast-for-good = { -brand-name-firefox }: Hraðar og betur
 about-the-mozilla-manifesto = Yfirlýsing um stefnumál { -brand-name-mozilla }
 about-read-the-manifesto = Lestu yfirlýsinguna
 about-mozilla-careers = Störf hjá { -brand-name-mozilla }
+about-how-you-can-help = Hvernig þú getur hjálpað
 
 ## Newsletter
 
+about-subscribe = Gerast áskrifandi

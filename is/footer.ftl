@@ -30,6 +30,7 @@ footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } fyrir { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } fyrir { -brand-name-android }
 footer-visit-mozilla-corporations = Kynntu þér <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, samtök án hagnaðarmarkmiða sem eru móðurfélag <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> fyrirtækisins.
+footer-portions-of-this-content = Hlutar þessa efnis er með höfundarrétti ©1998–{ $current_year } eftir einstaka þátttakendur í mozilla.org. Efnið er aðgengilegt með <a rel="license" href="{ $url }">{ -brand-name-creative-commons }-notkunarleyfi</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Fyrirtæki
 # Outdated string

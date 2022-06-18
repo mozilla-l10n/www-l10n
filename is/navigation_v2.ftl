@@ -24,6 +24,7 @@ navigation-v2-view-all-products = Skoða allan hugbúnað
 ## Who We Are menu
 
 navigation-v2-careers = Störf í boði
+navigation-v2-more-about-mozilla = Meira um { -brand-name-mozilla }
 
 ## Innovation menu
 

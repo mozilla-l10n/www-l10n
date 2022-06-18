@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/about/legal/
 
+legal-legal = Lagalegur fyrirvari
+legal-get-involved = Taktu þátt
+legal-terms = Skilmálar
+legal-our-websites = Vefsvæðin okkar
 legal-privacy-notices-and-policy = Persónuverndartilkynningar og stefna
