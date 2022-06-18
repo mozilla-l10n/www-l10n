@@ -34,3 +34,5 @@ legal-mozilla-vpn-terms = شروط استخدام { -brand-name-mozilla-vpn }
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = شروط استخدام { -brand-name-mdn-plus }
 legal-report-copyright = الإبلاغ عن انتهاك حقوق النشر أو العلامة التجارية
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = شروط استخدام { -brand-name-mozilla-hubs }

@@ -34,3 +34,5 @@ legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } सेवा की शर
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } सेवा की शर्तें
 legal-report-copyright = कॉपीराइट या ट्रेडमार्क उल्लंघन की रिपोर्ट करें
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = { -brand-name-mozilla-hubs } सेवा की शर्तें

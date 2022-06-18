@@ -34,3 +34,5 @@ legal-mozilla-vpn-terms = Syarat Perkhidmatan { -brand-name-mozilla-vpn }
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Syarat Perkhidmatan { -brand-name-mdn-plus }
 legal-report-copyright = Laporkan Pelanggaran Hak Cipta atau Tanda Dagangan
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = Syarat Perkhidmatan { -brand-name-mozilla-hubs }
