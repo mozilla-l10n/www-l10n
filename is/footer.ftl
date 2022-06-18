@@ -29,6 +29,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } fyrir { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } fyrir { -brand-name-android }
+footer-visit-mozilla-corporations = Kynntu þér <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, samtök án hagnaðarmarkmiða sem eru móðurfélag <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> fyrirtækisins.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Fyrirtæki
 # Outdated string
