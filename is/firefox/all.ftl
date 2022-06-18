@@ -10,6 +10,11 @@ firefox-all-platform = Stýrikerfi:
 firefox-all-language = Tungumál:
 firefox-all-lang-multi = Mörg tungumál
 firefox-all-firefox-privacy-notice = Persónuverndarstefna { -brand-name-firefox }
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = Sæktu { $product_label } fyrir { $platform } á { $locale }
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }

@@ -34,6 +34,7 @@ firefox-channel-download-and-test-the-latest-desktop = Sæktu og prófaðu nýju
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Prófaðu nýja hluti í næstu útgáfu sem er skilgreind sem stöðug útgáfa.
 firefox-channel-release-notes = Útgáfuupplýsingar
+firefox-channel-previous-nightly-builds = Fyrri { -brand-name-nightly } byggingarútgáfur
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Búðu til, prófaðu og meira til með eina vafranum sem er gerður fyrir þróunaraðila.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } sendir sjálkrafa upplýsingar til { -brand-name-mozilla }.

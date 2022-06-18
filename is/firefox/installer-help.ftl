@@ -12,3 +12,4 @@
 ##
 
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
