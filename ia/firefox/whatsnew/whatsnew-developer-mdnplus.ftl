@@ -18,4 +18,5 @@ developer-mdnplus-whats-included = Que es includite
 developer-mdnplus-notifications = Notificationes
 developer-mdnplus-collections = Collectiones
 developer-mdnplus-mdn-offline = { -brand-name-mdn } offline
+developer-mdnplus-mdns-entire-library-at-your = Le integre libreria de { -brand-name-mdn } a portata de tu manos: offline
 developer-mdnplus-resources-for-developers = Ressources pro disveloppatores, per disveloppatores.
