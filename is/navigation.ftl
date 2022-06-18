@@ -3,16 +3,21 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } fyrir vinnutölvur
+navigation-get-the-browser-that-respects = Fáðu þér vafrann sem sjálfgefið virðir friðhelgi þína. Á { -brand-name-windows }, { -brand-name-mac } eða { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } fyrir farsíma
+navigation-take-speed-privacy-and = Taktu hraða, friðhelgi og hugarró með þér. Á { -brand-name-android } og { -brand-name-ios }.
 navigation-firefox-blog = { -brand-name-firefox } bloggið
+navigation-read-about-new-firefox = Lestu um nýja eiginleika { -brand-name-firefox } og fáðu góð ráð til að vera öruggari á netinu.
 navigation-the-non-profit-behind = Sjálfseignarstofnunin á bak við { -brand-name-firefox } berst fyrir heilbrigðu interneti fyrir alla.
 navigation-mozilla-careers = Störf hjá { -brand-name-mozilla }
+navigation-get-the-browser-that-gives = Fáðu þér vafrann sem gefur þér aukin völd á { -brand-name-windows }, { -brand-name-mac } eða { -brand-name-linux }.
 navigation-android-extensions = Forritsaukar { -brand-name-android }
 navigation-browsers = Vafrar
 navigation-close-browsers-menu = Loka vafravalmyndinni
 navigation-extensions = Forritsaukar
 navigation-support = Aðstoð
 navigation-close-products-menu = Loka hugbúnaðarvalmyndinni
+navigation-see-if-your-personal = Athugaðu hvort persónulegum upplýsingum þínum hafi verið lekið á netinu og skráðu þig til að fá tilkynningar um slíkar uppákomur í framtíðinni.
 navigation-about = Um okkur
 navigation-close-about-menu = Loka umfjöllunarvalmyndinni
 navigation-donate-your-voice-to = Gefðu rödd þína til að gera raddgreiningu opna fyrir alla.
@@ -25,6 +30,7 @@ navigation-contact = Hafa samband
 navigation-careers = Störf í boði
 navigation-join-the-fight-for-a = Taktu þátt í baráttunni fyrir heilbrigðu interneti.
 navigation-donate = Styrkja
+navigation-your-right-to-security = Réttur þinn til öryggis og friðhelgi einkalífs á internetinu er grundvallaratriði – aldrei valfrjálst.
 navigation-release-notes = Útgáfuupplýsingar
 navigation-features = Eiginleikar
 navigation-products = Hugbúnaður

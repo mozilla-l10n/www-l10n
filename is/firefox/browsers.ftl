@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
+# HTML page title
+firefox-browsers-get-the-browsers-that-put = Fáðu þér vafrana sem setja friðhelgi þína í fyrsta sæti - og hafa alltaf gert
 firefox-browsers-desktop = Vinnutölvur
 firefox-browsers-download-for-desktop = Sækja fyrir vinnutölvu
 firefox-browsers-download-for-mobile = Sækja fyrir farsíma

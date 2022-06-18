@@ -9,8 +9,10 @@ navigation-v2-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Loka { -brand-name-firefox-browsers } valmyndinni
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } fyrir vinnutölvur
+navigation-v2-simply-private-mobile = Einfalt einkavafur á farsímum.
 navigation-v2-privacy-promise = Loforð um persónuvernd
 navigation-v2-firefox-blog = { -brand-name-firefox } bloggið
+navigation-v2-read-about-new-firefox-features = Lestu um nýja eiginleika { -brand-name-firefox } og leiðir til að vera öruggari á netinu.
 
 ## Products menu
 
