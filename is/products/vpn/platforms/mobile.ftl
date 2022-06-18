@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+# Meta strings
+vpn-mobile-page-title = { -brand-name-mozilla-vpn } fyrir farsíma (snjallsíma og spjaldtölvur)
 vpn-mobile-about-headline = Um { -brand-name-mozilla }

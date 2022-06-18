@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = Loforð { -brand-name-firefox } um persónuvernd
+# Sub navigation link
+firefox-privacy-our-promise = Loforð okkar
 # Sub navigation link
 firefox-privacy-our-products = Hugbúnaðurinn okkar
 firefox-privacy-hub-learn-about-our-products = Lærðu um hugbúnaðinn okkar

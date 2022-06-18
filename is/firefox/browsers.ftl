@@ -7,6 +7,7 @@
 
 firefox-browsers-desktop = Vinnutölvur
 firefox-browsers-download-for-desktop = Sækja fyrir vinnutölvu
+firefox-browsers-download-for-mobile = Sækja fyrir farsíma
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

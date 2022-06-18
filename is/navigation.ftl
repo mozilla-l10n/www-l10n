@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } fyrir vinnutölvur
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } fyrir farsíma
 navigation-mozilla-careers = Störf hjá { -brand-name-mozilla }
 navigation-android-extensions = Forritsaukar { -brand-name-android }
 navigation-browsers = Vafrar

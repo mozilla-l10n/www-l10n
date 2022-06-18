@@ -17,4 +17,5 @@ mobile-compare-voice-search = Raddleit
 mobile-compare-add-to-homescreen = Bæta við á upphafsskjá
 mobile-compare-read-text-aloud = Lesið texta upphátt
 mobile-compare-syncs-with-desktopmobile = Samstillir við vinnutölvu/farsímaforrit
+mobile-compare-get-firefox-for-mobile = Náðu í { -brand-name-firefox } fyrir farsíma
 mobile-compare-scan-alt-text = Skannaðu QR-kóðann til að fá { -brand-name-firefox } í farsímann þinn

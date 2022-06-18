@@ -9,6 +9,7 @@ navigation-v2-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Loka { -brand-name-firefox-browsers } valmyndinni
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } fyrir vinnutölvur
+navigation-v2-privacy-promise = Loforð um persónuvernd
 
 ## Products menu
 
@@ -19,6 +20,7 @@ navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Uppgötvaðu og vistaðu bestu sögurnar af veraldarvefnum.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-product-promise = Loforð um hugbúnaðinn
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (prófunarútgáfa)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (prófunarútgáfa)
