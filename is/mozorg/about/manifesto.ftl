@@ -1,13 +1,23 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
 # HTML page title
-manifesto-the-mozilla-manifesto = The { -brand-name-mozilla } Manifesto
+manifesto-the-mozilla-manifesto = Yfirlýsing um stefnumál { -brand-name-mozilla }
 manifesto-transparent-community = Transparent community-based processes promote participation, accountability and trust.
+manifesto-principle-1 = Meginregla 1
+manifesto-principle-2 = Meginregla 2
+manifesto-principle-3 = Meginregla 3
+manifesto-principle-4 = Meginregla 4
+manifesto-principle-5 = Meginregla 5
+manifesto-principle-6 = Meginregla 6
+manifesto-principle-7 = Meginregla 7
+manifesto-principle-8 = Meginregla 8
+manifesto-principle-9 = Meginregla 9
+manifesto-principle-10 = Meginregla 10
 manifesto-01 = 01
 manifesto-02 = 02
 manifesto-03 = 03
@@ -18,20 +28,11 @@ manifesto-07 = 07
 manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
+# Main page heading
+manifesto-the-mozilla-manifesto-addendum = Viðbót á yfirlýsingu um stefnumál { -brand-name-mozilla }
+# Main page sub-heading
+manifesto-pledge-for-a-healthy-internet = Krafan um heilbrigt internet
 manifesto-our-10-principles = <strong>Our 10</strong> Principles
-manifesto-use-open-badges-to-share = Use Open Badges to share your skills and interests
-manifesto-learn-about-open-source = Learn about open source code in journalism
-manifesto-see-how-mozilla-works = See how { -brand-name-mozilla } works to put your privacy first
-manifesto-read-about-developments = Read about developments in privacy and data safety
-manifesto-learn-more-about-how-to = Learn more about how to protect yourself online
-manifesto-add-new-voices-to-open = Add new voices to open source technology
-manifesto-set-your-do-not-track = Set your Do Not Track preference
-manifesto-learn-how-to-remix-content = Learn how to remix content to create something new
-manifesto-participate-in-our-governance = Participate in our governance forum
-manifesto-join-us-as-a-volunteer = Join us as a volunteer
-manifesto-learn-how-to-collaborate = Learn how to collaborate online
-manifesto-host-or-join-a-maker-party = Host or join a { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Learn how to build online collaboration skills
 manifesto-read-the-entire-manifesto = Read the entire manifesto
 manifesto-details-the-mozilla-manifesto = The { -brand-name-mozilla } Manifesto
 manifesto-details-introduction = Introduction

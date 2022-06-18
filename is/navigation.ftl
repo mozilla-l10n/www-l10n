@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-mozilla-careers = Störf hjá { -brand-name-mozilla }
 navigation-android-extensions = Forritsaukar { -brand-name-android }
 navigation-extensions = Forritsaukar
+navigation-careers = Störf í boði
 navigation-release-notes = Útgáfuupplýsingar
 navigation-features = Eiginleikar
 navigation-products = Vörur

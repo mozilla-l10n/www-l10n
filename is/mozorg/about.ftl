@@ -6,6 +6,9 @@
 ### URL: https://www-dev.allizom.org/about/
 
 about-firefox-fast-for-good = { -brand-name-firefox }: Hraðar og betur
+about-the-mozilla-manifesto = Yfirlýsing um stefnumál { -brand-name-mozilla }
+about-read-the-manifesto = Lestu yfirlýsinguna
+about-mozilla-careers = Störf hjá { -brand-name-mozilla }
 
 ## Newsletter
 

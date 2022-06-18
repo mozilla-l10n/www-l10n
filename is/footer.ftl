@@ -3,7 +3,9 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = { -brand-name-mozilla }-yfirlýsingin
 footer-privacy = Friðhelgi
+footer-brand-standards = Vörumerkjastaðlar
 # Outdated string
 footer-desktop = Tölva
 # Outdated string
@@ -26,8 +28,11 @@ footer-mozilla = { -brand-name-mozilla }
 # Outdated string
 footer-about = Um
 footer-press-center = Fréttir
+footer-careers = Störf í boði
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
+footer-community-participation-guidelines = Leiðbeiningar um þátttöku í samfélaginu
+footer-websites-privacy-notice = Persónuverndarstefna vefsvæðis
 footer-websites-cookies = Vefkökur
 footer-websites-legal = Lögmæti
 footer-language = Tungumál
