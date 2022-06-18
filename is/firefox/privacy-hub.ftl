@@ -9,6 +9,8 @@
 firefox-privacy-hub-firefox-privacy-promise = Loforð { -brand-name-firefox } um persónuvernd
 # HTML page description
 firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } safnar minni gögnum, heldur þeim öruggum og án nokkurra leyndarmála.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-privacy-hub-firefox-products-are-designed = { -brand-name-firefox } hugbúnaður er hannaður til að vernda <strong>friðhelgi þína</strong>
 # Sub navigation link
 firefox-privacy-our-promise = Loforð okkar
 # Sub navigation link
@@ -31,5 +33,10 @@ firefox-privacy-hub-why-trust-firefox = Af hverju að treysta { -brand-name-fire
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = Vegna þess að við setjum fólk í fyrsta sæti. Reyndar erum við studd af <a href="{ $foundation }">sjálfseignarstofnun án hagnaðarsjónarmiða</a>. Frá fyrsta degi hefur það verið verkefni okkar að vernda internetið og alla á því.
+firefox-privacy-hub-learn-more-about-our-mission = Frekari upplýsingar um markmið okkar
+firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } hugbúnaður virkar öðruvísi - vegna þess að hann er fyrst og fremst hannaður til að vernda friðhelgi þína.
 firefox-privacy-hub-learn-about-our-products = Lærðu um hugbúnaðinn okkar
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Lestu <a href="{ $url }">persónuverndarstefnuna</a> fyrir hugbúnaðinn okkar
 firefox-privacy-hub-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
