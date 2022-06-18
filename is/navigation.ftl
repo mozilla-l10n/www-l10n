@@ -18,6 +18,7 @@ navigation-extensions = Forritsaukar
 navigation-support = Aðstoð
 navigation-close-products-menu = Loka hugbúnaðarvalmyndinni
 navigation-see-if-your-personal = Athugaðu hvort persónulegum upplýsingum þínum hafi verið lekið á netinu og skráðu þig til að fá tilkynningar um slíkar uppákomur í framtíðinni.
+navigation-protect-your-entire-device = Verndaðu allt tækið þitt og öll forritin. Feldu raunverulega staðsetningu þína og tengdu allt að 5 tæki. Gerstu áskrifandi núna.
 navigation-about = Um okkur
 navigation-close-about-menu = Loka umfjöllunarvalmyndinni
 navigation-donate-your-voice-to = Gefðu rödd þína til að gera raddgreiningu opna fyrir alla.
