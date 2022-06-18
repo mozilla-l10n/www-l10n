@@ -11,5 +11,6 @@ firefox-privacy-hub-firefox-privacy-promise = Loforð { -brand-name-firefox } um
 firefox-privacy-our-promise = Loforð okkar
 # Sub navigation link
 firefox-privacy-our-products = Hugbúnaðurinn okkar
+firefox-privacy-hub-you-should-be-able-to-decide = Þú ættir að geta ákveðið hverjir geti séð persónulegar upplýsingar þínar. Ekki bara meðal vina þinna, heldur hjá öllum auglýsendum og fyrirtækjum á netinu - þar á meðal okkur.
 firefox-privacy-hub-learn-about-our-products = Lærðu um hugbúnaðinn okkar
 firefox-privacy-hub-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
