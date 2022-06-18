@@ -8,7 +8,7 @@
 home-internet-for-people-not-profit = Internet fyrir fólk, ekki gróða
 home-did-you-know-mozilla-the-maker = Vissirðu þetta? Að { -brand-name-mozilla } — sem býr til { -brand-name-firefox } — berst fyrir því að viðhalda Internetinu opnu og aðgengilegu fyrir alla.
 home-fast-for-good = Hraðar og betur.
-home-with-2x-the-speed-built-in = Með tvöfalt meiri hraða, innbyggðri persónuvernd og { -brand-name-mozilla } að baki, er nýi { -brand-name-firefox } betri leið til að vafra.
+home-with-2x-the-speed-built-in = Með tvöfalt meiri hraða, innbyggðri persónuvernd og { -brand-name-mozilla } sem bakhjarl, þá er nýi { -brand-name-firefox }-vafrinn betri leið til að vafra.
 home-we-make-the-internet-safer = Við gerum internetið öruggara, heilbrigðara og hraðvirkara fyrir betri upplifun.
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } eru samtök án hagnaðarmarkmiða sem standa á bak við { -brand-name-firefox }, upprunalega vafrann sem gaf notendum val. Við búum til hugbúnað og stefnumörkun til að halda internetinu sem þjónustu við fólk, ekki hagnað.
 home-our-impact = Áhrif okkar

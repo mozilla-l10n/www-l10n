@@ -30,6 +30,7 @@ navigation-v2-view-all-products = Skoða allan hugbúnað
 
 ## Who We Are menu
 
+navigation-v2-join-the-fight-for-a = Taktu þátt í baráttunni fyrir heilbrigðu interneti.
 navigation-v2-careers = Störf í boði
 navigation-v2-mozilla-blog = { -brand-name-mozilla } bloggið
 navigation-v2-more-about-mozilla = Meira um { -brand-name-mozilla }

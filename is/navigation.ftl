@@ -23,6 +23,7 @@ navigation-resources-for-developers = Tilföng fyrir hönnuði, eftir hönnuði.
 navigation-developer-blog = Blogg þróunaraðila
 navigation-contact = Hafa samband
 navigation-careers = Störf í boði
+navigation-join-the-fight-for-a = Taktu þátt í baráttunni fyrir heilbrigðu interneti.
 navigation-donate = Styrkja
 navigation-release-notes = Útgáfuupplýsingar
 navigation-features = Eiginleikar
