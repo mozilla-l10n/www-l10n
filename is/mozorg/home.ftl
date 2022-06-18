@@ -12,6 +12,7 @@ home-with-2x-the-speed-built-in = Með tvöfalt meiri hraða, innbyggðri persó
 home-we-make-the-internet-safer = Við gerum internetið öruggara, heilbrigðara og hraðvirkara fyrir betri upplifun.
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } eru samtök án hagnaðarmarkmiða sem standa á bak við { -brand-name-firefox }, upprunalega vafrann sem gaf notendum val. Við búum til hugbúnað og stefnumörkun til að halda internetinu sem þjónustu við fólk, ekki hagnað.
 home-our-impact = Áhrif okkar
+home-when-you-use-firefox-you-help = Þegar þú notar { -brand-name-firefox } hjálpar þú { -brand-name-mozilla } að berjast við falsupplýsingar á netinu, við að kenna stafræna færni og að gera athugasemdahlutann mannlegri. Skoðaðu hvað getur hjálpað við að búa til heilbrigðara internet.
 home-working-to-keep-the-internet = Við vinnum að því að gera vefinn betri, opinn og fyrir alla, við kennum veflæsi, bjóðum upp á verkfæri og erum málsvarar fyrir alla þá sem eru hlynntir því að vefurinn sé opinn og fyrir alla.
 home-working-at-the-grassroots-and = Við erum grasrótarfyrirtæki sem vinnur að því að kenna veflæsi, bjóða upp á ýmis verkfæri og berjast fyrir sanngirni, aðgengi og virðingu á Internetinu.
 home-read-our-internet-health-report = Lestu skýrsluna okkar um heilsufar Internetsins
