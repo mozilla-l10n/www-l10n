@@ -10,3 +10,6 @@ firefox-desktop-download-extensions-for-every = Forritsaukar fyrir hvert áhugas
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Fylgdu þessum <a href="{ $url }">leiðbeiningum</a> til að setja inn { -brand-name-firefox }.

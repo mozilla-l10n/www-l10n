@@ -9,6 +9,10 @@ vpn-shared-privacy-notice = Meðferð persónuupplýsinga
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = Sparaðu { $percent }% á { -brand-name-mozilla-vpn }*
 
 # Platform subpage shared strings
 

@@ -32,6 +32,7 @@ manifesto-10 = 10
 manifesto-the-mozilla-manifesto-addendum = Viðbót á yfirlýsingu um stefnumál { -brand-name-mozilla }
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Krafan um heilbrigt internet
+manifesto-show-your-support = Sýndu stuðning þinn í verki
 manifesto-our-10-principles = <strong>Our 10</strong> Principles
 manifesto-read-the-entire-manifesto = Read the entire manifesto
 manifesto-details-the-mozilla-manifesto = The { -brand-name-mozilla } Manifesto

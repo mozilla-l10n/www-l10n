@@ -15,3 +15,4 @@ navigation-v2-careers = Störf í boði
 
 ## Innovation menu
 
+navigation-v2-donate-your-voice-so-the-future = Gefðu rödd þína svo vefir framtíðarinnar heyri í öllum.

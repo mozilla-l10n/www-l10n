@@ -5,7 +5,10 @@
 navigation-mozilla-careers = Störf hjá { -brand-name-mozilla }
 navigation-android-extensions = Forritsaukar { -brand-name-android }
 navigation-extensions = Forritsaukar
+navigation-support = Aðstoð
+navigation-donate-your-voice-to = Gefðu rödd þína til að gera raddgreiningu opna fyrir alla.
 navigation-careers = Störf í boði
+navigation-donate = Styrkja
 navigation-release-notes = Útgáfuupplýsingar
 navigation-features = Eiginleikar
 navigation-products = Vörur

@@ -31,11 +31,17 @@ footer-press-center = Fréttir
 footer-careers = Störf í boði
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
+footer-tools = Verkfæri
+footer-support = Aðstoð
+footer-file-a-bug = Skrá villu
 footer-community-participation-guidelines = Leiðbeiningar um þátttöku í samfélaginu
 footer-websites-privacy-notice = Persónuverndarstefna vefsvæðis
 footer-websites-cookies = Vefkökur
 footer-websites-legal = Lögmæti
 footer-language = Tungumál
+footer-donate = Styrkja
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Fylgstu með @{ -brand-name-mozilla }
+footer-follow-firefox = Fylgstu með @{ -brand-name-firefox }
