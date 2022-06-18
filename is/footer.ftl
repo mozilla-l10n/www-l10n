@@ -8,7 +8,7 @@ footer-privacy = Friðhelgi
 footer-brand-standards = Vörumerkjastaðlar
 footer-browsers = Vafrar
 # Outdated string
-footer-desktop = Tölva
+footer-desktop = Vinnutölva
 # Outdated string
 footer-mobile = Farsími
 # Outdated string

@@ -10,7 +10,7 @@
 
 browsers-chromebook-get-firefox-browser = Ná í { -brand-name-firefox-browser } fyrir { -brand-name-chromebook }
 browsers-chromebook-browsers-chromebook-get-firefox-for = Ná í { -brand-name-firefox } fyrir { -brand-name-android }
-browsers-chromebook-get-firefox-desktop = Ná í { -brand-name-firefox } borðtölvuútgáfuna fyrir { -brand-name-chromebook }
+browsers-chromebook-get-firefox-desktop = Ná í { -brand-name-firefox } vinnutölvuútgáfuna fyrir { -brand-name-chromebook }
 browsers-chromebook-dropdown-copy = Ná í { -brand-name-firefox } fyrir { -brand-name-chromebook }
 
 # Variables:

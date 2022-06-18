@@ -7,7 +7,7 @@
 
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-firefox-browsers = { -brand-name-firefox } vafrar
-firefox-products-desktop = Borðtölvur
+firefox-products-desktop = Vinnutölvur
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Skoða alla vafra

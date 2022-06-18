@@ -23,6 +23,7 @@ vpn-subnav-whats-a-vpn = Hvað er VPN?
 vpn-subnav-faqs = Algengar spurningar
 vpn-subnav-get-help = Fá aðstoð
 vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Vinnutölvur
 
 ## VPN Affiliate cookie notice
 

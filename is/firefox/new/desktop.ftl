@@ -8,6 +8,7 @@
 firefox-desktop-download-works-with-google = Virkar með { -brand-name-google } hugbúnaði
 firefox-desktop-download-library-of-extensions = Safn forritsauka
 firefox-desktop-download-extensions-for-every = Forritsaukar fyrir hvert áhugasvið
+firefox-desktop-download-learn-about-the = Lærðu um { -brand-name-firefox } vinnutölvuvafrann hér að neðan
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 

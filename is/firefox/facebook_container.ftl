@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Farðu á <a href="{ $url }">{ $link_copy }</a> til að fá { -brand-name-firefox } fyrir vinnutölvu.
 facebook-container-about-firefox-and-mozilla = Um { -brand-name-firefox } og { -brand-name-mozilla }

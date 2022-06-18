@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
+firefox-browsers-desktop = Vinnutölvur
+firefox-browsers-download-for-desktop = Sækja fyrir vinnutölvu
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

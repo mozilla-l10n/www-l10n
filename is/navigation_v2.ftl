@@ -8,6 +8,7 @@ navigation-v2-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Loka { -brand-name-firefox-browsers } valmyndinni
+navigation-v2-firefox-for-desktop = { -brand-name-firefox } fyrir vinnutölvur
 
 ## Products menu
 

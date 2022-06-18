@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Meta strings
+vpn-desktop-page-title = { -brand-name-mozilla-vpn } fyrir vinnutölvur (borðtölvur og fartölvur)
 vpn-desktop-about-headline = Um { -brand-name-mozilla }

@@ -5,16 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
 
-firefox-channel-desktop = Tölva
+firefox-channel-desktop = Vinnutölvur
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = Vertu villtur og vafraðu í framtíðinni.
-firefox-channel-be-among-the-first-to-explore = Vertu fyrstur til að prófa framtíðarútgáfu af { -brand-name-firefox } fyrir borðtölvur, { -brand-name-android } og { -brand-name-ios }.
+firefox-channel-be-among-the-first-to-explore = Vertu fyrstur til að prófa framtíðarútgáfu af { -brand-name-firefox } fyrir vinnutölvur, { -brand-name-android } og { -brand-name-ios }.
 firefox-channel-see-something-that-isnt-working = Sérðu eitthvað sem virkar ekki? Láttu okkur vita.
 firefox-channel-file-a-bug-now = Skráðu nýja villu
 firefox-channel-tips-for-filing-a-bug = Ábendingar fyrir hvernig á að skrá villu
 firefox-channel-try-new-features-in-a-pre = Prófaðu nýjustu tækni í forútgáfu af { -brand-name-android } vafranum | { -brand-name-firefox }
-firefox-channel-download-and-test-future = Sæktu og prófaðu framtíðarútgáfur af { -brand-name-firefox } fyrir borðtölvur, { -brand-name-android } og { -brand-name-ios }.
+firefox-channel-download-and-test-future = Sæktu og prófaðu framtíðarútgáfur af { -brand-name-firefox } fyrir vinnutölvur, { -brand-name-android } og { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Prófaðu nýjustu tækni í forútgáfu af vafranum fyrir { -brand-name-android }: { -brand-name-firefox-beta } og { -brand-name-firefox-nightly }. Byrjaðu uppsetningu strax!
 firefox-channel-experience-cutting-edge-android = Prófaðu nýjustu tækni í forútgáfu af vafranum fyrir { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } og { -brand-name-firefox-nightly }. Byrjaðu uppsetningu strax!
 firefox-channel-download-and-test-the-latest-android = Sæktu og prófaðu nýjustu eiginleikana í { -brand-name-firefox } fyrir { -brand-name-android } með { -brand-name-aurora }, { -brand-name-beta } og { -brand-name-nightly } afbrigðunum.
@@ -30,7 +30,7 @@ firefox-channel-nightly-blog = { -brand-name-nightly } Blogg
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } sendir sjálkrafa upplýsingar til { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Prófaðu nýja eiginleika í forútgáfu | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Prófaðu nýjustu vafratæknina í forútgáfu: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } og { -brand-name-firefox-nightly }. Sæktu þetta strax!
-firefox-channel-download-and-test-the-latest-desktop = Sæktu og prófaðu nýjustu eiginleikana í { -brand-name-firefox } fyrir borðtölvuútgáfunni með { -brand-name-developer-edition }, { -brand-name-beta } og { -brand-name-nightly } afbrigðunum.
+firefox-channel-download-and-test-the-latest-desktop = Sæktu og prófaðu nýjustu eiginleikana í { -brand-name-firefox } fyrir vinnutölvuútgáfunni með { -brand-name-developer-edition }, { -brand-name-beta } og { -brand-name-nightly } afbrigðunum.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Prófaðu nýja hluti í næstu útgáfu sem er skilgreind sem stöðug útgáfa.
 firefox-channel-release-notes = Útgáfuupplýsingar
