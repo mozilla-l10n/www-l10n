@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-index-see-all = Skoða alla forritsauka
+features-index-compare-browsers = Bera saman vafra

@@ -8,6 +8,7 @@
 
 ## Required
 
+installer-help-page-title = Niðurhalið þitt var truflað
 
 ##
 

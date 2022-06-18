@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox vafri: Betri bókamerki hvar sem þú ert
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Betri bókamerki hvert sem þú ferð
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Flokkaðu auðveldlega bókamerki í möppur og fáðu aðgang að þeim allstaðar, bæði frá tölvunni og farsíma.
 features-bookmarks-better-bookmarks = Betri bókamerki

@@ -8,6 +8,7 @@
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Yfirlit
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-select-your-download = Veldu niðurhalið þitt
 firefox-enterprise-support = Aðstoð
 firefox-enterprise-msi-installers = MSI-uppsetningarforrit
 firefox-enterprise-legacy-browser-support = Stuðningur við eldri vafra

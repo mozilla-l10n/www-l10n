@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-privacy-notice = Meðferð persónuupplýsinga
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
@@ -16,9 +17,15 @@ vpn-shared-save-percent-on = Sparaðu { $percent }% á { -brand-name-mozilla-vpn
 
 # Platform subpage shared strings
 
+vpn-subnav-whats-a-vpn = Hvað er VPN?
+vpn-subnav-faqs = Algengar spurningar
+vpn-subnav-get-help = Fá aðstoð
+vpn-subnav-platform-android = { -brand-name-android }
 
 ## VPN Affiliate cookie notice
 
+vpn-shared-affiliate-notification-reject = Hafna
+vpn-shared-affiliate-notification-ok = Í lagi
 
 ##
 

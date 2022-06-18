@@ -6,6 +6,7 @@ footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla }-yfirlýsingin
 footer-privacy = Friðhelgi
 footer-brand-standards = Vörumerkjastaðlar
+footer-browsers = Vafrar
 # Outdated string
 footer-desktop = Tölva
 # Outdated string

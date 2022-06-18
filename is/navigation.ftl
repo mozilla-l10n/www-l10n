@@ -4,6 +4,8 @@
 
 navigation-mozilla-careers = Störf hjá { -brand-name-mozilla }
 navigation-android-extensions = Forritsaukar { -brand-name-android }
+navigation-browsers = Vafrar
+navigation-close-browsers-menu = Loka vafravalmyndinni
 navigation-extensions = Forritsaukar
 navigation-support = Aðstoð
 navigation-close-products-menu = Loka hugbúnaðarvalmyndinni
