@@ -14,6 +14,7 @@ vpn-landing-faq-heading = Algengar spurningar
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-email-label = Hvert er tölvupóstfangið þitt?
 
 ##
 

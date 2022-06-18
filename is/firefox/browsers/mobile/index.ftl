@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+browsers-mobile-join-firefox-and-get-the-most = Vertu með í { -brand-name-firefox } og fáðu sem mest út úr öllum hugbúnaðnum - á öllum tækjum.
 browsers-mobile-download = Sækja

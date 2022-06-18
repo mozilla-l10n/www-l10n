@@ -27,4 +27,5 @@ firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Sendu stórar skrár og viðkvæm skjöl á öruggan hátt, allt að 2,5G.
 firefox-products-send-a-file = Senda skrá
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-join-firefox-and-get-the-most = Vertu með í { -brand-name-firefox } og fáðu sem mest út úr öllum hugbúnaðnum - á öllum tækjum.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }

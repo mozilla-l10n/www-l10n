@@ -4,7 +4,7 @@
 
 send-to-device-send-firefox = Sendu { -brand-name-firefox } í snjallsímann eða spjaldtölvuna
 send-to-device-your-download-link = Búið er að senda niðurhalstengilinn.
-send-to-device-please-enter-an-email = Sláðu inn tölvupóstfang.
+send-to-device-please-enter-an-email = Settu inn tölvupóstfang.
 send-to-device-an-error-occured = Villa kom upp í kerfinu. Reyndu aftur seinna.
 send-to-device-enter-your-email = Sláðu inn tölvupóstfangið
 send-to-device-send = Senda
