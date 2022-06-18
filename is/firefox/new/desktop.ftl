@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+firefox-desktop-download-works-with-google = Virkar með { -brand-name-google } hugbúnaði
 firefox-desktop-download-library-of-extensions = Safn forritsauka
 firefox-desktop-download-extensions-for-every = Forritsaukar fyrir hvert áhugasvið
 

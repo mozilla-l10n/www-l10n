@@ -8,8 +8,18 @@
 
 ## Products menu
 
+navigation-v2-products = Hugbúnaður
+navigation-v2-close-products-menu = Loka hugbúnaðarvalmyndinni
+navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Uppgötvaðu og vistaðu bestu sögurnar af veraldarvefnum.
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (prófunarútgáfa)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (prófunarútgáfa)
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-view-all-products = Skoða allan hugbúnað
 
 ## Who We Are menu
 

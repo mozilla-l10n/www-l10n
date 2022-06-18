@@ -14,6 +14,8 @@ footer-mobile = Farsími
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
 # Outdated string
+footer-products = Hugbúnaður
+# Outdated string
 footer-lockwise = { -brand-name-lockwise }
 # Outdated string
 footer-monitor = { -brand-name-monitor }
