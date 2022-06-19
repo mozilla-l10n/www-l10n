@@ -43,6 +43,8 @@ manifesto-10 = 10
 manifesto-the-mozilla-manifesto-addendum = Viðbót við stefnuskrá { -brand-name-mozilla }
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Krafan um heilbrigt internet
+manifesto-the-open-global-internet = Opna, alþjóðlega internetið er öflugasta samskipta- og samstarfstæki sem við höfum nokkurn tíma séð. Það felur í sér margar okkar björtustu vonir um framfarir mannkynsins. Það gefur ný tækifæri til að læra, byggja upp tilfinningu fyrir sameiginlegri mannúð og leysa brýn vandamál sem fólk stendur frammi fyrir alls staðar.
+manifesto-over-the-last-decade-we = Á síðasta áratug höfum við séð þetta loforð rætast á margan hátt. Við höfum líka séð kraft internetsins notað til að magna upp sundrungu, hvetja til ofbeldis, ýta undir hatur og vísvitandi hagræða staðreyndum og veruleika. Við höfum lært að við ættum að setja fram óskir okkar um mannlega upplifun af internetinu með skýrari hætti. Við erum að gera það núna.
 manifesto-show-your-support = Sýndu stuðning þinn í verki
 manifesto-i-support-the-vision-of = Ég styð framtíðarsýnina um betra og heilbrigðara internet frá @mozilla, viltu taka þátt með mér?
 manifesto-share-on-twitter = Deila á { -brand-name-twitter }
