@@ -8,3 +8,6 @@
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-out-of-date-notification-v2 = Enn nýrri { -brand-name-firefox } er fáanlegur. Endurræstu til að uppfæra.
+# Obsolete string
+whatsnew-out-of-date-notification = Enn nýrri { -brand-name-firefox-browser } er fáanlegur. Endurræstu til að uppfæra.

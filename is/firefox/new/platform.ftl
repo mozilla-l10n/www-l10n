@@ -32,4 +32,5 @@ new-platform-block-trackers = Lokaðu á rekjara
 
 ## Windows
 
+new-platform-live-your-life = Lifðu lífinu þínu, { -brand-name-firefox } er ekki að horfa. Veldu hverju á að deila og hvenær á að deila því.
 new-platform-seamless-setup = Óaðfinnanleg uppsetning
