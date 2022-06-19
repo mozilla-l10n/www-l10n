@@ -45,17 +45,23 @@ contribute-opportunities = Fréttir og tækifæri fyrir sjálfboðaliða
 ## Made by
 
 contribute-made-by-heading = Búið til af ástríðufullu fólki eins og þér
+contribute-made-by-desc = Þegar þú leggur þitt af mörkum til { -brand-name-mozilla } verðurðu hluti af alheimssamfélagi sem samanstendur af fólki alls staðar að úr heiminum sem trúir því að við höfum öll hlutverk við að tryggja að internetið verði áfram afl til góðs.
+contribute-made-by-desc-cont = Við teljum að samfélagsleg samvinna sé mikilvæg til að skapa internet sem sé fjölbreytt, nýstárlegt og ábyrgt gagnvart fólkinu sem þarfnast þess mest. Hvort sem þú hefur bakgrunn í tækni, skipulagningu samfélags eða bara átt tölvu og dálítinn frítíma, þá geturðu hjálpað okkur að gera internetið að betri stað.
 
 ## Newsletter
 
 contribute-newsletter-heading = Ekki viss ennþá?
+contribute-newsletter-sub-heading = Fáðu fréttir um samfélagið og framlög í pósthólfið þitt
+contribute-newsletter-desc = Gerast áskrifandi að fréttabréfinu okkar, vertu með öðrum Mozillians um allan heim og lærðu um áhrifamikil tækifæri til að styðja við { -brand-name-mozilla } verkefnið.
 
 ## Support
 
 contribute-support-heading = Fá aðstoð
+contribute-support-desc = { -brand-name-mozilla } er með ástríðufullt teymi sjálfboðaliða til að aðstoða við flest þau vandamál sem þú gætir lent í.
 contribute-mozilla-support = { -brand-name-mozilla }-aðstoð
 
 ## Web compat
 
 contribute-web-compat-heading = Vandamál með vefsíðu?
+contribute-web-compat-desc = Ef reynsla þín af vefsvæði er mismunandi milli mismunandivafra gætirðu hafa uppgötvað vandamál með samhæfni vefja. Okkur þætti vænt um að vita af því!
 contribute-report-issue = Tilkynna um vandamál
