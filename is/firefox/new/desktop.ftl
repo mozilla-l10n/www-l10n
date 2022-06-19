@@ -58,6 +58,7 @@ firefox-desktop-download-sync-across-devices = Samstillt á milli tækja
 firefox-desktop-download-reader-mode = Lestrarhamur
 firefox-desktop-download-spell-check = Stafsetningaryfirferð
 firefox-desktop-download-pinned-tabs = Festir flipar
+firefox-desktop-download-stream-share-play = Streyming, deiling og afspilun
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Lokað fyrir sjálfvirka spilun myndskeiða og hljóðs
 # Picture-in-Picture is a feature names and so is capitalized in English
@@ -69,6 +70,7 @@ firefox-desktop-download-third-party-cookie = Lokað á vefkökur utanaðkomandi
 firefox-desktop-download-fingerprinter-blocking = Lokar á fingrafaragerð
 firefox-desktop-download-cryptominer-blocking = Lokar á rafmyntargrafara
 firefox-desktop-download-private-browsing-mode = Einkavafur í huliðsham
+firefox-desktop-download-individual-protections-report = Einstaklingsverndunarskýrsla
 firefox-desktop-download-secure-your-personal = Tryggðu persónulegar upplýsingar þínar
 firefox-desktop-download-breached-website-alerts = Viðvaranir vegna vefsvæða sem hafa orðið fyrir gagnaránum
 firefox-desktop-download-built-in-password = Innbyggður lykilorðastjóri
@@ -79,8 +81,14 @@ firefox-desktop-download-customize-your-browser = Sérsníddu vafrann þinn
 firefox-desktop-download-themes = Þemu
 firefox-desktop-download-dark-mode = Dökkur hamur
 firefox-desktop-download-library-of-extensions = Safn forritsauka
+firefox-desktop-download-adjust-search-bar = Aðlögun stillinga leitarstikunnar
+firefox-desktop-download-change-new-tab = Hægt að breyta uppsetningu nýrra flipa
 firefox-desktop-download-make-firefox-your = Gerðu <strong>{ -brand-name-firefox }</strong> að þínum eigin
 firefox-desktop-download-extensions-for-every = Forritsaukar fyrir hvert áhugasvið
+firefox-desktop-download-change-up-your = Breyttu útlitinu þínu
+firefox-desktop-download-go-from-light = Farðu úr ljósum ham í dökkan eftir skapi þínu eða löngunum, eða lífgaðu upp á tilveruna með sérsniðnu þema (regnbogaeinhyrningum, kannski).
+firefox-desktop-download-tweak-your-settings = Fínstilltu stillingarnar þínar
+firefox-desktop-download-theres-no-need = Það er engin þörf á að setjast að varanlega. Breyttu nýjum flipasíðum, leitarstikunni, bókamerkjum og fleiru til að kanna internetið eins og þú vilt hafa hlutina.
 firefox-desktop-download-your-privacy-comes = Persónuvernd þín skiptir máli.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Samstilltu tækin þín
@@ -91,6 +99,10 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Fáðu { -brand-name-firefox-browser } fyrir <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Fáðu { -brand-name-firefox-browser } fyrir <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-learn-about-the = Lærðu um { -brand-name-firefox } vinnutölvuvafrann hér að neðan
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Frá öryggismálum til frétta til leikja, það er til <a { $attrs }>viðbót fyrir allt</a>. Bættu við eins mörgum og þig lystir þangað til vafrinn þinn er alveg eins og þú vilt hafa hann.
 firefox-desktop-download-just-download-the-browser = Sækja bara vafrann
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/

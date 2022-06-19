@@ -7,6 +7,7 @@
 
 mobile-compare-conclusion = Niðurstaða
 mobile-compare-text-to-speech = Texti í tal
+mobile-compare-reader-mode = Lestrarhamur
 mobile-compare-spell-checking = Stafsetningaryfirferð
 mobile-compare-web-extensionsaddons = Vefviðaukar/Viðbætur
 mobile-compare-dark-mode = Dökkur hamur
