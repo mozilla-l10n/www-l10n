@@ -8,7 +8,13 @@
 
 ## Required
 
+whatsnew-account-main-headline = Enginn reikningur nauðsynlegur. En þú gætir viljað einn slíkan.
+whatsnew-account-main-button = Skrá inn
 
 ##
 
 whatsnew-account-signed-in-headline = Gerðu meira. Notaðu { -brand-name-firefox } fyrir farsíma.
+whatsnew-account-signed-in-lead-in = Sendu niðurhalstengil í símann þinn.
+whatsnew-account-signed-in-qr-title = Sæktu { -brand-name-firefox } fyrir snjallsímann þinn og spjaldtölvuna.
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = Skannaðu þennan QR-kóða
