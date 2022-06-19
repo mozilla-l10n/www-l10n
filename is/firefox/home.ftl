@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-every-single-firefox = Hver einasta { -brand-name-firefox }-vara stemmir við loforð okkar um persónuupplýsingar: <strong>Taka minna. Geyma öruggt. Engin leyndarmál.</strong>
 firefox-home-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
 firefox-home-desktop = Vinnutölvur
 firefox-home-browsers = Vafrar

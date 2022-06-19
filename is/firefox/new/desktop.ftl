@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Sæktu { -brand-name-firefox-browser } - Hraðvirkt, einka og ókeypis - frá { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Fáðu þér { -brand-name-firefox }, ókeypis vafra sem studdur er af { -brand-name-mozilla }, sjálfseignarstofnun sem er tileinkuð heilbrigði og friðhelgi internetsins. Er núna í boði fyrir { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } og { -brand-name-ios }.
 firefox-desktop-download-og-title = Sæktu hraðasta { -brand-name-firefox } nokkru sinni
 firefox-desktop-download-og-desc = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } er hérna.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -32,6 +38,11 @@ firefox-desktop-download-blocks-social-trackers = Lokar á samfélagmiðlasrekja
 firefox-desktop-download-os-availability = Framboð stýrikerfa
 firefox-desktop-download-in-browser-screenshot = Skjámyndatól í vafra
 firefox-desktop-download-primary-password = Aðallykilorð
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = Farðu vel með líf þitt á netinu
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Það er internetið þitt. Litaðu það eins og þú vilt með þúsundum verkfæra, þema og viðbóta. { -brand-name-firefox } er upphaflegi vafrinn sem gefur notendunum val og setur fólk framar hagnaði.
 # Obsolete string
 firefox-desktop-download-master-password = Aðallykilorð
 firefox-desktop-download-we-block-the-ad = Við lokum á auglýsinganjósnirnar. Þú kannar netið hraðar.
@@ -118,6 +129,22 @@ firefox-desktop-download-from-security-to = Frá öryggismálum til frétta til 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } var búið til af <a { $attrs }>{ -brand-name-mozilla }</a> sem hraðvirkari, persónulegri valkostur við vafra eins og { -brand-name-ie } og núna { -brand-name-chrome }. Í dag halda verkefnisdrifna fyrirtækið okkar og sjálfboðaliðasamfélagið áfram að setja friðhelgi þína ofar öllu öðru.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Eftir því sem internetið stækkar og breytist heldur { -brand-name-firefox } áfram að einbeita sér að rétti þínum til friðhelgi einkalífs – við köllum það <a { $attrs }>loforð um persónuupplýsingar</a>: Taka minna. Geyma öruggt. Engin leyndarmál. Gögnin þín, vefvirkni þín, líf þitt á netinu er verndað með { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er fáanlegt í öllum tækjunum þínum; taktu flipana þína, vafurferilinn og bókamerkin með þér. Allt sem þú þarft er <a { $attrs }>{ -brand-name-firefox } reikningur</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Taktu myndir í hárri upplausn af hverju sem er á netinu með <a { $attrs }>skjámyndatólinu</a> okkar sem er innbyggt í vafranum
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>lokar sjálfkrafa á marga rekjara frá utanaðkomandi aðilum </a> og hindrar þá frá því að safna og selja upplýsingar um virkni þína á vefnum.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Spurningar? <a { $attrs }>{ -brand-name-mozilla } aðstoðin</a> hefur flest sem þú þarft.
+firefox-desktop-download-get-more-from-firefox = Fáðu meira frá { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Sækja bara vafrann
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
