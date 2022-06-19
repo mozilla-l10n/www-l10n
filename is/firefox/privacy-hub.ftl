@@ -57,6 +57,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Skoðaðu fjóra af algengust
 firefox-privacy-hub-always-in-your-control = Alltaf þú við stjórnvölinn
 firefox-privacy-hub-want-to-customize-what = Viltu sérsníða hvað sé útilokað? Þú kemst í stillingarnar þínar með aðeins einum smelli.
 firefox-privacy-hub-protection-beyond-tracking = Vernd umfram rakningar
+firefox-privacy-hub-if-you-have-a-firefox-account = Ef þú ert með { -brand-name-firefox-account } geturðu einnig séð hvernig við erum að hjálpa þér að vernda persónulegar upplýsingar þínar og lykilorð.
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
