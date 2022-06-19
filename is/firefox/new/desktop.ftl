@@ -11,7 +11,10 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Fáðu þér vafrann sem verndar það sem er mikilvægt
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Engar loðnar persónuverndarstefnur eða bakdyr fyrir auglýsendur. Bara leifturhraður vafri sem selur þig ekki.
+firefox-desktop-download-download-options = Valkostir við niðurhal og önnur tungumál
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } aðstoð
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Gerðu það sem þú gerir á netinu.<br> { -brand-name-firefox-browser } <strong>er ekki</strong> að glápa.
 firefox-desktop-download-how-firefox-compares = Hvernig { -brand-name-firefox } er í samanburði við aðra vafra
 firefox-desktop-download-how-we-compare = Hvernig við stöndum okkur miðað við aðra vafra
 firefox-desktop-download-compare-firefox-to = Bera { -brand-name-firefox } samanvið:
