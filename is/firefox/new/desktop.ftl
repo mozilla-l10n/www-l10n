@@ -157,11 +157,16 @@ firefox-desktop-download-just-download-the-browser = Sækja bara vafrann
 firefox-desktop-download-almost-there = Næstum komið!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Ljúktu nú við <strong>uppsetningu</strong> á { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Nú skaltu <strong>keyra</strong> uppsetningarforritið sem var sótt rétt í þessu.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Nú skaltu <strong>opna</strong> skrána sem var sótt rétt í þessu.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Áttu í vandræðum? <a { $attrs }>Fáðu hjálp við uppsetninguna þína</a>.
 firefox-desktop-download-in-another-language = Sæktu á öðru tungumáli eða fyrir annað stýrikerfi.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = Heimsæktu aðstoðargáttina fyrir frekari upplýsingar
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">veitir ekki lengur öryggisuppfærslur</a> á { -brand-name-windows } { -brand-name-xp } eða { -brand-name-vista }, en þú getur samt notað { -brand-name-firefox }.
