@@ -2,10 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-download-firefox = Sækja { -brand-name-firefox }
+navigation-get-a-firefox-account = Fáðu þér { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } fyrir vinnutölvur
 navigation-get-the-browser-that-respects = Fáðu þér vafrann sem sjálfgefið virðir friðhelgi þína. Á { -brand-name-windows }, { -brand-name-mac } eða { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } fyrir farsíma
 navigation-take-speed-privacy-and = Taktu hraða, friðhelgi og hugarró með þér. Á { -brand-name-android } og { -brand-name-ios }.
+navigation-download-for-ios = Sækja fyrir { -brand-name-ios }
+navigation-download-for-android = Sækja fyrir { -brand-name-android }
+navigation-ios-support = { -brand-name-ios }-aðstoð
+navigation-android-support = { -brand-name-android }-aðstoð
 navigation-firefox-blog = { -brand-name-firefox } bloggið
 navigation-read-about-new-firefox = Lestu um nýja eiginleika { -brand-name-firefox } og fáðu góð ráð til að vera öruggari á netinu.
 navigation-the-non-profit-behind = Sjálfseignarstofnunin á bak við { -brand-name-firefox } berst fyrir heilbrigðu interneti fyrir alla.
