@@ -5,7 +5,34 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+firefox-desktop-download-og-title = Sæktu hraðasta { -brand-name-firefox } nokkru sinni
+firefox-desktop-download-og-desc = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } er hérna.
+firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Fáðu þér vafrann sem verndar það sem er mikilvægt
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Engar loðnar persónuverndarstefnur eða bakdyr fyrir auglýsendur. Bara leifturhraður vafri sem selur þig ekki.
+firefox-desktop-download-browser-support = { -brand-name-firefox-browser } aðstoð
+firefox-desktop-download-how-firefox-compares = Hvernig { -brand-name-firefox } er í samanburði við aðra vafra
+firefox-desktop-download-how-we-compare = Hvernig við stöndum okkur miðað við aðra vafra
+firefox-desktop-download-compare-firefox-to = Bera { -brand-name-firefox } samanvið:
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Já
+firefox-desktop-download-no = Nei
+firefox-desktop-download-blocks-third-party = Lokar á vefkökur frá utanaðkomandi aðilum
+firefox-desktop-download-blocks-third-party-default = Lokar sjálfgefið á vefkökur frá utanaðkomandi aðilum
+firefox-desktop-download-autoplay-blocking = Lokun á sjálfvirkri spilun
+firefox-desktop-download-blocks-social-trackers = Lokar á samfélagmiðlasrekjara
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Framboð stýrikerfa
+firefox-desktop-download-in-browser-screenshot = Skjámyndatól í vafra
+firefox-desktop-download-primary-password = Aðallykilorð
+# Obsolete string
+firefox-desktop-download-master-password = Aðallykilorð
+firefox-desktop-download-for-everyone = { -brand-name-firefox } er fyrir alla
+firefox-desktop-download-review-system-req = Athugaðu kröfur kerfisins
+firefox-desktop-download-all-your-devices = Settu { -brand-name-firefox } á öll tækin þín
 firefox-desktop-download-works-with-google = Virkar með { -brand-name-google } hugbúnaði
 firefox-desktop-download-library-of-extensions = Safn forritsauka
 firefox-desktop-download-extensions-for-every = Forritsaukar fyrir hvert áhugasvið
