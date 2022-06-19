@@ -21,4 +21,5 @@ developer-mdnplus-the-web-doesnt-have-a = Web 技術沒有更新紀錄可查，�
 developer-mdnplus-collections = 收藏集
 developer-mdnplus-build-your-perfect-library = 可自行打造您的完美圖書館，或者由我們為您打造。
 developer-mdnplus-mdn-offline = { -brand-name-mdn } 離線版
+developer-mdnplus-mdns-entire-library-at-your = 隨手閱讀 { -brand-name-mdn } 的全套文件庫：離線版
 developer-mdnplus-resources-for-developers = 由開發者撰寫的開發資源。
