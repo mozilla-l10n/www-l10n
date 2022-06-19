@@ -7,6 +7,9 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Verndaðu allt tækið þitt
+vpn-landing-hero-sub-heading-v2 = Öryggi, áreiðanleiki og hraði - í hverju tæki, hvert sem þú ferð.
+# Obsolete string
+vpn-landing-hero-sub-heading = Öryggi sem þú getur reitt þig á. Nafn sem þú getur treyst.
 
 ## FAQ section
 
