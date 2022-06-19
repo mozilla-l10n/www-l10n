@@ -8,7 +8,18 @@
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+firefox-new-download-firefox = Sækja { -brand-name-firefox }
+firefox-new-download-the-fastest-firefox = Sæktu hraðasta { -brand-name-firefox } nokkru sinni
+firefox-new-mozilla = { -brand-name-mozilla }
+firefox-new-faster-page-loading-less-memory = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } er hérna.
+firefox-new-get-the-latest-firefox = Náðu í nýjasta { -brand-name-firefox } vafrann.
+# span's below are for visual formatting and line break.
+firefox-new-download-firefox-for-windows = Sæktu { -brand-name-firefox } <br>fyrir { -brand-name-windows }
+firefox-new-download-firefox-for-macos = Sæktu { -brand-name-firefox } <br>fyrir { -brand-name-mac }
+firefox-new-download-firefox-for-linux = Sæktu { -brand-name-firefox } <br>fyrir { -brand-name-linux }
+firefox-new-free-web-browser = Ókeypis vafri
 firefox-new-download-in-another-language = Sækja á öðru tungumáli
+firefox-new-need-help = Þarftu aðstoð?
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 

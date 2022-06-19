@@ -70,8 +70,13 @@ firefox-desktop-download-your-privacy-comes = Persónuvernd þín skiptir máli.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Samstilltu tækin þín
 firefox-desktop-download-screenshots = Skjámyndir
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Aukin rakningarvörn (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Fáðu { -brand-name-firefox-browser } fyrir <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Fáðu { -brand-name-firefox-browser } fyrir <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-learn-about-the = Lærðu um { -brand-name-firefox } vinnutölvuvafrann hér að neðan
+firefox-desktop-download-just-download-the-browser = Sækja bara vafrann
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -82,12 +87,24 @@ firefox-desktop-download-now-else = Ljúktu nú við <strong>uppsetningu</strong
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Áttu í vandræðum? <a { $attrs }>Fáðu hjálp við uppsetninguna þína</a>.
 firefox-desktop-download-in-another-language = Sæktu á öðru tungumáli eða fyrir annað stýrikerfi.
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">veitir ekki lengur öryggisuppfærslur</a> á { -brand-name-windows } { -brand-name-xp } eða { -brand-name-vista }, en þú getur samt notað { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Þú ert að nota óöruggt, úrelt stýrikerfi sem <a href="{ $url }">er ekki lengur stutt af { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Niðurhalið þitt ætti að hefjast sjálfkrafa. Virkaði það ekki? <a id="{ $id }" href="{ $fallback_url }">Reyndu aftur að sækja.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er meira en bara vafri.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Niðurhalið þitt var truflað. En ekki er allt alveg glatað.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = Fylgdu þessum <a href="{ $url }">leiðbeiningum</a> til að setja inn { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Kerfið þitt uppfyllir mögulega ekki þær kröfur sem þarf fyrir { -brand-name-firefox }, en þú getur prófað einhverja af <a href="{ $url }">þessum útgáfum</a>.
