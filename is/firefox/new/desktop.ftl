@@ -144,6 +144,11 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Spurningar? <a { $attrs }>{ -brand-name-mozilla } aðstoðin</a> hefur flest sem þú þarft.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Þú ert nú þegar með vafrann. Fáðu nú enn meira frá { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Fylgstu með tölvuþrjótum í gegnum { -brand-name-firefox-monitor }, verndaðu tölvupóstfangið þitt með { -brand-name-firefox-relay } og ýmislegt fleira.
+# Outdated string
+firefox-desktop-download-watch-for-hackers-with = Fylgstu með tölvuþrjótum í gegnum { -brand-name-firefox-monitor }, verndaðu lykilorð með { -brand-name-firefox-lockwise } og ýmislegt fleira.
 firefox-desktop-download-get-more-from-firefox = Fáðu meira frá { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Sækja bara vafrann
 
