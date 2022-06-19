@@ -124,7 +124,16 @@ vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -br
 vpn-landing-faq-refund-question-heading = Hver er endurgreiðslustefna { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Í fyrsta skipti sem þú gerist áskrifandi að { -brand-name-mozilla-vpn } í gegnum vefsvæði { -brand-name-mozilla }; ef þú segir upp reikningnum þínum innan fyrstu 30 daganna, geturðu beðið um endurgreiðslu og { -brand-name-mozilla } mun þá endurgreiða fyrsta áskriftartímabilið þitt.
 vpn-landing-faq-refund-question-additional-desc = Ef þú kaupir áskriftina þína með kaupum inni í forriti frá { -brand-name-apple } { -brand-name-app-store } eða { -brand-name-google-play } versluninni, er greiðslan þín háð skilmálum og skilyrðum { -brand-name-app-store }. Þú verður að beina öllum fyrirspurnum um innheimtu og endurgreiðslu vegna slíkra kaupa til { -brand-name-apple } eða { -brand-name-google }, eftir því sem við á.
+# Outdated string
+vpn-landing-faq-refund-question-desc = Þú getur fengið peningana þína til baka innan 30 daga frá því að þú keyptir áskriftina þína. Hafðu samband við okkur og sendu endurgreiðslubeiðnina með því að ýta á „Fá aðstoð“ hnappinn í stillingum í { -brand-name-mozilla-vpn } forritinu þínu.
 vpn-landing-faq-manage-subscription-question-heading = Hvernig stýri ég áskriftinni minni?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Ef þú ert nú þegar áskrifandi að { -brand-name-mozilla-vpn } geturðu breytt áskriftarleiðinni þinni eða <a href="{ $url }">stjórnað áskriftinni þinni</a> hvenær sem er.
+vpn-landing-faq-download-heading = Hvernig sæki ég { -brand-name-mozilla-vpn } þegar ég er nú þegar áskrifandi?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Farðu á <a { $attrs }>niðurhalssíðuna</a> til að setja upp { -brand-name-mozilla-vpn } á tækinu þínu og skráðu þig svo inn með { -brand-name-firefox-account }-reikningnum þínum.
 vpn-landing-faq-link = Sjá fleiri algengar spurningar
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
