@@ -89,15 +89,27 @@ firefox-desktop-download-change-up-your = Breyttu útlitinu þínu
 firefox-desktop-download-go-from-light = Farðu úr ljósum ham í dökkan eftir skapi þínu eða löngunum, eða lífgaðu upp á tilveruna með sérsniðnu þema (regnbogaeinhyrningum, kannski).
 firefox-desktop-download-tweak-your-settings = Fínstilltu stillingarnar þínar
 firefox-desktop-download-theres-no-need = Það er engin þörf á að setjast að varanlega. Breyttu nýjum flipasíðum, leitarstikunni, bókamerkjum og fleiru til að kanna internetið eins og þú vilt hafa hlutina.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Stutt af <strong>sjálfseignarstofnun án gróðasjónarmiða</strong> sem setur fólk í fyrsta sæti
+firefox-desktop-download-challenging-the-status = Höfum ögrað óbreyttu ástandi síðan 1998
 firefox-desktop-download-your-privacy-comes = Persónuvernd þín skiptir máli.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Haltu öllum eftirlætis vafraeiginleikunum – og <strong>uppgötvaðu</strong> nýja.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Öll eftirlætis { -brand-name-google }-verkfærin þín (eins og Gmail og Docs) virka óaðfinnanlega í { -brand-name-firefox-browser }-vafranum.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Sæktu þennan vafraviðauka</a> til að koma í veg fyrir að { -brand-name-facebook } (og { -brand-name-instagram }) fylgist með þér á vefnum.
 firefox-desktop-download-sync-your-devices = Samstilltu tækin þín
 firefox-desktop-download-screenshots = Skjámyndir
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Aukin rakningarvörn (ETP)
+firefox-desktop-download-from-watching-a = Allt frá því að horfa á kennsluefni á vefnum í að fylgjast með uppáhaldsliðinu þínu, fylgir myndskeiðið þér á meðan þú ert að vinna í ýmsum öðrum málum.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Fáðu { -brand-name-firefox-browser } fyrir <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Fáðu { -brand-name-firefox-browser } fyrir <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Sæktu { -brand-name-firefox } farsímavafrann til að fá sjálfvirka vernd á öllum tækjunum þínum.
 firefox-desktop-download-learn-about-the = Lærðu um { -brand-name-firefox } vinnutölvuvafrann hér að neðan
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
