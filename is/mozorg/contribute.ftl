@@ -24,8 +24,10 @@ contribute-tag-support = Aðstoð
 contribute-task-translate-heading = Þýða efni
 contribute-task-translate-desc = Netið er aðeins alþjóðlegt ef það skilst alls staðar. Hjálpaðu okkur að þýða { -brand-name-mozilla } hugbúnað og vefsvæði yfir á tungumálið þitt.
 contribute-task-mozilla-codebase-heading = Leggja af mörkum í kóðagrunn { -brand-name-mozilla }
+contribute-task-mozilla-codebase-desc = Taktu þátt í að bæta { -brand-name-mozilla } hugbúnað á virkan hátt með því að leggja þitt af mörkum til margvíslegra þróunarmöguleika.
 contribute-task-support-desc = Hjálpaðu til við að gera { -brand-name-mozilla } hugbúnað auðveldan í notkun. Svaraðu hjálparbeiðnum fólks sem hluti af spjallborðum { -brand-name-mozilla } aðstoðarsamfélagsins.
 contribute-task-join-heading = Gakktu í hópinn
+contribute-task-join-desc = Viltu taka meiri þátt í { -brand-name-mozilla } samfélaginu? Skoðaðu öll tækifæri fyrir sjálfboðaliða í samfélagsgáttinni okkar.
 
 ## Mission
 
@@ -38,6 +40,7 @@ contribute-meet-volunteers = Hittu ástríðufulla sjálfboðaliða okkar
 contribute-donate = Styrkja
 contribute-help-fund = Hjálpaðu til við að fjármagna verkefnin okkar
 contribute-follow-mozilla = Fylgstu með { -brand-name-mozilla }
+contribute-opportunities = Fréttir og tækifæri fyrir sjálfboðaliða
 
 ## Made by
 
