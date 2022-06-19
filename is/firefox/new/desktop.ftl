@@ -115,6 +115,9 @@ firefox-desktop-download-learn-about-the = Lærðu um { -brand-name-firefox } vi
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Frá öryggismálum til frétta til leikja, það er til <a { $attrs }>viðbót fyrir allt</a>. Bættu við eins mörgum og þig lystir þangað til vafrinn þinn er alveg eins og þú vilt hafa hann.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } var búið til af <a { $attrs }>{ -brand-name-mozilla }</a> sem hraðvirkari, persónulegri valkostur við vafra eins og { -brand-name-ie } og núna { -brand-name-chrome }. Í dag halda verkefnisdrifna fyrirtækið okkar og sjálfboðaliðasamfélagið áfram að setja friðhelgi þína ofar öllu öðru.
 firefox-desktop-download-just-download-the-browser = Sækja bara vafrann
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
