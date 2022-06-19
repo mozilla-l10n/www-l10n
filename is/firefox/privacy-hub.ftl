@@ -44,10 +44,22 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } vern
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>verndar</strong> friðhelgi þína í öllum hugbúnaðnum
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Lokað á meira en 2.000 rekjara - sjálfvirkt
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Rakning er orðin að faraldri á netinu: fyrirtæki fylgjast hverri hreyfingu, smellum og innkaupum, þau safna gögnum til að spá fyrir um og til að hafa áhrif á hvað þú munir gera næst. Við teljum að þetta sé gróf innrás í friðhelgi einkalífsins. Þess vegna hafa { -brand-name-firefox } farsíma- og tölvuvafrar sjálfgefið kveikt á aukinni rakningarvörn.
+firefox-privacy-hub-if-you-want-to-see-what = Ef þú vilt sjá hvað { -brand-name-firefox } er að loka á fyrir þig, skaltu fara á þessa síðu í { -brand-name-firefox } vinnutölvuvafranum þínum.
 firefox-privacy-hub-see-what-firefox-has-blocked = Sjáðu hvað { -brand-name-firefox } hefur lokað á fyrir þig
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Fáðu aukna rakningarvörn
+firefox-privacy-hub-download-the-firefox-browser = Sækja { -brand-name-firefox }-vafrann
+firefox-privacy-hub-update-your-firefox-browser = Uppfæra { -brand-name-firefox } vafrann þinn
+firefox-privacy-hub-invisible-to-the-top-trackers = Ósýnilegt fyrir öflugustu rekjarana
+firefox-privacy-hub-meet-four-of-the-most-common = Skoðaðu fjóra af algengustu flokkum rekjara - sem munu ekki sjá þig.
 firefox-privacy-hub-always-in-your-control = Alltaf þú við stjórnvölinn
+firefox-privacy-hub-want-to-customize-what = Viltu sérsníða hvað sé útilokað? Þú kemst í stillingarnar þínar með aðeins einum smelli.
+firefox-privacy-hub-protection-beyond-tracking = Vernd umfram rakningar
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Senda skrá
 firefox-privacy-hub-get-pocket = Fáðu þér { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account }-reikningurinn þinn
