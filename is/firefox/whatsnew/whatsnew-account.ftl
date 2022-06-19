@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Enginn reikningur nauðsynlegur. En þú gætir viljað einn slíkan.
+whatsnew-account-main-lead-in = { -brand-name-firefox } vafrinn safnar svo litlum gögnum um þig að við þurfum ekki einu sinni tölvupóstfangið þitt. En þegar þú notar það til að búa til { -brand-name-firefox } reikning getum við verndað friðhelgi þína við meira af lífi þínu á netinu.
 whatsnew-account-main-button = Skrá inn
 
 ##

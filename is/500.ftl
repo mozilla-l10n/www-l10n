@@ -6,3 +6,4 @@ error-page-mozilla = { -brand-name-mozilla }
 error-page-firefox = { -brand-name-firefox }
 error-page-error-page-internal-server-error = 500: Innri villa í netþjóni
 error-page-something-went-wrong = Eitthvað fór úrskeiðis
+error-page-its-probably-just-a-server-error = Þetta er líklega bara villa í netþjóni og við erum að vinna að því að laga hana.

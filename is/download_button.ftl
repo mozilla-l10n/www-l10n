@@ -13,6 +13,9 @@ download-button-whats-new = Hvað er nýtt
 download-button-systems-languages = Stýrikerfi og tungumál
 download-button-recommended = Mælt með
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } veitir ekki lengur öryggisuppfærslur fyrir { -brand-name-firefox } á { -brand-name-windows } { -brand-name-xp } eða { -brand-name-vista }</a>, en þú getur samt sótt endanlegu { -brand-name-windows } 32-bita útgáfuna hér fyrir neðan.
+# Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Fylgdu þessum <a href="{ $url }">leiðbeiningum</a> til að setja inn { -brand-name-firefox }.
 # Variables:

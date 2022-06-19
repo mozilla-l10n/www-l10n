@@ -5,7 +5,9 @@
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla }-yfirlýsingin
 footer-privacy = Friðhelgi
+footer-press = Fjölmiðlar
 footer-corporate-blog = Fyrirtækjablogg
+footer-browser-comparison = Samanburður vafra
 footer-brand-standards = Vörumerkjastaðlar
 footer-browsers = Vafrar
 # Outdated string
@@ -25,6 +27,14 @@ footer-monitor = { -brand-name-monitor }
 footer-send = { -brand-name-send }
 # Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
+footer-join = Taka þátt
+# Outdated string
+footer-sign-up = Nýskrá
+# Outdated string
+footer-sign-in = Skrá inn
+# Outdated string
+footer-benefits = Ávinningur
 footer-developers = Hönnuðir
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -40,10 +50,13 @@ footer-about = Um
 footer-press-center = Fréttir
 footer-careers = Störf í boði
 # Outdated string
+footer-test-new-features = Prófaðu nýja eiginleika
+# Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Verkfæri
 footer-resources = Tilföng
 footer-contact = Hafa samband
+footer-product-help = Aðstoð með hugbúnað
 footer-support = Aðstoð
 footer-file-a-bug = Skrá villu
 footer-community-participation-guidelines = Leiðbeiningar um þátttöku í samfélaginu
@@ -51,9 +64,13 @@ footer-websites-privacy-notice = Persónuverndarstefna vefsvæðis
 footer-websites-cookies = Vefkökur
 footer-websites-legal = Lagalegur fyrirvari
 footer-language = Tungumál
+footer-go = Fara
 footer-donate = Styrkja
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-linkedin = { -brand-name-linkedin }
+footer-tiktok = { -brand-name-tiktok }
+footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Fylgstu með @{ -brand-name-mozilla }
 footer-follow-firefox = Fylgstu með @{ -brand-name-firefox }
