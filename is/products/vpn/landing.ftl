@@ -16,7 +16,7 @@ vpn-landing-hero-sub-heading-v2 = Öryggi, áreiðanleiki og hraði - í hverju 
 vpn-landing-hero-sub-heading = Öryggi sem þú getur reitt þig á. Nafn sem þú getur treyst.
 vpn-landing-hero-desc = Sýndar-einkanet frá framleiðendum { -brand-name-firefox }.
 vpn-landing-privacy-heading = Einn smellur til að fá næði
-vpn-landing-privacy-desc = Brim, streymdu, spilaðu og framkvæmdu vinnu ásamt því að varðveita persónuleg gögn þín á netinu. Hvort sem þú ert að ferðast, nota almennings-WiFi eða sért einfaldlega að leita að meira öryggi á netinu, munum við alltaf setja friðhelgi þína í fyrsta sæti.
+vpn-landing-privacy-desc = Brunaðu um netið, streymdu, spilaðu og framkvæmdu vinnu ásamt því að varðveita persónuleg gögn þín á netinu. Hvort sem þú ert að ferðast, nota almennings-WiFi eða sért einfaldlega að leita að meira öryggi á netinu, munum við alltaf setja friðhelgi þína í fyrsta sæti.
 vpn-landing-fast-secure-heading = Hratt og öruggt netkerfi
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
