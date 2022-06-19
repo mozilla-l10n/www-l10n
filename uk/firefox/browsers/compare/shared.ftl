@@ -11,22 +11,16 @@ compare-shared-yes = Так
 compare-shared-no = Ні
 compare-shared-private-browsing-mode = Режим приватного перегляду
 compare-shared-blocks-third-party-tracking-default = Усталене блокування сторонніх кук стеження
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Блокування сторонніх кук стеження
 compare-shared-blocks-cryptomining-scripts = Блокування скриптів добування криптовалют
 compare-shared-blocks-fingerprinting-scripts = Блокування скриптів збору цифрових відбитків
-compare-shared-blocks-social-trackers = Блокування стеження соціальних мереж
 compare-shared-dashboard-to-review = Панель перегляду заблокованих елементів стеження
 compare-shared-autoplay-blocking = Блокування автовідтворення
 compare-shared-tab-browsing = Підтримка вкладок
-compare-shared-bookmark-manager = Менеджер закладок
 compare-shared-automatically-fills-out-forms = Автозаповнення форм
 compare-shared-automatically-fills-out-payments = Автозаповнення платіжних даних
 compare-shared-search-engine-options = Керування засобами пошуку
-compare-shared-text-to-speech = Озвучування тексту
 compare-shared-reader-mode = Режим читання
 compare-shared-spell-checking = Перевірка правопису
-compare-shared-web-extensionsadd-ons = Веброзширення/Додатки
 compare-shared-in-browser-screenshot-tool = Вбудований засіб знімків екрана
 compare-shared-os-availability = Доступність для ОС
 compare-shared-mobile-os-availability = Доступність для мобільних ОС
@@ -36,7 +30,6 @@ compare-shared-primary-password = Головний пароль
 # Obsolete string
 compare-shared-master-password = Головний пароль
 compare-shared-security-and-privacy = Безпека й приватність
-compare-shared-utility = Зручність
 compare-shared-portability = Доступність
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Безпека й <strong>приватність</strong>
@@ -44,11 +37,8 @@ compare-shared-security-and-privacy-strong = Безпека й <strong>прив�
 compare-shared-utility-strong = <strong>Зручність</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Доступність</strong>
-compare-shared-overall-assessment = Загальна оцінка
-compare-shared-the-comparisons-made-here-updated = Наведені тут порівняння було виконано з типовими налаштуваннями в таких версіях браузерів:
 # Obsolete string
 compare-shared-the-comparisons-made-here = Наведені тут порівняння було виконано в таких версіях браузерів:
-compare-shared-this-page-updated-semi-quarterly = Ця сторінка оновлюється два рази на квартал, щоб враховувати нові версії, і не завжди може відображати останні оновлення.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
