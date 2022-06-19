@@ -7,7 +7,18 @@
 
 # HTML page title
 manifesto-the-mozilla-manifesto = Stefnuskrá { -brand-name-mozilla }
-manifesto-transparent-community = Transparent community-based processes promote participation, accountability and trust.
+# HTML page description
+manifesto-these-are-the-principles = Þetta eru meginreglurnar sem leiða verkefni okkar til eflingar á hreinskilni, nýsköpun og tækifærum á vefnum.
+manifesto-the-internet-is-an-integral = Internetið er óaðskiljanlegur hluti af nútíma lífi - lykilþáttur í menntun, samskiptum, samvinnu, viðskiptum, skemmtun og í samfélaginu sem heild.
+manifesto-the-internet-is-a-global = Internetið er víðvær almenningsauðlind sem verður að vera opin og aðgengileg.
+manifesto-the-internet-must-enrich = Internetið verður að auðga líf einstaklinga.
+manifesto-individuals-security-and = Öryggi og friðhelgi einkalífs einstaklinga á internetinu er grundvallaratriði og má ekki meðhöndla sem valkvætt.
+manifesto-individuals-must-have = Einstaklingar verða að hafa möguleika til að móta netið og sína eigin upplifun á netinu.
+manifesto-the-effectiveness-of-the = Skilvirkni internetsins sem opinberrar auðlindar er háð samvirkni (samskiptareglur, gagnasnið, innihald), nýsköpun og dreifðri þátttöku um allan heiminn.
+manifesto-free-and-open-source-software = Frjáls og opinn hugbúnaður stuðlar að þróun internetsins sem opinberrar auðlindar.
+manifesto-transparent-community = Gagnsæ samfélagsleg ferli stuðla að þátttöku, ábyrgð og trausti.
+manifesto-commercial-involvement = Þátttaka viðskiptalegra hagsmunaaðila í þróun internetsins hefur marga kosti í för með sér; jafnvægi milli viðskiptahagnaðar og almannahagsmuna er mikilvægt.
+manifesto-magnifying-the-public = Að leggja áherslu á almannahagsmuni internetsins er mikilvægt markmið, verðugt tíma, athygli og skuldbindingar.
 manifesto-principle-1 = Meginregla 1
 manifesto-principle-2 = Meginregla 2
 manifesto-principle-3 = Meginregla 3
@@ -68,9 +79,9 @@ manifesto-details-mozilla-foundation = Loforð { -brand-name-mozilla-foundation 
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } lofar að styðja stefnuskrá { -brand-name-mozilla } í starfsemi sinni. Nánar tiltekið munum við:
 manifesto-details-build-and-enable = byggja upp og styðja við opna tækni og samfélög sem styðja meginreglur stefnuskrárinnar;
 manifesto-details-build-and-deliver = byggja og afhenda frábæran neytendahugbúnað sem styður meginreglur stefnuskrárinnar;
-manifesto-details-use-the-mozilla = use the { -brand-name-mozilla } assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
-manifesto-details-promote-models = promote models for creating economic value for the public benefit; and
-manifesto-details-promote-the-mozilla = promote the { -brand-name-mozilla } Manifesto principles in public discourse and within the Internet industry.
-manifesto-details-some-foundation = Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the { -brand-name-mozilla-foundation }’s wholly owned subsidiary, the { -brand-name-mozilla-corporation }.
+manifesto-details-use-the-mozilla = nota eignir og tilföng { -brand-name-mozilla } (hugverkarétt eins og höfundarrétt og vörumerki, innviði, fjármuni og orðspor) til að halda internetinu sem opnum vettvangi;
+manifesto-details-promote-models = styðja og koma á framfæri fyrirmyndum til að skapa efnahagsleg verðmæti í þágu almennings; og
+manifesto-details-promote-the-mozilla = kynna meginreglur { -brand-name-mozilla } stefnuskrárinnar í opinberri umræðu og innan netiðnaðarins.
+manifesto-details-some-foundation = Sum starfsemi sjálfseignarstofnunarinnar – sem í dag er smíði, afhending og kynning á neytendahugbúnaði – fer fyrst og fremst fram í gegnum dótturfyrirtæki í fullri eigu { -brand-name-mozilla-foundation }; { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Boð
-manifesto-details-the-mozilla-foundation-invites = The { -brand-name-mozilla-foundation } invites all others who support the principles of the { -brand-name-mozilla } Manifesto to join with us, and to find new ways to make this vision of the Internet a reality.
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } býður öllum öðrum sem styðja meginreglur { -brand-name-mozilla } stefnuskrárinnar að taka þátt með okkur og finna nýjar leiðir til að gera þessa sýn á internetinu að veruleika.
