@@ -11,6 +11,8 @@ firefox-privacy-hub-firefox-privacy-promise = Loforð { -brand-name-firefox } um
 firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } safnar minni gögnum, heldur þeim öruggum og án nokkurra leyndarmála.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-privacy-hub-firefox-products-are-designed = { -brand-name-firefox } hugbúnaður er hannaður til að vernda <strong>friðhelgi þína</strong>
+# Sub navigation title
+firefox-privacy-privacy = Friðhelgi
 # Sub navigation link
 firefox-privacy-our-promise = Loforð okkar
 # Sub navigation link
@@ -37,8 +39,18 @@ firefox-privacy-hub-learn-more-about-our-mission = Frekari upplýsingar um markm
 firefox-privacy-hub-your-privacy-by-the-product = Persónuvernd þín, innbyggð í hugbúnaðinn
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } hugbúnaður virkar öðruvísi - vegna þess að hann er fyrst og fremst hannaður til að vernda friðhelgi þína.
 firefox-privacy-hub-learn-about-our-products = Lærðu um hugbúnaðinn okkar
+firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } persónuvernd, í sjálfum hugbúnaðnum
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } verndar friðhelgi þína í öllum hugbúnaðnum.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>verndar</strong> friðhelgi þína í öllum hugbúnaðnum
+firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+firefox-privacy-hub-2000-trackers-blocked-automatically = Lokað á meira en 2.000 rekjara - sjálfvirkt
+firefox-privacy-hub-see-what-firefox-has-blocked = Sjáðu hvað { -brand-name-firefox } hefur lokað á fyrir þig
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Fáðu aukna rakningarvörn
+firefox-privacy-hub-always-in-your-control = Alltaf þú við stjórnvölinn
+firefox-privacy-hub-send-a-file = Senda skrá
+firefox-privacy-hub-get-pocket = Fáðu þér { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account }-reikningurinn þinn
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
@@ -47,4 +59,5 @@ firefox-privacy-hub-already-have-an-account = Ertu nú þegar með reikning? <a 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Lestu <a href="{ $url }">persónuverndarstefnuna</a> fyrir hugbúnaðinn okkar
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-privacy-hub-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
