@@ -28,4 +28,8 @@ firefox-products-send-your-large-files-and = Sendu stórar skrár og viðkvæm s
 firefox-products-send-a-file = Senda skrá
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-join-firefox-and-get-the-most = Vertu með í { -brand-name-firefox } og fáðu sem mest út úr öllum hugbúnaðnum - á öllum tækjum.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-products-already-have-an-account-sign = Ertu nú þegar með reikning? <a { $fxa_attr }>Skráðu þig inn</a> eða <a { $accounts_attr }>fáðu frekari upplýsingar</a> um þátttöku í { -brand-name-firefox }.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
