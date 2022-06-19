@@ -33,9 +33,44 @@ firefox-desktop-download-master-password = Aðallykilorð
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er fyrir alla
 firefox-desktop-download-review-system-req = Athugaðu kröfur kerfisins
 firefox-desktop-download-all-your-devices = Settu { -brand-name-firefox } á öll tækin þín
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Gerðu <strong>allt</strong> með { -brand-name-firefox }
+firefox-desktop-download-search-smarter = Leitaðu snjallar, hraðar
+firefox-desktop-download-search-from-address = Leitaðu af veffangastikunni
+firefox-desktop-download-search-engine-options = Valkostir leitarvéla
+firefox-desktop-download-smart-search-suggestions = Snjallar leitartillögur
 firefox-desktop-download-works-with-google = Virkar með { -brand-name-google } hugbúnaði
+firefox-desktop-download-bookmarks-manager = Bókamerkjastýring
+firefox-desktop-download-spell-check = Stafsetningaryfirferð
+firefox-desktop-download-pinned-tabs = Festir flipar
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Lokað fyrir sjálfvirka spilun myndskeiða og hljóðs
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Mynd-í-mynd
+firefox-desktop-download-curated-content-on = Stýrt úrval efnis á nýjum flipa
+firefox-desktop-download-share-links = Deila tenglum
+firefox-desktop-download-protect-your-privacy = Verndaðu friðhelgi þína
+firefox-desktop-download-third-party-cookie = Lokað á vefkökur utanaðkomandi aðila
+firefox-desktop-download-fingerprinter-blocking = Lokar á fingrafaragerð
+firefox-desktop-download-cryptominer-blocking = Lokar á rafmyntargrafara
+firefox-desktop-download-private-browsing-mode = Einkavafur í huliðsham
+firefox-desktop-download-secure-your-personal = Tryggðu persónulegar upplýsingar þínar
+firefox-desktop-download-breached-website-alerts = Viðvaranir vegna vefsvæða sem hafa orðið fyrir gagnaránum
+firefox-desktop-download-built-in-password = Innbyggður lykilorðastjóri
+firefox-desktop-download-clear-history = Hreinsa feril
+firefox-desktop-download-form-autofill = Sjálfvirk útfylling reita
+firefox-desktop-download-automatic-updates = Sjálfvirkar uppfærslur
+firefox-desktop-download-customize-your-browser = Sérsníddu vafrann þinn
+firefox-desktop-download-themes = Þemu
+firefox-desktop-download-dark-mode = Dökkur hamur
 firefox-desktop-download-library-of-extensions = Safn forritsauka
+firefox-desktop-download-make-firefox-your = Gerðu <strong>{ -brand-name-firefox }</strong> að þínum eigin
 firefox-desktop-download-extensions-for-every = Forritsaukar fyrir hvert áhugasvið
+firefox-desktop-download-your-privacy-comes = Persónuvernd þín skiptir máli.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Samstilltu tækin þín
+firefox-desktop-download-screenshots = Skjámyndir
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-learn-about-the = Lærðu um { -brand-name-firefox } vinnutölvuvafrann hér að neðan
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
