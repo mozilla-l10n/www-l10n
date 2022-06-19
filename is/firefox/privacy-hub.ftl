@@ -62,13 +62,20 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Ef þú ert með { -brand-na
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Lokað á meira en { $trackers } rekjara á hverjum degi fyrir { -brand-name-firefox }-notendur um víða veröld
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email = Þegar þú setur tölvupóstfangið þitt inn í { -brand-name-firefox-monitor }, gleymum við því strax eftir að við höfum athugað hvort það samsvari upplýsingum í þekktum gagnabrotum – nema þú leyfir okkur að halda áfram að fylgjast með nýjum innbrotum vegna persónuupplýsinga þinna.
+firefox-privacy-hub-when-you-enter-your-email = Þegar þú setur tölvupóstfangið þitt inn í { -brand-name-firefox-monitor }, gleymum við því strax eftir að við höfum athugað hvort það samsvari upplýsingum í þekktum gagnaránum – nema þú leyfir okkur að halda áfram að fylgjast með nýjum innbrotum vegna persónuupplýsinga þinna.
 firefox-privacy-hub-check-for-breaches = Athuga gagnarán
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Lykilorð og auðkenni sem þú vistar í { -brand-name-firefox-lockwise } eru dulrituð á öllum tækjunum þínum, svo við getum ekki einu sinni séð þær upplýsingar.
+firefox-privacy-hub-learn-more-about-lockwise = Frekari upplýsingar um { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Við getum ekki séð nöfn eða innihald stóru skránna sem þú deilir í gegnum { -brand-name-firefox-send } vegna þess að þær eru enda-í-enda dulritaðar - þú velur hver sér það sem þú sendir og þú getur jafnvel stillt gildistíma og lykilorð.
 firefox-privacy-hub-send-a-file = Senda skrá
+firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } mælir með hágæða greinum, teknum saman af frambærilegu fólki, án þess að safna vafurferli þínum eða deila persónulegum upplýsingum þínum með auglýsendum.
 firefox-privacy-hub-get-pocket = Fáðu þér { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account }-reikningurinn þinn
+firefox-privacy-hub-all-the-information-synced = Allar upplýsingar sem eru samstilltar í gegnum { -brand-name-firefox-account } - allt frá vafurferli til lykilorða - eru dulritaðar. Lykilorð reikningsins þíns er eini lykillinn sem að þeim gengur.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Taktu friðhelgi þína og bókamerki hvert sem er með { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
@@ -78,4 +85,5 @@ firefox-privacy-hub-already-have-an-account = Ertu nú þegar með reikning? <a 
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Lestu <a href="{ $url }">persónuverndarstefnuna</a> fyrir hugbúnaðinn okkar
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Vafraðu, streymdu og framkvæmdu vinnu á netþjónum í meira en 30 löndum með öruggri nettengingu og nýju sjónarhorni.
 firefox-privacy-hub-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
