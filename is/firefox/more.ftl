@@ -19,3 +19,4 @@ firefox-for-linux = { -brand-name-firefox } fyrir { -brand-name-linux }
 firefox-for-windows = { -brand-name-firefox } fyrir { -brand-name-windows } 64-bita
 firefox-more-fingerprinter-blocking = Lokun á fingrafaragerð
 firefox-more-translate-the-web = Þýddu vefinn
+firefox-more-avoid-misinformation-heading = Forðastu rangar upplýsingar á netinu – { -brand-name-firefox } er hér til að hjálpa

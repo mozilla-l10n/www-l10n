@@ -9,6 +9,7 @@
 ## Page heading
 
 contribute-page-title = Sjálfboðaliðatækifæri hjá { -brand-name-mozilla }
+contribute-page-heading = Hæfileika þinna er þörf til að gera betra internet
 contribute-how-heading = Hvernig getur þú lagt þitt af mörkum...
 
 ## Contribution tasks
@@ -16,7 +17,8 @@ contribute-how-heading = Hvernig getur þú lagt þitt af mörkum...
 contribute-tag-non-technical = Ekki tæknilegt
 contribute-tag-technical = Tæknilegt
 contribute-tag-technical-non-technical = Tæknilegt og ekki tæknilegt
-contribute-tag-individual = Einstakling
+contribute-tag-individual-event = Einstaklingar og skipulag viðburða
+contribute-tag-individual = Einstaklingar
 contribute-tag-support = Aðstoð
 contribute-task-translate-heading = Þýða efni
 contribute-task-join-heading = Gakktu í hópinn

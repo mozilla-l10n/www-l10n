@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-page-title = Forðastu rangar upplýsingar á netinu – { -brand-name-firefox } er hér til að hjálpa
 misinformation-why-trust-firefox = Af hverju að treysta { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

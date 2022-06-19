@@ -32,6 +32,7 @@ about-join-a-mission-driven-organization = Komdu til liðs við verkefnadrifið 
 about-mozilla-careers = Störf hjá { -brand-name-mozilla }
 about-how-you-can-help = Hvernig þú getur hjálpað
 about-your-voice-your-code-your = Röddin þín. Kóðinn þinn. Stuðningur þinn. Það eru svo margar leiðir til að taka þátt í baráttunni fyrir heilbrigðu interneti.
+about-get-involved = Taktu þátt
 
 ## Newsletter
 

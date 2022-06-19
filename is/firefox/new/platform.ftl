@@ -20,6 +20,8 @@ new-platform-need-help = Vantar þig hjálp?
 ## Linux
 
 new-platform-download-mozilla-linux = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-linux }
+# /firefox/linux/ social sharing description
+new-platform-faster-page-loading-linux = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } fyrir { -brand-name-linux } er hérna.
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } fyrir { -brand-name-linux }
 new-platform-privacy-more-than = Persónuvernd - meira en bara stefna
@@ -27,10 +29,14 @@ new-platform-open-source = Opinn og frjáls grunnkóði
 
 ## Mac
 
+# /firefox/mac/ social sharing description
+new-platform-faster-page-loading-mac = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } fyrir { -brand-name-mac-short } er hérna.
 new-platform-privacy-comes-first = Persónuvernd kemur fyrst
 new-platform-block-trackers = Lokaðu á rekjara
 
 ## Windows
 
+# /firefox/windows/ social sharing description
+new-platform-faster-page-loading-windows = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } fyrir { -brand-name-windows } er hérna.
 new-platform-live-your-life = Lifðu lífinu þínu, { -brand-name-firefox } er ekki að horfa. Veldu hverju á að deila og hvenær á að deila því.
 new-platform-seamless-setup = Óaðfinnanleg uppsetning

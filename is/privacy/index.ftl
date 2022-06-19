@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/privacy/
 
 privacy-index-contact-mozilla = Hafa samband við { -brand-name-mozilla }
+privacy-index-get-involved = Taktu þátt

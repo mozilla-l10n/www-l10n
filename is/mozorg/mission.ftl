@@ -15,7 +15,7 @@ mission-we-believe-this-act-of-human-collaboration = Við trúum því að samvi
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn = Lestu <a href="{ $url }">Mozilla Manifesto</a> til að fræðast meira um hvaða gildi og grunnreglur leiða okkur áfram.
 mission-watch-the-video-above-to-learn-more = Horfðu á myndbandið hér fyrir ofan til að fræðast meira um hverjir við erum, hvaðan við komum og hvernig við erum að gera vefinn betri fyrir þig.
-mission-get-involved = Taka þátt
+mission-get-involved = Taktu þátt
 mission-volunteer-opportunities-in-a-number = Sjálfboðaliðastörf á mismunandi sviðum
 mission-history = Sagan
 mission-where-we-come-from-and-how-we-got = Hvaðan komum við og hvernig komumst við á þann stað sem við erum núna á
