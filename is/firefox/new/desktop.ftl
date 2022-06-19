@@ -166,6 +166,9 @@ firefox-desktop-download-now-mac = Nú skaltu <strong>opna</strong> skrána sem 
 firefox-desktop-download-get-help = Áttu í vandræðum? <a { $attrs }>Fáðu hjálp við uppsetninguna þína</a>.
 firefox-desktop-download-in-another-language = Sæktu á öðru tungumáli eða fyrir annað stýrikerfi.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Ef þú sérð vísbendingu um að forritið sem þú ert að reyna að setja upp sé ekki { -brand-name-microsoft }-staðfest forrit, smelltu á „Setja samt upp“ eða <a { $attrs }>breyttu stillingum fyrir tillögur forrita</a >.
 firefox-desktop-download-visit-support-for-more = Heimsæktu aðstoðargáttina fyrir frekari upplýsingar
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
