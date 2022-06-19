@@ -36,6 +36,9 @@ vpn-landing-brand-trust-desc = Í meira en 20 ár hefur { -brand-name-mozilla } 
 ## FAQ section
 
 vpn-landing-faq-heading = Algengar spurningar
+vpn-langing-faq-uses-question-heading = Hvað er VPN og hvert er notagildi þess?
+vpn-landing-faq-info-question-heading = Hvaða upplýsingar geymir { -brand-name-mozilla-vpn }?
+vpn-landing-faq-protected-question-heading = Hvernig er friðhelgi einkalífs vernduð?
 vpn-landing-faq-compatibility-question-heading = Hvaða tæki er { -brand-name-mozilla-vpn } samhæft við?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
@@ -87,6 +90,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-einungis)
 vpn-landing-faq-refund-question-heading = Hver er endurgreiðslustefna { -brand-name-mozilla-vpn }?
+vpn-landing-faq-manage-subscription-question-heading = Hvernig stýri ég áskriftinni minni?
 vpn-landing-faq-link = Sjá fleiri algengar spurningar
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/

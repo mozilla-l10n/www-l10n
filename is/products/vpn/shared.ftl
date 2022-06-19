@@ -96,14 +96,33 @@ vpn-shared-platform-cta-headline = Byrjum á þessu
 vpn-shared-platform-cta-button = Sjá verð og framboð
 vpn-shared-platform-privacy-promise = Friðhelgi þín er loforð okkar
 vpn-shared-platform-trust-partner-headline = Um traustan samstarfsaðila okkar
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } keyrir á alþjóðlegu neti netþjóna sem knúnir eru af <a href="{ $policy }">{ -brand-name-mullvad }</a> með <a href=" { $wireguard }">{ -brand-name-wireguard }</a>® samskiptareglum. { -brand-name-mullvad } setur friðhelgi þína í fyrsta sæti og heldur ekki virkniskrár af neinu tagi.
+vpn-shared-platform-what-youll-get = Það sem þú færð með { -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = Hvað er VPN?
 vpn-subnav-faqs = Algengar spurningar
 vpn-subnav-get-help = Fá aðstoð
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Vinnutölvur
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Farsíma
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Hvað er IP-tala eða IP-vistfang?
+vpn-subnav-when-to-use-a-vpn = Hvenær á að nota VPN
+vpn-subnav-vpn-vs-proxy = Munur á VPN og milliþjónum (proxy)
+vpn-subnav-subscribe = Gerast áskrifandi að { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Við notum vefkökur til að skilja hvaða samstarfsaðili leiddi þig á { -brand-name-mozilla-vpn }. Við deilum ekki persónugreinanlegum upplýsingum með samstarfsaðilum okkar. Lestu <a { $attrs }>persónuverndarstefnu okkar</a>.
 vpn-shared-affiliate-notification-reject = Hafna
 vpn-shared-affiliate-notification-ok = Í lagi
 
