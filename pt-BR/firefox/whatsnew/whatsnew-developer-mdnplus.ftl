@@ -23,4 +23,5 @@ developer-mdnplus-build-your-perfect-library = Monte sua biblioteca perfeita. Ou
 developer-mdnplus-no-more-haphazard-hunting = Chega de caça aleatória na vasta biblioteca virtual. Libere seu curador interno e colete seus artigos preferidos em um só lugar para consulta conveniente.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } offline
 developer-mdnplus-mdns-entire-library-at-your = Toda a biblioteca do { -brand-name-mdn } na sua mão: offline
+developer-mdnplus-taking-your-projects-beyond = Levando seus projetos fora do alcance de um sinal WiFi? Chega de páginas inacessíveis ou confusão de abas. Com o { -brand-name-mdn-plus }, tenha os recursos totalmente navegáveis do { -brand-name-mdn } à sua disposição, mesmo quando estiver offline.
 developer-mdnplus-resources-for-developers = Recursos para desenvolvedores, por desenvolvedores.
