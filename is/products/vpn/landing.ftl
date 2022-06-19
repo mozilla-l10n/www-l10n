@@ -39,6 +39,7 @@ vpn-landing-faq-heading = Algengar spurningar
 vpn-langing-faq-uses-question-heading = Hvað er VPN og hvert er notagildi þess?
 vpn-landing-faq-info-question-heading = Hvaða upplýsingar geymir { -brand-name-mozilla-vpn }?
 vpn-landing-faq-protected-question-heading = Hvernig er friðhelgi einkalífs vernduð?
+vpn-landing-faq-competition-question-heading = Hvernig er { -brand-name-mozilla-vpn } samanborið við samkeppnisaðila?
 vpn-landing-faq-compatibility-question-heading = Hvaða tæki er { -brand-name-mozilla-vpn } samhæft við?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
