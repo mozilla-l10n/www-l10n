@@ -22,6 +22,16 @@ vpn-landing-fast-secure-heading = Hratt og öruggt netkerfi
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } keyrir á alþjóðlegu neti netþjóna. Með því að nota fullkomnustu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> samskiptareglur, dulritum við netvirkni þína og felum IP-vistfang þitt. Við skráum ekki, rekjum aldrei eða deilum nokkru af netgögnunum þínum.
+# Obsolete string
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } keyrir á alþjóðlegu neti netþjóna sem knúnir eru af <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Með því að nota fullkomnustu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> samskiptareglur, dulritum við netvirkni þína og felum IP-vistfang þitt. Við skráum ekki, rekjum aldrei eða deilum nokkru af netgögnunum þínum.
+vpn-landing-brand-trust-heading = VPN frá vörumerki sem þú getur treyst
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = Í meira en 20 ár hefur { -brand-name-mozilla } haft á stefnuskránni að setja fólk í fyrsta sæti og berjast fyrir friðhelgi einkalífs á netinu. Með sjálfseignarstofnun sem bakhjarl, erum við staðráðin í að byggja upp betra og heilbrigðara internet fyrir allt fólk. Allt sem við gerum er hluti af markmiðum okkar og fylgir <a href="{ $url }">grunnreglum</a> okkar í hvívetna.
 
 ## FAQ section
 
