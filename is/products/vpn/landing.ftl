@@ -39,7 +39,18 @@ vpn-landing-faq-heading = Algengar spurningar
 vpn-langing-faq-uses-question-heading = Hvað er VPN og hvert er notagildi þess?
 vpn-landing-faq-info-question-heading = Hvaða upplýsingar geymir { -brand-name-mozilla-vpn }?
 vpn-landing-faq-protected-question-heading = Hvernig er friðhelgi einkalífs vernduð?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® samskiptareglur dulrita netumferðina þína og vernda allar persónulegar upplýsingar þínar. Í samanburði við fyrirliggjandi VPN-samskiptareglur, er léttur kóði { -brand-name-wireguard } auðveldari fyrir öryggissérfræðinga að skoða og prófa – sem gerir þetta að öruggari valkosti fyrir VPN. Að auki er virkni þín á netinu alfarið nafnlaus vegna þess að við skráum ekki, rekjum aldrei eða deilum netgögnunum þínum.
 vpn-landing-faq-competition-question-heading = Hvernig er { -brand-name-mozilla-vpn } samanborið við samkeppnisaðila?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Þó að ókeypis VPN-veitur virðist aðlaðandi, hafa þær ekki sömu skuldbindingar varðandi friðhelgi einkalífsins og { -brand-name-mozilla-vpn }. Önnur VPN eru ekki með yfir 20 ára <a href="{ $url }">reynslu</a> { -brand-name-mozilla } í að byggja upp hugbúnað sem setur fólk og friðhelgi einkalífsins í fyrsta sæti.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc = Þó að ókeypis VPN-veitur virðist aðlaðandi, hafa þær ekki sömu skuldbindingar varðandi friðhelgi einkalífsins og { -brand-name-mozilla-vpn } og gætu því safnað gögnum um þig og selt þau. Aðrar greiddar VPN-þjónustur eru ekki með yfir 20 ára <a href="{ $url }">reynslu</a> { -brand-name-mozilla } í að byggja upp hugbúnað sem setur fólk og friðhelgi einkalífsins í fyrsta sæti.
 vpn-landing-faq-compatibility-question-heading = Hvaða tæki er { -brand-name-mozilla-vpn } samhæft við?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
