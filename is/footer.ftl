@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
-footer-mozilla-manifesto = { -brand-name-mozilla }-yfirlýsingin
+footer-mozilla-manifesto = Stefnuskrá { -brand-name-mozilla }
 footer-privacy = Friðhelgi
 footer-press = Fjölmiðlar
 footer-corporate-blog = Fyrirtækjablogg

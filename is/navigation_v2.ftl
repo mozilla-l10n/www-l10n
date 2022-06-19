@@ -32,6 +32,7 @@ navigation-v2-view-all-products = Skoða allan hugbúnað
 
 ## Who We Are menu
 
+navigation-v2-mozilla-manifesto = Stefnuskrá { -brand-name-mozilla }
 navigation-v2-join-the-fight-for-a = Taktu þátt í baráttunni fyrir heilbrigðu interneti.
 navigation-v2-leadership = Forysta
 navigation-v2-careers = Störf í boði

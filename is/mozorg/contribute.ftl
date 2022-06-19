@@ -16,6 +16,7 @@ contribute-tag-support = Aðstoð
 ## Mission
 
 contribute-learn = Frekari upplýsingar um { -brand-name-mozilla }
+contribute-read-manifesto = Lestu stefnuskrána okkar
 contribute-donate = Styrkja
 contribute-follow-mozilla = Fylgstu með { -brand-name-mozilla }
 

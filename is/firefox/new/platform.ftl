@@ -13,11 +13,16 @@ new-platform-download-firefox = Sækja { -brand-name-firefox }
 new-platform-download-the-fastest = Sæktu hraðasta { -brand-name-firefox } nokkru sinni
 new-platform-faster-page-loading = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } er hérna.
 new-platform-2x-faster = Tvöfalt hraðari
+new-platform-advanced-install-options = Ítarlegir uppsetningarvalkostir og önnur stýrikerfi
 new-platform-download-in-another = Sækja á öðru tungumáli
 new-platform-need-help = Vantar þig hjálp?
 
 ## Linux
 
+new-platform-download-mozilla-linux = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-linux }
+# /firefox/linux/ main page title
+new-platform-firefox-for-linux = { -brand-name-firefox } fyrir { -brand-name-linux }
+new-platform-privacy-more-than = Persónuvernd - meira en bara stefna
 new-platform-open-source = Opinn og frjáls grunnkóði
 
 ## Mac

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
 # HTML page title
-manifesto-the-mozilla-manifesto = Yfirlýsing um stefnumál { -brand-name-mozilla }
+manifesto-the-mozilla-manifesto = Stefnuskrá { -brand-name-mozilla }
 manifesto-transparent-community = Transparent community-based processes promote participation, accountability and trust.
 manifesto-principle-1 = Meginregla 1
 manifesto-principle-2 = Meginregla 2
@@ -29,12 +29,13 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 # Main page heading
-manifesto-the-mozilla-manifesto-addendum = Viðbót á yfirlýsingu um stefnumál { -brand-name-mozilla }
+manifesto-the-mozilla-manifesto-addendum = Viðbót við stefnuskrá { -brand-name-mozilla }
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Krafan um heilbrigt internet
 manifesto-show-your-support = Sýndu stuðning þinn í verki
-manifesto-our-10-principles = <strong>Our 10</strong> Principles
-manifesto-read-the-entire-manifesto = Read the entire manifesto
+manifesto-share-on-twitter = Deila á { -brand-name-twitter }
+manifesto-our-10-principles = <strong>10</strong> grundvallaratriði okkar
+manifesto-read-the-entire-manifesto = Lestu alla stefnuskrána okkar
 manifesto-details-the-mozilla-manifesto = The { -brand-name-mozilla } Manifesto
 manifesto-details-introduction = Introduction
 manifesto-details-the-internet-is-becoming = The Internet is becoming an increasingly important part of our lives.

@@ -6,5 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/new
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
+firefox-sticky-promo-get-the-latest-firefox = Náðu í nýjasta { -brand-name-firefox } vafrann.
 # Products List
 firefox-sticky-promo-browsers = Vafrar
+firefox-sticky-promo-monitor = { -brand-name-monitor }
+firefox-sticky-promo-lockwise = { -brand-name-lockwise }
+firefox-sticky-promo-pocket = { -brand-name-pocket }
+firefox-sticky-promo-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-sticky-promo-relay = { -brand-name-relay }

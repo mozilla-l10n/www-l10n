@@ -14,6 +14,7 @@ navigation-get-the-browser-that-gives = Fáðu þér vafrann sem gefur þér auk
 navigation-android-extensions = Forritsaukar { -brand-name-android }
 navigation-get-together = Komum saman í sýndarveruleika með þessu samfélagsrými á netinu.
 navigation-firefox-built-just-for = { -brand-name-firefox }, smíðað beinlínis fyrir forritara.
+navigation-mozilla-manifesto = Stefnuskrá { -brand-name-mozilla }
 navigation-browsers = Vafrar
 navigation-close-browsers-menu = Loka vafravalmyndinni
 navigation-extensions = Forritsaukar
