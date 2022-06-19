@@ -7,7 +7,7 @@
 
 about-shared-about-mozilla = Um { -brand-name-mozilla }
 about-shared-mission = Takmark
-about-shared-history = Saga
+about-shared-history = Sagan
 about-shared-leadership = Forysta
 about-shared-governance = Stjórnskipulag
 about-shared-forums = Spjallsvæði

@@ -90,5 +90,5 @@ manifesto-details-use-the-mozilla = nota eignir og tilföng { -brand-name-mozill
 manifesto-details-promote-models = styðja og koma á framfæri fyrirmyndum til að skapa efnahagsleg verðmæti í þágu almennings; og
 manifesto-details-promote-the-mozilla = kynna meginreglur { -brand-name-mozilla } stefnuskrárinnar í opinberri umræðu og innan netiðnaðarins.
 manifesto-details-some-foundation = Sum starfsemi sjálfseignarstofnunarinnar – sem í dag er smíði, afhending og kynning á neytendahugbúnaði – fer fyrst og fremst fram í gegnum dótturfyrirtæki í fullri eigu { -brand-name-mozilla-foundation }; { -brand-name-mozilla-corporation }.
-manifesto-details-invitation = Boð
+manifesto-details-invitation = Hvatning
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } býður öllum öðrum sem styðja meginreglur { -brand-name-mozilla } stefnuskrárinnar að taka þátt með okkur og finna nýjar leiðir til að gera þessa sýn á internetinu að veruleika.

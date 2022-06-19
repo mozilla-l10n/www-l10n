@@ -17,9 +17,9 @@ mission-read-the-mozilla-manifesto-to-learn = Lestu <a href="{ $url }">Mozilla M
 mission-watch-the-video-above-to-learn-more = Horfðu á myndbandið hér fyrir ofan til að fræðast meira um hverjir við erum, hvaðan við komum og hvernig við erum að gera vefinn betri fyrir þig.
 mission-get-involved = Taka þátt
 mission-volunteer-opportunities-in-a-number = Sjálfboðaliðastörf á mismunandi sviðum
-mission-history = Saga
+mission-history = Sagan
 mission-where-we-come-from-and-how-we-got = Hvaðan komum við og hvernig komumst við á þann stað sem við erum núna á
 mission-forums = Spjallsvæði
 mission-topics-include-support-products = Umræðuefni eru meðal annars hjálp, vörur, og tækni
 mission-governance = Stjórnskipulag
-mission-our-structure-organization-and-the = Okkar skipulag, samtökin okkar, og Mozilla samfélagið almennt
+mission-our-structure-organization-and-the = Uppbygging okkar, skipulag samtakanna og almennt um Mozilla samfélagið

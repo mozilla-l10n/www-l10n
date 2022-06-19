@@ -16,10 +16,14 @@ contribute-how-heading = Hvernig getur þú lagt þitt af mörkum...
 contribute-tag-non-technical = Ekki tæknilegt
 contribute-tag-technical = Tæknilegt
 contribute-tag-technical-non-technical = Tæknilegt og ekki tæknilegt
+contribute-tag-individual = Einstakling
 contribute-tag-support = Aðstoð
+contribute-task-translate-heading = Þýða efni
+contribute-task-join-heading = Gakktu í hópinn
 
 ## Mission
 
+contribute-mission-heading = Markmið okkar
 contribute-learn = Frekari upplýsingar um { -brand-name-mozilla }
 contribute-read-manifesto = Lestu stefnuskrána okkar
 contribute-donate = Styrkja
@@ -30,6 +34,7 @@ contribute-follow-mozilla = Fylgstu með { -brand-name-mozilla }
 
 ## Newsletter
 
+contribute-newsletter-heading = Ekki viss ennþá?
 
 ## Support
 
@@ -37,3 +42,5 @@ contribute-support-heading = Fá aðstoð
 
 ## Web compat
 
+contribute-web-compat-heading = Vandamál með vefsíðu?
+contribute-report-issue = Tilkynna um vandamál
