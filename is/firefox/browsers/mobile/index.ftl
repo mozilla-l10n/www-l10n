@@ -23,7 +23,11 @@ browsers-mobile-get-enhanced-tracking-protection = Fáðu aukna rakningarvernd o
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Ertu að leita að straumlínulöguðum, ofurhraðvirkum farsímavafra með næsta stigs persónuverndareiginleikum? { -brand-name-firefox-focus } eyðir sjálfkrafa öllum vafurferli þínum frá því augnabliki sem þú opnar vafrann þar til þú lokar honum.
 browsers-mobile-compare-mobile-browsers = Bera saman farsímavafra
+browsers-mobile-see-how-firefox-stacks-up = Sjáðu hvernig { -brand-name-firefox } stendur sig á móti öðrum vinsælum vöfrum þegar kemur að þeim stóru þremur: friðhelgi, eiginleikum og samstillingu.
 browsers-mobile-compare = Bera saman
+browsers-mobile-see-how-firefox-for-desktop-stacks = Sjáðu hvernig { -brand-name-firefox } stendur sig á móti sjö öðrum vöfrum.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Sjáðu hvernig { -brand-name-firefox } fyrir <strong>vinnutölvur</strong> stendur sig á móti sjö öðrum vöfrum.
 browsers-mobile-join-firefox-and-get-the-most = Vertu með í { -brand-name-firefox } og fáðu sem mest út úr öllum hugbúnaðnum - á öllum tækjum.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
