@@ -44,7 +44,11 @@ navigation-close-products-menu = Loka hugbúnaðarvalmyndinni
 navigation-see-if-your-personal = Athugaðu hvort persónulegum upplýsingum þínum hafi verið lekið á netinu og skráðu þig til að fá tilkynningar um slíkar uppákomur í framtíðinni.
 navigation-check-for-breaches = Athuga gagnarán
 navigation-see-breaches = Sjá gagnarán
+navigation-security-tips = Öryggisábendingar
+navigation-share-large-files-safely = Deildu stórum skrám á öruggan hátt, með tenglum sem „sjálfeyðast“.
+navigation-save-quality-content = Vistaðu gæðaefni hvaðan sem er. Gefðu huga þínum eldsneyti hvar sem er.
 navigation-sign-up = Nýskrá
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Hratt. Einfalt. Einka.
 navigation-protect-your-entire-device = Verndaðu allt tækið þitt og öll forritin. Feldu raunverulega staðsetningu þína og tengdu allt að 5 tæki. Gerstu áskrifandi núna.
 # Outdated string
 navigation-connected-and-protected = Tengt og varið
@@ -54,17 +58,35 @@ navigation-sign-in = Skrá inn
 navigation-benefits = Ávinningur
 navigation-about = Um okkur
 navigation-close-about-menu = Loka umfjöllunarvalmyndinni
+navigation-new-features = Nýir eiginleikar
+navigation-save-content-absorb-knowledge = Vistaðu efni. Gleyptu þekkingu.
+navigation-same-speed-and-safety = Sami hraði og öryggi sem þú treystir, hannað eingöngu fyrir fyrirtæki.
+# Outdated string
+navigation-add-ons = Viðbætur
+navigation-projects = Verkefni
+navigation-close-projects-menu = Loka verkefnavalmyndinni
 navigation-donate-your-voice-to = Gefðu rödd þína til að gera raddgreiningu opna fyrir alla.
+# Outdated string
+navigation-web-of-things-iot = Vefur hlutanna - Web of Things (IoT)
+navigation-help-make-deep-learning = Hjálpaðu til við að gera djúpnámsreiknirit aðgengileg fyrir heim opins og frjáls kóða.
+# Outdated string
+navigation-make-devices-connected = Gerðu tæki tengd við internetið örugg, örugg og samhæfð.
 navigation-developers = Hönnuðir
 navigation-close-developers-menu = Loka hönnuðavalmyndinni
+navigation-test-soon-to-be-released = Prófaðu nýja hluti í næstu útgáfu sem er skilgreind sem stöðug útgáfa.
+navigation-projects-that-help-keep = Verkefni sem hjálpa til við að halda internetinu opnu og aðgengilegu fyrir alla.
 navigation-resources = Tilföng
 navigation-resources-for-developers = Tilföng fyrir hönnuði, eftir hönnuði.
 navigation-developer-blog = Blogg þróunaraðila
 navigation-leadership = Forysta
+navigation-mission = Takmark
+navigation-press-center = Fjölmiðlamiðstöð
 navigation-contact = Hafa samband
 navigation-careers = Störf í boði
 navigation-work-for-a-mission-driven = Vinndu fyrir verkefnadrifið félag sem býr til tilgangsmiðaðar vörur.
+navigation-get-involved = Taktu þátt
 navigation-join-the-fight-for-a = Taktu þátt í baráttunni fyrir heilbrigðu interneti.
+navigation-events = Atburðir
 navigation-donate = Styrkja
 navigation-your-right-to-security = Réttur þinn til öryggis og friðhelgi einkalífs á internetinu er grundvallaratriði – aldrei valfrjálst.
 navigation-release-notes = Útgáfuupplýsingar
