@@ -36,17 +36,26 @@ firefox-desktop-download-primary-password = Aðallykilorð
 firefox-desktop-download-master-password = Aðallykilorð
 firefox-desktop-download-we-block-the-ad = Við lokum á auglýsinganjósnirnar. Þú kannar netið hraðar.
 firefox-desktop-download-ads-are-distracting = Auglýsingar eru truflandi og láta vefsíður hlaðast hægar á meðan rekjararnir í þeim fylgjast með hverri hreyfingu sem þú gerir á netinu. { -brand-name-firefox-browser } lokar sjálfkrafa á flesta rekjara, svo það er engin þörf á að grafa eftir þessu í öryggisstillingarnar þínar.
+firefox-desktop-download-see-your-report = Skoðaðu skýrslu um verndina þína
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er fyrir alla
+firefox-desktop-download-available-in-over = Fáanlegt á yfir 90 tungumálum og samhæft við { -brand-name-windows }, { -brand-name-mac-short } og { -brand-name-linux } tölvur, { -brand-name-firefox } virkar sama hvað þú ert að nota eða hvar þú ert. Gakktu úr skugga um að stýrikerfið þitt sé uppfært til að fá bestu reynsluna.
 firefox-desktop-download-review-system-req = Athugaðu kröfur kerfisins
 firefox-desktop-download-all-your-devices = Settu { -brand-name-firefox } á öll tækin þín
+firefox-desktop-download-take-your-privacy = Taktu persónuverndina þína með þér hvert á land sem er. { -brand-name-firefox-browsers } fyrir { -brand-name-ios } og { -brand-name-android } hafa sömu öflugu persónuverndarstillingarnar til að koma í veg fyrir að rekjarar fylgi þér á netinu, sama hvar þú ert.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Gerðu <strong>allt</strong> með { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Leitaðu snjallar, hraðar
 firefox-desktop-download-search-from-address = Leitaðu af veffangastikunni
 firefox-desktop-download-search-engine-options = Valkostir leitarvéla
 firefox-desktop-download-smart-search-suggestions = Snjallar leitartillögur
+firefox-desktop-download-bookmark-history = Bókamerki, vafurferill og opnir flipar í leitarniðurstöðum
+firefox-desktop-download-boost-your = Auktu framleiðni þína
 firefox-desktop-download-works-with-google = Virkar með { -brand-name-google } hugbúnaði
+firefox-desktop-download-built-in-screenshot = Innbyggt skjámyndatól
 firefox-desktop-download-bookmarks-manager = Bókamerkjastýring
+firefox-desktop-download-autosuggest-urls = Stungið sjálfkrafa upp á vefslóðum
+firefox-desktop-download-sync-across-devices = Samstillt á milli tækja
+firefox-desktop-download-reader-mode = Lestrarhamur
 firefox-desktop-download-spell-check = Stafsetningaryfirferð
 firefox-desktop-download-pinned-tabs = Festir flipar
 # Autoplay is a feature names and so is capitalized in English
