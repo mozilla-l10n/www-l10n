@@ -146,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 會自�
 firefox-desktop-download-questions = 有問題嗎？讓 <a { $attrs }>{ -brand-name-mozilla } 技術支援站</a>來幫幫您。
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = 安裝好 { -brand-name-firefox } 了嗎？接下來註冊帳號，讓 { -brand-name-firefox } 火力全開！
+firefox-desktop-download-watch-for-hackers-with-v2 = 使用 { -brand-name-firefox-monitor } 監控駭客行為、使用 { -brand-name-firefox-relay } 保護您的信箱，以及更多功能。
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = 使用 { -brand-name-firefox-monitor } 監控駭客行為、使用 { -brand-name-firefox-lockwise } 保護密碼，以及更多功能。
 firefox-desktop-download-get-more-from-firefox = 取得更完整的 { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = 只要下載瀏覽器
