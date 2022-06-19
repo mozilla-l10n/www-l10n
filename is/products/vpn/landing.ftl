@@ -37,6 +37,15 @@ vpn-landing-brand-trust-desc = Í meira en 20 ár hefur { -brand-name-mozilla } 
 
 vpn-landing-faq-heading = Algengar spurningar
 vpn-langing-faq-uses-question-heading = Hvað er VPN og hvert er notagildi þess?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Eftir því sem meira af daglegu lífi fer fram í gegnum internetið verður gagnaleynd og öryggi á netinu æ mikilvægara. VPN, <a href="{ $url }">Virtual Private Network</a>, getur hjálpað þér að búa til örugga, einkatengingu við internetið. Það virkar með því að búa til „göng“ á milli tækisins þíns og VPN-þjónustuveitu, hulin frá öðrum hlutum internetsins, sem verndar þig á tvo mikilvæga vegu:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Að fela raunverulegt <a href="{ $url }">IP-vistfang þitt</a>. Þetta verndar auðkennin þín og hylur staðsetningu þína.
+# Obsolete string
+vpn-landing-faq-uses-conceal = Að fela raunverulegt IP-vistfang þitt. Þetta verndar auðkennin þín og hylur staðsetningu þína.
+vpn-landing-faq-uses-encrypt = Dulritar umferðina á milli þín og VPN-veitunnar þinnar, svo enginn á staðarnetinu þínu geti afkóðað eða breytt henni.
 vpn-landing-faq-info-question-heading = Hvaða upplýsingar geymir { -brand-name-mozilla-vpn }?
 vpn-landing-faq-protected-question-heading = Hvernig er friðhelgi einkalífs vernduð?
 # Variables:
