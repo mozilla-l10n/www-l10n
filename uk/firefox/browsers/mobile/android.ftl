@@ -5,18 +5,34 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
+# HTML page title
+mobile-android-firefox-browser-android = { -brand-name-firefox-browser } для { -brand-name-android }
+# HTML description
+mobile-android-firefox-browser-for = Браузер { -brand-name-firefox } для { -brand-name-android } — швидкий, безпечний і приватний з першої секунди.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 # Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Будьте мобільними. Будьте незалежними з { -brand-name-firefox } для { -brand-name-android }
+# Obsolete string
+mobile-android-when-you-download = Завантажуючи { -brand-name-firefox }, ви підтримуєте незалежну технологічну компанію. { -brand-name-firefox } — єдиний великий браузер, який підтримується некомерційним борцем за надання вам більшої відкритості, прозорості та контролю вашого життя в інтернеті.
+mobile-android-get-firefox-for = Отримайте { -brand-name-firefox } для { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Надіслати посилання для завантаження на свій телефон.
 mobile-android-scan-the-qr-code-to-get-started = Скануйте QR-код, щоб почати завантаження
 mobile-android-scan-alt-text = Скануйте QR-код, щоб отримати { -brand-name-firefox } на { -brand-name-android }
+mobile-android-fast-and-private = Швидкий і приватний
+mobile-android-firefox-for-android = { -brand-name-firefox } для { -brand-name-android } легко забезпечує захист приватності з блискавичним завантаженням сторінок. Розширений захист від стеження автоматично блокує елементи онлайн-стеження, щоб вони не переслідували вас в інтернеті та не сповільнювали роботу ваших сторінок.
 mobile-android-one-tap-to = Приватний режим на віддалі одного дотику
+mobile-android-get-to-private = Переходьте в режим приватного перегляду одним дотиком. Під час виходу історія перегляду автоматично зітреться з вашого пристрою.
 mobile-android-search-your-own = Пристосуйте його для себе
+mobile-android-got-a-big = Маєте великий телефон і звичайні пальці? Нема проблем. { -brand-name-firefox } для { -brand-name-android } дає змогу переміщувати панель пошуку з верхньої частини екрана до нижньої, що полегшує керування однією рукою. Ви також можете обрати власний засіб пошуку в браузері та встановити { -brand-name-firefox } типовим браузером.
+mobile-android-save-power-with = Заощаджуйте заряд із темним режимом
 mobile-android-switch-to-dark = У будь-який час переходьте в темний режим, щоб зменшити навантаження на очі та заощадити заряд акумулятора.
 mobile-android-easily-organize-your = Легко впорядковуйте свої вкладки
+mobile-android-got-lots-of = Багато відкритих вкладок? Нема проблем: упорядкуйте їх у збірки й зосередьтеся на роботі. Збірками також можна обмінюватися між пристроями, тож ви можете продовжувати перегляд незалежно від того, яким пристроєм користуєтесь.
+mobile-android-supercharge-firefox-with = Зарядіть свій { -brand-name-firefox } додатками
+mobile-android-addons-are-like = Додатки — це невеликі, але потужні інструменти, які ви можете додати до свого браузера, щоб, наприклад, посилити типові налаштування приватності чи підкреслити свою індивідуальність.
 mobile-android-pick-up-where = Продовжуйте звідти, де зупинилися
 mobile-android-go-from-your = Переходьте від телефону до ноутбука, планшета й назад, не пропускаючи жодного моменту. Із { -brand-name-firefox } на всіх пристроях ви зможете брати з собою закладки, паролі, збережені дані для входу та історію перегляду, куди б ви не вирушили.
 mobile-android-search-from-your = Шукайте з головного екрана телефона
+mobile-android-no-need-to = Відкривати застосунок не потрібно. Додайте віджет пошуку { -brand-name-firefox } і шукайте в інтернеті просто з головного екрана вашого пристрою.
 mobile-android-pin-videos-to = Закріплюйте відео на екрані
 mobile-android-about-mozilla = Про { -brand-name-mozilla }
