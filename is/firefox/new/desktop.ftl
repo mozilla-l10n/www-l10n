@@ -16,6 +16,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } aðst
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Gerðu það sem þú gerir á netinu.<br> { -brand-name-firefox-browser } <strong>er ekki</strong> að glápa.
 firefox-desktop-download-how-firefox-compares = Hvernig { -brand-name-firefox } er í samanburði við aðra vafra
+firefox-desktop-download-get-all-the-speed = Fáðu allan hraðann og öll verkfærin án innrása í friðhelgi einkalífsins. { -brand-name-firefox-browser } safnar svo litlum gögnum um þig að við þurfum ekki einu sinni að fá tölvupóstfangið þitt svo þú getir sótt vafrann. Ólíkt öðrum vöfrum höfum við nefninlega engan fjárhagslegan ávinning í að fylgjast með þér vafra um vefinn.
 firefox-desktop-download-how-we-compare = Hvernig við stöndum okkur miðað við aðra vafra
 firefox-desktop-download-compare-firefox-to = Bera { -brand-name-firefox } samanvið:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -33,6 +34,8 @@ firefox-desktop-download-in-browser-screenshot = Skjámyndatól í vafra
 firefox-desktop-download-primary-password = Aðallykilorð
 # Obsolete string
 firefox-desktop-download-master-password = Aðallykilorð
+firefox-desktop-download-we-block-the-ad = Við lokum á auglýsinganjósnirnar. Þú kannar netið hraðar.
+firefox-desktop-download-ads-are-distracting = Auglýsingar eru truflandi og láta vefsíður hlaðast hægar á meðan rekjararnir í þeim fylgjast með hverri hreyfingu sem þú gerir á netinu. { -brand-name-firefox-browser } lokar sjálfkrafa á flesta rekjara, svo það er engin þörf á að grafa eftir þessu í öryggisstillingarnar þínar.
 firefox-desktop-download-for-everyone = { -brand-name-firefox } er fyrir alla
 firefox-desktop-download-review-system-req = Athugaðu kröfur kerfisins
 firefox-desktop-download-all-your-devices = Settu { -brand-name-firefox } á öll tækin þín
