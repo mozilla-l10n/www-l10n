@@ -8,9 +8,14 @@
 
 ## Page heading
 
+contribute-page-title = Sjálfboðaliðatækifæri hjá { -brand-name-mozilla }
+contribute-how-heading = Hvernig getur þú lagt þitt af mörkum...
 
 ## Contribution tasks
 
+contribute-tag-non-technical = Ekki tæknilegt
+contribute-tag-technical = Tæknilegt
+contribute-tag-technical-non-technical = Tæknilegt og ekki tæknilegt
 contribute-tag-support = Aðstoð
 
 ## Mission
