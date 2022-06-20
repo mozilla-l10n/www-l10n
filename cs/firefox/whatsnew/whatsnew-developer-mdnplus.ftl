@@ -14,3 +14,6 @@ developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } je spole�
 developer-mdnplus-support-mdn-and-make = Podpořte { -brand-name-mdn } <em>a</em> přizpůsobte si ho.
 # CTA button
 developer-mdnplus-get-started = Začít
+developer-mdnplus-whats-included = Co je součástí
+developer-mdnplus-notifications = Oznámení
+developer-mdnplus-development-in-real-time = Vývoj v reálném čase: Dostávejte svá vlastní upozornění
