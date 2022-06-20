@@ -63,5 +63,5 @@ contribute-mozilla-support = { -brand-name-mozilla }-aðstoð
 ## Web compat
 
 contribute-web-compat-heading = Vandamál með vefsíðu?
-contribute-web-compat-desc = Ef reynsla þín af vefsvæði er mismunandi milli mismunandivafra gætirðu hafa uppgötvað vandamál með samhæfni vefja. Okkur þætti vænt um að vita af því!
+contribute-web-compat-desc = Ef reynsla þín af vefsvæði er ólík milli mismunandi vafra gætirðu hafa uppgötvað vandamál með samhæfni vefja. Okkur þætti vænt um að vita af því!
 contribute-report-issue = Tilkynna um vandamál
