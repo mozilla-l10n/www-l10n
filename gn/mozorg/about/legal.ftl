@@ -35,3 +35,4 @@ legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } Mba’epururã rehegua
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } Mba’éichapa ojepurúta
 legal-report-copyright = Emombe’u apohare derécho rehegua térã marca registrada
+legal-hubs = { -brand-name-mozilla-hubs }
