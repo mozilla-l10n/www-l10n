@@ -24,3 +24,4 @@ developer-mdnplus-no-more-haphazard-hunting = Už žádné chaotické hledání 
 developer-mdnplus-mdn-offline = { -brand-name-mdn } offline
 developer-mdnplus-mdns-entire-library-at-your = Celá knihovna { -brand-name-mdn } ihned po ruce: offline
 developer-mdnplus-taking-your-projects-beyond = Přenášíte své projekty mimo dosah nejbližšího signálu Wi-Fi? Dejte sbohem nedostupným stránkám nebo nepřehledným panelům. S { -brand-name-mdn-plus } máte k dispozici plně procházitelné zdroje { -brand-name-mdn }, i když jste offline.
+developer-mdnplus-resources-for-developers = Zdroje pro vývojáře, od vývojářů.
