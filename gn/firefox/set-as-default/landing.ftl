@@ -14,6 +14,7 @@ set-as-default-landing-thanks-for-using-the = Aguyje eipurúre { -brand-name-fir
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = Eñeha’ãke eñemo’ã eikekuévo ñandutípe
 set-as-default-landing-you-should-get = Eñe’ẽkuaa ne ñeikundaha rehegua
+set-as-default-landing-if-you-recently = Embohekopyahuramórõ ne mohendaha, péva omoambuekuaa ne ñemboheko. Eykeko ñanduti isãso ha ijurujáva eike vovénte { -brand-name-firefox } ndive.
 set-as-default-landing-choose-automatic-privacy = Eiporavo ñemigua ijeheguíva
 set-as-default-landing-companies-keep-finding = Umi mba’apohaguasu ojuhu gueteri mba’éichapa omondáta ne mba’ekuaarã. { -brand-name-firefox } ha’e kundahára ojuhúva mba’éichapa eñemo’ãta ñandutípe.
 set-as-default-landing-choose-freedom-on-every = Eiporavo sãso peteĩteĩva mba’e’okápe
