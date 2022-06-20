@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -18,6 +18,10 @@ nightly-whatsnew-this-is-a-good = Roaguyjeveme’ẽ ore pytyvõ haguére { -bra
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Eikuaasevéramo oikóva { -brand-name-nightly } jerére ha pe hekoha rupi, ikatukuaa eñepyrũ emoñe’ẽvo ore <a href="{ $blog }">blog</a> ha orerapykueho <a href="{ $twitter }">{ -brand-name-twitter }</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Eikuaasépa mba’eichagua pyendavusu eipurukuaa { -brand-name-nightly } ndive ha ndaikatúiva ojehecha ambue canal { -brand-name-firefox } rupive. Ehechami kuatiarogue ehecharamovéva <a { $attrs }>Nightly mba’e’apopy</a>.
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = ¿Eikuaase mba’éichagua plataforma eipurukuaa { -brand-name-nightly } ndive ha ndaikatúiva ojehecha ambue canal { -brand-name-firefox } mba’évape? Upévare ehechami kuatiarogue <a href="{ $mdn }">mba’e oñeha’ãva</a> <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>-pe.

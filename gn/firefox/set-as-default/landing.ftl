@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
@@ -9,8 +9,11 @@
 set-as-default-landing-make-firefox-your-default = Ejapo { -brand-name-firefox }-gui kundahára ijypykuévaramo
 # HTML page description
 set-as-default-landing-choose-the-browser = Eporavo pe kundahára omo’ãva ne ñemigua. Emoĩ { -brand-name-firefox } ne kundahára ypyguávaramo.
-set-as-default-landing-make-sure-youre-protected = Eñeha’ãke eñemo’ã eikekuévo ñandutípe
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = Aguyje eipurúre { -brand-name-firefox } rembiapokue ipyahuvéva. Eiporavóvo { -brand-name-firefox } eykekóma ñanduti iporãvéva ndéve g̃uarã ha opavavépe avei. Ko’ág̃a eku’e nde eñemo’ã hag̃ua.
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = Eñeha’ãke eñemo’ã eikekuévo ñandutípe
+set-as-default-landing-you-should-get = Eñe’ẽkuaa ne ñeikundaha rehegua
 set-as-default-landing-choose-automatic-privacy = Eiporavo ñemigua ijeheguíva
 set-as-default-landing-companies-keep-finding = Umi mba’apohaguasu ojuhu gueteri mba’éichapa omondáta ne mba’ekuaarã. { -brand-name-firefox } ha’e kundahára ojuhúva mba’éichapa eñemo’ãta ñandutípe.
 set-as-default-landing-choose-freedom-on-every = Eiporavo sãso peteĩteĩva mba’e’okápe
