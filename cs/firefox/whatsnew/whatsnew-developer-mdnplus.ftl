@@ -19,3 +19,4 @@ developer-mdnplus-notifications = Oznámení
 developer-mdnplus-development-in-real-time = Vývoj v reálném čase: Dostávejte svá vlastní upozornění
 developer-mdnplus-the-web-doesnt-have-a = Web si nevede záznam o změnách, ale { -brand-name-mdn } vám může pomoci. Sledujte stránky a dostávejte přizpůsobitelná oznámení o změnách v dokumentaci, zavedení funkcí CSS a dodání rozhraní API.
 developer-mdnplus-collections = Sbírky
+developer-mdnplus-no-more-haphazard-hunting = Už žádné chaotické hledání v rozsáhlé virtuální knihovně: probuďte v sobě kurátora a shromážděte své oblíbené články na jednom místě, kde si je můžete pohodlně prohlédnout.
