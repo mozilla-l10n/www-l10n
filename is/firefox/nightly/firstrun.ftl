@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
+nightly-firstrun-firefox-nightly = Fyrsta-skiptis-síða { -brand-name-firefox-nightly }
 nightly-firstrun-thank-you-for-using = Takk fyrir að nota { -brand-name-firefox-nightly }
 nightly-firstrun-choose-an-area = Veldu svið til að taka þátt í hér að neðan og hjálpaðu til við að gera { -brand-name-firefox } betra fyrir notendur alls staðar
 nightly-firstrun-test = Prófa
