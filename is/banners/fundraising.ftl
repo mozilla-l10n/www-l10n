@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title-v2 = Hjálpaðu { -brand-name-mozilla } að berjast fyrir betra interneti á meðan fríunum stendur.
 banner-fundraising-body-extra = Getur þú styrkt okkur í dag?
 banner-fundraising-monthly = Mánaðarlega
 banner-fundraising-one-time = Einu sinni
