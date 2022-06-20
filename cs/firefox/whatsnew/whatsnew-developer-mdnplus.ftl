@@ -10,3 +10,4 @@ developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest = Gratulujeme. Nyní máte nejnovější verzi { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Více { -brand-name-mdn }. <em>Vaše</em> { -brand-name-mdn }.
+developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } je společný projekt s otevřeným zdrojovým kódem, který dokumentuje technologie webových platforem, jako jsou CSS, HTML, JavaScript a webová API. Poskytujeme také rozsáhlou sadu výukových zdrojů pro začínající vývojáře a studenty.
