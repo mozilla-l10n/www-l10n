@@ -24,3 +24,4 @@ newsletter-form-select-country = Veldu land
 newsletter-form-sign-me-up = Skráðu mig
 newsletter-form-sign-up-now = Skráðu þig núna
 newsletter-form-thanks = Takk!
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }

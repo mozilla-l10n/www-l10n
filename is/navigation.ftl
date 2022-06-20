@@ -13,6 +13,7 @@ navigation-download-for-android = Sækja fyrir { -brand-name-android }
 navigation-ios-support = { -brand-name-ios }-aðstoð
 navigation-android-support = { -brand-name-android }-aðstoð
 navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } fyrir fyrirtæki
+navigation-firefox-for-fire-tv = { -brand-name-firefox } fyrir { -brand-name-fire-tv }
 navigation-join-firefox = Gakktu til liðs við { -brand-name-firefox }
 navigation-firefox-blog = { -brand-name-firefox } bloggið
 navigation-read-about-new-firefox = Lestu um nýja eiginleika { -brand-name-firefox } og fáðu góð ráð til að vera öruggari á netinu.

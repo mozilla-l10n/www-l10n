@@ -5,8 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+firefox-accounts-sign-in-to-monitor = Skráðu þig inn á { -brand-name-monitor }
+firefox-accounts-join-firefox = Gakktu til liðs við { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Settu inn tölvupóstfangið þitt til að hefjast handa.
 firefox-accounts-already-have-an-account = Ertu þegar með reikning?
+firefox-accounts-sign-in = Skrá inn
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Þú munt alltaf fá sannleikann frá okkur. Allt sem við hönnum og gerum stemmir við <a href="{ $promise }">loforð okkar um persónuupplýsingar</a>:
