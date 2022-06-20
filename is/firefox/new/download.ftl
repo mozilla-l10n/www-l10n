@@ -48,6 +48,7 @@ firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Ef þú sérð vísbendingu um að forritið sem þú ert að reyna að setja upp sé ekki { -brand-name-microsoft }-staðfest forrit, smelltu á „Setja samt upp“ eða <a { $attrs }>breyttu stillingum fyrir tillögur forrita</a >.
+firefox-new-visit-support-for-more = Heimsæktu aðstoðargáttina fyrir frekari upplýsingar
 
 # Not-Required
 
@@ -56,5 +57,6 @@ firefox-new-if-you-see-a-prompt = Ef þú sérð vísbendingu um að forritið s
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Sækja { -brand-name-firefox-browser }
+firefox-new-fast = Hraðvirkt, einka og ókeypis
 firefox-new-from-mozilla = frá { -brand-name-mozilla }
 firefox-new-download-a-different = Sækja fyrir annað stýrikerfi eða tungumál

@@ -29,6 +29,7 @@ new-platform-open-source = Opinn og frjáls grunnkóði
 
 ## Mac
 
+new-platform-download-mozilla-firefox-mac = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-mac-short }
 # /firefox/mac/ social sharing description
 new-platform-faster-page-loading-mac = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } fyrir { -brand-name-mac-short } er hérna.
 new-platform-privacy-comes-first = Persónuvernd kemur fyrst
