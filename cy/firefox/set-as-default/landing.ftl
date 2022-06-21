@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
@@ -9,8 +9,12 @@
 set-as-default-landing-make-firefox-your-default = Gwnewch { -brand-name-firefox } yn borwr rhagosodedig i chi
 # HTML page description
 set-as-default-landing-choose-the-browser = Dewiswch y porwr sy'n diogelu'ch preifatrwydd. Gosodwch { -brand-name-firefox } fel eich porwr rhagosodedig.
-set-as-default-landing-make-sure-youre-protected = Gwnewch yn siŵr eich bod yn cael eich diogelu, bob tro rydych yn mynd ar-lein
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = Diolch am ddefnyddio'r porwr { -brand-name-firefox } diweddaraf. Pan ddewiswch { -brand-name-firefox }, rydych yn cefnogi gwe well i chi a phawb arall. Nawr, cymrwch y cam nesaf i ddiogelu eich hun.
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = Gwnewch yn siŵr eich bod yn cael eich diogelu, bob tro rydych yn mynd ar-lein
+set-as-default-landing-you-should-get = Dylech gael llais yn y ffordd rydych yn pori
+set-as-default-landing-if-you-recently = Os ydych wedi diweddaru'ch cyfrifiadur yn ddiweddar, efallai bod eich gosodiadau wedi newid. Cefnogwch ryngrwyd agored ac am ddim bob tro y byddwch yn mynd ar-lein gyda { -brand-name-firefox }.
 set-as-default-landing-choose-automatic-privacy = Dewiswch breifatrwydd awtomatig
 set-as-default-landing-companies-keep-finding = Mae cwmnîau'n dal i ddod o hyd i ffyrdd newydd o gipio'ch data personol. { -brand-name-firefox } yw'r porwr sydd â chenhadaeth i ddod o hyd i ffyrdd newydd i'ch diogelu.
 set-as-default-landing-choose-freedom-on-every = Dewiswch ryddid ar bob dyfais
