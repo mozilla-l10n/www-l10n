@@ -35,3 +35,4 @@ legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } Hizmet Koşulları
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } Hizmet Koşulları
 legal-report-copyright = Telif hakkı veya ticari marka ihlalini bildir
+legal-hubs = { -brand-name-mozilla-hubs }
