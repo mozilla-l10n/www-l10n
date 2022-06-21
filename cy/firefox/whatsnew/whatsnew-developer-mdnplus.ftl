@@ -10,8 +10,8 @@ developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest = Llongyfarchiadau. Nawr mae gennych y fersiwn diweddaraf o { -brand-name-firefox-browser } { -brand-name-developer-edition }
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Rhagor o { -brand-name-mdn }. <em>Eich</em> { -brand-name-mdn }.
-developer-mdnplus-mdn-is-an-open-source = Mae { -brand-name-mdn-web-docs } yn broject cydweithredol, cod agored sy'n dogfennu technolegau llwyfannau Gwe, gan gynnwys CSS, HTML, JavaScript ac API Gwe. Rydym hefyd yn darparu set helaeth o adnoddau dysgu ar gyfer datblygwyr a myfyrwyr newydd.
-developer-mdnplus-support-mdn-and-make = Cefnogwch { -brand-name-mdn } <em>a</em> a byddwch yn gartrefol yma.
+developer-mdnplus-mdn-is-an-open-source = Mae { -brand-name-mdn-web-docs } yn broject cydweithredol, cod agored sy'n dogfennu technolegau llwyfannau Gwe, gan gynnwys CSS, HTML, JavaScript ac APIs Gwe. Rydym hefyd yn darparu set helaeth o adnoddau dysgu ar gyfer datblygwyr a myfyrwyr newydd.
+developer-mdnplus-support-mdn-and-make = Cefnogwch { -brand-name-mdn } <em>a</em> a gwnewch e'n ddefnyddiol i chi.
 # CTA button
 developer-mdnplus-get-started = Cychwyn Arni
 developer-mdnplus-whats-included = Beth sy'n cael ei gynnwys
@@ -23,3 +23,5 @@ developer-mdnplus-build-your-perfect-library = Adeiladwch eich llyfrgell berffai
 developer-mdnplus-no-more-haphazard-hunting = Dim rhagor o chwilio ar hap drwy'r llyfrgell rithwir helaeth: rhyddhewch eich curadur mewnol a chasglwch eich hoff erthyglau mewn un lle ar gyfer ymgynghori cyfleus.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } all-lein
 developer-mdnplus-mdns-entire-library-at-your = Llyfrgell gyfan { -brand-name-mdn } ar flaenau eich bysedd: all-lein
+developer-mdnplus-taking-your-projects-beyond = Yn mynd â'ch projectau y tu hwnt i'r signal Wi-Fi agosaf? Dywedwch ffarwel i dudalennau anhygyrch neu dabiau anniben. Gyda { -brand-name-mdn-plus } , gallwch gael yr holl adnoddau { -brand-name-mdn } llawn ar gael ichi hyd yn oed pan nad ydych ar-lein.
+developer-mdnplus-resources-for-developers = Adnoddau i Ddatblygwyr, gan Ddatblygwyr.
