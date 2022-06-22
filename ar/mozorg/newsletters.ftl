@@ -397,7 +397,15 @@ newsletters-special-announcements-helping-you = إعلانات خاصة تساع
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
 
+# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+newsletters-subscribe-to-the-newsletter = اشترك في النشرة الإخبارية
 
+# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
+newsletters-get-the-news-and-tips = احصل على الأخبار والإرشادات من { -brand-name-mozilla } لتبقى آمنًا ومُطلعًا على كل شيء يجعل الويب مكانًا آمنًا.
 
 ## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
 
+knowledge-is-power-mozilla = { -brand-name-mozilla }
+knowledge-is-power-firefox = مُتصفح { -brand-name-firefox }
+knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
+knowledge-is-power-pocket = { -brand-name-pocket }
