@@ -14,6 +14,8 @@ set-as-default-landing-thanks-for-using-the = نشكُرك على استخدام
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = تأكّد من أنّك مَحمي متى اتصلت بالإنترنت
 
+set-as-default-landing-you-should-get = يَجب أن يكون لك رأي في طريقة التصفّح
+set-as-default-landing-if-you-recently = إذا كنت قد أجريتَ تحديثًا لِجهاز الكمبيوتر مؤخرًا، ربما تغيّرت الإعدادات لديك. ادعم الإنترنت المجاني والمفتوح في كل مرة تدخل فيها إلى الإنترنت مع { -brand-name-firefox }.
 set-as-default-landing-choose-automatic-privacy = اختيار خُصوصية تلقائية
 set-as-default-landing-companies-keep-finding = تُواصل الشركات إيجاد طُرق جديدة لانتزاع بياناتك الشخصية. { -brand-name-firefox } هو المُتصفح الذي تتمثل مُهمته في إيجاد طُرق جديدة لحمايتك.
 set-as-default-landing-choose-freedom-on-every = اختيار الحرية على كل جهاز
