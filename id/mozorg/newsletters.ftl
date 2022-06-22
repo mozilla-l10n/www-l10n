@@ -397,7 +397,15 @@ newsletters-special-announcements-helping-you = Pengumuman khusus membantu Anda 
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
 
+# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+newsletters-subscribe-to-the-newsletter = Berlangganan buletin
 
+# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
+newsletters-get-the-news-and-tips = Dapatkan berita dan tips dari { -brand-name-mozilla } agar tetap aman dan mendapatkan informasi tentang segala hal yang menjadikan web tempat yang lebih sehat.
 
 ## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
 
+knowledge-is-power-mozilla = { -brand-name-mozilla }
+knowledge-is-power-firefox = Peramban { -brand-name-firefox }
+knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
+knowledge-is-power-pocket = { -brand-name-pocket }
