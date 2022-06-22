@@ -14,6 +14,8 @@ set-as-default-landing-thanks-for-using-the = नवीनतम { -brand-name-f
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = हर बार ऑनलाइन होने पर अपनी सुरक्षा सुनिश्चित करें
 
+set-as-default-landing-you-should-get = ब्राउज़िंग अनुभव कैसा हो - इसे तय करने में आपकी भी भूमिका होनी चाहिए
+set-as-default-landing-if-you-recently = अगर आपने अपना कंप्यूटर हाल ही में अपडेट किया है, तो हो सकता है कि आपकी सेटिंग बदल गई हों। आप { -brand-name-firefox } के ज़रिए जब भी ऑनलाइन हों तो ओपन और फ़्री इंटरनेट को सपोर्ट करें।
 set-as-default-landing-choose-automatic-privacy = स्वतः निजता चुनें
 set-as-default-landing-companies-keep-finding = कंपनियाँ आपके निजी डेटा को अवैध रूप से हथियाने के लिए नए तरीके खोजती रहती हैं। { -brand-name-firefox } ऐसा ब्राउज़र है जिसका मकसद आपको सुरक्षित रखने के नए तरीके खोजना है।
 set-as-default-landing-choose-freedom-on-every = हर डिवाइस पर स्वतंत्रता चुनें

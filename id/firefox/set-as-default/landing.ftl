@@ -14,6 +14,8 @@ set-as-default-landing-thanks-for-using-the = Terima kasih telah menggunakan per
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = Pastikan Anda terlindungi setiap kali Anda daring
 
+set-as-default-landing-you-should-get = Anda berhak menentukan cara Anda menjelajah
+set-as-default-landing-if-you-recently = Jika Anda baru saja memperbarui komputer, pengaturannya mungkin telah berubah. Dukung internet gratis dan terbuka setiap kali Anda daring dengan { -brand-name-firefox }.
 set-as-default-landing-choose-automatic-privacy = Pilih privasi otomatis
 set-as-default-landing-companies-keep-finding = Perusahaan terus menemukan cara baru untuk mengambil data pribadi Anda. { -brand-name-firefox } merupakan peramban dengan misi menemukan cara baru untuk melindungi Anda.
 set-as-default-landing-choose-freedom-on-every = Pilih kebebasan di setiap perangkat
