@@ -10,8 +10,10 @@ whatsnew-page-description = Verilerinizi üçüncü taraflara satan bir sektör�
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification-v2 = Tebrikler! { -brand-name-firefox }’un son sürümünü kullanıyorsunuz.
 # Obsolete string
 whatsnew-up-to-date-notification = Tebrikler! { -brand-name-firefox-browser }nın son sürümünü kullanıyorsunuz.
+whatsnew-out-of-date-notification-v2 = Daha yeni bir { -brand-name-firefox } sürümü var. Güncellemek için yeniden başlatın.
 # Obsolete string
 whatsnew-out-of-date-notification = Daha yeni bir { -brand-name-firefox-browser } sürümü var. Güncellemek için yeniden başlatın.
 # Variables:

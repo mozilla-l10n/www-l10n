@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/102.0a2/whatsnew/
 
 developer-mdnplus-notifications = Bildirimler
+developer-mdnplus-collections = Koleksiyonlar
 developer-mdnplus-mdn-offline = { -brand-name-mdn } çevrimdışı
