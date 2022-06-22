@@ -58,3 +58,5 @@ firefox-more-fingerprinter-blocking = Блакаванне збору лічба
 firefox-more-translate-the-web = Перакладайце сеціва
 firefox-more-translate-more-than = Перакладайце з больш за 100 моў на вашу мову непасрэдна ў вашым { -brand-name-firefox-browser } — прасцей, чым калі-небудзь.
 firefox-more-a-guide-to = Кіраўніцтва па больш бяспечных лагінах і паролях
+firefox-more-more-and-more = Усё больш і больш канфідэнцыйных, каштоўных рэчаў у нашым жыцці ахоўваюцца паролямі.
+firefox-more-avoid-misinformation-heading = Пазбягайце дэзынфармацыі ў Інтэрнэце – { -brand-name-firefox } тут, каб дапамагчы
