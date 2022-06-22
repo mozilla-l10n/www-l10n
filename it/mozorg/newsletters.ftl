@@ -283,3 +283,10 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = Annunci esclusivi per ottenere il massimo dalla piattaforma { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
+
+## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
+
+knowledge-is-power-mozilla = { -brand-name-mozilla }
+knowledge-is-power-firefox = Browser { -brand-name-firefox }
+knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
+knowledge-is-power-pocket = { -brand-name-pocket }
