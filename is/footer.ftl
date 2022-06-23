@@ -4,6 +4,7 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Stefnuskrá { -brand-name-mozilla }
+footer-privacy-hub = Persónuverndarmiðstöð
 footer-privacy = Friðhelgi
 footer-press = Fjölmiðlar
 footer-corporate-blog = Fyrirtækjablogg

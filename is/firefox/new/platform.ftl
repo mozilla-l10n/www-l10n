@@ -20,6 +20,8 @@ new-platform-need-help = Vantar þig hjálp?
 ## Linux
 
 new-platform-download-mozilla-linux = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-linux }
+# /firefox/linux/ HTML page description
+new-platform-download-mozilla-desc-linux = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-linux }, ókeypis vafra. { -brand-name-firefox } er búið til af alþjóðlegri sjálfseignarstofnun sem ekki er rekin í hagnaðarskyni og er tileinkuð því að gefa einstaklingum stjórnvölinn á netinu. Fáðu þér { -brand-name-firefox } fyrir { -brand-name-linux } strax í dag!
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Sæktu hraðasta { -brand-name-firefox } nokkurn tíma fyrir { -brand-name-linux }
 # /firefox/linux/ social sharing description
@@ -35,16 +37,23 @@ new-platform-look-under-the-hood = Kíktuu undir húddið. Eins og í { -brand-n
 ## Mac
 
 new-platform-download-mozilla-firefox-mac = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-mac-short }
+# /firefox/mac/ HTML page description
+new-platform-download-mozilla-firefox-desc-mac = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-mac-short }, ókeypis vafra. { -brand-name-firefox } er búið til af alþjóðlegri sjálfseignarstofnun sem ekki er rekin í hagnaðarskyni og er tileinkuð því að gefa einstaklingum stjórnvölinn á netinu. Fáðu þér { -brand-name-firefox } fyrir { -brand-name-mac-short } strax í dag!
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Sæktu hraðasta { -brand-name-firefox } nokkurn tíma fyrir { -brand-name-mac-short }
 # /firefox/mac/ social sharing description
 new-platform-faster-page-loading-mac = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } fyrir { -brand-name-mac-short } er hérna.
 new-platform-privacy-comes-first = Persónuvernd kemur fyrst
+new-platform-firefox-doesnt-spy = { -brand-name-firefox } njósnar ekki við leitir. Við stöðvum rakningarkökur frá utanaðkomandi aðilum og gefum þér fulla stjórn.
+new-platform-get-speed-and-security = Fáðu hraða og öryggi. { -brand-name-firefox } er hraðvirkur á { -brand-name-mac-short } vegna þess að við fylgjumst ekki með ferðum þínum.
 new-platform-block-trackers = Lokaðu á rekjara
+new-platform-be-the-master-of-your = Vertu við stjórnvölinn á léninu þínu með strangri lokun á efni. Skerðu niður allar vefkökur og rekjara.
 
 ## Windows
 
 new-platform-download-mozilla-windows = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-windows }
+# /firefox/windows/ HTML page description
+new-platform-download-mozilla-desc-windows = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-windows }, ókeypis vafra. { -brand-name-firefox } er búið til af alþjóðlegri sjálfseignarstofnun sem ekki er rekin í hagnaðarskyni og er tileinkuð því að gefa einstaklingum stjórnvölinn á netinu. Fáðu þér { -brand-name-firefox } fyrir { -brand-name-windows } strax í dag!
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Sæktu hraðasta { -brand-name-firefox } nokkurn tíma fyrir { -brand-name-windows }
 # /firefox/windows/ social sharing description
