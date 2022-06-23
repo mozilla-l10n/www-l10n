@@ -17,10 +17,20 @@ firefox-all-browser = Vafri:
 firefox-all-platform = Stýrikerfi:
 firefox-all-language = Tungumál:
 firefox-all-lang-multi = Mörg tungumál
+firefox-all-sorry-we-couldnt-find = Því miður, við fundum ekki niðurhalið sem þú ert að leita að. Endilega reyndu aftur, eða veldu niðurhal af listanum hér að neðan.
+firefox-all-the-pre-alpha-version = For-alfa útgáfan fyrir stórnotendur sem vilja finna hrun og prófa nýja eiginleika um leið og þeir eru kóðaðir.
 firefox-all-64-bit-installers = 64-bita uppsetningarforrit
+firefox-all-choose-a-64-bit-installer = Veldu 64-bita uppsetningarforrit fyrir tölvur með 64-bita örgjörva, sem gerir kleift að úthluta meira vinnsluminni til einstakra forrita - sérstaklega mikilvægt fyrir leiki og önnur krefjandi forrit.
 firefox-all-32-bit-installers = 32-bita uppsetningarforrit
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox = Sæktu { -brand-name-firefox-browser } á ensku (US) og meira en 90 öðrum tungumálum
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access = Allir eiga skilið aðgang að internetinu - tungumálið þitt ætti aldrei að vera hindrun. Þess vegna – með hjálp sjálfboðaliða um allan heim – gerum við { -brand-name-firefox-browser } aðgengilegt á meira en 90 tungumálum.
+firefox-all-choose-which-firefox = Veldu hvaða { -brand-name-firefox-browser } þú vilt sækja á tungumálinu þínu
 firefox-all-firefox-privacy-notice = Persónuverndarstefna { -brand-name-firefox }
 firefox-all-learn-about-firefox = Lærðu um { -brand-name-firefox } vafrana
+firefox-all-the-standard-firefox = Staðlaði { -brand-name-firefox } vafrinn - hraðvirkur með vörnum fyrir persónulegar upplýsingar. Ef þú ert ekki viss um hvaða { -brand-name-firefox } þú átt að velja, skaltu sækja þessa útgáfu.
+firefox-all-get-a-sneak-peek-at = Fáðu innsýn í nýjustu eiginleika { -brand-name-firefox } vafrans áður en þeir eru gefnir út.
 firefox-all-arm64-installers = ARM64/AArch64 uppsetningarforrit
 firefox-all-product-send-link = Sendu niðurhalstengil í símann þinn.
 # Variables:
