@@ -14,6 +14,8 @@ set-as-default-landing-thanks-for-using-the = 最新版 { -brand-name-firefox } 
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = オンライン上での保護をつねに確保
 
+set-as-default-landing-you-should-get = ユーザーのブラウズのあり方について、ユーザーにも発言権が必要です
+set-as-default-landing-if-you-recently = お使いのコンピューターを最近アップデートした場合、設定が変更されている可能性があります。{ -brand-name-firefox } でインターネットを利用するたびに、あなたは自由で開けたインターネットを支持します。
 set-as-default-landing-choose-automatic-privacy = 自動プライバシー
 set-as-default-landing-companies-keep-finding = 多くの企業がつねに新たな個人データ不正取得方法を探求しています。{ -brand-name-firefox } ブラウザーは、新たなユーザー保護方法を探求し続けることを使命としています。
 set-as-default-landing-choose-freedom-on-every = あらゆるデバイスで自由を手に入れる

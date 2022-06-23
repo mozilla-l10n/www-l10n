@@ -14,6 +14,8 @@ set-as-default-landing-thanks-for-using-the = Terima kasih kerana menggunakan pe
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = Pastikan anda dilindungi, setiap kali anda berada dalam talian
 
+set-as-default-landing-you-should-get = Anda berhak ke atas apa yang anda layari
+set-as-default-landing-if-you-recently = Jika anda mengemas kini komputer anda baru-baru ini, tetapan anda mungkin telah berubah. Sokonglah internet percuma dan terbuka setiap kali anda mengakses internet dengan { -brand-name-firefox }.
 set-as-default-landing-choose-automatic-privacy = Pilih privasi automatik
 set-as-default-landing-companies-keep-finding = Banyak syarikat terus mencari cara baru untuk menceroboh data peribadi anda. { -brand-name-firefox } ialah pelayar dengan misi mencari cara baru untuk melindungi anda.
 set-as-default-landing-choose-freedom-on-every = Pilih kebebasan pada setiap peranti
