@@ -397,7 +397,15 @@ newsletters-special-announcements-helping-you = { -brand-name-webmaker } を最�
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
 
+# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+newsletters-subscribe-to-the-newsletter = ニュースレターに登録
 
+# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
+newsletters-get-the-news-and-tips = { -brand-name-mozilla } からニュースやアドバイスを受け取って、プライバシーを守り、ウェブをより健全な場所にするものについて情報を入手しましょう。
 
 ## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
 
+knowledge-is-power-mozilla = { -brand-name-mozilla }
+knowledge-is-power-firefox = { -brand-name-firefox } ブラウザー
+knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
+knowledge-is-power-pocket = { -brand-name-pocket }
