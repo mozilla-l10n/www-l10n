@@ -35,6 +35,8 @@ new-platform-look-under-the-hood = Kíktuu undir húddið. Eins og í { -brand-n
 ## Mac
 
 new-platform-download-mozilla-firefox-mac = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-mac-short }
+# /firefox/mac/ social sharing title
+new-platform-download-the-fastest-mac = Sæktu hraðasta { -brand-name-firefox } nokkurn tíma fyrir { -brand-name-mac-short }
 # /firefox/mac/ social sharing description
 new-platform-faster-page-loading-mac = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } fyrir { -brand-name-mac-short } er hérna.
 new-platform-privacy-comes-first = Persónuvernd kemur fyrst
@@ -42,7 +44,13 @@ new-platform-block-trackers = Lokaðu á rekjara
 
 ## Windows
 
+new-platform-download-mozilla-windows = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-windows }
+# /firefox/windows/ social sharing title
+new-platform-download-the-fastest-windows = Sæktu hraðasta { -brand-name-firefox } nokkurn tíma fyrir { -brand-name-windows }
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } fyrir { -brand-name-windows } er hérna.
+new-platform-firefox-moves-fast = { -brand-name-firefox } fer hratt og meðhöndlar gögnin þín af varkárni - engin auglýsingarakning og engin bremsa.
+new-platform-common-sense-privacy = Skynsamleg friðhelgi
 new-platform-live-your-life = Lifðu lífinu þínu, { -brand-name-firefox } er ekki að horfa. Veldu hverju á að deila og hvenær á að deila því.
 new-platform-seamless-setup = Óaðfinnanleg uppsetning
+new-platform-easy-migration = Auðvelt að yfirfæra kjörstillingar og bókamerki þegar þú sækir { -brand-name-firefox } fyrir { -brand-name-windows }.
