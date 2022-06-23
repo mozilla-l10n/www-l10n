@@ -165,6 +165,8 @@ firefox-desktop-download-now-mac = Nú skaltu <strong>opna</strong> skrána sem 
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Áttu í vandræðum? <a { $attrs }>Fáðu hjálp við uppsetninguna þína</a>.
 firefox-desktop-download-in-another-language = Sæktu á öðru tungumáli eða fyrir annað stýrikerfi.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app

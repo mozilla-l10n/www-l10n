@@ -44,6 +44,8 @@ firefox-new-please-follow = Fylgdu þessum <a href="{ $url }">leiðbeiningum</a>
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Kerfið þitt uppfyllir mögulega ekki þær kröfur sem þarf fyrir { -brand-name-firefox }, en þú getur prófað einhverja af <a href="{ $url }">þessum útgáfum</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
