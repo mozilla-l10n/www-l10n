@@ -22,12 +22,14 @@ navigation-v2-privacy-promise = Loforð um persónuvernd
 navigation-v2-firefox-blog = { -brand-name-firefox } bloggið
 navigation-v2-read-about-new-firefox-features = Lestu um nýja eiginleika { -brand-name-firefox } og leiðir til að vera öruggari á netinu.
 navigation-v2-release-notes = Útgáfuupplýsingar
+navigation-v2-view-all-firefox-browsers = Skoða alla { -brand-name-firefox-browsers } vafrana
 
 ## Products menu
 
 navigation-v2-products = Hugbúnaður
 navigation-v2-close-products-menu = Loka hugbúnaðarvalmyndinni
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Athugaðu hvort tölvupósturinn þinn hafi birst í gagnaráni hjá fyrirtæki.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Uppgötvaðu og vistaðu bestu sögurnar af veraldarvefnum.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
@@ -41,7 +43,10 @@ navigation-v2-view-all-products = Skoða allan hugbúnað
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Hver við erum
+navigation-v2-close-who-we-are-menu = Loka 'Hver við erum'-valmyndinni
 navigation-v2-mozilla-manifesto = Stefnuskrá { -brand-name-mozilla }
+navigation-v2-learn-about-the-values = Lærðu um gildin og meginreglurnar sem leiða verkefnin okkar.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Taktu þátt
 navigation-v2-join-the-fight-for-a = Taktu þátt í baráttunni fyrir heilbrigðu interneti.
@@ -49,6 +54,7 @@ navigation-v2-leadership = Forysta
 navigation-v2-careers = Störf í boði
 navigation-v2-work-for-a-mission-driven-updated = Vinndu fyrir verkefnadrifið félag sem býr til vörur sem hafa fólk í fyrirrúmi.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } bloggið
+navigation-v2-learn-about-mozilla-and = Fræðstu betur um { -brand-name-mozilla } og málefnin sem skipta okkur máli.
 navigation-v2-more-about-mozilla = Meira um { -brand-name-mozilla }
 
 ## Innovation menu
