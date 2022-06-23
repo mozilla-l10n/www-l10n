@@ -31,8 +31,15 @@ firefox-all-firefox-privacy-notice = Persónuverndarstefna { -brand-name-firefox
 firefox-all-learn-about-firefox = Lærðu um { -brand-name-firefox } vafrana
 firefox-all-the-standard-firefox = Staðlaði { -brand-name-firefox } vafrinn - hraðvirkur með vörnum fyrir persónulegar upplýsingar. Ef þú ert ekki viss um hvaða { -brand-name-firefox } þú átt að velja, skaltu sækja þessa útgáfu.
 firefox-all-get-a-sneak-peek-at = Fáðu innsýn í nýjustu eiginleika { -brand-name-firefox } vafrans áður en þeir eru gefnir út.
+firefox-all-test-your-sites-against = Prófaðu vefsvæðin þín á móti { -brand-name-firefox } vafraeiginleikum sem bráðum verða gefnir út, með öflugum, sveigjanlegum DevTools-forritaratólum sem eru sjálfgefið virk.
+firefox-all-count-on-stability-and = Reiknaðu með stöðugleika og einfalda notkun með þessum { -brand-name-firefox }-vafra sem er hannaður fyrir fyrirtæki.
+firefox-all-windows-installers-for = Windows-uppsetningarforrit fyrir upplýsingatæknideildir fyrirtækja sem einfaldar uppsetningu, dreifingu og stjórnun á { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 uppsetningarforrit
+firefox-all-arm64-installers-optimized = ARM64/AArch64-uppsetningarforrit fínstillt fyrir Snapdragon-knúnar { -brand-name-windows } tölvur.
 firefox-all-product-send-link = Sendu niðurhalstengil í símann þinn.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = Veldu 32-bita uppsetningarforrit fyrir tölvur með 32-bita örgjörva - eða fyrir eldri eða minna öflugar tölvur. <a href="{ $url }">Ef þú ert ekki viss</a> hvort þú eigir að velja 64-bita eða 32-bita uppsetningarforrit mælum við með að þú takir 32-bita.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
