@@ -165,6 +165,8 @@ firefox-desktop-download-now-mac = Most <strong>nyissa meg</strong> az éppen le
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problémája van? <a { $attrs }>Kapjon segítséget a telepítéshez</a>.
 firefox-desktop-download-in-another-language = Letöltés más nyelven vagy más operációs rendszerre.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
