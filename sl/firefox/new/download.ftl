@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Prenesite { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Prenesite najhitrejši { -brand-name-firefox } vseh časov
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Napredne možnosti namestitve & druge pla
 firefox-new-download-in-another-language = Prenesite v drugem jeziku
 firefox-new-need-help = Potrebujete pomoč?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = Za namestitev { -brand-name-firefox }a sledite <a hr
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Vaš sistem morda ne izpolnjuje zahtev za { -brand-name-firefox }, lahko pa preizkusite eno izmed <a href="{ $url }">naslednjih različic</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Če se prikaže obvestilo, da nameščate aplikacijo, ki je { -brand-name-microsoft } ni preveril, kliknite "Vseeno namesti" ali <a { $attrs }>spremenite nastavitve priporočil aplikacij</a>.
 firefox-new-visit-support-for-more = Za več podrobnosti obiščite podporo
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Prenesite { -brand-name-firefox-browser }
