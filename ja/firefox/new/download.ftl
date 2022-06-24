@@ -50,7 +50,10 @@ firefox-new-please-follow = { -brand-name-firefox } をインストールする�
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = お使いのシステムが { -brand-name-firefox } の要件を満たしていない可能性がありますが、<a href="{ $url }">こちらのバージョン</a>のいずれかをお試しください。
 
+
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
+
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = インストールしようとしているアプリが { -brand-name-microsoft } に検証されたアプリではないというメッセージが表示されたら、[このままインストールする] をクリックするか、<a { $attrs }>アプリの推奨に関する設定を変更してください</a>。

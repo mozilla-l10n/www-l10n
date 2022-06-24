@@ -50,7 +50,10 @@ firefox-new-please-follow = Ikuti <a href="{ $url }">instruksi ini</a> untuk men
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Sistem Anda mungkin tidak memenuhi persyaratan untuk { -brand-name-firefox }, tetapi Anda dapat menggunakan salah satu dari <a href="{ $url }">versi berikut</a> .
 
+
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
+
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Jika Anda melihat pesan yang menyatakan bahwa aplikasi yang sedang Anda instal bukan aplikasi { -brand-name-microsoft } yang diverifikasi, klik &quot;Tetap instal&quot; atau <a { $attrs }>ubah setelan rekomendasi aplikasi</a> .

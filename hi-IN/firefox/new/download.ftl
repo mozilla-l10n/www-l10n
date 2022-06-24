@@ -50,7 +50,10 @@ firefox-new-please-follow = { -brand-name-firefox } इंस्टॉल कर
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = आपका सिस्टम { -brand-name-firefox } के लिए ज़रूरी आवश्यकताओं पर खरा नहीं उतरता, मगर आप <a href="{ $url }">इनमें से कोई एक संस्करण</a> आज़मा सकते हैं।
 
+
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
+
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = अगर आपको कोई प्रॉम्प्ट दिखता है जिसमें बताया जाता है कि जिस ऐप को आप इंस्टॉल करने की कोशिश कर रहे हैं, वह { -brand-name-microsoft } द्वारा सत्यापित ऐप नहीं है, तो “फिर भी इंस्टॉल करें” पर क्लिक करें या <a { $attrs }>ऐप की सुझाव सेटिंग बदलें</a>।

@@ -50,7 +50,10 @@ firefox-new-please-follow = يُرجى اتباع <a href="{ $url }">هذه ال
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = قد لا يفي نظامك بمتطلبات { -brand-name-firefox }، ولكن يمكنك تجربة أحد <a href="{ $url }">هذه الإصدارات</a>.
 
+
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
+
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = إذا ظهرت لك مُطالبة تفيد بأن التطبيق الذي تُحاول تثبيته غير مُعتمد من { -brand-name-microsoft }، انقر فوق &quot;تثبيت على أي حال&quot; أو <a { $attrs }>غيِّر إعدادات توصيات التطبيق</a>.
