@@ -3,10 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Hent { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Hent den hurtigste { -brand-name-firefox } nogensinde
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Andre installationsmuligheder og platform
 firefox-new-download-in-another-language = Hent på et andet sprog
 firefox-new-need-help = Har du brug for hjælp?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = Følg <a href="{ $url }">denne vejledning</a> for at
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Dit system opfylder måske ikke kravene til { -brand-name-firefox }, men du kan prøve en af <a href="{ $url }">disse versioner</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Hvis du ser en meddelelse om, at appen du er ved at installere, ikke er en { -brand-name-microsoft }-bekræftet app, så klik på "Installer alligevel", eller <a { $attrs }>skift indstillinger for appanbefalinger</a>.
 firefox-new-visit-support-for-more = Besøg Support for flere detaljer
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Hent { -brand-name-firefox-browser }
