@@ -178,6 +178,7 @@ firefox-desktop-download-now-mac = ダウンロードしたファイルを<stron
 firefox-desktop-download-get-help = 問題が発生しましたら、<a { $attrs }>インストールに関するヘルプをご覧ください</a>。
 firefox-desktop-download-in-another-language = 別の言語または別の OS でダウンロード。
 
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app

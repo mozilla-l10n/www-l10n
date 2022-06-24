@@ -178,6 +178,7 @@ firefox-desktop-download-now-mac = Jetzt kannst du die gerade heruntergeladene D
 firefox-desktop-download-get-help = Gibt es Probleme? <a { $attrs }>Hol dir Hilfe bei der Installation</a>.
 firefox-desktop-download-in-another-language = In einer anderen Sprache oder für ein anderes Betriebssystem herunterladen.
 
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
