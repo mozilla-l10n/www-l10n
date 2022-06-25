@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
@@ -9,8 +9,10 @@
 set-as-default-landing-make-firefox-your-default = 将 { -brand-name-firefox } 设为您的默认浏览器
 # HTML page description
 set-as-default-landing-choose-the-browser = 选择可以保护您隐私的浏览器。请将 { -brand-name-firefox } 设为默认浏览器。
-set-as-default-landing-make-sure-youre-protected = 上网冲浪，别忘记开启保护
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = 感谢您使用最新的 { -brand-name-firefox } 浏览器。<br>选用 { -brand-name-firefox }，就代表您支持您和所有人都有权、且将会拥有一个更好的网络环境。<br>接下来，用行动给自我保护加固。
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = 上网冲浪，别忘记开启保护
 set-as-default-landing-choose-automatic-privacy = 选择自动化的隐私保护
 set-as-default-landing-companies-keep-finding = 互联网巨头一直在想方设法窃取您的个人数据。{ -brand-name-firefox } 是最后一款以保护您为己任的浏览器。
 set-as-default-landing-choose-freedom-on-every = 任何设备上，你都有权选择自由
