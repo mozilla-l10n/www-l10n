@@ -13,6 +13,7 @@ set-as-default-landing-choose-the-browser = 选择可以保护您隐私的浏览
 set-as-default-landing-thanks-for-using-the = 感谢您使用最新的 { -brand-name-firefox } 浏览器。<br>选用 { -brand-name-firefox }，就代表您支持您和所有人都有权、且将会拥有一个更好的网络环境。<br>接下来，用行动给自我保护加固。
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = 上网冲浪，别忘记开启保护
+set-as-default-landing-you-should-get = 您的浏览方式，您说了算
 set-as-default-landing-choose-automatic-privacy = 选择自动化的隐私保护
 set-as-default-landing-companies-keep-finding = 互联网巨头一直在想方设法窃取您的个人数据。{ -brand-name-firefox } 是最后一款以保护您为己任的浏览器。
 set-as-default-landing-choose-freedom-on-every = 任何设备上，你都有权选择自由
