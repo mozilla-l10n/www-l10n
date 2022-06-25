@@ -7,6 +7,7 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest = Συγχαρητήρια. Διαθέτετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 developer-mdnplus-notifications = Ειδοποιήσεις
 developer-mdnplus-collections = Συλλογές
 developer-mdnplus-resources-for-developers = Πόροι για προγραμματιστές, από προγραμματιστές.
