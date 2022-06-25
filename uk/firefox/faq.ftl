@@ -72,7 +72,7 @@ does-firefox-have = Чи має { -brand-name-firefox } вбудований VPN
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
-firefox-does-not = { -brand-name-firefox } не має вбудованої VPN (віртуальної приватної мережі), але є два продукти, створені { -brand-name-mozilla }/ { -brand-name-firefox }, якими ви можете скористатися на додаток до приватного { -brand-name-firefox-browser }, що може захистити будь-який ваш браузер (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) або під'єднаний пристрій (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) до Wi-Fi, а також вашу IP-адресу.
+firefox-does-not = { -brand-name-firefox } не має вбудованої VPN (віртуальної приватної мережі), але є два продукти, створені { -brand-name-mozilla }/ { -brand-name-firefox }, якими ви можете скористатися на додаток до приватного { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }, що може захистити будь-який ваш браузер (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) або під'єднаний пристрій (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) до Wi-Fi, а також вашу IP-адресу.
 related-questions-ip = Пов’язані питання: чи приховує { -brand-name-firefox } вашу IP-адресу
 who-owns-firefox = Хто володіє { -brand-name-firefox }?
 
@@ -81,4 +81,4 @@ who-owns-firefox = Хто володіє { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } створено { -brand-name-mozilla-corporation }, дочірньою компанією неприбуткової <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> та керується принципами Маніфесту { -brand-name-mozilla }. Докладніше про виробника { -brand-name-firefox } <a href="{ $url2 }">тут.</a>
-related-questions-who = Пов’язані питання: хто є власником { -brand-name-firefox }, хто володіє { -brand-name-firefox-browser }, чи належить { -brand-name-firefox } { -brand-name-google }, чи належить { -brand-name-mozilla } { -brand-name-firefox } компанії { -brand-name-google }
+related-questions-who = Пов’язані питання: хто є власником { -brand-name-firefox }, хто володіє { -brand-name-firefox-browser(case: "abl", capitalization: "lower") }, чи належить { -brand-name-firefox } { -brand-name-google }, чи належить { -brand-name-mozilla } { -brand-name-firefox } компанії { -brand-name-google }

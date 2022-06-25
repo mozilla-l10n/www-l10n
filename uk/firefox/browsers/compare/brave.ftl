@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -10,7 +10,7 @@ compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } чи { -brand-
 # HTML page description
 compare-brave-compare-brave-to-the-firefox = Порівняйте { -brand-name-brave } та { -brand-name-firefox-browser }, щоб визначитися, який з них краще для вас з погляду приватності, зручності та доступності.
 # Main title
-compare-brave-comparing-firefox-browser = Порівняння { -brand-name-firefox-browser } та { -brand-name-brave }
+compare-brave-comparing-firefox-browser = Порівняння { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } та { -brand-name-brave }
 # "Brave Software" is a brand name.
 compare-brave-just-like-the-firefox-browser = Як і { -brand-name-firefox }, { -brand-name-brave } є безплатним, з відкритим програмним кодом і орієнтований на захист приватності користувачів. { -brand-name-brave } є відносно новачком у світі браузерів: його розробник, { -brand-name-brave } Software, вперше випустив браузер у січні 2016 року. У цій статті ми порівняємо наш { -brand-name-firefox } та { -brand-name-brave } у трьох категоріях: приватність, зручність та доступність.
 # To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } відрізн
 compare-brave-the-internet-as-a-whole-is = В цілому, Інтернет значною заробляє на рекламі, коштом якої оплачується вміст, який ви хочете переглянути. { -brand-name-brave } намагався застосувати цю модель, заохочуючи своїх користувачів ввімкнути власну систему винагород { -brand-name-brave }, яка насправді є власною рекламною платформою. Після того, як користувач увійшов, { -brand-name-brave } покаже те, що вони називають "рекламою, що поважає приватність" і ви зможете переглядати та заробляти те, що вони називають Basic Attention Token або BAT. Отож, користувачі { -brand-name-brave } можуть вирішити, витратити свої BAT на підтримку сайтів чи окремих вподобаних ними розробників, які, своєю чергою, можуть конвертувати BAT у справжні гроші.
 compare-brave-whether-this-sounds-complicated = Видається це поганою чи хорошою ідеєю, ймовірно, залежить від вашого сприйняття реклами в Інтернеті. Більшість користувачів Інтернету розуміють, що хороший вміст коштує грошей, тож погоджуються щоб гроші надходили від реклами.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = З іншого боку, ми, розробники { -brand-name-firefox }, вважаємо за краще робити прості речі. Типово, { -brand-name-firefox } блокує багато сторонніх елементів стеження, добувачів криптовалют і зчитувачів вашого цифрового відбитка які переслідують вас. Однак, { -brand-name-firefox }, поза режимом приватного перегляду, не блокує показ оголошень. Крім випадків, коли ви встановите <a { $attrs }>одне з розширень, спеціально розроблених для цього</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics

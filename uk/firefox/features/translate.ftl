@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
@@ -8,7 +8,7 @@
 # page title
 features-translate-translate-the-web-title = Перекладіть Мережу — безпосередньо у своєму браузері
 # page description
-features-translate-translate-more-than = Перекладайте з понад 100 мов вашою мовою безпосередньо у вашому { -brand-name-firefox-browser } — простіше, ніж будь-коли.
+features-translate-translate-more-than = Перекладайте з понад 100 мов своєю мовою безпосередньо у { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } — простіше, ніж будь-коли.
 features-translate-translate-the-web = Перекладайте Мережу за допомогою { -brand-name-firefox }
 features-translate-the-google-translate = Розширення { -brand-name-google } Translate для { -brand-name-firefox } робить Інтернет доступним для всього світу.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/

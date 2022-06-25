@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
@@ -10,7 +10,7 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } чи { -brand-
 # HTML page description
 compare-ie-compare-internet-explorer-to = Порівняйте { -brand-name-ie } та { -brand-name-firefox-browser }, щоб визначитися, який з браузерів краще для вас.
 # Main title
-compare-ie-comparing-firefox-browser-with = Порівняння{ -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-comparing-firefox-browser-with = Порівняння { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } із { -brand-name-microsoft } { -brand-name-ie }
 compare-ie-while-microsofts-internet-explorer = Хоча { -brand-name-ie } від { -brand-name-microsoft } ще й донині попередньо встановлений на більшості комп'ютерів під керуванням Windows, але { -brand-name-microsoft } рекомендує користуватися браузером { -brand-name-edge }, який типово встановлено на придбаному ПК.
 compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } кілька років тому припинила розвивати свій бренд { -brand-name-ie }, та зосередилася на розробці оновленого браузера { -brand-name-edge } для { -brand-name-windows } 10. Однак, повільне поширення { -brand-name-edge } дещо подовжило життя { -brand-name-ie }, здебільшого у бізнес-середовищі.
 compare-ie-here-well-compare-our-firefox = Далі, ми порівняємо наш { -brand-name-firefox-browser } з { -brand-name-ie } з погляду приватності, корисності та доступності. Ми допоможемо вам дізнатися про відмінності між сучасними браузерами на зразок { -brand-name-firefox }, який дотримується вебстандартів і застарілим браузером, який ви можливо досі застосовуєте або для ділової сфери або за звичкою, якої ніяк не позбудетеся.

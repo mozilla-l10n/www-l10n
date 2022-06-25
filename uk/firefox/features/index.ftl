@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -50,7 +50,7 @@ features-index-fingerprinter-blocking = Блокування зчитуванн�
 features-index-fingerprinting-is-a = Зчитування цифрового відбитка — це тип мережного стеження, який є значно проникливішим за звичайне стеження на основі кук — саме тому { -brand-name-firefox-browser } блокує його.
 features-index-block-fingerprinters = Блокування зчитувачів цифрових відбитків
 features-index-translate-the-web = Перекладіть Мережу
-features-index-translate-more-than = Перекладайте з понад 100 мов вашою мовою безпосередньо у вашому { -brand-name-firefox-browser } — простіше, ніж будь-коли.
+features-index-translate-more-than = Перекладайте з понад 100 мов своєю мовою безпосередньо у { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } — простіше, ніж будь-коли.
 features-index-translate-to-your = Перекладіть вашою мовою
 features-index-picture-in-picture = Зображення в зображенні
 features-index-got-things-to-do = Необхідно виконувати роботу і щось переглядати? Робіть це одночасно з функцією { -brand-name-firefox } Зображення в зображенні.

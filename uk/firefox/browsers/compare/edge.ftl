@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
@@ -10,7 +10,7 @@ compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } чи { -b
 # HTML page description.
 compare-edge-compare-microsoft-edge-to-the = Порівняйте { -brand-name-microsoft } { -brand-name-edge } та { -brand-name-firefox-browser }, щоб визначитися, який браузер краще для вас.
 # Main title.
-compare-edge-comparing-firefox-browser-with = Порівняння { -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-comparing-firefox-browser-with = Порівняння { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } із { -brand-name-microsoft } { -brand-name-edge }
 compare-edge-with-windows-10-microsoft-introduced-updated = Разом з { -brand-name-windows } 10, { -brand-name-microsoft } представила свій браузер { -brand-name-edge }, щоб конкурувати з { -brand-name-firefox } та { -brand-name-chrome } та зробила його типовим попередньо встановленим браузером на мільйонах проданих ПК. Всупереч цьому, користувачі не поспішали приймати його і { -brand-name-microsoft }, врешті-решт, оголосила про плани перезапустити { -brand-name-edge } як браузер на основі { -brand-name-chromium } ({ -brand-name-chromium } — проєкт браузера з відкритим кодом від { -brand-name-google }). З січня 2020 року { -brand-name-edge } на основі { -brand-name-chromium } від { -brand-name-microsoft } замінив попередні версії { -brand-name-edge }. Хоч { -brand-name-edge } тепер побудовано на { -brand-name-chromium } від { -brand-name-google }, деякі унікальні функції відрізняють його від браузера { -brand-name-google } { -brand-name-chrome }.
 # Obsolete string
 compare-edge-with-windows-10-microsoft-introduced = У { -brand-name-windows } 10, { -brand-name-microsoft } представила свій браузер { -brand-name-edge }, щоб посилити боротьбу за кількість користувачів з { -brand-name-firefox } та { -brand-name-chrome }. Він став типовим браузером, попередньо встановленим на мільйонах проданих ПК з { -brand-name-windows } 10. Попри це, користувачі не користувалися ним активно і { -brand-name-microsoft } оголосила про плани перевипуску { -brand-name-edge } на основі { -brand-name-chromium } ({ -brand-name-chromium } є проєктом браузера з відкритим програмним кодом від { -brand-name-google }).

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -10,7 +10,7 @@ compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } чи { -bran
 # HTML page description
 compare-chrome-we-compare-mozilla-firefox = Ми порівнюємо { -brand-name-mozilla } { -brand-name-firefox } з { -brand-name-google } { -brand-name-chrome } з погляду приватності, зручності та доступності.
 # Main title.
-compare-chrome-comparing-firefox-browser = Порівняння { -brand-name-firefox-browser } з { -brand-name-google } { -brand-name-chrome }
+compare-chrome-comparing-firefox-browser = Порівняння { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } із { -brand-name-google } { -brand-name-chrome }
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox } має величезну кількість відданих користувачів, які цінують нашу непохитну відданість приватності в Інтернеті. Наприклад, найновіша версія { -brand-name-firefox } має функцію Розширений захист від стеження (РЗС), яка типово увімкнена для всіх користувачів у всьому світі. РЗС блокує понад 2000 елементів стеження, включно з елементами стеження соціальних мереж від таких компаній, як { -brand-name-facebook }, { -brand-name-twitter } та LinkedIn. Він також має вбудовану функцію <a { $attrs }>{ -brand-name-firefox-monitor }</a>, яка автоматично сповіщає вас про викриття вашого паролю або потребу його оновлення. Додатково до цих засобів захисту, у режимі приватного перегляду { -brand-name-firefox }, автоматично видаляється ваша інформація про перегляд, наприклад історія та куки, не залишаючи слідів по завершенню сеансу.

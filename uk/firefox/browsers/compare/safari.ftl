@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -8,9 +8,9 @@
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } чи { -brand-name-safari }: Який з браузерів краще для вас?
 # HTML page description.
-compare-safari-safari-is-the-pre-installed = { -brand-name-safari } — це попередньо встановлений браузер на { -brand-name-mac } та { -brand-name-iphone }. Порівняйте { -brand-name-safari } з { -brand-name-firefox-browser } та визначтеся, який браузер кращий для вас.
+compare-safari-safari-is-the-pre-installed = { -brand-name-safari } — це попередньо встановлений браузер на { -brand-name-mac } та { -brand-name-iphone }. Порівняйте { -brand-name-safari } з { -brand-name-firefox-browser(case: "abl", capitalization: "lower") } та визначтеся, який браузер кращий для вас.
 # Main title.
-compare-safari-comparing-firefox-browser = Порівняння { -brand-name-firefox-browser } з { -brand-name-apple } { -brand-name-safari }
+compare-safari-comparing-firefox-browser = Порівняння { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } із { -brand-name-apple } { -brand-name-safari }
 compare-safari-if-you-use-a-mac-or-have-updated = Якщо ви користувач { -brand-name-mac-short } чи маєте { -brand-name-iphone }, швидше за все, ви знайомі з браузером { -brand-name-safari }. Оскільки він попередньо встановлений типовим браузером для користувачів продуктів { -brand-name-apple }, це, безумовно, надає йому велику перевагу, але { -brand-name-firefox } має власний набір корисних функцій, які роблять його привабливою альтернативою і відтепер його можна встановити типовим браузером для { -brand-name-mac-short } та { -brand-name-iphone }. Тут ми розкриємо основні відмінності нашого браузера та { -brand-name-safari } з погляду приватності, корисності та доступності на різних пристроях.
 # Obsolete string
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".

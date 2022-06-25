@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
@@ -10,7 +10,7 @@ compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } чи { -brand-
 # HTML page description
 compare-opera-compare-opera-to-the-firefox = Порівняйте { -brand-name-opera } та { -brand-name-firefox-browser }, щоб визначитися, який з браузерів краще для вас.
 # Main title
-compare-opera-comparing-firefox-browser = Порівняння { -brand-name-firefox-browser } з { -brand-name-opera }
+compare-opera-comparing-firefox-browser = Порівняння { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } із { -brand-name-opera }
 compare-opera-operas-privacy-policy-lacks = У політиці приватності { -brand-name-opera }бракує чіткого пояснення яку інформацію вона збирає. У деяких розділах йдеться про збір імен власників облікових записів, IP-адрес та пошукових термінів. А що бентежить і викликає занепокоєння ще більше, так це розділ про міжнародну передачу даних; коли, як часто і навіщо їм потрібно передавати ваші дані до інших країн не пояснено.
 compare-opera-operas-privacy-policy-lacks-fallback = У політиці приватності { -brand-name-opera } бракує чіткого пояснення яку інформацію вона збирає, до того ж, у деяких розділах йдеться про збір імен власників облікових записів, IP-адрес та пошукових термінів. А що бентежить і викликає занепокоєння ще більше, так це розділ про міжнародну передачу даних; коли, як часто і навіщо їм потрібно передавати ваші дані до інших країн не пояснено.
 compare-opera-the-firefox-browser-and-opera = { -brand-name-firefox-browser } і { -brand-name-opera } є найдавнішими браузерами, які регулярно випускають оновлення. Хоча { -brand-name-opera } й не досягла такого рівня прийняття користувачами, як { -brand-name-firefox } або { -brand-name-google } { -brand-name-chrome }, вона має відносно стабільну та лояльну аудиторію вже тривалий час. У цьому огляді, ми порівняємо браузер { -brand-name-opera } з браузером { -brand-name-firefox } з погляду приватності, корисності та доступності, щоб допомогти вам розібратися, який веббраузер буде найкращим для вас.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
@@ -18,7 +18,7 @@ installer-help-action-choose = Виберіть завантаження зни�
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Отримуйте найновіше. Автоматизована приватність вже тут. Завантажте { -brand-name-firefox-browser }, щоб блокувати понад { $trackers } елементів стеження.
+installer-help-firefox-release-desc = Отримуйте найновіше. Автоматизована приватність вже тут. Завантажте { -brand-name-firefox-browser(case: "nom", capitalization: "lower") }, щоб блокувати понад { $trackers } елементів стеження.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = Випробовуйте функції, що з'являться в наступному випуску, в найстабільнішій тестовій версії.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
