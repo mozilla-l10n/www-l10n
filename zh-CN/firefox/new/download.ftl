@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = 下载 { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = 下载有史以来最快的 { -brand-name-firefox }
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = 高级安装选项和其他平台
 firefox-new-download-in-another-language = 下载其他语言版本
 firefox-new-need-help = 需要帮助？
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = 请按照<a href="{ $url }">这些步骤</a>安装 {
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = 您的系统可能不符合 { -brand-name-firefox } 的运行需求，但您也可以试试<a href="{ $url }">这些版本</a>。
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = 若您看到“您正在安装的应用程序未经 { -brand-name-microsoft } 验证”，请点击“仍要安装”或<a { $attrs }>更改应用建议设置</a>。
 firefox-new-visit-support-for-more = 到用户支持站了解更多信息
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = 下载 { -brand-name-firefox-browser }
