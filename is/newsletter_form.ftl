@@ -5,7 +5,7 @@
 newsletter-form-please-enter-a-valid = Settu inn gilt tölvupóstfang
 newsletter-form-you-must-agree-to = Þú verður að samþykkja persónuverndastefnuna
 newsletter-form-your-email-address = Tölvupóstfangið þitt
-newsletter-form-your-email-here = ÞITT TÖLVUPÓSTFANG
+newsletter-form-your-email-here = TÖLVUPÓSTFANGIÐ ÞITT
 newsletter-form-format = Sniðmát
 newsletter-form-html = HTML
 newsletter-form-text = Texti
