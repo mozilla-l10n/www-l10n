@@ -26,7 +26,7 @@ navigation-v2-learn-how-firefox-treats = Дізнайтеся, з якою ві�
 navigation-v2-firefox-blog = Блог { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Читайте про нові можливості { -brand-name-firefox } та шляхи захисту в Мережі.
 navigation-v2-release-notes = Примітки до випуску
-navigation-v2-get-the-details-on-the = Отримайте докладніші відомості про найновіші оновлення { -brand-name-firefox }.
+navigation-v2-get-the-details-on-the = Отримайте докладніші відомості про оновлення { -brand-name-firefox }.
 navigation-v2-view-all-firefox-browsers = Переглянути всі { -brand-name-firefox-browsers(case: "nom", capitalization: "lower") }
 
 ## Products menu
