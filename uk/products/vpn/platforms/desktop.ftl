@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
@@ -17,7 +17,7 @@ vpn-desktop-maker-of-firefox = Як виробник браузера { -brand-n
 vpn-desktop-wifi-headline = Почувайтеся в безпеці, використовуючи загальнодоступний Wi-Fi
 vpn-desktop-wifi-copy = Наш VPN захищає ваше з’єднання з Інтернетом від хакерів і шпигунів, тому ви можете робити покупки в кав’ярні, перевіряти свій банківський рахунок у поїзді та займатися своїм Інтернет-бізнесом в будь-якому місці, не хвилюючись про безпеку.
 vpn-desktop-about-headline = Про { -brand-name-mozilla }
-vpn-desktop-about-copy = Знана завдяки нашому { -brand-name-firefox-browser }, { -brand-name-mozilla } — це глобальна спільнота користувачів, помічників та розробників, яка прагне зберегти силу Інтернету в руках людей. Засновані в 1998 році, ми є одними з першопрохідців вільного та відкритого Інтернету — наша місія підтримувати його таким.
+vpn-desktop-about-copy = Знана завдяки нашому { -brand-name-firefox-browser(case: "dat", capitalization: "lower") }, { -brand-name-mozilla } — це глобальна спільнота користувачів, помічників та розробників, яка прагне зберегти силу Інтернету в руках людей. Засновані в 1998 році, ми є одними з першопрохідців вільного та відкритого Інтернету — наша місія підтримувати його таким.
 vpn-desktop-privacy-headline = Приватність одним натиском
 vpn-desktop-privacy-copy = Програма { -brand-name-mozilla-vpn } шифрує ваше з'єднання з Інтернетом та приховує IP-адресу на вашому мобільному телефоні або планшеті за допомогою надійного протоколу { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Під'єднуйтеся до серверів у всьому світі

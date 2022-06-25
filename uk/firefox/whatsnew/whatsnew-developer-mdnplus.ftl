@@ -7,7 +7,7 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
-developer-mdnplus-congrats-you-now-have-latest = Вітаємо! Ви встановили найновішу версію { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+developer-mdnplus-congrats-you-now-have-latest = Вітаємо! Ви встановили найновішу версію { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Більше { -brand-name-mdn }. <em>Ваш</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } — це спільний проєкт із відкритим кодом, який документує технології вебплатформ, включно з CSS, HTML, JavaScript та веб API. Ми також надаємо широкий набір навчальних ресурсів для початківців розробників і студентів.

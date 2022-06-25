@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
@@ -17,7 +17,7 @@ vpn-mobile-ability = { -brand-name-mozilla-vpn } перешкоджає хаке
 vpn-mobile-wifi-headline = Почувайтеся в безпеці, використовуючи загальнодоступний Wi-Fi
 vpn-mobile-wifi-copy = Наш VPN захищає ваше з’єднання з Інтернетом від хакерів і шпигунів, тому ви можете робити покупки в кав’ярні, перевіряти свій банківський рахунок у поїзді та займатися своїм Інтернет-бізнесом, знаючи, що ваша IP-адреса захищена.
 vpn-mobile-about-headline = Про { -brand-name-mozilla }
-vpn-mobile-about-copy = Знана завдяки нашому { -brand-name-firefox-browser }, { -brand-name-mozilla } — це глобальна спільнота користувачів, помічників та розробників, яка прагне зберегти силу Інтернету в руках людей. Засновані в 1998 році, ми є одними з першопрохідців вільного та відкритого Інтернету — наша місія підтримувати його таким.
+vpn-mobile-about-copy = Знана завдяки нашому { -brand-name-firefox-browser(case: "dat", capitalization: "lower") }, { -brand-name-mozilla } — це глобальна спільнота користувачів, помічників та розробників, яка прагне зберегти силу Інтернету в руках людей. Засновані в 1998 році, ми є одними з першопрохідців вільного та відкритого Інтернету — наша місія підтримувати його таким.
 vpn-mobile-privacy-headline = Приватність одним натиском
 vpn-mobile-privacy-copy = Програма { -brand-name-mozilla-vpn } шифрує ваше з'єднання з Інтернетом та приховує IP-адресу на вашому мобільному телефоні або планшеті за допомогою надійного протоколу { -brand-name-wireguard }®.
 vpn-mobile-servers-headline = Під'єднуйтеся до серверів у всьому світі

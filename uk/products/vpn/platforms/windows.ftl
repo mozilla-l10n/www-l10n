@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
@@ -16,7 +16,7 @@ vpn-windows-ability = Ви заслуговуєте на те, щоб почув
 vpn-windows-wifi-headline = Залишайтеся приватними у загальнодоступному Wi-Fi
 vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } захищає ваше з’єднання з Інтернетом від прискіпливих очей, тож ви можете займатися своїми справами де завгодно — в аеропорту, гуртожитку, кав’ярні — не турбуючись про вашу приватність в Інтернеті.
 vpn-windows-about-headline = Від лідера в галузі приватності в Інтернеті
-vpn-windows-about-copy = Некомерційна організація{ -brand-name-mozilla }, що створила { -brand-name-firefox-browser } — це спільнота громадян Інтернету з усього світу, яка прагне залишити Інтернет безплатним та відкритим ресурсом для всіх. Місія { -brand-name-mozilla } — поставити людей понад прибутком — гарантує, що кожен продукт, який ми робимо, ставить вас на перше місце.
+vpn-windows-about-copy = Некомерційна організація{ -brand-name-mozilla }, що створила { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } — це спільнота громадян Інтернету з усього світу, яка прагне залишити Інтернет безплатним та відкритим ресурсом для всіх. Місія { -brand-name-mozilla } — поставити людей понад прибутком — гарантує, що кожен продукт, який ми робимо, ставить вас на перше місце.
 vpn-windows-privacy-headline = Захист натисканням кнопки
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } шифрує ваше з’єднання з Інтернетом та захищає вашу IP-адресу від сторонніх очей на комп'ютері чи ноутбуці за допомогою потужного протоколу { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Доступ до серверів по всьому світу

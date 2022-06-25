@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Завантажити { -brand-name-firefox }
 navigation-get-a-firefox-account = Створити { -brand-name-firefox-account }
@@ -13,7 +13,7 @@ navigation-download-for-android = Завантажити для { -brand-name-an
 navigation-ios-support = Підтримка { -brand-name-ios }
 navigation-android-support = Підтримка { -brand-name-android }
 navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } для компаній
-navigation-strap-on-your-goggles = Надягайте окуляри й пориньте в захопливу мережу за допомогою { -brand-name-firefox-browser } для віртуальної реальності.
+navigation-strap-on-your-goggles = Надягайте окуляри й пориньте в захопливу мережу разом з { -brand-name-firefox-browser(case: "abl", capitalization: "lower") } для віртуальної реальності.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Переглядайте відео та мандруйте Інтернетом у своєму { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Браузер { -brand-name-firefox } цінує вашу приватність понад усе.
