@@ -32,8 +32,72 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Браузер Firefox
--brand-name-firefox-browsers = Браузери Firefox
+-brand-name-firefox-browser =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Браузер Firefox
+                [lower] браузер Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Браузера Firefox
+                [lower] браузера Firefox
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Браузеру Firefox
+                [lower] браузеру Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Браузер Firefox
+                [lower] браузер Firefox
+            }
+        [abl]
+            { $capitalization ->
+               *[upper] Браузером Firefox
+                [lower] браузером Firefox
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Браузері Firefox
+                [lower] браузері Firefox
+            }
+    }
+-brand-name-firefox-browsers =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Браузери Firefox
+                [lower] браузери Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Браузерів Firefox
+                [lower] браузерів Firefox
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Браузерам Firefox
+                [lower] браузерам Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Браузери Firefox
+                [lower] браузери Firefox
+            }
+        [abl]
+            { $capitalization ->
+               *[upper] Браузерами Firefox
+                [lower] браузерами Firefox
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Браузерах Firefox
+                [lower] браузерах Firefox
+            }
+    }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
