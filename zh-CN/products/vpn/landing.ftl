@@ -131,6 +131,9 @@ vpn-landing-faq-manage-subscription-question-heading = 我要如何管理订阅�
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = 订阅 { -brand-name-mozilla-vpn } 后，您可以随时更改计划或<a href="{ $url }">管理订阅</a>。
 vpn-landing-faq-download-heading = 订阅后如何下载 { -brand-name-mozilla-vpn }？
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = 访问<a { $attrs }>下载页面</a>在设备上安装 { -brand-name-mozilla-vpn }，然后登录您的 { -brand-name-firefox-account }。
 vpn-landing-faq-link = 参阅更多常见问题
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
