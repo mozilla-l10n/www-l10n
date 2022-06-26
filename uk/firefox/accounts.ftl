@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Існує спосіб захистити вашу приватність. Приєднуйтесь до { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Створіть { -brand-name-firefox-account } – Зберігайте свої дані приватними, захищеними та синхронізованими
+firefox-accounts-get-a-firefox-account = Створіть { -brand-name-firefox-account(case: "nom", capitalization: "lower") } – зберігайте свої дані приватними, захищеними та синхронізованими
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Виступіть проти індустрії, що продає ваші дані стороннім особам. Залишайтеся розумними й захищеними в Інтернеті разом з технологією, що відстоює ваші права.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Безпечно синхронізуйте паролі, закладки та вкладки на всіх своїх пристроях. Зареєструйте { -brand-name-firefox-account } – Один обліковий запис – Доступ і приватність усюди.
+firefox-accounts-securely-sync-your = Безпечно синхронізуйте паролі, закладки та вкладки на всіх своїх пристроях. Зареєструйте { -brand-name-firefox-account(case: "nom", capitalization: "lower") }. Один обліковий запис – доступ і приватність усюди.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Існує спосіб захистити вашу приватність. <span>Приєднуйтеся до { -brand-name-firefox }.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.

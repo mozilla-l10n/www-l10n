@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -57,7 +57,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Зустрічайте чот
 firefox-privacy-hub-always-in-your-control = Завжди контрольований вами
 firefox-privacy-hub-want-to-customize-what = Хочете визначати що блокувати? Ваші налаштування на відстані одного натискання.
 firefox-privacy-hub-protection-beyond-tracking = Захист по той бік від стеження
-firefox-privacy-hub-if-you-have-a-firefox-account = Якщо ви маєте { -brand-name-firefox-account }, ви також можете відчути нашу допомогу для захисту вашої приватної інформації та паролів.
+firefox-privacy-hub-if-you-have-a-firefox-account = Якщо ви маєте { -brand-name-firefox-account(case: "nom", capitalization: "lower") }, ви також можете відчути нашу допомогу для захисту вашої приватної інформації та паролів.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Щодня, понад { $trackers } елементів стеження блокує { -brand-name-firefox } для користувачів усього світу
@@ -73,9 +73,9 @@ firefox-privacy-hub-send-a-file = Надіслати файл
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } пропонує високоякісні статті, підготовані людиною, без збору історії перегляду чи обміну приватною інформацією з рекламодавцями.
 firefox-privacy-hub-get-pocket = Отримати { -brand-name-pocket }
-firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account }
-firefox-privacy-hub-all-the-information-synced = Вся інформацію, синхронізовану через ваш { -brand-name-firefox-account } — від історії браузера до паролів — зашифровано. А пароль вашого облікового запису — це єдиний ключ.
-firefox-privacy-hub-take-your-privacy-and-bookmarks = Отримуйте свою приватність та закладки всюди за допомогою { -brand-name-firefox-account }.
+firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account(case: "nom", capitalization: "lower") }
+firefox-privacy-hub-all-the-information-synced = Всю інформацію, синхронізовану через ваш { -brand-name-firefox-account(case: "nom", capitalization: "lower") } — від історії браузера до паролів — зашифровано. А пароль вашого облікового запису — це єдиний ключ.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Отримуйте свою приватність та закладки всюди завдяки { -brand-name-firefox-account(case: "dat", capitalization: "lower") }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

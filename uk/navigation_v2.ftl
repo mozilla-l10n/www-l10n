@@ -7,7 +7,7 @@ navigation-v2-download-firefox = Завантажити { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Отримати { -brand-name-mozilla-vpn }
 navigation-v2-menu = Меню
 # Obsolete string
-navigation-v2-get-a-firefox-account = Створити { -brand-name-firefox-account }
+navigation-v2-get-a-firefox-account = Створити { -brand-name-firefox-account(case: "nom", capitalization: "lower") }
 
 ## Firefox menu
 

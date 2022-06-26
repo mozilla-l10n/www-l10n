@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Завантажити { -brand-name-firefox }
-navigation-get-a-firefox-account = Створити { -brand-name-firefox-account }
+navigation-get-a-firefox-account = Створити { -brand-name-firefox-account(case: "nom", capitalization: "lower") }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } для комп'ютера
 navigation-get-the-browser-that-respects = Отримайте браузер, який поважає вашу приватність з самого початку. На { -brand-name-windows }, { -brand-name-mac } або { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } для мобільних
@@ -35,7 +35,7 @@ navigation-take-firefox-and-firefox = Візьміть { -brand-name-firefox } �
 navigation-get-firefox = Отримати { -brand-name-firefox }
 navigation-get-firefox-focus = Отримати { -brand-name-firefox-focus }
 navigation-android-extensions = Розширення для { -brand-name-android }
-navigation-your-firefox-account = Ваш { -brand-name-firefox-account }
+navigation-your-firefox-account = Ваш { -brand-name-firefox-account(case: "nom", capitalization: "lower") }
 navigation-make-the-most-of-your = Отримайте повну віддачу від { -brand-name-firefox } на будь-якому пристрої.
 # Outdated string
 navigation-learn-how-to-customize = Дізнайтеся, як налаштувати роботу { -brand-name-firefox }.

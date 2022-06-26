@@ -133,7 +133,7 @@ vpn-landing-faq-manage-subscription-question-desc = Якщо ви вже пер�
 vpn-landing-faq-download-heading = Як мені завантажити { -brand-name-mozilla-vpn } якщо я вже маю передплату?
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
-vpn-landing-faq-download-desc = Відвідайте <a { $attrs }>сторінку завантаження</a> для встановлення { -brand-name-mozilla-vpn } на своєму пристрої, а потім увійдіть за допомогою { -brand-name-firefox-account }.
+vpn-landing-faq-download-desc = Відвідайте <a { $attrs }>сторінку завантаження</a> для встановлення { -brand-name-mozilla-vpn } на своєму пристрої, а потім увійдіть з використанням { -brand-name-firefox-account(case: "gen", capitalization: "lower") }.
 vpn-landing-faq-link = Докладніше у ЧаП
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
