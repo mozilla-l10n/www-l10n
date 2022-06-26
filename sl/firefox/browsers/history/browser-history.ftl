@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = Zgodovina brskalnikov: Epsko merjenje moči, ki nam je prineslo sodobne brskalnike
 browser-history-the-history-of-web = Zgodovina spletnih brskalnikov
 browser-history-before-web-era = Doba pred spletom
 browser-history-in-1950-computers = Leta 1950 so računalniki zavzemali celotne sobe, bili pa so neumnejši od današnjih žepnih kalkulatorjev. Toda napredek se je odvijal hitro in leta 1960 so bili že sposobni izvajanja zapletenih programov. Vlade in univerze širom sveta so menile, da bi bilo sijajno, če bi se stroji lahko pogovarjali, gojili sodelovanje in pospešili znanstvene preboje.
@@ -35,5 +36,6 @@ browser-history-browsing-the-web = Brskanje po spletu danes
 # Variables:
 #   $applications (url) - https://blog.mozilla.org/firefox/no-judgment-digital-definitions-app-vs-web-app/
 browser-history-today-there-are = Danes obstaja le peščica načinov za dostop do interneta. Glavni tekmeci so { -brand-name-firefox }, { -brand-name-google } { -brand-name-chrome }, { -brand-name-microsoft } { -brand-name-edge }, { -brand-name-safari } in { -brand-name-opera }. V zadnjem desetletju so se kot najpogostejše naprave za dostop do interneta izpostavili mobilni telefoni. Danes večina uporabnikov dostopa do spleta samo z mobilnimi brskalniki in <a href="{ $applications }">aplikacijami</a>. Mobilne različice velikih spletnih brskalnikov so na voljo za naprave { -brand-name-ios } in { -brand-name-android }. Medtem ko so te aplikacije zelo uporabne za določene namene, pa ponujajo le omejeno zmogljivost.
+browser-history-whatever-the-future = Kakršnakoli naj bo prihodnost spleta, { -brand-name-mozilla } in { -brand-name-firefox } bosta tu za uporabnike in skrbela, da jim bodo na voljo zmogljiva orodja za doživetje spleta in vsega, kar ponuja. Splet je namenjen vsakomur in vsakdo bi moral imeti nadzor nad svojo izkušnjo na njem. Zato ustvarjamo orodja { -brand-name-firefox }, ki ščitijo zasebnost, in podatkov uporabnikov ne prodajamo oglaševalcem.
 browser-history-resources = Viri
 browser-history-take-control-of = Prevzemite nadzor nad svojim brskalnikom.
