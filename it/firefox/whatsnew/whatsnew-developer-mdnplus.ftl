@@ -7,3 +7,4 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest = Congratulazioni: stai utilizzando la versione più recente del { -brand-name-firefox-browser } { -brand-name-developer-edition }.
