@@ -129,8 +129,72 @@
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-account =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Обліковий запис Firefox
+                [lower] обліковий запис Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Облікового запису Firefox
+                [lower] облікового запису Firefox
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Обліковому запису Firefox
+                [lower] обліковому запису Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Обліковий запис Firefox
+                [lower] обліковий запис Firefox
+            }
+        [abl]
+            { $capitalization ->
+               *[upper] Обліковим записом Firefox
+                [lower] обліковим записом Firefox
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Обліковому записі Firefox
+                [lower] обліковому записі Firefox
+            }
+    }
+-brand-name-firefox-accounts =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Облікові записи Firefox
+                [lower] облікові записи Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Облікових записів Firefox
+                [lower] облікових записів Firefox
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Обліковим записам Firefox
+                [lower] обліковим записам Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Облікові записи Firefox
+                [lower] облікові записи Firefox
+            }
+        [abl]
+            { $capitalization ->
+               *[upper] Обліковими записами Firefox
+                [lower] обліковими записами Firefox
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Облікових записах Firefox
+                [lower] облікових записах Firefox
+            }
+    }
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
