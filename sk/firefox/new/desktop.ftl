@@ -165,6 +165,8 @@ firefox-desktop-download-now-mac = Teraz <strong>otvorte</strong> súbor, ktorý
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Mať problémy? <a { $attrs }>Získajte pomoc s inštaláciou</a>.
 firefox-desktop-download-in-another-language = Stiahnutie v inom jazyku alebo pre iný operačný systém.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app

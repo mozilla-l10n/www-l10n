@@ -3,10 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Stiahnuť { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Stiahnite si ten najrýchlejší { -brand-name-firefox } vôbec
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Pokročilé možnosti inštalácie a ďal
 firefox-new-download-in-another-language = Stiahnuť v inom jazyku
 firefox-new-need-help = Potrebujete pomoc?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = Pri inštalácií { -brand-name-firefox(case: "gen")
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Váš systém nemusí spĺňať požiadavky pre { -brand-name-firefox }. Môžete však skúsiť niektorú z <a href="{ $url }">týchto verzií</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Ak vidíte upozornenie, že inštalovaná aplikácia nebola overená { -brand-name-microsoft(case: "ins") }, kliknite na „Inštalovať aj tak“ alebo <a { $attrs }>zmeňte nastavenia odporúčania aplikácií</a>.
 firefox-new-visit-support-for-more = Ďalšie podrobnosti nájdete na stránke podpory
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Stiahnuť { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }
