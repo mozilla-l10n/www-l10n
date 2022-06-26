@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Scarica { -brand-name-firefox }
 navigation-get-a-firefox-account = Registra un { -brand-name-firefox-account }
@@ -107,7 +107,7 @@ navigation-developer-innovations = Innovazioni per gli sviluppatori
 navigation-projects-that-help-keep = Progetti che contribuiscono a mantenere Internet libero e accessibile a tutti.
 navigation-mixed-reality = Realtà mista
 navigation-resources = Risorse
-navigation-resources-for-developers = Realizzate da sviluppatori per sviluppatori.
+navigation-resources-for-developers = Risorse per sviluppatori, da sviluppatori
 navigation-developer-blog = Blog degli sviluppatori
 navigation-build-test-scale-and = Sviluppa, collauda, adatta il tuo software a schermi di diverse dimensioni e molto altro ancora nell’unico browser realizzato appositamente per gli sviluppatori.
 navigation-leadership = Gruppo dirigente

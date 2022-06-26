@@ -14,8 +14,14 @@ developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } è un pro
 developer-mdnplus-support-mdn-and-make = Supporta { -brand-name-mdn } <em>e/em> rendilo più tuo.
 # CTA button
 developer-mdnplus-get-started = Inizia
+developer-mdnplus-whats-included = Che cosa è incluso
 developer-mdnplus-notifications = Notifiche
 developer-mdnplus-development-in-real-time = Sviluppo in tempo reale: ricevi avvisi personalizzati
+developer-mdnplus-the-web-doesnt-have-a = Il Web non è dotato di un registro delle modifiche, ma { -brand-name-mdn } può darti una mano. Segui le pagine e ricevi notifiche personalizzabili quando la documentazione cambia, vengono rilasciate nuove funzionalità CSS e vengono distribuite nuove API.
 developer-mdnplus-collections = Raccolte
 developer-mdnplus-build-your-perfect-library = Costruisci la biblioteca perfetta. Oppure lascia che la costruiamo per te.
+developer-mdnplus-no-more-haphazard-hunting = Niente più cacce al tesoro nella sconfinata biblioteca virtuale: scatena il curatore che c’è in te e raccogli i tuoi articoli preferiti in un unico posto per una comoda consultazione.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } offline
+developer-mdnplus-mdns-entire-library-at-your = L’intera biblioteca di { -brand-name-mdn } a portata di mano: senza connessione a Internet
+developer-mdnplus-taking-your-projects-beyond = Hai necessità di lavorare ai tuoi progetti lontano dalla rete Wi-Fi più vicina? Dì addio a pagine inaccessibili o schede disordinate. Con { -brand-name-mdn-plus } hai a disposizione le risorse di { -brand-name-mdn } completamente navigabili anche senza connessione a Internet.
+developer-mdnplus-resources-for-developers = Risorse per sviluppatori, da sviluppatori.
