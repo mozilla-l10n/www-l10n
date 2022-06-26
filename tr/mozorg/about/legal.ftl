@@ -36,3 +36,4 @@ legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } Hizmet Koşulları
 legal-report-copyright = Telif hakkı veya ticari marka ihlalini bildir
 legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = { -brand-name-mozilla-hubs } Hizmet Koşulları

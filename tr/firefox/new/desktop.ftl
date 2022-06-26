@@ -165,6 +165,8 @@ firefox-desktop-download-now-mac = Şimdi indirdiğiniz dosyayı <strong>açın<
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Sorun yaşıyorsanız <a { $attrs }>kurulumla ilgili yardım alabilirsiniz</a>.
 firefox-desktop-download-in-another-language = Başka bir dilde veya başka bir işletim sistemi için indirin.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
