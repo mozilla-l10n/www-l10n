@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
@@ -20,7 +20,7 @@ features-bookmarks-fly-with-that-bookmark = Будьте завжди зі св�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
-features-bookmarks-take-your-favorites-on = Візьміть свої закладки з собою. Використовуйте { -brand-name-firefox-sync }, щоб отримувати доступ до своїх закладок з усіх пристроїв, від комп'ютерів до мобільних. Або спробуйте <a href="{ $url }">{ -brand-name-pocket }</a>, щоб зберігати будь-які статті або сторінки, і повернутися до них пізніше – навіть без Інтернету.
+features-bookmarks-take-your-favorites-on = Візьміть свої закладки з собою. Використовуйте { -brand-name-firefox-sync(case: "acc", capitalization: "lower") }, щоб отримувати доступ до своїх закладок з усіх пристроїв, від комп'ютерів до мобільних. Або спробуйте <a href="{ $url }">{ -brand-name-pocket }</a>, щоб зберігати будь-які статті чи сторінки, і повертатися до них пізніше – навіть без Інтернету.
 features-bookmarks-customize-that-bookmark = Налаштуйте цю закладку
 # Obsolete string
 # Futz with means to spend a lot of time on something.

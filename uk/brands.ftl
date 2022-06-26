@@ -198,7 +198,39 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-sync =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Синхронізація Firefox
+                [lower] синхронізація Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Синхронізації Firefox
+                [lower] синхронізації Firefox
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Синхронізації Firefox
+                [lower] синхронізації Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Синхронізацію Firefox
+                [lower] синхронізацію Firefox
+            }
+        [abl]
+            { $capitalization ->
+               *[upper] Синхронізацією Firefox
+                [lower] синхронізацією Firefox
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Синхронізації Firefox
+                [lower] синхронізації Firefox
+            }
+    }
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-private-network = Firefox Private Network
 
