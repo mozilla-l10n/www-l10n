@@ -14,12 +14,14 @@ compare-shared-blocks-third-party-tracking-default = 기본적으로 제3자 추
 # Obsolete string
 compare-shared-blocks-third-party-tracking = 제3자 추적 쿠키 차단
 compare-shared-blocks-cryptomining-scripts = 암호화폐 채굴 스크립트 차단
+compare-shared-blocks-fingerprinting-scripts = 핑거프린팅 스크립트 차단
 compare-shared-blocks-social-trackers = 소셜 추적기 차단
 compare-shared-dashboard-to-review = 차단된 추적기를 검토하는 대시보드
 compare-shared-autoplay-blocking = 자동 재생 차단
 compare-shared-tab-browsing = 탭 브라우징
 compare-shared-bookmark-manager = 북마크 관리자
 compare-shared-automatically-fills-out-forms = 자동 입력 양식 채우기
+compare-shared-automatically-fills-out-payments = 자동 결제 정보 채우기
 compare-shared-search-engine-options = 검색 엔진 옵션
 compare-shared-text-to-speech = 텍스트를 음성으로 변환
 compare-shared-reader-mode = 읽기 모드
@@ -43,6 +45,7 @@ compare-shared-utility-strong = <strong>유용성</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>휴대성</strong>
 compare-shared-overall-assessment = 종합 평가
+compare-shared-the-comparisons-made-here-updated = 여기에서 진행된 비교는 다음과 같은 기본 설정과 브라우저 출시 버전에서 진행되었습니다.
 # Obsolete string
 compare-shared-the-comparisons-made-here = 여기에서 비교 한 내용은 다음의 브라우저 출시 버전에서 수행되었습니다:
 compare-shared-this-page-updated-semi-quarterly = 이 페이지는 최신 버전을 반영하기 위해 1년에 8번 업데이트되며 항상 최신 정보를 반영하지는 않습니다.

@@ -3,10 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } 다운로드
 firefox-new-download-the-fastest-firefox = 이제까지 가장 빠른 { -brand-name-firefox } 다운로드
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = 고급 설치 옵션 및 다른 플랫폼
 firefox-new-download-in-another-language = 다른 언어로 다운로드
 firefox-new-need-help = 도움이 필요한가요?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = { -brand-name-firefox } 설치를 위해 <a href="{ 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만, <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows }10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = 실행할때 설치한 앱이 { -brand-name-microsoft }가 확인한 앱이 아니라는 표시가 나오면 “계속 설치”를 누르거나 <a { $attrs }>앱 추천 설정 변경</a>을 누르세요.
 firefox-new-visit-support-for-more = 더 자세한 내용을 위해 지원 방문
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = { -brand-name-firefox-browser } 다운로드
