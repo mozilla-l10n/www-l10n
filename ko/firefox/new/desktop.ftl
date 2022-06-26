@@ -165,6 +165,8 @@ firefox-desktop-download-now-mac = 이제 방금 다운로드 한 파일을 <str
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = 문제가 있으신가요? <a { $attrs }> 설치에 대한 도움말 보기 </a>
 firefox-desktop-download-in-another-language = 다른 언어 또는 다른 운영 체제로 다운로드하세요.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
