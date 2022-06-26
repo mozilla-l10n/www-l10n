@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Pobierz { -brand-name-firefox(case: "acc") }
 firefox-new-download-the-fastest-firefox = Pobierz najszybszego { -brand-name-firefox(case: "acc") } w historii
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Pozostałe opcje instalacji i dla innych
 firefox-new-download-in-another-language = Pobierz w innym języku
 firefox-new-need-help = Potrzebujesz pomocy?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = Postępuj zgodnie z <a href="{ $url }">tymi instruk
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Używany system operacyjny może nie spełniać wymagań { -brand-name-firefox(case: "gen") }, można jednak spróbować jedną z <a href="{ $url }">tych wersji</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Jeśli zobaczysz komunikat informujący, że instalowana aplikacja nie została zweryfikowana przez firmę { -brand-name-microsoft }, kliknij przycisk „Zainstaluj mimo to” lub <a { $attrs }>zmień ustawienia polecanych aplikacji</a>.
 firefox-new-visit-support-for-more = Pomoc zawiera więcej informacji
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }
