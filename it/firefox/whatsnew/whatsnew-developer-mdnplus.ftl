@@ -11,7 +11,7 @@ developer-mdnplus-congrats-you-now-have-latest = Congratulazioni: stai utilizzan
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Più { -brand-name-mdn }. Il <em>tuo</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } è un progetto collaborativo open source che documenta le tecnologie delle piattaforme web, inclusi CSS, HTML, JavaScript e API web. Forniamo anche una vasta gamma di risorse di apprendimento per sviluppatori e studenti alle prime armi.
-developer-mdnplus-support-mdn-and-make = Supporta { -brand-name-mdn } <em>e/em> rendilo più tuo.
+developer-mdnplus-support-mdn-and-make = Supporta { -brand-name-mdn } <em>e</em> rendilo più tuo.
 # CTA button
 developer-mdnplus-get-started = Inizia
 developer-mdnplus-whats-included = Che cosa è incluso
