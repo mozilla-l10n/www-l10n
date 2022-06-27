@@ -165,6 +165,8 @@ firefox-desktop-download-now-mac = Agora <strong>abra</strong> o arquivo que aca
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Está com problemas? <a { $attrs }>Peça ajuda para sua instalação</a>.
 firefox-desktop-download-in-another-language = Baixar de outro idioma ou de outro sistema operacional.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app

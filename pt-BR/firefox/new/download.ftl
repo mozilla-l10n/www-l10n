@@ -3,10 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Baixe o { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Use o { -brand-name-firefox }, rápido como nunca
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Opções avançadas de instalação e out
 firefox-new-download-in-another-language = Baixar de outro idioma
 firefox-new-need-help = Precisa de ajuda?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = Siga <a href="{ $url }">estas instruções</a> para 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Seu sistema pode não atender aos requisitos do { -brand-name-firefox }, mas você pode tentar <a href="{ $url }">uma dessas versões</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Se aparecer um aviso informando que o aplicativo que você está tentando instalar não é um aplicativo verificado pela { -brand-name-microsoft }, clique em “Instalar mesmo assim” ou <a { $attrs }>altere as configurações de recomendação do aplicativo</a>.
 firefox-new-visit-support-for-more = Visite o suporte para obter mais detalhes
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Baixe o { -brand-name-firefox-browser }
