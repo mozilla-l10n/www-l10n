@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } — очень быстрый браузер, обладающий передовыми инструментами разработчика и содержащий в себе последние разработки, например, он поддерживает CSS-сетки и отладку веб-приложений, построенных на фреймворках
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Новые { -brand-name-firefox-devtools } — мощны, гибки и хорошо настраиваемы. В них есть лучший в своём классе отладчик JavaScript, который может эмулировать поведение других браузеров, и построен на React и Redux.
 firefox-developer-master-css-grid = Управление CSS-сеткой
+# outdated
 firefox-developer-next-gen-css-engine = CSS-движок нового поколения
+firefox-developer-built-for-developers = Создан для разработчиков
 firefox-developer-a-next-generation = CSS-движок нового поколения
 firefox-developer-master-innovative-features = Инновационные функции
 firefox-developer-want-to-be-on-the-cutting-edge = Хотите быть на волне передовых технологий?

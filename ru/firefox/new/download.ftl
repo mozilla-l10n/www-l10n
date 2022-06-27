@@ -3,10 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Загрузить { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Загрузите самый быстрый в истории { -brand-name-firefox }
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Расширенные возможнос
 firefox-new-download-in-another-language = Загрузить на другом языке
 firefox-new-need-help = Нужна помощь?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = Пожалуйста, следуйте <a href="{ $u
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ваша система может не удовлетворять требованиям { -brand-name-firefox }, но вы можете попробовать одну из <a href="{ $url }">этих версий</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Если вы видите предупреждение утверждающее, что приложение, которое вы пытаетесь установить, не является проверенным { -brand-name-microsoft } приложением, щёлкните «Всё равно установить» или <a { $attrs }>измените настройки рекомендации приложений</a>.
 firefox-new-visit-support-for-more = Посетите сайт поддержки для получения дополнительных сведений
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Загрузить { -brand-name-firefox-browser }

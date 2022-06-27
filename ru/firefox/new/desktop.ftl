@@ -146,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } авт�
 firefox-desktop-download-questions = Есть вопросы? Вам поможет <a { $attrs }>Служба поддержки { -brand-name-mozilla }</a>.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = У вас уже есть браузер. Теперь вы можете получить ещё больше от { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Следите за действиями хакеров с { -brand-name-firefox-monitor }, защитите свой адрес электронной почты с { -brand-name-firefox-relay }, и многое другое.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Следите за хакерскими атаками с помощью { -brand-name-firefox-monitor }, защищайте пароли с помощью { -brand-name-firefox-lockwise } и многое другое.
 firefox-desktop-download-get-more-from-firefox = Получите больше от { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Просто загрузить браузер
@@ -163,6 +165,8 @@ firefox-desktop-download-now-mac = Теперь <strong>откройте</strong
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Возникли проблемы? <a { $attrs }>Получите помощь по установке</a>.
 firefox-desktop-download-in-another-language = Загрузить на другом языке или для другой операционной системы.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
