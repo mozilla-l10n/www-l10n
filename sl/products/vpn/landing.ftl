@@ -7,6 +7,7 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Zaščitite svojo celotno napravo
+vpn-landing-hero-sub-heading-v2 = Varnost, zanesljivost in hitrost – na vsaki napravi, kjerkoli ste.
 # Obsolete string
 vpn-landing-hero-sub-heading = Varnost, na katero se lahko zanesete. Ime, ki mu lahko zaupate.
 vpn-landing-hero-desc = Navidezno zasebno omrežje, ki so ga ustvarili izdelovalci { -brand-name-firefox(sklon: "rodilnik") }.
@@ -23,6 +24,9 @@ vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } deluje na svetovne
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } deluje na svetovnem omrežju strežnikov, ki jih poganja <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Z uporabo najnaprednejšega protokola <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifriramo vašo omrežno dejavnost in skrijemo vaš naslov IP. Vaše dejavnosti ne beležimo, ji ne sledimo in je ne delimo naprej.
 vpn-landing-brand-trust-heading = VPN znamke, ki ji lahko zaupate
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = Že več kot 20 let se { -brand-name-mozilla } bori za zasebnost na spletu in ljudi postavlja na prvo mesto. Pod okriljem neprofitne organizacije se trudimo ustvariti boljši in bolj zdrav internet za vsakogar. Vse, kar počnemo, je del našega poslanstva in sledi našim <a href="{ $url }">načelom</a>.
 
 ## FAQ section
 

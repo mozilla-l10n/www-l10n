@@ -16,4 +16,5 @@ about-shared-our-products = Naši izdelki
 about-shared-software-innovations = Programska oprema in druge inovacije za doseganje našega poslanstva.
 about-shared-get-involved = Pridružite se
 about-shared-volunteer = Postanete lahko prostovoljni sodelavec na številnih področjih.
+vision-for-the-web = Vizija spleta { -brand-name-mozilla }
 read-about-our-vision = Spoznajte našo vizijo spleta in kako jo nameravamo uresničiti.
