@@ -9,3 +9,5 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } za { -brand-name-windows } 10
+# Windows strings
+vpn-windows-hero-headline = Ostanite povezani in zaščiteni z { -brand-name-mozilla-vpn } za { -brand-name-windows } 10
