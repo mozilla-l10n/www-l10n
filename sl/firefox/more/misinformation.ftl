@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
+misinformation-page-title = Izogibajte se napačnim informacijam na spletu – { -brand-name-firefox } je tu, da vam pomaga
