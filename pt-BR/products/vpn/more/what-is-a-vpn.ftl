@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
@@ -22,7 +22,7 @@ vpn-what-is-a-vpn-will = Uma VPN protege o tráfego enviado entre você e seu pr
 vpn-what-is-a-vpn-provider = Tipicamente, um provedor de VPN oferece uma série de pontos de conexão em diferentes partes do mundo, permitindo que você use um endereço IP de uma região diferente da sua. Assim, qualquer lugar onde você se conectar enxerga o IP da VPN, em vez de seu IP real, como origem do tráfego. O <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> roteia seu tráfego através de um servidor seguro e permite que você escolha uma localização dentre mais de { $countries } países.
 vpn-what-is-when-should-i = Quando devo usar uma VPN?
 vpn-what-is-connecting-to-a = Às vezes pode ser conveniente se conectar a uma rede pública de WiFi, como quando você está sem serviço móvel de internet ou não consegue sinal no celular. Por outro lado, usar uma rede pública de WiFi pode ser arriscado. É impossível ter certeza de que não há pessoas conectadas na mesma rede para bisbilhotar o que os outros fazem. Mesmo se o tráfego do navegador for criptografado, elas ainda podem ver quais sites você visita. E se você estiver usando um aplicativo que não tenha criptografia — mesmo atualmente, muitos não tem — elas podem ver tudo o que você faz.
-vpn-what-is-when-youre-at = Quando você está em casa, o risco de maus elementos aparecerem na sua rede doméstica é menor. Entretanto, seu provedor de internet pode rastrear e compartilhar sua atividade online, porque todos os dados que você acessa pela internet, alguns dos quais podem não estar criptografados, são roteados através da rede do provedor de internet. Uma VPN pode impedir que provedores de internet espiem você, ao criptografar seu tráfego com o provedor de VPN, não importa onde esteja.
+vpn-what-is-when-youre-at = Quando você está em casa, o risco de aparecer maus elementos na sua rede doméstica é menor. Entretanto, seu provedor de internet pode rastrear e compartilhar sua atividade online, porque todos os dados que você acessa pela internet, alguns dos quais podem não estar criptografados, são roteados através da rede do provedor de internet. Uma VPN pode impedir que provedores de internet te espionem, ao criptografar seu tráfego com o provedor de VPN, não importa onde você esteja.
 vpn-what-is-wait-i-thought = Espere, eu achava que o tráfego da minha internet já fosse criptografado com HTTPS…
 vpn-what-is-its-true-that = É verdade que atualmente a maioria das conexões a sites é protegida por HTTPS, o que significa que o conteúdo é criptografado, mas não os endereços IP de origem e destino. Uma VPN oferece privacidade adicional ao impedir que sites e terceiros descubram seu endereço IP.
 vpn-what-is-why-would-i = Por que devo usar uma VPN?
