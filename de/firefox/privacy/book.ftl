@@ -66,9 +66,7 @@ privacy-book-delete-your-google = <strong>Lösche deine Aktivitäten bei { -bran
 
 privacy-book-convenience-may-be = Praktisch mag verlockend sein – ist aber nicht immer die beste Lösung:
 
-privacy-book-all-of-us =
-    { "" }    Viele von uns  neigen zu Bequemlichkeit. Klar. Damit geben wir aber gelegentlich eine ganze Menge Kontrolle ab. Um nicht alle paar Wochen eine größere digitale Aufräumaktion starten zu müssen, kannst du auch mit wenig Aufwand dafür sorgen, dass gar nicht erst so viele Daten über dich gesammelt werden. 
-        Eine Möglichkeit: Verzichte auf Alles-aus-einer-Hand-Lösungen. Die stellen nämlich ein 360-Grad-Bild von dir zusammen und sind außerdem nicht zwingend die qualitativ beste Lösung für alle Nutzer. Probiere verschiedene Alternativen aus! Hier ein paar Beispiele:
+privacy-book-all-of-us = { "" }    Viele von uns  neigen zu Bequemlichkeit. Klar. Damit geben wir aber gelegentlich eine ganze Menge Kontrolle ab. Um nicht alle paar Wochen eine größere digitale Aufräumaktion starten zu müssen, kannst du auch mit wenig Aufwand dafür sorgen, dass gar nicht erst so viele Daten über dich gesammelt werden. Eine Möglichkeit: Verzichte auf Alles-aus-einer-Hand-Lösungen. Die stellen nämlich ein 360-Grad-Bild von dir zusammen und sind außerdem nicht zwingend die qualitativ beste Lösung für alle Nutzer. Probiere verschiedene Alternativen aus! Hier ein paar Beispiele:
 
 privacy-book-search-engine-title = Suchmaschine:
 
