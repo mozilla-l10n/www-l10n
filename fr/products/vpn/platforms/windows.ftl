@@ -29,7 +29,7 @@ vpn-windows-servers-headline = Accédez à des serveurs dans le monde entier
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
-vpn-windows-servers-copy = Parcourir le Web, faire des achats, consulter les actualités... Avec plus de { $servers } serveurs dans plus de { $countries } pays, vous pouvez faire en ligne tout ce que vous avez besoin de faire, simplement en configurant l’emplacement de votre appareil sur pratiquement n’importe quel pays du monde.
+vpn-windows-servers-copy = Parcourir le Web, faire des achats, consulter les actualités. Avec plus de { $servers } serveurs dans plus de { $countries } pays, vous pouvez faire en ligne tout ce que vous avez besoin de faire, simplement en configurant l’emplacement de votre appareil sur pratiquement n’importe quel pays du monde.
 
 vpn-windows-devices-headline = Un seul abonnement pour tous vos appareils
 # Variables:
