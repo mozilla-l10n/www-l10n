@@ -7,7 +7,7 @@
 features-adblocker-how-to-block-annoying = So blockieren Sie störende Anzeigen mit einem Werbeblocker
 features-adblocker-how-to-stop-seeing-too = So verhindern Sie, dass zu viele Anzeigen angezeigt werden werden, und verhindern, dass Unternehmen Sie im Internet verfolgen. Eine Anleitung zum Blockieren von Werbung im { -brand-name-firefox }-Webbrowser.
 features-adblocker-the-ad-blocker-a-secret = Der Werbeblocker – eine Geheimwaffe gegen nervige Werbung.
-features-adblocker-so-many-ads-so-little = So viele Anzeigen, so wenig Geduld ... Es ist Zeit, den Wahnsinn zu stoppen.
+features-adblocker-so-many-ads-so-little = So viele Anzeigen, so wenig Geduld… Es ist Zeit, den Wahnsinn zu stoppen.
 features-adblocker-the-average-person-sees = Die durchschnittliche Person sieht durchschnittlich 4 000 Anzeigen pro Tag. Wenn Sie der Meinung sind, dass dies zu viele sind, ist ein Werbeblocker Ihr neuer bester Freund.
 features-adblocker-an-ad-blocker-is-a-piece = Ein Werbeblocker ist eine Software, die zum Blockieren von Werbung verwendet werden kann und auf zwei Arten funktioniert. Die erste Möglichkeit besteht darin, dass ein Werbeblocker das Signal vom Server eines Werbetreibenden blockiert, sodass die Anzeige niemals auf Ihrer Seite erscheint. Eine andere Möglichkeit, wie Werbeblocker funktionieren, besteht darin, Bereiche einer Website zu blockieren, bei denen es sich um Anzeigen handeln könnte.
 
