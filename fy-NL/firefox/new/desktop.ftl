@@ -165,6 +165,8 @@ firefox-desktop-download-now-mac = <strong>Iepenje no</strong> it bestân dat sa
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problemen? <a { $attrs }>Untfang help by jo ynstallaasje</a>.
 firefox-desktop-download-in-another-language = Downloade yn in oare taal of foar in oar bestjoeringssysteem.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
