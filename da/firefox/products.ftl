@@ -22,6 +22,7 @@ firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Se alle browsere
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Surf, stream og arbejd på servere i mere end 30 lande for en sikker internetforbindelse med et nyt perspektiv.
 firefox-products-get-mozilla-vpn = Få { -brand-name-mozilla-vpn }
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Beskyt din rigtige mailadresse for at få bedre kontrol over din indbakke.
@@ -50,3 +51,4 @@ firefox-products-join-firefox-and-get-the-most = Slut dig til { -brand-name-fire
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Har du allerede en konto? <a { $fxa_attr }>Log ind</a> eller <a { $accounts_attr }>læs mere</a> om at være en del af { -brand-name-firefox }.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Din dedikerede browser til beskyttelse af dit privatliv med automatisk beskyttelse mod sporing og blokering af reklamer.
