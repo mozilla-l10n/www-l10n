@@ -37,14 +37,14 @@ firefox-desktop-download-blocks-social-trackers = Блокировка трек�
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Доступность на ОС
 firefox-desktop-download-in-browser-screenshot = Встроенный инструмент для создания скриншотов
-firefox-desktop-download-primary-password = Мастер-пароль
+firefox-desktop-download-primary-password = Основной пароль
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Полюбите свою жизнь в Интернете
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Это ваш Интернет. Раскрасьте его с помощью тысяч инструментов, тем и расширений. { -brand-name-firefox } — оригинальный альтернативный браузер, который ставит людей выше прибыли.
 # Obsolete string
-firefox-desktop-download-master-password = Мастер-пароль
+firefox-desktop-download-master-password = Основной пароль
 firefox-desktop-download-we-block-the-ad = Мы блокируем рекламные трекеры. Вы быстрее работаете в Интернете.
 firefox-desktop-download-ads-are-distracting = Объявления отвлекают и замедляют загрузку веб-страниц, в то время как их трекеры отслеживают каждое ваше движение в Интернете. { -brand-name-firefox-browser(case: "nominative_uppercase") } автоматически блокирует большинство трекеров, поэтому нет необходимости копаться в настройках безопасности.
 firefox-desktop-download-see-your-report = Просмотрите свой отчёт о защите

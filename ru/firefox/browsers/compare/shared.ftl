@@ -32,9 +32,9 @@ compare-shared-os-availability = Доступность для ОС
 compare-shared-mobile-os-availability = Доступность для мобильных ОС
 compare-shared-syncs-with-mobile = Синхронизация с мобильным
 compare-shared-password-management = Управление паролями
-compare-shared-primary-password = Мастер-пароль
+compare-shared-primary-password = Основной пароль
 # Obsolete string
-compare-shared-master-password = Мастер-пароль
+compare-shared-master-password = Основной пароль
 compare-shared-security-and-privacy = Безопасность и приватность
 compare-shared-utility = Удобство
 compare-shared-portability = Переносимость
