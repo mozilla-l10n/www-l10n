@@ -6,18 +6,18 @@
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-mozillas-data-privacy-faq = Часті запитання щодо приватності даних { -brand-name-mozilla }
+privacy-faq-mozillas-data-privacy-faq = Часті запитання про приватність даних { -brand-name-mozilla }
 privacy-faq-at-mozilla-we-respect-and-protect-desc = В { -brand-name-mozilla } ми поважаємо і захищаємо вашу особисту інформацію.
 privacy-faq-we-stand-for-people-over-profit = Ми відстоюємо права людей, а не прибуток.
-privacy-faq-it-can-be-tricky-for-people = Людям може бути складно дізнатися, що очікувати від будь-якого програмного забезпечення чи сервісу, якими вони сьогодні користуються. Технології, що заповнюють наше життя є складними й люди не мають часу розбиратися в подробицях. Це також стосується і { -brand-name-firefox }, де ми бачимо, що користувачі мають багато різних уявлень про те, що насправді відбувається за межами інтерфейсу їхнього браузера.
+privacy-faq-it-can-be-tricky-for-people = Людям може бути складно дізнатися, що очікувати від будь-якого програмного забезпечення чи служби, якими вони сьогодні користуються. Технології, що заповнюють наше життя складні, і люди не мають часу розбиратися в подробицях. Це також стосується і { -brand-name-firefox }, де ми бачимо, що користувачі мають багато різних уявлень про те, що насправді відбувається за межами інтерфейсу їхнього браузера.
 privacy-faq-at-mozilla-we-respect-and-protect = В { -brand-name-mozilla } ми поважаємо і захищаємо вашу особисту інформацію:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Ми дотримуємось <a href="{ $link }">Принципів приватності даних</a>, що визначають наші впроваджені рішення в браузер { -brand-name-firefox } для комп'ютерів та мобільних пристроїв.
 privacy-faq-we-only-collect-the-data-we = Ми збираємо лише дані, необхідні для створення найкращих продуктів.
-privacy-faq-we-put-people-in-control-of = Ми надаємо людям можливість контролювати їх дані та роботу в мережі.
-privacy-faq-we-adhere-to-no-surprises-principle = Ми дотримуємося принципу "Без несподіванок", який означає, що ми важко працюємо над тим, щоб люди розуміли реальну роботу { -brand-name-firefox }.
-privacy-faq-the-following-questions-and = Наступні запитання й відповіді повинні допомогти вам зрозуміти, що очікувати від { -brand-name-mozilla } і { -brand-name-firefox }:
+privacy-faq-we-put-people-in-control-of = Ми надаємо людям можливість контролювати їхні дані та роботу в мережі.
+privacy-faq-we-adhere-to-no-surprises-principle = Ми дотримуємося принципу «Без несподіванок», який означає, що ми старанно працюємо над тим, щоб люди розуміли реальну роботу { -brand-name-firefox }.
+privacy-faq-the-following-questions-and = Перераховані запитання й відповіді повинні допомогти вам зрозуміти, що очікувати від { -brand-name-mozilla } і { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Я використовую { -brand-name-firefox } майже для всього в Інтернеті. Ви в { -brand-name-mozilla } повинні знати купу речей про мене, чи не так?
 privacy-faq-firefox-the-web-browser-that = Веббраузер { -brand-name-firefox } працює на ваших пристроях і є засобом виходу в інтернет. Ваш браузер обробляє дуже багато інформації про відвідувані вебсайти, але вся ця інформація залишається на вашому пристрої. Компанія { -brand-name-mozilla } створила { -brand-name-firefox } не для збору інформації про вас і може робити це лише за вашим запитом.
 privacy-faq-really-you-dont-collect-my-browsing = Справді, ви не збираєте мою історію перегляду?
