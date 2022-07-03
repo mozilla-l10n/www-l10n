@@ -42,7 +42,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } для { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } для { -brand-name-android }
-footer-visit-mozilla-corporations = Відвідайте некомерційну організацію <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, яка є материнською компанією <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
+footer-visit-mozilla-corporations = Відвідайте некомерційну організацію <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> — материнську компанію <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-portions-of-this-content = Частини цього вмісту створені учасниками проєкту mozilla.org ©1998–{ $current_year }. Вміст доступний на умовах <a rel="license" href="{ $url }">ліцензії { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Компанія
