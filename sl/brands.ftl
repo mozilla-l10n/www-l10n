@@ -146,7 +146,15 @@
 -brand-name-developer-edition = Developer Edition
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
--brand-name-focus = Focus
+-brand-name-focus =
+    { $sklon ->
+       *[imenovalnik] Focus
+        [rodilnik] Focusa
+        [dajalnik] Focusu
+        [tozilnik] Focus
+        [mestnik] Focusu
+        [orodnik] Focusom
+    }
 -brand-name-lite = Lite
 -brand-name-nightly = Nightly
 -brand-name-reality = Reality
