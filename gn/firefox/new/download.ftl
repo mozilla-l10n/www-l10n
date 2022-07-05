@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Emboguejy { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Emboguejy { -brand-name-firefox } ipya’evéva opavavégui
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Ñemohenda poravorã hu’ãpotámava ha 
 firefox-new-download-in-another-language = Emboguejy ambue ñe’ẽme
 firefox-new-need-help = ¿Eikotevẽpa pytyvõ?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = Ejapomína <a href="{ $url }">ko’ã mba’e</a> em
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ikatu hína nde apopyvusu ndorekói { -brand-name-firefox } ojeruréva, hákatu eipurukuaa peteĩva <a href="{ $url }">ãva rehegua</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Ehecháramo ñe’ẽmondo erévo tembipuru’i emohendaséva ndaha’éi tembipuru’i { -brand-name-microsoft } ohechapyréva, eikutu “Mohenda opaicharei” térã <a { $attrs }>ñemboheko moambue tembipuru’i ñe’ẽporãhague</a>.
 firefox-new-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Emboguejy { -brand-name-firefox-browser }
