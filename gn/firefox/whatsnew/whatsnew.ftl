@@ -13,6 +13,7 @@ whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification-v2 = ¡Rombovy’apavẽ! Eipuruhína { -brand-name-firefox } rehegua ipyahuvéva.
 # Obsolete string
 whatsnew-up-to-date-notification = ¡Ipoãitépa! Eipuruhína { -brand-name-firefox-browser } ipyahuvéva.
+whatsnew-out-of-date-notification-v2 = Eipurukuaa { -brand-name-firefox } ipyahuvéva. Eñepyrũjey hekopyahu hag̃ua.
 # Obsolete string
 whatsnew-out-of-date-notification = Eipurukuaa { -brand-name-firefox-browser } ipyahuvéva. Eñepyrũjey hekopyahu hag̃ua.
 # Variables:
