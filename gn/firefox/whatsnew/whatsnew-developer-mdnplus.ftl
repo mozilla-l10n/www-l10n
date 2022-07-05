@@ -17,4 +17,7 @@ developer-mdnplus-whats-included = Mba’épa oreko
 developer-mdnplus-notifications = Ñemomarandu
 developer-mdnplus-development-in-real-time = Oiko arapa’ũteépe: Tog̃uahẽ kyhyjerã nemba’ẽrãva
 developer-mdnplus-collections = Ñembyatyha
+developer-mdnplus-build-your-perfect-library = Ejapo ne arandukarenda katu. Térã rojapokuaa nemba’erã.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } jeikekuaa’ỹ
+developer-mdnplus-mdns-entire-library-at-your = Arandukarenda tuicháva { -brand-name-mdn } mba’éva ehupytykuaáva: ñanduti’ỹre
+developer-mdnplus-resources-for-developers = Mba’eita mboguatahárape g̃uarã, mboguatahára rupive.

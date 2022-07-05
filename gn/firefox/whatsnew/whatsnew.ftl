@@ -10,6 +10,7 @@ whatsnew-page-description = Eñemohatã apoharaguasu rovake ohepyme’ẽ ne mba
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification-v2 = ¡Rombovy’apavẽ! Eipuruhína { -brand-name-firefox } rehegua ipyahuvéva.
 # Obsolete string
 whatsnew-up-to-date-notification = ¡Ipoãitépa! Eipuruhína { -brand-name-firefox-browser } ipyahuvéva.
 # Obsolete string
