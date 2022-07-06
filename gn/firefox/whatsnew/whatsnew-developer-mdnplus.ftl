@@ -17,6 +17,7 @@ developer-mdnplus-get-started = Eñepyrũ
 developer-mdnplus-whats-included = Mba’épa oreko
 developer-mdnplus-notifications = Ñemomarandu
 developer-mdnplus-development-in-real-time = Oiko arapa’ũteépe: Tog̃uahẽ kyhyjerã nemba’ẽrãva
+developer-mdnplus-the-web-doesnt-have-a = Ñanduti ndoguerekói moambue jehaipy, hákatu { -brand-name-mdn } oipytyvõkuaa. Ehapykueho kuatiarogue ha eguerekóta marandu’i ndéve g̃uarãitéva emoambuévo kuatiaite, térã osẽjeývo tembiapoite pyahu CSS térã APIs rehegua.
 developer-mdnplus-collections = Ñembyatyha
 developer-mdnplus-build-your-perfect-library = Ejapo ne arandukarenda katu. Térã rojapokuaa nemba’erã.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } jeikekuaa’ỹ
