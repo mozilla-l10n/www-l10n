@@ -10,6 +10,7 @@ developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest = Vy’apavẽ. Erekóma { -brand-name-firefox-browser } { -brand-name-developer-edition } rembiapokue ipyahuvéva.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Hetave { -brand-name-mdn }. <em>Nde</em> { -brand-name-mdn }.
+developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } ha’e apopyrã ñepytyvõgua ijayvu jurujáva ombokuatiáva tembipurupyahu ñanduti pyendavusu, oĩhápe CSS, HTML, JavaScript ha APIs ñanduti. Avei rome’ẽkuaa mba’eita ñembokatupyryrã mboguatahára oñepyrũramóvape g̃uarã ha avei temimbo’épe.
 developer-mdnplus-support-mdn-and-make = Eykeko { -brand-name-mdn } <em>ha</em> nemba’erãma.
 # CTA button
 developer-mdnplus-get-started = Eñepyrũ
