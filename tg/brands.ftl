@@ -31,9 +31,16 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Браузери Firefox
 -brand-name-firefox-browsers = Браузерҳои Firefox
+-brand-name-firefox-focus = Firefox Focus
+-brand-name-firefox-lite = Firefox Lite
+-brand-name-firefox-nightly = Firefox Nightly
+-brand-name-firefox-reality = Firefox Reality
+-brand-name-firefox-daylight = Firefox Daylight
 
 ## Firefox browsers (short names)
 
+-brand-name-beta = Бета
+-brand-name-developer-edition = Нашри таҳиякунанда
 
 ## Firefox browsers (legacy)
 
@@ -66,18 +73,43 @@
 
 ## Other browsers
 
+-brand-name-brave = Brave
+-brand-name-chrome = Chrome
+-brand-name-edge = Edge
+-brand-name-ie = Internet Explorer
+-brand-name-opera = Opera
+-brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
+-brand-name-android = Android
+-brand-name-chromeos = Chrome OS
+-brand-name-ios = iOS
+-brand-name-linux = Linux
+-brand-name-mac = macOS
+-brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
+-brand-name-windows = Windows
+-brand-name-xp = XP
 
 ## Apple products
 
+-brand-name-app-store = App Store
+-brand-name-ipad = iPad
+-brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
+-brand-name-fire-tv = Fire TV
 
 ## Facebook products
 
+-brand-name-instagram = Instagram
 
 ## Google products
 
+-brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook
