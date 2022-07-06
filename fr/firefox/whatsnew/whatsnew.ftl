@@ -10,10 +10,10 @@ whatsnew-firefox = { -brand-name-firefox }
 
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Félicitations ! Vous utilisez la version la plus récente du { -brand-name-firefox }.
+whatsnew-up-to-date-notification-v2 = Félicitations ! Vous utilisez la version la plus récente de { -brand-name-firefox }.
 
 # Obsolete string
-whatsnew-up-to-date-notification = Félicitations ! Vous utilisez la version la plus récente du { -brand-name-firefox-browser }.
+whatsnew-up-to-date-notification = Félicitations ! Vous utilisez la version la plus récente de { -brand-name-firefox-browser }.
 whatsnew-out-of-date-notification-v2 = Une version encore plus récente du { -brand-name-firefox } est disponible. Redémarrez pour le mettre à jour.
 
 # Obsolete string
