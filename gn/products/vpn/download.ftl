@@ -7,6 +7,10 @@
 
 vpn-download-page-title = Emboguejy { -brand-name-mozilla-vpn }
 vpn-download-page-description = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android }, ha { -brand-name-ios } peg̃uarã.
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-download-sub-heading = Emboguejykuaa { -brand-name-mozilla-vpn } pe { $devices } peve mba’e’okápe peteĩ ñemboheraguapýpe.
+vpn-download-not-available-in-country = Rombyasy, { -brand-name-mozilla-vpn } neremboguejykuaamo’ãi ko’ag̃aite ne retãme.
 vpn-download-button-copy = Mboguejy
 vpn-download-for-windows = VPN for { -brand-name-windows } 10/11 peg̃uarã
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit añoitépe)

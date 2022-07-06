@@ -130,6 +130,10 @@ vpn-landing-faq-manage-subscription-question-heading = ¿Mba’éicha añangarek
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Eñemboheraguapýmarõ { -brand-name-mozilla-vpn }-pe, ikatu emoambue erekóva térã <a href="{ $url }">eñangareko ne ñemboheraguapýre</a> opa ára.
+vpn-landing-faq-download-heading = Mba’éichapa amboguejykuaa { -brand-name-mozilla-vpn } añemboheraguapy rire
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Eike <a { $attrs }>mboguejyha kuatiaroguépe</a> emohenda hag̃ua { -brand-name-mozilla-vpn } ne mba’e’okápe ha upéi emoñepyrũ tembiapo { -brand-name-firefox-account } ndive.
 vpn-landing-faq-link = Ehechave FAQs
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
