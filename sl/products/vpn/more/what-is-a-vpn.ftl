@@ -13,6 +13,7 @@ vpn-what-is-how-do-vpns = Kako VPN-ji delujejo?
 vpn-what-is-when-should-i = Kdaj naj uporabim VPN?
 vpn-what-is-wait-i-thought = Samo malo, mar ni moj internetni promet že šifriran s HTTPS …?
 vpn-what-is-why-would-i = Zakaj naj uporabim VPN?
+vpn-what-is-what-are-the = Kakšne so slabosti uporabe VPN-ja?
 vpn-what-is-are-vpns-safe = Ali so VPN-ji varni?
 vpn-what-is-can-vpns-protect = Ali me VPN-ji lahko zaščitijo pred kiberkriminalci?
 vpn-what-is-are-vpns-legal = Ali so VPN-ji zakoniti?
