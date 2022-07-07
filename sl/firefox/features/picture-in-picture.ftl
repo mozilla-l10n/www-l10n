@@ -7,4 +7,16 @@
 
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Imate opravke, čeprav bi raje gledali videoposnetke? { -brand-name-firefox }ova možnost slike v sliki vam omogoča oboje hkrati.
+features-pip-new-feature-firefox-multi-picture = Novo: več slik v sliki v { -brand-name-firefox(sklon: "mestnik") }
 features-pip-play-the-video = Predvajaj videoposnetek
+features-pip-heres-how-it-works = Kako deluje:
+features-pip-play-any-video-in-your-updated = <strong>Predvajajte katerikoli videoposnetek</strong> v { -brand-name-firefox(sklon: "mestnik") }, na primer tega.
+features-pip-play-any-video-in-your = <strong>Predvajajte katerikoli videoposnetek</strong> v { -brand-name-firefox(sklon: "mestnik") }, na primer ta posnetek mladičkov mačjega pande.
+features-pip-click-the-picture-in-picture-button = <strong>Kliknite gumb slike v sliki</strong>, ki se pojavi na robu, in videoposnetek bo izskočil.
+features-pip-cruise-around-to-other = <strong>Sprehodite se na drug zavihek</strong> ali celo iz { -brand-name-firefox(sklon: "rodilnik") }. Video ostane na mestu!
+features-pip-repeat-steps-1-3-to-have = <strong>Ponovite korake 1–3</strong>, da ustvarite toliko slik v sliki, kolikor jih želite.
+features-pip-3-more-ways-to-use-picture = Še 3 priložnosti za uporabo slike v sliki
+features-pip-3-ways-to-use-picture = 3 priložnosti za uporabo slike v sliki
+features-pip-watch-a-lecture-or-meeting = Spremljajte predavanje ali sestanek, medtem ko si ustvarjate zapiske
+features-pip-keep-a-tutorial-video-open = Obdržite si na očeh posnetek z receptom, medtem ko kuhate
+features-pip-entertain-cats-dogs-and-kids = Zabavajte svojo mačko, psa ali otroke, medtem ko delate
