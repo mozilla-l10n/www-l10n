@@ -15,3 +15,14 @@ vpn-download-button-copy = Download
 vpn-download-for-windows = VPN for { -brand-name-windows } 10/11
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit only)
 vpn-download-for-mac = VPN for { -brand-name-mac-short }
+# Variables:
+#   $version (number) - operating system version
+vpn-download-version-requirements = Version { $version } and up
+vpn-download-for-linux = VPN for { -brand-name-linux }
+# Variables:
+#   $version (number) - operating system version
+vpn-download-for-linux-requirements = Ubuntu { $version } and up
+vpn-download-for-android = VPN for { -brand-name-android }
+vpn-download-for-ios = VPN for { -brand-name-ios }
+vpn-download-get-on-google-play = Get on { -brand-name-google-play } Store
+vpn-download-get-on-app-store = Get on { -brand-name-app-store }
