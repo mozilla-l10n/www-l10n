@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -14,7 +14,10 @@ privacy-passwords-protecting-your-accounts = 保護帳號沒有那麼難，讓 {
 privacy-passwords-tldr = 懶人包：
 privacy-passwords-use-random-passwords = 對不同的網站使用不同的隨機密碼
 privacy-passwords-pay-attention-to = 注意瀏覽器中的安全信號，保持戒心
+privacy-passwords-make-your-answers = 讓安全問題的答案跟密碼一樣複雜
+privacy-passwords-use-a-password = 使用密碼管理員來簡化密碼產生與記憶密碼的過程
 privacy-passwords-use-twofactor-authentication = 盡可能開啟「兩階段身分驗證」
+privacy-passwords-its-hard-out = 很難找到密碼
 privacy-passwords-seeing-you-use = 當您在未加密網站登入時竊聽
 privacy-passwords-guessing-it = 被猜中
 privacy-passwords-stealing-a-file = 偷走記載了您的密碼的檔案

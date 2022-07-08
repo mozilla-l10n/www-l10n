@@ -7,6 +7,9 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = 五套最佳行動瀏覽器功能比較
+# HTML description
+mobile-compare-who-makes-the = 誰是最棒的行動瀏覽器？我們將比較 { -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari } 及 { -brand-name-opera } 的行動版本來找出答案。
+mobile-compare-which-mobile-browser = 哪套行動瀏覽器能保密？
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>功能</strong>
 mobile-compare-features = 功能
