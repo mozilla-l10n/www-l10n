@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
 nightly-firstrun-firefox-nightly = I-{ -brand-name-firefox-nightly } First Run Page
 nightly-firstrun-thank-you-for-using = Enkosi ngokusebenzisa i{ -brand-name-firefox-nightly }
-nightly-firstrun-choose-an-area = Khetha ummnandla wokubandakanyeka uze uncede wenze ube bhetele kubasebenzisi abakwindawo yonke
+nightly-firstrun-choose-an-area = Khetha ummnandla wokubandakanyeka uze uncede wenze ube bhetele { -brand-name-firefox } abakwindawo yonke
 nightly-firstrun-test = Uvavanyo
 nightly-firstrun-find-and-file-bugs = Ifumana iibhagi zefayile ize ngokuqhelekileyo iqinisekise ukuba izinto zisebenza ngendlela ezifanele zisebenze ngayo.
 nightly-firstrun-start-testing = Qala ukuvavanya
