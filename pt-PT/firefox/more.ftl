@@ -35,6 +35,7 @@ firefox-for-windows = { -brand-name-firefox } para { -brand-name-windows } de 64
 seven-of-the = Sete dos melhores navegadores numa comparação direta
 big-isnt-always = Grande nem sempre é o melhor. Escolha a independência em vez disso.
 comparing-firefox-brave = Comparação entre o { -brand-name-firefox-browser } e o { -brand-name-brave }
+comparing-firefox-ie = A comparar o { -brand-name-firefox-browser } com o { -brand-name-microsoft } { -brand-name-ie }
 be-free-to = Sinta-se à vontade para elogiar o { -brand-name-firefox } sempre que quiser.
 the-ad-blocker = O bloqueador de publicidade – a arma secreta contra anúncios irritantes.
 so-many-ads = Tantos anúncios, tão pouca paciência… É tempo de parar com a loucura.
