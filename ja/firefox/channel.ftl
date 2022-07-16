@@ -39,7 +39,7 @@ firefox-channel-nightly-blog = { -brand-name-nightly } のブログ
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } は不安定な開発中の試験版プラットフォームです。問題対処とアイデア試行に役立てるため、{ -brand-name-nightly } は既定の設定で { -brand-name-mozilla } にデータを送信するほか、Mozilla の提携企業にデータを送信する場合もあります。<a href="{ $link }">共有されるデータの詳細</a>.
 
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } は { -brand-name-mozilla } にフィードバックを自動送信します。
-firefox-channel-try-new-browser-features = プレリリースのブラウザー新機能を試用 | { -brand-name-firefox } { "" }
+firefox-channel-try-new-browser-features = プレリリースのブラウザー新機能を試用 | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = プレリリースの { -brand-name-firefox-developer-edition }、{ -brand-name-firefox-beta }、{ -brand-name-firefox-nightly } ブラウザーの最先端の機能をご試用ください。今すぐダウンロード
 firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }、{ -brand-name-beta } と { -brand-name-nightly } ビルドをダウンロードしてデスクトップ用 { -brand-name-firefox } の最新機能をお試しください。
 firefox-channel-beta = { -brand-name-beta }
