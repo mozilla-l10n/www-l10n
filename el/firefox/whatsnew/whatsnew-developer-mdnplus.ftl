@@ -8,6 +8,7 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest = Συγχαρητήρια. Διαθέτετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+developer-mdnplus-support-mdn-and-make = Υποστηρίξτε το { -brand-name-mdn } <em>και</em> κάντε το δικό σας.
 # CTA button
 developer-mdnplus-get-started = Έναρξη
 developer-mdnplus-whats-included = Τι περιλαμβάνεται
