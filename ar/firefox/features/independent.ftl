@@ -8,7 +8,7 @@
 features-independent-firefox-a-different = { -brand-name-firefox }، مُتصفح مُتميز لعصر متميز. تصفَّح مجانًا وبحرية.
 
 # HTML page description
-features-independent-browse-the-internet = تصفَّح الإنترنت كما كان مُخططًا له ... مجاني وآمن ومتاح للجميع. وأَعلِنْ استقلالك على الإنترنت.
+features-independent-browse-the-internet = تصفَّح الإنترنت كما كان مُخططًا له … مجاني وآمن ومتاح للجميع. وأَعلِنْ استقلالك على الإنترنت.
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }: متصفح ثائر بسبب
 features-independent-firefox-is-independent = يُعتبر متصفح { -brand-name-firefox } متصفحًا مستقلًا طوَّرته مؤسسة { -brand-name-mozilla } غير الهادفة للربح، التي تُناضل من أجل حقوقك على الإنترنت، وتتحكم في صلاحيات الشركات وقُواها، وتسعى جاهدة لجعل الإنترنت متاحًا للجميع في كل مكان.
 

@@ -8,7 +8,7 @@
 features-independent-firefox-a-different = { -brand-name-firefox }, pelayar yang berbeza pada waktu yang berbeza. Layari dengan bebas.
 
 # HTML page description
-features-independent-browse-the-internet = Layari internet seperti mana ia sepatutnya dilayari... bebas, selamat dan mudah diakses untuk semua. Isytiharkan kebebasan dalam talian anda.
+features-independent-browse-the-internet = Layari internet seperti mana ia sepatutnya dilayari… bebas, selamat dan mudah diakses untuk semua. Isytiharkan kebebasan dalam talian anda.
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Pemberontakan bersebab
 features-independent-firefox-is-independent = { -brand-name-firefox } bebas dan merupakan sebahagian daripada organisasi bukan berasaskan keuntungan { -brand-name-mozilla }, yang memperjuangkan hak dalam talian anda, memastikan kuasa korporat terkawal dan menjadikan internet dapat diakses oleh sesiapa sahaja, di mana sahaja.
 
