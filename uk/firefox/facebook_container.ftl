@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -12,8 +12,6 @@ facebook-container-get-the-facebook-container = Отримайте розшир�
 facebook-container-download-firefox-and-get-the = Завантажте { -brand-name-firefox } та встановіть розширення { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Розширення { -brand-name-facebook-container } наразі доступне лише у { -brand-name-firefox } для комп'ютерів.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -27,7 +25,7 @@ facebook-container-try-firefox-focus-the-privacy = Спробуйте <strong>{ 
 facebook-container-opt-out-on-your-terms = Відпишіться від ваших умов
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } може відстежувати майже всю вашу діяльність в інтернеті та пов'язувати її з вашим профілем { -brand-name-facebook }. Якщо вас це не влаштовує, розширення <a href="{ $fbcontainer }">{ -brand-name-facebook-container }</a> ізолює ваш профіль в окремій вкладці-контейнері, таким чином ускладнюючи для { -brand-name-facebook } можливість відстеження вас на інших вебсайтах.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } може стежити за майже всією вашою діяльністю в інтернеті та пов'язувати її з вашим профілем { -brand-name-facebook }. Якщо вас це не влаштовує, розширення <a href="{ $fbcontainer }">{ -brand-name-facebook-container }</a> ізолює ваш профіль в окремій вкладці-контейнері, таким чином ускладнюючи для { -brand-name-facebook } можливість стежити за вами на інших вебсайтах.
 facebook-container-install-and-contain = Встановити
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

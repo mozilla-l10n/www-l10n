@@ -18,7 +18,7 @@ firefox-mobile-block-online-trackers-and = Блокуйте стеження й 
 firefox-mobile-privacy-protection-by-default = Типовий захист приватності
 # Variables:
 #   $promise (url) - link to ttps://www.mozilla.org/firefox/features/private-browsing/
-firefox-mobile-leave-no-trace-with-private = Ховайте свої сліди за допомогою <a href="{ $url }">Режиму приватного перегляду </a>. Після закриття браузера історія та файли куки видаляються.
+firefox-mobile-leave-no-trace-with-private = Ховайте свої сліди за допомогою <a href="{ $url }">Режиму приватного перегляду </a>. Після закриття браузера історія та куки видаляються.
 firefox-mobile-stop-companies-from-following = Не дозволяйте компаніям стежити за вами
 # "Tracking Protection" is a feature name; it should be capitalized
 # Variables:
