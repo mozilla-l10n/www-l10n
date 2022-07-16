@@ -49,7 +49,7 @@ about-500-annual-attendees-to-the = <strong>500</strong> 毎年 500 名がベル
 about-toronto = トロント
 
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
-about-800-bottles-of-cold-brew-coffee = { "" } <strong>800</strong> 毎年 800 本の水出しコーヒーボトルを消費
+about-800-bottles-of-cold-brew-coffee = <strong>800</strong> 毎年 800 本の水出しコーヒーボトルを消費
 
 about-work-at-mozilla = { -brand-name-mozilla } で働く
 about-join-a-mission-driven-organization = 目的を持った製品を構築する、ミッション志向の組織で仕事をしませんか。
