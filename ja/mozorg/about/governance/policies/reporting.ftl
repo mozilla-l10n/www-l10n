@@ -7,7 +7,7 @@
 reporting-community-participation = コミュニティ参加ガイドライン
 reporting-how-to-report-violations = コミュニティ参加ガイドラインの違反報告方法
 reporting-this-document-provides = 本書では、{ -brand-name-mozilla } のコミュニティ参加ガイドラインの違反を理解し、報告するハイレベルな情報が記載されています。
-reporting-from-the-community-participation = <a href="{ $cpg }">コミュニティ参加ガイドライン</a>抜粋: { "" }
+reporting-from-the-community-participation = <a href="{ $cpg }">コミュニティ参加ガイドライン</a>抜粋:
 reporting-the-heart-of-mozilla-is = { -brand-name-mozilla } の中核には人間があります。Mozilla は人間を優先し、世界各地からの当団体への貢献者の多様性を認めて尊重するために最大限努力します。{ -brand-name-mozilla } プロジェクトでは、私たちのコミュニティ内における私たちと目標を共にする人々の健全で建設的な貢献を、すべて歓迎します。したがって、Mozilla では、全員が安全で積極的なコミュニティのエクスペリエンスを創出するために、本行動規範を採用し、コミュニティ参加ガイドラインに同意し、それを順守することを参加者全員に求めています。
 reporting-this-document-is-intended = 本書は、{ -brand-name-mozilla } のコミュニティが健全であること、全ての人々に門戸が開かれているものであることを確実にする責任を持つ人々と、既存の文書やプロセスをつなぐものとなることを目的としています。
 reporting-when-to-report = レポートを見る
