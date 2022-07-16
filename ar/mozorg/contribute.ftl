@@ -9,7 +9,7 @@
 contribute-page-title = فُرص المتطوعين في { -brand-name-mozilla }
 contribute-page-heading = يحتاج العالم مواهبك لإنترنت أفضل للجميع
 contribute-page-intro = { -brand-name-mozilla } هي مُؤسسة غير ربحية تعمل على ضمان أن الإنترنت مفتوح ويُرحب بالجميع. ونحن بحاجة لمُساعدتكم. من خلال الانضمام إلى مُجتمعنا، يُمكنك المساعدة في دفع الابتكار وتعزيز المُساءلة والثقة وجعل الإنترنت مكانًا أفضل للجميع.
-contribute-how-heading = كيف تساهم...
+contribute-how-heading = كيف تساهم…
 
 ## Contribution tasks
 
