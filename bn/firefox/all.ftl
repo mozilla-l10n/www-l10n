@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -20,9 +20,9 @@ firefox-all-sorry-we-couldnt-find = দুঃখিত, আপনি যে ড�
 firefox-all-64-bit-installers = 64-bit ইনস্টলার
 firefox-all-32-bit-installers = 32-bit ইনস্টলার
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Firefox ব্রাউজারটি ইংরেজী (মার্কিন) এবং 90 টিরও বেশি অন্যান্য ভাষায় ডাউনলোড করুন
-firefox-all-choose-which-firefox = কোন ভাষায় আপনার Firefox ব্রাউজার ডাউনলোড করবেন তা নির্বাচন করুন
-firefox-all-firefox-privacy-notice = আমাদের গোপনীয়তা বিজ্ঞপ্তি
+firefox-all-download-the-firefox = { -brand-name-firefox-browser } ইংরেজী (মার্কিন) এবং 90 টিরও বেশি অন্যান্য ভাষায় ডাউনলোড করুন
+firefox-all-choose-which-firefox = কোন ভাষায় আপনার { -brand-name-firefox-browser } ডাউনলোড করবেন তা নির্বাচন করুন
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } গোপনীয়তা বিজ্ঞপ্তি
 firefox-all-learn-about-firefox = { -brand-name-firefox } ব্রাউজারগুলি সম্পর্কে জানুন
 firefox-all-get-a-sneak-peek-at = { -brand-name-firefox } ব্রাউজারের সর্বশেষ বৈশিষ্ট্যগুলি প্রকাশের আগেই তাদের এক ঝলক দেখে নিন।
 firefox-all-msi-installers = MSI ইনস্টলার

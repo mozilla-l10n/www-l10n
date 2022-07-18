@@ -8,7 +8,7 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = আপনার গোপনীয়তা রক্ষা করার একটি উপায় আছে। { -brand-name-firefox } এ যোগ দিন।
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Firefox অ্যাকাউন্ট ব্যবহার করুন – আপনার তথ্য গোপন, নিরাপদ এবং সিঙ্ক রাখুন
+firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } ব্যবহার করুন – আপনার তথ্য গোপন, নিরাপদ এবং সিঙ্ক রাখুন
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = আপনার গোপনীয়তা রক্ষা করার একটি উপায় আছে। <span>{ -brand-name-firefox } এ যোগ দিন।</span>
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
