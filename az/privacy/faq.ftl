@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -27,9 +27,6 @@ privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } insanların in
 privacy-faq-it-seems-like-every-company = Görünür internetdəki hər şirkət məlumatlarımı alıb-satır. Siz də yəqin ki, fərqli deyilsiz.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } məlumatlarınızı satmır və həmçinin almır da.
 privacy-faq-wait-so-how-do-you-make-money = Yaxşı, bəs siz necə pul qazanırsız?
-# Variables:
-#   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } digər şirkətlər kimi deyil. 1998də azad proqram təminatı cəmiyyəti kimi qurulan { -brand-name-mozilla } interneti daha sağlam etmək missiyasını güdən təşkilatdır. { -brand-name-mozilla } Korporasiyasının əsas gəliri dünyanın hər yerindən olan axtarış partnyorları və yayma razılıqlarıdır. Necə pul qazandığımız haqqında <a href="{ $link }">illik maliyyə hesabatı</a>mızdan öyrənə bilərsiz.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Yaxşı, bunlar asan idi. Siz hansı məlumatları toplayırsız?
 # Variables:
