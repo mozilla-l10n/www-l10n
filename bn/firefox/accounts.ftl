@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -13,7 +13,7 @@ firefox-accounts-get-a-firefox-account = Firefox অ্যাকাউন্ট 
 firefox-accounts-there-is-a-way-to-protect = আপনার গোপনীয়তা রক্ষা করার একটি উপায় আছে। <span>{ -brand-name-firefox } এ যোগ দিন।</span>
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = আপনি { -brand-name-firefox } এ<br>সাইন ইন করেছেন। <br><span>এখন { -brand-name-firefox-monitor } পরখ করুন।</span>
-firefox-accounts-sign-in-to-monitor = মনিটরে সাইন ইন করুন
+firefox-accounts-sign-in-to-monitor = { -brand-name-monitor } সাইন ইন করুন
 firefox-accounts-join-firefox = { -brand-name-firefox } এ যোগ দিন
 firefox-accounts-enter-your-email-address = শুরু করাতে আপনার ইমেইল দিন।
 firefox-accounts-already-have-an-account = ইতিমধ্যে একটি অ্যাকাউন্ট রয়েছে?
@@ -21,6 +21,7 @@ firefox-accounts-sign-in = সাইন ইন
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } এমন প্রযুক্তি যা আপনার পক্ষে লড়াই করে।
 firefox-accounts-get-technology-that = আপনার জন্য লড়াই করে এমন প্রযুক্তি পান।
 firefox-accounts-travel-the-internet = নিরাপদে প্রতিটি ডিভাইসে ইন্টারনেটে পরিভ্রমণ করুন।
+# Obsolete string
 firefox-accounts-keep-your-passwords = আপনার পাসওয়ার্ড নিরাপদ ও বহনযোগ্য রাখুন।
 firefox-accounts-get-the-respect-you = আপনার প্রাপ্য সম্মানটুকু পান।
 # Variables:
@@ -35,6 +36,8 @@ firefox-accounts-help-us-build-a-better = আমাদের সবার জন
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = ডাউনলোড করুন
 download-button-free-download = বিনামূল্যে ডাউনলোড
@@ -26,7 +26,7 @@ download-button-update-your-firefox = আপনার { -brand-name-firefox } �
 download-button-get-firefox-android = { -brand-name-android } এর জন্য { -brand-name-firefox } ডাউনলোড করুন
 download-button-get-firefox-ios = { -brand-name-ios } এর জন্য { -brand-name-firefox } ডাউনলোড করুন
 download-button-google-play = { -brand-name-google-play } থেকে ডাউনলোড করুন
-download-button-free-google-play = গুগল প্লে থেকে বিনামূল্যে নিন
+download-button-free-google-play = { -brand-name-google-play } থেকে বিনামূল্যে নিন
 download-button-app-store = বিনামূল্যে { -brand-name-app-store } ডাউনলোড করুন
 download-button-download-app-store = { -brand-name-app-store } থেকে ডাউনলোড করুন
 download-button-download-firefox = { -brand-name-firefox } ডাউনলোড করুন
