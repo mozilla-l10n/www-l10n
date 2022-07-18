@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Navegador Firefox: kipia tein okachi kuali nexkayomej marcadores kampa yeski tionyouej
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: kipia tein okachi kuali nexkayomej marcadores kampa yeski tionyouej
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Xikonixtali kemej kuali moajsij moneskayouan marcadores ika carpetas uan itech xionkalaki ika nochin moteposuan, kemej tein tajkuilouapal oso tein se uelis mouikas.
 features-bookmarks-better-bookmarks = Neskayomej marcadores itech Internet tein okachi kuali
