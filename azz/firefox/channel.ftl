@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -15,7 +15,7 @@ firefox-channel-file-a-bug-now = Xikontitani se nepolol axkan
 firefox-channel-tips-for-filing-a-bug = Tayolmajxitilis tein mitsonpaleuis tikontenextis se nepolol
 firefox-channel-try-new-features-in-a-pre = Xikontatekiujti yankuikej nepaleuilmej tein kipia se navegador { -brand-name-android } achto ke nochin uelis kitatekiujtis | { -brand-name-firefox }
 firefox-channel-download-and-test-future = Xikontemoui uan xikonixejeko oksekin versiones { -brand-name-firefox } tein satepan ualaskej ika tajkuiloluapal, { -brand-name-android } uan { -brand-name-ios }.
-firefox-channel-experience-cutting-edge-android-updated = Xikonixejeko yankuikej nepaleuilmej tein kipia se navegador achto ke nochin uelis kitatekiujtis, ika { -brand-name-android }: Firefox tein Beta uan { -brand-name-firefox-nightly }. ¡Axkan xikontalili motepos!
+firefox-channel-experience-cutting-edge-android-updated = Xikonixejeko yankuikej nepaleuilmej tein kipia se navegador achto ke nochin uelis kitatekiujtis, ika { -brand-name-android }: { -brand-name-firefox-beta } uan { -brand-name-firefox-nightly }. ¡Axkan xikontalili motepos!
 firefox-channel-experience-cutting-edge-android = Xikonixejeko yankuikej nepaleuilmej tein kipia se navegador achto ke nochin uelis kitatekiujtis, ika { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } uan { -brand-name-firefox-nightly }. ¡Axkan xikontalili motepos!
 firefox-channel-download-and-test-the-latest-android = Xikontemoui uan xikonixejeko inepaleuiluan { -brand-name-firefox } tein okachi yankuikej ika { -brand-name-android } tein kipia { -brand-name-aurora }, { -brand-name-beta } uan { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Xikonixejeko inepaleuiluan { -brand-name-android } tein okachi yankuikej, achto taltikpakneminij uelis kichiuaskej.
