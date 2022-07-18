@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
@@ -9,7 +9,7 @@
 features-independent-firefox-a-different = { -brand-name-firefox }, se tataman navegador itech tataman tonalmej. Xiontatekiujti Internet uan amo moneki tiontaxtauas.
 # HTML page description
 features-independent-browse-the-internet = Xikontatekiujti Internet kemej monekiskia… tatojtomal, yekyetok uan nochimej maj amo ouij ueli kalakiskej. Xikonnexti Internetkopa amo tikontamakati akin okachi uejueyichiuanimej.
-features-independent-firefox-rebel-with-a = Taixnamikkej tein kipia keyej
+features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Taixnamikkej tein kipia keyej
 features-independent-firefox-is-independent = { -brand-name-firefox } amo kitamakati akin okachi uejueyichiuanimej uan poui { -brand-name-mozilla } tein amo kitemoua motomintis, mochikaua maj nochin tokniuan kipia ininmelaujkatanauatiluan itech Internet, kitsinkixtia ichikaujkauelilis uejueyitekitiloyamej uan no kichiua nochimej uelis kalakiskej Internet, kampa yeski.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Amo ilpitok

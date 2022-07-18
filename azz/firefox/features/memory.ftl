@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Navegador Firefox: kikui amo okachi taelnamikilis, kipia okachi ijsiujkayot
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: kikui amo okachi taelnamikilis, kipia okachi ijsiujkayot
 # HTML page description
 features-memory-is-your-computer-slow-your = ¿Motepos amo ijsiujkatekiti? Xa monavegador kikuitinemi tel miak taelnamikilis. Xionmopata axkan uan xikontatekiujti { -brand-name-firefox } tein okachi ijsiuik.
 features-memory-less-memory-usage-than-chrome = Amo okachi kikui taelnamikilis uan amo { -brand-name-chrome }
