@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
@@ -13,6 +13,7 @@ password-manager-firefox-password = { -brand-name-firefox } Parol İdarəçisi b
 password-manager-password-manager = Parol İdarəçisi
 password-manager-give-up-the-memory = { -brand-name-firefox } Parol İdarəçisi ilə parolları əzbərləməkdən xilas olun.
 password-manager-password-hero = Parol qəhrəmanı
+# Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Sıfırlamağı yaddan çıxarın. { -brand-name-firefox } Parol İdarəçisi bütün parollarınızı saxlayır, beləliklə həm avtomatik daxil ola, həm də parollarınızı rahatlıqla yadınıza sala bilərsiz. Daha çox təhlükəsizlik üçün <a href="{ $url }">ana parol</a> qurun.
@@ -20,7 +21,7 @@ password-manager-password-magician = Parol sehirbazı
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Parol nindzası
-password-manager-no-more-try-again = Bir yerlərə daxil olmaqla əlləşərkən “təkrar yoxla”maqdan xilas olun. Telefonunuzda da Firefox Hesabınıza daxil olun və parollarınızı özünüzlə daşıyın.
+password-manager-no-more-try-again = Bir yerlərə daxil olmaqla əlləşərkən “təkrar yoxla”maqdan xilas olun. Telefonunuzda da { -brand-name-firefox-account } daxil olun və parollarınızı özünüzlə daşıyın.
 password-manager-password-champion = Parol çempionu
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.

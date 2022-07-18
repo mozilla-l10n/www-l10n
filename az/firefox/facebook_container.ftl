@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -18,7 +18,7 @@ facebook-container-try-firefox-focus-the-privacy = <strong>{ -brand-name-firefox
 facebook-container-opt-out-on-your-terms = Şərtləri özünüz təyin edin
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } bütün aktivliyinizi izləyib sizin { -brand-name-facebook } profilinizlə əlaqələndirə bilir. Əgər bu sizin üçün də həddi aşmaq kimidirsə, <a href="{ $fbcontainer }">{ -brand-name-facebook } Konteyneri uzantısı</a> profilinizi ayrı bir konteyner vərəqinə izolə edir və beləliklə { -brand-name-facebook } xarici saytlarda sizi izləməyi { -brand-name-facebook } üçün çətinləşdirir.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } bütün aktivliyinizi izləyib sizin { -brand-name-facebook } profilinizlə əlaqələndirə bilir. Əgər bu sizin üçün də həddi aşmaq kimidirsə, <a href="{ $fbcontainer }">{ -brand-name-facebook-container } Konteyneri uzantısı</a> profilinizi ayrı bir konteyner vərəqinə izolə edir və beləliklə { -brand-name-facebook } xarici saytlarda sizi izləməyi { -brand-name-facebook } üçün çətinləşdirir.
 facebook-container-install-and-contain = Qur və həbs et
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

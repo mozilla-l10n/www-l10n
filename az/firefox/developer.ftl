@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } çox sürətlidir, müasir tərtibatçı alətləri, CSS Tor (Grid) və framework sazlayıcısı kimi ən son yeniliklərlə gəlir
@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Son azad səyyahı qurmağımıza kömə
 firefox-developer-start-now = İndi başlayın
 firefox-developer-design-code-test = Dizaynla. Kodlaşdır. Yoxla. Təkmilləşdir.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Firefox Tərtibatçı Alətləri ilə<br> saytlarınızı qurun və mükəmməlləşdirin
+firefox-developer-build-and-perfect = { -brand-name-firefox-devtools } ilə<br> saytlarınızı qurun və mükəmməlləşdirin
 firefox-developer-inspector = İnspektor
 firefox-developer-inspect-and-refine = Mükəmməl maketlər hazırlamaq üçün kodunuzu inspektorla yoxlayın və düzəldin.
 firefox-developer-learn-about-page-inspector = Səhifə İnspektoru haqqında ətraflı öyrənin
@@ -52,9 +52,10 @@ firefox-developer-style-editor = Stil Redaktoru
 firefox-developer-edit-and-manage = Bütün CSS stil örtüklərini səyyahınızda redaktə və idarə edin.
 firefox-developer-learn-more-about-style = Stil Redaktoru haqqında ətraflı öyrənin
 firefox-developer-new-tools = Yeni Alətlər
-firefox-developer-firefox-devtools = Firefox Tərtibatçı Alətləri
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Yeni { -brand-name-firefox-devtools } güclü, çevik və hər şeydən əsas hack edilə biləndir. Buna fərqli səyyahları hədəfləyə bilən, React və Redux ilə gələn növünün ən yaxşı JavaScript xəta sazlayıcısı da daxildir.
 firefox-developer-master-css-grid = CSS Grid-ə Yiyələnin
+# outdated
 firefox-developer-next-gen-css-engine = Yeni Nəsil CSS Mühərriyi
 firefox-developer-a-next-generation = Yeni nəsil CSS Mühərrik
 firefox-developer-master-innovative-features = Qabaqcıl Özəlliklər
@@ -75,4 +76,4 @@ firefox-developer-download-the-firefox-browser = Tərtibatçılar üçün düzə
 firefox-developer-welcome-to-the-all-new = Ən yeni { -brand-name-firefox-quantum }: { -brand-name-developer-edition }-a xoş gəldiniz
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } daha sürətli, gözəl və güclü olması üçün başdan yaradıldı.
 firefox-developer-congrats-you-now-have-firefox = Təbriklər. Artıq { -brand-name-firefox-quantum }: { -brand-name-developer-edition } işlədirsiniz.
-firefox-developer-this-isnt-just-an-update = Bu sadəcə yeniləmə deyil. Bu { -brand-name-firefox } Quantum-dur: Daha sürətli, gözəl və güclü olması üçün başdan yaradılmış yeni { -brand-name-firefox }.
+firefox-developer-this-isnt-just-an-update = Bu sadəcə yeniləmə deyil. Bu { -brand-name-firefox-quantum }-dur: Daha sürətli, gözəl və güclü olması üçün başdan yaradılmış yeni { -brand-name-firefox }.

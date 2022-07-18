@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -22,7 +22,7 @@ home-read-our-internet-health-report = İnternet sağlamlığı hesabatımızı 
 home-our-innovations = İnnovasiyalarımız
 home-using-the-web-as-the-platform = Web-i platform olaraq işlədərək tərtibatçıların hamımız üçün qapalı və korporativ ekosistemlərdən aralı, sürətli, güvənilir web təcrübələri yaratmaları üçün açıq, innovativ texnologiyalar inşa edirik.
 home-virtual-reality-platform = Virtual reallıq platformu
-home-common-voice = Ümumi Səs
+home-common-voice = { -brand-name-common-voice }
 home-extensions = Uzantılar
 home-personalize-firefox-with-your = { -brand-name-firefox }-u parol idarəçiləri, reklam əngəlləyiciləri və daha çox sevimli əlavələrinizlə fərdiləşdirin.
 home-careers = Karyeralar
