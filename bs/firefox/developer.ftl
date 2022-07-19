@@ -53,7 +53,7 @@ firefox-developer-edit-and-manage = Uređujte i upravljajte svim svojim CSS stil
 firefox-developer-learn-more-about-style = Saznajte više o Uređivaču stilova
 firefox-developer-new-tools = Novi alati
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-the-new-firefox-devtools = Novi Firefox razvojni alati su moćni, fleksibilni i prilagodljivi. Ovo uključuje najbolji JavaScript otklanjač grešaka, koji može upravljati s više pretraživača i razvijen je u React-u i Redux-u.
+firefox-developer-the-new-firefox-devtools = Novi { -brand-name-firefox-devtools } su moćni, fleksibilni i prilagodljivi. Ovo uključuje najbolji JavaScript otklanjač grešaka, koji može upravljati s više pretraživača i razvijen je u React-u i Redux-u.
 firefox-developer-master-css-grid = Ovladajte CSS mrežom
 # outdated
 firefox-developer-next-gen-css-engine = CSS motor nove generacije

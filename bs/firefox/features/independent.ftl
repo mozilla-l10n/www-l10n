@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
@@ -10,7 +10,7 @@ features-independent-firefox-a-different = { -brand-name-firefox }, drugačiji p
 # HTML page description
 features-independent-browse-the-internet = Pretražujte internet kao što bi i trebalo… slobodno, bezbjedno i pristupačno svima. Deklarišite svoju internet nezavisnost.
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Buntovnik sa razlogom
-features-independent-firefox-is-independent = { -brand-name-firefox } je nezavisan i dio je neprofitne organizacije koja se bori za vaša internet prava i omogućava internet dostupnim svima i svuda.
+features-independent-firefox-is-independent = { -brand-name-firefox } je nezavisan i dio je neprofitne organizacije { -brand-name-mozilla } koja se bori za vaša internet prava i omogućava internet dostupnim svima i svuda.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Nema stringova
 features-independent-what-you-see-is-what = Ono što vidite je ono što i dobijate
@@ -18,4 +18,4 @@ features-independent-we-believe-the-internet = Mi vjerujemo da je internet za lj
 features-independent-a-browser-on-a-mission = Pretraživač na misiji
 features-independent-in-addition-to-fighting = Pored toga što se borimo za vaša prava na internetu, takođe držimo moći korporacija u šahu i održavamo dobre internetske prakse sa saveznicima širom svijeta. Kada izaberete { -brand-name-firefox }, to je razlog zašto mi biramo vas.
 # Obsolete string
-features-independent-firefox-is-a-browser = { -brand-name-firefox } je pretraživač sa savješću. Kao dio tehnologije neprofitne Mozille, mi se borimo za vaša internet prava, pomažemo u edukaciji i napredovanju država sa principima zdravog interneta. Tako da kada izaberete { -brand-name-firefox }, i mi biramo vas.
+features-independent-firefox-is-a-browser = { -brand-name-firefox } je pretraživač sa savješću. Kao dio tehnologije neprofitne { -brand-name-mozilla }, mi se borimo za vaša internet prava, pomažemo u edukaciji i napredovanju država sa principima zdravog interneta. Tako da kada izaberete { -brand-name-firefox }, i mi biramo vas.

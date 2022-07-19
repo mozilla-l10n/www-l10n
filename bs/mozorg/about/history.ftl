@@ -23,7 +23,7 @@ history-by-creating-an-open-community = Stvaranjem otvorene zajednice, projekt {
 #   $bugzilla (url) link to https://www.bugzilla.org
 #   $projects (url) link to https://www.mozilla.org/firefox/
 history-community-members-got-involved = Članovi zajednice su se uključili i prošrili obim projekata <a href="{ $mission }">originalne misije</a> — umjesto rada samo na sljedećem pretraživaču { -brand-name-netscape }-a, ljudi su počeli kreirati <a href="{ $browsers }">razne pretraživače</a>, <a href="{ $bugzilla }">razvojne alate</a> i niz drugih <a href="{ $projects }">projekata</a>.
-history-people-contributed-to-mozilla = Ljudi su doprinijeli Mozilli na različite načine, ali svi su strastveni o stvaranju slobodnog softvera koji će omogućiti ljudima da imaju izbor u tome kako su doživjeli internet.
+history-people-contributed-to-mozilla = Ljudi su doprinijeli { -brand-name-mozilla } na različite načine, ali svi su strastveni o stvaranju slobodnog softvera koji će omogućiti ljudima da imaju izbor u tome kako su doživjeli internet.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
 history-after-several-years-of-development = Nakon nekoliko godina razvoja, <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, prva glavna verzija, objavljena je 2002. godine. Ova verzija je sadržavala mnoga poboljšanja pretraživača, email klijenta i drugih uključenih aplikacija, ali mnogi ljudi je nisu koristili.
@@ -35,7 +35,7 @@ history-by-2002-well-over-90 = Do 2002. godine, <a href="{ $over90 }"> i preko 9
 history-not-many-people-noticed = Mnogi nisu primjetili u to vrijeme, ali prva verzija Phoenixa (kasnije preimenovan u { -brand-name-firefox }) je također objavljena od strane članova { -brand-name-mozilla } zajednice te godine s ciljem pružanja <a href="{ $charter }">najbolje mogućeg iskustva pretraživanja</a> za najšri mogući skup ljudi.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = U 2003. godini, { -brand-name-mozilla } projekat je stvorio { -brand-name-mozilla } Fondaciju, koja je <a href="{ $foundation }"> nezavisna neprofitna organizacija </a> podržana od strane pojedinačnih donatora i raznih kompanija.
+history-in-2003-the-mozilla-project = U 2003. godini, { -brand-name-mozilla } projekat je stvorio { -brand-name-mozilla-foundation }, koja je <a href="{ $foundation }"> nezavisna neprofitna organizacija </a> podržana od strane pojedinačnih donatora i raznih kompanija.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Nova { -brand-name-mozilla-foundation } je nastavila ulogu upravljanja svakodnevnim operacijama projekta i službeno preuzela ulogu promovisanja <a href="{ $manifesto }"> otvorenosti, inovacija i mogućnosti </a> na internetu.
@@ -70,7 +70,7 @@ history-the-mozilla-community-together = { -brand-name-mozilla } zajednica, zaje
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Ako želite da nam se pridružite u našoj misiji, molimo <a href="{ $contribute }"> uključite se </a>.
-history-for-more-information-about = Za više informacija o Mozillinoj historiji, pogledajte sljedeće:
+history-for-more-information-about = Za više informacija o { -brand-name-mozilla } historiji, pogledajte sljedeće:
 history-mozilla-bookmarks = { -brand-name-mozilla } zabilješke
 history-timeline-of-mozilla-project = Vremenska linija { -brand-name-mozilla } projekta
 history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital Memory Bank
