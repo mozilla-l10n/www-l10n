@@ -20,6 +20,7 @@ password-manager-forget-the-reset = Reset ভুলে যান। { -brand-nam
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = পার্সওয়ার্ড নিনজা
+password-manager-no-more-try-again = যখন আপনি অন্য কোথাও যাওয়ার চেষ্টা করছেন তখন  “আবার চেষ্টা”  করবেন না। আপনার ফোনে { -brand-name-firefox-account } এ লগইন করুন এবং পাসওয়ার্ড আপনার সাথে আসবে। আপনার লগইন বিবরণ প্রদর্শিত হবে, ঠিক এভাবে।
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = পাসওয়ার্ড মাস্টার
