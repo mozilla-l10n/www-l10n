@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
@@ -21,10 +21,6 @@ vpn-mobile-about-copy = Yn fwyaf adnabyddus am ein { -brand-name-firefox-browser
 vpn-mobile-privacy-headline = Preifatrwydd mewn un clic
 vpn-mobile-privacy-copy = Mae'r ap { -brand-name-mozilla-vpn } yn amgryptio'ch cysylltiad rhyngrwyd ac yn cuddio'r cyfeiriad IP ar eich ffôn symudol neu dabled gan ddefnyddio protocol uwch { -brand-name-wireguard }®.
 vpn-mobile-servers-headline = Cysylltwch â gweinyddion ledled y byd
-# Variables:
-#   $servers (number) - number of available servers
-#   $countries (number) - number of available countries
-vpn-mobile-servers-copy = Porwch o Frasil. Chwarae gêm o Japan. Ffrydio o Fecsico. Mae { -brand-name-mozilla-vpn } yn gadael i chi newid lleoliad eich ffôn neu'ch cyfrifiadur i un o { $servers } o weinyddion.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Diogelwch hyd at { $devices } o ddyfeisiau

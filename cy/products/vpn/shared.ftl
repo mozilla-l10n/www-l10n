@@ -99,7 +99,7 @@ vpn-shared-platform-trust-partner-headline = Ynglŷn â'n partner dibynadwy
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-shared-platform-trust-partner-copy = Mae { -brand-name-mozilla-vpn } yn rhedeg ar rwydwaith byd-eang o weinyddion sy'n cael eu pweru gan <a href="{ $policy }">{ -brand-name-mullvad }</a> gan ddefnyddio'r protocol <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>. Mae { -brand-name-mullvad } yn gosod eich preifatrwydd yn flaeniaeth ac nid yw'n cadw cofnodion o unrhyw fath.
+vpn-shared-platform-trust-partner-copy = Mae { -brand-name-mozilla-vpn } yn rhedeg ar rwydwaith byd-eang o weinyddion sy'n cael eu pweru gan <a href="{ $policy }">{ -brand-name-mullvad }</a> gan ddefnyddio'r protocol <a href="{ $wireguard }" { -brand-name-wireguard }</a>®. Mae { -brand-name-mullvad } yn gosod eich preifatrwydd yn flaeniaeth ac nid yw'n cadw cofnodion o unrhyw fath.
 vpn-shared-platform-what-youll-get = Beth gewch chi gyda { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
