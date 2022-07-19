@@ -1,12 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Rhyngrwyd ar gyfer pobl, nid elw
 home-did-you-know-mozilla-the-maker = A wyddoch chi? Mae { -brand-name-mozilla } — gwneuthurwr { -brand-name-firefox } — yn ymladd i gadw'r Rhyngrwyd yn adnodd cyhoeddus byd eang ar gael ac agored i bawb.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Cyflym am byth.
 home-with-2x-the-speed-built-in = Gyda 2x y cyflymder, diogelwch preifatrwydd o'i fewn a { -brand-name-mozilla } y tu ôl iddo, mae'r { -brand-name-firefox } newydd yn ffordd well o bori.
 home-we-make-the-internet-safer = Rydym yn gwneud y rhyngrwyd yn fwy diogel, iach a chynt, am byth.

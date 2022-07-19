@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Eich cyfeiriad e-bost
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = eichenw@example.com
 newsletter-form-select-country-or-region = Dewiswch wlad neu ardal
+newsletter-form-select-language = Dewiswch Iaith
 newsletter-form-your-email-here = EICH E-BOST YMA
 newsletter-form-format = Fformat
 newsletter-form-html = HTML
