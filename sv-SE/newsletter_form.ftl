@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Din e-postadress
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = dittnamn@exempel.se
 newsletter-form-select-country-or-region = Välj land eller region
+newsletter-form-select-language = Välj språk
 newsletter-form-your-email-here = DIN E-POST HÄR
 newsletter-form-format = Format
 newsletter-form-html = HTML
