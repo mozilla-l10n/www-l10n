@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -39,21 +39,6 @@ manifesto-show-your-support = Montri vian subtenon
 manifesto-i-support-the-vision-of = Mi subtenas la projekton de @mozilla pri pli bona, pli sana interreto. Ĉu vi akompanas min?
 manifesto-share-on-twitter = Dividi en { -brand-name-twitter }
 manifesto-our-10-principles = <strong>Niaj 10</strong> principoj
-manifesto-use-open-badges-to-share = Uzu Open Badges por diskonigi viajn kapablojn kaj interesojn
-manifesto-learn-about-open-source = Lernu pri malfermita kodo en ĵurnalismo
-manifesto-see-how-mozilla-works = Vidu kiel { -brand-name-mozilla } laboras, por ke via privateco estu antaŭ ĉio
-manifesto-read-about-developments = Legu pri disvolviĝoj pri privateco kaj sekureco de datumoj
-manifesto-learn-more-about-how-to = Pli da informo, pri kiel protekti vin en la reto
-manifesto-add-new-voices-to-open = Aldonu voĉojn al la malfermitkodaj teknikologioj
-manifesto-set-your-do-not-track = Agordu la preferon por ne esti spurita
-manifesto-learn-how-to-remix-content = Lernu kiel remiksi enhavon por krei ion novan
-manifesto-participate-in-our-governance = Partoprenu nian forumon pri registara agado
-manifesto-join-us-as-a-volunteer = Aliĝu kiel volontulo
-manifesto-learn-how-to-collaborate = Lernu kiel kunlabori rete
-manifesto-visualize-who-you-interact = Per { -brand-name-lightbeam } vidu kiu interagas kun vi en la teksaĵo
-manifesto-learn-about-creating-web = Lernu kiel kunkrei teksaĵajn rimedojn kun aliaj
-manifesto-host-or-join-a-maker-party = Gastigu <em>{ -brand-name-maker-party }</em> aŭ aliĝu al unu
-manifesto-learn-how-to-build-online = Lernu kiel disvolvi kapablojn pri reta kunlaboro
 manifesto-read-the-entire-manifesto = Legu la tutan manifeston
 manifesto-love-the-web = Ĉu vi amas la teksaĵon?
 manifesto-details-the-mozilla-manifesto = La manifesto de { -brand-name-mozilla }
@@ -88,6 +73,6 @@ manifesto-details-build-and-deliver = konstrui kaj liveri al uzantoj bonegajn pr
 manifesto-details-use-the-mozilla = uzi propraĵojn de { -brand-name-mozilla } (intelektajn propraĵojn kiel kopirajtoj kaj varmarkoj, sistemojn, monon kaj reputacion) por certi ke Interreto plu estos malfermita;
 manifesto-details-promote-models = stimuli modelojn, kiuj kreas ekonomian valoron por publika utilo; kaj
 manifesto-details-promote-the-mozilla = antaŭenigi la principojn de la Manifesto de { -brand-name-mozilla } en publikaj diskutoj kaj interne de la Interreta industrio.
-manifesto-details-some-foundation = Kelkaj agadoj de Mozilla FOundation (nuntempe la kreado, livero kaj diskonigo de produktoj por uzantoj) estas plenumitaj ĉefe de la ida kaj plene regita { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation = Kelkaj agadoj de { -brand-name-mozilla-foundation } (nuntempe la kreado, livero kaj diskonigo de produktoj por uzantoj) estas plenumitaj ĉefe de la ida kaj plene regita { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Invito
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } invitas ĉiujn, kiuj subtenas la principojn de la Manifesto de { -brand-name-mozilla }, aliĝi al ni kaj trovi novajn manierojn realigi tiun ĉi idealan Interreton.

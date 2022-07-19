@@ -28,4 +28,4 @@ password-manager-password-master = Mastro de la pasvortoj
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Ricevu vian duan nigran zonon pri sekureco per la vasta gamo de <a href="{ $addons }">aldonaĵoj</a> por administri pasvortojn. Elektu ŝatatan aŭ trovu novan surbaze de la takso de spertuloj kaj revizioj.
+password-manager-earn-your-second = Ricevu vian duan nigran zonon pri sekureco per la vasta gamo de <a href="{ $addons }">aldonaĵoj</a> de { -brand-name-firefox } por administri pasvortojn. Elektu ŝatatan aŭ trovu novan surbaze de la takso de spertuloj kaj revizioj.
