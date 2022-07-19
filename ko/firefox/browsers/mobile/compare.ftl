@@ -9,6 +9,9 @@
 mobile-compare-5-of-the-best = 최고의 모바일 브라우저 5개와 직접 비교하기
 # HTML description
 mobile-compare-who-makes-the = 누가 최고의 모바일 브라우저를 만들까요? 이를 알아보기 위해 모바일 버전의 { -brand-name-firefox }와 { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } 브라우저를 비교했습니다.
+mobile-compare-since-your-mobile = 모바일 브라우저는 어디에서나 정보의 생명선이므로 속도, 보안, 사생활 보호, 사용 편의 등이 좋은 경험의 기준이 됩니다. 그래서 어느 브라우저가 가장 최고의 모바일 브라우저일까요? 유력 후보를 함께 비교해보시고 — 어떤 브라우저가 가장 사용자의 요구에 적합한 제품인지 알아보세요.
+mobile-compare-which-mobile-browser = 어떤 모바일 브라우저가 개인정보를 잘 보호할까요?
+mobile-compare-at-a-minimum-v2 = 최소한, 자동으로 방문 기록과 검색 기록을 삭제할 수 있도록 모바일 브라우저는 “사생활 보호 모드” 혹은 그와 유사한 기능을 제공해야 합니다. 이 영역에서는, 이 페이지에서 비교한 다섯 개의 모든 브라우저가 점수를 얻네요.
 mobile-compare-features = 주요 기능
 mobile-compare-search-engine-options = 검색 엔진 옵션
 mobile-compare-text-to-speech = 텍스트 음성 변환
