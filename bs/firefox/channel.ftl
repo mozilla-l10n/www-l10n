@@ -44,7 +44,7 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Pravite, testirajte, poredajte i mnogo više sa jedinim pretraživačem napravljenim samo za programere.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } je nestabilna testna i razvojna platforma. Po zadanom, { -brand-name-developer-edition } šalje podatke Mozilli — i ponekad našim partnerima — da nam pomognu otkloniti probleme i probne ideje. <a href="{ $link }">Saznajte šta je podijeljeno</a>.
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } je nestabilna testna i razvojna platforma. Po zadanom, { -brand-name-developer-edition } šalje podatke { -brand-name-mozilla } — i ponekad našim partnerima — da nam pomognu otkloniti probleme i probne ideje. <a href="{ $link }">Saznajte šta je podijeljeno</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } automatski šalje povratne informacije { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Zavirite u vaš web pretraživač sljedeće generacije i pomozite nam da ga učinimo najboljim pretraživačem ikada: isprobajte { -brand-name-firefox-nightly }.

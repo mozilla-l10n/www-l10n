@@ -17,8 +17,8 @@ privacy-faq-we-follow-a-set-of-data-privacy = Slijedimo niz <a href="{ $link }">
 privacy-faq-we-only-collect-the-data-we = Mi samo prikupljamo podatke koje trebamo za pravljenje najboljih proizvoda.
 privacy-faq-we-put-people-in-control-of = Stavljamo ljude u kontrolu njihovih podataka i online iskustava.
 privacy-faq-we-adhere-to-no-surprises-principle = Pratimo princip “bez iznenađenja”, što znači da radimo naporno kako bismo bili sigurni da je razumjevanje { -brand-name-firefox } korisnika što bliže stvarnosti.
-privacy-faq-the-following-questions-and = Sljedeća pitanja i odgovori bi trebali da vam pomognu razumjeti šta očekivati od Mozille i { -brand-name-firefox }a:
-privacy-faq-i-use-firefox-for-almost-everything = Koristim { -brand-name-firefox } za gotovo sve na webu. Vi u Mozilli mora da znate gomilu stvari o meni, jel' da?
+privacy-faq-the-following-questions-and = Sljedeća pitanja i odgovori bi trebali da vam pomognu razumjeti šta očekivati od { -brand-name-mozilla } i { -brand-name-firefox }a:
+privacy-faq-i-use-firefox-for-almost-everything = Koristim { -brand-name-firefox } za gotovo sve na webu. Vi u { -brand-name-mozilla } mora da znate gomilu stvari o meni, jel' da?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, web browser koji radi na vašem uređaju ili kompjuteru, je vaš put do interneta. Vaš browser će upravljati sa dosta informacija o web stranicama koje posjetite, ali te informacije ostaju na vašem uređaju. { -brand-name-mozilla }, kompanija koja pravi { -brand-name-firefox }, ne prikuplja ih (osim ako to ne tražite).
 privacy-faq-really-you-dont-collect-my-browsing = Stvarno, ne prikupljate moju historiju pretraživanja?
 # Variables:
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ne prodaje 
 privacy-faq-wait-so-how-do-you-make-money = Čekaj, kako onda vi zarađujete novac?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nije prosječna organizacija. Osnovana kao zajednica projekta otvorenog koda 1998, { -brand-name-mozilla } je organizacija vođena misijom za zdraviji internet. Najvažniji prihodi { -brand-name-mozilla } korporacije su zarađeni putem partnerskih veza za { -brand-name-firefox } web pretraživanja i distribucije ponuda širom svijeta. Možete saznati više o tome kako mi stvaramo novac u našem <a href="{ $link }">godišnjem finansijskom izvještaju</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nije prosječna organizacija. Osnovana kao zajednica projekta otvorenog koda 1998, { -brand-name-mozilla } je organizacija vođena misijom za zdraviji internet. Najvažniji prihodi { -brand-name-mozilla-corporation } su zarađeni putem partnerskih veza za { -brand-name-firefox } web pretraživanja i distribucije ponuda širom svijeta. Možete saznati više o tome kako mi stvaramo novac u našem <a href="{ $link }">godišnjem finansijskom izvještaju</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Uredu, ova pitanja su bila jednostavna. Koje podatke sakupljate?
 # Variables:
@@ -47,7 +47,7 @@ privacy-faq-sort-of-in-addition-to-the-data = Na neki način. Pored opisanih pod
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = Možda ćemo prikupiti dodatne podatke u testnoj verziji za jedne od naših <a href="{ $link }">studija</a>. Na primjer, neke studije zahtjevaju nešto što zovemo “podaci o web aktivnostima”, koji mogu uključivati URL-ove i druge informacije o određenim web stranicama. Ovo nam pomaže odgovoriti na konkretna pitanja da poboljšamo { -brand-name-firefox }, na primjer, kako bolje integrisati popularne web stranice u određenim lokalizacijama.
-privacy-faq-mozillas-pre-release-versions = Mozilline testne verzije { -brand-name-firefox }a su razvojne platforme, često ažurirane sa testnim funkcijama. Mi prikupljamo više podataka u testnim verzijama nego što to činimo kasnije nakon izdavanja u cilju boljeg razumijevanja kako ove testne funkcije rade. Možete isključiti ovo prikupljanje podataka ako želite u postavkama.
+privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla } testne verzije { -brand-name-firefox }a su razvojne platforme, često ažurirane sa testnim funkcijama. Mi prikupljamo više podataka u testnim verzijama nego što to činimo kasnije nakon izdavanja u cilju boljeg razumijevanja kako ove testne funkcije rade. Možete isključiti ovo prikupljanje podataka ako želite u postavkama.
 privacy-faq-but-why-do-you-collect-any-data = Ali zašto prikupljate bilo kakve podatke uopšte?
 privacy-faq-if-we-dont-know-how-the-browser = Ako ne znamo kako browser radi ili koje funkcije ljudi koriste, ne možemo ga učiniti boljim i dostaviti sjajan proizvod kakav želite. Mi smo investirali u izgradnju alata za prikupljanje podataka i analize koji nam omogućavaju da napravimo pametne odluke o našim proizvodima dok poštujemo privatnost ljudi.
 privacy-faq-data-collection-still-bugs-me = Prikupljanje podataka i dalje me brine. Mogu li ga isključiti?
