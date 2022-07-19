@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Η διεύθυνση email σας
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Επιλέξτε χώρα ή περιοχή
+newsletter-form-select-language = Επιλογή γλώσσας
 newsletter-form-your-email-here = ΤΟ EMAIL ΣΑΣ ΕΔΩ
 newsletter-form-format = Μορφή
 newsletter-form-html = HTML

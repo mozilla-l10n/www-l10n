@@ -1,12 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Το διαδίκτυο για τους ανθρώπους, όχι για το κέρδος
 home-did-you-know-mozilla-the-maker = Το γνωρίζατε; Η { -brand-name-mozilla } — δημιουργός του { -brand-name-firefox } — μάχεται για να διατηρήσει το διαδίκτυο μια παγκόσμια δημόσια πηγή, ανοικτή και προσβάσιμη από όλους.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Ακόμη πιο γρήγορο.
 home-with-2x-the-speed-built-in = Με 2x ταχύτητα, την ενσωματωμένη προστασία απορρήτου και την υποστήριξη της { -brand-name-mozilla }, το νέο { -brand-name-firefox } αποτελεί τον καλύτερο τρόπο περιήγησης.
 home-we-make-the-internet-safer = Πιο ασφαλές, υγιές και γρήγορο διαδίκτυο για όλους.

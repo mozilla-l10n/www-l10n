@@ -15,4 +15,5 @@ developer-mdnplus-whats-included = Τι περιλαμβάνεται
 developer-mdnplus-notifications = Ειδοποιήσεις
 developer-mdnplus-collections = Συλλογές
 developer-mdnplus-mdn-offline = { -brand-name-mdn } εκτός σύνδεσης
+developer-mdnplus-mdns-entire-library-at-your = Όλη η βιβλιοθήκη του { -brand-name-mdn } στα δάχτυλά σας: χωρίς σύνδεση
 developer-mdnplus-resources-for-developers = Πόροι για προγραμματιστές, από προγραμματιστές.
