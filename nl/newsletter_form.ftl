@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Uw e-mailadres
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = uwnaam@example.com
 newsletter-form-select-country-or-region = Selecteer land of regio
+newsletter-form-select-language = Taal selecteren
 newsletter-form-your-email-here = UW E-MAILADRES
 newsletter-form-format = Opmaak
 newsletter-form-html = HTML
