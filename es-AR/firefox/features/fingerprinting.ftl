@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
@@ -30,8 +30,6 @@ features-fingerprinting-fingerprinting-is-bad = La detección de huellas dactila
 features-fingerprinting-the-practice-of = La práctica de la detección de huellas dactilares te permite ser <a { $url_tracked }> rastreado durante meses </a>, incluso cuando elimnás el almacenamiento de tu navegador o usás el modo de navegación privada, sin tener en cuenta tus claras indicaciones de que no querés ser rastreado . A pesar de un acuerdo casi completo entre <a { $url_standards }> estándares </a> <a { $url_bodies }> cuerpos </a> y <a { $url_browser }> navegador </a> <a { $url_vendors }> proveedores </a> que la detección  de huellas dactilares es <a { $url_harmful }> dañina </a>, su uso en la web <a { $url_has }> se</a> incrementó </a><a { $url_steadily }> de forma constante </a> <a { $url_increased }>  durante la última década.
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = La nueva versión del navegador { -brand-name-firefox } te protege contra la toma de huellas digitales bloqueando solicitudes de terceros de empresas conocidas por participar en el rastreo de huellas digitales. Hemos trabajado duro para habilitar esta protección de privacidad sin romper los sitios web que disfrutás visitando. (Podés leer más aquí, si querés los <a { $url_details }>detalles técnicos</a>).
-# $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
-features-fingerprinting-and-its-not = Y no es un ajuste escondido que tengas que buscar. En la nueva versión de { -brand-name-firefox }, el bloqueo de huellas digitales es la configuración estándar, predeterminada. Visita tu panel de protección de privacidad { $url_protections }>para ver cómo te están rastreando sin que lo veas y cómo { -brand-name-firefox } lo previene.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Probablemente no te gustaría que alguien rastree tus movimientos en la vida real. No hay razón para aceptarlo en línea. Si todavía no tienes { -brand-name-firefox }, <a { $url_download }>descárgalo y protégete</a> del rastreo de huellas digitales.
 features-fingerprinting-protect = Protegé tu privacidad

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -57,7 +57,7 @@ history-mozilla-also-celebrated = { -brand-name-mozilla } también celebró su 1
 history-the-community-has-shown = La comunidad demostró que las empresas comerciales pueden beneficiarse colaborando en proyectos de código abierto y que los grandes productos para usuarios finales pueden ser producidos como software de código abierto.
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
-history-more-people-than-ever-before = <Muchas más personas están usando Internet y lo están navegando <a href="{ $all }">en su propio idioma</a>.
+history-more-people-than-ever-before = Muchas más personas están usando Internet y lo están navegando <a href="{ $all }">en su propio idioma</a>.
 # Variables:
 #   $range (url) link to https://www.wikipedia.org
 #   $areas (url) link to https://creativecommons.org/
