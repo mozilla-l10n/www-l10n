@@ -39,6 +39,7 @@ navigation-mozilla-brings-virtual = { -brand-name-mozilla } færir sýndarverule
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } færir { -brand-name-firefox } í aukinn veruleika og sýndarveruleika.
 navigation-firefox-built-just-for = { -brand-name-firefox }, smíðað beinlínis fyrir forritara.
+navigation-firefox-playground = { -brand-name-firefox }-leikvöllurinn
 navigation-mozilla-open-source-support = { -brand-name-mozilla } opinn hugbúnaður (MOSS)
 navigation-mozilla-manifesto = Stefnuskrá { -brand-name-mozilla }
 navigation-menu = Valmynd

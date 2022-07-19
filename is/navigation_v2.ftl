@@ -19,9 +19,11 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } fyrir { -brand-name-ios 
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Einfalt einkavafur á farsímum.
 navigation-v2-privacy-promise = Loforð um persónuvernd
+navigation-v2-learn-how-firefox-treats = Skoðaðu hvernig { -brand-name-firefox } meðhöndlar gögnin þín af virðingu.
 navigation-v2-firefox-blog = { -brand-name-firefox } bloggið
 navigation-v2-read-about-new-firefox-features = Lestu um nýja eiginleika { -brand-name-firefox } og leiðir til að vera öruggari á netinu.
 navigation-v2-release-notes = Útgáfuupplýsingar
+navigation-v2-get-the-details-on-the = Fáðu upplýsingar um nýjustu { -brand-name-firefox } uppfærslurnar.
 navigation-v2-view-all-firefox-browsers = Skoða alla { -brand-name-firefox-browsers } vafrana
 
 ## Products menu
@@ -33,11 +35,13 @@ navigation-v2-see-if-your-email-has = Athugaðu hvort tölvupósturinn þinn haf
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Uppgötvaðu og vistaðu bestu sögurnar af veraldarvefnum.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Hjálpaðu til við að koma í veg fyrir að { -brand-name-facebook } safni gögnum um þig utan vefsvæðisins þeirra.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = Loforð um hugbúnaðinn
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (prófunarútgáfa)
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (prófunarútgáfa)
+navigation-v2-protect-your-browsers-connection = Verndaðu tengingu vafrans þíns við internetið.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Skoða allan hugbúnað
 
