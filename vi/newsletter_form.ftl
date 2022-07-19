@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Địa chỉ email của bạn
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Chọn quốc gia hoặc khu vực
+newsletter-form-select-language = Chọn ngôn ngữ
 newsletter-form-your-email-here = NHẬP EMAIL CỦA BẠN TẠI ĐÂY
 newsletter-form-format = Định dạng
 newsletter-form-html = HTML
