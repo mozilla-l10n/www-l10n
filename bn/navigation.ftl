@@ -1,20 +1,22 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } ডাউনলোড করুন
-navigation-get-a-firefox-account = একটি Firefox অ্যাকাউন্ট তৈরি করুন
+navigation-get-a-firefox-account = একটি { -brand-name-firefox-account } তৈরি করুন
 navigation-ios-support = { -brand-name-ios } সহায়তা
 navigation-android-support = { -brand-name-android } সহায়তা
-navigation-firefox-for-fire-tv = Fire টিভির জন্য { -brand-name-firefox }
-navigation-watch-videos-and-browse = আপনার { -brand-name-amazon } Fire টিভিতে ভিডিও দেখুন এবং ইন্টারনেট ব্রাউজ করুন।
+navigation-firefox-for-fire-tv = { -brand-name-fire-tv } জন্য { -brand-name-firefox }
+navigation-watch-videos-and-browse = আপনার { -brand-name-amazon } { -brand-name-fire-tv } ভিডিও দেখুন এবং ইন্টারনেট ব্রাউজ করুন।
 navigation-close-firefox-menu = { -brand-name-firefox } মেনু বন্ধ করুন
 navigation-get-the-browser-that-gives = উইন্ডোজ, { -brand-name-mac } বা লিনাক্সে আপনাকে আরও নিয়ন্ত্রণ দেয় এমন ব্রাউজারটি নিন।
 navigation-get-firefox = { -brand-name-firefox } ্ডাউনলোড করুন
 navigation-get-firefox-focus = { -brand-name-firefox-focus } ডাউনলোড করুন
 navigation-android-extensions = { -brand-name-android } এক্সটেনশন
 navigation-your-firefox-account = আপনার { -brand-name-firefox-account }
+# Outdated string
 navigation-learn-how-to-customize = জানুন কিভাবে { -brand-name-firefox } কে কাস্টোমাইজ করবেন।
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = { -brand-name-firefox }, কেবল ডেভেলপারদের জন্য নির্মিত।
 navigation-preview-the-latest-build = { -brand-name-firefox } এর সর্বশেষ বিল্ডটির পূর্বরূপ দেখুন এবং এটিকে সেরা করতে আমাদের সহায়তা করুন।
@@ -30,9 +32,11 @@ navigation-privacy = গোপনীয়তা
 navigation-about = পরিচিতি
 navigation-close-about-menu = আবাউট মেনু বন্ধ করুন
 navigation-new-features = নতুন বৈশিষ্ট্যসমূহ
+# Outdated string
 navigation-add-ons = অ্যাড-অন
 navigation-projects = প্রকল্পসমূহ
 navigation-close-projects-menu = প্রকল্প মেনু বন্ধ করুন
+# Outdated string
 navigation-web-of-things-iot = ওয়েব অফ থিংস (IoT)
 navigation-developers = ডেভেলপার
 navigation-close-developers-menu = ডেভেলপার মেনু বন্ধ করুন

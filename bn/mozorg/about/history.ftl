@@ -1,15 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla } প্রকল্পের ইতিহাস
-# Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
-#   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
-history-the-mozilla-project-was = { -brand-name-mozilla } প্রকল্প<a href="{ $coderush }">তৈরী হয়েছিল ১৯৯৮ সালে</a>নেটস্কেপ ব্রাউজার স্যুট সোর্স কোড<a href="{ $sourcerelease }">মুক্তির মধ্য দিয়ে</a>।
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
 history-within-the-first-year-new = প্রথম বছরের<a href="{ $firstyear }">মধ্যে</a>,সারা বিশ্ব থেকে নতুন কমিউনিটির সদস্যদের ইতিমধ্যে নতুন কার্যকারিতায় অবদান রেখেছিল,বিদ্যমান উন্নত বৈশিষ্ট্য এবং নিজ থেকেই ব্যবস্থাপনা ও পরিকল্পনা নিযুক্ত হয়ে ওঠে।
