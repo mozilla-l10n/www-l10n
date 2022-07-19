@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -65,7 +65,7 @@ does-firefox-use = Wužywa { -brand-name-firefox } { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
-firefoxs-default-search = { -brand-name-google } jo standardna pytnica w { -brand-name-firefox }, což groni, až móžośo web direktnje z adresowego póla pśepytaś. <a href="{ $url }">Zgóńśo wěcej wó nastajenjach pytnice a změnjanju standardnych nastajenjow.
+firefoxs-default-search = { -brand-name-google } jo standardna pytnica w { -brand-name-firefox }, což groni, až móžośo web direktnje z adresowego póla pśepytaś. <a href="{ $url }">Zgóńśo wěcej wó nastajenjach pytnice a změnjanju standardnych nastajenjow.</a>
 does-firefox-have = Ma { -brand-name-firefox } zatwarjony VPN?
 
 # Variables:
