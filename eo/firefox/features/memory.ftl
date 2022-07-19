@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Retumilo Firefox: uzu malpli da memoro, iru pli rapide
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: uzu malpli da memoro, iru pli rapide
 # HTML page description
 features-memory-is-your-computer-slow-your = Ĉu via komputilo malrapidas? Eble via retumilo uzas tro multe da memoro. Interŝanĝu ĝin tuj per { -brand-name-firefox } por iri pli rapide.
 features-memory-less-memory-usage-than-chrome = Malpli da memoruzo ol { -brand-name-chrome }

@@ -1,18 +1,19 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Retumilo Firefox: rapida kaj facila administro de pasvortoj
+password-manager-firefox-browser = { -brand-name-firefox-browser }: rapida kaj facila administro de pasvortoj
 # HTML page description
-password-manager-firefox-password = La administranto de pasvortoj konservas ĉiujn viajn pasvortojn en unu loko, tiel ke vi povas aŭtomate komenci seancojn en retejoj, aŭ repreni konservitajn pasvortojn.
+password-manager-firefox-password = La { -brand-name-firefox } administranto de pasvortoj konservas ĉiujn viajn pasvortojn en unu loko, tiel ke vi povas aŭtomate komenci seancojn en retejoj, aŭ repreni konservitajn pasvortojn.
 # Hero title
 password-manager-password-manager = Administranto de pasvortoj: defio superita!
 password-manager-give-up-the-memory = Liberigu vian memoron per la administranto de pasvortoj de { -brand-name-firefox }.
 password-manager-password-hero = Heroo de la pasvortoj
+# Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Ne plu petu novan pasvorton. La administranto de pasvortoj de { -brand-name-firefox } gardas ĉiujn viajn pasvortojn, tiel ke vi povas aŭtomate komenci seancojn, aŭ facile retrovi pasvortojn. Por supera sekureco, donu al via komputilo <a href="{ $url }">ĉefan pasvortojn</a>.

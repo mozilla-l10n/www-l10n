@@ -11,14 +11,14 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Bone
 facebook-container-get-the-facebook-container = Elŝuti la etendaĵon { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Elŝutu { -brand-name-firefox } kaj ricevu la etendaĵon por la { -brand-name-facebook-container }
 # Outdated string
-facebook-container-the-facebook-container-extension = La etendaĵo por la ingo de Facebook ne estas disponebla por poŝaparatoj.
+facebook-container-the-facebook-container-extension = La etendaĵo por la { -brand-name-facebook-container } ne estas disponebla por poŝaparatoj.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Provi <strong>{ -brand-name-firefox-focus }</strong>, la privateca retumilo por { -brand-name-android } kaj { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Vi rajtas diri ne
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } povas spuri preskaŭ vian tutan retumon kaj ligi ĝin kun via idento en { -brand-name-facebook }. Se tio estas tro por vi, la <a href="{ $fbcontainer }">etendaĵo por la ingo de { -brand-name-facebook }</a> izolas vian identon en aparta inga langeto, kio malfaciligas al { -brand-name-facebook } la spuradon en la reto, ekster { -brand-name-facebook }.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } povas spuri preskaŭ vian tutan retumon kaj ligi ĝin kun via idento en { -brand-name-facebook }. Se tio estas tro por vi, la <a href="{ $fbcontainer }">etendaĵo por la { -brand-name-facebook-container }</a> izolas vian identon en aparta inga langeto, kio malfaciligas al { -brand-name-facebook } la spuradon en la reto, ekster { -brand-name-facebook }.
 facebook-container-install-and-contain = Instali kaj bari
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
