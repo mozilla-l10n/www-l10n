@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox ব্রাউজার: কম মেমরি ব্যবহার করে, আরও বেশি দ্রুতগতির
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: কম মেমরি ব্যবহার করে, আরও বেশি দ্রুতগতির
 # HTML page description
 features-memory-is-your-computer-slow-your = আপনার কম্পিউটার ধীরগতির? আপনার ব্রাউজার সম্ভবত খুব বেশি মেমরি ব্যবহার করছে। আরও বেশি গতির জন্য আজই { -brand-name-firefox } এ বদল হোন।
 features-memory-less-memory-usage-than-chrome = { -brand-name-chrome } এর চেয়ে মেমরির কম ব্যবহার

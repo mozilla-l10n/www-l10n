@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -36,7 +36,7 @@ firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } এক�
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } স্বয়ংক্রিয়ভাবেই { -brand-name-mozilla } কে ফিডব্যাক পাঠিয়ে দেয়।
 firefox-channel-try-new-browser-features = প্রি-রিলিজ সংস্করণে ব্রাউজারের নতুন বৈশিষ্ট্যগুলো পরখ করুন | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = প্রি-রিলিজ সংস্করণে নতুন ও উন্নত ব্রাউজার বৈশিষ্ট্যগুলো উপভোগ করুন: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } এবং { -brand-name-firefox-nightly }। এখনই ডাউনলোড করুন!
-firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, { -brand-name-beta } এবং { -brand-name-nightly } বিল্ডসমূহে, ডেস্কটপ Firerox ডাউনলোড করে, নতুন ফিচারসমূহ পরখ করুন।
+firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, { -brand-name-beta } এবং { -brand-name-nightly } বিল্ডসমূহে, ডেস্কটপ { -brand-name-firefox } ডাউনলোড করে, নতুন ফিচারসমূহ পরখ করুন।
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = স্থিতিশীল প্রাক-রিলিজ বিল্ডে শীঘ্রই আসিতেছে এমন ফিচারসমূহ পরখ করুন।
 firefox-channel-release-notes = রিলিজ নোট
@@ -45,7 +45,7 @@ firefox-channel-build-test-scale-and-more = বিল্ড, পরখ, সম�
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } একটি পরিবর্তনশীল পরীক্ষামূলক ও ডেভলপমেন্ট প্লাটফর্ম। সমস্যা মোকাবেলায় এবং নতুন ধারণাগুলো পরীক্ষা করতে — পূর্বনির্ধারিতভাবে, বেটা { -brand-name-mozilla } — ও অনেক ক্ষেত্রে অংশীদারদের কাছে তথ্য প্রেরণ করে। <a href="{ $link }">জানুন কি পাঠানো হয়</a>।
-firefox-channel-firefox-developer-edition = Firefox ডেভেলপার সংস্করণ স্বয়ংক্রিয়ভাবেই { -brand-name-mozilla } কে ফিডব্যাক পাঠিয়ে দেয়।
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } স্বয়ংক্রিয়ভাবেই { -brand-name-mozilla } কে ফিডব্যাক পাঠিয়ে দেয়।
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = আমাদের পরবর্তী প্রজন্মের ওয়েব ব্রাউজারে উঁকি দিন এবং আমাদেরকে সাহায্য করুন এটাকে সেরা ব্রাউজার বানাতেঃ { -brand-name-firefox-nightly } ব্যাবহার করে দেখুন।
 firefox-channel-test-brand-new-features = আনকোড়া নতুন ফিচার পরখ করুন প্রতিদিন। নিজ দায়িত্বে ব্যবহার করুন।

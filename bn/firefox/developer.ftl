@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
@@ -52,6 +52,7 @@ firefox-developer-learn-more-about-style = স্টাইল এডিটর �
 firefox-developer-new-tools = নতুন টুল
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = মাস্টার CSS গ্রিড
+# outdated
 firefox-developer-next-gen-css-engine = পরবর্তী-প্রজন্মের CSS ইঞ্জিন
 firefox-developer-a-next-generation = একটি পরবর্তী প্রজন্মের CSS ইঞ্জিন
 firefox-developer-master-innovative-features = উদ্ভাবনী বৈশিষ্ট্য
@@ -60,6 +61,6 @@ firefox-developer-faster-performance = দ্রুততর সম্পাদ�
 firefox-developer-shapes-editor = আকৃতি সম্পাদক
 firefox-developer-faster-innovation = দ্রুততর তথ্য
 firefox-developer-fonts-panel = ফন্ট প্যানেল
-firefox-developer-firefox-developer-edition-sends = Firefox ডেভেলপার সংস্করণ স্বয়ংক্রিয়ভাবেই { -brand-name-mozilla } কে ফিডব্যাক পাঠিয়ে দেয়।
+firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } স্বয়ংক্রিয়ভাবেই { -brand-name-mozilla } কে ফিডব্যাক পাঠিয়ে দেয়।
 firefox-developer-download-the-firefox-browser = ডেভেলপারদের জন্য তৈরি { -brand-name-firefox } ব্রাউজার ডাউনলোড করুন
 firefox-developer-congrats-you-now-have-firefox = অভিনন্দন। আপনার এখন { -brand-name-firefox-quantum }: { -brand-name-developer-edition } রয়েছে।

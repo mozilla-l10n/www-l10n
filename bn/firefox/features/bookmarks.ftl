@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox ব্রাউজার: যেখানেই ব্যবহার করুন পাবেন উন্নতর বুকমার্ক
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: যেখানেই ব্যবহার করুন পাবেন উন্নতর বুকমার্ক
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = সহজে আপনার বুকমার্ক সমূহকে ফোল্ডার এ সাজান এবং এদেরকে আপনার সকল ডিভাইস থেকে প্রবেশ করুন, ডেক্সটপ কিংবা মোবাইল থেকে।
 features-bookmarks-better-bookmarks = আরও ভাল বুকমার্ক
