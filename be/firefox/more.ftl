@@ -47,6 +47,7 @@ comparing-firefox-brave = Параўнанне { -brand-name-firefox-browser } �
 be-bold-and = Будзьце смелымі і адважнымі, выбіраючы браўзер, які падыходзіць менавіта вам.
 comparing-firefox-edge = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-edge }
 comparing-firefox-ie = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-ie }
+old-habits-that = Старыя звычкі цяжка перамагчы, але вы адчуеце сябе лепей, калі зробіце гэта.
 comparing-firefox-safari = Параўнанне { -brand-name-firefox-browser } з { -brand-name-apple } { -brand-name-safari }
 comparing-firefox-opera = Параўнанне { -brand-name-firefox-browser } з { -brand-name-opera }
 be-free-to = Будзьце вольныя спяваць дыфірамбы { -brand-name-firefox }, калі хочаце.
