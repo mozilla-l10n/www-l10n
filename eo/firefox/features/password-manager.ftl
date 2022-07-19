@@ -20,7 +20,7 @@ password-manager-forget-the-reset = Ne plu petu novan pasvorton. La administrant
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ninĵo de la pasvortoj
-password-manager-no-more-try-again = Ne plu ricevu “provu denove” pro malĝusta pasvorto. Komencu seancon per kia konto de Firefox en via telefojo kaj viaj pasvortoj akompanas vin. Viaj legitimiloj simple aperos, magie.
+password-manager-no-more-try-again = Ne plu ricevu “provu denove” pro malĝusta pasvorto. Komencu seancon per kia { -brand-name-firefox-account } en via telefojo kaj viaj pasvortoj akompanas vin. Viaj legitimiloj simple aperos, magie.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Mastro de la pasvortoj
