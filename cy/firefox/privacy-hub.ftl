@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -30,7 +30,7 @@ firefox-privacy-hub-youll-always-know-where-you = Byddwch bob amser yn gwybod bl
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
-firefox-privacy-hub-theres-no-hidden-agenda-here = Does dim agenda gudd yma. Nid yw ein busnes yn dibynnu ar gamddefnyddio eich ymddiriedolaeth yn gyfrinachol. Mae ein <a href="{ $privacy }">Hysbysiad Preifatrwydd</a> yn ddarllenadwy! Gall unrhyw un yn y byd fynychu ein cyfarfodydd cwmni wythnosol <a href="{ $meetings }">. Os ydych chi am fynd ar ôl pob pwynt data rydym yn ei gasglu, mae ein cod ar agor. Ac felly ninnau hefyd.
+firefox-privacy-hub-theres-no-hidden-agenda-here = Does dim agenda gudd yma. Nid yw ein busnes yn dibynnu ar gamddefnyddio eich ymddiriedolaeth yn gyfrinachol. Mae ein <a href="{ $privacy }">Hysbysiad Preifatrwydd</a> yn ddarllenadwy! Gall unrhyw un yn y byd fynychu ein cyfarfodydd <a href="{ $meetings }">cwmni wythnosol </a>. Os ydych chi am fynd ar ôl pob pwynt data rydym yn ei gasglu, mae ein cod ar agor. Ac felly ninnau hefyd.
 firefox-privacy-hub-why-trust-firefox = Pam ymddiried yn { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
