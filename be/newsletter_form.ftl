@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Ваш электронны адрас
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Выберыце краіну або рэгіён
+newsletter-form-select-language = Абраць мову
 newsletter-form-your-email-here = Адрас вашай э-пошты тут
 newsletter-form-format = Фармат
 newsletter-form-html = HTML

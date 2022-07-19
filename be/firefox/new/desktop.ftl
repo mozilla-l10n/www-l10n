@@ -149,8 +149,8 @@ firefox-desktop-download-youve-already-got-the-browser = У вас ужо ёсц
 firefox-desktop-download-watch-for-hackers-with-v2 = Сачыце за хакерамі з дапамогай { -brand-name-firefox-monitor }, абараняйце свой адрас электроннай пошты з { -brand-name-firefox-relay } і многае іншае.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Сачыце за хакерамі з дапамогай { -brand-name-firefox-monitor }, абараніце паролі з { -brand-name-firefox-lockwise } і многае іншае.
-firefox-desktop-download-get-more-from-firefox = Атрымайце больш ад { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Проста сцягніце браўзер
+firefox-desktop-download-get-more-from-firefox = Атрымаць больш ад { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Проста сцягнуць браўзер
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
