@@ -54,6 +54,7 @@ the-ad-blocker = Блакавальнік рэкламы – сакрэтная 
 so-many-ads = Так шмат рэкламы, так мала цярпення… Прыйшоў час спыніць вар'яцтва.
 firefox-more-protection = { -brand-name-firefox }: Больш абароны. Менш хвалявання.
 were-obsessed-with = Мы апантаны аховай вашай прыватнасці. Таму мы зрабілі прыватны рэжым у { -brand-name-firefox } больш функцыянальным, чым у іншых.
+incognito-browser-what = Браўзер у рэжыме інкогніта: што гэта сапраўды азначае
 firefox-more-fingerprinter-blocking = Блакаванне збору лічбавых адбіткаў
 firefox-more-translate-the-web = Перакладайце сеціва
 firefox-more-translate-more-than = Перакладайце з больш за 100 моў на вашу мову непасрэдна ў вашым { -brand-name-firefox-browser } — прасцей, чым калі-небудзь.
