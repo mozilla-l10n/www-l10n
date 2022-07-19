@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+# HTML page title
+mobile-compare-5-of-the-best = 최고의 모바일 브라우저 5개와 직접 비교하기
+# HTML description
+mobile-compare-who-makes-the = 누가 최고의 모바일 브라우저를 만들까요? 이를 알아보기 위해 모바일 버전의 { -brand-name-firefox }와 { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } 브라우저를 비교했습니다.
 mobile-compare-features = 주요 기능
 mobile-compare-search-engine-options = 검색 엔진 옵션
 mobile-compare-text-to-speech = 텍스트 음성 변환
