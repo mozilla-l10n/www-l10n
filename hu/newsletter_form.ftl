@@ -8,6 +8,7 @@ newsletter-form-your-email-address = E-mail cím
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = email@example.com
 newsletter-form-select-country-or-region = Válasszon országot vagy régiót
+newsletter-form-select-language = Válasszon nyelvet
 newsletter-form-your-email-here = SAJÁT E-MAIL CÍM
 newsletter-form-format = Formátum
 newsletter-form-html = HTML

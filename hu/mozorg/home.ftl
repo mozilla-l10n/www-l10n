@@ -1,12 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet az emberekért, nem a haszonért
 home-did-you-know-mozilla-the-maker = Tudta? A { -brand-name-mozilla } – a { -brand-name-firefox } készítője – azért harcol, hogy az internet megmaradjon globális közösségi erőforrásnak, és mindenki számára elérhetőnek.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Gyors, a jó célért.
 home-with-2x-the-speed-built-in = A kétszeres sebességével, beépített adatvédelmével, és a { -brand-name-mozilla(ending: "accented") }val a háta mögött, az új { -brand-name-firefox } a böngészés jobb módja.
 home-we-make-the-internet-safer = Az internetet biztonságosabbá, egészségesebbé és gyorsabbá tesszük.
