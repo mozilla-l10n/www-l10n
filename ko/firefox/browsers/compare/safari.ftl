@@ -61,7 +61,7 @@ compare-safari-firefox-also-offers-a-similar = { -brand-name-firefox }는 <a { $
 #   $ios (string) - link to Apple store with additional attributes for analytics
 #   $android (string) - link to Google Play store with additional attributes for analytics
 compare-safari-the-firefox-app-for-ios-and = <a { $ios }> { -brand-name-ios } </a> 및 <a { $android }> { -brand-name-android } </a> 용 { -brand-name-firefox } 앱 는 가장 빠른 브라우저 중 하나이며 견고한 보안 및 추적 방지 기능을 갖추고 있습니다. 데스크톱, 노트북과 모바일 기기 모두에서 데이터 동기화로 손쉽게 사용 가능합니다.
-compare-safari-since-safari-is-apples-proprietary = { -brand-name-safari }는 { -brand-name-apple }의 독점 웹 브라우저이므로 iCloud 동기화는 { -brand-name-apple } 제품에서만 작동합니다. 예를 들어, { -brand-name-android } 사용자이고 { -brand-name-iphone } 사용자이거나 { -brand-name-windows } 기반 PC를 사용하는 경우 다소 제한적일 수 있습니다. 업무용이지만 { -brand-name-iphone }을 개인 기기로 사용하세요.
+compare-safari-since-safari-is-apples-proprietary = { -brand-name-safari }는 { -brand-name-apple }의 독점 웹 브라우저이므로 iCloud 동기화는 { -brand-name-apple } 제품에서만 작동합니다. 예를 들어, { -brand-name-android } 사용자와 { -brand-name-iphone } 사용자를 겸하거나 업무용으로는 { -brand-name-windows } 기반 PC를 사용하지만 개인 기기로는 { -brand-name-iphone }을 사용하는 경우에 다소 제한적일 수 있습니다.
 # Variables:
 #   $attrs (string) - link to blog post with additional attributes for analytics
 compare-safari-safari-does-a-great-job-of = { -brand-name-safari }는 여러 { -brand-name-apple } 제품을 보유한 { -brand-name-apple } 사용자의 경우 탐색 환경을 간단하고 빠르며 원활하게 만드는 데 효과적입니다. { -brand-name-safari }와 마찬가지로 { -brand-name-firefox }는 빠르고 실용적인 브라우저이지만 개인 정보 보호 및 다양한 플랫폼 호환성을 제공합니다. { -brand-name-firefox }는 매달 새로운 버전으로 업데이트됩니다. 예를 들어, 새로운 사용자를 위해 기본적으로 <a { $attrs }> 향상된 추적 보호 (ETP) </a>를 활성화 한 최근 업데이트 중 하나가 쿠키 및 교차 사이트 추적기를 효과적으로 차단합니다.
