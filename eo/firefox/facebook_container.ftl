@@ -9,7 +9,7 @@ facebook-container-facebook-container-for-firefox = { -brand-name-facebook-conta
 facebook-container-millions-of-people-around = Milionoj da personoj ĉirkaŭ la mondo fidas la retumilojn { -brand-name-firefox } en { -brand-name-android }, { -brand-name-ios } kaj komputiloj. Rapida. Privata. Elŝutu nun!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Bone barita. Gardu la ceteron de via vivo privata.
 facebook-container-get-the-facebook-container = Elŝuti la etendaĵon { -brand-name-facebook-container }
-facebook-container-download-firefox-and-get-the = Elŝutu { -brand-name-firefox } kaj ricevu la etendaĵon por la ingo de Facebook
+facebook-container-download-firefox-and-get-the = Elŝutu { -brand-name-firefox } kaj ricevu la etendaĵon por la { -brand-name-facebook-container }
 # Outdated string
 facebook-container-the-facebook-container-extension = La etendaĵo por la ingo de Facebook ne estas disponebla por poŝaparatoj.
 # Outdated string
