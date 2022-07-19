@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox pretraživač: koristite manje memorije, dobijte više brzine
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: koristite manje memorije, dobijte više brzine
 # HTML page description
 features-memory-is-your-computer-slow-your = Je li vaš računar spor? Vaš pretraživač možda koristi previše memorije. Prebacite se na { -brand-name-firefox } danas za više brzine.
 features-memory-less-memory-usage-than-chrome = Manje korištenje memorije nego u { -brand-name-chrome }-u

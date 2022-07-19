@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -8,11 +8,11 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = Postoji način da zaštitite svoju privatnost. Pridružite se { -brand-name-firefox }u.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Nabavite Firefox račun - čuvajte svoje podatke privatnim, sigurnim i sinhronizovanim
+firefox-accounts-get-a-firefox-account = Nabavite { -brand-name-firefox-account } - čuvajte svoje podatke privatnim, sigurnim i sinhronizovanim
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Zauzmite stav protiv industrije koja prodaje vaše podatke trećim stranama. Ostanite pametni i sigurni na mreži s tehnologijom koja se bori za vas.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Sigurno sinhronizujte svoje lozinke, zabilješke i tabove na svim svojim uređajima. Napravite Firefox račun – Jedna prijava – Snaga i privatnost svuda.
+firefox-accounts-securely-sync-your = Sigurno sinhronizujte svoje lozinke, zabilješke i tabove na svim svojim uređajima. Napravite { -brand-name-firefox-account } – Jedna prijava – Snaga i privatnost svuda.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = Postoji način da zaštitite svoju privatnost. <span>Pridružite se { -brand-name-firefox }u.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.

@@ -1,18 +1,19 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox pretraživač: brz, jednostavan upravitelj lozinki
+password-manager-firefox-browser = { -brand-name-firefox-browser }: brz, jednostavan upravitelj lozinki
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox } upravitelj lozinki sčuva sve vaše lozinke na jednom mjestu tako da se možete automatski prijaviti na stranice, ili povratiti sačuvane lozinke.
 # Hero title
 password-manager-password-manager = Upravitelj lozinki: dostignuće otključano
 password-manager-give-up-the-memory = Prepustite igru memorije { -brand-name-firefox } upravitelju lozinki.
 password-manager-password-hero = Heroj lozinke
+# Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Zaboravite reset. { -brand-name-firefox } upravitelj lozinki čuva sve vaše lozinke tako da se možete prijaviti automatski, ili jednostavno pronaći sačuvane lozinke. Za super sigurnost, prepustite vaš računar <a href="{ $url }">majstoru lozinki</a>.

@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox pretraživač: Bolje zabilješke gdje god idete
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Bolje zabilješke gdje god idete
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Jednostavno organizujte vaše zabilješke u folderu i pristupite im putem svih uređaja, od dektopa do mobilnih uređaja.
 features-bookmarks-better-bookmarks = Bolje zabilješke

@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
 
 # HTML Page title
-about-learn-about-mozilla = Saznajte više o Mozilli
+about-learn-about-mozilla = Saznajte više o { -brand-name-mozilla }
 # HTML page description
 about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } kreira browsere, aplikacije, kodove i alate koji ljude stavljaju ispred profita. Naša misija: Držite internet otvorenim i pristupačnim svima.
 # Main heading
@@ -41,7 +41,7 @@ about-500-annual-attendees-to-the = <strong>500</strong> godišnjih učesnika na
 about-toronto = Toronto
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = Svake godine potrošimo <strong>800</strong> flaša hladne kahve.
-about-work-at-mozilla = Radite za Mozillu
+about-work-at-mozilla = Radite za { -brand-name-mozilla }
 about-join-a-mission-driven-organization = Pridružite se organizaciji zasnovanoj na misiji koja kreira namjenske proizvode.
 about-mozilla-careers = { -brand-name-mozilla } karijere
 about-how-you-can-help = Kako možete pomoći

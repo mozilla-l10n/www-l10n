@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je veoma brz pretraživač koji nudi najnovije alate za razvoj i najnovije mogućnosti kao što su podrška za CSS mrežu i okvirno otklanjanje grešaka
@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Pomozite nam kreirati posljednji nezavis
 firefox-developer-start-now = Počnite sada
 firefox-developer-design-code-test = Dizajnirajte. Kodirajte. Testirajte. Precizirajte.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Izgradite i usavršite vaše stranice<br> s Firefox razvojnim alatima
+firefox-developer-build-and-perfect = Izgradite i usavršite vaše stranice<br> s { -brand-name-firefox-devtools }
 firefox-developer-inspector = Inspektor
 firefox-developer-inspect-and-refine = Pregledajte i refinirajte kod kako biste dobili savršene rasporede.
 firefox-developer-learn-about-page-inspector = Saznajte više o Inspektoru stranice
@@ -52,9 +52,10 @@ firefox-developer-style-editor = Uređivač stilova
 firefox-developer-edit-and-manage = Uređujte i upravljajte svim svojim CSS stilskim šablonima u vašem pretraživaču.
 firefox-developer-learn-more-about-style = Saznajte više o Uređivaču stilova
 firefox-developer-new-tools = Novi alati
-firefox-developer-firefox-devtools = Firefox razvojni alati
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Novi Firefox razvojni alati su moćni, fleksibilni i prilagodljivi. Ovo uključuje najbolji JavaScript otklanjač grešaka, koji može upravljati s više pretraživača i razvijen je u React-u i Redux-u.
 firefox-developer-master-css-grid = Ovladajte CSS mrežom
+# outdated
 firefox-developer-next-gen-css-engine = CSS motor nove generacije
 firefox-developer-a-next-generation = CSS motor nove generacije
 firefox-developer-master-innovative-features = Inovativne mogućnosti
@@ -65,12 +66,12 @@ firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } je jedin
 firefox-developer-convenient-features = Korisne mogućnosti
 firefox-developer-faster-performance = Veća efikasnost
 firefox-developer-shapes-editor = Urednik oblika
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = Firefoxovi razvojni alati su opremljeni potpuno novim uređivačem oblika, koji uz intuitivno vizualno uređivanje štedi nagađanja o usavršavanju oblika "shape-outside" in "clip-path".
-firefox-developer-firefox-devtools-has-a-brand-new = Firefoxovi razvojni alati su opremljeni potpuno novim uređivačem oblika, koji uz intuitivno vizualno uređivanje štedi nagađanja o usavršavanju oblika "shadow-outside" in "clip-path".
+firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } su opremljeni potpuno novim uređivačem oblika, koji uz intuitivno vizualno uređivanje štedi nagađanja o usavršavanju oblika "shape-outside" in "clip-path".
+firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } su opremljeni potpuno novim uređivačem oblika, koji uz intuitivno vizualno uređivanje štedi nagađanja o usavršavanju oblika "shadow-outside" in "clip-path".
 firefox-developer-faster-innovation = Brže informacije
 firefox-developer-fonts-panel = Panel za fontove
 firefox-developer-the-new-fonts-panel = Novi panel za fontove u programu { -brand-name-firefox-devtools } daje razvojnim inženjerima brz pristup svim informacijama koje su im potrebne o korištenju fontova u elementu. Ona takođe uključuje vrijedne informacije kao što su izvor fonta, težina, stil i još mnogo toga.
-firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatski šalje povratnu informaciju Mozilli.
+firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatski šalje povratnu informaciju { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Preuzmite { -brand-name-firefox } pretraživač napravljen za programere
 firefox-developer-welcome-to-the-all-new = Dobrodošli u potpuno novi { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je izgrađen iznova da bi bio brži, uglađeniji i moćniji nego ikad.
