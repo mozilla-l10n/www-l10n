@@ -1,16 +1,16 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-mozillas-data-privacy-faq = Mozillina pitanja o privatnosti podataka
-privacy-faq-at-mozilla-we-respect-and-protect-desc = U Mozilli mi poštujemo i štitimo vaše lične informacije.
+privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla } pitanja o privatnosti podataka
+privacy-faq-at-mozilla-we-respect-and-protect-desc = U { -brand-name-mozilla } mi poštujemo i štitimo vaše lične informacije.
 privacy-faq-we-stand-for-people-over-profit = Stojimo u ljude iznad profita.
 privacy-faq-it-can-be-tricky-for-people = Može biti neobično za ljude da znaju šta očekivati od bilo kojeg softvera ili usluga koje koriste danas. Tehnologija koja pokreće naše živote je kompleksna i ljudi nemaju vremena da je istraže u detalje. To je još uvijek istinito za { -brand-name-firefox }, gdje smatramo da ljudi imaju mnogo različitih ideja o tome šta se dešava pod okriljem njihovog browsera.
-privacy-faq-at-mozilla-we-respect-and-protect = U Mozilli, mi poštujemo i štitimo vaše lične informacije:
+privacy-faq-at-mozilla-we-respect-and-protect = U { -brand-name-mozilla }, mi poštujemo i štitimo vaše lične informacije:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Slijedimo niz <a href="{ $link }">Načela privatnosti podataka</a> koji oblikuju naš prustup privatnosti u { -brand-name-firefox } desktop i mobilnim browserima.

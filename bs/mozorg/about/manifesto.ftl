@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -54,31 +54,6 @@ manifesto-an-internet-with-these = Internet sa ovim kvalitetima neće oživjeti 
 manifesto-i-support-the-vision-of = Podržavam viziju boljeg, zdravijeg interneta od @mozilla, hoćeš mi se pridružiti?
 manifesto-share-on-twitter = Podijelite na { -brand-name-twitter }u
 manifesto-our-10-principles = <strong>Naših 10</strong> Načela
-manifesto-use-open-badges-to-share = Koristite otvorene značke da dijelite svoje vještine i interese
-manifesto-explore-how-the-web-impacts = Istražite kakav uticaj na nauku ima internet
-manifesto-learn-about-open-source = Učite o izvornom kodu u novinarstvu
-manifesto-read-about-open-internet = Pročitajte o otvorenim inicijativama internet politike i razvoju interneta
-manifesto-explore-how-to-help-keep = Istražite kako pomoći zadržati web otvorenim
-manifesto-see-how-the-web-can-connect = Pogledajte kako web može da poveže svijet sa zdravstvom
-manifesto-explore-how-the-web-works = Otkrijte kako internet radi
-manifesto-see-how-mozilla-works = Pogledajte kako { -brand-name-mozilla } radi da postavi vašu privatnost na prvo mjesto
-manifesto-read-about-developments = Čitajte o razvoju u privatnosti i bezbjednosti podataka
-manifesto-learn-more-about-how-to = Saznajte više kako da se zaštitite online
-manifesto-use-these-free-tools-to = Koristite ove besplatne stvari za učenje na internetu
-manifesto-learn-about-creating-and = Saznajte više o stvaranju i kuriranju sadržaja za web
-manifesto-add-new-voices-to-open = Dodajte nove glasove u tehnologije otvorenog izvora
-manifesto-set-your-do-not-track = Postavite svoje Nemoj me pratiti preferencije
-manifesto-understand-the-web-ecosystem = Razumite internet ekosistem
-manifesto-explore-how-open-practices = Istražite kako primjenjivanje otvorenosti održava web dostupnim
-manifesto-learn-how-to-remix-content = Saznajte kako da remix sadržaj stvori nešto novo
-manifesto-learn-how-to-maximize = Saznajte kako maksimizirati interaktivni potencijal weba
-manifesto-participate-in-our-governance = Učestvujte u našem upravljanju forumom
-manifesto-join-us-as-a-volunteer = Pridružite nam se kao volonter
-manifesto-learn-how-to-collaborate = Saznajte kako surađivati na mreži
-manifesto-visualize-who-you-interact = Vizualizirajte sa kime ste u interakciji na webu s { -brand-name-lightbeam }om
-manifesto-learn-about-creating-web = Saznajte više o stvaranju web resursa sa drugima
-manifesto-host-or-join-a-maker-party = Ugostite ili se pridružite { -brand-name-maker-party }-u
-manifesto-learn-how-to-build-online = Saznajte kako izgraditi vještine za suradnju na mreži
 manifesto-read-the-entire-manifesto = Pročitajte cijeli manifest
 manifesto-love-the-web = Volite web?
 manifesto-get-the-mozilla-newsletter = Preuzmite { -brand-name-mozilla } bilten i pomozite nam ga zadržati otvorenim i besplatnim.
@@ -107,13 +82,13 @@ manifesto-details-commercial-involvement = Poslovno učešće u razvoju internet
 manifesto-details-magnifying-the = Povećanje aspekta javnog interesa interneta je važan cilj, vrijedan vremena, pažnje i posvećenosti.
 manifesto-details-advancing-the = Unapređenje { -brand-name-mozilla } Manifesto-a
 manifesto-details-there-are-many = Postoji mnogo različitih načina unapređenja načela { -brand-name-mozilla } Mainfesta. Pozdravljamo širok spektar aktivnosti, i predviđanja iste kreativnosti koju su { -brand-name-mozilla } učesnici pokazali u drugim područjima projekta. Za pojedince koji nisu dublje uključeni u { -brand-name-mozilla } projekt, jedan jednostavan i vrlo efektivan način za podršku Manifestu je da koriste { -brand-name-mozilla } { -brand-name-firefox } i druge proizvode koji utjelovljuju načela Manifesta.
-manifesto-details-mozilla-foundation = Zalog Mozilla fondacije
+manifesto-details-mozilla-foundation = Zalog { -brand-name-mozilla-foundation }
 manifesto-details-the-mozilla-foundation-pleges = Zalozi { -brand-name-mozilla } fondacije za podršku { -brand-name-mozilla } Manifestu u njegovim aktivnostima. Konkretno, mi ćemo:
 manifesto-details-build-and-enable = izgraditi i omogućiti otvorene tehnologije i zajednice koje podržavaju načela Manifesta;
 manifesto-details-build-and-deliver = izgraditi i dopremiti odlične potrošačke proizvode koji podržavaju načela Manifesta;
 manifesto-details-use-the-mozilla = Koristiti { -brand-name-mozilla } sredstva (intelektualno vlasništvo kao što su autorska prava, zaštitni znakovi, infrastruktura, fondovi, i ugled) da zadržimo internet otvorenom platformom;
 manifesto-details-promote-models = promovisati modele za stvaranje ekonomske vrijednosti za javno dobro; i
 manifesto-details-promote-the-mozilla = promovisati načela { -brand-name-mozilla } Manifesta u javnim predavanjima i unutar internet industrije.
-manifesto-details-some-foundation = Neke aktivnosti Fondacije—trenutno stvaranje, isporuka i promocija potrošačkih proizvoda—se provode prvenstveno putem podružnica u potpunom vlasništvu Mozilla fondacije, Mozilla korporacije.
+manifesto-details-some-foundation = Neke aktivnosti Fondacije—trenutno stvaranje, isporuka i promocija potrošačkih proizvoda—se provode prvenstveno putem podružnica u potpunom vlasništvu { -brand-name-mozilla-foundation }, { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Pozivnica
-manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla } fondacije poziva sve druge koji podržavaju načela { -brand-name-mozilla } Manifesta da nam se pridruže, i pronađu nove načine da napravimo ovu viziju interneta realnom.
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }poziva sve druge koji podržavaju načela { -brand-name-mozilla } Manifesta da nam se pridruže, i pronađu nove načine da napravimo ovu viziju interneta realnom.

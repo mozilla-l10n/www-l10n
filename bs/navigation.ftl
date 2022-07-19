@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Preuzmite { -brand-name-firefox }
-navigation-get-a-firefox-account = Napravite Firefox račun
+navigation-get-a-firefox-account = Napravite { -brand-name-firefox-account }
 navigation-ios-support = { -brand-name-ios } podrška
 navigation-android-support = { -brand-name-android } podrška
 navigation-firefox-for-fire-tv = { -brand-name-firefox } za { -brand-name-fire-tv }
@@ -14,12 +14,17 @@ navigation-take-firefox-and-firefox = Uzmite { -brand-name-firefox } i { -brand-
 navigation-get-firefox = Preuzmite { -brand-name-firefox }
 navigation-get-firefox-focus = Preuzmite { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android } ekstenzije
-navigation-your-firefox-account = Vaš Firefox račun
+navigation-your-firefox-account = Vaš { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Iskoristite maksimalno iskustvo { -brand-name-firefox }a na svakom uređaju.
+# Outdated string
 navigation-learn-how-to-customize = Saznajte kako da prilagodite način rada { -brand-name-firefox }a.
+# Outdated string
 navigation-experience-augmented = Iskustvo proširene i virtualne stvarnosti s { -brand-name-firefox }om.
+# Outdated string
 navigation-meet-people-in-experimental = Upoznajte ljude u eksperimentalnim chat sobama sa { -brand-name-firefox }om.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } donosi { -brand-name-firefox } u proširenu i virtualnu stvarnost.
 navigation-firefox-built-just-for = { -brand-name-firefox }, napravljen samo za programere.
 navigation-preview-the-latest-build = Pregledajte najnoviju verziju { -brand-name-firefox }a i pomozite nam da ga učinimo najboljim.
@@ -38,11 +43,14 @@ navigation-meet-the-technology-company = Upoznajte tehnološku kompaniju koja lj
 navigation-new-features = Novosti
 navigation-save-content-absorb-knowledge = Sačuvaj sadržaj. Apsorbuj znanje.
 navigation-same-speed-and-safety = Ista brzina i sigurnost u koju imate povjerenja, dizajnirane samo za posao.
+# Outdated string
 navigation-add-ons = Dodaci
 navigation-projects = Projekti
 navigation-close-projects-menu = Zatvorite meni Projekti
 navigation-donate-your-voice-to = Donirajte svoj glas kako biste prepoznavanje glasa učinili svima otvorenim.
+# Outdated string
 navigation-web-of-things-iot = Web of Things (IoT)
+# Outdated string
 navigation-make-devices-connected = Napravite uređaje povezane na internet osiguranim, zaštičenim i interoperabilnim.
 navigation-developers = Programeri
 navigation-close-developers-menu = Zatvori meni Programeri

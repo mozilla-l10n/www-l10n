@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -38,7 +38,7 @@ history-not-many-people-noticed = Mnogi nisu primjetili u to vrijeme, ali prva v
 history-in-2003-the-mozilla-project = U 2003. godini, { -brand-name-mozilla } projekat je stvorio { -brand-name-mozilla } Fondaciju, koja je <a href="{ $foundation }"> nezavisna neprofitna organizacija </a> podržana od strane pojedinačnih donatora i raznih kompanija.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = Nova Mozilla Fondacija je nastavila ulogu upravljanja svakodnevnim operacijama projekta i službeno preuzela ulogu promovisanja <a href="{ $manifesto }"> otvorenosti, inovacija i mogućnosti </a> na internetu.
+history-the-new-mozilla-foundation = Nova { -brand-name-mozilla-foundation } je nastavila ulogu upravljanja svakodnevnim operacijama projekta i službeno preuzela ulogu promovisanja <a href="{ $manifesto }"> otvorenosti, inovacija i mogućnosti </a> na internetu.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = To je učinila daljim puštanjem softvera, kao što su { -brand-name-firefox } i { -brand-name-thunderbird }, i širenjem na nova područja, kao što je pružanje <a href="{ $grants }">grantova</a> za podršku poboljšanja pristupačnosti na internetu.
