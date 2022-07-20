@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Усі мови
 sub-navigation-firefox = { -brand-name-firefox }
@@ -53,7 +53,7 @@ sub-navigation-what-is-a-browser = Що таке браузер?
 sub-navigation-browsing-history = Історія перегляду
 sub-navigation-browser-history = Історія браузера
 sub-navigation-privacy = Приватність
-sub-navigation-our-promise = Наше зобовʼязання
+sub-navigation-our-promise = Наше зобов'язання
 sub-navigation-our-products = Наші продукти
 sub-navigation-little-book-of-privacy = Маленька книга приватності
 sub-navigation-safe-passwords = Безпечні паролі

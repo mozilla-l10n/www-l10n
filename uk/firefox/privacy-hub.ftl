@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
 # HTML page title
-firefox-privacy-hub-firefox-privacy-promise = Зобовʼязання щодо приватності { -brand-name-firefox }
+firefox-privacy-hub-firefox-privacy-promise = Зобов'язання щодо приватності { -brand-name-firefox }
 # HTML page description
 firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } збирає менше даних, безпечно їх зберігає та нічого не приховує.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -14,11 +14,11 @@ firefox-privacy-hub-firefox-products-are-designed = Продукти { -brand-na
 # Sub navigation title
 firefox-privacy-privacy = Приватність
 # Sub navigation link
-firefox-privacy-our-promise = Наше зобовʼязання
+firefox-privacy-our-promise = Наше зобов'язання
 # Sub navigation link
 firefox-privacy-our-products = Наші продукти
 firefox-privacy-hub-you-should-be-able-to-decide = Ви повинні мати можливість вирішувати, хто бачить вашу особисту інформацію. Це стосується не лише ваших друзів, але й кожного рекламодавця та компаній в Інтернеті — включно з нами.
-firefox-privacy-hub-thats-why-everything-we-make = Ось чому все, що ми робимо, спирається наше зобовʼязання щодо персональних даних.
+firefox-privacy-hub-thats-why-everything-we-make = Ось чому все, що ми робимо, спирається наше зобов'язання щодо персональних даних.
 firefox-privacy-hub-take-less = Збираємо менше даних
 firefox-privacy-hub-we-make-a-point-of-knowing = Ми прийняли рішення знати про вас менше
 firefox-privacy-hub-all-tech-companies-collect = Усі технологічні компанії збирають дані для вдосконалення своїх продуктів. Але немає потреби у значній кількості вашої особистої інформації. Єдині дані, які нам потрібні — це дані, які врешті служитимуть вам. Ми запитуємо себе: чи насправді вони нам потрібні? Для чого вони нам потрібні? І коли ми можемо їх видалити?
@@ -30,7 +30,7 @@ firefox-privacy-hub-youll-always-know-where-you = Ви завжди знатим
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
-firefox-privacy-hub-theres-no-hidden-agenda-here = Ми нічого не приховуємо. Наш бізнес не залежить від прихованого зловживання вашою довірою. Наше <a href="{ $privacy }">Зобовʼязання щодо приватності</a> є насправді доступним для розуміння. Будь-хто у світі може відвідати <a href="{ $meetings }">щотижневі зустрічі</a> нашої компанії. Якщо ви хочете дізнатися найдетальніші подробиці щодо даних, які ми збираємо, наш відкритий код для вас. Рівно як і ми.
+firefox-privacy-hub-theres-no-hidden-agenda-here = Ми нічого не приховуємо. Наш бізнес не залежить від прихованого зловживання вашою довірою. Наше <a href="{ $privacy }">Зобов'язання щодо приватності</a> є насправді доступним для розуміння. Будь-хто у світі може відвідати <a href="{ $meetings }">щотижневі зустрічі</a> нашої компанії. Якщо ви хочете дізнатися найдетальніші подробиці щодо даних, які ми збираємо, наш відкритий код для вас. Рівно як і ми.
 firefox-privacy-hub-why-trust-firefox = Чому варто довіряти { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
@@ -45,8 +45,8 @@ firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Понад 2,000 елементів стеження заблоковано — автоматично
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-privacy-hub-tracking-has-become-an = Стеження перетворилося на епідемію в Мережі: компанії слідкують за кожною дією, натиском і купівлею, збираючи дані, щоб передбачити й вплинути на ваші подальші дії. Ми вважаємо, що це грубе посягання на вашу приватність. Ось чому { -brand-name-firefox } для мобільних і компʼютерів поставляються з одразу увімкненим розширеним захистом від стеження.
-firefox-privacy-hub-if-you-want-to-see-what = Якщо ви хочете побачити, що блокує для вас { -brand-name-firefox }, відвідайте цю сторінку зі свого { -brand-name-firefox } для компʼютерів.
+firefox-privacy-hub-tracking-has-become-an = Стеження перетворилося на онлайн-епідемію: компанії стежать за кожною дією, натиском і купівлею, збираючи дані, щоб передбачити й вплинути на ваші подальші дії. Ми вважаємо, що це грубе посягання на вашу приватність. Ось чому { -brand-name-firefox } для мобільних і комп'ютерів поставляються з одразу увімкненим розширеним захистом від стеження.
+firefox-privacy-hub-if-you-want-to-see-what = Якщо ви хочете побачити, що блокує для вас { -brand-name-firefox }, gthtukzymnt цю сторінку зі свого { -brand-name-firefox } для комп'ютерів.
 firefox-privacy-hub-see-what-firefox-has-blocked = Перегляньте, що { -brand-name-firefox } заблокував для вас
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Отримати Розширений захист від стеження
