@@ -13,3 +13,7 @@ not-found-locale-not-yet-translated = Pagina is nog niet vertaald
 #   $contribute (url) - link to https://wiki.mozilla.org/L10n:Contribute
 not-found-locale-join-us = Word lid van ons <a href="{ $community }">gemeenschapsteam</a> en help ons <a href="{ $contribute }">deze pagina te vertalen.</a>
 not-found-locale-available = Deze is beschikbaar in de volgende talen:
+# Variables:
+#   $requested_page (string) - path of originally requested page
+#   $link_language (string) - name of language used in page link
+not-found-locale-link-title = Door { $requested_page } in de taal { $link_language } bladeren
