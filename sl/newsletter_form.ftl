@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Vaš e-poštni naslov
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = ime@example.com
 newsletter-form-select-country-or-region = Izberite državo ali območje
+newsletter-form-select-language = Izberi jezik
 newsletter-form-your-email-here = VAŠA E-POŠTA
 newsletter-form-format = Oblika
 newsletter-form-html = HTML
