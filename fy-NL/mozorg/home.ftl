@@ -7,6 +7,7 @@
 
 home-internet-for-people-not-profit = Ynternet foar minsken, gjin winst
 home-did-you-know-mozilla-the-maker = Wisten jo dit? { -brand-name-mozilla } – de makker fan { -brand-name-firefox } – fjochtet foar it behâld fan it ynternet as in wrâldwide publike helpboarne, iepen en tagonklik foar elkenien.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Fluch foar it goede.
 home-with-2x-the-speed-built-in = Mei 2x de faasje, ynboude privacybeskerming en { -brand-name-mozilla } der efter, is de nije { -brand-name-firefox } de bettere manier om te browsen.
 home-we-make-the-internet-safer = Wy meitsje ynternet feiliger, sûner en flugger foar it goede.
