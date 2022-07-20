@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Tu dirección de correo electrónico
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = tunombre@ejemplo.com
 newsletter-form-select-country-or-region = Seleccionar país o región
+newsletter-form-select-language = Seleccionar idioma
 newsletter-form-your-email-here = TU CORREO AQUÍ
 newsletter-form-format = Formato
 newsletter-form-html = HTML
