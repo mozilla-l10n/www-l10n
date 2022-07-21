@@ -75,3 +75,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Kövesse a @{ -brand-name-mozilla }-t
 footer-follow-firefox = Kövesse a @{ -brand-name-firefox }ot
+footer-about-this-site = Az oldal névjegye
