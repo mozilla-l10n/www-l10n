@@ -75,3 +75,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Стежити за @{ -brand-name-mozilla }
 footer-follow-firefox = Стежити за @{ -brand-name-firefox }
+footer-about-this-site = Про цей сайт
