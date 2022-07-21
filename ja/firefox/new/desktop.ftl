@@ -210,3 +210,4 @@ firefox-desktop-download-please-follow = { -brand-name-firefox } をインスト
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = お使いのシステムが { -brand-name-firefox } の要件を満たしていない可能性がありますが、<a href="{ $url }">こちらのバージョン</a>のいずれかをお試しください。
+

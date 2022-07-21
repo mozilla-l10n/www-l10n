@@ -210,3 +210,4 @@ firefox-desktop-download-please-follow = Bitte folgen Sie <a href="{ $url }">die
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Möglicherweise erfüllt Ihr System nicht alle Voraussetzungen für { -brand-name-firefox }. Versuchen Sie es mit einer <a href="{ $url }">dieser Versionen</a>.
+

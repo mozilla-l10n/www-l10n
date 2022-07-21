@@ -210,3 +210,4 @@ firefox-desktop-download-please-follow = يُرجى اتباع <a href="{ $url }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = قد لا يفي نظامك بمُتطلبات { -brand-name-firefox }، ولكن يُمكنك تجربة أحد <a href="{ $url }">هذه الإصدارات</a>.
+
