@@ -26,3 +26,7 @@ about-this-site-contribute-to-l10n = Közreműködés a fordításokban
 about-this-site-read-the-docs = Dokumentáció elolvasása
 about-this-site-colophon = Kolofon
 about-this-site-some-open-source-projects = Néhány, az oldal elkészítéséhez használt nyílt forráskódú projekt:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = A <a href="{ $django }">Django</a> webes háttérszolgáltatási keretrendszer, és a <a href="{ $jinja }">Jinja</a> sablonkészítő.
