@@ -6,6 +6,7 @@
 
 home-internet-for-people-not-profit = نُحافظ على الإنترنت مفتوحًا لأنه حقّ للجميع
 home-did-you-know-mozilla-the-maker = هل تعلم؟ { -brand-name-mozilla } — المؤسسة المطوّرة لـ { -brand-name-firefox } — تُناضل لتُحافظ على الإنترنت بحيث يبقى موردًا عامًا عالميًا مفتوحًا ومُتاحًا للجميع.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = سرعة قياسية بمعنى الكلمة.
 home-with-2x-the-speed-built-in = بفضل سُرعته المُضاعفة وحماية الخُصوصية المُدمجة فيه وبحُكم رعاية { -brand-name-mozilla } له، فإن { -brand-name-firefox } هو الخيار الأفضل للتّصفّح.
 home-we-make-the-internet-safer = نجعل الإنترنت أكثر أمانًا وأكثر صحّة وسرعة من ذي قبل.

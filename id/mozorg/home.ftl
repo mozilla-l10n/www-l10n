@@ -6,6 +6,7 @@
 
 home-internet-for-people-not-profit = Internet untuk semua orang, bukan untuk mendapatkan keuntungan
 home-did-you-know-mozilla-the-maker = Tahukah Anda? { -brand-name-mozilla } — sebagai pembuat { -brand-name-firefox } — berjuang agar internet tetap menjadi sumber daya publik global, terbuka, dan dapat diakses oleh semua.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Cepat untuk kebaikan.
 home-with-2x-the-speed-built-in = Dengan kecepatan 2x lipat, perlindungan privasi bawaan, dan { -brand-name-mozilla } di belakangnya, { -brand-name-firefox } baru adalah cara yang lebih baik untuk menjelajah.
 home-we-make-the-internet-safer = Kami membuat internet menjadi lebih aman, lebih sehat, dan lebih cepat untuk kebaikan.

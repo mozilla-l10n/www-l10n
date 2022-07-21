@@ -6,6 +6,7 @@
 
 home-internet-for-people-not-profit = Internet für Menschen, nicht für Profit
 home-did-you-know-mozilla-the-maker = Wir sind { -brand-name-mozilla }. Der Entwickler von { -brand-name-firefox }. Wir kämpfen gegen unternehmerische Kontrolle im Netz. Damit das Internet offen und für alle zugänglich bleibt.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Schnell. Und richtig gut.
 home-with-2x-the-speed-built-in = Der neue { -brand-name-firefox }: Doppelt so schnell surfen, Top-Privatsphäre-Schutz und gut für das Internet. Weil { -brand-name-mozilla } dahinter steht.
 home-we-make-the-internet-safer = Wir machen das Internet sicherer, schneller und besser für alle.

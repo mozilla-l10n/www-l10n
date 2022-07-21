@@ -6,6 +6,7 @@
 
 home-internet-for-people-not-profit = 利益ではなく、ユーザーのためのインターネット
 home-did-you-know-mozilla-the-maker = ご存知ですか?{ -brand-name-firefox } の開発元である { -brand-name-mozilla } は、インターネットをあらゆる人にとってオープンでアクセスしやすいグローバルなパブリックリソースにするために闘っています。
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = ずっと高速。
 home-with-2x-the-speed-built-in = 速度は 2 倍、プライバシー保護機能内蔵、{ -brand-name-mozilla } 提供の最新版 { -brand-name-firefox } がブラウズをもっと安心にします。
 home-we-make-the-internet-safer = いつでもインターネットをより安全、健全、高速にします。

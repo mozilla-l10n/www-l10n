@@ -6,6 +6,7 @@
 
 home-internet-for-people-not-profit = इंटरनेट लोगों के लिए, लाभ के लिए नहीं
 home-did-you-know-mozilla-the-maker = क्या आपको पता है? { -brand-name-mozilla } — { -brand-name-firefox } का निर्माता — निरंतर संघर्ष करता है कि इंटरनेट को एक वैश्विक सार्वजनिक संसाधन बनाए रखा जाए तथा यह सभी के लिए ओपन और सुलभ रहे।
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = अच्छाई के हित में तेज़ी।
 home-with-2x-the-speed-built-in = 2x स्पीड, अंतर्निहित गोपनीयता सुरक्षा और { -brand-name-mozilla } के समर्थन के साथ, नया { -brand-name-firefox } ब्राउज़ करने का एक बेहतर माध्यम है।
 home-we-make-the-internet-safer = हम अच्छाई के लिए इंटरनेट को अधिक सुरक्षित, अधिक हेल्दी और अधिक तेज़ बनाते हैं।
