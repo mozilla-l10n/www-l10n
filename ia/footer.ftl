@@ -75,3 +75,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Seque @{ -brand-name-mozilla }
 footer-follow-firefox = Seque @{ -brand-name-firefox }
+footer-about-this-site = Re iste sito
