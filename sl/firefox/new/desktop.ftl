@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = Za namestitev { -brand-name-firefox }a 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Vaš sistem morda ne izpolnjuje zahtev za { -brand-name-firefox }, lahko pa preizkusite eno izmed <a href="{ $url }">naslednjih različic</a>.
+firefox-desktop-download-taskbar = { -brand-name-firefox } se bo po namestitvi pripel v opravilno vrstico sistema { -brand-name-windows }
