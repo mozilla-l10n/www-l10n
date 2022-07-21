@@ -50,6 +50,7 @@ youll-never-guess = Вы ніколі не здагадаецеся, які бр
 comparing-firefox-ie = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = Старыя звычкі цяжка перамагчы, але вы адчуеце сябе лепей, калі зробіце гэта.
 comparing-firefox-safari = Параўнанне { -brand-name-firefox-browser } з { -brand-name-apple } { -brand-name-safari }
+you-dont-have = Вы не абавязаныя выкарыстоўваць стандартны браўзер.
 comparing-firefox-opera = Параўнанне { -brand-name-firefox-browser } з { -brand-name-opera }
 be-free-to = Будзьце вольныя спяваць дыфірамбы { -brand-name-firefox }, калі хочаце.
 the-ad-blocker = Блакавальнік рэкламы – сакрэтная зброя супраць надакучлівай рэкламы.
