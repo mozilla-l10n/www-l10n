@@ -75,3 +75,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = @{ -brand-name-mozilla } slědować
 footer-follow-firefox = @{ -brand-name-firefox } slědować
+footer-about-this-site = Wo tutym sydle
