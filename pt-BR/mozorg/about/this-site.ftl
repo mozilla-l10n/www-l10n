@@ -11,3 +11,5 @@ about-this-site-report-a-bug = Relatar um bug
 about-this-site-contribute-to-code = Contribuir na base de código
 about-this-site-contribute-to-l10n = Contribuir em traduções
 about-this-site-read-the-docs = Ler a documentação
+about-this-site-colophon = Mais informações
+about-this-site-some-open-source-projects = Alguns projetos de código aberto usados para fazer este site:
