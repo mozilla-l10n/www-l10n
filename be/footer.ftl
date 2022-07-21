@@ -75,3 +75,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Падпісацца на @{ -brand-name-mozilla }
 footer-follow-firefox = Падпісацца на @{ -brand-name-firefox }
+footer-about-this-site = Аб гэтым сайце
