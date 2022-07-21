@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Waša e-mejlowa adresa
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = wašemjeno@example.com
 newsletter-form-select-country-or-region = Kraj abo region wubrać
+newsletter-form-select-language = Rěč wubrać
 newsletter-form-your-email-here = WAŠA E-MEJLOWA ADRESA
 newsletter-form-format = Format
 newsletter-form-html = HTML
