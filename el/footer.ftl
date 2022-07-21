@@ -75,3 +75,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Ακολουθήστε τη @{ -brand-name-mozilla }
 footer-follow-firefox = Ακολουθήστε το @{ -brand-name-firefox }
+footer-about-this-site = Σχετικά με τον ιστότοπο
