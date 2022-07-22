@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = Volg <a href="{ $url }">deze instructie
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Uw systeem voldoet mogelijk niet aan de vereisten voor { -brand-name-firefox }, maar u kunt een van <a href="{ $url }">deze versies</a> proberen.
+firefox-desktop-download-taskbar = { -brand-name-firefox } wordt na installatie vastgezet op de taakbalk van { -brand-name-windows }
