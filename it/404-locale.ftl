@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/404-locale/
 
-not-found-locale-title = Scegli la tua lingua per Mozilla.org
+not-found-locale-title = Scegli la tua lingua per mozilla.org
 not-found-locale-desc = Seleziona il tuo Paese o regione per indicare la tua lingua preferita.
 not-found-locale-not-yet-translated = Questa pagina non è stata ancora tradotta
 # Variables:
