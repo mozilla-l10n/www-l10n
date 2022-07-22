@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Ñandutiveve kundaharape
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Eiporavo tetã térã tendaguasu
+newsletter-form-select-language = Eiporavo ñe’ẽ
 newsletter-form-your-email-here = NE ÑANDUTIVEVE
 newsletter-form-format = Ysaja
 newsletter-form-html = HTML

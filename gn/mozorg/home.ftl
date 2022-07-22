@@ -1,12 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Ñanduti avápe g̃uarã, ndaha’éi virurã añogua
 home-did-you-know-mozilla-the-maker = ¿Eikuaápa? { -brand-name-mozilla } — atyguasu { -brand-name-firefox } apoharé — oñorairõ peteĩ ñanduti opavavépe g̃uarãva rehe, ijuruja ha oipurukuaáva mayma tapicha.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Ipya’éta tapiaite.
 home-with-2x-the-speed-built-in = Ipya’eve, ñemigua mo’ãha reheve ha { -brand-name-mozilla } hapykuéri, { -brand-name-firefox } ipyahúva ha’e kundaha iporãvéva ñandutípe.
 home-we-make-the-internet-safer = Rojapo ñanduti hekorosã, hesãi ha ipya’éva opa árape g̃uarã.
