@@ -10,7 +10,7 @@ about-this-site-desc = Sobre o site www.mozilla.org e as ferramentas de código 
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = O site www.mozilla.org está online há mais de duas décadas. Isso é <a href="{ $archive }">pré-histórico</a> na contagem de tempo da internet. Como tal, www.mozilla.org é uma pedra fundamental da web, enraizado no movimento de código aberto que testemunhou a <a href="{ $coderush }">criação da { -brand-name-mozilla }</ a>.
+about-this-site-this-website = O site www.mozilla.org está online há mais de duas décadas. Isso é <a href="{ $archive }">pré-histórico</a> na contagem de tempo da internet. Como tal, www.mozilla.org é uma pedra fundamental da web, enraizado no movimento de código aberto que testemunhou a <a href="{ $coderush }">criação da { -brand-name-mozilla }</a>.
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/
