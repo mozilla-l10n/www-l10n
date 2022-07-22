@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Stáhnout { -brand-name-firefox(case: "acc") }
 firefox-new-download-the-fastest-firefox = Stáhněte si ten nejrychlejší { -brand-name-firefox(case: "acc") }
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Pokročilé možnosti instalace a další
 firefox-new-download-in-another-language = Stáhnout v jiném jazyce
 firefox-new-need-help = Potřebujete pomoci?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = Pro instalaci { -brand-name-firefox(case: "gen") } p
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Váš systém nemusí splňovat požadavky pro { -brand-name-firefox(case: "acc") }, ale můžete zkusit některou <a href="{ $url }">z těchto verzí</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Pokud vidíte hlášení, že instalovaná aplikace nebyla { -brand-name-microsoft(case: "ins") } ověřena, klepněte na „Přesto nainstalovat“ nebo <a { $attrs }>změňte nastavení doporučování aplikací</a>.
 firefox-new-visit-support-for-more = Další podrobnosti najdete na serveru podpory
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Stáhnout { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }
@@ -61,3 +63,4 @@ firefox-new-fast = Rychlý, soukromý, svobodný a zdarma
 firefox-new-from-mozilla = od { -brand-name-mozilla(case: "gen") }
 firefox-new-desc = { -brand-name-firefox-browser } je svobodný webový prohlížeč, který umí stránky načítat rychle, nepotřebuje tolik paměti a přitom nabízí plno funkcí. Také jde o projekt od neziskové organizace { -brand-name-mozilla }.
 firefox-new-download-a-different = Stáhnout pro jinou platformu nebo v jiném jazyce
+firefox-new-taskbar = { -brand-name-firefox } bude po nainstalování připnut na hlavní panel systému { -brand-name-windows }

@@ -75,3 +75,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Sledujte @mozilla
 footer-follow-firefox = Sledujte @firefox
+footer-about-this-site = O těchto stránkách

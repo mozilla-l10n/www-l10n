@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Pomozte o letošních svátcích { -brand-name-mozilla(case: "dat") } bojovat za lepší internet.
+banner-fundraising-title-v2 = Pomozte { -brand-name-mozilla(case: "dat") } o letošních svátcích bojovat za lepší internet.
 banner-fundraising-title-giving-day = Pomozte o tomto Štědrém úterý { -brand-name-mozilla(case: "dat") } bojovat za lepší internet.
 # Outdated string
 banner-fundraising-title = O budoucnosti se rozhoduje online. Pomozte { -brand-name-mozilla(case: "dat") } bojovat za web pro nás všechny.
