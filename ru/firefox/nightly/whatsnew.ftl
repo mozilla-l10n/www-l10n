@@ -20,7 +20,7 @@ nightly-whatsnew-this-is-a-good = Сейчас самое время побла�
 nightly-whatsnew-if-you-want-to = Если вы хотите быть в курсе новостей { -brand-name-nightly } и его сообщества, то для начала читайте наш <a href="{ $blog }">блог</a> и подпишитесь на нас в <a href="{ $twitter }">{ -brand-name-twitter(case: "prepositional") }</a>!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v2 = Хотите узнать, какие возможности платформы, недоступные на других каналах { -brand-name-firefox }, вы сможете протестировать на { -brand-name-nightly }? Загляните на страницу настроек { $attrs } экспериментальных возможностей Nightly</a>.
+nightly-whatsnew-want-to-know-which-v2 = Хотите узнать, какие возможности платформы, недоступные на других каналах { -brand-name-firefox }, вы сможете протестировать на { -brand-name-nightly }? Загляните на страницу настроек <a { $attrs } экспериментальных возможностей Nightly</a>.
 # Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
