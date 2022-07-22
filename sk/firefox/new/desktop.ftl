@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = Pri inštalácií { -brand-name-firefox
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Váš systém nemusí spĺňať požiadavky pre { -brand-name-firefox }. Môžete však skúsiť niektorú z <a href="{ $url }">týchto verzií</a>.
+firefox-desktop-download-taskbar = { -brand-name-firefox } sa po inštalácii pripne na panel úloh systému { -brand-name-windows }

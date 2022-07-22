@@ -7,6 +7,7 @@
 
 home-internet-for-people-not-profit = Internet pre ľudí, nie pre zisk
 home-did-you-know-mozilla-the-maker = Vedeli ste, že { -brand-name-mozilla } — tvorca { -brand-name-firefox(case: "gen") } — bojuje za to, aby internet ostal celosvetovým verejným zdrojom, ktorý je dostupný pre všetkých?
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Neuveriteľne rýchly.
 home-with-2x-the-speed-built-in = S dvojnásobnou rýchlosťou, zabudovanou ochranou súkromia a pod záštitou { -brand-name-mozilla(case: "gen") } je { -brand-name-firefox } ešte lepšou voľbou prehliadača.
 home-we-make-the-internet-safer = Robíme internet bezpečnejším, zdravším a rýchlejším.
