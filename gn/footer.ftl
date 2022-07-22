@@ -75,3 +75,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Ehapykueho @{ -brand-name-mozilla }
 footer-follow-firefox = Ehapykueho @{ -brand-name-firefox }
+footer-about-this-site = Ko tenda rehegua

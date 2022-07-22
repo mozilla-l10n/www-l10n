@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = Ejapomína <a href="{ $url }">ko’ã m
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Ikatu hína nde apopyvusu ndorekói { -brand-name-firefox } ojeruréva, hákatu eipurukuaa peteĩva <a href="{ $url }">ãva rehegua</a>.
+firefox-desktop-download-taskbar = { -brand-name-firefox } ejuhúta tembiaporã rendápe { -brand-name-windows } emohenda rire
