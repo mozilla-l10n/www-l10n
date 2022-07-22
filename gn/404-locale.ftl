@@ -6,3 +6,6 @@
 ### URL: https://www-dev.allizom.org/404-locale/
 
 not-found-locale-title = Eiporavo ñe’ẽ térã nerendaite eikundaha hag̃ua Mozilla.org ndive
+not-found-locale-desc = Eiporavo neretã térã tendaguasu eikuaauka hag̃ua neñe’ẽ ehayhuvéva.
+not-found-locale-not-yet-translated = Kuatiarogue noñemoñe’ẽasái gueteri.
+not-found-locale-available = Eipurukuaa ko’ã ñe’ẽme:
