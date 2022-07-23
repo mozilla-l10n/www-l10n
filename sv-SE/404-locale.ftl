@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/404-locale/
 
+not-found-locale-title = Välj ditt språk för mozilla.org
 not-found-locale-desc = Välj ditt land eller din region för att ange ditt föredragna språk.
 not-found-locale-not-yet-translated = Sidan är ännu inte översatt
 # Variables:
@@ -12,3 +13,7 @@ not-found-locale-not-yet-translated = Sidan är ännu inte översatt
 #   $contribute (url) - link to https://wiki.mozilla.org/L10n:Contribute
 not-found-locale-join-us = Gå med i vårt <a href="{ $community }">communityteam</a> och hjälp oss att <a href="{ $contribute }">översätta den här sidan.</a>
 not-found-locale-available = Den är tillgänglig på följande språk:
+# Variables:
+#   $requested_page (string) - path of originally requested page
+#   $link_language (string) - name of language used in page link
+not-found-locale-link-title = Öppna { $requested_page } på språket { $link_language }
