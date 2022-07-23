@@ -24,3 +24,5 @@ about-this-site-report-a-bug = Nahlásit chybu
 about-this-site-contribute-to-code = Přispět do kódové báze
 about-this-site-contribute-to-l10n = Zapojit se do překládání
 about-this-site-read-the-docs = Přečíst si dokumentaci
+about-this-site-colophon = Kolofon
+about-this-site-some-open-source-projects = Některé open source projekty použité při tvorbě těchto stránek:
