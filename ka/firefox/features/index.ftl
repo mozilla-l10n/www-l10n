@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -19,7 +19,7 @@ features-index-give-your-browser = გააფორმეთ ბრაუზ�
 features-index-important-stuff = უზრუნველყავით, რომ ყველა თქვენი მნიშვნელოვანი მასალა — მოძიებული გვერდები, პაროლები, გახსნილი ჩანართები — გაჩნდეს იქ, სადაც გჭირდებათ, თითოეულ მოწყობილობაზე.
 features-index-get-an-account = გამოიყენეთ { -brand-name-firefox-account }
 features-index-use-the-bookmark = სანიშნების ვარსკვლავის ნიშნით შეძლებთ სწრაფად დაალაგოთ და სასურველი სახელები მიანიჭოთ საქაღალდეებს.
-features-index-from-the-company = დაწესებულებისგან, რომელიც ხალხ აყენებს მოგებაზე წინ
+features-index-from-the-company = დაწესებულებისგან, რომელიც ხალხს აყენებს მოგებაზე წინ
 features-index-private-browsing-mode = პირადი დათვალიერების რეჟიმი შლის ფუნთუშების მონაცემებს და მონახულებულ გვერდებს, ყოველი დახურვისას.
 features-index-firefox-automatically = { -brand-name-firefox } თავისთავად ზღუდავს 2000+ სარეკლამო მეთვალყურეს, რომელიც თან დაგყვებათ ინტერნეტში.
 features-index-access-all-passwords = { -brand-name-firefox-lockwise } გაძლევთ წვდომას თქვენს ყველა პაროლთან, რომლებსაც ინახავს { -brand-name-firefox } — რასაკვირველია უფასოდ.
