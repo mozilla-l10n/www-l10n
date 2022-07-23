@@ -32,7 +32,7 @@ about-this-site-some-open-source-projects = Några projekt med öppen källkod s
 about-this-site-django = <a href="{ $django }">Django</a> som ett back-end webbramverk, med <a href="{ $jinja }">Jinja</a> för mallar.
 # Variables:
 #   $protocol (url) link to https://protocol.mozilla.org/
-about-this-site-mozilla-protocol = { -brand-name-mozilla }s <a href="{ $protocol }">protokoll</a>designsystem för frontendkomponenter och varumärke.
+about-this-site-mozilla-protocol = { -brand-name-mozilla }s <a href="{ $protocol }">protokoll</a>-designsystem för frontendkomponenter och varumärke.
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = { -brand-name-mozilla }s <a href="{ $fluent }">Fluent</a> lokaliseringssystem för språköversättning.
