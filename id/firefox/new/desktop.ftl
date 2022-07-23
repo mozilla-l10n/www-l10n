@@ -177,6 +177,7 @@ firefox-desktop-download-now-mac = Sekarang <strong>buka</strong> file yang baru
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Ada masalah? <a { $attrs }>Dapatkan bantuan untuk penginstalan Anda</a>.
 firefox-desktop-download-in-another-language = Unduh dalam bahasa lain atau untuk sistem operasi lain.
+firefox-desktop-download-windows = { -brand-name-windows }
 
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
@@ -211,3 +212,4 @@ firefox-desktop-download-please-follow = Ikuti <a href="{ $url }">instruksi ini<
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Sistem Anda mungkin tidak memenuhi persyaratan untuk { -brand-name-firefox }, tetapi Anda dapat menggunakan salah satu dari <a href="{ $url }">versi berikut</a> .
 
+firefox-desktop-download-taskbar = { -brand-name-firefox } akan disematkan ke bilah tugas { -brand-name-windows } setelah diinstal
