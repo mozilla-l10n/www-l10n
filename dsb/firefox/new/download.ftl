@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } ześěgnuś
 firefox-new-download-the-fastest-firefox = Ześěgniśo nejmalsnjejšy { -brand-name-firefox }
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Rozšyrjone instalěrowańske nastajenja 
 firefox-new-download-in-another-language = W drugej rěcy ześěgnuś
 firefox-new-need-help = Trjebaśo pomoc?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = Pšosym slědujśo <a href="{ $url }">toś tym instr
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Waš system nejskerjej njewótpowědujo pominanjam { -brand-name-firefox }, ale móžośo jadnu z <a href="{ $url }">toś tych wersijow</a> wopytowaś.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Jolic napominanje wiźiśo, kótarež k wěsć dawa, až nałoženje, kótarež cośo instalěrowaś, njejo wót { -brand-name-microsoft } pśeglědane, klikniśo na „Weto instalěrowaś“ abo <a { $attrs }>změńśo dopóruceńske nastajenja nałoženja</a>.
 firefox-new-visit-support-for-more = Woglědajśo se k bokam pomocy za dalšne drobnostki
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = { -brand-name-firefox-browser } ześěgnuś
