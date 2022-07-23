@@ -55,7 +55,7 @@ firefox-developer-new-tools = ახალი ხელსაწყოები
 firefox-developer-inactive-css = უქმი CSS
 firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } ახლა უკვე გაანაცრისფრებს იმ CSS-განაცხადებს, რომლებიც გავლენას არ ახდენს ვებგვერდზე. ხატულაზე მაჩვენებლის გადატარებისას, იხილავთ სასარგებლო ინფორმაციას იმის შესახებ, თუ რატომ არ აისახება CSS, აგრეთვე მითითებას, თუ როგორ შეიძლება ამის გამოსწორება.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-the-new-firefox-devtools = ახალი { -brand-name-firefox-devtools } არის მძლავრი, მოქნილი და რაც მთავარია, მარტივადაა შესაძლებელი მისი მორგება საკუთარ საჭიროებებზე. ამასთან, გააჩნია უმაღლესი დონის JavaScript გამმართველი, რომელიც ნებისმიერი ბრაუზერისთვისაა გამოსადეგი და ჩაშენებული აქვს React/Redux ენების მხარდაჭერა.
+firefox-developer-the-new-firefox-devtools = ახალი { -brand-name-firefox-devtools } არის მძლავრი, მოქნილი და რაც მთავარია, მარტივადაა შესაძლებელი მისი მორგება საკუთარ საჭიროებებზე. ამასთანავე, გააჩნია უმაღლესი დონის JavaScript გამმართველი, რომელიც ნებისმიერი ბრაუზერისთვისაა გამოსადეგი და ჩაშენებული აქვს React/Redux ენების მხარდაჭერა.
 firefox-developer-master-css-grid = CSS-ბადე
 # outdated
 firefox-developer-next-gen-css-engine = ახალი თაობის CSS ძრავა
@@ -73,7 +73,7 @@ firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-de
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } წარმოდგენილია მოხაზულობის დასამუშავებელი უახლესი ხელსაწყოთი, რომელიც მეტად ამარტივებს გარშემოვლებული ჩრდილებისა და შემოჭრილი არეების შესწორებას, ვიზუალური რედაქტორის მეშვეობით.
 firefox-developer-faster-innovation = სწრაფი წვდომა მონაცემებთან
 firefox-developer-fonts-panel = შრიფტების არე
-firefox-developer-the-new-fonts-panel = შრიფტების ახალი არე, რომლითაც { -brand-name-firefox-devtools } საშუალებას აძლევს შემმუშავებლებს, სწრაფი წვდომა ჰქონდეთ გამოყენებული შრიფტების ყველა მონაცემთან. ამასთან, შეიცავს ისეთ გამოსადეგ ინფორმაციას, როგორიცაა შრიფტის წყარო, სისქე, იერსახე და სხვა.
+firefox-developer-the-new-fonts-panel = შრიფტების ახალი არე, რომლითაც { -brand-name-firefox-devtools } საშუალებას აძლევს შემმუშავებლებს, სწრაფი წვდომა ჰქონდეთ გამოყენებული შრიფტების ყველა მონაცემთან. ამასთანავე, შეიცავს ისეთ გამოსადეგ ინფორმაციას, როგორიცაა შრიფტის წყარო, სისქე, იერსახე და სხვა.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ავტომატურად უგზავნის მონაცემებს { -brand-name-mozilla }-ს.
 firefox-developer-download-the-firefox-browser = ჩამოტვირთეთ { -brand-name-firefox }-ბრაუზერი, შექმნილი შემმუშავებლებისთვის
 firefox-developer-welcome-to-the-all-new = მოგესალმებათ ახალთახალი { -brand-name-firefox-quantum }: { -brand-name-developer-edition }

@@ -62,11 +62,11 @@ vpn-landing-faq-protected-question-heading = როგორაა დაცუ�
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ოქმი შიფრავს თქვენს ქსელში მიმოცვლილ მონაცემებს და სრულად იცავს თქვენს პირად ინფორმაციას. სხვა არსებული VPN-ოქმებისგან განსხვავებით, { -brand-name-wireguard } მსუბუქი კოდითაა და აადვილებს უსაფრთხოების გამოკვლევასა და გადამოწმებას — რაც მეტად დაცულს ხდის დანარჩენებთან შედარებით. ამასთან, თქვენი მოქმედებები ინტერნეტში რჩება გაუმჟღავნებელი, ვინაიდან ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მონაცემებს.
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ოქმი შიფრავს თქვენს ქსელში მიმოცვლილ მონაცემებს და სრულად იცავს თქვენს პირად ინფორმაციას. სხვა არსებული VPN-ოქმებისგან განსხვავებით, { -brand-name-wireguard } მსუბუქი კოდითაა და აადვილებს უსაფრთხოების გამოკვლევასა და გადამოწმებას — რაც მეტად დაცულს ხდის დანარჩენებთან შედარებით. ამასთანავე, თქვენი მოქმედებები ინტერნეტში რჩება გაუმჟღავნებელი, ვინაიდან ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მონაცემებს.
 vpn-landing-faq-competition-question-heading = რით გამოირჩევა { -brand-name-mozilla-vpn } მეტოქეებისგან?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc-v2 = მართალია უფასო VPN-ები მიმზიდველად გამოიყურება, თუმცა პირადულობაზე ისე არავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn }. ამასთან, სხვა VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a>, პირადი მონაცემების დაცვის საქმეში.
+vpn-landing-faq-competition-question-desc-v2 = მართალია უფასო VPN-ები მიმზიდველად გამოიყურება, თუმცა პირადულობაზე ისე არავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn }. ამასთანავე, სხვა VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a>, პირადი მონაცემების დაცვის საქმეში.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/

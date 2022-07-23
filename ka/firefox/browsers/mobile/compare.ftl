@@ -16,7 +16,7 @@ mobile-compare-at-a-minimum-v2 = მობილურ ბრაუზერს,
 mobile-compare-at-a-minimum = მობილურ ბრაუზერს, სულ მცირე, „პირადი თვალიერების რეჟიმის“ მსგავსი რამ უნდა გააჩნდეს, მონახულებული და მოძიებული გვერდების გასუფთავების შესაძლებლობით. ამ საკითხში, შვიდივე ბრაუზერმა აიღო ქულა.
 mobile-compare-another-mobile-feature = მობილური ბრაუზერის კიდევ ერთი შესაძლებლობა, რომელიც აუცილებელია, ესაა საიტებისა და კომპანიებისთვის, მონახულებულ გვერდებსა და შენაძენებზე თვალის მიდევნების აკრძალვა — გვერდების ჩვეულებრივ თვალიერების დროსაც.
 mobile-compare-blocking-thirdparty-trackers = გარეშე მეთვალყურეების შეზღუდვა, არა მხოლოდ პირადულობისთვისაა საჭირო — არამედ ასწრაფებს გვერდის გახსნასაც, ვინაიდან, მიბმული კოდის ნაწილების გამო, ჩატვირთვა შენელებულია.
-mobile-compare-from-the-chart = ზემოთ მოცემული ცხრილიდან აშკარაა, რომ { -brand-name-firefox } გთავაზობთ მეტად სრულყოფილ დაცვას, პირადულობისა და უსაფრთხოების კუთხით, ხუთ ბრაუზერს შორის და ამასთან, დაცვის ზოგადი მაჩვენებლების გადახედვის საშუალებასაც გაძლევთ.
+mobile-compare-from-the-chart = ზემოთ მოცემული ცხრილიდან აშკარაა, რომ { -brand-name-firefox } გთავაზობთ მეტად სრულყოფილ დაცვას, პირადულობისა და უსაფრთხოების კუთხით, ხუთ ბრაუზერს შორის და ამასთანავე, დაცვის ზოგადი მაჩვენებლების გადახედვის საშუალებასაც გაძლევთ.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>სარგებლიანობა</strong>
 mobile-compare-features = შესაძლებლობები
