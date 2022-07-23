@@ -3,10 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Last ned { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Last ned raskaste { -brand-name-firefox } til no
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Avanserte installeringsalternativ og andr
 firefox-new-download-in-another-language = Last ned på eit anna språk
 firefox-new-need-help = Treng du hjelp?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = Følg <a href="{ $url }">denne rettleiinga</a> for �
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Systemet ditt oppfyller kanskje ikkje krava for { -brand-name-firefox }, men du kan prøve ein av <a href="{ $url }">desse versjonane</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Dersom du får ei melding om at appen du prøver å installere ikkje er ein { -brand-name-microsoft }-stadfesta app, klikkar du på «Installer likevel» eller <a { $attrs }>Endre innstillingar for apptilråding</a>.
 firefox-new-visit-support-for-more = Besøk brukarstøtte for meir informasjon
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Last ned { -brand-name-firefox-browser }

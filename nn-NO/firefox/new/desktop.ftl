@@ -146,6 +146,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } blokker
 firefox-desktop-download-questions = Spørsmål? <a { $attrs }>{ -brand-name-mozilla } brukarstøtte</a> kan hjelpe deg.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Du har allereie nettlesaren. Få enno meir ut av { -brand-name-firefox }.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Bruk { -brand-name-firefox-monitor } for å halde eit auge med hackarar, ta vare på passorda med { -brand-name-firefox-lockwise }, og meir.
 firefox-desktop-download-get-more-from-firefox = Få meir ut av { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Berre last ned nettlesaren
@@ -163,6 +164,8 @@ firefox-desktop-download-now-mac = No kan du <strong>opne</strong> den nedlasta 
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Har problem? <a { $attrs }>Få hjelp med installasjonen</a>.
 firefox-desktop-download-in-another-language = Last ned på eit anna språk eller for eit anna operativsystem.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
