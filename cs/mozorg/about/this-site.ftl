@@ -22,3 +22,5 @@ about-this-site-like-many = Tak jako mnoho našich produktů je i tento web open
 about-this-site-view-source = Prohlédnout si zdrojový kód na { -brand-name-github(case: "loc") }
 about-this-site-report-a-bug = Nahlásit chybu
 about-this-site-contribute-to-code = Přispět do kódové báze
+about-this-site-contribute-to-l10n = Zapojit se do překládání
+about-this-site-read-the-docs = Přečíst si dokumentaci
