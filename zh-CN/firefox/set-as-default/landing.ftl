@@ -14,6 +14,7 @@ set-as-default-landing-thanks-for-using-the = 感谢您使用最新的 { -brand-
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = 上网冲浪，别忘记开启保护
 set-as-default-landing-you-should-get = 您的浏览方式，您说了算
+set-as-default-landing-if-you-recently = 如果您最近更新过操作系统，则部分设置可能已被更改。选用 { -brand-name-firefox }，一起为建设自由与开放的互联网出一份力。
 set-as-default-landing-choose-automatic-privacy = 选择自动化的隐私保护
 set-as-default-landing-companies-keep-finding = 互联网巨头一直在想方设法窃取您的个人数据。{ -brand-name-firefox } 是最后一款以保护您为己任的浏览器。
 set-as-default-landing-choose-freedom-on-every = 任何设备上，你都有权选择自由
