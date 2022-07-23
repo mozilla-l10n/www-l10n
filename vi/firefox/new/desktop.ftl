@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = Vui lòng làm theo <a href="%(url)s">h
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Hệ thống của bạn có thể không đáp ứng các yêu cầu của { -brand-name-firefox }, nhưng bạn có thể thử một trong <a href="{ $url }">các phiên bản này</a>.
+firefox-desktop-download-taskbar = { -brand-name-firefox } sẽ được ghim vào taskbar của { -brand-name-windows } sau khi cài đặt
