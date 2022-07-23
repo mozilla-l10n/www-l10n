@@ -26,3 +26,7 @@ about-this-site-contribute-to-l10n = Zapojit se do překládání
 about-this-site-read-the-docs = Přečíst si dokumentaci
 about-this-site-colophon = Kolofon
 about-this-site-some-open-source-projects = Některé open source projekty použité při tvorbě těchto stránek:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> jakožto backendový webový framework společně s <a href="{ $jinja }">Jinjou</a> pro šablonování.
