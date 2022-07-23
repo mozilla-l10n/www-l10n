@@ -30,3 +30,12 @@ about-this-site-some-open-source-projects = Některé open source projekty použ
 #   $django (url) link to https://www.djangoproject.com/
 #   $jinja (url) link to https://jinja.palletsprojects.com/
 about-this-site-django = <a href="{ $django }">Django</a> jakožto backendový webový framework společně s <a href="{ $jinja }">Jinjou</a> pro šablonování.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = Návrhový systém { -brand-name-mozilla(case: "gen") } <a href="{ $protocol }">Protocol</a> pro frontendové součásti a obchodní značku.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = Lokalizační systém { -brand-name-mozilla(case: "gen") } <a href="{ $fluent }">Fluent</a> pro překlad do jiných jazyků.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Mnoho dalších menších knihoven a frameworků, které jsou k nalezení v našem <a href="{ $github }">repozitáři na { -brand-name-github(case: "loc") }</a>.
