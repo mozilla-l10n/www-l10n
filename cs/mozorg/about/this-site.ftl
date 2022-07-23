@@ -10,7 +10,7 @@ about-this-site-desc = O stránkách www.mozilla.org a open source nástrojích 
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = Webové stránky www.mozilla.org jsou v provozu již více než dvacet let. To je v <a href="{ $archive }">internetovém věku</a> už od dob dinosaurů. Jako takové jsou stránky www.mozilla.org základním kamenem webu, jehož kořeny jsou pevně usazeny v hnutí open source, v jehož rámci <a href="{ $coderush }">vznikla { -brand-name-mozilla }</a>.
+about-this-site-this-website = Webové stránky www.mozilla.org jsou v provozu již více než dvacet let. To je v <a href="{ $archive }">internetovém věku</a> už od dob dinosaurů. Jako takové jsou stránky www.mozilla.org základním kamenem webu, jehož kořeny jsou pevně usazeny v hnutí za otevřený kód, v jehož rámci <a href="{ $coderush }">vznikla { -brand-name-mozilla }</a>.
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/
@@ -18,7 +18,7 @@ about-this-site-this-website = Webové stránky www.mozilla.org jsou v provozu j
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 about-this-site-today = Dnes jsou to stránky, kam si lidé chodí stáhnout <a href="{ $firefox }">{ -brand-name-firefox(case: "acc") }</a>, vyzkoušet <a href="{ $vpn }">{ -brand-name-mozilla-vpn(case: "acc") }</a> a dozvědět se více <a href="{ $mozilla }">o { -brand-name-mozilla(case: "loc") }</a>. Cestou můžete objevit i pár <a href="{ $book }">velikonočních vajíček</a>.
-about-this-site-like-many = Tak jako mnoho našich produktů je i tento web open source:
+about-this-site-like-many = Tak jako mnoho našich produktů má i tento web otevřený zdrojový kód:
 about-this-site-view-source = Prohlédnout si zdrojový kód na { -brand-name-github(case: "loc") }
 about-this-site-report-a-bug = Nahlásit chybu
 about-this-site-contribute-to-code = Přispět do kódové báze
@@ -39,3 +39,6 @@ about-this-site-fluent = Lokalizační systém { -brand-name-mozilla(case: "gen"
 # Variables:
 #   $github (url) link to https://github.com/mozilla/bedrock
 about-this-site-many-other = Mnoho dalších menších knihoven a frameworků, které jsou k nalezení v našem <a href="{ $github }">repozitáři na { -brand-name-github(case: "loc") }</a>.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Naše poděkování patří všem <a href="{ $credits }">přispěvatelům</a> { -brand-name-mozilla(case: "gen") }, kteří pomohli učinit web lepším místem.
