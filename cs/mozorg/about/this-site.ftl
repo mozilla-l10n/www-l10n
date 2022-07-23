@@ -18,7 +18,7 @@ about-this-site-this-website = Webové stránky www.mozilla.org jsou v provozu j
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 about-this-site-today = Dnes jsou to stránky, kam si lidé chodí stáhnout <a href="{ $firefox }">{ -brand-name-firefox(case: "acc") }</a>, vyzkoušet <a href="{ $vpn }">{ -brand-name-mozilla-vpn(case: "acc") }</a> a dozvědět se více <a href="{ $mozilla }">o { -brand-name-mozilla(case: "loc") }</a>. Cestou můžete objevit i pár <a href="{ $book }">velikonočních vajíček</a>.
-about-this-site-like-many = Tak jako mnoho našich produktů má i tento web otevřený zdrojový kód:
+about-this-site-like-many = Tak jako mnoho našich produktů mají i tyto stránky otevřený zdrojový kód:
 about-this-site-view-source = Prohlédnout si zdrojový kód na { -brand-name-github(case: "loc") }
 about-this-site-report-a-bug = Nahlásit chybu
 about-this-site-contribute-to-code = Přispět do kódové báze
@@ -38,7 +38,7 @@ about-this-site-mozilla-protocol = Návrhový systém { -brand-name-mozilla(case
 about-this-site-fluent = Lokalizační systém { -brand-name-mozilla(case: "gen") } <a href="{ $fluent }">Fluent</a> pro překlad do jiných jazyků.
 # Variables:
 #   $github (url) link to https://github.com/mozilla/bedrock
-about-this-site-many-other = Mnoho dalších menších knihoven a frameworků, které jsou k nalezení v našem <a href="{ $github }">repozitáři na { -brand-name-github(case: "loc") }</a>.
+about-this-site-many-other = Řada dalších menších knihoven a frameworků, které jsou k nalezení v našem <a href="{ $github }">repozitáři na { -brand-name-github(case: "loc") }</a>.
 # Variables:
 #   $credits (url) link to https://www.mozilla.org/credits/
 about-this-site-we-extend = Naše poděkování patří všem <a href="{ $credits }">přispěvatelům</a> { -brand-name-mozilla(case: "gen") }, kteří pomohli učinit web lepším místem.
