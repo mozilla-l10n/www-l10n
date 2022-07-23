@@ -19,7 +19,7 @@ about-this-site-this-website = A www.mozilla.org webhely több mint két évtize
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 about-this-site-today = Ma ez az a webhely, ahol az emberek letöltik a <a href="{ $firefox }">{ -brand-name-firefox }ot</a>, kipróbálják a <a href="{ $vpn }">{ -brand-name-mozilla-vpn }-t</a>, és többet tudnak meg a <a href="{ $mozilla }">a { -brand-name-mozilla(ending: "accented") }ról</a>. Emellett <a href="{ $book }">húsvéti tojást</a> is felfedezhet.
 about-this-site-like-many = Sok termékünkhöz hasonlóan, ez a weboldal is nyílt forráskódú:
-about-this-site-view-source = Nézze meg a forráskódot a { -brand-name-github }on
+about-this-site-view-source = Forráskód megtekintése a { -brand-name-github }on
 about-this-site-report-a-bug = Hiba jelentése
 about-this-site-contribute-to-code = Közreműködés a kódbázisban
 about-this-site-contribute-to-l10n = Közreműködés a fordításokban
@@ -30,3 +30,15 @@ about-this-site-some-open-source-projects = Néhány, az oldal elkészítéséhe
 #   $django (url) link to https://www.djangoproject.com/
 #   $jinja (url) link to https://jinja.palletsprojects.com/
 about-this-site-django = A <a href="{ $django }">Django</a> webes háttérszolgáltatási keretrendszer, és a <a href="{ $jinja }">Jinja</a> sablonkészítő.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = A { -brand-name-mozilla } <a href="{ $protocol }">Protocol</a> tervezőrendszere a felület összetevőihez és a márkaépítéshez.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = A { -brand-name-mozilla } <a href="{ $fluent }">Fluent</a> lokalizációs rendszere a nyelvi fordításhoz.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Sok más kisebb programkönyvtár és keretrendszer, melyek megtalálhatók a <a href="{ $github }">{ -brand-name-github } tárolónkban</a>.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Köszönetünket fejezzük ki minden { -brand-name-mozilla } <a href="{ $credits }">közreműködőnek</a>, akik segítettek abban, hogy az internet jobb hely legyen.
