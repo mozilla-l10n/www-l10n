@@ -10,7 +10,7 @@ about-this-site-desc = O stránkách www.mozilla.org a open source nástrojích 
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = Webové stránky www.mozilla.org jsou v provozu již více než dvacet let. To je v <a href="{ $archive }">internetovém věku</a> už od dob dinosaurů. Jako takové jsou stránky www.mozilla.org základním kamenem webu, jehož kořeny jsou pevně usazeny v hnutí za otevřený kód, v jehož rámci <a href="{ $coderush }">vznikla { -brand-name-mozilla }</a>.
+about-this-site-this-website = Webové stránky www.mozilla.org jsou v provozu již více než dvacet let. To je v <a href="{ $archive }">internetovém věku</a> už od dob dinosaurů. Jako takové jsou stránky www.mozilla.org základním kamenem webu a jejich kořeny jsou pevně usazeny v hnutí za otevřený kód, v jehož rámci <a href="{ $coderush }">vznikla { -brand-name-mozilla }</a>.
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/
@@ -25,7 +25,7 @@ about-this-site-contribute-to-code = Přispět do kódové báze
 about-this-site-contribute-to-l10n = Zapojit se do překládání
 about-this-site-read-the-docs = Přečíst si dokumentaci
 about-this-site-colophon = Kolofon
-about-this-site-some-open-source-projects = Některé open source projekty použité při tvorbě těchto stránek:
+about-this-site-some-open-source-projects = Některé projekty s otevřeným zdrojovým kódem použité při tvorbě těchto stránek:
 # Variables:
 #   $django (url) link to https://www.djangoproject.com/
 #   $jinja (url) link to https://jinja.palletsprojects.com/
