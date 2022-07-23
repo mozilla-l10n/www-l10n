@@ -50,6 +50,7 @@ firefox-new-please-follow = Ikuti <a href="{ $url }">instruksi ini</a> untuk men
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Sistem Anda mungkin tidak memenuhi persyaratan untuk { -brand-name-firefox }, tetapi Anda dapat menggunakan salah satu dari <a href="{ $url }">versi berikut</a> .
 
+firefox-new-windows = { -brand-name-windows }
 
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
@@ -70,3 +71,4 @@ firefox-new-from-mozilla = dari { -brand-name-mozilla }
 
 firefox-new-desc = { -brand-name-firefox-browser } adalah peramban web gratis yang memuat halaman dengan cepat, menggunakan lebih sedikit memori, dan banyak fitur lainnya - proyek nirlaba { -brand-name-mozilla }.
 firefox-new-download-a-different = Unduh dalam platform atau bahasa lain
+firefox-new-taskbar = { -brand-name-firefox } akan disematkan ke bilah tugas { -brand-name-windows } setelah diinstal
