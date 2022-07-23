@@ -15,7 +15,7 @@ about-this-site-colophon = Kolofon
 # Variables:
 #   $django (url) link to https://www.djangoproject.com/
 #   $jinja (url) link to https://jinja.palletsprojects.com/
-about-this-site-django = <a href="{ $django }">Django</a> jako backend web framework, z <a href="{ $jinja }">Jinja</a> za předłohi.
+about-this-site-django = <a href="{ $django }">Django</a> jako backendowy webowy framework, z <a href="{ $jinja }">Jinja</a> za předłohi.
 # Variables:
 #   $protocol (url) link to https://protocol.mozilla.org/
 about-this-site-mozilla-protocol = <a href="{ $protocol }">Protokolowy</a> designowy system { -brand-name-mozilla } za komponenty frontenda a wikowanske znamjenja.
