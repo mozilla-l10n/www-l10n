@@ -13,3 +13,9 @@ about-this-site-report-a-bug = Rapportera ett problem
 about-this-site-contribute-to-code = Bidra till kodbasen
 about-this-site-contribute-to-l10n = Bidra till översättningar
 about-this-site-read-the-docs = Läs dokumentationen
+about-this-site-colophon = Kolofon
+about-this-site-some-open-source-projects = Några projekt med öppen källkod som används för att skapa den här webbplatsen:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> som ett back-end webbramverk, med <a href="{ $jinja }">Jinja</a> för mallar.
