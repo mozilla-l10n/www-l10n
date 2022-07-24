@@ -177,6 +177,7 @@ firefox-desktop-download-now-mac = <strong>افتح</strong> الملف الذي
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = هل تواجهك مشكلة؟ <a { $attrs }>احصل على مساعدة في عملية التثبيت</a>.
 firefox-desktop-download-in-another-language = نزِّل المُتصفح بلغة أخرى أو لنظام تشغيل آخر.
+firefox-desktop-download-windows = { -brand-name-windows }
 
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
@@ -211,3 +212,4 @@ firefox-desktop-download-please-follow = يُرجى اتباع <a href="{ $url }
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = قد لا يفي نظامك بمُتطلبات { -brand-name-firefox }، ولكن يُمكنك تجربة أحد <a href="{ $url }">هذه الإصدارات</a>.
 
+firefox-desktop-download-taskbar = سَتتم إضافة { -brand-name-firefox } في شريط مهام { -brand-name-windows } بعد التثبيت
