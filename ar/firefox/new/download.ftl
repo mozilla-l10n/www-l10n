@@ -50,6 +50,7 @@ firefox-new-please-follow = يُرجى اتباع <a href="{ $url }">هذه ال
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = قد لا يفي نظامك بمتطلبات { -brand-name-firefox }، ولكن يمكنك تجربة أحد <a href="{ $url }">هذه الإصدارات</a>.
 
+firefox-new-windows = { -brand-name-windows }
 
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
@@ -70,3 +71,4 @@ firefox-new-from-mozilla = من { -brand-name-mozilla }
 
 firefox-new-desc = { -brand-name-firefox-browser } مُتصفّح ويب مجاني بسرعة تحميل فائقة واستخدام أقل للذاكرة والكثير من المزايا - مشروع لا يَستهدف الربح { -brand-name-mozilla }.
 firefox-new-download-a-different = تحميل منصة أو لغة مُختلفة
+firefox-new-taskbar = سَتتم إضافة { -brand-name-firefox } في شريط مهام { -brand-name-windows } بعد التثبيت
