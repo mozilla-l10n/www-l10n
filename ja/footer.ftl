@@ -90,3 +90,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = @{ -brand-name-mozilla } をフォロー
 footer-follow-firefox = @{ -brand-name-firefox } をフォロー
+footer-about-this-site = このサイトについて
