@@ -50,6 +50,7 @@ firefox-new-please-follow = { -brand-name-firefox } をインストールする�
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = お使いのシステムが { -brand-name-firefox } の要件を満たしていない可能性がありますが、<a href="{ $url }">こちらのバージョン</a>のいずれかをお試しください。
 
+firefox-new-windows = { -brand-name-windows }
 
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
@@ -70,3 +71,4 @@ firefox-new-from-mozilla = { -brand-name-mozilla } が開発
 
 firefox-new-desc = { -brand-name-firefox-browser } は、ページの読み込みが高速で、メモリ使用量が少なく、豊富な機能を備えた無料のウェブブラウザーです。非営利団体 { -brand-name-mozilla } のプロジェクトとして提供しています。
 firefox-new-download-a-different = 他のプラットフォームまたは言語でダウンロードする
+firefox-new-taskbar = { -brand-name-firefox } はインストール後に { -brand-name-windows } のタスクバーに固定されます
