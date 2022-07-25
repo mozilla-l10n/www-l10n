@@ -50,6 +50,7 @@ firefox-new-please-follow = { -brand-name-firefox } इंस्टॉल कर
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = आपका सिस्टम { -brand-name-firefox } के लिए ज़रूरी आवश्यकताओं पर खरा नहीं उतरता, मगर आप <a href="{ $url }">इनमें से कोई एक संस्करण</a> आज़मा सकते हैं।
 
+firefox-new-windows = { -brand-name-windows }
 
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
@@ -70,3 +71,4 @@ firefox-new-from-mozilla = { -brand-name-mozilla } की ओर से
 
 firefox-new-desc = { -brand-name-firefox-browser } - यह एक मुफ़्त वेब ब्राउज़र है जिसमें तेज़ी से पेज लोड होते हैं, मेमोरी कम इस्तेमाल होती है, साथ ही बहुत सारे फ़ीचर्स भी हैं - यह गैर-लाभकारी ऑर्गनाइज़ेशन { -brand-name-mozilla } का प्रोजेक्ट है।
 firefox-new-download-a-different = कोई अन्य प्लेटफ़ॉर्म या भाषा डाउनलोड करें
+firefox-new-taskbar = इंस्टॉलेशन के बाद { -brand-name-firefox } को { -brand-name-windows } टास्कबार पर पिन कर दिया जाएगा
