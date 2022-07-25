@@ -90,3 +90,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = फ़ॉलो करें @{ -brand-name-mozilla }
 footer-follow-firefox = फ़ॉलो करें @{ -brand-name-firefox }
+footer-about-this-site = इस साइट के बारे में
