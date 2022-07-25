@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/about/this-site/
 
 about-this-site-title = Acerca de este sitio
+about-this-site-desc = Acerca del sitio web www.mozilla.org y las herramientas de código abierto usadas para hacerlo.
