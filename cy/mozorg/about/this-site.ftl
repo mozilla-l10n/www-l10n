@@ -41,4 +41,4 @@ about-this-site-fluent = System leoleiddio <a href = " { $fluent } "> Fluent</a>
 about-this-site-many-other = Llawer o lyfrgelloedd a fframweithiau llai eraill, y gallwch ddod o hyd iddyn nhw yn ein  storfa <a href="{ $github }">{ -brand-name-github }</a>.
 # Variables:
 #   $credits (url) link to https://www.mozilla.org/credits/
-about-this-site-we-extend = Hoffwn estyn ein diolch i holl <a href="{ $credits }">gyfranwyr</a> { -brand-name-mozilla } sydd wedi helpu i wneud y we yn lle gwell.
+about-this-site-we-extend = Hoffwn ddiolch i holl <a href="{ $credits }">gyfranwyr</a> { -brand-name-mozilla } sydd wedi helpu i wneud y we yn lle gwell.
