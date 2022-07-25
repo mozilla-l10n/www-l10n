@@ -21,6 +21,7 @@ about-this-site-today = Hoy, este es el sitio donde la gente viene a descargar <
 about-this-site-like-many = Como muchos de nuestros productos, este sitio web también es de código abierto:
 about-this-site-view-source = Ver el código fuente en { -brand-name-github }
 about-this-site-report-a-bug = Informá sobre una falla
+about-this-site-contribute-to-code = Contribuí al código base
 about-this-site-contribute-to-l10n = Contribuí con las traducciones
 about-this-site-read-the-docs = Leé la documentación
 about-this-site-colophon = Colofón
@@ -29,3 +30,15 @@ about-this-site-some-open-source-projects = Algunos proyectos de código abierto
 #   $django (url) link to https://www.djangoproject.com/
 #   $jinja (url) link to https://jinja.palletsprojects.com/
 about-this-site-django = <a href="{ $django }">Django</a> como entorno de backend web, con <a href="{ $jinja }">Jinja</a> para las plantillas.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = El sistema de diseño <a href="{ $protocol }">Protocol</a> de { -brand-name-mozilla } para los componentes frontend y la marca.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = El sistema de localización <a href="{ $fluent }">Fluent</a> de { -brand-name-mozilla } para la traducción de idiomas.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Muchas otras bibliotecas y framewoeks más pequeños, que podés encontrar en nuestro <a href="{ $github }">{ -brand-name-github } repositorio</a>.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Extendemos nuestro agradecimiento a todos los <a href="{ $credits }">colaboradores</a> de { -brand-name-mozilla } que han ayudado a hacer de la web un lugar mejor.
