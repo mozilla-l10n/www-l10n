@@ -22,6 +22,10 @@ vpn-mobile-privacy-headline = Preifatrwydd mewn un clic
 vpn-mobile-privacy-copy = Mae'r ap { -brand-name-mozilla-vpn } yn amgryptio'ch cysylltiad rhyngrwyd ac yn cuddio'r cyfeiriad IP ar eich ffôn symudol neu dabled gan ddefnyddio protocol uwch { -brand-name-wireguard }®.
 vpn-mobile-servers-headline = Cysylltwch â gweinyddion ledled y byd
 # Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-mobile-servers-copy = Porwch o Frasil. Chwarae gêm o Japan. Ffrydio o Fecsico. Mae { -brand-name-mozilla-vpn } yn gadael i chi newid lleoliad eich ffôn neu'ch cyfrifiadur i un o { $servers } o weinyddion.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Diogelwch hyd at { $devices } o ddyfeisiau
 vpn-mobile-devices-copy = Mae eich tanysgrifiad yn sicrhau mynediad diderfyn i'n gwasanaeth VPN diogel ar eich ffôn clyfar, llechen a'ch bwrdd gwaith ar gyfer { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.

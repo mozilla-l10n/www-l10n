@@ -75,3 +75,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Dilyn @{ -brand-name-mozilla }
 footer-follow-firefox = Dilyn @{ -brand-name-firefox }
+footer-about-this-site = Am y wefan hon

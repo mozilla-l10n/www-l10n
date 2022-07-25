@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = Dilynwch <a href="{ $url }">y cyfarwydd
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Efallai nad yw eich system yn cwrdd â gofynion { -brand-name-firefox }, ond mae modd i chi brofi un o'r <a href="{ $url }">rhain</a>:
+firefox-desktop-download-taskbar = Bydd { -brand-name-firefox } yn cael ei binio i'r bar tasgau { -brand-name-windows } ar ôl ei osod
