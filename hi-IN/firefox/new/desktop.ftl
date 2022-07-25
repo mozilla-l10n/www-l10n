@@ -177,6 +177,7 @@ firefox-desktop-download-now-mac = अब डाउनलोड की गई �
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = कोई परेशानी है? <a { $attrs }>इंस्टॉलेशन संबंधी सहायता प्राप्त करें</a>।
 firefox-desktop-download-in-another-language = किसी अन्य भाषा में या किसी अन्य ऑपरेटिंग सिस्टम के लिए डाउनलोड करें।
+firefox-desktop-download-windows = { -brand-name-windows }
 
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
@@ -211,3 +212,4 @@ firefox-desktop-download-please-follow = { -brand-name-firefox } इंस्ट
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = आपका सिस्टम { -brand-name-firefox } के लिए ज़रूरी आवश्यकताओं पर खरा नहीं उतरता, मगर आप <a href="{ $url }">इनमें से कोई एक संस्करण</a> आज़मा सकते हैं।
 
+firefox-desktop-download-taskbar = इंस्टॉलेशन के बाद { -brand-name-firefox } को { -brand-name-windows } टास्कबार पर पिन कर दिया जाएगा

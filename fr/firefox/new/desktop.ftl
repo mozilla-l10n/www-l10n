@@ -177,6 +177,7 @@ firefox-desktop-download-now-mac = À présent, <strong>ouvrez</strong> le fichi
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Vous avez des problèmes ? <a { $attrs }>Obtenez de l’aide pour l’installation</a>.
 firefox-desktop-download-in-another-language = Télécharger l’application dans une autre langue ou pour un autre système d’exploitation.
+firefox-desktop-download-windows = { -brand-name-windows }
 
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
@@ -211,3 +212,4 @@ firefox-desktop-download-please-follow = Veuillez suivre <a href="{ $url }">ces 
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Votre système ne dispose peut-être pas de la configuration requise pour { -brand-name-firefox }, mais vous pouvez essayer l’une de <a href="{ $url }">ces versions</a>.
 
+firefox-desktop-download-taskbar = { -brand-name-firefox } sera épinglé à la barre des tâches { -brand-name-windows } après l’installation
