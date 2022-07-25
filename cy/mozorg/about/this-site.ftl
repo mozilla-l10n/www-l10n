@@ -24,3 +24,21 @@ about-this-site-report-a-bug = Adrodd ar wall
 about-this-site-contribute-to-code = Cyfrannwch at y cod sylfaen
 about-this-site-contribute-to-l10n = Cyfrannwch at gyfieithiadau
 about-this-site-read-the-docs = Darllenwch y ddogfennaeth
+about-this-site-colophon = Coloffon
+about-this-site-some-open-source-projects = Rhai projectau cod agored a ddefnyddiwyd i wneud y wefan hon:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> y fframwaith gwe cefn, gyda <a href="{ $jinja }">Jinja</a> ar gyfer templedu.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = System ddylunio <a href="{ $protocol }">Protocol</a> ar gyfer cydrannau pen blaen a brandio { -brand-name-mozilla }.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = System leoleiddio <a href = " { $fluent } "> Fluent</a> { -brand-name-mozilla } ar gyfer cyfieithu.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Llawer o lyfrgelloedd a fframweithiau llai eraill, y gallwch ddod o hyd iddyn nhw yn ein  storfa <a href="{ $github }">{ -brand-name-github }</a>.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Hoffwn estyn ein diolch i holl <a href="{ $credits }">gyfranwyr</a> { -brand-name-mozilla } sydd wedi helpu i wneud y we yn lle gwell.
