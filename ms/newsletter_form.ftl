@@ -10,6 +10,7 @@ newsletter-form-your-email-address = Alamat e-mel anda
 newsletter-form-yournameexamplecom = namaanda@contoh.com
 
 newsletter-form-select-country-or-region = Pilih negara atau wilayah
+newsletter-form-select-language = Pilih bahasa
 newsletter-form-your-email-here = E-MEL ANDA DI SINI
 newsletter-form-format = Format
 newsletter-form-html = HTML
