@@ -2,24 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# ID checks
-# ID01: check that identifiers only use lowercase and hyphens
-# ID02: check that identifiers have a minimum length
-#
-# Syntax checks
-#
-# Specify if syntax features are disabled. If the config is missing, it
-# will considered as enabled.
-#
-# Example:
-# SY01:
-#     disabled: true
-#
-# SY01: terms
-# SY02: message references
-# SY03: term references
-# SY04: variants
-# SY05: attributes
+# See https://github.com/mozilla-l10n/moz-fluent-linter/blob/main/src/fluent_linter/config.yml
+# for details
 
 ---
 ID01:
@@ -33,3 +17,29 @@ ID02:
     exclusions:
         messages: []
         files: []
+CO01:
+    enabled: true
+    brands:
+        - Firefox
+        - Mozilla
+        - Pocket
+    exclusions:
+        files: []
+        messages:
+            # 404-locale.ftl
+            - not-found-locale-title
+            # firefox/browsers.ftl
+            - firefox-browsers-already-have-an-account-sign
+            # firefox/browsers/compare/chrome.ftl
+            - compare-chrome-weve-also-recently-restated
+            # firefox/features/translate.ftl
+            - features-translate-for-everyone
+            # firefox/privacy/passwords.ftl
+            - privacy-passwords-firefox-will
+            - privacy-passwords-in-todays-internet
+            # mozorg/mission.ftl
+            - mission-at-mozilla-were-a-global-community
+            - mission-read-the-mozilla-manifesto-to-learn
+            - mission-our-structure-organization-and-the
+            # mozorg/newsletters.ftl
+            - newsletters-former-university-program
