@@ -50,6 +50,7 @@ firefox-new-please-follow = Bitte folgen Sie <a href="{ $url }">dieser Anleitung
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Möglicherweise erfüllt Ihr System nicht alle Voraussetzungen für { -brand-name-firefox }. Versuchen Sie es mit einer <a href="{ $url }">dieser Versionen</a>.
 
+firefox-new-windows = { -brand-name-windows }
 
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
@@ -70,3 +71,4 @@ firefox-new-from-mozilla = von { -brand-name-mozilla }
 
 firefox-new-desc = { -brand-name-firefox-browser } ist ein kostenloser Internetbrowser, der sich durch schnelle Ladezeiten, geringen Speicherverbrauch und viele Funktionen auszeichnet – ein Projekt der gemeinnützigen Organisation { -brand-name-mozilla }.
 firefox-new-download-a-different = Firefox für andere Plattformen & Sprachen herunterladen
+firefox-new-taskbar = { -brand-name-firefox } wird nach der Installation an die { -brand-name-windows } Taskleiste angeheftet
