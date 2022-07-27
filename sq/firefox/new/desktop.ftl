@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Bllokon gjurmues shoqërorësh
 firefox-desktop-download-os-availability = Pasje në OS
 firefox-desktop-download-in-browser-screenshot = Mjet fotografimi ekrani brenda shfletuesit
 firefox-desktop-download-primary-password = Fjalëkalim parësor
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Duajeni jetën tuaj internetore
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Është interneti juaj. Ngjyroseni si doni, me mijëra mjete, tema dhe zgjerime. { -brand-name-firefox }-i është shfletuesi alternativ që vendos njerëzit përpara fitimeve.
 # Obsolete string
@@ -144,6 +146,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Pyetje? Mbulohen për ju nga <a { $attrs }>asistenca e { -brand-name-mozilla }</a>.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = E keni tashmë shfletuesin. Tani merrni edhe më tepër gjëra nga { -brand-name-firefox }.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Vëzhgoni për hacker-a, përmes { -brand-name-firefox-monitor }, mbroni fjalëkalimet me { -brand-name-firefox-lockwise }, etj.
 firefox-desktop-download-get-more-from-firefox = Përfitoni Më Tepër Nga { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Thjesht Shkarkoni Shfletuesin
@@ -161,6 +164,8 @@ firefox-desktop-download-now-mac = Tani <strong>hapni</strong> kartelën që sap
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Keni vështirësi? <a { $attrs }>Merrni ndihmë për instalimin tuaj</a>.
 firefox-desktop-download-in-another-language = Shkarkojeni në një gjuhë tjetër ose për një tjetër sistem operativ.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -186,3 +191,4 @@ firefox-desktop-download-please-follow = Që të instaloni { -brand-name-firefox
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Sistemi juaj mund të mos i plotësojë domosdoshmëritë e { -brand-name-firefox }-it, por mund të provoni një nga <a href="{ $url }">këto versione</a>.
+firefox-desktop-download-taskbar = { -brand-name-firefox } do të fiksohet te paneli { -brand-name-windows } pas instalimit

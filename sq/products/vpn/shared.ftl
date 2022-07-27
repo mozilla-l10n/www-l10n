@@ -123,6 +123,7 @@ vpn-subnav-vpn-vs-proxy = VPN vs Ndërmjetësi
 #   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Që të kuptojmë se cili partner i yni ju pruri te { -brand-name-mozilla-vpn }, përdorim <em>cookies</em>. Nuk u japim partnerëve tanë të dhëna që lejojnë identifikim personal. Lexoni <a { $attrs }>Rregullat tona të Privatësisë</a>.
 vpn-shared-affiliate-notification-reject = Hidhe tej
+vpn-shared-affiliate-notification-ok = OK
 
 ##
 
