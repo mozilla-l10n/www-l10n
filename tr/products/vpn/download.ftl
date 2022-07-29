@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
+vpn-download-page-title = { -brand-name-mozilla-vpn }’i indir
 vpn-download-button-copy = İndir
 vpn-download-for-windows = { -brand-name-windows } 10/11 için VPN
 vpn-download-for-mac = { -brand-name-mac-short } için VPN
