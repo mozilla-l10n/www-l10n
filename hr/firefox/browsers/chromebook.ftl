@@ -17,6 +17,7 @@ browsers-chromebook-dropdown-copy = Preuzmi { -brand-name-firefox } za { -brand-
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Zašto preuzeti <span>{ -brand-name-firefox }</span> za { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Kad { -brand-name-chromebook } već ima { -brand-name-chrome }, preuzimanje i korištenje { -brand-name-firefox } kao preglednika za otvaranje pruža nekoliko pogodnosti:
+browsers-chromebook-alwayson-tracking-protection = Uvijek uključena zaštita od praćenja: { -brand-name-firefox } standardno pokreće poboljšanu zaštitu od praćenja (ETP) kako bi zaštitio tvoje osobne podatke od poznatih programa za praćenje oglasa, društvenih programa za praćenje i skripta koje te prate na webu.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
