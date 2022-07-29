@@ -77,7 +77,7 @@ navigation-sign-up = Зареєструватися
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Швидкий. Простий. Приватний.
 navigation-protect-your-entire-device = Повністю захистіть свій пристрій і всі програми. Замаскуйте своє справжнє місцеперебування та під'єднайте до 5 пристроїв. Передплачуйте вже зараз.
 # Outdated string
-navigation-connected-and-protected = Підключено та захищено
+navigation-connected-and-protected = Під'єднано та захищено
 navigation-join = Приєднатися
 navigation-close-join-menu = Закрити меню приєднання
 navigation-sign-in = Увійти
