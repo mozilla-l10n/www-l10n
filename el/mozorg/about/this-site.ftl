@@ -9,3 +9,6 @@ about-this-site-title = Σχετικά με τον ιστότοπο
 about-this-site-report-a-bug = Αναφορά σφάλματος
 about-this-site-contribute-to-code = Συνεισφορά στη βάση κώδικα
 about-this-site-contribute-to-l10n = Συνεισφορά στις μεταφράσεις
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Πολλές άλλες, μικρότερες βιβλιοθήκες και πλαίσια, τα οποία μπορείτε να βρείτε στο <a href="{ $github }">αποθετήριό μας στο { -brand-name-github }</a>.
