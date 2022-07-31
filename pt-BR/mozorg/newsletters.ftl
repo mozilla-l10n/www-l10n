@@ -61,7 +61,7 @@ newsletters-there-are-many-ways-to = Existem várias maneiras de se envolver com
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } não é um boletim informativo valido
 newsletters-subscribe = Cadastrar
-newsletters-remove-me-from-all-the = Me remover de todas as inscrições nesta página
+newsletters-remove-me-from-all-the = Cancelar todas as minhas inscrições nesta página
 newsletters-save-preferences = Salvar configurações
 # Page title for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-newsletter-email-recovery = Email de recuperação do boletim informativo
