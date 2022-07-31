@@ -34,6 +34,9 @@ compare-safari-in-addition-to-the-regular = 탭 브라우징 및 시크릿 브�
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = { -brand-name-safari }와 마찬가지로 { -brand-name-firefox }는 열정적인 개발자 커뮤니티가 브라우저에 <a { $attrs }>부가 기능 및 확장 프로그램 </a>을 만들도록 권장합니다. 그리고 우리 플랫폼은 오픈 소스이기 때문에 다양한 기능을 추가할 수 있는 선택이 가능합니다.
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated = 또한 { -brand-name-firefox } 계정에 가입하면 브라우저에 들어 있는 <a { $pocket }>{ -brand-name-pocket }</a>과 같은 고유한 서비스에 접근 할 수 있습니다. { -brand-name-firefox } 용 { -brand-name-pocket } 버튼을 사용하면 단 한 번의 클릭으로 웹 페이지와 동영상을 { -brand-name-pocket }에 저장할 수 있고 오프라인에서도 언제 어디서나 깔끔하고 방해 없이 읽을 수 있습니다.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
@@ -53,6 +56,9 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }> 스크린 샷 </a
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } 및 { -brand-name-safari } 모두 데스크톱에서 모바일 탐색으로 이동할 때 원활한 경험을 제공합니다. { -brand-name-safari }의 주요 강점 중 하나는 연속성 기능입니다. 북마크, 탭, 방문 기록 등을 iCloud에 동기화하여 모든 기기에서 사용할 수 있습니다. 즉, { -brand-name-iphone }에서 탭을 열고 클릭 한 번으로 { -brand-name-mac } 노트북에도 표시되도록 할 수 있습니다.
 compare-safari-both-browsers-have-a-lot = 양 브라우저 모두 크로스 오버 기능과 몇 가지 고유한 기능이 있습니다. 스크린 샷을 많이 찍는다면 { -brand-name-firefox }가 제공하는 편리한 기능이 좋습니다. 웹 서핑과 쇼핑을 위한 빠른 웹 브라우저를 찾고 있다면 { -brand-name-firefox }를 사용해보세요. 만약, { -brand-name-safari }를 주로 사용했다면, 컴퓨터에 기본 브라우저로 설정되어 있기 때문입니다. 어떤 것이 좋을지 선택해 보시기 바랍니다.
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox }는 <a { $attrs }>{ -brand-name-firefox-account }</a>에 가입한 사용자가 북마크를 쉽게 동기화 할 수 있는 기능을 제공합니다. 동기화 항목에는 검색 기록, 기본 설정, 비밀번호, 양식, 부가 기능 및 마지막으로 사용한 25개 탭 정보도 포함합니다. { -brand-name-firefox }가 { -brand-name-safari }와 다른 점은 { -brand-name-windows }나 { -brand-name-mac } 같은 데스크톱 또는 { -brand-name-ios }, { -brand-name-android }에서 모바일 플랫폼을 사용할 수 있다는 것입니다. 여러분이 가진 모든 장치에서 휴대성에서 도움을 줍니다.
 # Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics

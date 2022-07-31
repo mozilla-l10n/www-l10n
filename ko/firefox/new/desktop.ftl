@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = { -brand-name-firefox } 설치를 위�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만, <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.
+firefox-desktop-download-taskbar = { -brand-name-firefox }가 설치 후 { -brand-name-windows } 작업 표시줄에 고정됩니다.

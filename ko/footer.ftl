@@ -75,3 +75,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = @{ -brand-name-mozilla } 팔로우
 footer-follow-firefox = @{ -brand-name-firefox } 팔로우
+footer-about-this-site = 이 사이트 정보
