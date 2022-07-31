@@ -37,5 +37,8 @@ about-this-site-mozilla-protocol = Sistema di design <a href="{ $protocol }">Pro
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = <a href="{ $fluent }">Fluent</a>, il sistema di localizzazione di { -brand-name-mozilla } per la traduzione in altre lingue.
 # Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Molte altre librerie e framework secondari, che puoi trovare nel nostro <a href="{ $github }">repository su { -brand-name-github }</a>.
+# Variables:
 #   $credits (url) link to https://www.mozilla.org/credits/
 about-this-site-we-extend = Vogliamo ringraziare tutti i <a href="{ $credits }">collaboratori</a> { -brand-name-mozilla } che ci hanno aiutato a rendere il Web un posto migliore.
