@@ -22,7 +22,15 @@
         [ins] Facebookom
     }
     .gender = masculine
--brand-name-github = GitHub
+-brand-name-github =
+    { $case ->
+       *[nom] GitHub
+        [gen] GitHubu
+        [dat] GitHubu
+        [acc] GitHub
+        [loc] GitHube
+        [ins] GitHubom
+    }
 -brand-name-google = Google
 -brand-name-hulu = Hulu
 -brand-name-microsoft =
