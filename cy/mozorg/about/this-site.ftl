@@ -35,7 +35,7 @@ about-this-site-django = <a href="{ $django }">Django</a> y fframwaith gwe cefn,
 about-this-site-mozilla-protocol = System ddylunio <a href="{ $protocol }">Protocol</a> ar gyfer cydrannau pen blaen a brandio { -brand-name-mozilla }.
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
-about-this-site-fluent = System leoleiddio <a href = " { $fluent } "> Fluent</a> { -brand-name-mozilla } ar gyfer cyfieithu.
+about-this-site-fluent = System leoleiddio <a href="{ $fluent }">Fluent</a> { -brand-name-mozilla } ar gyfer cyfieithu.
 # Variables:
 #   $github (url) link to https://github.com/mozilla/bedrock
 about-this-site-many-other = Llawer o lyfrgelloedd a fframweithiau llai eraill, y gallwch ddod o hyd iddyn nhw yn ein  storfa <a href="{ $github }">{ -brand-name-github }</a>.
