@@ -93,10 +93,10 @@ newsletters-unlock-the-world-of-web = Aprofunde-se no mundo do desenvolvimento w
 # Obsolete string
 newsletters-join-thousands-of-developers = Junte-se a milhares de desenvolvedores que, como você, estão aprendendo o melhor do desenvolvimento web.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
-newsletters-put-more-fox-in-your-inbox = Tenha a Fox na sua caixa de entrada.
+newsletters-put-more-fox-in-your-inbox = Tenha mais raposa na sua caixa de entrada.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
-newsletters-see-where-the-web-can-take = Veja aonde a Web pode te levar com as dicas e truques do { -brand-name-firefox } e a Internet.
-newsletters-we-are-sorry-but-there = Desculpe-nos, mas houve um problema em nosso sistema. Por favor, tente novamente mais tarde!
+newsletters-see-where-the-web-can-take = Veja até onde a web pode te levar com dicas e truques semanais do { -brand-name-firefox } e informações da internet.
+newsletters-we-are-sorry-but-there = Desculpe, mas houve um problema em nosso sistema. Tente novamente mais tarde!
 newsletters-thanks-for-updating-your = Obrigado por atualizar suas preferências de email.
 newsletters-the-supplied-link-has-expired-long = O link fornecido expirou ou não é válido. Você receberá um novo na próxima newsletter ou você pode solicitar abaixo um email com o link.
 newsletters-success-an-email-has-been-sent = Sucesso! Um email foi enviado a você com um link para seu centro de preferências. Obrigado!
