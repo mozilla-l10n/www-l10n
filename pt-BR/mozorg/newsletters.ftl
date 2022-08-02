@@ -34,7 +34,7 @@ newsletters-open-your-inbox-and-your = Abra sua caixa de entrada (e seu coraçã
 newsletters-manage-your-email-preferences = Gerencie suas preferências de email
 newsletters-this-page-is-in-maintenance = Esta página está em manutenção e está temporariamente indisponível.
 newsletters-to-update-your-email-preferences = Para alterar suas preferências de email, volte daqui a pouco. Obrigado!
-newsletters-we-love-sharing-updates = Nós amamos compartilhar as novidades sobre tudo que está acontecendo na { -brand-name-mozilla }.
+newsletters-we-love-sharing-updates = Adoramos compartilhar novidades sobre todas as coisas incríveis que acontecem na { -brand-name-mozilla }.
 newsletters-set-your-preferences-below = Ajuste suas preferências abaixo para garantir que você receba tudo que te interessa.
 # Form field label
 newsletters-your-email-address = Seu endereço de email:
