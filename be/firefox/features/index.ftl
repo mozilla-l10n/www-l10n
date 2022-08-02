@@ -13,8 +13,14 @@ features-index-youre-in-control-with-firefoxs = Вы кіруеце магчым
 features-index-firefox-features = Магчымасці { -brand-name-firefox }
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox } — гэта хуткі, лёгкі браўзер, арыентаваны на прыватнасць, які працуе на ўсіх вашых прыладах.
+features-index-add-powerful-functions = Дадайце магутныя функцыі, карысныя магчымасці і нават трохі забавы ў свой браўзер { -brand-name-firefox }.
 features-index-see-all = Паглядзець усе пашырэнні
+features-index-give-your-browser = Надайце свайму браўзеру патрэбны выгляд з дапамогай тысяч розных тэм.
+features-index-important-stuff = Упэўніцеся, што ўсе вашы важныя рэчы — пошукі ў Інтэрнэце, паролі, адкрытыя карткі — з'яўляюцца там, дзе вам гэта трэба, на кожнай прыладзе.
 features-index-get-an-account = Стварыць { -brand-name-firefox-account }
+features-index-use-the-bookmark = Выкарыстоўвайце значок закладкі, каб захоўваць парадак і хутка дадаваць уласныя назвы і папкі.
+features-index-from-the-company = Ад кампаніі, якая ставіць людзей вышэй за прыбытак
+features-index-private-browsing-mode = Рэжым прыватнага аглядання выдаляе кукі і вашу гісторыю аглядання кожны раз, калі вы закрываеце яго.
 features-index-see-what-makes-us-different = Даведайцеся, што робіць нас іншымі
 features-index-on-a-mission = Наша місія: трымаць Інтэрнэт адкрытым і даступным для ўсіх.
 features-index-read-mozillas-mission = Прачытайце пра місію { -brand-name-mozilla }
