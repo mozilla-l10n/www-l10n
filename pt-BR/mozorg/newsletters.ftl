@@ -136,15 +136,15 @@ newsletters-about-standards = Sobre padrões
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = Desenvolvimento de extensões
 # Name for the newsletter in Newsletter subscription page
-newsletters-developer-newsletter = Novidades para o desenvolvedor
+newsletters-developer-newsletter = Boletim informativo para desenvolvedores
 # Description for the newsletter in Newsletter subscription page (Developer Newsletter)
-newsletters-a-developers-guide = Um guia para desenvolvedores que destaca as inovações na plataforma Web, boas práticas, nova documentação e mais.
+newsletters-a-developers-guide = Um guia para desenvolvedores que destaca inovações de plataforma web, boas práticas, nova documentação e mais.
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Grupo de discussão do Drumbeat
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-for-desktop = { -brand-name-firefox } para Desktop
+newsletters-firefox-for-desktop = { -brand-name-firefox } para computador
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-newsletters-dont-miss-the-latest = Fique por dentro das últimas novidades sobre nosso navegador para desktops.
+newsletters-dont-miss-the-latest = Não perca as últimas novidades sobre nosso navegador para computador.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Envolva-se
 # Name for the newsletter in Newsletter subscription page
@@ -156,7 +156,7 @@ newsletters-mozilla-published-articles-and-deep = A { -brand-name-mozilla } publ
 # Obsolete string
 newsletters-keep-up-with-our-annual = Acompanhe nossa coleção anual de pesquisas e histórias sobre problemas de privacidade e segurança, abertura, inclusão digital, descentralização e alfabetização na web.
 # Name for the newsletter in Newsletter subscription page
-newsletters-knowledge-is-power = Conhecimento é Poder
+newsletters-knowledge-is-power = Conhecimento é poder
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
 newsletters-get-all-the-knowledge = Obtenha todo o conhecimento que precisa para ficar mais seguro e esperto online.
 # Name for the newsletter in Newsletter subscription page
@@ -166,13 +166,13 @@ newsletters-desktop = Desktop
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
 # Description for the newsletter in Newsletter subscription page (Mozillians)
-newsletters-email-updates-from-vouched = Atualizações para Mozillians aprovados no mozillians.org.
+newsletters-email-updates-from-vouched = Novidades por email para Mozillians aprovados no mozillians.org.
 # Name for the newsletter in Newsletter subscription page
-newsletters-shapre-of-the-web = Forma da Web
+newsletters-shapre-of-the-web = Modelagem da web
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
-newsletters-news-and-information = Notícias e informações relacionadas com a saúde da web.
+newsletters-news-and-information = Notícias e informações relacionadas à saúde da web.
 # Name for the newsletter in Newsletter subscription page
-newsletters-student-reps = Reps estudantes
+newsletters-student-reps = Representantes estudantis
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Programa universitário de 2008 a 2011, agora relançado como Firefox Student Ambassadors.
 # Name for the newsletter in Newsletter subscription page
