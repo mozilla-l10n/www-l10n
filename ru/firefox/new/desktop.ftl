@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = Пожалуйста, следуйте 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Ваша система может не удовлетворять требованиям { -brand-name-firefox }, но вы можете попробовать одну из <a href="{ $url }">этих версий</a>.
+firefox-desktop-download-taskbar = { -brand-name-firefox } будет закреплён на панели задач { -brand-name-windows } после установки
