@@ -6,7 +6,7 @@
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 # Page title the subscription preferences page
-newsletters-newsletter-subscriptions = Assinaturas de boletins informativos
+newsletters-newsletter-subscriptions = Inscrições em boletins informativos
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = Boletim informativo da { -brand-name-mozilla }
 # Headline for https://www-dev.allizom.org/newsletter/
@@ -18,7 +18,7 @@ newsletters-subscribe-to-updates-and-keep = Se inscreva para receber novidades e
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Confirmação do boletim informativo
 newsletters-thanks-for-subscribing = Obrigado por se inscrever!
-newsletters-your-newsletter-subscription = A sua assinatura do boletim informativo foi confirmada.
+newsletters-your-newsletter-subscription = Sua inscrição no boletim informativo foi confirmada.
 newsletters-please-be-sure-to-add-our-v2 = Certifique-se de adicionar nosso endereço de envio mozilla@email.mozilla.org no seu catálogo de endereços para garantir que nossas mensagens sempre cheguem à sua caixa de entrada.
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Adicione nosso endereço mozilla@e.mozilla.org em seus contatos para garantir que nossas mensagens sejam entregues corretamente.
@@ -248,7 +248,7 @@ newsletters-firefox-os-news = Novidades, dicas, informações sobre lançamento 
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
-newsletters-keep-up-with-releases = Saiba de todas as novidades do { -brand-name-firefox } para { -brand-name-android }.
+newsletters-keep-up-with-releases = Acompanhe lançamentos e notícias sobre o { -brand-name-firefox } para { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = Notícias do { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox News)
@@ -272,7 +272,7 @@ newsletters-special-accouncements-and-messages = Declarações especiais e mensa
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = Rede de aprendizagem da { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
-newsletters-updates-from-our-global = Novidades de nossa comunidade global, ajudando as pessoas a aprenderem as mais importantes habilidades da nossa época: a habilidade de ler, escrever e participar do mundo digital.
+newsletters-updates-from-our-global = Novidades de nossa comunidade global, ajudando as pessoas a aprender as mais importantes habilidades da nossa época: capacidade de ler, escrever e participar no mundo digital.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Description for the newsletter in Newsletter subscription page (Mozilla Labs)
