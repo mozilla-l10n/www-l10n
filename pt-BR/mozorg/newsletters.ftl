@@ -102,23 +102,23 @@ newsletters-the-supplied-link-has-expired-long = O link fornecido expirou ou nã
 newsletters-success-an-email-has-been-sent = Sucesso! Um email foi enviado a você com um link para seu centro de preferências. Obrigado!
 newsletters-this-is-not-a-valid-email = Este não é um endereço de email válido. Verifique se digitou corretamente.
 newsletters-you-send-too-many-emails = Vocês mandam emails demais.
-newsletters-your-content-wasnt-relevant = Não tinha interesse nos conteúdos enviados.
-newsletters-your-email-design = Suas mensagens eram difíceis de entender.
-newsletters-i-didnt-sign-up = Eu não me inscrevi para isto.
+newsletters-your-content-wasnt-relevant = O conteúdo não era relevante para mim.
+newsletters-your-email-design = O formato dos emails era muito difícil de ler.
+newsletters-i-didnt-sign-up = Eu não me inscrevi para receber isso.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Este endereço de email não está no nosso sistema. Verifique seu endereço ou <a href="{ $url }">assine nossas newsletters</a>.
 newsletters-im-keeping-in-touch-v2 = Em vez disso, estou mantendo contato com a { -brand-name-mozilla } pelo { -brand-name-twitter }.
 # Obsolete string
-newsletters-im-keeping-in-touch = Vou acompanhar a { -brand-name-mozilla } no { -brand-name-facebook } e no { -brand-name-twitter } somente.
+newsletters-im-keeping-in-touch = Em vez disso, vou manter contato com a { -brand-name-mozilla } no { -brand-name-facebook } e no { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
-newsletters-sign-up-read-up-stay-informed = Inscreva-se, leia,<br> fique informado.
+newsletters-sign-up-read-up-stay-informed = Inscreva-se, investigue,<br> mantenha-se informado.
 # Obsolete string
-newsletters-sign-up-read-up-make-a-difference = Inscreva-se. Leia.<br> Faça a diferença.
+newsletters-sign-up-read-up-make-a-difference = Inscreva-se. Investigue.<br> Faça a diferença.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Fique atento às questões que afetam sua vida online.
 # Obsolete string
-newsletters-get-the-mozilla-newsletter = Receba o boletim informativo da { -brand-name-mozilla } e mantenha-se informado sobre problemas que afetam a saúde da Internet e descubra como você pode se envolver.
+newsletters-get-the-mozilla-newsletter = Receba o boletim informativo da { -brand-name-mozilla } e mantenha-se informado sobre problemas que afetam a saúde da internet e descubra como você pode se envolver.
 newsletters-your-email-preferences = Suas preferências de email foram atualizadas com sucesso.
 newsletters-consider-it-done = Considere feito
 newsletters-back-to-email-preferences = Voltar às preferências de email
