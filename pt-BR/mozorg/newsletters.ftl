@@ -174,33 +174,33 @@ newsletters-news-and-information = Notícias e informações relacionadas à sa�
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Representantes estudantis
 # Description for the newsletter in Newsletter subscription page (Student Reps)
-newsletters-former-university-program = Programa universitário de 2008 a 2011, agora relançado como Firefox Student Ambassadors.
+newsletters-former-university-program = Anterior programa universitário de 2008 a 2011, agora relançado como programa de embaixadores estudantis do Firefox.
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Tome uma atitude pela internet
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
-newsletters-add-your-voice = Adicione sua voz a petições, eventos e iniciativas que lutam pelo futuro da web.
+newsletters-add-your-voice = Adicione sua voz a petições, eventos e iniciativas que defendem o futuro da web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Teste de novos produtos
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better = Ajude-nos a criar um { -brand-name-firefox } melhor para você, testando nossos últimos produtos e recursos.
+newsletters-help-us-make-a-better = Ajude-nos a criar um { -brand-name-firefox } melhor para você, sendo piloto de teste de nossos produtos e recursos mais recentes.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Comunidade { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = Junte-se a Mozillians do mundo todo e aprenda sobre oportunidades impactantes de apoiar a missão da { -brand-name-mozilla }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
+newsletters-firefox-affiliates = Afiliados do { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
-newsletters-a-monthly-newsletter-affiliates = Um boletim informativo mensal para mante-lo atualizado com o programa afiliados do { -brand-name-firefox }.
+newsletters-a-monthly-newsletter-affiliates = Um boletim informativo mensal para te manter em dia com o programa de afiliados do { -brand-name-firefox }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-student-ambassadors = { -brand-name-firefox } Student Ambassadors
+newsletters-firefox-student-ambassadors = Embaixadores estudantis do { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-newsletters-a-monthly-newsletter-ambassadors = Um boletim mensal sobre como se envolver com a { -brand-name-mozilla } em sua região.
+newsletters-a-monthly-newsletter-ambassadors = Um boletim mensal sobre como se envolver com a { -brand-name-mozilla } no seu campus.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = Novidades do { -brand-name-beta }
 # Description for the newsletter in Newsletter subscription page (Beta News)
-newsletters-read-about-the-latest-features = Receba atualizações sobre os últimos recursos das versões do { -brand-name-firefox } que estão em fase Beta.
+newsletters-read-about-the-latest-features = Conheça os recursos mais recentes do { -brand-name-firefox } para computador e dispositivos móveis, antes do lançamento final.
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = Use o { -brand-name-firefox } para { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
