@@ -70,12 +70,12 @@ newsletters-manage-your-newsletter = Gerencie suas <span>inscrições em boletin
 # Subtitle for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-enter-your-email-address = Digite seu endereço de email e enviaremos um link para seu centro de preferências de email.
 newsletters-send-me-a-link = Envie o link
-newsletters-youve-been-unsubscribed = Você foi descadastrado.
-newsletters-were-sorry-to-see-you-go = Ficamos triste em te ver partir.
-newsletters-would-you-mind-telling-us = Que tal nos dizer porque você está nos deixando?
+newsletters-youve-been-unsubscribed = Sua inscrição foi cancelada.
+newsletters-were-sorry-to-see-you-go = Lamentamos te ver partir.
+newsletters-would-you-mind-telling-us = Poderia nos dizer o motivo de estar nos deixando?
 newsletters-other = Outros…
 newsletters-submit = Enviar
-newsletters-thanks-for-telling-us-why = Obrigado por nos dizer porque você se descadastrou.
+newsletters-thanks-for-telling-us-why = Obrigado por nos contar o motivo de cancelar.
 newsletters-while-here-why-not-check = Enquanto está por aqui, que tal conferir outras maravilhas do { -brand-name-firefox }?
 newsletters-get-up-and-go = Esteja livre para ir
 newsletters-its-your-web-anywhere-you = Tenha a web, onde quer que vá.
