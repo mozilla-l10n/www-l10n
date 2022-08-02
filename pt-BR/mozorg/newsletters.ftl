@@ -77,19 +77,19 @@ newsletters-other = Outros…
 newsletters-submit = Enviar
 newsletters-thanks-for-telling-us-why = Obrigado por nos contar o motivo de cancelar.
 newsletters-while-here-why-not-check = Enquanto está por aqui, que tal conferir outras maravilhas do { -brand-name-firefox }?
-newsletters-get-up-and-go = Esteja livre para ir
-newsletters-its-your-web-anywhere-you = Tenha a web, onde quer que vá.
+newsletters-get-up-and-go = Avante
+newsletters-its-your-web-anywhere-you = É sua web, onde quer que vá.
 newsletters-get-firefox-for-mobile = Instale o { -brand-name-firefox } para dispositivos móveis!
-newsletters-added-extras = Extensões
+newsletters-added-extras = Extensões adicionadas
 newsletters-make-firefox-do-more-with = Adicione recursos ao { -brand-name-firefox } com extensões.
-newsletters-find-out-how = Veja como!
+newsletters-find-out-how = Descubra como!
 newsletters-about-us = Sobre nós
 newsletters-whats-mozilla-all-about = Qual é o objetivo da { -brand-name-mozilla }?
 newsletters-were-glad-you-asked = Que bom que você perguntou!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
-newsletters-love-the-web-so-do-we = Ama a web? Nós também!
+newsletters-love-the-web-so-do-we = Adora a web? Nós também!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
-newsletters-unlock-the-world-of-web = Aprofunde-se no mundo do desenvolvimento web com nosso Boletim Informativo semanal { -brand-name-mozilla } Developer. Cada edição traz técnicas de programação e melhores práticas, atualizações da { -brand-name-mdn }, informações sobre tecnologias emergentes, dicas de ferramentas para desenvolvedores e mais.
+newsletters-unlock-the-world-of-web = Aprofunde-se no mundo do desenvolvimento web com nosso boletim informativo semanal { -brand-name-mozilla } Developer. Cada edição traz técnicas de programação e melhores práticas, novidades do { -brand-name-mdn }, informações sobre tecnologias emergentes, dicas de ferramentas de desenvolvimento e mais.
 # Obsolete string
 newsletters-join-thousands-of-developers = Junte-se a milhares de desenvolvedores que, como você, estão aprendendo o melhor do desenvolvimento web.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
