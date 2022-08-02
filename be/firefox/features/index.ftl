@@ -11,6 +11,8 @@ features-index-protect-your-privacy-and-browse = Ахоўвайце сваю п�
 features-index-youre-in-control-with-firefoxs = Вы кіруеце магчымасцямі { -brand-name-firefox }, якія ахоўваюць вашу прыватнасць і паскараюць агляданне.
 # Hero title
 features-index-firefox-features = Магчымасці { -brand-name-firefox }
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } — гэта хуткі, лёгкі браўзер, арыентаваны на прыватнасць, які працуе на ўсіх вашых прыладах.
 features-index-see-all = Паглядзець усе пашырэнні
 features-index-get-an-account = Стварыць { -brand-name-firefox-account }
 features-index-see-what-makes-us-different = Даведайцеся, што робіць нас іншымі
