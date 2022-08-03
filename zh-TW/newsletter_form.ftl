@@ -8,6 +8,7 @@ newsletter-form-your-email-address = 您的 E-Mail 信箱
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = 選擇國家或地區
+newsletter-form-select-language = 選擇語言
 newsletter-form-your-email-here = 在此輸入您的電子郵件地址
 newsletter-form-format = 格式
 newsletter-form-html = HTML

@@ -23,3 +23,9 @@ about-this-site-mozilla-protocol = { -brand-name-mozilla } 的 <a href="{ $proto
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = { -brand-name-mozilla } 的 <a href="{ $fluent }">Fluent</a> 在地化翻譯系統進行語言翻譯。
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = 還可以在我們的 <a href="{ $github }">{ -brand-name-github } repo</a> 找到許多小型程式庫與框架。
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = 我們也非常感謝所有曾經幫助讓 Web 環境變得更好的 { -brand-name-mozilla } <a href="{ $credits }">貢獻者</a>。
