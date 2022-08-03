@@ -53,3 +53,4 @@ features-index-translate-the-web = Пераклад сеціва
 features-index-translate-more-than = Перакладайце з больш за 100 моў на вашу мову непасрэдна ў вашым { -brand-name-firefox-browser } — прасцей, чым калі-небудзь.
 features-index-translate-to-your = Перакладайце на сваю мову
 features-index-picture-in-picture = Выява ў выяве
+features-index-got-things-to-do = Маеце рэчы, якія трэба зрабіць, і штось паглядзець? Скарыстайцеся функцыяй «выява ў выяве» у { -brand-name-firefox }.

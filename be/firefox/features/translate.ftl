@@ -6,10 +6,13 @@
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
 features-translate-translate-the-web = Перакладайце сеціва з дапамогаю { -brand-name-firefox }
+features-translate-the-google-translate = Пашырэнне To { -brand-name-google } Translate для { -brand-name-firefox } робіць Інтэрнэт даступным для ўсяго свету.
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Атрымаць пашырэнне
 features-translate-switch-languages-in = Пераключайце мовы ў { -brand-name-firefox }
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
 features-translate-if-you-are = Калі вы ўжо карыстаецеся { -brand-name-firefox }, можаце змяніць мову свайго браўзера або дадаць мовы ў інтэрфейс { -brand-name-firefox }. <a { $attrs }>Падрабязней тут.</a>
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }> і шмат іншых!</a>
 features-translate-for-everyone = Firefox — для ўсіх
