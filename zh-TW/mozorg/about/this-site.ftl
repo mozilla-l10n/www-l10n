@@ -17,3 +17,9 @@ about-this-site-some-open-source-projects = 打造此網站時，使用了下列
 #   $django (url) link to https://www.djangoproject.com/
 #   $jinja (url) link to https://jinja.palletsprojects.com/
 about-this-site-django = <a href="{ $django }">Django</a> 作為網站後端框架，並使用 <a href="{ $jinja }">Jinja</a> 作為網頁模板。
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = { -brand-name-mozilla } 的 <a href="{ $protocol }">Protocol</a> 設計系統，來編排前端元件與識別。
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = { -brand-name-mozilla } 的 <a href="{ $fluent }">Fluent</a> 在地化翻譯系統進行語言翻譯。
