@@ -105,13 +105,12 @@ vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 och senare)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 och senare)
+#   $version (number) - minimum supported version number
+vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } och senare)
 # Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a>(13.0 och senare)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 och senare)
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 och senare)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 och senare)
