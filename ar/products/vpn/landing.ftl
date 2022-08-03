@@ -134,17 +134,11 @@ vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -b
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = نظام تشغيل { -brand-name-android } (الإصدار 6 والأحدث منه)
 
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 وأعلى)
-
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 وأعلى)
-
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-ios = نظام تشغيل { -brand-name-ios } (الإصدار 13.0 والأحدث منه)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
