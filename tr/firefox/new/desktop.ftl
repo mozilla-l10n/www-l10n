@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = { -brand-name-firefox }’u yüklemek i
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Sisteminiz { -brand-name-firefox }’un gereksinimlerini karşılamıyor olabilir ama <a href="{ $url }">şu sürümlerden</a> birini deneyebilirsiniz.
+firefox-desktop-download-taskbar = Kurulumdan sonra { -brand-name-firefox }, { -brand-name-windows } görev çubuğuna sabitlenecektir
