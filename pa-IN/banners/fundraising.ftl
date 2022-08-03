@@ -5,10 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = ਇਸ ਛੁੱਟੀਆਂ ਦੇ ਸਮੇਂ ਦੌਰਾਨ ਵਧੀਆ ਇੰਟਰਨੈੱਟ ਲਈ { -brand-name-mozilla } ਦੇ ਸੰਘਰਸ਼ ਵਾਸਤੇ ਦੀ ਮਦਦ ਕਰੋ।
-banner-fundraising-title-giving-day = ਇਸ ਦਿੱਤੇ ਮੰਗਲਵਾਰ ਲਈ ਵਧੀਆ ਇੰਟਰਨੈੱਟ ਲਈ { -brand-name-mozilla } ਦੇ ਸੰਘਰਸ਼ ਵਾਸਤੇ ਦੀ ਮਦਦ ਕਰੋ।
+banner-fundraising-title-v2 = ਇਸ ਛੁੱਟੀਆਂ ਦੇ ਸਮੇਂ ਦੌਰਾਨ ਵਧੀਆ ਇੰਟਰਨੈੱਟ ਲਈ ਸੰਘਰਸ਼ ਵਾਸਤੇ { -brand-name-mozilla } ਦੀ ਮਦਦ ਕਰੋ।
+banner-fundraising-title-giving-day = ਇਸ ਦਿੱਤੇ ਮੰਗਲਵਾਰ ਲਈ ਵਧੀਆ ਇੰਟਰਨੈੱਟ ਲਈ ਸੰਘਰਸ਼ ਵਾਸਤੇ { -brand-name-mozilla } ਦੀ ਮਦਦ ਕਰੋ।
 # Outdated string
-banner-fundraising-title = ਭਵਿੱਖ ਦਾ ਫ਼ੈਸਲਾ ਆਨਲਾਈਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਡੇ ਸਾਰਿਆਂ ਲਈ ਵੈਬ ਵਾਸਤੇ { -brand-name-mozilla } ਨੂੰ ਕੰਮ ਕਰਨ ਲਈ ਮਦਦ ਕਰੋ।
+banner-fundraising-title = ਭਵਿੱਖ ਦਾ ਫ਼ੈਸਲਾ ਆਨਲਾਈਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਡੇ ਸਾਰਿਆਂ ਲਈ ਵੈਬ ਵਾਸਤੇ ਸੰਘਰਸ਼ ਕਰਨ ਲਈ { -brand-name-mozilla } ਦੀ ਮਦਦ ਕਰੋ।
 banner-fundraising-body-v2 = ਵੈੱਬ ਨੂੰ ਮਜ਼ਬੂਤ ਰੱਖਣ ਲਈ ਅਸੀਂ ਬੜੇ ਮਾਣ ਨਾਲ ਗ਼ੈਰ-ਫਾਇਦੇ ਦੇ ਰੂਪ ਵਿੱਚ ਕੰਮ ਕਰਦੇ ਹਾਂ। ਤੁਹਾਡਾ ਯੋਗਦਾਨ ਇੰਟਰਨੈੱਟ ਨੂੰ ਸੁਰੱਖਿਅਤ ਅਤੇ ਆਜ਼ਾਦ ਰੱਖਦਾ ਹੈ।
 banner-fundraising-body-extra = ਕੀ ਤੁਸੀਂ ਅੱਜ ਦਾਨ ਕਰੋਗੇ?
 banner-fundraising-monthly = ਮਹੀਨੇਵਾਰ
