@@ -10,7 +10,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protege tote tu apparato
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-page-desc = Usa { -brand-name-mozilla-vpn } pro protection total del apparato pro tote le applicationes. Con servitores in plus de { $paises } paises, tu pote connecter te a ubique, non importa ubi tu es.
+vpn-landing-page-desc = Usa { -brand-name-mozilla-vpn } pro protection total del apparato pro tote le applicationes. Con servitores in plus de { $countries } paises, tu pote connecter te a ubique, non importa ubi tu es.
 vpn-landing-hero-sub-heading-v2 = Securitate, fidelitate e velocitate, sur cata apparato, ubicunque tu va.
 # Obsolete string
 vpn-landing-hero-sub-heading = Securitate sur que tu pote contar. Un nomine digne de tu confidentia.
