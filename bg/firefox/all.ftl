@@ -17,6 +17,7 @@ firefox-all-browser = Мрежов четец:
 firefox-all-platform = Платформа:
 firefox-all-language = Език:
 firefox-all-lang-multi = Множество езици
+firefox-all-the-pre-alpha-version = Предварителното алфа издание за напреднали потребители, които обичат да ловуват сривове и да изпробват нови възможности, още по време на тяхната разработка.
 firefox-all-64-bit-installers = 64-битови инсталатори
 firefox-all-32-bit-installers = 32-битови инсталатори
 # HTML page title. Replace "English (US)" with your local language.
