@@ -97,7 +97,7 @@ firefox-desktop-download-change-new-tab = ახალ ჩანართზე 
 firefox-desktop-download-make-firefox-your = გახადეთ <strong>{ -brand-name-firefox }</strong> თქვენებური
 firefox-desktop-download-extensions-for-every = გაფართოებები ნებისმიერი საჭიროებისთვის
 firefox-desktop-download-change-up-your = შეცვალეთ გაფორმება
-firefox-desktop-download-go-from-light = გადადით ნათელიდან მუქ რეჟიმზე, განწყობის ან საჭიროების მიხედვით, ანდაც გამოაცოცხლეთ იერსახე, მორგებული თემით (ცისარტყელისფერება, ცალრქა ცხენით, თუნდაც).
+firefox-desktop-download-go-from-light = გადადით ნათელიდან მუქ რეჟიმზე განწყობის ან საჭიროების მიხედვით, ანდაც გამოაცოცხლეთ იერსახე მორგებული თემით (ცისარტყელისფერა ცალრქა ცხენით, თუნდაც).
 firefox-desktop-download-tweak-your-settings = მოირგეთ პარამეტრები
 firefox-desktop-download-theres-no-need = არაა აუცილებელი არსებულს დასჯერდეთ. შეცვალეთ ახალი ჩანართის გვერდი, ძიების ველი, სანიშნები და იმოგზაურეთ ინტერნეტში სასურველი გზებით.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -116,7 +116,7 @@ firefox-desktop-download-sync-your-devices = დასინქრონებ�
 firefox-desktop-download-screenshots = ეკრანის სურათები
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = თვალთვალისგან გაძლიერებული დაცვა
-firefox-desktop-download-from-watching-a = გაკვეთილს უყურებთ თუ საყვარელ გუნდს ადევნებთ თვალს, თქვენი ვიდეო მუდამ თქვენთან დარჩება, სხვა საქმეების კეთების დროსაც.
+firefox-desktop-download-from-watching-a = გაკვეთილს უყურებთ თუ საყვარელ გუნდს ადევნებთ თვალს, თქვენი ვიდეო მუდამ თქვენთან დარჩება სხვა საქმის კეთების დროსაც.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-android }-ზე</strong>
 firefox-desktop-download-get-firefox-ios = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-ios }-ზე</strong>
@@ -125,10 +125,10 @@ firefox-desktop-download-learn-about-the = ვრცლად, იხილე�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
-firefox-desktop-download-from-security-to = უსაფრთხოებისთვის, ახალი ამბებისთვის, თამაშებისთვის, <a { $attrs }>გაფართოებები ყველაფრისთვისაა</a>. დაამატეთ რამდენიც მოგესურვებათ.
+firefox-desktop-download-from-security-to = უსაფრთხოებისთვის, ახალი ამბებისთვის, თამაშებისთვის, – <a { $attrs }>გაფართოებები ყველაფრისთვისაა</a>. დაამატეთ რამდენიც მოგესურვებათ.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = { -brand-name-firefox } შექმნა <a { $attrs }>{ -brand-name-mozilla }</a>-მ როგორც სწრაფი, მეტად პირადული ალტერნატივა { -brand-name-ie } ბრაუზერისთვის, ახლა უკვე { -brand-name-chrome }-ისთვისაც. დღესაც, მიზანზე ორიენტირებული ჩვენი კომპანია და მოხალისეთა ერთობა, განაგრძობს თქვენი პირადულობის ყველაფერზე წინ წამოწევას.
+firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a>-მ შექმნა { -brand-name-firefox }, როგორც სწრაფი, მეტად პირადული შემნაცვლებელი { -brand-name-ie } ბრაუზერისთვის, ახლა უკვე { -brand-name-chrome }-ისთვისაც. დღესაც განაგრძობს მიზნისკენ სვლას ჩვენი კომპანია და მოხალისეთა ერთობა, რომ უზრუნველვყოთ თქვენი პირადულობის უწინარესობა.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს, თქვენი პირადი მონაცემების ხელშეუხებლობის უფლების უზრუნველყოფას  — რასაც ვუწოდებთ <a { $attrs }>მონაცემების დაცვის პირობას</a>: ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არავითარი საიდუმლოება. თქვენს მონაცემებს, ვებსივრცეში მოქმედებებს, პირად ცხოვრებას ინტერნეტში, იცავს { -brand-name-firefox }.
@@ -137,7 +137,7 @@ firefox-desktop-download-as-the-internet = ინტერნეტის ზრ
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ხელმისაწვდომია ყველა მოწყობილობაზე; წაიყოლეთ ჩანართები, ისტორია და სანიშნები. დაგჭირდებათ მხოლოდ <a { $attrs }>{ -brand-name-firefox }-ანგარიში</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = გადაიღეთ მაღალი გაფართოების სურათები ნებისმიერ საიტზე, <a { $attrs }>სურათის გადასაღები</a> ხელსაწყოთი, პირდაპირ ბრაუზერშივე
+firefox-desktop-download-grab-a-high = გადაიღეთ მაღალი გაფართოების სურათები ნებისმიერ საიტზე <a { $attrs }>სურათის გადასაღები</a> ხელსაწყოთი, პირდაპირ ბრაუზერშივე
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } თავისთავად <a { $attrs }>უზღუდავს გარეშე მეთვალყურეების უმეტესობას</a> თქვენი მოქმედებების აღრიცხვისა და გაყიდვის შესაძლებლობას.
