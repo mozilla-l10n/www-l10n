@@ -9,3 +9,15 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } za { -brand-name-linux } ({ -brand-name-ubuntu })
+# Linux strings
+vpn-linux-hero-headline = { -brand-name-mozilla-vpn } za { -brand-name-ubuntu } { -brand-name-linux } – popolna zasebna kombinacija
+vpn-linux-privacy-headline = Varnost, oddaljena le en klik
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-linux-servers-headline = Povežite se z več kot { $servers } strežniki v preko { $countries } državah
+# Variables:
+#   $devices (number) - number of available devices
+vpn-linux-devices-headline = Povežite do { $devices } naprav
+vpn-linux-log-headline = Vaši podatki pripadajo samo vam
+vpn-linux-log-copy = Nekateri VPN-ji beležijo vašo dejavnost na svojih strežnikih. { -brand-name-mozilla-vpn } vam ne sledi po spletu – pravzaprav je to v veliki meri to, za kar se kot podjetje zavzemamo.

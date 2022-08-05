@@ -11,3 +11,8 @@
 vpn-windows-page-title = { -brand-name-mozilla-vpn } za { -brand-name-windows } 10
 # Windows strings
 vpn-windows-hero-headline = Ostanite povezani in zaščiteni z { -brand-name-mozilla-vpn } za { -brand-name-windows } 10
+vpn-windows-privacy-headline = Zaščita s pritiskom na gumb
+vpn-windows-servers-headline = Dostop do strežnikov po vsem svetu
+vpn-windows-devices-headline = Ena naročnina za vse naprave
+vpn-windows-speed-headline = Brez omejitev pasovne širine
+vpn-windows-log-headline = Vaša zasebnost je naša prednostna naloga
