@@ -5,8 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/
 
-home-mr2-promo-title = ფრთები შეასხით ყველა ჩანაფიქრს – სწრაფად
-
-## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
-
+home-mr2-promo-title = ფრთები შეასხით ყველა ჩანაფიქრს – მყისიერად
+# CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 home-mr2-promo-cta = გამოიყენეთ ახალი { -brand-name-firefox }
