@@ -101,7 +101,7 @@ firefox-desktop-download-go-from-light = გადადით ნათელ�
 firefox-desktop-download-tweak-your-settings = მოირგეთ პარამეტრები
 firefox-desktop-download-theres-no-need = არაა აუცილებელი არსებულს დასჯერდეთ. შეცვალეთ ახალი ჩანართის გვერდი, ძიების ველი, სანიშნები და იმოგზაურეთ ინტერნეტში სასურველი გზებით.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = <strong>არამომგებიანი</strong> ერთობისგან, რომლისათვისაც უპირველესი ხალხია
+firefox-desktop-download-backed-by-the = <strong>არამომგებიანი</strong> ერთობისგან, რომლისათვისაც უპირველესია ხალხი
 firefox-desktop-download-challenging-the-status = ურყევი მიზანი 1998 წლიდან
 firefox-desktop-download-your-privacy-comes = თქვენი პირადულობა უწინარესია
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
