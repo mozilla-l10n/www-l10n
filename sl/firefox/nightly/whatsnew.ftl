@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -18,6 +18,10 @@ nightly-whatsnew-this-is-a-good = Ob tej priložnosti bi se vam radi zahvalili z
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Če želite ostati na tekočem z dogajanjem v svetu { -brand-name-nightly }ja in njegove skupnosti, si za začetek lahko preberete naš <a href="{ $blog }">blog</a> in nam sledite na <a href="{ $twitter }">{ -brand-name-twitter }ju</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Želite izvedeti, katere možnosti, ki še niso na voljo v drugih izdajah { -brand-name-firefox(sklon: "rodilnik") }, lahko preskusite v { -brand-name-nightly(sklon: "mestnik") }? Oglejte si stran <a { $attrs }>Poskusi Nightlyja</a>.
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Želite izvedeti, katere možnosti lahko preskusite v { -brand-name-nightly }ju in še niso na voljo v drugih izdajah { -brand-name-firefox }a? Oglejte si stran <a href="{ $mdn }">Poskusne zmogljivosti</a> na <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.

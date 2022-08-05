@@ -7,7 +7,7 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Izogibajte se napačnim informacijam na spletu – { -brand-name-firefox } je tu, da vam pomaga
-misinformation-why-trust-firefox = Zakaj zaupati { -brand-name-firefox }u?
+misinformation-why-trust-firefox = Zakaj zaupati { -brand-name-firefox(sklon: "dajalnik") }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 misinformation-because-we-put-people-first = Ker na prvo mesto postavljamo ljudi. Pravzaprav nas podpira <a href="{ $foundation }">neprofitna fundacija</a>. Od prvega dne je naša naloga, da zaščitimo internet in vse njegove uporabnike.
