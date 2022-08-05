@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/about/this-site/
 
 about-this-site-title = Σχετικά με τον ιστότοπο
+about-this-site-like-many = Όπως πολλά από τα προϊόντα μας, αυτός ο ιστότοπος είναι επίσης ανοικτού κώδικα:
+about-this-site-view-source = Δείτε τον πηγαίο κώδικα στο { -brand-name-github }
 about-this-site-report-a-bug = Αναφορά σφάλματος
 about-this-site-contribute-to-code = Συνεισφορά στη βάση κώδικα
 about-this-site-contribute-to-l10n = Συνεισφορά στις μεταφράσεις
