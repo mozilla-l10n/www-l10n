@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/102.0a2/whatsnew/
 
+# HTML page title
+developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 # CTA button
 developer-mdnplus-get-started = Başlayın
 developer-mdnplus-notifications = Bildirimler
