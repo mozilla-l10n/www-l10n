@@ -1,12 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet for folk, ikke profit
 home-did-you-know-mozilla-the-maker = Vidste du det? { -brand-name-mozilla } — dem der laver { -brand-name-firefox } — kæmper for at bevare internettet som en global, offentlig ressource, der er åben og tilgængelig for alle.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Den hurtigste browser.
 home-with-2x-the-speed-built-in = Dobbelt så hurtig, med indbygget beskyttelse af privatlivet og med { -brand-name-mozilla } bag er den nye { -brand-name-firefox } det bedste valg.
 home-we-make-the-internet-safer = Vi gør internettet sikrere, hurtigere og sundere.
