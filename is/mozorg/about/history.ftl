@@ -18,6 +18,13 @@ history-within-the-first-year-new = Á <a href="{ $firstyear }">fyrsta árinu</a
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = Með því að mynda opið samfélag var { -brand-name-mozilla } verkefnið orðið <a href="{ $stevecase }">stærra en nokkurt  annað fyrirtæki</a>.
 # Variables:
+#   $mission (url) link to https://www-archive.mozilla.org/mission.html
+#   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
+#   $bugzilla (url) link to https://www.bugzilla.org
+#   $projects (url) link to https://www.mozilla.org/firefox/
+history-community-members-got-involved = Meðlimir samfélagsins tóku sér frumkvæði og stækkuðu umfang <a href="{ $mission }">upprunalega verkefnisins</a> – í stað þess að vinna bara í næstu útgáfu vafrans { -brand-name-netscape }, fólk byrjaði að búa til <a href="{ $browsers }">ýmis tilbrigði vafra</a>, <a href="{ $bugzilla }">þróunarverkfæri</a> auk fjölda annarra <a href="{ $projects }">verkefna</a>.
+history-people-contributed-to-mozilla = Fólk lagði sitt af mörkum til { -brand-name-mozilla } á mismunandi vegu, en allir höfðu brennandi áhuga á að búa til frjálsan hugbúnað sem myndi gera fólki kleift að velja hvernig það upplifði internetið.
+# Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Árið 2002 voru <a href="{ $over90 }">vel yfir 90% netnotenda</a> að vafra með { -brand-name-ie }.
 history-mozilla-also-celebrated = { -brand-name-mozilla } fagnaði einnig 15 ára afmæli sínu árið 2013.
