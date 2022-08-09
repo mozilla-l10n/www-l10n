@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/about/this-site/
 
+about-this-site-desc = www.mozilla.org web sitesi ve sitenin yapımında kullanılan açık kaynak araçlar hakkında.
 about-this-site-report-a-bug = Hata bildirin
 about-this-site-contribute-to-code = Kod tabanına katkıda bulunun
 about-this-site-contribute-to-l10n = Çevirilere katkıda bulunun

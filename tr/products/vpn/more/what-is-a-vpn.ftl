@@ -12,6 +12,7 @@ vpn-what-is-when-should-i = Ne zaman VPN kullanmalıyım?
 vpn-what-is-why-would-i = Neden VPN kullanmalıyım?
 vpn-what-is-what-are-the = VPN kullanmanın dezavantajları nelerdir?
 vpn-what-is-are-vpns-safe = VPN’ler güvenli mi?
+vpn-what-is-can-vpns-protect = VPN'ler beni siber suçlulardan koruyabilir mi?
 vpn-what-is-are-vpns-legal = VPN'ler yasal mı?
 vpn-what-is-are-vpns-only = VPN’ler yalnızca bilgisayarlar için mi?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Hızlı, güvenli, güvenilir
