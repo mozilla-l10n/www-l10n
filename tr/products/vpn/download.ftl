@@ -6,6 +6,10 @@
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
 vpn-download-page-title = { -brand-name-mozilla-vpn }’i indir
+vpn-download-page-description = { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ve { -brand-name-ios } için { -brand-name-mozilla-vpn }’i indir
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-download-sub-heading = Tek bir abonelikle { -brand-name-mozilla-vpn }’i { $devices } cihaza indirebilirsiniz.
 vpn-download-not-available-in-country = Maalesef { -brand-name-mozilla-vpn } ülkenizden indirilemiyor.
 vpn-download-button-copy = İndir
 vpn-download-for-windows = { -brand-name-windows } 10/11 için VPN
