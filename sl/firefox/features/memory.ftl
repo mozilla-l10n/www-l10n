@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: porabite manj pomnilnika, brskajte hitreje
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser(zacetnica: "velika") }: porabite manj pomnilnika, brskajte hitreje
 # HTML page description
 features-memory-is-your-computer-slow-your = Je vaš računalnik počasen? Vaš brskalnik morda porablja preveč pomnilnika. Preklopite na { -brand-name-firefox } še danes in brskajte hitreje.
 features-memory-less-memory-usage-than-chrome = Manjša poraba pomnilnika kot v brskalniku { -brand-name-chrome }
@@ -16,7 +16,7 @@ features-memory-every-computer-program-you = Vsak zagnan računalniški program 
 features-memory-stop-running-out-of-memory = Nikoli več naj vam ne zmanjka pomnilnika
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/fx54memorytest/
-features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">{ -brand-name-chrome } porablja do 1.77-krat več pomnilnika kot { -brand-name-firefox }</a>. Če premore vaš računalnik že sam po sebi malo pomnilnika, lahko to povzroči znatno upočasnitev. Z uporabo najnovejše različice { -brand-name-firefox }a z večprocesnim načinom lahko več pomnilnika prihranite za svoje ostale programe.
+features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">{ -brand-name-chrome } porablja do 1,77-krat več pomnilnika kot { -brand-name-firefox }</a>. Če premore vaš računalnik že sam po sebi malo pomnilnika, lahko to povzroči znatno upočasnitev. Z uporabo najnovejše različice { -brand-name-firefox(sklon: "rodilnik") } z večprocesnim načinom lahko več pomnilnika prihranite za svoje ostale programe.
 features-memory-browse-faster-privately = Brskajte hitreje, zasebno
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/

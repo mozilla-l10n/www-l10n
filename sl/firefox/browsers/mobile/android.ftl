@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
 # HTML page title
-mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+mobile-android-firefox-browser-android = { -brand-name-firefox-browser(zacetnica: "velika") } za { -brand-name-android }
 # HTML description
 mobile-android-firefox-browser-for = Brskalnik { -brand-name-firefox } za { -brand-name-android } je hiter, varen in zaseben od prvega trenutka, ko ga odprete.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }

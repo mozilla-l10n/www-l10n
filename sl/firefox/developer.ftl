@@ -10,7 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je noro hiter brskalnik, ki ponuja najsodobnejša orodja za razvijalce in najnovejše možnosti, kot je podpora za mreže CSS in razhroščevanje ogrodij
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika") } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Dobrodošli v svojem novem najljubšem brskalniku. Postrezite si z najnovejšimi možnostmi, izboljšano zmogljivostjo in razvijalskimi orodji, ki jih potrebujete za ustvarjanje odprtega spleta.
 firefox-developer-speak-up = Spregovorite
 firefox-developer-feedback-makes-us = Vaše povratne informacije nas izboljšujejo. Povejte nam, kako lahko izboljšamo brskalnik in orodja za razvijalce.
