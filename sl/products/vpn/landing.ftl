@@ -36,8 +36,15 @@ vpn-langing-faq-uses-question-heading = Kaj je VPN in za kaj se uporablja?
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Oglejte si <a href="{ $url }">pet življenjskih situacij</a>, v katerih bi na svoji napravi želeli VPN.
 vpn-landing-faq-info-question-heading = Katere podatke { -brand-name-mozilla-vpn } shranjuje?
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Vaše dejavnosti ne beležimo, ji ne sledimo in je z nikomer ne delimo. Ravnamo se strogo po <a href="{ $url }">načelih zasebnosti podatkov</a>, ki se jih drži { -brand-name-mozilla }, in zbiramo izključno podatke, ki so nujni za ohranjanje delovanja VPN in za prihodnje izboljšave izdelka.
 vpn-landing-faq-protected-question-heading = Kako je zaščitena moja zasebnost?
 vpn-landing-faq-competition-question-heading = Kakšen je { -brand-name-mozilla-vpn } v primerjavi s konkurenco?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Čeprav se brezplačni VPN-ji zdijo privlačni, niso zavezani k zasebnosti kot { -brand-name-mozilla-vpn }. Drugi VPN-ji nimajo več kot 20-letne <a href="{ $url }">zgodovine</a> razvoja izdelkov, ki postavljajo ljudi in zasebnost na prvo mesto.
 vpn-landing-faq-compatibility-question-heading = S katerimi napravami je { -brand-name-mozilla-vpn } združljiv?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/

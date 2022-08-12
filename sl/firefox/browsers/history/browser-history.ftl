@@ -13,6 +13,9 @@ browser-history-in-1950-computers = Leta 1950 so računalniki zavzemali celotne 
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> je bil prvi uspešen projekt računalniškega omrežja in leta 1969 je prvo sporočilo potovalo iz laboratorija za informatiko na Univerzi Kalifornije v Los Angelesu na  raziskovalni inštitut v Stanfordu, prav tako v Kaliforniji.
 browser-history-web-era = Doba spleta
+# Variables:
+#   $cern (url) - https://home.cern/topics/birth-web
+browser-history-british-computer = Britanski informatik Tim Berners-Lee je prvi spletni strežnik in grafični spletni brskalnik ustvaril leta 1990, ko je bil <a href="{ $cern }">zaposlen na inštitutu CERN</a> v Švici. Svoje novo okno v internet je poimenoval "WorldWideWeb". To je bil program za računalnike NeXT z grafičnim vmesnikom, preprostim za uporabo. Berners-Lee je prvi povezal dokumente z besedilom v celoto preko javnega omrežja – v splet, kakršnega poznamo danes.
 browser-history-a-year-later-berners = Leto pozneje je Berners-Lee študentki matematike na inštitutu CERN Nicoli Pellow zadal nalogo, naj ustvari Line Mode Browser, program za osnovne računalniške terminale.
 # Variables:
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)

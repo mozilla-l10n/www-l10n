@@ -31,5 +31,8 @@ mobile-focus-ad-blocking = Zavračanje oglasov
 # Outdated string
 mobile-focus-focus-blocks-the = { -brand-name-focus } zavrača oglase, ki bi se pri običajnem brskanju prikazovali na spletnih straneh – ne da bi za to potrebovali dodatne razširitve. Z manj oglasi se strani nalagajo hitreje in vi pridete na cilj občutno prej.
 mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } zavrača oglase, ki vam poskušajo slediti preko več spletnih strani – ne da bi za to potrebovali dodatne razširitve. Z manj oglasi se strani nalagajo hitreje in vi pridete na cilj občutno hitreje.
+mobile-focus-see-it-all = Hitreje do vsebine
+# Outdated string
+mobile-focus-focus-removes-trackers = { -brand-name-focus } odstranjuje sledilce in oglase, s čimer se spletne strani naložijo veliko hitreje in z manjšo porabo podatkov.
 mobile-focus-made-by-mozilla = Izpod rok { -brand-name-mozilla(sklon: "rodilnik") }
 mobile-focus-we-believe-everyone = Verjamemo, da bi moral vsakdo imeti nadzor nad svojim spletnim življenjem. Za to se borimo že od leta 1998.

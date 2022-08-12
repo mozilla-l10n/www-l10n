@@ -37,6 +37,12 @@ history-not-many-people-noticed = Čeprav tega tedaj ni opazilo veliko ljudi, so
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = Leta 2003 je projekt { -brand-name-mozilla } ustanovil fundacijo { -brand-name-mozilla-foundation }, <a href="{ $foundation }">neodvisno neprofitno organizacijo</a>, ki jo podpirajo posamezniki in različna podjetja.
 # Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = { -brand-name-mozilla-foundation } je nadaljevala vlogo upravljanja vsakodnevnih dejavnosti projekta, poleg tega pa tudi uradno prevzela nalogo podpiranja <a href="{ $manifesto }">odprtosti, inovacij in priložnosti</a> na internetu.
+# Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = To je storila z nadaljnjim izdajanjem programov, kot sta { -brand-name-firefox } in { -brand-name-thunderbird }, in s širjenjem na nova področja, kot je nudenje <a href="{ $grants }">dotacij</a> za izboljševanje dostopnosti na spletu.
+# Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> je bil izdan leta 2004 in postal velikanski uspeh – v manj kot enem letu je doživel <a href="{ $millions }">več kot 100 milijonov prenosov</a>.

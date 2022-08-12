@@ -11,6 +11,9 @@
 vpn-linux-page-title = { -brand-name-mozilla-vpn } za { -brand-name-linux } ({ -brand-name-ubuntu })
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } za { -brand-name-ubuntu } { -brand-name-linux } – popolna zasebna kombinacija
+vpn-linux-wifi-headline = Ostanite varni na spletu, ko ste obsojeni na javni WiFi
+vpn-linux-wifi-copy = Včasih je javno omrežje WiFi najboljša (ali edina) možnost. { -brand-name-mozilla-vpn } vam omogoča brezskrbno prijavo v e-pošto na letališču, urejanje gesel v kavarni – vse, kar bi doma počeli enako mirno.
+vpn-linux-about-headline = Zaupanja vredno ime od leta 1998
 vpn-linux-privacy-headline = Varnost, oddaljena le en klik
 # Variables:
 #   $countries (number) - number of available countries

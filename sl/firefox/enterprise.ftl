@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -33,9 +33,13 @@ firefox-enterprise-support = Podpora
 firefox-enterprise-msi-installers = Namestitveni programi MSI
 firefox-enterprise-legacy-browser-support = Podpora za starejše brskalnike
 firefox-enterprise-admx-templates = Predloge ADMX
+firefox-enterprise-deployment-guide = Vodnik za uvajanje
 firefox-enterprise-policy-documentation = Dokumentacija pravilnika
 firefox-enterprise-release-notes = Opombe ob izdaji
 firefox-enterprise-documentation-and-community = Dokumentacija in podpora skupnosti
+# Variables:
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+firefox-enterprise-sample-plist-for-configuration = Vzorčni <a href="{ $url }">plist za konfiguracijski profil</a>
 firefox-enterprise-pkg-installer = Namestitveni program PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } (32-bitni)
 # Variables:

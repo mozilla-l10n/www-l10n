@@ -15,6 +15,7 @@ features-fingerprinting-ditch-the-sticky = Otresite se oglasov, ki so se prilepi
 features-fingerprinting-every-fingerprint = Vsak prstni odtis je edinstven.
 features-fingerprinting-download-firefox = Prenesite { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Kaj je sledenje prstnemu odtisu brskalnika?
+features-fingerprinting-fingerprinting-is-a = Sledenje prstnim odtisom brskalnikov ("fingerprinting") je način sledenja na spletu, ki je invazivnejši od običajnega sledenja s piškotki. Digitalni prstni odtis, ki ga o vas ustvarijo podjetja, vsebuje edinstvene podatke o strojni opremi, programski opremi, dodatkih in celo nastavitvah vašega računalnika.
 features-fingerprinting-fingerprinting-is-bad = Sledenje prstnim odtisom je škodljivo za splet
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = V resničnem življenju verjetno ne bi dovolili neznancu, da sledi vsakemu vašemu premiku. In ni razloga, da bi to bilo sprejemljivo na spletu. Če še nimate { -brand-name-firefox(sklon: "rodilnik") }, <a { $url_download }>ga prenesite in se zaščitite</a> pred sledenjem digitalnim prstnim odtisom.

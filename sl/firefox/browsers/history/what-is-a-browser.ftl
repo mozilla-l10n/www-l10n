@@ -24,4 +24,5 @@ what-is-a-browser-sadly-not-all = Žal se vsi izdelovalci brskalnikov ne odloči
 #   $url(url) - link to https://wikipedia.org/wiki/URL
 what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hiperpovezave</a> uporabnike vodijo na druge strani in spletna mesta. Vsaka spletna stran, slika in videoposnetek ima svoj edinstven <a href="{ $url }">spletni naslov</a> (URL – Uniform Resource Locator). Ko brskalnik zahteva podatke s strežnika, mu spletni naslov pove, kje naj najde vsakega od predmetov, opisanih v kodi HTML, le-ta pa nato brskalniku pove, kam na stran ti predmeti spadajo.
 what-is-a-browser-cookies-not-the = Piškotki (ne tisti okusni)
+what-is-a-browser-when-you-go-to = Kadar obiščete spletno stran ter si ta zapomni vaše uporabniško ime in geslo – to omogoča piškotek.
 what-is-a-browser-understanding = Razumevanje zasebnosti

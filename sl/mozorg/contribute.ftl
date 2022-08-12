@@ -24,6 +24,7 @@ contribute-tag-support = Podpora
 contribute-task-translate-heading = Prevedite vsebino
 contribute-task-translate-desc = Internet je globalen le, če ga povsod razumejo. Pomagajte nam prevesti izdelke in spletna mesta { -brand-name-mozilla(sklon: "rodilnik") } v svoj jezik.
 contribute-task-mozilla-codebase-heading = Prispevajte k izvorni kodi { -brand-name-mozilla(sklon: "rodilnik") }
+contribute-task-mozilla-codebase-desc = Aktivno izboljšajte izdelke { -brand-name-mozilla(sklon: "rodilnik") } s prispevanjem ob številnih priložnostih za razvoj.
 contribute-task-support-desc = Pomagajte narediti izdelke { -brand-name-mozilla(sklon: "rodilnik") } preproste za uporabo. Odgovarjajte na vprašanja ljudi, ki potrebujejo pomoč, kot del skupnosti na Mozillinih forumih za podporo.
 contribute-task-join-heading = Pridružite se skupnosti
 contribute-task-join-desc = Se želite dejavneje sodelovati v skupnosti { -brand-name-mozilla }? Oglejte si vse priložnosti za prostovoljstvo na našem portalu skupnosti.
@@ -45,6 +46,7 @@ contribute-opportunities = Novice in priložnosti za prostovoljce
 
 contribute-made-by-heading = Delo strastnih ljudi, kot ste vi
 contribute-made-by-desc = S sodelovanjem pri { -brand-name-mozilla(sklon: "mestnik") } postanete del skupnosti, ki jo sestavljajo ljudje z vsega sveta s prepričanjem, da je usoda interneta v rokah vseh nas.
+contribute-made-by-desc-cont = Verjamemo, da je sodelovanje skupnosti ključnega pomena za ustvarjanje interneta, ki bo raznolik, inovativen in odgovoren ljudem, ki ga najbolj potrebujejo. Ne glede na to, ali imate izkušnje s tehnologijo ali z organizacijo skupnosti ali pa samo računalnik in nekaj prostega časa, nam lahko pomagate narediti internet boljši kraj.
 
 ## Newsletter
 
