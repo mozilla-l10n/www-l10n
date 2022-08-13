@@ -8,6 +8,7 @@ newsletter-form-your-email-address = თქვენი ელფოსტის
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = sakheli@example.com
 newsletter-form-select-country-or-region = მიუთითეთ ქვეყანა ან მხარე
+newsletter-form-select-language = ენის არჩევა
 newsletter-form-your-email-here = თქვენი ელფოსტა
 newsletter-form-format = ფორმატი
 newsletter-form-html = HTML

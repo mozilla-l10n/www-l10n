@@ -75,3 +75,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = გამოიწერეთ @{ -brand-name-mozilla }
 footer-follow-firefox = გამოიწერეთ @{ -brand-name-firefox }
+footer-about-this-site = ჩვენი საიტის შესახებ

@@ -7,6 +7,7 @@
 
 home-internet-for-people-not-profit = ინტერნეტი ხალხისთვის და არა მოგებისთვის
 home-did-you-know-mozilla-the-maker = იცოდით თუ არა, რომ { -brand-name-mozilla } — { -brand-name-firefox }-ის შემქმნელი — იბრძვის იმისთვის, რომ ინტერნეტი დარჩეს საერთაშორისო, საჯარო და საყოველთაო ხელმისაწვდომ რესურსად.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = სწრაფი და მეტად შედეგიანი.
 home-with-2x-the-speed-built-in = 2-ჯერ უფრო სწრაფი, უსაფრთხოების ჩაშენებული ხელსაწყოებით და { -brand-name-mozilla }-ს შექმნილი, ახალი { -brand-name-firefox } საუკეთესო საშუალებაა, ინტერნეტში სამოგზაუროდ.
 home-we-make-the-internet-safer = ჩვენ ვმუშაობთ, რომ ინტერნეტი გახდეს მეტად უსაფრთხო, ჯანსაღი და სარგებლის მომტანი თითოეული მომხმარებლისთვის.
