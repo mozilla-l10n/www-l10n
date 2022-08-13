@@ -26,3 +26,7 @@ about-this-site-contribute-to-l10n = შეიტანეთ წვლილი
 about-this-site-read-the-docs = გაეცანით მასალებს
 about-this-site-colophon = დანართი
 about-this-site-some-open-source-projects = ზოგიერთი ღია პროექტი, რომელთა მეშვეობითაც შექმნილია ეს საიტი:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> სერვერისმხრივ სამუშაო გარსად და <a href="{ $jinja }">Jinja</a> შაბლონებისთვის.
