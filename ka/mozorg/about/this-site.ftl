@@ -41,4 +41,4 @@ about-this-site-fluent = { -brand-name-mozilla }-ს <a href="{ $fluent }">Fluen
 about-this-site-many-other = კიდევ მრავალი სხვა მცირე ბიბლიოთეკა თუ სამუშაო გარსი, რომელთაც წააწყდებით ჩვეს <a href="{ $github }">{ -brand-name-github }-საცავზე</a>.
 # Variables:
 #   $credits (url) link to https://www.mozilla.org/credits/
-about-this-site-we-extend = გვსურს, დიდი მადლობა გადავუხადოთ { -brand-name-mozilla }-პროექტის თითოეულ <a href="{ $credits }">მონაწილეს</a>, რომლებიც გვეხმარებიან, რომ ვებსამყაროდ გავხადოთ მეტად უკეთესი.
+about-this-site-we-extend = გვსურს, დიდი მადლობა გადავუხადოთ { -brand-name-mozilla }-პროექტის თითოეულ <a href="{ $credits }">მონაწილეს</a>, რომლებიც გვეხმარებიან, რომ ვებსამყარო გავხადოთ მეტად უკეთესი.
