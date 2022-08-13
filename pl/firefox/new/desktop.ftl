@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = Instrukcje, jak <a href="{ $url }">zain
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Używany system operacyjny może nie spełniać wymagań { -brand-name-firefox(case: "gen") }, można jednak spróbować jedną z <a href="{ $url }">tych wersji</a>.
+firefox-desktop-download-taskbar = Po instalacji { -brand-name-firefox } zostanie przypięty do paska zadań { -brand-name-windows }
