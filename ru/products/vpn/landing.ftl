@@ -105,13 +105,12 @@ vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (версия 6 и выше)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 и выше)
+#   $version (number) - minimum supported version number
+vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } и выше)
 # Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 и выше)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 и выше)
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 и выше)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 и выше)
@@ -128,6 +127,10 @@ vpn-landing-faq-manage-subscription-question-heading = Как я могу упр
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Если вы уже подписаны на { -brand-name-mozilla-vpn }, вы можете сменить свой тариф или <a href="{ $url }">управлять подпиской</a> в любое время.
+vpn-landing-faq-download-heading = Как загрузить { -brand-name-mozilla-vpn }, если я уже подписан?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Посетите <a { $attrs }>страницу загрузки</a>, чтобы установить { -brand-name-mozilla-vpn } на свое устройство, а затем войдите, используя свой { -brand-name-firefox-account }.
 vpn-landing-faq-link = Посмотреть больше вопросов
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/

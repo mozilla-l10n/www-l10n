@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
@@ -26,4 +26,5 @@ vpn-ios-devices-headline = Получите доступ для { $devices } у�
 #   $devices (number) - number of available devices
 vpn-ios-devices-copy = С одной подпиской, вы можете получить доступ к { -brand-name-mozilla-vpn } на { $devices } различных устройствах, включая { -brand-name-ios } для { -brand-name-iphone } и { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } и { -brand-name-linux }.
 vpn-ios-speed-headline = Максимальная скорость. Безлимитный трафик.
+vpn-ios-speed-copy = Играйте в онлайн-игры, смотрите стримы своих любимых шоу, и перемещайтесь по Интернету на ультравысоких скоростях без сужения ширины канала — { -brand-name-mozilla-vpn } не имеет границ.
 vpn-ios-log-headline = Ваши данные остаются приватными. Точка.

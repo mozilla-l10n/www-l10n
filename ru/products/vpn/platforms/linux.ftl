@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
@@ -29,3 +29,4 @@ vpn-linux-devices-copy = С одной подпиской, вы можете п�
 vpn-linux-speed-headline = Сверхбыстрый с неограниченным трафиком
 vpn-linux-speed-copy = Играйте в игры, смотрите фильмы и передачи, и перемещайтесь по Интернету на ультра-высоких скоростях без сужения ширины канала — { -brand-name-mozilla-vpn } не имеет границ.
 vpn-linux-log-headline = Ваши данные принадлежат вам
+vpn-linux-log-copy = Некоторые VPN регистрируют вашу активность на своих серверах. { -brand-name-mozilla-vpn } не отслеживает вас в Интернете — на самом деле, это является большой частью того, за что мы выступаем как компания.

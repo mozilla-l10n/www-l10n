@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = Получить доступ к { -brand-name-mozil
 vpn-shared-waitlist-link = Присоединиться к списку ожидания
 vpn-shared-sign-in-link = Уже подписаны?
 # Outdated string
-vpn-shared-available-countries-v3 = В настоящее время мы предоставляем { -brand-name-mozilla-vpn } для жителей США, Канады, Великобритании, Германии, Франции, Италии, Испании, Бельгии, Австрии, Швейцарии, Малайзии, Новой Зеландии и Сингапура.
 vpn-shared-available-countries-v4 = В настоящее время мы предоставляем { -brand-name-mozilla-vpn } для жителей Австрии, Бельгии, Великобритании, Германии, Ирландии, Испании, Италии, Канады, Малайзии, Нидерландов, Новой Зеландии, Сингапура, США, Франции и Швейцарии.
+vpn-shared-available-countries-v5 = В настоящее время мы предоставляем { -brand-name-mozilla-vpn } для жителей Австрии, Бельгии, Великобритании, Германии, Ирландии, Испании, Италии, Канады, Малайзии, Нидерландов, Новой Зеландии, Сингапура, США, Финляндии, Франции, Швейцарии и Швеции.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-дневная гарантия возврата денег
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -116,6 +116,12 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Что такое IP-адрес?
 vpn-subnav-when-to-use-a-vpn = Когда нужно использовать VPN
 vpn-subnav-vpn-vs-proxy = VPN против Прокси
+vpn-subnav-subscribe = Подпишитесь на { -brand-name-mozilla-vpn }
+
+## VPN Affiliate cookie notice
+
+vpn-shared-affiliate-notification-reject = Отклонить
+vpn-shared-affiliate-notification-ok = OK
 
 ##
 
