@@ -26,7 +26,7 @@ privacy-index-get-involved = Примите участие
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Как для проекта с открытым исходным кодом, открытость и прозрачность являются важнейшими принципами { -brand-name-mozilla }. Наша кодовая база является открытой и доступной для аудита. Наш процесс разработки является открытым. Наш полугодовой <a href="{ $report }">Отчёт о прозрачности</a> также отражает нашу приверженность этим принципам.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Чтобы просмотреть и прокомментировать предложения по изменению политики приватности, <a href="{ $group }"> вступите в группу управления { -brand-name-mozilla }</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
@@ -43,3 +43,5 @@ privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
+privacy-index-hubs = { -brand-name-mozilla-hubs }
