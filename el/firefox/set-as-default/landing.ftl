@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
@@ -9,8 +9,11 @@
 set-as-default-landing-make-firefox-your-default = Ορισμός του { -brand-name-firefox } ως προεπιλογή
 # HTML page description
 set-as-default-landing-choose-the-browser = Επιλέξτε το πρόγραμμα περιήγησης που προστατεύει το απόρρητό σας. Ορίστε το { -brand-name-firefox } ως το προεπιλεγμένο πρόγραμμα περιήγησής σας.
-set-as-default-landing-make-sure-youre-protected = Βεβαιωθείτε ότι προστατεύεστε, κάθε φορά που συνδέεστε στο διαδίκτυο
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = Σας ευχαριστούμε που χρησιμοποιείτε το πιο πρόσφατο { -brand-name-firefox }. Όταν επιλέγετε το { -brand-name-firefox }, υποστηρίζετε ένα καλύτερο διαδίκτυο για εσάς και τους άλλους χρήστες. Κάντε τώρα το επόμενο βήμα για να προστατευτείτε.
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = Βεβαιωθείτε ότι προστατεύεστε, κάθε φορά που συνδέεστε στο διαδίκτυο
+set-as-default-landing-you-should-get = Θα πρέπει να έχετε λόγο για τον τρόπο περιήγησής σας
 set-as-default-landing-choose-automatic-privacy = Αυτόματο απόρρητο
 set-as-default-landing-companies-keep-finding = Οι εταιρείες βρίσκουν συνέχεια νέους τρόπους για να συλλέγουν τα προσωπικά σας δεδομένα. Το { -brand-name-firefox } είναι το πρόγραμμα περιήγησης με αποστολή να βρίσκει νέους τρόπους για να σας προστατεύει.
 set-as-default-landing-choose-freedom-on-every = Ελευθερία σε κάθε συσκευή
