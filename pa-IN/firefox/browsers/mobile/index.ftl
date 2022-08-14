@@ -9,6 +9,11 @@
 browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦਿੰਦੇ ਹਨ
 # HTML page description
 browsers-mobile-overview-of-all-mobile = { -brand-name-firefox } ਦੇ ਸਾਰੇ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰਾਂ ਬਾਰੇ ਸੰਖੇਪ ਜਾਣਕਾਰੀ ({ -brand-name-android } ਲਈ  { -brand-name-firefox }, { -brand-name-ios } ਲਈ { -brand-name-firefox }, { -brand-name-firefox-focus })
+# Obsolete string
+browsers-mobile-at-home-or-on-the-move = ਘਰੇ ਹੋਵੋ ਜਾਂ ਬਾਹਰ, ਹਰ ਡਿਵਾਈਸ ਉੱਤੇ ਪਰਦੇਦਾਰੀ ਤੁਹਾਡਾ ਹੱਕ ਹੈ। ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ { -brand-name-firefox } ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰਾਂ ਵਿੱਚ ਆਪਣੇ-ਆਪ ਹੀ ਮੌਜੂਦ ਹੁੰਦੀ ਹੈ।
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+# Obsolete string
+browsers-mobile-get-the-mobile-browser-privacy = ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਕਿ ਤੁਹਾਡੀ <strong>ਪਰਦੇਦਾਰੀ</strong> ਨੂੰ ਪਹਿਲ ਦਿੰਦਾ ਹੈ।
 browsers-mobile-firefox-for-android = { -brand-name-android } ਲਈ { -brand-name-firefox }
 browsers-mobile-firefox-for-ios = { -brand-name-ios } ਲਈ { -brand-name-firefox }
 browsers-mobile-go-your-own-way = { -brand-name-firefox } ਮੋਬਾਈਲ ਨਾਲ ਆਪਣਾ ਰਾਹ ਆਪ ਬਣਾਓ

@@ -60,6 +60,7 @@ navigation-see-if-your-personal = ਵੇਖੋ ਕਿ ਕੀ ਤੁਹਾਡੀ 
 navigation-check-for-breaches = ਸੰਨ੍ਹ ਲੱਗਣ ਲਈ ਜਾਂਚ ਕਰੋ
 navigation-see-breaches = ਸੰਨ੍ਹਾਂ ਨੂੰ ਵੇਖੋ
 navigation-security-tips = ਸੁਰੱਖਿਆ ਸੁਝਾਅ
+navigation-share-large-files-safely = ਵੱਡੀਆਂ ਫ਼ਾਇਲਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ‘ਖੁਦ-ਮਿਟਾਉ’ ਲਿੰਕ ਨਾਲ ਸਾਂਝਾ ਕਰੋ
 navigation-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: ਤੇਜ਼। ਸਰਲ। ਪ੍ਰਾਈਵੇਟ।
 # Outdated string
