@@ -13,6 +13,9 @@ password-manager-firefox-password = { -brand-name-firefox } ਪਾਸਵਰਡ �
 password-manager-password-manager = ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਪਹੁੰਚ ਤੇ ਪਾਬੰਦੀ ਹਟੀ
 password-manager-give-up-the-memory = { -brand-name-firefox } ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਨਾਲ ਮੈਮਰੀ ਗੇਮ ਨੂੰ ਛੱਡ ਦਿਓ।
 password-manager-password-hero = ਪਾਸਵਰਡ ਹੀਰੋ
+# Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = ਮੁੜ-ਸੈੱਟ ਕਰਨਾ ਭੁੱਲ ਜਾਓ। { -brand-name-firefox } ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਤੁਹਾਡੇ ਸਾਰੇ ਪਾਸਵਰਡ ਸੰਭਾਲਦਾ ਹੈ ਤਾਂ ਕਿ ਤੁਸੀਂ ਆਪਣੇ-ਆਪ ਲਾਗਇਨ ਕਰ ਸਕੋ ਜਾਂ ਆਪਣੇ ਸੰਭਾਲੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਲੱਭ ਸਕੋ। ਘੈਂਟ ਸੁਰੱਖਿਆ ਲਈ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨੂੰ <a href="{ $url }">ਮੁੱਢਲਾ ਪਾਸਵਰਡ</a> ਦਿਓ।
 # Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
