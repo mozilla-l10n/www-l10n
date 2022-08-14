@@ -25,6 +25,9 @@ features-bookmarks-customize-that-bookmark = ਉਸ ਬੁੱਕਮਾਰਕ ਨ
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = ਬੁੱਕਮਾਰਕਾਂ ਨਾਲ ਜਿਆਦਾ ਸਮਾਂ ਬਿਤਾਓ
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = ਹਰ ਬੁੱਕਮਾਰਕ ਮੈਨੇਜਰ <a href="{ $url }">ਐਡ-ਆਨ</a> ਦੇ ਨਾਲ ਆਪਣੀ ਦਰੁਸਤਾ ਦਾ ਅਭਿਆਸ ਕਰੋ, ਤੁਸੀਂ ਪੂਰੇ ਸਫ਼ੇ ਦੇ ਸਨੈਪਸ਼ਾਟ ਤੋਂ ਲਾਕ-ਡਾਊਨ-ਟਾਇਡ ਪ੍ਰਾਈਵੇਟ ਬੁੱਕਮਾਰਕ ਨੂੰ ਤੇਜ਼-ਸਵਿੱਚ ਬਾਹੀ ਤੋਂ ਸੋਚ ਸਕਦੇ ਹੋ।
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers

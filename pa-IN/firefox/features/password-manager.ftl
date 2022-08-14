@@ -17,10 +17,15 @@ password-manager-password-hero = ਪਾਸਵਰਡ ਹੀਰੋ
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = ਰੀਸੈਟ ਨੂੰ ਭੁੱਲ ਜਾਓ। { -brand-name-firefox } ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਤੁਹਾਡੇ ਸਾਰੇ ਪਾਸਵਰਡ ਰੱਖਦਾ ਹੈ ਤਾਂ ਜੋ ਤੁਸੀਂ ਆਟੋਮੈਟਿਕ ਹੀ ਲਾਗਇਨ ਕਰ ਸਕੋ, ਜਾਂ ਸੁਰੱਖਿਅਤ ਪਾਸਵਰਡ ਨੂੰ ਆਸਾਨੀ ਨਾਲ ਲੱਭ ਸਕੋ। ਚੋਟੀ ਦੀ ਸੁਰੱਖਿਆ ਲਈ, ਆਪਣੇ ਕੰਪਿਊਟਰ ਨੂੰ <a href="{ $url }">ਮਾਸਟਰ ਪਾਸਵਰਡ</a> ਦਿਓ।
+password-manager-password-magician = ਪਾਸਵਰਡ ਜਾਦੂਗਰ
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = ਪਾਸਵਰਡ ਨਿੰਜਾ
 password-manager-no-more-try-again = ਜਦੋਂ ਤੁਸੀਂ ਕਿਤੇ ਹੋਰ ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ ਤਾਂ "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"। ਆਪਣੇ { -brand-name-firefox-account } ਅਤੇ ਆਪਣੇ ਫੋਨ ਉੱਤੇ ਲਾਗਇਨ ਕਰੋ, ਅਤੇ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਤੁਹਾਡੇ ਨਾਲ ਆਉਂਦੇ ਹਨ। ਤੁਹਾਡਾ ਲਾਗਇਨ ਵੇਰਵੇ ਬਸ ਇਸ ਤਰਾਂ ਦਿਖਾਈ ਦੇਵੇਗਾ, ਇਸ ਤਰਾਂ।
+password-manager-password-champion = ਪਾਸਵਰਡ ਚੈਂਪੀਅਨ
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = { -brand-name-firefox } ਦੀਆਂ ਕਈ ਪਾਸਵਰਡ ਮੈਨੇਜਰ <a href="{ $addons }">ਐਡ-ਆਨ</a> ਨਾਲ ਆਪਣਾ ਸੁਰੱਖਿਆ ਸੋਨ ਤਗਮਾ ਜਿੱਤੋ। ਮੌਜੂਦਾ ਮਨਪਸੰਦ ਚੁਣੋ ਜਾਂ ਮਾਹਰ ਕਮਿਊਨਟੀ ਰੇਟਿੰਗ ਤੇ ਪੜਤਾਲਾਂ ਵਿੱਚੋਂ ਅਗਲੇ ਪੜਾਅ ਵਾਲਾ ਲੱਭੋ।
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = ਪਾਸਵਰਡ ਮਾਸਟਰ
