@@ -8,6 +8,10 @@
 not-found-locale-title = Επιλέξτε τη γλώσσα σας για να περιηγηθείτε στο Mozilla.org
 not-found-locale-desc = Επιλέξτε τη χώρα ή την περιοχή σας για να υποδείξετε την προτιμώμενη γλώσσα σας.
 not-found-locale-not-yet-translated = Η σελίδα δεν έχει μεταφραστεί ακόμα
+# Variables:
+#   $community (url) - link to https://community.mozilla.org/activities/localize-mozilla/
+#   $contribute (url) - link to https://wiki.mozilla.org/L10n:Contribute
+not-found-locale-join-us = Γίνετε μέλος της <a href="{ $community }">ομάδας της κοινότητάς</a> μας και βοηθήστε μας να <a href="{ $contribute }">μεταφράσουμε αυτήν τη σελίδα.</a>
 not-found-locale-available = Διατίθεται στις ακόλουθες γλώσσες:
 # Variables:
 #   $requested_page (string) - path of originally requested page

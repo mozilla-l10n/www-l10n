@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = Παρακαλούμε ακολουθή
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Το σύστημά σας ενδέχεται να μην πληροί τις απαιτήσεις του { -brand-name-firefox }, αλλά μπορείτε να δοκιμάσετε κάποια από <a href="{ $url }">αυτές τις εκδόσεις</a>.
+firefox-desktop-download-taskbar = Το { -brand-name-firefox } θα καρφιτσωθεί στη γραμμή εργασιών των { -brand-name-windows } μετά την εγκατάσταση

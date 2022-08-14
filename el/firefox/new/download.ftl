@@ -63,3 +63,4 @@ firefox-new-fast = Γρήγορο, ιδιωτικό & δωρεάν
 firefox-new-from-mozilla = από τη { -brand-name-mozilla }
 firefox-new-desc = Το { -brand-name-firefox-browser } είναι ένα δωρεάν πρόγραμμα περιήγησης ιστού για γρήγορη φόρτωση σελίδων, με λιγότερη χρήση μνήμης και πολλές άλλες λειτουργίες - ένα έργο της μη κερδοσκοπικής { -brand-name-mozilla }.
 firefox-new-download-a-different = Λήψη για διαφορετική πλατφόρμα ή γλώσσα
+firefox-new-taskbar = Το { -brand-name-firefox } θα καρφιτσωθεί στη γραμμή εργασιών των { -brand-name-windows } μετά την εγκατάσταση

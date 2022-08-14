@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/this-site/
 
 about-this-site-title = Σχετικά με τον ιστότοπο
+about-this-site-desc = Σχετικά με τον ιστότοπο «www.mozilla.org» και τα εργαλεία ανοικτού κώδικα που χρησιμοποιήθηκαν για τη δημιουργία του.
 about-this-site-like-many = Όπως πολλά από τα προϊόντα μας, αυτός ο ιστότοπος είναι επίσης ανοικτού κώδικα:
 about-this-site-view-source = Δείτε τον πηγαίο κώδικα στο { -brand-name-github }
 about-this-site-report-a-bug = Αναφορά σφάλματος
