@@ -9,11 +9,17 @@ firefox-mobile-download-the-firefox-browser = ਆਪਣੋ ਮੋਬਾਈਲ �
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = ਉਹ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਤੁਹਾਡੇ ਲਈ ਬਣਿਆ ਹੈ, ਨਾ ਕਿ ਇਸ਼ਤਿਹਾਰ ਦੇਣ ਵਾਲਿਆਂ ਲਈ।
+firefox-mobile-check-out-firefox-again-its = { -brand-name-firefox } ਫੇਰ ਵਰਤ ਕੇ ਵੇਖੋ। ਇਹ ਤੇਜ਼, ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਤੁਹਾਡੇ ਹੱਕ ਵਿੱਚ ਖੜ੍ਹਾ ਹੈ। { -brand-name-ios } ਅਤੇ { -brand-name-android } ਲਈ।
 firefox-mobile-get-automatic-privacy-on-mobile = ਮੋਬਾਈਲ ਤੇ ਆਟੋਮੈਟਿਕ ਪਰਦੇਦਾਰੀ ਪ੍ਰਾਪਤ ਕਰੋ
+firefox-mobile-super-fast-private-by-default = ਬਹੁਤ ਤੇਜ਼। ਮੁੱਢ ਤੋਂ ਹੀ ਪ੍ਰਾਈਵੇਟ। 2000+ ਆਨਲਾਈਨ ਟਰੈਕਰਾਂ ਉੱਤੇ ਲਾਈ ਪਾਬੰਦੀ।
 firefox-mobile-get-firefox-mobile = { -brand-name-firefox } ਮੋਬਾਈਲ ਪ੍ਰਾਪਤ ਕਰੋ
 firefox-mobile-block-online-trackers-and = ਆਨਲਾਈਨ ਟਰੈਕਰ ਅਤੇ ਹਮਲਾਵਰ ਇਸ਼ਤਿਹਾਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 firefox-mobile-privacy-protection-by-default = ਮੂਲ ਰੂਪ ਵਿੱਚ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ
 firefox-mobile-stop-companies-from-following = ਕੰਪਨੀਆਂ ਨੂੰ ਤੁਹਾਡੇ ਮਗਰ ਲੱਗਣ ਤੋਂ ਰੋਕੋ
+# "Tracking Protection" is a feature name; it should be capitalized
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+firefox-mobile-stay-off-their-radar-with = <a href="{ $url }">{ -brand-name-firefox } ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ</a> ਨਾਲ ਉਹਨਾਂ ਦੇ ਨਿਸ਼ਾਨੇ ਤੋਂ ਦੂਰ ਰਹੋ
 firefox-mobile-discover-products-that-keep = ਉਤਪਾਦ, ਜੋ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ, ਲੱਭੋ
 firefox-mobile-sync-your-history-passwords = ਆਪਣੇ ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ। ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਲਈ ਟੈਬਾਂ ਨੂੰ ਸਾਂਝਾ ਕਰੋ।
 firefox-mobile-android-only = ਕੇਵਲ { -brand-name-android }
