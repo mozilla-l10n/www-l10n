@@ -7,6 +7,7 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: ਆਪਣੇ ਪੂਰੇ ਡਿਵਾਈਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ
+vpn-landing-hero-sub-heading-v2 = ਜਿੱਥੇ ਵੀ ਤੁਸੀ ਜਾਓ, ਹਰ ਡਿਵਾਈਸ ਲਈ — ਸੁਰੱਖਿਆ, ਭਰੋਸੇਯੋਗਤਾ ਤੇ ਸਪੀਡ।
 # Obsolete string
 vpn-landing-hero-sub-heading = ਸੁਰੱਖਿਆ ਜਿਸ ਉੱਤੇ ਤੁਸੀਂ ਟੇਕ ਰੱਖ ਸਕਦੇ ਹੋ। ਨਾਂ, ਜਿਸ ਉੱਤੇ ਤੁਸੀਂ ਭਰੋਸਾ ਕਰ ਸਕਦੇ ਹੋ।
 vpn-landing-hero-desc = { -brand-name-firefox } ਦੇ ਬਣਾਉਣ ਵਾਲੇ ਵਲੋਂ ਵਰਚੁਅਲ ਪ੍ਰਾਈਵੇਟ ਨੈੱਟਵਰਕ ਹੈ।
