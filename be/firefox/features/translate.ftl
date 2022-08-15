@@ -14,6 +14,8 @@ features-translate-the-google-translate = Пашырэнне To { -brand-name-go
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Інтэрнэт напоўнены дзівоснымі рэчамі, але многія з іх не напісаны па-англійску — таму мільярдам людзей па ўсім свеце патрэбны перакладчык толькі для таго, каб карыстацца Інтэрнэтам. Вы можаце <a { $attrs }>сцягнуць { -brand-name-firefox } на больш за 100 мовах</a>, каб меню вашага браўзера, абвесткі і паведамленні былі на мове, якой вы аддаяце перавагу, але гэта не вырашае праблемы ўсяго таго дзівоснага змесціва, дзеля пошуку якога вы выкарыстоўваеце свой браўзер.
 features-translate-to-google-translate = To { -brand-name-google } Translate
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-google-translate-with = Сэрвіс { -brand-name-google } Translate, абслугоўваючы больш за 100 моў*, выкарыстоўваецца мільёнамі людзей па ўсім свеце. Аднак пераключэнне паміж translate.google.com і старонкай, якую вы спрабуеце прачытаць — не самы лепшы варыянт. Пашырэнне <a { $attrs }>To { -brand-name-google } Translate</a> робіць пераклад старонкі, на якой вы знаходзіцеся, прасцейшым, чымсьці калі-небудзь.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Атрымаць пашырэнне
 features-translate-switch-languages-in = Пераключайце мовы ў { -brand-name-firefox }
