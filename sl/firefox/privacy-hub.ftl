@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -39,6 +39,7 @@ firefox-privacy-hub-learn-more-about-our-mission = Spoznajte naše poslanstvo
 firefox-privacy-hub-your-privacy-by-the-product = Vaša zasebnost v vseh izdelkih
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }ovi izdelki delujejo drugače – saj so zasnovani tako, da v prvi vrsti ščitijo vašo zasebnost.
 firefox-privacy-hub-learn-about-our-products = Spoznajte naše izdelke
+firefox-privacy-hub-firefox-privacy-by-the = Zasebnost { -brand-name-firefox(sklon: "rodilnik") } v vsakem izdelku
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ščiti vašo zasebnost v vsakem izdelku.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>ščiti</strong> vašo zasebnost v vsakem izdelku
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
