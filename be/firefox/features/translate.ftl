@@ -18,9 +18,12 @@ features-translate-to-google-translate = To { -brand-name-google } Translate
 features-translate-google-translate-with = Сэрвіс { -brand-name-google } Translate, абслугоўваючы больш за 100 моў*, выкарыстоўваецца мільёнамі людзей па ўсім свеце. Аднак пераключэнне паміж translate.google.com і старонкай, якую вы спрабуеце прачытаць — не самы лепшы варыянт. Пашырэнне <a { $attrs }>To { -brand-name-google } Translate</a> робіць пераклад старонкі, на якой вы знаходзіцеся, прасцейшым, чымсьці калі-небудзь.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Атрымаць пашырэнне
+features-translate-once-installed-simply = Пасля ўсталявання проста вылучыце тэкст, які хочаце перакласці, і націсніце правай кнопкай мышы, каб адкрыць меню з двума варыянтамі: 1) Адкрыць translate.google.com з абраным тэкстам, які аўтаматычна ўстаўляецца ў поле перакладу; або 2) Праслухаць вымаўленне фразы (на базе { -brand-name-google } Text-to-Speech), што карысна, калі вы спрабуеце вывучаць новую мову.
 features-translate-switch-languages-in = Пераключайце мовы ў { -brand-name-firefox }
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
 features-translate-if-you-are = Калі вы ўжо карыстаецеся { -brand-name-firefox }, можаце змяніць мову свайго браўзера або дадаць мовы ў інтэрфейс { -brand-name-firefox }. <a { $attrs }>Падрабязней тут.</a>
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-with-the-to = *З дапамогай пашырэння To { -brand-name-google } Translate вы зараз можаце перакладаць <a { $attrs }>наступныя мовы</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> і шмат іншых!</a>
 features-translate-for-everyone = Firefox — для ўсіх
