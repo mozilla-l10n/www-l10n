@@ -14,7 +14,11 @@ welcome-page1-youre-on-track-to-stay-protected = ਸੁਰੱਖਿਅਤ ਲਈ
 welcome-page1-youve-got-the-web-browser = ਤੁਹਾਡੇ ਕੋਲ ਉਹ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ — ਹੁਣ ਹੈਕਰਾਂ ਦੇ ਸ਼ਿਕਾਰ ਦਾ ਵੇਲਾ ਆ ਗਿਆ ਹੈ।
 welcome-page1-check-your-breach-report = ਆਪਣੀ ਸੰਨ੍ਹ ਲੱਗਣ ਦੀ ਰਿਪੋਰਟ ਦੀ ਜਾਂਚ ਕਰੋ
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-firefox-monitor-shows-you = ਜੇ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਕਿਸੇ ਜਾਣੀ ਪਛਾਣੀ ਡਾਟਾ ਸੰਨ੍ਹਮਾਰੀ ਵਿੱਚ ਲੀਕ ਹੋ ਚੁੱਕੀ ਹੋਵੇ ਤਾਂ { -brand-name-firefox-monitor } ਤੁਹਾਨੂੰ ਸੂਚਿਤ ਕਰਦਾ ਹੈ ਅਤੇ ਭਵਿੱਖ ਵਿੱਚ ਵੀ ਜੇ ਹੋਵੇ ਤਾਂ ਤੁਹਾਨੂੰ ਚੇਤਾਵਨੀ ਦਿੰਦਾ ਹੈ।
 welcome-page1-stay-ahead-of-hackers = ਹੈਕਰਾਂ ਤੋਂ ਸਾਵਧਾਨ ਰਹੋ
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = <a href="{ $security_tips }">{ -brand-name-monitor } ਸੁਰੱਖਿਆ ਨੁਕਤਿਆਂ</a> ਨਾਲ ਆਪਣੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸੁਰੱਖਿਆ ਬਣਾਉਣ ਦੇ ਢੰਗ ਲੱਭੋ।
 welcome-page1-stay-in-the-know = ਸੂਚਨਾ ਲੈਂਦੇ ਰਹੋ
 # "Evite" is a proper name and generally shouldn't be translated.
 # Variables:
