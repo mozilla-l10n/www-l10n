@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
 firefox-mobile-download-the-firefox-browser = ਆਪਣੋ ਮੋਬਾਈਲ ਵਾਸਤੇ { -brand-name-ios } ਅਤੇ { -brand-name-android } ਲਈ { -brand-name-firefox-browser } ਡਾਊਨਲੋਡ ਕਰੋ।
+firefox-mobile-firefox-browser-for-mobile = ਮੋਬਾਈਲ ਲਈ { -brand-name-firefox-browser } ਮੂਲ ਰੂਪ ਵਿੱਚ 2000 ਤੋਂ ਵੱਧ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ, ਪ੍ਰਾਈਵੇਟ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਤੁਹਾਡੇ ਵਲੋਂ ਆਸ ਕੀਤੀ ਪਰਦੇਦਾਰੀ ਅਤੇ ਸਪੀਡ ਤੁਹਾਨੂੰ ਦਿੰਦਾ ਹੈ।
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = ਉਹ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਤੁਹਾਡੇ ਲਈ ਬਣਿਆ ਹੈ, ਨਾ ਕਿ ਇਸ਼ਤਿਹਾਰ ਦੇਣ ਵਾਲਿਆਂ ਲਈ।
@@ -15,6 +16,9 @@ firefox-mobile-super-fast-private-by-default = ਬਹੁਤ ਤੇਜ਼। ਮੁ�
 firefox-mobile-get-firefox-mobile = { -brand-name-firefox } ਮੋਬਾਈਲ ਪ੍ਰਾਪਤ ਕਰੋ
 firefox-mobile-block-online-trackers-and = ਆਨਲਾਈਨ ਟਰੈਕਰ ਅਤੇ ਹਮਲਾਵਰ ਇਸ਼ਤਿਹਾਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 firefox-mobile-privacy-protection-by-default = ਮੂਲ ਰੂਪ ਵਿੱਚ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ
+# Variables:
+#   $promise (url) - link to ttps://www.mozilla.org/firefox/features/private-browsing/
+firefox-mobile-leave-no-trace-with-private = <a href="{ $url }">ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਢੰਗ</a> ਨਾਲ ਕੋਈ ਪੈੜ ਨਾ ਛੱਡੋ। ਜਦੋਂ ਹੀ ਤੁਸੀਂ ਕਰੋ ਬੰਦ, ਤੁਹਾਡਾ ਅਤੀਤ ਅਤੇ ਕੂਕੀਜ਼ ਸਭ ਖਤਮ।
 firefox-mobile-stop-companies-from-following = ਕੰਪਨੀਆਂ ਨੂੰ ਤੁਹਾਡੇ ਮਗਰ ਲੱਗਣ ਤੋਂ ਰੋਕੋ
 # "Tracking Protection" is a feature name; it should be capitalized
 # Variables:
@@ -26,6 +30,7 @@ firefox-mobile-android-only = ਕੇਵਲ { -brand-name-android }
 firefox-mobile-make-android-your-own = { -brand-name-android } ਨੂੰ ਆਪਣਾ ਬਣਾਓ
 firefox-mobile-customize-your-firefox-mobile-truncated = ਆਪਣੇ { -brand-name-firefox } ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਨੂੰ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨਾਲ ਆਪਣੇ ਮੁਤਾਬਕ ਢਾਲੋ।
 firefox-mobile-find-it-fast-with-a-smart = ਸਮਾਰਟ ਖੋਜ ਪੱਟੀ ਨਾਲ ਇਹ ਤੇਜੀ ਨਾਲ ਲੱਭੋ
+firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } ਚੁਸਤ ਖੋਜ ਸੁਝਾਆਵਾਂ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਅਕਸਰ ਖੋਲ੍ਹੀਆਂ ਸਾਈਟਾਂ ਲਈ ਫ਼ੌਰੀ ਪਹੁੰਚ ਨਾਲ ਤੁਹਾਡੀਆਂ ਲੋੜਾਂ ਨੂੰ ਪੂਰਾ ਕਰਦਾ ਹੈ।
 firefox-mobile-the-privacy-you-deserve-the = ਪਰਦੇਦਾਰੀ, ਜਿਸ ਦੇ ਤੁਸੀਂ ਹੱਕਦਾਰ ਹੋ। ਸਪੀਡ, ਜੋ ਤੁਹਾਨੂੰ ਚਾਹੀਦੀ ਹੈ।
 firefox-mobile-get-firefox-for-mobile = ਮੋਬਾਇਲ ਲਈ { -brand-name-firefox } ਲਵੋ
 firefox-mobile-send-a-download-link-to-your = ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਡਾਊਨਲੋਡ ਲਿੰਕ ਭੇਜੋ।
