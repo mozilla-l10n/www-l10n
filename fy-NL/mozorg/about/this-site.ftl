@@ -23,3 +23,22 @@ about-this-site-view-source = Besjoch de boarnekoade op { -brand-name-github }
 about-this-site-report-a-bug = In bug melde
 about-this-site-contribute-to-code = Bydrage oan de koade
 about-this-site-contribute-to-l10n = Bydrage oan oersettingen
+about-this-site-read-the-docs = De dokumintaasje lêze
+about-this-site-colophon = Kolofon
+about-this-site-some-open-source-projects = Inkelde iepenboarne-projekten dy’t brûkt binne by it meitsjen fan dizze website:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> as back-end-webframework, mei <a href="{ $jinja }">Jinja</a> foar sjabloanen.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = { -brand-name-mozilla }’s ûntwerpsysteem <a href="{ $protocol }">Protokol</a> foar front-end-komponinten en branding.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = { -brand-name-mozilla }’s lokalisaasjesysteem <a href="{ $fluent }">Fluent</a> foar oersettingen.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = In protte oare lytsere biblioteken en frameworks, dy’t jo fine kinne yn ús <a href="{ $github }">{ -brand-name-github }-repo</a>.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Wy tankje alle { -brand-name-mozilla }-<a href="{ $credits }">meiwurkers</a> dy’t holpen hawwe om it web in better plak te meitsjen.
