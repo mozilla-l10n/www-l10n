@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-mozilla-vpn } za { -brand-name-linux } ({ -brand-name-ubuntu })
+vpn-linux-page-description = Kot privrženec { -brand-name-ubuntu } { -brand-name-linux }a se že zavedate pomena zasebnosti in varnosti na spletu. Verjetno veste tudi za { -brand-name-mozilla(sklon: "tozilnik") } in za kaj se zavzema – za zaseben, svoboden in odprt internet za vse. Čas je, da to dvoje združimo.
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } za { -brand-name-ubuntu } { -brand-name-linux } – popolna zasebna kombinacija
 vpn-linux-wifi-headline = Ostanite varni na spletu, ko ste obsojeni na javni WiFi
