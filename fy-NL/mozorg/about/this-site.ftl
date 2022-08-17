@@ -11,3 +11,15 @@ about-this-site-desc = Oer de website www.mozilla.org en it iepenboarne-ark dy鈥
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 about-this-site-this-website = De website www.mozilla.org is al mear as twa desennia online. Dat is s没nt <a href="{ $archive }">dinosaurustiden</a> yn ynternetjierren. As sadanich is www.mozilla.org in hoekstien fan it web, mei woartels yn de iepenboarnebeweging dy鈥檛 tsj没ge wie fan de <a href="{ $coderush }">oprjochting fan { -brand-name-mozilla }</a>.
+# Variables:
+#   $firefox (url) link to https://www.mozilla.org/firefox/new/
+#   $vpn (url) link to https://www.mozilla.org/products/vpn/
+#   $mozilla (url) link to https://www.mozilla.org/about/
+#   $book (url) link to https://www.mozilla.org/book/
+#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+about-this-site-today = Hjoed-de-dei is dit de side d锚r鈥檛 minsken komme om <a href="{ $firefox }">{ -brand-name-firefox }</a> te downloaden, <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> probearje, en mear ynfo 没ntdekke <a href="{ $mozilla }">oer { -brand-name-mozilla }</a>. Jo kinne 没nderweis ek in pear <a href="{ $book }">Peaske-aaien</a> 没ntdekke.
+about-this-site-like-many = Lykas in protte fan 煤s produkten is dizze webside ek iepenboarne:
+about-this-site-view-source = Besjoch de boarnekoade op { -brand-name-github }
+about-this-site-report-a-bug = In bug melde
+about-this-site-contribute-to-code = Bydrage oan de koade
+about-this-site-contribute-to-l10n = Bydrage oan oersettingen
