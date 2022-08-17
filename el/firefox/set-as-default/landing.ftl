@@ -14,6 +14,7 @@ set-as-default-landing-thanks-for-using-the = Σας ευχαριστούμε π
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = Βεβαιωθείτε ότι προστατεύεστε, κάθε φορά που συνδέεστε στο διαδίκτυο
 set-as-default-landing-you-should-get = Θα πρέπει να έχετε λόγο για τον τρόπο περιήγησής σας
+set-as-default-landing-if-you-recently = Εάν ενημερώσατε πρόσφατα τον υπολογιστή σας, οι ρυθμίσεις σας ενδέχεται να έχουν αλλάξει. Υποστηρίξτε ένα ελεύθερο και ανοικτό διαδίκτυο κάθε φορά που συνδέεστε σε αυτό, με το { -brand-name-firefox }.
 set-as-default-landing-choose-automatic-privacy = Αυτόματο απόρρητο
 set-as-default-landing-companies-keep-finding = Οι εταιρείες βρίσκουν συνέχεια νέους τρόπους για να συλλέγουν τα προσωπικά σας δεδομένα. Το { -brand-name-firefox } είναι το πρόγραμμα περιήγησης με αποστολή να βρίσκει νέους τρόπους για να σας προστατεύει.
 set-as-default-landing-choose-freedom-on-every = Ελευθερία σε κάθε συσκευή
