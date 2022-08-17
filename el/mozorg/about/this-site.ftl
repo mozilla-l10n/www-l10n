@@ -8,10 +8,11 @@
 about-this-site-title = Σχετικά με τον ιστότοπο
 about-this-site-desc = Σχετικά με τον ιστότοπο «www.mozilla.org» και τα εργαλεία ανοικτού κώδικα που χρησιμοποιήθηκαν για τη δημιουργία του.
 about-this-site-like-many = Όπως πολλά από τα προϊόντα μας, αυτός ο ιστότοπος είναι επίσης ανοικτού κώδικα:
-about-this-site-view-source = Δείτε τον πηγαίο κώδικα στο { -brand-name-github }
+about-this-site-view-source = Προβολή πηγαίου κώδικα στο { -brand-name-github }
 about-this-site-report-a-bug = Αναφορά σφάλματος
 about-this-site-contribute-to-code = Συνεισφορά στη βάση κώδικα
 about-this-site-contribute-to-l10n = Συνεισφορά στις μεταφράσεις
+about-this-site-read-the-docs = Ανάγνωση τεκμηρίωσης
 # Variables:
 #   $github (url) link to https://github.com/mozilla/bedrock
 about-this-site-many-other = Πολλές άλλες, μικρότερες βιβλιοθήκες και πλαίσια, τα οποία μπορείτε να βρείτε στο <a href="{ $github }">αποθετήριό μας στο { -brand-name-github }</a>.
