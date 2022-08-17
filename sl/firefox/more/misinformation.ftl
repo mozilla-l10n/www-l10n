@@ -8,6 +8,7 @@
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Izogibajte se napačnim informacijam na spletu – { -brand-name-firefox } je tu, da vam pomaga
 misinformation-page-desc = Napačne informacije so nadležne, moteče in lahko drago stanejo. { -brand-name-firefox } vam ponuja nekaj nasvetov, kako se neresničnim informacijam izogniti in jim biti med brskanjem po spletu čim manj izpostavljeni.
+misinformation-page-subheading = Oglejte si nasvete, kako se izogniti napačnim informacijam in se osredotočiti na tisto, kar vam je pomembno
 misinformation-what-is-heading = Kaj je napačna informacija? Kaj je lažna informacija?
 misinformation-false-info-heading = Kje se prikazujejo neresnične informacije?
 # Variables:
