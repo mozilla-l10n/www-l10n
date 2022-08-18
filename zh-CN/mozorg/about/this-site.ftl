@@ -12,3 +12,10 @@ about-this-site-contribute-to-code = 贡献代码
 about-this-site-contribute-to-l10n = 参与翻译
 about-this-site-read-the-docs = 阅读文档
 about-this-site-colophon = 版权所有
+about-this-site-some-open-source-projects = 本网站构建所用到的开源项目：
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = { -brand-name-mozilla } 的 <a href="{ $protocol }">Protocol</a> 设计系统，用于前端组件和品牌识别。
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = { -brand-name-mozilla } 的 <a href="{ $fluent }">Fluent</a> 本地化系统用于语言翻译。
