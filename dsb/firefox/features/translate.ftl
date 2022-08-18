@@ -18,7 +18,7 @@ features-translate-switch-languages-in = Rěcy w { -brand-name-firefox } pśeša
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
 features-translate-if-you-are = Jolic { -brand-name-firefox } južo wužywaśo, móžośo rěc swójogo wobglědowaka změniś abo pówjerchoju { -brand-name-firefox } rěcy pśidaś. <a { $attrs }>Zgóńśo howu wěcej.</a>
 # $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *Z rozšyrjenim { -brand-name-google } Translate, móžośo tuchylu <a { $attrs }toś te rěcy</a> pśełožyś</a>:
+features-translate-with-the-to = *Z rozšyrjenim { -brand-name-google } Translate, móžośo tuchylu <a { $attrs }>toś te rěcy pśełožyś</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> a wěcej!</a>
 features-translate-for-everyone = Firefox jo za wšykne
