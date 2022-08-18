@@ -14,6 +14,7 @@ mobile-ios-make-firefox-your = Torne o { -brand-name-firefox } no seu navegador 
 mobile-ios-fast-private-secure = Rápido. Privado. Seguro
 mobile-ios-stay-private-online = Mantenha-se privado online
 mobile-ios-your-browsing-history = O seu histórico de navegação é história
+mobile-ios-get-more-firefox = Obtenha mais do { -brand-name-firefox } na sua vida
 mobile-ios-own-your-home = Controle o seu ecrã inicial
 mobile-ios-get-to-the-parts = Aceda mais rapidamente às partes da Internet do seu interesse. Escolha ver todos os seus separadores abertos, pesquisas recentes, marcadores e sites favoritos, tudo num único sítio.
 mobile-ios-find-it-all = Encontre tudo mais depressa
