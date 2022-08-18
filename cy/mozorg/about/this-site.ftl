@@ -17,7 +17,7 @@ about-this-site-this-website = Mae'r wefan www.mozilla.org wedi bod ar-lein ers 
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-about-this-site-today = Heddiw, dyma'r wefan lle mae pobl yn dod i lwytho <a href="{ $firefox }">{ -brand-name-firefox } i lawr, rhowch gynnig ar <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, a dysgwch ragor am <a href="{ $mozilla }">ac am { -brand-name-mozilla }</a>. Gallwch hefyd ddarganfod ychydig o <a href="{ $book }">wyau Pasg</a> ar y ffordd.
+about-this-site-today = Heddiw, dyma'r wefan lle mae pobl yn dod i lwytho <a href="{ $firefox }">{ -brand-name-firefox }</a> i lawr, rhowch gynnig ar <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, a dysgwch ragor am <a href="{ $mozilla }">ac am { -brand-name-mozilla }</a>. Gallwch hefyd ddarganfod ychydig o <a href="{ $book }">wyau Pasg</a> ar y ffordd.
 about-this-site-like-many = Fel llawer o'n cynnyrch, mae'r wefan hon hefyd yn gof agored:
 about-this-site-view-source = Mae'r cod ffynhonnell i'w weld ar { -brand-name-github }
 about-this-site-report-a-bug = Adrodd ar wall

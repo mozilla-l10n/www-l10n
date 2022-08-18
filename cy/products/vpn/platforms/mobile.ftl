@@ -24,7 +24,7 @@ vpn-mobile-servers-headline = Cysylltwch â gweinyddion ledled y byd
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-mobile-servers-copy = Porwch o Frasil. Chwarae gêm o Japan. Ffrydio o Fecsico. Mae { -brand-name-mozilla-vpn } yn gadael i chi newid lleoliad eich ffôn neu'ch cyfrifiadur i un o { $servers } o weinyddion.
+vpn-mobile-servers-copy = Porwch o Frasil. Chwarae gêm o Japan. Ffrydio o Fecsico. Mae { -brand-name-mozilla-vpn } yn gadael i chi newid lleoliad eich ffôn neu'ch cyfrifiadur i un o { $servers } o { $countries } weinyddion.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Diogelwch hyd at { $devices } o ddyfeisiau
