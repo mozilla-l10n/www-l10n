@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } d iminig arurrad ugar n wiyaḍ, yegber ifecka n tneflit n tsuta taneggarut akked timahilin timaynutin am usefrek n twezza CSS neɣ tamseɣtayt n uframework.
@@ -43,7 +43,7 @@ firefox-developer-visual-editing = Taẓrigt tummant
 firefox-developer-fine-tuning-animations = Ṣeggem imrayen; areyyec akked tamiwin s wudem ufrin.
 firefox-developer-learn-more-about-visual-editing = Issin ugar ɣef teẓrigt tummant
 firefox-developer-performance = Tamellit
-firefox-developer-unblock-bottlenecks = Kkes tineqqiḍin isewḥalen, ṣeggem ikalan akked tiqbula.
+firefox-developer-unblock-bottlenecks = Kkes tineqqiḍin isewḥalen, ṣeggem ikalan akked tiɣbula.
 firefox-developer-learn-more-about-performance = Issin ugar ɣef ifecka n tmellit
 firefox-developer-memory = Takatut
 firefox-developer-find-memory-leaks = Af-d takatut itef̣f̣ɣen udiɣ snerni timellit n usnas-ik.
@@ -56,6 +56,7 @@ firefox-developer-inactive-css = CCS arurmid
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } imaynuten d uzmiren, d ifallaẓen, ifen akk wiyaḍ yerna zemren ad ttwasɣezfen. Ayagi yegber tamseɣtayt JavaScript n yimussnawen, i izemren ad teddu ɣef ddeqs n yiminigen yettwabnan s React d Redux.
 firefox-developer-master-css-grid = Issin s telqayt tamezzut CSS
+# outdated
 firefox-developer-next-gen-css-engine = Amsedday CSS n tsuta d-iteddun
 firefox-developer-a-next-generation = Amsedday CSS n tsuta d-iteddun
 firefox-developer-master-innovative-features = Timahilin n usnulfu
