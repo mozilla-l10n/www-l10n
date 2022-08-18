@@ -32,7 +32,7 @@ privacy-index-to-review-and-comment-on-proposed = Щоб перевірити й
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Читайте більше про нашу поточну роботу над політикою приватності й безпеки у <a href="{ $blog }">Блозі { -brand-name-mozilla } про політику відкритості й захист</a>.
 privacy-index-outdated-policies = Попередні версії
-privacy-index-mozilla-websites-communications = Вебсайти Mozilla, комунікації та куки
+privacy-index-mozilla-websites-communications = Вебсайти { -brand-name-mozilla }, комунікації та куки
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
