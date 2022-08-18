@@ -32,7 +32,7 @@ privacy-index-to-review-and-comment-on-proposed = Para comentar e revisar as pro
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Leia mais sobre nossa atual política pública de privacidade e segurança no blog <a href="{ $blog }">Open Policy and Advocacy</a> da { -brand-name-mozilla }.
 privacy-index-outdated-policies = Políticas antigas
-privacy-index-mozilla-websites-communications = Sites, canais de comunicações e cookies da Mozilla
+privacy-index-mozilla-websites-communications = Sites, canais de comunicações e cookies da { -brand-name-mozilla }
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
