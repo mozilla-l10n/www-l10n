@@ -18,4 +18,4 @@ about-this-site-some-open-source-projects = 本网站构建所用到的开源项
 about-this-site-mozilla-protocol = { -brand-name-mozilla } 的 <a href="{ $protocol }">Protocol</a> 设计系统，用于前端组件和品牌识别。
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
-about-this-site-fluent = { -brand-name-mozilla } 的 <a href="{ $fluent }">Fluent</a> 本地化系统用于语言翻译。
+about-this-site-fluent = { -brand-name-mozilla } 的 <a href="{ $fluent }">Fluent</a> 本地化系统，用于语言翻译。
