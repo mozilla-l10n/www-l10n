@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -13,7 +13,7 @@ history-the-mozilla-project-was = { -brand-name-mozilla } 프로젝트는 <a hre
 history-it-was-intended-to-harness = 이는 인터넷에서 수천명에 이르는 프로그래머의 창작 의욕을 계속적으로 연결하여, 웹 브라우저 시장에서 전례없는 수준의 혁신에 에너지를 쏟기 위해서 였습니다.
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
-history-within-the-first-year-new = <a href=""{ $firstyear }">첫해</a> 부터 이미 전세계 새로운 커뮤니티 멤버가 새로운 기능 추가 및 기존 기능 개선, 프로젝트 관리 및 계획을 수행 있게되었습니다.
+history-within-the-first-year-new = <a href="{ $firstyear }">첫해</a> 부터 이미 전세계 새로운 커뮤니티 멤버가 새로운 기능 추가 및 기존 기능 개선, 프로젝트 관리 및 계획을 수행 있게되었습니다.
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = 오픈 커뮤니티를 기반으로 { -brand-name-mozilla } 프로젝트는 <a href="{ $stevecase }">기업 보다 더 큰 조직</a>으로 성장했습니다.
