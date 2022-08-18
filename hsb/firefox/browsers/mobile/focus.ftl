@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Wobhladowak z priwatnosću
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } je waš wobhladowak z funkcijemi priwatnosće z awtomatiskim škitom před slědowanjom a blokowanjom wabjenja.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Jednorje priwatne mobilne přehladowanje.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } je za graty z { -brand-name-ios } a { -brand-name-android } k dispoziciji
