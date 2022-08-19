@@ -75,7 +75,7 @@ vpn-landing-faq-compatibility-question-heading = Con quali dispositivi è compat
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
-vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } è compatibile con <a href="{ $mobile }">dispositivi mobili</a>, tablet e <a href="{ $desktop }">pc desktop</a> con:
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } è compatibile con <a href="{ $mobile }">dispositivi mobili</a>, tablet e <a href="{ $desktop }">PC desktop</a> con:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } è compatibile con:
 # Variables:
