@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/get-ios/
 
 # HTML page title
-get-ios-firefox-for-ios = { -brand-name-firefox-browser } za { -brand-name-ios }
+get-ios-firefox-for-ios = { -brand-name-firefox-browser(zacetnica: "velika") } za { -brand-name-ios }
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-firefox } za { -brand-name-ios } je hiter, varen in zaseben od prvega trenutka, ko ga odprete.
 get-ios-firefox-browser = { -brand-name-firefox }
