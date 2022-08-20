@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Что такое VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Получите ответы на девять распространенных вопросов о VPN, чтобы быть в курсе того, что они делают, когда их использовать и почему.
+vpn-what-is-many-of-us = Многие из нас тратят несколько часов в день, используя Интернет для повседневных дел, таких как просмотр видео, покупки, игры и оплата счетов, вплоть до управления сложными рабочими проектами и выполнения конфиденциальных видеозвонков. <strong>Виртуальная частная сеть (VPN)</strong> — это один из лучших способов обеспечить приватность и безопасность в Интернете, а также защитить свои личные данные.
 vpn-what-is-how-do-vpns = Как работают VPN?
+vpn-what-is-a-vpn-is = VPN — это инструмент, который позволяет вам безопасно подключаться к Интернету, где бы вы ни находились. VPN работает, создавая безопасный «туннель» между вашим устройством и вашим VPN-провайдером, и защищает вас двумя ключевыми способами:
 vpn-what-is-concealing-your-ip = Скрывая ваш IP-адрес, защищая вашу личность и местоположение.
 vpn-what-is-encrypting-your-traffic = Шифруя ваш трафик между вами и вашим провайдером VPN, чтобы никто в вашей локальной сети не мог его расшифровать или изменить.
 vpn-what-is-when-should-i = Когда мне следует использовать VPN?
