@@ -23,13 +23,13 @@ vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } sa veľmi jednoducho použív
 vpn-ios-servers-headline = Pripojte sa k viac ako { $servers } serverom po celom svete
 # Variables:
 #   $countries (number) - number of available countries
-vpn-ios-servers-copy = Nakupovanie zo Švajčiarska. Streamovanie z Kanady. Surfovanie z Austrálie. Pomocou { -brand-name-mozilla-vpn } môžete nastaviť umiestnenie svojho { -brand-name-iphone } alebo { -brand-name-ipad }i do jednej z viac ako { $countries } krajín, čím sa vám otvorí svet vzrušujúceho obsahu.
+vpn-ios-servers-copy = Nakupovanie zo Švajčiarska. Streamovanie z Kanady. Surfovanie z Austrálie. Pomocou { -brand-name-mozilla-vpn } môžete nastaviť umiestnenie svojho { -brand-name-iphone } alebo { -brand-name-ipad }u do jednej z viac ako { $countries } krajín, čím sa vám otvorí svet vzrušujúceho obsahu.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Získajte prístup pre { $devices } zariadení
 # Variables:
 #   $devices (number) - number of available devices
-vpn-ios-devices-copy = S jedným predplatným môžete získať { -brand-name-mozilla-vpn } až na { $devices } rôznych zariadeniach, vrátane { -brand-name-ios } pre { -brand-name-iphone } a { -brand-name-ipad }u, { -brand-name-android }u, { -brand-name-mac-short }, { -brand-name-windows }u a { -brand-name-linux }u.
+vpn-ios-devices-copy = S jedným predplatným môžete získať { -brand-name-mozilla-vpn } až na { $devices } rôznych zariadeniach, vrátane { -brand-name-ios } pre { -brand-name-iphone } a { -brand-name-ipad }, { -brand-name-android }u, { -brand-name-mac-short }, { -brand-name-windows }u a { -brand-name-linux }u.
 vpn-ios-speed-headline = Najvyššie rýchlosti. Neobmedzené dáta.
 vpn-ios-speed-copy = Hrajte online hry, streamujte svoje obľúbené relácie a plavte sa po webe ultra vysokou rýchlosťou. Nerobte si starosti so svojou šírkou pásma na { -brand-name-mozilla-vpn } – je neobmedzená.
 vpn-ios-log-headline = Vaše údaje zostanú súkromné. Bodka.
