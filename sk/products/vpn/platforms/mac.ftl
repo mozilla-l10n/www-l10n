@@ -13,7 +13,7 @@ vpn-mac-page-description = Či už používate stolný počítač { -brand-name-
 # Mac strings
 vpn-mac-hero-headline = Chráňte svoje pripojenie online pomocou { -brand-name-mozilla-vpn } pre { -brand-name-mac-short }
 vpn-mac-ability = Od podnikania až po voľný čas by ste sa mali online cítiť bezpečne bez ohľadu na to, čo vás tam privedie. { -brand-name-mozilla-vpn } vám pomáha používať verejné Wi-Fi inteligentnejšie tým, že chráni vaše internetové pripojenie pred hackermi a poskytovateľmi internetu, ktorí chcú zhromažďovať vaše údaje. Jeho ochrana osobných údajov na jedno kliknutie je dostupná pre { -brand-name-mac-short } a { -brand-name-ios }, (rovnako ako { -brand-name-windows } 10, { -brand-name-linux } a { -brand-name-android }) a neovplyvní vašu rýchlosť. A keďže ide o sieť VPN od { -brand-name-mozilla(case: "gen") } s protokolom { -brand-name-wireguard }®, môžete sa spoľahnúť, že vaša aktivita sa nezaznamenáva a vaše údaje zostanú vždy vaše.
-vpn-mac-wifi-headline = Cíťte sa bezpečne aj na pochybnej sieti Wifi
+vpn-mac-wifi-headline = Cíťte sa bezpečne aj na pochybnej sieti Wi-Fi
 vpn-mac-wifi-copy = Buďte pokojní, keď používate verejné Wi-Fi vďaka { -brand-name-mozilla-vpn }, ktorá chráni vaše internetové pripojenie, takže vaše osobné údaje sú skryté pred hackermi a zvedavými očami.
 vpn-mac-about-headline = Od dôveryhodného tvorcu technológií
 vpn-mac-about-copy = Od roku 1998 je nezisková { -brand-name-mozilla } vedená svojim poslaním vybudovať lepší internet. Od produktov, ako je { -brand-name-firefox-browser(capitalization: "lowercase") } až po propagačné práce na celom svete, { -brand-name-mozilla } pokračuje v tom, aby zabezpečili, že internet je bezplatný a otvorený pre všetkých.

@@ -16,7 +16,7 @@ vpn-landing-hero-sub-heading-v2 = Bezpečnosť, spoľahlivosť a rýchlosť - na
 vpn-landing-hero-sub-heading = Bezpečnosť, na ktorú sa môžete spoľahnúť. Meno, ktorému môžete dôverovať.
 vpn-landing-hero-desc = Virtuálna privátna sieť od tvorcov { -brand-name-firefox(case: "gen") }.
 vpn-landing-privacy-heading = Súkromie na jedno ťuknutie
-vpn-landing-privacy-desc = Robte všetky svoje aktivity na internete bez straty súkromia. Či už cestujete, používate verejnú WiFi alebo len chcete mať väčšie súkromie, môžete sa spoľahnúť, že my budeme vaše súkromie vždy klásť na prvé miesto.
+vpn-landing-privacy-desc = Robte všetky svoje aktivity na internete bez straty súkromia. Či už cestujete, používate verejnú Wi-Fi alebo len chcete mať väčšie súkromie, môžete sa spoľahnúť, že my budeme vaše súkromie vždy klásť na prvé miesto.
 vpn-landing-fast-secure-heading = Rýchla a bezpečná sieť
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
