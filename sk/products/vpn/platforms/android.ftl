@@ -7,7 +7,7 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } pre { -brand-name-android }
-vpn-android-page-description = Zabezpečte sa jedným ťuknutím na { -brand-name-android } telefóne vďaka { -brand-name-mozilla(case: "dat") }, jedného z najdôveryhodnejších mien v oblasti technológie.
+vpn-android-page-description = Zabezpečte sa jedným ťuknutím na telefóne s { -brand-name-android(case: "ins") } vďaka { -brand-name-mozilla(case: "dat") }, jednom z najdôveryhodnejších mien v oblasti technológií.
 # Mobile strings
 vpn-android-hero-headline = Získajte ochranu a súkromie online s { -brand-name-mozilla-vpn } pre { -brand-name-android }
 vpn-android-ability = Buďte si istí, že vaše údaje sú v bezpečí pred hackermi a zvedavými očami – doma aj na verejnej sieti Wi-Fi – s { -brand-name-mozilla-vpn }. Za cenu šálky kávy získajú vaše osobné údaje na vašom { -brand-name-android } zariadení pokročilé šifrovanie prostredníctvom protokolu { -brand-name-wireguard }®. Pomocou { -brand-name-mozilla-vpn } môžete streamovať relácie, hrať hry, spravovať svoje financie, nakupovať a robiť čokoľvek iné online s vedomím, že vaše pripojenie je bezpečné.

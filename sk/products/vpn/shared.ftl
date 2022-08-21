@@ -94,7 +94,7 @@ vpn-shared-pricing-total = Celkom { $amount }
 
 vpn-shared-platform-cta-headline = Začíname
 vpn-shared-platform-cta-button = Zobraziť cenu a dostupnosť
-vpn-shared-platform-privacy-promise = Vaše súkromie je náš prísľub
+vpn-shared-platform-privacy-promise = Naším prísľubom je vaše súkromie
 vpn-shared-platform-trust-partner-headline = O našom partnerovi
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/

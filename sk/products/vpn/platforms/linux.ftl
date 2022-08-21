@@ -12,13 +12,13 @@ vpn-linux-page-title = { -brand-name-mozilla-vpn } pre { -brand-name-linux } ({ 
 vpn-linux-page-description = Ako fanúšik { -brand-name-ubuntu } { -brand-name-linux } už poznáte dôležitosť súkromia a bezpečnosti online. Pravdepodobne tiež viete o { -brand-name-mozilla(case: "loc") } a o tom, čo zastávame – súkromný, otvorený a bezplatný internet pre všetkých. Je čas spojiť tieto dve veci.
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } pre { -brand-name-ubuntu } { -brand-name-linux } — dokonalý pár na ochranu súkromia
-vpn-linux-ability = Získajte dodatočnú mieru bezpečnosti, keď ste online – doma aj vonku – pomocou { -brand-name-mozilla-vpn }. Za malý mesačný poplatok používa pokročilý protokol { -brand-name-wireguard }® na šifrovanie vášho internetového pripojenia na vašom počítači s operačným systémom { -brand-name-linux }, ako aj na iných typoch zariadení, čo vám umožňuje streamovať relácie, hrajte hry, nakupujte a venujte sa svojmu každodennému životu online s vedomím, že ste v bezpečí.
+vpn-linux-ability = Získajte dodatočnú mieru bezpečnosti, keď ste online – doma aj vonku – pomocou { -brand-name-mozilla-vpn }. Za malý mesačný poplatok používa pokročilý protokol { -brand-name-wireguard }® na šifrovanie vášho internetového pripojenia na vašom počítači s operačným systémom { -brand-name-linux }, ako aj na iných typoch zariadení, čo vám umožňuje streamovať relácie, hrať hry, nakupovať a venovať sa svojmu každodennému životu online s vedomím, že ste v bezpečí.
 vpn-linux-maker-of-firefox = Ako jedno z najdôveryhodnejších mien v technologickom priemysle sa { -brand-name-mozilla } zaviazala zaistiť, že sa budete cítiť bezpečne a isto vždy, keď budete online.
 vpn-linux-wifi-headline = Zostaňte v bezpečí online, keď potrebujete použiť verejné Wi-Fi
 vpn-linux-wifi-copy = Niekedy je verejná Wi-Fi vaša najlepšia a jediná možnosť. { -brand-name-mozilla-vpn } vám umožní bez obáv sa prihlásiť do e-mailu z letiska, upravovať si heslá v kaviarni – všetko, čo bežne robíte doma s rovnakým pokojom.
 vpn-linux-about-headline = Dôveryhodné meno od roku 1998
 vpn-linux-about-copy = Ako tvorcovia webového prehliadača { -brand-name-firefox }, { -brand-name-mozilla } bojuje za vaše práva online už desaťročia – to je to, čo robíme. Ako alternatívu k technológii na zber veľkých dát neustále hľadáme nové spôsoby, ako udržať internet otvorený a bezplatný a zároveň rešpektovať právo každého na súkromie.
-vpn-linux-privacy-headline = Bezpečnom na jedno kliknutie
+vpn-linux-privacy-headline = Bezpečnosť na jedno kliknutie
 vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } sa veľmi jednoducho používa. Ťuknite na tlačidlo a zašifruje sa vaše pripojenie a rozmaže sa adresa IP na vašom { -brand-name-iphone } alebo { -brand-name-ipad }e pomocou pokročilého protokolu { -brand-name-wireguard }®.
 # Variables:
 #   $countries (number) - number of available countries
