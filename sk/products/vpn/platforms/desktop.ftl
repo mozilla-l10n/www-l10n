@@ -17,3 +17,20 @@ vpn-desktop-maker-of-firefox = Ako tvorca webového prehliadača { -brand-name-f
 vpn-desktop-wifi-headline = Cíťte sa bezpečne pri používaní verejnej siete Wi-Fi
 vpn-desktop-wifi-copy = Naša sieť VPN chráni vaše internetové pripojenie pred hackermi a špiónmi, takže môžete nakupovať v kaviarni, kontrolovať svoj bankový účet z vlaku a podnikať online kdekoľvek bez obáv o bezpečnosť.
 vpn-desktop-about-headline = O { -brand-name-mozilla(case: "loc") }
+vpn-desktop-about-copy = { -brand-name-mozilla }, známa najmä ako tvorca { -brand-name-firefox-browser(case: "gen") }, je globálna komunita používateľov, prispievateľov a vývojárov, ktorí sa venujú tomu, aby bola moc internetu v rukách ľudí. Spoločnosť bola založená v roku 1998 a sme jedným z priekopníkov slobodného a otvoreného webu – a naším poslaním je, aby to tak zostalo.
+vpn-desktop-privacy-headline = Súkromie na jedno kliknutie
+vpn-desktop-privacy-copy = Aplikácia { -brand-name-mozilla-vpn } zašifruje vaše internetové pripojenie a skryje IP adresu vo vašom mobilnom telefóne alebo tablete pomocou pokročilého protokolu { -brand-name-wireguard }®.
+vpn-desktop-servers-headline = Pripájajte sa k serverom po celom svete
+# Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Prehliadajte z Brazílie. Hrajte z Japonska. Streamujte z Mexika. { -brand-name-mozilla-vpn } vám umožňuje zmeniť umiestnenie vášho telefónu alebo počítača na jeden z viac ako { $servers } serverov.
+# Obsolete string
+vpn-desktop-servers-copy = Prehliadajte z Brazílie. Hrajte z Japonska. Streamujte z Mexika. { -brand-name-mozilla-vpn } vám umožňuje zmeniť umiestnenie vášho telefónu alebo počítača na jeden z viac ako { $servers } serverov.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = Chráňte až { $devices } zariadení
+vpn-desktop-devices-copy = Vaše predplatné vám umožní neobmedzený prístup k našej zabezpečenej službe VPN na vašom telefóne, tablete či počítači s { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } a { -brand-name-linux }.
+vpn-desktop-speed-headline = Neuveriteľná rýchlosť, žiadne obmedzenia
+vpn-desktop-speed-copy = Streamujte videá, hrajte hry, nakupujte a prehliadajte bleskovou rýchlosťou. { -brand-name-mozilla-vpn } neobmedzí vašu šírku pásma ani nespomalí váš telefón.
+vpn-desktop-log-headline = Vaše súkromie je na prvom mieste
+vpn-desktop-log-copy = V { -brand-name-mozilla(case: "loc") } nezhromažďujeme žiadne údaje o tom, kto ste, ani nezaznamenávame vašu aktivitu online – nie prostredníctvom našej siete VPN alebo iným z našich produktov. Ochrana vášho súkromia je základnou zásadou našej misie.
