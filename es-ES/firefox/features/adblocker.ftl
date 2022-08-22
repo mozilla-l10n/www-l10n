@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -35,7 +35,7 @@ features-adblocker-to-start-click-on-the = Para empezar, haz clic en el menú de
 features-adblocker-go-easy-with-standard = Empieza con calma con el modo Estándar
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
-features-adblocker-if-ads-dont-bother-you = Si la publicidad no te molesta y no te importa que los rastreadores y cookies de terceros te sigan, el modo Estándar podría interesarte. Para deshacerte de los rastreadores en el modo Estándar, usa la <a href="{ $url }">navegación privada.
+features-adblocker-if-ads-dont-bother-you = Si la publicidad no te molesta y no te importa que los rastreadores y cookies de terceros te sigan, el modo Estándar podría interesarte. Para deshacerte de los rastreadores en el modo Estándar, usa la <a href="{ $url }">navegación privada</a>.
 features-adblocker-get-tough-with-strict = Ponte serio con el modo Estricto
 features-adblocker-if-seeing-too-many-ads = Si te molesta ver tanta publicidad, lo que mejor te conviene es el modo Estricto. Se bloquearán los rastreadores y cookies de terceros en todas las ventanas de { -brand-name-firefox }.
 features-adblocker-do-it-yourself-custom = «Hazlo tú mismo» con el modo personalizado
