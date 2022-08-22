@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -36,7 +36,7 @@ compare-safari-in-addition-to-the-regular = Además del conjunto habitual de fun
 compare-safari-like-safari-firefox-encourages = Igual que { -brand-name-safari }, { -brand-name-firefox } anima a su entusiasta comunidad de desarrolladores a crear <a { $attrs }> complementos y extensiones </a> para el navegador. Y dado que nuestra plataforma es de código abierto, hay una amplia selección que agrega una gran cantidad de funcionalidades.
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
-compare-safari-also-when-you-sign-up-for-updated = Además, cuando te registras para una cuenta de { -brand-name-firefox }, obtienes acceso a servicios únicos como <a { $pocket }{ -brand-name-pocket }</a> que se integran directamente en el navegador. El botón { -brand-name-pocket } para { -brand-name-firefox } te permite guardar páginas web y videos en { -brand-name-pocket } con un solo clic, para que puedas leer una versión limpia y sin distracciones donde y cuando quieras, incluso sin conexión.
+compare-safari-also-when-you-sign-up-for-updated = Además, cuando te registras para una cuenta de { -brand-name-firefox }, obtienes acceso a servicios únicos como <a { $pocket }>{ -brand-name-pocket }</a> que se integran directamente en el navegador. El botón { -brand-name-pocket } para { -brand-name-firefox } te permite guardar páginas web y videos en { -brand-name-pocket } con un solo clic, para que puedas leer una versión limpia y sin distracciones donde y cuando quieras, incluso sin conexión.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
