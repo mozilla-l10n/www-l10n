@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
@@ -30,7 +30,7 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } te brinda la posibilidad de
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Conecta hasta { $devices } dispositivos
-vpn-linux-devices-copy = Con una suscripción, puedes tener { -brand-name-mozilla-vpn } en hasta { $device } dispositivos diferentes en todos los sistemas operativos, incluyendo { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } e { -brand-name-ios } para { -brand-name-iphone } e { -brand-name-ipad }.
+vpn-linux-devices-copy = Con una suscripción, puedes tener { -brand-name-mozilla-vpn } en hasta { $devices } dispositivos diferentes en todos los sistemas operativos, incluyendo { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } e { -brand-name-ios } para { -brand-name-iphone } e { -brand-name-ipad }.
 vpn-linux-speed-headline = Ultrarrápido con datos ilimitados
 vpn-linux-speed-copy = Juega, reproduce películas y series, y navega por la web a velocidades ultrarrápidas y sin limitaciones de ancho de banda — { -brand-name-mozilla-vpn } es ilimitado.
 vpn-linux-log-headline = Tus datos te pertenecen

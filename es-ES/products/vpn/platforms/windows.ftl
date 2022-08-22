@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
@@ -23,11 +23,11 @@ vpn-windows-servers-headline = Accede a servidores en todo el mundo
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
-vpn-windows-servers-copy = Con más de { $server } servidores en más de { $country } países, puedes hacer lo que necesites en línea (navegar, comprar, leer las noticias) configurando la ubicación de tu dispositivo a casi cualquier lugar del mundo.
+vpn-windows-servers-copy = Con más de { $servers } servidores en más de { $countries } países, puedes hacer lo que necesites en línea (navegar, comprar, leer las noticias) configurando la ubicación de tu dispositivo a casi cualquier lugar del mundo.
 vpn-windows-devices-headline = Una suscripción para todos tus dispositivos
 # Variables:
 #   $devices (number) - number of available devices
-vpn-windows-devices-copy = Una suscripción de { -brand-name-mozilla-vpn } te da acceso ilimitado a nuestro servicio seguro de VPN en hasta { $device } dispositivos para { -brand-name-windows } (incluyendo { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } y { -brand-name-ios }.
+vpn-windows-devices-copy = Una suscripción de { -brand-name-mozilla-vpn } te da acceso ilimitado a nuestro servicio seguro de VPN en hasta { $devices } dispositivos para { -brand-name-windows } (incluyendo { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } y { -brand-name-ios }.
 vpn-windows-speed-headline = Sin restricciones de ancho de banda
 vpn-windows-speed-copy = Transmite, juega, compra y explora la web a alta velocidad. Con datos ilimitados y sin restricciones de ancho de banda, { -brand-name-mozilla-vpn } no se interpone en su camino.
 vpn-windows-log-headline = Tu privacidad es nuestra prioridad

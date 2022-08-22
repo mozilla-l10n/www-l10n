@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -46,7 +46,7 @@ misinformation-surface-content-heading = { -brand-name-firefox } te ayuda a most
 #   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
 #   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
 #   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Cuando abres una nueva pestaña en tu navegador { -brand-name-firefox }, verás artículos <a href="{ $recommended }">recomendados por { -brand-name-pocket }</a>. { -brand-name-pocket } no utiliza ningún dato personal para hacer recomendaciones. En su lugar, los artículos son seleccionados por personas reales que utilizan la aplicación. La habilidad de descubrir nuevas historias, puntos de vista y opiniones es una forma de combatir la difusión de información errónea. Para obtener más recomendaciones, suscríbete al <a href="{ $pocket_hit }">boletín de { -brand-name-pocket }</a> y descarga <a href="{ $pocket }">{ -brand-name-pocket }</a>.
+misinformation-surface-content-desc = Cuando abres una nueva pestaña en tu navegador { -brand-name-firefox }, verás artículos <a href="{ $recommended }">recomendados por { -brand-name-pocket }</a>. { -brand-name-pocket } no utiliza ningún dato personal para hacer recomendaciones. En su lugar, los artículos son seleccionados por personas reales que utilizan la aplicación. La habilidad de descubrir nuevas historias, puntos de vista y opiniones es una forma de combatir la difusión de información errónea. Para obtener más recomendaciones, suscríbete al <a href="{ $pocket_hits }">boletín de { -brand-name-pocket }</a> y descarga <a href="{ $pocket }">{ -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = ¿Por qué confiar en { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
