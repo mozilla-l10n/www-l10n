@@ -5,8 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/
 
-home-mr2-promo-title = Revegna a bunas ideas – e quai pli svelt
-
-## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
-
+home-mr2-promo-title = Turna tar bunas ideas – e quai pli svelt
+# CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 home-mr2-promo-cta = Va per il nov { -brand-name-firefox }
