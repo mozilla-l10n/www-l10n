@@ -55,11 +55,11 @@ vpn-what-is-vpns-can-be = Las VPN pueden usarse para proteger todos tus disposit
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rápida, segura, confiable
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn } es un servicio en el que puedes confiar para mantener tu conexión a Internet segura en todos tus dispositivos. No guardamos registros de datos del usuario, y no nos asociamos con plataformas de análisis de terceros que quieran crear un perfil de lo que haces en línea. En un mundo donde la imprevisibilidad se ha convertido en la "nueva normalidad", sabemos que es más importante que nunca para ti sentirse seguro, y para ti saber que lo que haces en línea es asunto tuyo.
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio en el que puedes confiar para mantener tu conexión a Internet segura en todos tus dispositivos. No guardamos registros de datos del usuario, y no nos asociamos con plataformas de análisis de terceros que quieran crear un perfil de lo que haces en línea. En un mundo donde la imprevisibilidad se ha convertido en la "nueva normalidad", sabemos que es más importante que nunca para ti sentirse seguro, y para ti saber que lo que haces en línea es asunto tuyo.
 # Obsolete string
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn } es un servicio en el que puedes confiar para mantener tu conexión a Internet segura en todos tus dispositivos. No guardamos tus registros de actividad de red, y no nos asociamos con terceros que construyen perfiles de lo que haces en línea. En un mundo donde la imprevisibilidad se ha convertido en la nueva normalidad…
+vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio en el que puedes confiar para mantener tu conexión a Internet segura en todos tus dispositivos. No guardamos tus registros de actividad de red, y no nos asociamos con terceros que construyen perfiles de lo que haces en línea. En un mundo donde la imprevisibilidad se ha convertido en la nueva normalidad…
 # Obsolete string
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/

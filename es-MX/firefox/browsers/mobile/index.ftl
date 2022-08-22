@@ -34,7 +34,7 @@ browsers-mobile-join-firefox-and-get-the-most = Únete a { -brand-name-firefox }
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = ¿Ya tienes una cuenta? <a { $fxa_attr }Inicia sesión</a> o <a { $accounts_attr }>descubre</a> cómo unirte a { -brand-name-firefox }.
+browsers-mobile-already-have-an-account-sign = ¿Ya tienes una cuenta? <a { $fxa_attr }>Inicia sesión</a> o <a { $accounts_attr }>descubre</a> cómo unirte a { -brand-name-firefox }.
 browsers-mobile-download = Descargar
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
