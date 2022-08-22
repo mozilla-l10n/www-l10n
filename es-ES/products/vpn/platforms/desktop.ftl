@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
@@ -12,7 +12,7 @@ vpn-desktop-page-description = Obtén seguridad rápida y sencilla en tu ordenad
 vpn-desktop-hero-headline = Asegura tu conexión a internet con { -brand-name-mozilla-vpn } para escritorio
 # Variables:
 #   $devices (number) - number of available devices
-vpn-desktop-ability = { -brand-name-mozilla-vpn } te brinda la posibilidad de conectarte con confianza y mantener tu información a salvo de miradas indiscretas y ladrones de datos cuando estés en línea. { -brand-name-mozilla-vpn } usa el protocolo { -brand-name-wireguard }® avanzado para cifrar los datos personales en tu portátil u ordenador de escritorio — para hasta { $device } dispositivos. Reproduce videos, juega, compra y desarrolla tu vida diaria en línea sabiendo que tienes la mejor seguridad.
+vpn-desktop-ability = { -brand-name-mozilla-vpn } te brinda la posibilidad de conectarte con confianza y mantener tu información a salvo de miradas indiscretas y ladrones de datos cuando estés en línea. { -brand-name-mozilla-vpn } usa el protocolo { -brand-name-wireguard }® avanzado para cifrar los datos personales en tu portátil u ordenador de escritorio — para hasta { $devices } dispositivos. Reproduce videos, juega, compra y desarrolla tu vida diaria en línea sabiendo que tienes la mejor seguridad.
 vpn-desktop-maker-of-firefox = Como desarrollador del navegador web { -brand-name-firefox } y uno de los luchadores de mayor confianza por la privacidad de Internet, { -brand-name-mozilla } tienes un profundo compromiso con tu privacidad y seguridad cada vez que te conectas.
 vpn-desktop-wifi-headline = Siéntete seguro usando wifi público
 vpn-desktop-wifi-copy = Nuestra VPN protege tu conexión a Internet de hackers y espías, por lo que puedes comprar desde la cafetería, consultar tu cuenta bancaria desde el tren y realizar negocios en línea en cualquier lugar sin preocupaciones de seguridad.

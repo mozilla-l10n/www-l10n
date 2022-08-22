@@ -10,7 +10,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protege todo tu dispositiv
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-page-desc = Utiliza { -brand-name-mozilla-vpn } para tener una protección completa en el dispositivo, para todas las apps. Con servidores en más de { $country } países, puedes conectarte a cualquier lugar, desde cualquier lugar.
+vpn-landing-page-desc = Utiliza { -brand-name-mozilla-vpn } para tener una protección completa en el dispositivo, para todas las apps. Con servidores en más de { $countries } países, puedes conectarte a cualquier lugar, desde cualquier lugar.
 vpn-landing-hero-sub-heading-v2 = Seguridad, fiabilidad y velocidad — en cada dispositivo, dondequiera que vayas.
 # Obsolete string
 vpn-landing-hero-sub-heading = Seguridad con la que puedes contar. Un nombre en el que puedes confiar.
@@ -103,15 +103,10 @@ vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (versión 6 o superior)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versión 6 o superior)
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 o superior)
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 o superior)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 o superior)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 o superior)
