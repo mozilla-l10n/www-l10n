@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -25,7 +25,7 @@ how-do-i = ¿Cómo puedo conseguir { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
-you-can-easily = Puedes descargar fácilmente el navegador de escritorio { -brand-name-firefox } <a href="{ $url }">aquí.</a> { -brand-name-firefox } Funciona en dispositivos<a href="{ $url2 }"{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> y <a "{ $url4 }"> { -brand-name-linux }</a>, y también está disponible para <a href="{ $url5 }">{ -brand-name-android } y { -brand-name-ios }.</a> Asegúrate de que estás descargando nuestro navegador desde una de nuestras páginas de confianza de { -brand-name-mozilla }/{ -brand-name-firefox }.
+you-can-easily = Puedes descargar fácilmente el navegador de escritorio { -brand-name-firefox } <a href="{ $url }">aquí.</a> { -brand-name-firefox } Funciona en dispositivos<a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> y <a href="{ $url4 }"> { -brand-name-linux }</a>, y también está disponible para <a href="{ $url5 }">{ -brand-name-android } y { -brand-name-ios }.</a> Asegúrate de que estás descargando nuestro navegador desde una de nuestras páginas de confianza de { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = ¿Es { -brand-name-firefox } gratuito?
 yep-the-firefox = ¡Sí! { -brand-name-firefox-browser } es gratuito. Súper gratuito, en realidad. No hay costes ocultos ni nada. No pagas nada por usarlo, y no vendemos tus datos personales.
 related-questions-free = Preguntas relacionadas: ¿Es { -brand-name-firefox-browser } gratuito, { -brand-name-firefox } cuesta dinero?
