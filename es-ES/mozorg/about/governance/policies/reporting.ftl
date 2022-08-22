@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/governance/policies/participation/reporting/
@@ -15,7 +15,7 @@ reporting-when-to-report = Cuándo denunciar
 reporting-please-report-all-incidents = Por favor, denuncia todos los incidentes en los que alguien muestre un comportamiento potencialmente ilegal o que cause que tú u otra persona os sintáis en peligro, indeseados o incómodos, <a href="{ $cpg }"> como se describe más adelante en las pautas para la participación en la comunidad</a>.
 reporting-how-to-give-a-report = Cómo presentar una denuncia
 reporting-if-you-believe-someone = Si crees que alguien está en peligro físicamente, llama al teléfono de emergencias de tu país.
-reporting-if-you-have-a-report-by = Si se trata de una denuncia realizada <strong>por <em>y</em> sobre</strong> un colaborador (por ejemplo, cuando un colaborador denuncia el comportamiento de otro colaborador ), en ese caso debes hacer la denuncia a través de la <a href="{ $community_hotline }">línea directa para asuntos relacionados con las Pautas para la participación en la comunidad</a>.
+reporting-if-you-have-a-report-by = Si se trata de una denuncia realizada <strong>por <em>y</em> sobre</strong> un colaborador (por ejemplo, cuando un colaborador <strong>denuncia</strong> el comportamiento <strong>de</strong> otro colaborador ), en ese caso debes hacer la denuncia a través de la <a href="{ $community_hotline }">línea directa para asuntos relacionados con las Pautas para la participación en la comunidad</a>.
 reporting-if-you-have-a-report-by-email = Si tienes una denuncia <strong>de <em>y</em> acerca de</strong> un colaborador (por ejemplo, la denuncia es <strong>de</strong> un colaborador <strong>acerca de</strong> otro colaborador), entonces deberías hacer tu denuncia en <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
 reporting-if-you-have-a-report-involving = Si se trata de una denuncia <strong>que involucra a un empleado, contratista o proveedor</strong> (por ejemplo, cuando la denuncia la presenta un empleado o involucra a un empleado), en ese caso debes informarnos a través de la <a href="{ $employee_hotline }">línea directa para empleados de { -brand-name-mozilla }</a>.
 reporting-put-another-way = Dicho de otra manera:
