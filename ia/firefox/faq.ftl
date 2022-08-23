@@ -81,4 +81,4 @@ who-owns-firefox = Qui es proprietario de { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } es producite per { -brand-name-mozilla-corporation }, un succursal integremente proprietari del organisation non lucrative <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> e es guidate per le principios del Manifesto de { -brand-name-mozilla }. Saper plus del productor de { -brand-name-firefox } <a href="{ $url2 }">hic.</a>
-related-questions-who = Questiones correlate: qui possede { -brand-name-firefox }, qui es proprietario de { -brand-name-firefox-browser }, es { -brand-name-firefox } proprietate de { -brand-name-google }, es { -brand-name-mozilla } { -brand-name-firefox } proprietate de { -brand-name-google }
+related-questions-who = Questiones similar: qui possede { -brand-name-firefox }, qui es proprietario de { -brand-name-firefox-browser }, es { -brand-name-firefox } proprietate de { -brand-name-google }, es { -brand-name-mozilla } { -brand-name-firefox } proprietate de { -brand-name-google }

@@ -17,4 +17,4 @@ vpn-resource-center-get-mozilla-vpn = Installar { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = Ha essite iste articulo utile?
 vpn-resource-center-article-helpful = Articulo utile
 vpn-resource-center-article-not-helpful = Articulo non utile
-vpn-resource-center-related-posts = Messages correlate
+vpn-resource-center-related-posts = Articulos associate
