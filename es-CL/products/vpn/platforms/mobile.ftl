@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
@@ -13,7 +13,7 @@ vpn-mobile-hero-headline = Protege tu privacidad en tu móvil con { -brand-name-
 vpn-mobile-maker-of-firefox = Asegúrate de que la conexión a Internet de tu teléfono sea privada, sin importar a dónde te lleve tu día con { -brand-name-mozilla-vpn }, una herramienta de privacidad esencial de los creadores de { -brand-name-firefox }.
 # Variables:
 #   $devices (number) - number of available devices
-vpn-mobile-ability = { -brand-name-mozilla-vpn } previene a hackers y espías de ver tu dirección IP y oculta tu ubicación en línea. Con cifrado avanzado y sin restricciones de ancho de banda, hace que reproducir videos y navegar en tu teléfono inteligente o tablet sea ultra rápido y fiable. Por una pequeña tarifa mensual, puedes proteger hasta { $device } dispositivos y conectarte a docenas de servidores en todo el mundo.
+vpn-mobile-ability = { -brand-name-mozilla-vpn } previene a hackers y espías de ver tu dirección IP y oculta tu ubicación en línea. Con cifrado avanzado y sin restricciones de ancho de banda, hace que reproducir videos y navegar en tu teléfono inteligente o tablet sea ultra rápido y fiable. Por una pequeña tarifa mensual, puedes proteger hasta { $devices } dispositivos y conectarte a docenas de servidores en todo el mundo.
 vpn-mobile-wifi-headline = Siente seguridad al usar wifi público
 vpn-mobile-wifi-copy = Nuestro VPN protege tu conexión a Internet de hackers y espías, por lo que puedes comprar desde la cafetería, consultar tu cuenta bancaria desde el tren y realizar negocios en línea sabiendo que tu dirección IP está protegida.
 vpn-mobile-about-headline = Acerca de { -brand-name-mozilla }
