@@ -23,8 +23,16 @@
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla =
     { $ending ->
-       *[normal] Mozilla
-        [accented] Mozillá
+       *[normal]
+            { $case ->
+               *[upper] Mozilla
+                [lower] mozilla
+            }
+        [accented]
+            { $case ->
+               *[upper] Mozillá
+                [lower] mozillá
+            }
     }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
