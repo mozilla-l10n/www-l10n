@@ -29,7 +29,7 @@ vpn-shared-features-activity-logs = Sin registros de actividad en línea ahora y
 vpn-shared-features-access-countries = Accede a servidores en más de { $countries } países
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Opción de conectar hasta { $device } dispositivos
+vpn-shared-features-devices = Opción de conectar hasta { $devices } dispositivos
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Protección para hasta { $devices } dispositivos

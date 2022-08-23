@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
@@ -19,7 +19,7 @@ vpn-what-is-a-vpn-will = Un VPN protegerá el tráfico que envías entre tú y t
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
-vpn-what-is-a-vpn-provider = Un proveedor de VPN suele ofrecer una serie de puertas de conexión en diferentes ubicaciones en el planeta, lo que te permite usar una dirección IP de una ubicación diferente a la tuya. De esa manera, el lugar al que te estás conectando ve la IP del VPN, no tu dirección IP real, como el origen de tu tráfico. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> dirige tu tráfico a través de un servidor seguro y te permite elegir una ubicación de entre más de { $country } países.
+vpn-what-is-a-vpn-provider = Un proveedor de VPN suele ofrecer una serie de puertas de conexión en diferentes ubicaciones en el planeta, lo que te permite usar una dirección IP de una ubicación diferente a la tuya. De esa manera, el lugar al que te estás conectando ve la IP del VPN, no tu dirección IP real, como el origen de tu tráfico. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> dirige tu tráfico a través de un servidor seguro y te permite elegir una ubicación de entre más de { $countries } países.
 vpn-what-is-when-should-i = ¿Cuándo debería usar un VPN?
 vpn-what-is-connecting-to-a = Conectarse a una red WiFi pública es a veces conveniente, como cuando no tienes un servicio de internet o no captas ninguna barra de señal en tu teléfono. Por otro lado, conectarse a una red WiFi pública puede ser una tarea arriesgada. Es imposible estar seguro de que alguien más no se está conectando a la misma red para husmear lo que estás haciendo. Incluso si tu tráfico está cifrado, todavía pueden ver los sitios que estás visitando. Y si estás usando una aplicación que no tiene cifrado — que incluso hoy muchas no lo tienen — entonces pueden ver todo lo que estás haciendo.
 vpn-what-is-when-youre-at = Cuando estás en casa, el riesgo de que aparezcan malandras en tu red doméstica es menor. Sin embargo, tu Proveedor de Servicios de Internet (ISP) puede rastrear y compartir tus actividades en línea porque todos los datos a los que accedes en la web se enrutan a través de la red de tu ISP, algunos de los cuales pueden no estar cifrados. Un VPN puede evitar que los ISP te espíen al cifrar el tráfico a tu proveedor de VPN sin importar dónde te encuentres.

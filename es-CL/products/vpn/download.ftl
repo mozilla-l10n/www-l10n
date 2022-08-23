@@ -9,7 +9,7 @@ vpn-download-page-title = Bajar { -brand-name-mozilla-vpn }
 vpn-download-page-description = Bajar { -brand-name-mozilla-vpn } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-download-sub-heading = Puedes bajar { -brand-name-mozilla-vpn } en hasta { $dispositivos } dispositivos con una sola suscripción.
+vpn-download-sub-heading = Puedes bajar { -brand-name-mozilla-vpn } en hasta { $devices } dispositivos con una sola suscripción.
 vpn-download-not-available-in-country = Lo sentimos, { -brand-name-mozilla-vpn } no está disponible para descargar en tu país.
 vpn-download-button-copy = Bajar
 vpn-download-for-windows = VPN para { -brand-name-windows } 10/11
