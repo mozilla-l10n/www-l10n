@@ -31,12 +31,12 @@ footer-pocket = { -brand-name-pocket }
 # Outdated string
 footer-join = ਹਿੱਸਾ ਲਵੋ
 # Outdated string
-footer-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ
+footer-sign-up = ਸਾਈਨ ਅੱਪ
 # Outdated string
 footer-sign-in = ਸਾਈਨ ਇਨ
 # Outdated string
 footer-benefits = ਫਾਇਦੇ
-footer-developers = ਵਿਕਾਸਕਾਰ
+footer-developers = ਡਿਵੈਲਪਰ
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
@@ -49,9 +49,9 @@ footer-company = ਕੰਪਨੀ
 # Outdated string
 footer-about = ਇਸ ਬਾਰੇ
 footer-press-center = ਪਰੈੱਸ ਸੈਂਟਰ
-footer-careers = ਰੁਜ਼ਗਾਰ
+footer-careers = ਕੈਰੀਅਰ
 # Outdated string
-footer-test-new-features = ਨਵੇਂ ਫ਼ੀਚਰਾਂ ਦੀ ਜਾਂਚ ਕਰੋ
+footer-test-new-features = ਨਵੇਂ ਫ਼ੀਚਰ ਟੈਸਟ ਕਰੋ
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = ਸਾਧਨ
