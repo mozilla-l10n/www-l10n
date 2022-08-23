@@ -21,7 +21,7 @@ vpn-landing-fast-secure-heading = Red rápida y segura
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } funciona sobre una red mundial de servidores. Usando el protocolo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®/a> más avanzado, ciframos tu actividad de red y ocultamos tu dirección IP. Nunca registramos, rastreamos ni compartimos tus datos de red.
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } funciona sobre una red mundial de servidores. Usando el protocolo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> más avanzado, ciframos tu actividad de red y ocultamos tu dirección IP. Nunca registramos, rastreamos ni compartimos tus datos de red.
 # Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
