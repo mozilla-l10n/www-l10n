@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -28,7 +28,7 @@ how-do-i = Como pote io obtener le { -brand-name-firefox-browser }?
 you-can-easily = Tu pote facilemente discargar le navigator { -brand-name-firefox } pro computatores <a href=""{ $url }"">hic.</a> { -brand-name-firefox } functiona sur apparatos <a href=""{ $url2 }"">{ -brand-name-windows },</a> <a href=""{ $url3 }"">{ -brand-name-mac-short }</a> e <a href=""{ $url4 }"">{ -brand-name-linux }</a>, e es equalmente disponibile pro <a href=""{ $url5 }"">{ -brand-name-android } e { -brand-name-ios }.</a> Verifica que tu discarga nostre navigator a partir de un de nostre paginas { -brand-name-mozilla }/{ -brand-name-firefox } digne de fide.
 is-firefox-free = Es { -brand-name-firefox } gratuite?
 yep-the-firefox = Si! { -brand-name-firefox-browser } es gratuite. Super gratuite, realmente. Nulle costos o alco celate. Tu non paga alco pro usar lo e nos non vende tu datos personal.
-related-questions-free = Demandas correlate: es { -brand-name-firefox-browser } gratis, { -brand-name-firefox } se paga?
+related-questions-free = Questiones similar: { -brand-name-firefox-browser } es gratuite? { -brand-name-firefox } costa moneta?
 is-chrome-better = Es { -brand-name-chrome } melior de { -brand-name-firefox }?
 no-we-dont = No, nos non pensa que { -brand-name-chrome } es melior que { -brand-name-firefox }, ecce proque: quando personas demanda qual navigator es melior, illes vermente demanda qual navigator es le plus rapide e secur. { -brand-name-firefox } es actualisate cata mense pro assecurar que tu ha le navigator le plus rapide que respecta automaticamente tu vita private.
 
@@ -49,7 +49,7 @@ is-firefox-safe = Es { -brand-name-firefox } secur?
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
 not-only-is = { -brand-name-firefox } non solmente es secur de usar, illo etiam te adjuta a mantener secur tu datos e informationes private. Le { -brand-name-firefox-browser } impedi automaticamente que le traciatores de tertios, traciatores de retes social, cryptominatores e dactylogrammatores collige tu datos. <a href=""{ $url }"">Saper plus sur le confidentialitate in nostre productos.</a>"
-related-questions-safe = Questiones similar: es { -brand-name-firefox } bon pro le vita private, es { -brand-name-firefox } secur, es { -brand-name-firefox } melior pro le vita private
+related-questions-safe = Questiones similar: { -brand-name-firefox } es bon pro le vita private? { -brand-name-firefox } es secur? { -brand-name-firefox } es melior pro le vita private?
 does-firefox-sell = An { -brand-name-firefox } vende tu datos personal?
 
 # Variables:
@@ -73,7 +73,7 @@ does-firefox-have = An { -brand-name-firefox } ha un VPN integrate?
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 firefox-does-not = "{ -brand-name-firefox } non ha un VPN (rete virtual private) integrate, ma il ha duo productos producite per { -brand-name-mozilla }/{ -brand-name-firefox } que tu pote usar ultra al private { -brand-name-firefox-browser } que pote proteger sia tu navigator (<a href=""{ $url }"">{ -brand-name-firefox-private-network }</a>) sia le connexion wifi (<a href=""{ $url2 }"">{ -brand-name-mozilla-vpn }</a>) de tu apparato, e tu adresse IP."
-related-questions-ip = Demandas correlate: Occulta { -brand-name-firefox } tu adresse IP
+related-questions-ip = Questiones similar: { -brand-name-firefox } cela tu adresse IP?
 who-owns-firefox = Qui es proprietario de { -brand-name-firefox }?
 
 # Variables:
