@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
@@ -29,7 +29,7 @@ vpn-ios-servers-copy = Compra desde Suiza. Transmite desde Canadá. Navega desde
 vpn-ios-devices-headline = Obtén acceso para { $devices } dispositivos
 # Variables:
 #   $devices (number) - number of available devices
-vpn-ios-devices-copy = Con una suscripción, puedes tener { -brand-name-mozilla-vpn } en { $device } dispositivos diferentes, incluyendo { -brand-name-ios } para { -brand-name-iphone } y { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } y { -brand-name-linux }.
+vpn-ios-devices-copy = Con una suscripción, puedes tener { -brand-name-mozilla-vpn } en { $devices } dispositivos diferentes, incluyendo { -brand-name-ios } para { -brand-name-iphone } y { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } y { -brand-name-linux }.
 vpn-ios-speed-headline = Velocidades máximas. Datos ilimitados.
 vpn-ios-speed-copy = Juega en línea, reproduce tus series favoritas y navega por la web a velocidades ultra rápidas. No te preocupes del ancho de banda con { -brand-name-mozilla-vpn } — es ilimitado.
 vpn-ios-log-headline = Tus datos se mantienen privados. Punto.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
@@ -26,11 +26,11 @@ vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } es muy fácil de usar. Toca
 vpn-linux-servers-headline = Conéctate a más de { $servers }  servidores en { $countries } diferentes países
 # Variables:
 #   $countries (number) - number of available countries
-vpn-linux-servers-copy = { -brand-name-mozilla-vpn } te da la capacidad de establecer la ubicación de tu computadora basado en { -brand-name-linux } en uno de los más de { $country } países, abriéndote a emocionantes contenidos nuevos de todo el mundo.
+vpn-linux-servers-copy = { -brand-name-mozilla-vpn } te da la capacidad de establecer la ubicación de tu computadora basado en { -brand-name-linux } en uno de los más de { $countries } países, abriéndote a emocionantes contenidos nuevos de todo el mundo.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Conecta hasta { $devices } dispositivos
-vpn-linux-devices-copy = Con una suscripción, puedes tener { -brand-name-mozilla-vpn } en hasta { $device } dispositivos diferentes en todos los sistemas operativos, incluyendo { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } y { -brand-name-ios } para { -brand-name-iphone } y { -brand-name-ipad }.
+vpn-linux-devices-copy = Con una suscripción, puedes tener { -brand-name-mozilla-vpn } en hasta { $devices } dispositivos diferentes en todos los sistemas operativos, incluyendo { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } y { -brand-name-ios } para { -brand-name-iphone } y { -brand-name-ipad }.
 vpn-linux-speed-headline = Ultra rápido con datos ilimitados
 vpn-linux-speed-copy = Juega, reproduce películas y programas, y navega por la web a velocidades ultra rápidas y sin limitaciones de ancho de banda — { -brand-name-mozilla-vpn } es ilimitado.
 vpn-linux-log-headline = Tus datos te pertenecen

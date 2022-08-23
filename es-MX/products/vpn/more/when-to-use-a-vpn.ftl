@@ -38,7 +38,7 @@ vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, un servicio VPN con
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
-vpn-when-to-use-the-most-important = Lo más importante a considerar al escoger una VPN es elegir una empresa confiable. Asegúrate de comprender los términos que estás aceptando. Muchos afirman ser excelentes y centrados en la privacidad, pero un gran número de ellos no cumplen su promesa. No todos los servicios de proxy y VPN son seguros y privados. Algunos <a href="{ $pcmag }">registrarán</a> <a href="{ $pcmag }">sí o sí</a> tus actividades en línea para poder vender tus datos e información a las propias empresas de marketing. Otros servicios intentarán convencerte de que instales malware en tus dispositivos.
+vpn-when-to-use-the-most-important = Lo más importante a considerar al escoger una VPN es elegir una empresa confiable. Asegúrate de comprender los términos que estás aceptando. Muchos afirman ser excelentes y centrados en la privacidad, pero un gran número de ellos no cumplen su promesa. No todos los servicios de proxy y VPN son seguros y privados. Algunos <a href="{ $cnet }">registrarán</a> <a href="{ $pcmag }">sí o sí</a> tus actividades en línea para poder vender tus datos e información a las propias empresas de marketing. Otros servicios intentarán convencerte de que instales malware en tus dispositivos.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
