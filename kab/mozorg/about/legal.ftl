@@ -27,3 +27,5 @@ legal-firefox-relay-terms = Tiwtilin n useqdec { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = Tiwtilin n useqdec { -brand-name-mozilla-vpn }
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Tiwtilin n useqdec { -brand-name-mdn-plus }
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = Tiwtilin n useqqqdec n { -brand-name-mozilla-hubs }
