@@ -20,3 +20,4 @@ firefox-sync-open-the-menu = Адкрыйце меню ў правым верх
 firefox-sync-click-get-started = Націсніце “<strong>Пачаць</strong>” у адкрытай картцы.
 firefox-sync-enter-an-email = Увядзіце адрас электроннай пошты і пароль, каб <strong>“Стварыць { -brand-name-firefox-account }”.</strong>
 firefox-sync-click-next-to = Націсніце <strong>“Далей”</strong>, каб атрымаць пацвярджэнне на сваю электронную пошту.
+firefox-sync-after-you-check = Пасля таго, як вы праверыце сваю электронную пошту і пяройдзеце па спасылцы для пацвярджэння, { -brand-name-firefox } пачне аўтаматычна сінхранізавацца ў фонавым рэжыме.
