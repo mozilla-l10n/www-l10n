@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefoxi veebilehitseja: kasuta vähem mälu, sirvi suuremal kiirusel
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: kasuta vähem mälu, sirvi suuremal kiirusel
 # HTML page description
 features-memory-is-your-computer-slow-your = Kas su arvuti on aeglane? Ehk kasutab su brauser liiga palju mälu? Kasuta suurema kiiruse saavutamiseks { -brand-name-firefox }i.
 features-memory-less-memory-usage-than-chrome = { -brand-name-chrome }'ist väiksem mälukasutus

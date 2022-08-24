@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefoxi veebilehitseja: paremad järjehoidjad kõikjal, kuhu lähed
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: paremad järjehoidjad kõikjal, kuhu lähed
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Jaga järjehoidjad hõlpsalt kaustadesse ning kasuta neid kõigis enda seadmetes, alates töölaualt kuni telefonini.
 features-bookmarks-better-bookmarks = Paremad järjehoidjad

@@ -1,22 +1,24 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-facebook }i konteiner { -brand-name-firefox }ile | Ära näita { -brand-name-facebook }ile, milliseid veebilehti külastad.
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } { -brand-name-firefox }ile | Ära näita { -brand-name-facebook }ile, milliseid veebilehti külastad.
 facebook-container-millions-of-people-around = Miljonid inimesed üle maailma usaldavad { -brand-name-firefox }i brauserit { -brand-name-android }il, { -brand-name-ios }-il ja töölaual. Kiire. Privaatne. Laadi kohe alla!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Hästi eraldatud. Hoia ülejäänud elu endale.
-facebook-container-get-the-facebook-container = Hangi Facebooki konteineri lisa
-facebook-container-download-firefox-and-get-the = Laadi { -brand-name-firefox } alla ning paigalda Facebooki konteineri lisa
-facebook-container-the-facebook-container-extension = Facebooki konteineri lisa pole mobiilsetele seadmetele saadaval.
+facebook-container-get-the-facebook-container = Hangi { -brand-name-facebook-container } lisa
+facebook-container-download-firefox-and-get-the = Laadi { -brand-name-firefox } alla ning paigalda { -brand-name-facebook-container } lisa
+# Outdated string
+facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } lisa pole mobiilsetele seadmetele saadaval.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Proovi <strong>{ -brand-name-firefox-focus }</strong>'t, privaatsusele keskenduvat veebilehitsejat { -brand-name-android }ile ja { -brand-name-ios }-ile.
 facebook-container-opt-out-on-your-terms = Loobu enda äranägemise järgi
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } suudab jälgida peaaegu kogu su tegevust veebis ning siduda selle sinu { -brand-name-facebook }i identiteediga. Kui see sulle ei sobi, siis <a href="{ $fbcontainer }">{ -brand-name-facebook }i konteineri lisa</a> eraldab sinu identiteedi eraldi konteinerkaardile, tehes { -brand-name-facebook }ile sinu jälitamise väljaspool { -brand-name-facebook }i raskemaks.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } suudab jälgida peaaegu kogu su tegevust veebis ning siduda selle sinu { -brand-name-facebook }i identiteediga. Kui see sulle ei sobi, siis <a href="{ $fbcontainer }">{ -brand-name-facebook-container } lisa</a> eraldab sinu identiteedi eraldi konteinerkaardile, tehes { -brand-name-facebook }ile sinu jälitamise väljaspool { -brand-name-facebook }i raskemaks.
 facebook-container-install-and-contain = Paigalda ja eralda
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

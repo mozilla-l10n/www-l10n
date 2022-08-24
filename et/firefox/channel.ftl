@@ -23,7 +23,7 @@ firefox-channel-all-languages-and-platforms = Kõik keeled ja platvormid
 firefox-channel-all-languages-and-builds = Kõik keeled ja versioonid
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = Beeta on ebastabiilne testimis- ja arendusplatvorm. Vaikimisi saadab beeta teavet { -brand-name-mozilla }le — ja vahel ka meie partneritele — aitamaks meil probleeme hallata ja ideid järele proovida. <a href="{ $link }">Rohkem teavet jagatavast</a>.
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } on ebastabiilne testimis- ja arendusplatvorm. Vaikimisi saadab { -brand-name-beta } teavet { -brand-name-mozilla }le — ja vahel ka meie partneritele — aitamaks meil probleeme hallata ja ideid järele proovida. <a href="{ $link }">Rohkem teavet jagatavast</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } saadab { -brand-name-mozilla }le automaatselt tagasisidet.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback

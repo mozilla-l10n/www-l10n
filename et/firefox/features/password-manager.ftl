@@ -1,18 +1,19 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefoxi veebilehitseja: kiire ja lihtne paroolihaldur
+password-manager-firefox-browser = { -brand-name-firefox-browser }: kiire ja lihtne paroolihaldur
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox }i paroolihaldur salvestab kõik su paroolid ühte kohta, nii saad automaatselt saitidele sisse logida või ligipääsu salvestatud salasõnadele.
 # Hero title
 password-manager-password-manager = Paroolihalduriga saavutad rohkem
 password-manager-give-up-the-memory = { -brand-name-firefox }i paroolihalduriga ei pea sa oma mälule lootma.
 password-manager-password-hero = Paroolikangelane
+# Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Unusta paroolide lähtestamine. { -brand-name-firefox }i paroolihaldur säilitab kõik su paroolid, nii et saad automaatselt sisse logida või salvestatud paroole kergesti leida. Paremaks turvalisuseks seadista <a href="{ $url }">ülemparool</a>.
