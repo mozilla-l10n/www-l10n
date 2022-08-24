@@ -11,3 +11,5 @@ vpn-download-button-copy = Sader
 vpn-download-for-windows = VPN i { -brand-name-windows } 10/11
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit kan)
 vpn-download-for-mac = VPN i { -brand-name-mac-short }
+vpn-download-for-android = VPN i { -brand-name-android }
+vpn-download-for-ios = VPN i { -brand-name-ios }
