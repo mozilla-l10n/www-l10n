@@ -20,7 +20,7 @@ password-manager-forget-the-reset = Unusta paroolide lähtestamine. { -brand-nam
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Paroolininja
-password-manager-no-more-try-again = Enam ei pea sa korduvalt uuesti proovima, kui soovid kuhugi jõuda. Logi telefonis Firefoxi kontosse sisse ja su paroolid on alati käepärast. Sisselogimisandmed ilmuvad ise, lihtsalt niisama.
+password-manager-no-more-try-again = Enam ei pea sa korduvalt uuesti proovima, kui soovid kuhugi jõuda. Logi telefonis { -brand-name-firefox-account }e sisse ja su paroolid on alati käepärast. Sisselogimisandmed ilmuvad ise, lihtsalt niisama.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Paroolimeister

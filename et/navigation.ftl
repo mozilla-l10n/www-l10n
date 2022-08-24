@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Laadi { -brand-name-firefox } alla
-navigation-get-a-firefox-account = Firefoxi konto hankimine
+navigation-get-a-firefox-account = { -brand-name-firefox-account } hankimine
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } töölauale
 navigation-get-the-browser-that-respects = Hangi veebilehitseja, mis austab automaatselt sinu privaatsust. { -brand-name-windows }is, { -brand-name-mac }'is või { -brand-name-linux }is.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } nutiseadmele
@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Vaata videoid ja sirvi internetti { -brand-name-amazon } { -brand-name-fire-tv } seadmel.
 navigation-firefox-browsers-put = { -brand-name-firefox }i veebilehitsejad seavad su privaatsuse esikohale — ja on seda alati teinud.
 navigation-take-the-passwords-youve = Võta { -brand-name-firefox }i salvestatud paroolid endaga kõikjale kaasa.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox }i tooteperekond on loodud sind internetis turvalisemalt ja targemalt hoidma.
 navigation-join-firefox = Liitu { -brand-name-firefox }iga
 navigation-access-all-of-firefox = Kasuta kogu { -brand-name-firefox }i ühe sisselogimisega — ning saa sealjuures igast tootest rohkem kasu.
@@ -34,12 +35,17 @@ navigation-take-firefox-and-firefox = Võta { -brand-name-firefox } ja { -brand-
 navigation-get-firefox = { -brand-name-firefox }i hankimine
 navigation-get-firefox-focus = { -brand-name-firefox-focus }'e hankimine
 navigation-android-extensions = { -brand-name-android }i laiendused
-navigation-your-firefox-account = Sinu Firefoxi konto
+navigation-your-firefox-account = Sinu { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Võta { -brand-name-firefox }i kasutajakogemusest parim igal seadmel.
+# Outdated string
 navigation-learn-how-to-customize = Vaata, kuidas { -brand-name-firefox }i tööd kohandada.
+# Outdated string
 navigation-experience-augmented = Koge liit- ja virtuaalreaalsust { -brand-name-firefox }iga.
+# Outdated string
 navigation-meet-people-in-experimental = Kohtu inimestega eksperimentaalsetes segareaalsuse jututubades { -brand-name-firefox }is.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } toob { -brand-name-firefox }i liit- ja virtuaalreaalsusse.
 navigation-firefox-built-just-for = { -brand-name-firefox }, mis ehitatud vaid arendajatele.
 navigation-preview-the-latest-build = Proovi meie uusimat { -brand-name-firefox }i väljalaset ja aita meil seda parimaks muuta.
@@ -64,6 +70,7 @@ navigation-security-tips = Turvanipid
 navigation-share-large-files-safely = Jaga suuri faile turvaliselt linkidega, mis aeguvad.
 navigation-save-quality-content = Salvesta kvaliteetsisu, kust soovid. Anna ajule tööd igal pool.
 navigation-sign-up = Registreeru
+# Outdated string
 navigation-connected-and-protected = Ühenduses ja kaitstud
 navigation-join = Liitu
 navigation-close-join-menu = Sulge liitumise menüü
@@ -76,11 +83,14 @@ navigation-meet-the-technology-company = Tutvu tehnoloogiafirmaga, mis eelistab 
 navigation-new-features = Uued võimalused
 navigation-save-content-absorb-knowledge = Salvesta sisu. Haara teadmisi.
 navigation-same-speed-and-safety = Sama kiirus ja turvalisus, mida usaldad, kohandatud ettevõtetele.
+# Outdated string
 navigation-add-ons = Lisad
 navigation-projects = Projektid
 navigation-close-projects-menu = Sulge projektide menüü
 navigation-donate-your-voice-to = Anneta enda hääl ja muuda hääletuvastus igaühele kättesaadavaks.
+# Outdated string
 navigation-web-of-things-iot = Asjade veeb (IoT)
+# Outdated string
 navigation-make-devices-connected = Muuda internetti ühendatud seadmed ohutuks, turvaliseks ja omavahel ühilduvaks.
 navigation-developers = Arendajatele
 navigation-close-developers-menu = Sulge arendajate menüü

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ei müü si
 privacy-faq-wait-so-how-do-you-make-money = Oodake, aga kuidas te siis kasumit teenite?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } ei ole tavapärane organisatsioon. { -brand-name-mozilla } asutati kogukondliku avatud lähtekoodiga projektina aastal 1998 ning tegemist on missioonile keskendunud organisatsiooniga, mis töötab tervema interneti nimel. Valdav osa { -brand-name-mozilla } Corporation’i kasumist tuleb kasutusmaksudest, mis teenitakse { -brand-name-firefox }i otsingupartneritelt ja üleilmsetelt levituslepingutelt. Rohkem teavet meie sissetulekuallikatest leiad meie <a href="{ $link }">majandusaasta aruandest</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } ei ole tavapärane organisatsioon. { -brand-name-mozilla } asutati kogukondliku avatud lähtekoodiga projektina aastal 1998 ning tegemist on missioonile keskendunud organisatsiooniga, mis töötab tervema interneti nimel. Valdav osa { -brand-name-mozilla-corporation }’i kasumist tuleb kasutusmaksudest, mis teenitakse { -brand-name-firefox }i otsingupartneritelt ja üleilmsetelt levituslepingutelt. Rohkem teavet meie sissetulekuallikatest leiad meie <a href="{ $link }">majandusaasta aruandest</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Olgu, need olid vaid esimesed soojendusküsimused. Milliseid andmeid te siis kogute?
 # Variables:
