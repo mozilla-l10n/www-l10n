@@ -32,7 +32,7 @@ firefox-all-the-standard-firefox = Standardne { -brand-name-firefox }i veebilehi
 firefox-all-get-a-sneak-peek-at = Heida pilk uusimatele { -brand-name-firefox }i võimalustele enne nende väljalaskmist.
 firefox-all-test-your-sites-against = Testi enda veebilehti { -brand-name-firefox }i tulevaste võimaluste vastu vaikimisi sisselülitatud võimsate arendusvahenditega.
 firefox-all-count-on-stability-and = Arvesta stabiilsuse ja hea kasutatavusega { -brand-name-firefox }is, mis on loodud ettevõtetele.
-firefox-all-windows-installers-for = Windowsi paigaldajad ettevõtetele lihtsustavad Firefoxi seadistamist, juurutamist ja haldust.
+firefox-all-windows-installers-for = Windowsi paigaldajad ettevõtetele lihtsustavad { -brand-name-firefox-browser } seadistamist, juurutamist ja haldust.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32-bitine paigaldaja vali arvutitele, millel on 32-bitine protsessor, või vanematele või vähemvõimekatele arvutitele. <a href="{ $url }">Kui sa pole kindel</a>, kumba valida, siis soovitame võtta 32-bitise.

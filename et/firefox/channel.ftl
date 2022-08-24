@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -15,8 +15,8 @@ firefox-channel-file-a-bug-now = Sisesta vearaport
 firefox-channel-tips-for-filing-a-bug = Nipid vearaporti lisamiseks
 firefox-channel-try-new-features-in-a-pre = Uute võimaluste proovimine { -brand-name-android }i veebilehitseja eelväljalaskes | { -brand-name-firefox }
 firefox-channel-download-and-test-future = Laadi alla ning proovi tuleviku { -brand-name-firefox }i väljalaskeid töölauale, { -brand-name-android }ile ja { -brand-name-ios }-ile.
-firefox-channel-experience-cutting-edge-android-updated = Koge uusimaid võimalusi veebilehitseja eelväljalaskes { -brand-name-android }ile: kasuta Firefoxi beetat ja { -brand-name-firefox-nightly }'t. Paigalda kohe!
-firefox-channel-experience-cutting-edge-android = Koge uusimaid võimalusi veebilehitseja eelväljalaskes { -brand-name-android }ile: kasuta Firefoxi beetat, { -brand-name-firefox-aurora }'t ja { -brand-name-firefox-nightly }'t. Paigalda kohe!
+firefox-channel-experience-cutting-edge-android-updated = Koge uusimaid võimalusi veebilehitseja eelväljalaskes { -brand-name-android }ile: kasuta { -brand-name-firefox-beta } ja { -brand-name-firefox-nightly }'t. Paigalda kohe!
+firefox-channel-experience-cutting-edge-android = Koge uusimaid võimalusi veebilehitseja eelväljalaskes { -brand-name-android }ile: kasuta { -brand-name-firefox-beta }, { -brand-name-firefox-aurora }'t ja { -brand-name-firefox-nightly }'t. Paigalda kohe!
 firefox-channel-download-and-test-the-latest-android = Laadi alla ning testi uusimaid { -brand-name-firefox }i võimalusi { -brand-name-android }il { -brand-name-aurora }, { -brand-name-beta } ja { -brand-name-nightly } versioonides.
 firefox-channel-try-the-latest-android-features = Proovi uusimaid { -brand-name-android }i võimalusi veel enne, kui need ülejäänud maailmale avaldatakse.
 firefox-channel-all-languages-and-platforms = Kõik keeled ja platvormid
@@ -35,7 +35,7 @@ firefox-channel-nightly-blog = { -brand-name-nightly } blogi
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } on ebastabiilne testimis- ja arendusplatvorm. Vaikimisi saadab { -brand-name-nightly } teavet { -brand-name-mozilla }le — ja vahel ka meie partneritele — aitamaks meil probleeme hallata ja ideid järele proovida. <a href="{ $link }">Rohkem teavet jagatavast</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } saadab { -brand-name-mozilla }le automaatselt tagasisidet.
 firefox-channel-try-new-browser-features = Uute võimaluste proovimine eelväljalasetes | { -brand-name-firefox }
-firefox-channel-experience-cutting-edge-desktop = Koge uusimaid veebilehitseja võimalusi eelväljalasetes: kasuta { -brand-name-firefox-developer-edition }'it, Firefoxi beetat ja { -brand-name-firefox-nightly }'t. Laadi kohe alla!
+firefox-channel-experience-cutting-edge-desktop = Koge uusimaid veebilehitseja võimalusi eelväljalasetes: kasuta { -brand-name-firefox-developer-edition }'it, { -brand-name-firefox-beta } ja { -brand-name-firefox-nightly }'t. Laadi kohe alla!
 firefox-channel-download-and-test-the-latest-desktop = Laadi alla ning testi uusimaid { -brand-name-firefox }i võimalusi töölaual { -brand-name-developer-edition }, { -brand-name-beta } ja { -brand-name-nightly } versioonides.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Testi peagi väljalastavaid võimalusi kõige stabiilsemas eelväljalaskes.
@@ -45,7 +45,7 @@ firefox-channel-build-test-scale-and-more = Ehita, testi ja skaleeri ainsas veeb
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } on ebastabiilne testimis- ja arendusplatvorm. Vaikimisi saadab { -brand-name-developer-edition } teavet { -brand-name-mozilla }le — ja vahel ka meie partneritele — aitamaks meil probleeme hallata ja ideid järele proovida. <a href="{ $link }">Rohkem teavet jagatavast</a>.
-firefox-channel-firefox-developer-edition = Firefoxi arendajate väljaanne saadab { -brand-name-mozilla }le automaatselt tagasisidet.
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } saadab { -brand-name-mozilla }le automaatselt tagasisidet.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Heida pilk meie järgmise põlvkonna veebilehitsejale ja aita meil sellest parim võimalik brauser teha: proovi { -brand-name-firefox-nightly }'t.
 firefox-channel-test-brand-new-features = Proovi uhiuusi võimalusi igapäevaselt (või igaöiselt…). Naudi omal vastutusel.
