@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -22,7 +22,7 @@ firefox-all-64-bit-installers = 64-bitised paigaldajad
 firefox-all-choose-a-64-bit-installer = 64-bitine paigaldaja vali arvutitele, millel on 64-bitine protsessor. See võimaldab neil kasutada rohkem mälu — see on eriti oluline mängudele ja teistele nõudlikumatele rakendustele.
 firefox-all-32-bit-installers = 32-bitised paigaldajad
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Firefoxi veebilehitseja allalaadimine eesti ja rohkem kui 90 muus keeles
+firefox-all-download-the-firefox = { -brand-name-firefox-browser } allalaadimine eesti ja rohkem kui 90 muus keeles
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Igaüks väärib internetiligipääsu — sinu emakeel ei tohiks kunagi olla takistuseks. Seetõttu teeme pühendunud vabatahtlike abiga üle maailma Firefoxi veebilehitseja kättesaadavaks enam kui 90 keeles.
 firefox-all-choose-which-firefox = Vali, millist Firefoxi soovid enda keeles alla laadida
