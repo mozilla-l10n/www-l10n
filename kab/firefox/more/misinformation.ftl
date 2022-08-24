@@ -1,10 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
+misinformation-page-title = Wexxeṛ i yir talɣut srid – { -brand-name-firefox } ha-t-a da i tallalt
+misinformation-page-subheading = Senqed iwellihen i wakken ad twaliḍ drus n yir talɣut, tserseḍ ddehn-ik·im ɣef wayen twalaḍ yesεa azal ɣur-k·m
 misinformation-content-up-to-date = Agbur yettwaleqqem?
 misinformation-images-captions = Tugniwin d tneffusin mṣadant?
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } yettarra ineḍfaren deg usenqed:

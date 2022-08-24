@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -35,6 +35,8 @@ firefox-desktop-download-blocks-social-trackers = Yessewḥal ineḍfaren n yize
 firefox-desktop-download-os-availability = Tilin n unagraw n wammud
 firefox-desktop-download-in-browser-screenshot = Afecku n tuṭṭfa n ugdil deg yiminig
 firefox-desktop-download-primary-password = Awal uffir agejdan
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = Af iman-ik·im srid
 # Obsolete string
 firefox-desktop-download-master-password = Awal uffir agejdan
 firefox-desktop-download-we-block-the-ad = Nessewḥal ineḍfaren n udellel. Kečč·kemm tesnirimeḍ internet s urured.
@@ -119,6 +121,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ꞌa { 
 firefox-desktop-download-questions = Asteqsi? <a { $attrs }>{ -brand-name-mozilla } tallalt</a> tesseḥbaber fell-ak·am.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Ɣur-k·m yakan iminig. Tura awi ugar seg { -brand-name-firefox }.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Ɛass imakaren s { -brand-name-firefox-monitor }, mmesten awalen uffiren s { -brand-name-firefox-lockwise }, d wayen-nniḍen.
 firefox-desktop-download-get-more-from-firefox = Awi ugar seg { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Sader kan iminig
@@ -136,7 +139,12 @@ firefox-desktop-download-now-mac = Tura <strong>ldi</strong> afaylu i d-tsuliḍ
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Tesεuḍ ugur? <a { $attrs }>Awi tallalt i usebded-inek·inem</a>.
 firefox-desktop-download-in-another-language = Sider deg tutlayt-nniḍen neɣ i unagraw-nniḍen n wammud
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Ma yella twalaḍ alɣu i d-yeskanayen asnas i tettaɛraḍeḍ ad tesbeddeḍ mačči d asnas yettusneqden { -brand-name-microsoft }, sit ɣef “Sebded ɣas akken” neɣ <a { $attrs }>senfel iɣewwaren n uwelleh n usnas</a>.
 firefox-desktop-download-visit-support-for-more = Rzu ɣer tallalt i wugar n telɣut
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -150,6 +158,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Tesseqdaceḍ anagra
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Asider-ik.im ad yekker s wudem awurman. Ur yeddi ara? <a id="{ $id }" href="{ $fallback_url }">Ɛreḍ asider i tikkelt-nniḍen</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } mačči d iminig kan.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Asader-inek·inem yettuḥbes . Maca cemma ur iruḥ.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
