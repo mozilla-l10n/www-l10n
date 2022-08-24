@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -22,7 +22,7 @@ home-read-our-internet-health-report = Leye lo nuestro Reporte sobre la salut d'
 home-our-innovations = Las nuestras innovacions
 home-using-the-web-as-the-platform = Fendo servir la web como plataforma, femos tecnolochías ubiertas y innovativas que permiten a los desenvolvedors treballar libres de ecosistemas zarraus u corporativos y crear experiencias web mas rapidas y mas seguras pa totz nusatros.
 home-virtual-reality-platform = Plataforma de realidat virtual
-home-common-voice = Voz común
+home-common-voice = { -brand-name-common-voice }
 home-extensions = Extensions
 home-personalize-firefox-with-your = Personaliza lo { -brand-name-firefox } con os tuyos extras favoritos como chestors de claus, blocadors d'anuncions y mas.
 home-careers = Emplegos
