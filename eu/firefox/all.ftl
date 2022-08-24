@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = 64 biteko instalatzaileak
 firefox-all-choose-a-64-bit-installer = Aukeratu 64 biteko instalatzaile bat 64 biteko prozesagailudun ordenagailuetarako, programei RAM gehiago erabiltzea baimentzen baitie — hau bereziki garrantzitsua da jokoetarako eta memoria asko behar duten bestelako aplikazioetarako.
 firefox-all-32-bit-installers = 32 biteko instalatzaileak
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Deskargatu Firefox nabigatzailea euskaraz edo beste 90 hizkuntzetako batean
+firefox-all-download-the-firefox = Deskargatu { -brand-name-firefox-browser } nabigatzailea euskaraz edo beste 90 hizkuntzetako batean
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Edonork merezi du Internetera sarbidea — zure hizkuntzak ez luke inoiz oztopo izan behar. Horregatik — mundu osoko boluntarioen laguntzari esker — Firefox nabigatzailea 90 hizkuntza baino gehiagotan dago eskuragarri.
-firefox-all-choose-which-firefox = Aukeratu zein Firefox nabigatzaile deskargatu zure hizkuntzan
+firefox-all-everyone-deserves-access = Edonork merezi du Internetera sarbidea — zure hizkuntzak ez luke inoiz oztopo izan behar. Horregatik — mundu osoko boluntarioen laguntzari esker — { -brand-name-firefox-browser } 90 hizkuntza baino gehiagotan dago eskuragarri.
+firefox-all-choose-which-firefox = Aukeratu zein { -brand-name-firefox-browser } deskargatu zure hizkuntzan
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }en pribatutasun-oharra
 firefox-all-learn-about-firefox = Ikasi gehiago { -brand-name-firefox } nabigatzaileei buruz
 firefox-all-the-standard-firefox = { -brand-name-firefox } nabigatzaile estandarra — bizkorra eta pribatua. Ez badakizu zein { -brand-name-firefox } aukeratu, aukeratu hau.
 firefox-all-get-a-sneak-peek-at = Bota begirada bizkor bat { -brand-name-firefox } nabigatzailearen azken eginbideei argitaratu aurretik.
 firefox-all-test-your-sites-against = Probatu zure webguneak argitaratzear den { -brand-name-firefox } nabigatzailearen eginbideen gainean, defektuz gaituta dauden garatzaile-tresna boteretsu eta malguekin.
 firefox-all-count-on-stability-and = Enpresetarako eraikitako { -brand-name-firefox } nabigatzaile honek egonkortasuna eta erabilerraztasuna ziurtatzen ditu.
-firefox-all-windows-installers-for = Ingurune korporatiboko Windowserako instalatzaileak, Firefox nabigatzailearen konfigurazioa, instalazioa eta kudeaketa sinplifikatzen dutenak.
+firefox-all-windows-installers-for = Ingurune korporatiboko Windowserako instalatzaileak, { -brand-name-firefox-browser } nabigatzailearen konfigurazioa, instalazioa eta kudeaketa sinplifikatzen dutenak.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Aukeratu 32 biteko instalatzaile bat 32 biteko prozesagailudun ordenagailuetarako — edo ordenagailu zahar edo potentzia gutxikoentzako. <a href="{ $url }">Ez bazaude ziur</a> 64 edo 32 biteko instalatzailea den behar duzuna, 32 bitekoarekin probatzea gomendatzen dizugu.

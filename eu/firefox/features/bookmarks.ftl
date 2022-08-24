@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox nabigatzailea: laster-marka hobeak edonora zoazela ere
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: laster-marka hobeak edonora zoazela ere
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Antolatu laster-markak karpetaka era errazean eta izan itzazu eskura gailu guztietatik, mahaigainetik mugikorrera.
 features-bookmarks-better-bookmarks = Laster-marka hobeak

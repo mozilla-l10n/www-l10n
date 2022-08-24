@@ -14,4 +14,4 @@ not-found-page-go-back = Joan atzera
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>Arakatu</a> { -brand-name-firefox } produktuen familia osoa, zure pribatutasuna errespetatzeko diseinatuak daude.
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
-not-found-page-download-the-firefox-browser = <a href={ $download }>Deskargatu { -brand-name-firefox } nabigatzailea gailu mugikorrerako edo mahaigainerako
+not-found-page-download-the-firefox-browser = <a href={ $download }>Deskargatu</a> { -brand-name-firefox } nabigatzailea gailu mugikorrerako edo mahaigainerako

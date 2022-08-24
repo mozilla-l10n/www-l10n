@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Firefox nabigatzailea: erabili memoria gutxiago, lortu abiadura gehiago
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: erabili memoria gutxiago, lortu abiadura gehiago
 # HTML page description
 features-memory-is-your-computer-slow-your = Zure ordenagailua motela da? Baliteke nabigatzaileak memoria gehiegi erabiltzea. Aldatu { -brand-name-firefox }era orain eta lortu abiadura gehiago.
 features-memory-less-memory-usage-than-chrome = { -brand-name-chrome }-k baino memoria-erabilera txikiagoa
