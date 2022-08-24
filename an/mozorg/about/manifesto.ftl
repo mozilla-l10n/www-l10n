@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -54,31 +54,6 @@ manifesto-an-internet-with-these = Una Internet con estas caracteristicas no ser
 manifesto-i-support-the-vision-of = Yo emparo la visión de @mozilla d'una Internet millor y mas sana, tu tamién?
 manifesto-share-on-twitter = Comparti-lo en { -brand-name-twitter }
 manifesto-our-10-principles = <strong>Los nuestros diez</strong> principios
-manifesto-use-open-badges-to-share = Usa Open Badges y comparte las tuyas competencias y intereses
-manifesto-explore-how-the-web-impacts = Descubre cómo Internet aduya a la sciencia
-manifesto-learn-about-open-source = Descubre lo codigo ubierto en o periodismo
-manifesto-read-about-open-internet = Leye sobre las iniciativas y abances d'a politica d'internet ubierta
-manifesto-explore-how-to-help-keep = Descubre cómo aduyar a mentener una Internet ubierta
-manifesto-see-how-the-web-can-connect = Descubre cómo Internet puede aduyar a lo cudiau d'a salut
-manifesto-explore-how-the-web-works = Descubre cómo funciona Internet
-manifesto-see-how-mozilla-works = Mira cómo treballa { -brand-name-mozilla } pa que la tuya privacidat sía lo primer
-manifesto-read-about-developments = Informa-te sobre los desenvolvimientos en privacidat y seguranza de datos
-manifesto-learn-more-about-how-to = Aprende a protecher la tuya vida dichital
-manifesto-use-these-free-tools-to = Fe servir estas ferramientas libres pa amostrar Internet
-manifesto-learn-about-creating-and = Aprende a crear y amillorar contenius web
-manifesto-add-new-voices-to-open = Suma nuevas voces a la tecnolochía de codigo ubierto
-manifesto-set-your-do-not-track = Configura la tuya preferencia pa que no te sigan
-manifesto-understand-the-web-ecosystem = Entender l'ecosistema d'Internet
-manifesto-explore-how-open-practices = Descubre cómo las practicas libres permiten conservar lo web accesible
-manifesto-learn-how-to-remix-content = Aprende a remezclar contenius y crear bella cosa nueva
-manifesto-learn-how-to-maximize = Aprender cómo optimizar la interactividat d'o Web
-manifesto-participate-in-our-governance = Participa en o nuestro foro de gobernanza
-manifesto-join-us-as-a-volunteer = Une-te a nusatros como voluntario/a
-manifesto-learn-how-to-collaborate = Aprende a colaborar en linia
-manifesto-visualize-who-you-interact = Visualiza con quí interactúas en Internet, gracias a Ligthbeam
-manifesto-learn-about-creating-web = Aprende a crear recursos web colaborativament
-manifesto-host-or-join-a-maker-party = Celebra u une-te a una { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Aprende a obtener destrezas de colaboración en linia
 manifesto-read-the-entire-manifesto = Leye lo manifiesto completo
 manifesto-love-the-web = Te fa goyo la web?
 manifesto-get-the-mozilla-newsletter = Recibe lo boletín de noticias de { -brand-name-mozilla } y aduya-nos a mantener-lo ubierto y gratuito.
@@ -89,11 +64,11 @@ manifesto-details-the-mozilla-project-global = Lo prochecto { -brand-name-mozill
 manifesto-details-the-mozilla-project-community = Lo prochecto { -brand-name-mozilla } tiene una forma de treballo basada en a comunidat que le permite creyar software de codigo ubierto de primera calidat y desenvolver nuevas clases d'actividatz colaborativas. Creigamos comunidatz de personas dedicadas a aconseguir una millor experiencia en Internet pa totz.
 manifesto-details-as-a-result-of = Como que resultau d'estes esfuerzos, hemos elaborau qualques principios que consideramos fundamentals pa que Internet contine beneficiando tanto a lo bien publico como a los aspectos comercials d'a vida. Contino enumeramos estes principios.
 manifesto-details-the-goals-for = Los obchectivos d'o manifiesto son:
-manifesto-details-articulate-a-vision = definir una visión d'Internet que los participants de { -brand-name-mozilla } deseyen que alcance la Fundación { -brand-name-mozilla };
+manifesto-details-articulate-a-vision = definir una visión d'Internet que los participants de { -brand-name-mozilla } deseyen que alcance la { -brand-name-mozilla-foundation };
 manifesto-details-speak-to-people = poder comunicar-nos con a chent, tiengan u no conoixencias tecnicas;
 manifesto-details-make-mozilla-contributors = aconseguir que los colaboradors de { -brand-name-mozilla } sían orgullosos d'o que somos fendo y que esto nos motive a continar; y
 manifesto-details-provide-a-framework = fornir un punto de partida pa que atras personas amilloren esta visión d'Internet.
-manifesto-details-these-principles = Estes principios no se fará realidat ells soletz. Fa falta chent que fagan Internet ubierto y participativo - chent actuando como individuos, treballando chuntos en grupos y liderando a otri. La fundación { -brand-name-mozilla } ye compromesa a abanzar en os principios indicaus en o Manifiesto { -brand-name-mozilla }. Convidamos a los de demás a unir-se a nusatros y fer d'Internet un millor puesto pa totz.
+manifesto-details-these-principles = Estes principios no se fará realidat ells soletz. Fa falta chent que fagan Internet ubierto y participativo - chent actuando como individuos, treballando chuntos en grupos y liderando a otri. La { -brand-name-mozilla-foundation } ye compromesa a abanzar en os principios indicaus en o Manifiesto { -brand-name-mozilla }. Convidamos a los de demás a unir-se a nusatros y fer d'Internet un millor puesto pa totz.
 manifesto-details-principles = Principios
 manifesto-details-the-internet-is-integral = Internet ye una parte integral d'a vida moderna: un component clau pa la educación, la comunicación, la colaboración, los negocios, l'entretenimiento y pa la sociedat en o suyo conchunto.
 manifesto-details-the-internet-is-global = Internet ye un recurso publico mundial que ha de seguir estando ubierto y accesible.
@@ -107,8 +82,8 @@ manifesto-details-commercial-involvement = Lo embrecamiento comercian en o desen
 manifesto-details-magnifying-the = Maximizar los aspectos de beneficio publico d'Internet ye un obchectivo important que mereixe lo nuestro tiempo, atención y compromís.
 manifesto-details-advancing-the = Dillá d'o Manifiesto de { -brand-name-mozilla }
 manifesto-details-there-are-many = I hai diferents maneras de fer creixer los principios d'o Manifiesto de { -brand-name-mozilla }. Femos una ampla gama d'actividatz y esperamos contar con a mesma creyatividat que los participants de { -brand-name-mozilla } han contrimostrau en atras arias d'o prochecto. Pa las personas que no sían fundament involucradas con o prochecto { -brand-name-mozilla }, una forma basica y muit efectiva d'emparar lo manifiesto ye usar { -brand-name-mozilla } { -brand-name-firefox } u qualsiquiera d'os atros productos que represeentan los principios d'o manifiesto.
-manifesto-details-mozilla-foundation = Lo compromís d'a Fundación Mozilla
-manifesto-details-the-mozilla-foundation-pleges = La Fundación { -brand-name-mozilla } se compromete a emparar este manifiesto con as suyas actividatz. Especificament, nos comprometemos a:
+manifesto-details-mozilla-foundation = Lo compromís d'a { -brand-name-mozilla-foundation }
+manifesto-details-the-mozilla-foundation-pleges = La { -brand-name-mozilla-foundation } se compromete a emparar este manifiesto de { -brand-name-mozilla } con as suyas actividatz. Especificament, nos comprometemos a:
 manifesto-details-build-and-enable = crear y ofrir tanto tecnolochías de codigo ubierto como comunidatz que emparen los principios d'o manifiesto;
 manifesto-details-build-and-deliver = crear y distribuyir productos de calidat que emparen los principios d'o manifiesto;
 manifesto-details-use-the-mozilla = usar los biens de { -brand-name-mozilla } (la suya propiedat intelectual, lo copyright y las marcas rechistradas, la suya infrastructura, los suyos fondos y la suya reputación) pa mantener Internet como una plataforma ubierta;
