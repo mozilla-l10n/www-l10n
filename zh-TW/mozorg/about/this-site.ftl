@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/about/this-site/
 
+about-this-site-title = 關於此網站
+about-this-site-desc = 關於 www.mozilla.org 網站的內容，以及用來打造它的開放原始碼工具。
 about-this-site-like-many = 本網站與我們的許多產品一樣，也開放原始碼：
 about-this-site-view-source = 到 { -brand-name-github } 檢視原始碼
 about-this-site-report-a-bug = 回報 Bug
