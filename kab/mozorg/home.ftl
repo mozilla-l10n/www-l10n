@@ -1,12 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet i yimdanen, mačči i ubaɣur
 home-did-you-know-mozilla-the-maker = Teẓriḍ ? { -brand-name-mozilla }, win ifeṣlen { -brand-name-firefox }, yettnaɣ akken Internet, taɣbalut tazayezt tamaḍlant, ad teqqim teldi u tettwakcam i yal yiwen.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Arurad i lebda.
 home-with-2x-the-speed-built-in = S urured ugar n 2x, ammesten n tudert tusligt tusliɣt akked { -brand-name-mozilla } yellan deffir-s, { -brand-name-firefox } amaynut yezga d allal ufrin i tunigin.
 home-we-make-the-internet-safer = Nettara internet d aɣelsan, d uzmir, d arurad i lebda.

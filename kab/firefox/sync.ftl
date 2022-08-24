@@ -1,12 +1,13 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Kcem syen semtawi ticraḍ n yisebtar-inek·inem, awalen-ik·im uffiren, accaren yeldin d wugar — s kra n wanda i tseqdaceḍ { -brand-name-firefox }.
+firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Mtawi { -brand-name-firefox }-inek·inem ɣef yal ibenk
 firefox-sync-privacy-made-easy = Yeshel ad tgeḍ tabaḍnit
 firefox-sync-all-you-need = Ayen akk i teḥwaǧeḍ i { -brand-name-firefox-sync } d { -brand-name-firefox-account }.
