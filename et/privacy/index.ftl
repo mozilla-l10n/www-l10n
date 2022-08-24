@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Privaatsus { -brand-name-mozilla }s
@@ -20,9 +20,9 @@ privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla } <a href
 privacy-index-transparency-report = Läbipaistvusaruanne
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
-privacy-index-as-an-open-source-project = Avatud lähtekoodiga projektile omaselt on läbipaistvus ja avatus meie asutamispõhimõtete lahutamatu osa. Meie lähtekood on avatud ja auditeeritav. Meie arendustöö on avalik. Meie kaks korda aastas avaldatav <a href="{ $report }">läbipaistvusaruanne</a> näitab samuti meie pühendumust neile põhimõtetele.
+privacy-index-as-an-open-source-project = Avatud lähtekoodiga projektile omaselt on läbipaistvus ja avatus { -brand-name-mozilla } asutamispõhimõtete lahutamatu osa. Meie lähtekood on avatud ja auditeeritav. Meie arendustöö on avalik. Meie kaks korda aastas avaldatav <a href="{ $report }">läbipaistvusaruanne</a> näitab samuti meie pühendumust neile põhimõtetele.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Meie privaatsuspoliitikas planeeritud muudatuste üle vaatamiseks ja kommenteerimiseks saate tellida <a href="{ $group }">{ -brand-name-mozilla } “Governance” grupi</a> postitused.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
