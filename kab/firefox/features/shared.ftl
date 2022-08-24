@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -16,4 +16,7 @@ features-shared-password-manager = Amsefrak n wawal uffir
 features-shared-customize-your-browser = Err iminig-inek·inem d udmawan
 features-shared-sync-between-devices = Semtawi gar yibenkan
 features-shared-better-bookmarks = Tisraḍ n yisebtar igerrzen
+features-shared-fingerprinter-blocking = Asewḥel n udsil umḍin
+features-shared-translate-the-web = Suqqqel web
+features-shared-picture-in-picture = Tugna-deg-tugna
 brand-name-firefox = { -brand-name-firefox }

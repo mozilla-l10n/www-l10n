@@ -11,3 +11,7 @@ features-pip-new-feature-firefox-multi-picture = Tamahilt tamaynut: { -brand-nam
 features-pip-get-more-done-with-pop-out-videos = Eg ugar s tvidyutin tudhimin
 features-pip-play-the-video = Wali tavidyut
 features-pip-heres-how-it-works = Ha-t-a wamek iteddu:
+features-pip-3-more-ways-to-use-picture = 3 aṭas n yiberdan i useqdec n tugna-deg-tugna
+features-pip-3-ways-to-use-picture = 3 iberdan i useqdec n tugna-deg-tugna
+features-pip-watch-a-lecture-or-meeting = Awali n usarag neɣ timlilit mi ara tettaruḍ iwenniten
+features-pip-entertain-cats-dogs-and-kids = Asedhu n yimcac, n yiqjan d warrac mi ara tesεuḍ axeddim.

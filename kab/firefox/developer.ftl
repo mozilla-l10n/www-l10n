@@ -58,6 +58,7 @@ firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } im
 firefox-developer-master-css-grid = Issin s telqayt tamezzut CSS
 # outdated
 firefox-developer-next-gen-css-engine = Amsedday CSS n tsuta d-iteddun
+firefox-developer-built-for-developers = Yettufeṣṣel i yineflayen
 firefox-developer-a-next-generation = Amsedday CSS n tsuta d-iteddun
 firefox-developer-master-innovative-features = Timahilin n usnulfu
 firefox-developer-want-to-be-on-the-cutting-edge = Acu tebɣiḍ daɣen ad tawiḍ?
