@@ -59,3 +59,6 @@ firefox-new-visit-support-for-more = Rzu ɣer tallalt i wugar n telɣut
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Sader { -brand-name-firefox-browser }
+firefox-new-fast = D arurad, d uslig & d ilelli
+firefox-new-from-mozilla = seg { -brand-name-mozilla }
+firefox-new-download-a-different = Sader tiɣerqert neɣ tutlayt tayeḍ

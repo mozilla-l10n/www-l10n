@@ -15,6 +15,8 @@ privacy-passwords-protecting-your-accounts = Ammesten n yimiḍanen-inek·inem u
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = tl;dr:
 privacy-passwords-use-random-passwords = Seqdec awalen uffiren igacuranen, rnu seqdec i yal asmel awal uffir yemgaraden ɣef wayeḍ
+privacy-passwords-use-twofactor-authentication = Seqdec "asesteb s snat tarrayin" segwanda akk i tzemreḍ
+privacy-passwords-its-hard-out = Yewɛer aṭas ad tafeḍ awal uffir i iweɛren i tifin
 privacy-passwords-stealing-a-file = Nebɣa afaylu ideg ara yili wawal-ik•im uffir
 privacy-passwords-using-password-recovery = Seqdec awal uffir n tririt i uwennez-ines
 privacy-passwords-tricking-you-into = Ad ak-ikellex i wakken ad as-tmuddeḍ
