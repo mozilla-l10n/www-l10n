@@ -1,11 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Lataa Firefox-selain { -brand-name-ios }- tai { -brand-name-android }-matkapuhelimelle
+firefox-mobile-download-the-firefox-browser = Lataa { -brand-name-firefox-browser } { -brand-name-ios }- tai { -brand-name-android }-matkapuhelimelle
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-privacy-protection-by-default = Yksityisyyden suoja oletuksena

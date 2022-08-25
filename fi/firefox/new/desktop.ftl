@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -11,7 +11,7 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Lataa { -brand-name-firefox-browser } — nopea, turvallinen ja vapaa — { -brand-name-mozilla }lta
 firefox-desktop-download-og-title = Lataa nopein { -brand-name-firefox } koskaan
-firefox-desktop-download-firefox = { -brand-name-firefox }-selain
+firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-download-options = Latausvalinnat ja muut kielet
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-tuki
 firefox-desktop-download-how-firefox-compares = Kuinka { -brand-name-firefox } pärjää muita selaimia vasten
@@ -72,5 +72,6 @@ firefox-desktop-download-just-download-the-browser = Lataa vain selain
 
 firefox-desktop-download-almost-there = Melkein valmista!
 firefox-desktop-download-in-another-language = Lataa toisella kielellä tai muulle käyttöjärjestelmälle.
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } on enemmän kuin selain.
