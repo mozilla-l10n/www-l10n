@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -36,11 +36,11 @@ firefox-channel-build-test-scale-and-more = Mahto, ƴeewndo, ɓetto ekn huutoraa
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ko dinndeere ƴeewndo e topayru nde ƴoƴaani. E teelte mum, { -brand-name-developer-edition } neldat keɓe to { -brand-name-mozilla } — asahaaji kadi to renndodiiɓe amen— ngam wallude min defaade caɗe kadi ƴeewndaade miijooji kesi. <a href="{ $link }">Humpito ko neldetee</a>.
-firefox-channel-firefox-developer-edition = Taƴtorde Topotooɗo Firefox ina nelda duttine to { -brand-name-mozilla }.
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } ina nelda duttine to { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Weddo yitere adannde e wanngorde amen geese karɗungal, kadi wallar min waɗtude ɗum wanngorde ɓurnde banngorɗe: xeewndo { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Ƴeewndo fannuuji kesi pul ñalawma fof (walla…jamma fof). Dakmito kono yuɓɓaani tawo.
-firefox-channel-try-new-features-in-a-pre-release = Eto Fannuuji Kesi e Wanngorde IOS nde bayyinaaka | { -brand-name-firefox }
+firefox-channel-try-new-features-in-a-pre-release = Eto Fannuuji Kesi e Wanngorde { -brand-name-ios } nde bayyinaaka | { -brand-name-firefox }
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Ƴeewndo jame betaa { -brand-name-firefox } mo { -brand-name-ios } rewde e njuɓɓudi { -brand-name-test-flight }.
 firefox-channel-sign-up-now = Winndito jooni
