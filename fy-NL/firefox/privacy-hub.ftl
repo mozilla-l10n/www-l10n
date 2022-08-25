@@ -80,7 +80,7 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Nim jo privacy en blêdwiz
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
-firefox-privacy-hub-already-have-an-account = Hawwe jo al in account? <a { $sign_in } ="{ $class_name }">Meld jo oan</a> of <a href="{ $learn_more }">lês mear</a> oer meidwaan mei { -brand-name-firefox }.
+firefox-privacy-hub-already-have-an-account = Hawwe jo al in account? <a { $sign_in } class="{ $class_name }">Meld jo oan</a> of <a href="{ $learn_more }">lês mear</a> oer meidwaan mei { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Lês de <a href="{ $url }">Privacyferklearring</a> foar ús produkten
