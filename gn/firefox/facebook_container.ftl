@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -12,8 +12,6 @@ facebook-container-get-the-facebook-container = Eguereko "{ -brand-name-facebook
 facebook-container-download-firefox-and-get-the = Emboguejy { -brand-name-firefox } eguereko hag̃ua "{ -brand-name-facebook-container }" jepysokue
 facebook-container-only-available-for-desktop = Ko { -brand-name-facebook-container } jepysokue ikatu eipuru { -brand-name-firefox } mohendahápe añoite.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -27,7 +25,7 @@ facebook-container-try-firefox-focus-the-privacy = Eipuru <strong>{ -brand-name-
 facebook-container-opt-out-on-your-terms = Eñemo’ã nemba’ete guýpe
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } ikatu ohapykueho ne rembiapo ñanduti pegua ha ombojuaju nde reko { -brand-name-facebook } pegua ndive. Ko’ãva tuichaitereíramo ndéve g̃uarã, pe { -brand-name-facebook-container } jepysokue</a> omoha’eño nde reko peteĩ tendayke jokoha okayguávape, ombohasyve hag̃ua { -brand-name-facebook } nde rapykuehóvo { -brand-name-facebook }-pe nereiméirõ.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } ikatu ohapykueho ne rembiapo ñanduti pegua ha ombojuaju nde reko { -brand-name-facebook } pegua ndive. Ko’ãva tuichaitereíramo ndéve g̃uarã, pe <a href="{ $fbcontainer }">{ -brand-name-facebook-container } jepysokue</a> omoha’eño nde reko peteĩ tendayke jokoha okayguávape, ombohasyve hag̃ua { -brand-name-facebook } nde rapykuehóvo { -brand-name-facebook }-pe nereiméirõ.
 facebook-container-install-and-contain = Emboguejy ha ema’ẽag̃ui
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

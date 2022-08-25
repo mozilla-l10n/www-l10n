@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -22,7 +22,7 @@ history-by-creating-an-open-community = Oñemoheñói tekoha ijurujáva, { -bran
 #   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
 #   $bugzilla (url) link to https://www.bugzilla.org
 #   $projects (url) link to https://www.mozilla.org/firefox/
-history-community-members-got-involved = Tekoha pegua tapichakuéra oike ha isarambi { -brand-name-netscape } tembipota ypygua</a> apopyregua ohupytýva — omba’aporanguénte kundahára pyahúre { -brand-name-netscape }, tapichakuéra oñepyrũ omoheñói <a href="{ $browsers }">hetaichagua kundahára</a>, <a href="{ $bugzilla }">mboguatahára rembipuru</a> ha heta ambuéichagua <a href="{ $projects }">apopyrã</a>.
+history-community-members-got-involved = Tekoha pegua tapichakuéra oike ha isarambi <a href="{ $mission }">tembipota ypygua</a> apopyregua ohupytýva — omba’aporanguénte kundahára pyahúre { -brand-name-netscape }, tapichakuéra oñepyrũ omoheñói <a href="{ $browsers }">hetaichagua kundahára</a>, <a href="{ $bugzilla }">mboguatahára rembipuru</a> ha heta ambuéichagua <a href="{ $projects }">apopyrã</a>.
 history-people-contributed-to-mozilla = Tapichakuéra oipytyvõ { -brand-name-mozilla } ndive heta hendáicha, hákatu opavavete omoheñoise software ijurujáva omoneĩva yvypórape oiporavokuaávo mba’éichapa oipurúta ñanduti.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
