@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/404-locale/
 
+not-found-locale-desc = Fren tamurt neɣ tamnaḍt i wakken ad d-tsekneḍ tutlayt i tesmenyafayeḍ.
+not-found-locale-not-yet-translated = Mazal ur yettwasuqqel ara usebter-a
+# Variables:
+#   $community (url) - link to https://community.mozilla.org/activities/localize-mozilla/
+#   $contribute (url) - link to https://wiki.mozilla.org/L10n:Contribute
+not-found-locale-join-us = Rnu-d ɣer <a href="{ $community }">terbaɛt n temɣiwent-nneɣ</a>, tɛawneḍ-aɣ <a href="{ $contribute }">ad nsuqqel asebter-a.</a>
+not-found-locale-available = Yella s tutlayin-a:
 # Variables:
 #   $requested_page (string) - path of originally requested page
 #   $link_language (string) - name of language used in page link
