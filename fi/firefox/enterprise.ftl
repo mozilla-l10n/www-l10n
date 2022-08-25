@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Hanki { -brand-name-firefox } yrityksellesi { -brand-name-esr }:n ja Rapid Release -sovelluksen avulla
 firefox-enterprise-get-unmatched-data-protection = Saat verrattoman tietosuojan sinulle sopivasta päivitysrytmistä { -brand-name-firefox } yrityksille -sovelluksen kanssa. Lataa { -brand-name-esr } ja Rapid Release.
-firefox-enterprise-enterprise = Yrityksille
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Yleiskatsaus
 firefox-enterprise-downloads = Lataukset
 firefox-enterprise-get-firefox-for-your-enterprise = Hanki { -brand-name-firefox } yrityksellesi
@@ -16,13 +16,13 @@ firefox-enterprise-your-data-stays-your-business = Tietosi pysyvät tietonasi
 firefox-enterprise-deploy-when-and-how-you-want = Ota käyttöön milloin ja miten haluat
 firefox-enterprise-choose-your-release-cadence = Valitse päivitysrytmi
 firefox-enterprise-get-rapid-releases-to-make = Hanki nopeita julkaisuja varmistaaksesi, että saat viimeisimmät ominaisuudet nopeammin, tai valitse laaja, varmistaaksesi erittäin vakaan käyttökokemuksen.
-firefox-enterprise-enterprise-downloads = Yrityslataukset
+firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } lataukset
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bittinen
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Valitse lataus
-firefox-enterprise-firefox-browser = { -brand-name-firefox }-selain
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox }-selain - MSI-asennusohjelma
-firefox-enterprise-firefox-extended-support-release = Firefox Laajennettu tuki -jakelu ({ -brand-name-esr })
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI-asennusohjelma
+firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = Firefox Laajennettu tuki -jakelu - MSI-asennusohjelma
 firefox-enterprise-support = Tuki
 firefox-enterprise-msi-installers = MSI-asennusohjelmat

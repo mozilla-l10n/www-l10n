@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -45,31 +45,6 @@ manifesto-show-your-support = Näytä tukesi
 manifesto-i-support-the-vision-of = Tuen @mozilla'n visiota paremmasta, terveemmästä internetistä. Tuletko mukaan?
 manifesto-share-on-twitter = Jaa { -brand-name-twitter }issä
 manifesto-our-10-principles = <strong>Kymmenen</strong> periaatettamme
-manifesto-use-open-badges-to-share = Jaa taitosi ja kiinnostuksenkohteesi Open Badges -järjestelmässä
-manifesto-explore-how-the-web-impacts = Tutustu siihen, kuinka verkko vaikuttaa tieteen tekemiseen
-manifesto-learn-about-open-source = Lue lisää avoimesta lähdekoodista journalismissa
-manifesto-read-about-open-internet = Lue avoimen internetin käytäntöihin liittyvistä aloitteista ja edistysaskelista
-manifesto-explore-how-to-help-keep = Tutki, kuinka verkko voidaan pitää avoimena
-manifesto-see-how-the-web-can-connect = Katso, kuinka verkko voi yhdistää maailman terveydenhuoltoon
-manifesto-explore-how-the-web-works = Tutki, kuinka verkko toimii
-manifesto-see-how-mozilla-works = Katso, kuinka { -brand-name-mozilla } asettaa tietosuojasi etusijalle
-manifesto-read-about-developments = Lue edistysaskelista liittyen tietosuojaan ja -turvaan
-manifesto-learn-more-about-how-to = Lue lisää siitä, kuinka voit suojella itseäsi verkossa
-manifesto-use-these-free-tools-to = Voit opettaa verkkoa näillä ilmaisilla työkaluilla
-manifesto-learn-about-creating-and = Lue lisää siitä, kuinka voit luoda ja järjestää sisältöä verkkoon
-manifesto-add-new-voices-to-open = Lisää uusia ääniä lähdekoodin teknologiaan
-manifesto-set-your-do-not-track = Määritä Älä seuraa -asetuksesi
-manifesto-understand-the-web-ecosystem = Ymmärrä verkon ekosysteemi
-manifesto-explore-how-open-practices = Tutustu siihen, kuinka avoimet käytännöt pitävät verkon avoimena kaikille
-manifesto-learn-how-to-remix-content = Lue lisää siitä, kuinka sisältöä sekoitetaan uuden luomiseksi
-manifesto-learn-how-to-maximize = Lue lisää siitä, kuinka verkon vuorovaikutteinen potentiaali maksimoidaan
-manifesto-participate-in-our-governance = Osallistu hallintofoorumiimme
-manifesto-join-us-as-a-volunteer = Liity meihin vapaaehtoisena
-manifesto-learn-how-to-collaborate = Lue lisää siitä, kuinka verkossa tehdään yhteistyötä
-manifesto-visualize-who-you-interact = { -brand-name-lightbeam }-lisäosan avulla voit havainnollistaa sitä, keiden kanssa olet tekemisissä verkossa
-manifesto-learn-about-creating-web = Lue lisää siitä, kuinka verkkoresursseja luodaan yhdessä muiden kanssa
-manifesto-host-or-join-a-maker-party = Järjestä { -brand-name-maker-party } tai osallistu sellaiseen
-manifesto-learn-how-to-build-online = Lue lisää siitä, kuinka voit kehittää omia verkkotyöskentelyn yhteistyötaitojasi.
 manifesto-read-the-entire-manifesto = Lue koko manifesti
 manifesto-love-the-web = Rakastatko verkkoa?
 manifesto-get-the-mozilla-newsletter = Tilaa { -brand-name-mozilla }n uutiskirje ja auta meitä pitämään internet avoimena ja vapaana.
@@ -105,6 +80,6 @@ manifesto-details-build-and-deliver = rakentamaan ja toimittamaan käyttäjille 
 manifesto-details-use-the-mozilla = käyttämään { -brand-name-mozilla }n voimavaroja (intellektuaalista omaisuutta kuten tekijänoikeudet ja tavaramerkit, infrastruktuuria, rahavaroja ja mainetta) Internetin säilyttämiseksi avoimena toimintaympäristönä;
 manifesto-details-promote-models = edistämään toimintamalleja, jotka luovat taloudellista arvoa yhteiseksi hyväksi; ja
 manifesto-details-promote-the-mozilla = edistämään { -brand-name-mozilla }-manifestin periaatteita julkisessa keskustelussa ja Internet-teollisuuden sisällä.
-manifesto-details-some-foundation = Joitakin Säätiön toimintoja–tällä hetkellä kuluttajatuotteiden luominen, toimitus käyttäjille ja tuotteiden promootio–suoritetaan ensi kädessä Mozilla-säätiön kokonaisuudessaan omistaman tytäryrityksen Mozilla-korporaation kautta.
+manifesto-details-some-foundation = Joitakin Säätiön toimintoja–tällä hetkellä kuluttajatuotteiden luominen, toimitus käyttäjille ja tuotteiden promootio–suoritetaan ensi kädessä { -brand-name-mozilla-foundation } kokonaisuudessaan omistaman tytäryrityksen { -brand-name-mozilla-corporation } kautta.
 manifesto-details-invitation = Kutsu
-manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla }-säätiö kutsuu kaikki { -brand-name-mozilla }-manifestin periaatteita kannattavat liittymään meihin ja löytämään uusia keinoja tehdä tästä Internet-visiosta todellisuutta.
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } kutsuu kaikki { -brand-name-mozilla }-manifestin periaatteita kannattavat liittymään meihin ja löytämään uusia keinoja tehdä tästä Internet-visiosta todellisuutta.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -17,7 +17,7 @@ privacy-faq-we-follow-a-set-of-data-privacy = Me noudatamme <a href="{ $link }">
 privacy-faq-we-only-collect-the-data-we = Keräämme vain tietoja, jotka auttavat meitä tekemään parhaita tuotteita.
 privacy-faq-we-put-people-in-control-of = Annamme ihmisille välineet heidän omien tietojen ja verkkokokemusten hallintaan.
 privacy-faq-we-adhere-to-no-surprises-principle = Olemme sitoutuneet "ei yllätyksiä" -periaatteeseen, mikä tarkoittaa sitä, että työskentelemme kovasti sen varmistamiseksi, että ihmisten käsitys { -brand-name-firefox }ista vastaa todellisuutta.
-privacy-faq-the-following-questions-and = Seuraavien kysymysten ja vastausten pitäisi auttaa ymmärtämään, mitä { -brand-name-mozilla }lta ja Firefroxilta on odotettavissa:
+privacy-faq-the-following-questions-and = Seuraavien kysymysten ja vastausten pitäisi auttaa ymmärtämään, mitä { -brand-name-mozilla }lta ja { -brand-name-firefox } on odotettavissa:
 privacy-faq-i-use-firefox-for-almost-everything = Käytän { -brand-name-firefox }ia melkein kaikkeen verkossa. Te { -brand-name-mozilla }lla taidatte tietää minusta paljon, eikö vain?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, laitteellasi tai tietokoneellasi toimiva selainohjelma, on porttisi internetiin. Selain hallinnoi lukuisia tietoja sivustoista, joilla vierailet internetissä, mutta nuo tiedot pysyvät laitteellasi. { -brand-name-mozilla }, { -brand-name-firefox }in tehnyt yritys, ei kerää tietojasi (ellet erityisesti pyydä meitä tekemään sitä).
 privacy-faq-really-you-dont-collect-my-browsing = Ettekö todella kerää selaushistoriaani?

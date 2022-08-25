@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = Luo { -brand-name-firefox-account } –
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = Nouse vastaan yrityksiä, jotka myyvät tietojasi kolmansille osapuolille. Pysy älykkäänä ja turvallisena verkossa hyödyntäen puolestasi taistelevaa teknologiaa.
 # Old HTML page description
-firefox-accounts-securely-sync-your = Synkronoi salasanasi, kirjanmerkkisi ja välilehtesi kaikilla laitteillasi. Luo Firefox-tili nyt – Yksi kirjautuminen – Voimaa ja yksityisyyttä kaikkialla.
+firefox-accounts-securely-sync-your = Synkronoi salasanasi, kirjanmerkkisi ja välilehtesi kaikilla laitteillasi. Luo { -brand-name-firefox-account } nyt – Yksi kirjautuminen – Voimaa ja yksityisyyttä kaikkialla.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = On olemassa tapa suojata yksityisyyttäsi. <span>Liity { -brand-name-firefox }iin.</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
