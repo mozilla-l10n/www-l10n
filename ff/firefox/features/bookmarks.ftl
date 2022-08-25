@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Wanngorde Firefox: Maantore ɓurorɗe kala ɗo jahɗaa
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Maantore ɓurorɗe kala ɗo jahɗaa
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Yuɓɓitin maantore maa no weeɓiri nder runngere kadi yettoɗe e kaɓirɗi maa, ummoraade e ordinateer faade e cinndel.
 features-bookmarks-better-bookmarks = Maantore ɓurorɗe

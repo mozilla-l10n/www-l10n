@@ -42,5 +42,5 @@ firefox-channel-get-a-sneak-peek-at-our = Weddo yitere adannde e wanngorde amen 
 firefox-channel-test-brand-new-features = Ƴeewndo fannuuji kesi pul ñalawma fof (walla…jamma fof). Dakmito kono yuɓɓaani tawo.
 firefox-channel-try-new-features-in-a-pre-release = Eto Fannuuji Kesi e Wanngorde { -brand-name-ios } nde bayyinaaka | { -brand-name-firefox }
 firefox-channel-test-flight = { -brand-name-test-flight }
-firefox-channel-test-beta-versions-of-firefox-ios = Ƴeewndo jame betaa { -brand-name-firefox } mo { -brand-name-ios } rewde e njuɓɓudi { -brand-name-test-flight }.
+firefox-channel-test-beta-versions-of-firefox-ios = Ƴeewndo jame betaa { -brand-name-firefox } mo { -brand-name-ios } { -brand-name-apple } e njuɓɓudi { -brand-name-test-flight }.
 firefox-channel-sign-up-now = Winndito jooni

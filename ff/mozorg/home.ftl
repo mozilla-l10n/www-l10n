@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -18,7 +18,7 @@ home-read-our-internet-health-report = Tar Ciimtol Cellal Enternet amen
 home-our-innovations = Pente amen
 home-using-the-web-as-the-platform = Huutoraade dinndeere geese ndee, min mahat teknologiije udditiiɗe, pentiyaŋkooje ballooji topayɓe gollaade tawa ena ndimɗi e juɓɓe faggino uddiiɗe, tee cosa dawte geese ɓurɗe yaawde, hisde ɗe yimɓe fof ndenndi.
 home-virtual-reality-platform = Dinndeere Goonga Ɗuwtuɗo
-home-common-voice = Daande Wootere
+home-common-voice = { -brand-name-common-voice }
 home-extensions = Timmitte
 home-careers = Golluuje
 home-learn-about-the-benefits-of = Humpito baɗte ɓure gollaade to { -brand-name-mozilla } tee njiyaa liggeyaji goodɗi e jookli winndere ndee.
