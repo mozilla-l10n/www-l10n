@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
@@ -16,7 +16,7 @@ compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } aband
 compare-ie-here-well-compare-our-firefox = Velaquí compararemos o noso { -brand-name-firefox-browser } co { -brand-name-ie } en termos de seguridade, utilidade e portabilidade. Axudarémosche a comprender as diferenzas entre como un navegador moderno como { -brand-name-firefox } que se axusta aos estándares web se compara cun navegador que se usa con fins comerciais ou porque os vellos costumes son difíciles de quitar.
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
-compare-ie-if-you-havent-moved-on-from-using = Se non deixaches de utilizar o { -brand-name-ie }, o factor de risco de seguridade debería ser abondo para te convencer. O propio responsábel de seguridade da propia { -brand-name-microsoft } alertou a </a> millóns de persoas que seguen a usar o { -brand-name-ie } como navegador web principal que se están a pór en risco.
+compare-ie-if-you-havent-moved-on-from-using = Se non deixaches de utilizar o { -brand-name-ie }, o factor de risco de seguridade debería ser abondo para te convencer. O propio responsábel de seguridade da propia <a { $attrs }>{ -brand-name-microsoft } alertou a </a> millóns de persoas que seguen a usar o { -brand-name-ie } como navegador web principal que se están a pór en risco.
 compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } xa non está a asegurar o desenvolvemento de novas funcionalidades para o  { -brand-name-ie }, o que significa que as preocupacións coa seguridade son enormes. { -brand-name-microsoft } recoñece abertamente o feito de existiren vulnerabilidades en basicamente todas as versións do { -brand-name-ie }.
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/legacy-browser-support-extension-windows with additional attributes for analytics
