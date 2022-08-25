@@ -34,7 +34,7 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } oreko ta
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
-misinformation-firefox-keeps-trackers-desc = Oje’éma haguéicha, tapykueho ha’e tuicháva marandu vai ñemyasãirã. <a href="{ $firefox }">Pe { -brand-name-firefox } jepuru</a> <a href="{ $protection } ndive">ñemo’ã iporãvéva tapykuehoha rovake</a> oipytyvõ ojokóvo tapykuehoha mbohapyháva heta ñemurã myasãiha ha ambue mba’apohaguasu ijypykue rupi eikundahakuévo ñandutípe, ha péicha erekóta ndejehe mba’ekuaarã ñandutigua.
+misinformation-firefox-keeps-trackers-desc = Oje’éma haguéicha, tapykueho ha’e tuicháva marandu vai ñemyasãirã. <a href="{ $firefox }">Pe { -brand-name-firefox }</a> jepuru <a href="{ $protection }"> ndive ñemo’ã iporãvéva tapykuehoha rovake</a> oipytyvõ ojokóvo tapykuehoha mbohapyháva heta ñemurã myasãiha ha ambue mba’apohaguasu ijypykue rupi eikundahakuévo ñandutípe, ha péicha erekóta ndejehe mba’ekuaarã ñandutigua.
 misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ipotĩ hag̃ua nde feeds ava ñandutieta:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
