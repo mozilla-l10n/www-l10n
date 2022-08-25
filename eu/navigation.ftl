@@ -5,7 +5,7 @@
 navigation-download-firefox = Deskargatu { -brand-name-firefox }
 navigation-get-a-firefox-account = Lortu { -brand-name-firefox-account } kontua
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } mahaigainekorako
-navigation-get-the-browser-that-respects = Eskuratu pribatutasuna automatikoki errespetatzen duen nabigatzailea. { -brand-name-windows }, macOs edo { -brand-name-linux }erako.
+navigation-get-the-browser-that-respects = Eskuratu pribatutasuna automatikoki errespetatzen duen nabigatzailea. { -brand-name-windows }, { -brand-name-mac } edo { -brand-name-linux }erako.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } mugikorrerako
 navigation-take-speed-privacy-and = Eraman aldean abiadura, pribatutasuna eta lasaitasuna. { -brand-name-android } eta { -brand-name-ios }erako.
 navigation-download-for-ios = Deskargatu { -brand-name-ios }erako

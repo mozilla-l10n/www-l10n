@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -54,31 +54,6 @@ manifesto-an-internet-with-these = Ezaugarri hauek dituen Internet bat ez da jai
 manifesto-i-support-the-vision-of = Internet hobe eta osasuntsuago bati buruz @mozilla-k duen ikuspegiarekin bat egiten dut, eta zuk?
 manifesto-share-on-twitter = Zabaldu { -brand-name-twitter }-en
 manifesto-our-10-principles = <strong>Gure 10</strong> printzipioak
-manifesto-use-open-badges-to-share = Erabili Open Badges zure abilezia eta zaletasunak partekatzeko
-manifesto-explore-how-the-web-impacts = Ezagutu nola eragiten duen webak zientzian
-manifesto-learn-about-open-source = Ikasi iturburu irekiko kodea eta kazetaritzari buruz
-manifesto-read-about-open-internet = Irakurri interneteko politiken ekimen eta garapenei buruz
-manifesto-explore-how-to-help-keep = Deskubritu nola lagun dezakezun weba ireki mantentzen
-manifesto-see-how-the-web-can-connect = Ikusi nola konekta dezakeen webak mundua osasungintzara
-manifesto-explore-how-the-web-works = Ezagutu nola funtzionatzen duen webak
-manifesto-see-how-mozilla-works = Ikusi nola lan egiten duen { -brand-name-mozilla }k aurrena zure pribatutasuna jartzeko
-manifesto-read-about-developments = Irakurri pribatutasun eta datuen segurtasun arloan egindako garapenei buruz
-manifesto-learn-more-about-how-to = Ikasi nola babestu zure burua linean
-manifesto-use-these-free-tools-to = Erabili tresna libre hauek weba irakasteko
-manifesto-learn-about-creating-and = Ikasi weberako edukiak sortu eta zaintzen
-manifesto-add-new-voices-to-open = Gehitu ahots berriak kode irekiko teknologiari
-manifesto-set-your-do-not-track = Ezarri zure Do Not Track hobespena
-manifesto-understand-the-web-ecosystem = Ulertu web ekosistema
-manifesto-explore-how-open-practices = Deskubritu nola mantentzen duten praktika irekiek weba eskuragarri
-manifesto-learn-how-to-remix-content = Ikasi edukia nola nahastu zerbait berria lortzeko
-manifesto-learn-how-to-maximize = Ikasi nola areagotu webaren potentzial interaktiboa
-manifesto-participate-in-our-governance = Hartu parte gure gobernantza foroan
-manifesto-join-us-as-a-volunteer = Batu boluntario gisa
-manifesto-learn-how-to-collaborate = Ikasi linean nola lagundu
-manifesto-visualize-who-you-interact = Ikusi bisualki webean nola elkarreragiten duzun { -brand-name-lightbeam } erabiliz
-manifesto-learn-about-creating-web = Ikasi besteekin web baliabideak nola sortu
-manifesto-host-or-join-a-maker-party = Eman ostatu { -brand-name-maker-party } bati, edo hartu parte batean
-manifesto-learn-how-to-build-online = Ikasi nola sortu lineako parte hartze abileziak
 manifesto-read-the-entire-manifesto = Irakurri manifestu osoa
 manifesto-love-the-web = Web maite duzu?
 manifesto-get-the-mozilla-newsletter = Lortu { -brand-name-mozilla } berripapera eta lagundu guri bera irekia eta librea mantentzen.
@@ -89,11 +64,11 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } proiektua
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } proiektuak komunitatean oinarritutako metodoa erabiltzen du mundu mailako iturburu irekiko softwarea sortu eta elkarlan-jarduera mota berriak garatzeko. Internet-esperientzia guztiontzat hobea egiteko konpromisoa duten pertsonez osatutako komunitateak sortzen ditugu.
 manifesto-details-as-a-result-of = Esfortzu horien ondorioz, printzipio batzuk garatu ditugu eta gure ustez, funtsezkoak dira Internet onura publikoaren zein bizitzaren aspektu komertzialen mesederako izaten jarraitzeko. Printzipio horiek beherago zerrendatu ditugu.
 manifesto-details-the-goals-for = Manifestu honen helburuak ondorengoak dira:
-manifesto-details-articulate-a-vision = { -brand-name-mozilla }ko parte-hartzaileek { -brand-name-mozilla } Fundazioak jarraitzea nahi duten Interneten ikuspegia zehaztea;
+manifesto-details-articulate-a-vision = { -brand-name-mozilla }ko parte-hartzaileek { -brand-name-mozilla-foundation }jarraitzea nahi duten Interneten ikuspegia zehaztea;
 manifesto-details-speak-to-people = Jendearekin komunikatu ahal izatea, jakintza teknikoa izan edo ez;
 manifesto-details-make-mozilla-contributors = { -brand-name-mozilla }ko laguntzaileak egiten ari garenaz harro egotea lortzea eta horrek jarraitzera motiba gaitzan; eta
 manifesto-details-provide-a-framework = Abiapuntu bat zehaztea beste batzuek Interneten ikuspegi hau garatzen jarrai dezaten.
-manifesto-details-these-principles = Printzipio horiek ez dira berez gauzatuko. Internet irekia eta parte-hartzailea egiteko, ezinbestekoak dira pertsonak; norbanako gisa ekiten, elkarrekin talde-lanean jarduten, eta besteen gidari dabiltzan pertsonak. { -brand-name-mozilla } Fundazioak hartua du konpromisoa { -brand-name-mozilla } Manifestuan zehaztutako printzipioak aurrera eramateko. Mundu guztiari gonbidapena luzatzen diogu gurekin elkartu eta, modu horretan, Internet oraindik eta toki hobea egiteko denontzat.
+manifesto-details-these-principles = Printzipio horiek ez dira berez gauzatuko. Internet irekia eta parte-hartzailea egiteko, ezinbestekoak dira pertsonak; norbanako gisa ekiten, elkarrekin talde-lanean jarduten, eta besteen gidari dabiltzan pertsonak. { -brand-name-mozilla-foundation } hartua du konpromisoa { -brand-name-mozilla } Manifestuan zehaztutako printzipioak aurrera eramateko. Mundu guztiari gonbidapena luzatzen diogu gurekin elkartu eta, modu horretan, Internet oraindik eta toki hobea egiteko denontzat.
 manifesto-details-principles = Printzipioak
 manifesto-details-the-internet-is-integral = Internet bizitza modernoaren osagai garrantzitsua da — osagai gakoa hezkuntzan, komunikazioan, elkarlanean, negozioetan, aisialdian eta gizartean oro har.
 manifesto-details-the-internet-is-global = Internet baliabide publiko globala da, eta irekia eta eskuragarria izaten jarraitu behar du.
@@ -107,13 +82,13 @@ manifesto-details-commercial-involvement = Interneten garapenean komertzialki er
 manifesto-details-magnifying-the = Interneten onura publikoaren alderdiak areagotzea helburu garrantzitsua da, eta merezi du denbora, arreta eta konpromisoa horretan inbertitzea.
 manifesto-details-advancing-the = { -brand-name-mozilla } Manifestua sustatzea
 manifesto-details-there-are-many = { -brand-name-mozilla } Manifestuaren printzipioak sustatzeko hainbat modu dago. Askotariko jarduerak baliatzen ditugu horretarako, eta proiektuaren beste eremuetan { -brand-name-mozilla }ko parte-hartzaileek erakutsi duten irudimena ongi etorria izango da. { -brand-name-mozilla } proiektuan zuzenean parte hartzen ez dutenentzat, bada Manifestuari atxikipena erakusteko modu sinple eta oso eraginkor bat: { -brand-name-mozilla } { -brand-name-firefox } eta, finean, Manifestua bere egiten duten produktuak erabiltzea.
-manifesto-details-mozilla-foundation = Mozilla Fundazioaren konpromisoa
-manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla } Fundazioak zin egiten du { -brand-name-mozilla } Manifestua eta bere jarduerak lagunduko dituela. Zehazki, ondorengoa egingo dugu:
+manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } konpromisoa
+manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } zin egiten du { -brand-name-mozilla } Manifestua eta bere jarduerak lagunduko dituela. Zehazki, ondorengoa egingo dugu:
 manifesto-details-build-and-enable = Manifestuaren printzipioetan laguntzen duten kode irekiko teknologiak eta komunitateak eraiki eta horiei bide eman;
 manifesto-details-build-and-deliver = Manifestuaren printzipioetan laguntzen duten kontsumorako produktu bikainak garatu eta banatu;
 manifesto-details-use-the-mozilla = { -brand-name-mozilla }ren aktiboak (jabetza intelektuala, hala nola copyright-ak, marka erregistratuak, azpiegitura, funtsak eta ospea) erabili Internet plataforma ireki gisa mantentzeko
 manifesto-details-promote-models = Onura publikorako balio ekonomikoa sortzeko modeloak sustatu; eta
 manifesto-details-promote-the-mozilla = { -brand-name-mozilla } Manifestuko printzipioak diskurtso publikoan eta Interneteko industrian sustatu.
-manifesto-details-some-foundation = Fundazioaren zenbait jarduera (kontsumitzaileentzako produktuen sorkuntza, banaketa eta promozioa, gaur-gaurkoz), Mozilla Fundazioaren jabetzakoa eta menpekoa den Mozilla Korporazioak bideratzen ditu batez ere.
+manifesto-details-some-foundation = Fundazioaren zenbait jarduera (kontsumitzaileentzako produktuen sorkuntza, banaketa eta promozioa, gaur-gaurkoz), { -brand-name-mozilla-foundation } jabetzakoa eta menpekoa den { -brand-name-mozilla-corporation } bideratzen ditu batez ere.
 manifesto-details-invitation = Gonbidapena
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }(e)k harekin bat egin eta Interneten ikuspegi hau gauzatzeko bide berriak bilatzeko gonbidapena luzatzen dio { -brand-name-mozilla } Manifestuko printzipioekin bat datorren orori.

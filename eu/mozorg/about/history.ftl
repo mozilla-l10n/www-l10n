@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = 2002an, <a href="{ $over90 }">Interneteko erabilt
 history-not-many-people-noticed = Garai hartan inor gutxi ohartu arren, Phoenix-en aurreneko bertsioa (geroago { -brand-name-firefox } izena hartuko zuena), urte hartan atera zuten { -brand-name-mozilla } komunitateko kideek, helburu gisa jende multzo ahalik eta zabalenari <a href="{ $charter }">ahalik eta nabigatze-esperientzia onena</a> eskaintzea zuelarik.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = 2003an, { -brand-name-mozilla } proiektuak { -brand-name-mozilla } Fundazioa sortu zuen, dohaintza-emaile indibidualek eta konpainia ugarik sostengatutako <a href="{ $foundation }">irabazi-asmorik gabeko erakunde independentea</a>.
+history-in-2003-the-mozilla-project = 2003an, { -brand-name-mozilla } proiektuak { -brand-name-mozilla-foundation } sortu zuen, dohaintza-emaile indibidualek eta konpainia ugarik sostengatutako <a href="{ $foundation }">irabazi-asmorik gabeko erakunde independentea</a>.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = Mozilla fundazio jaioberriak proiektuaren eguneroko operazioak kudeatzeko lanean jarraitu zuen, eta berak hartu zuen ofizialki Interneten <a href="{ $manifesto }">irekitasuna, innobazioa eta aukera</a> sustatzeko zeregina ere.
+history-the-new-mozilla-foundation = { -brand-name-mozilla-foundation } jaioberriak proiektuaren eguneroko operazioak kudeatzeko lanean jarraitu zuen, eta berak hartu zuen ofizialki Interneten <a href="{ $manifesto }">irekitasuna, innobazioa eta aukera</a> sustatzeko zeregina ere.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Hau egiteko bidean softwarea atera zuen, hala nola { -brand-name-firefox } eta { -brand-name-thunderbird }, eta esparru berrietara hedatu zen, esaterako Webean irisgarritasunerako hobekuntzak sostengatzeko <a href="{ $grants }">diru-laguntzak</a> emanez.

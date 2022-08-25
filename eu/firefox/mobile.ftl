@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Deskargatu Firefox nabigatzailea mugikorretik { -brand-name-ios } eta { -brand-name-android }erako
-firefox-mobile-firefox-browser-for-mobile = Mugikorrerako Firefox nabigatzaileak 2000 jarraipen-elementutik gora blokeatzen ditu hasieratik, merezi duzun pribatutasuna eta mugikorrerako nabigatzaile pribatu batean behar duzun abiadura eskainiz.
+firefox-mobile-download-the-firefox-browser = Deskargatu { -brand-name-firefox-browser } mugikorretik { -brand-name-ios } eta { -brand-name-android }erako
+firefox-mobile-firefox-browser-for-mobile = Mugikorrerako { -brand-name-firefox-browser } 2000 jarraipen-elementutik gora blokeatzen ditu hasieratik, merezi duzun pribatutasuna eta mugikorrerako nabigatzaile pribatu batean behar duzun abiadura eskainiz.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Eskuratu zuretzako (ez iragarleentzako) eraikitako nabigatzaile mugikorra
