@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Brabhsálaí Firefox: Níos lú cuimhne, níos mó luais
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Níos lú cuimhne, níos mó luais
 # HTML page description
 features-memory-is-your-computer-slow-your = An bhfuil do ríomhaire mall? Seans go bhfuil do bhrabhsálaí ag úsáid an iomarca cuimhne. Athraigh go { -brand-name-firefox } agus brabhsáil ar luas lasrach.
 features-memory-less-memory-usage-than-chrome = Úsáideann sé níos lú cuimhne ná { -brand-name-chrome }

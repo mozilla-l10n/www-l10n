@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-your-email-here = DO SHEOLADH RÍOMHPHOIST
 newsletter-form-format = Formáid
@@ -15,7 +15,7 @@ newsletter-form-if-you-havent-previously = Murar dheimhnigh tú do shíntiús le
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> agus Tusa
 newsletter-form-get-firefox-tips = Leideanna { -brand-name-firefox }, cleasa, nuacht, agus tuilleadh
 newsletter-form-keep-up-with = Bí ar an eolas<br> faoi { -brand-name-firefox }.
-newsletter-form-get-mozilla-updates = Faigh nuacht ó Mhozilla
+newsletter-form-get-mozilla-updates = Faigh nuacht ó { -brand-name-mozilla }
 newsletter-form-available-languages = Teangacha
 newsletter-form-select-country = Roghnaigh tír
 newsletter-form-sign-me-up = Ba mhaith liom clárú

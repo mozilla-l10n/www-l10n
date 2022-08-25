@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Brabhsálaí Firefox: Leabharmharcanna níos fearr cibé áit a rachaidh tú
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Leabharmharcanna níos fearr cibé áit a rachaidh tú
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Tá sé an-éasca do chuid leabharmharcanna a eagrú i bhfillteáin agus teacht orthu ar do ríomhaire agus ar ghléasanna soghluaiste.
 features-bookmarks-better-bookmarks = Leabharmharcanna níos fearr

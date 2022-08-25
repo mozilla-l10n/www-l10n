@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Íoslódáil anois
 download-button-free-download = Íoslódáil Saor in Aisce
@@ -27,7 +27,7 @@ download-button-app-store = Saor in aisce ón { -brand-name-app-store }
 download-button-download-app-store = Íoslódáil ón { -brand-name-app-store }
 download-button-download-firefox = Íoslódáil { -brand-name-firefox }
 download-button-your-system-may = Tá seans maith ann nach dtagann do chóras le riachtanais { -brand-name-firefox }; bain triail as ceann de na leaganacha éagsúla seo:
-download-button-firefox-beta-android = <span>Firefox Béite</span> ar { -brand-name-android }
+download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> ar { -brand-name-android }
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> ar { -brand-name-android }
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> ar { -brand-name-android }
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> ar { -brand-name-android }

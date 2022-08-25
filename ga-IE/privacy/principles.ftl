@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/principles/
@@ -11,7 +11,7 @@ privacy-principles-data-privacy-principles = Bunphrionsabail Phríobháideachais
 privacy-principles-mozilla-is-an-open-source = Is togra foinse oscailte é { -brand-name-mozilla }, agus an misean atá againn ná feabhas a chur ar do shaol ar líne. Is é an misean seo atá taobh thiar dár bprionsabail phríobháideachais.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
-privacy-principles-the-following-five-principles = Tagann na cúig phrionsabal seo a leanas as <a href="{ $link }">Forógra Mhozilla</a> agus imríonn siad tionchar ar an gcaoi:
+privacy-principles-the-following-five-principles = Tagann na cúig phrionsabal seo a leanas as <a href="{ $link }">Forógra { -brand-name-mozilla }</a> agus imríonn siad tionchar ar an gcaoi:
 privacy-principles-develop-our-products = a bhforbraímid ár gcuid táirgí agus seirbhísí
 privacy-principles-manage-user-data-we-collect = a rialaímid na sonraí a bhailímid ó úsáideoirí
 privacy-principles-select-and-interact-with = a roghnaímid comhpháirtithe agus a bhforbraímid caidreamh leo
