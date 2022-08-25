@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
@@ -25,7 +25,7 @@ firefox-browsers-join-firefox-and-get-the-most = Tawtu { -brand-name-firefox } n
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Aɗa jogii konte kisa? <a { $fxa_attr }<Seŋo</a> walla <a { $accounts_attr }>ɓeydu humpito</a>baɗte tawtugol Firefox.
+firefox-browsers-already-have-an-account-sign = Aɗa jogii konte kisa? <a { $fxa_attr }>Seŋo</a> walla <a { $accounts_attr }>ɓeydu humpito</a>baɗte tawtugol Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
