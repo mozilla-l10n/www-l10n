@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
@@ -25,7 +25,7 @@ compare-edge-at-firefox-we-pride-ourselves = { -brand-name-firefox }-pe, ore <a 
 compare-edge-at-firefox-our-privacy-fallback = { -brand-name-firefox }-pe, ore <a { $attrs }>ñemigua purureko</a> hesakã ha ojehai ñeikumbyrãicha. Upévavare, romba’apo heta hasy’ỹ hag̃uáicha iñemoñe’ẽ. Rojeguerovu romo’ãre tekorosã ha ñemigua ore puruhára rehegua. Pe ñemo’ã tapykuehoha iporãvéva rovake, ko’ág̃a hendýva ijypykue rupi, rojokóma hetave 2.000 tapykuehoha ijeheguiete. Tapykuehohakuéra ha’e umi ayvu pehengue’i ombyatyséva ejapóva heta ñanduti rendápe omoheñói hag̃ua peteĩ ta’ãnga ijetu’úva ha imba’emimi nemba’etéva, ombyaikuaáva ne ñemigua, nembo’ekuaáva marandu ñemurã iporãve hag̃uáicha.
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
-compare-edge-your-privacy-protections-shows = Nde { $attrs }>Ñemigua ñemo’ã</a> ohechauka umi tapykuehoha ha kookie kuatiaroguekuéra ohejaséva, ha mboýpa ojokóra’e { -brand-name-firefox }.
+compare-edge-your-privacy-protections-shows = Nde <a { $attrs }>Ñemigua ñemo’ã</a> ohechauka umi tapykuehoha ha kookie kuatiaroguekuéra ohejaséva, ha mboýpa ojokóra’e { -brand-name-firefox }.
 # "InPrivate" is a brand name.
 compare-edge-in-firefox-private-browsing = { -brand-name-firefox }-pe, kundahára ñemigua reko ombogue ijehegui ne marandu kundaha rehegua taha’e ñe’ẽñemi, kookie ha tembiasakue, oheja’ỹre tapykuere emboty rire ne rembiapo. { -brand-name-edge }, ambueháicha, oñongatu pe kundaha rembiasakue heko ñemiguáva (hérava “InPrivate”) ha ha’e tembiapo hasy’ỹva ijapo ne kundaha rembiasakue tuichaháicha, taha’e ne kundaha ejapópa heko tapiagua térã InPrivate rekópe.
 compare-edge-both-browsers-are-relatively = Mokõivéva kundahára ojuehegua nunga imba’ekuaarã papapýpe. Upéicharamo jepe, pe ñemigua ha tesakã ñandutípe tuicha mba’érõ ndéve g̃uarã, upéicharõ { -brand-name-firefox } ha’e nemba’erã.

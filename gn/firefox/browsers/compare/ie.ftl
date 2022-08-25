@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
@@ -31,7 +31,7 @@ compare-ie-really-the-only-reasons-to-use = Jahechávo, mba’érepa jaipuru { -
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 #   $products (string) - link to /firefox/products/ with additional attributes for analytics
-compare-ie-on-the-other-end-of-the-spectrum = Pe ambue apýra gotyo, { -brand-name-firefox } ha’e peteĩva kundahára ojepuruvéva, ha henyhẽma hetaitereichagua jepurupyrã oikoitéva, <a { $pocket }{ -brand-name-pocket }</a> ichagua oguerekóva tetepy ojehayhúva eikévo peteĩteĩva tendayke ipyahúvape. Ore jeheka juajupyre ha pe ñanduti kundaharape renda, térã <em>Tenda iporãva</em> rohenoiháicha, avei ome’ẽ ñe’ẽporã hekóva nde techaukaha ha teramoĩ oĩmava, tembiasakue, tendayke ijurujáva ha ojehekavéva. Ha peteĩ mba’ete reigua { -brand-name-firefox } mba’éva eike hag̃ua opaite ne ñembohekópe ha avei <a { $products }ambue { -brand-name-firefox } apopyrépe</a> oimeraẽva mba’e’okápe emoñepyrũvo tembiapo. Avei, eikuaávo ne kundahára omba’apo añeteha omo’ã hag̃ua ne mba’ekuaarã teetéva.
+compare-ie-on-the-other-end-of-the-spectrum = Pe ambue apýra gotyo, { -brand-name-firefox } ha’e peteĩva kundahára ojepuruvéva, ha henyhẽma hetaitereichagua jepurupyrã oikoitéva, <a { $pocket }>{ -brand-name-pocket }</a> ichagua oguerekóva tetepy ojehayhúva eikévo peteĩteĩva tendayke ipyahúvape. Ore jeheka juajupyre ha pe ñanduti kundaharape renda, térã <em>Tenda iporãva</em> rohenoiháicha, avei ome’ẽ ñe’ẽporã hekóva nde techaukaha ha teramoĩ oĩmava, tembiasakue, tendayke ijurujáva ha ojehekavéva. Ha peteĩ mba’ete reigua { -brand-name-firefox } mba’éva eike hag̃ua opaite ne ñembohekópe ha avei <a { $products }>ambue { -brand-name-firefox } apopyrépe</a> oimeraẽva mba’e’okápe emoñepyrũvo tembiapo. Avei, eikuaávo ne kundahára omba’apo añeteha omo’ã hag̃ua ne mba’ekuaarã teetéva.
 # Variables:
 #   $pocket (string) - link to /firefox/pocket/ with additional attributes for analytics
 #   $products (string) - link to /firefox/products/ with additional attributes for analytics

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } ojuavy umi amb
 compare-brave-the-internet-as-a-whole-is = Ñanduti tuichaháicha ohepyme’ẽ marandu ñemurã rupive, omoneĩva ehecha hag̃ua tetepy reiete. { -brand-name-brave } omoambuese koichagua omoakãrakúvo puruharakuérape oiporavóvo pe jopói { -brand-name-brave } ome’ẽva, ha’éva marandu ñemurã imba’evavoi. Peteĩ puruhára oñemboheraguapy vove, { -brand-name-brave } ohechauka ha’ekuéra ohenóiva “marandu’i ipoyhúva ñemigua” ikatúva ehecha ha hendive eganáta ha’ekuéra ohenóiva peteĩ token kyhyjerã, avei ojekuaáva BAT-ramo. Ko’a guive, umi puruhára { -brand-name-brave } pegua ikatu oipuru BAT oykeko hag̃ua tendakuéra térã tapichakuéra ohayhúva, avei omoambuekuaáva umi BAT viru añetetépe.
 compare-brave-whether-this-sounds-complicated = Kóva hasýramo téra mba’e iporãva, ikatu oñembojoja pe mba’epochy eguerekóva marandu oñemoha’ãngáva ñandutípe rehe. Heta umi puruhára ñandutigua ohechakuaa pe tetepy iporãramo hepyha ha upévare ojehechaporã pe viru ouha maranduñemurãgui.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Embojerévo viru’atã, kundahára { -brand-name-firefox } ndive, roguerekose mba’ekuéra hasy’ỹre. { -brand-name-firefox } ojoko ijypykue rupi heta tapykuehoha mbohapyháva, criptominero ha ñemokuã hũ rapykuehoha ani hag̃ua nde rapykueho. Upéicharamo jepe, { -brand-name-firefox }, okágui kundahára ñemigua ayvúgui, oiporavo ndjokóivo umi marandu osẽvo mba’erechahápe. He’iséva, neremohendái mba’érõ <a { $attrs }>peteĩva umi jepysokue ojejapóva pevarãitevoi</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -38,7 +38,7 @@ compare-brave-in-terms-of-actual-precious = Pe RAM mandu’arenda, { -brand-name
 #   $addons - link to addons.mozilla.org/firefox/ with additional attributes for analytics
 #   $screenshot - link to screenshots.firefox.com with additional attributes for analytics
 #   $pocket - link to getpocket.com with additional attributes for analytics
-compare-brave-customization-of-ui-elements = Pe mba’epuru ñemboava ha puruhára rechaha téma ha’e umi puruhára ohecharamovéva { -brand-name-firefox } rehegua heta arýma ha ore mboguatahára rekoha omoheñóima <a { $addons }>arandukarenda tuicháva</a> moĩmbaha ha jepysokue ijayvu jurujáva omoneĩva ñemboava ha tembiapoite tuicháva. Tembiapoite oumavoi { -brand-name-firefox } ndive emboguejývo oĩhápe ore <a { $screenshot }>tembipuru japyhyha</a> imbaretéva, tembiapoite jeikekuaaha ha <a { $pocket }{ -brand-name-pocket }</a> ndivegua, mba’eita omoneĩva puruhárape oñongatúvo pya’e jehaipyre omoñe’ẽkuaáva uperire oimeraẽva mba’e’okápe.
+compare-brave-customization-of-ui-elements = Pe mba’epuru ñemboava ha puruhára rechaha téma ha’e umi puruhára ohecharamovéva { -brand-name-firefox } rehegua heta arýma ha ore mboguatahára rekoha omoheñóima <a { $addons }>arandukarenda tuicháva</a> moĩmbaha ha jepysokue ijayvu jurujáva omoneĩva ñemboava ha tembiapoite tuicháva. Tembiapoite oumavoi { -brand-name-firefox } ndive emboguejývo oĩhápe ore <a { $screenshot }>tembipuru japyhyha</a> imbaretéva, tembiapoite jeikekuaaha ha <a { $pocket }>{ -brand-name-pocket }</a> ndivegua, mba’eita omoneĩva puruhárape oñongatúvo pya’e jehaipyre omoñe’ẽkuaáva uperire oimeraẽva mba’e’okápe.
 compare-brave-brave-also-supports-the-huge = { -brand-name-brave } avei ojokupyty arandukarenda jepysokue ojepurukuaáva ñandutirenda ñemuhápe { -brand-name-google } { -brand-name-chrome } ha ome’ẽkuaa heta tembiapoite kundahárape pe oje’epyre { -brand-name-brave } Tembiaporape jopoiguáva ha pytyvõ emboguejy hag̃ua torrents kundahárape.
 compare-brave-the-ability-to-sync-your-passwords = Pe ñembojuehe jejapokuaa ñe’ẽñemi, jepysokue, myanyhẽha mba’ekuaarã, moĩmbaha ha ambue erohoryvéva opa mba’e’oka ha apopyvusu oku’éva ha’e peteĩchagua ojepurukuaáva heta ary { -brand-name-firefox } ndive. Umi mba’ekuaarã mbojuehepyre avei oñembopapapy, he’iséva ndaikatuiha avave oike pype oka guive.
 # Variables:
