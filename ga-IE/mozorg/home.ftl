@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -17,4 +17,4 @@ home-virtual-reality-platform = Ardán don Réaltacht Fhíorúil
 home-careers = Gairmeacha
 home-learn-about-the-benefits-of = Na buntáistí a bhaineann le post in { -brand-name-mozilla }, agus liosta de na folúntais atá againn faoi láthair, timpeall an domhain.
 home-need-help = Cabhair uait?
-home-get-answers-to-your-questions = Tabharfaidh ár bhfoireann tacaíochta freagra ar do cheisteanna faoi { -brand-name-firefox } agus faoi na táirgí eile atá againn.
+home-get-answers-to-your-questions = Tabharfaidh ár bhfoireann tacaíochta freagra ar do cheisteanna faoi { -brand-name-firefox } agus agus táirgí eile { -brand-name-mozilla }.

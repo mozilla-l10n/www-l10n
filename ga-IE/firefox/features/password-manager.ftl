@@ -8,19 +8,19 @@
 # HTML page title
 password-manager-firefox-browser = { -brand-name-firefox-browser }: Bainisteoir na bhFocal Faire
 # HTML page description
-password-manager-firefox-password = Sábhálann Bainisteoir na bhFocal Faire gach focal faire atá agat in áit amháin, sa chaoi go mbeidh tú ábalta logáil isteach i suímh go huathoibríoch.
+password-manager-firefox-password = Sábhálann Bainisteoir na bhFocal Faire { -brand-name-firefox } gach focal faire atá agat in áit amháin, sa chaoi go mbeidh tú ábalta logáil isteach i suímh go huathoibríoch.
 # Hero title
 password-manager-password-manager = Bainisteoir na bhFocal Faire: sprioc bainte amach
-password-manager-give-up-the-memory = Ní gá duit an cluiche cuimhne a imirt a thuilleadh le Bainisteoir na bhFocal Faire.
+password-manager-give-up-the-memory = Ní gá duit an cluiche cuimhne a imirt a thuilleadh le Bainisteoir na bhFocal Faire { -brand-name-firefox }.
 password-manager-password-hero = Laoch na bhfocal faire
 # Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
-password-manager-forget-the-reset = Ná bac leis an athshocrú. Coinníonn Bainisteoir na bhFocal Faire gach focal faire atá agat in áit amháin, sa chaoi go mbeidh tú in ann logáil isteach go huathoibríoch. Nó, úsáid <a href="{ $url }">Príomhfhocal Faire</a> chun slándáil níos fearr a fháil.
+password-manager-forget-the-reset = Ná bac leis an athshocrú. Coinníonn Bainisteoir na bhFocal Faire { -brand-name-firefox } gach focal faire atá agat in áit amháin, sa chaoi go mbeidh tú in ann logáil isteach go huathoibríoch. Nó, úsáid <a href="{ $url }">Príomhfhocal Faire</a> chun slándáil níos fearr a fháil.
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Saoi na bhfocal faire
-password-manager-no-more-try-again = Ná lig don “focal faire mícheart” cur isteach ort nuair atá tú ag iarraidh logáil isteach. Má tá tú logáilte isteach i do Chuntas Firefox ar do ghuthán, beidh do chuid focal faire go léir leat i gcónaí.
+password-manager-no-more-try-again = Ná lig don “focal faire mícheart” cur isteach ort nuair atá tú ag iarraidh logáil isteach. Má tá tú logáilte isteach i do Chuntas { -brand-name-firefox-account } ar do ghuthán, beidh do chuid focal faire go léir leat i gcónaí.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Máistir na bhfocal faire

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -19,19 +19,6 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 manifesto-our-10-principles = Na <strong>10</strong> bPrionsabal
-manifesto-use-open-badges-to-share = Úsáid Suaitheantais Oscailte chun do chuid scileanna agus suimeanna a léiriú
-manifesto-learn-about-open-source = Foghlaim faoi fhoinse oscailte agus an iriseoireacht
-manifesto-see-how-mozilla-works = Conas a chuireann { -brand-name-mozilla } do phríobháideachas chun tosaigh
-manifesto-read-about-developments = Léigh faoi na forbairtí is déanaí i gcúrsaí príobháideachais agus slándála
-manifesto-learn-more-about-how-to = Foghlaim conas is féidir thú féin a chosaint ar líne
-manifesto-add-new-voices-to-open = Cuir fáilte roimh dhaoine nua i saol na foinse oscailte
-manifesto-set-your-do-not-track = Socruithe a bhaineann leis an Lorgaireacht
-manifesto-learn-how-to-remix-content = Foghlaim conas is féidir ábhar a athmheascadh chun rudaí nua a chruthú
-manifesto-participate-in-our-governance = Glac páirt inár bhfóram rialachais
-manifesto-join-us-as-a-volunteer = Glac páirt mar shaorálaí
-manifesto-learn-how-to-collaborate = Foghlaim faoi chomhoibriú ar líne
-manifesto-host-or-join-a-maker-party = Glac páirt i gCóisir Déantóireachta, nó bí i d'óstach
-manifesto-learn-how-to-build-online = Scileanna comhoibrithe ar líne a fhobairt
 manifesto-read-the-entire-manifesto = Léigh an forógra iomlán
 manifesto-details-the-mozilla-manifesto = Forógra { -brand-name-mozilla }
 manifesto-details-introduction = Réamhrá
@@ -40,11 +27,11 @@ manifesto-details-the-mozilla-project-global = Is éard atá i dtionscadal { -br
 manifesto-details-the-mozilla-project-community = Baineann tionscadal { -brand-name-mozilla } úsáid as cur chuige pobalbhunaithe chun bogearraí den chéad scoth a chruthú agus chun gníomhaíochtaí comhoibríocha a fhorbairt. Cruthaímid comhphobail atá ag iarraidh feabhas a chur ar an Idirlíon ar ár son uilig.
 manifesto-details-as-a-result-of = De thoradh na n-iarrachtaí seo, táimid tar éis liosta prionsabal a leagan amach, prionsabail atá fíorthábhachtach do thodhchaí an Idirlín mar acmhainn a dhéanann leas don phobal agus don saol gnó chomh maith. Leagaimid na prionsabail seo amach thíos.
 manifesto-details-the-goals-for = Seo iad aidhmeanna an Fhorógra:
-manifesto-details-articulate-a-vision = fís don Idirlíon a leagan amach, fís a dtacaíonn rannpháirtithe { -brand-name-mozilla } léi agus ceann a n-oibreoidh Fondúireacht Mhozilla ina threo;
+manifesto-details-articulate-a-vision = fís don Idirlíon a leagan amach, fís a dtacaíonn rannpháirtithe { -brand-name-mozilla } léi agus ceann a n-oibreoidh { -brand-name-mozilla-foundation } ina threo;
 manifesto-details-speak-to-people = gach duine a spreagadh, beag beann ar a c(h)úlra sa teicneolaíocht;
 manifesto-details-make-mozilla-contributors = bród a chothú i rannpháirtithe { -brand-name-mozilla } as an obair atá á déanamh againn; agus
 manifesto-details-provide-a-framework = creatlach oibre a thabhairt do dhaoine chun an fhís seo a chur chun cinn.
-manifesto-details-these-principles = Ní thiocfaidh na prionsabail seo chun beatha ina n-aonar. Daoine amháin atá in ann an tIdirlíon a choinneáil oscailte agus daonlathach — daoine ina n-aonar, daoine ag obair i ngrúpaí, agus daoine ag spreagadh daoine eile. Tá Fondúireacht Mhozilla go hiomlán tugtha do na prionsabail atá leagtha amach i bhForógra { -brand-name-mozilla }. Fearaimid fáilte roimh éinne atá ag iarraidh obair a dhéanamh linn chun feabhas a chur ar an Idirlíon.
+manifesto-details-these-principles = Ní thiocfaidh na prionsabail seo chun beatha ina n-aonar. Daoine amháin atá in ann an tIdirlíon a choinneáil oscailte agus daonlathach — daoine ina n-aonar, daoine ag obair i ngrúpaí, agus daoine ag spreagadh daoine eile. Tá { -brand-name-mozilla-foundation } go hiomlán tugtha do na prionsabail atá leagtha amach i bhForógra { -brand-name-mozilla }. Fearaimid fáilte roimh éinne atá ag iarraidh obair a dhéanamh linn chun feabhas a chur ar an Idirlíon.
 manifesto-details-principles = Prionsabail
 manifesto-details-the-internet-is-integral = Is cuid bhunúsach den saol sa lá atá inniu é an tIdirlíon — imríonn sé ról fíorthábhachtach i gcúrsaí oideachais, cumarsáide, gnó, siamsaíochta, agus sa sochaí go ginearálta.
 manifesto-details-the-internet-is-global = Is acmhainn phoiblí dhomhanda é an tIdirlíon. Caithfear é a choinneáil oscailte agus ar fáil do chách.
@@ -58,13 +45,13 @@ manifesto-details-commercial-involvement = Baineann go leor buntáistí le comhl
 manifesto-details-magnifying-the = Is sprioc thábhachtach é aird a tharraingt ar na bealaí a chuireann an tIdirlíon leas an phobail chun cinn, agus is fiú am, fuinneamh, agus dua a chaitheamh leis.
 manifesto-details-advancing-the = Forógra { -brand-name-mozilla } a chur chun cinn
 manifesto-details-there-are-many = Tá go leor bealaí ann chun prionsabail an Fhorógra a chur chun cinn. Fearaimid fáilte roimh réimse leathan gníomhaíochtaí, agus táimid ag súil leis an leibhéal céanna cruthaitheachta atá léirithe ag rannpháirtithe { -brand-name-mozilla } i gcodanna eile den tionscadal. Is féidir le haon duine prionsabail an Fhorógra a thacú, fiú daoine nach bhfuil ceangal láidir acu le { -brand-name-mozilla }, trí { -brand-name-firefox } agus táirgí eile a chuimsíonn na prionsabail seo a úsáid.
-manifesto-details-mozilla-foundation = Gealltanas Fhondúireacht Mhozilla
-manifesto-details-the-mozilla-foundation-pleges = Geallann Fondúireacht Mhozilla go dtacóidh sé le Forógra Mhozilla. Le bheith cruinn faoi:
+manifesto-details-mozilla-foundation = Gealltanas { -brand-name-mozilla-foundation }
+manifesto-details-the-mozilla-foundation-pleges = Geallann { -brand-name-mozilla-foundation } go dtacóidh sé le Forógra { -brand-name-mozilla }. Le bheith cruinn faoi:
 manifesto-details-build-and-enable = tógfaimid agus cumasóimid teicneolaíochtaí oscailte agus comhphobail a thacaíonn le prionsabail an Fhorógra;
 manifesto-details-build-and-deliver = tógfaimid agus scaipfimid táirgí iontacha a thacaíonn le prionsabail an Fhorógra;
 manifesto-details-use-the-mozilla = úsáidfimid sócmhainní { -brand-name-mozilla } (maoin intleachtúil, mar shampla cóipcheart agus trádmharcanna, infreastruchtúr, airgead, agus clú) chun an tIdirlíon a chosaint mar ardán oscailte;
 manifesto-details-promote-models = cuirfimid samhlacha a chruthaíonn luach eacnamaíoch chun cinn ar son leas an phobail; agus
-manifesto-details-promote-the-mozilla = cuirfimid prionsabail an Fhorógra chun cinn i ndioscúrsa poiblí agus i dtionscal an Idirlín.
-manifesto-details-some-foundation = Is é an { -brand-name-mozilla-corporation }, fochuideachta ar lánúinéireacht ag Fondúireacht Mhozilla, atá i gceannas ar roinnt gníomhaíochtaí de chuid na Fondúireachta — faoi láthair, forbairt, scaipeadh, agus margaíocht táirgí tomhaltais.
+manifesto-details-promote-the-mozilla = cuirfimid prionsabail an Forógra { -brand-name-mozilla } chun cinn i ndioscúrsa poiblí agus i dtionscal an Idirlín.
+manifesto-details-some-foundation = Is é an { -brand-name-mozilla-corporation }, fochuideachta ar lánúinéireacht ag { -brand-name-mozilla-foundation }, atá i gceannas ar roinnt gníomhaíochtaí de chuid na Fondúireachta — faoi láthair, forbairt, scaipeadh, agus margaíocht táirgí tomhaltais.
 manifesto-details-invitation = Cuireadh
-manifesto-details-the-mozilla-foundation-invites = Fearann Fondúireacht Mhozilla fáilte roimh aon duine a thacaíonn le prionsabail an Fhorógra chun obair a dhéanamh in éineacht linn, agus bealaí nua a aimsiú chun an fhís seo don Idirlíon a fhíorú.
+manifesto-details-the-mozilla-foundation-invites = Fearann { -brand-name-mozilla-foundation } fáilte roimh aon duine a thacaíonn le prionsabail an Forógra { -brand-name-mozilla } chun obair a dhéanamh in éineacht linn, agus bealaí nua a aimsiú chun an fhís seo don Idirlíon a fhíorú.

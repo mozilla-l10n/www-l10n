@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
-nightly-firstrun-firefox-nightly = Leathanach Fáilte: Firefox Laethúil
-nightly-firstrun-thank-you-for-using = Go raibh maith agat as Firefox Laethúil a úsáid
+nightly-firstrun-firefox-nightly = { -brand-name-firefox-nightly }: Firefox Laethúil
+nightly-firstrun-thank-you-for-using = Go raibh maith agat as { -brand-name-firefox-nightly } a úsáid
 nightly-firstrun-choose-an-area = Roghnaigh réimse thíos agus cabhraigh linn feabhas a chur ar { -brand-name-firefox } do chách
 nightly-firstrun-test = Tástáil
 nightly-firstrun-find-and-file-bugs = Aimsigh fabhtanna, déan tuairisc orthu, agus deimhnigh go bhfuil chuile rud i bhfearas.
