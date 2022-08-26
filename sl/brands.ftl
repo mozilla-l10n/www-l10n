@@ -210,6 +210,7 @@
         [mestnik] Bugzilli
         [orodnik] Bugzillo
     }
+-brand-name-glean = Glean
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-festival = Mozillin festival
