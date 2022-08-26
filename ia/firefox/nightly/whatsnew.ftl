@@ -28,4 +28,4 @@ nightly-whatsnew-want-to-know-which = Vole tu saper qual functiones tu poterea p
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Incontra tu crashes? Comportamento non expectate? Regressiones de compatibilitate del web? Nos adorarea haber iste problemas reportate in <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> pro evitar que illos permane in le edition final (punctos bonus si tu adde le parola clave <em>{ -brand-name-nightly }-community</em> a tu reportos de defecto)!
-nightly-whatsnew-go-community = Que nos va, communitate!
+nightly-whatsnew-go-community = Que vive le communitate!
