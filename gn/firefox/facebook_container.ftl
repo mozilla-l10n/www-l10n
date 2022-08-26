@@ -15,7 +15,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-facebook-container-visit-to-get-for-desktop = Eike <a href="{ $url }"></a> ereko hag̃ua { -brand-name-firefox } mohendahápe g̃uarã.
+facebook-container-visit-to-get-for-desktop = Eike <a href="{ $url }">{ $link_copy }</a> ereko hag̃ua { -brand-name-firefox } mohendahápe g̃uarã.
 # Outdated string
 facebook-container-the-facebook-container-extension = "{ -brand-name-facebook-container }" jepysokue ndaikatúi eipuru pumbyry oku’évape.
 facebook-container-get-firefox-android-ios = Emboguejy { -brand-name-firefox } { -brand-name-android } peg̃uarã ha { -brand-name-ios } ko’ág̃a.
