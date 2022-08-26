@@ -46,7 +46,7 @@ misinformation-surface-content-heading = { -brand-name-firefox } ne pytyvõta oh
 #   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
 #   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
 #   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Embojurujávo tendayke pyahu ne kundahára { -brand-name-firefox }, ehecháta jehaipyre <a href="{ $recommended }">oikuave’ẽva { -brand-name-pocket }</a>. { -brand-name-pocket } ndoipurúi mba’ekuaarã nde reheguáva oikuave’ẽ hag̃ua. Hendaguépe, umi jehaipyre oiporavo tapicha oipurúva pe tembipuru’i. Pe katupyry ojuhu hag̃ua tembiasakue pyahu, jehecha ha ñe’ẽngue ha’e mba’éichapa oñorairõta ani hag̃ua osẽ marandu japuguáva. Eguerekove hag̃ua ñekuave’ẽ, eñemboheraguapy <a href="{ $pocket_hit }">jehaipyre’i { -brand-name-pocket }</a> ndive ha emboguejy <a href="{ $pocket }">{ -brand-name-pocket }</a>.
+misinformation-surface-content-desc = Embojurujávo tendayke pyahu ne kundahára { -brand-name-firefox }, ehecháta jehaipyre <a href="{ $recommended }">oikuave’ẽva { -brand-name-pocket }</a>. { -brand-name-pocket } ndoipurúi mba’ekuaarã nde reheguáva oikuave’ẽ hag̃ua. Hendaguépe, umi jehaipyre oiporavo tapicha oipurúva pe tembipuru’i. Pe katupyry ojuhu hag̃ua tembiasakue pyahu, jehecha ha ñe’ẽngue ha’e mba’éichapa oñorairõta ani hag̃ua osẽ marandu japuguáva. Eguerekove hag̃ua ñekuave’ẽ, eñemboheraguapy <a href="{ $pocket_hits }">jehaipyre’i { -brand-name-pocket }</a> ndive ha emboguejy <a href="{ $pocket }">{ -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
