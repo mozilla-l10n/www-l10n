@@ -13,3 +13,7 @@ data-preferences-notification-opt-in = Você optou por permitir nossa própria c
 #   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
 #   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
 data-preferences-your-privacy = Sua privacidade é muito importante para a { -brand-name-mozilla }. Nossa própria plataforma de telemetria e análise, chamada <a href="{ $glean }">{ -brand-name-glean }</a>, segue nossos elevados padrões de <a href="{ $lean_data }" >práticas enxutas de dados</a>.
+# Variables:
+#   $dictionary (url) - link to https://dictionary.telemetry.mozilla.org/
+#   $privacy_notice (url) - link to https://www.mozilla.org/privacy/websites/
+data-preferences-mozilla-uses = A { -brand-name-mozilla } usa o { -brand-name-glean } para coletar dados de uso em alguns sites da mozilla.org para garantir que estamos oferecendo a melhor experiência de uso possível a nossos visitantes. O { -brand-name-glean } não compartilha informações com terceiros. Cada pedaço de dado que coletamos também passa por um rigoroso processo de revisão. Você pode saber mais sobre os tipos específicos de dados que coletamos no <a href="{ $dictionary }">Dicionário { -brand-name-glean }</a>. Para obter mais informações sobre a forma como lidamos e compartilhamos seus dados nos sites da { -brand-name-mozilla }, você pode ler nosso <a href="{ $privacy_notice }">Aviso de privacidade de sites, comunicações e cookies</a>.
