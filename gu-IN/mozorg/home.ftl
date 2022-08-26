@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -22,7 +22,7 @@ home-read-our-internet-health-report = અમારા ઇન્ટરનેટ 
 home-our-innovations = અમારા સંશોધનો
 home-using-the-web-as-the-platform = પ્લેટફોર્મ તરીકે વેબનો ઉપયોગ કરીને, અમે ખુલ્લા, નવીન તકનીકો બનાવીએ છીએ જે વિકાસકર્તાઓને બંધ, કોર્પોરેટ ઇકોસિસ્ટમ્સથી મુક્ત કરવાની અને અમારા માટેના ઝડપી, સલામત વેબ અનુભવ બનાવવા માટે પરવાનગી આપે છે.
 home-virtual-reality-platform = વર્ચ્યુઅલ રિયાલિટી મંચ
-home-common-voice = સામાન્ય અવાજ
+home-common-voice = { -brand-name-common-voice }
 home-extensions = વિસ્તારક
 home-personalize-firefox-with-your = તમારા મનપસંદ જેવા કે પાસવર્ડ મેનેજર, જાહેરાત બ્લોકર અને વધુ સાથે { -brand-name-firefox } ને વ્યક્તિગત કરો.
 home-careers = કારકિર્દી

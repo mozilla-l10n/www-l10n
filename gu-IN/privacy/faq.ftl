@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -9,16 +9,16 @@
 privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla } ડેટા ગોપનીયતા FAQ
 privacy-faq-at-mozilla-we-respect-and-protect-desc = { -brand-name-mozilla } ખાતે અમે તમારી વ્યક્તિગત માહિતીને માન આપીએ છીએ અને સુરક્ષિત કરીએ છીએ.
 privacy-faq-we-stand-for-people-over-profit = અમે નફાના બદલે લોકો માટે ઊભા છીઅે.
-privacy-faq-it-can-be-tricky-for-people = તે આજે કોઈ પણ સૉફ્ટવેર અથવા સેવાઓનો ઉપયોગ કરે છે તેની અપેક્ષા રાખવામાં લોકો માટે તે મુશ્કેલ હોઈ શકે છે. આ ટેકનોલોજી જે આપણા જીવનને સશક્ત કરે છે તે જટિલ છે અને લોકો પાસે વિગતોમાં શોધવાની સમય નથી. તે હજુ પણ ફાયરફોક્સ માટે સાચું છે, જ્યાં આપણને લાગે છે કે લોકો તેમના બ્રાઉઝરમાં હૂડ હેઠળ શું થઈ રહ્યું છે તે ઘણાં જુદા વિચારો છે.
+privacy-faq-it-can-be-tricky-for-people = તે આજે કોઈ પણ સૉફ્ટવેર અથવા સેવાઓનો ઉપયોગ કરે છે તેની અપેક્ષા રાખવામાં લોકો માટે તે મુશ્કેલ હોઈ શકે છે. આ ટેકનોલોજી જે આપણા જીવનને સશક્ત કરે છે તે જટિલ છે અને લોકો પાસે વિગતોમાં શોધવાની સમય નથી. તે હજુ પણ { -brand-name-firefox } માટે સાચું છે, જ્યાં આપણને લાગે છે કે લોકો તેમના બ્રાઉઝરમાં હૂડ હેઠળ શું થઈ રહ્યું છે તે ઘણાં જુદા વિચારો છે.
 privacy-faq-at-mozilla-we-respect-and-protect = { -brand-name-mozilla } ખાતે, અમે તમારી વ્યક્તિગત માહિતીને માન આપીએ છીએ અને સુરક્ષિત કરીએ છીએ:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = અમે <a href="{ $link }">ડેટા ગોપનીયતા સિદ્ધાંતો</a> ના સમૂહનું અનુસરણ કરીએ છીએ જે { -brand-name-firefox } ડેસ્કટૉપ અને મોબાઇલ બ્રાઉઝર્સમાં ગોપનીયતા પ્રત્યેના અમારા અભિગમને આકાર આપે છે.
 privacy-faq-we-only-collect-the-data-we = અમે ફક્ત શ્રેષ્ઠ ઉત્પાદનો બનાવવા માટે જરૂરી ડેટા એકત્રિત કરીએ છીએ.
 privacy-faq-we-put-people-in-control-of = અમે લોકોને તેમના ડેટા અને ઓનલાઇન અનુભવોના નિયંત્રણમાં મૂકીએ છીએ.
-privacy-faq-we-adhere-to-no-surprises-principle = અમે “કોઈ આશ્ચર્ય નથી” સિદ્ધાંતનું પાલન કરીએ છીએ, જેનો અર્થ એ થાય કે આપણે લોકોની સમજણને પુષ્ટિ આપવા માટે સખત મહેનત કરીએ છીએ કે ફાયરફોક્સ વાસ્તવિકતાની સાથે મેળ ખાય છે.
+privacy-faq-we-adhere-to-no-surprises-principle = અમે “કોઈ આશ્ચર્ય નથી” સિદ્ધાંતનું પાલન કરીએ છીએ, જેનો અર્થ એ થાય કે આપણે લોકોની સમજણને પુષ્ટિ આપવા માટે સખત મહેનત કરીએ છીએ કે { -brand-name-firefox } વાસ્તવિકતાની સાથે મેળ ખાય છે.
 privacy-faq-the-following-questions-and = નીચે આપેલા પ્રશ્નો અને જવાબો તમને એમજ સમજવા મદદ કરે છે કે { -brand-name-mozilla } અને { -brand-name-firefox }થી શું અપેક્ષિત છે:
-privacy-faq-i-use-firefox-for-almost-everything = હું વેબ પર લગભગ દરેક વસ્તુ માટે ફાયરફોક્સનો ઉપયોગ કરું છું. તમે મોઝિલા ખાતે લોકો મારી વિશે એક ટન સામગ્રી જાણવાની જરૂર છે, અધિકાર?
+privacy-faq-i-use-firefox-for-almost-everything = હું વેબ પર લગભગ દરેક વસ્તુ માટે { -brand-name-firefox } ઉપયોગ કરું છું. તમે { -brand-name-mozilla } ખાતે લોકો મારી વિશે એક ટન સામગ્રી જાણવાની જરૂર છે, અધિકાર?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, વેબ બ્રાઉઝર કે જે તમારા ઉપકરણ અથવા કમ્પ્યુટર પર ચાલે છે, તે ઇન્ટરનેટનો તમારો ગેટવે છે. તમારું બ્રાઉઝર તમે મુલાકાત લો છો તે વેબસાઇટ્સ વિશે ઘણી બધી માહિતીનું સંચાલન કરશે, પરંતુ તે માહિતી તમારા ઉપકરણ પર રહે છે. મોઝીલા, કંપની જે { -brand-name-firefox } બનાવે છે, તે એકત્રિત કરતું નથી (જ્યાં સુધી તમે અમને કહો નહીં).
 privacy-faq-really-you-dont-collect-my-browsing = ખરેખર, તમે મારો બ્રાઉઝિંગ ઇતિહાસ એકત્રિત કરતા નથી?
 # Variables:

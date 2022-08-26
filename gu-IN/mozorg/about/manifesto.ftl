@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -54,31 +54,6 @@ manifesto-an-internet-with-these = ઇન્ટરનેટ આ ગુણો ધ
 manifesto-i-support-the-vision-of = હું @mozilla થી વધુ સારુ, તંદુરસ્ત ઇન્ટરનેટ દ્રષ્ટિનું સમર્થન કરું છું, તમે મારી સાથે જોડાશો?
 manifesto-share-on-twitter = { -brand-name-twitter } પર વહેંચો
 manifesto-our-10-principles = <strong>અમારા 10 </strong> સિદ્ધાંતો
-manifesto-use-open-badges-to-share = તમારી કુશળતા અને રુચિઓને શેર કરવા માટે ઓપન બેજ્સનો ઉપયોગ કરો
-manifesto-explore-how-the-web-impacts = અન્વેષણ કરો કેવી રીતે વિજ્ઞાનને વેબ અસર કરે
-manifesto-learn-about-open-source = પત્રકારત્વમાં ઓપન સોર્સ કોડ વિશે જાણો
-manifesto-read-about-open-internet = ખુલ્લા ઈન્ટરનેટ નીતિ પહેલ અને વિકાસ વિશે વાંચો
-manifesto-explore-how-to-help-keep = વેબને ખુલ્લું રાખવા માટે કેવી રીતે મદદ કરવી તે શોધો
-manifesto-see-how-the-web-can-connect = વેબ વિશ્વને હેલ્થકેર સાથે કેવી રીતે જોડી શકે છે તે જુઓ
-manifesto-explore-how-the-web-works = અન્વેષણ કરો કે વેબ કેવી રીતે કામ કરે છે
-manifesto-see-how-mozilla-works = { -brand-name-mozilla } તમારી ગોપનીયતાને પ્રથમ રાખીને કેવી રીતે કામ કરે છે તે જુઓ
-manifesto-read-about-developments = ગોપનીયતા અને ડેટા સુરક્ષામાં વિકાસ વિશે વાંચો
-manifesto-learn-more-about-how-to = પોતાને ઓનલાઇન કેવી રીતે સુરક્ષિત કરવું તે વિશે વધુ જાણો
-manifesto-use-these-free-tools-to = વેબ શીખવવા માટે આ મફત સાધનોનો ઉપયોગ કરો
-manifesto-learn-about-creating-and = વેબ માટે સામગ્રી બનાવવા અને બનાવાયેલા વિશે જાણો
-manifesto-add-new-voices-to-open = ઓપસસોર્સ ટેકનોલોજીમાં નવા અવાજો ઉમેરો
-manifesto-set-your-do-not-track = તમે સેટ કરો પ્રાધાન્યને અનુસરો નહિ
-manifesto-understand-the-web-ecosystem = વેબ ઇકોસિસ્ટમ સમજો
-manifesto-explore-how-open-practices = કેવી રીતે ખુલ્લા કાર્યક્રમો વેબને સુલભ રાખે છે તે અન્વેષણ કરો
-manifesto-learn-how-to-remix-content = કંઈક નવું બનાવવા માટે સામગ્રીને રીમિક્સ કેવી રીતે કરવું તે જાણો
-manifesto-learn-how-to-maximize = વેબના ઇન્ટરેક્ટિવ સંભવિતને કેવી રીતે વધારવું તે જાણો
-manifesto-participate-in-our-governance = અમારા ગવર્નન્સ જાહેર ચર્ચાસ્થાનમાં ભાગ લો
-manifesto-join-us-as-a-volunteer = સ્વયંસેવક તરીકે અમારી સાથે જોડાઓ
-manifesto-learn-how-to-collaborate = ઓનલાઇન સહયોગ કેવી રીતે કરવો તે જાણો
-manifesto-visualize-who-you-interact = તમે { -brand-name-lightbeam } સાથે વેબ પર કોની સાથે ક્રિયાપ્રતિક્રિયા કરો છો તે જુઅો
-manifesto-learn-about-creating-web = અન્ય લોકો સાથે વેબ સ્રોતો બનાવવા વિશે જાણો
-manifesto-host-or-join-a-maker-party = યજમાન અથવા જોડાઓ { -brand-name-maker-party }માં
-manifesto-learn-how-to-build-online = ઓનલાઇન સહયોગ કુશળતા કેવી રીતે બનાવવી તે જાણો
 manifesto-read-the-entire-manifesto = સમગ્ર ઘોષણાપત્ર વાંચો
 manifesto-love-the-web = વેબને પ્રેમ કરો છો?
 manifesto-get-the-mozilla-newsletter = { -brand-name-mozilla } સમાચારપત્રિકા મેળવો અને તેને ખુલ્લું અને મફત રાખવામાં અમારી સહાય કરો.
@@ -107,7 +82,7 @@ manifesto-details-commercial-involvement = ઇન્ટરનેટના વિ
 manifesto-details-magnifying-the = ઇન્ટરનેટના જાહેર લાભના પાસાંને વિસ્તૃત કરવી એ એક મહત્વપૂર્ણ ધ્યેય છે, જે સમય, ધ્યાન અને પ્રતિબદ્ધતા માટે લાયક છે.
 manifesto-details-advancing-the = મોઝીલાના ઘોષણાપત્ર આગળ વધારવું
 manifesto-details-there-are-many = { -brand-name-mozilla } ઘોષણાપત્રના સિદ્ધાંતોને આગળ વધારવાના ઘણા જુદા જુદા માર્ગો છે. અમે એક વ્યાપક શ્રેણીની પ્રવૃત્તિઓનું સ્વાગત કરીએ છીએ અને તે જ રચનાત્મકતાને અપેક્ષા રાખીએ છીએ કે જે { -brand-name-mozilla } સહભાગીઓએ પ્રોજેક્ટના અન્ય ક્ષેત્રોમાં દર્શાવ્યું છે. { -brand-name-mozilla } પ્રોજેક્ટમાં ઊંડે સામેલ ન હોય તેવા વ્યક્તિઓ માટે, ઘોષણાપત્રને સમર્થન આપવાનું એક મૂળભૂત અને ખૂબ જ અસરકારક રીત એ છે કે { -brand-name-mozilla } { -brand-name-firefox } અને અન્ય ઉત્પાદનનો ઉપયોગ કરવો જે ઘોષણાપત્રના સિદ્ધાંતોનો સમાવેશ કરે છે.
-manifesto-details-mozilla-foundation = Mozilla ફાઉન્ડેશનના વચન
+manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } વચન
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla } ફાઉન્ડેશન તેની પ્રવૃત્તિઓમાં { -brand-name-mozilla } ઘોષણાપત્રને ટેકો આપવાનું વચન આપે છે. ખાસ કરીને, અમે આ કરીશું:
 manifesto-details-build-and-enable = ઘોષણાપત્રના સિદ્ધાંતોને ટેકો આપતા ઓપનસોર્સ ટેકનોલોજી અને સમુદાયોને બિલ્ડ કરવા અને સક્ષમ કરવા;
 manifesto-details-build-and-deliver = ઘોષણાપત્રના સિદ્ધાંતોને ટેકો આપતા મહાન ગ્રાહક ઉત્પાદનોનું નિર્માણ અને પહોંચાડવા;
