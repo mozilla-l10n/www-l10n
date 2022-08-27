@@ -72,6 +72,7 @@ does-firefox-have = { -brand-name-firefox }'ta yerleşik bir VPN var mı?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+firefox-does-not = { -brand-name-firefox } dahili bir VPN (sanal özel ağ) içermiyor ama gizlilik yanlısı { -brand-name-firefox-browser }nın yanı sıra kullanabileceğiniz iki { -brand-name-mozilla }/{ -brand-name-firefox } ürünü daha var. Bunlar WiFi'a bağlandığınızda IP adresinizi gizleyerek tarayıcı (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) veya cihaz (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) düzeyinde koruma sağlıyor.
 related-questions-ip = İlgili sorular: { -brand-name-firefox } IP adresinizi gizler mi
 who-owns-firefox = { -brand-name-firefox }'un sahibi kim?
 
