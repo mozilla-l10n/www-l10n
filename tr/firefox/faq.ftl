@@ -42,6 +42,7 @@ is-firefox-safe-download = { -brand-name-firefox }’u indirmek güvenli mi?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Gizliliğinizi korumak bir numaralı önceliğimiz. Cihazlarınıza yüklediğiniz { -brand-name-firefox } tamamen güvenlidir, ancak tarayıcıyı her zaman güvenilir bir { -brand-name-mozilla }/{ -brand-name-firefox } sitesinden (örn. <a href="{ $url }">indirme sayfamız</a>) indirmeye özen göstermelisiniz.
 is-firefox-safe = { -brand-name-firefox } güvenli mi?
 
 # Variables:
