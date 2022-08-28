@@ -7,6 +7,8 @@
 
 data-preferences-page-title = Kezelje saját adatgyűjtési beállításait
 data-preferences-page-desc = Az adatainak védelme nagyon fontos a { -brand-name-mozilla } számára. Ezen az oldalon kezelheti saját adatgyűjtési beállításait a mozilla.org webhelyeken a { -brand-name-glean } használatával.
+data-preferences-notification-opt-out = Kikapcsolta a belső adatgyűjtést.
+data-preferences-notification-opt-in = Bekapcsolta a belső adatgyűjtést.
 # Variables:
 #   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
 #   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
