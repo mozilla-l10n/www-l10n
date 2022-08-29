@@ -98,6 +98,7 @@
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-glean = Glean
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Red de desarrolladores de Mozilla
 -brand-name-mozilla-festival = Mozilla Festival
