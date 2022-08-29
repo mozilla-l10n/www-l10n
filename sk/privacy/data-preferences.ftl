@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
+data-preferences-page-title = Spravujte svoje predvoľby zhromažďovania údajov
+data-preferences-page-desc = Vaše súkromie je pre { -brand-name-mozilla(case: "acc") } veľmi dôležité. Táto stránka vám umožní spravovať preferencie zhromažďovania údajov pre webové stránky mozilla.org pomocou nástroja { -brand-name-glean }.
+data-preferences-notification-opt-out = Odhlásili ste sa zo zhromažďovania údajov.
+data-preferences-notification-opt-in = Máte aktivované zhromažďovanie údajov.
 # Variables:
 #   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
 #   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
@@ -16,6 +20,6 @@ data-preferences-mozilla-uses = { -brand-name-mozilla } používa { -brand-name-
 data-preferences-if-you-still-want-to = Ak sa aj napriek tomu chcete odhlásiť z analýzy dát, môžete tak urobiť nižšie. Kliknutím na tlačidlo odhlásenia sa nastaví preferenčný súbor cookie, ktorý sa používa na zabránenie nástroju { -brand-name-glean } odosielať údaje pri načítaní našich webových stránok. Tento preferenčný súbor cookie bude platný 1 rok.
 data-preferences-current-preference = Aktuálna preferencia:
 data-preferences-please-enable-javascript = Ak chcete spravovať svoje preferencie údajov, povoľte JavaScript.
-data-preferences-opt-out-button = Zrušiť zber údajov
+data-preferences-opt-out-button = Zrušiť zhromažďovanie údajov
 data-preferences-if-you-change = Ak zmeníte názor, môžete ich znova povoliť tu:
-data-preferences-opt-in-button = Povoliť zber údajov
+data-preferences-opt-in-button = Povoliť zhromažďovanie údajov
