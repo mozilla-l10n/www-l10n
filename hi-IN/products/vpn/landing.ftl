@@ -134,6 +134,10 @@ vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -b
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (वर्ज़न 6 और उससे ऊपर)
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+#   $version (number) - minimum supported version number
+vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } और इसके बाद का)
 
 # Outdated string
 # Variables:
