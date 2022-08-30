@@ -29,4 +29,4 @@ home-personalize-firefox-with-your = Szabja testre a { -brand-name-firefox }ot a
 home-careers = Álláslehetőségek
 home-learn-about-the-benefits-of = Ismerje meg, milyen előnyei vannak a { -brand-name-mozilla(ending: "accented") }nál végzett munkának, és nézze meg a világszerte nyitott pozíciókat.
 home-need-help = Segítségre van szüksége?
-home-get-answers-to-your-questions = Támogatói csapatunktól választ kaphat kérdéseire a { -brand-name-firefox }szal és minden { -brand-name-mozilla } termékkel kapcsolatban.
+home-get-answers-to-your-questions = Támogatói csapatunktól választ kaphat kérdéseire a { -brand-name-firefox(case: "instrumental") } és minden { -brand-name-mozilla } termékkel kapcsolatban.

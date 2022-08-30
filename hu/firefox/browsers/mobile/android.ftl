@@ -31,7 +31,7 @@ mobile-android-got-lots-of = Sok nyitott lapja van? Nem probléma, rendszerezze 
 mobile-android-supercharge-firefox-with = Tuningolja fel a { -brand-name-firefox }ot a kiegészítőkkel
 mobile-android-addons-are-like = A kiegészítők olyan hatékony kis eszközök, melyeket hozzáadhat a böngészőjéhez, hogy magasabb szintre emelje az alapértelmezett adatvédelmi beállításokat, és testreszabja a felhasználói élményét.
 mobile-android-pick-up-where = Folytassa ott, ahol abbahagyta
-mobile-android-go-from-your = Lépjen át zökkenőmentesen a telefonjáról a laptopjára, táblagépére és vissza. A { -brand-name-firefox }szal az összes eszközén magával viheti a könyvjelzőit, mentett bejelentkezéseit és előzményeit, bárhová is menjen.
+mobile-android-go-from-your = Lépjen át zökkenőmentesen a telefonjáról a laptopjára, táblagépére és vissza. A { -brand-name-firefox(case: "instrumental") } az összes eszközén magával viheti a könyvjelzőit, mentett bejelentkezéseit és előzményeit, bárhová is menjen.
 mobile-android-search-from-your = Keressen a telefonja kezdőképernyőjéről
 mobile-android-no-need-to = Nem kell megnyitnia az alkalmazást. Adja hozzá a { -brand-name-firefox } keresőmodult, és böngéssze a webet közvetlenül az eszköze kezdőképernyőjéről.
 mobile-android-pin-videos-to = Rögzítsen videókat a képernyőjére
@@ -40,7 +40,6 @@ mobile-android-about-mozilla = A { -brand-name-mozilla(ending: "accented") }ról
 mobile-android-mozilla-exists-to = A { -brand-name-mozilla } azért létezik, hogy mindenki számára hozzáférhető nyilvános erőforrássá tegye az internetet, mert úgy gondoljuk, hogy a nyílt és szabad jobb, mint a zárt és ellenőrzött. Olyan termékeket építünk, mint a { -brand-name-firefox } és a { -brand-name-pocket }, hogy elősegítsük a felhasználói választást, az átláthatóságot és az irányítást.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Gyorsabb út az internethez a { -brand-name-firefox } for { -brand-name-android }dal
-mobile-android-get-there-faster = Érjen oda gyorsabban a { -brand-name-firefox } for { -brand-name-android }dal
 mobile-android-see-all-your-open-tabs = Tekintse meg az összes megnyitott lapot, a legutóbbi kereséseket és a kedvenc webhelyeit egy helyen, az { -brand-name-android }ra készült { -brand-name-firefox } böngészővel.
 mobile-android-own-your-home = Szabja testre a kezdőképernyőt
 mobile-android-get-to-the-parts = Érje el gyorsabban az internet azon részeit, amelyek érdeklik. Válassza azt, hogy az összes nyitott lapja, a legutóbbi keresései, könyvjelzői és a kedvenc oldalai egy helyen jelenjenek meg.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -12,8 +12,6 @@ facebook-container-get-the-facebook-container = Szerezze be a { -brand-name-face
 facebook-container-download-firefox-and-get-the = Töltse le a { -brand-name-firefox }ot, és szerezze be a { -brand-name-facebook-container } kiegészítőt
 facebook-container-only-available-for-desktop = A { -brand-name-facebook-container } kiegészítő jelenleg csak az asztali { -brand-name-firefox }ra érhető el.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -36,4 +34,4 @@ facebook-container-about-firefox-and-mozilla = A { -brand-name-firefox } és a {
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
 facebook-container-were-backed-by-mozilla-the = A <a href="{ $mozilla }">{ -brand-name-mozilla }</a> támogat minket, a nem profitorientált szervezet, amely az embereket helyezi a profit elé, hogy mindenkinek nagyobb hatalmat adjon online. Azért készítettük ezt a kiterjesztést, mert úgy gondoljuk, hogy szükséges egy könnyen használható eszköz, amellyel kezelheti az adatvédelmét és biztonságát.
-facebook-container-browse-freely-with-firefox = Böngésszen szabadon a { -brand-name-firefox }szal még ma.
+facebook-container-browse-freely-with-firefox = Böngésszen szabadon a { -brand-name-firefox(case: "instrumental") } még ma.

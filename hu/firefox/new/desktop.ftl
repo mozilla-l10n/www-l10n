@@ -54,7 +54,7 @@ firefox-desktop-download-review-system-req = Ellenőrizze a rendszerkövetelmén
 firefox-desktop-download-all-your-devices = Tegyen { -brand-name-firefox }ot az összes eszközére
 firefox-desktop-download-take-your-privacy = Vigye magával mindenhová az adatvédelmet. Az { -brand-name-ios }-re és { -brand-name-android }ra készült { -brand-name-firefox-browsers } ugyanazokat az erős adatvédelmi beállításokat használják, hogy blokkolják a webes követőket, bárhol is legyen.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-it-all = Tegye meg <strong>mindet</strong> a { -brand-name-firefox }szal
+firefox-desktop-download-do-it-all = Tegye meg <strong>mindet</strong> a { -brand-name-firefox(case: "instrumental") }
 firefox-desktop-download-search-smarter = Keressen okosabban, gyorsabban
 firefox-desktop-download-search-from-address = Keresés a címsorból
 firefox-desktop-download-search-engine-options = Keresőszolgáltatás-beállítások

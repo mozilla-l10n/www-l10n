@@ -1,14 +1,14 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } GYIK
-whether-you-searched-privacy = Ha egy gyors böngészőt keresett, ami megvédi a magánszféráját, akkor ez a GYIK megválaszolja a legégetőbb { -brand-name-firefox }szal kapcsolatos kérdéseket.
-whether-you-searched-independant = Ha egy gyors böngészőt keresett, vagy független technológiát keres, ami megvédi a magánszféráját, akkor ez a GYIK megválaszolja a legégetőbb { -brand-name-firefox }szal kapcsolatos kérdéseket.
+whether-you-searched-privacy = Ha egy gyors böngészőt keresett, ami megvédi a magánszféráját, akkor ez a GYIK megválaszolja a legégetőbb { -brand-name-firefox(case: "instrumental") } kapcsolatos kérdéseket.
+whether-you-searched-independant = Ha egy gyors böngészőt keresett, vagy független technológiát keres, ami megvédi a magánszféráját, akkor ez a GYIK megválaszolja a legégetőbb { -brand-name-firefox(case: "instrumental") } kapcsolatos kérdéseket.
 what-is-firefox = Mi a { -brand-name-firefox }?
 
 # Variables:
@@ -70,7 +70,7 @@ does-firefox-have = A { -brand-name-firefox } rendelkezik beépített VPN-nel?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 firefox-does-not = A { -brand-name-firefox }ban nincs beépített VPN (virtuális magánhálózat), de van két { -brand-name-mozilla } / { -brand-name-firefox } termék, amellyel a privát { -brand-name-firefox-browser } mellett megvédheti a böngészője (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) vagy az eszköze (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) kapcsolatát WiFin, illetve elrejtheti az IP-címét.
 related-questions-ip = Kapcsolódó kérdések: a { -brand-name-firefox } elrejti-e az IP-címét

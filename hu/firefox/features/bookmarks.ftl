@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
@@ -10,7 +10,7 @@ features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: job
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Szervezze könnyedén mappákba a könyvjelzőit, és érje el őket az összes eszközén, az asztali gépétől a mobiljáig.
 features-bookmarks-better-bookmarks = Jobb könyvjelzők
-features-bookmarks-dont-agonize-lovers-of = Könyvjelzőzés kedvelői, ne szenvedjetek! Rendszerezzen a { -brand-name-firefox }szal.
+features-bookmarks-dont-agonize-lovers-of = Könyvjelzőzés kedvelői, ne szenvedjetek! Rendszerezzen a { -brand-name-firefox(case: "instrumental") }.
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = Mentse le azt a könyvjelzőt
 # Dial in means to access/use (the bookmarks).

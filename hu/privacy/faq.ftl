@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -41,7 +41,7 @@ privacy-faq-we-make-our-documentation-public = A dokumentációnkat nyilvánoss�
 privacy-faq-that-documentation-is-gobbledygook = A dokumentáció számomra halandzsa. El tudjátok mondani egyszerűen?
 privacy-faq-there-are-two-categories-of = Két adatkategória van, amit alapértelmezett gyűjtünk a { -brand-name-firefox } kiadási verzióiban.
 privacy-faq-the-first-is-what-we-call-technical = Az első kategória a „műszaki adatok”. Ezek adatok magáról a böngészőről, az operációs rendszerről, amelyen az fut, valamint a hibák és összeomlások információi.
-privacy-faq-the-second-is-what-we-call-interaction = A második kategória az „interakciós adatok”. Ez egy személy { -brand-name-firefox }szal történő tevékenységéről szól, mint a megnyitott lapok száma, a felhasználói beállítások állapota, az olyan böngészőfunkciók használatának száma, mint a képernyőképek vagy a konténerek. Például ezeket az adatokat úgy gyűjtjük a vissza gomb (a böngésző bal felső sarkában található nyíl, amellyel visszanavigálhat egy előző weboldalra) esetén, hogy tudni fogjuk, hogy valaki használta a gombot, de nem fogjuk megtudni, hogy konkrétan mely weboldalt ért el.
+privacy-faq-the-second-is-what-we-call-interaction = A második kategória az „interakciós adatok”. Ez egy személy { -brand-name-firefox(case: "instrumental") } történő tevékenységéről szól, mint a megnyitott lapok száma, a felhasználói beállítások állapota, az olyan böngészőfunkciók használatának száma, mint a képernyőképek vagy a konténerek. Például ezeket az adatokat úgy gyűjtjük a vissza gomb (a böngésző bal felső sarkában található nyíl, amellyel visszanavigálhat egy előző weboldalra) esetén, hogy tudni fogjuk, hogy valaki használta a gombot, de nem fogjuk megtudni, hogy konkrétan mely weboldalt ért el.
 privacy-faq-do-you-collect-more-data-in = Több adatot gyűjtötök a { -brand-name-firefox } előzetes kiadású verzióiban?
 privacy-faq-sort-of-in-addition-to-the-data = Mondhatni igen. A fent leírt adatok mellett az összeomlási és hibajelentéseket alapértelmezetten megkapjuk a { -brand-name-firefox } előzetes kiadású verzióiban.
 # Variables:

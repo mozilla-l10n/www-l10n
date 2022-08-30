@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Szerezze be a { -brand-name-firefox }ot vállalata számára az { -brand-name-esr } és gyors kiadásokkal
-firefox-enterprise-get-unmatched-data-protection = Szerezzen páratlan adatvédelmet, és a vállalatának megfelelő kiadási ütemet a { -brand-name-firefox }szal. Töltse le az { -brand-name-esr }-t és a gyors kiadást.
+firefox-enterprise-get-unmatched-data-protection = Szerezzen páratlan adatvédelmet, és a vállalatának megfelelő kiadási ütemet a { -brand-name-firefox(case: "instrumental") }. Töltse le az { -brand-name-esr }-t és a gyors kiadást.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Áttekintés
 firefox-enterprise-downloads = Letöltések
