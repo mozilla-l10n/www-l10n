@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
@@ -21,7 +21,7 @@ compare-opera-as-far-as-actual-privacy-protections = Ha a tényleges adatvédele
 # Variables:
 #   $attrs (string) - link to https://blog.mozilla.org/blog/2019/09/03/todays-firefox-blocks-third-party-tracking-cookies-and-cryptomining-by-default/ with additional attributes for analytics
 compare-opera-with-the-latest-version-of = A { -brand-name-firefox } legutóbbi verziójában a <a { $attrs }>fokozott követés elleni védelem</a> alapértelmezés szerint be van kapcsolva, tehát nem kell bajlódnia a beállításokkal, csak hogy megvédje magát a nyomkövetőktől. A fokozott követés elleni védelem mellett a { -brand-name-firefox } aktívan blokkol ezernyi, harmadik féltől származó nyomkövetőt, melyek megpróbálják követni az interneten. Személyre szabott védelmi jelentést kap, amely megmutatja, hogy a { -brand-name-firefox } milyen gyakran blokkolja a harmadik féltől származó cookie-kat, a közösségi média nyomkövetőit, az ujjlenyomat-készítőket és a kriptobányászokat, amikor az internetet böngészi.
-compare-opera-we-make-firefox-for-people = A { -brand-name-firefox }ot olyan embereknek készítjük, mint Ön, akik mélyen törődnek a személyes adatvédelemmel és biztonsággal. Ezért gyűjtünk olyan kevés információt a felhasználókról, és vagyunk átláthatók az információ felhasználásában. Nehéz megmondani, hogyan működik az { -brand-name-opera } adatvédelmi szempontból. Noha vannak robusztus adatvédelmi funkciók, nem mondják meg, hogy hogyan gyűjtik és osztják meg az adatait. A { -brand-name-firefox } következetes abban, amit mondunk, és amit magánéletének védelme érdekében teszünk.
+compare-opera-we-make-firefox-for-people = A { -brand-name-firefox(case: "accusative") } olyan embereknek készítjük, mint Ön, akik mélyen törődnek a személyes adatvédelemmel és biztonsággal. Ezért gyűjtünk olyan kevés információt a felhasználókról, és vagyunk átláthatók az információ felhasználásában. Nehéz megmondani, hogyan működik az { -brand-name-opera } adatvédelmi szempontból. Noha vannak robusztus adatvédelmi funkciók, nem mondják meg, hogy hogyan gyűjtik és osztják meg az adatait. A { -brand-name-firefox } következetes abban, amit mondunk, és amit magánéletének védelme érdekében teszünk.
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-opera-theres-no-debate-that-opera = Nincs vita arról, hogy az { -brand-name-opera } egy sokfunkciós böngésző, letisztult felhasználói felülettel és erős testreszabhatósággal. Mivel az { -brand-name-opera } a { -brand-name-chromium }ra épül, kihasználhatja a { -brand-name-google } { -brand-name-chrome } hatalmas kiegészítő-könyvtárának legtöbbjét. A { -brand-name-firefox } szintén hatalmas <a { $attrs }>böngészhető kiegészítő-könyvtárat</a> tartalmaz, de nem oly nagyot, mint a { -brand-name-chrome }.
