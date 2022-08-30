@@ -6,7 +6,5 @@
 ### URL: https://www-dev.allizom.org/
 
 home-mr2-promo-title = Térjen vissza a jó ötletekhez – gyorsabban
-
-## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
-
-home-mr2-promo-cta = Szerezze be az új { -brand-name-firefox }ot
+# CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
+home-mr2-promo-cta = Szerezze be az új { -brand-name-firefox(case: "accusative") }

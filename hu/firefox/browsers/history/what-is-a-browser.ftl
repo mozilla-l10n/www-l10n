@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/what-is-a-browser/
@@ -38,4 +38,4 @@ what-is-a-browser-nearly-all-major = Szinte minden nagyobb böngésző rendelkez
 what-is-a-browser-firefox-helps = A { -brand-name-firefox } vigyáz az online adatvédelmére és blokkolja a nyomkövetőket, melyek követik a weben.
 what-is-a-browser-making-your-web = Dolgozzon Önnek a webböngésző
 what-is-a-browser-most-major-web = A legtöbb nagy webböngésző lehetővé teszi a felhasználók számára, hogy kiegészítőkkel módosítsák az élményüket. A kiegészítők olyan szoftverdarabkák, melyekkel testreszabhatók a meglévő funkciók, vagy újak adhatók hozzá. A kiegészítők sokféle szórakoztató és gyakorlatias dolgokra képesek: új funkciók lehetővé tétele, idegen nyelvű szótárak vagy vizuális megjelenések és témák.
-what-is-a-browser-all-browser-makers = Az összes böngészőgyártó úgy fejleszti a termékét, hogy a képek és videók olyan gyorsan betöltődjenek, amilyen gyorsan csak lehetséges, így megkönnyítve, hogy a lehető legtöbbet hozza ki a világhálóból. Mindannyian keményen dolgoznak azon, hogy a felhasználók egy olyan böngészőt kapjanak, mely gyors, hatékony és könnyen használható. A különbség a miértekben van. Fontos, hogy az Önnek megfelelő böngészőt válassza. A { -brand-name-mozilla } úgy készíti a { -brand-name-firefox }ot, hogy a felhasználók irányíthassák az online életüket, és biztosítsa, hogy az internet egy globális, nyilvános erőforrás legyen, amely mindenki számára hozzáférhető.
+what-is-a-browser-all-browser-makers = Az összes böngészőgyártó úgy fejleszti a termékét, hogy a képek és videók olyan gyorsan betöltődjenek, amilyen gyorsan csak lehetséges, így megkönnyítve, hogy a lehető legtöbbet hozza ki a világhálóból. Mindannyian keményen dolgoznak azon, hogy a felhasználók egy olyan böngészőt kapjanak, mely gyors, hatékony és könnyen használható. A különbség a miértekben van. Fontos, hogy az Önnek megfelelő böngészőt válassza. A { -brand-name-mozilla } úgy készíti a { -brand-name-firefox(case: "accusative") }, hogy a felhasználók irányíthassák az online életüket, és biztosítsa, hogy az internet egy globális, nyilvános erőforrás legyen, amely mindenki számára hozzáférhető.

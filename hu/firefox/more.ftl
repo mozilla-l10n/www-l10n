@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -21,8 +21,6 @@ firefox-is-more = A { -brand-name-firefox } több, mint egy böngésző
 its-a-lightning = Villámgyors ajtó a legjobb internetes élményhez.
 get-the-browsers = Szerezze be a böngészőket, melyek az adatvédelmet helyezik előtérbe – ahogy mindig is tették
 get-the-privacy = Szerezze meg a megérdemelt adatvédelmet. A továbbfejlesztett követésvédelem automatikussá teszi az adatvédelmet, a böngésző minden egyes megnyitásakor.
-take-your-passwords = Vigye magával a jelszavait bárhová
-securely-access-the = Biztonságosan hozzáférhet a { -brand-name-firefox }ba mentett jelszavaihoz – még a böngészőn kívül is.
 choose-which-firefox = Válassza ki az egyik { -brand-name-firefox-browser(case: "acc") }, és töltse le az Ön nyelvén
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } { -brand-name-chromebook }ra
 firefox-more-while-on-chromebook = Bár a { -brand-name-chrome } már eleve telepítve van { -brand-name-chromebook }ra, a { -brand-name-firefox } letöltése, telepítése és használata a következő előnyökkel jár:
@@ -31,7 +29,7 @@ firefox-more-quantum-was-revolution = A { -brand-name-firefox-quantum } forradal
 firefox-more-little-book = Adatvédelmi kiskönyv
 firefox-more-you-can-reclaim = Visszaszerezheti magánszféráját és visszaszerezheti a saját internetes élményét! Valójában meglepően könnyű. Bárki megteheti.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
-firefox-more-access-your-sync = Érje el és szinkronizálja a könyvjelzőket, a jelszavakat és még többet – bárhol is használja a { -brand-name-firefox }ot.
+firefox-more-access-your-sync = Érje el és szinkronizálja a könyvjelzőket, a jelszavakat és még többet – bárhol is használja a { -brand-name-firefox(case: "accusative") }.
 we-believe-everyone = Úgy gondoljuk, hogy mindenkinek hozzá kellene férnie az internethez – ezért tesszük elérhetővé a { -brand-name-firefox-browser(case: "acc") } több mint 90 nyelven, az elkötelezett önkénteseink segítségével, szerte a világon.
 firefox-fights-for = A { -brand-name-firefox } Önért harcol { -brand-name-windows }on
 easy-migration-of = A beállítások és könyvjelzők könnyen migrálhatók, ha letölti a { -brand-name-firefox(case: "acc") } { -brand-name-windows }ra.
@@ -42,7 +40,7 @@ new-school-meets = A modern találkozik a megszokottal az eddig leggyorsabb bön
 firefox-for-windows = { -brand-name-firefox } 64 bites { -brand-name-windows }ra
 we-worry-about = Aggódunk az adatbiztonsága miatt, így Önnek már nem kell.
 seven-of-the = A hét legjobb böngésző közvetlen összehasonlítása
-we-compare-firefox = Összehasonlítjuk a { -brand-name-firefox }ot a { -brand-name-chrome }-mal, az { -brand-name-edge }-dzsel, a { -brand-name-safari }val, az { -brand-name-opera(ending: "accented") }val, a { -brand-name-brave }-vel és az { -brand-name-ie }rel, hogy segítsük a döntésben.
+we-compare-firefox = Összehasonlítjuk a { -brand-name-firefox(case: "accusative") } a { -brand-name-chrome }-mal, az { -brand-name-edge }-dzsel, a { -brand-name-safari }val, az { -brand-name-opera(ending: "accented") }val, a { -brand-name-brave }-vel és az { -brand-name-ie }rel, hogy segítsük a döntésben.
 comparing-firefox-chrome = A { -brand-name-firefox-browser } és a { -brand-name-google } { -brand-name-chrome } összehasonlítása
 big-isnt-always = A nagy nem mindig a legjobb. Válassza inkább a függetlenséget.
 comparing-firefox-brave = A { -brand-name-firefox-browser } és a { -brand-name-brave } összehasonlítása

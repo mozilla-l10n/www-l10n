@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
@@ -33,5 +33,5 @@ features-fingerprinting-the-latest-firefox = A legújabb { -brand-name-firefox }
 # $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
 features-fingerprinting-and-its-not = Ez nem egy eldugott beállítás, amit meg kell keresnie. A legújabb { -brand-name-firefox } böngészőben az ujjlenyomat-készítés blokkolás gyári, alapértelmezett beállítás. Keresse fel az <a { $url_protections }>adatvédelmi vezérlőpultot</a>, hogy megtekintse, hogyan követik a színfalak mögött, és a { -brand-name-firefox } hogyan akadályozza ezt meg.
 # $url_download (string) - link to firefox/new
-features-fingerprinting-you-probably-wouldnt = Valószínűleg nem örülne neki, hogy valaki a való életben követné a mozgását. Nincs arra ok, hogy ez online másképp legyen. Ha még nem használja a { -brand-name-firefox }ot, akkor <a { $url_download }>töltse le és védje meg magát</a> a digitális ujjlenyomat-készítéstől.
+features-fingerprinting-you-probably-wouldnt = Valószínűleg nem örülne neki, hogy valaki a való életben követné a mozgását. Nincs arra ok, hogy ez online másképp legyen. Ha még nem használja a { -brand-name-firefox(case: "accusative") }, akkor <a { $url_download }>töltse le és védje meg magát</a> a digitális ujjlenyomat-készítéstől.
 features-fingerprinting-protect = Védje meg a magánszféráját

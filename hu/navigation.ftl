@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } letöltése
 navigation-get-a-firefox-account = { -brand-name-firefox-account } beszerzése
@@ -31,7 +31,7 @@ navigation-mozilla-careers = { -brand-name-mozilla } karrierek
 navigation-approach-your-career = Kezelje céltudatosan a karrierjét. Találjon méltó munkát a { -brand-name-mozilla } kötelékében.
 navigation-close-firefox-menu = { -brand-name-firefox } menü bezárása
 navigation-get-the-browser-that-gives = Szerezze be a böngészőt, amely nagyobb hatalmat ad Önnek { -brand-name-windows }on, { -brand-name-mac }-en vagy { -brand-name-linux }on.
-navigation-take-firefox-and-firefox = Vigye magával a { -brand-name-firefox }ot és a { -brand-name-firefox-focus }t. { -brand-name-android }ra és { -brand-name-ios }-re.
+navigation-take-firefox-and-firefox = Vigye magával a { -brand-name-firefox(case: "accusative") } és a { -brand-name-firefox-focus }t. { -brand-name-android }ra és { -brand-name-ios }-re.
 navigation-get-firefox = { -brand-name-firefox } beszerzése
 navigation-get-firefox-focus = { -brand-name-firefox-focus } beszerzése
 navigation-android-extensions = { -brand-name-android }os kiegészítők
@@ -50,7 +50,7 @@ navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-brings-virtual = A { -brand-name-mozilla } elhozza a nyílt webre a virtuális és kiterjesztett valóságot.
 # Outdated string
-navigation-mozilla-brings-firefox = A { -brand-name-mozilla } elhozza a { -brand-name-firefox }ot a kiterjesztett és a virtuális valósághoz.
+navigation-mozilla-brings-firefox = A { -brand-name-mozilla } elhozza a { -brand-name-firefox(case: "accusative") } a kiterjesztett és a virtuális valósághoz.
 navigation-firefox-built-just-for = { -brand-name-firefox }, fejlesztők számára összeállítva.
 navigation-preview-the-latest-build = Próbálja ki a { -brand-name-firefox } legfrissebb verzióit, és segítsen, hogy a lehető legjobb legyen.
 navigation-firefox-playground = { -brand-name-firefox } játszótér

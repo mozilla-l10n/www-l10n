@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
@@ -12,7 +12,7 @@ switch-switching-to-firefox-page-description-updated = A { -brand-name-firefox }
 switch-switching-to-firefox-page-description = A { -brand-name-firefox }ra váltás gyors, könnyű és kockázatmentes. A { -brand-name-firefox } importálja a könyvjelzőit, űrlapkitöltéseit, jelszavait és beállításait a { -brand-name-chrome }-ból.
 switch-select-what-to-take = Válassza ki, hogy mit hoz át a { -brand-name-chrome }-ból.
 switch-let-firefox-do-the-rest = A többit bízza a { -brand-name-firefox }ra.
-switch-use-firefox-and-still-chrome = Használhatja a { -brand-name-firefox }ot a { -brand-name-chrome } megtartása mellett is. A { -brand-name-chrome } semmiben sem fog megváltozni a gépén.
+switch-use-firefox-and-still-chrome = Használhatja a { -brand-name-firefox(case: "accusative") } a { -brand-name-chrome } megtartása mellett is. A { -brand-name-chrome } semmiben sem fog megváltozni a gépén.
 switch-spread-the-word = Terjessze a híreket a { -brand-name-firefox }ról, és segítsen, hogy az ismerősei búcsút intsenek a { -brand-name-chrome }-nak.
 switch-share-with-your-friends = Ossza meg barátaival, hogyan tudnak { -brand-name-firefox }ra váltani
 switch-firefox-makes-switching-fast-tweet = 🔥 A { -brand-name-firefox } nagyon gyorssá teszi a váltást a { -brand-name-chrome }-ról. Próbáld ki!

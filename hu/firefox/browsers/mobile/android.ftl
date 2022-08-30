@@ -13,7 +13,7 @@ mobile-android-firefox-browser = { -brand-name-firefox-browser }
 # Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Válassza a függetlenséget a { -brand-name-firefox } for { -brand-name-android }dal
 # Obsolete string
-mobile-android-when-you-download = Amikor letölti a { -brand-name-firefox }ot, akkor egy független technológiai vállalat támogatását választja. A { -brand-name-firefox } az egyetlen nagy böngésző, melyet egy olyan nonprofit szervezet támogat, amely a nagyobb nyitottságért, átláthatóságért és az Ön saját online élete feletti irányítása megtartásáért küzd.
+mobile-android-when-you-download = Amikor letölti a { -brand-name-firefox(case: "accusative") }, akkor egy független technológiai vállalat támogatását választja. A { -brand-name-firefox } az egyetlen nagy böngésző, melyet egy olyan nonprofit szervezet támogat, amely a nagyobb nyitottságért, átláthatóságért és az Ön saját online élete feletti irányítása megtartásáért küzd.
 mobile-android-get-firefox-for = { -brand-name-firefox } for { -brand-name-android } letöltése
 mobile-android-send-a-download-link-to-your = Küldjön egy letöltési hivatkozást a telefonjára.
 mobile-android-scan-the-qr-code-to-get-started = Olvassa le a QR-kódot, és kezdjen neki
@@ -23,12 +23,12 @@ mobile-android-firefox-for-android = A { -brand-name-firefox } for { -brand-name
 mobile-android-one-tap-to = Egy koppintás a privát módhoz
 mobile-android-get-to-private = Lépjen privát böngészési módba egyetlen koppintással. És amikor bezárja a privát böngészési módot, a böngészési előzmények automatikusan törlődnek az eszközről.
 mobile-android-search-your-own = Keressen a saját módján
-mobile-android-got-a-big = Nagy telefonja, de normál méretű ujjai vannak? Semmi gond. A { -brand-name-firefox } for { -brand-name-android } lehetővé teszi, hogy a keresősávot fentről alulra helyezze, így könnyebben használhatja egy kézzel. A böngészőn belül kiválaszthatja a saját keresőszolgáltatását is, és beállíthatja a { -brand-name-firefox }ot alapértelmezett böngészőként.
+mobile-android-got-a-big = Nagy telefonja, de normál méretű ujjai vannak? Semmi gond. A { -brand-name-firefox } for { -brand-name-android } lehetővé teszi, hogy a keresősávot fentről alulra helyezze, így könnyebben használhatja egy kézzel. A böngészőn belül kiválaszthatja a saját keresőszolgáltatását is, és beállíthatja a { -brand-name-firefox(case: "accusative") } alapértelmezett böngészőként.
 mobile-android-save-power-with = Takarékoskodjon az energiával a Sötét móddal
 mobile-android-switch-to-dark = Váltson a Sötét módra bármikor, hogy csökkentse a szeme terhelését, és az akkumulátorhasználatot.
 mobile-android-easily-organize-your = Rendszerezze könnyedén a lapjait
 mobile-android-got-lots-of = Sok nyitott lapja van? Nem probléma, rendszerezze őket gyűjteményekbe, hogy a feladatánál maradjon. A gyűjtemények megoszthatók az eszközök között is, így ugyanazokat a dolgokat böngészheti tovább, függetlenül attól, hogy melyik eszközt használja.
-mobile-android-supercharge-firefox-with = Tuningolja fel a { -brand-name-firefox }ot a kiegészítőkkel
+mobile-android-supercharge-firefox-with = Tuningolja fel a { -brand-name-firefox(case: "accusative") } a kiegészítőkkel
 mobile-android-addons-are-like = A kiegészítők olyan hatékony kis eszközök, melyeket hozzáadhat a böngészőjéhez, hogy magasabb szintre emelje az alapértelmezett adatvédelmi beállításokat, és testreszabja a felhasználói élményét.
 mobile-android-pick-up-where = Folytassa ott, ahol abbahagyta
 mobile-android-go-from-your = Lépjen át zökkenőmentesen a telefonjáról a laptopjára, táblagépére és vissza. A { -brand-name-firefox(case: "instrumental") } az összes eszközén magával viheti a könyvjelzőit, mentett bejelentkezéseit és előzményeit, bárhová is menjen.

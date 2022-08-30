@@ -10,8 +10,8 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = A { -brand-name-firefox-browser } letöltése – gyors, privát és ingyenes – { -brand-name-mozilla }
-firefox-desktop-download-meta-desc = Szerezze be a { -brand-name-firefox }ot, a szabad webböngészőt, amit a { -brand-name-mozilla } támogat, a nonprofit szervezet, amely elkötelezett az internet egészsége és az adatvédelem felé. Elérhető { -brand-name-windows }ra, { -brand-name-mac-short }re, { -brand-name-linux }ra, { -brand-name-android }ra és { -brand-name-ios }-re.
-firefox-desktop-download-og-title = Töltse le a valaha volt leggyorsabb { -brand-name-firefox }ot
+firefox-desktop-download-meta-desc = Szerezze be a { -brand-name-firefox(case: "accusative") }, a szabad webböngészőt, amit a { -brand-name-mozilla } támogat, a nonprofit szervezet, amely elkötelezett az internet egészsége és az adatvédelem felé. Elérhető { -brand-name-windows }ra, { -brand-name-mac-short }re, { -brand-name-linux }ra, { -brand-name-android }ra és { -brand-name-ios }-re.
+firefox-desktop-download-og-title = Töltse le a valaha volt leggyorsabb { -brand-name-firefox(case: "accusative") }
 firefox-desktop-download-og-desc = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, az új { -brand-name-firefox } megérkezett.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Szerezze be azt a böngészőt, amely védi, ami fontos
@@ -51,7 +51,7 @@ firefox-desktop-download-see-your-report = Nézze meg a védelmi jelentését
 firefox-desktop-download-for-everyone = { -brand-name-firefox } mindenki számára
 firefox-desktop-download-available-in-over = Több mint 90 nyelven elérhető, és kompatibilis a { -brand-name-windows }, { -brand-name-mac-short } és { -brand-name-linux } rendszerű gépekkel, a { -brand-name-firefox } működik, nem számít hogy használ és hol van. A legjobb élmény érdekében győződjön meg arról, hogy az operációs rendszere naprakész legyen.
 firefox-desktop-download-review-system-req = Ellenőrizze a rendszerkövetelményeket
-firefox-desktop-download-all-your-devices = Tegyen { -brand-name-firefox }ot az összes eszközére
+firefox-desktop-download-all-your-devices = Tegyen { -brand-name-firefox(case: "accusative") } az összes eszközére
 firefox-desktop-download-take-your-privacy = Vigye magával mindenhová az adatvédelmet. Az { -brand-name-ios }-re és { -brand-name-android }ra készült { -brand-name-firefox-browsers } ugyanazokat az erős adatvédelmi beállításokat használják, hogy blokkolják a webes követőket, bárhol is legyen.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Tegye meg <strong>mindet</strong> a { -brand-name-firefox(case: "instrumental") }
@@ -128,7 +128,7 @@ firefox-desktop-download-learn-about-the = Tudjon meg többet a { -brand-name-fi
 firefox-desktop-download-from-security-to = A biztonságtól kezdve a hírekig és a játékokig, <a { $attrs }>mindenki számára van egy kiegészítő</a>. Adjon hozzá annyit, amennyit csak akar, amíg a böngészője pont megfelelő lesz.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = A { -brand-name-firefox }ot a <a { $attrs }>{ -brand-name-mozilla }</a> készítette, hogy egy gyorsabb, biztonságosabb alternatívája legyen az olyan böngészőknek, mint az { -brand-name-ie }, és most a { -brand-name-chrome }. Ma a küldetés-vezérelt cégünk és az önkéntesekből álló közösségünk továbbra is az adatvédelmet helyezi az első helyre.
+firefox-desktop-download-firefox-was-created = A { -brand-name-firefox(case: "accusative") } a <a { $attrs }>{ -brand-name-mozilla }</a> készítette, hogy egy gyorsabb, biztonságosabb alternatívája legyen az olyan böngészőknek, mint az { -brand-name-ie }, és most a { -brand-name-chrome }. Ma a küldetés-vezérelt cégünk és az önkéntesekből álló közösségünk továbbra is az adatvédelmet helyezi az első helyre.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Ahogy az internet nő és változik, a { -brand-name-firefox } továbbra is az adatvédelemhez való jogra fókuszál  – ezt mi a <a { $attrs }>személyes adatokra vonatkozó ígéretünknek</a> hívjuk: Gyűjts kevesebben. Tartsd biztonságban. Nincsenek titkok. Az adatait, webes tevékenységét és az online életét a { -brand-name-firefox } védi.
@@ -174,7 +174,7 @@ firefox-desktop-download-if-you-see-a-prompt = Ha megjelenik egy olyan üzenet, 
 firefox-desktop-download-visit-support-for-more = További részletekért látogasson el a Támogatás oldalra
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">már nem biztosít biztonsági frissítéseket</a> { -brand-name-windows } { -brand-name-xp } vagy { -brand-name-vista } operációs rendszerre, de továbbra is használhatja a { -brand-name-firefox }ot.
+firefox-desktop-download-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">már nem biztosít biztonsági frissítéseket</a> { -brand-name-windows } { -brand-name-xp } vagy { -brand-name-vista } operációs rendszerre, de továbbra is használhatja a { -brand-name-firefox(case: "accusative") }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

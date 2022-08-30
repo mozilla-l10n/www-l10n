@@ -79,9 +79,9 @@ newsletters-thanks-for-telling-us-why = Köszönjük, hogy megosztotta velünk l
 newsletters-while-here-why-not-check = Ha már itt van nézze meg milyen a { -brand-name-firefox }.
 newsletters-get-up-and-go = Gyerünk!
 newsletters-its-your-web-anywhere-you = Bármerre is jár a webet magával viheti.
-newsletters-get-firefox-for-mobile = Töltse le a { -brand-name-firefox }ot mobilra!
+newsletters-get-firefox-for-mobile = Töltse le a { -brand-name-firefox(case: "accusative") } mobilra!
 newsletters-added-extras = Extrák hozzáadása
-newsletters-make-firefox-do-more-with = Tegye a { -brand-name-firefox }ot teljessé a kiegészítőkkel.
+newsletters-make-firefox-do-more-with = Tegye a { -brand-name-firefox(case: "accusative") } teljessé a kiegészítőkkel.
 newsletters-find-out-how = Tudja meg hogyan!
 newsletters-about-us = Rólunk
 newsletters-whats-mozilla-all-about = Mit csinál a { -brand-name-mozilla }?
@@ -182,7 +182,7 @@ newsletters-add-your-voice = Adja hozzá a hangját azon petíciókhoz, esemény
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Új termékek tesztelése
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better = Segítsen nekünk abban, hogy jobb { -brand-name-firefox }ot készítsünk, azáltal hogy teszteli a legújabb termékeinket és funkcióinkat.
+newsletters-help-us-make-a-better = Segítsen nekünk abban, hogy jobb { -brand-name-firefox(case: "accusative") } készítsünk, azáltal hogy teszteli a legújabb termékeinket és funkcióinkat.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } közösség
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -19,7 +19,7 @@ about-our-mission-in-action = Küldetésünk a gyakorlatban
 about-pioneers-of-the-open-web = A nyílt web úttörői
 about-our-leadership-has-been-at = A vezetésünk az első naptól kezdve az egészségesebb internet építésének élvonalában van. Ami a vállalatok uralmának alternatívájaként indult, most egy globális pozitív online erővé vált.
 about-firefox-fast-for-good = { -brand-name-firefox }: Gyors, a jó célért
-about-when-you-use-the-new-firefox = Ha az új { -brand-name-firefox }ot használja, akkor villámgyors élményt kap, miközben támogatja a { -brand-name-mozilla } küldetését, hogy az internet továbbra is egészséges, furcsa és barátságos legyen mindenki számára.
+about-when-you-use-the-new-firefox = Ha az új { -brand-name-firefox(case: "accusative") } használja, akkor villámgyors élményt kap, miközben támogatja a { -brand-name-mozilla } küldetését, hogy az internet továbbra is egészséges, furcsa és barátságos legyen mindenki számára.
 about-walking-our-privacy-talk = Beszéljünk az adatvédelemről
 about-when-the-facebook-breach-was = Amikora { -brand-name-facebook } adatszegés kiderült, a { -brand-name-mozilla } azonnal reagált – és ki is adott egy { -brand-name-firefox } terméket, amely támogatja a felhasználók magánszféráját.
 about-talking-internet-issues-irl = Internetes problémák a való életben

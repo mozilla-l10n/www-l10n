@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Töltse le a { -brand-name-firefox }ot
+navigation-v2-download-firefox = Töltse le a { -brand-name-firefox(case: "accusative") }
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } beszerzése
 navigation-v2-menu = Menü
 # Obsolete string

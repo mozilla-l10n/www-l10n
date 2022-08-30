@@ -19,7 +19,7 @@ privacy-faq-we-put-people-in-control-of = Az emberek kezébe adjuk az irányít�
 privacy-faq-we-adhere-to-no-surprises-principle = A „nincsenek meglepetések” elvet követjük, ami azt jelenti, hogy keményen dolgozunk azon, hogy az emberek { -brand-name-firefox }ról alkotott képe megegyezzen a valósággal.
 privacy-faq-the-following-questions-and = A következő kérdések és válaszok segítenek megérteni, hogy mit várhat a { -brand-name-mozilla(ending: "accented") }tól és a { -brand-name-firefox }tól:
 privacy-faq-i-use-firefox-for-almost-everything = Szinte mindenre a { -brand-name-firefox }ot használom a Weben. Ti ott a { -brand-name-mozilla(ending: "accented") }nál biztos sok mindent tudtok rólam, ugye?
-privacy-faq-firefox-the-web-browser-that = A { -brand-name-firefox }, a webböngésző, amely az eszközén vagy számítógépén fut, átjáró az internethez. A böngészője számos információt kezel a felkeresett weboldalakról, de ez az információ az Ön eszközén marad. A { -brand-name-mozilla }, a { -brand-name-firefox }ot készítő vállalat, nem gyűjti azokat (kivéve, ha Ön kéri).
+privacy-faq-firefox-the-web-browser-that = A { -brand-name-firefox }, a webböngésző, amely az eszközén vagy számítógépén fut, átjáró az internethez. A böngészője számos információt kezel a felkeresett weboldalakról, de ez az információ az Ön eszközén marad. A { -brand-name-mozilla }, a { -brand-name-firefox(case: "accusative") } készítő vállalat, nem gyűjti azokat (kivéve, ha Ön kéri).
 privacy-faq-really-you-dont-collect-my-browsing = Tényleg, nem gyűjtik az előzményeim?
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/

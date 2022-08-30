@@ -9,16 +9,16 @@ facebook-container-facebook-container-for-firefox = { -brand-name-facebook-conta
 facebook-container-millions-of-people-around = Szerte a világon milliók bíznak meg a { -brand-name-firefox } webböngészőben { -brand-name-android }on, { -brand-name-ios }-en és asztali rendszereken. Gyors. Biztonságos. Töltse le most!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Elkülönítve. Tartsa meg az élete többi részét saját magának.
 facebook-container-get-the-facebook-container = Szerezze be a { -brand-name-facebook-container } kiegészítőt
-facebook-container-download-firefox-and-get-the = Töltse le a { -brand-name-firefox }ot, és szerezze be a { -brand-name-facebook-container } kiegészítőt
+facebook-container-download-firefox-and-get-the = Töltse le a { -brand-name-firefox(case: "accusative") }, és szerezze be a { -brand-name-facebook-container } kiegészítőt
 facebook-container-only-available-for-desktop = A { -brand-name-facebook-container } kiegészítő jelenleg csak az asztali { -brand-name-firefox }ra érhető el.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-facebook-container-visit-to-get-for-desktop = Látogasson el a <a href="{ $url }">{ $link_copy }</a> oldalra, és szerezze be az asztali { -brand-name-firefox }ot.
+facebook-container-visit-to-get-for-desktop = Látogasson el a <a href="{ $url }">{ $link_copy }</a> oldalra, és szerezze be az asztali { -brand-name-firefox(case: "accusative") }.
 # Outdated string
 facebook-container-the-facebook-container-extension = A { -brand-name-facebook-container } kiterjesztés mobileszközökön nem érhető el.
-facebook-container-get-firefox-android-ios = Szerezze be most a { -brand-name-firefox }ot { -brand-name-android }ra és { -brand-name-ios }-re.
+facebook-container-get-firefox-android-ios = Szerezze be most a { -brand-name-firefox(case: "accusative") } { -brand-name-android }ra és { -brand-name-ios }-re.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Próbálja ki a <strong>{ -brand-name-firefox-focus }t</strong>, a privát böngészőt { -brand-name-android }ra és { -brand-name-ios }-re.

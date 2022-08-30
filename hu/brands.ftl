@@ -76,7 +76,12 @@
 -brand-name-esr = ESR
 -brand-name-focus = Focus
 -brand-name-lite = Lite
--brand-name-nightly = Nightly
+-brand-name-nightly =
+    { $case ->
+       *[nominative] Nightly
+        [accusative] Nightlyt
+        [instrumental] Nightlyval
+    }
 -brand-name-reality = Reality
 -brand-name-daylight = Daylight
 

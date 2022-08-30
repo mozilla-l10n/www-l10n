@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/6/
@@ -8,9 +8,9 @@
 # HTML page title
 welcome-page6-make-firefox-your-default = A { -brand-name-firefox } alapértelmezett böngészővé tétele
 welcome-page6-make-sure-youre-protected = Ha fellép az internetre, győződjön meg róla, hogy védve van-e
-welcome-page6-when-you-choose-firefox-you = Ha a { -brand-name-firefox }ot választja, akkor egy jobb webet támogat, Ön és mindenki más számára. Most pedig tegye meg a következő lépést, hogy megvédje magát.
+welcome-page6-when-you-choose-firefox-you = Ha a { -brand-name-firefox(case: "accusative") } választja, akkor egy jobb webet támogat, Ön és mindenki más számára. Most pedig tegye meg a következő lépést, hogy megvédje magát.
 welcome-page6-get-the-firefox-app = Szerezze be a { -brand-name-firefox } alkalmazást
-welcome-page6-get-firefox-on-your-phone = Szerezze be a { -brand-name-firefox }ot a telefonjára
+welcome-page6-get-firefox-on-your-phone = Szerezze be a { -brand-name-firefox(case: "accusative") } a telefonjára
 welcome-page6-scan-the-qr-code-to-get-started = Olvassa le a QR-kódot, és kezdjen neki
 welcome-page6-qr-code-to-scan-for-firefox = A { -brand-name-firefox }hoz leolvasandó QR-kód
 welcome-page6-choose-automatic-privacy = Válassza az automatikus adatvédelmet

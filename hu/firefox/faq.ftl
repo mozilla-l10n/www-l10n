@@ -80,5 +80,5 @@ who-owns-firefox = Kié a { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
-firefox-is-made = A { -brand-name-firefox }ot a { -brand-name-mozilla-corporation } készíti, amely a nonprofit <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> teljes tulajdonú leányvállalata, és a { -brand-name-mozilla } kiáltvány irányelvei vezérlik. Tudjon meg többet a { -brand-name-firefox } gyártójáról <a href="{ $url2 }">itt.</a>
+firefox-is-made = A { -brand-name-firefox(case: "accusative") } a { -brand-name-mozilla-corporation } készíti, amely a nonprofit <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> teljes tulajdonú leányvállalata, és a { -brand-name-mozilla } kiáltvány irányelvei vezérlik. Tudjon meg többet a { -brand-name-firefox } gyártójáról <a href="{ $url2 }">itt.</a>
 related-questions-who = Kapcsolódó kérdések: ki a { -brand-name-firefox } tulajdonosa; ki a { -brand-name-firefox-browser } tulajdonosa; a{ -brand-name-google }-e a { -brand-name-firefox } tulajdonosa; a { -brand-name-google }-e a { -brand-name-mozilla } { -brand-name-firefox } tulajdonosa

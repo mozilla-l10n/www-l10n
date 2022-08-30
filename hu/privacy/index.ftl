@@ -19,7 +19,7 @@ privacy-index-data-privacy-principles = Adatvédelmi elvek
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
-privacy-index-mozillas-data-privacy-principles = A { -brand-name-mozilla } <a href="{ $principles }">adatvédelmi irányelvei</a> inspirálják a gyakorlatunkat, miszerint tiszteletben tartjuk és védjük az internethasználókat. Ismerje meg a <a href="{ $faq }">GYIK-ből</a>, hogy ezek a gyakorlatok hogyan alakítják a { -brand-name-firefox }ot és az összes termékünket.
+privacy-index-mozillas-data-privacy-principles = A { -brand-name-mozilla } <a href="{ $principles }">adatvédelmi irányelvei</a> inspirálják a gyakorlatunkat, miszerint tiszteletben tartjuk és védjük az internethasználókat. Ismerje meg a <a href="{ $faq }">GYIK-ből</a>, hogy ezek a gyakorlatok hogyan alakítják a { -brand-name-firefox(case: "accusative") } és az összes termékünket.
 privacy-index-transparency-report = Átláthatósági jelentés
 privacy-index-get-involved = Csatlakozzon
 # Variables:

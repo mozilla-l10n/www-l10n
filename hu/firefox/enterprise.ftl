@@ -5,12 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-get-firefox-for-your-enterprise-with = Szerezze be a { -brand-name-firefox }ot vállalata számára az { -brand-name-esr } és gyors kiadásokkal
+firefox-enterprise-get-firefox-for-your-enterprise-with = Szerezze be a { -brand-name-firefox(case: "accusative") } vállalata számára az { -brand-name-esr } és gyors kiadásokkal
 firefox-enterprise-get-unmatched-data-protection = Szerezzen páratlan adatvédelmet, és a vállalatának megfelelő kiadási ütemet a { -brand-name-firefox(case: "instrumental") }. Töltse le az { -brand-name-esr }-t és a gyors kiadást.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Áttekintés
 firefox-enterprise-downloads = Letöltések
-firefox-enterprise-get-firefox-for-your-enterprise = Szerezze be a { -brand-name-firefox }ot vállalata számára
+firefox-enterprise-get-firefox-for-your-enterprise = Szerezze be a { -brand-name-firefox(case: "accusative") } vállalata számára
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Szerezze be a <a href="{ $url }">{ -brand-name-firefox-extended-support-release }t vagy a gyors kiadású</a> böngészőt az átfogó adatbiztonságért és adatvédelemért.

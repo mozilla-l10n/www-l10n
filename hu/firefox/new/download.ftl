@@ -26,7 +26,7 @@ firefox-new-need-help = Segítségre van szüksége?
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">már nem biztosít biztonsági frissítéseket</a> { -brand-name-windows } { -brand-name-xp } vagy { -brand-name-vista } operációs rendszerre, de továbbra is használhatja a { -brand-name-firefox }ot.
+firefox-new-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">már nem biztosít biztonsági frissítéseket</a> { -brand-name-windows } { -brand-name-xp } vagy { -brand-name-vista } operációs rendszerre, de továbbra is használhatja a { -brand-name-firefox(case: "accusative") }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

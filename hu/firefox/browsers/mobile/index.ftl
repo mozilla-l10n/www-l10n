@@ -21,7 +21,7 @@ browsers-mobile-go-your-own-way = Menjen a saját útjára a { -brand-name-firef
 browsers-mobile-firefox-mobile-adapts-to-you = A { -brand-name-firefox } mobilböngésző alkalmazkodik Önhöz, és minden eddiginél egyszerűbbé teszi az összes megnyitott lap, a korábbi keresések és a kedvenc webhelyek megtekintését.
 browsers-mobile-the-more-you-use = Minél többet használja, annál okosabb lesz. A { -brand-name-firefox } kezdőképernyő alkalmazkodik Önhöz, és könnyebbé teszi, hogy ott folytassa, ahol abbahagyta.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
-browsers-mobile-get-enhanced-tracking-protection = Szerezzen fokozott követés elleni védelmet és tegye a { -brand-name-firefox }ot az alapértelmezett böngészővé az { -brand-name-iphone } és { -brand-name-ipad } eszközén.
+browsers-mobile-get-enhanced-tracking-protection = Szerezzen fokozott követés elleni védelmet és tegye a { -brand-name-firefox(case: "accusative") } az alapértelmezett böngészővé az { -brand-name-iphone } és { -brand-name-ipad } eszközén.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Egyszerűsített, szupergyors mobilböngészőt keres következő szintű adatvédelmi funkciókkal? A { -brand-name-firefox-focus } automatikusan törli az összes előzményt a böngésző megnyitásának pillanatától a bezárásáig.
 browsers-mobile-compare-mobile-browsers = Mobilböngészők összehasonlítása
