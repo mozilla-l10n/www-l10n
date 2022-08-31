@@ -11,7 +11,7 @@
 contribute-page-title = Sjálfboðaliðatækifæri hjá { -brand-name-mozilla }
 contribute-page-heading = Hæfileika þinna er þörf til að gera betra internet
 contribute-page-intro = { -brand-name-mozilla } er sjálfseignarstofnun sem vinnur að því að tryggja að internetið sé opið og bjóði alla velkomnam. Og við þurfum á hjálp þinni að halda. Með því að ganga í samfélag okkar geturðu hjálpað til við að knýja nýsköpun, auka ábyrgð og traust og gera internetið að betri stað fyrir alla.
-contribute-how-heading = Hvernig getur þú lagt þitt af mörkum...
+contribute-how-heading = Hvernig getur þú lagt þitt af mörkum…
 
 ## Contribution tasks
 

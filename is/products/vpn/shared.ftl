@@ -99,7 +99,7 @@ vpn-shared-platform-trust-partner-headline = Um traustan samstarfsaðila okkar
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } keyrir á alþjóðlegu neti netþjóna sem knúnir eru af <a href="{ $policy }">{ -brand-name-mullvad }</a> með <a href=" { $wireguard }">{ -brand-name-wireguard }</a>® samskiptareglum. { -brand-name-mullvad } setur friðhelgi þína í fyrsta sæti og heldur ekki virkniskrár af neinu tagi.
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } keyrir á alþjóðlegu neti netþjóna sem knúnir eru af <a href="{ $policy }">{ -brand-name-mullvad }</a> með <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® samskiptareglum. { -brand-name-mullvad } setur friðhelgi þína í fyrsta sæti og heldur ekki virkniskrár af neinu tagi.
 vpn-shared-platform-what-youll-get = Það sem þú færð með { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
