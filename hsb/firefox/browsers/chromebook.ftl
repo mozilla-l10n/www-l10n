@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
@@ -15,7 +15,7 @@ browsers-chromebook-get-firefox-desktop = Wobstarajće sej { -brand-name-firefox
 browsers-chromebook-x86-based-chromebook = *x86 na bazy { -brand-name-chromebook } z { -brand-name-chromeos } 80 abo nowšim
 browsers-chromebook-dropdown-copy = Wobstarajće sej { -brand-name-firefox } za { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
-browsers-chromebook-why-get-firefox = Čehodla wobstarujće sej { -brand-name-firefox } za { -brand-name-chromebook }?
+browsers-chromebook-why-get-firefox = Čehodla wobstarujće sej <span>{ -brand-name-firefox }</span> za { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = W { -brand-name-chromebook } je { -brand-name-chrome } hižo předinstalowany, ale { -brand-name-firefox } jako waš standardny wobhladowak ma hišće někotre lěpšiny:
 browsers-chromebook-is-it-hard = Je ćežko { -brand-name-firefox } za { -brand-name-chromebook } instalować?
 
