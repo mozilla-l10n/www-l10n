@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -80,7 +80,7 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Leva a túa privacidade e 
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
-firefox-privacy-hub-already-have-an-account = Xa tes unha conta? <a { $sign_in } class=" { $class_name }">Inicia sesión</a> ou <a href="{ $learn_more }">descubre máis</a> sobre como se rexistrar no { -brand-name-firefox }.
+firefox-privacy-hub-already-have-an-account = Xa tes unha conta? <a { $sign_in } class="{ $class_name }">Inicia sesión</a> ou <a href="{ $learn_more }">descubre máis</a> sobre como se rexistrar no { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Le a <a href="{ $url }">política de privacidade</a> dos nosos produtos

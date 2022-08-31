@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -25,7 +25,7 @@ how-do-i = Como podo obter o { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
-you-can-easily = Velaquí <a href="{ $url }"> podes descargar o navegador { -brand-name-firefox } para escritorio facilmente.</a> O { -brand-name-firefox } funciona en dispositivos <a href="{ $url2 }">{ -brand-name-windows }, </a><a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux } e tamén está dispoñíbel para <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }.</a> Asegúrate de estares a descargar o noso navegador nunha das nosas páxinas de confianza de { -brand-name-mozilla } ou { -brand-name-firefox }.
+you-can-easily = Velaquí <a href="{ $url }"> podes descargar o navegador { -brand-name-firefox } para escritorio facilmente.</a> O { -brand-name-firefox } funciona en dispositivos <a href="{ $url2 }">{ -brand-name-windows }, </a><a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux }</a> e tamén está dispoñíbel para <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }.</a> Asegúrate de estares a descargar o noso navegador nunha das nosas páxinas de confianza de { -brand-name-mozilla } ou { -brand-name-firefox }.
 is-firefox-free = É o { -brand-name-firefox } gratuíto?
 yep-the-firefox = Pois é! O { -brand-name-firefox-browser } é gratuíto. Súper gratuíto, de feito. Nin custos agochados nin nada. Non tes que pagar por o usar e non vendemos os teus datos persoais.
 related-questions-free = Preguntas relacionadas: o { -brand-name-firefox-browser } é gratuíto, o { -brand-name-firefox } custa diñeiro
@@ -70,9 +70,9 @@ does-firefox-have = Ten o { -brand-name-firefox } unha Rede Privada Virtual (VPN
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
-firefox-does-not = O { -brand-name-firefox } non ten unha VPN integrada, mais hai dous produtos creados por { -brand-name-mozilla }/{ -brand-name-firefox } que podes usar alén do { -brand-name-firefox-browser } en modo incógnito e que poden protexer tanto o navegador (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) como a conexión do dispositivo por WiFi (<a href="{ $url }">{ -brand-name-mozilla-vpn }, así como o enderezo IP do teu dispositivo.
+firefox-does-not = O { -brand-name-firefox } non ten unha VPN integrada, mais hai dous produtos creados por { -brand-name-mozilla }/{ -brand-name-firefox } que podes usar alén do { -brand-name-firefox-browser } en modo incógnito e que poden protexer tanto o navegador (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) como a conexión do dispositivo por WiFi (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>, así como o enderezo IP do teu dispositivo.
 related-questions-ip = Preguntas relacionadas: oculta o { -brand-name-firefox } o teu enderezo IP
 who-owns-firefox = Quen é o propietario do { -brand-name-firefox }?
 
@@ -80,5 +80,5 @@ who-owns-firefox = Quen é o propietario do { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
-firefox-is-made = O { -brand-name-firefox } é desenvolvido pola { -brand-name-mozilla-corporation }, unha filial que pertence integramente á <a href="{ $url }">{ -brand-name-mozilla-foundation }, unha fundación sen fins lucrativos que se guía polos preceptos do Manifesto { -brand-name-mozilla }. <a href="{ $url2 }">Velaquí podes descubrir máis sobre o creador do { -brand-name-firefox }.</a>
+firefox-is-made = O { -brand-name-firefox } é desenvolvido pola { -brand-name-mozilla-corporation }, unha filial que pertence integramente á <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> unha fundación sen fins lucrativos que se guía polos preceptos do Manifesto { -brand-name-mozilla }. <a href="{ $url2 }">Velaquí podes descubrir máis sobre o creador do { -brand-name-firefox }.</a>
 related-questions-who = Preguntas relacionada: quen é o propietario do { -brand-name-firefox }, quen é o propietarios do { -brand-name-firefox-browser }, é o { -brand-name-firefox } propiedade de { -brand-name-google }, é { -brand-name-mozilla }{ -brand-name-firefox } propiedade de { -brand-name-google }

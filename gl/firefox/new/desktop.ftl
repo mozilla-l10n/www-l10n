@@ -167,11 +167,11 @@ firefox-desktop-download-if-you-see-a-prompt = Se che aparece un aviso de que a 
 firefox-desktop-download-visit-support-for-more = Para máis información, consulta a páxina de Asistencia
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">xa non ofrece máis actualizacións de seguridade para { -brand-name-windows } { -brand-name-xp } e { -brand-name-vista }, pero poderás seguir usando o { -brand-name-firefox }.
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">xa non ofrece máis actualizacións de seguridade</a> para { -brand-name-windows } { -brand-name-xp } e { -brand-name-vista }, pero poderás seguir usando o { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Estás a usar un sistema operativo inseguro e desactualizado <a href=" { $url }">que xa non é compatíbel co { -brand-name-firefox } </a>.
+firefox-desktop-download-youre-using-an-insecure-outdated = Estás a usar un sistema operativo inseguro e desactualizado <a href="{ $url }">que xa non é compatíbel co { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
