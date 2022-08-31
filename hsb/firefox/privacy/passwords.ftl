@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -54,10 +54,10 @@ privacy-passwords-twofactor-authentication-2fa = Dwufaktorowa awtentifikacija (2
 privacy-passwords-2fa-is-a = 2FA je wulkotna móžnosć, wašu wěstotu powyšić. Hdyž nowe konto konfigurujeće, skića wam někotre sydła móžnosć, přizjewjenskemu procesej „druhi faktor“ přidać. Husto to rěka, zo swoje telefonowe čisło ze swojim kontom zwjazujeće. Po tym zo sće swoje hesło zapodał, namołwjeja was, wěsty kod zapodać, kotryž so direktnje na was scéle. Na tute wašnje njemóže hacker, kotryž spyta waše hesło dóstać, so do wašeho konta zadobyć, dokelž waš telefon nima.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Waše konto { -brand-name-firefox }, na přikład, da so z 2FA škitać, <a { $url_sumo_2fa }>wo čimž móžeće tu wjace zhonić</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA wjele lěpšu wěstotu hač hesło same skići, ale nic kóžde websydło ju podpěruje. Móžeće na <a { $url_2fa }>https://twofactorauth.org</a> lisćinu websydłow namakać, kotrež 2FA podpěruja, a tež lisćinu sydłow, kotrež 2FA njepodpěruja a móžnosće, kak móžeće je namołwić, podpěru přidać.
 privacy-passwords-strong-diverse-and = Mócny, wšělakory a multifaktorielny
 privacy-passwords-for-better-or = Chcyjo nochcyjo budźemy hesła wužiwać, zo bychmy waše konta online na dohladnu dobu škitali. Wužiwajće hesła, kotrež su <strong>mócne</strong> a <strong>rozdźělne za kóžde sydło</strong>, a wužiwajće <strong>zrjadowak hesłow</strong>, zo byšće sej je wěsće spomjatkował. Nastajće <strong>dołhe, připadne wotmołwy</strong> za wěstotne prašenja (samo hdyž woprawdźitosći njewotpowěduja). A <strong>wužiwajće dwufaktorowu awtentifikaciju</strong> na kóždej sydle, kotrež ju podpěruje.
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
-privacy-passwords-in-todays-internet = W dźensnišim interneće, hdźež so tysacy hesłow kóždy dźeń kradnu a konta so na čornych wikach wikuja, so próca wupłaća, waše žiwjenje online škitać. Hdyž produkty { -brand-name-firefox } wužiwaće, so wam dźěl prócy wotewza, dokelž wšě naše produkty su postajene, naše <a { $url_privacy_products }>slubjenje priwatnosće</a> dodźeržeć. A { -brand-name-firefox } so přeco wot <a { $url_privacy_products }>misije Mozilla</a> wjedźe, powšitkownosći wužitneje organizacije, kotraž nas njese, zo by lěpši internet wutworiła.
+privacy-passwords-in-todays-internet = W dźensnišim interneće, hdźež so tysacy hesłow kóždy dźeń kradnu a konta so na čornych wikach wikuja, so próca wupłaća, waše žiwjenje online škitać. Hdyž produkty { -brand-name-firefox } wužiwaće, so wam dźěl prócy wotewza, dokelž wšě naše produkty su postajene, naše <a { $url_privacy_products }>slubjenje priwatnosće</a> dodźeržeć. A { -brand-name-firefox } so přeco wot <a { $url_about_manifesto }>misije Mozilla</a> wjedźe, powšitkownosći wužitneje organizacije, kotraž nas njese, zo by lěpši internet wutworiła.
