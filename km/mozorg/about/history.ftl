@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = នៅ​ឆ្នាំ​២០០២, <a href=
 history-not-many-people-noticed = ពេល​នោះ មិន​មាន​មនុស្ស​ច្រើន​បាន​ដឹង​នោះ​ទេ​ថា កំណែ​ដំបូង​នៃ Phoenix (ក្រោយ​មក​ប្ដូរ​ឈ្មោះ​ជា { -brand-name-firefox }) ក៏​ត្រូវ​បាន​ចេញ​ផ្សាយ​ដោយ​សមាជិក​សហគមន៍ { -brand-name-mozilla } នៅ​ឆ្នាំ​នោះ​ដែរ ដោយ​មាន​គោល​បំណង​ផ្ដល់<a href="{ $charter }">បទ​ពិសោធន៍​រុករក​ដ៏​ប្រសើរ​មួយ</a> ទៅ​ដល់​មនុស្ស​ឲ្យ​បាន​ច្រើន​តាម​តែអាច​ធ្វើ​ទៅ​បាន។
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = ក្នុង​ឆ្នាំ​2003 គម្រោង { -brand-name-mozilla } បាន​បង្កើត​មូលនិធិ { -brand-name-mozilla } ឡើង ដែល​ជា​<a href="{ $foundation }">ស្ថាប័ន​ឯករាជ្យ​មិន​រក​ប្រាក់​ចំណេញ</a> ហើយ​មាន​ការ​គាំទ្រ​ពី​អ្នក​បរិច្ចាគ និង​ក្រុមហ៊ុន​ជាច្រើន​។
+history-in-2003-the-mozilla-project = ក្នុង​ឆ្នាំ​2003 គម្រោង { -brand-name-mozilla } បាន​បង្កើត​មូលនិធិ { -brand-name-mozilla-foundation } ឡើង ដែល​ជា​<a href="{ $foundation }">ស្ថាប័ន​ឯករាជ្យ​មិន​រក​ប្រាក់​ចំណេញ</a> ហើយ​មាន​ការ​គាំទ្រ​ពី​អ្នក​បរិច្ចាគ និង​ក្រុមហ៊ុន​ជាច្រើន​។
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = មូលនិធិ Mozilla ថ្មី​បាន​បន្ត​ការ​គ្រប់គ្រង​ការ​ប្រតិបត្តិ​គម្រោង​ប្រចាំ​ថ្ងៃ និង​អនុវត្ត​ធ្វើ​ឲ្យ​ប្រសើរ​ជា​ផ្លូវ​ការ <a href="{ $manifesto }">ភាព​បើក​ទូលាយ, ការ​ច្នៃ​ប្រឌិត និង​ឱកាស</a> លើ​អ៊ីនធឺណិត។
+history-the-new-mozilla-foundation = { -brand-name-mozilla-foundation }​ថ្មី​បាន​បន្ត​តួនាទី​ក្នុងការ​គ្រប់គ្រង​ការ​ប្រតិបត្តិ​គម្រោង​ប្រចាំ​ថ្ងៃ ហើយក៏​មាន​តួនាទី​ជាផ្លូវការ​ក្នុងការផ្សព្វផ្សាយ​<a href="{ $manifesto }">ភាព​បើក​ទូលាយ ការ​ច្នៃ​ប្រឌិត និងឱកាស</a>​លើ​អ៊ីនធឺណិត។
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = បាន​បន្ត​កម្មវិធី​មួយ​ចំនួន, ដូច​ជា { -brand-name-firefox } និង { -brand-name-thunderbird }, និង​ពង្រីក​ទៅ​កាន់​តំបន់​ថ្មីៗ, ដូច​ជា​ការ​ផ្ដល់ <a href="{ $grants }">grants</a> ដើម្បី​គាំទ្រ​ការ​ធ្វើ​ឲ្យ​ប្រសើរ​ឡើង​សម្រាប់​ការ​ចូល​ប្រើ​នៅ​លើ​បណ្ដាញ។
