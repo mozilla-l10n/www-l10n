@@ -10,7 +10,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: omo’ãta opaite ne mba�
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-page-desc = Eipuru { -brand-name-mozilla-vpn } emo’ã hag̃ua mba’e’oka opa tembipuru’ípe g̃uarã. Apopyvusu ndive { $country }+ tetãme, eikekuaa oimeraẽva tendápe, eime eimehápe.
+vpn-landing-page-desc = Eipuru { -brand-name-mozilla-vpn } emo’ã hag̃ua mba’e’oka opa tembipuru’ípe g̃uarã. Apopyvusu ndive { $countries }+ tetãme, eikekuaa oimeraẽva tendápe, eime eimehápe.
 vpn-landing-hero-sub-heading-v2 = Tekorosã, jeroviaha ha pya’ekue — peteĩteĩva mba’e’okápe, eho ehohápe.
 # Obsolete string
 vpn-landing-hero-sub-heading = Tekorosã nepytyvõkuaáva. Peteĩ téra ejeroviakuaaha.
