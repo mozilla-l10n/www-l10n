@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -41,7 +41,7 @@ compare-safari-also-when-you-sign-up-for-updated = Ademais, cando te rexistras n
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 #   $send (string) - link to send.firefox.com with additional attributes for analytics
-compare-safari-also-when-you-sign-up-for = Ademais, cando te rexistras nunha conta de { -brand-name-firefox }, obtés acceso a servizos únicos como o <a { $pocket }>{ -brand-name-pocket }</a> que se integra directamente no navegador. O botón { -brand-name-pocket } no { -brand-name-firefox } permíteche gardar páxinas web e vídeos no { -brand-name-pocket } con premer unha soa vez. Desta forma podes ler unha versión limpa e libre de distraccións cando e onde quixeres, mesmo sen estares conectado á Internet. Co { -brand-name-send } podes compartir ficheiros grandes cifrados de punta a punta con varios controis de seguridade como a capacidade de definir un prazo de validade, o número de descargas e engadir un contrasinal opcional para unha capa de seguridade adicional.
+compare-safari-also-when-you-sign-up-for = Ademais, cando te rexistras nunha conta de { -brand-name-firefox }, obtés acceso a servizos únicos como o <a { $pocket }>{ -brand-name-pocket }</a> e <a { $send }>{ -brand-name-send }</a>que están integrados directamente no navegador. O botón { -brand-name-pocket } no { -brand-name-firefox } permíteche gardar páxinas web e vídeos no { -brand-name-pocket } con premer unha soa vez. Desta forma podes ler unha versión limpa e libre de distraccións cando e onde quixeres, mesmo sen estares conectado á Internet. Co { -brand-name-send } podes compartir ficheiros grandes cifrados de punta a punta con varios controis de seguridade como a capacidade de definir un prazo de validade, o número de descargas e engadir un contrasinal opcional para unha capa de seguridade adicional.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics

@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -132,7 +132,7 @@ firefox-desktop-download-as-the-internet = A pesar de que Internet segue medrand
 firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está dispoñíbel para todos os dispositivos, de xeito que sempre poderás levar contigo as lapelas, o historial e os marcadores. O único que precisas é unha <a { $attrs }>conta { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Tira unha imaxe de alta resolución de calquera cousa que atopes en Internet coa ferramenta de captura de pantalla integrada no navegador.
+firefox-desktop-download-grab-a-high = Tira unha imaxe de alta resolución de calquera cousa que atopes en Internet coa ferramenta de <a { $attrs }captura de pantalla</a> integrada no navegador.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = O { -brand-name-firefox } <a { $attrs }>impide automaticamente que moitos rastrexadores de terceiros</a> recompilen e vendan a túa actividade na rede.
@@ -141,6 +141,7 @@ firefox-desktop-download-firefox-automatically = O { -brand-name-firefox } <a { 
 firefox-desktop-download-questions = Algunha dúbida? Resólveas coa <a { $attrs }>asistencia de { -brand-name-mozilla }</a>.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Xa tes o navegador, pero aínda podes sacar máis proveito do { -brand-name-firefox }.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Vixía os piratas informáticos con { -brand-name-firefox-monitor }, protexe os contrasinais con { -brand-name-firefox-lockwise } e moito máis.
 firefox-desktop-download-get-more-from-firefox = Descubre máis sobre o { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Chega con só descargar o navegador
@@ -158,6 +159,7 @@ firefox-desktop-download-now-mac = <strong>Abre</strong> o ficheiro que acabas d
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Tes problemas? <a { $attrs }>Aquí atoparás axuda para a instalación</a>.
 firefox-desktop-download-in-another-language = Descargar noutro idioma ou para outro sistema operativo.
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -175,6 +177,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Estás a usar un sis
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = A descarga debería iniciarse automaticamente. Non se iniciou? <a id="{ $id }" href="{ $fallback_url }">Téntao de novo.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } é máis do que un simple navegador.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Interrompeuse a descarga, pero non está todo perdido.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
