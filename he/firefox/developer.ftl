@@ -1,15 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition-desc = מהדורת המפתחים של Firefox היא דפדפן מהיר בטירוף שמציע כלי פיתוח חדשניים לצד תמיכה ב־CSS Grid ובניפוי שגיאות בסביבות הרצה
+firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } היא דפדפן מהיר בטירוף שמציע כלי פיתוח חדשניים לצד תמיכה ב־CSS Grid ובניפוי שגיאות בסביבות הרצה
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = ברוך בואך לדפדפן המועדף החדש שלך. כל התכונות, הביצועים המהירים וכלי הפיתוח שנדרשים לך כדי לפתח לאינטרנט החופשי כבר נמצאים בהישג ידך.
 firefox-developer-speak-up = להרים את הקול
@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = מתן עזרה בבניית הדפדפ�
 firefox-developer-start-now = להתחיל כעת
 firefox-developer-design-code-test = לעצב. לפתח. לבדוק. לשפר.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = בנייה והשלמת האתרים שלך<br> עם כלי המפתחים של Firefox
+firefox-developer-build-and-perfect = בנייה והשלמת האתרים שלך<br> עם { -brand-name-firefox-devtools }
 firefox-developer-inspector = חוקר
 firefox-developer-inspect-and-refine = ניתן לחקור ולזקק קוד כדי לבנות עימודים מושלמים עד רמת הפיקסל.
 firefox-developer-learn-about-page-inspector = מידע נוסף על מפקח הדפים
@@ -55,6 +55,7 @@ firefox-developer-new-tools = כלים חדשים
 firefox-developer-inactive-css = CSS לא פעיל
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = התמחות ב־CSS Grid
+# outdated
 firefox-developer-next-gen-css-engine = מנוע CSS של הדור הבא
 firefox-developer-a-next-generation = מנוע ה־CSS של הדור הבא
 firefox-developer-master-innovative-features = תכונות חדשניות
@@ -68,7 +69,7 @@ firefox-developer-faster-innovation = מידע מהיר יותר
 firefox-developer-fonts-panel = חלונית גופנים
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } שולח אל { -brand-name-mozilla } משוב באופן אוטומטי.
 firefox-developer-download-the-firefox-browser = ניתן להוריד את הדפדפן של { -brand-name-firefox } שנועד למפתחים
-firefox-developer-welcome-to-the-all-new = ברוכים הבאים ל־{ -brand-name-firefox-quantum } החדש: מהדורת המפתחים
+firefox-developer-welcome-to-the-all-new = ברוכים הבאים ל־{ -brand-name-firefox-quantum } החדש: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } נבנה מחדש מההתחלה כדי שיהיה יותר מהיר, חלק ועצמתי מאי פעם.
-firefox-developer-congrats-you-now-have-firefox = ברכותינו. מעכשיו יש לך את { -brand-name-firefox-quantum }: מהדורת המפתחים.
+firefox-developer-congrats-you-now-have-firefox = ברכותינו. מעכשיו יש לך את { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = זה לא עוד עדכון. זה { -brand-name-firefox-quantum }:‏ { -brand-name-firefox } חדש ומחודש שנבנה מאפס כדי להיות מהיר יותר, חלק יותר ועצמתי יותר מאי פעם.
