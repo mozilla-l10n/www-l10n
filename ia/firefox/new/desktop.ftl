@@ -133,9 +133,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ha essite
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Assi que Internet cresce e cambia, { -brand-name-firefox } continua concentrar se sur tu derecto al confidentialitate, nos lo appella le <a { $attrs }>Promissa re datos personal</a>: prender minus, mantener lo secur e transparentia. Tu datos, tu activitate web, tu vita online es protegite per { -brand-name-firefox }.
 # Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } es disponibile sur tote tu apparatos; porta con te tu schedas, tu chronologia e tu marcapaginas.
-# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Captura un imagine a alte-resolution de ulle cosa online con nostre utensile de <a { $attrs }>instantaneo de schermo</a> integrate solo al navigator
 # Variables:

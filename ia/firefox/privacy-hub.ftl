@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -60,7 +60,7 @@ firefox-privacy-hub-protection-beyond-tracking = Protection ultra le traciamento
 firefox-privacy-hub-if-you-have-a-firefox-account = Si tu ha un { -brand-name-firefox-account }, tu pote alsi vider nostre modo de adjutar te a proteger tu informationes personal e contrasignos.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
-firefox-privacy-hub-more-than-s-trackers-blocked = Plus de { $traciatores } traciatores blocate cata die pro le usatores de { -brand-name-firefox } in tote le mundo
+firefox-privacy-hub-more-than-s-trackers-blocked = Plus de { $trackers } traciatores blocate cata die pro le usatores de { -brand-name-firefox } in tote le mundo
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = Quando tu insere tu adresse email in { -brand-name-firefox-monitor }, no lo oblida immediatemente post que nos ha verificate pro un concordantia in note violationes de datos, a minus que tu autorisa nos pro continuar le surveliantia de nove violationes pro tu informationes personal.
 firefox-privacy-hub-check-for-breaches = Verificar si il ha violationes
