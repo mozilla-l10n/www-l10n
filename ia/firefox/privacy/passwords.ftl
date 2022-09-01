@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -33,7 +33,7 @@ privacy-passwords-its-easy-to = Il es facile prevenir attaccantes de robar tu co
 privacy-passwords-a-closed-lock = Un serratura pendente clause appare justo ante le adresse del sito web in le barra de URL in tote le major navigatores.
 privacy-passwords-the-lock-means = Le serratura clause significa que le sito web que tu usa es cryptate, assi mesmo si qualcuno observa tu navigation in rete (como un altere persona sur un puncto de accesso wifi public), illes non potera vider tu contrasigno. { -brand-name-firefox } provara a advertir te quando tu es preste a inserer tu contrasigno sur un sito non cryptate.
 privacy-passwords-a-padlock-with = Un serratura pendente con un linea a transverso de illo indica que le connexion non es secur.
-privacy-passwords-your-browser-also = Tu navigator alsi te adjuta mantener te informate re quanto es digne de fide le sitos, pro adjutar te mantener te secur ab fraude. De un latere, quando tu tenta de visitar un sito web que es note esser un sito fraudulente, { -brand-name-firefox } (e ulle major navigator) monstrara un advertimento a plen-schermo — <strong>paga attention e pensa duo vices re usar ille sito!</strong
+privacy-passwords-your-browser-also = Tu navigator alsi te adjuta mantener te informate re quanto es digne de fide le sitos, pro adjutar te mantener te secur ab fraude. De un latere, quando tu tenta de visitar un sito web que es note esser un sito fraudulente, { -brand-name-firefox } (e ulle major navigator) monstrara un advertimento a plen-schermo — <strong>paga attention e pensa duo vices re usar ille sito!</strong>
 privacy-passwords-firefox-will = Firefox monstrara un advertimento in vice del sito web, si il es note esser un sito fraudulente.
 privacy-passwords-in-general-the = In general, le melior defensa contra fraude es <strong>sia suspiciose de lo que tu recipe</strong>, sia que illo appare in un e-mail, como message de texto o sur le telephono. In vice del interprender action sur lo que qualcuno te inviava, visita le sito directemente. Per exemplo, si un e-mail dice tu debe reinitialisar tu contrasigno Paypal, non clicca le ligamine. Insere paypal.com tu mesme. Si le banca appella, appella les retro.
 privacy-passwords-strength-in-diversity = Fortia, in diversitate
@@ -54,7 +54,7 @@ privacy-passwords-twofactor-authentication-2fa = Authentication a duo factores (
 privacy-passwords-2fa-is-a = Authentication a duo factores (2FA) es un optime maniera de altiar le nivello de tu securitate. Al implementation de un nove conto, alcun sitos te dara le option pro adder un “secunde factor” al procedura de accesso. Sovente, id es ligar tu numero de telephono a tu conto, assi post que tu insere tu contrasigno, tu sera sollicitate a inserer un codice de securitate inviate directemente a ille telephono. Assi, si un hacker ha succedite obtener tu contrasigno, ille ancora non potera acceder in tu conto, pois que ille non ha tu telephono.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Tu conto { -brand-name-firefox }, per exemplo, pote esser protegite con le authentication a duo factores, <a { $url_sumo_2fa }>re que tu pote saper plus hic</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = Le authentication a duo factores offere multo melior securitate que le sol contrasignos, ma non tote le sitos web lo supporta. Tu pote trovar un lista de sitos web que supporta authentication a duo factores a <a { $url_2fa }>https://twofactorauth.org</a>, e un lista de sitos que non supporta authentication a duo factores e le manieras que tu pote demandar illes adder ille auxilio.
 privacy-passwords-strong-diverse-and = Forte, diverse, e multi-factor
 privacy-passwords-for-better-or = Pro le ben o le mal, nos continuara usar le contrasignos pro proteger nostre contos online pro le futuro previsibile. Usa contrasignos <strong>forte</strong> e <strong>differente pro cata sito</strong> e usa un <strong>gestor de contrasignos</strong> pro te adjutar a rememorar los con securitate. Defini <strong>longe, aleatori responsas</strong> al demandas de securitate (mesmo si illos non es le veritate). E <strong>usa le authentication a duo factores</strong> sur ulle sito que lo supporta.

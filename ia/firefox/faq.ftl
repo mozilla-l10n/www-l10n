@@ -25,7 +25,7 @@ how-do-i = Como pote io obtener le { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
-you-can-easily = Tu pote facilemente discargar le navigator { -brand-name-firefox } pro computatores <a href=""{ $url }"">hic.</a> { -brand-name-firefox } functiona sur apparatos <a href=""{ $url2 }"">{ -brand-name-windows },</a> <a href=""{ $url3 }"">{ -brand-name-mac-short }</a> e <a href=""{ $url4 }"">{ -brand-name-linux }</a>, e es equalmente disponibile pro <a href=""{ $url5 }"">{ -brand-name-android } e { -brand-name-ios }.</a> Verifica que tu discarga nostre navigator a partir de un de nostre paginas { -brand-name-mozilla }/{ -brand-name-firefox } digne de fide.
+you-can-easily = Tu pote facilemente discargar le navigator { -brand-name-firefox } pro computatores <a href="{ $url }">hic.</a> { -brand-name-firefox } functiona sur apparatos <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux }</a>, e es equalmente disponibile pro <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }.</a> Verifica que tu discarga nostre navigator a partir de un de nostre paginas { -brand-name-mozilla }/{ -brand-name-firefox } digne de fide.
 is-firefox-free = Es { -brand-name-firefox } gratuite?
 yep-the-firefox = Si! { -brand-name-firefox-browser } es gratuite. Super gratuite, realmente. Nulle costos o alco celate. Tu non paga alco pro usar lo e nos non vende tu datos personal.
 related-questions-free = Questiones similar: { -brand-name-firefox-browser } es gratuite? { -brand-name-firefox } costa moneta?
@@ -72,7 +72,7 @@ does-firefox-have = An { -brand-name-firefox } ha un VPN integrate?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
-firefox-does-not = "{ -brand-name-firefox } non ha un VPN (rete virtual private) integrate, ma il ha duo productos producite per { -brand-name-mozilla }/{ -brand-name-firefox } que tu pote usar ultra al private { -brand-name-firefox-browser } que pote proteger sia tu navigator (<a href=""{ $url }"">{ -brand-name-firefox-private-network }</a>) sia le connexion wifi (<a href=""{ $url2 }"">{ -brand-name-mozilla-vpn }</a>) de tu apparato, e tu adresse IP."
+firefox-does-not = "{ -brand-name-firefox } non ha un VPN (rete virtual private) integrate, ma il ha duo productos producite per { -brand-name-mozilla }/{ -brand-name-firefox } que tu pote usar ultra al private { -brand-name-firefox-browser } que pote proteger sia tu navigator (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) sia le connexion wifi (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) de tu apparato, e tu adresse IP.
 related-questions-ip = Questiones similar: { -brand-name-firefox } cela tu adresse IP?
 who-owns-firefox = Qui es proprietario de { -brand-name-firefox }?
 
