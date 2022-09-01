@@ -18,4 +18,4 @@ get-speed-and = Awi arured d tɣellist. { -brand-name-firefox } d arurad acku ur
 always-evolving = Yezga yettnerni
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features
-find-out-about = Af-d ayen akk izaden n { -brand-name-firefox }{ -brand-name-firefox }tmahilin</a>.
+find-out-about = Af-d ayen akk izaden n <a href="{ $url }">{ -brand-name-firefox }{ -brand-name-firefox }tmahilin</a>.

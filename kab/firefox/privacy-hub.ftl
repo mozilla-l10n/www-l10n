@@ -80,7 +80,7 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Awi yid-k·m tabaḍnit-ik
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
-firefox-privacy-hub-already-have-an-account = Γur-k·m yakan amiḍan? a { $sign_in } class="{ $class_name }">qqen</a> neɣ <a href="{ $learn_more }">issin ugar</a> ɣef uttekki deg { -brand-name-firefox }.
+firefox-privacy-hub-already-have-an-account = Γur-k·m yakan amiḍan? <a { $sign_in } class="{ $class_name }">qqen</a> neɣ <a href="{ $learn_more }">issin ugar</a> ɣef uttekki deg { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Γer <a href="{ $url }">tasertit n tbaḍnit</a> n yifarisen-nneɣ
