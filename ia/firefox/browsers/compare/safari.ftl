@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -41,7 +41,7 @@ compare-safari-also-when-you-sign-up-for-updated = Alsi, quando tu te inscribe a
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 #   $send (string) - link to send.firefox.com with additional attributes for analytics
-compare-safari-also-when-you-sign-up-for = Alsi, quando tu registra un conto { -brand-name-firefox } tu pote acceder a alcun servicios unic como <a %(pocket)s>{ -brand-name-pocket }<</a> e <a { $send }>{ -brand-name-send }</a>, integrate directemente in le navigator. Le button { -brand-name-pocket } pro { -brand-name-firefox } te pone in grado de salvar paginas e videos web in { -brand-name-pocket } in un solo clic, de sorta que tu pote leger un version munde, libere de distractiones, quandocunque e ubi tu desira, mesmo sin connexion. Con { -brand-name-send } tu pote compartir grande files con cryptographia bilateral e un varietate de controlos de securitate, tal como le capacitate definir un expiration tempore a un file ligamine a expirar, le numero de discargamentos, e si pro adder un optional contrasigno pro un extra strato de securitate.
+compare-safari-also-when-you-sign-up-for = Alsi, quando tu registra un conto { -brand-name-firefox } tu pote acceder a alcun servicios unic como <a { $pocket }>{ -brand-name-pocket }</a> e <a { $send }>{ -brand-name-send }</a>, integrate directemente in le navigator. Le button { -brand-name-pocket } pro { -brand-name-firefox } te pone in grado de salvar paginas e videos web in { -brand-name-pocket } in un solo clic, de sorta que tu pote leger un version munde, libere de distractiones, quandocunque e ubi tu desira, mesmo sin connexion. Con { -brand-name-send } tu pote compartir grande files con cryptographia bilateral e un varietate de controlos de securitate, tal como le capacitate definir un expiration tempore a un file ligamine a expirar, le numero de discargamentos, e si pro adder un optional contrasigno pro un extra strato de securitate.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
