@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -46,7 +46,7 @@ privacy-faq-do-you-collect-more-data-in = Tleqqḍem daɣen isefka-nniḍen deg 
 privacy-faq-sort-of-in-addition-to-the-data = D tidet. Ɣer tama n yisefka i d-yettwasgelmen nnig-a, nremmes-d s wudem awurman ineqqisen n uɣelluy akked tuccḍiwin deg yileqman uzwiren n { -brand-name-firefox }.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = Izmer daɣen ad d-nelqeḍ isefka-nniḍen deg yileqman uzwiren i yiwet seg <a href="{ $link }">tezrawin-nneɣ</a>. Amedya, kra n tezrawin srant </a>yen i wumi nsemma "isefka n urmud web", ayen izemren ad yegber tansiwin URLs akked telɣut-nniden ɣef yismal web. Ayagi ad aɣ-d-imudd tallelt ad d-naf tiririt i yisteqsiyen akken ad nesnerni { -brand-name-firefox }, amedya, amek ara d-nger kra n yismal web yettwassnen deg kra n tutlayin.
+privacy-faq-we-may-also-collect-additional = Izmer daɣen ad d-nelqeḍ isefka-nniḍen deg yileqman uzwiren i yiwet seg <a href="{ $link }">tezrawin-nneɣ</a>. Amedya, kra n tezrawin srant yen i wumi nsemma "isefka n urmud web", ayen izemren ad yegber tansiwin URLs akked telɣut-nniden ɣef yismal web. Ayagi ad aɣ-d-imudd tallelt ad d-naf tiririt i yisteqsiyen akken ad nesnerni { -brand-name-firefox }, amedya, amek ara d-nger kra n yismal web yettwassnen deg kra n tutlayin.
 privacy-faq-mozillas-pre-release-versions = Ileqman uzwiren n { -brand-name-mozilla } n{ -brand-name-firefox } d tiɣerɣar n tneflit, i yettwaleqqamen sya ɣer da s tamhilin tirmitanin. Nleqqeḍ ugar n yisefka deg yileqman uzwiren ugar n wayen i ten-nleqqeḍ deg yileqman i irekden i wakken ad negzu amek teddunt tmahilin-a tirmitanin. Tzemreḍ daɣen ad teffɣeḍ seg ulqaḍ-a n yisefka deg yileqman uzwiren s usbadu n yismenyifen-ik.im.
 privacy-faq-but-why-do-you-collect-any-data = Maca quɣer i tleqqḍem yal asefku yella?
 privacy-faq-if-we-dont-know-how-the-browser = Ma yella ur nessaweḍ ara ad d-naf amek yettwaseqdec yimingi-ik neɣ ad nẓeṛ timahilin i seqdacen yiseqdacen, ur nettizmir ara ad nesnerni daɣen ad d-nmudd afaris i ak-ilaqen. Negmen akken ad nebnu ifecka n ulqaḍ akked tasleḍt n yisefka ara ɣ-yeǧǧen ad tt-negzem di ṛṛay ɣef unerni n yiminig maca s uqadeṛ n tbaḍnit n medden.

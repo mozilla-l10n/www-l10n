@@ -115,7 +115,7 @@ firefox-desktop-download-learn-about-the = Issin ugar ɣef yiminig n tnarit { -b
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } yella ɣef meṛṛa ibenkan-ik·im; awi accaren, amazray d ticraḍ n yisebtar yid-k·m. Ayen akk i tesriḍ d amiḍan <a { $attrs }>{ -brand-name-firefox } </a>.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ꞌa { $attrs }>yessewḥal s wudem awurman aṭas n yineḍfaren n wis kraḍ</a> ɣef ulqaḍ d usenzi n tigawt-ik·im ɣef web.
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ꞌa <a { $attrs }>yessewḥal s wudem awurman aṭas n yineḍfaren n wis kraḍ</a> ɣef ulqaḍ d usenzi n tigawt-ik·im ɣef web.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Asteqsi? <a { $attrs }>{ -brand-name-mozilla } tallalt</a> tesseḥbaber fell-ak·am.

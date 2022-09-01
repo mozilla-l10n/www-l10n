@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -18,9 +18,10 @@ nightly-whatsnew-this-is-a-good = Akud tura yettwafran akken ad nesnemmer ɣef a
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Ma tebɣiḍ ad teẓreḍ ayen iḍerrun deg { -brand-name-nightly } akked tmezdagnut-is, taɣuri n  <a href="{ $blog }">ublug</a>-nneɣ neɣ aḍfaṛ deg <a href="{ $twitter }">{ -brand-name-twitter }</a> d abrid yelha i beddu!
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
-nightly-whatsnew-want-to-know-which = Tebɣiḍ ad teẓreḍ anti timahilin i tzemreḍ ad teskeydeḍ ɣef { -brand-name-nightly } ur tezmireḍ ara akka tura ɣef yibuda-nniḍen n { -brand-name-firefox }? Ihi, ẓer asebter <a href="{ $mdn }">Timahilin tirmitanin</a> deg <abbr title="<abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn } </abbr>.
+nightly-whatsnew-want-to-know-which = Tebɣiḍ ad teẓreḍ anti timahilin i tzemreḍ ad teskeydeḍ ɣef { -brand-name-nightly } ur tezmireḍ ara akka tura ɣef yibuda-nniḍen n { -brand-name-firefox }? Ihi, ẓer asebter <a href="{ $mdn }">Timahilin tirmitanin</a> deg <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Tettmagareḍ-d aɣelluy? Tikli ur nettwarǧi ara? Tuɣalin ar deffir n umṣada Web? Yelha limer ad yettwammel deg <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> akken ad neḍmen ul d yiwen seg aya ur d-iḍerru di lqem aneggaru (tineqqiḍin-nniḍen ma yella terniḍ awal n tsarutt <em>{ -brand-name-nightly }-community</em> ar uneqqis n ibugen)!
