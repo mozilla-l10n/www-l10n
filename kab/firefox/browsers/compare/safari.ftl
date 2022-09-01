@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -24,7 +24,7 @@ compare-safari-our-private-browsing-mode = Asker-nneɣ n tunigin tusligt yessewh
 compare-safari-if-you-choose-to-use-safari = Ma yella tferneḍ aseqdec n { -brand-name-safari }, aql-ak·akem deg yifassen n laman skud tseqdaceḍ ibenk { -brand-name-apple }. Maca { -brand-name-safari } iteddu kan deg yibenkan n { -brand-name-apple }, ma yella d { -brand-name-firefox } iteddu deg { -brand-name-windows }, { -brand-name-mac }, { -brand-name-ios }, { -brand-name-android } d { -brand-name-linux }. Akken yebɣu yili unagraw n wammud i tferneḍ, { -brand-name-firefox } ad ak·akem-yeḥrez s ummesten-nneɣ n tɣellist d uqader n tudert tabadnit.
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
-compare-safari-like-safari-firefox-encourages = Am { -brand-name-safari }, { -brand-name-firefox } yessebɣasen tamɣiwent n tneflit ad d-ternu <a { $attrs } n yizegrar d yiseɣzaf</a> i unagraw. Imi tiɣerɣert-nneɣ n uɣbalu yeldin, tella tefrant meqqren i irennun aṭas n tmahilin.
+compare-safari-like-safari-firefox-encourages = Am { -brand-name-safari }, { -brand-name-firefox } yessebɣasen tamɣiwent n tneflit ad d-ternu <a { $attrs }>n yizegrar d yiseɣzaf</a> i unagraw. Imi tiɣerɣert-nneɣ n uɣbalu yeldin, tella tefrant meqqren i irennun aṭas n tmahilin.
 # Variables:
 #   $ios (string) - link to Apple store with additional attributes for analytics
 #   $android (string) - link to Google Play store with additional attributes for analytics
