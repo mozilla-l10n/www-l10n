@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Navegatô Firefox: Deuvia meno memöia e navega ciù veloce
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Deuvia meno memöia e navega ciù veloce
 # HTML page description
 features-memory-is-your-computer-slow-your = O teu computer o l'é lento? Porieiva ese che o teu navegatô o deuvia tròppa memöia. Passa a { -brand-name-firefox } ancheu pe anâ ciù veloce.
 features-memory-less-memory-usage-than-chrome = Deuvia meno memöia do { -brand-name-chrome }

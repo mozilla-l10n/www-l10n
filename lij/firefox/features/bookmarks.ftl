@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Navegatô Firefox: I megio segnalibbri donde se segge
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: I megio segnalibbri donde se segge
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = L'é façile organizâ i teu segnalibbri inta cartella e acedighe da tutti i dispoxitivi, da computer a telefonin.
 features-bookmarks-better-bookmarks = Megio segnalibbri
