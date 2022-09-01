@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -46,7 +46,7 @@ misinformation-surface-content-heading = { -brand-name-firefox } adjuta a presen
 #   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
 #   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
 #   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Quando tu aperi un nove scheda in tu navigator { -brand-name-firefox }, tu videra articulos <a href="{ $recommended }">recommendate per { -brand-name-pocket }</a>. { -brand-name-pocket } non usa ulle tu datos personal pro facer recommendationes. In vice, le articulos es curate per personas real qui usa le application. Le capacitate de discoperir nove historias, punctos de vista e opiniones es un maniera de combatter le diffusion de information errate. Pro obtener ancora plus recommendationes, subscribe te al <a href="{ $pocket_hits }">{ -brand-name-pocket } littera de novas</a> e discarga le <a href="{ $pocket }" application { -brand-name-pocket }</a>.
+misinformation-surface-content-desc = Quando tu aperi un nove scheda in tu navigator { -brand-name-firefox }, tu videra articulos <a href="{ $recommended }">recommendate per { -brand-name-pocket }</a>. { -brand-name-pocket } non usa ulle tu datos personal pro facer recommendationes. In vice, le articulos es curate per personas real qui usa le application. Le capacitate de discoperir nove historias, punctos de vista e opiniones es un maniera de combatter le diffusion de information errate. Pro obtener ancora plus recommendationes, subscribe te al <a href="{ $pocket_hits }">{ -brand-name-pocket } littera de novas</a> e discarga le <a href="{ $pocket }"> application { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Perque fider in { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
