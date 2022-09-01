@@ -17,7 +17,7 @@ about-this-site-this-website = Le sito web www.mozilla.org ha essite online pro 
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-about-this-site-today = Hodie, isto es le sito ubi gente veni a discargar <a href="{ $firefox }">{ -brand-name-firefox }</a>, prova <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, e pro saper plus <a href="{ $mozilla }">re { -brand-name-mozilla }</a>. Tu alsi pote discoperir alcun <a href="{ $libro }">Ovos de Pascha</a> preter le via.
+about-this-site-today = Hodie, isto es le sito ubi gente veni a discargar <a href="{ $firefox }">{ -brand-name-firefox }</a>, prova <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, e pro saper plus <a href="{ $mozilla }">re { -brand-name-mozilla }</a>. Tu alsi pote discoperir alcun <a href="{ $book }">Ovos de Pascha</a> preter le via.
 about-this-site-like-many = Como multe nostre productos, iste sito web es alsi open-source:
 about-this-site-view-source = Vider le codification fonte sur { -brand-name-github }
 about-this-site-report-a-bug = Reportar un defecto
@@ -32,7 +32,7 @@ about-this-site-some-open-source-projects = Alcun projectos open-source usate pr
 about-this-site-django = <a href="{ $django }">Django</a> como un infrastructura web de backend, con <a href="{ $jinja }">Jinja</a> pro le modellos.
 # Variables:
 #   $protocol (url) link to https://protocol.mozilla.org/
-about-this-site-mozilla-protocol = { -brand-name-mozilla }’s <a href="{ $fluent }">Fluent</a> systema de localisation pro traduction de lingua.
+about-this-site-mozilla-protocol = { -brand-name-mozilla }’s <a href="{ $protocol }">Protocollo</a> systema de localisation pro traduction de lingua.
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = Le systema de localisation <a href="{ $fluent }">Fluent</a> pro traduction de linguas de { -brand-name-mozilla }.
