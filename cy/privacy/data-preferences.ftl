@@ -18,3 +18,8 @@ data-preferences-your-privacy = Mae eich preifatrwydd yn bwysig iawn i { -brand-
 #   $privacy_notice (url) - link to https://www.mozilla.org/privacy/websites/
 data-preferences-mozilla-uses = Mae { -brand-name-mozilla } yn defnyddio { -brand-name-glean } i gasglu data defnydd gwefannau ar rai gwefannau mozilla.org er mwyn sicrhau ein bod yn darparu’r profiad defnyddiwr gorau posibl i’n hymwelwyr. Nid yw { -brand-name-glean } yn rhannu gwybodaeth ag unrhyw drydydd parti. Mae pob darn o ddata a gasglwn hefyd yn mynd trwy broses adolygu llym. Gallwch ddysgu rhagor am y mathau penodol o ddata rydym yn ei gasglu yn y <a href="{ $dictionary }">{ -brand-name-glean } Geiriadur</a>. I gael rhagor o wybodaeth am y ffordd rydym yn trin ac yn rhannu eich data ar wefannau { -brand-name-mozilla }, gallwch ddarllen ein <a href="{ $privacy_notice }">Hysbysiad Preifatrwydd Gwefannau, Cyfathrebu a Chwcis</a>.
 data-preferences-if-you-still-want-to = Os ydych yn dal eisiau eich eithrio o ddadansoddeg parti cyntaf gallwch wneud hynny isod. Bydd clicio ar y botwm eithrio yn gosod cwci dewis sy'n cael ei ddefnyddio  i atal { -brand-name-glean } rhag anfon data pan fyddwch yn llwytho ein tudalennau gwe. Bydd y cwci dewis hwn yn para am flwyddyn.
+data-preferences-current-preference = Y dewisiadau presennol:
+data-preferences-please-enable-javascript = Galluogwch JavaScript i reoli eich dewisiadau data.
+data-preferences-opt-out-button = Eithrio rhag casglu data parti cyntaf
+data-preferences-if-you-change = Os byddwch yn newid eich meddwl, gallwch ymuno yma:
+data-preferences-opt-in-button = Ymuno i gasglu data parti cyntaf
