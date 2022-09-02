@@ -1,23 +1,24 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Parsisiųskite „{ -brand-name-firefox }“
-navigation-get-a-firefox-account = Kurti „Firefox“ paskyrą
-navigation-firefox-browser-for-desktop = „Firefox“ naršyklė kompiuteriams
+navigation-get-a-firefox-account = Kurti { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } kompiuteriams
 navigation-get-the-browser-that-respects = Parsisiųskite naršyklę, gerbiančią jūsų privatumą. „{ -brand-name-windows }“, „{ -brand-name-mac }“ ir „{ -brand-name-linux }“ platformoms.
-navigation-firefox-browser-for-mobile = „Firefox“ naršyklė mobiliesiems įrenginiams
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } mobiliesiems įrenginiams
 navigation-take-speed-privacy-and = Naršykite sparčiai, privačiai ir be nerimo. Teikiame „{ -brand-name-android }“ ir „{ -brand-name-ios }“ įrenginiams.
 navigation-download-for-ios = Parsisiųsti „{ -brand-name-ios }“ įrenginiams
 navigation-download-for-android = Parsisiųsti „{ -brand-name-android }“ įrenginiams
 navigation-ios-support = „{ -brand-name-ios }“ palaikymas
 navigation-android-support = „{ -brand-name-android }“ palaikymas
-navigation-firefox-browser-for-enterprise = „Firefox“ naršyklė organizacijoms
-navigation-strap-on-your-goggles = Užsidėkite akinius ir panirkite į įtraukiantį saityną, naudodamiesi „Firefox“ naršykle virtualiajai realybei.
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser }organizacijoms
+navigation-strap-on-your-goggles = Užsidėkite akinius ir panirkite į įtraukiantį saityną, naudodamiesi { -brand-name-firefox-browser } virtualiajai realybei.
 navigation-firefox-for-fire-tv = „{ -brand-name-firefox }“ naršyklė „{ -brand-name-fire-tv }“ įrenginiams
 navigation-watch-videos-and-browse = Naršykite saityną ir žiūrėkite vaizdo įrašus „{ -brand-name-amazon } { -brand-name-fire-tv }“ priedėliu.
 navigation-firefox-browsers-put = „{ -brand-name-firefox }“ naršyklėms jūsų privatumas yra svarbiausias – ir visada išliks.
 navigation-take-the-passwords-youve = Visada turėkite „{ -brand-name-firefox }“ naršyklėje įrašytus slaptažodžius su savimi.
+# Outdated string
 navigation-firefox-is-a-whole-family = „{ -brand-name-firefox }“ – tai visa produktų šeimyna, sukurta, kad padėtų jums internete būti saugesniems ir išmanesniems.
 navigation-join-firefox = Prisijunkite prie „{ -brand-name-firefox }“
 navigation-access-all-of-firefox = Pasiekite visas „{ -brand-name-firefox }“ paslaugas su viena paskyra – ir prisijungę iš kiekvienos jų gaukite daugiau.
@@ -26,26 +27,31 @@ navigation-firefox-blog = „{ -brand-name-firefox }“ tinklaraštis
 navigation-read-about-new-firefox = Skaitykite apie naujas „{ -brand-name-firefox }“ funkcijas ir gaukite patarimų, kaip saugiau naudotis internetu.
 navigation-the-non-profit-behind = Ne pelno siekianti „{ -brand-name-firefox }“ naršyklę kurianti organizacija kovoja už sveikesnį internetą visiems.
 navigation-learn-how-firefox-treats = Sužinokite, kaip pagarbiai „{ -brand-name-firefox }“ elgiasi su jūsų duomenimis.
-navigation-mozilla-careers = Karjera „Mozilloje“
-navigation-approach-your-career = Siekite savo karjeros jausdami kilnų tikslą. Raskite prasmingo darbo „Mozilloje“.
+navigation-mozilla-careers = Karjera { -brand-name-mozilla }
+navigation-approach-your-career = Siekite savo karjeros jausdami kilnų tikslą. Raskite prasmingo darbo { -brand-name-mozilla }
 navigation-close-firefox-menu = Užverti meniu „{ -brand-name-firefox }“
 navigation-get-the-browser-that-gives = Parsisiųskite naršyklę, su kuria „{ -brand-name-windows }“, „{ -brand-name-mac }“ ar „{ -brand-name-linux }“ kompiuteriu galėsite nuveikti daugiau.
 navigation-take-firefox-and-firefox = Naudokitės „{ -brand-name-firefox }“ ir „{ -brand-name-firefox-focus }“ naršyklėmis kelyje. Turime „{ -brand-name-android }“ ir „{ -brand-name-ios }“ įrenginiams.
 navigation-get-firefox = Parsisiųsti „{ -brand-name-firefox }“
 navigation-get-firefox-focus = Parsisiųsti „{ -brand-name-firefox-focus }“
 navigation-android-extensions = Plėtiniai „{ -brand-name-android }“ naudotojams
-navigation-your-firefox-account = Jūsų „Firefox“ paskyra
+navigation-your-firefox-account = Jūsų { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Maksimaliai išnaudokite „{ -brand-name-firefox }“ visuose savo įrenginiuose.
+# Outdated string
 navigation-learn-how-to-customize = Išmokite susiderinti „{ -brand-name-firefox }“ pagal savo norus.
+# Outdated string
 navigation-experience-augmented = Išbandykite papildytąją ir virtualiąją realybę su „{ -brand-name-firefox }“.
+# Outdated string
 navigation-meet-people-in-experimental = Susipažinkite ir bendraukite eksperimentiniuose mišrios realybės kambariuose, naudodamiesi „{ -brand-name-firefox }“ naršykle.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = „{ -brand-name-mozilla }“ pristato „{ -brand-name-firefox }“ naršyklę papildytajai ir virtualiajai realybei.
 navigation-firefox-built-just-for = „{ -brand-name-firefox }“ naršyklė, ypač tinkama programuotojams.
 navigation-preview-the-latest-build = Pirmieji išbandykite šviežiausias „{ -brand-name-firefox }“ naujoves ir padėkite mums jas ištobulinti.
 navigation-firefox-playground = „{ -brand-name-firefox }“ bandymų poligonas
 navigation-mozilla-open-source-support = „{ -brand-name-mozilla } Open Source Support“ (MOSS) programa
-navigation-mozilla-manifesto = „Mozillos“ manifestas
+navigation-mozilla-manifesto = { -brand-name-mozilla } manifestas
 navigation-menu = Meniu
 navigation-check-out-the-benefits = Susipažinkite su privalumais
 navigation-browsers = Naršyklės
@@ -64,6 +70,7 @@ navigation-security-tips = Saugos patarimai
 navigation-share-large-files-safely = Dalinkitės dideliais failais saugiai, pasitelkdami savaime „susinaikinančius“ saitus.
 navigation-save-quality-content = Išsisaugokite kokybišką turinį iš bet kur. Skaitykite jį kada ir kur patogiausia jums.
 navigation-sign-up = Kurti paskyrą
+# Outdated string
 navigation-connected-and-protected = Saugus naudojimasis internetu
 navigation-join = Prisijungti
 navigation-close-join-menu = Užverti prisijungimo meniu
@@ -76,11 +83,14 @@ navigation-meet-the-technology-company = Susipažinkite su technologijų kompani
 navigation-new-features = Naujovės
 navigation-save-content-absorb-knowledge = Žymėkitės turinį. Semkitės žinių.
 navigation-same-speed-and-safety = Jau pažįstama sparta ir saugumas, pritaikyti didelėms organizacijoms.
+# Outdated string
 navigation-add-ons = Priedai
 navigation-projects = Projektai
 navigation-close-projects-menu = Užverti projektų meniu
 navigation-donate-your-voice-to = Pasidalinkite savo balsu ir padėkite sukurti visiems atvirą balso atpažinimą.
+# Outdated string
 navigation-web-of-things-iot = Daiktų internetas (IoT)
+# Outdated string
 navigation-make-devices-connected = Padarykime prie interneto prijungtus įrenginius saugesniais ir labiau suderinamais tarpusavyje.
 navigation-developers = Programuotojams
 navigation-close-developers-menu = Užverti meniu „Programuotojams“
