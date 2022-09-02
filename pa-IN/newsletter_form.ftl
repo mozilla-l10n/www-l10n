@@ -35,3 +35,6 @@ newsletter-form-no = ਨਹੀਂ
 multi-newsletter-form-checkboxes-legend = ਮੈਨੂੰ ਇਸ ਬਾਰੇ ਜਾਣਕਾਰੀ ਚਾਹੀਦੀ ਹੈ:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = ਕਿਰਪਾ ਕਰਕੇ ਖ਼ਬਰਸਾਰ ਚੋਣਾਂ ਵਿੱਚੋਂ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਚੁਣੋ।\
+multi-newsletter-form-title = ਵੈੱਬ ਨਾਲ ਪਿਆਰ
+multi-newsletter-form-desc = { -brand-name-mozilla } ਖ਼ਬਰਸਾਰ ਲਵੋ ਅਤੇ ਵੈੱਬ ਨੂੰ ਆਜ਼ਾਦ ਅਤੇ ਮੁਫ਼ਤ ਰੱਖਣ ਵਿੱਚ ਮਦਦ ਕਰੋ।
