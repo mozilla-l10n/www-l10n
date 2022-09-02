@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = „Firefox“ naršyklė: naudokite mažiau atminties, gaukite daugiau spartos
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: naudokite mažiau atminties, gaukite daugiau spartos
 # HTML page description
 features-memory-is-your-computer-slow-your = Kompiuteris sulėtėjo? Gali būti, kad kalta interneto naršyklė, naudojanti per daug atminties. Išbandykite „{ -brand-name-firefox }“ ir susigrąžinkite kompiuterio spartą!
 features-memory-less-memory-usage-than-chrome = Mažesnis nei „{ -brand-name-chrome }“ atminties naudojimas

@@ -1,18 +1,19 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = „Firefox“ naršyklė: sparti ir paprasta slaptažodžių tvarkytuvė
+password-manager-firefox-browser = { -brand-name-firefox-browser }: sparti ir paprasta slaptažodžių tvarkytuvė
 # HTML page description
 password-manager-firefox-password = „{ -brand-name-firefox }“ slaptažodžių tvarkytuvės dėka visus jūsų slaptažodžius galima įrašyti ir peržiūrėti vienoje vietoje, o prie svetainių jungtis automatiškai.
 # Hero title
 password-manager-password-manager = Slaptažodžių tvarkytuvė
 password-manager-give-up-the-memory = išmeskite slaptažodžius iš galvos – naudokitės „{ -brand-name-firefox }“ slaptažodžių tvarkytuve.
 password-manager-password-hero = Įrašykite slaptažodžius tvarkytuvėje
+# Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Pamirškite slaptažodžių atkūrimo procedūras. „{ -brand-name-firefox }“ slaptažodžių tvarkytuvėje įrašydami savo slaptažodžius, bet kada galėsite juos rasti ir pažiūrėti, o prie svetainių jungsitės automatiškai. O jei norite dar didesnio saugumo, susikurkite ir naudokite <a href="{ $url }">pagrindinį slaptažodį</a>.
