@@ -133,6 +133,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ਆਪ�
 firefox-desktop-download-questions = ਕੋਈ ਸਵਾਲ? <a { $attrs }>{ -brand-name-mozilla } ਸਹਿਯੋਗ</a> ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ।
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਤਾਂ ਲੈ ਲਿਆ ਹੈ। ਹੁਣ { -brand-name-firefox } ਤੋਂ ਹੋਰ ਫਾਇਦਾ ਲਵੋ।
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } ਨਾਲ ਹੈਕਰਾਂ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ, { -brand-name-firefox-lockwise } ਨਾਲ ਪਾਸਵਰਡ ਸੰਭਾਲੋ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ।
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } ਤੋਂ ਹੋਰ ਫਾਇਦਾ ਲਵੋ
 firefox-desktop-download-just-download-the-browser = ਸਿਰਫ਼ ਬਰਾਊਜ਼ਰ ਡਾਊਨਲੋਡ ਕਰੋ
@@ -150,7 +151,12 @@ firefox-desktop-download-now-mac = ਹੁਣ ਡਾਊਨਲੋਡ ਕੀਤੀ 
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = ਸਮੱਸਿਆ ਹੈ? <a { $attrs }>ਆਪਣੀ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ ਮਦਦ ਲਵੋ</a>।
 firefox-desktop-download-in-another-language = ਹੋਰ ਭਾਸ਼ਾ ਜਾਂ ਹੋਰ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ।
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = ਜੇ ਤੁਹਾਨੂੰ ਐਪ ਸ਼ੁਰੂ ਵੇਲੇ ਪੁੱਛਿਆ ਜਾਂਦਾ ਕਿ ਤੁਸੀਂ { -brand-name-microsoft }-ਜਾਂਚ ਕੀਤੀ ਐਪ ਇੰਸਟਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ ਤਾਂ  “Install anyway” ਜਾਂ <a { $attrs }>change app recommendation settings</a> ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
 firefox-desktop-download-visit-support-for-more = ਹੋਰ ਵੇਰਵਿਆਂ ਲਈ ਸਹਾਇਤਾ ਨੂੰ ਵੇਖੋ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -172,3 +178,4 @@ firefox-desktop-download-please-follow = { -brand-name-firefox } ਨੂੰ ਇ�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = { -brand-name-firefox } ਲਈ ਤੁਹਾਡਾ ਸਿਸਟਮ ਲੋੜਾਂ ਪੂਰੀਆਂ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਪਰ ਤੁਹਾਨੂੰ <a href="{ $url }">ਇਹਨਾਂ ਵਰਜ਼ਨਾਂ</a> ਵਿੱਚੋਂ ਇੱਕ ਵਰਤ ਕੇ ਵੇਖਣਾ ਚਾਹੀਦਾ ਹੈ।
+firefox-desktop-download-taskbar = ਇੰਸਟਾਲੇਸ਼ਨ ਦੇ ਬਾਅਦ { -brand-name-firefox } ਨੂੰ { -brand-name-windows } ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਟੰਗਿਆ ਜਾਵੇਗਾ
