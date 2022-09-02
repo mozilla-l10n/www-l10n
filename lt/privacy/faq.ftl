@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-mozillas-data-privacy-faq = „Mozillos“ duomenų privatumo DUK
+privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla } duomenų privatumo DUK
 privacy-faq-at-mozilla-we-respect-and-protect-desc = „{ -brand-name-mozilla }“ gerbia ir saugo jūsų asmeninių duomenų privatumą.
 privacy-faq-we-stand-for-people-over-profit = Mums žmonės yra svarbiau nei pelnas.
 privacy-faq-it-can-be-tricky-for-people = Šiais laikais gali būti neaišku, ko tikėtis iš programų ar tarnybų, kuriomis naudojamės. Technologijos, lydinčios mūsų gyvenimus, yra pakankamai sudėtingos, o gilintis į detales ne visada yra laiko. Tai galioja ir „{ -brand-name-firefox }“ naršyklei – mes pastebėjome, jog žmonės apie tai, kas joje vyksta „po kapotu“, turi pačių įvairiausių minčių.
@@ -17,7 +17,7 @@ privacy-faq-we-follow-a-set-of-data-privacy = mes vadovaujamės aiškiais <a hre
 privacy-faq-we-only-collect-the-data-we = kaupiame tik tuos duomenis, kurie mums padeda tobulinti savo produktus;
 privacy-faq-we-put-people-in-control-of = savo naudotojams suteikiame priemones valdyti jų duomenis ir patirtis internete;
 privacy-faq-we-adhere-to-no-surprises-principle = laikomės „jokių staigmenų“ principo – visada stengiamės užtikrinti, kad žmonių supratimas apie „{ -brand-name-firefox }“ atitiktų tikrovę.
-privacy-faq-the-following-questions-and = Žemiau pateikti klausimai ir atsakymai turėtų jums padėti dar geriau suprasti, ko galite tikėtis iš „Mozillos“ ir „{ -brand-name-firefox }“ naršyklės:
+privacy-faq-the-following-questions-and = Žemiau pateikti klausimai ir atsakymai turėtų jums padėti dar geriau suprasti, ko galite tikėtis iš { -brand-name-mozilla } ir { -brand-name-firefox } naršyklės:
 privacy-faq-i-use-firefox-for-almost-everything = Beveik visada interneto naršymui naudojuosi „{ -brand-name-firefox }“ naršykle. Tikriausiai „{ -brand-name-mozilla }“ apie mane žino daugybę dalykų, ar ne?
 privacy-faq-firefox-the-web-browser-that = „{ -brand-name-firefox }“ – naršyklė, veikianti jūsų įrenginyje ar kompiuteryje – yra jūsų langas į internetą. Naršyklėje laikoma ir tvarkoma tikrai nemažai duomenų apie jūsų lankomas svetaines, tačiau tie duomenys lieka tik jūsų įrenginyje. „{ -brand-name-mozilla }“ – kompanija, kurianti „{ -brand-name-firefox }“ naršyklę – šių duomenų nerenka ir nekaupia (nebent tokį pageidavimą išreiškiate jūs).
 privacy-faq-really-you-dont-collect-my-browsing = Tikrai? Jūs nekaupiate mano naršymo istorijos?
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = „{ -brand-name-mozilla }“ nieka
 privacy-faq-wait-so-how-do-you-make-money = Pala, tai kaip jūs užsidirbate pinigų?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = „{ -brand-name-mozilla }“ nėra tipinė organizacija. Dar 1998-aisiais įkūrėme „Mozillą“ kaip bendruomeninį atvirojo kodo projektą, o dabar ji yra organizacija, vykdanti vienintelę misiją – siekti sveikesnio ir saugesnio visiems interneto. Didžioji „{ -brand-name-mozilla } Corporation“ pajamų dalis yra partnerių atlygis už numatytąsias pozicijas „{ -brand-name-firefox }“ paieškos laukelyje ir už platinimo sutartis įvairiose pasaulio šalyse. Daugiau apie mūsų pajamas galite sužinoti iš mūsų <a href="{ $link }">metinės finansinės ataskaitos</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nėra tipinė organizacija. Dar 1998-aisiais įkūrėme { -brand-name-mozilla } kaip bendruomeninį atvirojo kodo projektą, o dabar ji yra organizacija, vykdanti vienintelę misiją – siekti sveikesnio ir saugesnio visiems interneto. Didžioji { -brand-name-mozilla-corporation } pajamų dalis yra partnerių atlygis už numatytąsias pozicijas { -brand-name-firefox } paieškos laukelyje ir už platinimo sutartis įvairiose pasaulio šalyse. Daugiau apie mūsų pajamas galite sužinoti iš mūsų <a href="{ $link }">metinės finansinės ataskaitos</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Gerai, o dabar papasakokite, kokius duomenis kaupiate.
 # Variables:
@@ -47,7 +47,7 @@ privacy-faq-sort-of-in-addition-to-the-data = Taip. Be aukščiau minėtų duome
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = Taip pat iš negalutinių laidų mes galime rinkti ir kaupti duomenis, reikalingus konkrečioms mūsų <a href="{ $link }">studijoms</a>. Pavyzdžiui, kai kurioms studijoms reikia „naršymo duomenų“, tarp kurių gali būti tinklalapių adresai ir kiti konkrečių svetainių duomenys. Tai mums padeda rasti atsakymus į klausimus ir tobulinti „{ -brand-name-firefox }“ naršyklę, pavyzdžiui, gerinant jos sąveiką su populiariomis svetainėmis įvairiuose regionuose.
-privacy-faq-mozillas-pre-release-versions = Negalutinės „{ -brand-name-firefox }“ laidos laikytinos vystymo platformomis, dažnai atnaujinamomis ir papildomomis eksperimentinėmis funkcijomis. Iš šių laidų gauname daugiau duomenų, nei iš galutinių, nes norime geriau suprasti, kaip šios eksperimentinės funkcijos veikia. Atsisakyti šių duomenų siuntimo galite programos nuostatose.
+privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla } negalutinės { -brand-name-firefox } laidos laikytinos vystymo platformomis, dažnai atnaujinamomis ir papildomomis eksperimentinėmis funkcijomis. Iš šių laidų gauname daugiau duomenų, nei iš galutinių, nes norime geriau suprasti, kaip šios eksperimentinės funkcijos veikia. Atsisakyti šių duomenų siuntimo galite programos nuostatose.
 privacy-faq-but-why-do-you-collect-any-data = Bet kam jums iš viso kaupti duomenis?
 privacy-faq-if-we-dont-know-how-the-browser = Jeigu nežinotume, kaip našiai naršyklė veikia arba kurios jos funkcijos išties plačiai naudojamos, nežinotume, ką joje reikia tobulinti ar keisti. Dėl to įdėjome nemažai pastangų, kurdami duomenų rinkimo ir analizės priemones, padedančias priimti protingus sprendimus dėl savo kuriamų produktų, nepažeidžiant jų naudotojų privatumo.
 privacy-faq-data-collection-still-bugs-me = Man vis tiek nepatinka, kad siunčiami mano duomenys. Ar galiu tai išjungti?
