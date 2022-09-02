@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
 
 # HTML Page title
-about-learn-about-mozilla = Sužinokite apie „Mozillą“
+about-learn-about-mozilla = Sužinokite apie { -brand-name-mozilla }
 # HTML page description
 about-mozilla-makes-browsers-apps-desc = „{ -brand-name-mozilla }“ kuria naršykles, programas, kodą ir įrankius, žmonių gerovę iškeldama aukščiau pelno. Mūsų misija – išsaugoti internetą atvirą ir visiems prieinamą.
 # Main heading
@@ -19,15 +19,15 @@ about-our-mission-in-action = Mūsų misija veiksmuose
 about-pioneers-of-the-open-web = Atvirojo interneto pradininkai
 about-our-leadership-has-been-at = Mes nuo pirmųjų dienų esame priešakinėse sveikesnio interneto kūrėjų gretose. Tai, kas pradžioje buvo alternatyva korporacinei vienvaldystei, išaugo į galingą pasaulinę bendruomenę, kovojančią už geresnį ir atviresnį internetą.
 about-firefox-fast-for-good = „{ -brand-name-firefox }“: sparti ir tauri
-about-when-you-use-the-new-firefox = Naudodamiesi „{ -brand-name-firefox }“, ne tik mėgaujatės ypač sparčia naršykle, bet ir prisidedate prie „Mozillos“ misijos išsaugoti internetą sveiką, savitą ir visiems atvirą.
+about-when-you-use-the-new-firefox = Naudodamiesi { -brand-name-firefox }, ne tik mėgaujatės ypač sparčia naršykle, bet ir prisidedate prie { -brand-name-mozilla } misijos išsaugoti internetą sveiką, savitą ir visiems atvirą.
 about-walking-our-privacy-talk = Realiais darbais pagrindžiame savo kalbas apie privatumą
 about-when-the-facebook-breach-was = Kai buvo paskelbta apie „{ -brand-name-facebook }“ duomenų nutekinimą, „{ -brand-name-mozilla }“ iškart į jį sureagavo, sukurdama „{ -brand-name-firefox }“ priedą, padedantį labiau apsaugoti naudotojų privatumą.
 about-talking-internet-issues-irl = Aptariame interneto problemas tikrame gyvenime
-about-in-mozillas-irl-podcast-host = „Mozillos“ IRL tinklalaidėje Manoush Zomorodi dalijasi tikromis istorijomis apie gyvenimą internete ir rimtais pokalbiais apie jo ateitį.
+about-in-mozillas-irl-podcast-host = { -brand-name-mozilla } IRL tinklalaidėje Manoush Zomorodi dalijasi tikromis istorijomis apie gyvenimą internete ir rimtais pokalbiais apie jo ateitį.
 about-corporation-foundation-not = Korporacija. Fondas. Ne pelno organizacija.
 about-learn-about-the-mozilla-foundation = Susipažinkite su „{ -brand-name-mozilla-foundation }“
 about-mozilla-puts-people-over-profit = „{ -brand-name-mozilla }“ visuomet iškelia žmones virš pelno – tiek kalbose, tiek darbuose ir kūriniuose. Mūsų organizacijos šerdis – ne pelno siekiantis fondas „{ -brand-name-mozilla } Foundation“.
-about-the-mozilla-manifesto = „Mozillos“ manifestas
+about-the-mozilla-manifesto = { -brand-name-mozilla } manifestas
 about-the-principles-we-wrote-in = Mes iki šiol vadovaujamės principais, kuriuos iškėlėme 1998-aisiais. O 2018-aisiais juos papildėme, atkreipdami ypatingą dėmesį į atviro visiems,  gerbiančio privatumą ir saugaus interneto svarbą kiekvienam.
 about-read-the-manifesto = Skaitykite manifestą
 about-a-global-view = Globalus požiūris
@@ -41,15 +41,15 @@ about-500-annual-attendees-to-the = „Speaker“ serijos renginiuose Berlyne ka
 about-toronto = Torontas
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = Kasmet išgeriama <strong>800</strong> buteliukų šaltos kavos.
-about-work-at-mozilla = Dirbkite „Mozilloje“
+about-work-at-mozilla = Dirbkite { -brand-name-mozilla }
 about-join-a-mission-driven-organization = Prisijunkite prie organizacijos, aiškiais būdais siekiančios kilnaus tikslo.
-about-mozilla-careers = Karjeros galimybės „Mozilloje“
+about-mozilla-careers = Karjeros galimybės { -brand-name-mozilla }
 about-how-you-can-help = Kaip jūs galite padėti
 about-your-voice-your-code-your = Jūsų balsas. Jūsų kodas. Jūsų palaikymas. Yra daugybė būdų prisijungti prie kovos už sveikesnį internetą.
 about-get-involved = Prisijunkite prie mūsų
 
 ## Newsletter
 
-about-get-the-mozilla-newsletter = Gaukite „Mozillos“ naujienlaiškį
+about-get-the-mozilla-newsletter = Gaukite { -brand-name-mozilla } naujienlaiškį
 about-stay-informed-about-the-issues = Sužinokite apie internetui kylančius pavojus ir kaip galite prisidėti prie šio naujausio pasaulinio viešojo ištekliaus išsaugojimo.
 about-subscribe = Prenumeruoti
