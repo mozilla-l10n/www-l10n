@@ -1,15 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Parsisiųskite mobiliąją „Firefox“ į savo „{ -brand-name-ios }“ ir „{ -brand-name-android }“ įrenginius
+welcome-page4-download-the-firefox-browser = Parsisiųskite mobiliąją { -brand-name-firefox-browser } į savo { -brand-name-ios } ir { -brand-name-android } įrenginius
 welcome-page4-wallet-keys-phone-firefox = Piniginė. Raktai. Telefonas. <strong>„{ -brand-name-firefox }“.</strong>
 welcome-page4-take-privacy-with-you-on-every = Apsaugokite savo privatumą visuose įrenginiuose – palikite seklius užnugaryje.
-welcome-page4-get-the-firefox-app = Parsisiųsti „{ -brand-name-firefox }“ programėlę
 welcome-page4-get-firefox-on-your-phone = Parsisiųskite „{ -brand-name-firefox }“ į savo telefoną
 welcome-page4-send-the-download-link-right = Nusiųsti parsisiuntimo saitą į jūsų telefoną ar el. pašto dėžutę.
 welcome-page4-download-firefox-for-your = Naudokitės „{ -brand-name-firefox }“ naršykle ir savo telefone ar planšetėje.
