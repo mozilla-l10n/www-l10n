@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = „{ -brand-name-firefox-developer-edition }“ – tai ypač sparti naršyklė, suteikianti itin šiuolaikiškas saityno kūrėjų priemones ir šviežiausias naujoves, tokias, kaip CSS tinklelių palaikymas ir JS karkasų derinimas
@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Padėkite kurti paskutinę nepriklausom�
 firefox-developer-start-now = Pradėkite dabar
 firefox-developer-design-code-test = Projektuokite. Kurkite. Testuokite. Tobulinkite.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Kurkite ir tobulinkite savo svetaines<br> su „Firefox“ kūrėjų priemonių pagalba
+firefox-developer-build-and-perfect = Kurkite ir tobulinkite savo svetaines<br> su { -brand-name-firefox-devtools } pagalba
 firefox-developer-inspector = Tyriklis
 firefox-developer-inspect-and-refine = Tirkite ir tobulinkite kodą, kad visi tinklalapiai atrodytų tobulai.
 firefox-developer-learn-about-page-inspector = Sužinokite apie tyriklį daugiau
@@ -57,6 +57,7 @@ firefox-developer-firefox-devtools-now-grays-out = Dabar „Firefox“ saityno k
 firefox-developer-firefox-devtools = „Firefox“ saityno kūrėjų priemonės
 firefox-developer-the-new-firefox-devtools = Naujosios „Firefox“ saityno kūrėjų priemonės yra galingos, lanksčios, ir  – svarbiausia – pritaikomos. Viena jų – geriausia rinkoje „JavaScript“ derintuvė, galinti derinti daugelį naršyklių bei sukurta „React“ ir „Redux“ pagrindu.
 firefox-developer-master-css-grid = Įvaldykite CSS tinklelį
+# outdated
 firefox-developer-next-gen-css-engine = Naujos kartos CSS varikliukas
 firefox-developer-a-next-generation = Naujos kartos CSS varikliukas
 firefox-developer-master-innovative-features = Inovatyvios funkcijos

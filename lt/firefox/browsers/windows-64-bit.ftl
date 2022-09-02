@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -29,5 +29,5 @@ windows-64-bit-if-you-see-32-bit-older = Jei matote užrašą „(32 bitų)“ 
 windows-64-bit-if-you-see-32-bit-newer = Jei matote užrašą „(32 bitų)“ ir naudojatės „{ -brand-name-firefox } 56.0.1“ ar naujesne laida, gali būti, jog jūsų kompiuteris netenkina minimalių 64 bitų versijos reikalavimų (3 GB ar daugiau darbinės atminties). Tokiu atveju, jei norite, 64 bitų „{ -brand-name-firefox }“ versiją galite įdiegti rankiniu būdu.
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/
-windows-64-bit-if-you-need-to-run = Jeigu jūs norite naudotis būtent 32 bitų „{ -brand-name-firefox }“ naršykle ar įdiegti 64 bitų „{ -brand-name-firefox }“, galite tiesiog iš naujo įdiegti pageidaujamą versiją (32 bitų arba 64 bitų), parsisiuntę „{ -brand-name-firefox }“ įdiegimo programą iš <a href="{ $all }">visų „{ -brand-name-firefox }“ atmainų parsisiuntimo tinklalapio.</a>
+windows-64-bit-if-you-need-to-run = Jeigu jūs norite naudotis būtent 32 bitų { -brand-name-firefox } naršykle ar įdiegti 64 bitų { -brand-name-firefox }, galite tiesiog iš naujo įdiegti pageidaujamą { -brand-name-windows } versiją (32 bitų arba 64 bitų), parsisiuntę { -brand-name-firefox } įdiegimo programą iš <a href="{ $all }">visų { -brand-name-firefox } atmainų parsisiuntimo tinklalapio.</a>
 windows-64-bit-take-control-of-your = Susigrąžinkite naršyklės valdymą.

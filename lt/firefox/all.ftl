@@ -32,7 +32,7 @@ firefox-all-the-standard-firefox = Įprastinė „{ -brand-name-firefox }“ nar
 firefox-all-get-a-sneak-peek-at = Susipažinkite su „{ -brand-name-firefox }“ naujovėmis prieš jas oficialiai išleidžiant.
 firefox-all-test-your-sites-against = Testuokite savo svetaines su netrukus pasirodysiančiomis „{ -brand-name-firefox }“ naršyklės funkcijomis. Mėgaukitės galingomis ir lanksčiomis saityno kūrėjų priemonėmis.
 firefox-all-count-on-stability-and = Šioje stambioms organizacijoms skirtoje „{ -brand-name-firefox }“ naršyklės atmainoje kreipiamas ypatingas dėmesys į stabilumą ir patogumą.
-firefox-all-windows-installers-for = Įdiegimo programa „Windows“ platformai, organizacijoms palengvinanti centralizuotą „Firefox“ naršyklės konfigūravimą, diegimą ir valdymą.
+firefox-all-windows-installers-for = Įdiegimo programa „Windows“ platformai, organizacijoms palengvinanti centralizuotą { -brand-name-firefox-browser } konfigūravimą, diegimą ir valdymą.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Rinkitės 32 bitų naršyklę, jei jūsų kompiuteryje veikia 32 bitų procesorius, arba jis tiesiog yra senas ir mažiau galingas. <a href="{ $url }">Jei nesate tikri</a>, 32 ar 64 bitų atmainą rinktis, neprašausite pasirinkdami 32 bitų.

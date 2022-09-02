@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -13,7 +13,7 @@ best-browser-the-internet-has-become = Internetas šiais laikais – tokia pat b
 best-browser-in-the-mid-nineties = Devintojo dešimtmečio viduryje naršyklių rinkoje dominavo „{ -brand-name-netscape }“, „{ -brand-name-ie }“ ir AOL. Tai buvo paprasti laikai, kai norint pasiekti internetą, daugumai reikėdavo išklausyti ryšį užmezgančio modemo melodijos. Tekdavo kantriai palaukti, kol tinklalapis bus atvertas, o viskas ko reikėjo iš naršyklės – tai kad ji būtų sparti.
 best-browser-today-is-a-different = Šiandien situacija kitokia. Reklamos, privatumo pažeidimai, saugumo spragos ir melagingos naujienos priverčia naršyklėje ieškoti kitokių savybių. Kaip naršyklė sergi jūsų privatumą? Ar ji leidžia sekliams sekti jūsų keliones saityne? Ar ji geba vienu metu vykdyti daugiau užduočių, apdoroti daugiau duomenų?
 best-browser-when-you-use-a-browser = Kai naršyklė naudojama viskam, ji turi būti sparti. Bet dėl tos pačios priežasties ji turi būti privati. Naršyklė dalyvauja visoje jūsų veikloje internete, todėl aplaidus jos kūrėjų požiūris į privatumą gali turėti rimtų pasekmių naršančiajam.
-best-browser-marshall-erwin-senior = Marshall Erwin, „Mozillos“ vyriausiasis pasitikėjimo ir saugumo direktorius
+best-browser-marshall-erwin-senior = Marshall Erwin, { -brand-name-mozilla } vyriausiasis pasitikėjimo ir saugumo direktorius
 best-browser-if-youre-wondering = Jei svarstote, kokia turi būti privati ir saugi naršyklė, žemiau pateikiame tris svarbiausias ir būtiniausias savybes, kuriomis ji turi pasižymėti.
 best-browser-a-browser-built-for = Naršyklė, sukurta sparčiam naršymui.
 best-browser-a-browser-is-still = Naršyklė – tai įrankis, tad natūralu, jog norėsite pasirinkti geriausiai atliekančią savo darbą. Jei esate žmogus, turintis dirbti ir uždirbti pragyvenimui, norėsite sparčios interneto naršyklės. Atkreipkite dėmesį, jog naršyklė, neblokuojanti trečiųjų šalių seklių, tikriausiai bus lėtesnė nei juos blokuojanti. Trečiųjų šalių sekliai – tai slapukai, ir, nors nematomi akiai, jie apkrauna svetainę ir naršyklę bei eikvoja brangų jūsų laiką. Kuo daugiau trečiųjų šalių slapukų naršyklė blokuoja, tuo sparčiau ji gali veikti.
