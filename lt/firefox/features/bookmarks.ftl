@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = „Firefox“ naršyklė: patogesnis adresynas, kur bebūtumėte
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: patogesnis adresynas, kur bebūtumėte
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Paprastai grupuokite savo adresyno įrašus aplankuose ir pasiekite juos visuose įrenginiuose – nuo kompiuterio iki mobiliojo telefono.
 features-bookmarks-better-bookmarks = Geresnis adresynas

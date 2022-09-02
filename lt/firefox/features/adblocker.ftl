@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -50,7 +50,7 @@ features-adblocker-in-firefox-you-can-block = „{ -brand-name-firefox }“ sute
 features-adblocker-send-a-do-not-track-signal = Praneškite, jog nenorite būti stebimi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Jeigu nenorite, kad jūsų naršymo istorija būtų naudojama reklamoms parinkti, galite svetaines mandagiai informuoti, jog to nepageidaujate, pažymėdami <a href="{ $url }">„Do Not Track“</a> parinktį. Svetainės neprivalo į šį signalą atsižvelgti, tačiau tos, kurios atsižvelgia, nedelsiant nutrauks bet kokį jūsų stebėjimą.
+features-adblocker-if-you-dont-want-your = Jeigu nenorite, kad jūsų naršymo istorija būtų naudojama reklamoms parinkti, galite svetaines mandagiai informuoti, jog to nepageidaujate, pažymėdami <a href="{ $url }">„Do Not Track“</a> { -brand-name-firefox } parinktį. Svetainės neprivalo į šį signalą atsižvelgti, tačiau tos, kurios atsižvelgia, nedelsiant nutrauks bet kokį jūsų stebėjimą.
 features-adblocker-speed-up-thanks-to-ad = Naršykite sparčiau reklamų blokuoklių pagalba
 features-adblocker-in-some-cases-an-ad-blocker = Kai kuriais atvejais reklamų blokuoklė gali padėti jūsų naršyklei veikti greičiau. Reklamų įkėlimas sulėtina svetainės veikimą. Be to, kol esate užsiėmę, uždarinėdami iššokančias reklamas, negalite susikoncentruoti į svetainės turinį, dėl kurio joje apsilankėte.
 # Variables:
