@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -22,10 +22,10 @@ firefox-all-64-bit-installers = 64 bitų įdiegiklis
 firefox-all-choose-a-64-bit-installer = Rinkitės 64 bitų naršyklę, jei jūsų kompiuteryje veikia 64 bitų procesorius, gebantis programoms išskirti daugiau darbinės atminties (tai ypatingai aktualu žaidimams ir kitoms reiklioms atminčiai programoms).
 firefox-all-32-bit-installers = 32 bitų įdiegiklis
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Parsisiųskite „Firefox“ naršyklę lietuvių ar bet kuria kita iš daugiau kaip 90 kalbų
+firefox-all-download-the-firefox = Parsisiųskite { -brand-name-firefox-browser } lietuvių ar bet kuria kita iš daugiau kaip 90 kalbų
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Internetas skirtas visiems – nesvarbu, kokia jūsų gimtoji kalba. Dėl šios priežasties, padedant daugybei savanorių visame pasaulyje, „Firefox“ naršyklę mes pateikiame daugiau kaip devyniasdešimčia kalbų.
-firefox-all-choose-which-firefox = Pasirinkite, kurią lokalizuotos „Firefox“ naršyklės atmainą norite parsisiųsti
+firefox-all-everyone-deserves-access = Internetas skirtas visiems – nesvarbu, kokia jūsų gimtoji kalba. Dėl šios priežasties, padedant daugybei savanorių visame pasaulyje, { -brand-name-firefox-browser } mes pateikiame daugiau kaip devyniasdešimčia kalbų.
+firefox-all-choose-which-firefox = Pasirinkite, kurią lokalizuotos { -brand-name-firefox-browser } atmainą norite parsisiųsti
 firefox-all-firefox-privacy-notice = „{ -brand-name-firefox }“ privatumo pranešimas
 firefox-all-learn-about-firefox = Plačiau apie „{ -brand-name-firefox }“ naršykles
 firefox-all-the-standard-firefox = Įprastinė „{ -brand-name-firefox }“ naršyklė – sparti ir privati. Jeigu nežinote, kurią „{ -brand-name-firefox }“ atmainą rinktis, rinkitės šią.
