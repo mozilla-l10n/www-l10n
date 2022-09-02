@@ -20,7 +20,7 @@ password-manager-forget-the-reset = Pamirškite slaptažodžių atkūrimo proced
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Neškitės juos su savimi
-password-manager-no-more-try-again = Nebesivarginkite, „bandydami dar kartą“, kai reikia kažkur patekti. Prisijunkite prie „Firefox“ paskyros savo telefone, ir jūsų slaptažodžiai keliaus kartu su jumis. Prireikus prisijungti, reikiami duomenys tiesiog pasirodys ekrane.
+password-manager-no-more-try-again = Nebesivarginkite, „bandydami dar kartą“, kai reikia kažkur patekti. Prisijunkite prie { -brand-name-firefox-account } savo telefone, ir jūsų slaptažodžiai keliaus kartu su jumis. Prireikus prisijungti, reikiami duomenys tiesiog pasirodys ekrane.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Naudokitės papildomomis funkcijomis
