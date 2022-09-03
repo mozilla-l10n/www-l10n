@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
@@ -53,6 +53,7 @@ firefox-developer-learn-more-about-style = Style Editor အကြောင်း
 firefox-developer-new-tools = အသစ်သောအကူကိရိယာများ
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = မာစတာ CSS Grid
+# outdated
 firefox-developer-next-gen-css-engine = လာမည့်မျိုးဆက်သစ် CSS အင်ဂျင်
 firefox-developer-a-next-generation = မျိုးဆက်သစ် CSS အင်ဂျင်
 firefox-developer-master-innovative-features = ဆန်းသစ်တီထွင်ထားသောဆောင်ရွက်ချက်များ
@@ -66,6 +67,6 @@ firefox-developer-faster-innovation = ပိုမိုမြန်ဆန်သ
 firefox-developer-fonts-panel = Fonts Panel
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } သည် { -brand-name-mozilla } သို့ အလိုအလျောက် တုံံ့ပြန်ချက် ပေးပို့ပါသည်။
 firefox-developer-download-the-firefox-browser = Developerများအတွက်ပြုလုပ်ထားသော { -brand-name-firefox }ဘရောက်ဇာကို ဒေါင်းလုပ်ချပါ
-firefox-developer-welcome-to-the-all-new = Developerများအတွက် အသစ်ထုတ်ထားသော { -brand-name-firefox-quantum }မှကြိုဆိုပါတယ်
+firefox-developer-welcome-to-the-all-new = { -brand-name-developer-edition } { -brand-name-firefox-quantum }မှကြိုဆိုပါတယ်
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ကို ပိုမိုမြန်ဆန်ချောမွေ့ခြင်းနှင့်ယခင်ကထက်ပိုမိုအစွမ်းထက်စေရန်ပြန်လည်တည်ဆောက်ခဲ့သည်။
 firefox-developer-congrats-you-now-have-firefox = ဂုဏ်ယူပါတယ် ယခုသင့်တွင် { -brand-name-firefox-quantum }: { -brand-name-developer-edition } ရှိသည်။

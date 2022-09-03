@@ -1,16 +1,18 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-firefox } အတွက် ဖေစ့်ဘုတ် အချက်အလက် ကောက်ယူခြင်းမှ ကာကွယ်သော လုပ်ဆောင်ချက်
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } အတွက် { -brand-name-firefox } | { -brand-name-facebook } အချက်အလက် ကောက်ယူခြင်းမှ ကာကွယ်သော လုပ်ဆောင်ချက်
 facebook-container-millions-of-people-around = ကမ္ဘာတစ်ဝှမ်းရှိ လူသန်းပေါင်းများစွာသည် { -brand-name-android }၊ { -brand-name-ios } နှင့် ဒက်စတော့ကွန်ပျူတာတွင် { -brand-name-firefox } ဝဘ်ဘရောက်ဇာများကို ယုံကြည်အသုံးပြုကြသည်။ ၎င်းသည် မြန်ဆန်၊ လုံခြုံသည်။ ယခုပင် ဆွဲယူအသုံးပြုပါ။
 facebook-container-facebook-well-contained-keep = ကိုယ်ရေးလုံခြုံမှု ပိုမိုကောင်းမွန်ပြီး ဘရောင်ဇာတွင် ပါသည့် { -brand-name-facebook } ကွန်တိန်နာ
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } ထပ်ပေါင်းဆော့ဖ်ဝဲကို ရယူပါ
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ကို ဆွဲယူပြီး { -brand-name-facebook-container } ထပ်ပေါင်းဆော့ဖ်ဝဲကို အသုံးပြုပါ။
+# Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } ထပ်ပေါင်းဆော့ဖ်ဝဲသည် မိုဘိုင်းလ်ကိရိယာများတွင် မရနိုင်သေးပါ။
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = { -brand-name-android } နှင့် { -brand-name-ios } အတွက် ကိုယ်ရေးကာကွယ်မှုဘရောင်ဇာ ဖြစ်သော <strong>{ -brand-name-firefox-focus }</strong> ကို စမ်းသုံးကြည့်ပါ။
 facebook-container-opt-out-on-your-terms = သင်နှင့်ဆိုင်သော စည်းကမ်းချက်များအတွက် မပါဝင်ခြင်းဆိုင်ရာ ရွေးချယ်မှု
