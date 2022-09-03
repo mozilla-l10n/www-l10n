@@ -32,7 +32,7 @@ history-after-several-years-of-development = Pēc vairākiem izstrādes gadiem, 
 history-by-2002-well-over-90 = 2002. gadā, <a href="{ $over90 }">vairāk nekā 90% interneta lietotāji</a> pārlūkoja ar { -brand-name-ie }.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
-history-not-many-people-noticed = Daži tikai to pamanīja, bet Phoenix (vēlāk pārsaukts par { -brand-name-firefox }) arī tika palaists tajā gadā ar mērķi piedāvāt <a href="{ $charter }">vislabāko iespējamo pārlūkošanas pieredzi</a> visplašākajam skaitam cilvēku.
+history-not-many-people-noticed = Daži tikai to pamanīja, bet Phoenix (vēlāk pārsaukts par { -brand-name-firefox }) arī { -brand-name-mozilla } tika palaists tajā gadā ar mērķi piedāvāt <a href="{ $charter }">vislabāko iespējamo pārlūkošanas pieredzi</a> visplašākajam skaitam cilvēku.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = 2003. gadā, { -brand-name-mozilla } projekts izveidoja { -brand-name-mozilla-foundation }, <a href="{ $foundation }">neatkarīga bezpeļņas organizācija</a> kuru atbalsta gan individuāli ziedotāji, gan dažādi uzņēmumi.
