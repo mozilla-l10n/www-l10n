@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = 2002. gadā, <a href="{ $over90 }">vairāk nekā 
 history-not-many-people-noticed = Daži tikai to pamanīja, bet Phoenix (vēlāk pārsaukts par { -brand-name-firefox }) arī tika palaists tajā gadā ar mērķi piedāvāt <a href="{ $charter }">vislabāko iespējamo pārlūkošanas pieredzi</a> visplašākajam skaitam cilvēku.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = 2003. gadā, { -brand-name-mozilla } projekts izveidoja { -brand-name-mozilla } Fondu, <a href="{ $foundation }">neatkarīga bezpeļņas organizācija</a> kuru atbalsta gan individuāli ziedotāji, gan dažādi uzņēmumi.
+history-in-2003-the-mozilla-project = 2003. gadā, { -brand-name-mozilla } projekts izveidoja { -brand-name-mozilla-foundation }, <a href="{ $foundation }">neatkarīga bezpeļņas organizācija</a> kuru atbalsta gan individuāli ziedotāji, gan dažādi uzņēmumi.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = Jaunveidotais Mozilla Fonds turpināja pārvaldīt projekta ikdienas darbības un arī oficiāli ieņēma pozīciju interneta piedāvāto <a href="{ $manifesto }">atvērtību, inovāciju un iespēju</a> veicināšanā.
+history-the-new-mozilla-foundation = Jaunveidotais { -brand-name-mozilla-foundation } turpināja pārvaldīt projekta ikdienas darbības un arī oficiāli ieņēma pozīciju interneta piedāvāto <a href="{ $manifesto }">atvērtību, inovāciju un iespēju</a> veicināšanā.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Lai šos mērķus sasniegtu, fonds turpināja veidot lietotnes kā { -brand-name-firefox } un { -brand-name-thunderbird }, vienlaicīgi atveroties jauniem laukiem, piemēram piedāvājot <a href="{ $grants }">stipendijas</a> lai atbalstītu pieejamības uzlabošanas centienus tīmeklī.
