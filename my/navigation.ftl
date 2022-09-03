@@ -24,14 +24,14 @@ navigation-take-firefox-and-firefox = { -brand-name-firefox } and { -brand-name-
 navigation-get-firefox = { -brand-name-firefox } ရယူပါ။
 navigation-get-firefox-focus = { -brand-name-firefox-focus } ရယူပါ။
 navigation-android-extensions = အန်းဒရိုက် တိုးချဲ့မှုများ
-navigation-your-firefox-account = သင့် Firefoxအကောင့်
+navigation-your-firefox-account = သင့် { -brand-name-firefox-account }
 navigation-make-the-most-of-your = သင်၏စက်ကိရိယာတိုင်းတွင်သင်၏ { -brand-name-firefox } အတွေ့အကြုံကိုအများဆုံးအသုံးပြုပါ။
 # Outdated string
 navigation-learn-how-to-customize = { -brand-name-firefox } လုပ်နည်းလုပ်ပုံများကို စိတ်ကြိုက်ပြင်ဆင်နိုင်ရန် လေ့လာပါ။
 # Outdated string
-navigation-mozilla-webvr = မော်ဇီလာ WebVR
+navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 # Outdated string
-navigation-mozilla-brings-firefox = ပိုမိုကောင်းမွန်သော စစ်မှန်သော { -brand-name-firefox } ရရှိအောင် မော်ဇီလာမှ စွမ်းဆောင်ပေးထားပါသည်။
+navigation-mozilla-brings-firefox = { -brand-name-mozilla } င်းမွန်သော စစ်မှန်သော { -brand-name-firefox } ရရှိအောင် မော်ဇီလာမှ စွမ်းဆောင်ပေးထားပါသည်။
 navigation-firefox-built-just-for = developer များအတွက်သာတည်ဆောက်ထားသော { -brand-name-firefox } ။
 navigation-preview-the-latest-build = နောက်ဆုံးပေါ် { -brand-name-firefox } တည်ဆောက်မှုကိုကြည့်ပြီး၎င်းကိုအကောင်းဆုံးဖြစ်စေရန်ကူညီပါ။
 navigation-firefox-playground = { -brand-name-firefox } Playground
