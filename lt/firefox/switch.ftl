@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
@@ -11,7 +11,6 @@ switch-switching-to-firefox-page-description = Pradėti naudotis „{ -brand-nam
 switch-select-what-to-take = Pasirinkite, ką importuoti iš „{ -brand-name-chrome }“.
 switch-let-firefox-do-the-rest = „{ -brand-name-firefox }“ viską atliks pati.
 switch-use-firefox-and-still-chrome = Net ir naudodamiesi „{ -brand-name-firefox }“ naršykle, galite greta jos turėti „{ -brand-name-chrome }“. „{ -brand-name-firefox }“ įdiegimas niekaip neįtakos „{ -brand-name-chrome }“ veikimo jūsų kompiuteryje.
-switch-share-with-your-friends = Papasakokite apie tai ir savo draugams
 switch-firefox-makes-switching-fast-tweet = 🔥 Iškeisti „{ -brand-name-chrome }“ naršyklę į „{ -brand-name-firefox }“ – labai paprasta. Išbandykite!
 switch-switch-to-firefox = Išbandyk „{ -brand-name-firefox }“ naršyklę
 switch-firefox-makes-switching-fast-email = Iškeisti „{ -brand-name-chrome }“ naršyklę į „{ -brand-name-firefox }“ – tikrai paprasta. Man ši naršyklė labai patiko, tad patariu ją išmėginti ir Tau.

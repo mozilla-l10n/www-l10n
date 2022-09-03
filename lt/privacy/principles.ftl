@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/principles/
@@ -11,7 +11,7 @@ privacy-principles-data-privacy-principles = Duomenų privatumo principai
 privacy-principles-mozilla-is-an-open-source = „{ -brand-name-mozilla }“ yra atvirojo kodo projektas, kurio misija – padėti jums geriau jaustis internete. Ši misija yra kertinis mūsų taikomų privatumo principų akmuo.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
-privacy-principles-the-following-five-principles = Penki žemiau išvardyti principai kyla iš <a href="{ $link }">„Mozillos“ manifesto</a> ir apibrėžia, kaip mes:
+privacy-principles-the-following-five-principles = Penki žemiau išvardyti principai kyla iš <a href="{ $link }">{ -brand-name-mozilla } manifesto</a> ir apibrėžia, kaip mes:
 privacy-principles-develop-our-products = kuriame savo produktus ir paslaugas;
 privacy-principles-manage-user-data-we-collect = tvarkome savo sukauptus naudotojų duomenis;
 privacy-principles-select-and-interact-with = atsirenkame partnerius ir su jais bendraujame;
