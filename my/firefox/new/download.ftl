@@ -13,7 +13,7 @@ firefox-new-download-the-fastest-firefox = လျင်မြန်သော { -
 firefox-new-faster-page-loading-less-memory = စာမျက်နှာမြန်ဆန်စွာတက်ခြင်း၊မန်မိုရီအသုံးပြုမှုနည်းခြင်းအစရှိသောအစွမ်းများပေးနိုင်သော { -brand-name-firefox }အသစ်ဒီမှာယူပါ
 firefox-new-get-the-latest-firefox = နောက်ဆုံးပေါ် { -brand-name-firefox }ဘရောက်ဇာကို ရယူပါ။
 # span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = အန်းဒရွိုက်အတွက်<br>{ -brand-name-firefox }ကို ဆွဲယူပါ
+firefox-new-download-firefox-for-windows = { -brand-name-windows } အတွက်<br>{ -brand-name-firefox }ကို ဆွဲယူပါ
 firefox-new-download-firefox-for-macos = { -brand-name-mac } အတွက် <br>{ -brand-name-firefox }ကို ဆွဲယူပါ
 firefox-new-download-firefox-for-linux = { -brand-name-linux } စ်အတွက် <br>{ -brand-name-firefox }ကို ဆွဲယူပါ
 firefox-new-free-web-browser = အခမဲ့ ဝဘ်ဘရောက်ဇာ

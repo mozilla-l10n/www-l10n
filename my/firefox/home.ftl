@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/
@@ -9,15 +9,19 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - အွန်လိ
 firefox-home-firefox-is-more-than = { -brand-name-firefox } သည် browser တစ်ခုထက်ပိုသည်။ သင့်အချက်အလက်များကိုလေးစားစွာကိုင်တွယ်ပြီးသင်အွန်လိုင်းသွားသည့်နေရာတိုင်းရှိ privacy အတွက်တည်ဆောက်ထားသော { -brand-name-firefox } ထုတ်ကုန်များအကြောင်းပိုမိုလေ့လာပါ။
 firefox-home-the-browser-is-just = browser ကအစပဲရှိသေးတယ်
 firefox-home-meet-our-family-of = ကျွန်ုပ်တို့ထုတ်ကုန်နှင့်မိတ်ဆက်ပါရစေ
-firefox-home-get-trackers-off = ဖေ့စ်ဘွတ်ခ်အပါအဝင် tracker ၂၀၀၀ ကျော်ကိုသင်၏လမ်းကြောင်းမှဖယ်ရှားလိုက်ပါ
+firefox-home-get-trackers-off = { -brand-name-facebook } တ်ခ်အပါအဝင် tracker ၂၀၀၀ ကျော်ကိုသင်၏လမ်းကြောင်းမှဖယ်ရှားလိုက်ပါ
 firefox-home-know-when-hackers-strike = ဘယ်အချိန်မှာဟက်ကာတွေတိုက်ခိုက်တယ်ဆိုတာဂရုပြုပါ
 firefox-home-start-getting-breach = ချိုးဖောက်မှုအစီရင်ခံစာများကိုစတင်ပါ
+# Obsolete string
 firefox-home-keep-your-passwords = သင်၏စကားဝှက်များကိုစက်ကိရိယာတိုင်းတွင်လုံခြုံစွာထားပါ
+# Obsolete string
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } အကြောင်းပိုမိုလေ့လာပါ
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = သင်ရထိုက်သော <strong> လေးစားမှု </strong> ကိုရယူပါ
 firefox-home-every-single-firefox = { -brand-name-firefox } ထုတ်ကုန်တိုင်းတွင်ကိုယ်ရေးအချက်အလက်များနှင့်ဆိုင်သောကတိ<strong> လိုအပ်သည့်ပမာဏသာယူပါ။ လုံခြုံအောင်ထားပါ။ လျှို့ဝှက်ချက်များမရှိပါ။ </strong>
+# Obsolete string
 firefox-home-share-large-files-without = စောင့်ကြည့်မှုများမလုပ်ဘဲ ဖိုင်ကြီးများကို မျှဝေပါ။
+# Obsolete string
 firefox-home-start-sending-files = ဖိုင်များကိုဘေးအန္တရာယ်ကင်းစွာပို့ပါ
 firefox-home-trade-clickbait-for = အရည်အသွေးပြည့်ဝသောအရာအတွက် clickbait ကိုကုန်သွယ်ပါ
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } အကြောင်း ပိုမိုလေ့လာပါ…
