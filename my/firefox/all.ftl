@@ -22,9 +22,9 @@ firefox-all-64-bit-installers = 64 ဘစ် အင်စတော်လာ
 firefox-all-choose-a-64-bit-installer = အထူးသဖြင့်အရေးကြီးသောဂိမ်းနှင့်အခြားတောင်းဆို application များအတွက် -ပိုမို RAM ကိုခွဲဝေချထားပေးရန်ဖို့ခွင့်ပြုထားတဲ့ 64-bit ပရိုဆက်ဆာနှင့်အတူကွန်ပျူတာများ, အတွက်64-bit installer ကိုရွေးချယ်ပါ။
 firefox-all-32-bit-installers = 32ဘစ် အင်စတော်လာများ
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Firefoxဘရောက်ဇာကို အင်္ဂလိပ်(ယူအက်စ်)နှင့် အခြားဘာသာစကား၉၀ကျော်ဖြင့်ဒေါင်းလုပ်ချနိုင်သည်။
+firefox-all-download-the-firefox = { -brand-name-firefox-browser } ဘရောက်ဇာ ကို အင်္ဂလိပ် (ယူအက်စ်) နှင့် အခြားဘာသာစကား 90 ကျော် အတွက် ဒေါင်းလုပ်ချနိုင်သည်။
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = အင်တာနက်ကိုအသုံးပြုသူတိုင်းအတွက်သင့်ဘာသာစကားနှင့်ပတ်သက်၍အခက်အခဲမဖြစ်စေရန်ကမ္ဘာပေါ်ရှိလုပ်အားပေးများအကူအညီဖြင့်Firefox ဘရောက်ဇာကိုဘာသာစကား၉၀ဖြင့်ရရှိနိုင်အောင်ပြုလုပ်ထားပါသည်။
+firefox-all-everyone-deserves-access = အင်တာနက်ကို အသုံးပြုသူတိုင်း အတွက် သင့် ဘာသာစကား နှင့် ပတ်သက်၍ အခက်အခဲ မဖြစ်စေရန် ကွန်တော်တို့ သည် ကမ္ဘာပေါ်ရှိ လုပ်အားပေးများ ၏ အကူအညီဖြင့် { -brand-name-firefox-browser }  ဘရောက်ဇာ ကို ဘာသာစကား 90 ကျော် ဖြင့် ရရှိအောင် ပြုလုပ်ထားပါသည်။
 firefox-all-choose-which-firefox = သင် ၏ ဘာသာစကား ဖြင့် ဆွဲချရန် { -brand-name-firefox-browser } ကို ရွေးပါ
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } သီးသန့်လုံခြုံမှု သတိပေးချက်
 firefox-all-learn-about-firefox = { -brand-name-firefox }ဘရောက်ဇာများအကြောင်းလေ့လာပါ

@@ -3,16 +3,16 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox }ရယူပါ
-navigation-get-a-firefox-account = မော်ဇီလာအကောင့်ကိုရယူပါ။
+navigation-get-a-firefox-account = { -brand-name-firefox-account } ကိုရယူပါ။
 navigation-firefox-browser-for-desktop = Desktop အတွက် { -brand-name-firefox-browser }
 navigation-firefox-browser-for-mobile = Mobile အတွက် { -brand-name-firefox-browser }
 navigation-download-for-ios = { -brand-name-ios } အတွက် download လုပ်ပါ
 navigation-download-for-android = { -brand-name-android } အတွက်ဒေါင်းလုပ်လုပ်ပါ
 navigation-ios-support = { -brand-name-ios } အထောက်အပံ့
-navigation-android-support = အန်းဒရိုက် အထောက်အပံ့
+navigation-android-support = { -brand-name-android } အထောက်အပံ့
 navigation-firefox-browser-for-enterprise = လုပ်ငန်းအတွက် { -brand-name-firefox-browser }
-navigation-firefox-for-fire-tv = Fire တီဗီအတွက် { -brand-name-firefox }
-navigation-watch-videos-and-browse = သင့် { -brand-name-amazon } Fireတီဗီပေါ်တွင် အင်တာနက်အသုံးပြုပြီး ဗီဒီယိုများကြည့်ပါ။
+navigation-firefox-for-fire-tv = { -brand-name-fire-tv } အတွက် { -brand-name-firefox }
+navigation-watch-videos-and-browse = သင့် { -brand-name-amazon } { -brand-name-fire-tv } ဗီပေါ်တွင် အင်တာနက်အသုံးပြုပြီး ဗီဒီယိုများကြည့်ပါ။
 navigation-firefox-browsers-put = { -brand-name-firefox } browser များသည်သင်၏ကိုယ်ရေးကိုယ်တာအချက်အလက်ကို ဦးစားပေးပြီးအမြဲတမ်းရှိသည်။
 navigation-join-firefox = { -brand-name-firefox } ကို ချိတ်ဆက်ပါ။
 navigation-meet-the-firefox-family = { -brand-name-firefox } မိသားစုနှင့်တွေ့ဆုံပါ
@@ -20,10 +20,10 @@ navigation-firefox-blog = { -brand-name-firefox } ဘလော့
 navigation-mozilla-careers = { -brand-name-mozilla } အလုပ်အကိုင်များ
 navigation-close-firefox-menu = { -brand-name-firefox } menu ကိုပိတ်ပါ
 navigation-get-the-browser-that-gives = { -brand-name-windows }, { -brand-name-mac } သို့မဟုတ် { -brand-name-linux } ပေါ်တွင်သင့်အားပိုမိုစွမ်းအားပေးသောဘရောက်ဇာကိုရယူပါ။
-navigation-take-firefox-and-firefox = { -brand-name-firefox } and { -brand-name-firefox-focus } ကို { -brand-name-ios }နှင့် အန်းဒရိုက်အတွက် ရယူပါ။
+navigation-take-firefox-and-firefox = { -brand-name-firefox } and { -brand-name-firefox-focus } ကို { -brand-name-ios }နှင့် { -brand-name-android } အတွက် ရယူပါ။
 navigation-get-firefox = { -brand-name-firefox } ရယူပါ။
 navigation-get-firefox-focus = { -brand-name-firefox-focus } ရယူပါ။
-navigation-android-extensions = အန်းဒရိုက် တိုးချဲ့မှုများ
+navigation-android-extensions = { -brand-name-android } တိုးချဲ့မှုများ
 navigation-your-firefox-account = သင့် { -brand-name-firefox-account }
 navigation-make-the-most-of-your = သင်၏စက်ကိရိယာတိုင်းတွင်သင်၏ { -brand-name-firefox } အတွေ့အကြုံကိုအများဆုံးအသုံးပြုပါ။
 # Outdated string

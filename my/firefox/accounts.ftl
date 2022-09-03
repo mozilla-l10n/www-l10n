@@ -8,17 +8,17 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = သင့်သီးသန့်လုံခြုံမှုအတွက် { -brand-name-firefox } ကိုချိတ်ဆက်ပါ။
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = Firefox အကောင့်တစ်ခုရယူလိုက်ပါ – သင့်ရဲ့ဒေတာကိုလုံခြုံ၊ စိတ်ချရပြီးတော့ synced ဖြစ်တဲ့နေရာမှာထားပါ
+firefox-accounts-get-a-firefox-account = သင့် အချက်အလက် လုံခြုံရေး နှင့် ချိန်သားကိုက် စေရန် − { -brand-name-firefox-account } ကို ရယူလိုက်ပါ
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = သင့်အချက်အလက်များကို အပြင်သို့ မရောက်ရန် ကာကွယ်ခုခံပေးနိုင်သည့် အဆင့်မြင့်လုံခြုံရေးနည်းပညာကို ရယူပါ။
 # Old HTML page description
-firefox-accounts-securely-sync-your = သင့်ကိရိယာများရှိ စကားဝှက်များ၊ စာမှတ်များနှင့် တဗ်များကို လုံခြုံစွာ တစ်ပြေးညီဖြစ်စေပါ။ ယခုပင် Firefox အကောင့်တစ်ခု ရယူပါ။
+firefox-accounts-securely-sync-your = သင့်  ကိရိယာများရှိ စကားဝှက်များ၊ စာမှတ်များ နှင့် တဗ်များကို လုံခြုံစွာ ချိတ်သားကိုက်ပါစေ။ ယခုပဲ { -brand-name-firefox-account } တစ်ခု ရယူကာ – တစ်ခု ဝင်ရောက် – ရုံဖြင့် စွမ်းရည် နှင့် လုံခြုံ ရေး ကို နေရာတိုင်း အတွက် ရယူပါ။
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = သင့်သီးသန့်လုံခြုံမှုအတွက် <span> { -brand-name-firefox } ကိုချိတ်ဆက်ပါ။ </span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = သင့်အချက်အလက်များကို အပြင်သို့မရောက်ရန် ကာကွယ်ပေးနိုင်သောနည်းပညာရယူပါ။
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = သင့်ဟာ { -brand-name-firefox }ကို <br>ဝင်ရောက်ပြီးပါပြီ။<br> <span> { -brand-name-firefox }မော်နီတာကို ယခုပင်စမ်းသပ်ပါ။</span>
+firefox-accounts-youre-signed-in-to = သင် သည် { -brand-name-firefox } သို့ <br> ဝင်ရောက်ပြီးပါပြီ။ <br><span> အခု { -brand-name-firefox-monitor } ကို စမ်းကြည့်ပါ။</span>
 firefox-accounts-see-if-youve-been = အွန်လိုင်း ဒေတာပေါက်ကြားမှုများတွင်သင့်ဒေတာပါဝင်သလားစစ်ပါ
 firefox-accounts-sign-in-to-monitor = { -brand-name-monitor } ဝင်ရောက်ပါ
 firefox-accounts-join-firefox = { -brand-name-firefox } ကို ချိတ်ဆက်ပါ။
