@@ -1,11 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/details/
 
-about-shared-about-mozilla = မိုဇီလာအကြောင်း
+about-shared-about-mozilla = { -brand-name-mozilla } အကြောင်း
 about-shared-mission = ရည်မှန်းချက်
 about-shared-history = မှတ်တမ်း
 about-shared-leadership = ဦးဆောင်မှု

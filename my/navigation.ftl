@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox }ရယူပါ
 navigation-get-a-firefox-account = မော်ဇီလာအကောင့်ကိုရယူပါ။
@@ -21,13 +21,16 @@ navigation-mozilla-careers = { -brand-name-mozilla } အလုပ်အကို
 navigation-close-firefox-menu = { -brand-name-firefox } menu ကိုပိတ်ပါ
 navigation-get-the-browser-that-gives = { -brand-name-windows }, { -brand-name-mac } သို့မဟုတ် { -brand-name-linux } ပေါ်တွင်သင့်အားပိုမိုစွမ်းအားပေးသောဘရောက်ဇာကိုရယူပါ။
 navigation-take-firefox-and-firefox = { -brand-name-firefox } and { -brand-name-firefox-focus } ကို { -brand-name-ios }နှင့် အန်းဒရိုက်အတွက် ရယူပါ။
-navigation-get-firefox = မော်ဇီလာကို ရယူပါ။
-navigation-get-firefox-focus = မော်ဇီလာ ဖိုးကပ်စ်ကို ရယူပါ။
+navigation-get-firefox = { -brand-name-firefox } ရယူပါ။
+navigation-get-firefox-focus = { -brand-name-firefox-focus } ရယူပါ။
 navigation-android-extensions = အန်းဒရိုက် တိုးချဲ့မှုများ
 navigation-your-firefox-account = သင့် Firefoxအကောင့်
 navigation-make-the-most-of-your = သင်၏စက်ကိရိယာတိုင်းတွင်သင်၏ { -brand-name-firefox } အတွေ့အကြုံကိုအများဆုံးအသုံးပြုပါ။
+# Outdated string
 navigation-learn-how-to-customize = { -brand-name-firefox } လုပ်နည်းလုပ်ပုံများကို စိတ်ကြိုက်ပြင်ဆင်နိုင်ရန် လေ့လာပါ။
+# Outdated string
 navigation-mozilla-webvr = မော်ဇီလာ WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = ပိုမိုကောင်းမွန်သော စစ်မှန်သော { -brand-name-firefox } ရရှိအောင် မော်ဇီလာမှ စွမ်းဆောင်ပေးထားပါသည်။
 navigation-firefox-built-just-for = developer များအတွက်သာတည်ဆောက်ထားသော { -brand-name-firefox } ။
 navigation-preview-the-latest-build = နောက်ဆုံးပေါ် { -brand-name-firefox } တည်ဆောက်မှုကိုကြည့်ပြီး၎င်းကိုအကောင်းဆုံးဖြစ်စေရန်ကူညီပါ။
@@ -49,6 +52,7 @@ navigation-see-breaches = ချိုးဖောက်မှုများက
 navigation-security-tips = လုံခြုံရေးသိကောင်းစရာများ
 navigation-share-large-files-safely = ကြီးမားသောဖိုင်များကို ‘အလိုအလျောက်ဖျက်ခြင်း’ ဖြင့် လုံခြုံစွာမျှဝေပါ၊
 navigation-sign-up = စတင်သုံးရန် စာရင်းသွင်းပါ
+# Outdated string
 navigation-connected-and-protected = ချိတ်ဆက်ပြီးကာကွယ်ထားသည်
 navigation-join = ဆက်သွယ်ပါ
 navigation-close-join-menu = Join menu ကိုပိတ်ပါ
@@ -59,9 +63,11 @@ navigation-close-about-menu = မီနူးကိုပိတ်ပါ
 navigation-meet-the-technology-company = အကျိုးအမြတ်မတိုင်မီနည်းပညာနှင့်တွေ့ဆုံပါ
 navigation-new-features = လုပ်ဆောင်မှု အသစ်များ
 navigation-save-content-absorb-knowledge = အကြောင်းအရာသိမ်းဆည်းပါ။ အသိပညာသိုမှီးပါ။
+# Outdated string
 navigation-add-ons = ဖြည့်စွက်မှုများ
 navigation-projects = ပရောဂျက်များ
 navigation-close-projects-menu = ပရောဂျက်စီမံကိန်းများကို ပိတ်ပါ။
+# Outdated string
 navigation-web-of-things-iot = ဝဘ်နှင့်ပတ်သက်သော အရာများ IoT
 navigation-developers = Developers
 navigation-close-developers-menu = Developers menu ကိုပိတ်ပါ

@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
 # HTML page title
-manifesto-the-mozilla-manifesto = မိုဇီလာ ခံယူချက်
+manifesto-the-mozilla-manifesto = { -brand-name-mozilla } ခံယူချက်
 manifesto-the-internet-is-a-global = အင်တာနက်သည်ပွင့်လင်းမြင်သာမှုရှိရန်လိုအပ်သောကမ္ဘာလုံးဆိုင်ရာပြည်သူ့သယံဇာတဖြစ်သည်။
 manifesto-the-internet-must-enrich = အင်တာနက်သည်လူတစ်ဦးချင်းစီ၏ဘဝကိုပြည့်စုံစေရမည်။
 manifesto-individuals-security-and = သင်၏အင်တာနက်လုံခြုံရေးနှင့်လုံခြုံမှုအခွင့်အရေးသည်အခြေခံကျသည်၊
@@ -40,33 +40,10 @@ manifesto-show-your-support = သင်၏အထောက်အပံ့ကိ�
 manifesto-i-support-the-vision-of = @mozilla မှပိုမိုကောင်းမွန်အဆင်ပြေသောအင်တာနက်ရည်မှန်းချက်ကိုကျွန်ုပ်ထောက်ခံသည်၊ သင်ကျွန်ုပ်နှင့်ပူးပေါင်းမည်လား။
 manifesto-share-on-twitter = { -brand-name-twitter } ပေါ်သို့ မျှဝေပါ
 manifesto-our-10-principles = <strong>ကျွနု်ပ်တို့ရဲ့ 10</strong> ခံယူချက်များ
-manifesto-use-open-badges-to-share = သင်၏စွမ်းရည်များနှင့်အကျိုးစီးပွားများကိုမျှဝေရန် Open Badges ကိုသုံးပါ
-manifesto-explore-how-the-web-impacts = ဝဘ်သည်သိပ္ပံပညာအပေါ်မည်သို့သက်ရောက်မှုရှိသည်ကိုလေ့လာပါ
-manifesto-learn-about-open-source = စာနယ်ဇင်းနယ်ပယ်တွင် ပွင့်လင်းသောအရင်းအမြစ်ကုဒ်အကြောင်းလေ့လာပါ
-manifesto-read-about-open-internet = ပွင့်လင်းသောအင်တာနက်ပေါ်လစီအစပျိုးမှုနှင့်ဖွံ့ဖြိုးတိုးတက်မှုများအကြောင်းကိုဖတ်ပါ
-manifesto-explore-how-to-help-keep = ဝဘ်ကိုဖွင့်ထားရန်မည်သို့ကူညီရမည်ကိုလေ့လာပါ
-manifesto-see-how-the-web-can-connect = ဝဘ်သည်ကျန်းမာရေးစောင့်ရှောက်မှုနှင့်ကမ္ဘာကိုမည်သို့ချိတ်ဆက်နိုင်သည်ကိုကြည့်ပါ
-manifesto-explore-how-the-web-works = ဝဘ်အလုပ်လုပ်ပုံကိုလေ့လာပါ
-manifesto-see-how-mozilla-works = သင့်ကိုယ်ရေးကိုယ်တာကို{ -brand-name-mozilla } ကအလေးထားအလုပ်လုပ်ပုံကိုကြည့်ပါ
-manifesto-read-about-developments = ကိုယ်ရေးကိုယ်တာအချက်အလက်လုံခြုံမှုတိုးတက်မှုများအကြောင်းကိုဖတ်ပါ
-manifesto-learn-more-about-how-to = သင့်ကိုယ်ပိုင်အွန်လိုင်းကာကွယ်နည်းအကြောင်းလေ့လာပါ
-manifesto-use-these-free-tools-to = ဒီအခမဲ့ကိရိယာများကိုသုံးပြီးဝက်ဘ်ကိုသင်ကြားပါ
-manifesto-learn-about-creating-and = ဝဘ်အတွက်အကြောင်းအရာများဖန်တီးခြင်းနှင့်ထိန်းသိမ်းခြင်းအကြောင်းကိုလေ့လာပါ
-manifesto-add-new-voices-to-open = ပွင့်လင်းအရင်းအမြစ်နည်းပညာအသစ်ဖြင့်အသံများထည့်ပါ
-manifesto-set-your-do-not-track = သင်၏ခြေရာခံကာကွယ်မှုကို စိတ်ကြိုက်ရွေးချယ်ပါ
-manifesto-understand-the-web-ecosystem = ဝဘ်ဂေဟစနစ်ကိုနားလည်ရန်
-manifesto-learn-how-to-remix-content = အသစ်သောအရာတစ်ခုခုကိုဖန်တီးရန်အကြောင်းအရာများကိုရောစပ်ပုံကိုလေ့လာပါ
-manifesto-participate-in-our-governance = ကျွန်ုပ်တို့၏အုပ်ချုပ်မှုဖိုရမ်တွင်ပါ၀င်ပါ
-manifesto-join-us-as-a-volunteer = စေတနာ့ဝန်ထမ်းအဖြစ်ကျွန်တော်တို့ကိုဆက်သွယ်ပါ
-manifesto-learn-how-to-collaborate = အွန်လိုင်းတွင်မည်သို့ပူးပေါင်းရမည်ကိုလေ့လာပါ
-manifesto-visualize-who-you-interact = { -brand-name-lightbeam } နှင့်ဝဘ်ပေါ်တွင်သင်မည်သူနှင့်ဆက်သွယ်နေသည်ကိုမြင်ယောင်ကြည့်ပါ
-manifesto-learn-about-creating-web = အခြားသူများနှင့် web အရင်းအမြစ်များဖန်တီးခြင်းအကြောင်းကိုလေ့လာပါ
-manifesto-host-or-join-a-maker-party = Maker ပါတီကိုအိမ်ရှင်အဖြစ်လက်ခံကျင်းပပါ
-manifesto-learn-how-to-build-online = အွန်လိုင်းပူးပေါင်းဆောင်ရွက်မှုစွမ်းရည်များမည်သို့တည်ဆောက်ရမည်ကိုလေ့လာပါ
 manifesto-read-the-entire-manifesto = စာတမ်းတစ်ခုလုံးကိုဖတ်ပါ
 manifesto-love-the-web = ဝဘ်ကို နှစ်သက်လား။
 manifesto-get-the-mozilla-newsletter = { -brand-name-mozilla } သတင်းလွှာကိုရယူပြီး၎င်းကိုကျွန်ုပ်တို့အားပွင့်လင်းစွာလွတ်လပ်စွာကူညီပါ။
-manifesto-details-the-mozilla-manifesto = မိုဇီလာ ခံယူချက်
+manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } ခံယူချက်
 manifesto-details-introduction = မိတ်ဆက်
 manifesto-details-the-internet-is-becoming = အင်တာနက်သည်ကျွန်ုပ်တို့ဘ၀၏အရေးပါသောအစိတ်အပိုင်းတစ်ခုဖြစ်လာသည်။
 manifesto-details-the-goals-for = ကြေညာစာတမ်း၏ရည်မှန်းချက်များမှာ -

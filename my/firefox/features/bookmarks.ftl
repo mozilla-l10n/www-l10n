@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Firefox ဘရောင်ဇာ။ ဘယ်နေရာပဲရောက်ရောက် ပိုမိုကောင်းမွန်သော စာမှတ်နှင့်အတူ။
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }။ ဘယ်နေရာပဲရောက်ရောက် ပိုမိုကောင်းမွန်သော စာမှတ်နှင့်အတူ။
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = စာမှတ်များကို အလွယ်တကူ ဖိုင်တွဲများဖြင့် စုစည်းနိုင်သည်။ ထို့ပြင် ဒက်စတော့မှ မိုဘိုင်းဖုန်းအထိ ကိရိယာများအားလုံးတွင် ရယူကြည့်ရှုနိုင်သည်။
 features-bookmarks-better-bookmarks = ပိုမိုကောင်းမွန်သော စာမှတ်စနစ်

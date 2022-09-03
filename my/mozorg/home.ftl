@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -19,7 +19,7 @@ home-read-our-internet-health-report = ကျွန်တော်တို့�
 home-our-innovations = ကျွနု်ပ်တို့၏ဆန်းသစ်တီထွင်မှုများ
 home-using-the-web-as-the-platform = ဝတ်ဘ်အားတည်ဆောက်ရာတွင် ပွင့်လင်းပြီး ဆန်းသစ်တဲ့ နည်းပညာများကို အသုံးပြုက တည်ဆောက်သူများ အတွက် ပွင့်လင်းမှုမရှိသော စနစ်များ မှ ကင်းဝေစေအောင် မြန်ဆန်သော လုံခြုံသော ပတ်ဝန်းကျင် တစ်ခုအား ကျွနု်ပ်တို့ အားလုံးအတွက် ရည်ရွယ်ပြီး တည်ဆောက်သည်။
 home-virtual-reality-platform = ပုံရိပ်ယောင် အမှန်ထင်မှု နည်းပညာပလက်ဖောင်း
-home-common-voice = ပုံမှန်အသံ
+home-common-voice = { -brand-name-common-voice }
 home-extensions = တိုးချဲ့ချက်များ
 home-careers = အလုပ်အကိုင်အခွင့်အလမ်းများ
 home-learn-about-the-benefits-of = { -brand-name-mozilla }တွင် အလုပ်လုပ်ခြင်းဖြင့် ရနိုင်သော အကျိုးကျေးဇူးများ နှင့် ခေါ်ဆိုနေသော ရာထူးများကိုကြည့်မည်

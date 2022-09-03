@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = မှတ်ဉာဏ် လျော့နည်းစွာအသုံးပြုသော၊ ပိုမိုမြန်ဆန်လာသော Firefox ဘရောက်ဇာ
+features-memory-firefox-browser-use-less = မှတ်ဉာဏ် လျော့နည်းစွာအသုံးပြုသော၊ ပိုမိုမြန်ဆန်လာသော { -brand-name-firefox-browser }
 # HTML page description
 features-memory-is-your-computer-slow-your = သင့်ကွန်ပျူတာနှေးနေလား။သင်၏ဘရောင်ဇာသည်မှတ်ဉာဏ်သိပ်များလွန်းသည်။ ပိုမိုမြန်ဆန်ရန်အတွက်ယနေ့ { -brand-name-firefox } သို့ပြောင်းပါ။
 features-memory-less-memory-usage-than-chrome = { -brand-name-chrome } အောက် မှတ်ဉာဏ်သုံးစွဲမှု ပိုမိုနည်းပါးသည်

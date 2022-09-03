@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
 nightly-firstrun-firefox-nightly = { -brand-name-firefox-nightly } ပထမစာမျက်နှာ
-nightly-firstrun-thank-you-for-using = Firefox night အသုံးပြုခြင်းအတွက် ကျေးဇူးတင်ပါတယ်
+nightly-firstrun-thank-you-for-using = { -brand-name-firefox-nightly } အသုံးပြုခြင်းအတွက် ကျေးဇူးတင်ပါတယ်
 nightly-firstrun-choose-an-area = နေရာတိုင်းရှိအသုံးပြုသူများအတွက် { -brand-name-firefox } ပိုမိုကောင်းမွန်အောင်ကူညီရန်နယ်ပယ်တစ်ခုကိုရွေးချယ်ပါ
 nightly-firstrun-test = စမ်းပါ
 nightly-firstrun-start-testing = စမ်းသပ်ခြင်းစတင်ပါ
