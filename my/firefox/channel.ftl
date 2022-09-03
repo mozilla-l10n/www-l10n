@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -29,7 +29,7 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } မှ
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">အကြံပေးချက်များ</a> ပေးပို့ပြီး နောက်ဆုံး ပြင်ဆင်ချက်တွေကို ကောင်းမွန်အောင် လုပ်ဆောင်ရာတွင် ကူညီပါ။
 firefox-channel-check-out-new-android-features = { -brand-name-android } ရဲ့နောက်ဆုံးထွက်လုပ်ဆောင်ချက်များ အားအစောဆုံး စမ်းသပ်ကြည့်ပါ။ သင့် ပြသာနာအားသင် ကိုယ်တိုင်တာဝန်ယူရမည်။
-firefox-channel-nightly-blog = ညစဉ်ဘလော့ဂ်
+firefox-channel-nightly-blog = { -brand-name-nightly }ဘလော့ဂ်
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } သည် မတည်ငြိမ်သေးသော စမ်းသပ်ဆဲ၊ ဖန်တီးခြင်းဆိုင်ရာ ပလက်ဖောင်းတစ်ခု ဖြစ်သည်။ ပုံမှန်အားဖြင့် { -brand-name-nightly } သည် { -brand-name-mozilla } ထံသို့ — ထို့ပြင် တခါတရံ အကျိုးတူအဖွဲ့အစည်းများထံသို့ အချက်အလက် ပေးပို့ပါသည်။ ပြဿနာများကို ကိုင်တွယ်ဖြေရှင်းရန်နှင့် စိတ်ကူးများကို အကောင်အထည်ဖော် စမ်းသပ်ကြည့်ရန် ဖြစ်သည်။ <a href="{ $link }">ပေးပို့မည့်အချက်အလက်များကို လေ့လာရန်</a>။

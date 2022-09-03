@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = ယခုပင် ဆွဲယူပါ
 download-button-free-download = အခမဲ့ဒေါင်းလုဒ်
@@ -31,11 +31,11 @@ download-button-app-store = အပ်လ်စတိုးတွင် အခမ
 download-button-download-app-store = အက်ပ်စတိုး မှ ဆွဲချ ရယူရန်
 download-button-download-firefox = { -brand-name-firefox }ကို ဒေါင်းလုဒ်ရယူပါ
 download-button-your-system-may = သင့်စနစ်သည် မီးမြေခွေးကို အသုံးပြုရာတွင် လိုအပ်သောအချက်များနှင့် မကိုက်ညီပါ။ သို့သော် ဒီဗားရှင်းများထဲမှ တစ်ခုခုကို စမ်းသပ်အသုံးပြုနိုင်သည်။:
-download-button-firefox-beta-android = { -brand-name-android } အတွက် <span>မီးမြေခွေး စမ်းသပ်အဆင့်</span>
-download-button-firefox-aurora-android = { -brand-name-android } အတွက်<span>မီးမြေခွေး Aurora</span>
+download-button-firefox-beta-android = { -brand-name-android } အတွက် <span>{ -brand-name-firefox-beta }</span>
+download-button-firefox-aurora-android = { -brand-name-android } အတွက်<span>{ -brand-name-firefox-aurora }</span>
 download-button-firefox-nightly-android = { -brand-name-android } အတွက် <span>{ -brand-name-firefox-nightly }</span>
-download-button-firefox-android = { -brand-name-android } အတွက်<span>မီးမြေခွေး</span>
-download-button-firefox-ios = IOS အတွက်<span>မီးမြေခွေး</span>
-download-button-firefox-privacy = မီးမြေခွေး ကိုယ်ရေးလုံခြုံမှု
+download-button-firefox-android = { -brand-name-android } အတွက်<span>{ -brand-name-firefox }</span>
+download-button-firefox-ios = { -brand-name-ios } အတွက်<span>{ -brand-name-firefox }</span>
+download-button-firefox-privacy = { -brand-name-firefox } ကိုယ်ရေးလုံခြုံမှု
 download-button-firefox-privacy-notice = { -brand-name-firefox } ကိုယ်ရေးအချက်အလက်မူဝါဒ အသိပေးချက်
 download-button-download = ဒေါင်းလုဒ်ယူ

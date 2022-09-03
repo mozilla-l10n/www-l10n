@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -25,14 +25,14 @@ firefox-all-32-bit-installers = 32ဘစ် အင်စတော်လာမျ
 firefox-all-download-the-firefox = Firefoxဘရောက်ဇာကို အင်္ဂလိပ်(ယူအက်စ်)နှင့် အခြားဘာသာစကား၉၀ကျော်ဖြင့်ဒေါင်းလုပ်ချနိုင်သည်။
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = အင်တာနက်ကိုအသုံးပြုသူတိုင်းအတွက်သင့်ဘာသာစကားနှင့်ပတ်သက်၍အခက်အခဲမဖြစ်စေရန်ကမ္ဘာပေါ်ရှိလုပ်အားပေးများအကူအညီဖြင့်Firefox ဘရောက်ဇာကိုဘာသာစကား၉၀ဖြင့်ရရှိနိုင်အောင်ပြုလုပ်ထားပါသည်။
-firefox-all-choose-which-firefox = သင့်ဘာသာစကားဖြင့်ဆွဲချရန် Firefox ဘရောက်ဇာကို ရွေးပါ
+firefox-all-choose-which-firefox = သင် ၏ ဘာသာစကား ဖြင့် ဆွဲချရန် { -brand-name-firefox-browser } ကို ရွေးပါ
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } သီးသန့်လုံခြုံမှု သတိပေးချက်
 firefox-all-learn-about-firefox = { -brand-name-firefox }ဘရောက်ဇာများအကြောင်းလေ့လာပါ
 firefox-all-the-standard-firefox = အဆင့်မြင့်{ -brand-name-firefox } browserသည်လျင်မြန်ပြီးလုံခြုံမှုရှိသည်။မည်သည့်{ -brand-name-firefox }ကိုသုံးရမလဲတွေဝေနေလျှင်ဤအရာကိုရွေးပါ။
 firefox-all-get-a-sneak-peek-at = နောက်ဆုံးထွက်{ -brand-name-firefox }ဘရောက်ဇာလုပ်ဆောင်ချက်အချို့ကိုမထုတ်ခင် စမ်းသပ်သုံးရန်ရယူပါ။
-firefox-all-test-your-sites-against = စွမ်းအားကောင်းသော၊အဆင်ပြေသောDevTools လုပ်ဆောင်ချက်များကို မထုတ်ခင် သင့်ဆိုက်များကိုစမ်းသပ်ကြည့်ပါ။
+firefox-all-test-your-sites-against = သင်၏ မကြာခင် ဖြန့်ချီတော့မည့် ဆိုက်များ ကို စွမ်းဆောင်ရည် မြင့်မား ကာ ပြုပြင်ပြောင်းလဲ လွယ်သော DevTools များ အဆင်သင့် ပါဝင်ပြီးသား  ဖြစ်သော { -brand-name-firefox } ဖြင့် စမ်းသပ် ပါ။
 firefox-all-count-on-stability-and = စီးပွားရေးလုပ်ငန်းအတွက်ဒီ { -brand-name-firefox } browser ကိုအသုံးပြုခြင်းသည်တည်ငြိမ်မှုနှင့်လွယ်ကူမှုတို့အတွက်အားကိုးပါ။
-firefox-all-windows-installers-for = Firefox ၏ Browserကို configuration, ဖြန့်ကျက်ခြင်းနှင့်စီမံခန့်ခွဲမှုရိုးရှင်းကြောင်းကော်ပိုရိတ်အိုင်တီများအတွက် Windows Installers။
+firefox-all-windows-installers-for = ကော်ပိုရိတ် အိုင်တီ များအတွက် သော ပြုပြင်ပြင်ဆင်ခြင်း၊ ဖြန်ကျက်ခြင်း နှင့် စီမံခန့်ခွဲမှု တို့ အတွက် လွယ်ကူရိုးရှင်းသော { -brand-name-firefox-browser }  ဝင်းဒိုး တွင် ထည့်သွင်းစရာ။
 firefox-all-arm64-installers = ARM 64/AArch64 ထည့်သွင်းစရာများ
 firefox-all-arm64-installers-optimized = Snapdragon-စွမ်းအားဖြင့် { -brand-name-windows } ပီစီများ အတွက် သီးသန့်ပြင်ဆင်ထားသော ARM64 / AArch64 ထည့်သွင်းစရာများ။
 # Variables:
