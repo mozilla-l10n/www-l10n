@@ -10,7 +10,6 @@ legal-get-involved = ပါဝင်ဆောက်ရွက်မည်
 legal-protect-the-fox = မြေခွေးကို ကာကွယ်ပါ
 legal-takedown-requests = ဖျက်ပေးရန် တောင်းဆိုချက်များ
 legal-back-to-legal = ဥပဒေရေးရာ သို့
-legal-special-thanks-to-all-of-you = မိုဇီလာစီမံကိန်းအား ကူညီပြီး အမှတ်တံဆိပ်အလွဲသုံးစားလုပ်မှုကို သတင်ပေးပို့သူများ၊ ဖိုရမ်များတွင်ပါဝင်ခဲ့ကြသူများ နှင့် ဘာသာပြန်ပြီး ကူညီပေးသူများအား လုံးကို အထူးကျေးဇူးတင်ရှိပါတယ်
 legal-terms = စကားရပ်
 legal-our-websites = ကျွန်ုပ်တို့၏ ဝဘ်ဆိုက်များ
 legal-firefox-services = { -brand-name-firefox } ဝန်ဆောင်မှုများ
