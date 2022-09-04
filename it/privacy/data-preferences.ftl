@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
+data-preferences-current-preference = Preferenza attuale:
+data-preferences-if-you-change = Se cambi idea, puoi dare il consenso di nuovo qui:
