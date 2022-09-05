@@ -192,3 +192,4 @@ firefox-desktop-download-please-follow = 请按照<a href="{ $url }">这些步�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = 您的系统可能不符合 { -brand-name-firefox } 的运行需求，但您也可以试试<a href="{ $url }">这些版本</a>。
+firefox-desktop-download-taskbar = { -brand-name-firefox } 将在安装后固定至 { -brand-name-windows } 任务栏
