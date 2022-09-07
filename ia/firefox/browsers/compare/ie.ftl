@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
@@ -31,7 +31,7 @@ compare-ie-really-the-only-reasons-to-use = Realmente le sol rationes pro usar {
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 #   $products (string) - link to /firefox/products/ with additional attributes for analytics
-compare-ie-on-the-other-end-of-the-spectrum = Al altere extremo del spectro, { -brand-name-firefox } es un del navigatores plus frequentemente actualisate , e  es fornite con plure utile e interessante functionalitates como <a { $pocket }>{ -brand-name-pocket }</a>, que propone interessante contento cata vice que tu aperi un nove scheda. Nostre barra unificate de recerca e adresse web o <em>Barra Quantum</em> como nos lo appella, te da alsi suggestiones in base a tu marcapaginas, etiquettas, chronologia, schedas aperte e recercas frequente. E con un conto gratuite { -brand-name-firefox }, tu alsi pote acceder simplemente, per le credentiales, a tote tu parametros e <a { $productos }>altere nostre productos { -brand-name-firefox }</a>, sur ulle apparato. Al fin tu pote navigar tranquille, sapiente que tu navigator protege pro-activemente tu datos personal.
+compare-ie-on-the-other-end-of-the-spectrum = Al altere extremo del spectro, { -brand-name-firefox } es un del navigatores plus frequentemente actualisate , e  es fornite con plure utile e interessante functionalitates como <a { $pocket }>{ -brand-name-pocket }</a>, que propone interessante contento cata vice que tu aperi un nove scheda. Nostre barra unificate de recerca e adresse web o <em>Barra Quantum</em> como nos lo appella, te da alsi suggestiones in base a tu marcapaginas, etiquettas, chronologia, schedas aperte e recercas frequente. E con un conto gratuite { -brand-name-firefox }, tu alsi pote acceder simplemente, per le credentiales, a tote tu parametros e <a { $products }>altere nostre productos { -brand-name-firefox }</a>, sur ulle apparato. Al fin tu pote navigar tranquille, sapiente que tu navigator protege pro-activemente tu datos personal.
 # Variables:
 #   $pocket (string) - link to /firefox/pocket/ with additional attributes for analytics
 #   $products (string) - link to /firefox/products/ with additional attributes for analytics
