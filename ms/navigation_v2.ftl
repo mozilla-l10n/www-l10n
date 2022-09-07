@@ -88,4 +88,4 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Sumbang suara anda agar masa depan internet mampu berkhidmat untuk kita semua.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Ketahui lebih lanjut tentang bahasa baru yang, bertaraf rendah dan mudah terpasang.
-navigation-v2-more-mozilla-innovation = Lebih banyak inovasi { -brand-name-mozilla }
+
