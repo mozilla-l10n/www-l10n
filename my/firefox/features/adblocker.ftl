@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -53,7 +53,4 @@ features-adblocker-send-a-do-not-track-signal = လမ်းကြောင်�
 features-adblocker-if-you-dont-want-your = သင်အွန်လိုင်းပေါ်ကြော်ငြာများကို မကြည့်လိုလျှင် “ကျေးဇူးတင်ပါတယ်မပြပါနှင့်” ဟု ယဉ်ကျေးစွာဝက်ဆိုက်သို့ { -brand-name-firefox }ရဲ့<a href="{ $url }">ခြေရာခံခြင်းပိတ်ပါ</a>ရွေးချယ်မှုကိုရွေး၍ပို့နိုင်ပါသည်။ ဤသို့လုပ်ခြင်းသည် သင့်ကိုခြေရာခံမှုမှ ချက်ချင်းပင်ရပ်တန့်နိုင်သည်။
 features-adblocker-speed-up-thanks-to-ad = ကြော်ငြာတားမြစ်မှုကို အရှိန်မြင့်ပါ
 features-adblocker-in-some-cases-an-ad-blocker = အချို့ကိစ္စများတွင် ကြော်ငြာဖျောက်ဖျက်မှုခြင်းဖြင့် သင့်ဘရောက်ဇာကို လျင်မြန်စေနိုင်သည်။ ကြော်ငြာများတက်လာလျှင် သင်ကြည့်နေသောဆိုက်ကိုနှေးကွေးစေသည်။တစ်ချိန်တည်းမှာပဲ အခြားကြော်ငြာများကို မပိတ်မိလျှင် သင်၏ရှာဖွေမှုကို ကြန့်ကြာစေသည်။
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = သင့်ကြော်ငြာပိတ်ဆို့ခြင်းအကြောင်းများကို လေ့လာချင်လျှင် သင်ရရှိနိုင်သောကြော်ငြာပိတ်ဆို့တိုးချဲ့မှုများစွာရှိပါသည်။ သင့်စမ်းသပ်ကြည့်ချင်လျှင် <a href="{ $url }">ဤနေရာကိုနှိပ်၍ဆွဲချပြီး</a> ဘရောက်ဇာထဲကိုသွင်းပါ။
 features-adblocker-take-control-of-your-browser = သင့်ဘရောက်ဇာ၏ထိန်းချုပ်မှုကိုယူပါ။

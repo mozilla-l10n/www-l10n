@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -24,7 +24,7 @@ best-browser-there-are-a-few-ways = သုံးဆွဲသူတွေကိ�
 # Variables:
 # $data (url) - link to https://www.mozilla.org/privacy/firefox/
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-best-browser-the-second-is-not-storing = ဒုတိယ တစ်ချက်က သုံးဆွဲသူ အချက်အလက် သိမ်းမထားတာ။ မရှိတာကို ဟက်ကာတွေလာခိုးလို့မရပါဘူး။ ဒါကြောင့်မလို့ { -brand-name-firefox } ဟာအနည်းဆုံး သုံးဆွဲသူ အချက်အလက် ကိုသာသိမ်းဆည်းပါတယ်။ <a href="{ $data }"> { -brand-name-firefox } </a> သင်သုံးဆွဲနေတဲ့ နေရာ အကြမ်းဖျဉ်းကို သိတယ်<a href="{ $privacy }"> ဒါပေမယ့်သင့် အိမ်မွေးတိရိစ္ဆာန် နာမည် သို့ သင့် အကြိုက်ဆုံးကာလာ စတာတွေကို မသိမ်းပါဘူး
+best-browser-the-second-is-not-storing = ဒုတိယ တစ်ချက်က သုံးဆွဲသူ အချက်အလက် သိမ်းမထားတာ။ မရှိတာကို ဟက်ကာတွေလာခိုးလို့မရပါဘူး။ ဒါကြောင့်မလို့ { -brand-name-firefox } ဟာအနည်းဆုံး သုံးဆွဲသူ အချက်အလက် ကိုသာသိမ်းဆည်းပါတယ်။ <a href="{ $data }"> { -brand-name-firefox } </a> သင်သုံးဆွဲနေတဲ့ နေရာ အကြမ်းဖျဉ်းကို သိတယ်<a href="{ $privacy }"> ဒါပေမယ့်သင့် အိမ်မွေးတိရိစ္ဆာန် နာမည် သို့ သင့် အကြိုက်ဆုံးကာလာ စတာတွေကို မသိမ်းပါဘူး</a>
 best-browser-last-but-not-least = နောက်ဆုံးအနေနဲ့တော့အနည်းဆုံးတော့လုံခြုံစိတ်ချရသော browser တစ်ခုသည်သင့်အကောင့်များကိုကြည့်ရှုရန်အထောက်အကူပြုမည့်ကိရိယာများကိုကမ်းလှမ်းသင့်သည်။ သင်၏အကောင့်တစ်ခုခုဖောက်ဖျက်ခံရလျှင်သို့မဟုတ် ၀ က်ဘ်ဆိုက်တစ်ခုစာဝှက်ထားခြင်းရှိမရှိသင့်အားပြောပြသည့်အိုင်ကွန်များ (ဥပမာ၊ စျေးဝယ်သည့် site ပေါ်တွင်သင်၏အကြွေးနံပါတ်ကိုထည့်ရန်ကောင်းလျှင်) သင့်အီးမေးလ်သို့ချက်ချင်းသွားသောသတိပေးချက်များကိုစဉ်းစားပါ။
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
