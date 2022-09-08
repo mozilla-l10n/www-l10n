@@ -20,18 +20,29 @@ footer-monitor = { -brand-name-monitor }
 footer-send = { -brand-name-send }
 # Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
+footer-sign-in = පිවිසෙන්න
+footer-developers = සංවර්ධකයින්
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-mozilla = { -brand-name-mozilla }
+footer-company = සමාගම
 # Outdated string
-footer-about = පිළිබඳ
+footer-about = පිළිබඳව
 footer-press-center = මාධ්‍ය මධ්‍යස්ථානය
+footer-careers = රැකියා
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
-footer-websites-cookies = කුකී
+footer-tools = මෙවලම්
+footer-resources = සම්පත්
+footer-contact = සබඳතා
+footer-product-help = නිෂ්පාදන උදව්
+footer-support = සහාය
+footer-websites-cookies = දත්තකඩ
 footer-websites-legal = නීතිමය
 footer-language = භාෂාව
+footer-go = යන්න
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
