@@ -10,7 +10,7 @@ about-this-site-desc = Giới thiệu về trang web www.mozilla.org và các c�
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = Trang web www.mozilla.org đã hoạt động trực tuyến hơn hai thập kỷ. Đó là kể từ <a href="{ $archive }">thời khủng long<a href="{ $archive }"> trong những năm internet. Như vậy, www.mozilla.org là một góc của web, với nguồn gốc gắn liền với phong trào mã nguồn mở đã chứng kiến <a href="{ $coderush }">sự ra đời của { -brand-name-mozilla }</a>.
+about-this-site-this-website = Trang web www.mozilla.org đã hoạt động trực tuyến hơn hai thập kỷ. Đó là kể từ <a href="{ $archive }">thời khủng long</a> trong những năm internet. Như vậy, www.mozilla.org là một góc của web, với nguồn gốc gắn liền với phong trào mã nguồn mở đã chứng kiến <a href="{ $coderush }">sự ra đời của { -brand-name-mozilla }</a>.
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/

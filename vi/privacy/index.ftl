@@ -32,7 +32,7 @@ privacy-index-to-review-and-comment-on-proposed = Để xem xét và nhận xét
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Đọc thêm về chính sách công khai về quyền riêng tư và bảo mật đang diễn ra của chúng tôi trên <a href="{ $blog }">Chính sách mở và blog chính sách vận động của { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Chính sách đã lỗi thời
-privacy-index-mozilla-websites-communications = Trang web, truyền thông &amp; Cookie
+privacy-index-mozilla-websites-communications = { -brand-name-mozilla } trang web, truyền thông &amp; Cookie
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }

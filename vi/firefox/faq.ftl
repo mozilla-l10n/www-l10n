@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -70,7 +70,7 @@ does-firefox-have = { -brand-name-firefox } có VPN tích hợp sẵn không?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
+# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 firefox-does-not = { -brand-name-firefox } không có VPN tích hợp sẵn (mạng riêng ảo), nhưng có hai sản phẩm của { -brand-name-mozilla }/{ -brand-name-firefox } mà bạn có thể sử dụng ngoài { -brand-name-firefox-browser } riêng tư có thể bảo vệ trình duyệt của bạn (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) hoặc kết nối thiết bị (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) trên WiFi, cũng như địa chỉ IP của bạn.
 related-questions-ip = Câu hỏi liên quan: { -brand-name-firefox } có ẩn địa chỉ IP của bạn không
@@ -80,5 +80,5 @@ who-owns-firefox = Ai sở hữu { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
-firefox-is-made = { -brand-name-firefox } được thực hiện bởi { -brand-name-mozilla-corporation }, một công ty con thuộc sở hữu hoàn toàn của tổ chức phi lợi nhuận <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> và được hướng dẫn bởi các nguyên tắc của Tuyên ngôn { -brand-name-mozilla }. Tìm hiểu thêm về nhà sản xuất { -brand-name-firefox } <a href="{ $url2 }"tại đây.</a>
+firefox-is-made = { -brand-name-firefox } được thực hiện bởi { -brand-name-mozilla-corporation }, một công ty con thuộc sở hữu hoàn toàn của tổ chức phi lợi nhuận <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> và được hướng dẫn bởi các nguyên tắc của Tuyên ngôn { -brand-name-mozilla }. Tìm hiểu thêm về nhà sản xuất { -brand-name-firefox } <a href="{ $url2 }">tại đây.</a>
 related-questions-who = Câu hỏi liên quan: { -brand-name-firefox } thuộc sở hữu bởi ai, ai sở hữu { -brand-name-firefox-browser }, { -brand-name-firefox } thuộc sở hữu bởi{ -brand-name-google } hay không, { -brand-name-mozilla } { -brand-name-firefox } có phải do { -brand-name-google } sở hữu hay không
