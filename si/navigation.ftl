@@ -2,6 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-download-firefox = { -brand-name-firefox } බාගන්න
+navigation-menu = වට්ටෝරුව
+navigation-browsers = අතිරික්සු
+navigation-download = බාගන්න
+navigation-extensions = දිගු
+navigation-support = සහාය
+navigation-sign-up = ලියාපදිංචිය
+navigation-join = එක්වන්න
+navigation-sign-in = පිවිසෙන්න
+navigation-about = පිළිබඳව
+navigation-new-features = නව විශේෂාංග
+# Outdated string
+navigation-add-ons = එක්කහු
+navigation-projects = ව්‍යාපෘති
+navigation-developers = සංවර්ධකයින්
+navigation-resources = සම්පත්
 navigation-leadership = නායකත්වය
 navigation-mission = මෙහෙයුම
 navigation-contact = සබඳතා
