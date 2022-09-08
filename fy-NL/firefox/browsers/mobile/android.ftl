@@ -37,7 +37,7 @@ mobile-android-no-need-to = Jo hoege de app net te iepenjen. Foegje de sykwidget
 mobile-android-pin-videos-to = Set fideo’s fêst oan jo skerm
 mobile-android-pop-videos-out = Helje fideo’s út harren websites of spilers en meitsje se fêst oan de boppekant fan it skerm fan jo telefoan, sadat jo se besjen kinne wylst jo op ynternet sneupe en oare dingen dogge. Fermeitsje josels wylst jo multitaske.
 mobile-android-about-mozilla = Oer { -brand-name-mozilla }
-mobile-android-mozilla-exists-to = { -brand-name-mozilla } bestiet om it ynternet te bouwen as in iepenbiere boarne dy’t foar elkenien tagonklik is, omdat wy leauwen dat iepen en fergees better is as sluten en kontrolearre. Wy bouwe produkten as { -brand-name-firefox } en { -brand-name-pocket } om kar, transparânsje en oanstjoering te befoarderjen.
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } bestiet om it ynternet te bouwen as in iepenbiere boarne dy’t foar elkenien tagonklik is, omdat wy leauwe dat iepen en fergees better is as sluten en kontrolearre. Wy bouwe produkten as { -brand-name-firefox } en { -brand-name-pocket } om kar, transparânsje en oanstjoeren te befoarderjen.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Nim de sneldyk op it ynternet mei { -brand-name-firefox } foar { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Besjoch jo iepen ljepblêden, resinte sykopdrachten en favorite websites op ien plak mei de { -brand-name-firefox }-browser foar { -brand-name-android }.
