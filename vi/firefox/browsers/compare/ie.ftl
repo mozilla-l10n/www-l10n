@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
@@ -31,7 +31,7 @@ compare-ie-really-the-only-reasons-to-use = Thực sự lý do duy nhất để 
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 #   $products (string) - link to /firefox/products/ with additional attributes for analytics
-compare-ie-on-the-other-end-of-the-spectrum = Mặt khác, { -brand-name-firefox } là một trong những trình duyệt được cập nhật thường xuyên nhất và được tích hợp rất nhiều tính năng hữu ích và thú vị, như <a { $pocket }>{ -brand-name-pocket }</a> gợi ý nội dung thú vị mỗi khi bạn mở một thẻ mới. Thanh tìm kiếm và địa chỉ web hợp nhất của chúng tôi, cũng cung cấp cho bạn các đề xuất dựa trên dấu trang và thẻ hiện có, lịch sử, thẻ đang mở và tìm kiếm phổ biến. Và với tài khoản { -brand-name-firefox } miễn phí, bạn cũng có quyền truy cập vào tất cả các cài đặt của mình và <a { $products }>các sản phẩm { -brand-name-firefox } khác của chúng tôi</a> trên bất kỳ thiết bị nào chỉ bằng cách đăng nhập. Cộng với sự an tâm khi biết trình duyệt của bạn là chủ động làm việc để bảo vệ dữ liệu cá nhân của bạn.
+compare-ie-on-the-other-end-of-the-spectrum = Mặt khác, { -brand-name-firefox } là một trong những trình duyệt được cập nhật thường xuyên nhất và được tích hợp rất nhiều tính năng hữu ích và thú vị, như <a { $pocket }>{ -brand-name-pocket }</a> gợi ý nội dung thú vị mỗi khi bạn mở một thẻ mới. Thanh tìm kiếm và địa chỉ web hợp nhất của chúng tôi, hoặc <em>Quantum kiếm</em>, cũng cung cấp cho bạn các đề xuất dựa trên dấu trang và thẻ hiện có, lịch sử, thẻ đang mở và tìm kiếm phổ biến. Và với tài khoản { -brand-name-firefox } miễn phí, bạn cũng có quyền truy cập vào tất cả các cài đặt của mình và <a { $products }>các sản phẩm { -brand-name-firefox } khác của chúng tôi</a> trên bất kỳ thiết bị nào chỉ bằng cách đăng nhập. Cộng với sự an tâm khi biết trình duyệt của bạn là chủ động làm việc để bảo vệ dữ liệu cá nhân của bạn.
 # Variables:
 #   $pocket (string) - link to /firefox/pocket/ with additional attributes for analytics
 #   $products (string) - link to /firefox/products/ with additional attributes for analytics
