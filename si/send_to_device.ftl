@@ -2,8 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-send-to-device-send-firefox = { -brand-name-firefox } ඔබගේ ස්මාර්ට් දුරකතනයට හෝ ටැබයට යවන්න
-send-to-device-your-download-link = ඔබගේ බාගත කිරීමේ සබැඳිය යවන ලදි.
+send-to-device-your-download-link = ඔබගේ බාගැනීමේ සබැඳිය යැවිණි.
 send-to-device-please-enter-an-email = කරුණාකර ඊමේල් ලිපිනයක් ඇතුළත් කරන්න.
 send-to-device-an-error-occured = අපගේ පද්ධතියේ දෝෂයක් ඇති විය. කරුණාකර පසුව නැවත උත්සහ කරන්න.
 send-to-device-enter-your-email = ඔබගේ විද්‍යුත් තැපැල් ලිපිනය අතුලත් කරන්න

@@ -1,10 +1,16 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-leadership = නායකත්වය
+navigation-mission = මෙහෙයුම
+navigation-contact = සබඳතා
+navigation-careers = රැකියා
+navigation-events = සිදුවීම්
+navigation-donate = පරිත්‍යාග
 navigation-release-notes = නිකුතු සටහන්
 navigation-features = විශේෂාංග
-navigation-products = නිපැයුම්
+navigation-products = නිෂ්පාදන
 navigation-mozilla = { -brand-name-mozilla }
 navigation-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-mozilla-corporation = { -brand-name-mozilla-corporation }
