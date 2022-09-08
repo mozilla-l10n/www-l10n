@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/what-is-a-browser/
@@ -31,7 +31,7 @@ what-is-a-browser-cookies-not-the = Kakor (inte de man kan äta)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
 what-is-a-browser-websites-save = Webbplatser sparar information om dig i filer som kallas <a href="{ $cookies }">kakor</a>. De sparas på din dator till nästa gång du besöker den här webbplatsen. När du kommer tillbaka kommer webbplatsens kod att läsa filen för att se att det är du. När du till exempel går till en webbplats kommer sidan ihåg ditt användarnamn och lösenord – det är möjligt med en kaka.
-what-is-a-browser-there-are-also = Det finns också kakor som kommer ihåg mer detaljerad information om dig. Kanske dina intressen, dina webbläsarmönster etc. Detta innebär att en webbplats kan ge dig mer riktat innehåll – ofta i form av annonser. Det finns typer av kakor, som kallas <em>tredjepartskakor, som kommer från webbplatser som du inte ens besöker för tillfället och kan spåra dig från webbplats till webbplats för att samla information om dig, som ibland säljs till andra företag. Ibland kan du blockera den här typen av kakor, men inte alla webbläsare tillåter dig göra det.
+what-is-a-browser-there-are-also = Det finns också kakor som kommer ihåg mer detaljerad information om dig. Kanske dina intressen, dina webbläsarmönster etc. Detta innebär att en webbplats kan ge dig mer riktat innehåll – ofta i form av annonser. Det finns typer av kakor, som kallas <em>tredjeparts</em> kakor, som kommer från webbplatser som du inte ens besöker för tillfället och kan spåra dig från webbplats till webbplats för att samla information om dig, som ibland säljs till andra företag. Ibland kan du blockera den här typen av kakor, men inte alla webbläsare tillåter dig göra det.
 what-is-a-browser-when-you-go-to = När du går till en webbplats och sidan kommer ihåg ditt användarnamn och lösenord – det möjliggörs av en kaka.
 what-is-a-browser-understanding = Kunskap om nätintegritet
 what-is-a-browser-nearly-all-major = Nästan alla större webbläsare har en privat surfinställning. Dessa finns för att dölja webbhistoriken från andra användare på samma dator. Många tror att privat surfning eller inkognitoläge döljer både deras identitet och webbhistorik från internetleverantörer, myndigheter och annonsörer. Det gör de inte. Dessa inställningar rensar bara historiken på ditt system, vilket är användbart om du har att göra med känslig personlig information på en delad eller offentlig dator. { -brand-name-firefox } gör mer än det.
