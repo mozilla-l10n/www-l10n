@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-body-extra = ඔබට අද පරිත්‍යාග කළ හැකිද?
 banner-fundraising-monthly = මාසිකව
 banner-fundraising-one-time = එක් වරක්
 banner-fundraising-donate = පරිත්‍යාග
