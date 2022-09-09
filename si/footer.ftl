@@ -4,6 +4,7 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-privacy = පෞද්ගලිකත්‍වය
+footer-brand-standards = සන්නම ප්‍රමිති
 footer-browsers = අතිරික්සුව
 # Outdated string
 footer-desktop = වැඩතල
@@ -13,6 +14,8 @@ footer-mobile = ජංගම
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
 # Outdated string
+footer-products = නිෂ්පාදන
+# Outdated string
 footer-lockwise = { -brand-name-lockwise }
 # Outdated string
 footer-monitor = { -brand-name-monitor }
@@ -20,6 +23,10 @@ footer-monitor = { -brand-name-monitor }
 footer-send = { -brand-name-send }
 # Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
+footer-join = එක්වන්න
+# Outdated string
+footer-sign-up = ලියාපදිංචිය
 # Outdated string
 footer-sign-in = පිවිසෙන්න
 footer-developers = සංවර්ධකයින්
