@@ -8,6 +8,12 @@
 firefox-browsers-desktop = වැඩතලය
 firefox-browsers-download-for-desktop = වැඩතලය සඳහා බාගන්න
 firefox-browsers-mobile = ජංගම
+firefox-browsers-download-for-mobile = දුරකථනය සඳහා බාගන්න
+firefox-browsers-send-me-a-link = මට සබැඳියක් එවන්න
+firefox-browsers-enterprise = { -brand-name-enterprise }
+firefox-browsers-enterprise-packages = { -brand-name-enterprise } ඇසුරුම්
+firefox-browsers-reality = { -brand-name-reality }
+firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } ගැන තව දැනගන්න
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
