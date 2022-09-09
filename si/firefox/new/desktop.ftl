@@ -19,6 +19,15 @@ firefox-desktop-download-themes = තේමා
 firefox-desktop-download-dark-mode = අඳුරු ප්‍රකාරය
 firefox-desktop-download-library-of-extensions = දිගු පුස්තකාලය
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-screenshots = තිර සේයා
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = දියුණු කළ ලුහුබැඳීමේ රැකවරණය (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
+firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
