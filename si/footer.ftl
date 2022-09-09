@@ -39,6 +39,8 @@ footer-developers = සංවර්ධකයින්
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
+footer-nightly-for-android = { -brand-name-android } සඳහා { -brand-name-nightly }
+footer-beta-for-android = { -brand-name-android } සඳහා { -brand-name-beta }
 footer-mozilla = { -brand-name-mozilla }
 footer-company = සමාගම
 # Outdated string
@@ -55,6 +57,7 @@ footer-contact = සබඳතා
 footer-product-help = නිෂ්පාදන උදව්
 footer-support = සහාය
 footer-file-a-bug = දෝෂ වාර්තාව
+footer-community-participation-guidelines = ප්‍රජාවට සහභාගී වීමේ මාර්ගෝපදේශ
 footer-websites-privacy-notice = අඩවියෙහි රහස්‍යතා දැන්වීම
 footer-websites-cookies = දත්තකඩ
 footer-websites-legal = නීතිමය
