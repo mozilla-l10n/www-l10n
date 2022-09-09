@@ -13,6 +13,7 @@ firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = ඔව්
 firefox-desktop-download-no = නැහැ
+firefox-desktop-download-review-system-req = පද්ධති අවශ්‍යතා සමාලෝචනය
 firefox-desktop-download-clear-history = ඉතිහාසය මකන්න
 firefox-desktop-download-automatic-updates = ස්වයංක්‍රීය යාවත්කාල
 firefox-desktop-download-themes = තේමා

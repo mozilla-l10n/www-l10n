@@ -18,6 +18,7 @@ navigation-v2-firefox-for-android = { -brand-name-android } සඳහා { -bran
 navigation-v2-firefox-for-ios = { -brand-name-ios } සඳහා { -brand-name-firefox }
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-release-notes = නිකුතු සටහන්
+navigation-v2-view-all-firefox-browsers = සියළුම { -brand-name-firefox-browsers } බලන්න
 
 ## Products menu
 
@@ -44,8 +45,11 @@ navigation-v2-more-about-mozilla = { -brand-name-mozilla } ගැන වැඩ�
 
 ## Innovation menu
 
+navigation-v2-innovation = නවෝත්පාදනය
+navigation-v2-close-innovation-menu = නවෝත්පාදන වට්ටෝරුව වසන්න
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = සංවර්ධකයින් සඳහා තනන ලද { -brand-name-firefox } අතිරික්සුව ගන්න.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }

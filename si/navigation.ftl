@@ -36,6 +36,7 @@ navigation-new-features = නව විශේෂාංග
 navigation-add-ons = එක්කහු
 navigation-projects = ව්‍යාපෘති
 navigation-developers = සංවර්ධකයින්
+navigation-developer-innovations = සංවර්ධක නවෝත්පාදන
 navigation-mixed-reality = මිශ්‍ර යථාර්ථය
 navigation-resources = සම්පත්
 navigation-leadership = නායකත්වය

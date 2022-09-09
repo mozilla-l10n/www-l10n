@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.allizom.org/firefox/welcome/8/
 
-firefox-enterprise-overview = විශ්ලේෂණය
-firefox-enterprise-macos = { -brand-name-mac }
+welcome-page8-view-your-protection-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
