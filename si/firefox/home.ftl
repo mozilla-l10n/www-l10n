@@ -7,6 +7,7 @@
 
 firefox-home-the-browser-is-just = අතිරික්සුව යනු ආරම්භයක් පමණි
 firefox-home-meet-our-family-of = අපගේ නිෂ්පාදන පවුල හමුවන්න
+firefox-home-get-trackers-off = ඔබගේ මාර්ගයෙන් ලුහුබැඳීම් 2,000+ ඉවත් කර ගන්න — { -brand-name-facebook } ඇතුළුව
 firefox-home-try-relay = { -brand-name-relay } බලන්න
 # Obsolete string
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } ගැන තව දැනගන්න
