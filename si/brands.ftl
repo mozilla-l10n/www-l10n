@@ -11,11 +11,11 @@
 
 -brand-name-amazon = ඇමසන්
 -brand-name-apple = ඇපල්
--brand-name-creative-commons = Creative Commons
+-brand-name-creative-commons = ක්‍රියේටිව් කොමන්ස්
 -brand-name-facebook = ෆේස්බුක්
--brand-name-github = GitHub
+-brand-name-github = ගිට්හබ්
 -brand-name-google = ගූගල්
--brand-name-microsoft = Microsoft
+-brand-name-microsoft = මයික්‍රොසොෆ්ට්
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
@@ -135,6 +135,6 @@
 
 ## Google products
 
--brand-name-chromium = Chromium
+-brand-name-chromium = ක්‍රෝමියම්
 -brand-name-google-play = ගූගල් ප්ලේ
 -brand-name-youtube = යූටියුබ්
