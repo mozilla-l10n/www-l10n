@@ -7,3 +7,9 @@
 
 browsers-mobile-firefox-for-android = { -brand-name-android } සඳහා { -brand-name-firefox }
 browsers-mobile-firefox-for-ios = { -brand-name-ios } සඳහා { -brand-name-firefox }
+browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-compare-mobile-browsers = ජංගම අතිරික්සු සංසන්දනය
+browsers-mobile-compare = සසඳන්න
+browsers-mobile-download = බාගන්න
+browsers-mobile-android = { -brand-name-android }
+browsers-mobile-ios = { -brand-name-ios }

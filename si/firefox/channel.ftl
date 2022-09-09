@@ -15,6 +15,7 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } මග
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } මගින් { -brand-name-mozilla } වෙත ස්වයංක්‍රීයව ප්‍රතිපෝෂණ යවයි.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = නිකුතු සටහන්
+firefox-channel-previous-nightly-builds = පසුගිය { -brand-name-nightly } තැනීම්
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } මගින් { -brand-name-mozilla } වෙත ස්වයංක්‍රීයව ප්‍රතිපෝෂණ යවයි.
 firefox-channel-nightly = { -brand-name-nightly }
