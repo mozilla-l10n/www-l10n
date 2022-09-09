@@ -33,6 +33,8 @@ footer-join = එක්වන්න
 footer-sign-up = ලියාපදිංචිය
 # Outdated string
 footer-sign-in = පිවිසෙන්න
+# Outdated string
+footer-benefits = ප්‍රතිලාභ
 footer-developers = සංවර්ධකයින්
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -44,6 +46,8 @@ footer-about = පිළිබඳව
 footer-press-center = මාධ්‍ය මධ්‍යස්ථානය
 footer-careers = රැකියා
 # Outdated string
+footer-test-new-features = නව විශේෂාංග බලන්න
+# Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = මෙවලම්
 footer-resources = සම්පත්
@@ -54,6 +58,7 @@ footer-websites-cookies = දත්තකඩ
 footer-websites-legal = නීතිමය
 footer-language = භාෂාව
 footer-go = යන්න
+footer-donate = පරිත්‍යාග
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
