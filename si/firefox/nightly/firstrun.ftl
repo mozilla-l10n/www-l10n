@@ -7,6 +7,7 @@
 
 nightly-firstrun-firefox-nightly = { -brand-name-firefox-nightly } පළමු ධාවන පිටුව
 nightly-firstrun-thank-you-for-using = { -brand-name-firefox-nightly } තෝරා ගැනීමට තුති!
+nightly-firstrun-choose-an-area = සම්බන්ධ වීමට උචිත ක්‍ෂේත්‍රයක් පහතින් තෝරා ගෙන සැමටම { -brand-name-firefox } වඩාත් හොඳින් භාවිතා කිරීමට උපකාර කරන්න
 nightly-firstrun-test = පරීක්‍ෂාව
 nightly-firstrun-find-and-file-bugs = දෝෂ සොයා ගන්න සහ වාර්තා කරන්න. සියල්ල සාමාන්‍ය පරිදි තිබේදැයි බලන්න.
 nightly-firstrun-start-testing = පරීක්‍ෂාව අරඹන්න

@@ -7,6 +7,7 @@ footer-mozilla-manifesto = { -brand-name-mozilla } ප්‍රකාශනය
 footer-privacy-hub = රහස්‍යතා මධ්‍යස්ථානය
 footer-privacy = පෞද්ගලිකත්‍වය
 footer-press = මාධ්‍ය
+footer-corporate-blog = සංස්ථානික සටහන්පත
 footer-browser-comparison = අතිරික්සු සංසන්දනය
 footer-brand-standards = සන්නම ප්‍රමිති
 footer-browsers = අතිරික්සුව
@@ -41,6 +42,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } සඳහා { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } සඳහා { -brand-name-beta }
+footer-visit-mozilla-corporations = ලාභ නොලබන <a { $moco_link }>{ -brand-name-mozilla-corporation } හි</a> අඩවිය, <a { $mofo_link }>{ -brand-name-mozilla-foundation } වෙත ගොඩවදින්න</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = සමාගම
 # Outdated string
