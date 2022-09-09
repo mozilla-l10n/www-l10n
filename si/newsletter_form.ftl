@@ -5,7 +5,10 @@
 newsletter-form-please-enter-a-valid = වලංගු වි-තැපැල් ලිපිනයක් යොදන්න.
 newsletter-form-you-must-agree-to = රහස්‍යතා දැන්වීමට ඔබ එකඟ විය යුතුය
 newsletter-form-your-email-address = ඔබගේ වි-තැපැල් ලිපිනය
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = ඔබගේනම@example.com
 newsletter-form-select-country-or-region = රට හෝ කලාපය තෝරන්න
+newsletter-form-select-language = භාෂාව තෝරන්න
 newsletter-form-your-email-here = ඔබගේ වි-තැපෑල මෙතැන
 newsletter-form-format = ආකෘතිය
 newsletter-form-html = HTML
@@ -17,3 +20,8 @@ newsletter-form-select-country = රට තෝරන්න
 newsletter-form-sign-me-up = එක්කර ගන්න
 newsletter-form-sign-up-now = ලියාපදිංචි වන්න
 newsletter-form-thanks = ස්තුතියි!
+newsletter-form-leave-this-field-empty = මෙම ක්‍ෂේත්‍රය හිස්ව තබන්න.
+newsletter-form-yes = ඔව්
+newsletter-form-no = නැහැ
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
