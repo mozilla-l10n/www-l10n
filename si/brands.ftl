@@ -73,6 +73,7 @@
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-sync = Sync
+-brand-name-fpn = FPN
 
 ## Firefox products (legacy)
 
