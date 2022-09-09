@@ -10,3 +10,5 @@ mobile-compare-features-strong = <strong>විශේෂාංග</strong>
 mobile-compare-features = විශේෂාංග
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>සමමුහූර්තය</strong>
+mobile-compare-scan-the-qr-code-to-get-started = පටන් ගැනීමට QR කේතය සුපිරික්සන්න
+mobile-compare-scan-alt-text = ඔබගේ ජංගම උපාංගයට { -brand-name-firefox } ගැනීමට QR කේතය සුපිරික්සන්න

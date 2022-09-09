@@ -7,4 +7,4 @@
 
 home-mr2-promo-title = වේගයෙන් – හොඳ අදහස් වෙත ආපසු යන්න
 # CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
-home-mr2-promo-cta = නව { -brand-name-firefox } ගන්න
+home-mr2-promo-cta = අළුත් { -brand-name-firefox } ගන්න
