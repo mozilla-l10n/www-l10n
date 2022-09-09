@@ -17,6 +17,7 @@ navigation-v2-firefox-for-desktop = වැඩතලය සඳහා { -brand-nam
 navigation-v2-firefox-for-android = { -brand-name-android } සඳහා { -brand-name-firefox }
 navigation-v2-firefox-for-ios = { -brand-name-ios } සඳහා { -brand-name-firefox }
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-privacy-promise = රහස්‍යතා පොරොන්දුව
 navigation-v2-release-notes = නිකුතු සටහන්
 navigation-v2-view-all-firefox-browsers = සියළුම { -brand-name-firefox-browsers } බලන්න
 

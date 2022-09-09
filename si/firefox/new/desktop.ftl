@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = වැදගත් දෑ ආරක්‍ෂා කරන අතිරික්සුව ගන්න
 firefox-desktop-download-download-options = බාගැනීමේ විකල්ප සහ වෙනත් භාෂා
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } සහාය
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }

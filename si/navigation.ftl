@@ -5,6 +5,7 @@
 navigation-download-firefox = { -brand-name-firefox } බාගන්න
 navigation-get-a-firefox-account = { -brand-name-firefox-account } ක් ගන්න
 navigation-firefox-browser-for-desktop = වැඩතලය සඳහා { -brand-name-firefox-browser }
+navigation-get-the-browser-that-respects = { -brand-name-windows }, { -brand-name-mac } හෝ { -brand-name-linux } සඳහා ඔබගේ පෞද්ගලිකත්‍වයට ස්වයංක්‍රීයව ගරු කරන අතිරික්සුව ගන්න.
 navigation-firefox-browser-for-mobile = දුරකථනය සඳහා { -brand-name-firefox-browser }
 navigation-download-for-ios = { -brand-name-ios } සඳහා බාගන්න
 navigation-download-for-android = { -brand-name-android } සඳහා බාගන්න
@@ -15,6 +16,7 @@ navigation-firefox-for-fire-tv = { -brand-name-fire-tv } සඳහා { -brand-n
 navigation-join-firefox = { -brand-name-firefox } වෙත එක්වන්න
 navigation-mozilla-careers = { -brand-name-mozilla } රැකියා
 navigation-close-firefox-menu = { -brand-name-firefox } වට්ටෝරුව වසන්න
+navigation-get-the-browser-that-gives = { -brand-name-windows }, { -brand-name-mac } හෝ { -brand-name-linux } හි ඔබට වැඩි බලයක් ලබා දෙන අතිරික්සුව ගන්න.
 navigation-get-firefox = { -brand-name-firefox } ගන්න
 navigation-get-firefox-focus = { -brand-name-firefox-focus } ගන්න
 navigation-android-extensions = { -brand-name-android } දිගු

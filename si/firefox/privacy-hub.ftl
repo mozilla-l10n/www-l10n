@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } රහස්‍යතා පොරොන්දුව
 # Sub navigation title
 firefox-privacy-privacy = රහස්‍යතාව
 # Sub navigation link
