@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/mission/
 
-mission-were-building-a-better-internet = අප වඩා උසස් අන්තර්ජාලයක් තනන්නෙමු
 mission-get-involved = සහභාගී වෙන්න
 mission-history = ඉතිහාසය
 mission-forums = සංසද
+mission-governance = පාලනය
