@@ -20,6 +20,8 @@ firefox-desktop-download-automatic-updates = ස්වයංක්‍රීය �
 firefox-desktop-download-themes = තේමා
 firefox-desktop-download-dark-mode = අඳුරු ප්‍රකාරය
 firefox-desktop-download-library-of-extensions = දිගු පුස්තකාලය
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = ඔබගේ ප්‍රියතම { -brand-name-google } මෙවලම් (ජීමේල් සහ ඩොක්ස් වැනි) සියල්ල { -brand-name-firefox-browser } හි හොඳින් වැඩ කරයි.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-screenshots = තිර සේයා
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -34,3 +36,7 @@ firefox-desktop-download-learn-about-the = { -brand-name-firefox } වැඩත�
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = ඔබගේ බාගැනීම ස්වයංක්‍රීයව ආරම්භ විය යුතුය. නැද්ද? <a id="{ $id }" href="{ $fallback_url }">යළි උත්සාහ කරන්න.</a>

@@ -20,6 +20,10 @@ firefox-new-need-help = උදව් වුවමනා ද?
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-firefox-new-should-begin = ඔබගේ බාගැනීම ස්වයංක්‍රීයව ආරම්භ විය යුතුය. නැද්ද? <a id="{ $id }" href="{ $fallback_url }">යළි උත්සාහ කරන්න.</a>
 firefox-new-windows = { -brand-name-windows }
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
