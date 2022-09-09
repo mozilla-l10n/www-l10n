@@ -19,7 +19,7 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-twitter = Twitter
+-brand-name-twitter = ට්විටර්
 
 ## Firefox browsers
 
@@ -37,9 +37,9 @@
 
 ## Firefox browsers (short names)
 
--brand-name-beta = Beta
--brand-name-developer-edition = Developer Edition
--brand-name-enterprise = Enterprise
+-brand-name-beta = බීටා
+-brand-name-developer-edition = සංවර්ධක සංස්කරණය
+-brand-name-enterprise = ව්‍යවසාය
 -brand-name-esr = ESR
 -brand-name-focus = Focus
 -brand-name-lite = Lite
@@ -88,7 +88,7 @@
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = Common Voice
--brand-name-hubs = Hubs
+-brand-name-hubs = හබ්ස්
 -brand-name-mdn = MDN
 
 ## Mozilla projects (legacy)
@@ -96,34 +96,34 @@
 
 ## Open Source projects
 
--brand-name-rust = Rust
+-brand-name-rust = රස්ට්
 # Outdated string
--brand-name-web-assembly = Web Assembly
+-brand-name-web-assembly = වෙබ් ඇසෙම්බ්ලි
 
 ## Other browsers
 
--brand-name-brave = Brave
--brand-name-chrome = Chrome
--brand-name-edge = Edge
--brand-name-ie = Internet Explorer
--brand-name-opera = Opera
--brand-name-safari = Safari
+-brand-name-brave = බ්‍රේව්
+-brand-name-chrome = ක්‍රෝම්
+-brand-name-edge = එඩ්ගේ
+-brand-name-ie = ඉන්ටර්නෙට් එක්ස්ප්ලෝරර්
+-brand-name-opera = ඔපෙරා
+-brand-name-safari = සෆාරි
 
 ## Platforms
 
--brand-name-android = Android
--brand-name-ios = iOS
--brand-name-linux = Linux
--brand-name-mac = macOS
--brand-name-vista = Vista
--brand-name-windows = Windows
+-brand-name-android = ඇන්ඩ්‍රොයිඩ්
+-brand-name-ios = අයිඕඑස්
+-brand-name-linux = ලිනක්ස්
+-brand-name-mac = මැක්ඕඑස්
+-brand-name-vista = විස්ටා
+-brand-name-windows = වින්ඩෝස්
 -brand-name-xp = XP
 
 ## Apple products
 
--brand-name-app-store = App Store
--brand-name-ipad = iPad
--brand-name-iphone = iPhone
+-brand-name-app-store = ඇප් ස්ටෝර්
+-brand-name-ipad = අයිපෑඩ්
+-brand-name-iphone = අයිපෝන්
 
 ## Amazon products
 
