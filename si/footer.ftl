@@ -3,7 +3,11 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = { -brand-name-mozilla } ප්‍රකාශනය
+footer-privacy-hub = රහස්‍යතා මධ්‍යස්ථානය
 footer-privacy = පෞද්ගලිකත්‍වය
+footer-press = මාධ්‍ය
+footer-browser-comparison = අතිරික්සු සංසන්දනය
 footer-brand-standards = සන්නම ප්‍රමිති
 footer-browsers = අතිරික්සුව
 # Outdated string
@@ -53,3 +57,7 @@ footer-go = යන්න
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-linkedin = { -brand-name-linkedin }
+footer-tiktok = { -brand-name-tiktok }
+footer-spotify = { -brand-name-spotify }
+footer-about-this-site = මෙම අඩවිය ගැන
