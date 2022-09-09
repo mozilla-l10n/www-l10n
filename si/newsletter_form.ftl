@@ -23,5 +23,6 @@ newsletter-form-thanks = ස්තුතියි!
 newsletter-form-leave-this-field-empty = මෙම ක්‍ෂේත්‍රය හිස්ව තබන්න.
 newsletter-form-yes = ඔව්
 newsletter-form-no = නැහැ
+multi-newsletter-form-checkboxes-legend = මට අවශ්‍ය තොරතුරු වන්නේ:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

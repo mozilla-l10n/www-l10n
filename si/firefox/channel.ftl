@@ -12,6 +12,7 @@ firefox-channel-see-something-that-isnt-working = ක්‍රියා නො�
 firefox-channel-all-languages-and-platforms = සියළුම භාෂා හා වේදිකා
 firefox-channel-all-languages-and-builds = සියළුම භාෂා සහ තැනීම්
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } මගින් { -brand-name-mozilla } වෙත ස්වයංක්‍රීයව ප්‍රතිපෝෂණ යවයි.
+firefox-channel-nightly-blog = { -brand-name-nightly } සටහන්පත
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } මගින් { -brand-name-mozilla } වෙත ස්වයංක්‍රීයව ප්‍රතිපෝෂණ යවයි.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = නිකුතු සටහන්

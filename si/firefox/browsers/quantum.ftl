@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = { -brand-name-firefox-quantum } බාගන්න
+# https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
+learn-more-about = { -brand-name-firefox-quantum } ගැන තව දැනගන්න

@@ -27,6 +27,7 @@ firefox-desktop-download-enhanced-tracking-protection = දියුණු ක�
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
+firefox-desktop-download-learn-about-the = { -brand-name-firefox } වැඩතල අතිරික්සුව ගැන පහතින් දැන ගන්න
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 

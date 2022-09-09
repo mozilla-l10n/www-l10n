@@ -19,6 +19,8 @@ navigation-v2-get-the-customizable-mobile = { -brand-name-android } දුරක
 navigation-v2-firefox-for-ios = { -brand-name-ios } සඳහා { -brand-name-firefox }
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-privacy-promise = රහස්‍යතා පොරොන්දුව
+navigation-v2-firefox-blog = { -brand-name-firefox } සටහන්පත
+navigation-v2-read-about-new-firefox-features = නව { -brand-name-firefox } විශේෂාංග සහ මාර්ගගත ආරක්‍ෂාව ආශ්‍රිත ක්‍රම ගැන කියවන්න.
 navigation-v2-release-notes = නිකුතු සටහන්
 navigation-v2-view-all-firefox-browsers = සියළුම { -brand-name-firefox-browsers } බලන්න
 
