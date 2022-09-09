@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-the-browser-is-just = අතිරික්සුව යනු ආරම්භයක් පමණි
 firefox-home-meet-our-family-of = අපගේ නිෂ්පාදන පවුල හමුවන්න
 firefox-home-try-relay = { -brand-name-relay } බලන්න
 # Obsolete string

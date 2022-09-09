@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-check-the-system-requirements = පද්ධති අවශ්‍යතා පරීක්‍ෂා කරන්න
 firefox-all-release-notes = නිකුතු සටහන්
 firefox-all-source-code = ප්‍රභව කේතය
 firefox-all-need-help = උදව් වුවමනා ද?
@@ -19,6 +20,9 @@ firefox-all-lang-multi = බහු භාෂා
 firefox-all-64-bit-installers = බිටු-64 ස්ථාපක
 firefox-all-32-bit-installers = බිටු-32 ස්ථාපක
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } රහස්‍යතා දැන්වීම
+firefox-all-learn-about-firefox = { -brand-name-firefox } අතිරික්සු ගැන දැන ගන්න
+firefox-all-arm64-installers = ARM64/AArch64 ස්ථාපක
+firefox-all-product-send-link = දුරකථනයට බාගැනීමේ සබැඳියක් යවන්න.
 firefox-all-msi-installers = MSI ස්ථාපක
 firefox-all-select-your-preferred-installer = ඔබ කැමති ස්ථාපකය තෝරන්න
 firefox-all-select-your-preferred-language = ඔබ කැමති භාෂාව තෝරන්න
