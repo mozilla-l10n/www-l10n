@@ -8,11 +8,14 @@
 firefox-all-release-notes = නිකුතු සටහන්
 firefox-all-source-code = ප්‍රභව කේතය
 firefox-all-need-help = උදව් වුවමනා ද?
+firefox-all-which-browser-would = ඔබ බාගැනීමට කැමති අතිරික්සුව කුමක්ද?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = උදව් ගන්න
+firefox-all-you-are-about-to-download = ඔබ බාගැනීමට සූදානම්:
 firefox-all-browser = අතිරික්සුව:
 firefox-all-platform = වේදිකාව:
 firefox-all-language = භාෂාව:
+firefox-all-lang-multi = බහු භාෂා
 firefox-all-64-bit-installers = බිටු-64 ස්ථාපක
 firefox-all-32-bit-installers = බිටු-32 ස්ථාපක
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } රහස්‍යතා දැන්වීම
