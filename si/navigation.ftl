@@ -47,6 +47,7 @@ navigation-contact = සබඳතා
 navigation-careers = රැකියා
 navigation-events = සිදුවීම්
 navigation-donate = පරිත්‍යාග
+navigation-your-right-to-security = අන්තර්ජාලයේ ආරක්‍ෂාව සහ පෞද්ගලිකත්‍වය සඳහා ඔබට ඇති මූලික අයිතිය – කිසි විටෙක විකල්පයක් නොවේ.
 navigation-release-notes = නිකුතු සටහන්
 navigation-features = විශේෂාංග
 navigation-products = නිෂ්පාදන

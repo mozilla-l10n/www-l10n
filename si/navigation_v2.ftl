@@ -15,6 +15,7 @@ navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } වට්ටෝරුව වසන්න
 navigation-v2-firefox-for-desktop = වැඩතලය සඳහා { -brand-name-firefox }
 navigation-v2-firefox-for-android = { -brand-name-android } සඳහා { -brand-name-firefox }
+navigation-v2-get-the-customizable-mobile = { -brand-name-android } දුරකථන සඳහා අභිරුචිකරණය කළ හැකි ජංගම අතිරික්සුව ගන්න.
 navigation-v2-firefox-for-ios = { -brand-name-ios } සඳහා { -brand-name-firefox }
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-privacy-promise = රහස්‍යතා පොරොන්දුව
