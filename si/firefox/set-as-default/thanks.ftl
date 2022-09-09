@@ -8,6 +8,9 @@
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = { -brand-name-firefox } තෝරා ගැනීමට තුති!
 set-as-default-thanks-success-your-default-browser = සාර්ථකයි! දැන් { -brand-name-firefox } ඔබගේ පෙරනිමි අතිරික්සුවයි.
+set-as-default-thanks-looks-like-youre-using-a = ඔබ දැන් වෙනත් අතිරික්සුවක් භාවිතා කරන බව පෙනෙයි. ඔබගේ උපාංගයට { -brand-name-firefox } බාගත කර තිබෙන බවට වග බලා ගන්න.
+# When a visitor sees this message a system dialog will also open on screen.
+set-as-default-thanks-youre-almost-done-just-change = බොහෝ දුරට අවසන්. ඔබගේ තිරයෙහි සැකසුම් මඬල හරහා { -brand-name-firefox } ඔබගේ පෙරනිමි අතිරික්සුව කරන්න.
 set-as-default-thanks-youre-all-set = සියල්ල සකසා ඇත.
 set-as-default-thanks-get-firefox-for-mobile = දුරකථනය සඳහා { -brand-name-firefox } ගන්න
 set-as-default-thanks-travel-the-internet-with = ඔබගේ සියළු උපාංගවලින් ආරක්‍ෂිතව අන්තර්ජාලය සැරිසරන්න.
