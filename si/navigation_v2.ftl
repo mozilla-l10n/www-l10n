@@ -31,6 +31,7 @@ navigation-v2-view-all-firefox-browsers = සියළුම { -brand-name-firef
 navigation-v2-products = නිෂ්පාදන
 navigation-v2-close-products-menu = නිෂ්පාදන වට්ටෝරුව වසන්න
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = සමාගමක දත්ත උල්ලංඝනයක දී ඔබගේ වි-තැපෑල හමුවී ඇත්දැයි බලන්න.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }

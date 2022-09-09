@@ -10,6 +10,7 @@
 
 firefox-new-download-firefox = { -brand-name-firefox } බාගන්න
 firefox-new-mozilla = { -brand-name-mozilla }
+firefox-new-get-the-latest-firefox = නවතම { -brand-name-firefox } අතිරික්සුව ගන්න.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-windows } සඳහා <br>{ -brand-name-firefox } බාගන්න
 firefox-new-download-firefox-for-macos = { -brand-name-mac } සඳහා <br>{ -brand-name-firefox } බාගන්න
