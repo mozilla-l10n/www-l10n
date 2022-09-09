@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
+switch-download-and-switch = බාගත කර මාරු වන්න
 switch-share-to-facebook = ෆේස්බුක් හි බෙදාගන්න.
 switch-send-a-tweet = ට්වීට් යවන්න
 switch-hey = ආයුබෝ,
+switch-send-an-email = වි-තැපෑලක් යවන්න

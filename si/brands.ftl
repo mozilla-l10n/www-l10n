@@ -127,14 +127,14 @@
 
 ## Amazon products
 
--brand-name-fire-tv = Fire TV
+-brand-name-fire-tv = ෆයර් ටීවී
 
 ## Facebook products
 
--brand-name-instagram = Instagram
+-brand-name-instagram = ඉන්ස්ටග්‍රෑම්
 
 ## Google products
 
 -brand-name-chromium = Chromium
--brand-name-google-play = Google Play
--brand-name-youtube = YouTube
+-brand-name-google-play = ගූගල් ප්ලේ
+-brand-name-youtube = යූටියුබ්
