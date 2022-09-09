@@ -31,7 +31,7 @@ sub-navigation-add-ons = එක්කහු
 sub-navigation-faq = නිති පැණ
 sub-navigation-learn-more = තව දැනගන්න
 sub-navigation-developer-edition = { -brand-name-developer-edition }
-sub-navigation-firefox-for-mobile = දුරකථන සඳහා { -brand-name-firefox }
+sub-navigation-firefox-for-mobile = දුරකථනය සඳහා { -brand-name-firefox }
 # Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = { -brand-name-android } එක්කහු
 sub-navigation-android-add-ons = { -brand-name-android } එක්කහු

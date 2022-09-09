@@ -3,6 +3,25 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } බාගන්න
+navigation-get-a-firefox-account = { -brand-name-firefox-account } ක් ගන්න
+navigation-firefox-browser-for-desktop = වැඩතලය සඳහා { -brand-name-firefox-browser }
+navigation-firefox-browser-for-mobile = දුරකථනය සඳහා { -brand-name-firefox-browser }
+navigation-download-for-ios = { -brand-name-ios } සඳහා බාගන්න
+navigation-download-for-android = { -brand-name-android } සඳහා බාගන්න
+navigation-ios-support = { -brand-name-ios } සහාය
+navigation-android-support = { -brand-name-android } සහාය
+navigation-firefox-browser-for-enterprise = ව්‍යවසාය සඳහා { -brand-name-firefox-browser }
+navigation-firefox-for-fire-tv = { -brand-name-fire-tv } සඳහා { -brand-name-firefox }
+navigation-join-firefox = { -brand-name-firefox } වෙත එක්වන්න
+navigation-mozilla-careers = { -brand-name-mozilla } රැකියා
+navigation-close-firefox-menu = { -brand-name-firefox } වට්ටෝරුව වසන්න
+navigation-get-firefox = { -brand-name-firefox } ගන්න
+navigation-get-firefox-focus = { -brand-name-firefox-focus } ගන්න
+navigation-android-extensions = { -brand-name-android } දිගු
+navigation-your-firefox-account = ඔබගේ { -brand-name-firefox-account }
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } මිශ්‍ර යථාර්ථය
+# Outdated string
+navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-menu = වට්ටෝරුව
 navigation-browsers = අතිරික්සු
 navigation-download = බාගන්න
@@ -17,6 +36,7 @@ navigation-new-features = නව විශේෂාංග
 navigation-add-ons = එක්කහු
 navigation-projects = ව්‍යාපෘති
 navigation-developers = සංවර්ධකයින්
+navigation-mixed-reality = මිශ්‍ර යථාර්ථය
 navigation-resources = සම්පත්
 navigation-leadership = නායකත්වය
 navigation-mission = මෙහෙයුම
