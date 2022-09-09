@@ -7,8 +7,12 @@
 
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = වැදගත් දෑ ආරක්‍ෂා කරන අතිරික්සුව ගන්න
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = දැන්වීම්කරුවන් සඳහා වංක රහස්‍යතා ප්‍රතිපත්ති හෝ පසු දොරටු රහිතයි. ඔබව විකුණන්නේ නැති අධිවේගී අතිරික්සුවක් පමණි.
 firefox-desktop-download-download-options = බාගැනීමේ විකල්ප සහ වෙනත් භාෂා
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } සහාය
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = ඔබ මාර්ගගතව කරන දෑ කරන්න.<br> { -brand-name-firefox-browser } එය <strong>නරඹන්නේ නැත</strong>.
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
