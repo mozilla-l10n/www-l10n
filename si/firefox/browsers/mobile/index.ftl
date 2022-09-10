@@ -23,6 +23,7 @@ browsers-mobile-compare = සසඳන්න
 browsers-mobile-see-how-firefox-for-desktop-stacks = වෙනත් අතිරික්සු හතක් සමඟ වැඩතල සඳහා { -brand-name-firefox } සසඳන්න.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = වෙනත් අතිරික්සු හතක් සමඟ <strong>වැඩතල</strong> සඳහා { -brand-name-firefox } සසඳන්න.
+browsers-mobile-join-firefox-and-get-the-most = { -brand-name-firefox } සමඟ එක් වී සියළුම නිෂ්පාදනවල උපරිම ප්‍රයෝජනය — ඕනෑම උපාංගයක් හරහා අත්විඳින්න.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

@@ -14,6 +14,7 @@ firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-enterprise-packages = { -brand-name-enterprise } ඇසුරුම්
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } ගැන තව දැනගන්න
+firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } සමඟ එක් වී සියළුම නිෂ්පාදනවල උපරිම ප්‍රයෝජනය — ඕනෑම උපාංගයක් හරහා අත්විඳින්න.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
