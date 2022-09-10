@@ -17,6 +17,7 @@ mobile-android-send-a-download-link-to-your = ඔබගේ දුරකථනය
 mobile-android-scan-the-qr-code-to-get-started = QR කේතය සුපිරික්සන්න
 mobile-android-scan-alt-text = { -brand-name-android } වෙත { -brand-name-firefox } ගැනීමට QR කේතය සුපිරික්සන්න
 mobile-android-fast-and-private = වේගවත් සහ පෞද්ගලික
+mobile-android-firefox-for-android = { -brand-name-android } සඳහා { -brand-name-firefox } ඉතා වේගයෙන් පිටු පූරණය කරන අතර පෞද්ගලිකත්‍ව රැකවරණයක් ද සපයයි. වැඩි දියුණු කළ ලුහුබැඳීමේ රැකවරණය මගින් ඔබගේ පිටු මන්දගාමී කරන සහ අන්තර්ජාලය පුරා ඔබව හඹා යන මාර්ගගත ලුහුබැඳීම් ස්වයංක්‍රීයව අවහිර කරයි.
 mobile-android-save-power-with = අඳුරු ප්‍රකාරය මගින් බලය සුරකින්න
 mobile-android-about-mozilla = { -brand-name-mozilla } ගැන
 mobile-android-own-your-home = මුල් තිරය අයිති කරගන්න
