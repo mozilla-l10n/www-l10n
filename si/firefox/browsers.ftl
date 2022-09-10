@@ -19,6 +19,7 @@ firefox-browsers-take-the-same-level-of-privacy = ඔබ යන සැමතැ�
 firefox-browsers-download-for-mobile = දුරකථනය සඳහා බාගන්න
 firefox-browsers-send-me-a-link = මට සබැඳියක් එවන්න
 firefox-browsers-enterprise = { -brand-name-enterprise }
+firefox-browsers-get-unmatched-data-protection = ඔබගේ සමාගමේ අවශ්‍යතා සඳහා සරිලන සහාය ක්‍රමවේද සමඟ දත්ත වලට අද්විතීය රැකවරණයක් ලබා ගන්න.
 firefox-browsers-enterprise-packages = { -brand-name-enterprise } ඇසුරුම්
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } ගැන තව දැනගන්න
