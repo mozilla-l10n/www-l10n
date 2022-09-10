@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+vpn-shared-privacy-notice = රහස්‍යතා දැන්වීම
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
