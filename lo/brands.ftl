@@ -15,6 +15,7 @@
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
+-brand-name-hulu = ພາສາຊູລູ
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
@@ -101,6 +102,7 @@
 ## Open Source projects
 
 -brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
 # Outdated string
 -brand-name-web-assembly = Web Assembly
 
@@ -112,6 +114,7 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
@@ -128,6 +131,7 @@
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
@@ -135,6 +139,7 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = ເຟສບຸກ Messenger
 -brand-name-instagram = Instagram
 
 ## Google products

@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-monthly = ລາຍເດືອນ
+banner-fundraising-one-time = ຄັ້ງດຽວ
 banner-fundraising-donate = ບໍລິຈາກ
 # Outdated string
 # Variables:
