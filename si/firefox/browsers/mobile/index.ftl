@@ -11,6 +11,7 @@ browsers-mobile-at-home-or-on-the-move = නිවසේදී හෝ ගමන�
 # Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = <strong>පෞද්ගලිකත්‍වයට</strong> මුල් තැන දෙන ජංගම අතිරික්සුව ගන්න.
 browsers-mobile-firefox-for-android = { -brand-name-android } සඳහා { -brand-name-firefox }
+browsers-mobile-infinitely-customizable-private = අපරිමිත අභිරුචිකරණය, පෞද්ගලිකයි සහ ආරක්‍ෂිතයි, { -brand-name-android } සඳහා { -brand-name-firefox } යනු ඔබව කිසිදා විකුණා නොදමන ශ්‍රීඝ්‍ර අතිරික්සුවකි.
 browsers-mobile-firefox-for-ios = { -brand-name-ios } සඳහා { -brand-name-firefox }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = ජංගම අතිරික්සු සංසන්දනය
