@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/about/
 
+about-the-mozilla-manifesto = { -brand-name-mozilla } ප්‍රකාශනය
+about-read-the-manifesto = ප්‍රකාශනය කියවන්න
 
 ## Newsletter
 
