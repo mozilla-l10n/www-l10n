@@ -22,6 +22,7 @@ contribute-task-join-heading = ප්‍රජාවට එක්වන්න
 
 contribute-mission-heading = අපේ මෙහෙවර
 contribute-learn = { -brand-name-mozilla } ගැන දැන ගන්න
+contribute-read-manifesto = ප්‍රතිපත්ති ප්‍රකාශනය කියවන්න
 contribute-donate = පරිත්‍යාග
 
 ## Made by

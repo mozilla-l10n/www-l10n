@@ -24,9 +24,11 @@ navigation-get-firefox = { -brand-name-firefox } ගන්න
 navigation-get-firefox-focus = { -brand-name-firefox-focus } ගන්න
 navigation-android-extensions = { -brand-name-android } දිගු
 navigation-your-firefox-account = ඔබගේ { -brand-name-firefox-account }
+navigation-get-together = මෙම මාර්ගගත සමාජ අවකාශය සමඟ අතථ්‍ය යථාර්ථය තුළට රැස් වෙන්න.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } මිශ්‍ර යථාර්ථය
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-manifesto = { -brand-name-mozilla } ප්‍රකාශනය
 navigation-menu = වට්ටෝරුව
 navigation-browsers = අතිරික්සු
 navigation-download = බාගන්න
@@ -43,10 +45,12 @@ navigation-new-features = නව විශේෂාංග
 # Outdated string
 navigation-add-ons = එක්කහු
 navigation-projects = ව්‍යාපෘති
+navigation-donate-your-voice-to = ඔබගේ හඬ පරිත්‍යාග කර හඬ හඳුනාගැනීම සැමට විවෘතව තැබීමට සහාය වන්න.
 navigation-developers = සංවර්ධකයින්
 navigation-developer-innovations = සංවර්ධක නවෝත්පාදන
 navigation-mixed-reality = මිශ්‍ර යථාර්ථය
 navigation-resources = සම්පත්
+navigation-resources-for-developers = සංවර්ධකයින් වෙතින් සංවර්ධකයින් සඳහා සම්පත්.
 navigation-developer-blog = සංවර්ධක සටහන්පත
 navigation-leadership = නායකත්වය
 navigation-mission = මෙහෙයුම
