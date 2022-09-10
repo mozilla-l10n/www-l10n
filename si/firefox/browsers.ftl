@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
+# HTML page title
+firefox-browsers-get-the-browsers-that-put = පෞද්ගලිකත්‍වයට මුල් තැන දෙන අතිරික්සු ගන්න — සහ සැමවිට තිබෙන
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong = පෞද්ගලිකත්‍වයට මුල් තැන දෙන <strong>අතිරික්සු</strong> ගන්න — සහ සැමවිට තිබෙන
 firefox-browsers-desktop = වැඩතලය
 firefox-browsers-download-for-desktop = වැඩතලය සඳහා බාගන්න
 firefox-browsers-mobile = ජංගම

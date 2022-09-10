@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = { -brand-name-firefox-browser } බාගන්න — වේගවත්, පෞද්ගලික සහ නොමිලේ — { -brand-name-mozilla } වෙතින්
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = වැදගත් දෑ ආරක්‍ෂා කරන අතිරික්සුව ගන්න
 # shady is slang which suggests something is untrustworthy

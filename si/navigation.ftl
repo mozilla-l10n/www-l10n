@@ -13,6 +13,7 @@ navigation-ios-support = { -brand-name-ios } සහාය
 navigation-android-support = { -brand-name-android } සහාය
 navigation-firefox-browser-for-enterprise = ව්‍යවසාය සඳහා { -brand-name-firefox-browser }
 navigation-firefox-for-fire-tv = { -brand-name-fire-tv } සඳහා { -brand-name-firefox }
+navigation-firefox-browsers-put = { -brand-name-firefox } අතිරික්සු පෞද්ගලිකත්‍වයට මුල් තැන දෙයි — සැමවිට
 navigation-join-firefox = { -brand-name-firefox } වෙත එක්වන්න
 navigation-firefox-blog = { -brand-name-firefox } සටහන්පත
 navigation-read-about-new-firefox = අළුත් { -brand-name-firefox } විශේෂාංග ගැන කියවන්න සහ මාර්ගගත ආරක්‍ෂාව පිළිබඳව උපදෙස් ගන්න.
