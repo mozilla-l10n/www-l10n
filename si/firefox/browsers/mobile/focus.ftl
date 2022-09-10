@@ -20,6 +20,9 @@ mobile-focus-scan-alt-text = { -brand-name-firefox-focus } ගැනීමට QR
 mobile-focus-delete-your-history = ඔබගේ ඉතිහාසය මකන්න
 mobile-focus-easily-erase-your = ඔබගේ ඉතිහාසය, මුරපද සහ දත්තකඩ පහසුවෙන් මකා දමන්න, එමගින් අනවශ්‍ය දැන්වීම් ඔබව මාර්ගගතව හඹා යාම වළක්වයි. සෙවුම් ක්‍ෂේත්‍රයේ මකන්න බොත්තම මත තට්ටු කරන්න.
 mobile-focus-take-private-mode = පෞද්ගලික ප්‍රකාරය ඊළඟ මට්ටමට ගෙනයන්න
+# Outdated string
+mobile-focus-private-browsing-on = බොහෝ අතිරික්සුවල “පෞද්ගලික පිරික්සුම” ඇත්ත වශයෙන්ම එතරම් පෞද්ගලික නොවේ. { -brand-name-firefox-focus } යනු සෑම විටම ඊළඟ මට්ටමේ පෞද්ගලිකත්‍වයක් මත පදනම් වන අතර එය අන්තර්ජාලයෙහි ඔබගේ අයිතීන් වෙනුවෙන් සටන් කරන ලාභ නොලබන { -brand-name-mozilla } වෙතින්ය.
+mobile-focus-private-browsing-on-v2 = බොහෝ අතිරික්සුවල “පෞද්ගලික පිරික්සුම” ඇත්ත වශයෙන්ම එතරම් පෞද්ගලික නොවේ. { -brand-name-firefox-focus } නිතැතින්ම ඊළඟ මට්ටමේ පෞද්ගලිකත්‍වයක් පිරිනමන අතර එය අන්තර්ජාලයෙහි ඔබගේ අයිතීන් වෙනුවෙන් සටන් කරන ලාභ නොලබන { -brand-name-mozilla } වෙතින්ය.
 mobile-focus-tracking-protection = ලුහුබැඳීමේ රැකවරණය
 mobile-focus-ad-blocking = දැන්වීම් අවහිරය
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } නිෂ්පාදනයකි
