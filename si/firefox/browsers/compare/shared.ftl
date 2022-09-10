@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Used as an accessible label for a "yes" icon (a green check mark)
+compare-shared-yes = ඔව්
+# Used as an accessible label for a "no" icon (a gray bar)
+compare-shared-no = නැහැ
+compare-shared-private-browsing-mode = පෞද්. පිරික්සුම් ප්‍රකාරය
+compare-shared-in-browser-screenshot-tool = තිළෑලි තිරසේයා මෙවලම
 compare-shared-password-management = මුරපද කළමනාකරණය
 compare-shared-primary-password = ප්‍රාථමික මුරපදය
 # Obsolete string

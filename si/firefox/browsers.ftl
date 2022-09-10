@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-browsers-get-the-browsers-that-put = පෞද්ගලිකත්‍වයට මුල් තැන දෙන අතිරික්සු ගන්න — සහ සැමවිට තිබෙන
+# HTML page description
+firefox-browsers-get-the-privacy-you-deserve = ඔබට යෝග්‍ය පෞද්ගලිකත්‍වය ලබා ගන්න. සියළුම { -brand-name-firefox } අතිරික්සුවල වැඩිදියුණු කළ ලුහුබැඳීමේ රැකවරණය ස්වයංක්‍රීයයි.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = පෞද්ගලිකත්‍වයට මුල් තැන දෙන <strong>අතිරික්සු</strong> ගන්න — සහ සැමවිට තිබෙන
 firefox-browsers-desktop = වැඩතලය
