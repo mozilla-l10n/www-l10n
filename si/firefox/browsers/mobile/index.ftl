@@ -13,6 +13,10 @@ browsers-mobile-firefox-for-ios = { -brand-name-ios } සඳහා { -brand-name
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = ජංගම අතිරික්සු සංසන්දනය
 browsers-mobile-compare = සසඳන්න
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+browsers-mobile-already-have-an-account-sign = දැනටමත් ගිණුමක් තිබේද? <a { $fxa_attr }>පිවිසෙන්න</a> හෝ { -brand-name-firefox } වෙත එක්වීම ගැන <a { $accounts_attr }>තව දැන ගන්න</a>.
 browsers-mobile-download = බාගන්න
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

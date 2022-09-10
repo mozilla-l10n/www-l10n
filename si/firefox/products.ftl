@@ -33,4 +33,8 @@ firefox-products-send-a-file = ගොනුවක් යවන්න
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-get-pocket = { -brand-name-pocket } ගන්න
 firefox-products-learn-more-about-pocket = { -brand-name-pocket } ගැන තව දැනගන්න
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-products-already-have-an-account-sign = දැනටමත් ගිණුමක් තිබේද? <a { $fxa_attr }>පිවිසෙන්න</a> හෝ { -brand-name-firefox } වෙත එක්වීම ගැන <a { $accounts_attr }>තව දැන ගන්න</a>.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }

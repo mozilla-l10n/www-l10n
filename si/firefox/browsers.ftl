@@ -14,6 +14,10 @@ firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-enterprise-packages = { -brand-name-enterprise } ඇසුරුම්
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } ගැන තව දැනගන්න
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign = දැනටමත් ගිණුමක් තිබේද? <a { $fxa_attr }>පිවිසෙන්න</a> හෝ ෆයර්ෆොක්ස් වෙත එක්වීම ගැන <a { $accounts_attr }>තව දැන ගන්න</a>.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }

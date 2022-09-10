@@ -32,6 +32,11 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } ගන්න
 firefox-privacy-hub-your-firefox-account = ඔබගේ { -brand-name-firefox-account }
 # Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = දැනටමත් ගිණුමක් තිබේද? <a { $sign_in } class="{ $class_name }">පිවිසෙන්න</a> හෝ { -brand-name-firefox } වෙත එක්වීම ගැන <a href="{ $learn_more }">තව දැන ගන්න</a>.
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = අපගේ නිෂ්පාදන සඳහා <a href="{ $url }">රහස්‍යතා දැන්වීම</a> කියවන්න
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
