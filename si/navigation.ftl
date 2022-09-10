@@ -32,6 +32,7 @@ navigation-download = බාගන්න
 navigation-extensions = දිගු
 navigation-support = සහාය
 navigation-see-if-your-personal = පෞද්ගලික තොරතුරු මාර්ගගතව කාන්දු වී ඇත්දැයි බලන්න, සහ ඉදිරි උල්ලංඝන ඇඟවීම් සඳහා ලියාපදිංචි වන්න.
+navigation-save-quality-content = ගුණාත්‍ව අන්තර්ගත සුරකින්න. ඔබගේ මනසට ඉන්ධන සපයන්න.
 navigation-sign-up = ලියාපදිංචිය
 navigation-join = එක්වන්න
 navigation-sign-in = පිවිසෙන්න
