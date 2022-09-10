@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/privacy/
 
+privacy-index-get-involved = සහභාගී වන්න
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }

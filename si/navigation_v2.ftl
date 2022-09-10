@@ -47,8 +47,12 @@ navigation-v2-view-all-products = සියළු නිෂ්පාදන බ�
 navigation-v2-who-we-are = අපි කවුද
 navigation-v2-close-who-we-are-menu = අපි කවුද වට්ටෝරුව වසන්න
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-get-involved = සහභාගී වන්න
+navigation-v2-join-the-fight-for-a = යහපත් අන්තර්ජාලයක් සඳහා සටනට එක්වන්න.
 navigation-v2-leadership = නායකත්වය
 navigation-v2-careers = රැකියා
+navigation-v2-work-for-a-mission-driven-updated = මිනිසුන් පළමුකොට නිෂ්පාදන තනන මෙහෙවර මත පදනම් වූ සංවිධානයක් සඳහා වැඩ කරන්න.
+navigation-v2-mozilla-blog = { -brand-name-mozilla } සටහන්පත
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } ගැන වැඩි විස්තර
 
 ## Innovation menu

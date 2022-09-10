@@ -7,6 +7,8 @@
 
 about-the-mozilla-manifesto = { -brand-name-mozilla } ප්‍රකාශනය
 about-read-the-manifesto = ප්‍රකාශනය කියවන්න
+about-your-voice-your-code-your = ඔබගේ හඬ. ඔබගේ කේතය. ඔබගේ සහාය. යහපත් අන්තර්ජාලයක් සඳහා වන සටනට එක් වීමට බොහෝ ක්‍රම තිබේ.
+about-get-involved = සහභාගී වන්න
 
 ## Newsletter
 

@@ -10,7 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
-firefox-developer-get-involved = සහභාගී වෙන්න
+firefox-developer-get-involved = සහභාගී වන්න
 firefox-developer-start-now = දැන් අරඹන්න
 firefox-developer-inspector = සෝදිසිකරු
 firefox-developer-learn-about-page-inspector = පිටු සෝදිසිකරු ගැන තව දැනගන්න

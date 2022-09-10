@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/mission/
 
-mission-get-involved = සහභාගී වෙන්න
+mission-get-involved = සහභාගී වන්න
 mission-history = ඉතිහාසය
 mission-forums = සංසද
 mission-governance = පාලනය

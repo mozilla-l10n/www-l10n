@@ -12,4 +12,4 @@ about-shared-leadership = නායකත්වය
 about-shared-governance = පාලනය
 about-shared-forums = සංසද
 about-shared-our-products = අපගේ නිෂ්පාදන
-about-shared-get-involved = අප හා එක්වන්න
+about-shared-get-involved = සහභාගී වන්න
