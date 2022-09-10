@@ -12,5 +12,5 @@ about-get-involved = සහභාගී වන්න
 
 ## Newsletter
 
-about-get-the-mozilla-newsletter = { -brand-name-mozilla } පුවත් පත්‍රිකා ලබා ගන්න
+about-get-the-mozilla-newsletter = { -brand-name-mozilla } පුවත් පත්‍රිකා ගන්න
 about-subscribe = දායක වන්න
