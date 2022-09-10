@@ -18,10 +18,11 @@ browsers-mobile-get-enhanced-tracking-protection = දියුණු කළ ල
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = ඊළඟ මට්ටමේ රහස්‍යතා විශේෂාංග සහිත විධිමත්, වේගවත් සහ අනර්ඝ ජංගම අතිරික්සුවක් සොයන්නේද? { -brand-name-firefox-focus } අතිරික්සුව විවෘත කළ මොහොතේ සිට ඔබ එය වසා දමන තත්පරය දක්වා සමස්ත පිරික්සුම් ඉතිහාසය ස්වයංක්‍රීයව මකා දමයි.
 browsers-mobile-compare-mobile-browsers = ජංගම අතිරික්සු සංසන්දනය
+browsers-mobile-see-how-firefox-stacks-up = පෞද්ගලිකත්‍වය, විශේෂාංග සහ සමමුහූර්තය යන ප්‍රධාන කරුණු තුන සම්බන්ධව අනෙකුත් ජනප්‍රිය අතිරික්සු සමඟ { -brand-name-firefox } සංසන්දනය කර බලන්න.
 browsers-mobile-compare = සසඳන්න
-browsers-mobile-see-how-firefox-for-desktop-stacks = වැඩතලය සඳහා { -brand-name-firefox } අනෙකුත් අතිරික්සු හතකට ඉහළින් තිබෙන්නේ කෙසේදැයි බලන්න.
+browsers-mobile-see-how-firefox-for-desktop-stacks = වෙනත් අතිරික්සු හතක් සමඟ වැඩතල සඳහා { -brand-name-firefox } සසඳන්න.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = <strong>වැඩතලය</strong> සඳහා { -brand-name-firefox } අනෙකුත් අතිරික්සු හතකට ඉහළින් තිබෙන්නේ කෙසේදැයි බලන්න.
+browsers-mobile-see-how-firefox-for-desktop-strong = වෙනත් අතිරික්සු හතක් සමඟ <strong>වැඩතල</strong> සඳහා { -brand-name-firefox } සසඳන්න.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
