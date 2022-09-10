@@ -13,5 +13,6 @@ firefox-more-firefox-chromebook = { -brand-name-chromebook } සඳහා { -bra
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-little-book = රහස්‍යතාව පිළිබඳව අත්පොත
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
+we-believe-everyone = සැවොම අන්තර්ජාලය වෙත ප්‍රවේශය ලැබීමට සුදුසු බව විශ්වාස කරන්නෙමු — එබැවින් ලොව පුරා සිටින සමර්පිත ස්වේච්ඡා දායකයින්ගේ සහාය සහිතව { -brand-name-firefox-browser } භාෂා 90 කට වඩා වැඩි ගණනකින් ලබා දේ.
 firefox-for-linux = { -brand-name-linux } සඳහා { -brand-name-firefox }
 firefox-for-windows = { -brand-name-firefox } සඳහා { -brand-name-windows } බිටු-64
