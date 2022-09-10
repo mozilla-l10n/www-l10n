@@ -8,6 +8,7 @@
 home-internet-for-people-not-profit = අන්තර්ජාලය මිනිසුන්ට මිස ලාභයට නොවේ
 home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = යහපත සඳහා වේගය.
+home-we-make-the-internet-safer = අපි යහපත සඳහා අන්තර්ජාලය ආරක්‍ෂිත, ඵලදායී සහ වේගවත් කරන්නෙමු.
 home-our-innovations = අපගේ නවෝත්පාදන
 home-common-voice = { -brand-name-common-voice }
 home-extensions = දිගු

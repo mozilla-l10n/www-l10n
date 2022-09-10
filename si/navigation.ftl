@@ -24,7 +24,7 @@ navigation-get-firefox = { -brand-name-firefox } ගන්න
 navigation-get-firefox-focus = { -brand-name-firefox-focus } ගන්න
 navigation-android-extensions = { -brand-name-android } දිගු
 navigation-your-firefox-account = ඔබගේ { -brand-name-firefox-account }
-navigation-get-together = මෙම මාර්ගගත සමාජ අවකාශය සමඟ අතථ්‍ය යථාර්ථය තුළට රැස් වෙන්න.
+navigation-get-together = මෙම මාර්ගගත සමාජ අවකාශය සමඟ අතථ්‍ය යථාර්ථයට රැස් වෙන්න.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } මිශ්‍ර යථාර්ථය
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
