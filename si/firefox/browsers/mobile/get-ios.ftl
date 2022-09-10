@@ -7,5 +7,7 @@
 
 # HTML page title
 get-ios-firefox-for-ios = { -brand-name-ios } සඳහා { -brand-name-firefox-browser }
+# HTML page description
+get-ios-firefox-is-fast = { -brand-name-ios } සඳහා { -brand-name-firefox } ඔබ එය විවෘත කරන මොහොතේ සිට වේගවත්ය, පෞද්ගලිකය සහ ආරක්‍ෂිතය.
 get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = { -brand-name-ios } සඳහා { -brand-name-firefox } බාගන්න

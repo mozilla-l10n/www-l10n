@@ -7,7 +7,12 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } හා { -brand-name-ipad })
+# HTML description
+# Obsolete string
+mobile-ios-firefox-browser-for = { -brand-name-ios } සඳහා { -brand-name-firefox } ඔබ එය විවෘත කරන මොහොතේ සිට වේගවත්ය, පෞද්ගලිකය සහ ආරක්‍ෂිතය.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+mobile-ios-get-automatic-privacy = { -brand-name-iphone } සහ { -brand-name-ipad } සඳහා පෞද්ගලිකත්‍වය ස්වයංක්‍රීයව
 mobile-ios-get-firefox-for = { -brand-name-ios } සඳහා { -brand-name-firefox } ගන්න
 mobile-ios-send-a-download-link-to-your = ඔබගේ දුරකථනයට බාගැනීමේ සබැඳියක් යවන්න.
 mobile-ios-scan-the-qr-code-to-get-started = QR කේතය සුපිරික්සන්න
