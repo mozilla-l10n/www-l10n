@@ -18,5 +18,5 @@ mobile-compare-password-management = මුරපද කළමනාකරණය
 mobile-compare-primary-password = ප්‍රාථමික මුරපදය
 mobile-compare-get-firefox-for-mobile = දුරකථනය සඳහා { -brand-name-firefox } ගන්න
 mobile-compare-send-a-download-link-to-your = ඔබගේ දුරකථනයට බාගැනීමේ සබැඳියක් යවන්න.
-mobile-compare-scan-the-qr-code-to-get-started = පටන් ගැනීමට QR කේතය සුපිරික්සන්න
+mobile-compare-scan-the-qr-code-to-get-started = QR කේතය සුපිරික්සන්න
 mobile-compare-scan-alt-text = ඔබගේ ජංගම උපාංගයට { -brand-name-firefox } ගැනීමට QR කේතය සුපිරික්සන්න
