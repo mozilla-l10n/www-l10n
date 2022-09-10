@@ -55,4 +55,4 @@ mobile-compare-primary-password = მთავარი პაროლით �
 mobile-compare-get-firefox-for-mobile = გადმოწერეთ { -brand-name-firefox } მობილურისთვის
 mobile-compare-send-a-download-link-to-your = გაგზავნეთ ჩამოსატვირთი ბმული თქვენს ტელეფონზე.
 mobile-compare-scan-the-qr-code-to-get-started = QR-კოდის წაკითხვა, დასაწყებად
-mobile-compare-scan-alt-text = წააკითხეთ QR-კოდი { -brand-name-firefox }-ის თქვენს მობილურზე მისაღებად
+mobile-compare-scan-alt-text = წააკითხეთ QR-კოდი, რომ გადმოწეროთ { -brand-name-firefox } მობილურზე

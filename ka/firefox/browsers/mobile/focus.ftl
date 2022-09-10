@@ -16,7 +16,7 @@ mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } ხე�
 mobile-focus-get-firefox-focus = გადმოწერეთ { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = გაგზავნეთ ჩამოსატვირთი ბმული თქვენს ტელეფონზე.
 mobile-focus-scan-the-qr-code-to-get-started = QR-კოდის წაკითხვა, დასაწყებად
-mobile-focus-scan-alt-text = წააკითხეთ QR-კოდი { -brand-name-firefox-focus }-ის მობილურზე მისაღებად
+mobile-focus-scan-alt-text = წააკითხეთ QR-კოდი, რომ გადმოწეროთ { -brand-name-firefox-focus }
 # Outdated string
 mobile-focus-disappear-your-history = გააქრეთ ყველა ჩანაწერი
 mobile-focus-delete-your-history = წაშალეთ ისტორია
