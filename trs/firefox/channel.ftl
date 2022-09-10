@@ -23,7 +23,7 @@ firefox-channel-all-languages-and-platforms = Daran' chre nej nuguan'an ni plata
 firefox-channel-all-languages-and-builds = Daran' nej nanj a'mi
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = Bêta sani 'ngo plataformâ hiaj arâj huè si ni gàchin nahuin hue'ej. Yi'ì dan Bêta a'nïn nuguan'an riña { -brand-name-mozilla } — ni da'aj nej dugui' ñûnj — rugûñu'unj nej si nagi'iaj sà' ñûnj sa huaa. <a href="{ $link }"> Gini'in si nuhuìn si yinga'</a>.
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } sani 'ngo plataformâ hiaj arâj huè si ni gàchin nahuin hue'ej. Yi'ì dan Bêta a'nïn nuguan'an riña { -brand-name-mozilla } — ni da'aj nej dugui' ñûnj — rugûñu'unj nej si nagi'iaj sà' ñûnj sa huaa. <a href="{ $link }"> Gini'in si nuhuìn si yinga'</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ni a'nìn ma'an nuguan'an riña { -brand-name-mozilla }.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback

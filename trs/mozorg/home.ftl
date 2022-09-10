@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -22,7 +22,7 @@ home-read-our-internet-health-report = Gahiā daj hua ‘iaj sun internet
 home-our-innovations = Nej sa nakà màn 'iaj ñûnj
 home-using-the-web-as-the-platform = Ngà plataforma rajsun ñûnj web, nī ri ñûnj nej tecnología nakàa nī sa ni’nïnj ïn huin da’ si nagi’iaj chì’ nasà’aj riñant nī ga’ue gi’iaj sun hìot nī ga dadû doj gachē nu daran’ chre ne’.
 home-virtual-reality-platform = si plataforma realidad virtual
-home-common-voice = Nuguan' nuguan'àan
+home-common-voice = { -brand-name-common-voice }
 home-extensions = Nej extensiûn
 home-personalize-firefox-with-your = Naduna sa hua riña { -brand-name-firefox } dàj garan' ruhuât, dàj rû' nej administrador da'nga' huìi, nej sa duguej nej nuguan' nitaj si ni'ñanj ruhuât ni doj ngà ne sa huaa.
 home-careers = Suun

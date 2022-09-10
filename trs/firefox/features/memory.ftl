@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = Ngà navegador Firefox: Garasun doj memoria, hìo doj gi’iaj sun man
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Garasun doj memoria, hìo doj gi’iaj sun man
 # HTML page description
 features-memory-is-your-computer-slow-your = Ûta ràn ‘iaj sun aga’ nikāj raj. Si guruhuaj nī navegador arâj sunt nī ûta â’ne memoria. Nadunā ngà { -brand-name-firefox } da’ gānahuin hìo man doj.
 features-memory-less-memory-usage-than-chrome = Dòj memoria arâj sunj gà da’ si arâj sun { -brand-name-chrome }

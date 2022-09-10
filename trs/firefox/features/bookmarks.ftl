@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Si navegador Firefox: Nej marcador hue’ê doj ganikājt danè’ man’an hiūj huājt
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Nej marcador hue’ê doj ganikājt danè’ man’an hiūj huājt
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Hìo doj nagi’iaj chre’t nej si marcador ruhuâ ‘ngō ñanj nī ne’ rukù gatūt riña nej man ngà go’ngō nej si agâ’t, asîj riña aga’ sikà’ rà nìko nda riña teléfono.
 features-bookmarks-better-bookmarks = Nej marcador huā hue’ê doj

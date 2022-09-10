@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Nadunïnj { -brand-name-firefox }
-navigation-get-a-firefox-account = Girì' 'ngō si kuendâ Firefox
+navigation-get-a-firefox-account = Girì' 'ngō si { -brand-name-firefox-account }
 navigation-ios-support = Si soportê { -brand-name-ios }
 navigation-android-support = Si soportê { -brand-name-android }
 navigation-firefox-for-fire-tv = { -brand-name-firefox } guendâ { -brand-name-fire-tv }
@@ -11,15 +11,20 @@ navigation-watch-videos-and-browse = Ni'iāj nej sa ni'io' nī gaché nu riña i
 navigation-close-firefox-menu = Narán riña si menû { -brand-name-firefox }
 navigation-get-the-browser-that-gives = Nādunïnj riña gachē nunt a'ui' sa nûkuaj dor riña { -brand-name-windows }, { -brand-name-mac } asi { -brand-name-linux }.
 navigation-take-firefox-and-firefox = Gaché nu ngà { -brand-name-firefox } nī { -brand-name-firefox-focus }. Guendâ { -brand-name-android } nī { -brand-name-ios }.
-navigation-get-firefox = Nādunïnj firefox
+navigation-get-firefox = Nādunïnj { -brand-name-firefox }
 navigation-get-firefox-focus = Nādunïnj { -brand-name-firefox-focus }
 navigation-android-extensions = Si ekstensiûn { -brand-name-android }
-navigation-your-firefox-account = Si kuendât Firefox
+navigation-your-firefox-account = Si { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Gārasun daran' chre nej sa nikāj { -brand-name-firefox }, riña daran' nej si agâ't.
+# Outdated string
 navigation-learn-how-to-customize = Gahuin chrūn nagi'iát dàj 'iaj sun { -brand-name-firefox }.
+# Outdated string
 navigation-experience-augmented = Gini'in doj dàj 'ia aché nun' riña nej aga'a ngà { -brand-name-firefox }.
+# Outdated string
 navigation-meet-people-in-experimental = Gini'in a'ngô guìi riña nej salâ Chat nikāj realidad mixta ngà { -brand-name-firefox }.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = Nikāj { -brand-name-mozilla } riña realidad Virtual nahuin yachìj don gan'an { -brand-name-firefox }.
 navigation-firefox-built-just-for = { -brand-name-firefox }, Si gahui niñā man guendâ nej desarroyadôr.
 navigation-preview-the-latest-build = Ni'iāj dàj hua { -brand-name-firefox } gahui nakà doj nī rugûñu'ūnj da' nahuin hue'ê man doj.
@@ -38,11 +43,14 @@ navigation-meet-the-technology-company = Gini'in riña ahui tegnolojiâ nikāj n
 navigation-new-features = Nej sa nakà nīka
 navigation-save-content-absorb-knowledge = Na'nïnj sà sa huāa. Gahuin chrūn doj.
 navigation-same-speed-and-safety = Dàdanj duguminj nī dàdanj hìo yitïn, gahui nīñanj guendâ nej emprêsa.
+# Outdated string
 navigation-add-ons = Sa ga'ue nutò'
 navigation-projects = Nej proyêkto
 navigation-close-projects-menu = Narán si menû nej poyêkto
 navigation-donate-your-voice-to = Ga'nïnj si nanèt da gā nî'nïnj sa nani'in nanè riña darûn'.
+# Outdated string
 navigation-web-of-things-iot = Si Web nej rasuun (IoT)
+# Outdated string
 navigation-make-devices-connected = Nāgi'iaj da' gā hue'e nej aga' nikāj internêt nī ga'ue garasun ga'ì' man.
 navigation-developers = Nej desarroyadôr
 navigation-close-developers-menu = Narán si menû nej desarroyadôr
