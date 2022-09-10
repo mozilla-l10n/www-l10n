@@ -7,6 +7,7 @@
 
 learn-more-faq = { -brand-name-firefox } නිති පැණ
 what-is-a = අතිරික්සුවක් යනු කුමක්ද?
+choose-which-firefox = ඔබගේ භාෂාවෙන් { -brand-name-firefox-browser } බාගැනීමට තෝරන්න
 firefox-more-firefox-chromebook = { -brand-name-chromebook } සඳහා { -brand-name-firefox-browser }
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-little-book = රහස්‍යතාව පිළිබඳව අත්පොත

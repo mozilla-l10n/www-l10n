@@ -7,3 +7,6 @@
 
 firefox-enterprise-overview = විශ්ලේෂණය
 firefox-enterprise-macos = { -brand-name-mac }
+# Variables:
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+firefox-enterprise-download-firefox-esr-or-rapid = <a href="{ $firefox_all }">වෙනත් භාෂාවක් හෝ වේදිකාවක්</a> සඳහා<br> { -brand-name-firefox-esr } හෝ ශ්‍රීඝ්‍ර නිකුතුවක් බාගන්න.

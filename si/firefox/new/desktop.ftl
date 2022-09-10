@@ -37,6 +37,13 @@ firefox-desktop-download-learn-about-the = { -brand-name-firefox } වැඩත�
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = ආසන්නයි!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = දැන් { -brand-name-firefox } <strong>ස්ථාපනය</strong> කරන්න.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = ප්‍රශ්නයක්ද? <a { $attrs }>ඔබගේ ස්ථාපනය සඳහා උදව් ලබා ගන්න</a>.
+firefox-desktop-download-in-another-language = අන් භාෂාවකින් හෝ වෙනත් මෙහෙයුම් පද්ධතියක් සඳහා බාගන්න.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
@@ -44,3 +51,5 @@ firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = ඔබගේ බාගැනීම ස්වයංක්‍රීයව ආරම්භ විය යුතුය. නැද්ද? <a id="{ $id }" href="{ $fallback_url }">යළි උත්සාහ කරන්න.</a>
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = ඔබගේ බාගැනීමට බාධා විය. නමුත් සියල්ල අහිමි වී නැත.

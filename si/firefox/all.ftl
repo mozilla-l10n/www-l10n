@@ -19,6 +19,7 @@ firefox-all-language = භාෂාව:
 firefox-all-lang-multi = බහු භාෂා
 firefox-all-64-bit-installers = බිටු-64 ස්ථාපක
 firefox-all-32-bit-installers = බිටු-32 ස්ථාපක
+firefox-all-choose-which-firefox = ඔබගේ භාෂාවෙන් { -brand-name-firefox-browser } බාගැනීමට තෝරන්න
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } රහස්‍යතා දැන්වීම
 firefox-all-learn-about-firefox = { -brand-name-firefox } අතිරික්සු ගැන දැන ගන්න
 firefox-all-arm64-installers = ARM64/AArch64 ස්ථාපක
