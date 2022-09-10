@@ -39,3 +39,4 @@ firefox-products-join-firefox-and-get-the-most = { -brand-name-firefox } සම�
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = දැනටමත් ගිණුමක් තිබේද? <a { $fxa_attr }>පිවිසෙන්න</a> හෝ { -brand-name-firefox } වෙත එක්වීම ගැන <a { $accounts_attr }>තව දැන ගන්න</a>.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = ස්වයංක්‍රීය ලුහුබැඳීමේ රැකවරණය සහ දැන්වීම් අවහිර කිරීම සහිත ඔබගේ සමර්පිත රහස්‍යතා අතිරික්සුව.
