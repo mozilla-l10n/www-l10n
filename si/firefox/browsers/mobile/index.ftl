@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+# Obsolete string
+browsers-mobile-at-home-or-on-the-move = නිවසේදී හෝ ගමනේදී, සෑම උපාංගයකම ඔබට පෞද්ගලිකත්‍වයක් හිමි විය යුතුය. සියළු { -brand-name-firefox } ජංගම අතිරික්සුවල වැඩිදියුණු කළ ලුහුබැඳීමේ රැකවරණය ස්වයංක්‍රීයයි.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 # Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = <strong>පෞද්ගලිකත්‍වයට</strong> මුල් තැන දෙන ජංගම අතිරික්සුව ගන්න.
