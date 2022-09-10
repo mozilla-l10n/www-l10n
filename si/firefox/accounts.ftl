@@ -10,6 +10,7 @@ firefox-accounts-join-firefox = { -brand-name-firefox } වෙත එක්ව�
 firefox-accounts-enter-your-email-address = පටන් ගැනීමට ඔබගේ වි-තැපෑල යොදන්න
 firefox-accounts-already-have-an-account = දැනටමත් ගිණුමක් තිබේද?
 firefox-accounts-sign-in = පිවිසෙන්න
+firefox-accounts-get-the-respect-you = ඔබට යෝග්‍ය ගෞරවය ලබා ගන්න.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
