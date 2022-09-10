@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -24,12 +24,12 @@ firefox-channel-all-languages-and-builds = Daran' nej nanj a'mi
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-beta-is-an-unstable-testing = Bêta sani 'ngo plataformâ hiaj arâj huè si ni gàchin nahuin hue'ej. Yi'ì dan Bêta a'nïn nuguan'an riña { -brand-name-mozilla } — ni da'aj nej dugui' ñûnj — rugûñu'unj nej si nagi'iaj sà' ñûnj sa huaa. <a href="{ $link }"> Gini'in si nuhuìn si yinga'</a>.
-firefox-channel-firefox-beta-automatically = Firefox Bêta ni a'nìn ma'an nuguan'an riña { -brand-name-mozilla }.
+firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ni a'nìn ma'an nuguan'an riña { -brand-name-mozilla }.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Gataj nuin si anin ruhuat</a> da' gi'iaj sun hue'e ma.
 firefox-channel-check-out-new-android-features = Ni'iaj daj 'iaj sun { -brand-name-android } diu na. Garasun ma daj garan' ruhuat.
-firefox-channel-nightly-blog = Blog ne' nîin
+firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } sani 'ngo plataformâ hìaj arâj huè si ni gàchin nahuin hue'ej. Yi'ì dan { -brand-name-nightly } a'nïn nuguan'an riña { -brand-name-mozilla } — ni da'aj nej dugui' ñûnj — rugûñu'unj nej si nagi'iaj sà' ñûnj sa huaa. <a href="{ $link }">Gini'in si nuhuìn si yinga'</a>.
