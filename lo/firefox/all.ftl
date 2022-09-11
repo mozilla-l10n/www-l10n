@@ -1,10 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-release-notes = ບັນທຶກປະຈຳລຸ້ນ
 firefox-all-source-code = ໂຄດຕົ້ນສະບັບ
 firefox-all-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫລືອບໍ?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
