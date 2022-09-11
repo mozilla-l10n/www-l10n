@@ -20,3 +20,4 @@ firefox-developer-debugger = නිදොස්කරණය
 firefox-developer-learn-more-about-debugger = ජාවාස්ක්‍රිප්ට් නිදොස්කරණය ගැන දැනගන්න
 firefox-developer-network = ජාලය
 firefox-developer-memory = මතකය
+firefox-developer-download-the-firefox-browser = සංවර්ධකයින් සඳහා තනන ලද { -brand-name-firefox } අතිරික්සුව බාගන්න
