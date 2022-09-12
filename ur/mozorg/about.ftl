@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,7 +22,7 @@ about-the-mozilla-manifesto = { -brand-name-mozilla } کا منشور
 about-the-principles-we-wrote-in = 1998 میں جو اصول ہم نے لکھے تھے اور  وہ آج بھی 2018  ہماری رہنمائی کرتے ہیں۔ میں ، ہم نے سب کو آن لائن کے لئے شمولیت ، رازداری اور حفاظت پر زور دینے کے لئے ایک ملحق پیدا کیا۔
 about-read-the-manifesto = منشور پڑھیں
 about-a-global-view = ایک عالمی منظر
-about-with-offices-all-over-the = <a href="{ $url } "> پوری دنیا میں دفاتر </a> کے ساتھ ، ہم انٹرنیٹ کو متعدد ثقافتوں اور سیاق و سباق سے ہی غور کرتے ہیں۔
+about-with-offices-all-over-the = <a href="{ $url }"> پوری دنیا میں دفاتر </a> کے ساتھ ، ہم انٹرنیٹ کو متعدد ثقافتوں اور سیاق و سباق سے ہی غور کرتے ہیں۔
 about-san-francisco = سان فرانسسکو
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong> 2000 </ strong> غیر ملازم مہمانوں کا ہر سال استقبال کیا جاتا ہے

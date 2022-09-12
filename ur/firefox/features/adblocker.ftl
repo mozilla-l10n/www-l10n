@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -18,5 +18,5 @@ features-adblocker-cover-your-trail-block = اپنی پگڈنڈی ، بلاک ٹ
 features-adblocker-speed-up-thanks-to-ad = اتیز رفتار ایڈ بلاکرز کا شکریہ
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = اگر آپ اشتہاری کو مسدود کرنے کے بارے میں مزید معلومات حاصل کرنا چاہتے ہیں تو ، { -brand-name-firefox } اور دیگر براؤزرز کے لئے سیکڑوں اشتہاری بلاکر ایکسٹینشن دستیاب ہیں۔ اگر { -brand-name-firefox } بلاکس کے اشتہاری بلآکرز کو استعمال کرنے کی کوشش کرنا چاہتے ہیں تو <a href="{ $url } "> ڈاؤن لوڈ کرنے کے لئے یہاں کلک کریں </a> ایک براؤزر جو جو رازداری کو پہلے رکھتا ہے۔
+features-adblocker-if-you-want-to-learn-more = اگر آپ اشتہاری کو مسدود کرنے کے بارے میں مزید معلومات حاصل کرنا چاہتے ہیں تو ، { -brand-name-firefox } اور دیگر براؤزرز کے لئے سیکڑوں اشتہاری بلاکر ایکسٹینشن دستیاب ہیں۔ اگر { -brand-name-firefox } بلاکس کے اشتہاری بلآکرز کو استعمال کرنے کی کوشش کرنا چاہتے ہیں تو <a href="{ $url }"> ڈاؤن لوڈ کرنے کے لئے یہاں کلک کریں </a> ایک براؤزر جو جو رازداری کو پہلے رکھتا ہے۔
 features-adblocker-take-control-of-your-browser = اپنے براؤزر کا کنٹرول حاصل کریں۔
