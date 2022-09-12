@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Pomagajte ustvarjati poslednji neodvisen
 firefox-developer-start-now = Začnite zdaj
 firefox-developer-design-code-test = Zasnujte. Programirajte. Preizkusite. Izpilite.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Ustvarite in izpopolnite svoje spletne strani<br> s Firefoxovimi orodji za razvijalce
+firefox-developer-build-and-perfect = Ustvarite in izpopolnite svoje spletne strani<br> s { -brand-name-firefox-devtools }
 firefox-developer-inspector = Pregledovalnik
 firefox-developer-inspect-and-refine = Pregledujte in izpilite kodo za do pike natančno postavitev.
 firefox-developer-learn-about-page-inspector = Več o pregledovalniku strani
@@ -73,7 +73,7 @@ firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-de
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } so opremljena s povsem novim urejevalnikom poti oblik, ki vam z intuitivnim vizualnim urejanjem prihrani ugibanje pri izpopolnjevanju oblik "shadow-outside" in "clip-path".
 firefox-developer-faster-innovation = Hitrejše informacije
 firefox-developer-fonts-panel = Plošča pisav
-firefox-developer-the-new-fonts-panel = Nova plošča pisav v razvojnih orodjih Firefoxa razvijalcem omogoča hiter dostop do vseh podatkov o pisavah, uporabljenih na izbranem elementu. Vključuje tudi podatke o viru pisave, teži, slogu in drugo.
+firefox-developer-the-new-fonts-panel = Nova plošča pisav v razvojnih orodjih { -brand-name-firefox-devtools } omogoča hiter dostop do vseh podatkov o pisavah, uporabljenih na izbranem elementu. Vključuje tudi podatke o viru pisave, teži, slogu in drugo.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } samodejno pošilja povratne informacije { -brand-name-mozilla(sklon: "dajalnik") }.
 firefox-developer-download-the-firefox-browser = Prenesite brskalnik { -brand-name-firefox }, ustvarjen za razvijalce
 firefox-developer-welcome-to-the-all-new = Dobrodošli v povsem nov { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
