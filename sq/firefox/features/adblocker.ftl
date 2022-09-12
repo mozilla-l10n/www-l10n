@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -14,7 +14,7 @@ features-adblocker-an-ad-blocker-is-a-piece = Një bllokues reklamash është nj
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-these-ads-might-be-loud = Këto reklama mund të jenë reklama video të zhurmshme, reklama që ju ndjekin nëpër internet, gjurmues, <em>cookie</em> palësh të treta, etj. Që të përdorni një bllokues reklamash, mund të kërkoni për shtesa bllokuesi reklamash të gatshme për shfletuesin tuaj. <a href="{ $firefox }">{ -brand-name-firefox }-i</a>, për shembull, ka <a href="{ $addons }">këtë listë shtesash të miratuara bllokuesish reklamash</a>. Klikoni në këtë listë (ose mbi bllokues reklamash që janë të miratuar për shfletuesin tuaj) dhe shihni se cili plotëson nevojat tuaja.
+features-adblocker-these-ads-might-be-loud = Këto reklama mund të jenë reklama video të zhurmshme, reklama që ju ndjekin nëpër internet, gjurmues, cookie palësh të treta, etj. Që të përdorni një bllokues reklamash, mund të kërkoni për shtesa bllokuesi reklamash të gatshme për shfletuesin tuaj. <a href="{ $firefox }">{ -brand-name-firefox }-i</a>, për shembull, ka <a href="{ $addons }">këtë listë shtesash të miratuara bllokuesish reklamash</a>. Klikoni në këtë listë (ose mbi bllokues reklamash që janë të miratuar për shfletuesin tuaj) dhe shihni se cili plotëson nevojat tuaja.
 features-adblocker-find-the-right-ad-blocker = Gjeni bllokuesin e duhur të reklamave për ju
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
