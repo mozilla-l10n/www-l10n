@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -40,7 +40,7 @@ firefox-accounts-get-the-respect-you = وہ عزت حاصل کریں جس کے �
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
-firefox-accounts-youll-always-get-the = آپ ہمیشہ ہم سے سچائی حاصل کریں گے۔ ہم جو کچھ بھی کرتے اور کرتے ہیں وہ ہمارے <a href="{ $promise } "> ذاتی ڈیٹا کا وعدہ </a>:
+firefox-accounts-youll-always-get-the = آپ ہمیشہ ہم سے سچائی حاصل کریں گے۔ ہم جو کچھ بھی کرتے اور کرتے ہیں وہ ہمارے <a href="{ $promise }"> ذاتی ڈیٹا کا وعدہ </a>:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = کم لیں۔ <br> اسے محفوظ رکھیں۔ <br> کوئی راز نہیں۔
 firefox-accounts-get-the-knowledge = اپنے آپ کو محفوظ رکھنے کے لئے علم حاصل کریں۔
