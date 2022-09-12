@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Hozir yuklab olish
 download-button-free-download = Bepul yuklab olish
@@ -27,8 +27,8 @@ download-button-get-firefox-android = { -brand-name-android } uchun "{ -brand-na
 download-button-get-firefox-ios = { -brand-name-ios }n uchun { -brand-name-firefox } brauzerini yuklab olish
 download-button-google-play = Uni "{ -brand-name-google-play }"dan bepul yuklab oling
 download-button-free-google-play = Uni "{ -brand-name-google-play }"dan bepul yuklab oling
-download-button-app-store = Ilovalar do‘konidan uni yuklab oling
-download-button-download-app-store = Ilovalar do‘konidan yuklab oling
+download-button-app-store = { -brand-name-app-store } uni yuklab oling
+download-button-download-app-store = { -brand-name-app-store } yuklab oling
 download-button-download-firefox = "{ -brand-name-firefox }"ni yuklab olish
 download-button-your-system-may = Tizimingiz { -brand-name-firefox } uchun talablarga javob bermaydi, ammo quyidagi versiyalarini sinab koʻrishingiz mumkin:
 download-button-firefox-beta-android = { -brand-name-android } uchun <span>{ -brand-name-firefox-beta }</span>
