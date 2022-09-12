@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = 2002 waate, <a href="{ $over90 }">a ga bisa 90% i
 history-not-many-people-noticed = Manti boro booboyaŋ ka woo laasaabu waatoo din, amma Phoenix dumi jinaa (maaɲoo barmay ka tee { -brand-name-firefox }) fatta { -brand-name-mozilla } jamaa kondayzey se nd'anniyaa ka borey no <a href="{ $charter }">ceeciyan goyyan kul išifantaa</a> boro hinnna kul ibeerooo se.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = Jiiri 2003 ra, { -brand-name-mozilla } porožewoo na { -brand-name-mozilla } sinjiyanoo kayandi, k'a tee <a href="{ $foundation }">bilan nd'arriba goykonday</a> kaŋ borey nda konpaɲeyaŋ g'i kanbe.
+history-in-2003-the-mozilla-project = Jiiri 2003 ra, { -brand-name-mozilla } porožewoo na { -brand-name-mozilla-foundation } kayandi, k'a tee <a href="{ $foundation }">bilan nd'arriba goykonday</a> kaŋ borey nda konpaɲeyaŋ g'i kanbe.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = Mozilla sinjiyan taagaa gaabandi ka porožewoo zaarikul dirandiroo juwal nd'a ga tee alhakum jinde k'a jer nda <a href="{ $manifesto }">feerayan, tejandiyan nda nafaw</a> interneti ra.
+history-the-new-mozilla-foundation = { -brand-name-mozilla-foundation } taagaa gaabandi ka porožewoo zaarikul dirandiroo juwal nd'a ga tee alhakum jinde k'a jer nda <a href="{ $manifesto }">feerayan, tejandiyan nda nafaw</a> interneti ra.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = A na woo tee ka gaabandi ka goyjinay kaataray, sanda { -brand-name-firefox } nda { -brand-name-thunderbird }, nda k'a hayandi ganda taagayaŋ ga, sanda ka <a href="{ $grants }">noorayaŋ</a> tee ka interneti duuyanoo faalandi ka tonton.

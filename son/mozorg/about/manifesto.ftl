@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -19,19 +19,6 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 manifesto-our-10-principles = Ir fondo<strong>10</strong>
-manifesto-use-open-badges-to-share = Open Badges ka war waanaa and nafawey bayrandi
-manifesto-learn-about-open-source = Caw aššil feerante ašariya ga alhabar margayan ra
-manifesto-see-how-mozilla-works = Dii taka kaŋ nda { -brand-name-mozilla } ga goy ka war sutura dam jine
-manifesto-read-about-developments = Caw koyjineyaney ga kaŋ tee sutura nda bayhay saajaw ra
-manifesto-learn-more-about-how-to = Bay ka tonton ka war boŋ jejebu interneti ra
-manifesto-add-new-voices-to-open = Wa jinde taagayaŋ tonton dabaribayray aššil feerante ga
-manifesto-set-your-do-not-track = Wa Ma ši ay gana ibaayoo kayandi
-manifesto-learn-how-to-remix-content = Guna taka kaŋ nda gundekuna ga birji k'itaagaa tee
-manifesto-participate-in-our-governance = Huru ir juwalyan batoo ra
-manifesto-join-us-as-a-volunteer = Huru ir faabakey ra
-manifesto-learn-how-to-collaborate = Bay taka kaŋ nda borey kul ga goy nda cere interneti ra
-manifesto-host-or-join-a-maker-party = Kaa { -brand-name-maker-party } batu ra wala m'affoo tee
-manifesto-learn-how-to-build-online = Bay taka kaŋ nda ceregaašikay ga sahãndi interneti ra
 manifesto-read-the-entire-manifesto = Ir anniya tiiraa kul caw
 manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } Bayrandoo
 manifesto-details-introduction = Šintin daara
@@ -40,11 +27,11 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } porožewo
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } porožewoo ti jama-gorante goymee kaŋ ga goyijinay aššil feerante šifante tee nda fondo taagayaŋ feeri kaŋ ra borey ga goy nda cere. Ir jamaayaŋ marga kaŋ kanbuzaama ti interneti goyyan ma boori ka tonton ir kul se.
 manifesto-details-as-a-result-of = Woodin ra, ir na fondayaŋ kayandi kaŋ ir ga tammahã i ga tabatandi kaŋ interneti ma gaabandi ka tee baytal ka borey nafa nda duura faalandi i se. Ir ga fondawey wey filla ne ganda.
 manifesto-details-the-goals-for = Bayrandiyanoo anniyawey ti:
-manifesto-details-articulate-a-vision = ka interneti honnandi kaŋ { -brand-name-mozilla } cereteekey ga boona { -brand-name-mozilla } sinjiyan kondaa ga durkutu ka too r'a;
+manifesto-details-articulate-a-vision = ka interneti honnandi kaŋ { -brand-name-mozilla } cereteekey ga boona { -brand-name-mozilla-foundation } kondaa ga durkutu ka too r'a;
 manifesto-details-speak-to-people = ka šelaŋ borey se wal'i goo nda ordinater waanay wal'i ši nd'a;
 manifesto-details-make-mozilla-contributors = ka too { -brand-name-mozilla } kanbuzaakey ma ɲaali nda woo kaŋ ir g'a tee nda ka duu bine ka gaabandi; nda
 manifesto-details-provide-a-framework = ka fondo feeri borey jerey se hala lakkaloo woo ma interneti ka koy nda jine.
-manifesto-details-these-principles = Fondawey wey ši kaa ka feera ngi boŋ se. Ir ga borey kaŋ ga goy k'internetoo feeri margayan goy se - boro fooyaŋ, borey kaŋ ga tee kondayyaŋ wala wakkiiliyaŋ jerey se. { -brand-name-mozilla } sinjiyanoo huzunoo ti fondawey kaŋ harandi { -brand-name-mozilla } bayrandoo ra ma diyandi. Ir boro tanayaŋ da cee i m'ir gana ka interneti tee nungu boryo ka tonton boro kul se.
+manifesto-details-these-principles = Fondawey wey ši kaa ka feera ngi boŋ se. Ir ga borey kaŋ ga goy k'internetoo feeri margayan goy se - boro fooyaŋ, borey kaŋ ga tee kondayyaŋ wala wakkiiliyaŋ jerey se. { -brand-name-mozilla-foundation } huzunoo ti fondawey kaŋ harandi { -brand-name-mozilla } bayrandoo ra ma diyandi. Ir boro tanayaŋ da cee i m'ir gana ka interneti tee nungu boryo ka tonton boro kul se.
 manifesto-details-principles = Fondawey
 manifesto-details-the-internet-is-integral = Interneti ti hõ zamanoo hunaroo binoo—a goo cawayandiyan, alhabar toonandiyan, marga goyyan, maamala, binekaanay nda jamaa kul misey game kaanaa ra.
 manifesto-details-the-internet-is-global = Interneti ti adduɲɲaa-mee baytal dalil kaŋ ga hima ka dumi ka feeri nda ka duwandi.
@@ -58,13 +45,13 @@ manifesto-details-commercial-involvement = Maamalkaw šettekašinaa ga nafaw bee
 manifesto-details-magnifying-the = Ir se alfayda beeri foo goo jamaa nafaw zanzanyanoo ra, a ga hima waatoo, lakkalloo nda durkutuyan kul.
 manifesto-details-advancing-the = Hala { -brand-name-mozilla } bayrandoo ma koy nda jine
 manifesto-details-there-are-many = Taka booboyaŋ goo no kaŋ nda { -brand-name-mozilla } bayrandoo fondawey ga hin ka koy jine. Ir ga boona goy dumiyan kaŋ ga waani, ir ga naata laasaabay henna follokaa ga kaŋ { -brand-name-mozilla } kanbedamkey n'a cebe porožewoo mise fooyaŋ ra. Borey kaŋ ši { -brand-name-mozilla } porožewoo gamoo ra da ga hin ka faaba { -brand-name-mozilla } bayrandoo jer, nd'i ga goy nda { -brand-name-mozilla } { -brand-name-firefox } wala goyjinay tanayaŋ kaŋ ga bayrandoo fondawey tabatandi.
-manifesto-details-mozilla-foundation = Mozilla sinjiyanoo meefur
-manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla } sinjiyanoo na meefur ka { -brand-name-mozilla } bayrandoo gaakašinay nga goymiɲey ra. Nda cimi, ir ga:
+manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } meefur
+manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } na meefur ka { -brand-name-mozilla } bayrandoo gaakašinay nga goymiɲey ra. Nda cimi, ir ga:
 manifesto-details-build-and-enable = aššil feerante dabaribayray nda kondawey marga nda i dam goy ra ka bayrandoo fondawey kayandi;
 manifesto-details-build-and-deliver = ka jinay nda daykey marga nd'i žemna ka bayrandoo fondawey kayandi;
 manifesto-details-use-the-mozilla = ka goy nda { -brand-name-mozilla } daliley (lakkal mayray sanda hantumkaw alhaku nda teekaw tammaasa, goyjinay, alman, darža) hala interneti ma cindi ka tee goydaari feerante;
 manifesto-details-promote-models = ka tee-dumey jer kaŋ goo nda maamala nafaw baytal alman se; nda
-manifesto-details-promote-the-mozilla = ka Mozilal bayrandoo fondawey zanzan batu šenney ra nda interneti goy teekey game.
-manifesto-details-some-foundation = Sinjiyanoo goyey jerey—sohõda jinay teeyan, žemnayan nda feeyan heboo se—{ -brand-name-mozilla-corporation }, konpaɲaa kaŋ Mozilla sinjiyanoo hunday g'a may no m'i tee.
+manifesto-details-promote-the-mozilla = ka { -brand-name-mozilla } bayrandoo fondawey zanzan batu šenney ra nda interneti goy teekey game.
+manifesto-details-some-foundation = Sinjiyanoo goyey jerey—sohõda jinay teeyan, žemnayan nda feeyan heboo se—{ -brand-name-mozilla-corporation }, konpaɲaa kaŋ { -brand-name-mozilla-foundation } hunday g'a may no m'i tee.
 manifesto-details-invitation = Kubayyan
-manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla } sinjiyanoo ka borey jerey kul cee ka kaa ir do, ka { -brand-name-mozilla } bayrandoo fondawey kayandi nda ka dabari taagayan wiri hala allaahidoo kaŋ ir n'a zaa interneti se ma tee cimi.
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } ka borey jerey kul cee ka kaa ir do, ka { -brand-name-mozilla } bayrandoo fondawey kayandi nda ka dabari taagayan wiri hala allaahidoo kaŋ ir n'a zaa interneti se ma tee cimi.
