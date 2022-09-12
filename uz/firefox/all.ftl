@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -22,17 +22,17 @@ firefox-all-64-bit-installers = 64 bitlik oʻrnatkichlar
 firefox-all-choose-a-64-bit-installer = 64 razryadlik protsessorli kompyuterlar uchun 64 bitlik oʻrnatkichni tanlang. Bu ayrim dasturlar uchun koʻproq operativ xotira ajratadi. Aynan turli kuchli ilova va oʻyinlar uchun juda muhim.
 firefox-all-32-bit-installers = 32 bitlik oʻrnatkich
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Firefox brauzerini ingliz (AQSh) va 90 dan ortiq boshqa tillarda yuklab olish mumkin
+firefox-all-download-the-firefox = { -brand-name-firefox-browser } ingliz (AQSh) va 90 dan ortiq boshqa tillarda yuklab olish mumkin
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Har qanday inson internetdan foydalanish huquqiga ega – boshqa tillarni bilmaslik bunga xalaqit bermasligi kerak, shuning uchun – butun dunyodagi koʻngilli volontyorlar yordamida – Firefox 90 dan ortiq tilga tarjima qilindi.
-firefox-all-choose-which-firefox = Ona tiingizda foydalanish uchun Firefox brauzerining kerakli versiyasini tanlang
+firefox-all-everyone-deserves-access = Har qanday inson internetdan foydalanish huquqiga ega – boshqa tillarni bilmaslik bunga xalaqit bermasligi kerak, shuning uchun – butun dunyodagi koʻngilli volontyorlar yordamida – { -brand-name-firefox-browser } 90 dan ortiq tilga tarjima qilindi.
+firefox-all-choose-which-firefox = Ona tiingizda foydalanish uchun { -brand-name-firefox-browser } kerakli versiyasini tanlang
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } maxfiylik eslatmalari
 firefox-all-learn-about-firefox = { -brand-name-firefox } brauzerlari haqida batafsil
 firefox-all-the-standard-firefox = Standart { -brand-name-firefox } brauzeri – tez va xavfsiz. Qaysi birini tanlashga ikkilanayotgan boʻlsangiz, buni tanlang.
 firefox-all-get-a-sneak-peek-at = { -brand-name-firefox } brauzerini chiqishi oldidan uning oxirgi funksiyalari bilan tanishib chiqing.
 firefox-all-test-your-sites-against = Saytlaringizni tez kunlarda chiqadigan { -brand-name-firefox } funksiyalari bilan mosligini tekshirib koʻring. Bu funksiyalarga kuchli va moslashuvchan DevTools kiritilgan.
 firefox-all-count-on-stability-and = Bu korporativ { -brand-name-firefox } brauzeridan foydalanishning osonligi va uning barqarorligiga ishonch hosil qiling.
-firefox-all-windows-installers-for = AKTga asoslangan korporativ kompaniylar uchun Windows oʻrnatkichlari Firefox bilan boshqarish va sozlashni osonlashtiradi.
+firefox-all-windows-installers-for = AKTga asoslangan korporativ kompaniylar uchun Windows oʻrnatkichlari { -brand-name-firefox-browser } bilan boshqarish va sozlashni osonlashtiradi.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 bit razryadli protsessorli yoki eski va kuchsiz kompyuterlar uchun 32 bitlik oʻrnatkichni tanlang. 64 yoki 32 bitlik oʻrnatkichdan birini <a href="{ $url }">tanlashga ikkilanayotgan boʻlsangiz,</a> 32 bitlikni tanlashni tavsiya qilamiz.

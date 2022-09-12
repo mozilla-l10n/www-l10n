@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -19,19 +19,6 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 manifesto-our-10-principles = <strong>Bizning 10</strong>ta tamoyilimiz
-manifesto-use-open-badges-to-share = Bilimlaringiz va qiziqishlaringizni bo‘lishish uchun "Open Badges"dan foydalaning
-manifesto-learn-about-open-source = Jurnalistikada ochiq manbali kod haqida o‘rganing
-manifesto-see-how-mozilla-works = { -brand-name-mozilla }’ning qanday qilib sizning xavfsizligingizni birinchi o‘ringa qo‘yib ishlashini ko‘ring
-manifesto-read-about-developments = Maxfiylik va ma’lumotlar xavfsizligini rivojlantirish haqida o‘qing
-manifesto-learn-more-about-how-to = Onlayn holatda o‘zingizni qanday qilib himoya qilishingiz mumkinligini o‘rganing
-manifesto-add-new-voices-to-open = Ochiq kodli texnologiyaga yangi ovozlarni qo‘shing
-manifesto-set-your-do-not-track = "Kuzatilmasin" xususiyatlarini moslang
-manifesto-learn-how-to-remix-content = Biror yangi narsa yaratish uchun tarkibni qanday aralashtirishni o‘rganing
-manifesto-participate-in-our-governance = Bizning boshqaruv bo‘yicha forumimizda ishtirok eting
-manifesto-join-us-as-a-volunteer = Bizga ko‘ngilli sifatida qo‘shiling
-manifesto-learn-how-to-collaborate = Qanday qilib onlaynda hamkorlik qilishni o‘rganing
-manifesto-host-or-join-a-maker-party = { -brand-name-maker-party } o‘tkazing yoki qo‘shiling
-manifesto-learn-how-to-build-online = Onlayn hamkorlikni tuzish bilimlarini o‘rganish
 manifesto-read-the-entire-manifesto = Butun manfestni o‘qib chiqish
 manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } manifesti
 manifesto-details-introduction = Ko‘rsatma
@@ -65,6 +52,6 @@ manifesto-details-build-and-deliver = Manifest’ning tamoyillarini qo‘llab-qu
 manifesto-details-use-the-mozilla = { -brand-name-mozilla } mulklar (mualliflik huquqi va savdo belgilari, infrastruktura, fondlar va reputatsiya kab intellektual boyliklar)dan internetni ochiq platforma sifatida asrash uchun foydalanamiz;
 manifesto-details-promote-models = omma foydasi uchun iqtisodiy qiymat yaratish uchun modellarga ko‘mak beramiz; va
 manifesto-details-promote-the-mozilla = Internet industuriyasi ichida { -brand-name-mozilla } manifesti tamoyillarini ijtimoiy diskursiyasida ovoz beramiz.
-manifesto-details-some-foundation = Ba’zi Foundation faoliyatlari—joriy yaratish, yetkazib berish va ist’molchi mahsulotlarini qo‘llab-quvvatlash—{ -brand-name-mozilla-foundation }’ning asosiy bugun egalik qilgan filiali, Mozilla Korporatsiyasi orqali boshqariladi.
+manifesto-details-some-foundation = Ba’zi Foundation faoliyatlari—joriy yaratish, yetkazib berish va ist’molchi mahsulotlarini qo‘llab-quvvatlash—{ -brand-name-mozilla-foundation }’ning asosiy bugun egalik qilgan filiali, { -brand-name-mozilla-corporation } orqali boshqariladi.
 manifesto-details-invitation = Taklif
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } bizga qo‘shilishi uchun va internetning ushbu ko‘rinishini amalga oshirishning yangi yo‘llarini topuvchi { -brand-name-mozilla } manifesti tamoyillarini qo‘llab-quvvatlovchi barcha boshqalarni taklif qiladi.
