@@ -1,12 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet foyda ko‘rish uchun emas – u insonlar uchun
-home-did-you-know-mozilla-the-maker = Bilasizmi? { -brand-name-mozilla } kompaniyasi internetni ommaga ochiq qilish va barcha uchun qulaylashtirish maqsadida harakat qiladi.
 home-our-impact = Faoliyatimiz
 home-working-at-the-grassroots-and = Barcha uchun internetni ochiq, xavfsiz va oson qilish uchun ishlaymiz. Veb bo‘yicha savodingizni oshiramiz. Turli dastulash asboblari bilan ta’minlaymiz va internetni ochiq global manba deb hisoblovhi har bir kishini himoya qilamiz.
 home-read-our-internet-health-report = Internet sog‘ligi haqidagi hisobotimiz bilan tanishing
