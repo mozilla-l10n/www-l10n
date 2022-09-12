@@ -20,3 +20,4 @@ ui-show-less = අඩුවෙන් පෙන්වන්න
 ui-show-all = සියල්ල පෙන්වන්න
 ui-hide-all = සියල්ල සඟවන්න
 ui-learn-more = තව දැනගන්න
+ui-view = බලන්න
