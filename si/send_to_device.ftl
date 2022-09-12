@@ -8,5 +8,6 @@ send-to-device-please-enter-an-email = වි-තැපැල් ලිපින
 send-to-device-an-error-occured = අපගේ පද්ධතියෙහි දෝෂයක් මතු විය. නැවත උත්සහ කරන්න.
 send-to-device-enter-your-email = වි-තැපෑල යොදන්න
 send-to-device-send = යවන්න
+send-to-device-intended-recipient-email = අනුදත් පුද්ගලයෙක්ට වි-තැපෑල ලැබීමට අදහස් කළ යුතුය.
 send-to-device-check-your-device-email = ඔබගේ උපාංගයෙහි වි-තැපෑල බලන්න!
 send-to-device-send-to-another = අන් උපාංගයකට යවන්න

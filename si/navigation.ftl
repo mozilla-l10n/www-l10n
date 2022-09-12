@@ -29,18 +29,31 @@ navigation-get-together = මෙම මාර්ගගත සමාජ අවක
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } මිශ්‍ර යථාර්ථය
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-firefox-built-just-for = { -brand-name-firefox }, සංවර්ධකයින් සඳහා තනන ලදි.
+navigation-firefox-playground = { -brand-name-firefox } ක්‍රීඩා පිටිය
+navigation-mozilla-open-source-support = { -brand-name-mozilla } විවෘත මූලාශ්‍ර සහාය (MOSS)
 navigation-mozilla-manifesto = { -brand-name-mozilla } ප්‍රකාශනය
 navigation-menu = වට්ටෝරුව
+navigation-check-out-the-benefits = ප්‍රතිලාභ බලන්න
 navigation-browsers = අතිරික්සු
+navigation-close-browsers-menu = අතිරික්සු වට්ටෝරුව වසන්න
 navigation-download = බාගන්න
 navigation-extensions = දිගු
 navigation-support = සහාය
+navigation-privacy = රහස්‍යතාව
 navigation-see-if-your-personal = පෞද්ගලික තොරතුරු මාර්ගගතව කාන්දු වී ඇත්දැයි බලන්න, සහ ඉදිරි උල්ලංඝන ඇඟවීම් සඳහා ලියාපදිංචි වන්න.
+navigation-check-for-breaches = උල්ලංඝන පරීක්‍ෂා කරන්න
+navigation-see-breaches = උල්ලංඝන බලන්න
+navigation-security-tips = ආරක්‍ෂණ ඉඟි
 navigation-save-quality-content = ගුණාත්‍ව අන්තර්ගත සුරකින්න. ඔබගේ මනසට ඉන්ධන සපයන්න.
 navigation-sign-up = ලියාපදිංචිය
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: වේගවත්. සරල. පෞද්ගලික.
 navigation-protect-your-entire-device = ඔබගේ උපාංගය සහ සියළුම යෙදුම් ආරක්‍ෂා කර ගන්න. සැබෑ ස්ථානය වසන් කරන්න, උපාංග 5 ක් දක්වා සම්බන්ධ කර ගැනීමට දැන්ම දායක වන්න.
+# Outdated string
+navigation-connected-and-protected = රැකවරණය සහිතව සම්බන්ධිතයි
 navigation-join = එක්වන්න
 navigation-sign-in = පිවිසෙන්න
+navigation-benefits = ප්‍රතිලාභ
 navigation-about = පිළිබඳව
 navigation-new-features = නව විශේෂාංග
 # Outdated string
