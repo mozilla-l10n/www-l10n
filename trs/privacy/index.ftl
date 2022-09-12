@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = Sa huā huì 'iaj { -brand-name-mozilla }
@@ -22,11 +22,11 @@ privacy-index-transparency-report = Nuguan' a'min rayi'î sun huā nikā
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = 'Ngō sa da'ui gā ni'nïnj riña daran' guìi huin si sūn ñûnj nī, { -brand-name-mozilla } ga'ue natà' dàj hua riña daran' sa 'iaj sun ngàj. Huā ni'nïnj nī ga'ue natsít riña nej si kodigô ñûnj. Huā ni'nïnj riña sun huā akuan' nïn. Nuguan' <a href="{ $report }">naga'ui' ñûnj</a> da' guatàn' ahuii nadigân si 'iaj sun hue'ê ñûnj.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Da' ga'ue natsít y narikīt 'ngō si nuguàn't rayi'î nej chrēj nikò' ñûnj 'iaj sun ñûnj, <a href="{ $group }"> gutà' si yuguît riña yi'nïn' a'nïn' riña { -brand-name-mozilla }</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Gahiā doj rayi'î si sūn ñûnj dàj tna'uej ñûnj rayi'ît riña <a href="{ $blog }">Blog 'na' si nuguàn' { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Chrēj ganikò' ñûnj nī nitāj si ni'ñan ngà'
-privacy-index-mozilla-websites-communications = Nej si sitiô { -brand-name-mozilla }, Nuguan' yinga'a &amp; nej kôki
+privacy-index-mozilla-websites-communications = Nej si sitiô { -brand-name-mozilla }, Nuguan' yinga'a & nej kôki
 privacy-index-firefox-fire-tv = { -brand-name-firefox } guendâ { -brand-name-fire-tv }
