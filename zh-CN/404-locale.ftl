@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/404-locale/
 
+not-found-locale-desc = 选择您所在的国家或地区来确定您的首选语言。
 not-found-locale-not-yet-translated = 页面尚未翻译
 # Variables:
 #   $community (url) - link to https://community.mozilla.org/activities/localize-mozilla/

@@ -6,6 +6,19 @@
 ### URL: https://www-dev.allizom.org/about/this-site/
 
 about-this-site-title = 关于本站
+about-this-site-desc = 关于 www.mozilla.org 及构建本网站所用到的开源工具。
+# Variables:
+#   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
+#   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+about-this-site-this-website = www.mozilla.org 上线于互联网的开端时期，迄今已逾二十年。www.mozilla.org 根植于开源运动，见证了 <a href="{ $coderush }">{ -brand-name-mozilla } 的诞生</a>，无愧为 Web 的基石。
+# Variables:
+#   $firefox (url) link to https://www.mozilla.org/firefox/new/
+#   $vpn (url) link to https://www.mozilla.org/products/vpn/
+#   $mozilla (url) link to https://www.mozilla.org/about/
+#   $book (url) link to https://www.mozilla.org/book/
+#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+about-this-site-today = 如今，本站已转变成人们下载 <a href="{ $firefox }">{ -brand-name-firefox }</a>、尝试 <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>，以及了解<a href="{ $mozilla }">关于 { -brand-name-mozilla }</a> 的更多消息的地方。你或许可以在这里找到一些我们留下的彩蛋。
+about-this-site-like-many = 正如我们的其他产品一样，本站同样属于开源项目：
 about-this-site-view-source = 到 { -brand-name-github } 查看源代码
 about-this-site-report-a-bug = 报告缺陷（Bug）
 about-this-site-contribute-to-code = 贡献代码
@@ -19,3 +32,6 @@ about-this-site-mozilla-protocol = { -brand-name-mozilla } 的 <a href="{ $proto
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = { -brand-name-mozilla } 的 <a href="{ $fluent }">Fluent</a> 本地化系统，用于语言翻译。
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = 谨向所有帮助我们缔造更美好互联网天地的 { -brand-name-mozilla } <a href="{ $credits }">贡献者致以真挚的感谢。
