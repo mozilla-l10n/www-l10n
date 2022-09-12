@@ -10,4 +10,4 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } ali { -brand-n
 # HTML page description
 compare-ie-compare-internet-explorer-to = Primerjajte brskalnik { -brand-name-ie } z { -brand-name-firefox-browser(sklon: "orodnik") } in ugotovite, kateri je boljši za vas.
 # Main title
-compare-ie-comparing-firefox-browser-with = Primerjava brskalnikov { -brand-name-firefox } in { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-comparing-firefox-browser-with = Primerjava { -brand-name-firefox-browser } in { -brand-name-microsoft } { -brand-name-ie }

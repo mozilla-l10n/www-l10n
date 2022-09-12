@@ -10,4 +10,4 @@ compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } ali { -brand-n
 # HTML page description
 compare-opera-compare-opera-to-the-firefox = Primerjajte brskalnik { -brand-name-opera } z { -brand-name-firefox-browser(sklon: "orodnik") } in ugotovite, kateri je boljši za vas.
 # Main title
-compare-opera-comparing-firefox-browser = Primerjava brskalnikov { -brand-name-firefox } in { -brand-name-opera }
+compare-opera-comparing-firefox-browser = Primerjava { -brand-name-firefox-browser } in { -brand-name-opera }

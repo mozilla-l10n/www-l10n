@@ -50,6 +50,6 @@ about-get-involved = Pridružite se
 
 ## Newsletter
 
-about-get-the-mozilla-newsletter = Naročite se na Mozilline novice
+about-get-the-mozilla-newsletter = Naročite se na { -brand-name-mozilla } novice
 about-stay-informed-about-the-issues = Ostanite na tekočem s težavami, s katerimi se sooča internet, in izvedite, kako lahko pripomorete k zaščiti najnovejšega svetovnega javnega vira.
 about-subscribe = Naroči se

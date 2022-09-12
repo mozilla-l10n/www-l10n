@@ -10,4 +10,4 @@ compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } ali { -br
 # HTML page description.
 compare-edge-compare-microsoft-edge-to-the = Primerjajte { -brand-name-microsoft } { -brand-name-edge } z { -brand-name-firefox-browser(sklon: "orodnik") } in ugotovite, kateri je boljši brskalnik za vas.
 # Main title.
-compare-edge-comparing-firefox-browser-with = Primerjava brskalnikov { -brand-name-firefox } in { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-comparing-firefox-browser-with = Primerjava { -brand-name-firefox-browser } in { -brand-name-microsoft } { -brand-name-edge }

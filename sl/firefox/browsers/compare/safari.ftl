@@ -10,4 +10,4 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } ali { -brand
 # HTML page description.
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari } je vnaprej nameščeni brskalnik v sistemu { -brand-name-mac } in na napravah { -brand-name-iphone }. Primerjajte { -brand-name-safari } z { -brand-name-firefox-browser(sklon: "orodnik") } in ugotovite, kateri je boljši brskalnik za vas.
 # Main title.
-compare-safari-comparing-firefox-browser = Primerjava brskalnikov { -brand-name-firefox } in { -brand-name-apple } { -brand-name-safari }
+compare-safari-comparing-firefox-browser = Primerjava { -brand-name-firefox-browser } in { -brand-name-apple } { -brand-name-safari }

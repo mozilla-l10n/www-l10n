@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -54,34 +54,9 @@ manifesto-an-internet-with-these = Internet s takšnimi lastnostmi ne bo zažive
 manifesto-i-support-the-vision-of = Podpiram vizijo boljšega, zdravega interneta z @mozilla – ste z mano?
 manifesto-share-on-twitter = Delite na { -brand-name-twitter }ju
 manifesto-our-10-principles = <strong>Naših 10</strong> načel
-manifesto-use-open-badges-to-share = Predstavitev svoja znanja in zanimanja s pomočjo Open Badges
-manifesto-explore-how-the-web-impacts = Odkrijte, kako splet vpliva na znanost
-manifesto-learn-about-open-source = Spoznajte pomen odprte kode v novinarstvu
-manifesto-read-about-open-internet = Preberite prispevke o politiki in razvoju odprtega interneta
-manifesto-explore-how-to-help-keep = Odkrijte, kako lahko pomagate splet ohraniti odprt
-manifesto-see-how-the-web-can-connect = Oglejte si, kako lahko splet pomaga svetu na področju zdravstva
-manifesto-explore-how-the-web-works = Odkrijte, kako deluje splet
-manifesto-see-how-mozilla-works = Oglejte si, kako si { -brand-name-mozilla } prizadeva za več zasebnosti
-manifesto-read-about-developments = Preberite več o razvoju na področju varnosti in zasebnosti podatkov
-manifesto-learn-more-about-how-to = Spoznajte, kako se lahko zaščitite na spletu
-manifesto-use-these-free-tools-to = Uporabite brezplačna orodja za poučevanje spleta
-manifesto-learn-about-creating-and = Naučite se ustvarjati in predstavljati vsebino na spletu
-manifesto-add-new-voices-to-open = Dodajte nove glasove odprtokodni tehnologiji
-manifesto-set-your-do-not-track = Nastavitve sledenja
-manifesto-understand-the-web-ecosystem = Spoznajte spletni ekosistem
-manifesto-explore-how-open-practices = Odkrijte, kako je splet dostopen s pomočjo odprtih načel
-manifesto-learn-how-to-remix-content = Naučite se ustvarjanja novih vsebin z mešanjem obstoječih
-manifesto-learn-how-to-maximize = Naučite se izkoristiti interaktivno moč spleta
-manifesto-participate-in-our-governance = Sodelujte v našem vodstvenem forumu
-manifesto-join-us-as-a-volunteer = Pridružite se nam kot prostovoljec
-manifesto-learn-how-to-collaborate = Naučite se sodelovati na spletu
-manifesto-visualize-who-you-interact = Vizualizacija vaših stikov na spletu z orodjem { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Naučite se ustvarjati spletne vire z drugimi
-manifesto-host-or-join-a-maker-party = Priredite ali sodelujte na delavnici { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Naučite se razvijati znanja za sodelovanje na spletu
 manifesto-read-the-entire-manifesto = Preberite celoten manifest
 manifesto-love-the-web = Imate radi splet?
-manifesto-get-the-mozilla-newsletter = Naročite se na Mozilline novice in nam ga pomagajte ohraniti odprtega in prostega.
+manifesto-get-the-mozilla-newsletter = Naročite se na { -brand-name-mozilla } novice in nam ga pomagajte ohraniti odprtega in prostega.
 manifesto-details-the-mozilla-manifesto = Manifest { -brand-name-mozilla(sklon: "rodilnik") }
 manifesto-details-introduction = Uvod
 manifesto-details-the-internet-is-becoming = Internet igra v naših življenjih iz dneva v dan pomembnejšo vlogo.

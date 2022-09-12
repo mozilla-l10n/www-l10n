@@ -20,11 +20,11 @@ firefox-browsers-download-for-mobile = Prenesite za mobilne naprave
 firefox-browsers-send-me-a-link = Pošlji mi povezavo
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Zagotovite si neprekosljivo zaščito podatkov s pomočjo podpore, ki je prilagojena potrebam vašega podjetja.
-firefox-browsers-enterprise-packages = Paketi za podjetja
+firefox-browsers-enterprise-packages = Paketi za { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Zapustite dvodimenzionalen svet in uživajte v najboljših virtualnih spletnih vsebinah.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-build-sites-and-refine-your = Ustvarite spletna mesta in izpopolnite svojo kodo s { -brand-name-firefox }ovimi <strong>razvojnimi orodji</strong>
+firefox-browsers-build-sites-and-refine-your = Ustvarite spletna mesta in izpopolnite svojo kodo s { -brand-name-firefox }ovimi <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Spoznajte { -brand-name-devtools(sklon: "tozilnik") }
 firefox-browsers-join-firefox-and-get-the-most = Pridružite se { -brand-name-firefox }u in kar najbolje izkoristite vsak izdelek – na vseh napravah.
 # Variables:
