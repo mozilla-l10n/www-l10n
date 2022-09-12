@@ -31,7 +31,7 @@ features-fingerprinting-the-practice-of = 就算您清除掉瀏覽器的儲存�
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = 最新版的 { -brand-name-firefox } 瀏覽器會封鎖對已知會進行數位指紋追蹤的公司的第三方連線請求，來保護您不受追蹤。我們花了一番功夫才讓您在開啟這道保護的同時，不搞壞您喜愛的網站。（若您想要更多<a { $url_details }>技術細節</a>，請閱讀此文。）
 # $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
-features-fingerprinting-and-its-not = 這也不是一個要在設定畫面繞來繞去才能找到的設定。在最新版的 { -brand-name-firefox } 瀏覽器當中會預設封鎖數位指紋追蹤。可到<a { $url_protections }</a>隱私權保護資訊儀錶板</a>來看您平常在網頁背後是如何被追蹤的，以及 { -brand-name-firefox } 如何保護您。
+features-fingerprinting-and-its-not = 這也不是一個要在設定畫面繞來繞去才能找到的設定。在最新版的 { -brand-name-firefox } 瀏覽器當中會預設封鎖數位指紋追蹤。可到<a { $url_protections }>隱私權保護資訊儀錶板</a>來看您平常在網頁背後是如何被追蹤的，以及 { -brand-name-firefox } 如何保護您。
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = 您大概不會喜歡在現實生活中被任何人監控一舉一動，在線上世界當然也不例外。若您還沒安裝 { -brand-name-firefox }，<a { $url_download }>快來安裝使用，並且保護自己</a>不備進行數位指紋追蹤。
 features-fingerprinting-protect = 保護您的隱私
