@@ -24,6 +24,13 @@ firefox-new-need-help = උදව් වුවමනා ද?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">තවදුරටත් { -brand-name-windows } { -brand-name-xp } හෝ { -brand-name-vista } සඳහා ආරක්‍ෂණ යාවත්කාල ලබා නොදේ, නමුත් ඔබට තවමත් { -brand-name-firefox } භාවිතා කළ හැකිය.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-youre-using-an-insecure-outdated = ඔබ භාවිතා කරන්නේ <a href="{ $url }">තවදුරටත් { -brand-name-firefox } සහාය නොදක්වන</a> අනාරක්‍ෂිත, යල් පැන ගිය මෙහෙයුම් පද්ධතියකි.
+# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = ඔබගේ බාගැනීම ස්වයංක්‍රීයව ආරම්භ විය යුතුය. නැද්ද? <a id="{ $id }" href="{ $fallback_url }">යළි උත්සාහ කරන්න.</a>
