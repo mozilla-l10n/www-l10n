@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
 data-preferences-current-preference = Trenutna nastavitev:
+data-preferences-please-enable-javascript = Za upravljanje nastavitve podatkov omogočite JavaScript.

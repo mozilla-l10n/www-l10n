@@ -10,6 +10,8 @@ misinformation-page-title = Izogibajte se napačnim informacijam na spletu – {
 misinformation-page-desc = Napačne informacije so nadležne, moteče in lahko drago stanejo. { -brand-name-firefox } vam ponuja nekaj nasvetov, kako se neresničnim informacijam izogniti in jim biti med brskanjem po spletu čim manj izpostavljeni.
 misinformation-page-subheading = Oglejte si nasvete, kako se izogniti napačnim informacijam in se osredotočiti na tisto, kar vam je pomembno
 misinformation-what-is-heading = Kaj je napačna informacija? Kaj je lažna informacija?
+misinformation-disinformation = Napačne informacije, lažne informacije – ta izraza ste po vsej verjetnosti že slišali. Razlika med njima je v nameri: napačna informacija je katerakoli neresnična informacija, ki ji ljudje lahko nasedejo. Dokazljivo ne drži ali je zavajajoča, vendar ni bila ustvarjena ali razširjena z namero zavajanja ljudi. Po drugi strani se lažne informacije izmišljujejo in širijo z namenom dezinformiranja in dosege določenega cilja.
+misinformation-ultimately-harmful = Na koncu koncev lahko tako napačne kot lažne informacije povzročijo škodo. Ne le da ljudje verjamejo neresničnim informacijam, temveč le-te drago stanejo tudi svetovno gospodarstvo in lahko ogrozijo demokracijo ter učinkovito vodenje države. Poleg tega jih je težko zajeziti, saj se lažne novice širijo znatno hitreje, izraziteje in širše kot resnične.
 misinformation-false-info-heading = Kje se prikazujejo neresnične informacije?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
