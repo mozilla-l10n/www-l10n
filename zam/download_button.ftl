@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = b-lày nál
 download-button-free-download = B-lày
@@ -24,7 +24,6 @@ download-button-free-google-play = b-lày lent { -brand-name-google-play }
 download-button-app-store = Bláy lent { -brand-name-app-store }
 download-button-download-app-store = b-lày létn { -brand-name-app-store }
 download-button-download-firefox = b-là { -brand-name-firefox }
-download-button-your-system-may = Thís na gadt lá=lí ták tób lú kúe:
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> lént { -brand-name-android }
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> lént { -brand-name-android }
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> len? { -brand-name-android }
