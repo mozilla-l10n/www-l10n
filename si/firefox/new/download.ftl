@@ -9,12 +9,15 @@
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } බාගන්න
+firefox-new-download-the-fastest-firefox = මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-get-the-latest-firefox = නවතම { -brand-name-firefox } අතිරික්සුව ගන්න.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-windows } සඳහා <br>{ -brand-name-firefox } බාගන්න
 firefox-new-download-firefox-for-macos = { -brand-name-mac } සඳහා <br>{ -brand-name-firefox } බාගන්න
 firefox-new-download-firefox-for-linux = { -brand-name-linux } සඳහා <br>{ -brand-name-firefox } බාගන්න
+firefox-new-free-web-browser = නොමිලේ අතිරික්සුවකි
+firefox-new-advanced-install-options = වැඩිදුර ස්ථාපන විකල්ප සහ වෙනත් වේදිකා
 firefox-new-download-in-another-language = වෙනත් භාෂාවකින් බාගන්න
 firefox-new-need-help = උදව් වුවමනා ද?
 
