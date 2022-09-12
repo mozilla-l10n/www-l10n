@@ -10,7 +10,7 @@ newsletter-form-text = Matn
 newsletter-form-get-firefox-news = { -brand-name-firefox } yangiliklaridan xabardor bo‘lib turing
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = <a href="{ $url }">Maxfiylik siyosati</a>da tushuntirilganidek ma’lumotlarimdan foydalanishlariga roziman
+newsletter-form-im-okay-with-mozilla = Ushbu <a href='%(url)s'> maxfiylik toʻgʻrisidagi bildirishnomada </a> tushuntirilganidek, { -brand-name-mozilla } mening maʼlumotlarim bilan ishlashiga roziman.
 newsletter-form-we-will-only-send = Biz sizga faqatgina "{ -brand-name-mozilla }"ga aloqador ma’lumotlarni jo‘natib turamiz.
 newsletter-form-if-you-havent-previously = Ilgari { -brand-name-mozilla }ga aloqador obunani tasdiqlamagan bo‘lsangiz, shunda davom etishingiz mumkin. E-pochtangizdagi "Kiruvchi xatlar" yoki "Spam" jildini tekshirib ko‘ring.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Siz
