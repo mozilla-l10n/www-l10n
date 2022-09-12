@@ -19,6 +19,7 @@ firefox-all-64-bit-installers = ຕົວຕິດຕັ້ງ 64 ບິດ
 firefox-all-32-bit-installers = ຕົວຕິດຕັ້ງ 32 ບິດ
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = ດາວໂຫລດບຣາວເຊີ Firefox ເປັນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ພາສາອື່ນໆຫລາຍກວ່າ 90 ພາສາ
+firefox-all-product-send-link = ສົ່ງລິ້ງດາວໂຫລດໄປຫາໂທລະສັບຂອງທ່ານ
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
@@ -37,3 +38,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }

@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/404-locale/
 
 not-found-locale-not-yet-translated = ຍັງບໍ່ແປເທື່ອ
+not-found-locale-available = ມັນມີຢູ່ໃນພາສາຕໍ່ໄປນີ້:

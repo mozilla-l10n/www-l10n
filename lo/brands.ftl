@@ -74,6 +74,7 @@
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-os = Firefox OS
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
 

@@ -9,3 +9,9 @@ not-found-page-not-found-page-page-not-found = 404: ບໍ່ເຫັນໜ້�
 not-found-page-sorry-we-cant-find-that-page = ຂໍອະໄພ, ພວກເຮົາບໍ່ສາມາດຊອກຫາໜ້ານັ້ນໄດ້
 not-found-page-were-all-about-a-healthy-internet = { "" }
 not-found-page-go-back = ກັບຄືນ
+# Variables:
+#   $about (url) - link to https://www.mozilla.org/about/
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">ຮຽນຮູ້</a> ກ່ຽວກັບ { -brand-name-mozilla }, ທີ່ບໍ່ຫວັງຜົນກໍາໄລທີ່ຢູ່ເບື້ອງຫຼັງ { -brand-name-firefox }.
+# Variables:
+#   $explore (url) - link to https://www.mozilla.org/firefox/
+not-found-page-explore-the-entire-family-for = <a href={ $explore }>ສຳຫຼວດ</a> ຄອບຄົວທັງໝົດສຳລັບຜະລິດຕະພັນຂອງ { -brand-name-firefox } ທີ່ອອກແບບມາເພື່ອເຄົາລົບຄວາມເປັນສ່ວນຕົວຂອງທ່ານ.

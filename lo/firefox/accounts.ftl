@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -18,10 +18,14 @@ firefox-accounts-join-firefox = ເຂົ້າຮ່ວມ { -brand-name-firefo
 firefox-accounts-enter-your-email-address = ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານເພື່ອເລີ່ມຕົ້ນ.
 firefox-accounts-already-have-an-account = ມີບັນຊີແລ້ວບໍ່?
 firefox-accounts-sign-in = ລົງຊື່ເຂົ້າໃຊ້
+# "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
+firefox-accounts-help-us-keep-big-tech = ຊ່ວຍພວກເຮົາຮັກສາ Big Tech ໃນການກວດສອບ.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-body-extra = ເຈົ້າສາມາດບໍລິຈາກມື້ນີ້ໄດ້ບໍ?
 banner-fundraising-monthly = ລາຍເດືອນ
 banner-fundraising-one-time = ຄັ້ງດຽວ
 banner-fundraising-donate = ບໍລິຈາກ
