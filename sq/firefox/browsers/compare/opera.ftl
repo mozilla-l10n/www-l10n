@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
@@ -20,7 +20,7 @@ compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Rregullat mbi privatës
 compare-opera-as-far-as-actual-privacy-protections = Sa për mbrojtje faktike të privatësisë në shfletuesin { -brand-name-opera }, ofrohet një mënyrë e fuqishme Private, që ju lejon të shfletoni në internet pa u gjurmuar veprimtaria juaj nga shfletuesi. Edhe nën mënyrën shfletim normal mundeni të çaktivizoni disa veçori grumbullimi të dhënash, duke rrëmuar nëpër rregullimet që të çaktivizoni bllokuesin e reklamave dhe të administroni veçori të tjera sigurie.
 # Variables:
 #   $attrs (string) - link to https://blog.mozilla.org/blog/2019/09/03/todays-firefox-blocks-third-party-tracking-cookies-and-cryptomining-by-default/ with additional attributes for analytics
-compare-opera-with-the-latest-version-of = Me versionin më të ri të { -brand-name-firefox }-it, <a { $attrs }>Mbrojtja e Thelluar Nga Gjurmimi</a> është e aktivizuar, si parazgjedhje, në mënyrën e shfletimit normal, ndaj nuk ju duhet të ngatërroheni nëpër rregullime thjesht për të mbrojtur veten nga gjurmues. Me Mbrojtjen e Thelluar Nga Gjurmimi, { -brand-name-firefox }-i bllokon aktivisht mijëra gjurmues palësh të treta që përpiqen t’ju ndjekin nëpër internet. Ju jepet një raport i personalizuar mbrojtjeje që tregon se sa shpesh ka bllokuar { -brand-name-firefox }-i <em>cookies</em> palësh të treta, gjurmues mediash shoqërore, mjete <em>fingerprinting</em> dhe nxjerrës kriptomonedhash, teksa shfletoni në internet.
+compare-opera-with-the-latest-version-of = Me versionin më të ri të { -brand-name-firefox }-it, <a { $attrs }>Mbrojtja e Thelluar Nga Gjurmimi</a> është e aktivizuar, si parazgjedhje, në mënyrën e shfletimit normal, ndaj nuk ju duhet të ngatërroheni nëpër rregullime thjesht për të mbrojtur veten nga gjurmues. Me Mbrojtjen e Thelluar Nga Gjurmimi, { -brand-name-firefox }-i bllokon aktivisht mijëra gjurmues palësh të treta që përpiqen t’ju ndjekin nëpër internet. Ju jepet një raport i personalizuar mbrojtjeje që tregon se sa shpesh ka bllokuar { -brand-name-firefox }-i cookies palësh të treta, gjurmues mediash shoqërore, mjete fingerprinting dhe nxjerrës kriptomonedhash, teksa shfletoni në internet.
 compare-opera-we-make-firefox-for-people = { -brand-name-firefox }-in e bëjmë për njerëz si ju, që shqetësohen thellësisht për privatësinë dhe sigurinë personale. Kjo është arsyeja pse grumbullojmë kaq pak të dhëna mbi përdoruesit dhe jemi transparentë rreth se si i përdorim ato të dhëna. Nga pikëpamja e privatësisë, është e vështirë të dihet se si funksionon { -brand-name-opera }. Teksa ka të pranishme veçori të fuqishme privatësie, se si grumbullojnë dhe ndajnë me të tjerët të dhënat tuaja është e turbullt. { -brand-name-firefox }-i mbetet i qëndrueshëm në çka themi dhe bëjmë për mbrojtjen e privatësisë tuaj.
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
