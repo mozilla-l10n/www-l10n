@@ -17,6 +17,7 @@ browsers-chromebook-dropdown-copy = Last ned { -brand-name-firefox } for { -bran
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Hvorfor laste ned <span> { -brand-name-firefox } </span> for { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Mens en { -brand-name-chromebook } allerede har { -brand-name-chrome } installert, kan du laste ned og bruke { -brand-name-firefox } som din daglige nettleser med flere fordeler som blant annet:
+browsers-chromebook-alwayson-tracking-protection = Alltid på sporingsbeskyttelse: Som standard kjører { -brand-name-firefox } utvidet sporingsbeskyttelse (ETP) for å beskytte dine personlige data fra kjente annonsesporere, sosiale sporere og kryptomining-skript som følger deg rundt på nettet.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
