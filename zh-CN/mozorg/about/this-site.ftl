@@ -5,11 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/about/this-site/
 
+about-this-site-title = 关于本站
 about-this-site-desc = 关于 www.mozilla.org 及构建本网站所用到的开源工具。
-# Variables:
-#   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
-#   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = www.mozilla.org 上线于互联网的开端时期，迄今已逾二十年。www.mozilla.org 根植于开源运动，见证了 <a href="{ $coderush }">{ -brand-name-mozilla } 的诞生</a>，无愧为 Web 的基石。
 about-this-site-like-many = 正如我们的其他产品一样，本站同样属于开源项目：
 about-this-site-view-source = 到 { -brand-name-github } 查看源代码
 about-this-site-report-a-bug = 报告缺陷（Bug）
@@ -33,4 +30,4 @@ about-this-site-fluent = { -brand-name-mozilla } 的 <a href="{ $fluent }">Fluen
 about-this-site-many-other = 有许多其他较小的库和框架，您可以在我们的 <a href="{ $github }">{ -brand-name-github } repo</a> 中找到它们。
 # Variables:
 #   $credits (url) link to https://www.mozilla.org/credits/
-about-this-site-we-extend = 谨向所有帮助我们缔造更美好互联网天地的 { -brand-name-mozilla } <a href="{ $credits }">贡献者致以真挚的感谢。
+about-this-site-we-extend = 谨向所有帮助我们缔造更美好互联网天地的 { -brand-name-mozilla } <a href="{ $credits }">贡献者</a>致以真挚的感谢。
