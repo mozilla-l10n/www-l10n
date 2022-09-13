@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } este browserul incredibil de rapid care îți oferă instrumente pentru dezvoltatori de ultimă generație și cele mai noi funcționalități, precum suport pentru CSS Grid și depanare pentru framework-uri
@@ -55,8 +55,9 @@ firefox-developer-new-tools = Unelte noi
 firefox-developer-inactive-css = CSS inactiv
 firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } afișează acum în gri declarațiile CSS care nu au efect asupra paginii. Când treci cu mouse-ul peste pictograma de informații, vei vedea un mesaj util despre motivul pentru care CSS nu este aplicat, inclusiv un indiciu despre cum să remediezi problema.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-the-new-firefox-devtools = Noile unelte de dezvoltare din Firefox sunt puternice, flexibile și, mai mult, modificabile. Includ cel mai bun depanator de JavaScript din clasa lui, adaptabil la mai multe browsere, construit în React și Redux.
+firefox-developer-the-new-firefox-devtools = Noile { -brand-name-firefox-devtools } sunt puternice, flexibile și, mai mult, modificabile. Includ cel mai bun depanator de JavaScript din clasa lui, adaptabil la mai multe browsere, construit în React și Redux.
 firefox-developer-master-css-grid = Stăpânește CSS Grid
+# outdated
 firefox-developer-next-gen-css-engine = Motor CSS de generație viitoare
 firefox-developer-a-next-generation = Motor CSS de generație viitoare
 firefox-developer-master-innovative-features = Funcții inovatoare

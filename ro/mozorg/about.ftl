@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -25,7 +25,7 @@ about-when-the-facebook-breach-was = La demascarea breșei { -brand-name-faceboo
 about-talking-internet-issues-irl = Discutarea problemelor legate de Internet IRL
 about-in-mozillas-irl-podcast-host = În podcastul IRL { -brand-name-mozilla }, gazda Manoush Zomorodi împărtășește povești reale de viață online și discută concret despre viitorul webului.
 about-corporation-foundation-not = Corporație. Fundație. Nonprofit.
-about-learn-about-the-mozilla-foundation = Află despre Fundația Mozilla
+about-learn-about-the-mozilla-foundation = Află despre { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } pune oamenii mai presus de profituri prin tot ceea ce spunem, construim și facem. De fapt, inima întreprinderii noastre este o fundație nonprofit.
 about-the-mozilla-manifesto = Manifestul { -brand-name-mozilla }
 about-the-principles-we-wrote-in = Principiile pe care le-am enunțat în 1998 ne ghidează și astăzi. Și în 2018 am inclus o completare, ca să subliniem incluziunea, confidențialitate și siguranța pentru oricine online.

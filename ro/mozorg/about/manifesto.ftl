@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -54,31 +54,6 @@ manifesto-an-internet-with-these = Un internet cu aceste calități nu va veni d
 manifesto-i-support-the-vision-of = Susțin viziunea @mozilla pentru un internet mai bun și mai sănătos. Vrei să mi te alături?
 manifesto-share-on-twitter = Distribuie pe { -brand-name-twitter }
 manifesto-our-10-principles = <strong>Cele 10</strong> principii
-manifesto-use-open-badges-to-share = Folosește Open Badges pentru a-ți împărtăși abilitățile și interesele
-manifesto-explore-how-the-web-impacts = Explorează modul în care afectează webul știința
-manifesto-learn-about-open-source = Află despre codul cu sursă deschisă în jurnalism
-manifesto-read-about-open-internet = Citește despre inițiativele de politici pentru un internet deschis și evoluția lor
-manifesto-explore-how-to-help-keep = Explorează modurile în ne poți ajuta să păstrăm webul deschis
-manifesto-see-how-the-web-can-connect = Vezi cum poate webul conecta lumea la sistemele de sănătate
-manifesto-explore-how-the-web-works = Explorează cum funcționează webul
-manifesto-see-how-mozilla-works = Vezi cum îți pune { -brand-name-mozilla } confidențialitatea pe primul loc
-manifesto-read-about-developments = Citește despre avansurile din domeniul confidențialității și al siguranței datelor
-manifesto-learn-more-about-how-to = Află mai multe despre cum te poți proteja online
-manifesto-use-these-free-tools-to = Folosește aceste instrumente libere pentru a-i învăța pe alții despre web
-manifesto-learn-about-creating-and = Află despre crearea și organizarea conținutului pentru web
-manifesto-add-new-voices-to-open = Adaugă voci noi în tehnologia cu sursă deschisă
-manifesto-set-your-do-not-track = Setează preferințele pentru „Nu mă urmări”
-manifesto-understand-the-web-ecosystem = Înțelege ecosistemul webului
-manifesto-explore-how-open-practices = Explorează cum păstrează practicile deschise webul accesibil
-manifesto-learn-how-to-remix-content = Află cum să remixezi conținutul pentru a crea ceva nou
-manifesto-learn-how-to-maximize = Află cum să valorifici la maxim potențialul interactiv al webului
-manifesto-participate-in-our-governance = Participă în forumul nostru de administrare
-manifesto-join-us-as-a-volunteer = Vino alături de noi ca voluntar
-manifesto-learn-how-to-collaborate = Află cum să colaborezi online
-manifesto-visualize-who-you-interact = Vezi cu cine interacționezi pe web, cu { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Află despre crearea de resurse web împreună cu alții
-manifesto-host-or-join-a-maker-party = Găzduiește sau alătură-te unui { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Află cum să-ți dezvolți abilitățile de colaborare online
 manifesto-read-the-entire-manifesto = Citește întregul manifest
 manifesto-love-the-web = Îți place webul?
 manifesto-get-the-mozilla-newsletter = Obține buletinul informativ de la { -brand-name-mozilla } și ajută-ne să-l păstrăm liber și deschis.
@@ -89,11 +64,11 @@ manifesto-details-the-mozilla-project-global = Proiectul { -brand-name-mozilla }
 manifesto-details-the-mozilla-project-community = Proiectul { -brand-name-mozilla } folosește o abordare bazată pe comunitate pentru a crea programe de talie mondială cu sursă deschisă și pentru a dezvolta tipuri noi de activități colaborative. Creăm comunități care se implică în îmbunătățirea experienței pe internet pentru toți.
 manifesto-details-as-a-result-of = În urma acestor eforturi, am conceput un set de principii pe care le considerăm ca fiind critice pentru ca internetul să continue să deservească în aceeași măsură binele public și aspectele comerciale ale vieții. Le enunțăm aici mai jos.
 manifesto-details-the-goals-for = Obiectivele Manifestului sunt:
-manifesto-details-articulate-a-vision = formularea clară a unei viziuni de internet pe care participanții la proiectul { -brand-name-mozilla } vor ca Fundația { -brand-name-mozilla } să o urmeze;
+manifesto-details-articulate-a-vision = formularea clară a unei viziuni de internet pe care participanții la proiectul { -brand-name-mozilla } vor ca { -brand-name-mozilla-foundation } să o urmeze;
 manifesto-details-speak-to-people = comunicarea cu oamenii indiferent dacă au sau nu au pregătire tehnică;
 manifesto-details-make-mozilla-contributors = inducerea unui sentiment de mândrie în rândul colaboratorilor la proiectul { -brand-name-mozilla } și motivarea lor să continue; și
 manifesto-details-provide-a-framework = asigurarea unui cadru general pentru ca și alții să promoveze această viziune de internet.
-manifesto-details-these-principles = Aceste principii nu se vor concretiza de la sine. Este nevoie de oameni pentru a face internetul deschis și participativ - oameni care acționează individual, lucrează în grupuri și îi coordonează pe alții. Fundația { -brand-name-mozilla } este dedicată promovării principiilor prevăzute în Manifestul { -brand-name-mozilla }. Lansăm o invitație și altora să ni se alăture pentru a face internetul un loc și mai bun pentru toți.
+manifesto-details-these-principles = Aceste principii nu se vor concretiza de la sine. Este nevoie de oameni pentru a face internetul deschis și participativ - oameni care acționează individual, lucrează în grupuri și îi coordonează pe alții. { -brand-name-mozilla-foundation } este dedicată promovării principiilor prevăzute în Manifestul { -brand-name-mozilla }. Lansăm o invitație și altora să ni se alăture pentru a face internetul un loc și mai bun pentru toți.
 manifesto-details-principles = Principii
 manifesto-details-the-internet-is-integral = Internetul este o parte integrantă a vieții moderne — o componentă-cheie în educație, comunicare, colaborare, afaceri, divertisment și în societate în asamblu.
 manifesto-details-the-internet-is-global = Internetul este o resursă publică globală care trebuie să rămână deschisă și accesibilă.
@@ -107,13 +82,13 @@ manifesto-details-commercial-involvement = Implicarea comercială în dezvoltare
 manifesto-details-magnifying-the = Creșterea aspectelor de beneficiu public al internetului este un țel important, care merită să i se dedice timp, atenție și devotament.
 manifesto-details-advancing-the = Promovarea manifestului { -brand-name-mozilla }
 manifesto-details-there-are-many = Există multe mijloace de promovare a principiilor Manifestului { -brand-name-mozilla }. Încurajăm o gamă largă de activități și ne așteptăm la același nivel de creativitate de care colaboratorii { -brand-name-mozilla } au dat dovadă și în alte zone ale proiectului. Pentru cei care nu sunt implicați puternic în proiectul { -brand-name-mozilla }, o modalitate simplă și foarte eficientă de susținere a Manifestului este să folosească { -brand-name-mozilla } { -brand-name-firefox } și alte produse care înglobează principiile Manifestului.
-manifesto-details-mozilla-foundation = Angajamentul Fundației Mozilla
-manifesto-details-the-mozilla-foundation-pleges = Fundația { -brand-name-mozilla } se angajează să susțină Manifestul { -brand-name-mozilla } în activitățile sale. Concret:
+manifesto-details-mozilla-foundation = Angajamentul { -brand-name-mozilla-foundation }
+manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } se angajează să susțină Manifestul { -brand-name-mozilla } în activitățile sale. Concret:
 manifesto-details-build-and-enable = vom construi și vom lucra la tehnologii cu sursă deschisă și comunități care susțin principiile Manifestului;
 manifesto-details-build-and-deliver = vom construi și vom oferi produse de consum nemaipomenite care să susțină principiile Manifestului;
 manifesto-details-use-the-mozilla = vom folosi activele { -brand-name-mozilla } (proprietatea intelectuală, cum ar fi drepturile de reproducere și mărcile comerciale, infrastructura, fondurile și reputația) pentru a păstra internetul o platformă deschisă;
 manifesto-details-promote-models = vom promova modele pentru a crea valori economice în beneficiul public; și
 manifesto-details-promote-the-mozilla = vom promova principiile Manifestului { -brand-name-mozilla } în discursul public și în cadrul industriei internetului.
-manifesto-details-some-foundation = Unele dintre activitățile Fundației — în prezent: crearea, livrarea și promovarea de produse de consum — se desfășoară în principal prin intermediul subsidiarei deținute în proprietate deplină de Fundația Mozilla, corporația Mozilla.
+manifesto-details-some-foundation = Unele dintre activitățile Fundației — în prezent: crearea, livrarea și promovarea de produse de consum — se desfășoară în principal prin intermediul subsidiarei deținute în proprietate deplină de { -brand-name-mozilla-foundation }, { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Invitație
-manifesto-details-the-mozilla-foundation-invites = Fundația { -brand-name-mozilla } îi invită pe toți ceilalți care susțin principiile Manifestului { -brand-name-mozilla } să ni se alăture și să caute modalități noi prin care să transformăm această viziune a internetului în realitate.
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } îi invită pe toți ceilalți care susțin principiile Manifestului { -brand-name-mozilla } să ni se alăture și să caute modalități noi prin care să transformăm această viziune a internetului în realitate.

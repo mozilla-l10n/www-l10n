@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = Până în 2002 <a href="{ $over90 }">peste 90% d
 history-not-many-people-noticed = Nu foarte mulți au observat la vremea aceea, dar prima versiune de Phoenix (ulterior redenumit { -brand-name-firefox }) a fost lansată de membrii comunității { -brand-name-mozilla } tot în acel an, cu scopul de a oferi <a href="{ $charter }">cea mai bună experiență de navigare</a> unui număr cât mai mare de oameni.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = În 2003, proiectul { -brand-name-mozilla } a creat Fundația { -brand-name-mozilla }, o <a href="{ $foundation }">organizație nonprofit independentă</a> susținută de donatori persoane fizice și o serie de companii.
+history-in-2003-the-mozilla-project = În 2003, proiectul { -brand-name-mozilla } a creat { -brand-name-mozilla-foundation }, o <a href="{ $foundation }">organizație nonprofit independentă</a> susținută de donatori persoane fizice și o serie de companii.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = Noua Fundație Mozilla și-a continuat rolul de administrare a operațiunilor curente ale proiectului și a preluat oficial rolul promovării <a href="{ $manifesto }">deschiderii, inovației și oportunității</a> pe Internet.
+history-the-new-mozilla-foundation = Noua { -brand-name-mozilla-foundation } și-a continuat rolul de administrare a operațiunilor curente ale proiectului și a preluat oficial rolul promovării <a href="{ $manifesto }">deschiderii, inovației și oportunității</a> pe Internet.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = A realizat aceste obiective prin continuarea lansării de programe, precum { -brand-name-firefox } și { -brand-name-thunderbird }, și prin extinderea în zone noi, cum ar fi <a href="{ $grants }">granturile</a> pentru sprijinirea îmbunătățirilor de accesibilitate pe web.
