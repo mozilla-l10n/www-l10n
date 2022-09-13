@@ -44,7 +44,7 @@ vpn-landing-faq-protected-question-heading = Kako je zaščitena moja zasebnost?
 vpn-landing-faq-competition-question-heading = Kakšen je { -brand-name-mozilla-vpn } v primerjavi s konkurenco?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc-v2 = Čeprav se brezplačni VPN-ji zdijo privlačni, niso zavezani k zasebnosti kot { -brand-name-mozilla-vpn }. Drugi VPN-ji nimajo več kot 20-letne <a href="{ $url }">zgodovine</a> razvoja izdelkov, ki postavljajo ljudi in zasebnost na prvo mesto.
+vpn-landing-faq-competition-question-desc-v2 = Čeprav se brezplačni VPN-ji zdijo privlačni, niso zavezani k zasebnosti kot { -brand-name-mozilla-vpn }. Proizvajalci drugih VPN-jev nimajo več kot 20-letne <a href="{ $url }">zgodovine</a> razvoja izdelkov, ki postavljajo ljudi in zasebnost na prvo mesto, kot jo ima { -brand-name-mozilla }.
 vpn-landing-faq-compatibility-question-heading = S katerimi napravami je { -brand-name-mozilla-vpn } združljiv?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/

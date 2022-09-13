@@ -30,7 +30,7 @@ privacy-index-as-an-open-source-project = Za { -brand-name-mozilla(sklon: "toži
 privacy-index-to-review-and-comment-on-proposed = Če želite ostati na tekočem s spremembami naših pravilnikov o zasebnosti, jih pregledovati in komentirati, <a href="{ $group }"> se naročite na skupino mozilla.governance</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
-privacy-index-read-more-about-our-ongoing = Več o našem tekočem delu na področju politike varnosti in zasebnosti lahko preberete na <a href="{ $blog }">Mozillinem blogu Open Policy &amp; Advocacy</a>.
+privacy-index-read-more-about-our-ongoing = Več o našem tekočem delu na področju politike varnosti in zasebnosti lahko preberete na blogu { -brand-name-mozilla(sklon: "rodilnik") } <a href="{ $blog }">Open Policy &amp; Advocacy</a>.
 privacy-index-outdated-policies = Zastareli pravilniki
 privacy-index-mozilla-websites-communications = Mozillina spletna mesta, komunikacije in piškotki
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
