@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
@@ -18,7 +18,7 @@ welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } vám u
 welcome-page1-stay-ahead-of-hackers = Zostaňte o krok vpred pred hackermi
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
-welcome-page1-find-ways-to-protect-your = Zistite, ako chrániť svoje údaje vďaka <a href="{ $security_tips }">bezpečnostným tipom { -brand-name-monitor(case: "gen") }.
+welcome-page1-find-ways-to-protect-your = Zistite, ako chrániť svoje údaje vďaka <a href="{ $security_tips }">bezpečnostným tipom { -brand-name-monitor(case: "gen") }</a>.
 welcome-page1-stay-in-the-know = Zostaňte v obraze
 # "Evite" is a proper name and generally shouldn't be translated.
 # Variables:
