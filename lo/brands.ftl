@@ -20,6 +20,8 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mullvad = Mullvad
+-brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
@@ -31,6 +33,7 @@
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browsers = ບ່າວເຊີ Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -39,6 +42,7 @@
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
 -brand-name-firefox-reality = Firefox Reality
+-brand-name-firefox-daylight = Firefox Nightly
 
 ## Firefox browsers (short names)
 
