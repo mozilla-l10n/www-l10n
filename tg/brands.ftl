@@ -24,6 +24,9 @@
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
+-brand-name-linkedin = LinkedIn
+-brand-name-tiktok = TikTok
+-brand-name-spotify = Spotify
 
 ## Firefox browsers
 
@@ -31,6 +34,10 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Браузери Firefox
 -brand-name-firefox-browsers = Браузерҳои Firefox
+-brand-name-firefox-developer-edition = Firefox Developer Edition
+-brand-name-firefox-enterprise = Firefox Enterprise
+-brand-name-firefox-esr = Firefox ESR
+-brand-name-firefox-extended-support-release = Firefox Extended Support Release
 -brand-name-firefox-focus = Firefox Focus
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
@@ -62,29 +69,64 @@
 -brand-name-firefox-accounts = Ҳисобҳои Firefox
 -brand-name-firefox-devtools = Абзорҳои барномарезии Firefox
 -brand-name-firefox-lockwise = Firefox Lockwise
+-brand-name-firefox-monitor = Firefox Monitor
+-brand-name-firefox-sync = Ҳамоҳангсозии Firefox
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
+-brand-name-devtools = Абзорҳои барномарезӣ (DevTools)
+-brand-name-lockwise = Lockwise
+-brand-name-monitor = Monitor
+-brand-name-sync = Ҳамоҳангсозӣ
+-brand-name-relay = Relay
+-brand-name-fpn = FPN
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-marketplace = Firefox Marketplace
+-brand-name-firefox-os = Firefox OS
+-brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-send = Firefox Send
+-brand-name-send = Send
 
 ## Pocket
 
+-brand-name-pocket = Pocket
 
 ## Mozilla projects
 
+-brand-name-bugzilla = Bugzilla
+-brand-name-glean = Glean
 -brand-name-mozilla-common-voice = «Mozilla Common Voice»
+-brand-name-mozilla-developer-network = Шабакаи барномасозони «Mozilla»
+-brand-name-mozilla-festival = Ҷашнвораи «Mozilla»
+-brand-name-mozilla-hubs = Маҳфилҳои «Mozilla»
+-brand-name-mozilla-labs = Mozilla Labs
+-brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mdn-web-docs = Ҳуҷҷатҳои интернетии MDN
+-brand-name-mdn-plus = MDN Plus
+-brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = «Common Voice»
+-brand-name-hubs = Маҳфилҳо
+-brand-name-mdn = MDN
 
 ## Mozilla projects (legacy)
 
+-brand-name-lightbeam = Lightbeam
+-brand-name-maker-party = Вохӯрии эҷодкорон
+-brand-name-webmaker = Сомонасоз
 
 ## Open Source projects
 
+-brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
+# Outdated string
+-brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 
@@ -122,9 +164,14 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
+-brand-name-messenger = Messenger
+-brand-name-workplace = Workplace
 
 ## Google products
 
+-brand-name-chromium = Chromium
+-brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
 -brand-name-chromebook = Chromebook
