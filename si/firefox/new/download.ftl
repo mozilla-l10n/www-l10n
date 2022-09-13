@@ -25,7 +25,7 @@ firefox-new-need-help = උදව් වුවමනා ද?
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">තවදුරටත් { -brand-name-windows } { -brand-name-xp } හෝ { -brand-name-vista } සඳහා ආරක්‍ෂණ යාවත්කාල ලබා නොදේ, නමුත් ඔබට තවමත් { -brand-name-firefox } භාවිතා කළ හැකිය.
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">තවදුරටත්</a> { -brand-name-windows } { -brand-name-xp } හෝ { -brand-name-vista } සඳහා ආරක්‍ෂණ යාවත්කාල ලබා නොදේ, නමුත් ඔබට තවමත් { -brand-name-firefox } භාවිතා කළ හැකිය.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

@@ -17,7 +17,7 @@ set-as-default-thanks-having-trouble-setting-your = ඔබගේ පෙරනි
 set-as-default-thanks-heres-everything-you-need-android = <a href="{ $android }">ඇන්ඩ්‍රොයිඩ් උපාංගවල</a> ඔබගේ පෙරනිමි අතිරික්සුව සැකසීමට අදාළ සියළුම තොරතුරු මෙතැන තිබේ.
 # Variables:
 #   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
-set-as-default-thanks-heres-everything-you-need-ios = <a href="{ $android }">අයිඕඑස් උපාංගවල</a> ඔබගේ පෙරනිමි අතිරික්සුව සැකසීමට අදාළ සියළුම තොරතුරු මෙතැන තිබේ.
+set-as-default-thanks-heres-everything-you-need-ios = <a href="{ $ios }">අයිඕඑස් උපාංගවල</a> ඔබගේ පෙරනිමි අතිරික්සුව සැකසීමට අදාළ සියළුම තොරතුරු මෙතැන තිබේ.
 set-as-default-thanks-youre-all-set = සියල්ල සකසා ඇත.
 set-as-default-thanks-get-firefox-for-mobile = දුරකථනය සඳහා { -brand-name-firefox } ගන්න
 set-as-default-thanks-travel-the-internet-with = ඔබගේ සියළු උපාංගවලින් ආරක්‍ෂිතව අන්තර්ජාලය සැරිසරන්න.
