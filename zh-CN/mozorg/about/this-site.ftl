@@ -7,6 +7,10 @@
 
 about-this-site-title = 关于本站
 about-this-site-desc = 关于 www.mozilla.org 及构建本网站所用到的开源工具。
+# Variables:
+#   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
+#   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+about-this-site-this-website = www.mozilla.org 上线于互联网的“<a href="{ $archive }">恐龙时代</a>”，迄今已逾二十年。www.mozilla.org 根植于开源运动，见证了 <a href="{ $coderush }">{ -brand-name-mozilla } 的诞生</a>，无愧为 Web 的基石。
 about-this-site-like-many = 正如我们的其他产品一样，本站同样属于开源项目：
 about-this-site-view-source = 到 { -brand-name-github } 查看源代码
 about-this-site-report-a-bug = 报告缺陷（Bug）
