@@ -11,7 +11,7 @@ developer-mdnplus-congrats-you-now-have-latest = Поздравляем. Теп�
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Больше { -brand-name-mdn }. <em>Вашего</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } — это совместный проект с открытым исходным кодом, документирующий технологии веб-платформ, в частности, CSS, HTML, JavaScript и веб-API. Мы также предоставляем большой набор учебных ресурсов для начинающих разработчиков и студентов.
-developer-mdnplus-support-mdn-and-make = Поддержите { -brand-name-mdn }, сделав его своим.
+developer-mdnplus-support-mdn-and-make = Поддержите { -brand-name-mdn }, <em>и</em> сделав его своим.
 # CTA button
 developer-mdnplus-get-started = Приступить
 developer-mdnplus-whats-included = Что входит
