@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -47,7 +47,7 @@ features-adblocker-take-a-bite-out-of-cookies = Mușcă din cookie-uri
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookie-urile</a> sunt trimise de site-urile web pe care intrați. Stau pe calculator și monitorizează ce ați făcut pe un site. Când o companie aeriană îți mărește prețurile pentru că te-ai uitat o dată la bilete de avion în ziua respectivă, aceasta e opera unui cookie.
 features-adblocker-in-firefox-you-can-block = În { -brand-name-firefox }, poți bloca toate cookie-urile de la terți sau numai pe cele instalate de elementele de urmărire. Ai grijă că dacă blochezi toate cookie-urile, unele site-uri nu vor mai merge.
-features-adblocker-send-a-do-not-track-signal = Trimite un semnal Nu mă urmări
+features-adblocker-send-a-do-not-track-signal = Trimite un semnal "Nu mă urmări"
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Dacă nu vrei să ți se utilizeze pentru reclame comportamentul online, poți trimite site-urilor web o scrisoare politicoasă „mulțumesc, dar nu vreau”, bifând opțiunea <a href="{ $url }">Nu mă urmări</a> din { -brand-name-firefox }. Participarea este voluntară, dar site-urile web participante vor înceta automat să te mai urmărească.
