@@ -25,7 +25,7 @@ firefox-all-32-bit-installers = 32-bitised paigaldajad
 firefox-all-download-the-firefox = { -brand-name-firefox-browser } allalaadimine eesti ja rohkem kui 90 muus keeles
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Igaüks väärib internetiligipääsu — sinu emakeel ei tohiks kunagi olla takistuseks. Seetõttu teeme pühendunud vabatahtlike abiga üle maailma { -brand-name-firefox-browser } kättesaadavaks enam kui 90 keeles.
-firefox-all-choose-which-firefox = Vali, millist Firefoxi soovid enda keeles alla laadida
+firefox-all-choose-which-firefox = Vali, millist { -brand-name-firefox-browser } soovid enda keeles alla laadida
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }i privaatsusteade
 firefox-all-learn-about-firefox = Rohkem teavet { -brand-name-firefox }i brauseritest
 firefox-all-the-standard-firefox = Standardne { -brand-name-firefox }i veebilehitseja on kiire ja privaatne. Kui sa pole kindel, millist { -brand-name-firefox }i valida, siis võta see.
