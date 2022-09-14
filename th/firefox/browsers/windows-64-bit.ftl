@@ -1,13 +1,17 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
 
 # HTML page title
 windows-64-bit-firefox-for-windows = { -brand-name-firefox } สำหรับ { -brand-name-windows } รุ่น 64 บิต
+# HTML page description
+windows-64-bit-users-on-64-bit-windows = ผู้ใช้ { -brand-name-windows } 64 บิตที่ดาวน์โหลด { -brand-name-firefox } จะได้รับรุ่น 64 บิตของเราโดยอัตโนมัติ ซึ่งหมายความว่าคุณจะได้รับ { -brand-name-firefox } รุ่นที่ปลอดภัยยิ่งขึ้น
 windows-64-bit-64-bit = 64 บิต
+# Main title
+windows-64-bit-a-more-secure-firefox = { -brand-name-firefox } ที่ปลอดภัยยิ่งขึ้น
 windows-64-bit-how-do-you-get-64 = คุณจะรับ { -brand-name-firefox } แบบ 64 บิตได้อย่างไร?
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/
