@@ -132,7 +132,7 @@ firefox-desktop-download-as-the-internet = A pesar de que Internet segue medrand
 firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está dispoñíbel para todos os dispositivos, de xeito que sempre poderás levar contigo as lapelas, o historial e os marcadores. O único que precisas é unha <a { $attrs }>conta { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Tira unha imaxe de alta resolución de calquera cousa que atopes en Internet coa ferramenta de <a { $attrs }captura de pantalla</a> integrada no navegador.
+firefox-desktop-download-grab-a-high = Tira unha imaxe de alta resolución de calquera cousa que atopes en Internet coa ferramenta de <a { $attrs }>captura de pantalla</a> integrada no navegador.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = O { -brand-name-firefox } <a { $attrs }>impide automaticamente que moitos rastrexadores de terceiros</a> recompilen e vendan a túa actividade na rede.
