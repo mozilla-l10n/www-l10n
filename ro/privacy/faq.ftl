@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } nu vinde da
 privacy-faq-wait-so-how-do-you-make-money = Atunci cum faceți bani?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nu este o organizație obișnuită. Fondată ca proiect comunitar cu sursă deschisă, în anul 1998, { -brand-name-mozilla } este o organizație cu misiunea de a crea un internet mai sănătos. Cea mai mare parte a veniturilor { -brand-name-mozilla-corporation } provine din redevențe câștigate prin parteneriate cu motoarele de căutare și contracte de distribuție în lumea întreagă. Poți afla mai multe despre cum facem bani în <a href="{ $link }">raportul financiar anual</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nu este o organizație obișnuită. Fondată ca proiect comunitar cu sursă deschisă, în anul 1998, { -brand-name-mozilla } este o organizație cu misiunea de a crea un internet mai sănătos. Cea mai mare parte a veniturilor { -brand-name-mozilla-corporation } provine din redevențe câștigate prin parteneriate de { -brand-name-firefox } cu motoarele de căutare și contracte de distribuție în lumea întreagă. Poți afla mai multe despre cum facem bani în <a href="{ $link }">raportul financiar anual</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = OK, primele au fost întrebări ușoare. Ce fel de date colectați?
 # Variables:
