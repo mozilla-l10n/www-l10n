@@ -54,6 +54,7 @@
 -brand-name-lite = Lite
 -brand-name-nightly = Nightly
 -brand-name-reality = Reality
+-brand-name-daylight = ກາງເວັນ
 
 ## Firefox browsers (legacy)
 
@@ -148,6 +149,8 @@
 
 -brand-name-facebook-messenger = ເຟສບຸກ Messenger
 -brand-name-instagram = Instagram
+-brand-name-messenger = Messenger
+-brand-name-workplace = Workplace
 
 ## Google products
 
