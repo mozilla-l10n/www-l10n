@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -23,9 +23,9 @@ privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">Princ
 privacy-index-transparency-report = Raport de transparență
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
-privacy-index-as-an-open-source-project = Ca proiect cu sursă deschisă, transparența și deschiderea reprezintă o parte esențială a principiilor noastre fondatoare. Bazele noastre de cod sunt deschise și verificabile. Lucrările noastre de dezvoltare sunt deschise. <a href="{ $report }">Raportul de transparență</a> bianual ne demonstrează devotamentul față de aceste principii.
+privacy-index-as-an-open-source-project = Ca proiect cu sursă deschisă, transparența și deschiderea reprezintă o parte esențială a principiilor fondatoare de { -brand-name-mozilla }. Bazele noastre de cod sunt deschise și verificabile. Lucrările noastre de dezvoltare sunt deschise. <a href="{ $report }">Raportul de transparență</a> bianual ne demonstrează devotamentul față de aceste principii.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Pentru a revedea și comenta modificările propuse la politicile noastre de confidențialitate, abonează-te la <a href="{ $group }">comunicările grupului de administrație { -brand-name-mozilla }</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } nu vinde da
 privacy-faq-wait-so-how-do-you-make-money = Atunci cum faceți bani?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nu este o organizație obișnuită. Fondată ca proiect comunitar cu sursă deschisă, în anul 1998, { -brand-name-mozilla } este o organizație cu misiunea de a crea un internet mai sănătos. Cea mai mare parte a veniturilor Corporației { -brand-name-mozilla } provine din redevențe câștigate prin parteneriate cu motoarele de căutare și contracte de distribuție în lumea întreagă. Poți afla mai multe despre cum facem bani în <a href="{ $link }">raportul financiar anual</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nu este o organizație obișnuită. Fondată ca proiect comunitar cu sursă deschisă, în anul 1998, { -brand-name-mozilla } este o organizație cu misiunea de a crea un internet mai sănătos. Cea mai mare parte a veniturilor { -brand-name-mozilla-corporation } provine din redevențe câștigate prin parteneriate cu motoarele de căutare și contracte de distribuție în lumea întreagă. Poți afla mai multe despre cum facem bani în <a href="{ $link }">raportul financiar anual</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = OK, primele au fost întrebări ușoare. Ce fel de date colectați?
 # Variables:
@@ -47,7 +47,7 @@ privacy-faq-sort-of-in-addition-to-the-data = Oarecum. Pe lângă datele de mai 
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = Este posibil să mai colectăm date suplimentare din versiunile pre-lansare pentru unul dintre <a href="{ $link }">studiile</a> noastre. De exemplu, unele studii implică accesarea unor „date de activitate web”, care pot include adrese sau alte informații despre anumite site-uri. Ne ajută să găsim soluții specifice pentru îmbunătățirea { -brand-name-firefox }, de exemplu la integrarea unor site-uri populare în variante locale de { -brand-name-firefox }.
-privacy-faq-mozillas-pre-release-versions = Versiunile { -brand-name-firefox } pre-lansare sunt platforme de dezvoltare, actualizate frecvent cu funcționalități experimentale. Colectăm mai multe date în versiunile pre-lansare decât în cea stabilă ca să înțelegem cum funcționează aceste elemente experimentale. Poți opta în preferințe să nu fie colectate.
+privacy-faq-mozillas-pre-release-versions = Versiunile { -brand-name-firefox } pre-lansare de { -brand-name-mozilla } sunt platforme de dezvoltare, actualizate frecvent cu funcționalități experimentale. Colectăm mai multe date în versiunile pre-lansare decât în cea stabilă ca să înțelegem cum funcționează aceste elemente experimentale. Poți opta în preferințe să nu fie colectate.
 privacy-faq-but-why-do-you-collect-any-data = Dar de ce colectați date oricum?
 privacy-faq-if-we-dont-know-how-the-browser = Dacă nu știm cum se comportă browserul sau ce funcționalități accesează utilizatori, nu îl putem îmbunătăți și nu putem oferi produsul pe care îl merită utilizatorii noștri. Am investit în construirea de unelte de colectare și analiză a datelor, care ne permit să luăm decizii inteligente despre produs, dar care respectă confidențialitatea oamenilor.
 privacy-faq-data-collection-still-bugs-me = Colectarea de date mă deranjează. Pot să o dezactivez?
