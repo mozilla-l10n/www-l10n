@@ -27,9 +27,6 @@ privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } na sa betg tan
 privacy-faq-it-seems-like-every-company = I para che tut las firmas en l'internet cumprian e vendian mias datas. Vus n'essas probablamain betg megliers.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } na venda betg tias datas e nus na cumprain era betg datas davart tai.
 privacy-faq-wait-so-how-do-you-make-money = In mument, co faschais vus lura raps?
-# Variables:
-#   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } n'è betg in'organisaziun ordinaria. Fundada sco project da communitad open source l'onn 1998 è { -brand-name-mozilla } ina organisaziun cun ina missiun – numnadamain da meglierar la sanadad da l'internet. Las pli bleras entradas recaltgescha la { -brand-name-mozilla-corporation } grazia a partenadis cun maschinas da tschertgar. Ti pos vegnir a savair dapli davart la moda e maniera co nus gudagnain daners en noss <a href="{ $link }">rapport finanzial annual</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Bun, ma tge datas rimnais vus?
 # Variables:
@@ -47,7 +44,6 @@ privacy-faq-sort-of-in-addition-to-the-data = En in tschert senn. Dasper las dat
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = Mintgatant rimnain nus en las versiuns betg definitivas era datas supplementaras per in da noss <a href="{ $link }">studis</a>. Tscherts studis pretendan per exempel uschenumnadas «datas davart l'activitad web» che pon includer URLs ed autras infurmaziuns davart tschertas websites. Quai ans gida a respunder dumondas specificas per meglierar { -brand-name-firefox }, per exempel, co integrar meglier websites popularas en { -brand-name-firefox } en ina tschertga lingua.
-privacy-faq-mozillas-pre-release-versions = Las versiuns betg definitivas (preversiuns) da { -brand-name-firefox } èn plattafurmas da svilup che vegnan savens actualisadas cun funcziuns experimentalas. Nus rimnain dapli datas en preversiuns che en las versiuns definitivas per pudair chapir co che questas funcziuns experimentalas funcziunan. Ti pos deactivar la rimnada da questas datas en las preferenzas.
 privacy-faq-but-why-do-you-collect-any-data = Ma pertge rimnais vus insumma datas?
 privacy-faq-if-we-dont-know-how-the-browser = Sche nus na savain betg co il navigatur sa cumporta u tge funcziuns ch'ils utilisaders dovran, n'al pudain nus betg meglierar e na ta pudain betg porscher il meglier product pussaivel. Nus avain sviluppà utensils per rimnar ed analisar datas ch'ans gidan a prender bunas decisiuns per noss products e permettan a medem temp da resguardar la sfera privata dals utilisaders.
 privacy-faq-data-collection-still-bugs-me = La rimnada da datas ma disturba tuttina. La poss jau deactivar?
