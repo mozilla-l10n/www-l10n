@@ -13,7 +13,7 @@ firefox-new-get-the-latest-firefox = ຕິດຕັ້ງໂປແກຼມທ�
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = ດາວໂຫລດ { -brand-name-firefox } <br>ສຳລັບ { -brand-name-windows }
 firefox-new-download-firefox-for-macos = ດາວໂຫລດ { -brand-name-firefox } <br>ສຳລັບ { -brand-name-mac }
-firefox-new-download-firefox-for-linux = ດາວໂຫລດ { -brand-name-firefox } <br>ສຳລັບລີນຸກ
+firefox-new-download-firefox-for-linux = ດາວໂຫລດ { -brand-name-firefox } <br>ສຳລັບ { -brand-name-linux }
 firefox-new-free-web-browser = ເວັບບຣາວເຊີຟຣີ
 firefox-new-download-in-another-language = ດາວໂຫລດເປັນພາສາອື່ນ
 firefox-new-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫລືອບໍ?

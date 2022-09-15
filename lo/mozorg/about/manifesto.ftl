@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -27,11 +27,7 @@ manifesto-07 = 07
 manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
-manifesto-share-on-twitter = ແບ່ງປັນໃນທະວີດເຕີ້
-manifesto-explore-how-the-web-works = ສຳຫຼວດວ່າເວັບເຮັດວຽກຈັ່ງໃດ
-manifesto-use-these-free-tools-to = ໃຊ້ເຄື່ອງມືຟຣີເຫຼົ່ານີ້ເພື່ອສອນເວັບ
-manifesto-understand-the-web-ecosystem = ເຂົ້າໃຈກ່ຽວກັບລະບົບໂດຍລວມຂອງເວັບ
-manifesto-join-us-as-a-volunteer = ຮ່ວມເປັນອາສາສະໝັກກັບພວກເຮົາ
+manifesto-share-on-twitter = ແບ່ງປັນໃນທ { -brand-name-twitter }
 manifesto-love-the-web = ຮັກເວັບບໍ່?
 manifesto-details-the-mozilla-manifesto = ຖະແຫຼງການ { -brand-name-mozilla }
 manifesto-details-introduction = ແນະນຳ
