@@ -20,6 +20,8 @@ new-platform-need-help = උදව් වුවමනා ද?
 ## Linux
 
 new-platform-download-mozilla-linux = { -brand-name-linux } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න
+# /firefox/linux/ HTML page description
+new-platform-download-mozilla-desc-linux = { -brand-name-linux } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න, නොමිලේ අතිරික්සුවකි. මාර්ගගත පෞද්ගලිකත්‍වය රැක ගැනීම උදෙසා කැප වූ ගෝලීය ලාභ නොලබන්නන් විසින් { -brand-name-firefox } සාදා ඇත. අදම { -brand-name-linux } සඳහා { -brand-name-firefox } ගන්න!
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = { -brand-name-linux } සඳහා මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
 # /firefox/linux/ social sharing description
@@ -35,6 +37,8 @@ new-platform-look-under-the-hood = { -brand-name-linux } මෙන්ම, { -bra
 ## Mac
 
 new-platform-download-mozilla-firefox-mac = { -brand-name-mac-short } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න
+# /firefox/mac/ HTML page description
+new-platform-download-mozilla-firefox-desc-mac = { -brand-name-mac-short } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න, නොමිලේ අතිරික්සුවකි. මාර්ගගත පෞද්ගලිකත්‍වය රැක ගැනීම උදෙසා කැප වූ ගෝලීය ලාභ නොලබන්නන් විසින් { -brand-name-firefox } සාදා ඇත. අදම { -brand-name-mac-short } සඳහා { -brand-name-firefox } ගන්න!
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = { -brand-name-mac-short } සඳහා මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
 # /firefox/mac/ social sharing description
@@ -48,6 +52,8 @@ new-platform-be-the-master-of-your = දැඩි අන්තර්ගත අ�
 ## Windows
 
 new-platform-download-mozilla-windows = { -brand-name-windows } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න
+# /firefox/windows/ HTML page description
+new-platform-download-mozilla-desc-windows = { -brand-name-windows } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න, නොමිලේ අතිරික්සුවකි. මාර්ගගත පෞද්ගලිකත්‍වය රැක ගැනීම උදෙසා කැප වූ ගෝලීය ලාභ නොලබන්නන් විසින් { -brand-name-firefox } සාදා ඇත. අදම { -brand-name-windows } සඳහා { -brand-name-firefox } ගන්න!
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = { -brand-name-windows } සඳහා මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
 # /firefox/windows/ social sharing description
