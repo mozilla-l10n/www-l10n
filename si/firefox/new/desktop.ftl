@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-firefox-browser } බාගන්න — වේගවත්, පෞද්ගලික සහ නොමිලේ — { -brand-name-mozilla } වෙතින්
+firefox-desktop-download-meta-desc = { -brand-name-firefox } ගන්න, අන්තර්ජාලයෙහි ඵලදායිතාව හා පෞද්ගලිකත්‍වය උදෙසා කැප වූ ලාභ නොලබන { -brand-name-mozilla } වෙතින් පිටුබලය දෙන නොමිලේ අතිරික්සුවකි. { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } සහ { -brand-name-ios } සඳහා දැන් තිබේ.
 firefox-desktop-download-og-title = මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
 firefox-desktop-download-og-desc = වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-firefox } මෙහි තිබේ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -93,7 +94,7 @@ firefox-desktop-download-change-up-your = පෙනුම වෙනස් කර
 firefox-desktop-download-tweak-your-settings = සැකසුම් හැඩ ගන්වන්න
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = මිනිසුන්ට මුල් තැන දෙන <strong>ලාභ නොලබන</strong> පිටුබලයකින් යුක්තයි
-firefox-desktop-download-challenging-the-status = 1998 සිට පවතින තත්‍වයට අභියෝග කිරීම
+firefox-desktop-download-challenging-the-status = 1998 සිට පවතින තත්‍වයට අභියෝග කරයි
 firefox-desktop-download-your-privacy-comes = පෞද්ගලිකත්‍වය මුලින්ම
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = ඔබගේ ප්‍රියතම අතිරික්සු විශේෂාංග සියල්ල තබා ගන්න — සහ අළුත් දෑ <strong>සොයා ගන්න</strong>.
