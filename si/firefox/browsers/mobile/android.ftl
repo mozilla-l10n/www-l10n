@@ -35,5 +35,8 @@ mobile-android-go-from-your = දුරකථනයෙන් ඔබගේ වැ
 mobile-android-search-from-your = දුරකථනයෙහි මුල් තිරයෙන් සොයන්න
 mobile-android-no-need-to = යෙදුම විවෘත කිරීමට අවශ්‍ය නොවේ. { -brand-name-firefox } සෙවුම් මෙවලම එක් කර ඔබගේ උපාංගයෙහි මුල් තිරයෙන් කෙලින්ම අන්තර්ජාලයෙහි සොයන්න.
 mobile-android-pin-videos-to = ඔබගේ තිරයට දෘශ්‍යක අමුණන්න
+mobile-android-pop-videos-out = ඔබ වියමනෙහි සැරිසරන විට සහ වෙනත් දෑ සිදු කරන විට නැරඹීමට අඩවිවලින් හෝ වාදක වලින් දෘශ්‍යක පිටතට ගෙන ඒවා දුරකථනයෙහි තිරයේ මුදුනට අමුණන්න. කාර්ය කිහිපයක් අතරතුර විනෝදයෙන් සිටින්න.
 mobile-android-about-mozilla = { -brand-name-mozilla } ගැන
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = { -brand-name-android } සඳහා { -brand-name-firefox } යනු අන්තර්ජාලයට කෙටි මඟකි
 mobile-android-own-your-home = මුල් තිරය අයිති කරගන්න
