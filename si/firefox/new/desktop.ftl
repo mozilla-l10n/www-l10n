@@ -50,6 +50,7 @@ firefox-desktop-download-see-your-report = ඔබගේ ආරක්‍ෂණ �
 firefox-desktop-download-for-everyone = { -brand-name-firefox } සැවොම සඳහාය
 firefox-desktop-download-review-system-req = පද්ධති අවශ්‍යතා සමාලෝචනය
 firefox-desktop-download-all-your-devices = ඔබගේ උපාංග සියල්ලට { -brand-name-firefox } දමන්න
+firefox-desktop-download-take-your-privacy = සැමතැන ඔබගේ පෞද්ගලිකත්‍වය ඔබ සමඟ රැගෙන යන්න. ඔබ කොතැනක සිටියත්, { -brand-name-android } සහ { -brand-name-ios } සඳහා { -brand-name-firefox-browsers } අතිරික්සුවල වියමන පුරා ඔබව හඹා යාම අවහිර කිරීමට සමත් ප්‍රබල රහස්‍යතා විශේෂාංග තිබේ.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = මේ <strong>සියල්ල</strong> { -brand-name-firefox } සමඟ කරන්න
 firefox-desktop-download-search-smarter = කඩිසරව, වේගයෙන් සොයන්න
