@@ -7,6 +7,7 @@
 
 not-found-page-not-found-page-page-not-found = 404: ບໍ່ເຫັນໜ້າ
 not-found-page-sorry-we-cant-find-that-page = ຂໍອະໄພ, ພວກເຮົາບໍ່ສາມາດຊອກຫາໜ້ານັ້ນໄດ້
+not-found-page-were-all-about-a-healthy-internet = ພວກເຮົາທັງໝົດກ່ຽວກັບອິນເຕີເນັດທີ່ມີສຸຂະພາບດີ ແຕ່ບາງຄັ້ງ URLs ທີ່ແຕກຫັກເກີດຂຶ້ນ.
 not-found-page-go-back = ກັບຄືນ
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
