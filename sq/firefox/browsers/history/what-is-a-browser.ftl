@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/what-is-a-browser/
@@ -30,9 +30,9 @@ what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Tejlidhjet</a> u l
 what-is-a-browser-cookies-not-the = Cookies (jo ato të shijshmet)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
-what-is-a-browser-websites-save = Sajtet ruajnë informacione rreth jush në kartela të quajtura <a href="{ $cookies }">cookies</a>. Ato ruhen në kompjuterin tuaj për herës tjetër që vizitoni atë sajt. Kur riktheheni, kodi i sajtit do ta lexojë atë kartelë për të parë nëse jeni ju. Për shembull, kur shkoni te një sajt, faqja mban mend emrin tuaj të përdoruesit dhe fjalëkalimin – kjo bëhet e mundur nga një <em>cookie</em>.
-what-is-a-browser-there-are-also = Ka gjithashtu <em>cookies</em> që mbajnë mend më tepër informacion të hollësishëm rreth jush. Ndoshta interesat tuaja, rregullsitë tuaja në shfletim, etj. Kjo do të thotë se një sajt mund t’ju japë lëndë më të fokusuar – shpesh në trajtë reklamash. Ka lloje cookie-sh, të quajtura <em>prej palësh të treta</em>, që vijnë prej sajtesh që as që i keni vizituar në atë kohë dhe mund t’ju ndjekin ju nga sajti në sajt për të mbledhur informacion rreth jush, që ndonjëherë u shitet shoqërive të tjera. Ndonjëherë mund t’i bllokoni këto lloje cookie-sh, edhe pse jo krejt shfletuesit ju lejojnë ta bëni këtë.
-what-is-a-browser-when-you-go-to = Kur shkoni te një sajt dhe faqja mban mend emrin tuaj të përdoruesit dhe fjalëkalimin – kjo bëhet e mundur nga një <em>cookie</em>.
+what-is-a-browser-websites-save = Sajtet ruajnë informacione rreth jush në kartela të quajtura <a href="{ $cookies }">cookies</a>. Ato ruhen në kompjuterin tuaj për herës tjetër që vizitoni atë sajt. Kur riktheheni, kodi i sajtit do ta lexojë atë kartelë për të parë nëse jeni ju. Për shembull, kur shkoni te një sajt, faqja mban mend emrin tuaj të përdoruesit dhe fjalëkalimin – kjo bëhet e mundur nga një cookie.
+what-is-a-browser-there-are-also = Ka gjithashtu cookies që mbajnë mend më tepër informacion të hollësishëm rreth jush. Ndoshta interesat tuaja, rregullsitë tuaja në shfletim, etj. Kjo do të thotë se një sajt mund t’ju japë lëndë më të fokusuar – shpesh në trajtë reklamash. Ka lloje cookie-sh, të quajtura <em>prej palësh të treta</em>, që vijnë prej sajtesh që as që i keni vizituar në atë kohë dhe mund t’ju ndjekin ju nga sajti në sajt për të mbledhur informacion rreth jush, që ndonjëherë u shitet shoqërive të tjera. Ndonjëherë mund t’i bllokoni këto lloje cookie-sh, edhe pse jo krejt shfletuesit ju lejojnë ta bëni këtë.
+what-is-a-browser-when-you-go-to = Kur shkoni te një sajt dhe faqja mban mend emrin tuaj të përdoruesit dhe fjalëkalimin – kjo bëhet e mundur nga një cookie.
 what-is-a-browser-understanding = Të kuptuarit e privatësisë
 what-is-a-browser-nearly-all-major = Thuajse krejt shfletuesit e njohur kanë rregullime shfletimi privat. Këto ekzistojnë për të fshehur historikun e shfletimit prej përdoruesish të tjerë në të njëjtin kompjuter. Mjaft vetë mendojnë se shfletimi privat ose mënyra <em>incognito</em> do të fshehë si identitetin e tyre, ashtu edhe historikun e shfletimit në sytë e furnizuesve të shërbimit internet, qeveri dhe reklamues. Nuk e fsheht. Këto rregullime thjesht spastrojnë historikun në sistemin tuaj, çka është e dobishme, kur bëhet fjalë për informacion personal rezervat në një kompjuter publik, ose të përbashkët me të tjerë. { -brand-name-firefox } shkon më tej se kaq.
 what-is-a-browser-firefox-helps = { -brand-name-firefox } ju ndihmon të jeni më privat në internet, duke ju lejuar të bllokoni gjurmues t’ju ndjekin nëpër web.
