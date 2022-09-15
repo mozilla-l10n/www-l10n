@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } na venda be
 privacy-faq-wait-so-how-do-you-make-money = In mument, co faschais vus lura raps?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } n'è betg in'organisaziun ordinaria. Fundada sco project da communitad open source l'onn 1998 è { -brand-name-mozilla } ina organisaziun cun ina missiun – numnadamain da meglierar la sanadad da l'internet. Las pli bleras entradas recaltgescha la { -brand-name-mozilla } Corporation grazia a partenadis cun maschinas da tschertgar. Ti pos vegnir a savair dapli davart la moda e maniera co nus gudagnain daners en noss <a href="{ $link }">rapport finanzial annual</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } n'è betg in'organisaziun ordinaria. Fundada sco project da communitad open source l'onn 1998 è { -brand-name-mozilla } ina organisaziun cun ina missiun – numnadamain da meglierar la sanadad da l'internet. Las pli bleras entradas recaltgescha la { -brand-name-mozilla-corporation } grazia a partenadis cun maschinas da tschertgar. Ti pos vegnir a savair dapli davart la moda e maniera co nus gudagnain daners en noss <a href="{ $link }">rapport finanzial annual</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Bun, ma tge datas rimnais vus?
 # Variables:
