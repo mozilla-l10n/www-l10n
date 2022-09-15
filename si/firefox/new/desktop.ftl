@@ -42,9 +42,13 @@ firefox-desktop-love-your-life = මාර්ගගත කාලය ඵලදා
 firefox-desktop-its-your-internet = දහස් ගණනක් මෙවලම්, තේමා සහ දිගු සමඟින් ඔබට අවශ්‍ය ආකාරයට සකස් කර ගන්න. { -brand-name-firefox } යනු ලාභයට ඉහළින් මිනිසුන් තබන මුල් විකල්ප අතිරික්සුවයි.
 # Obsolete string
 firefox-desktop-download-master-password = ප්‍රධාන මුරපදය
+firefox-desktop-download-we-block-the-ad = අපි ලුහුබඳින දැන්වීම් අවහිර කරන්නෙමු. ඔබ වේගයෙන් අන්තර්ජාලයෙහි සැරිසරන්න.
 firefox-desktop-download-see-your-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
 firefox-desktop-download-for-everyone = { -brand-name-firefox } සැවොම සඳහාය
 firefox-desktop-download-review-system-req = පද්ධති අවශ්‍යතා සමාලෝචනය
+firefox-desktop-download-all-your-devices = ඔබගේ උපාංග සියල්ලට { -brand-name-firefox } දමන්න
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = මේ <strong>සියල්ල</strong> { -brand-name-firefox } සමඟ කරන්න
 firefox-desktop-download-search-from-address = ලිපින තීරුවෙන් සොයන්න
 firefox-desktop-download-search-engine-options = සෙවුම් යන්ත්‍ර විකල්ප
 firefox-desktop-download-built-in-screenshot = තිළෑලි තිරසේයා මෙවලම
@@ -74,6 +78,7 @@ firefox-desktop-download-customize-your-browser = අතිරික්සුව
 firefox-desktop-download-themes = තේමා
 firefox-desktop-download-dark-mode = අඳුරු ප්‍රකාරය
 firefox-desktop-download-library-of-extensions = දිගු පුස්තකාලය
+firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> ඔබගේම කරගන්න
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = ප්‍රියතම { -brand-name-google } මෙවලම් (ජීමේල් සහ ඩොක්ස් වැනි) සියල්ල { -brand-name-firefox-browser } හි හොඳින් වැඩ කරයි.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
