@@ -12,7 +12,7 @@ firefox-enterprise-downloads = බාගැනීම්
 firefox-enterprise-get-firefox-for-your-enterprise = ඔබගේ ව්‍යාපාරය සඳහා { -brand-name-firefox } ගන්න
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = විස්තීරණ දත්ත ආරක්‍ෂාවක් සහ දත්ත රැකවරණයක් සඳහා <a href="{ $url }">{ -brand-name-firefox-extended-support-release } හෝ ශ්‍රීඝ්‍ර නිකුතු</a> අතිරික්සුව ගන්න.
+firefox-enterprise-get-the-firefox-extended-support = විස්තීරණ දත්ත ආරක්‍ෂාවක් හා දත්ත රැකවරණයක් සඳහා <a href="{ $url }">{ -brand-name-firefox-extended-support-release } හෝ ශ්‍රීඝ්‍ර නිකුතු</a> අතිරික්සුව ගන්න.
 firefox-enterprise-unmatched-data-protection = ඔබට සුදුසු නිකුතු සංක්‍රමය සමඟ — අද්විතීය දත්ත ආරක්‍ෂාව
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } යනු විවෘත මූලාශ්‍ර අතිරික්සුවක් වන අතර වැඩි දියුණු කළ ලුහුබැඳීමේ රැකවරණයක් ද සපයයි — දත්ත ආරක්‍ෂණය සඳහා අපගේ දිගුකාලීන කැපවීමේ කොටසකි.

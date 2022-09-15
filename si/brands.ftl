@@ -36,7 +36,7 @@
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
--brand-name-firefox-extended-support-release = Firefox Extended Support Release
+-brand-name-firefox-extended-support-release = Firefox විස්තෘත සහාය නිකුතුව
 -brand-name-firefox-focus = Firefox Focus
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
@@ -60,12 +60,13 @@
 ## Firefox products
 
 -brand-name-facebook-container = ෆේස්බුක් කන්ටේනර්
--brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-account = Firefox ගිණුම
+-brand-name-firefox-accounts = Firefox ගිණුම්
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-private-network = Firefox පෞද්ගලික ජාලය
 
 ## Firefox products (short names)
 
@@ -88,6 +89,7 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-developer-network = Mozilla සංවර්ධක ජාලය
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
