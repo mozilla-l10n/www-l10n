@@ -79,6 +79,11 @@ firefox-desktop-download-themes = තේමා
 firefox-desktop-download-dark-mode = අඳුරු ප්‍රකාරය
 firefox-desktop-download-library-of-extensions = දිගු පුස්තකාලය
 firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> ඔබගේම කරගන්න
+firefox-desktop-download-extensions-for-every = ඕනෑම රුචිකත්වයක් සඳහා දිගු
+firefox-desktop-download-tweak-your-settings = සැකසුම් හැඩ ගන්වන්න
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = මිනිසුන්ට මුල් තැන දෙන <strong>ලාභ නොලබන</strong> පිටුබලයකින් යුක්තයි
+firefox-desktop-download-your-privacy-comes = පෞද්ගලිකත්‍වය මුලින්ම
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = ප්‍රියතම { -brand-name-google } මෙවලම් (ජීමේල් සහ ඩොක්ස් වැනි) සියල්ල { -brand-name-firefox-browser } හි හොඳින් වැඩ කරයි.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
@@ -90,12 +95,20 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
 firefox-desktop-download-learn-about-the = { -brand-name-firefox } වැඩතල අතිරික්සුව ගැන පහතින් දැන ගන්න
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = ප්‍රශ්නයක් ද? <a { $attrs }>{ -brand-name-mozilla } සහාය</a> ඔබව ආවරණය කරයි.
+firefox-desktop-download-just-download-the-browser = අතිරික්සුව බාගන්න
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = ආසන්නයි!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = දැන් { -brand-name-firefox } <strong>ස්ථාපනය</strong> කරන්න.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = දැන් බාගත කළ ස්ථාපකය <strong>ධාවනය කරන්න</strong>.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = දැන් බාගත කළ ගොනුව <strong>විවෘත කරන්න</strong>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = ප්‍රශ්නයක්ද? <a { $attrs }>ඔබගේ ස්ථාපනය සඳහා උදව් ලබා ගන්න</a>.
