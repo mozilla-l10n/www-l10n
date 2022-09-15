@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = ດາວໂຫລດຕອນນີ້ເລີຍ
 download-button-free-download = ດາວໂຫລດຟຣີ
@@ -14,7 +14,7 @@ download-button-systems-languages = ພາສາ &amp; ລະບົບ
 download-button-recommended = ແນະນຳ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }"> { -brand-name-mozilla } ບໍ່ມີການອັບເດດຄວາມປອດໄພສຳລັບ { -brand-name-firefox } ໃນ Window { -brand-name-xp } ຫຼື { -brand-name-vista } </a>, ແຕ່ທ່ານຍັງສາມາດດາວໂຫຼດ Window 32bit ເວີຊັ່ນສຸດທ້າຍໄດ້ດ້ານລຸ່ມນີ້.
+download-button-mozilla-no-longer-provides = <a href="{ $url }"> { -brand-name-mozilla } ບໍ່ມີການອັບເດດຄວາມປອດໄພສຳລັບ { -brand-name-firefox } ໃນ Window { -brand-name-xp } ຫຼື { -brand-name-vista } </a>, ແຕ່ທ່ານຍັງສາມາດດາວໂຫຼດ { -brand-name-windows } 32bit ເວີຊັ່ນສຸດທ້າຍໄດ້ດ້ານລຸ່ມນີ້.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = ກະລຸນາເຮັດຕາມ<a href="{ $url }">ຄຳແນະນຳນີ້</a>ເພື່ອຕິດຕັ້ງ { -brand-name-firefox }
@@ -31,7 +31,7 @@ download-button-app-store = ໂຫລດມານຳໃຊ້ຟຣີໄດ້�
 download-button-download-app-store = ດາວໂຫລດໃນ { -brand-name-app-store }
 download-button-download-firefox = ດາວໂຫລດ { -brand-name-firefox }
 download-button-your-system-may = ລະບົບຂອງທ່ານອາດຈະບໍ່ຕອບສະຫນອງກັບຄວາມຕ້ອງການສໍາລັບ { -brand-name-firefox }, ແຕ່ວ່າທ່ານສາມາດລອງໃຊ້ຫນຶ່ງໃນເວີຊັນເຫລົ່ານີ້:
-download-button-firefox-beta-android = <span>Firefox ເວີຊັນທົດລອງນຳໃຊ້</span>ສຳລັບ { -brand-name-android }
+download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span>ສຳລັບ { -brand-name-android }
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span>ສຳລັບ { -brand-name-android }
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> ສຳລັບ { -brand-name-android }
 download-button-firefox-android = <span>{ -brand-name-firefox }</span>ສຳລັບ { -brand-name-android }

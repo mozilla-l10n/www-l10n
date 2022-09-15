@@ -6,7 +6,6 @@ error-page-mozilla = { -brand-name-mozilla }
 error-page-firefox = { -brand-name-firefox }
 error-page-error-page-internal-server-error = 500: ຂໍ້ຜິດພາດພາຍໃນເຊີເວີ
 error-page-something-went-wrong = ມີບາງຢ່າງຜິດພາດ
-error-page-its-probably-just-a-server-error = { "" }
 # Variables:
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
