@@ -11,7 +11,7 @@
 firefox-new-download-firefox = { -brand-name-firefox } බාගන්න
 firefox-new-download-the-fastest-firefox = මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
 firefox-new-mozilla = { -brand-name-mozilla }
-firefox-new-faster-page-loading-less-memory = වේගවත් පිටු පූරණය, අඩු මතක භාවිතය සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-firefox } මෙහි ඇත.
+firefox-new-faster-page-loading-less-memory = වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-firefox } මෙහි ඇත.
 firefox-new-get-the-latest-firefox = නවතම { -brand-name-firefox } අතිරික්සුව ගන්න.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-windows } සඳහා <br>{ -brand-name-firefox } බාගන්න
@@ -61,5 +61,6 @@ firefox-new-visit-support-for-more = වැඩි විස්තර සඳහ�
 firefox-new-download-browser = { -brand-name-firefox-browser } බාගන්න
 firefox-new-fast = වේගවත්, පෞද්ගලික සහ නොමිලේ
 firefox-new-from-mozilla = { -brand-name-mozilla } වෙතින්
+firefox-new-desc = { -brand-name-firefox-browser } යනු වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන නොමිලේ අතිරික්සුවකි - ලාභ නොලබන { -brand-name-mozilla } හි ව්‍යාපෘතියකි.
 firefox-new-download-a-different = වෙනස් වේදිකාවක් හෝ භාෂාවක් බාගන්න
 firefox-new-taskbar = { -brand-name-firefox } ස්ථාපනය කිරීමෙන් පසු { -brand-name-windows } කාර්ය තීරුවට අමුණනු ලැබේ.
