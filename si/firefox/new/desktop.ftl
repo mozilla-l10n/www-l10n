@@ -45,13 +45,13 @@ firefox-desktop-its-your-internet = දහස් ගණනක් මෙවලම
 # Obsolete string
 firefox-desktop-download-master-password = ප්‍රධාන මුරපදය
 firefox-desktop-download-we-block-the-ad = අපි ලුහුබඳින දැන්වීම් අවහිර කරන්නෙමු. ඔබ වේගයෙන් අන්තර්ජාලයෙහි සැරිසරන්න.
-firefox-desktop-download-ads-are-distracting = දැන්වීම් මගින් අවධානය වෙනතකට යොමු කරන අතර ඒවායේ ලුහුබැඳීම් ඔබ මාර්ගගතව තබන සෑම පියවරක්ම නරඹන බැවින් පිටු පූරණය වීම මන්දගාමී කරයි. { -brand-name-firefox-browser } ස්වයංක්‍රීයව බොහෝ ලුහුබැඳීම් අවහිර කරයි, එබැවින් ඔබගේ ආරක්‍ෂණ සැකසුම් හාරා බැලීමට අවශ්‍ය නොවේ.
+firefox-desktop-download-ads-are-distracting = දැන්වීම් මගින් අවධානය වෙනතකට යොමු කරන අතර ඒවායේ ලුහුබැඳීම් ඔබ මාර්ගගතව තබන සෑම පියවරක්ම නරඹන බැවින් පිටු පූරණය මන්දගාමී වේ. { -brand-name-firefox-browser } ස්වයංක්‍රීයව බොහෝ ලුහුබැඳීම් අවහිර කරයි, එබැවින් ඔබගේ ආරක්‍ෂණ සැකසුම් හාරා බැලීමට අවශ්‍ය නොවේ.
 firefox-desktop-download-see-your-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
 firefox-desktop-download-for-everyone = { -brand-name-firefox } සැවොම සඳහාය
-firefox-desktop-download-available-in-over = භාෂා 90 කට වැඩි ප්‍රමාණයකින් තිබේ, { -brand-name-windows }, { -brand-name-mac-short } සහ { -brand-name-linux } යන්ත්‍ර සඳහා හොදින් ගැළපෙයි. ඔබ භාවිතා කරන්නේ කුමක්ද හෝ ඔබ සිටින්නේ කොහේද යන්න { -brand-name-firefox } සඳහා වැදගත් නොවේ. උසස් අත්දැකීමක් සඳහා ඔබගේ මෙහෙයුම් පද්ධතිය යාවත්කාලීන බවට වග බලා ගන්න.
+firefox-desktop-download-available-in-over = භාෂා 90 කට වැඩි ප්‍රමාණයකින් තිබේ, { -brand-name-windows }, { -brand-name-mac-short } සහ { -brand-name-linux } යන්ත්‍ර සඳහා හොඳින් ගැළපෙයි. ඔබ භාවිතා කරන්නේ කුමක්ද හෝ ඔබ සිටින්නේ කොහේද යන්න { -brand-name-firefox } සඳහා වැදගත් නොවේ. උසස් අත්දැකීමක් සඳහා ඔබගේ මෙහෙයුම් පද්ධතිය යාවත්කාලීන බවට වග බලා ගන්න.
 firefox-desktop-download-review-system-req = පද්ධති අවශ්‍යතා සමාලෝචනය
 firefox-desktop-download-all-your-devices = ඔබගේ උපාංග සියල්ලට { -brand-name-firefox } දමන්න
-firefox-desktop-download-take-your-privacy = සැමතැන ඔබගේ පෞද්ගලිකත්‍වය ඔබ සමඟ රැගෙන යන්න. ඔබ කොතැනක සිටියත්, { -brand-name-android } සහ { -brand-name-ios } සඳහා { -brand-name-firefox-browsers } අතිරික්සුවල වියමන පුරා ඔබව හඹා යාම අවහිර කිරීමට සමත් ප්‍රබල රහස්‍යතා විශේෂාංග තිබේ.
+firefox-desktop-download-take-your-privacy = සැමතැන ඔබගේ පෞද්ගලිකත්‍වය ඔබ සමඟ රැගෙන යන්න. ඔබ කොතැනක සිටියත්, { -brand-name-android } සහ { -brand-name-ios } සඳහා { -brand-name-firefox-browsers } ප්‍රබල රහස්‍යතා විශේෂාංග භාවිතයෙන් වියමන පුරා ඔබව හඹා යන ලුහුබැඳීම් අවහිර කරයි.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = මේ <strong>සියල්ල</strong> { -brand-name-firefox } සමඟ කරන්න
 firefox-desktop-download-search-smarter = කඩිසරව, වේගයෙන් සොයන්න
