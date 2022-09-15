@@ -32,7 +32,7 @@ privacy-index-to-review-and-comment-on-proposed = Që të shqyrtoni dhe komenton
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Lexoni më tepër rreth punës së vazhdueshme për politika të privatësisë dhe sigurisë publike, te <a href="{ $blog }">{ -brand-name-mozilla }'s Open Policy and Advocacy Blog</a>.
 privacy-index-outdated-policies = Rregulla të Vjetruara
-privacy-index-mozilla-websites-communications = Sajte, Komunikime &amp; Cookies Mozilla
+privacy-index-mozilla-websites-communications = Sajte, Komunikime &amp; Cookies { -brand-name-mozilla }
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
