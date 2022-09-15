@@ -37,6 +37,8 @@ new-platform-look-under-the-hood = { -brand-name-linux } මෙන්ම, { -bra
 new-platform-download-mozilla-firefox-mac = { -brand-name-mac-short } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = { -brand-name-mac-short } සඳහා මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
+# /firefox/mac/ social sharing description
+new-platform-faster-page-loading-mac = වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-mac-short } සඳහා { -brand-name-firefox } මෙහි තිබේ.
 new-platform-privacy-comes-first = පෞද්ගලිකත්‍වය මුලින්ම
 new-platform-firefox-doesnt-spy = { -brand-name-firefox } සෙවීම් රහසින් බලන්නේ නැත. තෙවන පාර්ශ්ව ලුහුබඳින දත්තකඩ නවත්වමින් ඔබට පූර්ණ පාලනය ලබා දෙයි.
 new-platform-get-speed-and-security = වේගය හා ආරක්‍ෂාව අත්කර ගන්න. { -brand-name-mac-short } හිදී { -brand-name-firefox } වේගවත් වන්නේ මන්ද, අපි ඔබ සිදු කරන දෑ නිරීක්‍ෂණය නොකරන නිසාය.
@@ -48,6 +50,8 @@ new-platform-be-the-master-of-your = දැඩිව අන්තර්ගත �
 new-platform-download-mozilla-windows = { -brand-name-windows } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = { -brand-name-windows } සඳහා මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
+# /firefox/windows/ social sharing description
+new-platform-faster-page-loading-windows = වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-windows } සඳහා { -brand-name-firefox } මෙහි තිබේ.
 new-platform-firefox-moves-fast = { -brand-name-firefox } ඔබගේ දත්ත පරිස්සමින් සකසයි. ලුහුබඳින දැන්වීම් නැත සහ මන්දගාමී නොවේ.
 new-platform-common-sense-privacy = පොදු රහස්‍යතාව
 new-platform-live-your-life = ඔබගේ ජීවිතය ගත කරන්න, { -brand-name-firefox } ඔබව නරඹන්නේ නැත. බෙදාගත යුතු දෑ සහ කවදාද යන්න තෝරා ගන්න.
