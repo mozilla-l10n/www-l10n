@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
-privacy-index-mozilla-privacy = { -brand-name-firefox } ಗೌಪ್ಯತೆ
+privacy-index-mozilla-privacy = { -brand-name-mozilla } ಗೌಪ್ಯತೆ
 privacy-index-contact-mozilla = { -brand-name-mozilla } ಸಂಪರ್ಕಿಸಿ
 privacy-index-data-privacy-principles = ದತ್ತಾಂಶ ಗೋಪ್ಯತೆ ಕಾರ್ಯನೀತಿಗಳು
 privacy-index-transparency-report = ಪಾರದರ್ಶಕತೆ ವರದಿ

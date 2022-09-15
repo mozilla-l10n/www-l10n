@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -12,7 +12,7 @@ home-our-impact = ನಮ್ಮ ಪ್ರಭಾವ
 home-the-coral-project = ಕೊರಲ್ ಯೋಜನೆ
 home-our-innovations = ನಮ್ಮ ಸಂಶೋಧನೆಗಳು
 home-virtual-reality-platform = ವಾಸ್ತವ ಸತ್ಯತೆಯ ವೇದಿಕೆ
-home-common-voice = ಸಾಮಾನ್ಯ ಧ್ವನಿ
+home-common-voice = { -brand-name-common-voice }
 home-extensions = ವಿಸ್ತರಣೆಗಳು
 home-careers = ಕೆಲಸಗಳು
 home-learn-about-the-benefits-of = { -brand-name-mozilla } ದಲ್ಲಿ ಕೆಲಸ ಮಾಡುವುದರ ಲಾಭಗಳ ಬಗ್ಗೆ ಕಲಿಯಿರಿ ಮತ್ತು ವಿಶ್ವದಾದ್ಯಂತ ಮುಕ್ತವಾಗಿರುವ ಸ್ಥಾನಗಳನ್ನು ನೋಡಿ.

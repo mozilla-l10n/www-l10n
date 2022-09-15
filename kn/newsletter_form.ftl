@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-your-email-here = YOUR EMAIL HERE
 newsletter-form-format = ಸ್ವರೂಪ
@@ -15,7 +15,7 @@ newsletter-form-if-you-havent-previously = ನೀವು ಈ ಹಿಂದೆ {
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ನೀವು
 newsletter-form-get-firefox-tips = { -brand-name-firefox } ಸಲಹೆಗಳು, ಸೂಚನೆಗಳು, ಸುದ್ದಿ ಮತ್ತು ಇನ್ನಷ್ಟನ್ನು ಪಡೆಯಿರಿ
 newsletter-form-keep-up-with = ಜೊತೆಜೊತೆಯಾಗಿ ನೆಡೆಯಿರಿ<br> ಎಲ್ಲಾ { -brand-name-firefox }.
-newsletter-form-get-mozilla-updates = ಮೊಝಿಲ್ಲಾ ಪರಿಷ್ಕರಣೆಗಳನ್ನು ಪಡೆಯಿರಿ
+newsletter-form-get-mozilla-updates = { -brand-name-mozilla } ಪರಿಷ್ಕರಣೆಗಳನ್ನು ಪಡೆಯಿರಿ
 newsletter-form-available-languages = ಲಭ್ಯವಿರುವ ಭಾಷೆಗಳು
 newsletter-form-select-country = ನಿಮ್ಮ ದೇಶವನ್ನು ಆರಿಸಿ
 newsletter-form-sign-me-up = ನನ್ನನ್ನು ಸೈನ್ ಅಪ್ ಮಾಡಿ

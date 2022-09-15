@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = ಈಗ ಡೌನ್‌ಲೋಡ್ ಮಾಡು
 download-button-free-download = ಉಚಿತ ಡೌನ್‌ಲೋಡು
@@ -26,7 +26,7 @@ download-button-google-play = ಗೂಗಲ್ ಪ್ಲೇ‌ನಲ್ಲಿ ಪ
 download-button-free-google-play = ಗೂಗಲ್‌ ಪ್ಲೇಯಲ್ಲಿ ಉಚಿತವಾಗಿ ಪಡೆಯಿರಿ
 download-button-app-store = ಇದನ್ನು ಉಚಿತವಾಗಿ ಆಪ್ ಸ್ಟೋರ್‌ನಿಂದ ಪಡೆಯಿರಿ
 download-button-download-app-store = ಆಪ್ ಸ್ಟೋರ್‌ನಿಂದ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಿ
-download-button-download-firefox = ‍ಫೈರ್‌ಫಾಕ್ಸ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ
+download-button-download-firefox = ‍{ -brand-name-firefox } ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ
 download-button-your-system-may = ನಿಮ್ಮ ಗಣಕ { -brand-name-firefox } ನ ಅವಶ್ಯಕತೆಗಳನ್ನು ಪೂರೈಸದಿರಬಹುದು, ಆದರೆ ನೀವು ಈ ಆವೃತ್ತಿಗಳಲ್ಲಿ ಒಂದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದು:
 download-button-firefox-beta-android = <span>Firefox ಬೀಟಾ</span> ಆಂಡ್ರಾಯ್ಡ್‌ಗಾಗಿ
 download-button-firefox-aurora-android = <span>Firefox ಅರೋರ</span> ಆಂಡ್ರಾಯ್ಡ್‌ಗಾಗಿ
