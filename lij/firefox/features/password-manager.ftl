@@ -7,8 +7,6 @@
 
 # HTML page title
 password-manager-firefox-browser = { -brand-name-firefox-browser }: gestion de poule segrete veloce e façile
-# HTML page description
-password-manager-firefox-password = A gestion de poule segrete o sarva tutte e teu poule segrete inte 'n pòsto solo coscì ti peu acede in outomatico a-i sciti ò ti peu repigiâ e poule segrete sarvæ.
 # Hero title
 password-manager-password-manager = Memorizâ e poule segrete? Nisciun problema!
 password-manager-give-up-the-memory = No stâ li a sforsâ a memöia quande gh'é o Gestô de pule segrete de { -brand-name-firefox }.
@@ -24,8 +22,3 @@ password-manager-no-more-try-again = Ninte ciù “preuva torna” quande ti pre
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = O megio pe-e poule segrete
-# Obsolete string
-# Variables:
-#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
-# Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Passa a 'na megio gestion de poule segrete: çerni fra a vasta lista de <a href="{ $addons }">conponenti azonti</a> pe gestî e poule segrete. Çerni unn-a de quelle che van de ciù ò fra quelle de l'urtima generaçion graçie a-i conseggi e recençioin di asperti.
