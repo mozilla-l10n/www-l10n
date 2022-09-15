@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
 nightly-firstrun-firefox-nightly = { -brand-name-firefox-nightly } ಮೊದಲ ಪುಟ
-nightly-firstrun-thank-you-for-using = ಫೈರ್ಫಾಕ್ಸ್ ನೈಟ್ಲಿ ಬಳಸಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು
+nightly-firstrun-thank-you-for-using = { -brand-name-firefox-nightly } ಬಳಸಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು
 nightly-firstrun-test = ಪರೀಕ್ಷಿಸಿ
 nightly-firstrun-start-testing = ಪರೀಕ್ಷಿಸಲು ಪ್ರಾರಂಭಿಸಿ
 nightly-firstrun-code = ಕೋಡ್

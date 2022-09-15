@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
@@ -26,9 +26,10 @@ firefox-developer-performance = ಕಾರ್ಯಕ್ಷಮತೆ
 firefox-developer-memory = ಸ್ಮರಣೆ
 firefox-developer-style-editor = ಶೈಲಿ ಸಂಪಾದಕ
 firefox-developer-new-tools = ಹೊಸ ಉಪಕರಣಗಳು
-firefox-developer-firefox-devtools = ಫೈರ್ಫಾಕ್ಸ್ DevTools
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
+# outdated
 firefox-developer-next-gen-css-engine = ಮುಂದಿನ-ಪೀಳಿಗೆಯ CSS ಎಂಜಿನ್ನು
 firefox-developer-a-next-generation = ಒಂದು ಮುಂದಿನ-ಪೀಳಿಗೆಯ CSS ಎಂಜಿನ್ನು
 firefox-developer-faster-performance = ವೇಗದ ಕಾರ್ಯಕ್ಷಮತೆ
-firefox-developer-firefox-developer-edition-sends = Firefox ಡೆವೆಲಪರ್ ಆವೃತ್ತಿ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು { -brand-name-mozilla } ಗೆ ಕಳುಹಿಸಿಕೊಡುತ್ತದೆ.
+firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು { -brand-name-mozilla } ಗೆ ಕಳುಹಿಸಿಕೊಡುತ್ತದೆ.
 firefox-developer-welcome-to-the-all-new = ಹೊಚ್ಚ-ಹೊಸ ಫೈರ್ಫಾಕ್ಸ್ ಕ್ವಾಂಟಮ್‍ಗೆ ಸುಸ್ವಾಗತ: ಡೆವಲೆಪರ್ ಆವೃತ್ತಿ
