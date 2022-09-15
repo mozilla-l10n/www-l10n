@@ -107,6 +107,9 @@ firefox-desktop-download-keep-all-your = ඔබගේ ප්‍රියතම �
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = ප්‍රියතම { -brand-name-google } මෙවලම් (ජීමේල් සහ ඩොක්ස් වැනි) සියල්ල { -brand-name-firefox-browser } හි හොඳින් වැඩ කරයි.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = { -brand-name-facebook } (සහ { -brand-name-instagram }) ඔබව වියමන පුරා ලුහුබැඳීම නැවැත්වීමට <a { $attrs } >මෙම අතිරික්සු දිගුව බාගන්න</a>.
 firefox-desktop-download-sync-your-devices = උපාංග සමමුහූර්තය
 firefox-desktop-download-screenshots = තිර සේයා
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -122,6 +125,18 @@ firefox-desktop-download-from-security-to = ආරක්‍ෂාව, ප්‍�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-ie } { -brand-name-chrome } වැනි අතිරික්සු සඳහා වේගවත්, වඩාත් පෞද්ගලික විකල්පයක් ලෙස <a { $attrs }>{ -brand-name-mozilla }</a> මගින් { -brand-name-firefox } සාදන ලදි. අද, අපගේ මෙහෙවර මත පදනම් වූ සමාගම සහ ස්වේච්ඡා ප්‍රජාව ඔබගේ පෞද්ගලිකත්‍වය අන් සියල්ලටම වඩා ඉහළින් තබා ඇත.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = අන්තර්ජාලය වර්ධනය වන විට සහ වෙනස් වන විට, ඔබගේ පෞද්ගලිකත්වය සඳහා ඇති අයිතිය කෙරෙහි { -brand-name-firefox } දිගටම අවධානය යොමු කරයි — අපි එය හඳුන්වන්නේ <a { $attrs }>පෞද්ගලික දත්ත පොරොන්දුව</a>: අඩුවෙන් ගෙන. ආරක්‍ෂිතව තබා ගන්න. රහස් නැත. ඔබගේ දත්ත, ඔබගේ වියමන ක්‍රියාකාරකම්, මාර්ගගත විට ඔබගේ ජීවිතය { -brand-name-firefox } මගින් සුරක්‍ෂිතයි.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ඔබගේ සියළු උපාංග සඳහා තිබේ; ඔබගේ පටිති, ඉතිහාසය සහ පොත්යොමු ඔබ සමඟ රැගෙන යන්න. ඔබට අවශ්‍ය වන්නේ <a { $attrs }>{ -brand-name-firefox } ගිණුමක්</a> පමණි.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = අපගේ තිළෑලි අතිරික්සු <a { $attrs }>තිරසේයා</a> මෙවලම සමඟ මාර්ගගත ඕනෑම දෙයක අධි-විභේදන රූපයක් ගන්න
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ස්වයංක්‍රීයව <a { $attrs }>බොහෝ තෙවන පාර්ශ්ව ලුහුබැඳීම්</a> ඔබගේ වියමන ක්‍රියාකාරකම් රැස් කිරීමෙන් සහ විකිණීමෙන් අවහිර කරයි.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ප්‍රශ්නයක් ද? <a { $attrs }>{ -brand-name-mozilla } සහාය</a> ඔබව ආවරණය කරයි.
