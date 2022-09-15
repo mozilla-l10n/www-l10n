@@ -8,8 +8,8 @@
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } ສຳລັບ { -brand-name-firefox } | ປ້ອງກັນບໍ່ໃຫ້ { -brand-name-facebook } ເຫັນເວັບໄຊທີ່ທ່ານເຂົ້າ
 facebook-container-millions-of-people-around = ປະຊາຊົນຫຼາຍລ້ານຄົນໃນທົ່ວໂລກໄດ້ວາງໃຈໃນບັນດາຕົວທ່ອງເວັບຂອງ { -brand-name-firefox } ໃນ { -brand-name-android }, { -brand-name-ios } ແລະ desktop. ໄວ. ສ່ວນຕົວ ດາວ​ໂຫຼດ​ດຽວ​ນີ້!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook } ຖືກກັກກັນເປັນຢ່າງດີ ຂີດເສັ້ນກັ້ນລະຫວ່າງສ່ວນອື່ນໆ ໃນຊີວິດທ່ານ.
-facebook-container-get-the-facebook-container = ຮັບການຂະຫຍາຍຂອງຄອນເທນເນີຂອງເຟດບຸກ
-facebook-container-download-firefox-and-get-the = ດາວໂຫລດ { -brand-name-firefox } ແລະ ໄດ້ຮັບການຂະຫຍາຍຂອງເຟສບຸກ
+facebook-container-get-the-facebook-container = ຮັບການຂະຫຍາຍຂອງຄອນເທນເນີຂອງ { -brand-name-facebook-container }
+facebook-container-download-firefox-and-get-the = ດາວໂຫລດ { -brand-name-firefox } ແລະ ໄດ້ຮັບການຂະຫຍາຍຂອງ { -brand-name-facebook-container }
 # Outdated string
 facebook-container-the-facebook-container-extension = ສ່ວນຂະຫຍາຍຂອງ { -brand-name-facebook-container } ແມ່ນບໍ່ສາມາດນຳໃຊ້ງານໄດ້ໃນອຸປະກອນໂທລະສັບ.
 # Outdated string
