@@ -121,7 +121,7 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-android }-ზე</strong>
 firefox-desktop-download-get-firefox-ios = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-ios }-ზე</strong>
 firefox-desktop-download-download-the-mobile = ჩამოტვირთეთ { -brand-name-firefox } მობილურისთვის, თავისთავდი დაცვით, ყველა თქვენს მოწყობილობაზე.
-firefox-desktop-download-learn-about-the = ვრცლად, იხილეთ ქვემოთ { -brand-name-firefox } ბრაუზერი კომპიუტერისთვის
+firefox-desktop-download-learn-about-the = ვრცლად იხილეთ ქვემოთ { -brand-name-firefox } ბრაუზერი კომპიუტერისთვის
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"

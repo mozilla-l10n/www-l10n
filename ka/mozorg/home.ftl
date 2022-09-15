@@ -27,6 +27,6 @@ home-common-voice = { -brand-name-common-voice }
 home-extensions = დამატებები
 home-personalize-firefox-with-your = მოარგეთ { -brand-name-firefox } თქვენს მოთხოვნილებებს, რჩეული დამატებების საშუალებით, როგორიცაა პაროლების მმართველი, რეკლამების შემზღუდველი და ა. შ.
 home-careers = დასაქმება
-home-learn-about-the-benefits-of = იხილეთ ვრცლად, { -brand-name-mozilla }-ში მუშაობის უპირატესობების შესახებ და გაეცანით ვაკანსიებს მთელი მსოფლიოდან.
+home-learn-about-the-benefits-of = იხილეთ ვრცლად { -brand-name-mozilla }-ში მუშაობის უპირატესობების შესახებ და გაეცანით ვაკანსიებს მთელი მსოფლიოდან.
 home-need-help = გესაჭიროებათ დახმარება?
 home-get-answers-to-your-questions = მიიღეთ პასუხები { -brand-name-firefox } და { -brand-name-mozilla }-სთან დაკავშირებულ ყველა კითხვაზე ჩვენი მხარდაჭერის გუნდისგან.

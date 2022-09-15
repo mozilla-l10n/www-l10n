@@ -51,8 +51,8 @@ misinformation-why-trust-firefox = რატომაა სანდო { -bran
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 misinformation-because-we-put-people-first = იმიტომ, რომ ჩვენ ხალხს ვაყენებთ ყველაფერზე წინ. ჩვენ ზურგს გვიმაგრებს <a href="{ $foundation }">არამომგებიანი დაწესებულება</a>. დაარსების დღიდან, ჩვენი მიზანი ინტერნეტის და მისი მომხმარებლების დაცვაა.
-misinformation-learn-more-about-our-mission = ვრცლად, ჩვენი მიზნების შესახებ
+misinformation-learn-more-about-our-mission = ვრცლად ჩვენი მიზნების შესახებ
 misinformation-your-privacy-by-the-product = თქვენი პირადულობა, სხვადასხვა პროდუქტებით
 misinformation-firefox-products-work-differently = { -brand-name-firefox }-პროდუქტები მუშაობს განსხვავებულად — ვინაიდან, ისინი განკუთვნილია პირველ რიგში, თქვენი პირადულობის დაცვისთვის.
-misinformation-learn-about-our-products = ვრცლად, ჩვენს პროდუქტებზე
+misinformation-learn-about-our-products = ვრცლად ჩვენს პროდუქტებზე
 misinformation-designed-to-protect = თქვენი პირადი მონაცემების დასაცავად შექმნილი

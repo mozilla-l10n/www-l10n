@@ -53,7 +53,7 @@ vpn-landing-faq-info-question-heading = რა მონაცემებს �
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
-vpn-landing-faq-info-question-desc-v2 = ჩვენ მკაცრად მივყვებით { -brand-name-mozilla }-ს <a href="{ $principles }">მონაცემების პირადულობის დებულებებს</a> და ვაგროვებთ მხოლოდ იმ ინფორმაციას, რომელიც აუცილებელია VPN-ის გამართულად მუშაობისთვის და დროდადრო გასაუმჯობესებლად. ჩვენ, აგრეთვე თვალს ვადევნებთ სარეკლამო კამპანიას და მასთან დაკავშირებულ მონაცემებს, მობილური აპლიკაციით, რომ { -brand-name-mozilla }-მ შეძლოს გაწეული სამუშაოების სარგებლიანობის განსაზღვრა. ვრცლად, იხილეთ <a href="{ $notice }">პირადულობის ჩვენი განაცხადი</a>.
+vpn-landing-faq-info-question-desc-v2 = ჩვენ მკაცრად მივყვებით { -brand-name-mozilla }-ს <a href="{ $principles }">მონაცემების პირადულობის დებულებებს</a> და ვაგროვებთ მხოლოდ იმ ინფორმაციას, რომელიც აუცილებელია VPN-ის გამართულად მუშაობისთვის და დროდადრო გასაუმჯობესებლად. ჩვენ, აგრეთვე თვალს ვადევნებთ სარეკლამო კამპანიას და მასთან დაკავშირებულ მონაცემებს, მობილური აპლიკაციით, რომ { -brand-name-mozilla }-მ შეძლოს გაწეული სამუშაოების სარგებლიანობის განსაზღვრა. ვრცლად იხილეთ <a href="{ $notice }">პირადულობის ჩვენი განაცხადი</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
@@ -133,7 +133,7 @@ vpn-landing-faq-download-heading = როგორ ჩამოვტვირ�
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
 vpn-landing-faq-download-desc = ეწვიეთ <a { $attrs }>ჩამოტვირთვის გვერდს</a>, რომ დააყენოთ { -brand-name-mozilla-vpn } თქვენს მოწყობილობაზე, შემდეგ კი შედით თქვენი { -brand-name-firefox-account(case: "adj") }.
-vpn-landing-faq-link = ვრცლად, იხილეთ ᲮᲓᲙ
+vpn-landing-faq-link = ვრცლად იხილეთ ᲮᲓᲙ
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 

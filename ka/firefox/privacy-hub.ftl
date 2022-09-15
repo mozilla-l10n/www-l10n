@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -35,10 +35,10 @@ firefox-privacy-hub-why-trust-firefox = რატომაა სანდო { 
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = იმიტომ, რომ ჩვენ ხალხს ვაყენებთ ყველაფერზე წინ. ჩვენ ზურგს გვიმაგრებს <a href="{ $foundation }">არამომგებიანი დაწესებულება</a>. დაარსების დღიდან, ჩვენი მიზანი ინტერნეტისა და მისი მონაწილეების დაცვაა.
-firefox-privacy-hub-learn-more-about-our-mission = ვრცლად, ჩვენი მიზნების შესახებ
+firefox-privacy-hub-learn-more-about-our-mission = ვრცლად ჩვენი მიზნების შესახებ
 firefox-privacy-hub-your-privacy-by-the-product = თქვენი პირადულობა, სხვადასხვა პროდუქტებით
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-პროდუქტები მუშაობს განსხვავებულად — ვინაიდან, ისინი განკუთვნილია პირველ რიგში, თქვენი პირადულობის დაცვისთვის.
-firefox-privacy-hub-learn-about-our-products = ვრცლად, ჩვენს პროდუქტებზე
+firefox-privacy-hub-learn-about-our-products = ვრცლად ჩვენს პროდუქტებზე
 firefox-privacy-hub-firefox-privacy-by-the = პირადულობა { -brand-name-firefox }-პროდუქტებში
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } იცავს თქვენს პირადულობას თითოეულ პროდუქტში.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>იცავს</strong> თქვენს პირადულობას თითოეულ პროდუქტში

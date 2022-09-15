@@ -29,13 +29,13 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } არ ყ�
 privacy-faq-wait-so-how-do-you-make-money = მოიცათ, აბა მაშინ როგორ შოულობთ ფულს?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } არაა ჩვეულებრივი დაწესებულება. ეს ერთობა 1998 წელს ჩამოყალიბდა ღია წყაროს მქონე პროექტის სახით, { -brand-name-mozilla } არის განსაზღვრული მიზნის მქონე კომპანია, რომელიც მუშაობს ინტერნეტის სიჯანსაღის უზრუნველსაყოფად. { -brand-name-mozilla-corporation } ძირითად შემოსავლებს იღებს { -brand-name-firefox }-ბრაუზერის, თანამშრომლობისა და განთავსების შესახებ გარიგებების შედეგად სხვადასხვა საძიებო სისტემებთან, მთელ მსოფლიოში. ვრცლად, ამ შემოსავლების შესახებ იხილავთ ჩვენს <a href="{ $link }">ყოველწლიურ ფინანსურ ანგარიშში</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } არაა ჩვეულებრივი დაწესებულება. ეს ერთობა 1998 წელს ჩამოყალიბდა ღია წყაროს მქონე პროექტის სახით, { -brand-name-mozilla } არის განსაზღვრული მიზნის მქონე კომპანია, რომელიც მუშაობს ინტერნეტის სიჯანსაღის უზრუნველსაყოფად. { -brand-name-mozilla-corporation } ძირითად შემოსავლებს იღებს { -brand-name-firefox }-ბრაუზერის, თანამშრომლობისა და განთავსების შესახებ გარიგებების შედეგად სხვადასხვა საძიებო სისტემებთან, მთელ მსოფლიოში. ვრცლად ამ შემოსავლების შესახებ იხილავთ ჩვენს <a href="{ $link }">ყოველწლიურ ფინანსურ ანგარიშში</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = კარგი, ეს ყველაფერი გასაგებია. რა მონაცემებს აგროვებთ?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla }, ჩვეულებრივ აგროვებს შეზღუდული სახის მონაცემებს { -brand-name-firefox }-იდან, რომელიც გვეხმარება მივიღოთ ინფორმაცია, ხალხის მიერ ბრაუზერით სარგებლობის შესახებ. ამ მონაცემების გამოსარჩევად გამოიყენება შემთხვევით შერჩეული ნიშნები, ნაცვლად მომხმარებლის სახელის ან ელფოსტისა. ვრცლად, შეგიძლიათ იხილოთ ჩვენი <a href="{ $privacy }">პირადი მონაცემების დაცვის განაცხადი</a> და გაეცნოთ <a href="{ $data }">სრულ მასალებს, მონაცემთა აღრიცხვის შესახებ</a>.
+privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla }, ჩვეულებრივ აგროვებს შეზღუდული სახის მონაცემებს { -brand-name-firefox }-იდან, რომელიც გვეხმარება მივიღოთ ინფორმაცია, ხალხის მიერ ბრაუზერით სარგებლობის შესახებ. ამ მონაცემების გამოსარჩევად გამოიყენება შემთხვევით შერჩეული ნიშნები, ნაცვლად მომხმარებლის სახელის ან ელფოსტისა. ვრცლად შეგიძლიათ იხილოთ ჩვენი <a href="{ $privacy }">პირადი მონაცემების დაცვის განაცხადი</a> და გაეცნოთ <a href="{ $data }">სრულ მასალებს, მონაცემთა აღრიცხვის შესახებ</a>.
 privacy-faq-we-make-our-documentation-public = ჩვენ ყველა საბუთს ვასაჯაროებთ, ასე რომ ნებისმიერ მსურველს შეუძლია გადაამოწმოს, სიმართლეს ვლაპარაკობთ თუ არა, მოგვახსენეთ, თუ კიდევ რისი გაუმჯობესებაა საჭირო და გპირდებით, არაფერს დავმალავთ.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = ეს საბუთები არაფრისმთქმელია ჩემთვის! შეგიძლიათ გარკვევით და მარტივი ენით ამიხსნათ?
@@ -65,4 +65,4 @@ privacy-faq-no-we-do-not-buy-peoples-data = არა, ჩვენ არ ვ�
 privacy-faq-we-do-ask-our-advertising-partners = ჩვენ ვთხოვთ ხოლმე ჩვენს სარეკლამო პარტნიორებს, რომ გამოიყენონ მხოლოდ პირველადი მონაცემები, რომელსაც საიტები და გამომცემლები ხედავენ მომხმარებლების შესახებ ანუ მხოლოდ ის, თუ რომელი ბრაუზერითა და მოწყობილობით შემოდიან საიტზე.
 privacy-faq-well-it-seems-like-you-really = კარგი, როგორც ჩანს თქვენ მართლა უზრუნველყოფთ ჩემი პირადი მონცემების უსაფრთხოებას.
 privacy-faq-yes-we-do = დიახ, ნამდვილად ასეა.
-privacy-faq-find-out-more-about-how-mozilla = იხილეთ ვრცლად, თუ როგორ ზრუნავს { -brand-name-mozilla } ინტერნეტის უსაფრთხოებაზე.
+privacy-faq-find-out-more-about-how-mozilla = იხილეთ ვრცლად თუ როგორ ზრუნავს { -brand-name-mozilla } ინტერნეტის უსაფრთხოებაზე.

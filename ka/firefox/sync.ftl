@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/sync/
@@ -22,4 +22,4 @@ firefox-sync-enter-an-email = შეიყვანეთ ელფოსტი�
 firefox-sync-click-next-to = დააწკაპეთ <strong>„შემდეგ“</strong>, რომ ელფოსტაზე მიიღოთ დასტურის წერილი.
 firefox-sync-after-you-check = ელფოსტის შემოწმების და დასტურის ბმულზე დაწკაპების შემდეგ, { -brand-name-firefox } ავტომატურად დაასინქრონებს მონაცემებს ფონურად.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
-firefox-sync-learn-more = იხილეთ ვრცლად, როგორ მართოთ { -brand-name-firefox-account }
+firefox-sync-learn-more = იხილეთ ვრცლად როგორ მართოთ { -brand-name-firefox-account }

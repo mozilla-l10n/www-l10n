@@ -70,7 +70,7 @@ history-the-mozilla-community-together = { -brand-name-mozilla }-ს ერთ�
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = თუ გსურთ შემოუერთდეთ ჩვენს მიზანს, გთხოვთ <a href="{ $contribute }">ჩაერთოთ</a>.
-history-for-more-information-about = ვრცლად, { -brand-name-mozilla }-ს ისტორიაზე, იხილეთ:
+history-for-more-information-about = ვრცლად { -brand-name-mozilla }-ს ისტორიაზე, იხილეთ:
 history-mozilla-bookmarks = { -brand-name-mozilla } სანიშნები
 history-timeline-of-mozilla-project = { -brand-name-mozilla }-პროექტის ქრონოლოგია
 history-mozilla-digital-memory-bank = { -brand-name-mozilla } მეხსიერების ციფრული ბანკი

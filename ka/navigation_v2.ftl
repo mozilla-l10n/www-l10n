@@ -26,7 +26,7 @@ navigation-v2-learn-how-firefox-treats = იხილეთ, როგორ ღ
 navigation-v2-firefox-blog = { -brand-name-firefox } სვეტი
 navigation-v2-read-about-new-firefox-features = იხილეთ, { -brand-name-firefox }-ის ახალი შესაძლებლობები და რჩევები, როგორ გამოიყენოთ ინტერნეტი უსაფრთხოდ.
 navigation-v2-release-notes = გამოშვების მონაცემები
-navigation-v2-get-the-details-on-the = გაეცანით ვრცლად, უახლესი { -brand-name-firefox }-ბრაუზერის განახლებებს.
+navigation-v2-get-the-details-on-the = გაეცანით ვრცლად უახლესი { -brand-name-firefox }-ბრაუზერის განახლებებს.
 navigation-v2-view-all-firefox-browsers = იხილეთ { -brand-name-firefox-browsers }
 
 ## Products menu
@@ -86,4 +86,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = შემოგვწირეთ თქვენი ხმა, რომ მომავალში ვებსამყაროს, ყველასი ესმოდეს.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = შეისწავლეთ ახალი, ქვედა დონის, ასემბლერის მაგვარი ენა.
-navigation-v2-more-mozilla-innovation = ვრცლად, { -brand-name-mozilla }-ს დანერგილ სიახლეებზე

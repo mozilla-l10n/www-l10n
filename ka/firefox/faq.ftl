@@ -48,7 +48,7 @@ is-firefox-safe = { -brand-name-firefox } უსაფრთხოა?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
-not-only-is = { -brand-name-firefox } არათუ უსაფრთხოა გამოსაყენებლად, იგი ასევე იცავს თქვენს პირად მონაცემებს. { -brand-name-firefox-browser } თავადვე უზღუდავს ცნობილ მეთვალყურეებს, სოციალური ქსელების აღმრიცხავ, კრიპტოგამომმუშავებელ და მომხმარებლის ამომცნობ საშუალებებს, თქვენზე ინფორმაციის შეგროვების შესაძლებლობას. <a href="{ $url }">გაეცანით ვრცლად, პირადულობის დაცვას ჩვენს პროდუქტებში.</a>
+not-only-is = { -brand-name-firefox } არათუ უსაფრთხოა გამოსაყენებლად, იგი ასევე იცავს თქვენს პირად მონაცემებს. { -brand-name-firefox-browser } თავადვე უზღუდავს ცნობილ მეთვალყურეებს, სოციალური ქსელების აღმრიცხავ, კრიპტოგამომმუშავებელ და მომხმარებლის ამომცნობ საშუალებებს, თქვენზე ინფორმაციის შეგროვების შესაძლებლობას. <a href="{ $url }">გაეცანით ვრცლად პირადულობის დაცვას ჩვენს პროდუქტებში.</a>
 related-questions-safe = მსგავსი კითხვები: კარგად იცავს { -brand-name-firefox } პირადულობას, არის { -brand-name-firefox } დაცული, უმჯობესია { -brand-name-firefox } პირადულობაში
 does-firefox-sell = ყიდის { -brand-name-firefox } თქვენს პირად მონაცემებს?
 
@@ -65,7 +65,7 @@ does-firefox-use = { -brand-name-firefox } იყენებს { -brand-name-g
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
-firefoxs-default-search = { -brand-name-google } ნაგულისხმევი საძიებო სისტემაა { -brand-name-firefox }-ში, რაც ნიშნავს, რომ მისით გვერდების მოძიება, პირდაპირ მისამართების ველიდან შეიძლება. <a href="{ $url }">იხილეთ ვრცლად, საძიებოს სისტემის პარამეტრებისა და მისი ჩანაცვლების შესახებ.</a>
+firefoxs-default-search = { -brand-name-google } ნაგულისხმევი საძიებო სისტემაა { -brand-name-firefox }-ში, რაც ნიშნავს, რომ მისით გვერდების მოძიება, პირდაპირ მისამართების ველიდან შეიძლება. <a href="{ $url }">იხილეთ ვრცლად საძიებოს სისტემის პარამეტრებისა და მისი ჩანაცვლების შესახებ.</a>
 does-firefox-have = { -brand-name-firefox }-ს მოჰყვება VPN?
 
 # Variables:
@@ -80,5 +80,5 @@ who-owns-firefox = ვის ეკუთვნის { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
-firefox-is-made = { -brand-name-firefox } შექმნილია { -brand-name-mozilla-corporation }-ის მიერ, რომელიც სრულად ექვემდებარება არამომგებიან <a href="{ $url }">{ -brand-name-mozilla-foundation }-ს,</a> და ხელმძღვანელობს { -brand-name-mozilla }-ს დებულებებით. ვრცლად, გაეცანით { -brand-name-firefox }-ის შემქმნელს <a href="{ $url2 }">აქედან.</a>
+firefox-is-made = { -brand-name-firefox } შექმნილია { -brand-name-mozilla-corporation }-ის მიერ, რომელიც სრულად ექვემდებარება არამომგებიან <a href="{ $url }">{ -brand-name-mozilla-foundation }-ს,</a> და ხელმძღვანელობს { -brand-name-mozilla }-ს დებულებებით. ვრცლად გაეცანით { -brand-name-firefox }-ის შემქმნელს <a href="{ $url2 }">აქედან.</a>
 related-questions-who = მსგავსი კითხვები: { -brand-name-firefox } ვის მფლობელობაშია, ვინ ფლობს { -brand-name-firefox-browser(case: "dat") }, { -brand-name-firefox } არის { -brand-name-google }-ის საკუთრება, { -brand-name-mozilla } { -brand-name-firefox } ეკუთვნის { -brand-name-google }-ს
