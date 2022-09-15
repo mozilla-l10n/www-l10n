@@ -53,6 +53,7 @@ firefox-desktop-download-search-smarter = කඩිසරව, වේගයෙන
 firefox-desktop-download-search-from-address = ලිපින තීරුවෙන් සොයන්න
 firefox-desktop-download-search-engine-options = සෙවුම් යන්ත්‍ර විකල්ප
 firefox-desktop-download-smart-search-suggestions = උචිත සෙවුම් යෝජනා
+firefox-desktop-download-bookmark-history = ප්‍රතිඵලවල පොත්යොමු, ඉතිහාසය හා විවෘත පටිති
 firefox-desktop-download-boost-your = ඵලදායිතාව ඉහළ නංවන්න
 firefox-desktop-download-works-with-google = { -brand-name-google } නිෂ්පාදන සමඟ වැඩ කරයි
 firefox-desktop-download-built-in-screenshot = තිළෑලි තිරසේයා මෙවලම
@@ -67,6 +68,7 @@ firefox-desktop-download-stream-share-play = ප්‍රචාරය, බෙද
 firefox-desktop-download-block-autoplay-of = දෘශ්‍යක හා හඬපට ස්වයං වාදනය අවහිරය
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = රූපයෙන් රූපයට
+firefox-desktop-download-curated-content-on = නව පටිතිවල ප්‍රයෝජනවත් අන්තර්ගත
 firefox-desktop-download-share-links = සබැඳි බෙදාගන්න
 firefox-desktop-download-protect-your-privacy = ඔබගේ පෞද්ගලිකත්‍වය සුරකියි
 firefox-desktop-download-third-party-cookie = තෙවන පාර්ශ්ව දත්තකඩ අවහිරය
@@ -87,10 +89,14 @@ firefox-desktop-download-adjust-search-bar = සෙවුම් තීරුව 
 firefox-desktop-download-change-new-tab = පටිති පිරිසැලසුම සංශෝධනය
 firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> ඔබගේම කරගන්න
 firefox-desktop-download-extensions-for-every = ඕනෑම රුචිකත්වයක් සඳහා දිගු
+firefox-desktop-download-change-up-your = පෙනුම වෙනස් කරන්න
 firefox-desktop-download-tweak-your-settings = සැකසුම් හැඩ ගන්වන්න
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = මිනිසුන්ට මුල් තැන දෙන <strong>ලාභ නොලබන</strong> පිටුබලයකින් යුක්තයි
+firefox-desktop-download-challenging-the-status = 1998 සිට පවතින තත්‍වයට අභියෝග කිරීම
 firefox-desktop-download-your-privacy-comes = පෞද්ගලිකත්‍වය මුලින්ම
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = ඔබගේ ප්‍රියතම අතිරික්සු විශේෂාංග සියල්ල තබා ගන්න — සහ අළුත් දෑ <strong>සොයා ගන්න</strong>.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = ප්‍රියතම { -brand-name-google } මෙවලම් (ජීමේල් සහ ඩොක්ස් වැනි) සියල්ල { -brand-name-firefox-browser } හි හොඳින් වැඩ කරයි.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
