@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Telecargar lo PDF
 download-button-free-download = Telecargament gratuit
@@ -22,16 +22,16 @@ download-button-firefox-other-platforms = { -brand-name-firefox } per autras len
 download-button-update-your-firefox = Metre a jorn { -brand-name-firefox }
 download-button-get-firefox-android = Telecargatz { -brand-name-firefox } per { -brand-name-android }
 download-button-get-firefox-ios = Telecargar { -brand-name-firefox } per l'{ -brand-name-ios }
-download-button-google-play = Gratuit sus Google&nbsp;Play
-download-button-free-google-play = Gratuit sus Google&nbsp;Play
+download-button-google-play = Gratuit sus { -brand-name-google-play }
+download-button-free-google-play = Gratuit sus { -brand-name-google-play }
 download-button-app-store = Gratuit sus l’{ -brand-name-app-store }
 download-button-download-app-store = Lo telecargar sus l’{ -brand-name-app-store }
 download-button-download-firefox = Telecargar { -brand-name-firefox }
 download-button-your-system-may = Se pòt que vòstre sistèma aja pas la configuracion que cal per { -brand-name-firefox }, mai podètz ensajar una de las versions seguentas :
-download-button-firefox-beta-android = <span>Firefox Bèta</span> per { -brand-name-android }
-download-button-firefox-aurora-android = <span>Firefox Auròra</span> per { -brand-name-android }
+download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> per { -brand-name-android }
+download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> per { -brand-name-android }
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> per { -brand-name-android }
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> per { -brand-name-android }
-download-button-firefox-ios = <span>{ -brand-name-firefox }</span> per Android
+download-button-firefox-ios = <span>{ -brand-name-firefox }</span> per { -brand-name-ios }
 download-button-firefox-privacy = Politica de confidencialitat de { -brand-name-firefox }
 download-button-download = Telecargament

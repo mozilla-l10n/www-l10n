@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Amb lo navigator Firefox : vòstres marcapaginas pertot ont anetz
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser } : vòstres marcapaginas pertot ont anetz
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organizatz aisidament vòstres marcapaginas dins un dossièr e i auretz accès de totes vòstres periferics, de vòstre ordenador de burèl fins a vòstre mobil.
 features-bookmarks-better-bookmarks = De melhors marcapaginas
