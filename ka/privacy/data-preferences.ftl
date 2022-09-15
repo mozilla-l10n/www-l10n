@@ -13,3 +13,7 @@ data-preferences-notification-opt-in = ჩართული ხართ მო
 #   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
 #   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
 data-preferences-your-privacy = თქვენი პირადულობის ხელშეუხებლობას დიდ მნიშვნელობას ანიჭებს { -brand-name-mozilla }. პირდაპირი გზით აღრიცხვისა და კვლევის ჩვენი პლატფორმა, სახელწოდებით <a href="{ $glean }">{ -brand-name-glean }</a>, ითვალისწინებს ჩვენ მიერვე დაწესებულ მაღალ მოთხოვნებს <a href="{ $lean_data }">მონაცემთა შეზღუდულად შეგროვებისთვის</a>.
+# Variables:
+#   $dictionary (url) - link to https://dictionary.telemetry.mozilla.org/
+#   $privacy_notice (url) - link to https://www.mozilla.org/privacy/websites/
+data-preferences-mozilla-uses = { -brand-name-mozilla } იყენებს { -brand-name-glean }-ს საიტის გამოყენების მონაცემების შესაგროვებლად ზოგიერთ mozilla.org ვებგვერდზე, რომ დავრწმუნდეთ, სათანადოდ მიეწოდება თუ არა მომხმარებელს ჩვენი მომსახურება. { -brand-name-glean } არ უზიარებს ინფორმაციას გარეშე მხარეებს. თითოეული აღრიცხული მონაცემი მკაცრად მოწმდება. შესაგროვებელ მონაცემთა ცალკეული სახეობების შესახებ დაწვრილებით იხილეთ <a href="{ $dictionary }">{ -brand-name-glean }-სიტყვარში</a>. თუ რა გზით ვამუშავებთ და ვაზიარებთ თქვენს ინფორმაციას { -brand-name-mozilla } ვებსაიტებზე, გაეცნობით <a href="{ $privacy_notice }">საიტების, ურთიერთკავშირისა და ფუნთუშების პირადულობის განაცხადში</a>.
