@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -19,19 +19,6 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 manifesto-our-10-principles = គោលការណ៍​<strong> 10</strong> របស់​ពួក​យើង
-manifesto-use-open-badges-to-share = ប្រើ Badges បើក​​ចែករំលែក​ជំនាញ និង​ចំណាប់​អារម្មណ៍​
-manifesto-learn-about-open-source = ស្វែងយល់​អំពី​កូដ​ប្រភព​បើក​ចំហ​​ក្នុង​ភាព​ជា​សារព័ត៌មាន
-manifesto-see-how-mozilla-works = មើល​​របៀប​ការងារ​​របស់​ { -brand-name-mozilla } ដើម្បី​បញ្ចូល​ភាព​ឯកជន​ដំបូង​របស់​អ្នក
-manifesto-read-about-developments = អាន​អំពី​ភាព​អភិវឌ្ឍន៍​នៅ​ក្នុង​ទិន្នន័យ​ឯកជន និង​សុវត្ថិភាព​
-manifesto-learn-more-about-how-to = ស្វែងយល់​បន្ថែម​អំពី​របៀប​ការពារ​លើ​បណ្ដាញ​របស់​អ្នក
-manifesto-add-new-voices-to-open = បន្ថែម​សំឡេង​ថ្មី​ទៅ​កាន់​បច្ចេកវិទ្យា​ប្រភព​បើក​ចំហ
-manifesto-set-your-do-not-track = កំណត់​ចំណូល​ចិត្ត Do Not Track
-manifesto-learn-how-to-remix-content = ស្វែងយល់​ពី​របៀប​បញ្ចូល​មាតិកា​ឡើង​វិញ​​ដើម្បី​បង្កើត​អ្វី​មួយ​ថ្មី
-manifesto-participate-in-our-governance = ចូលរួម​ក្នុង​វេទិកា​របស់​រដ្ឋាភិបាល​​
-manifesto-join-us-as-a-volunteer = ចូលរួម​ជាមួយ​យើង​ជា​អ្នកស្ម័គ្រចិត្ត
-manifesto-learn-how-to-collaborate = ស្វែងយល់​ពី​របៀប​សហការ​នៅ​លើ​បណ្ដាញ
-manifesto-host-or-join-a-maker-party = បង្ហោះ ឬ​ចូលរួម { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = ស្វែងយល់​ពី​របៀប​បង្កើត​ជំនាញ​សហការ​នៅ​លើ​បណ្ដាញ
 manifesto-read-the-entire-manifesto = អាន​សេចក្ដី​ប្រកាស​ទាំងអស់
 manifesto-details-the-mozilla-manifesto = The { -brand-name-mozilla } Manifesto
 manifesto-details-introduction = សេចក្ដី​ណែនាំ
@@ -44,7 +31,7 @@ manifesto-details-articulate-a-vision = កំណែ​អ៊ីនធឺណិ�
 manifesto-details-speak-to-people = និយាយ​ទៅ​កាន់​មនុស្ស​ថា​តើ ពួក​គេ​មាន​​ចំណេះ​ដឹង​ខាង​បច្ចេកទេស​ដែរ​ឬ​ទេ
 manifesto-details-make-mozilla-contributors = ធ្វើ​ឲ្យ​អ្នក​ចូលរួម​របស់ { -brand-name-mozilla } មាន​មោនភាព​ចំពោះ​អ្វី​ដែល​យើង​កំពុង​ធ្វើ និង​លើក​ទឹកចិត្ត​ពួក​យើ​បន្ត​ធ្វើ
 manifesto-details-provide-a-framework = ផ្ដល់​គម្រោង​សម្រាប់​មនុស្ស ដើម្បី​បង្កើន​កំណែ​អ៊ីនធឺណិត​នេះ។
-manifesto-details-these-principles = គោលការណ៍​ទាំងនេះ​នឹង​មិន​កើតមាន​ឡើង​ចំពោះ​ជីវិត​ដោយ​ខ្លួន​​ឯង​​នោះ​ទេ។ មនុស្ស​ត្រូវ​ធ្វើ​ឲ្យ​អ៊ីនធឺណិត​បើក​ទូលាយ និង​អាច​ចូលរួម​​បាន - មនុស្ស​​អាច​​ធ្វើ​សកម្មភាព​ជា​បុគ្គល ធ្វើ​ការ​ជាមួយ​គ្នា​ជា​ក្រុម និង​ដឹកនាំ​អ្នក​ផ្សេង​ធ្វើ។ មូលនិធិ { -brand-name-mozilla } ប្ដេជ្ញា​​ជំរុញ​ឲ្យ​មាន​ការ​រីកចម្រើន​ចំពោះ​គោលការណ៍​ដែល​បាន​កំណត់​នៅ​ក្នុង​ { -brand-name-mozilla } Manifesto ។ យើង​សូម​អញ្ជើញ​អ្នក​ផ្សេៗ​ទៀត​ចូលរួម​ជាមួយ​យើង ដើម្បី​​​ធ្វើ​ឲ្យ​អ៊ីនធឺណិត​ជា​​ជា​កន្លែង​ដែល​ប្រសើរ​​​ជា​និច្ច​​សម្រាប់​គ្រប់​គ្នា។
+manifesto-details-these-principles = គោលការណ៍​ទាំងនេះ​នឹង​មិន​កើតមាន​ឡើង​ចំពោះ​ជីវិត​ដោយ​ខ្លួន​​ឯង​​នោះ​ទេ។ មនុស្ស​ត្រូវ​ធ្វើ​ឲ្យ​អ៊ីនធឺណិត​បើក​ទូលាយ និង​អាច​ចូលរួម​​បាន - មនុស្ស​​អាច​​ធ្វើ​សកម្មភាព​ជា​បុគ្គល ធ្វើ​ការ​ជាមួយ​គ្នា​ជា​ក្រុម និង​ដឹកនាំ​អ្នក​ផ្សេង​ធ្វើ។ { -brand-name-mozilla-foundation } ប្ដេជ្ញា​​ជំរុញ​ឲ្យ​មាន​ការ​រីកចម្រើន​ចំពោះ​គោលការណ៍​ដែល​បាន​កំណត់​នៅ​ក្នុង​ { -brand-name-mozilla } Manifesto ។ យើង​សូម​អញ្ជើញ​អ្នក​ផ្សេៗ​ទៀត​ចូលរួម​ជាមួយ​យើង ដើម្បី​​​ធ្វើ​ឲ្យ​អ៊ីនធឺណិត​ជា​​ជា​កន្លែង​ដែល​ប្រសើរ​​​ជា​និច្ច​​សម្រាប់​គ្រប់​គ្នា។
 manifesto-details-principles = គោលការណ៍
 manifesto-details-the-internet-is-integral = អ៊ីនធឺណិត​ជា​ផ្នែក​មួយ​សំខាន់​នៃ​​ការ​រស់នៅ​ដែល​ទំនើប—សមាសភាគ​សំខាន់​ក្នុង​ការ​អប់រំ, ទំនាក់ទំនង, សហការ, អាជីវកម្ម, កម្សាន្ត និង​សង្គម​ទាំងមូល។
 manifesto-details-the-internet-is-global = អ៊ីនធឺណិត​ជា​ធនធាន​សាធារណៈ​សាកល​ដែល​បើក​ចំហ និង​អាច​ចូល​ដំណើរការ​បាន។
