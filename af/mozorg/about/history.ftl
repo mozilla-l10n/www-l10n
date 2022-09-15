@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = Teen 2002 het <a href="{ $over90 }">goed meer as 
 history-not-many-people-noticed = Min mense het destyds geweet, maar die eerste weergawe van Phoenix (later hernoem na { -brand-name-firefox }) is ook daardie jaar deur { -brand-name-mozilla }-gemeenskapslede vrygestel met die doel om die <a href="{ $charter }">beste moontlike blaai-ervaring</a> te bied aan die wydste moontlike gehoor.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = In 2003 het die { -brand-name-mozilla }-projek die { -brand-name-mozilla }-stigting opgerig, 'n <a href="{ $foundation }">onafhanklike organisasie sonder winsbejag</a> wat ondersteun word deur individuele borge en 'n verskeidenheid maatskappye.
+history-in-2003-the-mozilla-project = In 2003 het die { -brand-name-mozilla }-projek die { -brand-name-mozilla-foundation } opgerig, 'n <a href="{ $foundation }">onafhanklike organisasie sonder winsbejag</a> wat ondersteun word deur individuele borge en 'n verskeidenheid maatskappye.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = Die nuwe Mozilla-stigting het die projek se daaglikse bedrywighede verder bestuur en ook amptelik die rol vervul om <a href="{ $manifesto }">openheid, innovering en geleentheid</a> op die Internet te bevorder.
+history-the-new-mozilla-foundation = Die nuwe { -brand-name-mozilla-foundation } het die projek se daaglikse bedrywighede verder bestuur en ook amptelik die rol vervul om <a href="{ $manifesto }">openheid, innovering en geleentheid</a> op die Internet te bevorder.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Dit is bereik deur deurgaans sagteware soos { -brand-name-firefox } en { -brand-name-thunderbird } vry te stel, en deur uit te brei na nuwe areas, soos <a href="{ $grants }">skenkings</a> om toeganklikheid te verbeter op die Web.
