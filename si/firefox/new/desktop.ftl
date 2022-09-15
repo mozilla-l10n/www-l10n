@@ -20,6 +20,7 @@ firefox-desktop-download-download-options = බාගැනීමේ වික�
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } සහාය
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = ඔබ මාර්ගගතව කරන දෑ කරන්න.<br> { -brand-name-firefox-browser } එය <strong>නරඹන්නේ නැත</strong>.
+firefox-desktop-download-how-we-compare = වෙනත් අතිරික්සු සමඟ සසඳන ආකාරය
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
@@ -29,6 +30,8 @@ firefox-desktop-download-blocks-third-party = තෙවන පාර්ශ්ව
 firefox-desktop-download-blocks-third-party-default = පෙරනිමි ලෙස තෙවන පාර්ශ්ව ලුහුබඳින දත්තකඩ අවහිර කරයි
 firefox-desktop-download-autoplay-blocking = ස්වයං වාදනය අවහිරය
 firefox-desktop-download-blocks-social-trackers = සමාජ ලුහුබැඳීම් අවහිරය
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = මෙ. පද්. සහාය
 firefox-desktop-download-in-browser-screenshot = තිළෑලි තිරසේයා මෙවලම
 firefox-desktop-download-primary-password = ප්‍රාථමික මුරපදය
 # Obsolete string
@@ -67,6 +70,7 @@ firefox-desktop-download-library-of-extensions = දිගු පුස්තක
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = ප්‍රියතම { -brand-name-google } මෙවලම් (ජීමේල් සහ ඩොක්ස් වැනි) සියල්ල { -brand-name-firefox-browser } හි හොඳින් වැඩ කරයි.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = උපාංග සමමුහූර්තය
 firefox-desktop-download-screenshots = තිර සේයා
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = දියුණු කළ ලුහුබැඳීමේ රැකවරණය (ETP)
@@ -87,6 +91,17 @@ firefox-desktop-download-in-another-language = අන් භාෂාවකි�
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = ඔබ ස්ථාපනයට උත්සාහ කරන යෙදුම { -brand-name-microsoft }-සත්‍යාපිත යෙදුමක් නොවන බවට ප්‍රේරකයක් දුටුවහොත්, “කෙසේ වුවද ස්ථාපනය කරන්න” ඔබන්න හෝ <a { $attrs }>යෙදුම් නිර්දේශ සැකසුම් වෙනස් කරන්න</a >.
+firefox-desktop-download-visit-support-for-more = වැඩි විස්තර සඳහා සහාය බලන්න
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">තවදුරටත්</a> { -brand-name-windows } { -brand-name-xp } හෝ { -brand-name-vista } සඳහා ආරක්‍ෂණ යාවත්කාල ලබා නොදේ, නමුත් ඔබට තවමත් { -brand-name-firefox } භාවිතා කළ හැකිය.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = ඔබ භාවිතා කරන්නේ <a href="{ $url }">තවදුරටත් { -brand-name-firefox } සහාය නොදක්වන</a> අනාරක්‍ෂිත, යල් පැන ගිය මෙහෙයුම් පද්ධතියකි.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
