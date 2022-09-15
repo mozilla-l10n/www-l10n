@@ -52,3 +52,4 @@ new-platform-firefox-moves-fast = { -brand-name-firefox } ඔබගේ දත්
 new-platform-common-sense-privacy = පොදු රහස්‍යතාව
 new-platform-live-your-life = ඔබගේ ජීවිතය ගත කරන්න, { -brand-name-firefox } ඔබව නරඹන්නේ නැත. බෙදාගත යුතු දෑ සහ කවදාද යන්න තෝරා ගන්න.
 new-platform-seamless-setup = බාධා රහිත පිහිටුම
+new-platform-easy-migration = ඔබ { -brand-name-windows } සඳහා { -brand-name-firefox } බාගත කළ පසු අභිප්‍රේත සහ පොත්යොමු පහසුවෙන් සංක්‍රමණය කළ හැකිය.
