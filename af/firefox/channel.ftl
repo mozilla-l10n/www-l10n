@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -24,7 +24,7 @@ firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }
 firefox-channel-check-out-new-android-features = Geniet die nuwe funksies vir { -brand-name-android } terwyl hulle kraakvars is, maar op eie risiko.
 firefox-channel-nightly-blog = Joernaal oor { -brand-name-nightly }
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } stuur outomaties terugvoer aan { -brand-name-mozilla }.
-firefox-channel-download-and-test-the-latest-desktop = Kry en toets die jongste funksies in { -brand-name-firefox } vir rekenaars met Aurora, { -brand-name-beta } en { -brand-name-nightly }.
+firefox-channel-download-and-test-the-latest-desktop = Kry en toets die jongste funksies in { -brand-name-firefox } vir rekenaars met { -brand-name-developer-edition }, { -brand-name-beta } en { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Toets die mees stabiele weergawe voor vrystelling vir eienskappe wat nog vrygestel moet word.
 firefox-channel-release-notes = Vrystellingaantekeninge
