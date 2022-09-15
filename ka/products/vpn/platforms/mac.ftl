@@ -27,7 +27,7 @@ vpn-mac-servers-copy = მიუთითეთ თქვენი { -brand-name
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = დაიცავით { $devices } მოწყობილობა ერთი ხელშეკრულებით
-vpn-mac-devices-copy = თქვენი კომპიუტერი, პლანშეტი და სმარტფონი იმსახურებს უსარფრთხოებას. გამოიყენეთ { -brand-name-mozilla-vpn } რომ დაიცვათ { -brand-name-mac-short } და { -brand-name-ios }-მოწყობილობები (გარდა ამისა { -brand-name-windows }, { -brand-name-linux } და { -brand-name-android }).
+vpn-mac-devices-copy = თქვენი კომპიუტერი, პლანშეტი და სმარტფონი იმსახურებს უსარფრთხოებას. გამოიყენეთ { -brand-name-mozilla-vpn } რომ დაიცვათ { -brand-name-mac-short } და { -brand-name-ios }-{ $devices } (გარდა ამისა { -brand-name-windows }, { -brand-name-linux } და { -brand-name-android }).
 vpn-mac-speed-headline = სიჩქარის შეწირვის გარეშე
 vpn-mac-speed-copy = შეუზღუდავი მონაცემები და გამტარუნარიანობა გულისხმობს, რომ შეგიძლიათ ჩვეულებრივ იმოგზაუროთ ინტერნეტის ნებისმიერ წერტილში — მაღალი დონის დაცვით.
 vpn-mac-log-headline = ინტერნეტით რასაც აკეთებთ, თქვენი საქმეა
