@@ -29,5 +29,7 @@ mobile-android-switch-to-dark = ඇස්වල ආතතිය අඩු කර
 mobile-android-easily-organize-your = පටිති පහසුවෙන් කළමනාකරණය
 mobile-android-got-lots-of = විවෘත පටිති ගොඩක් තිබේද? ගැටළුවක් නැහැ, ඔබගේ කාර්යයෙහි රැඳී සිටීමට ඒවා එකතුවකට ගොනු කරන්න. විවිධ උපාංග භාවිතා කරන විට ඔබට එකම දේ පිරික්සීම දිගටම කරගෙන යාමට හැකි වන පරිදි උපාංග හරහා එකතු බෙදා ගැනීමට හැකිය.
 mobile-android-supercharge-firefox-with = එක්කහු සමඟින් { -brand-name-firefox } බල ගන්වන්න
+mobile-android-addons-are-like = එක්කහු යනු පෙරනිමි පෞද්ගලික සැකසුම් ඉහළ නංවාලීමට සහ ඔබගේ අත්දැකීම අභිරුචිකරණය සඳහා මෙන්ම තවත් බොහෝ දෑ සිදු කිරීමට අතිරික්සුව එක් කිරීමට හැකි බලවත් කුඩා මෙවලම් ය.
+mobile-android-pick-up-where = ඔබ නතර කළ තැනින් අරඹන්න
 mobile-android-about-mozilla = { -brand-name-mozilla } ගැන
 mobile-android-own-your-home = මුල් තිරය අයිති කරගන්න
