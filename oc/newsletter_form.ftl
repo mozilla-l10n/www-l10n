@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-your-email-here = VÒSTRE EMAIL AICÍ
 newsletter-form-format = Format
 newsletter-form-html = HTML
 newsletter-form-text = Tèxte
-newsletter-form-get-firefox-news = Recebètz nòstra letra mesadièra
+newsletter-form-get-firefox-news = Recebètz { -brand-name-firefox } letra
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Accepti que { -brand-name-mozilla } utilize mas informacions per acontentar aquesta <a href="{ $url }">Politica de confidencialitat</a>
