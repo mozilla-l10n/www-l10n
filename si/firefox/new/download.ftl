@@ -11,6 +11,7 @@
 firefox-new-download-firefox = { -brand-name-firefox } බාගන්න
 firefox-new-download-the-fastest-firefox = මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
 firefox-new-mozilla = { -brand-name-mozilla }
+firefox-new-faster-page-loading-less-memory = වේගවත් පිටු පූරණය, අඩු මතක භාවිතය සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-firefox } මෙහි ඇත.
 firefox-new-get-the-latest-firefox = නවතම { -brand-name-firefox } අතිරික්සුව ගන්න.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-windows } සඳහා <br>{ -brand-name-firefox } බාගන්න
@@ -37,9 +38,16 @@ firefox-new-your-firefox-new-should-begin = ඔබගේ බාගැනීම �
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } යනු අතිරික්සුවකට වඩා දෙයකි
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = ඔබගේ බාගැනීමට බාධා විය. නමුත් සියල්ල අහිමි වී නැත.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = කරුණාකර { -brand-name-firefox } ස්ථාපනය සඳහා <a href="{ $url }">මෙම උපදෙස්</a> පිළිපදින්න.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = ඔබගේ පද්ධතිය { -brand-name-firefox } සඳහා අවශ්‍යතා සපුරාලන්නේ නැති සෙයකි, නමුත් ඔබට <a href="{ $url }">මෙම අනුවාද වලින්</a> එකක් උත්සාහ කළ හැකිය.
 firefox-new-windows = { -brand-name-windows }
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = වැඩි විස්තර සඳහා සහාය බලන්න
 
 # Not-Required
 
@@ -50,3 +58,5 @@ firefox-new-windows-10 = { -brand-name-windows } 10
 firefox-new-download-browser = { -brand-name-firefox-browser } බාගන්න
 firefox-new-fast = වේගවත්, පෞද්ගලික සහ නොමිලේ
 firefox-new-from-mozilla = { -brand-name-mozilla } වෙතින්
+firefox-new-download-a-different = වෙනස් වේදිකාවක් හෝ භාෂාවක් බාගන්න
+firefox-new-taskbar = { -brand-name-firefox } ස්ථාපනය කිරීමෙන් පසු { -brand-name-windows } කාර්ය තීරුවට අමුණනු ලැබේ.
