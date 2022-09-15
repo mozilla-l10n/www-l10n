@@ -10,6 +10,8 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-firefox-browser } බාගන්න — වේගවත්, පෞද්ගලික සහ නොමිලේ — { -brand-name-mozilla } වෙතින්
+firefox-desktop-download-og-title = මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
+firefox-desktop-download-og-desc = වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-firefox } මෙහි තිබේ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = වැදගත් දෑ ආරක්‍ෂා කරන අතිරික්සුව ගන්න
 # shady is slang which suggests something is untrustworthy
@@ -23,9 +25,42 @@ firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = ඔව්
 firefox-desktop-download-no = නැහැ
+firefox-desktop-download-blocks-third-party = තෙවන පාර්ශ්ව ලුහුබඳින දත්තකඩ අවහිරය
+firefox-desktop-download-blocks-third-party-default = පෙරනිමි ලෙස තෙවන පාර්ශ්ව ලුහුබඳින දත්තකඩ අවහිර කරයි
+firefox-desktop-download-autoplay-blocking = ස්වයං වාදනය අවහිරය
+firefox-desktop-download-blocks-social-trackers = සමාජ ලුහුබැඳීම් අවහිරය
+firefox-desktop-download-in-browser-screenshot = තිළෑලි තිරසේයා මෙවලම
+firefox-desktop-download-primary-password = ප්‍රාථමික මුරපදය
+# Obsolete string
+firefox-desktop-download-master-password = ප්‍රධාන මුරපදය
+firefox-desktop-download-see-your-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
+firefox-desktop-download-for-everyone = { -brand-name-firefox } සැවොම සඳහාය
 firefox-desktop-download-review-system-req = පද්ධති අවශ්‍යතා සමාලෝචනය
+firefox-desktop-download-search-from-address = ලිපින තීරුවෙන් සොයන්න
+firefox-desktop-download-search-engine-options = සෙවුම් යන්ත්‍ර විකල්ප
+firefox-desktop-download-built-in-screenshot = තිළෑලි තිරසේයා මෙවලම
+firefox-desktop-download-bookmarks-manager = පොත්යොමු කළමනාකරු
+firefox-desktop-download-autosuggest-urls = ස්වයංයෝජිත ඒ.ස.නි.
+firefox-desktop-download-sync-across-devices = උපාංග හරහා සමමුහූර්තය
+firefox-desktop-download-reader-mode = කියවීමේ ප්‍රකාරය
+firefox-desktop-download-spell-check = අකුරු පරීක්‍ෂාව
+firefox-desktop-download-pinned-tabs = ඇමිණූ පටිති
+firefox-desktop-download-stream-share-play = ප්‍රචාරය, බෙදාගැනීම හා වාදනය
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = දෘශ්‍යක හා හඬපට ස්වයං වාදනය අවහිරය
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = රූපයෙන් රූපයට
+firefox-desktop-download-share-links = සබැඳි බෙදාගන්න
+firefox-desktop-download-protect-your-privacy = ඔබගේ පෞද්ගලිකත්‍වය සුරකියි
+firefox-desktop-download-third-party-cookie = තෙවන පාර්ශ්ව දත්තකඩ අවහිරය
+firefox-desktop-download-fingerprinter-blocking = ඇඟිලි සටහන් අවහිරය
+firefox-desktop-download-private-browsing-mode = පෞද්. පිරික්සුම් ප්‍රකාරය
+firefox-desktop-download-breached-website-alerts = උල්ලංඝනය වූ අඩවි ඇඟවීම්
+firefox-desktop-download-built-in-password = තිළෑලි මුරපද කළමනාකරු
 firefox-desktop-download-clear-history = ඉතිහාසය මකන්න
+firefox-desktop-download-form-autofill = ආකෘති ස්වයං පිරවුම
 firefox-desktop-download-automatic-updates = ස්වයංක්‍රීය යාවත්කාල
+firefox-desktop-download-customize-your-browser = අතිරික්සුව අභිරුචිකරණය
 firefox-desktop-download-themes = තේමා
 firefox-desktop-download-dark-mode = අඳුරු ප්‍රකාරය
 firefox-desktop-download-library-of-extensions = දිගු පුස්තකාලය
@@ -56,5 +91,13 @@ firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = ඔබගේ බාගැනීම ස්වයංක්‍රීයව ආරම්භ විය යුතුය. නැද්ද? <a id="{ $id }" href="{ $fallback_url }">යළි උත්සාහ කරන්න.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } යනු අතිරික්සුවකට වඩා දෙයකි
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ඔබගේ බාගැනීමට බාධා විය. නමුත් සියල්ල අහිමි වී නැත.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = කරුණාකර { -brand-name-firefox } ස්ථාපනය සඳහා <a href="{ $url }">මෙම උපදෙස්</a> පිළිපදින්න.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = ඔබගේ පද්ධතිය { -brand-name-firefox } සඳහා අවශ්‍යතා සපුරාලන්නේ නැති සෙයකි, නමුත් ඔබට <a href="{ $url }">මෙම අනුවාද වලින්</a> එකක් උත්සාහ කළ හැකිය.
+firefox-desktop-download-taskbar = { -brand-name-firefox } ස්ථාපනය කිරීමෙන් පසු { -brand-name-windows } කාර්ය තීරුවට අමුණනු ලැබේ.

@@ -35,6 +35,7 @@ firefox-products-open-in-firefox = { -brand-name-firefox } හි අරින�
 firefox-products-learn-more-about-lockwise = { -brand-name-lockwise } ගැන තව දැනගන්න
 # Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
+firefox-products-send-your-large-files-and = ගි.බ. 2.5 ක් දක්වා විශාල ගොනු සහ සංවේදී ලේඛන ආරක්‍ෂිතව යවන්න.
 firefox-products-send-a-file = ගොනුවක් යවන්න
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = වියමනෙහි හොඳම අන්තර්ගත සොයා ගන්න. ඔබට අවශ්‍ය ඕනෑම තැනක සහ ඕනෑම වේලාවක එය පරිභෝජනය කරන්න.
