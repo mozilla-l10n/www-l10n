@@ -97,6 +97,7 @@ firefox-desktop-download-extensions-for-every = ඕනෑම රුචිකත�
 firefox-desktop-download-change-up-your = පෙනුම වෙනස් කරන්න
 firefox-desktop-download-go-from-light = ඔබගේ මනෝභාවය හෝ මනාපය මත පදනම්ව දීප්ත ප්‍රකාරයේ සිට අඳුරු ප්‍රකාරයට යන්න, හෝ අභිරුචි තේමාවක් (බාගදා, දේදුනු කඟවේනා) යටතේ තබා ගන්න.
 firefox-desktop-download-tweak-your-settings = සැකසුම් හැඩ ගන්වන්න
+firefox-desktop-download-theres-no-need = ඔබට අවශ්‍ය ආකාරයට අන්තර්ජාලය ගවේශනය කිරීමට නව පටිති පිටුව, සෙවුම් තීරුව, පොත්යොමු සහ අන් දෑ වෙනස් කරන්න.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = මිනිසුන්ට මුල් තැන දෙන <strong>ලාභ නොලබන</strong> පිටුබලයකින් යුක්තයි
 firefox-desktop-download-challenging-the-status = 1998 සිට පවතින තත්‍වයට අභියෝග කරයි
@@ -118,6 +119,9 @@ firefox-desktop-download-learn-about-the = { -brand-name-firefox } වැඩත�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = ආරක්‍ෂාව, ප්‍රවෘත්ති, ක්‍රීඩා හෝ අන්, <a { $attrs }>සියල්ල සඳහා දිගුවක්</a> ඇත. ඔබගේ අතිරික්සුව හොඳින් නම් ඔබට අවශ්‍ය ගණනක් එක් කරන්න.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-ie } { -brand-name-chrome } වැනි අතිරික්සු සඳහා වේගවත්, වඩාත් පෞද්ගලික විකල්පයක් ලෙස <a { $attrs }>{ -brand-name-mozilla }</a> මගින් { -brand-name-firefox } සාදන ලදි. අද, අපගේ මෙහෙවර මත පදනම් වූ සමාගම සහ ස්වේච්ඡා ප්‍රජාව ඔබගේ පෞද්ගලිකත්‍වය අන් සියල්ලටම වඩා ඉහළින් තබා ඇත.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ප්‍රශ්නයක් ද? <a { $attrs }>{ -brand-name-mozilla } සහාය</a> ඔබව ආවරණය කරයි.
