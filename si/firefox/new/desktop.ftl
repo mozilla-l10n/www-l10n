@@ -34,6 +34,8 @@ firefox-desktop-download-blocks-social-trackers = සමාජ ලුහුබ�
 firefox-desktop-download-os-availability = මෙ. පද්. සහාය
 firefox-desktop-download-in-browser-screenshot = තිළෑලි තිරසේයා මෙවලම
 firefox-desktop-download-primary-password = ප්‍රාථමික මුරපදය
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = මාර්ගගත කාලය ඵලදායීව
 # Obsolete string
 firefox-desktop-download-master-password = ප්‍රධාන මුරපදය
 firefox-desktop-download-see-your-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
