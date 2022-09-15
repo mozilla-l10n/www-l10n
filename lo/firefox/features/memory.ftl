@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = ບາວເຊີ Firefox: ໃຊ້ໜ່ວຍຄວາມຈຳໜ້ອຍ, ມີຄວາມໄວທີ່ເພີ່ມຂຶ້ນ
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: ໃຊ້ໜ່ວຍຄວາມຈຳໜ້ອຍ, ມີຄວາມໄວທີ່ເພີ່ມຂຶ້ນ
 # HTML page description
 features-memory-is-your-computer-slow-your = ຄອມພິວເຕີ້ຂອງທ່ານຊ້າບໍ່? ບາວເຊີຂອງທ່ານອາດໃຊ້ໜ່ວຍຄວາມຈຳຫຼາຍ. ປ່ຽນມາໃຊ້ { -brand-name-firefox } ມື້ນີ້ເພື່ອຄວາມໄວທີ່ເພີ່ມຂຶ້ນ.
 features-memory-less-memory-usage-than-chrome = ໃຊ້ໜ່ວຍຄວາມຈຳໜ້ອຍກວ່າ { -brand-name-chrome }

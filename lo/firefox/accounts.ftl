@@ -8,9 +8,9 @@
 # HTML page title
 firefox-accounts-there-is-a-way-to = ມີວິທີທາງເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ. ເຂົ້າຮ່ວມ { -brand-name-firefox }.
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = ສ້າງບັນຊີ Firefox - ຮັກສາຂໍ້ມູນຂອງທ່ານໄວ້ເປັນຄວາມລັບ, ປອດໄພ ແລະ synced
+firefox-accounts-get-a-firefox-account = ສ້າງ { -brand-name-firefox-account } - ຮັກສາຂໍ້ມູນຂອງທ່ານໄວ້ເປັນຄວາມລັບ, ປອດໄພ ແລະ synced
 # Old HTML page description
-firefox-accounts-securely-sync-your = Sync ລະຫັດຜ່ານ, ບຸກມາກ ແລະ ແທັບໃນທຸກອຸປະກອນຂອງທ່ານໄດ້ຢ່າງປອດໄພ. ສ້າງບັນຊີ Firefox ດຽວນີ້ - ເຂົ້າສູ່ລະບົບຄັ້ງດຽວເພື່ອຄວບຄູ່ມ ແລະ ມີຄວາມເປັນສ່ວນຕົວໄດ້ທຸກບ່ອນ.
+firefox-accounts-securely-sync-your = Sync ລະຫັດຜ່ານ, ບຸກມາກ ແລະ ແທັບໃນທຸກອຸປະກອນຂອງທ່ານໄດ້ຢ່າງປອດໄພ. ສ້າງ { -brand-name-firefox-account } ດຽວນີ້ - ເຂົ້າສູ່ລະບົບຄັ້ງດຽວເພື່ອຄວບຄູ່ມ ແລະ ມີຄວາມເປັນສ່ວນຕົວໄດ້ທຸກບ່ອນ.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = ມີວິທີທາງເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ.<span>ເຂົ້າຮ່ວມ { -brand-name-firefox }.</span>
 firefox-accounts-sign-in-to-monitor = ເຂົ້າສູ່ລະບົບເພື່ອຕິດຕາມ

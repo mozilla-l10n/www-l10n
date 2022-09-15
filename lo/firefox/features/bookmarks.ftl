@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = ບາວເຊີ Firefox: ບ່ອນຂັ້ນໜ້າທີ່ດີກວ່າ ໃນທຸກບ່ອນທີ່ເຈົ້າໄປ
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: ບ່ອນຂັ້ນໜ້າທີ່ດີກວ່າ ໃນທຸກບ່ອນທີ່ເຈົ້າໄປ
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = ຈັດການບ່ອນຂັ້ນໜ້າຂອງເຈົ້າເປັນ ໂຟເດີ ແລະ ເຂົ້າເຖິງຈາກອຸປະກອນທຸກອັນຂອງເຈົ້າ, ຕັ້ງແຕ່ອຸປະກອນ Desktop ຈົນເຖິງອຸປະກອນເຄື່ອນທີ່.
 features-bookmarks-better-bookmarks = ບ່ອນຂັ້ນໜ້າທີ່ດີກວ່າ
