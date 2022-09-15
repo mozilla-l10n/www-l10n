@@ -6,3 +6,13 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
 
 welcome-page8-view-your-protection-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+welcome-page8-enhanced-tracking-protection = දියුණු කළ ලුහුබැඳීමේ රැකවරණය
+welcome-page8-see-whats-blocked = අවහිර වූ දෑ බලන්න
+welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page8-go-to-monitor = { -brand-name-monitor } වෙත යන්න
+welcome-page8-firefox-send = { -brand-name-firefox-send }
+welcome-page8-try-send = { -brand-name-send } බලන්න
+welcome-page8-facebook-container = { -brand-name-facebook-container }
+welcome-page8-add-facebook-container = { -brand-name-facebook-container } එක් කරන්න
+welcome-page8-why-am-i = මම මෙය දකින්නේ ඇයි?
