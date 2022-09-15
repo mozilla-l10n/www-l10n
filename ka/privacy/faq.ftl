@@ -65,4 +65,4 @@ privacy-faq-no-we-do-not-buy-peoples-data = არა, ჩვენ არ ვ�
 privacy-faq-we-do-ask-our-advertising-partners = ჩვენ ვთხოვთ ხოლმე ჩვენს სარეკლამო პარტნიორებს, რომ გამოიყენონ მხოლოდ პირველადი მონაცემები, რომელსაც საიტები და გამომცემლები ხედავენ მომხმარებლების შესახებ ანუ მხოლოდ ის, თუ რომელი ბრაუზერითა და მოწყობილობით შემოდიან საიტზე.
 privacy-faq-well-it-seems-like-you-really = კარგი, როგორც ჩანს თქვენ მართლა უზრუნველყოფთ ჩემი პირადი მონცემების უსაფრთხოებას.
 privacy-faq-yes-we-do = დიახ, ნამდვილად ასეა.
-privacy-faq-find-out-more-about-how-mozilla = იხილეთ ვრცლად თუ როგორ ზრუნავს { -brand-name-mozilla } ინტერნეტის უსაფრთხოებაზე.
+privacy-faq-find-out-more-about-how-mozilla = იხილეთ ვრცლად, თუ როგორ ზრუნავს { -brand-name-mozilla } ინტერნეტის უსაფრთხოებაზე.
