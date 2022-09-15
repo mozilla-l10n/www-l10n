@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } એ ​​ઝળહળતો ઝડપી બ્રાઉઝર છે જે વિકાસકર્તાઓ સાધનો અને CSS ગ્રીડ સપોર્ટ અને ફ્રેમવર્ક ડિબગીંગ જેવી નવી સુવિધાઓનો ઉપયોગ કરે છે
@@ -55,6 +55,7 @@ firefox-developer-new-tools = નવા ટૂલ્સ
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = નવા { -brand-name-firefox-devtools } શક્તિશાળી, સાનુકૂળ, અને શ્રેષ્ઠ, હેક કરવા અનૂકુળ છે. તેમાં શ્રેષ્ઠ-ઇન-ક્લાસ JavaScript ડીબગર શામેલ છે, જે બહુવિધ બ્રાઉઝર્સને લક્ષ્ય બનાવી શકે છે અને React અને Redux માં બનાવવામાં આવે છે.
 firefox-developer-master-css-grid = માસ્ટર CSS ગ્રીડ
+# outdated
 firefox-developer-next-gen-css-engine = આગામી-પેઢી CSS એન્જિન
 firefox-developer-a-next-generation = આગામી-પેઢી CSS એન્જિન
 firefox-developer-master-innovative-features = નવીન સુવિધાઓ
@@ -72,7 +73,7 @@ firefox-developer-fonts-panel = ફોન્ટ પેનલ
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } નાં નવા ફોન્ટ્સ પેનલ, વિકાસકર્તાઓને તત્વમાં ઉપયોગમાં લેવાતા ફોન્ટ્સ વિશેની બધી માહિતીની ઝડપી ઍક્સેસ આપે છે. તેમાં ફૉન્ટ સ્રોત, વજન, સ્ટાઇલ વગેરે જેવી મૂલ્યવાન માહિતી શામેલ છે.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } આપોઆપ { -brand-name-mozilla } ને પ્રતિસાદ મોકલે છે.
 firefox-developer-download-the-firefox-browser = વિકાસકર્તાઓ માટે બનાવેલ { -brand-name-firefox } બ્રાઉઝર ડાઉનલોડ કરો
-firefox-developer-welcome-to-the-all-new = બિલકુલ નવા Firefox પર સ્વાગત છે: વિકાસકર્તા આવૃત્તિ
+firefox-developer-welcome-to-the-all-new = બિલકુલ નવા { -brand-name-firefox-quantum }પર સ્વાગત છે: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } શરુઆથી ફરી બનાવવામાં આવેલ છે, ઝડપી, આકર્ષક, અને ક્યારેય કરતાં વધુ શક્તિશાળી બનેલ છે.
-firefox-developer-congrats-you-now-have-firefox = અભિનંદન. તમારી પાસે હવે { -brand-name-firefox-quantum } છે: વિકાસકર્તા આવૃત્તિ.
-firefox-developer-this-isnt-just-an-update = આ માત્ર એક અદ્યતન નથી. આ { -brand-name-firefox } Quantum છે: એક તદ્દન નવું { -brand-name-firefox } જે શરુથી ફરીથી બનેલું છે, જે પહેલા કરતાં વધુ ઝડપી, આકર્ષક અને વધુ શક્તિશાળી છે.
+firefox-developer-congrats-you-now-have-firefox = અભિનંદન. તમારી પાસે હવે { -brand-name-firefox-quantum } છે: { -brand-name-developer-edition }
+firefox-developer-this-isnt-just-an-update = આ માત્ર એક અદ્યતન નથી. આ { -brand-name-firefox-quantum } છે: એક તદ્દન નવું { -brand-name-firefox } જે શરુથી ફરીથી બનેલું છે, જે પહેલા કરતાં વધુ ઝડપી, આકર્ષક અને વધુ શક્તિશાળી છે.

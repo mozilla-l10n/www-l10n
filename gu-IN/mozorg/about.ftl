@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -11,7 +11,7 @@ about-firefox-fast-for-good = { -brand-name-firefox }: સારા માટે
 about-walking-our-privacy-talk = અમારી ગોપનીયતા ચર્ચા
 about-talking-internet-issues-irl = ઈન્ટરનેટ મુદ્દાઓ પર વાત IRL
 about-corporation-foundation-not = કોર્પોરેશન. ફાઉન્ડેશન. બિન-નફાકારક.
-about-learn-about-the-mozilla-foundation = Mozilla ફાઉન્ડેશન વિશે જાણો
+about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } વિશે જાણો
 about-the-mozilla-manifesto = { -brand-name-mozilla } મેનિફેસ્ટો
 about-read-the-manifesto = મેનિફેસ્ટો વાંચો
 about-a-global-view = વૈશ્વિક દૃશ્ય
