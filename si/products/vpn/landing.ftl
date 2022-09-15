@@ -13,6 +13,9 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: ඔබගේ උපාං�
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
 
 ##
 

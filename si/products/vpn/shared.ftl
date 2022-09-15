@@ -19,6 +19,7 @@ vpn-shared-pricing-total = මුළු { $amount }
 # Platform subpage shared strings
 
 vpn-shared-platform-privacy-promise = ඔබගේ රහස්‍යතාව අපගේ පොරොන්දුවයි
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ## VPN Affiliate cookie notice
 
