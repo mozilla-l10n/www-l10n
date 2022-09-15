@@ -26,6 +26,8 @@ new-platform-download-the-fastest-linux = { -brand-name-linux } සඳහා ම
 new-platform-faster-page-loading-linux = වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-linux } සඳහා { -brand-name-firefox } මෙහි තිබේ.
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-linux } සඳහා { -brand-name-firefox }
+new-platform-privacy-more-than = පෞද්ගලිකත්‍වය - ප්‍රතිපත්තියකට වඩා දෙයකි
+new-platform-your-life-your-business = ඔබගේ ජීවිතය, ඔබගේ දෙයකි. { -brand-name-firefox } මගින් { -brand-name-linux } හි තෙවන පාර්ශ්ව ලුහුබඳින දත්තකඩ අවහිර කරයි.
 new-platform-open-source = විවෘත මූලාශ්‍ර
 
 ## Mac
@@ -33,6 +35,7 @@ new-platform-open-source = විවෘත මූලාශ්‍ර
 new-platform-download-mozilla-firefox-mac = { -brand-name-mac-short } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = { -brand-name-mac-short } සඳහා මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
+new-platform-privacy-comes-first = පෞද්ගලිකත්‍වය මුලින්ම
 new-platform-block-trackers = ලුහුබැඳීම් අවහිරය
 
 ## Windows
@@ -41,3 +44,5 @@ new-platform-download-mozilla-windows = { -brand-name-windows } සඳහා { -
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = { -brand-name-windows } සඳහා මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
 new-platform-firefox-moves-fast = { -brand-name-firefox } ඔබගේ දත්ත පරිස්සමින් සකසයි - ලුහුබඳින දැන්වීම් නැත සහ මන්දගාමී නොවේ.
+new-platform-common-sense-privacy = පොදු රහස්‍යතාව
+new-platform-seamless-setup = බාධා රහිත පිහිටුම
