@@ -19,6 +19,7 @@ firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } යන�
 firefox-enterprise-your-data-stays-your-business = දත්ත ඔබගේ ව්‍යාපාරයෙහි රැඳෙයි
 firefox-enterprise-deploy-when-and-how-you-want = ඔබට අවශ්‍ය විට සහ ආකාරයට යොදවන්න
 firefox-enterprise-choose-your-release-cadence = යෝග්‍ය නිකුතු සංක්‍රමය තෝරන්න
+firefox-enterprise-get-rapid-releases-to-make = ඔබට නවතම විශේෂාංග ඉක්මනින් ලැබෙන බව සහතික කර ගැනීමට ශ්‍රීඝ්‍ර නිකුතු ගන්න, හෝ  විස්තෘත මගින් අනර්ඝ ස්ථායී අත්දැකීමක් ලබා ගන්න.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } බාගැනීම්
 firefox-enterprise-windows-64-bit = { -brand-name-windows } බිටු-64
 firefox-enterprise-macos = { -brand-name-mac }
