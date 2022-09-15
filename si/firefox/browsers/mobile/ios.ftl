@@ -33,4 +33,6 @@ mobile-ios-get-search-suggestions = සෙවුම් තීරුව තුළ
 # Obsolete string
 mobile-ios-create-as-many = අවධානයට හානියකින් තොරව පටිති කැමති ගණනක් සාදන්න. { -brand-name-firefox } මගින් විවෘත පටිති සංක්‍ෂිප්ත රූප සහ අංකිත පටිති අයුරින් පෙන්වයි, ඔබට අවශ්‍ය දේ ඉක්මනින් සොයා ගැනීම පහසු කරයි.
 mobile-ios-discover-more-of = ඔබ කැමති බොහෝ දෑ සොයා ගන්න
+mobile-ios-open-a-new = ඔබ නිතර ගොඩවදින අඩවි, ඔබගේ මෑත පොත්යොමු සහ { -brand-name-pocket } හි ප්‍රචලිත ලිපි බැලීමට { -brand-name-firefox } හි නව පටිත්තක් විවෘත කරන්න. { -brand-name-firefox } භාවිතයෙන් ඔබ මෑත දී භාවිතා කරන ලද අඩවි වෙත ඉක්මනින් ප්‍රවේශ වීමට හැකිය.
 mobile-ios-about-mozilla = { -brand-name-mozilla } ගැන
+mobile-ios-mozilla-exists-to = සැමට ප්‍රවේශ වීමට හැකි පොදු සම්පතක් අයුරින් අන්තර්ජාලය තැනීම සඳහා { -brand-name-mozilla } පවතී, මන්ද සංවෘත සහ පාලිත තත්‍වයකට වඩා විවෘත සහ නිදහස් බව යහපත් යැයි විශ්වාස කරන නිසාය. තෝරා ගැනීම, විනිවිදභාවය සහ පාලනය ප්‍රවර්ධනය කිරීම සඳහා { -brand-name-firefox } සහ { -brand-name-pocket } වැනි නිෂ්පාදන ගොඩනඟන්නෙමු.
