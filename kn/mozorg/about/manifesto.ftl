@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
 # HTML page title
-manifesto-the-mozilla-manifesto = ಮೊಜಿಲ್ಲಾದ ಪ್ರಣಾಳಿಕೆ
+manifesto-the-mozilla-manifesto = { -brand-name-mozilla } ಪ್ರಣಾಳಿಕೆ
 manifesto-principle-1 = ಮೂಲತತ್ವ 1
 manifesto-principle-3 = ಮೂಲತತ್ವ 3
 manifesto-principle-4 = ಮೂಲತತ್ವ 4
@@ -28,13 +28,10 @@ manifesto-10 = 10
 manifesto-show-your-support = ನಿಮ್ಮ ಬೆಂಬಲವನ್ನು ತೋರಿಸಿ
 manifesto-share-on-twitter = { -brand-name-twitter } ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ
 manifesto-our-10-principles = <strong>ನಮ್ಮ 10</strong> ತತ್ವಗಳು
-manifesto-join-us-as-a-volunteer = ಸ್ವಯಂ ಸೇವಕರಾಗಿ ನಮ್ಮನ್ನು ಸೇರಿಕೊಳ್ಳಿ
-manifesto-learn-how-to-collaborate = ಅಂತರ್ಜಾಲದಲ್ಲಿ ಒಟ್ಟಿಗೆ ಸೇರಿ ಕೆಲಸಮಾಡುವುದು ಹೇಗೆಂದು ಕಲಿತುಕೊಳ್ಳಿ
-manifesto-host-or-join-a-maker-party = ತಯಾರಕರ ಕೂಟದಲ್ಲಿ ಸೇರಿ ಅಥವಾ ನೆಡೆಸಿರಿ
 manifesto-read-the-entire-manifesto = ಸಂಪೂರ್ಣ ಪ್ರಣಾಳಿಕೆಯನ್ನು ಓದಿ
-manifesto-details-the-mozilla-manifesto = ಮೊಜಿಲ್ಲಾದ ಪ್ರಣಾಳಿಕೆ
+manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } ಪ್ರಣಾಳಿಕೆ
 manifesto-details-introduction = ಪರಿಚಯ
 manifesto-details-principles = ಮೂಲತತ್ವಗಳು
 manifesto-details-free-and-open = ಸಾರ್ವಜನಿಕ ಸಂಪನ್ಮೂಲವಾಗಿ ಅಂತರ್ಜಾಲವು ಅಭಿವೃದ್ಧಿಯಾಗಲು ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಮುಕ್ತ ತಂತ್ರಾಂಶವು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ.
-manifesto-details-mozilla-foundation = ಮೊಝಿಲ್ಲಾ ಪ್ರತಿಷ್ಠಾನದ ವಾಗ್ದಾನ
+manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } ವಾಗ್ದಾನ
 manifesto-details-invitation = ಆಹ್ವಾನ
