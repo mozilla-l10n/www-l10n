@@ -35,7 +35,7 @@ features-adblocker-to-start-click-on-the = Për t’ia filluar, klikoni mbi menu
 features-adblocker-go-easy-with-standard = Jini i butë, me mënyrën Standarde
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
-features-adblocker-if-ads-dont-bother-you = Nëse reklamat nuk ju bezdisin dhe nuk e keni problem t’ju ndjekin gjurmues dhe <em>cookie</em> palësh të treta, rregullimi Standard duhet t’ju bëjë punë. Për t’i hequr qafe gjurmuesit nën mënyrën Standard, përdorni një dritare <a href="{ $url }">Shfletimi Privat</a>.
+features-adblocker-if-ads-dont-bother-you = Nëse reklamat nuk ju bezdisin dhe nuk e keni problem t’ju ndjekin gjurmues dhe cookie palësh të treta, rregullimi Standard duhet t’ju bëjë punë. Për t’i hequr qafe gjurmuesit nën mënyrën Standard, përdorni një dritare <a href="{ $url }">Shfletimi Privat</a>.
 features-adblocker-get-tough-with-strict = Jini i ashpër, me mënyrën Strikte
 features-adblocker-if-seeing-too-many-ads = Nëse parja e shumë reklamave jua çon ditën dëm, atëherë mënyra Strikte ju shkon më shumë për shtat. Kjo mënyrë do të bllokojë në krejt dritaret { -brand-name-firefox } gjurmues dhe <em>cookies</em> të njohura palësh të treta.
 features-adblocker-do-it-yourself-custom = Mënyrë Vetjake bëjeni-si-doni
