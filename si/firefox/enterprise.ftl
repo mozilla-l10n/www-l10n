@@ -13,10 +13,10 @@ firefox-enterprise-get-firefox-for-your-enterprise = ඔබගේ ව්‍ය�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = විස්තීරණ දත්ත ආරක්‍ෂාවක් හා දත්ත රැකවරණයක් සඳහා <a href="{ $url }">{ -brand-name-firefox-extended-support-release } හෝ ශ්‍රීඝ්‍ර නිකුතු</a> අතිරික්සුව ගන්න.
-firefox-enterprise-unmatched-data-protection = ඔබට සුදුසු නිකුතු සංක්‍රමය සමඟ — අද්විතීය දත්ත ආරක්‍ෂාව
+firefox-enterprise-unmatched-data-protection = ඔබට සුදුසු නිකුතු සංක්‍රමය සමඟ — අද්විතීය දත්ත රැකවරණයක්
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } යනු විවෘත මූලාශ්‍ර අතිරික්සුවක් වන අතර වැඩි දියුණු කළ ලුහුබැඳීමේ රැකවරණයක් ද සපයයි — දත්ත ආරක්‍ෂණය සඳහා අපගේ දිගුකාලීන කැපවීමේ කොටසකි.
-firefox-enterprise-your-data-stays-your-business = ඔබගේ දත්ත ඔබගේ ව්‍යාපාරයෙහි රැඳෙයි
+firefox-enterprise-your-data-stays-your-business = දත්ත ඔබගේ ව්‍යාපාරයෙහි රැඳෙයි
 firefox-enterprise-deploy-when-and-how-you-want = ඔබට අවශ්‍ය විට සහ ආකාරයට යොදවන්න
 firefox-enterprise-choose-your-release-cadence = යෝග්‍ය නිකුතු සංක්‍රමය තෝරන්න
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } බාගැනීම්
@@ -35,6 +35,9 @@ firefox-enterprise-deployment-guide = යෙදවීමේ මාර්ගෝ�
 firefox-enterprise-policy-documentation = ප්‍රතිපත්ති ප්‍රලේඛනය
 firefox-enterprise-release-notes = නිකුතු සටහන්
 firefox-enterprise-documentation-and-community = ප්‍රලේඛනය සහ ප්‍රජා සහාය
+# Variables:
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">වින්‍යාස පැතිකඩ සඳහා plist</a> නිදසුන
 firefox-enterprise-pkg-installer = PKG ස්ථාපකය
 firefox-enterprise-windows-32-bit = { -brand-name-windows } බිටු-32
 # Variables:
