@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } - පෞද්ගලිකත්‍වයට මුල් තැන දෙන නිෂ්පාදන මගින් අන්තර්ජාලයේ දී ඔබගේ ජීවිතය රැක ගන්න
+firefox-home-firefox-is-more-than = { -brand-name-firefox } යනු අතිරික්සුවකට වඩා දෙයකි. ඔබ මාර්ගගතව යන ඕනෑම තැනක පෞද්ගලිකත්‍වය සඳහා තනා තිබෙන ඔබගේ දත්ත ගෞරවයෙන් හසුරුවන { -brand-name-firefox } නිෂ්පාදන ගැන තව දැනගන්න.
 firefox-home-the-browser-is-just = අතිරික්සුව යනු ආරම්භයක් පමණි
 firefox-home-meet-our-family-of = අපගේ නිෂ්පාදන පවුල හමුවන්න
 firefox-home-get-trackers-off = ලුහුබැඳීම් 2,000+ ඉවත්ලන්න — { -brand-name-facebook } ඇතුළුව

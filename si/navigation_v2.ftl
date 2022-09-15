@@ -21,6 +21,7 @@ navigation-v2-get-the-mobile-browser = { -brand-name-iphone } හෝ { -brand-na
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = හුදෙක් පෞද්ගලික ජංගම පිරික්සීමකට
 navigation-v2-privacy-promise = රහස්‍යතා පොරොන්දුව
+navigation-v2-learn-how-firefox-treats = { -brand-name-firefox } ඔබගේ දත්ත පිරියම් කරන අයුරු දැන ගන්න.
 navigation-v2-firefox-blog = { -brand-name-firefox } සටහන්පත
 navigation-v2-read-about-new-firefox-features = නව { -brand-name-firefox } විශේෂාංග සහ මාර්ගගත ආරක්‍ෂාව ආශ්‍රිත ක්‍රම ගැන කියවන්න.
 navigation-v2-release-notes = නිකුතු සටහන්

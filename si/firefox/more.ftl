@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+learn-more-about = { -brand-name-firefox } අතිරික්සු සහ ඔබ මාර්ගගතව යන ඕනෑම තැනක පෞද්ගලිකත්‍වය සඳහා තනා තිබෙන ඔබගේ දත්ත ගෞරවයෙන් හසුරුවන නිෂ්පාදන ගැන තව දැනගන්න.
 learn-more-faq = { -brand-name-firefox } නිති පැණ
 what-is-a = අතිරික්සුවක් යනු කුමක්ද?
 get-the-browsers = පෞද්ගලිකත්‍වයට මුල් තැන දෙන අතිරික්සු ගන්න — සහ සැමවිට තිබෙන

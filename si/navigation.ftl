@@ -18,6 +18,7 @@ navigation-join-firefox = { -brand-name-firefox } වෙත එක්වන්�
 navigation-firefox-blog = { -brand-name-firefox } සටහන්පත
 navigation-read-about-new-firefox = අළුත් { -brand-name-firefox } විශේෂාංග ගැන කියවන්න සහ මාර්ගගත ආරක්‍ෂාව පිළිබඳව උපදෙස් ගන්න.
 navigation-the-non-profit-behind = { -brand-name-firefox } පිටුපස සිටින ලාභ නොලබන්නන් සැමට යහපත් අන්තර්ජාලයක් සඳහා සටන් කරයි.
+navigation-learn-how-firefox-treats = { -brand-name-firefox } ඔබගේ දත්ත පිරියම් කරන අයුරු දැන ගන්න.
 navigation-mozilla-careers = { -brand-name-mozilla } රැකියා
 navigation-close-firefox-menu = { -brand-name-firefox } වට්ටෝරුව වසන්න
 navigation-get-the-browser-that-gives = { -brand-name-windows }, { -brand-name-mac } හෝ { -brand-name-linux } හි ඔබට වැඩි බලයක් ලබා දෙන අතිරික්සුව ගන්න.
