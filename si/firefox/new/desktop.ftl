@@ -49,8 +49,10 @@ firefox-desktop-download-review-system-req = පද්ධති අවශ්‍�
 firefox-desktop-download-all-your-devices = ඔබගේ උපාංග සියල්ලට { -brand-name-firefox } දමන්න
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = මේ <strong>සියල්ල</strong> { -brand-name-firefox } සමඟ කරන්න
+firefox-desktop-download-search-smarter = කඩිසරව, වේගයෙන් සොයන්න
 firefox-desktop-download-search-from-address = ලිපින තීරුවෙන් සොයන්න
 firefox-desktop-download-search-engine-options = සෙවුම් යන්ත්‍ර විකල්ප
+firefox-desktop-download-smart-search-suggestions = උචිත සෙවුම් යෝජනා
 firefox-desktop-download-boost-your = ඵලදායිතාව ඉහළ නංවන්න
 firefox-desktop-download-works-with-google = { -brand-name-google } නිෂ්පාදන සමඟ වැඩ කරයි
 firefox-desktop-download-built-in-screenshot = තිළෑලි තිරසේයා මෙවලම
