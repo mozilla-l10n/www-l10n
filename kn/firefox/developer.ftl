@@ -32,4 +32,4 @@ firefox-developer-next-gen-css-engine = ಮುಂದಿನ-ಪೀಳಿಗೆಯ
 firefox-developer-a-next-generation = ಒಂದು ಮುಂದಿನ-ಪೀಳಿಗೆಯ CSS ಎಂಜಿನ್ನು
 firefox-developer-faster-performance = ವೇಗದ ಕಾರ್ಯಕ್ಷಮತೆ
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು { -brand-name-mozilla } ಗೆ ಕಳುಹಿಸಿಕೊಡುತ್ತದೆ.
-firefox-developer-welcome-to-the-all-new = ಹೊಚ್ಚ-ಹೊಸ ಫೈರ್ಫಾಕ್ಸ್ ಕ್ವಾಂಟಮ್‍ಗೆ ಸುಸ್ವಾಗತ: ಡೆವಲೆಪರ್ ಆವೃತ್ತಿ
+firefox-developer-welcome-to-the-all-new = ಹೊಚ್ಚ-ಹೊಸ { -brand-name-firefox-quantum }ಗೆ ಸುಸ್ವಾಗತ: { -brand-name-developer-edition }
