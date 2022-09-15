@@ -10,6 +10,10 @@ firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = විශ්ලේෂණය
 firefox-enterprise-downloads = බාගැනීම්
 firefox-enterprise-get-firefox-for-your-enterprise = ඔබගේ ව්‍යාපාරය සඳහා { -brand-name-firefox } ගන්න
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+firefox-enterprise-get-the-firefox-extended-support = විස්තීරණ දත්ත ආරක්‍ෂාවක් සහ දත්ත රැකවරණයක් සඳහා <a href="{ $url }">{ -brand-name-firefox-extended-support-release } හෝ ශ්‍රීඝ්‍ර නිකුතු</a> අතිරික්සුව ගන්න.
+firefox-enterprise-unmatched-data-protection = ඔබට සුදුසු නිකුතු සංක්‍රමය සමඟ — අද්විතීය දත්ත ආරක්‍ෂාව
 firefox-enterprise-your-data-stays-your-business = දත්ත ඔබගේ ව්‍යාපාරයෙහි පවතී
 firefox-enterprise-deploy-when-and-how-you-want = අවශ්‍ය විට සහ ආකාරයට යොදවන්න
 firefox-enterprise-choose-your-release-cadence = නිකුතු සංක්‍රමය තෝරන්න
