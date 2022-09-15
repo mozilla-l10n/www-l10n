@@ -47,6 +47,9 @@ firefox-new-your-system-may-not = ඔබගේ පද්ධතිය { -brand-na
 firefox-new-windows = { -brand-name-windows }
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = ඔබ ස්ථාපනයට උත්සාහ කරන යෙදුම { -brand-name-microsoft }-සත්‍යාපිත යෙදුමක් නොවන බවට ප්‍රේරකයක් දුටුවහොත්, “කෙසේ වුවද ස්ථාපනය කරන්න” ඔබන්න හෝ <a { $attrs }>යෙදුම් නිර්දේශ සැකසුම් වෙනස් කරන්න</a >.
 firefox-new-visit-support-for-more = වැඩි විස්තර සඳහා සහාය බලන්න
 
 # Not-Required
