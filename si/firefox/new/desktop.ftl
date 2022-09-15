@@ -36,6 +36,9 @@ firefox-desktop-download-in-browser-screenshot = තිළෑලි තිරස
 firefox-desktop-download-primary-password = ප්‍රාථමික මුරපදය
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = මාර්ගගත කාලය ඵලදායීව
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = දහස් ගණනක් මෙවලම්, තේමා සහ දිගු සමඟින් ඔබට අවශ්‍ය ආකාරයට සකස් කර ගන්න. { -brand-name-firefox } යනු ලාභයට ඉහළින් මිනිසුන් තබන මුල් විකල්ප අතිරික්සුවයි.
 # Obsolete string
 firefox-desktop-download-master-password = ප්‍රධාන මුරපදය
 firefox-desktop-download-see-your-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
