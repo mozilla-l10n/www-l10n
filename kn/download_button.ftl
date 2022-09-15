@@ -20,10 +20,10 @@ download-button-please-follow-these = { -brand-name-firefox } ಅನುಸ್ಥ
 download-button-your-system-does-not = ನಿಮ್ಮ ಗಣಕ ವ್ಯವಸ್ಥೆ { -brand-name-firefox } ನಿರ್ವಹಿಸಲು ಬೇಕಿರುವ <a href="{ $url }"> ಸವಲತ್ತುಗಳನ್ನು</a> ಹೊಂದಿಲ್ಲ.
 download-button-firefox-other-platforms = { -brand-name-firefox } ಇತರೆ ಪ್ಲಾಟ್‍‍‍ಫಾರ್ಮ್‍‍ಗಳಿಗೆ & ಭಾಷೆಗಳಿಗೆ
 download-button-update-your-firefox = ನಿಮ್ಮ { -brand-name-firefox } ಕಾಲೋಚಿತವಾಗಿಸು
-download-button-get-firefox-android = ಆಂಡ್ರಾಯ್ಡಿಗೆ ಫೈರ್ಫಾಕ್ಸನ್ನು ಪಡೆಯಿರಿ
+download-button-get-firefox-android = { -brand-name-android } { -brand-name-firefox } ಪಡೆಯಿರಿ
 download-button-get-firefox-ios = { -brand-name-ios } ಗಾಗಿ { -brand-name-firefox } ಪಡೆದುಕೊಳ್ಳಿ
-download-button-google-play = ಗೂಗಲ್ ಪ್ಲೇ‌ನಲ್ಲಿ ಪಡೆಯಿರಿ
-download-button-free-google-play = ಗೂಗಲ್‌ ಪ್ಲೇಯಲ್ಲಿ ಉಚಿತವಾಗಿ ಪಡೆಯಿರಿ
+download-button-google-play = { -brand-name-google-play }ನಲ್ಲಿ ಪಡೆಯಿರಿ
+download-button-free-google-play = { -brand-name-google-play }ಲೇಯಲ್ಲಿ ಉಚಿತವಾಗಿ ಪಡೆಯಿರಿ
 download-button-app-store = ಇದನ್ನು ಉಚಿತವಾಗಿ ಆಪ್ ಸ್ಟೋರ್‌ನಿಂದ ಪಡೆಯಿರಿ
 download-button-download-app-store = ಆಪ್ ಸ್ಟೋರ್‌ನಿಂದ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಿ
 download-button-download-firefox = ‍{ -brand-name-firefox } ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ

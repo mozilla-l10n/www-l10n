@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = ಜನರಿಗಾಗಿ ಅಂತರ್ಜಾಲ, ಲಾಭರಹಿತ
-home-did-you-know-mozilla-the-maker = ನಿಮಗೆ ಗೊತ್ತಾ? ಮೊಝಿಲ್ಲಾ — ಫೈರ್ಫಾಕ್ಸ್‌ನ ನಿರ್ಮಾತೃ — ಜಾಗತಿಕ ಸಾರ್ವಜನಿಕ ಸಂಪತ್ತಾದ ಅಂತರ್ಜಾಲವನ್ನು ಮುಕ್ತ ಮತ್ತು ಎಲ್ಲರಿಗೂ ಎಟುಕುವಂತಿರಿಸಲು ಹೋರಾಡುತ್ತದೆ.
+home-did-you-know-mozilla-the-maker = ನಿಮಗೆ ಗೊತ್ತಾ? { -brand-name-mozilla } — { -brand-name-firefox }‌ನ ನಿರ್ಮಾತೃ — ಜಾಗತಿಕ ಸಾರ್ವಜನಿಕ ಸಂಪತ್ತಾದ ಅಂತರ್ಜಾಲವನ್ನು ಮುಕ್ತ ಮತ್ತು ಎಲ್ಲರಿಗೂ ಎಟುಕುವಂತಿರಿಸಲು ಹೋರಾಡುತ್ತದೆ.
 home-fast-for-good = ಒಳ್ಳೆಯದಕ್ಕಾಗಿ ವೇಗವಾಗಿದೆ.
 home-our-impact = ನಮ್ಮ ಪ್ರಭಾವ
 home-the-coral-project = ಕೊರಲ್ ಯೋಜನೆ
