@@ -20,12 +20,6 @@ password-manager-forget-the-reset = Xikonelkaua oksepa tiontapeualtis. Inepaleui
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ichtakatajkuilol tein ninja
-password-manager-no-more-try-again = Amo sepa ok "oksepa xikonchikua" ijkuak tikontemojtok tikonajsis se sitio. Xionkalakteua itech mocuenta Firerfox ika moteléfono uan moichtakatajkuiloluan yaskej mouan. Tein moneki tionkalakteua ipa monextis, kemej nejin.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Ichtakatajkuilol tein kampa yeski kualtia
-# Obsolete string
-# Variables:
-#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
-# Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Xikontani okse motiltiktajkoilpiloni tein mouika iuan yekyetolis itechkopa miakej <a href="{ $addons }"> tamajsikayomej </a> kampa se uelis kiyekanas ichtakatajkuilolmej. Xikonixpejpena se tein xikonteluelita oso xikonajsi se yankuik itechkopa ratings uan tein kinemiliaj tokniuan.
