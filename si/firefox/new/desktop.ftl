@@ -48,6 +48,7 @@ firefox-desktop-download-we-block-the-ad = අපි ලුහුබඳින �
 firefox-desktop-download-ads-are-distracting = දැන්වීම් මගින් අවධානය වෙනතකට යොමු කරන අතර ඒවායේ ලුහුබැඳීම් ඔබ මාර්ගගතව තබන සෑම පියවරක්ම නරඹන බැවින් පිටු පූරණය වීම මන්දගාමී කරයි. { -brand-name-firefox-browser } ස්වයංක්‍රීයව බොහෝ ලුහුබැඳීම් අවහිර කරයි, එබැවින් ඔබගේ ආරක්‍ෂණ සැකසුම් හාරා බැලීමට අවශ්‍ය නොවේ.
 firefox-desktop-download-see-your-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
 firefox-desktop-download-for-everyone = { -brand-name-firefox } සැවොම සඳහාය
+firefox-desktop-download-available-in-over = භාෂා 90 කට වැඩි ප්‍රමාණයකින් තිබේ, { -brand-name-windows }, { -brand-name-mac-short } සහ { -brand-name-linux } යන්ත්‍ර සඳහා හොදින් ගැළපෙයි. ඔබ භාවිතා කරන්නේ කුමක්ද හෝ ඔබ සිටින්නේ කොහේද යන්න { -brand-name-firefox } සඳහා වැදගත් නොවේ. උසස් අත්දැකීමක් සඳහා ඔබගේ මෙහෙයුම් පද්ධතිය යාවත්කාලීන බවට වග බලා ගන්න.
 firefox-desktop-download-review-system-req = පද්ධති අවශ්‍යතා සමාලෝචනය
 firefox-desktop-download-all-your-devices = ඔබගේ උපාංග සියල්ලට { -brand-name-firefox } දමන්න
 firefox-desktop-download-take-your-privacy = සැමතැන ඔබගේ පෞද්ගලිකත්‍වය ඔබ සමඟ රැගෙන යන්න. ඔබ කොතැනක සිටියත්, { -brand-name-android } සහ { -brand-name-ios } සඳහා { -brand-name-firefox-browsers } අතිරික්සුවල වියමන පුරා ඔබව හඹා යාම අවහිර කිරීමට සමත් ප්‍රබල රහස්‍යතා විශේෂාංග තිබේ.
@@ -94,6 +95,7 @@ firefox-desktop-download-change-new-tab = පටිති පිරිසැල�
 firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> ඔබගේම කරගන්න
 firefox-desktop-download-extensions-for-every = ඕනෑම රුචිකත්වයක් සඳහා දිගු
 firefox-desktop-download-change-up-your = පෙනුම වෙනස් කරන්න
+firefox-desktop-download-go-from-light = ඔබගේ මනෝභාවය හෝ මනාපය මත පදනම්ව දීප්ත ප්‍රකාරයේ සිට අඳුරු ප්‍රකාරයට යන්න, හෝ අභිරුචි තේමාවක් (බාගදා, දේදුනු කඟවේනා) යටතේ තබා ගන්න.
 firefox-desktop-download-tweak-your-settings = සැකසුම් හැඩ ගන්වන්න
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = මිනිසුන්ට මුල් තැන දෙන <strong>ලාභ නොලබන</strong> පිටුබලයකින් යුක්තයි
@@ -112,6 +114,10 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
 firefox-desktop-download-learn-about-the = { -brand-name-firefox } වැඩතල අතිරික්සුව ගැන පහතින් දැන ගන්න
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = ආරක්‍ෂාව, ප්‍රවෘත්ති, ක්‍රීඩා හෝ අන්, <a { $attrs }>සියල්ල සඳහා දිගුවක්</a> ඇත. ඔබගේ අතිරික්සුව හොඳින් නම් ඔබට අවශ්‍ය ගණනක් එක් කරන්න.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ප්‍රශ්නයක් ද? <a { $attrs }>{ -brand-name-mozilla } සහාය</a> ඔබව ආවරණය කරයි.
