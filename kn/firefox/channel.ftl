@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -15,7 +15,7 @@ firefox-channel-all-languages-and-builds = ಎಲ್ಲಾ ಭಾಷೆಗಳು
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">ಅನಿಸಿಕೆಯನ್ನು ನಮಗೆ ನೀಡಿ</a> ಕಾರ್ಯನಿರ್ವಹಣೆ ಮತ್ತು ಕಾರ್ಯಶೀಲತೆಯಲ್ಲಿ ಅಂತಿಮ ಸರಿಪಡಿಕೆಗಳನ್ನು ಮಾಡುವಲ್ಲಿ ನೆರವಾಗಿ.
-firefox-channel-nightly-blog = ನೈಟ್ಲಿ ಬ್ಲಾಗ್
+firefox-channel-nightly-blog = { -brand-name-nightly } ಬ್ಲಾಗ್
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು
 firefox-channel-developer-edition = { -brand-name-developer-edition }

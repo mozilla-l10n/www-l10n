@@ -1,11 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
-nightly-firstrun-firefox-nightly = ಫೈರ್ಫಾಕ್ಸ್ ನೈಟ್ಲಿಯ ಮೊದಲ ಪುಟ
+nightly-firstrun-firefox-nightly = { -brand-name-firefox-nightly } ಮೊದಲ ಪುಟ
 nightly-firstrun-thank-you-for-using = ಫೈರ್ಫಾಕ್ಸ್ ನೈಟ್ಲಿ ಬಳಸಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು
 nightly-firstrun-test = ಪರೀಕ್ಷಿಸಿ
 nightly-firstrun-start-testing = ಪರೀಕ್ಷಿಸಲು ಪ್ರಾರಂಭಿಸಿ
