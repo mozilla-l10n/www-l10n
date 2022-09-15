@@ -9,3 +9,7 @@ data-preferences-page-title = მიუთითეთ საკუთარ მ
 data-preferences-page-desc = თქვენი პირადი მონაცემების ხელშეუხებლობას დიდ მნიშვნელობას ანიჭებს { -brand-name-mozilla }. ეს გვერდი გაძლევთ საშუალებას, გამართოთ mozilla.org საიტებზე მონაცემთა პირდაპირი აღრიცხვის პარამეტრები, რისთვისაც გამოიყენება { -brand-name-glean }.
 data-preferences-notification-opt-out = გამოთიშული ხართ მონაცემთა პირდაპირი აღრიცხვიდან
 data-preferences-notification-opt-in = ჩართული ხართ მონაცემთა პირდაპირ აღრიცხვაში.
+# Variables:
+#   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
+#   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
+data-preferences-your-privacy = თქვენი პირადულობის ხელშეუხებლობას დიდ მნიშვნელობას ანიჭებს { -brand-name-mozilla }. პირდაპირი გზით აღრიცხვისა და კვლევის ჩვენი პლატფორმა, სახელწოდებით <a href="{ $glean }">{ -brand-name-glean }</a>, ითვალისწინებს ჩვენ მიერვე დაწესებულ მაღალ მოთხოვნებს <a href="{ $lean_data }">მონაცემთა შეგროვებისას</a>.
