@@ -51,6 +51,7 @@ old-habits-that = Stare navade so železna srajca, vendar vam bo bolje, ko se ji
 comparing-firefox-safari = Primerjava: { -brand-name-firefox-browser } in { -brand-name-apple } { -brand-name-safari }
 you-dont-have = Ni se vam treba držati privzetega brskalnika.
 comparing-firefox-opera = Primerjava: { -brand-name-firefox-browser } in { -brand-name-opera }
+be-free-to = Pojte hvalnice { -brand-name-firefox(sklon: "dajalnik") }, kadarkoli vas je volja.
 the-ad-blocker = Orodje za zavračanje oglasov – skrivno orožje proti nadležnim oglasom.
 so-many-ads = Tako veliko oglasov, tako malo potrpljenja … Čas je, da ustavimo norost.
 firefox-more-protection = { -brand-name-firefox }: Več zaščite. Manj skrbi.
