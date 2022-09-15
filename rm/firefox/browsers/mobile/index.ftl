@@ -34,7 +34,7 @@ browsers-mobile-join-firefox-and-get-the-most = Creescha in conto da { -brand-na
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = Has ti gia in conto? <a { $fxa_attr }>T'annunzia</a> u <a { $accounts_attr }ve a savair</a> co ti pos far part da { -brand-name-firefox }.
+browsers-mobile-already-have-an-account-sign = Has ti gia in conto? <a { $fxa_attr }>T'annunzia</a> u <a { $accounts_attr }>ve a savair</a> co ti pos far part da { -brand-name-firefox }.
 browsers-mobile-download = Telechargiar
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -18,7 +18,7 @@ firefox-accounts-there-is-a-way-to-protect = I dat ina via per proteger tia sfer
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = Ta defenda cunter ina industria che vul ta vender sco product.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = Ti es annunzià <br>tar { -brand-name-firefox }. <br><span>Emprova ussa { -brand-name-firefox-monitor }.
+firefox-accounts-youre-signed-in-to = Ti es annunzià <br>tar { -brand-name-firefox }. <br><span>Emprova ussa { -brand-name-firefox-monitor }.</span>
 firefox-accounts-see-if-youve-been = Controllescha sche ti es pertutgà dad in enguladitsch da datas.
 firefox-accounts-sign-in-to-monitor = S'annunziar tar { -brand-name-monitor }
 firefox-accounts-join-firefox = Dovra { -brand-name-firefox }
