@@ -29,7 +29,7 @@ browser-history-by-1995-netscape = Leta 1995 { -brand-name-netscape } Navigator 
 browser-history-netscape-created = { -brand-name-netscape } je ustvaril in izdal JavaScript, ki je spletnim stranem vdahnil zmogljivosti, kakršnih dotlej niso imele. (Ustvaril je tudi neslavno <a href="{ $blink }">oznako &lt;blink&gt;</a>.) { -brand-name-microsoft } je odgovoril s CSS (Cascading Style Sheets), ki je postal standard za oblikovanje spletnih strani.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
-browser-history-things-got-a-little = Dogajanje je nekoliko ušlo izpod nadzora leta 1997, ko je { -brand-name-microsoft } izdal { -brand-name-ie } 4.0. Njihova ekipa je izdelala velikansko črko “e” in jo vtihotapila na dvorišče sedeža { -brand-name-netscape }(sklon: "rodilnik"). Ekipa { -brand-name-netscape }(sklon: "rodilnik") je orjaški “e” nemudoma prevrnila in <a href="{ $dino }">nanj postavila svojo dinozavrsko maskoto, { -brand-name-mozilla }(sklon: "tožilnik")</a>.
+browser-history-things-got-a-little = Dogajanje je nekoliko ušlo izpod nadzora leta 1997, ko je { -brand-name-microsoft } izdal { -brand-name-ie } 4.0. Njihova ekipa je izdelala velikansko črko “e” in jo vtihotapila na dvorišče sedeža { -brand-name-netscape(sklon: "rodilnik") }. Ekipa { -brand-name-netscape(sklon: "rodilnik") } je orjaški “e” nemudoma prevrnila in <a href="{ $dino }">nanj postavila svojo dinozavrsko maskoto, { -brand-name-mozilla(sklon: "tozilnik") }</a>.
 # Variables:
 #   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
 #   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
