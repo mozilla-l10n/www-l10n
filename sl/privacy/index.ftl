@@ -24,7 +24,7 @@ privacy-index-transparency-report = Poročilo o transparentnosti
 privacy-index-get-involved = Pridružite se
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
-privacy-index-as-an-open-source-project = Za { -brand-name-mozilla(sklon: "tožilnik") }, ki je odprtokodni projekt, sta transparentnost in odprtost neločljiva dela temeljnih načel. Naša izvorna koda je odprta in preverljiva. Naš razvoj je odprt. Naše polletno <a href="{ $report }">poročilo o transparentnosti</a> prav tako odraža našo predanost tem načelom.
+privacy-index-as-an-open-source-project = Za { -brand-name-mozilla(sklon: "tozilnik") }, ki je odprtokodni projekt, sta transparentnost in odprtost neločljiva dela temeljnih načel. Naša izvorna koda je odprta in preverljiva. Naš razvoj je odprt. Naše polletno <a href="{ $report }">poročilo o transparentnosti</a> prav tako odraža našo predanost tem načelom.
 # Variables:
 #   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Če želite ostati na tekočem s spremembami naših pravilnikov o zasebnosti, jih pregledovati in komentirati, <a href="{ $group }"> se naročite na skupino { -brand-name-mozilla } governance</a>.
