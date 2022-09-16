@@ -7,7 +7,7 @@
 # Meta strings
 
 vpn-mac-page-title = تطبيق { -brand-name-mozilla-vpn } لنظام تشغيل { -brand-name-mac-short }
-vpn-mac-page-description = سواء كنت تستخدم كمبيوتر مكتبي أو كمبيوتر محمول أو { -brand-name-ipad } أو { -brand-name-iphone }، احمِ جهازك بالكامل من المخترقين والمتطفلين باستخدام خدمة VPN المقدمة من { -brand-name-mozilla }، الشركة الرائدة في مجال أمن الإنترنت منذ عام 1998.
+vpn-mac-page-description = سواء كنت تستخدم كمبيوترًا مكتبيًا { -brand-name-mac-short } أو كمبيوترًا محمولًا أو { -brand-name-ipad } أو { -brand-name-iphone }، احمِ جهازك بالكامل من المخترقين والمتطفلين باستخدام خدمة VPN المقدمة من { -brand-name-mozilla }، الشركة الرائدة في مجال أمن الإنترنت منذ عام 1998.
 
 # Mac strings
 vpn-mac-hero-headline = احمِ اتصالك بالإنترنت باستخدام تطبيق { -brand-name-mozilla-vpn } لنظام تشغيل { -brand-name-mac-short }
