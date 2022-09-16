@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/principles/
@@ -9,9 +9,6 @@
 privacy-principles-data-privacy-principles = Si pribasidâ nej dâto
 # HTML page description
 privacy-principles-mozilla-is-an-open-source = 'Ngo kodigô hua ni'nïnj ïn nikaj { -brand-name-mozilla } da' ga'ue gache nu hue'êt riña internet. Ni 'i huaj da' gi'iaj tuu nej si nej nuguan' a'min rayi'ît.
-# Variables:
-#   $link (url) - link to https://www.mozilla.org/about/manifesto/
-privacy-principles-the-following-five-principles = <a href="{ $link }"> giri un'ùn' nuguan' rugui' nan, si'iaj </a> huin ni ataj' na'an sisi:
 privacy-principles-develop-our-products = Gi'iaj desarroyando nej si rasuun ñûnj
 privacy-principles-manage-user-data-we-collect = Ni'iaj si yuguît sa na'nïn sà' ñûnj
 privacy-principles-select-and-interact-with = Nana'uì' ni ga'min ngà nej duguî't

@@ -54,4 +54,3 @@ manifesto-details-promote-models = ginù huin ñûnj da’ dusiki’ ñûnj nī
 manifesto-details-promote-the-mozilla = ginù huin ñûnj nī dusiki’ ñûnj ‘ngō chrēj nikāj { -brand-name-mozilla } riña guìi nī riña industria Internet.
 manifesto-details-some-foundation = Da’aj sun ‘iaj Fundación —akuan’ nïn nan huin sisī riràj nī duguanej sa garasun’ riña internet— ‘nïnj ra’a { -brand-name-mozilla-corporation } ‘ngō sa ‘iaj sun ngà { -brand-name-mozilla-foundation } huin.
 manifesto-details-invitation = Nakāj dugui' ngà ñûnj
-manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } nī nakïn daran’ chre nej su hua nikā ruhuâ ngà ‘ngō chrēj nìkoj da’ nakāj dugui’ nê’ nī ginù huin nê’ da’ gā hia ‘ngō Internet anïn ruhuâ nê’.

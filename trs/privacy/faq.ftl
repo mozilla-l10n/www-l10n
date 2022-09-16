@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -27,8 +27,5 @@ privacy-faq-mozilla-doesnt-know-as-much = Nu ni'in nìko { -brand-name-mozilla }
 privacy-faq-it-seems-like-every-company = Rû' huaj sisī daran' chre yi'nïn'ïn narânj nī nadu'uèj nej nuguan' huā rayi'î. Huê dan 'iaj ngèt si guruhuaj.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } sanī nitāj si naran nī nitaj si nadu'ue nuguan' huā rayi'ît.
 privacy-faq-wait-so-how-do-you-make-money = Nekuan' sò', dàj gi'iô' girì san'ānj an ngà nānj
-# Variables:
-#   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = Sê 'ngō yi'nïn' nasinùnj un huin { -brand-name-mozilla }. Huej gurugui' hio' 1998 guendâ riña daran' chre guìi, { -brand-name-mozilla } huin 'ngō yi'nïn' 'iaj sun guendâ ga hue'ê doj internet riña guìi. Nej san'ānj atûj riña { -brand-name-mozilla } ri'ij riña arâj sun nej si man n dàj nìko duya'nïn si man riña yumiguìi. Ga'ue gini'în doj dàj 'iaj ñûnj 'iaj ganâ nûnj san'ānj an si gatūt riña <a href="{ $link }">san'ānj atûj 'ngō hio'o</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ga'ue a, nej sa sinïn dan huin Softballs. Ahuin datô ni'ñānjt nānj.
