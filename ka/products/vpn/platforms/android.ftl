@@ -17,7 +17,7 @@ vpn-android-wifi-copy = ზოგჯერ უსადენო ინტერ
 vpn-android-about-headline = { -brand-name-mozilla } არის სახელი, რომელსაც ენდობით
 vpn-android-about-copy = ჩვენ ყველაზე უკეთ გვიცნობენ, როგორც { -brand-name-firefox }-ის შემქმნელს, თუმცა { -brand-name-mozilla } გაცილებით დიდი დაწესებულებაა უმთავრესი მიზნით — ინტერნეტში ადამიანის უფლებების დაცვისთვის ბრზოლით. სწორედ ამას ვაკეთებთ 1998 წლიდან მოყოლებული. ჩვენ ვზრუნავთ რომ ინტერნეტი დარჩეს საყოველთაოდ ღია, თავისუფალი და ამასთანავე, უზრუნველყოფილი იყოს ყველას უფლებები და პირადულობა.
 vpn-android-privacy-headline = ერთი შეხებით დაკავშირება
-vpn-android-privacy-copy = { -brand-name-mozilla-vpn }-ის { -brand-name-android }-ზე გამოყენება უმარტივესია. შეეხეთ მიერთების ღილაკს და კავშირი ავტომატურად დაიშიფრება მაღალი დონის { -brand-name-wireguard }® ოქმით. სულ ესაა!
+vpn-android-privacy-copy = { -brand-name-mozilla-vpn }-ის { -brand-name-android }-ზე გამოყენება უადვილესია. შეეხეთ მიერთების ღილაკს და კავშირი ავტომატურად დაიშიფრება მაღალი დონის { -brand-name-wireguard }® ოქმით. სულ ესაა!
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
