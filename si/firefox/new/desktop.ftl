@@ -103,7 +103,7 @@ firefox-desktop-download-backed-by-the = මිනිසුන්ට මුල�
 firefox-desktop-download-challenging-the-status = 1998 සිට පවතින තත්‍වයට අභියෝග කරයි
 firefox-desktop-download-your-privacy-comes = පෞද්ගලිකත්‍වය මුලින්ම
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-keep-all-your = ඔබගේ ප්‍රියතම අතිරික්සු විශේෂාංග සියල්ල තබා ගන්න — සහ අළුත් දෑ <strong>සොයා ගන්න</strong>.
+firefox-desktop-download-keep-all-your = ප්‍රියතම අතිරික්සු විශේෂාංග සියල්ල තබා ගන්න — සහ අළුත් දෑ <strong>සොයා ගන්න</strong>.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = ප්‍රියතම { -brand-name-google } මෙවලම් (ජීමේල් සහ ඩොක්ස් වැනි) සියල්ල { -brand-name-firefox-browser } හි හොඳින් වැඩ කරයි.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
