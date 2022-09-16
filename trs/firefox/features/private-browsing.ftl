@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
@@ -16,4 +16,3 @@ features-private-browsing-sharing-is-caring = Dugumîn man’ânt nga duyingâ�
 features-private-browsing-catch-those-hidden = Gida’a nej sa naga’nāj huì sò’
 features-private-browsing-some-websites-and = Huā da’āj nej sitio nī nej anuncio nī nikāj man sa naga’nāj sò’ nī nuta man daran’ chre nuguan’ a’min rayi’ît nga gisîj gahuit. ‘Ngo rïn { -brand-name-firefox } Private Browsing huin sa ga’ue narán riña nej nan hòaj nï’ gachin gi’iaj yi’ìj sò’.
 features-private-browsing-shake-off-tracking = Guxūn yichrát nej sa naga’nāj sò’
-features-private-browsing-not-only-do-trackers = Nej sa naga’nāj sò’ nī sê màn si nuguàn’t naka, nadugua’aj dàj hìo aché nunt nej. ‘Ngo rïn riña aché nun huìt huin sa rugûñu’ūnj da’din naran riña nej anuncio nikaj sa yi’ìi, yi’ì dan nī ngàj ga’ue gachē nun chrêt dàj garan’ ruhuât.

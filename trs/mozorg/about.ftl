@@ -26,7 +26,6 @@ about-talking-internet-issues-irl = Hìaj a'min' rayi'î nej sa huā a'nan' riñ
 about-in-mozillas-irl-podcast-host = Riña si podcast IRL { -brand-name-mozilla }, sa gu'nàj Manoush Zomorodi duyinga' sa huin yangà' huā riña yumiguìi riña lînia nī sa a'min yangà' nej si dàj gā Web diû ganahuīi.
 about-corporation-foundation-not = Yi'nïn' guìi. Yi'nïn' sa 'iaj suun. Sê san'ānj an nu ñanj.
 about-learn-about-the-mozilla-foundation = Gahuin chrūn doj rayi'î yi'nïn gù'nàj { -brand-name-mozilla-foundation }
-about-mozilla-puts-people-over-profit = Sa ña'ān doj huin guìi ngà da' san'ānj an, sa ri rà ñûnj nī nej sa 'iaj ñûnj. Sa hūaj huin, nitāj sa yi'ì nu ruhuâ nimâ si yi'nïn' ñûnj.
 about-the-mozilla-manifesto = Si nuguàn' { -brand-name-mozilla }
 about-the-principles-we-wrote-in = Huā nïn' nikò' ñûnj nej nuguan' gi'iaj gurugui' ñûnj hio' 1998. Nī hio' 2018, gunuta' ñûnj doj raj da' gāj riña darûn', da' gā huì doj nī da' dūgumij doj sò' nga aché nunt.
 about-read-the-manifesto = Gahia si nuguàn' ñûnj
