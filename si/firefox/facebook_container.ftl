@@ -23,6 +23,6 @@ facebook-container-get-firefox-android-ios = { -brand-name-android } සහ { -b
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = { -brand-name-android } සහ { -brand-name-ios } සඳහා <strong>{ -brand-name-firefox-focus }</strong>, පෞද්ගලික අතිරික්සුව බලන්න.
 facebook-container-opt-out-on-your-terms = නියම වලින් අයින් වෙන්න
-facebook-container-install-and-contain = ස්ථාපනය හා හුදකලාව
+facebook-container-install-and-contain = ස්ථාපනය සහ හුදකලාව
 facebook-container-about-firefox-and-mozilla = { -brand-name-firefox } සහ { -brand-name-mozilla } ගැන
-facebook-container-browse-freely-with-firefox = අද { -brand-name-firefox } සමඟ නිදහසේ පිරික්සන්න.
+facebook-container-browse-freely-with-firefox = { -brand-name-firefox } සමඟ නිදහසේ පිරික්සන්න.
