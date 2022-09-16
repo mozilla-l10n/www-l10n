@@ -20,6 +20,7 @@ firefox-all-64-bit-installers = ຕົວຕິດຕັ້ງ 64 ບິດ
 firefox-all-32-bit-installers = ຕົວຕິດຕັ້ງ 32 ບິດ
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = ດາວໂຫລດບ { -brand-name-firefox-browser } ເປັນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ພາສາອື່ນໆຫລາຍກວ່າ 90 ພາສາ
+firefox-all-firefox-privacy-notice = ຄວາມເປັນສ່ວນໂຕໃນ { -brand-name-firefox }
 firefox-all-learn-about-firefox = ຮຽນຮູ້ກ່ຽວກັບຕົວທ່ອງເວັບຂອງ { -brand-name-firefox }
 firefox-all-product-send-link = ສົ່ງລິ້ງດາວໂຫລດໄປຫາໂທລະສັບຂອງທ່ານ
 # Variables:
