@@ -32,7 +32,7 @@ privacy-index-to-review-and-comment-on-proposed = Če želite ostati na tekočem
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Več o našem tekočem delu na področju politike varnosti in zasebnosti lahko preberete na blogu { -brand-name-mozilla(sklon: "rodilnik") } <a href="{ $blog }">Open Policy &amp; Advocacy</a>.
 privacy-index-outdated-policies = Zastareli pravilniki
-privacy-index-mozilla-websites-communications = { -brand-name-mozilla } spletna mesta, komunikacije in piškotki
+privacy-index-mozilla-websites-communications = Spletna mesta, komunikacije in piškotki { -brand-name-mozilla(sklon: "rodilnik") }
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-relay = { -brand-name-firefox-relay }
