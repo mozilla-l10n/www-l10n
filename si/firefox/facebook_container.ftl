@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-facebook-container-for-firefox = { -brand-name-firefox } සඳහා { -brand-name-facebook-container } | ඔබ පිවිසෙන අඩවි මොනවාදැයි දැකීමෙන් { -brand-name-facebook } වලක්වයි.
+facebook-container-millions-of-people-around = ලොව පුරා සිටින දශ ලක්‍ෂ ගණනක් { -brand-name-android }, { -brand-name-ios } සහ වැඩතල පරිගණක පරිශීලකයින් { -brand-name-firefox } අතිරික්සුව විශ්වාස කරති. වේගවත්. පෞද්ගලිකයි. දැන් බාගන්න!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. හුදකලා කරයි. ඔබගේ ඉතිරි ජීවිතය ද ඔබම තබා ගන්න.
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } දිගුව ගන්න
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } බාගත කර { -brand-name-facebook-container } දිගුව ගන්න.
