@@ -23,6 +23,9 @@ facebook-container-get-firefox-android-ios = { -brand-name-android } සහ { -b
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = { -brand-name-android } සහ { -brand-name-ios } සඳහා <strong>{ -brand-name-firefox-focus }</strong>, පෞද්ගලික අතිරික්සුව බලන්න.
 facebook-container-opt-out-on-your-terms = නියම වලින් අයින් වෙන්න
+# Variables:
+#   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } සමාගමට ඔබගේ සියළුම මාර්ගගත ක්‍රියාකාරකම් නිරීක්‍ෂණය කර ඔබගේ { -brand-name-facebook } අනන්‍යතාවට එක්රැස් කළ හැකිය. <a href="{ $fbcontainer }">{ -brand-name-facebook-container } දිගුව</a> මගින් ඔබගේ අනන්‍යතාවය වෙනම පටිති අඩංගුවකට හුදකලා කරයි, එමගින් { -brand-name-facebook } සේවාවෙන් පිටත ඔබ සිදු කරන දෑ නිරීක්‍ෂණයට { -brand-name-facebook } සමාගමට නොහැකි වේ.
 facebook-container-install-and-contain = ස්ථාපනය සහ හුදකලාව
 facebook-container-about-firefox-and-mozilla = { -brand-name-firefox } සහ { -brand-name-mozilla } ගැන
 facebook-container-browse-freely-with-firefox = { -brand-name-firefox } සමඟ නිදහසේ පිරික්සන්න.
