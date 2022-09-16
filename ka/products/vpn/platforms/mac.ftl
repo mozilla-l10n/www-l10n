@@ -19,15 +19,15 @@ vpn-mac-about-headline = სანდო ტექმწარმოებლი
 vpn-mac-about-copy = 1998 წლიდან, არამომგებიანი { -brand-name-mozilla } მიჰყვება თავის მიზანს, უკეთესი ინტერნეტის შენებისკენ. პროდუქტები, როგორიცაა { -brand-name-firefox-browser } ეხმარება მსოფლიო მასშტაბით { -brand-name-mozilla }-ს, განაგრძოს მუშაობა ინტერნეტის გახსნილობისა და საყოველთაო თავისუფლებისთვის.
 vpn-mac-privacy-headline = ხელთ იქონიეთ პირადულობა
 vpn-mac-privacy-copy = { -brand-name-mozilla-vpn }-ის მეშვეობით, თქვენი ინტერნეტკავშირი იშიფრება და IP-მისამართი იფარება ჰაკერებისა და ინტერნეტის ცნობისმოყვარე მომწოდებლებისგან, { -brand-name-wireguard }® მაღალი დონის ოქმის დახმარებით.
-vpn-mac-servers-headline = სერვერებთან წვდომა, მთელ მსოფლიოში
+vpn-mac-servers-headline = სერვერებთან წვდომა მთელ მსოფლიოში
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
-vpn-mac-servers-copy = მიუთითეთ თქვენი { -brand-name-mac-short }-ის მდებარეობად { $servers }+ სერვერიდან რომელიმე, { $countries }+ ქვეყანაში. შედეგად, შეძლებთ იხილოთ ახალი ამბები, შესაძენი ნივთები და გადაცემები, მსოფლიოს თითქმის ნებისმიერი კუთხიდან.
+vpn-mac-servers-copy = მიუთითეთ თქვენი { -brand-name-mac-short }-ის მდებარეობად { $servers }+ სერვერიდან რომელიმე { $countries }+ ქვეყანაში. შედეგად შეძლებთ იხილოთ ახალი ამბები, შესაძენი ნივთები და გადაცემები მსოფლიოს თითქმის ნებისმიერი კუთხიდან.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = დაიცავით { $devices } მოწყობილობა ერთი ხელშეკრულებით
-vpn-mac-devices-copy = თქვენი კომპიუტერი, პლანშეტი და სმარტფონი იმსახურებს უსარფრთხოებას. გამოიყენეთ { -brand-name-mozilla-vpn } რომ დაიცვათ { -brand-name-mac-short } და { -brand-name-ios }-{ $devices } (გარდა ამისა { -brand-name-windows }, { -brand-name-linux } და { -brand-name-android }).
+vpn-mac-devices-copy = თქვენი კომპიუტერი, პლანშეტი და სმარტფონი იმსახურებს უსაფრთხოებას. გამოიყენეთ { -brand-name-mozilla-vpn }, რომ დაიცვათ { $devices } ერთეულამდე { -brand-name-mac-short } და { -brand-name-ios }-მოწყობილობა (აგრეთვე { -brand-name-windows }, { -brand-name-linux } და { -brand-name-android }).
 vpn-mac-speed-headline = სიჩქარის შეწირვის გარეშე
 vpn-mac-speed-copy = შეუზღუდავი მონაცემები და გამტარუნარიანობა გულისხმობს, რომ შეგიძლიათ ჩვეულებრივ იმოგზაუროთ ინტერნეტის ნებისმიერ წერტილში — მაღალი დონის დაცვით.
 vpn-mac-log-headline = ინტერნეტით რასაც აკეთებთ, თქვენი საქმეა
