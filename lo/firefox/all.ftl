@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-check-the-system-requirements = ກວດເບິງຄວາມຕ້ອງການຂອງລະບົບ
 firefox-all-release-notes = ບັນທຶກປະຈຳລຸ້ນ
 firefox-all-source-code = ໂຄດຕົ້ນສະບັບ
 firefox-all-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫລືອບໍ?

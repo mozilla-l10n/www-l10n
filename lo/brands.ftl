@@ -71,6 +71,8 @@
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
@@ -78,6 +80,8 @@
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-sync = Sync
+-brand-name-relay = Relay
+-brand-name-fpn = FPN
 
 ## Firefox products (legacy)
 
@@ -92,6 +96,7 @@
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-glean = Glean
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
