@@ -32,7 +32,7 @@ mobile-ios-see-your-open-tabs = Pozrite si svoje otvorené karty, predchádzajú
 mobile-ios-own-your-home = Vlastnite svoju domovskú obrazovku
 mobile-ios-get-to-the-parts = Dostaňte sa rýchlejšie do častí internetu, na ktorých vám záleží. Zvoľte si, či chcete zobraziť všetky svoje otvorené karty, posledné vyhľadávania, záložky a obľúbené stránky na jednom mieste.
 # Obsolete string
-mobile-ios-add-firefox-across = Pridajte { -brand-name-firefox } do svojich zariadení pre bezpečné a bezproblémové prehliadanie. { -brand-name-sync } svoje zariadenia a vezmite si svoje obľúbené záložky, uložené prihlasovacie údaje, heslá a históriu prehliadania, nech ste kdekoľvek. Navyše posielajte otvorené karty medzi telefónom a počítačom, aby ste mohli pokračovať tam, kde ste prestali.
+mobile-ios-add-firefox-across = Pridajte { -brand-name-firefox } do svojich zariadení pre bezpečné a bezproblémové prehliadanie. { -brand-name-sync(form: "verbv2") } svoje zariadenia a vezmite si svoje obľúbené záložky, uložené prihlasovacie údaje, heslá a históriu prehliadania, nech ste kdekoľvek. Navyše posielajte otvorené karty medzi telefónom a počítačom, aby ste mohli pokračovať tam, kde ste prestali.
 mobile-ios-find-it-all = Nájdite všetko rýchlejšie
 mobile-ios-get-search-suggestions = Získajte návrhy vyhľadávania na paneli vyhľadávania a rýchlo pristupujte k webom, ktoré najčastejšie navštevujete. Zadajte svoju hľadanú otázku a získajte navrhované a predtým hľadané výsledky vo svojich obľúbených vyhľadávačoch.
 # Obsolete string
