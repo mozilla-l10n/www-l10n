@@ -103,6 +103,10 @@ vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (versión 6 o superior)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versión 6 o superior)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+#   $version (number) - minimum supported version number
+vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } y superiores)
 # Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
