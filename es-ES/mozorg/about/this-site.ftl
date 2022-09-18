@@ -26,3 +26,19 @@ about-this-site-contribute-to-l10n = Contribuir a las traducciones
 about-this-site-read-the-docs = Leer la documentación
 about-this-site-colophon = Colofón
 about-this-site-some-open-source-projects = Algunos proyectos de código abierto usados para hacer este sitio:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> como framework web en el servidor, con <a href="{ $jinja }">Jinja</a> para las plantillas.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = <a href="{ $protocol }">Protocol</a> de { -brand-name-mozilla } para el sistema de diseño de los componentes frontend y de la marca.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = Sistema de localización <a href="{ $fluent }">Fluent</a> de { -brand-name-mozilla } para la traducción a diversos idiomas.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Muchas otras bibliotecas y frameworks más pequeños, que puedes encontrar en nuestro <a href="{ $github }">repositorio en { -brand-name-github }</a>.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Extendemos nuestro agradecimiento a todos los <a href="{ $credits }">colaboradores</a> de { -brand-name-mozilla } que han ayudado a hacer de la web un lugar mejor.
