@@ -85,7 +85,9 @@
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
+-brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
 
@@ -98,6 +100,7 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = Glean
 -brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs

@@ -7,5 +7,6 @@
 
 # Sub-headline
 compare-index-privacy-utility-portability = ຄວາມເປັນສ່ວນຕົວ. ປະໂຫຍດ. ການພົກພາ.
+compare-index-which-browser-is-best-at-keeping = ຕົວທ່ອງເວັບໃດດີທີ່ສຸດໃນການຮັກສາຄວາມລັບ?
 compare-index-conclusion = ສະຫຼຸບ:
 compare-index-and-the-winner-is = ແລະຜູ້ຊະນະແມ່ນ…
