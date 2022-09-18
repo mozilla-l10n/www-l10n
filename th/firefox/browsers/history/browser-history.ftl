@@ -19,6 +19,10 @@ browser-history-web-era = ยุคเว็บ
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
 browser-history-british-computer = นักวิทยาการคอมพิวเตอร์ชาวบริติช Tim Berners-Lee ได้สร้างเว็บเซิร์ฟเวอร์และเว็บเบราว์เซอร์แบบกราฟิกตัวแรกในปี 1990 ขณะที่<a href="{ $cern }">ทำงานอยู่ที่ CERN</a> องค์การวิจัยนิวเคลียร์ยุโรป ซึ่งตั้งอยู่ในสวิตเซอร์แลนด์ เขาเรียกหน้าต่างใหม่สู่โลกอินเทอร์เน็ตของเขานี้ว่า “WorldWideWeb” ซึ่งเป็นส่วนติดต่อแบบกราฟิกที่ใช้งานง่ายที่สร้างขึ้นมาสำหรับคอมพิวเตอร์ NeXT เอกสารข้อความได้ถูกเชื่อมโยงเข้าด้วยกันผ่านเครือข่ายสาธารณะเป็นครั้งแรก ซึ่งนั่นก็คือเว็บในแบบที่เรารู้จัก
+browser-history-a-year-later-berners = หนึ่งปีต่อมา Berners-Lee ได้ขอให้นักศึกษาคณิตศาสตร์ CERN ที่ชื่อ CERN เขียน Line Mode Browser ซึ่งเป็นโปรแกรมเบราว์เซอร์สำหรับเครื่องเทอร์มินัลแบบทั่วไป
+# Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = พอถึงปี 1993 เว็บก็ได้รับความสนใจอย่างล้นหลาม มหาวิทยาลัย หน่วยงานรัฐบาล และบริษัทเอกชนต่างๆ ทั้งหมดก็ได้เห็นโอกาสในอินเทอร์เน็ตที่เปิดกว้าง ทุกคนต้องการโปรแกรมคอมพิวเตอร์ใหม่เพื่อเข้าถึงมัน ในปีเดียวกัน Mosaic ได้ถูกสร้างขึ้นที่ National Center for Supercomputing Applications (NCSA) ที่มหาวิทยาลัยอิลลินอยส์ เออร์แบนา-แชมเปญจน์โดยนักวิทยาการคอมพิวเตอร์ Marc Andreessen ซึ่งเป็นเว็บเบราว์เซอร์ที่เป็นที่นิยมตัวแรก และยังเป็นบรรพบุรุษของ <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a> อีกด้วย
 browser-history-the-browser-wars = สงครามเบราว์เซอร์
 browser-history-resources = ทรัพยากร
 browser-history-take-control-of = เข้าควบคุมเบราว์เซอร์ของคุณ
