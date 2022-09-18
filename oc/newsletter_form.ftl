@@ -6,7 +6,7 @@ newsletter-form-your-email-here = VÒSTRE EMAIL AICÍ
 newsletter-form-format = Format
 newsletter-form-html = HTML
 newsletter-form-text = Tèxte
-newsletter-form-get-firefox-news = Recebètz { -brand-name-firefox } letra
+newsletter-form-get-firefox-news = Recebètz las infoletras de { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Accepti que { -brand-name-mozilla } utilize mas informacions per acontentar aquesta <a href="{ $url }">Politica de confidencialitat</a>
