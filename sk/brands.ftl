@@ -400,7 +400,12 @@
         [ins] Monitorom
     }
     .gender = masculine
--brand-name-sync = Sync
+-brand-name-sync =
+    { $form ->
+       *[noun] Synchronizácia
+        [verb] Synchronizovať
+        [verb2] Synchronizujte
+    }
 -brand-name-relay = Relay
 -brand-name-fpn = FPN
 
