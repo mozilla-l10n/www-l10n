@@ -23,6 +23,12 @@ browser-history-a-year-later-berners = หนึ่งปีต่อมา Bern
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = พอถึงปี 1993 เว็บก็ได้รับความสนใจอย่างล้นหลาม มหาวิทยาลัย หน่วยงานรัฐบาล และบริษัทเอกชนต่างๆ ทั้งหมดก็ได้เห็นโอกาสในอินเทอร์เน็ตที่เปิดกว้าง ทุกคนต้องการโปรแกรมคอมพิวเตอร์ใหม่เพื่อเข้าถึงมัน ในปีเดียวกัน Mosaic ได้ถูกสร้างขึ้นที่ National Center for Supercomputing Applications (NCSA) ที่มหาวิทยาลัยอิลลินอยส์ เออร์แบนา-แชมเปญจน์โดยนักวิทยาการคอมพิวเตอร์ Marc Andreessen ซึ่งเป็นเว็บเบราว์เซอร์ที่เป็นที่นิยมตัวแรก และยังเป็นบรรพบุรุษของ <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a> อีกด้วย
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic สามารถรันได้บนคอมพิวเตอร์ { -brand-name-windows } ใช้งานง่าย และให้ใครก็ตามที่มีพีซีสามารถเข้าถึงหน้าเว็บ ห้องแชท และคลังภาพในยุคแรกได้ ในปีต่อมา (1994) Andreessen ได้สร้าง <a href="{ $netscape }">{ -brand-name-netscape }</a> และเผยแพร่ { -brand-name-netscape } Navigator ออกสู่สาธารณะ ซึ่งเป็นเบราว์เซอร์ตัวแรกสำหรับผู้ใช้ทั่วไปที่ประสบความสำเร็จเป็นอย่างมาก และยังเป็นก้าวแรกของสงครามชนิดใหม่สำหรับผู้ใช้อินเทอร์เน็ตด้วย
 browser-history-the-browser-wars = สงครามเบราว์เซอร์
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = ในปี 1995 { -brand-name-netscape } Navigator ก็ไม่ใช่ทางเดียวที่จะเชื่อมต่อโลกออนไลน์ได้ ยักษ์ใหญ่ด้านซอฟต์แวร์คอมพิวเตอร์ { -brand-name-microsoft } ได้รับอนุญาตให้ใช้โค้ดเก่าของ Mosaic และสร้างหน้าต่างสู่เว็บของตนเอง ซึ่งก็คือ <a href="{ $ie }">{ -brand-name-ie }</a> การออกเบราว์เซอร์ในครั้งนี้ได้จุดประกายสงครามขึ้น { -brand-name-netscape } และ { -brand-name-microsoft } ทำงานอย่างร้อนรนเพื่อสร้างโปรแกรมรุ่นใหม่ของตนเอง โดยแต่ละบริษัทต่างพยายามเอาชนะอีกฝ่ายด้วยผลิตภัณฑ์ที่เร็วและดีกว่า
 browser-history-resources = ทรัพยากร
 browser-history-take-control-of = เข้าควบคุมเบราว์เซอร์ของคุณ
