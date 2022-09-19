@@ -23,6 +23,7 @@ firefox-all-32-bit-installers = ຕົວຕິດຕັ້ງ 32 ບິດ
 firefox-all-download-the-firefox = ດາວໂຫລດບ { -brand-name-firefox-browser } ເປັນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ພາສາອື່ນໆຫລາຍກວ່າ 90 ພາສາ
 firefox-all-firefox-privacy-notice = ຄວາມເປັນສ່ວນໂຕໃນ { -brand-name-firefox }
 firefox-all-learn-about-firefox = ຮຽນຮູ້ກ່ຽວກັບຕົວທ່ອງເວັບຂອງ { -brand-name-firefox }
+firefox-all-arm64-installers = ຕົວຕິດຕັ້ງ ARM64/AArch64
 firefox-all-product-send-link = ສົ່ງລິ້ງດາວໂຫລດໄປຫາໂທລະສັບຂອງທ່ານ
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
