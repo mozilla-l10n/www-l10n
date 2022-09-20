@@ -120,6 +120,9 @@ vpn-subnav-subscribe = Подпишитесь на { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Мы используем куки, чтобы понять, какой аффилированный партнер привел вас к { -brand-name-mozilla-vpn }. Мы не передаем идентифицирующую вас информацию нашим партнерам. Прочитайте нашу <a { $attrs }>Политику конфиденциальности</a>.
 vpn-shared-affiliate-notification-reject = Отклонить
 vpn-shared-affiliate-notification-ok = OK
 
