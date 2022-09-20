@@ -59,7 +59,7 @@ navigation-v2-more-about-mozilla = { -brand-name-mozilla } ගැන වැඩ�
 
 ## Innovation menu
 
-navigation-v2-innovation = නවෝත්පාදනය
+navigation-v2-innovation = නවෝත්පාදන
 navigation-v2-close-innovation-menu = නවෝත්පාදන වට්ටෝරුව වසන්න
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
