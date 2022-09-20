@@ -79,11 +79,11 @@ vpn-shared-pricing-get-12-month-v2 = Získajte 12-mesačný plán
 vpn-shared-pricing-get-monthly = Získajte mesačný plán
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
-vpn-shared-pricing-save-percent = Ušetríte { $percent }%
+vpn-shared-pricing-save-percent = Ušetríte { $percent } %
 # Variables:
 #   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
 # Asterisk indicates a footnote for the following string
-vpn-shared-save-percent-on = Ušetrite { $percent }% s { -brand-name-mozilla-vpn }*
+vpn-shared-save-percent-on = Ušetrite { $percent } % s { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *ak sa prihlásite na odber 12-mesačného plánu
 # Variables:
