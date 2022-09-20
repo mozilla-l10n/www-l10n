@@ -22,8 +22,15 @@ vpn-desktop-privacy-headline = Один щелчок до приватности
 vpn-desktop-privacy-copy = Приложение { -brand-name-mozilla-vpn } шифрует ваше соединение с Интернетом и скрывает IP-адрес вашего мобильного телефона или планшета с помощью продвинутого протокола { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Подключайтесь к серверам по всему миру
 # Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Выходите в Интернет из Бразилии. Играйте из Японии. Стримите из Мексики. { -brand-name-mozilla-vpn } позволяет изменить местоположение телефона или компьютера на один из более { $servers } серверов.
+# Obsolete string
+vpn-desktop-servers-copy = Выходите в Интернет из Бразилии. Играйте из Японии. Стримите из Мексики. { -brand-name-mozilla-vpn } позволяет изменить местоположение телефона или компьютера на один из более { $servers }.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Защитите до { $devices } устройств
 vpn-desktop-devices-copy = Ваша подписка предоставляет неограниченный доступ к нашей службе VPN на вашем смартфоне, планшете и компьютере на { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } и { -brand-name-linux }.
 vpn-desktop-speed-headline = Невероятная скорость, без ограничений
+vpn-desktop-speed-copy = Стримите потоковое видео, играйте в игры, делайте покупки и сёрфите по сайтам с молниеносной скоростью. { -brand-name-mozilla-vpn } не ограничивает вашу пропускную способность и не замедляет работу вашего смартфона.
 vpn-desktop-log-headline = Ваша приватность всегда на первом месте
+vpn-desktop-log-copy = В { -brand-name-mozilla } мы не собираем никаких данных о том, кто вы, и не записываем что вы делаете в Интернете — ни через нашу VPN, ни через какие-либо другие наши продукты. Защита вашей конфиденциальности является основным принципом нашей миссии.

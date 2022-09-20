@@ -121,6 +121,8 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (только { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Какова политика возврата средств { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = При первой подписке на { -brand-name-mozilla-vpn } через веб-сайт { -brand-name-mozilla }, если вы аннулируете свою учетную запись в течение первых 30 дней, вы можете запросить возмещение и { -brand-name-mozilla } возместит ваш первый срок подписки.
+vpn-landing-faq-refund-question-additional-desc = Если вы приобретаете подписку через покупку в { -brand-name-apple } { -brand-name-app-store } или магазине { -brand-name-google-play }, ваш платёж регулируется условиями { -brand-name-app-store }. Вы должны направлять любые запросы на выставление счетов и возврат средств за такие покупки по адресу { -brand-name-apple } или { -brand-name-google }, в зависимости от ситуации.
 # Outdated string
 vpn-landing-faq-refund-question-desc = Вы можете вернуть свои деньги в течение 30 дней с момента оплаты подписки. Свяжитесь с нами и отправьте запрос на возврат, нажав кнопку «Получить помощь» в настройках приложения { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Как я могу управлять своей подпиской?
