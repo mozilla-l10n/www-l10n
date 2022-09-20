@@ -14,7 +14,7 @@ vpn-android-hero-headline = Protégez votre connexion et votre confidentialité 
 
 vpn-android-ability = Avec { -brand-name-mozilla-vpn }, vos données sont à l’abri des pirates et des regards indiscrets, aussi bien à la maison que lorsque vous êtes connecté à un réseau Wi-Fi public. Pour le prix d’une tasse de café, vos données personnelles sur votre appareil { -brand-name-android } reçoivent un chiffrement avancé via le protocole { -brand-name-wireguard }®. Utilisez { -brand-name-mozilla-vpn } pour accéder aux services de streaming, jouer à des jeux, gérer vos finances, régler vos achats et faire tout ce que vous souhaitez en ligne, en toute sécurité.
 
-vpn-android-maker-of-firefox = En notre qualité de développeurs du navigateur { -brand-name-firefox } et forts de notre réputation d’entreprise technologique digne de confiance, nous voulons que vous vous sentiez en sécurité chaque minute que vous passez en ligne.
+vpn-android-maker-of-firefox = En notre qualité de développeurs du navigateur { -brand-name-firefox } et forts de la réputation de { -brand-name-mozilla } en tant qu’entreprise technologique digne de confiance, nous voulons que vous vous sentiez en sécurité chaque minute que vous passez en ligne.
 
 vpn-android-wifi-headline = Naviguez en toute sécurité, où que vous soyez
 vpn-android-wifi-copy = Parfois, la 4G n’est pas disponible et le Wi-Fi public est votre seul recours. Avec { -brand-name-mozilla-vpn } sur votre appareil { -brand-name-android }, vous pouvez saisir vos mots de passe à l’aéroport ou effectuer un achat en ligne au café du coin en toute tranquillité. Il vous suffit de vous connecter d’un simple clic !
