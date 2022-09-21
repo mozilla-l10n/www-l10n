@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
+nightly-whatsnew-your-firefox-nightly = ඔබගේ { -brand-name-firefox-nightly } යාවත්කාල වී ඇත.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-go-community = ප්‍රජාව ඉදිරියට!
