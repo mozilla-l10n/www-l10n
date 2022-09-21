@@ -8,6 +8,7 @@
 
 # HTML page title
 
+browsers-chromebook-get-firefox-desktop = ເອົາ { -brand-name-firefox } ສໍາລັບ { -brand-name-chromebook }
 browsers-chromebook-dropdown-copy = ເອົາ { -brand-name-firefox } ສໍາລັບ { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = ເປັນຫຍັງຕ້ອງເອົາ <span>{ -brand-name-firefox }</span> ສຳລັບ { -brand-name-chromebook }?
