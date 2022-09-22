@@ -22,6 +22,7 @@ navigation-v2-release-notes = Julkaisutiedot
 ## Products menu
 
 navigation-v2-products = Tuotteet
+navigation-v2-sign-up-for-new-accounts = Rekisteröi uusia tilejä antamatta todellista sähköpostiosoitettasi.
 navigation-v2-view-all-products = Katso kaikki tuotteet
 
 ## Who We Are menu

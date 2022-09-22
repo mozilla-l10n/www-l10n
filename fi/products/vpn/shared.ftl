@@ -9,6 +9,9 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Hanki { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Liity odotuslistalle
 vpn-shared-sign-in-link = Oletko jo tilaaja?
+# Outdated string
+vpn-shared-available-countries-v4 = Tarjoamme tällä hetkellä { -brand-name-mozilla-vpn }:ää Alankomaissa, Belgiassa, Espanjassa, Irlannissa, Isossa-Britanniassa, Italiassa, Itävallassa, Kanadassa, Malesiassa, Ranskassa, Saksassa, Ruotsissa, Singaporessa, Sveitsissä, Uudessa-Seelannissa ja Yhdysvalloissa.
+vpn-shared-available-countries-v5 = Tarjoamme tällä hetkellä { -brand-name-mozilla-vpn }:ää Alankomaissa, Belgiassa, Espanjassa, Irlannissa, Isossa-Britanniassa, Italiassa, Itävallassa, Kanadassa, Malesiassa, Ranskassa, Saksassa, Ruotsissa, Singaporessa, Suomessa, Sveitsissä, Uudessa-Seelannissa ja Yhdysvalloissa.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 päivän rahat takaisin -takuu
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -110,6 +113,9 @@ vpn-subnav-subscribe = Tilaa { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Käytämme evästeitä ymmärtääksemme, mikä yhteistyökumppani johti sinut { -brand-name-mozilla-vpn }:n pariin. Emme jaa yksilöiviä tietoja kumppaneillemme. Lue <a { $attrs }>tietosuojakäytäntömme</a>.
 vpn-shared-affiliate-notification-reject = Hylkää
 vpn-shared-affiliate-notification-ok = OK
 
