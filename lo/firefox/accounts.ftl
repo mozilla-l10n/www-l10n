@@ -18,6 +18,7 @@ firefox-accounts-join-firefox = ເຂົ້າຮ່ວມ { -brand-name-firefo
 firefox-accounts-enter-your-email-address = ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານເພື່ອເລີ່ມຕົ້ນ.
 firefox-accounts-already-have-an-account = ມີບັນຊີແລ້ວບໍ່?
 firefox-accounts-sign-in = ລົງຊື່ເຂົ້າໃຊ້
+firefox-accounts-get-technology-that = ໄດ້ຮັບເຕັກໂນໂລຢີທີ່ຕໍ່ສູ້ເພື່ອທ່ານ.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-get-the-knowledge = ຮັບຄວາມຮູ້ທີ່ຮັກສາໃຫ້ທ່ານປອດໄພ.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
