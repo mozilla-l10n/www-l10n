@@ -9,4 +9,5 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } { -brand-name-windows } 10:lle
+vpn-windows-privacy-headline = Suojausta napin painalluksella
 vpn-windows-speed-headline = Ei kaistanleveysrajoituksia
