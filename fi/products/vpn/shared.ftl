@@ -73,6 +73,7 @@ vpn-shared-pricing-total = { $amount } yhteensä
 
 vpn-shared-platform-cta-headline = Aloitetaan
 vpn-shared-platform-cta-button = Katso hinnat ja saatavuus
+vpn-shared-platform-what-youll-get = Tämän saat { -brand-name-mozilla-vpn }:llä:
 vpn-subnav-whats-a-vpn = Mikä on VPN?
 vpn-subnav-faqs = UKK
 vpn-subnav-get-help = Etsi ohjeita
