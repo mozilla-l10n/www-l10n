@@ -7,6 +7,10 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Suojaa koko laitteesi
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Käytä { -brand-name-mozilla-vpn }:ää kaikkien laitteesi sovellusten suojaamiseen. Yli { $countries } maassa olevien palvelinten kautta voit muodostaa yhteyden minne tahansa, mistä tahansa.
 vpn-landing-hero-sub-heading-v2 = Turvallisuutta, luotettavuutta ja nopeutta – kaikilla laitteilla, missä ikinä oletkin.
 # Obsolete string
 vpn-landing-hero-sub-heading = Turvallisuutta, johon voit luottaa. Nimi, johon voit luottaa.
@@ -14,6 +18,10 @@ vpn-landing-hero-desc = Virtuaalinen erillisverkko { -brand-name-firefox }in tek
 vpn-landing-privacy-heading = Yksityisyyttä yhdellä napautuksella
 vpn-landing-privacy-desc = Surffaa, suoratoista, pelaa ja tee töitä säilyttäen samalla yksityisyytesi verkossa. Asetamme aina yksityisyytesi etusijalle mitä teetkin; matkustat, käytät julkista WiFi-yhteyttä tai etsit vain lisää turvaa verkossa.
 vpn-landing-fast-secure-heading = Nopea ja turvallinen verkko
+# Variables:
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } toimii maailmanlaajuisessa palvelinverkossa. Käyttämällä edistyneintä <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>-protokollaa salaamme verkkoliikenteesi ja piilotamme IP-osoitteesi. Emme koskaan lokita, seuraa tai jaa tietojasi.
 vpn-landing-brand-trust-heading = VPN brändiltä, johon voit luottaa
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
