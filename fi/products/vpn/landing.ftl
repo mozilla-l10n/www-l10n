@@ -31,6 +31,18 @@ vpn-landing-brand-trust-desc = Yli 20 vuoden ajan { -brand-name-mozilla } on ase
 
 vpn-landing-faq-heading = UKK
 vpn-langing-faq-uses-question-heading = Mikä on VPN ja mihin sitä voi käyttää?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Kun yhä enemmän päivittäistä elämää tapahtuu internetin kautta, yksityisyys ja turvallisuus verkossa tulevat entistä tärkeämmiksi. VPN, <a href="{ $url }">Virtual Private Network</a> eli virtuaalinen erillisverkko, voi auttaa sinua luomaan turvallisen, yksityisen yhteyden internetiin. Se toimii luomalla "tunnelin" laitteesi ja internetin välille, ja se suojaa sinua kahdella tärkeällä tavalla:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Häivyttämällä todellisen <a href="{ $url }">IP-osoitteesi</a>. Tämä suojaa henkilöyttäsi ja peittää sijaintisi.
+# Obsolete string
+vpn-landing-faq-uses-conceal = Häivyttämällä todellisen IP-osoitteesi. Tämä suojaa henkilöyttäsi ja peittää sijaintisi.
+vpn-landing-faq-uses-encrypt = Salaamalla sinun ja VPN-palveluntarjoajasi välisen liikenteen, jotta kukaan paikallisessa verkossasi ei voi tulkita tai muokata liikennettä.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Tutustu <a href="{ $url }">viiteen tosielämän esimerkkiin</a>, joissa saatat haluta käyttää VPN-yhteyttä laitteellasi.
 vpn-landing-faq-info-question-heading = Mitä tietoja { -brand-name-mozilla-vpn } säilyttää?
 vpn-landing-faq-protected-question-heading = Miten yksityisyyttäni suojataan?
 vpn-landing-faq-competition-question-heading = Millainen { -brand-name-mozilla-vpn } on verrattuna kilpailijoihin?
