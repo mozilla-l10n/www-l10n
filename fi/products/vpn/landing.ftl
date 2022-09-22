@@ -23,6 +23,10 @@ vpn-landing-faq-info-question-heading = Mitä tietoja { -brand-name-mozilla-vpn 
 vpn-landing-faq-protected-question-heading = Miten yksityisyyttäni suojataan?
 vpn-landing-faq-competition-question-heading = Millainen { -brand-name-mozilla-vpn } on verrattuna kilpailijoihin?
 vpn-landing-faq-compatibility-question-heading = Minkä laitteiden kanssa { -brand-name-mozilla-vpn } on yhteensopiva?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } on yhteensopiva <a href="{ $mobile }">mobiililaitteen</a>, tabletin ja <a href="{ $desktop }">pöytäkoneen</a> kanssa:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } on yhteensopiva seuraavien kanssa:
 # Variables:
@@ -68,13 +72,22 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (vain { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Mikä on { -brand-name-mozilla-vpn }:n hyvityskäytäntö?
+vpn-landing-faq-refund-question-desc-v2 = Jos perut tilisi 30 päivän kuluessa, kun tilaat { -brand-name-mozilla-vpn } -palvelun ensimmäistä kertaa { -brand-name-mozilla }n sivuston kautta, voit pyytää hyvitystä ja { -brand-name-mozilla } hyvittää ensimmäisen tilausjaksosi.
+vpn-landing-faq-refund-question-additional-desc = Jos maksat tilauksesi sovelluksen sisäisellä ostoksella { -brand-name-apple } { -brand-name-app-store }n tai { -brand-name-google-play } Storen kautta, maksuun sovelletaan { -brand-name-app-store }n käyttöehtoja. Sinun on ohjattava tällaisia ostoksia koskevat laskutus- ja hyvityskyselyt { -brand-name-apple }lle tai { -brand-name-google }lle.
 vpn-landing-faq-manage-subscription-question-heading = Kuinka hallitsen tilaustani?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Jos olet jo tilannut { -brand-name-mozilla-vpn } -palvelun, voit muuttaa tai <a href="{ $url }">hallinnoida tilaustasi</a> milloin tahansa.
 vpn-landing-faq-download-heading = Miten lataan { -brand-name-mozilla-vpn }:n, kun minulla on jo tilaus?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Käy <a { $attrs }>lataussivulla</a> ja asenna { -brand-name-mozilla-vpn } laitteellesi ja kirjaudu sitten sisään käyttämällä { -brand-name-firefox-account }äsi.
 vpn-landing-faq-link = Katso lisää usein kysyttyjä kysymyksiä
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Liity odotuslistalle: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Vastaanota ilmoitus, kun { -brand-name-mozilla-vpn } on saatavilla laitteellesi ja alueellesi.
 vpn-landing-invite-page-heading = Liity VPN-odotuslistalle
 vpn-landing-invite-email-label = Mikä on sähköpostiosoitteesi?
 vpn-landing-invite-required-label = Pakollinen
@@ -89,6 +102,9 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-invite-privacy-policy = Napsauttamalla "Liity odotuslistalle" hyväksyt <a href="{ $privacy }">tietosuojakäytäntömme</a>.
 vpn-landing-invite-your-information = Tietojasi käytetään vain alustan saatavuudesta ilmoittamiseen.
 vpn-landing-invite-thanks-heading = Kiitos! Olet listalla
 vpn-landing-invite-thanks-desc = Kun { -brand-name-mozilla-vpn } tulee saataville alueellasi, lähetämme sinulle sähköpostia.

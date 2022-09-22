@@ -8,6 +8,10 @@
 not-found-locale-title = Valitse kieli tai maa-asetusto selataksesi Mozilla.org-sivustoa
 not-found-locale-desc = Valitse maa tai alue osoittaaksesi ensisijaisen kielen.
 not-found-locale-not-yet-translated = Sivua ei ole vielä käännetty
+# Variables:
+#   $community (url) - link to https://community.mozilla.org/activities/localize-mozilla/
+#   $contribute (url) - link to https://wiki.mozilla.org/L10n:Contribute
+not-found-locale-join-us = Liity <a href="{ $community }">yhteisöömme</a> ja auta meitä <a href="{ $contribute }">kääntämään tämä sivu.</a>
 not-found-locale-available = Se on saatavilla seuraavilla kielillä:
 # Variables:
 #   $requested_page (string) - path of originally requested page
