@@ -12,8 +12,12 @@ vpn-landing-hero-sub-heading-v2 = Turvallisuutta, luotettavuutta ja nopeutta –
 vpn-landing-hero-sub-heading = Turvallisuutta, johon voit luottaa. Nimi, johon voit luottaa.
 vpn-landing-hero-desc = Virtuaalinen erillisverkko { -brand-name-firefox }in tekijöiltä.
 vpn-landing-privacy-heading = Yksityisyyttä yhdellä napautuksella
+vpn-landing-privacy-desc = Surffaa, suoratoista, pelaa ja tee töitä säilyttäen samalla yksityisyytesi verkossa. Asetamme aina yksityisyytesi etusijalle mitä teetkin; matkustat, käytät julkista WiFi-yhteyttä tai etsit vain lisää turvaa verkossa.
 vpn-landing-fast-secure-heading = Nopea ja turvallinen verkko
 vpn-landing-brand-trust-heading = VPN brändiltä, johon voit luottaa
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = Yli 20 vuoden ajan { -brand-name-mozilla } on asettanut ihmiset etusijalle ja taistellut yksityisyyden puolesta verkossa. Voittoa tavoittelemattoman järjestön tukemana olemme sitoutuneet rakentamaan entistä paremman ja terveellisemmän internetin kaikille. Kaikki tekemämme on osa tehtäväämme ja noudattaa <a href="{ $url }">periaatteitamme</a>.
 
 ## FAQ section
 
