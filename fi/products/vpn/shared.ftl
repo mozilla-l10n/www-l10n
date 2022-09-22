@@ -17,6 +17,7 @@ vpn-shared-features-encrypt = Laitetason salaus
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = { $servers }+ palvelinta { $countries }+ maassa
 vpn-shared-features-bandwidth = Ei kaistanleveysrajoituksia
+vpn-shared-features-activity-logs = Ei verkkotapahtumien lokeja nyt eikä koskaan
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = Saatavilla { $countries } maassa nyt. Lisää alueita tulossa pian
