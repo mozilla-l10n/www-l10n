@@ -63,6 +63,8 @@ vpn-shared-pricing-save-percent = Säästä { $percent } %
 #   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
 # Asterisk indicates a footnote for the following string
 vpn-shared-save-percent-on = Säästä { $percent } % { -brand-name-mozilla-vpn }:stä*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = * kun sitoudut 12 kuukauden tilaukseen
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } yhteensä
@@ -83,6 +85,12 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Mikä on IP-osoite?
 vpn-subnav-when-to-use-a-vpn = Milloin VPN:ää kannattaa käyttää
 vpn-subnav-vpn-vs-proxy = VPN vs välityspalvelin
+vpn-subnav-subscribe = Tilaa { -brand-name-mozilla-vpn }
+
+## VPN Affiliate cookie notice
+
+vpn-shared-affiliate-notification-reject = Hylkää
+vpn-shared-affiliate-notification-ok = OK
 
 ##
 
