@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -45,7 +45,7 @@ manifesto-the-mozilla-manifesto-addendum = Doplněný manifest { -brand-name-moz
 manifesto-pledge-for-a-healthy-internet = Závazek pro zdravý internet
 manifesto-the-open-global-internet = Otevřený a svobodný internet je nejsilnějším prostředkem pro komunikaci a spolupráci, jaký jsme kdy měli. Ztělesňuje naše největší naděje v lidský pokrok a otevírá příležitosti pro učení, budování sdílené představy o smyslu lidskosti, i řešení naléhavých problémů, kterým čelí lidé po celém světě.
 manifesto-over-the-last-decade-we = Během posledního desetiletí jsme mohli vidět důkazy, jak je internet důležitý. Viděli jsme ale i sílu internetu použitého pro rozdělení společnosti, podněcování násilí, šíření nenávisti a záměrnou manipulaci s fakty a skutečností. Zjistili jsme, že musíme s internetem pracovat, aby obsahoval více skutečné lidskosti.
-manifesto-we-are-committed-to-people = Jsme zavázáni internetu jako místu, které spojuje lidi na Zemi, kde naše demografické předpoklady neomezuje možnost našeho přístupu k internetu a k našim příležitostem.
+manifesto-we-are-committed-to-people = Jsme zavázáni internetu jako místu, které spojuje lidi na Zemi, kde naše demografické předpoklady neomezují možnost našeho přístupu k internetu a k našim příležitostem.
 manifesto-we-are-committed-to-discourse = Jsme zavázáni internetu, který podporuje civilizovaný projev, lidskou důstojnost a možnost vyjádřit se.
 manifesto-we-are-committed-to-thinking = Jsme zavázáni internetu, který povznáší kritické myšlení, konstruktivní argumentaci, sdílení vědomostí a ověřitelnost faktů.
 manifesto-we-are-committed-to-diverse = Jsme zavázáni internetu, který prohlubuje spolupráci mezi rozličnými komunitami a okruhy lidí, kteří mají společný a prospěšný cíl.
@@ -54,31 +54,6 @@ manifesto-an-internet-with-these = Internet s těmito kvalitami není samozřejm
 manifesto-i-support-the-vision-of = Podporuji vizi lepšího a zdravějšího internetu, jakou má @mozilla. Přidáte se?
 manifesto-share-on-twitter = Sdílet na { -brand-name-twitter(case: "loc") }
 manifesto-our-10-principles = <strong>Našich 10</strong> principů
-manifesto-use-open-badges-to-share = Využijte Open Badges ke sdílení svých dovedností a zájmů
-manifesto-explore-how-the-web-impacts = Prozkoumejte vliv webu na vědu
-manifesto-learn-about-open-source = Zjistěte více o otevřeném zdrojovém kódu v publicistice
-manifesto-read-about-open-internet = Přečtěte si o podnětech a novinkách ohledně zásad otevřeného internetu
-manifesto-explore-how-to-help-keep = Prozkoumejte, jak můžete pomoci udržet web otevřený
-manifesto-see-how-the-web-can-connect = Podívejte se, jak může web připojit svět ke zdravotní péči
-manifesto-explore-how-the-web-works = Prozkoumejte, jak web funguje
-manifesto-see-how-mozilla-works = Podívejte se, jak { -brand-name-mozilla } usiluje o to, aby vaše soukromí bylo na prvním místě
-manifesto-read-about-developments = Přečtěte si, co je nového kolem soukromí a bezpečnosti dat
-manifesto-learn-more-about-how-to = Zjistěte více o tom, jak se chránit na internetu
-manifesto-use-these-free-tools-to = Používejte tyto volně dostupné nástroje, abyste učili web
-manifesto-learn-about-creating-and = Zjistěte, jak vytvářet a organizovat obsah pro web
-manifesto-add-new-voices-to-open = Přidejte nové hlasy do otevřených technologií
-manifesto-set-your-do-not-track = Nastavte si Do Not Track
-manifesto-understand-the-web-ecosystem = Porozumějte ekosystému webu
-manifesto-explore-how-open-practices = Prozkoumejte, jak web zůstává přístupný díky otevřeným postupům
-manifesto-learn-how-to-remix-content = Zjistěte, jak předělat obsah a vytvořit tak něco nového
-manifesto-learn-how-to-maximize = Zjistěte, jak maximalizovat interaktivní potenciál webu
-manifesto-participate-in-our-governance = Podívejte se na naše fórum o správě a řízení
-manifesto-join-us-as-a-volunteer = Připojte se jako dobrovolník
-manifesto-learn-how-to-collaborate = Zjistěte, jak spolupracovat po internetu
-manifesto-visualize-who-you-interact = Získejte představu o tom, s jakými servery prohlížeč komunikuje, díky rozšíření { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Zjistěte, jak vytvářet zdroje na webu s ostatními
-manifesto-host-or-join-a-maker-party = Pořádejte nebo zúčastněte se { -brand-name-maker-party(case: "gen") }
-manifesto-learn-how-to-build-online = Zjistěte, jak se učit spolupracovat po internetu
 manifesto-read-the-entire-manifesto = Přečíst celý manifest
 manifesto-love-the-web = Máte rádi web?
 manifesto-get-the-mozilla-newsletter = Nechte si zasílat zpravodaj { -brand-name-mozilla(case: "gen") } a pomozte nám udržet internet otevřený a svobodný.
