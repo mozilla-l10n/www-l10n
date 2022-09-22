@@ -11,6 +11,8 @@ vpn-shared-waitlist-link = Liity odotuslistalle
 vpn-shared-sign-in-link = Oletko jo tilaaja?
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 päivän rahat takaisin -takuu
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = Esittelyssä
 vpn-shared-features-encrypt = Laitetason salaus
 # Variables:
 #   $servers (number) - number of available servers
@@ -19,6 +21,19 @@ vpn-shared-features-servers = { $servers }+ palvelinta { $countries }+ maassa
 vpn-shared-features-bandwidth = Ei kaistanleveysrajoituksia
 vpn-shared-features-activity = Verkkotoimintojasi ei kirjata lokiin
 vpn-shared-features-activity-logs = Ei verkkotapahtumien lokeja nyt eikä koskaan
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Pääsy palvelimiin { $countries }+ maassa
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = Mahdollisuus yhdistää jopa { $devices } laitetta
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Suojaus jopa { $devices } laitteelle
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Yhdistä yli { $servers } palvelimeen yli { $countries } maassa
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = Saatavilla { $countries } maassa nyt. Lisää alueita tulossa pian
@@ -37,6 +52,7 @@ vpn-shared-features-guarantee = 30 päivän rahat takaisin -takuu
 vpn-shared-refund-policy = Palautusoikeus
 vpn-shared-privacy-notice = Tietosuojakäytäntö
 vpn-shared-terms-conditions = Käyttöehdot
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } on Jason A. Donenfeldin rekisteröimä tavaramerkki
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
@@ -76,6 +92,7 @@ vpn-shared-pricing-total = { $amount } yhteensä
 vpn-shared-platform-cta-headline = Aloitetaan
 vpn-shared-platform-cta-button = Katso hinnat ja saatavuus
 vpn-shared-platform-privacy-promise = Yksityisyytesi on lupauksemme
+vpn-shared-platform-trust-partner-headline = Tietoja luotettavasta kumppanistamme
 vpn-shared-platform-what-youll-get = Tämän saat { -brand-name-mozilla-vpn }:llä:
 vpn-subnav-whats-a-vpn = Mikä on VPN?
 vpn-subnav-faqs = UKK

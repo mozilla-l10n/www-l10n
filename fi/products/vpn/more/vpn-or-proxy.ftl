@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
 
+# HTML page title and main title
+vpn-or-proxy-the-difference-between = VPN:n ja välityspalvelimen eroavaisuudet
 vpn-or-proxy-vpns-devicelevel-protection = VPN:t: laitetason suojaa
 vpn-or-proxy-choose-a-trustworthy = Valitse luotettava palvelu
