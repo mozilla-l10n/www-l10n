@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Sähköpostiosoitteesi
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = nimi@esimerkki.fi
 newsletter-form-select-country-or-region = Valitse maa tai alue
+newsletter-form-select-language = Valitse kieli
 newsletter-form-your-email-here = KIRJOITA SÄHKÖPOSTIOSOITTEESI TÄHÄN
 newsletter-form-format = Formaatti
 newsletter-form-html = HTML
@@ -35,3 +36,5 @@ multi-newsletter-form-checkboxes-legend = Haluan tietoa aiheesta:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Valitse ainakin yksi uutiskirjeen vaihtoehdoista.
+multi-newsletter-form-title = Rakasta verkkoa
+multi-newsletter-form-desc = Tilaa { -brand-name-mozilla }n uutiskirjeet ja auta meitä pitämään internet avoimena ja vapaana.

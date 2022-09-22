@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
 footer-privacy = Tietosuoja
@@ -70,3 +70,4 @@ footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-follow-mozilla = Seuraa @{ -brand-name-mozilla }
 footer-follow-firefox = Seuraa @{ -brand-name-firefox }
+footer-about-this-site = Tietoja tästä sivustosta

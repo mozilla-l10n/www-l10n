@@ -10,11 +10,14 @@ firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } on ene
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } on <strong>enemmän</strong> kuin selain
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-check-for-breaches = Tarkista vuotojen varalta
+firefox-products-sign-up-for-breach-alerts = Tilaa vuotohälytykset
 firefox-products-firefox-browsers = { -brand-name-firefox }-selaimet
 firefox-products-desktop = Työpöytä
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Näytä kaikki selaimet
+firefox-products-get-mozilla-vpn = Hanki { -brand-name-mozilla-vpn }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
