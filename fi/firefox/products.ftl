@@ -29,4 +29,5 @@ firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-a-file = Lähetä tiedosto
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-get-pocket = Hanki { -brand-name-pocket }
+firefox-products-learn-more-about-pocket = Lisätietoja { -brand-name-pocket }ista
 firefox-products-firefox-focus = { -brand-name-firefox-focus }

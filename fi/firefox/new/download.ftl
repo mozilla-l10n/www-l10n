@@ -3,10 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Lataa { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Lataa nopein { -brand-name-firefox } koskaan
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Edistyneet asennusvalinnat ja muut alusta
 firefox-new-download-in-another-language = Lataa toisella kielellä
 firefox-new-need-help = Tarvitsetko apua?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Outdated string
 # Variables:
@@ -33,12 +33,15 @@ firefox-new-youre-using-an-insecure-outdated = Käytössäsi on tietoturvaton ja
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Latauksen tulisi pian käynnistyä automaattisesti. Ongelmia? <a id="{ $id }" href="{ $fallback_url }">Yritä ladata uudelleen</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } on enemmän kuin selain.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-new-download-interrupted = Lataus keskeytettiin, mutta kaikki ei ole menetetty.
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Lataa { -brand-name-firefox-browser }
