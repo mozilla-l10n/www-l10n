@@ -9,6 +9,7 @@ firefox-all-check-the-system-requirements = ກວດເບິງຄວາມຕ
 firefox-all-release-notes = ບັນທຶກປະຈຳລຸ້ນ
 firefox-all-source-code = ໂຄດຕົ້ນສະບັບ
 firefox-all-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫລືອບໍ?
+firefox-all-which-browser-would = ທ່ານຕ້ອງການດາວໂຫລດໂປຣແກຣມທ່ອງເວັບໃດ?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = ຂໍຄວາມຊ່ວຍເຫລືອ
 firefox-all-you-are-about-to-download = ທ່ານກຳລັງຈະດາວໂຫລດ:

@@ -9,6 +9,8 @@
 firefox-accounts-there-is-a-way-to = ມີວິທີທາງເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ. ເຂົ້າຮ່ວມ { -brand-name-firefox }.
 # Old HTML page title
 firefox-accounts-get-a-firefox-account = ສ້າງ { -brand-name-firefox-account } - ຮັກສາຂໍ້ມູນຂອງທ່ານໄວ້ເປັນຄວາມລັບ, ປອດໄພ ແລະ synced
+# HTML page description
+firefox-accounts-take-your-stand-stay-smart = ເອົາຈຸດຢືນຂອງທ່ານຕໍ່ກັບອຸດສາຫະກໍາທີ່ຂາຍຂໍ້ມູນຂອງທ່ານໃຫ້ກັບບຸກຄົນທີສາມ. ຢູ່ໃນອິນເຕີເນັດຢ່າງສະຫຼາດ ແລະປອດໄພດ້ວຍເທັກໂນໂລຍີທີ່ຕໍ່ສູ້ກັບທ່ານ.
 # Old HTML page description
 firefox-accounts-securely-sync-your = Sync ລະຫັດຜ່ານ, ບຸກມາກ ແລະ ແທັບໃນທຸກອຸປະກອນຂອງທ່ານໄດ້ຢ່າງປອດໄພ. ສ້າງ { -brand-name-firefox-account } ດຽວນີ້ - ເຂົ້າສູ່ລະບົບຄັ້ງດຽວເພື່ອຄວບຄູ່ມ ແລະ ມີຄວາມເປັນສ່ວນຕົວໄດ້ທຸກບ່ອນ.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
@@ -18,7 +20,10 @@ firefox-accounts-join-firefox = ເຂົ້າຮ່ວມ { -brand-name-firefo
 firefox-accounts-enter-your-email-address = ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານເພື່ອເລີ່ມຕົ້ນ.
 firefox-accounts-already-have-an-account = ມີບັນຊີແລ້ວບໍ່?
 firefox-accounts-sign-in = ລົງຊື່ເຂົ້າໃຊ້
+firefox-accounts-meet-our-family-of = ພົບກັບຕະກູນຜະລິດຕະພັນທີໃຫ້ຄວາມສຳຄັນເລື່ອງຄວາມເປັນສ່ວນເປັນອັນດັບທຳອິດ.
 firefox-accounts-get-technology-that = ໄດ້ຮັບເຕັກໂນໂລຢີທີ່ຕໍ່ສູ້ເພື່ອທ່ານ.
+# Obsolete string
+firefox-accounts-keep-your-passwords = ຮັກສາລະຫັດຜ່ານຂອງທ່ານໃຫ້ຖືກປ້ອງກັນ ແລະ ພົກພາໄດ້ສະດວກ.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-get-the-knowledge = ຮັບຄວາມຮູ້ທີ່ຮັກສາໃຫ້ທ່ານປອດໄພ.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
