@@ -28,6 +28,9 @@ firefox-all-learn-about-firefox = { -brand-name-firefox } අතිරික්�
 firefox-all-arm64-installers = ARM64/AArch64 ස්ථාපක
 firefox-all-product-send-link = දුරකථනයට බාගැනීමේ සබැඳියක් යවන්න.
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = පැරණි හෝ අඩු බලයක් සහිත පරිගණක — හෝ බිටු-32 සකසන සහිත පරිගණක සඳහා බිටු-32 ස්ථාපකයක් තෝරන්න. බිටු-64 හෝ බිටු-32 ස්ථාපකයක් තෝරා ගන්නේද යන්න <a href="{ $url }">ඔබට විශ්වාස නැතිනම්</a>, බිටු-32 භාවිත කිරීමට නිර්දේශ කරන්නෙමු.
+# Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
 #   $locale(string) e.g. English (US), German, French
