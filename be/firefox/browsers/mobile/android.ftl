@@ -20,3 +20,5 @@ mobile-android-fast-and-private = Шпаркі ды прыватны
 mobile-android-one-tap-to = Да прыватнага рэжыму адзін дотык
 mobile-android-save-power-with = Зберажыце энергію з дапамогаю цёмнага рэжыму
 mobile-android-easily-organize-your = Лёгка прыводзьце ў парадак свае карткі
+mobile-android-pick-up-where = Працягвайце з таго месца, дзе спыніліся
+mobile-android-about-mozilla = Пра { -brand-name-mozilla }
