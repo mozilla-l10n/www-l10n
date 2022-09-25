@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
@@ -14,12 +14,21 @@ password-manager-password-manager = Дасягненне "Менеджар па�
 password-manager-give-up-the-memory = Здайцеся ў гульні на памяць з менеджарам пароляў { -brand-name-firefox }.
 password-manager-password-hero = Герой пароляў
 # Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Забудзьце пра скідванне. Менеджар пароляў { -brand-name-firefox } захоўвае ўсе вашы паролі і дапамагае вам аўтаматычна ўваходзіць на сайты або лёгка знаходзіць захаваныя паролі. Для дадатковай бяспекі прыдумайце для свайго камп'ютара <a href="{ $url }">галоўны пароль</a>.
+# Obsolete string
+# Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Забудзьце пра скідванне. Менеджар пароляў { -brand-name-firefox } захоўвае ўсе вашы паролі і дапамагае вам аўтаматычна ўваходзіць на сайты або лёгка шукаць захаваныя паролі. Для максімальнай бяспекі прыдумайце для свайго камп'ютара <a href="{ $url }">майстар-пароль</a>.
+password-manager-password-magician = Чараўнік пароляў
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ніндзя пароляў
 password-manager-no-more-try-again = Ніякіх больш «паспрабуйце яшчэ раз», калі вы не можаце ўспомніць пароль да сайта. Увайдзіце ва { -brand-name-firefox-account } на тэлефоне, і ўсе вашы паролі будуць з вамі. Уліковыя даныя будуць проста з'яўляцца там, дзе трэба.
+password-manager-password-champion = Чэмпіён пароляў
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Зарабіце свой залаты медаль па бяспецы з дапамогай шырокага спектру <a href="{ $addons }">дадаткаў</a> для менеджара пароляў { -brand-name-firefox }. Выберыце цяперашняга фаварыта або знайдзіце наступнага праз агляды і рэйтынгі суполкі экспертаў.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Менеджар пароляў
