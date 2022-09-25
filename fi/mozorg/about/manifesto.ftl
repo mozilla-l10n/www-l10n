@@ -41,6 +41,8 @@ manifesto-09 = 09
 manifesto-10 = 10
 # Main page heading
 manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla }-manifestin lisäys
+# Main page sub-heading
+manifesto-pledge-for-a-healthy-internet = Lupaus terveestä internetistä
 manifesto-show-your-support = Näytä tukesi
 manifesto-i-support-the-vision-of = Tuen @mozilla'n visiota paremmasta, terveemmästä internetistä. Tuletko mukaan?
 manifesto-share-on-twitter = Jaa { -brand-name-twitter }issä

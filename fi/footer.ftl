@@ -3,6 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = { -brand-name-mozilla }-manifesti
+footer-privacy-hub = Tietosuojakeskus
 footer-privacy = Tietosuoja
 footer-press = Lehdistö
 footer-corporate-blog = Yritysblogi
@@ -68,6 +70,9 @@ footer-donate = Lahjoita
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-linkedin = { -brand-name-linkedin }
+footer-tiktok = { -brand-name-tiktok }
+footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Seuraa @{ -brand-name-mozilla }
 footer-follow-firefox = Seuraa @{ -brand-name-firefox }
 footer-about-this-site = Tietoja tästä sivustosta

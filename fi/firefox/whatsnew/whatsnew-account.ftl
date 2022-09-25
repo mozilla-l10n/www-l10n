@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
 
 ## Required
@@ -14,6 +14,7 @@ whatsnew-account-main-button = Kirjaudu sisään
 
 ##
 
+whatsnew-account-signed-in-headline = Tee enemmän. Käytä { -brand-name-firefox }ia mobiililaitteissa.
 whatsnew-account-signed-in-lead-in = Lähetä latauslinkki puhelimeesi.
 whatsnew-account-signed-in-qr-title = Lataa { -brand-name-firefox } älypuhelimeen ja tablettiin.
 # An accessible label for a QR code image
