@@ -10,6 +10,7 @@ features-index-firefox-features = { -brand-name-firefox }-ominaisuudet
 features-index-see-all = Selaa kaikkia laajennuksia
 features-index-get-an-account = Hanki { -brand-name-firefox-account }
 features-index-open-source-minds = Avoin lähdekoodi. Avoimet mielet.
+features-index-independent-browser = { -brand-name-firefox } on ainoa suuri itsenäinen selain.
 features-index-choose-independence = Valitse riippumattomuus
 features-index-read-our-privacy-policy = Lue tietosuojakäytäntömme
 features-index-private-by-default = Yksityinen oletusarvoisesti
