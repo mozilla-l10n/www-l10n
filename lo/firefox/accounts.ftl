@@ -15,6 +15,8 @@ firefox-accounts-take-your-stand-stay-smart = ເອົາຈຸດຢືນຂ�
 firefox-accounts-securely-sync-your = Sync ລະຫັດຜ່ານ, ບຸກມາກ ແລະ ແທັບໃນທຸກອຸປະກອນຂອງທ່ານໄດ້ຢ່າງປອດໄພ. ສ້າງ { -brand-name-firefox-account } ດຽວນີ້ - ເຂົ້າສູ່ລະບົບຄັ້ງດຽວເພື່ອຄວບຄູ່ມ ແລະ ມີຄວາມເປັນສ່ວນຕົວໄດ້ທຸກບ່ອນ.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = ມີວິທີທາງເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ.<span>ເຂົ້າຮ່ວມ { -brand-name-firefox }.</span>
+# The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
+firefox-accounts-youre-signed-in-to = ທ່ານເຂົ້າສູ່ລະບົບ <br>ໃນ { -brand-name-firefox }. <br><span>ຕອນນີ້ລອງໃຊ້ { -brand-name-firefox-monitor }.</span>
 firefox-accounts-sign-in-to-monitor = ເຂົ້າສູ່ລະບົບເພື່ອຕິ { -brand-name-monitor }
 firefox-accounts-join-firefox = ເຂົ້າຮ່ວມ { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານເພື່ອເລີ່ມຕົ້ນ.
