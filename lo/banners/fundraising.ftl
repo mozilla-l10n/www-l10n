@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title-v2 = ຊ່ວຍ { -brand-name-mozilla } ຕໍ່ສູ້ເພື່ອອິນເຕີເນັດທີ່ດີກວ່າໃນລະດູການວັນພັກນີ້.
 banner-fundraising-body-extra = ເຈົ້າສາມາດບໍລິຈາກມື້ນີ້ໄດ້ບໍ?
 banner-fundraising-monthly = ລາຍເດືອນ
 banner-fundraising-one-time = ຄັ້ງດຽວ
