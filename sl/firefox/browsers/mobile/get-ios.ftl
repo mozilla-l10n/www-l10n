@@ -11,3 +11,4 @@ get-ios-firefox-for-ios = { -brand-name-firefox-browser(zacetnica: "velika") } z
 get-ios-firefox-is-fast = { -brand-name-firefox } za { -brand-name-ios } je hiter, varen in zaseben od prvega trenutka, ko ga odprete.
 get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Prenesite { -brand-name-firefox } za { -brand-name-ios }
+get-ios-firefox-mobile-adapts = Mobilni { -brand-name-firefox } se vam prilagaja in vam omogoča najenostavnejši pregled odprtih zavihkov, preteklih iskanj in priljubljenih spletnih mest doslej.
