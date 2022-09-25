@@ -44,8 +44,19 @@ vpn-landing-faq-uses-encrypt = Salaamalla sinun ja VPN-palveluntarjoajasi välis
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Tutustu <a href="{ $url }">viiteen tosielämän esimerkkiin</a>, joissa saatat haluta käyttää VPN-yhteyttä laitteellasi.
 vpn-landing-faq-info-question-heading = Mitä tietoja { -brand-name-mozilla-vpn } säilyttää?
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Emme kirjaa, seuraa tai jaa toimintaasi verkossa. Noudatamme tiukasti { -brand-name-mozilla }n <a href="{ $url }">tietosuojaperiaatteita</a> ja keräämme vain ne tiedot, jotka ovat tarpeen VPN:n toimivuuden takaamiseksi ja tuotteen parantamiseksi ajan myötä.
 vpn-landing-faq-protected-question-heading = Miten yksityisyyttäni suojataan?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokolla salaa verkkoliikenteesi ja suojaa kaikki yksityiset tietosi. Verrattuna muihin olemassa oleviin VPN-protokolliin, { -brand-name-wireguard }in kevyt koodi on tietoturva-ammattilaisille helpompi tarkistaa ja auditoida, tehden siitä turvallisen vaihtoehdon VPN-ratkaisuksi. Lisäksi toimintasi verkossa pysyy anonyyminä, koska emme koskaan kirjaa, seuraa tai jaa verkkotietojasi.
 vpn-landing-faq-competition-question-heading = Millainen { -brand-name-mozilla-vpn } on verrattuna kilpailijoihin?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Vaikka ilmaiset VPN:t vaikuttavat houkuttelevilta, ne eivät sitoudu samoin yksityisyyteen kuten { -brand-name-mozilla-vpn }. Muilla VPN-palveluilla ei ole { -brand-name-mozilla }n yli 20 vuoden <a href="{ $url }">historiaa</a> sellaisten tuotteiden rakentamisessa, joissa ihmiset ja yksityisyys ovat etusijalla.
 vpn-landing-faq-compatibility-question-heading = Minkä laitteiden kanssa { -brand-name-mozilla-vpn } on yhteensopiva?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
