@@ -15,3 +15,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">ຮຽນຮ�
 # Variables:
 #   $explore (url) - link to https://www.mozilla.org/firefox/
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>ສຳຫຼວດ</a> ຄອບຄົວທັງໝົດສຳລັບຜະລິດຕະພັນຂອງ { -brand-name-firefox } ທີ່ອອກແບບມາເພື່ອເຄົາລົບຄວາມເປັນສ່ວນຕົວຂອງທ່ານ.
+# Variables:
+#   $download (url) - link to https://www.mozilla.org/firefox/new/
+not-found-page-download-the-firefox-browser = <a href={ $download }>ດາວໂຫລດ</a> ບຣາວເຊີ { -brand-name-firefox } ສໍາລັບອຸປະກອນມືຖື ຫຼື desktop ຂອງທ່ານ
