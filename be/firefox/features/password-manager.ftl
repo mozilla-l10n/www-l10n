@@ -24,7 +24,7 @@ password-manager-password-magician = Чараўнік пароляў
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Ніндзя пароляў
-password-manager-no-more-try-again = Ніякіх больш «паспрабуйце яшчэ раз», калі вы не можаце ўспомніць пароль да сайта. Увайдзіце ва { -brand-name-firefox-account } на тэлефоне, і ўсе вашы паролі будуць з вамі. Уліковыя даныя будуць проста з'яўляцца там, дзе трэба.
+password-manager-no-more-try-again = Ніякіх больш «паспрабуйце яшчэ раз», калі вы не можаце ўспомніць пароль для сайта. Увайдзіце ў { -brand-name-firefox-account } на сваім тэлефоне, і ўсе вашы паролі будуць з вамі. Звесткі для ўваходу будуць проста з'яўляцца там, дзе трэба.
 password-manager-password-champion = Чэмпіён пароляў
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
