@@ -17,6 +17,8 @@ browsers-chromebook-dropdown-copy = Атрымайце { -brand-name-firefox } �
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Навошта мне патрэбны <span>{ -brand-name-firefox }</span> на { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Хоць на { -brand-name-chromebook } ужо ўсталяваны { -brand-name-chrome }, сцягванне і выкарыстанне { -brand-name-firefox } у якасці вашага асноўнага браўзера дае вам некалькі пераваг:
+browsers-chromebook-is-it-hard = Ці цяжка ўсталяваць { -brand-name-firefox } на { -brand-name-chromebook }?
+browsers-chromebook-we-wish-it = Хацелася б, каб гэта было прасцей, але ваш { -brand-name-chromebook } аддае перавагу таму, каб вы заставаліся ў экасістэме { -brand-name-google-play }. Тым не менш, мы лічым, што ўсталяванне браўзера { -brand-name-firefox } на ваш { -brand-name-chromebook } вартае таго, і ў нас ёсць рэсурсы, якія дапамогуць вам, калі яны спатрэбяцца. Ёсць два спосабы атрымаць { -brand-name-firefox } на вашу прыладу.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
