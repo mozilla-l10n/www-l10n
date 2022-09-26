@@ -17,7 +17,7 @@ firefox-privacy-privacy = Zasebnost
 firefox-privacy-our-promise = Naša zaveza
 # Sub navigation link
 firefox-privacy-our-products = Naši izdelki
-firefox-privacy-hub-you-should-be-able-to-decide = Odločitev, kdo vidi vaše osebne podatke bi morala biti vaša. Ne le med vašimi prijatelji, ampak z vsakim oglaševalcem in podjetjem na internetu – vključno z nami.
+firefox-privacy-hub-you-should-be-able-to-decide = Odločitev, kdo vidi vaše osebne podatke, bi morala biti vaša. Ne le med vašimi prijatelji, temveč z vsakim oglaševalcem in podjetjem na internetu – vključno z nami.
 firefox-privacy-hub-thats-why-everything-we-make = Zato vse, kar delamo, spoštuje našo zavezo o osebnih podatkih
 firefox-privacy-hub-take-less = Vzemi manj
 firefox-privacy-hub-we-make-a-point-of-knowing = Zavzemamo se, da o vas vemo čim manj
