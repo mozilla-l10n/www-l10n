@@ -13,6 +13,7 @@ mobile-compare-syncing-strong = <strong>සමමුහූර්තය</strong>
 mobile-compare-search-engine-options = සෙවුම් යන්ත්‍ර විකල්ප
 mobile-compare-dark-mode = අඳුරු ප්‍රකාරය
 mobile-compare-desktop-mode = වැඩතල ප්‍රකාරය
+mobile-compare-shopping = සාප්පු සවාරි
 mobile-compare-syncs-with-desktopmobile = වැඩතලය/දුරකථනය සමඟ සමමුහුර්තය
 mobile-compare-password-management = මුරපද කළමනාකරණය
 mobile-compare-primary-password = ප්‍රාථමික මුරපදය
