@@ -10,7 +10,7 @@
 
 browsers-chromebook-get-firefox-browser = Атрымайце { -brand-name-firefox-browser } для { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Такім чынам, у вас ёсць { -brand-name-chromebook } — прыйшоў час атрымаць незалежны, аўтаматычна прыватны { -brand-name-firefox-browser }, каб абараняць свае асабістыя дадзеныя.
-browsers-chromebook-browsers-chromebook-get-firefox-for = Атрымайце { -brand-name-firefox } для { -brand-name-android }
+browsers-chromebook-browsers-chromebook-get-firefox-for = Атрымаць { -brand-name-firefox } для { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Атрымайце стацыянарны { -brand-name-firefox } для { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = { -brand-name-chromebook } з працэсарам *x86 і АС { -brand-name-chromeos } 80 альбо навейшай
 browsers-chromebook-dropdown-copy = Атрымайце { -brand-name-firefox } для { -brand-name-chromebook }
