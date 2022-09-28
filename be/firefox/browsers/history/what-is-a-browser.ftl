@@ -7,6 +7,8 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = Што такое вэб-браўзер?
+# HTML page description
+what-is-a-browser-a-web-browser = Вэб-браўзер перанясе вас у любую кропку Інтэрнэту, дазваляючы бачыць тэкст, відарысы і відэа з любога кутка сусвету.
 what-is-a-browser-how-does-a-web = Як працуе вэб-браўзер?
 what-is-a-browser-cookies-not-the = Кукі
 what-is-a-browser-understanding = Разуменне прыватнасці
