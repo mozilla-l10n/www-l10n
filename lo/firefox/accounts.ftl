@@ -15,18 +15,25 @@ firefox-accounts-take-your-stand-stay-smart = ເອົາຈຸດຢືນຂ�
 firefox-accounts-securely-sync-your = Sync ລະຫັດຜ່ານ, ບຸກມາກ ແລະ ແທັບໃນທຸກອຸປະກອນຂອງທ່ານໄດ້ຢ່າງປອດໄພ. ສ້າງ { -brand-name-firefox-account } ດຽວນີ້ - ເຂົ້າສູ່ລະບົບຄັ້ງດຽວເພື່ອຄວບຄູ່ມ ແລະ ມີຄວາມເປັນສ່ວນຕົວໄດ້ທຸກບ່ອນ.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 firefox-accounts-there-is-a-way-to-protect = ມີວິທີທາງເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ.<span>ເຂົ້າຮ່ວມ { -brand-name-firefox }.</span>
+# This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
+firefox-accounts-take-your-stand-against = ເອົາຈຸດຢືນຂອງທ່ານຕໍ່ກັບອຸດສາຫະກໍາທີ່ເຮັດໃຫ້ທ່ານເປັນຜະລິດຕະພັນ.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = ທ່ານເຂົ້າສູ່ລະບົບ <br>ໃນ { -brand-name-firefox }. <br><span>ຕອນນີ້ລອງໃຊ້ { -brand-name-firefox-monitor }.</span>
+firefox-accounts-see-if-youve-been = ເບິ່ງວ່າທ່ານໄດ້ມີສ່ວນຮ່ວມໃນການລະເມີດຂໍ້ມູນອອນໄລນ໌ຫຼືບໍ່.
 firefox-accounts-sign-in-to-monitor = ເຂົ້າສູ່ລະບົບເພື່ອຕິ { -brand-name-monitor }
 firefox-accounts-join-firefox = ເຂົ້າຮ່ວມ { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານເພື່ອເລີ່ມຕົ້ນ.
 firefox-accounts-already-have-an-account = ມີບັນຊີແລ້ວບໍ່?
 firefox-accounts-sign-in = ລົງຊື່ເຂົ້າໃຊ້
 firefox-accounts-meet-our-family-of = ພົບກັບຕະກູນຜະລິດຕະພັນທີໃຫ້ຄວາມສຳຄັນເລື່ອງຄວາມເປັນສ່ວນເປັນອັນດັບທຳອິດ.
+firefox-accounts-firefox-is-technology = { -brand-name-firefox } ແມ່ນເທັກໂນໂລຢີທີ່ຕໍ່ສູ້ກັບທ່ານ.
 firefox-accounts-get-technology-that = ໄດ້ຮັບເຕັກໂນໂລຢີທີ່ຕໍ່ສູ້ເພື່ອທ່ານ.
 firefox-accounts-travel-the-internet = ເດີນທາງໃນອິນເຕີເນັດພ້ອມການປົກປ້ອງ, ໃນທຸກອຸປະກອນ.
 # Obsolete string
 firefox-accounts-keep-your-passwords = ຮັກສາລະຫັດຜ່ານຂອງທ່ານໃຫ້ຖືກປ້ອງກັນ ແລະ ພົກພາໄດ້ສະດວກ.
+firefox-accounts-get-a-lookout-for = ຕິດຕາມການລະເມີດຂໍ້ມູນ.
+# Obsolete string
+firefox-accounts-share-large-files = ແບ່ງປັນໄຟລ໌ຂະຫນາດໃຫຍ່ໂດຍຕ້ອງມີຄົນອື່ນມາສອດຮູ້ສອດເຫັນ.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-get-the-knowledge = ຮັບຄວາມຮູ້ທີ່ຮັກສາໃຫ້ທ່ານປອດໄພ.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
