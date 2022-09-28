@@ -13,10 +13,11 @@ browsers-chromebook-so-youve-got = Такім чынам, у вас ёсць { -
 browsers-chromebook-browsers-chromebook-get-firefox-for = Атрымаць { -brand-name-firefox } для { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Атрымайце стацыянарны { -brand-name-firefox } для { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = { -brand-name-chromebook } з працэсарам *x86 і АС { -brand-name-chromeos } 80 альбо навейшай
-browsers-chromebook-dropdown-copy = Атрымайце { -brand-name-firefox } для { -brand-name-chromebook }
+browsers-chromebook-dropdown-copy = Атрымаць { -brand-name-firefox } для { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Навошта мне патрэбны <span>{ -brand-name-firefox }</span> на { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Хоць на { -brand-name-chromebook } ужо ўсталяваны { -brand-name-chrome }, сцягванне і выкарыстанне { -brand-name-firefox } у якасці вашага асноўнага браўзера дае вам некалькі пераваг:
+browsers-chromebook-alwayson-tracking-protection = Заўсёды ўключаная ахова ад сачэння: тыпова { -brand-name-firefox } запускае ўзмоцненую ахову ад сачэння (ETP), каб абараніць вашыя асабістыя звесткі ад вядомых рэкламных трэкераў, сацыяльных трэкераў і крыптамайнінгавых скрыптоў, якія сочаць за вамі ў сеціве.
 browsers-chromebook-is-it-hard = Ці цяжка ўсталяваць { -brand-name-firefox } на { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Хацелася б, каб гэта было прасцей, але ваш { -brand-name-chromebook } аддае перавагу таму, каб вы заставаліся ў экасістэме { -brand-name-google-play }. Тым не менш, мы лічым, што ўсталяванне браўзера { -brand-name-firefox } на ваш { -brand-name-chromebook } вартае таго, і ў нас ёсць рэсурсы, якія дапамогуць вам, калі яны спатрэбяцца. Ёсць два спосабы атрымаць { -brand-name-firefox } на вашу прыладу.
 browsers-chromebook-install-firefox-from = Усталюйце { -brand-name-firefox } з крамы { -brand-name-google-play }: на новых версіях { -brand-name-chromeos } ({ -brand-name-chromebook } з працэсарам x86 і сістэмай { -brand-name-chromeos } 80 або пазнейшай) у вас ёсць магчымасць усталяваць { -brand-name-firefox } для { -brand-name-android }. Гэта праграма распрацавана для мабільных прылад.
