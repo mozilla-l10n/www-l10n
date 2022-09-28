@@ -7,3 +7,6 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = Што такое вэб-браўзер?
+what-is-a-browser-cookies-not-the = Кукі
+what-is-a-browser-understanding = Разуменне прыватнасці
+what-is-a-browser-making-your-web = Налада браўзера пад вашы патрэбы
