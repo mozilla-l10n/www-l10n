@@ -13,8 +13,10 @@ what-is-a-browser-the-web-is-a-vast = Інтэрнэт - гэта велізар
 # Variables:
 #   $tools (url) - link to https://blog.mozilla.org/firefox/internet-search-engine-browser/
 what-is-a-browser-its-important = Важна, каб кожны меў доступ да Інтэрнэту, але таксама вельмі важна, каб мы ўсе <a href="{ $tools }">разумелі інструменты</a>, якія мы выкарыстоўваем для доступу да яго. Мы выкарыстоўваем вэб-браўзеры, такія як { -brand-name-mozilla } { -brand-name-firefox }, { -brand-name-google } { -brand-name-chrome }, { -brand-name-microsoft } { -brand-name-edge } і { -brand-name-apple } { -brand-name-safari } кожны дзень, але ці разумеем мы, што гэта такое і як яны працуюць?
+what-is-a-browser-in-a-short-period-long = За кароткі прамежак часу мы перайшлі ад зачаравання магчымасцю адправіць электронны ліст камусьці ў любы куток свету да змены нашага ўяўлення пра спосабы ўзаемадзеяння з інфармацыяй. Узровень вашых ведаў больш не мае вызначальнага значэння, цяпер самае галоўнае, які браўзар ці дадатак змогуць найхутчэй дапамагчы знайсці патрэбную вам інфармацыю.
+what-is-a-browser-in-a-short-period = За кароткі прамежак часу мы перайшлі ад зачаравання магчымасцю адправіць электронны ліст камусьці ў любы куток свету да змены нашага ўяўлення пра спосабы ўзаемадзеяння з інфармацыяй.
 what-is-a-browser-how-does-a-web = Як працуе вэб-браўзер?
 what-is-a-browser-cookies-not-the = Кукі
 what-is-a-browser-understanding = Разуменне прыватнасці
-what-is-a-browser-firefox-helps = { -brand-name-firefox } дапамагае вам быць больш прыватнымі ў Інтэрнэце, дазваляючы блакаваць трэкеры асочвання вашых у ім дзеянняў.
+what-is-a-browser-firefox-helps = { -brand-name-firefox } дапамагае вам быць больш прыватнымі ў Інтэрнэце, дазваляючы блакаваць трэкеры асочвання вашых дзеянняў.
 what-is-a-browser-making-your-web = Налада браўзера пад вашы патрэбы
