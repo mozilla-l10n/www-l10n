@@ -39,7 +39,10 @@ firefox-accounts-and-get-it-all-on = ແລະ ດາວໂຫຼດຜະລິ
 firefox-accounts-get-the-respect-you = ໄດ້ຮັບຄວາມເຄົາລົບທີ່ທ່ານສົມຄວນໄດ້ຮັບ.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-whole-device-protection = ການປົກປ້ອງອຸປະກອນທັງຫມົດໃນທຸກອຸປະກອນ
+# Line breaks for visual formatting.
+firefox-accounts-take-less-keep-it = ເອົາໜ້ອຍລົງ.<br> ຮັກສາມັນໃຫ້ປອດໄພ.<br> ບໍ່ມີຄວາມລັບ.
 firefox-accounts-get-the-knowledge = ຮັບຄວາມຮູ້ທີ່ຮັກສາໃຫ້ທ່ານປອດໄພ.
+firefox-accounts-help-us-build-a-better = ຊ່ວຍພວກເຮົາສ້າງ { -brand-name-firefox } ທີ່ດີກວ່າສຳລັບທຸກຄົນ.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = ຊ່ວຍພວກເຮົາຮັກສາ Big Tech ໃນການກວດສອບ.
 
