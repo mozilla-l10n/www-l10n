@@ -11,6 +11,8 @@ mobile-compare-5-of-the-best = 5 лепшых мабільных браўзер�
 mobile-compare-features-strong = <strong>Магчымасці</strong>
 mobile-compare-features = Магчымасці
 mobile-compare-what-can-your = Што ваш браўзер можа зрабіць для вас?
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>Пераноснасць</strong>
 mobile-compare-conclusion = Выснова
 mobile-compare-search-engine-options = Налады пошукавых сістэм
 mobile-compare-text-to-speech = Тэкст у маўленне

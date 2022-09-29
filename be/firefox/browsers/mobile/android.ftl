@@ -21,4 +21,6 @@ mobile-android-one-tap-to = Да прыватнага рэжыму адзін д
 mobile-android-save-power-with = Зберажыце энергію з дапамогаю цёмнага рэжыму
 mobile-android-easily-organize-your = Лёгка прыводзьце ў парадак свае карткі
 mobile-android-pick-up-where = Працягвайце з таго месца, дзе спыніліся
+mobile-android-search-from-your = Шукайце з галоўнага экрана тэлефона
+mobile-android-pin-videos-to = Замацоўвайце відэа на экране
 mobile-android-about-mozilla = Пра { -brand-name-mozilla }
