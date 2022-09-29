@@ -17,7 +17,9 @@ firefox-products-desktop = Työpöytä
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Näytä kaikki selaimet
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-get-mozilla-vpn = Hanki { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
