@@ -9,6 +9,8 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - Suojaa elämääsi
 firefox-home-firefox-is-more-than = { -brand-name-firefox } on enemmän kuin selain. Lue lisää { -brand-name-firefox }-tuotteista, jotka käsittelevät tietojasi kunnioittaen ja jotka on rakennettu suojaamaan yksityisyyttä kaikkialla verkossa.
 firefox-home-the-browser-is-just = Selain on vasta alkua
 firefox-home-meet-our-family-of = Tutustu tuoteperheeseemme
+firefox-home-get-trackers-off = Pidä yli 2000 seurainta pois kintereiltäsi — mukaan lukien { -brand-name-facebook }
+firefox-home-know-when-hackers-strike = Tiedä milloin hakkerit iskevät — ja pysy askeleen edellä
 firefox-home-start-getting-breach = Aloita vuotoraporttien vastaanottaminen
 firefox-home-un-spam-your-life = Vähennä roskapostia elämästäsi käyttämällä { -brand-name-relay }
 # Obsolete string

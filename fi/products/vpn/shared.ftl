@@ -96,10 +96,17 @@ vpn-shared-platform-cta-headline = Aloitetaan
 vpn-shared-platform-cta-button = Katso hinnat ja saatavuus
 vpn-shared-platform-privacy-promise = Yksityisyytesi on lupauksemme
 vpn-shared-platform-trust-partner-headline = Tietoja luotettavasta kumppanistamme
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } toimii <a href="{ $policy }">{ -brand-name-mullvad }</a>in maailmanlaajuisessa palvelinverkossa käyttämällä <a href=" { $wireguard }">{ -brand-name-wireguard }</a>® -protokollaa. { -brand-name-mullvad } asettaa yksityisyytesi etusijalle eikä pidä minkäänlaisia lokeja.
 vpn-shared-platform-what-youll-get = Tämän saat { -brand-name-mozilla-vpn }:llä:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = Mikä on VPN?
 vpn-subnav-faqs = UKK
 vpn-subnav-get-help = Etsi ohjeita
+vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Työpöytä
 vpn-subnav-platform-ios = { -brand-name-ios }
 vpn-subnav-platform-linux = { -brand-name-linux }

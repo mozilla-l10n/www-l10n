@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,7 +10,10 @@ facebook-container-millions-of-people-around = Miljoonat ihmiset ympäri maailma
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Turvallisesti säilössä. Pidä muu elämäsi itselläsi.
 facebook-container-get-the-facebook-container = Hanki { -brand-name-facebook-container } -laajennus
 facebook-container-download-firefox-and-get-the = Lataa { -brand-name-firefox } yhdessä { -brand-name-facebook-container } -laajennuksen kanssa
+facebook-container-only-available-for-desktop = Laajennus { -brand-name-facebook-container } on tällä hetkellä saatavilla vain { -brand-name-firefox }in työpöytäversiolle.
+# Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } -laajennusta ei ole saatavilla mobiililaitteille.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Kokeile <strong>{ -brand-name-firefox-focus }ta</strong>, { -brand-name-android }in ja { -brand-name-ios }:n yksityistä selainta.
 facebook-container-opt-out-on-your-terms = Estä jäljitys omilla ehdoillasi

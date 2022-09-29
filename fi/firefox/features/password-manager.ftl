@@ -17,10 +17,12 @@ password-manager-password-hero = Salasanasankari
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Unohda salasanojen nollaus. { -brand-name-firefox }in salasanojen hallinta säilyttää kaikki salasanasi. Voit kirjautua sivustoille automaattisesti tai voit tarkastella tallennettuja salasanoja helposti. Huipputurvallisuuden saavutat asettamalla <a href="{ $url }">pääsalasanan</a>.
+password-manager-password-magician = Salasanataikuri
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Salasananinja
 password-manager-no-more-try-again = Ei enää "uudelleenyrityksiä" kun yrität päästä jonnekin. Kirjaudu { -brand-name-firefox-account } puhelimellasi ja salasanasi seuraavat sinua. Kirjautumistietosi vain yksinkertaisesti ilmestyvät…tuosta noin!
+password-manager-password-champion = Salasanojen mestari
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Salasanamestari

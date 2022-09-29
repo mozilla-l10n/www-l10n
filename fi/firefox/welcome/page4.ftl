@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
@@ -9,6 +9,7 @@
 welcome-page4-download-the-firefox-browser = Lataa { -brand-name-firefox-browser } mobiililaitteellesi, { -brand-name-ios }:ille ja { -brand-name-android }ille
 welcome-page4-wallet-keys-phone-firefox = Lompakko… avaimet… puhelin…<strong>{ -brand-name-firefox }!</strong>
 welcome-page4-take-privacy-with-you-on-every = Yksityisyys mukanasi kaikilla laitteillasi - ja tiedonkerääjät nuolevat näppejään.
+welcome-page4-get-the-firefox-mobile = Hanki { -brand-name-firefox } mobiililaitteille
 welcome-page4-get-firefox-on-your-phone = Hanki { -brand-name-firefox } puhelimeesi
 welcome-page4-send-the-download-link-right = Lähetä latauslinkki suoraan puhelimeesi tai sähköpostiisi.
 welcome-page4-download-firefox-for-your = Lataa { -brand-name-firefox } älypuhelimeesi ja tablettiin.

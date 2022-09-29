@@ -41,6 +41,7 @@ navigation-firefox-playground = { -brand-name-firefox } Playground
 navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Support (MOSS)
 navigation-mozilla-manifesto = { -brand-name-mozilla }-manifesti
 navigation-menu = Valikko
+navigation-check-out-the-benefits = Tutustu hyötyihin
 navigation-browsers = Selaimet
 navigation-close-browsers-menu = Sulje Selaimet-valikko
 navigation-download = Lataa
@@ -58,6 +59,7 @@ navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Nopea. Yksinkertainen. Yks
 # Outdated string
 navigation-connected-and-protected = Yhdistetty ja suojattu
 navigation-join = Liity
+navigation-close-join-menu = Sulje Liity-valikko
 navigation-sign-in = Kirjaudu sisään
 navigation-benefits = Hyödyt
 navigation-about = Tietoja
