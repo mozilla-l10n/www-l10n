@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-firefox = Enemmän kuin selain – { -brand-name-firefox-monitor } katsoo hakkereiden perään puolestasi
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-stay-ahead-of-hackers = Pysy hakkereiden edellä
 welcome-page1-why-am-i-seeing-this = Miksi näen tämän?
