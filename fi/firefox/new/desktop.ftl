@@ -15,6 +15,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-download-options = Latausvalinnat ja muut kielet
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-tuki
 firefox-desktop-download-how-firefox-compares = Kuinka { -brand-name-firefox } pärjää muita selaimia vasten
+firefox-desktop-download-how-we-compare = Miten pärjäämme muihin selaimiin verrattuna
 firefox-desktop-download-compare-firefox-to = Vertaa { -brand-name-firefox }ia:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
@@ -22,13 +23,16 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Kyllä
 firefox-desktop-download-no = Ei
 firefox-desktop-download-blocks-third-party = Estää kolmansien osapuolten seurainevästeet
+firefox-desktop-download-blocks-third-party-default = Estää kolmansien osapuolten seurainevästeet oletusarvoisesti
 firefox-desktop-download-autoplay-blocking = Automaattisen toiston esto
 firefox-desktop-download-blocks-social-trackers = Estää sosiaalisen median seuraimet
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Saatavuus käyttöjärjestelmille
 firefox-desktop-download-in-browser-screenshot = Selaimen sisäinen kuvakaappaustyökalu
+firefox-desktop-download-primary-password = Pääsalasana
 # Obsolete string
 firefox-desktop-download-master-password = Pääsalasana
+firefox-desktop-download-see-your-report = Tarkastele suojausraporttiasi
 firefox-desktop-download-for-everyone = { -brand-name-firefox } on kaikille
 firefox-desktop-download-review-system-req = Tarkista järjestelmävaatimukset
 firefox-desktop-download-all-your-devices = Aseta { -brand-name-firefox } kaikille laitteillesi
@@ -46,8 +50,11 @@ firefox-desktop-download-sync-across-devices = Synkronointi laitteiden välillä
 firefox-desktop-download-reader-mode = Lukutila
 firefox-desktop-download-spell-check = Oikeinkirjoituksen tarkistus
 firefox-desktop-download-pinned-tabs = Kiinnitetyt välilehdet
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Estä videon ja äänen automaattinen toisto
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Kuva kuvassa
+firefox-desktop-download-share-links = Jaa linkkejä
 firefox-desktop-download-protect-your-privacy = Suojaa yksityisyyttäsi
 firefox-desktop-download-private-browsing-mode = Yksityinen selaus
 firefox-desktop-download-secure-your-personal = Suojaa henkilökohtaiset tietosi
@@ -58,11 +65,15 @@ firefox-desktop-download-automatic-updates = Automaattiset päivitykset
 firefox-desktop-download-customize-your-browser = Mukauta selaintasi
 firefox-desktop-download-themes = Teemat
 firefox-desktop-download-dark-mode = Tumma tila
+firefox-desktop-download-library-of-extensions = Laajennusten kirjasto
 firefox-desktop-download-adjust-search-bar = Säädä hakupalkin asetuksia
+firefox-desktop-download-change-new-tab = Muuta uuden välilehden asettelua
 firefox-desktop-download-make-firefox-your = Muokkaa <strong>{ -brand-name-firefox }</strong> omaksesi
 firefox-desktop-download-extensions-for-every = Laajennukset joka lähtöön
+firefox-desktop-download-change-up-your = Muuta ulkoasua
 firefox-desktop-download-tweak-your-settings = Säädä asetuksia
 firefox-desktop-download-your-privacy-comes = Yksityisyytesi tulee ensin
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Synkronoi laitteesi
 firefox-desktop-download-screenshots = Kuvakaappaukset
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
@@ -72,6 +83,9 @@ firefox-desktop-download-just-download-the-browser = Lataa vain selain
 
 firefox-desktop-download-almost-there = Melkein valmista!
 firefox-desktop-download-in-another-language = Lataa toisella kielellä tai muulle käyttöjärjestelmälle.
+firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } on enemmän kuin selain.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = Lataus keskeytettiin, mutta kaikki ei ole menetetty.

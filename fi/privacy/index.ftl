@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla }n tietosuojakäytäntö
@@ -21,15 +21,27 @@ privacy-index-data-privacy-principles = Tietosuojan periaatteet
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla }n <a href="{ $principles }">tietosuojaperiaatteet</a> ohjaavat käytäntöjämme kunnioittamaan ja suojaamaan Internetiä käyttäviä henkilöitä. Lue <a href="{ $faq }">usein kysytyistä kysymyksistä</a>, miten nämä periaatteet muovaavat { -brand-name-firefox }ia ja kaikkia tuotteitamme.
 privacy-index-transparency-report = Läpinäkyvyysraportti
+privacy-index-get-involved = Tule mukaan
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Avoimen lähdekoodin projektina läpinäkyvyys ja avoimuus ovat olennainen osa { -brand-name-mozilla }n perustamisperiaatteita. Meidän koodikantamme ovat avoimia ja auditoitavissa. Kehitystyömme on avointa. Kaksi kertaa vuodessa tuotettava <a href="{ $report }">avoimuusraportti</a> osoittaa myös sitoutumisemme näihin periaatteisiin.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Voit tarkastella ja kommentoida tietosuojakäytäntöihimme ehdotettuja muutoksia kirjautumalla <a href="{ $group }"> { -brand-name-mozilla }n Governace Groupiin (englanniksi)</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Lue lisää käynnissä olevasta yksityisyydensuojan ja tietoturvan edistämisen julkishallinnon työstä <a href="{ $blog }">{ -brand-name-mozilla } Open Policy and Advocacy -blogista</a>.
 privacy-index-outdated-policies = Vanhentuneet käytännöt
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla }n verkkosivustot, viestintä &amp; evästeet
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-os = { -brand-name-firefox-os }
+privacy-index-firefox-relay = { -brand-name-firefox-relay }
+privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
+privacy-index-firefox-reality = { -brand-name-firefox-reality }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }:lle
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
+privacy-index-hubs = { -brand-name-mozilla-hubs }
