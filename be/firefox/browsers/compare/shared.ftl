@@ -10,9 +10,9 @@ compare-shared-yes = Так
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Не
 compare-shared-private-browsing-mode = Рэжым прыватнага аглядання
-compare-shared-blocks-third-party-tracking-default = Тыпова блакуе трэцебаковыя кукі сачэння
+compare-shared-blocks-third-party-tracking-default = Тыпова блакуе староннія кукі сачэння
 # Obsolete string
-compare-shared-blocks-third-party-tracking = Блакуе трэцебаковыя кукі сачэння
+compare-shared-blocks-third-party-tracking = Блакуе староннія кукі сачэння
 compare-shared-blocks-cryptomining-scripts = Блакуе крыптамайнінгавыя скрыпты
 compare-shared-blocks-fingerprinting-scripts = Блакуе скрыпты збору лічбавых адбіткаў
 compare-shared-blocks-social-trackers = Блакуе трэкеры сацыяльных сетак

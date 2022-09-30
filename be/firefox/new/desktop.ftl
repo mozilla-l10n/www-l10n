@@ -30,8 +30,8 @@ firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Так
 firefox-desktop-download-no = Не
-firefox-desktop-download-blocks-third-party = Блакуе трэцебаковыя кукі сачэння
-firefox-desktop-download-blocks-third-party-default = Тыпова блакуе трэцебаковыя кукі сачэння
+firefox-desktop-download-blocks-third-party = Блакуе староннія кукі сачэння
+firefox-desktop-download-blocks-third-party-default = Тыпова блакуе староннія кукі сачэння
 firefox-desktop-download-autoplay-blocking = Блакаванне аўтапрайгравання
 firefox-desktop-download-blocks-social-trackers = Блакуе трэкеры сацыяльных сетак
 # OS is short for "Operating System"
@@ -77,7 +77,7 @@ firefox-desktop-download-picture-in-picture = Выява ў выяве
 firefox-desktop-download-curated-content-on = Выбраны змест на новай картцы
 firefox-desktop-download-share-links = Дзяліцеся спасылкамі
 firefox-desktop-download-protect-your-privacy = Абараніце сваю прыватнасць
-firefox-desktop-download-third-party-cookie = Блакаванне трэцебаковых кукі
+firefox-desktop-download-third-party-cookie = Блакаванне старонніх кукі
 firefox-desktop-download-fingerprinter-blocking = Блакаванне збору лічбавых адбіткаў
 firefox-desktop-download-cryptominer-blocking = Блакаванне крыптамайнераў
 firefox-desktop-download-private-browsing-mode = Рэжым прыватнага аглядання
@@ -140,7 +140,7 @@ firefox-desktop-download-firefox-is-available = { -brand-name-firefox } даст
 firefox-desktop-download-grab-a-high = Зрабіце відарыс з высокай разрознасцю з чаго заўгодна ў сеціве з дапамогай нашага інструмента для <a { $attrs }>здымкаў экрана</a>, убудаванага прама ў браўзер
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аўтаматычна <a { $attrs }>блакуе мноства трэцебаковых трэкераў</a> ад збору і продажу звестак аб вашай дзейнасці ў Інтэрнэце.
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аўтаматычна <a { $attrs }>блакуе мноства старонніх трэкераў</a> ад збору і продажу звестак аб вашай дзейнасці ў Інтэрнэце.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Пытанні? <a { $attrs }>Падтрымка { -brand-name-mozilla }</a> мае адказы.
