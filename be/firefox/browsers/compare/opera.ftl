@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
@@ -15,6 +15,9 @@ compare-opera-comparing-firefox-browser = Параўнанне { -brand-name-fir
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Палітыка прыватнасці</a> { -brand-name-firefox } вельмі празрыста апісвае, якую асабістую інфармацыю мы збіраем з адзінай мэтай — даць вам больш кантролю над інфармацыяй, якой вы дзеліцеся ў Інтэрнэце.
 compare-opera-as-far-as-actual-privacy-protections = Што тычыцца рэальнай абароны прыватнасці ў браўзеры { -brand-name-opera }, ён прапануе надзейны прыватны рэжым, які дазваляе вам карыстацца Інтэрнэтам без сачэння з боку браўзера. У звычайным рэжыме аглядання вы таксама можаце адключыць некаторыя функцыі збору звестак, пакапаўшыся ў наладах, каб уключыць блакаванне рэкламы і наладзіць іншыя функцыі бяспекі.
+# Variables:
+#   $attrs (string) - link to https://blog.mozilla.org/blog/2019/09/03/todays-firefox-blocks-third-party-tracking-cookies-and-cryptomining-by-default/ with additional attributes for analytics
+compare-opera-with-the-latest-version-of = У апошняй версіі { -brand-name-firefox } <a { $attrs }>узмоцненая ахова ад сачэння</a> тыпова ўключана ў звычайным рэжыме аглядання, таму вам не трэба важдацца з наладамі проста каб абараніць сябе ад трэкераў. Дзякуючы узмоцненай ахове ад сачэння, { -brand-name-firefox } актыўна блакуе тысячы старонніх трэкераў, якія спрабуюць сачыць за вамі ў сеціве. Вы атрымаеце персаналізаваную справаздачу аб абароне, якая паказвае, як часта { -brand-name-firefox } блакаваў староннія кукі, трэкеры сацыяльных сетак, збіральнікаў лічбавых адбіткаў і крыптамайнераў у часе аглядання інтэрнэту.
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-opera-theres-no-debate-that-opera = Няма спрэчкі, { -brand-name-opera } — гэта шматфункцыянальны браўзер з ясным карыстальніцкім інтэрфейсам і моцнымі магчымасцямі для налады. Паколькі { -brand-name-opera } пабудавана на { -brand-name-chromium }, яна можа скарыстацца большасцю з шырокай бібліятэкі пашырэнняў для { -brand-name-google } { -brand-name-chrome }. { -brand-name-firefox } таксама мае вялікую <a { $attrs }>бібліятэку пашырэнняў для прагляду</a>, але не такую вялікую, як { -brand-name-chrome }.
