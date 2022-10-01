@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
@@ -12,7 +12,7 @@ compare-ie-compare-internet-explorer-to = Compară { -brand-name-ie } cu { -bran
 # Main title
 compare-ie-comparing-firefox-browser-with = Comparație între { -brand-name-firefox-browser } și { -brand-name-microsoft } { -brand-name-ie }
 compare-ie-while-microsofts-internet-explorer = Deși { -brand-name-microsoft } { -brand-name-ie } încă vine preinstalat pe majoritatea calculatoarelor cu Windows, în mod clar { -brand-name-microsoft } ar prefera să folosești browserul lor { -brand-name-edge }, care este setat ca implicit la cumpărare.
-compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } a întrerupt brandul { -brand-name-ie } în urmă cu câțiva ani, în favoarea browserului { -brand-name-edge } actualizat pentru { -brand-name-windows } 10. Dar adoptarea lentă a browserului { -brand-name-edge } lăsat loc pentru folosirea { -brand-name-ie } în continuare, în principal din motive de compatibilitate pentru afaceri.
+compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } a întrerupt brandul { -brand-name-ie } în urmă cu câțiva ani, în favoarea browserului { -brand-name-edge } actualizat pentru { -brand-name-windows } 10. Dar adoptarea lentă a browserului { -brand-name-edge } a lăsat loc pentru folosirea { -brand-name-ie } în continuare, în principal din motive de compatibilitate pentru afaceri.
 compare-ie-here-well-compare-our-firefox = Vom compara aici browserul nostru { -brand-name-firefox-browser } cu { -brand-name-ie } în ceea ce privește securitatea, utilitatea și portabilitatea. Te vom ajuta să înțelegi diferențele dintre un browser modern ca { -brand-name-firefox }, care respectă standardele web, și browserul pe care poate îl folosești din motive de afaceri sau din cauza obiceiurilor de care ne delăsăm cu greu.
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
