@@ -20,6 +20,7 @@ mobile-android-fast-and-private = Шпаркі ды прыватны
 mobile-android-one-tap-to = Да прыватнага рэжыму адзін дотык
 mobile-android-search-your-own = Шукайце так, як вам зручна
 mobile-android-save-power-with = Зберажыце энергію з дапамогаю цёмнага рэжыму
+mobile-android-switch-to-dark = Пераходзьце ў цёмны рэжым калі захочаце, каб зменшыць нагрузку на вочы і сэканоміць зарад батарэі.
 mobile-android-easily-organize-your = Лёгка прыводзьце ў парадак свае карткі
 mobile-android-supercharge-firefox-with = Зарадзіце свой { -brand-name-firefox } дадаткамі
 mobile-android-pick-up-where = Працягвайце з таго месца, дзе спыніліся
