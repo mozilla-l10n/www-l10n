@@ -26,5 +26,6 @@ welcome-page4-leave-no-trace = ਕੋਈ ਪੈੜ ਨਾ ਛੱਡੋ
 welcome-page4-automatically-clear-your-history = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਢੰਗ ਨਾਲ ਤੁਹਾਡੇ ਅਤੀਤ ਅਤੇ ਕੂਕੀਜ਼ ਨੂੰ ਆਪਣੇ-ਆਪ ਸਾਫ਼ ਕਰਦਾ ਹੈ।
 welcome-page4-go-faster-do-more = ਵੱਧ ਤੇਜ਼ੀ ਫੜੋ। ਵੱਧ ਕੰਮ ਕਰੋ।
 welcome-page4-take-it-all-with-you = ਇਹ ਸਭ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
+welcome-page4-more-done-fast-smart = ਬਿਜਲੀ ਵਰਗੀ ਤੇਜ਼ੀ ਨਾਲ ਸਫ਼ੇ ਲੋਡ ਕਰਕੇ ਅਤੇ ਸਮਾਰਟ ਖੋਜ ਸੁਝਾਆਵਾਂ ਨਾਲ ਆਪਣੇ ਦਿਨ ਦੌਰਾਨ ਵੱਧ ਕੰਮ ਨਿਬੇੜੋ।
 welcome-page4-dont-walk-out-the-door-without = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਟੈਬਾਂ, ਨੋਟਿਸਾਂ ਅਤੇ ਪਾਸਵਰਡਾਂ ਬਿਨਾਂ ਦਰ ਨਾ ਲੰਘੋ।
 welcome-page4-why-am-i-seeing-this = ਮੈਂ ਇਹ ਕਿਉਂ ਦੇਖ ਰਿਹਾ/ਰਹੀ ਹਾਂ?
