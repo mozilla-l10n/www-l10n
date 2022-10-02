@@ -18,10 +18,13 @@ mobile-android-scan-the-qr-code-to-get-started = Скануйце QR-код, к�
 mobile-android-scan-alt-text = Адскануйце QR-код, каб атрымаць { -brand-name-firefox } на { -brand-name-android }
 mobile-android-fast-and-private = Шпаркі ды прыватны
 mobile-android-one-tap-to = Да прыватнага рэжыму адзін дотык
+mobile-android-search-your-own = Шукайце так, як вам зручна
 mobile-android-save-power-with = Зберажыце энергію з дапамогаю цёмнага рэжыму
 mobile-android-easily-organize-your = Лёгка прыводзьце ў парадак свае карткі
+mobile-android-supercharge-firefox-with = Зарадзіце свой { -brand-name-firefox } дадаткамі
 mobile-android-pick-up-where = Працягвайце з таго месца, дзе спыніліся
-mobile-android-search-from-your = Шукайце з галоўнага экрана тэлефона
+mobile-android-search-from-your = Шукайце з хатняга экрана тэлефона
+mobile-android-no-need-to = Не трэба адкрываць праграму. Дадайце віджэт пошуку { -brand-name-firefox } і шукайце ў Інтэрнэце прама з хатняга экрана вашай прылады.
 mobile-android-pin-videos-to = Замацоўвайце відэа на экране
 mobile-android-about-mozilla = Пра { -brand-name-mozilla }
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
