@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ਸ਼ਾਨਦਾਰ ਤੇਜ਼ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਕਿ ਸ਼ਾਨਦਾਰ ਡਿਵੈਲਪਰ ਟੂਲ ਅਤੇ CSS ਗਰਿੱਡ ਸਹਿਯੋਗ ਅਤੇ ਫਰੇਮਵਰਕ ਡਿਬੱਗਿੰਗ ਵਰਗੀਆਂ ਤਾਜ਼ਾ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦਾ ਹੈ
@@ -55,7 +55,9 @@ firefox-developer-new-tools = ਨਵੇਂ ਟੂਲ
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = ਨਵਾਂ{ -brand-name-firefox-devtools } ਮਜ਼ਬੂਤ, ਲਚਕੀਲਾ ਅਤੇ ਸਭ ਤੋਂ ਵਧੀਆ, ਢਾਲਣਯੋਗ ਹੈ, ਇਸ ਵਿੱਚ ਸਭ ਤੋਂ ਵਧੀਆ ਕਲਾਸ JavaScript ਡੀਬੱਗਰ ਸ਼ਾਮਲ ਹੈ, ਜਿਸਨੂੰ ਬਹੁਤ ਸਾਰੇ ਬਰਾਉਜ਼ਰਾਂ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ ਅਤੇ ਰੀਐਕਟ ਅਤੇ ਰੀਡਕਸ ਵਿੱਚ ਬਣਾਇਆ ਗਿਆ ਹੈ।
 firefox-developer-master-css-grid = ਮਾਸਟਰ CSS ਗਰਿੱਡ
+# outdated
 firefox-developer-next-gen-css-engine = ਅਗਲਾ-ਜਨਰਲ CSS ਇੰਜਣ
+firefox-developer-built-for-developers = ਡਿਵੈਲਪਰਾਂ ਲਈ ਬਣਾਇਆ
 firefox-developer-a-next-generation = ਇੱਕ ਨਵੀਂ-ਉਪਜ CSS ਇੰਜਣ
 firefox-developer-master-innovative-features = ਨਵੇਂ ਫੀਚਰ
 firefox-developer-want-to-be-on-the-cutting-edge = ਅਤਿ-ਆਧੁਨਿਕ ਉੱਤੇ ਹੋਣਾ ਚਾਹੁੰਦੇ ਹੋ?
@@ -76,3 +78,7 @@ firefox-developer-welcome-to-the-all-new = ਬਿਲਕੁਲ ਨਵੇਂ { -br
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ਨੂੰ ਮੁੱਢਲੇ ਪੱਧਰ ਤੋਂ ਮੁੜ ਬਣਾਇਆ ਗਿਆ ਹੈ ਤਾਂ ਜੋ ਪਹਿਲਾਂ ਨਾਲੋਂ ਤੇਜ਼, ਸੋਹਣਾ ਅਤੇ ਮਜ਼ਬੂਤ ਹੋ ਸਕੇ।
 firefox-developer-congrats-you-now-have-firefox = ਵਧਾਈਆਂ। ਹੁਣ ਤੁਹਾਡੇ ਕੋਲ { -brand-name-firefox-quantum } ਹੈ: { -brand-name-developer-edition }।
 firefox-developer-this-isnt-just-an-update = ਇਹ ਕੇਵਲ ਇੱਕ ਅਪਡੇਟ ਨਹੀਂ ਹੈ। ਇਹ { -brand-name-firefox-quantum }ਹੈ: ਨਵਾਂ { -brand-name-firefox } ਜੋ ਪਹਿਲਾਂ ਤੋਂ ਕਿਤੇ ਤੇਜ਼, ਸੁੰਦਰ ਅਤੇ ਸ਼ਕਤੀਸ਼ਾਲੀ ਬਣਾਉਣ ਲਈ ਮੁੱਢ ਤੋਂ ਮੁੜ ਬਣਾਇਆ ਗਿਆ ਹੈ।
+firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
+firefox-developer-made-for-developers = ਡਿਵੈਲਪਰਾਂ ਲਈ ਬਣਾਇਆ ਬਰਾਊਜ਼ਰ
+firefox-developer-congrats-you-now-have = ਵਧਾਈਆਂ। ਹੁਣ ਤੁਹਾਡੇ ਕੋਲ { -brand-name-firefox-browser } { -brand-name-developer-edition } ਹੈ।
+firefox-developer-congrats-you-now-have-latest = ਵਧਾਈਆਂ। ਹੁਣ ਤੁਸੀਂ { -brand-name-firefox-browser } { -brand-name-developer-edition } ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਵਰਤ ਰਹੇ ਹੋ।

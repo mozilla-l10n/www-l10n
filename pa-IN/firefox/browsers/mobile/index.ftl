@@ -20,6 +20,7 @@ browsers-mobile-go-your-own-way = { -brand-name-firefox } ਮੋਬਾਈਲ ਨ
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰਾਂ ਦਾ ਟਾਕਰਾ ਕਰੋ
 browsers-mobile-compare = ਤੁਲਨਾ
+browsers-mobile-see-how-firefox-for-desktop-stacks = ਵੇਖੋ ਕਿ ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox } ਹੋਰ ਸੱਤ ਬਰਾਊਜ਼ਰਾਂ ਦੇ ਮੁਕਾਬਲੇ ਕਿੱਥੇ ਖੜ੍ਹਾ ਹੈ।
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
