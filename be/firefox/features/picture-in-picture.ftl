@@ -24,4 +24,4 @@ features-pip-3-more-ways-to-use-picture = 3 дадатковых спосабы 
 features-pip-3-ways-to-use-picture = 3 спосабы выкарыстання рэжыму "Выява ў выяве".
 features-pip-watch-a-lecture-or-meeting = Рабіце нататкі падчас прагляду лекцыі або сустрэчы
 features-pip-keep-a-tutorial-video-open = Трымайце адкрытым навучальнае відэа з рэцэптам, пакуль гатуеце
-features-pip-entertain-cats-dogs-and-kids = Забаўляйце котак, сабакаў і дзяцей, пакуль вы працуеце
+features-pip-entertain-cats-dogs-and-kids = Забаўляйце катоў, сабак і дзяцей, пакуль вы працуеце
