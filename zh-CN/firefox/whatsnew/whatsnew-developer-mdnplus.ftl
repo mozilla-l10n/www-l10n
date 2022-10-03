@@ -16,4 +16,5 @@ developer-mdnplus-get-started = 开始使用
 developer-mdnplus-whats-included = 包含项目
 developer-mdnplus-notifications = 通知
 developer-mdnplus-mdn-offline = { -brand-name-mdn } 离线版
+developer-mdnplus-mdns-entire-library-at-your = { -brand-name-mdn } 的整套文档库触手可及：离线
 developer-mdnplus-resources-for-developers = 源于开发者，服务开发者。
