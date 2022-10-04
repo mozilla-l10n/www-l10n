@@ -21,10 +21,12 @@ mobile-ios-make-firefox-your = Зрабіцe { -brand-name-firefox } вашым 
 mobile-ios-fast-private-secure = Хуткі. Прыватны. Бяспечны
 mobile-ios-stay-private-online = Заставайцеся прыватнымі ў Інтэрнэце
 mobile-ios-your-browsing-history = Ваша гісторыя аглядання застаецца гісторыяй
+mobile-ios-if-you-want = Калі хочаце, вы лёгка можаце працаваць і шукаць у Інтэрнэце ў рэжыме прыватнага аглядання. А калі вы закрываеце рэжым прыватнага аглядання, гісторыя аглядання і ўсе кукі аўтаматычна выдаляюцца з вашай прылады.
 mobile-ios-get-more-firefox = Зрабіце { -brand-name-firefox } часткай свайго жыцця
 mobile-ios-get-to-your-go-to = Хутчэй дабірайцеся да улюбёных месцаў на { -brand-name-iphone } і { -brand-name-ipad }
 mobile-ios-see-your-open-tabs = Праглядайце ўсе свае адкрытыя карткі, нядаўнія пошукавыя запыты і ўлюбёныя сайты ў адным месцы з { -brand-name-firefox-browser } для { -brand-name-ios }.
 mobile-ios-own-your-home = Наладжвайце свой хатні экран
+mobile-ios-get-to-the-parts = Знаходзьце тое, што вас цікавіць у Інтэрнэце, хутчэй. Абірайце прагляд усіх адкрытых картак, нядаўніх пошукавых запытаў, закладак і ўлюбёных сайтаў у адным месцы.
 mobile-ios-find-it-all = Знаходзьце ўсё хутчэй
 # Obsolete string
 mobile-ios-keep-tabs-on = Кантралюйце ўсе карткі
