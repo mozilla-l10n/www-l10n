@@ -23,6 +23,7 @@ mobile-ios-stay-private-online = Заставайцеся прыватнымі �
 mobile-ios-your-browsing-history = Ваша гісторыя аглядання застаецца гісторыяй
 mobile-ios-get-more-firefox = Зрабіце { -brand-name-firefox } часткай свайго жыцця
 mobile-ios-get-to-your-go-to = Хутчэй дабірайцеся да улюбёных месцаў на { -brand-name-iphone } і { -brand-name-ipad }
+mobile-ios-see-your-open-tabs = Праглядайце ўсе свае адкрытыя карткі, нядаўнія пошукавыя запыты і ўлюбёныя сайты ў адным месцы з { -brand-name-firefox-browser } для { -brand-name-ios }.
 mobile-ios-own-your-home = Наладжвайце свой хатні экран
 mobile-ios-find-it-all = Знаходзьце ўсё хутчэй
 # Obsolete string
