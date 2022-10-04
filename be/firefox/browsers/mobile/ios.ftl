@@ -17,3 +17,4 @@ mobile-ios-scan-the-qr-code-to-get-started = Скануйце QR-код, каб 
 mobile-ios-scan-alt-text = Адскануйце QR-код, каб атрымаць { -brand-name-firefox } на { -brand-name-ios }
 mobile-ios-make-firefox-your = Зрабіць { -brand-name-firefox } вашым прадвызначаным браўзерам
 mobile-ios-fast-private-secure = Хуткі. Прыватны. Бяспечны
+mobile-ios-own-your-home = Наладжвайце свой хатні экран
