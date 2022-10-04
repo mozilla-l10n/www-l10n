@@ -11,3 +11,9 @@ mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } для { -brand
 # Obsolete string
 mobile-ios-firefox-browser-for = Браўзер { -brand-name-firefox } для { -brand-name-ios } — хуткі, бяспечны і прыватны з першага запуску.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+mobile-ios-get-firefox-for = Атрымайце { -brand-name-firefox } для { -brand-name-ios }
+mobile-ios-send-a-download-link-to-your = Адправіць спасылку для сцягвання на свой тэлефон.
+mobile-ios-scan-the-qr-code-to-get-started = Скануйце QR-код, каб пачаць сцягванне
+mobile-ios-scan-alt-text = Адскануйце QR-код, каб атрымаць { -brand-name-firefox } на { -brand-name-ios }
+mobile-ios-make-firefox-your = Зрабіць { -brand-name-firefox } вашым прадвызначаным браўзерам
+mobile-ios-fast-private-secure = Хуткі. Прыватны. Бяспечны
