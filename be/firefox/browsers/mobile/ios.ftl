@@ -22,9 +22,11 @@ mobile-ios-fast-private-secure = Хуткі. Прыватны. Бяспечны
 mobile-ios-stay-private-online = Заставайцеся прыватнымі ў Інтэрнэце
 mobile-ios-your-browsing-history = Ваша гісторыя аглядання застаецца гісторыяй
 mobile-ios-get-more-firefox = Зрабіце { -brand-name-firefox } часткай свайго жыцця
+mobile-ios-get-to-your-go-to = Хутчэй дабірайцеся да улюбёных месцаў на { -brand-name-iphone } і { -brand-name-ipad }
 mobile-ios-own-your-home = Наладжвайце свой хатні экран
 mobile-ios-find-it-all = Знаходзьце ўсё хутчэй
 # Obsolete string
 mobile-ios-keep-tabs-on = Кантралюйце ўсе карткі
 mobile-ios-discover-more-of = Знаходзьце больше цікавага
+mobile-ios-open-a-new = Адкрыйце новую картку ў { -brand-name-firefox }, каб убачыць сайты, якія вы часцей за ўсё наведваеце, нядаўнія закладкі і папулярныя артыкулы ў { -brand-name-pocket }. { -brand-name-firefox } дае вам хуткі доступ да нядаўна наведаных сайтаў, каб паскорыць пошук патрэбных.
 mobile-ios-about-mozilla = Пра { -brand-name-mozilla }
