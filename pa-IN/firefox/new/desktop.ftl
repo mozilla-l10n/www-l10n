@@ -39,6 +39,9 @@ firefox-desktop-download-in-browser-screenshot = ਬਰਾਊਜ਼ਰ ਵਿਚੇ
 firefox-desktop-download-primary-password = ਮੁੱਖ ਪਾਸਵਰਡ
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ ਲਈ ਪਿਆਰ
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = ਇਹ ਤੁਹਾਡਾ ਇੰਟਰਨੈੱਟ ਹੈ। ਹਜ਼ਾਰਾਂ ਟੂਲਾਂ, ਥੀਮਾਂ ਅਤੇ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨਾਲ ਇਸ ਨੂੰ ਆਪਣੇ ਢੰਗ ਨਾਲ ਰੰਗ ਦਿਓ। { -brand-name-firefox } ਅਸਲੀ ਰੂਪ ਵਿੱਚ ਬਦਲਵਾਂ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਕਿ ਲੋਕਾਂ ਨੂੰ ਫਾਇਦੇ ਦੀ ਬਜਾਏ ਪਹਿਲ ਦਿੰਦਾ ਹੈ।
 # Obsolete string
 firefox-desktop-download-master-password = ਪ੍ਰਾਇਮਰੀ ਪਾਸਵਰਡ
 firefox-desktop-download-we-block-the-ad = ਅਸੀਂ ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦੇ ਹਾਂ। ਤੁਸੀਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਇੰਟਰਨੈੱਟ ਵਰਤਦੇ ਹੋ।
