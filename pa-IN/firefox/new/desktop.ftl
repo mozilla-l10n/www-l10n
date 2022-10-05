@@ -93,6 +93,7 @@ firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</st
 firefox-desktop-download-extensions-for-every = ਹਰ ਦਿਲਚਸਪੀ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ
 firefox-desktop-download-change-up-your = ਆਪਣੀ ਦਿੱਖ ਨੂੰ ਬਦਲਣਾ
 firefox-desktop-download-tweak-your-settings = ਆਪਣੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਢਾਲਣਾ
+firefox-desktop-download-theres-no-need = ਸਬਰ ਰੱਖਣ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ। ਨਵੇਂ ਟੈਬ ਸਫ਼ੇ, ਖੋਜ ਪੱਟੀ, ਬੁੱਕਮਾਰਕ ਅਤੇ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਹੋਰ, ਜੋ ਵੀ ਤੁਸੀਂ ਚਾਹੋ, ਲੱਭਣ ਲਈ ਉੱਤੇ ਜਾਓ।
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = <strong>ਗ਼ੈਰ-ਫਾਇਦਾ</strong> ਸੰਗਠਨ ਵਲੋਂ ਤਿਆਰ ਹੈ, ਜਿਸ ਲਈ ਲੋਕ ਪਹਿਲਾਂ ਹਨ
 firefox-desktop-download-challenging-the-status = 1998 ਤੋਂ ਚੁਣੌਤੀ ਬਣ ਕੇ ਤਿਆਰ ਹੈ
@@ -120,6 +121,9 @@ firefox-desktop-download-learn-about-the = ਹੇਠਾਂ { -brand-name-firefox
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = ਸੁਰੱਖਿਆ ਤੋਂ ਖ਼ਬਰਾਂ ਤੇ ਖੇਡਾਂ ਤੱਕ, <a { $attrs }>ਹਰ ਚੀਜ਼ ਲਈ ਇਕਟੈਨਸ਼ਨ</a> ਹੈ। ਜਦੋਂ ਤੱਕ ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਠੀਕ ਚੱਲਦਾ ਹੈ, ਉਦੋਂ ਤੱਕ ਜਿੰਨੀਆਂ ਮਰਜ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ ਜੋੜੋ।
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ਨੂੰ  <a { $attrs }>{ -brand-name-mozilla }</a> ਵਲੋਂ { -brand-name-ie } ਅਤੇ ਹੁਣ { -brand-name-chrome } ਵਰਗੇ ਬਰਾਊਜ਼ਰਾਂ ਦੇ ਮੁਕਾਬਲੇ ਵੱਧ ਤੇਜ਼, ਵੱਧ ਪ੍ਰਾਈਵੇਟ ਬਦਲ ਵਜੋਂ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਅੱਜ ਮਕਸਦ ਲਈ ਪ੍ਰਨਾਈ ਕੰਪਨੀ ਅਤੇ ਵਲੰਟੀਅਰ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਰੱਖਣਾ ਜਾਰੀ ਰੱਖਦੇ ਹਨ।
+# Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਲਈ ਉਪਲਬਧ ਹੈ; ਆਪਣੀਆਂ ਟੈਬਾਂ, ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਰੱਖੋ। ਤੁਹਾਨੂੰ ਬੱਸ <a { $attrs }>{ -brand-name-firefox } ਖਾਤਾ</a> ਚਾਹੀਦਾ ਹੈ।
 # Variables:
@@ -133,6 +137,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ਆਪ�
 firefox-desktop-download-questions = ਕੋਈ ਸਵਾਲ? <a { $attrs }>{ -brand-name-mozilla } ਸਹਿਯੋਗ</a> ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ।
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਤਾਂ ਲੈ ਲਿਆ ਹੈ। ਹੁਣ { -brand-name-firefox } ਤੋਂ ਹੋਰ ਫਾਇਦਾ ਲਵੋ।
+firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } ਨਾਲ ਹੈਕਰਾਂ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ, { -brand-name-firefox-relay } ਨਾਲ ਆਪਣੇ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਨੂੰ ਬਚਾਅ ਅਤੇ ਹੋਰ।
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } ਨਾਲ ਹੈਕਰਾਂ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ, { -brand-name-firefox-lockwise } ਨਾਲ ਪਾਸਵਰਡ ਸੰਭਾਲੋ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ।
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } ਤੋਂ ਹੋਰ ਫਾਇਦਾ ਲਵੋ
