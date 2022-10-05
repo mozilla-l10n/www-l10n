@@ -18,6 +18,7 @@ a-web-browser = Spletni brskalnik je program, ki vas ponese po internetu in vam 
 update-your-browser = Posodobite svoj brskalnik na hitri in varni { -brand-name-firefox }.
 the-firefox-browser = Brskalnik { -brand-name-firefox } je ustvarjen za zaščito vaše zasebnosti na vsakem koraku – ker je to najhitrejši način, da vas osvobodi počasnega nalaganja, motečih oglasov in sledilcev.
 firefox-is-more = { -brand-name-firefox } je več kot le brskalnik
+its-a-lightning = Je bliskovito hiter portal do najboljše izkušnje na spletu.
 get-the-browsers = Izberite brskalnike, ki na prvo mesto postavljajo vašo zasebnost – kot vedno
 get-the-privacy = Prejmite zasebnost, ki si jo zaslužite. Izboljšana zaščita pred sledenjem vam ponuja samodejno zasebnost vsakič, ko odprete brskalnik.
 choose-which-firefox = Izberite, kateri { -brand-name-firefox-browser } želite prenesti v svojem jeziku

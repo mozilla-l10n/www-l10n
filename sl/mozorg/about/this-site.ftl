@@ -27,6 +27,12 @@ about-this-site-read-the-docs = Preberite dokumentacijo
 about-this-site-colophon = Kolofon
 about-this-site-some-open-source-projects = Nekateri odprtokodni projekti, uporabljeni pri izdelavi tega spletnega mesta:
 # Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = <a href="{ $protocol }">Protocol</a>, sistem { -brand-name-mozilla(sklon: "rodilnik") } za zasnovo vmesnika in blagovne znamke.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = <a href="{ $fluent }">Fluent</a>, lokalizacijski sistem { -brand-name-mozilla(sklon: "rodilnik") } za prevajanje v druge jezike.
+# Variables:
 #   $github (url) link to https://github.com/mozilla/bedrock
 about-this-site-many-other = Številne manjše knjižnice in ogrodja, ki jih najdete v našem <a href="{ $github }">repozitoriju { -brand-name-github }</a>.
 # Variables:

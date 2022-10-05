@@ -19,6 +19,7 @@ firefox-enterprise-unmatched-data-protection = Neprekosljiva zaščita podatkov 
 firefox-enterprise-the-firefox-browser-is-open = Brskalnik { -brand-name-firefox } je odprtokoden in nudi izboljšano zaščito pred sledenjem – kar je del naše dolgoletne zavezanosti varstvu podatkov.
 firefox-enterprise-your-data-stays-your-business = Vaši podatki ostanejo vaša stvar
 firefox-enterprise-deploy-when-and-how-you-want = Uvedite kadar in kako želite
+firefox-enterprise-with-install-packages-and = Z namestitvenimi paketi ter širokim naborom skupinskih pravilnikov in funkcij je uvajanje hitrejše in bolj prilagodljivo kot kdajkoli prej – in mačji kašelj v okoljih { -brand-name-windows } in { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Izberite svoj posodobitveni cikel
 firefox-enterprise-get-rapid-releases-to-make = Prejemajte hitrejše izdaje, da bi nove možnosti prejemali hitreje ali pa si zagotovite izjemno stabilno izkušnjo.
 firefox-enterprise-enterprise-downloads = Prenosi za { -brand-name-enterprise }
