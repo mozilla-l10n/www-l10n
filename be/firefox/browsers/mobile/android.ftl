@@ -23,6 +23,7 @@ mobile-android-save-power-with = Зберажыце энергію з дапам
 mobile-android-switch-to-dark = Пераходзьце ў цёмны рэжым калі захочаце, каб зменшыць нагрузку на вочы і сэканоміць зарад батарэі.
 mobile-android-easily-organize-your = Лёгка прыводзьце ў парадак свае карткі
 mobile-android-supercharge-firefox-with = Зарадзіце свой { -brand-name-firefox } дадаткамі
+mobile-android-addons-are-like = Дадаткі — гэта невялікія, але магутныя інструменты, якія вы можаце дадаць у свой браўзер, каб, напрыклад, узмацніць тыповыя налады прыватнасці ці падкрэсліць сваю індывідуальнасць.
 mobile-android-pick-up-where = Працягвайце з таго месца, дзе спыніліся
 mobile-android-search-from-your = Шукайце з хатняга экрана тэлефона
 mobile-android-no-need-to = Не трэба адкрываць праграму. Дадайце віджэт пошуку { -brand-name-firefox } і шукайце ў Інтэрнэце прама з хатняга экрана вашай прылады.
@@ -30,4 +31,6 @@ mobile-android-pin-videos-to = Замацоўвайце відэа на экра
 mobile-android-about-mozilla = Пра { -brand-name-mozilla }
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Уварвіцеся ў Інтэрнэт з { -brand-name-firefox } доўжачы { -brand-name-android }
+mobile-android-see-all-your-open-tabs = Праглядайце ўсе свае адкрытыя карткі, нядаўнія пошукавыя запыты і ўлюбёныя сайты ў адным месцы з { -brand-name-firefox } для { -brand-name-android }.
 mobile-android-own-your-home = Наладжвайце свой хатні экран
+mobile-android-get-to-the-parts = Знаходзьце тое, што вас цікавіць у Інтэрнэце, хутчэй. Абірайце прагляд усіх адкрытых картак, нядаўніх пошукавых запытаў, закладак і ўлюбёных сайтаў у адным месцы.
