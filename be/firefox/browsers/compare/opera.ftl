@@ -11,6 +11,7 @@ compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } супраць
 compare-opera-compare-opera-to-the-firefox = Параўнайце { -brand-name-opera } і { -brand-name-firefox-browser }, каб даведацца, які браўзер лепшы для вас.
 # Main title
 compare-opera-comparing-firefox-browser = Параўнанне { -brand-name-firefox-browser } з { -brand-name-opera }
+compare-opera-operas-privacy-policy-lacks = Палітыцы прыватнасці { -brand-name-opera } не хапае пэўнасці ў тлумачэнні таго, якія тыпы інфармацыі яна збірае і як. У некаторых раздзелах сказана, што яны збіраюць імёны ўладальнікаў уліковых запісаў, IP-адрасы і пошукавыя запыты. Што здаецца заблытаным і трывожным, дык гэта раздзел аб міжнароднай перадачы звестак; калі, як часта і чаму ім трэба перадаваць вашыя звесткі на міжнародным узроўні, не тлумачыцца.
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Палітыка прыватнасці</a> { -brand-name-firefox } вельмі празрыста апісвае, якую асабістую інфармацыю мы збіраем з адзінай мэтай — даць вам больш кантролю над інфармацыяй, якой вы дзеліцеся ў Інтэрнэце.
