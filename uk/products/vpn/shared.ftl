@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Виберіть для себе най
 vpn-shared-pricing-variable-heading = Виберіть план, який вам підходить
 vpn-shared-pricing-variable-sub-heading = Усі наші плани включають:
 vpn-shared-pricing-recommended-offer = Рекомендовано
-vpn-shared-pricing-plan-6-month = 6 місяців
+vpn-shared-pricing-plan-12-month-v2 = 12-місячний тарифний план
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 місяців
+vpn-shared-pricing-plan-monthly-v2 = Місячний тарифний план
+# Outdated string
 vpn-shared-pricing-plan-monthly = Щомісячно
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 vpn-shared-pricing-get-6-month = Отримати 6-місячний план
 # Outdated string
 vpn-shared-pricing-get-12-month = Отримати 12-місячний план
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Отримати 6-місячний тарифний план
 vpn-shared-pricing-get-12-month-v2 = Отримати 12-місячний тарифний план
 vpn-shared-pricing-get-monthly = Отримати щомісячний план
@@ -125,6 +129,23 @@ vpn-subnav-subscribe = Передплатити { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Ми використовуємо куки, щоб зрозуміти, який афілійований партнер привів вас до { -brand-name-mozilla-vpn }. Ми не передаємо особисту інформацію нашим партнерам. Прочитайте нашу <a { $attrs }>Політику приватності</a>.
 vpn-shared-affiliate-notification-reject = Відхилити
 vpn-shared-affiliate-notification-ok = Гаразд
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Посильте свою приватність за допомогою { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Додайте { -brand-name-firefox-relay } до своєї передплати, щоб захистити свою електронну пошту та номер телефону. <a href="{ $url }">Докладніше</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Додати <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Маскування електронної пошти
+vpn-shared-relay-phone-masking = Маскування телефону
+vpn-shared-get-vpn-plus-relay = Отримати { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Чому пакет?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Заощадьте { $percent }%</span> на річному тарифному плані { -brand-name-relay-premium }
 
 ##
 

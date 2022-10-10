@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = Будь ласка, введіть дійсну адресу електронної пошти
 newsletter-form-you-must-agree-to = Ви повинні погодитися з повідомленням про приватність
 newsletter-form-your-email-address = Ваша адреса електронної пошти
+newsletter-form-we-are-sorry-but-there = Нам шкода, але виникла проблема з нашою системою. Будь ласка, спробуйте пізніше!
+newsletter-form-please-select-country = Виберіть країну або регіон
+newsletter-form-please-select-language = Виберіть мову
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Виберіть країну чи регіон
