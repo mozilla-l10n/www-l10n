@@ -7,6 +7,7 @@
 
 # Hero title
 features-index-firefox-features = { -brand-name-firefox } විශේෂාංග
+features-index-see-all = සියළු දිගු බලන්න
 features-index-get-an-account = { -brand-name-firefox-account } ක් ගන්න
 features-index-stack-up = වෙනත් ප්‍රචලිත අතිරික්සු සමඟ { -brand-name-firefox } සසඳන්න.
 features-index-compare-browsers = අතිරික්සු සංසන්දනය
