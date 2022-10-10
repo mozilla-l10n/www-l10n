@@ -64,8 +64,10 @@ vpn-shared-pricing-variable-heading-v2 = Selige un plan de abonamento que functi
 vpn-shared-pricing-variable-heading = Elige un plan que functiona pro te
 vpn-shared-pricing-variable-sub-heading = Tote nostre planos include:
 vpn-shared-pricing-recommended-offer = Recommendate
-vpn-shared-pricing-plan-6-month = 6 menses
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 menses
+vpn-shared-pricing-plan-monthly-v2 = Plan mensual
+# Outdated string
 vpn-shared-pricing-plan-monthly = Mensual
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +76,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 vpn-shared-pricing-get-6-month = Compra un plan de 6 menses
 # Outdated string
 vpn-shared-pricing-get-12-month = Compra un plan de 12 menses
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Compra un plano de 6 menses
 vpn-shared-pricing-get-12-month-v2 = Compra un plano de 12 menses
 vpn-shared-pricing-get-monthly = Compra un plan mensual
@@ -125,6 +128,10 @@ vpn-subnav-subscribe = Abona te a { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Nos usa le cookies pro comprender que partner affiliate te duceva a { -brand-name-mozilla-vpn }. Nos non comparti informationes de identification personal con nostre partners. Lege nostre<a { $attrs }>Politica de confidentialitate</a>.
 vpn-shared-affiliate-notification-reject = Rejectar
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-relay-email-masking = Mascas email
 
 ##
 
