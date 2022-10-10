@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Välj en prenumerationsplan som fungera
 vpn-shared-pricing-variable-heading = Välj en plan som fungerar för dig
 vpn-shared-pricing-variable-sub-heading = Alla våra planer inkluderar:
 vpn-shared-pricing-recommended-offer = Rekommenderad
-vpn-shared-pricing-plan-6-month = 6 månader
+vpn-shared-pricing-plan-12-month-v2 = 12-månadersplan
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 månader
+vpn-shared-pricing-plan-monthly-v2 = Månadsplan
+# Outdated string
 vpn-shared-pricing-plan-monthly = Månadsvis
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/månad</span>
 vpn-shared-pricing-get-6-month = Välj en 6-månaders prenumeration
 # Outdated string
 vpn-shared-pricing-get-12-month = Välj en 12-månaders prenumeration
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Skaffa en 6-månadersplan
 vpn-shared-pricing-get-12-month-v2 = Skaffa en 12-månadersplan
 vpn-shared-pricing-get-monthly = Välj en månadsprenumeration
@@ -125,6 +129,23 @@ vpn-subnav-subscribe = Prenumerera på { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Vi använder kakor för att förstå vilken avtalspartner som ledde dig till { -brand-name-mozilla-vpn }. Vi delar inte personligt identifierande information med våra partners. Läs vår <a { $attrs }>sekretesspolicy</a>.
 vpn-shared-affiliate-notification-reject = Avvisa
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Öka din integritet med { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Lägg till { -brand-name-firefox-relay } till din prenumeration för att skydda din e-post och ditt telefonnummer. <a href="{ $url }">Läs mer</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Lägg till <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = E-postalias
+vpn-shared-relay-phone-masking = Telefonmaskering
+vpn-shared-get-vpn-plus-relay = Skaffa { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Varför båda?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Spara { $percent }%</span> på { -brand-name-relay-premium } årsabonnemang
 
 ##
 

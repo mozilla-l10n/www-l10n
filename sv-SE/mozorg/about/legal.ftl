@@ -37,3 +37,4 @@ legal-mdn-plus-terms = Användarvillkor för { -brand-name-mdn-plus }
 legal-report-copyright = Rapportera upphovsrättsintrång eller varumärkesintrång
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Användarvillkor för { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = { -brand-name-mozilla } Prenumerationstjänster
