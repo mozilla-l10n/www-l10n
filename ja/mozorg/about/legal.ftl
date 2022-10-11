@@ -36,3 +36,4 @@ legal-mdn-plus-terms = { -brand-name-mdn-plus } サービス規約
 legal-report-copyright = 著作権・商標の侵害を報告
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } サービス規約
+legal-mozilla-subscription-services = { -brand-name-mozilla } のサブスクリプションサービス
