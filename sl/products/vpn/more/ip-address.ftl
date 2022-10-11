@@ -16,6 +16,8 @@ vpn-ip-address-does-it-travel = Ali potuje z vami?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-no-your-ip-v2 = Ne. Vaš naslov IP je povezan s samo eno lokacijo, razen v primeru, da uporabljate VPN (o tem kasneje). Ko ste doma in se povezujete z internetom, ki ga plačujete, uporabljate enega. Če zjutraj doma preverite e-pošto, nato v kavarni preletite dnevne novice in se v pisarni lotite dela, pa ste na vsakem kraju uporabili drug naslov IP.
+# Outdated string
+vpn-ip-address-no-your-ip = Ne. Vaš naslov IP je povezan s samo eno lokacijo, razen v primeru, da <a href="{ $url }">uporabljate VPN</a> (o tem kasneje). Ko ste doma in se povezujete z internetom, ki ga plačujete, uporabljate enega. Če zjutraj doma preverite e-pošto, nato v kavarni preletite dnevne novice in se v pisarni lotite dela, pa ste na vsakem kraju uporabili drug naslov IP.
 vpn-ip-address-does-your-ip = Ali se vaš naslov IP spreminja?
 vpn-ip-address-yes-even-if = Da. Tudi če uporabljate internet samo doma, se vaš hišni naslov IP lahko spremeni. Spremembo naslova IP lahko zahtevate pri svojem ponudniku internetnih storitev (ISP), do spremembe pa lahko pride tudi ob povsem običajnem dejanju, kot je ponovni zagon modema ali usmerjevalnika.
 vpn-ip-address-can-more-than = Ali ima lahko več naprav enak naslov IP?

@@ -107,6 +107,9 @@ vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (samo 
 # Outdated string
 vpn-landing-faq-refund-question-desc = You can get your money back within 30 days of purchasing your subscription. Contact us and submit the refund request by tapping the “Get Help” button in Settings on your { -brand-name-mozilla-vpn } app.
 vpn-landing-faq-manage-subscription-question-heading = Kako lahko upravljam svojo naročnino?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Obiščite <a { $attrs }>stran za prenos</a> in z nje namestite { -brand-name-mozilla-vpn } na svojo napravi, nato se prijavite s svojim { -brand-name-firefox-account(sklon: "orodnik") }.
 vpn-landing-faq-link = Več pogosto zastavljenih vprašanj
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
