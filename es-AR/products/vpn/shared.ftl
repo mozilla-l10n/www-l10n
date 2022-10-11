@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Elegí el plan de suscripción que te v
 vpn-shared-pricing-variable-heading = Elegí el plan que te resulte mejor
 vpn-shared-pricing-variable-sub-heading = Todos nuestros planes incluyen:
 vpn-shared-pricing-recommended-offer = Recomendado
-vpn-shared-pricing-plan-6-month = 6 meses
+vpn-shared-pricing-plan-12-month-v2 = Plan de 12 meses
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 meses
+vpn-shared-pricing-plan-monthly-v2 = Plan mensual
+# Outdated string
 vpn-shared-pricing-plan-monthly = Mensual
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/mes</span>
 vpn-shared-pricing-get-6-month = Obtener el plan de 6 meses
 # Outdated string
 vpn-shared-pricing-get-12-month = Obtener el plan de 12 meses
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Obtener el plan de 6 meses
 vpn-shared-pricing-get-12-month-v2 = Obtener el plan de 12 meses
 vpn-shared-pricing-get-monthly = Obtener el plan mensual
@@ -125,6 +129,23 @@ vpn-subnav-subscribe = Suscribite a { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Usamos cookies para saber qué socio afiliado te llevó a la { -brand-name-mozilla-vpn }. No compartimos información de identificación personal con nuestros socios. Leé nuestra <a { $attrs }>Política de privacidad</a>.
 vpn-shared-affiliate-notification-reject = Rechazar
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Aumentá su privacidad con { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Agreguá { -brand-name-firefox-relay } a tu suscripción para proteger tu correo electrónico y número de teléfono. <a href="{ $url }">Conocer más</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Agreguá <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Enmascar el correo electrónico
+vpn-shared-relay-phone-masking = Enmascar el teléfono
+vpn-shared-get-vpn-plus-relay = Conseguí { -brand-name-vpn } para { -brand-name-relay }
+vpn-shared-why-bundle = ¿Por qué agrupar?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Ahorrá { $percent }%</span> en el plan anual de { -brand-name-relay-premium }
 
 ##
 
