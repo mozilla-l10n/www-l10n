@@ -16,5 +16,12 @@ about-this-site-read-the-docs = Прачытаць дакументацыю
 about-this-site-colophon = Калафон
 about-this-site-some-open-source-projects = Некаторыя праекты з адкрытым зыходным кодам, выкарыстаныя для стварэння гэтага сайта:
 # Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> у якасці бэкэнд вэб-фрэймворка з <a href="{ $jinja }">Jinja</a> для стварэння шаблонаў.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = Сістэма праектавання <a href="{ $protocol }">Protocol</a> { -brand-name-mozilla } для інтэрфейсных кампанентаў і брэндынгу.
+# Variables:
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = Сістэма лакалізацыі { -brand-name-mozilla } <a href="{ $fluent }">Fluent</a> для моўнага перакладу.
