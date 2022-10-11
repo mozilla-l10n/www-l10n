@@ -141,6 +141,11 @@ vpn-add-relay-to-protect = Foegje { -brand-name-firefox-relay } ta oan jo abonne
 vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> tafoegje
 vpn-shared-relay-email-masking = E-mailmaskearing
 vpn-shared-relay-phone-masking = Telefoanmaskearing
+vpn-shared-get-vpn-plus-relay = Download { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Wêrom bondelje?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Besparje { $percent }%</span> op it jierplan fan { -brand-name-relay-premium }
 
 ##
 
