@@ -140,6 +140,12 @@ vpn-add-relay-to-protect = Adicione o { -brand-name-firefox-relay } à sua assin
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Adicione o <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Proteção com máscaras de email
+vpn-shared-relay-phone-masking = Proteção com máscaras de nº de celular
+vpn-shared-get-vpn-plus-relay = Tenha { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Por que agrupar?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Economize { $percent }%</span> no plano anual do { -brand-name-relay-premium }
 
 ##
 
