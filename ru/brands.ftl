@@ -151,8 +151,11 @@
         [instrumental] Инструментами разработчика
         [prepositional] Инструментах разработчика
     }
+-brand-name-fpn = FPN
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
+-brand-name-relay = Relay
+-brand-name-relay-premium = Relay Premium
 -brand-name-sync =
     { $case ->
        *[nominative] Синхронизация
@@ -163,8 +166,7 @@
         [prepositional] Синхронизации
         [verb] Синхронизируйте
     }
--brand-name-relay = Relay
--brand-name-fpn = FPN
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 

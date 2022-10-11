@@ -37,3 +37,4 @@ legal-mdn-plus-terms = Условия предоставления услуг { 
 legal-report-copyright = Сообщить о нарушении авторских прав или прав на товарный знак
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Условия предоставления услуг { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = Службы подписки { -brand-name-mozilla }
