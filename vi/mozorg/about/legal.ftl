@@ -37,3 +37,4 @@ legal-mdn-plus-terms = Điều khoản dịch vụ của { -brand-name-mdn-plus 
 legal-report-copyright = Báo cáo vi phạm bản quyền hoặc nhãn hiệu
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Điều khoản dịch vụ của { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = Dịch vụ đăng ký của { -brand-name-mozilla }

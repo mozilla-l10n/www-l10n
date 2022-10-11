@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Chọn gói thuê bao phù hợp với 
 vpn-shared-pricing-variable-heading = Chọn một gói phù hợp với bạn
 vpn-shared-pricing-variable-sub-heading = Tất cả các gói của chúng tôi bao gồm:
 vpn-shared-pricing-recommended-offer = Được đề xuất
-vpn-shared-pricing-plan-6-month = 6 tháng
+vpn-shared-pricing-plan-12-month-v2 = Gói 12 tháng
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 tháng
+vpn-shared-pricing-plan-monthly-v2 = Gói hàng tháng
+# Outdated string
 vpn-shared-pricing-plan-monthly = Hàng tháng
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/tháng</span>
 vpn-shared-pricing-get-6-month = Nhận gói 6 tháng
 # Outdated string
 vpn-shared-pricing-get-12-month = Nhận gói 12 tháng
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Chọn gói 6 tháng
 vpn-shared-pricing-get-12-month-v2 = Chọn gói 12 tháng
 vpn-shared-pricing-get-monthly = Nhận gói hàng tháng
@@ -125,6 +129,23 @@ vpn-subnav-subscribe = Đăng ký { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Chúng tôi sử dụng cookie để hiểu đối tác liên kết nào đã dẫn bạn đến { -brand-name-mozilla-vpn }. Chúng tôi không chia sẻ thông tin nhận dạng cá nhân với các đối tác của mình. Đọc <a { $attrs }>chính sách riêng tư</a> của chúng tôi.
 vpn-shared-affiliate-notification-reject = Từ chối
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Tăng quyền riêng tư của bạn với { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Thêm { -brand-name-firefox-relay } vào thuê bao của bạn để bảo vệ email và số điện thoại của bạn. <a href="{ $url }">Tìm hiểu thêm</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Thêm <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Che dấu email
+vpn-shared-relay-phone-masking = Che giấu điện thoại
+vpn-shared-get-vpn-plus-relay = Nhận { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Tại sao đăng ký combo?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Tiết kiệm { $percent }%</span> khi mua gói hàng năm của { -brand-name-relay-premium }
 
 ##
 
