@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = 請輸入有效的電子郵件地址
 newsletter-form-you-must-agree-to = 您必須同意隱私權公告
 newsletter-form-your-email-address = 您的 E-Mail 信箱
+newsletter-form-we-are-sorry-but-there = 很抱歉，我們的系統發生問題，請稍候再試一次！
+newsletter-form-please-select-country = 請選擇國家或地區
+newsletter-form-please-select-language = 請選擇語言
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = 選擇國家或地區
