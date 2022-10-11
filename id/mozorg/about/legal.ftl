@@ -36,3 +36,4 @@ legal-mdn-plus-terms = Persyaratan Layanan { -brand-name-mdn-plus }
 legal-report-copyright = Laporkan Pelanggaran Hak Cipta dan Merek Dagang
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Persyaratan Layanan { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = Layanan Langganan { -brand-name-mozilla }
