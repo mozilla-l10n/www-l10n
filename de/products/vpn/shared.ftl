@@ -82,8 +82,15 @@ vpn-shared-pricing-variable-heading = Wähle den Tarif, der zu dir passt
 
 vpn-shared-pricing-variable-sub-heading = Alle Tarife beinhalten:
 vpn-shared-pricing-recommended-offer = Empfehlung
-vpn-shared-pricing-plan-6-month = 6 Monate
+
+vpn-shared-pricing-plan-12-month-v2 = 12-Monats-Abo
+
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 Monate
+
+vpn-shared-pricing-plan-monthly-v2 = Monatliches Abo
+
+# Outdated string
 vpn-shared-pricing-plan-monthly = 1 Monat
 
 # Variables:
@@ -96,7 +103,9 @@ vpn-shared-pricing-get-6-month = 6-Monats-Abo wählen
 # Outdated string
 vpn-shared-pricing-get-12-month = 12-Monats-Abo wählen
 
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = 6-Monats-Abo wählen
+
 vpn-shared-pricing-get-12-month-v2 = 12-Monats-Abo wählen
 vpn-shared-pricing-get-monthly = 1-Monats-Abo wählen
 
@@ -155,5 +164,26 @@ vpn-shared-affiliate-notification-message = Wir verwenden Cookies, um zu versteh
 
 vpn-shared-affiliate-notification-reject = Ablehnen
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Schützen Sie mit { -brand-name-vpn } + { -brand-name-relay } Ihre Daten besser
+
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Fügen Sie { -brand-name-firefox-relay } zu Ihrem Abonnement hinzu, um Ihre E-Mail-Adresse und Telefonnummer zu schützen. <a href="{ $url }">Mehr erfahren</a>.
+
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> hinzufügen
+
+vpn-shared-relay-email-masking = E-Mail-Maskierung
+vpn-shared-relay-phone-masking = Maskierung der Telefonnummer
+vpn-shared-get-vpn-plus-relay = Holen Sie sich { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Warum ein Abo-Paket?
+
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Sparen Sie { $percent } %</span> auf ein { -brand-name-relay-premium } Jahresabo.
 
 ##
