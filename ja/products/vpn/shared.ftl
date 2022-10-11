@@ -82,8 +82,15 @@ vpn-shared-pricing-variable-heading = 自分に合ったプランを選択
 
 vpn-shared-pricing-variable-sub-heading = すべてのプランに以下が含まれます。
 vpn-shared-pricing-recommended-offer = おすすめ
-vpn-shared-pricing-plan-6-month = 6 か月
+
+vpn-shared-pricing-plan-12-month-v2 = 年額プラン
+
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 か月
+
+vpn-shared-pricing-plan-monthly-v2 = 月額プラン
+
+# Outdated string
 vpn-shared-pricing-plan-monthly = 毎月
 
 # Variables:
@@ -96,7 +103,9 @@ vpn-shared-pricing-get-6-month = 6 か月プランを契約
 # Outdated string
 vpn-shared-pricing-get-12-month = 12 か月プランを契約
 
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = 6 か月プランを契約
+
 vpn-shared-pricing-get-12-month-v2 = 12 か月プランを契約
 vpn-shared-pricing-get-monthly = 月額プランを契約
 
@@ -155,5 +164,26 @@ vpn-shared-affiliate-notification-message = 当社は、{ -brand-name-mozilla-vp
 
 vpn-shared-affiliate-notification-reject = 拒否する
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = { -brand-name-vpn } + { -brand-name-relay } でプライバシーを強化
+
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = サブスクリプションに { -brand-name-firefox-relay } を追加して、メールアドレスと電話番号を保護しましょう。<a href="{ $url }">もっと詳しく</a>
+
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> を追加
+
+vpn-shared-relay-email-masking = メールマスキング
+vpn-shared-relay-phone-masking = 電話マスキング
+vpn-shared-get-vpn-plus-relay = { -brand-name-relay } + { -brand-name-vpn } を入手
+vpn-shared-why-bundle = セット契約する理由
+
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = { -brand-name-relay-premium } 年額プランが <span>{ $percent }%</span> お得
 
 ##

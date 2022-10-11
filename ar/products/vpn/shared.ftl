@@ -82,8 +82,15 @@ vpn-shared-pricing-variable-heading = اختر خُطة تناسبك
 
 vpn-shared-pricing-variable-sub-heading = جميع خُططنا تتضمن ما يلي:
 vpn-shared-pricing-recommended-offer = يُنصح به
-vpn-shared-pricing-plan-6-month = 6 أشهر
+
+vpn-shared-pricing-plan-12-month-v2 = خطة 12 شهرًا
+
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 شهرًا
+
+vpn-shared-pricing-plan-monthly-v2 = الخطة الشهرية
+
+# Outdated string
 vpn-shared-pricing-plan-monthly = شهريًا
 
 # Variables:
@@ -96,7 +103,9 @@ vpn-shared-pricing-get-6-month = احصل على خطة مدتها 6 أشهر
 # Outdated string
 vpn-shared-pricing-get-12-month = احصل على خطة مدتها 12 شهرًا
 
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = احصل على خطة مُدتها 6 أشهر
+
 vpn-shared-pricing-get-12-month-v2 = احصل على خطة مُدتها 12 شهرًا
 vpn-shared-pricing-get-monthly = احصل على خطة شهرية
 
@@ -155,5 +164,26 @@ vpn-shared-affiliate-notification-message = نستخدم ملفات تعريف �
 
 vpn-shared-affiliate-notification-reject = رفض
 vpn-shared-affiliate-notification-ok = حاضر
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = زِد خصوصيتك مع { -brand-name-vpn } + { -brand-name-relay }
+
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = أضف { -brand-name-firefox-relay } إلى اشتراكك لِحماية بريدك الإلكتروني ورقم هاتفك. <a href="{ $url }">اطّلع على المزيد</a>.
+
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = أضف <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+
+vpn-shared-relay-email-masking = إخفاء البريد الإلكتروني
+vpn-shared-relay-phone-masking = إخفاء الهاتف
+vpn-shared-get-vpn-plus-relay = احصل على { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = ما سبب أهمية الحزمة؟
+
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>وفّر { $percent }%</span> على الخطة السنوية { -brand-name-relay-premium }
 
 ##
