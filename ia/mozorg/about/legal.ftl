@@ -37,3 +37,4 @@ legal-mdn-plus-terms = Terminos de servicio de { -brand-name-mdn-plus }
 legal-report-copyright = Reportar violation de derectos de autor o marca de fabrica
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Terminos de servicio de { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = Servicios de abonamento de { -brand-name-mozilla }
