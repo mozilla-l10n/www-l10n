@@ -12,3 +12,6 @@ about-this-site-report-a-bug = Паведаміць пра памылку
 about-this-site-read-the-docs = Прачытаць дакументацыю
 about-this-site-colophon = Калафон
 about-this-site-some-open-source-projects = Некаторыя праекты з адкрытым зыходным кодам, выкарыстаныя для стварэння гэтага сайта:
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = Сістэма лакалізацыі { -brand-name-mozilla } <a href="{ $fluent }">Fluent</a> для моўнага перакладу.
