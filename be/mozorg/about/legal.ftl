@@ -14,3 +14,5 @@ legal-terms = Умовы
 legal-our-websites = Нашы вэб-сайты
 legal-firefox-services = Паслугі { -brand-name-firefox }
 legal-webmaker = { -brand-name-webmaker }
+legal-privacy-trademarks = Прыватнасць і таварныя знакі
+legal-privacy-notices-and-policy = Паведамленні і палітыка прыватнасці
