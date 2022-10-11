@@ -21,3 +21,4 @@ legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Аб вашых правах
 legal-thunderbird = { -brand-name-thunderbird }
 legal-thunderbird-rights = { -brand-name-thunderbird }: Аб вашых правах
+legal-firefox-better-web = { -brand-name-firefox-better-web }
