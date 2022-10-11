@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = 選擇適合您的訂閱方案
 vpn-shared-pricing-variable-heading = 選擇適合您的方案
 vpn-shared-pricing-variable-sub-heading = 我們有下列方案:
 vpn-shared-pricing-recommended-offer = 推薦
-vpn-shared-pricing-plan-6-month = 6 個月
+vpn-shared-pricing-plan-12-month-v2 = 年度方案
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 個月
+vpn-shared-pricing-plan-monthly-v2 = 月租方案
+# Outdated string
 vpn-shared-pricing-plan-monthly = 每月
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = <span>每月</span> { $amount }
 vpn-shared-pricing-get-6-month = 訂閱 6 個月方案
 # Outdated string
 vpn-shared-pricing-get-12-month = 訂閱 12 個月方案
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = 訂閱半年繳方案
 vpn-shared-pricing-get-12-month-v2 = 訂閱年繳方案
 vpn-shared-pricing-get-monthly = 訂閱月繳方案
@@ -125,6 +129,10 @@ vpn-subnav-subscribe = 訂閱 { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = 我們使用 Cookie 來了解您是透過哪個合作廠商來到 { -brand-name-mozilla-vpn } 頁面。我們不會將可識別出您個人身份的資料分享給我們的夥伴，若需更多資訊請參考我們的<a { $attrs }>隱私權保護政策</a>。
 vpn-shared-affiliate-notification-reject = 拒絕
 vpn-shared-affiliate-notification-ok = 確定
+
+## VPN + Relay bundle offer
+
+vpn-shared-relay-phone-masking = 虛擬手機號碼轉接
 
 ##
 
