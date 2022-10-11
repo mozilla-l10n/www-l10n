@@ -65,7 +65,7 @@ vpn-landing-faq-info-question-heading = Apakah maklumat yang disimpan oleh { -br
 
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Kami mematuhi <a href="{ $principles }">Prinsip Privasi Data</a> { -brand-name-mozilla } dan kami hanya mengumpulkan data yang diperlukan untuk memastikan VPN beroperasi dan meningkatkan prestasi produk dari semasa ke semasa. Kami juga menjejaki data kempen dan rujukan di aplikasi mudah alih kami bagi membantu { -brand-name-mozilla } lebih memahami keberkesanan kempen pemasaran kami sendiri. Baca lebih lanjut di <a href="{ $notice }">Notis Privasi</a>.
 
 # Obsolete string
@@ -206,7 +206,7 @@ vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Dengan mengklik &quot;Daftar dalam Senarai Menunggu&quot;, anda bersetuju dengan <a href="{ $privacy }">Polisi Privasi </a> kami.
 
 vpn-landing-invite-your-information = Maklumat anda hanya akan digunakan untuk memaklumkan jika platform sudah tersedia atau tidak.

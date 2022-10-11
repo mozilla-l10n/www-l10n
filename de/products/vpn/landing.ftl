@@ -65,7 +65,7 @@ vpn-landing-faq-info-question-heading = Welche Informationen speichert { -brand-
 
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Wir halten uns strikt an die { -brand-name-mozilla } <a href="{ $principles }">Datenschutzprinzipien</a> und sammeln die Daten, die wir brauchen, um das VPN funktional zu erhalten das Produkt mit der Zeit zu verbessern. Außerdem tracken wir Kampagnen- und Empfehlungsdaten in unserer mobilen App, um { -brand-name-mozilla } zu helfen, die Effektivität unserer Marketing-Kampagnen nachzuvollziehen. Erfahren Sie in unserer <a href="{ $notice }">Datenschutzerklärung</a> mehr.
 
 # Obsolete string
@@ -206,7 +206,7 @@ vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Mit einem Klick auf „Der Warteliste beitreten“ stimmst du unserer <a href="{ $privacy }">Datenschutzerklärung</a> zu.
 
 vpn-landing-invite-your-information = Deine Daten werden nur verwendet, um dich über die Verfügbarkeit der Plattform zu informieren.

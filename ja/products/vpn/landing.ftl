@@ -65,7 +65,7 @@ vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } が保持す
 
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Mozilla は、{ -brand-name-mozilla } の<a href="{ $principles }">データプライバシー原則</a>を厳守し、収集するデータは、VPN を運用し、製品を継続的に改善するために必要なもののみです。また、Mozilla のモバイルアプリでキャンペーンデータや紹介データを追跡し、{ -brand-name-mozilla } が Mozilla のマーケティングキャンペーンの効果を把握できるようにしています。詳しくは <a href="{ $notice }">プライバシーポリシー</a> をご覧ください。
 
 # Obsolete string
@@ -206,7 +206,7 @@ vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = [ウェイトリストに登録] をクリックすると、当社の<a href="{ $privacy }">プライバシーポリシー</a>に同意したことになります。
 
 vpn-landing-invite-your-information = あなたの情報は、プラットフォームが利用可能になったことを通知する目的でのみ使用します。
