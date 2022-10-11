@@ -27,6 +27,8 @@ mobile-ios-see-your-open-tabs = Imejte odprte zavihke, pretekla iskanja in prilj
 mobile-ios-own-your-home = Obvladajte domači zaslon
 mobile-ios-get-to-the-parts = Skrajšajte si pot do spletnih mest, ki so vam pomembna. Izberite prikaz vseh odprtih zavihkov, nedavnih iskanj, zaznamkov in priljubljenih strani na enem mestu.
 # Obsolete string
+mobile-ios-add-firefox-across = Add { -brand-name-firefox } across your devices for secure, seamless browsing. { -brand-name-sync } your devices to take your favorite bookmarks, saved logins, passwords and browsing history wherever you go. Plus, send open tabs between your phone and desktop to pick up where you left off.
+# Obsolete string
 mobile-ios-keep-tabs-on = Ohranite pregled nad zavihki
 # Obsolete string
 mobile-ios-create-as-many = Ustvarite toliko zavihkov, kot želite, ne da bi se v njih izgubili. { -brand-name-firefox } prikazuje odprte zavihke v obliki sličic in oštevilčenih zavihkov, kar vam omogoča hitreje najti, kar potrebujete.

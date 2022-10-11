@@ -38,3 +38,9 @@ vpn-ip-address-you-dont-need = Naslova IP vam ni treba skrivati, bi si v nekater
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Obstajajo tudi posebne situacije, v katerih bi želeli skriti svoj naslov IP. Morda bi to želeli storiti med potovanjem. VPN vam omogoča <a href="{ $url }">več zasebnosti</a> tudi pri povezavi z omrežji WiFi za brskanje in nakupovanje, medtem ko odkrivate svet.
 vpn-ip-address-how-do-you = Kako ga lahko skrijete?
+# Obsolete string
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is = A VPN is a way to hide your IP address. <a href="{ $vpn }">When you use a VPN</a>, your external IP address will be coming from the VPN server’s external IP, rather than your location’s external IP address. So if your connecting VPN server is located in California, your external IP will look like it’s connected from California, no matter where you actually are. Plus, your online activity is sent over an encrypted, secure connection to your VPN server, giving you additional security and privacy. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> is one way to hide your IP address. We don’t keep activity logs or partner with third-party analytics platforms. We offer full-device protection for up to five devices with servers in { $countries }+ countries, you can connect to anywhere, from anywhere.
