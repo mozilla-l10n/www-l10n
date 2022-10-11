@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Size uygun abonelik planını seçin
 vpn-shared-pricing-variable-heading = Size uygun planı seçin
 vpn-shared-pricing-variable-sub-heading = Tüm planlarımızın ortak özellikleri:
 vpn-shared-pricing-recommended-offer = Önerilen
-vpn-shared-pricing-plan-6-month = 6 ay
+vpn-shared-pricing-plan-12-month-v2 = 12 aylık plan
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 ay
+vpn-shared-pricing-plan-monthly-v2 = Aylık plan
+# Outdated string
 vpn-shared-pricing-plan-monthly = Aylık
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/ay</span>
 vpn-shared-pricing-get-6-month = 6 aylık planı alın
 # Outdated string
 vpn-shared-pricing-get-12-month = 12 aylık planı alın
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = 6 aylık paket alın
 vpn-shared-pricing-get-12-month-v2 = 12 aylık paket alın
 vpn-shared-pricing-get-monthly = Aylık planı alın
@@ -125,6 +129,13 @@ vpn-subnav-subscribe = { -brand-name-mozilla-vpn }’e abone olun
 vpn-shared-affiliate-notification-message = Hangi iş ortağımızın sizi { -brand-name-mozilla-vpn }'e yönlendirdiğini anlamak için çerezleri kullanıyoruz. Kişisel bilgilerinizi iş ortaklarımızla paylaşmıyoruz. <a { $attrs }>Gizlilik Politikamızı</a> okuyun.
 vpn-shared-affiliate-notification-reject = Reddet
 vpn-shared-affiliate-notification-ok = Tamam
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = { -brand-name-vpn } + { -brand-name-relay } ile gizliliğinizi artırın
+vpn-shared-relay-email-masking = E-posta maskeleme
+vpn-shared-relay-phone-masking = Telefon maskeleme
+vpn-shared-why-bundle = Neden paket?
 
 ##
 
