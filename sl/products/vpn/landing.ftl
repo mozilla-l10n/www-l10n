@@ -33,6 +33,12 @@ vpn-landing-brand-trust-desc = Že več kot 20 let se { -brand-name-mozilla } bo
 vpn-landing-faq-heading = Pogosta vprašanja
 vpn-langing-faq-uses-question-heading = Kaj je VPN in za kaj se uporablja?
 # Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Prikrije vaš pravi <a href="{ $url }">naslov IP</a>. To zaščiti vašo identiteto in zakrije vašo lokacijo.
+# Obsolete string
+vpn-landing-faq-uses-conceal = Prikrije vaš pravi naslov IP. To zaščiti vašo identiteto in zakrije vašo lokacijo.
+vpn-landing-faq-uses-encrypt = Šifrira promet med vami in ponudnikom VPN, kar preprečuje, da bi mu katerikoli drug uporabnik tega omrežja prisluškoval ali ga spremenil.
+# Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Oglejte si <a href="{ $url }">pet življenjskih situacij</a>, v katerih bi na svoji napravi želeli VPN.
 vpn-landing-faq-info-question-heading = Katere podatke { -brand-name-mozilla-vpn } shranjuje?
@@ -45,6 +51,10 @@ vpn-landing-faq-competition-question-heading = Kakšen je { -brand-name-mozilla-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc-v2 = Čeprav se brezplačni VPN-ji zdijo privlačni, niso zavezani k zasebnosti kot { -brand-name-mozilla-vpn }. Proizvajalci drugih VPN-jev nimajo več kot 20-letne <a href="{ $url }">zgodovine</a> razvoja izdelkov, ki postavljajo ljudi in zasebnost na prvo mesto, kot jo ima { -brand-name-mozilla }.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc = Čeprav se brezplačni VPN-ji zdijo privlačni, niso zavezani k zasebnosti kot { -brand-name-mozilla-vpn }. Proizvajalci drugih VPN-jev nimajo več kot 20-letne <a href="{ $url }">zgodovine</a> razvoja izdelkov, ki postavljajo ljudi in zasebnost na prvo mesto, kot jo ima { -brand-name-mozilla }.
 vpn-landing-faq-compatibility-question-heading = S katerimi napravami je { -brand-name-mozilla-vpn } združljiv?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
@@ -94,6 +104,9 @@ vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (samo { -brand-name-ubuntu })
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (samo { -brand-name-ubuntu })
+# Outdated string
+vpn-landing-faq-refund-question-desc = You can get your money back within 30 days of purchasing your subscription. Contact us and submit the refund request by tapping the “Get Help” button in Settings on your { -brand-name-mozilla-vpn } app.
+vpn-landing-faq-manage-subscription-question-heading = Kako lahko upravljam svojo naročnino?
 vpn-landing-faq-link = Več pogosto zastavljenih vprašanj
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
