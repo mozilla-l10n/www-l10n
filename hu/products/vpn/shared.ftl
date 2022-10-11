@@ -134,10 +134,18 @@ vpn-shared-affiliate-notification-ok = OK
 
 vpn-shared-increase-your-privacy = Növelje adatvédelmét a { -brand-name-vpn } + a { -brand-name-relay } segítségével
 # Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Adja hozzá a { -brand-name-firefox-relay } szolgáltatást az előfizetéséhez, hogy megvédje e-mail-címét és telefonszámát. <a href="{ $url }">További információk</a>.
+# Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = A <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> hozzáadása
 vpn-shared-relay-email-masking = E-mail-maszkolás
 vpn-shared-relay-phone-masking = Telefonmaszkolás
+vpn-shared-get-vpn-plus-relay = A { -brand-name-vpn } + a { -brand-name-relay } beszerzése
+vpn-shared-why-bundle = Miért csomagban?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Spóroljon { $percent }%</span>-ot a { -brand-name-relay-premium } éves csomagján
 
 ##
 
