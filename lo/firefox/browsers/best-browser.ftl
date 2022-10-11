@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
+best-browser-find-your-best-browser = ຊອກຫາຕົວທ່ອງເວັບທີ່ດີທີ່ສຸດຂອງທ່ານສໍາລັບຄວາມໄວ, ຄວາມເປັນສ່ວນຕົວແລະຄວາມປອດໄພ.
 best-browser-privacy-speed-and-security = ຄວາມເປັນສ່ວນຕົວ, ຄວາມໄວ, ແລະ ຄວາມປອດໄພ.
 best-browser-how-to-choose-the-best = ວິທີການເລືອກຕົວທ່ອງເວັບທີ່ດີທີ່ສຸດສໍາລັບທ່ານ.
 best-browser-a-browser-built-for = ຕົວທ່ອງເວັບທີ່ສ້າງຂຶ້ນເພື່ອຄວາມໄວ.
