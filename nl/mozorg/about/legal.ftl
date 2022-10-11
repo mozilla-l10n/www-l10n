@@ -37,3 +37,4 @@ legal-mdn-plus-terms = Servicevoorwaarden { -brand-name-mdn-plus }
 legal-report-copyright = Inbreuk op auteursrecht of handelsmerk melden
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Servicevoorwaarden { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = { -brand-name-mozilla }-abonnementsdiensten

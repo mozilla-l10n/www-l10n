@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Kies een abonnement dat bij u past
 vpn-shared-pricing-variable-heading = Kies een abonnement dat bij u past
 vpn-shared-pricing-variable-sub-heading = Al onze abonnementen omvatten:
 vpn-shared-pricing-recommended-offer = Aanbevolen
-vpn-shared-pricing-plan-6-month = 6 maanden
+vpn-shared-pricing-plan-12-month-v2 = Jaarabonnement
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 maanden
+vpn-shared-pricing-plan-monthly-v2 = Maandabonnement
+# Outdated string
 vpn-shared-pricing-plan-monthly = Maandelijks
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/maand</span>
 vpn-shared-pricing-get-6-month = Abonnement voor 6 maanden afsluiten
 # Outdated string
 vpn-shared-pricing-get-12-month = Abonnement voor 12 maanden afsluiten
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Abonnement voor 6 maanden afsluiten
 vpn-shared-pricing-get-12-month-v2 = Abonnement voor 12 maanden afsluiten
 vpn-shared-pricing-get-monthly = Maandabonnement afsluiten
@@ -125,6 +129,23 @@ vpn-subnav-subscribe = Abonneren op { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = We gebruiken cookies om te begrijpen welke aangesloten partner u naar { -brand-name-mozilla-vpn } heeft geleid. We delen geen persoonlijk identificeerbare gegevens met onze partners. Lees ons <a { $attrs }>Privacybeleid</a>.
 vpn-shared-affiliate-notification-reject = Afwijzen
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Verhoog uw privacy met { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Voeg { -brand-name-firefox-relay } toe aan uw abonnement om uw e-mail en telefoonnummer te beschermen. <a href="{ $url }">Meer info</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> toevoegen
+vpn-shared-relay-email-masking = E-mailmaskering
+vpn-shared-relay-phone-masking = Telefoonmaskering
+vpn-shared-get-vpn-plus-relay = Download { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Waarom bundelen?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Bespaar { $percent }%</span> op het jaarabonnement van { -brand-name-relay-premium }
 
 ##
 

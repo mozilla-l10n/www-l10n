@@ -5,6 +5,7 @@
 newsletter-form-please-enter-a-valid = Voer een geldig e-mailadres in
 newsletter-form-you-must-agree-to = U moet akkoord gaan met de privacyverklaring
 newsletter-form-your-email-address = Uw e-mailadres
+newsletter-form-we-are-sorry-but-there = Het spijt ons, maar er was een probleem met ons systeem. Probeer het later nog eens!
 newsletter-form-please-select-country = Selecteer een land of regio
 newsletter-form-please-select-language = Selecteer een taal
 # Only localize "yourname". Do not change "@example.com".
