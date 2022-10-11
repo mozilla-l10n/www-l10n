@@ -64,8 +64,9 @@ vpn-shared-pricing-variable-heading-v2 = Izberite naročnino, ki vam ustreza
 vpn-shared-pricing-variable-heading = Izberite načrt, ki vam ustreza
 vpn-shared-pricing-variable-sub-heading = Vse naše naročnine vključujejo:
 vpn-shared-pricing-recommended-offer = Priporočamo
-vpn-shared-pricing-plan-6-month = 6 mesecev
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 mesecev
+# Outdated string
 vpn-shared-pricing-plan-monthly = Mesečno
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +75,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/mesec</span>
 vpn-shared-pricing-get-6-month = Get 6 month plan
 # Outdated string
 vpn-shared-pricing-get-12-month = Get 12 month plan
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Kupite 6-mesečno naročnino
 vpn-shared-pricing-get-12-month-v2 = Kupite 12-mesečno naročnino
 vpn-shared-pricing-get-monthly = Kupite mesečno naročnino
@@ -125,6 +127,16 @@ vpn-subnav-subscribe = Naročite se na { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Piškotke uporabljamo, da izvemo, preko katerega od naših partnerjev ste izvedeli za { -brand-name-mozilla-vpn }. S partnerji ne delimo nobenih podatkov, na podlagi katerih bi vas bilo možno prepoznati. Preberite našo <a { $attrs }>politiko zasebnosti</a>.
 vpn-shared-affiliate-notification-reject = Zavrni
 vpn-shared-affiliate-notification-ok = V redu
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Okrepite svojo zasebnost z { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Naročnini dodajte { -brand-name-firefox-relay }, ki ščiti vaš e-poštni naslov in telefonsko številko. <a href="{ $url }">Več o tem</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Dodajte <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 
 ##
 
