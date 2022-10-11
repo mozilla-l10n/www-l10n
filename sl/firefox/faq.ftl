@@ -45,6 +45,7 @@ is-firefox-safe = Je { -brand-name-firefox } varen?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = Ne le, da je { -brand-name-firefox } varen za uporabo, temveč ohranja varne tudi vaše zasebne podatke ohranja zasebne. { -brand-name-firefox-browser } samodejno preprečuje znanim sledilcem tretjih strani, sledilcem družbenih omrežij, kriptorudarjem in sledilcem prstnih odtisov, da bi zbirali vaše podatke. <a href="{ $url }">Več o zasebnosti naših izdelkov.</a>
 related-questions-safe = Povezana vprašanja: ali je { -brand-name-firefox } dober za zasebnost, ali je { -brand-name-firefox } varen, ali je { -brand-name-firefox } boljši za zasebnost
 does-firefox-sell = Ali { -brand-name-firefox } prodaja osebne podatke uporabnikov?
 
