@@ -8,6 +8,10 @@
 about-this-site-title = Аб гэтым сайце
 about-this-site-desc = Пра вэб-сайт www.mozilla.org і інструменты з адкрытым зыходным кодам, якія выкарыстоўваюцца для яго стварэння.
 # Variables:
+#   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
+#   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+about-this-site-this-website = Вэб-сайт www.mozilla.org існуе ўжо больш за два дзесяцігоддзі. Дакладней, з <a href="{ $archive }">часоў дыназаўраў</a>  па мерках Інтэрнэту. Такім чынам, www.mozilla.org з'яўляецца нарожным каменем Інтэрнэту, карані якога глыбока ідуць у рух за адкрыты код, які стаў сведкам <a href="{ $coderush }">стварэння { -brand-name-mozilla }</a>.
+# Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/
 #   $mozilla (url) link to https://www.mozilla.org/about/
