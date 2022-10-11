@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Válasszon olyan előfizetői csomagot,
 vpn-shared-pricing-variable-heading = Válasszon egy csomagot, amely megfelel az Ön számára
 vpn-shared-pricing-variable-sub-heading = Az összes csomagunk tartalmazza a következőket:
 vpn-shared-pricing-recommended-offer = Ajánlott
-vpn-shared-pricing-plan-6-month = 6 hónapos
+vpn-shared-pricing-plan-12-month-v2 = 12 hónapos előfizetés
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 hónapos
+vpn-shared-pricing-plan-monthly-v2 = Havi előfizetés
+# Outdated string
 vpn-shared-pricing-plan-monthly = Havi
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 vpn-shared-pricing-get-6-month = 6 hónapos csomag beszerzése
 # Outdated string
 vpn-shared-pricing-get-12-month = 12 hónapos csomag beszerzése
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = 6 hónapos csomag beszerzése
 vpn-shared-pricing-get-12-month-v2 = 12 hónapos csomag beszerzése
 vpn-shared-pricing-get-monthly = Havi csomag beszerzése
@@ -125,6 +129,15 @@ vpn-subnav-subscribe = Előfizetés a { -brand-name-mozilla-vpn }-re
 vpn-shared-affiliate-notification-message = Sütiket használunk annak megértésére, hogy melyik partnerünk vezette Önt a { -brand-name-mozilla-vpn }-hez. Személyazonosításra alkalmas adatokat nem osztunk meg partnereinkkel. Olvassa el <a { $attrs }>Adatvédelmi irányelveinket</a>.
 vpn-shared-affiliate-notification-reject = Elutasítás
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Növelje adatvédelmét a { -brand-name-vpn } + a { -brand-name-relay } segítségével
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = A <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> hozzáadása
+vpn-shared-relay-email-masking = E-mail-maszkolás
+vpn-shared-relay-phone-masking = Telefonmaszkolás
 
 ##
 

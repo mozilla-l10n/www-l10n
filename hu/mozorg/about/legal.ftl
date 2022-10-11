@@ -37,3 +37,4 @@ legal-mdn-plus-terms = Az { -brand-name-mdn-plus } szolgáltatási feltételei
 legal-report-copyright = Szerzői jogi vagy védjegyoltalmi visszaélések bejelentése
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = A { -brand-name-mozilla-hubs } szolgáltatási feltételei
+legal-mozilla-subscription-services = A { -brand-name-mozilla } előfizetéses szolgáltatásai
