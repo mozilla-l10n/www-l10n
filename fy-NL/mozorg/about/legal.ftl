@@ -37,3 +37,4 @@ legal-mdn-plus-terms = Tsjinstbetingsten { -brand-name-mdn-plus }
 legal-report-copyright = Ynbreuk op auteursrjocht as hannelsmerk rapportearje
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Tsjinstbetingsten { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = { -brand-name-mozilla }-abonnemintstsjinsten

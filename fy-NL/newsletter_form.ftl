@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = Fier in jildich e-mailadres yn
 newsletter-form-you-must-agree-to = Jo moatte akkoard gean mei de privacyferklearring
 newsletter-form-your-email-address = Jo e-mailadres
+newsletter-form-we-are-sorry-but-there = It spyt ús, mar der wie in probleem mei ús systeem. Probearje it letter nochris!
+newsletter-form-please-select-country = Selektearje in lân of regio
+newsletter-form-please-select-language = Selektearje in taal
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = jonamme@example.com
 newsletter-form-select-country-or-region = Selektearje lân of regio

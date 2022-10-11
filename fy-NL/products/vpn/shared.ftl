@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Kies in abonnemint dat by jo past
 vpn-shared-pricing-variable-heading = Kies in abonnemint dat by jo past
 vpn-shared-pricing-variable-sub-heading = Al ús abonneminten omfetsje:
 vpn-shared-pricing-recommended-offer = Oanrekommandearre
-vpn-shared-pricing-plan-6-month = 6 moannen
+vpn-shared-pricing-plan-12-month-v2 = Jierabonnemint
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 moannen
+vpn-shared-pricing-plan-monthly-v2 = Moanne-abonnemint
+# Outdated string
 vpn-shared-pricing-plan-monthly = Moanliks
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/moanne</span>
 vpn-shared-pricing-get-6-month = Abonnemint foar 6 moannen ôfslute
 # Outdated string
 vpn-shared-pricing-get-12-month = Abonnemint foar 12 moannen ôfslute
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Abonnemint foar 6 moannen ôfslute
 vpn-shared-pricing-get-12-month-v2 = Abonnemint foar 12 moannen ôfslute
 vpn-shared-pricing-get-monthly = Moanne-abonnemint ôfslute
@@ -125,6 +129,18 @@ vpn-subnav-subscribe = Abonnearje op { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Wy brûke cookies om te begripen hokker oansluten partner jo nei { -brand-name-mozilla-vpn } lied hat. Wy diele gjin persoanlik identifisearbere gegevens mei ús partners. Lês ús <a { $attrs }>Privacybelied</a>.
 vpn-shared-affiliate-notification-reject = Ofwize
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Ferheegje jo privacy mei { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Foegje { -brand-name-firefox-relay } ta oan jo abonnemint om jo e-mail en telefoannûmer te beskermjen. <a href="{ $url }">Mear ynfo</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> tafoegje
+vpn-shared-relay-email-masking = E-mailmaskearing
+vpn-shared-relay-phone-masking = Telefoanmaskearing
 
 ##
 
