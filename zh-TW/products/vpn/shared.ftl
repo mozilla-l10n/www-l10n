@@ -132,7 +132,14 @@ vpn-shared-affiliate-notification-ok = 確定
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = 使用 { -brand-name-vpn } + { -brand-name-relay } 加強保護隱私
+vpn-shared-relay-email-masking = 轉寄信箱
 vpn-shared-relay-phone-masking = 虛擬手機號碼轉接
+vpn-shared-get-vpn-plus-relay = 獲得 { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = 為什麼要一起買？
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = 訂閱 { -brand-name-relay-premium } 年約方案，<span>可享 { $percent }% 折扣</span>
 
 ##
 
