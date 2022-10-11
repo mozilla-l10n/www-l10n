@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Выберите план подпис�
 vpn-shared-pricing-variable-heading = Выберите тариф, который вам подходит
 vpn-shared-pricing-variable-sub-heading = Все наши тарифы включают:
 vpn-shared-pricing-recommended-offer = Рекомендуемые
-vpn-shared-pricing-plan-6-month = 6 месяцев
+vpn-shared-pricing-plan-12-month-v2 = План на 12 месяцев
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 месяцев
+vpn-shared-pricing-plan-monthly-v2 = Ежемесячный план
+# Outdated string
 vpn-shared-pricing-plan-monthly = Ежемесячно
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/месяц</span>
 vpn-shared-pricing-get-6-month = Купить 6-месячный тариф
 # Outdated string
 vpn-shared-pricing-get-12-month = Купить 12-месячный тариф
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Купить 6-месячный тариф
 vpn-shared-pricing-get-12-month-v2 = Купить 12-месячный тариф
 vpn-shared-pricing-get-monthly = Купить тариф с ежемесячной оплатой
@@ -125,6 +129,16 @@ vpn-subnav-subscribe = Подпишитесь на { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Мы используем куки, чтобы понять, какой аффилированный партнер привел вас к { -brand-name-mozilla-vpn }. Мы не передаем идентифицирующую вас информацию нашим партнерам. Прочитайте нашу <a { $attrs }>Политику конфиденциальности</a>.
 vpn-shared-affiliate-notification-reject = Отклонить
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Добавьте <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Псевдонимы электронной почты
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Сэкономьте { $percent }%</span> на годовом плане { -brand-name-relay-premium }
 
 ##
 
