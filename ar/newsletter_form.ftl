@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = يُرجى إدخال عنوان بريد إلكتروني صالح.
 newsletter-form-you-must-agree-to = يجب أن تُوافق على إشعار الخصوصية
 newsletter-form-your-email-address = عنوان البريد الإلكتروني
+newsletter-form-we-are-sorry-but-there = نأسف، حدثت مشكلة في نظامنا. من فضلك حاول ثانية فيما بعد!
+newsletter-form-please-select-country = يُرجى اختيار بلد أو منطقة
+newsletter-form-please-select-language = يُرجى اختيار لغة
 
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com

@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = 有効なメールアドレスを入力してください
 newsletter-form-you-must-agree-to = プライバシーに関する通知に同意する必要があります
 newsletter-form-your-email-address = メールアドレス
+newsletter-form-we-are-sorry-but-there = Mozilla のシステムに問題が発生しました。お手数ですが、後でもう一度試してください。
+newsletter-form-please-select-country = 国または地域を選択してください
+newsletter-form-please-select-language = 言語を選択してください
 
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
