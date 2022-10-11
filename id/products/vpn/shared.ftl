@@ -82,8 +82,15 @@ vpn-shared-pricing-variable-heading = Pilih paket yang sesuai untuk Anda
 
 vpn-shared-pricing-variable-sub-heading = Semua paket kami meliputi:
 vpn-shared-pricing-recommended-offer = Direkomendasikan
-vpn-shared-pricing-plan-6-month = 6 Bulan
+
+vpn-shared-pricing-plan-12-month-v2 = Paket 12 Bulan
+
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 Bulan
+
+vpn-shared-pricing-plan-monthly-v2 = Paket bulanan
+
+# Outdated string
 vpn-shared-pricing-plan-monthly = Bulanan
 
 # Variables:
@@ -96,7 +103,9 @@ vpn-shared-pricing-get-6-month = Dapatkan paket 6 bulan
 # Outdated string
 vpn-shared-pricing-get-12-month = Dapatkan paket 12 bulan
 
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Dapatkan paket 6 bulan
+
 vpn-shared-pricing-get-12-month-v2 = Dapatkan paket 12 bulan
 vpn-shared-pricing-get-monthly = Dapatkan paket bulanan
 
@@ -155,5 +164,26 @@ vpn-shared-affiliate-notification-message = Kami menggunakan kuki untuk mengetah
 
 vpn-shared-affiliate-notification-reject = Tolak
 vpn-shared-affiliate-notification-ok = Oke
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Tingkatkan privasi Anda dengan { -brand-name-vpn } + { -brand-name-relay }
+
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Tambahkan { -brand-name-firefox-relay } ke langganan Anda untuk melindungi email dan nomor telepon Anda. <a href="{ $url }">Pelajari selengkapnya</a>.
+
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Tambahkan <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+
+vpn-shared-relay-email-masking = Samarkan email
+vpn-shared-relay-phone-masking = Samarkan nomor telepon
+vpn-shared-get-vpn-plus-relay = Dapatkan { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Mengapa harus pilih bundel?
+
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Hemat { $percent }%</span> untuk paket tahunan { -brand-name-relay-premium }
 
 ##
