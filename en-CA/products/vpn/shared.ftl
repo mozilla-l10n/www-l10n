@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Choose a subscription plan that works f
 vpn-shared-pricing-variable-heading = Choose a plan that works for you
 vpn-shared-pricing-variable-sub-heading = All of our plans include:
 vpn-shared-pricing-recommended-offer = Recommended
-vpn-shared-pricing-plan-6-month = 6 Month
+vpn-shared-pricing-plan-12-month-v2 = 12 Month plan
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 Month
+vpn-shared-pricing-plan-monthly-v2 = Monthly plan
+# Outdated string
 vpn-shared-pricing-plan-monthly = Monthly
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 vpn-shared-pricing-get-6-month = Get 6 month plan
 # Outdated string
 vpn-shared-pricing-get-12-month = Get 12 month plan
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Get 6-month plan
 vpn-shared-pricing-get-12-month-v2 = Get 12-month plan
 vpn-shared-pricing-get-monthly = Get monthly plan
@@ -125,6 +129,17 @@ vpn-subnav-subscribe = Subscribe to { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = We use cookies to understand which affiliate partner led you to { -brand-name-mozilla-vpn }. We do not share personally identifying information with our partners. Read our <a { $attrs }>Privacy Policy</a>.
 vpn-shared-affiliate-notification-reject = Reject
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Increase your privacy with { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Add { -brand-name-firefox-relay } to your subscription to protect your email and phone number. <a href="{ $url }">Learn more</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Add <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Email masking
 
 ##
 

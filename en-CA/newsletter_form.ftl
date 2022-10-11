@@ -5,6 +5,7 @@
 newsletter-form-please-enter-a-valid = Please enter a valid email address
 newsletter-form-you-must-agree-to = You must agree to the privacy notice
 newsletter-form-your-email-address = Your email address
+newsletter-form-we-are-sorry-but-there = We are sorry, but there was a problem with our system. Please try again later!
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Select country or region
