@@ -47,6 +47,7 @@ firefox-accounts-help-us-build-a-better = ຊ່ວຍພວກເຮົາສ�
 firefox-accounts-get-into-the-open = ເຂົ້າສູ່ຈິດວິນຍານຂອງ open source ດ້ວຍການທົດສອບຜະລິດຕະພັນທີກຳລັງຈະອອກ.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = ຊ່ວຍພວກເຮົາຮັກສາ Big Tech ໃນການກວດສອບ.
+firefox-accounts-we-support-communities = ພວກເຮົາສະຫນັບສະຫນູນຊຸມຊົນທົ່ວໂລກທີ່ຢືນຂຶ້ນສໍາລັບອິນເຕີເນັດທີ່ດີ. ໃຫ້ສຽງຂອງທ່ານຮ່ວມເປັນໜື່ງໃນການຕໍ່ສູ້.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
