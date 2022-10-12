@@ -132,10 +132,17 @@ vpn-shared-affiliate-notification-ok = OK
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = Повысьте уровень конфиденциальности с помощью { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Добавьте { -brand-name-firefox-relay } в свою подписку, чтобы защитить свою электронную почту и номер телефона. <a href="{ $url }">Подробнее</a>.
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Добавьте <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Псевдонимы электронной почты
+vpn-shared-relay-phone-masking = Маскирование телефона
+vpn-shared-get-vpn-plus-relay = Получите { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Зачем набор решений?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Сэкономьте { $percent }%</span> на годовом плане { -brand-name-relay-premium }
