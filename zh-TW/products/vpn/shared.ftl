@@ -133,6 +133,12 @@ vpn-shared-affiliate-notification-ok = 確定
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = 使用 { -brand-name-vpn } + { -brand-name-relay } 加強保護隱私
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = 加訂 { -brand-name-firefox-relay } 來保護您的信箱與手機號碼。<a href="{ $url }">了解更多</a>。
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = 加入 <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = 轉寄信箱
 vpn-shared-relay-phone-masking = 虛擬手機號碼轉接
 vpn-shared-get-vpn-plus-relay = 獲得 { -brand-name-vpn } + { -brand-name-relay }
