@@ -82,8 +82,15 @@ vpn-shared-pricing-variable-heading = अपने हिसाब से को
 
 vpn-shared-pricing-variable-sub-heading = हमारे सभी प्लानों में ये शामिल हैं:
 vpn-shared-pricing-recommended-offer = सुझाव
-vpn-shared-pricing-plan-6-month = 6 माह
+
+vpn-shared-pricing-plan-12-month-v2 = 12-माह वाला प्लान
+
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 माह
+
+vpn-shared-pricing-plan-monthly-v2 = मासिक प्लान
+
+# Outdated string
 vpn-shared-pricing-plan-monthly = प्रतिमाह
 
 # Variables:
@@ -96,7 +103,9 @@ vpn-shared-pricing-get-6-month = 6 माह का प्लान लें
 # Outdated string
 vpn-shared-pricing-get-12-month = 12 माह का प्लान लें
 
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = 6-माह वाला प्लान लें
+
 vpn-shared-pricing-get-12-month-v2 = 12-माह वाला प्लान लें
 vpn-shared-pricing-get-monthly = मासिक प्लान लें
 
@@ -155,5 +164,26 @@ vpn-shared-affiliate-notification-message = हम कुकीज़ का उ
 
 vpn-shared-affiliate-notification-reject = अस्वीकृत करें
 vpn-shared-affiliate-notification-ok = ठीक है
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = { -brand-name-vpn } + { -brand-name-relay } के जरिए अपनी प्राइवेसी बढ़ाएं
+
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = अपने ईमेल और अपने फ़ोन नंबर की सुरक्षा के लिए अपने सब्सक्रिप्शन में { -brand-name-firefox-relay } जोड़ें। <a href="{ $url }">और जानें</a>।
+
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> जोड़ें
+
+vpn-shared-relay-email-masking = ईमेल मास्किंग
+vpn-shared-relay-phone-masking = फ़ोन मास्किंग
+vpn-shared-get-vpn-plus-relay = { -brand-name-vpn } + { -brand-name-relay } प्राप्त करें
+vpn-shared-why-bundle = दोनों साथ में क्यों?
+
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = { -brand-name-relay-premium } वार्षिक प्लान पर <span>{ $percent }%</span> की बचत करें
 
 ##

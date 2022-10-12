@@ -82,8 +82,15 @@ vpn-shared-pricing-variable-heading = Optez pour l’abonnement qui vous convien
 
 vpn-shared-pricing-variable-sub-heading = Tous nos abonnements comprennent :
 vpn-shared-pricing-recommended-offer = Notre recommandation
-vpn-shared-pricing-plan-6-month = 6 mois
+
+vpn-shared-pricing-plan-12-month-v2 = Abonnement annuel
+
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 mois
+
+vpn-shared-pricing-plan-monthly-v2 = Abonnement mensuel
+
+# Outdated string
 vpn-shared-pricing-plan-monthly = 1 mois
 
 # Variables:
@@ -96,7 +103,9 @@ vpn-shared-pricing-get-6-month = Optez pour un abonnement de 6 mois
 # Outdated string
 vpn-shared-pricing-get-12-month = Optez pour un abonnement de 12 mois
 
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Optez pour un abonnement de 6 mois
+
 vpn-shared-pricing-get-12-month-v2 = Optez pour un abonnement de 12 mois
 vpn-shared-pricing-get-monthly = Optez pour un abonnement mensuel
 
@@ -155,5 +164,26 @@ vpn-shared-affiliate-notification-message = Nous utilisons des cookies pour comp
 
 vpn-shared-affiliate-notification-reject = Refuser
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Protégez davantage votre vie privée avec { -brand-name-vpn } et { -brand-name-relay }
+
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Ajoutez { -brand-name-firefox-relay } à votre abonnement pour sécuriser votre adresse e-mail et votre numéro de téléphone. <a href="{ $url }">En savoir plus</a>.
+
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Ajoutez <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+
+vpn-shared-relay-email-masking = Masquez votre adresse e-mail
+vpn-shared-relay-phone-masking = Masquez votre numéro de téléphone
+vpn-shared-get-vpn-plus-relay = Passez à { -brand-name-vpn } et { -brand-name-relay }
+vpn-shared-why-bundle = Pourquoi les deux en même temps ?
+
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = Parce que <span>vous économiserez { $percent } %</span> par rapport à un abonnement annuel à { -brand-name-relay-premium }.
 
 ##
