@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = Veuillez saisir une adresse électronique valide
 newsletter-form-you-must-agree-to = Vous devez accepter la politique de confidentialité
 newsletter-form-your-email-address = Votre adresse électronique
+newsletter-form-we-are-sorry-but-there = Nous sommes désolés, mais un problème est apparu dans notre système. Veuillez réessayer un peu plus tard !
+newsletter-form-please-select-country = Veuillez sélectionner un pays ou une région
+newsletter-form-please-select-language = Veuillez sélectionner une langue
 
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = votrenom@example.com
