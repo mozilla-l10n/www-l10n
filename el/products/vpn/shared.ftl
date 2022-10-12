@@ -64,8 +64,10 @@ vpn-shared-pricing-variable-heading-v2 = Επιλέξτε το πακέτο συ
 vpn-shared-pricing-variable-heading = Επιλέξτε το πρόγραμμα που σας ταιριάζει
 vpn-shared-pricing-variable-sub-heading = Όλα μας τα πακέτα περιλαμβάνουν:
 vpn-shared-pricing-recommended-offer = Προτείνεται
-vpn-shared-pricing-plan-6-month = 6 μηνών
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 μηνών
+vpn-shared-pricing-plan-monthly-v2 = Μηνιαίο πακέτο
+# Outdated string
 vpn-shared-pricing-plan-monthly = Μηνιαία
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +76,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/μήνα</span>
 vpn-shared-pricing-get-6-month = Απόκτηση 6-μηνιαίου προγράμματος
 # Outdated string
 vpn-shared-pricing-get-12-month = Απόκτηση 12-μηνιαίου προγράμματος
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Απόκτηση 6-μηνιαίου πακέτου
 vpn-shared-pricing-get-12-month-v2 = Απόκτηση ετήσιου πακέτου
 vpn-shared-pricing-get-monthly = Απόκτηση μηνιαίου προγράμματος
@@ -125,6 +128,9 @@ vpn-subnav-subscribe = Συνδρομή στο { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Χρησιμοποιούμε cookies για να κατανοήσουμε ποιος συνεργάτης σάς οδήγησε στο { -brand-name-mozilla-vpn }. Δεν μοιραζόμαστε προσωπικά στοιχεία ταυτοποίησης με τους συνεργάτες μας. Διαβάστε την <a { $attrs }>Πολιτική απορρήτου</a> μας.
 vpn-shared-affiliate-notification-reject = Απόρριψη
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
 
 ##
 

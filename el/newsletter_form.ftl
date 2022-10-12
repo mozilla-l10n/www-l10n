@@ -5,6 +5,7 @@
 newsletter-form-please-enter-a-valid = Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση email
 newsletter-form-you-must-agree-to = Πρέπει να συμφωνήσετε με τη σημείωση απορρήτου
 newsletter-form-your-email-address = Η διεύθυνση email σας
+newsletter-form-please-select-language = Παρακαλούμε επιλέξτε μια γλώσσα
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Επιλέξτε χώρα ή περιοχή
