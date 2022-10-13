@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = Sila masukkan alamat e-mel yang sah
 newsletter-form-you-must-agree-to = Anda mesti bersetuju dengan notis privasi
 newsletter-form-your-email-address = Alamat e-mel anda
+newsletter-form-we-are-sorry-but-there = Kami mohon maaf, tetapi ada masalah dengan sistem kami. Sila cuba sebentar lagi!
+newsletter-form-please-select-country = Sila pilih negara atau wilayah
+newsletter-form-please-select-language = Sila pilih bahasa
 
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = namaanda@contoh.com
