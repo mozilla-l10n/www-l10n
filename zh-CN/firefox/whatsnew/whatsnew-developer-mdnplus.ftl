@@ -11,10 +11,12 @@ developer-mdnplus-congrats-you-now-have-latest = 恭喜，您正在使用的是�
 # Main title
 developer-mdnplus-more-mdn-your-mdn = 更多 { -brand-name-mdn }。<em>您的</em> { -brand-name-mdn }。
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs }是一个协作撰写 CSS、HTML、JavaScript 和 Web API 等 Web 平台上技术文档的开源项目。我们还为新手开发者和学生提供一系列的学习资源。
+developer-mdnplus-support-mdn-and-make = 为 { -brand-name-mdn } 添砖加瓦 <em>&&</em> 将 { -brand-name-mdn } 化为己用。
 # CTA button
 developer-mdnplus-get-started = 开始使用
 developer-mdnplus-whats-included = 包含项目
 developer-mdnplus-notifications = 通知
+developer-mdnplus-collections = 精选
 developer-mdnplus-mdn-offline = { -brand-name-mdn } 离线版
 developer-mdnplus-mdns-entire-library-at-your = { -brand-name-mdn } 的整套文档库触手可及：离线
 developer-mdnplus-resources-for-developers = 源于开发者，服务开发者。

@@ -11,6 +11,13 @@ about-this-site-desc = 关于 www.mozilla.org 及构建本网站所用到的开�
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 about-this-site-this-website = www.mozilla.org 上线于互联网的“<a href="{ $archive }">恐龙时代</a>”，迄今已逾二十年。www.mozilla.org 根植于开源运动，见证了 <a href="{ $coderush }">{ -brand-name-mozilla } 的诞生</a>，无愧为 Web 的基石。
+# Variables:
+#   $firefox (url) link to https://www.mozilla.org/firefox/new/
+#   $vpn (url) link to https://www.mozilla.org/products/vpn/
+#   $mozilla (url) link to https://www.mozilla.org/about/
+#   $book (url) link to https://www.mozilla.org/book/
+#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+about-this-site-today = 如今，本站已转变为人们下载 <a href="{ $firefox }">{ -brand-name-firefox }</a>、尝试 <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>，以及了解<a href="{ $mozilla }">关于 { -brand-name-mozilla }</a> 的更多消息的地方。你或许可以在这里找到一些我们留下<a href="{ $book }">的彩蛋</a>。
 about-this-site-like-many = 正如我们的其他产品一样，本站同样属于开源项目：
 about-this-site-view-source = 到 { -brand-name-github } 查看源代码
 about-this-site-report-a-bug = 报告缺陷（Bug）
