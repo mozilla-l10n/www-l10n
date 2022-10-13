@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = Rhowch gyfeiriad e-bost dilys.
 newsletter-form-you-must-agree-to = Rhaid i chi gytuno i'r hysbysiad preifatrwydd
 newsletter-form-your-email-address = Eich cyfeiriad e-bost
+newsletter-form-we-are-sorry-but-there = Mae'n ddrwg gennym, ond roedd anhawster gyda'n system. Rhowch gynnig arall arno eto'n hwyrach!
+newsletter-form-please-select-country = Dewiswch wlad neu ardal
+newsletter-form-please-select-language = Dewiswch iaith.
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = eichenw@example.com
 newsletter-form-select-country-or-region = Dewiswch wlad neu ardal

@@ -37,3 +37,4 @@ legal-mdn-plus-terms = Amodau Gwasanaeth { -brand-name-mdn-plus }
 legal-report-copyright = Adrodd ar Dorri Hawlfraint neu Nodau Masnach
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Amodau Gwasanaeth { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = Gwasanaethau Tanysgrifio { -brand-name-mozilla }

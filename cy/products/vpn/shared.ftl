@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Dewiswch gynllun tanysgrifio sy'n gweit
 vpn-shared-pricing-variable-heading = Dewiswch gynllun sy'n gweithio i chi
 vpn-shared-pricing-variable-sub-heading = Mae pob un o'n cynlluniau yn cynnwys:
 vpn-shared-pricing-recommended-offer = Argymhellwn
-vpn-shared-pricing-plan-6-month = 6 Mis
+vpn-shared-pricing-plan-12-month-v2 = Cynllun 12 mis
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 Mis
+vpn-shared-pricing-plan-monthly-v2 = Cynllun misol
+# Outdated string
 vpn-shared-pricing-plan-monthly = Misol
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 vpn-shared-pricing-get-6-month = Cael cynllun 6 mis
 # Outdated string
 vpn-shared-pricing-get-12-month = Cael cynllun 12 mis
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Cael cynllun 6 mis
 vpn-shared-pricing-get-12-month-v2 = Cael cynllun 12 mis
 vpn-shared-pricing-get-monthly = Cael cynllun misol
@@ -125,6 +129,23 @@ vpn-subnav-subscribe = Tanysgrifiwch i { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Rydym yn defnyddio cwcis i ddeall pa bartner cyswllt a'ch tywysodd at { -brand-name-mozilla-vpn }. Nid ydym yn rhannu gwybodaeth sy'n dynodi pwy ydych yn bersonol gyda'n partneriaid. Darllenwch ein <a { $attrs }>Polisi Preifatrwydd</a>.
 vpn-shared-affiliate-notification-reject = Gwrthod
 vpn-shared-affiliate-notification-ok = Iawn
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Cynyddwch eich preifatrwydd gyda { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Ychwanegwch { -brand-name-firefox-relay } i'ch tanysgrifiad i ddiogelu eich e-bost a'ch rhif ffôn. <a href="{ $url }">Dysgu rhagor</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Ychwanegwch <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Arallenwau e-byst
+vpn-shared-relay-phone-masking = Cuddio ffôn
+vpn-shared-get-vpn-plus-relay = Cael { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Pam bwndelu?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Arbed { $percent }%</span> ar gynllun blynyddol { -brand-name-relay-premium }
 
 ##
 
