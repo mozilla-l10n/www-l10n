@@ -140,7 +140,7 @@ vpn-add-relay-to-protect = Додайте { -brand-name-firefox-relay } до с�
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Додати <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Маскування електронної пошти
-vpn-shared-relay-phone-masking = Маскування телефону
+vpn-shared-relay-phone-masking = Маскування номера телефону
 vpn-shared-get-vpn-plus-relay = Отримати { -brand-name-vpn } + { -brand-name-relay }
 vpn-shared-why-bundle = Чому пакет?
 # Variables:
