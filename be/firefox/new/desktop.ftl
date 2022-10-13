@@ -46,7 +46,7 @@ firefox-desktop-its-your-internet = Гэта ваш інтэрнэт. Расфа
 # Obsolete string
 firefox-desktop-download-master-password = Галоўны пароль
 firefox-desktop-download-we-block-the-ad = Мы блакуем рэкламныя трэкеры. Вы хутчэй аглядаеце Інтэрнэт.
-firefox-desktop-download-ads-are-distracting = Рэклама адцягвае ўвагу і прымушае веб-старонкі загружацца павольней, а іх трэкеры сочаць за кожным вашым крокам у Інтэрнэце. { -brand-name-firefox-browser } аўтаматычна блакуе большасць трэкераў, таму няма патрэбы рыцца у наладах бяспекі.
+firefox-desktop-download-ads-are-distracting = Рэклама адцягвае ўвагу і прымушае вэб-старонкі загружацца павольней, а іх трэкеры сочаць за кожным вашым крокам у Інтэрнэце. { -brand-name-firefox-browser } аўтаматычна блакуе большасць трэкераў, таму няма патрэбы рыцца у наладах бяспекі.
 firefox-desktop-download-see-your-report = Праглядзіце справаздачу аб ахове
 firefox-desktop-download-for-everyone = { -brand-name-firefox } — для ўсіх
 firefox-desktop-download-available-in-over = Даступны на больш чым 90 мовах і сумяшчальны з { -brand-name-windows }, { -brand-name-mac-short } і { -brand-name-linux }, { -brand-name-firefox } працуе незалежна ад таго, чым вы карыстаецеся і дзе вы знаходзіцеся. Пераканайцеся, што ваша аперацыйная сістэма абноўлена для найлепшай работы.

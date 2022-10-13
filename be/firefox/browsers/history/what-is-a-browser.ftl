@@ -26,7 +26,7 @@ what-is-a-browser-when-the-web-browser = Калі вэб-браўзер атры
 # Variables:
 #   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
 #   $url(url) - link to https://wikipedia.org/wiki/URL
-what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Гіперспасылкі</a> дазваляюць карыстальнікам пераходзіць да іншых старонак або сайтаў у Інтэрнэце. Кожная вэб-старонка, выява і відэа мае свой унікальны <a href="{ $url }">ўніфікаваны лакатар рэсурсаў (Uniform Resource Locator)</a> (URL), які таксама вядомы як вэб-адрас. Элементы, апісаныя ў HTML, могуць мець веб-адрас, які паведамляе браўзеру, да якога сервера ў Інтэрнэце звяртацца, каб атрымаць даныя. Таксама HTML дае знаць браўзеру, дзе на старонцы павінны знаходзіцца гэтыя элементы.
+what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Гіперспасылкі</a> дазваляюць карыстальнікам пераходзіць да іншых старонак або сайтаў у Інтэрнэце. Кожная вэб-старонка, выява і відэа мае свой унікальны <a href="{ $url }">ўніфікаваны лакатар рэсурсаў (Uniform Resource Locator)</a> (URL), які таксама вядомы як вэб-адрас. Элементы, апісаныя ў HTML, могуць мець вэб-адрас, які паведамляе браўзеру, да якога сервера ў Інтэрнэце звяртацца, каб атрымаць даныя. Таксама HTML дае знаць браўзеру, дзе на старонцы павінны знаходзіцца гэтыя элементы.
 what-is-a-browser-cookies-not-the = Кукі (Cookies)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
