@@ -37,3 +37,4 @@ legal-mdn-plus-terms = Podmienky používania služby { -brand-name-mdn-plus }
 legal-report-copyright = Nahlásiť porušenie autorských práv alebo ochrannej známky
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Podmienky používania služby { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = Služby predplatného spoločnosti { -brand-name-mozilla }

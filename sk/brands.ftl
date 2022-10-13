@@ -380,6 +380,7 @@
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
+-brand-name-fpn = FPN
 -brand-name-lockwise =
     { $case ->
        *[nom] Lockwise
@@ -400,14 +401,15 @@
         [ins] Monitorom
     }
     .gender = masculine
+-brand-name-relay = Relay
+-brand-name-relay-premium = Relay Premium
 -brand-name-sync =
     { $form ->
        *[noun] Synchronizácia
         [verb] Synchronizovať
         [verb2] Synchronizujte
     }
--brand-name-relay = Relay
--brand-name-fpn = FPN
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 

@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Vyberte si plán predplatného, ktorý 
 vpn-shared-pricing-variable-heading = Vyberte si plán, ktorý vám vyhovuje
 vpn-shared-pricing-variable-sub-heading = Všetky naše plány zahŕňajú:
 vpn-shared-pricing-recommended-offer = Odporúčané
-vpn-shared-pricing-plan-6-month = 6 mesiacov
+vpn-shared-pricing-plan-12-month-v2 = 12-mesačný plán
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 mesiacov
+vpn-shared-pricing-plan-monthly-v2 = Mesačný plán
+# Outdated string
 vpn-shared-pricing-plan-monthly = Mesačne
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span> mesačne</span>
 vpn-shared-pricing-get-6-month = Získajte 6-mesačný plán
 # Outdated string
 vpn-shared-pricing-get-12-month = Získajte 12-mesačný plán
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Získajte 6-mesačný plán
 vpn-shared-pricing-get-12-month-v2 = Získajte 12-mesačný plán
 vpn-shared-pricing-get-monthly = Získajte mesačný plán
@@ -125,6 +129,10 @@ vpn-subnav-subscribe = Predplaťte si službu { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Používame cookies, aby sme pochopili, ktorý partner vás priviedol k { -brand-name-mozilla-vpn }. S našimi partnermi nezdieľame osobné identifikačné údaje. Prečítajte si naše <a { $attrs }>Zásady ochrany osobných údajov</a>.
 vpn-shared-affiliate-notification-reject = Odmietnuť
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Zvýšte ochranu svojho súkromia pomocou { -brand-name-vpn } + { -brand-name-relay }
 
 ##
 
