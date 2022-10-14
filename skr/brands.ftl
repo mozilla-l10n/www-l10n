@@ -27,6 +27,10 @@
 
 ## Firefox browsers
 
+-brand-name-firefox = فائرفوکس
+-brand-name-firefox-beta = فائرفوکس بیٹا
+-brand-name-firefox-browser = فائرفوکس براؤزر
+-brand-name-firefox-browsers = فائرفوکس براؤزر
 
 ## Firefox browsers (short names)
 
@@ -61,12 +65,32 @@
 
 ## Other browsers
 
+-brand-name-chrome = کروم
+-brand-name-edge = ایج
+-brand-name-ie = Internet Explorer
+-brand-name-opera = Opera
+-brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
+-brand-name-android = Android
+-brand-name-chromeos = Chrome OS
+-brand-name-ios = iOS
+-brand-name-linux = Linux
+-brand-name-mac = macOS
+-brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
+-brand-name-windows = Windows
+-brand-name-xp = XP
 
 ## Apple products
 
+-brand-name-app-store = App Store
+-brand-name-ipad = iPad
+-brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 

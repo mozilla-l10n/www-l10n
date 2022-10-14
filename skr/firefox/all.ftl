@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-language = زبان:
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
