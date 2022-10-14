@@ -31,9 +31,13 @@
 -brand-name-firefox-beta = فائرفوکس بیٹا
 -brand-name-firefox-browser = فائرفوکس براؤزر
 -brand-name-firefox-browsers = فائرفوکس براؤزر
+-brand-name-firefox-focus = فائرفوکس فوکس
+-brand-name-firefox-lite = فائڑفوکس لائٹ
+-brand-name-firefox-nightly = فائرفوکس نائٹلی
 
 ## Firefox browsers (short names)
 
+-brand-name-nightly = نائٹلی
 
 ## Firefox browsers (legacy)
 
