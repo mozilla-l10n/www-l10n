@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-release-notes = ریلیز نوٹس
+firefox-all-source-code = ماخذ کوڈ
+firefox-all-need-help = بھلا مدد دی لوڑ ہے؟
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = مدد گھنو
 firefox-all-browser = براؤزر:
 firefox-all-platform = پلیٹ فارم:
 firefox-all-language = زبان:
