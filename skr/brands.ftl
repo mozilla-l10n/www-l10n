@@ -104,3 +104,4 @@
 
 ## Google products
 
+-brand-name-youtube = YouTube

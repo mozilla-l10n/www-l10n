@@ -5,7 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-browser = براؤزر:
+firefox-all-platform = پلیٹ فارم:
 firefox-all-language = زبان:
+firefox-all-lang-multi = ڈھڳ زباناں
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری نوٹس
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
