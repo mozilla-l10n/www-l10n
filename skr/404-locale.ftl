@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.allizom.org/404-locale/
 
-not-found-page-sorry-we-cant-find-that-page = افسوس، اساں او ورقہ کائنی لبھ سڳے
-not-found-page-go-back = واپس ون٘ڄو
+not-found-locale-not-yet-translated = ورقے دا اڄݨ ترجمہ کائنی تھیا
