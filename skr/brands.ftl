@@ -11,6 +11,8 @@
 
 -brand-name-amazon = ایمازون
 -brand-name-apple = ایپل
+-brand-name-creative-commons = Creative Commons
+-brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = گوگل
 -brand-name-hulu = ہولو
@@ -19,6 +21,7 @@
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-mullvad = مُلواد
+-brand-name-netscape = Netscape
 -brand-name-twitter = ٹویٹر
 -brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
@@ -31,12 +34,18 @@
 -brand-name-firefox-beta = فائرفوکس بیٹا
 -brand-name-firefox-browser = فائرفوکس براؤزر
 -brand-name-firefox-browsers = فائرفوکس براؤزر
+-brand-name-firefox-developer-edition = Firefox Developer Edition
+-brand-name-firefox-enterprise = Firefox Enterprise
+-brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-focus = فائرفوکس فوکس
 -brand-name-firefox-lite = فائڑفوکس لائٹ
 -brand-name-firefox-nightly = فائرفوکس نائٹلی
 
 ## Firefox browsers (short names)
 
+-brand-name-beta = Beta
+-brand-name-developer-edition = تخلیق کار ایڈٰیشن
+-brand-name-lite = لائٹ
 -brand-name-nightly = نائٹلی
 
 ## Firefox browsers (legacy)
@@ -101,7 +110,11 @@
 
 ## Facebook products
 
+-brand-name-workplace = Workplace
 
 ## Google products
 
+-brand-name-chromium = Chromium
+-brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook
