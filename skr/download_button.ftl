@@ -9,6 +9,7 @@ download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-whats-new = نواں کیا ہے؟
+download-button-systems-languages = سسٹم &amp; زباناں
 download-button-recommended = سفارش تھئے ہوئے
 download-button-firefox-other-platforms = ٻئے پلیٹ فارماں تے زباناں کیتے { -brand-name-firefox }
 download-button-update-your-firefox = آپݨی { -brand-name-firefox } اپ ڈیٹ کرو

@@ -4,4 +4,5 @@
 
 error-page-mozilla = { -brand-name-mozilla }
 error-page-firefox = { -brand-name-firefox }
+error-page-error-page-internal-server-error = 500: اندرلے سرور دی خرابی
 error-page-something-went-wrong = کجھ خرابی تھی ڳئی

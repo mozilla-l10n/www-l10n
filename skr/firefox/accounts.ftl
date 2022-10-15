@@ -11,6 +11,7 @@ firefox-accounts-enter-your-email-address = شروع کرݨ کیتے آپݨاں 
 firefox-accounts-already-have-an-account = بھلا پہلے ہی ہک کھاتہ ہے؟
 firefox-accounts-sign-in = سائن ان
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-get-the-knowledge = آپݨے آپ کوں محفوظ رکھݨ کیتے علم گھنو۔
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

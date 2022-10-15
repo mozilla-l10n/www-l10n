@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/404/
 
+not-found-page-not-found-page-page-not-found = 404: ورقہ کائنی لبھا
 not-found-page-sorry-we-cant-find-that-page = افسوس، اساں او ورقہ کائنی لبھ سڳے
 not-found-page-go-back = واپس ون٘ڄو

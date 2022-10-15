@@ -17,6 +17,7 @@ firefox-all-language = زبان:
 firefox-all-lang-multi = ڈھڳ زباناں
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری نوٹس
+firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
 firefox-all-msi-installers = MSI انسٹالرز
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
