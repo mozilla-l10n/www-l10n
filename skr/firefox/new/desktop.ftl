@@ -22,9 +22,13 @@ firefox-desktop-download-screenshots = سکرین شاٹاں
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت(ای ٹی پی)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> کیتے { -brand-name-firefox-browser } گھنو
+firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } کنوں ٻئے گھنو
+firefox-desktop-download-just-download-the-browser = ٻس براؤزر ڈاؤن لوڈ کرو
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = تقریباً اُتھ!
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10

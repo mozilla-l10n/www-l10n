@@ -9,9 +9,13 @@
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
+firefox-new-need-help = بھلا مدد دی لوڑ ہے؟
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
+firefox-new-windows-10 = { -brand-name-windows } 10
 
 # Not-Required
 
