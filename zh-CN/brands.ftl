@@ -77,11 +77,13 @@
 ## Firefox products (short names)
 
 -brand-name-devtools = 开发者工具
+-brand-name-fpn = FPN
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-sync = 同步
 -brand-name-relay = Relay
--brand-name-fpn = FPN
+-brand-name-relay-premium = Relay Premium
+-brand-name-sync = 同步
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
