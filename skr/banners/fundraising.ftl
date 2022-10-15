@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-body-extra = بھلا تساں اڄ عطیہ دان کر سڳدے ہو؟
 banner-fundraising-monthly = ماہانہ
 banner-fundraising-one-time = ہک واری
 banner-fundraising-donate = عطیہ ݙیوو

@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/404-locale/
 
+not-found-locale-title = موزلا ڈاٹ آرگ براؤز کرݨ کیتے آپݨی زبان یا لوکیل چݨو
 not-found-locale-not-yet-translated = ورقے دا اڄݨ ترجمہ کائنی تھیا

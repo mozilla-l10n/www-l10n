@@ -8,6 +8,7 @@
 firefox-accounts-sign-in-to-monitor = { -brand-name-monitor } تے سائن ان تھیوو
 firefox-accounts-join-firefox = { -brand-name-firefox } وچ رلت کرو
 firefox-accounts-enter-your-email-address = شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو۔
+firefox-accounts-already-have-an-account = بھلا پہلے ہی ہک کھاتہ ہے؟
 firefox-accounts-sign-in = سائن ان
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 
