@@ -7,6 +7,7 @@
 
 home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = چنگے کیتے تِکھے۔
+home-with-2x-the-speed-built-in = ݙوڑی رفتار، پہلے کنوں موجود رازداری حفاظت تے { -brand-name-mozilla }  تے ایندے نال نال نویں { -brand-name-firefox } براؤز کرݨ کیتے ہک ݙاڈھا چنگا طریقہ ہے۔
 home-our-innovations = ساݙیاں جدتاں
 home-common-voice = { -brand-name-common-voice }
 home-extensions = ایکسٹنشناں
