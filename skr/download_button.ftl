@@ -17,6 +17,7 @@ download-button-get-firefox-android = { -brand-name-android } کیتے { -brand-
 download-button-get-firefox-ios = { -brand-name-ios } کیتے { -brand-name-firefox } گھنو
 download-button-google-play = ایں کوں{ -brand-name-google-play } تے گھنو
 download-button-free-google-play = ایں کوں{ -brand-name-google-play } تے مفت گھنو
+download-button-app-store = ایہ { -brand-name-app-store } توں مفت گھنو
 download-button-download-app-store = { -brand-name-app-store } تے ڈاؤن لوڈ کرو
 download-button-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
 download-button-firefox-beta-android = { -brand-name-android } کیتے <span>{ -brand-name-firefox-beta }</span>
