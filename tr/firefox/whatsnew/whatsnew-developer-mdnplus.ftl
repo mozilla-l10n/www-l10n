@@ -12,3 +12,4 @@ developer-mdnplus-get-started = Başlayın
 developer-mdnplus-notifications = Bildirimler
 developer-mdnplus-collections = Koleksiyonlar
 developer-mdnplus-mdn-offline = { -brand-name-mdn } çevrimdışı
+developer-mdnplus-resources-for-developers = Geliştiriciler için, geliştiriciler tarafından hazırlanan kaynaklar.
