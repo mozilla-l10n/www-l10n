@@ -7,3 +7,4 @@
 
 not-found-locale-title = موزلا ڈاٹ آرگ براؤز کرݨ کیتے آپݨی زبان یا لوکیل چݨو
 not-found-locale-not-yet-translated = ورقے دا اڄݨ ترجمہ کائنی تھیا
+not-found-locale-available = ایہ انہاں زباناں وچ دستیاب ہے:
