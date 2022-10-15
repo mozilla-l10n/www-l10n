@@ -10,6 +10,8 @@ firefox-accounts-join-firefox = { -brand-name-firefox } وچ رلت کرو
 firefox-accounts-enter-your-email-address = شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو۔
 firefox-accounts-already-have-an-account = بھلا پہلے ہی ہک کھاتہ ہے؟
 firefox-accounts-sign-in = سائن ان
+firefox-accounts-firefox-is-technology = { -brand-name-firefox } او ٹیکنالوجی ہے جہڑی تہاݙے کیتے جدوجہد کریندی ہے۔
+firefox-accounts-get-technology-that = او ٹیکنالوجی گھنو جہڑی تہاݙے کیتے جدوجہد کرے۔
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-get-the-knowledge = آپݨے آپ کوں محفوظ رکھݨ کیتے علم گھنو۔
 

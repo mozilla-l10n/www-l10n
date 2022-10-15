@@ -5,9 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-check-the-system-requirements = سسٹم دے تقاضیاں دی پڑتال کرو
 firefox-all-release-notes = ریلیز نوٹ
 firefox-all-source-code = ماخذ کوڈ
 firefox-all-need-help = بھلا مدد دی لوڑ ہے؟
+firefox-all-which-browser-would = تساں کہڑا براؤزر ڈاؤن لوڈ کرݨ پسند کریسو؟
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = مدد گھنو
 firefox-all-you-are-about-to-download = تساں ڈاؤن لوڈ کرݨ دے نیڑے ہو:
