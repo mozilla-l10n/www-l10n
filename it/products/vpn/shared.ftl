@@ -143,6 +143,9 @@ vpn-shared-relay-email-masking = Alias di posta elettronica
 vpn-shared-relay-phone-masking = Alias per numeri di telefono
 vpn-shared-get-vpn-plus-relay = Ottieni { -brand-name-vpn } + { -brand-name-relay }
 vpn-shared-why-bundle = Perché acquistare entrambi?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Risparmia il { $percent }%</span> sull’abbonamento annuale a { -brand-name-relay-premium }
 
 ##
 
