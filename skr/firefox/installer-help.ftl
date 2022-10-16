@@ -13,3 +13,5 @@
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-need-help = بھلا انسٹال کرݨ کیتے مدد دی لوڑ ہے؟

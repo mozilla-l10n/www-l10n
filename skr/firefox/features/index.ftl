@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-index-see-all = ساریاں ایکسٹنشناں ݙیکھو
 features-index-fingerprinter-blocking = فنگر پرنٹ بلاک کرݨ
 features-index-block-fingerprinters = فنگر پرنٹرز بلاک کرو
 features-index-translate-the-web = ویب دا ترجمہ کرو

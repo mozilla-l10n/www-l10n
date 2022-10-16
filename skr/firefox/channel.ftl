@@ -9,6 +9,7 @@ firefox-channel-desktop = ڈیسک ٹاپ
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-file-a-bug-now = ہݨ بگ فائل کرو
+firefox-channel-tips-for-filing-a-bug = بگ فائل کرݨ دے گُر
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = ریلیز نوٹ
 firefox-channel-developer-edition = { -brand-name-developer-edition }

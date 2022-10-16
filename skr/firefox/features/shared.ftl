@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-browse-faster = تیزی نال براؤز کرو
 brand-name-firefox = { -brand-name-firefox }

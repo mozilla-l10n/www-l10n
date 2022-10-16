@@ -6,4 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-little-book = رازداری دی چھوٹی کتاب
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-translate-the-web = ویب دا ترجمہ کرو

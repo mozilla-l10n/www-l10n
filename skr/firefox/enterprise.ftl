@@ -5,4 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-overview = جائزہ
+firefox-enterprise-downloads = ڈاؤن لوڈاں
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-support = سہارا
+firefox-enterprise-msi-installers = MSI انسٹالرز
 firefox-enterprise-release-notes = ریلیز نوٹ
