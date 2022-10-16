@@ -8,3 +8,8 @@
 about-shared-mission = مشن
 about-shared-history = تاریخ
 about-shared-leadership = قیادت
+about-shared-governance = گورننس
+about-shared-forums = فورم
+about-shared-patents = پیٹینٹ
+about-shared-our-products = ساݙیاں مصنوعات
+about-shared-get-involved = نال رلت کرو
