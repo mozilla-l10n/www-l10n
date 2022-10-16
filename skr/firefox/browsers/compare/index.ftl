@@ -10,4 +10,5 @@ compare-index-seven-of-the-best-browsers-in = براہ راست مقابلے و�
 # Sub-headline
 compare-index-privacy-utility-portability = رازداری۔ افادیت۔ پورٹیبلٹی۔
 compare-index-conclusion = نتیجہ:
+compare-index-and-the-winner-is = تے جیتݨ آلا ہے ۔۔۔
 compare-index-compare = ویورا

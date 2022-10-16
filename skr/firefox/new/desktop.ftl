@@ -7,10 +7,14 @@
 
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = جیا
 firefox-desktop-download-no = کو
 firefox-desktop-download-primary-password = بنیادی پاس ورڈ
+# Obsolete string
+firefox-desktop-download-master-password = ماسٹر پاس ورڈ
 firefox-desktop-download-for-everyone = { -brand-name-firefox } ہر ہک کیتے ہے
 firefox-desktop-download-search-from-address = پتہ پٹی نال ڳولو
 firefox-desktop-download-bookmarks-manager = نشانیاں منیجر
