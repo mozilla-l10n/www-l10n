@@ -7,6 +7,7 @@
 
 welcome-page14-page-title = Цього Місяця кібербезпеки отримайте { -brand-name-mozilla-vpn } зі знижкою 20%
 welcome-page14-page-title-alt = Це Місяць кібербезпеки — час підвищити рівень приватності
+welcome-page14-main-description = { -brand-name-mozilla-vpn } (віртуальна приватна мережа) захищає всі інтернет-з'єднання на комп’ютері, планшеті та навіть телефоні. Для ще кращої безпеки вона має гарантію повернення грошей протягом 30 днів.
 welcome-page14-get-mozilla-vpn = Отримати { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Використайте код під час оплати, щоб отримати знижку 20%.
 welcome-page14-copy-code = Скопіювати код
