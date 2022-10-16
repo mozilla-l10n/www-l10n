@@ -8,3 +8,4 @@
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = { -brand-name-firefox-quantum } بارے ٻیا ڄاݨو
 privacy-first = رازداری پہلے
+super-fast = ݙاڈھا تکھا

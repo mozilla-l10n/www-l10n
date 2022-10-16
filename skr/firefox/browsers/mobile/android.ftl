@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
+mobile-android-firefox-browser = { -brand-name-firefox-browser }
 mobile-android-get-firefox-for = { -brand-name-android } کیتے { -brand-name-firefox } گھنو
 mobile-android-fast-and-private = تکھا تے نجی
+mobile-android-search-your-own = آپݨاں راہ آپ ڳولو
 mobile-android-about-mozilla = { -brand-name-mozilla } دا تعارف

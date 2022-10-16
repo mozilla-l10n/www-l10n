@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } گھنو
+mobile-focus-delete-your-history = آپݨی تاریخ مٹاؤ

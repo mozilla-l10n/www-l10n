@@ -10,6 +10,15 @@ compare-shared-yes = جیا
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = کو
 compare-shared-private-browsing-mode = نجی براؤزنگ موڈ
+compare-shared-tab-browsing = ٹیب براؤز کرݨ
+compare-shared-bookmark-manager = نشانی منیجر
+compare-shared-password-management = پاس ورڈ منیجمنٹ
+compare-shared-primary-password = بنیادی پاس ورڈ
+# Obsolete string
+compare-shared-master-password = ماسٹر پاس ورڈ
+compare-shared-security-and-privacy = سلامتی تے رازداری
+compare-shared-utility = افادیت
+compare-shared-portability = پورٹیبلٹی
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = سلامتی تے <strong>رازداری</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
@@ -29,3 +38,4 @@ compare-shared-download-the-app = ایپ ڈاؤن لوڈ کرو
 compare-shared-desktop = ڈیسک ٹاپ
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
+compare-shared-compare-browsers = براؤزراں دا ویورا کرو
