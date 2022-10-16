@@ -34,7 +34,7 @@
 -brand-name-firefox-beta = فائرفوکس بیٹا
 -brand-name-firefox-browser = فائرفوکس براؤزر
 -brand-name-firefox-browsers = فائرفوکس براؤزر
--brand-name-firefox-developer-edition = Firefox Developer Edition
+-brand-name-firefox-developer-edition = فائرفوکس ڈویلپر ایڈیشن
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-focus = فائرفوکس فوکس
@@ -46,7 +46,7 @@
 ## Firefox browsers (short names)
 
 -brand-name-beta = Beta
--brand-name-developer-edition = تخلیق کار ایڈٰیشن
+-brand-name-developer-edition = تخلیق کار ایڈیشن
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
 -brand-name-focus = Focus

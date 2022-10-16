@@ -36,6 +36,7 @@ footer-sign-up = سائن اپ
 footer-sign-in = سائن ان
 # Outdated string
 footer-benefits = فائدے
+footer-developers = ڈویلپرز
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
@@ -46,8 +47,19 @@ footer-company = کمپنی
 # Outdated string
 footer-about = تعارف
 footer-press-center = پریس سنٹر
+footer-careers = روزگار تے کم
+# Outdated string
+footer-test-new-features = نویاں خصوصیات جان٘چو
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
+footer-tools = اوزار
+footer-resources = وسائل
+footer-contact = رابطہ
+footer-product-help = مصنوعات دی مدد
+footer-support = سہارا
+footer-file-a-bug = بگ فائل کرو
+footer-websites-privacy-notice = ویب سائٹ رازداری نوٹس
+footer-websites-cookies = کوکیاں
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
