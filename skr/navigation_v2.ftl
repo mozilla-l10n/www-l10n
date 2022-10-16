@@ -24,6 +24,7 @@ navigation-v2-view-all-firefox-browsers = سارے { -brand-name-firefox-browser
 ## Products menu
 
 navigation-v2-products = مصنوعات
+navigation-v2-close-products-menu = مصنوعات مینیو بند کرو
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
