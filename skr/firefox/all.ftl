@@ -22,6 +22,7 @@ firefox-all-32-bit-installers = 32 بٹ انسٹالرز
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری نوٹس
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزراں بارے سِکھو
 firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
+firefox-all-product-send-link = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux

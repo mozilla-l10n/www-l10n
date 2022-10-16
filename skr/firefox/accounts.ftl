@@ -12,6 +12,8 @@ firefox-accounts-already-have-an-account = بھلا پہلے ہی ہک کھات�
 firefox-accounts-sign-in = سائن ان
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } او ٹیکنالوجی ہے جہڑی تہاݙے کیتے جدوجہد کریندی ہے۔
 firefox-accounts-get-technology-that = او ٹیکنالوجی گھنو جہڑی تہاݙے کیتے جدوجہد کرے۔
+# Obsolete string
+firefox-accounts-share-large-files = وݙیاں فائلاں کوں ٹوہ لائے بغیر شیئر کرو۔
 firefox-accounts-get-the-respect-you = او عزت گھنو جیندے تساں مستحق ہو۔
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-get-the-knowledge = آپݨے آپ کوں محفوظ رکھݨ کیتے علم گھنو۔

@@ -7,4 +7,4 @@
 
 banner-firefox-app-store-title = { -brand-name-firefox }: نجی، محفوظ براؤزر
 banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: رازداری براؤزر
-banner-firefox-app-store-mozilla = { -brand-name-mozilla }
+banner-firefox-app-store-mozilla = موزلّا
