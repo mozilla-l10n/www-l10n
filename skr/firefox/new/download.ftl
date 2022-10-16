@@ -10,6 +10,8 @@
 
 firefox-new-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
 firefox-new-mozilla = { -brand-name-mozilla }
+firefox-new-free-web-browser = آزاد ویب براؤزر
+firefox-new-download-in-another-language = ہک ٻئی زبان وچ ڈاؤن لوڈ کرو
 firefox-new-need-help = بھلا مدد دی لوڑ ہے؟
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
@@ -23,3 +25,5 @@ firefox-new-windows-10 = { -brand-name-windows } 10
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+firefox-new-fast = تکھا، نجی تے مفت
+firefox-new-from-mozilla = { -brand-name-mozilla } کنوں

@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/welcome/2/
+### URL: https://www-dev.allizom.org/firefox/switch/
 
-welcome-page2-activate-pocket = { -brand-name-pocket } فعال کرو
-welcome-page2-pocket = { -brand-name-pocket }
+switch-send-an-email = ہک ای میل پٹھو

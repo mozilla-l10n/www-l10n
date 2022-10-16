@@ -22,6 +22,8 @@ firefox-desktop-download-clear-history = تاریخ صاف کرو
 firefox-desktop-download-form-autofill = فارم آٹو فل
 firefox-desktop-download-automatic-updates = خودکار اپ ڈیٹاں
 firefox-desktop-download-themes = تھیم
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = آپݨیاں ڈیوائساں ہم وقت کرو
 firefox-desktop-download-screenshots = سکرین شاٹاں
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت(ای ٹی پی)

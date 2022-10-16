@@ -10,11 +10,15 @@
 
 new-platform-free-web-browser = آزاد ویب براؤزر
 new-platform-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
+new-platform-2x-faster = ݙوڑا تکھا
 new-platform-need-help = بھلا مدد دی لوڑ ہے؟
 
 ## Linux
 
 new-platform-download-mozilla-linux = { -brand-name-linux } کیتے { -brand-name-mozilla }{ -brand-name-firefox } ڈاؤن لوڈ کرو
+# /firefox/linux/ main page title
+new-platform-firefox-for-linux = { -brand-name-linux } کیتے { -brand-name-firefox }
+new-platform-privacy-more-than = رازداری ــ پالیسی کنوں ودھ
 new-platform-open-source = کھلا ماخذ
 
 ## Mac
