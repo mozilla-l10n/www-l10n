@@ -20,7 +20,13 @@ firefox-all-lang-multi = ڈھڳ زباناں
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری نوٹس
+firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزراں بارے سِکھو
 firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = { $locale } وچ { $platform } کیتے{ $product_label } ڈاؤن لوڈ کرو
 firefox-all-msi-installers = MSI انسٹالرز
 firefox-all-which-version = تساں کہڑا ورشن پسند کریسو؟
 firefox-all-select-your-preferred-installer = آپݨی پسند دا انسٹالر چُݨو
