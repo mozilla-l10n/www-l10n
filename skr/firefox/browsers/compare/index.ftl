@@ -7,4 +7,7 @@
 
 # HTML page title, also used for the main title
 compare-index-seven-of-the-best-browsers-in = براہ راست مقابلے وچ ست بہترین براؤزر
+# Sub-headline
+compare-index-privacy-utility-portability = رازداری۔ افادیت۔ پورٹیبلٹی۔
+compare-index-conclusion = نتیجہ:
 compare-index-compare = ویورا

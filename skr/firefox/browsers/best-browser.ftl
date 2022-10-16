@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-privacy-speed-and-security = رازداری، رفتار تے سلامتی۔
+best-browser-a-browser-built-for = رفتار کیتے بݨیا ہویا براؤزر
