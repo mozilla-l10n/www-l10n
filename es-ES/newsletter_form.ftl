@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = Especifica una dirección de email válida
 newsletter-form-you-must-agree-to = Debes aceptar la declaración de privacidad
 newsletter-form-your-email-address = Tu dirección de correo electrónico
+newsletter-form-we-are-sorry-but-there = Lo sentimos, pero ha habido un problema con nuestro sistema. Inténtalo de nuevo más tarde.
+newsletter-form-please-select-country = Por favor, selecciona un país o región
+newsletter-form-please-select-language = Por favor, selecciona un idioma
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = tunombre@example.com
 newsletter-form-select-country-or-region = Selecciona país o región
