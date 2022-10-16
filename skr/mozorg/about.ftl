@@ -5,6 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/about/
 
+# HTML Page title
+about-learn-about-mozilla = { -brand-name-mozilla } بارے ٻیا سکھو
+about-read-the-manifesto = منشور پڑھو
+about-a-global-view = ہک عالمی منظر
+about-san-francisco = سان فرانسسکو
+about-berlin = برلن
+about-toronto = ٹورنٹو
+about-mozilla-careers = { -brand-name-mozilla } روزگار
+about-how-you-can-help = تساں کن٘ویں مدد کر سڳدے ہو
 about-get-involved = نال رلت کرو
 
 ## Newsletter

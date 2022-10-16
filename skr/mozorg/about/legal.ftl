@@ -7,6 +7,8 @@
 
 legal-legal = قنونی
 legal-get-involved = نال رلت کرو
+legal-protect-the-fox = فوکس دی حفاظت کرو
+legal-back-to-legal = قنونی تے واپس
 legal-webmaker = { -brand-name-webmaker }
 legal-firefox = { -brand-name-firefox }
 legal-mdn-plus = { -brand-name-mdn-plus }
