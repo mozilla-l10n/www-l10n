@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
+best-browser-find-your-best-browser = رفتار، رازداری تے سلامتی کیتے آپݨاں بہترین براؤزر لبھو۔
 best-browser-privacy-speed-and-security = رازداری، رفتار تے سلامتی۔
+best-browser-how-to-choose-the-best = آپݨے کیتے بہترین براؤزر کین٘ویں چݨسو۔
 best-browser-a-browser-built-for = رفتار کیتے بݨیا ہویا براؤزر
