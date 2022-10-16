@@ -12,3 +12,5 @@ whatsnew-account-main-button = سائن ان
 
 ##
 
+# An accessible label for a QR code image
+whatsnew-account-qr-code-alt = ایہ کیو آر کوڈ سکین کرو

@@ -12,3 +12,4 @@ developer-mdnplus-get-started = شروع کرو
 developer-mdnplus-whats-included = کیا شامل تھئے
 developer-mdnplus-notifications = اطلاع نامے
 developer-mdnplus-collections = مجموعے
+developer-mdnplus-mdn-offline = { -brand-name-mdn } آف لائن

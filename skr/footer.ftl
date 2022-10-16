@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = { -brand-name-mozilla } دا منشور
 footer-privacy-hub = رازداری ہب
 footer-privacy = رازداری
 footer-press = پریس
@@ -26,6 +28,8 @@ footer-monitor = { -brand-name-monitor }
 footer-send = { -brand-name-send }
 # Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
+footer-join = شامل تھیوو
 # Outdated string
 footer-sign-up = سائن اپ
 # Outdated string
