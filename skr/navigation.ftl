@@ -28,3 +28,5 @@ navigation-support = سہارا
 navigation-privacy = رازداری
 navigation-sign-up = سائن اپ
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: تکھا۔ سادہ۔ نجی۔
+# Outdated string
+navigation-add-ons = ایڈ ــ آن
