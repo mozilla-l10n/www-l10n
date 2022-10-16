@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
+welcome-page14-page-title-alt = Είναι ο μήνας κυβερνοασφάλειας — καιρός να βελτιώσετε το απόρρητό σας
 welcome-page14-get-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
 welcome-page14-copy-code = Αντιγραφή κωδικού
 welcome-page14-code-copied = Ο κωδικός αντιγράφηκε!

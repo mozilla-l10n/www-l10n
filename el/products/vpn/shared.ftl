@@ -131,6 +131,9 @@ vpn-shared-affiliate-notification-ok = OK
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = Ενισχύστε το απόρρητό σας με τα { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-relay-email-masking = Μάσκα email
+vpn-shared-relay-phone-masking = Μάσκα τηλεφώνου
 
 ##
 
