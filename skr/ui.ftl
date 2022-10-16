@@ -5,6 +5,8 @@
 
 ## Common user interface (ui) strings used in global templates and shared widgets.
 
+ui-back-to-home-page = مکھ پنے تے واپس ون٘ڄو
+ui-return-to-top = چوٹی تے واپس آؤ
 ui-close = بند کرو
 ui-previous = پچھلا
 ui-next = اڳلا
