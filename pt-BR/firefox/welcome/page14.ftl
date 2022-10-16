@@ -14,3 +14,6 @@ welcome-page14-copy-code = Copiar código
 welcome-page14-code-copied = Código copiado
 welcome-page14-very-fast = É rápido, muito rápido
 welcome-page14-wireguard-powered = Nossos servidores com tecnologia { -brand-name-wireguard }® são desenvolvidos para oferecer velocidade, para você transmitir, baixar e jogar normalmente.
+welcome-page14-without-trace = Navegue sem deixar rastro
+welcome-page14-never-log = Nunca registramos, rastreamos nem compartilhamos seus dados de rede. Sua atividade online não deixa nada em nossos servidores VPN.
+welcome-page14-why-see-this = Por que isso apareceu?
