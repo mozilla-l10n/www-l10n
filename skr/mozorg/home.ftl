@@ -10,6 +10,7 @@ home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = چنگے کیتے تِکھے۔
 home-with-2x-the-speed-built-in = ݙوڑی رفتار، پہلے کنوں موجود رازداری حفاظت تے { -brand-name-mozilla }  تے ایندے نال نال نویں { -brand-name-firefox } براؤز کرݨ کیتے ہک ݙاڈھا چنگا طریقہ ہے۔
 home-we-make-the-internet-safer = اساں چنگائی کیتے انٹرنیٹ کوں محفوظ، تکڑا تے تکھیرا بݨیندے ہیسے۔
+home-mozilla-is-the-not-for-profit = { -brand-name-firefox } جہڑا اصل واٹواں براؤزر ہے، ایندے پچھوں (غیرمنافع بخش) { -brand-name-mozilla } ہے۔  اساں انٹرنیٹ کوں لوکاں دی خدمت کیتے تیار کرݨ کیتے پالسی تے مصنوعات بݨیندے ہیں، منافع کیتے کائناں۔
 home-our-impact = ساݙا اثر
 home-when-you-use-firefox-you-help = تساں جہڑے ویلے { -brand-name-firefox } ورتیندے ہو، تساں { -brand-name-mozilla } کوں آن لائن غلط معلومات نال جھیڑا کرݨ، ڈیجیٹل مہارتاں سکھاوݨ تے تبصرے آلے حصیاں کوں مزید انسانی بݨاوݨ کیتے مدد کریندے ہو۔ پڑتال کرو جو تکڑا انٹرنیٹ بݨاوݨ وچ کہڑی شئے مدد کریندی ہے۔
 home-our-innovations = ساݙیاں جدتاں
