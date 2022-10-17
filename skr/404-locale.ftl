@@ -6,5 +6,6 @@
 ### URL: https://www-dev.allizom.org/404-locale/
 
 not-found-locale-title = موزلا ڈاٹ آرگ براؤز کرݨ کیتے آپݨی زبان یا لوکیل چݨو
+not-found-locale-desc = آپݨی ترجیحی زبان کوں ظاہر کرݨ کیتے آپݨا ملک یا علاقہ چݨو۔
 not-found-locale-not-yet-translated = ورقے دا اڄݨ ترجمہ کائنی تھیا
 not-found-locale-available = ایہ انہاں زباناں وچ دستیاب ہے:

@@ -37,6 +37,7 @@
 -brand-name-firefox-developer-edition = فائرفوکس ڈویلپر ایڈیشن
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
+-brand-name-firefox-extended-support-release = Firefox Extended Support Release
 -brand-name-firefox-focus = فائرفوکس فوکس
 -brand-name-firefox-lite = فائڑفوکس لائٹ
 -brand-name-firefox-nightly = فائرفوکس نائٹلی
