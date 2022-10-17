@@ -16,5 +16,6 @@ home-our-innovations = ساݙیاں جدتاں
 home-using-the-web-as-the-platform = پلیٹ فارم دے طور تے ویب ورتیندے ہوئے، اساں کھلی تے جدید ٹیکنالوجی اُسریندے ہیں جہڑی ڈویلپراں کوں بند، کارپوریٹ ماحولیاتی نظام کنوں آزاد تھی کراہیں کم کرݨ تے ساݙے ساریاں کیتے تکھیرے، محفوظ ویب تجربات تخلیق کرݨ دی اجازت ݙیندی ہے.
 home-common-voice = { -brand-name-common-voice }
 home-extensions = ایکسٹنشناں
+home-personalize-firefox-with-your = { -brand-name-firefox } کوں آپݨی پسند دے پاس ورڈ منیجر، مشہوری بلاکر تے ٻئے ایکسٹراز  نال ذاتی بݨاؤ۔
 home-careers = روزگار تے کم
 home-need-help = بھلا مدد دی لوڑ ہے؟
