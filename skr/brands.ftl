@@ -101,7 +101,7 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = Glean
--brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-common-voice = موزلّا کامن وائس
 -brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-hubs = Mozilla Hubs
@@ -113,7 +113,7 @@
 
 ## Mozilla projects (short names)
 
--brand-name-common-voice = Common Voice
+-brand-name-common-voice = کامن وائس
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
 
