@@ -13,6 +13,7 @@ firefox-browsers-send-me-a-link = میکوں لنک بھیڄو
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-enterprise-packages = { -brand-name-enterprise } پیکیجز
 firefox-browsers-reality = { -brand-name-reality }
+firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } بارے ٻیا سکھو
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
