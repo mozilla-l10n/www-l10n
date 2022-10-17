@@ -8,3 +8,5 @@
 banner-firefox-app-store-title = { -brand-name-firefox }: نجی، محفوظ براؤزر
 banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: رازداری براؤزر
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
+banner-firefox-app-store-free-google-play = { -brand-name-google-play } وچ مفت
+banner-firefox-app-store-free-app-store = { -brand-name-app-store } وچ مفت
