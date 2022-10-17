@@ -18,4 +18,6 @@ home-common-voice = { -brand-name-common-voice }
 home-extensions = ایکسٹنشناں
 home-personalize-firefox-with-your = { -brand-name-firefox } کوں آپݨی پسند دے پاس ورڈ منیجر، مشہوری بلاکر تے ٻئے ایکسٹراز  نال ذاتی بݨاؤ۔
 home-careers = روزگار تے کم
+home-learn-about-the-benefits-of = { -brand-name-mozilla } تے کم کرݨ دے فائدیاں بارے ڄاݨو تے پوری دنیا وچ پوزیشناں ݙیکھو۔
 home-need-help = بھلا مدد دی لوڑ ہے؟
+home-get-answers-to-your-questions = { -brand-name-firefox } تے { -brand-name-mozilla } دیاں ساریاں مصنوعات بارے ساݙی سہارا ٹیم کنوں آپݨے سوالاں دے جواب گھنو،
