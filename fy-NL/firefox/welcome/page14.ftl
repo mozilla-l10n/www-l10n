@@ -14,3 +14,6 @@ welcome-page14-copy-code = Koade kopiearje
 welcome-page14-code-copied = Koaden kopiearre!
 welcome-page14-very-fast = It is fluch, hiel fluch
 welcome-page14-wireguard-powered = Us troch { -brand-name-wireguard }® oandreaune servers binne boud foar snelheid, sadat jo streame, downloade en game kinne sa as jo wend binne.
+welcome-page14-without-trace = Ynternet sûnder spoaren
+welcome-page14-never-log = Wy logge, folgje of diele jo netwurkgegevens nea – jo online aktiviteit lit gjin fuotprint efter op ús VPN-servers.
+welcome-page14-why-see-this = Wêrom sjoch ik dit?
