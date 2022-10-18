@@ -68,6 +68,8 @@ navigation-v2-careers = Nghề nghiệp
 navigation-v2-work-for-a-mission-driven-updated = Làm việc cho một tổ chức dựa trên sứ mệnh tạo ra các sản phẩm ưu tiên con người.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Tìm hiểu về { -brand-name-mozilla } và các vấn đề quan trọng với chúng tôi.
+navigation-v2-stories = Câu chuyện
+navigation-v2-stories-about-how = Những câu chuyện về cách con người và sản phẩm của chúng tôi đang thay đổi thế giới trở nên tốt đẹp hơn.
 navigation-v2-more-about-mozilla = Thông tin thêm về { -brand-name-mozilla }
 
 ## Innovation menu
@@ -86,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Hãy đóng góp giọng nói của bạn để tương lai của web có thể nghe thấy tất cả mọi người.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Tìm hiểu thêm về ngôn ngữ mới, cấp thấp, giống như hợp ngữ.
-navigation-v2-more-mozilla-innovation = Cải tiến { -brand-name-mozilla } khác
