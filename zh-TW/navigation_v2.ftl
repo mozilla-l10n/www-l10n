@@ -68,6 +68,8 @@ navigation-v2-careers = 徵才啟事
 navigation-v2-work-for-a-mission-driven-updated = 在一家以任務導向運作，打造以人為本產品的組織工作。
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 部落格
 navigation-v2-learn-about-mozilla-and = 了解 { -brand-name-mozilla } 以及我們所在意的議題。
+navigation-v2-stories = 故事
+navigation-v2-stories-about-how = 我們的成員與產品，如何讓世界變得更好的故事。
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } 的更多資訊
 
 ## Innovation menu
@@ -86,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = 捐出您的聲音，讓未來的網頁技術能聽懂所有人的聲音。
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = 更加了解這套全新、低階、類似組合語言的程式語言。
-navigation-v2-more-mozilla-innovation = { -brand-name-mozilla } 的更多創新
