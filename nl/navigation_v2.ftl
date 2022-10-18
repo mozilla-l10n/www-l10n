@@ -68,6 +68,8 @@ navigation-v2-careers = Banen
 navigation-v2-work-for-a-mission-driven-updated = Werk voor een door een missie gedreven organisatie die producten maakt die mensen voorop zetten.
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blog
 navigation-v2-learn-about-mozilla-and = Lees over { -brand-name-mozilla } en de dingen die belangrijk voor ons zijn.
+navigation-v2-stories = Verhalen
+navigation-v2-stories-about-how = Verhalen over hoe onze mensen en producten de wereld ten goede veranderen.
 navigation-v2-more-about-mozilla = Meer over { -brand-name-mozilla }
 
 ## Innovation menu
@@ -86,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Doneer uw spraak, zodat de toekomst van het internet iedereen kan verstaan.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Lees meer over de nieuwe, laagdrempelige, samenstellingsachtige taal.
-navigation-v2-more-mozilla-innovation = Meer innovatie van { -brand-name-mozilla }
