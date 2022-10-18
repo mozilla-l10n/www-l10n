@@ -9,4 +9,5 @@ welcome-page14-get-mozilla-vpn = Installa { -brand-name-mozilla-vpn }
 welcome-page14-copy-code = Copiar codice
 welcome-page14-code-copied = Codice copiate!
 welcome-page14-very-fast = Il es rapide, multo rapide.
+welcome-page14-without-trace = Internet sin lassar un tracia
 welcome-page14-why-see-this = Proque vide io isto?
