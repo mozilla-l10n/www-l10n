@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-accounts-there-is-a-way-to = تہاݙی رازداری دی حفاظت دا ہک طریقہ ہے۔ { -brand-name-firefox } نال رلت کرو۔
+# Old HTML page title
+firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } بݨاؤ ــ آپݨاں ڈیٹا نجی، محفوظ تے ہم وقت رکھو
 firefox-accounts-sign-in-to-monitor = { -brand-name-monitor } تے سائن ان تھیوو
 firefox-accounts-join-firefox = { -brand-name-firefox } وچ رلت کرو
 firefox-accounts-enter-your-email-address = شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو۔
