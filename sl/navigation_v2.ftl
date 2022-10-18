@@ -68,6 +68,7 @@ navigation-v2-careers = Zaposlitev
 navigation-v2-work-for-a-mission-driven-updated = Delajte za organizacijo, katere izdelki temeljijo na poslanstvu in postavljajo ljudi na prvo mesto.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla(sklon: "rodilnik") }
 navigation-v2-learn-about-mozilla-and = Preberite več o { -brand-name-mozilla(sklon: "mestnik") } in o temah, ki so nam pomembne.
+navigation-v2-stories = Zgodbe
 navigation-v2-more-about-mozilla = Več o { -brand-name-mozilla(sklon: "mestnik") }
 
 ## Innovation menu
@@ -86,4 +87,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Darujte svoj glas in pomagajte, da bo splet prihodnosti lahko slišal vsakogar.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Spoznajte novi nizkonivojski, zbirnemu jeziku podobni programski jezik.
-navigation-v2-more-mozilla-innovation = Več inovacij { -brand-name-mozilla(sklon: "rodilnik") }
