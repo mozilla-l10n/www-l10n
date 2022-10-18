@@ -68,6 +68,7 @@ navigation-v2-careers = Καριέρες
 navigation-v2-work-for-a-mission-driven-updated = Εργαστείτε για έναν οργανισμό που έχει ως αποστολή τη δημιουργία προϊόντων για τον άνθρωπο.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Μάθετε για τη { -brand-name-mozilla } και τα ζητήματα που μας αφορούν.
+navigation-v2-stories = Ιστορίες
 navigation-v2-more-about-mozilla = Περισσότερα σχετικά με τη { -brand-name-mozilla }
 
 ## Innovation menu
@@ -86,4 +87,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Δωρίστε τη φωνή σας, ώστε το μέλλον του διαδικτύου να μπορεί να τους ακούσει όλους.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Μάθετε περισσότερα για τη νέα, χαμηλού επιπέδου γλώσσα που μοιάζει με την Assembly.
-navigation-v2-more-mozilla-innovation = Περισσότερη καινοτομία από τη { -brand-name-mozilla }
