@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+firefox-accounts-there-is-a-way-to = تہاݙی رازداری دی حفاظت دا ہک طریقہ ہے۔ { -brand-name-firefox } نال رلت کرو۔
 firefox-accounts-sign-in-to-monitor = { -brand-name-monitor } تے سائن ان تھیوو
 firefox-accounts-join-firefox = { -brand-name-firefox } وچ رلت کرو
 firefox-accounts-enter-your-email-address = شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو۔
