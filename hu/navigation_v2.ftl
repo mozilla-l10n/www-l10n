@@ -68,6 +68,8 @@ navigation-v2-careers = Álláslehetőségek
 navigation-v2-work-for-a-mission-driven-updated = Dolgozzon egy küldetésvezérelt szervezetnek, amely olyan termékeket készít, melyek az embereket helyezik az első helyre.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Tudjon meg többet a { -brand-name-mozilla(ending: "accented") }ról, és a számunkra fontos kérdésekről.
+navigation-v2-stories = Történetek
+navigation-v2-stories-about-how = Történetek arról, hogy az embereink és termékeink hogyan teszik jobbá a világot.
 navigation-v2-more-about-mozilla = További információk a { -brand-name-mozilla(ending: "accented") }ról
 
 ## Innovation menu
@@ -86,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Adományozza a hangját, hogy a web jövője mindenkit meghallhasson.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Tudjon meg többet az új, alacsony szintű, assemblyhez hasonló nyelvet.
-navigation-v2-more-mozilla-innovation = További { -brand-name-mozilla } innováció

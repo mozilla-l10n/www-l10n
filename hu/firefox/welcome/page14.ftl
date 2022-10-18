@@ -13,3 +13,7 @@ welcome-page14-use-code = Használja a kódot a fizetésnél, hogy 20% kedvezmé
 welcome-page14-copy-code = Kód másolása
 welcome-page14-code-copied = Kód másolva!
 welcome-page14-very-fast = Gyors, nagyon gyors
+welcome-page14-wireguard-powered = A { -brand-name-wireguard }® alapú kiszolgálóink a sebességre terveztük, így a szokásos módon nézhet filmet, tölthet le és játszhat.
+welcome-page14-without-trace = Internetezzen nyomtalanul
+welcome-page14-never-log = Sosem naplózzuk, követjük nyomon vagy osztjuk meg hálózati adatait – online tevékenységei nem hagynak nyomot a VPN-kiszolgálóinkon.
+welcome-page14-why-see-this = Miért látom ezt?
