@@ -68,6 +68,8 @@ navigation-v2-careers = Gyrfaoedd
 navigation-v2-work-for-a-mission-driven-updated = Gweithiwch i sefydliad sy'n cael ei yrru gan genhadaeth sy'n adeiladu cynnyrch sy'n gosod pobl yn gyntaf.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Dysgwch am { -brand-name-mozilla } a'r materion sy'n bwysig i ni.
+navigation-v2-stories = Straeon
+navigation-v2-stories-about-how = Straeon am sut mae'n pobl a'n cynnyrch yn newid y byd er gwell.
 navigation-v2-more-about-mozilla = Rhagor Am { -brand-name-mozilla }
 
 ## Innovation menu
@@ -86,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Cyfrannwch eich llais fel y gall dyfodol y we glywed pawb.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Dysgwch ragor am yr iaith newydd, lefel isel, cydosodedig.
-navigation-v2-more-mozilla-innovation = Rhagor o Arloesi gan { -brand-name-mozilla }
