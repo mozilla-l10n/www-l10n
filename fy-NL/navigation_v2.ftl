@@ -69,6 +69,7 @@ navigation-v2-work-for-a-mission-driven-updated = Wurkje foar in troch in missy 
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blog
 navigation-v2-learn-about-mozilla-and = Lês oer { -brand-name-mozilla } en de dingen dy’t wichtich foar ús binne.
 navigation-v2-stories = Ferhalen
+navigation-v2-stories-about-how = Ferhalen oer hoe’t ús minsken en produkten de wrâld foar it goede feroarje.
 navigation-v2-more-about-mozilla = Mear oer { -brand-name-mozilla }
 
 ## Innovation menu
