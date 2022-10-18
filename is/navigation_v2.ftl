@@ -60,10 +60,13 @@ navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Taktu þátt
 navigation-v2-join-the-fight-for-a = Taktu þátt í baráttunni fyrir heilbrigðu interneti.
 navigation-v2-leadership = Forysta
+navigation-v2-meet-the-team-thats-building = Hittu teymið sem er að byggja upp tækni fyrir betra internet.
 navigation-v2-careers = Störf í boði
 navigation-v2-work-for-a-mission-driven-updated = Vinndu fyrir verkefnadrifið félag sem býr til vörur sem hafa fólk í fyrirrúmi.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } bloggið
 navigation-v2-learn-about-mozilla-and = Fræðstu betur um { -brand-name-mozilla } og málefnin sem skipta okkur máli.
+navigation-v2-stories = Sögur
+navigation-v2-stories-about-how = Sögur um hvernig fólkið og hugbúnaðurinn  okkar eru að breyta heiminum til hins betra.
 navigation-v2-more-about-mozilla = Meira um { -brand-name-mozilla }
 
 ## Innovation menu
@@ -79,4 +82,3 @@ navigation-v2-explore-the-web-with-the = Kannaðu vefinn með { -brand-name-fire
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Gefðu rödd þína svo vefir framtíðarinnar heyri í öllum.
 navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-more-mozilla-innovation = Fleiri { -brand-name-mozilla } nýsköpunarverkefni
