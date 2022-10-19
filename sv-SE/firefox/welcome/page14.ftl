@@ -8,6 +8,7 @@
 welcome-page14-page-title = Denna cybersäkerhetsmånad får du 20% rabatt på { -brand-name-mozilla-vpn }
 welcome-page14-page-title-alt = Det är cybersäkerhetsmånad — dags att förbättra din integritet
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (Virtuellt privat nätverk) skyddar hela din internetanslutning på din dator, din surfplatta och till och med din telefon. För ännu mer säkerhet kommer den med en 30-dagars pengarna-tillbaka-garanti.
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (Virtuellt privat nätverk) skyddar hela din internetanslutning på din dator, surfplatta och telefon. För ännu mer säkerhet kommer den med en 30-dagars pengarna-tillbaka-garanti.
 welcome-page14-get-mozilla-vpn = Skaffa { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Använd koden i kassan för 20% rabatt
 welcome-page14-copy-code = Kopiera kod
