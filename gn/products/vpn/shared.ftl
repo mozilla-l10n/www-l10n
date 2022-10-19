@@ -132,6 +132,13 @@ vpn-shared-affiliate-notification-ok = MONEĨ
 
 ## VPN + Relay bundle offer
 
+vpn-shared-relay-email-masking = Ñanduti veve rovamo’ã
+vpn-shared-relay-phone-masking = Pumbyry rovamo’ã
+vpn-shared-get-vpn-plus-relay = Ereko { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = ¿Mba’ére embyatýta?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Erekovéta { $percent }%</span> ary pukukueguávape { -brand-name-relay-premium }
 
 ##
 
