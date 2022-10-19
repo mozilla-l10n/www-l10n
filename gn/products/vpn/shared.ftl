@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Eiporavo pe ñemboheraguapy oikótava n
 vpn-shared-pricing-variable-heading = Eiporavo pe oikótava ndéve g̃uarã
 vpn-shared-pricing-variable-sub-heading = Rojaposéva guivépe oike:
 vpn-shared-pricing-recommended-offer = Jeroviaha
-vpn-shared-pricing-plan-6-month = 6 Jasy
+vpn-shared-pricing-plan-12-month-v2 = 12 arýpe g̃uarã
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 Jasy
+vpn-shared-pricing-plan-monthly-v2 = Jasýpe g̃uarã
+# Outdated string
 vpn-shared-pricing-plan-monthly = Jasygua
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 vpn-shared-pricing-get-6-month = Ereko oikótava 6 jasy
 # Outdated string
 vpn-shared-pricing-get-12-month = Ereko oikótava 12 jasy
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Ereko oikótava 6 jasy
 vpn-shared-pricing-get-12-month-v2 = Ereko oikótava 12 jasy
 vpn-shared-pricing-get-monthly = Ereko oikótava jasýnte
@@ -125,6 +129,9 @@ vpn-subnav-subscribe = Eñemboheraguapy { -brand-name-mozilla-vpn } ndive
 vpn-shared-affiliate-notification-message = Roipuru umi kookie roikuaa hag̃ua mavaitévapa ndegueraha { -brand-name-mozilla-vpn } gotyo. Noromoherakuãi mba’evéichagua marandu ndeikuaaukátava ore irũnguéra ndive. Emoñe’ẽ ore <a { $attrs }>ñemigua purureko</a>.
 vpn-shared-affiliate-notification-reject = Hejarei
 vpn-shared-affiliate-notification-ok = MONEĨ
+
+## VPN + Relay bundle offer
+
 
 ##
 

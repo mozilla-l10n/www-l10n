@@ -37,3 +37,4 @@ legal-mdn-plus-terms = { -brand-name-mdn-plus } Mba’éichapa ojepurúta
 legal-report-copyright = Emombe’u apohare derécho rehegua térã marca registrada
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } Mba’epururã rehegua
+legal-mozilla-subscription-services = Eñemboheraguapykuaa { -brand-name-mozilla } ndive
