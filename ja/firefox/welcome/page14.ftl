@@ -10,6 +10,7 @@ welcome-page14-page-title-alt = サイバーセキュリティ月間です — �
 
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (Virtual Private Network) は、パソコン、タブレット、スマートフォンで、インターネットの接続を丸ごと保護します。さらに 30 日間の返金保証付きで安心してお使いいただけます。
 
+
 welcome-page14-get-mozilla-vpn = { -brand-name-mozilla-vpn } をダウンロード
 
 welcome-page14-use-code = チェックアウト時にコードを利用すると 20% OFF

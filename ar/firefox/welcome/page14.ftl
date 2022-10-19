@@ -10,6 +10,7 @@ welcome-page14-page-title-alt = إنه شهر الأمن السيبراني — 
 
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (الشبكة الخاصة الافتراضية) تحمي اتصالك الكامل بالإنترنت على جهاز الكمبيوتر والجهاز اللوحي وحتى على هاتفك. وللمزيد من الأمان، فإنها تأتي مع ضمان استرداد الأموال لمدة 30 يومًا.
 
+
 welcome-page14-get-mozilla-vpn = نزِّل متصفح { -brand-name-mozilla-vpn }
 
 welcome-page14-use-code = استخدم الرمز عند إتمام الدفع لِتحصل على خصم 20%
