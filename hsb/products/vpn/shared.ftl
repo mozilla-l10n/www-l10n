@@ -131,6 +131,8 @@ vpn-shared-affiliate-notification-ok = W porjadku
 
 vpn-shared-relay-email-masking = E-mejlowe maskowanje
 vpn-shared-relay-phone-masking = Telefonowe maskowanje
+vpn-shared-get-vpn-plus-relay = Wobstarajće sej { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Čehodla jako paket?
 
 ##
 
