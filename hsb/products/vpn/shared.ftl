@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Wubjerće abonementowy plan, kotryž za
 vpn-shared-pricing-variable-heading = Wubjerće plan, kotryž za was funguje
 vpn-shared-pricing-variable-sub-heading = Wšě naše plany wobsahuja:
 vpn-shared-pricing-recommended-offer = Doporučeny
-vpn-shared-pricing-plan-6-month = 6 měsacow
+vpn-shared-pricing-plan-12-month-v2 = 12-měsačny plan
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 měsacow
+vpn-shared-pricing-plan-monthly-v2 = Měsačny plan
+# Outdated string
 vpn-shared-pricing-plan-monthly = Kóždy měsac
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/měsac</span>
 vpn-shared-pricing-get-6-month = 6-měsačny plan wobstarać
 # Outdated string
 vpn-shared-pricing-get-12-month = 12-měsačny plan wobstarać
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = 6-měsačny plan wobstarać
 vpn-shared-pricing-get-12-month-v2 = 12-měsačny plan wobstarać
 vpn-shared-pricing-get-monthly = Měsačny plan wobstarać
@@ -122,6 +126,11 @@ vpn-subnav-subscribe = { -brand-name-mozilla-vpn } abonować
 
 vpn-shared-affiliate-notification-reject = Wotpokazać
 vpn-shared-affiliate-notification-ok = W porjadku
+
+## VPN + Relay bundle offer
+
+vpn-shared-relay-email-masking = E-mejlowe maskowanje
+vpn-shared-relay-phone-masking = Telefonowe maskowanje
 
 ##
 
