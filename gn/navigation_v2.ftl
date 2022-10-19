@@ -68,6 +68,7 @@ navigation-v2-careers = Mbo’esyryete
 navigation-v2-work-for-a-mission-driven-updated = Emba’apo peteĩ atyguasu orekóva hembipotáramo apopyre opavavépe g̃uarãva.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Eikuaa { -brand-name-mozilla } rehegua ha umi apañuãi romomba’éva.
+navigation-v2-stories = Tembiasakue
 navigation-v2-more-about-mozilla = Hetave { -brand-name-mozilla } rehegua
 
 ## Innovation menu
@@ -86,4 +87,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Eme’ẽ nde ayvu ñanduti renonderãme g̃uarã ohendu hag̃ua opavave.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Eikuaave ñe’ẽ pyahu eikuaaramóva, ojoguáva peteĩ jejapopyrévape.
-navigation-v2-more-mozilla-innovation = { -brand-name-mozilla } Ñembopyahuve
