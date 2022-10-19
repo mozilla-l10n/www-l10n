@@ -8,6 +8,7 @@
 welcome-page14-page-title = Ebben a kiberbiztonsági hónapban 20% kedvezménnyel kínáljuk a { -brand-name-mozilla-vpn }-t
 welcome-page14-page-title-alt = Ez a kiberbiztonság hónapja – itt az ideje, hogy magasabb szintre emelje az adatvédelmét
 welcome-page14-main-description = A { -brand-name-mozilla-vpn } (virtuális magánhálózat) teljes internetkapcsolatát védi számítógépén, táblagépén, sőt telefonján is. A még nagyobb biztonság érdekében 30 napos pénzvisszafizetési garanciával rendelkezik.
+welcome-page14-main-description-v2 = A { -brand-name-mozilla-vpn } (virtuális magánhálózat) teljes internetkapcsolatát védi számítógépén, táblagépén és telefonján. A még nagyobb biztonság érdekében 30 napos pénzvisszafizetési garanciával rendelkezik.
 welcome-page14-get-mozilla-vpn = { -brand-name-mozilla-vpn } beszerzése
 welcome-page14-use-code = Használja a kódot a fizetésnél, hogy 20% kedvezményt kapjon
 welcome-page14-copy-code = Kód másolása
