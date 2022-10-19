@@ -8,6 +8,7 @@
 welcome-page14-page-title = Tento mesiac kybernetickej bezpečnosti získajte zľavu 20 % na { -brand-name-mozilla-vpn }
 welcome-page14-page-title-alt = Je tu mesiac kybernetickej bezpečnosti – čas na zlepšenie súkromia
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (Virtual Private Network) chráni celé vaše internetové pripojenie na vašom počítači, tablete a dokonca aj telefóne. Pre ešte väčšiu bezpečnosť prichádza s 30-dňovou zárukou vrátenia peňazí.
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (Virtual Private Network) chráni celé vaše internetové pripojenie na vašom počítači, tablete a telefóne. Pre ešte väčšiu bezpečnosť prichádza s 30-dňovou zárukou vrátenia peňazí.
 welcome-page14-get-mozilla-vpn = Získajte { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Použite tento kód v pokladni a získajte zľavu 20 %.
 welcome-page14-copy-code = Kopírovať kód

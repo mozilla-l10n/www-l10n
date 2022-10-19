@@ -68,6 +68,8 @@ navigation-v2-careers = Zamestnanie
 navigation-v2-work-for-a-mission-driven-updated = Pracujte pre organizáciu, ktorá tvorí produkty s určitým zmyslom.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla(case: "gen") }
 navigation-v2-learn-about-mozilla-and = Zistite viac o { -brand-name-mozilla(case: "loc") } a o problémoch, na ktorých vyriešení nám záleží.
+navigation-v2-stories = Príbehy
+navigation-v2-stories-about-how = Príbehy o tom, ako naši ľudia a produkty menia svet k lepšiemu.
 navigation-v2-more-about-mozilla = Ďalšie informácie o { -brand-name-mozilla(case: "loc") }
 
 ## Innovation menu
@@ -86,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Prispejte svojim hlasom, aby bolo v budúcnosti počuť každého
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Zistite viac o novom, nízkoúrovňovom jazyku.
-navigation-v2-more-mozilla-innovation = Ďalšie inovácie od { -brand-name-mozilla(case: "gen") }
