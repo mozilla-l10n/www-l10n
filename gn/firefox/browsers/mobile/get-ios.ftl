@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/get-ios/
 
+# HTML page title
+get-ios-firefox-for-ios = { -brand-name-firefox-browser } { -brand-name-ios } peg̃uarã
 get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Emboguejy { -brand-name-firefox } { -brand-name-ios } peg̃uarã
 get-ios-firefox-mobile-adapts = { -brand-name-firefox } pumbyrygua oñemoĩ nendive ha nombohasyive ehechávo tendayke ijurujáva, ojeheka ramovéva ha tendakuéra eikeveha.
