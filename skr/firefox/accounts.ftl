@@ -16,6 +16,7 @@ firefox-accounts-already-have-an-account = بھلا پہلے ہی ہک کھات�
 firefox-accounts-sign-in = سائن ان
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } او ٹیکنالوجی ہے جہڑی تہاݙے کیتے جدوجہد کریندی ہے۔
 firefox-accounts-get-technology-that = او ٹیکنالوجی گھنو جہڑی تہاݙے کیتے جدوجہد کرے۔
+firefox-accounts-travel-the-internet = ہر ڈیوائس تے حفاظت نال انٹرنیٹ دا پن٘دھ کرو۔
 # Obsolete string
 firefox-accounts-share-large-files = وݙیاں فائلاں کوں ٹوہ لائے بغیر شیئر کرو۔
 firefox-accounts-get-the-respect-you = او عزت گھنو جیندے تساں مستحق ہو۔
