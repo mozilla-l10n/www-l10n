@@ -8,6 +8,7 @@
 welcome-page14-page-title = Neste mês da segurança cibernética, ganhe 20% de desconto no { -brand-name-mozilla-vpn }
 welcome-page14-page-title-alt = Mês da segurança cibernética, é hora de melhorar sua privacidade
 welcome-page14-main-description = O { -brand-name-mozilla-vpn } protege toda sua conexão com a Internet em seu computador, tablet e até no celular. Para dar ainda mais segurança, ele vem com uma garantia de devolução do dinheiro por até 30 dias.
+welcome-page14-main-description-v2 = O { -brand-name-mozilla-vpn } protege toda sua conexão com a Internet em seu computador, tablet e celular. Para dar ainda mais segurança, ele vem com garantia de devolução do dinheiro por até 30 dias.
 welcome-page14-get-mozilla-vpn = Instale o { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Use o código ao concluir para ter 20% de desconto
 welcome-page14-copy-code = Copiar código
