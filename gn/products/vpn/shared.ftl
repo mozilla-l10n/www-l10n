@@ -132,6 +132,10 @@ vpn-shared-affiliate-notification-ok = MONEĨ
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = Eñemohekorosãvekuaa { -brand-name-vpn } + { -brand-name-relay } ndive
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Embojuaju <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Ñanduti veve rovamo’ã
 vpn-shared-relay-phone-masking = Pumbyry rovamo’ã
 vpn-shared-get-vpn-plus-relay = Ereko { -brand-name-vpn } + { -brand-name-relay }
