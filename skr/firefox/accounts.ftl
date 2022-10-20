@@ -14,9 +14,13 @@ firefox-accounts-join-firefox = { -brand-name-firefox } وچ رلت کرو
 firefox-accounts-enter-your-email-address = شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو۔
 firefox-accounts-already-have-an-account = بھلا پہلے ہی ہک کھاتہ ہے؟
 firefox-accounts-sign-in = سائن ان
+firefox-accounts-meet-our-family-of = رازداری ــ پہلے مصنوعات دے ساݙے ٹٻر کوں ملو۔
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } او ٹیکنالوجی ہے جہڑی تہاݙے کیتے جدوجہد کریندی ہے۔
 firefox-accounts-get-technology-that = او ٹیکنالوجی گھنو جہڑی تہاݙے کیتے جدوجہد کرے۔
 firefox-accounts-travel-the-internet = ہر ڈیوائس تے حفاظت نال انٹرنیٹ دا پن٘دھ کرو۔
+# Obsolete string
+firefox-accounts-keep-your-passwords = آپݨے پاس ورڈ حفاظت نال تے پورٹیبل رکھو۔
+firefox-accounts-get-a-lookout-for = ڈیٹا دی خلاف ورزیاں ݙیکھو۔
 # Obsolete string
 firefox-accounts-share-large-files = وݙیاں فائلاں کوں ٹوہ لائے بغیر شیئر کرو۔
 firefox-accounts-get-the-respect-you = او عزت گھنو جیندے تساں مستحق ہو۔
