@@ -8,6 +8,7 @@
 welcome-page14-page-title = Untfang dizze Cybersecurity-moanne 20% koarting op { -brand-name-mozilla-vpn }
 welcome-page14-page-title-alt = It is Cybersecurity-moanne – tiid om jo privacy te ferheegjen
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (Virtual Private Network) beskermet jo folsleine ynternetferbining op jo kompjûter, jo tablet en sels jo telefoan. Foar noch mear feilichheid wurdt it levere mei in 30-dagen-jild-werom-garânsje.
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (Virtual Private Network) beskermet jo folsleine ynternetferbining op jo kompjûter, tablet en telefoan. Foar noch mear feilichheid wurdt it levere mei in 30-dagen-jild-werom-garânsje.
 welcome-page14-get-mozilla-vpn = { -brand-name-mozilla-vpn } downloade
 welcome-page14-use-code = Brûk koade by ôfrekkenjen foar 20% koarting
 welcome-page14-copy-code = Koade kopiearje
