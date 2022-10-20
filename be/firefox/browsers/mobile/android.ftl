@@ -33,7 +33,7 @@ mobile-android-no-need-to = Не трэба адкрываць праграму.
 mobile-android-pin-videos-to = Замацоўвайце відэа на экране
 mobile-android-about-mozilla = Пра { -brand-name-mozilla }
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
-mobile-android-short-cut-the-internet = Уварвіцеся ў Інтэрнэт з { -brand-name-firefox } доўжачы { -brand-name-android }
+mobile-android-short-cut-the-internet = Уварвіцеся ў Інтэрнэт з { -brand-name-firefox } для { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Праглядайце ўсе свае адкрытыя карткі, нядаўнія пошукавыя запыты і ўлюбёныя сайты ў адным месцы з { -brand-name-firefox } для { -brand-name-android }.
 mobile-android-own-your-home = Наладжвайце свой хатні экран
 mobile-android-get-to-the-parts = Знаходзьце тое, што вас цікавіць у Інтэрнэце, хутчэй. Абірайце прагляд усіх адкрытых картак, нядаўніх пошукавых запытаў, закладак і ўлюбёных сайтаў у адным месцы.
