@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
+welcome-page14-page-title = Ko jasy ciberseguridad rehegua, ehepyme’ẽ’ive 20% { -brand-name-mozilla-vpn } ndive
 welcome-page14-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Eipuru ayvu ejogua rire ehepyme’ẽ hag̃ua 20% sa’ive
 welcome-page14-copy-code = Emonguatia ayvu
