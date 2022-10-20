@@ -8,6 +8,7 @@
 welcome-page14-page-title = Iste mense del securitate informatic, obtene un 20% de disconto sur { -brand-name-mozilla-vpn }
 welcome-page14-page-title-alt = Il es le mense del securitate informatic, tempore le elevar le nivello de tu confidentialitate
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (rete private virtual) protege tote tu connexion a Internet in tu computator, tabletta o tu telephono. Para mayor securitate, veni con un garantia de reimbursa de 30 dies.
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (Rete virtual private) protege tote tu connexiones a internet sur tu computatores, tablettas e telephonos. Pro ancora plus securitate, illo veni con un garantia de reimbursamento de 30-dies.
 welcome-page14-get-mozilla-vpn = Installa { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Usa le codice al fin del compra pro un 20% de disconto
 welcome-page14-copy-code = Copiar codice
