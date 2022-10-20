@@ -64,6 +64,7 @@ vpn-shared-pricing-variable-heading-v2 = Επιλέξτε το πακέτο συ
 vpn-shared-pricing-variable-heading = Επιλέξτε το πρόγραμμα που σας ταιριάζει
 vpn-shared-pricing-variable-sub-heading = Όλα μας τα πακέτα περιλαμβάνουν:
 vpn-shared-pricing-recommended-offer = Προτείνεται
+vpn-shared-pricing-plan-12-month-v2 = 12μηνο πακέτο
 # Outdated string
 vpn-shared-pricing-plan-12-month = 12 μηνών
 vpn-shared-pricing-plan-monthly-v2 = Μηνιαίο πακέτο
