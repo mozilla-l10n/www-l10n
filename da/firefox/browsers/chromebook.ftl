@@ -9,6 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Hent { -brand-name-firefox-browser } til { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = Du har en { -brand-name-chromebook } - nu er det tid til at få den uafhængige, automatisk private { -brand-name-firefox-browser } til at beskytte dine personlige data.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Hent { -brand-name-firefox } til { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Hent { -brand-name-firefox } Desktop til { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = *x86 baseret { -brand-name-chromebook } med { -brand-name-chromeos } 80 eller nyere
