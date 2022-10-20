@@ -8,6 +8,7 @@
 welcome-page14-page-title = Tháng an ninh mạng này, giảm giá 20% { -brand-name-mozilla-vpn }
 welcome-page14-page-title-alt = Đó là tháng an ninh mạng — thời gian để nâng cấp quyền riêng tư của bạn
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (mạng riêng ảo) bảo vệ toàn bộ kết nối internet của bạn trên máy tính, máy tính bảng và thậm chí cả điện thoại của bạn. Để bảo mật hơn nữa, nó đi kèm với đảm bảo hoàn tiền trong 30 ngày.
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (mạng riêng ảo) bảo vệ toàn bộ kết nối internet trên máy tính, máy tính bảng và thậm chí cả điện thoại của bạn. Để bảo mật hơn nữa, nó đi kèm với đảm bảo hoàn tiền trong 30 ngày.
 welcome-page14-get-mozilla-vpn = Nhận { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Sử dụng mã khi thanh toán để được giảm giá 20%
 welcome-page14-copy-code = Sao chép mã
