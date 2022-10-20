@@ -13,7 +13,7 @@ browsers-chromebook-so-youve-got = Du har en { -brand-name-chromebook } - nu er 
 browsers-chromebook-browsers-chromebook-get-firefox-for = Hent { -brand-name-firefox } til { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Hent { -brand-name-firefox } Desktop til { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = *x86 baseret { -brand-name-chromebook } med { -brand-name-chromeos } 80 eller nyere
-browsers-chromebook-dropdown-copy = Få { -brand-name-firefox } til { -brand-name-chromebook }
+browsers-chromebook-dropdown-copy = Hent { -brand-name-firefox } til { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Hvorfor bruge <span>{ -brand-name-firefox }</span> på { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Selvom { -brand-name-chromebook } allerede har { -brand-name-chrome } installeret, vil det give dig nogle fordele at hente og bruge { -brand-name-firefox } som din foretrukne browser:
@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = Installer { -brand-name-firefox } fra
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Installer { -brand-name-firefox } som en { -brand-name-linux }-app: Denne metode kræver lidt mere, men det er det hele værd. Når du installerer { -brand-name-firefox } på denne måde, får du { -brand-name-firefox } desktopversionen af browseren og alle de fordele, der følger med, inklusiv udvidet beskyttelse mod sporing, indbygget adgangskode-håndtering, adgang til tusindvis af tilføjelser (inklusive UBlock Origin-reklameblokering) og temaer til at tilpasse din browsers udseende. <a { $url }>Få flere oplysninger om installation af { -brand-name-firefox } computerbrowser til { -brand-name-chromebook }.</a>
