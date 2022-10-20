@@ -16,6 +16,12 @@ browsers-chromebook-x86-based-chromebook = *x86 baseret { -brand-name-chromebook
 browsers-chromebook-dropdown-copy = Få { -brand-name-firefox } til { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Hvorfor bruge <span>{ -brand-name-firefox }</span> på { -brand-name-chromebook }?
+browsers-chromebook-while-a-chromebook = Selvom { -brand-name-chromebook } allerede har { -brand-name-chrome } installeret, vil det give dig nogle fordele at hente og bruge { -brand-name-firefox } som din foretrukne browser:
+browsers-chromebook-alwayson-tracking-protection = Permanent sporingsbeskyttelse: Som standard anvender { -brand-name-firefox } udvidet beskyttelse mod sporing for at beskytte dine personlige data mod sporing via annoncer og sociale medier samt cryptomining-scripts, der følger dig rundt på nettet.
+browsers-chromebook-supporting-independent-technology = Understøtter uafhængig teknologi: Da de fleste større browsere nu er baseret på { -brand-name-chromium }, er der færre muligheder, der ikke fodrer Big Tech-maskinen. { -brand-name-firefox } er støttet af en nonprofit-organisation og er dedikeret til at skabe et bedre internet. Ved at bruge { -brand-name-firefox } er du en del af det.
+browsers-chromebook-is-it-hard = Er det svært at installere { -brand-name-firefox } på en { -brand-name-chromebook }?
+browsers-chromebook-we-wish-it = Vi ville ønske, at det var mere ligetil, men din { -brand-name-chromebook } vil gerne begrænse dig til { -brand-name-google-play }-økosystemet. Vi mener dog, at det er umagen værd at installere { -brand-name-firefox } på din { -brand-name-chromebook } – og vi kan hjælpe dig, hvis du har brug for det. Der er to måder at få { -brand-name-firefox } på din enhed.
+browsers-chromebook-install-firefox-from = Installer { -brand-name-firefox } fra { -brand-name-google-play }: På nyere versioner af { -brand-name-chromeos }  (x86-baseret { -brand-name-chromebook } med { -brand-name-chromeos } 80 eller nyere) har du mulighed for at installere appen { -brand-name-firefox } til { -brand-name-android }. Denne app er udviklet til mobile enheder.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
