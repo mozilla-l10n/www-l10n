@@ -140,6 +140,12 @@ vpn-add-relay-to-protect = Add { -brand-name-firefox-relay } to your subscriptio
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Add <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Email masking
+vpn-shared-relay-phone-masking = Phone masking
+vpn-shared-get-vpn-plus-relay = Get { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Why bundle?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Save { $percent }%</span> on { -brand-name-relay-premium } yearly plan
 
 ##
 
