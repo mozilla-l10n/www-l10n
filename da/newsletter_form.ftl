@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = Indtast en gyldig mailadresse.
 newsletter-form-you-must-agree-to = Du skal acceptere privatlivspolitikken
 newsletter-form-your-email-address = Din mailadresse
+newsletter-form-we-are-sorry-but-there = Vi beklager, men der opstod et problem med vores system. Prøv igen senere!
+newsletter-form-please-select-country = Vælg et land eller en region
+newsletter-form-please-select-language = Vælg et sprog
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = navn@eksempel.dk
 newsletter-form-select-country-or-region = Vælg land eller region
