@@ -9,6 +9,7 @@ data-preferences-page-title = Emombarete erohoryvéva mba’ekuaarã ñembyaty r
 data-preferences-notification-opt-out = Emboyke mba’ekuaarã teéva ñembyaty
 data-preferences-notification-opt-in = Emoneĩ mba’ekuaarã teéva ñembyaty
 data-preferences-current-preference = Erohoryvéva ag̃agua:
+data-preferences-please-enable-javascript = Ikatúpa emyandy JavaScript eñangareko hag̃ua erohoryvéva mba’ekuaarã.
 data-preferences-opt-out-button = Emboyke mba’ekuaarã teéva ñembyaty
 data-preferences-if-you-change = Embojevýramo ne ñe’ẽ, emoneĩkuaa ko’ápe:
 data-preferences-opt-in-button = Emoneĩ mba’ekuaarã teéva ñembyaty

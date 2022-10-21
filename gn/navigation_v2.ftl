@@ -69,6 +69,7 @@ navigation-v2-work-for-a-mission-driven-updated = Emba’apo peteĩ atyguasu ore
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Eikuaa { -brand-name-mozilla } rehegua ha umi apañuãi romomba’éva.
 navigation-v2-stories = Tembiasakue
+navigation-v2-stories-about-how = Tembiasakue mba’éichapa yvypóra ha ore apopyre omoporãve arapy.
 navigation-v2-more-about-mozilla = Hetave { -brand-name-mozilla } rehegua
 
 ## Innovation menu
