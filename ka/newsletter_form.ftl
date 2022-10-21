@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = გთხოვთ მიუთითოთ ელფოსტის მართებული მისამართი.
 newsletter-form-you-must-agree-to = უნდა დაეთანხმოთ გამოყენების პირობებს
 newsletter-form-your-email-address = თქვენი ელფოსტის მისამართი
+newsletter-form-we-are-sorry-but-there = სამწუხაროდ, რაღაც შეფერხებაა სისტემაში. გთხოვთ, სცადოთ მოგვიანებით!
+newsletter-form-please-select-country = გთხოვთ, აირჩიოთ ქვეყანა ან მხარე
+newsletter-form-please-select-language = გთხოვთ, აირჩიოთ ენა
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = sakheli@example.com
 newsletter-form-select-country-or-region = მიუთითეთ ქვეყანა ან მხარე

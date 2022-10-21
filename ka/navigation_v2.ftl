@@ -68,6 +68,8 @@ navigation-v2-careers = დასაქმება
 navigation-v2-work-for-a-mission-driven-updated = იმუშავეთ დაწესებულებაში, რომელიც ისწრაფვის განსაზღვრული მიზნისკენ და ქმნის ხალხის უწინარესობის უზრუნველმყოფ პროდუქტებს.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } სვეტი
 navigation-v2-learn-about-mozilla-and = იხილეთ { -brand-name-mozilla } და საკითხები, რომლებიც მეტად გვაღელვებს.
+navigation-v2-stories = ამბები
+navigation-v2-stories-about-how = ამბები, რომლებიც მოგითხრობთ, როგორ ცვლის ჩვენი ხალხი და პროდუქტები სამყაროს უკეთესობისკენ.
 navigation-v2-more-about-mozilla = უკეთ გაიცანით { -brand-name-mozilla }
 
 ## Innovation menu

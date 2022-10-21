@@ -136,6 +136,16 @@ vpn-shared-increase-your-privacy = პირადულობის დაც�
 # Variables:
 #   $url (string) - link to https://relay.firefox.com/premium/
 vpn-add-relay-to-protect = დაამატეთ { -brand-name-firefox-relay } თქვენს გამოწერას, რომ დაიცვათ ელფოსტა და სატელეფონო ნომერი. <a href="{ $url }">ვრცლად</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = დაამატეთ <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = ელფოსტის შენიღბვა
+vpn-shared-relay-phone-masking = ტელეფონის შენიღბვა
+vpn-shared-get-vpn-plus-relay = ჩართეთ { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = რატომ ერთად?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>დაზოგეთ { $percent }%</span> { -brand-name-relay-premium }-ის წლიური საგადასახადო გეგმით
 
 ##
 

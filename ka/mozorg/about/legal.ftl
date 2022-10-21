@@ -36,4 +36,5 @@ legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } მომსახურების პირობები
 legal-report-copyright = გვაცნობეთ საავტორო უფლებების ან სავაჭრო ნიშნების დარღვევებზე
 legal-hubs = { -brand-name-mozilla-hubs }
-legal-hubs-terms = { -brand-name-mozilla-hubs } Terms of Service
+legal-hubs-terms = { -brand-name-mozilla-hubs } – მომსახურების პირობები
+legal-mozilla-subscription-services = { -brand-name-mozilla }-ს გამოსაწერი მომსახურებები
