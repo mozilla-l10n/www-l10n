@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = აირჩიეთ ხელშე�
 vpn-shared-pricing-variable-heading = აირჩიეთ სასურველი გეგმა
 vpn-shared-pricing-variable-sub-heading = ყველა ჩვენი გეგმა მოიცავს:
 vpn-shared-pricing-recommended-offer = სასურველია
-vpn-shared-pricing-plan-6-month = 6 თვე
+vpn-shared-pricing-plan-12-month-v2 = 12-თვიანი საგადასახადო გეგმა
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 თვე
+vpn-shared-pricing-plan-monthly-v2 = ერთთვიანი საგადასახადო გეგმა
+# Outdated string
 vpn-shared-pricing-plan-monthly = ყოველთვიური
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 vpn-shared-pricing-get-6-month = 6-თვიანი გეგმით სარგებლობა
 # Outdated string
 vpn-shared-pricing-get-12-month = 12-თვიანი გეგმით სარგებლობა
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = ისარგებლეთ 6-თვიანი გეგმით
 vpn-shared-pricing-get-12-month-v2 = ისარგებლეთ 12-თვიანი გეგმით
 vpn-shared-pricing-get-monthly = ყოველთვიური გეგმით სარგებლობა
@@ -125,6 +129,13 @@ vpn-subnav-subscribe = გამოიწერეთ { -brand-name-mozilla-vpn 
 vpn-shared-affiliate-notification-message = საიტზე ვიყენებთ ფუნთუშებს, რათა გავიგოთ, რომელმა ჩვენმა მოკავშირე მხარემ გაგაცნოთ { -brand-name-mozilla-vpn }. ჩვენ არ ვუზიარებთ ვინაობის გასამჟღავნებელ მონაცემებს თანამშრომელ კომპანიებს. იხილეთ ჩვენი <a { $attrs }>პირადულობის დებულება</a>.
 vpn-shared-affiliate-notification-reject = უარყოფა
 vpn-shared-affiliate-notification-ok = კარგი
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = პირადულობის დაცვის ასამაღლებლად გამოიყენეთ { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = დაამატეთ { -brand-name-firefox-relay } თქვენს გამოწერას, რომ დაიცვათ ელფოსტა და სატელეფონო ნომერი. <a href="{ $url }">ვრცლად</a>.
 
 ##
 
