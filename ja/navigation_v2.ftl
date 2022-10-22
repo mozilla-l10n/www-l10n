@@ -70,6 +70,8 @@ navigation-v2-careers = 採用情報
 navigation-v2-work-for-a-mission-driven-updated = ユーザーファーストの製品を開発するミッション志向の組織で仕事をしませんか。
 navigation-v2-mozilla-blog = { -brand-name-mozilla } のブログ
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } と、私たちが気にかける問題をご覧ください。
+navigation-v2-stories = ストーリー
+navigation-v2-stories-about-how = 世界をより良く変える Mozilla の人と製品のストーリー。
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } の詳細
 
 ## Innovation menu
