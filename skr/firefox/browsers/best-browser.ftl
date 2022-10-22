@@ -9,3 +9,4 @@ best-browser-find-your-best-browser = رفتار، رازداری تے سلام�
 best-browser-privacy-speed-and-security = رازداری، رفتار تے سلامتی۔
 best-browser-how-to-choose-the-best = آپݨے کیتے بہترین براؤزر کین٘ویں چݨسو۔
 best-browser-a-browser-built-for = رفتار کیتے بݨیا ہویا براؤزر
+best-browser-a-browser-that-puts = ہک براؤزر جہڑا حفاظت کوں پہلے رکھدے۔
