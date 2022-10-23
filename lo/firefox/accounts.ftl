@@ -39,6 +39,9 @@ firefox-accounts-and-get-it-all-on = ແລະ ດາວໂຫຼດຜະລິ
 firefox-accounts-get-the-respect-you = ໄດ້ຮັບຄວາມເຄົາລົບທີ່ທ່ານສົມຄວນໄດ້ຮັບ.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-whole-device-protection = ການປົກປ້ອງອຸປະກອນທັງຫມົດໃນທຸກອຸປະກອນ
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
+firefox-accounts-youll-always-get-the = ເຈົ້າຈະໄດ້ຮັບຄວາມຈິງຈາກພວກເຮົາສະ ເໝີ. ທຸກຢ່າງທີ່ພວກເຮົາເຮັດ ແລະເຮັດແມ່ນໃຫ້ກຽດແກ່ <a href="{ $promise }">ຄຳສັນຍາກ່ຽວກັບຂໍ້ມູນສ່ວນຕົວ</a> ຂອງພວກເຮົາ:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = ເອົາໜ້ອຍລົງ.<br> ຮັກສາມັນໃຫ້ປອດໄພ.<br> ບໍ່ມີຄວາມລັບ.
 firefox-accounts-get-the-knowledge = ຮັບຄວາມຮູ້ທີ່ຮັກສາໃຫ້ທ່ານປອດໄພ.

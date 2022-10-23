@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
+# HTML page title.
+compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } ທຽບກັບ { -brand-name-microsoft } { -brand-name-edge }: ອັນໃດແມ່ນຕົວທ່ອງເວັບທີ່ດີກວ່າສໍາລັບທ່ານ?
 # Main title.
 compare-edge-comparing-firefox-browser-with = ປຽບທຽບ { -brand-name-firefox-browser } ກັບ { -brand-name-microsoft } { -brand-name-edge }

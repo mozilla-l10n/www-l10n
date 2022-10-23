@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
 
+# HTML page title
+compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } ທຽບກັບ { -brand-name-ie }: ອັນໃດແມ່ນຕົວທ່ອງເວັບທີ່ດີກວ່າສໍາລັບທ່ານ?
 # Main title
 compare-ie-comparing-firefox-browser-with = ປຽບທຽບ { -brand-name-firefox-browser } ກັບ { -brand-name-microsoft } { -brand-name-ie }
