@@ -20,6 +20,7 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } для { -brand-name-i
 browsers-mobile-go-your-own-way = Ідзіце сваім шляхам з мабільным { -brand-name-firefox }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Параўнайце мабільныя браўзеры
+browsers-mobile-see-how-firefox-stacks-up = Паглядзіце, як { -brand-name-firefox } адрозніваецца ад іншых папулярных браўзераў у трох асноўных аспектах: прыватнасці, функцыянальнасці і сінхранізацыі.
 browsers-mobile-compare = Параўнаць
 browsers-mobile-see-how-firefox-for-desktop-stacks = Паглядзіце, чым { -brand-name-firefox } для камп'ютара адрозніваецца ад сямі іншых браўзераў.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
