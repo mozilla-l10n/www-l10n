@@ -20,6 +20,7 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } для { -brand-name-i
 browsers-mobile-go-your-own-way = Абірай свой шлях разам з мабільным { -brand-name-firefox }
 browsers-mobile-the-more-you-use = Чым больш вы карыстаецеся ім, тым разумнейшым ён становіцца. Хатні экран { -brand-name-firefox } адаптуецца да вас і дазваляе працягваць працу з таго месца, дзе вы спыніліся.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = Шукаеце аптымізаваны, звышхуткі мабільны браўзер з функцыямі прыватнасці наступнага ўзроўню? { -brand-name-firefox-focus } аўтаматычна сцірае ўсю вашу гісторыю аглядання з моманту адкрыцця браўзера да секунды яго закрыцця.
 browsers-mobile-compare-mobile-browsers = Параўнайце мабільныя браўзеры
 browsers-mobile-see-how-firefox-stacks-up = Паглядзіце, як { -brand-name-firefox } адрозніваецца ад іншых папулярных браўзераў у трох асноўных аспектах: прыватнасці, функцыянальнасці і сінхранізацыі.
 browsers-mobile-compare = Параўнаць
