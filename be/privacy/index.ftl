@@ -32,16 +32,15 @@ privacy-index-to-review-and-comment-on-proposed = Каб праглядаць і
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = <a href="{ $blog }">Блог „Open Policy and Advocacy” { -brand-name-mozilla }</a> змяшчае далейшыя звесткі аб бягучых працах над публічнай палітыкай прыватнасці і бяспекі.
 privacy-index-outdated-policies = Папярэднія версіі
-privacy-index-mozilla-websites-communications = Вэб-сайты, камунікацыі і кукі { -brand-name-mozilla }
+privacy-index-mozilla-websites-communications = Вэб-сайты, кантакты і кукі { -brand-name-mozilla }
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-relay = { -brand-name-firefox-relay }
 privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
 privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
-privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-hubs = { -brand-name-mozilla-hubs }
+privacy-index-mozilla-subscription-services = Службы падпіскі { -brand-name-mozilla }
