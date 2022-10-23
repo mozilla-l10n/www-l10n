@@ -18,6 +18,7 @@ firefox-all-platform = ແພັລດຟອມ
 firefox-all-language = ພາສາ:
 firefox-all-lang-multi = ຫຼາຍພາສາ
 firefox-all-sorry-we-couldnt-find = ຂໍອະໄພ, ພວກເຮົາບໍ່ສາມາດດາວໂຫລດໃນສຶ່ງທີ່ທ່ານກຳລັງຊອກຫາຢູ່. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ ຫລື ເລືອກດາວໂຫລດຈາກລາຍຊື່ຂ້າງລຸ່ມນີ້.
+firefox-all-the-pre-alpha-version = ເວີຊັ່ນກ່ອນອັນຟາສຳລັບຜູ້ໃຊ້ພະລັງງານທີ່ມັກການລ່າຫາການຂັດຂ້ອງ ແລະທົດສອບຄຸນສົມບັດໃໝ່ໆເມື່ອພວກເຂົາຖືກລະຫັດ.
 firefox-all-64-bit-installers = ຕົວຕິດຕັ້ງ 64 ບິດ
 firefox-all-32-bit-installers = ຕົວຕິດຕັ້ງ 32 ບິດ
 # HTML page title. Replace "English (US)" with your local language.
