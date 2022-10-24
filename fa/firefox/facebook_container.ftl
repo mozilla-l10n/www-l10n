@@ -14,7 +14,7 @@ facebook-container-download-firefox-and-get-the = { -brand-name-firefox } را �
 facebook-container-the-facebook-container-extension = افزونه { -brand-name-facebook-container } برای دستگاه‌های همراه در دسترس نیست.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = ‌<strong>{ -brand-name-firefox-focus }</strong> را امتحان کنید، مرورگری برای حریم‌خصوصی در اندروید و { -brand-name-ios }.
+facebook-container-try-firefox-focus-the-privacy = ‌<strong>{ -brand-name-firefox-focus }</strong> را امتحان کنید، مرورگری برای حریم‌خصوصی در { -brand-name-android } و { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = با شرایط خودتان خارج شوید
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

@@ -52,5 +52,5 @@ firefox-channel-try-new-features-in-a-pre-release = امکانات جدید مر
 firefox-channel-experience-cutting-edge-features-ios = تازه‌ترین امکانات مرورگر { -brand-name-ios } را در نگارش‌های قبل از انتشار آن از طریق برنامه { -brand-name-test-flight } اپل تجربه کنید. هم‌اکنون نصب کنید!
 firefox-channel-test-beta-versions-of-firefox-ios-long = نسخه‌های بتا { -brand-name-firefox } برای { -brand-name-ios } را از طریق برنامه { -brand-name-test-flight } شرکت { -brand-name-apple } بررسی کنید و کمک کنید تا مرورگر ما برای { -brand-name-iphone }، { -brand-name-ipad } و iPod از این هم بهتر بشود.
 firefox-channel-test-flight = { -brand-name-test-flight }
-firefox-channel-test-beta-versions-of-firefox-ios = نسخه بتا فایرفاکس برای { -brand-name-ios } را از طریق برنامه { -brand-name-test-flight } اپل آزمایش کنید.
+firefox-channel-test-beta-versions-of-firefox-ios = نسخه بتا { -brand-name-firefox } برای { -brand-name-ios } را از طریق برنامه { -brand-name-test-flight } { -brand-name-apple } آزمایش کنید.
 firefox-channel-sign-up-now = امروز ثبت‌نام کنید
