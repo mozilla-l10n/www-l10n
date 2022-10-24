@@ -52,8 +52,8 @@ firefox-developer-style-editor = ویرایشگر سبک
 firefox-developer-edit-and-manage = همه صفحه‌های CSSتان را در مرورگر خود ویرایش و مدیریت کنید.
 firefox-developer-learn-more-about-style = در مورد ویرایشگر سبک بیشتر بدانید
 firefox-developer-new-tools = ابزارهای جدید
-firefox-developer-firefox-devtools = DevTools فایرفاکس
-firefox-developer-the-new-firefox-devtools = DevTools جدید فایرفاکس قدرتمند است،‌ منعطف است و از همه مهم تر قابل هک شدن و تغییر است. و شامل یکی از بهترین اشکال‌زداهای JavaScript است که می‌تواند چند مرورگر را هدف بگیرد و  توسط React و React ساخته شده است.
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
+firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } جدید قدرتمند است،‌ منعطف است و از همه مهم تر قابل هک شدن و تغییر است. و شامل یکی از بهترین اشکال‌زداهای JavaScript است که می‌تواند چند مرورگر را هدف بگیرد و  توسط React و React ساخته شده است.
 firefox-developer-master-css-grid = استاد شبکه‌های CSS بشوید
 # outdated
 firefox-developer-next-gen-css-engine = نسل بعدی موتور CSS

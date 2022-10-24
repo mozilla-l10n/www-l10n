@@ -27,4 +27,4 @@ facebook-container-about-firefox-and-mozilla = دربارهٔ { -brand-name-fire
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
 facebook-container-were-backed-by-mozilla-the = ما توسط <a href="{ $mozilla }">موزیلا</a> پشتیبانی می‌شویم، سازمانی غیرانتفاعی که مردم را ارجح‌تر از سود قرار می‌دهد تا به هر کسی قدر بیشتری در زندگی آنلاین خود را بدهد. ما این افزونه را ساختیم زیرا که باور داریم که شما باید ابزارهایی ساده برای مدیریت حریم‌خصوصی و امنیت خود داشته باشید.
-facebook-container-browse-freely-with-firefox = از امروز با فایرفاکس آزادانه وب را مرور کنید.
+facebook-container-browse-freely-with-firefox = از امروز با { -brand-name-firefox } آزادانه وب را مرور کنید.
