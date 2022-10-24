@@ -1,16 +1,16 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = مرورگر فایرفاکس: نشانک‌های بهتر، هر جایی که می‌روید
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: نشانک‌های بهتر، هر جایی که می‌روید
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = به آسانی نشانک‌های خود را در پوشه‌ها سازمان‌دهی کنید و در تمام دستگاه‌هایتان به آن‌ها دسترسی داشته باشید، از رایانه‌ رومیزی تا موبایل.
 features-bookmarks-better-bookmarks = نشانک‌های بهتر
-features-bookmarks-dont-agonize-lovers-of = تکان نخورید،‌ عاشقان نشانه گذاری، با فایرفاکس سازمان دهی کنید.
+features-bookmarks-dont-agonize-lovers-of = تکان نخورید،‌ عاشقان نشانه گذاری، با { -brand-name-firefox } سازمان دهی کنید.
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = دخیره یک نشانک‌گذاری
 # Dial in means to access/use (the bookmarks).

@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = فایرفاکس ویرایش توسعه‌دهندگان مرورگر بسیار سریعی است که پیشرفته‌ترین ابزار‌های توسعه و آخرین ویژگی‌هایی مانند پشتیبانی از CSS Grid و اشکال‌زدایی چهارچوب را ارائه می‌کند
@@ -55,21 +55,22 @@ firefox-developer-new-tools = ابزارهای جدید
 firefox-developer-firefox-devtools = DevTools فایرفاکس
 firefox-developer-the-new-firefox-devtools = DevTools جدید فایرفاکس قدرتمند است،‌ منعطف است و از همه مهم تر قابل هک شدن و تغییر است. و شامل یکی از بهترین اشکال‌زداهای JavaScript است که می‌تواند چند مرورگر را هدف بگیرد و  توسط React و React ساخته شده است.
 firefox-developer-master-css-grid = استاد شبکه‌های CSS بشوید
+# outdated
 firefox-developer-next-gen-css-engine = نسل بعدی موتور CSS
 firefox-developer-a-next-generation = نسل جدید موتور‌CSS
 firefox-developer-master-innovative-features = امکانات نوآورانه
 firefox-developer-want-to-be-on-the-cutting-edge = می‌خواهید در لبه‌ی پیشرفت باشید؟
 firefox-developer-firefox-nightly-receives = فایرفاکس نایتلی به‌روزرسانی‌های روزانه دریافت می‌کند و شما را قادر می‌سازد تا ماه‌ها پیش از آن‌که ویژگی‌ها وارد جریان اصلی شوند به آن‌ها دسترسی داشته باشید.
 firefox-developer-firefox-quantum-includes = فایرفاکس کوانتوم شامل یک موتور CSS جدید که در Rust نوشته شده، نوآوری‌های پیشرفته‌ای دارد و بسیار سریع است.
-firefox-developer-firefox-is-the-only-browser = فایرفاکس تنها مرورگری است که ابزارهایی مختص ساخت و طراحی شبکه‌های CSS را فراهم کرده است. این ابزارها به شما امکان می‌دهند که شبکه‌ها را تشخیص دهید، نام قسمت‌های مرتبط را ببینید، پیش‌نمایشی از تغییرات را ببینید و بیشتر.
+firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } تنها مرورگری است که ابزارهایی مختص ساخت و طراحی شبکه‌های CSS را فراهم کرده است. این ابزارها به شما امکان می‌دهند که شبکه‌ها را تشخیص دهید، نام قسمت‌های مرتبط را ببینید، پیش‌نمایشی از تغییرات را ببینید و بیشتر.
 firefox-developer-convenient-features = ویژگی‌های مناسب
 firefox-developer-faster-performance = کارایی سریع
 firefox-developer-shapes-editor = ویرایشگر شکل‌ها
 firefox-developer-faster-innovation = اطلاعات سریع‌تر
 firefox-developer-fonts-panel = پنل قلم‌ها
 firefox-developer-firefox-developer-edition-sends = نسخه توسعه‌دهندگان فایرفاکس به صورت خودکار بازخوردها را برای موزیلا ارسال می‌کند.
-firefox-developer-download-the-firefox-browser = مرورگر فایرفاکس برای توسعه‌دهندگان را دریافت کنید
+firefox-developer-download-the-firefox-browser = مرورگر { -brand-name-firefox } برای توسعه‌دهندگان را دریافت کنید
 firefox-developer-welcome-to-the-all-new = به فایرفاکسِ کاملا جدیدِ کوانتوم خوش آمدید: ویرایش توسعه‌دهندگان
-firefox-developer-firefox-has-been-rebuilt = فایرفاکس از ابتدا ساخته شده تا سریع‌تر، نرم‌تر و قدرتمندتر از همیشه باشد.
+firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } از ابتدا ساخته شده تا سریع‌تر، نرم‌تر و قدرتمندتر از همیشه باشد.
 firefox-developer-congrats-you-now-have-firefox = تبریک. شما اکنون دارای فایرفاکس کوانتوم: ویرایش توسعه‌دهندگان هستید.
-firefox-developer-this-isnt-just-an-update = این تنها یک به روز رسانی نیست. این فایرفاکس کوانتوم است: یک فایرفاکس تازه که از ابتدا ساخته شده تا سریع‌تر، نرم‌تر و قدرتمند‌تر از همیشه باشد.
+firefox-developer-this-isnt-just-an-update = این تنها یک به روز رسانی نیست. این { -brand-name-firefox-quantum } است: یک { -brand-name-firefox } تازه که از ابتدا ساخته شده تا سریع‌تر، نرم‌تر و قدرتمند‌تر از همیشه باشد.
