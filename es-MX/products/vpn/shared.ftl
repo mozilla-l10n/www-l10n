@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Elige el plan de suscripción que funci
 vpn-shared-pricing-variable-heading = Selecciona el plan que mejor te convenga
 vpn-shared-pricing-variable-sub-heading = Todos nuestros planes incluyen:
 vpn-shared-pricing-recommended-offer = Recomendados
-vpn-shared-pricing-plan-6-month = 6 meses
+vpn-shared-pricing-plan-12-month-v2 = Plan de 12 meses
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 meses
+vpn-shared-pricing-plan-monthly-v2 = Plan mensual
+# Outdated string
 vpn-shared-pricing-plan-monthly = Mensual
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 vpn-shared-pricing-get-6-month = Obtener el plan de 6 meses
 # Outdated string
 vpn-shared-pricing-get-12-month = Obtener el plan de 12 meses
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Obtener el plan de 6 meses
 vpn-shared-pricing-get-12-month-v2 = Obtener el plan de 12 meses
 vpn-shared-pricing-get-monthly = Obtener el plan mensual
@@ -125,6 +129,16 @@ vpn-subnav-subscribe = Suscríbete a { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Usamos cookies para saber qué socio afiliado te llevó a { -brand-name-mozilla-vpn }. No compartimos información personal con nuestros socios. Lee nuestra <a { $attrs }>Política de privacidad</a>.
 vpn-shared-affiliate-notification-reject = Rechazar
 vpn-shared-affiliate-notification-ok = Ok
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Aumenta tu privacidad con { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Agregar <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Enmascaramiento de correo electrónico
+vpn-shared-relay-phone-masking = Enmascaramiento de teléfono
+vpn-shared-get-vpn-plus-relay = Obtén { -brand-name-vpn } + { -brand-name-relay }
 
 ##
 
