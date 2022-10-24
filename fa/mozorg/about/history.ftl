@@ -9,7 +9,7 @@ history-history-of-the-mozilla-project = تاریخچه پروژه { -brand-name
 # Variables:
 #   $coderush (url) - link to https://air.mozilla.org/code-rush/
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
-history-the-mozilla-project-was = پروژه موزیلا در سال <a href="{ $coderush }">۱۹۹۸</a> با <a href="{ $sourcerelease }">انتشار کد منبع مرورگر { -brand-name-netscape }</a> ایجاد شد.
+history-the-mozilla-project-was = پروژه { -brand-name-mozilla } در سال <a href="{ $coderush }">۱۹۹۸</a> با <a href="{ $sourcerelease }">انتشار کد منبع مرورگر { -brand-name-netscape }</a> ایجاد شد.
 history-it-was-intended-to-harness = بهره جستن از قدرت خلاق هزار نفر از برنامه نویسان در اینترنت و سوخت بی سابقه ای از نوآوری در بازار مرورگر در نظر گرفته شده بود.
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
@@ -35,10 +35,10 @@ history-by-2002-well-over-90 = تا سال ۲۰۰۲، <a href="{ $over90 }">بی
 history-not-many-people-noticed = در آن زمان تعداد زیادی متوجه نشدند، ولی اولین نگارش فونیکس (که بعدا به { -brand-name-firefox } تغییر نام داد) هم همان سال توسط اعضای جامعه { -brand-name-mozilla } با هدف تامین <a href="{ $charter }">بهترین تجربه ممکن مرور</a> برای گسترده‌ترین مجموعهٔ ممکن از افراد، منتشر شده بود.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
-history-in-2003-the-mozilla-project = در سال ۲۰۰۳، پروژه موزیلا بنیاد موزیلا را ایجاد کرد، یک <a href="{ $foundation }">سازمان مستقل غیرانتفاعی</a> که توسط اهدا کنندگان فردی و گستره‌ای از شرکت‌ها حمایت می‌شد.
+history-in-2003-the-mozilla-project = در سال ۲۰۰۳، پروژه { -brand-name-mozilla } { -brand-name-mozilla-foundation } را ایجاد کرد، یک <a href="{ $foundation }">سازمان مستقل غیرانتفاعی</a> که توسط اهدا کنندگان فردی و گستره‌ای از شرکت‌ها حمایت می‌شد.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = بنیاد موزیلای جدید به نقش مدیریت روزانه عملیات پروژه ادامه داد و هم‌چنین به‌طور رسمی نقش ترویج <a href="{ $manifesto }">باز بودن، نوآوری و فرصت</a> روی اینترنت را هم برعهده گرفت.
+history-the-new-mozilla-foundation = { -brand-name-mozilla-foundation } جدید به نقش مدیریت روزانه عملیات پروژه ادامه داد و هم‌چنین به‌طور رسمی نقش ترویج <a href="{ $manifesto }">باز بودن، نوآوری و فرصت</a> روی اینترنت را هم برعهده گرفت.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = این کار را با ادامه انتشار نرم‌افزار‌هایی مانند { -brand-name-firefox } و { -brand-name-thunderbird }، و گسترش فعالیت به ناحیه‌های جدیدی مثل ارائه <a href="{ $grants }">کمک‌های مالی</a> برای حمایت از بهبود‌ دسترسی‌پذیری در وب انجام داد.
