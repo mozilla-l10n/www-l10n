@@ -1,18 +1,19 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = مرورگر فایرفاکس: سریع، مدیریت گذرواژه آسان
+password-manager-firefox-browser = { -brand-name-firefox-browser }: سریع، مدیریت گذرواژه آسان
 # HTML page description
 password-manager-firefox-password = مدیر گذرواژه‌های فایرفاکس همه گذرواژه‌های شما را در یک جا ذخیره می‌کند، بنابراین می‌توانید به صورت خودکار وارد سایت‌ها شوید یا گذرواژه‌های ذخیره شده را بازیابی کنید.
 # Hero title
 password-manager-password-manager = دست‌آورد های مدیریت کلمه عبور بدون قفل
 password-manager-give-up-the-memory = با «مدیرِ گذرواژه‌هایِ فایرفاکس» دیگر نیازی به بخاطر سپردن همه چیز ندارید.
 password-manager-password-hero = قهرمان گذرواژه
+# Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = بازنشانی را فراموش کنید، مدیرگذرواژه فایرفاکس تمام گذرواژه‌های شما را نگه می‌دارد، بنابراین می‌توانید به صورت خودکار وارد شوید یا گذرواژه‌های ذخیره شده را به سادگی پیدا کنید. برای امنیت عالی، به رایانه خود یک <a href="{ $url }">گذرواژه اصلی</a> اختصاص دهید.

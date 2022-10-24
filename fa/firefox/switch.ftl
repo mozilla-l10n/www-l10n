@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
@@ -14,7 +14,7 @@ switch-use-firefox-and-still-chrome = شما می‌‌توانید از { -bran
 switch-share-with-your-friends = چگونگی تعویض کردن و رفتن به سوی { -brand-name-firefox } را برای دوستان خود همرسانی کنید
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } این امکان را دارد تا به سرعت از { -brand-name-chrome } مهاجرت کنید. امتحانش کنید!
 switch-switch-to-firefox = تعویض با { -brand-name-firefox }
-switch-firefox-makes-switching-fast-email = شما می‌توانیدخیلی سریع فایرفاکس را با کروم تعویض کنید. من خیلی این قابلیت را دوست دارم و شما هم باید تجربه کنید.
+switch-firefox-makes-switching-fast-email = { -brand-name-firefox } جابه‌جایی از { -brand-name-chrome } را واقعاً سریع کرده. من خیلی دوستش دارم و تو هم باید امتحانش کنی.
 switch-still-not-convinced = هنوز متقاعد نشده اید که مهاجرت به { -brand-name-firefox } ساده است؟
 switch-enjoy-the-web-faster = از وب گردی سریعتر لذت ببرید همه چیز برای شما آماده شده است.
 switch-download-and-switch = دریافت و تغییر

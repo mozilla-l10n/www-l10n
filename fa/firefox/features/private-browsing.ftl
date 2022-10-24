@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
@@ -9,7 +9,7 @@
 features-private-browsing-private-browser = مرورگر ناشناس با امکان محافظت بیشتر در برابر ردگیری‌ها
 # HTML page description
 features-private-browsing-firefox-protects = فایرفاکس ردیاب‌هایی که شما را در سرار وب دنبال می‌کنند را مسدود و از حریم‌خصوصی آنلاین شما محافظت می‌کند.
-features-private-browsing-firefox-more-protection = فایرفاکس: محافظت بیشتر. نگرانی کمتر.
+features-private-browsing-firefox-more-protection = { -brand-name-firefox }: محافظت بیشتر. نگرانی کمتر.
 features-private-browsing-were-obsessed-with = ما نسبت به محافظت از حریم خصوصی شما وسواس داریم. به همین دلیل است که مرور خصوصی فایرفاکس را قوی‌تر از دیگران ساخته‌ایم.
 features-private-browsing-browse-without = بدون ردیابی شدن وب را مرور کنید
 features-private-browsing-sharing-is-caring = به اشتراک گذاشتن اهمیت دادن است، ولی باید با خواست شما باشد. مرور ناشناس فایرفاکس به صورت خودکار اطلاعات آنلاین شما مثل گذرواژه‌ها، کوکی‌ها و تاریخچهٔ مرور را از رایانه شما پاک می‌کند. بنابراین وقتی برنامه را می‌بندید هیچ رد پایی به جا نمی‌گذارید.

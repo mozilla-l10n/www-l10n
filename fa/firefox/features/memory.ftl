@@ -1,16 +1,16 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = مرورگر فایرفاکس: حافظه کمتری مصرف کنید، سرعت بیشتری دریافت نمایید
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: مصرف حافظه کمتر، سرعت بیشتر
 # HTML page description
-features-memory-is-your-computer-slow-your = رایانه‌تان کند است؟ ممکن است مرورگرتان حافظه زیادی مصرف می‌کند. برای سرعت بیشتر همین امروز به فایرفاکس مهاجرت کنید.
-features-memory-less-memory-usage-than-chrome = مصرف حافظه کمتر نسبت به کروم
-features-memory-if-your-web-browser-uses = اگر مرورگر وب شما حافظه زیادی مصرف میکند، به فایرفاکس مهاجرت کنید.
+features-memory-is-your-computer-slow-your = رایانه‌تان کند است؟ ممکن است مرورگرتان حافظه زیادی مصرف می‌کند. برای سرعت بیشتر همین امروز به { -brand-name-firefox } کوچ کنید.
+features-memory-less-memory-usage-than-chrome = مصرف حافظه کمتر نسبت به { -brand-name-chrome }
+features-memory-if-your-web-browser-uses = اگر مرورگر وب شما حافظه زیادی مصرف میکند، به { -brand-name-firefox } کوچ کنید.
 features-memory-speed-up-your-computer = به رایانه خود سرعت بخشید
 features-memory-every-computer-program-you = هر برنامه رایانه‌ای که اجرا می‌کنید مقداری حافظه اشغال می‌کند. وقتی بیش از حد استفاده شود، می‌تواند سیستم شما را کنــــــــــــــــــــــــــــد کند. فایرفاکس تعادل را هدف قرار داده است — استفاده از میزان کافی حافظه تا به شما اجازه مروری روان بدهد و مقدار زیادی از حافظه را برای این که رایانه‌تان هم‌چنان پاسخ‌گو بماند باقی بگذارد.
 features-memory-stop-running-out-of-memory = پر شدن حافظه رایانه را متوقف کنید

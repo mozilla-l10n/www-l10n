@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
@@ -9,7 +9,7 @@
 features-fast-get-more-done-browse-faster = کارهای بیشتری انجام دهید. سریع‌تر و سبک‌تر، با چندین زبانه باز، مرور کنید
 # HTML description
 features-fast-our-new-powerful-multi-process = پلت‌فرم قدرتمند چند فرآیندی جدید ما، تمام زبانه‌های شما را بدون کند کردن رایانه‌تان مدیریت می‌کند.
-features-fast-firefox-is-now-faster-and-leaner = اکنون فایرفاکس سریعتر و قابل اتکاتر است
+features-fast-firefox-is-now-faster-and-leaner = { -brand-name-firefox } اکنون سریع‌تر و سبک‌تر است.
 features-fast-weve-been-working-out-so-you = ما به سختی در تلاش بودیم، تا شما بتوانید کارهای بیشتری را به سرانجام برسانید.
 features-fast-use-less-memory = حافظه کمتری مصرف کنید
 # A "computer hog" here means software that consumes a lot of memory and resources

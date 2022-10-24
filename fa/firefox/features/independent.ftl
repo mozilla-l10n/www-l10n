@@ -1,15 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
 
 # HTML page title
-features-independent-firefox-a-different = فایرفاکس، مرورگری متفاوت برای لحظاتی متفاوت. آزادانه وب را مرور کنید.
+features-independent-firefox-a-different = { -brand-name-firefox }، مرورگری متفاوت برای لحظاتی متفاوت. آزادانه مرور کنید.
 # HTML page description
 features-independent-browse-the-internet = اینترنت را همان‌طور که باید باشد مرور کنید… آزاد، ایمن و قابل درسترسی برای همه. استقلال آنلاین خود را اعلام کنید.
-features-independent-firefox-rebel-with-a = فایرفاکس: یک شورشیِ با هدف
+features-independent-firefox-rebel-with-a = { -brand-name-firefox }: یک شورشیِ با هدف
 features-independent-firefox-is-independent = فایرفاکس مستقل و بخشی از بنیاد غیر انتفاعی موزیلا است که برای حقوق آنلاین شما مبارزه می‌کند، قدرت شرکت‌ها را زیرنظر دارد و اینترنت را برای همه قابل دسترسی می‌کند، همه جا.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = بدون وابستگی
