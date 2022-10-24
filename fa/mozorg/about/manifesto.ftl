@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
 # HTML page title
-manifesto-the-mozilla-manifesto = مرامنامه موزیلا
+manifesto-the-mozilla-manifesto = مرامنامه { -brand-name-mozilla }
 # HTML page description
 manifesto-these-are-the-principles = این‌ها اصولی است که ماموریت ما را در ترویج فضای باز، نوآوری و فرصت در وب راهنمایی می‌کند.
 manifesto-the-internet-is-an-integral = اینترنت یک بخش بزرگ از زندگی مدرن است — یکی از اجزای کلیدی در آموزش، ارتباطات، همکاری، تجارت، سرگرمی و جامعه.
@@ -35,7 +35,7 @@ manifesto-08 = ۸
 manifesto-09 = ۹
 manifesto-10 = ۱۰
 # Main page heading
-manifesto-the-mozilla-manifesto-addendum = ضمیمه مرامنامه موزیلا
+manifesto-the-mozilla-manifesto-addendum = ضمیمه مرامنامه { -brand-name-mozilla }
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = تعهد به اینترنت سالم
 manifesto-show-your-support = پشتیبانی خود را نشان دهید

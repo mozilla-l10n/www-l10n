@@ -7,7 +7,7 @@
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } برای { -brand-name-firefox } | جلوگیری از { -brand-name-facebook } برای پایش وی‌سایت‌هایی که می‌بینید.
 facebook-container-millions-of-people-around = میلیون‌ها نفر در سراسر دنیا به مرورگر وب { -brand-name-firefox } در { -brand-name-android }، { -brand-name-ios } و کامپیوترهای رومیزی اعتماد دارند. سریع. خصوصی. همین الان دریافت کنید!
-facebook-container-facebook-well-contained-keep = فیس‌بوک. کاملا محبوس شده. زندگی خود را در اختیار خودتان نگاه دارید.
+facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. کاملا محبوس شده. زندگی خود را در اختیار خودتان نگاه دارید.
 facebook-container-get-the-facebook-container = دریافت افزونه { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } را دریافت و افزونهٔ { -brand-name-facebook-container } را نصب کنید
 # Outdated string
@@ -18,7 +18,7 @@ facebook-container-try-firefox-focus-the-privacy = ‌<strong>{ -brand-name-fire
 facebook-container-opt-out-on-your-terms = با شرایط خودتان خارج شوید
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = فیس‌بوک تقریبا می‌تواند تمامی فعالیت‌های شما را در سطح وب ردگیری کن و آن را به هویت‌تان در فیس‌بوک متصل کند. اگر این شما قابل درک نیست، <a href="{ $fbcontainer }">افزونهٔ محفظهٔ فیس‌بوک</a> هویت شما را در محفظهٔ جدا نگه می‌دارد، تا ردگیری شما را در بیرون از فیس‌بوک مشکل‌تر کند.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } تقریبا می‌تواند تمامی فعالیت‌های شما را در سطح وب ردگیری کن و آن را به هویت‌تان در { -brand-name-facebook } متصل کند. اگر این شما قابل درک نیست، <a href="{ $fbcontainer }">افزونهٔ { -brand-name-facebook-container }</a> هویت شما را در { -brand-name-facebook } جدا نگه می‌دارد، تا ردگیری شما را در بیرون از { -brand-name-facebook } مشکل‌تر کند.
 facebook-container-install-and-contain = نصب کنید و محفوظ بمانید
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

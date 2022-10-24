@@ -17,17 +17,17 @@ firefox-channel-download-and-test-future = نسخه‌های آینده { -brand
 firefox-channel-experience-cutting-edge-android-updated = آخرین امکانات مرورگر { -brand-name-android } را با نسخه پیش از انتشار آن تجربه کنید: { -brand-name-firefox-beta } و { -brand-name-firefox-nightly }. همین امروز نصبشان کنید!
 firefox-channel-experience-cutting-edge-android = تازه‌ترین امکانات مرورگر { -brand-name-android } را در نگارش‌های قبل از انتشار تجربه کنید: { -brand-name-firefox-beta }، { -brand-name-firefox-aurora } و { -brand-name-firefox-nightly }. هم‌اکنون نصب کنید!
 firefox-channel-download-and-test-the-latest-android = بارگیری و بررسی آخرین امکانات { -brand-name-firefox } برای { -brand-name-android } با نسخه‌های { -brand-name-aurora }، { -brand-name-beta } و { -brand-name-nightly }.
-firefox-channel-try-the-latest-android-features = آخرین امکانات در اندروید را قبل از اینکه برای باقی جهان رونمایی شود را بررسی کنید.
+firefox-channel-try-the-latest-android-features = آخرین امکانات در { -brand-name-android } را قبل از اینکه برای باقی جهان رونمایی شود را بررسی کنید.
 firefox-channel-all-languages-and-platforms = تمام زبان‌ها و سکوها
 firefox-channel-all-languages-and-builds = تمام زبان‌ها و نسخه‌ها
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = «بتا» یک پلتفرم ناپایدار جهت تست و توسعه می‌باشد. به طور پیش‌فرض، «بتا» اطلاعاتی به موزیلا ارسال می‌کند — و گاهی به بعضی از همکاران ما — تا به ما کمک کند تا مشکلات را حل کنیم و ایده‌های جدیدی به کار بگیریم. <a href="{ $link }">ببینید چه اطلاعاتی که به اشتراک گذاشته می‌شود</a>.
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } یک پلتفرم ناپایدار جهت تست و توسعه می‌باشد. به طور پیش‌فرض، { -brand-name-beta } اطلاعاتی به { -brand-name-mozilla } ارسال می‌کند — و گاهی به بعضی از همکاران ما — تا به ما کمک کند تا مشکلات را حل کنیم و ایده‌های جدیدی به کار بگیریم. <a href="{ $link }">ببینید چه اطلاعاتی که به اشتراک گذاشته می‌شود</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } بطور خودکار به { -brand-name-mozilla } بازخورد می‌فرستد.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">بازخورد خود را ارسال کنید</a> تا به ما کمک کنید آخرین تغییرات را در کارایی و عملکرد در نسخه پایدار را اعمال کنیم.
-firefox-channel-check-out-new-android-features = جدیدترین امکانات اندروید را در ابتدایی‌ترین مرحله خود بررسی کنید. با مسئولیت خودتان، لذت ببرید.
+firefox-channel-check-out-new-android-features = جدیدترین امکانات { -brand-name-android } را در ابتدایی‌ترین مرحله خود بررسی کنید. با مسئولیت خودتان، لذت ببرید.
 firefox-channel-nightly-blog = وبلاگ { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
