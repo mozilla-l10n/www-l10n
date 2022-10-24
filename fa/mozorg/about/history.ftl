@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
@@ -32,7 +32,7 @@ history-after-several-years-of-development = پس از چند سال توسعه�
 history-by-2002-well-over-90 = تا سال ۲۰۰۲، <a href="{ $over90 }">بیش از ۹۰٪ کاربران</a> برای مرور اینترنت، از اینترنت اکسپلورر استفاده می‌کردند.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
-history-not-many-people-noticed = در آن زمان تعداد زیادی متوجه نشدند، ولی اولین نگارش فونیکس (که بعدا به فایرفاکس تغییر نام داد) هم همان سال توسط اعضای جامعه موزیلا با هدف تامین <a href="{ $charter }">بهترین تجربه ممکن مرور</a> برای گسترده‌ترین مجموعهٔ ممکن از افراد، منتشر شده بود.
+history-not-many-people-noticed = در آن زمان تعداد زیادی متوجه نشدند، ولی اولین نگارش فونیکس (که بعدا به { -brand-name-firefox } تغییر نام داد) هم همان سال توسط اعضای جامعه { -brand-name-mozilla } با هدف تامین <a href="{ $charter }">بهترین تجربه ممکن مرور</a> برای گسترده‌ترین مجموعهٔ ممکن از افراد، منتشر شده بود.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = در سال ۲۰۰۳، پروژه موزیلا بنیاد موزیلا را ایجاد کرد، یک <a href="{ $foundation }">سازمان مستقل غیرانتفاعی</a> که توسط اهدا کنندگان فردی و گستره‌ای از شرکت‌ها حمایت می‌شد.
