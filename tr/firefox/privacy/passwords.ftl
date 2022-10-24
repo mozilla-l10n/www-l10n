@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -28,6 +28,7 @@ privacy-passwords-a-closed-lock = Tüm büyük tarayıcılarda adres çubuğunda
 privacy-passwords-a-padlock-with = Kırmızı çapraz çizgili asma kilit, bağlantının güvenli olmadığını gösterir.
 privacy-passwords-firefox-will = Sitenin kimlik avı sitesi olduğu biliniyorsa Firefox web sitesi yerine bir uyarı görüntüleyecektir.
 privacy-passwords-strength-in-diversity = Farklılıktan gelen güç
+privacy-passwords-security-questions-my = Güvenlik Soruları: Annemin kızlık soyadı “Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Parola yöneticisi kullanın
 privacy-passwords-twofactor-authentication-2fa = İki aşamalı kimlik doğrulama (2FA)
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics

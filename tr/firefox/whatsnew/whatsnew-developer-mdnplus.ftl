@@ -9,6 +9,7 @@
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 # CTA button
 developer-mdnplus-get-started = Başlayın
+developer-mdnplus-whats-included = Neler dahil?
 developer-mdnplus-notifications = Bildirimler
 developer-mdnplus-collections = Koleksiyonlar
 developer-mdnplus-mdn-offline = { -brand-name-mdn } çevrimdışı
