@@ -5,11 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = محفظهٔ فیس‌بوک برای فایرفاکس | جلوگیری از فیس‌بوک برای پایش وی‌سایت‌هایی که می‌بینید.
-facebook-container-millions-of-people-around = میلیون‌ها نفر در سراسر دنیا به مرورگر وب { -brand-name-firefox } در اندروید، { -brand-name-ios } و کامپیوترهای رومیزی اعتماد دارند. سریع. خصوصی. همین الان دریافت کنید!
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } برای { -brand-name-firefox } | جلوگیری از { -brand-name-facebook } برای پایش وی‌سایت‌هایی که می‌بینید.
+facebook-container-millions-of-people-around = میلیون‌ها نفر در سراسر دنیا به مرورگر وب { -brand-name-firefox } در { -brand-name-android }، { -brand-name-ios } و کامپیوترهای رومیزی اعتماد دارند. سریع. خصوصی. همین الان دریافت کنید!
 facebook-container-facebook-well-contained-keep = فیس‌بوک. کاملا محبوس شده. زندگی خود را در اختیار خودتان نگاه دارید.
 facebook-container-get-the-facebook-container = دریافت افزونه { -brand-name-facebook-container }
-facebook-container-download-firefox-and-get-the = فایرفاکس را دریافت و افزونهٔ محفظهٔ فایرفاکس را نصب کنید
+facebook-container-download-firefox-and-get-the = { -brand-name-firefox } را دریافت و افزونهٔ { -brand-name-facebook-container } را نصب کنید
 # Outdated string
 facebook-container-the-facebook-container-extension = افزونه { -brand-name-facebook-container } برای دستگاه‌های همراه در دسترس نیست.
 # Outdated string
