@@ -68,6 +68,8 @@ navigation-v2-careers = Lavora con noi
 navigation-v2-work-for-a-mission-driven-updated = Lavora con un’organizzazione etica che mette le persone al primo posto nei suoi prodotti.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Scopri di più su { -brand-name-mozilla } e sulle questioni che ci stanno a cuore.
+navigation-v2-stories = Storie
+navigation-v2-stories-about-how = Storie su come le nostre persone e i nostri prodotti stanno cambiando il mondo in meglio.
 navigation-v2-more-about-mozilla = Maggiori informazioni su { -brand-name-mozilla }
 
 ## Innovation menu
