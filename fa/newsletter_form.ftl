@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-your-email-here = پست‌الکترونیکی شما در اینجا
 newsletter-form-format = قالب
@@ -14,7 +14,7 @@ newsletter-form-we-will-only-send = ما فقط اخبار مرتبط با { -br
 newsletter-form-if-you-havent-previously = اگر پیش از این ثبت‌نام خود را در یکی از خبرنامه‌های مرتبط با { -brand-name-mozilla } تایید نکرده‌اید، ممکن است لازم باشد که این کار را بکنید. لطفا پست‌الکترونیکی یا قسمت اسپم‌های خود را برای یک رایانامه از طرف ما بررسی کنید.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span>+ شما
 newsletter-form-get-firefox-tips = دریافت نکات { -brand-name-firefox }، ترفند‌ها، اخبار و بیشتر
-newsletter-form-keep-up-with = با آخرین اخبار فایرفاکس<br> بروز باشید.
+newsletter-form-keep-up-with = با آخرین اخبار { -brand-name-firefox }<br> بروز باشید.
 newsletter-form-get-mozilla-updates = دریافت به‌روزرسانی‌های { -brand-name-mozilla }
 newsletter-form-available-languages = زبان‌های موجود
 newsletter-form-select-country = انتخاب کشور

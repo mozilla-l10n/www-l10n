@@ -41,12 +41,12 @@ history-in-2003-the-mozilla-project = در سال ۲۰۰۳، پروژه موزی
 history-the-new-mozilla-foundation = بنیاد موزیلای جدید به نقش مدیریت روزانه عملیات پروژه ادامه داد و هم‌چنین به‌طور رسمی نقش ترویج <a href="{ $manifesto }">باز بودن، نوآوری و فرصت</a> روی اینترنت را هم برعهده گرفت.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
-history-it-did-this-by-continuing = این کار را با ادامه انتشار نرم‌افزار‌هایی مانند فایرفاکس و تاندربرد، و گسترش فعالیت به ناحیه‌های جدیدی مثل ارائه <a href="{ $grants }">کمک‌های مالی</a> برای حمایت از بهبود‌ دسترسی‌پذیری در وب انجام داد.
+history-it-did-this-by-continuing = این کار را با ادامه انتشار نرم‌افزار‌هایی مانند { -brand-name-firefox } و { -brand-name-thunderbird }، و گسترش فعالیت به ناحیه‌های جدیدی مثل ارائه <a href="{ $grants }">کمک‌های مالی</a> برای حمایت از بهبود‌ دسترسی‌پذیری در وب انجام داد.
 # Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
-history-firefox-10-was-released = <a href="{ $firefox1 }">فایرفاکس ۱.۰</a> در سال ۲۰۰۴ منتشر و به یک موفقیت بزرگ تبدیل شد — در کمتر از یک سال، <a href="{ $millions }">بیشتر از ۱۰۰ ملیون بار</a> دریافت شده بود.
-history-new-versions-of-firefox = از آن زمان، نگارش‌های تازه فایرفاکس به صورت منظم بیرون آمدند و رکورد‌های تازه‌ای ثبت کردند. آوازه فایرفاکس کمک کرد تا حق انتخاب به کاربران برگردانده شود.
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } ۱.۰</a> در سال ۲۰۰۴ منتشر و به یک موفقیت بزرگ تبدیل شد — در کمتر از یک سال، <a href="{ $millions }">بیشتر از ۱۰۰ ملیون بار</a> دریافت شده بود.
+history-new-versions-of-firefox = از آن زمان، نگارش‌های تازه { -brand-name-firefox } به صورت منظم بیرون آمدند و رکورد‌های تازه‌ای ثبت کردند. آوازه { -brand-name-firefox } کمک کرد تا حق انتخاب به کاربران برگردانده شود.
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = رقابت دوباره به <a href="{ $innovation }">نو‌آوری شتاب بخشید</a> و اینترنت را برای همه بهبود داد.
@@ -76,4 +76,4 @@ history-timeline-of-mozilla-project = خط زمانیِ پروژه موزیلا
 history-mozilla-digital-memory-bank = بانک خاطرات دیجیتالی موزیلا
 # Variables:
 #   $link (url) link to https://www.foxkeh.com/downloads/
-history-the-history-of-firefox-and = <a href="{ $link }">تاریخچه فایرفاکس و پسترهای موزیلا</a> (به انگلیسی و ژاپنی)
+history-the-history-of-firefox-and = <a href="{ $link }">تاریخچه { -brand-name-firefox } و پسترهای { -brand-name-mozilla }</a> (به انگلیسی و ژاپنی)

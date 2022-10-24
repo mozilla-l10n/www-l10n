@@ -16,7 +16,7 @@ privacy-index-data-privacy-principles = اصول حریم‌خصوصی داده�
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
-privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">سیاست‌های حریم‌خصوصی</a> موزیلا، الهام بخشِ شیوه‌های ما برای توجه و مراقبت از افرادی که از اینترنت استفاده می‌کنند است. در مورد اینکه چطور این سیاست‌ها به موزیلا و تمام محصولاتمان جهت می‌دهند، در قسمت <a href="{ $faq }">سوال‌های متداول</a> بیشتر بخوانید.
+privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">سیاست‌های حریم‌خصوصی</a> { -brand-name-mozilla }، الهام بخشِ شیوه‌های ما برای توجه و مراقبت از افرادی که از اینترنت استفاده می‌کنند است. در مورد اینکه چطور این سیاست‌ها به { -brand-name-firefox } و تمام محصولاتمان جهت می‌دهند، در قسمت <a href="{ $faq }">سوال‌های متداول</a> بیشتر بخوانید.
 privacy-index-transparency-report = گزارشِ شفافیت
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
@@ -29,4 +29,4 @@ privacy-index-to-review-and-comment-on-proposed = برای بررسی و باز�
 privacy-index-read-more-about-our-ongoing = در مورد کارهای در حال انجام ما بر روی سیاست‌های عمومیِ حریم‌خصوصی و امنیت در <a href="{ $blog }">وبلاگ سیاستِ باز و حمایت</a> بیشتر بخوانید.
 privacy-index-outdated-policies = سیاست‌های قدیمی
 privacy-index-mozilla-websites-communications = وب‌سایت‌های موزیلا، ارتباطات و کوکی‌ها
-privacy-index-firefox-fire-tv = فایرفاکس برای { -brand-name-fire-tv }
+privacy-index-firefox-fire-tv = { -brand-name-firefox } برای { -brand-name-fire-tv }
