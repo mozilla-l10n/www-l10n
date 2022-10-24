@@ -8,6 +8,7 @@
 welcome-page14-page-title = Y Mis Seiberddiogelwch hwn, cymrwch 20% i ffwrdd oddi ar { -brand-name-mozilla-vpn }
 welcome-page14-page-title-alt = Mae'n Fis Seiberddiogelwch - amser i gynyddu'ch preifatrwydd
 welcome-page14-main-description = Mae { -brand-name-mozilla-vpn } (Rhwydwaith Preifat Rhithwir) yn diogelu cysylltiad rhyngrwyd cyfan eich cyfrifiadur, tabled, a hyd yn oed eich ffôn. I gael mwy fyth o sicrwydd, mae'n dod â gwarant arian yn ôl 30 diwrnod.
+welcome-page14-main-description-v2 = Mae { -brand-name-mozilla-vpn } (Rhwydwaith Preifat Rhithwir) yn diogelu cysylltiad rhyngrwyd cyfan eich cyfrifiadur, tabled, a hyd yn oed eich ffôn. I gael mwy fyth o sicrwydd, mae'n dod â gwarant arian yn ôl 30 diwrnod.
 welcome-page14-get-mozilla-vpn = Cael { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Defnyddiwch y cod wrth y ddesg dalu am 20% i ffwrdd
 welcome-page14-copy-code = Copïo'r cod
