@@ -10,6 +10,7 @@ welcome-page14-page-title-alt = Bulan Keamanan Siber tiba — saatnya meningkatk
 
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (Virtual Private Network) melindungi seluruh koneksi internet Anda di komputer, tablet, dan bahkan ponsel. Untuk keamanan yang lebih baik, ada jaminan uang kembali 30 hari.
 
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (Virtual Private Network) melindungi seluruh koneksi internet Anda di komputer, tablet, dan ponsel. Untuk keamanan yang lebih baik, ada jaminan uang kembali 30 hari.
 
 welcome-page14-get-mozilla-vpn = Dapatkan { -brand-name-mozilla-vpn }
 
