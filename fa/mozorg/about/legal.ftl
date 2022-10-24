@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/legal/
@@ -14,12 +14,12 @@ legal-special-thanks-to-all-of-you = تشکر ویژه از تمامی کسان�
 legal-terms = شرایط
 legal-our-websites = وب‌سایت‌های ما
 legal-firefox-services = سرویس‌های فایرفاکس
-legal-webmaker = سازندگان وب
+legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = حریم‌خصوصی و علائم تجاری
 legal-privacy-notices-and-policy = نکات حریم‌خصوصی و سیاست‌ها
 legal-downloadable-software-notices = نکات نرم‌افزارهای قابل دریافت
-legal-firefox = فایرفاکس
-legal-thunderbird = تاندربرد
+legal-firefox = { -brand-name-firefox }
+legal-thunderbird = { -brand-name-thunderbird }
 legal-websites-and-communications = شرایط استفاده از وب‌سایت‌ها و امکانات ارتباطی
 legal-acceptable-use-policy = سیاستِ استفاده قابل قبول
 legal-firefox-cloud-services = سرویس‌های ابری فایرفاکس: شرایط استفاده

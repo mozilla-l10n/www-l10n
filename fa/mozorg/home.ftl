@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -15,17 +15,17 @@ home-our-impact = تاثیرگذاری ما
 home-when-you-use-firefox-you-help = وقتی از فایرفاکس استفاده می‌کنید، کمک می‌کنید موزیلا با اطلاعات نادرست آنلاین مبارزه کند، مهارت‌های دیجیتال آموزش دهد و بخش نظرات را انسانی‌تر کند. ببینید چه چیزی به ساختن اینترنت سالم‌تر کمک می‌کند.
 home-working-to-keep-the-internet = کار می‌کنیم تا وب را سالم، باز و در دسترس همه قرار دهیم، ما وب را آموزش می‌دهیم، ابزارهای مختلف فراهم می‌کنیم و از طرف هر فردی که برای اینترنت به عنوان یک منبع عمومی و جهانی ارزش قائل است، دفاع می‌کنیم.
 home-working-at-the-grassroots-and = با کار بر روی بسترها و سیاست‌ها، ما سواد وب را آموزش می‌دهیم، ابزارهایی فراهم می‌کنیم و از هر فردی که برای ساخت یک اینترنت بروی عدالت، احترام و آزادی ارزش قائل است، دفاع می‌کنیم.
-home-mozilla-information-trust-initiative = ابتکار اطمینان بالای موزیلا
+home-mozilla-information-trust-initiative = ابتکار اطمینان بالای { -brand-name-mozilla }
 home-empowering-women-online = توانمندی زنان در اینترنت
 home-the-coral-project = پروژه Coral
 home-read-our-internet-health-report = گزارش ما درباره سلامت اینترنت را بخوانید
 home-our-innovations = نوآوری‌های ما
 home-using-the-web-as-the-platform = با استفاده از وب به عنوان بستر، ما تکنولوژی‌هایی باز و نوآورانه می‌سازیم که به توسعه‌دهندگان اجازه می‌دهند تا بدون استفاده از محیط‌های بسته و تجاری کار کنند و تجربه‌ای سریع‌تر، امن‌تر برای تمام وب بسازند.
 home-virtual-reality-platform = بستر واقعیت مجازی
-home-common-voice = صدای مشترک
+home-common-voice = { -brand-name-common-voice }
 home-extensions = افزونه‌ها
-home-personalize-firefox-with-your = فایرفاکس را با افزودنی‌های مورد علاقه خودتان مانند مدیریت کننده‌های گذرواژه، مسدود کننده‌های تبلیغات و بیشتر شخصی سازی کنید.
+home-personalize-firefox-with-your = { -brand-name-firefox } را با افزودنی‌های مورد علاقه خودتان مانند مدیریت کننده‌های گذرواژه، مسدود کننده‌های تبلیغات و بیشتر شخصی سازی کنید.
 home-careers = مشاغل
-home-learn-about-the-benefits-of = در مورد مزایای کار کردن در موزیلا بیشتر بدانید و موقعیت‌های شغلی باز را در سراسر دنیا ببینید.
+home-learn-about-the-benefits-of = در مورد مزایای کار کردن در { -brand-name-mozilla } بیشتر بدانید و موقعیت‌های شغلی باز را در سراسر دنیا ببینید.
 home-need-help = به راهنمایی نیاز دارید؟
 home-get-answers-to-your-questions = جواب سوال‌های خود را درباره فایرفاکس و تمام محصولات موزیلا از گروه پشتیبانی ما بگیرید.

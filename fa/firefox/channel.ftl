@@ -9,7 +9,6 @@ firefox-channel-desktop = رومیزی
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = یک مرورگر رام نشده را آزمایش کنید.
-firefox-channel-be-among-the-first-to-explore = در میان نخستین کسانی باشید که انتشارهای آینده { -brand-name-firefox } برای رایانه رومیزی، { -brand-name-android } و { -brand-name-ios } را کاوش می‌کنند.
 firefox-channel-see-something-that-isnt-working = چیزی مشکل دارد و کار نمی‌کند؟ به ما اطلاع بدهید.
 firefox-channel-file-a-bug-now = گزارش یک اشکال
 firefox-channel-tips-for-filing-a-bug = نکته‌هایی برای گزارش اشکال
