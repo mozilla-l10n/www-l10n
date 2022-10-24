@@ -8,6 +8,7 @@
 
 # HTML page title
 
+browsers-chromebook-get-firefox-browser = { -brand-name-chromebook } کیتے { -brand-name-firefox-browser } گھنو
 browsers-chromebook-browsers-chromebook-get-firefox-for = { -brand-name-android } کیتے { -brand-name-firefox } گھنو
 browsers-chromebook-get-firefox-desktop = { -brand-name-chromebook } کیتے { -brand-name-firefox } ڈیسک ٹاپ گھنو
 browsers-chromebook-dropdown-copy = { -brand-name-chromebook } کیتے { -brand-name-firefox } گھنو
