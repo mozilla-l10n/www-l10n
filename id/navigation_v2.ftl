@@ -70,6 +70,8 @@ navigation-v2-careers = Karier
 navigation-v2-work-for-a-mission-driven-updated = Bekerja untuk organisasi yang digerakkan oleh misi untuk membangun produk yang mengutamakan pengguna.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Pelajari tentang { -brand-name-mozilla } dan masalah yang kami atasi.
+navigation-v2-stories = Cerita
+navigation-v2-stories-about-how = Cerita tentang bagaimana orang-orang dan produk kami mengubah dunia menjadi lebih baik.
 navigation-v2-more-about-mozilla = Selengkapnya Tentang { -brand-name-mozilla }
 
 ## Innovation menu
