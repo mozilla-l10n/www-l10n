@@ -22,7 +22,7 @@ facebook-container-facebook-can-track-almost = { -brand-name-facebook } تقری
 facebook-container-install-and-contain = نصب کنید و محفوظ بمانید
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-installing-the-extension-is = نصب این <a href="{ $fbcontainer }">افزونه</a> ساده است، و به محض فعال‌سازی، فیس‌بوک را در یک زبانهٔ آبی رنگ باز می‌کند. از فیس‌بوک به شکل معمول و همیشگی استفاده کنید. فیس‌بوک هنوز هم می‌تواند در وب‌سایتش برای شما تبلیغات و پیشنهادهایی ارسال کند، اما جمع‌آوری اطلاعات را توسط فیس‌بوک <strong>در خارج از وب‌سایتش</strong> جهت ارسال تبلیغات و سایر پیام‌های هدفمند، بسیار مشکل‌تر خواهد کرد.
+facebook-container-installing-the-extension-is = نصب این <a href="{ $fbcontainer }">افزونه</a> ساده است، و به محض فعال‌سازی، { -brand-name-facebook } را در یک زبانهٔ آبی رنگ باز می‌کند. از { -brand-name-facebook } به شکل معمول و همیشگی استفاده کنید. { -brand-name-facebook } هنوز هم می‌تواند در وب‌سایتش برای شما تبلیغات و پیشنهادهایی ارسال کند، اما جمع‌آوری اطلاعات را توسط { -brand-name-facebook } <strong>در خارج از وب‌سایتش</strong> جهت ارسال تبلیغات و سایر پیام‌های هدفمند، بسیار مشکل‌تر خواهد کرد.
 facebook-container-about-firefox-and-mozilla = دربارهٔ { -brand-name-firefox } و { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/

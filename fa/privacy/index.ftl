@@ -26,7 +26,7 @@ privacy-index-as-an-open-source-project = به عنوان یک پروژهٔ مت
 privacy-index-to-review-and-comment-on-proposed = برای بررسی و بازخورد در مورد تغییرات بر روی سیاست‌های حریم‌خصوصی ما، <a href="{ $group }">در گروه راهبری { -brand-name-mozilla } عضو شوید</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
-privacy-index-read-more-about-our-ongoing = در مورد کارهای در حال انجام ما بر روی سیاست‌های عمومیِ حریم‌خصوصی و امنیت در <a href="{ $blog }">وبلاگ سیاستِ باز و حمایت</a> بیشتر بخوانید.
+privacy-index-read-more-about-our-ongoing = در مورد کارهای در حال انجام ما بر روی سیاست‌های عمومیِ حریم‌خصوصی و امنیت در <a href="{ $blog }">{ -brand-name-mozilla } وبلاگ سیاستِ باز و حمایت</a> بیشتر بخوانید.
 privacy-index-outdated-policies = سیاست‌های قدیمی
 privacy-index-mozilla-websites-communications = وب‌سایت‌های موزیلا، ارتباطات و کوکی‌ها
 privacy-index-firefox-fire-tv = { -brand-name-firefox } برای { -brand-name-fire-tv }

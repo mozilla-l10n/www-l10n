@@ -29,7 +29,7 @@ history-people-contributed-to-mozilla = افراد به روش‌های متفا
 history-after-several-years-of-development = پس از چند سال توسعه، <a href="{ $mozilla1 }">{ -brand-name-mozilla } ۱.۰</a>، اولین نسخه عمده، در سال ۲۰۰۲ منتشر شد. این نسخه شامل بهبودهای زیادی در مرورگر، سرویس‌گیرنده رایانامه و برنامه‌هایِ دیگرِ داخلِ مجموعه می‌شد، ولی افراد زیادی از آن استفاده نمی‌کردند.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
-history-by-2002-well-over-90 = تا سال ۲۰۰۲، <a href="{ $over90 }">بیش از ۹۰٪ کاربران</a> برای مرور اینترنت، از اینترنت اکسپلورر استفاده می‌کردند.
+history-by-2002-well-over-90 = تا سال ۲۰۰۲، <a href="{ $over90 }">بیش از ۹۰٪ کاربران</a> برای مرور اینترنت، از{ -brand-name-ie } استفاده می‌کردند.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = در آن زمان تعداد زیادی متوجه نشدند، ولی اولین نگارش فونیکس (که بعدا به { -brand-name-firefox } تغییر نام داد) هم همان سال توسط اعضای جامعه { -brand-name-mozilla } با هدف تامین <a href="{ $charter }">بهترین تجربه ممکن مرور</a> برای گسترده‌ترین مجموعهٔ ممکن از افراد، منتشر شده بود.
