@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = Instalirajte { -brand-name-firefox } 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Instalirajte { -brand-name-firefox } kao { -brand-name-linux } aplikaciju: ovaj put zahtijeva još nekoliko koraka, ali isplati se. Kada instalirate { -brand-name-firefox } kao { -brand-name-linux } aplikaciju, dobijate { -brand-name-firefox } desktop browser i sve pogodnosti koje dolaze sa njim, uključujući poboljšanu zaštitu od praćenja, ugrađeni menadžer lozinki, pristup hiljadama dodataka (uključujući UBlock Origin blokator oglasa) i teme za prilagođavanje izgleda vašeg browsera. <a { $url }>Saznajte više o instaliranju { -brand-name-firefox } desktop browsera za { -brand-name-chromebook }.</a>
