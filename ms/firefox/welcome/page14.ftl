@@ -10,6 +10,7 @@ welcome-page14-page-title-alt = Kini Bulan Keselamatan Siber — masanya untuk m
 
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (Rangkaian Peribadi Maya) melindungi keseluruhan sambungan internet anda pada komputer, tablet dan telefon anda. Untuk lebih keselamatan, ia disertakan dengan jaminan pengembalian wang dalam tempoh 30 hari.
 
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (Rangkaian Peribadi Maya) melindungi keseluruhan sambungan Internet anda pada komputer, tablet dan telefon anda. Untuk lebih keselamatan, ia disertakan dengan jaminan pengembalian wang dalam tempoh 30 hari.
 
 welcome-page14-get-mozilla-vpn = Dapatkan { -brand-name-mozilla-vpn }
 
