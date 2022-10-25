@@ -18,6 +18,7 @@ browsers-mobile-firefox-for-android = { -brand-name-firefox } для { -brand-na
 browsers-mobile-infinitely-customizable-private = Бясконца наладжвальны, прыватны і бяспечны, { -brand-name-firefox } для { -brand-name-android } - гэта неймаверна хуткі браўзер, які ніколі не прадасць вас.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } для { -brand-name-ios }
 browsers-mobile-go-your-own-way = Абірай свой шлях разам з мабільным { -brand-name-firefox }
+browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } для мабільных прылад адаптуецца да вас і робіць прагляд усіх вашых адкрытых картак, папярэдніх пошукаў і ўлюбёных сайтаў прасцейшым, чым калі-небудзь раней.
 browsers-mobile-the-more-you-use = Чым больш вы карыстаецеся ім, тым разумнейшым ён становіцца. Хатні экран { -brand-name-firefox } адаптуецца да вас і дазваляе працягваць працу з таго месца, дзе вы спыніліся.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Атрымайце ўзмоцненую ахова ад сачэння і зрабіце { -brand-name-firefox } сваім прадвызначаным асноўным браўзерам, назаўжды на вашых { -brand-name-iphone } і { -brand-name-ipad }.
