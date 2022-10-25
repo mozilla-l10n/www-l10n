@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = 选择适合您的订阅方案
 vpn-shared-pricing-variable-heading = 选择适合您的方案
 vpn-shared-pricing-variable-sub-heading = 我们的所有方案包括：
 vpn-shared-pricing-recommended-offer = 推荐
-vpn-shared-pricing-plan-6-month = 半年
+vpn-shared-pricing-plan-12-month-v2 = 年付方案
+# Outdated string
 vpn-shared-pricing-plan-12-month = 全年
+vpn-shared-pricing-plan-monthly-v2 = 月付方案
+# Outdated string
 vpn-shared-pricing-plan-monthly = 每月
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = <span>每月</span> { $amount }
 vpn-shared-pricing-get-6-month = 订阅半年方案
 # Outdated string
 vpn-shared-pricing-get-12-month = 订阅全年方案
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = 订阅半年方案
 vpn-shared-pricing-get-12-month-v2 = 订阅全年方案
 vpn-shared-pricing-get-monthly = 订阅月度方案
@@ -125,6 +129,14 @@ vpn-subnav-subscribe = 订阅 { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = 我们使用 Cookie 以了解是哪个合作伙伴向您推荐了 { -brand-name-mozilla-vpn }。我们不会与合作伙伴共享您的个人识别信息。详情请见我们的<a { $attrs }>隐私政策</a>。
 vpn-shared-affiliate-notification-reject = 拒绝
 vpn-shared-affiliate-notification-ok = 好的
+
+## VPN + Relay bundle offer
+
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = 加入 <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = 马甲邮箱
+vpn-shared-relay-phone-masking = 虚拟手机号
 
 ##
 
