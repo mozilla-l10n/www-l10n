@@ -132,11 +132,17 @@ vpn-shared-affiliate-notification-ok = 好的
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = 订阅 { -brand-name-vpn } + { -brand-name-relay }，增强您的隐私保护
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = 加入 <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = 马甲邮箱
 vpn-shared-relay-phone-masking = 虚拟手机号
+vpn-shared-get-vpn-plus-relay = 订阅 { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = 为何要捆绑订阅？
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = 订阅 { -brand-name-relay-premium } 年付方案，<span>可享 { $percent }% 折扣</span>
 
 ##
 
