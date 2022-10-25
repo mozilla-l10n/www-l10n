@@ -10,6 +10,7 @@ welcome-page14-page-title-alt = C’est le mois de la cybersécurité : renforc
 
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (réseau privé virtuel) protège l’ensemble de votre connexion internet sur votre ordinateur, votre tablette et même votre téléphone. Et pour encore plus de sécurité, vous disposez d’une garantie de remboursement de 30 jours.
 
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (réseau privé virtuel) protège l’ensemble de votre connexion internet sur votre ordinateur, votre tablette et votre téléphone. Et pour encore plus de sécurité, vous disposez d’une garantie de remboursement de 30 jours.
 
 welcome-page14-get-mozilla-vpn = Installer { -brand-name-mozilla-vpn }
 
