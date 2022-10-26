@@ -29,6 +29,8 @@ privacy-passwords-a-padlock-with = Kırmızı çapraz çizgili asma kilit, bağl
 privacy-passwords-firefox-will = Sitenin kimlik avı sitesi olduğu biliniyorsa Firefox web sitesi yerine bir uyarı görüntüleyecektir.
 privacy-passwords-strength-in-diversity = Farklılıktan gelen güç
 privacy-passwords-security-questions-my = Güvenlik Soruları: Annemin kızlık soyadı “Ff926AKa9j6Q”
+privacy-passwords-finally-most-websites = Son olarak, çoğu web sitesi, parolanızı unutursanız onu kurtarmanıza izin verir. Genellikle bu sistemler, parolanızı sıfırlamadan önce bazı “güvenlik sorularını” yanıtlamanızı ister. <strong>Bu soruların yanıtlarının da parolanız kadar gizli olması gerekir.</strong> Aksi takdirde saldırgan yanıtları tahmin edebilir ve parolanızı değiştirebilir.
+privacy-passwords-randomness-can-be = Rastgelelik bir sorun olabilir çünkü sitelerin sıklıkla kullandığı güvenlik soruları; doğum yeriniz, doğum gününüz veya akrabalarınızın adları gibi insanların sizin hakkınızda bilebileceği veya sosyal medya gibi kaynaklardan toplayabileceği şeylerdir. Neyse verdiğiniz cevabın gerçek olup olmadığı aslında önemli değil. Yani yalan söyleyebilirsiniz! Ama verimli bir şekilde yalan söyleyin: Güvenlik sorularına da parolalarınız gibi <strong>uzun ve rastgele yanıtlar verin</strong>.
 privacy-passwords-get-help-from = Parola yöneticisi kullanın
 privacy-passwords-twofactor-authentication-2fa = İki aşamalı kimlik doğrulama (2FA)
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics

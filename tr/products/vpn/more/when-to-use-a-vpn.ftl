@@ -12,4 +12,5 @@ vpn-when-to-use-1-a-walk = 1. Parkta yürüyüş
 vpn-when-to-use-3-on-the = 3. Hareket halindeyken
 vpn-when-to-use-4-home-away = 4. Evden uzakta
 vpn-when-to-use-5-in-your = 5. Kendi evinizde
+vpn-when-to-use-make-sure-you = VPN’in ne işe yaramadığını bilin
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, güvenilir bir VPN hizmeti
