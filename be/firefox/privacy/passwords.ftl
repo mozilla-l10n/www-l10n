@@ -9,6 +9,7 @@
 privacy-passwords-security-guide-to = Кіраўніцтва па больш бяспечных лагінах і паролях
 # page content
 privacy-passwords-a-security-guide = Кіраўніцтва па больш бяспечных лагінах і паролях
+privacy-passwords-protecting-your-accounts = Абарона вашых уліковых запісаў не павінна быць складанай — і { -brand-name-firefox } можа дапамагчы.
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Сцісла:
 privacy-passwords-use-random-passwords = Выкарыстоўвайце выпадковыя паролі і стварайце розныя паролі для кожнага сайта
