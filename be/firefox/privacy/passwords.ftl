@@ -27,4 +27,6 @@ privacy-passwords-guessing-it = Адгадаўшы
 privacy-passwords-stealing-a-file = Выкраўшы файл з вашым паролем
 privacy-passwords-using-password-recovery = Выкарыстаўшы функцыю аднаўлення пароля для яго скіду
 privacy-passwords-tricking-you-into = Падмануўшы, каб вы выдалі яго
+privacy-passwords-to-keep-your = Каб трымаць свае лагіны ў бяспецы, вам трэба прадухіліць як мага больш гэтых спосабаў. Кожная рызыка мае адпаведнае супрацьдзеянне.
+privacy-passwords-look-for-the = Пашукайце замок у сваім браўзеры
 privacy-passwords-strength-in-diversity = Сіла ў разнастайнасці
