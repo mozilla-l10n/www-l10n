@@ -10,7 +10,7 @@ features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: le 
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organisa facilemente tu marcapaginas in dossiers e accede a illos sur tote tu apparatos, tanto computatores como mobiles.
 features-bookmarks-better-bookmarks = Melior marcapaginas
-features-bookmarks-dont-agonize-lovers-of = Tener in ordine tu adorate marcapaginas non deberea esser un tormento. Organisa los con { -brand-name-firefox }.
+features-bookmarks-dont-agonize-lovers-of = Non deberea esser un tormento mantener tu amate marcapaginas in ordine. Organisa los con { -brand-name-firefox }.
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = Salveguarda ille marcapagina
 # Dial in means to access/use (the bookmarks).
