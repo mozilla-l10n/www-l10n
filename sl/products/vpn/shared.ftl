@@ -64,8 +64,10 @@ vpn-shared-pricing-variable-heading-v2 = Izberite naročnino, ki vam ustreza
 vpn-shared-pricing-variable-heading = Izberite načrt, ki vam ustreza
 vpn-shared-pricing-variable-sub-heading = Vse naše naročnine vključujejo:
 vpn-shared-pricing-recommended-offer = Priporočamo
+vpn-shared-pricing-plan-12-month-v2 = 12-mesečna naročnina
 # Outdated string
 vpn-shared-pricing-plan-12-month = 12 mesecev
+vpn-shared-pricing-plan-monthly-v2 = Mesečna naročnina
 # Outdated string
 vpn-shared-pricing-plan-monthly = Mesečno
 # Variables:
@@ -137,6 +139,12 @@ vpn-add-relay-to-protect = Naročnini dodajte { -brand-name-firefox-relay }, ki 
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Dodajte <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Maskiranje e-poštnega naslova
+vpn-shared-relay-phone-masking = Maskiranje telefonske številke
+vpn-shared-why-bundle = Zakaj paket?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Prihranite { $percent }%</span> pri letni naročnini na { -brand-name-relay-premium }
 
 ##
 

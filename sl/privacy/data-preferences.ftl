@@ -7,3 +7,4 @@
 
 data-preferences-current-preference = Trenutna nastavitev:
 data-preferences-please-enable-javascript = Za upravljanje nastavitve podatkov omogočite JavaScript.
+data-preferences-if-you-change = Če si premislite, lahko soglasje znova podate tukaj:

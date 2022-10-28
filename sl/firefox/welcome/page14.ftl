@@ -11,3 +11,7 @@ welcome-page14-get-mozilla-vpn = Pridobite { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Na blagajni uporabite kodo za 20-odstotni popust
 welcome-page14-copy-code = Kopiraj kodo
 welcome-page14-code-copied = Koda kopirana!
+welcome-page14-very-fast = Hiter, zelo hiter
+welcome-page14-wireguard-powered = Naši strežniki, ki jih poganja { -brand-name-wireguard }®, so ustvarjeni za hitrost, tako da lahko pretakate, prenašate ali igrate igre kot običajno.
+welcome-page14-without-trace = Internet brez sledi
+welcome-page14-why-see-this = Zakaj se to prikazuje?

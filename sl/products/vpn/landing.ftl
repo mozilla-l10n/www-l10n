@@ -108,6 +108,10 @@ vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (samo 
 vpn-landing-faq-refund-question-desc = You can get your money back within 30 days of purchasing your subscription. Contact us and submit the refund request by tapping the “Get Help” button in Settings on your { -brand-name-mozilla-vpn } app.
 vpn-landing-faq-manage-subscription-question-heading = Kako lahko upravljam svojo naročnino?
 # Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Če ste že naročeni na { -brand-name-mozilla-vpn }, lahko kadarkoli spremenite naročniški paket ali <a href="{ $url }">upravljate svojo naročnino</a>.
+vpn-landing-faq-download-heading = Kako lahko kot že naročeni uporabnik prenesem { -brand-name-mozilla-vpn }?
+# Variables:
 #   $attrs (string) - link href and additional HTML attributes
 vpn-landing-faq-download-desc = Obiščite <a { $attrs }>stran za prenos</a> in z nje namestite { -brand-name-mozilla-vpn } na svojo napravi, nato se prijavite s svojim { -brand-name-firefox-account(sklon: "orodnik") }.
 vpn-landing-faq-link = Več pogosto zastavljenih vprašanj
@@ -133,7 +137,7 @@ vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = S klikom na "Vpišite se na čakalni seznam" se strinjate z našo <a href="{ $privacy }">politiko zasebnosti</a>.
 vpn-landing-invite-your-information = Vaše podatke bomo uporabili samo za obveščanje o razpoložljivosti za platformo.
 vpn-landing-invite-thanks-heading = Hvala! Ste na seznamu

@@ -69,6 +69,7 @@ navigation-v2-work-for-a-mission-driven-updated = Delajte za organizacijo, kater
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla(sklon: "rodilnik") }
 navigation-v2-learn-about-mozilla-and = Preberite več o { -brand-name-mozilla(sklon: "mestnik") } in o temah, ki so nam pomembne.
 navigation-v2-stories = Zgodbe
+navigation-v2-stories-about-how = Zgodbe o tem, kako naši ljudje in izdelki spreminjajo svet na bolje.
 navigation-v2-more-about-mozilla = Več o { -brand-name-mozilla(sklon: "mestnik") }
 
 ## Innovation menu
