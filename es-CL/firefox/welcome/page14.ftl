@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
 welcome-page14-get-mozilla-vpn = Obtener { -brand-name-mozilla-vpn }
+welcome-page14-use-code = Usa el código al finalizar la compra para obtener un 20% de descuento
 welcome-page14-copy-code = Copiar código
 welcome-page14-code-copied = ¡Código copiado!
 welcome-page14-very-fast = Es rápido, muy rápido
