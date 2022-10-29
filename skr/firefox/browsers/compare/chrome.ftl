@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
+# HTML page title
+compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } بمقابلہ { -brand-name-chrome }: کہڑا بہتر ہے؟
 # Main title.
 compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } دا { -brand-name-google }{ -brand-name-chrome } دے نال ویورا
