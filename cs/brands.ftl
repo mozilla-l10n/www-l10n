@@ -589,6 +589,7 @@
     }
     .gender = masculine
 -brand-name-relay = Relay
+-brand-name-relay-premium = Relay Premium
 -brand-name-sync =
     { $case ->
        *[nom] Sync
