@@ -15,3 +15,4 @@ welcome-page14-copy-code = Zkopírovat kód
 welcome-page14-code-copied = Kód zkopírován!
 welcome-page14-very-fast = Je rychlá, velmi rychlá
 welcome-page14-wireguard-powered = Naše servery využívající technologii { -brand-name-wireguard }® jsou navrženy tak, aby byly rychlé a vy jste mohli streamovat, stahovat a hrát hry jako obvykle.
+welcome-page14-without-trace = Internet beze stop
