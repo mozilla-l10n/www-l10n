@@ -133,6 +133,9 @@ vpn-shared-affiliate-notification-ok = OK
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = Ενισχύστε το απόρρητό σας με τα { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Προσθήκη του <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Μάσκα email
 vpn-shared-relay-phone-masking = Μάσκα τηλεφώνου
 
