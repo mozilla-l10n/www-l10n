@@ -138,6 +138,7 @@ vpn-shared-increase-your-privacy = Ενισχύστε το απόρρητό σα
 vpn-shared-add-firefox-relay = Προσθήκη του <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Μάσκα email
 vpn-shared-relay-phone-masking = Μάσκα τηλεφώνου
+vpn-shared-get-vpn-plus-relay = Απόκτηση των { -brand-name-vpn } + { -brand-name-relay }
 
 ##
 
