@@ -10,4 +10,4 @@ data-preferences-page-desc = Vaše soukromí je pro { -brand-name-mozilla(case: 
 # Variables:
 #   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
 #   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
-data-preferences-your-privacy = Vaše soukromí je pro organizaci { -brand-name-mozilla } velmi důležité. Naše vlastní telemetrická a analytická platforma s názvem <a href="{ $glean }">{ -brand-name-glean }</a> se řídí našimi vlastními vysokými standardy pro <a href="{ $lean_data }">šetrné zacházení s daty</a>.
+data-preferences-your-privacy = Vaše soukromí je pro organizaci { -brand-name-mozilla } velmi důležité. Naše vlastní telemetrická a analytická platforma s názvem <a href="{ $glean }">{ -brand-name-glean }</a> se řídí našimi vysokými standardy pro <a href="{ $lean_data }">šetrné zacházení s daty</a>.
