@@ -7,6 +7,8 @@
 
 data-preferences-page-title = Správa nastavení shromažďování údajů
 data-preferences-page-desc = Vaše soukromí je pro { -brand-name-mozilla(case: "acc") } velmi důležité. Tato stránka vám umožní spravovat vaše osobní nastavení pro shromažďování údajů na webu mozilla.org pomocí nástroje { -brand-name-glean }.
+data-preferences-notification-opt-out = Shromažďování údajů je zakázané.
+data-preferences-notification-opt-in = Shromažďování údajů máte aktivované.
 # Variables:
 #   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
 #   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
