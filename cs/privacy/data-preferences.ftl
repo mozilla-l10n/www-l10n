@@ -18,3 +18,5 @@ data-preferences-mozilla-uses = { -brand-name-mozilla } používá { -brand-name
 data-preferences-if-you-still-want-to = Pokud se přesto chcete z naší analytiky odhlásit, můžete tak učinit níže. Kliknutím na tlačítko pro odhlášení se nastaví preferenční cookies, která { -brand-name-glean(case: "acc") } instruuje, aby při vašem načítání našich webových stránek neodesílal žádné údaje. Tato preferenční cookies bude mít životnost 1 rok.
 data-preferences-current-preference = Současné nastavení:
 data-preferences-please-enable-javascript = Pro správu nastavení shromažďování svých údajů prosím povolte JavaScript.
+data-preferences-opt-out-button = Zrušit shromažďování údajů
+data-preferences-opt-in-button = Povolit shromažďování údajů
