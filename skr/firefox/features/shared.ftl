@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-browse-faster = تیزی نال براؤز کرو
+features-shared-password-manager = پاس ورڈ منیجر
 brand-name-firefox = { -brand-name-firefox }

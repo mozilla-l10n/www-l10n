@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-try-relay = { -brand-name-relay } ازماؤ
 firefox-home-desktop = ڈیسک ٹاپ
 firefox-home-browsers = براؤزر
 firefox-home-android = { -brand-name-android }
