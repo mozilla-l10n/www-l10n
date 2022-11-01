@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } er den lynraske nettlesaren som tilbyr avanserte utviklarverktøy og nyaste funksjonar som støtte for CSS-rutenett og feilsøking (debugging) av framework
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Dei nye { -brand-name-firefox-devtools } er avanserte og fleksible, og du kan du tilpasse dei etter behov. Du får mellom anna ein JavaScript-feilsøkar, som er langt betre enn andre feilsøkarar. Den nye JavaScriptfeilsøkaren er bygd i React og Redux, og du kan bruke han med ulike nettlesarar.
 firefox-developer-master-css-grid = Meistre CSS-rutenett
+# outdated
 firefox-developer-next-gen-css-engine = Neste generasjons CSS-motor
+firefox-developer-built-for-developers = Bygd for utviklarar
 firefox-developer-a-next-generation = Neste generasjons CSS-motor
 firefox-developer-master-innovative-features = Nyskapande funksjonar
 firefox-developer-want-to-be-on-the-cutting-edge = Vil du vere i framkant?
@@ -78,4 +80,5 @@ firefox-developer-welcome-to-the-all-new = Velkomen til den heilt nye { -brand-n
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } er bygd oppatt frå grunnen til å vere raskare, penare og kraftigare enn nokon gong.
 firefox-developer-congrats-you-now-have-firefox = Gratulerer. Du har no { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Dette er ikkje berre ei oppdatering. Dette er { -brand-name-firefox-quantum }: ein heilt ny { -brand-name-firefox } som er bygd oppatt frå grunnen av for å vere raskare, meir elegant og kraftigare enn nokon gong.
+firefox-developer-welcome-to-firefox-browser = Velkomen til { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = nettlesaren laga for utviklarar

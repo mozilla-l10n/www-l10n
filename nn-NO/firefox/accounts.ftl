@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -38,6 +38,7 @@ firefox-accounts-get-it-all-on-every = Få alt på alle einingar, utan å føle 
 firefox-accounts-and-get-it-all-on = Og få alt på alle einingane dine, utan å føle deg fanga av eitt enkelt operativsystem.
 firefox-accounts-get-the-respect-you = Få respekten du fortener.
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = Komplett vern av alle einingar
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Vi vil alltid fortelje deg sanninga. Alt vi gjer lever opp til <a href="{ $promise }">løftet vårt om personlege data</a>:
