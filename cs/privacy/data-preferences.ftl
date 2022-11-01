@@ -12,7 +12,7 @@ data-preferences-notification-opt-in = Shromažďování údajů máte aktivovan
 # Variables:
 #   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
 #   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
-data-preferences-your-privacy = Vaše soukromí je pro organizaci { -brand-name-mozilla } velmi důležité. Naše vlastní telemetrická a analytická platforma s názvem <a href="{ $glean }">{ -brand-name-glean }</a> se řídí našimi vysokými standardy pro <a href="{ $lean_data }">šetrné zacházení s daty</a>.
+data-preferences-your-privacy = Vaše soukromí je pro organizaci { -brand-name-mozilla } velmi důležité. Naše vlastní telemetrická a analytická platforma s názvem <a href="{ $glean }">{ -brand-name-glean }</a> se řídí našimi přísnými kritérii pro <a href="{ $lean_data }">šetrné zacházení s daty</a>.
 # Variables:
 #   $dictionary (url) - link to https://dictionary.telemetry.mozilla.org/
 #   $privacy_notice (url) - link to https://www.mozilla.org/privacy/websites/
