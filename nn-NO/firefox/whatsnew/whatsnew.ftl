@@ -10,6 +10,7 @@ whatsnew-page-description = Ta kampen opp mot ei bransje som sel dine data til t
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification-v2 = Gratulerer! Du brukar den nyaste versjonen av { -brand-name-firefox }.
 # Obsolete string
 whatsnew-up-to-date-notification = Gratulerer! Du brukar den nyaste versjonen av { -brand-name-firefox-browser }.
 whatsnew-out-of-date-notification-v2 = Ein endå nyare { -brand-name-firefox } er tilgjengeleg. Start på nytt for å oppdatere.
