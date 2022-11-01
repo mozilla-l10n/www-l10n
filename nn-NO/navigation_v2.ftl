@@ -68,6 +68,8 @@ navigation-v2-careers = Karriere
 navigation-v2-work-for-a-mission-driven-updated = Arbeid for ein oppdragsdriven organisasjon som lagar målretta produkt.
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blogg
 navigation-v2-learn-about-mozilla-and = Les meir om { -brand-name-mozilla } og dei spørsmåla som er viktige for oss.
+navigation-v2-stories = Historier
+navigation-v2-stories-about-how = Historier om korleis vi og produkta våre gjer verda betre.
 navigation-v2-more-about-mozilla = Meir om { -brand-name-mozilla }
 
 ## Innovation menu
@@ -86,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Bidra med stemma di slik at framtida på nettet kan høyre alle.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Lær deg meir om det nye, lågnivå, assembler-liknande språket.
-navigation-v2-more-mozilla-innovation = Fleire { -brand-name-mozilla }-innovasjonar
