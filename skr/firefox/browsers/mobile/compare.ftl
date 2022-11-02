@@ -19,6 +19,7 @@ mobile-compare-desktop-mode = ڈیسک ٹاپ موڈ
 mobile-compare-find-on-page = ورقے وچ لبھو
 mobile-compare-image-search = تصویر لبھݨ
 mobile-compare-voice-search = آواز نال ڳولݨ
+mobile-compare-add-to-homescreen = ہوم سکرین تے شامل کرو
 mobile-compare-password-management = پاس ورڈ منیجمنٹ
 mobile-compare-primary-password = بنیادی پاس ورڈ
 mobile-compare-get-firefox-for-mobile = موبائل کیتے { -brand-name-firefox } گھنو

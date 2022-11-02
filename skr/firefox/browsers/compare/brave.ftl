@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
 
+# HTML page title
+compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } بمقابلہ { -brand-name-brave }: تہاݙے کیتے بہتر براؤزر کہڑا ہے؟
 # Main title
 compare-brave-comparing-firefox-browser = { -brand-name-firefox-browser } نال { -brand-name-brave } دا ویورا کریندا پئے

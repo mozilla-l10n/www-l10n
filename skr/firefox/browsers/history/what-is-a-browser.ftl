@@ -7,3 +7,4 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = ویب براؤزر کیا ہے؟
+what-is-a-browser-understanding = رازداری سمجھݨ

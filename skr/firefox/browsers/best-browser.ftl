@@ -11,3 +11,4 @@ best-browser-how-to-choose-the-best = آپݨے کیتے بہترین براؤز�
 best-browser-a-browser-built-for = رفتار کیتے بݨیا ہویا براؤزر
 best-browser-a-browser-that-puts = ہک براؤزر جہڑا حفاظت کوں پہلے رکھدے۔
 best-browser-a-browser-that-minds = ہک براؤزر جہڑا آپݨے کم نال کم رکھدے۔
+best-browser-take-control-of-your = آپݨے براؤزر دا کنٹرول گھنو۔

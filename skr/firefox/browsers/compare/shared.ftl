@@ -13,6 +13,9 @@ compare-shared-private-browsing-mode = نجی براؤزنگ موڈ
 compare-shared-blocks-third-party-tracking-default = ڈیفالٹ نال تریجھا فریق کوکیاں بلاک کریندے
 # Obsolete string
 compare-shared-blocks-third-party-tracking = تریجھا فریق ٹریکنک کوکیاں بلاک کریندے
+compare-shared-blocks-cryptomining-scripts = کریپٹومیننگ سکرپٹ بلاک کریندے
+compare-shared-blocks-fingerprinting-scripts = فنگر پرنٹنگ سکرپٹ بلاک کریندے
+compare-shared-blocks-social-trackers = سماجی ٹریکراں کوں بلاک کریندے
 compare-shared-autoplay-blocking = آٹو پلے بلاک تھیندا پئے
 compare-shared-tab-browsing = ٹیب براؤز کرݨ
 compare-shared-bookmark-manager = نشانی منیجر
