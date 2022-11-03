@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -26,7 +26,7 @@ firefox-all-32-bit-installers = 32-бітныя інсталятары
 firefox-all-download-the-firefox = Сцягніце { -brand-name-firefox-browser } на беларускай і больш чым на 90 іншых мовах
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Кожны чалавек заслугоўвае доступу ў Інтэрнэт — ваша мова ніколі не павінна быць бар'ерам. Вось чаму — з дапамогай адданых валанцёраў па ўсім свеце — мы робім { -brand-name-firefox-browser } даступным на больш чым 90 мовах.
-firefox-all-choose-which-firefox = Выберыце, які { -brand-name-firefox-browser } сцягнуць на сваёй на мове
+firefox-all-choose-which-firefox = Выберыце, які { -brand-name-firefox-browser } сцягнуць на сваёй мове
 firefox-all-firefox-privacy-notice = Паведамленне аб прыватнасці { -brand-name-firefox }
 firefox-all-learn-about-firefox = Даведайцеся пра браўзеры { -brand-name-firefox }
 firefox-all-the-standard-firefox = Стандартны браўзер { -brand-name-firefox } — хуткі і прыватны. Калі вы не ўпэўнены, які { -brand-name-firefox } выбраць, абярыце гэты.
