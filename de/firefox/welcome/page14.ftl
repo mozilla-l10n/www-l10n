@@ -22,7 +22,7 @@ welcome-page14-code-copied = Code kopiert!
 
 welcome-page14-very-fast = Es ist schnell. Sehr schnell.
 
-welcome-page14-wireguard-powered = Unser { -brand-name-wireguard }® betriebenen Server sind auf Geschwindigkeit ausgelegt, damit Sie streamen, downloaden und spielen können, wie gewohnt.
+welcome-page14-wireguard-powered = Unsere auf { -brand-name-wireguard }® basierenden Server sind auf Geschwindigkeit ausgelegt, damit Sie wie gewohnt streamen, downloaden und spielen können.
 
 welcome-page14-without-trace = Spurlos im Internet
 
