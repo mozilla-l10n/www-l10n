@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -21,11 +21,18 @@ firefox-products-desktop = Desktop
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Pogledaj sve preglednike
+firefox-products-protect-your-real = Zaštiti svoju pravu e-mail adresu za kontroliranje tvog sandučića dolazne pošte.
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Čuvaj svoje lozinke i pristupi im na svim svojim sinkroniziranim uređajima.
+# Obsolete string
 firefox-products-download-lockwise = Preuzmi { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Otvori u { -brand-name-firefox }u
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Saznaj više o { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Sigurno šalji velike datoteke i osjetljive dokumente, do 2,5 GB.
 firefox-products-send-a-file = Pošalji datoteku
