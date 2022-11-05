@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/404-locale/
 
 not-found-locale-title = Wybierz, w jakim języku wyświetlać witrynę Mozilla.org
-not-found-locale-desc = Wybierz kraj lub region, aby ustalić preferowany język.
+not-found-locale-desc = Wybierz państwo lub region, aby ustalić preferowany język.
 not-found-locale-not-yet-translated = Strona nie została jeszcze przetłumaczona
 # Variables:
 #   $community (url) - link to https://community.mozilla.org/activities/localize-mozilla/

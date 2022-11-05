@@ -68,6 +68,8 @@ navigation-v2-careers = Praca
 navigation-v2-work-for-a-mission-driven-updated = Pracuj dla organizacji z misją, tworzącą produkty przede wszystkim dla ludzi.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla(case: "gen") }
 navigation-v2-learn-about-mozilla-and = Dowiedz się więcej o { -brand-name-mozilla(case: "loc") } i o tym, co dla nas ważne.
+navigation-v2-stories = Historie
+navigation-v2-stories-about-how = Historie o tym, jak nasi ludzie i produkty zmieniają świat na lepsze.
 navigation-v2-more-about-mozilla = Więcej informacji o { -brand-name-mozilla(case: "loc") }
 
 ## Innovation menu
@@ -86,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Nagraj swój głos, aby przyszłość Internetu mogła usłyszeć nas wszystkich.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Dowiedz się więcej o nowym niskopoziomowym języku à la asembler.
-navigation-v2-more-mozilla-innovation = Więcej innowacji { -brand-name-mozilla(case: "gen") }

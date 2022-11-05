@@ -485,8 +485,11 @@
                 [lower] narzędziach dla programistów
             }
     }
+-brand-name-fpn = FPN
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
+-brand-name-relay = Relay
+-brand-name-relay-premium = Relay Premium
 -brand-name-sync =
     { $case ->
        *[nom]
@@ -520,8 +523,7 @@
                 [lower] synchronizacji
             }
     }
--brand-name-relay = Relay
--brand-name-fpn = FPN
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
