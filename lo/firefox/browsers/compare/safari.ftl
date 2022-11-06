@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
+# HTML page title
+compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } ທຽບກັບ { -brand-name-safari }: ອັນໃດແມ່ນຕົວທ່ອງເວັບທີ່ດີກວ່າສໍາລັບທ່ານ?
 # Main title.
 compare-safari-comparing-firefox-browser = ປຽບທຽບ { -brand-name-firefox-browser } ກັບ { -brand-name-apple } { -brand-name-safari }
