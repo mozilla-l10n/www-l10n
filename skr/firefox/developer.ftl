@@ -25,3 +25,4 @@ firefox-developer-memory = میموری
 firefox-developer-new-tools = نویں اوزار
 firefox-developer-inactive-css = غیرفعال سی ایس ایس
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
+firefox-developer-fonts-panel = فونٹس پینل

@@ -6,6 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-features-strong = <strong>خصوصیات</strong>
+mobile-compare-features = خاص
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>ہم وقت کرݨ</strong>
 mobile-compare-syncing = ہم وقت تھیندا پئے
 mobile-compare-conclusion = نتیجہ

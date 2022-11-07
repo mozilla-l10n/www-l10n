@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: رازداری براؤزر
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } گھنو
 mobile-focus-delete-your-history = آپݨی تاریخ مٹاؤ

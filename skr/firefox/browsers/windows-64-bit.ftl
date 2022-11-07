@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
 
 windows-64-bit-64-bit = 64ــ بٹ
+windows-64-bit-take-control-of-your = آپݨے براؤزر دا کنٹرول گھنو۔

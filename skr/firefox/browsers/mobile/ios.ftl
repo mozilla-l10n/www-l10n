@@ -11,4 +11,7 @@ mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-firefox-for = { -brand-name-ios } کیتے { -brand-name-firefox } گھنو
 mobile-ios-send-a-download-link-to-your = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو۔
 mobile-ios-scan-the-qr-code-to-get-started = شروع کرݨ کیتے QR کوڈ سکین کرو
+mobile-ios-fast-private-secure = تکھا، نجی تے محفوظ
+mobile-ios-your-browsing-history = تہاݙی براؤزنگ تاریخ تاریخ یے
+mobile-ios-get-more-firefox = آپݨی حیاتی وچ ٻئی { -brand-name-firefox } گھنو
 mobile-ios-about-mozilla = { -brand-name-mozilla } دا تعارف
