@@ -46,7 +46,7 @@ firefox-desktop-its-your-internet = Internet est à vous. Personnalisez votre na
 # Obsolete string
 firefox-desktop-download-master-password = Mot de passe principal
 firefox-desktop-download-we-block-the-ad = Nous bloquons les traqueurs publicitaires. Pour vous permettre d’explorer Internet plus rapidement.
-firefox-desktop-download-ads-are-distracting = Les pubs sont distrayantes et ralentissent le chargement des pages web, tandis que leurs traqueurs surveillent tous vos faits et gestes en ligne. { -brand-name-firefox-browser } bloque automatiquement la plupart des traqueurs, il n’est donc pas nécessaire de fouiller dans vos paramètres de sécurité.
+firefox-desktop-download-ads-are-distracting = Les pubs sont distrayantes et ralentissent le chargement des pages web, tandis que leurs traqueurs surveillent tous vos faits et gestes en ligne. Le { -brand-name-firefox-browser } bloque automatiquement la plupart des traqueurs, il n’est donc pas nécessaire de fouiller dans vos paramètres de sécurité.
 firefox-desktop-download-see-your-report = Découvrir votre rapport de protection
 firefox-desktop-download-for-everyone = { -brand-name-firefox } est pour tout le monde
 firefox-desktop-download-available-in-over = Disponible dans plus de 90 langues et compatible avec les machines { -brand-name-windows }, { -brand-name-mac-short } et { -brand-name-linux }, { -brand-name-firefox } fonctionne peu importe ce que vous utilisez et où que vous soyez. Assurez-vous que votre système d’exploitation est à jour pour une expérience optimale.
