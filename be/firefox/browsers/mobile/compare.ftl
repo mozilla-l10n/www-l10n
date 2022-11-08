@@ -7,6 +7,7 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = 5 лепшых мабільных браўзераў у прамым параўнанні
+mobile-compare-which-mobile-browser = Які мабільны браўзер клапоціцца пра вашу прыватнасць?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Магчымасці</strong>
 mobile-compare-features = Магчымасці
