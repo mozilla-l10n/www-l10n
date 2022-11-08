@@ -6,5 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
 features-fingerprinting-download-firefox = Сцягнуць { -brand-name-firefox }
+features-fingerprinting-what-is-fingerprinting-body = Што такое збор лічбавых адбіткаў?
 features-fingerprinting-fingerprinting-is-bad = Збор лічбавых адбіткаў шкодны для Інтэрнэту
 features-fingerprinting-protect = Абараніце сваю прыватнасць
