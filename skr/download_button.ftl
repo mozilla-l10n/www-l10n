@@ -21,6 +21,7 @@ download-button-free-google-play = ایں کوں{ -brand-name-google-play } تے
 download-button-app-store = ایہ { -brand-name-app-store } توں مفت گھنو
 download-button-download-app-store = { -brand-name-app-store } تے ڈاؤن لوڈ کرو
 download-button-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
+download-button-your-system-may = تہاݙا نظام { -brand-name-firefox } چلاوݨ دیاں ضروریات پوریاں کائنی کرین٘دا، پر تساں انہاں وچوں ہک ورشن ورتݨ دی کوشش کر سڳدے ہو:
 download-button-firefox-beta-android = { -brand-name-android } کیتے <span>{ -brand-name-firefox-beta }</span>
 download-button-firefox-aurora-android = { -brand-name-android } کیتے <span>{ -brand-name-firefox-aurora }</span>
 download-button-firefox-nightly-android = { -brand-name-android } کیتے<span>{ -brand-name-firefox-nightly }</span>
