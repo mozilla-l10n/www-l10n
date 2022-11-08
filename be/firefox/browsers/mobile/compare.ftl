@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-compare-5-of-the-best = 5 лепшых мабільных браўзераў у прамым параўнанні
+# HTML description
+mobile-compare-who-makes-the = Хто стварыў найлепшы мабільны браўзер? Каб даведацца, мы параўнаем мабільныя версіі { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } і { -brand-name-opera }.
 mobile-compare-which-mobile-browser = Які мабільны браўзер клапоціцца пра вашу прыватнасць?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Магчымасці</strong>
@@ -18,6 +20,7 @@ mobile-compare-syncing = Пераноснасць
 mobile-compare-does-your-browser = Ваш браўзер добра працуе на іншых прыладах?
 mobile-compare-almost-all-of = Амаль усе мабільныя браўзеры, якія параўноўваюцца тут, забяспечваюць сінхранізацыю паміж камп'ютарамі і мабільнымі прыладамі.
 mobile-compare-conclusion = Выснова
+mobile-compare-our-recommendations-aside = Нашы рэкамендацыі не абавязковыя, пошук прыдатнага для вас браўзера заўсёды будзе залежаць ад вашых індывідуальных патрэб і таго, што вы больш за ўсё шануеце падчас працы ў Інтэрнэце.
 mobile-compare-search-engine-options = Налады пошукавых сістэм
 mobile-compare-text-to-speech = Тэкст у маўленне
 mobile-compare-reader-mode = Рэжым чытання
