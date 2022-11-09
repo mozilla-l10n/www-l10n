@@ -1,12 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = อินเทอร์เน็ตสำหรับผู้คน ไม่ใช่ผลกำไร
 home-did-you-know-mozilla-the-maker = คุณรู้หรือไม่? { -brand-name-mozilla } — ผู้สร้าง { -brand-name-firefox } — ต่อสู้เพื่อคงอินเทอร์เน็ตให้เป็นทรัพยากรสาธารณะระดับโลก เปิดกว้าง และทุกคนเข้าถึงได้
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = เร็วขึ้นดีขึ้น
 home-with-2x-the-speed-built-in = ด้วยความเร็ว 2 เท่า, การปกป้องความเป็นส่วนตัวภายในตัว และ { -brand-name-mozilla } ที่อยู่เบื้องหลัง { -brand-name-firefox } ใหม่จึงเป็นหนทางที่ดีกว่าในการเรียกดู
 home-we-make-the-internet-safer = เราทำให้อินเทอร์เน็ตปลอดภัยขึ้น สุขภาพดีขึ้นและเร็วขึ้น

@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,11 @@ firefox-desktop-download-blocks-social-trackers = ปิดกั้นตัว
 firefox-desktop-download-os-availability = ความพร้อมใช้งานของระบบปฏิบัติการ
 firefox-desktop-download-in-browser-screenshot = เครื่องมือจับภาพหน้าจอในเบราว์เซอร์
 firefox-desktop-download-primary-password = รหัสผ่านหลัก
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = รักชีวิตออนไลน์ของคุณ
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = นี้คืออินเทอร์เน็ตของคุณ ลงสีมันตามที่ต้องการด้วยเครื่องมือ ชุดตกแต่งและส่วนขยายนับพัน { -brand-name-firefox } เป็นเบราว์เซอร์ทางเลือกตัวดั้งเดิมที่ให้ความสำคัญผู้คนมาก่อนผลกำไร
 # Obsolete string
 firefox-desktop-download-master-password = รหัสผ่านหลัก
 firefox-desktop-download-we-block-the-ad = เราจะปิดกั้นตัวติดตามเว็บเพื่อให้คุณสำรวจอินเทอร์เน็ตได้เร็วขึ้น
@@ -141,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } จะ<
 firefox-desktop-download-questions = มีคำถามใช่หรือไม่ <a { $attrs }>ฝ่ายสนับสนุนของ { -brand-name-mozilla }</a> พร้อมช่วยเหลือคุณในทุกเรื่อง
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = คุณได้ติดตั้งเบราว์เซอร์แล้ว ตอนนี้มาใช้คุณลักษณะเพิ่มเติมจาก { -brand-name-firefox } กันดีกว่า
+firefox-desktop-download-watch-for-hackers-with-v2 = เฝ้าระวังแฮกเกอร์ด้วย { -brand-name-firefox-monitor } ปกป้องที่อยู่อีเมลของคุณด้วย { -brand-name-firefox-relay } และอื่น ๆ
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = เฝ้าดูแฮกเกอร์ด้วย { -brand-name-firefox-monitor }, ปกป้องรหัสผ่านด้วย { -brand-name-firefox-lockwise } และอื่น ๆ
 firefox-desktop-download-get-more-from-firefox = รับคุณลักษณะเพิ่มเติมจาก { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = ดาวน์โหลดเบราว์เซอร์เพียงอย่างเดียว
@@ -158,6 +165,8 @@ firefox-desktop-download-now-mac = <strong>เปิด</strong>ไฟล์ท�
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = มีปัญหาใช่หรือไม่ <a { $attrs }>รับความช่วยเหลือเกี่ยวกับการติดตั้งของคุณ</a>
 firefox-desktop-download-in-another-language = ดาวน์โหลดในภาษาอื่นหรือสำหรับระบบปฏิบัติการอื่น
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -183,3 +192,4 @@ firefox-desktop-download-please-follow = โปรดทำตาม<a href="{ $
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = เครื่องของคุณไม่รองรับกับข้อกำหนดสำหรับ { -brand-name-firefox } แต่คุณยังสามารถลองกับ<a href="{ $url }">รุ่นเหล่านี้</a>ได้
+firefox-desktop-download-taskbar = { -brand-name-firefox } จะถูกตรึงไว้กับแถบงานของ { -brand-name-windows } หลังการติดตั้ง

@@ -10,8 +10,10 @@ whatsnew-page-description = ยืนหยัดต่อสู้กับอ�
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification-v2 = ยินดีด้วย! คุณกำลังใช้ { -brand-name-firefox } รุ่นล่าสุด
 # Obsolete string
 whatsnew-up-to-date-notification = ยินดีด้วย! คุณกำลังใช้ { -brand-name-firefox-browser } รุ่นล่าสุด
+whatsnew-out-of-date-notification-v2 = มี { -brand-name-firefox } รุ่นใหม่กว่าให้ใช้แล้ว เริ่มการทำงานใหม่เพื่ออัปเดต
 # Obsolete string
 whatsnew-out-of-date-notification = มี { -brand-name-firefox-browser } รุ่นใหม่กว่าให้ใช้แล้ว เริ่มการทำงานใหม่เพื่ออัปเดต
 # Variables:

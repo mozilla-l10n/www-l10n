@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = ดาวน์โหลด { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = ดาวน์โหลด { -brand-name-firefox } ที่เร็วที่สุดกว่าที่เคย
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = ตัวเลือกการติ�
 firefox-new-download-in-another-language = ดาวน์โหลดในภาษาอื่น
 firefox-new-need-help = ต้องการความช่วยเหลือ?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = โปรดทำตาม<a href="{ $url }">คำ
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = เครื่องของคุณไม่รองรับกับข้อกำหนดสำหรับ { -brand-name-firefox } แต่คุณยังสามารถลองกับ<a href="{ $url }">รุ่นเหล่านี้</a>ได้
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = ถ้าคุณเห็นข้อความแจ้งเตือนที่ระบุว่าแอปที่คุณกำลังพยายามติดตั้งไม่ใช้แอปที่ได้รับการตรวจสอบโดย { -brand-name-microsoft } ให้คลิก “ติดตั้งต่อไป” หรือ<a { $attrs }>เปลี่ยนการตั้งค่าการแนะนำแอป</a>
 firefox-new-visit-support-for-more = เยี่ยมชมฝ่ายสนับสนุนสำหรับรายละเอียดเพิ่มเติม
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = ดาวน์โหลด{ -brand-name-firefox-browser }
@@ -61,3 +63,4 @@ firefox-new-fast = เร็ว เป็นส่วนตัว และฟ�
 firefox-new-from-mozilla = จาก { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } เป็นเว็บเบราว์เซอร์ฟรีที่มีการโหลดหน้าเว็บอย่างรวดเร็ว ใช้หน่วยความจำน้อยลง และมีคุณสมบัติมากมาย ซึ่งเป็นโครงการที่ไม่แสวงหาผลกำไรของ { -brand-name-mozilla }
 firefox-new-download-a-different = ดาวน์โหลดสำหรับแพลตฟอร์มหรือภาษาอื่น
+firefox-new-taskbar = { -brand-name-firefox } จะถูกตรึงไว้กับแถบงานของ { -brand-name-windows } หลังการติดตั้ง
