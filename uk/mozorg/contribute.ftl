@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/contribute/
@@ -27,7 +27,7 @@ contribute-task-mozilla-codebase-heading = Сприяйте створенню �
 contribute-task-mozilla-codebase-desc = Активно вдосконалюйте продукти { -brand-name-mozilla }, роблячи свій внесок для різноманітних можливостей розвитку.
 contribute-task-support-desc = Допомагайте зробити продукти { -brand-name-mozilla } простими у користуванні. Відповідайте на прохання допомогти від людей на форумах спільноти підтримки { -brand-name-mozilla }.
 contribute-task-join-heading = Приєднуйтесь до спільноти
-contribute-task-join-desc = Хочете бути сильніше залученим до спільноти { -brand-name-mozilla }? Перевірте всі можливості для волонтерів на нашому порталі спільноти.
+contribute-task-join-desc = Хочете більше взаємодіяти зі спільнотою { -brand-name-mozilla }? Перевірте всі можливості для волонтерів на нашому порталі спільноти.
 
 ## Mission
 
