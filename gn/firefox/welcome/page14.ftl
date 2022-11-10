@@ -12,5 +12,6 @@ welcome-page14-use-code = Eipuru ayvu ejogua rire ehepyme’ẽ hag̃ua 20% sa�
 welcome-page14-copy-code = Emonguatia ayvu
 welcome-page14-code-copied = ¡Ayvu monguatiapyre!
 welcome-page14-very-fast = Ipya’e, Ipya’eterei
+welcome-page14-wireguard-powered = Ore apopyvusu { -brand-name-wireguard }® rembipurupyahu ojejapo ipya’eve hag̃ua, emomarandu, emboguejy térã eñembosaráivo jepiveguáicha.
 welcome-page14-without-trace = Ñanduti tapykuere’ỹre
 welcome-page14-why-see-this = ¿Mba’ére ahecha kóva?

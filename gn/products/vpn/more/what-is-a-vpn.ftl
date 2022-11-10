@@ -34,6 +34,12 @@ vpn-what-is-make-it-more = Embohasy umi maranduñemurã apohápe oipurúvo nde I
 vpn-what-is-what-are-the = ¿Mba’épa umi ivaikuaáva eipurukuévo VPN?
 vpn-what-is-some-service-providers = Heta mba’epytyvõrã me’ẽhára ojoko umi jeike ojejapóva peteĩ VPN rupive, ha péicha pe hetepýpe ndaikatúi ojeike emyandúvo pe VPN. Ndahetái VPN omboguejykuaa pe pya’ekue térã omomichĩ pe ancho de banda. Ha heta VPN oha’ã karape puruhára rekoñemi ha rekorosã.
 vpn-what-is-are-vpns-safe = ¿Hekorosãpa ko’ã VPNs?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-what-is-weve-done-the = Hetaiterei romba’apo omomba’e hag̃ua <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> nde rekoñemi ha avei eikuaáke rojapotaha ikatumíva upevarã. { -brand-name-mozilla } oguereko jeroviapy omoheñoihápe apopyre ne ñepytyvõtava añetehápe ne marandu hekorosãtaha. Rohapykueho ore <a href="{ $principles }">tekoñemi mba’ekuaarã rekoite</a> hasy’ỹva imoñe’ẽ, kachiãi’ỹre oremoma’ẽva pe marandu roikotevẽva rome’ẽkuaa hag̃uáicha mba’epururã oikótava añetehápe. { -brand-name-mozilla-vpn } rembipurupyahu ndahasýi ipuru ha iporã añete ome’ẽtava puruhárape jeike pya’e VPN ñemo’ã ha rekorosã ndive. Ha umi VPN apoharépe oykeko peteĩ mba’apohaguasu <a href="{ $mission }">ombohapéva ore rembiecharã</a>, ejeroviakuaa pe viru eme’ẽva ko apopyre rehe ndaha’éi eguerkokuaátava tekorosã añónte, avei eipytyvõta ñanduti iporãvévo ko’ẽreíre.
 vpn-what-is-can-vpns-protect = ¿Ko’ã VPNs omo’ãpa umi mba’evaiapohápe?
 # Variables
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
