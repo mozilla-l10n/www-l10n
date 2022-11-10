@@ -15,6 +15,7 @@ features-fingerprinting-ditch-the-sticky = Пазбаўцеся надакучл
 features-fingerprinting-every-fingerprint = Кожны лічбавы адбітак унікальны.
 features-fingerprinting-download-firefox = Сцягнуць { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Што такое збор лічбавых адбіткаў?
+features-fingerprinting-fingerprinting-is-a = Збор лічбавых адбіткаў — гэта тып сачэння ў інтэрнэце, больш пранікальны, чым звычайнае асочванне з дапамогай кукаў. Лічбавы адбітак ствараецца, калі кампанія робіць ваш унікальны профіль на аснове вашага камп'ютарнага абсталявання, праграмнага забеспячэння, дадатковых кампанентаў і нават пераваг. Вашыя налады, такія як экран, які вы выкарыстоўваеце, шрыфты, усталяваныя на вашым камп'ютары, і нават выбар вэб-браўзера могуць быць выкарыстаны для стварэння лічбавага адбітка.
 features-fingerprinting-fingerprinting-is-bad = Збор лічбавых адбіткаў шкодны для Інтэрнэту
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Вы, верагодна, будзеце не ў захапленні ад таго, што нехта сочыць за вашымі дзеяннямі ў рэальным жыцці. Няма прычын згаджацца на гэта ў Інтэрнэце. Калі ў вас яшчэ няма { -brand-name-firefox }, <a { $url_download }>спампуйце яго і абараніце сябе</a> ад збору лічбавых адбіткаў.
