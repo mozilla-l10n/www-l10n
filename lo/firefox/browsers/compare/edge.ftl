@@ -7,5 +7,10 @@
 
 # HTML page title.
 compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } ທຽບກັບ { -brand-name-microsoft } { -brand-name-edge }: ອັນໃດແມ່ນຕົວທ່ອງເວັບທີ່ດີກວ່າສໍາລັບທ່ານ?
+# HTML page description.
+compare-edge-compare-microsoft-edge-to-the = ປຽບທຽບ { -brand-name-microsoft } { -brand-name-edge } ກັບ { -brand-name-firefox-browser } ເພື່ອຊອກຫາວ່າອັນໃດເປັນຕົວທ່ອງເວັບທີ່ດີກວ່າສໍາລັບທ່ານ.
 # Main title.
 compare-edge-comparing-firefox-browser-with = ປຽບທຽບ { -brand-name-firefox-browser } ກັບ { -brand-name-microsoft } { -brand-name-edge }
+# Variables:
+#   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
+compare-edge-your-privacy-protections-shows = <a { $attrs }>ການປົກປ້ອງຄວາມເປັນສ່ວນຕົວ</a> ຂອງເຈົ້າສະແດງໃຫ້ເຈົ້າເຫັນຕົວຕິດຕາມ ແລະຄຸກກີ້ທີ່ໜ້າເວັບໄດ້ພະຍາຍາມອອກ, ແລະຈຳນວນ { -brand-name-firefox } ໄດ້ບລັອກໃຫ້ທ່ານ.

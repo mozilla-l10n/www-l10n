@@ -11,6 +11,7 @@
 browsers-chromebook-get-firefox-browser = ເອົາ { -brand-name-firefox-browser } ສໍາລັບ { -brand-name-chromebook }
 browsers-chromebook-browsers-chromebook-get-firefox-for = ໂຫລດ { -brand-name-firefox } ສຳລັບ { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = ເອົາ { -brand-name-firefox } ສໍາລັບ { -brand-name-chromebook }
+browsers-chromebook-x86-based-chromebook = *x86 based { -brand-name-chromebook } ແລ່ນ { -brand-name-chromeos } 80 ຫຼືຫຼັງຈາກນັ້ນ
 browsers-chromebook-dropdown-copy = ເອົາ { -brand-name-firefox } ສໍາລັບ { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = ເປັນຫຍັງຕ້ອງເອົາ <span>{ -brand-name-firefox }</span> ສຳລັບ { -brand-name-chromebook }?

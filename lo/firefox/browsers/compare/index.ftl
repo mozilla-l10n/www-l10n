@@ -18,4 +18,5 @@ compare-index-what-has-your-browser-done = ບຣາວເຊີຂອງເຈ�
 compare-index-how-well-does-your-browser = ບຣາວເຊີຂອງທ່ານເຮັດວຽກໄດ້ດີປານໃດໃນທົ່ວອຸປະກອນຂອງທ່ານ?
 compare-index-conclusion = ສະຫຼຸບ:
 compare-index-and-the-winner-is = ແລະຜູ້ຊະນະແມ່ນ…
+compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } ແມ່ນສະໜັບສະໜູນໂດຍອົງການບໍ່ຫວັງຜົນກຳໄລ { -brand-name-mozilla }.
 compare-index-compare = ປຽບທຽບ

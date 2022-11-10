@@ -27,6 +27,7 @@ firefox-all-choose-which-firefox = ເລືອກທີ່ { -brand-name-firefo
 firefox-all-firefox-privacy-notice = ຄວາມເປັນສ່ວນໂຕໃນ { -brand-name-firefox }
 firefox-all-learn-about-firefox = ຮຽນຮູ້ກ່ຽວກັບຕົວທ່ອງເວັບຂອງ { -brand-name-firefox }
 firefox-all-get-a-sneak-peek-at = ລອງເບິ່ງຄຸນສົມບັດຂອງຕົວທ່ອງເວັບຂອງ { -brand-name-firefox } ຫຼ້າສຸດກ່ອນທີ່ພວກມັນຈະຖືກປ່ອຍອອກມາ.
+firefox-all-test-your-sites-against = ທົດສອບເວັບໄຊຂອງທ່ານຕໍ່ກັບຄຸນສົມບັດຂອງບຣາວເຊີ { -brand-name-firefox } ທີ່ກຳລັງຈະປ່ອຍອອກມາໃນໄວໆນີ້ດ້ວຍ DevTools ທີ່ມີປະສິດທິພາບ, ປ່ຽນແປງໄດ້ໂດຍຄ່າເລີ່ມຕົ້ນ.
 firefox-all-count-on-stability-and = ຄິດໄລ່ຄວາມໝັ້ນຄົງ ແລະການນຳໃຊ້ງ່າຍດ້ວຍບຣາວເຊີ { -brand-name-firefox } ທີ່ສ້າງຂຶ້ນສຳລັບອົງກອນ.
 firefox-all-arm64-installers = ຕົວຕິດຕັ້ງ ARM64/AArch64
 firefox-all-product-send-link = ສົ່ງລິ້ງດາວໂຫລດໄປຫາໂທລະສັບຂອງທ່ານ
