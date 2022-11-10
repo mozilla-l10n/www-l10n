@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
@@ -9,8 +9,11 @@
 set-as-default-landing-make-firefox-your-default = Bëjeni { -brand-name-firefox }-in shfletuesin tuaj parazgjedhje
 # HTML page description
 set-as-default-landing-choose-the-browser = Zgjidhni shfletuesin që mbron privatësinë tuaj. Caktojeni { -brand-name-firefox }si shfletuesin tuaj parazgjedhje.
-set-as-default-landing-make-sure-youre-protected = Sigurohuni se jeni të mbrojtur, sa herë që jeni në internet
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = Faleminderit që përdorni shfletuesin më të ri { -brand-name-firefox }. Kur zgjidhni { -brand-name-firefox }-in, përkrahni një internet më të mirë për ju dhe këdo tjetër. Tani ndërmerrni hapin tjetër, atë të mbrojtjes së vetes.
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = Sigurohuni se jeni të mbrojtur, sa herë që jeni në internet
+set-as-default-landing-you-should-get = Duhet të thoni fjalën tuaj për mënyrën se si shfletoni
 set-as-default-landing-choose-automatic-privacy = Zgjidhni privatësi të vetvetishme
 set-as-default-landing-companies-keep-finding = Shoqëritë s’reshtin së gjeturi mënyra të reja për shfrytëzimin e të dhënave tuaja personale. { -brand-name-firefox }-i është shfletuesi i vetëm me mision gjetjen e rrugëve të reja për t’ju mbrojtur.
 set-as-default-landing-choose-freedom-on-every = Zgjidhni lirinë në çdo pajisje
