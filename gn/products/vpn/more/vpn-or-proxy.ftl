@@ -32,3 +32,10 @@ vpn-or-proxy-a-vpn-works = Peteĩ VPN oku’e omoheñóivo “tapeyvyguy” heko
 vpn-or-proxy-concealing-your-ip = Emokañývo nde IP kundaharape, omo’ãvo nde reratee ha oñomívo ne rendaite.
 vpn-or-proxy-encrypting-your-traffic = Ombopapapývo pe jeikeita nde ha ne VPN me’ẽhára avave ani hag̃uáicha ne ñanduti ombopapapy’o térã omoambue ndehegui.
 vpn-or-proxy-choose-a-trustworthy = Eipurúvo mba’epuru jeroviaha
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $fpn (url) - https://fpn.firefox.com/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-or-proxy-weve-done-the = Hetaiterei romba’apo <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> avei proxy jepysokue <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> omomba’e hag̃ua nde rekoñemi ha avei eikuaáke rojapotaha ikatumíva upevarã. { -brand-name-mozilla } oguereko jeroviapy omoheñoihápe apopyre ne ñepytyvõtava añetehápe ne marandu hekorosãtaha. Rohapykueho ore <a href="{ $principles }"> tekoñemi mba’ekuaarã rekoite</a> hasy’ỹva imoñe’ẽ, kachiãi’ỹre oremoma’ẽva pe marandu roikotevẽva rome’ẽkuaa hag̃uáicha mba’epururã oikótava añetehápe. Ha ore ykekóva peteĩ mba’apohaguasu <a href="{ $mission }">ombohapéva ore rembiecharã</a>, ejeroviakuaa pe viru eme’ẽva ko apopyre rehe ndaha’éi eguerkokuaátava tekorosã añónte, avei eipytyvõta ñanduti iporãvévo ko’ẽreíre.
