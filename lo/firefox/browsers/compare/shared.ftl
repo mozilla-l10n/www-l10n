@@ -10,6 +10,7 @@ compare-shared-yes = ແມ່ນ
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = ບໍ່
 compare-shared-private-browsing-mode = ໂໝດການຊອກຫາສ່ວນຕົວ
+compare-shared-blocks-third-party-tracking-default = ບລັອກຄຸກກີ້ການຕິດຕາມພາກສ່ວນທີສາມຕາມຄ່າເລີ່ມຕົ້ນ
 compare-shared-text-to-speech = ຂໍ້ຄວາມເປັນສຽງເວົ້າ
 compare-shared-reader-mode = ໂໝດຜູ້ອ່ານ
 compare-shared-spell-checking = ການກວດສອບການສະກົດຄໍາ
