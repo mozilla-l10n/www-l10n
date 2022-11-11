@@ -19,6 +19,8 @@ features-fingerprinting-fingerprinting-is-a = Збор лічбавых адбі
 features-fingerprinting-fingerprinting-is-bad = Збор лічбавых адбіткаў шкодны для Інтэрнэту
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = Найноўшы браўзер { -brand-name-firefox } бароніць вас ад збору лічбавых адбіткаў, міжсайтавыя запыты да сервераў кампаній, якія вядомы сваім удзелам у падобнай чыннасці. Мы прыклалі нямала высілкаў, каб пры абароне вашай прыватнасці не парушаць працы вэб-сайтаў, якія вам падабаецца наведваць. (Падрабязней можна пачытаць тут, калі вам цікавыя <a { $url_details }>тэхнічныя дэталі</a>.)
+# $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
+features-fingerprinting-and-its-not = І гэта не складаныя налады, у якіх трэба доўга разбірацца. У новым браўзеры { -brand-name-firefox } налада блакіравання збіральнікаў лічбавых адбіткаў з'яўляецца простай. Адкрыйце сваю <a { $url_protections }>панэль стану абароны</a>, каб убачыць, як за вамі схавана сочаць і як { -brand-name-firefox } прадухіляе гэта.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Вы, верагодна, будзеце не ў захапленні ад таго, што нехта сочыць за вашымі дзеяннямі ў рэальным жыцці. Няма прычын згаджацца на гэта ў Інтэрнэце. Калі ў вас яшчэ няма { -brand-name-firefox }, <a { $url_download }>спампуйце яго і абараніце сябе</a> ад збору лічбавых адбіткаў.
 features-fingerprinting-protect = Абараніце сваю прыватнасць
