@@ -9,6 +9,7 @@
 firefox-accounts-there-is-a-way-to = تہاݙی رازداری دی حفاظت دا ہک طریقہ ہے۔ { -brand-name-firefox } نال رلت کرو۔
 # Old HTML page title
 firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } بݨاؤ ــ آپݨاں ڈیٹا نجی، محفوظ تے ہم وقت رکھو
+firefox-accounts-see-if-youve-been = ݙیکھو بھلا تساں آن لائن ڈیٹا دی خلاف ورزی وچ ملوث ہو۔
 firefox-accounts-sign-in-to-monitor = { -brand-name-monitor } تے سائن ان تھیوو
 firefox-accounts-join-firefox = { -brand-name-firefox } وچ رلت کرو
 firefox-accounts-enter-your-email-address = شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو۔
@@ -25,6 +26,7 @@ firefox-accounts-get-a-lookout-for = ڈیٹا دی خلاف ورزیاں ݙیک�
 firefox-accounts-share-large-files = وݙیاں فائلاں کوں ٹوہ لائے بغیر شیئر کرو۔
 firefox-accounts-get-the-respect-you = او عزت گھنو جیندے تساں مستحق ہو۔
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-whole-device-protection = ہر ڈیوائس تے پوری ڈیوائس حفاظت
 firefox-accounts-get-the-knowledge = آپݨے آپ کوں محفوظ رکھݨ کیتے علم گھنو۔
 firefox-accounts-help-us-build-a-better = سب کیتے چنگیری { -brand-name-firefox } اُسارݨ وچ ساݙی مدد کرو۔
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.

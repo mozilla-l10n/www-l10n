@@ -9,6 +9,8 @@
 compare-index-seven-of-the-best-browsers-in = براہ راست مقابلے وچ ست بہترین براؤزر
 # Sub-headline
 compare-index-privacy-utility-portability = رازداری۔ افادیت۔ پورٹیبلٹی۔
+compare-index-which-browser-is-best-at-keeping = کہڑا براؤزر چیزاں کوں خفیہ رکھݨ کیتے بہتر ہے؟
+compare-index-what-has-your-browser-done = حال وچ ہی تہاݙے براؤزر تہاݙے کیتے کیا کیتے؟
 compare-index-conclusion = نتیجہ:
 compare-index-and-the-winner-is = تے جیتݨ آلا ہے ۔۔۔
 compare-index-compare = ویورا

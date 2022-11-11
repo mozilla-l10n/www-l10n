@@ -19,6 +19,7 @@ firefox-all-language = زبان:
 firefox-all-lang-multi = ڈھڳ زباناں
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
+firefox-all-choose-which-firefox = آپݨی زبان وچ ڈاؤن لوڈ کرݨ کیتے { -brand-name-firefox-browser } چݨو
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری نوٹس
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزراں بارے سِکھو
 firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
