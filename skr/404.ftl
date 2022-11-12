@@ -10,5 +10,8 @@ not-found-page-sorry-we-cant-find-that-page = افسوس، اساں او ورق�
 not-found-page-were-all-about-a-healthy-internet = اساں تقریباً صحت مند انٹرنیٹ آلے ہیں پر کݙاہیں کݙاہیں یوآرایل ترُٹے ہوئے ہوندن۔
 not-found-page-go-back = واپس ون٘ڄو
 # Variables:
+#   $about (url) - link to https://www.mozilla.org/about/
+not-found-page-learn-about-mozilla-the-non = { -brand-name-mozilla } بارے <a href="{ $about }">سِکھو</a>، جہڑا { -brand-name-firefox } دے پچھوں منافع کیتے کائنی۔
+# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = آپݨی موبائل ڈیوائس یا ڈیسک ٹاپ کیتے { -brand-name-firefox } براؤزر <a href={ $download }> ڈاؤن لوڈ کرو</a>
