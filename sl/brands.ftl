@@ -212,7 +212,15 @@
         [mestnik] Bugzilli
         [orodnik] Bugzillo
     }
--brand-name-glean = Glean
+-brand-name-glean =
+    { $sklon ->
+       *[imenovalnik] Glean
+        [rodilnik] Gleana
+        [dajalnik] Gleanu
+        [tozilnik] Glean
+        [mestnik] Gleanu
+        [orodnik] Gleanom
+    }
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-festival = Mozillin festival
