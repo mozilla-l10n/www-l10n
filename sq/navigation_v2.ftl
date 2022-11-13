@@ -68,6 +68,8 @@ navigation-v2-careers = Punësime
 navigation-v2-work-for-a-mission-driven-updated = Punoni për një ent të udhëhequr nga një mision, ent që ndërton produkte që vënë njerëzit mbi gjithçka.
 navigation-v2-mozilla-blog = Blogu i { -brand-name-mozilla }-s
 navigation-v2-learn-about-mozilla-and = Mësoni rreth { -brand-name-mozilla }-s dhe çështjesh që kanë rëndësi për ne.
+navigation-v2-stories = Shembuj
+navigation-v2-stories-about-how = Shembuj se si njerëzit dhe produktet tona po ndryshojnë botën për mirë.
 navigation-v2-more-about-mozilla = Më tepër Rreth { -brand-name-mozilla }
 
 ## Innovation menu
@@ -86,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Dhuroni zërin tuaj, që e ardhmja e web-it të dëgjojë këdo.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Mësoni më tepër për gjuhën e re, e shkallës së ulët, e ngjashme me Assembly-n
-navigation-v2-more-mozilla-innovation = Më tepër Novacion { -brand-name-mozilla }

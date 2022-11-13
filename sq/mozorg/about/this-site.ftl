@@ -14,3 +14,6 @@ about-this-site-contribute-to-code = Kontribuoni në kod
 about-this-site-contribute-to-l10n = Kontribuoni te përkthimet
 about-this-site-read-the-docs = Lexoni dokumentimin
 about-this-site-some-open-source-projects = Disa nga projektet me burim të hapët të përdorur për krijimin e këtij sajti:
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = U dërgojmë falënderimet tona krejt { -brand-name-mozilla } <a href="{ $credits }">kontribuesve</a> që kanë ndihmuar të bëhet interneti një vend më i mirë.

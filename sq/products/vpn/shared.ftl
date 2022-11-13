@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Zgjidhni një plan pajtimi që ju bën 
 vpn-shared-pricing-variable-heading = Zgjidhni një plan që ju bën punë
 vpn-shared-pricing-variable-sub-heading = Krejt planet tona përfshijnë:
 vpn-shared-pricing-recommended-offer = E këshilluar
-vpn-shared-pricing-plan-6-month = 6 Muaj
+vpn-shared-pricing-plan-12-month-v2 = Plan 12 Muaj
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 Muaj
+vpn-shared-pricing-plan-monthly-v2 = Plan mujor
+# Outdated string
 vpn-shared-pricing-plan-monthly = Mujor
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/muaj</span>
 vpn-shared-pricing-get-6-month = Merrni planin për 6 muaj
 # Outdated string
 vpn-shared-pricing-get-12-month = Merrni planin për 12 muaj
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Merrni planin për 6 muaj
 vpn-shared-pricing-get-12-month-v2 = Merrni planin për 12 muaj
 vpn-shared-pricing-get-monthly = Merrni planin mujor
@@ -116,6 +120,7 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Ç’është një adresë IP?
 vpn-subnav-when-to-use-a-vpn = Kur të përdoret një VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Ndërmjetësi
+vpn-subnav-subscribe = Pajtohuni te { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
@@ -124,6 +129,23 @@ vpn-subnav-vpn-vs-proxy = VPN vs Ndërmjetësi
 vpn-shared-affiliate-notification-message = Që të kuptojmë se cili partner i yni ju pruri te { -brand-name-mozilla-vpn }, përdorim cookies. Nuk u japim partnerëve tanë të dhëna që lejojnë identifikim personal. Lexoni <a { $attrs }>Rregullat tona të Privatësisë</a>.
 vpn-shared-affiliate-notification-reject = Hidhe tej
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Forconi privatësinë tuaj me { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Shtoni { -brand-name-firefox-relay } te pajtimi juaj që të mbroni email-in dhe numrin tuaj të telefonit. <a href="{ $url }">Mësoni më tepër</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Shtoni <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Maskim email-i
+vpn-shared-relay-phone-masking = Maskim telefoni
+vpn-shared-get-vpn-plus-relay = Merrni { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Pse tok?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Kurseni { $percent }%</span> te plani vjetor { -brand-name-relay-premium }
 
 ##
 

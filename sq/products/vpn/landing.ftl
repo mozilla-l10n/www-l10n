@@ -52,7 +52,7 @@ vpn-landing-faq-uses-examples = Hidhuni një sy <a href="{ $url }">pesë shembuj
 vpn-landing-faq-info-question-heading = Çfarë informacioni mban { -brand-name-mozilla-vpn }?
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Ne aderojmë në mënyrë strikte te { -brand-name-mozilla }’s <a href="{ $principles }">Parimet e Privatësisë së të Dhënave</a> dhe grumbullojmë të dhëna të domosdoshme për ta mbajtur në punë VPN-në dhe për të përmirësuar produktin përgjatë kohës. Ndjekim gjithashtu të dhëna fushatash dhe të dhëna referuese te aplikacioni ynë për celular, për ta ndihmuar { -brand-name-mozilla } të shohë efektshmërinë e fushatave tona të marketingut. Lexoni më tepër, te <a href="{ $notice }">Shënimi ynë i mbi Privatësinë</a>.
 # Obsolete string
 # Variables:
@@ -105,13 +105,12 @@ vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 e sipër)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 e sipër)
+#   $version (number) - minimum supported version number
+vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } e sipër)
 # Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 e sipër)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e sipër)
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 e sipër)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 e sipër)
@@ -130,6 +129,10 @@ vpn-landing-faq-manage-subscription-question-heading = Si ta administroj pajtimi
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Nëse jeni pajtuar tashmë te { -brand-name-mozilla-vpn }, mund të ndryshoni planin ose të <a href="{ $url }">administroni pajtimin tuaj</a> në çfarëdo kohe.
+vpn-landing-faq-download-heading = Si ta shkarkoj { -brand-name-mozilla-vpn }, kur janë tashmë i pajtuar?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Vizitoni <a { $attrs }>faqen e shkarimit</a> që të instaloni { -brand-name-mozilla-vpn } në pajisjen tuaj dhe mandej bëni hyrjen duke përdorur { -brand-name-firefox-account } tuajën.
 vpn-landing-faq-link = Shihni më tepër PBR
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
@@ -153,7 +156,7 @@ vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Duke klikuar mbi “Shtohuni në Radhë”, pajtoheni me <a href="{ $privacy }">Rregullat tona të Privatësisë</a>.
 vpn-landing-invite-your-information = Të dhënat tuaja do të përdoren vetëm për t’ju njoftuar mbi qenien gati të platformës.
 vpn-landing-invite-thanks-heading = Faleminderit! Jeni në radhë

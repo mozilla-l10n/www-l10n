@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = Ju lutemi, jepni një adresë email të vlefshme
 newsletter-form-you-must-agree-to = Duhet të pajtoheni me shënimin mbi privatësinë.
 newsletter-form-your-email-address = Adresa juaj email
+newsletter-form-we-are-sorry-but-there = Na ndjeni, por pati një problem me sistemin tonë. Ju lutemi, riprovoni më vonë!
+newsletter-form-please-select-country = Ju lutemi, përzgjidhni vend ose rajon
+newsletter-form-please-select-language = Ju lutemi, përzgjidhni një gjuhë
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = emrijuaj@example.com
 newsletter-form-select-country-or-region = Përzgjidhni vend ose rajon
