@@ -9,6 +9,7 @@
 mobile-compare-5-of-the-best = 5 лепшых мабільных браўзераў у прамым параўнанні
 # HTML description
 mobile-compare-who-makes-the = Хто стварыў найлепшы мабільны браўзер? Каб даведацца, мы параўнаем мабільныя версіі { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } і { -brand-name-opera }.
+mobile-compare-since-your-mobile = Паколькі ваш мабільны браўзер — ваш выратавальны круг для інфармацыі, дзе б вы ні знаходзіліся, хуткасць, бяспека, прыватнасць і зручнасць выкарыстання — ключавыя параметры для добрага досведу. Так які з іх лепшы мабільны браўзер? Давайце параўнаем лепшых гульцоў — і паглядзім, які з іх найлепш адпавядае вашым патрэбам.
 mobile-compare-which-mobile-browser = Які мабільны браўзер клапоціцца пра вашу прыватнасць?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Магчымасці</strong>
