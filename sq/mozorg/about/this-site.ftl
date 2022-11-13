@@ -7,6 +7,8 @@
 
 about-this-site-title = Rreth këtij sajti
 about-this-site-desc = Rreth sajtit www.mozilla.org dhe mjeteve me burim të hapët të përdorura për krijimin e tij.
+about-this-site-like-many = Si edhe mjaft nga produktet tona, edhe ky sajt është me burim të hapët:
+about-this-site-view-source = Shihni kodin burim në { -brand-name-github }
 about-this-site-report-a-bug = Njoftoni një të metë
 about-this-site-contribute-to-code = Kontribuoni në kod
 about-this-site-contribute-to-l10n = Kontribuoni te përkthimet

@@ -37,3 +37,4 @@ legal-mdn-plus-terms = Kushte Shërbimi { -brand-name-mdn-plus }
 legal-report-copyright = Njoftoni Shkelje të Drejtash Kopjimi ose Shenjash Tregtare
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Kushte Shërbimi { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = Shërbime { -brand-name-mozilla } Me Pajtim
