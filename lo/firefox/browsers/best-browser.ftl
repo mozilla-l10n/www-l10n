@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = ຊອກຫາຕົວທ່ອງເວັບທີ່ດີທີ່ສຸດຂອງທ່ານສໍາລັບຄວາມໄວ, ຄວາມເປັນສ່ວນຕົວແລະຄວາມປອດໄພ.
+best-browser-so-many-browser-options = ມີຫຼາຍທາງເລືອກຂອງຕົວທ່ອງເວັບ, ແຕ່ມີອັນດຽວທີ່ເຮັດວຽກທີ່ດີທີ່ສຸດສໍາລັບຄວາມຕ້ອງການຂອງທ່ານ. ຕົວທ່ອງເວັບທີ່ດີທີ່ສຸດສໍາລັບທ່ານຄວນຈະສະຫນອງທັງຄວາມໄວແລະການປົກປ້ອງຄວາມເປັນສ່ວນຕົວ.
 best-browser-privacy-speed-and-security = ຄວາມເປັນສ່ວນຕົວ, ຄວາມໄວ, ແລະ ຄວາມປອດໄພ.
 best-browser-how-to-choose-the-best = ວິທີການເລືອກຕົວທ່ອງເວັບທີ່ດີທີ່ສຸດສໍາລັບທ່ານ.
 best-browser-marshall-erwin-senior = Marshall Erwin, ຜູ້ອໍານວຍການອາວຸໂສຂອງຄວາມໄວ້ວາງໃຈແລະຄວາມປອດໄພຂອງ { -brand-name-mozilla }

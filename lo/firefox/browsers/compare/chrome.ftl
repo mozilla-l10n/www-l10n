@@ -11,4 +11,7 @@ compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } ທຽບກ
 compare-chrome-we-compare-mozilla-firefox = ພວກເຮົາສົມທຽບ { -brand-name-mozilla } { -brand-name-firefox } ກັບ { -brand-name-google } { -brand-name-chrome } ໃນດ້ານຄວາມເປັນສ່ວນຕົວ, ປະໂຫຍດ ແລະ ການພົກພາ.
 # Main title.
 compare-chrome-comparing-firefox-browser = ປຽບທຽບ { -brand-name-firefox-browser } ກັບ { -brand-name-google } { -brand-name-chrome }
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated = ບໍ່ດົນມານີ້, ພວກເຮົາຍັງໄດ້ທົບທວນຄືນຄວາມມຸ່ງໝັ້ນຂອງພວກເຮົາຕໍ່ກັບຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມໂປ່ງໃສກ່ຽວກັບຂໍ້ມູນຜູ້ໃຊ້ໃນ <a { $attrs }>ປະກາດຄວາມເປັນສ່ວນຕົວ</a> ຫຼ້າສຸດຂອງພວກເຮົາທີ່ລະບຸວ່າ, “ທີ່ Mozilla, ພວກເຮົາເຊື່ອວ່າຄວາມເປັນສ່ວນຕົວແມ່ນພື້ນຖານຕໍ່ອິນເຕີເນັດທີ່ມີສຸຂະພາບດີ. ”
 compare-chrome-firefox-also-has-a-sync-feature = { -brand-name-firefox } ຍັງມີຄຸນສົມບັດການຊິງຄ໌ເພື່ອເບິ່ງແຖບເປີດ ແລະຫຼ້າສຸດຂອງທ່ານ, ປະຫວັດການທ່ອງເວັບ ແລະບຸກມາກໃນທຸກອຸປະກອນຂອງທ່ານ.
