@@ -25,6 +25,8 @@ firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Сурфујте вебом, гледајте видее и радите на серверима у преко 30 земаља за безбедну интернет везу са новом перспективом.
 firefox-products-get-mozilla-vpn = Преузмите { -brand-name-mozilla-vpn }
 firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Боља контрола над сандучетом почиње заштитом ваше праве адресе е-поште.
+firefox-products-learn-more-about-relay = Сазнајте више о { -brand-name-firefox-relay }-у
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
@@ -48,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = Придружите се { -br
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Већ имате налог? <a { $fxa_attr }>Пријавите се</a> или <a { $accounts_attr }>сазнајте више</a> о придруживању { -brand-name-firefox }-у.
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Прегледач намењен штићењу ваше приватност са аутоматском заштитом праћења и блокирањем огласа.
