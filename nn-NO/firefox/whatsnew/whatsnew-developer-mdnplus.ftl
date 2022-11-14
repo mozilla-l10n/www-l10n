@@ -7,6 +7,9 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest = Gratulerer. Du har no den nyaste versjonen av { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Main title
+developer-mdnplus-more-mdn-your-mdn = Meir { -brand-name-mdn }. <em>Ditt</em> { -brand-name-mdn }.
 # CTA button
 developer-mdnplus-get-started = Kom i gang
 developer-mdnplus-whats-included = Kva er inkludert?
