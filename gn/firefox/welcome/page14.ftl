@@ -14,4 +14,5 @@ welcome-page14-code-copied = ¡Ayvu monguatiapyre!
 welcome-page14-very-fast = Ipya’e, Ipya’eterei
 welcome-page14-wireguard-powered = Ore apopyvusu { -brand-name-wireguard }® rembipurupyahu ojejapo ipya’eve hag̃ua, emomarandu, emboguejy térã eñembosaráivo jepiveguáicha.
 welcome-page14-without-trace = Ñanduti tapykuere’ỹre
+welcome-page14-never-log = Noroñongatúi, ndorohapykuehói ha noromoherakuãi nde pyha mba’ekuaarã; ne rembiapo ñandutípe ndohejamo’ãi hapykuere ore VPN mohendahavusúpe.
 welcome-page14-why-see-this = ¿Mba’ére ahecha kóva?
