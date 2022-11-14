@@ -5,7 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Ових празника, помозите { -brand-name-mozilla } у борби за бољи интернет.
+banner-fundraising-title-v2 = Помозите { -brand-name-mozilla } у борби за бољи интернет током ових празника.
+banner-fundraising-title-giving-day = Помозите { -brand-name-mozilla } у борби за бољи интернет овог Дарујућег уторка.
 # Outdated string
 banner-fundraising-title = Будућност се одређује на мрежи. Помозите { -brand-name-mozilla }-и у борби за интернет за све.
 # Outdated string
