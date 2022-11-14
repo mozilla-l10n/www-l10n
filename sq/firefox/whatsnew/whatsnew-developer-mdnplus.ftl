@@ -19,3 +19,7 @@ developer-mdnplus-notifications = Njoftime
 developer-mdnplus-development-in-real-time = Zhvillim aty për aty: Merrni sinjalizime vetjake
 developer-mdnplus-collections = Koleksione
 developer-mdnplus-build-your-perfect-library = Krijoni bibliotekën tuaj të përkryer. Ose na e lini ne krijimin e saj.
+developer-mdnplus-mdn-offline = { -brand-name-mdn } pa internet
+developer-mdnplus-mdns-entire-library-at-your = Krejt biblioteka e { -brand-name-mdn }-it në pëllëmbë të dorës: pa internet
+developer-mdnplus-taking-your-projects-beyond = Po i merrni projektet tuaja tej sinjalit më të afërt Wi-Fi? I thoni lamtumirë faqeve që s’hapen apo skedave të bëra rrëmujë. Me { -brand-name-mdn-plus }, keni në dispozicion burime { -brand-name-mdn } plotësisht të përdorshme edhe kur s’jeni në internet.
+developer-mdnplus-resources-for-developers = Burime nga Zhvillues, për Zhvillues.

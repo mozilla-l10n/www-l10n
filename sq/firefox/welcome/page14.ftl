@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
+welcome-page14-page-title = Këtë Muaj të Sigurisë Kibernetike përfitoni 20% zbritje për { -brand-name-mozilla-vpn }
+welcome-page14-page-title-alt = Është Muaji i Sigurisë Kibernetike — kohë për të ngritur privatësinë tuaj në shkallë të lartë
+welcome-page14-main-description = { -brand-name-mozilla-vpn } (Rrjet Privat Virtual) mbron tërë lidhjen tuaj internet në kompjuterin tuaj, tabletin tuaj dhe madje edhe në telefonin tuaj. Për edhe më tepër siguri, vjen me një garanci kthimi parash pas 30 ditësh, nëse s’ju pëlqeu.
 welcome-page14-get-mozilla-vpn = Merrni { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Përdoreni kodin gjatë pagimit, për një zbritje 20%
 welcome-page14-copy-code = Kopjoni kodin

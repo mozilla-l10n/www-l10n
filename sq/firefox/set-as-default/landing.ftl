@@ -14,6 +14,7 @@ set-as-default-landing-thanks-for-using-the = Faleminderit që përdorni shfletu
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = Sigurohuni se jeni të mbrojtur, sa herë që jeni në internet
 set-as-default-landing-you-should-get = Duhet të thoni fjalën tuaj për mënyrën se si shfletoni
+set-as-default-landing-if-you-recently = Nëse përditësuat kompjuterin tuaj tani afër, rregullimet tuaja mund të kenë ndryshuar. Përkrahni një internet të lirë dhe të hapët, sa herë që kaloni në linjë me { -brand-name-firefox }-in.
 set-as-default-landing-choose-automatic-privacy = Zgjidhni privatësi të vetvetishme
 set-as-default-landing-companies-keep-finding = Shoqëritë s’reshtin së gjeturi mënyra të reja për shfrytëzimin e të dhënave tuaja personale. { -brand-name-firefox }-i është shfletuesi i vetëm me mision gjetjen e rrugëve të reja për t’ju mbrojtur.
 set-as-default-landing-choose-freedom-on-every = Zgjidhni lirinë në çdo pajisje

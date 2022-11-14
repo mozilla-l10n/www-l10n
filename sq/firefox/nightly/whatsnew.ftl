@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -18,6 +18,10 @@ nightly-whatsnew-this-is-a-good = Kjo është një kohë e përshtatshme për t�
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Nëse doni të dini se ç’po ndodh rreth { -brand-name-nightly }-t dhe bashkësisë së tij, leximi i <a href="{ $blog }">blogut tonë</a> dhe ndjekja jonë në <a href="{ $twitter }">{ -brand-name-twitter }</a> janë pikënisje të mira!
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Doni të dini se cilat veçori të platformës mund të testonit në { -brand-name-nightly } dhe s’i shihni ende në kanale të tjerë { -brand-name-firefox }-i? Hidhini një sy faqes për parapëlqime mbi <a { $attrs }>Eksperimente me Nightly-n</a>.
+# Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Doni të dini se cilat veçori platforme mund të testonit në { -brand-name-nightly } dhe që s’i shihni dot ende në kanale të tjera { -brand-name-firefox }-i? Atëherë hidhni një sy te faqja <a href="{ $mdn }">Veçori Eksperimentale</a> te <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }-ja</abbr>.
