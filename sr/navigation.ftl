@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Преузмите { -brand-name-firefox }
 navigation-get-a-firefox-account = Направите { -brand-name-firefox-account }
@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } за { -brand-name-fire
 navigation-watch-videos-and-browse = Гледајте видео записе и сурфајте интернетом путем { -brand-name-amazon } { -brand-name-fire-tv }-а.
 navigation-firefox-browsers-put = Као и увек, { -brand-name-firefox } прегледачи стављају вашу приватност на прво место.
 navigation-take-the-passwords-youve = Понесите ваше лозинке које сте сачували у { -brand-name-firefox }-у свуда са собом.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } је цела породица производа, дизајнираних за сигурније и паметније прегледање.
 navigation-join-firefox = Придружите се { -brand-name-firefox }-у
 navigation-access-all-of-firefox = Приступите свему што { -brand-name-firefox } нуди једном пријавом — и искористите све карактеристике наших производа.
@@ -36,10 +37,19 @@ navigation-get-firefox-focus = Преузмите { -brand-name-firefox-focus }
 navigation-android-extensions = { -brand-name-android } проширења
 navigation-your-firefox-account = Ваш { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Извуците максимум из вашег { -brand-name-firefox } доживљаја на било ком уређају.
+# Outdated string
 navigation-learn-how-to-customize = Сазнајте како прилагодити { -brand-name-firefox }.
+navigation-explore-the-immersive = Истражите импресивне веб светове помоћу ВР слушалица.
+# Outdated string
 navigation-experience-augmented = Доживите проширене и виртуалне стварности уз { -brand-name-firefox }.
+navigation-get-together = Дружите се у виртуелној стварности у овом друштвеном простору.
+# Outdated string
 navigation-meet-people-in-experimental = Користите { -brand-name-firefox } да упознате људе у експерименталним собама за ћаскање мешовите стварности.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } уводи виртуелну и проширену стварност на отворени веб.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } доводи проширену и виртуелну стварност { -brand-name-firefox }-у.
 navigation-firefox-built-just-for = { -brand-name-firefox }, направљен само за програмере.
 navigation-preview-the-latest-build = Прегледајте најновију верзију { -brand-name-firefox }-а и помозите нам да је учинимо што бољом.
@@ -64,6 +74,9 @@ navigation-security-tips = Сигурносни савети
 navigation-share-large-files-safely = Делите велике датотеке сигурно преко ‘самоуништавајућих’ веза.
 navigation-save-quality-content = Сачувајте квалитетан садржај било где. Стално обогаћујте ваш ум.
 navigation-sign-up = Региструјте се
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Брзо. Једноставно. Приватно.
+navigation-protect-your-entire-device = Заштитите цео уређај и све апликације. Сакријте своју стварну локацију и повежите до 5 уређаја. Претплатите се сада.
+# Outdated string
 navigation-connected-and-protected = Повезани и заштићени
 navigation-join = Придружите се
 navigation-close-join-menu = Затвори мени Придружите се
@@ -76,11 +89,16 @@ navigation-meet-the-technology-company = Упознајте технолошку
 navigation-new-features = Нове функције
 navigation-save-content-absorb-knowledge = Сачувајте садржај. Упијте знање.
 navigation-same-speed-and-safety = Иста поуздана сигурност и брзина, прилагођена за пословно окружење.
+# Outdated string
 navigation-add-ons = Додаци
 navigation-projects = Пројекти
 navigation-close-projects-menu = Затвори мени Пројекти
 navigation-donate-your-voice-to = Донирајте свој глас и помозите да технологија препознавања гласа буде доступна свима.
+navigation-machine-learning = Машинско учење
+# Outdated string
 navigation-web-of-things-iot = Интернет ствари (IoT)
+navigation-help-make-deep-learning = Помозите да алгоритми дубоког учења буду доступни свету отвореног кода.
+# Outdated string
 navigation-make-devices-connected = Учините уређаје повезане на интернет сигурнијим.
 navigation-developers = Програмери
 navigation-close-developers-menu = Затвори мени Програмери
