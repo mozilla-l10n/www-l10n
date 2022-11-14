@@ -25,7 +25,7 @@ vpn-shared-affiliate-notification-ok = ٹھیک ہے
 vpn-shared-increase-your-privacy = { -brand-name-vpn } تے { -brand-name-relay } نال اپنڑیں رازداری ودھاؤ
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
-vpn-shared-add-firefox-relay = پاؤ <span class="{ $class_name }"> { -brand-name-firefox-relay }
+vpn-shared-add-firefox-relay = پاؤ <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-phone-masking = فون ماسکنگ
 vpn-shared-get-vpn-plus-relay = { -brand-name-vpn } تے { -brand-name-relay } گھنو
 vpn-shared-why-bundle = ٻنڈل کیوں؟
