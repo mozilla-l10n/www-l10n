@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,6 +38,11 @@ firefox-desktop-download-blocks-social-trackers = Блокира праћење 
 firefox-desktop-download-os-availability = Доступност на оперативним системима
 firefox-desktop-download-in-browser-screenshot = Уграђени алат за снимање странице
 firefox-desktop-download-primary-password = Главна лозинка
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-love-your-life = Волите свој живот на мрежи
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = Ово је ваш интернет. Обојите га онако како желите са хиљадама алата, тема и проширења. { -brand-name-firefox } је оригинални алтернативни прегледач који људе ставља испред профита.
 # Obsolete string
 firefox-desktop-download-master-password = Главна лозинка
 firefox-desktop-download-we-block-the-ad = Ми блокирамо огласе који вас прате. Ви брже прегледате интернет.
@@ -141,6 +146,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аут�
 firefox-desktop-download-questions = Питања? <a { $attrs }>{ -brand-name-mozilla } подршка</a> вам стоји на услузи.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Већ имате прегледач. Сада откључајте пун потенцијал уз { -brand-name-firefox } налог.
+firefox-desktop-download-watch-for-hackers-with-v2 = Пазите на хакере путем { -brand-name-firefox-monitor }-а, заштитите своје адресе е-поште помоћу { -brand-name-firefox-relay }-а, и још.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Пазите на хакере уз { -brand-name-firefox-monitor }, чувајте лозинке уз { -brand-name-firefox-lockwise }, и још много тога.
 firefox-desktop-download-get-more-from-firefox = Извуците максимум из { -brand-name-firefox }-а
 firefox-desktop-download-just-download-the-browser = Само преузмите прегледач
@@ -158,6 +165,8 @@ firefox-desktop-download-now-mac = Сада <strong>отворите</strong> д
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Имате проблема? <a { $attrs }>Нађите помоћ за вашу инсталацију</a>.
 firefox-desktop-download-in-another-language = Преузмите на другом језику или за други оперативни систем.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -175,6 +184,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Користите �
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Ваше преузимање треба да почне аутоматски. Није успело? <a id="{ $id }" href="{ $fallback_url }">Покушајте поново преузети.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } је више од прегледача.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Ваше преузимање је прекинуто. Али није све изгубљено.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
@@ -182,3 +192,4 @@ firefox-desktop-download-please-follow = Пратите <a href="{ $url }">ов�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Ваш систем можда не испуњава захтеве за { -brand-name-firefox }, али можете испробати једну од <a href="{ $url }">ових верзија</a>.
+firefox-desktop-download-taskbar = { -brand-name-firefox } ће бити закачен на { -brand-name-windows } траци задатака након инсталације

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,7 +10,16 @@ facebook-container-millions-of-people-around = Милиони људи широ�
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Добро задржан. Чувајте делове свог живота за себе.
 facebook-container-get-the-facebook-container = Преузмите { -brand-name-facebook-container } екстензију
 facebook-container-download-firefox-and-get-the = Преузмите { -brand-name-firefox } а затим и { -brand-name-facebook-container } екстензију
+facebook-container-only-available-for-desktop = { -brand-name-facebook-container } проширење тренутно подржава само { -brand-name-firefox } за десктоп.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Посетите <a href="{ $url }">{ $link_copy }</a> да преузмете { -brand-name-firefox } за десктоп.
+# Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } екстензија није доступна за мобилне уређаје.
+facebook-container-get-firefox-android-ios = Преузмите { -brand-name-firefox } за { -brand-name-android } и { -brand-name-ios } сада.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Испробајте <strong>{ -brand-name-firefox-focus }</strong>, прегледач за приватност за { -brand-name-android } и { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Одредите своје услове

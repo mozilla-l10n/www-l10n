@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -28,12 +28,11 @@ firefox-mobile-discover-products-that-keep = Откријте производе
 firefox-mobile-sync-your-history-passwords = Синхронизујте историју, лозинке и обележиваче. Шаљите језичке на све ваше уређаје.
 firefox-mobile-android-only = Само за { -brand-name-android }
 firefox-mobile-make-android-your-own = Нека { -brand-name-android } буде ваш
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = Прилагодите ваш { -brand-name-firefox } мобилни прегледач <a href="{ $url }">проширењима</a> и блокирајте огласе, управљајте лозинкама, спречите { -brand-name-facebook }-у да вас прати и др.
+firefox-mobile-customize-your-firefox-mobile-truncated = Прилагодите { -brand-name-firefox } прегледач за мобилне уређаје проширењима.
 firefox-mobile-find-it-fast-with-a-smart = Брже пронађите помоћу паметне траке за претрагу
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } предвиђа ваше потребе паметним предлозима који вам омогућавају да брзо приступите веб страицама које највише посећујете.
 firefox-mobile-the-privacy-you-deserve-the = Приватност коју заслужујете. Брзина која вам је потребна.
 firefox-mobile-get-firefox-for-mobile = Преузмите { -brand-name-firefox } за мобилни
 firefox-mobile-send-a-download-link-to-your = Пошаљите везу за преузимање на телефон.
 firefox-mobile-scan-the-qr-code-to-get-started = Скенирајте QR код да почнете
+firefox-mobile-scan-alt-text = Скенирајте QR код да преузмете { -brand-name-firefox } за мобилне
