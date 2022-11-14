@@ -9,8 +9,10 @@ banner-fundraising-title-v2 = Помозите { -brand-name-mozilla } у бор
 banner-fundraising-title-giving-day = Помозите { -brand-name-mozilla } у борби за бољи интернет овог Дарујућег уторка.
 # Outdated string
 banner-fundraising-title = Будућност се одређује на мрежи. Помозите { -brand-name-mozilla }-и у борби за интернет за све.
+banner-fundraising-body-v2 = Поносна смо непрофитна организација, посвећена одржавању здравог интернета. Ваши доприноси помажу у изградњи безбедног и отвореног интернета.
 # Outdated string
 banner-fundraising-body = Наши лични подаци се прикупљају сваки пут када приступимо интернету и није лако сазнати како се њима рукује. Дезинформације чине нашу потрагу за истином све тежом. Повезани уређаји гурнути су на тржиште без поштовања основних безбедносних критеријума. Непрофитна { -brand-name-mozilla-foundation } организација бори се да интернет остане сигуран, отворен и доступнан свима. <strong>Желите ли донирати данас?</strong>
+banner-fundraising-body-extra = Можете ли да помогнете већ данас?
 banner-fundraising-monthly = Месечно
 banner-fundraising-one-time = Једном
 banner-fundraising-donate = Донирај
