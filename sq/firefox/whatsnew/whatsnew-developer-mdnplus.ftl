@@ -17,6 +17,7 @@ developer-mdnplus-get-started = Fillojani
 developer-mdnplus-whats-included = Ç’përfshihet
 developer-mdnplus-notifications = Njoftime
 developer-mdnplus-development-in-real-time = Zhvillim aty për aty: Merrni sinjalizime vetjake
+developer-mdnplus-the-web-doesnt-have-a = Web-i s’ka regjistër ndryshimesh, por për këtë mund të vijë në ndihmë { -brand-name-mdn }. Ndiqni faqet dhe merrni njoftime vetjake, kur ndryshon dokumentimi, kur vijnë veçori CSS dhe hidhen në qarkullim API.
 developer-mdnplus-collections = Koleksione
 developer-mdnplus-build-your-perfect-library = Krijoni bibliotekën tuaj të përkryer. Ose na e lini ne krijimin e saj.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } pa internet
