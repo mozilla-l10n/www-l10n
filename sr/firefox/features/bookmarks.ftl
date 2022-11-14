@@ -25,6 +25,9 @@ features-bookmarks-customize-that-bookmark = Прилагодите тај об�
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Проводите време са том забелешком
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Вежбајте своју тачност уз помоћ сваког <a href="{ $url }">додатка</a> за управљање обележивачима којег се можете сетити, од снимака целих страница, преко бочних палета, до приватних обележивача.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers

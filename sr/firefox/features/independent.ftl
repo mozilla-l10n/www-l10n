@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
@@ -13,6 +13,7 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Бунто�
 features-independent-firefox-is-independent = { -brand-name-firefox } је независан и део непрофитне организације { -brand-name-mozilla }, која се бори за ваша интернет права и омогућава интернет доступним свима и свуда.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Нема стрингова
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } је развила непрофитна организација. То значи да можемо да радимо ствари које други не могу, као што је развијање нових производа и функција без тајног плана. Наш приоритет је ваше право на приватност, са алаткама као што су приватно прегледање и заштита од праћења.
 # Obsolete string
 features-independent-firefox-is-built-by = { -brand-name-firefox } је направила непрофитна организација. То значи да можемо учинити оно што други себи не могу приуштити, попут развоја нових производа и функција без тајног плана акције. Наш приоритет је ваше право на приватност, уз алате као што су приватно прегледање и заштита од праћења, који су бољи од онога што нуде { -brand-name-google } { -brand-name-chrome } и { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Оно што видите је оно што и добијате
