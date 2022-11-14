@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -21,11 +21,21 @@ firefox-products-desktop = Десктоп
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Погледајте све прегледаче
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Сурфујте вебом, гледајте видее и радите на серверима у преко 30 земаља за безбедну интернет везу са новом перспективом.
+firefox-products-get-mozilla-vpn = Преузмите { -brand-name-mozilla-vpn }
+firefox-products-relay = { -brand-name-firefox-relay }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Чувајте ваше лозинке и приступајте им на свим вашим синхронизованим уређајима.
+# Obsolete string
 firefox-products-download-lockwise = Преузмите { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Отворите у { -brand-name-firefox }-у
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Сазнајте више о { -brand-name-lockwise }-у
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Сигурно шаљите велике датотеке и осетљива документа, величине до 2.5G.
 firefox-products-send-a-file = Пошаљите датотеку

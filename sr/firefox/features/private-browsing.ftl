@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Прегледач за приватност са додатном заштитом од праћења
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } штити вашу интернет приватност и блокира пратиоце који вас прате на вебу.
+features-private-browsing-download-firefox = Преузмите { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Већа заштита. Мање бриге.
 features-private-browsing-were-obsessed-with = Ми смо опседнути чувањем ваше приватности. Зато смо { -brand-name-firefox } приватно прегледање учинили бољим од других.
 features-private-browsing-browse-without = Сурфујте без трага
