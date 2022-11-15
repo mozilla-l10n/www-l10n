@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
 data-preferences-page-title = Emombarete erohoryvéva mba’ekuaarã ñembyaty rehegua
+data-preferences-page-desc = Ne rekoñemi tuicha mba’e { -brand-name-mozilla } peg̃uarã. Ko kuatiarogue omoneĩta eñangarekóvo mba’ekuaarã ñembyaty ehayhuvéva ñanduti rendápe g̃uarã mozilla.org oipurúvo { -brand-name-glean }.
 data-preferences-notification-opt-out = Emboyke mba’ekuaarã teéva ñembyaty
 data-preferences-notification-opt-in = Emoneĩ mba’ekuaarã teéva ñembyaty
 data-preferences-current-preference = Erohoryvéva ag̃agua:
