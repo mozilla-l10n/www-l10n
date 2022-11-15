@@ -30,6 +30,9 @@ about-this-site-some-open-source-projects = Disa nga projektet me burim të hap�
 #   $jinja (url) link to https://jinja.palletsprojects.com/
 about-this-site-django = <a href="{ $django }">Django</a> si pjesë e pasme e platformës web, me <a href="{ $jinja }">Jinja</a> për gjedhe.
 # Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = Sistem { -brand-name-mozilla }’s <a href="{ $protocol }">Protocol</a> hartimi, për përbërës të pjesës së dukshme dhe elementë marke.
+# Variables:
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = Sistem { -brand-name-mozilla }’s <a href="{ $fluent }">Fluent</a> përkthimi për versione në gjuhë të tjera.
 # Variables:

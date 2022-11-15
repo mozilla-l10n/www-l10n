@@ -20,6 +20,7 @@ developer-mdnplus-development-in-real-time = Zhvillim aty për aty: Merrni sinja
 developer-mdnplus-the-web-doesnt-have-a = Web-i s’ka regjistër ndryshimesh, por për këtë mund të vijë në ndihmë { -brand-name-mdn }. Ndiqni faqet dhe merrni njoftime vetjake, kur ndryshon dokumentimi, kur vijnë veçori CSS dhe hidhen në qarkullim API.
 developer-mdnplus-collections = Koleksione
 developer-mdnplus-build-your-perfect-library = Krijoni bibliotekën tuaj të përkryer. Ose na e lini ne krijimin e saj.
+developer-mdnplus-no-more-haphazard-hunting = Mjaft më me peshkim kuturu përmes bibliotekës së madhe virtuale: çlironi kujdestarin që mbani brenda vetes dhe koleksionojini artikujt tuaj të parapëlqyer në një vend, për përdorim të rehatshëm.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } pa internet
 developer-mdnplus-mdns-entire-library-at-your = Krejt biblioteka e { -brand-name-mdn }-it në pëllëmbë të dorës: pa internet
 developer-mdnplus-taking-your-projects-beyond = Po i merrni projektet tuaja tej sinjalit më të afërt Wi-Fi? I thoni lamtumirë faqeve që s’hapen apo skedave të bëra rrëmujë. Me { -brand-name-mdn-plus }, keni në dispozicion burime { -brand-name-mdn } plotësisht të përdorshme edhe kur s’jeni në internet.
