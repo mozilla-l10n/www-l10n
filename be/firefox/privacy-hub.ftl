@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# Sub navigation link
+firefox-privacy-our-promise = Наша абяцанне
+firefox-privacy-hub-why-trust-firefox = Чаму варта давяраць { -brand-name-firefox }?
+firefox-privacy-hub-learn-about-our-products = Даведайцеся аб нашых прадуктах
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ахоўвае вашу прыватнасць у кожным прадукце.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Больш за 2000 трэкераў заблакіравана — аўтаматычна
