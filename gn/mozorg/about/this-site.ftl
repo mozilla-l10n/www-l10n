@@ -28,3 +28,6 @@ about-this-site-fluent = Pe jejuhukuaa rehegua <a href="{ $fluent }">Fluent</a> 
 # Variables:
 #   $github (url) link to https://github.com/mozilla/bedrock
 about-this-site-many-other = Heta arandukakoty ha framewoeks michĩvéva, ejuhukuaáva ore <a href="{ $github }">{ -brand-name-github } ñembyatyhápe</a>.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Romboaguyjeveme’ẽ opavave { -brand-name-mozilla } <a href="{ $credits }">pytyvõharakuérape</a> pegua oipytyvõva ñandutípe iporãve hag̃ua.

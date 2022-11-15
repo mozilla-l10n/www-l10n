@@ -7,6 +7,7 @@
 
 welcome-page14-page-title = Ko jasy ciberseguridad rehegua, ehepyme’ẽ’ive 20% { -brand-name-mozilla-vpn } ndive
 welcome-page14-page-title-alt = Ko jasy ciberseguridad rehegua: emombaretevémake ne rekoñemi
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (red privada virtual) omo’ã opaite Ñandutípe jeike ne mohendahápe, tabléta ha avei pumbyrýpe. Hekorosãiteve, ou rupi peteĩ ñemyengovia ndive 30 ára haguépe.
 welcome-page14-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Eipuru ayvu ejogua rire ehepyme’ẽ hag̃ua 20% sa’ive
 welcome-page14-copy-code = Emonguatia ayvu
