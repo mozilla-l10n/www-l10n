@@ -12,6 +12,7 @@ vpn-ios-page-description = Атрымайце хуткую і простую б�
 vpn-ios-hero-headline = Абараніце сябе ў Інтэрнэце з дапамогай { -brand-name-mozilla-vpn } для { -brand-name-ios }
 vpn-ios-wifi-headline = Заставайцеся ў бяспецы ў Інтэрнэце, нават калі вы ў дарозе
 vpn-ios-about-headline = Чаму нам давяраюць?
+vpn-ios-privacy-headline = Злучэнне ў 1 націск
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Атрымайце доступ для { $devices } прылад
