@@ -1,0 +1,18 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
+
+# Meta strings
+vpn-ios-page-title = { -brand-name-mozilla-vpn } для { -brand-name-ios } ({ -brand-name-iphone } і { -brand-name-ipad })
+vpn-ios-page-description = Атрымайце хуткую і простую бяспеку свайго { -brand-name-iphone } або { -brand-name-ipad } з дапамогаю { -brand-name-mozilla }, аднаго з самых надзейных брэндаў у галіне тэхналогій.
+# Mobile strings
+vpn-ios-hero-headline = Абараніце сябе ў Інтэрнэце з дапамогай { -brand-name-mozilla-vpn } для { -brand-name-ios }
+vpn-ios-about-headline = Чаму нам давяраюць?
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-headline = Атрымайце доступ для { $devices } прылад
+vpn-ios-speed-headline = Максімальная хуткасць. Неабмежаваная колькасць даных.
+vpn-ios-log-headline = Вашы даныя застаюцца прыватнымі. Кропка.
