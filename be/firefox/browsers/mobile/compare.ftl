@@ -21,6 +21,7 @@ mobile-compare-from-the-chart = З прыведзенай вышэй дыягр
 mobile-compare-features-strong = <strong>Магчымасці</strong>
 mobile-compare-features = Магчымасці
 mobile-compare-what-can-your = Што ваш браўзер можа зрабіць для вас?
+mobile-compare-a-main-ingredient = Галоўным кампанентам добра зробленага браўзера з'яўляецца яго функцыянальнасць. Што ён можа рабіць? Амаль усе пяць браўзераў аднолькавыя, калі гаворка ідзе пра карткі, закладкі, аўтазапаўненне палёў, але толькі { -brand-name-firefox } і { -brand-name-safari } прапануюць дадаткі/пашырэнні, якія быццам праграмы для вашага браўзера, каб зрабіць яго больш прыватным, магутным або проста больш цікавым.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Пераноснасць</strong>
 mobile-compare-syncing = Пераноснасць
