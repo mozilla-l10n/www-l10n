@@ -14,3 +14,4 @@ compare-ie-comparing-firefox-browser-with = ປຽບທຽບ { -brand-name-fir
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
 compare-ie-if-you-havent-moved-on-from-using = ຖ້າທ່ານບໍ່ໄດ້ສືບຕໍ່ຈາກການໃຊ້ { -brand-name-ie }, ປັດໄຈຄວາມສ່ຽງດ້ານຄວາມປອດໄພຢ່າງດຽວຄວນຈະພຽງພໍທີ່ຈະເຮັດໃຫ້ເຈົ້າຫມັ້ນໃຈໄດ້. ຫົວຫນ້າຄວາມປອດໄພຂອງຕົນເອງ <a { $attrs }>{ -brand-name-microsoft } ໄດ້ເຕືອນ</a> ຫລາຍລ້ານຄົນທີ່ສືບຕໍ່ໃຊ້ { -brand-name-ie } ເປັນເວັບບຣາວເຊີຫຼັກຂອງພວກເຂົາທີ່ເຂົາເຈົ້າກໍາລັງວາງໄວ້. ຕົນເອງຢູ່ໃນ "ອັນຕະລາຍ."
+compare-ie-really-the-only-reasons-to-use = ແທ້ຈິງແລ້ວ, ເຫດຜົນດຽວທີ່ຈະໃຊ້ { -brand-name-ie } ແມ່ນສໍາລັບນັກພັດທະນາເພື່ອທົດສອບວ່າເວັບໄຊທ໌ຂອງພວກເຂົາເບິ່ງຄືແນວໃດໃນຕົວທ່ອງເວັບທີ່ເກົ່າກວ່າຫຼືຖ້າບໍລິສັດມີແອັບຯທີ່ສໍາຄັນສໍາລັບທຸລະກິດທີ່ເຮັດວຽກກັບ { -brand-name-ie } ເທົ່ານັ້ນ ຕົວທ່ອງເວັບ.
