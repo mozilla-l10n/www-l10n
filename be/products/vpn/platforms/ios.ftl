@@ -10,6 +10,7 @@ vpn-ios-page-title = { -brand-name-mozilla-vpn } для { -brand-name-ios } ({ -
 vpn-ios-page-description = Атрымайце хуткую і простую бяспеку свайго { -brand-name-iphone } або { -brand-name-ipad } з дапамогаю { -brand-name-mozilla }, аднаго з самых надзейных брэндаў у галіне тэхналогій.
 # Mobile strings
 vpn-ios-hero-headline = Абараніце сябе ў Інтэрнэце з дапамогай { -brand-name-mozilla-vpn } для { -brand-name-ios }
+vpn-ios-wifi-headline = Заставайцеся ў бяспецы ў Інтэрнэце, нават калі вы ў дарозе
 vpn-ios-about-headline = Чаму нам давяраюць?
 # Variables:
 #   $devices (number) - number of available devices
