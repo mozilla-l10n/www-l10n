@@ -15,7 +15,7 @@ vpn-ios-about-headline = Чаму нам давяраюць?
 vpn-ios-privacy-headline = Злучэнне ў 1 націск
 # Variables:
 #   $servers (number) - number of available servers
-vpn-ios-servers-headline = Падлучайцеся да больш чым { $servers } серверам па ўсім свеце
+vpn-ios-servers-headline = Падлучайцеся да больш чым { $servers } сервераў па ўсім свеце
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Атрымайце доступ для { $devices } прылад
