@@ -38,6 +38,9 @@ firefox-all-arm64-installers = ຕົວຕິດຕັ້ງ ARM64/AArch64
 firefox-all-arm64-installers-optimized = ຕົວຕິດຕັ້ງ ARM64/AArch64 ປັບປຸງໃຫ້ເໝາະສົມກັບ{ -brand-name-windows } PCs ທີ່ໃຊ້ Snapdragon.
 firefox-all-product-send-link = ສົ່ງລິ້ງດາວໂຫລດໄປຫາໂທລະສັບຂອງທ່ານ
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = ເລືອກຕົວຕິດຕັ້ງ 32-bit ສໍາລັບຄອມພິວເຕີທີ່ມີໂປເຊດເຊີ 32-bit — ຫຼືສໍາລັບຄອມພິວເຕີທີ່ເກົ່າກວ່າ ຫຼືມີອໍານາດຫນ້ອຍ. <a href="{ $url }">ຖ້າທ່ານບໍ່ແນ່ໃຈວ່າ</a> ຈະເລືອກຕົວຕິດຕັ້ງ 64-bit ຫຼື 32-bit, ພວກເຮົາແນະນໍາໃຫ້ທ່ານໄປກັບ 32-bit.
+# Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
 #   $locale(string) e.g. English (US), German, French
