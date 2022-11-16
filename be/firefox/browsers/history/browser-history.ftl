@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = Гісторыя браўзераў: эпічная барацьба за ўладу, якая прынесла нам сучасныя браўзеры
 browser-history-the-history-of-web = Гісторыя вэб-браўзераў
 browser-history-the-browser-wars = Войны браўзераў
 browser-history-browsing-the-web = Агляданне Сеціва сёння
