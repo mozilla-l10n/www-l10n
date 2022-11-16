@@ -13,9 +13,12 @@ navigation-android-support = { -brand-name-android }-tuki
 navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } yrityksille
 navigation-firefox-for-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }:lle
 navigation-watch-videos-and-browse = Katso videoita ja selaa internetiä { -brand-name-amazon } { -brand-name-fire-tv }:llä.
+navigation-firefox-browsers-put = { -brand-name-firefox }-selaimet asettavat yksityisyytesi etusijalle — nyt ja aina.
 navigation-join-firefox = Liity { -brand-name-firefox }iin
 navigation-meet-the-firefox-family = Tapaa { -brand-name-firefox }-perhe
 navigation-firefox-blog = { -brand-name-firefox }-blogi
+navigation-read-about-new-firefox = Lue uusista { -brand-name-firefox }-ominaisuuksista ja saa vinkkejä, kuinka pysyä turvassa verkossa.
+navigation-the-non-profit-behind = Voittoa tavoittelematon järjestö { -brand-name-firefox }in takana, joka taistelee terveen internetin puolesta.
 navigation-learn-how-firefox-treats = Lue kuinka { -brand-name-firefox } kohtelee tietojasi kunnioituksella.
 navigation-mozilla-careers = { -brand-name-mozilla }-urat
 navigation-close-firefox-menu = Sulje { -brand-name-firefox }-valikko
@@ -30,6 +33,7 @@ navigation-make-the-most-of-your = Ota kaikki irti { -brand-name-firefox }-kokem
 navigation-learn-how-to-customize = Opi, kuinka voit muokata { -brand-name-firefox }in toimintaa.
 # Outdated string
 navigation-experience-augmented = Koe laajennettu ja virtuaalinen todellisuus { -brand-name-firefox }in avulla.
+navigation-get-together = Kokoonnu virtuaalitodellisuudessa tämän sosiaalisen tilan avulla.
 # Outdated string
 navigation-meet-people-in-experimental = Tapaa ihmisiä kokeellisissa Mixed Reality -keskusteluhuoneissa { -brand-name-firefox }illa.
 # Outdated string
@@ -57,6 +61,7 @@ navigation-see-breaches = Katso vuodot
 navigation-security-tips = Turvallisuusvinkit
 navigation-sign-up = Rekisteröidy
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Nopea. Yksinkertainen. Yksityinen.
+navigation-protect-your-entire-device = Suojaa koko laitteesi ja kaikki sovellukset. Peitä todellinen sijaintisi ja yhdistä jopa 5 laitetta. Tilaa nyt.
 # Outdated string
 navigation-connected-and-protected = Yhdistetty ja suojattu
 navigation-join = Liity
