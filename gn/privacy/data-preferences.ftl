@@ -9,6 +9,10 @@ data-preferences-page-title = Emombarete erohoryvéva mba’ekuaarã ñembyaty r
 data-preferences-page-desc = Ne rekoñemi tuicha mba’e { -brand-name-mozilla } peg̃uarã. Ko kuatiarogue omoneĩta eñangarekóvo mba’ekuaarã ñembyaty ehayhuvéva ñanduti rendápe g̃uarã mozilla.org oipurúvo { -brand-name-glean }.
 data-preferences-notification-opt-out = Emboyke mba’ekuaarã teéva ñembyaty
 data-preferences-notification-opt-in = Emoneĩ mba’ekuaarã teéva ñembyaty
+# Variables:
+#   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
+#   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
+data-preferences-your-privacy = Nde rekoñemi tuicha mba’e { -brand-name-mozilla } peg̃uarã. Ore ñehesa’ỹijo ha telemetría pyendavusu, hérava <a href="{ $glean }">{ -brand-name-glean }</a>, oguata ore rape potĩre <a href="{ $lean_data }">mba’ekuaarã ñembyaty reheguápe</a>.
 data-preferences-current-preference = Erohoryvéva ag̃agua:
 data-preferences-please-enable-javascript = Ikatúpa emyandy JavaScript eñangareko hag̃ua erohoryvéva mba’ekuaarã.
 data-preferences-opt-out-button = Emboyke mba’ekuaarã teéva ñembyaty

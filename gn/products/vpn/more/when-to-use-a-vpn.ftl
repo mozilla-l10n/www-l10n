@@ -28,6 +28,10 @@ vpn-when-to-use-make-sure-you = Eikuaaporãva’erã pe VPN ojapokuaa’ỹva
 vpn-when-to-use-a-vpn-provides = VPN ome’ẽ joajuha hekorosãva omo’ãvo ne mba’ekuaarãite ñemiguáva oho mboyve ñandutípe ha avei oñomi nde IP kundaharape, oipytyvõvo omo’ã nde reratee ha ne rendaite avei. Upéicha rupi, ndojokomo’ãi eikutúvo juajuha ivaikuaáva, emboguejývo malware térã eñembotavývo ñanduti veve rupive. Ejapoveva’erã gueteri <a href="{ $book }">tembiapo porã ne rekorosã hag̃ua tapiaite ñandutípe</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, ha’e VPN ejeroviakuaaha
 # Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-when-to-use-the-most-important = Tuichave mba’éva pe eiporavóvo peteĩ VPN ha’e eiporavoha mba’apohaguasu jeroviaha. Eheha’ãke eikumby porã mba’etépa pe emoneĩva. Heta he’íva tuichaha ha omomba’éva tekoñemi, hákatu hetave pe ndojapóiva he’iva’ekue. Ndaopavavéi proxy ha VPN mba’epururã hekorosã ha hekoñemi. Ndahetái <a href="{ $pcmag }">ohaíta</a> <a href="{ $cnet }">katuete</a> ne rembiapo ñandutípe ohepyme’ẽ hag̃ua ne mba’ekuaarã ha marandu umi mba’apohaguasu jehepyme’ẽkuaahapegua. Ambue mba’epururã omohendaséta malware ne mba’e’okápe.
+# Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
 #   $mission (url) - https://www.mozilla.org/mission/
