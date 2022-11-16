@@ -8,6 +8,7 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Lataa { -brand-name-firefox-browser } mobiililaitteellesi, { -brand-name-ios }:ille ja { -brand-name-android }ille
 welcome-page4-wallet-keys-phone-firefox = Lompakko… avaimet… puhelin…<strong>{ -brand-name-firefox }!</strong>
+welcome-page4-privacy-every-screen-now = Hanki yksityisyyttä jokaiselle näytölle
 welcome-page4-take-privacy-with-you-on-every = Yksityisyys mukanasi kaikilla laitteillasi - ja tiedonkerääjät nuolevat näppejään.
 welcome-page4-get-the-firefox-mobile = Hanki { -brand-name-firefox } mobiililaitteille
 welcome-page4-get-firefox-on-your-phone = Hanki { -brand-name-firefox } puhelimeesi

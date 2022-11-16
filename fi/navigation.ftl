@@ -13,6 +13,7 @@ navigation-android-support = { -brand-name-android }-tuki
 navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } yrityksille
 navigation-firefox-for-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }:lle
 navigation-watch-videos-and-browse = Katso videoita ja selaa internetiä { -brand-name-amazon } { -brand-name-fire-tv }:llä.
+navigation-join-firefox = Liity { -brand-name-firefox }iin
 navigation-meet-the-firefox-family = Tapaa { -brand-name-firefox }-perhe
 navigation-firefox-blog = { -brand-name-firefox }-blogi
 navigation-learn-how-firefox-treats = Lue kuinka { -brand-name-firefox } kohtelee tietojasi kunnioituksella.

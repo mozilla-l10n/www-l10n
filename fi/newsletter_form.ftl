@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = Kirjoita kelvollinen sähköpostiosoite
 newsletter-form-you-must-agree-to = Sinun tulee hyväksyä tietosuojailmoitus
 newsletter-form-your-email-address = Sähköpostiosoitteesi
+newsletter-form-we-are-sorry-but-there = Valitettavasti järjestelmässämme ilmeni ongelma. Yritä uudelleen myöhemmin!
+newsletter-form-please-select-country = Valitse maa tai alue
+newsletter-form-please-select-language = Valitse kieli
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = nimi@esimerkki.fi
 newsletter-form-select-country-or-region = Valitse maa tai alue

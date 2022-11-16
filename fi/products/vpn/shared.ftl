@@ -64,8 +64,11 @@ vpn-shared-pricing-variable-heading-v2 = Valitse tarpeisiisi sopiva tilaus
 vpn-shared-pricing-variable-heading = Valitse sinulle sopiva tilaus
 vpn-shared-pricing-variable-sub-heading = Kaikki tilaukset sisältävät:
 vpn-shared-pricing-recommended-offer = Suositeltu
-vpn-shared-pricing-plan-6-month = 6 kuukautta
+vpn-shared-pricing-plan-12-month-v2 = 12 kuukauden tilaus
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 kuukautta
+vpn-shared-pricing-plan-monthly-v2 = Kuukausitilaus
+# Outdated string
 vpn-shared-pricing-plan-monthly = Kuukausittain
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +77,7 @@ vpn-shared-pricing-monthly = { $amount } <span>kuukaudessa</span>
 vpn-shared-pricing-get-6-month = Hanki 6 kuukauden tilaus
 # Outdated string
 vpn-shared-pricing-get-12-month = Hanki 12 kuukauden tilaus
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Hanki 6 kuukauden tilaus
 vpn-shared-pricing-get-12-month-v2 = Hanki 12 kuukauden tilaus
 vpn-shared-pricing-get-monthly = Hanki kuukausitilaus
@@ -125,6 +129,13 @@ vpn-subnav-subscribe = Tilaa { -brand-name-mozilla-vpn }
 vpn-shared-affiliate-notification-message = Käytämme evästeitä ymmärtääksemme, mikä yhteistyökumppani johti sinut { -brand-name-mozilla-vpn }:n pariin. Emme jaa yksilöiviä tietoja kumppaneillemme. Lue <a { $attrs }>tietosuojakäytäntömme</a>.
 vpn-shared-affiliate-notification-reject = Hylkää
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Lisää <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-get-vpn-plus-relay = Hanki { -brand-name-vpn } + { -brand-name-relay }
 
 ##
 

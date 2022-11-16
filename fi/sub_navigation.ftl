@@ -19,6 +19,7 @@ sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-features = Ominaisuudet
 sub-navigation-support = Tuki
+sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Lisäosat
 sub-navigation-add-ons = Lisäosat

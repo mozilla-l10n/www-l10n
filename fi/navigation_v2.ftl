@@ -20,8 +20,10 @@ navigation-v2-get-the-customizable-mobile = Hanki muokattava mobiiliselain { -br
 navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }:lle
 navigation-v2-get-the-mobile-browser = Hanki mobiiliselain { -brand-name-iphone }lle tai { -brand-name-ipad }ille.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Yksityistä mobiiliselailua yksinkertaisesti.
 navigation-v2-privacy-promise = Tietosuojalupaus
 navigation-v2-firefox-blog = { -brand-name-firefox }-blogi
+navigation-v2-read-about-new-firefox-features = Lue uusista { -brand-name-firefox }-ominaisuuksista ja tavoista pysyä turvassa verkossa.
 navigation-v2-release-notes = Julkaisutiedot
 
 ## Products menu
@@ -33,6 +35,7 @@ navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Tallenna ja löydä parhaat tarinat verkosta.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-product-promise = Tuotelupaus
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beeta)
 navigation-v2-sign-up-for-new-accounts = Rekisteröi uusia tilejä antamatta todellista sähköpostiosoitettasi.
@@ -54,6 +57,7 @@ navigation-v2-mozilla-blog = { -brand-name-mozilla }-blogi
 
 ## Innovation menu
 
+navigation-v2-innovation = Innovaatio
 navigation-v2-close-innovation-menu = Sulje Innovaatio-valikko
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }

@@ -20,12 +20,17 @@ firefox-products-see-all-browsers = Näytä kaikki selaimet
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-get-mozilla-vpn = Hanki { -brand-name-mozilla-vpn }
 firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-learn-more-about-relay = Lisätietoja { -brand-name-firefox-relay }sta
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
+firefox-products-keep-your-passwords-safe-and = Pidä salasanasi turvassa ja käytä niitä kaikilla synkronoiduilla laitteillasi.
 # Obsolete string
 firefox-products-download-lockwise = Lataa { -brand-name-lockwise }
 # Obsolete string
 firefox-products-open-in-firefox = Avaa { -brand-name-firefox }issa
+# Obsolete string
+firefox-products-learn-more-about-lockwise = Lisätietoja { -brand-name-lockwise }sta
 # Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-a-file = Lähetä tiedosto
