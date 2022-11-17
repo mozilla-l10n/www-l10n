@@ -5,9 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# Sub navigation title
+firefox-privacy-privacy = Прыватнасць
 # Sub navigation link
 firefox-privacy-our-promise = Наша абяцанне
+# Sub navigation link
+firefox-privacy-our-products = Нашы прадукты
+firefox-privacy-hub-take-less = Збіраем менш даных
+firefox-privacy-hub-we-make-a-point-of-knowing = Мы вырашылі ведаць пра вас менш
+firefox-privacy-hub-keep-it-safe = Трымаем у бяспецы
+firefox-privacy-hub-no-secrets = Ніякіх сакрэтаў
 firefox-privacy-hub-why-trust-firefox = Чаму варта давяраць { -brand-name-firefox }?
+firefox-privacy-hub-learn-more-about-our-mission = Даведайцеся больш пра нашу місію
 firefox-privacy-hub-learn-about-our-products = Даведайцеся аб нашых прадуктах
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ахоўвае вашу прыватнасць у кожным прадукце.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }

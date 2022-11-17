@@ -5,9 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+vpn-landing-privacy-heading = Прыватнасць на адлегласці аднаго дотыку
+vpn-landing-brand-trust-heading = VPN ад брэнда, якому вы можаце давяраць
 
 ## FAQ section
 
+vpn-landing-faq-heading = Частыя пытанні
 vpn-landing-faq-download-heading = Як спампаваць { -brand-name-mozilla-vpn }, калі я ўжо падпісаны?
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
