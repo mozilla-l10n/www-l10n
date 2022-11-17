@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
+# Variables:
+#   $version (number) - Firefox Nightly release major version number
+nightly-whatsnew-youve-just-been = Вы толькі што абнавіліся да { -brand-name-firefox-nightly } { $version }!
+nightly-whatsnew-your-firefox-nightly = Ваш { -brand-name-firefox-nightly } быў паспяхова абноўлены.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
