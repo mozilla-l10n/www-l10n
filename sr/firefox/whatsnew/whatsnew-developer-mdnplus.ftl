@@ -7,3 +7,6 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest = Честитамо! Сада имате најновију { -brand-name-firefox-browser } верзију - { -brand-name-developer-edition }.
+# Main title
+developer-mdnplus-more-mdn-your-mdn = Бољи { -brand-name-mdn }. <em>Ваш</em> { -brand-name-mdn }.
