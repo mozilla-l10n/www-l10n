@@ -20,6 +20,8 @@ mobile-focus-scan-alt-text = Скануйце QR-код, каб атрымаць
 mobile-focus-disappear-your-history = Хавайце сваю гісторыю
 mobile-focus-delete-your-history = Выдаляйце сваю гісторыю
 mobile-focus-take-private-mode = Перанясіце прыватны рэжым на новы ўзровень
+# Outdated string
+mobile-focus-private-browsing-on = «Прыватны прагляд» у большасці браўзераў насамрэч не такі ўжо і прыватны. { -brand-name-firefox-focus } - гэта новы ўзровень прыватнасці, які падтрымліваецца { -brand-name-mozilla }, некамерцыйнай арганізацыяй, якая змагаецца за вашы правы ў Інтэрнэце.
 mobile-focus-tracking-protection = Ахова ад сачэння
 mobile-focus-ad-blocking = Блакіраванне рэкламы
 mobile-focus-see-it-all = Паскорце агляданне
