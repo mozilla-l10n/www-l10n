@@ -26,3 +26,4 @@ mobile-focus-see-it-all = Паскорце агляданне
 # Outdated string
 mobile-focus-focus-removes-trackers = { -brand-name-focus } прыбірае трэкеры і рэкламу, таму старонкі, якія вы праглядаеце, выкарыстоўваюць менш даных і загружаюцца нашмат хутчэй.
 mobile-focus-made-by-mozilla = Зроблена { -brand-name-mozilla }
+mobile-focus-we-believe-everyone = Мы верым, што кожны павінен кантраляваць сваё жыццё ў Інтэрнэце. Вось за што мы змагаемся з 1998 года.
