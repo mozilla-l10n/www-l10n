@@ -23,3 +23,5 @@ developer-mdnplus-build-your-perfect-library = Направите савршен
 developer-mdnplus-no-more-haphazard-hunting = Нема више бескрајног лутања кроз огромну виртуелну библиотеку; ослободите свог унутрашњег кустоса и сакупите омиљене чланке на једном месту ради лакшег приступа.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } офлајн
 developer-mdnplus-mdns-entire-library-at-your = Читава { -brand-name-mdn } библиотека на дохват прстију: офлајн.
+developer-mdnplus-taking-your-projects-beyond = Треба да радите на својим пројектима а немате Wi-Fi? Реците збогом неприступачним страницама или претрпаним језичцима. Са { -brand-name-mdn-plus } можете да располажете { -brand-name-mdn } ресурсима у потпуности чак и када сте офлајн.
+developer-mdnplus-resources-for-developers = Ресурси за програмере, од програмера.
