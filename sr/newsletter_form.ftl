@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Унесите важећу адресу е-поште
 newsletter-form-you-must-agree-to = Морате се сложити са полисом приватности
 newsletter-form-your-email-address = Ваша адреса е-поште
+newsletter-form-we-are-sorry-but-there = Жао нам је, дошло је до проблема са нашим системом. Покушајте поново касније!
+newsletter-form-please-select-country = Изаберите државу или регион
+newsletter-form-please-select-language = Изаберите језик
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = вашеиме@example.com
 newsletter-form-select-country-or-region = Изаберите државу или покрајину
+newsletter-form-select-language = Изаберите језик
 newsletter-form-your-email-here = ВАША АДРЕСА Е-ПОШТЕ ОВДЕ
 newsletter-form-format = Формат
 newsletter-form-html = HTML
@@ -28,3 +32,12 @@ newsletter-form-select-country = Одаберите државу
 newsletter-form-sign-me-up = Претплати ме
 newsletter-form-sign-up-now = Пријавите се сада
 newsletter-form-thanks = Хвала!
+newsletter-form-leave-this-field-empty = Оставите ово поље празним
+newsletter-form-yes = Да
+newsletter-form-no = Не
+multi-newsletter-form-checkboxes-legend = Желим информације о:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Изаберите барем једну опцију за слање билтена.
+multi-newsletter-form-title = Волите интернет?
+multi-newsletter-form-desc = Пријавите се на { -brand-name-mozilla } билтен и помозите да интернет остане отворен и бесплатан.
