@@ -18,3 +18,14 @@ nightly-whatsnew-this-is-a-good = Ово је прави тренутак да �
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to = Ако желите да будете у току са { -brand-name-nightly } заједницом, почните да читате наш <a href="{ $blog }">блог</a> и пратите нас на <a href="{ $twitter }">{ -brand-name-twitter }-у</a>!
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Желите да знате које функције можете да тестирате на { -brand-name-nightly }-ју, а које још не видите у другим { -brand-name-firefox } каналима? Погледајте <a { $attrs }Nightly експерименти</a> страницу за подешавања.
+# Obsolete
+# Variables:
+#   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
+nightly-whatsnew-want-to-know-which = Желите да знате које функције можете да тестирате на { -brand-name-nightly }-ју, а које још не видите у другим { -brand-name-firefox } каналима? Погледајте страницу <a href="{ $mdn }">Експерименталне функције</a> на <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
+# Variables:
+#   $bugzilla (url) - link to https://bugzilla.mozilla.org/
+nightly-whatsnew-do-you-experience = Доживљавате падове софтвера? Или неочекивано понашање? Регресије веб компатибилности? Пријавите све на <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> да будете сигурни да овакве грешке не уђу у коначно издање (још боље ако притом додате кључну реч <em>{ -brand-name-nightly }-community</em> у извештај о грешци)!
+nightly-whatsnew-go-community = Идемо друштво!
