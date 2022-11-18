@@ -24,3 +24,21 @@ about-this-site-report-a-bug = Пријавите грешку
 about-this-site-contribute-to-code = Допринесите бази кодова
 about-this-site-contribute-to-l10n = Допринесите преводима
 about-this-site-read-the-docs = Прочитајте документацију
+about-this-site-colophon = Колофон
+about-this-site-some-open-source-projects = Неки од пројеката отвореног кода који су коришћени за прављење овог сајта:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> као бак-енд веб оквир уз <a href="{ $jinja }">Jinja</a> за прављење шаблона.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = { -brand-name-mozilla }-ин <a href="{ $protocol }">Protocol</a> систем дизајна за фронт-енд компоненте и брендирање.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = { -brand-name-mozilla }-ин <a href="{ $fluent }">Fluent</a> систем локализације за превођење језика.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Много других мањих библиотека и оквира можете да пронађете у нашем <a href="{ $github }">{ -brand-name-github } спремишту</a>.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Захваљујемо свим { -brand-name-mozilla } <a href="{ $credits }">сарадницима</a> који помажу да интернет буде боље место.
