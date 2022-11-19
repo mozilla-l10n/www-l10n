@@ -16,6 +16,7 @@ best-browser-when-you-use-a-browser = ເມື່ອທ່ານໃຊ້ຕົ
 best-browser-marshall-erwin-senior = Marshall Erwin, ຜູ້ອໍານວຍການອາວຸໂສຂອງຄວາມໄວ້ວາງໃຈແລະຄວາມປອດໄພຂອງ { -brand-name-mozilla }
 best-browser-if-youre-wondering = ຖ້າທ່ານສົງໄສວ່າມັນຫມາຍຄວາມວ່າແນວໃດທີ່ຈະມີຕົວທ່ອງເວັບສ່ວນຕົວຫຼືໄວ, ນີ້ແມ່ນລາຍລະອຽດຂອງສາມສິ່ງທີ່ຕົວທ່ອງເວັບຄວນຈະມີ.
 best-browser-a-browser-built-for = ຕົວທ່ອງເວັບທີ່ສ້າງຂຶ້ນເພື່ອຄວາມໄວ.
+best-browser-this-is-one-of-the = ນີ້​ແມ່ນ​ຫນຶ່ງ​ໃນ​ຫຼາຍ​ເຫດ​ຜົນ​ທີ່​ຈະ​ເລືອກ​ເອົາ​ຕົວ​ທ່ອງ​ເວັບ { -brand-name-firefox }: { -brand-name-firefox } ບລັອກ​ຕົວ​ຕິດ​ຕາມ​ຂອງ​ບຸກ​ຄົນ​ທີ​ສາມ​ໂດຍເປັນຄ່າ​ເລີ່ມ​ຕົ້ນ​. ພວກເຮົາມີເຫດຜົນອື່ນ ແລະ ພວກເຮົາຈະເວົ້າເຖິງໃນພາຍຫຼັງ.
 best-browser-a-browser-that-puts = ຕົວທ່ອງເວັບທີ່ວາງຄວາມປອດໄພເປັນອັນດັບທໍາອິດ.
 best-browser-a-browser-that-minds = ຕົວທ່ອງເວັບທີ່ຄິດເຖິງທຸລະກິດຂອງມັນ.
 best-browser-take-control-of-your = ຄວບຄຸມໂປແກຼມທ່ອງເວັບຂອງທ່ານ.
