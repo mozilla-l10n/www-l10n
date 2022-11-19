@@ -19,6 +19,7 @@ firefox-privacy-hub-why-trust-firefox = Чаму варта давяраць { -
 firefox-privacy-hub-learn-more-about-our-mission = Даведайцеся больш пра нашу місію
 firefox-privacy-hub-learn-about-our-products = Даведайцеся аб нашых прадуктах
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ахоўвае вашу прыватнасць у кожным прадукце.
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>ахоўвае</strong> вашу прыватнасць у кожным прадукце.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Больш за 2000 трэкераў заблакіравана — аўтаматычна
 firefox-privacy-hub-see-what-firefox-has-blocked = Паглядзіце, што { -brand-name-firefox } заблакіраваў для вас
