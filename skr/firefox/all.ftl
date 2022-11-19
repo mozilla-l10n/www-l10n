@@ -19,6 +19,8 @@ firefox-all-language = زبان:
 firefox-all-lang-multi = ڈھڳ زباناں
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox = انگریزی (یو ایس) تے 90 کنوں ودھ ٻیاں زباناں وچ { -brand-name-firefox-browser } ڈاؤن لوڈ کرو
 firefox-all-choose-which-firefox = آپݨی زبان وچ ڈاؤن لوڈ کرݨ کیتے { -brand-name-firefox-browser } چݨو
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری نوٹس
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزراں بارے سِکھو
