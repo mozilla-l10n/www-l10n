@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-privacy-hub-firefox-products-are-designed = Прадукты { -brand-name-firefox } створаны для аховы вашай <strong>прыватнасці</strong>
 # Sub navigation title
 firefox-privacy-privacy = Прыватнасць
 # Sub navigation link
