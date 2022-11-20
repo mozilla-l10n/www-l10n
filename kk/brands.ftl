@@ -15,11 +15,18 @@
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
+-brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mullvad = Mullvad
+-brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
+-brand-name-wireguard = WireGuard
+-brand-name-linkedin = LinkedIn
+-brand-name-tiktok = TikTok
+-brand-name-spotify = Spotify
 
 ## Firefox browsers
 
@@ -64,6 +71,7 @@
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-relay = Firefox Relay
 
 ## Firefox products (short names)
 
