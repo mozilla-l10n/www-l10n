@@ -13,6 +13,7 @@ firefox-privacy-privacy = Прыватнасць
 firefox-privacy-our-promise = Наша абяцанне
 # Sub navigation link
 firefox-privacy-our-products = Нашы прадукты
+firefox-privacy-hub-you-should-be-able-to-decide = Вы павінны мець магчымасць самі вырашаць, хто бачыць вашу асабістую інфармацыю. Не толькі сярод сваіх сяброў, але і сярод усіх рэкламадаўцаў і кампаній у інтэрнэце — уключаючы нас.
 firefox-privacy-hub-take-less = Збіраем менш даных
 firefox-privacy-hub-we-make-a-point-of-knowing = Мы вырашылі ведаць пра вас менш
 firefox-privacy-hub-keep-it-safe = Трымаем у бяспецы
@@ -20,6 +21,7 @@ firefox-privacy-hub-no-secrets = Ніякіх сакрэтаў
 firefox-privacy-hub-why-trust-firefox = Чаму варта давяраць { -brand-name-firefox }?
 firefox-privacy-hub-learn-more-about-our-mission = Даведайцеся больш пра нашу місію
 firefox-privacy-hub-your-privacy-by-the-product = Ваша прыватнасць, дзякуючы прадукту
+firefox-privacy-hub-firefox-products-work-differently = Прадукты { -brand-name-firefox } працуюць па-іншаму — таму што яны створаны для аховы вашай прыватнасці ў першую чаргу.
 firefox-privacy-hub-learn-about-our-products = Даведайцеся аб нашых прадуктах
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ахоўвае вашу прыватнасць у кожным прадукце.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>ахоўвае</strong> вашу прыватнасць у кожным прадукце.
