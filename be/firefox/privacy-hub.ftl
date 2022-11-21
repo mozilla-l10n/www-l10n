@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = Абяцанне прыватнасці { -brand-name-firefox }
+# HTML page description
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } збірае менш звестак, захоўвае іх у бяспецы, без ніякіх сакрэтаў.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-privacy-hub-firefox-products-are-designed = Прадукты { -brand-name-firefox } створаны для аховы вашай <strong>прыватнасці</strong>
 # Sub navigation title
@@ -17,6 +21,7 @@ firefox-privacy-hub-you-should-be-able-to-decide = Вы павінны мець 
 firefox-privacy-hub-take-less = Збіраем менш даных
 firefox-privacy-hub-we-make-a-point-of-knowing = Мы вырашылі ведаць пра вас менш
 firefox-privacy-hub-keep-it-safe = Трымаем у бяспецы
+firefox-privacy-hub-we-do-the-hard-work-to-protect = Мы робім усё магчымае, каб абараніць вашу асабістую інфармацыю
 firefox-privacy-hub-no-secrets = Ніякіх сакрэтаў
 firefox-privacy-hub-why-trust-firefox = Чаму варта давяраць { -brand-name-firefox }?
 firefox-privacy-hub-learn-more-about-our-mission = Даведайцеся больш пра нашу місію
