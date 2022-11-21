@@ -20,7 +20,7 @@ nightly-whatsnew-this-is-a-good = Ово је прави тренутак да �
 nightly-whatsnew-if-you-want-to = Ако желите да будете у току са { -brand-name-nightly } заједницом, почните да читате наш <a href="{ $blog }">блог</a> и пратите нас на <a href="{ $twitter }">{ -brand-name-twitter }-у</a>!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v2 = Желите да знате које функције можете да тестирате на { -brand-name-nightly }-ју, а које још не видите у другим { -brand-name-firefox } каналима? Погледајте <a { $attrs }Nightly експерименти</a> страницу за подешавања.
+nightly-whatsnew-want-to-know-which-v2 = Желите да знате које функције можете да тестирате на { -brand-name-nightly }-ју, а које још не видите у другим { -brand-name-firefox } каналима? Погледајте <a { $attrs }>Nightly експерименти</a> страницу за подешавања.
 # Obsolete
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
