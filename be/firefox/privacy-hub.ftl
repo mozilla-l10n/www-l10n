@@ -23,6 +23,7 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Мы вырашылі веда�
 firefox-privacy-hub-keep-it-safe = Трымаем у бяспецы
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Мы робім усё магчымае, каб абараніць вашу асабістую інфармацыю
 firefox-privacy-hub-no-secrets = Ніякіх сакрэтаў
+firefox-privacy-hub-youll-always-know-where-you = Вы заўсёды будзеце ведаць, дзе вы з намі
 firefox-privacy-hub-why-trust-firefox = Чаму варта давяраць { -brand-name-firefox }?
 firefox-privacy-hub-learn-more-about-our-mission = Даведайцеся больш пра нашу місію
 firefox-privacy-hub-your-privacy-by-the-product = Ваша прыватнасць, дзякуючы прадукту
