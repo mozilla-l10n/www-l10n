@@ -25,6 +25,9 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Мы робім усё ма
 firefox-privacy-hub-no-secrets = Ніякіх сакрэтаў
 firefox-privacy-hub-youll-always-know-where-you = Вы заўсёды будзеце ведаць, дзе вы з намі
 firefox-privacy-hub-why-trust-firefox = Чаму варта давяраць { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Таму што мы ставім людзей на першае месца. Фактычна, нас падтрымлівае <a href="{ $foundation }">некамерцыйная арганізацыя</a>. З першых дзён нашай місіяй была ахова інтэрнэту і ўсіх, хто ім карыстаецца.
 firefox-privacy-hub-learn-more-about-our-mission = Даведайцеся больш пра нашу місію
 firefox-privacy-hub-your-privacy-by-the-product = Ваша прыватнасць, дзякуючы прадукту
 firefox-privacy-hub-firefox-products-work-differently = Прадукты { -brand-name-firefox } працуюць па-іншаму — таму што яны створаны для аховы вашай прыватнасці ў першую чаргу.
@@ -40,6 +43,7 @@ firefox-privacy-hub-download-the-firefox-browser = Спампаваць браў
 firefox-privacy-hub-update-your-firefox-browser = Абнавіць свой браўзер { -brand-name-firefox }
 firefox-privacy-hub-invisible-to-the-top-trackers = Нябачны для самых пашыраных трэкераў
 firefox-privacy-hub-always-in-your-control = Заўсёды пад вашым кантролем
+firefox-privacy-hub-protection-beyond-tracking = Ахова за межамі асочвання
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Праверыць на ўцечкі
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
@@ -50,6 +54,9 @@ firefox-privacy-hub-send-a-file = Адправіць файл
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Атрымаць { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account }
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Прачытайце <a href="{ $url }">Паведамленне аб прыватнасці</a> для нашых прадуктаў
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-privacy-hub-surf-stream-and-get-work = Аглядайце, транслюйце і працуйце, выкарыстоўваючы серверы ў больш чым 30 краінах для бяспечнага інтэрнэт-злучэння з новай перспектывай.
 firefox-privacy-hub-get-mozilla-vpn = Атрымаць { -brand-name-mozilla-vpn }
