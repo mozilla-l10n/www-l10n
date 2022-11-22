@@ -31,3 +31,15 @@ mobile-android-got-lots-of = Имате много отворених карти
 mobile-android-supercharge-firefox-with = Обогатите { -brand-name-firefox } додацима
 mobile-android-addons-are-like = Додаци су моћне алаткице које можете да додате у прегледач да бисте, на пример, побољшали подразумевана подешавања приватности или прилагодили корисничко искуство.
 mobile-android-pick-up-where = Наставите тамо где сте стали
+mobile-android-go-from-your = Прелазите без проблема са телефона на лаптоп, таблет и назад. { -brand-name-firefox } вам омогућава да приступите својим обележивачима, лозинкама и историји прегледања на свим својим уређајима, где год да идете.
+mobile-android-search-from-your = Претражујте са почетног екрана телефона
+mobile-android-no-need-to = Не морате ни да отварате апликацију. Додајте { -brand-name-firefox } виџет за претрагу и претражујте интернет директно са почетног екрана вашег уређаја.
+mobile-android-pin-videos-to = Закачите видее за екран
+mobile-android-pop-videos-out = Повуците видео снимке са сајтова или плејера и закачите их на врх екрана телефона да бисте их гледали док сурфујете вебом и обављате задатке. Уживајте док радите друге ствари.
+mobile-android-about-mozilla = О { -brand-name-mozilla }-и
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } постоји да би интернет учинила јавним ресурсом доступним свима. Верујемо да је отворено и бесплатно боље него затворено и контролисано. Правимо производе као што су { -brand-name-firefox } и { -brand-name-pocket } да бисмо промовисали лични избор, транспарентност и контролу.
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Брже до интернета уз { -brand-name-firefox } за { -brand-name-android }
+mobile-android-see-all-your-open-tabs = Погледајте све своје отворене картице, недавне претраге и омиљене сајтове на једном месту уз { -brand-name-firefox } прегледач за { -brand-name-android }.
+mobile-android-own-your-home = Прилагодите почетни екран себи
+mobile-android-get-to-the-parts = Брже дођите до делова интернета до којих вам је стало. Одаберите да видите све своје отворене картице, недавне претраге, обележиваче и омиљене сајтове на једном месту.
