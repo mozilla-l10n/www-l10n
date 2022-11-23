@@ -7,3 +7,4 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = Hvad er en webbrowser?
+what-is-a-browser-how-does-a-web = Hvordan virker en webbrowser?
