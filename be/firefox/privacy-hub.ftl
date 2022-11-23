@@ -52,6 +52,7 @@ firefox-privacy-hub-learn-more-about-lockwise = Даведацца больш п
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Адправіць файл
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } рэкамендуе высакаякасныя артыкулы, падрыхтаваныя чалавекам, без збору вашай гісторыі прагляду сайтаў і перадачы вашай асабістай інфармацыі рэкламадаўцам.
 firefox-privacy-hub-get-pocket = Атрымаць { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account }
 # Variables:
