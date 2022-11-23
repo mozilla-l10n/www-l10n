@@ -15,6 +15,7 @@ browsers-chromebook-x86-based-chromebook = *x86 based { -brand-name-chromebook }
 browsers-chromebook-dropdown-copy = ເອົາ { -brand-name-firefox } ສໍາລັບ { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = ເປັນຫຍັງຕ້ອງເອົາ <span>{ -brand-name-firefox }</span> ສຳລັບ { -brand-name-chromebook }?
+browsers-chromebook-while-a-chromebook = ໃນຂະນະທີ່ { -brand-name-chromebook } ໄດ້ຕິດຕັ້ງ { -brand-name-chrome } ແລ້ວ, ການດາວໂຫຼດ ແລະ ນຳໃຊ້ { -brand-name-firefox } ເປັນ browser go-to ຂອງທ່ານໃຫ້ທ່ານມີຜົນປະໂຫຍດບາງຢ່າງ:
 browsers-chromebook-is-it-hard = ມັນຍາກທີ່ຈະຕິດຕັ້ງ { -brand-name-firefox } ສໍາລັບ { -brand-name-chromebook }ບໍ່?
 
 # Variables:
