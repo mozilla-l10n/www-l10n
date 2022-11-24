@@ -18,3 +18,12 @@ features-translate-to-google-translate = To { -brand-name-google } Translate
 features-translate-google-translate-with = { -brand-name-google } Translate је доступан на преко 100 језика* и користе га милиони људи широм света. Али пребацивање између translate.google.com и странице коју желите да прочитате не пружа баш идеално корисничко искуство. <a { $attrs }>To { -brand-name-google } Translate</a> додатак чини превођење посећене странице лакшим него икад.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = Преузмите додатак
+features-translate-once-installed-simply = Након инсталације, једноставно означите текст који желите да преведете и кликните десним тастером да бисте приказали мени где можете да бирате између две опције: 1) Преусмерите на translate.google.com, где ће изабрани текст аутоматски бити унет у поље за превод; или 2) Послушајте изговорену фразу (обезбеђује { -brand-name-google } Text-to-Speech), што је корисно ако учите нови језик.
+features-translate-switch-languages-in = Мењајте језике у { -brand-name-firefox }-у
+# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
+features-translate-if-you-are = Ако већ користите { -brand-name-firefox }, можете да промените језик прегледача или додате језике у { -brand-name-firefox } интерфејс. <a { $attrs }>Овде сазнајте како.</a>
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-with-the-to = *Помоћу To { -brand-name-google } Translate додатка сада можете да преводите <a { $attrs }>следеће језике</a>:
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }> и још много тога!</a>
+features-translate-for-everyone = Firefox је за свакога

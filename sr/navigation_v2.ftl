@@ -1,11 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Преузмите { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Направите { -brand-name-firefox-account }
+navigation-v2-get-mozilla-vpn = Преузмите { -brand-name-mozilla-vpn }
 navigation-v2-menu = Мени
+# Obsolete string
+navigation-v2-get-a-firefox-account = Направите { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -17,6 +19,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } за { -brand-name-a
 navigation-v2-get-the-customizable-mobile = Преузмите прилагодљиви прегледач за { -brand-name-android } паметне телефоне.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } за { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Преузмите мобилни прегледач за ваш { -brand-name-iphone } или { -brand-name-ipad }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Једноставно, приватно мобилно прегледање.
 navigation-v2-privacy-promise = Обећање приватности
 navigation-v2-learn-how-firefox-treats = Сазнајте како { -brand-name-firefox } поштује ваше податке.
 navigation-v2-firefox-blog = { -brand-name-firefox } блог
@@ -30,8 +34,11 @@ navigation-v2-view-all-firefox-browsers = Погледајте све { -brand-n
 navigation-v2-products = Производи
 navigation-v2-close-products-menu = Затвори мени Производи
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Проверите да ли се ваша адреса е-поште појавила у цурењу података из компаније.
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Сачувајте и откријте најбоље приче широм интернета.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Спречите { -brand-name-facebook } да прикупља ваше податке ван свог сајта.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-product-promise = Обећање производа
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
