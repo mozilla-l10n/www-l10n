@@ -24,5 +24,8 @@ history-by-creating-an-open-community = Стварањем отворене за
 #   $projects (url) link to https://www.mozilla.org/firefox/
 history-community-members-got-involved = Чланови заједнице су се укључили и проширили <a href="{ $mission }">оригиналну мисију</a> — уместо да само раде на наследнику { -brand-name-netscape } прегледача, они су почели да развијају <a href="{ $browsers }">различите прегледаче</a>, <a href="{ $bugzilla }">развојне алате</a> и мноштво других <a href="{ $projects }">пројеката</a>.
 history-people-contributed-to-mozilla = Људи су допринели { -brand-name-mozilla }-и на различите начине, али све их је ујединила жеља да створе бесплатни софтвер који би људима дао слободу избора у начину на који ће доживети интернет.
+# Variables:
+#   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
+history-after-several-years-of-development = После неколико година развоја, прва велика верзија <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a> објављена је 2002. године. Ово издање је садржавало знатна побољшања прегледача, клијента е-поште и других апликација у пакету, али га није користило много људи.
 history-mozilla-bookmarks = { -brand-name-mozilla } обележивачи
 history-timeline-of-mozilla-project = Хронологија { -brand-name-mozilla } пројекта
