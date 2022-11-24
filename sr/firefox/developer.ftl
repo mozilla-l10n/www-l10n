@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } је невероватно брз и пружа најновије програмерске алате и могућности као што је CSS Grid и framework debugging
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Нови { -brand-name-firefox-devtools } су моћни, флексибилни и, најбоље од свега, могу се хаковати. То подразумева најбољи JavaScript debugger, који можете користити у различитим прегледачима и написан је у React-у и Redux-у.
 firefox-developer-master-css-grid = Усавршите CSS Grid
+# outdated
 firefox-developer-next-gen-css-engine = CSS Engine следеће генерације
+firefox-developer-built-for-developers = Направљено за програмере
 firefox-developer-a-next-generation = CSS Engine следеће генерације
 firefox-developer-master-innovative-features = Иновативне могућности
 firefox-developer-want-to-be-on-the-cutting-edge = Желите да буду на врху?
@@ -78,3 +80,5 @@ firefox-developer-welcome-to-the-all-new = Добродошли у { -brand-name
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } је обновљен како би био бржи, бољи и моћнији него икад.
 firefox-developer-congrats-you-now-have-firefox = Честитамо. Сада имате { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = Ово није ажурирање. Ово је { -brand-name-firefox-quantum }: Потпуно нови { -brand-name-firefox } који је обновљен од самог почетка како би био бржи, бољи и моћнији него икада.
+firefox-developer-welcome-to-firefox-browser = Добродошли у { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-made-for-developers = Прегледач направљен за програмере
