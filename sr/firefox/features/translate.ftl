@@ -10,3 +10,4 @@ features-translate-translate-the-web-title = Преведите веб садр�
 # page description
 features-translate-translate-more-than = Преводите са преко 100 језика на свој директно у { -brand-name-firefox-browser } - лакше него икад.
 features-translate-translate-the-web = Преводите веб садржај уз { -brand-name-firefox }
+features-translate-the-google-translate = To { -brand-name-google } Translate додатак за { -brand-name-firefox } чини интернет приступачнијим местом.
