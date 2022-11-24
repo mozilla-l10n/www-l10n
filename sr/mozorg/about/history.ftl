@@ -58,5 +58,10 @@ history-the-community-has-shown = Заједница је показала да 
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Интернет користи више људи него икад пре, и то <a href="{ $all }">на свом језику</a>.
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = Створена је одржива организација која користи тржишне механизме да подржи мисију од општег интереса. Други су овај модел користили наново за стварање отворених, транспарентних и сарадничких организација у <a href="{ $range }">разноразним</a> <a href="{ $areas }">областима</a>.
+history-the-future-is-full-of-challenges = Будућност носи исте бројне изазове и прилике као и наша прошлост.
 history-mozilla-bookmarks = { -brand-name-mozilla } обележивачи
 history-timeline-of-mozilla-project = Хронологија { -brand-name-mozilla } пројекта
