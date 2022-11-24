@@ -33,5 +33,11 @@ history-by-2002-well-over-90 = До 2002. године, <a href="{ $over90 }">в
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = Иако то нису многи приметили тада, али те исте године чланови { -brand-name-mozilla } заједнице су објавили и прву верзију Phoenix-а (касније преименован у { -brand-name-firefox }), с циљем да се пружи <a href="{ $charter }">најбоље могуће искуство прегледања интернета</a> за што више људи.
+# Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = 2003. године, { -brand-name-mozilla } пројекат створио је { -brand-name-mozilla-foundation }, <a href="{ $foundation }">независну непрофитну организацију</a> коју су донацијама подржали различити појединци и корпорације.
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = Нова { -brand-name-mozilla-foundation } наставила је да свакодневно управља читавим пројектом и такође је званично преузела одговорност за промовисање <a href="{ $manifesto }">отворености, иновација и могућности</a> на интернету.
 history-mozilla-bookmarks = { -brand-name-mozilla } обележивачи
 history-timeline-of-mozilla-project = Хронологија { -brand-name-mozilla } пројекта
