@@ -27,5 +27,11 @@ history-people-contributed-to-mozilla = Људи су допринели { -bran
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
 history-after-several-years-of-development = После неколико година развоја, прва велика верзија <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a> објављена је 2002. године. Ово издање је садржавало знатна побољшања прегледача, клијента е-поште и других апликација у пакету, али га није користило много људи.
+# Variables:
+#   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
+history-by-2002-well-over-90 = До 2002. године, <a href="{ $over90 }">више од 90% интернет корисника</a> је прегледало веб { -brand-name-ie } прегледачем.
+# Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = Иако то нису многи приметили тада, али те исте године чланови { -brand-name-mozilla } заједнице су објавили и прву верзију Phoenix-а (касније преименован у { -brand-name-firefox }), с циљем да се пружи <a href="{ $charter }">најбоље могуће искуство прегледања интернета</a> за што више људи.
 history-mozilla-bookmarks = { -brand-name-mozilla } обележивачи
 history-timeline-of-mozilla-project = Хронологија { -brand-name-mozilla } пројекта
