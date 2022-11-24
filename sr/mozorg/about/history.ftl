@@ -64,5 +64,16 @@ history-more-people-than-ever-before = Интернет користи више 
 history-a-sustainable-organization = Створена је одржива организација која користи тржишне механизме да подржи мисију од општег интереса. Други су овај модел користили наново за стварање отворених, транспарентних и сарадничких организација у <a href="{ $range }">разноразним</a> <a href="{ $areas }">областима</a>.
 history-the-future-is-full-of-challenges = Будућност носи исте бројне изазове и прилике као и наша прошлост.
 history-theres-no-guarantee-that = Не постоји гаранција да ће интернет остати отворен, пријатан и безбедан.
+history-mozilla-will-continue-to = Стога, { -brand-name-mozilla } ће наставити да пружа могућности људима да се изразе и да обликују своје животе на мрежи.
+history-of-course-were-not-alone = Наравно да нисмо сами у томе.
+history-the-mozilla-community-together = { -brand-name-mozilla } заједница, заједно са другим пројектима отвореног кода и организацијама од јавног интереса, постоји само због људи који су посвећени постизању ових заједничких циљева.
+# Variables:
+#   $contribute (url) link to https://www.mozilla.org/contribute/
+history-if-you-want-to-join-us-in = Ако желите да нас подржите у нашој мисији, <a href="{ $contribute }">прикључите се</a>.
+history-for-more-information-about = За више информација о историји { -brand-name-mozilla }-е, погледајте следеће:
 history-mozilla-bookmarks = { -brand-name-mozilla } обележивачи
 history-timeline-of-mozilla-project = Хронологија { -brand-name-mozilla } пројекта
+history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital Memory Bank
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">Историја { -brand-name-firefox }-а и { -brand-name-mozilla } постери</a> (доступни на енглеском и јапанском)
