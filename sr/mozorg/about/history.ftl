@@ -39,5 +39,16 @@ history-in-2003-the-mozilla-project = 2003. године, { -brand-name-mozilla 
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = Нова { -brand-name-mozilla-foundation } наставила је да свакодневно управља читавим пројектом и такође је званично преузела одговорност за промовисање <a href="{ $manifesto }">отворености, иновација и могућности</a> на интернету.
+# Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = То чини кроз континуирано издавање софтвера као што су { -brand-name-firefox } и { -brand-name-thunderbird }, као и ширењем на нове области, укључујући обезбеђивање <a href="{ $grants }">средстава</a> за пројекте који побољшавају приступачност на вебу.
+# Variables:
+#   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
+#   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> објављен је 2004. године и био је огроман успех — за мање од годину дана преузет је <a href="{ $millions }">преко 100 милиона пута</a>.
+history-new-versions-of-firefox = Нове { -brand-name-firefox } верзије се редовно објављују од тада и постављају нове рекорде. Популарност { -brand-name-firefox }-а помогла је да се избор врати корисницима.
+# Variables:
+#   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
+history-the-renewed-competition = Обновљено такмичење је довело до <a href="{ $innovation }">убрзања иновација</a> и унапредило је интернет у корист свију.
 history-mozilla-bookmarks = { -brand-name-mozilla } обележивачи
 history-timeline-of-mozilla-project = Хронологија { -brand-name-mozilla } пројекта
