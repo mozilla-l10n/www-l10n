@@ -63,5 +63,6 @@ history-more-people-than-ever-before = Интернет користи више 
 #   $areas (url) link to https://creativecommons.org/
 history-a-sustainable-organization = Створена је одржива организација која користи тржишне механизме да подржи мисију од општег интереса. Други су овај модел користили наново за стварање отворених, транспарентних и сарадничких организација у <a href="{ $range }">разноразним</a> <a href="{ $areas }">областима</a>.
 history-the-future-is-full-of-challenges = Будућност носи исте бројне изазове и прилике као и наша прошлост.
+history-theres-no-guarantee-that = Не постоји гаранција да ће интернет остати отворен, пријатан и безбедан.
 history-mozilla-bookmarks = { -brand-name-mozilla } обележивачи
 history-timeline-of-mozilla-project = Хронологија { -brand-name-mozilla } пројекта
