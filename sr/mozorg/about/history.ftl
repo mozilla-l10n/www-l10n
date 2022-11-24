@@ -50,5 +50,13 @@ history-new-versions-of-firefox = Нове { -brand-name-firefox } верзиј�
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Обновљено такмичење је довело до <a href="{ $innovation }">убрзања иновација</a> и унапредило је интернет у корист свију.
+# Variables:
+#   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
+history-in-2013-we-launched-firefox = 2013. године покренули смо <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> како би откључали пун потенцијал интернета на паметним телефонима и поново пружили избор и контролу новој генерацији интернет корисника.
+history-mozilla-also-celebrated = { -brand-name-mozilla } је прославила своју 15. годишњицу 2013. године.
+history-the-community-has-shown = Заједница је показала да комерцијалне компаније могу имати користи од сарадње на пројектима отвореног кода и да квалитетни производи за крајње кориснике могу бити произведени као софтвер отвореног кода.
+# Variables:
+#   $all (url) link to https://www.mozilla.org/firefox/all/
+history-more-people-than-ever-before = Интернет користи више људи него икад пре, и то <a href="{ $all }">на свом језику</a>.
 history-mozilla-bookmarks = { -brand-name-mozilla } обележивачи
 history-timeline-of-mozilla-project = Хронологија { -brand-name-mozilla } пројекта
