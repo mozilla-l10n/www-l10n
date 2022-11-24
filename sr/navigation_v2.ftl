@@ -85,5 +85,6 @@ navigation-v2-check-out-the-home-for-web = Истражите базу ресу�
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-explore-the-web-with-the = Истражите веб уз { -brand-name-firefox } прегледач за виртуелну стварност.
 navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Позајмите свој глас како би будућност интернета допрела до свакога.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Сазнајте више о новом језику ниског нивоа, налик асемблеру.
