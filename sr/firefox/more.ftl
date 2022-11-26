@@ -12,3 +12,7 @@ learn-more-faq = { -brand-name-firefox } ЧПП
 the-history-of = Историја веб прегледача
 firefox-has-been = { -brand-name-firefox } је један од пионира.
 firefox-rebel-with = { -brand-name-firefox }: Бунтовник са разлогом
+firefox-is-independent = { -brand-name-firefox } је независни прегледач. Подржава га непрофитна фондација { -brand-name-mozilla } која се бори за ваша веб права и ради на томе да интернет учини доступним и приступачним свима и свуда.
+what-is-a = Шта је веб прегледач?
+a-web-browser = Веб прегледач вас води било где на интернету и омогућава вам да прегледате текстове, слике и видео записе из целог света.
+update-your-browser = Надоградите на брз и безбедан { -brand-name-firefox } прегледач.
