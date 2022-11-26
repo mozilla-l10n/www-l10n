@@ -38,3 +38,7 @@ firefox-doesnt-spy = { -brand-name-firefox } не завирује у ваше �
 firefox-for-linux = { -brand-name-firefox } за { -brand-name-linux }
 new-school-meets = Нова школа се сусреће са старом у најбржем прегледачу до сада.
 firefox-for-windows = { -brand-name-firefox } за 64-битни { -brand-name-windows }
+we-worry-about = Бринемо о безбедности ваших података како ви не бисте морали.
+seven-of-the = Директно поређење седам најбољих прегледача
+we-compare-firefox = Поредимо { -brand-name-firefox } са { -brand-name-chrome }-ом, { -brand-name-edge }-ом, { -brand-name-safari }-јем, { -brand-name-opera }-ом, { -brand-name-brave }-ом и { -brand-name-ie }-ом како би вам помогли да одлучите.
+comparing-firefox-chrome = Поређење { -brand-name-firefox-browser } и { -brand-name-google } { -brand-name-chrome } прегледача
