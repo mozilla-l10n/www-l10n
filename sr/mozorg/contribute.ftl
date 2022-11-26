@@ -63,3 +63,5 @@ contribute-mozilla-support = { -brand-name-mozilla } подршка
 ## Web compat
 
 contribute-web-compat-heading = Проблеми са веб страницом?
+contribute-web-compat-desc = Ако приметите да се веб страница различито понаша у различитим прегледачима, можда сте открили проблем са компатибилношћу. Волели бисмо да нас обавестите!
+contribute-report-issue = Пријавите проблем
