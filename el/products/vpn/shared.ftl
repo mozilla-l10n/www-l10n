@@ -134,11 +134,18 @@ vpn-shared-affiliate-notification-ok = OK
 
 vpn-shared-increase-your-privacy = Ενισχύστε το απόρρητό σας με τα { -brand-name-vpn } + { -brand-name-relay }
 # Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Προσθέστε το { -brand-name-firefox-relay } στη συνδρομή σας για να προστατεύσετε το email και τον αριθμό τηλεφώνου σας. <a href="{ $url }">Μάθετε περισσότερα</a>.
+# Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Προσθήκη του <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Μάσκα email
 vpn-shared-relay-phone-masking = Μάσκα τηλεφώνου
 vpn-shared-get-vpn-plus-relay = Απόκτηση των { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Γιατί να αγοράσω πακέτο;
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Εξοικονομήστε { $percent }%</span> στο ετήσιο πρόγραμμα του { -brand-name-relay-premium }
 
 ##
 
