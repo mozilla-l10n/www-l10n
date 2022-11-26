@@ -36,3 +36,5 @@ easy-migration-of = Једноставна миграција подешавањ
 firefox-respects-your = { -brand-name-firefox } поштује вашу приватност на { -brand-name-mac-short }-у.
 firefox-doesnt-spy = { -brand-name-firefox } не завирује у ваше претраге. Ми блокирамо познате колачиће трећих страна и дајемо вам потпуну контролу.
 firefox-for-linux = { -brand-name-firefox } за { -brand-name-linux }
+new-school-meets = Нова школа се сусреће са старом у најбржем прегледачу до сада.
+firefox-for-windows = { -brand-name-firefox } за 64-битни { -brand-name-windows }
