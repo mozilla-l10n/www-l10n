@@ -27,9 +27,15 @@ contribute-task-mozilla-codebase-heading = Допринесите { -brand-name-
 contribute-task-mozilla-codebase-desc = Доприносећи различитим развојним пројектима активно побољшавајте { -brand-name-mozilla } производе.
 contribute-task-support-desc = Помозите да { -brand-name-mozilla } производи буду лаки за коришћење. Одговарајте на „помоћ“ питања на { -brand-name-mozilla } форуму подршке.
 contribute-task-join-heading = Придружите се заједници
+contribute-task-join-desc = Желите да се више укључите у { -brand-name-mozilla } заједницу? Погледајте све прилике за волонтере на нашем порталу заједнице.
 
 ## Mission
 
+contribute-mission-heading = Наша мисија
+contribute-mission-desc = Наша мисија је да обезбедимо отворен и приступачан интернет за све - глобални јавни ресурс. Интернет који је истински усмерен на људе и где оснажени, безбедни и независни појединци могу да обликују искуство по својој мери.
+contribute-learn = Сазнајте више о { -brand-name-mozilla }-и
+contribute-read-manifesto = Прочитејте наш манифест
+contribute-find-event = Пронађите догађаје
 
 ## Made by
 
