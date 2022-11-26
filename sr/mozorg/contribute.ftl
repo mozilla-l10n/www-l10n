@@ -15,6 +15,8 @@ contribute-how-heading = Како да допринесете…
 
 ## Contribution tasks
 
+contribute-tag-non-technical = Нетехнолошке ствари
+contribute-tag-technical = Технолошке ствари
 
 ## Mission
 
