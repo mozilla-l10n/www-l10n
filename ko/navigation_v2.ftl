@@ -68,6 +68,8 @@ navigation-v2-careers = 채용
 navigation-v2-work-for-a-mission-driven-updated = 사람을 최우선으로 하는 제품을 만드는 미션 중심의 조직을 위해 일합니다.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 블로그
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla }와 우리에게 중요한 문제에 대해 알아보세요.
+navigation-v2-stories = 이야기
+navigation-v2-stories-about-how = 우리와 제품이 어떻게 세상을 더 나은 방향으로 변화시키고 있는지에 대한 이야기입니다.
 navigation-v2-more-about-mozilla = { -brand-name-mozilla }에 대한 자세한 정보
 
 ## Innovation menu
@@ -86,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = 웹의 미래가 모두의 말소리를 들을 수 있도록 목소리를 기부하세요.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = 새로운 로우 레벨, 어셈블리어와 유사한 언어에 대해 자세히 알아보세요.
-navigation-v2-more-mozilla-innovation = 더 많은 { -brand-name-mozilla }의 혁신
