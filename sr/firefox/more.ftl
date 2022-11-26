@@ -27,3 +27,6 @@ firefox-more-while-on-chromebook = Иако { -brand-name-chromebook } има в
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } је био револуција у развоју { -brand-name-firefox }-а. 2017. године направили смо нови, муњевито брз прегледач који се стално развија. { -brand-name-firefox-quantum } је { -brand-name-firefox-browser }.
 firefox-more-little-book = Мала књига о приватности
+firefox-more-you-can-reclaim = Можете вратити своју приватност и преузети потпуну контролу над својим искуством на мрежи! У ствари, то је врло једноставно. Свако то може.
+firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-more-access-your-sync = Користите и синхронизујте обележиваче, лозинке, отворене језичке и друго где год да користите { -brand-name-firefox }.
