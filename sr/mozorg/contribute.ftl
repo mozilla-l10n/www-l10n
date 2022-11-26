@@ -15,8 +15,16 @@ contribute-how-heading = Како да допринесете…
 
 ## Contribution tasks
 
-contribute-tag-non-technical = Нетехнолошке ствари
-contribute-tag-technical = Технолошке ствари
+contribute-tag-non-technical = Нетехничко
+contribute-tag-technical = Техничко
+contribute-tag-technical-non-technical = Техничко и нетехничко
+contribute-tag-individual-event = Појединачно и у групама
+contribute-tag-individual = Појединачно
+contribute-tag-support = Подршка
+contribute-task-translate-heading = Преводите садржај
+contribute-task-translate-desc = Интернет ће заиста бити за свакога ако га сви разумеју. Помозите нам да преведемо { -brand-name-mozilla } производе и сајтове на ваш језик.
+contribute-task-mozilla-codebase-heading = Допринесите { -brand-name-mozilla } бази кодова
+contribute-task-mozilla-codebase-desc = Доприносећи различитим развојним пројектима активно побољшавајте { -brand-name-mozilla } производе.
 
 ## Mission
 
