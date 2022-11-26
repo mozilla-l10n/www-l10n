@@ -25,6 +25,8 @@ contribute-task-translate-heading = Преводите садржај
 contribute-task-translate-desc = Интернет ће заиста бити за свакога ако га сви разумеју. Помозите нам да преведемо { -brand-name-mozilla } производе и сајтове на ваш језик.
 contribute-task-mozilla-codebase-heading = Допринесите { -brand-name-mozilla } бази кодова
 contribute-task-mozilla-codebase-desc = Доприносећи различитим развојним пројектима активно побољшавајте { -brand-name-mozilla } производе.
+contribute-task-support-desc = Помозите да { -brand-name-mozilla } производи буду лаки за коришћење. Одговарајте на „помоћ“ питања на { -brand-name-mozilla } форуму подршке.
+contribute-task-join-heading = Придружите се заједници
 
 ## Mission
 
