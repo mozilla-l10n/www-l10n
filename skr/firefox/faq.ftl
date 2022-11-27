@@ -29,6 +29,7 @@ what-is-firefox = { -brand-name-firefox } کیا ہے؟
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = بھلا { -brand-name-firefox } محفوظ ہے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
