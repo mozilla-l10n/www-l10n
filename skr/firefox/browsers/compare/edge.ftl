@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
+# HTML page title.
+compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } بمقابلہ { -brand-name-microsoft } { -brand-name-edge }: تہاݙے کیتے بہتر براؤزر کہڑا ہے؟
 # Main title.
 compare-edge-comparing-firefox-browser-with = { -brand-name-firefox-browser } دا  { -brand-name-microsoft }{ -brand-name-edge } دے نال ویورا کرݨ
