@@ -14,3 +14,4 @@ compare-edge-comparing-firefox-browser-with = ປຽບທຽບ { -brand-name-f
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = <a { $attrs }>ການປົກປ້ອງຄວາມເປັນສ່ວນຕົວ</a> ຂອງເຈົ້າສະແດງໃຫ້ເຈົ້າເຫັນຕົວຕິດຕາມ ແລະຄຸກກີ້ທີ່ໜ້າເວັບໄດ້ພະຍາຍາມອອກ, ແລະຈຳນວນ { -brand-name-firefox } ໄດ້ບລັອກໃຫ້ທ່ານ.
+compare-edge-both-browsers-are-relatively = ຕົວທ່ອງເວັບທັງສອງແມ່ນຂ້ອນຂ້າງເທົ່າທຽມກັນໃນແງ່ຂອງການເຂົ້າລະຫັດຂໍ້ມູນ. ແນວໃດກໍ່ຕາມ, ຖ້າຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມໂປ່ງໃສທາງອອນລາຍແມ່ນສໍາຄັນຕໍ່ກັບເຈົ້າ, { -brand-name-firefox } ແມ່ນເປັນທາງເລືອກທີ່ດີກວ່າຢູ່ທີ່ນີ້.
