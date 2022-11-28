@@ -27,6 +27,10 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Мы робім усё ма
 firefox-privacy-hub-data-security-is-complicated = Бяспека дадзеных складаная — ці, па меншай меры, павінна быць. Вось чаму мы робім дадатковыя крокі для класіфікацыі звестак, якія ў нас ёсць, падтрымліваем правілы захоўвання і аховы кожнага тыпу, і ўвесь час удасканальваем нашы працэсы. Мы аддаём перавагу вашай прыватнасці. Мы інвестуем у гэта. Мы адданыя гэтаму. Мы нават вучым іншыя кампаніі, як гэта рабіць.
 firefox-privacy-hub-no-secrets = Ніякіх сакрэтаў
 firefox-privacy-hub-youll-always-know-where-you = Вы заўсёды будзеце ведаць, дзе вы з намі
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Тут няма схаванага плана. Наш бізнес не залежыць ад таемнага злоўжывання вашым даверам. Наша <a href="{ $privacy }">Паведамленне аб прыватнасці</a> сапраўды можна чытаць. Любы чалавек у свеце можа наведваць нашы <a href="{ $meetings }">штотыднёвыя сустрэчы кампаніі</a>. Калі вы хочаце паглыбіцца ў кожную кропку звестак, якія мы збіраем, наш код адкрыты. І мы таксама.
 firefox-privacy-hub-why-trust-firefox = Чаму варта давяраць { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
