@@ -39,6 +39,7 @@ firefox-privacy-hub-learn-more-about-our-mission = Даведайцеся бол
 firefox-privacy-hub-your-privacy-by-the-product = Ваша прыватнасць, дзякуючы прадукту
 firefox-privacy-hub-firefox-products-work-differently = Прадукты { -brand-name-firefox } працуюць па-іншаму — таму што яны створаны для аховы вашай прыватнасці ў першую чаргу.
 firefox-privacy-hub-learn-about-our-products = Даведайцеся аб нашых прадуктах
+firefox-privacy-hub-firefox-privacy-by-the = Прыватнасць прадуктаў { -brand-name-firefox }
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ахоўвае вашу прыватнасць у кожным прадукце.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>ахоўвае</strong> вашу прыватнасць у кожным прадукце.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
