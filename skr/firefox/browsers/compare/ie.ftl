@@ -7,3 +7,5 @@
 
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } بمقابلہ { -brand-name-ie }: تہاݙے کیتے بہتر براؤزر کہڑا ہے؟
+# Main title
+compare-ie-comparing-firefox-browser-with = { -brand-name-microsoft }{ -brand-name-ie } نال { -brand-name-firefox-browser } دا ویورا کرݨ
