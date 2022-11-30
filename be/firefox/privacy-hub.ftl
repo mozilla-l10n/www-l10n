@@ -18,7 +18,7 @@ firefox-privacy-our-promise = Наша абяцанне
 # Sub navigation link
 firefox-privacy-our-products = Нашы прадукты
 firefox-privacy-hub-you-should-be-able-to-decide = Вы павінны мець магчымасць самі вырашаць, хто бачыць вашу асабістую інфармацыю. Не толькі сярод сваіх сяброў, але і сярод усіх рэкламадаўцаў і кампаній у інтэрнэце — уключаючы нас.
-firefox-privacy-hub-thats-why-everything-we-make = Вось чаму ўсё, што мы ствараем і робім, ушаноўвае наша абяцанне наконт асабістых дадзеных
+firefox-privacy-hub-thats-why-everything-we-make = Вось чаму ўсё, што мы ствараем і робім, ушаноўвае наша абяцанне наконт асабістых даных
 firefox-privacy-hub-take-less = Збіраем менш даных
 firefox-privacy-hub-we-make-a-point-of-knowing = Мы вырашылі ведаць пра вас менш
 firefox-privacy-hub-all-tech-companies-collect = Усе тэхналагічныя кампаніі збіраюць звесткі для паляпшэння сваёй прадукцыі. Але гэта не павінна ўключаць шмат вашай асабістай інфармацыі. Адзіныя звесткі, якія нам патрэбныя — гэта тыя, што ў выніку служаць вам. Мы пытаем сябе: ці сапраўды яны нам патрэбныя? Для чаго гэта нам трэба? І калі мы можам іх выдаліць?
@@ -52,6 +52,7 @@ firefox-privacy-hub-download-the-firefox-browser = Спампаваць браў
 firefox-privacy-hub-update-your-firefox-browser = Абнавіць свой браўзер { -brand-name-firefox }
 firefox-privacy-hub-invisible-to-the-top-trackers = Нябачны для самых пашыраных трэкераў
 firefox-privacy-hub-always-in-your-control = Заўсёды пад вашым кантролем
+firefox-privacy-hub-want-to-customize-what = Хочаце наладзіць, што блакіраваць? Вашы налады даступныя ў адзін клік.
 firefox-privacy-hub-protection-beyond-tracking = Ахова за межамі асочвання
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
