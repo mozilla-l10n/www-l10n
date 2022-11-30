@@ -70,6 +70,7 @@ firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } рэкамендуе высакаякасныя артыкулы, падрыхтаваныя чалавекам, без збору вашай гісторыі прагляду сайтаў і перадачы вашай асабістай інфармацыі рэкламадаўцам.
 firefox-privacy-hub-get-pocket = Атрымаць { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Уся інфармацыя, сінхранізаваная праз ваш { -brand-name-firefox-account } — ад гісторыі браўзера да пароляў — зашыфравана. І пароль вашага ўліковага запісу — адзіны ключ.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Бярыце з сабой сваю прыватнасць і закладкі паўсюль з { -brand-name-firefox-account }.
 # Variables:
 #   $signin (string) - anchor link url and attributes
