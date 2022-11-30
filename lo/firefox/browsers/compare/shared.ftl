@@ -11,12 +11,16 @@ compare-shared-yes = ແມ່ນ
 compare-shared-no = ບໍ່
 compare-shared-private-browsing-mode = ໂໝດການຊອກຫາສ່ວນຕົວ
 compare-shared-blocks-third-party-tracking-default = ບລັອກຄຸກກີ້ການຕິດຕາມພາກສ່ວນທີສາມຕາມຄ່າເລີ່ມຕົ້ນ
+# Obsolete string
+compare-shared-blocks-third-party-tracking = ບລັອກຄຸກກີຕິດຕາມພາກສ່ວນທີສາມ
 compare-shared-blocks-cryptomining-scripts = ປິດກັ້ນສະຄິບການຂຸດຫຼຽນດີຈິຕອນ
 compare-shared-blocks-fingerprinting-scripts = ປິດກັ້ນສະຄິບລາຍນີ້ວມືດີຈິຕອນ
+compare-shared-blocks-social-trackers = ປິດກັ້ນຜູ້ຕິດຕາມສັງຄົມ
 compare-shared-autoplay-blocking = ການປິດກັ້ນການຫຼິ້ນອັດຕະໂນມັດ
 compare-shared-tab-browsing = ແຖບຊອກຫາ
 compare-shared-bookmark-manager = ໂຕຈັດການບຸກມາກ
 compare-shared-automatically-fills-out-forms = ຕື່ມແບບຟອມອັດຕະໂນມັດ
+compare-shared-search-engine-options = ທາງເລືອກຂອງເຄື່ອງຈັກຊອກຫາ
 compare-shared-text-to-speech = ຂໍ້ຄວາມເປັນສຽງເວົ້າ
 compare-shared-reader-mode = ໂໝດຜູ້ອ່ານ
 compare-shared-spell-checking = ການກວດສອບການສະກົດຄໍາ
