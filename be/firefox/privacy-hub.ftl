@@ -44,6 +44,8 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ах
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>ахоўвае</strong> вашу прыватнасць у кожным прадукце.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Больш за 2000 трэкераў заблакіравана — аўтаматычна
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-tracking-has-become-an = Асочванне ператварылася ў анлайн-эпідэмію: кампаніі сочаць за кожным крокам, націскам і купляй, збіраючы даныя, каб прадказаць і паўплываць на тое, што вы будзеце рабіць далей. Мы лічым, што гэта грубае ўварванне ў ваша асабістае жыццё. Вось чаму { -brand-name-firefox } для мабільных і камп'ютараў пастаўляецца з адразу ўключанай  Узмоцненай аховай ад сачэння.
 firefox-privacy-hub-if-you-want-to-see-what = Калі хочаце даведацца, што { -brand-name-firefox } блакуе, наведайце гэтую старонку ў сваім браўзеры { -brand-name-firefox } для камп'ютара.
 firefox-privacy-hub-see-what-firefox-has-blocked = Паглядзіце, што { -brand-name-firefox } заблакіраваў для вас
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
