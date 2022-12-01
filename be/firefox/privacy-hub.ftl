@@ -68,6 +68,7 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Паролі і звесткі для ўваходу, якія вы захоўваеце ў { -brand-name-firefox-lockwise }, зашыфраваны на ўсіх вашых прыладах, таму нават мы не можам іх бачыць.
 firefox-privacy-hub-learn-more-about-lockwise = Даведацца больш пра { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Мы не можам бачыць назвы або змесціва вялікіх файлаў, якімі вы дзеліцеся праз { -brand-name-firefox-send }, таму што яны зашыфраваны скразным шыфраваннем — вы выбіраеце, хто бачыць тое, што вы адпраўляеце, і нават можаце задаць тэрмін дзеяння і пароль.
 firefox-privacy-hub-send-a-file = Адправіць файл
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } рэкамендуе высакаякасныя артыкулы, падрыхтаваныя чалавекам, без збору вашай гісторыі прагляду сайтаў і перадачы вашай асабістай інфармацыі рэкламадаўцам.
