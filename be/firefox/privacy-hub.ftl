@@ -62,6 +62,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Калі ў вас ёсць 
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Больш за { $trackers } трэкераў блакуюцца кожны дзень для карыстальнікаў { -brand-name-firefox } па ўсім свеце
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Калі вы ўводзіце свой адрас электроннай пошты ў { -brand-name-firefox-monitor }, мы адразу ж забываем яго пасля таго, як праверым яго наяўнасць у вядомых уцечках даных — калі толькі вы не дазволіце нам працягваць асочваць з'яўленне вашых асабістых звестак у новых уцечках даных.
 firefox-privacy-hub-check-for-breaches = Праверыць на ўцечкі
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Паролі і звесткі для ўваходу, якія вы захоўваеце ў { -brand-name-firefox-lockwise }, зашыфраваны на ўсіх вашых прыладах, таму нават мы не можам іх бачыць.
