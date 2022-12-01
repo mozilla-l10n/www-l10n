@@ -16,3 +16,4 @@ mobile-android-get-firefox-for = ติดตั้ง { -brand-name-firefox } �
 mobile-android-send-a-download-link-to-your = ส่งลิงก์ดาวน์โหลดไปที่โทรศัพท์ของคุณ
 mobile-android-scan-the-qr-code-to-get-started = สแกนรหัส QR เพื่อเริ่มต้น
 mobile-android-scan-alt-text = สแกนรหัส QR เพื่อดาวน์โหลด { -brand-name-firefox } บน { -brand-name-android }
+mobile-android-fast-and-private = เร็วและเป็นส่วนตัว
