@@ -7,7 +7,7 @@
 
 about-shared-about-mozilla = О { -brand-name-mozilla }-и
 about-shared-mission = Мисија
-about-shared-history = Историјат
+about-shared-history = Историја
 about-shared-leadership = Руководство
 about-shared-governance = Управа
 about-shared-forums = Форуми
