@@ -14,9 +14,9 @@ vpn-landing-page-desc = გამოიყენოთ { -brand-name-mozilla-vpn
 vpn-landing-hero-sub-heading-v2 = უსაფრთხოება, საიმედოობა და სიჩქარე — ყველა მოწყობილობაზე, სადაც არ უნდა იყოთ.
 # Obsolete string
 vpn-landing-hero-sub-heading = უსაფრთხოება, რომელსაც შეგიძლიათ დაეყრდნოთ. სახელი, რომელსაც ენდობით.
-vpn-landing-hero-desc = წარმოსახვითი კერძო ქსელი, { -brand-name-firefox }-ის შემქმნელებისგან.
+vpn-landing-hero-desc = წარმოსახვითი კერძო ქსელი { -brand-name-firefox }-ის შემქმნელებისგან.
 vpn-landing-privacy-heading = პირადულობა ერთი წკაპით
-vpn-landing-privacy-desc = მოინახულეთ, გაუშვით პირდაპირ ეთერში, ითამაშეთ და იმუშავეთ, პირადულობის დაცვით. არ აქვს მნიშვნელობა მგზავრობთ, საჯარო WiFi-ს იყენებთ თუ უბრალოდ მეტი უსაფრთხოება გსურთ, ჩვენთვის თქვენი პირადულობა, მუდამ უპირველესია.
+vpn-landing-privacy-desc = მოინახულეთ, გაუშვით პირდაპირ ეთერში, ითამაშეთ და იმუშავეთ პირადულობის დაცვით. არ აქვს მნიშვნელობა მგზავრობთ, საჯარო WiFi-ს იყენებთ, თუ მხოლოდ მეტი უსაფრთხოება გსურთ, ჩვენთვის თქვენი პირადულობა მუდამ უპირველესია.
 vpn-landing-fast-secure-heading = სწრაფი და დაცული ქსელი
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
@@ -45,14 +45,14 @@ vpn-landing-faq-uses-question-desc = ვინაიდან ყოველდ
 vpn-landing-faq-uses-conceal-v2 = ფარავს თქვენს ნამდვილ <a href="{ $url }">IP-მისამართს</a>. გიცავთ ვინაობისა და მდებარეობის გამჟღავნებისგან.
 # Obsolete string
 vpn-landing-faq-uses-conceal = ფარავს თქვენს ნამდვილ IP-მისამართს. გიცავთ ვინაობისა და მდებარეობის გამჟღავნებისგან.
-vpn-landing-faq-uses-encrypt = შიფრავს მიმოცვლილ მონაცემებს თქვენსა და VPN-ის მომწოდებელს შორის და ვერავინ ადგილობრივ ქსელში, ვერ შეძლებს მის ამოკითხვას ან ჩანაცვლებას.
+vpn-landing-faq-uses-encrypt = შიფრავს მიმოცვლილ მონაცემებს თქვენსა და VPN-ის მომწოდებელს შორის და ვერავინ ადგილობრივ ქსელში ვერ შეძლებს მის ამოკითხვას ან ჩანაცვლებას.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = გაეცანით <a href="{ $url }">ხუთ ცხოვრებისეულ მაგალითს</a> თუ რისთვისაა გამოსადეგი VPN თქვენს მოწყობილობაზე.
 vpn-landing-faq-info-question-heading = რა მონაცემებს ინახავს { -brand-name-mozilla-vpn }?
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = ჩვენ მკაცრად მივყვებით { -brand-name-mozilla }-ს <a href="{ $principles }">მონაცემების პირადულობის დებულებებს</a> და ვაგროვებთ მხოლოდ იმ ინფორმაციას, რომელიც აუცილებელია VPN-ის გამართულად მუშაობისთვის და დროდადრო გასაუმჯობესებლად. ჩვენ, აგრეთვე თვალს ვადევნებთ სარეკლამო კამპანიას და მასთან დაკავშირებულ მონაცემებს, მობილური აპლიკაციით, რომ { -brand-name-mozilla }-მ შეძლოს გაწეული სამუშაოების სარგებლიანობის განსაზღვრა. ვრცლად იხილეთ <a href="{ $notice }">პირადულობის ჩვენი განაცხადი</a>.
 # Obsolete string
 # Variables:
@@ -156,7 +156,7 @@ vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = „შემოუერთდით მსურველების“ ღილაკზე დაწკაპებით, ეთანხმებით ჩვენი  <a href="{ $privacy }">პირადულობის დებულებას</a>.
 vpn-landing-invite-your-information = თქვენი ინფორმაცია, მხოლოდ ხელმისაწვდომობის შესატყობინებლად იქნება გამოყენებული.
 vpn-landing-invite-thanks-heading = გმადლობთ! ჩაწერილი ხართ
