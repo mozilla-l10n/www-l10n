@@ -37,6 +37,7 @@ firefox-accounts-share-large-files = Partekatu fitxategi handiak kuxkuxeroen beg
 firefox-accounts-get-it-all-on-every = Eskuratu guztia edozein gailutatik, sistema eragile batera lotua sentitu gabe.
 firefox-accounts-and-get-it-all-on = Eta eskuratu guztia edozein gailutatik, sistem eragile batera lotua sentitu gabe.
 firefox-accounts-get-the-respect-you = Jaso merezi duzun errespetua.
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Beti esango dizugu egia. Egiten dugun guztia gure <a href="{ $promise }">Datu Pertsonalen Zin-egitea</a>rekin bat dator:

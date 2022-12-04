@@ -33,6 +33,7 @@ firefox-all-get-a-sneak-peek-at = Bota begirada bizkor bat { -brand-name-firefox
 firefox-all-test-your-sites-against = Probatu zure webguneak argitaratzear den { -brand-name-firefox } nabigatzailearen eginbideen gainean, defektuz gaituta dauden garatzaile-tresna boteretsu eta malguekin.
 firefox-all-count-on-stability-and = Enpresetarako eraikitako { -brand-name-firefox } nabigatzaile honek egonkortasuna eta erabilerraztasuna ziurtatzen ditu.
 firefox-all-windows-installers-for = Ingurune korporatiboko Windowserako instalatzaileak, { -brand-name-firefox-browser } nabigatzailearen konfigurazioa, instalazioa eta kudeaketa sinplifikatzen dutenak.
+firefox-all-product-send-link = Bidali deskargatzeko lotura mugikorrera
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Aukeratu 32 biteko instalatzaile bat 32 biteko prozesagailudun ordenagailuetarako — edo ordenagailu zahar edo potentzia gutxikoentzako. <a href="{ $url }">Ez bazaude ziur</a> 64 edo 32 biteko instalatzailea den behar duzuna, 32 bitekoarekin probatzea gomendatzen dizugu.
@@ -54,3 +55,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
