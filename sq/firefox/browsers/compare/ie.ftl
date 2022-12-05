@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
@@ -12,7 +12,7 @@ compare-ie-compare-internet-explorer-to = Krahasoni { -brand-name-ie }-in me { -
 # Main title
 compare-ie-comparing-firefox-browser-with = Krahasim i { -brand-name-firefox-browser }-it me { -brand-name-microsoft } { -brand-name-ie }
 compare-ie-while-microsofts-internet-explorer = Teksa { -brand-name-ie }-i i { -brand-name-microsoft }-it ende vjen i parainstaluar në shumicën e PC-ve me bazë Windows, { -brand-name-microsoft }-i qartazi do të parapëlqente që ju të përdornit shfletuesin e tyre { -brand-name-edge }, i cili është vënë si parazgjedhje, kur blini një kompjuter të tillë.
-compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft }-i e ndali prodhimin e markës { -brand-name-ie } disa vite më parë, në favor të shfletuesit të vet të përditësuar { -brand-name-edge } për { -brand-name-windows } 10. Por adoptimi i ngadaltë i { -brand-name-edge }-it la vend që { -brand-name-ie } të vazhdojë të ekzistojë, kryesisht për arsye përputhshmërie për bizneset.
+compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft }-i e ndali prodhimin e markës { -brand-name-ie } disa vite më parë, në favor të shfletuesit të vet të përditësuar { -brand-name-edge } për { -brand-name-windows } 10. Por adoptimi i ngadaltë i { -brand-name-edge }-it la vend që { -brand-name-ie } të vazhdojë të ekzistojë, kryesisht për arsye përputhjeje për bizneset.
 compare-ie-here-well-compare-our-firefox = Këtu do të krahasojmë { -brand-name-firefox-browser } tonë me { -brand-name-ie }-in, për sa i takon sigurisë, veçorive dhe bartjes. Do t’ju ndihmojmë të kuptoni dallimet mes një shfletuesi modern, i tillë si { -brand-name-firefox }-i që pajtohet me standardet web dhe shfletuesit që mund të jeni duke e përdorur për biznesin ose për hatër huqesh të vjetra që vdesin me zor.
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
