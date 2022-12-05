@@ -13,6 +13,7 @@ mobile-compare-which-mobile-browser = เบราว์เซอร์มือ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>คุณลักษณะ</strong>
 mobile-compare-features = คุณลักษณะ
+mobile-compare-what-can-your = เบราว์เซอร์ของคุณทำอะไรให้คุณได้บ้าง?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>การซิงค์</strong>
 mobile-compare-syncing = การซิงค์
@@ -32,6 +33,8 @@ mobile-compare-news-feed = ฟีดข่าว
 mobile-compare-collections = ชุดสะสม
 mobile-compare-inapp-vpn = VPN ในแอป
 mobile-compare-shopping = การซื้อของ
+mobile-compare-mobile-os-availability = ความพร้อมใช้งานของระบบปฏิบัติการมือถือ
+mobile-compare-password-management = การจัดการรหัสผ่าน
 mobile-compare-primary-password = รหัสผ่านหลัก
 mobile-compare-get-firefox-for-mobile = รับ { -brand-name-firefox } สำหรับมือถือ
 mobile-compare-send-a-download-link-to-your = ส่งลิงก์ดาวน์โหลดไปที่โทรศัพท์ของคุณ

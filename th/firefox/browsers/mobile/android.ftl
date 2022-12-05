@@ -17,3 +17,5 @@ mobile-android-send-a-download-link-to-your = ส่งลิงก์ดาว�
 mobile-android-scan-the-qr-code-to-get-started = สแกนรหัส QR เพื่อเริ่มต้น
 mobile-android-scan-alt-text = สแกนรหัส QR เพื่อดาวน์โหลด { -brand-name-firefox } บน { -brand-name-android }
 mobile-android-fast-and-private = เร็วและเป็นส่วนตัว
+mobile-android-pin-videos-to = ปักหมุดวิดีโอบนหน้าจอของคุณ
+mobile-android-about-mozilla = เกี่ยวกับ { -brand-name-mozilla }
