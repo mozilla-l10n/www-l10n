@@ -27,5 +27,5 @@ nightly-whatsnew-want-to-know-which-v2 = Doni të dini se cilat veçori të plat
 nightly-whatsnew-want-to-know-which = Doni të dini se cilat veçori platforme mund të testonit në { -brand-name-nightly } dhe që s’i shihni dot ende në kanale të tjera { -brand-name-firefox }-i? Atëherë hidhni një sy te faqja <a href="{ $mdn }">Veçori Eksperimentale</a> te <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }-ja</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
-nightly-whatsnew-do-you-experience = Hasni vithisje? Sjellje të papritura? Hapa prapa përputhshmërish në Web? Do të donim shumë të parashtroheshin te <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> për të garantuar se nuk mbërrijnë te hedhja përfundimtare në qarkullim (ekstra karma, nëse shtoni fjalëkyçin <em>{ -brand-name-nightly }-community</em> te njoftimet tuaja të metave)!
+nightly-whatsnew-do-you-experience = Hasni vithisje? Sjellje të papritura? Hapa prapa në përputhje Web? Do të donim shumë të parashtroheshin te <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> për të garantuar se nuk mbërrijnë te hedhja përfundimtare në qarkullim (ekstra karma, nëse shtoni fjalëkyçin <em>{ -brand-name-nightly }-community</em> te njoftimet tuaja të metave)!
 nightly-whatsnew-go-community = Përpara, bashkësi!

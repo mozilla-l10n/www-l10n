@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/contribute/
@@ -63,5 +63,5 @@ contribute-mozilla-support = Asistencë { -brand-name-mozilla }
 ## Web compat
 
 contribute-web-compat-heading = Probleme me një faqe web?
-contribute-web-compat-desc = Nëse funksionimi i një sajti për ju ndryshon nga një shfletues në tjetrin, mundet të keni zbuluar një problem përputhshmërie web-i. Do të donim fort të na e bëni të ditur!
+contribute-web-compat-desc = Nëse funksionimi i një sajti për ju ndryshon nga një shfletues në tjetrin, mundet të keni zbuluar një problem përputhjeje web-i. Do të donim fort të na e bëni të ditur!
 contribute-report-issue = Njoftoni një problem
