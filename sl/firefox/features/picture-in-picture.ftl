@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
 
+# HTML page title
+features-pip-firefox-picture-in-picture-get-more = Slika v sliki v { -brand-name-firefox(sklon: "mestnik") }: Videoposnetki v posebnih okencih
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Imate opravke, čeprav bi raje gledali videoposnetke? { -brand-name-firefox }ova možnost slike v sliki vam omogoča oboje hkrati.
 features-pip-new-feature-firefox-multi-picture = Novo: več slik v sliki v { -brand-name-firefox(sklon: "mestnik") }
+features-pip-cool-feature-picture-in-picture = Sijajna zmožnost: slika v sliki
+features-pip-get-more-done-with-pop-out-videos = Bodite spretnejši z videoposnetki v posebnih okencih
 features-pip-play-the-video = Predvajaj videoposnetek
 features-pip-heres-how-it-works = Kako deluje:
 features-pip-play-any-video-in-your-updated = <strong>Predvajajte katerikoli videoposnetek</strong> v { -brand-name-firefox(sklon: "mestnik") }, na primer tega.
