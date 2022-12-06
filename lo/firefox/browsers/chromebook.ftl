@@ -9,6 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = ເອົາ { -brand-name-firefox-browser } ສໍາລັບ { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = ດັ່ງນັ້ນ, ທ່ານມີ { -brand-name-chromebook } — ດຽວນີ້ເຖິງເວລາແລ້ວທີ່ຈະເອົາ { -brand-name-firefox-browser } ທີ່ເປັນເອກະລາດ, ສ່ວນຕົວໂດຍອັດຕະໂນມັດເພື່ອປົກປ້ອງຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ.
 browsers-chromebook-browsers-chromebook-get-firefox-for = ໂຫລດ { -brand-name-firefox } ສຳລັບ { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = ເອົາ { -brand-name-firefox } ສໍາລັບ { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = *x86 based { -brand-name-chromebook } ແລ່ນ { -brand-name-chromeos } 80 ຫຼືຫຼັງຈາກນັ້ນ
