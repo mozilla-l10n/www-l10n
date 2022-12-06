@@ -5,6 +5,7 @@
 newsletter-form-please-enter-a-valid = Por favor, ingresa una dirección de correo electrónico válida
 newsletter-form-you-must-agree-to = Debes aceptar el aviso de privacidad
 newsletter-form-your-email-address = Tu dirección de correo electrónico
+newsletter-form-please-select-country = Por favor selecciona un país o región
 newsletter-form-please-select-language = Por favor, selecciona un idioma
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = tunombre@ejemplo.com
