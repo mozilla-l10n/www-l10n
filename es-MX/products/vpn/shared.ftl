@@ -139,6 +139,10 @@ vpn-shared-add-firefox-relay = Agregar <span class="{ $class_name }">{ -brand-na
 vpn-shared-relay-email-masking = Enmascaramiento de correo electrónico
 vpn-shared-relay-phone-masking = Enmascaramiento de teléfono
 vpn-shared-get-vpn-plus-relay = Obtén { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = ¿Por qué agrupar?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Ahorra { $percent }%</span> en { -brand-name-relay-premium } plan anual
 
 ##
 

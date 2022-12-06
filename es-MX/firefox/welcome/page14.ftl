@@ -8,3 +8,4 @@
 welcome-page14-copy-code = Copiar código
 welcome-page14-code-copied = ¡Código copiado!
 welcome-page14-very-fast = Es rápido, muy rápido
+welcome-page14-why-see-this = ¿Por qué estoy viendo esto?
