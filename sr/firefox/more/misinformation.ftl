@@ -7,3 +7,6 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Избегните дезинформације на вебу – { -brand-name-firefox } је ту да вам помогне
+misinformation-page-desc = Дезинформације су досадне, ометају вас, а притом су и скупе. { -brand-name-firefox } има савете како да их избегнете и смањите вероватноћу да их видите док прегледате веб.
+misinformation-page-subheading = Погледајте савете како да видите мање дезинформација и да се усредсредите на оно што је важно
+misinformation-what-is-heading = Шта су то дезинформације?
