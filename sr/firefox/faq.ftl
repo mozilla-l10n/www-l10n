@@ -37,14 +37,19 @@ no-we-dont = Не, не мислимо да је { -brand-name-chrome } бољи
 
 see-how-firefox = <a href="{ $url }">Погледајте { -brand-name-firefox } у поређењу са { -brand-name-chrome }-ом.</a>
 related-questions-better = Повезана питања: је ли { -brand-name-firefox } бољи од { -brand-name-chrome }-а, је ли { -brand-name-firefox } бољи од { -brand-name-google }-а, је ли { -brand-name-firefox } безбеднији од { -brand-name-chrome }-а, је ли { -brand-name-firefox } приватнији од { -brand-name-chrome }-а
+is-firefox-safe-download = Је ли { -brand-name-firefox } безбедан за преузимање?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Заштита ваше приватности је наш приоритет број један и гарантујемо да је { -brand-name-firefox } безбедан за инсталирање. Само будите сигурни да преузимате са поузданог { -brand-name-mozilla }/{ -brand-name-firefox } сајта, као што је <a href="{ $url }">наша страница за преузимање.</a>
+is-firefox-safe = Је ли { -brand-name-firefox } безбедан?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = Не само да је безбедан за коришћење, { -brand-name-firefox } још и помаже да ваши лични подаци буду безбедни. { -brand-name-firefox-browser } аутоматски блокира познате елементе за праћење, и са трећих страна и са друштвених медија, затим крипторударе и сакупљаче дигиталних отисака. <a href="{ $url }">Сазнајте више о функцијама приватности наших производа.</a>
+related-questions-safe = Повезана питања: је ли { -brand-name-firefox } добар за приватност, је ли { -brand-name-firefox } безбедан, је ли { -brand-name-firefox } бољи за приватност
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
