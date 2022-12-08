@@ -14,3 +14,8 @@ learn-more-about = Сазнајте више о { -brand-name-firefox-quantum }-
 privacy-first = Приватност изнад свега
 firefox-doesnt-spy = { -brand-name-firefox } не завирује у ваше претраге. Ми блокирамо познате елементе за праћење трећих страна и дајемо вам потпуну контролу.
 super-fast = Супер брз
+get-speed-and = Имајте и брзину и безбедност. { -brand-name-firefox } је брз зато што не прати вашу активност.
+always-evolving = Увек у развоју
+# Variables:
+# $url (url) - link to https://www.mozilla.org/firefox/features
+find-out-about = Сазнајте више о свим занимљивим <a href="{ $url }">{ -brand-name-firefox } функцијама</a>.

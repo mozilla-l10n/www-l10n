@@ -1,17 +1,21 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } ЧПП
+whether-you-searched-privacy = Било да сте тражили брзи прегледач који штити вашу приватност или не, овај ЧПП је ту да одговори на горућа питања у вези са { -brand-name-firefox }-ом.
+whether-you-searched-independant = Било да сте тражили брзи прегледач или само независни софтвер који штити вашу приватност, овај ЧПП је ту да одговори на горућа питања у вези са { -brand-name-firefox }-ом.
+what-is-firefox = Шта је { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } је једини велики прегледач који подржава непрофитна организација и који не продаје ваше личне податке оглашивачима већ их штити. Сазнајте више о <a href="{ $url }">{ -brand-name-firefox-browsers }</a> и <a href="{ $url2 }">другим производима</a>.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
