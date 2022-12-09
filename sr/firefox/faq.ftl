@@ -60,6 +60,7 @@ why-is-firefox = Зашто је { -brand-name-firefox } тако спор?
 firefox-isnt-slow = { -brand-name-firefox } није спор…сада. 2017. године смо потпуно редизајнирали наш претраживач, Quantum, како би { -brand-name-firefox } могао да се такмичи са другим прегледачима. Осим тога, наша функција блокирања елемената за праћење убрзава учитавање страница. Тако да је { -brand-name-firefox } сада веома брз, а без да жртвује вашу приватност.
 is-firefox-chromium = Је ли { -brand-name-firefox } заснован на { -brand-name-chromium }-у?
 firefox-is-not = { -brand-name-firefox } није заснован на { -brand-name-chromium }-у (језгро претраживача отвореног кода направљено за { -brand-name-google } { -brand-name-chrome }). У ствари, ми смо један од последњих великих прегледача који га не користи. { -brand-name-firefox } користи Quantum кернел, који смо направили посебно за { -brand-name-firefox } како би ваши подаци били безбедни и приватни.
+does-firefox-use = Да ли { -brand-name-firefox } користи { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
