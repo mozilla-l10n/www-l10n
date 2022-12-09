@@ -65,6 +65,8 @@ does-firefox-use = Да ли { -brand-name-firefox } користи { -brand-nam
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } је подразумевани претраживач у { -brand-name-firefox }-у, што значи да можете претраживати веб директно из адресне траке. <a href="{ $url }">Сазнајте више о подешавањима и промени подразумеваног претраживача.</a>
+does-firefox-have = Да ли { -brand-name-firefox } има уграђени VPN?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
