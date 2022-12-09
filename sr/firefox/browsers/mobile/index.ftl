@@ -34,7 +34,7 @@ browsers-mobile-join-firefox-and-get-the-most = Придружите се { -bra
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = Већ имате налог? <a { $fxa_attr }>Пријавите се</a> или <a { $accounts_attr }сазнајте випе</a> о придруживању { -brand-name-firefox }-у.
+browsers-mobile-already-have-an-account-sign = Већ имате налог? <a { $fxa_attr }>Пријавите се</a> или <a { $accounts_attr }>сазнајте випе</a> о придруживању { -brand-name-firefox }-у.
 browsers-mobile-download = Преузми
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
