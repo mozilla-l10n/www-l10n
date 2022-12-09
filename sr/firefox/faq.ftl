@@ -72,8 +72,13 @@ does-firefox-have = Да ли { -brand-name-firefox } има уграђени VP
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+firefox-does-not = { -brand-name-firefox } нема уграђен VPN (виртуелну приватну мрежу), али постоје два { -brand-name-mozilla }/{ -brand-name-firefox } производа која можете да користите паралелно уз приватни { -brand-name-firefox-browser } и који могу да заштитите везу прегледача (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) или уређаја (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) на WiFi мрежи, као и вашу IP адресу.
+related-questions-ip = Повезана питања: да ли { -brand-name-firefox } сакрива вашу IP адресу
+who-owns-firefox = Чији је { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } је направила { -brand-name-mozilla-corporation }, подружница у потпуном власништву непрофитне организације <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> која се управља према начелима { -brand-name-mozilla } манифеста. Сазнајте више о творцу { -brand-name-firefox }-а <a href="{ $url2 }">овде.</a>
+related-questions-who = Повезана питања: ко је власник { -brand-name-firefox }-а, чији је { -brand-name-firefox-browser }, је ли { -brand-name-google } власник { -brand-name-firefox }-а, је ли { -brand-name-google } власник { -brand-name-mozilla } { -brand-name-firefox }-а
