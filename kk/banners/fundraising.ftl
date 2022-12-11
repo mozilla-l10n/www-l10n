@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-body-extra = Бүгін демеушілік ете аласыз ба?
 banner-fundraising-monthly = Ай сайын
 banner-fundraising-one-time = Бір рет
 banner-fundraising-donate = Демеушілік ету

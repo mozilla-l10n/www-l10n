@@ -72,16 +72,23 @@
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
+-brand-name-fpn = FPN
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
+-brand-name-relay = Relay
+-brand-name-relay-premium = Relay Premium
 -brand-name-sync = Sync
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-marketplace = Firefox Marketplace
+-brand-name-firefox-os = Firefox OS
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
 
