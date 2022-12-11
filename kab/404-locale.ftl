@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/404-locale/
 
+not-found-locale-title = Fren tutlayt-ik·im neɣ adig i tunigin deg Mozilla.org
 not-found-locale-desc = Fren tamurt neɣ tamnaḍt i wakken ad d-tsekneḍ tutlayt i tesmenyafayeḍ.
 not-found-locale-not-yet-translated = Mazal ur yettwasuqqel ara usebter-a
 # Variables:
