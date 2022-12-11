@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title-v2 = ایں چھٹی دے موسم اِچ بہتر انٹرنیٹ کے لئے  تݨ مارݨ کیتے { -brand-name-mozilla } دی مدد کرو۔
+banner-fundraising-title-giving-day = ایں مخصوص منڳل کوں بہتر انٹرنیٹ کیتے تݨ مارݨ اِچ { -brand-name-mozilla } دی مدد کرو۔
+# Outdated string
+banner-fundraising-title = مستقبل دا فیصلہ آن لائن تھیوݨ ویندا پیا ہے۔ اساں سبھݨیں کیتے ہک ویب کیتے تݨ ماری وِچ { -brand-name-mozilla } دی مدد کرو۔
+banner-fundraising-body-v2 = اساں وݙے ماݨ نال غیر منافع بخش ہیں، ویب کوں اُچھک رکھݨ کیتے کم کریندے پئے ہیں۔ تہاݙی ہتھ بھَڑائی نال ہک محفوظ تے کھلا انٹرنیٹ بݨاوݨ اِچ مدد ملدی ہے۔
 banner-fundraising-body-extra = بھلا تساں اڄ عطیہ دان کر سڳدے ہو؟
 banner-fundraising-monthly = ماہانہ
 banner-fundraising-one-time = ہک واری

@@ -17,6 +17,7 @@ firefox-all-browser = براؤزر:
 firefox-all-platform = پلیٹ فارم:
 firefox-all-language = زبان:
 firefox-all-lang-multi = ڈھڳ زباناں
+firefox-all-sorry-we-couldnt-find = معذرت، اساکوں او ڈاؤن لوڈ نہیں لبھی تساں جیندی ڳول اِچ ہو۔ براہ مہربانی ولا کوشش کرو، یا تلویں فہرست کنوں ڈاؤن لوڈ کوں چݨو۔
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
 # HTML page title. Replace "English (US)" with your local language.
