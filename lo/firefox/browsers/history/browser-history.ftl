@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-web-era = ຍຸກເວັບ
+browser-history-a-year-later-berners = ນຶ່ງປີຕໍ່ມາ, Berners-Lee ໄດ້ຂໍໃຫ້ນັກຮຽນຄະນິດສາດ CERN Nicola Pellow ຂຽນ Line Mode Browser, ໂປຣແກຣມສໍາລັບຄອມພິວເຕີຂັ້ນພື້ນຖານ.
 browser-history-the-browser-wars = ສົງຄາມຂອງຕົວທ່ອງເວັບ
 browser-history-browsing-the-web = ການທ່ອງເວັບໃນມື້ນີ້
 browser-history-resources = ຊັບ​ພະ​ຍາ​ກອນ
