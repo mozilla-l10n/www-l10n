@@ -18,6 +18,7 @@ firefox-all-platform = پلیٹ فارم:
 firefox-all-language = زبان:
 firefox-all-lang-multi = ڈھڳ زباناں
 firefox-all-sorry-we-couldnt-find = معذرت، اساکوں او ڈاؤن لوڈ نہیں لبھی تساں جیندی ڳول اِچ ہو۔ براہ مہربانی ولا کوشش کرو، یا تلویں فہرست کنوں ڈاؤن لوڈ کوں چݨو۔
+firefox-all-the-pre-alpha-version = پری الفا ورژن پری پاور صارفین کیتے ہے جو کریشز دا شکار کرݨ چاہندے ہن تے نویں خصوصیات کوں کوڈ کریندے ہوئے جانچݨ چاہندے ہن۔
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
 # HTML page title. Replace "English (US)" with your local language.
@@ -25,7 +26,13 @@ firefox-all-download-the-firefox = انگریزی (یو ایس) تے 90 کنوں
 firefox-all-choose-which-firefox = آپݨی زبان وچ ڈاؤن لوڈ کرݨ کیتے { -brand-name-firefox-browser } چݨو
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری نوٹس
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزراں بارے سِکھو
+firefox-all-the-standard-firefox = معیاری{ -brand-name-firefox } براؤزر - تکھا تے نجی۔ جے تہاکوں معلوم کائنی جو کیڑھا{ -brand-name-firefox } منتخب کرݨا ہے تاں ، ایندا انتخاب کرو۔
+firefox-all-get-a-sneak-peek-at = تازہ ترین { -brand-name-firefox } براؤزر دیاں خصوصیات دے جاری تھیوݨ کنوں پہلے انہاں دی ہک جھلک ݙیکھو۔
+firefox-all-test-your-sites-against = اپݨی سائٹس کوں ستت ریلیز تھیوݨ  والی { -brand-name-firefox } براؤزر دیاں خصوصیات دے خلاف طاقتور، لچکدار DevTools دے نال ازماؤ جیڑھے پہلے کنوں طے شدہ ہن۔
+firefox-all-count-on-stability-and = انٹرپرائز کیتے بݨائے ئئے ایں { -brand-name-firefox } براؤزر دے نال استحکام تے استعمال وِچ آسانی تے بھروسہ کرو۔
+firefox-all-windows-installers-for = کارپوریٹ آئی ٹی کیتے ونڈوز انسٹالرز جیڑھے { -brand-name-firefox-browser } دی ترتیب، تعیناتی تے انتظام کوں آسان بݨیندے ہن۔
 firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
+firefox-all-arm64-installers-optimized = ARM64/AArch64 انسٹالرز Snapdragon نال چلݨ والے { -brand-name-windows } PCs کیتے بہتر بݨائے ڳئے ہن۔
 firefox-all-product-send-link = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly

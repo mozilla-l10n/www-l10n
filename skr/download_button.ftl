@@ -15,6 +15,9 @@ download-button-recommended = سفارش تھئے ہوئے
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = { -brand-name-firefox } انسٹال کرݨ کیتے سوہݨا، <a href="{ $url }">ان ہدایتاں</a> تے عمل کرو۔
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
+download-button-your-system-does-not = تہاݙا سسٹم <a href="{ $url }"> </a> تے { -brand-name-firefox } چلاوݨ کیتے ضروریات پوریاں کائنی کریندا۔
 download-button-firefox-other-platforms = ٻئے پلیٹ فارماں تے زباناں کیتے { -brand-name-firefox }
 download-button-update-your-firefox = آپݨی { -brand-name-firefox } اپ ڈیٹ کرو
 download-button-get-firefox-android = { -brand-name-android } کیتے { -brand-name-firefox } گھنو
