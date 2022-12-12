@@ -12,6 +12,9 @@ download-button-supported-devices = سہارا تھیاں ڈیوائساں
 download-button-whats-new = نواں کیا ہے؟
 download-button-systems-languages = سسٹم &amp; زباناں
 download-button-recommended = سفارش تھئے ہوئے
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+download-button-please-follow-these = { -brand-name-firefox } انسٹال کرݨ کیتے سوہݨا، <a href="{ $url }">ان ہدایتاں</a> تے عمل کرو۔
 download-button-firefox-other-platforms = ٻئے پلیٹ فارماں تے زباناں کیتے { -brand-name-firefox }
 download-button-update-your-firefox = آپݨی { -brand-name-firefox } اپ ڈیٹ کرو
 download-button-get-firefox-android = { -brand-name-android } کیتے { -brand-name-firefox } گھنو
