@@ -14,7 +14,7 @@ firefox-accounts-take-your-stand-stay-smart = ہک اینجھی صنعت دے خ
 # Old HTML page description
 firefox-accounts-securely-sync-your = اپݨے پاس ورڈز، نشانیاں  تے ٹیباں محفوظ طریقے نال اپݨے تمام آلات وچ سینک کرو۔ ہݨیں { -brand-name-firefox-account }حاصل کرو. ہݨ – ہک لاگ ان – طاقت تے رازداری ہر جاہ.
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
-firefox-accounts-there-is-a-way-to-protect = اتھاں تہاݙی رازداری دے تحفظ دا رستہ ہے۔ <span> شامل تھیوو { -brand-name-firefox }
+firefox-accounts-there-is-a-way-to-protect = اتھاں تہاݙی رازداری دے تحفظ دا رستہ ہے۔ <span> شامل تھیوو { -brand-name-firefox }</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = اینجھی صنعت دے خلاف اپݨا موقف اختیار کرو جیڑھی تہاکوں پراڈکٹ بݨیندی پئی ہے۔
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
