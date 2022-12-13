@@ -13,5 +13,8 @@ not-found-page-go-back = واپس ون٘ڄو
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = { -brand-name-mozilla } بارے <a href="{ $about }">سِکھو</a>، جہڑا { -brand-name-firefox } دے پچھوں منافع کیتے کائنی۔
 # Variables:
+#   $explore (url) - link to https://www.mozilla.org/firefox/
+not-found-page-explore-the-entire-family-for = تہاݙی رازداری دا آدُر کرݨ کیتے تیار کردہ { -brand-name-firefox } بݨتراں کیتے پورے ٹٻر کوں <a href={ $explore }> دریافت کرو </a>۔
+# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = آپݨی موبائل ڈیوائس یا ڈیسک ٹاپ کیتے { -brand-name-firefox } براؤزر <a href={ $download }> ڈاؤن لوڈ کرو</a>
