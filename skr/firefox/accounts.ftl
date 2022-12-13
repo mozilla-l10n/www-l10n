@@ -41,7 +41,7 @@ firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-whole-device-protection = ہر ڈیوائس تے پوری ڈیوائس حفاظت
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
-firefox-accounts-youll-always-get-the = تہاکوں ہمیشاں اساݙے کنوں سچائی ملسے ۔ تے اساں جیڑھا کجھ کریندے ہیں او اساݙے <a href="{ $promise }"> دے ڈیٹا دے وعدے <a href="{ $promise }"> دا احترام کریندے ہن:
+firefox-accounts-youll-always-get-the = تہاکوں ہمیشاں اساݙے کنوں سچائی ملسے ۔ تے اساں جیڑھا کجھ کریندے ہیں او اساݙے <a href="{ $promise }"> دے ڈیٹا دے وعدے </a> دا احترام کریندے ہن:
 # Line breaks for visual formatting.
 firefox-accounts-take-less-keep-it = گھٹ گھنو۔ <br> اینکوں محفوظ رکھیندا ہے۔ <br> کوئی راز کائنی۔
 firefox-accounts-get-the-knowledge = آپݨے آپ کوں محفوظ رکھݨ کیتے علم گھنو۔
