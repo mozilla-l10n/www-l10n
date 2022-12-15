@@ -15,3 +15,6 @@ features-index-firefox-features = { -brand-name-firefox } функције
 features-index-firefox-is-fast = { -brand-name-firefox } је брз, лаган прегледач који се фокусира на приватност и ради на свим вашим уређајима.
 features-index-add-powerful-functions = Додајте разне корисне, моћне и занимљиве функције у ваш { -brand-name-firefox } прегледач.
 features-index-see-all = Прикажи све додатке
+features-index-give-your-browser = Прилагодите изглед вашег прегледача са хиљадама различитих тема за бирање.
+features-index-important-stuff = Уверите се да су све ваше важне ствари — интернет претраге, лозинке или отворене картице — увек тамо где вам требају.
+features-index-get-an-account = Направите { -brand-name-firefox-account }
