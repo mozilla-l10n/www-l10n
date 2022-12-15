@@ -69,6 +69,7 @@ navigation-v2-work-for-a-mission-driven-updated = Trabaja para una organización
 navigation-v2-mozilla-blog = Blog de { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Conoce más sobre { -brand-name-mozilla } y los problemas que nos importan.
 navigation-v2-stories = Historias
+navigation-v2-stories-about-how = Historias sobre cómo nuestra gente y nuestros productos están cambiando el mundo para algo mejor.
 navigation-v2-more-about-mozilla = Más acerca de { -brand-name-mozilla }
 
 ## Innovation menu
