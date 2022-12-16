@@ -105,6 +105,7 @@ newsletters-you-send-too-many-emails = Jullie sturen te veel e-mailberichten.
 newsletters-your-content-wasnt-relevant = Jullie inhoud was voor mij niet relevant.
 newsletters-your-email-design = Jullie e-mailontwerp was te moeilijk om te lezen.
 newsletters-i-didnt-sign-up = Ik heb me hier niet voor ingeschreven.
+newsletters-please-select-a-reason = Selecteer een reden voor uw opzegging.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Dit e-mailadres bevindt zich niet in ons systeem. Controleer uw adres of <a href="{ $url }">schrijf u in voor onze nieuwsbrieven.</a>
