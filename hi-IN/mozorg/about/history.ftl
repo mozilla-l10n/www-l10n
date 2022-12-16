@@ -7,7 +7,7 @@
 history-history-of-the-mozilla-project = { -brand-name-mozilla } प्रोजेक्ट का इतिहास
 
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla } प्रोजेक्ट का <a href="{ $coderush }">निर्माण 1998 में</a> <a href="{ $sourcerelease }">{ -brand-name-netscape } ब्राउज़र सुइट सोर्स कोड रिलीज़ करने</a> के साथ ही किया गया।
 

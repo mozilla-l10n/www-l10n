@@ -7,7 +7,7 @@
 history-history-of-the-mozilla-project = تاريخ مشروع { -brand-name-mozilla }
 
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = <a href="{ $coderush }">أُنشئ مشروع { -brand-name-mozilla } في عام 1998</a> <a href="{ $sourcerelease }">بإصدار كود مصدر مجموعة متصفح { -brand-name-netscape }</a>.
 
