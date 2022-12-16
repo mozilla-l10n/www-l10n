@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -27,6 +27,10 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Lavoriamo sodo per protegge
 firefox-privacy-hub-data-security-is-complicated = La sicurezza dei dati è una materia complicata, o almeno dovrebbe esserlo. Ecco perché adottiamo misure straordinarie per segretare i dati in nostro possesso, applichiamo rigorosamente le regole che ci siamo dati per archiviare e proteggere ogni tipo di dato e non smettiamo mai di perfezionare le nostre procedure. Diamo priorità alla tua privacy. Investiamo su di essa. Ci impegniamo in sua difesa. Insegniamo persino ad altre aziende come farlo.
 firefox-privacy-hub-no-secrets = Nessun segreto
 firefox-privacy-hub-youll-always-know-where-you = Potrai sempre fare affidamento sulla nostra trasparenza
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Non abbiamo secondi fini. Non abusiamo segretamente della tua fiducia per realizzare profitti. La nostra <a href="{ $privacy }">informativa sulla privacy</a> è scritta per essere comprensibile. Se desideri esaminare qualsiasi dato che raccogliamo, il nostro codice è aperto. Come noi.
+# Obsolete string
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
