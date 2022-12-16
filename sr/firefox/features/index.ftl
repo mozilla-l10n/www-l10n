@@ -18,3 +18,4 @@ features-index-see-all = Прикажи све додатке
 features-index-give-your-browser = Прилагодите изглед вашег прегледача са хиљадама различитих тема за бирање.
 features-index-important-stuff = Уверите се да су све ваше важне ствари — интернет претраге, лозинке или отворене картице — увек тамо где вам требају.
 features-index-get-an-account = Направите { -brand-name-firefox-account }
+features-index-use-the-bookmark = Користите икону звездице за обележиваче да останете организовани и брзо додајете имена и фасцикле.
