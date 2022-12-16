@@ -35,6 +35,11 @@ firefox-privacy-hub-youll-always-know-where-you = Anda akan selalu tahu posisi A
 
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Tidak ada agenda tersembunyi di sini. Bisnis kami tidak bergantung pada penyalahgunaaan kepercayaan Anda secara diam-diam. <a href="{ $privacy }">Pemberitahuan Privasi</a> kami sebenarnya dapat dibaca. Jika Anda ingin menggali setiap titik data yang kami kumpulkan, kode kami terbuka. Kami pun juga terbuka.
+
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Tidak ada agenda tersembunyi di sini. Bisnis kami tidak bergantung pada penyalahgunaaan kepercayaan Anda secara diam-diam. <a href="{ $privacy }">Pemberitahuan Privasi</a> kami sebenarnya dapat dibaca. Siapa pun di dunia dapat menghadiri <a href="{ $meetings }">rapat perusahaan mingguan</a> kami. Jika Anda ingin menggali setiap titik data yang kami kumpulkan, kode kami terbuka. Dan begitu pun kami.
 
