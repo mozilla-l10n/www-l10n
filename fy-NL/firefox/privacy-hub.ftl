@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = Gjin geheimen
 firefox-privacy-hub-youll-always-know-where-you = By ús witte jo altyd wêr’t jo oan ta binne
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Wy hawwe gjin ferburgen aginda. Us bedriuw is net ôfhinklik fan it stikem misbrûk meitsjen fan jo fertrouwen. Us <a href="{ $privacy }">Privacyferklearring</a> is echt lêsber. As jo jo ferdjipje wolle yn elk datapunt dat wy sammelje: ús koade is iepen. En wy ek.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Wy hawwe gjin ferburgen aginda. Us bedriuw is net ôfhinklik fan it stikem misbrûk meitsjen fan jo fertrouwen. Us <a href="{ $privacy }">Privacyferklearring</a> is echt lêsber. Elkenien yn 'e wrâld kin ús <a href="{ $meetings }">wyklikse bedriuwsgearkomsten</a> bywenje. As jo jo ferdjipje wolle yn elk datapunt dat wy sammelje: ús koade is iepen. En wy ek.
 firefox-privacy-hub-why-trust-firefox = Wêrom kinne jo { -brand-name-firefox } fertrouwe?
