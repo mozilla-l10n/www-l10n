@@ -37,10 +37,11 @@ firefox-desktop-download-blocks-social-trackers = يَحجب المُتعقّب�
 firefox-desktop-download-os-availability = التوافر على أنظمة التشغيل
 firefox-desktop-download-in-browser-screenshot = أداة مُدمجة بالمتصفح لأخذ لقطات الشاشة
 firefox-desktop-download-primary-password = كلمة مرور رئيسية
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+
+# Obsolete string
 firefox-desktop-love-your-life = عِش حياتك على الإنترنت
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+
+# Obsolete string
 firefox-desktop-its-your-internet = إنه الإنترنت الخاص بك. زيّنه بالطريقة التي تحلو لك مع آلاف الأدوات والأشكال والامتدادات. يُعد { -brand-name-firefox } المتصفّح البديل الأصلي الذي يُقدّم الناس على الأرباح.
 
 # Obsolete string

@@ -37,10 +37,11 @@ firefox-desktop-download-blocks-social-trackers = सोशल ट्रैक�
 firefox-desktop-download-os-availability = OS उपलब्धता
 firefox-desktop-download-in-browser-screenshot = इन-ब्राउज़र स्क्रीनशॉट टूल
 firefox-desktop-download-primary-password = मुख्य पासवर्ड
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+
+# Obsolete string
 firefox-desktop-love-your-life = ऑनलाइन अपने जीवन का भरपूर आनंद लें
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+
+# Obsolete string
 firefox-desktop-its-your-internet = यह आपका इंटरनेट है। हजारों टूल्स, थीम और एक्सटेंशन की मदद से इसमें अपने मनचाहे रंग भरें। { -brand-name-firefox } ऐसा ओरिजिनल अल्टरनेटिव ब्राउज़र है, जो प्रॉफ़िट से ज़्यादा लोगों को तरज़ीह देता है।
 
 # Obsolete string

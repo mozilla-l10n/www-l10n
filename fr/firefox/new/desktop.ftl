@@ -37,10 +37,11 @@ firefox-desktop-download-blocks-social-trackers = Bloque les traqueurs de résea
 firefox-desktop-download-os-availability = Disponibilité par système d’exploitation
 firefox-desktop-download-in-browser-screenshot = Outil de capture d’écran dans le navigateur
 firefox-desktop-download-primary-password = Mot de passe principal
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+
+# Obsolete string
 firefox-desktop-love-your-life = Profitez de votre vie en ligne
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+
+# Obsolete string
 firefox-desktop-its-your-internet = Internet est à vous. Personnalisez votre navigation avec des milliers d’outils, de thèmes et d’extensions. { -brand-name-firefox }, le navigateur alternatif qui place les personnes avant les profits.
 
 # Obsolete string
