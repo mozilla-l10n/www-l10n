@@ -134,6 +134,7 @@ newsletters-you-send-too-many-emails = Anda mengirim terlalu banyak email.
 newsletters-your-content-wasnt-relevant = Konten Anda tidak relevan bagi saya.
 newsletters-your-email-design = Rancangan email Anda terlalu sulit untuk dibaca.
 newsletters-i-didnt-sign-up = Saya tidak mendaftar untuk ini.
+newsletters-please-select-a-reason = Silakan pilih alasan berhenti berlangganan.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
