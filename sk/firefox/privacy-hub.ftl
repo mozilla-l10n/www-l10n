@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = Žiadne tajomstvá
 firefox-privacy-hub-youll-always-know-where-you = S nami vždy viete, na čom ste
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Nie je tu žiadna skrytá agenda. Naše podnikanie nezávisí od tajného zneužívania vašej dôvery. Naše <a href="{ $privacy }">Oznámenie o ochrane osobných údajov</a> je skutočne čitateľné. Ak sa chcete ponoriť do každého typu údajov, ktorý zhromažďujeme, náš kód je otvorený. A my tiež.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Nie je tu žiadna skrytá agenda. Naše podnikanie nezávisí od tajného zneužívania vašej dôvery. Naše <a href="{ $privacy }">Oznámenie o ochrane osobných údajov</a> je skutočne čitateľné. Každý na svete sa môže zúčastniť našich <a href="{ $meetings }">týždenných firemných stretnutí</a>. Ak sa chcete ponoriť do každého typu údajov, ktorý zhromažďujeme, náš kód je otvorený. A my tiež.
 firefox-privacy-hub-why-trust-firefox = Prečo dôverovať { -brand-name-firefox(case: "gen") }?
