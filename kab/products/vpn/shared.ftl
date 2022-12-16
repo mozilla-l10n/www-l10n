@@ -64,8 +64,9 @@ vpn-shared-pricing-variable-heading-v2 = Fren aɣawas n umulteɣ i yeddan yid-k�
 vpn-shared-pricing-variable-heading = Fren aɣawas yeddan yid-k·m
 vpn-shared-pricing-variable-sub-heading = Meṛṛa iɣawasen-nneɣ deg-sen:
 vpn-shared-pricing-recommended-offer = Yettuwelleh
-vpn-shared-pricing-plan-6-month = 6 wayyuren
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 wayyuren
+# Outdated string
 vpn-shared-pricing-plan-monthly = S waggur
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -74,6 +75,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 vpn-shared-pricing-get-6-month = Awi aɣawas n 6 wayyuren
 # Outdated string
 vpn-shared-pricing-get-12-month = Awi aɣawas n 12 wayyuren
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Awi aɣawas n 6-wayyuren
 vpn-shared-pricing-get-12-month-v2 = Awi aɣawas n 12-wayyuren
 vpn-shared-pricing-get-monthly = Awi aɣawas s wayyur
@@ -116,11 +118,19 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = D acu-tt tansa IP?
 vpn-subnav-when-to-use-a-vpn = Melmi ara tesqedceḍ VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Apṛuksi
+vpn-subnav-subscribe = Multeɣ ɣer { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
 vpn-shared-affiliate-notification-reject = Agi
 vpn-shared-affiliate-notification-ok = IH
+
+## VPN + Relay bundle offer
+
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Rnu <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-get-vpn-plus-relay = Awi { -brand-name-vpn } + { -brand-name-relay }
 
 ##
 
