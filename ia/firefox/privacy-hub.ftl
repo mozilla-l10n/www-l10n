@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = Nulle secretos.
 firefox-privacy-hub-youll-always-know-where-you = Nos essera sempre transparente con te
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Il non ha ulle agenda celate hic. Nostre negotios non depende de abusar secretemente de tu fide. Nostre <a href="{ $privacy }">Aviso de confidentialitate</a> es actualmente legibile. Si tu desira excavar in cata puncto de datos que nos collige, nostre codice es aperte. E assi es nos.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Il ha nulle agenda celate hic. Nostre negotios non depende de abusar secretemente de tu fide. Nostre <a href="{ $privacy }">Aviso de confidentialitate</a> es realmente legibile. Quicunque in le mundo pote esser presente a nostre <a href="{ $meetings }"> incontros septimanal del compania</a>. Si tu desira excavar in cata puncto de datos que nos collige, nostre codice es aperte. E assi es nos.
 firefox-privacy-hub-why-trust-firefox = Perque fider in { -brand-name-firefox }?

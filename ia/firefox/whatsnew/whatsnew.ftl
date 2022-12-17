@@ -13,9 +13,11 @@ whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification-v2 = Congratulationes! Tu usa le ultime version de { -brand-name-firefox }
 # Obsolete string
 whatsnew-up-to-date-notification = Congratulationes! Tu usa le ultime version de { -brand-name-firefox-browser }.
-whatsnew-out-of-date-notification-v2 = Un version ancora plus recente de { -brand-name-firefox } es disponibile. Reinitia pro actualisar.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+whatsnew-out-of-date-notification-v3 = Un { -brand-name-firefox } mesmo plus recente es disponibile. <a href="{ $url }">Actualisar al ultime version.</a>
 # Obsolete string
-whatsnew-out-of-date-notification = Un version ancora plus recente de { -brand-name-firefox-browser } es disponibile. Reinitia pro actualisar.
+whatsnew-out-of-date-notification-v2 = Un version ancora plus recente de { -brand-name-firefox } es disponibile. Reinitia pro actualisar.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Lege le <a href="{ $url }">notas de version</a> pro saper plus sur le novitates in tu navigator { -brand-name-firefox }.
