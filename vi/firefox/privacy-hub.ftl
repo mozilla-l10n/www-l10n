@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -27,6 +27,10 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Chúng tôi làm việc ch�
 firefox-privacy-hub-data-security-is-complicated = Bảo mật dữ liệu rất phức tạp — hoặc ít nhất là nó phải như vậy. Đó là lý do tại sao chúng tôi thực hiện các bước bổ sung để phân loại dữ liệu chúng tôi có, duy trì các quy tắc về cách chúng tôi lưu trữ và bảo vệ từng loại và không bao giờ ngừng lặp lại trên các quy trình của chúng tôi. Chúng tôi ưu tiên sự riêng tư của bạn. Chúng tôi đầu tư vào nó. Chúng tôi cam kết với nó. Chúng tôi thậm chí còn dạy các công ty khác cách làm điều đó.
 firefox-privacy-hub-no-secrets = Không có bí mật
 firefox-privacy-hub-youll-always-know-where-you = Bạn sẽ luôn biết bạn đang đứng cùng chúng tôi ở đâu
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Không có chương trình nghị sự ẩn nào ở đây. Việc kinh doanh của chúng tôi không phụ thuộc vào việc bí mật lạm dụng lòng tin của bạn. <a href="{ $privacy }">Thông báo bảo mật</a> của chúng tôi thực sự có thể đọc được. Nếu bạn muốn đào sâu vào mọi data-point mà chúng tôi thu thập, mã của chúng tôi sẽ mở. Và chúng ta cũng vậy.
+# Obsolete string
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
