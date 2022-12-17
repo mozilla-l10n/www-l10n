@@ -105,6 +105,7 @@ newsletters-you-send-too-many-emails = Вы присылали слишком м
 newsletters-your-content-wasnt-relevant = Содержимое писем было для меня не интересным.
 newsletters-your-email-design = Стиль изложения ваших писем слишком трудный для чтения.
 newsletters-i-didnt-sign-up = Я на это не подписывался(лась).
+newsletters-please-select-a-reason = Пожалуйста, выберите причину отказа от подписки.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = В базе данных нет этого адреса. Пожалуйста, проверьте свой адрес или <a href="{ $url }">подпишитесь на наши рассылки.</a>
