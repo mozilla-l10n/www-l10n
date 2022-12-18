@@ -105,6 +105,7 @@ newsletters-you-send-too-many-emails = Recibo demasiados emails.
 newsletters-your-content-wasnt-relevant = El contenido no me parecía relevante.
 newsletters-your-email-design = El diseño del email no era fácil de leer.
 newsletters-i-didnt-sign-up = No me di de alta en esta suscripción.
+newsletters-please-select-a-reason = Selecciona el motivo de la cancelación de la suscripción.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Esta dirección de email no está en nuestro sistema. Comprueba tu dirección o <a href="{ $url }">suscríbete a nuestros boletines.</a>
