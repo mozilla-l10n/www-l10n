@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
+facebook-container-get-the-facebook-container = { -brand-name-facebook-container }دی ایکسٹینشن گھنو
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 facebook-container-install-and-contain = انسٹال کرو تے شامل
