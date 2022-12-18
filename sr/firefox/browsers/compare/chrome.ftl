@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -37,4 +37,6 @@ compare-chrome-in-terms-of-features-both = Што се тиче функција
 compare-chrome-firefox-also-has-a-sync-feature = { -brand-name-firefox } има функцију синхронизације за преглед отворених и недавних језичака, историју прегледања и обележиваче на свим вашим уређајима.
 compare-chrome-while-chrome-gets-the-nod = Док { -brand-name-chrome } нуди многобројне додатке и проширења, { -brand-name-firefox } такође има своје лепо уређене, уграђене функције, као што је врло згодан алат за снимање екрана и режим читања. Режим читања је функција која приказује само текст тренутне веб странице.
 compare-chrome-although-not-as-extensive = Иако не тако опсежна као { -brand-name-chrome } колекција додатака, { -brand-name-firefox }, као софтвер отвореног кода са великим бројем активник сарадника, такође пружа невероватан број корисних додатака.
+compare-chrome-if-having-tons-of-open-tabs = Ако волите да имате мноштво отворених картица, кориснички интерфејс је онда пресудан. У { -brand-name-firefox }-у, ваше картице се не смањују што више отварате, али можете да их померате хоризонтално. { -brand-name-google } { -brand-name-chrome } смањује отворене картице док се не види само фавикон. Ово постаје проблем ако имате отворено неколико картица са истог сајта; тада ћете видети исти фавикон неколико пута.
 compare-chrome-almost-needless-to-say-versions = Скоро и да није потребно рећи да су и { -brand-name-firefox } и { -brand-name-chrome } доступни за најпопуларније рачунарске и мобилне оперативне системе ({ -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android }, { -brand-name-ios }).
+compare-chrome-both-chrome-and-firefox-also-updated = И { -brand-name-chrome } и { -brand-name-firefox } омогућују синхронизацију ствари попут лозинки, обележивача и отворених картица на свим вашим уређајима. Међутим, { -brand-name-firefox } има додатну сигурност у виду главне лозинке, која све сачуване пријаве и лозинке држи под још једним кључем. Са { -brand-name-firefox } налогом, можете ручно да пошаљете отворену картицу са свог десктоп рачунара на мобилни уређај и обрнуто. { -brand-name-chrome } аутоматски синхронизује картице, ако изаберете то подешавање. Ово је корисно ако, на пример, желите да наставите да читате чланак који нисте стигли да прочитате на другом уређају, али није идеално решење ако више људи пријављених на ваш { -brand-name-google } налог сурфује истовремено.
