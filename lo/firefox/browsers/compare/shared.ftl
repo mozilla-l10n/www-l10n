@@ -24,6 +24,7 @@ compare-shared-search-engine-options = ທາງເລືອກຂອງເຄ�
 compare-shared-text-to-speech = ຂໍ້ຄວາມເປັນສຽງເວົ້າ
 compare-shared-reader-mode = ໂໝດຜູ້ອ່ານ
 compare-shared-spell-checking = ການກວດສອບການສະກົດຄໍາ
+compare-shared-web-extensionsadd-ons = ສ່ວນຂະຫຍາຍເວັບ/ສ່ວນເສີມ
 compare-shared-os-availability = ຄວາມພ້ອມຂອງ OS
 compare-shared-mobile-os-availability = ຄວາມພ້ອມຂອງ OS ມືຖື
 compare-shared-syncs-with-mobile = ຊິງຄ໌ກັບມືຖື
