@@ -14,10 +14,13 @@ whatsnew-up-to-date-notification-v2 = Félicitations ! Vous utilisez la version
 
 # Obsolete string
 whatsnew-up-to-date-notification = Félicitations ! Vous utilisez la version la plus récente de { -brand-name-firefox-browser }.
-whatsnew-out-of-date-notification-v2 = Une version encore plus récente du { -brand-name-firefox } est disponible. Redémarrez pour le mettre à jour.
+
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+whatsnew-out-of-date-notification-v3 = Une version encore plus récente de { -brand-name-firefox } est disponible. <a href="{ $url }">Passer à la nouvelle version</a>
 
 # Obsolete string
-whatsnew-out-of-date-notification = Une version encore plus récente du { -brand-name-firefox-browser } est disponible. Redémarrez pour le mettre à jour.
+whatsnew-out-of-date-notification-v2 = Une version encore plus récente du { -brand-name-firefox } est disponible. Redémarrez pour le mettre à jour.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
