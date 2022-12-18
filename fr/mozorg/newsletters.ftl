@@ -134,6 +134,7 @@ newsletters-you-send-too-many-emails = Vous envoyez trop de courriels.
 newsletters-your-content-wasnt-relevant = Le contenu ne me concernait pas.
 newsletters-your-email-design = La lettre était visuellement pénible à lire.
 newsletters-i-didnt-sign-up = Je ne m’étais pas inscrit·e à cette newsletter.
+newsletters-please-select-a-reason = Veuillez sélectionner un motif de désabonnement.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
