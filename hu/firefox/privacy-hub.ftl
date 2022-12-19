@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = Nincsenek titkok
 firefox-privacy-hub-youll-always-know-where-you = Mindig tudni fogja, hogy hol áll velünk
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Itt nincsenek rejtett célok. Vállalkozásunk nem arra épít, hogy titokban visszaéljen bizalmával. <a href="{ $privacy }">Adatvédelmi nyilatkozatuk</a> tényleg olvasható. Ha minden általunk gyűjtött adatpontba belemélyedne, a kódunk nyílt. És mi is nyitottak vagyunk.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Itt nincsenek rejtett célok. Vállalkozásunk nem arra épít, hogy titokban visszaéljen bizalmával. <a href="{ $privacy }">Adatvédelmi nyilatkozatuk</a> tényleg olvasható. A világon mindenki részt vehet a <a href="{ $meetings }">heti vállalati üléseinken</a>. Ha minden általunk gyűjtött adatpontba belemélyedne, a kódunk nyílt. És mi is azok vagyunk.
 firefox-privacy-hub-why-trust-firefox = Miért bízzon a { -brand-name-firefox }ban?

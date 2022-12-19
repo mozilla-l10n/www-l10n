@@ -105,6 +105,7 @@ newsletters-you-send-too-many-emails = Túl sok e-mailt kapok.
 newsletters-your-content-wasnt-relevant = A tartalom nem érdekes számomra.
 newsletters-your-email-design = Az e-mail a design miatt nehezen olvasható.
 newsletters-i-didnt-sign-up = Nem iratkoztam fel.
+newsletters-please-select-a-reason = Válassza ki a leiratkozás okát.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ez az e-mail cím nem szerepel rendszerünkben. Kérjük, ellenőrizze a címet vagy <a href="{ $url }">iratkozzon fel hírleveleinkre.</a>
