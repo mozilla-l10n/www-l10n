@@ -35,6 +35,11 @@ firefox-privacy-hub-youll-always-know-where-you = ユーザーは Mozilla との
 
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = 下心はいっさいありません。私たちは、業務でユーザーからの信頼を裏切って利用することはありません。Mozilla の<a href="{ $privacy }">プライバシー通知</a>は、実際に読んで理解できます。Mozilla のコードは公開されていますので、ユーザーは Mozilla が収集するデータポイントを調査できます。そして Mozilla 自体も隠し立てなく全て公開されています。
+
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = 下心はいっさいありません。私たちは、業務でユーザーからの信頼を裏切って利用することはありません。Mozilla の<a href="{ $privacy }">プライバシー通知</a>は、実際に読んで理解できます。<a href="{ $meetings }">毎週行われる自社ミーティング</a>には、世界各地の方々がいずれも出席できます。Mozilla のコードは公開されていますので、ユーザーは Mozilla が収集するデータポイントを調査できます。そして Mozilla 自体も隠し立てなく全て公開されています。
 
