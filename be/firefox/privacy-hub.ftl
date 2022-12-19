@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = Ніякіх сакрэтаў
 firefox-privacy-hub-youll-always-know-where-you = Вы заўсёды будзеце ведаць, дзе вы з намі
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Тут няма схаванага плана. Наш бізнес не залежыць ад таемнага злоўжывання вашым даверам. Наша <a href="{ $privacy }">Паведамленне аб прыватнасці</a> на самой справе зразумелае. Калі вы хочаце дакладней даведацца, якія даныя мы збіраем, то наш зыходны код адкрыты. Так жа як і мы.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Тут няма схаванага плана. Наш бізнес не залежыць ад таемнага злоўжывання вашым даверам. Наша <a href="{ $privacy }">Паведамленне аб прыватнасці</a> на самай справе зразумелае. Любы чалавек у свеце можа наведваць нашы <a href="{ $meetings }">штотыднёвыя сустрэчы кампаніі</a>. Калі вы хочаце дакладней даведацца, якія даныя мы збіраем, то наш зыходны код адкрыты. Так жа як і мы.
 firefox-privacy-hub-why-trust-firefox = Чаму варта давяраць { -brand-name-firefox }?
