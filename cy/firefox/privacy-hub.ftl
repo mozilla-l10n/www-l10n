@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = Dim cyfrinachau
 firefox-privacy-hub-youll-always-know-where-you = Byddwch bob amser yn gwybod ble rydych chi'n sefyll gyda ni
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Does dim agenda gudd yma. Nid yw ein busnes yn dibynnu ar gam-ddefnyddio eich ymddiriedaeth yn dawel fach. Mae ein <a href="{ $privacy }">Hysbysiad Preifatrwydd</a> yn hawdd i'w ddarllen. Os ydych chi am gloddio i bob pwynt data rydyn ni'n ei gasglu, mae ein cod yn agored. Ac felly ninnau hefyd.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Does dim agenda gudd yma. Nid yw ein busnes yn dibynnu ar gamddefnyddio eich ymddiriedolaeth yn gyfrinachol. Mae ein <a href="{ $privacy }">Hysbysiad Preifatrwydd</a> yn ddarllenadwy! Gall unrhyw un yn y byd fynychu ein cyfarfodydd <a href="{ $meetings }">cwmni wythnosol </a>. Os ydych chi am fynd ar ôl pob pwynt data rydym yn ei gasglu, mae ein cod ar agor. Ac felly ninnau hefyd.
 firefox-privacy-hub-why-trust-firefox = Pam ymddiried yn { -brand-name-firefox }?
