@@ -14,10 +14,13 @@ whatsnew-up-to-date-notification-v2 = あなたは { -brand-name-firefox } の�
 
 # Obsolete string
 whatsnew-up-to-date-notification = あなたは{ -brand-name-firefox-browser } の最新バージョンを使用しています。
-whatsnew-out-of-date-notification-v2 = もっと新しい { -brand-name-firefox } を公開中です。アップデートするには再起動してください。
+
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+whatsnew-out-of-date-notification-v3 = もっと新しい { -brand-name-firefox } を公開中です。<a href="{ $url }">最新バージョンに更新する</a>
 
 # Obsolete string
-whatsnew-out-of-date-notification = もっと新しい { -brand-name-firefox-browser } を公開中です。アップデートするには再起動してください。
+whatsnew-out-of-date-notification-v2 = もっと新しい { -brand-name-firefox } を公開中です。アップデートするには再起動してください。
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
