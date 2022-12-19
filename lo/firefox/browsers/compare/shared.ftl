@@ -25,6 +25,7 @@ compare-shared-text-to-speech = ຂໍ້ຄວາມເປັນສຽງເວ
 compare-shared-reader-mode = ໂໝດຜູ້ອ່ານ
 compare-shared-spell-checking = ການກວດສອບການສະກົດຄໍາ
 compare-shared-web-extensionsadd-ons = ສ່ວນຂະຫຍາຍເວັບ/ສ່ວນເສີມ
+compare-shared-in-browser-screenshot-tool = ເຄື່ອງມື screenshot ໃນຕົວທ່ອງເວັບ
 compare-shared-os-availability = ຄວາມພ້ອມຂອງ OS
 compare-shared-mobile-os-availability = ຄວາມພ້ອມຂອງ OS ມືຖື
 compare-shared-syncs-with-mobile = ຊິງຄ໌ກັບມືຖື
@@ -32,8 +33,11 @@ compare-shared-password-management = ຕົວຈັດການລະຫັດ�
 compare-shared-primary-password = ລະຫັດຜ່ານຫຼັກ
 # Obsolete string
 compare-shared-master-password = ລະຫັດຜ່ານຫຼັກ
+compare-shared-security-and-privacy = ຄວາມປອດໄພ ແລະຄວາມເປັນສ່ວນຕົວ
 compare-shared-utility = ປະໂຫຍດ
 compare-shared-portability = ການພົກພາ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-security-and-privacy-strong = ຄວາມປອດໄພ ແລະ <strong>ຄວາມເປັນສ່ວນຕົວ</strong>
 compare-shared-overall-assessment = ການປະເມີນໂດຍລວມ
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
