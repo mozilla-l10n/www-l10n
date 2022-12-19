@@ -8,9 +8,13 @@
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: brskalnik za zasebnost
 # HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } je vaš namenski zasebni brskalnik s samodejno zaščito pred sledenjem.
+# Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } je vaš namenski zasebni brskalnik s samodejno zaščito pred sledenjem in zavračanjem oglasov.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Preprosto zasebno mobilno brskanje
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } je vaš namenski zasebni brskalnik s samodejno zaščito pred sledenjem. S { -brand-name-focus(sklon: "orodnik") } se strani nalagajo hitreje, vaši podatki pa ostanejo zasebni.
+# Outdated string
 mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } je vaš namenski zasebni brskalnik s samodejno zaščito pred sledenjem in zavračanjem oglasov. S { -brand-name-focus(sklon: "orodnik") } se strani nalagajo hitreje, vaši podatki pa ostanejo zasebni.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } je na voljo tako za naprave { -brand-name-ios } kot { -brand-name-android }.
 mobile-focus-get-firefox-focus = Prenesite { -brand-name-firefox-focus }
@@ -27,12 +31,6 @@ mobile-focus-private-browsing-on = "Zasebno brskanje" v večini brskalnikov prav
 mobile-focus-private-browsing-on-v2 = "Zasebno brskanje" v večini brskalnikov pravzaprav ni tako zelo zasebno. { -brand-name-firefox-focus } vam privzeto ponuja zasebnost višjega razreda, pri čemer ga podpira { -brand-name-mozilla }, neprofitna organizacija, ki se bori za vaše pravice na spletu.
 mobile-focus-tracking-protection = Zaščita pred sledenjem
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } samodejno zavrača široko paleto pogostih sledilcev, vključno s sledilci družbenih omrežij in s tistimi trdovratnimi, ki se vas oprimejo iz { -brand-name-facebook }ovih in podobnih oglasov.
-mobile-focus-ad-blocking = Zavračanje oglasov
-# Outdated string
-mobile-focus-focus-blocks-the = { -brand-name-focus } zavrača oglase, ki bi se pri običajnem brskanju prikazovali na spletnih straneh – ne da bi za to potrebovali dodatne razširitve. Z manj oglasi se strani nalagajo hitreje in vi pridete na cilj občutno prej.
-mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } zavrača oglase, ki vam poskušajo slediti preko več spletnih strani – ne da bi za to potrebovali dodatne razširitve. Z manj oglasi se strani nalagajo hitreje in vi pridete na cilj občutno hitreje.
 mobile-focus-see-it-all = Hitreje do vsebine
-# Outdated string
-mobile-focus-focus-removes-trackers = { -brand-name-focus } odstranjuje sledilce in oglase, s čimer se spletne strani naložijo veliko hitreje in z manjšo porabo podatkov.
 mobile-focus-made-by-mozilla = Izpod rok { -brand-name-mozilla(sklon: "rodilnik") }
 mobile-focus-we-believe-everyone = Verjamemo, da bi moral vsakdo imeti nadzor nad svojim spletnim življenjem. Za to se borimo že od leta 1998.
