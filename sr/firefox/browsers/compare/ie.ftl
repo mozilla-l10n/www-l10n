@@ -16,7 +16,7 @@ compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } је 
 compare-ie-here-well-compare-our-firefox = Овде упоређујемо { -brand-name-firefox-browser } и { -brand-name-ie } у смислу безбедности, употребљивости и преносивости. Објаснићемо како се модеран прегледач као што је { -brand-name-firefox }, који се придржава веб стандарда, разликује од прегледача који користите у због посла или по навици.
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
-compare-ie-if-you-havent-moved-on-from-using = Ако још увек нисте рекли збогом { -brand-name-ie }-у, сам безбедносни ризик би требало да буде довољан разлог. <a { $attrs }>Сам шеф безбедности { -brand-name-microsoft }-а је упозорио</а> да се милиони људи који и даље користе { -brand-name-ie } као главни прегледач излажу ризику.
+compare-ie-if-you-havent-moved-on-from-using = Ако још увек нисте рекли збогом { -brand-name-ie }-у, сам безбедносни ризик би требало да буде довољан разлог. <a { $attrs }>Сам шеф безбедности { -brand-name-microsoft }-а је упозорио</a> да се милиони људи који и даље користе { -brand-name-ie } као главни прегледач излажу ризику.
 compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } више не подржава нови развој за { -brand-name-ie }. Као резултат тога, безбедносни проблеми су свакодневница. { -brand-name-microsoft } отворено признаје да је било која { -brand-name-ie } верзија рањива.
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/legacy-browser-support-extension-windows with additional attributes for analytics
