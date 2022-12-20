@@ -6,8 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Преузмите { -brand-name-firefox } за десктоп, мобилни или предузеће
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Преузмите прегледач који увек ставља вашу приватност на прво место
 # HTML page description
+firefox-browsers-page-desc = Изаберите између десктопа, { -brand-name-ios }-а, { -brand-name-android }-а или затражите е-поруку са везом за преузимање.
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Добијте приватност коју заслужујете. Побољшана заштита од праћења је аутоматски укључена у сваком { -brand-name-firefox } прегледачу.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Преузмите <strong>прегледач</strong> који увек ставља вашу приватност на прво место
