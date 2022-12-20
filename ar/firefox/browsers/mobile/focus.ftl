@@ -8,11 +8,19 @@
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: مُتصفح الخصوصية
 
 # HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = يُعتبر { -brand-name-firefox-focus } مُتصفّحك المُكرّس للخصوصية والمُزوّد بحماية تتبّع أوتوماتيكية.
+
+# Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = لقد طُوِّر متصفح { -brand-name-firefox-focus } للحفاظ على الخصوصية والحماية من التعقب وحجب الإعلانات بشكل تلقائي.
 
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = متصفِّح يتميز بالخصوصية للأجهزة المحمولة
+
+mobile-focus-firefox-focus-dedicated-with-v2 = يُعتبر { -brand-name-firefox-focus } مُتصفّحك المُكرّس للخصوصية والمُزوّد بحماية تتبّع أوتوماتيكية. فمن خلال استخدام { -brand-name-focus }، يتم تحميل صفحاتك بشكل أسرع وحماية بياناتك بشكل دائم.
+
+# Outdated string
 mobile-focus-firefox-focus-dedicated-with = لقد طُوِّر متصفح { -brand-name-firefox-focus } للحفاظ على الخصوصية والحماية من التعقب وحجب الإعلانات بشكل تلقائي. فمن خلال استخدام { -brand-name-focus }، يتم تحميل صفحاتك بشكل أسرع وحماية بياناتك بشكل دائم.
+
 mobile-focus-firefox-focus-is-available = مُتصفح { -brand-name-firefox-focus } مُتوفر للأجهزة التي تعمل بنظام التشغيل { -brand-name-ios } أو { -brand-name-android }.
 
 mobile-focus-get-firefox-focus = نزِّل متصفح { -brand-name-firefox-focus }
@@ -37,18 +45,11 @@ mobile-focus-private-browsing-on-v2 = إنّ وضع "التصفّح الخاص" 
 mobile-focus-tracking-protection = الحماية من التعقب
 mobile-focus-firefox-focus-blocks = يَحجب متصفح { -brand-name-firefox-focus } مجموعة كبيرة من المتعقِّبات المشهورة بشكل افتراضي، لا سيما متعقِّبات مواقع التواصل الاجتماعي وغيرها من المتعقِّبات التي تأتي من إعلانات مثل{ -brand-name-facebook }.
 
-mobile-focus-ad-blocking = حجب الإعلانات
-
-# Outdated string
-mobile-focus-focus-blocks-the = يَحجب متصفح { -brand-name-focus } الإعلانات التي تراها عادةً على صفحات الويب — ويكفيك عن استخدام وظائف إضافية أو وظائف ملحقة أخرى. وكلما قلّ عدد الإعلانات، زادت سُرعة تحميل الصفحات، وزادت سُرعة وصولك إلى البيانات التي تريدها من الإنترنت.
-
-mobile-focus-focus-blocks-the-v2 = يَحجب متصفّح { -brand-name-focus } الإعلانات التي تراها على صفحات الويب — ويكفيك عن استخدام الوظائف الإضافية أو الوظائف المُلحقة الأخرى. وكُلما قلّ عدد الإعلانات، زادت سُرعة تحميل الصفحات، وزادت سُرعة وصولك إلى البيانات التي تُريدها من الإنترنت.
-
 mobile-focus-see-it-all = تحميل أسرع للصفحات
 
-# Outdated string
-mobile-focus-focus-removes-trackers = يَحجب متصفح { -brand-name-focus } المتعقِّبات والإعلانات، ولذلكَ تتطلب الصفحات التي تُشاهدها بيانات أقل ويتم تحميلها بشكل أسرع.
+mobile-focus-focus-removes-trackers-v3 = يَعمل متصفح { -brand-name-focus } على إزالة المُتعقِّبات، ولذلكَ تتطلب الصفحات التي تُشاهدها بيانات أقل ويتم تحميلُها بشكل أسرع. كما يُمكنك أيضًا تثبيت ما يَصل إلى أربعة اختصارات على صفحتك الرئيسية والوصول إلى موقعك المُفضّل بشكل أسرع بدون أن تكتب أي شيء.
 
+# Outdated string
 mobile-focus-focus-removes-trackers-v2 = يَحجب متصفّح { -brand-name-focus } المتعقِّبات ويُفعّل أدوات حجب الإعلانات ما يجعل الصفحات التي تُشاهدُها تحتاج إلى بيانات أقل بالإضافة إلى وقت تحميل أسرع. كما يُمكنك أيضًا تثبيت ما يصل إلى أربعة اختصارات على صفحتك الرئيسية والوصول إلى موقعك المُفضّل بشكل أسرع بدون أن تكتب أي شيء.
 
 mobile-focus-made-by-mozilla = طوَّرَته شركة { -brand-name-mozilla }
