@@ -5,9 +5,15 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = تنزيل { -brand-name-firefox } لأجهزة الكمبيوتر أو الهواتف المحمولة أو المؤسسات
+
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = احصل على متصفحات تضع خُصوصيتك فوق كل اعتبار — ودائمة الالتزام بذلك
 
 # HTML page description
+firefox-browsers-page-desc = اختر من أجهزة الكمبيوتر أو { -brand-name-ios } أو { -brand-name-android } أو اسمح لنا أن نُرسل إليك رابط تنزيل نُسخة الهاتف المحمول.
+
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = استمتع بالخصوصية التي تَستحقها. فميزة "الحماية المُعزَّزة من التعقُّب" تلقائية في أي متصفح { -brand-name-firefox }.
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
