@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Download { -brand-name-firefox } voor Desktop, Mobiel of Ondernemingen
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Download de browsers die uw privacy voorop stellen – en dat altijd hebben gedaan
 # HTML page description
+firefox-browsers-page-desc = Kies uit Desktop, { -brand-name-ios }, { -brand-name-android }, of laat ons u een mobiele downloadkoppeling toesturen per e-mail.
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Krijg de privacy die u verdient. Verbeterde bescherming tegen volgen is automatisch in elke { -brand-name-firefox }-browser.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Download de <strong>browsers</strong> die uw privacy voorop stellen – en dat altijd hebben gedaan
