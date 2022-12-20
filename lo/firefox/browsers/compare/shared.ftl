@@ -20,6 +20,7 @@ compare-shared-autoplay-blocking = ການປິດກັ້ນການຫຼ
 compare-shared-tab-browsing = ແຖບຊອກຫາ
 compare-shared-bookmark-manager = ໂຕຈັດການບຸກມາກ
 compare-shared-automatically-fills-out-forms = ຕື່ມແບບຟອມອັດຕະໂນມັດ
+compare-shared-automatically-fills-out-payments = ຕື່ມແບບຟອມການຊຳລະອັດຕະໂນມັດ
 compare-shared-search-engine-options = ທາງເລືອກຂອງເຄື່ອງຈັກຊອກຫາ
 compare-shared-text-to-speech = ຂໍ້ຄວາມເປັນສຽງເວົ້າ
 compare-shared-reader-mode = ໂໝດຜູ້ອ່ານ
@@ -38,6 +39,8 @@ compare-shared-utility = ປະໂຫຍດ
 compare-shared-portability = ການພົກພາ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = ຄວາມປອດໄພ ແລະ <strong>ຄວາມເປັນສ່ວນຕົວ</strong>
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-portability-strong = <strong>ການພົກພາ</strong>
 compare-shared-overall-assessment = ການປະເມີນໂດຍລວມ
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
@@ -49,3 +52,4 @@ compare-shared-brand-name-brave = { -brand-name-brave }
 compare-shared-desktop = ເດສກ໌ທັອບ
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
+compare-shared-compare-browsers = ປຽບທຽບຕົວທ່ອງເວັບ

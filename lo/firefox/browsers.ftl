@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
+firefox-browsers-download-for-desktop = ດາວໂຫລດສໍາລັບ Desktop
 firefox-browsers-mobile = ໂທລະສັບມືຖື
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-learn-more-about-devtools = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ { -brand-name-devtools }
