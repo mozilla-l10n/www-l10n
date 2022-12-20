@@ -5,9 +5,15 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = डेस्कटॉप, मोबाइल, या एंटरप्राइज़ के लिए { -brand-name-firefox } डाउनलोड करें
+
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = वे ब्राउज़र पाएँ जो आपकी निजता को सबसे पहले रखते हैं — और हमेशा रखते आए हैं
 
 # HTML page description
+firefox-browsers-page-desc = डेस्कटॉप, { -brand-name-ios }, { -brand-name-android } में से कोई चुनें, या आप चाहें तो हम आपको एक मोबाइल डाउनलोड लिंक ईमेल कर सकते हैं।
+
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = जिस निजता के आप हकदार हैं उसे पाएँ। उन्नत ट्रैकिंग सुरक्षा हर { -brand-name-firefox } ब्राउज़र में स्वतः है।
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
