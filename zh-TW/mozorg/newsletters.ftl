@@ -105,6 +105,7 @@ newsletters-you-send-too-many-emails = 你們寄了太多信。
 newsletters-your-content-wasnt-relevant = 你們寄來的內容跟我一點關係都沒有。
 newsletters-your-email-design = 你們的電子報設計太難閱讀。
 newsletters-i-didnt-sign-up = 我沒訂閱過這封信。
+newsletters-please-select-a-reason = 請選擇要取消訂閱的原因。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = 我們的系統中沒有這個信箱，請確認有沒有打錯，或 <a href="{ $url }">直接訂閱我們的電子報。</a>
