@@ -20,6 +20,8 @@ browsers-chromebook-while-a-chromebook = ໃນຂະນະທີ່ { -brand-na
 browsers-chromebook-alwayson-tracking-protection = ການປົກປ້ອງການຕິດຕາມຕະຫຼອດ: ໂດຍຄ່າເລີ່ມຕົ້ນ, { -brand-name-firefox } ແລ່ນການປົກປ້ອງການຕິດຕາມແບບປັບປຸງ (ETP) ເພື່ອປົກປ້ອງຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າຈາກຕົວຕິດຕາມໂຄສະນາທີ່ຮູ້ຈັກ, ຕົວຕິດຕາມສັງຄົມ ແລະສະຄຣິບ cryptomining ທີ່ຕິດຕາມເຈົ້າຢູ່ທົ່ວເວັບ.
 browsers-chromebook-supporting-independent-technology = ສະຫນັບສະຫນູນເຕັກໂນໂລຢີທີ່ເປັນເອກະລາດ: ນັບຕັ້ງແຕ່ຕົວທ່ອງເວັບທີ່ສໍາຄັນສ່ວນໃຫຍ່ກໍາລັງແລ່ນຢູ່ໃນ { -brand-name-chromium }, ມີທາງເລືອກຫນ້ອຍທີ່ບໍ່ໄດ້ເຂົ້າໄປໃນເຄື່ອງ Big Tech. { -brand-name-firefox } ແມ່ນສະຫນັບສະຫນູນໂດຍອົງການບໍ່ຫວັງຜົນກໍາໄລ ແລະອຸທິດຕົນເພື່ອແກ້ໄຂອິນເຕີເນັດ. ການໃຊ້ { -brand-name-firefox } ເຮັດໃຫ້ທ່ານເປັນສ່ວນໜຶ່ງຂອງສິ່ງນັ້ນ.
 browsers-chromebook-is-it-hard = ມັນຍາກທີ່ຈະຕິດຕັ້ງ { -brand-name-firefox } ສໍາລັບ { -brand-name-chromebook }ບໍ່?
+browsers-chromebook-we-wish-it = ພວກເຮົາຕ້ອງການໃຫ້ມັນກົງໄປກົງມາ, ແຕ່ { -brand-name-chromebook } ຂອງເຈົ້າຕ້ອງການໃຫ້ທ່ານຢູ່ໃນລະບົບນິເວດຂອງ { -brand-name-google-play }. ແນວໃດກໍ່ຕາມ, ພວກເຮົາຄິດວ່າມັນຄຸ້ມຄ່າທີ່ຈະຕິດຕັ້ງບຣາວເຊີ { -brand-name-firefox } ໃສ່ { -brand-name-chromebook } ຂອງທ່ານ – ແລະພວກເຮົາມີຊັບພະຍາກອນທີ່ຈະຊ່ວຍທ່ານຖ້າທ່ານຕ້ອງການພວກມັນ. ມີສອງວິທີທີ່ຈະໄດ້ຮັບ { -brand-name-firefox } ໃນອຸປະກອນຂອງທ່ານ.
+browsers-chromebook-install-firefox-from = ຕິດຕັ້ງ { -brand-name-firefox } ຈາກ { -brand-name-google-play } Store: ໃນລຸ້ນໃໝ່ກວ່າຂອງ { -brand-name-chromeos } (x86 based { -brand-name-chromebook }  ແລ່ນ { -brand-name-chromeos } 80 ຫຼືຫຼັງຈາກນັ້ນ), ທ່ານມີທາງເລືອກໃນການຕິດຕັ້ງແອັບຯ { -brand-name-firefox } ສໍາລັບ { -brand-name-android } app. app ນີ້​ໄດ້​ຖືກ​ພັດ​ທະ​ນາ​ສໍາ​ລັບ​ອຸ​ປະ​ກອນ​ມື​ຖື​.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
