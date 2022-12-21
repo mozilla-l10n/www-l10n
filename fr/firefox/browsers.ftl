@@ -5,9 +5,15 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Téléchargez { -brand-name-firefox } pour ordinateur, mobile ou entreprise
+
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Installez les navigateurs qui respectent votre vie privée — et qui l’ont toujours fait
 
 # HTML page description
+firefox-browsers-page-desc = Choisissez la version pour ordinateur, { -brand-name-ios }, { -brand-name-android } ou demandez-nous de vous envoyer un lien de téléchargement mobile.
+
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Obtenez la protection de la vie privée qui vous est due. La protection renforcée contre le pistage est automatique pour chaque navigateur { -brand-name-firefox }.
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
