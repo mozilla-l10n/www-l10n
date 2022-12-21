@@ -9,6 +9,8 @@
 firefox-browsers-page-title = Ladda ned { -brand-name-firefox } för dator, mobil eller företag
 # Outdated string
 firefox-browsers-get-the-browsers-that-put = Hämta webbläsarna som sätter din integritet först — och har alltid gjort det
+# HTML page description
+firefox-browsers-page-desc = Välj från dator, { -brand-name-ios }, { -brand-name-android } eller låt oss skicka en länk för nedladdning via e-post till dig.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Få den integritet du förtjänar. Förbättrat spårningsskydd är automatiskt i alla { -brand-name-firefox }-webbläsare.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
