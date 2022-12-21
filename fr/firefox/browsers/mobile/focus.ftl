@@ -8,11 +8,19 @@
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus } : Le navigateur privé
 
 # HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } est votre navigateur dédié à la protection de la vie privée, avec protection automatique contre le pistage.
+
+# Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } est votre navigateur dédié à la protection de la vie privée, avec protection automatique contre le pistage et blocage des publicités.
 
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = La navigation mobile simple et privée
+
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } est votre navigateur dédié à la protection de la vie privée, avec protection automatique contre le pistage. Avec { -brand-name-focus }, vos pages se chargent plus rapidement et vos données restent privées.
+
+# Outdated string
 mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } est votre navigateur dédié à la protection de la vie privée, avec protection automatique contre le pistage et blocage des publicités. Avec { -brand-name-focus }, vos pages se chargent plus rapidement et vos données restent privées.
+
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } est disponible sur les appareils { -brand-name-ios } et { -brand-name-android }.
 
 mobile-focus-get-firefox-focus = Installer { -brand-name-firefox-focus }
@@ -37,18 +45,11 @@ mobile-focus-private-browsing-on-v2 = Sur la plupart des navigateurs, le « mod
 mobile-focus-tracking-protection = Protection contre le pistage
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } bloque un large spectre de traqueurs courants par défaut, y compris les traqueurs de réseaux sociaux, et les indésirables comme ceux des pubs { -brand-name-facebook } par exemple.
 
-mobile-focus-ad-blocking = Blocage des publicités
-
-# Outdated string
-mobile-focus-focus-blocks-the = { -brand-name-focus } bloque les publicités telles qu’elles sont normalement affichées sur les pages web. Aucun module complémentaire ou extension supplémentaire n’est nécessaire. Avec moins de publicités, vous bénéficiez d’une meilleure vitesse de chargement des pages, ce qui signifie que vous accédez beaucoup plus rapidement à ce que vous voulez.
-
-mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } bloque les publicités qui tentent de vous suivre sur les pages web. Aucun module complémentaire ou extension supplémentaire n’est nécessaire. Avec moins de publicités, vous bénéficiez d’une meilleure vitesse de chargement des pages, ce qui signifie que vous accédez beaucoup plus rapidement à ce que vous voulez.
-
 mobile-focus-see-it-all = Voyez tout plus rapidement
 
-# Outdated string
-mobile-focus-focus-removes-trackers = { -brand-name-focus } supprime les traqueurs et les publicités afin que les pages que vous consultez utilisent moins de données et se chargent beaucoup plus rapidement.
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } supprime les traqueurs afin que les pages que vous consultez utilisent moins de données et se chargent beaucoup plus rapidement. De plus, épinglez jusqu’à quatre raccourcis sur votre écran d’accueil et accédez à votre site préféré encore plus rapidement sans rien taper.
 
+# Outdated string
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } supprime les traqueurs et active les bloqueurs de publicités afin que les pages que vous consultez nécessitent moins de données et se chargent beaucoup plus rapidement. De plus, épinglez jusqu’à quatre raccourcis sur votre écran d’accueil et accédez à votre site préféré encore plus rapidement sans rien taper.
 
 mobile-focus-made-by-mozilla = Conçu par { -brand-name-mozilla }
