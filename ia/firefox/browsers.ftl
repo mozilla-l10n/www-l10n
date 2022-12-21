@@ -9,6 +9,8 @@
 firefox-browsers-page-title = Discargar { -brand-name-firefox } pro scriptorio, mobile, o interprisa
 # Outdated string
 firefox-browsers-get-the-browsers-that-put = Obtene le navigatores que antepone tu vita private – e sempre lo ha facite
+# HTML page description
+firefox-browsers-page-desc = Elige ab, { -brand-name-ios }, { -brand-name-android } scriptorio, o lassa que nos te invia per email, un ligamine de discargamento pro apparato mobile.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Obtene le vita private que tu merita. Le protection meliorate contra le traciamento es automatic in omne navigator { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

@@ -13,6 +13,7 @@ mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } 
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } es tu navigator dedicate al confidentialitate con protection anti-traciamento automatic e blocage de annuncios.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Navigation mobile simplemente private
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } es tu navigator dedicate al confidentialitate con protection anti-traciamento automatic. Con { -brand-name-focus }, tu paginas se carga plus rapidemente e tu datos resta private.
 # Outdated string
 mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } es tu navigator dedicate al confidentialitate con protection anti-traciamento automatic e blocage de annuncios. Con { -brand-name-focus }, tu paginas se carga plus rapidemente e tu datos resta private.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } es disponibile pro apparatos { -brand-name-ios } e { -brand-name-android }.
@@ -31,6 +32,7 @@ mobile-focus-private-browsing-on-v2 = Le “navigation anonyme” sur le major p
 mobile-focus-tracking-protection = Protection contra le traciamento
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } bloca per predefinition un grande varietate de traciatores commun, como traciatores social e le traciatores persistente que proveni de cosas como annuncios de { -brand-name-facebook }.
 mobile-focus-see-it-all = Attinge toto plus rapidemente
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } remove traciatores assi que le paginas que tu visualisa require minus datos e carga multo plus velocemente. Alsi, appuncta usque quatro vias breve sur tu pagina initial e accede a tu sitos favorite mesmo plus facilemente sin scriber alco.
 # Outdated string
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } remove traciatores e activa le blocatores de avisos publicitari assi le paginas web que tu visualisa require minus datos e carga multo plus veloce. Alsi, appuncta usque quatro vias breve sur tu pagina initial e accede a tu sitos favorite mesmo plus facilemente sin scriber alco.
 mobile-focus-made-by-mozilla = Facite per { -brand-name-mozilla }
