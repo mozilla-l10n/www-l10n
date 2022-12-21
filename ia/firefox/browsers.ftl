@@ -1,13 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Discargar { -brand-name-firefox } pro scriptorio, mobile, o interprisa
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Obtene le navigatores que antepone tu vita private – e sempre lo ha facite
-# HTML page description
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Obtene le vita private que tu merita. Le protection meliorate contra le traciamento es automatic in omne navigator { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Obtene le <strong>navigatores</strong> que antepone tu vita private – e sempre lo ha facite
