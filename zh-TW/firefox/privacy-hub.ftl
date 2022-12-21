@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -27,6 +27,10 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = 我們非常努力地保護
 firefox-privacy-hub-data-security-is-complicated = 資料安全相當複雜。也因為如此，我們採取各種方式，對收集到的資料進行分類、針對不同資料維護不同的儲存、保護規則。這個過程會持續改進，永不停止。我們將您的隱私權視為最重要的事情，並且投資與承諾於保護隱私，甚至還教其他公司如何做這些事。
 firefox-privacy-hub-no-secrets = 絕不偷偷來
 firefox-privacy-hub-youll-always-know-where-you = 讓您隨時掌握全局
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = 這裡沒有不成文的規定。我們的營運並不依賴於偷偷濫用您對我們的信任。我們的<a href="{ $privacy }">隱私權公告</a>好讀易懂。若您想了解我們收集的每一個資料點，程式碼是開放的，我們也是。
+# Obsolete string
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
