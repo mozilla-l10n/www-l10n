@@ -8,11 +8,19 @@
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: プライバシーブラウザー
 
 # HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } は、自動トラッキング防止機能を備えた、プライバシー第一のブラウザーです。
+
+# Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } は、自動トラッキング防止機能と広告ブロック機能を備えた、プライバシー第一のブラウザーです。
 
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = シンプルにプライベートなモバイルブラウジング
+
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } は、自動トラッキング防止機能を備えた、プライバシー第一のブラウザーです。{ -brand-name-focus } なら、ページの読み込みが速くなり、データをプライベートに保てます。
+
+# Outdated string
 mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } は、自動トラッキング防止機能と広告ブロック機能を備えた、プライバシー第一のブラウザーです。{ -brand-name-focus } なら、ページの読み込みが速くなり、データをプライベートに保てます。
+
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } は、{ -brand-name-ios } と { -brand-name-android } 両方のデバイスに対応します。
 
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } をダウンロード
@@ -37,18 +45,11 @@ mobile-focus-private-browsing-on-v2 = ほとんどのブラウザーの「プラ
 mobile-focus-tracking-protection = トラッキング防止
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } は、ソーシャルトラッカーや { -brand-name-facebook } 広告などに由来するしつこいトラッカーなど、よくある様々なトラッカーを既定でブロックします。
 
-mobile-focus-ad-blocking = 広告ブロッキング
-
-# Outdated string
-mobile-focus-focus-blocks-the = { -brand-name-focus } は、Web ページに表示される広告をブロックし、アドオンや拡張機能の追加は必要ありません。広告を減らすことで、ページの読み込み速度が向上し、目的のコンテンツに早く到達できるようになります。
-
-mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } は、ウェブページを超えてつきまとう広告をブロックし、アドオンや拡張機能の追加は必要ありません。広告を減らすことで、ページの読み込み速度が向上し、目的のコンテンツに素早く到達できるようになります。
-
 mobile-focus-see-it-all = もっと高速なブラウジング
 
-# Outdated string
-mobile-focus-focus-removes-trackers = { -brand-name-focus } はトラッカーと広告を除去するため、ページのデータ量が少なくなり、読み込みも大幅に速くなります。
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } はトラッカーを除去するため、ページのデータ量が少なくなり、読み込みも大幅に速くなります。また、最大 4 つのショートカットをホーム画面に固定して、入力することなくお気に入りのサイトに素早くアクセスできます。
 
+# Outdated string
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } はトラッカーを除去して広告ブロッカーを有効にするため、ページのデータ量が少なくなり、読み込みも大幅に速くなります。また、最大 4 つのショートカットをホーム画面に固定して、入力することなくお気に入りのサイトに素早くアクセスできます。
 
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } が運営

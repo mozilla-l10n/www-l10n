@@ -8,11 +8,19 @@
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Peramban privasi
 
 # HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } adalah peramban yang disiapkan khusus untuk melindungi privasi Anda dengan perlindungan pelacakan otomatis.
+
+# Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } adalah peramban yang disiapkan khusus untuk melindungi privasi Anda dengan perlindungan pelacakan otomatis dan pemblokiran iklan.
 
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Penjelajahan seluler yang pribadi
+
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } adalah peramban yang disiapkan khusus untuk melindungi privasi Anda dengan perlindungan pelacakan otomatis. Dengan { -brand-name-focus }, laman Anda dimuat lebih cepat dan data Anda tetap pribadi.
+
+# Outdated string
 mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } adalah peramban yang disiapkan khusus untuk melindungi privasi Anda dengan perlindungan pelacakan otomatis dan pemblokiran iklan. Dengan { -brand-name-focus }, laman Anda dimuat lebih cepat dan data Anda tetap pribadi.
+
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } tersedia untuk perangkat { -brand-name-ios } dan { -brand-name-android }.
 
 mobile-focus-get-firefox-focus = Dapatkan { -brand-name-firefox-focus }
@@ -37,18 +45,11 @@ mobile-focus-private-browsing-on-v2 = “Penjelajahan pribadi” di banyak peram
 mobile-focus-tracking-protection = Perlindungan pelacakan
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } memblokir berbagai pelacak yang umum secara default termasuk pelacak sosial dan penguntit yang berasal dari berbagai macam hal seperti iklan { -brand-name-facebook }.
 
-mobile-focus-ad-blocking = Pemblokiran iklan
-
-# Outdated string
-mobile-focus-focus-blocks-the = { -brand-name-focus } memblokir iklan yang biasanya Anda lihat di laman web — tanpa tambahan pengaya atau ekstensi. Dengan lebih sedikit iklan, laman web akan lebih cepat dimuat, artinya Anda mendapatkan semua yang Anda inginkan jauh lebih cepat.
-
-mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } memblokir iklan yang mencoba melacak Anda di laman web — tanpa tambahan pengaya atau ekstensi. Dengan lebih sedikit iklan, laman web akan lebih cepat dimuat, artinya Anda mendapatkan semua yang Anda inginkan jauh lebih cepat.
-
 mobile-focus-see-it-all = Lihat semuanya jadi lebih cepat
 
-# Outdated string
-mobile-focus-focus-removes-trackers = { -brand-name-focus } menghapus pelacak dan iklan sehingga laman yang Anda lihat hanya memerlukan lebih sedikit data dan memuat lebih cepat.
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } menghapus pelacak sehingga laman yang Anda lihat hanya memerlukan lebih sedikit data dan memuat lebih cepat. Selain itu, sematkan hingga empat pintasan di layar utama dan kunjungi situs favorit Anda lebih cepat tanpa mengetik apa pun.
 
+# Outdated string
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } menghapus pelacak dan mengaktifkan pemblokir iklan sehingga laman yang Anda lihat hanya memerlukan lebih sedikit data dan memuat lebih cepat. Selain itu, sematkan hingga empat pintasan di layar utama dan kunjungi situs favorit Anda lebih cepat tanpa mengetik apa pun.
 
 mobile-focus-made-by-mozilla = Dibuat oleh { -brand-name-mozilla }
