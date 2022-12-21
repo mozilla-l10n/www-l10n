@@ -6,8 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Stiahnite si { -brand-name-firefox } pre stolné počítače, mobilné zariadenia alebo podniky
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Získajte prehliadače, pre ktoré je súkromie to najdôležitejšie – a vždy bolo
 # HTML page description
+firefox-browsers-page-desc = Vyberte si z možností stolný počítač, { -brand-name-ios }, { -brand-name-android } alebo si nechajte poslať e-mailom odkaz na stiahnutie do mobilu.
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Získajte súkromie, ktoré si zaslúžite. Rozšírená ochrana pred sledovaním je automatická v každom prehliadači { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Získajte <strong>prehliadače</strong>, pre ktoré je súkromie to najdôležitejšie – a vždy bolo

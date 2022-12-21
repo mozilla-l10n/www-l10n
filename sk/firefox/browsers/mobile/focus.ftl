@@ -8,9 +8,13 @@
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: prehliadač s dôrazom na súkromie
 # HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } je prehliadač zameraný na ochranu súkromia s automatickou ochranou sledovania.
+# Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } je prehliadač zameraný na ochranu súkromia s automatickou ochranou sledovania a blokovaním reklám.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Jednoducho súkromné mobilné prehliadanie
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } je prehliadač zameraný na ochranu súkromia s automatickou ochranou sledovania. S { -brand-name-focus(case: "ins") } sa vaše stránky načítajú rýchlejšie a vaše údaje zostanú súkromné.
+# Outdated string
 mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } je prehliadač zameraný na ochranu súkromia s automatickou ochranou sledovania a blokovaním reklám. S { -brand-name-focus(case: "ins") } sa vaše stránky načítajú rýchlejšie a vaše údaje zostanú súkromné.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } je k dispozícii pre zariadenia s { -brand-name-ios } aj { -brand-name-android(case: "ins") }.
 mobile-focus-get-firefox-focus = Získajte { -brand-name-firefox-focus }
@@ -27,13 +31,9 @@ mobile-focus-private-browsing-on = „Súkromné prehliadanie“ vo väčšine p
 mobile-focus-private-browsing-on-v2 = „Súkromné prehliadanie“ vo väčšine prehliadačov nie je až také súkromné. { -brand-name-firefox-focus } ponúka v predvolenom nastavení vyššiu úroveň ochrany súkromia a je podporovaný { -brand-name-mozilla(case: "ins") }, neziskovou organizáciou, ktorá bojuje za vaše práva na webe.
 mobile-focus-tracking-protection = Ochrana pred sledovaním
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } predvolene blokuje širokú škálu bežných sledovacích prvkov vrátane sledovačov sociálnych sietí a tých na vás nalepených, ktoré pochádzajú napríklad z reklám na { -brand-name-facebook(case: "loc") }.
-mobile-focus-ad-blocking = Blokovanie reklám
-# Outdated string
-mobile-focus-focus-blocks-the = { -brand-name-focus } blokuje reklamy, ktoré sa bežne zobrazujú na webových stránkach – nie sú potrebné žiadne ďalšie doplnky ani rozšírenia. S menším počtom reklám získate vyššiu rýchlosť načítania stránky, čo znamená, že sa k požadovaným veciam dostanete oveľa rýchlejšie.
-mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } blokuje reklamy, ktoré sa vás snažia sledovať na webových stránkach – nie sú potrebné žiadne ďalšie doplnky ani rozšírenia. S menším počtom reklám získate vyššiu rýchlosť načítania stránky, čo znamená, že sa k požadovaným veciam dostanete oveľa rýchlejšie.
 mobile-focus-see-it-all = Pozrite si to všetko rýchlejšie
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } odstraňuje sledovacie prvky, takže stránky, ktoré si prezeráte, vyžadujú menej údajov a načítavajú sa oveľa rýchlejšie. Takisto si môžete pripnúť až štyri skratky na svoju domovskú obrazovku, vďaka čomu môžete prejsť na svoju obľúbenú stránku ešte rýchlejšie bez toho, aby ste museli čokoľvek písať.
 # Outdated string
-mobile-focus-focus-removes-trackers = { -brand-name-focus } odstraňuje sledovače a reklamy, takže stránky, ktoré si prezeráte, vyžadujú menej údajov a načítavajú sa oveľa rýchlejšie.
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } odstraňuje sledovacie prvky a zapína blokovanie reklám, takže stránky, ktoré si prezeráte, vyžadujú menej údajov a načítavajú sa oveľa rýchlejšie. Takisto si môžete pripnúť až štyri skratky na svoju domovskú obrazovku, vďaka čomu môžete prejsť na svoju obľúbenú stránku ešte rýchlejšie bez toho, aby ste museli čokoľvek písať.
 mobile-focus-made-by-mozilla = Od spoločnosti { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Veríme, že každý by mal mať kontrolu nad svojim online životom. Za to bojujeme od roku 1998.
