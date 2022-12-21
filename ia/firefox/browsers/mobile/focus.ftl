@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
@@ -8,9 +8,12 @@
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Le navigator confidential
 # HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } es le navigator devote a tu confidentialitate con protection de traciamento automatic.
+# Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } es tu navigator dedicate al confidentialitate con protection anti-traciamento automatic e blocage de annuncios.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Navigation mobile simplemente private
+# Outdated string
 mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } es tu navigator dedicate al confidentialitate con protection anti-traciamento automatic e blocage de annuncios. Con { -brand-name-focus }, tu paginas se carga plus rapidemente e tu datos resta private.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } es disponibile pro apparatos { -brand-name-ios } e { -brand-name-android }.
 mobile-focus-get-firefox-focus = Obtene { -brand-name-firefox-focus }
@@ -27,13 +30,8 @@ mobile-focus-private-browsing-on = Le “navigation private” sur le major part
 mobile-focus-private-browsing-on-v2 = Le “navigation anonyme” sur le major parte del navigatores non es vermente tanto anonyme. { -brand-name-firefox-focus } forni de norma un protection de vanguarda e illo es sustenite per { -brand-name-mozilla }, le organisation sin scopo de lucro que lucta pro tu derectos sur le web.
 mobile-focus-tracking-protection = Protection contra le traciamento
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } bloca per predefinition un grande varietate de traciatores commun, como traciatores social e le traciatores persistente que proveni de cosas como annuncios de { -brand-name-facebook }.
-mobile-focus-ad-blocking = Blocada del avisos publicitari
-# Outdated string
-mobile-focus-focus-blocks-the = { -brand-name-focus } bloca le annuncios que tu normalmente vide sur paginas web. Nulle additivos o extensiones necessari. Con minus annuncios, tu paginas se carga plus rapidemente e tu attinge plus tosto le cosas que tu vole.
-mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } bloca le annuncios que tenta te traciar inter le paginas web. Nulle additivos o extensiones necessari. Con minus annuncios, tu paginas se carga plus rapidemente e tu attinge plus tosto le cosas que tu vole.
 mobile-focus-see-it-all = Attinge toto plus rapidemente
 # Outdated string
-mobile-focus-focus-removes-trackers = { -brand-name-focus } remove traciatores e annuncios, de maniera que le paginas que tu visita consume minus datos e se carga multo plus rapidemente.
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } remove traciatores e activa le blocatores de avisos publicitari assi le paginas web que tu visualisa require minus datos e carga multo plus veloce. Alsi, appuncta usque quatro vias breve sur tu pagina initial e accede a tu sitos favorite mesmo plus facilemente sin scriber alco.
 mobile-focus-made-by-mozilla = Facite per { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Nos crede que cata uno deberea haber le controlo de su vita in linea. Es pro isto que nos lucta desde 1998.
