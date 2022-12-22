@@ -32,6 +32,7 @@ mobile-focus-private-browsing-on-v2 = "Zasebno brskanje" v večini brskalnikov p
 mobile-focus-tracking-protection = Zaščita pred sledenjem
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } samodejno zavrača široko paleto pogostih sledilcev, vključno s sledilci družbenih omrežij in s tistimi trdovratnimi, ki se vas oprimejo iz { -brand-name-facebook }ovih in podobnih oglasov.
 mobile-focus-see-it-all = Hitreje do vsebine
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } odstranjuje sledilce, zato nalaganje strani porabi manj podatkov in je veliko hitrejše. Lahko tudi pripnete do štiri bližnjice na domači zaslon in si uredite še hitrejši dostop do najljubših spletnih strani brez tipkanja.
 # Outdated string
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } odstranjuje sledilce in blokira oglase, zato nalaganje strani porabi manj podatkov in je veliko hitrejše. Lahko tudi pripnete do štiri bližnjice na domači zaslon in si uredite še hitrejši dostop do najljubših spletnih strani brez tipkanja.
 mobile-focus-made-by-mozilla = Izpod rok { -brand-name-mozilla(sklon: "rodilnik") }
