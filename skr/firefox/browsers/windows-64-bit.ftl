@@ -8,4 +8,5 @@
 windows-64-bit-64-bit = 64ــ بٹ
 # Main title
 windows-64-bit-a-more-secure-firefox = زیادہ محفوظ { -brand-name-firefox }۔
+windows-64-bit-whats-the-difference = 32 بٹ تے 64 بٹ دے درمیان کیا فرق ہے؟
 windows-64-bit-take-control-of-your = آپݨے براؤزر دا کنٹرول گھنو۔
