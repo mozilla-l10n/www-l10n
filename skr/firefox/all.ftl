@@ -20,6 +20,7 @@ firefox-all-lang-multi = ڈھڳ زباناں
 firefox-all-sorry-we-couldnt-find = معذرت، اساکوں او ڈاؤن لوڈ نہیں لبھی تساں جیندی ڳول اِچ ہو۔ براہ مہربانی ولا کوشش کرو، یا تلویں فہرست کنوں ڈاؤن لوڈ کوں چݨو۔
 firefox-all-the-pre-alpha-version = پری الفا ورژن پری پاور صارفین کیتے ہے جو کریشز دا شکار کرݨ چاہندے ہن تے نویں خصوصیات کوں کوڈ کریندے ہوئے جانچݨ چاہندے ہن۔
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
+firefox-all-choose-a-64-bit-installer = 64 بٹ پروسیسرز والے کمپیوٹرز کیتے 64 بٹ انسٹالر دا انتخاب کرو، جیڑھا انہاں کوں انفرادی پروگراماں کیتے زیادہ RAM مختص کرݨ دی اجازت ݙیندا ہے - خاص طور تے گیماں تے بئے مطلوبہ ایپلی کیشنز کیتے اہم۔
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = انگریزی (یو ایس) تے 90 کنوں ودھ ٻیاں زباناں وچ { -brand-name-firefox-browser } ڈاؤن لوڈ کرو

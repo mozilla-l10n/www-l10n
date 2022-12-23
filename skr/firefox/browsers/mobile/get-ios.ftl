@@ -7,4 +7,7 @@
 
 # HTML page title
 get-ios-firefox-for-ios = { -brand-name-ios } کیتے { -brand-name-firefox-browser }
+# HTML page description
+get-ios-firefox-is-fast = { -brand-name-ios } کیتے { -brand-name-firefox } پہلی واری کھولݨ کنوں تکھا ، محفوظ تے نجی ہے۔
 get-ios-firefox-browser = { -brand-name-firefox }
+get-ios-download-firefox = { -brand-name-ios } کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو

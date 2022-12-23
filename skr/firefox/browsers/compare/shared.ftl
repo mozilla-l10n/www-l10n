@@ -45,6 +45,10 @@ compare-shared-utility-strong = <strong>افادیت</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>پورٹیبلٹی</strong>
 compare-shared-overall-assessment = مجموعی چان٘چ
+compare-shared-the-comparisons-made-here-updated = اتھاں کیتا ڳیا موازنہ طے شدہ ترتیباں دے نال تے براؤزر دے ریلیز ورژن وِچ ہیٹھ درج دے نال کیتا ڳیا ہا:
+# Obsolete string
+compare-shared-the-comparisons-made-here = اتھاں کیتا ڳیا موازنہ براؤزر دے ریلیز ورژن وِچ ہیٹھ درج دے مطابق کیتا ڳیا ہا:
+compare-shared-this-page-updated-semi-quarterly = ایہ ورقہ نویں نکور ورژن دی عکاسی کرݨ کیتے ادھ ترائے ماہی وِچ اپ ڈیٹ کیتا ویندا ہے تے تھی سڳدا ہے جو ہمیشاں نویاں نکور اپ ڈیٹاں دی عکاسی نہ کرے۔
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
