@@ -8,9 +8,13 @@
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Приватний браузер
 # HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } – ваш відданий приватний браузер з автоматичним захистом від стеження.
+# Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } — ваш відданий приватний браузер з автоматичним захистом від стеження та блокуванням реклами.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Просто приватний мобільний перегляд
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } – ваш відданий приватний браузер з автоматичним захистом від стеження. Із { -brand-name-focus } ваші сторінки завантажуються швидше, а дані залишаються приватними.
+# Outdated string
 mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } — ваш відданий приватний браузер з автоматичним захистом від стеження та блокуванням реклами. Із { -brand-name-focus } ваші сторінки завантажуються швидше, а дані залишаються приватними.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } доступний як для пристроїв { -brand-name-ios }, так і для { -brand-name-android }.
 mobile-focus-get-firefox-focus = Отримайте { -brand-name-firefox-focus }
@@ -27,13 +31,9 @@ mobile-focus-private-browsing-on = «Приватний перегляд» у б
 mobile-focus-private-browsing-on-v2 = «Приватний перегляд» у більшості браузерів насправді не такий уже й приватний. { -brand-name-firefox-focus } пропонує новий рівень приватності типово й підтримується { -brand-name-mozilla }, некомерційною організацією, яка відстоює ваші права в інтернеті.
 mobile-focus-tracking-protection = Захист від стеження
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } типово блокує широкий спектр поширених елементів стеження, зокрема, елементи стеження суспільних мереж та інші в'їдливі елементи стеження, наприклад, оголошення { -brand-name-facebook }.
-mobile-focus-ad-blocking = Блокування реклами
-# Outdated string
-mobile-focus-focus-blocks-the = { -brand-name-focus } блокує рекламу, яку ви зазвичай бачите на вебсторінках, без жодних додатків чи розширень. Зі зменшенням кількості оголошень зростає швидкість завантаження сторінок, тож ви значно швидше дістаєтеся потрібних матеріалів.
-mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } блокує рекламу, яка намагається стежити за вами між вебсторінками, без жодних додатків чи розширень. Зі зменшенням кількості оголошень зростає швидкість завантаження сторінок, тож ви значно швидше дістаєтеся потрібних матеріалів.
 mobile-focus-see-it-all = Пришвидшення перегляду
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } прибирає елементи стеження, тому сторінки, які ви переглядаєте, використовують менше даних і завантажуються значно швидше. Крім того, ви можете закріпити до чотирьох ярликів на головному екрані та ще швидше переходити на улюблені сайти без зайвих дій.
 # Outdated string
-mobile-focus-focus-removes-trackers = { -brand-name-focus } прибирає елементи стеження та оголошення, тому сторінки, які ви переглядаєте, використовують менше даних і завантажуються значно швидше.
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } прибирає елементи стеження та вмикає блокування реклами, тому сторінки, які ви переглядаєте, використовують менше даних і завантажуються набагато швидше. Крім того, ви можете закріпити до чотирьох ярликів на головному екрані та ще швидше переходите на улюблені сайти без зайвих дій.
 mobile-focus-made-by-mozilla = Створено { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Ми віримо, що кожен повинен мати можливість контролю свого життя в інтернеті. Саме це ми відстоюємо з 1998 року.
