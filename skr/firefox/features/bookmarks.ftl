@@ -8,3 +8,5 @@
 features-bookmarks-better-bookmarks = بہتر نشانیاں
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = او نشانی فائل کرو
+# Fly here means to have your bookmark go wherever you go.
+features-bookmarks-fly-with-that-bookmark = اوں نشانی نال اُݙو
