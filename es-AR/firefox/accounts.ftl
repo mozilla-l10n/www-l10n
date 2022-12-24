@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -19,7 +19,7 @@ firefox-accounts-there-is-a-way-to-protect = Hay una manera de proteger tu priva
 firefox-accounts-take-your-stand-against = Posicionate en contra de una industria cuyo producto sos vos.
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Iniciaste la sesión en { -brand-name-firefox }. <br><span>Ahora probá { -brand-name-firefox-monitor }.</span>
-firefox-accounts-see-if-youve-been = Fijate si estuviste involucrado en una violación de datos en línea.
+firefox-accounts-see-if-youve-been = Fijate si estuviste involucrado en una filtración de datos en línea.
 firefox-accounts-sign-in-to-monitor = Iniciá sesión en { -brand-name-monitor }
 firefox-accounts-join-firefox = Unite a { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Ingresá tu dirección de correo electrónico para empezar.
@@ -31,7 +31,7 @@ firefox-accounts-get-technology-that = Firefox es una tecnología que lucha por 
 firefox-accounts-travel-the-internet = Navegá por Internet con protección en todos los dispositivos.
 # Obsolete string
 firefox-accounts-keep-your-passwords = Mantené tus contraseñas protegidas y portables.
-firefox-accounts-get-a-lookout-for = Conseguí un estado de alerta para las violaciones de datos.
+firefox-accounts-get-a-lookout-for = Conseguí un estado de alerta para las filtraciones de datos.
 # Obsolete string
 firefox-accounts-share-large-files = Compartí archivos grandes sin miradas indiscretas.
 firefox-accounts-get-it-all-on-every = Obtenga todo en cada dispositivo, sin sentirse atrapado en un solo sistema operativo.
