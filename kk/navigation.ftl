@@ -1,10 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = { -brand-name-firefox } жүктеп алу
 navigation-get-a-firefox-account = { -brand-name-firefox-account } алу
 navigation-firefox-browser-for-desktop = Дербес компьютер үшін { -brand-name-firefox-browser }
+navigation-get-the-browser-that-respects = Жекелігіңізді автоматты түрде құрметтейтін браузерді алыңыз. { -brand-name-windows }, { -brand-name-mac } немесе { -brand-name-linux } жүйелерінде.
 navigation-download-for-ios = { -brand-name-ios } үшін жүктеп алу
 navigation-download-for-android = { -brand-name-android } үшін жүктеп алу
 navigation-ios-support = { -brand-name-ios } қолдауы
@@ -16,6 +17,7 @@ navigation-get-firefox = { -brand-name-firefox } алу
 navigation-get-firefox-focus = { -brand-name-firefox-focus } алу
 navigation-android-extensions = { -brand-name-android } кеңейтулері
 navigation-your-firefox-account = Сіздің { -brand-name-firefox-account }
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-manifesto = { -brand-name-mozilla } Манифесті
 navigation-menu = Мәзір
@@ -35,6 +37,7 @@ navigation-security-tips = Қауіпсіздік кеңестері
 navigation-share-large-files-safely = Үлке файлдармен "өздігінен жойылатын" сілтемелер арқылы бөлісіңіз.
 navigation-save-quality-content = Кез-келген жерден сапалы мазмұнды сақтаңыз. Ақыл-ойыңызды барлық жерде толтырыңыз.
 navigation-sign-up = Тіркелу
+# Outdated string
 navigation-connected-and-protected = Байланысқан және қорғалған
 navigation-join = Қосылу
 navigation-close-join-menu = Қосылу мәзірін жабу
