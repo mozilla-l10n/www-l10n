@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Descargá { -brand-name-firefox }
 navigation-get-a-firefox-account = Obtené una { -brand-name-firefox-account }
@@ -68,8 +68,8 @@ navigation-get-unmatched-data-protection = Obtené una protección de datos sin 
 navigation-made-with-respect = Hecho con respeto
 navigation-close-products-menu = Cerrar menú Productos
 navigation-see-if-your-personal = Fijate si tu información personal se filtró en línea y registrate para futuras alertas de violaciones de datos.
-navigation-check-for-breaches = Verificá si hay violaciones
-navigation-see-breaches = Ver violaciones
+navigation-check-for-breaches = Verificá si hay filtraciones
+navigation-see-breaches = Ver filtraciones
 navigation-security-tips = Consejos de seguridad
 navigation-share-large-files-safely = Compartí archivos grandes de forma segura, con enlaces que se "autodestruyen".
 navigation-save-quality-content = Guardá contenido de calidad desde cualquier lugar. Impulsá tu mente en todas partes.

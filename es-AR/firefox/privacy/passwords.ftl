@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -42,7 +42,7 @@ privacy-passwords-the-secret-to = El secreto para evitar qu te adivinen, roben o
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = Cuando un atacante roba la base de datos de contraseñas para un sitio que usas (como <a { $url_linkedin }>LinkedIn</a> o <a { $url_yahoo }>Yahoo</a>), no hay nada que puedas hacer excepto cambiar tu contraseña para ese sitio. Eso es malo, pero el daño puede ser mucho peor si has reusado esa contraseña con otros sitios web — entonces el atacante puede acceder a tus cuentas en esos sitios también. Para mantener el daño contenido, <strong>siempre usa diferentes contraseñas para diferentes sitios web.</strong>
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
-privacy-passwords-use-firefox-monitor = Usa <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> para vigilar las direcciones de correo asociadas con tus cuentas. Si tu correo electrónico aparece en una violación de datos corporativa, recibirás alertas y te proporcionarán los pasos que deberás seguir para proteger la cuenta afectada.
+privacy-passwords-use-firefox-monitor = Usá <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> para vigilar las direcciones de correo asociadas con tus cuentas. Si tu correo electrónico aparece en una filtración de datos corporativa, recibirás alertas y te proporcionarán los pasos que deberás seguir para proteger la cuenta afectada.
 privacy-passwords-security-questions-my = Preguntas de seguridad: el apellido de soltera de mi madre es "Ff926AKa9j6Q"
 privacy-passwords-finally-most-websites = Por último, la mayoría de los sitios web te permiten recuperar tu contraseña si la has olvidado. Normalmente, estos sistemas te hacen responder algunas "preguntas de seguridad" antes de poder restablecer tu contraseña. <strong>Las respuestas a estas preguntas deben ser tan secretas como tu contraseña.</strong> De lo contrario, un atacante puede adivinar las respuestas y establecer tu contraseña para algo que sabe.
 privacy-passwords-randomness-can-be = El azar puede ser un problema, ya que las preguntas de seguridad que los sitios a menudo usan también son cosas que la gente tiende a saber sobre ti, como tu lugar de nacimiento, tu cumpleaños, o los nombres de tus parientes o que se pueden aprender de fuentes como las redes sociales. La buena noticia es que al sitio web no le importa si la respuesta es real o no, ¡puedes mentir! Pero mentir productivamente: <strong>Da respuestas a las preguntas de seguridad que son largas y aleatorias,</strong> como tus contraseñas.
@@ -54,7 +54,7 @@ privacy-passwords-twofactor-authentication-2fa = Autenticación con dos factores
 privacy-passwords-2fa-is-a = 2FA es una gran manera de mejorar tu seguridad. Al configurar una nueva cuenta, algunos sitios web te darán la opción de agregar un "segundo factor" al proceso de inicio de sesión. A menudo, esto significa enlazar tu número de teléfono a tu cuenta, así que después de introducir tu contraseña, se te pedirá que introduzcas un código seguro directamente. De esta forma, si un hacker ha conseguido tu contraseña, todavía no podrá acceder a tu cuenta, ya que no tienen tu teléfono.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Tu cuenta de { -brand-name-firefox }, por ejemplo, puede protegerse con 2FA, <a { $url_sumo_2fa }>de la que podés conocer más aquí</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA proporciona mucha mejor seguridad que las contraseñas por sí solas, pero no todos los sitios web lo admiten. Puedes encontrar una lista de sitios web que admiten 2FA en <a { $url_2fa }>https://twofactorauth.org</a>, así como una lista de sitios que no admiten 2FA y formas en las que puedes pedirles que añadan soporte.
 privacy-passwords-strong-diverse-and = Fuerte, diverso y multifactorial
 privacy-passwords-for-better-or = Para bien o para mal, vamos a usar contraseñas para proteger nuestras cuentas en línea por bastante tiempo. Utiliza contraseñas que sean <strong>fuertes</strong> y <strong>diferentes para cada sitio</strong>, y usa un <strong>administrador de contraseñas</strong> para ayudarte a recordarlas de forma segura. Establece <strong>respuestas aleatorias</strong> para preguntas de seguridad (incluso si no son la verdad). Y <strong>utiliza la autenticación de dos factores</strong> en cualquier sitio que la admita.

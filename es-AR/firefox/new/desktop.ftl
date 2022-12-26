@@ -38,10 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Bloquea rastreadores sociales
 firefox-desktop-download-os-availability = Disponibilidad de sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla incorporada
 firefox-desktop-download-primary-password = Contraseña maestra
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Amá tu vida en línea
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Es tu internet. Coloreala como te guste con miles de herramientas, temas y extensiones. { -brand-name-firefox } es navegador alternativo original que pone a las personas antes que a las ganancias.
 # Obsolete string
 firefox-desktop-download-master-password = Contraseña maestra
@@ -83,7 +82,7 @@ firefox-desktop-download-cryptominer-blocking = Bloqueo de criptominería
 firefox-desktop-download-private-browsing-mode = Modo de navegación privada
 firefox-desktop-download-individual-protections-report = Informe de protecciones individuales
 firefox-desktop-download-secure-your-personal = Asegurá tu información personal
-firefox-desktop-download-breached-website-alerts = Alertas de sitios web violados
+firefox-desktop-download-breached-website-alerts = Alertas de sitios web filtrados
 firefox-desktop-download-built-in-password = Administrador de contraseñas incorporado
 firefox-desktop-download-clear-history = Eliminá el historial
 firefox-desktop-download-form-autofill = Llenado automático de formularios

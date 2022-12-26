@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -21,7 +21,7 @@ about-our-leadership-has-been-at = Nuestro liderazgo estuvo a la vanguardia de l
 about-firefox-fast-for-good = { -brand-name-firefox }: rápido para siempre
 about-when-you-use-the-new-firefox = Cuando usás el nuevo { -brand-name-firefox }, conseguís una experiencia increíblemente rápida al mismo tiempo que apoyás la misión de { -brand-name-mozilla } de mantener Internet saludable, diferente y acogedora para todos.
 about-walking-our-privacy-talk = Explorar nuestra charla de privacidad
-about-when-the-facebook-breach-was = Cuando se reveló la violación de { -brand-name-facebook }, { -brand-name-mozilla } tuvo una respuesta inmediata y un producto de { -brand-name-firefox } para respaldar la privacidad del usuario.
+about-when-the-facebook-breach-was = Cuando se reveló la filtración de { -brand-name-facebook }, { -brand-name-mozilla } tuvo una respuesta inmediata y un producto de { -brand-name-firefox } para respaldar la privacidad del usuario.
 about-talking-internet-issues-irl = Charlar sobre temas de Internet IRL
 about-in-mozillas-irl-podcast-host = En el podcast IRL de { -brand-name-mozilla }, el anfitrión Manoush Zomorodi comparte historias reales de la vida en línea y charlas reales sobre el futuro de la Web.
 about-corporation-foundation-not = Corporación. Fundación. Sin fines de lucro.

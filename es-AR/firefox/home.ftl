@@ -11,7 +11,7 @@ firefox-home-the-browser-is-just = El navegador es solo el comienzo
 firefox-home-meet-our-family-of = Conocé a nuestra familia de productos
 firefox-home-get-trackers-off = Más de 2000 rastreadores fuera de tu camino, incluido { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Enterate cuándo atacan los piratas y mantenete un paso adelante
-firefox-home-start-getting-breach = Empezá a recibir informes de violaciones
+firefox-home-start-getting-breach = Empezá a recibir informes de filtraciones
 firefox-home-un-spam-your-life = Eliminá el spam de tu vida con { -brand-name-relay }
 firefox-home-try-relay = Probá { -brand-name-relay }
 # Obsolete string

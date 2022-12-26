@@ -12,9 +12,9 @@ firefox-products-its-a-whole-family-of-products = Firefox es una familia complet
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } es <strong>más</strong> que un navegador
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-products-see-if-your-personal-information = Fijate si tu información personal fue comprometida en una violación de datos corporativa y registrate para recibir futuras alertas.
-firefox-products-check-for-breaches = Verificá si hay violaciones
-firefox-products-sign-up-for-breach-alerts = Registrate para recibir alertas de violaciones
+firefox-products-see-if-your-personal-information = Fijate si tu información personal fue comprometida en una filtración de datos corporativa y registrate para recibir futuras alertas.
+firefox-products-check-for-breaches = Verificá si hay filtraciones
+firefox-products-sign-up-for-breach-alerts = Registrate para recibir alertas de filtraciones
 firefox-products-firefox-browsers = Navegadores { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Conseguí los navegadores que bloquean automáticamente más de 2000 rastreadores de datos. La protección contra el rastreo mejorada es estándar en todos los navegadores { -brand-name-firefox }.
 firefox-products-desktop = Escritorio
