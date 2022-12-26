@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-try-relay = { -brand-name-relay } ازماؤ
+firefox-home-get-the-browser-extension = براؤزر ایکسٹینشن گھنو
+firefox-home-get-the-facebook-container = { -brand-name-facebook-container } ایکسٹیشن گھنو
 firefox-home-download-the-browser = براؤزر ڈاؤن لوڈ کرو
 firefox-home-download-the-app = ایپ ڈاؤن لوڈ کرو
 firefox-home-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو
