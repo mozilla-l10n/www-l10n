@@ -7,4 +7,10 @@
 
 features-shared-browse-faster = تیزی نال براؤز کرو
 features-shared-password-manager = پاس ورڈ منیجر
+features-shared-customize-your-browser = اپݨے براؤزر دی تخصیص کرو
+features-shared-sync-between-devices = ڈیوائساں کوں ہم وقت کرو
+features-shared-better-bookmarks = بہتر نشانیاں
+features-shared-fingerprinter-blocking = فنگر پرنٹ بلاک کرݨ
+features-shared-translate-the-web = ویب دا ترجمہ کرو
+features-shared-picture-in-picture = تصویر وِچ تصویر
 brand-name-firefox = { -brand-name-firefox }
