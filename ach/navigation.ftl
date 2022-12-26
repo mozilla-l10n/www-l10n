@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Gam { -brand-name-firefox }
 navigation-get-a-firefox-account = Nong { -brand-name-firefox-account }
@@ -17,7 +17,9 @@ navigation-get-firefox = Nong { -brand-name-firefox }
 navigation-get-firefox-focus = Nong { -brand-name-firefox-focus }
 navigation-android-extensions = Lamed me { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } mamegi
+# Outdated string
 navigation-learn-how-to-customize = Pwony kit me yubu kit ma { -brand-name-firefox } tyo kwede.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-check-out-the-benefits = Nen ber ne
 navigation-download = Gam
@@ -31,6 +33,7 @@ navigation-sign-in = Dony Iyie
 navigation-benefits = Ber ne
 navigation-about = Ikom
 navigation-new-features = Jami manyen
+# Outdated string
 navigation-add-ons = Med-ikome
 navigation-donate-your-voice-to = Mii kony me dwoni me konyo weko ngeno dwon bedo ayaba bot dano weng.
 navigation-leadership = Tela
@@ -39,6 +42,7 @@ navigation-contact = Ka kube
 navigation-careers = Tic
 navigation-work-for-a-mission-driven = Tii bot dul ma miti aye dwoyo ma yubo jami ma miti aye dwoyo.
 navigation-get-involved = Dony iyie
+navigation-join-the-fight-for-a = Dony ilweny pi intanet maber.
 navigation-donate = Mii kony
 navigation-release-notes = Lok me kelo woko
 navigation-features = Kit
