@@ -12,3 +12,6 @@ mobile-ios-get-firefox-for = Nong { -brand-name-firefox } pi { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Cwal kakube me gam i cim mamegi.
 mobile-ios-scan-the-qr-code-to-get-started = Meny kod me QR me cako
 mobile-ios-scan-alt-text = Meny kod me QR me nongo { -brand-name-firefox } i { -brand-name-ios }
+mobile-ios-make-firefox-your = Wek { -brand-name-firefox } obed layeny mamegi makwongo
+mobile-ios-get-more-firefox = Nong { -brand-name-firefox } mapol i kwo mamegi
+mobile-ios-about-mozilla = Lok kom { -brand-name-mozilla }
