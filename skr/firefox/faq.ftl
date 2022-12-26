@@ -36,6 +36,7 @@ is-firefox-safe = بھلا { -brand-name-firefox } محفوظ ہے؟
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = بھلا { -brand-name-firefox } تہاݙا ذاتی ڈیٹا وچیندے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
