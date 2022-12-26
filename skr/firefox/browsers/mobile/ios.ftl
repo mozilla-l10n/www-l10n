@@ -23,4 +23,7 @@ mobile-ios-get-more-firefox = آپݨی حیاتی وچ ٻئی { -brand-name-fire
 mobile-ios-own-your-home = اپݨی ہوم سکرین دے مالک بݨو
 mobile-ios-get-to-the-parts = انٹرنیٹ دے انہاں حصیاں تائیں تکھاجی نال پڄو جنہاں دا تہاکوں خیال ہے۔ اپݨیاں تمام کھلیاں ٹیباں، حالیہ ڳول، نشانیاں تے من بھاوݨیاں سائٹاں سبھ کوں ہکی جاہ تے ݙیکھݨ دا انتخاب کرو۔
 mobile-ios-find-it-all = ایہ سبھ تکھاجی نال لبھو
+# Obsolete string
+mobile-ios-keep-tabs-on = اُنہاں ساریاں ٹیباں تے ٹیباں رکھو
+mobile-ios-discover-more-of = تساں جہڑی شئے نال پیار کریندے ہو اوں بارے ٻیا دریافت کرو
 mobile-ios-about-mozilla = { -brand-name-mozilla } دا تعارف

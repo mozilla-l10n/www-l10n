@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
 
+# HTML page title
+windows-64-bit-firefox-for-windows = { -brand-name-windows } 64 بٹ کیتے { -brand-name-firefox }
 windows-64-bit-64-bit = 64ــ بٹ
 # Main title
 windows-64-bit-a-more-secure-firefox = زیادہ محفوظ { -brand-name-firefox }۔
