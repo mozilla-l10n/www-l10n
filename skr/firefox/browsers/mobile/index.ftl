@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
 browsers-mobile-firefox-for-android = { -brand-name-android } کیتے { -brand-name-firefox }
+browsers-mobile-firefox-for-ios = { -brand-name-ios } کیتے { -brand-name-firefox }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = موبائل براؤزراں دا ویورا کرو
 browsers-mobile-compare = ویورا

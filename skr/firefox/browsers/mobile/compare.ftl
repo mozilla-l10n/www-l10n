@@ -17,6 +17,7 @@ mobile-compare-what-can-your = تہاݙا براؤزر تہاݙے کیتے کی�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>ہم وقت کرݨ</strong>
 mobile-compare-syncing = ہم وقت تھیندا پئے
+mobile-compare-does-your-browser = بھلا تہاݙا براؤزر ٻیاں ڈیوائساں نال چنگا چلدا ہے؟
 mobile-compare-almost-all-of = اتھاں دے مقابلے تقریباً تمام موبائل براؤزرز موبائل تے ڈیسک ٹاپ ڈیوائساں دے درمیان مکمل ہم آہنگی دی اجازت ݙیندے ہن۔
 mobile-compare-conclusion = نتیجہ
 mobile-compare-our-recommendations-aside = اساݙیاں سفارشاں کوں ہک پاسے رکھیندے ہوئیں، تہاݙے کیتے صحیح براؤزر ڳولݨ ہمیشاں تہاݙی انفرادی لوڑاں تے آن لائن نیویگیٹ کریندے ویلھے تہاݙی سبھ توں زیادہ اہمیت تے منحصر ہوسے۔
