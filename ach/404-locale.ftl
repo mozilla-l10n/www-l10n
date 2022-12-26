@@ -13,3 +13,7 @@ not-found-locale-not-yet-translated = Pud pe kiloko leb me potbuk
 #   $contribute (url) - link to https://wiki.mozilla.org/L10n:Contribute
 not-found-locale-join-us = Dony iyie <a href="{ $community }">tim pa lwak mamegwa</a> ka ikonywa <a href="{ $contribute }">me loko leb me potbuk man.</a>
 not-found-locale-available = Tye i leb magi:
+# Variables:
+#   $requested_page (string) - path of originally requested page
+#   $link_language (string) - name of language used in page link
+not-found-locale-link-title = Yeny { $requested_page } i leb { $link_language }
