@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -8,7 +8,11 @@
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } pi { -brand-name-firefox } | Gengo { -brand-name-facebook } neno kakube mene ma ilimo.
 facebook-container-get-the-facebook-container = Nong lamed me { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Gam { -brand-name-firefox } ka inong lamed me { -brand-name-facebook-container }
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Outdated string
 facebook-container-the-facebook-container-extension = Lamed me { -brand-name-facebook-container } pe nonge i nyonyo weng me cing.
+facebook-container-get-firefox-android-ios = Nong { -brand-name-firefox } pi { -brand-name-android } ki { -brand-name-ios } kombedi.
+# Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Tem <strong>{ -brand-name-firefox-focus }</strong>, layeny me mung pi { -brand-name-android } ki { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Kato woko i miti ni

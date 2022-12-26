@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } obedo layeny ma dwir adada ma kelo gitic pa ludiro manyen loyo ki jami manyen calo nongo bal ii nyonyo ki kony me CSS Grid
@@ -26,9 +26,13 @@ firefox-developer-learn-more-about-responsive = Nong ngec mapol ikom Responsive 
 firefox-developer-visual-editing = Visual Editing
 firefox-developer-learn-more-about-visual-editing = Nong ngec mapol ikom Visual Editing
 firefox-developer-performance = Tic
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-faster-performance = Tic oyotoyot
 firefox-developer-faster-innovation = Ngec pi oyot
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } cwalo pire kene adwogi bot { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Gam layeny me { -brand-name-firefox } ma kiyubo pi ludiro
 firefox-developer-welcome-to-the-all-new = Wajoli ii { -brand-name-firefox-quantum } ma nyen loyo: { -brand-name-developer-edition }
 firefox-developer-congrats-you-now-have-firefox = Pwoc madit. Dong itye { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
+firefox-developer-welcome-to-firefox-browser = Wajoli ii { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-congrats-you-now-have = Pwoc madit. Dong itye ki { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Pwoc madit. Dong itye ki { -brand-name-firefox-browser } { -brand-name-developer-edition } manyen loyo.
