@@ -7,4 +7,6 @@
 
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-get-automatic-privacy-on-mobile = موبائل تے خودکار رازداری گھنو
+firefox-mobile-get-firefox-mobile = { -brand-name-firefox } موبائل گھنو
 firefox-mobile-android-only = { -brand-name-android } صرف

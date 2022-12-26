@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-try-relay = { -brand-name-relay } ازماؤ
+firefox-home-join-firefox = { -brand-name-firefox } وچ رلت کرو
 firefox-home-get-the-browser-extension = براؤزر ایکسٹینشن گھنو
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } ایکسٹیشن گھنو
 firefox-home-download-the-browser = براؤزر ڈاؤن لوڈ کرو
