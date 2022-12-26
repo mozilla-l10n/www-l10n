@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } فنگر پرنٹنگ کوں بلاک کریندے
+# description for the header image
+features-fingerprinting-every-fingerprint = ہر فنگرپرنٹ نویکلا ہوندے۔
 features-fingerprinting-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
 features-fingerprinting-what-is-fingerprinting-body = فنگر پرنٹنگ کیا ہے؟
 features-fingerprinting-protect = آپݨی رازداری دی حفاظت کرو

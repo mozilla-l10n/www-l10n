@@ -13,6 +13,7 @@ what-is-firefox = { -brand-name-firefox } کیا ہے؟
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+how-do-i = میں { -brand-name-firefox-browser } کین٘ویں گھن سڳداں؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -22,6 +23,7 @@ what-is-firefox = { -brand-name-firefox } کیا ہے؟
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = بھلا { -brand-name-firefox } مفت ہے؟
+is-chrome-better = بھلا { -brand-name-firefox } کنوں { -brand-name-chrome } چنگیرا ہے۔
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -42,6 +44,7 @@ does-firefox-sell = بھلا { -brand-name-firefox } تہاݙا ذاتی ڈیٹ�
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = { -brand-name-firefox } ݙاڈھی مٹھی کیوں ہے؟
+does-firefox-use = بھلا { -brand-name-firefox } ، { -brand-name-google } ورتیندے؟
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
@@ -51,6 +54,7 @@ why-is-firefox = { -brand-name-firefox } ݙاڈھی مٹھی کیوں ہے؟
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+who-owns-firefox = { -brand-name-firefox } دا مالک کوݨ ہے؟
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
