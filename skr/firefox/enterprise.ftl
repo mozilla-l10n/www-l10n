@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-get-firefox-for-your-enterprise-with = حاصل کرو { -brand-name-firefox } اپݨے انٹرپرائز کیتے { -brand-name-esr } تے ریپڈ ریلیز دے نال
+firefox-enterprise-get-unmatched-data-protection = انٹرپرائز کیتے { -brand-name-firefox } دے نال ریلیز کیڈنس تے بے مثال ڈیٹا تحفظ حاصل کرو۔ ڈاؤن لوڈ کرو { -brand-name-esr } تے ریپڈ ریلیز۔
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = جائزہ
 firefox-enterprise-downloads = ڈاؤن لوڈاں
