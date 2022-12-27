@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
+# HTML page title
+password-manager-firefox-browser = { -brand-name-firefox-browser }: تکھا، سوکھا پاس ورڈ منیجر
 password-manager-password-hero = پاسورڈ ہیرو
 password-manager-password-magician = پاس ورڈ جادوگر
 # Obsolete string

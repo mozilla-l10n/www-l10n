@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
+features-memory-speed-up-your-computer = آپݨے کمپیوٹر کوں تکھا کرو
+features-memory-stop-running-out-of-memory = میموری گھٹ ہووݨ روکو
 features-memory-browse-faster-privately = تکھیرا تے نجی طور تے براؤز کرو
