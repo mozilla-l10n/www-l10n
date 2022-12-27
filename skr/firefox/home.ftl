@@ -5,7 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-the-browser-is-just = براوزر ہݨے شروع کریندا پئے
 firefox-home-try-relay = { -brand-name-relay } ازماؤ
+firefox-home-learn-more-about-pocket = { -brand-name-pocket } بارے ٻیا سکھو
 firefox-home-join-firefox = { -brand-name-firefox } وچ رلت کرو
 firefox-home-get-the-browser-extension = براؤزر ایکسٹینشن گھنو
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } ایکسٹیشن گھنو

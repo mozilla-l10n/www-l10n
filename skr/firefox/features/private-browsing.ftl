@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
 
 features-private-browsing-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
+features-private-browsing-browse-without = کھوج دے بغیر براؤز کرو
+features-private-browsing-catch-those-hidden = او لکے ٹریکر پکڑو

@@ -5,7 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-a-better-internet-experience = انٹرنیٹ دا بہتر تجربہ
+features-shared-more-firefox-features = ٻیاں { -brand-name-firefox } براؤزر خاصیتاں
 features-shared-browse-faster = تیزی نال براؤز کرو
+features-shared-your-favorite-extensions = تہاݙیاں پنسد دیاں ایکسٹنشناں
+features-shared-balanced-memory = متوازن میموری
+features-shared-more-powerful-private-browsing = ݙاڈھا تکڑا نجی براؤزنگ
+features-shared-ad-tracker-blocking = مشہوری ٹریکر روکݨ
 features-shared-password-manager = پاس ورڈ منیجر
 features-shared-customize-your-browser = اپݨے براؤزر دی تخصیص کرو
 features-shared-sync-between-devices = ڈیوائساں کوں ہم وقت کرو

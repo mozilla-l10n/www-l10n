@@ -7,3 +7,6 @@
 
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = ایکسٹنشن گھنو
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }> تے ٻئے!</a>
+features-translate-for-everyone = فائرفوکس سب کیتے ہے

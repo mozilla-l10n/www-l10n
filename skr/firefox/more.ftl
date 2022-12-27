@@ -16,5 +16,6 @@ firefox-more-little-book = رازداری دی چھوٹی کتاب
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-for-linux = { -brand-name-linux } کیتے { -brand-name-firefox }
 firefox-for-windows = { -brand-name-windows } 64 بٹ کیتے { -brand-name-firefox }
+firefox-more-protection = { -brand-name-firefox }: ودھیک حفاظت۔ تھوڑی پریشانی۔
 firefox-more-fingerprinter-blocking = فنگر پرنٹ بلاک کرݨ
 firefox-more-translate-the-web = ویب دا ترجمہ کرو
