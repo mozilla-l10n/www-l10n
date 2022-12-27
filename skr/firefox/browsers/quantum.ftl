@@ -11,6 +11,7 @@ the-latest-firefox = تازہ ترین{ -brand-name-firefox } انجݨ: { -brand
 learn-more-about = { -brand-name-firefox-quantum } بارے ٻیا ڄاݨو
 privacy-first = رازداری پہلے
 super-fast = ݙاڈھا تکھا
+get-speed-and = رفتار تے حفاظت گھنو۔ { -brand-name-firefox } تکھی ہے کیوں جو اساں تہاڈی ٹور کو ٹریک کائنی کریندے۔
 always-evolving = ہمیشاں ترقی پذیر
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features
