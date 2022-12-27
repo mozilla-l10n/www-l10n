@@ -49,11 +49,13 @@ does-firefox-use = بھلا { -brand-name-firefox } ، { -brand-name-google } و
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = بھلا { -brand-name-firefox } وچ بلٹ ــ ان وی پی این ہوندے؟
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+related-questions-ip = متعلقہ سوالات: بھلا { -brand-name-firefox } تہاݙ ا IP پتہ لکین٘دا ہے؟
 who-owns-firefox = { -brand-name-firefox } دا مالک کوݨ ہے؟
 
 # Variables:

@@ -24,6 +24,7 @@ comparing-firefox-brave = { -brand-name-firefox-browser } نال { -brand-name-b
 comparing-firefox-edge = { -brand-name-firefox-browser } دا  { -brand-name-microsoft }{ -brand-name-edge } دے نال ویورا کرݨ
 comparing-firefox-ie = { -brand-name-microsoft }{ -brand-name-ie } نال { -brand-name-firefox-browser } دا ویورا کرݨ
 comparing-firefox-safari = { -brand-name-firefox-browser } دا { -brand-name-apple } { -brand-name-safari } دے نال ویورا
+comparing-firefox-opera = { -brand-name-firefox-browser } دا { -brand-name-opera } دے نال ویورا
 firefox-more-protection = { -brand-name-firefox }: ودھیک حفاظت۔ تھوڑی پریشانی۔
 firefox-more-fingerprinter-blocking = فنگر پرنٹ بلاک کرݨ
 firefox-more-translate-the-web = ویب دا ترجمہ کرو

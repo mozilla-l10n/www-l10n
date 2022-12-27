@@ -7,6 +7,9 @@
 
 # HTML page title
 browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } موبائل براؤزر رازداری کوں پہلے نمبر تے رکھیندے
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+# Obsolete string
+browsers-mobile-get-the-mobile-browser-privacy = او موبائل براؤزر گھنو جیڑھا تہاݙی<strong> رازداری </strong> کوں پہلے رکھیندا ہے۔
 browsers-mobile-firefox-for-android = { -brand-name-android } کیتے { -brand-name-firefox }
 browsers-mobile-firefox-for-ios = { -brand-name-ios } کیتے { -brand-name-firefox }
 browsers-mobile-go-your-own-way = { -brand-name-firefox } موبائل نال آپݨے راہ تے ون٘ڄو
