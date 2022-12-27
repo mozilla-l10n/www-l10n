@@ -36,9 +36,22 @@ firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ہک غ
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } آپݨے آپ فیڈ بیک { -brand-name-mozilla } کوں بھیڄیندا ہے۔
 firefox-channel-try-new-browser-features = پری ریلیز ورشنز وِچ براؤزر دیاں نویاں خصوصیات ازماؤ۔ { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = پری ریلیز ورژنز وِچ جدید ترین براؤزر دیاں خصوصیات دا تجربہ کرو: { -brand-name-firefox-developer-edition }، { -brand-name-firefox-beta } تے { -brand-name-firefox-nightly }۔ ڈاونلوڈ کرو ہݨیں!
+firefox-channel-download-and-test-the-latest-desktop = ڈیسک ٹاپ خصوصیات کیتے { -brand-name-developer-edition }، { -brand-name-beta } تے { -brand-name-nightly } دے نال نواں نکور { -brand-name-firefox } کوں ڈاؤن لوڈ کرو جانچ کرو۔
 firefox-channel-beta = { -brand-name-beta }
+firefox-channel-test-about-to-be-released = ریلیز کنوں پہلے دی سبھ توں مستحکم تعمیر وِچ ریلیز تھیوݨ والی خصوصیات دی جانچ کرو۔
 firefox-channel-release-notes = ریلیز نوٹ
+firefox-channel-previous-nightly-builds = پچھلا { -brand-name-nightly } بݨیندا ہے۔
 firefox-channel-developer-edition = { -brand-name-developer-edition }
+firefox-channel-build-test-scale-and-more = صرف ڈویلپرز کیتے بݨائے ڳئے کلھے براؤزر دے نال تعمیر، جانچ، پیمانے تے ودھیک ٻہوں کجھ کرو۔
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ہک غیر مستحکم جانچ تے ترقی دا پلیٹ فارم ہے۔ پہلے کنوں طے شدہ طور تے، { -brand-name-developer-edition } ڈیٹا بھیڄیندا ہے { -brand-name-mozilla } — تے بعض اوقات اساݙے پارٹنرز — کوں مسائل نال نبڑݨ تے آئیڈیاز ازماوݨ وِچ اساݙی مدد کرݨ کیتے۔ <a href="{ $link }">ڄاݨو جو کیا اشتراک کیتا ڳیا ہے</a>۔
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } آپݨے آپ فیڈ بیک { -brand-name-mozilla } کوں بھیڄیندا ہے۔
 firefox-channel-nightly = { -brand-name-nightly }
+firefox-channel-get-a-sneak-peek-at-our = اساݙی اڳلی پیڑھی دے ویب براؤزر تے ہک جھلک ݙیکھو، تے اینکوں بہترین براؤزر بݨاوݨ وِچ اساݙی مدد کرو: { -brand-name-firefox-nightly } کوں ازماؤ۔
+firefox-channel-test-brand-new-features = روزانہ بالکل نویاں خصوصیات دی جانچ کرو (یا… رات کوں)۔ اپݨی ذمہ داری تے لطف اندوز تھیوو۔
+firefox-channel-try-new-features-in-a-pre-release = پری ریلیز { -brand-name-ios } براؤزر وِچ نویاں خصوصیات ازماؤ { -brand-name-firefox }
+firefox-channel-experience-cutting-edge-features-ios = { -brand-name-apple } دے { -brand-name-test-flight } پروگرام دے ذریعے { -brand-name-ios } کیتے پری ریلیز براؤزر وِچ نویاں خصوصیات دا تجربہ کرو۔ ہݨ انسٹال کرو!
+firefox-channel-test-beta-versions-of-firefox-ios-long = { -brand-name-firefox } دے بیٹا ورژن دی جانچ کرو { -brand-name-ios } دے ذریعے { -brand-name-apple } دے { -brand-name-test-flight } پروگرام دے ذریعے تے ایندے کیتے اساݙے موبائل براؤزر کوں بݨاوݨ وِچ مدد کرو۔ { -brand-name-iphone }, { -brand-name-ipad } تے iPod touch ٻیا وی بہتر۔
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-sign-up-now = ہݨ سائن اپ تھیوو
