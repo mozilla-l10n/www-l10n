@@ -7,7 +7,7 @@
 
 home-internet-for-people-not-profit = عوام کیتے انٹرنیٹ، منافع کیتے کائنی
 home-firefox-browser = { -brand-name-firefox-browser }
-home-fast-for-good = چنگے کیتے تِکھے۔
+home-fast-for-good = تِکھے، چنگائی کیتے۔
 home-with-2x-the-speed-built-in = ݙوڑی رفتار، پہلے کنوں موجود رازداری حفاظت تے { -brand-name-mozilla }  تے ایندے نال نال نویں { -brand-name-firefox } براؤز کرݨ کیتے ہک ݙاڈھا چنگا طریقہ ہے۔
 home-we-make-the-internet-safer = اساں چنگائی کیتے انٹرنیٹ کوں محفوظ، تکڑا تے تکھیرا بݨیندے ہیسے۔
 home-mozilla-is-the-not-for-profit = { -brand-name-firefox } جہڑا اصل واٹواں براؤزر ہے، ایندے پچھوں (غیرمنافع بخش) { -brand-name-mozilla } ہے۔  اساں انٹرنیٹ کوں لوکاں دی خدمت کیتے تیار کرݨ کیتے پالسی تے مصنوعات بݨیندے ہیں، منافع کیتے کائناں۔
