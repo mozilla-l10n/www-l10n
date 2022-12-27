@@ -5,10 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = { -brand-name-firefox } خصوصیات نال تکھیرا براؤز کرو تے آپݨی رازداری دی حفاظت کرو
 # Hero title
 features-index-firefox-features = { -brand-name-firefox } خاصیتاں
 features-index-see-all = ساریاں ایکسٹنشناں ݙیکھو
 features-index-get-an-account = { -brand-name-firefox-account } گھنو
+features-index-from-the-company = اینجھی کمپنی ولوں جہڑی لوکاں کوں منافع تے ترجیح ݙیندی ہے۔
 features-index-open-source-minds = کھلا ماخذ، کھلا دماغ
 features-index-choose-independence = آزادی چݨو
 features-index-get-firefox-for-privacy = رازداری کیتے { -brand-name-firefox } گھنو

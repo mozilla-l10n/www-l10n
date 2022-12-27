@@ -7,3 +7,5 @@
 
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = کوئی تند نتھی کائنی تھئی
+features-independent-what-you-see-is-what = تساں جو کجھ ݙیہدے پئے ہو، تہاکوں ملسی
+features-independent-a-browser-on-a-mission = براؤزر ہک مشن تے
