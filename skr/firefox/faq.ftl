@@ -44,6 +44,7 @@ does-firefox-sell = بھلا { -brand-name-firefox } تہاݙا ذاتی ڈیٹ�
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = { -brand-name-firefox } ݙاڈھی مٹھی کیوں ہے؟
+is-firefox-chromium = بھلا { -brand-name-firefox }، { -brand-name-chromium } تے مبنی ہے؟
 does-firefox-use = بھلا { -brand-name-firefox } ، { -brand-name-google } ورتیندے؟
 
 # Variables:
