@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
+# HTML page title
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: گھٹ میموری ورتو، ودھ رفتار گھنو
+features-memory-less-memory-usage-than-chrome = { -brand-name-chrome } کنوں میموری دا گھٹ استعمال
 features-memory-speed-up-your-computer = آپݨے کمپیوٹر کوں تکھا کرو
 features-memory-stop-running-out-of-memory = میموری گھٹ ہووݨ روکو
 features-memory-browse-faster-privately = تکھیرا تے نجی طور تے براؤز کرو

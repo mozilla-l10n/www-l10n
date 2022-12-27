@@ -8,6 +8,7 @@
 
 ## Required
 
+installer-help-action-channel = ایہ ڈاؤن لوڈ تہاݙے کیتے بہتر کم کریسی۔
 installer-help-action-choose = ہیٹھاں ہک ڈاؤن لوڈ چݨو۔
 
 ##

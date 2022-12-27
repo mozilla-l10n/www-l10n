@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
 features-translate-translate-the-web = { -brand-name-firefox } نال ویب دا ترجمہ کرو
+features-translate-to-google-translate = تے { -brand-name-google } ترجمہ
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = ایکسٹنشن گھنو
 features-translate-switch-languages-in = { -brand-name-firefox } وچ زباناں سوئچ کرو

@@ -12,6 +12,8 @@ firefox-home-try-relay = { -brand-name-relay } ازماؤ
 firefox-home-keep-your-passwords = ہر ڈیوائس تے آپݨے پاس ورڈ محفوظ رکھو
 # Obsolete string
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } بارے ٻیا سکھو
+# Obsolete string
+firefox-home-start-sending-files = فائلاں کوں حفاظت نال بھیڄݨ شروع کرو
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } بارے ٻیا سکھو
 firefox-home-join-firefox = { -brand-name-firefox } وچ رلت کرو
 firefox-home-learn-more-about-joining = { -brand-name-firefox } نال رلت کرݨ بارے ٻیا سکھو
