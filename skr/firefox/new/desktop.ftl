@@ -5,8 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+firefox-desktop-download-og-title = ہݨ تائیں دا تکھا ترین { -brand-name-firefox } ڈاؤن لوڈ کرو
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
+firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } دا ٻئے نراؤزراں نال کین٘ویں موازنہ کروں
 firefox-desktop-download-how-we-compare = اساں ٻئے براؤزرز نال کیویں موازنہ کریندے ہیں
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } دا موازنہ کرو:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -93,12 +95,16 @@ firefox-desktop-download-enhanced-tracking-protection = بہتر ٹریکنگ ح
 firefox-desktop-download-from-watching-a = ویب ٹیوٹوریل ݙیکھݨ کنوں گھن تے اپݨی پسندیدہ ٹیم تے نظر رکھݨ تئیں، جݙاں تساں ملٹی ٹاسک کریندے او تاں تہاݙا ویڈیو تہاݙی پیروی کریندا ہے۔
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> کیتے { -brand-name-firefox-browser } گھنو
+firefox-desktop-download-learn-about-the = { -brand-name-firefox } ڈیسک ٹاپ براؤزر بارے ہیٹھاں ٻیا سکھو
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } کنوں ٻئے گھنو
 firefox-desktop-download-just-download-the-browser = ٻس براؤزر ڈاؤن لوڈ کرو
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = تقریباً اُتھ!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = { -brand-name-firefox } <strong>انسٹال کرݨ</strong> ہݨ مکمل کرو۔
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر کنوں ودھ ہے۔
