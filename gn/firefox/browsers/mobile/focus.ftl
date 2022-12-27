@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
@@ -8,9 +8,13 @@
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Kundahára hekoñemíva
 # HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } ha’e kundahára omba’apóva tapykuehoha ñemo’ã ijeheguíva ndive.
+# Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } ha’e kundahára omba’apóva ñemigua ñemo’ã ijeheguívare tapykuehoha ha maranduñemurã ndive.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Ñeikundaha pumbyry ñemiguápe
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } ha’e kundahára hekoñemíva orekóva tapykuehoha ñemo’ã ijeheguíva. { -brand-name-focus } ndive kuatiaroguekuéra henyhẽ pya’eve ha mba’ekuaarã hekoñemi.
+# Outdated string
 mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } ha’e kundahára hekoñemíva orekóva tapykuehoha ñemo’ã ijeheguíva ha ojokóva ñemurã. { -brand-name-focus } ndive kuatiaroguekuéra henyhẽ pya’eve ha mba’ekuaarã iñemi.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } eipurukuaa mba’e’okápe { -brand-name-ios } ndive ha { -brand-name-android }.
 mobile-focus-get-firefox-focus = Erekóke { -brand-name-firefox-focus }
@@ -27,13 +31,8 @@ mobile-focus-private-browsing-on = Pe “ñeikundaha ñemigua” heta kundahára
 mobile-focus-private-browsing-on-v2 = Pe “ñeikundaha ñemiguáva” heta kundahárape ndahekoñemimbái. { -brand-name-firefox-focus } ome’ẽ pe tekoñemive ypyguávaramo ha oykeko chupe { -brand-name-mozilla }, tendaguasu viru’ỹgua oñorairõva nde derécho rehe ñandutípe.
 mobile-focus-tracking-protection = Tapykuehoha ñemo’ã
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } ojoko hetáichagua tapykuehoha ijehegui rupi, oikehápe umi tapykuehoha tekohagua ha umi mba’evai oúva { -brand-name-facebook } maranduñemurãgui.
-mobile-focus-ad-blocking = Ñemurã jejoko
-# Outdated string
-mobile-focus-focus-blocks-the = { -brand-name-focus } ojoko marandu ehechamemekuaáva ñanduti kuatiaroguépe — noñeikotevẽi moĩmbaha térã jepysokue mbohetapyre. Marandu’ive reheve, ipya’evéta kuatiarogue myanyhẽ, he’iséva eg̃uahẽtaha ehosehápe pya’eve.
-mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } ojoko marandu ehechamemekuaáva ñanduti kuatiaroguépe. Noñeikotevẽi moĩmbaha térã jepysokue mbohetapyréva. Marandu’ive reheve, ipya’evéta kuatiarogue myanyhẽ, he’iséva eg̃uahẽtaha ehosehápe pya’eve.
 mobile-focus-see-it-all = Ehechapaite pya’eve
 # Outdated string
-mobile-focus-focus-removes-trackers = { -brand-name-focus } ombogue tapykuehoha ha ñemurã, upévare kuatiarogue ehecháva oikotevẽ’ive mba’ekuaarã ha henyhẽ pya’eve.
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } ombogue tapykuehoha ha ombojuruja ñemurã jokoha ikatu hag̃ua kuatiarogue ehecháva oipuru’ive mba’ekuaarã ha henyhẽ pya’eve. Avei, embojakuaa irundy jeike pya’eha mba’erechaha ñepyrũguápe ha eike tenda ehechavévape pya’eve ehai’ỹre.
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } ojapopyre
 mobile-focus-we-believe-everyone = Roguerovia opavave ohechava’erã tapiaite iñeikundaha ñandutípe. Ha’e umi roñorairõha ary 1998 guive.
