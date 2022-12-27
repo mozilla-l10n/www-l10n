@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = Pa të fshehta
 firefox-privacy-hub-youll-always-know-where-you = Do ta dini përherë se ku jeni me ne
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = S’ka plane të fshehta këtu. Biznesi ynë s’varet nga abuzimi ynë fshehtas i mirëbesimit tuaj. <a href="{ $privacy }">Shënimi ynë i Privatësisë</a> është në fakt i lexueshëm. Nëse doni të rrëmoni në çdo të dhënë që grumbullojmë, kodi ynë është i hapur. Dhe kështu jemi edhe ne.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = S’ka plane të fshehta këtu. Biznesi ynë s’varet nga abuzimi ynë në fshehtësi i mirëbesimit tuaj. <a href="{ $privacy }">Shënimi ynë i Privatësisë</a> është në fakt i lexueshëm. Cilido në botë mund të marrë pjesë në <a href="{ $meetings }">mbledhjet tona të përjavshme të shoqërisë</a>. Nëse doni të rrëmoni në çdo të dhënë që grumbullojmë, kodi ynë është i hapur. Dhe kështu jemi edhe ne.
 firefox-privacy-hub-why-trust-firefox = Pse të besohet { -brand-name-firefox }-i?

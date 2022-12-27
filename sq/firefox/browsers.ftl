@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Shkarkoni { -brand-name-firefox } për Desktop, Celular, ose Ndërmarrje
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Merrni shfletuesit që vënë mbi gjithçka privatësinë tuaj — dhe e kanë bërë përherë
 # HTML page description
+firefox-browsers-page-desc = Zgjidhni prej versionesh për Desktop, { -brand-name-ios }, { -brand-name-android }, ose lërnani t’ju dërgojmë me email një lidhje shkarkimi.
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Merrni privatësinë që meritoni. Mbrojtja e Thelluar Nga Gjurmimi është automatike në çdo shfletues { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Merrni <strong>shfletuesit</strong> që vënë mbi gjithçka privatësinë tuaj — dhe e kanë bërë përherë
