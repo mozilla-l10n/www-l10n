@@ -34,3 +34,4 @@ new-platform-download-mozilla-windows = { -brand-name-windows } کیتے { -bran
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = { -brand-name-windows } کیتے ہݨ تائیں دا تکھا ترین { -brand-name-firefox } ڈاؤن لوڈ کرو
 new-platform-common-sense-privacy = عام احساس  رازداری
+new-platform-seamless-setup = ہموار سیٹ اپ

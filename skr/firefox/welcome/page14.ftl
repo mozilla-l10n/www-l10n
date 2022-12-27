@@ -9,3 +9,5 @@ welcome-page14-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو
 welcome-page14-copy-code = کوڈ نقل کرو
 welcome-page14-code-copied = کوڈ نقل تھی ڳیا!
 welcome-page14-very-fast = ایہ تکھا ہے، ݙاڈھا تکھا
+welcome-page14-without-trace = کھوج دے بغیر انٹرنیٹ
+welcome-page14-why-see-this = میں ایہ کیوں ݙیہدا پیاں؟

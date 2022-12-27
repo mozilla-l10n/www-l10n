@@ -5,4 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
+switch-download-and-switch = ڈاؤم لوڈ کرو تے سوئچ کرو
+switch-share-to-facebook = فیسبک تے شیئر کرو
+switch-share-to-facebook-updated = { -brand-name-facebook } تے شیئر کرو
+switch-send-a-tweet = ٹویٹ بھیڄو
+switch-hey = اَوے،
 switch-send-an-email = ہک ای میل پٹھو

@@ -11,11 +11,17 @@ firefox-privacy-privacy = رازداری
 firefox-privacy-our-promise = ساݙا وعدہ
 # Sub navigation link
 firefox-privacy-our-products = ساݙیاں مصنوعات
+firefox-privacy-hub-take-less = گھٹ گھنو
 firefox-privacy-hub-keep-it-safe = ایں کوں محفوظ رکھو
+firefox-privacy-hub-no-secrets = کوئی راز کائنی
+firefox-privacy-hub-why-trust-firefox = { -brand-name-firefox } تے بھروسہ کیوں کروں؟
+firefox-privacy-hub-learn-more-about-our-mission = ساݙے مشن بارے ٻیا سکھو
 firefox-privacy-hub-learn-about-our-products = ساݙیاں مصنوعات بارے ٻیا سکھو
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-check-for-breaches = خلاف ورزیاں دی پڑتال کرو
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-learn-more-about-lockwise = { -brand-name-lockwise } بارے ٻیا سکھو
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = ہک فائل پٹھو
 firefox-privacy-hub-pocket = { -brand-name-pocket }
