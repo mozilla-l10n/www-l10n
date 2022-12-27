@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Emboguejy { -brand-name-firefox } mesa arigua, pumbyry térã mba’apohaguasúpe g̃uarã
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Eguereko kundahára omotenondéva ñemigua — ojapovavoi opaite ára
 # HTML page description
+firefox-browsers-page-desc = Eiporavo mesa arigua, { -brand-name-ios }, { -brand-name-android } térã romondo ñanduti veve ñembojuejy juajuha ndive pumbyrýpe guarãva.
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Ereko ñemigua eipotáva. Pe ñemo’ã tapykuehoha iporãvéva ijeheguíva opaite umi { -brand-name-firefox } kundahárape.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Eguereko umi <strong>kundahára</strong> omotenondéva ne ñemigua — ojapovavoi opa ára
