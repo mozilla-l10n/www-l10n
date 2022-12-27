@@ -11,6 +11,8 @@ mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-i
 # Obsolete string
 mobile-ios-firefox-browser-for = { -brand-name-ios } کیتے { -brand-name-firefox } براؤزر پہلی واری کھولݨ کنوں تکھا ، محفوظ تے نجی ہے۔
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+mobile-ios-get-automatic-privacy = اپݨے { -brand-name-iphone } تے { -brand-name-ipad } تے آپوں ڄاݨ رازداری حاصل کرو
 mobile-ios-get-firefox-for = { -brand-name-ios } کیتے { -brand-name-firefox } گھنو
 mobile-ios-send-a-download-link-to-your = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو۔
 mobile-ios-scan-the-qr-code-to-get-started = شروع کرݨ کیتے QR کوڈ سکین کرو
@@ -20,6 +22,8 @@ mobile-ios-fast-private-secure = تکھا، نجی تے محفوظ
 mobile-ios-stay-private-online = نجی آن لائن راہوو
 mobile-ios-your-browsing-history = تہاݙی براؤزنگ تاریخ تاریخ یے
 mobile-ios-get-more-firefox = آپݨی حیاتی وچ ٻئی { -brand-name-firefox } گھنو
+mobile-ios-get-to-your-go-to = اپݨے { -brand-name-iphone } تے { -brand-name-ipad } اوتے اپݨیاں ونڄݨ والیاں جاہیں تے تکھاجی نال پُڄو
+mobile-ios-see-your-open-tabs = { -brand-name-firefox-browser } دے نال { -brand-name-ios } کیتے اپݨے کھلے ٹیباں، ماضی دی ڳول تے بھاوݨیاں سائٹاں سب کوں ہک جاہ تے ݙیکھو۔
 mobile-ios-own-your-home = اپݨی ہوم سکرین دے مالک بݨو
 mobile-ios-get-to-the-parts = انٹرنیٹ دے انہاں حصیاں تائیں تکھاجی نال پڄو جنہاں دا تہاکوں خیال ہے۔ اپݨیاں تمام کھلیاں ٹیباں، حالیہ ڳول، نشانیاں تے من بھاوݨیاں سائٹاں سبھ کوں ہکی جاہ تے ݙیکھݨ دا انتخاب کرو۔
 mobile-ios-find-it-all = ایہ سبھ تکھاجی نال لبھو

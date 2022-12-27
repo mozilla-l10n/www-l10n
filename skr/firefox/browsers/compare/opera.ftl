@@ -11,3 +11,6 @@ compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } بمقابلہ
 compare-opera-compare-opera-to-the-firefox = { -brand-name-opera } دا موازنہ { -brand-name-firefox-browser } نال کرو تاں جو معلوم تھی سڳے جو تہاݙے کیتے کیڑھا بہترین براؤزر ہے۔
 # Main title
 compare-opera-comparing-firefox-browser = { -brand-name-firefox-browser } دا { -brand-name-opera } دے نال ویورا
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-opera-firefoxs-privacy-policy-is = { -brand-name-firefox } دی <a { $attrs }>راز داری پالیسی</a> ایہ بیان کرݨ وِچ ٻہوں شفاف ہے جو اساں کیڑھیاں ذاتی معلومات کٹھیاں کریندے ہیں ایندا کلھا مقصد تہاکوں آن لائن سانجھی کیتی ونڄݨ والی معلومات تے زیادہ کنٹرول ݙیوݨ ہے۔ .
