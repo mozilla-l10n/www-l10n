@@ -33,6 +33,10 @@ vpn-or-proxy-concealing-your-ip = Emokañývo nde IP kundaharape, omo’ãvo nde
 vpn-or-proxy-encrypting-your-traffic = Ombopapapývo pe jeikeita nde ha ne VPN me’ẽhára avave ani hag̃uáicha ne ñanduti ombopapapy’o térã omoambue ndehegui.
 vpn-or-proxy-choose-a-trustworthy = Eipurúvo mba’epuru jeroviaha
 # Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-or-proxy-the-most-important = Tuichave mba’éva pe eiporavóvo peteĩ VPN térã proxy ha’e eiporavoha mba’apohaguasu ojejeroviaha. Eñeha’ãke eikumby porã mba’etépa pe emoneĩva. Heta he’íva tuichaha ha omomba’éva tekoñemi, hákatu hetave pe ndojapóiva he’iva’ekue. Ndaopavavéi proxy ha VPN mba’epururã hekorosã ha hekoñemi. Ndahetái <a href="{ $pcmag }">ohaíta</a> <a href="{ $cnet }">katuete</a> ne rembiapo ñandutípe ohepyme’ẽ hag̃ua ne mba’ekuaarã ha marandu umi mba’apohaguasu jehepyme’ẽkuaaha pegua. Ambue mba’epururã omohendaséta malware ne mba’e’okápe.
+# Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $fpn (url) - https://fpn.firefox.com/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
