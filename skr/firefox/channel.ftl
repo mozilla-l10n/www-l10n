@@ -21,7 +21,21 @@ firefox-channel-download-and-test-the-latest-android = ڈاؤن لوڈ کرو ت
 firefox-channel-try-the-latest-android-features = نویں نکور { -brand-name-android } خصوصیات کوں آزماؤ، ایں کنوں پہلے جو او باقی دنیا وِچ جاری تھیون۔
 firefox-channel-all-languages-and-platforms = ساریاں زباناں تے پلیٹ فارم
 firefox-channel-all-languages-and-builds = ساریاں زباناں تے بلڈاں
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ہک غیر مستحکم جانچ تے ترقی دا پلیٹ فارم ہے۔ پہلے کنوں طے شدہ طور تے، { -brand-name-beta } ڈیٹا بھیڄیندا ہے { -brand-name-mozilla } — تے بعض اوقات اساݙے پارٹنرز — کوں مسائل نال نبڑݨ تے آئیڈیاز آزماوݨ وِچ اساݙی مدد کرݨ کیتے۔ <a href="{ $link }">ڄاݨو جو کیا اشتراک کیتا ڳیا ہے</a>۔
+firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } آپوں ڄاݨ فیڈ بیک { -brand-name-mozilla } کوں بھیڄیندا ہے۔
+# Variables:
+#   $feedback (url) - link to https://input.mozilla.com/feedback
+firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">اساکوں تاثرات ݙیوو</a> تاں جو ہک مستحکم ماحول وِچ کارکردگی تے فعالیت کوں حتمی شکل ݙیوݨ وِچ اساݙی مدد کیتی ونڄ سڳے۔
+firefox-channel-check-out-new-android-features = نویاں { -brand-name-android } خصوصیات کوں انہاں دے ابتدائی مراحل وِچ ݙیکھو۔ اپݨی ذمہ داری تے لطف اندوز تھیوو۔
 firefox-channel-nightly-blog = { -brand-name-nightly } بلاگ
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ہک غیر مستحکم جانچ تے ترقی دا پلیٹ فارم ہے۔ پہلے کنوں طے شدہ طور تے، { -brand-name-nightly } ڈیٹا بھیڄٰیندا ہے { -brand-name-mozilla } — تے بعض اوقات اساݙے پارٹنرز — کوں مسائل نال نبڑݨ تے آئیڈیاز آزماوݨ وِچ اساݙی مدد کرݨ کیتے۔ <a href="{ $link }">ڄاݨو جو کیا اشتراک کیتا ڳیا ہے</a>۔
+firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } آپݨے آپ فیڈ بیک { -brand-name-mozilla } کوں بھیڄیندا ہے۔
+firefox-channel-try-new-browser-features = پری ریلیز ورشنز وِچ براؤزر دیاں نویاں خصوصیات ازماؤ۔ { -brand-name-firefox }
+firefox-channel-experience-cutting-edge-desktop = پری ریلیز ورژنز وِچ جدید ترین براؤزر دیاں خصوصیات دا تجربہ کرو: { -brand-name-firefox-developer-edition }، { -brand-name-firefox-beta } تے { -brand-name-firefox-nightly }۔ ڈاونلوڈ کرو ہݨیں!
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = ریلیز نوٹ
 firefox-channel-developer-edition = { -brand-name-developer-edition }
