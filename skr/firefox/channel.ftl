@@ -54,4 +54,5 @@ firefox-channel-try-new-features-in-a-pre-release = پری ریلیز { -brand-n
 firefox-channel-experience-cutting-edge-features-ios = { -brand-name-apple } دے { -brand-name-test-flight } پروگرام دے ذریعے { -brand-name-ios } کیتے پری ریلیز براؤزر وِچ نویاں خصوصیات دا تجربہ کرو۔ ہݨ انسٹال کرو!
 firefox-channel-test-beta-versions-of-firefox-ios-long = { -brand-name-firefox } دے بیٹا ورژن دی جانچ کرو { -brand-name-ios } دے ذریعے { -brand-name-apple } دے { -brand-name-test-flight } پروگرام دے ذریعے تے ایندے کیتے اساݙے موبائل براؤزر کوں بݨاوݨ وِچ مدد کرو۔ { -brand-name-iphone }, { -brand-name-ipad } تے iPod touch ٻیا وی بہتر۔
 firefox-channel-test-flight = { -brand-name-test-flight }
+firefox-channel-test-beta-versions-of-firefox-ios = { -brand-name-firefox } دے بیٹا ورژن { -brand-name-ios } کیتے { -brand-name-apple } دے { -brand-name-test-flight } پروگرام دے ذریعے ٹیسٹ کرو۔
 firefox-channel-sign-up-now = ہݨ سائن اپ تھیوو
