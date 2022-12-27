@@ -7,6 +7,7 @@
 
 firefox-desktop-download-og-title = ہݨ تائیں دا تکھا ترین { -brand-name-firefox } ڈاؤن لوڈ کرو
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-download-options = ڈاؤن لوڈ اختیارات تے ٻیاں زباناں
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } دا ٻئے نراؤزراں نال کین٘ویں موازنہ کروں
 firefox-desktop-download-how-we-compare = اساں ٻئے براؤزرز نال کیویں موازنہ کریندے ہیں
@@ -94,6 +95,7 @@ firefox-desktop-download-screenshots = سکرین شاٹاں
 firefox-desktop-download-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت(ای ٹی پی)
 firefox-desktop-download-from-watching-a = ویب ٹیوٹوریل ݙیکھݨ کنوں گھن تے اپݨی پسندیدہ ٹیم تے نظر رکھݨ تئیں، جݙاں تساں ملٹی ٹاسک کریندے او تاں تہاݙا ویڈیو تہاݙی پیروی کریندا ہے۔
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> کیتے { -brand-name-firefox-browser } گھنو
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> کیتے { -brand-name-firefox-browser } گھنو
 firefox-desktop-download-learn-about-the = { -brand-name-firefox } ڈیسک ٹاپ براؤزر بارے ہیٹھاں ٻیا سکھو
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } کنوں ٻئے گھنو

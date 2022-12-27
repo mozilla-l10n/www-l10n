@@ -13,6 +13,7 @@ firefox-mobile-get-firefox-mobile = { -brand-name-firefox } موبائل گھن�
 firefox-mobile-privacy-protection-by-default = ڈیفالٹ نال رازدای حفاظت
 firefox-mobile-android-only = { -brand-name-android } صرف
 firefox-mobile-make-android-your-own = { -brand-name-android } کوں  آپݨا بݨاؤ
+firefox-mobile-the-privacy-you-deserve-the = رازداری جیندے تساں مستحق ہو۔ رفتار جین٘دی تہاکوں لوڑ ہے۔
 firefox-mobile-get-firefox-for-mobile = موبائل کیتے { -brand-name-firefox } گھنو
 firefox-mobile-send-a-download-link-to-your = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو۔
 firefox-mobile-scan-the-qr-code-to-get-started = شروع کرݨ کیتے QR کوڈ سکین کرو
