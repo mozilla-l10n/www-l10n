@@ -13,6 +13,9 @@ download-button-whats-new = نواں کیا ہے؟
 download-button-systems-languages = سسٹم &amp; زباناں
 download-button-recommended = سفارش تھئے ہوئے
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } ہݨ { -brand-name-firefox } کیتے { -brand-name-windows } { -brand-name-xp } تے سیکیورٹی اپ ڈیٹاں فراہم نہیں کریندا۔ یا { -brand-name-vista }</a>، پر تساں ہݨ وی حتمی { -brand-name-windows } 32 بٹ ورژن تلوں ڈاؤن لوڈ کر سڳدے او۔
+# Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = { -brand-name-firefox } انسٹال کرݨ کیتے سوہݨا، <a href="{ $url }">ان ہدایتاں</a> تے عمل کرو۔
 # Variables:

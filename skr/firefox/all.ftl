@@ -24,6 +24,8 @@ firefox-all-choose-a-64-bit-installer = 64 بٹ پروسیسرز والے کمپ
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = انگریزی (یو ایس) تے 90 کنوں ودھ ٻیاں زباناں وچ { -brand-name-firefox-browser } ڈاؤن لوڈ کرو
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access = ہر کوئی انٹرنیٹ تائیں رسائی دا مستحق ہے — تہاݙی زبان کݙاہیں وی رکاوٹ نہیں ہووݨی چاہیدی۔ ایں سانگے — پوری دنیا دے سر ٻدھ رضاکاراں دی مدد نال — اساں { -brand-name-firefox-browser } کوں 90 توں زائد زباناں وِچ دستیاب کرویندے ہیں۔
 firefox-all-choose-which-firefox = آپݨی زبان وچ ڈاؤن لوڈ کرݨ کیتے { -brand-name-firefox-browser } چݨو
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری نوٹس
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزراں بارے سِکھو
@@ -35,6 +37,9 @@ firefox-all-windows-installers-for = کارپوریٹ آئی ٹی کیتے ون�
 firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
 firefox-all-arm64-installers-optimized = ARM64/AArch64 انسٹالرز Snapdragon نال چلݨ والے { -brand-name-windows } PCs کیتے بہتر بݨائے ڳئے ہن۔
 firefox-all-product-send-link = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = 32 بٹ پروسیسر والے کمپیوٹرز کیتے 32 بٹ انسٹالر دا انتخاب کرو — یا پراݨے یا ہیݨے کمپیوٹرز کیتے۔ <a href="{ $url }"> جے تہاکوں یقین کائنی جو</a> آیا 64-bit یا 32-bit انسٹالر دا انتخاب کرݨا ہے، تاں اساں تہاکوں 32-bit دے نال ونڄݨ دی صلاح ݙیندے ہیں۔
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
