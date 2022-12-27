@@ -15,3 +15,4 @@ firefox-mobile-make-android-your-own = { -brand-name-android } کوں  آپݨا 
 firefox-mobile-get-firefox-for-mobile = موبائل کیتے { -brand-name-firefox } گھنو
 firefox-mobile-send-a-download-link-to-your = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو۔
 firefox-mobile-scan-the-qr-code-to-get-started = شروع کرݨ کیتے QR کوڈ سکین کرو
+firefox-mobile-scan-alt-text = موبائل  تے { -brand-name-firefox } حاصل کرݨ کیتے QR کوڈ سکین کرو۔

@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = { -brand-name-firefox } کوں { -bra
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = { -brand-name-firefox } کوں ہک { -brand-name-linux } ایپ دے بطور انسٹال کرو: ایں رستے تے ونڄݨ کیتے کجھ ٻئے اقدام درکار ہن، پر ایہ ایندے قابل ہے۔ جݙاں تساں { -brand-name-firefox } براؤزر کوں بطور { -brand-name-linux } ایپ انسٹال کریندے او، تاں تہاکوں { -brand-name-firefox } ڈیسک ٹاپ براؤزر تے ایندے نال آوݨ والے تمام فائدے ملدے ہن، بشمول بہتر ٹریکنگ پروٹیکشن ، ہک بلٹ ان پاس ورڈ مینیجر، ہزاراں ایڈ آنز تائیں رسائی (بشمول UBlock Origin ایڈ بلاکر)، تے تھیمز تہاݙے براؤزر دی شکل کون حسب ضرورت بݨاوݨ کیتے۔ <a { $url }> { -brand-name-firefox } ڈیسک ٹاپ براؤزر { -brand-name-chromebook } کیتے انسٹال کرݨ بارے ودھیک ڄاݨو۔</a>

@@ -7,6 +7,7 @@
 
 learn-more-faq = { -brand-name-firefox }عمومی سوالات
 the-history-of = ویب براؤزرز دی تاریخ
+firefox-has-been = { -brand-name-firefox } تقریباً شروع کنوں ہی موجود ہے۔
 what-is-a = ویب براؤزر کیا ہے؟
 a-web-browser = ہک ویب براؤزر تہاکوں انٹرنیٹ تے کتھائیں وی گھن ویندا ہے، جیڑھا تہاکوں دنیا وِچ کتھاؤں وی متن، تصویراں تے ویڈیوں ݙیکھݨ ݙیندا ہے۔
 firefox-is-more = { -brand-name-firefox } براؤزر کنوں ودھ ہے

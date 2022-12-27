@@ -6,9 +6,15 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-the-browser-is-just = براوزر ہݨے شروع کریندا پئے
+firefox-home-start-getting-breach = خلاف ورزی رپورٹاں گھنݨ شروع کرو
 firefox-home-try-relay = { -brand-name-relay } ازماؤ
+# Obsolete string
+firefox-home-keep-your-passwords = ہر ڈیوائس تے آپݨے پاس ورڈ محفوظ رکھو
+# Obsolete string
+firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } بارے ٻیا سکھو
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } بارے ٻیا سکھو
 firefox-home-join-firefox = { -brand-name-firefox } وچ رلت کرو
+firefox-home-learn-more-about-joining = { -brand-name-firefox } نال رلت کرݨ بارے ٻیا سکھو
 firefox-home-get-the-browser-extension = براؤزر ایکسٹینشن گھنو
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } ایکسٹیشن گھنو
 firefox-home-download-the-browser = براؤزر ڈاؤن لوڈ کرو
