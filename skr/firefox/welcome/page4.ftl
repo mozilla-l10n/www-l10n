@@ -10,6 +10,7 @@ welcome-page4-download-the-firefox-browser = { -brand-name-android } تے { -bra
 welcome-page4-wallet-keys-phone-firefox = پرس چابیاں فون. <strong> { -brand-name-firefox }</ strong>
 welcome-page4-get-the-firefox-mobile = { -brand-name-firefox } موبائل گھنو
 welcome-page4-get-firefox-on-your-phone = آپݨے فون تے { -brand-name-firefox } گھنو
+welcome-page4-download-firefox-for-your = آپݨے سمارٹ فون یا ٹیبلٹ کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو۔
 welcome-page4-go-faster-do-more = تکھیرے ون٘ڄو۔ ودھیک کرو۔
 welcome-page4-take-it-all-with-you = ایہ سبھ کجھ اپݨے نال گھنو
 welcome-page4-why-am-i-seeing-this = میں ایہ کیوں ݙیہدا پیاں؟
