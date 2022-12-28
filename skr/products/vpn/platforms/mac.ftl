@@ -10,3 +10,9 @@
 
 vpn-mac-page-title = { -brand-name-mac-short } کیتے { -brand-name-mozilla-vpn }
 vpn-mac-privacy-headline = رازداری تہاݙے ݙوݙیاں تے
+vpn-mac-servers-headline = پوری دنیا دے سروراں تائیں رسائی گھنو
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = ہک سبسکرپشن نال { $devices } ڈیوائساں دی حفاظت کرو
+vpn-mac-speed-headline = رفتار قربان کرݨ دی لوڑ کائنی
+vpn-mac-log-headline = آپݨے کاروبار وچ تساں آن لائن کیا کریندے ہو؟

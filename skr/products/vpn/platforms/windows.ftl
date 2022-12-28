@@ -9,3 +9,8 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-windows }10 کیتے { -brand-name-mozilla-vpn }
+# Windows strings
+vpn-windows-hero-headline = { -brand-name-windows }10 کیتے { -brand-name-mozilla-vpn } نال کنکٹ تے حفاظت وچ راہوو
+vpn-windows-wifi-headline = عوامی وائی فائی تے نجی راہوو
+vpn-windows-devices-headline = تہاݙیاں ساریاں ڈیوائساں کیتے ہک سبسکرپشن
+vpn-windows-log-headline = تہاݙی رازداری ساݙی ترجیح ہے

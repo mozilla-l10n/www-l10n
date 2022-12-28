@@ -8,3 +8,8 @@
 vpn-resource-center-view-all = سارے ݙیکھو
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = اڄ آپݨی سن٘ڄاݨ دی حفاظت کرݨ شروع کرو
+vpn-resource-center-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو
+vpn-resource-center-was-this-article = بھلا ایہ مضمون مددگار ہائی؟
+vpn-resource-center-article-helpful = مضمون مددگار
+vpn-resource-center-article-not-helpful = مضمون مددگار کائنی
+vpn-resource-center-related-posts = متعلقہ پوسٹاں

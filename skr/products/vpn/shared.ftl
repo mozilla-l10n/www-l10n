@@ -8,6 +8,7 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } گھنو
 vpn-shared-waitlist-link = تانگھ تندیر نال رلت کرو
+vpn-shared-sign-in-link = بھلا پہلے ہی سبسکرائبر ہو؟
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
