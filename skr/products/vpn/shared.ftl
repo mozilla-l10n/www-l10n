@@ -20,6 +20,9 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 
 # Platform subpage shared strings
 
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = وی پی این کیا ہے؟
 vpn-subnav-faqs = عمومی سوالات
 vpn-subnav-get-help = مدد گھنو
 vpn-subnav-platform-android = { -brand-name-android }
@@ -29,6 +32,7 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = موبائل
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = آئی پی پتہ کیا ہے؟
 vpn-subnav-vpn-vs-proxy = وی پی این  تے پراکسی
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } سب سکرایب کرو
 

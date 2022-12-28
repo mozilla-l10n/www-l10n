@@ -20,6 +20,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = { -brand-name-ios } سہارا
 sub-navigation-android-support = { -brand-name-android } سہارا
 sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
+sub-navigation-desktop-nightly = ڈیسک ٹاپ { -brand-name-nightly }
 sub-navigation-features = خاص
 sub-navigation-support = سہارا
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
