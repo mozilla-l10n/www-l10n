@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
+misinformation-page-title = آن لائن غلط معلومات کنوں بچو – اتھ { -brand-name-firefox } مدد کیتے ہے
+misinformation-how-firefox-helps-heading = غلط معلومات کنوں بچݨ کیتے { -brand-name-firefox } کین٘ویں مدد کریندی ہے
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } ٹریکراں کوں پڑتال وچ رکھیندے:
 misinformation-learn-more-about-our-mission = ساݙے مشن بارے ٻیا سکھو
 misinformation-learn-about-our-products = ساݙیاں مصنوعات بارے ٻیا سکھو

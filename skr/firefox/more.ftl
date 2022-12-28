@@ -30,3 +30,5 @@ comparing-firefox-opera = { -brand-name-firefox-browser } دا { -brand-name-ope
 firefox-more-protection = { -brand-name-firefox }: ودھیک حفاظت۔ تھوڑی پریشانی۔
 firefox-more-fingerprinter-blocking = فنگر پرنٹ بلاک کرݨ
 firefox-more-translate-the-web = ویب دا ترجمہ کرو
+firefox-more-a-guide-to = محفوظ ترین لاگ اناں تے پاس ورڈاں کیتے رہنما
+firefox-more-avoid-misinformation-heading = آن لائن غلط معلومات کنوں بچو – اتھ { -brand-name-firefox } مدد کیتے ہے
