@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
 
+# HTML page title
+features-independent-firefox-a-different = { -brand-name-firefox }، مختلف وقتاں کیتے مختلف نراؤزر۔ مفت براؤز کرو۔
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = کوئی تند نتھی کائنی تھئی
 features-independent-what-you-see-is-what = تساں جو کجھ ݙیہدے پئے ہو، تہاکوں ملسی

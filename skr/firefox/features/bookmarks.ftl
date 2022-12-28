@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
+# HTML page title
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: بہتر نشانیاں تساں جتھ وی ون٘ڄو
 features-bookmarks-better-bookmarks = بہتر نشانیاں
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = او نشانی فائل کرو
