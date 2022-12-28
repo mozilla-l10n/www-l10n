@@ -7,6 +7,7 @@
 
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = { -brand-name-firefox } چݨݨ تے تہاݙا شکریہ
+set-as-default-thanks-success-your-default-browser = کامیابی! تہاݙا ڈیفالٹ براؤزر { -brand-name-firefox } تے  سیٹ ہے۔
 set-as-default-thanks-youre-all-set = تساں بالکل تیار ہو۔
 set-as-default-thanks-get-firefox-for-mobile = موبائل کیتے { -brand-name-firefox } گھنو
 set-as-default-thanks-travel-the-internet-with = آپݨی ہر ڈیوائس تے حفاظت نال انٹرنیٹ دا پن٘دھ کرو۔

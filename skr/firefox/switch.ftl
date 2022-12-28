@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
+switch-switch-from-chrome = صرف کجھ منٹاں وچ { -brand-name-chrome } کنوں { -brand-name-firefox } وچ سوئچ کرو۔
 switch-switch-to-firefox = { -brand-name-firefox } تے سوئچ کرو
 switch-download-and-switch = ڈاؤم لوڈ کرو تے سوئچ کرو
 switch-share-to-facebook = فیسبک تے شیئر کرو

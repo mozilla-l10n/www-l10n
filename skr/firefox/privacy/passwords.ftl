@@ -15,3 +15,4 @@ privacy-passwords-guessing-it = ایندا اندازہ لیندے پئے ہیں
 privacy-passwords-strength-in-diversity = رنگا رنگی وچ طاقت ہے
 privacy-passwords-security-questions-my = سلامتی سوال: میݙی ماء دا درمیانی ناں “Ff926AKa9j6Q” ہے
 privacy-passwords-get-help-from = پاس ورڈ منیجر کنوں مدد گھنو
+privacy-passwords-strong-diverse-and = مضبوط، رنگا رنگی تے کثیر ــ عنصر
