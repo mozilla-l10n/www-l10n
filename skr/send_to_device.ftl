@@ -5,3 +5,5 @@
 send-to-device-please-enter-an-email = سوہݨا، ای میل پتہ درج کرو۔
 send-to-device-enter-your-email = آپݨا ای میل درج کرو
 send-to-device-send = بھیڄو
+send-to-device-check-your-device-email = ای میل کیتے آپݨی ڈیوائس دی پڑتال کرو
+send-to-device-send-to-another = ٻئی ڈیوائس تے بھیڄو

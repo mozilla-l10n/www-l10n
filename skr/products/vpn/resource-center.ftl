@@ -7,3 +7,4 @@
 
 vpn-resource-center-view-all = سارے ݙیکھو
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
+vpn-resource-center-start-protecting = اڄ آپݨی سن٘ڄاݨ دی حفاظت کرݨ شروع کرو

@@ -17,9 +17,17 @@ vpn-shared-pricing-plan-monthly = ماہانہ
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = { $amount } کل
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = آؤ شروع کروں
+vpn-shared-platform-cta-button = قیمتاں تے دستیابی ݙیکھو
+vpn-shared-platform-privacy-promise = تہاݙی رازداری ساݙا وعدہ ہے
+vpn-shared-platform-trust-partner-headline = ساݙے قابل اعتماد بھائیوال بارے
+vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } نال تساں کیا گھنسو:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = وی پی این کیا ہے؟
