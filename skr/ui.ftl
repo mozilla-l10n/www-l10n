@@ -14,6 +14,7 @@ ui-watch-the-video = وڈیو ݙیکھو
 ui-replay = ولدا چلاؤ
 ui-share = شیئر
 ui-menu = مینیو
+ui-please-turn-on-javascript = ایں ورقے کوں صحیح طریقے نال ظاہر کرݨ کیتے براہ مہربانی JavaScript کوں آن کرو۔
 ui-show-more = ٻئے ݙکھاؤ
 ui-show-less = گھٹ ݙکھاؤ
 ui-show-all = سارے ݙکھاؤ
