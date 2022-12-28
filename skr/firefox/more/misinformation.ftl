@@ -7,6 +7,9 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = آن لائن غلط معلومات کنوں بچو – اتھ { -brand-name-firefox } مدد کیتے ہے
+misinformation-false-info-heading = غلط معلومات کتھوں ظاہر تھیندیاں ہن؟
+misinformation-content-up-to-date = بھلا مواد تازہ ترین ہے؟
+misinformation-images-captions = بھلا تصویراں تے سرخیاں میل رکھدن؟
 misinformation-how-firefox-helps-heading = غلط معلومات کنوں بچݨ کیتے { -brand-name-firefox } کین٘ویں مدد کریندی ہے
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } ٹریکراں کوں پڑتال وچ رکھیندے:
 misinformation-learn-more-about-our-mission = ساݙے مشن بارے ٻیا سکھو

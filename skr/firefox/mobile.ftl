@@ -11,6 +11,7 @@ firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-automatic-privacy-on-mobile = موبائل تے خودکار رازداری گھنو
 firefox-mobile-get-firefox-mobile = { -brand-name-firefox } موبائل گھنو
 firefox-mobile-privacy-protection-by-default = ڈیفالٹ نال رازدای حفاظت
+firefox-mobile-stop-companies-from-following = کمپنیاں کوں تساں آپݨی پیروی کرݨ کنوں روکو
 firefox-mobile-android-only = { -brand-name-android } صرف
 firefox-mobile-make-android-your-own = { -brand-name-android } کوں  آپݨا بݨاؤ
 firefox-mobile-customize-your-firefox-mobile-truncated = ایکسٹینشناں نال آپݨے { -brand-name-firefox } موبائل براؤزر کوں مخصوص بݨاؤ۔

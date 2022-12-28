@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+learn-more-about-firefox = { -brand-name-firefox }، این٘دی تاریخ، خصوصیات تے مشن بارے ٻیا ڄاݨو
 learn-more-faq = { -brand-name-firefox }عمومی سوالات
 the-history-of = ویب براؤزرز دی تاریخ
 firefox-has-been = { -brand-name-firefox } تقریباً شروع کنوں ہی موجود ہے۔
