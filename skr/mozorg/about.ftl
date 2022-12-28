@@ -7,6 +7,12 @@
 
 # HTML Page title
 about-learn-about-mozilla = { -brand-name-mozilla } بارے ٻیا سکھو
+# Main call to action
+about-read-our-mission = ساݙا مشن پڑھو
+about-our-mission-in-action = ساݙا مشن عمل وچ
+about-firefox-fast-for-good = { -brand-name-firefox }: تکھا، چنگائی کیتے
+about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } بارے ٻیا سکھو
+about-the-mozilla-manifesto = { -brand-name-mozilla } دا منشور
 about-read-the-manifesto = منشور پڑھو
 about-a-global-view = ہک عالمی منظر
 about-san-francisco = سان فرانسسکو

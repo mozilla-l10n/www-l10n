@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/about/history/
 
+history-history-of-the-mozilla-project = { -brand-name-mozilla } منصوبے دی تاریخ
 history-mozilla-bookmarks = { -brand-name-mozilla } نشانیاں
