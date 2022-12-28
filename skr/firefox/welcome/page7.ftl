@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
 
 page7-get-facebook-container = { -brand-name-facebook-container } گھنو
+page7-get-firefox-monitor = { -brand-name-firefox-monitor } گھنو
 page7-why-am-i-seeing-this = میں ایہ کیوں ݙیہدا پیاں؟

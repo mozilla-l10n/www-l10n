@@ -7,6 +7,8 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+# Main title
+developer-mdnplus-more-mdn-your-mdn = ٻئے { -brand-name-mdn }۔<em> تہاݙا</em>{ -brand-name-mdn }۔
 # CTA button
 developer-mdnplus-get-started = شروع کرو
 developer-mdnplus-whats-included = کیا شامل تھئے
