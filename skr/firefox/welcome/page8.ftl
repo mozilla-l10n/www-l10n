@@ -5,9 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
 
+# HTML page title
+welcome-page8-firefox-protects-your-privacy = { -brand-name-firefox } تہاݙی رازداری دی آپݨے آپ حفاظت کریندے
 welcome-page8-view-your-protection-report = اپݨے تحفظ دی رپورٹ ݙیکھو
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت
+welcome-page8-see-whats-blocked = ݙیکھو جو کیا بلاک ہے
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-go-to-monitor = { -brand-name-monitor } تے ون٘ڄو
 welcome-page8-firefox-send = { -brand-name-firefox-send }
