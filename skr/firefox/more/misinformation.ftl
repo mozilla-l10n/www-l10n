@@ -10,5 +10,6 @@ misinformation-page-title = آن لائن غلط معلومات کنوں بچو 
 misinformation-how-firefox-helps-heading = غلط معلومات کنوں بچݨ کیتے { -brand-name-firefox } کین٘ویں مدد کریندی ہے
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } ٹریکراں کوں پڑتال وچ رکھیندے:
 misinformation-learn-more-about-our-mission = ساݙے مشن بارے ٻیا سکھو
+misinformation-your-privacy-by-the-product = تہاݙی رازداری، مصنوع نال
 misinformation-learn-about-our-products = ساݙیاں مصنوعات بارے ٻیا سکھو
 misinformation-designed-to-protect = تہاݙی رازداری دی حفاظت کیتے ڈیزائن کیتا ڳئے
