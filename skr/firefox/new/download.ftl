@@ -11,11 +11,13 @@
 firefox-new-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
 firefox-new-download-the-fastest-firefox = ہݨ تائیں دا تکھا ترین { -brand-name-firefox } ڈاؤن لوڈ کرو
 firefox-new-mozilla = { -brand-name-mozilla }
+firefox-new-get-the-latest-firefox = تازہ ترین { -brand-name-firefox } براؤزر گھنو۔
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-windows } کیتے { -brand-name-firefox }<br> ڈاؤن لوڈ کرو
 firefox-new-download-firefox-for-macos = { -brand-name-mac } کیتے { -brand-name-firefox }<br> ڈاؤن لوڈ کرو
 firefox-new-download-firefox-for-linux = { -brand-name-linux } کیتے { -brand-name-firefox }<br> ڈاؤن لوڈ کرو
 firefox-new-free-web-browser = آزاد ویب براؤزر
+firefox-new-advanced-install-options = ودھائے انسٹال اختیارات تے ٻئے پلیٹ فارم
 firefox-new-download-in-another-language = ہک ٻئی زبان وچ ڈاؤن لوڈ کرو
 firefox-new-need-help = بھلا مدد دی لوڑ ہے؟
 
@@ -25,6 +27,7 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤز�
 firefox-new-windows = { -brand-name-windows }
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = ٻیاں تفصیلاں کیتے سپورٹ تے ون٘ڄو
 
 # Not-Required
 

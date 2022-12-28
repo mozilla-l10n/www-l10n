@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
+switch-switch-to-firefox = { -brand-name-firefox } تے سوئچ کرو
 switch-download-and-switch = ڈاؤم لوڈ کرو تے سوئچ کرو
 switch-share-to-facebook = فیسبک تے شیئر کرو
 switch-share-to-facebook-updated = { -brand-name-facebook } تے شیئر کرو

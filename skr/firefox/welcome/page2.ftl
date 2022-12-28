@@ -7,3 +7,5 @@
 
 welcome-page2-activate-pocket = { -brand-name-pocket } فعال کرو
 welcome-page2-pocket = { -brand-name-pocket }
+welcome-page2-discover-new-stories = نویاں کہاݨیاں دریافت کرو
+welcome-page2-why-am-i-seeing-this = میں ایہ کیوں ݙیہدا پیاں؟

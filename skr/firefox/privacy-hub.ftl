@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } رازداری وعدہ
 # Sub navigation title
 firefox-privacy-privacy = رازداری
 # Sub navigation link
@@ -18,6 +20,11 @@ firefox-privacy-hub-why-trust-firefox = { -brand-name-firefox } تے بھروس�
 firefox-privacy-hub-learn-more-about-our-mission = ساݙے مشن بارے ٻیا سکھو
 firefox-privacy-hub-learn-about-our-products = ساݙیاں مصنوعات بارے ٻیا سکھو
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت گھنو
+firefox-privacy-hub-download-the-firefox-browser = { -brand-name-firefox } براؤزر ڈاؤن لوڈ کرو
+firefox-privacy-hub-update-your-firefox-browser = آپݨا { -brand-name-firefox } براؤزر اپ ڈیٹ کرو
+firefox-privacy-hub-always-in-your-control = ہمیشہ تہاݙے قاٻو وچ
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = خلاف ورزیاں دی پڑتال کرو
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }

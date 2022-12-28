@@ -112,6 +112,8 @@ firefox-desktop-download-just-download-the-browser = ٻس براؤزر ڈاؤن 
 firefox-desktop-download-almost-there = تقریباً اُتھ!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = { -brand-name-firefox } <strong>انسٹال کرݨ</strong> ہݨ مکمل کرو۔
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = ہݨ  او فائل <strong> کھولو </ strong> جہڑی ہݨے ہݨے ڈاؤن لوڈ تھئی ہے۔
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10

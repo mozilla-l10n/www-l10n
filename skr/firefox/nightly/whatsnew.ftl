@@ -7,3 +7,4 @@
 
 nightly-whatsnew-your-firefox-nightly = تہاݙی { -brand-name-firefox-nightly } اپ ڈیٹ تھی ڳئی ہے۔
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-go-community = گو برادری!

@@ -10,3 +10,4 @@ welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-facebook-container = { -brand-name-facebook-container }
 welcome-page3-pocket = { -brand-name-pocket }
 welcome-page3-firefox-send = { -brand-name-firefox-send }
+welcome-page3-why-am-i-seeing-this = میں ایہ کیوں ݙیہدا پیاں؟
