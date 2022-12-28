@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = Kañymby’ỹre
 firefox-privacy-hub-youll-always-know-where-you = Ejerovia tapiáke ore reko resakãre
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Ndoroguerekói mokõiha rojaposéva. Ore ñemurenda ndoikói nde jerovia ñemboyke kañyhápe. Ore <a href="{ $privacy }">Ñemigua marandu’i</a> ndahasýi iñemoñe’ẽ. Ehapykuerekaséramo opaite mba’ekuaarã rombyatýva, ore ayvu ijuruja. Ha ore avei.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Ndoroguerekói mokõigua rojaposéva. Ore ñemurenda ndoikói ne mba’eñemi ejeroviaha ñemboyképe. Ore <a href="{ $privacy }">Ñemigua marandu’i</a> ndahasýi imoñe’ẽ. Oimeraẽva tapicha oikekuaa ore <a href="{ $meetings }">mba’apohaguasu aty arapokõindygua</a>. Ehapykuerekasérõ opaite mba’ekuaarã rombyatývare, ore ayvu ijuruja. Ha ore avei.
 firefox-privacy-hub-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
