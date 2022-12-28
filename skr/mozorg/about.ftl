@@ -18,10 +18,12 @@ about-a-global-view = ہک عالمی منظر
 about-san-francisco = سان فرانسسکو
 about-berlin = برلن
 about-toronto = ٹورنٹو
+about-work-at-mozilla = { -brand-name-mozilla } تے کم
 about-mozilla-careers = { -brand-name-mozilla } روزگار
 about-how-you-can-help = تساں کن٘ویں مدد کر سڳدے ہو
 about-get-involved = نال رلت کرو
 
 ## Newsletter
 
+about-get-the-mozilla-newsletter = { -brand-name-mozilla } خبرنامہ گھنو
 about-subscribe = سبسکرائب کرو
