@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
 
+# HTML page title
+privacy-passwords-security-guide-to = محفوظ ترین لاگ اناں تے پاس ورڈاں کیتے سلامتی رہنما
+# page content
+privacy-passwords-a-security-guide = محفوظ ترین لاگ اناں تے پاس ورڈاں کیتے سلامتی رہنما
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = ݙاڈھا لمبا ہے، نہوے پڑھ سڳدے
 privacy-passwords-guessing-it = ایندا اندازہ لیندے پئے ہیں

@@ -15,6 +15,8 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = براؤزر گھنو جہڑا حفاظت کریندے تے تہاݙے کیتے اہم ہے
 firefox-desktop-download-download-options = ڈاؤن لوڈ اختیارات تے ٻیاں زباناں
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = جو تساں آن لائن کریندے ہو، او کرو۔<br>{ -brand-name-firefox-browser }<strong> کائنی </strong> ݙیہدا پیا۔
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } دا ٻئے نراؤزراں نال کین٘ویں موازنہ کروں
 firefox-desktop-download-how-we-compare = اساں ٻئے براؤزرز نال کیویں موازنہ کریندے ہیں
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } دا موازنہ کرو:

@@ -14,11 +14,14 @@ firefox-privacy-our-promise = ساݙا وعدہ
 # Sub navigation link
 firefox-privacy-our-products = ساݙیاں مصنوعات
 firefox-privacy-hub-take-less = گھٹ گھنو
+firefox-privacy-hub-we-make-a-point-of-knowing = اساں تہاݙے بارے گھٹ ڄاݨݨ دا ہک نقطہ بݨین٘دے ہیں
 firefox-privacy-hub-keep-it-safe = ایں کوں محفوظ رکھو
 firefox-privacy-hub-no-secrets = کوئی راز کائنی
 firefox-privacy-hub-why-trust-firefox = { -brand-name-firefox } تے بھروسہ کیوں کروں؟
 firefox-privacy-hub-learn-more-about-our-mission = ساݙے مشن بارے ٻیا سکھو
+firefox-privacy-hub-your-privacy-by-the-product = تہاݙی رازداری، مصنوع نال
 firefox-privacy-hub-learn-about-our-products = ساݙیاں مصنوعات بارے ٻیا سکھو
+firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } رازداری، مصنوع نال
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت گھنو

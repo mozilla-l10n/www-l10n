@@ -38,3 +38,4 @@ firefox-new-visit-support-for-more = ٻیاں تفصیلاں کیتے سپورٹ
 firefox-new-download-browser = { -brand-name-firefox-browser } ڈاؤن لوڈ کرو
 firefox-new-fast = تکھا، نجی تے مفت
 firefox-new-from-mozilla = { -brand-name-mozilla } کنوں
+firefox-new-download-a-different = مخلتف پلیٹ فارم یا زبان ڈاؤن لوڈ کرو
