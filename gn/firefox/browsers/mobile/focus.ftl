@@ -32,6 +32,7 @@ mobile-focus-private-browsing-on-v2 = Pe “ñeikundaha ñemiguáva” heta kund
 mobile-focus-tracking-protection = Tapykuehoha ñemo’ã
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } ojoko hetáichagua tapykuehoha ijehegui rupi, oikehápe umi tapykuehoha tekohagua ha umi mba’evai oúva { -brand-name-facebook } maranduñemurãgui.
 mobile-focus-see-it-all = Ehechapaite pya’eve
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } ombogue tapykuehoha kuatiarogue ehecháva oipuru’ive hag̃ua mba’ekuaarã ha henyhẽ pya’eve rekávo. Avei, embojakuaa irundy jeike pya’eha mba’erechaha ñepyrũguápe ha eike tenda ehechavévape pya’eve ehai’ỹre.
 # Outdated string
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } ombogue tapykuehoha ha ombojuruja ñemurã jokoha ikatu hag̃ua kuatiarogue ehecháva oipuru’ive mba’ekuaarã ha henyhẽ pya’eve. Avei, embojakuaa irundy jeike pya’eha mba’erechaha ñepyrũguápe ha eike tenda ehechavévape pya’eve ehai’ỹre.
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } ojapopyre
