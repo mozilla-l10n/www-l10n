@@ -12,6 +12,8 @@ firefox-home-try-relay = { -brand-name-relay } ازماؤ
 firefox-home-keep-your-passwords = ہر ڈیوائس تے آپݨے پاس ورڈ محفوظ رکھو
 # Obsolete string
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } بارے ٻیا سکھو
+# The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-get-the-respect-you = <strong>عزت</strong> گھنو جین٘دے تساں مستحق ہو
 # Obsolete string
 firefox-home-start-sending-files = فائلاں کوں حفاظت نال بھیڄݨ شروع کرو
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } بارے ٻیا سکھو

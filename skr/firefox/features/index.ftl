@@ -18,6 +18,7 @@ features-index-see-what-makes-us-different = ݙیکھو ساکوں کیا ان٘
 features-index-by-non-profit-mozilla = غیر منافع بخش { -brand-name-mozilla } ولوں
 features-index-by-not-for-profit-mozilla = منافع کیتے کائنی { -brand-name-mozilla } ولوں
 features-index-keep-corporate-power = کارپوریٹ طاقت تے نظر رکھو
+features-index-independent-browser = { -brand-name-firefox } واحد وݙا آزاد براؤزر ہے
 features-index-read-mozillas-mission = { -brand-name-mozilla } دا مشن پڑھو
 features-index-choose-independence = آزادی چݨو
 features-index-read-our-privacy-policy = ساݙی رازداری پالیسی پڑھو

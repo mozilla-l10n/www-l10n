@@ -7,6 +7,7 @@
 
 # HTML page title
 password-manager-firefox-browser = { -brand-name-firefox-browser }: تکھا، سوکھا پاس ورڈ منیجر
+password-manager-give-up-the-memory = { -brand-name-firefox } پاس ورڈ منیجر نال میموری کھیݙ چھوڑ ݙیوو۔
 password-manager-password-hero = پاسورڈ ہیرو
 password-manager-password-magician = پاس ورڈ جادوگر
 # Obsolete string
