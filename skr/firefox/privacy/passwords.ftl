@@ -12,3 +12,6 @@ privacy-passwords-a-security-guide = محفوظ ترین لاگ اناں تے پ
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = ݙاڈھا لمبا ہے، نہوے پڑھ سڳدے
 privacy-passwords-guessing-it = ایندا اندازہ لیندے پئے ہیں
+privacy-passwords-strength-in-diversity = رنگا رنگی وچ طاقت ہے
+privacy-passwords-security-questions-my = سلامتی سوال: میݙی ماء دا درمیانی ناں “Ff926AKa9j6Q” ہے
+privacy-passwords-get-help-from = پاس ورڈ منیجر کنوں مدد گھنو
