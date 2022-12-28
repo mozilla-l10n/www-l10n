@@ -10,6 +10,7 @@ features-bookmarks-better-bookmarks = بہتر نشانیاں
 features-bookmarks-file-that-bookmark = او نشانی فائل کرو
 # Fly here means to have your bookmark go wherever you go.
 features-bookmarks-fly-with-that-bookmark = اوں نشانی نال اُݙو
+features-bookmarks-customize-that-bookmark = او نشانی مخصوص بݨاؤ
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = ایں نشانی نال وقت گزارو

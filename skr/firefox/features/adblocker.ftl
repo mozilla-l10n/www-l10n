@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
 features-adblocker-how-to-block-annoying = مشہوری بلاکر ورتݨ نال پریشان کن مشہوریاں کوں کین٘ویں روکیجے
+features-adblocker-the-ad-blocker-a-secret = مشہوری بلاکر – پریشان کن اشتہاراں دے خلاف ہک خفیہ ہتھیار۔
+features-adblocker-so-many-ads-so-little = ٻہوں سارے اشتہار، ٻہوں تھوڑا صبر۔۔۔ پاڳل پن کوں روکݨ دا ویلا آڳئے۔
 features-adblocker-find-the-right-ad-blocker = آپݨے کیتے ٹھیک مشہوری بلاکر لبھو
 features-adblocker-choose-your-level-of-protection = آپݨی حفاظت دی سطح چݨو
 features-adblocker-go-easy-with-standard = معیاری موڈ نال سوکھ نال ون٘ڄو

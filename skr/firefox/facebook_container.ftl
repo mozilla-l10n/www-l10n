@@ -8,6 +8,10 @@
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container }دی ایکسٹینشن گھنو
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ڈاون لوڈ کرو تے { -brand-name-facebook-container }  ایکسٹینشن گھنو
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = ڈیسک ٹاپ کیتے { -brand-name-firefox } گھنݨ کیتے <a href="{ $url }">{ $link_copy }</a> تے ون٘ڄو۔
 # Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container }ایکسٹینشن موبائل آلات تے دستیاب کائنی۔
 facebook-container-get-firefox-android-ios = ہݨ { -brand-name-android } تے { -brand-name-ios } کیتے { -brand-name-firefox } گھنو۔

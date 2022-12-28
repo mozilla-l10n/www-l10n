@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
 features-fast-use-less-memory = تھوڑی میموری ورتو
+features-fast-get-all-the-tabs-without-lags = وقفے دے بغیر ساریاں ٹیباں گھنو

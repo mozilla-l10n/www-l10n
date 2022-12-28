@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+# page title
+features-fingerprinting-what-is-fingerprinting-title = فنگر پرنٹنگ کیا ہے تے تساں ایں کوں کیوں بلاک کرݨ چاہسو
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } فنگر پرنٹنگ کوں بلاک کریندے
 # description for the header image
 features-fingerprinting-every-fingerprint = ہر فنگرپرنٹ نویکلا ہوندے۔
