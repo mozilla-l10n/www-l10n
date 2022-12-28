@@ -8,7 +8,7 @@
 firefox-channel-desktop = ڈیسک ٹاپ
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
-firefox-channel-take-a-browse-on-the-wild-side = جنگلی پاسے براؤز کرو۔
+firefox-channel-take-a-browse-on-the-wild-side = جنگل وچ براؤز کرو۔
 firefox-channel-be-among-the-first-to-explore = ڈیسک ٹاپ، { -brand-name-android } تے { -brand-name-ios } کیتے { -brand-name-firefox } دی مستقبل دی ریلیز کوں دریافت کرݨ والے پہلے لوکاں وِچ شامل تھیوو۔
 firefox-channel-see-something-that-isnt-working = کوئی اینجھی چیز ݙیکھو جیڑھی کم نہیں کریندی پئی؟ اساکوں ݙساؤ.
 firefox-channel-file-a-bug-now = ہݨ بگ فائل کرو
