@@ -15,6 +15,9 @@ facebook-container-visit-to-get-for-desktop = ڈیسک ٹاپ کیتے { -brand-
 # Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container }ایکسٹینشن موبائل آلات تے دستیاب کائنی۔
 facebook-container-get-firefox-android-ios = ہݨ { -brand-name-android } تے { -brand-name-ios } کیتے { -brand-name-firefox } گھنو۔
+# Outdated string
+# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
+facebook-container-try-firefox-focus-the-privacy = { -brand-name-ios } تے{ -brand-name-android } کیتے رازداری براؤزر، <strong>{ -brand-name-firefox-focus }</strong> ازماؤ۔
 facebook-container-opt-out-on-your-terms = آپݨی شرطاں موجب ٻاہر نکلو
 facebook-container-install-and-contain = انسٹال کرو تے شامل
 facebook-container-about-firefox-and-mozilla = { -brand-name-firefox } تے { -brand-name-mozilla } بارے

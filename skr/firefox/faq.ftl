@@ -28,6 +28,7 @@ is-chrome-better = بھلا { -brand-name-firefox } کنوں { -brand-name-chrom
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">ݙیکھو کین٘ویں { -brand-name-firefox } مقابلہ کریندے{ -brand-name-chrome }.</a>
 is-firefox-safe-download = بھلا { -brand-name-firefox } ڈاؤن لوڈ کرݨ کیتے محفوظ ہے؟
 
 # Variables:
