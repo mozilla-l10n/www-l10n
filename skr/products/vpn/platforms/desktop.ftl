@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Meta strings
+vpn-desktop-page-title = ڈیسک ٹاپ (پی سی تے لیپ ٹاپ) کیتے { -brand-name-mozilla-vpn }
+vpn-desktop-wifi-headline = عوامی وائی فائی ورتݨ وچ محفوظ محسوس کرو
 vpn-desktop-about-headline = { -brand-name-mozilla } دا تعارف
 vpn-desktop-privacy-headline = ہک کلک وچ رازداری
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = { $devices } ڈیوائساں تائیں حفاظت کرو
+vpn-desktop-speed-headline = ناقابل یقین رفتار، کوئی پابندی کائنی
 vpn-desktop-log-headline = تہاݙی رازداری پہلے امدی ہے

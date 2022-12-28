@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+features-fast-firefox-is-now-faster-and-leaner = { -brand-name-firefox } ہݨ تکھیرا تے سُکٹا ہے۔
 features-fast-use-less-memory = تھوڑی میموری ورتو
 features-fast-get-all-the-tabs-without-lags = وقفے دے بغیر ساریاں ٹیباں گھنو

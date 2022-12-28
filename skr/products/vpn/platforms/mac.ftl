@@ -9,6 +9,10 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mac-short } کیتے { -brand-name-mozilla-vpn }
+# Mac strings
+vpn-mac-hero-headline = { -brand-name-mac-short } کیتے { -brand-name-mozilla-vpn } نال آپݨے کنکشن دی آن لائن حفاظت کرو
+vpn-mac-wifi-headline = سکیچی وائی فائی تے محفوظ محسوس کرو
+vpn-mac-about-headline = قابل بھروسہ ٹیک ساز کنوں
 vpn-mac-privacy-headline = رازداری تہاݙے ݙوݙیاں تے
 vpn-mac-servers-headline = پوری دنیا دے سروراں تائیں رسائی گھنو
 # Variables:
