@@ -17,3 +17,4 @@ compare-opera-the-firefox-browser-and-opera = { -brand-name-firefox-browser } ت
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = { -brand-name-firefox } دی <a { $attrs }>راز داری پالیسی</a> ایہ بیان کرݨ وِچ ٻہوں شفاف ہے جو اساں کیڑھیاں ذاتی معلومات کٹھیاں کریندے ہیں ایندا کلھا مقصد تہاکوں آن لائن سانجھی کیتی ونڄݨ والی معلومات تے زیادہ کنٹرول ݙیوݨ ہے۔ .
+compare-opera-as-far-as-actual-privacy-protections = جے تائیں { -brand-name-opera } براؤزر وِچ پرائیویسی دے اصل تحفظات دا تعلق ہے، ایہ ہک مضبوط پرائیوٹ موڈ پیش کریندا ہے جیڑھا تہاکوں براؤزر دے تہاݙی سرگرمی کوں ٹریک کیتے بغیر ویب تے سرفنگ کرݨ دی اجازت ݙیندا ہے۔ عام براؤزنگ موڈ وِچ وی، تساں ایڈ بلاکر کوں فعال کرݨ تے ٻیاں سیکیورٹی خصوصیات کوں ایڈجسٹ کرݨ کیتے ترتیباں وِچ کھَٹ تے ڈیٹا کٹھا کرݨ دیاں کجھ خصوصیات کوں وی بند کر سڳدے او۔
