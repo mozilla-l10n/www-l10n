@@ -8,6 +8,7 @@
 features-pip-new-feature-firefox-multi-picture = نویں خاصیت: { -brand-name-firefox } ڈھڳ تصویر وچ تصویر
 features-pip-cool-feature-picture-in-picture = چنگی خصوصیت: تصویر وچ تصویر
 features-pip-play-the-video = وڈیو چلاؤ
+features-pip-heres-how-it-works = ایہ ݙیکھو۔ ایہ کین٘ویں  کم کریندے:
 features-pip-3-more-ways-to-use-picture = تصویر وچ تصویر ورتݨ دے 3 ٻئے طریقے
 features-pip-3-ways-to-use-picture = تصویر وچ تصویر ورتݨ دے 3  طریقے
 features-pip-watch-a-lecture-or-meeting = نوٹس گھنݨ دے دوران لیکچر یا میٹنگ ݙیکھو

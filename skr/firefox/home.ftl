@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-the-browser-is-just = براوزر ہݨے شروع کریندا پئے
+firefox-home-meet-our-family-of = ساݙیاں مصنوعات دے ٹٻر نال ملو
 firefox-home-start-getting-breach = خلاف ورزی رپورٹاں گھنݨ شروع کرو
 firefox-home-try-relay = { -brand-name-relay } ازماؤ
 # Obsolete string

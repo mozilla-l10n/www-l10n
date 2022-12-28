@@ -119,4 +119,5 @@ firefox-desktop-download-now-mac = ہݨ  او فائل <strong> کھولو </ st
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = ٻیاں تفصیلاں کیتے سپورٹ تے ون٘ڄو
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر کنوں ودھ ہے۔

@@ -22,6 +22,8 @@ firefox-privacy-hub-learn-more-about-our-mission = ساݙے مشن بارے ٻی
 firefox-privacy-hub-your-privacy-by-the-product = تہاݙی رازداری، مصنوع نال
 firefox-privacy-hub-learn-about-our-products = ساݙیاں مصنوعات بارے ٻیا سکھو
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } رازداری، مصنوع نال
+firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ہر مصنوعات وچ تہاݙی رازداری دی حفاظت کریندے۔
+firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } ہر مصنوعات وچ تہاݙی رازداری دی <strong>حفاظت کریندے</strong>۔
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت گھنو
