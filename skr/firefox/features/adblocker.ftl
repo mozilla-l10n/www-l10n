@@ -17,6 +17,7 @@ features-adblocker-choose-your-level-of-protection = آپݨی حفاظت دی س
 features-adblocker-go-easy-with-standard = معیاری موڈ نال سوکھ نال ون٘ڄو
 features-adblocker-get-tough-with-strict = سخت موڈ نال کراڑے تھی ون٘ڄو
 features-adblocker-do-it-yourself-custom = مخصوص موڈ خود آپ بݨاؤ
+features-adblocker-cover-your-trail-block = آپݨی سرگرمی لکاؤ، ٹریکر بلاک کرو
 features-adblocker-take-a-bite-out-of-cookies = کوکیاں کوں ݙک مار گھنو
 features-adblocker-send-a-do-not-track-signal = اشارہ " ٹریک نہ کرو" بھیڄو
 features-adblocker-speed-up-thanks-to-ad = مشہوری بلاکر کیتے تیز رفتار شکریہ
