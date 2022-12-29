@@ -7,6 +7,8 @@
 
 # HTML page title
 password-manager-firefox-browser = { -brand-name-firefox-browser }: تکھا، سوکھا پاس ورڈ منیجر
+# HTML page description
+password-manager-firefox-password = { -brand-name-firefox } پاس ورڈ مینیجر تہاݙے تمام پاس ورڈز کوں ہک جاہ محفوظ کریندا ہے تاں جو تساں آپوں ڄاݨ سائٹاں تے لاگ ان تھی سڳو، یا ہتھیکڑے پاس ورڈز کوں بازیافت کر سڳو۔
 # Hero title
 password-manager-password-manager = پاس ورڈ منیجر دی کامیابی دا جندرا کھُل ڳیا۔
 password-manager-give-up-the-memory = { -brand-name-firefox } پاس ورڈ منیجر نال میموری کھیݙ چھوڑ ݙیوو۔

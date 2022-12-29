@@ -42,3 +42,4 @@ features-index-translate-the-web = ویب دا ترجمہ کرو
 features-index-translate-more-than = 100 کنوں زیادہ زباناں کنوں اپݨی زبان وِچ براہ راست اپݨے { -brand-name-firefox-browser } وِچ ترجمہ کرو - پہلے کنوں کتھائیں زیادہ آسان۔
 features-index-translate-to-your = آپݨی زبان وچ ترجمہ کرو
 features-index-picture-in-picture = تصویر وِچ تصویر
+features-index-got-things-to-do = کرݨ کیتے چیزاں تے ݙیکھݨ کیتے چیزاں ہن؟ { -brand-name-firefox } وِچ تصویر وِچ تصویر دا استعمال کریندے ہوئے ݙوہیں کرو۔
