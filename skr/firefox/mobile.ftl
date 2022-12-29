@@ -8,6 +8,7 @@
 firefox-mobile-download-the-firefox-browser = { -brand-name-android } تے { -brand-name-ios } کیتے آپݨے موبائل تے { -brand-name-firefox-browser } ڈاؤن لوڈ کرو
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-get-the-mobile-browser-built = موبائل براؤزر گھنو جہڑا تہاݙے کیتے بݨا ہے، مشتہرین کیتے کائنی
 firefox-mobile-get-automatic-privacy-on-mobile = موبائل تے خودکار رازداری گھنو
 firefox-mobile-get-firefox-mobile = { -brand-name-firefox } موبائل گھنو
 firefox-mobile-privacy-protection-by-default = ڈیفالٹ نال رازدای حفاظت
