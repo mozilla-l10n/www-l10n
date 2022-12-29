@@ -8,6 +8,8 @@
 
 ## Required
 
+installer-help-page-title = تہاݙے ڈاؤن لوڈ وچ خلل پیا ہائی۔
+installer-help-main-tagline = کݙاہیں کݙاہیں این٘ویں تھی ویندے۔ آؤ کئی  وکھری شئے دی کوشش کروں۔
 installer-help-action-channel = ایہ ڈاؤن لوڈ تہاݙے کیتے بہتر کم کریسی۔
 installer-help-action-choose = ہیٹھاں ہک ڈاؤن لوڈ چݨو۔
 
