@@ -14,6 +14,7 @@ firefox-enterprise-get-firefox-for-your-enterprise = آپݨی انٹرپرائز
 firefox-enterprise-your-data-stays-your-business = تہاݙا ڈیٹا تہاݙے کاروبار کوں برقرار رکھسی
 firefox-enterprise-deploy-when-and-how-you-want = ڄݙݨ تے جین٘ویں چاہوو ورتو
 firefox-enterprise-choose-your-release-cadence = آپݨی ریلیز دا قافیہ چݨو
+firefox-enterprise-get-rapid-releases-to-make = تساں تازہ ترین خصوصیات تکھیرے گھنݨ کوں یقینی بݨاوݨ کیتے تیزی نال ریلیز گھنو  یا ݙاڈھے مستحکم تجربے کوں یقینی بݨاوݨ کیتے ودھاؤ۔
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ڈاؤن لوڈاں
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 ــ بٹ
 firefox-enterprise-macos = { -brand-name-mac }
@@ -30,5 +31,11 @@ firefox-enterprise-deployment-guide = تعیناتی دا ہدایت نامہ
 firefox-enterprise-policy-documentation = پالیسی دستاویزات
 firefox-enterprise-release-notes = ریلیز نوٹ
 firefox-enterprise-documentation-and-community = دستاویزات تے برادری دا سہارا
+# Variables:
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+firefox-enterprise-sample-plist-for-configuration = نمونہ <a href="{ $url }">کنفیگریشن پروفائل کیتے پلسٹ</a>
 firefox-enterprise-pkg-installer = PKG انسٹالر
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-بٹ
+# Variables:
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+firefox-enterprise-download-firefox-esr-or-rapid = { -brand-name-firefox-esr } ڈاؤن لوڈ کرو یا <br> <a href="{ $firefox_all }">ہک ٻئی زبان یا پلیٹ فارم </a> کیتے تیز رفتار ریلیز۔
