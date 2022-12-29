@@ -7,6 +7,8 @@
 
 # HTML page title
 features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: بہتر نشانیاں تساں جتھ وی ون٘ڄو
+# HTML page description
+features-bookmarks-easily-organize-your-bookmarks = سوکھ نال آپݨیاں نشانیاں کوں فولڈر وچ منظم کرو تے آپݨے سارے ڈیوائساں تے، ڈیسک ٹاپ کنوں موبائل تے  انہاں کوں رسائی ݙیوو۔
 features-bookmarks-better-bookmarks = بہتر نشانیاں
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = او نشانی فائل کرو
