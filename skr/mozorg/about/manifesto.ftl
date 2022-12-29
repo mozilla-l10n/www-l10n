@@ -29,6 +29,8 @@ manifesto-09 = 09
 manifesto-10 = 10
 # Main page heading
 manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } دا منشور ضمیمہ
+# Main page sub-heading
+manifesto-pledge-for-a-healthy-internet = صحت مند انٹرنیٹ کیتے عہد
 manifesto-show-your-support = آپݨی سپورٹ ݙکھاؤ
 manifesto-share-on-twitter = { -brand-name-twitter } تے شیئر کرو
 manifesto-our-10-principles = <strong>ساݙے 10</strong> اصول
@@ -36,6 +38,8 @@ manifesto-read-the-entire-manifesto = سارا منشور پڑھو
 manifesto-love-the-web = ویب نال پیار ہے؟
 manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } دا منشور
 manifesto-details-introduction = تعارف
+manifesto-details-the-goals-for = منشور دے اہداف ایہ ہن:
 manifesto-details-principles = اصول
+manifesto-details-advancing-the = { -brand-name-mozilla } دے منشور کوں ودھاوݨ
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } دا عہد
 manifesto-details-invitation = کانڈھا

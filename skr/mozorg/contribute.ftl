@@ -17,6 +17,7 @@ contribute-tag-technical-non-technical = تکنیکی تے غیر تکنیکی
 contribute-tag-individual = انفرادی
 contribute-tag-support = سہارا
 contribute-task-translate-heading = مواد دا ترجمہ کرو
+contribute-task-mozilla-codebase-heading = { -brand-name-mozilla } کوڈبیس وچ حصہ پاؤ
 contribute-task-join-heading = برادری وچ شامل تھیوو
 
 ## Mission
@@ -27,6 +28,7 @@ contribute-read-manifesto = ساݙا منشور پڑھو
 contribute-find-event = ہک ایونٹ لبھو
 contribute-meet-volunteers = ساݙے پُرجوش رضاکاراں نال ملو
 contribute-donate = عطیہ ݙیوو
+contribute-help-fund = ساݙے مشن کوں فنڈ ݙیوݨ وچ مدد کرو
 contribute-follow-mozilla = { -brand-name-mozilla } کوں فالو کرو
 
 ## Made by

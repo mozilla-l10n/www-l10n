@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/mission/
 
+mission-were-building-a-better-internet = اساں بہتر انٹرنیٹ اسریندے پئے ہیں
 mission-get-involved = نال رلت کرو
 mission-history = تاریخ
 mission-forums = فورم
