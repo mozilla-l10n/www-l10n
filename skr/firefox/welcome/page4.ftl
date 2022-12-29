@@ -8,6 +8,7 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = { -brand-name-android } تے { -brand-name-ios } کیتے آپݨے موبائل تے { -brand-name-firefox-browser } ڈاؤن لوڈ کرو
 welcome-page4-wallet-keys-phone-firefox = پرس چابیاں فون. <strong> { -brand-name-firefox }</ strong>
+welcome-page4-privacy-every-screen-now = ہݨ ہر سکرین تے رازداری گھنو
 welcome-page4-get-the-firefox-mobile = { -brand-name-firefox } موبائل گھنو
 welcome-page4-get-firefox-on-your-phone = آپݨے فون تے { -brand-name-firefox } گھنو
 welcome-page4-download-firefox-for-your = آپݨے سمارٹ فون یا ٹیبلٹ کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو۔

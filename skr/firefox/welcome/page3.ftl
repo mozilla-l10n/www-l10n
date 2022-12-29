@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/3/
 
+# HTML page title
+welcome-page3-get-the-free-account-that = آپݨی رازداری دی حفاظت کیتے مفت کھاتہ بݨاؤ۔ { -brand-name-firefox } نال رلت کرو۔
+welcome-page3-no-account-required-but-you = کہیں کھاتے دی لوڑ کائنی۔ بھل تساں ہک چاہندے ہوسو۔
 welcome-page3-sign-in = سائن ان
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-facebook-container = { -brand-name-facebook-container }
