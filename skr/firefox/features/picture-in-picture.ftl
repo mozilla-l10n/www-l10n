@@ -18,3 +18,4 @@ features-pip-3-more-ways-to-use-picture = تصویر وچ تصویر ورتݨ د
 features-pip-3-ways-to-use-picture = تصویر وچ تصویر ورتݨ دے 3  طریقے
 features-pip-watch-a-lecture-or-meeting = نوٹس گھنݨ دے دوران لیکچر یا میٹنگ ݙیکھو
 features-pip-keep-a-tutorial-video-open = ردھے پکے دے دوران ترکیب دی  ٹیٹوریل وڈیو کھول رکھو
+features-pip-entertain-cats-dogs-and-kids = جہڑے ویلے تساں کم مکمل کر گھنو تاں ٻلیاں، کتیاں تے ٻالاں کوں کھیݙاؤ تے وِلاؤ۔
