@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
+facebook-container-facebook-container-for-firefox = { -brand-name-firefox } کیتے { -brand-name-facebook-container } |جہڑیاں ویب سائٹاں تے تساں دورہ کریندے ہو انہاں کوں { -brand-name-facebook } کوں ݙکھاوݨ کنوں بچاؤ۔
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container }دی ایکسٹینشن گھنو
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ڈاون لوڈ کرو تے { -brand-name-facebook-container }  ایکسٹینشن گھنو
 facebook-container-only-available-for-desktop = { -brand-name-facebook-container } ایکسٹنشن حالیہ صرف ڈیسک ٹاپ کیتے { -brand-name-firefox } کیتے دستیاب ہے۔
