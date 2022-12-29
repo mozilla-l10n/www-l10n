@@ -10,6 +10,7 @@ switch-select-what-to-take = چݨو جو { -brand-name-chrome } کنوں کیا 
 switch-let-firefox-do-the-rest = باقی کم { -brand-name-firefox } کوں کرݨ ݙیوو۔
 switch-share-with-your-friends = { -brand-name-firefox } وچ سوئچ تھیوݨ دا طریقہ آپݨے سنگتیاں نال شیئر کرو
 switch-switch-to-firefox = { -brand-name-firefox } تے سوئچ کرو
+switch-still-not-convinced = بھلا اڄݨ ایندے قائل نہوے تھئے جو{ -brand-name-firefox } تے سوئچ کرݨ سوکھا ہے؟
 switch-download-and-switch = ڈاؤم لوڈ کرو تے سوئچ کرو
 switch-share-to-facebook = فیسبک تے شیئر کرو
 switch-share-to-facebook-updated = { -brand-name-facebook } تے شیئر کرو

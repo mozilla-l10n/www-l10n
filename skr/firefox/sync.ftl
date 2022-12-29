@@ -12,3 +12,4 @@ firefox-sync-privacy-made-easy = رازداری سوکھی بݨائی ڳئی
 firefox-sync-encrypt-your-data = آپݨا ڈیٹا مخفی کرو
 firefox-sync-feel-safe = محفوظ محسوس کرو
 firefox-sync-start-syncing-in = چار سوکھے مرحلیاں وچ  ہم وقت کرݨ شروع کرو:
+firefox-sync-click-get-started = جہڑی ٹیب کھلدی ہے اوندے وچ <strong>”شروع کرو”</strong> تے کلک کرو۔

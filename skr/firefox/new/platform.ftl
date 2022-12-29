@@ -32,6 +32,7 @@ new-platform-download-mozilla-firefox-mac = { -brand-name-mac-short } کیتے {
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = { -brand-name-mac-short } کیتے ہݨ تائیں دا تکھا ترین { -brand-name-firefox } ڈاؤن لوڈ کرو
 new-platform-privacy-comes-first = رازداری پہلے امدی ہے
+new-platform-get-speed-and-security = رفتار تے حفاظت گھنو۔ { -brand-name-firefox }، { -brand-name-mac-short } تے تکھی ہے کیوں جو اساں تہاڈی ٹور کوں ٹریک کائنی کریندے۔
 new-platform-block-trackers = ٹریکراں کوں بلاک کرو
 
 ## Windows

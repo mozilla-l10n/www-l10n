@@ -7,4 +7,6 @@
 
 welcome-page1-check-your-breach-report = آپݨی خلاف ورزی رپورٹ دی پڑتال کرو
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-stay-ahead-of-hackers = ہیکیراں کنوں اڳوں تے راہوو
+welcome-page1-stay-in-the-know = ڄاݨدے راہوو
 welcome-page1-why-am-i-seeing-this = میں ایہ کیوں ݙیہدا پیاں؟
