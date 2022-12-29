@@ -11,6 +11,7 @@ features-index-protect-your-privacy-and-browse = { -brand-name-firefox } خصو�
 features-index-firefox-features = { -brand-name-firefox } خاصیتاں
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox } تلکھا، ہولا، رازداری مرکوز براؤزر ہے جہڑا تہاݙیاں ساریاں ڈیوائساں تے کم کریندے۔
+features-index-add-powerful-functions = آپݨے { -brand-name-firefox } براؤزر وچ تکڑے فنگشن، مفید خصوصیات تے تھوڑی جہی چس ودھاؤ۔
 features-index-see-all = ساریاں ایکسٹنشناں ݙیکھو
 features-index-get-an-account = { -brand-name-firefox-account } گھنو
 features-index-from-the-company = اینجھی کمپنی ولوں جہڑی لوکاں کوں منافع تے ترجیح ݙیندی ہے۔

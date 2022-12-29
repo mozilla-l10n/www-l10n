@@ -11,3 +11,4 @@ features-fast-firefox-is-now-faster-and-leaner = { -brand-name-firefox } ہݨ ت
 features-fast-weve-been-working-out-so-you = اساں ایندے اتے کم کیتی پئے ہیں، ایں سانگے تساں ٻیا ٻہوں کجھ گھن سڳدو۔
 features-fast-use-less-memory = تھوڑی میموری ورتو
 features-fast-get-all-the-tabs-without-lags = وقفے دے بغیر ساریاں ٹیباں گھنو
+features-fast-level-up-browser-gameplay = کھیݙاں کھیݙݨ کیتے براؤزر دی سطح ودھاؤ
