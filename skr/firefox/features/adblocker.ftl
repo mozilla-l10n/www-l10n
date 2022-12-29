@@ -8,6 +8,7 @@
 features-adblocker-how-to-block-annoying = مشہوری بلاکر ورتݨ نال پریشان کن مشہوریاں کوں کین٘ویں روکیجے
 features-adblocker-the-ad-blocker-a-secret = مشہوری بلاکر – پریشان کن اشتہاراں دے خلاف ہک خفیہ ہتھیار۔
 features-adblocker-so-many-ads-so-little = ٻہوں سارے اشتہار، ٻہوں تھوڑا صبر۔۔۔ پاڳل پن کوں روکݨ دا ویلا آڳئے۔
+features-adblocker-the-average-person-sees = عام بندہ ہک ݙین٘ہ وچ اوسطاً 4,000 اشتہار ݙیہدے۔ جے تہاکوں لڳدے جو ایہ ٻہوں ودھ ہن تاں مشہوری بلاکر تہاݙا نواں بہترین سنگتی ہے۔
 features-adblocker-find-the-right-ad-blocker = آپݨے کیتے ٹھیک مشہوری بلاکر لبھو
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
