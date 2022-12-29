@@ -17,3 +17,4 @@ features-pip-click-the-picture-in-picture-button = <strong>تصویر وچ تص�
 features-pip-3-more-ways-to-use-picture = تصویر وچ تصویر ورتݨ دے 3 ٻئے طریقے
 features-pip-3-ways-to-use-picture = تصویر وچ تصویر ورتݨ دے 3  طریقے
 features-pip-watch-a-lecture-or-meeting = نوٹس گھنݨ دے دوران لیکچر یا میٹنگ ݙیکھو
+features-pip-keep-a-tutorial-video-open = ردھے پکے دے دوران ترکیب دی  ٹیٹوریل وڈیو کھول رکھو
