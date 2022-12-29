@@ -8,6 +8,7 @@
 # HTML page title and main title
 privacy-principles-data-privacy-principles = ڈیٹا رازداری اصول
 privacy-principles-no-surprises = کوئی حیرت کائنی
+privacy-principles-user-control = ورتݨ آلے دا کنٹرول
 privacy-principles-limited-data = محدود ڈیٹا
 privacy-principles-sensible-settings = معقول ترتیباں
 privacy-principles-defense-in-depth = گہرائی وچ دفاع

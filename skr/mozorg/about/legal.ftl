@@ -8,6 +8,7 @@
 legal-legal = قنونی
 legal-get-involved = نال رلت کرو
 legal-protect-the-fox = فوکس دی حفاظت کرو
+legal-takedown-requests = ٹیک ڈاؤن ارداساں
 legal-back-to-legal = قنونی تے واپس
 legal-terms = شرطاں
 legal-our-websites = ساݙیاں ویب سائٹاں
@@ -19,6 +20,7 @@ legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: تہاݙے حقاں بارے
 legal-thunderbird = { -brand-name-thunderbird }
 legal-thunderbird-rights = { -brand-name-thunderbird }: تہاݙے حقاں بارے
+legal-firefox-cloud-services = { -brand-name-firefox } کلاؤڈ خدمتاں: خدمت شرطاں
 legal-firefox-better-web = { -brand-name-firefox-better-web }
 legal-firefox-better-web-terms = { -brand-name-firefox-better-web } خدمت شرطاں
 legal-firefox-light-rights = { -brand-name-firefox-lite }: تہاݙے حقاں بارے

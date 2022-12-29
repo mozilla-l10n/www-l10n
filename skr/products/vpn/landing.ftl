@@ -5,11 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: آپݨی ساری ڈیوائس دی حفاظت کرو
 vpn-landing-fast-secure-heading = تکھا تے محفوظ نیٹ ورک
 
 ## FAQ section
 
 vpn-landing-faq-heading = عمومی سوالات
+vpn-langing-faq-uses-question-heading = وی پی این کیا ہے تے ایندے ورتاوے کیا ہن؟
+vpn-landing-faq-protected-question-heading = میݙی رازداری کین٘ویں حفاظت وچ ہے؟
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-بٹ صرف)
@@ -52,6 +56,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu }-صرف)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-صرف)
+vpn-landing-faq-manage-subscription-question-heading = میں آپݨی سبسکرپشن کین٘ویں منیج کرینداں؟
 vpn-landing-faq-link = ٻئے FAQs ݙیکھو
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
