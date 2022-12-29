@@ -27,6 +27,7 @@ features-index-choose-independence = آزادی چݨو
 features-index-read-our-privacy-policy = ساݙی رازداری پالیسی پڑھو
 features-index-private-by-default = ڈیفالٹ نال نجی
 features-index-enhanced-tracking = بہتر ٹریکنگ حفاظت
+features-index-we-dont-sell-access-to-your = اساں تہاݙے آن لائن ڈیٹا تائیں رسائی کائناں ویچیسوں۔ دورانیہ۔
 features-index-get-firefox-for-privacy = رازداری کیتے { -brand-name-firefox } گھنو
 features-index-firefox-vs = { -brand-name-firefox } بمقابلہ ٻئے براؤزرز
 features-index-compare-browsers = براؤزراں دا ویورا کرو
