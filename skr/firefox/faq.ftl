@@ -7,12 +7,15 @@
 
 # HTML page title
 firefox-faq = { -brand-name-firefox }عمومی سوالات
+whether-you-searched-privacy = بھانویں تساں ہک تیز براؤزر ڳولیا ہے جیڑھا تہاݙی رازداری دی حفاظت کریندا ہے، ایہ FAQ  اتھاں پچھے ڳئے سوال { -brand-name-firefox } دے متعلق سبھ توں زیادہ دٻائے ونڄݨ والے سوالاں دے جواب ݙیوݨ کیتے ہے
+whether-you-searched-independant = بھانویں تساں تکھے براؤزر دی ڳول کیتی ہووے، یا تساں خود مختار ٹیکنالوجی دی ڳول کریندے پئے او جیڑھی تہاݙی رازداری دی حفاظت کریندی ہووے، FAQ  اتھاں { -brand-name-firefox } دے متعلق سبھ توں زیادہ دٻائے ونڄݨ والے سوالاں دے جواب ݙیوݨ کیتے ہے۔
 what-is-firefox = { -brand-name-firefox } کیا ہے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/firefox/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } او کلھا وݙا براؤزر ہے جینکوں غیر منافع بخش دی حمایت حاصل ہے جیڑھا تہاݙی ذاتی معلومات دی حفاظت وِچ مدد کریندے ہوئے مشتہرین کوں تہاݙا ذاتی ڈیٹا نہیں ویچیندا۔ <a href="{ $url }"> { -brand-name-firefox-browsers } </a>  تے <a href="{ $url2 }"> ٻیاں بݨتراں دے بارے ودھیک ڄاݨو۔ </a>
 how-do-i = میں { -brand-name-firefox-browser } کین٘ویں گھن سڳداں؟
 
 # Variables:
@@ -22,7 +25,9 @@ how-do-i = میں { -brand-name-firefox-browser } کین٘ویں گھن سڳدا
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = تساں آسانی نال { -brand-name-firefox } ڈیسک ٹاپ براؤزر کوں <a href="{ $url }"> اتھوں ڈاؤن لوڈ کر سڳدے او۔ </a> { -brand-name-firefox } <a href="{ $url2 }"> { -brand-name-windows } تے کم کریندا ہے۔ </a> <a href="{ $url3 }"> { -brand-name-mac-short } </a> تے <a href="{ $url4 }"> { -brand-name-linux } </a> آلات تے <a href="{ $url5 }"> { -brand-name-android } تے { -brand-name-ios } کیتے وی دستیاب ہے۔ </a> یقینی بݨاؤ جو اساں تہاݙے قابل اعتماد { -brand-name-mozilla } / { -brand-name-firefox } ورقیاں وِچوں کہیں ہک کنوں اساݙا براؤزر ڈاؤن لوڈ کریندے پئے او۔
 is-firefox-free = بھلا { -brand-name-firefox } مفت ہے؟
+yep-the-firefox = جیا! { -brand-name-firefox-browser } مفت ہے۔ سپر مفت، سہی سچ۔ کوئی ڳجھے اخراجات یا کجھ کائنی۔ تساں اینکوں استعمال کرݨ کیتے کجھ وی ادا نہیں کریندے او، تے اساں تہاݙا ذاتی ڈیٹا نہیں ویچیندے۔
 related-questions-free = متعلقہ سوالات: بھلا { -brand-name-firefox-browser } مفت ہے،  بھلا { -brand-name-firefox } مل نال ملدے
 is-chrome-better = بھلا { -brand-name-firefox } کنوں { -brand-name-chrome } چنگیرا ہے۔
 
