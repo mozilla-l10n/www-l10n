@@ -12,6 +12,7 @@ privacy-index-data-privacy-principles = ڈیٹا رازداری اصول
 privacy-index-transparency-report = شفافت رپورٹ
 privacy-index-get-involved = نال رلت کرو
 privacy-index-outdated-policies = پراݨی پالیسیاں
+privacy-index-mozilla-websites-communications = { -brand-name-mozilla } ویب سائٹاں، ابلاغاں تے کوکیاں
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
