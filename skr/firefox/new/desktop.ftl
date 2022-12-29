@@ -106,6 +106,9 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> کیتے { -brand-name-firefox-browser } گھنو
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> کیتے { -brand-name-firefox-browser } گھنو
 firefox-desktop-download-learn-about-the = { -brand-name-firefox } ڈیسک ٹاپ براؤزر بارے ہیٹھاں ٻیا سکھو
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = سوالات؟ <a { $attrs }>{ -brand-name-mozilla } سپورٹ</a> تہاڈی پوری پوری مدد کیتی ہے۔
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } کنوں ٻئے گھنو
 firefox-desktop-download-just-download-the-browser = ٻس براؤزر ڈاؤن لوڈ کرو
 
@@ -115,9 +118,19 @@ firefox-desktop-download-almost-there = تقریباً اُتھ!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = { -brand-name-firefox } <strong>انسٹال کرݨ</strong> ہݨ مکمل کرو۔
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = ہݨ  او انسٹالر <strong> چلاؤ </ strong> جہڑا ہݨے ہݨے ڈاؤن لوڈ تھیا ہے۔
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = ہݨ  او فائل <strong> کھولو </ strong> جہڑی ہݨے ہݨے ڈاؤن لوڈ تھئی ہے۔
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-desktop-download-visit-support-for-more = ٻیاں تفصیلاں کیتے سپورٹ تے ون٘ڄو
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر کنوں ودھ ہے۔
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = تہاݙے ڈاؤن لوڈ وچ خلل پئے ڳیا ہائی۔ پر ہر شئے ضائع کائنی تھئی۔
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = { -brand-name-firefox } انسٹال کرݨ کیتے سوہݨا، <a href="{ $url }">ان ہدایتاں</a> تے عمل کرو۔
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = تہاݙا نظام { -brand-name-firefox } چلاوݨ دیاں ضروریات پوریاں کائنی کرین٘دا، پر تساں <a href="{ $url }">انہاں ورشناں</a> وچوں ہک ورتݨ دی کوشش کر سڳدے ہو۔

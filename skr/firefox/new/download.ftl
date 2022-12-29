@@ -24,6 +24,14 @@ firefox-new-need-help = بھلا مدد دی لوڑ ہے؟
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر کنوں ودھ ہے۔
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-new-download-interrupted = تہاݙے ڈاؤن لوڈ وچ خلل پئے ڳیا ہائی۔ پر ہر شئے ضائع کائنی تھئی۔
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = { -brand-name-firefox } انسٹال کرݨ کیتے سوہݨا، <a href="{ $url }">ان ہدایتاں</a> تے عمل کرو۔
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = تہاݙا نظام { -brand-name-firefox } چلاوݨ دیاں ضروریات پوریاں کائنی کرین٘دا، پر تساں <a href="{ $url }">انہاں ورشناں</a> وچوں ہک ورتݨ دی کوشش کر سڳدے ہو۔
 firefox-new-windows = { -brand-name-windows }
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
