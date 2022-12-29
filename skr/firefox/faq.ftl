@@ -30,6 +30,7 @@ is-chrome-better = بھلا { -brand-name-firefox } کنوں { -brand-name-chrom
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">ݙیکھو کین٘ویں { -brand-name-firefox } مقابلہ کریندے{ -brand-name-chrome }.</a>
+related-questions-better = متعلقہ سوالات: بھلا  { -brand-name-chrome } کنوں{ -brand-name-firefox } بہتر ہے۔ بھلا { -brand-name-google } کنوں { -brand-name-firefox } بہتر ہے۔ بھلا { -brand-name-chrome } کنوں { -brand-name-chrome } محفوظ تر ہے۔ بھلا { -brand-name-chrome } کنوں { -brand-name-firefox } ودھیک نجی ہے۔
 is-firefox-safe-download = بھلا { -brand-name-firefox } ڈاؤن لوڈ کرݨ کیتے محفوظ ہے؟
 
 # Variables:
@@ -40,6 +41,7 @@ is-firefox-safe = بھلا { -brand-name-firefox } محفوظ ہے؟
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+related-questions-safe = متعلقہ سوالات:  بھلا { -brand-name-firefox } رازداری کیتے چنگی ہے۔ بھلا { -brand-name-firefox } محفوظ ہے۔ بھلا رازداری کیتے { -brand-name-firefox } بہتر ہے۔
 does-firefox-sell = بھلا { -brand-name-firefox } تہاݙا ذاتی ڈیٹا وچیندے؟
 
 # Variables:
