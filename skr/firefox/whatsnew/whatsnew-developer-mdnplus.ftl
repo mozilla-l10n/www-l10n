@@ -7,6 +7,7 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest = مبارک ہووے ہݨ تہاݙے کول { -brand-name-firefox-browser } { -brand-name-developer-edition } دا نواں نکور ورژن ہے۔
 # Main title
 developer-mdnplus-more-mdn-your-mdn = ٻئے { -brand-name-mdn }۔<em> تہاݙا</em>{ -brand-name-mdn }۔
 # CTA button

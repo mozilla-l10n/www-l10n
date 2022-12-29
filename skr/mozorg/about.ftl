@@ -7,10 +7,15 @@
 
 # HTML Page title
 about-learn-about-mozilla = { -brand-name-mozilla } بارے ٻیا سکھو
+# Main sub-heading
+about-our-mission-keep-the-internet = ساݙا مشن: انٹرنیٹ ہر کہیں کیتے کھلا تے پہنچ وچ رکھݨ
 # Main call to action
 about-read-our-mission = ساݙا مشن پڑھو
 about-our-mission-in-action = ساݙا مشن عمل وچ
+about-pioneers-of-the-open-web = کھلا ویب دے موہری
 about-firefox-fast-for-good = { -brand-name-firefox }: تکھا، چنگائی کیتے
+about-talking-internet-issues-irl = انٹرنیٹ مسائل تے ڳالھ کریندے ہوئے IRL
+about-corporation-foundation-not = کارپوریشن۔ فاؤنڈیشن۔ غیر منافع بخش
 about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } بارے ٻیا سکھو
 about-the-mozilla-manifesto = { -brand-name-mozilla } دا منشور
 about-read-the-manifesto = منشور پڑھو
