@@ -30,6 +30,7 @@ is-firefox-free = بھلا { -brand-name-firefox } مفت ہے؟
 yep-the-firefox = جیا! { -brand-name-firefox-browser } مفت ہے۔ سپر مفت، سہی سچ۔ کوئی ڳجھے اخراجات یا کجھ کائنی۔ تساں اینکوں استعمال کرݨ کیتے کجھ وی ادا نہیں کریندے او، تے اساں تہاݙا ذاتی ڈیٹا نہیں ویچیندے۔
 related-questions-free = متعلقہ سوالات: بھلا { -brand-name-firefox-browser } مفت ہے،  بھلا { -brand-name-firefox } مل نال ملدے
 is-chrome-better = بھلا { -brand-name-firefox } کنوں { -brand-name-chrome } چنگیرا ہے۔
+no-we-dont = کائناں، اساں نہیں سوچیندے جو { -brand-name-chrome } { -brand-name-firefox } کنوں بہتر ہے، تے ایہا وجہ ہے: جݙاں لوک پچھدے ہن جو کیڑھا براؤزر بہتر ہے، تاں او واقعی پچھدے پئے ہن جو کیڑھا براؤزر تکھا ہے تے زیادہ محفوظ { -brand-name-firefox } کوں ماہانہ اپ ڈیٹ کیتا ویندا ہے تاں جو ایہ یقینی بݨایا ونڄ سڳے جو تہاݙے کول تکھا براؤزر ہے جیڑھا آپوں ڄاݨ تہاݙی رازداری دا احترام کریندا ہے۔
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -41,18 +42,22 @@ is-firefox-safe-download = بھلا { -brand-name-firefox } ڈاؤن لوڈ کر
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = تہاݙی رازداری دی حفاظت اساݙی پہلی ترجیح ہے، تے اساں ایں ڳالھ کوں یقینی بݨیندے ہیں جو تہاݙے آلات تے { -brand-name-firefox } انسٹال کرݨ مکمل طور تے محفوظ ہے — پر ہمیشاں ایہ یقینی بݨاؤ جو تساں کہیں قابل اعتماد سائٹ { -brand-name-mozilla } / { -brand-name-firefox } کنوں ڈاؤن لوڈ کریندے پئے او، جیویں <a href="{ $url }"> اساݙا ڈاؤن لوڈ ورقہ۔ </a>
 is-firefox-safe = بھلا { -brand-name-firefox } محفوظ ہے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = نہ سکھݨا { -brand-name-firefox } استعمال کرݨ کیتے محفوظ ہے، بھل ایہ تہاݙے ڈیٹا تے نجی معلومات کوں محفوظ رکھݨ وِچ وی مدد کریندا ہے۔ { -brand-name-firefox-browser } آپوں ڄاݨ ڄاتے سنڄاتے تریاکل ٹریکرز، سوشل میڈیا ٹریکرز، کرپٹومائنرز تے فنگر پرنٹرز کوں تہاݙا ڈیٹا کٹھا کرݨ کنوں روکیندا ہے۔ <a href="{ $url }"> اساݙے بݨتراں وِچ رازداری دے بارے ودھیک ڄاݨو۔ </a>
 related-questions-safe = متعلقہ سوالات:  بھلا { -brand-name-firefox } رازداری کیتے چنگی ہے۔ بھلا { -brand-name-firefox } محفوظ ہے۔ بھلا رازداری کیتے { -brand-name-firefox } بہتر ہے۔
 does-firefox-sell = بھلا { -brand-name-firefox } تہاݙا ذاتی ڈیٹا وچیندے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = کائناں، کݙاہیں کائنی، کݙاہیں نہ ہوسے۔ تے اساں تہاکوں ٻہوں سارے مشتہرین کنوں محفوظ رکھیندے ہیں جیڑھے ایویں کریندے ہن۔ { -brand-name-firefox } بݨتراں تہاݙی رازداری دی حفاظت کیتے بݨایاں ڳیا ہن۔ <a href="{ $url }"> ایہ ہک وعدہ ہے۔ </a>
 why-is-firefox = { -brand-name-firefox } ݙاڈھی مٹھی کیوں ہے؟
+firefox-isnt-slow = { -brand-name-firefox } سست کائنی… ہݨ۔ 2017 وِچ، اساں اپݨے براؤزر انجݨ کوں مکمل طور تے دوبارہ بݨایا (جینکوں Quantum آکھیا ویندا ہے) ایں ڳالھ کون یقینی بݨاوݨ کیتے تے { -brand-name-firefox } ٻئے وݙے براؤزرز دا مقابلہ کر سڳے۔ تے، اساݙے ٹریکر بلاکرز ورقیاں کوں ودھیک تکھاجی نال لوڈ کرݨ وِچ مدد کریندے او۔ لہذا { -brand-name-firefox } تہاݙی کہیں وی رازداری دی قربانی دے بغیر تیز رفتار ہے۔
 is-firefox-chromium = بھلا { -brand-name-firefox }، { -brand-name-chromium } تے مبنی ہے؟
 does-firefox-use = بھلا { -brand-name-firefox } ، { -brand-name-google } ورتیندے؟
 
