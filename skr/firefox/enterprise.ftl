@@ -11,8 +11,15 @@ firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = جائزہ
 firefox-enterprise-downloads = ڈاؤن لوڈاں
 firefox-enterprise-get-firefox-for-your-enterprise = آپݨی انٹرپرائز کیتے { -brand-name-firefox } گھنو
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+firefox-enterprise-get-the-firefox-extended-support = ڈیٹا دی جامع حفاظت تے ڈیٹا دے تحفظ کیتے <a href="{ $url }">{ -brand-name-firefox-extended-support-release } یا Rapid Release</a> براؤزر حاصل کرو۔
+firefox-enterprise-unmatched-data-protection = بے مثال ڈیٹا تحفظ — ریلیز کیڈنس تے جیڑھا تہاݙے کیتے موزوں ہے۔
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } براؤزر اوپن سورس ہے تے بہتر ٹریکنگ تحفظ فراہم کریندا ہے — ڈیٹا دے تحفظ کیتے اساݙی دیرینہ وابستگی دا تمام حصہ۔
 firefox-enterprise-your-data-stays-your-business = تہاݙا ڈیٹا تہاݙے کاروبار کوں برقرار رکھسی
 firefox-enterprise-deploy-when-and-how-you-want = ڄݙݨ تے جین٘ویں چاہوو ورتو
+firefox-enterprise-with-install-packages-and = انسٹال پیکجز تے گروپ پالیسیاں تے خصوصیات دی وسیع توسیع دے نال، تعیناتی پہلے کنوں کتھائیں زیادہ تیز تے زیادہ لچکدار ہے — تے { -brand-name-windows } تے { -brand-name-mac } ماحول وِچ ہوا دا جھولا۔
 firefox-enterprise-choose-your-release-cadence = آپݨی ریلیز دا قافیہ چݨو
 firefox-enterprise-get-rapid-releases-to-make = تساں تازہ ترین خصوصیات تکھیرے گھنݨ کوں یقینی بݨاوݨ کیتے تیزی نال ریلیز گھنو  یا ݙاڈھے مستحکم تجربے کوں یقینی بݨاوݨ کیتے ودھاؤ۔
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ڈاؤن لوڈاں
