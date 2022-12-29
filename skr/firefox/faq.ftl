@@ -23,6 +23,7 @@ how-do-i = میں { -brand-name-firefox-browser } کین٘ویں گھن سڳدا
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = بھلا { -brand-name-firefox } مفت ہے؟
+related-questions-free = متعلقہ سوالات: بھلا { -brand-name-firefox-browser } مفت ہے،  بھلا { -brand-name-firefox } مل نال ملدے
 is-chrome-better = بھلا { -brand-name-firefox } کنوں { -brand-name-chrome } چنگیرا ہے۔
 
 # Variables:

@@ -7,6 +7,7 @@
 
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container }دی ایکسٹینشن گھنو
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ڈاون لوڈ کرو تے { -brand-name-facebook-container }  ایکسٹینشن گھنو
+facebook-container-only-available-for-desktop = { -brand-name-facebook-container } ایکسٹنشن حالیہ صرف ڈیسک ٹاپ کیتے { -brand-name-firefox } کیتے دستیاب ہے۔
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
