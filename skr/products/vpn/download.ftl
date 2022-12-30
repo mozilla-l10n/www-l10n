@@ -7,6 +7,7 @@
 
 vpn-download-page-title = { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 vpn-download-page-description = { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android }, تے { -brand-name-ios } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو۔
+vpn-download-not-available-in-country = افسوس، تہاݙے ملک وچ { -brand-name-mozilla-vpn } ڈاؤن لوڈ کیتے دستیاب کائنی۔
 vpn-download-button-copy = ڈاؤن لوڈ
 vpn-download-for-windows = { -brand-name-windows } 10/11 کیتے وی پی این
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-بٹ صرف)

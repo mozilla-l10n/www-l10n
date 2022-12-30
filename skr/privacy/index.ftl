@@ -8,6 +8,9 @@
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla } رازداری
 privacy-index-contact-mozilla = { -brand-name-mozilla } نال رابطہ کرو
+# Variables:
+#   $sumo (url) - link to https://support.mozilla.org/
+privacy-index-for-product-support-requests = مصنوع سپورٹ ارداس کیتے سوہݨا، <a href="{ $sumo }"> ساݙے فورماں تے ون٘ڄو</a>۔
 privacy-index-data-privacy-principles = ڈیٹا رازداری اصول
 privacy-index-transparency-report = شفافت رپورٹ
 privacy-index-get-involved = نال رلت کرو
