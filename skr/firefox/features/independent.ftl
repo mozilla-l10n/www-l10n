@@ -7,6 +7,8 @@
 
 # HTML page title
 features-independent-firefox-a-different = { -brand-name-firefox }، مختلف وقتاں کیتے مختلف نراؤزر۔ مفت براؤز کرو۔
+# HTML page description
+features-independent-browse-the-internet = انٹرنیٹ کوں براؤز کرو جیویں جو اوندا مقصد ہا… مفت، محفوظ تے سبھ کیتے قابل رسائی۔ اپݨی آن لائن آزادی دا ہوکا ݙیوو۔
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }: کہیں وجہ پاروں باغی
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = کوئی تند نتھی کائنی تھئی
