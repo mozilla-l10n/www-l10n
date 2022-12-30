@@ -64,12 +64,14 @@ does-firefox-use = بھلا { -brand-name-firefox } ، { -brand-name-google } و
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } { -brand-name-firefox } وِچ ڈیفالٹ سرچ انجݨ ہے، جیندا مطلب ایہ ہے جو تساں ایڈریس بار کنوں براہ راست ویب تے ڳول کر سڳدے او۔ <a href="{ $url }">سرچ انجݨ دیاں ترجیحاں تے ڈیفالٹس کوں تبدیل کرݨ دے بارے وِچ ودھیک ڄاݨو۔</a>
 does-firefox-have = بھلا { -brand-name-firefox } وچ بلٹ ــ ان وی پی این ہوندے؟
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+firefox-does-not = { -brand-name-firefox } وِچ بلٹ ان VPN (ورچوئل پرائیویٹ نیٹ ورک) کائنی، لیکن { -brand-name-mozilla }/{ -brand-name-firefox } دے ذریعہ تیار کردہ ݙو بݨتراں ہن جنہاں کوں تساں استعمال کرسڳدے او۔ نجی { -brand-name-firefox-browser } دے علاوہ جیڑھاں تہاݙے براؤزر دی حفاظت کر سڳدا ہے (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) یا ڈیوائس (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) WiFi تے کنکشن، نال تہاݙا IP پتہ۔
 related-questions-ip = متعلقہ سوالات: بھلا { -brand-name-firefox } تہاݙ ا IP پتہ لکین٘دا ہے؟
 who-owns-firefox = { -brand-name-firefox } دا مالک کوݨ ہے؟
 
@@ -77,3 +79,5 @@ who-owns-firefox = { -brand-name-firefox } دا مالک کوݨ ہے؟
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } کوں { -brand-name-mozilla-corporation } بݨایا ہے، جیڑھا غیر منافع بخش <a href="{ $url }"> { -brand-name-mozilla-foundation } </a> مکمل ملکیتی ذیلی کمپنی ہے تے{ -brand-name-mozilla } مینی فیسٹو دے اصولاں نال رہنمائی کریندا ہے۔ { -brand-name-firefox } دے بݨاوݨ والے دے بارے وِچ ودھیک ڄاݨو <a href="{ $url2 }">اتھاں۔</a>
+related-questions-who = متعلقہ سوالات: { -brand-name-firefox } کیندی ملکیت ہے، کون { -brand-name-firefox-browser } دا مالک ہے، { -brand-name-firefox } دی ملکیت { -brand-name-google } ہے، { -brand-name-mozilla } { -brand-name-firefox } دی ملکیت { -brand-name-google }

@@ -34,7 +34,14 @@ firefox-privacy-hub-see-what-firefox-has-blocked = ݙیکھو جو { -brand-name
 firefox-privacy-hub-get-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت گھنو
 firefox-privacy-hub-download-the-firefox-browser = { -brand-name-firefox } براؤزر ڈاؤن لوڈ کرو
 firefox-privacy-hub-update-your-firefox-browser = آپݨا { -brand-name-firefox } براؤزر اپ ڈیٹ کرو
+firefox-privacy-hub-invisible-to-the-top-trackers = چوٹی تے ٹریکرز کیتے ڳجھا
+firefox-privacy-hub-meet-four-of-the-most-common = ٹریکرز دی سبھ توں عام ونکیاں وِچوں چار نال ملو — جیڑھے تہاݙے نال کائنا ملسن۔
 firefox-privacy-hub-always-in-your-control = ہمیشہ تہاݙے قاٻو وچ
+firefox-privacy-hub-want-to-customize-what = کیڑھی چیز کوں بلاک کیتا ویندا ہے اپݨی مرضی دے مطابق کرݨ چاہندے او؟ تہاݙیاں ترتیباں صرف ہک کلک دی دوری تے ہن
+firefox-privacy-hub-protection-beyond-tracking = ٹریکنگ کنوں ٻاہر تحفظ
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = پوری دنیا وِچ { -brand-name-firefox } صارفین کیتے ہر روز { $trackers } کنوں زیادہ ٹریکرز بلاک کیتے ویندے ہن۔
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = خلاف ورزیاں دی پڑتال کرو
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
@@ -44,6 +51,7 @@ firefox-privacy-hub-send-a-file = ہک فائل پٹھو
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } گھنو
 firefox-privacy-hub-your-firefox-account = تہاݙا { -brand-name-firefox-account }
+firefox-privacy-hub-take-your-privacy-and-bookmarks = اپݨی رازداری تے نشانیاں کوں ہر جاء { -brand-name-firefox-account } دے نال گھن ونڄو۔
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = ساݙیاں مصنوعات کیتے <a href="{ $url }">رازداری نوٹس </a> پڑھو

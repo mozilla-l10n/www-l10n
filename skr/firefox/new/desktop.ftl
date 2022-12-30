@@ -10,14 +10,19 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-firefox-browser } ڈاؤن لوڈ کرو — تکھا، نجی تے مفت — { -brand-name-mozilla } ولوں
+firefox-desktop-download-meta-desc = { -brand-name-firefox } حاصل کرو،  ہک مفت ویب براؤزر جینکوں { -brand-name-mozilla } دی حمایت حاصل ہے، جیڑھا انٹرنیٹ دی صحت تے رازداری کیتے وقف ہک غیر منافع بخش ہے۔ ہݨ { -brand-name-windows }، { -brand-name-mac-short }، { -brand-name-linux }، { -brand-name-android } تے { -brand-name-ios } تے دستیاب ہے۔
 firefox-desktop-download-og-title = ہݨ تائیں دا تکھا ترین { -brand-name-firefox } ڈاؤن لوڈ کرو
+firefox-desktop-download-og-desc = ورقے دی تکھی لوڈنگ، میموری دا گھٹ استعمال تے خصوصیات نال بھریا ہویا، نواں { -brand-name-firefox } اتھاں ہے۔
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = براؤزر گھنو جہڑا حفاظت کریندے تے تہاݙے کیتے اہم ہے
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = مشتہرین کیتے کوئی مشکوک رازداری دی پالیسی یا پچھلے دروازے کائنی۔ صرف ہک تیز رفتار براؤزر جیڑھا تہاکوں نہیں ویچیندا۔
 firefox-desktop-download-download-options = ڈاؤن لوڈ اختیارات تے ٻیاں زباناں
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = جو تساں آن لائن کریندے ہو، او کرو۔<br>{ -brand-name-firefox-browser }<strong> کائنی </strong> ݙیہدا پیا۔
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } دا ٻئے براؤزراں نال کین٘ویں موازنہ کروں
+firefox-desktop-download-get-all-the-speed = رازداری دے کہیں وی حملے دے بغیر تمام رفتار تے ٹولز حاصل کرو۔ { -brand-name-firefox-browser } تہاݙے بارے اتنا گھٹ ڈیٹا کٹھا کریندا ہے، اساکوں ڈاؤن لوڈ کرݨ کیتے تہاݙے ای میل ایڈریس دی وی ضرورت کائنی۔ ایندی وجہ ایہ ہے جو ٻئے براؤزرز دے اُپٹھ، ویب تے تہاݙی پیروی کرݨ وِچ اساݙا کوئی مالی حصہ کائنی۔
 firefox-desktop-download-how-we-compare = اساں ٻئے براؤزرز نال کیویں موازنہ کریندے ہیں
 firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } دا موازنہ کرو:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -36,12 +41,17 @@ firefox-desktop-download-primary-password = بنیادی پاس ورڈ
 # Obsolete string
 firefox-desktop-love-your-life = اپݨی زندگی نال آن لائن پیار کرو
 # Obsolete string
+firefox-desktop-its-your-internet = ایہ تہاݙا انٹرنیٹ ہے۔ ہزاراں ٹولز، تھیمز تے ایکسٹینشنز دے نال جیویں تساں چاہندے او اونکوں رنگ ݙیوو۔ { -brand-name-firefox } اصل متبادل براؤزر ہے جیڑھا لوکاں کوں منافع کنوں پہلے رکھیندا ہے۔
+# Obsolete string
 firefox-desktop-download-master-password = ماسٹر پاس ورڈ
 firefox-desktop-download-we-block-the-ad = اساں اشتہاری ٹریکرز کوں بلاک کریندے ہیں۔ تساں انٹرنیٹ کوں تکھاجی نال دریافت کریندے او۔
+firefox-desktop-download-ads-are-distracting = اشتہار پریشان کن ہوندے ہن تے ویب ورقیاں کوں سست لوڈ کریندے ہن جݙاں جو انہاں دے ٹریکرز تہاݙی آن لائن ہر حرکت کوں ݙیکھدےہن۔ { -brand-name-firefox-browser } زیادہ تر ٹریکرز کوں آپوں ڄاݨ بلاک کر ݙیندا ہے، ایں سانگے تہاݙیاں حفاظتی ترتیباں کوں کھَٹݨ دی لوڑ کائنی۔
 firefox-desktop-download-see-your-report = اپݨے تحفظ دی رپورٹ ݙیکھو
 firefox-desktop-download-for-everyone = { -brand-name-firefox } ہر ہک کیتے ہے
+firefox-desktop-download-available-in-over = 90 کنوں زائد زباناں وِچ دستیاب ہے، تے { -brand-name-windows }، { -brand-name-mac-short } تے { -brand-name-linux } مشیناں دے نال مطابقت رکھیندا ہے، { -brand-name-firefox } کم کریندا ہے کوئی ڳالھ نئیں تساں کیا استعمال کریندے پئے او یا تساں کتھاں او۔ یقینی بݨاؤ جو تہاݙا آپریٹنگ سسٹم بہترین تجربے کیتے اپ ٹو ڈیٹ ہے۔
 firefox-desktop-download-review-system-req = سسٹم دیاں ضرورتاں دا جائزہ گھنو
 firefox-desktop-download-all-your-devices = اپݨیاں تمام ڈیوائساں تے { -brand-name-firefox } رکھو۔
+firefox-desktop-download-take-your-privacy = اپݨی رازداری کوں ہر جاہ اپݨے نال رکھو۔ { -brand-name-firefox-browsers } کنے { -brand-name-ios } تے { -brand-name-android } کیتے اوہے تکڑی رازداری دیاں ترتیباں ہن جیڑھیاں ٹریکرز کوں ویب تے تہاݙا پیچھا کرݨ کنوں روکیندیاں ہن، چاہے تساں کتھائیں وی ہوو۔
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = { -brand-name-firefox } دے نال ایہ </strong> سبھے <strong> کرو
 firefox-desktop-download-search-smarter = ہوشیار، تکھی ڳول کرو
@@ -86,6 +96,7 @@ firefox-desktop-download-change-new-tab = نویں ٹیب دا لے آؤٹ تب�
 firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> کوں اپݨا بݨاؤ
 firefox-desktop-download-extensions-for-every = ہر دلچسپی کیتے ایکسٹینشنز
 firefox-desktop-download-change-up-your = اپݨی ݙساور تبدیل کرو
+firefox-desktop-download-go-from-light = اپݨے موڈ یا ترجیح دے لحاظ نال لائٹ موڈ کنوں ڈارک موڈ تے ونڄو، یا اپݨی مرضی دے تھیم (رینبو یونیکورن، شاید) دے نال چیزاں کوں زندہ کرو۔
 firefox-desktop-download-tweak-your-settings = اپݨیاں ترتیباں کوں درست کرو
 firefox-desktop-download-theres-no-need = طے کرݨ دی ضرورت کائنی۔ نویں ٹیب دا ورقہ، سرچ بار، نشانیاں تے ٻہوں کجھ تبدیل کرو تاں جو تساں جیویں چاہو انٹرنیٹ کوں دریافت کرو۔
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -97,6 +108,9 @@ firefox-desktop-download-keep-all-your = اپݨے تمام پسندیدہ برا
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = تہاݙے تمام پسندیدہ { -brand-name-google } ٹولز (جیسے Gmail تے Docs) { -brand-name-firefox-browser } وِچ بغیر کہیں رکاوٹ دے کام کریندے ہن۔
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = { -brand-name-facebook } (تے { -brand-name-instagram }) کوں ویب تے تہاکوں ٹریک کرݨ کنوں روکݨ کیتے <a { $attrs } >ایں براؤزر ایکسٹینشن کوں ڈاؤن لوڈ کرو</a>۔
 firefox-desktop-download-sync-your-devices = آپݨیاں ڈیوائساں ہم وقت کرو
 firefox-desktop-download-screenshots = سکرین شاٹاں
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -105,10 +119,35 @@ firefox-desktop-download-from-watching-a = ویب ٹیوٹوریل ݙیکھݨ ک
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> کیتے { -brand-name-firefox-browser } گھنو
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> کیتے { -brand-name-firefox-browser } گھنو
+firefox-desktop-download-download-the-mobile = اپݨے تمام آلات تے خودکار تحفظ کیتے { -brand-name-firefox } موبائل براؤزر ڈاؤن لوڈ کرو۔
 firefox-desktop-download-learn-about-the = { -brand-name-firefox } ڈیسک ٹاپ براؤزر بارے ہیٹھاں ٻیا سکھو
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = سیکیورٹی کنون گھن تے خبراں تائیں گیمنگ تائیں، ہک <a { $attrs }> ہر کہیں دے کیتے توسیع </a>۔ تساں جتے چاہو شامل کرو جے تائیں تہاݙا براؤزر بالکل درست نہ ہووے۔
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } کوں <a { $attrs }>{ -brand-name-mozilla }</a> { -brand-name-ie } جیویں براؤزرز دے تیز، زیادہ نجی متبادل دے طور تے بݨایا ہا۔ ہݨ { -brand-name-chrome }۔ اڄ، اساݙی مشن نال چلݨ والی کمپنی تے رضاکار برادری تہاݙی رازداری کوں ہر چیز تے مقدم رکھیندی ہے۔
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = جیویں جیویں انٹرنیٹ ودھدا تے تبدیل تھیندا ہے، { -brand-name-firefox } تہاݙے رازداری دے حق تے توجہ مرکوز کریندا رہندا ہے — اساں اینکوں <a { $attrs }>ذاتی ڈیٹا وعدہ</a> آہدے ہیں: گھٹ گھنو۔ اینکوں محفوظ رکھو۔ کوئی راز کائنی۔ تہاݙا ڈیٹا، تہاݙی ویب سرگرمی، تہاݙی آن لائن زندگی { -brand-name-firefox } دے نال محفوظ ہے۔
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } تہاݙے تمام آلات تے دستیاب ہے۔ اپݨے ٹیباں، تاریخ تے نشانیاں اپݨے نال گھن ونڄو۔ تہاکوں صرف ہک <a { $attrs }>{ -brand-name-firefox }  اکاؤنٹ </a> دی ضرورت ہے۔
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = براہ راست براؤزر وِچ بݨائے ڳئے اساݙے <a { $attrs }> سکرین شاٹ </a> ٹول دے نال آن لائن کہیں وی چیز دی اعلیٰ ریزولوشن تصویر حاصل کرو۔
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } خود بخود <a { $attrs }> ٻہوں سارے  تریاکل ٹریکرز کوں روکیندا ہے</a> تہاݙی ویب سرگرمی کوں جمع کرݨ تے ویچݨ کنوں۔
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = سوالات؟ <a { $attrs }>{ -brand-name-mozilla } سپورٹ</a> تہاڈی پوری پوری مدد کیتی ہے۔
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = تہاکوں پہلے ای براؤزر مل ڳیا ہے۔ ہݨ { -brand-name-firefox } کنوں ٻیا وی زیادہ حاصل کرو۔
+firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } دے نال ہیکرز تے نظر رکھو، { -brand-name-firefox-relay }، تے ودھیک دے نال اپݨے ای میل ایڈریس دی حفاظت کرو۔
+# Outdated string
+firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } دے نال ہیکرز تے نظر رکھو، { -brand-name-firefox-lockwise } دے نال پاس ورڈ دی حفاظت کرو، تے ٻہوں کجھ۔
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } کنوں ٻئے گھنو
 firefox-desktop-download-just-download-the-browser = ٻس براؤزر ڈاؤن لوڈ کرو
 
@@ -121,10 +160,28 @@ firefox-desktop-download-now-else = { -brand-name-firefox } <strong>انسٹال
 firefox-desktop-download-now-windows = ہݨ  او انسٹالر <strong> چلاؤ </ strong> جہڑا ہݨے ہݨے ڈاؤن لوڈ تھیا ہے۔
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = ہݨ  او فائل <strong> کھولو </ strong> جہڑی ہݨے ہݨے ڈاؤن لوڈ تھئی ہے۔
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = پریشانی تھیندی پئی ہے؟ <a { $attrs }>اپݨی انسٹالیشن وِچ مدد حاصل کرو</a>۔
+firefox-desktop-download-in-another-language = کہیں ٻئی زبان وِچ یا کہیں ٻئے آپریٹنگ سسٹم کیتے ڈاؤن لوڈ کرو۔
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = جے تہاکوں ہک پرامپٹ نظر آندا ہے جیندے وِچ آکھیا ویندا ہے جو تساں جیڑھی ایپ کوں انسٹال کرݨ دی کوشش کریندے پئے ہو او { -brand-name-microsoft }۔ تصدیق شدہ ایپ کائنی، تاں "بہرحال انسٹال کرو" تے کلک کرو یا <a { $attrs }> ایپ دی تجویز دیاں ترتیباں کوں تبدیل کرو </a>۔
 firefox-desktop-download-visit-support-for-more = ٻیاں تفصیلاں کیتے سپورٹ تے ون٘ڄو
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }"> ہݨ سیکیورٹی اپ ڈیٹس فراہم نہیں کریندا </a> { -brand-name-windows } { -brand-name-xp } یا { -brand-name-vista }، لیکن تساں وت وی { -brand-name-firefox } استعمال کر سڳدے او۔
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = تساں ہک غیر محفوظ پراݨا آپریٹنگ سسٹم استعمال کریندے پئے او <a href="{ $url }"> ہݨ { -brand-name-firefox } دے ذریعے تعاون یافتہ کائنی </a>۔
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = تہاݙا ڈاؤن لوڈ آپوں ڄاݨ شروع تھیوݨا چاہیدا ہے۔ کم نہیں کریندا؟ <a id="{ $id }" href="{ $fallback_url }">دوبارہ ڈاؤن لوڈ کرݨ دی کوشش کرو۔</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر کنوں ودھ ہے۔
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = تہاݙے ڈاؤن لوڈ وچ خلل پئے ڳیا ہائی۔ پر ہر شئے ضائع کائنی تھئی۔
@@ -134,3 +191,4 @@ firefox-desktop-download-please-follow = { -brand-name-firefox } انسٹال ک
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = تہاݙا نظام { -brand-name-firefox } چلاوݨ دیاں ضروریات پوریاں کائنی کرین٘دا، پر تساں <a href="{ $url }">انہاں ورشناں</a> وچوں ہک ورتݨ دی کوشش کر سڳدے ہو۔
+firefox-desktop-download-taskbar = { -brand-name-firefox } کوں انسٹال کرݨ دے بعد { -brand-name-windows } ٹاسک بار وِچ پن کیتا ویسے

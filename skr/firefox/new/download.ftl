@@ -11,6 +11,7 @@
 firefox-new-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
 firefox-new-download-the-fastest-firefox = ہݨ تائیں دا تکھا ترین { -brand-name-firefox } ڈاؤن لوڈ کرو
 firefox-new-mozilla = { -brand-name-mozilla }
+firefox-new-faster-page-loading-less-memory = ورقہ دی تکھی لوڈنگ، میموری دا گھٹ استعمال تے خصوصیات کنوں بھریا ہویا، نواں { -brand-name-firefox } اتھاں ہے۔
 firefox-new-get-the-latest-firefox = تازہ ترین { -brand-name-firefox } براؤزر گھنو۔
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-windows } کیتے { -brand-name-firefox }<br> ڈاؤن لوڈ کرو
@@ -23,6 +24,17 @@ firefox-new-need-help = بھلا مدد دی لوڑ ہے؟
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ہݨ سیکیورٹی اپ ڈیٹس فراہم نہیں کریندا</a> { -brand-name-windows } { -brand-name-xp } یا { -brand-name-vista }، لیکن تساں وت وی { -brand-name-firefox } استعمال کر سڳدے او۔
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-youre-using-an-insecure-outdated = تساں ہک غیر محفوظ، پراݨا آپریٹنگ سسٹم استعمال کریندے پئے او <a href="{ $url }"> ہݨ { -brand-name-firefox } دے ذریعے تعاون یافتہ کائنی </a>۔
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-firefox-new-should-begin = تہاݙا ڈاؤن لوڈ آپوں ڄاݨ شروع تھیوݨا چاہیدا یے۔ کم نہیں کریندا؟ <a id="{ $id }" href="{ $fallback_url }">دوبارہ ڈاؤن لوڈ کرݨ دی کوشش کرو</a>۔
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر کنوں ودھ ہے۔
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = تہاݙے ڈاؤن لوڈ وچ خلل پئے ڳیا ہائی۔ پر ہر شئے ضائع کائنی تھئی۔
@@ -46,4 +58,6 @@ firefox-new-visit-support-for-more = ٻیاں تفصیلاں کیتے سپورٹ
 firefox-new-download-browser = { -brand-name-firefox-browser } ڈاؤن لوڈ کرو
 firefox-new-fast = تکھا، نجی تے مفت
 firefox-new-from-mozilla = { -brand-name-mozilla } کنوں
+firefox-new-desc = { -brand-name-firefox-browser } ہک مفت ویب براؤزر ہے جیندے وِچ ورقہ دی تکھی لوڈنگ، گھٹ میموری استعمال، تے ٻہوں ساریاں خصوصیات ہن۔ غیر منافع بخش { -brand-name-mozilla } دا ہک پروجیکٹ۔
 firefox-new-download-a-different = مخلتف پلیٹ فارم یا زبان ڈاؤن لوڈ کرو
+firefox-new-taskbar = { -brand-name-firefox } کوں انسٹال کرݨ دے بعد { -brand-name-windows } ٹاسک بار وِچ پن کیتا ویسے
