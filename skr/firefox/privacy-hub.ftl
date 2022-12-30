@@ -17,6 +17,7 @@ firefox-privacy-privacy = رازداری
 firefox-privacy-our-promise = ساݙا وعدہ
 # Sub navigation link
 firefox-privacy-our-products = ساݙیاں مصنوعات
+firefox-privacy-hub-thats-why-everything-we-make = ایہا وجہ ہے جو اساں جو کجھ وی بݨیندے ہیں  تے کریندے ہیں ساݙے ذاتی ڈیٹا وعدے دی لڄ رکھیندے۔
 firefox-privacy-hub-take-less = گھٹ گھنو
 firefox-privacy-hub-we-make-a-point-of-knowing = اساں تہاݙے بارے گھٹ ڄاݨݨ دا ہک نقطہ بݨین٘دے ہیں
 firefox-privacy-hub-keep-it-safe = ایں کوں محفوظ رکھو
