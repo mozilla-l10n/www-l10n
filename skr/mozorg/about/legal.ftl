@@ -10,6 +10,7 @@ legal-get-involved = نال رلت کرو
 legal-protect-the-fox = فوکس دی حفاظت کرو
 legal-takedown-requests = ٹیک ڈاؤن ارداساں
 legal-back-to-legal = قنونی تے واپس
+legal-special-thanks-to-all-of-you = تساں ساریاں دا خصوصی شکریہ جنہاں { -brand-name-mozilla } دے نشانات دے غلط استعمال دی اطلاع ݙیوݨ، گورننس فورمز وِچ حصہ گھنݨ، اساݙی لوکلائزیشنز تے قانونی شرطاں تے رائے ݙیوݨ، تے  { -brand-name-mozilla }- دی کامیابی وِچ اپݨیاں صلاحیتاں دا حصہ پاتا۔ موزیلا پروجیکٹ۔
 legal-terms = شرطاں
 legal-our-websites = ساݙیاں ویب سائٹاں
 legal-firefox-services = { -brand-name-firefox } خدمتاں

@@ -67,7 +67,13 @@ history-theres-no-guarantee-that = ایندی کوئی ضمانت کائنی ج�
 history-mozilla-will-continue-to = { -brand-name-mozilla } لوکاں کوں اپݨی آواز سݨاوݨ تے انہاں دی اپݨی آن لائن زندگی کوں تشکیل ݙیوݨ دا موقع فراہم کریندا رہسے۔
 history-of-course-were-not-alone = بے شک، ایہ کرݨ وچ تساں کلہے نہوے۔
 history-the-mozilla-community-together = { -brand-name-mozilla } کمیونٹی، ٻئے اوپن سورس پروجیکٹس تے ٻئے عوامی مفاد دیاں تنظیماں دے نال، صرف انہاں لوکاں دی وجہ توں موجود ہے جیڑھے اساݙے سانجھے اہداف کوں حقیقت بݨاوݨ وِچ مصروف ہن۔
+# Variables:
+#   $contribute (url) link to https://www.mozilla.org/contribute/
+history-if-you-want-to-join-us-in = جے تساں اساݙے مشن وِچ شامل تھیوݨ چاہندے او، تاں براہ مہربانی <a href="{ $contribute }">شامل تھیوو </a>۔
 history-for-more-information-about = { -brand-name-mozilla } دی تاریخ بارے ٻیاں معلومات کیتے ایہ ݙیکھو:
 history-mozilla-bookmarks = { -brand-name-mozilla } نشانیاں
 history-timeline-of-mozilla-project = { -brand-name-mozilla } منصوبہ کیتے ٹائم لائن
 history-mozilla-digital-memory-bank = { -brand-name-mozilla } ڈیجیٹل میموری بینک
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }"> { -brand-name-firefox } تے{ -brand-name-mozilla } دی تاریخ دے پوسٹرز</a> (انگریزی تے جاپانی وِچ دستیاب ہن)
