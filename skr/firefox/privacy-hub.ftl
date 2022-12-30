@@ -24,6 +24,7 @@ firefox-privacy-hub-youll-always-know-where-you = تہاکوں ہمیشاں پت
 firefox-privacy-hub-why-trust-firefox = { -brand-name-firefox } تے بھروسہ کیوں کروں؟
 firefox-privacy-hub-learn-more-about-our-mission = ساݙے مشن بارے ٻیا سکھو
 firefox-privacy-hub-your-privacy-by-the-product = تہاݙی رازداری، مصنوع نال
+firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } بݨتراں مختلف طریقے نال کم کریندیاں ہن — کیوں جو انہاں کوں پہلے تہاݙی رازداری دی حفاظت کیتے ڈیزائین کیتا ڳیا ہے۔
 firefox-privacy-hub-learn-about-our-products = ساݙیاں مصنوعات بارے ٻیا سکھو
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } رازداری، مصنوع نال
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ہر مصنوعات وچ تہاݙی رازداری دی حفاظت کریندے۔
