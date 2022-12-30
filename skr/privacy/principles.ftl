@@ -7,6 +7,10 @@
 
 # HTML page title and main title
 privacy-principles-data-privacy-principles = ڈیٹا رازداری اصول
+privacy-principles-develop-our-products = ساݙیاں مصنوعات تے خدمتاں ڈیویلپ کرو
+privacy-principles-manage-user-data-we-collect = ورتݨ آلیاں دا جہڑا ڈیٹا اساں کٹھا کریندے ہیں منیج کرو
+privacy-principles-select-and-interact-with = بھائیوال چݨو تے انہاں نال ڳالھ مہاڑ کرو
+privacy-principles-shape-our-public-policy = ساݙی عوامی پالیسی تے وکالت دے کم کوں شکل وصورت ݙیوو
 privacy-principles-no-surprises = کوئی حیرت کائنی
 privacy-principles-user-control = ورتݨ آلے دا کنٹرول
 privacy-principles-limited-data = محدود ڈیٹا
