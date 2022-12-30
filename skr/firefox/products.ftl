@@ -43,5 +43,9 @@ firefox-products-discover-the-best-content = ویب تے بہترین مواد �
 firefox-products-get-pocket = { -brand-name-pocket } گھنو
 firefox-products-learn-more-about-pocket = { -brand-name-pocket } بارے ٻیا سکھو
 firefox-products-join-firefox-and-get-the-most = { -brand-name-firefox } وِچ شامل تھیوو تے ہر ڈیوائس تے — ہر بݨتر توں زیادہ توں زیادہ فائدہ چاوو۔
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-products-already-have-an-account-sign = پہلے کنوں ای کھاتہ ہے؟ { -brand-name-firefox } وِچ شامل تھیوݨ دے بارے وِچ <a { $fxa_attr }> سائن ان تھیوو </a> یا <a { $accounts_attr }> ٻیا سیکھو </a>
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = خود کار طریقے نال ٹریکنگ دے تحفظ تے اشتہار کوں بلاک کرݨ دے نال تہاݙا سرٻدھ نجی براؤزر۔
