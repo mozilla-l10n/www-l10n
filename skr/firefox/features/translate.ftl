@@ -18,6 +18,7 @@ features-translate-to-google-translate = تے { -brand-name-google } ترجمہ
 features-translate-google-translate-with = { -brand-name-google } ترجمہ، 100 کنوں زائد زباناں دے نال*  تیار ہے، دنیا بھر وِچ لکھاں لوک استعمال کریندے ہن۔ لیکن translate.google.com تے تساں جیڑھے ورقے کوں پڑھݨ دی کوشش کریندے پئے او اوندے درمیان اڳوں پچھوں ونڄݨ ہک مثالی تجربہ کائنی۔  <a { $attrs }> To  { -brand-name-google } ترجمہ </a> ایکسٹنشن ایں ورقے دا ترجمہ کرݨ پہلے کنوں کتھائیں زیادہ آسان بݨا ݙیندا ہے۔
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-get-the-extension = ایکسٹنشن گھنو
+features-translate-once-installed-simply = انسٹال تھیوݨ دے بعد، صرف اوں متن کوں نشابر کرو جیندا تساں ترجمہ کرݨ چاہندے او تے ݙو اختیارات دے نال ہک مینیو کوں چھکݨ کیتے سڄا کلک کرو: 1) ترجمہ دے میدان وِچ آپوں ڄاݨ تہاݙے منتخب کردہ متن دے نال translate.google.com گھن ویندا ہے۔ یا 2) جملے دا آڈیو تلفظ سݨو ({ -brand-name-google } ٹیکسٹ ٹو سپیچ دے ذریعے تقویت یافتہ)، جیڑھا مددگار ہے جے تساں کوئی نویں سیکھݨ دی کوشش کریندے پئے او۔
 features-translate-switch-languages-in = { -brand-name-firefox } وچ زباناں سوئچ کرو
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
 features-translate-if-you-are = جے تساں پلے کنوں ای { -brand-name-firefox } استعمال کریندے پئے او، تاں تساں اپݨے براؤزر دی زبان تبدیل کر سڳدے او یا { -brand-name-firefox } انٹرفیس وِچ زباناں شامل کر سڳدے او۔ <a { $attrs }> اتھاں ڄاݨو جو کیویں</a>
