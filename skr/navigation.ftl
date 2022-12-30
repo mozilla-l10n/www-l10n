@@ -67,6 +67,7 @@ navigation-sign-in = سائن ان
 navigation-benefits = فائدے
 navigation-about = تعارف
 navigation-close-about-menu = تعارف مینیو بند کرو
+navigation-meet-the-technology-company = اینجھی ٹیکنالوجی کوں ملو جہڑی لوکاں کوں منافع تے ترجیح ݙیندی ہے۔
 navigation-new-features = نویاں خصوصیات
 navigation-save-content-absorb-knowledge = مواد محفوظ کرو۔ علم جذب کرو۔
 # Outdated string

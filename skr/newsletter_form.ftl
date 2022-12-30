@@ -20,6 +20,7 @@ newsletter-form-we-will-only-send = اساں تہاکوں صرف { -brand-name-m
 newsletter-form-we-will-only-send-firefox = اساں تہاکوں صرف { -brand-name-firefox } دیاں معلومات بھیڄیسوں۔
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + تساں
 newsletter-form-get-firefox-tips = { -brand-name-firefox } گُر، چالاکیاں، خبراں تے ٻیا ٻہوں کجھ گھنو
+newsletter-form-keep-up-with = ساریاں چیزاں { -brand-name-firefox }<br> نال جاری رکھو۔
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } اپ ڈیٹاں گھنو
 newsletter-form-available-languages = دستیاب زباناں
 newsletter-form-select-country = ملک چݨو
