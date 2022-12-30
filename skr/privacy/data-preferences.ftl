@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
+data-preferences-notification-opt-out = تساں پہلا فریق ڈیٹا کٹھا کرݨ وچوں چھوڑ ݙتے ڳئے ہو۔
+data-preferences-notification-opt-in = تساں پہلا فریق ڈیٹا کٹھا کرݨ وچ شامل کر ݙتے ڳئے ہو۔
 data-preferences-current-preference = حالیہ ترجیح:
+data-preferences-please-enable-javascript = سوہݨا، آپݨی ڈیٹا ترجیح منیج کرݨ کیتے JavaScript فعال کرو۔
+data-preferences-opt-out-button = پہلا فریق ڈیٹا کٹھا کرݨ وچوں چھوڑ ݙتے ڳئے
