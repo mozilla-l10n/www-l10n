@@ -22,6 +22,7 @@ vpn-when-to-use-3-on-the = 3. Tapére
 vpn-when-to-use-4-home-away = 4. Nde rógape mombyry upégui
 vpn-when-to-use-5-in-your = 5. Nde rogaitépe
 vpn-when-to-use-for-the-most = Hetave jey, umi mba’e ojehuva’ekue ndoikói ñanduti nde róga peguápe, ojejapóma guive peteĩ ñe’ẽñemi hekorosãva añetéva reheve ha hekorosãve hag̃ua. Hákatu nde’iséi repytamaha tesaráipe umi mba’evaiapohágui.
+vpn-when-to-use-because-your-internet = Nde jeike Ñandutípe nde róga guive oku’e ne mba’e’okápe Ñanduti Mba’epuru Me’ẽhára rupive — ISP emomichĩ hag̃ua — ha’ekuéra ohecha nde jeike ñandutípe. Peteĩ ISP ikatu ohecha pe tenda eikeha, mboy aravópa eipuru, ne rendaite ha marandu ne mba’e’oka rehegua. Peteĩ ISP ikatu ndoikuaái mba’emimivéva ejapova’ekue umi tendápe (mba’épa ejogua, eheka térã emoñe’ẽra’e) papapy reko rupive, hákatu oikuaáta katuete nde rehegua umi tenda eikehague rupive. Umi mba’ekuaarã nemba’eteéva oipurukuaa omoheñói hag̃ua mba’ete japuguáva nde reheguaite. ¿Mba’érepa umi ISP ikatu ojapo umíva? Mbykymi: ko’ã mba’ekuaarã iporã añetehápe.
 vpn-when-to-use-make-sure-you = Eikuaaporãva’erã pe VPN ojapokuaa’ỹva
 # Variables
 #   $book (url) - https://www.mozilla.org/firefox/privacy/book/
