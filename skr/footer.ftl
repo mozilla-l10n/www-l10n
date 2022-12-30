@@ -42,6 +42,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } کیتے { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } کیتے { -brand-name-beta }
+footer-portions-of-this-content = ایں مواد دے حصے ©1998–{ $current_year } انفرادی mozilla.org دے تعاون کنندگان دے ذریعہ ہن۔ <a rel="license" href="{ $url }">{ -brand-name-creative-commons } لائسنس</a> دے تحت دستیاب مواد۔
 footer-mozilla = { -brand-name-mozilla }
 footer-company = کمپنی
 # Outdated string

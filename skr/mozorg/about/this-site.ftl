@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/this-site/
 
 about-this-site-title = ایں سائٹ بارے
+about-this-site-desc = www.mozilla.org ویب سائٹ بارے  تے ایں کوں بݨاوݨ کیتے ورتیل کھلا ماخذ اوزار
 about-this-site-like-many = ساݙیاں بہوں ساریاں مصنوعات وانگوں، ایہ ویب سائٹ وی کھلا ماخذہے:
 about-this-site-view-source = { -brand-name-github } تے ماخذ کوڈ ݙیکھو
 about-this-site-report-a-bug = بگ رپورٹ کرو

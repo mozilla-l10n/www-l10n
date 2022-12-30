@@ -32,6 +32,7 @@ manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } دا منشو
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = صحت مند انٹرنیٹ کیتے عہد
 manifesto-show-your-support = آپݨی سپورٹ ݙکھاؤ
+manifesto-i-support-the-vision-of = میں @mozilla نال بہتر، صحت مند انٹرنیٹ دے ویژن دی حمائت کریندا ہاں، بھلا تساں میݙے نال رلسو؟
 manifesto-share-on-twitter = { -brand-name-twitter } تے شیئر کرو
 manifesto-our-10-principles = <strong>ساݙے 10</strong> اصول
 manifesto-read-the-entire-manifesto = سارا منشور پڑھو
@@ -44,4 +45,5 @@ manifesto-details-the-goals-for = منشور دے اہداف ایہ ہن:
 manifesto-details-principles = اصول
 manifesto-details-advancing-the = { -brand-name-mozilla } دے منشور کوں ودھاوݨ
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } دا عہد
+manifesto-details-promote-models = عوامی مفاد کیتے بݨائے ڳئے معاشی قدر رکھݨ آلے ماڈلاں کوݨ فروغ ݙیوو، تے
 manifesto-details-invitation = کانڈھا
