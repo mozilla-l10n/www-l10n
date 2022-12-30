@@ -13,4 +13,5 @@ welcome-page2-activate-pocket = { -brand-name-pocket } فعال کرو
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-save-content-from-everywhere = ہر جاء کنوں مواد محفوظ کرو
 welcome-page2-discover-new-stories = نویاں کہاݨیاں دریافت کرو
+welcome-page2-pocket-shows-recommended-stories = ہر ویلے تساں ڄݙݨ وی نواں ٹیب کھلیندے ہو تاں{ -brand-name-pocket } تجویز تھیاں کہاݨیاں ݙکھیندے۔آپݨی دلچسپی دی کہاݨی محفوظ کرو۔
 welcome-page2-why-am-i-seeing-this = میں ایہ کیوں ݙیہدا پیاں؟
