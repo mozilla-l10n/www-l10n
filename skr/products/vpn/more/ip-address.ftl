@@ -7,6 +7,7 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = آئی پی پتہ کیا ہے؟
+vpn-ip-address-if-you-look-up-your = جے تساں آپݨی آئی پی پتہ ݙیکھو تاں ایہ کجھ ایں طرحاں نظرسی۔
 vpn-ip-address-does-it-travel = بھلا ایہ تہاݙے نال پندھ کریندے؟
 vpn-ip-address-does-your-ip = بھلا تہاݙا آئی پی پتہ تبدیل تھیندا ہے؟
 vpn-ip-address-can-more-than = بھلا ہک کنوں ودھ ڈیوائساں دے آئی پی پتے ہکو تھی سڳدن؟

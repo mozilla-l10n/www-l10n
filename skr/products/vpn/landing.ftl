@@ -13,7 +13,10 @@ vpn-landing-fast-secure-heading = تکھا تے محفوظ نیٹ ورک
 
 vpn-landing-faq-heading = عمومی سوالات
 vpn-langing-faq-uses-question-heading = وی پی این کیا ہے تے ایندے ورتاوے کیا ہن؟
+vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } کہڑیاں معلومات رکھیندے؟
 vpn-landing-faq-protected-question-heading = میݙی رازداری کین٘ویں حفاظت وچ ہے؟
+# Outdated string
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } ایندے میل کھاندے:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-بٹ صرف)
@@ -56,6 +59,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu }-صرف)
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-صرف)
+vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } دی ریفنڈ پالیسی کیا ہے؟
 vpn-landing-faq-manage-subscription-question-heading = میں آپݨی سبسکرپشن کین٘ویں منیج کرینداں؟
 vpn-landing-faq-link = ٻئے FAQs ݙیکھو
 
@@ -69,6 +73,7 @@ vpn-landing-invite-required-label = ضروری ہے
 vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = تساں کہڑے ملک وچ راہندے ہو؟
 vpn-landing-invite-language-label = آپݨی ترجیحی زبان چݨو۔
+vpn-landing-invite-platform-label = تساں کہڑے پلیٹ فارماں وچ دلچسپی رکھدے ہو؟
 vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
 # Outdated string
 vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
