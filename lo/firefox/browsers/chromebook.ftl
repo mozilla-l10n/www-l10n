@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = ຕິດຕັ້ງ { -brand-name-f
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = ຕິດຕັ້ງ { -brand-name-firefox } ເປັນແອັບ { -brand-name-linux }: ການໄປເສັ້ນທາງນີ້ໃຊ້ເວລາອີກສອງສາມຂັ້ນຕອນ, ແຕ່ມັນຄຸ້ມຄ່າ. ເມື່ອທ່ານຕິດຕັ້ງບຣາວເຊີ { -brand-name-firefox } ເປັນແອັບ { -brand-name-linux }, ທ່ານຈະໄດ້ຮັບ { -brand-name-firefox } desktop browser ແລະຜົນປະໂຫຍດທັງໝົດທີ່ມາພ້ອມກັບ, ລວມທັງການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງໃຫ້ດີຂຶ້ນ. , ຜູ້ຈັດການລະຫັດຜ່ານໃນຕົວ, ການເຂົ້າເຖິງຫລາຍພັນຄົນຂອງ add-ons (ລວມທັງ UBlock Origin ad blocker), ແລະຫົວຂໍ້ເພື່ອປັບແຕ່ງເບິ່ງຂອງຕົວທ່ອງເວັບຂອງທ່ານ. <a { $url }>ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການຕິດຕັ້ງ { -brand-name-firefox } desktop browser ສໍາລັບ { -brand-name-chromebook }.</a>
