@@ -13,6 +13,9 @@ compare-shared-private-browsing-mode = అంతరంగిక విహార�
 # Obsolete string
 compare-shared-blocks-third-party-tracking = మూడవ-పక్ష ట్రాకింగు కుకీలు
 compare-shared-text-to-speech = వచనం నుండి ప్రసంగం
+compare-shared-os-availability = OS లభ్యత
+compare-shared-mobile-os-availability = మొబైల్ OS లభ్యత
+compare-shared-syncs-with-mobile = మొబైల్‌తో సమకాలీకరిస్తుంది
 compare-shared-password-management = సంకేతపదాల నిర్వాహణ
 compare-shared-primary-password = ప్రధాన సంకేతపదం
 # Obsolete string
