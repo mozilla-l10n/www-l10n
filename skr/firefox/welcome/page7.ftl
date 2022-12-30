@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
 
+# HTML page title
+page7-make-it-harder-for-facebook = { -brand-name-facebook } کیتے تہاکوں ٹریک کرݨ مشکل بݨاؤ
 page7-its-okay-to-like-facebook = { -brand-name-facebook } پسند کرݨ ٹھیک ہے
 page7-get-facebook-container = { -brand-name-facebook-container } گھنو
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"

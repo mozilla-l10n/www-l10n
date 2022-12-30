@@ -7,8 +7,11 @@
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } کوں آپݨا  ڈیفالٹ براؤزر بݨاؤ
+# HTML page description
+set-as-default-landing-choose-the-browser = او براؤزر منتخب کرو جیڑھا تہاݙی رازداری دی حفاظت کرے۔ { -brand-name-firefox } کوں اپݨے ڈیفالٹ براؤزر دے طور تے سیٹ کرو۔
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = ایں ڳالھ کوں یقینی بݨاؤ جو ہر واری آن لائن تھیوݨ ویلے تساں حفاظت وچ ہوو۔
+set-as-default-landing-you-should-get = تہاکوں براؤز کرݨ دے طریقے دے بارے وِچ کجھ آکھݨا چاہیدا ہے۔
 set-as-default-landing-choose-automatic-privacy = خودکار رازداری چݨو
 set-as-default-landing-choose-freedom-on-every = ہر ڈیوائس تے آزادی چݨو
 set-as-default-landing-choose-corporate-independence = کارپوریٹ آزادی چݨو

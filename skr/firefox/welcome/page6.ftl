@@ -7,6 +7,7 @@
 
 # HTML page title
 welcome-page6-make-firefox-your-default = { -brand-name-firefox } کوں آپݨا ڈیفالٹ براؤزر بݨاؤ
+welcome-page6-make-sure-youre-protected = ایں ڳالھ کوں یقینی بݨاؤ جو ہر واری آن لائن تھیوݨ ویلے تساں حفاظت وچ ہوو۔
 welcome-page6-get-the-firefox-app = { -brand-name-firefox } ایپ گھنو
 welcome-page6-get-firefox-on-your-phone = آپݨے فون تے { -brand-name-firefox } گھنو
 welcome-page6-scan-the-qr-code-to-get-started = شروع کرݨ کیتے QR کوڈ سکین کرو
