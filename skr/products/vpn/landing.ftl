@@ -7,6 +7,7 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: آپݨی ساری ڈیوائس دی حفاظت کرو
+vpn-landing-hero-desc = { -brand-name-firefox } بݨاوݨ آلیاں ولوں ہک ورچوئل ذاتی نیٹ ورک۔
 vpn-landing-fast-secure-heading = تکھا تے محفوظ نیٹ ورک
 
 ## FAQ section
@@ -15,6 +16,7 @@ vpn-landing-faq-heading = عمومی سوالات
 vpn-langing-faq-uses-question-heading = وی پی این کیا ہے تے ایندے ورتاوے کیا ہن؟
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } کہڑیاں معلومات رکھیندے؟
 vpn-landing-faq-protected-question-heading = میݙی رازداری کین٘ویں حفاظت وچ ہے؟
+vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } نال کہڑی ڈیوائس میل کھاندی ہے؟
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } ایندے میل کھاندے:
 # Variables:

@@ -8,6 +8,7 @@
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = وی پی این تے ویب پراکسی وچ فرق
 vpn-or-proxy-stop-isps-from = ISPs کوں آپݨی جاسوسی کنوں ہٹکو
+vpn-or-proxy-when-should-you = وی پی این یا محفوظ پراکسی کہڑے ویلے چݨݨی چاہیدی ہے؟
 vpn-or-proxy-secure-web-proxy = محفوظ ویب پراکسی: براؤزر دی سطح تے تحفظ
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: ڈیوائس سطح دی حفاظت
 vpn-or-proxy-choose-a-trustworthy = قابل بھروسہ خدمت چݨو

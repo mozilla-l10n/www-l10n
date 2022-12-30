@@ -7,6 +7,7 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 وجوہات جنہاں پاروں تہاکوں وی پی این ورتݨاں چاہیدا ہے
+vpn-when-to-use-1-a-walk = 1۔ پارک وچ سیر
 vpn-when-to-use-2-in-the = 2۔ ہمسائیگی وچ
 vpn-when-to-use-3-on-the = 3۔ گو  تے
 vpn-when-to-use-4-home-away = 4۔ گھر کنوں دور گھر
