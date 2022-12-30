@@ -7,6 +7,7 @@
 
 banner-fundraising-monthly = నెలవారీ
 banner-fundraising-one-time = ఒకసారి
+banner-fundraising-donate = విరాళమివ్వండి
 # Outdated string
 # Variables:
 #   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
