@@ -24,6 +24,7 @@
 -brand-name-netscape = నెట్‌స్కేప్
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
+-brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
 
@@ -57,6 +58,7 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = అరోరా
+-brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -67,16 +69,21 @@
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-relay = Firefox Relay
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
+-brand-name-relay = Relay
 -brand-name-sync = Sync
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-marketplace = ఫైర్‌ఫాక్స్ మార్కెట్‌ప్లేస్
+-brand-name-firefox-os = Firefox OS
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
 
@@ -117,13 +124,16 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-ubuntu = ఉబుంటు
 -brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
