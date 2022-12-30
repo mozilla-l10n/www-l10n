@@ -15,6 +15,7 @@ nightly-firstrun-code = کوڈ
 nightly-firstrun-file-bugs-and-work = بگز فائل کرو تے { -brand-name-firefox } براؤزر دے بلڈنگ بلاکس تے کم کرو۔
 nightly-firstrun-start-coding = کوڈنگ شروع کرو
 nightly-firstrun-localize = مقامی کرو
+nightly-firstrun-make-firefox-available = پوری دنیا وچ ٻیاں زباناں وچ { -brand-name-firefox } کوں دستیاب (تے بہتر) بݨاؤ۔
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
 nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = ترجمہ کرݨ شروع کرو

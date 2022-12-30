@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
+firefox-sync-access-and-sync = اپݨیاں نشانیاں، پاس ورڈز، کھلیاں ٹیباں وغیرہ تائیں رسائی تے مطابقت پذیری کرو — ہر جاہ جتھاں تساں { -brand-name-firefox } استعمال کریندے او۔
 firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = کہیں وی ڈیوائس تے آپݨی { -brand-name-firefox } ہم وقت کرو
 firefox-sync-privacy-made-easy = رازداری سوکھی بݨائی ڳئی

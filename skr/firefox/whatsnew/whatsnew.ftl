@@ -16,3 +16,5 @@ whatsnew-up-to-date-notification = مبارک ہووے! تساں { -brand-name-f
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 whatsnew-out-of-date-notification-v3 = ہک ٻیا وی نواں { -brand-name-firefox } دستیاب ہے۔ <a href="{ $url }"> نواں نکور ورژن وِچ اپ ڈیٹ کرو </a>
+# Obsolete string
+whatsnew-out-of-date-notification-v2 = ہک ٻیا وی نواں { -brand-name-firefox } دستیاب ہے۔ اپ ڈیٹ کرݨ کیتے دوبارہ شروع کرو۔

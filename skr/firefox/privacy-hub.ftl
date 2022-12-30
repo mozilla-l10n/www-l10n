@@ -18,6 +18,7 @@ firefox-privacy-our-products = ساݙیاں مصنوعات
 firefox-privacy-hub-take-less = گھٹ گھنو
 firefox-privacy-hub-we-make-a-point-of-knowing = اساں تہاݙے بارے گھٹ ڄاݨݨ دا ہک نقطہ بݨین٘دے ہیں
 firefox-privacy-hub-keep-it-safe = ایں کوں محفوظ رکھو
+firefox-privacy-hub-we-do-the-hard-work-to-protect = اساں تہاݙی ذاتی معلومات دی حفاظت کیتے ݙاڈھا پورھیا کریندے ہیں
 firefox-privacy-hub-no-secrets = کوئی راز کائنی
 firefox-privacy-hub-youll-always-know-where-you = تہاکوں ہمیشاں پتہ لڳ ویسی جو تساں ساݙے نال کتھ کھڑے ہو
 firefox-privacy-hub-why-trust-firefox = { -brand-name-firefox } تے بھروسہ کیوں کروں؟

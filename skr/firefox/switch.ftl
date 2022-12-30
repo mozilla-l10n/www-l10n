@@ -9,6 +9,7 @@ switch-switch-from-chrome = صرف کجھ منٹاں وچ { -brand-name-chrome }
 switch-select-what-to-take = چݨو جو { -brand-name-chrome } کنوں کیا گھنݨے۔
 switch-let-firefox-do-the-rest = باقی کم { -brand-name-firefox } کوں کرݨ ݙیوو۔
 switch-share-with-your-friends = { -brand-name-firefox } وچ سوئچ تھیوݨ دا طریقہ آپݨے سنگتیاں نال شیئر کرو
+switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } { -brand-name-chrome } کنوں سوئچ کرݨ کوں اصل وچ تکھیرا بݨیندے۔ ایں کوں ازماؤ!
 switch-switch-to-firefox = { -brand-name-firefox } تے سوئچ کرو
 switch-firefox-makes-switching-fast-email = { -brand-name-firefox } { -brand-name-chrome } کنوں سوئچنگ کوں واقعی تیز کریندا ہے۔ میکوں ایہ ٻہوں پسند ہے، تے تہاکوں اینکوں ازماوݨا چاہیدا ہے۔
 switch-still-not-convinced = بھلا اڄݨ ایندے قائل نہوے تھئے جو{ -brand-name-firefox } تے سوئچ کرݨ سوکھا ہے؟

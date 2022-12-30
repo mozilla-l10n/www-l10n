@@ -8,12 +8,16 @@
 
 ## Page heading
 
+contribute-page-title = { -brand-name-mozilla } تے رضاکارانہ مواقع
+contribute-page-heading = بہتر انٹرنیٹ کیتے تہاݙیاں صلاحیتاں دی لوڑ ہے۔
+contribute-how-heading = تساں کیویں حصہ پا سڳدے او…
 
 ## Contribution tasks
 
 contribute-tag-non-technical = غیر تکنیکی
 contribute-tag-technical = تکنیکی
 contribute-tag-technical-non-technical = تکنیکی تے غیر تکنیکی
+contribute-tag-individual-event = انفرادی تے واقعہ دی تنظیم
 contribute-tag-individual = انفرادی
 contribute-tag-support = سہارا
 contribute-task-translate-heading = مواد دا ترجمہ کرو
@@ -30,13 +34,16 @@ contribute-meet-volunteers = ساݙے پُرجوش رضاکاراں نال مل�
 contribute-donate = عطیہ ݙیوو
 contribute-help-fund = ساݙے مشن کوں فنڈ ݙیوݨ وچ مدد کرو
 contribute-follow-mozilla = { -brand-name-mozilla } کوں فالو کرو
+contribute-opportunities = خبراں تے رضاکارانہ مواقع
 
 ## Made by
 
+contribute-made-by-heading = تہاݙے جیہیں سرٻدھ لوکاں بݨایا ہے۔
 
 ## Newsletter
 
 contribute-newsletter-heading = اڄݨ پک کائنی؟
+contribute-newsletter-sub-heading = اپݨے ان باکس وِچ کمیونٹی تے تعاون دیاں خبراں حاصل کرو۔
 
 ## Support
 
