@@ -23,6 +23,7 @@ navigation-v2-privacy-promise = رازداری وعدہ
 navigation-v2-learn-how-firefox-treats = ڄاݨو جو کیویں { -brand-name-firefox } تہاݙے ڈیٹا دا احترام کریندا ہے۔
 navigation-v2-firefox-blog = { -brand-name-firefox } بلاگ
 navigation-v2-release-notes = ریلیز نوٹ
+navigation-v2-get-the-details-on-the = تازہ ترین { -brand-name-firefox } اپ ڈیٹاں دی تفصیل گھنو۔
 navigation-v2-view-all-firefox-browsers = سارے { -brand-name-firefox-browsers } ݙیکھو
 
 ## Products menu

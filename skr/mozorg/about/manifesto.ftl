@@ -7,6 +7,12 @@
 
 # HTML page title
 manifesto-the-mozilla-manifesto = { -brand-name-mozilla } دا منشور
+manifesto-the-internet-is-a-global = انٹرنیٹ ہک عالمی عوامی وسیلہ ہے جہڑا کھلا تے پہنچ وچ رہوݨا چاہیدا ہے۔
+manifesto-the-internet-must-enrich = انٹرنیٹ کوں انفرادی انسانی حیات کوں بہتر بݨاوݨاں  چاہیدا ہے۔
+manifesto-individuals-security-and = انٹرنیٹ تے افراد دی سلامتی تے رازداری بݨیادی ہن، انہاں کوں اختیاری کائنی سمجھݨاں چاہیدا۔
+manifesto-individuals-must-have = افراد کوں انٹرنیٹ  تے اوں تے آپݨے تجربے تشکیل کرݨ دی صلاحیت ہووݨی چاہیدی ہے۔
+manifesto-free-and-open-source-software = مفت تے کھلا ماخذ سافٹ ویئڑ عوامی وسیلے دی حیثیت نال انٹرنیٹ دی ترقی کوں فروغ ݙیندن۔
+manifesto-transparent-community = برادری تے مبنی شفاف  اعمال شرکت، احتساب تے  اعتماد کوں فروغ ݙیندن۔
 manifesto-principle-1 = اصول 1
 manifesto-principle-2 = اصول 2
 manifesto-principle-3 = اصول 3
@@ -43,6 +49,9 @@ manifesto-details-introduction = تعارف
 manifesto-details-the-internet-is-becoming = انٹرنیٹ ساݙی حیاتی دا ہک اہم حصہ بݨدا ویندے۔
 manifesto-details-the-goals-for = منشور دے اہداف ایہ ہن:
 manifesto-details-principles = اصول
+manifesto-details-the-internet-must = انٹرنیٹ کوں انفرادی انسانی حیات کوں بہتر بݨاوݨاں  چاہیدا ہے۔
+manifesto-details-individuals-security = انٹرنیٹ تے افراد دی سلامتی تے رازداری بݨیادی ہن، انہاں کوں اختیاری کائنی سمجھݨاں چاہیدا۔
+manifesto-details-individuals-must = افراد کوں انٹرنیٹ  تے انٹرنیٹ تے آپݨے تجربے تشکیل کرݨ دی صلاحیت ہووݨی چاہیدی ہے۔
 manifesto-details-advancing-the = { -brand-name-mozilla } دے منشور کوں ودھاوݨ
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } دا عہد
 manifesto-details-promote-models = عوامی مفاد کیتے بݨائے ڳئے معاشی قدر رکھݨ آلے ماڈلاں کوݨ فروغ ݙیوو، تے

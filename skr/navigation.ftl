@@ -33,6 +33,9 @@ navigation-get-firefox = { -brand-name-firefox } گھنو
 navigation-get-firefox-focus = { -brand-name-firefox-focus } گھنو
 navigation-android-extensions = { -brand-name-android } ایکسٹنشن
 navigation-your-firefox-account = تہاݙا { -brand-name-firefox-account }
+# Outdated string
+navigation-learn-how-to-customize = { -brand-name-firefox } دے کم کرݨ دے طریقے کوں مخصوص بݨاوݨ سکھو۔
+navigation-explore-the-immersive = آپݨے ورچوئل رئیلٹی ہیڈسیٹ تے گہری ویب پھلورو۔
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } مخلوط حقیقت
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
@@ -78,12 +81,15 @@ navigation-close-developers-menu = ڈویلپرز مینو بند کرو
 navigation-developer-innovations = تخلیق کار دیاں جدتاں
 navigation-mixed-reality = مخلوط حقیقت
 navigation-resources = وسائل
+navigation-resources-for-developers = ڈویلپرز کیتے وسائل، ڈویلپرز دے ذریعے۔
 navigation-developer-blog = ڈویلپر بلاگ
+navigation-build-test-scale-and = صرف ڈویلپرز کیتے بݨائے ڳئے کلھے براؤزر دے نال تعمیر، جانچ، پیمانے تے ودھیک ٻہوں کجھ کرو۔
 navigation-leadership = قیادت
 navigation-mission = مشن
 navigation-press-center = پریس سنٹر
 navigation-contact = رابطہ
 navigation-careers = روزگار تے کم
+navigation-work-for-a-mission-driven = مشن تے چلݨ والی تنظیم کیتے کم کرو جیڑھی مقصد نال چلݨ والیاں بݨتراں تیار کریندی ہے۔
 navigation-get-involved = نال رلت کرو
 navigation-join-the-fight-for-a = تکڑے انٹرنیٹ کیتے جدوجہد وچ شامل تھیوو۔
 navigation-events = ایونٹ

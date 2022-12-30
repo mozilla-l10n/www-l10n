@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = سوہݨا، درست ای میل پتہ درج کرو
+newsletter-form-you-must-agree-to = تہاکوں رازداری نوٹس نال راضی ہووݨاں چاہیدا ہے
 newsletter-form-your-email-address = تہاݙا ای میل پتہ
 newsletter-form-please-select-country = سوہݨا، ملک یا علاقہ چݨو
 newsletter-form-please-select-language = سوہݨا، ہک زبان چُݨو
@@ -31,4 +32,6 @@ newsletter-form-no = کو
 multi-newsletter-form-checkboxes-legend = میں ایں بارے ڄاݨکاری چاہنداں:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = سوہݨا، خبرنامے دے اختیاراں وچوں گھٹ وگھٹ ہک دی پڑتال کرو۔
 multi-newsletter-form-title = ویب نال پیار
+multi-newsletter-form-desc = { -brand-name-mozilla }  خبرنامہ گھنو تے ویب کوں کھلا تے آزاد رکھݨ وچ ساݙی مدد کرو۔
