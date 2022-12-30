@@ -10,6 +10,7 @@ features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: ب�
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = سوکھ نال آپݨیاں نشانیاں کوں فولڈر وچ منظم کرو تے آپݨے سارے ڈیوائساں تے، ڈیسک ٹاپ کنوں موبائل تے  انہاں کوں رسائی ݙیوو۔
 features-bookmarks-better-bookmarks = بہتر نشانیاں
+features-bookmarks-dont-agonize-lovers-of = نشانیاں دے محبتی، ہلاک نہ تھیوو۔ { -brand-name-firefox } نال منظم کرو۔
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = او نشانی فائل کرو
 # Fly here means to have your bookmark go wherever you go.
