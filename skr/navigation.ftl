@@ -48,6 +48,7 @@ navigation-download = ڈاؤن لوڈ
 navigation-extensions = ایکسٹنشناں
 navigation-support = سہارا
 navigation-privacy = رازداری
+navigation-get-unmatched-data-protection = بے مثال ڈیٹا تحفظ  گھنو — ریلیز کیڈنس تے جیڑھا تہاݙی تنظیم کیتے موزوں ہے۔
 navigation-made-with-respect = عزت نال بݨا ہویا
 navigation-close-products-menu = مصنوعات مینیو بند کرو
 navigation-check-for-breaches = خلاف ورزیاں دی پڑتال کرو

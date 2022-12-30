@@ -14,4 +14,5 @@ about-shared-forums = فورم
 about-shared-patents = پیٹینٹ
 about-shared-our-products = ساݙیاں مصنوعات
 about-shared-get-involved = نال رلت کرو
+about-shared-volunteer = متعدد مختلف شعبیاں وِچ رضاکارانہ ونگارو بݨو۔
 vision-for-the-web = ویب کیتے { -brand-name-mozilla } دا ویژن
