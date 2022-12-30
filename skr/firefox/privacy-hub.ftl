@@ -17,9 +17,11 @@ firefox-privacy-privacy = رازداری
 firefox-privacy-our-promise = ساݙا وعدہ
 # Sub navigation link
 firefox-privacy-our-products = ساݙیاں مصنوعات
+firefox-privacy-hub-you-should-be-able-to-decide = تہاکوں ایہ فیصلہ کرݨ دے قابل ہووݨا چاہیدا ہے جو تہاݙی ذاتی معلومات کون ݙیکھدا ہے۔ نہ صرف تہاݙے دوستاں وِچ، بھل انٹرنیٹ تے موجود ہر مشتہر تے کمپنی دے نال — بشمول اساں۔
 firefox-privacy-hub-thats-why-everything-we-make = ایہا وجہ ہے جو اساں جو کجھ وی بݨیندے ہیں  تے کریندے ہیں ساݙے ذاتی ڈیٹا وعدے دی لڄ رکھیندے۔
 firefox-privacy-hub-take-less = گھٹ گھنو
 firefox-privacy-hub-we-make-a-point-of-knowing = اساں تہاݙے بارے گھٹ ڄاݨݨ دا ہک نقطہ بݨین٘دے ہیں
+firefox-privacy-hub-all-tech-companies-collect = تمام ٹیک کمپنیاں اپݨیاں ٻݨتراں کوں بہتر بݨاوݨ کیتے ڈیٹا کٹھا کریندیاں ہن۔ لیکن ایندے وِچ تہاݙی اتنی زیادہ ذاتی معلومات شامل کرݨ دی ضرورت کائنی۔ اساں صرف اوہو ڈیٹا چاہندے او جو چھیکڑ وِچ تہاݙی خدمت کریندا ہے۔ اساں خود کنوں پچھدے ہیں: کیا اساکوں واقعی اندی ضرورت ہے؟ اساکوں ایندی کیا ضرورت ہے؟ تے اساں اینکوں کݙاں حذف کر سڳدے ہیں؟
 firefox-privacy-hub-keep-it-safe = ایں کوں محفوظ رکھو
 firefox-privacy-hub-we-do-the-hard-work-to-protect = اساں تہاݙی ذاتی معلومات دی حفاظت کیتے ݙاڈھا پورھیا کریندے ہیں
 firefox-privacy-hub-no-secrets = کوئی راز کائنی

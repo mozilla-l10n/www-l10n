@@ -47,6 +47,9 @@ firefox-new-your-system-may-not = تہاݙا نظام { -brand-name-firefox } چ
 firefox-new-windows = { -brand-name-windows }
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = جے تہاکوں ہک پرامپٹ نظر آندا ہے جیندے وِچ آکھیا ویندا ہے جو تساں جیڑھی ایپ کوں انسٹال کرݨ دی کوشش کریندے پئے ہو او { -brand-name-microsoft }۔ تصدیق شدہ ایپ کائنی، تاں "بہرحال انسٹال کرو" تے کلک کرو یا <a { $attrs }> ایپ دی تجویز دیاں ترتیباں کوں تبدیل کرو </a>۔
 firefox-new-visit-support-for-more = ٻیاں تفصیلاں کیتے سپورٹ تے ون٘ڄو
 
 # Not-Required
