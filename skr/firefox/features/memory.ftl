@@ -12,6 +12,7 @@ features-memory-is-your-computer-slow-your = کیا تہاݙا کمپیوٹر م
 features-memory-less-memory-usage-than-chrome = { -brand-name-chrome } کنوں میموری دا گھٹ استعمال
 features-memory-if-your-web-browser-uses = جے تہاݙا ویب براؤزر ٻہوں زیادہ میموری ورتیندے تاں { -brand-name-firefox } تے سوئچ تھیوو۔
 features-memory-speed-up-your-computer = آپݨے کمپیوٹر کوں تکھا کرو
+features-memory-every-computer-program-you = ہر کمپیوٹر پروگرام جیڑھا تساں چلیندے او کجھ میموری گھندا ہے۔ جݙاں ٻہوں زیادہ استعمال کیتا ویندا ہے، تاں تہاݙا سسٹم تلے آ سڳدا ہے۔ { -brand-name-firefox } دا مقصد توازن رکھݨ ہے — کافی میموری استعمال کرݨ تاں جو تساں آسانی نال براؤز کر سڳو تے تہاݙے کمپیوٹر کوں جوابدہ رکھݨ کیتے کافی میموری چھوڑ ݙیو۔
 features-memory-stop-running-out-of-memory = میموری گھٹ ہووݨ روکو
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/fx54memorytest/
