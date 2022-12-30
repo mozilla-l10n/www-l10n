@@ -25,6 +25,7 @@ features-index-independent-browser = { -brand-name-firefox } واحد وݙا آ�
 features-index-on-a-mission = انٹر نیٹ کو کھلا تے ہر ہک دی پہنچ وچ رکھݨ دے مشن تے۔
 features-index-read-mozillas-mission = { -brand-name-mozilla } دا مشن پڑھو
 features-index-choose-independence = آزادی چݨو
+features-index-opted-in-to-privacy-so-you = رازداری موڈ چُݨ گھدے، ایں سانگے تساں آزادی نال براؤز کر سڳدے ہو۔
 features-index-read-our-privacy-policy = ساݙی رازداری پالیسی پڑھو
 features-index-private-by-default = ڈیفالٹ نال نجی
 features-index-enhanced-tracking = بہتر ٹریکنگ حفاظت
