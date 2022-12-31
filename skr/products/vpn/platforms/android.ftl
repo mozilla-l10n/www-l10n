@@ -12,5 +12,10 @@ vpn-android-hero-headline = { -brand-name-android } کیتے { -brand-name-mozil
 vpn-android-wifi-headline = جہڑے ویلے تساں حرکت وچ ہو آن لائن محفوظ راہوو
 vpn-android-about-headline = { -brand-name-mozilla } او ناں ہے جیندے اُتے تساں بھروسہ کر سڳدے ہو
 # Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-android-servers-headline = { $countries } کنوں ودھ ملکاں وچ { $servers }+ سرور
+# Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = { $devices } ڈیوائساں تائیں کیتے ہک سبسکرپشن
+vpn-android-speed-headline = ݙاڈھی تکھی  رفتار، لامحدود ڈیٹا

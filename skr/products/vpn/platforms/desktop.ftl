@@ -7,9 +7,12 @@
 
 # Meta strings
 vpn-desktop-page-title = ڈیسک ٹاپ (پی سی تے لیپ ٹاپ) کیتے { -brand-name-mozilla-vpn }
+# Desktop strings
+vpn-desktop-hero-headline = ڈیکس ٹاپ کیتے { -brand-name-mozilla-vpn } نال آپݨا انٹرنیٹ کنکشن محفوظ بݨاؤ
 vpn-desktop-wifi-headline = عوامی وائی فائی ورتݨ وچ محفوظ محسوس کرو
 vpn-desktop-about-headline = { -brand-name-mozilla } دا تعارف
 vpn-desktop-privacy-headline = ہک کلک وچ رازداری
+vpn-desktop-servers-headline = پوری دنیا دے سروراں نال کنکٹ تھیوو
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = { $devices } ڈیوائساں تائیں حفاظت کرو

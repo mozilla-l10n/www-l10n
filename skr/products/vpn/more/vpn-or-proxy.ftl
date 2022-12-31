@@ -11,4 +11,5 @@ vpn-or-proxy-stop-isps-from = ISPs کوں آپݨی جاسوسی کنوں ہٹک�
 vpn-or-proxy-when-should-you = وی پی این یا محفوظ پراکسی کہڑے ویلے چݨݨی چاہیدی ہے؟
 vpn-or-proxy-secure-web-proxy = محفوظ ویب پراکسی: براؤزر دی سطح تے تحفظ
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: ڈیوائس سطح دی حفاظت
+vpn-or-proxy-concealing-your-ip = آپݨاں آئی پی پتہ لُکاوݨ، آپݨی سُن٘ڄاݨ دی حفاظت ہے  تے مقام دھندلا کرݨ ہے۔
 vpn-or-proxy-choose-a-trustworthy = قابل بھروسہ خدمت چݨو

@@ -15,4 +15,5 @@ privacy-principles-no-surprises = کوئی حیرت کائنی
 privacy-principles-user-control = ورتݨ آلے دا کنٹرول
 privacy-principles-limited-data = محدود ڈیٹا
 privacy-principles-sensible-settings = معقول ترتیباں
+privacy-principles-design-for-a-thoughtful = حفاظت تے ورتݨ آلے دے تجربے دے سوچے سمجھے توازن کیتے ڈیزائن کرو۔
 privacy-principles-defense-in-depth = گہرائی وچ دفاع
