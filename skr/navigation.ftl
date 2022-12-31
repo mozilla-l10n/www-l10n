@@ -5,6 +5,7 @@
 navigation-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
 navigation-get-a-firefox-account = { -brand-name-firefox-account } گھنو
 navigation-firefox-browser-for-desktop = ڈیسک ٹاپ کیتے { -brand-name-firefox-browser }
+navigation-get-the-browser-that-respects = براؤزر حاصل کرو جہڑا تہاݙی رازداری دی خودکار عزت کریندے۔ { -brand-name-windows }، { -brand-name-mac } یا { -brand-name-linux } تے ۔
 navigation-firefox-browser-for-mobile = موبائل کیتے { -brand-name-firefox-browser }
 navigation-take-speed-privacy-and = رفتار، رازداری تے ذہنی سکون کوں اپݨے نال رکھو۔ { -brand-name-android } تے { -brand-name-ios } دے اوتے۔
 navigation-download-for-ios = { -brand-name-ios } کیتے ڈاؤن لوڈ کرو

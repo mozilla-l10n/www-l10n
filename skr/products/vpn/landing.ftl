@@ -8,6 +8,8 @@
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: آپݨی ساری ڈیوائس دی حفاظت کرو
 vpn-landing-hero-sub-heading-v2 = سیکیورٹی، بھروسہ تے رفتار — ہر ݙیوائس تے، تساں جتھاں وی ون٘ڄو۔
+# Obsolete string
+vpn-landing-hero-sub-heading = سیکیورٹی جیندے تے تساں بھروسہ کر سڳدے ہو۔ ہک ناں جیں تے تساں بھروسہ کر سڳدے ہو۔
 vpn-landing-hero-desc = { -brand-name-firefox } بݨاوݨ آلیاں ولوں ہک ورچوئل ذاتی نیٹ ورک۔
 vpn-landing-fast-secure-heading = تکھا تے محفوظ نیٹ ورک
 vpn-landing-brand-trust-heading = ہک اینجھے برانڈ دا وی پی این  جیندے اُتے تساں بھروسہ کر سڳدے ہو
