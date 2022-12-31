@@ -66,6 +66,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-صرف)
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } دی ریفنڈ پالیسی کیا ہے؟
 vpn-landing-faq-manage-subscription-question-heading = میں آپݨی سبسکرپشن کین٘ویں منیج کرینداں؟
+vpn-landing-faq-download-heading = جہڑے ویلے میں پہلے ہی سبسکرائب کیتی بیٹھاں، میں { -brand-name-mozilla-vpn } کین٘ویں ڈاؤن لوڈ کراں؟
 vpn-landing-faq-link = ٻئے FAQs ݙیکھو
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
