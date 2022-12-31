@@ -12,14 +12,17 @@ firefox-products-its-a-whole-family-of-products = ایہ بݨتراں دا ہک 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } براؤزر کنوں <strong>ودھ </strong> ہے
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-see-if-your-personal-information = ݙیکھو جو آیا کارپوریٹ ڈیٹا دی خلاف ورزی وِچ تہاݙی ذاتی معلومات نال سمجھوتہ کیتا ڳیا ہے، تے مستقبل دے انتباہات کیتے سائن اپ کرو۔
 firefox-products-check-for-breaches = خلاف ورزیاں دی پڑتال کرو
 firefox-products-sign-up-for-breach-alerts = خلاف ورزی دیاں چتاوݨیاں کیتے سائن اپ کرو
 firefox-products-firefox-browsers = { -brand-name-firefox } براؤزرز
+firefox-products-get-the-browsers-that-block = اینجھے براؤزرز حاصل کرو جیڑھے 2000+ ڈیٹا ٹریکرز کوں آپوں ڄاݨ بلاک کریندے ہن۔ بہتر ٹریکنگ پروٹیکشن ہر { -brand-name-firefox } براؤزر وِچ معیار آندا ہے۔
 firefox-products-desktop = ڈیسک ٹاپ
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = سارے براؤزر ݙیکھو
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = ہک نویں تناظر دے نال ہک محفوظ انٹرنیٹ کنکشن کیتے 30 کنوں زائد ملکاں وِچ سرورز تے سرف کرو، سٹریم کرو تے کم مکمل کرو۔
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = آپݨے انباکس کنٹرول کرݨ دی مدد کیتے آپݨے اصلی ای میل پتے دی حفاظت کرو۔

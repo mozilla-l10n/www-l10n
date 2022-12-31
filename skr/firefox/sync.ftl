@@ -20,5 +20,6 @@ firefox-sync-open-the-menu = { -brand-name-firefox } دے سڄے پاسوں اُ
 firefox-sync-click-get-started = جہڑی ٹیب کھلدی ہے اوندے وچ <strong>”شروع کرو”</strong> تے کلک کرو۔
 firefox-sync-enter-an-email = <strong>"ہک { -brand-name-firefox-account } بݨاؤ"</strong> کیتے ہک ای میل پتہ تے پاس ورڈ درج کرو۔
 firefox-sync-click-next-to = اپݨے ای میل تے بھیڄی ڳئی تصدیق حاصل کرݨ کیتے <strong>"اڳلا"</strong> تے کلک کرو۔
+firefox-sync-after-you-check = اپݨا ای میل چیک کرݨ تے تصدیقی لنک تے کلک کرݨ دے بعد، { -brand-name-firefox } پس منظر وِچ آپوں ڄاݨ مطابقت پذیر تھیوݨ شروع تھی ویسے۔
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
 firefox-sync-learn-more = اپݨے { -brand-name-firefox-account } دے انتظام وِچ ودھیک مدد

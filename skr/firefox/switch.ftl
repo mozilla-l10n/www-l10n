@@ -6,8 +6,14 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = صرف کجھ منٹاں وچ { -brand-name-chrome } کنوں { -brand-name-firefox } وچ سوئچ کرو۔
+switch-switching-to-firefox-is-fast-updated = { -brand-name-firefox } تے سوئچ کرݨ تکھا، آسان تے خطرے کنوں پاک ہے، کیوں جو { -brand-name-firefox } تہاݙیاں نشانیاں، پاس ورڈز تے ترجیحاں کوں { -brand-name-chrome } کنوں درآمد کریندا ہے۔
+switch-switching-to-firefox-is-fast = { -brand-name-firefox } تے سوئچ کرݨ تکھا، آسان تے خطرے کنوں پاک ہے، کیوں جو { -brand-name-firefox } تہاݙیاں نشانیاں، آٹوفلز، پاس ورڈز تے ترجیحاں کوں { -brand-name-chrome } کنوں درآمد کریندا ہے۔
+switch-switching-to-firefox-page-description-updated = { -brand-name-firefox } تے سوئچ کرݨ تکھا، آسان تے خطرے کنوں پاک ہے، کیوں جو { -brand-name-firefox } تہاݙیاں نشانیاں، پاس ورڈز تے ترجیحاں کوں { -brand-name-chrome } کنوں درآمد کریندا ہے۔
+switch-switching-to-firefox-page-description = { -brand-name-firefox } تے سوئچ کرݨ تکھا، آسان تے خطرے کنوں پاک ہے، کیوں جو { -brand-name-firefox } تہاݙیاں نشانیاں، آٹوفلز، پاس ورڈز تے ترجیحاں کوں { -brand-name-chrome } کنوں درآمد کریندا ہے۔
 switch-select-what-to-take = چݨو جو { -brand-name-chrome } کنوں کیا گھنݨے۔
 switch-let-firefox-do-the-rest = باقی کم { -brand-name-firefox } کوں کرݨ ݙیوو۔
+switch-use-firefox-and-still-chrome = تساں { -brand-name-firefox } استعمال کر سڳدے او تے وت وی تہاݙے کول { -brand-name-chrome } ہے۔ { -brand-name-chrome } تہاݙی مشین تے ذرا وی تبدیل کائنا تھیسے۔
+switch-spread-the-word = { -brand-name-firefox } دے بارے ڳالھ پھیلاؤ تے اپݨے من بھانوݨے لوکاں کوں { -brand-name-chrome } کوں الوداع آکھݨ وِچ مدد کرو۔
 switch-share-with-your-friends = { -brand-name-firefox } وچ سوئچ تھیوݨ دا طریقہ آپݨے سنگتیاں نال شیئر کرو
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox } { -brand-name-chrome } کنوں سوئچ کرݨ کوں اصل وچ تکھیرا بݨیندے۔ ایں کوں ازماؤ!
 switch-switch-to-firefox = { -brand-name-firefox } تے سوئچ کرو

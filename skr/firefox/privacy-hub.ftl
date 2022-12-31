@@ -72,13 +72,22 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = پاس ورڈز تے سنداں جیڑھیاں تساں { -brand-name-firefox-lockwise } وِچ محفوظ کریندے او او تہاݙے تمام آلات تے ڳجھے ہوندے ہن، ایں سانگے اساں انہاں کوں ݙیکھ وی نئیں سڳدے۔
 firefox-privacy-hub-learn-more-about-lockwise = { -brand-name-lockwise } بارے ٻیا سکھو
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = اساں انہاں وݙیاں فائلاں دے ناں یا مواد نہیں ݙیکھ سڳدے جیڑھا تساں { -brand-name-firefox-send } دے ذریعے سانجھیاں کریندے او کیوں جو ناونھ کنوں چوٹی تائیں ڳجھیاں ہن — تساں منتخب کریندے او جو تساں جو کجھ بھیڄیندے او اونکوں کون ݙیکھدا ہے، تے تساں سیٹ وی کر سڳدے او۔ ہک معیاذ مُکݨ دی تاریخ تے پاس ورڈ۔
 firefox-privacy-hub-send-a-file = ہک فائل پٹھو
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } تہاݙی براؤزنگ ہسٹری کوں جمع کیتے بغیر یا مشتہرین دے نال تہاݙیاں ذاتی معلومات سانجھیاں کیتے بغیر اعلیٰ معیار دے، انساناں دے تیار کردہ مضمون دی تجویز ݙیندا ہے۔
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } گھنو
 firefox-privacy-hub-your-firefox-account = تہاݙا { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = تہاݙے { -brand-name-firefox-account } دے ذریعے مطابقت پذیر تمام معلومات — براؤزر دی تارخ کنوں گھن تے پاس ورڈز تائیں — کوں ڳجھا رکھیا ویندا ہے۔ تے تہاݙے اکاؤنٹ دا پاس ورڈ کلھی کنجی ہے۔
 firefox-privacy-hub-take-your-privacy-and-bookmarks = اپݨی رازداری تے نشانیاں کوں ہر جاء { -brand-name-firefox-account } دے نال گھن ونڄو۔
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = پہلے کنوں اکاؤنٹ ہے پیا؟  class="{ $class_name }"> سائن ان تھیوو </a> یا <a href="{ $learn_more }"> ودھیک ڄاݨو </a> { -brand-name-firefox } وِچ شامل تھیوݨ دے بارے۔
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = ساݙیاں مصنوعات کیتے <a href="{ $url }">رازداری نوٹس </a> پڑھو
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = ہک نویں تناظر دے نال ہک محفوظ انٹرنیٹ کنکشن کیتے 30 کنوں زائد ملکاں وِچ سرورز تے سرف کرو، سٹریم کرو تے کم مکمل کرو۔
 firefox-privacy-hub-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو

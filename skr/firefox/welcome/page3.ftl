@@ -8,6 +8,7 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = آپݨی رازداری دی حفاظت کیتے مفت کھاتہ بݨاؤ۔ { -brand-name-firefox } نال رلت کرو۔
 welcome-page3-no-account-required-but-you = کہیں کھاتے دی لوڑ کائنی۔ بھل تساں ہک چاہندے ہوسو۔
+welcome-page3-the-firefox-browser-collects = { -brand-name-firefox } براؤزر تہاݙے بارے اتنا گھٹ ڈیٹا کٹھا کریندا ہے، اساکوں تہاݙے ای میل ایڈریس دی وی ضرورت کائنی۔ لیکن جݙاں تساں اینکوں { -brand-name-firefox-account } بݨاوݨ کیتے استعمال کریندے او، تاں اساں تہاݙی زیادہ توں زیادہ آن لائن زندگی وِچ تہاݙی رازداری دی حفاظت کر سڳدے او۔
 welcome-page3-sign-in = سائن ان
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = تہاݙے ڈیٹا کوں لیک کرݨ دے بجائے کم از کم ہک کمپنی کوں ڳولو۔
