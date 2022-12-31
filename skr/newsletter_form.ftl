@@ -5,6 +5,7 @@
 newsletter-form-please-enter-a-valid = سوہݨا، درست ای میل پتہ درج کرو
 newsletter-form-you-must-agree-to = تہاکوں رازداری نوٹس نال راضی ہووݨاں چاہیدا ہے
 newsletter-form-your-email-address = تہاݙا ای میل پتہ
+newsletter-form-we-are-sorry-but-there = ساکوں افسوس ہے، پر ساݙے سسٹم نال ہک مسئلہ ہائی۔ سوہݨا، ولدا بعد وچ کوشش کرو!
 newsletter-form-please-select-country = سوہݨا، ملک یا علاقہ چݨو
 newsletter-form-please-select-language = سوہݨا، ہک زبان چُݨو
 # Only localize "yourname". Do not change "@example.com".

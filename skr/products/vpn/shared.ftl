@@ -58,6 +58,7 @@ vpn-shared-terms-conditions = شرائط و ضوابط
 vpn-shared-pricing-variable-heading-v2 = سبسکرپشن منصوبہ چݨو جہڑا تہاݙے کیتے کم کریندے
 # Outdated string
 vpn-shared-pricing-variable-heading = منصوبہ چݨو جہڑا تہاݙے کیتے کم کریندے
+vpn-shared-pricing-variable-sub-heading = ساݙے سارے منصوبیاں وچ شامل ہن:
 vpn-shared-pricing-recommended-offer = سفارش تھئے ہوئے
 vpn-shared-pricing-plan-12-month-v2 = 12 مہینہ منصوبہ
 # Outdated string
