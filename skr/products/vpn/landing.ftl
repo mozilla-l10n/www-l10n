@@ -18,6 +18,11 @@ vpn-landing-brand-trust-heading = ہک اینجھے برانڈ دا وی پی ا
 
 vpn-landing-faq-heading = عمومی سوالات
 vpn-langing-faq-uses-question-heading = وی پی این کیا ہے تے ایندے ورتاوے کیا ہن؟
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = آپݨاں اصلی <a href="{ $url }">آئی پی پتہ</a>لُکاوݨ۔ ایہ تہاݙی سُن٘ڄاݨ دی حفاظت کریندے  تے مقام دھندلا کریندے۔
+# Obsolete string
+vpn-landing-faq-uses-conceal = آپݨاں اصلی آئی پی پتہ لُکاوݨ، ایہ تہاݙی سُن٘ڄاݨ دی حفاظت کریندے  تے مقام دھندلا کریندے۔
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } کہڑیاں معلومات رکھیندے؟
 vpn-landing-faq-protected-question-heading = میݙی رازداری کین٘ویں حفاظت وچ ہے؟
 vpn-landing-faq-competition-question-heading = مقابلے نال { -brand-name-mozilla-vpn } دا موازنہ کین٘ویں تھیندے؟
@@ -91,6 +96,7 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+vpn-landing-invite-your-information = تہاݙی معلومات کوں صرف تہاکوں پلیٹ فارم دی دستیابی بارے اطلاع ݙیوݨ کیتے ورتیا ویسی۔
 vpn-landing-invite-thanks-heading = شکریہ! تساں تندیر وچ ہو
 vpn-landing-invite-thanks-desc = جہڑے ویلے تہاݙے علاقے وچ { -brand-name-mozilla-vpn } دستیاب ہوسی، اساں تہاکوں ای میل کریسوں۔
 
