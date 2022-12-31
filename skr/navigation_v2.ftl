@@ -73,3 +73,4 @@ navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = نویں، تلویں سطح دی، اسمبلی وانگوں زبان بارے ٻیا ڄاݨو۔
