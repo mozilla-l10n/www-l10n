@@ -35,6 +35,7 @@ navigation-get-firefox = { -brand-name-firefox } گھنو
 navigation-get-firefox-focus = { -brand-name-firefox-focus } گھنو
 navigation-android-extensions = { -brand-name-android } ایکسٹنشن
 navigation-your-firefox-account = تہاݙا { -brand-name-firefox-account }
+navigation-make-the-most-of-your = ہر ڈیوائس تے آپݨے { -brand-name-firefox } تجربے کنوں بھر پُور فائدہ چاؤ۔
 # Outdated string
 navigation-learn-how-to-customize = { -brand-name-firefox } دے کم کرݨ دے طریقے کوں مخصوص بݨاوݨ سکھو۔
 navigation-explore-the-immersive = آپݨے ورچوئل رئیلٹی ہیڈسیٹ تے گہری ویب پھلورو۔
