@@ -9,15 +9,59 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } گھنو
 vpn-shared-waitlist-link = تانگھ تندیر نال رلت کرو
 vpn-shared-sign-in-link = بھلا پہلے ہی سبسکرائبر ہو؟
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
+vpn-shared-money-back-guarantee = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = وچ خاص
+vpn-shared-features-encrypt = ڈیوائس سطح اینکرپشن
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = { $countries }+ ملکاں وچ { $servers }+ سرور
+vpn-shared-features-bandwidth = کوئی بینڈ وِتھ پابندیاں کائنی
+vpn-shared-features-activity = تہاݙی نیٹ ورک سرگرمی دا کوئی لاگنگ کائنی
+vpn-shared-features-activity-logs = کوئی آن لان سرگرمی لاگ کائنی ہݨ یا کڈاہیں
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = { $countries }+ ملکاں وچ  سروراں تے رسائی
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = { $devices } ڈیوائساں تائیں کنکٹ تھیوݨ دا اختیار
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = { $devices } ڈیوائساں تائیں کیتے حفاظت
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = { $devices } ڈیوائساں تائیں کنکٹ تھیوو
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
+vpn-shared-refund-policy = رقم واپسی دی پالیسی
+vpn-shared-privacy-notice = رازداری نوٹس
+vpn-shared-terms-conditions = شرائط و ضوابط
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-recommended-offer = سفارش تھئے ہوئے
+vpn-shared-pricing-plan-12-month-v2 = 12 مہینہ منصوبہ
+# Outdated string
+vpn-shared-pricing-plan-12-month = 12 مہینہ
 vpn-shared-pricing-plan-monthly-v2 = ماہانہ منصوبہ
 # Outdated string
 vpn-shared-pricing-plan-monthly = ماہانہ
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Outdated string
+vpn-shared-pricing-get-6-month = 6 مہینے دا منصوبہ گھنو
+# Outdated string
+vpn-shared-pricing-get-12-month = 12 مہینے دا منصوبہ گھنو
+# Outdated string
+vpn-shared-pricing-get-6-month-v2 = 6 مہینے دا منصوبہ گھنو
+vpn-shared-pricing-get-12-month-v2 = 12 مہینے دا منصوبہ گھنو
+vpn-shared-pricing-get-monthly = ماہوار منصوبہ گھنو
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = { $percent }% بچاؤ
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } کل

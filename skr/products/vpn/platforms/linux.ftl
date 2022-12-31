@@ -9,8 +9,13 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-linux }{ -brand-name-ubuntu } کیتے { -brand-name-mozilla-vpn }
+vpn-linux-wifi-headline = جہڑے ویلے تہاکوں عوامی وائی فائی ورتݨ دی لوڑ ہووے،  آن لائن محفوظ راہوو
 vpn-linux-about-headline = 1998 کنوں بھروسے آلا ناں
 vpn-linux-privacy-headline = سلامتی صرف 1۔ کلک دور ہے
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-linux-servers-headline = { $countries } مختلف ملکاں وچ { $servers }+ سروراں نال کنکٹ تھیوو
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = { $devices } ڈیوائساں تائیں کنکٹ تھیوو

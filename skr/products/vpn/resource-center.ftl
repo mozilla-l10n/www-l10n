@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/resource-center
 
+# HTML Page Title
+vpn-resource-center-title = وی پی این ریسورس سینٹر
 vpn-resource-center-view-all = سارے ݙیکھو
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = اڄ آپݨی سن٘ڄاݨ دی حفاظت کرݨ شروع کرو

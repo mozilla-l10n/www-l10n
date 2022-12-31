@@ -12,5 +12,9 @@ vpn-windows-page-title = { -brand-name-windows }10 کیتے { -brand-name-mozill
 # Windows strings
 vpn-windows-hero-headline = { -brand-name-windows }10 کیتے { -brand-name-mozilla-vpn } نال کنکٹ تے حفاظت وچ راہوو
 vpn-windows-wifi-headline = عوامی وائی فائی تے نجی راہوو
+vpn-windows-about-headline = انٹرنیٹ رازداری وچ لیڈر کنوں
+vpn-windows-privacy-headline = ہک بٹݨ دباوݨ نال حفاظت
+vpn-windows-servers-headline = پوری دنیا دے سروراں تائیں رسائی گھنو
 vpn-windows-devices-headline = تہاݙیاں ساریاں ڈیوائساں کیتے ہک سبسکرپشن
+vpn-windows-speed-headline = کوئی بینڈ وِتھ پابندیاں کائنی
 vpn-windows-log-headline = تہاݙی رازداری ساݙی ترجیح ہے
