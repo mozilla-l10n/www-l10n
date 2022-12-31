@@ -10,6 +10,7 @@ privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla } دے ڈیٹا ر
 privacy-faq-at-mozilla-we-respect-and-protect-desc = { -brand-name-mozilla } وچ اساں تہاݙی ذاتی معلومات دا احترام  تے حفاظت کریندے ہیں۔
 privacy-faq-we-stand-for-people-over-profit = اساں منافع دی بجائے لوکاں کیتے کھڑے ہیں۔
 privacy-faq-at-mozilla-we-respect-and-protect = { -brand-name-mozilla } وچ اساں تہاݙی ذاتی معلومات دا احترام  تے حفاظت کریندے ہیں:
+privacy-faq-really-you-dont-collect-my-browsing = واقعی، تساں میݙی براؤزنگ تاریخ کوں کٹھا نہوے کریندے؟
 privacy-faq-wait-so-how-do-you-make-money = انتظار کرو، تساں پیسہ کین٘ویں کماندے ہو؟
 privacy-faq-but-why-do-you-collect-any-data = پر تساں کوئی وی ڈیٹا کیوں کٹھا کریندے ہو؟
 privacy-faq-data-collection-still-bugs-me = ڈیٹا کٹھا کرݨ اڄݨ وی میکوں وڳڑیندے۔ بھلا میں ایں کوں بند کر سڳداں؟

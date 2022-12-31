@@ -48,6 +48,7 @@ manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } دا منشو�
 manifesto-details-introduction = تعارف
 manifesto-details-the-internet-is-becoming = انٹرنیٹ ساݙی حیاتی دا ہک اہم حصہ بݨدا ویندے۔
 manifesto-details-the-goals-for = منشور دے اہداف ایہ ہن:
+manifesto-details-provide-a-framework = ٻنھاں لوکاں کوں انٹرنیٹ دے ایں ویژن کوں اڳوں تے ودھاوݨ کیتے ہک فریم ورج مہیا کرو۔
 manifesto-details-principles = اصول
 manifesto-details-the-internet-is-global = انٹرنیٹ ہک عالمی عوامی وسیلہ ہے جہڑا کھلا تے پہنچ وچ رہوݨا چاہیدا ہے۔
 manifesto-details-the-internet-must = انٹرنیٹ کوں انفرادی انسانی حیات کوں بہتر بݨاوݨاں  چاہیدا ہے۔

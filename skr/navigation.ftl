@@ -29,6 +29,7 @@ navigation-learn-how-firefox-treats = ڄاݨو جو کیویں { -brand-name-fir
 navigation-mozilla-careers = { -brand-name-mozilla } روزگار
 navigation-approach-your-career = مقصد دے احساس دے نال اپݨے کیریئر تائیں پڄو۔ { -brand-name-mozilla } تے تکڑا کم تلاش کرو۔
 navigation-close-firefox-menu = { -brand-name-firefox } مینیو بند کرو
+navigation-get-the-browser-that-gives = براؤزر حاصل کرو جہڑا تہاکوں { -brand-name-windows }، { -brand-name-mac } یا { -brand-name-linux } تے زیادہ طاقت ݙیندا ہے۔
 navigation-take-firefox-and-firefox = { -brand-name-firefox } تے{ -brand-name-firefox-focus } کوں آپݨے نال رکھو۔ { -brand-name-ios } تے { -brand-name-android } کیتے۔
 navigation-get-firefox = { -brand-name-firefox } گھنو
 navigation-get-firefox-focus = { -brand-name-firefox-focus } گھنو
