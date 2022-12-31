@@ -31,6 +31,20 @@ vpn-shared-features-devices = { $devices } ڈیوائساں تائیں کنکٹ 
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = { $devices } ڈیوائساں تائیں کیتے حفاظت
 # Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = { $countries } کنوں ودھ ملکاں وچ { $servers } کنوں ودھ سروراں نال کنکٹ تھیوو
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = ہݨ { $countries } ملکاں وچ دستیاب ہے۔ ٻئے علاقے جلدی آندے پئے ہن۔
+# Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = <a href="{ $url }" { $attrs }>سروراں</a> دی پوری تندیر ݙیکھو۔
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = { $countries }+ ملکاں وچ مضبوط سرور
+# Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = { $devices } ڈیوائساں تائیں کنکٹ تھیوو
 # This string is displayed as an item in a list of features.
@@ -41,6 +55,9 @@ vpn-shared-terms-conditions = شرائط و ضوابط
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = سبسکرپشن منصوبہ چݨو جہڑا تہاݙے کیتے کم کریندے
+# Outdated string
+vpn-shared-pricing-variable-heading = منصوبہ چݨو جہڑا تہاݙے کیتے کم کریندے
 vpn-shared-pricing-recommended-offer = سفارش تھئے ہوئے
 vpn-shared-pricing-plan-12-month-v2 = 12 مہینہ منصوبہ
 # Outdated string
@@ -62,6 +79,12 @@ vpn-shared-pricing-get-monthly = ماہوار منصوبہ گھنو
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = { $percent }% بچاؤ
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = { -brand-name-mozilla-vpn } تے { $percent } % بچاؤ*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *جہڑے ویلے تساں 12ــ مہینہ منصوبہ سبسکرائب کریندے ہو
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } کل
@@ -86,6 +109,7 @@ vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = موبائل
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = آئی پی پتہ کیا ہے؟
+vpn-subnav-when-to-use-a-vpn = وی پی این کݙݨ ورتݨے
 vpn-subnav-vpn-vs-proxy = وی پی این  تے پراکسی
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } سب سکرایب کرو
 

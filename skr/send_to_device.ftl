@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+send-to-device-send-firefox = آپݨے سمارٹ فون یا ٹیبلٹ تے { -brand-name-firefox } بھیڄو۔
+send-to-device-your-download-link = تہاݙا ڈاؤن لوڈ لنک بھیڄ ݙتا ڳئے۔
 send-to-device-please-enter-an-email = سوہݨا، ای میل پتہ درج کرو۔
 send-to-device-enter-your-email = آپݨا ای میل درج کرو
 send-to-device-send = بھیڄو
