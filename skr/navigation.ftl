@@ -60,6 +60,7 @@ navigation-close-products-menu = مصنوعات مینیو بند کرو
 navigation-check-for-breaches = خلاف ورزیاں دی پڑتال کرو
 navigation-see-breaches = خلاف ورزیاں ݙیکھو
 navigation-security-tips = سلامتی دے نسخے
+navigation-share-large-files-safely = وݙیاں فائلاں کوں حفاظت نال اوں لنک نال شیئر کرو جہڑا ' آپے تباہ تھیوے'۔
 navigation-sign-up = سائن اپ
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: تکھا۔ سادہ۔ نجی۔
 # Outdated string
