@@ -14,6 +14,7 @@ vpn-what-is-why-would-i = میں وی پی این کیوں ورتاں؟
 vpn-what-is-keeping-your-online = تہاݙی آن لائن سرگرمی نجی رکھݨ
 vpn-what-is-what-are-the = وی پی این ورتݨ دے کیا نقصان ہن؟
 vpn-what-is-are-vpns-safe = بھلا VPNs محفوظ ہن؟
+vpn-what-is-can-vpns-protect = بھلا VPNs میکوں سائبر مجرماں کنوں بچا سڳدے؟
 vpn-what-is-are-vpns-legal = بھلا VPNs قنونی ہن؟
 vpn-what-is-are-vpns-only = بھلا VPNs صرف کمپیوٹر کیتے ہن؟
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: تکھا، محفوظ، قابل بھروسہ

@@ -12,6 +12,7 @@ privacy-principles-manage-user-data-we-collect = ورتݨ آلیاں دا جہڑ
 privacy-principles-select-and-interact-with = بھائیوال چݨو تے انہاں نال ڳالھ مہاڑ کرو
 privacy-principles-shape-our-public-policy = ساݙی عوامی پالیسی تے وکالت دے کم کوں شکل وصورت ݙیوو
 privacy-principles-no-surprises = کوئی حیرت کائنی
+privacy-principles-use-and-share-information = معلومات کوں ایں طرحاں ورتو  تے شیئر کرو جو او ورتݨ آلے کیتے مفید تے شفاف ہووے۔
 privacy-principles-user-control = ورتݨ آلے دا کنٹرول
 privacy-principles-limited-data = محدود ڈیٹا
 privacy-principles-sensible-settings = معقول ترتیباں

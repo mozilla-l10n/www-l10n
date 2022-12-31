@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+# Meta strings
+vpn-mobile-page-title = موبائل (سمارٹ فون تے ٹیبلٹاں) کیتے { -brand-name-mozilla-vpn }
 # Mobile strings
 vpn-mobile-hero-headline = موبائل تے { -brand-name-mozilla-vpn } نال آپݨی رازداری محفوظ بݨاؤ
 vpn-mobile-wifi-headline = عوامی وائی فائی ورتݨ وچ محفوظ محسوس کرو

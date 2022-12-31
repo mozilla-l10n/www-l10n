@@ -7,9 +7,11 @@
 
 # HTML Page Title
 vpn-resource-center-title = وی پی این ریسورس سینٹر
+vpn-resource-center-whats-the-deal = ورچوئل بجی نیٹ ورک نال کیا معاملہ ہے؟
 vpn-resource-center-view-all = سارے ݙیکھو
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = اڄ آپݨی سن٘ڄاݨ دی حفاظت کرݨ شروع کرو
+vpn-resource-center-obsessed-with = 1998 کنوں تہاݙی رازداری دے جنون نال
 vpn-resource-center-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو
 vpn-resource-center-was-this-article = بھلا ایہ مضمون مددگار ہائی؟
 vpn-resource-center-article-helpful = مضمون مددگار

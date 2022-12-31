@@ -19,3 +19,4 @@ vpn-android-servers-headline = { $countries } کنوں ودھ ملکاں وچ { 
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = { $devices } ڈیوائساں تائیں کیتے ہک سبسکرپشن
 vpn-android-speed-headline = ݙاڈھی تکھی  رفتار، لامحدود ڈیٹا
+vpn-android-log-headline = کوئی لاگ کائنی۔ کوئی ٹریکنگ کائنی۔ رازداری تے کوئی حملہ کائنی۔
