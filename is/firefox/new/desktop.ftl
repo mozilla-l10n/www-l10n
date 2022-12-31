@@ -33,15 +33,14 @@ firefox-desktop-download-no = Nei
 firefox-desktop-download-blocks-third-party = Lokar á vefkökur frá utanaðkomandi aðilum
 firefox-desktop-download-blocks-third-party-default = Lokar sjálfgefið á vefkökur frá utanaðkomandi aðilum
 firefox-desktop-download-autoplay-blocking = Lokun á sjálfvirkri spilun
-firefox-desktop-download-blocks-social-trackers = Lokar á samfélagmiðlasrekjara
+firefox-desktop-download-blocks-social-trackers = Lokar á samfélagmiðlarekjara
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Framboð stýrikerfa
 firefox-desktop-download-in-browser-screenshot = Skjámyndatól í vafra
 firefox-desktop-download-primary-password = Aðallykilorð
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Farðu vel með líf þitt á netinu
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Það er internetið þitt. Litaðu það eins og þú vilt með þúsundum verkfæra, þema og viðbóta. { -brand-name-firefox } er upphaflegi vafrinn sem gefur notendunum val og setur fólk framar hagnaði.
 # Obsolete string
 firefox-desktop-download-master-password = Aðallykilorð
