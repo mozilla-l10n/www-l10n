@@ -8,6 +8,7 @@
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = وی پی این کیا ہے؟
 vpn-what-is-how-do-vpns = VPNs کین٘ویں کم کریندے
+vpn-what-is-concealing-your-ip = آپݨاں آئی پی پتہ لُکاوݨ، آپݨی سُن٘ڄاݨ تے مقام دی حفاظت کرݨ ہے۔
 vpn-what-is-when-should-i = میکوں وی پی این کݙݨ ورتݨاں چاہیدا ہے؟
 vpn-what-is-why-would-i = میں وی پی این کیوں ورتاں؟
 vpn-what-is-keeping-your-online = تہاݙی آن لائن سرگرمی نجی رکھݨ

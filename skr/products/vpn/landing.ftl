@@ -10,6 +10,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: آپݨی ساری ڈیوا
 vpn-landing-hero-sub-heading-v2 = سیکیورٹی، بھروسہ تے رفتار — ہر ݙیوائس تے، تساں جتھاں وی ون٘ڄو۔
 vpn-landing-hero-desc = { -brand-name-firefox } بݨاوݨ آلیاں ولوں ہک ورچوئل ذاتی نیٹ ورک۔
 vpn-landing-fast-secure-heading = تکھا تے محفوظ نیٹ ورک
+vpn-landing-brand-trust-heading = ہک اینجھے برانڈ دا وی پی این  جیندے اُتے تساں بھروسہ کر سڳدے ہو
 
 ## FAQ section
 
@@ -17,6 +18,7 @@ vpn-landing-faq-heading = عمومی سوالات
 vpn-langing-faq-uses-question-heading = وی پی این کیا ہے تے ایندے ورتاوے کیا ہن؟
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } کہڑیاں معلومات رکھیندے؟
 vpn-landing-faq-protected-question-heading = میݙی رازداری کین٘ویں حفاظت وچ ہے؟
+vpn-landing-faq-competition-question-heading = مقابلے نال { -brand-name-mozilla-vpn } دا موازنہ کین٘ویں تھیندے؟
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } نال کہڑی ڈیوائس میل کھاندی ہے؟
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } ایندے میل کھاندے:
@@ -69,6 +71,7 @@ vpn-landing-faq-link = ٻئے FAQs ݙیکھو
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = تانگھ تندیر  نال رلت کرو: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = اطلاع نامہ گھنو جہڑے ویلے { -brand-name-mozilla-vpn } تہاݙی ڈیوائس تے  علاقے کیتے دستیاب ہووے۔
 vpn-landing-invite-page-heading = وی پی این تانگھ تندیر نال رلت کرو
 vpn-landing-invite-email-label = تہاݙا ای میل پتہ کیا ہے؟
 vpn-landing-invite-required-label = ضروری ہے
@@ -86,6 +89,7 @@ vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 vpn-landing-invite-thanks-heading = شکریہ! تساں تندیر وچ ہو
+vpn-landing-invite-thanks-desc = جہڑے ویلے تہاݙے علاقے وچ { -brand-name-mozilla-vpn } دستیاب ہوسی، اساں تہاکوں ای میل کریسوں۔
 
 ##
 
