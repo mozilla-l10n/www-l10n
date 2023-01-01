@@ -40,6 +40,8 @@ navigation-make-the-most-of-your = ہر ڈیوائس تے آپݨے { -brand-name
 # Outdated string
 navigation-learn-how-to-customize = { -brand-name-firefox } دے کم کرݨ دے طریقے کوں مخصوص بݨاوݨ سکھو۔
 navigation-explore-the-immersive = آپݨے ورچوئل رئیلٹی ہیڈسیٹ تے گہری ویب پھلورو۔
+# Outdated string
+navigation-meet-people-in-experimental = تجرباتی مخلوط اصلیت چیٹ روماں وچ { -brand-name-firefox } نال لوکلاں کوں ملو۔
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } مخلوط حقیقت
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
