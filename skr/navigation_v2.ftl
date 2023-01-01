@@ -70,6 +70,7 @@ navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = صرف ڈیویلپراں کیتے بݨایا ڳیا براؤزر { -brand-name-firefox } گھنو۔
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = ویب ڈیویلپر وسائل کیتے گھر ݙیکھو۔
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = آپݨی اواز دان کرو تاں جو ویب دا مستقبل ہر کہیں کوں سݨ سڳے۔
