@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/mission/
 
 mission-were-building-a-better-internet = اساں بہتر انٹرنیٹ اسریندے پئے ہیں
+mission-our-mission-is-to-ensure-the-internet = اساݙا مشن ایہ یقنینی بݨاوݨ ہے جو انٹرنیٹ ہک عالمی عوامی وسیلہ ہے، جیڑھا سبھݨاں کیتے کھلا قابل رسائی ہے۔ ہک اینجھا انٹرنیٹ جیڑھا لوکاں کوں صحیح معنیاں وِچ سبھ توں پلے رکھیندا ہے، جتھاں افراد اپݨے تجربے کوں تشکیل ݙے سڳدے ہن تے با اختیار، محفوظ تے خود مختار ہن۔
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = اساݙا مشن ویب تے کھلے پن، اختراع تے مواقع کوں فروغ ݙیوݨ ہے۔
 mission-get-involved = نال رلت کرو

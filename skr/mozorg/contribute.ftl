@@ -46,18 +46,22 @@ contribute-opportunities = خبراں تے رضاکارانہ مواقع
 
 contribute-made-by-heading = تہاݙے جیہیں سرٻدھ لوکاں بݨایا ہے۔
 contribute-made-by-desc = جݙاں تساں { -brand-name-mozilla } وِچ حصہ پیندے او، تاں تساں دنیا بھر دے لوکاں تے مشتمل ہک عالمی برادری دا حصہ بݨ ویندے ہن جیڑھے یقین رکھیندے ہن جو انٹرنیٹ کون چنڳاں بݨاوݨ کیتے ہک طاقت بݨ وِچ اساں سبھݨیں دا کردار ہے۔
+contribute-made-by-desc-cont = اساں سمجھدے ہیں جو ہک اینجھا انٹرنیٹ بݨاوݨ کیتے کمیونٹی دا تعاون ٻہوں ضروری ہے جیڑھا متنوع، اختراعی، تے انہاں لوکاں کیتے جوابدہ ہووے جنہاں اوندی سبھ توں زیادہ لوڑ ہے۔ چاہے تہاݙا ٹیک، کمیونٹی آرگنائزنگ، یا صرف ہک کمپیوٹر تے کجھ فارغ وقت اِچ پس منظر ہووے، تساں انٹرنیٹ کوں ہک بہتر جاہ بݨاوݨ وِچ اساݙی مدد کر سڳدے او۔
 
 ## Newsletter
 
 contribute-newsletter-heading = اڄݨ پک کائنی؟
 contribute-newsletter-sub-heading = اپݨے ان باکس وِچ کمیونٹی تے تعاون دیاں خبراں حاصل کرو۔
+contribute-newsletter-desc = اساݙے نیوز لیٹر کوں سبسکرائب کرو، پوری دنیا دے Mozillians  وِچ شامل تھیوو، تے { -brand-name-mozilla } مشن دی حمایت کرݨ دے موثر مواقع دے بارے وِچ ڄاݨو۔
 
 ## Support
 
 contribute-support-heading = مدد گھنو
+contribute-support-desc = { -brand-name-mozilla } دے کول رضاکاراں دی ہک سرٻدھ ٹیم ہے جیڑھی تہاکوں درپیش مسائل وِچ وی مدد کرݨ کیتے ہے۔
 contribute-mozilla-support = { -brand-name-mozilla } سہارا
 
 ## Web compat
 
 contribute-web-compat-heading = ویب ورقے نال مسئلے؟
+contribute-web-compat-desc = جے کہیں ویب سائٹ دے بارے تہاݙا تجربہ براؤزرز دے درمیان مختلف ہے تاں تھی سڳدا ہے تہاکوں ویب مطابقت دا مسئلہ دریافت تھیا ہووے۔ اساں اوندے بارے ڄاݨݨ پسند کریسوں!
 contribute-report-issue = ہک مسئلہ رپورٹ کرو
