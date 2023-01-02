@@ -96,6 +96,9 @@ vpn-landing-invite-platform-android = { -brand-name-android }
 vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-landing-invite-privacy-policy = “تانگھ تندیر نال رلت کرو“ کلک کرݨ نال تساں ساݙی   <a href="{ $privacy }">رازداری پالیسی</a> نال راضی ہوسو۔
 vpn-landing-invite-your-information = تہاݙی معلومات کوں صرف تہاکوں پلیٹ فارم دی دستیابی بارے اطلاع ݙیوݨ کیتے ورتیا ویسی۔
 vpn-landing-invite-thanks-heading = شکریہ! تساں تندیر وچ ہو
 vpn-landing-invite-thanks-desc = جہڑے ویلے تہاݙے علاقے وچ { -brand-name-mozilla-vpn } دستیاب ہوسی، اساں تہاکوں ای میل کریسوں۔
