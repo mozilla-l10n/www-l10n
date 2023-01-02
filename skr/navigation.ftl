@@ -41,10 +41,14 @@ navigation-make-the-most-of-your = ہر ڈیوائس تے آپݨے { -brand-name
 navigation-learn-how-to-customize = { -brand-name-firefox } دے کم کرݨ دے طریقے کوں مخصوص بݨاوݨ سکھو۔
 navigation-explore-the-immersive = آپݨے ورچوئل رئیلٹی ہیڈسیٹ تے گہری ویب پھلورو۔
 # Outdated string
+navigation-experience-augmented = { -brand-name-firefox } دے نال سرکڈھویں تے ورچوئل رئیلٹی دا تجربہ کرو۔
+navigation-get-together = ایں آن لائن سماجی جاہ دے نال ورچوئل رئیلٹی وِچ کٹھے تھی ونڄو۔
+# Outdated string
 navigation-meet-people-in-experimental = تجرباتی مخلوط اصلیت چیٹ روماں وچ { -brand-name-firefox } نال لوکلاں کوں ملو۔
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } مخلوط حقیقت
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } کھلے ویب تے ورچوئل تے سرکڈھویں حقیقت آنیندا ہے۔
 navigation-firefox-built-just-for = { -brand-name-firefox } صرف ڈویلپرز کیتے بݨیا ڳئے۔
 navigation-firefox-playground = { -brand-name-firefox } کھیݙ دا میدان
 navigation-mozilla-open-source-support = { -brand-name-mozilla } اوپن سورس سپورٹ (MOSS)
