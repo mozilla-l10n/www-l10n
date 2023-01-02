@@ -49,7 +49,10 @@ navigation-mozilla-mixed-reality = { -brand-name-mozilla } مخلوط حقیقت
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } کھلے ویب تے ورچوئل تے سرکڈھویں حقیقت آنیندا ہے۔
+# Outdated string
+navigation-mozilla-brings-firefox = { -brand-name-mozilla }{ -brand-name-firefox } کوں سرکڈھواں تے ورچوئل رئیلٹی آنیندا ہے۔
 navigation-firefox-built-just-for = { -brand-name-firefox } صرف ڈویلپرز کیتے بݨیا ڳئے۔
+navigation-preview-the-latest-build = { -brand-name-firefox } دی تازہ ترین تعمیر دا جائزہ گھنو تے اینکوں بہترین بݨاوݨ وِچ اساݙی مدد کرو۔
 navigation-firefox-playground = { -brand-name-firefox } کھیݙ دا میدان
 navigation-mozilla-open-source-support = { -brand-name-mozilla } اوپن سورس سپورٹ (MOSS)
 navigation-mozilla-manifesto = { -brand-name-mozilla } دا منشور
@@ -64,6 +67,7 @@ navigation-privacy = رازداری
 navigation-get-unmatched-data-protection = بے مثال ڈیٹا تحفظ  گھنو — ریلیز کیڈنس تے جیڑھا تہاݙی تنظیم کیتے موزوں ہے۔
 navigation-made-with-respect = عزت نال بݨا ہویا
 navigation-close-products-menu = مصنوعات مینیو بند کرو
+navigation-see-if-your-personal = ݙیکھو جو آیا تہاݙیاں ذاتی معلومات آن لائن لیک تھئی ہے، تے آئندہ خلاف ورزی دیاں چتاوݨیاں کیتے سائن اپ کرو۔
 navigation-check-for-breaches = خلاف ورزیاں دی پڑتال کرو
 navigation-see-breaches = خلاف ورزیاں ݙیکھو
 navigation-security-tips = سلامتی دے نسخے
@@ -71,6 +75,7 @@ navigation-share-large-files-safely = وݙیاں فائلاں کوں حفاظت 
 navigation-save-quality-content = کتھاؤں وی معیاری مواد کوں محفوظ کرو۔ ہر جائے تے آپݨے دماغ کوں تیز کرو۔
 navigation-sign-up = سائن اپ
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: تکھا۔ سادہ۔ نجی۔
+navigation-protect-your-entire-device = اپݨے پورے آلے تے تمام ایپلی کیشنز دی حفاظت کرو۔ اپݨے اصلی مقام کوں ماسک کرو تے 5 آلات تائیں جڑو۔ ہݨ سبسکرائب کرو۔
 # Outdated string
 navigation-connected-and-protected = کنکٹ تھیا تے محفوظ
 navigation-join = شامل تھیوو
@@ -88,9 +93,13 @@ navigation-same-speed-and-safety = اوہا رفتار تے حفاظت جیں ت
 navigation-add-ons = ایڈ ــ آن
 navigation-projects = منصوبے
 navigation-close-projects-menu = منصوبے مینیو بند کرو
+navigation-donate-your-voice-to = آواز دی سنڄاݨ کوں ہر ہک کیتے کھلا بݨاوݨ وِچ مدد کیتے اپݨی آواز عطیہ کرو۔
 navigation-machine-learning = مشین لرننگ
 # Outdated string
 navigation-web-of-things-iot = ویب آف تھنگز (IOT)
+navigation-help-make-deep-learning = اوپن سورس دی دنیا کیتے ݙونگھا سکھݨ کیتے الگورتھم دستیاب کرݨ وِچ مدد کرو۔
+# Outdated string
+navigation-make-devices-connected = انٹرنیٹ نال منسلک آلات کوں سوگھا، محفوظ تے آپت وِچ چلاوݨ دے قابل بݨاؤ۔
 navigation-developers = ڈویلپرز
 navigation-close-developers-menu = ڈویلپرز مینو بند کرو
 navigation-test-soon-to-be-released = ریلیز کنوں پہلے دی ساݙیاں سبھ توں مستحکم تعمیر وِچ جلدی ریلیز تھیوݨ والی خصوصیات دی جانچ کرو۔
@@ -111,6 +120,7 @@ navigation-get-involved = نال رلت کرو
 navigation-join-the-fight-for-a = تکڑے انٹرنیٹ کیتے جدوجہد وچ شامل تھیوو۔
 navigation-events = ایونٹ
 navigation-donate = عطیہ ݙیوو
+navigation-your-right-to-security = انٹرنیٹ تے سیکیورٹی تے رازداری دا تہاݙا حق بنیادی ہے۔ کݙاہیں وی اختیاری کائنی۔
 navigation-release-notes = ریلیز نوٹ
 navigation-features = خاص
 navigation-products = مصنوعات
