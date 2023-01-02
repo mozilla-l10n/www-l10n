@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.allizom.org/404-locale/
 
-firefox-enterprise-macos = { -brand-name-mac }
-firefox-enterprise-support = Assisténcia
+not-found-locale-available = Es disponible dins las lengas seguentas :
