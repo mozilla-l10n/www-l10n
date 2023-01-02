@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = آئی پی پتہ کیا ہے؟
+# Used as an accessible text alternative for an image
+vpn-ip-address-an-example-of-an-ip = ہک آئی پی پتے دی مثال ایہ ہے جو کومیاں نال وکھرے تھئے ترتیب وچ چار عدد: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = جے تساں آپݨی آئی پی پتہ ݙیکھو تاں ایہ کجھ ایں طرحاں نظرسی۔
 vpn-ip-address-does-it-travel = بھلا ایہ تہاݙے نال پندھ کریندے؟
 vpn-ip-address-does-your-ip = بھلا تہاݙا آئی پی پتہ تبدیل تھیندا ہے؟
