@@ -33,3 +33,12 @@ about-this-site-django = <a href="{ $django }"> Django</a> بطور بیک ای�
 # Variables:
 #   $protocol (url) link to https://protocol.mozilla.org/
 about-this-site-mozilla-protocol = فرنٹ اینڈ اجزاء تے برانڈنگ کیتے { -brand-name-mozilla } دا <a href="{ $protocol }"> پروٹوکول </a> ڈیزائن سسٹم۔
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = { -brand-name-mozilla } دا <a href="{ $fluent }"> Fluent</a> زبان دے ترجمہ کیتے لوکلائزیشن دا نظام۔
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = ٻہوں ساریاں چھوٹیاں لائبریریاں تے فریم ورک، جیڑھے تساں اساݙے <a href="{ $github }">{ -brand-name-github }  repo</a>. وِچ ڳول سڳدے او۔
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = اساں انہاں تمام { -brand-name-mozilla } <a href="{ $credits }"> شراکت دار </a> دا شکریہ ادا کریندے ہیں جنہاں ویب کوں ہک بہتر جاہ بݨاوݨ وِچ مدد کیتی ہے۔
