@@ -77,6 +77,7 @@ navigation-v2-more-about-mozilla = { -brand-name-mozilla } بارے ٻیا
 navigation-v2-innovation = جدت
 navigation-v2-close-innovation-menu = جدت مینیو بند کرو
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = ایں انٹر ایکٹیو، آن لائن، کثیر جہتی سماجی جاء وچ کٹھے کرو۔
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = صرف ڈیویلپراں کیتے بݨایا ڳیا براؤزر { -brand-name-firefox } گھنو۔
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
