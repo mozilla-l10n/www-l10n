@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+# Meta strings
+vpn-ios-page-title = { -brand-name-ios } ({ -brand-name-iphone } تے { -brand-name-ipad })  کیتے  { -brand-name-mozilla-vpn }
 # Mobile strings
 vpn-ios-hero-headline = { -brand-name-ios } کیتے { -brand-name-mozilla-vpn } نال آپݨے آپ دی آن لائن حفاظت کرو
 vpn-ios-wifi-headline = جہڑے ویلے تساں گو تے ہو آن لائن محفوظ راہوو
