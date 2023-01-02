@@ -12,6 +12,7 @@ vpn-what-is-concealing-your-ip = آپݨاں آئی پی پتہ لُکاوݨ، آ
 vpn-what-is-when-should-i = میکوں وی پی این کݙݨ ورتݨاں چاہیدا ہے؟
 vpn-what-is-why-would-i = میں وی پی این کیوں ورتاں؟
 vpn-what-is-keeping-your-online = تہاݙی آن لائن سرگرمی نجی رکھݨ
+vpn-what-is-keeping-your-home = آپݨے گھر دی جاء یا عام طور تے ݙٹھی ون٘ڄݨ آلیاں جاہیں نجی رکھندے ہوئے
 vpn-what-is-what-are-the = وی پی این ورتݨ دے کیا نقصان ہن؟
 vpn-what-is-are-vpns-safe = بھلا VPNs محفوظ ہن؟
 vpn-what-is-can-vpns-protect = بھلا VPNs میکوں سائبر مجرماں کنوں بچا سڳدے؟
