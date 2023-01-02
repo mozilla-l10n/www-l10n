@@ -59,6 +59,7 @@ navigation-v2-join-the-fight-for-a = تکڑے انٹرنیٹ کیتے جدوجہ
 navigation-v2-leadership = قیادت
 navigation-v2-careers = روزگار تے کم
 navigation-v2-mozilla-blog = { -brand-name-mozilla } بلاگ
+navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } تے ساݙے متعلق مسئلیاں بارے سکھو۔
 navigation-v2-stories = کہاݨیاں
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } بارے ٻیا
 

@@ -14,6 +14,7 @@ privacy-faq-we-only-collect-the-data-we = اساں صرف اُوہو ڈیٹا ک
 privacy-faq-we-put-people-in-control-of = اساں لوکاں کوں انہاں دے ڈیٹا تے آن لائن تجربات دے کنٹرول وچ رکھدے ہیں۔
 privacy-faq-really-you-dont-collect-my-browsing = واقعی، تساں میݙی براؤزنگ تاریخ کوں کٹھا نہوے کریندے؟
 privacy-faq-wait-so-how-do-you-make-money = انتظار کرو، تساں پیسہ کین٘ویں کماندے ہو؟
+privacy-faq-there-are-two-categories-of = اساں { -brand-name-firefox } دے آپݨے ریلیز ورشناں وچ ڈیفالٹ  ݙو ونکیاں دا ڈیٹا کٹھے کریندے ہیں۔
 privacy-faq-do-you-collect-more-data-in = بھلا تساں { -brand-name-firefox } دے پری ریلیز ورشناں وچ ٻیا ڈیٹا کٹھا کریندے ہو؟
 privacy-faq-but-why-do-you-collect-any-data = پر تساں کوئی وی ڈیٹا کیوں کٹھا کریندے ہو؟
 privacy-faq-data-collection-still-bugs-me = ڈیٹا کٹھا کرݨ اڄݨ وی میکوں وڳڑیندے۔ بھلا میں ایں کوں بند کر سڳداں؟

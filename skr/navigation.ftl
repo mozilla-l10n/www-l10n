@@ -79,6 +79,7 @@ navigation-close-about-menu = تعارف مینیو بند کرو
 navigation-meet-the-technology-company = اینجھی ٹیکنالوجی کوں ملو جہڑی لوکاں کوں منافع تے ترجیح ݙیندی ہے۔
 navigation-new-features = نویاں خصوصیات
 navigation-save-content-absorb-knowledge = مواد محفوظ کرو۔ علم جذب کرو۔
+navigation-same-speed-and-safety = اوہا رفتار تے حفاظت جیں تے تساں بھروسہ کریندے ہو، صرف کاروبار کیتے ڈیزائن کیتی ڳئی ہے۔
 # Outdated string
 navigation-add-ons = ایڈ ــ آن
 navigation-projects = منصوبے

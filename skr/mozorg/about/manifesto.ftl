@@ -91,3 +91,4 @@ manifesto-details-promote-models = عوامی مفاد کیتے بݨائے ڳئ�
 manifesto-details-promote-the-mozilla = عوامی گفتگو تے انٹرنیٹ انڈسٹری دے اندر { -brand-name-mozilla } مینی فیسٹو دے اصولاں کوں فروغ ݙیوو۔
 manifesto-details-some-foundation = فاؤنڈیشن دیاں کجھ سرگرمیاں — فی الحال صارفین دیاں بݨتراں دی تخلیق، ترسیل تے فروغ — بنیادی طور تے { -brand-name-mozilla-foundation } مکمل ملکیتی ذیلی کمپنی { -brand-name-mozilla-corporation } دے ذریعے کیتی ویندی ہے۔
 manifesto-details-invitation = کانڈھا
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } انہاں تمام لوکاں کوں دعوت ݙیندا ہے جیڑھے { -brand-name-mozilla } مینی فیسٹو دے اصولاں دی حمایت کریندے ہن اساݙے نال شامل تھیوݨ کیتے، تے انٹرنیٹ دے ایں ویژن کوں حقیقت بݨاوݨ کیتے نویں طریقے ڳولن۔
