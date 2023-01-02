@@ -19,5 +19,6 @@ privacy-faq-do-you-collect-more-data-in = بھلا تساں { -brand-name-firefo
 privacy-faq-but-why-do-you-collect-any-data = پر تساں کوئی وی ڈیٹا کیوں کٹھا کریندے ہو؟
 privacy-faq-data-collection-still-bugs-me = ڈیٹا کٹھا کرݨ اڄݨ وی میکوں وڳڑیندے۔ بھلا میں ایں کوں بند کر سڳداں؟
 privacy-faq-what-about-my-account-data = میݙے کھاتے دے ڈیٹا دا کیا تھیسی؟
+privacy-faq-no-we-do-not-buy-peoples-data = کو، اساں ٹارگٹ اشتہار بازی کیتے لوکاں دا ڈیٹا مُل نسے گھندے۔
 privacy-faq-yes-we-do = جیا، اساں کریندے ہیں۔
 privacy-faq-find-out-more-about-how-mozilla = { -brand-name-mozilla } انٹرنیٹ دی حفاظت کین٘ویں کریندے ایں بارے ودھیک لبھو۔
