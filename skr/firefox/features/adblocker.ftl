@@ -24,7 +24,7 @@ features-adblocker-theres-adblocker-ultimate = اتھاں <a href="{ $url }"> Ad
 features-adblocker-popup-ads-are-the-worst = پوپ اپ اشتہارات بدترین ہن۔ انہاں کوں <a href="{ $url }"> پوپ اپ بلاکر </a> دے نال بلاک کرو تے دوبارہ کݙاہیں وی کہیں ٻئے پریشان کن پوپ اپ دے نال معاملہ نہ کرو۔
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = { -brand-name-chrome }{ -brand-name-safari } تے { -brand-name-firefox } کیتے <a href="{ $url }"> ݙاڈھے مقبول مشہوری بلاکراں وچوں ہک ہے۔ ایں کوں { -brand-name-facebook }، { -brand-name-youtube } تے { -brand-name-hulu } مشہوریاں بلاک کرݨ کیتے ورتو۔
+features-adblocker-one-of-the-most-popular = { -brand-name-chrome }{ -brand-name-safari } تے { -brand-name-firefox } کیتے <a href="{ $url }"> ݙاڈھے مقبول مشہوری بلاکراں وچوں ہک ہے</a>۔ ایں کوں { -brand-name-facebook }، { -brand-name-youtube } تے { -brand-name-hulu } مشہوریاں بلاک کرݨ کیتے ورتو۔
 features-adblocker-create-a-tracker-free = مواد بلاک کرݨ نال ٹریکر کنوں آزاد زون بݨاؤ
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
