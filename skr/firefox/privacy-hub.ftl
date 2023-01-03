@@ -84,7 +84,7 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = اپݨی رازداری ت
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
 #   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
-firefox-privacy-hub-already-have-an-account = پہلے کنوں اکاؤنٹ ہے پیا؟  class="{ $class_name }"> سائن ان تھیوو </a> یا <a href="{ $learn_more }"> ودھیک ڄاݨو </a> { -brand-name-firefox } وِچ شامل تھیوݨ دے بارے۔
+firefox-privacy-hub-already-have-an-account = پہلے کنوں اکاؤنٹ ہے پیا؟<a { $sign_in } class="{ $class_name }"> سائن ان تھیوو </a> یا <a href="{ $learn_more }"> ودھیک ڄاݨو </a> { -brand-name-firefox } وِچ شامل تھیوݨ دے بارے۔
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = ساݙیاں مصنوعات کیتے <a href="{ $url }">رازداری نوٹس </a> پڑھو
