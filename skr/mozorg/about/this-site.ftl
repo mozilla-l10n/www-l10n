@@ -10,7 +10,7 @@ about-this-site-desc = www.mozilla.org ویب سائٹ بارے  تے ایں ک�
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = ویب سائٹ www.mozilla.org ݙو ݙہاکیاں کنوں آن لائن ہے۔ ایہ انٹرنیٹ سالہاں وِچ <a href="{ $archive }"> ڈائنوسار دے ویلھے </a> دے بعد کنوں ہے۔ ایں طراں، www.mozilla.org ویب دا ہک چنڈ والا پتھر ہے، جیندیاں پاڑاں اوپن سورس موومنٹ وِچ شاہ تائیں لتھیاں ہویاں ہن جئیں <a href="{ $coderush }"> { -brand-name-mozilla } </a></a>دی تخلیق کوں ݙٹھا ہا۔
+about-this-site-this-website = ویب سائٹ www.mozilla.org ݙو ݙہاکیاں کنوں آن لائن ہے۔ ایہ انٹرنیٹ سالہاں وِچ <a href="{ $archive }"> ڈائنوسار دے ویلھے </a> دے بعد کنوں ہے۔ ایں طراں، www.mozilla.org ویب دا ہک چنڈ والا پتھر ہے، جیندیاں پاڑاں اوپن سورس موومنٹ وِچ شاہ تائیں لتھیاں ہویاں ہن جئیں <a href="{ $coderush }"> { -brand-name-mozilla }</a>دی تخلیق کوں ݙٹھا ہا۔
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/
