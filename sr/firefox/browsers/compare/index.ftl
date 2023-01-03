@@ -10,3 +10,6 @@ compare-index-seven-of-the-best-browsers-in = Директно поређење 
 compare-index-six-of-the-best-browsers-fallback = Директно поређење шест најбољих прегледача
 # Sub-headline
 compare-index-privacy-utility-portability = Приватност. Корисност. Преносивост.
+# HTML page description
+compare-index-a-great-internet-browser-should = Одличан прегледач треба да има потребну фунцкионалност, употребљивост на различитим уређајима и приватност коју заслужујете.
+compare-index-which-browser-is-best-at-keeping = Који прегледач најбоље штити ваше поверљиве податке?
