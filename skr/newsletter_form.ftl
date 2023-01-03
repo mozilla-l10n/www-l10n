@@ -17,8 +17,12 @@ newsletter-form-format = وضع
 newsletter-form-html = HTML
 newsletter-form-text = متن
 newsletter-form-get-firefox-news = { -brand-name-firefox }  خبراں گھنو
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/websites/
+newsletter-form-im-okay-with-mozilla = میں ٹھیک ہاں { -brand-name-mozilla } میݙیاں معلومات کوں سنبھلیندا پیا ہے جیویں جو <a href="{ $url }"> ایں رازداری دے نوٹس </a> وِچ وضاحت کیتی ڳئی ہے۔
 newsletter-form-we-will-only-send = اساں تہاکوں صرف { -brand-name-mozilla } دیاں معلومات بھیڄیسوں۔
 newsletter-form-we-will-only-send-firefox = اساں تہاکوں صرف { -brand-name-firefox } دیاں معلومات بھیڄیسوں۔
+newsletter-form-if-you-havent-previously = جے تساں پہلے { -brand-name-mozilla } دے متعلق نیوز لیٹر دی رکنیت دی تصدیق نہیں کیتی، تاں تہاکوں ایویں کرݨا پئے سڳدا ہے۔ اساݙی طرفوں ای میل کیتے براہ مہربانی اپݨا ان باکس یا اپݨا سپام فلٹر چیک کرو۔
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + تساں
 newsletter-form-get-firefox-tips = { -brand-name-firefox } گُر، چالاکیاں، خبراں تے ٻیا ٻہوں کجھ گھنو
 newsletter-form-keep-up-with = ساریاں چیزاں { -brand-name-firefox }<br> نال جاری رکھو۔
