@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = ჩამოტვირთეთ { -brand-name-firefox } კომპიუტერისთვის, მობილურისთვის ან დაწესებულებისთვის
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = ისარგებლეთ ბრაუზერებით, რომელთათვისაც თქვენი პირადულობა უმთავრესია — და მუდამ ასე იქნება
 # HTML page description
+firefox-browsers-page-desc = აირჩიეთ კომპიუტერს, { -brand-name-ios }-სა, { -brand-name-android }-ს შორის ან ნება მოგვეცით, ელფოსტაზევე გამოგიგზავნოთ მობილურზე ჩამოსატვირთი ბმული.
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = მიიღეთ პირადულობა, რომელსაც იმსახურებთ. თვალთვალისგან გაძლიერებული დაცვით აღჭურვილია თითოეული { -brand-name-firefox }-ბრაუზერი.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = ისარგებლეთ <strong>ბრაუზერებით</strong> რომელთათვისაც თქვენი პირადულობა უმთავრესია — და მუდამ ასე იქნება

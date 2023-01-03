@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = არანაირი საიდუმლ�
 firefox-privacy-hub-youll-always-know-where-you = ყოველთვის შეგეძლებათ დაგვეყრდნოთ
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = არანაირი ფარული მიზნები არ გაგვაჩნია. ჩვენი საქმიანობა არ საჭიროებს თქვენი ნდობით ბოროტად სარგებლობას. ჩვენი <a href="{ $privacy }">პირადულობის განაცხადი</a> მკაფიო და ადვილად გასაგებია. თუ გსურთ დაწვრილებით გაეცნოთ, რა ინფორმაციას ვაგროვებთ, ჩვენი კოდი ღიაა. სრულიად გახსნილნი ვართ ჩვენც.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = არანაირი ფარული მიზნები არ გაგვაჩნია. ჩვენი საქმიანობა არ საჭიროებს თქვენი ნდობით ბოროტად სარგებლობას. ჩვენი <a href="{ $privacy }">პირადულობის განაცხადი</a> მკაფიო და მარტივი გასაგებია. ნებისმიერს მთელ მსოფლიოში შეუძლია დაესწროს <a href="{ $meetings }">ჩვენი კომპანიის ყოველკვირეულ შეხვედრებს</a>. თუ გსურთ დაწვრილებით გაეცნოთ რა ინფორმაციას ვაგროვებთ, ჩვენი კოდი ღიაა. სრულიად გახსნილნი ვართ ჩვენც.
 firefox-privacy-hub-why-trust-firefox = რატომაა სანდო { -brand-name-firefox }?
