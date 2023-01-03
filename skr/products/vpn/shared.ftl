@@ -52,6 +52,7 @@ vpn-shared-features-guarantee = 30 ڈین٘ہ رقم واپس کرݨ دی ضما
 vpn-shared-refund-policy = رقم واپسی دی پالیسی
 vpn-shared-privacy-notice = رازداری نوٹس
 vpn-shared-terms-conditions = شرائط و ضوابط
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } جیسن اے۔ ڈوننفلڈ دا رجسٹرڈ ٹریڈ مارک ہے
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
@@ -122,6 +123,9 @@ vpn-shared-affiliate-notification-ok = ٹھیک ہے
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = { -brand-name-vpn } تے { -brand-name-relay } نال اپنڑیں رازداری ودھاؤ
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = آپݨے فون نمبر تے ای میل دی حفاظت دی آپݨی سبسکرپشن کیتے { -brand-name-firefox-relay } شامل کرو۔<a href="{ $url }"> ٻیا سکھو</a>۔
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> شامل کرو
