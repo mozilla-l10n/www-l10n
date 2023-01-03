@@ -15,6 +15,7 @@ privacy-principles-no-surprises = کوئی حیرت کائنی
 privacy-principles-use-and-share-information = معلومات کوں ایں طرحاں ورتو  تے شیئر کرو جو او ورتݨ آلے کیتے مفید تے شفاف ہووے۔
 privacy-principles-user-control = ورتݨ آلے دا کنٹرول
 privacy-principles-limited-data = محدود ڈیٹا
+privacy-principles-collect-what-we-need = ساکوں جہڑی شئے دی لوڑ ہے اوں کوں کٹھا کرو، اݨ سُن٘ڄاتی کرو جتھ تساں کر سڳدے ہو تے لوڑ کائنی تاں مٹاؤ۔
 privacy-principles-sensible-settings = معقول ترتیباں
 privacy-principles-design-for-a-thoughtful = حفاظت تے ورتݨ آلے دے تجربے دے سوچے سمجھے توازن کیتے ڈیزائن کرو۔
 privacy-principles-defense-in-depth = گہرائی وچ دفاع
