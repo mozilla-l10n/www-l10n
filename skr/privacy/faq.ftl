@@ -13,6 +13,7 @@ privacy-faq-at-mozilla-we-respect-and-protect = { -brand-name-mozilla } وچ ا�
 privacy-faq-we-only-collect-the-data-we = اساں صرف اُوہو ڈیٹا کٹھا کریندے ہیں جیندی ساکوں بہترین مصنوعات تیار کرݨ کیتے لوڑ ہوندی ہے۔
 privacy-faq-we-put-people-in-control-of = اساں لوکاں کوں انہاں دے ڈیٹا تے آن لائن تجربات دے کنٹرول وچ رکھدے ہیں۔
 privacy-faq-really-you-dont-collect-my-browsing = واقعی، تساں میݙی براؤزنگ تاریخ کوں کٹھا نہوے کریندے؟
+privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } تہاݙے بارے ڈیٹا کائنی وچیندی، تے اساں تہاݙے بارے ڈیٹا مُل کائنی گھندے۔
 privacy-faq-wait-so-how-do-you-make-money = انتظار کرو، تساں پیسہ کین٘ویں کماندے ہو؟
 privacy-faq-there-are-two-categories-of = اساں { -brand-name-firefox } دے آپݨے ریلیز ورشناں وچ ڈیفالٹ  ݙو ونکیاں دا ڈیٹا کٹھے کریندے ہیں۔
 privacy-faq-do-you-collect-more-data-in = بھلا تساں { -brand-name-firefox } دے پری ریلیز ورشناں وچ ٻیا ڈیٹا کٹھا کریندے ہو؟
