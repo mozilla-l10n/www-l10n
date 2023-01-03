@@ -38,10 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Blokovanie sledovacích prvkov
 firefox-desktop-download-os-availability = Dostupnosť na OS
 firefox-desktop-download-in-browser-screenshot = Nástroj na snímanie obrazovky v prehliadači
 firefox-desktop-download-primary-password = Hlavné heslo
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Milujte svoj život online
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Je to váš internet. Vyfarbite si ho tak, ako chcete, s tisíckami nástrojov, tém vzhľadu a rozšírení. { -brand-name-firefox } je originálny alternatívny prehliadač, ktorý uprednostňuje ľudí pred ziskom.
 # Obsolete string
 firefox-desktop-download-master-password = Hlavné heslo
@@ -160,7 +159,7 @@ firefox-desktop-download-now-else = Teraz dokončite <strong>inštaláciu</stron
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = Teraz <strong>spustite</strong> inštalačný program, ktorý sa práve stiahol.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-mac = Teraz <strong>otvorte</strong> súbor, ktorý ste práve prevzali.
+firefox-desktop-download-now-mac = Teraz <strong>otvorte</strong> súbor, ktorý ste práve stiahli.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Mať problémy? <a { $attrs }>Získajte pomoc s inštaláciou</a>.
