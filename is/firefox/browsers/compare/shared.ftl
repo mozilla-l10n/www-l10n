@@ -9,7 +9,7 @@
 compare-shared-yes = Já
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Nei
-compare-shared-private-browsing-mode = Einkavafur í huliðsham
+compare-shared-private-browsing-mode = Huliðsvafrahamur
 compare-shared-text-to-speech = Texti í tal
 compare-shared-reader-mode = Lestrarhamur
 compare-shared-spell-checking = Stafsetningaryfirferð
