@@ -4,6 +4,7 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-privacy = Vida privada
+footer-brand-standards = Estandards de la marca
 # Outdated string
 footer-desktop = Ordenador
 # Outdated string
@@ -25,6 +26,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } per { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } per { -brand-name-android }
+footer-portions-of-this-content = D'unas partidas d'aqueste contengut son ©1998–{ $current_year } pels contributors. Lo contengut es disponible jos <a rel="license" href="{ $url }">licéncia { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Entrepresa
 # Outdated string
@@ -35,8 +37,11 @@ footer-careers = Emplecs
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Aisinas
 footer-resources = Ressorsas
+footer-contact = Contacte
 footer-support = Assisténcia
 footer-file-a-bug = Senhalar una avaria
+footer-community-participation-guidelines = Directivas per la participacion dins la comunautat
+footer-websites-privacy-notice = Declaracion de confidencialitat del site
 footer-websites-cookies = Cookies
 footer-websites-legal = Mencions legalas
 footer-language = Lenga

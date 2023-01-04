@@ -7,6 +7,7 @@ navigation-support = Assisténcia
 navigation-developers = Desvolopaires
 navigation-resources = Ressorsas
 navigation-resources-for-developers = Ressorsas pels quites desvolopaires.
+navigation-contact = Contacte
 navigation-careers = Emplecs
 navigation-donate = Far un don
 navigation-release-notes = Nòtas de version
