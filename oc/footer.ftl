@@ -28,6 +28,7 @@ footer-about = A prepaus
 footer-press-center = Centre de premsa
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
+footer-resources = Ressorsas
 footer-support = Assisténcia
 footer-websites-cookies = Cookies
 footer-websites-legal = Mencions legalas

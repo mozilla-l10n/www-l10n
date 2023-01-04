@@ -3,6 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-support = Assisténcia
+navigation-resources = Ressorsas
+navigation-resources-for-developers = Ressorsas pels quites desvolopaires.
 navigation-release-notes = Nòtas de version
 navigation-features = Foncionalitats
 navigation-products = Logicials

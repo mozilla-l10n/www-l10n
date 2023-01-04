@@ -12,4 +12,4 @@ whatsnew-up-to-date-notification = Felicitacions ! Utilizatz la darrièra vers
 whatsnew-out-of-date-notification-v2 = Una version encara mai actualizada de { -brand-name-firefox } es disponibla. Reaviatz per metre a jorn.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes = Consultatz la <a href="{ $url }">Nòta de version</a> per saber que i a de nòu dins la navegador { -brand-name-firefox }.
+whatsnew-release-notes = Consultatz la <a href="{ $url }">Nòta de version</a> per saber que i a de nòu dins lo navegador { -brand-name-firefox }.
