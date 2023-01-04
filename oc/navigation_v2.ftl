@@ -15,3 +15,4 @@ navigation-v2-careers = Emplecs
 
 ## Innovation menu
 
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }

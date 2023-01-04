@@ -23,6 +23,8 @@ footer-developers = Desvolopaires
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
+footer-nightly-for-android = { -brand-name-nightly } per { -brand-name-android }
+footer-beta-for-android = { -brand-name-beta } per { -brand-name-android }
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Entrepresa
 # Outdated string

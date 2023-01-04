@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -21,6 +21,11 @@ firefox-all-32-bit-installers = Installadors 32-bit
 firefox-all-download-the-firefox = Telecargatz lo { -brand-name-firefox-browser } en occitan e dins mai de 90 lengas
 firefox-all-choose-which-firefox = Causissètz quin { -brand-name-firefox-browser } volètz telecargar dins vòstra lenga
 firefox-all-learn-about-firefox = Ne saber mai suls navegadors { -brand-name-firefox }
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = Telecargar { $product_label } per { $platform } en { $locale }
 firefox-all-select-your-preferred-language = Causissètz vòstra lenga preferida
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }

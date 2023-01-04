@@ -1,10 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
+nightly-firstrun-firefox-nightly = Pagina de primièr lançament de { -brand-name-firefox-nightly }
+nightly-firstrun-thank-you-for-using = Mercés d’utilizar { -brand-name-firefox-nightly }
 nightly-firstrun-test = Testar
 nightly-firstrun-start-testing = Començatz de testar
 nightly-firstrun-code = Encodar
