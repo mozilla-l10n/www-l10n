@@ -26,6 +26,7 @@ firefox-all-learn-about-firefox = Ne saber mai suls navegadors { -brand-name-fir
 #   $platform (string) e.g. Windows, macOS, Linux
 #   $locale(string) e.g. English (US), German, French
 firefox-all-download-product-for = Telecargar { $product_label } per { $platform } en { $locale }
+firefox-all-which-version = Quala version volètz ?
 firefox-all-select-your-preferred-language = Causissètz vòstra lenga preferida
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }

@@ -10,7 +10,14 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-inspector = Examinar
+firefox-developer-console = Consòla
+firefox-developer-network = Ret
+firefox-developer-performance = Performanças
+firefox-developer-memory = Memòria
 firefox-developer-style-editor = Editor d'estil
+firefox-developer-new-tools = Aisinas novèlas
+firefox-developer-inactive-css = CSS inactiu
 firefox-developer-built-for-developers = Concebut pels desvolopaires
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } manda automaticament des informations a { -brand-name-mozilla }.
 firefox-developer-congrats-you-now-have-firefox = Felicitacions, utilizatz ara { -brand-name-firefox-quantum } : { -brand-name-developer-edition }.
