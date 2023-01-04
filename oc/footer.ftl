@@ -19,20 +19,26 @@ footer-monitor = { -brand-name-monitor }
 footer-send = { -brand-name-send }
 # Outdated string
 footer-pocket = { -brand-name-pocket }
+footer-developers = Desvolopaires
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-mozilla = { -brand-name-mozilla }
+footer-company = Entrepresa
 # Outdated string
 footer-about = A prepaus
 footer-press-center = Centre de premsa
+footer-careers = Emplecs
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
+footer-tools = Aisinas
 footer-resources = Ressorsas
 footer-support = Assisténcia
+footer-file-a-bug = Senhalar una avaria
 footer-websites-cookies = Cookies
 footer-websites-legal = Mencions legalas
 footer-language = Lenga
+footer-donate = Far un don
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

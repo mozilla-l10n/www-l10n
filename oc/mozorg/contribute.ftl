@@ -15,6 +15,7 @@ contribute-tag-support = Assisténcia
 
 ## Mission
 
+contribute-donate = Far un don
 
 ## Made by
 

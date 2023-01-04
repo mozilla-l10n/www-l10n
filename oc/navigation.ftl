@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-firefox-built-just-for = { -brand-name-firefox }, concebut sonque pels desvolopaires.
 navigation-support = Assisténcia
+navigation-developers = Desvolopaires
 navigation-resources = Ressorsas
 navigation-resources-for-developers = Ressorsas pels quites desvolopaires.
+navigation-careers = Emplecs
+navigation-donate = Far un don
 navigation-release-notes = Nòtas de version
 navigation-features = Foncionalitats
 navigation-products = Logicials

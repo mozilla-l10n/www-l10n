@@ -11,7 +11,9 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-style-editor = Editor d'estil
+firefox-developer-built-for-developers = Concebut pels desvolopaires
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } manda automaticament des informations a { -brand-name-mozilla }.
 firefox-developer-congrats-you-now-have-firefox = Felicitacions, utilizatz ara { -brand-name-firefox-quantum } : { -brand-name-developer-edition }.
+firefox-developer-made-for-developers = Lo navegador concebut pels desvolopaires
 firefox-developer-congrats-you-now-have = Felicitacions, utilizatz ara { -brand-name-firefox-browser } : { -brand-name-developer-edition }.
 firefox-developer-congrats-you-now-have-latest = Felicitacion. Avètz ara la darrièra version de { -brand-name-firefox-browser } { -brand-name-developer-edition }.
