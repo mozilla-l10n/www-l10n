@@ -21,6 +21,12 @@ nightly-whatsnew-if-you-want-to = جے تساں ڄاݨݨ چاہندے او جو 
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v2 = ڄاݨݨ چاہندے او جو پلیٹ فارم دیاں کیڑھیاں خصوصیات تساں { -brand-name-nightly } تے جانچ سڳدے او تے ہݨ تائیں ٻئے { -brand-name-firefox } چینلز تے نہیں ݙیکھ سڳدے؟ وت <a { $attrs }> رات دے تجربات </a> دیاں ترجیحاں دے ورقے تے ہک نظر مارو۔
+# Obsolete
+# Variables:
+#   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
+nightly-whatsnew-want-to-know-which =
+    ڄاݨݨ چاہندے او جو پلیت فارم دیاں کیڑھیاں خصوصیات تساں { -brand-name-nightly } تے جانچ سڳدے او ہݨ تائیں ٻئے { -brand-name-firefox } چینلز تے نہیں ݙیکھ سڳدے؟ ول <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr> تے 
+     <a href="{ $mdn }"> تجزیاتی خصوصیات </a> ورقہ تے ہک نظر مارو ۔
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = کیا تساں کریشز دا تجربہ کریندے او؟ غیر متوقع رویہ؟ ویب مطابقت پذیری؟ اساں انہاں کوں <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> وِچ فائل کراوݨ پسند کریسو تاں جو ایہ یقینی بݨایا ونڄ سڳے جو او حتمی ریلیز تائیں نہیں پڄ سڳدے (اضافی کرما جے تساں اپݨیاں بگ رپورٹاں وِچ <em> { -brand-name-nightly } کمیونٹی </em> کلیدی لفظ شامل کرو)!

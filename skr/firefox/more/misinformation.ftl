@@ -31,6 +31,10 @@ misinformation-images-captions = بھلا تصویراں تے سرخیاں می�
 misinformation-images-are-powerful = ٹارگٹڈ ڈس انفارمیشن کیتے امیجز ہک ٻہوں ای طاقتور ٹول ہن۔ کیپشن تے منحصر ہے، تاثر کوں بالکل اُپٹھا موڑیا ونڄ سڳدا ہے۔ جے تہاکوں یقین کائنی تاں، ایہ ڄاݨݨ کیتے جو تصویر کوں ٻنہاں سائٹاں تے کیویں بیان کیتا ڳیا ہے، الٹ امیج سرچ کرو۔
 misinformation-how-firefox-helps-heading = غلط معلومات کنوں بچݨ کیتے { -brand-name-firefox } کین٘ویں مدد کریندی ہے
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } ٹریکراں کوں پڑتال وچ رکھیندے:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = جیویں جو پہلے ذکر کیتا ڳئے، ٹریکنگ غلط معلومات دے کھنڈارے وِچ وݙا کردار ادا کریندی ہے۔ <a href="{ $firefox }"><a href="{ $protection }"> بہترین ٹریکنگ پروٹیکشن </a> دے نال { -brand-name-firefox } </a> دا استعمال تریاکل ٹریکرز کوں بلاک کرݨ وِچ مدد کریندا ہے۔ جݙاں تساں ویب براؤز کریندے او تاں ٻہوں سارے مشتہرین تے ٻئے کھیݙکاراں کنوں بطور ڈیفالٹ، تاں جو تساں اپݨے آن لائن ڈیٹا تے دوبارہ کنٹرول حاصل کرو۔
 misinformation-social-media-clean-heading = { -brand-name-firefox } تہاݙیاں سوشل میڈیا فیڈاں کوں ستھرا رکھݨ وچ مدد کریندے:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
