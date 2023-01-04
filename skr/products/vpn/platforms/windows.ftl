@@ -29,4 +29,6 @@ vpn-windows-devices-headline = تہاݙیاں ساریاں ڈیوائساں کی
 #   $devices (number) - number of available devices
 vpn-windows-devices-copy = ہک { -brand-name-mozilla-vpn } سبسکرپشن تہاکوں { $devices } دے آلات تائیں{ -brand-name-windows } کیتے اساݙی محفوظ VPN  سروس تک لامحدود رسائی فراہم کریندی ہے۔ (بشمول { -brand-name-windows }10(، { -brand-name-mac }، { -brand-name-linux }، { -brand-name-android } تے { -brand-name-ios }۔
 vpn-windows-speed-headline = کوئی بینڈ وِتھ پابندیاں کائنی
+vpn-windows-speed-copy = تکھاجی نال ویب کوں سٹریم کرو، کھیݙ کھیݙو، خریداری کرو تے دریافت کرو۔ لامحدود ڈیٹا تے کوئی ہینڈوتھ پابندیاں دے نال، { -brand-name-mozilla-vpn } تہاݙے رستے وِچ نہیں آندا۔
 vpn-windows-log-headline = تہاݙی رازداری ساݙی ترجیح ہے
+vpn-windows-log-copy = { -brand-name-mozilla } کݙاہیں وی ہک بہتر انٹرنیٹ دے پاسے کم کرݨ بند کائنا کریسے جیڑھا تہاݙی رازداری کوں موہر رکھیندا ہے۔ ایہا وجہ ہے جو { -brand-name-mozilla-vpn } تہاݙے بارے کوئی ڈیٹا کٹھا نہیں کریندا یا تہاݙی آن لائن سرگرمی کوں لاگ نہیں کریندا — اساݙیاں کوئی وی بݨتراں ایں نہیں کریندیاں۔

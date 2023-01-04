@@ -9,6 +9,9 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } گھنو
 vpn-shared-waitlist-link = تانگھ تندیر نال رلت کرو
 vpn-shared-sign-in-link = بھلا پہلے ہی سبسکرائبر ہو؟
+# Outdated string
+vpn-shared-available-countries-v4 = اساں فی الحال آسٹریا، بیلجیم، کینیڈا، فرانس، جرمنی، آئرلینڈ، اٹلی، ملائیشیا، ہالینڈ، نیوزی لینڈ، سنگاپور، اسپین، سوئٹزر لینڈ، برطانیہ تے امریکہ وِچ { -brand-name-mozilla-vpn } پیش کریندے ہیں۔
+vpn-shared-available-countries-v5 = اساں فی الحال { -brand-name-mozilla-vpn } آسٹریا، بیلجیم، کینیڈا، فن لینڈ، فرانس، جرمنی، آئرلینڈ، اٹلی، ملائیشیا، ہالینڈ، نیوزی لینڈ، سنگاپور، اسپین، سویڈن، سوئٹزرلینڈ، برطانیہ، تے امریکہ وِچ پیش کریندے پئے ہیں۔
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -97,6 +100,10 @@ vpn-shared-platform-cta-headline = آؤ شروع کروں
 vpn-shared-platform-cta-button = قیمتاں تے دستیابی ݙیکھو
 vpn-shared-platform-privacy-promise = تہاݙی رازداری ساݙا وعدہ ہے
 vpn-shared-platform-trust-partner-headline = ساݙے قابل اعتماد بھائیوال بارے
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } <a href="{ $policy }">{ -brand-name-mullvad }</a> دے ذریعے تقویت یافتہ سرورز دے عالمی نیٹ ورک تے چلدا ہے <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® دا استعمال کریندے ہوئے۔ { -brand-name-mullvad } تہاݙی رازداری کوں سبھ توں پہلے رکھیندا ہے تے کہیں وی ونکی دے لاگ کوں نہیں رکھیندا۔
 vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } نال تساں کیا گھنسو:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
@@ -117,6 +124,9 @@ vpn-subnav-subscribe = { -brand-name-mozilla-vpn } سب سکرایب کرو
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = اساں ایہ سمجھݨ کیتے کوکیاں دا استعمال کریندے ہیں جو کیڑھا لڳدڑ پارٹنر تہاکوں { -brand-name-mozilla-vpn } تائیں گھن ڳیا ہے۔ اساں اپݨے شراکت داراں دے نال ذاتی طور تے سنڄاݨ کرݨ والی معلومات دی سانجھ نہیں کریندے۔ اساݙی  <a { $attrs }> رازداری دی پالیسی </a> پڑھو۔
 vpn-shared-affiliate-notification-reject = مسترد کرو
 vpn-shared-affiliate-notification-ok = ٹھیک ہے
 
