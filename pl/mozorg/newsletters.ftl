@@ -33,7 +33,7 @@ newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } porusza wiele
 newsletters-open-your-inbox-and-your = Jeszcze bardziej otwórz swoją skrzynkę (i swoje serce) — zobacz, jakie tematy omawiamy.
 newsletters-manage-your-email-preferences = Zarządzanie ustawieniami poczty
 newsletters-this-page-is-in-maintenance = Trwają prace techniczne i strona jest tymczasowo niedostępna.
-newsletters-to-update-your-email-preferences = Aby uaktualnić ustawienia e-mail, proszę odświeżyć stronę za jakiś czas. Dziękujemy!
+newsletters-to-update-your-email-preferences = Aby uaktualnić ustawienia e-mail, odśwież stronę za jakiś czas. Dziękujemy!
 newsletters-we-love-sharing-updates = Kochamy dzielić się informacjami o wszystkich ciekawych rzeczach dziejących się w { -brand-name-mozilla(case: "loc") }.
 newsletters-set-your-preferences-below = Wybierz odpowiednie ustawienia, aby zawsze otrzymywać tylko interesujące informacje.
 # Form field label
@@ -105,6 +105,7 @@ newsletters-you-send-too-many-emails = Przychodziło do mnie za dużo poczty.
 newsletters-your-content-wasnt-relevant = Treść mnie nie interesowała.
 newsletters-your-email-design = E-maile nie były przejrzyste i czytelne.
 newsletters-i-didnt-sign-up = Subskrypcja nie została zamówiona przeze mnie.
+newsletters-please-select-a-reason = Wybierz powód anulowania subskrypcji.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ten adres e-mail nie jest obecny w naszym systemie. Proszę sprawdzić poprawność adresu lub przejść do <a href="{ $url }">subskrypcji biuletynu</a>.
