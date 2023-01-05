@@ -44,7 +44,7 @@ compare-shared-security-and-privacy-strong = سلامتی تے <strong>رازد�
 compare-shared-utility-strong = <strong>افادیت</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>پورٹیبلٹی</strong>
-compare-shared-overall-assessment = مجموعی چان٘چ
+compare-shared-overall-assessment = مجموعی جان٘چ
 compare-shared-the-comparisons-made-here-updated = اتھاں کیتا ڳیا موازنہ طے شدہ ترتیباں دے نال تے براؤزر دے ریلیز ورژن وِچ ہیٹھ درج دے نال کیتا ڳیا ہا:
 # Obsolete string
 compare-shared-the-comparisons-made-here = اتھاں کیتا ڳیا موازنہ براؤزر دے ریلیز ورژن وِچ ہیٹھ درج دے مطابق کیتا ڳیا ہا:
