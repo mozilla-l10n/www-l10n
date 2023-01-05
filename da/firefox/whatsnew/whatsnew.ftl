@@ -13,9 +13,11 @@ whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification-v2 = Tillykke! Du benytter den seneste version af { -brand-name-firefox }.
 # Obsolete string
 whatsnew-up-to-date-notification = Tillykke! Du benytter den seneste version af { -brand-name-firefox-browser }.
-whatsnew-out-of-date-notification-v2 = En endnu nyere { -brand-name-firefox } er tilgængelig. Genstart for at opdatere.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+whatsnew-out-of-date-notification-v3 = En endnu nyere version af { -brand-name-firefox } er tilgængelig. <a href="{ $url }">Opdater til den seneste version</a>
 # Obsolete string
-whatsnew-out-of-date-notification = En endnu nyere { -brand-name-firefox-browser } er tilgængelig. Genstart for at opdatere.
+whatsnew-out-of-date-notification-v2 = En endnu nyere { -brand-name-firefox } er tilgængelig. Genstart for at opdatere.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Læs <a href="{ $url }">udgivelsesnoterne</a> for at lære mere om nyhederne i din { -brand-name-firefox }-browser.
