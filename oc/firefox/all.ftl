@@ -8,6 +8,7 @@
 firefox-all-release-notes = Nòtas de version
 firefox-all-source-code = Còde font
 firefox-all-need-help = Besonh d’ajuda ?
+firefox-all-which-browser-would = Quin navegador volètz telecargar ?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Obténer d’ajuda
 firefox-all-you-are-about-to-download = Sètz a mand de telecargar :
@@ -21,6 +22,7 @@ firefox-all-32-bit-installers = Installadors 32-bit
 firefox-all-download-the-firefox = Telecargatz lo { -brand-name-firefox-browser } en occitan e dins mai de 90 lengas
 firefox-all-choose-which-firefox = Causissètz quin { -brand-name-firefox-browser } volètz telecargar dins vòstra lenga
 firefox-all-learn-about-firefox = Ne saber mai suls navegadors { -brand-name-firefox }
+firefox-all-product-send-link = Enviar un ligam de telecargar al vòstre telefòn
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux

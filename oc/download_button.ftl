@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-download-button-download-now = Telecargar lo PDF
+download-button-download-now = Telecargar ara
 download-button-free-download = Telecargament gratuit
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
@@ -34,4 +34,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> per { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> per { -brand-name-ios }
 download-button-firefox-privacy = Politica de confidencialitat de { -brand-name-firefox }
+download-button-firefox-privacy-notice = Politica de confidencialitat de { -brand-name-firefox }
 download-button-download = Telecargament
