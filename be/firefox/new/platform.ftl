@@ -29,7 +29,7 @@ new-platform-faster-page-loading-linux = Хутчэйшая загрузка с�
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } для { -brand-name-linux }
 new-platform-privacy-more-than = Прыватнасць — больш, чым проста палітыка
-new-platform-your-life-your-business = Ваша жыццё, ваш справа. { -brand-name-firefox } блакуе староннія кукі сачэння на { -brand-name-linux }.
+new-platform-your-life-your-business = Ваша жыццё, ваш справа. { -brand-name-firefox } блакуе трэцебаковыя кукі сачэння на { -brand-name-linux }.
 new-platform-speed-meet-security = Хуткасць, сустракай бяспеку. { -brand-name-firefox } удвая хутчэйшы і спажывае на 30% менш памяці, чым { -brand-name-chrome }.
 new-platform-open-source = Адкрыты зыходны код
 new-platform-look-under-the-hood = Зазірніце пад капот. Як і { -brand-name-linux }, { -brand-name-firefox } мае адкрыты зыходны код.
@@ -44,7 +44,7 @@ new-platform-download-the-fastest-mac = Сцягніце найхутчэйшы 
 # /firefox/mac/ social sharing description
 new-platform-faster-page-loading-mac = Хутчэйшая загрузка старонак, меншае спажыванне памяці, і мноства функцый, новы { -brand-name-firefox } для { -brand-name-mac-short } ужо тут.
 new-platform-privacy-comes-first = Прыватнасць на першым месцы
-new-platform-firefox-doesnt-spy = { -brand-name-firefox } не шпіёніць за пошукам. Мы затрымліваем староннія кукі сачэння і даем вам поўны кантроль.
+new-platform-firefox-doesnt-spy = { -brand-name-firefox } не шпіёніць за пошукам. Мы затрымліваем трэцебаковыя кукі сачэння і даем вам поўны кантроль.
 new-platform-get-speed-and-security = Атрымайце хуткасць і бяспеку. { -brand-name-firefox } хуткі на { -brand-name-mac-short }, таму што не асочвае вашы рухі.
 new-platform-block-trackers = Блакуйце трэкеры
 new-platform-be-the-master-of-your = Будзь гаспадаром у сваёй вобласці з строгім блакаваннем змесціва. Прыбяры ўсе кукі і трэкеры.
