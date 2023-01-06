@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Загрузить { -brand-name-firefox }
 navigation-get-a-firefox-account = Создать { -brand-name-firefox-account }
@@ -103,7 +103,7 @@ navigation-make-devices-connected = Обеспечьте безопасное, �
 navigation-developers = Разработчикам
 navigation-close-developers-menu = Закрыть меню «Разработчикам»
 navigation-test-soon-to-be-released = Протестируйте близкие к релизу возможности в наших наиболее стабильных предрелизных сборках.
-navigation-developer-innovations = Инновации для разработчиков
+navigation-developer-innovations = Новшества для разработчиков
 navigation-projects-that-help-keep = Проекты, которые поддерживают Интернет открытым и доступным для всех и каждого.
 navigation-mixed-reality = Смешанная реальность
 navigation-resources = Ресурсы

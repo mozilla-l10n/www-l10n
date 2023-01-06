@@ -33,15 +33,14 @@ firefox-desktop-download-no = Нет
 firefox-desktop-download-blocks-third-party = Блокировка кук сторонних трекеров
 firefox-desktop-download-blocks-third-party-default = Блокировка кук сторонних трекеров по умолчанию
 firefox-desktop-download-autoplay-blocking = Блокировка автовоспроизведения
-firefox-desktop-download-blocks-social-trackers = Блокировка трекеров социальных сетей
+firefox-desktop-download-blocks-social-trackers = Блокировка трекеров соцсетей
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Доступность на ОС
-firefox-desktop-download-in-browser-screenshot = Встроенный инструмент для создания скриншотов
+firefox-desktop-download-in-browser-screenshot = Встроенный инструмент для создания снимков экрана
 firefox-desktop-download-primary-password = Основной пароль
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Полюбите свою жизнь в Интернете
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Это ваш Интернет. Раскрасьте его с помощью тысяч инструментов, тем и расширений. { -brand-name-firefox } — оригинальный альтернативный браузер, который ставит людей выше прибыли.
 # Obsolete string
 firefox-desktop-download-master-password = Основной пароль
@@ -62,7 +61,7 @@ firefox-desktop-download-smart-search-suggestions = Умные поисковы�
 firefox-desktop-download-bookmark-history = Закладки, история и открытые вкладки в результатах
 firefox-desktop-download-boost-your = Повысьте свою продуктивность
 firefox-desktop-download-works-with-google = Работает с продуктами { -brand-name-google }
-firefox-desktop-download-built-in-screenshot = Встроенный инструмент для создания скриншотов
+firefox-desktop-download-built-in-screenshot = Встроенный инструмент для создания снимков экрана
 firefox-desktop-download-bookmarks-manager = Менеджер закладок
 firefox-desktop-download-autosuggest-urls = Автодополнение URL
 firefox-desktop-download-sync-across-devices = Синхронизация между устройствами
@@ -99,7 +98,7 @@ firefox-desktop-download-extensions-for-every = Расширения на люб
 firefox-desktop-download-change-up-your = Изменяйте внешний вид браузера
 firefox-desktop-download-go-from-light = Переходите со светлой темы на тёмную в зависимости от вашего настроения и предпочтений или украсьте свой мир с помощью собственной темы (например, радужного единорога).
 firefox-desktop-download-tweak-your-settings = Изменяйте свои настройки
-firefox-desktop-download-theres-no-need = Не нужно приспосабливаться. Измените страницу новой вкладки, панель поиска, закладки и многое другое, чтобы работать в Интернете так, как вам нравится.
+firefox-desktop-download-theres-no-need = Не нужно приспосабливаться. Измените страницу новой вкладки, строку поиска, закладки и многое другое, чтобы работать в Интернете так, как вам нравится.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = При поддержке <strong>некоммерческой организации</strong>, которая ставит людей на первое место
 firefox-desktop-download-challenging-the-status = Бросаем вызов статусу-кво с 1998 года
@@ -113,7 +112,7 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = <a { $attrs }>Загрузите это расширение</a>, чтобы запретить { -brand-name-facebook(case: "dative") } (и { -brand-name-instagram(case: "dative") }) следить за вами в Интернете.
 firefox-desktop-download-sync-your-devices = Синхронизируйте свои устройства
-firefox-desktop-download-screenshots = Скриншоты
+firefox-desktop-download-screenshots = Снимки экрана
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Улучшенная защита от отслеживания (ETP)
 firefox-desktop-download-from-watching-a = От просмотра обучающего материала до наблюдения за игрой любимой команды — смотрите видео, пока выполняете другие задачи.
@@ -137,7 +136,7 @@ firefox-desktop-download-as-the-internet = По мере того, как рас
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } доступен для всех ваших устройств; возьмите вкладки, историю и закладки с собой. Всё, что для этого нужно — <a { $attrs }>аккаунт { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Сделайте качественный снимок любого сайта в Интернете с помощью нашего инструмента <a { $attrs }>Скриншоты</a>, встроенного прямо в браузер.
+firefox-desktop-download-grab-a-high = Сделайте качественный снимок любого сайта в Интернете с помощью нашего инструмента <a { $attrs }>Снимок экрана</a>, встроенного прямо в браузер.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } автоматически блокирует сбор и продажу ваших действий в Интернете <a { $attrs }>большинством сторонних трекеров</a>.

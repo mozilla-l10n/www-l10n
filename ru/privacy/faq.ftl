@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -30,6 +30,7 @@ privacy-faq-wait-so-how-do-you-make-money = Подождите, но как же
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } не является рядовой организацией. Основанная в 1998 году, как открытый проект сообщества, { -brand-name-mozilla } руководствуется миссией, направленной на сохранение здорового Интернета. Основным доходом { -brand-name-mozilla-corporation } являются средства, полученные от партнёрства с провайдерами поиска в веб-браузере { -brand-name-firefox } и сделок по распространению по всему миру. Вы можете узнать подробности о нашем доходе, ознакомившись с нашим <a href="{ $link }">ежегодным финансовым отчетом</a>.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ладно, предыдущие несколько вопросов были для разогрева. Какие данные вы собираете?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
@@ -40,7 +41,7 @@ privacy-faq-we-make-our-documentation-public = Мы сохраняем нашу 
 privacy-faq-that-documentation-is-gobbledygook = Ваша документация сложна для понимания! Не могли бы вы объяснить её понятным, простым языком?
 privacy-faq-there-are-two-categories-of = Существует два типа данных, которые мы собираем с помощью релизной версии { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = Первый тип мы называем "техническими данными". Это данные о самом браузере, такие как используемая операционная система, информация об ошибках и падениях.
-privacy-faq-the-second-is-what-we-call-interaction = Второй тип — "данные взаимодействия". Это данные об индивидуальном взаимодействии с { -brand-name-firefox }, например, количество открытых вкладок, состояние пользовательских настроек, или количество использований определенных функций браузера, таких как скриншоты или мультиаккаунтовые контейнеры. Например, мы собираем данные об использовании кнопки «назад», находящейся в левом верхнем углу браузера, при нажатии которой мы видим, что кто-то воспользовался ею, но данные о том, какие именно страницы были открыты, не передаются.
+privacy-faq-the-second-is-what-we-call-interaction = Второй тип — «данные для взаимодействия». Это данные об индивидуальном взаимодействии с { -brand-name-firefox }, например, количество открытых вкладок, состояние пользовательских настроек, или количество использований определённых функций браузера, таких как снимки экрана или многоаккаунтовые контейнеры. Например, мы собираем данные об использовании кнопки «назад», находящейся в левом верхнем углу браузера, при нажатии которой мы видим, что кто-то воспользовался ею, но данные о том, какие именно страницы были открыты, не передаются.
 privacy-faq-do-you-collect-more-data-in = Вы собираете больше данных в тестовых сборках { -brand-name-firefox }?
 privacy-faq-sort-of-in-addition-to-the-data = В определенной степени. Кроме данных, описанных выше, в тестовых сборках { -brand-name-firefox } сообщения о падениях и ошибках отправляются автоматически.
 # Variables:

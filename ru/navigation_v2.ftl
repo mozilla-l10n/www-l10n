@@ -74,8 +74,8 @@ navigation-v2-more-about-mozilla = Подробнее о { -brand-name-mozilla }
 
 ## Innovation menu
 
-navigation-v2-innovation = Инновации
-navigation-v2-close-innovation-menu = Закрыть меню «Инновации»
+navigation-v2-innovation = Новшества
+navigation-v2-close-innovation-menu = Закрыть меню «Новшества»
 navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-gather-in-this-interactive-online = Соберитесь в этом интерактивном многомерном социальном пространстве онлайн.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }

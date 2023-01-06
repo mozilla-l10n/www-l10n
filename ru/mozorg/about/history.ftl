@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = История проекта { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Проект { -brand-name-mozilla } был <a href="{ $coderush }">создан в 1998 году</a> одновременно с <a href="{ $sourcerelease }">открытием исходного кода браузера { -brand-name-netscape }</a>.
 history-it-was-intended-to-harness = Он был призван использовать творческую энергию тысяч программистов в Интернете и зажег беспрецедентный уровень инноваций на рынке браузеров.
@@ -49,7 +49,7 @@ history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox 
 history-new-versions-of-firefox = С тех пор регулярно выходят новые версии { -brand-name-firefox }, которые продолжают ставить новые рекорды. Популярность { -brand-name-firefox } помогла вернуть возможность выбора пользователям.
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
-history-the-renewed-competition = Возобновившаяся конкуренция <a href="{ $innovation }">ускорила инновации</a> и улучшила Интернет для всех и каждого.
+history-the-renewed-competition = Возобновившаяся конкуренция <a href="{ $innovation }">ускорила новшества</a> и улучшила Интернет для всех и каждого.
 # Variables:
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
 history-in-2013-we-launched-firefox = В 2013 году мы выпустили <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a>, чтобы высвободить полную силу Интернета на смартфонах и ещё раз предложить контроль и выбор новому поколению людей, которые приходят в сеть.

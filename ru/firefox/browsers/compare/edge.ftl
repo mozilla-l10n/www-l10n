@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
@@ -40,7 +40,7 @@ compare-edge-firefox-and-edge-both-offer = И { -brand-name-firefox }, и { -bra
 compare-edge-firefox-and-edge-both-offer-fallback = И { -brand-name-firefox }, и { -brand-name-edge } обладают отличными режимами чтения. С { -brand-name-firefox } вы просто нажимаете на маленький значок в строке поиска, и браузер удаляет все ненужные элементы и отображает вам статью, которая выглядит аккуратно. В { -brand-name-edge } вы просто нажимаете на небольшой значок книги, и браузер переключается в чистый интерфейс для лёгкого чтения.
 # Variables:
 #   $attrs (string) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop with additional attributes for analytics
-compare-edge-firefox-also-includes-lots = { -brand-name-firefox } по умолчанию также имеет множество удобных встроенных функций, таких как <a { $attrs }>Улучшенная защита от отслеживания</a>, встроенный инструмент для создания скриншотов, отправка больших файлов и многих других.
+compare-edge-firefox-also-includes-lots = { -brand-name-firefox } по умолчанию также имеет множество удобных встроенных функций, таких как <a { $attrs }>«Улучшенная защита от отслеживания»</a>, встроенный инструмент для создания снимков экрана, отправка больших файлов и многих других.
 # "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
 compare-edge-out-of-the-gate-firefox-has = Совершенно неожиданно { -brand-name-firefox } включает больше функций и интеграций, встроенных в браузер и легко доступных для загрузки. И хотя в обоих браузерах доступно огромное количество надстроек и расширений, совместимость { -brand-name-edge } с платформой { -brand-name-google } { -brand-name-chromium } даёт ему преимущество по чистому количеству.
 compare-edge-with-internet-explorer-microsoft = Создав { -brand-name-ie }, { -brand-name-microsoft } извлекла уроки из его отсутствия на различных платформах и сделала { -brand-name-edge } доступным на { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac } и вскоре выпустит для { -brand-name-linux }.

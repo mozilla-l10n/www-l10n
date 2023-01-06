@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
@@ -20,7 +20,7 @@ compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Политика при
 compare-opera-as-far-as-actual-privacy-protections = Что касается фактической защиты приватности в браузере { -brand-name-opera }, в нём есть надёжный Приватный режим, который позволяет вам просматривать веб-страницы без отслеживания браузером ваших действий. Также в обычном режиме просмотра вы можете отключить некоторые функции сбора данных, покопавшись в настройках, чтобы включить блокировку рекламы и настроить другие функции безопасности.
 # Variables:
 #   $attrs (string) - link to https://blog.mozilla.org/blog/2019/09/03/todays-firefox-blocks-third-party-tracking-cookies-and-cryptomining-by-default/ with additional attributes for analytics
-compare-opera-with-the-latest-version-of = В последней версии { -brand-name-firefox } <a { $attrs }>Улучшенная защита от отслеживания</a> включена по умолчанию в обычном режиме работы браузера, поэтому вам не придется возиться с настройками, чтобы просто обезопасить себя от трекеров. Благодаря Улучшенной защите от отслеживания, { -brand-name-firefox } активно блокирует тысячи сторонних трекеров, которые пытаются следить за вами в Интернете. Вам предоставляется персонализированный отчёт о защите, который показывает, как часто { -brand-name-firefox } блокировал сторонние куки, трекеры социальных сетей, сборщики цифровых отпечатков и криптомайнеры при просмотре веб-страниц.
+compare-opera-with-the-latest-version-of = В последней версии { -brand-name-firefox } <a { $attrs }>«Улучшенная защита от отслеживания»</a> включена по умолчанию в обычном режиме работы браузера, поэтому вам не придется возиться с настройками, чтобы просто обезопасить себя от трекеров. Благодаря Улучшенной защите от отслеживания, { -brand-name-firefox } постоянно блокирует тысячи сторонних трекеров, которые пытаются следить за вами в Интернете. Вам предоставляется персонализированный отчёт о защите, который показывает, как часто { -brand-name-firefox } блокировал сторонние куки, трекеры соцсетей, сборщики цифровых отпечатков и криптомайнеры при просмотре сети.
 compare-opera-we-make-firefox-for-people = Мы делаем { -brand-name-firefox } для таких людей, как вы, которые серьёзно заботятся о приватности и безопасности. Вот почему мы собираем так мало информации о пользователях и открыто говорим о том, как мы используем эту информацию. Трудно понять, как действует { -brand-name-opera } с точки зрения приватности. Несмотря на наличие надежных функций приватности, то, как они сами собирают и передают ваши данные, неясно. { -brand-name-firefox } остается неизменным в том, что мы говорим и что делаем для защиты вашей приватности.
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
