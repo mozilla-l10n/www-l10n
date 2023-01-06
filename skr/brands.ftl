@@ -9,20 +9,20 @@
 
 ## Company names
 
--brand-name-amazon = ایمازون
--brand-name-apple = ایپل
+-brand-name-amazon = Amazon
+-brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
--brand-name-google = گوگل
--brand-name-hulu = ہولو
+-brand-name-google = Google
+-brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-mullvad = مُلواد
 -brand-name-netscape = Netscape
--brand-name-twitter = ٹویٹر
+-brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
