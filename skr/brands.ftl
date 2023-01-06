@@ -30,29 +30,29 @@
 
 ## Firefox browsers
 
--brand-name-firefox = فائرفوکس
--brand-name-firefox-beta = فائرفوکس بیٹا
--brand-name-firefox-browser = فائرفوکس براؤزر
--brand-name-firefox-browsers = فائرفوکس براؤزر
--brand-name-firefox-developer-edition = فائرفوکس ڈویلپر ایڈیشن
--brand-name-firefox-enterprise = فائرفوکس انٹرپرائز
+-brand-name-firefox = Firefox
+-brand-name-firefox-beta = Firefox Beta
+-brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browsers = Firefox Browsers
+-brand-name-firefox-developer-edition = Firefox Developer Edition
+-brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
--brand-name-firefox-focus = فائرفوکس فوکس
--brand-name-firefox-lite = فائڑفوکس لائٹ
--brand-name-firefox-nightly = فائرفوکس نائٹلی
+-brand-name-firefox-focus = Firefox Focus
+-brand-name-firefox-lite = Firefox Lite
+-brand-name-firefox-nightly = Firefox Nightly
 -brand-name-firefox-reality = Firefox Reality
 -brand-name-firefox-daylight = Firefox Daylight
 
 ## Firefox browsers (short names)
 
--brand-name-beta = بیٹا
--brand-name-developer-edition = تخلیق کار ایڈیشن
--brand-name-enterprise = انٹرپرائز
+-brand-name-beta = Beta
+-brand-name-developer-edition = Developer Edition
+-brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
 -brand-name-focus = Focus
--brand-name-lite = لائٹ
--brand-name-nightly = نائٹلی
+-brand-name-lite = Lite
+-brand-name-nightly = Nightly
 -brand-name-reality = Reality
 -brand-name-daylight = Daylight
 
@@ -65,14 +65,14 @@
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = فائرفوکس کھاتہ
--brand-name-firefox-accounts = فائرفوکس کھاتے
--brand-name-firefox-devtools = فائرفوکس DevTools
--brand-name-firefox-lockwise = فائرفوکس لاک وائز
--brand-name-firefox-monitor = فائرفوکس مانیٹر
+-brand-name-firefox-account = Firefox Account
+-brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-devtools = Firefox DevTools
+-brand-name-firefox-lockwise = Firefox Lockwise
+-brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-sync = Firefox Sync
--brand-name-firefox-relay = فائرفوکس رِیلے
--brand-name-firefox-private-network = فائر فوکس نجی نیٹ ورک
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
@@ -101,7 +101,7 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = Glean
--brand-name-mozilla-common-voice = موزلّا کامن وائس
+-brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-hubs = Mozilla Hubs
@@ -113,7 +113,7 @@
 
 ## Mozilla projects (short names)
 
--brand-name-common-voice = کامن وائس
+-brand-name-common-voice = Common Voice
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
 
@@ -133,8 +133,8 @@
 ## Other browsers
 
 -brand-name-brave = Brave
--brand-name-chrome = کروم
--brand-name-edge = ایج
+-brand-name-chrome = Chrome
+-brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
