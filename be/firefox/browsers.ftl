@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Сцягніце { -brand-name-firefox } для камп'ютараў, мабільных прылад або прадпрыемстваў
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Атрымайце браўзеры, якія ставяць вашу прыватнасць на першае месца — цяпер і заўжды.
 # HTML page description
+firefox-browsers-page-desc = Выберыце версію для камп'ютара, { -brand-name-ios }, { -brand-name-android }, або дазвольце нам адправіць спасылку для сцягвання па электроннай пошце.
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Атрымайце прыватнасць, якую вы заслугоўваеце. Узмоцненая ахова ад сачэння аўтаматычная ў кожным браўзеры { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Атрымайце <strong>браўзеры</strong>, якія ставяць вашу прыватнасць на першае месца — цяпер і заўжды.

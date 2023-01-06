@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: браўзер для прыватнасці
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } — браўзер, засяроджаны на прыватнасці, з аўтаматычнай аховай ад сачэння.
 # Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } — браўзер, засяроджаны на прыватнасці, з аўтаматычнай аховай ад сачэння і блакіроўкай рэкламы.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
