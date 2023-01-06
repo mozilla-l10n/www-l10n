@@ -5,6 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/
 
-home-mr2-promo-title = چنگے خیالات تے واپس ون٘ڄو – تکھیرے
+home-mr2-promo-title = چنڳے خیالات تے واپس ون٘ڄو – تکھیرے
 # CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 home-mr2-promo-cta = نویں { -brand-name-firefox } گھنو
