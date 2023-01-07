@@ -13,6 +13,7 @@ misinformation-false-info-heading = Дзе можна сустрэць непр�
 misinformation-look-at-url = Паглядзіце на URL-адрас і/або крыніцу.
 misinformation-overly-sensational = Загаловак занадта сенсацыйны?
 misinformation-content-up-to-date = Ці не састарэла інфармацыя?
+misinformation-authors-name = Калі вы сустракаеце імя аўтара толькі на сумнеўных сайтах, не варта надаваць занадта вялікага значэння яго выказванням.
 misinformation-images-captions = Ці адпавядаюць подпісу відарысы?
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } блакіруе трэкеры:
 misinformation-why-trust-firefox = Чаму варта давяраць { -brand-name-firefox }?
