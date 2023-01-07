@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -29,8 +29,12 @@ firefox-privacy-hub-no-secrets = 绝不隐瞒
 firefox-privacy-hub-youll-always-know-where-you = 我们的一切，公开透明
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = 我们行事光明磊落，运营过程并不依赖于暗中滥用您对我们的信任。我们的<a href="{ $privacy }">隐私声明</a>通俗易懂。若您想了解我们收集的数据点，那么所有代码都是公开的，我们也同样开诚布公。
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
-firefox-privacy-hub-theres-no-hidden-agenda-here = 这里没有不成文的规定。我们的运营并不依赖于暗中滥用您对我们的信任。我们的<a href="{ $privacy }">隐私声明</a>通俗易懂；任何人都能参与我们的<a href="{ $meetings }">公司内部周会</a>。若您想了解我们收集的每一个数据点，代码是公开的的，我们也是。
+firefox-privacy-hub-theres-no-hidden-agenda-here = 我们行事光明磊落，运营过程并不依赖于暗中滥用您对我们的信任。我们的<a href="{ $privacy }">隐私声明</a>通俗易懂，任何人都能参与我们的<a href="{ $meetings }">公司内部周会</a>。若您想了解我们收集的数据点，那么所有代码都是公开的，我们也同样开诚布公。
 firefox-privacy-hub-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
