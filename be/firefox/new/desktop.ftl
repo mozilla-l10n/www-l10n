@@ -106,12 +106,12 @@ firefox-desktop-download-your-privacy-comes = Ваша прыватнасць н
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Захавайце ўсе свае любімыя функцыі браўзера — і <strong>адкрывайце</strong> новыя.
 # Gmail and Docs are product names and should not be translated
-firefox-desktop-download-all-your-favourite = Усе вашы любімыя інструменты { -brand-name-google } (напрыклад, Gmail і Docs) працуюць у { -brand-name-firefox-browser }.
+firefox-desktop-download-all-your-favourite = Усе вашы любімыя інструменты { -brand-name-google } (напрыклад, Gmail і Docs) працуюць у { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-firefox-desktop-download-download-this-browser = <a { $attrs } >Сцягніце гэта пашырэнне для браўзера</a>, каб { -brand-name-facebook } (і { -brand-name-instagram }) не асочваў вас у Інтэрнэце.
-firefox-desktop-download-sync-your-devices = Сінхранізуйце вашы прылады
+firefox-desktop-download-download-this-browser = <a { $attrs } >Сцягніце гэта пашырэнне для браўзера</a>, каб { -brand-name-facebook } (і { -brand-name-instagram }) не асочваў вас у Інтэрнэце.
+firefox-desktop-download-sync-your-devices = Сінхранізуйце свае прылады
 firefox-desktop-download-screenshots = Здымкі экрана
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Узмоцненая ахова ад сачэння (ETP)
@@ -133,13 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } быў с
 firefox-desktop-download-as-the-internet = Разам з ростам і змяненнем інтэрнэту, { -brand-name-firefox } працягвае засяроджвацца на вашым праве на прыватнасць  — мы называем гэта <a { $attrs }>абяцаннем асабістых дадзеных</a>: Збіраць менш. Захоўваць у бяспецы. Ніякіх сакрэтаў. Вашы дадзеныя, ваша дзейнасць у Інтэрнэце і ваша сеціўнае жыццё абаронены { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } даступны для ўсіх вашых прылад; вазьміце з сабой карткі, гісторыю і закладкі. Усё, што вам трэба, гэта <a { $attrs }>ўліковы запіс { -brand-name-firefox }</a>.
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } даступны для ўсіх вашых прылад; вазьміце з сабой карткі, гісторыю і закладкі. Усё, што вам трэба, гэта <a { $attrs }>ўліковы запіс { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Зрабіце відарыс з высокай разрознасцю з чаго заўгодна ў сеціве з дапамогай нашага інструмента для <a { $attrs }>здымкаў экрана</a>, убудаванага прама ў браўзер
+firefox-desktop-download-grab-a-high = Зрабіце відарыс з высокай разрознасцю з чаго заўгодна ў сеціве з дапамогай нашага інструмента для <a { $attrs }>здымкаў экрана</a>, убудаванага прама ў браўзер
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аўтаматычна <a { $attrs }>блакуе мноства трэцебаковых трэкераў</a> ад збору і продажу звестак аб вашай дзейнасці ў Інтэрнэце.
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аўтаматычна <a { $attrs }>блакуе мноства трэцебаковых трэкераў</a> ад збору і продажу звестак аб вашай дзейнасці ў Інтэрнэце.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Пытанні? <a { $attrs }>Падтрымка { -brand-name-mozilla }</a> мае адказы.
