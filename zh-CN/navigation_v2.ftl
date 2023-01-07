@@ -69,6 +69,7 @@ navigation-v2-work-for-a-mission-driven-updated = 在一家以使命为驱动，
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 博客
 navigation-v2-learn-about-mozilla-and = 了解 { -brand-name-mozilla } 以及我们所关注的议题。
 navigation-v2-stories = 故事
+navigation-v2-stories-about-how = 来听听我们的员工和产品如何让世界变得更美好。
 navigation-v2-more-about-mozilla = 进一步认识 { -brand-name-mozilla }
 
 ## Innovation menu

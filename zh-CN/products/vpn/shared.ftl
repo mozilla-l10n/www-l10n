@@ -134,6 +134,9 @@ vpn-shared-affiliate-notification-ok = 好的
 
 vpn-shared-increase-your-privacy = 订阅 { -brand-name-vpn } + { -brand-name-relay }，增强您的隐私保护
 # Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = 订阅 { -brand-name-firefox-relay }，保护您的电子邮件地址和电话号码。<a href="{ $url }">详细了解</a>。
+# Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = 加入 <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = 马甲邮箱
