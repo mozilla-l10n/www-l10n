@@ -27,3 +27,6 @@ browser-history-by-1993-the-web = До 1993. године интернет је 
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Мозаик је радио на { -brand-name-windows } рачунарима, био је једноставан за коришћење и свакоме ко је имао рачунар давао је приступ раним веб страницама, собама за ћаскање и библиотекама слика. 1994. године, Андресен је основао <a href="{ $netscape }">{ -brand-name-netscape }</a> и објавио { -brand-name-netscape } Navigator за јавност. Био је изузетно успешан и први прегледач за јавност. То је био и први корак у новој врсти рата за кориснике интернета.
 browser-history-the-browser-wars = Ратови прегледача
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = До 1995. { -brand-name-netscape } Navigator није био једини начин да се повежете на мрежу. { -brand-name-microsoft }, гигант компјутерског софтвера, лиценцирао је стари Мозаик код и направио сопствени прозор ка интернету, <a href="{ $ie }">{ -brand-name-ie }</a>. Ово издање је започело рат. { -brand-name-netscape } и { -brand-name-microsoft } су грозничаво радили на стварању нових верзија својих програма, покушавајући да надмаше оног другог бржим и бољим производима.
