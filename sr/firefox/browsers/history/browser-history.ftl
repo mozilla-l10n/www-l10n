@@ -30,3 +30,11 @@ browser-history-the-browser-wars = Ратови прегледача
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = До 1995. { -brand-name-netscape } Navigator није био једини начин да се повежете на мрежу. { -brand-name-microsoft }, гигант компјутерског софтвера, лиценцирао је стари Мозаик код и направио сопствени прозор ка интернету, <a href="{ $ie }">{ -brand-name-ie }</a>. Ово издање је започело рат. { -brand-name-netscape } и { -brand-name-microsoft } су грозничаво радили на стварању нових верзија својих програма, покушавајући да надмаше оног другог бржим и бољим производима.
+# Variables:
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+browser-history-netscape-created = { -brand-name-netscape } је направио и објавио JavaScript, дајући сајтовима моћне рачунарске могућности које раније нису имали. (Такође су направили злогласни <a href="{ $blink }">&lt;blink&gt; таг.) { -brand-name-microsoft } је одговорио са Cascading Style Sheets (CSS), који је постао стандард у дизајнирању сајтова.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = Ствари су мало измакле контроли 1997. године када је { -brand-name-microsoft } објавио { -brand-name-ie } 4.0. Тим је направио огромно слово “е” и кришом га поставио на травњак пред { -brand-name-netscape } седиште. { -brand-name-netscape } тим је срушио огромно “е” и <a href="{ $dino }">ставио своју { -brand-name-mozilla } маскоту диносауруса на њега</a>.
+browser-history-resources = Ресурси
+browser-history-take-control-of = Преузмите контролу над вашим прегледачем.
