@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
@@ -11,3 +11,4 @@ compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } супр�
 compare-edge-compare-microsoft-edge-to-the = Параўнайце { -brand-name-microsoft } { -brand-name-edge } з браўзерам { -brand-name-firefox-browser }, каб даведацца, які браўзер лепшы для вас.
 # Main title.
 compare-edge-comparing-firefox-browser-with = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-here-well-compare-our-firefox = Тут мы параўнаем наш { -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-edge } на аснове { -brand-name-chromium } з пункту гледжання прыватнасці, карыснасці і пераноснасці, каб дапамагчы вам лепш зразумець, які браўзер лепш адпавядае вашым патрэбам і перавагам.
