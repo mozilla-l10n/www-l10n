@@ -34,3 +34,11 @@ compare-safari-in-addition-to-the-regular = { -brand-name-safari } нуди не
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Као и { -brand-name-safari }, { -brand-name-firefox } подстиче своју страствену заједницу програмера да прави <a { $attrs }>додатке</a> за прегледач. А пошто је наша платформа отвореног кода, постоји широк избор са богатом функционалношћу.
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated = Поред тога, када направите { -brand-name-firefox } налог, можете да приступите неким истакнутим услугама које су већ уграђене у прегледачу, као што је <a { $pocket }>{ -brand-name-pocket }</a>. Једним кликом на { -brand-name-pocket } дугме у { -brand-name-firefox }-у вам омогућава да сачувате веб странице и видео записе у { -brand-name-pocket }, тако да можете да читате чисту верзију без ометања кад год и где год желите — чак и без интернета.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $send (string) - link to send.firefox.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for = Поред тога, када направите { -brand-name-firefox } налог, можете да приступите неким истакнутим услугама које су већ уграђене у прегледачу, као што је <a { $pocket }>{ -brand-name-pocket }</a> и <a { $send }>{ -brand-name-send }</a>. Једним кликом на { -brand-name-pocket } дугме у { -brand-name-firefox }-у вам омогућава да сачувате веб странице и видео записе у { -brand-name-pocket }, тако да можете да читате чисту верзију без ометања кад год и где год желите — чак и без интернета. { -brand-name-send } вам омогућава да делите велике датотеке са крај-на-крај шифровањем и разним безбедносним мерама, као што је могућност да подесите време истека за везу датотеке, одредите број преузимања и да ли треба додати опциону лозинку за додатни ниво безбедности.
