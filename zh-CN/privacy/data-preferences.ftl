@@ -12,7 +12,7 @@ data-preferences-notification-opt-in = 您已选择加入第一方数据收集�
 # Variables:
 #   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
 #   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
-data-preferences-your-privacy = 您的隐私对 { -brand-name-mozilla } 非常重要。我们的直属遥测和分析平台，称为 <a href="{ $glean }">{ -brand-name-glean }</a>，遵循我们的 <a href="{ $lean_data }" 高标准>精益数据实践</a>。
+data-preferences-your-privacy = 您的隐私对 { -brand-name-mozilla } 非常重要。我们的直属遥测和分析平台，称为 <a href="{ $glean }">{ -brand-name-glean }</a>，遵循我们的高标准 <a href="{ $lean_data }">精益数据实践</a>。
 # Variables:
 #   $dictionary (url) - link to https://dictionary.telemetry.mozilla.org/
 #   $privacy_notice (url) - link to https://www.mozilla.org/privacy/websites/
