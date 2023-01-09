@@ -17,3 +17,8 @@ vpn-android-wifi-copy = Понекад мобилни подаци нису до
 vpn-android-about-headline = { -brand-name-mozilla }, бренд коме можете веровати
 vpn-android-about-copy = Најпознатији смо по { -brand-name-firefox } веб прегледачу, али { -brand-name-mozilla } је велика организација чија је основна мисија да се бори за ваша права на мрежи. Ми смо заговорници интернета још од 1998. године. Посвећени смо томе да интернет остане отворен и слободан и поштујемо свачије право на приватност и безбедност.
 vpn-android-privacy-headline = Повежите се једним додиром
+vpn-android-privacy-copy = Коришћење { -brand-name-mozilla-vpn } за { -brand-name-android } је супер лако. Додирните дугме и ваша веза се аутоматски шифрује помоћу напредног { -brand-name-wireguard }® протокола. То је све!
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-android-servers-headline = Више од { $servers } сервера у преко { $countries } земаља
