@@ -12,3 +12,4 @@ compare-edge-compare-microsoft-edge-to-the = Параўнайце { -brand-name-
 # Main title.
 compare-edge-comparing-firefox-browser-with = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-edge }
 compare-edge-here-well-compare-our-firefox = Тут мы параўнаем наш { -brand-name-firefox-browser } з { -brand-name-microsoft } { -brand-name-edge } на аснове { -brand-name-chromium } з пункту гледжання прыватнасці, карыснасці і пераноснасці, каб дапамагчы вам лепш зразумець, які браўзер лепш адпавядае вашым патрэбам і перавагам.
+compare-edge-the-bottom-line-is-that-while = Сутнасць у тым, што, хоць мы прапануем выкарыстоўваць { -brand-name-firefox }, найлепшым браўзерам для вас будзе той, які адпавядае вашым індывідуальным патрэбам з падтрымкай пашырэнняў, наладкай браўзера, хуткасцю, прыватнасцю і бяспекай.
