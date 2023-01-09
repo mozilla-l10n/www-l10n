@@ -11,7 +11,7 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } 与 { -brand
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari }是 { -brand-name-mac } 和 { -brand-name-iphone } 上的预装浏览器。比较 { -brand-name-safari } 和 { -brand-name-firefox-browser }，以确定哪款浏览器更适合您。
 # Main title.
 compare-safari-comparing-firefox-browser = { -brand-name-firefox-browser }与 { -brand-name-apple } { -brand-name-safari }之间的比较
-compare-safari-if-you-use-a-mac-or-have-updated = 如果您使用过 { -brand-name-mac-short } 或 { -brand-name-iphone }，应该会很熟悉 { -brand-name-safari }。事实上，它是预装在 { -brand-name-apple } 产品上的默认浏览器，这无疑为它提供了先发优势，但 { -brand-name-firefox } 有自己的一套实用功能，俨然是一位有力的替代者，您完全可以将其设为{ -brand-name-mac-short } 和 { -brand-name-iphone } 上的默认浏览器。在此，我们将探讨我们的浏览器与 { -brand-name-safari }在隐私、实用和跨平台方面的主要区别。
+compare-safari-if-you-use-a-mac-or-have-updated = 如果您使用过 { -brand-name-mac-short } 或 { -brand-name-iphone }，应该会很熟悉 { -brand-name-safari }。事实上，它是预装在 { -brand-name-apple } 产品上的默认浏览器，这无疑为它提供了先发优势，但 { -brand-name-firefox } 有自己的一套实用功能，俨然是一位有力的替代者，您完全可以将其设为 { -brand-name-mac-short } 和 { -brand-name-iphone } 上的默认浏览器。在此，我们将探讨我们的浏览器与 { -brand-name-safari }在隐私、实用和跨平台方面的主要区别。
 # Obsolete string
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
 compare-safari-if-you-use-a-mac-or-have = 如果您使用过 Mac 或 { -brand-name-iphone }，应该会很熟悉 { -brand-name-safari }。事实上，它是预装在 { -brand-name-apple } 产品上的默认浏览器，这无疑为它提供了先发优势，但 { -brand-name-firefox } 有自己的一套实用功能，俨然是一位有力的替代者。在此，我们将探讨我们的浏览器与 { -brand-name-safari }在隐私、实用和跨平台方面的主要区别。
