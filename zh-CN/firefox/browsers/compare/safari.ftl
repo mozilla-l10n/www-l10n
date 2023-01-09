@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -8,16 +8,16 @@
 # HTML page title
 compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } 与 { -brand-name-safari }：哪款浏览器更适合您？
 # HTML page description.
-compare-safari-safari-is-the-pre-installed = { -brand-name-safari } 是 { -brand-name-mac } 和 { -brand-name-iphone } 上的预装浏览器。比较 { -brand-name-safari } 和 { -brand-name-firefox-browser }，以确定哪款浏览器更适合您。
+compare-safari-safari-is-the-pre-installed = { -brand-name-safari }是 { -brand-name-mac } 和 { -brand-name-iphone } 上的预装浏览器。比较 { -brand-name-safari } 和 { -brand-name-firefox-browser }，以确定哪款浏览器更适合您。
 # Main title.
-compare-safari-comparing-firefox-browser = { -brand-name-firefox-browser }与 { -brand-name-apple } { -brand-name-safari } 之间的比较
-compare-safari-if-you-use-a-mac-or-have-updated = 如果您使用过 { -brand-name-mac-short } 或 { -brand-name-iphone }，应该会很熟悉 { -brand-name-safari } 网络浏览器。事实上，它是预装在 { -brand-name-apple } 产品上的默认浏览器，这无疑为它提供了先发优势，但 { -brand-name-firefox } 有自己的一套实用功能，俨然是一位有力的替代者，您完全可以将其设为{ -brand-name-mac-short } 和 { -brand-name-iphone } 上的默认浏览器。在此，我们将探讨我们的浏览器与 { -brand-name-safari } 在隐私、实用和跨平台方面的主要区别。
+compare-safari-comparing-firefox-browser = { -brand-name-firefox-browser }与 { -brand-name-apple } { -brand-name-safari }之间的比较
+compare-safari-if-you-use-a-mac-or-have-updated = 如果您使用过 { -brand-name-mac-short } 或 { -brand-name-iphone }，应该会很熟悉 { -brand-name-safari }。事实上，它是预装在 { -brand-name-apple } 产品上的默认浏览器，这无疑为它提供了先发优势，但 { -brand-name-firefox } 有自己的一套实用功能，俨然是一位有力的替代者，您完全可以将其设为{ -brand-name-mac-short } 和 { -brand-name-iphone } 上的默认浏览器。在此，我们将探讨我们的浏览器与 { -brand-name-safari }在隐私、实用和跨平台方面的主要区别。
 # Obsolete string
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
-compare-safari-if-you-use-a-mac-or-have = 如果您使用过 Mac 或 { -brand-name-iphone }，应该会很熟悉 { -brand-name-safari } 网络浏览器。事实上，它是预装在 { -brand-name-apple } 产品上的默认浏览器，这无疑为它提供了先发优势，但 { -brand-name-firefox } 有自己的一套实用功能，俨然是一位有力的替代者。在此，我们将探讨我们的浏览器与 { -brand-name-safari } 在隐私、实用和跨平台方面的主要区别。
+compare-safari-if-you-use-a-mac-or-have = 如果您使用过 Mac 或 { -brand-name-iphone }，应该会很熟悉 { -brand-name-safari }。事实上，它是预装在 { -brand-name-apple } 产品上的默认浏览器，这无疑为它提供了先发优势，但 { -brand-name-firefox } 有自己的一套实用功能，俨然是一位有力的替代者。在此，我们将探讨我们的浏览器与 { -brand-name-safari }在隐私、实用和跨平台方面的主要区别。
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
 compare-safari-privacy-has-become-a-white = 隐私已经成为科技公司的热门话题，因为它们意识到越来越多的人感到易受数据泄露、广告跟踪器和黑客的攻击。但是，当涉及到人们用来浏览互联网的实际工具时，它们是敷衍了事，还是有切实措施来保证您的数据安全？
-compare-safari-as-alluded-to-before-apple-fallback = 如前所述，苹果（{ -brand-name-apple }）公司是最近决定加强隐私能力的公司之一。不久前，{ -brand-name-apple } 在 { -brand-name-safari } 中实现了“阻止跨站跟踪”功能，从而阻止广告在互联网上跟踪您。当您在任何网站注册新账户时，{ -brand-name-safari } 也会提供高强度的密码建议。若您拥有完整的 iCloud 生态，便可以安全地在设备间同步密码，不必劳神、不再遗忘。
+compare-safari-as-alluded-to-before-apple-fallback = 如前所述，苹果（{ -brand-name-apple }）公司是最近决定加强隐私能力的公司之一。不久前，{ -brand-name-apple } 在 { -brand-name-safari }中实现了“阻止跨站跟踪”功能，从而阻止广告在互联网上跟踪您。当您在任何网站注册新账户时，{ -brand-name-safari }也会提供高强度的密码建议。若您拥有完整的 iCloud 生态，便可以安全地在设备间同步密码，不必劳神、不再遗忘。
 # "Standing on the soap box" means trying to spread a persuasive message to the masses. Alternative: "We've been spreading the message about privacy for a long time." Soap used to come in wooden crates, and this idiom refers to activists or preachers who would stand on an empty soap box on a street corner to speak to a crowd.
 compare-safari-like-safari-we-at-firefox = 与 { -brand-name-safari } 一样，我们 { -brand-name-firefox } 的重点是关注隐私和安全。但与 { -brand-name-safari } 不同的是，我们在“隐私工具箱”上躬耕已久。实际上，{ -brand-name-mozilla }（我们的母公司）是科技界最早为网络隐私敲响警钟的声音之一。
 # Variables:
