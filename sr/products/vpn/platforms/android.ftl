@@ -22,3 +22,17 @@ vpn-android-privacy-copy = Коришћење { -brand-name-mozilla-vpn } за {
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-android-servers-headline = Више од { $servers } сервера у преко { $countries } земаља
+# Variables:
+#   $countries (number) - number of available countries
+vpn-android-servers-copy = Уз { -brand-name-mozilla-vpn } можете да подесите локацију свог { -brand-name-android } телефона у једну од више од { $countries } земаља. Тако ћете моћи да видите исте веб странице као локално становништво у повезаној земљи. Забаван и занимљив начин да доживите интернет из нове перспективе!
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-headline = Једна претплата за највише { $devices } уређаја
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy = { -brand-name-mozilla-vpn } може да повеже до { $devices } различитих уређаја, укључујући { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } и { -brand-name-linux } платформе. Можете га користити на паметном телефону, десктопу, лаптопу, таблету.
+vpn-android-speed-headline = Супер брз и неограничен промет података.
+vpn-android-speed-copy = Играјте онлајн игрице, гледајте филмове и сурфујте интернетом супер брзином са неограниченим пропусним опсегом на вашем { -brand-name-android } уређају!
+vpn-android-log-headline = Без евидентирања. Без праћења. Без инвазије на приватност.
+# "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
+vpn-android-log-copy = Многи VPN провајдери бележе вашу онлајн активност на својим серверима, али не и ми. { -brand-name-mozilla-vpn } никада не прати ваше активности на мрежи јер то је у супротности са вредностима за које се наша компанија залаже. Вашу приватност и безбедност стављамо на прво место.
