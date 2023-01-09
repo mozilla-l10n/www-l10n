@@ -7,3 +7,6 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } за { -brand-name-android }
+vpn-android-page-description = Обезбедите ваш { -brand-name-android } телефон једним додиром уз { -brand-name-mozilla }-у, једног од најпоузданијих имена у технологији.
+# Mobile strings
+vpn-android-hero-headline = Останите заштићени и приватни на мрежи уз { -brand-name-mozilla-vpn } за { -brand-name-android }
