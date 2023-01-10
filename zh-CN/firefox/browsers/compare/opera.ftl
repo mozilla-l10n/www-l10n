@@ -38,5 +38,5 @@ compare-opera-in-addition-to-the-regular = 除了普通版移动 App 外，{ -br
 # Variables:
 #   $attrs (string) - link to https://play.google.com/store/apps/details?id=org.mozilla.fenix with additional attributes for analytics
 compare-opera-we-also-offer-an-additional = 我们还提供了另外一个实验版 { -brand-name-firefox } App。<a { $attrs }>{ -brand-name-firefox } Preview</a>，该版本专注于速度和安全性。
-compare-opera-most-major-browsers-these = 如今，除了 { -brand-name-safari }之外，大多数主流浏览器都可以无缝地跨平台运行和浏览。 { -brand-name-opera } 和 { -brand-name-firefox } 也不例外，这两款浏览器均有着出色的跨平台性。
+compare-opera-most-major-browsers-these = 如今，除了 { -brand-name-safari } 之外，大多数主流浏览器都可以无缝地跨平台运行和浏览。 { -brand-name-opera } 和 { -brand-name-firefox } 也不例外，这两款浏览器均有着出色的跨平台性。
 compare-opera-overall-opera-is-a-solid-browser = 总体而言，{ -brand-name-opera } 是一款可靠的浏览器，有着简洁的界面和许多实用功能。但它存在不少严重的隐私问题，以及较高的资源占用。{ -brand-name-opera } 确实有一些非常好的易用特性，但我们相信在基于性能、隐私立场透明度、严格保护隐私等的综合评比中，{ -brand-name-firefox } 仍更胜一筹。
