@@ -8,9 +8,13 @@
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Φυλλομετρητής απορρήτου
 # HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = Το { -brand-name-firefox-focus } είναι το πρόγραμμα περιήγησης απορρήτου σας με αυτόματη προστασία από καταγραφή.
+# Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = Το { -brand-name-firefox-focus } είναι το πρόγραμμα περιήγησης απορρήτου σας με αυτόματη προστασία από καταγραφή και φραγή διαφημίσεων.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Απλά ιδιωτική περιήγηση σε κινητές συσκευές
+mobile-focus-firefox-focus-dedicated-with-v2 = Το { -brand-name-firefox-focus } είναι το πρόγραμμα περιήγησης απορρήτου σας με αυτόματη προστασία από καταγραφή. Με το { -brand-name-focus }, οι σελίδες σας φορτώνονται ταχύτερα και τα δεδομένα σας παραμένουν ιδιωτικά.
+# Outdated string
 mobile-focus-firefox-focus-dedicated-with = Το { -brand-name-firefox-focus } είναι το πρόγραμμα περιήγησης απορρήτου σας με αυτόματη προστασία από καταγραφή και φραγή διαφημίσεων. Με το { -brand-name-focus }, οι σελίδες σας φορτώνονται ταχύτερα και τα δεδομένα σας παραμένουν ιδιωτικά.
 mobile-focus-firefox-focus-is-available = Το { -brand-name-firefox-focus } είναι διαθέσιμο για συσκευές { -brand-name-ios } και { -brand-name-android }.
 mobile-focus-get-firefox-focus = Λήψη του { -brand-name-firefox-focus }
@@ -27,13 +31,9 @@ mobile-focus-private-browsing-on = Η «ιδιωτική περιήγηση» σ
 mobile-focus-private-browsing-on-v2 = Η «ιδιωτική περιήγηση» στα περισσότερα προγράμματα περιήγησης δεν είναι και τόσο ιδιωτική. Το { -brand-name-firefox-focus } προσφέρει απόρρητο ανώτερου επιπέδου από προεπιλογή και υποστηρίζεται από τη { -brand-name-mozilla }, τον μη κερδοσκοπικό οργανισμό που αγωνίζεται για τα δικαιώματά σας στο διαδίκτυο.
 mobile-focus-tracking-protection = Προστασία από καταγραφή
 mobile-focus-firefox-focus-blocks = Το { -brand-name-firefox-focus } αποκλείει από προεπιλογή μια ευρεία γκάμα κοινών ιχνηλατών, συμπεριλαμβανομένων των ιχνηλατών κοινωνικών δικτύων και αυτών που προέρχονται από στοιχεία, όπως οι διαφημίσεις του { -brand-name-facebook }.
-mobile-focus-ad-blocking = Φραγή διαφημίσεων
-# Outdated string
-mobile-focus-focus-blocks-the = Το { -brand-name-focus } αποκλείει διαφημίσεις που θα βλέπατε κανονικά στις ιστοσελίδες — δεν απαιτούνται πρόσθετα ή επεκτάσεις. Με λιγότερες διαφημίσεις, έχετε καλύτερες ταχύτερες φόρτωσης σελίδων, πράγμα που σημαίνει ότι βρίσκετε πολύ πιο γρήγορα αυτά που θέλετε.
-mobile-focus-focus-blocks-the-v2 = Το { -brand-name-focus } αποκλείει διαφημίσεις που προσπαθούν να σας καταγράψουν σε διάφορες ιστοσελίδες — δεν απαιτούνται πρόσθετα ή επεκτάσεις. Με λιγότερες διαφημίσεις, έχετε καλύτερες ταχύτερες φόρτωσης σελίδων, πράγμα που σημαίνει ότι βρίσκετε πολύ πιο γρήγορα αυτά που θέλετε.
 mobile-focus-see-it-all = Δείτε τα όλα γρηγορότερα
+mobile-focus-focus-removes-trackers-v3 = Το { -brand-name-focus } αφαιρεί ιχνηλάτες, ώστε οι σελίδες να απαιτούν λιγότερα δεδομένα και να φορτώνονται πολύ γρηγορότερα. Επιπλέον, καρφιτσώστε έως και τέσσερις συντομεύσεις στην αρχική σας οθόνη και μεταβείτε στους αγαπημένους ιστοτόπους σας ακόμα ταχύτερα, χωρίς να πληκτρολογήσετε τίποτα.
 # Outdated string
-mobile-focus-focus-removes-trackers = Το { -brand-name-focus } αφαιρεί ιχνηλάτες και διαφημίσεις, ώστε οι σελίδες να απαιτούν λιγότερα δεδομένα και να φορτώνονται πολύ ταχύτερα.
 mobile-focus-focus-removes-trackers-v2 = Το { -brand-name-focus } αφαιρεί ιχνηλάτες και ενεργοποιεί τον αποκλεισμό διαφημίσεων, ώστε οι σελίδες να απαιτούν λιγότερα δεδομένα και να φορτώνονται πολύ γρηγορότερα. Επιπλέον, καρφιτσώστε έως και τέσσερις συντομεύσεις στην αρχική σας οθόνη και μεταβείτε στους αγαπημένους ιστοτόπους σας ακόμα ταχύτερα, χωρίς να πληκτρολογήσετε τίποτα.
 mobile-focus-made-by-mozilla = Από τη { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Πιστεύουμε ότι όλοι πρέπει να ελέγχουν τις διαδικτυακές τους ζωές. Για αυτό μαχόμαστε από το 1998.

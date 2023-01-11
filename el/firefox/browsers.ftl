@@ -6,8 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Λήψη του { -brand-name-firefox } για υπολογιστές, κινητές συσκευές ή επιχειρήσεις
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Προγράμματα περιήγησης με έμφαση στο απόρρητο — όπως πάντα
 # HTML page description
+firefox-browsers-page-desc = Επιλέξτε μεταξύ των εκδόσεων για υπολογιστές, { -brand-name-ios }, { -brand-name-android } ή αφήστε μας να σας στείλουμε μέσω email έναν σύνδεσμο λήψης για κινητές συσκευές.
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Το απόρρητο που σας αξίζει. Η Ενισχυμένη προστασία από καταγραφή είναι αυτόματη σε κάθε { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = <strong>Φυλλομετρητές</strong> με έμφαση στο απόρρητο — όπως πάντα
