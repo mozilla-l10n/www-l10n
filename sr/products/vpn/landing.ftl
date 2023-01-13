@@ -54,6 +54,16 @@ vpn-landing-faq-info-question-heading = Које податке чува { -bran
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Стриктно следимо { -brand-name-mozilla } <a href="{ $principles }">смернице о приватности података</a> и прикупљамо само податке потребне да би VPN радио и за будућа побољшања производа. Такође, пратимо податке о активностима и препорукама на мобилној апликацији да помогнемо { -brand-name-mozilla }-и да разуме ефикасност маркетиншких кампања. За више, прочитајте наше <a href="{ $notice }">обавештење о приватности</a>.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Не бележимо, пратимо нити делимо било коју од ваших активности на мрежи. Стриктно се придржавамо { -brand-name-mozilla } <a href="{ $url }">смерница о приватности података</a> и прикупљамо само податке потребне да би VPN радио и за будућа побољшања производа.
+vpn-landing-faq-protected-question-heading = Како је моја приватност заштићена?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® протокол шифрује ваш мрежни саобраћај и тако штити све ваше приватне податке. У поређењу са другим постојећим VPN протоколима, { -brand-name-wireguard }-ов код је мањи што безбедносним аналитичарима олакшава проверу и ревизију, чинећи VPN још безбеднијим. Поред тога, ваше активности на мрежи остају анонимне јер не бележимо, пратимо нити делимо ваше онлајн податке.
+vpn-landing-faq-competition-question-heading = Какав је { -brand-name-mozilla-vpn } у поређењу са конкуренцијом?
 vpn-landing-faq-link = Погледајте друга ЧПП
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
