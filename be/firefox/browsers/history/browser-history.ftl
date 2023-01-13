@@ -20,6 +20,9 @@ browser-history-web-era = Эра Сеціва
 #   $cern (url) - https://home.cern/topics/birth-web
 browser-history-british-computer = Брытанскі інфарматык Цім Бернерс-Лі стварыў першы вэб-сервер і графічны вэб-браўзер у 1990 годзе, калі <a href="{ $cern }">працаваў у CERN</a>, Еўрапейскай арганізацыі ядзерных даследаванняў у Швейцарыі. Ён назваў сваё новае акно ў інтэрнэт «WorldWideWeb». Гэта быў просты ў выкарыстанні графічны інтэрфейс, створаны для камп'ютара NeXT. Упершыню тэкставыя дакументы былі звязаны паміж сабой праз агульнадаступную сетку — Інтэрнэт, якім мы яго ведаем.
 browser-history-a-year-later-berners = Годам пазней Бернерс-Лі папрасіў студэнтку матэматыкі CERN Ніколу Пелаў напісаць Line Mode Browser, праграму для асноўных камп'ютарных тэрміналаў.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic запускаўся на камп'ютарах з { -brand-name-windows }, быў простым у выкарыстанні і даваў любому карыстальніку ПК доступ да ранніх вэб-старонак, чатаў і бібліятэк выяваў. У наступным годзе (1994) Андрээсэн заснаваў <a href="{ $netscape }">{ -brand-name-netscape }</a> і выпусціў { -brand-name-netscape } Navigator для грамадскасці. Гэта быў шалёны поспех і першы браўзер для людзей. Гэта таксама быў першы крок у новай вайне за карыстальнікаў інтэрнэту.
 browser-history-the-browser-wars = Войны браўзераў
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
