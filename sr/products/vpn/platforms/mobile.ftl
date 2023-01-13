@@ -19,3 +19,9 @@ vpn-mobile-wifi-copy = Наш VPN штити вашу интернет везу 
 vpn-mobile-about-headline = О { -brand-name-mozilla }-и
 vpn-mobile-about-copy = Најпознатија по { -brand-name-firefox-browser }-ом, { -brand-name-mozilla } је глобална заједница корисника, сарадника и програмера посвећена томе да моћ интернета остане у рукама обичних људи. Основана 1998. године, ми смо један од пионира слободног и отвореног интернета и наша мисија је да тако и остане.
 vpn-mobile-privacy-headline = Приватност једним кликом
+vpn-mobile-privacy-copy = { -brand-name-mozilla-vpn } шифрује вашу интернет везу и маскира вашу IP адресу на мобилном телефону или таблету путем { -brand-name-wireguard }® напредног протокола.
+vpn-mobile-servers-headline = Повежите се на сервере широм света
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-mobile-servers-copy = Прегледајте веб из Бразила, играјте игрице из Јапана, гледајте програм из Аустралије. { -brand-name-mozilla-vpn } вам омогућава да мењате локацију вашег телефона или рачунара на један од преко { $servers } сервера у више од { $countries } земаља.
