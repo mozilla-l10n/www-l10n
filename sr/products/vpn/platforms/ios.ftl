@@ -21,3 +21,9 @@ vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } је једноставан �
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Повежите се на више од { $servers } сервера широм света
+# Variables:
+#   $countries (number) - number of available countries
+vpn-ios-servers-copy = Купујте у Швајцарској, гледајте пренос уживо у Канади, прегледајте веб у Аустралији. Уз { -brand-name-mozilla-vpn }, можете да подесите вашу { -brand-name-iphone } или { -brand-name-ipad } локацију на једну од преко { $countries } земаља и уђете у свет узбудљивог садржаја.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-headline = Добијте приступ за { $devices } уређаја
