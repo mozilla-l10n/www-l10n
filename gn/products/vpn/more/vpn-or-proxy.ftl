@@ -20,6 +20,7 @@ vpn-or-proxy-isps-can-use = Umi ISP ojepurukuaa ko marandu imaranduñemurã tér
 vpn-or-proxy-when-should-you = ¿Araka’épa eiporavóta VPN térã proxy hekorosãva?
 vpn-or-proxy-vpns-and-secure = VPN ha ñanduti proxy hekorosãva ohupytyse peteĩ mba’e: oikéta tekorosãme. Ikatu, ha ojapo, IP kundaharape ypygua ha omo’ã ñandutípe jeike nendive ha VPN me’ẽhára térã pe proxy hekorosãva. Hákatu ¿araka’épa eipurukuaa VPN térã proxy?
 vpn-or-proxy-secure-web-proxy = Proxy ñandutigua hekorosãva: ñemo’ã kundahára peve
+vpn-or-proxy-a-secure-web = Ñanduti proxy hekorosãva omboheko umi tembiapo ejapokuaáva ne mohendahápe añoite. Ko’ápe oike umi tembiapo ikatúva ha’e mba’ejogua, jehepyme’ẽ, ava ñandutietápe jeike ha ñanduti veve ñemoñe’ẽ. Ñanduti proxy hekorosãva ombohape ne mohendahápe ha ñanduti ndive. Ne ñanduti mba’ekuaarã ohasáta peteĩ tapeyvyguy ñanduti hekorosãva rupi ne mohendaha guive, ohovamo’ãvo nde IP kundaharape, pe ñanduti mohendahavusu eñe’ẽha ani hag̃ua oikuaa mamoitépa reime arapýpe upéva ombohasyvekuaágui nde jehapykueho.
 # Variables
 #   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
 vpn-or-proxy-a-proxy-is-useful = Proxy iporã eikundahakuévo ñandutípe WiFi pyha opavave mba’éva. Peteĩ proxy ijurujáva, nomoneĩri hekoñañávape pyha pegua oma’ẽvo eikundahakuévo térã emoñe’ẽ ejapóva tenda ipapa’ỹvape. Hyapu ñaña’ỹvarõ, hákatu umi WiFi pyha opavave mba’éva ikatu ha’e peteĩ okẽ tapykue gotyo <a href="{ $url }">hackers</a> peg̃uarã.
