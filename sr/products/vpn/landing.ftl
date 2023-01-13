@@ -29,9 +29,14 @@ vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } ради на ве
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } ради на веб серверима широм света и покреће га <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Користи се најсавременији <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> протокол за шифровање ваше мрежне активности и сакривање ваше IP адресе. Никада не бележимо, пратимо или делимо ваше мрежне податке.
 vpn-landing-brand-trust-heading = VPN од поузданог бренда
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = Више од 20 година, { -brand-name-mozilla } има искуство у стављању људи на прво место и борби за приватност на мрежи. Уз подршку непрофитне организације, посвећени смо изградњи бољег, здравијег интернета за све у свету. Све што радимо је вођено нашим <a href="{ $url }">принципима</a> и део је наше мисије.
 
 ## FAQ section
 
+vpn-landing-faq-heading = ЧПП
+vpn-langing-faq-uses-question-heading = Шта је VPN и чему служи?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
