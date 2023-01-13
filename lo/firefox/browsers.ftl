@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
+# HTML page title
+firefox-browsers-page-title = ດາວໂຫລດ { -brand-name-firefox } ສໍາລັບ Desktop, ໂທລະສັບ, ຫຼື ອົງກອນ
+# Outdated string
+firefox-browsers-get-the-browsers-that-put = ໃຊ້ຕົວ​ທ່ອງ​ເວັບ​ທີ່​ໃສ່ໃຈໃນ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ​ — ແລະ​ ຈະເຮັດຕະລອດໄປ
+# HTML page description
+firefox-browsers-page-desc = ເລືອກຈາກ Desktop, { -brand-name-ios }, { -brand-name-android }, ຫຼືໃຫ້ພວກເຮົາສົ່ງລີ້ງດາວໂຫລດຫາທ່ານທາງອີເມວ.
+firefox-browsers-desktop = Desktop
 firefox-browsers-download-for-desktop = ດາວໂຫລດສໍາລັບ Desktop
 firefox-browsers-mobile = ໂທລະສັບມືຖື
 firefox-browsers-reality = { -brand-name-reality }
