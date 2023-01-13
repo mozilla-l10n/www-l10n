@@ -46,9 +46,22 @@ vpn-landing-faq-uses-conceal-v2 = Сакривањем ваше праве <a hr
 # Obsolete string
 vpn-landing-faq-uses-conceal = Сакривањем ваше праве IP адресе. Ово штити ваш идентитет и прикрива вашу локацију.
 vpn-landing-faq-uses-encrypt = Шифрује саобраћај између вас и вашег VPN провајдера, спречавајући било кога на вашој локалној мрежи да га дешифрује или модификује.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Погледајте <a href="{ $url }">пет стварних сценарија</a> где бисте можда желели да имате VPN на вашем уређају.
+vpn-landing-faq-info-question-heading = Које информације чува { -brand-name-mozilla-vpn }?
+vpn-landing-faq-link = Погледајте друга ЧПП
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Придружите се листи чекања: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc = Будите обавештени о томе када { -brand-name-mozilla-vpn } постане доступан за ваш уређај и регион.
+vpn-landing-invite-page-heading = Придружите се VPN листи чекања
+vpn-landing-invite-email-label = Која је ваша адреса е-поште?
+vpn-landing-invite-required-label = Обавезно
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = вашеиме@example.com
+vpn-landing-invite-country-label = У којој земљи живите?
 
 ##
 
