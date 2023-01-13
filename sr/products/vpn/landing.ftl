@@ -64,6 +64,49 @@ vpn-landing-faq-protected-question-heading = Како је моја приват
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® протокол шифрује ваш мрежни саобраћај и тако штити све ваше приватне податке. У поређењу са другим постојећим VPN протоколима, { -brand-name-wireguard }-ов код је мањи што безбедносним аналитичарима олакшава проверу и ревизију, чинећи VPN још безбеднијим. Поред тога, ваше активности на мрежи остају анонимне јер не бележимо, пратимо нити делимо ваше онлајн податке.
 vpn-landing-faq-competition-question-heading = Какав је { -brand-name-mozilla-vpn } у поређењу са конкуренцијом?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Бесплатни VPN-ови могу изгледати привлачно, али не пружају исто обећање о приватности као { -brand-name-mozilla-vpn }. Другим VPN брендовима недостаје више од 20 година { -brand-name-mozilla } <a href="{ $url }">историје</a> која ставља људе и приватност испред свега.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc = Бесплатни VPN-ови могу изгледати привлачно, али не пружају исто обећање о приватности као { -brand-name-mozilla-vpn } и могу да продају и прикупљају ваше податке. Другим плаћеним VPN брендовима недостаје више од 20 година { -brand-name-mozilla } <a href="{ $url }">историје</a> која ставља људе и приватност испред свега.
+vpn-landing-faq-compatibility-question-heading = Са којим уређајима је { -brand-name-mozilla-vpn } компатибилан?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } је компатибилан са <a href="{ $mobile }">мобилним</a>, таблет и <a href="{ $desktop }">декстоп</a> уређајима на:
+# Outdated string
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } је компатибилан са:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (само 64-битни)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (само 64-битни)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 и више)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 и више)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 и више)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (верзија 8 и више)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (верзија 6 и више)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (верзија 6 и више)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+#   $version (number) - minimum supported version number
+vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } и више)
 vpn-landing-faq-link = Погледајте друга ЧПП
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
