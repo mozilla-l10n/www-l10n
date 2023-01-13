@@ -123,6 +123,16 @@ vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (са�
 vpn-landing-faq-refund-question-heading = Која је политика рефундирања за { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Када се први пут претплатите на { -brand-name-mozilla-vpn } преко { -brand-name-mozilla } сајта, можете да захтевате пун повраћај средстава ако откажете ваш налог у првих 30 дана и { -brand-name-mozilla } ће рефундирати вашу прву претплату.
 vpn-landing-faq-refund-question-additional-desc = Ако претплату плаћате путем куповине у апликацији путем { -brand-name-apple } { -brand-name-app-store } или { -brand-name-google-play } Store, ваша уплата биће предмет { -brand-name-app-store } услова и одредби. Све захтеве за обрачун и рефундирање за такве куповине треба да усмерите на { -brand-name-apple } или { -brand-name-google }, у зависности од случаја.
+# Outdated string
+vpn-landing-faq-refund-question-desc = Можете да затражите повраћај новца у року од 30 дана од почетка ваше претплате. За рефундирање кликните на „Добијте помоћ“ у { -brand-name-mozilla-vpn } подешавањима да пошаљете захтев за повраћај средстава.
+vpn-landing-faq-manage-subscription-question-heading = Како да управљам претплатама?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Ако сте већ претплаћени на { -brand-name-mozilla-vpn }, можете да промените ваш план или да <a href="{ $url }">управљате претплатама</a> било кад.
+vpn-landing-faq-download-heading = Како да преузмем { -brand-name-mozilla-vpn } ако сам већ претплаћен/а?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Посетите <a { $attrs }>страницу за преузимања</a> да инсталирате { -brand-name-mozilla-vpn } на ваш уређај, а затим се пријавите преко вашег { -brand-name-firefox-account }-а.
 vpn-landing-faq-link = Погледајте друга ЧПП
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
