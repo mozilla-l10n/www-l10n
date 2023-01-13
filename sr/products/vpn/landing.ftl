@@ -122,6 +122,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (само { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Која је политика рефундирања за { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Када се први пут претплатите на { -brand-name-mozilla-vpn } преко { -brand-name-mozilla } сајта, можете да захтевате пун повраћај средстава ако откажете ваш налог у првих 30 дана и { -brand-name-mozilla } ће рефундирати вашу прву претплату.
+vpn-landing-faq-refund-question-additional-desc = Ако претплату плаћате путем куповине у апликацији путем { -brand-name-apple } { -brand-name-app-store } или { -brand-name-google-play } Store, ваша уплата биће предмет { -brand-name-app-store } услова и одредби. Све захтеве за обрачун и рефундирање за такве куповине треба да усмерите на { -brand-name-apple } или { -brand-name-google }, у зависности од случаја.
 vpn-landing-faq-link = Погледајте друга ЧПП
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
