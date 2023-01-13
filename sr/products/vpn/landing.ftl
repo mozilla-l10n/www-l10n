@@ -49,7 +49,11 @@ vpn-landing-faq-uses-encrypt = Шифрује саобраћај између в
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Погледајте <a href="{ $url }">пет стварних сценарија</a> где бисте можда желели да имате VPN на вашем уређају.
-vpn-landing-faq-info-question-heading = Које информације чува { -brand-name-mozilla-vpn }?
+vpn-landing-faq-info-question-heading = Које податке чува { -brand-name-mozilla-vpn }?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-landing-faq-info-question-desc-v2 = Стриктно следимо { -brand-name-mozilla } <a href="{ $principles }">смернице о приватности података</a> и прикупљамо само податке потребне да би VPN радио и за будућа побољшања производа. Такође, пратимо податке о активностима и препорукама на мобилној апликацији да помогнемо { -brand-name-mozilla }-и да разуме ефикасност маркетиншких кампања. За више, прочитајте наше <a href="{ $notice }">обавештење о приватности</a>.
 vpn-landing-faq-link = Погледајте друга ЧПП
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
@@ -62,6 +66,22 @@ vpn-landing-invite-required-label = Обавезно
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = вашеиме@example.com
 vpn-landing-invite-country-label = У којој земљи живите?
+vpn-landing-invite-language-label = Изаберите жељени језик
+vpn-landing-invite-platform-label = Које платформе вас занимају?
+vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
+# Outdated string
+vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
+vpn-landing-invite-platform-ios = { -brand-name-ios }
+vpn-landing-invite-platform-android = { -brand-name-android }
+vpn-landing-invite-platform-mac = { -brand-name-mac-short }
+vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
+vpn-landing-invite-platform-linux = { -brand-name-linux }
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-landing-invite-privacy-policy = Кликом на „Придружите се листи чекања“,прихватате нашу  <a href="{ $privacy }">политику приватности</a>.
+vpn-landing-invite-your-information = Ваши подаци ће се користити само да вас обавестимо о доступности платформе.
+vpn-landing-invite-thanks-heading = Хвала! На листи сте
+vpn-landing-invite-thanks-desc = Послаћемо вам е-поруку када { -brand-name-mozilla-vpn } буде доступан за ваш регион.
 
 ##
 
