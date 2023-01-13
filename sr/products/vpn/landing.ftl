@@ -107,6 +107,21 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (�
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } и више)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 и више)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 и више)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (само { -brand-name-ubuntu })
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (само { -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = Која је политика рефундирања за { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = Када се први пут претплатите на { -brand-name-mozilla-vpn } преко { -brand-name-mozilla } сајта, можете да захтевате пун повраћај средстава ако откажете ваш налог у првих 30 дана и { -brand-name-mozilla } ће рефундирати вашу прву претплату.
 vpn-landing-faq-link = Погледајте друга ЧПП
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
