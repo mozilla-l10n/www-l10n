@@ -27,3 +27,7 @@ vpn-ios-servers-copy = Купујте у Швајцарској, гледајт�
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Добијте приступ за { $devices } уређаја
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = Са једном претплатом, можете да добијете { -brand-name-mozilla-vpn } на најмање { $devices } различитих уређаја, укључујући { -brand-name-ios } за { -brand-name-iphone } или { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } и { -brand-name-linux } платформе.
+vpn-ios-speed-headline = Максимална брзина. Неограничени подаци.
