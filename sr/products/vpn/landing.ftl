@@ -37,6 +37,15 @@ vpn-landing-brand-trust-desc = Више од 20 година, { -brand-name-mozi
 
 vpn-landing-faq-heading = ЧПП
 vpn-langing-faq-uses-question-heading = Шта је VPN и чему служи?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Како се све већи део нашег свакодневног живота одвија на интернету, приватност и безбедност на мрежи постају све важнији. VPN, <a href="{ $url }">виртуелна приватна мрежа</a>, вам помаже да успоставите безбедну и приватну интернет везу. Принцип је постизање следеће две заштите успостављањем „канала“ између вашег уређаја и глобалног интернет света:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Сакривањем ваше праве <a href="{ $url }">IP адресе</a>. Ово штити ваш идентитет и прикрива вашу локацију.
+# Obsolete string
+vpn-landing-faq-uses-conceal = Сакривањем ваше праве IP адресе. Ово штити ваш идентитет и прикрива вашу локацију.
+vpn-landing-faq-uses-encrypt = Шифрује саобраћај између вас и вашег VPN провајдера, спречавајући било кога на вашој локалној мрежи да га дешифрује или модификује.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
