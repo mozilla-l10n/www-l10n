@@ -25,3 +25,11 @@ vpn-mobile-servers-headline = Повежите се на сервере широ
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-mobile-servers-copy = Прегледајте веб из Бразила, играјте игрице из Јапана, гледајте програм из Аустралије. { -brand-name-mozilla-vpn } вам омогућава да мењате локацију вашег телефона или рачунара на један од преко { $servers } сервера у више од { $countries } земаља.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-devices-headline = Заштитите до { $devices } уређаја
+vpn-mobile-devices-copy = Претплата вам пружа неограничен приступ нашој безбедној VPN услузи на паметном телефону, таблету и десктопу, укључујући { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } и { -brand-name-linux } платформе.
+vpn-mobile-speed-headline = Невероватна брзина без ограничења
+vpn-mobile-speed-copy = Гледајте преносе уживо, играјте игрице, купујте и прегледајте супер брзо. { -brand-name-mozilla-vpn } неће ограничити вашу пропусност нити успорити ваш паметни телефон.
+vpn-mobile-log-headline = Ваша приватност на првом месту
+vpn-mobile-log-copy = { -brand-name-mozilla } не прикупља никакве податке о томе ко сте, нити бележи вашу активност на мрежи путем нашег VPN-а и других производа. Заштита ваше приватности је основа шире { -brand-name-mozilla }-ине мисије.
