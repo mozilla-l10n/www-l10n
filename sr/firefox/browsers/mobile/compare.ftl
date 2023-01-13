@@ -21,6 +21,13 @@ mobile-compare-from-the-chart = Као што је јасно из горњег 
 mobile-compare-features-strong = <strong>Функције</strong>
 mobile-compare-features = Функције
 mobile-compare-what-can-your = Шта ваш прегледач може да уради за вас?
+mobile-compare-a-main-ingredient = Једна од главних одлика добро направљеног прегледача је функционалност. Шта он може да уради?  Што се тиче картица, обележивача и поља за аутоматско довршавање, пет прегледача су изједначени, али само { -brand-name-firefox } и { -brand-name-safari } подржавају додатке, који су нека врста апликација за ваш прегледач да буде личнији, моћнији или једноставно забавнији.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>Синхронизација</strong>
+mobile-compare-syncing = Синхронизација
+mobile-compare-does-your-browser = Да ли ваш прегледач добро ради на другим уређајима?
+mobile-compare-the-mobile-version = { -brand-name-safari } мобилна верзија, која је унапред инсталирана на { -brand-name-apple } мобилним уређајима, компатибилна је само са другим { -brand-name-apple } уређајима као што су { -brand-name-ipad } и { -brand-name-mac-short } лаптопи. { -brand-name-firefox }, { -brand-name-chrome } и { -brand-name-opera } раде на { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short } и { -brand-name-linux } платформама, с тим да { -brand-name-edge } прегледач није компатибилан са уређајима који имају { -brand-name-linux } оперативни систем.
+mobile-compare-almost-all-of = Скоро сви мобилни прегледачи који се овде пореде подржавају потпуну синхронизацију између мобилних и десктоп уређаја.
 mobile-compare-search-engine-options = Опције претраживача
 mobile-compare-text-to-speech = Текст у говор
 mobile-compare-reader-mode = Режим читача
