@@ -68,6 +68,7 @@ navigation-v2-careers = Kariyer
 navigation-v2-work-for-a-mission-driven-updated = İnsancıl ürünler geliştirilen, misyon odaklı bir kuruluşta çalışabilirsiniz.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } ve bizim için önemli konular hakkında bilgi alın.
+navigation-v2-stories = Haberler
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } hakkında daha fazla bilgi
 
 ## Innovation menu
@@ -86,4 +87,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = İnternetin geleceğini herkesin duyması için sesinizi bağışlayın.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Düşük seviyeli, assembly benzeri yeni programlama diliyle tanışın.
-navigation-v2-more-mozilla-innovation = Diğer { -brand-name-mozilla } inovasyonları

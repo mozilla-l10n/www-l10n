@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = VPN nedir?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = VPN'lerle ilgili en çok sorulan dokuz sorunun yanıtını alın; ne işe yaradıklarını, ne zaman ve neden kullanıldıklarını öğrenin.
 vpn-what-is-how-do-vpns = VPN’ler nasıl çalışır?
 vpn-what-is-when-should-i = Ne zaman VPN kullanmalıyım?
 vpn-what-is-why-would-i = Neden VPN kullanmalıyım?

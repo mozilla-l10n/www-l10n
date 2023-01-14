@@ -7,6 +7,7 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest = Tebrikler. En yeni { -brand-name-firefox-browser } { -brand-name-developer-edition } sürümünü kullanıyorsunuz.
 # CTA button
 developer-mdnplus-get-started = Başlayın
 developer-mdnplus-whats-included = Neler dahil?
