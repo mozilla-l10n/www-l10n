@@ -52,3 +52,12 @@ firefox-privacy-hub-2000-trackers-blocked-automatically = Преко 2,000 ел�
 firefox-privacy-hub-tracking-has-become-an = Праћење је постало хронична болест интернета; комерцијалне компаније прате ваше радње, кликове мишем, куповине и прикупљају податке како би предвиделе и утицале на сваки ваш потез. Верујемо да је ово тако озбиљно кршење ваше приватности да су { -brand-name-firefox } прегледачи за мобилне и десктоп рачунаре подразумевано укључили побољшану заштиту од праћења.
 firefox-privacy-hub-if-you-want-to-see-what = Ако желите да знате шта { -brand-name-firefox } блокира, посетите ову страницу на вашем { -brand-name-firefox } десктоп прегледачу.
 firefox-privacy-hub-see-what-firefox-has-blocked = Погледајте шта је { -brand-name-firefox } блокирао за вас
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-privacy-hub-get-enhanced-tracking-protection = Набавите побољшану заштиту од праћења
+firefox-privacy-hub-download-the-firefox-browser = Преузмите { -brand-name-firefox } прегледач
+firefox-privacy-hub-update-your-firefox-browser = Ажурирајте ваш { -brand-name-firefox } прегледач
+firefox-privacy-hub-invisible-to-the-top-trackers = Невидљив за уобичајене елементе за праћење
+firefox-privacy-hub-meet-four-of-the-most-common = Упознајте четири најчешћа типа елемената за праћење.
+firefox-privacy-hub-always-in-your-control = Увек под вашом контролом
+firefox-privacy-hub-want-to-customize-what = Желите да прилагодите шта се блокира? Ваша подешавања су један клик далеко.
+firefox-privacy-hub-protection-beyond-tracking = Заштита изван праћења
