@@ -19,3 +19,4 @@ firefox-privacy-our-promise = Наше обећање
 firefox-privacy-our-products = Наши производи
 firefox-privacy-hub-you-should-be-able-to-decide = На вама је да одлучите ко може да види ваше личне податке. Не само са вашим пријатељима, већ са свим оглашивачима и компанијама које послују на интернету — укључујући и нас.
 firefox-privacy-hub-thats-why-everything-we-make = Зато све што радимо подлеже нашем обаћању о личним подацима
+firefox-privacy-hub-take-less = Узми мање
