@@ -72,3 +72,22 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Лозинке налога ускладиштене у { -brand-name-firefox-lockwise } су шифроване на сваком од ваших уређаја, тако да чак ни ми не можемо да их провалимо.
 firefox-privacy-hub-learn-more-about-lockwise = Сазнајте више о { -brand-name-lockwise }-у
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Не можемо да видимо називе и садржај датотека које делите преко { -brand-name-firefox-send }-а јер су шифроване с краја на крај током преноса. Само ви можете да одлучите ко може да види шта делите, а такође можете да подесите датум истека и лозинку.
+firefox-privacy-hub-send-a-file = Пошаљите датотеку
+firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } препоручује висококвалитетне чланке које су одабрали други људи без прикупљања ваших података о прегледању или продаје ваших личних података оглашивачима.
+firefox-privacy-hub-get-pocket = Преузмите { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Сви подаци синхронизовани преко { -brand-name-firefox-account }-а — од историје прегледања до лозинки — шифровани су. А лозинка вашег налога је једини кључ.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Понесите вашу приватност и обележиваче свуда са собом уз { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Већ имате налог? <a { $sign_in } class="{ $class_name }">Пријавите се</a> или <a href="{ $learn_more }">сазнајте више</a> о придруживању { -brand-name-firefox }-у.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Прочитајте <a href="{ $url }">обавештење о приватности</a> за наше производе
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Сурфујте вебом, гледајте видее и радите на серверима у преко 30 земаља за безбедну интернет везу са новом перспективом.
+firefox-privacy-hub-get-mozilla-vpn = Преузмите { -brand-name-mozilla-vpn }
