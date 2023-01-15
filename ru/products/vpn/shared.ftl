@@ -108,7 +108,7 @@ vpn-shared-platform-what-youll-get = Что вы получите с { -brand-na
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = Что такое VPN?
-vpn-subnav-faqs = ЧЗВ
+vpn-subnav-faqs = ЧАВО
 vpn-subnav-get-help = Получить помощь
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Для компьютера

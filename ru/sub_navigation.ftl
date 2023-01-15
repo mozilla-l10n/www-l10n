@@ -28,7 +28,7 @@ sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
 sub-navigation-addons = Дополнения
 sub-navigation-add-ons = Дополнения
-sub-navigation-faq = ЧЗВ
+sub-navigation-faq = ЧАВО
 sub-navigation-learn-more = Подробнее
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } для мобильных устройств

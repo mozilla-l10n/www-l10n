@@ -19,7 +19,7 @@ privacy-index-data-privacy-principles = Принципы приватности 
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
-privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">Принципы приватности данных</a> { -brand-name-mozilla } вдохновляют нашу работу, направленную на уважение и защиту интересов людей, пользующихся Интернетом. Узнайте, как эти принципы формируют { -brand-name-firefox } и все наши продукты, изучив <a href="{ $faq }">ЧЗВ</a>.
+privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">Принципы приватности данных</a> { -brand-name-mozilla } вдохновляют нашу работу, направленную на уважение и защиту интересов людей, пользующихся Интернетом. Узнайте, как эти принципы образуют { -brand-name-firefox } и все наши продукты, изучив <a href="{ $faq }">ЧАВО</a>.
 privacy-index-transparency-report = Отчёт о прозрачности
 privacy-index-get-involved = Примите участие
 # Variables:

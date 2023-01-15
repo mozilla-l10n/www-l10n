@@ -35,7 +35,7 @@ vpn-landing-brand-trust-desc = В течение более чем 20 лет р�
 
 ## FAQ section
 
-vpn-landing-faq-heading = ЧЗВ
+vpn-landing-faq-heading = ЧАВО
 vpn-langing-faq-uses-question-heading = Что такое VPN и для чего он используется?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
@@ -52,7 +52,7 @@ vpn-landing-faq-uses-examples = Ознакомьтесь с <a href="{ $url }">�
 vpn-landing-faq-info-question-heading = Какую информацию сохраняет { -brand-name-mozilla-vpn }?
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Мы строго соблюдаем <a href="{ $principles }">Принципы конфиденциальности данных</a> { -brand-name-mozilla } и собираем только данные, необходимые для обеспечения работоспособности VPN и улучшения продукта с течением времени. Мы также отслеживаем данные о кампаниях и переходах по ссылкам в нашем мобильном приложении, чтобы помочь { -brand-name-mozilla } понять эффективность маркетинговых кампаний. Более подробная информация приведена в нашем <a href="{ $notice }">Уведомлении о конфиденциальности</a>.
 # Obsolete string
 # Variables:
@@ -156,7 +156,7 @@ vpn-landing-invite-platform-mac = { -brand-name-mac-short }
 vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
 vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Нажимая «Присоединиться к списку ожидания», вы соглашаетесь с нашей  <a href="{ $privacy }">Политикой приватности</a>.
 vpn-landing-invite-your-information = Ваша информация будет использована только для уведомления вас о доступности платформы.
 vpn-landing-invite-thanks-heading = Спасибо! Теперь вы в списке
