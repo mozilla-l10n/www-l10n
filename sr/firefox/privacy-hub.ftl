@@ -61,3 +61,4 @@ firefox-privacy-hub-meet-four-of-the-most-common = Упознајте четир
 firefox-privacy-hub-always-in-your-control = Увек под вашом контролом
 firefox-privacy-hub-want-to-customize-what = Желите да прилагодите шта се блокира? Ваша подешавања су један клик далеко.
 firefox-privacy-hub-protection-beyond-tracking = Заштита изван праћења
+firefox-privacy-hub-if-you-have-a-firefox-account = Ако имате { -brand-name-firefox-account }, можете да видите како вам помажемо да заштитите ваше личне податке и лозинке.
