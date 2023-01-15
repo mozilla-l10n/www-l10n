@@ -62,3 +62,7 @@ firefox-privacy-hub-always-in-your-control = Увек под вашом конт
 firefox-privacy-hub-want-to-customize-what = Желите да прилагодите шта се блокира? Ваша подешавања су један клик далеко.
 firefox-privacy-hub-protection-beyond-tracking = Заштита изван праћења
 firefox-privacy-hub-if-you-have-a-firefox-account = Ако имате { -brand-name-firefox-account }, можете да видите како вам помажемо да заштитите ваше личне податке и лозинке.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Дневно блокирамо више од { $trackers } елемената за праћење за { -brand-name-firefox } кориснике широм света
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
