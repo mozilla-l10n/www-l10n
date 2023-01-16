@@ -55,16 +55,41 @@ vpn-shared-features-guarantee = 30-дневна гаранција поврат�
 vpn-shared-refund-policy = Политика рефундирања
 vpn-shared-privacy-notice = Обавештење о приватности
 vpn-shared-terms-conditions = Услови коришћења
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } је регистровани заштитни знак Џејсона А. Доненфилда
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = Изаберите план претплате који вам одговара
+# Outdated string
+vpn-shared-pricing-variable-heading = Изаберите план који вам одговара
+vpn-shared-pricing-variable-sub-heading = Сви наше претплате укључују:
 vpn-shared-pricing-recommended-offer = Препоручено
+vpn-shared-pricing-plan-12-month-v2 = 12-месечни план
+# Outdated string
+vpn-shared-pricing-plan-12-month = 12-месечно
 vpn-shared-pricing-plan-monthly-v2 = Месечни план
 # Outdated string
 vpn-shared-pricing-plan-monthly = Месечно
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Outdated string
+vpn-shared-pricing-get-6-month = Узмите 6-месечни план
+# Outdated string
+vpn-shared-pricing-get-12-month = Узмите 12-месечни план
+# Outdated string
+vpn-shared-pricing-get-6-month-v2 = Узмите 6-месечни план
+vpn-shared-pricing-get-12-month-v2 = Узмите 12-месечни план
+vpn-shared-pricing-get-monthly = Узмите месечни план
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = Уштедите { $percent }%
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = Уштедите { $percent }% на { -brand-name-mozilla-vpn }-у*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *када се претплатите на 12-месечни план
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } укупно
@@ -72,6 +97,14 @@ vpn-shared-pricing-total = { $amount } укупно
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = Започнимо
+vpn-shared-platform-cta-button = Погледајте ценовник и доступност
+vpn-shared-platform-privacy-promise = Ваша приватност је наша обавеза
+vpn-shared-platform-trust-partner-headline = О нашем поузданом партнеру
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } користи глобалну мрежу сервера које обезбеђује <a href="{ $policy }">{ -brand-name-mullvad }</a> преко <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® протокола. { -brand-name-mullvad } ставља вашу приватност на прво место и не бележи ништа.
+vpn-shared-platform-what-youll-get = Шта добијате са { -brand-name-mozilla-vpn }-ом:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = Шта је VPN?
