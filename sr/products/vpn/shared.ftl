@@ -9,6 +9,50 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Преузмите { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Придружите се листи чекања
 vpn-shared-sign-in-link = Већ сте претплаћени?
+# Outdated string
+vpn-shared-available-countries-v4 = Тренутно нудимо { -brand-name-mozilla-vpn } у Аустрији, Белгији, Канади, Француској, Немачкој, Ирској, Италији, Малезији, Холандији, Новом Зеланду, Сингапуру, Шпанији, Швајцарској, Уједињеном Краљевству и Сједињеним Америчким Државама.
+vpn-shared-available-countries-v5 = Тренутно нудимо { -brand-name-mozilla-vpn } у Аустрији, Белгији, Канади, Финској, Француској, Немачкој, Ирској, Италији, Малезији, Холандији, Новом Зеланду, Сингапуру, Шпанији, Шведској, Швајцарској, Уједињеном Краљевству и Сједињеним Америчким Државама.
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
+vpn-shared-money-back-guarantee = 30-дневна гаранција поврата новца
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = Представљен у
+vpn-shared-features-encrypt = Шифровање на нивоу уређаја
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = Више од { $servers } сервера у преко { $countries } земаља
+vpn-shared-features-bandwidth = Без ограничења пропусног опсега
+vpn-shared-features-activity = Без бележења ваших веб активности
+vpn-shared-features-activity-logs = Без икаквог бележења ваших веб активности
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Приступ серверима у преко { $countries } земаља
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = Могућност повезивања до { $devices } уређаја
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Заштитите до { $devices } уређаја
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Повежите се на више од { $servers } сервера у преко { $countries } земаља
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Тренутно доступно у { $countries } земаља. Уследиће још региона ускоро
+# Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Погледајте читаву листу <a href="{ $url }" { $attrs }>сервера</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Моћни сервери у више од { $countries } земаља
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Повежите до { $devices } уређаја
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30-дневна гаранција поврата новца
+vpn-shared-refund-policy = Политика рефундирања
 vpn-shared-privacy-notice = Обавештење о приватности
 vpn-shared-terms-conditions = Услови коришћења
 
