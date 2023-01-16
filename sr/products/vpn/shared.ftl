@@ -124,16 +124,28 @@ vpn-subnav-subscribe = Претплатите се на { -brand-name-mozilla-vp
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Користимо колачиће да сазнамо који од придружених партнера вас је упутио на { -brand-name-mozilla-vpn }. Не делимо ваше личне податке са нашим партнерима. Прочитајте нашу <a { $attrs }>политику приватности</a>.
 vpn-shared-affiliate-notification-reject = Одбиј
 vpn-shared-affiliate-notification-ok = У реду
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = Побољшајте вашу приватности уз { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Додајте { -brand-name-firefox-relay } у вашу претплату да заштитите адресу е-поште и број телефона. <a href="{ $url }">Сазнајте више</a>.
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Додајте <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Маскирање адресе е-поште
+vpn-shared-relay-phone-masking = Маскирање броја телефона
 vpn-shared-get-vpn-plus-relay = Преузмите { -brand-name-vpn } + { -brand-name-relay }
 vpn-shared-why-bundle = Зашто у пакету?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Уштедите { $percent }%</span> на { -brand-name-relay-premium } годишњем плану
 
 ##
 
