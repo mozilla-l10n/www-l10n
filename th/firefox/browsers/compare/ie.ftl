@@ -11,6 +11,8 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } กับ { -b
 compare-ie-compare-internet-explorer-to = เปรียบเทียบ { -brand-name-ie } กับ { -brand-name-firefox-browser } เพื่อค้นหาว่าเบราว์เซอร์ใดดีกว่าสำหรับคุณ
 # Main title
 compare-ie-comparing-firefox-browser-with = เปรียบเทียบ { -brand-name-firefox-browser } กับ { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-while-microsofts-internet-explorer = แม้ว่า { -brand-name-ie } ของ { -brand-name-microsoft } จะยังถูกติดตั้งไว้ล่วงหน้าบนพีซีที่ใช้ Windows ส่วนใหญ่ แต่ก็ชัดเจนว่า { -brand-name-microsoft } ต้องการให้คุณใช้เบราว์เซอร์ { -brand-name-edge } ซึ่งจะถูกตั้งเป็นค่าเริ่มต้นตั้งแต่ตอนคุณซื้อคอมพิวเตอร์
+compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } ได้เลิกให้บริการแบรนด์ { -brand-name-ie } ไปแล้วตั้งแต่หลายปีก่อน เพื่อหันมาให้บริการเบราว์เซอร์ { -brand-name-edge } ที่ปรับปรุงใหม่สำหรับ { -brand-name-windows } 10 แต่กระแสตอบรับที่ช้าของ { -brand-name-edge } ก็ทำให้ { -brand-name-ie } ยังคงมีที่ยืนอยู่ต่อไปด้วยเหตุผลด้านความเข้ากันได้ทางธุรกิจเป็นส่วนใหญ่
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
 compare-ie-if-you-havent-moved-on-from-using = หากคุณยังไม่ได้เปลี่ยนจากการใช้ { -brand-name-ie } ปัจจัยเสี่ยงด้านความปลอดภัยเพียงอย่างเดียวก็เพียงพอที่จะทำให้คุณเชื่อได้ <a { $attrs }>หัวหน้าฝ่ายรักษาความปลอดภัยของ { -brand-name-microsoft } ได้เตือน</a>หลายล้านคนที่ยังใช้ { -brand-name-ie } เป็นเว็บเบราว์เซอร์หลักของตัวเองว่ากำลังอยู่ใน "อันตราย"
