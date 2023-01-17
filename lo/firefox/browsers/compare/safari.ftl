@@ -11,6 +11,9 @@ compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } ທຽບກ
 compare-safari-safari-is-the-pre-installed = { -brand-name-safari } ແມ່ນຕົວທ່ອງເວັບທີ່ຕິດຕັ້ງໄວ້ລ່ວງໜ້າໃນ { -brand-name-mac } ແລະ { -brand-name-iphone }. ປຽບທຽບ { -brand-name-safari } ກັບ { -brand-name-firefox-browser } ເພື່ອຊອກຫາວ່າບຣາວເຊີໃດທີ່ດີກວ່າສຳລັບເຈົ້າ.
 # Main title.
 compare-safari-comparing-firefox-browser = ປຽບທຽບ { -brand-name-firefox-browser } ກັບ { -brand-name-apple } { -brand-name-safari }
+# Obsolete string
+# "Mac" is a brand name, used here as informal shorthand for "macOS computer".
+compare-safari-if-you-use-a-mac-or-have = ຖ້າທ່ານໃຊ້ Mac ຫຼືມີ { -brand-name-iphone }, ໂອກາດທີ່ທ່ານຄຸ້ນເຄີຍກັບຕົວທ່ອງເວັບຂອງ { -brand-name-safari }. ຄວາມຈິງທີ່ວ່າມັນຖືກຕິດຕັ້ງໄວ້ກ່ອນເປັນຕົວທ່ອງເວັບເລີ່ມຕົ້ນສໍາລັບຜູ້ໃຊ້ຜະລິດຕະພັນຂອງ { -brand-name-apple } ແນ່ນອນເຮັດໃຫ້ມັນມີຜົນປະໂຫຍດໃນຕອນຕົ້ນ, ແຕ່ { -brand-name-firefox } ມີຊຸດຄຸນສົມບັດທີ່ເປັນປະໂຫຍດທີ່ເຮັດໃຫ້ມັນເປັນທີ່ຫນ້າສົນໃຈ. ທາງເລືອກ. ທີ່ນີ້ພວກເຮົາຈະຄົ້ນຫາຄວາມແຕກຕ່າງຕົ້ນຕໍລະຫວ່າງຕົວທ່ອງເວັບຂອງພວກເຮົາແລະ { -brand-name-safari } ໃນດ້ານຄວາມເປັນສ່ວນຕົວ, ປະໂຫຍດ, ແລະການເຄື່ອນທີ່ລະຫວ່າງອຸປະກອນ.
 # "Standing on the soap box" means trying to spread a persuasive message to the masses. Alternative: "We've been spreading the message about privacy for a long time." Soap used to come in wooden crates, and this idiom refers to activists or preachers who would stand on an empty soap box on a street corner to speak to a crowd.
 compare-safari-like-safari-we-at-firefox = ເຊັ່ນດຽວກັບ { -brand-name-safari }, ພວກເຮົາຢູ່ທີ່ { -brand-name-firefox } ໄດ້ເນັ້ນໃສ່ຄວາມເປັນສ່ວນຕົວ ແລະຄວາມປອດໄພ. ແຕ່ບໍ່ຄືກັບ { -brand-name-safari }, ພວກເຮົາໄດ້ຢືນຢູ່ໃນກ່ອງສະບູຄວາມເປັນສ່ວນຕົວເປັນເວລາດົນແລ້ວ. ແທ້ຈິງແລ້ວ, { -brand-name-mozilla } (ບໍລິສັດແມ່ຂອງພວກເຮົາ) ແມ່ນໜຶ່ງໃນສຽງທຳອິດໃນຊຸມຊົນເທັກໂນໂລຍີທີ່ຈະເປັນສຽງປຸກເພື່ອຄວາມເປັນສ່ວນຕົວທາງອິນເຕີເນັດ.
 # Variables:
