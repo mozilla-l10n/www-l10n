@@ -40,3 +40,8 @@ vpn-ip-address-you-dont-need = Natekotevẽi remokañy nde IP renda, ha katu oĩ
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Avei ikatukuaa eñomi nde IP kundaharape. Ikatu eñomi eho aja mombyry. Peteĩ VPN ome’ẽkuaa <a href="{ $url }">tekoñemive</a> eike vove WiFi-pe ehechauka hag̃ua ta’ãngamýi ha emba’ejogua eikundaha aja arapy tuichakue jave.
 vpn-ip-address-how-do-you = ¿Mba’éicha oñomikuaa?
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is-v2 = VPN rupive ikatukuaa eñomi nde IP kundaharape. <a href="{ $vpn }">Eipuru vove VPN</a>, IP kundaharape okaygua oúta IP kundaharape VPN mohendahavusúgui, pe ne rendaite IP kundaharape okayguágui. Upéicha ne VPN mohendahavusu jeikeha oĩ California távape, nde IP okaygua he’íta eikeha California guive, tereime reimehápe. Avei, ne rembiapo ñandutípe oñemondo peteĩ jeike ipapapýva ha hekorosãva rupi nde VPN mohendahavusúpe, ome’ẽvo ndéve tekorosã ha tekoñemi iporã añetéva. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ha’e ikatuha eñomi nde IP kundaharape. Noroñongatúi ne rembiapo rapykuere ñandutípe, avei ndorojuajúi ambue ndive omoheñóiva mba’ete ivaíva ejapóva guive ñandutípe. Rome’ẽ mba’e’oka rekorosã tuichaháicha po mba’e’oka mohendahavusu ndive heta { $countries } tetãme, eikekuaa eikesehápe, oimeraẽva tendágui.
