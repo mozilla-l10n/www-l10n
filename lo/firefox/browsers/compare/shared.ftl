@@ -16,6 +16,7 @@ compare-shared-blocks-third-party-tracking = ບລັອກຄຸກກີຕ�
 compare-shared-blocks-cryptomining-scripts = ປິດກັ້ນສະຄິບການຂຸດຫຼຽນດີຈິຕອນ
 compare-shared-blocks-fingerprinting-scripts = ປິດກັ້ນສະຄິບລາຍນີ້ວມືດີຈິຕອນ
 compare-shared-blocks-social-trackers = ປິດກັ້ນຜູ້ຕິດຕາມສັງຄົມ
+compare-shared-dashboard-to-review = ແຜງໜ້າປັດເພື່ອກວດສອບຕົວຕິດຕາມທີ່ຖືກບລັອກ
 compare-shared-autoplay-blocking = ການປິດກັ້ນການຫຼິ້ນອັດຕະໂນມັດ
 compare-shared-tab-browsing = ແຖບຊອກຫາ
 compare-shared-bookmark-manager = ໂຕຈັດການບຸກມາກ

@@ -20,6 +20,9 @@ compare-safari-like-safari-we-at-firefox = ເຊັ່ນດຽວກັບ { -
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 compare-safari-as-far-as-security-goes-firefox = ເທົ່າທີ່ປອດໄພ, { -brand-name-firefox } ກໍ່ຄົງຢູ່ຄືກັນ. ທຸກຄັ້ງທີ່ທ່ານຢູ່ໃນ { -brand-name-firefox }, ທ່ານສາມາດຄລິກຂວາໃສ່ຊ່ອງໃສ່ລະຫັດຜ່ານເພື່ອສ້າງລະຫັດຜ່ານທີ່ເຂັ້ມແຂງຢ່າງປອດໄພໂດຍໃຊ້ຕົວເລືອກ Fill Password. ເມື່ອທ່ານບັນທຶກລະຫັດຜ່ານໃໝ່ຂອງທ່ານ, ພວກເຮົາຈະບອກໃຫ້ທ່ານບັນທຶກໃສ່ຕົວຈັດການລະຫັດຜ່ານໃນຕົວຂອງມັນ, <a { $lockwise }>{ -brand-name-lockwise }</a>. ພວກເຮົາຍັງໃຫ້ບໍລິການຜູ້ໃຊ້ ແລະຜູ້ຖືບັນຊີດ້ວຍຜະລິດຕະພັນທີ່ບໍ່ເສຍຄ່າ ແລະມີປະໂຫຍດອີກອັນໜຶ່ງທີ່ເອີ້ນວ່າ <a { $monitor }>{ -brand-name-monitor }</a> ທີ່ແຈ້ງເຕືອນທ່ານໂດຍອັດຕະໂນມັດຖ້າຂໍ້ມູນຂອງທ່ານຖືກລວມເຂົ້າໃນການລະເມີດຂໍ້ມູນທີ່ຮູ້ຈັກ.
+# Variables:
+#   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
+compare-safari-like-safari-firefox-encourages = ເຊັ່ນດຽວກັນກັບ { -brand-name-safari }, { -brand-name-firefox } ຊຸກຍູ້ຊຸມຊົນນັກພັດທະນາທີ່ມີຄວາມກະຕືລືລົ້ນຂອງຕົນໃນການສ້າງ <a { $attrs }>ສ່ວນເສີມ ແລະສ່ວນຂະຫຍາຍ</a> ໃຫ້ກັບຕົວທ່ອງເວັບ. ແລະເນື່ອງຈາກແພລດຟອມຂອງພວກເຮົາເປັນແຫຼ່ງເປີດ, ມີການເລືອກອັນຫຼວງຫຼາຍເພີ່ມການເຮັດວຽກທີ່ຫຼາກຫຼາຍ.
 compare-safari-firefox-is-also-great-for-video = { -brand-name-firefox } ແມ່ນດີຫຼາຍສຳລັບວິດີໂອ ແລະສຽງ. ດ້ວຍການປິດກັ້ນການຫຼິ້ນອັດຕະໂນມັດທີ່ສ້າງຂຶ້ນໂດຍກົງໃນບຣາວເຊີ ແລະເປີດໂດຍອັດຕະໂນມັດ, ບໍ່ມີເວັບໄຊທ໌ໃດຈະຮ້ອງ ຫຼື ເຍາະເຍີ້ຍເຈົ້າທີ່ບໍ່ໄດ້ຮັບເຊີນ.
 # Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
