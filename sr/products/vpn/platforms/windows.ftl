@@ -16,3 +16,7 @@ vpn-windows-ability = Без обзира где се налазите, треб
 vpn-windows-wifi-headline = Останите приватни на јавном WiFi-ју
 vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } штити вашу интернет везу од радозналих очију, тако да можете да обављате посао са било ког места — аеродрома, спаваонице, кафића — без бриге о приватности на мрежи.
 vpn-windows-about-headline = Од лидера у приватности на интернету
+vpn-windows-about-copy = { -brand-name-mozilla }, непрофитна организација која је развила { -brand-name-firefox-browser }, је заједница интернет корисника из целог света посвећена одржавању интернета бесплатним и отвореним за све. Мисија { -brand-name-mozilla }-е је да сваки наш производ ставља људе на прво место, пре профита.
+vpn-windows-privacy-headline = Заштита једним притиском на дугме
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } шифрује вашу интернет везу помоћу { -brand-name-wireguard }® напредног протокола и сакрива вашу IP адресу од вашег уређаја од радозналих очију.
+vpn-windows-servers-headline = Приступ серверима широм света
