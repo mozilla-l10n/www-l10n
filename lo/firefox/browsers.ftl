@@ -14,6 +14,7 @@ firefox-browsers-page-desc = ເລືອກຈາກ Desktop, { -brand-name-ios
 firefox-browsers-desktop = Desktop
 firefox-browsers-download-for-desktop = ດາວໂຫລດສໍາລັບ Desktop
 firefox-browsers-mobile = ໂທລະສັບມືຖື
+firefox-browsers-download-for-mobile = ດາວໂຫລດສໍາລັບມືຖື
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-learn-more-about-devtools = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ { -brand-name-devtools }
 firefox-browsers-android = { -brand-name-android }

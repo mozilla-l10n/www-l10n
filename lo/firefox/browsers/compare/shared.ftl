@@ -41,6 +41,8 @@ compare-shared-portability = ການພົກພາ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = ຄວາມປອດໄພ ແລະ <strong>ຄວາມເປັນສ່ວນຕົວ</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-utility-strong = <strong>ອຸປະຖຳ</strong>
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>ການພົກພາ</strong>
 compare-shared-overall-assessment = ການປະເມີນໂດຍລວມ
 compare-shared-brand-name-firefox = { -brand-name-firefox }
