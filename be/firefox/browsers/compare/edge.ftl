@@ -20,6 +20,12 @@ compare-edge-edge-is-integrated-into-the = { -brand-name-edge } інтэграв
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-edge-at-firefox-we-pride-ourselves = У { -brand-name-firefox } мы ганарымся тым, што абараняем бяспеку і прыватнасць нашых карыстальнікаў. Наша <a { $attrs }>палітыка прыватнасці</a> празрыстая і напісана зразумелай мовай. Насамрэч мы зрабілі шмат працы, каб упэўніцца, што яе проста і лёгка чытаць. Узмоцненая ахова ад сачэння, цяпер прадвызначана ўключаная, аўтаматычна блакуе больш за 2000 трэкераў. Трэкеры — гэта тыя маленькія кавалачкі кода, якія спрабуюць сабраць разам тое, што вы робіце на многіх сайтах, каб пабудаваць зводную і падрабязную карціну таго, хто вы ёсць, парушаючы вашу прыватнасць толькі дзеля лепшай рэкламы.
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-edge-at-firefox-our-privacy-fallback = У { -brand-name-firefox } наша <a { $attrs }>палітыка прыватнасці</a> празрыстая і напісана зразумелай мовай. Насамрэч мы зрабілі шмат працы, каб упэўніцца, што яе проста і лёгка чытаць. Мы ганарымся тым, што абараняем бяспеку і прыватнасць нашых карыстальнікаў. Узмоцненая ахова ад сачэння, цяпер прадвызначана ўключаная, аўтаматычна блакуе больш за 2000 трэкераў. Трэкеры — гэта тыя маленькія кавалачкі кода, якія спрабуюць сабраць разам тое, што вы робіце на многіх сайтах, каб пабудаваць зводную і падрабязную карціну таго, хто вы ёсць, парушаючы вашу прыватнасць толькі дзеля лепшай рэкламы.
+# Variables:
+#   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
+compare-edge-your-privacy-protections-shows = Ваша <a { $attrs }>Ахова прыватнасці</a> паказвае трэкеры і кукі, якія старонкі спрабавалі пакінуць, і колькі іх { -brand-name-firefox } заблакаваў.
 compare-edge-edge-also-allows-you-to-connect = { -brand-name-edge } таксама дазваляе падключыць ваш звязаны ўліковы запіс { -brand-name-microsoft } і ўвайсці, каб сінхранізаваць абранае, гісторыю, паролі і іншае паміж вашым камп'ютарам і прыладамі з { -brand-name-ios } або { -brand-name-android }.
 compare-edge-edge-also-allows-you-to-fallback = { -brand-name-edge } таксама дазваляе падключыць ваш звязаны ўліковы запіс { -brand-name-microsoft } і ўвайсці, каб сінхранізаваць абранае, гісторыю, паролі і іншае паміж вашым камп'ютарам і прыладамі з { -brand-name-ios } або { -brand-name-android }, хоць некаторыя планшэты { -brand-name-android } зараз не падтрымліваюцца.
 # Variables:
