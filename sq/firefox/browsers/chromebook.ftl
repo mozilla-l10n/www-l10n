@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
@@ -26,4 +26,4 @@ browsers-chromebook-install-firefox-from = Instaloni { -brand-name-firefox }-in 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
-browsers-chromebook-install-firefox-as = Instalojeni { -brand-name-firefox }-in si një aplikacion { -brand-name-linux }: përmes kësaj rruge ka ca hapa më tepër, por ia vlen. Kur instaloni shfletuesin { -brand-name-firefox } si një aplikacion { -brand-name-linux }, merrni shfletuesin { -brand-name-firefox } desktop dhe krejt përfitimet që vijnë me të, përfshi Mbrojtje të Thelluar Nga Gjurmimet, një përgjegjës të brendshëm fjalëkalimesh, mijëra shtesa (përfshi bllokuesin e reklamave UBlock Origin), dhe tema grafike për të përshtatur pamjen e shfletuesit tuaj. <a { $url }>Mësoni më tepër rreth instalimit të shfletuesi { -brand-name-firefox } për desktop për { -brand-name-chromebook }.</a>
+browsers-chromebook-install-firefox-as = Instalojeni { -brand-name-firefox }-in si një aplikacion { -brand-name-linux }: përmes kësaj rruge ka ca hapa më tepër, por ia vlen. Kur instaloni shfletuesin { -brand-name-firefox } si një aplikacion { -brand-name-linux }, merrni shfletuesin { -brand-name-firefox } desktop dhe krejt përfitimet që vijnë me të, përfshi Mbrojtje të Thelluar Nga Gjurmimet, një përgjegjës të brendshëm fjalëkalimesh, mijëra shtesa (përfshi bllokuesin e reklamave UBlock Origin) dhe tema grafike për të përshtatur pamjen e shfletuesit tuaj. <a { $url }>Mësoni më tepër rreth instalimit të shfletuesi { -brand-name-firefox } për desktop për { -brand-name-chromebook }.</a>
