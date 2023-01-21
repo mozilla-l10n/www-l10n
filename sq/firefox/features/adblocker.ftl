@@ -10,7 +10,7 @@ features-adblocker-how-to-stop-seeing-too = Si të reshtet shfaqja e shumë rekl
 features-adblocker-the-ad-blocker-a-secret = Bllokuesi i reklamave – një armë e fshehtë kundër reklamave bezdisëse.
 features-adblocker-so-many-ads-so-little = Kaq shumë reklama, kaq pak durim… Ka ardhur koha të ndalet çmenduria.
 features-adblocker-the-average-person-sees = Personi mesatar sheh mesatarisht 4 mijë reklama në ditë. Nëse mendoni se kaq është shumë, një bllokues reklamash është shoku juaj më i mirë.
-features-adblocker-an-ad-blocker-is-a-piece = Një bllokues reklamash është një copë software-i që mund të përdoret për të bllokuar reklama, dhe punojnë në dy drejtime. Drejtimi i parë është kur një bllokues reklamash bllokon sinjalin prej një shërbyesi të reklamuesit, kështu që reklama nuk shfaqet kurrë në faqen tuaj. Një drejtim tjetër në të cilin funksionojnë bllokuesit e reklamave është përmes bllokimi pjesësh të një sajti të cilat mund të jenë reklama.
+features-adblocker-an-ad-blocker-is-a-piece = Një bllokues reklamash është një copë software-i që mund të përdoret për të bllokuar reklama dhe punon në dy drejtime. Drejtimi i parë është kur një bllokues reklamash bllokon sinjalin prej një shërbyesi të reklamuesit, kështu që reklama nuk shfaqet kurrë në faqen tuaj. Një drejtim tjetër në të cilin funksionojnë bllokuesit e reklamave është përmes bllokimi pjesësh të një sajti të cilat mund të jenë reklama.
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/

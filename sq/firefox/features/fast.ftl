@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
@@ -18,4 +18,4 @@ features-fast-get-all-the-tabs-without-lags = Merrni krejt skedat pa vonesë
 features-fast-multi-tasking-with-multiple = Puna me shumë skeda njëherësh sapo është bërë edhe më e lehtë. { -brand-name-firefox }-i tani e tutje është një shfletues multi-proces, që do të thotë se skedat tuaja ruajnë freskinë dhe as do t’ju duhet të prisni pambarim për t’u ngarkuar. Me 86% më pak kohë pritjeje, hidhuni pa humbur kohë nga njëra në tjetrën, madje teksa hapni edhe më.
 features-fast-level-up-browser-gameplay = Shpjerini lojërat një shkallë më sipër
 # Native speed refers to operating speed for games written for platforms such as macOS or Windows.
-features-fast-we-led-the-tech-to-run-3d-games = Kemi udhëhequr përpjekjet për të xhiruar lojëra 3D me shpejtësi thuajse në platformat origjinale, dhe tani { -brand-name-firefox }-i po sjell punim më të mirë të lojërave në Internet. Shfletuesi ynë i fuqishëm zvogëlon vonesat, përshpejton kohë ping-esh dhe optimizon në përgjithësi luajtjen përmes funksionimi më të shpejtë dhe me më pak konsum burimesh.
+features-fast-we-led-the-tech-to-run-3d-games = Kemi udhëhequr përpjekjet për të xhiruar lojëra 3D me shpejtësi thuajse në platformat origjinale dhe tani { -brand-name-firefox }-i po sjell punim më të mirë të lojërave në Internet. Shfletuesi ynë i fuqishëm zvogëlon vonesat, përshpejton kohë ping-esh dhe optimizon në përgjithësi luajtjen përmes funksionimi më të shpejtë dhe me më pak konsum burimesh.

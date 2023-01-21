@@ -48,7 +48,7 @@ firefox-channel-build-test-scale-and-more = Montoni, provoni, përshkallëzoni, 
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } është një platformë e paqëndrueshme testimesh dhe zhvillimi. Si parazgjedhje, { -brand-name-developer-edition } dërgon të dhëna te { -brand-name-mozilla } — dhe me raste edhe te partnerë tanët — për të na ndihmuar të trajtojmë probleme dhe të provojmë ide. <a href="{ $link }">Mësoni se ç’ndahet me të tjerët</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } i dërgon vetvetiu të dhëna { -brand-name-mozilla }-s.
 firefox-channel-nightly = { -brand-name-nightly }
-firefox-channel-get-a-sneak-peek-at-our = Hidhini një sy të shpejtë shfletuesit tonë të brezit të ardhshëm, dhe ndihmonani ta bëjmë shfletuesin më të mirë që mund të ketë: provoni { -brand-name-firefox-nightly }.
+firefox-channel-get-a-sneak-peek-at-our = Hidhini një sy të shpejtë shfletuesit tonë të brezit të ardhshëm dhe ndihmonani ta bëjmë shfletuesin më të mirë që mund të ketë: provoni { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Provoni përditë (ose… përnatë) veçoritë e reja. Qari dhe zarari… i juaji.
 firefox-channel-try-new-features-in-a-pre-release = Provoni Veçoritë e Reja me një Version Paraqarkullim të Shfletuesit për { -brand-name-ios } | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-features-ios = Shihni veçoritë e fjalës së fundit, me një version paraqarkullim të shfletuesit për { -brand-name-ios }, përmes programit { -brand-name-test-flight } nga { -brand-name-apple }. Instalojeni që tani!
