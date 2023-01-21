@@ -30,7 +30,7 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } ju jep aftësinë të cakto
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Lidhni deri në { $devices } pajisje
-vpn-linux-devices-copy = Me një pajtim, përfitoni { -brand-name-mozilla-vpn } deri në { $devices } pajisje të ndryshme, nga sisteme të ndryshëm operativë, përfshi { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short }, dhe { -brand-name-ios } për { -brand-name-iphone } dhe { -brand-name-ipad }.
+vpn-linux-devices-copy = Me një pajtim, përfitoni { -brand-name-mozilla-vpn } deri në { $devices } pajisje të ndryshme, nga sisteme të ndryshëm operativë, përfshi { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } dhe { -brand-name-ios } për { -brand-name-iphone } dhe { -brand-name-ipad }.
 vpn-linux-speed-headline = Ultra i shpejtë, pa kufizim sasie të dhënash
 vpn-linux-speed-copy = Luani lojëra, shihni filma dhe shfaqje, shfletoni në internet me shpejtësi ultra të mëdha dhe pa kufizim sasie trafiku — { -brand-name-mozilla-vpn } është pa kufizime.
 vpn-linux-log-headline = Të dhënat tuaja janë pronë e juaja

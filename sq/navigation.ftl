@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Shkarkoni { -brand-name-firefox }-in
 navigation-get-a-firefox-account = Merrni një { -brand-name-firefox-account }
@@ -67,7 +67,7 @@ navigation-privacy = Privatësi
 navigation-get-unmatched-data-protection = Merrni prej vargut të hedhjeve në qarkullim mbrojtje të pashoqe të dhënash që i përshtatet entit tuaj.
 navigation-made-with-respect = Krijuar me respekt
 navigation-close-products-menu = Mbyllni menunë Produkte
-navigation-see-if-your-personal = Shihni nëse të dhëna tuajat personale kanë rrjedhur në internet, dhe regjistrohuni për sinjalizime cenimesh në të ardhmen.
+navigation-see-if-your-personal = Shihni nëse të dhëna tuajat personale kanë rrjedhur në internet dhe regjistrohuni për sinjalizime cenimesh në të ardhmen.
 navigation-check-for-breaches = Kontrolloni për Cenime
 navigation-see-breaches = Shihni Cenime
 navigation-security-tips = Ndihmëza Sigurie

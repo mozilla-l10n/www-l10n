@@ -31,6 +31,6 @@ vpn-ios-devices-headline = Përfitoni përdorim për { $devices } pajisje
 #   $devices (number) - number of available devices
 vpn-ios-devices-copy = Me një pajtim, mund ta keni { -brand-name-mozilla-vpn } në deri { $devices } pajisje, përfshi { -brand-name-ios } për { -brand-name-iphone } dhe { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } dhe { -brand-name-linux }.
 vpn-ios-speed-headline = Shpejtësi maksimale. Pa kufizim të dhënash.
-vpn-ios-speed-copy = Luani lojëra në internet, shkarkoni shfaqet tuaja të parapëlqyera, dhe lëvizni në internet me shpejtësi ultra të larta. Pa çarë kokën për sasinë e trafikut në { -brand-name-mozilla-vpn } — është e pakufizuar.
+vpn-ios-speed-copy = Luani lojëra në internet, shkarkoni shfaqet tuaja të parapëlqyera dhe lëvizni në internet me shpejtësi ultra të larta. Pa çarë kokën për sasinë e trafikut në { -brand-name-mozilla-vpn } — është e pakufizuar.
 vpn-ios-log-headline = Të dhënat tuaja mbeten private. Pikë.
 vpn-ios-log-copy = Disa shërbime VPN e regjistrojnë veprimtarinë tuaj në shërbyesit e tyre. { -brand-name-mozilla-vpn } jo vetëm nuk ju gjurmon në internet — jemi të palëkundur kundër kësaj. Kjo është një pjesë e rëndësishme e asaj çka përfaqësojmë si shoqëri.

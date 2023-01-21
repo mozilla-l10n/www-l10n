@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
@@ -13,7 +13,7 @@ vpn-mobile-hero-headline = Siguroni privatësinë tuaj në celular me { -brand-n
 vpn-mobile-maker-of-firefox = Garantoni që lidhja internet e telefonit tuaj mbetet private, pavarësisht se ku ju shpie dita, me { -brand-name-mozilla-vpn }, një mjet thelbësor privatësie nga krijuesit e { -brand-name-firefox }.
 # Variables:
 #   $devices (number) - number of available devices
-vpn-mobile-ability = { -brand-name-mozilla-vpn } u pengon hacker-ave dhe spiunëve të shohin adresën tuaj IP, dhe errëson vendndodhjen tuaj në internet. Me fshehtëzim të thelluar dhe pa kufizime sasie trafiku, e bën shkarkimin dhe shfletimin në telefonin tuaj të mençur, apo tabletin tuaj, ultra të shpejtë dhe të sigurt në mënyrë të besueshme. Kundrejt një tarife të vogël mujore, mund të mbroni deri në { $devices } pajisje dhe të lidheni me dhjetëra shërbyes nga anembanë botës.
+vpn-mobile-ability = { -brand-name-mozilla-vpn } u pengon hacker-ave dhe spiunëve të shohin adresën tuaj IP dhe errëson vendndodhjen tuaj në internet. Me fshehtëzim të thelluar dhe pa kufizime sasie trafiku, e bën shkarkimin dhe shfletimin në telefonin tuaj të mençur, apo tabletin tuaj, ultra të shpejtë dhe të sigurt në mënyrë të besueshme. Kundrejt një tarife të vogël mujore, mund të mbroni deri në { $devices } pajisje dhe të lidheni me dhjetëra shërbyes nga anembanë botës.
 vpn-mobile-wifi-headline = Ndihuni të parrezikuar kur përdorni wifi publik
 vpn-mobile-wifi-copy = VPN-ja jonë e fsheh lidhjen tuaj internet për hacker-a dhe spiunë, ndaj mund të blini nga një kafe, të merreni me llogarinë tuaj bankare në tren dhe të merreni me punët tuaja në internet duke e ditur se adresa juaj IP është e mbrojtur.
 vpn-mobile-about-headline = Rreth { -brand-name-mozilla }-s

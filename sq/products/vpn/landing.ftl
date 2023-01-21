@@ -39,7 +39,7 @@ vpn-landing-faq-heading = PBR
 vpn-langing-faq-uses-question-heading = Ç’është një VPN dhe cilat janë përdorimet e tij?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
-vpn-landing-faq-uses-question-desc = Teksa një pjesë gjithnjë e më e madhe e jetës së përditshme zhvillohet përmes internetit, privatësia dhe siguria internetore bëhet gjithnjë e më e rëndësishme. Një VPN, <a href="{ $url }">Rrjet Privat Virtual</a>, mund të ndihmojë për të krijuar një lidhje të sigurt, private me internetin. Funksionon duke krijuar një “tunel” mes pajisjesh tuaj dhe internetit në përgjithësi, dhe ju mbron përmes dy rrugësh të rëndësishme:
+vpn-landing-faq-uses-question-desc = Teksa një pjesë gjithnjë e më e madhe e jetës së përditshme zhvillohet përmes internetit, privatësia dhe siguria internetore bëhet gjithnjë e më e rëndësishme. Një VPN, <a href="{ $url }">Rrjet Privat Virtual</a>, mund të ndihmojë për të krijuar një lidhje të sigurt, private me internetin. Funksionon duke krijuar një “tunel” mes pajisjesh tuaj dhe internetit në përgjithësi dhe ju mbron përmes dy rrugësh të rëndësishme:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = Duke fshehur <a href="{ $url }">adresën tuaj IP</a> të vërtetë. Kjo mbron identitetin tuaj dhe errëson të dhënat mbi vendndodhjen tuaj.
@@ -75,7 +75,7 @@ vpn-landing-faq-compatibility-question-heading = Me cilat pajisje është i për
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
-vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } është i përputhshëm me <a href="{ $mobile }">celular</a>, tablet, dhe <a href="{ $desktop }">desktop</a> në:
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } është i përputhshëm me <a href="{ $mobile }">celular</a>, tablet dhe <a href="{ $desktop }">desktop</a> në:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } është i përputhshëm me:
 # Variables:
