@@ -7,7 +7,7 @@
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
-nightly-whatsnew-youve-just-been = تساں مسیں { -brand-name-firefox-nightly }{ $version } تے اپ گریڈ تھئے ہو!
+nightly-whatsnew-youve-just-been = تساں ہݨے ہݨے { -brand-name-firefox-nightly }{ $version } تے اپ گریڈ تھئے ہو!
 nightly-whatsnew-your-firefox-nightly = تہاݙی { -brand-name-firefox-nightly } اپ ڈیٹ تھی ڳئی ہے۔
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = ہر 4 توں 5 ہفتیاں وِچ، { -brand-name-firefox } دا ہک نیا وݙا ورژن جاری کیتا ویندا ہے تے ایندے نتیجے وِچ، { -brand-name-nightly } ورژن وی ودھدا ہے۔
