@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
@@ -24,7 +24,7 @@ password-manager-password-magician = Magjistar fjalëkalimesh
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Magjistar fjalëkalimesh
-password-manager-no-more-try-again = Mjaft më me “riprovoni” teksa rrekeni të arrini diku. Bëni hyrjen te { -brand-name-firefox-account } e juaja në telefonin tuaj, dhe fjalëkalimet tuaj do të vijnë me ju. Hollësitë e hyrjeve tuaja thjesht do të shfaqen, si përherë.
+password-manager-no-more-try-again = Mjaft më me “riprovoni” teksa rrekeni të arrini diku. Bëni hyrjen te { -brand-name-firefox-account } e juaja në telefonin tuaj dhe fjalëkalimet tuaj do të vijnë me ju. Hollësitë e hyrjeve tuaja thjesht do të shfaqen, si përherë.
 password-manager-password-champion = Kampion fjalëkalimesh
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/

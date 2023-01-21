@@ -38,10 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Bllokon gjurmues shoqërorësh
 firefox-desktop-download-os-availability = Pasje në OS
 firefox-desktop-download-in-browser-screenshot = Mjet fotografimi ekrani brenda shfletuesit
 firefox-desktop-download-primary-password = Fjalëkalim parësor
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Duajeni jetën tuaj internetore
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Është interneti juaj. Ngjyroseni si doni, me mijëra mjete, tema dhe zgjerime. { -brand-name-firefox }-i është shfletuesi alternativ që vendos njerëzit përpara fitimeve.
 # Obsolete string
 firefox-desktop-download-master-password = Fjalëkalim i përgjithshëm
@@ -49,7 +48,7 @@ firefox-desktop-download-we-block-the-ad = Ne bllokojmë gjurmues reklamash. Ju 
 firefox-desktop-download-ads-are-distracting = Reklamat të tërheqin vëmendjen dhe bëjnë që faqet web të ngarkohen më ngadalë, teksa gjurmuesit që përmbajnë ndjekin çdo lëvizje që bëni në internet. { -brand-name-firefox-browser }-i bllokon automatikisht shumicën e gjurmuesve, ndaj s’keni pse të zhyteni në rregullimet tuaja të sigurisë.
 firefox-desktop-download-see-your-report = Shihni raportim tuaj të mbrojtjes
 firefox-desktop-download-for-everyone = { -brand-name-firefox }-i është për këdo
-firefox-desktop-download-available-in-over = Gati në mbi 90 gjuhë, dhe i përputhshëm me makina { -brand-name-windows }, { -brand-name-mac-short } dhe { -brand-name-linux }, { -brand-name-firefox } funksionon pavarësisht se ç’përdorni apo se ku ndodheni. Për funksionimin më të mirë, sigurohuni që sistemi juaj është i përditësuar.
+firefox-desktop-download-available-in-over = I gatshëm në mbi 90 gjuhë dhe i përputhshëm me makina { -brand-name-windows }, { -brand-name-mac-short } dhe { -brand-name-linux }, { -brand-name-firefox } funksionon pavarësisht se ç’përdorni apo se ku ndodheni. Për funksionimin më të mirë, sigurohuni që sistemi juaj është i përditësuar.
 firefox-desktop-download-review-system-req = Shqyrtoni domosdoshmëri sistemi
 firefox-desktop-download-all-your-devices = Vëreni { -brand-name-firefox }-in në krejt pajisjet tuaja
 firefox-desktop-download-take-your-privacy = Kijeni privatësinë tuaj gjithmonë me vete. { -brand-name-firefox-browsers } për { -brand-name-ios } dhe { -brand-name-android } kanë të njëjtat rregullime privatësie të fuqishme për bllokim të ndjekjes tuaj nëpër internet nga gjurmuesit, pavarësisht se ku gjendeni.
@@ -128,7 +127,7 @@ firefox-desktop-download-learn-about-the = Mësoni më tepër rreth shfletuesit 
 firefox-desktop-download-from-security-to = Nga siguria te lajmet, e më tej te lojërat, ka një <a { $attrs }>zgjerim për këdo</a>. Shtoni aq sa doni, derisa shfletuesi juaj të jetë si e doni.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = { -brand-name-firefox } u krijua nga <a { $attrs }>{ -brand-name-mozilla }</a> si një alternativë më e shpejtë, më private ndaj shfletuesish të tillë si { -brand-name-ie }, dhe tani { -brand-name-chrome }. Sot, shoqëria jonë edhe bashkësia e vullnetarëve të shtyrë përpara nga një mision vazhdojnë ta vënë privatësinë tuaj mbi gjithçka.
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } u krijua nga <a { $attrs }>{ -brand-name-mozilla }</a> si një alternativë më e shpejtë, më private ndaj shfletuesish të tillë si { -brand-name-ie } dhe tani { -brand-name-chrome }. Sot, shoqëria jonë edhe bashkësia e vullnetarëve të shtyrë përpara nga një mision vazhdojnë ta vënë privatësinë tuaj mbi gjithçka.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Teksa interneti rritet dhe ndryshon, { -brand-name-firefox } vazhdon të përqendrohet te e drejta juaj për privatësi — e quajmë <a { $attrs }>Premtimi rreth të Dhënave Personale</a>: Merr më pak. Mbaji të parrezikuara. Pa të fshehta. Të dhënat tuaja, veprimtaria juaj në internet, jeta juaj internetore janë të mbrojtura me { -brand-name-firefox }.

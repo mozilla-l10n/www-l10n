@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
@@ -24,7 +24,7 @@ installer-help-firefox-beta-desc = Provoni me montimin më stabël para-qarkulli
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Krijoni, testoni, përshkallëzoni, etj, me të vetmin shfletues të krijuar pikërisht për zhvilluesit.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
-installer-help-firefox-nightly-desc = Hidhni një vështrim mbi shfletuesin tonë të brezit pasues, dhe na ndihmoni të krijojmë shfletuesin më të mirë të mundshëm.
+installer-help-firefox-nightly-desc = Hidhni një vështrim mbi shfletuesin tonë të brezit pasues dhe na ndihmoni të krijojmë shfletuesin më të mirë të mundshëm.
 installer-help-need-help = Ju duhet ndihmë në instalim?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
