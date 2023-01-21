@@ -8,7 +8,7 @@
 # HTML page title
 firefox-privacy-hub-firefox-privacy-promise = Premtim Privatësie { -brand-name-firefox }
 # HTML page description
-firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } merr më pak të dhëna, i mban të parrezikuara, dhe pa të fshehta.
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } merr më pak të dhëna, i mban të parrezikuara dhe pa të fshehta.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-privacy-hub-firefox-products-are-designed = Produktet { -brand-name-firefox } janë të konceptuara për mbrojtjen e <strong>privatësisë</strong> tuaj
 # Sub navigation title
@@ -24,7 +24,7 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Insistojmë në njohjen e më p
 firefox-privacy-hub-all-tech-companies-collect = Krejt shoqëritë teknologjike grumbullojnë të dhëna për përmirësimin e produkteve të tyre. Por s’është e nevojshme që kjo të përfshijë kaq shumë të dhëna tuajat personale. Të vetmet të dhëna që duam janë të dhënat që ju shërbejnë juve. Pyesim veten: a na duhet vërtet kjo? Për se na duhet? Dhe kur mund ta fshijmë?
 firefox-privacy-hub-keep-it-safe = Mbajeni në vend të parrezik
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Punën e zorshme për të mbrojtur të dhënat tuaja personale e bëjmë ne
-firefox-privacy-hub-data-security-is-complicated = Siguria e të dhënave është e komplikuar — ose, të paktën e tillë duhet të jetë. Që është edhe arsyeja pse ndërmarrin hapa ekstra për kufizim hyrjeje në të dhënat që kemi, mirëmbajmë rregulla se si i depozitojmë dhe mbrojmë çdo lloj, dhe s’reshtim kurrë së rikthyeri proceseve tona. I japim përparësi privatësisë tuaj. Investojmë për të. I jemi përkushtuar asaj. Madje u mësojmë edhe shoqërive të tjera se si ta bëjnë edhe ato.
+firefox-privacy-hub-data-security-is-complicated = Siguria e të dhënave është e komplikuar — ose, të paktën e tillë duhet të jetë. Që është edhe arsyeja pse ndërmarrin hapa ekstra për kufizim hyrjeje në të dhënat që kemi, mirëmbajmë rregulla se si i depozitojmë dhe mbrojmë çdo lloj dhe s’reshtim kurrë së rikthyeri proceseve tona. I japim përparësi privatësisë tuaj. Investojmë për të. I jemi përkushtuar asaj. Madje u mësojmë edhe shoqërive të tjera se si ta bëjnë edhe ato.
 firefox-privacy-hub-no-secrets = Pa të fshehta
 firefox-privacy-hub-youll-always-know-where-you = Do ta dini përherë se ku jeni me ne
 # Variables:
@@ -72,7 +72,7 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Fjalëkalimet dhe kredencialet që ruani në { -brand-name-firefox-lockwise } janë të fshehtëzuar në krejt pajisjet tuaja, kështu që as ne vetë nuk mundemi t’i shohim.
 firefox-privacy-hub-learn-more-about-lockwise = Mësoni më tepër rreth { -brand-name-lockwise }-it
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
-firefox-privacy-hub-we-cant-see-the-names-or = S’i shohim dot emrat apo lëndën e kartelave të mëdha që ndani me të tjerët përmes { -brand-name-firefox-send }, ngaqë janë të fshehtëzuara skaj-më-skaj — mund të zgjidhni cilët mund të shohin ç’dërgoni, dhe mundeni madje të caktoni një datë skadimi dhe fjalëkalim.
+firefox-privacy-hub-we-cant-see-the-names-or = S’i shohim dot emrat apo lëndën e kartelave të mëdha që ndani me të tjerët përmes { -brand-name-firefox-send }, ngaqë janë të fshehtëzuara skaj-më-skaj — mund të zgjidhni cilët mund të shohin ç’dërgoni dhe mundeni madje të caktoni një datë skadimi dhe fjalëkalim.
 firefox-privacy-hub-send-a-file = Dërgoni një kartelë
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } rekomandon artikuj të cilësisë së lartë, në përkujdesje nga njerëz realë, pa grumbulluar historikun tuaj të shfletimeve apo ndarë të dhënat tuaja personal me reklamues.

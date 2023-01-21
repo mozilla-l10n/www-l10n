@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
@@ -22,6 +22,6 @@ welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-share-large-files = Ndani me të tjerë kartela të mëdha me fshehtëzim skaj-më-skaj, duke përdorur një lidhje që skadon automatikisht.
 welcome-page8-try-send = Provoni { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
-welcome-page8-stay-connected = Jini i lidhur me persona me të cilët s’mund të jeni në jetën e përditshme, dhe ndaleni gjurmimin tuaj nëpër internet nga { -brand-name-facebook }-u.
+welcome-page8-stay-connected = Jini i lidhur me persona me të cilët s’mund të jeni në jetën e përditshme dhe ndaleni gjurmimin tuaj nëpër internet nga { -brand-name-facebook }-u.
 welcome-page8-add-facebook-container = Shtoni { -brand-name-facebook-container }
 welcome-page8-why-am-i = Pse më del kjo?

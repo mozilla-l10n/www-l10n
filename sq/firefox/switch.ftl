@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
@@ -17,7 +17,7 @@ switch-spread-the-word = Përhapni fjalën rreth { -brand-name-firefox } dhe ndi
 switch-share-with-your-friends = Tregojuni miqve tuaj se si të hidhen në { -brand-name-firefox }
 switch-firefox-makes-switching-fast-tweet = 🔥 { -brand-name-firefox }-i e bën kalimin nga { -brand-name-chrome }-i përnjëmend të shpejtë. Provojeni!
 switch-switch-to-firefox = Hidhuni në { -brand-name-firefox }
-switch-firefox-makes-switching-fast-email = { -brand-name-firefox }-i e bën kalimin nga { -brand-name-chrome }-i përnjëmend të shpejtë. Më pëlqen shumë, dhe duhet ta provoni.
+switch-firefox-makes-switching-fast-email = { -brand-name-firefox }-i e bën kalimin nga { -brand-name-chrome }-i përnjëmend të shpejtë. Më pëlqen shumë dhe duhet ta provoni.
 switch-still-not-convinced = Ende s’ju mbushet mendja që kalimi në { -brand-name-firefox } është i lehtë?
 switch-enjoy-the-web-faster = Shijoni web-in më të shpejtë, rregulluar në gjithçka për ju.
 switch-download-and-switch = Shkarkojeni dhe kaloni në të

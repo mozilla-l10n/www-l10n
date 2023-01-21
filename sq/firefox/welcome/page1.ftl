@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
@@ -14,7 +14,7 @@ welcome-page1-youre-on-track-to-stay-protected = Jeni në rrugën e duhur për t
 welcome-page1-youve-got-the-web-browser = Morët shfletuesin që mbron privatësinë tuaj — tani erdhi koha të merrni një roje kundër hacker-ave.
 welcome-page1-check-your-breach-report = Kontrolloni Raportin Tuaj të Cenimeve
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } ju shfaq nëse kanë rrjedhur të dhëna tuajat gjatë një cenimi të ditur të dhënash, dhe ju sinjalizon në rast se ndodh në të ardhmen.
+welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } ju shfaq nëse kanë rrjedhur të dhëna tuajat gjatë një cenimi të ditur të dhënash dhe ju sinjalizon në rast se ndodh në të ardhmen.
 welcome-page1-stay-ahead-of-hackers = Jini një hap para hacker-ave
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

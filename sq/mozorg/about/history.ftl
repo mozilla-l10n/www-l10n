@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = Historiku i Projektit { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Projekti { -brand-name-mozilla } u <a href="{ $coderush }">krijua më 1998-n</a>, me <a href="{ $sourcerelease }">hedhjen në qarkullim lirisht të kodit burim të suitës së shfletuesit { -brand-name-netscape }</a>.
 history-it-was-intended-to-harness = Synimi qe të shfrytëzohej fuqia krijuese e mijëra programuesve në Internet dhe të ushqeheshin nivele risie të panjohur deri atëherë në tregun e shfletuesve.
@@ -41,7 +41,7 @@ history-in-2003-the-mozilla-project = Më 2003-in, projekti { -brand-name-mozill
 history-the-new-mozilla-foundation = Fondacioni i ri { -brand-name-mozilla-foundation } vazhdoi të përmbushë rolin e administrimit të veprimeve të përditshme të projektit dhe mori gjithashtu përsipër rolin e promovimit të <a href="{ $manifesto }">të qenët të hapur, risive dhe mundësive</a> në Internet.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
-history-it-did-this-by-continuing = Këtë e bëri duke vazhduar të hedhë në qarkullim software, të tillë si { -brand-name-firefox }-i dhe { -brand-name-thunderbird }-i, dhe duke e shtrirë fushën e veprimit në zona të reja, të tilla si dhënie <a href="{ $grants }">fondesh</a> në mbështetje të përmirësimeve të përdorshmërisë në Web.
+history-it-did-this-by-continuing = Këtë e bëri duke vazhduar të hedhë në qarkullim software, të tillë si { -brand-name-firefox }-i dhe { -brand-name-thunderbird }-i dhe duke e shtrirë fushën e veprimit në zona të reja, të tilla si dhënie <a href="{ $grants }">fondesh</a> në mbështetje të përmirësimeve të përdorimir në Web.
 # Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
