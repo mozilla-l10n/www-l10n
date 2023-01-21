@@ -26,6 +26,8 @@ compare-edge-at-firefox-our-privacy-fallback = У { -brand-name-firefox } наш
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = Ваша <a { $attrs }>Ахова прыватнасці</a> паказвае трэкеры і кукі, якія старонкі спрабавалі пакінуць, і колькі іх { -brand-name-firefox } заблакаваў.
+# "InPrivate" is a brand name.
+compare-edge-in-firefox-private-browsing = У { -brand-name-firefox } рэжым прыватнага аглядання аўтаматычна сцірае інфармацыю пра прагляд, такую як паролі, кукі і гісторыю, не пакідаючы ніякіх слядоў пасля таго, як вы закрыеце сеанс. У той жа час, { -brand-name-edge } фактычна запісвае гісторыю прагляду ў сваім прыватным рэжыме (так званым «InPrivate»), і для кагосьці гэта адносна лёгкая задача, аднавіць вашу поўную гісторыю прагляду, незалежна ад таго, ці быў ваш прагляд у звычайным рэжыме або ў InPrivate.
 compare-edge-edge-also-allows-you-to-connect = { -brand-name-edge } таксама дазваляе падключыць ваш звязаны ўліковы запіс { -brand-name-microsoft } і ўвайсці, каб сінхранізаваць абранае, гісторыю, паролі і іншае паміж вашым камп'ютарам і прыладамі з { -brand-name-ios } або { -brand-name-android }.
 compare-edge-edge-also-allows-you-to-fallback = { -brand-name-edge } таксама дазваляе падключыць ваш звязаны ўліковы запіс { -brand-name-microsoft } і ўвайсці, каб сінхранізаваць абранае, гісторыю, паролі і іншае паміж вашым камп'ютарам і прыладамі з { -brand-name-ios } або { -brand-name-android }, хоць некаторыя планшэты { -brand-name-android } зараз не падтрымліваюцца.
 # Variables:
