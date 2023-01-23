@@ -13,3 +13,5 @@ vpn-linux-page-description = Као { -brand-name-ubuntu } { -brand-name-linux }
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } за { -brand-name-ubuntu } { -brand-name-linux } — савршена комбинација за приватност
 vpn-linux-ability = Било да сте код куће или у покрету, { -brand-name-mozilla-vpn } вам пружа додатни слој заштите када сте на мрежи. За ниску месечну накнаду, напредни { -brand-name-wireguard }® протокол шифрује интернет везу на вашем { -brand-name-linux } рачунару и било ком другом уређају и омогућава вам да безбрижно гледате програме, играте игрице, купујете и бавите се свакодневним животом на мрежи.
+vpn-linux-maker-of-firefox = Као један од најпоузданијих брендова у технолошкој индустрији, { -brand-name-mozilla } је посвећена томе да се осећате безбедно сваки пут када будете онлајн.
+vpn-linux-wifi-headline = Будите безбедни када морате да користите јавни WiFi
