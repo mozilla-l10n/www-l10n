@@ -19,3 +19,18 @@ vpn-linux-wifi-copy = Понекад вам је јавни WiFi најбоља 
 vpn-linux-about-headline = Бренд коме се верује од 1998.
 vpn-linux-about-copy = Као произвођачи { -brand-name-firefox } веб прегледача, { -brand-name-mozilla } се деценијама бори за ваша права на мрежи — то је наша мисија. Као алтернатива великим технолошким компанијама које прикупљају податке, ми стално тражимо нове начине да интернет остане отворен и бесплатан, поштујући свачије право на приватност.
 vpn-linux-privacy-headline = Заштићени једним кликом
+vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } је врло једноставан за коришћење. Притиском на дугме, ваша веза је шифрована, а IP адреса вашег { -brand-name-iphone }-а или { -brand-name-ipad }-а маскирана помоћу напредног { -brand-name-wireguard }® протокола.
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-linux-servers-headline = Повежите се на више од { $servers } сервера у преко { $countries } земаља
+# Variables:
+#   $countries (number) - number of available countries
+vpn-linux-servers-copy = { -brand-name-mozilla-vpn } вам омогућава да поставите локацију вашег { -brand-name-linux } рачунара у једну од више од { $countries } земаља и отвори вам свет узбудљивог новог садржаја.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-linux-devices-headline = Повежите до { $devices } уређаја
+vpn-linux-devices-copy = Са једном претплатом, можете да добијете { -brand-name-mozilla-vpn } на најмање { $devices } различитих уређаја, укључујући { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } и { -brand-name-ios } за { -brand-name-iphone } и { -brand-name-ipad }.
+vpn-linux-speed-headline = Ултра брзо са неограниченим подацима
+vpn-linux-speed-copy = Играјте игрице, гледајте филмове и емисије и сурфујте интернетом ултра брзо без пригушења пропусног опсега — { -brand-name-mozilla-vpn } је неограничен.
+vpn-linux-log-headline = Ваши подаци припадају вама
