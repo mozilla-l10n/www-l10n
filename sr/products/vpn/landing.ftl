@@ -45,7 +45,7 @@ vpn-landing-faq-uses-question-desc = Како се све већи део наш
 vpn-landing-faq-uses-conceal-v2 = Сакривањем ваше праве <a href="{ $url }">IP адресе</a>. Ово штити ваш идентитет и прикрива вашу локацију.
 # Obsolete string
 vpn-landing-faq-uses-conceal = Сакривањем ваше праве IP адресе. Ово штити ваш идентитет и прикрива вашу локацију.
-vpn-landing-faq-uses-encrypt = Шифрује саобраћај између вас и вашег VPN провајдера, спречавајући било кога на вашој локалној мрежи да га дешифрује или модификује.
+vpn-landing-faq-uses-encrypt = Шифрује саобраћај између вас и вашег VPN добављача, спречавајући било кога на вашој локалној мрежи да га дешифрује или модификује.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Погледајте <a href="{ $url }">пет стварних сценарија</a> где бисте можда желели да имате VPN на вашем уређају.
