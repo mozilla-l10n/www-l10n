@@ -7,3 +7,6 @@
 
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } за десктоп (рачунар и лаптоп)
+vpn-desktop-page-description = Брза и лака заштита вашег десктоп рачунара или лаптопа преко { -brand-name-mozilla }-е, једног од најпоузданијих брендова у технологији.
+# Desktop strings
+vpn-desktop-hero-headline = Обезбедите вашу интернет везу помоћу { -brand-name-mozilla-vpn }-а за десктоп
