@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
 welcome-page14-page-title = Овог месеца сајбер безбедности имате 20% попуста на { -brand-name-mozilla-vpn }
-welcome-page14-page-title-alt = Месец је сајбер безбедности — време је да појачате своју приватност
+welcome-page14-page-title-alt = Месец је сајбер безбедности — време је да појачате вашу приватност
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (виртуелна приватна мрежа) у потпуности штити вашу интернет везу на рачунару, таблету, па чак и на телефону. Ради додатне сигурности, ту је 30-дневна гаранција поврата новца.
 welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (виртуелна приватна мрежа) у потпуности штити вашу интернет везу на рачунару, таблету, па чак и на телефону. Ради додатне сигурности, ту је 30-дневна гаранција поврата новца.
 welcome-page14-get-mozilla-vpn = Преузмите { -brand-name-mozilla-vpn }

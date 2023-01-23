@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/404-locale/
 
-not-found-locale-title = Изаберите свој језик или локацију да прегледате Mozilla.org
-not-found-locale-desc = Изаберите своју земљу или регију да одредите жељени језик.
+not-found-locale-title = Изаберите ваш језик или локацију да прегледате Mozilla.org
+not-found-locale-desc = Изаберите вашу земљу или регију да одредите жељени језик.
 not-found-locale-not-yet-translated = Страница још није преведена
 # Variables:
 #   $community (url) - link to https://community.mozilla.org/activities/localize-mozilla/

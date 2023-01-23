@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Преузми одмах
 download-button-free-download = Бесплатно преузимање
@@ -22,7 +22,7 @@ download-button-please-follow-these = Пратите <a href="{ $url }">ове �
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Ваш систем не испуњава <a href="{ $url }">системску захтевност</a> да би покренуо { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } за остале платформе и језике
-download-button-update-your-firefox = Ажурирајте свој { -brand-name-firefox }
+download-button-update-your-firefox = Ажурирајте ваш { -brand-name-firefox }
 download-button-get-firefox-android = Преузмите { -brand-name-firefox } за { -brand-name-android }
 download-button-get-firefox-ios = Набавите { -brand-name-firefox } за { -brand-name-ios }
 download-button-google-play = Набавите га на { -brand-name-google-play }-у
