@@ -8,7 +8,7 @@
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla } Приватност
 privacy-index-contact-mozilla = Контактирајте { -brand-name-mozilla }-у
-privacy-index-if-you-want-to-make-a-correction = Ако желите исправити своје информације, или ако имате било каква питања о нашим полисама приватности, молимо контактирајте:
+privacy-index-if-you-want-to-make-a-correction = Ако желите да исправите ваше податке или ако имате било каква питања о нашим полисама приватности, контактирајте:
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
 privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Погледајте овде за захтеве за приступ личним подацима.</a>

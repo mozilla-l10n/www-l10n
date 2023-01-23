@@ -9,7 +9,7 @@
 welcome-page8-firefox-protects-your-privacy = { -brand-name-firefox } аутоматски штити вашу приватност
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 welcome-page8-your-privacy-respected = Ваша приватност се поштује <strong>аутоматски</strong>
-welcome-page8-firefox-automatically-protects = { -brand-name-firefox } аутоматски штити вашу приватност тако да своје време на интернету могжете да проводите неспутано.
+welcome-page8-firefox-automatically-protects = { -brand-name-firefox } аутоматски штити вашу приватност тако да можете неспутано да проводите време на интернету.
 welcome-page8-view-your-protection-report = Погледајте ваш извештај о заштити
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Побољшана заштита од праћења

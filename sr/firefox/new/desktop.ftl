@@ -38,10 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Блокира праћење 
 firefox-desktop-download-os-availability = Доступност на оперативним системима
 firefox-desktop-download-in-browser-screenshot = Уграђени алат за снимање странице
 firefox-desktop-download-primary-password = Главна лозинка
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Волите свој живот на мрежи
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Ово је ваш интернет. Обојите га онако како желите са хиљадама алата, тема и проширења. { -brand-name-firefox } је оригинални алтернативни прегледач који људе ставља испред профита.
 # Obsolete string
 firefox-desktop-download-master-password = Главна лозинка
@@ -146,7 +145,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аут�
 firefox-desktop-download-questions = Питања? <a { $attrs }>{ -brand-name-mozilla } подршка</a> вам стоји на услузи.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Већ имате прегледач. Сада откључајте пун потенцијал уз { -brand-name-firefox } налог.
-firefox-desktop-download-watch-for-hackers-with-v2 = Пазите на хакере путем { -brand-name-firefox-monitor }-а, заштитите своје адресе е-поште помоћу { -brand-name-firefox-relay }-а, и још.
+firefox-desktop-download-watch-for-hackers-with-v2 = Пазите на хакере путем { -brand-name-firefox-monitor }-а, заштитите ваше адресе е-поште помоћу { -brand-name-firefox-relay }-а, и још.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Пазите на хакере уз { -brand-name-firefox-monitor }, чувајте лозинке уз { -brand-name-firefox-lockwise }, и још много тога.
 firefox-desktop-download-get-more-from-firefox = Извуците максимум из { -brand-name-firefox }-а

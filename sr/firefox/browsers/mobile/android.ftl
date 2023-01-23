@@ -40,6 +40,6 @@ mobile-android-about-mozilla = О { -brand-name-mozilla }-и
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } постоји да би интернет учинила јавним ресурсом доступним свима. Верујемо да је отворено и бесплатно боље него затворено и контролисано. Правимо производе као што су { -brand-name-firefox } и { -brand-name-pocket } да бисмо промовисали лични избор, транспарентност и контролу.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Брже до интернета уз { -brand-name-firefox } за { -brand-name-android }
-mobile-android-see-all-your-open-tabs = Погледајте све своје отворене картице, недавне претраге и омиљене сајтове на једном месту уз { -brand-name-firefox } прегледач за { -brand-name-android }.
+mobile-android-see-all-your-open-tabs = Погледајте све ваше отворене картице, недавне претраге и омиљене сајтове на једном месту уз { -brand-name-firefox } прегледач за { -brand-name-android }.
 mobile-android-own-your-home = Прилагодите почетни екран себи
-mobile-android-get-to-the-parts = Брже дођите до делова интернета до којих вам је стало. Одаберите да видите све своје отворене картице, недавне претраге, обележиваче и омиљене сајтове на једном месту.
+mobile-android-get-to-the-parts = Брже дођите до делова интернета до којих вам је стало. Одаберите да видите све ваше отворене картице, недавне претраге, обележиваче и омиљене сајтове на једном месту.
