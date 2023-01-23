@@ -13,6 +13,9 @@ compare-edge-compare-microsoft-edge-to-the = ປຽບທຽບ { -brand-name-mi
 compare-edge-comparing-firefox-browser-with = ປຽບທຽບ { -brand-name-firefox-browser } ກັບ { -brand-name-microsoft } { -brand-name-edge }
 compare-edge-here-well-compare-our-firefox = ໃນທີ່ນີ້ພວກເຮົາຈະປຽບທຽບ { -brand-name-firefox-browser } ຂອງພວກເຮົາກັບ { -brand-name-chromium }-based { -brand-name-microsoft } { -brand-name-edge } ໃນດ້ານຄວາມເປັນສ່ວນຕົວ, ປະໂຫຍດ , ແລະການເຄື່ອນທີ່, ເພື່ອຊ່ວຍໃຫ້ທ່ານມີຄວາມເຂົ້າໃຈດີຂຶ້ນກ່ຽວກັບວ່າຕົວທ່ອງເວັບໃດທີ່ເຫມາະສົມກັບຄວາມຕ້ອງການແລະຄວາມມັກຂອງທ່ານ.
 # Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-edge-at-firefox-we-pride-ourselves = ທີ່ { -brand-name-firefox }, ພວກເຮົາພູມໃຈໃນການປົກປ້ອງຄວາມປອດໄພ ແລະຄວາມເປັນສ່ວນຕົວຂອງຜູ້ໃຊ້ຂອງພວກເຮົາ. <a { $attrs }>ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</a> ຂອງພວກເຮົາແມ່ນໂປ່ງໃສ ແລະເປັນພາສາທໍາມະດາ. ຕົວຈິງແລ້ວພວກເຮົາເອົາວຽກງານຫຼາຍຢ່າງເພື່ອໃຫ້ແນ່ໃຈວ່າມັນກົງໄປກົງມາແລະງ່າຍຕໍ່ການອ່ານ. ດ້ວຍການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງໃຫ້ດີຂຶ້ນໃນປັດຈຸບັນໂດຍຄ່າເລີ່ມຕົ້ນ, ພວກເຮົາບລັອກ 2000+ ຕົວຕິດຕາມໂດຍອັດຕະໂນມັດ. ຕົວຕິດຕາມແມ່ນຊິ້ນສ່ວນນ້ອຍໆຂອງລະຫັດທີ່ພະຍາຍາມສົມທົບກັບສິ່ງທີ່ທ່ານກໍາລັງເຮັດໃນທົ່ວເວັບໄຊທ໌ອິນເຕີເນັດເພື່ອສ້າງຮູບພາບປະກອບແລະລາຍລະອຽດວ່າທ່ານເປັນໃຜ, ທໍາລາຍຄວາມເປັນສ່ວນຕົວຂອງທ່ານທັງຫມົດເພື່ອເປົ້າຫມາຍການໂຄສະນາທີ່ດີກວ່າ.
+# Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = <a { $attrs }>ການປົກປ້ອງຄວາມເປັນສ່ວນຕົວ</a> ຂອງເຈົ້າສະແດງໃຫ້ເຈົ້າເຫັນຕົວຕິດຕາມ ແລະຄຸກກີ້ທີ່ໜ້າເວັບໄດ້ພະຍາຍາມອອກ, ແລະຈຳນວນ { -brand-name-firefox } ໄດ້ບລັອກໃຫ້ທ່ານ.
 # "InPrivate" is a brand name.
