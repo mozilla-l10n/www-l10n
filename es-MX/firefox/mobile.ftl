@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -13,7 +13,7 @@ firefox-mobile-get-the-mobile-browser-built = Instala el navegador móvil hecho 
 firefox-mobile-check-out-firefox-again-its = Experimenta { -brand-name-firefox } de nuevo. Es rápido, privado y está a tu favor. Para { -brand-name-ios } y { -brand-name-android }.
 firefox-mobile-get-automatic-privacy-on-mobile = Obtén privacidad automática en dispositivos móviles
 firefox-mobile-super-fast-private-by-default = Super rápido. Privado por default. Bloquea más de 2000 rastreadores en línea.
-firefox-mobile-get-firefox-mobile = Instala { -brand-name-firefox } móvil
+firefox-mobile-get-firefox-mobile = Obtén { -brand-name-firefox } para dispositivos móviles
 firefox-mobile-block-online-trackers-and = Bloquea rastreadores en línea y publicidad invasiva
 firefox-mobile-privacy-protection-by-default = Protección a tu privacidad predeterminadamente
 # Variables:
