@@ -9,8 +9,11 @@
 set-as-default-landing-make-firefox-your-default = Definescha { -brand-name-firefox } sco tes navigatur da standard
 # HTML page description
 set-as-default-landing-choose-the-browser = Tscherna il navigatur che protegia tia sfera privata. Definescha { -brand-name-firefox } sco tes navigatur da standard.
-set-as-default-landing-make-sure-youre-protected = Fa la segira che ti es protegì, adina cura che ti es en l'internet
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = Grazia che ti utiliseschas il navigatur il pli actual da { -brand-name-firefox }. Cun tscherner { -brand-name-firefox } sustegnas ti in meglier web per tai e tut tschels. Fa ussa il proxim pass per ta proteger.
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = Fa la segira che ti es protegì, adina cura che ti es en l'internet
+set-as-default-landing-you-should-get = Ti duessas pudair cundecider sch'i va per tia moda da navigar
 set-as-default-landing-choose-automatic-privacy = Tscherna la protecziun da datas automatica
 set-as-default-landing-companies-keep-finding = Firmas chattan adina novas vias per vegnir a tias datas persunalas. { -brand-name-firefox } è il navigatur che dat tut per chattar novas vias per ta proteger.
 set-as-default-landing-choose-freedom-on-every = Ta decida per la libertad sin tuts tes apparats

@@ -38,10 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Blochescha fastizaders da soci
 firefox-desktop-download-os-availability = Disponibladad per sistems operativs
 firefox-desktop-download-in-browser-screenshot = Utensil integrà per far maletgs dal visur
 firefox-desktop-download-primary-password = Pled-clav universal
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Amur per tia vita online
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Igl è tes internet. Al colurescha tenor tes gust cun millis utensils, designs ed extensiuns. { -brand-name-firefox } è il vair navigatur alternativ che dat la prioritad a las persunas, betg al profit.
 # Obsolete string
 firefox-desktop-download-master-password = Pled-clav universal
@@ -146,6 +145,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Dumondas? <a { $attrs }>L'agid da { -brand-name-mozilla }</a> stat a tia disposiziun.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Ti has gia il navigatur. Va ussa anc per dapli da { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Surveglia ils hackers cun { -brand-name-firefox-monitor }, protegia tia adressa dad e-mail cun { -brand-name-firefox-relay } ed auter pli.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Surveglia ils hackers cun { -brand-name-firefox-monitor }, protegia ils pleds-clav cun { -brand-name-firefox-lockwise } e dapli.
 firefox-desktop-download-get-more-from-firefox = Va per dapli da { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Mo telechargiar il navigatur
@@ -163,6 +164,8 @@ firefox-desktop-download-now-mac = <strong>Avra</strong> ussa la datoteca gist t
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Has difficultads? <a { $attrs }>Ta lascha gidar cun l'installaziun</a>.
 firefox-desktop-download-in-another-language = Telechargiar en in'autra lingua u per in auter sistem operativ.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -188,3 +191,4 @@ firefox-desktop-download-please-follow = Suonda per plaschair <a href="{ $url }"
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Tes sistem n'ademplescha forsa betg las pretensiuns per { -brand-name-firefox }, ti pos dentant empruvar cun ina da <a href="{ $url }">questas versiuns</a>.
+firefox-desktop-download-taskbar = { -brand-name-firefox } vegn fixà en la taskbar da { -brand-name-windows } suenter l'installaziun

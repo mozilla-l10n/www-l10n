@@ -3,10 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Telechargiar { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Telechargia il pli svelt { -brand-name-firefox } da tuts
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = Opziuns d'installaziun avanzadas & autras
 firefox-new-download-in-another-language = Telechargiar en in'autra lingua
 firefox-new-need-help = Dovras agid?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,18 @@ firefox-new-please-follow = Suonda per plaschair <a href="{ $url }">questas inst
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Tes sistem n'ademplescha forsa betg las pretensiuns per { -brand-name-firefox }, ti pos dentant empruvar cun ina da <a href="{ $url }">questas versiuns</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Sche ti vesas in'annunzia che pretenda che l'app che ti emprovas dad installar na saja betg ina app verifitgada per { -brand-name-microsoft }, clicca sin il buttun per tuttina installar u <a { $attrs }>mida ils parameters per l'installaziun dad apps</a>.
 firefox-new-visit-support-for-more = Visita l'agid per ulteriurs detagls
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Telechargiar il { -brand-name-firefox-browser }
@@ -61,3 +63,4 @@ firefox-new-fast = Svelt, segir e gratuit
 firefox-new-from-mozilla = da { -brand-name-mozilla }
 firefox-new-desc = Il { -brand-name-firefox-browser } è in navigatur-web liber e gratuit che chargia svelt las paginas, dovra pauca memoria e porscha bleras funcziunalitads – in project da l'organisaziun senza finamira da profit { -brand-name-mozilla }.
 firefox-new-download-a-different = Telechargiar per in'autra plattafurma u lingua
+firefox-new-taskbar = { -brand-name-firefox } vegn fixà en la taskbar da { -brand-name-windows } suenter l'installaziun
