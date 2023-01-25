@@ -13,4 +13,6 @@ mobile-android-firefox-browser = { -brand-name-firefox-browser }
 mobile-android-get-firefox-for = Last ned { -brand-name-firefox } for { -brand-name-android }
 mobile-android-scan-the-qr-code-to-get-started = Skann QR-koden for å kome i gang
 mobile-android-fast-and-private = Rask og privat
+mobile-android-search-your-own = Søk på din eigen måte
+mobile-android-save-power-with = Spar straum med mørk modus
 mobile-android-pick-up-where = Fortset der du slutta
