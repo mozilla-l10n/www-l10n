@@ -7,3 +7,5 @@
 
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = Разлика између VPN-а и веб проксија
+# HTML page description and intro
+vpn-or-proxy-vpns-and-proxies-are = VPN-ови и проксији су решења за приватност и безбедност на мрежи. Ево како вас штите и како да изаберете најбољу опцију.
