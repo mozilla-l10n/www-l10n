@@ -53,11 +53,11 @@ vpn-landing-faq-info-question-heading = Које податке чува { -bran
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-faq-info-question-desc-v2 = Стриктно следимо { -brand-name-mozilla } <a href="{ $principles }">смернице о приватности података</a> и прикупљамо само податке потребне да би VPN радио и за будућа побољшања производа. Такође, пратимо податке о активностима и препорукама на мобилној апликацији да помогнемо { -brand-name-mozilla }-и да разуме ефикасност маркетиншких кампања. За више, прочитајте наше <a href="{ $notice }">обавештење о приватности</a>.
+vpn-landing-faq-info-question-desc-v2 = Стриктно следимо { -brand-name-mozilla } <a href="{ $principles }">принципе о приватности података</a> и прикупљамо искључиво податке који су потребни да би VPN радио и за будућа побољшања производа. Такође, пратимо податке о активностима и препорукама на мобилној апликацији да помогнемо { -brand-name-mozilla }-и да разуме ефикасност маркетиншких кампања. За више, прочитајте наше <a href="{ $notice }">обавештење о приватности</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = Не бележимо, пратимо нити делимо било коју од ваших активности на мрежи. Стриктно се придржавамо { -brand-name-mozilla } <a href="{ $url }">смерница о приватности података</a> и прикупљамо само податке потребне да би VPN радио и за будућа побољшања производа.
+vpn-landing-faq-info-question-desc = Не бележимо, пратимо нити делимо било коју од ваших активности на мрежи. Стриктно се придржавамо { -brand-name-mozilla } <a href="{ $url }">принципа о приватности података</a> и прикупљамо само податке потребне да би VPN радио и за будућа побољшања производа.
 vpn-landing-faq-protected-question-heading = Како је моја приватност заштићена?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
