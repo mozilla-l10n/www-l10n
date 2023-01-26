@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -31,7 +31,7 @@ features-index-see-what-makes-us-different = 了解我们因何不同
 features-index-by-non-profit-mozilla = 由非营利组织 { -brand-name-mozilla } 构建
 features-index-by-not-for-profit-mozilla = 由非营利组织 { -brand-name-mozilla } 构建
 features-index-keep-corporate-power = 保证巨头权力受控
-features-index-independent-browser = { -brand-name-firefox } 是最后一款独立的主流浏览器，
+features-index-independent-browser = { -brand-name-firefox } 是最后一款独立的主流浏览器。
 features-index-on-a-mission = 我们的使命，便是要为所有人保持健康、开放且无障碍的互联网。
 features-index-read-mozillas-mission = 阅读 { -brand-name-mozilla } 的使命
 features-index-choose-independence = 独立自主
