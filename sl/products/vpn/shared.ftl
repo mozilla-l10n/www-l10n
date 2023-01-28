@@ -141,6 +141,7 @@ vpn-add-relay-to-protect = Naročnini dodajte { -brand-name-firefox-relay }, ki 
 vpn-shared-add-firefox-relay = Dodajte <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Maskiranje e-poštnega naslova
 vpn-shared-relay-phone-masking = Maskiranje telefonske številke
+vpn-shared-get-vpn-plus-relay = Pridobite { -brand-name-vpn } + { -brand-name-relay }
 vpn-shared-why-bundle = Zakaj paket?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
