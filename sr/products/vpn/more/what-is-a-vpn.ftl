@@ -7,3 +7,5 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Шта је VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Ево одговора на девет честих питања о VPN-овима како би боље разумели како раде, када да их користите и зашто.
