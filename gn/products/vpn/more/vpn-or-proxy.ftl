@@ -33,6 +33,10 @@ vpn-or-proxy-vpns-do-more = Ko’ã VPN ojapove proxys-gui, peteĩ proxy omo’�
 vpn-or-proxy-a-vpn-works = Peteĩ VPN oku’e omoheñóivo “tapeyvyguy” hekorosãva ne mba’e’oka pa’ũme ha ñanduti tuichaháicha. Emo’ã ne rekoñemi hendáicha:
 vpn-or-proxy-concealing-your-ip = Emokañývo nde IP kundaharape, omo’ãvo nde reratee ha oñomívo ne rendaite.
 vpn-or-proxy-encrypting-your-traffic = Ombopapapývo pe jeikeita nde ha ne VPN me’ẽhára avave ani hag̃uáicha ne ñanduti ombopapapy’o térã omoambue ndehegui.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = VPN ome’ẽ tekorosã WiFi opavave oipurukuaa ha ijurujávape jeike. WiFi pyha ijurujáva imarãkuaa ha hasyeterei eikuaa hag̃ua ambue oikéramo nde eike aja oikuaaségui mba’etépa ejapo eike jave ñandutípe. Jepémo nde jeike ipapapy, ikatu gueteri ohecha umi tenda eikeha. Ha reipurúramo peteĩ tembipuru’i ipapapy’ỹva — ko ára rupi, heta ndoguerekóiva — upévare ikatu ojehecha opaite mba’e ejapóva pe tembipuru’ípe. { -brand-name-mozilla-vpn } ha’e mba’epururã ipya’éva, hekorosã ha jeroviaha ne pytyvõkuaáva emboty hag̃ua tekorosã ndéve g̃uarã. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> avei omoneĩ eiporavokuaa hag̃ua ne “rendaite” (moõguipa ou pe ne rembiapo) hetave { $countries } tetãnguéra pa’ũgui.
 vpn-or-proxy-choose-a-trustworthy = Eipurúvo mba’epuru jeroviaha
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
