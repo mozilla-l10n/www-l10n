@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Prenesite { -brand-name-firefox-browser } – hiter, zaseben in brezplačen – delo { -brand-name-mozilla(sklon: "rodilnik") }
+firefox-desktop-download-meta-title-v2 = Prenesite { -brand-name-firefox } za namizja – izdelek { -brand-name-mozilla(sklon: "rodilnik") }
 firefox-desktop-download-meta-desc = Prenesite { -brand-name-firefox }, brezplačen spletni brskalnik izpod okrilja { -brand-name-mozilla(sklon: "rodilnik") }, neprofitne organizacije, zavezane zdravemu spletu in zasebnosti. Zdaj na voljo za { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } in { -brand-name-ios }.
 firefox-desktop-download-og-title = Prenesite najhitrejši { -brand-name-firefox } vseh časov
 firefox-desktop-download-og-desc = Hitrejše nalaganje strani, manjša poraba pomnilnika in kopica novih zmožnosti – novi { -brand-name-firefox } je tu.
@@ -38,10 +39,9 @@ firefox-desktop-download-blocks-social-trackers = Zavrača sledilce družbenih o
 firefox-desktop-download-os-availability = Razpoložljiv za vse operacijske sisteme
 firefox-desktop-download-in-browser-screenshot = Orodje za zajemanje zaslonskih posnetkov
 firefox-desktop-download-primary-password = Glavno geslo
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Imejte radi svoje spletno življenje
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = To je vaš internet. Oblikujte ga po svoje s tisočerimi orodji, temami in razširitvami. { -brand-name-firefox } je izvirni alternativni brskalnik, ki ljudi postavlja pred dobiček.
 # Obsolete string
 firefox-desktop-download-master-password = Glavno geslo
