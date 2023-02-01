@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = A { -brand-name-firefox-browser } letöltése – gyors, privát és ingyenes – { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Töltse le az asztali { -brand-name-firefox }ot – a { -brand-name-mozilla(ending: "accented") }tól
 firefox-desktop-download-meta-desc = Szerezze be a { -brand-name-firefox(case: "accusative") }, a szabad webböngészőt, amit a { -brand-name-mozilla } támogat, a nonprofit szervezet, amely elkötelezett az internet egészsége és az adatvédelem felé. Elérhető { -brand-name-windows }ra, { -brand-name-mac-short }re, { -brand-name-linux }ra, { -brand-name-android }ra és { -brand-name-ios }-re.
+firefox-desktop-download-meta-desc-v2 = Szerezze be a { -brand-name-firefox }ot { -brand-name-windows }ra, { -brand-name-mac-short }re vagy { -brand-name-linux }ra. A { -brand-name-firefox } egy szabad böngésző, amelyet a { -brand-name-mozilla } támogat, egy az internet egészsége és az adatvédelem mellett elkötelezett nonprofit szervezet.
 firefox-desktop-download-og-title = Töltse le a valaha volt leggyorsabb { -brand-name-firefox(case: "accusative") }
 firefox-desktop-download-og-desc = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, az új { -brand-name-firefox } megérkezett.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = Közösségi oldalak követői
 firefox-desktop-download-os-availability = Elérhetőség különböző operációs rendszereken
 firefox-desktop-download-in-browser-screenshot = Böngészőn belüli képernyőkép eszköz
 firefox-desktop-download-primary-password = Elsődleges jelszó
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Szeresse az online életét
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Ez az Ön internete. Színezze olyanra, amilyenre szeretné az eszközök, témák és kiegészítők ezreivel. A { -brand-name-firefox } az eredeti alternatív böngésző, amely az embereket helyezi a profit elé.
 # Obsolete string
 firefox-desktop-download-master-password = Mesterjelszó

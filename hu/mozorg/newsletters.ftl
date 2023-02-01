@@ -45,6 +45,10 @@ newsletters-country = Ország:
 # Form field label
 newsletters-language = Nyelv:
 newsletters-not-all-subscriptions-are = Nem minden feliratkozás támogatott az összes felsorolt nyelven. Szinte mindegyik elérhető angolul, németül és franciául.
+# Form field error message
+newsletters-please-select-country = Válasszon országot vagy régiót
+# Form field error message
+newsletters-please-select-language = Válasszon egy nyelvet
 # Form field label
 newsletters-format = Formátum:
 newsletters-text-subscribers-will-receive = Az üzenetekre feliratkozók évente két levelet kapnak, hogy megerősítsék a feliratkozásuk folytatását. Ezek az e-mailek tartalmazhatnak HTML-t is.
@@ -73,6 +77,8 @@ newsletters-send-me-a-link = Küldje el a hivatkozást
 newsletters-youve-been-unsubscribed = Leiratkozott.
 newsletters-were-sorry-to-see-you-go = Sajnáljuk, hogy leiratkozott.
 newsletters-would-you-mind-telling-us = Elmondaná, hogy miért iratkozott le?
+newsletters-other-v2 = Egyéb… (legfeljebb 500 karakter)
+# Outdated string
 newsletters-other = Egyéb…
 newsletters-submit = Elküld
 newsletters-thanks-for-telling-us-why = Köszönjük, hogy megosztotta velünk leiratkozásának okát.
@@ -295,3 +301,5 @@ knowledge-is-power-mozilla = { -brand-name-mozilla }
 knowledge-is-power-firefox = { -brand-name-firefox } böngésző
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
+# Out of date browser message for newsletter management page.
+newsletters-update-your-browser = Az oldal használatához frissíteni kell a böngészőjét.
