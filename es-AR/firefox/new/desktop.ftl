@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Descargá { -brand-name-firefox-browser }. Rápido, privado y gratis desde { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Descargar { -brand-name-firefox } para Escritorio desde { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Obtené { -brand-name-firefox }, un navegador web gratuito respaldado por { -brand-name-mozilla }, una organización sin fines de lucro dedicada a la salud y privacidad de Internet. Disponible ahora en { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } y { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Obtené{ -brand-name-firefox } para { -brand-name-windows }, { -brand-name-mac-short } o { -brand-name-linux }. { -brand-name-firefox } es un navegador web gratuito respaldado por { -brand-name-mozilla }, una organización sin fines de lucro dedicada a la salud y la privacidad en Internet.
 firefox-desktop-download-og-title = Descargá el { -brand-name-firefox } más rápido de la historia
 firefox-desktop-download-og-desc = Carga más rápida de páginas, menor uso de memoria y lleno de funciones, acá está el nuevo { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
