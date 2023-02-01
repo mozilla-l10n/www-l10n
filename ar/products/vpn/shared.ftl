@@ -97,6 +97,7 @@ vpn-shared-pricing-plan-monthly = شهريًا
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/شهر</span>
 
+
 # Outdated string
 vpn-shared-pricing-get-6-month = احصل على خطة مدتها 6 أشهر
 
@@ -123,6 +124,7 @@ vpn-shared-when-you-subscribe = *عند الاشتراك في خطة 12 شهرً
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } إجمالًا
+
 
 # Platform subpage shared strings
 
