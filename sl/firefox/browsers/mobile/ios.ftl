@@ -23,6 +23,7 @@ mobile-ios-fast-private-secure = Hiter. Zaseben. Varen
 mobile-ios-keep-whats-personal = Naj vaše osebne stvari ostanejo samo vaše, ne da bi pri tem žrtvovali bliskovito hitrost. Poleg tega vam funkcije pametnega brskanja omogočajo, da svojo zasebnost, gesla in zaznamke varno vzamete s seboj kamorkoli, kar vam olajša življenje na spletu.
 mobile-ios-stay-private-online = Zaščitite svojo zasebnost na spletu
 mobile-ios-your-browsing-history = Vaša zgodovina brskanja je zgodovina
+mobile-ios-get-more-firefox = Sprejmite več { -brand-name-firefox(sklon: "rodilnik") } v svoje življenje
 mobile-ios-see-your-open-tabs = Imejte odprte zavihke, pretekla iskanja in priljubljena spletna mesta na enem mestu z { -brand-name-firefox-browser(sklon: "orodnik") } za { -brand-name-ios }.
 mobile-ios-own-your-home = Obvladajte domači zaslon
 mobile-ios-get-to-the-parts = Skrajšajte si pot do spletnih mest, ki so vam pomembna. Izberite prikaz vseh odprtih zavihkov, nedavnih iskanj, zaznamkov in priljubljenih strani na enem mestu.

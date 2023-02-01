@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = Zgodovina projekta { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Projekt { -brand-name-mozilla } je <a href="{ $coderush }">začel svojo pot leta 1998</a> z <a href="{ $sourcerelease }">izidom izvorne kode zbirke { -brand-name-netscape }</a>.
 history-it-was-intended-to-harness = Njegov namen je bil zajeti moč ustvarjalnosti tisočev programerjev na Internetu in dati zagon inovacijam, kakršnih tržišče spletnih brskalnikov še ni videlo.
@@ -58,6 +58,10 @@ history-the-community-has-shown = Skupnost je dokazala, da imajo komercialna pod
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Internet uporablja več ljudi kot kdajkoli prej in ga doživlja <a href="{ $all }">v svojem lastnem jeziku</a>.
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = Nastala je trajnostna organizacija, ki z uporabo tržnih mehanizmov podpira poslanstvo v javno dobro, ta model pa so povzeli tudi drugi za stvaritev odprtih, transparentnih in sodelujočih organizacij <a href="{ $range }">najrazličnejših</a> <a href="{ $areas }">panog</a>.
 history-the-future-is-full-of-challenges = Prihodnost je polna izzivov in priložnosti, enakih tistim iz naše preteklosti.
 history-theres-no-guarantee-that = Nobenega zagotovila ni, da bo internet ostal odprt in prijazen in varen.
 history-mozilla-will-continue-to = { -brand-name-mozilla } bo ljudem še naprej nudila priložnost, da se njihov glas sliši in da si sami oblikujejo spletno življenje.

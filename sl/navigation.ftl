@@ -39,8 +39,10 @@ navigation-your-firefox-account = Vaš { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Izkoristite doživetje { -brand-name-firefox }a na vseh napravah.
 # Outdated string
 navigation-learn-how-to-customize = Spoznajte, kako si lahko prilagodite { -brand-name-firefox }.
+navigation-explore-the-immersive = Raziščite potopni splet s svojim naglavnim kompletom.
 # Outdated string
 navigation-experience-augmented = Doživite razširjeno in navidezno resničnost s { -brand-name-firefox }om.
+navigation-get-together = Zberite se v navidezni resničnosti v spletnem družabnem prostoru.
 # Outdated string
 navigation-meet-people-in-experimental = Spoznajte ljudi v poskusnih klepetalnicah Mixed Reality s { -brand-name-firefox }om.
 navigation-mozilla-mixed-reality = Mešana resničnost { -brand-name-mozilla }

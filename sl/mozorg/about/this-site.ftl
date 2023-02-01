@@ -27,6 +27,10 @@ about-this-site-read-the-docs = Preberite dokumentacijo
 about-this-site-colophon = Kolofon
 about-this-site-some-open-source-projects = Nekateri odprtokodni projekti, uporabljeni pri izdelavi tega spletnega mesta:
 # Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> kot ogrodje v zaledju spletnega mesta, s pogonom <a href="{ $jinja }">Jinja</a> za ustvarjanje predlog.
+# Variables:
 #   $protocol (url) link to https://protocol.mozilla.org/
 about-this-site-mozilla-protocol = <a href="{ $protocol }">Protocol</a>, sistem { -brand-name-mozilla(sklon: "rodilnik") } za zasnovo vmesnika in blagovne znamke.
 # Variables:
