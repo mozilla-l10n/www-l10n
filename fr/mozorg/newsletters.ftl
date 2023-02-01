@@ -58,6 +58,8 @@ newsletters-language = Langue :
 
 newsletters-not-all-subscriptions-are = Les abonnements ne sont pas tous disponibles dans toutes les langues citées. Ils sont presque tous proposés en anglais, allemand et français.
 
+
+
 # Form field label
 newsletters-format = Format :
 
@@ -96,7 +98,10 @@ newsletters-send-me-a-link = Envoyez-moi un lien
 newsletters-youve-been-unsubscribed = Vous avez été désinscrit.
 newsletters-were-sorry-to-see-you-go = C’est triste de vous voir partir…
 newsletters-would-you-mind-telling-us = Pourriez-vous expliquer les raisons de votre choix ?
+
+# Outdated string
 newsletters-other = Autre…
+
 newsletters-submit = Envoyer
 newsletters-thanks-for-telling-us-why = Merci de nous dire pourquoi vous vous désabonnez.
 newsletters-while-here-why-not-check = Pourquoi ne pas en profiter pour découvrir d’autres fonctionnalités particulières de { -brand-name-firefox } ?
@@ -410,3 +415,4 @@ knowledge-is-power-mozilla = { -brand-name-mozilla }
 knowledge-is-power-firefox = Navigateur { -brand-name-firefox }
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
+

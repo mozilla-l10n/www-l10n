@@ -58,6 +58,8 @@ newsletters-language = 言語:
 
 newsletters-not-all-subscriptions-are = 定期購読によっては、リストに含まれている言語で配信されていないものもあります。ほぼ全ての定期購読が英語・ドイツ語・フランス語で配信されています。
 
+
+
 # Form field label
 newsletters-format = フォーマット:
 
@@ -96,7 +98,10 @@ newsletters-send-me-a-link = リンクを送信
 newsletters-youve-been-unsubscribed = 購読を停止しました。
 newsletters-were-sorry-to-see-you-go = ご満足いただけなくて残念です。
 newsletters-would-you-mind-telling-us = よろしければ、停止理由をお知らせください。
+
+# Outdated string
 newsletters-other = その他
+
 newsletters-submit = 送信
 newsletters-thanks-for-telling-us-why = 停止理由をお知らせいただき、ありがとうございました。
 newsletters-while-here-why-not-check = よろしければ、これを機に { -brand-name-firefox } のおすすめ情報をご覧ください。
@@ -410,3 +415,4 @@ knowledge-is-power-mozilla = { -brand-name-mozilla }
 knowledge-is-power-firefox = { -brand-name-firefox } ブラウザー
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
+

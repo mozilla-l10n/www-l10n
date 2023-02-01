@@ -58,6 +58,8 @@ newsletters-language = Bahasa:
 
 newsletters-not-all-subscriptions-are = Tidak semua langganan disokong dalam semua bahasa yang disenaraikan. Hampir kesemuanya ditawarkan dalam bahasa Inggeris, Jerman dan Perancis.
 
+
+
 # Form field label
 newsletters-format = Format:
 
@@ -96,7 +98,10 @@ newsletters-send-me-a-link = Hantar pautan kepada saya
 newsletters-youve-been-unsubscribed = Anda telah berhenti melanggan.
 newsletters-were-sorry-to-see-you-go = Kami kesal melihat anda pergi.
 newsletters-would-you-mind-telling-us = Adakah anda tidak keberatan untuk memberitahu kami mengapa anda pergi?
+
+# Outdated string
 newsletters-other = Lain-lain…
+
 newsletters-submit = Hantar
 newsletters-thanks-for-telling-us-why = Terima kasih kerana memberitahu kami mengapa anda pergi.
 newsletters-while-here-why-not-check = Terlanjur di sini, lihatlah lebih banyak lagi kecanggihan { -brand-name-firefox }.
@@ -410,3 +415,4 @@ knowledge-is-power-mozilla = { -brand-name-mozilla }
 knowledge-is-power-firefox = Pelayar { -brand-name-firefox }
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
+
