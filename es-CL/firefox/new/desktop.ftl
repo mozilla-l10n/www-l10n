@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Baja { -brand-name-firefox-browser } — Rápido, privado y gratuito — de { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Baja { -brand-name-firefox } para Escritorio — desde { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Obtén { -brand-name-firefox }, un navegador web gratuito respaldado por { -brand-name-mozilla }, una organización sin fines de lucro dedicada a la salud y privacidad de Internet. Disponible ahora para { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
 firefox-desktop-download-og-title = Descarga el { -brand-name-firefox } más rápido a la fecha
 firefox-desktop-download-og-desc = Carga de páginas más rápida, menos uso de memoria y lleno de funcionalidades, el nuevo { -brand-name-firefox } está aquí.
@@ -38,10 +39,9 @@ firefox-desktop-download-blocks-social-trackers = Bloquea los rastreadores socia
 firefox-desktop-download-os-availability = Disponibilidad para sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla en el navegador
 firefox-desktop-download-primary-password = Contraseña primaria
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Ama tu vida en línea
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Es tu Internet. Píntalo a tu tinca con miles de herramientas, temas y extensiones. { -brand-name-firefox } es el navegador alternativo original que coloca a las personas por sobre las ganancias.
 # Obsolete string
 firefox-desktop-download-master-password = Contraseña primaria
