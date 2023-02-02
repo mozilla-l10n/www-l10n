@@ -73,6 +73,10 @@ vpn-shared-pricing-plan-monthly = Mensal
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span> por mês</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mês + impostos</span>
 # Outdated string
 vpn-shared-pricing-get-6-month = Assinar plano semestral
 # Outdated string
@@ -93,6 +97,10 @@ vpn-shared-when-you-subscribe = *ao assinar um plano de 12 meses
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Total: { $amount }
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = { $amount } total + impostos
 
 # Platform subpage shared strings
 

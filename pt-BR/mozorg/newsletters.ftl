@@ -45,6 +45,10 @@ newsletters-country = País:
 # Form field label
 newsletters-language = Idioma:
 newsletters-not-all-subscriptions-are = Nem todas as inscrições estão disponíveis em todos os idiomas listados. Quase todos são oferecidos em inglês, alemão e francês.
+# Form field error message
+newsletters-please-select-country = Selecione um país ou região
+# Form field error message
+newsletters-please-select-language = Selecione um idioma
 # Form field label
 newsletters-format = Formato:
 newsletters-text-subscribers-will-receive = Inscritos no modo texto recebem um email duas vezes ao ano para confirmar se querem manter a inscrição. Esses emails podem incluir formatação HTML.
@@ -73,6 +77,8 @@ newsletters-send-me-a-link = Envie o link
 newsletters-youve-been-unsubscribed = Sua inscrição foi cancelada.
 newsletters-were-sorry-to-see-you-go = Lamentamos te ver partir.
 newsletters-would-you-mind-telling-us = Poderia nos dizer o motivo de estar nos deixando?
+newsletters-other-v2 = Outro… (máximo 500 caracteres)
+# Outdated string
 newsletters-other = Outros…
 newsletters-submit = Enviar
 newsletters-thanks-for-telling-us-why = Obrigado por nos contar o motivo de cancelar.
