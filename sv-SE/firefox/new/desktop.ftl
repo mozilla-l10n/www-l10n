@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Hämta { -brand-name-firefox-browser } — Snabb, privat & gratis — från { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Hämta { -brand-name-firefox } för dator — från { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Skaffa { -brand-name-firefox }, en gratis webbläsare som drivs av { -brand-name-mozilla }, en ideell organisation som främjar hälsa och integritet på webben. Tillgänglig nu på { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } och { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Skaffa { -brand-name-firefox } för { -brand-name-windows }, { -brand-name-mac-short } eller { -brand-name-linux }. { -brand-name-firefox } är en gratis webbläsare som stöds av { -brand-name-mozilla }, en ideell organisation som ägnar sig åt internethälsa och integritet.
 firefox-desktop-download-og-title = Ladda ner den snabbaste { -brand-name-firefox } någonsin
 firefox-desktop-download-og-desc = Snabbare sidladdning, mindre minnesanvändning och fullproppad med funktioner, den nya { -brand-name-firefox } är här.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = Blockerar sociala spårare
 firefox-desktop-download-os-availability = OS tillgänglighet
 firefox-desktop-download-in-browser-screenshot = Skärmdumpsverktyg i webbläsaren
 firefox-desktop-download-primary-password = Huvudlösenord
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Gilla ditt liv online
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Det är ditt internet. Färglägg det som du vill med tusentals verktyg, teman och tillägg. { -brand-name-firefox } är den ursprungliga alternativa webbläsaren som sätter människor före vinster.
 # Obsolete string
 firefox-desktop-download-master-password = Huvudlösenord
