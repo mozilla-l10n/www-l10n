@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-firefox-browser } ڈاؤن لوڈ کرو — تکھا، نجی تے مفت — { -brand-name-mozilla } ولوں
+firefox-desktop-download-meta-title-v2 = { -brand-name-mozilla } کنوں ـــــ ڈیسک ٹاپ کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو
 firefox-desktop-download-meta-desc = { -brand-name-firefox } حاصل کرو،  ہک مفت ویب براؤزر جینکوں { -brand-name-mozilla } دی حمایت حاصل ہے، جیڑھا انٹرنیٹ دی صحت تے رازداری کیتے وقف ہک غیر منافع بخش ہے۔ ہݨ { -brand-name-windows }، { -brand-name-mac-short }، { -brand-name-linux }، { -brand-name-android } تے { -brand-name-ios } تے دستیاب ہے۔
 firefox-desktop-download-og-title = ہݨ تائیں دا تکھا ترین { -brand-name-firefox } ڈاؤن لوڈ کرو
 firefox-desktop-download-og-desc = ورقے دی تکھی لوڈنگ، میموری دا گھٹ استعمال تے خصوصیات نال بھریا ہویا، نواں { -brand-name-firefox } اتھاں ہے۔
