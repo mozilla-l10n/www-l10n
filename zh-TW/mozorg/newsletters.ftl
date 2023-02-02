@@ -45,6 +45,10 @@ newsletters-country = 國家:
 # Form field label
 newsletters-language = 語言:
 newsletters-not-all-subscriptions-are = 並非所有電子報都提供列出的語言版本。大部分提供英語、德語、法語版本。
+# Form field error message
+newsletters-please-select-country = 請選擇國家或地區
+# Form field error message
+newsletters-please-select-language = 請選擇語言
 # Form field label
 newsletters-format = 格式:
 newsletters-text-subscribers-will-receive = 純文字格式版本的訂閱者，每年都會收到兩次郵件確認持續訂閱的意願。這些確認信中可能會含有 HTML。
@@ -73,6 +77,8 @@ newsletters-send-me-a-link = 寄鏈結給我
 newsletters-youve-been-unsubscribed = 您已退訂成功。
 newsletters-were-sorry-to-see-you-go = 很抱歉您要離開。
 newsletters-would-you-mind-telling-us = 您方便告訴我們為什麼要離開嗎？
+newsletters-other-v2 = 其他…（最多 500 字元）
+# Outdated string
 newsletters-other = 其他…
 newsletters-submit = 送出
 newsletters-thanks-for-telling-us-why = 感謝您告訴我們為什麼要離開。
@@ -295,3 +301,5 @@ knowledge-is-power-mozilla = { -brand-name-mozilla }
 knowledge-is-power-firefox = { -brand-name-firefox } 瀏覽器
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
+# Out of date browser message for newsletter management page.
+newsletters-update-your-browser = 必須更新您的瀏覽器才可以使用此頁面。

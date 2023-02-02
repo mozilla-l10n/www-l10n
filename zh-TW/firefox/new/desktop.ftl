@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = 下載 { -brand-name-firefox-browser } — 快速、私密、免費 — 來自 { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = 下載 { -brand-name-firefox } 桌面版 — 來自 { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = 下載由致力於網路網路生態健康與保護隱私權的非營利組織 { -brand-name-mozilla } 全力開發的瀏覽器 — { -brand-name-firefox }。{ -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux }、{ -brand-name-android }、與 { -brand-name-ios } 版皆能免費下載。
+firefox-desktop-download-meta-desc-v2 = 下載 { -brand-name-firefox } for { -brand-name-windows }、{ -brand-name-mac-short } 或 { -brand-name-linux }。{ -brand-name-firefox } 是一套自由的網頁瀏覽器，由致力於維護網際網路生態與隱私權的非營利組織 { -brand-name-mozilla } 打造。
 firefox-desktop-download-og-title = 下載有史以來最快的 { -brand-name-firefox }
 firefox-desktop-download-og-desc = 全新 { -brand-name-firefox } 來了！頁面載入更快、記憶體用量更少，還有更多不同功能。
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = 封鎖社交追蹤器
 firefox-desktop-download-os-availability = 不同作業系統皆有提供
 firefox-desktop-download-in-browser-screenshot = 內建畫面擷圖工具
 firefox-desktop-download-primary-password = 主控密碼
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = 愛上您的線上生活
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = 這是您的網路世界。用您想要的方式與數以千計的工具、佈景主題、擴充套件恣意增添色彩。{ -brand-name-firefox } 是最老牌的非內建瀏覽器，我們把人看得比利益更重要。
 # Obsolete string
 firefox-desktop-download-master-password = 主控密碼

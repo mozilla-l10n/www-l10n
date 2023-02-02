@@ -73,6 +73,10 @@ vpn-shared-pricing-plan-monthly = 每月
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = <span>每月</span> { $amount }
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = <span>每月</span> { $amount }（外加稅金）
 # Outdated string
 vpn-shared-pricing-get-6-month = 訂閱 6 個月方案
 # Outdated string
@@ -93,6 +97,10 @@ vpn-shared-when-you-subscribe = * 訂閱年約方案時
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = 總金額 { $amount }
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = 總計 { $amount } 外加稅金
 
 # Platform subpage shared strings
 
