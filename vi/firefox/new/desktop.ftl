@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Tải xuống { -brand-name-firefox-browser } — Nhanh chóng, riêng tư & miễn phí — từ { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Tải xuống { -brand-name-firefox } dành cho máy tính để bàn — từ { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Tải { -brand-name-firefox }, một trình duyệt web miễn phí được hỗ trợ bởi { -brand-name-mozilla }, một tổ chức phi lợi nhuận dành riêng cho sức khỏe và quyền riêng tư trên internet. Hiện có sẵn trên{ -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } và { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Tải xuống { -brand-name-firefox } dành cho { -brand-name-windows }, { -brand-name-mac-short } hoặc { -brand-name-linux }. { -brand-name-firefox } là một trình duyệt web miễn phí được hỗ trợ bởi { -brand-name-mozilla }, một tổ chức phi lợi nhuận dành riêng cho sức khỏe và quyền riêng tư trên internet.
 firefox-desktop-download-og-title = Tải ngay { -brand-name-firefox } nhanh hơn bao giờ hết
 firefox-desktop-download-og-desc = Tải trang nhanh hơn, sử dụng ít bộ nhớ hơn và có nhiều tính năng, { -brand-name-firefox } mới có ở đây.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = Chặn trình theo dõi xã h�
 firefox-desktop-download-os-availability = Hệ điều hành khả dụng
 firefox-desktop-download-in-browser-screenshot = Công cụ chụp màn hình trong trình duyệt
 firefox-desktop-download-primary-password = Mật khẩu chính
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Yêu cuộc sống trực tuyến của bạn
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Đó là internet của bạn. Tô màu theo cách bạn muốn với hàng nghìn công cụ, chủ đề và tiện ích mở rộng. { -brand-name-firefox } là trình duyệt thay thế ban đầu đặt mọi người lên trước lợi nhuận.
 # Obsolete string
 firefox-desktop-download-master-password = Mật khẩu chính
