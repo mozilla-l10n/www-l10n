@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = 下载 { -brand-name-firefox-browser } — 快速、私密、免费 — 来自 { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = 下载由 { -brand-name-mozilla } 开发的桌面版 { -brand-name-firefox }
 firefox-desktop-download-meta-desc = 下载由致力于互联网健康与隐私保护的非营利组织 { -brand-name-mozilla } 全力开发的浏览器 — { -brand-name-firefox }。{ -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux }、{ -brand-name-android }、与 { -brand-name-ios } 版皆可免费下载。
 firefox-desktop-download-og-title = 下载有史以来最快的 { -brand-name-firefox }
 firefox-desktop-download-og-desc = 加载更快、内存占用更低、包含更多功能。全新的 { -brand-name-firefox } 闪耀登场！
@@ -38,10 +39,9 @@ firefox-desktop-download-blocks-social-trackers = 拦截社交跟踪器
 firefox-desktop-download-os-availability = 操作系统可用性
 firefox-desktop-download-in-browser-screenshot = 浏览器内置截图工具
 firefox-desktop-download-primary-password = 主密码
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = 热爱在线生活
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = 数以千计的工具、主题、扩展，为您的个性化互联网体验增光添彩。{ -brand-name-firefox } 是最老牌的非预装浏览器，我们始终坚持以人为本。
 # Obsolete string
 firefox-desktop-download-master-password = 主密码
