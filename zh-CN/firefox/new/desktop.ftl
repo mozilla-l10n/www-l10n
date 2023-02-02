@@ -12,6 +12,7 @@
 firefox-desktop-download-meta-title = 下载 { -brand-name-firefox-browser } — 快速、私密、免费 — 来自 { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = 下载由 { -brand-name-mozilla } 开发的桌面版 { -brand-name-firefox }
 firefox-desktop-download-meta-desc = 下载由致力于互联网健康与隐私保护的非营利组织 { -brand-name-mozilla } 全力开发的浏览器 — { -brand-name-firefox }。{ -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux }、{ -brand-name-android }、与 { -brand-name-ios } 版皆可免费下载。
+firefox-desktop-download-meta-desc-v2 = 下载适用于 { -brand-name-windows }、{ -brand-name-mac-short } 和 { -brand-name-linux } 的 { -brand-name-firefox }。{ -brand-name-firefox } 一款免费的网络浏览器，由致力于改善互联网健康与隐私的非营利组织 { -brand-name-mozilla } 全力支持。
 firefox-desktop-download-og-title = 下载有史以来最快的 { -brand-name-firefox }
 firefox-desktop-download-og-desc = 加载更快、内存占用更低、包含更多功能。全新的 { -brand-name-firefox } 闪耀登场！
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
