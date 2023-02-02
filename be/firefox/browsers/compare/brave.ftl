@@ -11,6 +11,7 @@ compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } супраць
 compare-brave-compare-brave-to-the-firefox = Параўнайце { -brand-name-brave } з { -brand-name-firefox-browser }, каб даведацца, які браўзер лепш падыходзіць вам з пункту гледжання прыватнасці, зручнасці і пераноснасці.
 # Main title
 compare-brave-comparing-firefox-browser = Параўнанне { -brand-name-firefox-browser } з { -brand-name-brave }
+compare-brave-brave-differentiates-itself = { -brand-name-brave } адрозніваецца ад іншых браўзераў на { -brand-name-chromium } засяроджаннем увагі на канфідэнцыяльнасці карыстальнікаў — у прыватнасці, прадвызначаным блакаваннем трэкераў, скрыптоў і рэкламы. Такім чынам, калі вы карыстаецеся браўзерам { -brand-name-brave }, тыя вобласці вэб-сайта, дзе звычайна паказваецца рэклама, выглядаюць як пустыя месцы. У некаторых выпадках старонкі не загружаюцца належным чынам, што запатрабуе альбо выбраць іншы браўзер, альбо пераключыць наладу «Шчыты ўверх» на «Шчыты ўніз», што адключае ахову прыватнасці і бяспекі.
 compare-brave-the-ability-to-sync-your-passwords = Магчымасць сінхранізацыі вашых пароляў, пашырэнняў, звестак формаў, дадаткаў і іншых налад на ўсіх вашых прыладах і аперацыйных сістэмах — гэта функцыя, якая была даступная на працягу многіх гадоў у { -brand-name-firefox }. Сінхранізаваныя звесткі таксама зашыфраваны, што азначае, што ніхто не можа атрымаць да іх доступ звонку.
 # Variables:
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
