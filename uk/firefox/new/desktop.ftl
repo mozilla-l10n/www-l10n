@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Завантажте { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } — Швидкий, приватний та безплатний — від { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Завантажте { -brand-name-firefox } для комп'ютера — від { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Отримайте { -brand-name-firefox }, безплатний браузер, підтримуваний { -brand-name-mozilla }, некомерційною організацією, відданою здоровому та приватному Інтернету. Доступний вже зараз для { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } та { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Отримайте { -brand-name-firefox } для { -brand-name-windows }, { -brand-name-mac-short } або { -brand-name-linux }. { -brand-name-firefox } – це вільний браузер від { -brand-name-mozilla }, некомерційної компанії, відданої захисту здорового інтернету й приватності.
 firefox-desktop-download-og-title = Завантажте найшвидший ніж будь-коли { -brand-name-firefox }
 firefox-desktop-download-og-desc = Швидше завантаження сторінок, менше споживання пам'яті, безліч можливостей, новий { -brand-name-firefox } вже тут.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = Блокує стеження 
 firefox-desktop-download-os-availability = Доступність для різних ОС
 firefox-desktop-download-in-browser-screenshot = Вбудований засіб знімків екрана
 firefox-desktop-download-primary-password = Головний пароль
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Любіть своє онлайн-життя
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Це ваш інтернет. Прикрасьте його на свій смак за допомогою тисяч інструментів, тем і розширень. { -brand-name-firefox } — оригінальний альтернативний браузер, який ставить людей понад прибуток.
 # Obsolete string
 firefox-desktop-download-master-password = Головний пароль
