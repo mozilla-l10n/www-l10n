@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Download { -brand-name-firefox-browser } – Fluch, privee en fergees – fan { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Download { -brand-name-firefox } foar Desktop – fan { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Download { -brand-name-firefox }, in fergeze webbrowser stipe troch { -brand-name-mozilla }, in non-profitorganisaasje dy’t harre taleit op ynternetsûnens en privacy. No beskikber op { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } en { -brand-name-ios }.
 firefox-desktop-download-og-title = Download de fluchste { -brand-name-firefox } ea
 firefox-desktop-download-og-desc = Flugger siden lade, minder ûnthâldgebrûk en fol mei funksjes: de nije { -brand-name-firefox } is hjir.
@@ -38,10 +39,9 @@ firefox-desktop-download-blocks-social-trackers = Blokkearret sosjale trackers
 firefox-desktop-download-os-availability = Beskikberheid op bestjoeringssystemen
 firefox-desktop-download-in-browser-screenshot = Helpmiddel foar skermôfdrukken yn de browser
 firefox-desktop-download-primary-password = Haadwachtwurd
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Hâld fan jo libben online
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = It is jo ynternet. Kleur it sa as jo wolle mei tûzenen helpmiddelen, tema’s en útwreidingen. { -brand-name-firefox } is de orizjinele alternative browser dy’t minsken boppe winst stelt.
 # Obsolete string
 firefox-desktop-download-master-password = Haadwachtwurd
