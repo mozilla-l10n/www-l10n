@@ -12,6 +12,7 @@
 firefox-desktop-download-meta-title = Download { -brand-name-firefox-browser } – Fluch, privee en fergees – fan { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Download { -brand-name-firefox } foar Desktop – fan { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Download { -brand-name-firefox }, in fergeze webbrowser stipe troch { -brand-name-mozilla }, in non-profitorganisaasje dy’t harre taleit op ynternetsûnens en privacy. No beskikber op { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } en { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Download { -brand-name-firefox } foar { -brand-name-windows }, { -brand-name-mac-short } of { -brand-name-linux }. { -brand-name-firefox } is in fergeze webbrowser dy’t stipe wurdt troch { -brand-name-mozilla }, in non-profitorganisaasje dy’t har taleit op ynternetsûnens en privacy.
 firefox-desktop-download-og-title = Download de fluchste { -brand-name-firefox } ea
 firefox-desktop-download-og-desc = Flugger siden lade, minder ûnthâldgebrûk en fol mei funksjes: de nije { -brand-name-firefox } is hjir.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
