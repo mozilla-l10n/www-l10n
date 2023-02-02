@@ -68,6 +68,7 @@ footer-language = Taal
 footer-go = Gaan
 footer-donate = Doneren
 footer-twitter = { -brand-name-twitter }
+footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Download { -brand-name-firefox-browser } – Snel, privé en gratis – van { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Download { -brand-name-firefox } voor Desktop – van { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Download { -brand-name-firefox }, een gratis webbrowser ondersteund door { -brand-name-mozilla }, een non-profitorganisatie die zich toelegt op internetgezondheid en privacy. Nu beschikbaar op { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } en { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Download { -brand-name-firefox } voor { -brand-name-windows }, { -brand-name-mac-short } of { -brand-name-linux }. { -brand-name-firefox } is een gratis webbrowser die wordt ondersteund door { -brand-name-mozilla }, een non-profitorganisatie die zich toelegt op internetgezondheid en privacy.
 firefox-desktop-download-og-title = Download de snelste { -brand-name-firefox } ooit
 firefox-desktop-download-og-desc = Sneller pagina’s laden, minder geheugengebruik en boordevol functies, de nieuwe { -brand-name-firefox } is er.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = Blokkeert sociale trackers
 firefox-desktop-download-os-availability = Beschikbaarheid op besturingssystemen
 firefox-desktop-download-in-browser-screenshot = Hulpmiddel voor schermafdrukken in de browser
 firefox-desktop-download-primary-password = Hoofdwachtwoord
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Houd van uw leven online
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Het is uw internet. Kleur het zoals u wilt met duizenden hulpmiddelen, thema’s en extensies. { -brand-name-firefox } is de originele alternatieve browser die mensen boven winst stelt.
 # Obsolete string
 firefox-desktop-download-master-password = Hoofdwachtwoord

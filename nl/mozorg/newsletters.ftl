@@ -45,6 +45,10 @@ newsletters-country = Land:
 # Form field label
 newsletters-language = Taal:
 newsletters-not-all-subscriptions-are = Niet alle abonnementen worden in alle genoemde talen ondersteund. Ze worden bijna allemaal aangeboden in het Engels, Duits en Frans.
+# Form field error message
+newsletters-please-select-country = Selecteer een land of regio
+# Form field error message
+newsletters-please-select-language = Selecteer een taal
 # Form field label
 newsletters-format = Opmaak:
 newsletters-text-subscribers-will-receive = Tekstabonnementen ontvangen tweemaal per jaar een e-mailbericht, om de voortzetting van de inschrijving te bevestigen. Deze e-mailberichten kunnen HTML bevatten.
@@ -73,6 +77,8 @@ newsletters-send-me-a-link = Mij een koppeling sturen
 newsletters-youve-been-unsubscribed = U bent uitgeschreven.
 newsletters-were-sorry-to-see-you-go = We vinden het jammer dat u weggaat.
 newsletters-would-you-mind-telling-us = Wilt u ons vertellen waarom u weggaat?
+newsletters-other-v2 = Overig… (maximaal 500 tekens)
+# Outdated string
 newsletters-other = Anders…
 newsletters-submit = Indienen
 newsletters-thanks-for-telling-us-why = Bedankt voor het melden van de reden van uw vertrek.
@@ -295,3 +301,5 @@ knowledge-is-power-mozilla = { -brand-name-mozilla }
 knowledge-is-power-firefox = { -brand-name-firefox }-browser
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
+# Out of date browser message for newsletter management page.
+newsletters-update-your-browser = Uw webbrowser moet worden bijgewerkt om deze pagina te kunnen gebruiken.
