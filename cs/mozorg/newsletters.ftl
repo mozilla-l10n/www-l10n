@@ -45,6 +45,10 @@ newsletters-country = Země:
 # Form field label
 newsletters-language = Jazyk:
 newsletters-not-all-subscriptions-are = Ne všechny odběry jsou k dispozici ve všech uvedených jazycích. Téměř všechny jsou nabízeny v angličtině, němčině a francouzštině.
+# Form field error message
+newsletters-please-select-country = Vyberte prosím zemi nebo oblast
+# Form field error message
+newsletters-please-select-language = Vyberte prosím jazyk
 # Form field label
 newsletters-format = Formát:
 newsletters-text-subscribers-will-receive = Odběratelé textů obdrží dvakrát ročně e-mail za účelem potvrzení, že chtějí v odběru pokračovat. Tyto e-maily mohou obsahovat HTML.
@@ -73,6 +77,8 @@ newsletters-send-me-a-link = Pošlete mi odkaz
 newsletters-youve-been-unsubscribed = Odběr zpravodaje byl odhlášen.
 newsletters-were-sorry-to-see-you-go = Je nám líto, že odcházíte.
 newsletters-would-you-mind-telling-us = Nechcete nám říci, proč si odhlašujete odběr?
+newsletters-other-v2 = Jiný… (maximálně 500 znaků)
+# Outdated string
 newsletters-other = Jiné…
 newsletters-submit = Odeslat
 newsletters-thanks-for-telling-us-why = Děkujeme, že jste nám řekli, proč nás opouštíte.
@@ -105,6 +111,7 @@ newsletters-you-send-too-many-emails = Zasíláte příliš mnoho e-mailů.
 newsletters-your-content-wasnt-relevant = Váš obsah pro mě není relevantní.
 newsletters-your-email-design = Vaš vzhled e-mailů je pro mě těžko čitelný.
 newsletters-i-didnt-sign-up = Tento odběr jsem si nepřihlásil(a).
+newsletters-please-select-a-reason = Vyberte prosím důvod svého odhlášení.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Tato e-mailová adresa není v našem systému. Zkontrolujte ji prosím, popřípadě <a href="{ $url }">se přihlaste k odběru našeho zpravodaje.</a>
@@ -294,3 +301,5 @@ knowledge-is-power-mozilla = { -brand-name-mozilla }
 knowledge-is-power-firefox = Prohlížeč { -brand-name-firefox }
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
+# Out of date browser message for newsletter management page.
+newsletters-update-your-browser = Pro použití tuto stránky prosím aktualizujte svůj prohlížeč.

@@ -157,6 +157,17 @@
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
+-brand-name-mastodon =
+    { $case ->
+        [gen] Mastodonu
+        [dat] Mastodonu
+        [acc] Mastodon
+        [voc] Mastodone
+        [loc] Mastodonu
+        [ins] Mastodonem
+       *[nom] Mastodon
+    }
+    .gender = masculine
 
 ## Firefox browsers
 

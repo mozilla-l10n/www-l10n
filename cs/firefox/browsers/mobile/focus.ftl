@@ -8,9 +8,13 @@
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Prohlížeč zajišťující soukromí
 # HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } je prohlížeč zaměřený na ochranu soukromí s automatickou ochranou proti sledování.
+# Outdated string
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } je prohlížeč zaměřený na ochranu soukromí s automatickou ochranou proti sledování a blokováním reklam.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Prostě soukromé mobilní brouzdání
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } je prohlížeč zaměřený na ochranu soukromí s automatickou ochranou proti sledování. S { -brand-name-focus(case: "ins") } se stránky načítají rychleji a vaše data zůstávají soukromá.
+# Outdated string
 mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } je prohlížeč zaměřený na ochranu soukromí s automatickou ochranou proti sledování a blokováním reklam. S { -brand-name-focus(case: "ins") } se stránky načítají rychleji a vaše data zůstávají soukromá.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } je dostupný pro zařízení se systémem { -brand-name-ios } i { -brand-name-android }.
 mobile-focus-get-firefox-focus = Získejte { -brand-name-firefox-focus(case: "acc") }
@@ -27,13 +31,9 @@ mobile-focus-private-browsing-on = „Soukromé prohlížení“ není ve větš
 mobile-focus-private-browsing-on-v2 = „Soukromé prohlížení“ není ve většině prohlížečů ve skutečnosti až tak soukromé. { -brand-name-firefox-focus } nabízí ve výchozím nastavení vyšší úroveň zajištění soukromí a stojí za ním nezisková organizace { -brand-name-mozilla }, která bojuje za vaše práva na webu.
 mobile-focus-tracking-protection = Ochrana proti sledování
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } ve výchozím nastavení blokuje celou řadu běžných sledovacích prvků, včetně sledovacích prvků sociálních sítí a těch na vás nalepených, které pocházejí například z reklam na { -brand-name-facebook(case: "loc") }.
-mobile-focus-ad-blocking = Blokování reklam
-# Outdated string
-mobile-focus-focus-blocks-the = { -brand-name-focus } blokuje reklamy, které se běžně zobrazují na webových stránkách – nejsou zapotřebí žádné další doplňky nebo rozšíření. S menším počtem reklam dosáhnete vyšší rychlosti načítání stránek, což znamená, že se k požadovaným věcem dostanete mnohem rychleji.
-mobile-focus-focus-blocks-the-v2 = { -brand-name-focus } blokuje reklamy, které se se vás snaží sledovat na všech webových stránkách – nejsou zapotřebí žádné další doplňky nebo rozšíření. S menším počtem reklam dosáhnete vyšší rychlosti načítání stránek, což znamená, že se k požadovaným věcem dostanete mnohem rychleji.
 mobile-focus-see-it-all = Vše uvidíte rychleji
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } odstraňuje reklamy, takže zobrazované stránky vyžadují méně dat a načítají se mnohem rychleji. Navíc si na domovskou obrazovku můžete připnout až čtyři zkratky a dostat se tak na své oblíbené stránky ještě rychleji, aniž byste museli cokoli psát.
 # Outdated string
-mobile-focus-focus-removes-trackers = { -brand-name-focus } odstraňuje reklamy a sledovací prvky, takže zobrazované stránky vyžadují méně dat a načítají se tak mnohem rychleji.
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } odstraňuje reklamy a zapíná blokování reklam, takže zobrazované stránky vyžadují méně dat a načítají se mnohem rychleji. Navíc si na domovskou obrazovku můžete připnout až čtyři zkratky a dostat se tak na své oblíbené stránky ještě rychleji, aniž byste museli cokoli psát.
 mobile-focus-made-by-mozilla = Od { -brand-name-mozilla(case: "gen") }
 mobile-focus-we-believe-everyone = Věříme, že by každý měl mít kontrolu nad svým online životem. Za to bojujeme již od roku 1998.

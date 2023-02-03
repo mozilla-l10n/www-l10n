@@ -1,13 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Stažení { -brand-name-firefox(case: "gen") } pro počítač, mobil a nebo firmu
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Získejte prohlížeče, pro které je vaše soukromí na první místě, a vždy bylo
-# HTML page description
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Získejte soukromí, které si zasloužíte. Rozšířená ochrana proti sledování je automatická v každém prohlížeči { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Získejte <strong>prohlížeče</strong>, pro které je vaše soukromí na první místě, a vždy bylo
