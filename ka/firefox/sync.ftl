@@ -20,6 +20,6 @@ firefox-sync-open-the-menu = გახსენით მენიუ { -brand-n
 firefox-sync-click-get-started = დაწკაპეთ <strong>„დაწყება“</strong> გახსნილ ჩანართში.
 firefox-sync-enter-an-email = შეიყვანეთ ელფოსტის მისამართი და პაროლი, რომ <strong>„შექმნათ { -brand-name-firefox-account }.“</strong>
 firefox-sync-click-next-to = დააწკაპეთ <strong>„შემდეგ“</strong>, რომ ელფოსტაზე მიიღოთ დასტურის წერილი.
-firefox-sync-after-you-check = ელფოსტის შემოწმების და დასტურის ბმულზე დაწკაპების შემდეგ, { -brand-name-firefox } ავტომატურად დაასინქრონებს მონაცემებს ფონურად.
+firefox-sync-after-you-check = ელფოსტის შემოწმების და დასტურის ბმულზე დაწკაპების შემდეგ { -brand-name-firefox } ავტომატურად დაასინქრონებს მონაცემებს ფონურად.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
 firefox-sync-learn-more = იხილეთ ვრცლად, როგორ მართოთ { -brand-name-firefox-account }
