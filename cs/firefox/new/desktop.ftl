@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Stáhněte si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } – rychlý, soukromý, svobodný a zdarma od { -brand-name-mozilla(case: "gen") }
+firefox-desktop-download-meta-title-v2 = Stažení { -brand-name-firefox(case: "gen") } pro počítač — od { -brand-name-mozilla(case: "gen") }
 firefox-desktop-download-meta-desc = Získejte { -brand-name-firefox(case: "acc") }, bezplatný webový prohlížeč podporovaný { -brand-name-mozilla(case: "ins") }, neziskovou organizací zaměřující se na zachování zdravého internetu a soukromí na něm. K dispozici nyní na { -brand-name-windows(case: "loc") }, { -brand-name-mac-short(case: "loc") } , { -brand-name-linux(case: "loc") }, { -brand-name-android(case: "loc") } a { -brand-name-ios(case: "loc") }.
+firefox-desktop-download-meta-desc-v2 = Získejte { -brand-name-firefox(case: "acc") } pro { -brand-name-windows(case: "acc") }, { -brand-name-mac-short(case: "acc") } nebo { -brand-name-linux(case: "acc") }. { -brand-name-firefox } je bezplatný webový prohlížeč od neziskové organizace { -brand-name-mozilla }, která se věnuje soukromí na internetu.
 firefox-desktop-download-og-title = Stáhněte si ten nejrychlejší { -brand-name-firefox(case: "acc") }
 firefox-desktop-download-og-desc = Rychlejší načítání stránek, menší spotřeba paměti a plno funkcí – je tu nový { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = Blokování sledovacích prvk�
 firefox-desktop-download-os-availability = Dostupnost pro více OS
 firefox-desktop-download-in-browser-screenshot = Nástroj pro vytváření snímků stránek
 firefox-desktop-download-primary-password = Hlavní heslo
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Milujte svůj život online
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Je to váš internet. Vybarvěte si ho podle svých představ pomocí tisíců nástrojů, motivů vzhledu a rozšíření. { -brand-name-firefox } je originální alternativní prohlížeč, který dává přednost lidem před ziskem.
 # Obsolete string
 firefox-desktop-download-master-password = Hlavní heslo

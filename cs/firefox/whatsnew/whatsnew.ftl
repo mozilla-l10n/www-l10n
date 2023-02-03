@@ -13,9 +13,11 @@ whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification-v2 = Gratulujeme, používáte nejnovější verzi { -brand-name-firefox(case: "gen") }.
 # Obsolete string
 whatsnew-up-to-date-notification = Gratulujeme, používáte nejnovější verzi { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }.
-whatsnew-out-of-date-notification-v2 = K dispozici je novější verze { -brand-name-firefox(case: "gen") }. Pro provedení aktualizace ho restartujte.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+whatsnew-out-of-date-notification-v3 = K dispozici je novější verze { -brand-name-firefox(case: "gen") }. <a href="{ $url }">Aktualizovat na nejnovější verzi</a>
 # Obsolete string
-whatsnew-out-of-date-notification = K dispozici je novější verze { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }. Pro aktualizaci ho restartujte.
+whatsnew-out-of-date-notification-v2 = K dispozici je novější verze { -brand-name-firefox(case: "gen") }. Pro provedení aktualizace ho restartujte.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Přečtěte si <a href="{ $url }">poznámky k vydání</a>, které obsahují informace o novinkách ve { -brand-name-firefox(case: "loc") }.
