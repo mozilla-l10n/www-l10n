@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = ჩამოტვირთეთ { -brand-name-firefox-browser } — სწრაფი, პირადი და თავისუფალი — { -brand-name-mozilla }-სგან
+firefox-desktop-download-meta-title-v2 = ჩამოტვირთეთ { -brand-name-firefox } კომპიუტერზე — { -brand-name-mozilla }-სგან
 firefox-desktop-download-meta-desc = გადმოწერეთ { -brand-name-firefox }, უფასო ბრაუზერი, რომელსაც ქმნის { -brand-name-mozilla }, არამომგებიანი გუშაგი, ინტერნეტის სიჯანსაღისა და პირდულობის. ხელმისაწვდომი სისტემებია { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } და { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = გადმოწერეთ { -brand-name-firefox } სისტემებისთვის { -brand-name-windows }, { -brand-name-mac-short } ან { -brand-name-linux }. { -brand-name-firefox } უფასო და ღია ბრაუზერია, რომელსაც უზრუნველყოფს { -brand-name-mozilla }, ინტერნეტის სიჯანსაღისა და პირადულობისთვის მებრძოლი არამომგებიანი დაწესებულება.
 firefox-desktop-download-og-title = ჩამოტვირთეთ, უსწრაფესი { -brand-name-firefox }
 firefox-desktop-download-og-desc = გვერდის სწრაფი ჩატვირთვა, მეხსიერების ნაკლები მოხმარება და მრავალნაირი შესაძლებლობა, ახალი { -brand-name-firefox } უკვე აქაა.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = სოცქსელები
 firefox-desktop-download-os-availability = სისტემებთან თავსებადობა
 firefox-desktop-download-in-browser-screenshot = ეკრანის გადაღება ბრაუზერშივე
 firefox-desktop-download-primary-password = მთავარი პაროლი
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = გიყვარდეთ თქვენი ინტერნეტცხოვრება
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = ეს თქვენი ინტერნეტსივრცეა. გაიმრავალფეროვნეთ ათასობით სასურველი ხელსაწყოთი, გაფორმებებითა და გაფართოებებით. { -brand-name-firefox } ყველასგან გამორჩეული ბრაუზერია, რომელიც ხალხს აყენებს მოგებაზე წინ.
 # Obsolete string
 firefox-desktop-download-master-password = მთავარი პაროლი
