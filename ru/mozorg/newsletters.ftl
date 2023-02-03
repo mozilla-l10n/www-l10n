@@ -45,6 +45,10 @@ newsletters-country = Страна:
 # Form field label
 newsletters-language = Язык:
 newsletters-not-all-subscriptions-are = Не все подписки поддерживаются на всех перечисленных здесь языках. Почти все доступны на английском, немецком и французском языках.
+# Form field error message
+newsletters-please-select-country = Пожалуйста, выберите страну или регион
+# Form field error message
+newsletters-please-select-language = Пожалуйста, выберите язык
 # Form field label
 newsletters-format = Формат:
 newsletters-text-subscribers-will-receive = Подписчики на текстовые подписки будут получать по электронной почте два раза в год письма для подтверждения продолжения подписки. Эти письма могут включать в себя HTML.
@@ -73,6 +77,8 @@ newsletters-send-me-a-link = Отправить мне ссылку
 newsletters-youve-been-unsubscribed = Вы отписались от рассылки.
 newsletters-were-sorry-to-see-you-go = Нам жаль, что вы уходите.
 newsletters-would-you-mind-telling-us = Вы не возвражаете, если мы спросим, почему вы нас покидаете?
+newsletters-other-v2 = Другое… (максимум 500 символов)
+# Outdated string
 newsletters-other = Другое…
 newsletters-submit = Подписаться
 newsletters-thanks-for-telling-us-why = Спасибо, что рассказали нам, почему вы отписываетесь.
@@ -295,3 +301,5 @@ knowledge-is-power-mozilla = { -brand-name-mozilla }
 knowledge-is-power-firefox = Браузер { -brand-name-firefox }
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
+# Out of date browser message for newsletter management page.
+newsletters-update-your-browser = Чтобы использовать эту страницу нужно обновить ваш веб-браузер.
