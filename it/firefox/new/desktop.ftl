@@ -12,6 +12,7 @@
 firefox-desktop-download-meta-title = Scarica il { -brand-name-firefox-browser } — Veloce, privato e gratuito — da { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Scarica { -brand-name-mozilla } { -brand-name-firefox } per Desktop
 firefox-desktop-download-meta-desc = Installa { -brand-name-firefox }, il browser web gratuito di { -brand-name-mozilla }, un’organizzazione senza fini di lucro votata a mantenere la salute di Internet e la privacy dei suoi utenti. Disponibile ora per { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Scarica { -brand-name-firefox } per { -brand-name-windows }, { -brand-name-mac-short } o { -brand-name-linux }. { -brand-name-firefox } è un browser web gratuito sostenuto da { -brand-name-mozilla }, un’organizzazione senza fini di lucro che si impegna a proteggere la salute di Internet e la privacy dei suoi utenti.
 firefox-desktop-download-og-title = Scarica la versione di { -brand-name-firefox } più veloce di sempre
 firefox-desktop-download-og-desc = Caricamento pagine più veloce, consumo di memoria ridotto e tante nuove funzioni: il nuovo { -brand-name-firefox } è qui.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser(capitalization: "uppercase") }

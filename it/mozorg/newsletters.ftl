@@ -301,3 +301,5 @@ knowledge-is-power-mozilla = { -brand-name-mozilla }
 knowledge-is-power-firefox = Browser { -brand-name-firefox }
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
+# Out of date browser message for newsletter management page.
+newsletters-update-your-browser = È necessario aggiornare il browser per utilizzare questa pagina.
