@@ -45,6 +45,10 @@ newsletters-country = Nazione:
 # Form field label
 newsletters-language = Lingua:
 newsletters-not-all-subscriptions-are = Non tutte le comunicazioni sono disponibili in tutte le lingue elencate. La maggior parte viene proposta in inglese, tedesco e francese.
+# Form field error message
+newsletters-please-select-country = Seleziona un Paese o una regione
+# Form field error message
+newsletters-please-select-language = Seleziona una lingua.
 # Form field label
 newsletters-format = Formato:
 newsletters-text-subscribers-will-receive = Gli iscritti che hanno optato per ricevere messaggi in testo semplice riceveranno una email due volte l’anno per confermare la continuazione dell’abbonamento. Tali email possono anche contenere codice HTML.
@@ -73,6 +77,8 @@ newsletters-send-me-a-link = Inviami il link
 newsletters-youve-been-unsubscribed = La tua iscrizione è stata annullata.
 newsletters-were-sorry-to-see-you-go = Ci dispiace per la tua decisione.
 newsletters-would-you-mind-telling-us = Puoi spiegarci le motivazioni della tua scelta?
+newsletters-other-v2 = Altro… (massimo 500 caratteri)
+# Outdated string
 newsletters-other = Altro…
 newsletters-submit = Invia
 newsletters-thanks-for-telling-us-why = Ti ringraziamo per averci spiegato i motivi della tua decisione.

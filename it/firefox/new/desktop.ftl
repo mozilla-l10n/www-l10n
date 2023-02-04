@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Scarica il { -brand-name-firefox-browser } — Veloce, privato e gratuito — da { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Scarica { -brand-name-mozilla } { -brand-name-firefox } per Desktop
 firefox-desktop-download-meta-desc = Installa { -brand-name-firefox }, il browser web gratuito di { -brand-name-mozilla }, un’organizzazione senza fini di lucro votata a mantenere la salute di Internet e la privacy dei suoi utenti. Disponibile ora per { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
 firefox-desktop-download-og-title = Scarica la versione di { -brand-name-firefox } più veloce di sempre
 firefox-desktop-download-og-desc = Caricamento pagine più veloce, consumo di memoria ridotto e tante nuove funzioni: il nuovo { -brand-name-firefox } è qui.
@@ -38,10 +39,9 @@ firefox-desktop-download-blocks-social-trackers = Blocca traccianti social
 firefox-desktop-download-os-availability = Disponibile sui maggiori sistemi operativi
 firefox-desktop-download-in-browser-screenshot = Strumento integrato di cattura dello schermo
 firefox-desktop-download-primary-password = Password principale
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Innamorati della tua vita online
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = È il tuo Internet. Arricchiscilo come vuoi con migliaia di strumenti, temi ed estensioni. { -brand-name-firefox } è il browser alternativo originale che antepone le persone al profitto.
 # Obsolete string
 firefox-desktop-download-master-password = Password principale
