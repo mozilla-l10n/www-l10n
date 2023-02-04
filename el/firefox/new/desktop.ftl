@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Λήψη του { -brand-name-firefox-browser } — Γρήγορο, ιδιωτικό & δωρεάν — από τη { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Λήψη του { -brand-name-firefox } για υπολογιστές — από τη { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Αποκτήστε το { -brand-name-firefox }, ένα δωρεάν πρόγραμμα περιήγησης από τη { -brand-name-mozilla }, μια μη κερδοσκοπική οργάνωση αφιερωμένη στην υγεία και το απόρρητο του διαδικτύου. Διαθέσιμο σε { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } και { -brand-name-ios }.
 firefox-desktop-download-og-title = Κάντε λήψη του πιο γρήγορου { -brand-name-firefox }
 firefox-desktop-download-og-desc = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } είναι εδώ.
@@ -38,10 +39,9 @@ firefox-desktop-download-blocks-social-trackers = Φραγή ιχνηλατών 
 firefox-desktop-download-os-availability = Διαθεσιμότητα ΛΣ
 firefox-desktop-download-in-browser-screenshot = Ενσωματωμένο εργαλείο στιγμιότυπων οθόνης
 firefox-desktop-download-primary-password = Κύριος κωδικός πρόσβασης
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Αγαπήστε τη διαδικτυακή σας ζωή
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Είναι το διαδίκτυό σας. Προσαρμόστε το όπως θέλετε με χιλιάδες εργαλεία, θέματα και επεκτάσεις. Το { -brand-name-firefox } είναι το πρώτο εναλλακτικό πρόγραμμα περιήγησης που βάζει τους ανθρώπους πάνω από το κέρδος.
 # Obsolete string
 firefox-desktop-download-master-password = Κύριος κωδικός πρόσβασης
