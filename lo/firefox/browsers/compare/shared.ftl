@@ -45,6 +45,10 @@ compare-shared-utility-strong = <strong>ອຸປະຖຳ</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>ການພົກພາ</strong>
 compare-shared-overall-assessment = ການປະເມີນໂດຍລວມ
+compare-shared-the-comparisons-made-here-updated = ການປຽບທຽບທີ່ເຮັດຢູ່ນີ້ໄດ້ຖືກເຮັດດ້ວຍການຕັ້ງຄ່າເລີ່ມຕົ້ນແລະໃນທົ່ວລຸ້ນຂອງຕົວທ່ອງເວັບດັ່ງຕໍ່ໄປນີ້:
+# Obsolete string
+compare-shared-the-comparisons-made-here = ການປຽບທຽບທີ່ເຮັດຢູ່ນີ້ໄດ້ຖືກເຮັດແລ້ວໃນທົ່ວສະບັບຂອງຕົວທ່ອງເວັບດັ່ງຕໍ່ໄປນີ້:
+compare-shared-this-page-updated-semi-quarterly = ໜ້ານີ້ຖືກປັບປຸງເປັນເຄິ່ງໄຕມາດເພື່ອສະທ້ອນເຖິງເວີຊັນຫຼ້າສຸດ ແລະອາດຈະບໍ່ສະທ້ອນເຖິງການອັບເດດຫຼ້າສຸດສະເໝີໄປ.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
@@ -52,6 +56,7 @@ compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
+compare-shared-download-firefox = ດາວໂຫລດ { -brand-name-firefox }
 compare-shared-desktop = ເດສກ໌ທັອບ
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
