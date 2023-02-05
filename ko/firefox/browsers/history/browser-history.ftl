@@ -40,5 +40,7 @@ browser-history-things-got-a-little = 상황은 1997년 { -brand-name-microsoft 
 #   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
 #   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
 browser-history-then-microsoft-began = 그런 다음 { -brand-name-microsoft }는 { -brand-name-windows } 운영 체제와 함께 { -brand-name-ie }를 배포하기 시작했습니다. 4년 만에 시장의 75%를 차지했고 1999년에는 시장의 99%를 차지했습니다. 회사는 이러한 움직임에 대한 반독점 소송에 직면했고 { -brand-name-netscape }는 코드베이스를 공개하기로 결정합니다. 그리고비영리 단체 <a href="{ $mozilla }">{ -brand-name-mozilla }</a>를 만들었고 이는 2002년에 { -brand-name-firefox }를 만들고 출시합니다. 브라우저 독점이 사용자와 개방형 웹에 최선의 이익이 아니라는 것을 깨닫고 { -brand-name-firefox }는 웹 사용자에게 선택권을 제공하기 위해 만들어졌습니다. 2010년까지 { -brand-name-mozilla } { -brand-name-firefox }와 다른 브라우저는 <a href="{ $marketshare }">{ -brand-name-ie }의 시장 점유율을 50%로 줄였습니다</a>.
+browser-history-other-competitors = 90년대 후반과 2000년대 초반에 { -brand-name-opera }나 { -brand-name-safari }, { -brand-name-google } { -brand-name-chrome }을 비롯한 다른 경쟁자가 등장했습니다. { -brand-name-microsoft } { -brand-name-edge }는 2015년 { -brand-name-windows } 10의 출시와 함께 { -brand-name-ie }를 대체하였습니다.
+browser-history-browsing-the-web = 오늘날의 웹 브라우징
 browser-history-resources = 자원
 browser-history-take-control-of = 브라우저를 제어하세요.
