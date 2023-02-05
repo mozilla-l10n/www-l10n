@@ -45,6 +45,10 @@ newsletters-country = País:
 # Form field label
 newsletters-language = Idioma:
 newsletters-not-all-subscriptions-are = No todas las suscripciones están disponibles en los idiomas de la lista. Casi todas están disponibles en inglés, alemán y francés.
+# Form field error message
+newsletters-please-select-country = Por favor, selecciona un país o región
+# Form field error message
+newsletters-please-select-language = Por favor, selecciona un idioma
 # Form field label
 newsletters-format = Formato:
 newsletters-text-subscribers-will-receive = Los suscriptores recibirán un correo dos veces al año para confirmar que quieren seguir suscritos. Los correos incluyen HTML.
@@ -73,6 +77,8 @@ newsletters-send-me-a-link = Enviarme un enlace
 newsletters-youve-been-unsubscribed = Has cancelado la suscripción.
 newsletters-were-sorry-to-see-you-go = Lamentamos que te vayas.
 newsletters-would-you-mind-telling-us = ¿Te importaría contarnos por qué te vas?
+newsletters-other-v2 = Otro…(máximo 500 caracteres)
+# Outdated string
 newsletters-other = Otra razón…
 newsletters-submit = Enviar
 newsletters-thanks-for-telling-us-why = Gracias por contarnos por qué te vas.
@@ -295,3 +301,5 @@ knowledge-is-power-mozilla = { -brand-name-mozilla }
 knowledge-is-power-firefox = Navegador { -brand-name-firefox }
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
+# Out of date browser message for newsletter management page.
+newsletters-update-your-browser = Tu navegador web debe actualizarse para poder utilizar esta página.
