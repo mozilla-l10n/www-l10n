@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = 데스크톱, 모바일 또는 기업용 { -brand-name-firefox } 다운로드
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = 개인 정보 보호를 최우선으로 생각하는 브라우저 사용하기
 # HTML page description
+firefox-browsers-page-desc = 데스크톱, { -brand-name-ios }, { -brand-name-android } 중에서 선택하거나 모바일 다운로드 링크를 이메일로 보내드립니다.
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = 개인 정보 보호를 최우선으로 하는 향상된 추적 보호 기능은 모든 { -brand-name-firefox } 브라우저에서 자동으로 제공됩니다.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = 개인 정보 보호를 최우선으로 생각하는 <strong>웹 브라우저</ strong>

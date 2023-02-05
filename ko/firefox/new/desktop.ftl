@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-firefox-browser } 다운로드 — { -brand-name-mozilla }가 만든 빠르고 사생활 보호를 위한 무료 브라우저
+firefox-desktop-download-meta-title-v2 = 데스크톱용 { -brand-name-firefox } — { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = 인터넷을 풍요롭게 하기 위해 개인 정보 보호를 중요시하는 비영리 단체인 { -brand-name-mozilla }가 지원하는 무료 웹 브라우저인 { -brand-name-firefox }를 사용해 보세요. { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } 및 { -brand-name-ios }에서 바로 사용할 수 있습니다.
+firefox-desktop-download-meta-desc-v2 = { -brand-name-windows }나 { -brand-name-mac-short }, { -brand-name-linux }용 { -brand-name-firefox } 받으세요. { -brand-name-firefox }는 인터넷 건강과 개인정보 보호를 위해 활동하는 비영리 단체인 { -brand-name-mozilla }에서 지원하는 무료 브라우저 입니다.
 firefox-desktop-download-og-title = { -brand-name-firefox } 최신 버전 다운로드
 firefox-desktop-download-og-desc = 빠른 페이지 로딩, 작은 메모리 사용 및 다양한 기능을 갖춘 새로운 { -brand-name-firefox }가 여기 있습니다.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = 소셜 추적기 차단
 firefox-desktop-download-os-availability = 사용 가능 OS
 firefox-desktop-download-in-browser-screenshot = 브라우저 내 스크린 샷 도구
 firefox-desktop-download-primary-password = 기본 비밀번호
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = 온라인 생활을 사랑합니다.
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = 당신의 인터넷입니다. 수천 개의 도구, 테마 및 확장 기능을 사용하여 원하는 색을 칠하세요. { -brand-name-firefox }는 이익보다 사람을 우선시하는 독보적인 대안 브라우저입니다.
 # Obsolete string
 firefox-desktop-download-master-password = 기본 비밀번호

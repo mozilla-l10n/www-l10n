@@ -13,9 +13,11 @@ whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification-v2 = 축하합니다! { -brand-name-firefox } 최신 버전을 사용하고 있습니다.
 # Obsolete string
 whatsnew-up-to-date-notification = 축하합니다! { -brand-name-firefox-browser } 최신 버전을 사용하고 있습니다.
-whatsnew-out-of-date-notification-v2 = 더 새로운 { -brand-name-firefox }를 사용할 수 있습니다. 업데이트하려면 다시 시작하세요.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+whatsnew-out-of-date-notification-v3 = 더 새로운 { -brand-name-firefox }를 사용할 수 있습니다. <a href="{ $url }">최신 버전으로 업데이트</a>
 # Obsolete string
-whatsnew-out-of-date-notification = 더욱 새로워진 { -brand-name-firefox-browser }를 이용하실 수 있습니다. 다시 시작하여 업데이트해 주세요.
+whatsnew-out-of-date-notification-v2 = 더 새로운 { -brand-name-firefox }를 사용할 수 있습니다. 업데이트하려면 다시 시작하세요.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = { -brand-name-firefox } 브라우저의 새로운 기능을 더 자세히 알아보고 싶으시다면 <a href="{ $url }">출시 정보</a>를 읽어보세요.
