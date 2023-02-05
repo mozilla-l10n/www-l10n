@@ -58,7 +58,11 @@ newsletters-language = اللغة:
 
 newsletters-not-all-subscriptions-are = ليست كل الاشتراكات مدعومة بجميع اللغات المدرجة. توفر جميعًا كلها باللغات الإنجليزية والألمانية والفرنسية.
 
+# Form field error message
+newsletters-please-select-country = يُرجى اختيار بلد أو منطقة
 
+# Form field error message
+newsletters-please-select-language = يُرجى اختيار لغة
 
 # Form field label
 newsletters-format = التنسيق:
@@ -98,6 +102,7 @@ newsletters-send-me-a-link = أرسِل إليّ رابطًا
 newsletters-youve-been-unsubscribed = لقد ألغي اشتراكك.
 newsletters-were-sorry-to-see-you-go = نأسف لمغادرتك.
 newsletters-would-you-mind-telling-us = هل ترغب في إطلاعنا على أسباب مُغادرتك؟
+newsletters-other-v2 = غير ذلك... (500 حرف كحد أقصى)
 
 # Outdated string
 newsletters-other = أخرى…
@@ -416,3 +421,5 @@ knowledge-is-power-firefox = مُتصفح { -brand-name-firefox }
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
 
+# Out of date browser message for newsletter management page.
+newsletters-update-your-browser = يَحتاج مُتصفح الويب لديك للتحديث لتتمكّن من استخدام هذه الصفحة.
