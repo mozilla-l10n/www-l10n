@@ -99,6 +99,15 @@
         [loc] TikToku
     }
 -brand-name-spotify = Spotify
+-brand-name-mastodon =
+    { $case ->
+        [gen] Mastodona
+        [dat] Mastodonowi
+        [acc] Mastodona
+        [ins] Mastodonem
+        [loc] Mastodonie
+       *[nom] Mastodon
+    }
 
 ## Firefox browsers
 

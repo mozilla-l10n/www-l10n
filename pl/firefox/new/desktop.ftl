@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } — szybką, prywatną i bezpłatną — od { -brand-name-mozilla(case: "gen") }
+firefox-desktop-download-meta-title-v2 = Pobierz { -brand-name-firefox(case: "acc") } na komputery — od { -brand-name-mozilla(case: "gen") }
 firefox-desktop-download-meta-desc = Pobierz { -brand-name-firefox(case: "acc") }, bezpłatną przeglądarkę internetową wspieraną przez { -brand-name-mozilla(case: "acc") }, organizację non-profit oddaną zdrowiu Internetu i prywatności. Dostępna teraz w systemach { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } i { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Pobierz { -brand-name-firefox(case: "acc") } dla systemu { -brand-name-windows }, { -brand-name-mac-short } lub { -brand-name-linux }. { -brand-name-firefox } to bezpłatna przeglądarka internetowa wspierana przez { -brand-name-mozilla(case: "acc") }, organizację non-profit oddaną zdrowiu Internetu i prywatności użytkowników.
 firefox-desktop-download-og-title = Pobierz najszybszego { -brand-name-firefox(case: "acc") } w historii
 firefox-desktop-download-og-desc = Szybsze wczytywanie stron, mniejsze zużycie pamięci i mnóstwo funkcji w nowym { -brand-name-firefox(case: "loc") }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = Blokuje elementy śledzące se
 firefox-desktop-download-os-availability = Dostępna w różnych systemach operacyjnych
 firefox-desktop-download-in-browser-screenshot = Wbudowane narzędzie do wykonywania zrzutów ekranu
 firefox-desktop-download-primary-password = Hasło główne
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Pokochaj swoje życie w Internecie
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = To Twój Internet. Podkoloruj go jak tylko chcesz dzięki tysiącom narzędzi, motywów i rozszerzeń. { -brand-name-firefox } to oryginalna alternatywna przeglądarka, która stawia ludzi przed zyskami.
 # Obsolete string
 firefox-desktop-download-master-password = Hasło główne
