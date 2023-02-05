@@ -42,5 +42,11 @@ browser-history-things-got-a-little = 상황은 1997년 { -brand-name-microsoft 
 browser-history-then-microsoft-began = 그런 다음 { -brand-name-microsoft }는 { -brand-name-windows } 운영 체제와 함께 { -brand-name-ie }를 배포하기 시작했습니다. 4년 만에 시장의 75%를 차지했고 1999년에는 시장의 99%를 차지했습니다. 회사는 이러한 움직임에 대한 반독점 소송에 직면했고 { -brand-name-netscape }는 코드베이스를 공개하기로 결정합니다. 그리고비영리 단체 <a href="{ $mozilla }">{ -brand-name-mozilla }</a>를 만들었고 이는 2002년에 { -brand-name-firefox }를 만들고 출시합니다. 브라우저 독점이 사용자와 개방형 웹에 최선의 이익이 아니라는 것을 깨닫고 { -brand-name-firefox }는 웹 사용자에게 선택권을 제공하기 위해 만들어졌습니다. 2010년까지 { -brand-name-mozilla } { -brand-name-firefox }와 다른 브라우저는 <a href="{ $marketshare }">{ -brand-name-ie }의 시장 점유율을 50%로 줄였습니다</a>.
 browser-history-other-competitors = 90년대 후반과 2000년대 초반에 { -brand-name-opera }나 { -brand-name-safari }, { -brand-name-google } { -brand-name-chrome }을 비롯한 다른 경쟁자가 등장했습니다. { -brand-name-microsoft } { -brand-name-edge }는 2015년 { -brand-name-windows } 10의 출시와 함께 { -brand-name-ie }를 대체하였습니다.
 browser-history-browsing-the-web = 오늘날의 웹 브라우징
+# Variables:
+#   $applications (url) - https://blog.mozilla.org/firefox/no-judgment-digital-definitions-app-vs-web-app/
+browser-history-today-there-are = 오늘날에는 인터넷에 접속할 수 있는 몇가지 방법이 있습니다. { -brand-name-firefox }와 { -brand-name-google } { -brand-name-chrome }, { -brand-name-microsoft } { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }가 주요 경쟁자들입니다. 지난 10년 동안 모바일 기기는 인터넷에 접속하는 가장 선호하는 방법이 되었습니다. 오늘날 대부분의 인터넷 사용자들은 온라인에 접속하기 위해 모바일 브라우저와 <a href="{ $applications }">어플리케이션</a>만을 사용합니다. 주요 브라우저의 모바일 버전은 { -brand-name-ios }와 { -brand-name-android } 기기에서 사용할 수 있습니다. 앱은 특정 목적을 위해서는 매우 유용하지만, 웹에 대한 제한된 접근만을 제공합니다.
+# Variables:
+#   $vr (url) - https://mixedreality.mozilla.org/
+browser-history-in-the-future-the = 미래에 웹은 하이퍼텍스트라는 뿌리에서 벗어나 상호작용 경험의 광활한 바다가 될 것입니다. 가상 현실은 지난 수십 년 동안 (적어도 1992년 Lawnmower Man과 1995년 Nintendo Virtual Boy 출시 이후) 지평선 상에 있었지만, 결국 웹이 이를 대중화 할 것입니다. { -brand-name-firefox }는 이제 개발자들이 빠르고 쉽게 가상 현실 웹사이트를 만들 수 있게 해주는 <a href="{ $vr }">WebVR과 A-Frame</a>을 지원합니다. 대부분의 최신 모바일 기기들은 <a href="{ $vr }">WebVR</a>을 지원하며 간단한 카드보드 케이스를 이용해 헤드셋으로 쉽게 사용할 수 있습니다. SF 작가 닐 스티븐슨(Neal Stephenson)이 상상한 것과 같은 3D 가상 현실 웹이 머지않아 다가올지도 모릅니다. 그렇게 되면 웹 브라우저는 완전히 사라지고 또 다른 세계로 통하는 진정한 창이 될 수 있습니다.
 browser-history-resources = 자원
 browser-history-take-control-of = 브라우저를 제어하세요.
