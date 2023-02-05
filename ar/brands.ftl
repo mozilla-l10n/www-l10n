@@ -25,6 +25,7 @@
 -brand-name-linkedin = لِنكد‌إن
 -brand-name-tiktok = تيك توك
 -brand-name-spotify = سبوتيفاي
+-brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
