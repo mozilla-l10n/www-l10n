@@ -102,7 +102,7 @@ newsletters-send-me-a-link = أرسِل إليّ رابطًا
 newsletters-youve-been-unsubscribed = لقد ألغي اشتراكك.
 newsletters-were-sorry-to-see-you-go = نأسف لمغادرتك.
 newsletters-would-you-mind-telling-us = هل ترغب في إطلاعنا على أسباب مُغادرتك؟
-newsletters-other-v2 = غير ذلك... (500 حرف كحد أقصى)
+newsletters-other-v2 = غير ذلك… (500 حرف كحد أقصى)
 
 # Outdated string
 newsletters-other = أخرى…
