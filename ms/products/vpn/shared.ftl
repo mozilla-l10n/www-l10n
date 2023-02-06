@@ -97,6 +97,10 @@ vpn-shared-pricing-plan-monthly = Bulanan
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/bulan</span>
 
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/bulan + cukai</span>
 
 # Outdated string
 vpn-shared-pricing-get-6-month = Dapatkan pelan 6 bulan
@@ -125,6 +129,10 @@ vpn-shared-when-you-subscribe = *apabila anda melanggan untuk pelan 12-bulan
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } jumlah
 
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = { $amount } jumlah + cukai
 
 # Platform subpage shared strings
 
