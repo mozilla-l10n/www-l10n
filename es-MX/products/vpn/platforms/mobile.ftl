@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
 # Meta strings
-vpn-mobile-page-title = { -brand-name-mozilla-vpn } para celulares (smartphones y tablets)
+vpn-mobile-page-title = { -brand-name-mozilla-vpn } para dispositivos móviles (smartphones & tablets)
 vpn-mobile-page-description = Protege tu smartphone y tablet con una VPN de { -brand-name-mozilla }, el confiable pionero de la privacidad en Internet.
 # Mobile strings
 vpn-mobile-hero-headline = Protege tu privacidad en tu celular con { -brand-name-mozilla-vpn }

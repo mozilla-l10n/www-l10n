@@ -35,4 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = La privacidad que mereces. La veloc
 firefox-mobile-get-firefox-for-mobile = Instala { -brand-name-firefox } para dispositivos móviles
 firefox-mobile-send-a-download-link-to-your = Enviar un enlace de descarga a tu teléfono.
 firefox-mobile-scan-the-qr-code-to-get-started = Escanea el código QR para comenzar
-firefox-mobile-scan-alt-text = Escanea el código QR para obtener { -brand-name-firefox } en tu móvil
+firefox-mobile-scan-alt-text = Escanea el código QR para obtener { -brand-name-firefox } en tu dispositivo móvil
