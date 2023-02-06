@@ -12,6 +12,7 @@
 firefox-desktop-download-meta-title = Prenesite { -brand-name-firefox-browser } – hiter, zaseben in brezplačen – delo { -brand-name-mozilla(sklon: "rodilnik") }
 firefox-desktop-download-meta-title-v2 = Prenesite { -brand-name-firefox } za namizja – izdelek { -brand-name-mozilla(sklon: "rodilnik") }
 firefox-desktop-download-meta-desc = Prenesite { -brand-name-firefox }, brezplačen spletni brskalnik izpod okrilja { -brand-name-mozilla(sklon: "rodilnik") }, neprofitne organizacije, zavezane zdravemu spletu in zasebnosti. Zdaj na voljo za { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } in { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Pridobite { -brand-name-firefox } za { -brand-name-windows }, { -brand-name-mac-short } ali { -brand-name-linux }. { -brand-name-firefox } je brezplačen brskalnik, za katerim stoji { -brand-name-mozilla }, neprofitna organizacija, predana zdravemu in zasebnemu internetu.
 firefox-desktop-download-og-title = Prenesite najhitrejši { -brand-name-firefox } vseh časov
 firefox-desktop-download-og-desc = Hitrejše nalaganje strani, manjša poraba pomnilnika in kopica novih zmožnosti – novi { -brand-name-firefox } je tu.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
