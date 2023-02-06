@@ -9,7 +9,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-mozilla } から高速、プライベート、無料の { -brand-name-firefox-browser } をダウンロード
+firefox-desktop-download-meta-title-v2 = { -brand-name-mozilla } のデスクトップ用 { -brand-name-firefox } をダウンロード
 firefox-desktop-download-meta-desc = インターネットの健全性とプライバシーを守る非営利法人 { -brand-name-mozilla } が提供する無料のウェブブラウザー、{ -brand-name-firefox } をダウンロードしてください。{ -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux }、{ -brand-name-android }、{ -brand-name-ios } で今すぐご利用になれます。
+firefox-desktop-download-meta-desc-v2 = { -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux } 用{ -brand-name-firefox } をダウンロードしてください。{ -brand-name-firefox } は、インターネットの健全性とプライバシーを守る非営利法人 { -brand-name-mozilla } が提供する無料のウェブブラウザーです。
 firefox-desktop-download-og-title = 史上最速の { -brand-name-firefox } をダウンロード
 firefox-desktop-download-og-desc = より高速なページ読み込み、メモリ使用量削減、機能満載の最新版 { -brand-name-firefox } が登場しました。
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
