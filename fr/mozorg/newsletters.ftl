@@ -58,7 +58,11 @@ newsletters-language = Langue :
 
 newsletters-not-all-subscriptions-are = Les abonnements ne sont pas tous disponibles dans toutes les langues citées. Ils sont presque tous proposés en anglais, allemand et français.
 
+# Form field error message
+newsletters-please-select-country = Veuillez sélectionner un pays ou une région
 
+# Form field error message
+newsletters-please-select-language = Veuillez sélectionner une langue
 
 # Form field label
 newsletters-format = Format :
@@ -98,6 +102,7 @@ newsletters-send-me-a-link = Envoyez-moi un lien
 newsletters-youve-been-unsubscribed = Vous avez été désinscrit.
 newsletters-were-sorry-to-see-you-go = C’est triste de vous voir partir…
 newsletters-would-you-mind-telling-us = Pourriez-vous expliquer les raisons de votre choix ?
+newsletters-other-v2 = Autre… (500 caractères max.)
 
 # Outdated string
 newsletters-other = Autre…
@@ -416,3 +421,5 @@ knowledge-is-power-firefox = Navigateur { -brand-name-firefox }
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
 
+# Out of date browser message for newsletter management page.
+newsletters-update-your-browser = Votre navigateur web doit être à jour pour pouvoir utiliser cette page.
