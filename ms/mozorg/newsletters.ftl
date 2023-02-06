@@ -58,7 +58,11 @@ newsletters-language = Bahasa:
 
 newsletters-not-all-subscriptions-are = Tidak semua langganan disokong dalam semua bahasa yang disenaraikan. Hampir kesemuanya ditawarkan dalam bahasa Inggeris, Jerman dan Perancis.
 
+# Form field error message
+newsletters-please-select-country = Sila pilih negara atau wilayah
 
+# Form field error message
+newsletters-please-select-language = Sila pilih bahasa
 
 # Form field label
 newsletters-format = Format:
@@ -98,6 +102,7 @@ newsletters-send-me-a-link = Hantar pautan kepada saya
 newsletters-youve-been-unsubscribed = Anda telah berhenti melanggan.
 newsletters-were-sorry-to-see-you-go = Kami kesal melihat anda pergi.
 newsletters-would-you-mind-telling-us = Adakah anda tidak keberatan untuk memberitahu kami mengapa anda pergi?
+newsletters-other-v2 = Lain-lain… (maksimum 500 aksara)
 
 # Outdated string
 newsletters-other = Lain-lain…
@@ -416,3 +421,5 @@ knowledge-is-power-firefox = Pelayar { -brand-name-firefox }
 knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
 
+# Out of date browser message for newsletter management page.
+newsletters-update-your-browser = Pelayar web anda perlu dikemas kini untuk menggunakan laman ini.
