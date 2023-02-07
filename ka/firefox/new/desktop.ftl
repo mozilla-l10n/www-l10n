@@ -50,7 +50,7 @@ firefox-desktop-download-we-block-the-ad = სარეკლამო მეთ
 firefox-desktop-download-ads-are-distracting = რეკლამები ყურადღების გამფანტავია და ანელებს გვერდების ჩატვირთვას, როცა თვალს ადევნებს თითოეულ თქვენს მოქმედებას ინტერნეტში. { -brand-name-firefox-browser } ზღუდავს მეთვალყურეების უმეტესობას ავტომატურად, ასე რომ არ დაგჭირდებათ პარამეტრებში დამატებით ძრომიალი.
 firefox-desktop-download-see-your-report = იხილეთ, უსაფრთხოების ანგარიში
 firefox-desktop-download-for-everyone = { -brand-name-firefox } ყველასთვისაა
-firefox-desktop-download-available-in-over = ხელმისაწვდომია 90-ზე მეტ ენაზე, ამასთანავე თავსებადია { -brand-name-windows }, { -brand-name-mac-short } და { -brand-name-linux }-სისტემებთან, { -brand-name-firefox } იმუშავებს ყველაფერზე და ყველგან. საუკეთესო შედეგისთვის, დარწმუნდით რომ სისტემა განახლებულია.
+firefox-desktop-download-available-in-over = ხელმისაწვდომია 90-ზე მეტ ენაზე, ამასთანავე თავსებადია { -brand-name-windows }, { -brand-name-mac-short } და { -brand-name-linux }-სისტემებთან, { -brand-name-firefox } იმუშავებს ყველაფერზე და ყველგან. შეუფერხებლად სარგებლობისთვის დარწმუნდით, რომ სისტემა განახლებულია.
 firefox-desktop-download-review-system-req = გაეცანით სისტემის მოთხოვნებს
 firefox-desktop-download-all-your-devices = განათავსეთ { -brand-name-firefox } ყველა თქვენს მოწყობილობაზე
 firefox-desktop-download-take-your-privacy = წაიყოლეთ პირადი მონაცემები ყველგან. { -brand-name-firefox-browsers } { -brand-name-ios }-სა და { -brand-name-android }-ზეც მძლავრად იცავს თქვენს ინფორმაციას და უზღუდავს მეთვალყურეებს თქვენი თვალთვალის შესაძლებლობას, სადაც არ უნდა იყოთ.
@@ -129,7 +129,7 @@ firefox-desktop-download-learn-about-the = ვრცლად იხილეთ
 firefox-desktop-download-from-security-to = უსაფრთხოებისთვის, ახალი ამბებისთვის, თამაშებისთვის, – <a { $attrs }>გაფართოებები ყველაფრისთვისაა</a>. დაამატეთ რამდენიც მოგესურვებათ.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a>-მ შექმნა { -brand-name-firefox }, როგორც სწრაფი, მეტად პირადული შემნაცვლებელი { -brand-name-ie } ბრაუზერისთვის, ახლა უკვე { -brand-name-chrome }-ისთვისაც. დღესაც განაგრძობს მიზნისკენ სვლას ჩვენი კომპანია და მოხალისეთა ერთობა, რომ უზრუნველვყოთ თქვენი პირადულობის უწინარესობა.
+firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a>-მ შექმნა { -brand-name-firefox }, როგორც სწრაფი, მეტად პირადული შემნაცვლებელი { -brand-name-ie } ბრაუზერისა, ახლა უკვე { -brand-name-chrome }-ისაც. დღესაც განაგრძობს მიზნისკენ სვლას ჩვენი კომპანია და მოხალისეთა ერთობა, რომ უზრუნველვყოთ თქვენი პირადულობის უწინარესობა.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს, თქვენი პირადი მონაცემების ხელშეუხებლობის უფლების უზრუნველყოფას  — რასაც ვუწოდებთ <a { $attrs }>მონაცემების დაცვის პირობას</a>: ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არავითარი საიდუმლოება. თქვენს მონაცემებს, ვებსივრცეში მოქმედებებს, პირად ცხოვრებას ინტერნეტში, იცავს { -brand-name-firefox }.
