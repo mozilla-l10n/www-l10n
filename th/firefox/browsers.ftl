@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = ดาวน์โหลด { -brand-name-firefox } สำหรับเดสก์ท็อป มือถือ หรือองค์กร
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = รับเบราว์เซอร์ที่ให้ความสำคัญกับความเป็นส่วนตัวของคุณ — เป็นอันดับแรกเสมอ
 # HTML page description
+firefox-browsers-page-desc = เลือกจากรุ่นเดสก์ท็อป, { -brand-name-ios }, { -brand-name-android } หรือให้เราส่งลิงก์ดาวน์โหลดบนมือถือให้คุณทางอีเมล
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = รับความเป็นส่วนตัวที่คุณควรได้รับ การป้องกันการติดตามที่มากขึ้นอัตโนมัติใน { -brand-name-firefox } ทุกตัว
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = รับ<strong>เบราว์เซอร์</strong>ที่ให้ความสำคัญกับความเป็นส่วนตัวของคุณ — เป็นอันดับแรกเสมอ
