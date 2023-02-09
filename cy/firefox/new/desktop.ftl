@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Llwythwch { -brand-name-firefox-browser } - Cyflym, Preifat ac Am Ddim - gan { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Llwythwch { -brand-name-firefox } ar gyfer y Bwrdd Gwaith — o { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Cael { -brand-name-firefox }, porwr gwe am ddim gan { -brand-name-mozilla }, corff nid-er-elw sy'n ymroddedig i iechyd a phreifatrwydd y rhyngrwyd. Ar gael nawr ar { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Cael { -brand-name-firefox } ar gyfer { -brand-name-windows }, { -brand-name-mac-short } neu { -brand-name-linux }. Mae { -brand-name-firefox } yn borwr gwe rhad ac am ddim sy'n cael ei gefnogi gan { -brand-name-mozilla }, sefydliad dim-er-elw sy'n ymroddedig i iechyd a phreifatrwydd ar y rhyngrwyd.
 firefox-desktop-download-og-title = Llwythwch i lawr y { -brand-name-firefox } cyflymaf erioed
 firefox-desktop-download-og-desc = Llwytho tudalennau cynt, llai o ddefnydd o gof ac yn llawn nodweddion, mae'r { -brand-name-firefox } newydd yma.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = Yn rhwystro tracwyr cymdeithas
 firefox-desktop-download-os-availability = Argaeledd yr OS
 firefox-desktop-download-in-browser-screenshot = Teclyn llun sgrin o fewn y porwr
 firefox-desktop-download-primary-password = Prif gyfrinair
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Carwch eich bywyd ar-lein
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Eich rhyngrwyd chi yw hi. Lliwiwch hi yn y ffordd rydych chi ei eisiau gyda miloedd o offer, themâu ac estyniadau. { -brand-name-firefox } yw'r porwr amgen gwreiddiol sy'n rhoi pobl cyn elw.
 # Obsolete string
 firefox-desktop-download-master-password = Prif gyfrinair
