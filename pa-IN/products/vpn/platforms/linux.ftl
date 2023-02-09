@@ -9,6 +9,8 @@
 # Meta strings
 
 vpn-linux-page-title = { -brand-name-linux } ({ -brand-name-ubuntu }) ਲਈ { -brand-name-mozilla-vpn }
+# Linux strings
+vpn-linux-hero-headline = { -brand-name-ubuntu } { -brand-name-linux } ਲਈ { -brand-name-mozilla-vpn } — ਸਮੁੱਚੀ ਪ੍ਰਾਈਵੇਟ ਜੋੜੀ
 vpn-linux-wifi-headline = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਜਨਤਕ Wi-Fi ਵਰਤਣਾ ਹੋਵੇ ਤਾਂ ਆਨਲਾਈਨ ਸੁਰੱਖਿਅਤ ਰਹੋ
 vpn-linux-about-headline = 1998 ਤੋਂ ਭਰੋਸੇਯੋਗ ਨਾਂ
 vpn-linux-privacy-headline = ਸੁਰੱਖਿਆ ਸਿਰਫ਼ 1-ਕਲਿੱਕ ਨਾਲ

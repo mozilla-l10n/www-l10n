@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = ਡੈਸਕਟਾਪ, ਮੋਬਾਈਲ ਜਾਂ ਇੰਟਰਪ੍ਰਾਈਜ਼ ਲਈ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲਾਂ ਦਿੰਦਾ ਹੈ — ਅਤੇ ਹਮੇਸ਼ਾਂ
 # HTML page description
+firefox-browsers-page-desc = ਡੈਸਕਟਾਪ, { -brand-name-ios }, { -brand-name-android } ਵਿੱਚੋਂ ਚੁਣੋ ਜਾਂ ਤੁਹਾਨੂੰ ਮੋਬਾਈਲ ਡਾਊਨਲੋਡ ਲਿੰਕ ਭੇਜਣ ਲਈ ਸਾਨੂੰ ਈਮੇਲ ਦਿਓ।
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = ਪਰਦੇਦਾਰੀ ਲਵੋ, ਜਿਸ ਦੇ ਤੁਸੀਂ ਹੱਕਦਾਰ ਹੋ। ਹਰੇਕ { -brand-name-firefox } ਵਿੱਚ ਆਟੋਮੈਟਿਕ ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਹੈ।
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = <strong>ਬਰਾਊਜ਼ਰ</strong> ਲਵੋ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲਾਂ ਦਿੰਦਾ ਹੈ — ਅਤੇ ਹਮੇਸ਼ਾਂ

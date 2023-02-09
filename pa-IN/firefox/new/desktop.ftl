@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-firefox-browser } ਡਾਊਨਲੋਡ ਕਰੋ — ਤੇਜ਼, ਪ੍ਰਾਈਵੇਟ ਤੇ ਮੁਫ਼ਤ — { -brand-name-mozilla } ਵਲੋਂ
+firefox-desktop-download-meta-title-v2 = { -brand-name-mozilla } — ਤੋਂ ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 firefox-desktop-download-meta-desc = { -brand-name-firefox } ਮੁਫ਼ਤ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜਿਸ ਨੂੰ ਇੰਟਰਨੈੱਟ ਦੀ ਮਜ਼ਬੂਤੀ ਅਤੇ ਪਰਦੇਦਾਰੀ ਲਈ ਸਮਰਪਤ ਗ਼ੈਰ-ਫਾਇਦਾ ਸੰਗਠਨ { -brand-name-mozilla } ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਹੈ। { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } ਅਤੇ { -brand-name-ios } ਲਈ ਹੁਣ ਉਪਲਬਧ ਹੈ।
+firefox-desktop-download-meta-desc-v2 = { -brand-name-windows }, { -brand-name-mac-short } ਜਾਂ { -brand-name-linux } ਲਈ { -brand-name-firefox } ਲਵੋ। { -brand-name-firefox } { -brand-name-mozilla }, ਜੋ ਕਿ ਮਜ਼ਬੂਤ ਅਤੇ ਪਰਦੇਦਾਰੀ ਲਈ ਸਮਰਪਿਤ ਗ਼ੈਰ-ਫ਼ਾਇਦਾ ਸੰਸਥਾ ਹੈ, ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਮੁਫ਼਼ਤ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਹੈ।
 firefox-desktop-download-og-title = ਪਹਿਲਾਂ ਹੀ ਸਭ ਤੋਂ ਤੇਜ਼ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 firefox-desktop-download-og-desc = ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਸਫ਼ੇ ਡਾਊਨਲੋਡ ਕਰਨੇ, ਘੱਟ ਮੈਮੋਰੀ ਵਰਤਣੀ ਤੇ ਫ਼ੀਚਰਾਂ ਨਾਲ ਭਰਿਆ ਨਵਾਂ { -brand-name-firefox } ਆ ਗਿਆ ਹੈ।
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = ਸਮਾਜਿਕ ਟਰੈ�
 firefox-desktop-download-os-availability = ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ
 firefox-desktop-download-in-browser-screenshot = ਬਰਾਊਜ਼ਰ ਵਿਚੇ ਸਕਰੀਨਸ਼ਾਟ ਟੂਲ
 firefox-desktop-download-primary-password = ਮੁੱਖ ਪਾਸਵਰਡ
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ ਲਈ ਪਿਆਰ
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = ਇਹ ਤੁਹਾਡਾ ਇੰਟਰਨੈੱਟ ਹੈ। ਹਜ਼ਾਰਾਂ ਟੂਲਾਂ, ਥੀਮਾਂ ਅਤੇ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨਾਲ ਇਸ ਨੂੰ ਆਪਣੇ ਢੰਗ ਨਾਲ ਰੰਗ ਦਿਓ। { -brand-name-firefox } ਅਸਲੀ ਰੂਪ ਵਿੱਚ ਬਦਲਵਾਂ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਕਿ ਲੋਕਾਂ ਨੂੰ ਫਾਇਦੇ ਦੀ ਬਜਾਏ ਪਹਿਲ ਦਿੰਦਾ ਹੈ।
 # Obsolete string
 firefox-desktop-download-master-password = ਪ੍ਰਾਇਮਰੀ ਪਾਸਵਰਡ

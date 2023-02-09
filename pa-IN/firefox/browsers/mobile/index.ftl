@@ -15,6 +15,7 @@ browsers-mobile-at-home-or-on-the-move = ਘਰੇ ਹੋਵੋ ਜਾਂ ਬਾ
 # Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਕਿ ਤੁਹਾਡੀ <strong>ਪਰਦੇਦਾਰੀ</strong> ਨੂੰ ਪਹਿਲ ਦਿੰਦਾ ਹੈ।
 browsers-mobile-firefox-for-android = { -brand-name-android } ਲਈ { -brand-name-firefox }
+browsers-mobile-infinitely-customizable-private = { -brand-name-android } ਲਈ ਬੇਅੰਤ ਢਾਲਣਯੋਗ, ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ { -brand-name-firefox } ਬਹੁਤ ਤੇਜ਼ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਕਦੇ ਵੀ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਚੇਗਾ ਨਹੀਂ।
 browsers-mobile-firefox-for-ios = { -brand-name-ios } ਲਈ { -brand-name-firefox }
 browsers-mobile-go-your-own-way = { -brand-name-firefox } ਮੋਬਾਈਲ ਨਾਲ ਆਪਣਾ ਰਾਹ ਆਪ ਬਣਾਓ
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }

@@ -68,6 +68,8 @@ navigation-v2-careers = ਕੈਰੀਅਰ
 navigation-v2-work-for-a-mission-driven-updated = ਕਿਸੇ ਖਾਸ ਮਕਸਦ ਵਾਲੇ ਸੰਗਠਨ ਲਈ ਕੰਮ ਕਰੋ, ਜੋ ਕਿ ਲੋਕਾਂ ਨੂੰ ਅੱਗੇ ਰੱਖ ਕੇ ਉਤਪਾਦ ਬਣਾਉਂਦਾ ਹੈ।
 navigation-v2-mozilla-blog = { -brand-name-mozilla } ਬਲੌਗ
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } ਅਤੇ ਸਾਡੇ ਉੱਤੇ ਅਸਰ ਪਾਉਣ ਵਾਲੇ ਮਸਲਿਆਂ ਬਾਰੇ ਜਾਣੋ।
+navigation-v2-stories = ਲੇਖ
+navigation-v2-stories-about-how = ਸਾਡੇ ਲੋਕ ਤੇ ਉਤਪਾਦ ਸੰਸਾਰ ਨੂੰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਕਿਵੇਂ ਤਬਦੀਲੀ ਲਿਆ ਰਹੇ ਹਨ ਦੇ ਬਾਰੇ ਲੇਖ।
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } ਬਾਰੇ ਹੋਰ
 
 ## Innovation menu
@@ -86,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = ਆਪਣਾ ਆਵਾਜ਼ ਦਾਨ ਦਿਓ ਤਾਂ ਕਿ ਵੈੱਬ ਦੇ ਭਵਿੱਖ ਹਰ ਕਿਸੇ ਨੂੰ ਸੁਣ ਸਕੇ।
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = ਨਵੀਂ, ਮੁੱਢਲੇ ਪੱਧਰ ਦੀ, ਅਸੈਂਬਲੀ ਵਰਗੀ ਭਾਸ਼ਾ ਬਾਰੇ ਸਿੱਖੋ।
-navigation-v2-more-mozilla-innovation = ਹੋਰ { -brand-name-mozilla } ਖੋਜ
