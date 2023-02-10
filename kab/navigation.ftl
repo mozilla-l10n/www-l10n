@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Sader { -brand-name-firefox }
 navigation-get-a-firefox-account = Awi-d { -brand-name-firefox-account }
@@ -75,7 +75,7 @@ navigation-share-large-files-safely = Bḍu ifuyla meqqren s tɣellist, s yiseɣ
 navigation-save-quality-content = Sekles igburen n tɣara sekra wanida telliḍ. Snerni aqerru-k sekra wanida telliḍ.
 navigation-sign-up = Jerred
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: D arurad. D afessas. D uslig.
-navigation-protect-your-entire-device = Mmesten akk ibenk-ik•im d yisnasen-is akk. Ffer adeg-ik•<im n tidet teqqneḍ s 5 n yibenkan. Jerred tura.
+navigation-protect-your-entire-device = Mmesten akk ibenk-ik•im d yisnasen-is akk. Ffer adeg-ik•im n tidet teqqneḍ s 5 n yibenkan. Jerred tura.
 # Outdated string
 navigation-connected-and-protected = Yeqqen daɣen yettummesten
 navigation-join = Ddu-d
