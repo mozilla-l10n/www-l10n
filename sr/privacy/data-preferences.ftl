@@ -6,3 +6,6 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
 data-preferences-page-title = Управљајте подешавањима прикупљања података
+data-preferences-page-desc = { -brand-name-mozilla } веома озбиљно схвата вашу приватност. Ова страница вам омогућава да промените подешавања за прикупљање података прве стране на mozilla.org сајтовима користећи { -brand-name-glean }.
+data-preferences-notification-opt-out = Одустали сте од прикупљања података прве стране.
+data-preferences-notification-opt-in = Укључени сте у прикупљање података прве стране.
