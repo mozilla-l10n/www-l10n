@@ -30,7 +30,7 @@ firefox-mobile-stay-off-their-radar-with = <a href="{ $url }">{ -brand-name-fire
 firefox-mobile-discover-products-that-keep = 安全をを守る製品のご紹介
 firefox-mobile-sync-your-history-passwords = 複数デバイス間の履歴やパスワード、ブックマークを同期可能。またタブをお手持ちのデバイス全てに送信します。
 firefox-mobile-android-only = { -brand-name-android } のみ
-firefox-mobile-make-android-your-own = 自分だけの <strong>{ -brand-name-android }</strong> を
+firefox-mobile-make-android-your-own = 自分だけの { -brand-name-android } を
 firefox-mobile-customize-your-firefox-mobile-truncated = 拡張機能で { -brand-name-firefox } モバイルブラウザーをカスタマイズしましょう。
 firefox-mobile-find-it-fast-with-a-smart = スマート検索バーで高速検索
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } はスマートな検索候補と、頻繁に訪問するウェブサイトへのクイックアクセスでニーズを予測します。
