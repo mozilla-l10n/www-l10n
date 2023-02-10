@@ -27,8 +27,8 @@ download-button-your-system-does-not = Sistem Anda tidak memenuhi <a href="{ $ur
 
 download-button-firefox-other-platforms = { -brand-name-firefox } untuk Platform & Bahasa Lain
 download-button-update-your-firefox = Perbarui { -brand-name-firefox }
-download-button-get-firefox-android = Dapatkan { -brand-name-firefox } untuk <strong>{ -brand-name-android }</strong>
-download-button-get-firefox-ios = Dapatkan { -brand-name-firefox } untuk <strong>{ -brand-name-ios }</strong>
+download-button-get-firefox-android = Dapatkan { -brand-name-firefox } untuk { -brand-name-android }
+download-button-get-firefox-ios = Dapatkan { -brand-name-firefox } untuk { -brand-name-ios }
 download-button-google-play = Dapatkan di { -brand-name-google-play }
 download-button-free-google-play = Dapatkan gratis di { -brand-name-google-play }
 download-button-app-store = Dapatkan gratis dari { -brand-name-app-store }
