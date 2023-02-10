@@ -5,10 +5,10 @@
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
 
 # HTML page title
-set-as-default-landing-make-firefox-your-default = <strong>{ -brand-name-firefox }</strong> を既定のブラウザーにする
+set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } を既定のブラウザーにする
 
 # HTML page description
-set-as-default-landing-choose-the-browser = プライバシーを保護するブラウザーを選択しましょう。<strong>{ -brand-name-firefox }</strong> を既定のブラウザーにする
+set-as-default-landing-choose-the-browser = プライバシーを保護するブラウザーを選択しましょう。{ -brand-name-firefox } を既定のブラウザーにする
 # Obsolete string
 set-as-default-landing-thanks-for-using-the = 最新版 { -brand-name-firefox } ブラウザーをダウンロードしていただき、ありがとうございました。{ -brand-name-firefox } をご使用いただくということは、万人のためにウェブ改善をご支援いただくということなのです。ご自身の保護のため、早速ご使用ください。
 # Obsolete string
