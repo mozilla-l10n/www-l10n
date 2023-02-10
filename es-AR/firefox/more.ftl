@@ -1,11 +1,11 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
-firefox-products-are = Los productos { -brand-name-firefox } están diseñados para proteger tu <strong> privacidad </strong>
+firefox-products-are = Los productos { -brand-name-firefox } están diseñados para proteger tu privacidad
 learn-more-about-firefox = Conocé más sobre { -brand-name-firefox }, su historia, características y misión
 learn-more-about = Conocé más acerca de los navegadores de { -brand-name-firefox } y los productos que manejan tus datos con respeto y que están construidos para la privacidad en cualquier lugar donde vayas en línea.
 learn-more-faq = Preguntas frecuentes sobre { -brand-name-firefox }
