@@ -4,7 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
-firefox-products-are = { -brand-name-firefox } के उत्पादों को आपकी <strong>निजता</strong> की सुरक्षा के लिए तैयार किया गया है
+firefox-products-are = { -brand-name-firefox } के उत्पादों को आपकी निजता की सुरक्षा के लिए तैयार किया गया है
 learn-more-about-firefox = { -brand-name-firefox } के इतिहास, सुविधाओं और मिशन के बारे में अधिक जानें
 learn-more-about = आपके डेटा को संभालने वाले और आप जहाँ भी जाते हैं, आपकी निजता बनाए रखने वाले { -brand-name-firefox } ब्राउज़र और उत्पादों के बारे में अधिक जानकारी पाएँ।
 learn-more-faq = { -brand-name-firefox } अक्सर पूछे जाने वाले प्रश्न
