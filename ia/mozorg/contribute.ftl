@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/contribute/
@@ -10,7 +10,7 @@
 
 contribute-page-title = Opportunitates pro voluntarios a { -brand-name-mozilla }
 contribute-page-heading = Tu talentos es necessari pro un internet melior
-contribute-page-intro = { -brand-name-mozilla } es un organisation non-lucrative laborante pro curar que internet es aperte e acceptante pro totes. E nos besonia tu auxilio. Per junger te a nostre communitate, tu pote adjutar guidar le <t0/>innovation, meliorar responsabilitate e confidentia, e render internet un loco melior pro totes.
+contribute-page-intro = { -brand-name-mozilla } es un organisation non-lucrative laborante pro curar que internet es aperte e acceptante pro totes. E nos besonia tu auxilio. Per junger te a nostre communitate, tu pote adjutar guidar le innovation, meliorar responsabilitate e confidentia, e render internet un loco melior pro totes.
 contribute-how-heading = Suggestiones practic pro contribuer…
 
 ## Contribution tasks
