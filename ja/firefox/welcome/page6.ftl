@@ -5,7 +5,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/6/
 
 # HTML page title
-welcome-page6-make-firefox-your-default = <strong>{ -brand-name-firefox }</strong> を既定のブラウザーにする
+welcome-page6-make-firefox-your-default = { -brand-name-firefox } を既定のブラウザーにする
 
 welcome-page6-make-sure-youre-protected = オンライン上での保護をつねに確保
 welcome-page6-when-you-choose-firefox-you = { -brand-name-firefox } をご使用いただくということは、万人のためにウェブ改善をご支援いただくということなのです。ご自身の保護のため、早速ご使用ください。
