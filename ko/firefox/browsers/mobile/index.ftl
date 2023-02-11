@@ -14,3 +14,6 @@ browsers-mobile-at-home-or-on-the-move = 집이든 이동 중이든 모든 장�
 browsers-mobile-get-the-mobile-browser-privacy = <strong>개인 정보</strong>를 최우선으로 하는 모바일 브라우저를 사용하세요
 browsers-mobile-firefox-for-android = { -brand-name-android } 용 { -brand-name-firefox }
 browsers-mobile-firefox-for-ios = { -brand-name-ios } 용 { -brand-name-firefox }
+# "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
+browsers-mobile-get-enhanced-tracking-protection = 향상된 추적 방지 기능을 사용하고 { -brand-name-firefox }를 여러분의 { -brand-name-iphone }과 { -brand-name-ipad }에서 계속 사용할 수 있는 기본 브라우저로 설정하세요.
+browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
