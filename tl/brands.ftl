@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### Please read the trademarks localization guide
@@ -63,7 +63,6 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
@@ -71,8 +70,12 @@
 -brand-name-devtools = DevTools
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-send = Send
 -brand-name-sync = Sync
+
+## Firefox products (legacy)
+
+-brand-name-firefox-send = Firefox Send
+-brand-name-send = Send
 
 ## Pocket
 
@@ -94,9 +97,14 @@
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
 
+## Mozilla projects (legacy)
+
+-brand-name-webmaker = Taga-gawa ng web
+
 ## Open Source projects
 
 -brand-name-rust = Rust
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
@@ -115,9 +123,9 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
--brand-name-vista = Vista
 
 ## Apple products
 
@@ -135,6 +143,7 @@
 -brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
 -brand-name-messenger = Messenger
+-brand-name-workplace = Lugar ng pinagtratrabahunan
 
 ## Google products
 

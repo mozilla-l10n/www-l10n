@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -29,12 +29,15 @@ firefox-accounts-meet-our-family-of = Kilalanin ang aming pamilya ng mga produkt
 firefox-accounts-firefox-is-technology = { -brand-name-firefox } ay teknolohiya na lumalaban para sa iyo.
 firefox-accounts-get-technology-that = Kumuha ng teknolohiya na lumalaban para sa iyo.
 firefox-accounts-travel-the-internet = Maglakbay sa internet na may proteksyon, sa bawat aparato.
+# Obsolete string
 firefox-accounts-keep-your-passwords = Panatilihing protektado at portable ang iyong mga password.
 firefox-accounts-get-a-lookout-for = Magkaroon ng tigabantay sa mga data breach.
+# Obsolete string
 firefox-accounts-share-large-files = Magbahagi ng mga malalaking file nang walang nagmamanman.
 firefox-accounts-get-it-all-on-every = Kunin lahat ito sa bawat device, na hindi mo nararamdamang ikaw ay ipit sa iisang operating system.
 firefox-accounts-and-get-it-all-on = At kunin lahat ito sa bawat device, na hindi mo nararamdamang ipit ka sa iisang operating system.
 firefox-accounts-get-the-respect-you = Kunin ang respetong nararapat sa iyo.
+firefox-accounts-whole-device-protection = Buong proteksyon sa bawat device
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
 firefox-accounts-youll-always-get-the = Palagi mong makukuha ang katotohanan sa amin. Lahat ng aming ginagawa ay ginagalang ang aming <a href="{ $promise }"> Personal Data Promise</a>:
@@ -47,11 +50,13 @@ firefox-accounts-help-us-build-a-better = Tulungan kaming gumawa ng mas maayos n
 firefox-accounts-get-into-the-open = Sumali sa open source sa pagsubok ng mga parating na produkto.
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = Tulungan kaming panatilihing umaasal nang tama ang Big Tech.
+firefox-accounts-we-support-communities = Sumusuporta kami sa mga komunidad sa buong mundo na makibaka para sa isang mas maayos na internet. Isama mo ang iyong boses sa labang ito.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = Sumusuporta kami sa mga komunidad sa buong mundo na makibaka para sa isang mas maayos na internet. Isama mo ang iyong boses sa labang ito.
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }
