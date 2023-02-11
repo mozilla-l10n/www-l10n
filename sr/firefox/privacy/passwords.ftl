@@ -12,3 +12,5 @@ privacy-passwords-more-and-more-desc = Све више поверљивих и �
 # page content
 privacy-passwords-a-security-guide = Водич за безбедније пријаве и лозинке
 privacy-passwords-protecting-your-accounts = Заштита вашег налога не треба да буде компликована — а { -brand-name-firefox } може да помогне.
+# tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
+privacy-passwords-tldr = Укратко:
