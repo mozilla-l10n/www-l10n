@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-the-browser-wars-underdogs-giants = ສົງຄາມຂອງຕົວທ່ອງເວັບ, underdogs vs giants, ແລະຊ່ວງເວລາທີ່ປ່ຽນແປງໂລກ. ອ່ານກ່ຽວກັບປະຫວັດຂອງຕົວທ່ອງເວັບ.
 browser-history-the-history-of-web = ປະຫວັດຂອງຕົວທ່ອງເວັບ
 browser-history-world-history-is = ປະຫວັດສາດ​ໂລກ​ແມ່ນ​ອຸດົມສົມບູນ​ໄປ​ດ້ວຍ​ການ​ຕໍ່ສູ້​ທາງ​ອຳນາດ​ອັນ​ສະຫງ່າ​ງາມ, ພວກ​ຜູ້​ປົກຄອງ​ໂລກ, ​ແລະ​ພວກ​ຫົວ​ຮຸນ​ແຮງ. ປະຫວັດຂອງຕົວທ່ອງເວັບບໍ່ແຕກຕ່າງກັນຫຼາຍ. ຜູ້ບຸກເບີກມະຫາວິທະຍາໄລຂຽນຊອບແວທີ່ງ່າຍດາຍທີ່ເຮັດໃຫ້ເກີດການປະຕິວັດຂໍ້ມູນຂ່າວສານ, ແລະການຕໍ່ສູ້ເພື່ອຄວາມດີກວ່າຂອງຕົວທ່ອງເວັບແລະຜູ້ໃຊ້ອິນເຕີເນັດ.
 browser-history-before-web-era = ກ່ອນຍຸກເວັບ

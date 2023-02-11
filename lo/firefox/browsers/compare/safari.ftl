@@ -49,6 +49,9 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>ພາບໜ້າ
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } ແລະ { -brand-name-safari } ທັງສອງໃຫ້ປະສົບການທີ່ລຽບງ່າຍເມື່ອຍ້າຍຈາກເດັສທັອບໄປຫາການຊອກຫາມືຖື ຫຼືໃນທາງກັບກັນ. ສໍາລັບ { -brand-name-safari }, ຫນຶ່ງໃນຈຸດແຂງຕົ້ນຕໍຂອງມັນແມ່ນຄຸນສົມບັດຢ່າງຕໍ່ເນື່ອງຂອງມັນ. ມັນຊິ້ງບຸກມາກສ໌, ແຖບ, ປະຫວັດ ແລະອື່ນໆອີກຂອງທ່ານໃສ່ iCloud ເພື່ອໃຫ້ພວກມັນມີຢູ່ໃນທຸກອຸປະກອນຂອງທ່ານ. ນັ້ນໝາຍຄວາມວ່າທ່ານສາມາດເປີດແຖບໃນ { -brand-name-iphone } ຂອງເຈົ້າໄດ້ ແລະໃຫ້ມັນປາກົດຢູ່ໃນແລັບທັອບ { -brand-name-mac } ຂອງທ່ານດ້ວຍການຄລິກພຽງຄັ້ງດຽວ.
 # Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } ຍັງໃຫ້ຄຸນສົມບັດການຊິງຄ໌ທີ່ຄ້າຍຄືກັນເມື່ອທ່ານລົງທະບຽນ <a { $attrs }>{ -brand-name-firefox-account }</a> ທີ່ເຮັດໃຫ້ຜູ້ໃຊ້ສາມາດ synchronize bookmarks ຂອງເຂົາເຈົ້າໄດ້ຢ່າງງ່າຍດາຍ. , ປະຫວັດການທ່ອງເວັບ, ການຕັ້ງຄ່າ, ລະຫັດຜ່ານ, ແບບຟອມທີ່ຕື່ມໃສ່, add-ons, ແລະ 25 ແຖບທີ່ເປີດຫຼ້າສຸດໃນທົ່ວຫຼາຍຄອມພິວເຕີ. ສິ່ງທີ່ຕັ້ງ { -brand-name-firefox } ນອກເຫນືອຈາກ { -brand-name-safari } ແມ່ນວ່າມັນມີຢູ່ໃນ desktop ຫຼືທຸກແພລະຕະຟອມມືຖື, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } ຫຼື { -brand-name-mac }, ເພີ່ມການເຄື່ອນທີ່ຂອງມັນໃນທົ່ວອຸປະກອນທີ່ເຈົ້າເປັນເຈົ້າຂອງ.
+# Variables:
 #   $ios (string) - link to Apple store with additional attributes for analytics
 #   $android (string) - link to Google Play store with additional attributes for analytics
 compare-safari-the-firefox-app-for-ios-and = ແອັບ { -brand-name-firefox } ສຳລັບ <a { $ios }>{ -brand-name-ios }</a> ແລະ <a { $android }>{ -brand-name-android }</a> ເປັນໜຶ່ງໃນຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດທີ່ມີຢູ່ ແລະຍັງມີຄຸນສົມບັດຄວາມປອດໄພ ແລະ ການປ້ອງກັນການຕິດຕາມ – ບວກຫຼາຍຖ້າຫາກວ່າທ່ານກໍາລັງ bounce ຢ່າງຕໍ່ເນື່ອງລະຫວ່າງຄອມພິວເຕີແລະອຸປະກອນມືຖື.
