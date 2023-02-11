@@ -13,9 +13,11 @@ whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification-v2 = Tebrikler! { -brand-name-firefox }’un son sürümünü kullanıyorsunuz.
 # Obsolete string
 whatsnew-up-to-date-notification = Tebrikler! { -brand-name-firefox-browser }nın son sürümünü kullanıyorsunuz.
-whatsnew-out-of-date-notification-v2 = Daha yeni bir { -brand-name-firefox } sürümü var. Güncellemek için yeniden başlatın.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+whatsnew-out-of-date-notification-v3 = Daha yeni bir { -brand-name-firefox } sürümü mevcut. <a href="{ $url }">Son sürüme güncelleme yapın</a>
 # Obsolete string
-whatsnew-out-of-date-notification = Daha yeni bir { -brand-name-firefox-browser } sürümü var. Güncellemek için yeniden başlatın.
+whatsnew-out-of-date-notification-v2 = Daha yeni bir { -brand-name-firefox } sürümü var. Güncellemek için yeniden başlatın.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = { -brand-name-firefox } tarayıcınızdaki yenilikler hakkında daha fazla bilgi almak için <a href="{ $url }">sürüm notlarını</a> okuyabilirsiniz.
