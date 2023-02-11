@@ -9,7 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = Imagine annidate de { -brand-name-firefox }: face altere actiones con videos saltante foras
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Vole tu facer alcun cosas durante que tu reguarda altere cosas? Face ambe per Imagine annidate in { -brand-name-firefox }.
-features-pip-new-feature-firefox-multi-picture = Reproduce ulle video in tu navigator { -brand-name-firefox }, como isto.
+features-pip-new-feature-firefox-multi-picture = Nove function: { -brand-name-firefox } imagine annidate in plure fenestras
 features-pip-cool-feature-picture-in-picture = Belle functionalitate: Imagine annidate
 features-pip-get-more-done-with-pop-out-videos = Sia plus productive con le videos emergente
 features-pip-got-things-to-do-do-both-with = Vole tu facer alcun cosas durante que tu reguarda altere cosas? Face ambe per Imagine annidate in { -brand-name-firefox }. Illo te permitte de facer saltar foras un video de su pagina web e de appunctar lo a tu schermo, assi que tu pote continuar lo spectar durante que tu es sur altere paginas, schedas e applicationes
