@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Bilgisayar, Mobil veya Kurumsal Cihazlar için { -brand-name-firefox }’u İndirin
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Gizliliğinizi ilk sıraya koyan tarayıcıları indirin
 # HTML page description
+firefox-browsers-page-desc = Bilgisayar, { -brand-name-ios }, { -brand-name-android } arasından seçim yapın veya mobil indirme bağlantısını e-posta adresinize gönderelim.
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Hak ettiğiniz gizliliği alın. Gelişmiş İzlenme Koruması tüm { -brand-name-firefox } tarayıcılarında otomatik çalışır.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Gizliliğiniz Firefox için <strong>hep</strong> ilk sıradaydı ve hep öyle kalacak
