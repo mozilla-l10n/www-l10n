@@ -26,5 +26,6 @@ browser-history-the-browser-wars = ສົງຄາມຂອງຕົວທ່ອ
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = { -brand-name-netscape } ສ້າງ ແລະປ່ອຍ JavaScript, ເຊິ່ງເຮັດໃຫ້ເວັບໄຊທ໌ມີຄວາມສາມາດໃນການຄອມພິວເຕີທີ່ມີປະສິດທິພາບທີ່ພວກເຂົາບໍ່ເຄີຍມີມາກ່ອນ. (ພວກເຂົາຍັງໄດ້ສ້າງ <a href="{ $blink }">&lt;blink&gt; tag</a> ທີ່ມີຊື່ສຽງ.) { -brand-name-microsoft } ກົງກັນຂ້າມກັບ Cascading Style Sheets (CSS), ເຊິ່ງກາຍເປັນມາດຕະຖານສໍາລັບ ການອອກແບບຫນ້າເວັບ.
+browser-history-other-competitors = ຄູ່ແຂ່ງອື່ນໆໄດ້ເກີດຂື້ນໃນຊ່ວງທ້າຍ '90s ແລະຕົ້ນປີ 2000, ລວມທັງ { -brand-name-opera }, { -brand-name-safari }, ແລະ { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } ແທນ { -brand-name-ie } ດ້ວຍການປ່ອຍ { -brand-name-windows } 10 ໃນປີ 2015.
 browser-history-browsing-the-web = ການທ່ອງເວັບໃນມື້ນີ້
 browser-history-resources = ຊັບ​ພະ​ຍາ​ກອນ
