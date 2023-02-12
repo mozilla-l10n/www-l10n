@@ -40,6 +40,7 @@ browser-history-things-got-a-little = ทุกอย่างยุ่งเห
 #   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
 #   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
 browser-history-then-microsoft-began = จากนั้น { -brand-name-microsoft } ก็เริ่มแถม { -brand-name-ie } มากับระบบปฏิบัติการ { -brand-name-windows } โดยมีส่วนแบ่งตลาดมากถึง 75% ภายใน 4 ปีและ 99% ในปี 1999 ระหว่างนั้นทางบริษัทเองก็ต้องเผชิญกับการฟ้องร้องต่อต้านการผูกขาด และ { -brand-name-netscape } ได้ตัดสินใจเปิดโค้ดเบสเป็นโอเพนซอร์สและก่อตั้ง <a href="{ $mozilla }">{ -brand-name-mozilla }</a> ที่ไม่แสวงหาผลกำไรขึ้น ซึ่งต่อมาได้สร้างและเปิดตัว { -brand-name-firefox } ในปี 2002 เมื่อตระหนักว่าการผูกขาดเบราว์เซอร์ไม่ได้มีประโยชน์สูงสุดต่อผู้ใช้และเว็บที่เปิดกว้าง { -brand-name-firefox } จึงถูกสร้างขึ้นเพื่อเป็นทางเลือกสำหรับผู้ใช้เว็บ และในปี 2010 { -brand-name-mozilla } { -brand-name-firefox } และเบราว์เซอร์อื่น ๆ ก็ได้<a href="{ $marketshare }">ลดส่วนแบ่งตลาดของ { -brand-name-ie } ลงเหลือเพียง 50%</a>
+browser-history-other-competitors = คู่แข่งอื่นๆ เกิดขึ้นในช่วงปลายยุค 90 และต้นยุค 2000 รวมถึง { -brand-name-opera }, { -brand-name-safari } และ { -brand-name-google } { -brand-name-chrome } ต่อมา { -brand-name-microsoft } { -brand-name-edge } ได้แทนที่ { -brand-name-ie } ด้วยการเปิดตัว { -brand-name-windows } 10 ในปี 2015
 browser-history-browsing-the-web = การท่องเว็บในปัจจุบัน
 browser-history-resources = ทรัพยากร
 browser-history-take-control-of = เข้าควบคุมเบราว์เซอร์ของคุณ
