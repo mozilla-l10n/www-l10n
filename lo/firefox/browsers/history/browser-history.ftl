@@ -28,4 +28,6 @@ browser-history-the-browser-wars = ສົງຄາມຂອງຕົວທ່ອ
 browser-history-netscape-created = { -brand-name-netscape } ສ້າງ ແລະປ່ອຍ JavaScript, ເຊິ່ງເຮັດໃຫ້ເວັບໄຊທ໌ມີຄວາມສາມາດໃນການຄອມພິວເຕີທີ່ມີປະສິດທິພາບທີ່ພວກເຂົາບໍ່ເຄີຍມີມາກ່ອນ. (ພວກເຂົາຍັງໄດ້ສ້າງ <a href="{ $blink }">&lt;blink&gt; tag</a> ທີ່ມີຊື່ສຽງ.) { -brand-name-microsoft } ກົງກັນຂ້າມກັບ Cascading Style Sheets (CSS), ເຊິ່ງກາຍເປັນມາດຕະຖານສໍາລັບ ການອອກແບບຫນ້າເວັບ.
 browser-history-other-competitors = ຄູ່ແຂ່ງອື່ນໆໄດ້ເກີດຂື້ນໃນຊ່ວງທ້າຍ '90s ແລະຕົ້ນປີ 2000, ລວມທັງ { -brand-name-opera }, { -brand-name-safari }, ແລະ { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } ແທນ { -brand-name-ie } ດ້ວຍການປ່ອຍ { -brand-name-windows } 10 ໃນປີ 2015.
 browser-history-browsing-the-web = ການທ່ອງເວັບໃນມື້ນີ້
+browser-history-whatever-the-future = ບໍ່ວ່າອະນາຄົດຂອງເວັບຈະເປັນແນວໃດ, { -brand-name-mozilla } ແລະ { -brand-name-firefox } ຈະຢູ່ທີ່ນັ້ນສໍາລັບຜູ້ໃຊ້, ຮັບປະກັນວ່າພວກເຂົາມີເຄື່ອງມືທີ່ມີປະສິດທິພາບໃນການສໍາຜັດກັບເວັບແລະທັງຫມົດທີ່ມັນມີໃຫ້. ເວັບໄຊຕ໌ແມ່ນສໍາລັບທຸກຄົນ, ແລະທຸກຄົນຄວນຈະມີການຄວບຄຸມປະສົບການອອນໄລນ໌ຂອງເຂົາເຈົ້າ. ນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຮົາໃຫ້ເຄື່ອງມື { -brand-name-firefox } ເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງຜູ້ໃຊ້ ແລະພວກເຮົາບໍ່ເຄີຍຂາຍຂໍ້ມູນຜູ້ໃຊ້ໃຫ້ກັບຜູ້ໂຄສະນາ.
 browser-history-resources = ຊັບ​ພະ​ຍາ​ກອນ
+browser-history-take-control-of = ຄວບຄຸມໂປແກຼມທ່ອງເວັບຂອງທ່ານ.
