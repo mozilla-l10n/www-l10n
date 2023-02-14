@@ -16,5 +16,7 @@ mobile-android-scan-alt-text = ສະແກນລະຫັດ QR ເພື່ອ
 mobile-android-fast-and-private = ໄວແລະສ່ວນຕົວ
 mobile-android-one-tap-to = ແຕະຄັ້ງດຽວກັບໂໝດສ່ວນຕົວ
 mobile-android-search-your-own = ຊອກຫາວິທີການຂອງທ່ານເອງ
+mobile-android-save-power-with = ປະຢັດພະລັງງານດ້ວຍໂໝດມືດ
+mobile-android-switch-to-dark = ສະຫຼັບໄປໂໝດມືດໄດ້ທຸກເວລາເພື່ອຫຼຸດຄວາມເມື່ອຍຕາ ແລະ ຍືດອາຍຸແບັດເຕີຣີຂອງທ່ານ.
 mobile-android-easily-organize-your = ຈັດລະບຽບແຖບຂອງທ່ານໄດ້ຢ່າງງ່າຍດາຍ
 mobile-android-about-mozilla = ກ່ຽວກັບ { -brand-name-mozilla }

@@ -21,7 +21,15 @@ firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = ຮັບການປົກປ້ອງຂໍ້ມູນທີ່ບໍ່ກົງກັນກັບຮອບວຽນການຊ່ວຍເຫຼືອທີ່ປັບແຕ່ງໃຫ້ເຫມາະສົມກັບຄວາມຕ້ອງການຂອງບໍລິສັດຂອງທ່ານ.
 firefox-browsers-enterprise-packages = ແພັກເກດ { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
+firefox-browsers-go-beyond-two-dimensions-and = ຂ້າມໄປກວ່າສອງມິຕິ ແລະເພີດເພີນໄປກັບເນື້ອຫາທີ່ມີຊີວິດຊີວາທີ່ດີທີ່ສຸດຈາກທົ່ວເວັບ.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-build-sites-and-refine-your = ສ້າງເວັບໄຊ ແລະປັບປຸງລະຫັດຂອງທ່ານດ້ວຍ { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ { -brand-name-devtools }
+firefox-browsers-join-firefox-and-get-the-most = ເຂົ້າຮ່ວມ { -brand-name-firefox } ແລະໄດ້ຮັບປະໂຫຍດສູງສຸດຈາກທຸກໆຜະລິດຕະພັນ — ໃນທົ່ວທຸກອຸປະກອນ.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign = ມີບັນຊີຢູ່ແລ້ວບໍ? <a { $fxa_attr }>ເຂົ້າສູ່ລະບົບ</a> ຫຼື <a { $accounts_attr }>ສຶກສາເພີ່ມເຕີມ</a> ກ່ຽວກັບການເຂົ້າຮ່ວມ Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
