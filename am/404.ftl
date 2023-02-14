@@ -7,3 +7,11 @@
 
 not-found-page-not-found-page-page-not-found = 404: ገጽ አልተገኘም
 not-found-page-sorry-we-cant-find-that-page = ይቅርታ፣ ያንን ገጽ ማግኘት አልቻልንም
+not-found-page-were-all-about-a-healthy-internet = ሁላችንም ስለ ጤናማ በይነመረብ ነን ነገርግን አንዳንድ ጊዜ የተበላሹ አድራሻዎች ይከሰታሉ።
+not-found-page-go-back = ወደኋላ ተመለስ
+# Variables:
+#   $about (url) - link to https://www.mozilla.org/about/
+not-found-page-learn-about-mozilla-the-non = ስለ { -brand-name-mozilla }፣ ከ{ -brand-name-firefox } በስተጀርባ ያለው ለትርፍ ያልተቋቋመው <a href="{ $about }">ይማር</a>።
+# Variables:
+#   $explore (url) - link to https://www.mozilla.org/firefox/
+not-found-page-explore-the-entire-family-for = የእርስዎን ግላዊነት ለማክበር የተነደፉ የ{ -brand-name-firefox } ምርቶችን ለማግኘት <a href={ $explore }>አስስ</a>።
