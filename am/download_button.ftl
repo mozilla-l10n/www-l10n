@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = አሁን ጫን
 download-button-free-download = በነፃ ይጫኑ
@@ -14,18 +14,18 @@ download-button-systems-languages = ስርዓቶች እና ቋንቋዎች
 download-button-recommended = ምክሮች
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">ሞዚላ የፋየርፎክስ የጥንቃቄ እና ደህንነት ማሻሻያዎችን በዊንዶስ { -brand-name-xp } ወይም በቪስታ ላይ መስጠት አቁሟል</a>፤ ነገር ግን አሁንም የመጨረሻውን ስሪት ለዊንዶስ 32-ቢት መጫን ይችላሉ።
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } የጥንቃቄ እና ደህንነት ማሻሻያዎችን { -brand-name-firefox } በ { -brand-name-windows }{ -brand-name-xp } ወይም { -brand-name-vista }</a> ላይ መስጠት አቁሟል፤ ነገር ግን አሁንም የመጨረሻውን ስሪት ለ{ -brand-name-windows }32-ቢት ቨርዥን መጫን ይችላሉ።
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = ፋየርፎክስን ለማቀናጀት <a href="{ $url }">ይህንን መመሪያ</a> ይከተሉ።
+download-button-please-follow-these = { -brand-name-firefox }ን ለመጫን እባክዎ <a href="{ $url }">እነዚህን መመሪያዎች</a> ይከተሉ።
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = የእርስዎ ስርዓት የፋየርፎክስ <a href="{ $url }">መስፈርትን</a> አያሟላም።
-download-button-firefox-other-platforms = ፋየርፎክስ ለተለያዩ ስርዓተ-ውቅሮች እና ቋንቋዎች
-download-button-update-your-firefox = ፋየርፎክሱን ያዘምኑ
-download-button-get-firefox-android = ለአንሮይድ ፋየርፎክስ ያግኙ
-download-button-get-firefox-ios = ለ { -brand-name-ios } ፋየርፎክስን ያግኙ
-download-button-google-play = በጎግል ፕሌይ ላይ ያግኙ
+download-button-your-system-does-not = የእርስዎ ስርዓት { -brand-name-firefox }ን ለማሄድ <a href="{ $url }">መስፈርቶቹን</a> አያሟላም።
+download-button-firefox-other-platforms = { -brand-name-firefox } ለሌሎች ስርዓተ-ውቅሮች እና ቋንቋዎች
+download-button-update-your-firefox = የእርስዎን { -brand-name-firefox } ያዘምኑ
+download-button-get-firefox-android = ለ{ -brand-name-android } { -brand-name-firefox } ያግኙ
+download-button-get-firefox-ios = ለ { -brand-name-ios } { -brand-name-firefox } ያግኙ
+download-button-google-play = በ{ -brand-name-google-play } ላይ ያግኙት
 download-button-free-google-play = በጎግል ፕሌይ ላይ በነጻ ያገኛሉ
 download-button-app-store = በመተግበሪያ መደብር ላይ በነፃ ያግኛሉ
 download-button-download-app-store = ከመተግበሪያ መደብር ላይ ጫን
