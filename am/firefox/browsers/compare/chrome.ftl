@@ -11,3 +11,4 @@ compare-chrome-firefox-vs-chrome-which-is = ከ{ -brand-name-firefox } እና { 
 compare-chrome-we-compare-mozilla-firefox = { -brand-name-mozilla } { -brand-name-firefox }ን ከ{ -brand-name-google } { -brand-name-chrome } ጋር በግላዊነት፣ ግልጋሎት እና ተንቀሳቃሽነት እናነፃፅራለን
 # Main title.
 compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser }ን ከ{ -brand-name-google } { -brand-name-chrome } ጋር በማወዳደር ላይ
+compare-chrome-and-so-here-we-are-the-browser = እናም እዚህ ጋ ነን፣ የአሳሽ-ጦርነቶች እንደገና እያደጉ ናቸው እና { -brand-name-firefox-browser }ን ከ { -brand-name-google } { -brand-name-chrome } እንደገና ለመገምገም እና ለማወዳደር ጊዜው አሁን ነው።
