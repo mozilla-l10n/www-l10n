@@ -1,0 +1,20 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+
+# HTML page title, also used for the main title
+compare-index-seven-of-the-best-browsers-in = በቀጥታ ንጽጽር ውስጥ ሰባት ምርጥ አሳሾች
+compare-index-six-of-the-best-browsers-fallback = በቀጥታ ንጽጽር ውስጥ ስድስት ምርጥ አሳሾች
+# Sub-headline
+compare-index-privacy-utility-portability = ግላዊነት። መገልገያ። ተንቀሳቃሽነት።
+# HTML page description
+compare-index-a-great-internet-browser-should = በጣም ጥሩ የበይነመረብ አሳሽ የሚፈልጉትን ተግባር፣ በመሳሪያዎች ላይ ተንቀሳቃሽነት እና የሚገባዎትን ግላዊነት ሊኖረው ይገባል።
+compare-index-which-browser-is-best-at-keeping = ነገሮችን ሚስጥራዊ ለማድረግ የትኛው አሳሽ የተሻለ ነው?
+compare-index-what-you-do-online-literally = በመስመር ላይ የምትሰራው ነገር የሌላ ሰው ጉዳይ መሆን የለበትም።
+compare-index-another-browser-feature-that = ሌላው መሰጠት ያለበት የአሳሽ ባህሪ ድረ-ገጾች እና ኩባንያዎች የእርስዎን የአሰሳ እና የግዢ ውሂብ እንዳይከታተሉ የመከላከል ችሎታ ነው - በተለመደው የአሰሳ ሁነታም ቢሆን።
+compare-index-how-well-does-your-browser = አሳሽዎ በሁሉም መሳሪያዎችዎ ላይ ምን ያህል በጥሩ ሁኔታ ይሰራል?
+compare-index-conclusion = ማጠቃለያ፡-
+compare-index-and-the-winner-is = እና አሸናፊው…
