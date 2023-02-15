@@ -9,3 +9,5 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } для { -brand-name-mac-short }
+# Mac strings
+vpn-mac-hero-headline = Абараніце сваё злучэнне ў інтэрнэце з дапамогай { -brand-name-mozilla-vpn } для { -brand-name-mac-short }
