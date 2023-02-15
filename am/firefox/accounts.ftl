@@ -1,14 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-firefox-accounts-there-is-a-way-to = ግላዊነትዎን የሚጠብቁበት ዘዴ ያገኛሉ። ፋየርፎክስን ያግኙ።
+firefox-accounts-there-is-a-way-to = የእርስዎን ግላዊነት የሚጠብቁበት መንገድ አለ። { -brand-name-firefox }ን ይቀላቀሉ።
 # Old HTML page title
-firefox-accounts-get-a-firefox-account = የFirefox መታወቂያ ያግኙ - መረጃዎችን ግላዊ፣ አስተማማኝ እና የተዛመዱ ያድርጉ
+firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } ያግኙ - ውሂብዎን የግል፣ ደህንነቱ የተጠበቀ እና የተስማማ አድርገው ይያዙ
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = የርስዎን መረጃዎች ለሶስተኛ ወገን አሳልፈው በሚሸጡ ድርጅቶች ላይ አቋም ይውሰዱ። ደህንነትዎን በሚጠብቁ መሳሪያዎች በመገልገል ኢንተርኔት ሲጠቀሙ ንቁ እና ጠንቃቃ ይሁኑ።
 # Old HTML page description
@@ -29,8 +29,10 @@ firefox-accounts-meet-our-family-of = ከግላዊ-የመጀመሪያ ምርቶ�
 firefox-accounts-firefox-is-technology = ፋየርፎክስ ለእርስዎ ዘብ የሚቆም ዘመናዊ መሳሪያ ነው።
 firefox-accounts-get-technology-that = ለእርስዎ ዘብ የሚቆም ዘመናዊ መሳሪያ ያግኙ።
 firefox-accounts-travel-the-internet = በማንኛውም መገልገያ መሳሪያ ኢንተርኔት ላይ በጥንቃቄ ይጓዙ።
+# Obsolete string
 firefox-accounts-keep-your-passwords = የይለፍ ቃልዎን ደህንነቱ የተጠበቀ እና ተንቀሳቃሽ ያድርጉ።
 firefox-accounts-get-a-lookout-for = ከመረጃ መጭበርበር ይጠንቀቁ!
+# Obsolete string
 firefox-accounts-share-large-files = በርካታ መረጃዎችን ያለስጋት ይለዋወጡ።
 firefox-accounts-get-it-all-on-every = በማንኛውም መገልገያ መሳሪያ ላይ፤ ምንም አይነት ስጋት ሳያድርብዎ ሁሉንም አገልግሎቶች በአንድ መተግበሪያ መሳሪያ ላይ ያግኙ።
 firefox-accounts-and-get-it-all-on = እና በማንኛውም መገልገያ መሳሪያ፣ ሁሉንም አገልግሎቶች ያለምንም ስጋት በአንድ መከወኛ ላይ ያገኛሉ።
@@ -47,11 +49,13 @@ firefox-accounts-help-us-build-a-better = የተሻለ የ{ -brand-name-firefox 
 firefox-accounts-get-into-the-open = በቅርቡ ለሙከራ የሚለቀቁ ምርቶችን በመጠቀም በመርሀ-ግብሩ ላይ ይሳተፉ።
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 firefox-accounts-help-us-keep-big-tech = ከፍተኛ የኢንፎርሜሽን ቴክኖሎጂን ለማረጋገጥ ያግዙን።
+firefox-accounts-we-support-communities = በመላው አለም ያሉ ህዝቦች አስተማማኝ የኢንተርኔት አገልግሎት እንዲያገኙ ለማድረግ እንሠራለን። እርስዎም ከጎናችን ይቁሙ።
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-we-support-communities = በመላው አለም ያሉ ህዝቦች አስተማማኝ የኢንተርኔት አገልግሎት እንዲያገኙ ለማድረግ እንሠራለን። እርስዎም ከጎናችን ይቁሙ።
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-accounts-firefox-send = { -brand-name-firefox-send }

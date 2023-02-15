@@ -35,5 +35,5 @@ download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span>
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> ለ{ -brand-name-android }
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> ለ{ -brand-name-android }
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> ለ{ -brand-name-android }
-download-button-firefox-ios = <span>ፋየርፎክስ</span> ለ { -brand-name-ios }
-download-button-firefox-privacy = ፋየርፎክስ የግል መብት መጠበቅ
+download-button-firefox-ios = <span>{ -brand-name-firefox }</span> ለ{ -brand-name-ios }
+download-button-firefox-privacy = { -brand-name-firefox } ግላዊነት
