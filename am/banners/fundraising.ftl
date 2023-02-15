@@ -7,3 +7,6 @@
 
 banner-fundraising-title-v2 = በዚህ የበዓል ሰሞን ለተሻለ በይነመረብ እንዲታገል { -brand-name-mozilla } ን ይርዱ።
 banner-fundraising-title-giving-day = በዚህ የመስጠት ማክሰኞ ለተሻለ በይነመረብ እንዲታገል { -brand-name-mozilla } ን ይርዱ።
+# Outdated string
+banner-fundraising-title = ወደፊታችን በመስመር ላይ እየተወሰነ ነው። ለሁላችንም ድር እንድንታገል { -brand-name-mozilla }ን ይርዱ።
+banner-fundraising-body-v2 = ድሩን ጤናማ ለማድረግ እየሰራን በኩራት ለትርፍ አልተቋቋምንም። የእርስዎ አስተዋጽዖ ደህንነቱ የተጠበቀ እና ክፍት በይነ መረብ ለመገንባት ያግዛል።
