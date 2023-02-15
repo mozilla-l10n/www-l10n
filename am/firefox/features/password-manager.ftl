@@ -8,8 +8,8 @@
 # HTML page title
 password-manager-firefox-browser = { -brand-name-firefox-browser }:- ፈጣን፣ ቀላል የይለፍ ቃል አስተዳዳሪ
 # HTML page description
-password-manager-firefox-password = ፋየርፎክስ የይለፍ ቃል መቆጣጠሪያ ሁሉንም የይለፍ ቃሎች ባንድ ቦታ ማስቀመጥ ስለሚችሉ በቀላሉ ወደተለያዩ ድረ-ገፆች በቀላሉ መግባት፣ ወይም የይለፍ ቃሉን በቀላሉ ማስታወስ ይችላሉ።
+password-manager-firefox-password = { -brand-name-firefox } የይለፍ ቃል አስተዳዳሪ በራስ ሰር ወደ ጣቢያዎች ለመግባት ወይም የተቀመጡ የይለፍ ቃላትን ለማውጣት ሁሉንም የይለፍ ቃላትዎን በአንድ ቦታ ያስቀምጣል።
 # Hero title
 password-manager-password-manager = የይለፍ ቃል መቆጣጠሪያ በተሳካ ሁኔታ ተከፍቷል
-password-manager-give-up-the-memory = ሁሉንም ነገር በማስታወስ መጨናነቅን ለፋየርፎክስ የይለፍ ቃል መቆጣጠሪያ ይተውት።
+password-manager-give-up-the-memory = የማህደረ ትውስታ ጨዋታውን በ{ -brand-name-firefox } ይለፍ ቃል አቀናባሪ ይተዉት።
 password-manager-password-hero = የይለፍ ቃል ጀግና
