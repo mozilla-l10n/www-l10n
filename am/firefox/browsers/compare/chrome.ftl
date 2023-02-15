@@ -12,3 +12,4 @@ compare-chrome-we-compare-mozilla-firefox = { -brand-name-mozilla } { -brand-nam
 # Main title.
 compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser }ን ከ{ -brand-name-google } { -brand-name-chrome } ጋር በማወዳደር ላይ
 compare-chrome-and-so-here-we-are-the-browser = እናም እዚህ ጋ ነን፣ የአሳሽ-ጦርነቶች እንደገና እያደጉ ናቸው እና { -brand-name-firefox-browser }ን ከ { -brand-name-google } { -brand-name-chrome } እንደገና ለመገምገም እና ለማወዳደር ጊዜው አሁን ነው።
+compare-chrome-almost-needless-to-say-versions = የሁለቱም የ{ -brand-name-firefox } እና { -brand-name-chrome } ስሪቶች በጣም ታዋቂ ለሆኑ የዴስክቶፕ እና የሞባይል ኦፕሬቲንግ ሲስተሞች ({ -brand-name-windows }፣ { -brand-name-mac }፣ { -brand-name-linux }፣ { -brand-name-android }፣ { -brand-name-ios }) ይገኛሉ ማለት ይቻላል።

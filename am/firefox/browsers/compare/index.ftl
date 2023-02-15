@@ -18,3 +18,5 @@ compare-index-another-browser-feature-that = ሌላው መሰጠት ያለበት
 compare-index-how-well-does-your-browser = አሳሽዎ በሁሉም መሳሪያዎችዎ ላይ ምን ያህል በጥሩ ሁኔታ ይሰራል?
 compare-index-conclusion = ማጠቃለያ፡-
 compare-index-and-the-winner-is = እና አሸናፊው…
+compare-index-see-how-firefox-for-mobile = { -brand-name-firefox } ለተንቀሳቃሽ ስልክ እንዴት እስከ አምስት ሌሎች የተንቀሳቃሽ ስልክ አሳሾች እንደሚከማች ይመልከቱ።
+compare-index-compare = አወዳድር
