@@ -60,6 +60,7 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = አውሮራ
+-brand-name-firefox-quantum = ፋየርፎክስ Quantum
 
 ## Firefox products
 
@@ -70,16 +71,24 @@
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-relay = ፋየርፎክስ ቅብብል
+-brand-name-firefox-private-network = የፋየርፎክስ የግል አውታረ መረብ
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
+-brand-name-fpn = FPN
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
+-brand-name-relay = ቅብብል
+-brand-name-relay-premium = ፕሪሚየም አስተላላፊ
 -brand-name-sync = Sync
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-marketplace = የፋየርፎክስ ገበያ ቦታ
+-brand-name-firefox-os = ፋየርፎክስ OS
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
 
