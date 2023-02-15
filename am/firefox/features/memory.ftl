@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = ፋየርፎክስ ድረ-ገፅ ማሰሻ: አነስተኛ የማህደረ ትውስታ ቦታ፣ ከፍተኛ ፍጥነት
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }:- ትንሽ ማህደረ ትውስታን በመጠቀም፣ የበለጠ ፍጥነት ያግኙ
 # HTML page description
 features-memory-is-your-computer-slow-your = ኮምፒውተርዎ ቀርፋፋ ነው? የሚጠቀሙበት የድረ-ገፅ ማሰሻ ምናልባት ብዙ የማህደረ ትውስታ ቦታን ይይዝ ይሆናል። ለከፍተኛ ፍጥነት ዛሬውኑ ወደ ፋየርፎክስ ይለውጡት።
 features-memory-less-memory-usage-than-chrome = ከክሮም አነስተኛ ማህደረ ትውስታን የሚጠቀም
