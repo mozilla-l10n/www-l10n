@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = ፋየርፎክስ ድረ-ገፅ ማሰሻ: ለሁሉም ድረ-ገፆች የተሻለ ዕልባት ያደርጋል
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }፡ በሄዱበት ቦታ ሁሉ የተሻሉ ዕልባቶች
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = ዕልባቶችን በቀላሉ በአቃፊ ውስጥ ለማደራጀት እና በሁሉም መገልገያ መሳሪያዎች ላይ፤ ከኮምፒውተር ወደ ሞባይል አድርገው መጠቀም ይችላሉ።
 features-bookmarks-better-bookmarks = የተሻለ ዕልባት

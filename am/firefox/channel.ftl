@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -19,7 +19,7 @@ firefox-channel-experience-cutting-edge-android-updated = ለአንሮይድ በ
 firefox-channel-experience-cutting-edge-android = ለአንሮይድ በቅድመ-የተለቀቀ አሳሽ ውስጥ ማራኪ ገጽታዎችን ይለማመዱ: ፋየርፎክስ ቤታ እና ፋየርፎክስ ኦሮራ እና ፋየርፎክስ ናይትሊ:: አሁን ይጫኑ!
 firefox-channel-all-languages-and-builds = ሁሉም ቋንቋዎች እና ስራዉች
 firefox-channel-firefox-beta-automatically = ፋየርፎክስ ቤታ በራስ ወደ ሞዚላ አስተያየት ይልካል
-firefox-channel-nightly-blog = የማታ ብሎግ
+firefox-channel-nightly-blog = { -brand-name-nightly } ጦማር
 firefox-channel-firefox-nightly-automatically = ፋየርፎክስ የማታ በራስ ወደ ሞዚላ አስተያየት ይልካል
 firefox-channel-try-new-browser-features = ቅድመ-ልቀቅ ቨርዥንስ ፋየርፎክስ ውስጥ አዲስ የአሳሽ ባህሪያት ይሞክሩ
 firefox-channel-beta = { -brand-name-beta }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
@@ -9,7 +9,7 @@
 features-fast-get-more-done-browse-faster = የበለጠ ይሥሩ። በበርካታ ትሮች በፍጥነትና በቀላሉ የስሱ
 # HTML description
 features-fast-our-new-powerful-multi-process = አዲሱ የእኛ ሥርዓተ-ውቅር፤ ከፍተኛ አቅም ያለውና ብዙ ሥራዎችን ማከናወን የሚችል ሲሆን፤ የኮምፒውተርዎ ፍጥነት ሳይቀንስ ሁሉንም ትሮች መያዝ ይችላል።
-features-fast-firefox-is-now-faster-and-leaner = ፋየርፎክስ አሁን ፈጣን እና አነስተኛ ሆኗል
+features-fast-firefox-is-now-faster-and-leaner = { -brand-name-firefox } አሁን ፈጣን እና አነስተኛ ነው
 features-fast-weve-been-working-out-so-you = በብቃት እየሠራን ስለሆነ፤ የበለጠ መሥራት ያስችልዎታል።
 features-fast-use-less-memory = ትንሽ የማህደረ ትውስታ ቦታን ይጠቀማል
 # A "computer hog" here means software that consumes a lot of memory and resources
