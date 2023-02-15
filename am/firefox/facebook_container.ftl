@@ -7,22 +7,22 @@
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } ለ { -brand-name-firefox } | { -brand-name-facebook } የሚጎበኟቸውን ድር ጣቢያዎች እንዳያይ ይከልክሉ።
 facebook-container-millions-of-people-around = በዓለም ዙሪያ ያሉ በሚሊዮን የሚቆጠሩ ሰዎች { -brand-name-firefox } የድር አሳሾችን በ{ -brand-name-android }፣ { -brand-name-ios } እና በዴስክቶፕ ኮምፒውተሮች ላይ ያምናሉ። ፈጣን። የግል። አሁኑኑ ያውርዱ!
-facebook-container-facebook-well-contained-keep = ፌስቡክ። በደንብ የተያዘ። ቀሪ ህይወትዎን ለራስዋ ብቻ ይስጡ።
+facebook-container-facebook-well-contained-keep = { -brand-name-facebook }። በደንብ የተያዘ። ቀሪ ህይወትዎን ለራስዋ ብቻ ያቆዩ።
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } ቅጥያውን ያግኙ
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox }ን ያውርዱ እና { -brand-name-facebook-container } ቅጥያውን ያግኙ
 # Outdated string
 facebook-container-the-facebook-container-extension = የ{ -brand-name-facebook-container } ቅጥያው በሞባይል መሳሪያዎች ላይ አይገኝም።
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = ይኼን <strong>ፋየርፎክስ አትኩሮት</strong> ይሞክሩት፤ የግላዊነት ማሰሻ ለአንድሮይድ እና { -brand-name-ios }።
+facebook-container-try-firefox-focus-the-privacy = የ{ -brand-name-android } እና { -brand-name-ios }ን የግላዊነት ማሰሻ የሆነውን <strong>{ -brand-name-firefox-focus }</strong>ን ይሞክሩ።
 facebook-container-opt-out-on-your-terms = በራስዎ ደንቦች ይመሩ
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = ፌስቡክ ሁሉንም የኢንተርኔት አጠቃቀምዎትን ሊከታተል ይችላል፤ ከዛም ከፌስቡክ ማንነትዎት ጋር ያስተሳስራቸዋል። ይኼ የሚያሳስብዎት ከሆነ፤ <a href="{ $fbcontainer }">የፌስቡክ መያዣ ቅጥያ</a> ማንነትዎን በሌላ ትር ለይቶ ያስቀምጣል፤ ይኼም ለፌስቡክ እርስዎን ለመከታተል አስቸጋሪ ያደርግበታል።
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } ሁሉንም የድር እንቅስቃሴዎን ከሞላ ጎደል መከታተል እና ከ{ -brand-name-facebook } ማንነትዎ ጋር ማያያዝ ይችላል። ይህም ለእርስዎ አሳሳቢ ከሆነ፣ የ<a href="{ $fbcontainer }">{ -brand-name-facebook-container } ቅጥያ</a> ማንነትዎን ወደ የተለየ የመያዣ ትር ይለየዋል፣ ይህም ለ{ -brand-name-facebook } ከ{ -brand-name-facebook } ውጭ በድር ላይ እርስዎን ለመከታተል ከባድ ያደርግበታል።።
 facebook-container-install-and-contain = ያቀናጁና ይያዙት
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-installing-the-extension-is = አንዴ<a href="{ $fbcontainer }">ቅጥያ</a> ን ካቀናጁ እና ከሠራ፤ ፌስቡክን ስትከፍቱት ሁልጊዜ በሰማያዊ ትር ያስቀምጠዋል። ፌስቡክን ያለምንም ሀሳብ በመጠቀም ይደሰቱ። ፌስቡክ አሁንም በራሳቸው ድረ-ገፅ ላይ ማስታወቂያና መልዕክቶችን ሊልኩ ይችላሉ፤ ነገርግን <strong>ከፌስቡክ ውጭ</strong> የርስዎን ዱካ ለመከታተል፣ የታቀዱ ማስታወቂያዎችን እና መልዕክቶችን ለመላክ ያስቸግራቸዋል።
+facebook-container-installing-the-extension-is = የ<a href="{ $fbcontainer }">ቅጥያ</a>ን መጫን ቀላል ነው እናም አንዴ ከነቃ { -brand-name-facebook }ን በተጠቀሙ ቁጥር በሰማያዊ ትር ውስጥ ይከፍታል። በመደበኛነት { -brand-name-facebook } ይጠቀሙ እና ይደሰቱ። { -brand-name-facebook } አሁንም በድረገጻቸው ላይ ማስታወቂያ እና ምክሮችን ሊልኩልዎ ይችላሉ፣ነገር ግን  ለ{ -brand-name-facebook } የተሰበሰበውን <strong>ከ{ -brand-name-facebook } </strong> እንቅስቃሴዎን ለመጠቀም፣ ማስታወቂያዎችን እና ሌሎች ኢላማ የተደረጉ መልዕክቶችን ለእርስዎ ለመላክ በጣም ከባድ ይሆንባቸዋል።
 facebook-container-about-firefox-and-mozilla = ስለ { -brand-name-firefox } እና { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
