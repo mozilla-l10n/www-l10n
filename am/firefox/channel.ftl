@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/channel/
 
 firefox-channel-desktop = ዴስክቶፕ
-firefox-channel-android = አንድሮይድ
+firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = የወደፊቱን ጊዜ የሙከራ ጉዞ ይውሰዱ።
 firefox-channel-be-among-the-first-to-explore = በቅርቡ የሚለቀቅውን ፋየርፎክስ ለዴስክቶፕ፣ አንሮይድ እና ለ { -brand-name-ios } ለመጠቀም  ከመጀመርያዎቹ ሰዎች አንዱ ይሁኑ።

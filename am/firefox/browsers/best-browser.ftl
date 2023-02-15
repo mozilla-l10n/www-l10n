@@ -36,9 +36,9 @@ best-browser-trackers-are-all-those = ሠርጎ-ገቦች የሚባሉት ኢን
 best-browser-another-way-to-stop = ሌላው እነዚህን ሠርጎ-ገቦች የምንከላከልበት መንገድ ደግሞ የግላዊ አሰሳ ዘዴ ነው። ማንኛውም ደህንነቴ የተጠበቀ ነው የሚል ድረ-ገፅ ማሰሻ የግላዊ አሰሳ ዘዴን ማቅረብ አለበት።
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-best-browser-one-easy-way-to-check = ይኼንን ለማረጋገጥ የድረ-ገፁን የማቀናበሪያና የግላዊነት ፖሊሲ ይዘት ማየት አለብን። ይኽ የግላዊነት ፖሊሲ ታዲያ የርስዎን መረጃ ለሌሎች የሚያጋራ መሆኑን እና ለምን እንደሚያጋራ መግለፅ አለበት። ለዚህ ነው <a href="{ $privacy }">ፋየርፎክስ የግላዊነት ማስታወቂያ</a> በቀላሉ የሚገኝና የሚረዱት የተደረገው።
+best-browser-one-easy-way-to-check = ለመፈተሽ አንዱ ቀላል መንገድ የአሳሹን የይዘት ቅንብር ገጽ እና የግላዊነት መመሪያ መጎብኘት ነው። የግላዊነት ድረ-ገጹ የእርስዎ ውሂብ ለሌሎች የተጋራ እንደሆነ እና ለምን እንደሆነ መግለጽ አለበት። ለዚህ ነው <a href="{ $privacy }">{ -brand-name-firefox } የግላዊነት ማሳሰቢያ</a> ለማንበብ ቀላል እና በቀላሉ ለማግኘት ቀላል የሆነው።
 best-browser-choosing-the-best-browser = የተሻለ ድረ-ገፅ ማሰሻን መምረጥ ለርስዎ ልክ መኖሪያ ቤት እንደመምረጥ ነው። የሚፈልጉትን ነገር ዘርዝረው የተወሰነ ጥናት ካደረጉ በኋላ፤ የሚጠቅምዎትን ለመምረጥ ውሳኔ ላይ ይድረሱ።
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
-best-browser-at-firefox-weve-worked = እኛ እንደ <a href="{ $firefox }">ፋየርፎክስ</a>፤ ጠንክረን እየሠራን ያለነው ከበፊቱ ሁለት እጥፍ ፈጣን የሆነና ተጠቃሚዎች ኢንተርኔትን በደንብ መቆጣጠር እንዲችሉ ለማድረግ ነው።
+best-browser-at-firefox-weve-worked = በ<a href="{ $firefox }">{ -brand-name-firefox }</a> ላይ፣ እንደበፊቱ በሁለት እጥፍ ፈጣን የሆነ አሳሽ ለመስራት ጠንክረን ሰርተናል እና ተጠቃሚዎች በመስመር ላይ ህይወታቸው የበለጠ መቆጣጠር እንዲችሉ አድርጓል።
 best-browser-take-control-of-your = የድረ-ገፅ ማሰሻዎን እርስዎ የሚቆጣጠሩት ያድርጉት።
