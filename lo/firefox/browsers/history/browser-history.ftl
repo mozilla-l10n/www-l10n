@@ -23,10 +23,16 @@ browser-history-a-year-later-berners = ນຶ່ງປີຕໍ່ມາ, Berner
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = ໃນປີ 1993, ເວັບໄຊຕ໌ໄດ້ລະເບີດຂຶ້ນ. ມະຫາວິທະຍາໄລ, ລັດຖະບານ, ແລະບໍລິສັດເອກະຊົນລ້ວນແຕ່ເຫັນໂອກາດໃນອິນເຕີເນັດເປີດ. ທຸກຄົນຕ້ອງການໂຄງການຄອມພິວເຕີໃຫມ່ເພື່ອເຂົ້າເຖິງມັນ. ໃນປີນັ້ນ, Mosaic ໄດ້ຖືກສ້າງຂື້ນຢູ່ທີ່ສູນແຫ່ງຊາດສໍາລັບຄໍາຮ້ອງສະຫມັກ Supercomputing (NCSA) ທີ່ມະຫາວິທະຍາໄລ Illinois Urbana-Champaign ໂດຍນັກວິທະຍາສາດຄອມພິວເຕີ Marc Andreessen. ມັນ​ເປັນ​ຕົວ​ທ່ອງ​ເວັບ​ອັນ​ທຳ​ອິດ​ທີ່​ນິ​ຍົມ​ຫຼາຍ ແລະ​ບັນ​ພະ​ບຸ​ລຸດ​ຕົ້ນ​ຂອງ <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic ແລ່ນໃນຄອມພິວເຕີ { -brand-name-windows }, ໃຊ້ງ່າຍ, ແລະໃຫ້ທຸກຄົນທີ່ມີ PC ເຂົ້າເຖິງຫນ້າເວັບ, ຫ້ອງສົນທະນາ, ແລະຫ້ອງສະໝຸດຮູບພາບ. ໃນປີຕໍ່ມາ (1994), Andreessen ກໍ່ຕັ້ງ <a href="{ $netscape }">{ -brand-name-netscape }</a> ແລະປ່ອຍ { -brand-name-netscape } Navigator ສູ່ສາທາລະນະຊົນ. ມັນປະສົບຜົນສໍາເລັດຢ່າງປ່າທໍາມະຊາດ, ແລະຕົວທ່ອງເວັບທໍາອິດສໍາລັບປະຊາຊົນ. ມັນຍັງເປັນການເຄື່ອນໄຫວທໍາອິດໃນສົງຄາມປະເພດໃຫມ່ສໍາລັບຜູ້ໃຊ້ອິນເຕີເນັດ.
 browser-history-the-browser-wars = ສົງຄາມຂອງຕົວທ່ອງເວັບ
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = { -brand-name-netscape } ສ້າງ ແລະປ່ອຍ JavaScript, ເຊິ່ງເຮັດໃຫ້ເວັບໄຊທ໌ມີຄວາມສາມາດໃນການຄອມພິວເຕີທີ່ມີປະສິດທິພາບທີ່ພວກເຂົາບໍ່ເຄີຍມີມາກ່ອນ. (ພວກເຂົາຍັງໄດ້ສ້າງ <a href="{ $blink }">&lt;blink&gt; tag</a> ທີ່ມີຊື່ສຽງ.) { -brand-name-microsoft } ກົງກັນຂ້າມກັບ Cascading Style Sheets (CSS), ເຊິ່ງກາຍເປັນມາດຕະຖານສໍາລັບ ການອອກແບບຫນ້າເວັບ.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = ສິ່ງຕ່າງໆໄດ້ອອກຈາກມືເລັກນ້ອຍໃນປີ 1997 ເມື່ອ { -brand-name-microsoft } ອອກ { -brand-name-ie } 4.0. ທີມງານໄດ້ສ້າງຕົວໜັງສືຂະໜາດໃຫຍ່ “e” ແລະ ຈູດມັນຢູ່ໃນສະໜາມຫຍ້າຂອງສຳນັກງານໃຫຍ່ { -brand-name-netscape }. ທີມງານ { -brand-name-netscape } ໄດ້ເອົາ “e” ຍັກໃຫຍ່ມາທັບທັນທີ ແລະ <a href="{ $dino }">ເອົາມາສກອດໄດໂນເສົາ { -brand-name-mozilla } ຂອງຕົນເອງຢູ່ເທິງສຸດຂອງມັນ</a >.
 browser-history-other-competitors = ຄູ່ແຂ່ງອື່ນໆໄດ້ເກີດຂື້ນໃນຊ່ວງທ້າຍ '90s ແລະຕົ້ນປີ 2000, ລວມທັງ { -brand-name-opera }, { -brand-name-safari }, ແລະ { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } ແທນ { -brand-name-ie } ດ້ວຍການປ່ອຍ { -brand-name-windows } 10 ໃນປີ 2015.
 browser-history-browsing-the-web = ການທ່ອງເວັບໃນມື້ນີ້
 browser-history-whatever-the-future = ບໍ່ວ່າອະນາຄົດຂອງເວັບຈະເປັນແນວໃດ, { -brand-name-mozilla } ແລະ { -brand-name-firefox } ຈະຢູ່ທີ່ນັ້ນສໍາລັບຜູ້ໃຊ້, ຮັບປະກັນວ່າພວກເຂົາມີເຄື່ອງມືທີ່ມີປະສິດທິພາບໃນການສໍາຜັດກັບເວັບແລະທັງຫມົດທີ່ມັນມີໃຫ້. ເວັບໄຊຕ໌ແມ່ນສໍາລັບທຸກຄົນ, ແລະທຸກຄົນຄວນຈະມີການຄວບຄຸມປະສົບການອອນໄລນ໌ຂອງເຂົາເຈົ້າ. ນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຮົາໃຫ້ເຄື່ອງມື { -brand-name-firefox } ເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງຜູ້ໃຊ້ ແລະພວກເຮົາບໍ່ເຄີຍຂາຍຂໍ້ມູນຜູ້ໃຊ້ໃຫ້ກັບຜູ້ໂຄສະນາ.
