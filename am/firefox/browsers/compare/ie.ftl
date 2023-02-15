@@ -11,3 +11,4 @@ compare-ie-firefox-vs-internet-explorer = ከ{ -brand-name-firefox } እና { -b
 compare-ie-compare-internet-explorer-to = ለእርስዎ የተሻለው አሳሽ የትኛው እንደሆነ ለማወቅ { -brand-name-ie }ን ከ{ -brand-name-firefox-browser } ጋር ያወዳድሩ።
 # Main title
 compare-ie-comparing-firefox-browser-with = { -brand-name-firefox-browser }ን ከ{ -brand-name-microsoft } { -brand-name-ie } ጋር በማወዳደር ላይ
+compare-ie-while-microsofts-internet-explorer = የ{ -brand-name-microsoft } { -brand-name-ie } አሁንም በአብዛኛዎቹ ዊንዶውስ ላይ በተመሰረቱ ፒሲዎች ላይ አስቀድሞ ተጭኖ ይመጣል፣ { -brand-name-microsoft } በግልፅ የእነርሱን { -brand-name-edge } አሳሽ እንዲጠቀሙ ይመርጣል፤ ይህም ሲገዙ እንደ ነባሪ የተዘጋጀ ነው።
