@@ -29,6 +29,19 @@ compare-shared-in-browser-screenshot-tool = የአሳሽ ቅጽበታዊ ገጽ 
 compare-shared-os-availability = የስርዓተ ክወና መገኘት
 compare-shared-mobile-os-availability = የተንቀሳቃሽ ስልክ ስርዓተ ክወና መገኘት
 compare-shared-password-management = የይለፍ ቃል አስተዳደር
+compare-shared-primary-password = ዋና የይለፍ ቃል
+# Obsolete string
+compare-shared-master-password = ዋና የይለፍ ቃል
+compare-shared-security-and-privacy = ደህንነት እና ግላዊነት
+compare-shared-utility = መገልገያ
+compare-shared-portability = ተንቀሳቃሽነት
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-security-and-privacy-strong = ደህንነት እና <strong>ግላዊነት</strong>
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-utility-strong = <strong>መገልገያ</strong>
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-portability-strong = <strong>ተንቀሳቃሽነት</strong>
+compare-shared-overall-assessment = አጠቃላይ ምዘና
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
