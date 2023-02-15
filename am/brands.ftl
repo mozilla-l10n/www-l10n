@@ -15,6 +15,7 @@
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
+-brand-name-hulu = ሁሉ
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
@@ -89,6 +90,7 @@
 
 -brand-name-firefox-marketplace = የፋየርፎክስ ገበያ ቦታ
 -brand-name-firefox-os = ፋየርፎክስ OS
+-brand-name-firefox-better-web = ፋየርፎክስ የተሻለ ድር
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
 
@@ -99,10 +101,15 @@
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-glean = ግሌን
 -brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-developer-network = የሞዚላ ገንቢ አውታረ መረብ
+-brand-name-mozilla-festival = የሞዚላ ድግስ
 -brand-name-mozilla-hubs = Mozilla Hubs
+-brand-name-mozilla-labs = ሞዚላ ቤተ-ሙከራ
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mdn-plus = MDN Plus
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -113,10 +120,14 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-lightbeam = Lightbeam
+-brand-name-maker-party = Maker Party
+-brand-name-webmaker = የድር ሰሪ
 
 ## Open Source projects
 
 -brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
 # Outdated string
 -brand-name-web-assembly = Web Assembly
 
@@ -128,13 +139,17 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = ክሮም OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = ማክ
+-brand-name-ubuntu = ኡቡንቱ
 -brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
@@ -144,6 +159,7 @@
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
@@ -151,10 +167,14 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = የፊስቡክ መለዕክተኛ
 -brand-name-instagram = Instagram
+-brand-name-messenger = መልእክተኛ
+-brand-name-workplace = የስራ ቦታ
 
 ## Google products
 
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook

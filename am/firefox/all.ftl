@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = አሁን ለመጫን ተቃርበዋ�
 firefox-all-browser = ድረ-ገፅ ማሰሻ:
 firefox-all-platform = የአወቃቀር ስርአት:
 firefox-all-language = ቋንቋ:
+firefox-all-lang-multi = በርካታ ቋንቋዎች
 firefox-all-sorry-we-couldnt-find = ይቅርታ፥ ለመጫን የሚፈልጉትን ነገር ማግኘት አልቻልንም። እባክዎ እንደገና ይሞክሩ ወይም የሚጭኑትን ከሚከተሉት ዝርዝሮች ይምረጡ።
 firefox-all-the-pre-alpha-version = የቅድመ-አልፋ ስሪት ሰርጎ-ገቦችን አድኖ መያዝ ለሚፈልጉ በልዩ ሁኔታ የተቀረፀ ነው - ይሞክሩት።
 firefox-all-64-bit-installers = ባለ 64-ቢት ማቀናጃዎች
@@ -33,6 +34,9 @@ firefox-all-get-a-sneak-peek-at = ከመለቀቃቸው በፊት የቅርብ �
 firefox-all-test-your-sites-against = ድህረ-ገጾችዎን በቅርቡ በሚለቀቁ የ{ -brand-name-firefox } አሳሽ ባህሪያት በነባሪነት በሚሠሩ ኃይለኛ እና ተጣጣፊ DevTools ይፈትኗቸው።
 firefox-all-count-on-stability-and = ለድርጅት ታስቦ በተሰራው በዚህ { -brand-name-firefox } አሳሽ ጥንካሬ እና የአጠቃቀም ቀላልነት ላይ ይተማመኑ።
 firefox-all-windows-installers-for = የ{ -brand-name-firefox-browser }ን ውቅር፣ ማሰማራት እና ማስተዳደርን የሚያቃልል ዊንዶውስ ጫኚዎች ለድርጅቶች IT።
+firefox-all-arm64-installers = ARM64/AArch64 ጫኚዎች
+firefox-all-arm64-installers-optimized = ARM64/AArch64 ጫኚዎች በSnapdraptop ለሚሰሩ { -brand-name-windows } PCs የተመቻቹ።
+firefox-all-product-send-link = የማውረጃ አገናኝ ወደ ስልክዎ ይላኩ።
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = ባለ 32-ቢት ማቀናጃን ለባለ 32-ቢት መከወኛ ኮምፒውተሮች - ወይም ለቀድሞዎቹ እና አነስተኛ አቅም ላላቸው ኮምፒውተሮች ይምረጡ። <a href="{ $url }">እርግጠኛ ካልሆኑ ግን</a> ባለ 64-ቢት ወይስ ባለ 32-ቢት ማቀናጃ እንደሚሻልዎት፤ ባለ 32-ቢት ቢጠቀሙ የተሻለ ነው።
@@ -54,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox }{ -brand-name-ios }
