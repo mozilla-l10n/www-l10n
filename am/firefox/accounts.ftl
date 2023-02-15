@@ -12,21 +12,21 @@ firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } ያግ�
 # HTML page description
 firefox-accounts-take-your-stand-stay-smart = የርስዎን መረጃዎች ለሶስተኛ ወገን አሳልፈው በሚሸጡ ድርጅቶች ላይ አቋም ይውሰዱ። ደህንነትዎን በሚጠብቁ መሳሪያዎች በመገልገል ኢንተርኔት ሲጠቀሙ ንቁ እና ጠንቃቃ ይሁኑ።
 # Old HTML page description
-firefox-accounts-securely-sync-your = በአስተማማኝ መንገድ የይለፍ ቃል፣ እልባቶች እና ትሮችን ሁሉንም በሚጠቀሙበት መሳሪያ ላይ ማዛመድ ይችላሉ። የፋየርፎክስ መታወቂያ አሁን ይውሰዱ - አንድ መግቢያ - አቅምና ደህንነት በሁሉም ቦታ።
+firefox-accounts-securely-sync-your = የእርስዎን የይለፍ ቃላት፣ ዕልባቶች እና ትሮች በሁሉም መሳሪያዎችዎ ላይ ደህንነቱ በተጠበቀ ሁኔታ ያዛምዱ። አሁን { -brand-name-firefox-account } ያግኙ - አንድ መግቢያ - አቅም እና ግላዊነት በሁሉም ቦታ።
 # The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
-firefox-accounts-there-is-a-way-to-protect = ግላዊነትዎን የሚጠብቁበት ዘዴ ያገኛሉ። <span>ፈየርፎክስን ያግኙ</span>
+firefox-accounts-there-is-a-way-to-protect = የእርስዎን ግላዊነት የሚጠብቁበት መንገድ አለ። <span>ይቀላቀሉ { -brand-name-firefox }።</span>
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 firefox-accounts-take-your-stand-against = የእርስዎን መረጃዎች እንደግል ንብረታቸው እና ለማስታወቂያ በሚጠቀሙ ድርጅቶች ላይ አቋምዎን ይውሰዱ።
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = መታወቂያ አግኝተዋል <br>የፋየርፎክስ <br><span>አሁን ፋየርፎክስ ሞኒተርን ይሞክሩ።</span>
+firefox-accounts-youre-signed-in-to = ወደ { -brand-name-firefox } <br> ገብተዋል። <br><span>አሁን { -brand-name-firefox-monitor }ን ይሞክሩ።</span>
 firefox-accounts-see-if-youve-been = በኢንተርኔት መረጃ ማጭበርበር ላይ ተሳትፈው ከሆነ ይመልከቱ።
-firefox-accounts-sign-in-to-monitor = ወደ ሞኒተር ይግቡ
-firefox-accounts-join-firefox = ፋየርፎክስን ያግኙ
+firefox-accounts-sign-in-to-monitor = ወደ { -brand-name-monitor } ይግቡ
+firefox-accounts-join-firefox = { -brand-name-firefox }ን ይቀላቀሉ
 firefox-accounts-enter-your-email-address = ለመጀመር የኢሜል አድራሻ ያስገቡ።
 firefox-accounts-already-have-an-account = መታወቂያ(መለያ) አለዎት?
 firefox-accounts-sign-in = ግባ
 firefox-accounts-meet-our-family-of = ከግላዊ-የመጀመሪያ ምርቶች ቤተሰባችንን ያግኙ።
-firefox-accounts-firefox-is-technology = ፋየርፎክስ ለእርስዎ ዘብ የሚቆም ዘመናዊ መሳሪያ ነው።
+firefox-accounts-firefox-is-technology = { -brand-name-firefox } ለእርስዎ የሚዋጋ ቴክኖሎጂ ነው።
 firefox-accounts-get-technology-that = ለእርስዎ ዘብ የሚቆም ዘመናዊ መሳሪያ ያግኙ።
 firefox-accounts-travel-the-internet = በማንኛውም መገልገያ መሳሪያ ኢንተርኔት ላይ በጥንቃቄ ይጓዙ።
 # Obsolete string

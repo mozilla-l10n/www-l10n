@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -26,7 +26,7 @@ firefox-all-download-the-firefox = { -brand-name-firefox-browser }ን በእን�
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = ሁሉም ሰው የኢንተርኔት አገልግሎት ማግኘት ይገባዋል - ቋንቋ መሰናክል ሊሆን አይገባውም። ለዛ ነው - በአለም ዙሪያ ባሉ በጎ ፈቃደኛ ሰዎች እርዳታ  { -brand-name-firefox-browser }ን በ90 የተለያዩ ቋንቋዎች ያቀረብነው።
 firefox-all-choose-which-firefox = በራስዋ ቋንቋ የፈለጉትን አይነት { -brand-name-firefox-browser } ለመጫን ይምረጡ
-firefox-all-firefox-privacy-notice = ሰለ ግላዊነት የ { -brand-name-firefox-browser } ማስታወቂያ
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } የግላዊነት ማስታወቂያ
 firefox-all-learn-about-firefox = ስለ  { -brand-name-firefox } የድር አሳሾች ይወቁ
 firefox-all-the-standard-firefox = መደበኛ { -brand-name-firefox } አሳሽ -- ፈጣን እና ግላዊ። የትኛውን { -brand-name-firefox } እንደሚመርጡ እርግጠኛ ካልሆኑ ይህንን ይምረጡ።
 firefox-all-get-a-sneak-peek-at = ከመለቀቃቸው በፊት የቅርብ ጊዜውን የ{ -brand-name-firefox } አሳሽ ባህሪያትን በመጠኑ ይቃኙት።
