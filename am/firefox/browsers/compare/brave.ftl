@@ -25,3 +25,4 @@ compare-brave-whether-this-sounds-complicated = ይህ የተወሳሰበ ቢመ
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = በሳንቲሙ በሌላኛው ጎን፣ በ{ -brand-name-firefox } አሳሽ፣ ነገሮችን ቀላል ማድረግ እንመርጣለን። { -brand-name-firefox } ብዙ የሶስተኛ ወገን መከታተያ፣ ምናባዊ ገንዘብ ቆፋሪዎች እና የጣት አሻራ መከታተያዎች በነባሪነት እርስዎን እንዳይከተሉ ያግዳል። ነገር ግን፣ { -brand-name-firefox }፣ ከግል አሰሳ ሁነታ ውጭ፣ የማሳያ ማስታወቂያዎች እንዳይታዩ አለማገድን ይመርጣል። ይኸውም <a { $attrs }>ለዚያ ዓላማ ተብለው ከተዘጋጁት ቅጥያዎች ውስጥ አንዱን</a> ካልጫኑ በስተቀር።
+compare-brave-what-might-surprise-some-new = አንዳንድ አዳዲስ { -brand-name-brave } ተጠቃሚዎችን ሊያስደንቅ የሚችለው ነገር ገፆች በአሳሹ ውስጥ ምን ያህል በፍጥነት እንደሚጫኑ ነው። የእነዚህ ፈጣን ጭነት ጊዜዎች ምክንያቱ ሁሉንም ማስታወቂያዎች በእነሱ ላይ ሲያግዱ ገጾቹ በፍጥነት ስለሚጫኑ ነው። በቀላሉ ለመጫን ያነሰ ስለሆነ ትንሽ ጊዜ ይወስዳል።
