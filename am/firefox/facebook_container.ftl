@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = የፋየርፎክስ ፌስቡክ መያዣ | ፌስቡክ የምትፈልጉትን ድረ-ገፅ እንዳታዩ እንዳያረጋችሁ ይከላከላል።
-facebook-container-millions-of-people-around = በሚሊዮን የሚቆጠሩ ሠዎች ፋየርፎክስ ድረ-ገፅ ማሰሻን በአንድሮይድ፣ { -brand-name-ios } እና በዴስክቶፕ ኮምፒውተር ላይ በሙሉ እምነት ይጠቀማሉ። ፈጣን እና ግላዊ። አሁኑኑ ይጫኑ!
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } ለ { -brand-name-firefox } | { -brand-name-facebook } የሚጎበኟቸውን ድር ጣቢያዎች እንዳያይ ይከልክሉ።
+facebook-container-millions-of-people-around = በዓለም ዙሪያ ያሉ በሚሊዮን የሚቆጠሩ ሰዎች { -brand-name-firefox } የድር አሳሾችን በ{ -brand-name-android }፣ { -brand-name-ios } እና በዴስክቶፕ ኮምፒውተሮች ላይ ያምናሉ። ፈጣን። የግል። አሁኑኑ ያውርዱ!
 facebook-container-facebook-well-contained-keep = ፌስቡክ። በደንብ የተያዘ። ቀሪ ህይወትዎን ለራስዋ ብቻ ይስጡ።
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } ቅጥያውን ያግኙ
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox }ን ያውርዱ እና { -brand-name-facebook-container } ቅጥያውን ያግኙ
