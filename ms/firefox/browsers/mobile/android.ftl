@@ -57,4 +57,3 @@ mobile-android-short-cut-the-internet = Jalan pintas di internet bersama { -bran
 mobile-android-see-all-your-open-tabs = Lihat semua tab terbuka, carian terkini dan laman kegemaran anda dalam satu tempat dengan pelayar { -brand-name-firefox } untuk { -brand-name-android }.
 mobile-android-own-your-home = Miliki laman utama anda
 mobile-android-get-to-the-parts = Jelajah ke lokasi yang penting untuk anda di internet dengan lebih pantas. Pilih untuk lihat semua tab terbuka, carian terkini, penanda buku dan laman kegemaran dalam satu tempat.
-

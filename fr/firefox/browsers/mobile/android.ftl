@@ -57,4 +57,3 @@ mobile-android-short-cut-the-internet = L’internet plus direct { -brand-name-f
 mobile-android-see-all-your-open-tabs = Trouvez tous vos onglets ouverts, vos recherches récentes et vos sites préférés au même endroit avec { -brand-name-firefox } pour { -brand-name-android }.
 mobile-android-own-your-home = Appropriez-vous votre écran d’accueil
 mobile-android-get-to-the-parts = Accédez plus rapidement à l’Internet qui vous intéresse. Choisissez de voir tous vos onglets ouverts, recherches récentes, marque-pages et sites favoris en un seul endroit.
-

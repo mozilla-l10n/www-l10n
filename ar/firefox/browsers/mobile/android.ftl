@@ -57,4 +57,3 @@ mobile-android-short-cut-the-internet = اختصر الإنترنت مع { -bran
 mobile-android-see-all-your-open-tabs = شاهد جميع تبويباتك المفتوحة وآخر عمليات البحث والمواقع المُفضّلة، جميعُها في مكان واحد مع مُتصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-android }.
 mobile-android-own-your-home = امتلك شاشتك الرئيسية
 mobile-android-get-to-the-parts = انطلق بشكل أسرع إلى أجزاء الإنترنت التي تهتُم بها. شاهد جميع تبويباتك المفتوحة وآخر عمليات البحث والعلامات والمواقع المُفضّلة، جميعها في مكان واحد.
-

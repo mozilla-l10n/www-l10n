@@ -57,4 +57,3 @@ mobile-android-short-cut-the-internet = Jelajahi internet lebih cepat dengan { -
 mobile-android-see-all-your-open-tabs = Lihat semua tab terbuka, penelusuran terkini, dan situs favorit, semua di satu tempat dengan peramban { -brand-name-firefox } untuk { -brand-name-android }.
 mobile-android-own-your-home = Miliki kendali penuh atas layar utama Anda
 mobile-android-get-to-the-parts = Kunjungi situs favorit Anda lebih cepat. Anda dapat melihat semua tab terbuka, penelusuran terkini, markah, dan situs favorit semua di satu tempat.
-

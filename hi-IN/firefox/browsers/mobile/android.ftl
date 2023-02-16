@@ -57,4 +57,3 @@ mobile-android-short-cut-the-internet = { -brand-name-android } के लिए
 mobile-android-see-all-your-open-tabs = { -brand-name-android } के लिए { -brand-name-firefox } ब्राउज़र में अपने सभी खुले टैब, हाल की खोजें और पसंदीदा साइटें सभी एक ही स्थान पर देखें।
 mobile-android-own-your-home = होम स्क्रीन अपने मुताबिक बनाएं
 mobile-android-get-to-the-parts = इंटरनेट पर अपने काम की चीज़ों तक अधिक तेजी से पहुंच हासिल करें। अपने सभी खुले टैब, हाल की खोजें, बुकमार्क और पसंदीदा साइटें सभी एक ही स्थान पर देखना चुनें।
-

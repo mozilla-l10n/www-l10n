@@ -57,4 +57,3 @@ mobile-android-short-cut-the-internet = { -brand-name-android } 用 { -brand-nam
 mobile-android-see-all-your-open-tabs = { -brand-name-android } 用 { -brand-name-firefox } ブラウザーは、開いているタブ、最近の検索、お気に入りサイトをすべて 1 か所にまとめます。
 mobile-android-own-your-home = 自分だけのホーム画面
 mobile-android-get-to-the-parts = よく使うサイトにもっと早くアクセスできます。開いているタブ、最近の検索、ブックマーク、お気に入りのサイトをすべて 1 か所で見ることができます。
-
