@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -20,6 +20,5 @@ features-adblocker-choose-your-level-of-protection = Pumili ka ng antas ng iyong
 features-adblocker-go-easy-with-standard = Gawin ng madali gamit ang Standard Mode
 features-adblocker-do-it-yourself-custom = Do-it-yourself Custom mode
 features-adblocker-cover-your-trail-block = Itago ang iyong bakas, i-block ang mga trackers
-features-adblocker-send-a-do-not-track-signal = Magpadala ng Do Not Track signal
 features-adblocker-speed-up-thanks-to-ad = Pabilisin salamat sa mga ad blocker
 features-adblocker-take-control-of-your-browser = Kontrolin ang iyong browser.
