@@ -5,5 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: ຕົວທ່ອງເວັບຄວາມເປັນສ່ວນຕົວ
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } ແມ່ນບຣາວເຊີຄວາມເປັນສ່ວນຕົວສະເພາະຂອງທ່ານທີ່ມີການປ້ອງກັນການຕິດຕາມອັດຕະໂນມັດ.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-see-it-all = ເບິ່ງມັນໄວຂຶ້ນ
