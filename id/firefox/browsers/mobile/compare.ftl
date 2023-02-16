@@ -64,4 +64,3 @@ mobile-compare-get-firefox-for-mobile = Dapatkan { -brand-name-firefox } untuk s
 mobile-compare-send-a-download-link-to-your = Kirim tautan unduhan ke ponsel Anda.
 mobile-compare-scan-the-qr-code-to-get-started = Pindai kode QR untuk memulai
 mobile-compare-scan-alt-text = Pindai kode QR untuk memasang { -brand-name-firefox } di perangkat seluler Anda
-

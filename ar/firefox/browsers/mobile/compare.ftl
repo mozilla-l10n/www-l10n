@@ -64,4 +64,3 @@ mobile-compare-get-firefox-for-mobile = نزِّل متصفح { -brand-name-fire
 mobile-compare-send-a-download-link-to-your = أرسِل رابط تنزيل إلى هاتفك.
 mobile-compare-scan-the-qr-code-to-get-started = امسح رمز الاستجابة السريعة (QR) ضوئيًا للبدء
 mobile-compare-scan-alt-text = امسح رمز الاستجابة السريعة (QR) ضوئيًا لتنزيل متصفح { -brand-name-firefox } على جهازك المحمول
-

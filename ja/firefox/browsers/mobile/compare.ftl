@@ -64,4 +64,3 @@ mobile-compare-get-firefox-for-mobile = モバイル用 { -brand-name-firefox } 
 mobile-compare-send-a-download-link-to-your = スマートフォンにダウンロードリンクを送信。
 mobile-compare-scan-the-qr-code-to-get-started = まず QR コードをスキャンしてください
 mobile-compare-scan-alt-text = QR コードをスキャンしてモバイルデバイス用 { -brand-name-firefox } をダウンロードしてください
-
