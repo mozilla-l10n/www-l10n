@@ -90,4 +90,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Donasikan suara Anda agar masa depan web dapat memahami semua orang.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Pelajari lebih lanjut tentang bahasa yang baru, tingkat rendah, dan khas bahasa perakitan.
-
