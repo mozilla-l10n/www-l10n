@@ -32,6 +32,7 @@ mobile-focus-private-browsing-on-v2 = “Private browsing” on most browsers is
 mobile-focus-tracking-protection = Tracking protection
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } blocks a wide range of common trackers by default including social trackers and those sticky ones that come from things like { -brand-name-facebook } ads.
 mobile-focus-see-it-all = See it all faster
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } removes trackers so the pages you’re viewing require less data and load much faster. Also, pin up to four shortcuts on your home screen and get to your favourite site even quicker without typing anything.
 # Outdated string
 mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } removes trackers and enables adblockers so the pages you’re viewing require less data and load much faster. Also, pin up to four shortcuts on your home screen and get to your favourite site even quicker without typing anything.
 mobile-focus-made-by-mozilla = Made by { -brand-name-mozilla }
