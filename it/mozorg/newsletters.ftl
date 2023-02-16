@@ -22,6 +22,10 @@ newsletters-your-newsletter-subscription = La tua iscrizione alla newsletter è 
 newsletters-please-be-sure-to-add-our-v2 = Aggiungi alla rubrica l’indirizzo mozilla@email.mozilla.org con cui inviamo la newsletter per evitare che le nostre email finiscano nella posta indesiderata.
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Per avere la certezza di ricevere sempre i nostri messaggi, aggiungi alla rubrica l’indirizzo utilizzato per inviare la newsletter (mozilla@e.mozilla.org).
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = Il link utilizzato è scaduto. <a { $recovery_href }>Richiedi un nuovo link qui</a>.
+# Obsolete string
 newsletters-the-supplied-link-has-expired = Il link fornito è scaduto. Ne riceverai un altro nella prossima newsletter.
 newsletters-something-is-amiss-with = Spiacenti, c’è qualche problema col nostro sistema. Riprova più tardi.
 newsletters-youre-awesome = Sei un grande!
@@ -104,7 +108,6 @@ newsletters-put-more-fox-in-your-inbox = Ricevi notizie su Firefox direttamente 
 newsletters-see-where-the-web-can-take = Scopri dove può condurti il Web grazie a una serie mensile di trucchi e suggerimenti su { -brand-name-firefox } e un uso intelligente di Internet.
 newsletters-we-are-sorry-but-there = Si è verificato un problema sul nostro sistema. Riprova più tardi.
 newsletters-thanks-for-updating-your = Ti ringraziamo per aver aggiornato le tue preferenze email.
-newsletters-the-supplied-link-has-expired-long = Questo link è scaduto o non è valido. Ne riceverai un altro nella prossima newsletter, oppure puoi utilizzare il modulo qui sotto per richiederne l’invio via mail.
 newsletters-success-an-email-has-been-sent = Operazione effettuata con successo. Ti abbiamo inviato una email con il link per accedere alla pagina delle tue preferenze.
 newsletters-this-is-not-a-valid-email = L’indirizzo email non è valido. Controlla di averlo digitato correttamente.
 newsletters-you-send-too-many-emails = Mi inviate troppe email.
