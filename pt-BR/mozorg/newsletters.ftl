@@ -22,6 +22,10 @@ newsletters-your-newsletter-subscription = Sua inscrição no boletim informativ
 newsletters-please-be-sure-to-add-our-v2 = Certifique-se de adicionar nosso endereço de envio mozilla@email.mozilla.org no seu catálogo de endereços para garantir que nossas mensagens sempre cheguem à sua caixa de entrada.
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Adicione nosso endereço mozilla@e.mozilla.org em seus contatos para garantir que nossas mensagens sejam entregues corretamente.
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = O link fornecido expirou. <a { $recovery_href }>Peça aqui um novo link</a>.
+# Obsolete string
 newsletters-the-supplied-link-has-expired = O link fornecido expirou. Você receberá um novo no próximo boletim informativo.
 newsletters-something-is-amiss-with = Aconteceu algum problema em nosso sistema, desculpe! Tente novamente mais tarde.
 newsletters-youre-awesome = Você é incrível!
@@ -104,7 +108,6 @@ newsletters-put-more-fox-in-your-inbox = Tenha mais raposa na sua caixa de entra
 newsletters-see-where-the-web-can-take = Veja até onde a web pode te levar com dicas e truques semanais do { -brand-name-firefox } e informações da internet.
 newsletters-we-are-sorry-but-there = Desculpe, mas houve um problema em nosso sistema. Tente novamente mais tarde!
 newsletters-thanks-for-updating-your = Obrigado por atualizar suas preferências de email.
-newsletters-the-supplied-link-has-expired-long = O link fornecido expirou ou não é válido. Você receberá um novo na próxima newsletter ou você pode solicitar abaixo um email com o link.
 newsletters-success-an-email-has-been-sent = Sucesso! Um email foi enviado a você com um link para seu centro de preferências. Obrigado!
 newsletters-this-is-not-a-valid-email = Este não é um endereço de email válido. Verifique se digitou corretamente.
 newsletters-you-send-too-many-emails = Vocês mandam emails demais.
