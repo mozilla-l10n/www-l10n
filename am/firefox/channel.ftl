@@ -17,9 +17,22 @@ firefox-channel-try-new-features-in-a-pre = በቅድመ-መለቀቅ አዲስ 
 firefox-channel-download-and-test-future = ወደፊት የሚለቀቀውን { -brand-name-firefox }ን ለዴስክቶፕ፣ { -brand-name-android } እና { -brand-name-ios } ያውርዱ እና ይሞክሩ።
 firefox-channel-experience-cutting-edge-android-updated = ለ{ -brand-name-android }፡ { -brand-name-firefox-beta } እና { -brand-name-firefox-nightly } በቅድመ-ልቀት አሳሽ ውስጥ ማራኪ ባህሪያትን ይለማመዱ። አሁን ጫን!
 firefox-channel-experience-cutting-edge-android = ለ{ -brand-name-android }፡ { -brand-name-firefox-beta }፣ { -brand-name-firefox-aurora } እና { -brand-name-firefox-nightly } በቅድመ-ልቀት አሳሽ ውስጥ ማራኪ ባህሪያትን ተለማመዱ።  አሁን ጫን!
+firefox-channel-download-and-test-the-latest-android = ለ{ -brand-name-android } ባህሪያት በ{ -brand-name-aurora }፣ { -brand-name-beta } እና { -brand-name-nightly } የቅርብ ጊዜውን የተገነባ{ -brand-name-firefox } ያውርዱ እና ይሞክሩት።
+firefox-channel-try-the-latest-android-features = ለተቀረው አለም ከመለቀቃቸው በፊት የቅርብ ጊዜዎቹን የ{ -brand-name-android } ባህሪያት ይሞክሩ።
+firefox-channel-all-languages-and-platforms = ሁሉም ቋንቋዎች እና መድረኮች
 firefox-channel-all-languages-and-builds = ሁሉም ቋንቋዎች እና ስራዉች
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ያልተረጋጋ የሙከራ እና በመበልፀግ ላይ ያለ መድረክ ነው። በነባሪ { -brand-name-beta } ችግሮችን እንድንፈታ እና ሀሳቦችን እንድንሞክር ለማገዝ ወደ { -brand-name-mozilla } — እና አንዳንዴም ወደ አጋሮቻችን — ውሂብ ይልካል። <a href="{ $link }">ምን እንደተጋራ ይወቁ</a>።
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } በራስ ሰር ወደ { -brand-name-mozilla } ግብረ መልስ ይልካል።
+# Variables:
+#   $feedback (url) - link to https://input.mozilla.com/feedback
+firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">አስተያየት ይስጡን</a> በተረጋጋ አካባቢ ውስጥ በአፈጻጸም እና ተግባራዊነት ላይ የመጨረሻ ለውጦችን እንድናደርግ ይረዳናል።
+firefox-channel-check-out-new-android-features = አዲስ የ{ -brand-name-android } ባህሪያትን በመጀመሪያ ደረጃቸው ይመልከቱ። በራስዎ ኃላፊነት ይደሰቱ።
 firefox-channel-nightly-blog = { -brand-name-nightly } ጦማር
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ያልተረጋጋ የሙከራ እና በስሪት ያለ መድረክ ነው። በነባሪ { -brand-name-nightly } ችግሮችን እንድንቋቋም እና ሀሳቦችን እንድንሞክር ለማገዝ ወደ { -brand-name-mozilla } — እና አንዳንዴም ወደ አጋሮቻችን — ውሂብ ይልካል። <a href="{ $link }">ምን እንደተጋራ ይወቁ</a>።
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } በራስ ሰር ወደ { -brand-name-mozilla } ግብረ መልስ ይልካል።
 firefox-channel-try-new-browser-features = በቅድመ-መለቀቅ ስሪቶች ውስጥ አዲስ የአሳሽ ባህሪያትን ይሞክሩ | { -brand-name-firefox }
 firefox-channel-beta = { -brand-name-beta }

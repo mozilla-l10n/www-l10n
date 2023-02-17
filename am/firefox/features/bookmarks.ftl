@@ -21,9 +21,13 @@ features-bookmarks-fly-with-that-bookmark = ዕልባቱን ወደፈለጉት �
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = ተወዳጆችዎን በበረራ ላይ ይውሰዱ። ዕልባቶችዎን በሁሉም መሳሪያዎችዎ ላይ ከዴስክቶፕ ወደ ሞባይል ለመድረስ { -brand-name-firefox-sync }ን ይጠቀሙ። ወይም ማንኛውንም የመስመር ላይ ጽሑፍ ወይም ገጽ ለማስቀመጥ <a href="{ $url }">{ -brand-name-pocket }</a>ን ይሞክሩ እና ወደ በኋላ ይመለሱ - ያለ በይነመረብ እንኳን።
+features-bookmarks-customize-that-bookmark = ያንን ዕልባት አብጅ
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = ከዕልባቱ ጋር ትንሽ ጊዜ ያሳልፉ
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = ከሙሉ ገጽ ቅጽበተ-ፎቶዎች እስከ ፈጣን-ተለዋዋጭ የጎን አሞሌዎች እስከ የተቆለፉ የግል ዕልባቶች ድረስ በእያንዳንዱ የዕልባት አስተዳዳሪ <a href="{ $url }">ላይ-ተጨማሪ</a> ትክክለኛነትዎን ይለማመዱ።
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
