@@ -28,7 +28,14 @@ newsletters-please-be-sure-to-add-our-v2 = Bitte nehmen Sie unsere E-Mail-Adress
 
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Bitte fügen Sie die E-Mail-Adresse mozilla@e.mozilla.org zu Ihrer Kontaktliste hinzu, damit unsere E-Mails Sie erreichen.
+
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = Der angegebene Link ist abgelaufen. Bitte <a { $recovery_href }>fordern Sie hier einen neuen Link an</a>.
+
+# Obsolete string
 newsletters-the-supplied-link-has-expired = Der angegebene Link ist abgelaufen. Im nächsten Newsletter erhalten Sie einen neuen.
+
 newsletters-something-is-amiss-with = Es tut uns leid, mit unserem System stimmt etwas nicht! Bitte versuchen Sie es später erneut.
 newsletters-youre-awesome = Sie sind klasse!
 newsletters-and-were-not-just-saying = Und das nicht nur, weil Sie uns Ihre E-Mail-Adresse anvertraut haben.
@@ -137,7 +144,6 @@ newsletters-see-where-the-web-can-take = Einmal im Monat zeigen wir dir mit Tipp
 
 newsletters-we-are-sorry-but-there = Es tut uns leid, in unserem System ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut!
 newsletters-thanks-for-updating-your = Danke für die Aktualisierung Ihrer E-Mail-Einstellungen.
-newsletters-the-supplied-link-has-expired-long = Der angegebene Link ist abgelaufen oder ungültig. Mit dem nächsten Newsletter erhalten Sie einen neuen, Sie können im Folgenden aber auch eine E-Mail mit dem Link anfordern.
 newsletters-success-an-email-has-been-sent = Geschafft! An Sie wurde eine E-Mail mit dem Einstellungs-Link verschickt. Danke!
 newsletters-this-is-not-a-valid-email = Dies ist keine gültige E-Mail-Adresse. Bitte überprüfen Sie die Schreibweise.
 newsletters-you-send-too-many-emails = Ihr habt zu viele E-Mails geschickt.
