@@ -44,6 +44,10 @@ firefox-desktop-download-primary-password = ዋና የይለፍ ቃል
 firefox-desktop-its-your-internet = የእርስዎ በይነመረብ ነው። በሺዎች በሚቆጠሩ መሳሪያዎች፣ ገጽታዎች እና ቅጥያዎች በፈለጉት መንገድ ያሳምሩት። { -brand-name-firefox } ሰዎችን ከትርፍ በፊት የሚያስቀድም የመጀመሪያው አማራጭ አሳሽ ነው።
 # Obsolete string
 firefox-desktop-download-master-password = ዋና የይለፍ ቃል
+firefox-desktop-download-we-block-the-ad = እኛ የማስታወቂያ መከታተያዎችን እናግዳለን። እርስዎ በይነመረቡን በፍጥነት ያስሱ።
+firefox-desktop-download-ads-are-distracting = ማስታወቂያዎች ትኩረት የሚከፋፍሉ እና ድረ-ገጾች በዝግታ እንዲጫኑ ሲያደርጉ ተከታታዮቻቸው ደሞ በመስመር ላይ የሚያደርጉትን እያንዳንዱን እንቅስቃሴ ይመለከታሉ። { -brand-name-firefox-browser } ብዙ መከታተያዎችን በራስ ሰር ያግዳል፣ ስለዚህ የደህንነት ቅንብሮችዎ ውስጥ መቆፈር አያስፈልግም።
+firefox-desktop-download-see-your-report = የጥበቃ ሪፖርትዎን ይመልከቱ
+firefox-desktop-download-for-everyone = { -brand-name-firefox } ለሁሉም ነው
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
