@@ -52,7 +52,7 @@ vpn-landing-faq-uses-examples = 看看 5 个<a href="{ $url }">现实生活中�
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 会保存哪些信息？
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = 我们严格遵循 { -brand-name-mozilla } 的 <a href="{ $principles }">数据隐私准则</a>，只收集保持 VPN 正常运行和改进产品所需的信息。我们也会跟踪移动应用程序上的活动和推荐数据，以帮助 { -brand-name-mozilla } 了解营销活动的有效性。可阅读我们的<a href="{ $notice }">隐私声明</a>进一步了解。
 # Obsolete string
 # Variables:
@@ -138,6 +138,8 @@ vpn-landing-faq-link = 参阅更多常见问题
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = 加入预约名单：{ -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = 当 { -brand-name-mozilla-vpn } 可用于您的区域时，将会收到通知。
+# Outdated string
 vpn-landing-invite-page-desc = 当 { -brand-name-mozilla-vpn } 可用于您的设备和区域时，将会收到通知。
 vpn-landing-invite-page-heading = 加入 VPN 预约名单
 vpn-landing-invite-email-label = 您的电子邮件地址是什么？
@@ -146,17 +148,8 @@ vpn-landing-invite-required-label = 必填
 vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = 您生活在哪个国家/地区？
 vpn-landing-invite-language-label = 选择您的首选语言
-vpn-landing-invite-platform-label = 您对哪些平台感兴趣？
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = 点击“加入预约名单”，即表示您同意我们的 <a href="{ $privacy }">隐私政策</a>。
 vpn-landing-invite-your-information = 您的信息仅会用于向您通知平台可用性。
 vpn-landing-invite-thanks-heading = 感谢！您已成功加入
