@@ -107,6 +107,12 @@ firefox-desktop-download-challenging-the-status = ከ 1998 ጀምሮ ያለው�
 firefox-desktop-download-your-privacy-comes = የእርስዎ ግላዊነት ይቀድማል
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = ሁሉንም ተወዳጅ የአሳሽ ባህሪያትን ያስቀምጡ - እና አዳዲሶችን <strong>ያግኙ</strong>።
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = ሁሉም የእርስዎ ተወዳጅ የ{ -brand-name-google } መሳሪያዎች (እንደ Gmail እና ሰነዶች ያሉ) በ{ -brand-name-firefox-browser } ውስጥ ያለምንም እንከን ይሰራሉ።
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = { -brand-name-facebook } (እና { -brand-name-instagram }) እርስዎን በድሩ ላይ እንዳይከታተሉዎት ለማቆም <a { $attrs } >ይህን የአሳሽ ቅጥያ ያውርዱ</a>።
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
