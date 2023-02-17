@@ -50,6 +50,29 @@ firefox-desktop-download-see-your-report = የጥበቃ ሪፖርትዎን ይ�
 firefox-desktop-download-for-everyone = { -brand-name-firefox } ለሁሉም ነው
 firefox-desktop-download-available-in-over = ከ90 በላይ ቋንቋዎች ላይ የሚገኝ፣ እንዲሁም ከ{ -brand-name-windows }፣ { -brand-name-mac-short } እና { -brand-name-linux } ማሽኖች፣ { -brand-name-firefox } ጋር ያለምንም ችግር ምንም ቢጠቀሙ ወይም የትም ቢሆኑ ይሰራል።  ለተሻለ ልምድ የእርስዎ ስርዓተ ክወና ወቅታዊ መሆኑን ያረጋግጡ።
 firefox-desktop-download-review-system-req = የአሰራር ስርዓቱ የሚፈልገውን ይገምግሙ
+firefox-desktop-download-all-your-devices = { -brand-name-firefox }ን በሁሉም መሳሪያዎችዎ ላይ ያድርጉ
+firefox-desktop-download-take-your-privacy = ግላዊነትዎን በሁሉም ቦታ ከእርስዎ ጋር ይውሰዱት። { -brand-name-firefox-browsers } ለ{ -brand-name-ios } እና { -brand-name-android } የትም ይሁኑ የትም መከታተያዎች በድሩ ላይ እርስዎን እንዳይከተሉ ለመከላከል ተመሳሳይ ጠንካራ የግላዊነት ቅንጅቶች አሏቸው።
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = በ{ -brand-name-firefox } <strong>ሁሉንም</strong> ያድርጉት
+firefox-desktop-download-search-smarter = በጥበብ፣ በፍጥነት ይፈልጉ
+firefox-desktop-download-search-from-address = ከአድራሻ አሞሌ ይፈልጉ
+firefox-desktop-download-search-engine-options = የፍለጋ ፍርግም አማራጮች
+firefox-desktop-download-smart-search-suggestions = ብልህ የፍለጋ ጥቆማዎች
+firefox-desktop-download-bookmark-history = በውጤቶች ውስጥ ዕልባት ፣ ታሪክ እና ትርን ይክፈቱ
+firefox-desktop-download-boost-your = ምርታማነትዎን ያሳድጉ
+firefox-desktop-download-works-with-google = ከ{ -brand-name-google } ምርቶች ጋር ይሰራል
+firefox-desktop-download-built-in-screenshot = አብሮ የተሰራ ቅጽበታዊ ገጽ እይታ መሣሪያ
+firefox-desktop-download-bookmarks-manager = የዕልባቶች አስተዳዳሪ
+firefox-desktop-download-autosuggest-urls = URLsን በራስ ጠቁም
+firefox-desktop-download-reader-mode = የአንባቢ ሁነታ
+firefox-desktop-download-spell-check = የፊደል አጻጻፍ
+firefox-desktop-download-pinned-tabs = የተሰኩ ትሮች
+firefox-desktop-download-stream-share-play = ይልቀቁ፣ ያጋሩ እንዲሁም ይጫወቱ
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = ተንቀሳቃሽ ምስል እና ድምፅን በራስ-ማጫወት አግድ
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = ሥዕል-በሥዕል
+firefox-desktop-download-curated-content-on = በአዲስ ትር ላይ የተመረጠ ይዘት
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
