@@ -52,7 +52,7 @@ vpn-landing-faq-uses-examples = Δείτε <a href="{ $url }">πέντε πρα�
 vpn-landing-faq-info-question-heading = Ποιες πληροφορίες διατηρεί το { -brand-name-mozilla-vpn };
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Τηρούμε αυστηρά τις <a href="{ $principles }">Αρχές απορρήτου δεδομένων</a> της { -brand-name-mozilla } και συλλέγουμε τα δεδομένα που απαιτούνται για να παραμείνει λειτουργικό και να βελτιώνεται συνεχώς το VPN. Καταγράφονται επίσης τα δεδομένα εκστρατειών και παραπομπών στην εφαρμογή μας για κινητές συσκευές, ώστε να κατανοήσει καλύτερα η { -brand-name-mozilla } την αποτελεσματικότητα των καμπανιών μάρκετινγκ μας. Διαβάστε περισσότερα στη <a href="{ $notice }">Σημείωση απορρήτου</a> μας.
 # Obsolete string
 # Variables:
@@ -138,6 +138,8 @@ vpn-landing-faq-link = Δείτε περισσότερες συχνές ερωτ
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Εγγραφή στη λίστα αναμονής: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Ενημερωθείτε όταν το { -brand-name-mozilla-vpn } γίνει διαθέσιμο στην περιοχή σας.
+# Outdated string
 vpn-landing-invite-page-desc = Ενημερωθείτε όταν το { -brand-name-mozilla-vpn } γίνει διαθέσιμο για τη συσκευή και την περιοχή σας.
 vpn-landing-invite-page-heading = Εγγραφή στη λίστα αναμονής VPN
 vpn-landing-invite-email-label = Ποια είναι η διεύθυνση email σας;
@@ -146,17 +148,8 @@ vpn-landing-invite-required-label = Απαιτείται
 vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = Σε ποια χώρα κατοικείτε;
 vpn-landing-invite-language-label = Επιλέξτε την προτιμώμενη γλώσσα σας.
-vpn-landing-invite-platform-label = Ποιες πλατφόρμες σας ενδιαφέρουν;
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Κάνοντας κλικ στο “Εγγραφή στη λίστα αναμονής”, αποδέχεστε την <a href="{ $privacy }">Πολιτική απορρήτου</a> μας.
 vpn-landing-invite-your-information = Τα στοιχεία σας θα χρησιμοποιηθούν αποκλειστικά για την ενημέρωσή σας σχετικά με τη διαθεσιμότητα.
 vpn-landing-invite-thanks-heading = Ευχαριστούμε! Είστε στη λίστα
