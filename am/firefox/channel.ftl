@@ -35,7 +35,12 @@ firefox-channel-nightly-blog = { -brand-name-nightly } ጦማር
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ያልተረጋጋ የሙከራ እና በስሪት ያለ መድረክ ነው። በነባሪ { -brand-name-nightly } ችግሮችን እንድንቋቋም እና ሀሳቦችን እንድንሞክር ለማገዝ ወደ { -brand-name-mozilla } — እና አንዳንዴም ወደ አጋሮቻችን — ውሂብ ይልካል። <a href="{ $link }">ምን እንደተጋራ ይወቁ</a>።
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } በራስ ሰር ወደ { -brand-name-mozilla } ግብረ መልስ ይልካል።
 firefox-channel-try-new-browser-features = በቅድመ-መለቀቅ ስሪቶች ውስጥ አዲስ የአሳሽ ባህሪያትን ይሞክሩ | { -brand-name-firefox }
+firefox-channel-experience-cutting-edge-desktop = በቅድመ-መለቀቅ ስሪቶች ውስጥ በጣም ጥሩ የአሳሽ ባህሪያትን ይለማመዱ፡{ -brand-name-firefox-developer-edition }፣ { -brand-name-firefox-beta } እና { -brand-name-firefox-nightly }። አሁኑኑ አውርድ!
+firefox-channel-download-and-test-the-latest-desktop = ለዴስክቶፕ ባህሪያት በ{ -brand-name-developer-edition }፣ { -brand-name-beta } እና { -brand-name-nightly } የቅርብ ጊዜ ስሪቶችን { -brand-name-firefox } ያውርዱ እና ይሞክሩት።
 firefox-channel-beta = { -brand-name-beta }
+firefox-channel-test-about-to-be-released = በጣም በተረጋጋ የቅድመ-ልቀት ግንባታ ውስጥ ሊለቀቁ የሚችሉ ባህሪያትን ይሞክሩ።
+firefox-channel-release-notes = የመልቀቂያ ማስታወሻዎች
+firefox-channel-previous-nightly-builds = ቀዳሚ { -brand-name-nightly } ስሪቶች
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = ይስሩ ይሞክሩ ያመዛዝኑ እና ሌሎችም ይሄ ሁሉ በአንድ አሳሽ ለዴቬሎፐር ተብሎ የተሰራ
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } በራስ ሰር ወደ { -brand-name-mozilla } ግብረ መልስ ይልካል።
