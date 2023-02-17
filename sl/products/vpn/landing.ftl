@@ -119,6 +119,8 @@ vpn-landing-faq-link = Več pogosto zastavljenih vprašanj
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Vpišite se na čakalni seznam: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Naj vas obvestimo, ko bo { -brand-name-mozilla-vpn } na voljo v vaši državi.
+# Outdated string
 vpn-landing-invite-page-desc = Naj vas obvestimo, ko bo { -brand-name-mozilla-vpn } na voljo za vašo napravo in državo.
 vpn-landing-invite-page-heading = Vpišite se na čakalni seznam za VPN
 vpn-landing-invite-email-label = Kakšen je vaš e-poštni naslov?
@@ -127,15 +129,6 @@ vpn-landing-invite-required-label = Zahtevano
 vpn-landing-invite-email-placeholder = vase.ime@example.com
 vpn-landing-invite-country-label = V kateri državi živite?
 vpn-landing-invite-language-label = Izberite želeni jezik.
-vpn-landing-invite-platform-label = Katere platforme vas zanimajo?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = S klikom na "Vpišite se na čakalni seznam" se strinjate z našo <a href="{ $privacy }">politiko zasebnosti</a>.
