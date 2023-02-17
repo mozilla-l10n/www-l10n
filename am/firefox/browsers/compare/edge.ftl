@@ -11,6 +11,7 @@ compare-edge-firefox-vs-microsoft-edge-which = ከ{ -brand-name-firefox } እና
 compare-edge-compare-microsoft-edge-to-the = የትኛው ለእርስዎ የተሻለው አሳሽ እንደሆነ ለማወቅ { -brand-name-microsoft } { -brand-name-edge }ን ከ{ -brand-name-firefox-browser } ጋር ያወዳድሩ።
 # Main title.
 compare-edge-comparing-firefox-browser-with = { -brand-name-firefox-browser }ን ከ{ -brand-name-microsoft }  { -brand-name-edge } ጋር ማወዳደር
+compare-edge-here-well-compare-our-firefox = እዚህ ጋ የትኛው አሳሽ ከእርስዎ ፍላጎቶች እና ምርጫዎች ጋር እንደሚስማማ የተሻለ ግንዛቤ እንዲኖርዎት ለማገዝ፤ የእኛን { -brand-name-firefox-browser } ከ { -brand-name-chromium } ላይ ከተመሰረተው { -brand-name-microsoft } { -brand-name-edge } ጋር በግላዊነት፣ መገልገያ እና ቀላልነት እናነፃፅራለን።
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = የእርስዎ <a { $attrs }>የግላዊነት ጥበቃዎች</a> ገጾች ለመውጣት የሞከሩባቸውን መከታተያዎች እና ኩኪዎች እና ስንት { -brand-name-firefox } እንደከለከሉ ያሳይዎታል።
