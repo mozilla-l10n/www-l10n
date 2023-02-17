@@ -43,9 +43,16 @@ firefox-channel-release-notes = የመልቀቂያ ማስታወሻዎች
 firefox-channel-previous-nightly-builds = ቀዳሚ { -brand-name-nightly } ስሪቶች
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = ይስሩ ይሞክሩ ያመዛዝኑ እና ሌሎችም ይሄ ሁሉ በአንድ አሳሽ ለዴቬሎፐር ተብሎ የተሰራ
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ያልተረጋጋ የሙከራ እና በመበልፀግ ላይ ያለ መድረክ ነው። በነባሪ { -brand-name-developer-edition }ችግሮችን እንድንፈታ እና ሀሳቦችን እንድንሞክር ለማገዝ ወደ { -brand-name-mozilla } — እና አንዳንዴም ወደ አጋሮቻችን — ውሂብ ይልካል። <a href="{ $link }">ምን እንደተጋራ ይወቁ</a>።
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } በራስ ሰር ወደ { -brand-name-mozilla } ግብረ መልስ ይልካል።
 firefox-channel-nightly = { -brand-name-nightly }
+firefox-channel-get-a-sneak-peek-at-our = የእኛን ቀጣዩ ትውልድ የድር አሳሽ ይመልከቱ እና እሱ ሊሆን የሚችለውን ምርጥ አሳሽ እንድናደርገው ይርዳን፡ { -brand-name-firefox-nightly }ን ይሞክሩ።
 firefox-channel-test-brand-new-features = አዳዲስ ባህርያት ይሞክሩ በየዕለቱ (ወይም ... በየምሽቱ):: በራስዎ ሀላፊነት ይደሰቱ.
 firefox-channel-try-new-features-in-a-pre-release = በቅድመ-መለቀቅ አዲስ ባህሪያትን ይሞክሩ { -brand-name-ios } አሳሽ | { -brand-name-firefox }
+firefox-channel-experience-cutting-edge-features-ios = ለ{ -brand-name-apple } በ{ -brand-name-apple } { -brand-name-test-flight } ፕሮግራም በኩል ለ{ -brand-name-ios } በቅድመ-ልቀት አሳሽ ውስጥ ጥሩ ባህሪያትን ተለማመዱ። አሁን ጫን!
+firefox-channel-test-beta-versions-of-firefox-ios-long = የ{ -brand-name-firefox }ን የቅድመ-ይሁንታ ስሪቶችን ለ{ -brand-name-ios } በ{ -brand-name-apple }’s { -brand-name-test-flight } ፕሮግራም ይሞክሩ እና የስልክ አሳሻችንን ለማመቻቸት ያግዙን። { -brand-name-iphone }፣ { -brand-name-ipad } እና iPod touch በተሻለ ሁኔታ።
 firefox-channel-test-flight = { -brand-name-test-flight }
+firefox-channel-test-beta-versions-of-firefox-ios = የ{ -brand-name-firefox }ን የቅድመ-ይሁንታ ስሪቶችን ለ{ -brand-name-ios } በ{ -brand-name-apple } { -brand-name-test-flight } መተግበሪያ በኩል ይሞክሩ።
 firefox-channel-sign-up-now = አሁን ይመዝገቡ
