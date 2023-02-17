@@ -25,5 +25,12 @@ compare-brave-whether-this-sounds-complicated = ይህ የተወሳሰበ ቢመ
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = በሳንቲሙ በሌላኛው ጎን፣ በ{ -brand-name-firefox } አሳሽ፣ ነገሮችን ቀላል ማድረግ እንመርጣለን። { -brand-name-firefox } ብዙ የሶስተኛ ወገን መከታተያ፣ ምናባዊ ገንዘብ ቆፋሪዎች እና የጣት አሻራ መከታተያዎች በነባሪነት እርስዎን እንዳይከተሉ ያግዳል። ነገር ግን፣ { -brand-name-firefox }፣ ከግል አሰሳ ሁነታ ውጭ፣ የማሳያ ማስታወቂያዎች እንዳይታዩ አለማገድን ይመርጣል። ይኸውም <a { $attrs }>ለዚያ ዓላማ ተብለው ከተዘጋጁት ቅጥያዎች ውስጥ አንዱን</a> ካልጫኑ በስተቀር።
+# Variables:
+#   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
+#   $extension (string) - link to https://addons.mozilla.org/addon/https-everywhere/ with additional attributes for analytics
+#   $privacy (string) - link to /firefox/privacy/products/ with additional attributes for analytics
+compare-brave-there-are-a-few-of-braves = በ{ -brand-name-brave } ውስጥ እንደ ራስ ሰር የኤችቲቲፒኤስ ግንኙነት ማሻሻያዎች ({ -brand-name-firefox } እንዲሁም በ<a { $extension }>ቅጥያ</a> የሚያቀርበው በ{ -brand-name-brave } ውስጥ ያሉ ጥቂት የደህንነት ባህሪያት አሉ። ). { -brand-name-brave } እና { -brand-name-firefox } ሁለቱም ለተጠቃሚዎች ቤተኛ <a { $lockwise }>የይለፍ ቃል አስተዳዳሪ</a> እና በማንኛውም ጊዜ የደህንነት ስታቲስቲክስ የመፈተሽ ችሎታ ይሰጣሉ። { -brand-name-brave } አዲስ ትር በከፈቱ ቁጥር እንደከለከለው የመከታተያ ብዛት አይነት ስታቲስቲክስን ያሳያል። { -brand-name-firefox } <a { $privacy }>የእርስዎን የግላዊነት ሪፖርት</a> ሲመለከቱ ተመሳሳይ መረጃ ያሳያል ይህም በአድራሻ አሞሌው ውስጥ ያለውን ጋሻ ጠቅ በማድረግ በማንኛውም ጊዜ ሊደረስበት ይችላል።
+# "Basic Attention Token" is a brand name.
+compare-brave-the-bottom-line-is-that-even = ዋናው ነገር በምን ሁኔታ{ -brand-name-brave } ምንም እንኳን ከመሠረታዊ ትኩረት ቶክኖች ጋር ያለው የገቢ ሞዴል ለብዙ ተጠቃሚዎች በጣም ውስብስብ ሊሆን ቢችልም በአጠቃላይ ሁለቱም { -brand-name-brave } እና{ -brand-name-firefox }አሳሾች ደህንነቱ የተጠበቀ እና አስደሳች የግል አሰሳን በተለያዩ መንገዶችን ይሰጣሉ።
 compare-brave-what-might-surprise-some-new = አንዳንድ አዳዲስ { -brand-name-brave } ተጠቃሚዎችን ሊያስደንቅ የሚችለው ነገር ገፆች በአሳሹ ውስጥ ምን ያህል በፍጥነት እንደሚጫኑ ነው። የእነዚህ ፈጣን ጭነት ጊዜዎች ምክንያቱ ሁሉንም ማስታወቂያዎች በእነሱ ላይ ሲያግዱ ገጾቹ በፍጥነት ስለሚጫኑ ነው። በቀላሉ ለመጫን ያነሰ ስለሆነ ትንሽ ጊዜ ይወስዳል።
 compare-brave-in-terms-of-actual-precious = ከትክክለኛው ውድ የ RAM አጠቃቀም አንጻር የ{ -brand-name-brave } አሳሽ ከ{ -brand-name-firefox } የበለጠ ከባድ ነው። { -brand-name-brave } ቀድሞ ከተለያዩ ባህሪያት እና "ማከያዎች" ጋር ተጭኖ ነው የሚመጣው፤ ይህም ተጨማሪ RAM ለመጠቀሙ ምክንያት ነው። { -brand-name-firefox }፣ በሌላ በኩል፣ የትኞቹን ማከያዎች እና ቅጥያዎች ማሰር እንደሚፈልጉ እንዲወስኑ ያስችልዎታል።
