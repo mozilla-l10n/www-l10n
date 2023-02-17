@@ -105,6 +105,8 @@ firefox-desktop-download-theres-no-need = መፍታት አያስፈልግም። 
 firefox-desktop-download-backed-by-the = ሰዎችን በማስቀደም በ<strong>ትርፍ ያልሆነ</strong> የተደገፈ
 firefox-desktop-download-challenging-the-status = ከ 1998 ጀምሮ ያለውን ታዋቂ ሁኔታ በመታገል ላይ
 firefox-desktop-download-your-privacy-comes = የእርስዎ ግላዊነት ይቀድማል
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = ሁሉንም ተወዳጅ የአሳሽ ባህሪያትን ያስቀምጡ - እና አዳዲሶችን <strong>ያግኙ</strong>።
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
