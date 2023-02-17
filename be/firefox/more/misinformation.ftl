@@ -22,6 +22,8 @@ misinformation-images-captions = Ці адпавядаюць подпісу ві
 misinformation-how-firefox-helps-heading = Як { -brand-name-firefox } дапамагае пазбегнуць дэзінфармацыі
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } блакіруе трэкеры:
 misinformation-social-media-clean-heading = { -brand-name-firefox } дапамагае падтрымліваць чысціню вашых стужак у сацыяльных сетках:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = { -brand-name-firefox } дапамагае знайсці кантэнт, які варты вашага часу:
 misinformation-why-trust-firefox = Чаму варта давяраць { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
