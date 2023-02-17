@@ -17,4 +17,7 @@ compare-chrome-at-firefox-we-have-a-huge = በ{ -brand-name-firefox } ላይ፣ 
 compare-chrome-and-so-here-we-are-the-browser = እናም እዚህ ጋ ነን፣ የአሳሽ-ጦርነቶች እንደገና እያደጉ ናቸው እና { -brand-name-firefox-browser }ን ከ { -brand-name-google } { -brand-name-chrome } እንደገና ለመገምገም እና ለማወዳደር ጊዜው አሁን ነው።
 compare-chrome-in-2008-google-introduced = እ.ኤ.አ. በ2008፣ { -brand-name-google } { -brand-name-chrome }ን አስተዋወቀ፣ እና በአሳሽ ቴክኖሎጂ ውስጥ እንደ ፈጠራ ያለው ተፅእኖ ወዲያውኑ ነበር። ድረ-ገፆችን ለመጫን ፈጣን ነበር፣ አነስተኛውን የስክሪን ቦታ የወሰደ እና የማይካድ ቀላል የተጠቃሚ በይነገጽ አቅርቧል።
 compare-chrome-in-fact-both-chrome-and-firefox = በእርግጥ፣ ሁለቱም { -brand-name-chrome } እና { -brand-name-firefox } ጥብቅ ደህንነት አላቸው። ሁለቱም "ማጠሪያ" የሚባል ነገር ያካትታሉ። ይህም የአሳሹን ሂደቶች የሚለያይ ሲሆን እንደ ጎጂ ድረ-ገጽ ያለ ነገር የጭን ኮምፒውተሮችዎን ሌሎች ክፍሎች ወይም ሌላ መሳሪያዎን እንዳይበክል ነው።
+# "Gmail" and "Google Docs" are brand names.
+compare-chrome-in-terms-of-features-both = በባህሪያት፣ ሁለቱም { -brand-name-firefox } እና { -brand-name-chrome } ትልቅ የቅጥያዎች እና ተሰኪዎች ቤተ-መጽሐፍት ይሰጣሉ፣ የ{ -brand-name-chrome } ዝርዝር ከሌላው በእጅጉ ይበልጣል፤ ከሌሎች የ{ -brand-name-google } አገልግሎቶች እንደ Gmail እና { -brand-name-google } Docs ጋር በደንብ የተዋሃደ ነው።
+compare-chrome-firefox-also-has-a-sync-feature = { -brand-name-firefox } እንዲሁም የእርስዎን ክፍት እና የቅርብ ጊዜ ትሮች፣ የአሰሳ ታሪክ እና ዕልባቶች በሁሉም መሳሪያዎችዎ ላይ ለማየት የማመሳሰል ባህሪ አለው።
 compare-chrome-almost-needless-to-say-versions = የሁለቱም የ{ -brand-name-firefox } እና { -brand-name-chrome } ስሪቶች በጣም ታዋቂ ለሆኑ የዴስክቶፕ እና የሞባይል ኦፕሬቲንግ ሲስተሞች ({ -brand-name-windows }፣ { -brand-name-mac }፣ { -brand-name-linux }፣ { -brand-name-android }፣ { -brand-name-ios }) ይገኛሉ ማለት ይቻላል።
