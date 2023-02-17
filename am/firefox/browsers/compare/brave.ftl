@@ -49,3 +49,4 @@ compare-brave-the-firefox-browser-also-gives = የ{ -brand-name-firefox } አሳ
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } በቅርብ ጊዜም በብዙ ታዋቂ ስርዓተ ክወናዎች እና መሳሪያዎች ላይ ውሂብን የማመሳሰል ችሎታን እንዲሁም የመሠረታዊ ትኩረት ቶከንዎን የማመሳሰል ችሎታ አግኝቷል።
 compare-brave-when-comparing-the-two-browsers = ሁለቱን አሳሾች በሚያወዳድሩበት ጊዜ፣ ሁለቱም { -brand-name-firefox } እና { -brand-name-brave } በነባሪነት የተራቀቀ የግላዊነት እና የደህንነት ደረጃ ያቀርባሉ፣ ከመጀመሪያው ጊዜ ጀምሮ ወዲያውኑ ይገኛል።
+compare-brave-overall-brave-is-a-fast-and = ባጠቃላይ፣ { -brand-name-brave } ፈጣን እና ደህንነቱ የተጠበቀ አሳሽ ሲሆን በተለይ ለ cryptocurrency ተጠቃሚዎች የሚስብ ነው። ግን ለአብዛኛዎቹ የበይነመረብ ዜጎች { -brand-name-firefox } የተሻለ እና ቀላል መፍትሄ ሆኖ ይቆያል።
