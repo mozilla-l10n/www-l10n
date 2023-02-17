@@ -10,5 +10,6 @@ whatsnew-111-pdf-title = Una lettera alla<br> tua stampante
 # An alternative title without a line break, to use as an accessible label
 whatsnew-111-pdf-title-alt = Una lettera alla tua stampante
 whatsnew-111-pdf-its-spring-cleaning-season = È la stagione delle pulizie di primavera: è tempo di sbarazzarsi di tutto ciò che non ti serve più… come la tua stampante. Modifica facilmente i documenti con l’editor PDF integrato di { -brand-name-firefox }.
+whatsnew-111-pdf-try-it-out-now-and-say = Provalo subito e scordati una volta per tutte della carta inceppata.
 # Call to action button
 whatsnew-111-pdf-cta = Provalo ora
