@@ -24,6 +24,26 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ድ�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = በመስመር ላይ የሚያደርጉትን ያድርጉ።<br> { -brand-name-firefox-browser } <strong>አያይም</strong>።
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } ከሌሎች አሳሾች ጋር እንዴት እንደሚወዳደር
+firefox-desktop-download-get-all-the-speed = ከማንኛውም የግላዊነት ወረራ ውጭ ሁሉንም ፍጥነት እና መሳሪያዎችን ያግኙ። { -brand-name-firefox-browser } ስለእርስዎ በጣም ትንሽ ውሂብ ይሰበስባል፣ ለማውረድ የኢሜይል አድራሻዎን እንኳን አንፈልግም። ይህ የሆነበት ምክንያት እንደሌሎች አሳሾች እርስዎን በድር ላይ በመከታተል ረገድ ምንም አይነት የገንዘብ ድርሻ የለንም።
+firefox-desktop-download-how-we-compare = ከሌሎች አሳሾች ጋር እንዴት እናወዳድር
+firefox-desktop-download-compare-firefox-to = { -brand-name-firefox }ን ከ፡- አወዳድር፡
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = አዎ
+firefox-desktop-download-no = አይ
+firefox-desktop-download-blocks-third-party = የሶስተኛ ወገን መከታተያ ኩኪዎችን ያግዳል
+firefox-desktop-download-blocks-third-party-default = በነባሪ የሶስተኛ ወገን መከታተያ ኩኪዎችን ያግዳል
+firefox-desktop-download-autoplay-blocking = ራስ-አጫዋችን ማገድ
+firefox-desktop-download-blocks-social-trackers = ማህበራዊ ተከታታይዎችን ያግዳል
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = የስርዓተ ክወና መኖር
+firefox-desktop-download-in-browser-screenshot = የአሳሽ-ውስጥ ቅጽበታዊ ገጽ እይታ መሣሪያ
+firefox-desktop-download-primary-password = ዋና የይለፍ ቃል
+# Obsolete string
+firefox-desktop-its-your-internet = የእርስዎ በይነመረብ ነው። በሺዎች በሚቆጠሩ መሳሪያዎች፣ ገጽታዎች እና ቅጥያዎች በፈለጉት መንገድ ያሳምሩት። { -brand-name-firefox } ሰዎችን ከትርፍ በፊት የሚያስቀድም የመጀመሪያው አማራጭ አሳሽ ነው።
+# Obsolete string
+firefox-desktop-download-master-password = ዋና የይለፍ ቃል
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
