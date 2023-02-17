@@ -73,6 +73,27 @@ firefox-desktop-download-block-autoplay-of = ተንቀሳቃሽ ምስል እና
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = ሥዕል-በሥዕል
 firefox-desktop-download-curated-content-on = በአዲስ ትር ላይ የተመረጠ ይዘት
+firefox-desktop-download-share-links = አገናኞችን አጋራ
+firefox-desktop-download-protect-your-privacy = ግላዊነቶን ይከልሉ
+firefox-desktop-download-third-party-cookie = የሶስተኛ ወገን ኩኪ ማገድ
+firefox-desktop-download-fingerprinter-blocking = አሳሽ አሻራ ተከታታይ ማገድ
+firefox-desktop-download-cryptominer-blocking = ምናባዊ ገንዘብ ቆፋሪን ማገድ
+firefox-desktop-download-private-browsing-mode = የግል አሰሳ ሁነታ
+firefox-desktop-download-individual-protections-report = የግለሰብ ጥበቃ ሪፖርት
+firefox-desktop-download-secure-your-personal = የግል መረጃዎን ያስጠብቁ
+firefox-desktop-download-breached-website-alerts = የተደፈሩ የድር ጣቢያ ማንቂያዎች
+firefox-desktop-download-built-in-password = አብሮ የተሰራ የይለፍ ቃል አስተዳዳሪ
+firefox-desktop-download-clear-history = ታሪክ አጽዳ
+firefox-desktop-download-form-autofill = ቅጽ ራስ-ሙላ
+firefox-desktop-download-automatic-updates = ራስ-ሰር ዝማኔዎች
+firefox-desktop-download-customize-your-browser = አሳሽዎን ያበጁ
+firefox-desktop-download-themes = ገጽታዎች
+firefox-desktop-download-dark-mode = ጨለማ ሁነታ
+firefox-desktop-download-library-of-extensions = የቅጥያዎች ቤተ-መተግበሪያ
+firefox-desktop-download-adjust-search-bar = የፍለጋ አሞሌ ቅንብሮችን ያስተካክሉ
+firefox-desktop-download-change-new-tab = አዲስ የትር አቀማመጥ ቀይር
+firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong>ን የራስዎ ያድርጉት
+firefox-desktop-download-extensions-for-every = ቅጥያዎች ለእያንዳንዱ ፍላጎት
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
