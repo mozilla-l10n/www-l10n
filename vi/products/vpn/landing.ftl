@@ -52,7 +52,7 @@ vpn-landing-faq-uses-examples = Xem <a href="{ $url }">năm ví dụ thực tế
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } lưu giữ thông tin gì?
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Chúng tôi tuân thủ nghiêm ngặt <a href="{ $principles }">nguyên tắc bảo mật dữ liệu</a> của { -brand-name-mozilla } và chúng tôi thu thập dữ liệu cần thiết để duy trì hoạt động của VPN và cải tiến sản phẩm theo thời gian. Chúng tôi cũng theo dõi dữ liệu giới thiệu và chiến dịch trên ứng dụng dành cho thiết bị di động của mình để giúp { -brand-name-mozilla } hiểu được hiệu quả của các chiến dịch tiếp thị của chúng tôi. Đọc thêm trong <a href="{ $notice }">thông báo về quyền riêng tư</a> của chúng tôi.
 # Obsolete string
 # Variables:
@@ -138,6 +138,8 @@ vpn-landing-faq-link = Xem thêm các câu hỏi thường gặp
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Tham gia danh sách chờ: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Nhận thông báo khi { -brand-name-mozilla-vpn } khả dụng cho khu vực của bạn.
+# Outdated string
 vpn-landing-invite-page-desc = Nhận thông báo khi { -brand-name-mozilla-vpn } khả dụng cho thiết bị và khu vực của bạn.
 vpn-landing-invite-page-heading = Tham gia danh sách chờ VPN
 vpn-landing-invite-email-label = Địa chỉ email của bạn là gì?
@@ -146,17 +148,8 @@ vpn-landing-invite-required-label = Cần thiết
 vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = Bạn sống ở nước nào?
 vpn-landing-invite-language-label = Chọn ngôn ngữ chính của bạn.
-vpn-landing-invite-platform-label = Bạn quan tâm đến những nền tảng nào?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Bằng cách nhấp vào “Tham gia danh sách chờ”, bạn đồng ý với  <a href="{ $privacy }">chính sách riêng tư</a> của chúng tôi.
 vpn-landing-invite-your-information = Thông tin của bạn sẽ chỉ được sử dụng để thông báo cho bạn về tính khả dụng của nền tảng.
 vpn-landing-invite-thanks-heading = Cảm ơn! Bạn đã có trong danh sách
