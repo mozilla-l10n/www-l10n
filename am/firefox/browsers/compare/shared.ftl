@@ -30,6 +30,7 @@ compare-shared-web-extensionsadd-ons = የድር ቅጥያዎች/ተጨማሪዎ
 compare-shared-in-browser-screenshot-tool = የአሳሽ ቅጽበታዊ ገጽ እይታ መሣሪያ
 compare-shared-os-availability = የስርዓተ ክወና መገኘት
 compare-shared-mobile-os-availability = የተንቀሳቃሽ ስልክ ስርዓተ ክወና መገኘት
+compare-shared-syncs-with-mobile = ከስልክ ጋር ይመሳሰል
 compare-shared-password-management = የይለፍ ቃል አስተዳደር
 compare-shared-primary-password = ዋና የይለፍ ቃል
 # Obsolete string
@@ -44,6 +45,7 @@ compare-shared-utility-strong = <strong>መገልገያ</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>ተንቀሳቃሽነት</strong>
 compare-shared-overall-assessment = አጠቃላይ ምዘና
+compare-shared-the-comparisons-made-here-updated = እዚህ የተደረጉ ንፅፅሮች በነባሪ ቅንጅቶች እና በአሳሽ መልቀቂያ ስሪቶች ላይ እንደሚከተለው ተከናውነዋ:
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }

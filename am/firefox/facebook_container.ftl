@@ -10,8 +10,15 @@ facebook-container-millions-of-people-around = በዓለም ዙሪያ ያሉ በ
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }። በደንብ የተያዘ። ቀሪ ህይወትዎን ለራስዋ ብቻ ያቆዩ።
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } ቅጥያውን ያግኙ
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox }ን ያውርዱ እና { -brand-name-facebook-container } ቅጥያውን ያግኙ
+facebook-container-only-available-for-desktop = የ{ -brand-name-facebook-container } ቅጥያው በአሁኑ ጊዜ ለ{ -brand-name-firefox } ለዴስክቶፕ ብቻ ይገኛል።
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = ለዴስክቶፕ { -brand-name-firefox } ለማግኘት <a href="{ $url }">{ $link_copy }</a>ን ይጎብኙ።
 # Outdated string
 facebook-container-the-facebook-container-extension = የ{ -brand-name-facebook-container } ቅጥያው በሞባይል መሳሪያዎች ላይ አይገኝም።
+facebook-container-get-firefox-android-ios = አሁኑኑ { -brand-name-firefox }ን ለ{ -brand-name-android } እና { -brand-name-ios } ያግኙ።
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = የ{ -brand-name-android } እና { -brand-name-ios }ን የግላዊነት ማሰሻ የሆነውን <strong>{ -brand-name-firefox-focus }</strong>ን ይሞክሩ።
