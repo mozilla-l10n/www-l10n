@@ -13,6 +13,8 @@ compare-shared-private-browsing-mode = የግል አሰሳ ሁነታ
 compare-shared-blocks-third-party-tracking-default = በነባሪ የሶስተኛ ወገን መከታተያ ኩኪዎችን ያግዳል
 # Obsolete string
 compare-shared-blocks-third-party-tracking = የሶስተኛ ወገን መከታተያ ኩኪዎችን ያግዳል
+compare-shared-blocks-cryptomining-scripts = ምናባዊ ገንዘብ ቆፋሪ ስክሪፕቶችን ያግዳል
+compare-shared-blocks-fingerprinting-scripts = የአሳሽ አሻራ ተከታታይ ስክሪፕቶችን ያግዳል
 compare-shared-blocks-social-trackers = ማህበራዊ መከታተያዎችን ያግዳል
 compare-shared-dashboard-to-review = የታገዱ መከታተያዎችን መገምገሚያ ዳሽቦርድ
 compare-shared-autoplay-blocking = ራስ-አጫውት ማገድ
