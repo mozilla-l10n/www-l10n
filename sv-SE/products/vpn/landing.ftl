@@ -52,7 +52,7 @@ vpn-landing-faq-uses-examples = Kolla in <a href="{ $url }">fem verkliga exempel
 vpn-landing-faq-info-question-heading = Vilken information behåller { -brand-name-mozilla-vpn }?
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Vi följer strikt { -brand-name-mozilla }s <a href="{ $principles }">principer för dataskydd</a> och vi samlar in den information som krävs för att VPN ska fungera och för att förbättra produkten över tid . Vi spårar också kampanj- och hänvisningsdata i vår mobilapp för att hjälpa { -brand-name-mozilla } att förstå effektiviteten i våra marknadsföringskampanjer. Läs mer i vår <a href="{ $notice }">sekretesspolicy</a>.
 # Obsolete string
 # Variables:
@@ -138,6 +138,8 @@ vpn-landing-faq-link = Se fler vanliga frågor
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Ställ dig i väntelistan: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Få ett meddelande när { -brand-name-mozilla-vpn } är tillgängligt för din region.
+# Outdated string
 vpn-landing-invite-page-desc = Få ett meddelande när { -brand-name-mozilla-vpn } är tillgänglig för din enhet och region.
 vpn-landing-invite-page-heading = Ställ dig i väntelistan för VPN
 vpn-landing-invite-email-label = Vad är din e-postadress?
@@ -146,17 +148,8 @@ vpn-landing-invite-required-label = Krävs
 vpn-landing-invite-email-placeholder = dittnamn@exempel.se
 vpn-landing-invite-country-label = Vilket land bor du i?
 vpn-landing-invite-language-label = Välj ditt önskade språk.
-vpn-landing-invite-platform-label = Vilka plattformar är du intresserade av?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Genom att klicka på "Ställ di i väntelistan" godkänner du vår <a href="{ $privacy }">sekretesspolicy</a>.
 vpn-landing-invite-your-information = Din information kommer endast att användas för att meddela dig om plattformens tillgänglighet.
 vpn-landing-invite-thanks-heading = Tack! Du är med i listan.

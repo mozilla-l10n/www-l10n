@@ -53,7 +53,7 @@ vpn-shared-features-connect = Anslut upp till { $devices } enheter
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-dagars pengarna tillbaka garanti
 vpn-shared-refund-policy = Återbetalningspolicy
-vpn-shared-privacy-notice = Sekretesspolicy
+vpn-shared-privacy-notice = Sekretessmeddelande
 vpn-shared-terms-conditions = Allmänna villkor
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } är ett registrerat varumärke som tillhör Jason A. Donenfeld
 
