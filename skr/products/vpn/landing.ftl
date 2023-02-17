@@ -138,6 +138,8 @@ vpn-landing-faq-link = ٻئے FAQs ݙیکھو
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = تانگھ تندیر  نال رلت کرو: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = اطلاع نامہ گھنو جہڑے ویلے { -brand-name-mozilla-vpn } تہاݙے  علاقے کیتے دستیاب ہووے۔
+# Outdated string
 vpn-landing-invite-page-desc = اطلاع نامہ گھنو جہڑے ویلے { -brand-name-mozilla-vpn } تہاݙی ڈیوائس تے  علاقے کیتے دستیاب ہووے۔
 vpn-landing-invite-page-heading = وی پی این تانگھ تندیر نال رلت کرو
 vpn-landing-invite-email-label = تہاݙا ای میل پتہ کیا ہے؟
@@ -146,15 +148,6 @@ vpn-landing-invite-required-label = ضروری ہے
 vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = تساں کہڑے ملک وچ راہندے ہو؟
 vpn-landing-invite-language-label = آپݨی ترجیحی زبان چݨو۔
-vpn-landing-invite-platform-label = تساں کہڑے پلیٹ فارماں وچ دلچسپی رکھدے ہو؟
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = “تانگھ تندیر نال رلت کرو“ کلک کرݨ نال تساں ساݙی   <a href="{ $privacy }">رازداری پالیسی</a> نال راضی ہوسو۔
