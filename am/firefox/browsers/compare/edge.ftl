@@ -26,6 +26,8 @@ compare-edge-at-firefox-our-privacy-fallback = በ{ -brand-name-firefox } ላይ
 # Variables:
 #   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
 compare-edge-your-privacy-protections-shows = የእርስዎ <a { $attrs }>የግላዊነት ጥበቃዎች</a> ገጾች ለመውጣት የሞከሩባቸውን መከታተያዎች እና ኩኪዎች እና ስንት { -brand-name-firefox } እንደከለከሉ ያሳይዎታል።
+# "InPrivate" is a brand name.
+compare-edge-in-firefox-private-browsing = በ{ -brand-name-firefox } ውስጥ፣ የግል አሰሳ ሁነታ እንደ የይለፍ ቃሎች፣ ኩኪዎች እና ታሪክ ያሉ የአሰሳ መረጃዎችን በራስ ሰር ያጠፋል፣ ክፍለ-ጊዜውን ከዘጉ በኋላ ምንም ዱካ አይተዉም። በሌላ በኩል { -brand-name-edge } በአንጻሩ የአሰሳ ታሪክን በግል ስልታቸው ይመዘግባል (“በግል” ተብሎ የሚጠራው) እና አሰሳዎ የተከናወነው ምንም ይሁን ምን አንድ ሰው ሙሉ የአሰሳ ታሪክዎን እንደገና ለመገንባት በአንፃራዊነት ቀላል ስራ ነው ይህም ከመደበኛ ወይም የግል ሁነታዎን ሳያገናዝብ ሊሆን ይችላል።
 compare-edge-both-browsers-are-relatively = ሁለቱም አሳሾች ከመረጃ ምስጠራ አንፃር እኩል ናቸው። ነገር ግን፣ የመስመር ላይ ግላዊነት እና ግልጽነት ለእርስዎ አስፈላጊ ከሆኑ፣ { -brand-name-firefox } የተሻለ ምርጫ እንደሆነ ግልጽ ነው።
 compare-edge-firefox-is-a-fast-and-open = { -brand-name-firefox } ፈጣን እና ክፍት ምንጭ አሳሽ ነው፣ ይህ ማለት ተጠቃሚዎች በማንኛውም መንገድ የአሰሳ ልምዳቸውን ማበጀት ይችላሉ። { -brand-name-firefox } እንዲሁ ተራ ተጠቃሚ የተለያዩ ገጽታዎችን እና የመሳሪያ አሞሌን ውቅሮችን በመተግበር UInን ለማበጀት በተለያዩ መንገዶች ይፈቅዳል። የእኛ አሳሽ ሁል ጊዜ ክፍት ምንጭ በመሆኑ፣ ተጨማሪዎችን እና አሳሽ ቅጥያዎችን ሰፊ ቤተ-መተግበሪያዎች የፈጠሩ ብዙ ታማኝ ገንቢዎች አሉን።
 compare-edge-firefox-is-a-fast-and-open-fallback = { -brand-name-firefox } ፈጣን እና ክፍት ምንጭ አሳሽ ነው፣ ይህ ማለት ተጠቃሚዎች በማንኛውም መንገድ የአሰሳ ልምዳቸውን ማበጀት ይችላሉ። { -brand-name-firefox } እንዲሁ ተራ ተጠቃሚ የተለያዩ ገጽታዎችን እና የመሳሪያ አሞሌን ውቅሮችን በመተግበር UIን ለማበጀት በተለያዩ መንገዶች ይፈቅዳል። የእኛ አሳሽ ሁል ጊዜ ክፍት ምንጭ በመሆኑ፣ ተጨማሪዎችን እና አሳሽ ቅጥያዎችን ሰፊ ቤተ-መተግበሪያዎች የፈጠሩ ብዙ ታማኝ ገንቢዎች አሉን።
