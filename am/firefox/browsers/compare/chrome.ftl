@@ -20,4 +20,5 @@ compare-chrome-in-fact-both-chrome-and-firefox = በእርግጥ፣ ሁለቱም
 # "Gmail" and "Google Docs" are brand names.
 compare-chrome-in-terms-of-features-both = በባህሪያት፣ ሁለቱም { -brand-name-firefox } እና { -brand-name-chrome } ትልቅ የቅጥያዎች እና ተሰኪዎች ቤተ-መጽሐፍት ይሰጣሉ፣ የ{ -brand-name-chrome } ዝርዝር ከሌላው በእጅጉ ይበልጣል፤ ከሌሎች የ{ -brand-name-google } አገልግሎቶች እንደ Gmail እና { -brand-name-google } Docs ጋር በደንብ የተዋሃደ ነው።
 compare-chrome-firefox-also-has-a-sync-feature = { -brand-name-firefox } እንዲሁም የእርስዎን ክፍት እና የቅርብ ጊዜ ትሮች፣ የአሰሳ ታሪክ እና ዕልባቶች በሁሉም መሳሪያዎችዎ ላይ ለማየት የማመሳሰል ባህሪ አለው።
+compare-chrome-although-not-as-extensive = ምንም እንኳን የ{ -brand-name-chrome }ን ተጨማሪ መዛግብት ያህል ሰፊ ባይሆንም፣ { -brand-name-firefox } ብዛት ያላቸው ንቁ አስተዋጽዖ አበርካቾች እንዳሉት ክፍት ምንጭ ሶፍትዌር፣ እጅግ አስደናቂ ቁጥር ያላቸው ጠቃሚ ቅጥያዎችን ይዟል።
 compare-chrome-almost-needless-to-say-versions = የሁለቱም የ{ -brand-name-firefox } እና { -brand-name-chrome } ስሪቶች በጣም ታዋቂ ለሆኑ የዴስክቶፕ እና የሞባይል ኦፕሬቲንግ ሲስተሞች ({ -brand-name-windows }፣ { -brand-name-mac }፣ { -brand-name-linux }፣ { -brand-name-android }፣ { -brand-name-ios }) ይገኛሉ ማለት ይቻላል።
