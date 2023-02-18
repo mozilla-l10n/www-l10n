@@ -138,6 +138,8 @@ vpn-landing-faq-link = Посмотреть больше вопросов
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Присоединитесь к списку ожидания: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Получите уведомление, когда { -brand-name-mozilla-vpn } станет доступен для вашего региона.
+# Outdated string
 vpn-landing-invite-page-desc = Получите уведомление, когда { -brand-name-mozilla-vpn } станет доступен для вашего устройства и региона.
 vpn-landing-invite-page-heading = Присоединиться к списку ожидания VPN
 vpn-landing-invite-email-label = Какой ваш адрес электронной почты?
@@ -146,15 +148,6 @@ vpn-landing-invite-required-label = Обязательное поле
 vpn-landing-invite-email-placeholder = ваш_логин@example.com
 vpn-landing-invite-country-label = В какой стране вы живёте?
 vpn-landing-invite-language-label = Выберите предпочитаемый язык.
-vpn-landing-invite-platform-label = В каких платформах вы заинтересованы?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Нажимая «Присоединиться к списку ожидания», вы соглашаетесь с нашей  <a href="{ $privacy }">Политикой приватности</a>.
