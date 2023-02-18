@@ -113,6 +113,10 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = { -brand-name-facebook } (እና { -brand-name-instagram }) እርስዎን በድሩ ላይ እንዳይከታተሉዎት ለማቆም <a { $attrs } >ይህን የአሳሽ ቅጥያ ያውርዱ</a>።
+firefox-desktop-download-sync-your-devices = መሳሪያዎችዎን ያሰናስሉ
+firefox-desktop-download-screenshots = ቅጽበታዊ ገጽ እይታዎች
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = የተሻሻለ የክትትል ጥበቃ (ኢቲፒ)
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
