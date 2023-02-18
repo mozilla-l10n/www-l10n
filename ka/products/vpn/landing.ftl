@@ -138,6 +138,8 @@ vpn-landing-faq-link = ვრცლად იხილეთ ᲮᲓᲙ
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = შემოუერთდით მსურველებს: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = შეიტყვეთ, როცა { -brand-name-mozilla-vpn } ხელმისაწვდომი გახდება თქვენს მხარეში.
+# Outdated string
 vpn-landing-invite-page-desc = შეიტყვეთ, როცა { -brand-name-mozilla-vpn } ხელმისაწვდომი გახდება თქვენს მოწყობილობაზე და რეგიონში.
 vpn-landing-invite-page-heading = შეუერთდით VPN-ის მსურველებს
 vpn-landing-invite-email-label = რა არის თქვენი ელფოსტა?
@@ -146,15 +148,6 @@ vpn-landing-invite-required-label = აუცილებელია
 vpn-landing-invite-email-placeholder = sakheli@example.com
 vpn-landing-invite-country-label = რომელ ქვეყანაში ცხოვრობთ?
 vpn-landing-invite-language-label = აირჩიეთ სასურველი ენა.
-vpn-landing-invite-platform-label = რომელი პლატფორმები გაინტერესებთ?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = „შემოუერთდით მსურველების“ ღილაკზე დაწკაპებით, ეთანხმებით ჩვენი  <a href="{ $privacy }">პირადულობის დებულებას</a>.
