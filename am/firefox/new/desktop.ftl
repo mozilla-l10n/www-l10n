@@ -119,6 +119,8 @@ firefox-desktop-download-screenshots = ቅጽበታዊ ገጽ እይታዎች
 firefox-desktop-download-enhanced-tracking-protection = የተሻሻለ የክትትል ጥበቃ (ኢቲፒ)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = ለ<strong>{ -brand-name-android }</strong> { -brand-name-firefox-browser }ን ያግኙ
+firefox-desktop-download-download-the-mobile = በሁሉም መሳሪያዎችዎ ላይ ለራስ-ሰር ጥበቃ { -brand-name-firefox } የስልክ አሳሽ ያውርዱ።
+firefox-desktop-download-learn-about-the = ከታች ስለ { -brand-name-firefox } ዴስክቶፕ አሳሽ ይወቁ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
