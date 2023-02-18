@@ -117,6 +117,8 @@ firefox-desktop-download-sync-your-devices = መሳሪያዎችዎን ያሰና�
 firefox-desktop-download-screenshots = ቅጽበታዊ ገጽ እይታዎች
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = የተሻሻለ የክትትል ጥበቃ (ኢቲፒ)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = ለ<strong>{ -brand-name-android }</strong> { -brand-name-firefox-browser }ን ያግኙ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
