@@ -140,4 +140,6 @@ firefox-desktop-download-now-windows = አሁን የወረደውን ጫኝ <stro
 firefox-desktop-download-now-mac = አሁን የወረደውን ፋይል <strong>ክፈት</strong>።
 firefox-desktop-download-in-another-language = በሌላ ቋንቋ ወይም ለሌላ ስርዓተ ክወና አውርድ።
 firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-desktop-download-visit-support-for-more = ለተጨማሪ ዝርዝሮች ድጋፍን ይጎብኙ
