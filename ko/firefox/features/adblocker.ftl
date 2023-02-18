@@ -53,4 +53,7 @@ features-adblocker-send-a-do-not-track-signal = Do Not Track 신호 보내기
 features-adblocker-if-you-dont-want-your = 여러분의 행동이 광고에 사용되는 것을 원하지 않는 경우 { -brand-name-firefox }의 <a href="{ $url }">추적 방지 기능</a> 옵션을 체크하여 웹사이트에 정중히 "감사하지만 사양하겠습니다" 편지를 보낼 수 있습니다. 참여는 선택이지만 참여하는 웹사이트는 즉시 여러분을 추적하는 것을 멈출 것입니다.
 features-adblocker-speed-up-thanks-to-ad = 광고 차단을 통한 속도 향상
 features-adblocker-in-some-cases-an-ad-blocker = 경우에 따라 광고 차단기는 여러분의 브라우저를 빠르게 만드는데 도움이 될 수 있습니다. 광고는 로드될 때 웹사이트를 느리게 만듭니다. 동시에 다른 광고를 닫느라 너무 바빠서 원하는 것을 찾는데 시간이 더 걸립니다.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more = 광고 차단에 대해 자세히 알아보려면 { -brand-name-firefox }와 다른 브라우저에서 이용할 수 있는 수백개의 광고 차단 확장 기능이 있습니다. { -brand-name-firefox }가 사용하는 광고 차단기를 사용해보고 싶다면 개인 정보를 최우선으로 생각하는 브라우저를 <a href="{ $url }">여기를 클릭하여 다운로드</a>하세요.
 features-adblocker-take-control-of-your-browser = 브라우저를 제어하세요.
