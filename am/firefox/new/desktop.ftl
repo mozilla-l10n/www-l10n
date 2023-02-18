@@ -131,9 +131,13 @@ firefox-desktop-download-just-download-the-browser = አሳሹን ብቻ ያው�
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = ሊያልቅ ነው!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = አሁን { -brand-name-firefox }ን <strong>መጫን</strong> ጨርስ።
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = አሁን የወረደውን ጫኝ <strong>አስጀምር</strong>።
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = አሁን የወረደውን ፋይል <strong>ክፈት</strong>።
+firefox-desktop-download-in-another-language = በሌላ ቋንቋ ወይም ለሌላ ስርዓተ ክወና አውርድ።
+firefox-desktop-download-windows = { -brand-name-windows }
+firefox-desktop-download-visit-support-for-more = ለተጨማሪ ዝርዝሮች ድጋፍን ይጎብኙ
