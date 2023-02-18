@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -42,6 +42,7 @@ features-adblocker-do-it-yourself-custom = 사용자 지정 모드로 원하는 
 features-adblocker-the-custom-setting-gives = 사용자 지정 설정은 막강한 선택지가 주어집니다. 추적기, 쿠키를 포함해 무엇을 차단할지 결정할 수 있습니다. 특정 웹사이트에서 쿠키를 허용하셨다면, 자동으로 사용자 지정 설정으로 변경됩니다.
 features-adblocker-cover-your-trail-block = 추적기를 차단해 방문기록을 보호하세요
 features-adblocker-click-on-the-trackers = 추적기 상자를 클릭하면 두 가지 방법으로 추적기를 차단할 수 있습니다. 추적기를 차단하는 한 가지 방법은 사생활 보호 창을 사용하는 것입니다. 또 다른 방법은 모든 창에서 추적기를 차단하는 것입니다. 단, 상시 추적기를 차단하도록 선택하면 일부 페이지가 올바르게 작동하지 않을 수 있습니다.
+features-adblocker-take-a-bite-out-of-cookies = 쿠키 한입 베어 물기
 features-adblocker-send-a-do-not-track-signal = Do Not Track 신호 보내기
 features-adblocker-speed-up-thanks-to-ad = 광고 차단을 통한 속도 향상
 features-adblocker-take-control-of-your-browser = 브라우저를 제어하세요.
