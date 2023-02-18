@@ -12,6 +12,7 @@ vpn-what-is-get-answers-to-nine = VPN'lerle ilgili en çok sorulan dokuz sorunun
 vpn-what-is-how-do-vpns = VPN’ler nasıl çalışır?
 vpn-what-is-when-should-i = Ne zaman VPN kullanmalıyım?
 vpn-what-is-why-would-i = Neden VPN kullanmalıyım?
+vpn-what-is-keeping-your-home = Evinizin konumunu veya sık ziyaret ettiğiniz yerleri gizli tutmak.
 vpn-what-is-what-are-the = VPN kullanmanın dezavantajları nelerdir?
 vpn-what-is-are-vpns-safe = VPN’ler güvenli mi?
 vpn-what-is-can-vpns-protect = VPN'ler beni siber suçlulardan koruyabilir mi?

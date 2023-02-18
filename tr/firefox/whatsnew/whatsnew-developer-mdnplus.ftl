@@ -13,5 +13,6 @@ developer-mdnplus-get-started = Başlayın
 developer-mdnplus-whats-included = Neler dahil?
 developer-mdnplus-notifications = Bildirimler
 developer-mdnplus-collections = Koleksiyonlar
+developer-mdnplus-build-your-perfect-library = İster mükemmel kitaplığınızı kendiniz oluşturun ister sizin için biz oluşturalım.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } çevrimdışı
 developer-mdnplus-resources-for-developers = Geliştiriciler için, geliştiriciler tarafından hazırlanan kaynaklar.
