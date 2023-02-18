@@ -126,6 +126,7 @@ firefox-desktop-download-learn-about-the = ከታች ስለ { -brand-name-firefo
 firefox-desktop-download-grab-a-high = በቀጥታ በአሳሹ ውስጥ በተሰራው የእኛ <a { $attrs }>ቅጽበታዊ ገጽ እይታ</a> መሳሪያ የማንኛውንም ነገር ከፍተኛ ጥራት ያለው ምስል ያንሱ
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = አስቀድመው አሳሹን አግኝተዋል። አሁን ከ{ -brand-name-firefox } የበለጠ ያግኙ።
+firefox-desktop-download-watch-for-hackers-with-v2 = ሰርጎ ገቦችን በ{ -brand-name-firefox-monitor } ይመልከቱ፣ የኢሜይል አድራሻዎን በ{ -brand-name-firefox-relay } ይጠብቁ እና ሌሎችም።
 firefox-desktop-download-get-more-from-firefox = ከ{ -brand-name-firefox } ተጨማሪ ያግኙ
 firefox-desktop-download-just-download-the-browser = አሳሹን ብቻ ያውርዱ
 
