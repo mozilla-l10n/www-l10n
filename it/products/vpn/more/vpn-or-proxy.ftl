@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
@@ -41,7 +41,7 @@ vpn-or-proxy-choose-a-trustworthy = Scegli un servizio affidabile
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
-vpn-or-proxy-the-most-important = La cosa più importante da considerare quando si sceglie tra una VPN o un servizio proxy, è scegliere un’azienda affidabile. Assicurati di aver compreso i termini di servizio che accetti. Molti affermano di dare priorità alla privacy, ma molti di loro non mantengono le promesse. Non tutti i servizi proxy e VPN sono sicuri e privati. <a href="{ $cnet }">Alcuni</a> <a href="{ $pcmag }">registreranno</a> le tue attività online in modo da poter vendere i tuoi dati e le tue informazioni alle società di marketing. Altri servizi cercheranno di convincerti a installare malware sui tuoi dispositivi.
+vpn-or-proxy-the-most-important = La cosa più importante da considerare quando si sceglie tra una VPN o un servizio proxy, è scegliere un’azienda affidabile. Assicurati di aver compreso le condizioni di utilizzo del servizio che accetti. Molti affermano di dare priorità alla privacy, ma molti di loro non mantengono le promesse. Non tutti i servizi proxy e VPN sono sicuri e privati. <a href="{ $cnet }">Alcuni</a> <a href="{ $pcmag }">registreranno</a> le tue attività online in modo da poter vendere i tuoi dati e le tue informazioni alle società di marketing. Altri servizi cercheranno di convincerti a installare malware sui tuoi dispositivi.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $fpn (url) - https://fpn.firefox.com/
