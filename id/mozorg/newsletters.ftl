@@ -28,7 +28,14 @@ newsletters-please-be-sure-to-add-our-v2 = Jangan lupa menambahkan alamat: mozil
 
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Harap pastikan untuk menambahkan alamat pengiriman kami: mozilla@e.mozilla.org ke buku alamat untuk memastikan pesan kami dapat mencapai kotak masuk Anda.
+
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = Tautan yang diberikan telah kedaluwarsa. Silakan <a { $recovery_href }>minta tautan baru di sini</a>.
+
+# Obsolete string
 newsletters-the-supplied-link-has-expired = Tautan yang diberikan telah kedaluwarsa. Anda akan menerima yang baru di buletin berikutnya.
+
 newsletters-something-is-amiss-with = Ada yang salah di sistem kami, maaf! Silakan coba lagi nanti.
 newsletters-youre-awesome = Anda luar biasa!
 newsletters-and-were-not-just-saying = Dan kami tidak mengatakan itu hanya karena Anda memercayai kami dengan alamat email Anda.
@@ -137,7 +144,6 @@ newsletters-see-where-the-web-can-take = Lihat ke mana Web dapat membawa Anda de
 
 newsletters-we-are-sorry-but-there = Maaf, tampaknya ada masalah dengan sistem kami. Silakan coba lagi nanti.
 newsletters-thanks-for-updating-your = Terima kasih telah memperbarui preferensi email Anda.
-newsletters-the-supplied-link-has-expired-long = Tautan yang diberikan telah kedaluwarsa atau tidak sah. Anda akan menerima yang baru di buletin berikutnya, atau di bawah ini Anda dapat meminta email dengan tautan.
 newsletters-success-an-email-has-been-sent = Berhasil! Email telah dikirimkan kepada Anda dengan tautan pusat preferensi Anda. Terima kasih!
 newsletters-this-is-not-a-valid-email = Ini bukan alamat email yang sah. Harap periksa ejaan.
 newsletters-you-send-too-many-emails = Anda mengirim terlalu banyak email.
