@@ -138,6 +138,7 @@ vpn-landing-faq-link = Ďalšie často kladené otázky
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Pridajte sa na zoznam čakateľov: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Dáme vám vedieť, keď bude { -brand-name-mozilla-vpn } k dispozícii pre váš región.
 # Outdated string
 vpn-landing-invite-page-desc = Dáme vám vedieť, keď bude { -brand-name-mozilla-vpn } k dispozícii pre vaše zariadenie a región.
 vpn-landing-invite-page-heading = Pridajte sa na zoznam čakateľov na VPN
