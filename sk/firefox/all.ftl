@@ -27,7 +27,7 @@ firefox-all-download-the-firefox = Stiahnite si { -brand-name-firefox-browser(ca
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Všetci si zaslúžia mať prístup na internet a jazyk by nikdy nemal byť prekážkou. Preto vďaka dobrovoľníkom z celého sveta ponúkame { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } vo viac ako 90 jazykoch.
 firefox-all-choose-which-firefox = Zvoľte si jazyk a verziu { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }, ktorú chcete stiahnuť
-firefox-all-firefox-privacy-notice = Oznámenie o ochrane osobných údajov vo { -brand-name-firefox(case: "loc") }
+firefox-all-firefox-privacy-notice = Vyhlásenie o ochrane osobných údajov { -brand-name-firefox(case: "gen") }
 firefox-all-learn-about-firefox = Ďalšie informácie o prehliadačoch { -brand-name-firefox }
 firefox-all-the-standard-firefox = Klasický { -brand-name-firefox } - rýchly a zameraný na súkromie. Ak si nie ste istí, ktorý { -brand-name-firefox } si vybrať, vyberte si tento.
 firefox-all-get-a-sneak-peek-at = Vyskúšajte najnovšie funkcie { -brand-name-firefox(case: "gen") } pred vydaním finálnej verzie.
