@@ -122,11 +122,17 @@ firefox-desktop-download-get-firefox-android = ለ<strong>{ -brand-name-android 
 firefox-desktop-download-download-the-mobile = በሁሉም መሳሪያዎችዎ ላይ ለራስ-ሰር ጥበቃ { -brand-name-firefox } የስልክ አሳሽ ያውርዱ።
 firefox-desktop-download-learn-about-the = ከታች ስለ { -brand-name-firefox } ዴስክቶፕ አሳሽ ይወቁ
 # Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = ከደህንነት እስከ ዜና እስከ ጨዋታ፣ ለእያንዳንዱ ሰው የሚሆን <a { $attrs }>ቅጥያ</a> አለ። አሳሽዎ ፍላጎትዎን እስኪሞላ ድረስ የፈለጉትን ያህል ይጨምሩ።
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = በቀጥታ በአሳሹ ውስጥ በተሰራው የእኛ <a { $attrs }>ቅጽበታዊ ገጽ እይታ</a> መሳሪያ የማንኛውንም ነገር ከፍተኛ ጥራት ያለው ምስል ያንሱ
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = አስቀድመው አሳሹን አግኝተዋል። አሁን ከ{ -brand-name-firefox } የበለጠ ያግኙ።
 firefox-desktop-download-watch-for-hackers-with-v2 = ሰርጎ ገቦችን በ{ -brand-name-firefox-monitor } ይመልከቱ፣ የኢሜይል አድራሻዎን በ{ -brand-name-firefox-relay } ይጠብቁ እና ሌሎችም።
+# Outdated string
+firefox-desktop-download-watch-for-hackers-with = ሰርጎ ገቦችን በ{ -brand-name-firefox-monitor } ይመልከቱ፣ የይለፍ ቃሎችን በ{ -brand-name-firefox-lockwise }  ይጠብቁ እና ሌሎችም።
 firefox-desktop-download-get-more-from-firefox = ከ{ -brand-name-firefox } ተጨማሪ ያግኙ
 firefox-desktop-download-just-download-the-browser = አሳሹን ብቻ ያውርዱ
 
