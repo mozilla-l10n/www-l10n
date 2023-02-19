@@ -22,6 +22,10 @@ newsletters-your-newsletter-subscription = Se ha confirmado tu suscripción al b
 newsletters-please-be-sure-to-add-our-v2 = Por favor, asegúrate de añadir nuestra dirección de envío: mozilla@email.mozilla.org a tu libreta de direcciones para asegurarte de que siempre lleguemos a tu bandeja de entrada.
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Agrega nuestra dirección de envío mozilla@e.mozilla.org a tu libreta de direcciones para asegurarte de que siempre lleguemos a tu bandeja de entrada.
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = El enlace proporcionado ha caducado. Por favor <a { $recovery_href }>solicita un nuevo enlace aquí</a>.
+# Obsolete string
 newsletters-the-supplied-link-has-expired = Ha caducado el enlace provisto. Recibirás uno nuevo en el próximo boletín.
 newsletters-something-is-amiss-with = Algo no va bien en nuestro sistema, discúlpanos. Inténtalo de nuevo pasados unos minutos.
 newsletters-youre-awesome = ¡Eres genial!
@@ -104,7 +108,6 @@ newsletters-put-more-fox-in-your-inbox = Deja que Firefox se cuele en tu buzón.
 newsletters-see-where-the-web-can-take = Descubre hasta dónde te puede llevar la Web con los trucos y consejos de { -brand-name-firefox }.
 newsletters-we-are-sorry-but-there = Discúlpanos, pero hubo un problema con nuestro sistema. Inténtalo de nuevo pasados unos minutos.
 newsletters-thanks-for-updating-your = Gracias por actualizar tus preferencias de emails.
-newsletters-the-supplied-link-has-expired-long = Ha caducado el enlace provisto o no es válido. Recibirás uno nuevo en el próximo boletín o puedes solicitar un email con el enlace a continuación.
 newsletters-success-an-email-has-been-sent = ¡Éxito! Te hemos enviado un email con un enlace a tu centro de preferencias. ¡Gracias!
 newsletters-this-is-not-a-valid-email = No es una dirección de email válida. Por favor, revisa la ortografía.
 newsletters-you-send-too-many-emails = Recibo demasiados emails.
