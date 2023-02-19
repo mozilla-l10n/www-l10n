@@ -182,7 +182,12 @@ vpn-landing-faq-link = Lihat Pertanyaan Umum lainnya
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Gabung ke Daftar Tunggu: { -brand-name-mozilla-vpn }
+
+vpn-landing-invite-page-desc-v2 = Dapatkan pemberitahuan saat { -brand-name-mozilla-vpn } tersedia untuk wilayah Anda.
+
+# Outdated string
 vpn-landing-invite-page-desc = Dapatkan pemberitahuan saat { -brand-name-mozilla-vpn } tersedia untuk perangkat dan wilayah Anda.
+
 vpn-landing-invite-page-heading = Bergabunglah dengan Daftar Tunggu VPN
 vpn-landing-invite-email-label = Tulis alamat email Anda
 vpn-landing-invite-required-label = Wajib diisi
@@ -192,18 +197,6 @@ vpn-landing-invite-email-placeholder = namaanda@contoh.com
 
 vpn-landing-invite-country-label = Di negara mana Anda tinggal?
 vpn-landing-invite-language-label = Pilih bahasa pilihan Anda.
-vpn-landing-invite-platform-label = Platform mana yang Anda minati?
-
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
