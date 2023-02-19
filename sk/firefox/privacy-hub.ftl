@@ -29,12 +29,12 @@ firefox-privacy-hub-no-secrets = Žiadne tajomstvá
 firefox-privacy-hub-youll-always-know-where-you = S nami vždy viete, na čom ste
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Nie je tu žiadna skrytá agenda. Naše podnikanie nezávisí od tajného zneužívania vašej dôvery. Naše <a href="{ $privacy }">Oznámenie o ochrane osobných údajov</a> je skutočne čitateľné. Ak sa chcete ponoriť do každého typu údajov, ktorý zhromažďujeme, náš kód je otvorený. A my tiež.
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Nie je tu žiadna skrytá agenda. Naše podnikanie nezávisí od tajného zneužívania vašej dôvery. Naše <a href="{ $privacy }">Vyhlásenie o ochrane osobných údajov</a> je skutočne čitateľné. Ak sa chcete ponoriť do každého typu údajov, ktorý zhromažďujeme, náš kód je otvorený. A my tiež.
 # Obsolete string
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
-firefox-privacy-hub-theres-no-hidden-agenda-here = Nie je tu žiadna skrytá agenda. Naše podnikanie nezávisí od tajného zneužívania vašej dôvery. Naše <a href="{ $privacy }">Oznámenie o ochrane osobných údajov</a> je skutočne čitateľné. Každý na svete sa môže zúčastniť našich <a href="{ $meetings }">týždenných firemných stretnutí</a>. Ak sa chcete ponoriť do každého typu údajov, ktorý zhromažďujeme, náš kód je otvorený. A my tiež.
+firefox-privacy-hub-theres-no-hidden-agenda-here = Nie je tu žiadna skrytá agenda. Naše podnikanie nezávisí od tajného zneužívania vašej dôvery. Naše <a href="{ $privacy }">Vyhlásenie o ochrane osobných údajov</a> je skutočne čitateľné. Každý na svete sa môže zúčastniť našich <a href="{ $meetings }">týždenných firemných stretnutí</a>. Ak sa chcete ponoriť do každého typu údajov, ktorý zhromažďujeme, náš kód je otvorený. A my tiež.
 firefox-privacy-hub-why-trust-firefox = Prečo dôverovať { -brand-name-firefox(case: "gen") }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
@@ -87,7 +87,7 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks = Vezmite si svoje súkromie
 firefox-privacy-hub-already-have-an-account = Už máte účet? <a { $sign_in } class="{ $class_name }">Prihláste sa</a> alebo <a href="{ $learn_more }">získajte viac informácií</a> o pripojení k { -brand-name-firefox(case: "dat") }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
-firefox-privacy-hub-read-the-privacy-notice-for = Prečítajte si <a href="{ $url }">Oznámenie o ochrane osobných údajov</a> pre naše produkty
+firefox-privacy-hub-read-the-privacy-notice-for = Prečítajte si <a href="{ $url }">Vyhlásenie o ochrane osobných údajov</a> pre naše produkty
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-privacy-hub-surf-stream-and-get-work = Prehliadajte, streamujte a pracujte na serveroch vo viac ako 30 krajinách so zabezpečeným internetovým pripojením s novou perspektívou.
 firefox-privacy-hub-get-mozilla-vpn = Získajte { -brand-name-mozilla-vpn }

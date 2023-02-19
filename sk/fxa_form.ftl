@@ -6,7 +6,7 @@ fxa-form-enter-your-email = Ak si chcete vytvoriť { -brand-name-firefox-account
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
-fxa-form-by-proceeding = Pokračovaním vyjadrujete súhlas s <a href="{ $url1 }">podmienkami používania služby</a> a so <a href="{ $url2 }">zásadami ochrany súkromia</a>.
+fxa-form-by-proceeding = Pokračovaním vyjadrujete súhlas s <a href="{ $url1 }">Podmienkami používania služby</a> a <a href="{ $url2 }">Vyhlásením o ochrane osobných údajov</a>.
 fxa-form-email-address = E-mailová adresa
 fxa-form-continue = Pokračovať
 fxa-form-create-account = Vytvoriť účet

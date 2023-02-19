@@ -53,7 +53,7 @@ vpn-landing-faq-info-question-heading = Aké informácie { -brand-name-mozilla-v
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-faq-info-question-desc-v2 = Prísne dodržiavame <a href="{ $principles }">princípy ochrany osobných údajov</a> spoločnosti { -brand-name-mozilla } a zhromažďujeme údaje potrebné na udržanie prevádzkyschopnosti VPN a na zlepšovanie produktu v priebehu času. V našej mobilnej aplikácii sledujeme aj údaje o kampaniach a odporúčaniach, aby sme pomohli { -brand-name-mozilla(case: "dat") } pochopiť efektivitu našich marketingových kampaní. Ďalšie informácie nájdete v našom <a href="{ $notice }">Oznámení o ochrane osobných údajov</a>.
+vpn-landing-faq-info-question-desc-v2 = Prísne dodržiavame <a href="{ $principles }">princípy ochrany osobných údajov</a> spoločnosti { -brand-name-mozilla } a zhromažďujeme údaje potrebné na udržanie prevádzkyschopnosti VPN a na zlepšovanie produktu v priebehu času. V našej mobilnej aplikácii sledujeme aj údaje o kampaniach a odporúčaniach, aby sme pomohli { -brand-name-mozilla(case: "dat") } pochopiť efektivitu našich marketingových kampaní. Ďalšie informácie nájdete v našom <a href="{ $notice }">Vyhlásení o ochrane osobných údajov</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/

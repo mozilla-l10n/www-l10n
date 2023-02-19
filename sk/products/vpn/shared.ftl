@@ -53,7 +53,7 @@ vpn-shared-features-connect = Pripojte až { $devices } zariadení
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-dňová záruka vrátenia peňazí
 vpn-shared-refund-policy = Pravidlá vrátenia peňazí
-vpn-shared-privacy-notice = Zásady ochrany súkromia
+vpn-shared-privacy-notice = Vyhlásenie o ochrane osobných údajov
 vpn-shared-terms-conditions = Podmienky používania
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registrovaná ochranná známka Jasona A. Donenfelda
 
@@ -134,7 +134,7 @@ vpn-subnav-subscribe = Predplaťte si službu { -brand-name-mozilla-vpn }
 
 # Variables:
 #   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = Používame cookies, aby sme pochopili, ktorý partner vás priviedol k { -brand-name-mozilla-vpn }. S našimi partnermi nezdieľame osobné identifikačné údaje. Prečítajte si naše <a { $attrs }>Zásady ochrany osobných údajov</a>.
+vpn-shared-affiliate-notification-message = Používame cookies, aby sme pochopili, ktorý partner vás priviedol k { -brand-name-mozilla-vpn }. S našimi partnermi nezdieľame osobné identifikačné údaje. Prečítajte si naše <a { $attrs }>Vyhlásenie o ochrane osobných údajov</a>.
 vpn-shared-affiliate-notification-reject = Odmietnuť
 vpn-shared-affiliate-notification-ok = OK
 

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Zadajte platnú e-mailovú adresu
-newsletter-form-you-must-agree-to = Musíte súhlasiť zo zásadami ochrany súkromia.
+newsletter-form-you-must-agree-to = Musíte súhlasiť s Vyhlásením o ochrane osobných údajov
 newsletter-form-your-email-address = Vaša e-mailová adresa
 newsletter-form-we-are-sorry-but-there = Ospravedlňujeme sa, ale v našom systéme sa vyskytol problém. Skúste neskôr prosím!
 newsletter-form-please-select-country = Zvoľte krajinu alebo oblasť
@@ -19,7 +19,7 @@ newsletter-form-text = Text
 newsletter-form-get-firefox-news = Získajte novinky o { -brand-name-firefox(case: "loc") }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = Beriem na vedomie, že { -brand-name-mozilla } spracuje tieto údaje v súlade so <a href="{ $url }">zásadami ochrany súkromia</a>
+newsletter-form-im-okay-with-mozilla = Beriem na vedomie, že { -brand-name-mozilla } spracuje tieto údaje v súlade s <a href="{ $url }">Vyhlásením o ochrane osobných údajov</a>
 newsletter-form-we-will-only-send = Zasielať Vám budeme len informácie týkajúce sa { -brand-name-mozilla(case: "gen") }.
 newsletter-form-we-will-only-send-firefox = Zasielať Vám budeme len informácie týkajúce sa { -brand-name-firefox(case: "gen") }.
 newsletter-form-if-you-havent-previously = Ak ste v minulosti nepotvrdili odber noviniek { -brand-name-mozilla(case: "gen") }, budete to musieť urobiť teraz. Pozrite sa, prosím, do vašej e-mailovej schránky, prípadne i do priečinku s nevyžiadanou poštou, či sa tam nenachádza e-mail od nás.

@@ -35,7 +35,7 @@ privacy-faq-okay-those-first-few-were-softballs = Ok, teraz niečo zložitejšie
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } v predvolenom nastavení zbiera obmedzené množstvo údajov, ktoré nám pomáhajú pochopiť, ako ľudia používajú { -brand-name-firefox }. Údaje sú označené anonymným identifikátorom a nie vašim menom či e-mailovou adresou. Viac si môžete prečítať v našich <a href="{ $privacy }">zásadách ochrany súkromia</a> a taktiež si môžete prečítať <a href="{ $data }">kompletnú dokumentáciu o zbere údajov</a>.
+privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } v predvolenom nastavení zbiera obmedzené množstvo údajov, ktoré nám pomáhajú pochopiť, ako ľudia používajú { -brand-name-firefox }. Údaje sú označené anonymným identifikátorom a nie vašim menom či e-mailovou adresou. Viac si môžete prečítať v našom <a href="{ $privacy }">Vyhlásení o ochrane osobných údajov</a> a taktiež si môžete prečítať <a href="{ $data }">kompletnú dokumentáciu o zbere údajov</a>.
 privacy-faq-we-make-our-documentation-public = Našu dokumentáciu zverejňujeme, takže ktokoľvek si môže overiť, či hovoríme pravdu. Ľudia nám tak môžu veriť, že nič neskrývame.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Tie dokumenty sú pre mňa španielska dedina. Môžete mi to vysvetliť jednoduchšou formou?
