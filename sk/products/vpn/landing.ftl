@@ -52,7 +52,7 @@ vpn-landing-faq-uses-examples = Pozrite si <a href="{ $url }">5 príkladov z re�
 vpn-landing-faq-info-question-heading = Aké informácie { -brand-name-mozilla-vpn } uchováva?
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Prísne dodržiavame <a href="{ $principles }">princípy ochrany osobných údajov</a> spoločnosti { -brand-name-mozilla } a zhromažďujeme údaje potrebné na udržanie prevádzkyschopnosti VPN a na zlepšovanie produktu v priebehu času. V našej mobilnej aplikácii sledujeme aj údaje o kampaniach a odporúčaniach, aby sme pomohli { -brand-name-mozilla(case: "dat") } pochopiť efektivitu našich marketingových kampaní. Ďalšie informácie nájdete v našom <a href="{ $notice }">Oznámení o ochrane osobných údajov</a>.
 # Obsolete string
 # Variables:
@@ -138,6 +138,7 @@ vpn-landing-faq-link = Ďalšie často kladené otázky
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Pridajte sa na zoznam čakateľov: { -brand-name-mozilla-vpn }
+# Outdated string
 vpn-landing-invite-page-desc = Dáme vám vedieť, keď bude { -brand-name-mozilla-vpn } k dispozícii pre vaše zariadenie a región.
 vpn-landing-invite-page-heading = Pridajte sa na zoznam čakateľov na VPN
 vpn-landing-invite-email-label = Aká je vaša e-mailová adresa?
@@ -146,18 +147,9 @@ vpn-landing-invite-required-label = Požadované
 vpn-landing-invite-email-placeholder = vasa_adresa@example.com
 vpn-landing-invite-country-label = V ktorej krajine žijete?
 vpn-landing-invite-language-label = Vyberte si vami požadovaný jazyk.
-vpn-landing-invite-platform-label = O ktoré platformy máte záujem?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
-vpn-landing-invite-privacy-policy = Kliknutím na tlačidlo „Pridať sa na zoznam čakateľov“ súhlasíte s našimi <a href="{ $privacy }">zásadami ochrany súkromia</a>.
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-landing-invite-privacy-policy = Kliknutím na tlačidlo „Pridať sa na zoznam čakateľov“ súhlasíte s našimi <a href="{ $privacy }">Zásadami ochrany osobných údajov</a>.
 vpn-landing-invite-your-information = Vaše informácie budú použité iba na informovanie o dostupnosti.
 vpn-landing-invite-thanks-heading = Vďaka! Ste na zozname
 vpn-landing-invite-thanks-desc = Hneď ako bude { -brand-name-mozilla-vpn } k dispozícii pre váš región, pošleme vám e-mail.

@@ -36,7 +36,7 @@ best-browser-trackers-are-all-those = Sledovacie prvky sú všetky tie otravné 
 best-browser-another-way-to-stop = Ďalším spôsobom, ako zabrániť sledovacím prvkom v sledovaní, je použitie súkromného režimu. Každý prehliadač, ktorý tvrdí, že je zameraný na súkromie by mal ponúkať prehliadanie v súkromnom alebo anonymnom režime.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-best-browser-one-easy-way-to-check = Jeden jednoduchý spôsob, ako si to môžete overiť, je navštívenie zásad ochrany súkromia. Na stránke o ochrane súkromia by malo byť napísané, či sú vaše údaje zdieľané a prečo. Preto sú <a href="{ $privacy }">zásady ochrany súkromia vo { -brand-name-firefox(case: "loc") }</a> zrozumiteľné a dajú sa ľahko nájsť.
+best-browser-one-easy-way-to-check = Jeden jednoduchý spôsob, ako si to môžete overiť, je navštívenie zásad ochrany súkromia. Na stránke o ochrane súkromia by malo byť napísané, či sú vaše údaje zdieľané a prečo. Preto sú <a href="{ $privacy }">Zásady ochrany osobných údajov vo { -brand-name-firefox(case: "loc") }</a> zrozumiteľné a dajú sa ľahko nájsť.
 best-browser-choosing-the-best-browser = Výber najlepšieho prehliadača je ako výber domu. Mali by ste preskúmať všetky možnosti, urobiť si prieskum a rozhodnúť sa na základe toho, čo je pre vás dôležité.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
