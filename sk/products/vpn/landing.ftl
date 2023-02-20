@@ -70,7 +70,7 @@ vpn-landing-faq-competition-question-desc-v2 = Aj keď sa bezplatné siete VPN z
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc = Aj keď VPN zdarma pôsobia lákavo, neriadia sa rovnakými zásadami súkromia ako my v { -brand-name-mozilla-vpn } a môžu predávať vaše údaje. Ostatné platené VPN nemajú za sebou 20 rokov <a href="{ $url }">skúseností</a> pri tvorbe produktov, ktoré kladú na prvé miesto ľudí a súkromie, ako { -brand-name-mozilla }.
+vpn-landing-faq-competition-question-desc = Aj keď VPN zdarma pôsobia lákavo, neriadia sa rovnakými zásadami ochrany súkromia ako my v { -brand-name-mozilla-vpn } a môžu predávať vaše údaje. Ostatné platené VPN nemajú za sebou 20 rokov <a href="{ $url }">skúseností</a> pri tvorbe produktov, ktoré kladú na prvé miesto ľudí a súkromie, ako { -brand-name-mozilla }.
 vpn-landing-faq-compatibility-question-heading = S akými zariadeniami je { -brand-name-mozilla-vpn } kompatibilné?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/

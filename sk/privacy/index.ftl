@@ -27,7 +27,7 @@ privacy-index-get-involved = Zapojte sa
 privacy-index-as-an-open-source-project = Keďže sme open source projekt, transparentnosť a otvorenosť sú neoddeliteľnou súčasťou princípov { -brand-name-mozilla(case: "gen") }. Naše zdrojové kódy sú otvorené a prístupné každému. Náš vývoj je taktiež otvorený. Naša <a href="{ $report }">Správa o transparentnosti</a>, ktorú vydávame dvakrát za rok, predstavuje jeden zo spôsobov, ako si ctíme tieto princípy.
 # Variables:
 #   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
-privacy-index-to-review-and-comment-on-proposed = Ak si chcete pozrieť a prípadne okomentovať navrhované zmeny v našich zásadách ochrany súkromia, pozrite si našu <a href="{ $group }">skupinu { -brand-name-mozilla } Governance</a>.
+privacy-index-to-review-and-comment-on-proposed = Ak si chcete pozrieť a prípadne okomentovať navrhované zmeny v našich Zásadách ochrany osobných údajov, pozrite si našu <a href="{ $group }">skupinu { -brand-name-mozilla } Governance</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Viac si o našej práci týkajúcej sa súkromia a bezpečnosti môžete prečítať na našom <a href="{ $blog }">blogu { -brand-name-mozilla } Open Policy and Advocacy</a>.
