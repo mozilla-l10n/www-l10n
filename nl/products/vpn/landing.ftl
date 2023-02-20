@@ -52,7 +52,7 @@ vpn-landing-faq-uses-examples = Bekijk <a href="{ $url }">vijf praktijkvoorbeeld
 vpn-landing-faq-info-question-heading = Welke informatie bewaart de { -brand-name-mozilla-vpn }?
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = We houden ons strikt aan de <a href="{ $principles }">Gegevensprivacyprincipes</a> van { -brand-name-mozilla } en we verzamelen de gegevens die nodig zijn om de VPN operationeel te houden en om het product mettertijd te verbeteren. We volgen ook campagne- en doorverwijzingsgegevens op onze mobiele app, om { -brand-name-mozilla } te helpen begrijpen hoe effectief onze marketingcampagnes zijn. Meer info in onze <a href="{ $notice }">Privacyverklaring</a>.
 # Obsolete string
 # Variables:
@@ -138,6 +138,8 @@ vpn-landing-faq-link = Meer veelgestelde vragen lezen
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Plaats uzelf op de wachtlijst: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Ontvang een bericht wanneer { -brand-name-mozilla-vpn } beschikbaar is voor uw regio.
+# Outdated string
 vpn-landing-invite-page-desc = Ontvang een bericht wanneer { -brand-name-mozilla-vpn } beschikbaar is voor uw apparaat en regio.
 vpn-landing-invite-page-heading = Plaats uzelf op de VPN-wachtlijst
 vpn-landing-invite-email-label = Wat is uw e-mailadres?
@@ -146,17 +148,8 @@ vpn-landing-invite-required-label = Vereist
 vpn-landing-invite-email-placeholder = uwnaam@example.com
 vpn-landing-invite-country-label = In welk land woont u?
 vpn-landing-invite-language-label = Selecteer uw voorkeurstaal.
-vpn-landing-invite-platform-label = In welke platforms bent u geïnteresseerd?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Door op ‘Op de wachtlijst plaatsen’ te klikken stemt u in met ons <a href="{ $privacy }">privacybeleid</a>.
 vpn-landing-invite-your-information = Uw gegevens worden alleen gebruikt om u te berichten over platformbeschikbaarheid.
 vpn-landing-invite-thanks-heading = Bedankt! U staat op de lijst

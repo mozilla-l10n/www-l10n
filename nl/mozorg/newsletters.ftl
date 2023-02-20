@@ -22,6 +22,10 @@ newsletters-your-newsletter-subscription = Uw nieuwsbriefinschrijving is bevesti
 newsletters-please-be-sure-to-add-our-v2 = Voeg ons verzendadres mozilla@email.mozilla.org toe aan uw adresboek, zodat we uw postvak altijd bereiken.
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Zorg ervoor dat u ons afzenderadres mozilla@e.mozilla.org aan uw adresboek toevoegt, zodat we altijd uw postvak IN kunnen bereiken.
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = De geleverde koppeling is verlopen. <a { $recovery_href }>Vraag hier een nieuwe koppeling aan</a>.
+# Obsolete string
 newsletters-the-supplied-link-has-expired = De verstrekte koppeling is verouderd. U ontvangt een nieuwe in de volgende nieuwsbrief.
 newsletters-something-is-amiss-with = Er is iets mis met ons systeem, sorry! Probeer het later nog eens.
 newsletters-youre-awesome = U bent geweldig!
@@ -104,7 +108,6 @@ newsletters-put-more-fox-in-your-inbox = Stop meer fox in uw inbox.
 newsletters-see-where-the-web-can-take = Bekijk waar het web u kan brengen met maandelijkse { -brand-name-firefox }-tips, -trucs en wetenswaardigheden over internet.
 newsletters-we-are-sorry-but-there = Het spijt ons, maar er was een probleem met ons systeem. Probeer het later nog eens!
 newsletters-thanks-for-updating-your = Bedankt voor het bijwerken van uw e-mailvoorkeuren.
-newsletters-the-supplied-link-has-expired-long = De opgegeven koppeling is verlopen of niet geldig. U ontvangt een nieuwe in de volgende nieuwsbrief, of vraag hieronder een nieuwe aan via e-mail.
 newsletters-success-an-email-has-been-sent = Gelukt! Er is een e-mailbericht met een koppeling naar uw voorkeurencentrum naar u verstuurd. Bedankt!
 newsletters-this-is-not-a-valid-email = Dit is geen geldig e-mailadres. Controleer de spelling.
 newsletters-you-send-too-many-emails = Jullie sturen te veel e-mailberichten.
