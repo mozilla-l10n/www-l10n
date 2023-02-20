@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-compare-mobile-browsers = ປຽບທຽບຕົວທ່ອງເວັບຂອງໂທລະສັບມືຖື
 browsers-mobile-compare = ປຽບທຽບ
 browsers-mobile-download = ດາວໂຫລດ
 browsers-mobile-android = { -brand-name-android }

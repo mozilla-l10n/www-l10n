@@ -23,6 +23,7 @@ mobile-compare-syncing = ກຳລັງ sync
 mobile-compare-does-your-browser = ຕົວທ່ອງເວັບຂອງທ່ານຫຼິ້ນໄດ້ດີກັບອຸປະກອນອື່ນໆບໍ?
 mobile-compare-almost-all-of = ເກືອບທັງຫມົດຂອງຕົວທ່ອງເວັບມືຖືເມື່ອປຽບທຽບທີ່ນີ້ອະນຸຍາດໃຫ້ synchronization ສໍາເລັດລະຫວ່າງອຸປະກອນມືຖືແລະ desktop.
 mobile-compare-conclusion = ສະຫລຸບ
+mobile-compare-our-recommendations-aside = ຄໍາແນະນໍາຂອງພວກເຮົານອກຈາກນັ້ນ, ການຊອກຫາຕົວທ່ອງເວັບທີ່ເຫມາະສົມສໍາລັບທ່ານສະເຫມີຈະຂຶ້ນກັບຄວາມຕ້ອງການສ່ວນບຸກຄົນຂອງທ່ານແລະສິ່ງທີ່ທ່ານໃຫ້ຄຸນຄ່າຫຼາຍທີ່ສຸດໃນເວລາທີ່ທ່ານທ່ອງອອນໄລນ໌.
 mobile-compare-search-engine-options = ທາງເລືອກຂອງເຄື່ອງຈັກຊອກຫາ
 mobile-compare-text-to-speech = ຂໍ້ຄວາມເປັນສຽງເວົ້າ
 mobile-compare-reader-mode = ໂໝດຜູ້ອ່ານ
