@@ -28,7 +28,14 @@ newsletters-please-be-sure-to-add-our-v2 = Veuillez vous assurer que notre adres
 
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Veuillez vous assurer que notre adresse d’expéditeur mozilla@e.mozilla.org est bien ajoutée à votre carnet d’adresses, afin que nos messages arrivent à coup sûr dans votre boîte.
+
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = Le lien fourni n’est plus valide. <a { $recovery_href }>Rendez-vous ici pour demander un nouveau lien</a>.
+
+# Obsolete string
 newsletters-the-supplied-link-has-expired = Le lien fourni n’est plus valide. Vous recevrez un nouveau lien dans la prochaine lettre d’information.
+
 newsletters-something-is-amiss-with = Nous sommes désolés, notre système a rencontré une erreur. Veuillez réessayer ultérieurement.
 newsletters-youre-awesome = Vraiment, merci.
 newsletters-and-were-not-just-saying = Et on ne dit pas ça uniquement parce que vous nous faites confiance en nous communiquant votre adresse électronique.
@@ -137,7 +144,6 @@ newsletters-see-where-the-web-can-take = Chaque mois, découvrez tout le potenti
 
 newsletters-we-are-sorry-but-there = Nous sommes désolés, mais un problème est apparu dans notre système. Veuillez réessayer un peu plus tard !
 newsletters-thanks-for-updating-your = Merci d’avoir mis à jour vos préférences de réception du courrier.
-newsletters-the-supplied-link-has-expired-long = Le lien que vous avez suivi a expiré ou bien n’est pas valide. Vous en recevrez un nouveau avec la prochaine lettre mensuelle, sinon vous pouvez demander un courriel avec un nouveau lien.
 newsletters-success-an-email-has-been-sent = Terminé ! Un courrier électronique vous a été envoyé avec un lien vers le centre des préférences. Merci !
 newsletters-this-is-not-a-valid-email = Ce n’est pas une adresse électronique valide. Veuillez vérifier votre saisie.
 newsletters-you-send-too-many-emails = Vous envoyez trop de courriels.
