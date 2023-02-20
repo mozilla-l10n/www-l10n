@@ -28,7 +28,14 @@ newsletters-please-be-sure-to-add-our-v2 = Pastikan alamat penghantaran kami: mo
 
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Sila pastikan alamat penghantaran kami: mozilla@e.mozilla.org disimpan di dalam buku alamat agar berita kami sampai kepada anda.
+
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = Pautan yang diberikan telah tamat. Sila <a { $recovery_href }>mohon pautan baru di sini</a>.
+
+# Obsolete string
 newsletters-the-supplied-link-has-expired = Pautan yang diberikan telah tamat. Anda akan menerima yang baru di buletin seterusnya.
+
 newsletters-something-is-amiss-with = Ada yang tidak kena dengan sistem kami, maaf! Sila cuba sebentar lagi.
 newsletters-youre-awesome = Anda hebat!
 newsletters-and-were-not-just-saying = Kami tidak hanya mengatakannya kerana anda mempercayai kami dengan alamat e-mel anda.
@@ -137,7 +144,6 @@ newsletters-see-where-the-web-can-take = Lihat sejauh mana internet boleh menamb
 
 newsletters-we-are-sorry-but-there = Kami mohon maaf, tetapi ada masalah dengan sistem kami. Sila cuba sebentar lagi!
 newsletters-thanks-for-updating-your = Terima kasih kerana mengemas kini pilihan e-mel anda.
-newsletters-the-supplied-link-has-expired-long = Pautan yang diberikan telah luput atau tidak sah. Anda akan menerima yang baru di buletin seterusnya, atau boleh meminta e-mel dengan pautan di bawah.
 newsletters-success-an-email-has-been-sent = Berjaya! E-mel telah dihantar kepada anda dengan pautan pilihan anda. Terima kasih!
 newsletters-this-is-not-a-valid-email = Ini bukan alamat e-mel yang sah. Sila periksa ejaannya.
 newsletters-you-send-too-many-emails = Anda menghantar terlalu banyak e-mel.
