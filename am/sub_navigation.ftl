@@ -54,3 +54,6 @@ sub-navigation-browsing-history = የአሰሳ ታሪክ
 sub-navigation-browser-history = የአሳሽ ታሪክ
 sub-navigation-privacy = ግላዊነት
 sub-navigation-our-promise = የኛ ቃል
+sub-navigation-our-products = የእኛ ምርቶች
+sub-navigation-little-book-of-privacy = ትንሽ የግላዊነት መጽሐፍ
+sub-navigation-safe-passwords = አስተማማኝ የይለፍ ቃላት
