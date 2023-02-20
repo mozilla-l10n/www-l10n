@@ -30,7 +30,7 @@ firefox-browsers-go-beyond-two-dimensions-and = 游目骋怀，享受网络中�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = 使用 { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>开发网站、调校代码
 firefox-browsers-learn-more-about-devtools = 详细了解“{ -brand-name-devtools }”
-firefox-browsers-join-firefox-and-get-the-most = 加入 { -brand-name-firefox } 的行列，跨越设备边界，体验各个产品的智能技术。
+firefox-browsers-join-firefox-and-get-the-most = 加入 { -brand-name-firefox } 的行列，跨越设备边界，解锁各个产品的高阶体验。
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
