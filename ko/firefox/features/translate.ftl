@@ -11,8 +11,6 @@ features-translate-translate-the-web-title = 브라우저에서 웹페이지 바
 features-translate-translate-more-than = { -brand-name-firefox-browser }에서 100개 이상의 언어를 여러분의 언어로 바로 번역하세요. 그 어느 때보다 쉽습니다.
 features-translate-translate-the-web = { -brand-name-firefox }로 웹페이지 번역하기
 features-translate-the-google-translate = { -brand-name-firefox }를 위한 To { -brand-name-google } Translate 확장 기능은 웹을 세계 어디서나 접근할 수 있게 해줍니다
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = 인터넷은 놀라운 것으로 가득 차 있지만 그 중 상당수는 영어로 작성되어 있지 않아 전 세계 수십억 명의 사람들이 오로지 인터넷을 사용하기 위해 번역기를 필요하게 만듭니다. 여러분은 100개 이상의 언어로 { -brand-name-firefox }를 다운로드하여 브라우저의 메뉴나 알림, 메세지를 여러분이 선호하는 언어로 표시할 수 있지만 브라우저로 찾을 수 있는 놀라운 콘텐츠의 모든 문제가 해결되는 것은 아닙니다.
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = 100개 이상의 언어를 이용할 수 있는 { -brand-name-google } 번역은 전 세계의 수백만 명의 사람들이 이용하고 있습니다. 하지만 translate.google.com와 여러분이 읽으려고 하는 페이지를 오가는 것은 이상적인 경험이 아닙니다. <a { $attrs }>To { -brand-name-google } Translate</a> 확장 기능은 현재 페이지를 그 어느 때보다 쉽게 번역할 수 있습니다.
