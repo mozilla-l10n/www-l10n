@@ -182,7 +182,12 @@ vpn-landing-faq-link = अन्य आम सवाल देखें
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = वेटिंग लिस्ट में शामिल हों: { -brand-name-mozilla-vpn }
+
+vpn-landing-invite-page-desc-v2 = आपके क्षेत्र के लिए { -brand-name-mozilla-vpn } उपलब्ध होने पर इसकी सूचना पाएं।
+
+# Outdated string
 vpn-landing-invite-page-desc = { -brand-name-mozilla-vpn } के आपके डिवाइस और इलाके के लिए उपलब्ध होने पर इसकी सूचना पाएँ।
+
 vpn-landing-invite-page-heading = VPN की वेटिंग लिस्ट में शामिल हों
 vpn-landing-invite-email-label = आपका ईमेल एड्रेस क्या है?
 vpn-landing-invite-required-label = आवश्यक
@@ -192,18 +197,6 @@ vpn-landing-invite-email-placeholder = yourname@example.com
 
 vpn-landing-invite-country-label = आप किस देश में रहते हैं?
 vpn-landing-invite-language-label = अपनी पसंदीदा भाषा चुनें।
-vpn-landing-invite-platform-label = आपको कौन-सा प्लेटफ़ॉर्म पसंद है?
-
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
