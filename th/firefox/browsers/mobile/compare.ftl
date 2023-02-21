@@ -17,6 +17,7 @@ mobile-compare-what-can-your = เบราว์เซอร์ของคุ�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>การซิงค์</strong>
 mobile-compare-syncing = การซิงค์
+mobile-compare-does-your-browser = เบราว์เซอร์ของคุณเล่นได้ดีกับอุปกรณ์อื่น ๆ หรือไม่?
 mobile-compare-conclusion = สรุป
 mobile-compare-search-engine-options = ตัวเลือกเครื่องมือค้นหา
 mobile-compare-text-to-speech = การแปลงข้อความเป็นคำพูด
