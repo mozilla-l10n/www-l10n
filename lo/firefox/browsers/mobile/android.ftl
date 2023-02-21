@@ -32,3 +32,4 @@ mobile-android-about-mozilla = ກ່ຽວກັບ { -brand-name-mozilla }
 mobile-android-short-cut-the-internet = ທາງລັດອິນເຕີເນັດດ້ວຍ { -brand-name-firefox } ສໍາລັບ { -brand-name-android }
 mobile-android-see-all-your-open-tabs = ເບິ່ງແຖບເປີດທັງໝົດຂອງເຈົ້າ, ການຊອກຫາຫຼ້າສຸດ ແລະເວັບໄຊທີ່ມັກທັງໝົດຢູ່ໃນບ່ອນດຽວດ້ວຍ { -brand-name-firefox } browser for { -brand-name-android }.
 mobile-android-own-your-home = ເປັນເຈົ້າຂອງໜ້າຈໍຫຼັກຂອງເຈົ້າ
+mobile-android-get-to-the-parts = ໄປຫາພາກສ່ວນຕ່າງໆຂອງອິນເຕີເນັດທີ່ທ່ານສົນໃຈໄດ້ໄວຂຶ້ນ. ເລືອກເບິ່ງແຖບເປີດທັງໝົດຂອງເຈົ້າ, ການຊອກຫາຫຼ້າສຸດ, ບຸກມາກ ແລະເວັບໄຊທີ່ມັກທັງໝົດຢູ່ໃນບ່ອນດຽວ.

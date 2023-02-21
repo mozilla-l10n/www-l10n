@@ -8,3 +8,4 @@
 # HTML page title
 get-ios-firefox-for-ios = { -brand-name-firefox-browser } ສໍາລັບ { -brand-name-ios }
 get-ios-firefox-browser = { -brand-name-firefox }
+get-ios-download-firefox = ດາວໂຫລດ { -brand-name-firefox } ສໍາລັບ { -brand-name-ios }

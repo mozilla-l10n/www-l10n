@@ -14,6 +14,7 @@ mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } ແ
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = ພຽງ​ແຕ່​ການ​ຊອກ​ຫາ​ໂທລະ​ສັບ​ມື​ຖື​ສ່ວນ​ຕົວ​
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } ແມ່ນບຣາວເຊີຄວາມເປັນສ່ວນຕົວສະເພາະຂອງທ່ານທີ່ມີການປ້ອງກັນການຕິດຕາມອັດຕະໂນມັດ. ດ້ວຍ { -brand-name-focus }, ໜ້າເວັບຂອງເຈົ້າໂຫລດໄວຂຶ້ນ ແລະຂໍ້ມູນຂອງທ່ານຍັງຄົງເປັນສ່ວນຕົວ.
+mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } ສາມາດໃຊ້ໄດ້ກັບທັງອຸປະກອນ { -brand-name-ios } ແລະ { -brand-name-android }.
 mobile-focus-get-firefox-focus = ເອົາ { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = ສົ່ງລິ້ງດາວໂຫລດໄປຫາໂທລະສັບຂອງທ່ານ.
 mobile-focus-scan-the-qr-code-to-get-started = ສະແກນ QR code ເພື່ອເລີ່ມຕົ້ນ

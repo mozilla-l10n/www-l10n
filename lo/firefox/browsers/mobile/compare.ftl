@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+# HTML page title
+mobile-compare-5-of-the-best = 5 ຂອງຕົວທ່ອງເວັບມືຖືທີ່ດີທີ່ສຸດໃນການປຽບທຽບໂດຍກົງ
 mobile-compare-which-mobile-browser = ຕົວທ່ອງເວັບມືຖືໃດທີ່ຮັກສາສິ່ງທີ່ເປັນຄວາມລັບ?
 mobile-compare-at-a-minimum-v2 = ຢ່າງຫນ້ອຍ, ຕົວທ່ອງເວັບຂອງມືຖືຂອງທ່ານຄວນຈະສະຫນອງບາງຮຸ່ນຂອງ "ໂຫມດຜົນການຊອກຫາສ່ວນຕົວ", ເຊິ່ງຈະລຶບປະຫວັດແລະປະຫວັດການຊອກຫາຂອງທ່ານໂດຍອັດຕະໂນມັດ. ໃນຂົງເຂດນີ້, ທັງຫມົດຫ້າຕົວທ່ອງເວັບປຽບທຽບນີ້ຈຸດຄະແນນ.
 # Obsolete string
