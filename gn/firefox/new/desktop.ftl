@@ -12,6 +12,7 @@
 firefox-desktop-download-meta-title = Emboguejy { -brand-name-firefox-browser }. Ipya’e, iñemi ha reigua { -brand-name-mozilla } guive
 firefox-desktop-download-meta-title-v2 = Emboguejy { -brand-name-firefox } mesa ariguápe g̃uarã { -brand-name-mozilla } guive
 firefox-desktop-download-meta-desc = Ereko { -brand-name-firefox }, ñanduti kundahára reigua omboguatáva { -brand-name-mozilla }, atyguasu viru’ỹgua omba’apóva ñanduti resãi ha ñemiguáre. Eipurukuaa { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } ha { -brand-name-ios }-pe.
+firefox-desktop-download-meta-desc-v2 = Ereko { -brand-name-firefox } { -brand-name-windows } peg̃uarã, { -brand-name-mac-short } térã { -brand-name-linux }. { -brand-name-firefox } ha’e ñanduti kundahára reigua oykekóva { -brand-name-mozilla }, mba’apohaguasu viru’ỹgua omba’apóva ñanduti resãi ha rekorosãrare.
 firefox-desktop-download-og-title = Emboguejy { -brand-name-firefox } ipya’evéva opa ára
 firefox-desktop-download-og-desc = Kuatiarogue myanyhẽ pya’eve, sa’ive oipuru mandu’arenda ha hembiapoiteve, kóva { -brand-name-firefox } pyahu.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
