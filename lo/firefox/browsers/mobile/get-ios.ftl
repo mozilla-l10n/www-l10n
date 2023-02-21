@@ -9,3 +9,4 @@
 get-ios-firefox-for-ios = { -brand-name-firefox-browser } ສໍາລັບ { -brand-name-ios }
 get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = ດາວໂຫລດ { -brand-name-firefox } ສໍາລັບ { -brand-name-ios }
+get-ios-firefox-mobile-adapts = ມືຖື { -brand-name-firefox } ປັບຕົວເຂົ້າກັບເຈົ້າ ແລະເຮັດໃຫ້ມັນງ່າຍຂຶ້ນກວ່າທີ່ເຄີຍເຫັນແຖບເປີດທັງໝົດຂອງເຈົ້າ, ການຊອກຫາທີ່ຜ່ານມາ ແລະເວັບໄຊທີ່ມັກ.
