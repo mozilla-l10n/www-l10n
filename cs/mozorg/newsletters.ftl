@@ -22,6 +22,10 @@ newsletters-your-newsletter-subscription = Váš odběr zpravodaje byl potvrzen.
 newsletters-please-be-sure-to-add-our-v2 = Nezapomeňte si prosím přidat naši odesílací adresu mozilla@email.mozilla.org do svých kontaktů, abyste měli jistotu, že se vždy objevíme ve složce doručené pošty.
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Nezapomeňte si prosím přidat naši odesílací adresu mozilla@e.mozilla.org do svých kontaktů, abyste měli jistotu, že se vždy objevíme ve složce doručené pošty.
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = Platnost poskytnutého odkazu vypršela. <a { $recovery_href }>Požádejte prosím o nový odkaz</a>.
+# Obsolete string
 newsletters-the-supplied-link-has-expired = Platnost dodaného odkazu vypršela. Nový obdržíte v příštím zpravodaji.
 newsletters-something-is-amiss-with = Něco není v pořádku s našim systémem. Omlouváme se! Zkuste to prosím později.
 newsletters-youre-awesome = Jste úžasní!
@@ -72,7 +76,7 @@ newsletters-newsletter-email-recovery = Obnovení e-mailu pro odběr zpravodaje
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Spravujte své <span>odběry zpravodajů</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/recovery/
-newsletters-enter-your-email-address = Zadejte svou e -mailovou adresu a my vám zašleme odkaz na centrum nastavení vašeho e-mailu.
+newsletters-enter-your-email-address = Zadejte svou e-mailovou adresu a my vám zašleme odkaz na centrum nastavení vašeho e-mailu.
 newsletters-send-me-a-link = Pošlete mi odkaz
 newsletters-youve-been-unsubscribed = Odběr zpravodaje byl odhlášen.
 newsletters-were-sorry-to-see-you-go = Je nám líto, že odcházíte.
@@ -104,7 +108,6 @@ newsletters-put-more-fox-in-your-inbox = Více o Firefoxu ve vaší e-mailové s
 newsletters-see-where-the-web-can-take = Zjistěte, kam může web směřovat z našich měsíčních tipů k { -brand-name-firefox(case: "dat") } a triků pro používání internetu.
 newsletters-we-are-sorry-but-there = Omlouváme se, v našem systému nastal problém. Zkuste to prosím později!
 newsletters-thanks-for-updating-your = Děkujeme za aktualizaci vašeho nastavení e-mailů.
-newsletters-the-supplied-link-has-expired-long = Platnost zadaného odkazu vypršela nebo je neplatný. Nový obdržíte v dalším e-mailu z našeho zpravodaje, nebo si jej můžete vyžádat níže.
 newsletters-success-an-email-has-been-sent = Poslali jsme vám e-mail s odkazem na nastavení našeho zpravodaje. Děkujeme!
 newsletters-this-is-not-a-valid-email = Toto není platná e-mailová adresa. Překontrolujte ji prosím.
 newsletters-you-send-too-many-emails = Zasíláte příliš mnoho e-mailů.
