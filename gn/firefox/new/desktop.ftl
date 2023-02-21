@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Emboguejy { -brand-name-firefox-browser }. Ipya’e, iñemi ha reigua { -brand-name-mozilla } guive
+firefox-desktop-download-meta-title-v2 = Emboguejy { -brand-name-firefox } mesa ariguápe g̃uarã { -brand-name-mozilla } guive
 firefox-desktop-download-meta-desc = Ereko { -brand-name-firefox }, ñanduti kundahára reigua omboguatáva { -brand-name-mozilla }, atyguasu viru’ỹgua omba’apóva ñanduti resãi ha ñemiguáre. Eipurukuaa { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } ha { -brand-name-ios }-pe.
 firefox-desktop-download-og-title = Emboguejy { -brand-name-firefox } ipya’evéva opa ára
 firefox-desktop-download-og-desc = Kuatiarogue myanyhẽ pya’eve, sa’ive oipuru mandu’arenda ha hembiapoiteve, kóva { -brand-name-firefox } pyahu.
@@ -38,10 +39,9 @@ firefox-desktop-download-blocks-social-trackers = Ejoko tapykuehoha atyguáva
 firefox-desktop-download-os-availability = OS jepurukuaáva
 firefox-desktop-download-in-browser-screenshot = Mba’erecha japyhyha kundahárape rembipuru
 firefox-desktop-download-primary-password = Ñe’ẽñemi ha’etéva
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Ejehayhúke eikundahávo
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Ne ñanduti. Embosa’y eipotaháicha etaiterei tembipuru rupive, téma ha jepysokue. { -brand-name-firefox } ha’e kundahára mokõiha ypyguáva oguerekóva yvypórape viru jepota ári.
 # Obsolete string
 firefox-desktop-download-master-password = Ñe’ẽñemi peteĩháva
