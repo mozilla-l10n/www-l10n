@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+# HTML description
+mobile-android-firefox-browser-for = ໂປຣແກຣມທ່ອງເວັບ { -brand-name-firefox } ສຳລັບ { -brand-name-android } ແມ່ນໄວ, ປອດໄພ ແລະເປັນສ່ວນຕົວຕັ້ງແຕ່ຄັ້ງທຳອິດທີ່ທ່ານເປີດມັນ.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 # Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = ໄປມືຖື. ໄປອິນດີ້ກັບ { -brand-name-firefox } ສໍາລັບ { -brand-name-android }
