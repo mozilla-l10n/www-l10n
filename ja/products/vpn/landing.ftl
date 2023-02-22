@@ -182,7 +182,12 @@ vpn-landing-faq-link = よくあるご質問をもっと見る
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = ウェイトリストに登録: { -brand-name-mozilla-vpn }
+
+vpn-landing-invite-page-desc-v2 = { -brand-name-mozilla-vpn } がお住まいの地域で公開されたときに通知します。
+
+# Outdated string
 vpn-landing-invite-page-desc = { -brand-name-mozilla-vpn } がお使いのデバイスおよび地域で利用可能になったときに通知します。
+
 vpn-landing-invite-page-heading = VPN ウェイトリストに登録
 vpn-landing-invite-email-label = メールアドレスを入力してください。
 vpn-landing-invite-required-label = 必須
@@ -192,18 +197,6 @@ vpn-landing-invite-email-placeholder = yourname@example.com
 
 vpn-landing-invite-country-label = お住まいの国を選択してください。
 vpn-landing-invite-language-label = ご希望の言語を選択してください。
-vpn-landing-invite-platform-label = ご希望のプラットフォームを選択してください。
-
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
