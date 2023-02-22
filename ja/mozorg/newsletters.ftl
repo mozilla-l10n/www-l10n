@@ -28,7 +28,14 @@ newsletters-please-be-sure-to-add-our-v2 = Mozilla のニュースレターを�
 
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Mozilla のニュースレターを受信箱にお届けできるよう、送信元アドレス (mozilla@e.mozilla.org) をアドレス帳に追加してください。
+
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = 入力されたリンクは有効期限切れです。<a { $recovery_href }>こちらから新しいリンクをリクエスト</a>してください。
+
+# Obsolete string
 newsletters-the-supplied-link-has-expired = 入力されたリンクは有効期限切れです。次号ニュースレターで新しいリンクが送付されます。
+
 newsletters-something-is-amiss-with = Mozilla のシステムで不具合が発生しています。お手数ですが、後でもう一度試してください。
 newsletters-youre-awesome = メールアドレスをご提示いただき
 newsletters-and-were-not-just-saying = ありがとうございます。
@@ -137,7 +144,6 @@ newsletters-see-where-the-web-can-take = 毎月の { -brand-name-firefox } に�
 
 newsletters-we-are-sorry-but-there = Mozilla のシステムに問題が発生しました。お手数ですが、後でもう一度試してください。
 newsletters-thanks-for-updating-your = メールの設定を更新していただき、ありがとうございました。
-newsletters-the-supplied-link-has-expired-long = 入力されたリンクは有効期限切れであるか、無効です。次号ニュースレターで新しいリンクが送付されます。その代わりに、以下でメールによるリンク送付をリクエストできます。
 newsletters-success-an-email-has-been-sent = 完了しました。設定センターのリンクがメールで送信されました。ありがとうございました。
 newsletters-this-is-not-a-valid-email = 入力されたメールアドレスは無効です。アドレスが正しいことを確認してください。
 newsletters-you-send-too-many-emails = 送信されるメール数が多すぎる。
