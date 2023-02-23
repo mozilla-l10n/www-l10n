@@ -35,6 +35,7 @@ vpn-what-is-make-it-more = Embohasy umi maranduñemurã apohápe oipurúvo nde I
 vpn-what-is-what-are-the = ¿Mba’épa umi ivaikuaáva eipurukuévo VPN?
 vpn-what-is-some-service-providers = Heta mba’epytyvõrã me’ẽhára ojoko umi jeike ojejapóva peteĩ VPN rupive, ha péicha pe hetepýpe ndaikatúi ojeike emyandúvo pe VPN. Ndahetái VPN omboguejykuaa pe pya’ekue térã omomichĩ pe ancho de banda. Ha heta VPN oha’ã karape puruhára rekoñemi ha rekorosã.
 vpn-what-is-are-vpns-safe = ¿Hekorosãpa ko’ã VPNs?
+vpn-what-is-its-very-hard = Hasyeterei ejuhu hag̃ua VPN jeroviaháva. Umi VPNs oguereko hembipotáramo puruhára ñemo’ã oñeikundaha jave, hákatu ndaopavavéi VPNs ojuehegua imba’epurukápe. Ejoguavove peteĩ VPN mba’epuru, eikuaaporãke mba’etépa pe remoneĩva. Hetaiterei oĩ he’íva ijehe tuichaha ha omomba’éva tekoñemi, hákatu hetave umi ndojapóiva pe iñe’ẽme’ẽ. Heta VPNs oĩ oñongatútava nde rapykuere ñandutípe ohepyme’ẽ hag̃ua uperire ne mba’ekuaarã ha marandu mba’apohaguasu marketing reheguávape. Ambue VPNs oñeha’ãta omohenda malware ne mba’e’okápe.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
