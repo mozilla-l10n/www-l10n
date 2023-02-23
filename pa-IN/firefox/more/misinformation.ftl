@@ -9,6 +9,15 @@ misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = ਆਨਲਾਈਨ ਗ਼ਲਤ ਜਾਣਕਾਰੀ ਤੋਂ ਬਚੋ – { -brand-name-firefox } ਮਦਦ ਕਰਨ ਲਈ ਮੌਜੂਦ ਹੈ
 misinformation-page-subheading = ਘੱਟ ਗੁੰਮਰਾਹਕੁੰਨ ਜਾਣਕਾਰੀ ਵੇਖਣ ਅਤੇ ਜੋ ਤੁਹਾਡੇ ਲਈ ਜ਼ਰੂਰੀ ਹੈ, ਉਸ ਉੱਤੇ ਧਿਆਨ ਦੇਣ ਲਈ ਸਾਡੇ ਸੁਝਾਅ ਵੇਖੋ
 misinformation-what-is-heading = ਗੁੰਮਰਾਹਕੁੰਨ ਜਾਣਕਾਰੀ ਕੀ ਹੁੰਦੀ ਹੈ? ਗ਼ਲਤ ਜਾਣਕਾਰੀ ਕੀ ਹੁੰਦੀ ਹੈ?
+misinformation-content-up-to-date = ਕੀ ਸਮੱਗਰੀ ਤਾਜ਼ਾ ਹੈ?
+misinformation-outdated-information = ਪੁਰਾਣੀ ਜਾਣਕਾਰੀ ਹੋਣ ਦਾ ਅਰਥ ਇਹ ਨਹੀਂ ਹੈ ਕਿ ਇਹ ਗਲਤ ਜਾਣਕਾਰੀ ਹੈ, ਇਸ ਦੇ ਤੱਥ ਠੀਕ ਨਹੀਂ ਵੀ ਹੋ ਸਕਦੇ ਹਨ।
+misinformation-how-firefox-helps-heading = { -brand-name-firefox } ਤੁਹਾਨੂੰ ਗਲਤ ਜਾਣਕਾਰੀ ਤੋਂ ਬਚਾਉਣ ਲਈ ਕਿਵੇਂ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ?
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } ਟੋਹ ਲੈਂਦਾ ਹੈ:
+misinformation-social-media-clean-heading = { -brand-name-firefox } ਤੁਹਾਡੀ ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਫ਼ੀਡ ਨੂੰ ਸਪਸ਼ਟ ਰੱਖਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ:
+misinformation-why-trust-firefox = { -brand-name-firefox } ਉੱਤੇ ਭਰੋਸਾ ਕਿਓਂ ਕਰੀਏ?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = ਕਿਉਂਕਿ ਅਸੀਂ ਲੋਕਾਂ ਨੂੰ ਤਰਜੀਹ ਦਿੰਦੇ ਹਾਂ। ਅਸਲ ਗੱਲ ਇਹ ਹੈ ਕਿ ਅਸੀਂ ਪਿੱਠ ਉੱਤੇ <a href="{ $foundation }">ਗ਼ੈਰ-ਫ਼ਾਇਦਾ ਸੰਗਠਨ</a> ਖੜ੍ਹਾ ਹੈ। ਪਹਿਲੇ ਦਿਨੋਂ ਹੀ ਸਾਡਾ ਮਕਸਦ ਇੰਟਰਨੈੱਟ ਅਤੇ ਇਸ ਉੱਤੇ ਮੌਜੂਦ ਸਭ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣਾ ਹੈ।
 misinformation-learn-more-about-our-mission = ਸਾਡੇ ਮਕਸਦ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 misinformation-your-privacy-by-the-product = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ, ਉਤਪਾਦ ਰਾਹੀਂ
 misinformation-firefox-products-work-differently = { -brand-name-firefox } ਉਤਪਾਦ ਵੱਖਰੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਦੇ ਹਨ — ਕਿਉਂਕਿ ਉਹ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤੇ ਗਏ ਹਨ।
