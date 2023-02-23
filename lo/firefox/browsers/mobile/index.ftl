@@ -17,6 +17,7 @@ browsers-mobile-get-the-mobile-browser-privacy = ເອົາ​ຕົວ​ທ�
 browsers-mobile-firefox-for-android = { -brand-name-firefox } ສໍາລັບ { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = ສາມາດປັບແຕ່ງໄດ້ຢ່າງບໍ່ຢຸດຢັ້ງ, ເປັນສ່ວນຕົວ ແລະປອດໄພ, { -brand-name-firefox } ສໍາລັບ { -brand-name-android } ເປັນຕົວທ່ອງເວັບທີ່ໄວຟ້າຜ່າທີ່ຈະບໍ່ມີວັນຂາຍທ່ານອອກ.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } ສໍາລັບ { -brand-name-ios }
+browsers-mobile-go-your-own-way = ໄປດ້ວຍວິທີຂອງເຈົ້າດ້ວຍມືຖື { -brand-name-firefox }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = ປຽບທຽບຕົວທ່ອງເວັບຂອງໂທລະສັບມືຖື
 browsers-mobile-compare = ປຽບທຽບ
