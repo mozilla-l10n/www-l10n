@@ -22,6 +22,10 @@ newsletters-your-newsletter-subscription = A hírlevél-előfizetés jóváhagy�
 newsletters-please-be-sure-to-add-our-v2 = Győződjön meg arról, hogy a levél küldője, a mozilla@email.mozilla.org szerepeljen a címjegyzékében. Így biztosan megkapja hírlevelünket.
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Győződjön meg arról, hogy a levél küldője, a mozilla@e.mozilla.org szerepeljen a címjegyzékében. Így biztosan megkapja hírlevelünket.
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = A megadott hivatkozás lejárt. <a { $recovery_href }>Kérjen új hivatkozást itt</a>.
+# Obsolete string
 newsletters-the-supplied-link-has-expired = A megadott hivatkozás lejárt. A következő hírlevéllel egy újat küldünk.
 newsletters-something-is-amiss-with = Sajnos valami nincs rendben a rendszerünkkel. Próbálja meg később.
 newsletters-youre-awesome = Ön fantasztikus!
@@ -104,7 +108,6 @@ newsletters-put-more-fox-in-your-inbox = Vegye át a rókapostát.
 newsletters-see-where-the-web-can-take = Lássa hová viheti a web a havi { -brand-name-firefox } tippekkel, trükkökkel és internetes hírekkel.
 newsletters-we-are-sorry-but-there = Sajnáljuk, de hiba volt rendszerünkben. Kérjük próbálja meg később!
 newsletters-thanks-for-updating-your = Köszönjük, hogy frissítette e-mail beállításait.
-newsletters-the-supplied-link-has-expired-long = A megadott hivatkozás lejárt vagy érvénytelen. A következő hírlevélben újat kap majd, vagy alább kérhet egy e-mailt a hivatkozással.
 newsletters-success-an-email-has-been-sent = Sikerült! Egy emailt küldtünk az Ön beállítási központjára mutató hivatkozással. Köszönjük!
 newsletters-this-is-not-a-valid-email = Ez az e-mailcím érvénytelen. Kérjük, ellenőrizze a helyesírást.
 newsletters-you-send-too-many-emails = Túl sok e-mailt kapok.

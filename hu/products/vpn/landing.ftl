@@ -52,7 +52,7 @@ vpn-landing-faq-uses-examples = Nézzen meg <a href="{ $url }">öt való életb�
 vpn-landing-faq-info-question-heading = Milyen információkat tárol a { -brand-name-mozilla-vpn }?
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Szigorúan betartjuk a { -brand-name-mozilla } <a href="{ $principles }">Adatvédelmi elveit</a> és csak a VPN működtetéséhez és a termék fejlesztéséhez szükséges adatokat gyűjtjük. Követjük a kampányokkal kapcsolatos és az ajánlási adatokat is a mobilalkalmazásunkban, hogy segítsünk a { -brand-name-mozilla(ending: "accented") }nak megérteni a marketingkampányok hatásosságát. További információk az <a href="{ $notice }">Adatvédelmi nyilatkozatban</a>.
 # Obsolete string
 # Variables:
@@ -138,6 +138,8 @@ vpn-landing-faq-link = További GYIK bejegyzések megtekintése
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Csatlakozzon a várólistához: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Értesüljön, ha a { -brand-name-mozilla-vpn } elérhetővé válik a régiójában.
+# Outdated string
 vpn-landing-invite-page-desc = Értesüljön, ha a { -brand-name-mozilla-vpn } elérhetővé válik az eszközére és a régiójában.
 vpn-landing-invite-page-heading = Csatlakozzon a VPN várólistához
 vpn-landing-invite-email-label = Mi az e-mail-címe?
@@ -146,17 +148,8 @@ vpn-landing-invite-required-label = Kötelező
 vpn-landing-invite-email-placeholder = email@example.com
 vpn-landing-invite-country-label = Melyik országban él?
 vpn-landing-invite-language-label = Válassza ki az előnyben részesített nyelvét.
-vpn-landing-invite-platform-label = Mely platformok érdeklik?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = A „Csatlakozzon a várólistához” gombra kattintva elfogadja az <a href="{ $privacy }">adatvédelmi irányelveinket</a>.
 vpn-landing-invite-your-information = Adatait csak arra használjuk, hogy értesítsük a platform elérhetőségéről.
 vpn-landing-invite-thanks-heading = Köszönjük! Felkerült a listára
