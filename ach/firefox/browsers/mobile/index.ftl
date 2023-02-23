@@ -8,6 +8,7 @@
 browsers-mobile-firefox-for-android = { -brand-name-firefox } pi { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } pi { -brand-name-ios }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-compare = Poro
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
