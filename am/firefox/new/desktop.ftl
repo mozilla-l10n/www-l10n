@@ -189,3 +189,4 @@ firefox-desktop-download-please-follow = { -brand-name-firefox }ን ለመጫን
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = የእርስዎ ስርዓት ለ{ -brand-name-firefox } መስፈርቶችን ላያሟላ ይችላል፣ነገር ግን ከ<a href="{ $url }">እነዚህ ስሪቶች</a> አንዱን መሞከር ይችላሉ።
+firefox-desktop-download-taskbar = { -brand-name-firefox } ከተጫነ በኋላ በ{ -brand-name-windows } የተግባር አሞሌ ላይ ይሰካል።
