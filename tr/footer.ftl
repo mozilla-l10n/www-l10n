@@ -76,4 +76,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = @{ -brand-name-mozilla }’yı takip edin
 footer-follow-firefox = @{ -brand-name-firefox }’u takip edin
-footer-about-this-site = Bu site hakkında
+footer-about-this-site = Bu Site Hakkında

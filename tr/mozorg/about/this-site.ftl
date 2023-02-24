@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/about/this-site/
 
-about-this-site-title = Bu site hakkında
+about-this-site-title = Bu Site Hakkında
 about-this-site-desc = www.mozilla.org web sitesi ve sitenin yapımında kullanılan açık kaynak araçlar hakkında.
 about-this-site-like-many = Ürünlerimizin çoğu gibi bu web sitesi de açık kaynaktır:
 about-this-site-view-source = Kaynak kodlarını { -brand-name-github }'da görün
