@@ -5,11 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/about/legal/
 
-legal-legal = Yasal Bilgiler
+legal-legal = Hukuki Bilgiler
 legal-get-involved = Bize katılın
 legal-protect-the-fox = Tilkiyi koruyun
 legal-takedown-requests = Yayından kaldırma istekleri
-legal-back-to-legal = Yasal bilgilere dön
+legal-back-to-legal = Hukuki bilgilere dön
 legal-special-thanks-to-all-of-you = { -brand-name-mozilla } markalarının kötüye kullanımını bize bildiren, yönetişim forumlarımıza katılan, çevirilerimiz ve hukuki koşullarımız hakkında görüş bildiren ve { -brand-name-mozilla } projesinin başarısına becerileriyle katkıda bulunan herkese teşekkür ederiz.
 legal-terms = Koşullar
 legal-our-websites = Web sitelerimiz
