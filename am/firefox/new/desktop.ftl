@@ -138,6 +138,9 @@ firefox-desktop-download-grab-a-high = በቀጥታ በአሳሹ ውስጥ በ�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } በራስ ሰር <a { $attrs }>ብዙ የሶስተኛ ወገን መከታተያዎች</a> የድር እንቅስቃሴዎን እንዳይሰበስቡ እና እንዳይሸጡ ያግዳል።
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = ጥያቄዎች? <a { $attrs }>{ -brand-name-mozilla } ድጋፍ</a> ያግዝዎታል።
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = አስቀድመው አሳሹን አግኝተዋል። አሁን ከ{ -brand-name-firefox } የበለጠ ያግኙ።
 firefox-desktop-download-watch-for-hackers-with-v2 = ሰርጎ ገቦችን በ{ -brand-name-firefox-monitor } ይመልከቱ፣ የኢሜይል አድራሻዎን በ{ -brand-name-firefox-relay } ይጠብቁ እና ሌሎችም።
@@ -155,8 +158,34 @@ firefox-desktop-download-now-else = አሁን { -brand-name-firefox }ን <strong
 firefox-desktop-download-now-windows = አሁን የወረደውን ጫኝ <strong>አስጀምር</strong>።
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = አሁን የወረደውን ፋይል <strong>ክፈት</strong>።
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = ችግር እያጋጠመዎት ነው? <a { $attrs }>እንዴት እንደሚጫን እገዛ ያግኙ</a>።
 firefox-desktop-download-in-another-language = በሌላ ቋንቋ ወይም ለሌላ ስርዓተ ክወና አውርድ።
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = ለመጫን እየሞከሩት ያለው መተግበሪያ በ{ -brand-name-microsoft } የተረጋገጠ መተግበሪያ አለመሆኑን የሚገልጽ ማሳወቂያ ካዩ፣ “ለማንኛውም ጫን” ን ጠቅ ያድርጉ ወይም <a { $attrs }>የመተግበሪያ ምክር ቅንብሮችን ይቀይሩ</a >።
 firefox-desktop-download-visit-support-for-more = ለተጨማሪ ዝርዝሮች ድጋፍን ይጎብኙ
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } በ{ -brand-name-windows } { -brand-name-xp } ወይም { -brand-name-vista }ላይ <a href="{ $url }">ከአሁን በኋላ የደህንነት ማሻሻያዎችን አያቀርብም</a>፣ ነገር ግን አሁንም { -brand-name-firefox }ን መጠቀም ይችላሉ።
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = የሚጠቀሙት ደህንነቱ የማያስተማምን፣ ጊዜው ያለፈበት ስርዓተ ክወና <a href="{ $url }">ከአሁን በኋላ በ{ -brand-name-firefox } አይደገፍም</a>።
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = ማውረድዎ በራስ-ሰር መጀመር አለበት። አልሰራም? <a id="{ $id }" href="{ $fallback_url }">እንደገና ለማውረድ ይሞክሩ።</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ከአሳሽም በላይ ነው።
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = ማውረድዎ ታጉሏል። ግን ሁሉም ነገር አልጠፋም።
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = { -brand-name-firefox }ን ለመጫን እባክዎ <a href="{ $url }">እነዚህን መመሪያዎች</a> ይከተሉ።
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = የእርስዎ ስርዓት ለ{ -brand-name-firefox } መስፈርቶችን ላያሟላ ይችላል፣ነገር ግን ከ<a href="{ $url }">እነዚህ ስሪቶች</a> አንዱን መሞከር ይችላሉ።
