@@ -117,6 +117,7 @@ firefox-desktop-download-sync-your-devices = መሳሪያዎችዎን ያሰና�
 firefox-desktop-download-screenshots = ቅጽበታዊ ገጽ እይታዎች
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = የተሻሻለ የክትትል ጥበቃ (ኢቲፒ)
+firefox-desktop-download-from-watching-a = የድር አጋዥ ስልጠናን ከመመልከት ጀምሮ የሚወዱትን ቡድን እስከመከታተል፣ የተለያየ ሥራ በሚሰሩበት ጊዜ ተንቀሳቃሽ ምስልዎ ይከተልዎታል።
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = ለ<strong>{ -brand-name-android }</strong> { -brand-name-firefox-browser }ን ያግኙ
 firefox-desktop-download-download-the-mobile = በሁሉም መሳሪያዎችዎ ላይ ለራስ-ሰር ጥበቃ { -brand-name-firefox } የስልክ አሳሽ ያውርዱ።
@@ -126,8 +127,17 @@ firefox-desktop-download-learn-about-the = ከታች ስለ { -brand-name-firefo
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = ከደህንነት እስከ ዜና እስከ ጨዋታ፣ ለእያንዳንዱ ሰው የሚሆን <a { $attrs }>ቅጥያ</a> አለ። አሳሽዎ ፍላጎትዎን እስኪሞላ ድረስ የፈለጉትን ያህል ይጨምሩ።
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = በይነመረቡ ሲያድግ እና ሲቀየር { -brand-name-firefox } በእርስዎ የግላዊነት መብት ላይ ማተኮር ይቀጥላል - እኛ <a { $attrs }>የግል ውሂብ ቃል ኪዳን</a> እንለዋን፡- ትንሽ ይውሰዱ። ደህንነቱ የተጠበቀ ያድርጉት። ምንም ሚስጥሮች የሉም። የእርስዎ ውሂብ፣ የእርስዎ የድር እንቅስቃሴ፣ የመስመር ላይ ህይወትዎ በ{ -brand-name-firefox } የተጠበቀ ነው።
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } በሁሉም መሳሪያዎችዎ ላይ ይገኛል። የእርስዎን ትሮች፣ ታሪክ እና እልባቶችን ከእርስዎ ጋር ይውሰዱ። የሚያስፈልግዎ <a { $attrs }>{ -brand-name-firefox } መለያ</a> ብቻ ነው።
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = በቀጥታ በአሳሹ ውስጥ በተሰራው የእኛ <a { $attrs }>ቅጽበታዊ ገጽ እይታ</a> መሳሪያ የማንኛውንም ነገር ከፍተኛ ጥራት ያለው ምስል ያንሱ
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } በራስ ሰር <a { $attrs }>ብዙ የሶስተኛ ወገን መከታተያዎች</a> የድር እንቅስቃሴዎን እንዳይሰበስቡ እና እንዳይሸጡ ያግዳል።
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = አስቀድመው አሳሹን አግኝተዋል። አሁን ከ{ -brand-name-firefox } የበለጠ ያግኙ።
 firefox-desktop-download-watch-for-hackers-with-v2 = ሰርጎ ገቦችን በ{ -brand-name-firefox-monitor } ይመልከቱ፣ የኢሜይል አድራሻዎን በ{ -brand-name-firefox-relay } ይጠብቁ እና ሌሎችም።
