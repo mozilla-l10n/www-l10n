@@ -19,6 +19,7 @@ new-platform-need-help = እርዳታ ይፈልጋሉ?
 
 ## Linux
 
+new-platform-download-mozilla-linux = { -brand-name-mozilla } { -brand-name-firefox }ን ለ { -brand-name-linux } አውርድ
 
 ## Mac
 
