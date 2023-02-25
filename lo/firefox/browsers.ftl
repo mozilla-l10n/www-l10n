@@ -15,6 +15,7 @@ firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = ການຊອກຫາສ່ວນຕົວຢ່າງຈິງຈັງ. { -brand-name-firefox } ອັດຕະໂນມັດບລັອກ 2000+ ຕົວຕິດຕາມອອນໄລນ໌ຈາກການລວບລວມຂໍ້ມູນກ່ຽວກັບສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.
 firefox-browsers-download-for-desktop = ດາວໂຫລດສໍາລັບ Desktop
 firefox-browsers-mobile = ໂທລະສັບມືຖື
+firefox-browsers-take-the-same-level-of-privacy = ເອົາ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ໃນ​ລະ​ດັບ​ດຽວ​ກັນ — ບວກ​ກັບ​ລະ​ຫັດ​ຜ່ານ​ຂອງ​ທ່ານ​, ປະ​ຫວັດ​ສາດ​ການ​ຊອກ​ຫາ​, ເປີດ​ແຖບ​ແລະ​ອື່ນໆ — ກັບ​ທ່ານ​ທຸກ​ບ່ອນ​ທີ່​ທ່ານ​ໄປ​.
 firefox-browsers-download-for-mobile = ດາວໂຫລດສໍາລັບມືຖື
 firefox-browsers-send-me-a-link = ສົ່ງລິ້ງໃຫ້ຂ້ອຍ
 firefox-browsers-enterprise = { -brand-name-enterprise }
