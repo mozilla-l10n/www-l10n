@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -39,3 +39,4 @@ compare-index-browsers-have-come-a-long = K'ïy xeb'iyin ri taq okik'amaya'l toq
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } temen ruma ri { -brand-name-mozilla }, juna moloj majun ch'akoj rojqan.
 compare-index-firefox-puts-your-privacy = Ri { -brand-name-firefox } nunab'eyij ri awichinanem — pa ronojel ri niqab'än chuqa' niqanük'. K'o chi qak'u'x chi ja rat ri yach'ojin achoq ik'in nakomonij ri awetamab'al. Jub'a' taq tzij yerumöl ri { -brand-name-firefox } chuqa' majub'ey yeruk'ayij. Ri jub'a' taq tzij yeqamöl richin yequtzilaj ri taq k'ayij chuqa' ri taq samaj. Majun ewäl. Po k'ïy k'o pa saqil chuqa' qitzij ichinanem.
 compare-index-based-on-the-criteria-we-outlined = Ruma ri taq na'oj xeqach'öl qa — ichinanem, okisaxïk, chuqa' ruk'waxik — pa qitzij chi xa xe jun okik'amaya'l nub'än ronojel ri', ja ri { -brand-name-firefox }. Ri kan qitzij rujalon man ja ta ri rusamaj, xa ja ri ichinanem. Ri { -brand-name-firefox } ja ri' ri okik'amaya'l yalan nichinan ri man yatrutz'apij ta pa jun nuk'ulem. Tawokisaj pa xab'achike samajel q'inoj, pa ronoje awokisab'al, richin nana' chi at jikïl toq yasamäj.
+compare-index-compare = Tijunamäx
