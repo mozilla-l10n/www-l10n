@@ -21,6 +21,7 @@ browsers-mobile-go-your-own-way = ໄປດ້ວຍວິທີຂອງເຈ�
 browsers-mobile-firefox-mobile-adapts-to-you = ມືຖື { -brand-name-firefox } ປັບຕົວເຂົ້າກັບເຈົ້າ ແລະເຮັດໃຫ້ມັນງ່າຍຂຶ້ນກວ່າທີ່ເຄີຍເຫັນແຖບເປີດທັງໝົດຂອງເຈົ້າ, ການຊອກຫາທີ່ຜ່ານມາ ແລະເວັບໄຊທີ່ມັກ.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = ປຽບທຽບຕົວທ່ອງເວັບຂອງໂທລະສັບມືຖື
+browsers-mobile-see-how-firefox-stacks-up = ເບິ່ງວິທີທີ່ { -brand-name-firefox } stacks up against other popular browsers when it comes to the big three big three: ຄວາມເປັນສ່ວນຕົວ, ຄຸນສົມບັດ ແລະ syncing.
 browsers-mobile-compare = ປຽບທຽບ
 browsers-mobile-see-how-firefox-for-desktop-stacks = ເບິ່ງວິທີການ { -brand-name-firefox } ສໍາລັບ desktop stacks ເຖິງເຈັດຕົວທ່ອງເວັບອື່ນໆ.
 browsers-mobile-download = ດາວໂຫລດ
