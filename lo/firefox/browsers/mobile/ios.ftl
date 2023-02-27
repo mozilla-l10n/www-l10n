@@ -5,9 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
+# HTML page title
+mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
+# HTML description
+# Obsolete string
+mobile-ios-firefox-browser-for = ໂປຣແກຣມທ່ອງເວັບ { -brand-name-firefox } ສຳລັບ { -brand-name-ios } ແມ່ນໄວ, ປອດໄພ ແລະເປັນສ່ວນຕົວຕັ້ງແຕ່ຄັ້ງທຳອິດທີ່ທ່ານເປີດມັນ.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
+mobile-ios-get-automatic-privacy = ຮັບຄວາມເປັນສ່ວນຕົວອັດຕະໂນມັດໃນ { -brand-name-iphone } ແລະ { -brand-name-ipad } ຂອງທ່ານ
+mobile-ios-get-firefox-for = ໂຫລດ { -brand-name-firefox } ສຳລັບ { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = ສົ່ງລິ້ງດາວໂຫລດໄປຫາໂທລະສັບຂອງທ່ານ.
 mobile-ios-scan-the-qr-code-to-get-started = ສະແກນ QR code ເພື່ອເລີ່ມຕົ້ນ
+mobile-ios-scan-alt-text = ສະແກນລະຫັດ QR ເພື່ອເອົາ { -brand-name-firefox } ໃນ { -brand-name-ios }
+mobile-ios-make-firefox-your = ເຮັດໃຫ້ { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບເລີ່ມຕົ້ນຂອງທ່ານ
 mobile-ios-fast-private-secure = ໄວ. ສ່ວນຕົວ. ປອດໄພ
 mobile-ios-stay-private-online = ຢູ່ເປັນສ່ວນຕົວອອນໄລນ໌
 mobile-ios-your-browsing-history = ປະຫວັດຜົນການຊອກຫາຂອງທ່ານແມ່ນປະຫວັດ
