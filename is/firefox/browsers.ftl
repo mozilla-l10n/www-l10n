@@ -6,7 +6,13 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Sæktu { -brand-name-firefox } fyrir tölvu, farsíma eða fyrirtæki
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Fáðu þér vafrana sem setja friðhelgi þína í fyrsta sæti - og hafa alltaf gert
+# HTML page description
+firefox-browsers-page-desc = Veldu úr borðtölvuútgáfu, { -brand-name-ios }, { -brand-name-android }, eða láttu okkur senda þér tölvupóst með niðurhalstengli fyrir farsíma.
+# Outdated string
+firefox-browsers-get-the-privacy-you-deserve = Fáðu það næði sem þú átt skilið. Aukin vernd gegn rekjurum er sjálfvirk í öllum { -brand-name-firefox } vöfrum.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Fáðu þér <strong>vafrana</strong> sem setja friðhelgi þína í fyrsta sæti - og hafa alltaf gert
 firefox-browsers-desktop = Vinnutölvur

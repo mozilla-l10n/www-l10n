@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Sæktu { -brand-name-firefox-browser } - Hraðvirkt, einka og ókeypis - frá { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Sæktu { -brand-name-firefox } fyrir vinnutölvur — frá { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Fáðu þér { -brand-name-firefox }, ókeypis vafra sem studdur er af { -brand-name-mozilla }, sjálfseignarstofnun sem er tileinkuð heilbrigði og friðhelgi internetsins. Er núna í boði fyrir { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } og { -brand-name-ios }.
 firefox-desktop-download-og-title = Sæktu hraðasta { -brand-name-firefox } nokkru sinni
 firefox-desktop-download-og-desc = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } er hérna.
@@ -191,3 +192,4 @@ firefox-desktop-download-please-follow = Fylgdu þessum <a href="{ $url }">leið
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Kerfið þitt uppfyllir mögulega ekki þær kröfur sem þarf fyrir { -brand-name-firefox }, en þú getur prófað einhverja af <a href="{ $url }">þessum útgáfum</a>.
+firefox-desktop-download-taskbar = { -brand-name-firefox } verður fest við { -brand-name-windows } verkefnastikuna eftir uppsetningu

@@ -21,9 +21,13 @@ features-bookmarks-fly-with-that-bookmark = Láttu bókamerkið ferðast með þ
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Taktu bókamerkin með á ferðinni. Notaðu { -brand-name-firefox-sync } til að fá aðgang að bókamerkjum á öllum tækjum, í tölvunni yfir á farsíma. Eða prófaðu <a href="{ $url }">{ -brand-name-pocket }</a> til að vista efni, eða síðu frá netinu og birta hana svo seinna - jafnvel ónettengdur.
+features-bookmarks-customize-that-bookmark = Sérsníddu bókamerkið
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Sýslaðu með bókamerkið
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Sýslaðu með bókamerki með öllum þeim bókamerkja<a href="{ $url }">viðbótum</a> sem þig getur dreymt um, alveg frá stórum skjámyndum af síðunni yfir í hraðvirka hliðarslá yfir í læst einkabókamerki.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
