@@ -22,6 +22,10 @@ newsletters-your-newsletter-subscription = 已確認訂閱電子報。
 newsletters-please-be-sure-to-add-our-v2 = 請務必將我們的寄件信箱: mozilla@email.mozilla.org 加到通訊錄，確保每封信都能直達您的收件匣。
 # Obsolete string
 newsletters-please-be-sure-to-add-our = 請務必將我們的寄件地址 mozilla@e.mozilla.org 加到通訊錄，確保信件可以直接掉進您的收件匣。
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = 提供的鏈結已失效。請<a { $recovery_href }>在此申請新鏈結</a>。
+# Obsolete string
 newsletters-the-supplied-link-has-expired = 提供的鏈結已過期，您會在下一封電子報中收到新的鏈結。
 newsletters-something-is-amiss-with = 抱歉！我們的系統有點怪怪的，請稍候再試。
 newsletters-youre-awesome = 您真是超棒的！
@@ -104,7 +108,6 @@ newsletters-put-more-fox-in-your-inbox = 在收件匣裡面多塞一點狐狸。
 newsletters-see-where-the-web-can-take = 看看 Web 能做到什麼程度，以及 { -brand-name-firefox } 秘訣、網路最新情報的每月電子報。
 newsletters-we-are-sorry-but-there = 很抱歉，我們的系統發生問題，請稍候再試一次！
 newsletters-thanks-for-updating-your = 感謝您調整收信偏好。
-newsletters-the-supplied-link-has-expired-long = 點擊的鏈結已過期或無效。您在下一封電子報中會收到新鏈結，也可以在下方直接要求一封新電子報。
 newsletters-success-an-email-has-been-sent = 成功！已經將偏好中心的鏈結寄出給您，多謝了！
 newsletters-this-is-not-a-valid-email = 這不是有效的電子郵件地址，請確認您有沒有打錯。
 newsletters-you-send-too-many-emails = 你們寄了太多信。

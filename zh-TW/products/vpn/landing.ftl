@@ -52,7 +52,7 @@ vpn-landing-faq-uses-examples = 看看五組會讓您想要在裝置上使用 VP
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 會保存哪些資訊？
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = 我們嚴格遵守 { -brand-name-mozilla } 的<a href="{ $principles }">隱私資料處理原則</a>，只收集讓 VPN 能正常運作並改善產品所必需資料。我們也會在我們的行動應用程式中追蹤行銷活動和導流資料，以幫助 { -brand-name-mozilla } 了解行銷活動的效果。若需更多資訊，請閱讀我們的<a href="{ $notice }">隱私權公告</a>。
 # Obsolete string
 # Variables:
@@ -138,6 +138,8 @@ vpn-landing-faq-link = 看更多常見問題
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = 加入排隊名單: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = 當 { -brand-name-mozilla-vpn } 於您的地區市場推出時收到通知。
+# Outdated string
 vpn-landing-invite-page-desc = 當 { -brand-name-mozilla-vpn } 於您的裝置或地區市場推出時通知。
 vpn-landing-invite-page-heading = 加入 VPN 排隊名單
 vpn-landing-invite-email-label = 您的電子郵件地址是什麼？
@@ -146,17 +148,8 @@ vpn-landing-invite-required-label = 必填
 vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = 您生活在哪個國家？
 vpn-landing-invite-language-label = 選擇想使用的語言。
-vpn-landing-invite-platform-label = 您對哪些平台感興趣？
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = 點擊「加入排隊名單」，代表您同意我們的<a href="{ $privacy }">隱私權保護政策</a>。
 vpn-landing-invite-your-information = 我們只會使用您的資訊，用來向您通知產品推出資訊。
 vpn-landing-invite-thanks-heading = 感謝，已經登記完成！
