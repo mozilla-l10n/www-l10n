@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = ດາວໂຫຼດ ແ
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = ທົດສອບຄຸນສົມບັດທີ່ກຳລັງຈະເຜີຍແຜ່ໃນການປະກອບກ່ອນການເຜີຍແຜ່ທີ່ສະຖຽນ.
 firefox-channel-release-notes = ບັນທຶກປະຈຳລຸ້ນ
+firefox-channel-previous-nightly-builds = ບີວ{ -brand-name-nightly } ກ່ອນໜ້າ
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = ສ້າງ, ທົດສອບ, ຂະຫຍາຍ ແລະ ອື່ນໆ ດ້ວຍບາວເຊີທີ່ສ້າງມາສຳລັບນັກພັດທະນາໂດຍສະເພາະ.
 # Variables:

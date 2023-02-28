@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
 
 windows-64-bit-64-bit = 64-bit
+windows-64-bit-take-control-of-your = ຄວບຄຸມໂປແກຼມທ່ອງເວັບຂອງທ່ານ.
