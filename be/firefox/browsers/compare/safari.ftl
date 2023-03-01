@@ -23,6 +23,12 @@ compare-safari-like-safari-we-at-firefox = Як і { -brand-name-safari }, мы
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Як і { -brand-name-safari }, { -brand-name-firefox } заахвочвае сваю супольнасць распрацоўшчыкаў-энтузіястаў ствараць <a { $attrs }>дадаткі і пашырэнні</a> для браўзера. А паколькі наша платформа — з адкрытым зыходным кодам, ёсць велізарны выбар для дадання мноства функцый.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $send (string) - link to send.firefox.com with additional attributes for analytics
+# "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
+compare-safari-also-when-you-sign-up-for-fallback = Акрамя таго, калі вы рэгіструеце ўліковы запіс { -brand-name-firefox }, вы атрымліваеце доступ да некаторых унікальных сэрвісаў, такіх як Здымкі экрана, <a { $pocket }>{ -brand-name-pocket }</a> і <a { $send }>{ -brand-name-send }</a>, якія інтэгруюцца наўпрост у браўзер. Здымкі экрана — гэта функцыя, убудаваная непасрэдна ў браўзер { -brand-name-firefox }, якая дазваляе капіяваць або сцягваць усю вэб-старонку або любую яе частку. Калі вы захоўваеце здымак экрана, вы таксама можаце выбраць, у якой папцы вы хочаце яго знайсці, замест таго, каб загрувашчваць працоўны стол. Кнопка { -brand-name-pocket } для { -brand-name-firefox } дазваляе захоўваць старонкі сеціва і відэа ў { -brand-name-pocket } адным націскам, каб вы маглі чытаць чыстую версію без адцягнення ўвагі ў любы час і ў любым месцы — нават у аўтаномным рэжыме. З дапамогай { -brand-name-send } вы можаце дзяліцца вялікімі файламі, абароненымі скразным шыфраваннем і з рознымі сродкамі кіравання бяспекай, такімі як магчымасць абмежаваць тэрмін дзеяння спасылкі на файл і колькасць сцягванняў, і ці трэба дадаваць неабавязковы пароль для павышэння ўзроўню бяспекі.
 compare-safari-firefox-is-also-great-for-video = { -brand-name-firefox } таксама выдатна падыходзіць для відэа і аўдыё. Дзякуючы блакаванню аўтаматычнага прайгравання, убудаванаму наўпрост у браўзер і аўтаматычна ўключанаму, ні адзін сайт ніколі не закрычыць і не пачне брахаць на вас без запрашэння.
 # Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
