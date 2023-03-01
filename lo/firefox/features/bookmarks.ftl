@@ -21,6 +21,7 @@ features-bookmarks-fly-with-that-bookmark = ພົກບ່ອນຂັ້ນໜ
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = ເອົາລີ້ງທີ່ເຈົ້າມັກໄປນຳກັນ. ໃຊ້ { -brand-name-firefox-sync } ເພື່ອເຂົ້າເຖິງບ່ອນຂັ້ນໜ້າຈາກອຸປະກອນຕ່າງໆ ຕັ້ງແຕ່ເຄື່ອງຕັ້ງໂຕະໄປສູ່ອຸປະກອນເຄື່ອນທີ່. ຫຼື ລອງ <a href="{ $url }">{ -brand-name-pocket }</a> ເພື່ອເກັບບົດຄວາມ ຫຼື ໜ້າຕ່າງໆ ໄວ້ອອນໄລ ແລະ ກັບມາອ່ານທີຫຼັງ - ເຖິງຈະບໍ່ມີອິນເຕີເນັດກໍຕາມ.
+features-bookmarks-customize-that-bookmark = ປັບແຕ່ງບຸກມາກນັ້ນ
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = ເມື່ອຍກັບບ່ອນຂັ້ນໜ້າ

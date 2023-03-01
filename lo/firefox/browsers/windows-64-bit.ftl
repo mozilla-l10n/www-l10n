@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
 
 windows-64-bit-64-bit = 64-bit
+windows-64-bit-if-you-see-32-bit-older = ຖ້າທ່ານເຫັນ “(32-bit)” ແລະທ່ານກຳລັງໃຊ້ { -brand-name-firefox } 56.0 ຫຼືສູງກວ່າ, ການອັບເດດເປັນເວີຊັນຫຼ້າສຸດຂອງ { -brand-name-firefox } ຄວນອັບເກຣດທ່ານເປັນ 64-bit ໂດຍອັດຕະໂນມັດ.
 windows-64-bit-take-control-of-your = ຄວບຄຸມໂປແກຼມທ່ອງເວັບຂອງທ່ານ.
