@@ -40,3 +40,6 @@ mobile-android-about-mozilla = เกี่ยวกับ { -brand-name-mozilla
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } มุ่งสร้างอินเทอร์เน็ตให้เป็นทรัพยากรสาธารณะที่ทุกคนสามารถเข้าถึงได้ เพราะเราเชื่อว่าการเปิดเสรีนั้นดีกว่าการปิดกั้นและควบคุม เราสร้างผลิตภัณฑ์ต่าง ๆ เช่น { -brand-name-firefox } และ { -brand-name-pocket } เพื่อส่งเสริมทางเลือก ความโปร่งใส และการควบคุม
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = ท่องอินเทอร์เน็ตเร็วขึ้นด้วย { -brand-name-firefox } สำหรับ { -brand-name-android }
+mobile-android-see-all-your-open-tabs = ดูแท็บที่เปิดอยู่ การค้นหาล่าสุด และไซต์โปรดในที่เดียวด้วยเบราว์เซอร์ { -brand-name-firefox } สำหรับ { -brand-name-android }
+mobile-android-own-your-home = เป็นเจ้าของหน้าจอหลักของคุณ
+mobile-android-get-to-the-parts = เข้าถึงส่วนต่าง ๆ ของอินเทอร์เน็ตที่คุณสนใจได้เร็วขึ้น เลือกเพื่อดูแท็บที่เปิดอยู่ การค้นหาล่าสุด ที่คั่นหน้า และไซต์โปรดทั้งหมดในที่เดียว

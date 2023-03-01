@@ -14,6 +14,7 @@ browsers-mobile-at-home-or-on-the-move = ไม่ว่าจะอยู่ใ
 browsers-mobile-get-the-mobile-browser-privacy = รับเบราว์เซอร์มือถือที่ให้ความสำคัญกับ<strong>ความเป็นส่วนตัวของคุณ</strong>เป็นอย่างแรก
 browsers-mobile-firefox-for-android = { -brand-name-firefox } สำหรับ { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } สำหรับ { -brand-name-ios }
+browsers-mobile-go-your-own-way = ท่องเว็บในแบบคุณเองด้วย { -brand-name-firefox } สำหรับมือถือ
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = เปรียบเทียบเบราว์เซอร์มือถือ
 browsers-mobile-compare = เปรียบเทียบ
