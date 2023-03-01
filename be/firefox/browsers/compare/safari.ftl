@@ -23,6 +23,14 @@ compare-safari-like-safari-we-at-firefox = Як і { -brand-name-safari }, мы
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Як і { -brand-name-safari }, { -brand-name-firefox } заахвочвае сваю супольнасць распрацоўшчыкаў-энтузіястаў ствараць <a { $attrs }>дадаткі і пашырэнні</a> для браўзера. А паколькі наша платформа — з адкрытым зыходным кодам, ёсць велізарны выбар для дадання мноства функцый.
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated = Акрамя таго, калі вы рэгіструеце ўліковы запіс { -brand-name-firefox }, вы атрымліваеце доступ да ўнікальных сэрвісаў, такіх як <a { $pocket }>{ -brand-name-pocket }</a>, якія інтэгруюцца наўпрост у браўзер. Кнопка { -brand-name-pocket } для { -brand-name-firefox } дазваляе захоўваць старонкі сеціва і відэа ў { -brand-name-pocket } адным націскам, каб вы маглі чытаць чыстую версію без адцягнення ўвагі ў любы час і ў любым месцы — нават у аўтаномным рэжыме.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $send (string) - link to send.firefox.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for = Акрамя таго, калі вы рэгіструеце ўліковы запіс { -brand-name-firefox }, вы атрымліваеце доступ да ўнікальных сэрвісаў, такіх як <a { $pocket }>{ -brand-name-pocket }</a> і <a { $send }>{ -brand-name-send }</a>, якія інтэгруюцца наўпрост у браўзер. Кнопка { -brand-name-pocket } для { -brand-name-firefox } дазваляе захоўваць старонкі сеціва і відэа ў { -brand-name-pocket } адным націскам, каб вы маглі чытаць чыстую версію без адцягнення ўвагі ў любы час і ў любым месцы — нават у аўтаномным рэжыме. З дапамогай { -brand-name-send } вы можаце дзяліцца вялікімі файламі, абароненымі скразным шыфраваннем і з рознымі сродкамі кіравання бяспекай, такімі як магчымасць абмежаваць тэрмін дзеяння спасылкі на файл і колькасць сцягванняў, і ці трэба дадаваць неабавязковы пароль для павышэння ўзроўню бяспекі.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
