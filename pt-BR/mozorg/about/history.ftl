@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = História do Projeto { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = O projeto { -brand-name-mozilla } foi <a href="{ $coderush }">criado em 1998</a> com o <a href="{ $sourcerelease }">lançamento do código fonte da suite do navedador { -brand-name-netscape }</a>.
 history-it-was-intended-to-harness = Ele tinha a intenção de aproveitar o poder criativo de milhares de programadores na internet e os altos níveis sem precedentes de inovação no mercado de navegadores.
@@ -69,7 +69,7 @@ history-of-course-were-not-alone = É claro que não estamos fazendo isso sozinh
 history-the-mozilla-community-together = A comunidade { -brand-name-mozilla }, em conjunto com outros projetos de código aberto e outras organizações de utilidade pública, só existem por causa das pessoas que estão envolvidas em trnasforma nossos objetivos comuns em realidade.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
-history-if-you-want-to-join-us-in = Se você quiser se juntar a nós em nossa missão, por faver <a href="{ $contribute }">envolva-se</a>.
+history-if-you-want-to-join-us-in = Se quiser se juntar a nós em nossa missão, <a href="{ $contribute }">participe</a>.
 history-for-more-information-about = Para mais informações sobre a história da { -brand-name-mozilla }, veja:
 history-mozilla-bookmarks = Favoritos da { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Linha do tempo do projeto { -brand-name-mozilla }

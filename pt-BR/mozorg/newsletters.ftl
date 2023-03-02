@@ -156,7 +156,7 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } para computador
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 newsletters-dont-miss-the-latest = Não perca as últimas novidades sobre nosso navegador para computador.
 # Name for the newsletter in Newsletter subscription page
-newsletters-get-involved = Envolva-se
+newsletters-get-involved = Participe
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = Análises aprofundadas
 # Obsolete string

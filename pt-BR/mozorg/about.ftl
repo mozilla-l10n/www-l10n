@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -46,7 +46,7 @@ about-join-a-mission-driven-organization = Junte-se a uma organização orientad
 about-mozilla-careers = Carreiras na { -brand-name-mozilla }
 about-how-you-can-help = Como você pode ajudar
 about-your-voice-your-code-your = Sua voz. Seu código. Seu suporte. Existem tantas maneiras de se juntar à luta para uma internet mais saudável.
-about-get-involved = Envolva-se
+about-get-involved = Participe
 
 ## Newsletter
 

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Baixe o { -brand-name-firefox }
 navigation-get-a-firefox-account = Criar uma { -brand-name-firefox-account }
@@ -116,7 +116,7 @@ navigation-press-center = Centro de imprensa
 navigation-contact = Contato
 navigation-careers = Carreiras
 navigation-work-for-a-mission-driven = Trabalhe para uma organização orientada a uma missão, que cria produtos orientados a propósitos.
-navigation-get-involved = Envolva-se
+navigation-get-involved = Participe
 navigation-join-the-fight-for-a = Junte-se à luta por uma internet saudável.
 navigation-events = Eventos
 navigation-donate = Faça uma doação

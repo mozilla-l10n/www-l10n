@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/legal/
 
 legal-legal = Jurídico
-legal-get-involved = Envolva-se
+legal-get-involved = Participe
 legal-protect-the-fox = Proteja a Mozilla
 legal-takedown-requests = Notificação de infração
 legal-back-to-legal = Voltar para o Jurídico

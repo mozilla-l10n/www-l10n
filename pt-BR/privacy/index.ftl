@@ -21,7 +21,7 @@ privacy-index-data-privacy-principles = Princípios da privacidade de dados
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = Os <a href="{ $principles }">Princípios de Privacidade de Dados</a> da { -brand-name-mozilla } orientam nossas práticas que respeitam e protegem os usuários da Internet. Descubra como estes princípios dão forma ao { -brand-name-firefox } e a todos os nossos produtos nessa seção de <a href="{ $faq }">Perguntas Frequentes</a>.
 privacy-index-transparency-report = Relatório de transferência
-privacy-index-get-involved = Envolva-se
+privacy-index-get-involved = Participe
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Como projeto de código aberto, a transparência e franqueza são partes essenciais dos princípios fundamentais da { -brand-name-mozilla }. Nossas bases de códigos são abertas e auditáveis. Nosso trabalho de desenvolvimento é aberto. Nosso <a href="{ $report }">Relatório de Transparência</a> bianual também demonstra nosso compromisso com estes princípios.
