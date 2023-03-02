@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } FAQ
 what-is-firefox = { -brand-name-firefox } ແມ່ນຫຍັງ?
 
 # Variables:
@@ -29,6 +31,7 @@ is-firefox-free = { -brand-name-firefox } ແມ່ນບໍ່ເສຍຄ່�
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = { -brand-name-firefox } ປອດໄພບໍ?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/

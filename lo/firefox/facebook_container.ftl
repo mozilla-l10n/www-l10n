@@ -10,6 +10,7 @@ facebook-container-millions-of-people-around = ປະຊາຊົນຫຼາຍ
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook } ຖືກກັກກັນເປັນຢ່າງດີ ຂີດເສັ້ນກັ້ນລະຫວ່າງສ່ວນອື່ນໆ ໃນຊີວິດທ່ານ.
 facebook-container-get-the-facebook-container = ຮັບການຂະຫຍາຍຂອງຄອນເທນເນີຂອງ { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = ດາວໂຫລດ { -brand-name-firefox } ແລະ ໄດ້ຮັບການຂະຫຍາຍຂອງ { -brand-name-facebook-container }
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Outdated string
 facebook-container-the-facebook-container-extension = ສ່ວນຂະຫຍາຍຂອງ { -brand-name-facebook-container } ແມ່ນບໍ່ສາມາດນຳໃຊ້ງານໄດ້ໃນອຸປະກອນໂທລະສັບ.
 # Outdated string

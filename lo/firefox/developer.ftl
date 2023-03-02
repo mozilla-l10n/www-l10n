@@ -55,12 +55,17 @@ firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = Master CSS Grid
 # outdated
 firefox-developer-next-gen-css-engine = CSS Engine ຍຸກໃໝ່
+firefox-developer-built-for-developers = ສ້າງຂຶ້ນສໍາລັບນັກພັດທະນາ
 firefox-developer-a-next-generation = CSS Engine ຍຸກໃໝ່
 firefox-developer-master-innovative-features = ຄຸນະສົມບັດທີ່ເປັນນະວັດຕະກຳ
+firefox-developer-want-to-be-on-the-cutting-edge = ຕ້ອງການໃຊ້ເຕັກໂນໂລຊີຫຼ້າສຸດ?
 firefox-developer-convenient-features = ຄຸນນະສົມບັດສະດວກ
 firefox-developer-faster-performance = ປະສິດທິພາບທີ່ດີຂຶ້ນ
 firefox-developer-shapes-editor = ຕົວແກ້ໄຂຮູບຮ່າງ
 firefox-developer-faster-innovation = ຂໍ້ມູນໄວຂຶ້ນ
 firefox-developer-fonts-panel = ກະດານຕົວອັກສອນ
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ະສົ່ງຜົນຕອບຮັບໄປຍັງ { -brand-name-mozilla } ໂດຍອັດຕະໂນມັດ.
+firefox-developer-download-the-firefox-browser = ດາວໂຫຼດບຣາວເຊີ { -brand-name-firefox } ທີ່ສ້າງຂຶ້ນສຳລັບນັກພັດທະນາ
+firefox-developer-welcome-to-the-all-new = ຍິນດີຕ້ອນຮັບສູ່ { -brand-name-firefox-quantum } ໃໝ່ທັງໝົດ: { -brand-name-developer-edition }
+firefox-developer-welcome-to-firefox-browser = ຍິນດີຕ້ອນຮັບສູ່ { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = ຕົວທ່ອງເວັບທີ່ສ້າງຂຶ້ນສໍາລັບນັກພັດທະນາ
