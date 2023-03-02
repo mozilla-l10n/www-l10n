@@ -24,6 +24,9 @@ firefox-new-need-help = እርዳታ ይፈልጋሉ?
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } በ{ -brand-name-windows } { -brand-name-xp } ወይም { -brand-name-vista }ላይ <a href="{ $url }">ከአሁን በኋላ የደህንነት ማሻሻያዎችን አያቀርብም</a> ፣  ነገር ግን አሁንም { -brand-name-firefox } መጠቀም ይችላሉ።
 firefox-new-windows = { -brand-name-windows }
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
