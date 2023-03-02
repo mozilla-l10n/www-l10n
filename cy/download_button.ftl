@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Llwytho i Lawr Nawr
 download-button-free-download = Llwytho i Lawr am ddim
@@ -11,7 +11,7 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Dyfeisiau Cymeradwy
 download-button-whats-new = Be sy'n Newydd
 download-button-systems-languages = Systemau ac Ieithoedd
-download-button-recommended = Cymeradwy
+download-button-recommended = Argymhellwyd
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">Nid yw { -brand-name-mozilla } yn darparu diweddariadau diogelwch ar gyfer { -brand-name-firefox } ar { -brand-name-windows } { -brand-name-xp } neu { -brand-name-vista }</a>, ond gallwch dal i lwytho i lawr y fersiwn { -brand-name-windows } 32 did olaf isod.

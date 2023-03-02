@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -36,7 +36,7 @@ firefox-enterprise-legacy-browser-support = Cymorth porwyr blaenorol
 firefox-enterprise-admx-templates = Templedi ADMX
 firefox-enterprise-deployment-guide = Canllaw darparu
 firefox-enterprise-policy-documentation = Dogfennaeth polisi
-firefox-enterprise-release-notes = Nodiadau rhyddhau
+firefox-enterprise-release-notes = Nodiadau Rhyddhau
 firefox-enterprise-documentation-and-community = Dogfennaeth a Chefnogaeth Gymunedol
 # Variables:
 #   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist

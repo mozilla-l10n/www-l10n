@@ -37,7 +37,7 @@ firefox-desktop-download-blocks-third-party-default = Wedi ei ragosod i rwystro 
 firefox-desktop-download-autoplay-blocking = Yn rhwystro awtochwarae
 firefox-desktop-download-blocks-social-trackers = Yn rhwystro tracwyr cymdeithasol
 # OS is short for "Operating System"
-firefox-desktop-download-os-availability = Argaeledd yr OS
+firefox-desktop-download-os-availability = Argaeledd OS
 firefox-desktop-download-in-browser-screenshot = Teclyn llun sgrin o fewn y porwr
 firefox-desktop-download-primary-password = Prif gyfrinair
 # Obsolete string
@@ -58,7 +58,7 @@ firefox-desktop-download-take-your-privacy = Ewch â'ch preifatrwydd gyda chi i 
 firefox-desktop-download-do-it-all = Gwneud <strong>popeth</strong> gyda { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Chwilio'n glyfrach ac yn gynt
 firefox-desktop-download-search-from-address = Chwilio o'r bar cyfeiriad
-firefox-desktop-download-search-engine-options = Dewis o beiriannau chwilio
+firefox-desktop-download-search-engine-options = Dewis peiriant chwilio
 firefox-desktop-download-smart-search-suggestions = Awgrymiadau chwilio clyfar
 firefox-desktop-download-bookmark-history = Nodau tudalen, hanes a thab agored o fewn canlyniadau
 firefox-desktop-download-boost-your = Cynyddwch eich gweithgaredd
@@ -171,7 +171,7 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-desktop-download-if-you-see-a-prompt = Os ydych chi'n gweld anogyn yn nodi nad yw'r ap rydych chi'n ceisio ei osod yn ap wedi'i ddilysu gan { -brand-name-microsoft }, cliciwch "Gosod beth bynnag" neu <a { $attrs }> newid gosodiadau argymhelledig yr ap </ a >.
+firefox-desktop-download-if-you-see-a-prompt = Os ydych chi'n gweld anogyn yn nodi nad yw'r ap rydych chi'n ceisio ei osod yn ap wedi'i ddilysu gan { -brand-name-microsoft }, cliciwch "Gosod beth bynnag" neu <a { $attrs }> newid gosodiadau argymhelledig yr ap </a>.
 firefox-desktop-download-visit-support-for-more = Ewch i Cymorth am ragor o fanylion
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista

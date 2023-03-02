@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
 
 # HTML page title
-set-as-default-landing-make-firefox-your-default = Gwnewch { -brand-name-firefox } yn borwr rhagosodedig i chi
+set-as-default-landing-make-firefox-your-default = Gwnewch { -brand-name-firefox } eich porwr ragosodedig
 # HTML page description
 set-as-default-landing-choose-the-browser = Dewiswch y porwr sy'n diogelu'ch preifatrwydd. Gosodwch { -brand-name-firefox } fel eich porwr rhagosodedig.
 # Obsolete string

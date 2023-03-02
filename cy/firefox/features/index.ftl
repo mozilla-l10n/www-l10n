@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -17,7 +17,7 @@ features-index-add-powerful-functions = Ychwanegwch swyddogaethau pwerus, nodwed
 features-index-see-all = Gweld pob estyniad
 features-index-give-your-browser = Rhowch eich hoff olwg i'ch porwr gyda miloedd o wahanol themâu.
 features-index-important-stuff = Gwnewch yn siŵr fod eich holl bethau pwysig - chwiliadau rhyngrwyd, cyfrineiriau, tabiau agored - yn ymddangos lle mae eu hangen arnoch chi ar bob dyfais.
-features-index-get-an-account = Agorwch { -brand-name-firefox-account }
+features-index-get-an-account = Cael { -brand-name-firefox-account }
 features-index-use-the-bookmark = Defnyddiwch yr eicon seren nod tudalen i gadw  trefn ac ychwanegu enwau a ffolderi cyfaddas yn gyflym.
 features-index-from-the-company = Gan gwmni sy'n rhoi pobl o flaen elw
 features-index-private-browsing-mode = Mae'r modd Pori Preifat yn dileu data cwcis a'ch hanes pori bob tro y byddwch chi'n ei gau.
@@ -53,4 +53,4 @@ features-index-translate-the-web = Cyfieithu'r we
 features-index-translate-more-than = Cyfieithwch o fwy na 100 o ieithoedd i'ch iaith chi'n uniongyrchol yn eich { -brand-name-firefox-browser } - yn haws nag erioed.
 features-index-translate-to-your = Cyfieithu i'ch iaith
 features-index-picture-in-picture = Llun-mewn-Llun
-features-index-got-things-to-do = Oes gennych chi bethau i'w gwneud a phethau i'w gwylio? Gwnewch y ddau gyda Llun-mewn-Llun yn { -brand-name-firefox }.
+features-index-got-things-to-do = Oes gennych chi bethau i'w gwneud a phethau i'w gwylio? Gwnewch y ddau gan ddefnyddio Llun-mewn-Llun yn { -brand-name-firefox }.

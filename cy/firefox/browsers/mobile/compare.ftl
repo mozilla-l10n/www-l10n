@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
@@ -34,7 +34,7 @@ mobile-compare-based-on-the = Yn seiliedig ar y meini prawf a amlinellwyd gennym
 mobile-compare-our-recommendations-aside = Ar wahân i'n hargymhellion, mae dod o hyd i'r porwr sy'n iawn i chi bob amser yn dibynnu ar eich anghenion unigol a'r hyn rydych chi'n ei werthfawrogi fwyaf wrth i chi bori ar-lein.
 mobile-compare-search-engine-options = Dewis peiriant chwilio
 mobile-compare-text-to-speech = Testun i leferydd
-mobile-compare-reader-mode = Y modd darllen
+mobile-compare-reader-mode = Modd darllen
 mobile-compare-spell-checking = Gwirio sillafu
 mobile-compare-web-extensionsaddons = Estyniadau gwe/Ychwanegion
 mobile-compare-dark-mode = Modd Tywyll
@@ -53,6 +53,6 @@ mobile-compare-syncs-with-desktopmobile = Yn cydweddu gydag ap bwrdd gwaith/symu
 mobile-compare-password-management = Rheoli cyfrineiriau
 mobile-compare-primary-password = Prif gyfrinair
 mobile-compare-get-firefox-for-mobile = Cael { -brand-name-firefox } ar gyfer symudol
-mobile-compare-send-a-download-link-to-your = Anfon dolen llwytho i'ch ffôn.
-mobile-compare-scan-the-qr-code-to-get-started = Sganio'r cod QR i gychwyn
+mobile-compare-send-a-download-link-to-your = Anfonwch ddolen llwytho i'ch ffôn.
+mobile-compare-scan-the-qr-code-to-get-started = Sganiwch y cod QR i gychwyn
 mobile-compare-scan-alt-text = Sganio'r cod QR i gael { -brand-name-firefox } ar eich dyfeisiau symudol

@@ -14,7 +14,7 @@ firefox-privacy-hub-firefox-products-are-designed = Mae cynnych { -brand-name-fi
 # Sub navigation title
 firefox-privacy-privacy = Preifatrwydd
 # Sub navigation link
-firefox-privacy-our-promise = Ein Addewid
+firefox-privacy-our-promise = Ein Haddewid
 # Sub navigation link
 firefox-privacy-our-products = Ein Cynnyrch
 firefox-privacy-hub-you-should-be-able-to-decide = Dylech allu penderfynu pwy sy'n gweld eich manylion personol. Nid yn unig ymhlith eich ffrindiau, ond gyda phob hysbysebwr a chwmni ar y rhyngrwyd - gan gynnwys ni.

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/manifesto/details/
 
 about-shared-about-mozilla = Ynghylch { -brand-name-mozilla }
-about-shared-mission = Amcan
+about-shared-mission = Cenhadaeth
 about-shared-history = Hanes
 about-shared-leadership = Arweinyddiaeth
 about-shared-governance = Llywodraethu

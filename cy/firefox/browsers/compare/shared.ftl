@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -22,7 +22,7 @@ compare-shared-tab-browsing = Pori tabiau
 compare-shared-bookmark-manager = Rheolwr nodau tudalen
 compare-shared-automatically-fills-out-forms = Yn llenwi ffurflenni yn awtomatig
 compare-shared-automatically-fills-out-payments = Yn llenwi ffurflenni taliadau'n awtomatig
-compare-shared-search-engine-options = Dewis o beiriannau chwilio
+compare-shared-search-engine-options = Dewis peiriant chwilio
 compare-shared-text-to-speech = Testun i leferydd
 compare-shared-reader-mode = Modd darllen
 compare-shared-spell-checking = Gwirio sillafu

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -15,10 +15,10 @@ manifesto-the-internet-must-enrich = Rhaid i'r rhyngrwyd gyfoethogi bywydau unig
 manifesto-individuals-security-and = Mae diogelwch a phreifatrwydd unigolion ar y rhyngrwyd yn fater sylfaenol ac nid oes modd eu trin fel mater dewisol.
 manifesto-individuals-must-have = Rhaid i unigolion gael y gallu i lunio'r rhyngrwyd a'u profiadau arno.
 manifesto-the-effectiveness-of-the = Mae effeithiolrwydd y rhyngrwyd fel adnodd cyhoeddus yn dibynnu ar y gallu i ryngweithredu (protocolau, fformatau data, cynnwys), arloesi a chyfranogiad datganoledig ledled y byd.
-manifesto-free-and-open-source-software = Mae meddalwedd cod agored ac am ddim yn hyrwyddo datblygiad y rhyngrwyd fel adnodd cyhoeddus.
+manifesto-free-and-open-source-software = Mae meddalwedd cod agored, rhydd ac am ddim yn hyrwyddo datblygiad y Rhyngrwyd fel adnodd cyhoeddus.
 manifesto-transparent-community = Mae prosesau tryloyw cymunedol yn hyrwyddo cyfranogiad, atebolrwydd, ac ymddiriedaeth.
 manifesto-commercial-involvement = Mae cyfranogiad masnachol yn natblygiad y rhyngrwyd yn dod â llawer o fuddion; mae cael cydbwysedd rhwng elw masnachol a budd cyhoeddus yn hanfodol.
-manifesto-magnifying-the-public = Mae cynyddu agweddau budd cyhoeddus y rhyngrwyd yn nod pwysig, teilwng o'n hamser, sylw ac ymrwymiad.
+manifesto-magnifying-the-public = Mae cynyddu agweddau budd cyhoeddus y Rhyngrwyd yn nod pwysig, teilwng o'n hamser, sylw ac ymrwymiad.
 manifesto-principle-1 = Egwyddor 1
 manifesto-principle-2 = Egwyddor 2
 manifesto-principle-3 = Egwyddor 3
@@ -54,31 +54,6 @@ manifesto-an-internet-with-these = Nid yw rhyngrwyd sydd â'r nodweddion hyn yn 
 manifesto-i-support-the-vision-of = Rwy'n cefnogi'r weledigaeth o rhyngrwyd gwell a iachach gan @mozilla, wnewch chi ymuno â mi?
 manifesto-share-on-twitter = Rhannu ar { -brand-name-twitter }
 manifesto-our-10-principles = <strong>Ein 10</strong> Egwyddor
-manifesto-use-open-badges-to-share = Defnyddiwch Open Badges i rannu eich sgiliau a'ch diddordebau
-manifesto-explore-how-the-web-impacts = Gweld sut mae'r we'n effeithio ar wyddoniaeth
-manifesto-learn-about-open-source = Dysgu am god agored mewn newyddiaduriaeth
-manifesto-read-about-open-internet = Darllen am fenter a datblygiad polisi rhyngrwyd agored
-manifesto-explore-how-to-help-keep = Gweld sut i gynorthwyo i gadw'r we'n agored
-manifesto-see-how-the-web-can-connect = Gweld sut gall y we gysylltu'r byd i ofal iechyd
-manifesto-explore-how-the-web-works = Gweld sut mae'r we'n gweithio
-manifesto-see-how-mozilla-works = Gweld sut mae { -brand-name-mozilla }'n gweithio i roi eich preifatrwydd yn gyntaf
-manifesto-read-about-developments = Darllenwch am ddatblygiadau mewn preifatrwydd a diogelwch data
-manifesto-learn-more-about-how-to = Dysgwch sut i ddiogelu eich hun ar-lein
-manifesto-use-these-free-tools-to = Defnyddiwch yr offer rhad ac am ddim yma i ddysgu'r we
-manifesto-learn-about-creating-and = Dysgu am greu a chyflwyno cynnwys ar gyfer y we
-manifesto-add-new-voices-to-open = Ychwanegwch leisiau i dechnoleg cod agored
-manifesto-set-your-do-not-track = Gosodwch eich dewisiadau Dim Tracio
-manifesto-understand-the-web-ecosystem = Deall ecosystem y we
-manifesto-explore-how-open-practices = Gweld sut mae ymarfer agored yn cadw'r we'n agored
-manifesto-learn-how-to-remix-content = Dysgu sut i gymysgu cynnwys i greu rhywbeth newydd
-manifesto-learn-how-to-maximize = Dysgu sut i gynyddu potensial rhyngweithiol y we
-manifesto-participate-in-our-governance = Cyfrannwch i'n fforwm llywodraethu
-manifesto-join-us-as-a-volunteer = Ymunwch fel gwirfoddolwyr
-manifesto-learn-how-to-collaborate = Dysgwch sut i gydweithio ar-lein
-manifesto-visualize-who-you-interact = Gweld pwy rydych yn rhyngweithio â nhw ar y we gyda { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Dysgwch am greu adnoddau gwe gydag eraill
-manifesto-host-or-join-a-maker-party = Hyrwyddo neu ymuno â { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Dysgu sut i adeiladu sgiliau cydweithio ar-lein
 manifesto-read-the-entire-manifesto = Darllenwch y maniffesto i gyd
 manifesto-love-the-web = Caru'r we?
 manifesto-get-the-mozilla-newsletter = Derbyniwch daflen newyddion { -brand-name-mozilla } a'n cynorthwyo i'w gadw'n agored a rhydd.
@@ -98,10 +73,10 @@ manifesto-details-principles = Egwyddorion
 manifesto-details-the-internet-is-integral = Mae'r Rhyngrwyd yn rhan annatod o fywyd modern—yn elfen allweddol mewn addysg, cyfathrebu, cydweithredu, busnes, adloniant a chymdeithas yn gyffredinol.
 manifesto-details-the-internet-is-global = Mae'r Rhyngrwyd yn adnodd cyhoeddus byd-eang y mae'n rhaid iddo aros yn agored ac yn hygyrch.
 manifesto-details-the-internet-must = Rhaid i'r Rhyngrwyd gyfoethogi bywydau bodau dynol unigol.
-manifesto-details-individuals-security = Mae diogelwch unigolion ar y Rhyngrwyd yn fater sylfaenol ac nid oes modd ei drin fel mater dewisol.
+manifesto-details-individuals-security = Mae diogelwch a phreifatrwydd unigolion ar y rhyngrwyd yn fater sylfaenol ac nid oes modd eu trin fel mater dewisol.
 manifesto-details-individuals-must = Rhaid i unigolion gael y gallu i lunio'r Rhyngrwyd a'u profiadau eu hunain ar y Rhyngrwyd.
 manifesto-details-the-effectiveness = Mae effeithiolrwydd y Rhyngrwyd fel adnodd cyhoeddus yn dibynnu ar y gallu i ryngweithredu (protocolau, fformatau data, cynnwys), arloesi a chyfranogiad datganoledig ledled y byd.
-manifesto-details-free-and-open = Mae meddalwedd cod agored ac am ddim yn hyrwyddo datblygiad y Rhyngrwyd fel adnodd cyhoeddus.
+manifesto-details-free-and-open = Mae meddalwedd cod agored, rhydd ac am ddim yn hyrwyddo datblygiad y Rhyngrwyd fel adnodd cyhoeddus.
 manifesto-details-transparent-community = Mae prosesau tryloyw cymunedol yn hyrwyddo cyfranogiad, atebolrwydd, ac ymddiriedaeth.
 manifesto-details-commercial-involvement = Mae cyfranogiad masnachol yn natblygiad y Rhyngrwyd yn dod â llawer o fuddion; mae cael cydbwysedd rhwng elw masnachol a budd cyhoeddus yn hanfodol.
 manifesto-details-magnifying-the = Mae cynyddu agweddau budd cyhoeddus y Rhyngrwyd yn nod pwysig, teilwng o'n hamser, sylw ac ymrwymiad.
