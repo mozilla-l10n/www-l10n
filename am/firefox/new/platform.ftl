@@ -29,6 +29,7 @@ new-platform-firefox-for-linux = { -brand-name-firefox } ለ { -brand-name-linux
 new-platform-privacy-more-than = ግላዊነት - ከመመሪያም በላይ
 new-platform-your-life-your-business = ሕይወትዎ ፣ የእርስዎ ጉዳይ ። { -brand-name-firefox } በ{ -brand-name-linux } ላይ የሶስተኛ ወገን መከታተያ ኩኪዎችን ያግዳል።
 new-platform-speed-meet-security = ፍጥነት እንዲሁም ደህንነትን ያሟላ። { -brand-name-firefox } ከ{ -brand-name-chrome } በ30% ባነሰ ማህደረ ትውስታ ሁለት እጥፍ ፈጣን ነው።
+new-platform-open-source = ክፍት ምንጭ
 
 ## Mac
 
