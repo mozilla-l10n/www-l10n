@@ -41,7 +41,7 @@ firefox-privacy-hub-why-trust-firefox = Pam ymddiried yn { -brand-name-firefox }
 firefox-privacy-hub-because-we-put-people-first = Oherwydd ein bod ni'n blaenoriaethu pobl. Mewn gwirionedd, mae <a href="{ $foundation }">nid-er-elw</a> yn gefn inni. O'r cychwyn cyntaf, ein cenhadaeth oedd amddiffyn y rhyngrwyd a phawb arno.
 firefox-privacy-hub-learn-more-about-our-mission = Dysgu rhagor am ein cenhadaeth
 firefox-privacy-hub-your-privacy-by-the-product = Eich preifatrwydd, yn ôl y cynnyrch
-firefox-privacy-hub-firefox-products-work-differently = Mae cynnyrch { -brand-name-firefox } yn gweithio'n wahanol - oherwydd eu bod wedi'u cynllunio i roi blaenoriaeth i ddiogelu eich preifatrwydd.
+firefox-privacy-hub-firefox-products-work-differently = Mae cynnyrch { -brand-name-firefox } yn gweithio'n wahanol - oherwydd eu bod wedi'u cynllunio i flaenoriaethu ddiogelu eich preifatrwydd.
 firefox-privacy-hub-learn-about-our-products = Dysgu am ein cynnyrch
 firefox-privacy-hub-firefox-privacy-by-the = Preifatrwydd { -brand-name-firefox }, yn ôl y cynnyrch
 firefox-privacy-hub-firefox-protects-your-privacy = Mae { -brand-name-firefox } yn diogelu eich preifatrwydd ym mhob cynnyrch.
