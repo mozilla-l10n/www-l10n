@@ -30,9 +30,11 @@ new-platform-privacy-more-than = ግላዊነት - ከመመሪያም በላይ
 new-platform-your-life-your-business = ሕይወትዎ ፣ የእርስዎ ጉዳይ ። { -brand-name-firefox } በ{ -brand-name-linux } ላይ የሶስተኛ ወገን መከታተያ ኩኪዎችን ያግዳል።
 new-platform-speed-meet-security = ፍጥነት እንዲሁም ደህንነትን ያሟላ። { -brand-name-firefox } ከ{ -brand-name-chrome } በ30% ባነሰ ማህደረ ትውስታ ሁለት እጥፍ ፈጣን ነው።
 new-platform-open-source = ክፍት ምንጭ
+new-platform-look-under-the-hood = ከመጋረጃው ጀርባ ይመልከቱ። እንደ { -brand-name-linux }፣ የ{ -brand-name-firefox } ልዩ ባህሪያትም ክፍት ምንጭ ናቸው።
 
 ## Mac
 
+new-platform-download-mozilla-firefox-mac = ለ { -brand-name-mac-short } { -brand-name-mozilla } { -brand-name-firefox }ን አውርድ
 
 ## Windows
 
