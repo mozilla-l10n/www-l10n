@@ -27,6 +27,7 @@ new-platform-faster-page-loading-linux = ፈጣን ገጽ መጫን፣ አነስ
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } ለ { -brand-name-linux }
 new-platform-privacy-more-than = ግላዊነት - ከመመሪያም በላይ
+new-platform-your-life-your-business = ሕይወትዎ ፣ የእርስዎ ጉዳይ ። { -brand-name-firefox } በ{ -brand-name-linux } ላይ የሶስተኛ ወገን መከታተያ ኩኪዎችን ያግዳል።
 
 ## Mac
 
