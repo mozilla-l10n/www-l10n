@@ -20,6 +20,13 @@ new-platform-need-help = እርዳታ ይፈልጋሉ?
 ## Linux
 
 new-platform-download-mozilla-linux = { -brand-name-mozilla } { -brand-name-firefox }ን ለ { -brand-name-linux } አውርድ
+# /firefox/linux/ social sharing title
+new-platform-download-the-fastest-linux = የምንግዜም ፈጣኑን { -brand-name-firefox } ለ { -brand-name-linux } አውርድ
+# /firefox/linux/ social sharing description
+new-platform-faster-page-loading-linux = ፈጣን ገጽ መጫን፣ አነስተኛ የማህደረ ትውስታ አጠቃቀም እና በልዩ ባህሪያት የታጨቀ፣ አዲሱ { -brand-name-firefox } ለ{ -brand-name-linux } እዚህ አለ።
+# /firefox/linux/ main page title
+new-platform-firefox-for-linux = { -brand-name-firefox } ለ { -brand-name-linux }
+new-platform-privacy-more-than = ግላዊነት - ከመመሪያም በላይ
 
 ## Mac
 

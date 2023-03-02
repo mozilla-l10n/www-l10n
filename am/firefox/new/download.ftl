@@ -41,6 +41,9 @@ firefox-new-download-interrupted = ማውረድዎ ተቋርጧል። ግን ሁ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = { -brand-name-firefox }ን ለመጫን እባክዎ <a href="{ $url }">እነዚህን መመሪያዎች</a> ይከተሉ።
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = የእርስዎ ስርዓት የ{ -brand-name-firefox } መስፈርቶችን ላያሟላ ይችላል፣ነገር ግን ከ<a href="{ $url }">እነዚህ ስሪቶች</a> አንዱን መሞከር ይችላሉ።
 firefox-new-windows = { -brand-name-windows }
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
