@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Llwythwch y porwr { -brand-name-firefox-browser } ar eich Dyfais Symudol { -brand-name-ios } ac { -brand-name-android }
+welcome-page4-download-the-firefox-browser = Defnyddiwch { -brand-name-firefox-browser } ar eich dyfais Symudol { -brand-name-ios } ac { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Waled. Allweddi. Ffôn. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen-now = Nawr cewch breifatrwydd ar bob sgrin
 welcome-page4-take-privacy-with-you-on-every = Ewch â phreifatrwydd gyda chi ar bob dyfais - a gadewch y tracwyr data ar ôl.

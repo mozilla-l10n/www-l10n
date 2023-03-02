@@ -15,7 +15,7 @@ banner-fundraising-body = Mae ein data personol yn cael ei gasglu bob tro y bydd
 banner-fundraising-body-extra = A wnewch chi gyfrannu heddiw?
 banner-fundraising-monthly = Yn Fisol
 banner-fundraising-one-time = Unwaith yn Unig
-banner-fundraising-donate = Rhoi
+banner-fundraising-donate = Cyfrannu
 # Outdated string
 # Variables:
 #   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$

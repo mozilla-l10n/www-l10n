@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -42,7 +42,7 @@ firefox-channel-test-about-to-be-released = Rhowch brawf ar nodweddion ar fin eu
 firefox-channel-release-notes = Nodiadau rhyddhau
 firefox-channel-previous-nightly-builds = Adeiladau blaenorol { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
-firefox-channel-build-test-scale-and-more = Adeiladu, profi, graddio a mwy gyda'r unig borwr sydd wedi ei adeiladu ar gyfer datblygwyr.
+firefox-channel-build-test-scale-and-more = Adeiladu, profi, graddio a mwy gyda'r unig borwr wedi'i adeiladu'n benodol ar gyfer datblygwyr.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = Mae { -brand-name-developer-edition } yn blatfform profi a datblygu ansad. Drwy ragosodiad mae { -brand-name-developer-edition }'n anfon data i { -brand-name-mozilla } — ac weithiau i'n partneriaid — i'n cynorthwyo i drin problemau a phrofi syniadau. <a href="{ $link }">Gweld beth sy'n caei ei rannu</a>.

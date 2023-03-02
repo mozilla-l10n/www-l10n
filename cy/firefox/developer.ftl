@@ -86,4 +86,4 @@ firefox-developer-all-the-latest = Yr holl offer datblygwr diweddaraf mewn beta,
 firefox-developer-a-separate-profile = A <strong>proffil a llwybr ar wahân</strong> fel y gallwch chi ei redeg yn hawdd ochr yn ochr â Rhyddhau neu { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Dewisiadau <strong>wedi'u teilwra ar gyfer datblygwyr gwe</strong>: Mae porwr a dadfygio o bell yn cael eu galluogi'n rhagosodedig, yn ogystal a'r thema dywyll a botwm bar offer y datblygwr.
 firefox-developer-congrats-you-now-have = Llongyfarchiadau. Bellach mae gennych { -brand-name-firefox-browser } { -brand-name-developer-edition }
-firefox-developer-congrats-you-now-have-latest = Llongyfarchiadau. Mae gennych y fersiwn diweddaraf o { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-congrats-you-now-have-latest = Llongyfarchiadau. Nawr mae gennych y fersiwn diweddaraf o { -brand-name-firefox-browser } { -brand-name-developer-edition }

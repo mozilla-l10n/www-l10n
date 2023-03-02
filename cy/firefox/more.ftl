@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -21,8 +21,6 @@ firefox-is-more = Mae { -brand-name-firefox } yn fwy na phorwr
 its-a-lightning = Mae'n ddrws chwim i'r profiad gorau ar y we.
 get-the-browsers = Cael y porwyr sy'n rhoi eich preifatrwydd yn gyntaf - ac wedi gwneud erioed
 get-the-privacy = Cael y preifatrwydd rydych chi'n ei haeddu. Mae Diogelu rhag Tracio Uwch yn awtomatig ym mhob porwr Firefox.
-take-your-passwords = Ewch â'ch cyfrineiriau i bob man
-securely-access-the = Sicrhewch fynediad i'r cyfrineiriau rydych wedi'u cadw yn { -brand-name-firefox } o unrhyw le - hyd yn oed y tu allan i'r porwr.
 choose-which-firefox = Dewiswch pa { -brand-name-firefox-browser } i'w lwytho i lawr yn eich iaith
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } ar gyfer { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Er bod gan { -brand-name-chromebook } y porwr { -brand-name-chrome } eisoes wedi'i osod, mae llwytho i lawr a defnyddio { -brand-name-firefox } fel eich prif borwr yn dod ag amryw o fanteision i chi:
@@ -43,11 +41,11 @@ firefox-for-windows = { -brand-name-firefox } { -brand-name-windows } 64-did
 we-worry-about = Rydyn ni'n pryderu am diogelwch eich data felly does dim rhaid i chi wneud hynny.
 seven-of-the = Cymhariaeth uniongyrchol o'r saith porwyr gorau.
 we-compare-firefox = Rydym yn cymharu { -brand-name-firefox } â { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ac { -brand-name-ie } i'ch helpu chi i benderfynu.
-comparing-firefox-chrome = Cymharu { -brand-name-firefox-browser } â { -brand-name-google } { -brand-name-chrome }
+comparing-firefox-chrome = Cymharu { -brand-name-firefox-browser } a { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Nid Mawr sydd orau bob tro. Dewiswch annibyniaeth yn ei le.
 comparing-firefox-brave = Cymharu { -brand-name-firefox-browser } â { -brand-name-brave }
 be-bold-and = Byddwch yn feiddgar a dewr wrth ddewis pa borwr sy'n iawn i chi.
-comparing-firefox-edge = Cymharu { -brand-name-firefox-browser } â { -brand-name-microsoft } { -brand-name-edge }
+comparing-firefox-edge = Cymharu { -brand-name-firefox-browser } a { -brand-name-microsoft } { -brand-name-edge }
 youll-never-guess = Fyddwch chi byth yn dyfalu pa borwr sydd â'r awch o ran cyflymder a nodweddion.
 comparing-firefox-ie = Cymharu { -brand-name-firefox-browser } â { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = Mae'n anodd newid hen arferion ond byddwch chi'n teimlo'n well pan fyddwch chi'n gwneud.

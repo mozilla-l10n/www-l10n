@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Llwytho { -brand-name-firefox } i Lawr
 navigation-get-a-firefox-account = Creu { -brand-name-firefox-account }
@@ -68,7 +68,7 @@ navigation-get-unmatched-data-protection = Cael diogelwch data digymar ar y dref
 navigation-made-with-respect = Wedi'i wneud gyda pharch
 navigation-close-products-menu = Cau dewislen Cynnyrch
 navigation-see-if-your-personal = Gallwch weld a yw'ch manylion personol wedi'u gollwng ar-lein, a chofrestru i gael rhybuddion tor-data yn y dyfodol.
-navigation-check-for-breaches = Gwirio am Dor-data
+navigation-check-for-breaches = Gwiriwch am dor-data
 navigation-see-breaches = Gweld Pob Tor-data
 navigation-security-tips = Awgrymiadau Diogelwch
 navigation-share-large-files-safely = Rhannwch ffeiliau mawr yn ddiogel, gyda dolenni sy’n ‘ymddinistrio’.
@@ -109,7 +109,7 @@ navigation-mixed-reality = Realiti Cymysg
 navigation-resources = Adnoddau
 navigation-resources-for-developers = Adnoddau i ddatblygwyr, gan ddatblygwyr.
 navigation-developer-blog = Blog Datblygwyr
-navigation-build-test-scale-and = Adeiladu, profi, graddio a mwy gyda'r unig borwr sydd wedi ei adeiladu ar gyfer datblygwyr.
+navigation-build-test-scale-and = Adeiladu, profi, graddio a mwy gyda'r unig borwr wedi'i adeiladu'n benodol ar gyfer datblygwyr.
 navigation-leadership = Arweinyddiaeth
 navigation-mission = Cenhadaeth
 navigation-press-center = Canolfan y Wasg

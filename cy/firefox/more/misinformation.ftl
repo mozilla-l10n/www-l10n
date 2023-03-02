@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -50,7 +50,7 @@ misinformation-surface-content-desc = Pan fyddwch yn agor tab newydd yn eich por
 misinformation-why-trust-firefox = Pam ymddiried yn { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
-misinformation-because-we-put-people-first = Oherwydd ein bod ni'n blaenoriaethu pobl. Mewn gwirionedd, mae <a href="{ $foundation }">nid-er-elw</a> yn gefn inni. O'r cychwyn cyntaf, ein cenhadaeth yw amddiffyn y rhyngrwyd a phawb arno.
+misinformation-because-we-put-people-first = Oherwydd ein bod ni'n blaenoriaethu pobl. Mewn gwirionedd, mae <a href="{ $foundation }">nid-er-elw</a> yn gefn inni. O'r cychwyn cyntaf, ein cenhadaeth oedd amddiffyn y rhyngrwyd a phawb arno.
 misinformation-learn-more-about-our-mission = Dysgu rhagor am ein cenhadaeth
 misinformation-your-privacy-by-the-product = Eich preifatrwydd, yn ôl y cynnyrch
 misinformation-firefox-products-work-differently = Mae cynnyrch { -brand-name-firefox } yn gweithio'n wahanol - oherwydd eu bod wedi'u cynllunio i flaenoriaethu ddiogelu eich preifatrwydd.
