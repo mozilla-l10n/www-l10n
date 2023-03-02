@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
@@ -20,7 +20,7 @@ firefox-accounts-take-your-stand-against = Gwnewch safiad yn erbyn diwydiant sy'
 # The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 firefox-accounts-youre-signed-in-to = Rydych wedi mewngofnodi <br>i { -brand-name-firefox }. <br><span>Nawr rhowch gynnig ar { -brand-name-firefox-monitor }.</span>
 firefox-accounts-see-if-youve-been = Gweld os ydych chi wedi bod yn rhan o dor-data ar-lein.
-firefox-accounts-sign-in-to-monitor = Mewngofnodwch i { -brand-name-monitor }
+firefox-accounts-sign-in-to-monitor = Mewngofnodi i { -brand-name-monitor }
 firefox-accounts-join-firefox = Ymunwch â { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Rhowch eich cyfeiriad e-bost i ddechrau.
 firefox-accounts-already-have-an-account = Oes gennych chi gyfrif y barod?

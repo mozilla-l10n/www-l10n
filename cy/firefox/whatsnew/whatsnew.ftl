@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
 whatsnew-page-title = Beth sy'n newydd gyda { -brand-name-firefox } - Rhagor o breifatrwydd, rhagor o ddiogelu.
-whatsnew-page-description = Gwnewch eich safiad yn erbyn diwydiant sy'n gwerthu'ch data i drydydd partïon. Cadwch yn glyfar ac yn ddiogel ar-lein gyda thechnoleg sy'n ymladd drosoch chi.
+whatsnew-page-description = Gwnewch safiad yn erbyn diwydiant sy'n gwerthu eich data i drydydd partïon. Byddwch yn graff a diogel ar-lein gyda thechnoleg sydd o'ch plaid.
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }

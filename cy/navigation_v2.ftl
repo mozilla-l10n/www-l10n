@@ -13,7 +13,7 @@ navigation-v2-get-a-firefox-account = Cael { -brand-name-firefox-account }
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Cau dewislen { -brand-name-firefox-browsers }
-navigation-v2-firefox-for-desktop = { -brand-name-firefox } y Bwrdd Gwaith
+navigation-v2-firefox-for-desktop = { -brand-name-firefox } Bwrdd Gwaith
 navigation-v2-get-the-not-for-profit-backed = Cael y porwr nid-er-elw ar { -brand-name-windows },{ -brand-name-mac-short } neu { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Cael y porwr symudol cyfaddasadwy ar gyfer ffonau clyfar { -brand-name-android }.

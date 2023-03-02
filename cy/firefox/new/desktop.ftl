@@ -104,7 +104,7 @@ firefox-desktop-download-theres-no-need = Does dim angen bodloni. Gallwch newid 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Gyda chefnogaeth y corff <strong>nid-er-elw</strong> sy'n rhoi pobl yn gyntaf
 firefox-desktop-download-challenging-the-status = Yn herio'r sefydliad er 1998
-firefox-desktop-download-your-privacy-comes = Eich preifatrwydd yn flaenoriaeth
+firefox-desktop-download-your-privacy-comes = Mae eich preifatrwydd yn flaenoriaeth.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Cadwch eich holl hoff nodweddion porwr - a <strong>darganfod</strong> rhai newydd.
 # Gmail and Docs are product names and should not be translated
@@ -172,7 +172,7 @@ firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Os ydych chi'n gweld anogyn yn nodi nad yw'r ap rydych chi'n ceisio ei osod yn ap wedi'i ddilysu gan { -brand-name-microsoft }, cliciwch "Gosod beth bynnag" neu <a { $attrs }> newid gosodiadau argymhelledig yr ap </a>.
-firefox-desktop-download-visit-support-for-more = Ewch i Cymorth am ragor o fanylion
+firefox-desktop-download-visit-support-for-more = Ewch i Cymorth am Ragor o Fanylion
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = Nid yw { -brand-name-mozilla } <a href="{ $url }"> bellach yn darparu diweddariadau diogelwch </a> ar { -brand-name-windows } { -brand-name-xp } na { -brand-name-vista }, ond gallwch barhau i ddefnyddio { -brand-name-firefox }.

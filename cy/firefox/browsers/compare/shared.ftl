@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 # Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = iawn
+compare-shared-yes = Iawn
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Na
 compare-shared-private-browsing-mode = Modd Pori Preifat
