@@ -38,3 +38,6 @@ new-platform-download-mozilla-firefox-mac = ለ { -brand-name-mac-short } { -bra
 
 ## Windows
 
+new-platform-common-sense-privacy = የተለመደ ግላዊነት
+new-platform-live-your-life = ህይወትዎን ይኑሩ፣ { -brand-name-firefox } እየተመለከተ አይደለም። ምን እንደሚያጋሩ እና መቼ እንደሚያጋሩ ይምረጡ።
+new-platform-seamless-setup = እንከን የለሽ ውቅር

@@ -8,6 +8,8 @@
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } ከአሳሽ በላይ ነው
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-sign-up-for-breach-alerts = የጥሰት ማንቂያዎች እንዲደርስዎ ይመዝገቡ
+firefox-products-firefox-browsers = { -brand-name-firefox } አሳሾች
 firefox-products-desktop = ዴስክቶፕ
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
