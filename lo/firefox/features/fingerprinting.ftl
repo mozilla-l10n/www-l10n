@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+# page title
+features-fingerprinting-what-is-fingerprinting-title = ການພິມນີ້ວມືແມ່ນຫຍັງ ແລະເປັນຫຍັງທ່ານຄວນບລັອກມັນ
 features-fingerprinting-what-is-fingerprinting-body = ການພິມນິ້ວມືແມ່ນຫຍັງ?

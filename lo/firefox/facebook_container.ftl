@@ -13,6 +13,7 @@ facebook-container-download-firefox-and-get-the = ດາວໂຫລດ { -brand
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Outdated string
 facebook-container-the-facebook-container-extension = ສ່ວນຂະຫຍາຍຂອງ { -brand-name-facebook-container } ແມ່ນບໍ່ສາມາດນຳໃຊ້ງານໄດ້ໃນອຸປະກອນໂທລະສັບ.
+facebook-container-get-firefox-android-ios = ເອົາ { -brand-name-firefox } ສໍາລັບ { -brand-name-android } ແລະ { -brand-name-ios } ດຽວນີ້.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = ລອງ <strong> { -brand-name-firefox-focus } </strong>, ຕົວທ່ອງເວັບຄວາມເປັນສ່ວນຕົວສໍາລັບ { -brand-name-android } ແລະ { -brand-name-ios }.
