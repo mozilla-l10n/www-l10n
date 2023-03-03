@@ -31,9 +31,16 @@ footer-pocket = { -brand-name-pocket }
 footer-join = ይቀላቀሉ
 # Outdated string
 footer-sign-up = ይመዝገቡ
+# Outdated string
+footer-sign-in = ይግቡ
+# Outdated string
+footer-benefits = ጥቅሞች
+footer-developers = አበልጻጊዎች
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
+footer-nightly-for-android = { -brand-name-nightly } ለ { -brand-name-android }
+footer-beta-for-android = { -brand-name-beta } ለ { -brand-name-android }
 footer-mozilla = { -brand-name-mozilla }
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
