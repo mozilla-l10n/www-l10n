@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+# page title
+features-fingerprinting-what-is-fingerprinting-title = การตรวจลายนิ้วมือคืออะไรและทำไมคุณถึงควรปิดกั้น
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } ช่วยปิดกั้นการตรวจลายนิ้วมือได้
 features-fingerprinting-download-firefox = ดาวน์โหลด { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = การตรวจลายนิ้วมือคืออะไร?
