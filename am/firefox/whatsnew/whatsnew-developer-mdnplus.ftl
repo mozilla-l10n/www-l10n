@@ -12,3 +12,9 @@ developer-mdnplus-congrats-you-now-have-latest = እንኳን ደስ ያለዎ�
 developer-mdnplus-more-mdn-your-mdn = ተጨማሪ { -brand-name-mdn }። <em>የእርስዎ</em> { -brand-name-mdn }።
 # CTA button
 developer-mdnplus-get-started = ይጀምሩ
+developer-mdnplus-whats-included = ምን ይካተታል
+developer-mdnplus-notifications = ማሳወቂያዎች
+developer-mdnplus-collections = ስብስቦች
+developer-mdnplus-build-your-perfect-library = የእርስዎን ፍጹም ቤተ-መተግበሪያ ይገንቡ። ወይም እኛ እንገንባልዎት።
+developer-mdnplus-mdn-offline = { -brand-name-mdn } ከመስመር ውጭ
+developer-mdnplus-mdns-entire-library-at-your = የ{ -brand-name-mdn } መላው ቤተ-መተግበሪያ በመዳፍዎ ላይ፡ ከመስመር ውጭ
