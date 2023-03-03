@@ -6,9 +6,19 @@ footer-firefox = { -brand-name-firefox }
 footer-privacy-hub = የግላዊነት ማዕከል
 footer-privacy = ግላዊነት
 footer-press = ይጫኑ
+footer-corporate-blog = የድርጅት ብሎግ
+footer-browser-comparison = የአሳሽ ንጽጽር
+footer-brand-standards = የምርት ስም ደረጃዎች
+footer-browsers = አሳሾች
+# Outdated string
+footer-desktop = ዴስክቶፕ
+# Outdated string
+footer-mobile = ተንቀሳቃሽ ስልክ
 # Outdated string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
+# Outdated string
+footer-products = ምርቶች
 # Outdated string
 footer-lockwise = { -brand-name-lockwise }
 # Outdated string
@@ -17,6 +27,10 @@ footer-monitor = { -brand-name-monitor }
 footer-send = { -brand-name-send }
 # Outdated string
 footer-pocket = { -brand-name-pocket }
+# Outdated string
+footer-join = ይቀላቀሉ
+# Outdated string
+footer-sign-up = ይመዝገቡ
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
