@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title = በ{ -brand-name-firefox } ላይ ምን አዲስ ነገር አለ - ተጨማሪ ግላዊነት፣ ተጨማሪ ጥበቃዎች።
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }

@@ -18,3 +18,4 @@ developer-mdnplus-collections = ስብስቦች
 developer-mdnplus-build-your-perfect-library = የእርስዎን ፍጹም ቤተ-መተግበሪያ ይገንቡ። ወይም እኛ እንገንባልዎት።
 developer-mdnplus-mdn-offline = { -brand-name-mdn } ከመስመር ውጭ
 developer-mdnplus-mdns-entire-library-at-your = የ{ -brand-name-mdn } መላው ቤተ-መተግበሪያ በመዳፍዎ ላይ፡ ከመስመር ውጭ
+developer-mdnplus-resources-for-developers = ግብዓቶች ለገንቢዎች፣ በገንቢዎች።

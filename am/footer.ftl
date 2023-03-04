@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
+footer-mozilla-manifesto = { -brand-name-mozilla } ማኒፌስቶ
 footer-privacy-hub = የግላዊነት ማዕከል
 footer-privacy = ግላዊነት
 footer-press = ይጫኑ
@@ -42,8 +43,23 @@ footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } ለ { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } ለ { -brand-name-android }
 footer-mozilla = { -brand-name-mozilla }
+footer-company = ኩባንያ
+# Outdated string
+footer-about = ስለ
+footer-careers = ሙያዎች
+# Outdated string
+footer-test-new-features = አዲስ ባህሪያትን ይሞክሩ
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
+footer-tools = መሳሪያዎች
+footer-resources = መርጃዎች
+footer-contact = ያግኙን
+footer-product-help = የምርት እገዛ
+footer-support = ድጋፍ
+footer-file-a-bug = ሳንካ ያስመዝግቡ
+footer-community-participation-guidelines = የማህበረሰብ ተሳትፎ መመሪያዎች
+footer-websites-privacy-notice = የድረ-ገፅ ግላዊነት ማስታወቂያ
+footer-websites-cookies = ተሸጓጭ
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
