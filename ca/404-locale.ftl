@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/404-locale/
 
-not-found-locale-title = Trieu la vostra llengua o regió per navegar per Mozilla.org
+not-found-locale-title = Trieu la vostra llengua o configuració local per navegar per Mozilla.org
 not-found-locale-desc = Trieu el país o regió per indicar la vostra llengua preferida.
 not-found-locale-not-yet-translated = Aquesta pàgina encara no s'ha traduït
 # Variables:
@@ -13,3 +13,7 @@ not-found-locale-not-yet-translated = Aquesta pàgina encara no s'ha traduït
 #   $contribute (url) - link to https://wiki.mozilla.org/L10n:Contribute
 not-found-locale-join-us = Uniu-vos a la nostra <a href="{ $community }">comunitat</a> i ajudeu-nos a <a href="{ $contribute }">traduir aquesta pàgina.</a>
 not-found-locale-available = Està disponible en les llengües següents:
+# Variables:
+#   $requested_page (string) - path of originally requested page
+#   $link_language (string) - name of language used in page link
+not-found-locale-link-title = Obriu { $requested_page } en { $link_language }
