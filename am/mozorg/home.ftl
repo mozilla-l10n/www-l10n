@@ -15,3 +15,4 @@ home-virtual-reality-platform = ምናባዊ እውነታ መድረክ
 home-common-voice = { -brand-name-common-voice }
 home-extensions = ቅጥያዎች
 home-careers = ሙያዎች
+home-need-help = እገዛ ይፈልጋሉ?
