@@ -7,4 +7,8 @@
 
 # page title
 features-fingerprinting-what-is-fingerprinting-title = ການພິມນີ້ວມືແມ່ນຫຍັງ ແລະເປັນຫຍັງທ່ານຄວນບລັອກມັນ
+features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } ຂັດຂວາງການພິມລາຍນິ້ວມື
+# description for the header image
+features-fingerprinting-every-fingerprint = ທຸກໆລາຍນິ້ວມືແມ່ນເປັນເອກະລັກ.
+features-fingerprinting-download-firefox = ດາວໂຫລດ { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = ການພິມນິ້ວມືແມ່ນຫຍັງ?

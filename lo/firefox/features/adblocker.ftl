@@ -7,6 +7,7 @@
 
 features-adblocker-how-to-block-annoying = ວິທີການສະກັດການໂຄສະນາທີ່ຫນ້າລໍາຄານໂດຍໃຊ້ຕົວບລັອກໂຄສະນາ
 features-adblocker-find-the-right-ad-blocker = ຊອກຫາຕົວສະກັດການໂຄສະນາທີ່ເຫມາະສົມສໍາລັບທ່ານ
+features-adblocker-create-a-tracker-free = ສ້າງເຂດທີ່ບໍ່ມີຕົວຕິດຕາມດ້ວຍການບລັອກເນື້ອຫາ
 features-adblocker-choose-your-level-of-protection = ເລືອກລະດັບການປົກປ້ອງຂອງທ່ານ
 features-adblocker-get-tough-with-strict = ເຄັ່ງຄັດດ້ວຍໂໝດເຂັ້ມງວດ
 features-adblocker-do-it-yourself-custom = ຮູບແບບການປັບແຕ່ງເອງ
