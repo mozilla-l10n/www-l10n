@@ -8,6 +8,8 @@
 # page title
 features-fingerprinting-what-is-fingerprinting-title = การตรวจลายนิ้วมือคืออะไรและทำไมคุณถึงควรปิดกั้น
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } ช่วยปิดกั้นการตรวจลายนิ้วมือได้
+# description for the header image
+features-fingerprinting-every-fingerprint = ทุกลายนิ้วมือนั้นไม่ซ้ำกัน
 features-fingerprinting-download-firefox = ดาวน์โหลด { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = การตรวจลายนิ้วมือคืออะไร?
 features-fingerprinting-fingerprinting-is-bad = การตรวจลายนิ้วมือเป็นสิ่งที่ไม่ดีสำหรับเว็บ
