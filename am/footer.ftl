@@ -70,4 +70,6 @@ footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }
 footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
+footer-follow-mozilla = @{ -brand-name-mozilla }ን ይከተሉ
+footer-follow-firefox = @{ -brand-name-firefox }ን ይከተሉ
 footer-about-this-site = ስለዚህ ድረ-ገፅ
