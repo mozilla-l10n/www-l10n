@@ -22,6 +22,10 @@ newsletters-your-newsletter-subscription = Subskrypcja została potwierdzona.
 newsletters-please-be-sure-to-add-our-v2 = Upewnij się, że nasz adres nadawczy: mozilla@email.mozilla.org znajduje się w Twojej książce adresowej, abyśmy zawsze trafiali do Twojej skrzynki odbiorczej.
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Upewnij się, że nasz adres nadawczy: mozilla@e.mozilla.org znajduje się w Twojej książce adresowej, abyśmy zawsze trafiali do Twojej skrzynki odbiorczej.
+# Variables:
+#   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
+newsletters-the-supplied-link-has-expired-v2 = Odnośnik wygasł. Można <a { $recovery_href }>poprosić o nowy tutaj</a>.
+# Obsolete string
 newsletters-the-supplied-link-has-expired = Odnośnik wygasł. Prześlemy nowy w następnym biuletynie.
 newsletters-something-is-amiss-with = Wybacz, coś nie gra z naszym systemem! Spróbuj ponownie później.
 newsletters-youre-awesome = Jesteś super!
@@ -104,7 +108,6 @@ newsletters-put-more-fox-in-your-inbox = Więcej lisów w Twojej skrzynce.
 newsletters-see-where-the-web-can-take = Zobacz, co możesz zrobić w sieci dzięki comiesięcznym wskazówkom i skrótom dla { -brand-name-firefox(case: "gen") } i Internetu.
 newsletters-we-are-sorry-but-there = Przepraszamy, ale mamy problemy z systemem. Proszę spróbować później.
 newsletters-thanks-for-updating-your = Dziękujemy za aktualizację ustawień e-mail.
-newsletters-the-supplied-link-has-expired-long = Odnośnik wygasł lub nie jest prawidłowy. W następnym biuletynie otrzymasz nowy odnośnik, a poniżej możesz zażądać natychmiastowego wysłania wiadomości zawierającej go.
 newsletters-success-an-email-has-been-sent = Sukces! Wiadomość z odnośnikiem do panelu ustawień subskrypcji została wysyłana.
 newsletters-this-is-not-a-valid-email = Nieprawidłowy adres e-mail. Proszę sprawdzić, czy adres nie zawiera literówek.
 newsletters-you-send-too-many-emails = Przychodziło do mnie za dużo poczty.
