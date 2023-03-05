@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = በይነመረብ ለሰዎች እንጂ፣ ለትርፍ አይደለም
+home-did-you-know-mozilla-the-maker = ይህን ያውቁ ኖሯል? { -brand-name-mozilla } — የ{ -brand-name-firefox } ፈጣሪ — በይነመረቡን ሁለንተናዊ የህዝብ ሃብት፣ ክፍት እና ለሁሉም ተደራሽ ለማድረግ ይታገላል።
 home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = መፍጠኑ ለበጎ ነው።
 home-our-impact = የእኛ ተጽዕኖ
