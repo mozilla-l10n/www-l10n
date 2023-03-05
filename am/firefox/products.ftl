@@ -7,6 +7,10 @@
 
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } ከአሳሽ በላይ ነው
+# HTML page description
+firefox-products-its-a-whole-family-of-products = በመስመር ላይ እርስዎን ደህንነቱ የተጠበቀ እና ብልህ ለማድረግ የተነደፉ አጠቃላይ ምርቶች ቤተሰብ ነው።
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } ከአሳሽም <strong>በላይ</strong> ነው
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-sign-up-for-breach-alerts = የጥሰት ማንቂያዎች እንዲደርስዎ ይመዝገቡ
 firefox-products-firefox-browsers = { -brand-name-firefox } አሳሾች
