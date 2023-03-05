@@ -35,6 +35,11 @@ new-platform-look-under-the-hood = ከመጋረጃው ጀርባ ይመልከቱ�
 ## Mac
 
 new-platform-download-mozilla-firefox-mac = ለ { -brand-name-mac-short } { -brand-name-mozilla } { -brand-name-firefox }ን አውርድ
+# /firefox/mac/ social sharing title
+new-platform-download-the-fastest-mac = ለ{ -brand-name-mac-short } የምንግዜም በጣም ፈጣኑን { -brand-name-firefox } ያውርዱ
+# /firefox/mac/ social sharing description
+new-platform-faster-page-loading-mac = ለ{ -brand-name-mac-short } ፈጣን ገጽ ጫኝ፣ አነስተኛ የማህደረ ትውስታ የሚጠቀም እና በልዩ ባህሪያት የታጨቀ፣ አዲሱ { -brand-name-firefox } እዚህ አለ።
+new-platform-privacy-comes-first = ግላዊነት ይቀድማል
 
 ## Windows
 
