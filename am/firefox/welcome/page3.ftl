@@ -8,11 +8,13 @@
 # HTML page title
 welcome-page3-get-the-free-account-that = የእርስዎን ግላዊነት የሚጠብቅ ነፃ መለያ ያግኙ። { -brand-name-firefox }ን ይቀላቀሉ።
 welcome-page3-no-account-required-but-you = ምንም መለያ አያስፈልግም። ግን አንድ ሊያስፈልግዎ ይችላል።
+welcome-page3-the-firefox-browser-collects = የ{ -brand-name-firefox } አሳሽ ስለእርስዎ በጣም ትንሽ ውሂብ ይሰበስባል፣ የኢሜይል አድራሻዎን እንኳን አንፈልግም። ነገር ግን የ{ -brand-name-firefox-account } ለመፍጠር ሲጠቀሙት፣ በብዙ የመስመር-ላይ ህይወትዎ ላይ የእርስዎን ግላዊነት ልንጠብቀው እንችላለን።
 welcome-page3-sign-in = ግባ
 welcome-page3-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page3-have-at-least-one-company = ውሂብዎን አሳልፎ ከሚሰጥ ይልቅ የሚጠብቅልዎ ቢያንስ አንድ ኩባንያ እንዲኖርዎ ያድርጉ።
 welcome-page3-facebook-container = { -brand-name-facebook-container }
 welcome-page3-get-a-container-to-keep-facebook = { -brand-name-facebook }ን ከጉዳይዎ ውጭ ለማድረግ መያዣ ያግኙ።
 welcome-page3-pocket = { -brand-name-pocket }
+welcome-page3-trade-clickbait-and-fake-news = ለይዘት ጥራት ክሊክባይት እና የውሸት ዜና ይገበያዩ
 welcome-page3-firefox-send = { -brand-name-firefox-send }
 welcome-page3-why-am-i-seeing-this = ለምንድን ነው ይህን እማየው?
