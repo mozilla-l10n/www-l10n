@@ -42,3 +42,12 @@ firefox-products-send-your-large-files-and = እስከ 2.5ጂ ድረስ ትላ�
 firefox-products-send-a-file = ፋይል ላክ
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = በድሩ ላይ ምርጡን ይዘት ያግኙ - እና በፈለጉት ቦታ እና ጊዜ ይጠቀሙት።
+firefox-products-get-pocket = { -brand-name-pocket }ን ያግኙ
+firefox-products-learn-more-about-pocket = ስለ { -brand-name-pocket } የበለጠ ይወቁ
+firefox-products-join-firefox-and-get-the-most = { -brand-name-firefox }ን ይቀላቀሉ እና ከእያንዳንዱ ምርት የበለጠ ይጠቀሙ - በሁሉም መሳሪያ።
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-products-already-have-an-account-sign = አስቀድሞ መለያ አለዎት? <a { $fxa_attr }>ይግቡ</a> ወይም { -brand-name-firefox }ን ስለመቀላቀል <a { $accounts_attr }>ተጨማሪ ይወቁ</a>።
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = በራስ ሰር የመከታተያ ጥበቃ እና የማስታወቂያ እገዳ ያለው የእርስዎ የግላዊነት አሳሽ።
