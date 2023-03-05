@@ -42,6 +42,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } ለ { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } ለ { -brand-name-android }
+footer-visit-mozilla-corporations = የ<a { $moco_link }>{ -brand-name-mozilla-corporation }ን</a> ለትርፍ ያልተቋቋመ እናት ድርጅትን <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> ይጎብኙ።
 footer-mozilla = { -brand-name-mozilla }
 footer-company = ኩባንያ
 # Outdated string
