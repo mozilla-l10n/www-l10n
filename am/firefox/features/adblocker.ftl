@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
+features-adblocker-how-to-block-annoying = የማስታወቂያ ማገጃን በመጠቀም የሚያናድዱ ማስታወቂያዎችን እንዴት ማገድ እንደሚቻል
 features-adblocker-how-to-stop-seeing-too = እንዴት ነው ብዙ ማስታወቂያዎችን ከማየት ማስቆም እና ካምፓኒዎች በመስመር ላይ የእርስዎን ዱካ እንዳይከተሉ ማድረግ የሚችሉት። የማስታወቂያ ማገጃ መመሪያ ከ{ -brand-name-firefox } ድረ-ገፅ ማሰሻ ላይ ያንብቡ።
 features-adblocker-the-ad-blocker-a-secret = የማስታወቂያ ማገጃ - የሚያበሳጩ ማስታወቂያዎችን የሚከላከል ሚስጥራዊ መሣሪያ።
 features-adblocker-so-many-ads-so-little = ብዙ ማስታወቂያዎች ፣ ስለዚህ ትንሽ ትዕግስት… እብደትን ለማቆም ጊዜው አሁን ነው።
@@ -23,7 +24,10 @@ features-adblocker-popup-ads-are-the-worst = ብቅ ባይ ማስታወቂያዎ
 features-adblocker-one-of-the-most-popular = ለ { -brand-name-chrome } ፣ { -brand-name-safari } እና { -brand-name-firefox } በጣም ታዋቂ የማስታወቂያ አጋጆች አንዱ ‹a href="{ $url }"> AdBlock </a> ነው። በ { -brand-name-facebook } ፣ { -brand-name-youtube } እና { -brand-name-hulu } ላይ ማስታወቂያዎችን ለማገድ ይጠቀሙበት።
 features-adblocker-create-a-tracker-free = በይዘት ማገድ ጋር በመሆን ከመከታተያ-ነፃ ዞን ይፍጠሩ
 features-adblocker-choose-your-level-of-protection = የመከላከያዎን ደረጃ ይምረጡ
+features-adblocker-go-easy-with-standard = በመደበኛ ሁነታ በቀላሉ ይሂዱ
 features-adblocker-get-tough-with-strict = በጥብቅ ሁኔታ ጠንካራ ይሁኑ
 features-adblocker-do-it-yourself-custom = ራስዎ ያድርጉት ብጁ ሞድ
+features-adblocker-cover-your-trail-block = ዱካዎን ይሸፍኑ ፣ መከታተያዎችን ያግዱ
+features-adblocker-take-a-bite-out-of-cookies = ከኩኪዎች ትንሽ ይውሰዱ
 features-adblocker-speed-up-thanks-to-ad = ለማስታወቂያ ማገጃዎች ምስጋና ይግባቸው
 features-adblocker-take-control-of-your-browser = የድረ-ገፅ ማሰሻዎን እርስዎ የሚቆጣጠሩት ያድርጉት።

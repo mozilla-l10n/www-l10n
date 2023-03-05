@@ -57,6 +57,8 @@ does-firefox-have = { -brand-name-firefox } አብሮ የተሰራ VPN አለው
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+related-questions-ip = ተዛማጅ ጥያቄዎች፡- { -brand-name-firefox } የእርስዎን አይፒ አድራሻ ይደብቃልን
+who-owns-firefox = የ{ -brand-name-firefox } ባለቤት ማነው?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

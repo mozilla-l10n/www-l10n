@@ -13,3 +13,5 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }:- በምክ�
 features-independent-firefox-is-independent = { -brand-name-firefox } ራሱን የቻለ እና የመስመር ላይ መብቶችዎን ለማስከበር የሚታገል፣ የድርጅት ሃይልን የሚቆጣጠር እና በይነመረቡን ለሁሉም ሰው ተደራሽ የሚያደርግ ለትርፍ ያልተቋቋመ የ{ -brand-name-mozilla } አካል ነው።
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = ያለምንም ገደብና ቅድመ ሁኔታ
+features-independent-what-you-see-is-what = የምታየው የምታገኘውን ነው
+features-independent-a-browser-on-a-mission = በተልእኮ ላይ ያለ አሳሽ
