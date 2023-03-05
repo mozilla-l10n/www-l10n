@@ -12,3 +12,6 @@ mobile-android-firefox-browser-for = { -brand-name-firefox } የ{ -brand-name-an
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 # Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = በሞባይል ይጠቀሙ። ለ{ -brand-name-android } { -brand-name-firefox }ን በመጠቀም በነፃነት ይጠቀሙ
+mobile-android-get-firefox-for = ለ{ -brand-name-android } { -brand-name-firefox }ን ያግኙ
+mobile-android-send-a-download-link-to-your = የማውረጃ አገናኝ ወደ ስልክዎ ይላኩ።
+mobile-android-scan-the-qr-code-to-get-started = ለመጀመር የQR ኮዱን ይቃኙ
