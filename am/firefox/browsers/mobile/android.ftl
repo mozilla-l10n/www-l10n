@@ -10,3 +10,5 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = { -brand-name-firefox } የ{ -brand-name-android } አሳሽ ለመጀመሪያ ጊዜ ከከፈቱት ጊዜ ጀምሮ ፈጣን፣ ደህንነቱ የተጠበቀ እና ሚስጥራዊ ነው።
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+mobile-android-go-mobile-go = በሞባይል ይጠቀሙ። ለ{ -brand-name-android } { -brand-name-firefox }ን በመጠቀም በነፃነት ይጠቀሙ
