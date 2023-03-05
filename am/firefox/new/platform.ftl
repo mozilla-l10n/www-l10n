@@ -43,9 +43,18 @@ new-platform-privacy-comes-first = ግላዊነት ይቀድማል
 new-platform-firefox-doesnt-spy = { -brand-name-firefox } ፍለጋዎችን አይሰልልም። የሶስተኛ ወገን መከታተያ ኩኪዎችን እናስቆም እና ሙሉ ቁጥጥር እንሰጥዎታለን።
 new-platform-get-speed-and-security = ፍጥነት እና ደህንነት ያግኙ። { -brand-name-firefox } በ{ -brand-name-mac-short } ላይ ፈጣን ነው ምክንያቱም እንቅስቃሴዎን አንከታተልም።
 new-platform-block-trackers = መከታተያዎችን አግድ
+new-platform-be-the-master-of-your = በጥብቅ የይዘት እገዳ የጎራዎ አዛዥ ይሁኑ። ሁሉንም ኩኪዎች እና መከታተያዎች ይቁረጡ።
 
 ## Windows
 
+new-platform-download-mozilla-windows = ለ { -brand-name-windows } { -brand-name-mozilla } { -brand-name-firefox }ን አውርድ
+# /firefox/windows/ HTML page description
+new-platform-download-mozilla-desc-windows = ለ{ -brand-name-windows } { -brand-name-mozilla } { -brand-name-firefox } ነጻ የድር አሳሽ አውርድ። { -brand-name-firefox } ግለሰቦች የመስመር ላይ እንቅስቃሴያቸውን እንዲቆጣጠሩ ለማስቻል ለትርፍ ባልተቋቋመ ዓለም-አቀፍ ድረጅት የተፈጠረ ነው። ዛሬውኑ ለ{ -brand-name-windows } { -brand-name-firefox }ን ያግኙ!
+# /firefox/windows/ social sharing title
+new-platform-download-the-fastest-windows = ለ{ -brand-name-windows } የምንግዜም በጣም ፈጣኑን { -brand-name-firefox } ያውርዱ
+# /firefox/windows/ social sharing description
+new-platform-faster-page-loading-windows = ለ{ -brand-name-windows } ፈጣን ገጽ ጫኝ፣ አነስተኛ የማህደረ ትውስታ የሚጠቀም እና በልዩ ባህሪያት የታጨቀ፣ አዲሱ { -brand-name-firefox } እዚህ አለ።
+new-platform-firefox-moves-fast = { -brand-name-firefox } በፍጥነት ይንቀሳቀሳል እንዲሁም ውሂብዎን በጥንቃቄ ያስተናግዳል - ምንም የማስታወቂያ ክትትል እና መጓተት የለም።
 new-platform-common-sense-privacy = የተለመደ ግላዊነት
 new-platform-live-your-life = ህይወትዎን ይኑሩ፣ { -brand-name-firefox } እየተመለከተ አይደለም። ምን እንደሚያጋሩ እና መቼ እንደሚያጋሩ ይምረጡ።
 new-platform-seamless-setup = እንከን የለሽ ውቅር
