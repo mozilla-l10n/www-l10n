@@ -10,3 +10,5 @@ whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification-v2 = እንኳን ደስ ያለዎ! የቅርብ ጊዜውን የ{ -brand-name-firefox } ስሪት እየተጠቀሙ ነው።
+# Obsolete string
+whatsnew-up-to-date-notification = እንኳን ደስ ያለዎ! የቅርብ ጊዜውን የ{ -brand-name-firefox-browser } ስሪት እየተጠቀሙ ነው።
