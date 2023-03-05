@@ -37,7 +37,7 @@ firefox-all-arm64-installers = ARM 64/AArch64 ထည့်သွင်းစရ�
 firefox-all-arm64-installers-optimized = Snapdragon-စွမ်းအားဖြင့် { -brand-name-windows } ပီစီများ အတွက် သီးသန့်ပြင်ဆင်ထားသော ARM64 / AArch64 ထည့်သွင်းစရာများ။
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="{ $url }">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
+firefox-all-choose-a-32-bit-installer = 32−ဘစ် ပရိုဆက်ဆာ — သို့မဟုတ် စွမ်းရည်နိမ့်သော သို့မဟုတ် အိုဟောင်းသော ကွန်ပျူတာများ အတွက်  32−ဘစ် ထည့်သွင်းစရာ ကိုရွေးချယ်ပါ။ အကယ်၍ 64−ဘစ် လား 32−ဘစ် ထည့်သွင်းစရာ လားဆိုတာ ကို <a href="{ $url }">သင် မသေခြာ့ပါက </a> 32−ဘစ် ကိုသာ ရွေးချယ်ရန် ကွန်ုပ်တို့ အကြံပြုပါသည်။
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux

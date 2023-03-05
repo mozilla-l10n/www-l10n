@@ -38,4 +38,4 @@ download-button-firefox-android = { -brand-name-android } အတွက်<span>{
 download-button-firefox-ios = { -brand-name-ios } အတွက်<span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } ကိုယ်ရေးလုံခြုံမှု
 download-button-firefox-privacy-notice = { -brand-name-firefox } ကိုယ်ရေးအချက်အလက်မူဝါဒ အသိပေးချက်
-download-button-download = ဒေါင်းလုဒ်ယူ
+download-button-download = ဒေါင်းလုတ်ယူ
