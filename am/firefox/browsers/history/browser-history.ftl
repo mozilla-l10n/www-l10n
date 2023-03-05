@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-resources = መርጃዎች
+browser-history-take-control-of = ማሰሻዎን እርስዎ የሚቆጣጠሩት ያድርጉት።
