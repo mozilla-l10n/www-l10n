@@ -58,3 +58,4 @@ new-platform-firefox-moves-fast = { -brand-name-firefox } በፍጥነት ይን
 new-platform-common-sense-privacy = የተለመደ ግላዊነት
 new-platform-live-your-life = ህይወትዎን ይኑሩ፣ { -brand-name-firefox } እየተመለከተ አይደለም። ምን እንደሚያጋሩ እና መቼ እንደሚያጋሩ ይምረጡ።
 new-platform-seamless-setup = እንከን የለሽ ውቅር
+new-platform-easy-migration = { -brand-name-firefox }ን ለ{ -brand-name-windows } ሲያወርዱ ቀላል የምርጫዎች እና የእልባቶች ዝውውር።
