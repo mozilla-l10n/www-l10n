@@ -17,4 +17,5 @@ welcome-page3-get-a-container-to-keep-facebook = { -brand-name-facebook }ን ከ
 welcome-page3-pocket = { -brand-name-pocket }
 welcome-page3-trade-clickbait-and-fake-news = ለይዘት ጥራት ክሊክባይት እና የውሸት ዜና ይገበያዩ
 welcome-page3-firefox-send = { -brand-name-firefox-send }
+welcome-page3-send-huge-files-to-anyone = እራስን በሚያጠፉ አገናኞች ግዙፍ ፋይሎችን ለፈለጉት ሰው ይላኩ።
 welcome-page3-why-am-i-seeing-this = ለምንድን ነው ይህን እማየው?

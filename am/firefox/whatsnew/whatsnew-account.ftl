@@ -8,10 +8,12 @@
 
 ## Required
 
+whatsnew-account-main-headline = ምንም መለያ አያስፈልግም። ግን አንድ ሊፈልጉ ይችላሉ።
 whatsnew-account-main-button = ግባ
 
 ##
 
+whatsnew-account-signed-in-headline = የበለጠ ይከውኑ። ለስልክዎ { -brand-name-firefox }ን ይጠቀሙ።
 whatsnew-account-signed-in-lead-in = የማውረጃ አገናኝ ወደ ስልክዎ ይላኩ።
 whatsnew-account-signed-in-qr-title = ለእርስዎ ዘመናዊ ስልክ እና ታብሌት { -brand-name-firefox }ን ያውርዱ።
 # An accessible label for a QR code image

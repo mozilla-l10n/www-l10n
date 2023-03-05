@@ -10,6 +10,7 @@ developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest = እንኳን ደስ ያለዎ። አሁን የቅርብ ጊዜው { -brand-name-firefox-browser } { -brand-name-developer-edition } አልዎት።
 # Main title
 developer-mdnplus-more-mdn-your-mdn = ተጨማሪ { -brand-name-mdn }። <em>የእርስዎ</em> { -brand-name-mdn }።
+developer-mdnplus-support-mdn-and-make = { -brand-name-mdn } ይደግፉ <em>እና</em> የራስዎ ያድርጉ።
 # CTA button
 developer-mdnplus-get-started = ይጀምሩ
 developer-mdnplus-whats-included = ምን ይካተታል
