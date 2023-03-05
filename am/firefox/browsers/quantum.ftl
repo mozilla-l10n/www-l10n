@@ -6,3 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = { -brand-name-firefox-quantum }ን አውርድ
+privacy-first = ግላዊነት መጀመሪያ
+super-fast = እጅግ በጣም ፈጣን
+always-evolving = ሁልጊዜ በለውጥ ላይ
