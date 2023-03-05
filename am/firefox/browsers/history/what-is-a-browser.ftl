@@ -9,4 +9,8 @@
 what-is-a-browser-what-is-a-web = የድር አሳሽ ምንድን ነው?
 # HTML page description
 what-is-a-browser-a-web-browser = የድር አሳሽ በይነመረብ ላይ ወደ የትኛውም ቦታ ይወስድዎታል፣ ይህም ጽሑፍን፣ ምስሎችን እና ተንቀሳቃሽ ምስሎችን ከየትኛውም የዓለም ክፍል እንዲያዩ ያስችልዎታል።
+what-is-a-browser-in-a-short-period = በአጭር ጊዜ ውስጥ፣ በአለም ዙሪያ ላለ ሰው ኢሜይል በመላክ ችሎታ ከመደነቅ አልፎ ስለመረጃ የምናስብበት መንገድ ለወጥ ድረስ ሄድን።
 what-is-a-browser-how-does-a-web = የድር አሳሽ እንዴት ነው የሚሰራው?
+what-is-a-browser-cookies-not-the = ኩኪዎች (የሚጣፍጥ ዓይነት አይደለም)
+what-is-a-browser-when-you-go-to = ወደ አንድ ድረ-ገፅ ሲሄዱ እና ገጹ የተጠቃሚ ስምዎን እና የይለፍ ቃልዎን ሲያስታውስ - ይህ ሊሆን የቻለው በኩኪ ነው።
+what-is-a-browser-understanding = ግላዊነትን መረዳት
