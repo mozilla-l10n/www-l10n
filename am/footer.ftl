@@ -47,6 +47,7 @@ footer-mozilla = { -brand-name-mozilla }
 footer-company = ኩባንያ
 # Outdated string
 footer-about = ስለ
+footer-press-center = የህትመት ማዕከል
 footer-careers = ሙያዎች
 # Outdated string
 footer-test-new-features = አዲስ ባህሪያትን ይሞክሩ
