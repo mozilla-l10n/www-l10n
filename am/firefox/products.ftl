@@ -12,6 +12,8 @@ firefox-products-its-a-whole-family-of-products = በመስመር ላይ እር�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } ከአሳሽም <strong>በላይ</strong> ነው
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-see-if-your-personal-information = የግል መረጃዎ በድርጅት ውሂብ ጥሰት ውስጥ ተጋላጭነቱን ይመልከቱ እና ለወደፊት ማንቂያዎች እንዲደርስዎ ይመዝገቡ።
+firefox-products-check-for-breaches = ጥሰቶችን ያጣሩ
 firefox-products-sign-up-for-breach-alerts = የጥሰት ማንቂያዎች እንዲደርስዎ ይመዝገቡ
 firefox-products-firefox-browsers = { -brand-name-firefox } አሳሾች
 firefox-products-get-the-browsers-that-block = 2000+ ውሂብ መከታተያዎችን በራስ ሰር የሚከለክሉትን አሳሾች ያግኙ። የተሻሻለ የክትትል ጥበቃ በእያንዳንዱ { -brand-name-firefox } አሳሽ ውስጥ መደበኛ ነው።
@@ -39,3 +41,4 @@ firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = እስከ 2.5ጂ ድረስ ትላልቅ ፋይሎችዎን እና ሚስጥራዊነት ያላቸውን ሰነዶች በጥንቃቄ ይላኩ።
 firefox-products-send-a-file = ፋይል ላክ
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content = በድሩ ላይ ምርጡን ይዘት ያግኙ - እና በፈለጉት ቦታ እና ጊዜ ይጠቀሙት።
