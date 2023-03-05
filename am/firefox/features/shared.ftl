@@ -10,3 +10,6 @@ features-shared-browse-faster = በፍጥነት ያስሱ
 features-shared-your-favorite-extensions = የእርስዎ ተወዳጅ ቅጥያዎች
 features-shared-balanced-memory = የተመጣጠነ ማህደረ ትውስታ
 features-shared-ad-tracker-blocking = የማስታወቂያ መከታተያ ማገድ
+features-shared-password-manager = የይለፍ ቃል አስተዳዳሪ
+features-shared-customize-your-browser = አሳሽዎን ያበጁ
+brand-name-firefox = { -brand-name-firefox }
