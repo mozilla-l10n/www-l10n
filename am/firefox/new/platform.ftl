@@ -40,6 +40,9 @@ new-platform-download-the-fastest-mac = ለ{ -brand-name-mac-short } የምን�
 # /firefox/mac/ social sharing description
 new-platform-faster-page-loading-mac = ለ{ -brand-name-mac-short } ፈጣን ገጽ ጫኝ፣ አነስተኛ የማህደረ ትውስታ የሚጠቀም እና በልዩ ባህሪያት የታጨቀ፣ አዲሱ { -brand-name-firefox } እዚህ አለ።
 new-platform-privacy-comes-first = ግላዊነት ይቀድማል
+new-platform-firefox-doesnt-spy = { -brand-name-firefox } ፍለጋዎችን አይሰልልም። የሶስተኛ ወገን መከታተያ ኩኪዎችን እናስቆም እና ሙሉ ቁጥጥር እንሰጥዎታለን።
+new-platform-get-speed-and-security = ፍጥነት እና ደህንነት ያግኙ። { -brand-name-firefox } በ{ -brand-name-mac-short } ላይ ፈጣን ነው ምክንያቱም እንቅስቃሴዎን አንከታተልም።
+new-platform-block-trackers = መከታተያዎችን አግድ
 
 ## Windows
 
