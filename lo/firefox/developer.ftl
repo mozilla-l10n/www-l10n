@@ -69,3 +69,4 @@ firefox-developer-download-the-firefox-browser = ດາວໂຫຼດບຣາ�
 firefox-developer-welcome-to-the-all-new = ຍິນດີຕ້ອນຮັບສູ່ { -brand-name-firefox-quantum } ໃໝ່ທັງໝົດ: { -brand-name-developer-edition }
 firefox-developer-welcome-to-firefox-browser = ຍິນດີຕ້ອນຮັບສູ່ { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = ຕົວທ່ອງເວັບທີ່ສ້າງຂຶ້ນສໍາລັບນັກພັດທະນາ
+firefox-developer-congrats-you-now-have-latest = ຊົມເຊີຍ. ຕອນນີ້ທ່ານມີເວີຊັນຫຼ້າສຸດຂອງ { -brand-name-firefox-browser } { -brand-name-developer-edition }.
