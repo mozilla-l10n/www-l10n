@@ -12,3 +12,4 @@ compare-chrome-we-compare-mozilla-firefox = Мы параўноўваем { -bra
 # Main title.
 compare-chrome-comparing-firefox-browser = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-google } { -brand-name-chrome }
 compare-chrome-firefox-also-has-a-sync-feature = { -brand-name-firefox } таксама мае функцыю сінхранізацыі для прагляду вашых адкрытых і нядаўніх картак, гісторыі аглядання і закладак на ўсіх вашых прыладах.
+compare-chrome-for-practical-purposes-theres = Для практычных мэтаў відавочна, што нішто не перашкаджае вам выкарыстоўваць абодва браўзеры — { -brand-name-firefox } у тыя моманты жыцця, калі прыватнасць сапраўды мае значэнне, і { -brand-name-chrome }, калі вы шмат уклалі ў працу ў экасістэме { -brand-name-google }. Тым не менш, з ростам колькасці ўварванняў у нашы асабістыя звесткі, { -brand-name-firefox } можа аказацца правільным выбарам у доўгатэрміновай перспектыве для тых з нас, хто цэніць ахову асабістай прыватнасці ў інтэрнэце.
