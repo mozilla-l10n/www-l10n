@@ -12,3 +12,4 @@ features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } 
 features-fingerprinting-every-fingerprint = ທຸກໆລາຍນິ້ວມືແມ່ນເປັນເອກະລັກ.
 features-fingerprinting-download-firefox = ດາວໂຫລດ { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = ການພິມນິ້ວມືແມ່ນຫຍັງ?
+features-fingerprinting-fingerprinting-is-bad = ການພິມລາຍນິ້ວມືແມ່ນບໍ່ດີສໍາລັບເວັບ

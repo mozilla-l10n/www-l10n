@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# Hero title
+features-index-firefox-features = ຄຸນສົມບັດຂອງ { -brand-name-firefox }
 features-index-get-an-account = ເອົາ { -brand-name-firefox-account }
 features-index-from-the-company = ຈາກບໍລິສັດທີ່ເຮັດໃຫ້ຄົນກ່ອນກໍາໄລ

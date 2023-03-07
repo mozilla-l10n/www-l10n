@@ -37,11 +37,13 @@ is-firefox-safe = { -brand-name-firefox } ປອດໄພບໍ?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = { -brand-name-firefox } ຂາຍຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າບໍ?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = ເປັນຫຍັງ { -brand-name-firefox } ຈຶ່ງຊ້າ?
+does-firefox-use = { -brand-name-firefox } ໃຊ້ { -brand-name-google } ບໍ?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
@@ -51,6 +53,7 @@ why-is-firefox = ເປັນຫຍັງ { -brand-name-firefox } ຈຶ່ງ�
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+who-owns-firefox = ໃຜເປັນເຈົ້າຂອງ { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

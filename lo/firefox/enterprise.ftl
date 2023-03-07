@@ -6,8 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = ເອົາ { -brand-name-firefox } ສໍາລັບວິສາຫະກິດຂອງທ່ານດ້ວຍ { -brand-name-esr } ແລະການປ່ອຍໄວ
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = ພາບລວມ
 firefox-enterprise-downloads = ດາວໂຫລດ
+firefox-enterprise-get-firefox-for-your-enterprise = ເອົາ { -brand-name-firefox } ສໍາລັບວິສາຫະກິດຂອງທ່ານ
 firefox-enterprise-your-data-stays-your-business = ຂໍ້ມູນຂອງທ່ານຍັງຄົງຢູ່ກັບທຸລະກິດຂອງທ່ານ
 firefox-enterprise-deploy-when-and-how-you-want = ນຳໃຊ້ເວລາ ແລະວິທີທີ່ທ່ານຕ້ອງການ
 firefox-enterprise-choose-your-release-cadence = ເລືອກຈັງຫວະການປ່ອຍຕົວຂອງເຈົ້າ
