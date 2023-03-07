@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } เร็วมาก มาพร้อมกับเครื่องมือล่าสุดสำหรับนักพัฒนาและคุณสมบัติล่าสุด เช่น การรองรับ CSS Grid และการดีบั๊กเฟรมเวิร์ค
@@ -57,7 +57,9 @@ firefox-developer-firefox-devtools-now-grays-out = ตอนนี้ { -brand-n
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } ตัวใหม่ทรงพลัง ยืดหยุ่นและเหนือสิ่งใดมีเสรีภาพในการแก้ไขดัดแปลง รวมไปถึงตัวดีบั๊ก JavaScript ที่ดีที่สุดในจำพวกเดียวกัน ซึ่งใช้ได้หลายเว็บเบราว์เซอร์และสร้างมาบน React และ Redux
 firefox-developer-master-css-grid = เชี่ยวชาญเกี่ยวกับ CSS Grid
+# outdated
 firefox-developer-next-gen-css-engine = ตัวจัด CSS รุ่นใหม่
+firefox-developer-built-for-developers = สร้างขึ้นสำหรับนักพัฒนา
 firefox-developer-a-next-generation = ตัวจัด CSS รุ่นใหม่
 firefox-developer-master-innovative-features = คุณสมบัติที่เป็นนวัตกรรม
 firefox-developer-want-to-be-on-the-cutting-edge = ต้องการใช้เทคโนโลยีล่าสุด ?
@@ -81,3 +83,4 @@ firefox-developer-this-isnt-just-an-update = นี่ไม่ใช่แค�
 firefox-developer-welcome-to-firefox-browser = ยินดีต้อนรับสู่{ -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = เบราว์เซอร์ที่สร้างขึ้นสำหรับนักพัฒนา
 firefox-developer-congrats-you-now-have = ยินดีด้วย คุณได้{ -brand-name-firefox-browser } { -brand-name-developer-edition }แล้ว
+firefox-developer-congrats-you-now-have-latest = ยินดีด้วย ตอนนี้คุณมี { -brand-name-firefox-browser } { -brand-name-developer-edition } รุ่นล่าสุดแล้ว
