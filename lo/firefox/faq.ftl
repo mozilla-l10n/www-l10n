@@ -43,6 +43,7 @@ does-firefox-sell = { -brand-name-firefox } ຂາຍຂໍ້ມູນສ່ວ
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = ເປັນຫຍັງ { -brand-name-firefox } ຈຶ່ງຊ້າ?
+is-firefox-chromium = { -brand-name-firefox } { -brand-name-chromium } ແມ່ນອີງໃສ່ບໍ?
 does-firefox-use = { -brand-name-firefox } ໃຊ້ { -brand-name-google } ບໍ?
 
 # Variables:

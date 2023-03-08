@@ -9,3 +9,5 @@
 features-index-firefox-features = ຄຸນສົມບັດຂອງ { -brand-name-firefox }
 features-index-get-an-account = ເອົາ { -brand-name-firefox-account }
 features-index-from-the-company = ຈາກບໍລິສັດທີ່ເຮັດໃຫ້ຄົນກ່ອນກໍາໄລ
+features-index-open-source-minds = ແຫຼ່ງເປີດ. ເປີດໃຈ.
+features-index-choose-independence = ເລືອກຜູ້ເປັນອິດສະລະ
