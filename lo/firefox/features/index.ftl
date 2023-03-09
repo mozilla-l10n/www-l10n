@@ -7,7 +7,17 @@
 
 # Hero title
 features-index-firefox-features = ຄຸນສົມບັດຂອງ { -brand-name-firefox }
+features-index-see-all = ເບິ່ງສ່ວນເສີມທັງໝົດ
+features-index-give-your-browser = ໃຫ້ຕົວທ່ອງເວັບຂອງທ່ານເບິ່ງທີ່ທ່ານຕ້ອງການດ້ວຍຫລາຍພັນຮູບແບບທີ່ແຕກຕ່າງກັນ.
 features-index-get-an-account = ເອົາ { -brand-name-firefox-account }
 features-index-from-the-company = ຈາກບໍລິສັດທີ່ເຮັດໃຫ້ຄົນກ່ອນກໍາໄລ
 features-index-open-source-minds = ແຫຼ່ງເປີດ. ເປີດໃຈ.
+features-index-see-what-makes-us-different = ເບິ່ງສິ່ງທີ່ເຮັດໃຫ້ພວກເຮົາແຕກຕ່າງ
+features-index-by-non-profit-mozilla = ໂດຍບໍ່ຫວັງຜົນກຳໄລ, { -brand-name-mozilla }
+features-index-by-not-for-profit-mozilla = ໂດຍບໍ່ຫວັງຜົນກຳໄລ, { -brand-name-mozilla }
+features-index-keep-corporate-power = ຮັກສາອໍານາດຂອງບໍລິສັດໃນການກວດສອບ
 features-index-choose-independence = ເລືອກຜູ້ເປັນອິດສະລະ
+features-index-private-by-default = ສ່ວນຕົວຕາມຄ່າເລີ່ມຕົ້ນ
+features-index-enhanced-tracking = ປັບປຸງການປ້ອງກັນການຕິດຕາມ
+features-index-compare-browsers = ປຽບທຽບຕົວທ່ອງເວັບ
+features-index-fingerprinter-blocking = ການຂັດຂວາງລາຍນິ້ວມື

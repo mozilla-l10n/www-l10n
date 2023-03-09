@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
 features-adblocker-how-to-block-annoying = ວິທີການສະກັດການໂຄສະນາທີ່ຫນ້າລໍາຄານໂດຍໃຊ້ຕົວບລັອກໂຄສະນາ
+features-adblocker-the-ad-blocker-a-secret = ຕົວສະກັດກັ້ນການໂຄສະນາ – ອາວຸດລັບຕໍ່ກັບການໂຄສະນາທີ່ຫນ້າລໍາຄານ.
+features-adblocker-so-many-ads-so-little = ໂຄສະນາຫຼາຍ, ອົດທົນໜ້ອຍໜຶ່ງ... ເຖິງເວລາແລ້ວທີ່ຈະຢຸດຄວາມບ້າ.
 features-adblocker-find-the-right-ad-blocker = ຊອກຫາຕົວສະກັດການໂຄສະນາທີ່ເຫມາະສົມສໍາລັບທ່ານ
 features-adblocker-create-a-tracker-free = ສ້າງເຂດທີ່ບໍ່ມີຕົວຕິດຕາມດ້ວຍການບລັອກເນື້ອຫາ
 features-adblocker-choose-your-level-of-protection = ເລືອກລະດັບການປົກປ້ອງຂອງທ່ານ
