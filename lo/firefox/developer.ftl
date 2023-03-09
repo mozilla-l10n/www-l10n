@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-welcome-to-your-new-favorite = ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ກັບ​ຕົວ​ທ່ອງ​ເວັບ​ທີ່​ມັກ​ໃຫມ່​ຂອງ​ທ່ານ​. ຮັບຄຸນສົມບັດຫຼ້າສຸດ, ປະສິດທິພາບໄວ ແລະເຄື່ອງມືພັດທະນາທີ່ເຈົ້າຕ້ອງການເພື່ອສ້າງເວັບເປີດ.
 firefox-developer-speak-up = ສະແດງອອກ
 firefox-developer-feedback-makes-us = ຄໍາຕິຊົມເຮັດໃຫ້ພວກເຮົາດີຂຶ້ນ. ບອກພວກເຮົາວິທີທີ່ພວກເຮົາສາມາດປັບປຸງຕົວທ່ອງເວັບແລະເຄື່ອງມືນັກພັດທະນາ.
 firefox-developer-join-the-convo = ຮ່ວມວົງສົນທະນາ
@@ -59,6 +60,7 @@ firefox-developer-built-for-developers = ສ້າງຂຶ້ນສໍາລັ
 firefox-developer-a-next-generation = CSS Engine ຍຸກໃໝ່
 firefox-developer-master-innovative-features = ຄຸນະສົມບັດທີ່ເປັນນະວັດຕະກຳ
 firefox-developer-want-to-be-on-the-cutting-edge = ຕ້ອງການໃຊ້ເຕັກໂນໂລຊີຫຼ້າສຸດ?
+firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } ປະກອບມີເຄື່ອງຈັກ CSS ໃໝ່, ຂຽນດ້ວຍ Rust, ເຊິ່ງມີການປະດິດສ້າງທີ່ທັນສະໄໝ ແລະໄວທີ່ສຸດ.
 firefox-developer-convenient-features = ຄຸນນະສົມບັດສະດວກ
 firefox-developer-faster-performance = ປະສິດທິພາບທີ່ດີຂຶ້ນ
 firefox-developer-shapes-editor = ຕົວແກ້ໄຂຮູບຮ່າງ

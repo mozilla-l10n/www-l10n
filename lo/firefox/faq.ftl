@@ -23,11 +23,13 @@ how-do-i = ຂ້ອຍຈະເອົາ { -brand-name-firefox-browser } ໄດ
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = { -brand-name-firefox } ແມ່ນບໍ່ເສຍຄ່າບໍ?
+related-questions-free = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ແມ່ນ { -brand-name-firefox-browser } ຟຣີ, ບໍ່ { -brand-name-firefox } ຄ່າໃຊ້ຈ່າຍເງິນ
 is-chrome-better = { -brand-name-chrome } ດີກວ່າ { -brand-name-firefox } ບໍ?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+is-firefox-safe-download = { -brand-name-firefox } ປອດໄພໃນການດາວໂຫຼດບໍ?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -49,6 +51,7 @@ does-firefox-use = { -brand-name-firefox } ໃຊ້ { -brand-name-google } ບ�
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = { -brand-name-firefox } ມີ VPN ໃນຕົວບໍ?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
