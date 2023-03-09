@@ -19,5 +19,6 @@ features-index-keep-corporate-power = ຮັກສາອໍານາດຂອງ
 features-index-choose-independence = ເລືອກຜູ້ເປັນອິດສະລະ
 features-index-private-by-default = ສ່ວນຕົວຕາມຄ່າເລີ່ມຕົ້ນ
 features-index-enhanced-tracking = ປັບປຸງການປ້ອງກັນການຕິດຕາມ
+features-index-we-dont-sell-access-to-your = ພວກເຮົາບໍ່ຂາຍຂໍ້ມູນອອນໄລນ໌ຂອງທ່ານ.
 features-index-compare-browsers = ປຽບທຽບຕົວທ່ອງເວັບ
 features-index-fingerprinter-blocking = ການຂັດຂວາງລາຍນິ້ວມື
