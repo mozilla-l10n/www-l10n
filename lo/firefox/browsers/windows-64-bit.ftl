@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
 
+# HTML page title
+windows-64-bit-firefox-for-windows = { -brand-name-firefox } ສໍາລັບ { -brand-name-windows } 64-bit
 windows-64-bit-64-bit = 64-bit
 # Main title
 windows-64-bit-a-more-secure-firefox = ປອດໄພກວ່າ { -brand-name-firefox }.
