@@ -45,7 +45,7 @@ firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = 发现网络中最佳的内容——随时随地为自己“充电”。
 firefox-products-get-pocket = 获取 { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = 详细了解 { -brand-name-pocket }
-firefox-products-join-firefox-and-get-the-most = 加入 { -brand-name-firefox } 的行列，跨越设备边界，解锁各个产品的高阶体验。
+firefox-products-join-firefox-and-get-the-most = 加入 { -brand-name-firefox } 的行列，跨越设备边界，解锁各款产品的完整体验。
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

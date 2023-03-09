@@ -30,7 +30,7 @@ browsers-mobile-compare = 比较
 browsers-mobile-see-how-firefox-for-desktop-stacks = 看看 { -brand-name-firefox } 桌面版与其他浏览器有何不同。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = 看看 { -brand-name-firefox } <strong>桌面版</strong>与其他浏览器有何不同。
-browsers-mobile-join-firefox-and-get-the-most = 加入 { -brand-name-firefox } 的行列，跨越设备边界，解锁各个产品的高阶体验。
+browsers-mobile-join-firefox-and-get-the-most = 加入 { -brand-name-firefox } 的行列，跨越设备边界，解锁各款产品的完整体验。
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
