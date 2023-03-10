@@ -11,6 +11,8 @@ compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } супрац
 compare-chrome-we-compare-mozilla-firefox = Мы параўноўваем { -brand-name-mozilla } { -brand-name-firefox } з { -brand-name-google } { -brand-name-chrome } з пункту гледжання прыватнасці, зручнасці і пераноснасці
 # Main title.
 compare-chrome-comparing-firefox-browser = Параўнанне браўзера { -brand-name-firefox-browser } з { -brand-name-google } { -brand-name-chrome }
+# "Gmail" and "Google Docs" are brand names.
+compare-chrome-in-terms-of-features-both = Датычна магчымасцяў, як { -brand-name-firefox }, так і { -brand-name-chrome } прапануюць вялікую бібліятэку пашырэнняў і плагінаў, прычым каталог { -brand-name-chrome } значна перавышае каталог любога іншага браўзера, адначасова добра інтэгруючыся з іншымі службамі { -brand-name-google }, такімі як Gmail і Дакументы { -brand-name-google }.
 compare-chrome-firefox-also-has-a-sync-feature = { -brand-name-firefox } таксама мае функцыю сінхранізацыі для прагляду вашых адкрытых і нядаўніх картак, гісторыі аглядання і закладак на ўсіх вашых прыладах.
 compare-chrome-while-chrome-gets-the-nod = У той час як { -brand-name-chrome } атрымлівае прызнанне дзякуючы дадаткам і пашырэнням, { -brand-name-firefox } мае добра падабраны набор убудаваных функцый, такіх як неверагодна зручны інструмент захопу экрана і рэжым чытання, які выдаляе са старонкі ўсё, акрамя тэксту артыкула, які вы чытаеце.
 compare-chrome-although-not-as-extensive = Хоць і не такая шырокая, як у { -brand-name-chrome }, бібліятэка дадаткаў { -brand-name-firefox }, як праграмнае забеспячэнне з адкрытым зыходным кодам і велізарнай колькасцю актыўных удзельнікаў, таксама мае неверагодную колькасць карысных пашырэнняў .
