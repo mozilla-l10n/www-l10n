@@ -25,7 +25,7 @@ firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Sneup, stream en fier wurk út op servers yn mear as 30 lannen, foar in feilige ynternetferbining mei in nij perspektyf.
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } downloade
 firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Beskermje jo echte e-mailadres om jo Postfek YN te beskermjen.
+firefox-products-protect-your-real = Beskermje jo wiere e-mailadres om jo Postfek YN te beskermjen.
 firefox-products-learn-more-about-relay = Mear ynfo oer { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }

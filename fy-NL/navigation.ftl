@@ -75,7 +75,7 @@ navigation-share-large-files-safely = Diel feilich grutte bestannen, mei keppeli
 navigation-save-quality-content = Bewarje heechweardige ynhâld fan oeral wei. Fied oeral jo geast.
 navigation-sign-up = Registrearje
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Fluch. Simpel. Privee.
-navigation-protect-your-entire-device = Beskermje jo hiele apparaat en alle tapassingen. Ferstopje jo echte lokaasje en ferbyn oant fiif apparaten. Nim no in abonnemint.
+navigation-protect-your-entire-device = Beskermje jo hiele apparaat en alle tapassingen. Ferstopje jo wiere lokaasje en ferbyn oant fiif apparaten. Nim no in abonnemint.
 # Outdated string
 navigation-connected-and-protected = Ferbûn en beskerme
 navigation-join = Dielnimme

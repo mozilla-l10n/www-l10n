@@ -33,5 +33,5 @@ features-fingerprinting-the-latest-firefox = De nijste { -brand-name-firefox }-b
 # $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
 features-fingerprinting-and-its-not = En it is gjin djip ferstoppe ynstelling wêr’t jo nei grave moatte om him te finen. Yn de nijste { -brand-name-firefox }-browser is fingerprintblokkearring de standertynstelling. Iepenje jo <a { $url_protections }>dashboerd foar privacybeskerming</a> om te sjen hoe’t jo efter de skermen folge wurde en hoe { -brand-name-firefox } dit foarkomt.
 # $url_download (string) - link to firefox/new
-features-fingerprinting-you-probably-wouldnt = Jo stelle it wierskynlik net op priis as ien jo yn it echte libben efterfolget. Der is gjin inkelde reden om dat online wol te akseptearjen. As jo { -brand-name-firefox } noch net hawwe, <a { $url_download }>download it dan en beskermje josels</a> tsjin fingerprinten.
+features-fingerprinting-you-probably-wouldnt = Jo stelle it wierskynlik net op priis as ien jo yn it wiere libben efterfolget. Der is gjin inkelde reden om dat online wol te akseptearjen. As jo { -brand-name-firefox } noch net hawwe, <a { $url_download }>download it dan en beskermje josels</a> tsjin fingerprinten.
 features-fingerprinting-protect = Beskermje jo privacy

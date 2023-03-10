@@ -48,7 +48,7 @@ vpn-landing-faq-uses-conceal = Ferbergje jo wiere IP-adres. Dit beskermet jo ide
 vpn-landing-faq-uses-encrypt = Fersifering fan it ferkear tusken jo en jo VPN-provider, sadat nimmen yn jo lokale netwurk it ûntsiferje of oanpasse kin.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
-vpn-landing-faq-uses-examples = Besjoch <a href="{ $url }">fiif echte foarbylden</a> wêryn jo in VPN op jo apparaat ha wolle soene.
+vpn-landing-faq-uses-examples = Besjoch <a href="{ $url }">fiif wiere foarbylden</a> wêryn jo in VPN op jo apparaat ha wolle soene.
 vpn-landing-faq-info-question-heading = Hokker ynformaasje bewarret de { -brand-name-mozilla-vpn }?
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/

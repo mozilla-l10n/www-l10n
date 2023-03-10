@@ -16,7 +16,7 @@ firefox-browsers-get-the-privacy-you-deserve = Krij de privacy dy’t jo fertsji
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Download de <strong>browsers</strong> dy’t jo privacy foarop stelle – en dat altyd dien hawwe
 firefox-browsers-desktop = Buro-PC
-firefox-browsers-seriously-private-browsing = Echte priveenavigaasje. { -brand-name-firefox } blokkearret automatysk mear ad 2000 online trackers dy’t ynformaasje sammelje oer wat jo online dogge.
+firefox-browsers-seriously-private-browsing = Wiere priveenavigaasje. { -brand-name-firefox } blokkearret automatysk mear ad 2000 online trackers dy’t ynformaasje sammelje oer wat jo online dogge.
 firefox-browsers-download-for-desktop = Downloade foar Desktop
 firefox-browsers-mobile = Mobyl
 firefox-browsers-take-the-same-level-of-privacy = Nim itselde privacynivo – plus jo wachtwurden, sykskiednis, iepen ljepblêden en mear – oeral mei hinne.
