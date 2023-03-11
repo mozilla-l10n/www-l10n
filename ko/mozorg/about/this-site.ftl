@@ -24,6 +24,7 @@ about-this-site-report-a-bug = 오류 보고
 about-this-site-contribute-to-code = 코드베이스에 기여하기
 about-this-site-contribute-to-l10n = 번역에 기여하기
 about-this-site-read-the-docs = 문서 읽기
+about-this-site-colophon = 제작 정보
 about-this-site-some-open-source-projects = 이 사이트를 만드는 데 사용된 오픈 소스 프로젝트들:
 # Variables:
 #   $django (url) link to https://www.djangoproject.com/
