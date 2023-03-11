@@ -29,6 +29,7 @@ is-chrome-better = { -brand-name-chrome } ດີກວ່າ { -brand-name-firef
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">ເບິ່ງວ່າ { -brand-name-firefox } ປຽບທຽບ { -brand-name-chrome } ແນວໃດ.</a>
 is-firefox-safe-download = { -brand-name-firefox } ປອດໄພໃນການດາວໂຫຼດບໍ?
 
 # Variables:
@@ -57,6 +58,7 @@ does-firefox-have = { -brand-name-firefox } ມີ VPN ໃນຕົວບໍ?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+related-questions-ip = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ບໍ່ { -brand-name-firefox } ເຊື່ອງທີ່ຢູ່ IP ຂອງທ່ານ
 who-owns-firefox = ໃຜເປັນເຈົ້າຂອງ { -brand-name-firefox }?
 
 # Variables:
