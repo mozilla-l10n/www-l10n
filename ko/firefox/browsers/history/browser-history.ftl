@@ -48,6 +48,7 @@ browser-history-today-there-are = 오늘날에는 인터넷에 접속할 수 있
 # Variables:
 #   $vr (url) - https://mixedreality.mozilla.org/
 browser-history-in-the-future-the = 미래에 웹은 하이퍼텍스트라는 뿌리에서 벗어나 상호작용 경험의 광활한 바다가 될 것입니다. 가상 현실은 지난 수십 년 동안 (적어도 1992년 Lawnmower Man과 1995년 Nintendo Virtual Boy 출시 이후) 지평선 상에 있었지만, 결국 웹이 이를 대중화 할 것입니다. { -brand-name-firefox }는 이제 개발자들이 빠르고 쉽게 가상 현실 웹사이트를 만들 수 있게 해주는 <a href="{ $vr }">WebVR과 A-Frame</a>을 지원합니다. 대부분의 최신 모바일 기기들은 <a href="{ $vr }">WebVR</a>을 지원하며 간단한 카드보드 케이스를 이용해 헤드셋으로 쉽게 사용할 수 있습니다. SF 작가 닐 스티븐슨(Neal Stephenson)이 상상한 것과 같은 3D 가상 현실 웹이 머지않아 다가올지도 모릅니다. 그렇게 되면 웹 브라우저는 완전히 사라지고 또 다른 세계로 통하는 진정한 창이 될 수 있습니다.
+browser-history-in-the-future-the-v2 = 미래의 웹은 하이퍼텍스트의 뿌리에서 벗어나 상호작용 경험의 넓은 바다가 될 것입니다. 가상 현실은 수십 년 동안(적어도 1992년 Lawnmower Man과 1995년 Nintendo Virtual Boy 출시 이후) 지평선에 있었지만 웹이 마침내 대중에게 가져올지 모릅니다. { -brand-name-firefox }는 이제 WebVR 및 A-Frame을 지원하므로 개발자가 가상 현실 웹사이트를 쉽고 빠르게 구축할 수 있습니다. 대부분의 최신 모바일 장치는 WebVR을 지원하며 간단한 카드보드 케이스를 이용한 헤드셋으로 쉽게 사용할 수 있습니다. SF 작가 닐 스티븐슨(Neal Stephenson)이 상상한 것과 같은 3D 가상 현실 웹이 머지않아 다가올지도 모릅니다. 그렇게 되면 웹브라우저 자체가 완전히 사라지고 또 다른 세계로 통하는 진정한 창이 될 수도 있습니다.
 browser-history-whatever-the-future = 앞으로 웹이 무엇을 담든 { -brand-name-mozilla }와 { -brand-name-firefox }는 사용자가 웹과 웹이 제공하는 모든 것을 경험할 수 있는 강력한 도구를 갖도록 보장할 것입니다. 웹은 모두를 위한 것이며 누구나 자신의 온라인 경험을 통제할 수 있어야 합니다. 이것이 저희가 사용자 개인 정보 보호를 위해 { -brand-name-firefox } 도구를 제공하고 절대로 광고주에게 사용자 정보를 판매하지 않는 이유입니다.
 browser-history-resources = 자원
 browser-history-take-control-of = 브라우저를 제어하세요.
