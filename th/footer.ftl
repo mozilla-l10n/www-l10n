@@ -68,6 +68,7 @@ footer-language = ภาษา
 footer-go = ไป
 footer-donate = บริจาค
 footer-twitter = { -brand-name-twitter }
+footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }
