@@ -8,6 +8,7 @@
 # page title
 features-fingerprinting-what-is-fingerprinting-title = การตรวจลายนิ้วมือคืออะไรและทำไมคุณถึงควรปิดกั้น
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } ช่วยปิดกั้นการตรวจลายนิ้วมือได้
+features-fingerprinting-ditch-the-sticky = ทิ้งโฆษณาที่ชอบตามติดคุณไปทุกที่ด้วยตัวปิดกั้นการตรวจลายนิ้วมือในตัวของเบราว์เซอร์ { -brand-name-firefox }
 # description for the header image
 features-fingerprinting-every-fingerprint = ทุกลายนิ้วมือนั้นไม่ซ้ำกัน
 features-fingerprinting-download-firefox = ดาวน์โหลด { -brand-name-firefox }
