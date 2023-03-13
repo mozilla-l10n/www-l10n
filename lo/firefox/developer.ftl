@@ -70,6 +70,7 @@ firefox-developer-fonts-panel = ກະດານຕົວອັກສອນ
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ະສົ່ງຜົນຕອບຮັບໄປຍັງ { -brand-name-mozilla } ໂດຍອັດຕະໂນມັດ.
 firefox-developer-download-the-firefox-browser = ດາວໂຫຼດບຣາວເຊີ { -brand-name-firefox } ທີ່ສ້າງຂຶ້ນສຳລັບນັກພັດທະນາ
 firefox-developer-welcome-to-the-all-new = ຍິນດີຕ້ອນຮັບສູ່ { -brand-name-firefox-quantum } ໃໝ່ທັງໝົດ: { -brand-name-developer-edition }
+firefox-developer-congrats-you-now-have-firefox = ຊົມເຊີຍ. ຕອນນີ້ທ່ານມີ { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-welcome-to-firefox-browser = ຍິນດີຕ້ອນຮັບສູ່ { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = ຕົວທ່ອງເວັບທີ່ສ້າງຂຶ້ນສໍາລັບນັກພັດທະນາ
 firefox-developer-congrats-you-now-have = ຊົມເຊີຍ. ຕອນນີ້ທ່ານມີ { -brand-name-firefox-browser } { -brand-name-developer-edition }.
