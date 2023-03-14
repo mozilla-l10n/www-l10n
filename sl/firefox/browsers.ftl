@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = Pridružite se { -brand-name-fi
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Že imate račun? <a { $fxa_attr }>Prijavite se</a> ali <a { $accounts_attr }>izvedite več</a> o pridružitvi { -brand-name-firefox(sklon: "dajalnik") }.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = Že imate račun? <a { $fxa_attr }>Prijavite se</a> ali <a { $accounts_attr }>izvedite več</a> o pridružitvi Firefoxu.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
