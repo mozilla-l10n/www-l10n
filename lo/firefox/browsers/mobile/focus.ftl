@@ -27,6 +27,7 @@ mobile-focus-delete-your-history = ລຶບປະຫວັດຂອງທ່າ
 mobile-focus-easily-erase-your = ລຶບປະຫວັດ, ລະຫັດຜ່ານ ແລະຄຸກກີ້ຂອງເຈົ້າໄດ້ຢ່າງງ່າຍດາຍ, ສະນັ້ນ ໂຄສະນາທີ່ບໍ່ຕ້ອງການຈະບໍ່ຕິດຕາມເຈົ້າຢູ່ທາງອອນລາຍ. ພຽງ​ແຕ່​ແຕະ​ທີ່​ປຸ່ມ​ລົບ​ຢູ່​ໃນ​ປ່ອງ​ຄົ້ນ​ຫາ ​ແລະ ​ມັນ​ຈະຫາຍໄປ​.
 mobile-focus-take-private-mode = ເອົາໂໝດສ່ວນຕົວໄປໃນລະດັບຕໍ່ໄປ
 mobile-focus-tracking-protection = ການປ້ອງກັນການຕິດຕາມ
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } ບລັອກຕົວຕິດຕາມທົ່ວໄປທີ່ຫຼາກຫຼາຍໂດຍຄ່າເລີ່ມຕົ້ນ ລວມທັງຕົວຕິດຕາມສັງຄົມ ແລະຕົວຕິດຂັດເຫຼົ່ານັ້ນທີ່ມາຈາກສິ່ງຕ່າງໆເຊັ່ນ: ໂຄສະນາ { -brand-name-facebook }.
 mobile-focus-see-it-all = ເບິ່ງມັນໄວຂຶ້ນ
 mobile-focus-made-by-mozilla = ຜະລິດໂດຍ { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = ພວກເຮົາເຊື່ອວ່າທູກໆຄົນຄວນໄດ້ຮັບການຄຸ້ມຄອງໃນໂລກອອນໄລນ໌. ນັ້ນເປັນສິ່ງທີ່ພວກເຮົາໄດ້ຕໍ່ສູ້ມາຕັ້ງແຕ່ປີ 1998.

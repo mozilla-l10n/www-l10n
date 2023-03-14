@@ -12,6 +12,10 @@ facebook-container-get-the-facebook-container = ຮັບການຂະຫຍ�
 facebook-container-download-firefox-and-get-the = ດາວໂຫລດ { -brand-name-firefox } ແລະ ໄດ້ຮັບການຂະຫຍາຍຂອງ { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = ສ່ວນຂະຫຍາຍ { -brand-name-facebook-container } ປະຈຸບັນສາມາດໃຊ້ໄດ້ກັບ { -brand-name-firefox } ສຳລັບ Desktop ເທົ່ານັ້ນ.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = ເຂົ້າໄປທີ່ <a href="{ $url }">{ $link_copy }</a> ເພື່ອເອົາ { -brand-name-firefox } ສຳລັບ Desktop.
 # Outdated string
 facebook-container-the-facebook-container-extension = ສ່ວນຂະຫຍາຍຂອງ { -brand-name-facebook-container } ແມ່ນບໍ່ສາມາດນຳໃຊ້ງານໄດ້ໃນອຸປະກອນໂທລະສັບ.
 facebook-container-get-firefox-android-ios = ເອົາ { -brand-name-firefox } ສໍາລັບ { -brand-name-android } ແລະ { -brand-name-ios } ດຽວນີ້.
