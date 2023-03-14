@@ -32,4 +32,8 @@ features-translate-with-the-to = *Dengan sambungan Ke { -brand-name-google } Tra
 
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }>dan banyak lagi!</a>
+
+features-translate-for-everyone-v2 = { -brand-name-firefox } adalah untuk semua orang
+
+# Outdated string
 features-translate-for-everyone = Firefox adalah untuk semua

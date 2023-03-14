@@ -32,4 +32,8 @@ features-translate-with-the-to = *拡張機能「To { -brand-name-google } Trans
 
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }>他にも多数</a>
+
+features-translate-for-everyone-v2 = { -brand-name-firefox } は、あらゆるユーザーのために開発されました
+
+# Outdated string
 features-translate-for-everyone = みんなのための Firefox

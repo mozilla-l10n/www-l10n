@@ -32,4 +32,8 @@ features-translate-with-the-to = *{ -brand-name-google } Translate एक्स�
 
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> साथ ही, अन्य भी!</a>
+
+features-translate-for-everyone-v2 = { -brand-name-firefox } सभी के लिए है
+
+# Outdated string
 features-translate-for-everyone = Firefox हर किसी के लिए है

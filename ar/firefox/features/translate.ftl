@@ -32,4 +32,8 @@ features-translate-with-the-to = *باستخدام ملحق ترجمة { -brand-
 
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }>والمزيد!</a>
+
+features-translate-for-everyone-v2 = مُتصفح { -brand-name-firefox } يناسب الجميع
+
+# Outdated string
 features-translate-for-everyone = متصفح Firefox يُناسب الجميع

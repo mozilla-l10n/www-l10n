@@ -32,4 +32,8 @@ features-translate-with-the-to = *Mit der Erweiterung To { -brand-name-google } 
 
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> und mehr!</a>
+
+features-translate-for-everyone-v2 = { -brand-name-firefox } ist für alle
+
+# Outdated string
 features-translate-for-everyone = Firefox ist für alle da
