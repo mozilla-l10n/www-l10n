@@ -26,4 +26,6 @@ features-translate-if-you-are = Калі вы ўжо карыстаецеся { 
 features-translate-with-the-to = *З дапамогай пашырэння To { -brand-name-google } Translate вы зараз можаце перакладаць <a { $attrs }>наступныя мовы</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> і шмат іншых!</a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } — для ўсіх
+# Outdated string
 features-translate-for-everyone = Firefox — для ўсіх
