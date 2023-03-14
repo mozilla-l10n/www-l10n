@@ -12,14 +12,19 @@ firefox-accounts-securely-sync-your = Synchronisa con securitate tu contrasignos
 firefox-accounts-enter-your-email-address = Insere tu adresse de e-mail pro comenciar.
 firefox-accounts-already-have-an-account = Ha tu jam un conto?
 firefox-accounts-sign-in = Aperir session
+firefox-accounts-manage = Gere tu conto
 # Obsolete string
 firefox-accounts-meet-our-family-of = Discoperi nostre familia de productos que respecta e defende tu vita private.
+firefox-accounts-get-email-alerts = Recipe avisos email quando tu informationes appare in un note violation de datos
 # Obsolete string
 firefox-accounts-see-if-youve-been = Verifica si tu ha essite implicate in un violation de datos in linea.
 firefox-accounts-protect-your-identity = Protege tu identitate con securitate disguisante telephono e email
 firefox-accounts-keep-your-passwords = Mantene tu contrasignos protegite e portabile.
 firefox-accounts-get-a-lookout-for = Recipe alertas pro violationes de tu datos.
 firefox-accounts-travel-the-internet = Viagia sur Internet con protection, sur omne apparato.
+firefox-accounts-encrypt-your = Crypta tu activitate in rete e cela tu adresse IP
+firefox-accounts-we-never = Nos jammais registra, tracia o comparti tu datos de rete
+firefox-accounts-read-in-a = Lege in un spatio quiete, private.
 firefox-accounts-get-it-all-on-every = Obtene tote isto sur cata apparato, sin sentir te attrappate in un sol systema de operation.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
