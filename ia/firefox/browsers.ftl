@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = Junge te a { -brand-name-firefo
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Ha tu jam un conto? <a { $fxa_attr }>Aperi session</a> o <a { $accounts_attr }>lege plus</a> sur junger te a { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = Ha tu jam un conto? <a { $fxa_attr }>Aperi session</a> o <a { $accounts_attr }>lege plus</a> sur junger te a Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
