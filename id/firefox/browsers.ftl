@@ -41,6 +41,12 @@ firefox-browsers-join-firefox-and-get-the-most = Bergabunglah bersama { -brand-n
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Sudah memiliki akun? <a { $fxa_attr }>Masuk</a> atau <a { $accounts_attr }>pelajari lebih lanjut</a> mengenai bergabung dengan { -brand-name-firefox }.
+
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = Sudah punya akun? <a { $fxa_attr }>Masuk</a> atau <a { $accounts_attr }>pelajari lebih lanjut</a> tentang bergabung dengan Firefox.
 
 firefox-browsers-android = { -brand-name-android }

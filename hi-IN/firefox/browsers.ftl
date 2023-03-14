@@ -41,6 +41,12 @@ firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } के 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = पहले से ही अकाउंट है? <a { $fxa_attr }>साइन इन करें</a> या { -brand-name-firefox } से जुड़ने के बारे में <a { $accounts_attr }>और जानें</a>.
+
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = पहले से ही एकाउंट है? Firefox से जुड़ने के लिए <a { $fxa_attr }>साइन इन</a> करें या <a { $accounts_attr }>और जानें</a>।
 
 firefox-browsers-android = { -brand-name-android }

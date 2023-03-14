@@ -41,6 +41,12 @@ firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } に登�
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = 既にアカウントをお持ちの場合:<a { $fxa_attr }>ログイン</a>または { -brand-name-firefox } への登録の<a { $accounts_attr }>詳細を確認</a>
+
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = 既にアカウントをお持ちの場合: <a { $fxa_attr }>サインイン</a>または Firefox 利用についての<a { $accounts_attr }>詳細を確認</a>
 
 firefox-browsers-android = { -brand-name-android }
