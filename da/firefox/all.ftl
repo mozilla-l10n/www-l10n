@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -27,7 +27,7 @@ firefox-all-download-the-firefox = Hent { -brand-name-firefox-browser } på dans
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Alle fortjener at have adgang til internettet - dit sprog må aldrig være en hindring. Det er grunden til, at vi - med hjælp fra dedikerede frivillige fra hele verden - sørger for, at { -brand-name-firefox-browser } findes på mere end 90 forskellige sprog.
 firefox-all-choose-which-firefox = Vælg hvilken { -brand-name-firefox-browser }, du vil hente på dit sprog
-firefox-all-firefox-privacy-notice = Privatlivspolitik for { -brand-name-firefox }
+firefox-all-firefox-privacy-notice = Privatlivserklæring for { -brand-name-firefox }
 firefox-all-learn-about-firefox = Læs om { -brand-name-firefox }-browsere
 firefox-all-the-standard-firefox = Den normale { -brand-name-firefox }-browser — hurtig og privat. Hvis du ikke er sikker på, hvilken { -brand-name-firefox } du skal vælge, så vælg denne.
 firefox-all-get-a-sneak-peek-at = Få et smugkig på de nyeste { -brand-name-firefox }-funktioner inden de bliver udgivet.

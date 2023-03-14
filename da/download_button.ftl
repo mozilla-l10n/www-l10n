@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Hent nu
 download-button-free-download = Gratis download
@@ -37,5 +37,5 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> til { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> til { -brand-name-ios }
 download-button-firefox-privacy = Privatliv i { -brand-name-firefox }
-download-button-firefox-privacy-notice = Privatlivspolitik for { -brand-name-firefox }
+download-button-firefox-privacy-notice = Privatlivserklæring for { -brand-name-firefox }
 download-button-download = Download

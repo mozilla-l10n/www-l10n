@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Indtast en gyldig mailadresse.
-newsletter-form-you-must-agree-to = Du skal acceptere privatlivspolitikken
+newsletter-form-you-must-agree-to = Du skal acceptere privatlivserklæringen
 newsletter-form-your-email-address = Din mailadresse
 newsletter-form-we-are-sorry-but-there = Vi beklager, men der opstod et problem med vores system. Prøv igen senere!
 newsletter-form-please-select-country = Vælg et land eller en region
@@ -19,7 +19,7 @@ newsletter-form-text = Tekst
 newsletter-form-get-firefox-news = Få nyheder om { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = Det er helt fint, at { -brand-name-mozilla } håndterer mine oplysninger som beskrevet i <a href="{ $url }">denne privatlivspolitik</a>
+newsletter-form-im-okay-with-mozilla = Det er helt fint, at { -brand-name-mozilla } håndterer mine oplysninger som beskrevet i <a href="{ $url }">denne privatlivserklæring</a>
 newsletter-form-we-will-only-send = Vi vil udelukkende sende dig { -brand-name-mozilla }-relateret information.
 newsletter-form-we-will-only-send-firefox = Vi vil udelukkende sende dig { -brand-name-firefox }-relateret information.
 newsletter-form-if-you-havent-previously = Hvis du ikke tidligere har bekræftet din tilmelding til et nyhedsbrev fra { -brand-name-mozilla }, kan det være nødvendigt at gøre det. Tjek din indbakke eller spam-mappe for en mail fra os.

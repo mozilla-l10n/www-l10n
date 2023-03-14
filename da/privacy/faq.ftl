@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -30,11 +30,12 @@ privacy-faq-wait-so-how-do-you-make-money = Vent lige, hvordan tjener I så jere
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } er ingen almindelig organisation. { -brand-name-mozilla } blev oprettet som open source-projekt i 1998, og vi er en mission-drevet organisation, der arbejder hårdt for et sundere internet. Størstedelen af { -brand-name-mozilla-corporation }s indtægt kommer fra royalties tjent på { -brand-name-firefox }' søgepartnerskaber og distributionsaftaler rundt omkring på kloden. Du kan læse mere om, hvordan vi tjener penge i vores <a href="{ $link }">årsrapport</a>.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ok, det var de nemme spørgsmål. Hvilke data indsamler I?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } indsamler som standard begrænsede data fra { -brand-name-firefox }. Det hjælper os med at forstå, hvordan browseren bruges. De indsamlede data er bundet til en tilfældig identifikator i stedet for dit navn eller mailadresse. Det kan du læse mere om i vores <a href="{ $privacy }">privatlivspolitik</a>, og du kan se <a href="{ $data }">hele dokumentationen for denne indsamling data</a>.
+privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } indsamler som standard begrænsede data fra { -brand-name-firefox }. Det hjælper os med at forstå, hvordan browseren bruges. De indsamlede data er bundet til en tilfældig identifikator i stedet for dit navn eller mailadresse. Det kan du læse mere om i vores <a href="{ $privacy }">privatlivserklæring</a>, og du kan se <a href="{ $data }">hele dokumentationen for denne indsamling data</a>.
 privacy-faq-we-make-our-documentation-public = Vi offentliggør vores dokumentation, så enhver kan forvisse sig om, at det vi siger rent faktisk passer. Du kan stole på, at vi ikke holder noget hemmeligt. Fortæl os det, hvis der er noget, vi skal gøre bedre.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Den dokumentation er rent volapyk for mig! Kan jeg få det på almindeligt dansk?

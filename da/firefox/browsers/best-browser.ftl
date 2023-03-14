@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -36,7 +36,7 @@ best-browser-trackers-are-all-those = Sporings-tjenester ligger bag alle de irri
 best-browser-another-way-to-stop = En anden måde at standse sporings-tjenester på er ved at bruge privat browsing-tilstand. Enhver browser, der hævder at tage beskyttelsen af dit privatliv alvorligt, bør tilbyde privat browsing-tilstand.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-best-browser-one-easy-way-to-check = En nem måde at kontrollere det på er at kigge nærmere på browserens indstillinger for indhold samt dens privatlivspolitik, som bør forklare om dine data bliver delt - og i så fald hvorfor. Det er grunden til at <a href="{ $privacy }">privatlivspolitikken for { -brand-name-firefox } </a> er nem at læse og nem at finde.
+best-browser-one-easy-way-to-check = En nem måde at kontrollere det på er at kigge nærmere på browserens indstillinger for indhold samt dens privatlivspolitik, som bør forklare om dine data bliver delt - og i så fald hvorfor. Det er grunden til at <a href="{ $privacy }">privatlivserklæringen for { -brand-name-firefox } </a> er nem at læse og nem at finde.
 best-browser-choosing-the-best-browser = At vælge den browser, der passer bedst til dig, er ikke meget anderledes at vælge et nyt sted at bo. Udforsk dine muligheder, undersøg tingene grundigt - og tag så en beslutning baseret på, hvad der er vigtigt for dig.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
