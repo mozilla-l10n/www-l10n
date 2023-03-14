@@ -5,10 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = ປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານແລະທ່ອງເວັບໄວຂຶ້ນດ້ວຍຄຸນສົມບັດ { -brand-name-firefox }
+# HTML page description
+features-index-youre-in-control-with-firefoxs = ທ່ານຄວບຄຸມດ້ວຍຄຸນສົມບັດທີ່ໃຊ້ງ່າຍຂອງ { -brand-name-firefox } ທີ່ປົກປ້ອງຄວາມເປັນສ່ວນຕົວ ແລະຄວາມໄວການທ່ອງເວັບຂອງທ່ານ.
 # Hero title
 features-index-firefox-features = ຄຸນສົມບັດຂອງ { -brand-name-firefox }
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } ແມ່ນບຣາວເຊີໄວ, ນ້ຳໜັກເບົາ, ເນັ້ນຄວາມເປັນສ່ວນຕົວ ເຊິ່ງເຮັດວຽກໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
+features-index-add-powerful-functions = ເພີ່ມຟັງຊັນທີ່ມີປະສິດທິພາບ, ຄຸນສົມບັດທີ່ເປັນປະໂຫຍດ ແລະແມ້ກະທັ້ງຄວາມມ່ວນເລັກນ້ອຍໃຫ້ກັບຕົວທ່ອງເວັບ { -brand-name-firefox } ຂອງທ່ານ.
 features-index-see-all = ເບິ່ງສ່ວນເສີມທັງໝົດ
 features-index-give-your-browser = ໃຫ້ຕົວທ່ອງເວັບຂອງທ່ານເບິ່ງທີ່ທ່ານຕ້ອງການດ້ວຍຫລາຍພັນຮູບແບບທີ່ແຕກຕ່າງກັນ.
+features-index-important-stuff = ໃຫ້​ແນ່​ໃຈວ່​າ​ສິ່ງ​ທີ່​ສໍາ​ຄັນ​ທັງ​ຫມົດ​ຂອງ​ທ່ານ — ການ​ຄົ້ນ​ຫາ​ອິນ​ເຕີ​ເນັດ​, ລະ​ຫັດ​ຜ່ານ​, ເປີດ​ແຖບ — ປະ​ກົດ​ວ່າ​ບ່ອນ​ທີ່​ທ່ານ​ຕ້ອງ​ການ​ມັນ​ໃນ​ທຸກ​ອຸ​ປະ​ກອນ​.
 features-index-get-an-account = ເອົາ { -brand-name-firefox-account }
 features-index-from-the-company = ຈາກບໍລິສັດທີ່ເຮັດໃຫ້ຄົນກ່ອນກໍາໄລ
 features-index-open-source-minds = ແຫຼ່ງເປີດ. ເປີດໃຈ.
