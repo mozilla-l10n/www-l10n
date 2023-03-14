@@ -14,17 +14,30 @@ firefox-accounts-already-have-an-account = Že imate račun?
 firefox-accounts-sign-in = Prijavite se
 firefox-accounts-already = { -brand-name-firefox-account } že imate. Čestitke!
 firefox-accounts-manage = Upravljajte račun
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = Prijava v { -brand-name-firefox-account(sklon: "tozilnik") } vam omogoča:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Spoznajte našo družino izdelkov, ki postavljajo zasebnost na prvo mesto.
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = <a href="{ $send }">poslati zavihek</a> na drugo napravo
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">sinhronizirati shranjena gesla</a>
+firefox-accounts-get-email-alerts = prejeti opozorilo po e-pošti, če se vaši podatki pojavijo v znani kraji podatkov
 # Obsolete string
 firefox-accounts-see-if-youve-been = Preverite, ali ste bili vpleteni v spletno krajo podatkov.
+firefox-accounts-protect-your-identity = zaščititi identiteto z varnim zakrivanjem telefonske številke in e-poštnega naslova
 firefox-accounts-keep-your-passwords = Imejte gesla zaščitena in pri roki.
 firefox-accounts-get-a-lookout-for = Bodite obveščeni o krajah podatkov.
 firefox-accounts-travel-the-internet = Potujte po internetu z zaščito, na vsaki napravi.
+firefox-accounts-encrypt-your = šifrirati omrežno dejavnost in skriti naslov IP
 firefox-accounts-get-it-all-on-every = Imejte vse na vseh napravah, ne da bi se počutili ujete v enem operacijskem sistemu.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }
