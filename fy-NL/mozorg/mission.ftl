@@ -9,8 +9,14 @@ mission-were-building-a-better-internet = Wy boue in better ynternet
 mission-our-mission-is-to-ensure-the-internet = It is ús missy om te fersekerjen dat it ynternet in globaal publike boarne is, iepen en tagonklik foar elkenien. In ynternet dat werklik minsken op it earste plak set, wêr’t elkenien harren eigen ûnderfining foarmje kin en krêftich, feilich en ûnôfhinklik binne.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Us missy is it befoarderjen fan iepenheid, ynnovaasje en mooglikheden op it ynternet.
+mission-at-mozilla-were-a-global-community-v2 = By { -brand-name-mozilla } binne wy in wrâldwide mienskip fan technologen, tinkers en bouwers dy't gearwurkje om it ynternet yn beweging en tagonklik te hâlden, dus minsken oer de hiele wrâld kinne ynformearde meiwurkers en makkers fan it ynternet wurde.
+# Outdated string
 mission-at-mozilla-were-a-global-community = By Mozilla binne wy in wrâldwide mienskip fan technologen, tinkers en bouwers dy’t gearwurkje om it ynternet yn beweging en tagonklik te hâlden, dus minsken oer de hiele wrâld kinne ynformearde meiwurkers en makkers fan it ynternet wurde.
 mission-we-believe-this-act-of-human-collaboration = Wy leauwe dat dizze died fan minslike gearwurking oer in iepen platfoarm essinsjeel is foar yndividuele groei en ús kollektive takomst.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+mission-read-the-mozilla-manifesto-to-learn-v2 = Lês it <a href="{ $url }">{ -brand-name-mozilla }-manifest</a> foar noch mear ynfo oer de wearden en prinsipen dy’t it neirinnen fan ús missy liede.
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn = Lês it <a href="{ $url }">Mozilla-manifest</a> foar noch mear ynfo oer de wearden en prinsipen dy’t it neirinnen fan ús missy liede.
@@ -22,4 +28,6 @@ mission-where-we-come-from-and-how-we-got = Wêr’t wy fandinne komme en hoe’
 mission-forums = Foarums
 mission-topics-include-support-products = Underwerpen befetsje stipe, produkten en technologyën
 mission-governance = Bestjoer
+mission-our-structure-organization-and-the-v2 = Us struktuer, organisaasje en de bredere { -brand-name-mozilla }-mienskip
+# Outdated string
 mission-our-structure-organization-and-the = Us struktuer, organisaasje en de bredere Mozilla-mienskip

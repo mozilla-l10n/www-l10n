@@ -21,15 +21,26 @@ firefox-accounts-meet-our-family-of = Kom yn de kunde mei ús famylje fan produk
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">In ljepblêd te ferstjoeren</a> nei in oar apparaat
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Wachtwurden te bewarjen en te syngronisearjen</a>
+firefox-accounts-get-email-alerts = E-mailwarskôgingen te ûntfangen wannear’t jo gegevens foar komme yn in bekend datalek
 # Obsolete string
 firefox-accounts-see-if-youve-been = Besjoch oft jo troffen binne troch in online datalek.
+firefox-accounts-protect-your-identity = Jo identiteit beskermje mei feilige telefoan- en e-mailmaskearring
 firefox-accounts-keep-your-passwords = Hâld jo wachtwurden beskerme en nim se mei.
 firefox-accounts-get-a-lookout-for = Untfang sicht op datalekken.
 firefox-accounts-travel-the-internet = Reizgje op it ynternet mei beskerming, op elk apparaat.
+firefox-accounts-encrypt-your = Jo netwurkaktiviteit te fersiferjen en jo IP-adres te ferstopjen
+firefox-accounts-we-never = Wy logge, folgje of diele jo netwurkgegevens nea
+firefox-accounts-save-articles = Artikelen fan it ynternet te bewarjen
+firefox-accounts-read-in-a = Lês yn in rêstige, besletten romte
 firefox-accounts-get-it-all-on-every = Download alles op elk apparaat, sûnder dat jo jo fongen fiele yn in bestjoeringssysteem.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }

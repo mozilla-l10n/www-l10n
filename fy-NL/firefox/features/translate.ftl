@@ -26,4 +26,6 @@ features-translate-if-you-are = As jo { -brand-name-firefox } al brûke, dan kin
 features-translate-with-the-to = *Mei de útwreiding To { -brand-name-google } Translate kinne jo op dit stuit <a { $attrs }>dizze talen</a> oersette:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> en mear!</a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } is foar elkenien
+# Outdated string
 features-translate-for-everyone = Firefox is foar elkenien

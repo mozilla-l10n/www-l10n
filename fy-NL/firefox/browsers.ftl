@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = Doch mei mei { -brand-name-fire
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Hawwe jo al in account? <a { $fxa_attr }>Oanmelde</a> of <a { $accounts_attr }>mear ynfo</a> oer meidwaan mei { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = Hawwe jo al in account? <a { $fxa_attr }>Oanmelde</a> of <a { $accounts_attr }>mear ynfo</a> oer meidwaan mei Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
