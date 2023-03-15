@@ -36,7 +36,12 @@ privacy-passwords-a-closed-lock = Gembok tertutup muncul tepat sebelum alamat si
 privacy-passwords-the-lock-means = Gembok berarti situs web yang Anda gunakan dienkripsi, sehingga walaupun seseorang sedang memperhatikan penjelajahan Anda di jaringan (seperti orang lain di hotspot WiFi publik), mereka tidak dapat melihat kata sandi Anda. { -brand-name-firefox } akan mencoba memperingatkan Anda ketika Anda akan memasukkan kata sandi di situs yang tidak terenkripsi.
 privacy-passwords-a-padlock-with = Gembok dengan garis melaluinya menunjukkan bahwa koneksi tidak aman.
 privacy-passwords-your-browser-also = Peramban Anda juga membantu memberikan informasi mengenai seberapa tepercaya situs, untuk membantu Anda tetap aman dari phishing. Di satu sisi, ketika Anda mencoba mengunjungi situs web yang dikenal sebagai situs phishing, { -brand-name-firefox } (dan peramban utama lainnya) akan menampilkan peringatan layar penuh — <strong>perhatikan dan pikirkan dua kali untuk menggunakan situs itu!</strong>
+
+privacy-passwords-firefox-will-v2 = { -brand-name-firefox } akan menampilkan peringatan, dan bukan situs web jika diketahui itu adalah situs phishing.
+
+# Outdated string
 privacy-passwords-firefox-will = Firefox akan menampilkan peringatan, dan bukan situs web jika diketahui itu adalah situs phishing.
+
 privacy-passwords-in-general-the = Secara umum, pertahanan terbaik terhadap phishing adalah dengan <strong>mencurigai apa pun yang Anda terima</strong>, apakah itu muncul di email, pesan teks, atau di telepon. Alih-alih mengambil tindakan atas apa yang dikirimkan seseorang kepada Anda, kunjungi situsnya secara langsung. Misalnya, jika sebuah email mengatakan Anda perlu mengatur ulang kata sandi PayPal Anda, jangan klik tautannya. Ketik sendiri paypal.com. Jika bank menelepon, hubungi mereka kembali.
 privacy-passwords-strength-in-diversity = Kekuatan dalam keberagaman
 privacy-passwords-the-secret-to = Rahasia untuk mencegah tebakan, pencurian, atau pengaturan ulang kata sandi memerlukan banyak keacakan. Ketika penyerang mencoba menebak kata sandi, mereka biasanya melakukan dua hal: 1) Menggunakan &quot;kamus&quot; — daftar kata sandi umum yang orang gunakan sepanjang waktu, dan 2) membuat beberapa tebakan acak. Semakin <strong>panjang dan acak kata sandi Anda</strong>, semakin kecil kemungkinan salah satu teknik menebak ini akan berhasil.
@@ -66,6 +71,11 @@ privacy-passwords-2fa-provides-much = 2FA memberikan keamanan yang jauh lebih ba
 privacy-passwords-strong-diverse-and = Kuat, beragam, dan multi-faktor
 privacy-passwords-for-better-or = Baik atau buruk, kita akan menggunakan kata sandi untuk melindungi akun daring kita di masa mendatang. Gunakan kata sandi yang <strong>kuat</strong> dan <strong>berbeda untuk setiap situs</strong>, dan gunakan <strong>pengelola kata sandi</strong> untuk membantu Anda mengingatnya dengan aman. Tetapkan <strong>jawaban yang panjang dan acak</strong> untuk pertanyaan keamanan (walaupun bukan jawaban yang sebenarnya). Dan <strong>gunakan autentikasi dua faktor</strong> di situs mana pun yang mendukungnya.
 
+#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
+#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
+privacy-passwords-in-todays-internet-v2 = Di internet saat ini, di mana ribuan kata sandi dicuri setiap hari dan akan diperdagangkan di pasar gelap, tidak ada ruginya berupaya menjaga kehidupan daring Anda agar tetap aman. Ketika Anda menggunakan produk { -brand-name-firefox }, sebagian upaya tidak perlu dilakukan, karena semua produk kami dibuat untuk menjunjung tinggi <a { $url_privacy_products }>janji privasi</a> kami. Dan { -brand-name-firefox } selalu dipandu oleh <a { $url_about_manifesto }>misi { -brand-name-mozilla }</a>, organisasi nirlaba yang mendukung kami untuk membangun internet yang lebih baik.
+
+# Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = Di internet saat ini, di mana ribuan kata sandi dicuri setiap hari dan akan diperdagangkan di pasar gelap, tidak ada ruginya berupaya menjaga kehidupan daring Anda agar tetap aman. Ketika Anda menggunakan produk { -brand-name-firefox }, sebagian upaya tidak perlu dilakukan, karena semua produk kami dibuat untuk menjunjung tinggi <a { $url_privacy_products }>janji privasi</a> kami. Dan { -brand-name-firefox } selalu dipandu oleh <a { $url_about_manifesto }>misi Mozilla</a>, organisasi nirlaba yang mendukung kami untuk membangun internet yang lebih baik.
