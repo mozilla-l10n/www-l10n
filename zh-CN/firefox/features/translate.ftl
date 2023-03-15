@@ -26,4 +26,6 @@ features-translate-if-you-are = 若您已在使用 { -brand-name-firefox }，则
 features-translate-with-the-to = *通过“To { -brand-name-google } Translate”扩展，<a { $attrs }>下列语言</a>当前均可翻译：
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }>以及更多</a>
+features-translate-for-everyone-v2 = 人人皆可使用 { -brand-name-firefox }
+# Outdated string
 features-translate-for-everyone = Firefox 人人皆可用
