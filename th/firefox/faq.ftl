@@ -26,12 +26,14 @@ how-do-i = ฉันจะรับ{ -brand-name-firefox-browser } ได้อ�
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = { -brand-name-firefox } ฟรีหรือเปล่า
+related-questions-free = คำถามที่เกี่ยวข้อง: { -brand-name-firefox-browser } ฟรีไหม, { -brand-name-firefox } เสียค่าใช้จ่ายไหม
 is-chrome-better = { -brand-name-chrome } ดีกว่า { -brand-name-firefox } หรือไม่
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">ดูการเปรียบเทียบ { -brand-name-firefox } กับ { -brand-name-chrome }</a>
+related-questions-better = คำถามที่เกี่ยวข้อง: { -brand-name-firefox } ดีกว่า { -brand-name-chrome } ไหม, { -brand-name-firefox } ดีกว่า { -brand-name-google } ไหม, { -brand-name-firefox } ปลอดภัยกว่า { -brand-name-chrome } ไหม, { -brand-name-firefox } เป็นส่วนตัวกว่า { -brand-name-chrome } ไหม
 is-firefox-safe-download = การดาวน์โหลด { -brand-name-firefox } ปลอดภัยหรือไม่
 
 # Variables:
