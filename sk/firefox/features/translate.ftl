@@ -26,4 +26,6 @@ features-translate-if-you-are = Ak už používate { -brand-name-firefox }, mô�
 features-translate-with-the-to = *S rozšírením To { -brand-name-google } Translate môžete v súčasnosti prekladať <a { $attrs }>tieto jazyky</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> a ďalšie!</a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } je pre všetkých
+# Outdated string
 features-translate-for-everyone = Firefox je pre každého
