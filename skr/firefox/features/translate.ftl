@@ -26,4 +26,6 @@ features-translate-if-you-are = جے تساں پلے کنوں ای { -brand-name
 features-translate-with-the-to = *To { -brand-name-google } ٹرانسلیٹ ایکسٹینشن دے نال، تساں فی الحال <a { $attrs }>انہاں زباناں</a> دا ترجمہ کر سڳدے او:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> تے ٻئے!</a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } ہر ہک کیتے ہے
+# Outdated string
 features-translate-for-everyone = فائرفوکس سب کیتے ہے

@@ -12,6 +12,7 @@ firefox-accounts-securely-sync-your = اپݨے پاس ورڈز، نشانیاں 
 firefox-accounts-enter-your-email-address = شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو۔
 firefox-accounts-already-have-an-account = بھلا پہلے ہی ہک کھاتہ ہے؟
 firefox-accounts-sign-in = سائن ان
+firefox-accounts-manage = آپݨاں کھاتہ منیج کرو
 # Obsolete string
 firefox-accounts-meet-our-family-of = رازداری ــ پہلے مصنوعات دے ساݙے ٹٻر کوں ملو۔
 # Obsolete string
