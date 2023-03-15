@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -34,6 +34,8 @@ privacy-passwords-a-closed-lock = Ett stängt hänglås visas precis före webba
 privacy-passwords-the-lock-means = Låset innebär att webbplatsen du använder är krypterad, så att även om någon tittar på din surfning i nätverket (som en annan person på en offentlig WiFi-hotspot), kommer de inte att kunna se ditt lösenord. { -brand-name-firefox } försöker varna dig när du ska ange ditt lösenord på en okrypterad webbplats.
 privacy-passwords-a-padlock-with = Ett hänglås med en linje igenom indikerar att anslutningen inte är säker.
 privacy-passwords-your-browser-also = Din webbläsare hjälper dig också att hålla dig informerad om hur pålitliga webbplatser är, för att skydda dig från nätfiske. Å ena sidan, när du försöker besöka en webbplats som är känd för att vara en nätfiskewebbplats, visar { -brand-name-firefox } (och alla större webbläsare) en varning i helskärm — <strong>var uppmärksam och tänk till innan du använder den webbplatsen!</strong>
+privacy-passwords-firefox-will-v2 = { -brand-name-firefox } visar en varning istället för webbplatsen om det är känt att det är en nätfiskewebbplats.
+# Outdated string
 privacy-passwords-firefox-will = Firefox visar en varning istället för webbplatsen om det är känt att det är en nätfiskewebbplats.
 privacy-passwords-in-general-the = I allmänhet är det bästa försvaret mot nätfiske att <strong>vara misstänksam mot vad du får</strong>, oavsett om det dyker upp i e-post, ett sms eller i telefon. Istället för att vidta åtgärder för vad någon skickade till dig, besök webbplatsen direkt. Om till exempel ett e-postmeddelande säger att du måste återställa PayPal-lösenordet, klicka inte på länken. Skriv in paypal.com själv. Om banken ringer, ring tillbaka dem.
 privacy-passwords-strength-in-diversity = Styrka genom mångfald
@@ -54,10 +56,11 @@ privacy-passwords-twofactor-authentication-2fa = Tvåfaktorautentisering (2FA)
 privacy-passwords-2fa-is-a = 2FA är ett utmärkt sätt att höja din säkerhet. När du skapar ett nytt konto kommer vissa webbplatser att ge dig möjlighet att lägga till en "andra faktor" i inloggningsprocessen. Ofta innebär detta att länka ditt telefonnummer till ditt konto, så efter att du har angett ditt lösenord kommer du att bli ombedd att ange en säkerhetskod som skickas direkt till dig. På det här sättet, om en hackare har lyckats få ditt lösenord, kommer de fortfarande inte att kunna komma in på ditt konto, eftersom de inte har din telefon.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Ditt { -brand-name-firefox }-konto kan till exempel skyddas med 2FA, <a { $url_sumo_2fa }>som du kan läsa mer om här</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA ger mycket bättre säkerhet än lösenord ensamma, men inte alla webbplatser stöder det. Du hittar en lista över webbplatser som stöder 2FA på <a { $url_2fa }>https://twofactorauth.org</a>, samt en lista över webbplatser som inte stöder 2FA och hur du kan be dem att lägg till stöd.
 privacy-passwords-strong-diverse-and = Stark, mångsidig och multifaktor
 privacy-passwords-for-better-or = På gott och ont ska vi använda lösenord för att skydda våra onlinekonton under överskådlig framtid. Använd lösenord som är <strong>starka</strong> och <strong>olika för varje webbplats</strong> och använd en <strong>lösenordshanterare</strong> för att hjälpa dig att komma ihåg dem på ett säkert sätt. Ställ in <strong>långa, slumpmässiga svar</strong> för säkerhetsfrågor (även om de inte är sanningen). Och <strong>använd tvåfaktorautentisering</strong> på alla webbplatser som stöder det.
+# Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = I dagens internet, där tusentals lösenord stjäls varje dag och konton handlas på den svarta marknaden, är det värt ansträngningen att hålla ditt onlineliv säkert. När du använder { -brand-name-firefox }-produkter tas en del av ansträngningen bort från dig, eftersom alla våra produkter är byggda för att upprätthålla vårt <a { $url_privacy_products }>integritetslöfte</a>. Och { -brand-name-firefox } styrs alltid av <a { $url_about_manifesto }>Mozillas uppdrag</a>, att bygga ett bättre internet.

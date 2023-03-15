@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = På { -brand-name-firefox } har vi et
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = På { -brand-name-firefox } har vi ett stort antal hängivna användare som uppskattar vårt uthålliga engagemang för onlineintegritet. Exempelvis inkluderar den senaste versionen av { -brand-name-firefox } en funktion som kallas för ETP (Enhanced Tracking Protection), vilket är automatiskt påslaget för alla användare, världen över. ETP blockerar över 2,000 spårare, inklusive sociala spårare från företag som { -brand-name-facebook }, { -brand-name-twitter } och LinkedIn. Dessutom finns en integrerad funktion som kallas <a { $attrs }>{ -brand-name-firefox-monitor }</a> och som automatiskt notifierar dig om ditt lösenord har läckt ut eller bör uppdateras. Förutom dessa skydd raderar { -brand-name-firefox }s privata surfläge automatiskt din surfinformation, t.ex. historik och kakor, vilket lämnar din session helt utan spår.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Vi har också nyligen bekräftat vårt engagemang för integritet och öppenhet angående användardata i vårt senaste <a { $attrs }>sekretessmeddelande</a> som säger: "På { -brand-name-mozilla } tror vi att integritet är grundläggande för ett sunt internet."
+# Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Vi har nyligen omarbetat vårt engagemang för integritet och öppenhet angående användardata i vår senaste <a { $attrs }>sekretesspolicy</a> som säger, ”Hos Mozilla tror vi att integritet är grundläggande för ett hälsosamt internet ”.
