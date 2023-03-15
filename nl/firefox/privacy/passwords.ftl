@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -34,6 +34,8 @@ privacy-passwords-a-closed-lock = Een gesloten hangslot verschijnt in alle grote
 privacy-passwords-the-lock-means = Het slot betekent dat de bezochte website versleuteld is, zodat zelfs als iemand meekijkt met uw surfactiviteit op het netwerk (zoals iemand anders op een openbare wifi-hotspot), deze uw wachtwoord niet kunnen zien. { -brand-name-firefox } probeert u te waarschuwen als u op het punt staat een wachtwoord in te typen op een onversleutelde website.
 privacy-passwords-a-padlock-with = Een hangslot met een streep erdoor geeft aan dat de verbinding niet veilig is.
 privacy-passwords-your-browser-also = Uw browser helpt u ook op de hoogte te blijven over hoe betrouwbaar websites zijn, om u te beschermen tegen phishing. Als u enerzijds een website probeert te bezoeken waarvan bekend is dat het een phishingwebsite is, geeft { -brand-name-firefox } (en elke andere grote browser) een waarschuwing op volledig scherm weer – <strong>let op en denk twee keer na voordat u die website gebruikt!</strong>
+privacy-passwords-firefox-will-v2 = { -brand-name-firefox } toont een waarschuwing in plaats van de website als het een bekende phishingwebsite is.
+# Outdated string
 privacy-passwords-firefox-will = Firefox geeft een waarschuwing weer in plaats van de website als het een bekende phishingwebsite is.
 privacy-passwords-in-general-the = Over het algemeen is de beste verdediging tegen phishing <strong>wantrouwend te zijn voor wat u ontvangt</strong>, of dat nu in een e-mailbericht, een sms of telefonisch is. Bezoek in plaats van te handelen op basis van wat iemand u heeft gestuurd de website rechtstreeks. Als er bijvoorbeeld in een e-mailbericht staat dat u uw PayPal-wachtwoord opnieuw moet instellen, klik dan niet op de koppeling. Typ zelf paypal.com in. Als de bank belt, bel ze dan terug.
 privacy-passwords-strength-in-diversity = Kracht in diversiteit
@@ -54,10 +56,14 @@ privacy-passwords-twofactor-authentication-2fa = Tweefactorauthenticatie (2FA)
 privacy-passwords-2fa-is-a = 2FA is een geweldige manier om uw beveiliging te verbeteren. Bij het aanmaken van een nieuwe account bieden sommige websites u de mogelijkheid om een ‘tweede factor’ toe te voegen aan het aanmeldproces. Vaak betekent dit dat u uw telefoonnummer aan uw account koppelt, zodat u nadat u uw wachtwoord heeft ingevoerd wordt gevraagd een beveiligde code in te voeren die u rechtstreeks via sms ontvangt. Op deze manier kan een hacker, als deze uw wachtwoord heeft weten te bemachtigen, nog steeds geen toegang tot uw account krijgen, aangezien deze uw telefoon niet heeft.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Uw { -brand-name-firefox }-account kan bijvoorbeeld worden beschermd met 2FA, <a { $url_sumo_2fa }>waarover u hier meer info vindt</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA biedt veel betere beveiliging dan alleen wachtwoorden, maar niet elke website ondersteunt het. U kunt op <a { $url_2fa }>https://twofactorauth.org</a> een lijst met websites die 2FA ondersteunen vinden, evenals een lijst met websites die 2FA niet ondersteunen, en manieren waarop u deze kunt vragen ondersteuning ervoor toe te voegen.
 privacy-passwords-strong-diverse-and = Sterk, divers en multifactor
 privacy-passwords-for-better-or = Of we nu willen of niet, we gaan in de nabije toekomst wachtwoorden gebruiken om onze online accounts te beschermen. Gebruik wachtwoorden die <strong>sterk</strong> en <strong>anders voor elke website</strong> zijn, en gebruik een <strong>wachtwoordbeheerder</strong> om u te helpen ze veilig te onthouden. Stel <strong>lange, willekeurige antwoorden</strong> in voor beveiligingsvragen (zelfs als ze niet de waarheid zijn). En <strong>gebruik tweefactorauthenticatie</strong> op elke website die dit ondersteunt.
+#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
+#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
+privacy-passwords-in-todays-internet-v2 = Op het internet van vandaag, waar dagelijks duizenden wachtwoorden worden gestolen en accounts op de zwarte markt worden verhandeld, is het de moeite waard om uw online leven veilig te houden. Wanneer u { -brand-name-firefox }-producten gebruikt, wordt een deel van die moeite u bespaard, omdat al onze producten zijn gemaakt om onze <a { $url_privacy_products }>privacybelofte</a> na te komen. En { -brand-name-firefox } wordt altijd geleid door de <a { $url_about_manifesto }>missie van { -brand-name-mozilla }</a>, de non-profit die achter ons staat, om een beter internet te bouwen.
+# Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = Op het internet van vandaag, waar dagelijks duizenden wachtwoorden worden gestolen en accounts op de zwarte markt worden verhandeld, is het de moeite waard om uw online leven veilig te houden. Wanneer u { -brand-name-firefox }-producten gebruikt, wordt een deel van die moeite u ontnomen, omdat al onze producten zijn gemaakt om onze <a { $url_privacy_products }>privacybelofte</a> na te komen. En { -brand-name-firefox } wordt altijd geleid door de <a { $url_about_manifesto }>missie van Mozilla</a>, de non-profit die achter ons staat, om een beter internet te bouwen.

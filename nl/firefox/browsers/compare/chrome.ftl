@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = Bij { -brand-name-firefox } hebben we
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = Bij { -brand-name-firefox } hebben we een enorm aantal toegewijde gebruikers die onze standvastige toewijding aan online privacy waarderen. Zo bevat de nieuwste versie van { -brand-name-firefox } bijvoorbeeld een functie genaamd Verbeterde bescherming tegen volgen (ETP), die standaard voor alle gebruikers wereldwijd aanstaat. ETP blokkeert meer dan 2000 trackers, waaronder sociale trackers van bedrijven als { -brand-name-facebook }, { -brand-name-twitter } en LinkedIn. Het bevat ook een geïntegreerde functie genaamd <a { $attrs }>{ -brand-name-firefox-monitor }</a>, die u automatisch waarschuwt als uw wachtwoord is gelekt of moet worden bijgewerkt. Naast deze beschermingen kunt u met de privénavigatiemodus in { -brand-name-firefox } automatisch na voltooien van uw sessie uw navigatiegegevens, zoals geschiedenis en cookies, verwijderen zonder een spoor achter te laten.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = We hebben onlangs ook onze toewijding aan privacy en transparantie met betrekking tot gebruikersgegevens herhaald in onze meest recente <a { $attrs }>Privacyverklaring</a> waarin staat: “Bij { -brand-name-mozilla } geloven we dat privacy van fundamenteel belang is voor een gezond internet.”
+# Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = We hebben onlangs ook onze toewijding aan privacy en transparantie met betrekking tot gebruikersgegevens herhaald in onze meest recente <a { $attrs }>Privacyverklaring</a> waarin staat: “Bij Mozilla geloven we dat privacy van fundamenteel belang is voor een gezond internet.”
