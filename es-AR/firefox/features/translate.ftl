@@ -26,4 +26,6 @@ features-translate-if-you-are = Si ya estás usando { -brand-name-firefox }, pod
 features-translate-with-the-to = *Con la extensión To { -brand-name-google } Translate, ya podés traducir <a { $attrs }> estos idiomas </a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> ¡y más! </a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } es para todos
+# Outdated string
 features-translate-for-everyone = Firefox es para todos
