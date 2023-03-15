@@ -17,6 +17,9 @@ firefox-accounts-manage = 管理账户
 firefox-accounts-sign-in-to = 登陆 { -brand-name-firefox-account } 即可
 # Obsolete string
 firefox-accounts-meet-our-family-of = 认识我们一系列尊重隐私的产品。
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = <a href="{ $send }">发送标签页</a>到其他设备
 # Obsolete string
 firefox-accounts-see-if-youve-been = 看看您是否受数据外泄事件的影响。
 firefox-accounts-keep-your-passwords = 小巧便携、固若金汤的密码保险箱。
