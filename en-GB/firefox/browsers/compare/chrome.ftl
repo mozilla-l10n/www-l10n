@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = At { -brand-name-firefox }, we have a
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = At { -brand-name-firefox }, we have a huge number of dedicated users who appreciate our steadfast dedication to online privacy. For example, the latest version of { -brand-name-firefox } includes a feature called Enhanced Tracking Protection (ETP) which is turned on by default for all users worldwide. ETP blocks over 2,000 trackers, including social trackers from companies like { -brand-name-facebook }, { -brand-name-twitter }, and LinkedIn. It also has an integrated feature called <a { $attrs }>{ -brand-name-firefox-monitor }</a> that automatically notifies you if your password has been breached or needs to be updated. In addition to these protections, { -brand-name-firefox }'s Private Browsing mode automatically deletes your browsing information such as history and cookies, leaving no trace after you finish your session.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = We’ve also recently restated our commitment to privacy and transparency regarding user data in our most recent <a { $attrs }>Privacy Notice</a> that states, “At { -brand-name-mozilla }, we believe that privacy is fundamental to a healthy internet.”
+# Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = We’ve also recently restated our commitment to privacy and transparency regarding user data in our most recent <a { $attrs }>Privacy Notice</a> that states, “At Mozilla, we believe that privacy is fundamental to a healthy internet.”
