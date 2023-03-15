@@ -21,6 +21,7 @@ mobile-focus-scan-alt-text = สแกนรหัส QR เพื่อดา�
 # Outdated string
 mobile-focus-disappear-your-history = ทำให้ประวัติของคุณหายไป
 mobile-focus-delete-your-history = ลบประวัติของคุณ
+mobile-focus-take-private-mode = โหมดส่วนตัวที่ถูกยกระดับให้ดีขึ้น
 mobile-focus-tracking-protection = การป้องกันการติดตาม
 mobile-focus-see-it-all = เห็นสิ่งต่างๆ ได้เร็วขึ้น
 mobile-focus-made-by-mozilla = สร้างโดย { -brand-name-mozilla }

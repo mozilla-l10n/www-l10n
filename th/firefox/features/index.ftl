@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -47,6 +47,7 @@ features-index-compare-browsers = เปรียบเทียบเบรา�
 features-index-see-themes = ดูชุดตกแต่งยอดนิยม
 features-index-download-latest = ดาวน์โหลด { -brand-name-firefox } ล่าสุด
 features-index-fingerprinter-blocking = ปิดกั้นลายนิ้วมือดิจิทัล
+features-index-fingerprinting-is-a = การตรวจลายนิ้วมือเป็นการติดตามทางออนไลน์ชนิดหนึ่งที่รุกล้ำมากกว่าการติดตามแบบใช้คุกกี้ทั่วไป { -brand-name-firefox-browser } จึงปิดกั้นการตรวจลายนิ้วมือ
 features-index-block-fingerprinters = ปิดกั้นลายนิ้วมือดิจิทัล
 features-index-translate-the-web = แปลเว็บ
 features-index-translate-to-your = แปลเป็นภาษาของคุณ

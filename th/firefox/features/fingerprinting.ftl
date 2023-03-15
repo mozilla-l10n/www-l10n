@@ -7,6 +7,8 @@
 
 # page title
 features-fingerprinting-what-is-fingerprinting-title = การตรวจลายนิ้วมือคืออะไรและทำไมคุณถึงควรปิดกั้น
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = การตรวจลายนิ้วมือเป็นการติดตามทางออนไลน์ชนิดหนึ่งที่รุกล้ำมากกว่าการติดตามแบบใช้คุกกี้ทั่วไป { -brand-name-firefox-browser } จึงปิดกั้นการตรวจลายนิ้วมือ
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } ช่วยปิดกั้นการตรวจลายนิ้วมือได้
 features-fingerprinting-ditch-the-sticky = ทิ้งโฆษณาที่ชอบตามติดคุณไปทุกที่ด้วยตัวปิดกั้นการตรวจลายนิ้วมือในตัวของเบราว์เซอร์ { -brand-name-firefox }
 # description for the header image
