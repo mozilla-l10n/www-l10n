@@ -31,6 +31,10 @@ firefox-browsers-go-beyond-two-dimensions-and = ไปไกลกว่าส�
 firefox-browsers-build-sites-and-refine-your = สร้างเว็บไซต์และปรับแต่งโค้ดของคุณด้วย { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = เรียนรู้เพิ่มเติมเกี่ยวกับ { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = เข้าร่วม { -brand-name-firefox } และรับประโยชน์สูงสุดจากทุกผลิตภัณฑ์ - ทุกอุปกรณ์
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = มีบัญชีอยู่แล้ว? <a { $fxa_attr }>ลงชื่อเข้า</a>หรือ<a { $accounts_attr }>เรียนรู้เพิ่มเติม</a>เกี่ยวกับการเข้าร่วม { -brand-name-firefox }
 # Outdated string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
