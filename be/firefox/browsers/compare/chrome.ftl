@@ -17,6 +17,9 @@ compare-chrome-at-firefox-we-have-a-huge = У { -brand-name-firefox } вяліз
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = У { -brand-name-firefox } вялізная колькасць адданых карыстальнікаў, якія цэняць нашу непахісную прыхільнасць прыватнасці ў інтэрнэце. Напрыклад, апошняя версія { -brand-name-firefox } мае функцыю пад назвай Узмоцненая ахова ад сачэння, якая прадвызначана ўключана для ўсіх карыстальнікаў ва ўсім свеце. Ахова блакуе больш за 2000 трэкераў, уключаючы сацыяльныя трэкеры такіх кампаній, як { -brand-name-facebook }, { -brand-name-twitter } і LinkedIn. Яна таксама мае інтэграваную функцыю пад назвай <a { $attrs }>{ -brand-name-firefox-monitor }</a>, якая аўтаматычна паведамляе вам, калі ваш пароль быў узламаны або патрабуе абнаўлення. У дадатак да гэтых сродкаў абароны, рэжым прыватнага аглядання { -brand-name-firefox } аўтаматычна выдаляе вашу інфармацыю пра прагляд, такую як гісторыя і кукі, не пакідаючы ніякіх слядоў пасля завяршэння сеансу.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Таксама нядаўна мы пацвердзілі нашу прыхільнасць прыватнасці і празрыстасці ў адносінах да звестак карыстальнікаў у нашым апошнім <a { $attrs }>Паведамленні аб прыватнасці</a>, у якім сцвярджаецца: «Мы ў { -brand-name-mozilla } лічым, што прыватнасць з'яўляецца асновай здаровага Інтэрнэту».
 # Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
