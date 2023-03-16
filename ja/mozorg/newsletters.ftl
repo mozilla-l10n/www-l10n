@@ -250,6 +250,10 @@ newsletters-news-and-information = ウェブの健全性に関するニュース
 newsletters-student-reps = Student Reps
 
 # Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program-v2 = 2008 年～2011 年の大学の課程で、現在は廃止され、{ -brand-name-firefox } Student Ambassadors として再開されました。
+
+# Outdated String
+# Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = 2008 年～2011 年の大学の課程で、現在は廃止され、Firefox Student Ambassadors として再開されました。
 
 # Name for the newsletter in Newsletter subscription page
@@ -398,12 +402,6 @@ newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
 newsletters-updates-from-our-global = 現代の最も重要なスキル、デジタルの世界での読み書きと参加の技能に関する学習を支援する、Mozilla のグローバルコミュニティからの最新情報。
-
-# Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-labs = { -brand-name-mozilla-labs }
-
-# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
-newsletters-were-building-the-technology = Mozilla は未来のテクノロジーを創出しています。そのテクノロジーを紹介します。
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
