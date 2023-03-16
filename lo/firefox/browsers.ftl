@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = ເຂົ້າຮ່ວມ { -
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = ມີບັນຊີຢູ່ແລ້ວບໍ? <a { $fxa_attr }>ເຂົ້າສູ່ລະບົບ</a> ຫຼື <a { $accounts_attr }>ສຶກສາເພີ່ມເຕີມ</a> ກ່ຽວກັບການເຂົ້າຮ່ວມ { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = ມີບັນຊີຢູ່ແລ້ວບໍ? <a { $fxa_attr }>ເຂົ້າສູ່ລະບົບ</a> ຫຼື <a { $accounts_attr }>ສຶກສາເພີ່ມເຕີມ</a> ກ່ຽວກັບການເຂົ້າຮ່ວມ Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
