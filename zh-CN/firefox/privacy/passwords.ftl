@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -34,6 +34,7 @@ privacy-passwords-a-closed-lock = 在所有主流浏览器的地址栏中，紧�
 privacy-passwords-the-lock-means = 该锁表示您正在使用的网站已加密，因此即使有人在监视您在网络上的浏览活动（例如同一公共 WiFi 热点上的另一个人），他们也无法获取您的密码。{ -brand-name-firefox } 会在您将在未加密网站上输入密码时尝试警告您。
 privacy-passwords-a-padlock-with = 若锁上有一条斜线，则表明连接不安全。
 privacy-passwords-your-browser-also = 您的浏览器还可以帮助您随时了解网站是否可信赖，防止网络钓鱼。当您尝试访问已知的钓鱼网站时，{ -brand-name-firefox }（以及任何主流浏览器）会显示全屏警告。<strong>若要继续访问，请三思而后行！</strong>
+# Outdated string
 privacy-passwords-firefox-will = 若其为已知的钓鱼网站，Firefox 将显示警告信息而非网站。
 privacy-passwords-in-general-the = 一般来说，防范网络钓鱼的最佳方法是<strong>对收到的东西保持怀疑</strong>，不管是通过电子邮件、短信还是电话收到的。不要按别人给您发送的内容操作，而应直接访问相应网站。例如，一封电子邮件中说您需要重置 PayPal 密码，请不要点击邮件中的链接，而应自己在浏览器中输入 paypal.com。如果银行打来电话，请不要直接接通，之后再给他们回电。
 privacy-passwords-strength-in-diversity = 有差异，更安全
@@ -47,17 +48,18 @@ privacy-passwords-security-questions-my = 密保问题：我母亲的婚前姓�
 privacy-passwords-finally-most-websites = 最后，如果您忘记了密码，大多数网站都可以让您找回密码。通常，这些系统会要求您在重置密码之前回答一些“密保问题”。<strong>这些问题的答案必须和您的密码一样保密。</strong>否则，攻击者会猜到答案并重置您的密码。
 privacy-passwords-randomness-can-be = 随机性可能是一个问题，因为网站经常列出的密保问题也是人们比较了解您的事情，比如您的出生地、生日、亲戚的名字，或者可以从社交媒体等来源收集到的信息。好消息是，这些网站不在乎答案是否真实，您可以撒谎！但要有效地说谎：<strong>设置较长且无厘头的密保问题答案</strong>，就如密码一般复杂。
 privacy-passwords-get-help-from = 使用密码管理器协助管理
-privacy-passwords-now-all-of = 现在，所有这些听起来有点令人退却。人类的大脑并不善于想出长串的随机字母，更不用说还要记住。而这就是内置在 { -brand-name-firefox } 中的密码管理器的用武之地了。它会询问您是否要生成唯一、复杂的密码，然后将其安全存放。您可以随时在地址栏输入 about:logins 访问这些信息。
+privacy-passwords-now-all-of = 现在，所有这些听起来有点令人退却。人类的大脑并不善于想出长串的随机字母，更不用说还要记住。而这就是内置在 { -brand-name-firefox } 中的密码管理器的用武之地了。它会询问您是否要生成唯一、复杂的密码，然后将其安全保存。您可以随时在地址栏输入 about:logins 访问这些信息。
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = 当您使用 { -brand-name-firefox } 账户登录 { -brand-name-firefox } 时，您便可以跨所有设备同步，并在移动版 { -brand-name-firefox } 访问密码。在此处详细了解<a { $url_sumo-manager }>如何使用内置密码管理器</a>。
 privacy-passwords-twofactor-authentication-2fa = 双因子验证（2FA）
 privacy-passwords-2fa-is-a = 2FA 是提升安全性的好方法。设置新账户时，有些网站会为您提供在登录过程中添加“双因子验证”的选项。通常，这需要将您的电话号码链接到您的账户。因此，在输入密码后，系统会提示您输入直接发给您的安全代码。这样，即使黑客设法获得了您的密码，但他们没有您的手机，也就无法进入您的账户。
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = 例如，您的 { -brand-name-firefox } 账户可以使用 2FA 进行保护，<a { $url_sumo_2fa }>您可在此详细了解</a>。
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA 提供的安全性比只有密码要好得多，然而并不是每个网站都支持。您可以在 <a { $url_2fa }>https://twofactorauth.org</a> 上找到支持和不支持 2FA 的网站列表，以及要求后者添加支持的途径。
 privacy-passwords-strong-diverse-and = 高强度、差异性和多因子
 privacy-passwords-for-better-or = 不管是好是坏，在可预见的未来，我们都将继续使用密码来保护我们的在线账户。使用<strong>高强度密码</strong>，在不同的网站使用<strong>不同的密码</strong>，并使用<strong>密码管理器</strong>帮助您安全地记住它们。为密保问题设置<strong>随机的长答案</strong>（尽管答案并非真实），并在任何支持双因子验证的网站上<strong>使用双因子验证</strong>。
+# Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = 在现今的的互联网上，每天都有成千上万的密码被盗，账户被拿到黑市上交易。因此，确保自己的在线生活安全是值得的。当您使用 { -brand-name-firefox } 产品后，就不用再费心了。因为我们的所有产品均遵守我们的<a { $url_privacy_products }>隐私承诺</a>而构建。{ -brand-name-firefox } 始终以背后的非营利组织 <a { $url_about_manifesto }>Mozilla 的使命</a>为指导，致力于建立一个更好的互联网。
