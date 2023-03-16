@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
@@ -17,7 +17,7 @@ welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: เบ�
 welcome-page4-get-data-trackers-off-your = ไล่ตัวติดตามข้อมูลให้พ้นไปจากตัวคุณ
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
-welcome-page4-enhanced-tracking-protection = การป้องกันการติดตามที่มากขึ้น<a href="{ $privacy }">จะปิดกั้นตัวติดตาม 2000+ ตัว</a>ไม่ให้ตามรอยคุณระหว่างท่องเว็บ
+welcome-page4-enhanced-tracking-protection = การป้องกันการติดตามแบบพิเศษ<a href="{ $privacy }">จะปิดกั้นตัวติดตาม 2000+ ตัว</a>ไม่ให้ตามรอยคุณระหว่างท่องเว็บ
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = ไม่ทิ้งร่องรอยใด ๆ ไว้
 welcome-page4-automatically-clear-your-history = ล้างประวัติและคุกกี้ของคุณโดยอัตโนมัติด้วยโหมดการเรียกดูแบบส่วนตัว

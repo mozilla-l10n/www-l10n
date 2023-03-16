@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
@@ -12,7 +12,7 @@ welcome-page8-your-privacy-respected = ความเป็นส่วนต�
 welcome-page8-firefox-automatically-protects = { -brand-name-firefox } จะปกป้องความเป็นส่วนตัวของคุณโดยอัตโนมัติ เพื่อให้คุณใช้ชีวิตได้อย่างอิสระในทุกครั้งที่คุณออนไลน์
 welcome-page8-view-your-protection-report = ดูรายงานการป้องกันของคุณ
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-welcome-page8-enhanced-tracking-protection = การป้องกันการติดตามที่มากขึ้น
+welcome-page8-enhanced-tracking-protection = การป้องกันการติดตามแบบพิเศษ
 welcome-page8-automatically-block-sites = ปิดกั้นไซต์ไม่ให้ติดตามคุณในโลกอินเทอร์เน็ตโดยอัตโนมัติ
 welcome-page8-see-whats-blocked = ดูว่ามีอะไรถูกปิดกั้นบ้าง
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
