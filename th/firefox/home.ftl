@@ -12,6 +12,7 @@ firefox-home-meet-our-family-of = พบกับกลุ่มผลิตภ�
 firefox-home-get-trackers-off = ไล่ตัวติดตามมากกว่า 2,000 ตัวรวมถึง { -brand-name-facebook } ออกไป
 firefox-home-know-when-hackers-strike = รู้ว่าแฮกเกอร์โจมตีเมื่อใดและป้องกันไว้ก่อนล่วงหน้า
 firefox-home-start-getting-breach = เริ่มรับรายงานการรั่วไหล
+firefox-home-try-relay = ลองใช้ { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = รักษารหัสผ่านของคุณให้ปลอดภัยในทุกอุปกรณ์
 # Obsolete string
@@ -53,3 +54,4 @@ firefox-home-firefox-browser = { -brand-name-firefox-browser }
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
+firefox-home-firefox-relay = { -brand-name-firefox-relay }

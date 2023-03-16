@@ -15,6 +15,7 @@ browsers-mobile-get-the-mobile-browser-privacy = รับเบราว์เ�
 browsers-mobile-firefox-for-android = { -brand-name-firefox } สำหรับ { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } สำหรับ { -brand-name-ios }
 browsers-mobile-go-your-own-way = ท่องเว็บในแบบคุณเองด้วย { -brand-name-firefox } สำหรับมือถือ
+browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } รุ่นมือถือจะปรับตัวเข้ากับคุณและทำให้การดูแท็บที่เปิดอยู่ การค้นหาที่ผ่านมา และไซต์โปรดทั้งหมดของคุณง่ายขึ้นกว่าที่เคย
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = เปรียบเทียบเบราว์เซอร์มือถือ
 browsers-mobile-compare = เปรียบเทียบ
