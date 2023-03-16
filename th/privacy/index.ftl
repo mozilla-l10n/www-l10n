@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -26,7 +26,7 @@ privacy-index-get-involved = มีส่วนร่วม
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = ในฐานะที่เป็นโครงการโอเพ่นซอร์ส ความโปร่งใสและการเปิดกว้างเป็นส่วนสำคัญของหลักการก่อตั้งของ { -brand-name-mozilla } โค้ดเบสของเราเปิดและตรวจสอบได้ งานพัฒนาของเราเปิดกว้าง <a href="{ $report }">รายงานความโปร่งใส</a>ทุกสองปีของเรายังแสดงให้เห็นถึงความมุ่งมั่นของเราต่อหลักการเหล่านี้
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = หากต้องการตรวจสอบและแสดงความคิดเห็นเกี่ยวกับการเปลี่ยนแปลงที่เสนอในนโยบายส่วนบุคคลของเรา <a href="{ $group }"> สมัครสมาชิกกลุ่มการกำกับดูแลของ { -brand-name-mozilla }</a>
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
@@ -35,11 +35,11 @@ privacy-index-outdated-policies = นโยบายที่ล้าสมั�
 privacy-index-mozilla-websites-communications = เว็บไซต์ การสื่อสาร และคุกกี้ของ { -brand-name-mozilla }
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-relay = { -brand-name-firefox-relay }
 privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
 privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
-privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } สำหรับ { -brand-name-fire-tv }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
+privacy-index-hubs = { -brand-name-mozilla-hubs }
