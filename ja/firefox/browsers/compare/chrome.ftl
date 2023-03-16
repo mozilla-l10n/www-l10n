@@ -23,7 +23,13 @@ compare-chrome-at-firefox-we-have-a-huge-fallback = { -brand-name-firefox } に�
 
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = また、最近では、最新版の <a { $attrs }>Firefox のプライバシーに関する通知</a> にて、ユーザーデータに関するプライバシーと透明性の公約を改訂しました。「{ -brand-name-mozilla } は、プライバシーが健全なインターネットの基盤であると信じています」と記述しています。
+
+# Outdated string
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = また、最近では、最新版の <a { $attrs }>Firefox のプライバシーに関する通知</a> にて、ユーザーデータに関するプライバシーと透明性の公約を改訂しました。「Mozilla は、プライバシーが健全なインターネットの基盤であると信じています」と記述しています。
+
 compare-chrome-google-chrome-is-by-all-accounts = { -brand-name-google } { -brand-name-chrome } は間違いなくセキュリティの固いブラウザーです。搭載している { -brand-name-google } セーフ ブラウジングは、ユーザーが危険なサイトに移動するか危険なファイルをダウンロードしようとしたときに目立つ警告を表示してユーザーを保護します。
 
 # To "draw the line" is to establish a boundary that should not be crossed. Alternative: "it's up to you to decide whether or not or where your limit is with sharing things (...)".
