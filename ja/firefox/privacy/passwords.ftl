@@ -36,7 +36,12 @@ privacy-passwords-a-closed-lock = 主要ブラウザーでは、すべて URL �
 privacy-passwords-the-lock-means = この南京錠マークは、利用しているウェブサイトが暗号化されていることを意味し、ネットワーク上で誰かにブラウザーの使用状況を見られている場合 (公共の WiFi ホットスポットにアクセスしている他の者など) でも、他の者はパスワードを見ることができません。{ -brand-name-firefox } は、暗号化されていないウェブサイトにパスワードを入力しようとした場合に、警告します。
 privacy-passwords-a-padlock-with = 斜線が入った南京錠は、その接続が安全ではないことを示します。
 privacy-passwords-your-browser-also = ブラウザーもまた、ウェブサイトがどの程度信頼できるかに関する情報を得て、フィッシングから守る上で役立ちます。フィッシングサイトとして知られているウェブサイトに訪問しようとした場合、{ -brand-name-firefox } (とその他の主要ブラウザーすべて) により全画面表示の警告が表示されますので、<strong>そうしたウェブサイトを使用する際は、十分注意しましょう。</strong>
+
+privacy-passwords-firefox-will-v2 = そのウェブサイトがフィッシングウェブサイトとして確認されている場合、{ -brand-name-firefox } にはそのサイトではなく警告が表示されます。
+
+# Outdated string
 privacy-passwords-firefox-will = そのウェブサイトがフィッシングウェブサイトとして確認されている場合、Firefox にはそのサイトではなく警告が表示されます。
+
 privacy-passwords-in-general-the = 一般に、フィッシング防止の最善策は、メールやテキストメッセージ、スマートフォンにに表示されるもの全てについて、<strong>受け取った内容を疑ってかかることです。</strong>受信したメッセージに対応せず、ウェブサイトに直接訪問しましょう。たとえば、PayPal のパスワードをリセットする必要があるという内容をメールで受け取った場合、そのメールのリンクをクリックしてはなりません。その代わりに、自分で paypal.com と入力しましょう。銀行から電話があった場合は、銀行に電話をかけ直しましょう。
 privacy-passwords-strength-in-diversity = 多様性の長所
 privacy-passwords-the-secret-to = パスワードを推測や盗難、リセットされるのを防止するための秘訣は、無作為性を大幅に高めることです。攻撃者は、パスワードを推測する際に、通常 1) 「辞書」(多くの人々が使用する一般的なパスワードのリスト) を使用する、そして 2) 無作為に推測するという、2 種類の行動を取ります。<strong>パスワードは、文字数が多く、比較的無作為性の高いほど</strong>、そのいずれの推測法においても解読される可能性が低くなります。
@@ -66,6 +71,11 @@ privacy-passwords-2fa-provides-much = 2FA を利用すると、パスワード�
 privacy-passwords-strong-diverse-and = 強力・多種類・多要素
 privacy-passwords-for-better-or = 良かれ悪かれ、今後ともオンラインアカウントの保護にはパスワードが使用される見通しです。各ウェブサイトごとに<strong>個別</strong>の<strong>強力</strong>なパスワードを使用しましょう。また<strong>パスワードマネージャー</strong>を使用してパスワードを安全に記憶させましょう。セキュリティの質問は、<strong>文字数が多く、無作為</strong>な回答 (虚偽であったとしても同様です) を設定しましょう。また 2 要素認証対応のウェブサイトでは、<strong>2 要素認証を使用</strong>しましょう。
 
+#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
+#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
+privacy-passwords-in-todays-internet-v2 = 毎日何千件ものパスワードが盗まれ、アカウントが闇市場で取引されている現在のインターネットでは、オンライン生活の安全を維持する労力に大きな意義があります。{ -brand-name-firefox } 製品は、Mozilla の<a { $url_privacy_products }>プライバシー保護の約束</a>を守るために作成されていますので、そうした労力が軽減されます。また、{ -brand-name-firefox } は、それを支える非営利組織 <a { $url_about_manifesto }>{ -brand-name-mozilla } の、より良いインターネットの構築というミッション</a>を常にガイドラインとしています。
+
+# Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = 毎日何千件ものパスワードが盗まれ、アカウントが闇市場で取引されている現在のインターネットでは、オンライン生活の安全を維持する労力は報われます。{ -brand-name-firefox } 製品は、Mozilla の<a { $url_privacy_products }>プライバシー保護の約束</a>を守るために作成されていますので、そうした労力が軽減されます。また、{ -brand-name-firefox } は、それを支える非営利組織<a { $url_about_manifesto }> Mozilla の、より良いインターネットの構築というミッション</a>を常にガイドラインとしています。
