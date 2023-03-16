@@ -250,6 +250,10 @@ newsletters-news-and-information = Berita dan maklumat yang berkaitan dengan kes
 newsletters-student-reps = Wakil Pelajar
 
 # Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program-v2 = Program yang dikenali sebagai Former University dari 2008-2011, kini dihentikan dan dilancarkan semula sebagai program Duta Pelajar { -brand-name-firefox }.
+
+# Outdated String
+# Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Program yang dikenali sebagai Former University dari 2008-2011, kini dihentikan dan dilancarkan semula sebagai program Duta Pelajar Firefox.
 
 # Name for the newsletter in Newsletter subscription page
@@ -398,12 +402,6 @@ newsletters-mozilla-learning-network = Rangkaian Pembelajaran { -brand-name-mozi
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
 newsletters-updates-from-our-global = Kemas kini daripada komuniti global kami, membantu orang mempelajari kemahiran terpenting di era ini: keupayaan membaca, menulis dan mengambil bahagian dalam dunia digital.
-
-# Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-labs = { -brand-name-mozilla-labs }
-
-# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
-newsletters-were-building-the-technology = Kami sedang membina teknologi masa hadapan. Mari meneroka bersama kami.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }

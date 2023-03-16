@@ -250,6 +250,10 @@ newsletters-news-and-information = Neuigkeiten und Informationen zum Zustand des
 newsletters-student-reps = Student Reps
 
 # Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program-v2 = Ehemaliges Universitätsprogramm von 2008–2011. Mittlerweile eingestellt und als { -brand-name-firefox }-Studentenbotschafter-Programm neu aufgelegt.
+
+# Outdated String
+# Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Ehemaliges Universitätsprogramm von 2008-2011. Mittlerweile eingestellt und als Firefox-Studentenbotschafter-Programm neu aufgelegt.
 
 # Name for the newsletter in Newsletter subscription page
@@ -398,12 +402,6 @@ newsletters-mozilla-learning-network = { -brand-name-mozilla }-Lernnetzwerk
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
 newsletters-updates-from-our-global = Neuigkeiten aus unserer weltweiten Gemeinschaft, die Menschen beim Erlernen der wichtigsten Fähigkeiten unserer Zeit hilft: Lesen, Schreiben und Mitmachen in der digitalen Welt.
-
-# Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-labs = { -brand-name-mozilla-labs }
-
-# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
-newsletters-were-building-the-technology = Wir bauen die Technologie der Zukunft. Entdecken Sie sie mit uns.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
