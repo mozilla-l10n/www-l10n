@@ -11,10 +11,18 @@ mission-our-mission-is-to-ensure-the-internet = Misi kami ialah memastikan Inter
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Misi kami adalah untuk menggalakkan keterbukaan, inovasi & peluang di Internet.
 
+mission-at-mozilla-were-a-global-community-v2 = Di { -brand-name-mozilla }, kami merupakan komuniti global ahli teknologi, pemikir dan pembangun yang bekerjasama menjadikan internet mudah diakses, agar semua orang di dunia dapat menjadi penyumbang yang bermaklumat dan pencipta di internet.
+
+# Outdated string
 mission-at-mozilla-were-a-global-community = Di Mozilla, kami merupakan satu komuniti global ahli teknologi, pemikir dan pembangun yang bekerjasama menjadikan Internet hidup dan mudah diakses, agar semua orang di dunia dapat menjadi penyumbang yang bermaklumat dan pencipta di Internet.
 
 mission-we-believe-this-act-of-human-collaboration = Kami percaya tindakan kerjasama manusia melalui platform terbuka adalah penting demi pertumbuhan individu dan masa depan kita bersama.
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+mission-read-the-mozilla-manifesto-to-learn-v2 = Bacalah <a href="{ $url }">Manifesto { -brand-name-mozilla }</a> dan ketahui lebih banyak tentang nilai-nilai dan prinsip-prinsip yang memandu kami mengejar misi ini.
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn = Bacalah <a href="{ $url }">Manifesto Mozilla</a> dan ketahui lebih banyak tentang nilai-nilai dan prinsip-prinsip yang memandu kami mengejar misi.
@@ -35,4 +43,7 @@ mission-topics-include-support-products = Topik-topik termasuklah sokongan, prod
 
 mission-governance = Tadbir Urus
 
+mission-our-structure-organization-and-the-v2 = Struktur, organisasi dan komuniti { -brand-name-mozilla }
+
+# Outdated string
 mission-our-structure-organization-and-the = Struktur, organisasi, dan komuniti Mozilla yang lebih luas
