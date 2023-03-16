@@ -11,10 +11,18 @@ mission-our-mission-is-to-ensure-the-internet = हमारा मिशन ह
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = हमारा मिशन वेब पर खुलेपन, नवाचार और अवसर को बढ़ावा देना है।
 
+mission-at-mozilla-were-a-global-community-v2 = { -brand-name-mozilla } में, हम प्रौद्योगिकीविदों, विचारकों और बिल्डरों का एक विश्वव्यापी समूह हैं जो इंटरनेट को जीवंत और सुलभ बनाए रखने के लिए मिलकर काम कर रहे हैं, ताकि दुनिया भर के लोग वेब के जानकारीप्राप्त योगदानकर्ता और क्रिएटर बन सकें।
+
+# Outdated string
 mission-at-mozilla-were-a-global-community = Mozilla में, हम प्रौद्योगिकीविदों, विचारकों और बिल्डरों का एक विश्वव्यापी समूह हैं जो इंटरनेट को जीवित और सुलभ रखने के लिए मिलकर काम कर रहे हैं, ताकि पूरे विश्व में लोग वेब के जानकार योगदानकर्ता और निर्माता बन सकें।
 
 mission-we-believe-this-act-of-human-collaboration = हम मानते हैं कि एक खुले मंच पर मानव सहयोग का यह कार्य व्यक्तिगत विकास और हमारे सामूहिक भविष्य के लिए आवश्यक है।
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+mission-read-the-mozilla-manifesto-to-learn-v2 = हमारे मिशन को आगे बढ़ाने में मार्गदर्शन करने वाले मूल्यों और सिद्धांतों के बारे में और अधिक जानकारी के लिए <a href="{ $url }">{ -brand-name-mozilla } का घोषणापत्र</a> पढ़ें।
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn = हमारे मिशन के लक्ष्य का मार्गदर्शन करने वाले मूल्यों और सिद्धांतों के बारे में और अधिक जानकारी के लिए <a href="{ $url }">Mozilla का घोषणापत्र</a> पढ़ें।
@@ -35,4 +43,7 @@ mission-topics-include-support-products = विषयों में शाम
 
 mission-governance = प्रशासन
 
+mission-our-structure-organization-and-the-v2 = हमारी संरचना, संगठन और एक व्यापक { -brand-name-mozilla } समुदाय
+
+# Outdated string
 mission-our-structure-organization-and-the = हमारी संरचना, संगठन और एक व्यापक Mozilla समुदाय

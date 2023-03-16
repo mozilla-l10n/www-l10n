@@ -11,10 +11,18 @@ mission-our-mission-is-to-ensure-the-internet = Mozilla のミッションは、
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Mozilla のミッションは、ウェブの門戸開放とイノベーション、機会を推進することです。
 
+mission-at-mozilla-were-a-global-community-v2 = { -brand-name-mozilla } は、世界各地の人々が十分な情報が提供されているウェブ寄稿者やウェブクリエーターとなれるよう、インターネットを生き生きとした利用しやすい場として維持するために、技術者、思想家、ビルダーが協力するグローバルコミュニティです。
+
+# Outdated string
 mission-at-mozilla-were-a-global-community = Mozilla は、世界各地の人々が十分な情報が提供されているウェブ寄稿者やウェブクリエーターとなれるよう、インターネットを生き生きとした利用しやすい場として維持するために、技術者、思想家、ビルダーが協力するグローバルコミュニティです。
 
 mission-we-believe-this-act-of-human-collaboration = Mozilla では、オープンプラットフォームにおける人々の共同作業は、個人の成長や Mozilla 全体としての将来性に不可欠だと考えています。
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+mission-read-the-mozilla-manifesto-to-learn-v2 = Mozilla のミッションの追求の指針となる価値観や原則については、<a href="{ $url }">{ -brand-name-mozilla } のマニフェスト</a>をご覧ください。
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn = Mozilla のミッションの追求の指針となる価値観や原則については、<a href="{ $url }">Mozilla のマニフェスト</a>をご覧ください。
@@ -35,4 +43,7 @@ mission-topics-include-support-products = サポートや製品、テクノロ�
 
 mission-governance = ガバナンス
 
+mission-our-structure-organization-and-the-v2 = Mozilla の組織構成と、より広範囲の { -brand-name-mozilla } コミュニティ
+
+# Outdated string
 mission-our-structure-organization-and-the = Mozilla の組織構成と、より広範囲の Mozilla コミュニティ

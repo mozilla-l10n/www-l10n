@@ -11,10 +11,18 @@ mission-our-mission-is-to-ensure-the-internet = Notre mission est de s’assurer
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Notre mission est de promouvoir l’ouverture, l’innovation et la bonne santé du Web.
 
+mission-at-mozilla-were-a-global-community-v2 = { -brand-name-mozilla } est une communauté mondiale de technophiles, de penseurs et penseuses et de concepteurs et conceptrices travaillant ensemble afin de conserver un Internet intact et accessible, pour que tout le monde soit en mesure de l’utiliser pleinement et de l’enrichir.
+
+# Outdated string
 mission-at-mozilla-were-a-global-community = Mozilla est une communauté mondiale de technophiles, de penseurs et d’artisans travaillant ensemble afin de conserver un Internet intact et accessible à tous pour que chacun soit en mesure de l’utiliser pleinement et de l’enrichir.
 
 mission-we-believe-this-act-of-human-collaboration = Nous croyons que collaborer ensemble sur une plateforme ouverte est fondamental, tant au niveau de l’épanouissement individuel que du bien collectif.
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+mission-read-the-mozilla-manifesto-to-learn-v2 = Lisez le <a href="{ $url }">Manifeste de { -brand-name-mozilla }</a> afin de découvrir les valeurs et les principes qui sont au cœur de notre mission.
+
+# Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn = Lisez le <a href="{ $url }">Manifeste de Mozilla</a> afin de découvrir les valeurs et les principes qui sont au cœur de notre mission.
@@ -35,4 +43,7 @@ mission-topics-include-support-products = Nous y parlons d’assistance aux util
 
 mission-governance = Gouvernance
 
+mission-our-structure-organization-and-the-v2 = Notre structure, son organisation et la vaste communauté { -brand-name-mozilla }
+
+# Outdated string
 mission-our-structure-organization-and-the = Notre structure, son organisation et la communauté Mozilla
