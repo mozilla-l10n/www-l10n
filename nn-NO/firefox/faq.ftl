@@ -36,12 +36,14 @@ is-firefox-safe = Er { -brand-name-firefox } trygg?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = Sel { -brand-name-firefox } dine personlege data?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Kvifor er { -brand-name-firefox } så treg?
 is-firefox-chromium = Er { -brand-name-firefox } basert på { -brand-name-chromium }?
+does-firefox-use = Brukar { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
