@@ -10,6 +10,7 @@ mobile-compare-features-strong = <strong>Funksjonar</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Synkronisering</strong>
 mobile-compare-syncing = Synkroniserer
+mobile-compare-conclusion = Konklusjon
 mobile-compare-search-engine-options = Innstillingar for søkjemotor
 mobile-compare-text-to-speech = Tekst til tale
 mobile-compare-reader-mode = Lesemodus
@@ -26,6 +27,7 @@ mobile-compare-news-feed = Nyheitskjelde
 mobile-compare-collections = Samlingar
 mobile-compare-inapp-vpn = VPN i appen
 mobile-compare-shopping = Shopping
+mobile-compare-mobile-os-availability = Mobil OS-tilgjengelegheit
 mobile-compare-password-management = Passordhandsaming
 mobile-compare-primary-password = Hovudpassord
 mobile-compare-get-firefox-for-mobile = Få { -brand-name-firefox } for mobil
