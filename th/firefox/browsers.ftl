@@ -12,7 +12,7 @@ firefox-browsers-get-the-browsers-that-put = รับเบราว์เซ�
 # HTML page description
 firefox-browsers-page-desc = เลือกจากรุ่นเดสก์ท็อป, { -brand-name-ios }, { -brand-name-android } หรือให้เราส่งลิงก์ดาวน์โหลดบนมือถือให้คุณทางอีเมล
 # Outdated string
-firefox-browsers-get-the-privacy-you-deserve = รับความเป็นส่วนตัวที่คุณควรได้รับ การป้องกันการติดตามที่มากขึ้นอัตโนมัติใน { -brand-name-firefox } ทุกตัว
+firefox-browsers-get-the-privacy-you-deserve = รับความเป็นส่วนตัวในแบบที่คุณคู่ควร การป้องกันการติดตามแบบพิเศษจะถูกเปิดใช้อัตโนมัติในเบราว์เซอร์ { -brand-name-firefox } ทุกตัว
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = รับ<strong>เบราว์เซอร์</strong>ที่ให้ความสำคัญกับความเป็นส่วนตัวของคุณ — เป็นอันดับแรกเสมอ
 firefox-browsers-desktop = เดสก์ท็อป
@@ -31,6 +31,7 @@ firefox-browsers-go-beyond-two-dimensions-and = ไปไกลกว่าส�
 firefox-browsers-build-sites-and-refine-your = สร้างเว็บไซต์และปรับแต่งโค้ดของคุณด้วย { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = เรียนรู้เพิ่มเติมเกี่ยวกับ { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = เข้าร่วม { -brand-name-firefox } และรับประโยชน์สูงสุดจากทุกผลิตภัณฑ์ - ทุกอุปกรณ์
+# Outdated string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

@@ -38,10 +38,9 @@ firefox-desktop-download-blocks-social-trackers = ปิดกั้นตัว
 firefox-desktop-download-os-availability = ความพร้อมใช้งานของระบบปฏิบัติการ
 firefox-desktop-download-in-browser-screenshot = เครื่องมือจับภาพหน้าจอในเบราว์เซอร์
 firefox-desktop-download-primary-password = รหัสผ่านหลัก
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = รักชีวิตออนไลน์ของคุณ
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = นี้คืออินเทอร์เน็ตของคุณ ลงสีมันตามที่ต้องการด้วยเครื่องมือ ชุดตกแต่งและส่วนขยายนับพัน { -brand-name-firefox } เป็นเบราว์เซอร์ทางเลือกตัวดั้งเดิมที่ให้ความสำคัญผู้คนมาก่อนผลกำไร
 # Obsolete string
 firefox-desktop-download-master-password = รหัสผ่านหลัก
@@ -115,7 +114,7 @@ firefox-desktop-download-download-this-browser = <a { $attrs } >ดาวน์�
 firefox-desktop-download-sync-your-devices = ซิงค์อุปกรณ์ของคุณ
 firefox-desktop-download-screenshots = ภาพหน้าจอ
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
-firefox-desktop-download-enhanced-tracking-protection = การป้องกันการติดตามที่มากขึ้น (ETP)
+firefox-desktop-download-enhanced-tracking-protection = การป้องกันการติดตามแบบพิเศษ (ETP)
 firefox-desktop-download-from-watching-a = ไม่ว่าจะดูบทช่วยสอนเว็บ หรือติดตามทีมโปรดของคุณ วิดีโอของคุณจะตามคุณไปขณะที่คุณทำงานหลายงานพร้อมกัน
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = รับ{ -brand-name-firefox-browser } สำหรับ <strong>{ -brand-name-android }</strong>

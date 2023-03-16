@@ -27,6 +27,7 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = เราทำงานอ
 firefox-privacy-hub-data-security-is-complicated = การรักษาความปลอดภัยให้กับข้อมูลนั้นเป็นเรื่องที่ค่อนข้างซับซ้อน ดังนั้น เราจึงใช้วิธีพิเศษเพื่อจัดประเภทของข้อมูลที่เรามี รักษากฎสำหรับการเก็บและปกป้องข้อมูลแต่ละชนิดของเรา และทบทวนขั้นตอนการทำงานของเราเสมอ เราลงทุนและยินยอมที่จะให้ความสำคัญกับความเป็นส่วนตัวของคุณเป็นอันดับแรก นอกจากนั้น เรายังสอนวิธีการปกป้องข้อมูลให้กับบริษัทอื่น ๆ อีกด้วย
 firefox-privacy-hub-no-secrets = ไม่มีความลับ
 firefox-privacy-hub-youll-always-know-where-you = คุณสามารถทราบได้เสมอว่าเราทำอะไรบ้าง
+# Obsolete string
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
@@ -45,11 +46,11 @@ firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = ปิดกั้นตัวติดตามกว่า 2,000 ตัวโดยอัตโนมัติ
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-privacy-hub-tracking-has-become-an = การติดตามได้กลายมาเป็นภัยคุกคามที่ระบาดในสังคมออนไลน์ บริษัทต่าง ๆ ติดตามทุกย่างก้าวในทุกครั้งที่คลิกและซื้อของ และรวบรวมข้อมูลต่าง ๆ เพื่อใช้ในการคาดการณ์และมีอิทธิพลต่อสิ่งที่คุณจะทำต่อไป เราคิดว่านั่นเป็นการบุกรุกความเป็นส่วนตัวของคุณอย่างร้ายแรง จึงเป็นสาเหตุที่เบราว์เซอร์ { -brand-name-firefox } สำหรับมือถือและเดสก์ท็อปเปิดการป้องกันการติดตามที่มากขึ้นตามค่าเริ่มต้น
+firefox-privacy-hub-tracking-has-become-an = การติดตามได้กลายมาเป็นภัยคุกคามที่ระบาดในสังคมออนไลน์ บริษัทต่าง ๆ ติดตามทุกย่างก้าวในทุกครั้งที่คลิกและซื้อของ และรวบรวมข้อมูลต่าง ๆ เพื่อใช้ในการคาดการณ์และมีอิทธิพลต่อสิ่งที่คุณจะทำต่อไป เราคิดว่านั่นเป็นการบุกรุกความเป็นส่วนตัวของคุณอย่างร้ายแรง จึงเป็นสาเหตุที่เบราว์เซอร์ { -brand-name-firefox } สำหรับมือถือและเดสก์ท็อปเปิดการป้องกันการติดตามแบบพิเศษตามค่าเริ่มต้น
 firefox-privacy-hub-if-you-want-to-see-what = หากคุณต้องการดูว่า { -brand-name-firefox } ปิดกั้นอะไรให้คุณบ้าง ให้เยี่ยมชมหน้านี้บนเบราว์เซอร์เดสก์ท็อป { -brand-name-firefox } ของคุณ
 firefox-privacy-hub-see-what-firefox-has-blocked = ดูว่า { -brand-name-firefox } ปิดกั้นอะไรให้คุณบ้าง
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-privacy-hub-get-enhanced-tracking-protection = รับการป้องกันการติดตามที่มากขึ้น
+firefox-privacy-hub-get-enhanced-tracking-protection = รับการป้องกันการติดตามแบบพิเศษ
 firefox-privacy-hub-download-the-firefox-browser = ดาวน์โหลดเบราว์เซอร์ { -brand-name-firefox }
 firefox-privacy-hub-update-your-firefox-browser = อัปเดตเบราว์เซอร์ { -brand-name-firefox } ของคุณ
 firefox-privacy-hub-invisible-to-the-top-trackers = ซ่อนไม่ให้ตัวติดตามยอดนิยมมองเห็น

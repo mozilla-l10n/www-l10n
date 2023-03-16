@@ -16,7 +16,7 @@ firefox-enterprise-get-firefox-for-your-enterprise = รับ { -brand-name-fir
 firefox-enterprise-get-the-firefox-extended-support = รับเบราว์เซอร์<a href="{ $url }">{ -brand-name-firefox-extended-support-release } หรือ Rapid Release</a> สำหรับการรักษาความปลอดภัยของข้อมูลและการปกป้องข้อมูลแบบครอบคลุม
 firefox-enterprise-unmatched-data-protection = ปกป้องข้อมูลชนิดต่าง ๆ บนจังหวะการออกรุ่นที่เหมาะกับคุณ
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-enterprise-the-firefox-browser-is-open = เบราว์เซอร์ { -brand-name-firefox } เป็นซอฟต์แวร์โอเพนซอร์สและมีการป้องกันการติดตามที่มากขึ้น ซึ่งเป็นส่วนหนึ่งของความมุ่งมั่นในการปกป้องข้อมูลที่มีมายาวนานของเรา
+firefox-enterprise-the-firefox-browser-is-open = เบราว์เซอร์ { -brand-name-firefox } เป็นซอฟต์แวร์โอเพนซอร์สและมีการป้องกันการติดตามแบบพิเศษ ซึ่งเป็นส่วนหนึ่งของความมุ่งมั่นในการปกป้องข้อมูลที่มีมายาวนานของเรา
 firefox-enterprise-your-data-stays-your-business = ข้อมูลของคุณจะยังอยู่ในธุรกิจของคุณ
 firefox-enterprise-deploy-when-and-how-you-want = ปรับใช้เมื่อใดก็ได้และอย่างไรก็ได้ที่คุณต้องการ
 firefox-enterprise-with-install-packages-and = ด้วยแพคเกจการติดตั้ง รวมถึงนโยบายกลุ่มและฟีเจอร์ต่าง ๆ ทำให้การปรับใช้เร็วขึ้นและยืดหยุ่นขึ้นกว่าที่เคยเป็นทั้งใน { -brand-name-windows } และ { -brand-name-mac }
