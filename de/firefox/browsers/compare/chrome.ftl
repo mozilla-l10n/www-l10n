@@ -23,7 +23,13 @@ compare-chrome-at-firefox-we-have-a-huge-fallback = Bei { -brand-name-firefox } 
 
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Wir sehen es als unsere Verpflichtung, die privaten Daten unserer Nutzer auch privat zu lassen und über ihre Nutzung transparent zu kommunizieren. Das haben wir auch schwarz auf weiß in unserer <a { $attrs }>Datenschutzrichtlinie</a> festgehalten: „Wir bei { -brand-name-mozilla } glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.“
+
+# Outdated string
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Wir sehen es als unsere Verpflichtung, die privaten Daten unserer Nutzer auch privat zu lassen und über ihre Nutzung transparent zu kommunizieren. Das haben wir auch schwarz auf weiß in unserer <a { $attrs }>Datenschutzrichtlinie</a> festgehalten: „Wir bei Mozilla glauben, dass Datenschutz für ein gesundes Internet von grundlegender Bedeutung ist.“
+
 compare-chrome-google-chrome-is-by-all-accounts = { -brand-name-google } { -brand-name-chrome } ist allem Anschein nach ein sicherer Browser. Das zeigen Features wie { -brand-name-google } Safe Browsing, das User mit einem unübersehbaren Hinweis darüber informiert, wenn sie eine gefährliche Seite oder gefährliche Dateien öffnen wollen.
 
 # To "draw the line" is to establish a boundary that should not be crossed. Alternative: "it's up to you to decide whether or not or where your limit is with sharing things (...)".

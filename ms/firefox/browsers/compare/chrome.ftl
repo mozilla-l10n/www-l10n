@@ -23,7 +23,13 @@ compare-chrome-at-firefox-we-have-a-huge-fallback = Di { -brand-name-firefox }, 
 
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Baru-baru ini, kami juga telah menyatakan semula komitmen kami terhadap privasi dan ketelusan berkenaan data pengguna dalam <a { $attrs }>Notis Privasi</a> terbaru kami yang menyatakan, &quot;Di { -brand-name-mozilla }, kami percaya bahawa privasi adalah asas kepada internet yang sihat.&quot;
+
+# Outdated string
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Baru-baru ini, kami juga telah menyatakan semula komitmen kami terhadap privasi dan ketelusan berkenaan data pengguna dalam <a { $attrs }>Notis Privasi</a> terbaru kami yang menyatakan, &quot;Di Mozilla, kami percaya bahawa privasi adalah asas kepada internet yang sihat.&quot;
+
 compare-chrome-google-chrome-is-by-all-accounts = { -brand-name-google } { -brand-name-chrome }, menurut semua laporan yang ada, merupakan pelayar yang selamat, dengan ciri seperti Pelayaran Selamat { -brand-name-google }, yang membantu melindungi pengguna dengan memaparkan peringatan yang mustahil untuk tidak dilihat ketika mereka cuba menavigasi ke laman web berbahaya atau memuat turun fail berbahaya.
 
 # To "draw the line" is to establish a boundary that should not be crossed. Alternative: "it's up to you to decide whether or not or where your limit is with sharing things (...)".
