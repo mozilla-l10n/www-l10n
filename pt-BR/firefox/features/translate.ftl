@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
@@ -26,4 +26,6 @@ features-translate-if-you-are = Se você já usa o { -brand-name-firefox }, não
 features-translate-with-the-to = *Com a extensão <i>Para o { -brand-name-google } Tradutor</i>, atualmente você pode traduzir <a { $attrs }>esses idiomas</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }>e muito mais!</a>
+features-translate-for-everyone-v2 = O { -brand-name-firefox } é para todos
+# Outdated string
 features-translate-for-everyone = O Firefox é para todos
