@@ -18,6 +18,12 @@ firefox-accounts-manage = ຈັດການບັນຊີຂອງທ່ານ
 firefox-accounts-sign-in-to = ເຂົ້າສູ່ລະບົບ { -brand-name-firefox-account } ຂອງທ່ານເພື່ອ:
 # Obsolete string
 firefox-accounts-meet-our-family-of = ພົບກັບຕະກູນຜະລິດຕະພັນທີໃຫ້ຄວາມສຳຄັນເລື່ອງຄວາມເປັນສ່ວນເປັນອັນດັບທຳອິດ.
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = <a href="{ $send }">ສົ່ງແຖບ</a> ໄປຫາອຸປະກອນອື່ນ
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">ບັນທຶກ ແລະຊິ້ງຂໍ້ມູນລະຫັດຜ່ານ</a>
 # Obsolete string
 firefox-accounts-see-if-youve-been = ເບິ່ງວ່າທ່ານໄດ້ມີສ່ວນຮ່ວມໃນການລະເມີດຂໍ້ມູນອອນໄລນ໌ຫຼືບໍ່.
 firefox-accounts-keep-your-passwords = ຮັກສາລະຫັດຜ່ານຂອງທ່ານໃຫ້ຖືກປ້ອງກັນ ແລະ ພົກພາໄດ້ສະດວກ.
