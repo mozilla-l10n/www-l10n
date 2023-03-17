@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox } ha un enorme 
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = { -brand-name-firefox } ha un enorme numero de usatores loyal que apprecia nostre constante devotion al vita private. Per exemplo, le ultime version de { -brand-name-firefox } include un function que se appella Protection anti-traciamento reinfortiate (ETP) que es activate per predefinition pro tote le usatores in tote le mundo. ETP bloca plus de 2000 traciatores, incluse le traciatores social de companias como { -brand-name-facebook }, { -brand-name-twitter } e LinkedIn. Illo etiam ha un function integrate que se appella <a { $attrs }>{ -brand-name-firefox-monitor }</a> que te notifica automaticamente si tu contrasigno ha essite violate o debe esser actualisate. In addition a iste protectiones, { -brand-name-firefox } ha un modo de navigation private que elimina automaticamente tu informationes de navigation como chronologia e cookies, sin lassar alcun tracia post finir le session.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Nos etiam ha recentemente reaffirmate nostre dedication al confidentialitate e al transparentia concernente le datos del usatores in nostre <a { $attrs }>aviso de confidentialitate</a> recente, que affirma: "Nos a { -brand-name-mozilla } crede que le confidentialitate es fundamental pro le bon sanitate de internet".
+# Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Nos etiam ha recentemente reaffirmate nostre dedication al vita private e al transparentia concernente le datos del usatores in nostre <a { $attrs }>aviso de confidentialitate</a> recente, que affirma: "Nos a Mozilla crede que le vita private es fundamental pro le bon sanitate de internet".
