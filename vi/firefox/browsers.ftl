@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = Tham gia { -brand-name-firefox 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Đã có tài khoản? <a { $fxa_attr }>Đăng nhập</a> hoặc <a { $accounts_attr }>tìm hiểu thêm</a> về việc tham gia { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = Đã có một tài khoản? <a { $fxa_attr }>Đăng nhập</a> hoặc <a { $accounts_attr }>tìm hiểu thêm</a> về việc tham gia Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

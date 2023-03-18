@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = Tại { -brand-name-firefox }, chúng
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = Tại { -brand-name-firefox }, chúng tôi có rất nhiều người dùng tận tâm đánh giá cao sự cống hiến kiên định của chúng tôi cho quyền riêng tư trực tuyến. Ví dụ: phiên bản mới nhất của { -brand-name-firefox } bao gồm một tính năng có tên là trình chống theo dõi nâng cao (ETP) được bật theo mặc định cho tất cả người dùng trên toàn thế giới. Nó chặn hơn 2.000 trình theo dõi, bao gồm cả trình theo dõi xã hội từ các công ty như { -brand-name-facebook }, { -brand-name-twitter } và LinkedIn. Nó cũng có một tính năng tích hợp có tên <a { $attrs }>{ -brand-name-firefox-monitor }</a> tự động thông báo cho bạn nếu mật khẩu của bạn bị rò rỉ hoặc cần được cập nhật. Ngoài các biện pháp bảo vệ này, chế độ duyệt web riêng tư trong { -brand-name-firefox } sẽ tự động xóa thông tin duyệt web của bạn như lịch sử và cookie, không để lại dấu vết sau khi bạn kết thúc phiên của mình.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Gần đây, chúng tôi cũng đã nhắc lại cam kết của mình về quyền riêng tư và tính minh bạch liên quan đến dữ liệu người dùng trong <a { $attrs }>thông báo về quyền riêng tư</a> gần đây nhất của chúng tôi, trong đó nêu rõ: “Tại { -brand-name-mozilla }, chúng tôi tin rằng quyền riêng tư là nền tảng cho một mạng internet lành mạnh.”
+# Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Gần đây, chúng tôi cũng đã cam kết về quyền riêng tư và minh bạch về dữ liệu người dùng trong <a { $attrs }>thông báo bảo mật</a> gần đây nhất của chúng tôi, “Tại Mozilla, chúng tôi tin rằng quyền riêng tư là nền tảng của một mạng internet lành mạnh”.

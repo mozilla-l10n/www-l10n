@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
@@ -26,4 +26,6 @@ features-translate-if-you-are = Nếu bạn đã sử dụng { -brand-name-firef
 features-translate-with-the-to = *Với tiện ích To { -brand-name-google } Translate, bạn hiện có thể dịch <a { $attrs }>những ngôn ngữ này</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> và hơn thế nữa!</a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } dành cho tất cả mọi người
+# Outdated string
 features-translate-for-everyone = Firefox dành cho tất cả mọi người

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -34,6 +34,8 @@ privacy-passwords-a-closed-lock = Một ổ khóa đóng sẽ xuất hiện ngay
 privacy-passwords-the-lock-means = Khóa có nghĩa là trang web bạn đang sử dụng được mã hóa, vì vậy ngay cả khi ai đó đang theo dõi quá trình duyệt web của bạn trên mạng (như một người khác trên điểm phát sóng WiFi công cộng), họ sẽ không thể xem mật khẩu của bạn. { -brand-name-firefox } sẽ cố gắng cảnh báo bạn khi bạn sắp nhập mật khẩu của mình trên một trang web không được mã hóa.
 privacy-passwords-a-padlock-with = Ổ khóa bị gạch chéo cho biết kết nối không an toàn.
 privacy-passwords-your-browser-also = Trình duyệt của bạn cũng giúp bạn được thông báo về mức độ đáng tin cậy của các trang web để giúp bạn an toàn khỏi bị lừa đảo. Mặt khác, khi bạn cố gắng truy cập một trang web được biết là trang web lừa đảo, { -brand-name-firefox } (và bất kỳ trình duyệt chính nào) sẽ hiển thị cảnh báo toàn màn hình — <strong>chú ý và suy nghĩ kỹ về việc truy cập trang web đó!</strong>
+privacy-passwords-firefox-will-v2 = { -brand-name-firefox } sẽ hiển thị cảnh báo thay vì trang web nếu nó được biết là trang web lừa đảo.
+# Outdated string
 privacy-passwords-firefox-will = Firefox sẽ hiển thị cảnh báo thay vì trang web nếu được biết là trang web lừa đảo.
 privacy-passwords-in-general-the = Nói chung, cách bảo vệ tốt nhất chống lại lừa đảo là <strong>nghi ngờ về những gì bạn nhận được</strong>, cho dù nó hiển thị trong email, tin nhắn văn bản hay trên điện thoại. Thay vì thực hiện hành động trên những gì ai đó đã gửi cho bạn, hãy truy cập trực tiếp vào trang web. Ví dụ: nếu email cho biết bạn cần đặt lại mật khẩu PayPal, đừng nhấp vào liên kết. Tự nhập paypal.com. Nếu ngân hàng gọi, hãy gọi lại cho họ.
 privacy-passwords-strength-in-diversity = Sức mạnh của sự đa dạng
@@ -54,10 +56,14 @@ privacy-passwords-twofactor-authentication-2fa = Xác thực hai yếu tố (2FA
 privacy-passwords-2fa-is-a = 2FA là một cách tuyệt vời để nâng cấp bảo mật của bạn. Khi thiết lập tài khoản mới, một số trang web sẽ cung cấp cho bạn tùy chọn để thêm “yếu tố thứ hai” vào quá trình đăng nhập. Thông thường, điều này có nghĩa là liên kết số điện thoại với tài khoản của bạn, vì vậy sau khi nhập mật khẩu, bạn sẽ được nhắc nhập mã bảo mật được nhắn tin trực tiếp cho bạn. Bằng cách này, nếu tin tặc đã lấy được mật khẩu của bạn, họ vẫn không thể truy cập vào tài khoản của bạn vì họ không có điện thoại của bạn.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Tài khoản { -brand-name-firefox } của bạn, chẳng hạn, có thể được bảo vệ bằng 2FA, <a { $url_sumo_2fa }>mà bạn có thể tìm hiểu thêm tại đây</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA cung cấp khả năng bảo mật tốt hơn nhiều so với mật khẩu, nhưng không phải trang web nào cũng hỗ trợ. Bạn có thể tìm thấy danh sách các trang web hỗ trợ 2FA tại <a { $url_2fa }>https://twofactorauth.org</a>, cũng như danh sách các trang web không hỗ trợ 2FA và các cách bạn có thể yêu cầu họ thêm hỗ trợ.
 privacy-passwords-strong-diverse-and = Mạnh mẽ, đa dạng và đa yếu tố
 privacy-passwords-for-better-or = Dù tốt hơn hay tệ hơn, chúng tôi sẽ sử dụng mật khẩu để bảo vệ tài khoản trực tuyến của bạn trong tương lai gần. Sử dụng mật khẩu <strong>mạnh</strong> và <strong>khác nhau cho mỗi trang web</strong>, và sử dụng một <strong>trình quản lý mật khẩu</strong> để giúp bạn ghi nhớ chúng một cách an toàn. Đặt <strong>câu trả lời dài, ngẫu nhiên</strong> cho các câu hỏi bảo mật (ngay cả khi chúng không phải là sự thật). Và <strong>sử dụng xác thực hai yếu tố</strong> trên bất kỳ trang web nào hỗ trợ nó.
+#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
+#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
+privacy-passwords-in-todays-internet-v2 = Trong internet ngày nay, nơi hàng nghìn mật khẩu bị đánh cắp mỗi ngày và tài khoản được giao dịch trên thị trường chợ đen, bạn nên nỗ lực để giữ an toàn cho cuộc sống trực tuyến của mình. Khi bạn sử dụng các sản phẩm { -brand-name-firefox }, một phần nỗ lực của bạn sẽ không thành công, bởi vì tất cả các sản phẩm của chúng tôi được xây dựng để duy trì <a { $url_privacy_products }>lời hứa về quyền riêng tư</a> của chúng tôi. Và { -brand-name-firefox } luôn được hướng dẫn bởi <a { $url_about_manifesto }>sứ mệnh của { -brand-name-mozilla }</a>, phi lợi nhuận mà chúng tôi ủng hộ để xây dựng một mạng internet tốt hơn.
+# Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = Trong internet ngày nay, nơi hàng nghìn mật khẩu bị đánh cắp mỗi ngày và tài khoản được giao dịch trên thị trường chợ đen, bạn nên nỗ lực để giữ an toàn cho cuộc sống trực tuyến của mình. Khi bạn sử dụng các sản phẩm { -brand-name-firefox }, một phần nỗ lực của bạn sẽ không thành công, bởi vì tất cả các sản phẩm của chúng tôi được xây dựng để duy trì <a { $url_privacy_products }>lời hứa về quyền riêng tư</a> của chúng tôi. Và { -brand-name-firefox } luôn được hướng dẫn bởi <a { $url_about_manifesto }>sứ mệnh của Mozilla</a>, phi lợi nhuận mà chúng tôi ủng hộ để xây dựng một mạng internet tốt hơn.
