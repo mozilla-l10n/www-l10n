@@ -13,6 +13,9 @@ mission-at-mozilla-were-a-global-community-v2 = A { -brand-name-mozilla }, nos e
 # Outdated string
 mission-at-mozilla-were-a-global-community = Mozilla es un communitate global de technologos, pensatores e constructores que collabora pro mantener Internet vive e accessibile, de sorta que le gente in tote le mundo pote esser contributores e creatores ben informate del Web.
 mission-we-believe-this-act-of-human-collaboration = Nos crede que iste acto de collaboration human a transverso un platteforma aperte es essential pro le crescentia individual e pro nostre futuro collective.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+mission-read-the-mozilla-manifesto-to-learn-v2 = Lege le <a href="{ $url }">{ -brand-name-mozilla } Manifesto</a> pro apprender ancora plus re le valores e le principios que guida nostre aspirationes.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
