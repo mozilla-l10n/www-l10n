@@ -12,7 +12,10 @@ firefox-accounts-securely-sync-your = Synchronisa con securitate tu contrasignos
 firefox-accounts-enter-your-email-address = Insere tu adresse de e-mail pro comenciar.
 firefox-accounts-already-have-an-account = Ha tu jam un conto?
 firefox-accounts-sign-in = Aperir session
+firefox-accounts-already = Tu ha jam un { -brand-name-firefox-account }. Congratulationes!
 firefox-accounts-manage = Gere tu conto
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = Accede a tu { -brand-name-firefox-account }:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Discoperi nostre familia de productos que respecta e defende tu vita private.
 firefox-accounts-get-email-alerts = Recipe avisos email quando tu informationes appare in un note violation de datos
