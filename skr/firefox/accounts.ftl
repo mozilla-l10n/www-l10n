@@ -12,9 +12,15 @@ firefox-accounts-securely-sync-your = اپݨے پاس ورڈز، نشانیاں 
 firefox-accounts-enter-your-email-address = شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو۔
 firefox-accounts-already-have-an-account = بھلا پہلے ہی ہک کھاتہ ہے؟
 firefox-accounts-sign-in = سائن ان
+firefox-accounts-already = تہاݙا { -brand-name-firefox-account } پہلے ہی ہے پیا۔ مبارکاں!
 firefox-accounts-manage = آپݨاں کھاتہ منیج کرو
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = آپݨے { -brand-name-firefox-account } نال انہاں وچ سائن ان تھیوو:
 # Obsolete string
 firefox-accounts-meet-our-family-of = رازداری ــ پہلے مصنوعات دے ساݙے ٹٻر کوں ملو۔
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">پاس ورڈ محفوظ کرو تے ہم وقت کرو</a>
 # Obsolete string
 firefox-accounts-see-if-youve-been = ݙیکھو بھلا تساں آن لائن ڈیٹا دی خلاف ورزی وچ ملوث ہو۔
 firefox-accounts-keep-your-passwords = آپݨے پاس ورڈ حفاظت نال تے پورٹیبل رکھو۔
