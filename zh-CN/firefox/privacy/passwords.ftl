@@ -34,6 +34,7 @@ privacy-passwords-a-closed-lock = 在所有主流浏览器的地址栏中，紧�
 privacy-passwords-the-lock-means = 该锁表示您正在使用的网站已加密，因此即使有人在监视您在网络上的浏览活动（例如同一公共 WiFi 热点上的另一个人），他们也无法获取您的密码。{ -brand-name-firefox } 会在您将在未加密网站上输入密码时尝试警告您。
 privacy-passwords-a-padlock-with = 若锁上有一条斜线，则表明连接不安全。
 privacy-passwords-your-browser-also = 您的浏览器还可以帮助您随时了解网站是否可信赖，防止网络钓鱼。当您尝试访问已知的钓鱼网站时，{ -brand-name-firefox }（以及任何主流浏览器）会显示全屏警告。<strong>若要继续访问，请三思而后行！</strong>
+privacy-passwords-firefox-will-v2 = 若其为已知的钓鱼网站，{ -brand-name-firefox } 将显示警告信息而非网站。
 # Outdated string
 privacy-passwords-firefox-will = 若其为已知的钓鱼网站，Firefox 将显示警告信息而非网站。
 privacy-passwords-in-general-the = 一般来说，防范网络钓鱼的最佳方法是<strong>对收到的东西保持怀疑</strong>，不管是通过电子邮件、短信还是电话收到的。不要按别人给您发送的内容操作，而应直接访问相应网站。例如，一封电子邮件中说您需要重置 PayPal 密码，请不要点击邮件中的链接，而应自己在浏览器中输入 paypal.com。如果银行打来电话，请不要直接接通，之后再给他们回电。

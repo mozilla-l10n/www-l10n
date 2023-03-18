@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = 加入 { -brand-name-firefox } 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = 已有账户？<a { $fxa_attr }>在此登录</a>或<a { $accounts_attr }>详细了解</a>关于加入 { -brand-name-firefox } 的行列。
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = 已经有账户了吗？<a { $fxa_attr }>在此登录</a>或<a { $accounts_attr }>详细了解</a> Firefox 的大家庭。
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
