@@ -14,11 +14,18 @@ firefox-accounts-already-have-an-account = Ужо маеце ўліковы за
 firefox-accounts-sign-in = Увайсці
 # Obsolete string
 firefox-accounts-meet-our-family-of = Знаёмцеся з нашым сямействам прадуктаў, у якіх прыватнасць на першым месцы.
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Захоўвайце і сінхранізуйце паролі</a>
+firefox-accounts-get-email-alerts = Атрымайце абвестку па электроннай пошце, калі ваша інфармацыя з'явіцца ў вядомай уцечцы звестак
 # Obsolete string
 firefox-accounts-see-if-youve-been = Паглядзіце, ці ўцягнуты вы ва ўцечку дадзеных у інтэрнэце.
 firefox-accounts-keep-your-passwords = Трымайце свае паролі абароненымі і пераноснымі.
 firefox-accounts-get-a-lookout-for = Праяўляйце пільнасць да ўцечак дадзеных.
 firefox-accounts-travel-the-internet = Вандруйце па інтэрнэце з аховай, на кожнай прыладзе.
+firefox-accounts-encrypt-your = Зашыфруйце сваю сеткавую актыўнасць і схавайце свой IP-адрас
+firefox-accounts-we-never = Мы ніколі не запісваем, не сочым і не даём доступ да вашых сеткавых дадзеных
+firefox-accounts-save-articles = Захоўвайце артыкулы з усяго сеціва
 firefox-accounts-read-in-a = Чытайце ў ціхай прыватнай прасторы
 firefox-accounts-get-it-all-on-every = Атрымайце доступ да іх на кожнай прыладзе, не адчуваючы сябе ў пастцы адной аперацыйнай сістэмы.
 
