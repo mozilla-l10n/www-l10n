@@ -12,6 +12,7 @@ firefox-accounts-securely-sync-your = 安全地在不同设备间同步您的密
 firefox-accounts-enter-your-email-address = 请输入您的电子邮箱地址，开始改变。
 firefox-accounts-already-have-an-account = 已经注册过了吗？
 firefox-accounts-sign-in = 登录
+firefox-accounts-already = 太好了！您已拥有 { -brand-name-firefox-account }。
 firefox-accounts-manage = 管理账户
 # This is followed by a list of things you can do with your Firefox account
 firefox-accounts-sign-in-to = 将 { -brand-name-firefox-account }用于
