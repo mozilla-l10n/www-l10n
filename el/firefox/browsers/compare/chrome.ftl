@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = Στο { -brand-name-firefox }, έχ�
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = Στο { -brand-name-firefox }, έχουμε έναν τεράστιο αριθμό αφοσιωμένων χρηστών που εκτιμούν τη σταθερή αφοσίωσή μας στο διαδικτυακό απόρρητο. Για παράδειγμα, η τελευταία έκδοση του { -brand-name-firefox } περιλαμβάνει μια λειτουργία που ονομάζεται «Ενισχυμένη προστασία από καταγραφή» (ETP), η οποία είναι ενεργοποιημένη από προεπιλογή για όλους τους χρήστες παγκοσμίως. Η ETP αποκλείει πάνω από 2.000 ιχνηλάτες, συμπεριλαμβανομένων των ιχνηλατών κοινωνικών δικτύων από εταιρείες, όπως τα { -brand-name-facebook }, { -brand-name-twitter } και LinkedIn. Διαθέτει επίσης μια ενσωματωμένη λειτουργία που ονομάζεται <a { $attrs }>{ -brand-name-firefox-monitor }</a> που σας ειδοποιεί αυτόματα εάν έχει παραβιαστεί ή πρέπει να ενημερωθεί ο κωδικός πρόσβασής σας. Πέρα από αυτές τις προστασίες, η λειτουργία Ιδιωτικής περιήγησης του { -brand-name-firefox } διαγράφει αυτόματα τις πληροφορίες περιήγησής σας, όπως το ιστορικό και τα cookies, χωρίς να αφήνει κανένα ίχνος μετά την ολοκλήρωση της συνεδρίας σας.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Επίσης, επαναδιατυπώσαμε πρόσφατα τη δέσμευσή μας για απόρρητο και διαφάνεια σχετικά με τα δεδομένα των χρηστών στην πιο πρόσφατη <a { $attrs }>Σημείωση απορρήτου</a> μας, η οποία αναφέρει: «Στη { -brand-name-mozilla }, πιστεύουμε ότι το απόρρητο είναι θεμελιώδες για ένα υγιές διαδίκτυο.»
+# Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Επίσης, επαναδιατυπώσαμε πρόσφατα τη δέσμευσή μας για απόρρητο και διαφάνεια σχετικά με τα δεδομένα των χρηστών στην πιο πρόσφατη <a { $attrs }>Σημείωση απορρήτου</a>, που αναφέρει: “Στη Mozilla, πιστεύουμε ότι το απόρρητο είναι θεμελιώδες για ένα υγιές διαδίκτυο.”
