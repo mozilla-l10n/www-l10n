@@ -60,6 +60,9 @@ privacy-passwords-your-firefox-account = 例如，您的 { -brand-name-firefox }
 privacy-passwords-2fa-provides-much = 2FA 提供的安全性比只有密码要好得多，然而并不是每个网站都支持。您可以在 <a { $url_2fa }>https://twofactorauth.org</a> 上找到支持和不支持 2FA 的网站列表，以及要求后者添加支持的途径。
 privacy-passwords-strong-diverse-and = 高强度、差异性和多因子
 privacy-passwords-for-better-or = 不管是好是坏，在可预见的未来，我们都将继续使用密码来保护我们的在线账户。使用<strong>高强度密码</strong>，在不同的网站使用<strong>不同的密码</strong>，并使用<strong>密码管理器</strong>帮助您安全地记住它们。为密保问题设置<strong>随机的长答案</strong>（尽管答案并非真实），并在任何支持双因子验证的网站上<strong>使用双因子验证</strong>。
+#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
+#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
+privacy-passwords-in-todays-internet-v2 = 在现今的的互联网上，每天都有成千上万的密码被盗，账户被拿到黑市上交易。因此，确保自己的在线生活安全是值得的。当您使用 { -brand-name-firefox } 产品后，就不用再费心了。因为我们的所有产品均遵守我们的<a { $url_privacy_products }>隐私承诺</a>而构建。{ -brand-name-firefox } 始终以背后的非营利组织 <a { $url_about_manifesto }>{ -brand-name-mozilla } 的使命</a>为指导，致力于建立一个更好的互联网。
 # Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
