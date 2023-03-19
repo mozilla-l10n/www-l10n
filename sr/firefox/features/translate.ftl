@@ -26,4 +26,6 @@ features-translate-if-you-are = Ако већ користите { -brand-name-f
 features-translate-with-the-to = *Помоћу To { -brand-name-google } Translate додатка сада можете да преводите <a { $attrs }>следеће језике</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> и још много тога!</a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } је за све
+# Outdated string
 features-translate-for-everyone = Firefox је за свакога
