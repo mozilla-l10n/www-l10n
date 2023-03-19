@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = Εγγραφείτε στο { -
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Έχετε ήδη λογαριασμό; <a { $fxa_attr }>Συνδεθείτε</a> ή <a { $accounts_attr }>μάθετε περισσότερα</a> σχετικά με την εγγραφή στο { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = Έχετε ήδη λογαριασμό; <a { $fxa_attr }>Συνδεθείτε</a> ή <a { $accounts_attr }>μάθετε περισσότερα</a> σχετικά με τη συμμετοχή στο Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
