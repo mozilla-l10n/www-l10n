@@ -14,3 +14,6 @@ privacy-first = ຄວາມເປັນສ່ວນຕົວກ່ອນ
 super-fast = ໂຄດໄວ
 get-speed-and = ໄດ້​ຮັບ​ຄວາມ​ໄວ​ແລະ​ຄວາມ​ປອດ​ໄພ​. { -brand-name-firefox } ແມ່ນໄວເພາະວ່າພວກເຮົາບໍ່ໄດ້ຕິດຕາມການເຄື່ອນໄຫວຂອງທ່ານ.
 always-evolving = ພັດທະນາສະເໝີ
+# Variables:
+# $url (url) - link to https://www.mozilla.org/firefox/features
+find-out-about = ຊອກຮູ້ກ່ຽວກັບຄຸນສົມບັດ <a href="{ $url }">{ -brand-name-firefox } ທີ່ຫນ້າອັດສະຈັນທັງໝົດ</a>.

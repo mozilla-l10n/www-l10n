@@ -19,6 +19,7 @@ browsers-mobile-infinitely-customizable-private = ສາມາດປັບແຕ
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } ສໍາລັບ { -brand-name-ios }
 browsers-mobile-go-your-own-way = ໄປດ້ວຍວິທີຂອງເຈົ້າດ້ວຍມືຖື { -brand-name-firefox }
 browsers-mobile-firefox-mobile-adapts-to-you = ມືຖື { -brand-name-firefox } ປັບຕົວເຂົ້າກັບເຈົ້າ ແລະເຮັດໃຫ້ມັນງ່າຍຂຶ້ນກວ່າທີ່ເຄີຍເຫັນແຖບເປີດທັງໝົດຂອງເຈົ້າ, ການຊອກຫາທີ່ຜ່ານມາ ແລະເວັບໄຊທີ່ມັກ.
+browsers-mobile-the-more-you-use = ຍິ່ງເຈົ້າໃຊ້ມັນຫຼາຍເທົ່າໃດ, ມັນຍິ່ງສະຫລາດຂຶ້ນ. ໜ້າຈໍຫຼັກຂອງ { -brand-name-firefox } ປັບຕົວເຂົ້າກັບເຈົ້າໄດ້ ແລະເຮັດໃຫ້ມັນງ່າຍຂຶ້ນທີ່ຈະເອົາມາຢູ່ສະເໝີໃນບ່ອນທີ່ເຈົ້າປະໄວ້.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = ໄດ້ຮັບການປັບປຸງການປົກປ້ອງການຕິດຕາມ ແລະເຮັດໃຫ້ { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບເລີ່ມຕົ້ນ, go-to, ຕະຫຼອດໄປຂອງທ່ານໃນ { -brand-name-iphone } ແລະ { -brand-name-ipad } .
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
