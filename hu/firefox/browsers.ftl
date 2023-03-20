@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = Csatlakozzon a { -brand-name-fi
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Már van fiókja? <a { $fxa_attr }>Jelentkezzen be</a> vagy <a { $accounts_attr }>tudjon meg többet</a> a { -brand-name-firefox }hoz csatlakozásról.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = Már van fiókja? <a { $fxa_attr }>Jelentkezzen be</a> vagy <a { $accounts_attr }>tudjon meg többet</a> a Firefoxhoz csatlakozásról.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

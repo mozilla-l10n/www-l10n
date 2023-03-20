@@ -32,10 +32,15 @@ firefox-accounts-keep-your-passwords = Tartsa védve a jelszavait, és vigye el 
 firefox-accounts-get-a-lookout-for = Legyen résen az adatsértések miatt.
 firefox-accounts-travel-the-internet = Utazzon védve az interneten, az összes eszközén.
 firefox-accounts-encrypt-your = Titkosítsa hálózati tevékenységét és rejtse el IP-címét
+firefox-accounts-we-never = Sosem naplózzuk, követjük nyomon vagy osztjuk meg hálózati adatait
+firefox-accounts-save-articles = Mentsen cikkeket szerte a világhálóról
+firefox-accounts-read-in-a = Olvasson egy csendes, privát helyen
 firefox-accounts-get-it-all-on-every = Kapja meg az összes eszközén, anélkül hogy egy operációs rendszeren ragadna.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }

@@ -26,4 +26,6 @@ features-translate-if-you-are = Ha már a { -brand-name-firefox(case: "accusativ
 features-translate-with-the-to = *A To { -brand-name-google } Translate kiegészítővel jelenleg <a { $attrs }>ezekre a nyelvekre tud fordítani</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }>és még sok más!</a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } mindenki számára
+# Outdated string
 features-translate-for-everyone = Firefox mindenki számára

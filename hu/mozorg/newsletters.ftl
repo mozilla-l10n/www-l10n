@@ -184,6 +184,9 @@ newsletters-news-and-information = Hírek és információk a web „egészségi
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program-v2 = Korábbi egyetemi program 2008 és 2011 között. Jelenleg inaktív, amíg újra nem indul az új { -brand-name-firefox } Student Ambassadors program.
+# Outdated String
+# Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Korábbi egyetemi program 2008 és 2011 között. Jelenleg inaktív amíg újra nem indul az új Firefox Student Ambassadors program.
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Tegyen lépéseket az internetért
@@ -283,10 +286,6 @@ newsletters-special-accouncements-and-messages = Különleges bejelentések a cs
 newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
 newsletters-updates-from-our-global = Hírek globális közösségünktől, melyek segítik megtanulni korunk legfontosabb készségeit: olvasni, írni, és részt venni a digitális világban.
-# Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-labs = { -brand-name-mozilla-labs }
-# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
-newsletters-were-building-the-technology = A jövő technológiáját építjük. Fedezze fel velünk.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
