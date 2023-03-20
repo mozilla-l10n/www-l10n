@@ -23,6 +23,9 @@ misinformation-images-captions = Ці адпавядаюць подпісу ві
 misinformation-how-firefox-helps-heading = Як { -brand-name-firefox } дапамагае пазбегнуць дэзінфармацыі
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } блакіруе трэкеры:
 misinformation-social-media-clean-heading = { -brand-name-firefox } дапамагае падтрымліваць чысціню вашых стужак у сацыяльных сетках:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Сацыяльныя сеткі ведаюць пра вас шмат. Акрамя таго, яны могуць сачыць за вамі па-за межамі сваіх платформаў з дапамогай кнопак «Падзяліцца» і «Падабаецца», нягледзячы на ахову ад сачэння — нават калі ў вас няма ўліковага запісу. <a href="{ $container }">{ -brand-name-facebook-container }</a> для { -brand-name-firefox } гарантуе, што { -brand-name-facebook } і { -brand-name-instagram } не могуць зрабіць гэта так проста, што зноў жа значна зніжае імавернасць убачыць дэзынфармацыю праз рэкламу і рэкламаванае змесціва.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } дапамагае знайсці кантэнт, які варты вашага часу:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
