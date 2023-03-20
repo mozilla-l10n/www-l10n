@@ -10,6 +10,7 @@ firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = ພາບລວມ
 firefox-enterprise-downloads = ດາວໂຫລດ
 firefox-enterprise-get-firefox-for-your-enterprise = ເອົາ { -brand-name-firefox } ສໍາລັບວິສາຫະກິດຂອງທ່ານ
+firefox-enterprise-unmatched-data-protection = ການ​ປົກ​ປ້ອງ​ຂໍ້​ມູນ​ທີ່​ບໍ່​ກົງ​ກັນ — ໃນ​ໄລ​ຍະ​ການ​ປ່ອຍ​ທີ່​ເຫມາະ​ສົມ​ກັບ​ທ່ານ​
 firefox-enterprise-your-data-stays-your-business = ຂໍ້ມູນຂອງທ່ານຍັງຄົງຢູ່ກັບທຸລະກິດຂອງທ່ານ
 firefox-enterprise-deploy-when-and-how-you-want = ນຳໃຊ້ເວລາ ແລະວິທີທີ່ທ່ານຕ້ອງການ
 firefox-enterprise-choose-your-release-cadence = ເລືອກຈັງຫວະການປ່ອຍຕົວຂອງເຈົ້າ

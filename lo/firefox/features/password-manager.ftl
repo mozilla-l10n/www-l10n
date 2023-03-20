@@ -12,9 +12,11 @@ password-manager-firefox-password = ຕົວຈັດການລະຫັດ�
 # Hero title
 password-manager-password-manager = ປົດລັອກຄວາມສຳເລັດຂອງຕົວຈັດການລະຫັດຜ່ານແລ້ວ
 password-manager-password-hero = ນັກສູ້ເພື່ອລະຫັດຜ່ານ
+password-manager-password-magician = magician ລະ​ຫັດ​ຜ່ານ​
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = ຊ່ຽວຊານລະຫັດຜ່ານ
+password-manager-password-champion = ແຊ້ມລະຫັດຜ່ານ
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = ຜູ້ຊ່ຽວຊານດ້ານລະຫັດຜ່ານ

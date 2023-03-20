@@ -1,12 +1,16 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-meet-our-family-of = ພົບກັບກຸ່ມຜະລິດຕະພັນຂອງພວກເຮົາ
+# Obsolete string
 firefox-home-learn-more-about-lockwise = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ { -brand-name-lockwise }
+firefox-home-join-firefox = ເຂົ້າຮ່ວມ { -brand-name-firefox }
+firefox-home-learn-more-about-joining = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການເຂົ້າຮ່ວມ { -brand-name-firefox }
+firefox-home-get-the-browser-extension = ຮັບສ່ວນຂະຫຍາຍຂອງຕົວທ່ອງເວັບ
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }

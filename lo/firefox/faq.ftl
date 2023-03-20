@@ -23,6 +23,7 @@ how-do-i = ຂ້ອຍຈະເອົາ { -brand-name-firefox-browser } ໄດ
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = { -brand-name-firefox } ແມ່ນບໍ່ເສຍຄ່າບໍ?
+yep-the-firefox = ແມ່ນແລ້ວ! { -brand-name-firefox-browser } ແມ່ນບໍ່ເສຍຄ່າ. Super ຟຣີ, ຕົວຈິງແລ້ວ. ບໍ່ມີຄ່າໃຊ້ຈ່າຍທີ່ເຊື່ອງໄວ້ຫຼືສິ່ງໃດ. ທ່ານບໍ່ໄດ້ຈ່າຍເງິນຫຍັງເພື່ອໃຊ້ມັນ, ແລະພວກເຮົາບໍ່ຂາຍຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ.
 related-questions-free = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ແມ່ນ { -brand-name-firefox-browser } ຟຣີ, ບໍ່ { -brand-name-firefox } ຄ່າໃຊ້ຈ່າຍເງິນ
 is-chrome-better = { -brand-name-chrome } ດີກວ່າ { -brand-name-firefox } ບໍ?
 
