@@ -12,6 +12,10 @@ firefox-accounts-securely-sync-your = Sincronizza in sicurezza password, segnali
 firefox-accounts-enter-your-email-address = Per iniziare inserisci il tuo indirizzo email.
 firefox-accounts-already-have-an-account = Hai già un account?
 firefox-accounts-sign-in = Accedi
+firefox-accounts-already = Hai già un { -brand-name-firefox-account }. Congratulazioni!
+firefox-accounts-manage = Gestisci il tuo account
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = Accedi al tuo { -brand-name-firefox-account } per:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Scopri la nostra linea di prodotti per la difesa della privacy.
 # Obsolete string
