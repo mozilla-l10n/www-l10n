@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox } è apprezzato
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = { -brand-name-firefox } è apprezzato da un gran numero di utenti per la costante dedizione alla privacy online. Ad esempio, l’ultima versione di { -brand-name-firefox } include una funzionalità chiamata Protezione antitracciamento avanzata, già attiva per impostazione predefinita per tutti gli utenti del mondo. La protezione avanzata blocca più di 2000 elementi traccianti, tra cui i traccianti social di aziende come { -brand-name-facebook }, { -brand-name-twitter } e LinkedIn. Un’altra funzionalità integrata, <a { $attrs }>{ -brand-name-firefox-monitor }</a>, avverte automaticamente l’utente se una password è stata violata o se è necessario aggiornarla. Oltre a queste protezioni, in modalità Navigazione anonima, { -brand-name-firefox } elimina automaticamente le informazioni sulla tua navigazione, come cronologia e cookie, senza lasciar alcuna traccia al termine della sessione.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Abbiamo ribadito il nostro impegno per la privacy e la trasparenza sui dati utente nella nostra più recente <a { $attrs }>Informativa sulla privacy</a>, che afferma: “In { -brand-name-mozilla } crediamo nel fatto che la privacy sia fondamentale per un uso sano di Internet.”
+# Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Abbiamo ribadito il nostro impegno per la privacy e la trasparenza sui dati utente nella nostra più recente <a { $attrs }>Informativa sulla privacy</a>, che afferma: “In Mozilla crediamo nel fatto che la privacy sia fondamentale per un uso sano di Internet.”

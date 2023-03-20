@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -34,6 +34,8 @@ privacy-passwords-a-closed-lock = In tutti i principali browser viene visualizza
 privacy-passwords-the-lock-means = Se è presente l’icona del lucchetto significa che il sito web che stai visitando utilizza una connessione crittata; anche se qualcuno sta spiando la tua navigazione in rete (ad esempio un’altra persona collegata allo stesso hotspot Wi-Fi pubblico), non sarà in grado di vedere la tua password. { -brand-name-firefox } cercherà di avvisarti quando stai per inserire una password su un sito con connessione non crittata.
 privacy-passwords-a-padlock-with = Un lucchetto barrato indica che la connessione non è sicura.
 privacy-passwords-your-browser-also = Il tuo browser ti informa anche sull’affidabilità dei siti web, per aiutarti a proteggerti dal phishing. Quando provi a visitare un sito web noto per essere un sito di phishing, { -brand-name-firefox } (e qualsiasi altro dei principali browser) visualizzerà un avviso a schermo intero: <strong>fai attenzione e pensaci due volte prima di utilizzare quel sito.</strong>
+privacy-passwords-firefox-will-v2 = { -brand-name-firefox } visualizzerà un avviso al posto del sito web se è noto come un sito di phishing.
+# Outdated string
 privacy-passwords-firefox-will = Firefox visualizzerà un avviso al posto del sito web se è noto come un sito di phishing.
 privacy-passwords-in-general-the = In generale, la migliore difesa contro il phishing è <strong>diffidare di ciò che ricevi</strong>, sia tramite email, come messaggio di testo o sul telefono. Invece di eseguire un’azione su ciò che qualcuno ti ha inviato, visita direttamente il sito. Ad esempio, se un’email dice che devi reimpostare la password del tuo account PayPal, non fare clic sul collegamento. Digita tu stesso l’indirizzo del sito paypal.com nel browser. Se la banca ti chiama, richiamala.
 privacy-passwords-strength-in-diversity = La forza sta nella diversità
@@ -54,10 +56,14 @@ privacy-passwords-twofactor-authentication-2fa = Autenticazione a due fattori (2
 privacy-passwords-2fa-is-a = 2FA è un ottimo modo per aumentare il livello della tua sicurezza. Quando configuri un nuovo account, alcuni siti ti offrono la possibilità di aggiungere un “secondo fattore” al processo di accesso. Spesso questo significa collegare il tuo numero di telefono al tuo account, per cui, dopo aver inserito la password, ti verrà chiesto di inserire un codice di sicurezza inviato direttamente al tuo telefono. In questo modo, se un hacker è riuscito a ottenere la tua password, non sarà comunque in grado di accedere al tuo account, poiché non ha il tuo telefono.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Il tuo account { -brand-name-firefox }, ad esempio, può essere protetto con 2FA. <a { $url_sumo_2fa }>Qui puoi trovare ulteriori informazioni su come impostarlo</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA offre una sicurezza migliore rispetto alla sola password, ma non tutti i siti web la supportano. Puoi trovare una lista dei siti web che supportano 2FA su <a { $url_2fa }>https://twofactorauth.org</a>, così come un elenco di siti che non la supportano e modi in cui puoi chiedere loro di aggiungerne il supporto.
 privacy-passwords-strong-diverse-and = Efficaci, diverse e basate su più fattori
 privacy-passwords-for-better-or = Nel bene e nel male, continueremo a usare le password per proteggere i nostri account online nel prossimo futuro. Utilizza password <strong>efficaci</strong> e <strong>diverse per ogni sito</strong> e utilizza un <strong>gestore di password</strong> per ricordarle in modo sicuro. Imposta <strong>risposte lunghe e casuali</strong> per le domande di sicurezza (anche se non sono la verità). E <strong>utilizza l’autenticazione a due fattori</strong> su qualsiasi sito la supporti.
+#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
+#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
+privacy-passwords-in-todays-internet-v2 = Nell’Internet di oggi, dove migliaia di password vengono rubate ogni giorno e gli account vengono venduti sul mercato nero, vale la pena fare lo sforzo di mantenere la propria vita online al sicuro. Quando utilizzi i prodotti { -brand-name-firefox }, parte della fatica viene eliminata, perché tutti i nostri prodotti sono progettati per mantenere il nostro <a { $url_privacy_products }>impegno sulla privacy</a>. E { -brand-name-firefox } è costantemente guidato dalla <a { $url_about_manifesto }>missione di { -brand-name-mozilla }</a>, l’organizzazione senza scopo di lucro che ci sostiene, per costruire un Internet migliore.
+# Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = Nell’Internet di oggi, dove migliaia di password vengono rubate ogni giorno e gli account vengono venduti sul mercato nero, vale la pena fare lo sforzo di mantenere la propria vita online al sicuro. Quando utilizzi i prodotti { -brand-name-firefox }, parte della fatica viene eliminata, perché tutti i nostri prodotti sono progettati per mantenere il nostro <a { $url_privacy_products }>impegno sulla privacy</a>. E { -brand-name-firefox } è costantemente guidato dalla <a { $url_about_manifesto }>missione di Mozilla</a>, l’organizzazione senza scopo di lucro che ci sostiene, per costruire un Internet migliore.
