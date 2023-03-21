@@ -28,5 +28,6 @@ mission-where-we-come-from-and-how-we-got = Le origine del projecto e su evoluti
 mission-forums = Foros
 mission-topics-include-support-products = Le themas include assistentia, productos e technologias
 mission-governance = Administration
+mission-our-structure-organization-and-the-v2 = Nostre structura, organisation, e tote le large communitate de { -brand-name-mozilla }
 # Outdated string
 mission-our-structure-organization-and-the = Nostre structura, organisation, e tote le communitate de Mozilla
