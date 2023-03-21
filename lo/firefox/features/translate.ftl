@@ -26,3 +26,6 @@ features-translate-if-you-are = ຖ້າເຈົ້າກຳລັງໃຊ້
 features-translate-with-the-to = *ດ້ວຍ To { -brand-name-google } Translate extension, ໃນປັດຈຸບັນທ່ານສາມາດແປ <a { $attrs }>ພາສາເຫຼົ່ານີ້</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> ແລະອື່ນໆອີກ!</a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } ແມ່ນສຳລັບທຸກຄົນ
+# Outdated string
+features-translate-for-everyone = Firefox ແມ່ນສໍາລັບທຸກຄົນ

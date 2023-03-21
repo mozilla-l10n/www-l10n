@@ -5,7 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-firefox-protect-your = { -brand-name-firefox } - ປົກປ້ອງຊີວິດຂອງທ່ານທາງອອນລາຍດ້ວຍຜະລິດຕະພັນທຳອິດຂອງຄວາມເປັນສ່ວນຕົວ
+firefox-home-firefox-is-more-than = { -brand-name-firefox } ແມ່ນຫຼາຍກວ່າຕົວທ່ອງເວັບ. ຮຽນ​ຮູ້​ເພີ່ມ​ເຕີມ​ກ່ຽວ​ກັບ​ຜະ​ລິດ​ຕະ​ພັນ { -brand-name-firefox } ທີ່​ຈັດ​ການ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ​ດ້ວຍ​ຄວາມ​ນັບ​ຖື​ແລະ​ໄດ້​ຖືກ​ສ້າງ​ຂຶ້ນ​ເພື່ອ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ໃນ​ທຸກ​ບ່ອນ​ທີ່​ທ່ານ​ອອນ​ໄລ​ນ​໌​.
+firefox-home-the-browser-is-just = ຕົວທ່ອງເວັບແມ່ນພຽງແຕ່ການເລີ່ມຕົ້ນ
 firefox-home-meet-our-family-of = ພົບກັບກຸ່ມຜະລິດຕະພັນຂອງພວກເຮົາ
+firefox-home-get-trackers-off = ເອົາ 2,000+ ຕົວຕິດຕາມອອກຈາກເສັ້ນທາງຂອງທ່ານ — ລວມທັງ { -brand-name-facebook }
+firefox-home-know-when-hackers-strike = ຮູ້ເວລາທີ່ແຮກເກີໂຈມຕີ — ແລະສືບຕໍ່ເດີນໜ້າ
 # Obsolete string
 firefox-home-learn-more-about-lockwise = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ { -brand-name-lockwise }
 firefox-home-join-firefox = ເຂົ້າຮ່ວມ { -brand-name-firefox }
