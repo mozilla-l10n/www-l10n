@@ -9,6 +9,7 @@ home-internet-for-people-not-profit = በይነመረብ ለሰዎች እንጂ�
 home-did-you-know-mozilla-the-maker = ይህን ያውቁ ኖሯል? { -brand-name-mozilla } — የ{ -brand-name-firefox } ፈጣሪ — በይነመረቡን ሁለንተናዊ የህዝብ ሃብት፣ ክፍት እና ለሁሉም ተደራሽ ለማድረግ ይታገላል።
 home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = መፍጠኑ ለበጎ ነው።
+home-with-2x-the-speed-built-in = በ2x ፍጥነት፣ አብሮ የተሰራ የግላዊነት ጥበቃ እና { -brand-name-mozilla } ከኋላ የሚደግፈው፣ አዲሱ { -brand-name-firefox } ለማሰስ የተሻለው መንገድ ነው።
 home-we-make-the-internet-safer = በይነመረብን በዘላቂነት ደህንነቱ የተጠበቀ፣ ጤናማ እና ፈጣን እናደርገዋለን።
 home-our-impact = የእኛ ተጽዕኖ
 home-mozilla-information-trust-initiative = { -brand-name-mozilla } የመረጃ እምነት ተነሳሽነት

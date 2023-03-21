@@ -6,58 +6,36 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-firefox-accounts-there-is-a-way-to = የእርስዎን ግላዊነት የሚጠብቁበት መንገድ አለ። { -brand-name-firefox }ን ይቀላቀሉ።
-# Old HTML page title
 firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } ያግኙ - ውሂብዎን የግል፣ ደህንነቱ የተጠበቀ እና የተስማማ አድርገው ይያዙ
 # HTML page description
-firefox-accounts-take-your-stand-stay-smart = የርስዎን መረጃዎች ለሶስተኛ ወገን አሳልፈው በሚሸጡ ድርጅቶች ላይ አቋም ይውሰዱ። ደህንነትዎን በሚጠብቁ መሳሪያዎች በመገልገል ኢንተርኔት ሲጠቀሙ ንቁ እና ጠንቃቃ ይሁኑ።
-# Old HTML page description
 firefox-accounts-securely-sync-your = የእርስዎን የይለፍ ቃላት፣ ዕልባቶች እና ትሮች በሁሉም መሳሪያዎችዎ ላይ ደህንነቱ በተጠበቀ ሁኔታ ያዛምዱ። አሁን { -brand-name-firefox-account } ያግኙ - አንድ መግቢያ - አቅም እና ግላዊነት በሁሉም ቦታ።
-# The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
-firefox-accounts-there-is-a-way-to-protect = የእርስዎን ግላዊነት የሚጠብቁበት መንገድ አለ። <span>ይቀላቀሉ { -brand-name-firefox }።</span>
-# This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
-firefox-accounts-take-your-stand-against = የእርስዎን መረጃዎች እንደግል ንብረታቸው እና ለማስታወቂያ በሚጠቀሙ ድርጅቶች ላይ አቋምዎን ይውሰዱ።
-# The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = ወደ { -brand-name-firefox } <br> ገብተዋል። <br><span>አሁን { -brand-name-firefox-monitor }ን ይሞክሩ።</span>
-firefox-accounts-see-if-youve-been = በኢንተርኔት መረጃ ማጭበርበር ላይ ተሳትፈው ከሆነ ይመልከቱ።
-firefox-accounts-sign-in-to-monitor = ወደ { -brand-name-monitor } ይግቡ
-firefox-accounts-join-firefox = { -brand-name-firefox }ን ይቀላቀሉ
 firefox-accounts-enter-your-email-address = ለመጀመር የኢሜል አድራሻ ያስገቡ።
 firefox-accounts-already-have-an-account = መታወቂያ(መለያ) አለዎት?
 firefox-accounts-sign-in = ግባ
-firefox-accounts-meet-our-family-of = ከግላዊ-የመጀመሪያ ምርቶች ቤተሰባችንን ያግኙ።
-firefox-accounts-firefox-is-technology = { -brand-name-firefox } ለእርስዎ የሚዋጋ ቴክኖሎጂ ነው።
-firefox-accounts-get-technology-that = ለእርስዎ ዘብ የሚቆም ዘመናዊ መሳሪያ ያግኙ።
-firefox-accounts-travel-the-internet = በማንኛውም መገልገያ መሳሪያ ኢንተርኔት ላይ በጥንቃቄ ይጓዙ።
+firefox-accounts-already = እንኳን ደስ ያለዎ! ቀድሞውንም { -brand-name-firefox-account } አለዎት።
+firefox-accounts-manage = መለያዎን ያስተዳድሩ
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = ወደ እርስዎ { -brand-name-firefox-account } ይግቡ ለ፡-
 # Obsolete string
+firefox-accounts-meet-our-family-of = ከግላዊ-የመጀመሪያ ምርቶች ቤተሰባችንን ያግኙ።
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = ወደ ሌላ መሣሪያ <a href="{ $send }">ትር ላክ</a>
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">የይለፍ ቃል አስቀምጥ እና አሰናስል</a>
+firefox-accounts-get-email-alerts = መረጃዎ በሚታወቅ የውሂብ ጥሰት ውስጥ ሲታይ የኢሜይል ማንቂያዎችን ያግኙ
+# Obsolete string
+firefox-accounts-see-if-youve-been = በኢንተርኔት መረጃ ማጭበርበር ላይ ተሳትፈው ከሆነ ይመልከቱ።
+firefox-accounts-protect-your-identity = ደህንነቱ በተጠበቀ የስልክ እና የኢሜል ጭንብል ማንነትዎን ይጠብቁ
 firefox-accounts-keep-your-passwords = የይለፍ ቃልዎን ደህንነቱ የተጠበቀ እና ተንቀሳቃሽ ያድርጉ።
 firefox-accounts-get-a-lookout-for = ከመረጃ መጭበርበር ይጠንቀቁ!
-# Obsolete string
-firefox-accounts-share-large-files = በርካታ መረጃዎችን ያለስጋት ይለዋወጡ።
+firefox-accounts-travel-the-internet = በማንኛውም መገልገያ መሳሪያ ኢንተርኔት ላይ በጥንቃቄ ይጓዙ።
+firefox-accounts-encrypt-your = የአውታረ መረብ እንቅስቃሴዎን ያመስጥሩ እና የአውታር አድራሻዎን ይደብቁ
 firefox-accounts-get-it-all-on-every = በማንኛውም መገልገያ መሳሪያ ላይ፤ ምንም አይነት ስጋት ሳያድርብዎ ሁሉንም አገልግሎቶች በአንድ መተግበሪያ መሳሪያ ላይ ያግኙ።
-firefox-accounts-and-get-it-all-on = እና በማንኛውም መገልገያ መሳሪያ፣ ሁሉንም አገልግሎቶች ያለምንም ስጋት በአንድ መከወኛ ላይ ያገኛሉ።
-firefox-accounts-get-the-respect-you = ክብር ይገባዎታል!
-firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-accounts-whole-device-protection = የሙሉ መሣሪያ ጥበቃ በእያንዳንዱ መሣሪያ ላይ
-# Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
-firefox-accounts-youll-always-get-the = ሁልጊዜም ከእኛ ሀቀኛ አገልግሎትን ያገኛሉ። የምንሠራውና የምናደርገው ሁሉ <a href={ $promise }">ግላዊ መረጃን መጠበቅ</a>: የሚለውን መርህ በማክበር ነው።
-# Line breaks for visual formatting.
-firefox-accounts-take-less-keep-it = ማንም የማይወስደው።<br> ደህንነቱ የተጠበቀ።</br> ምንም ሚስጥር የለም።
-firefox-accounts-get-the-knowledge = ስለጥንቃቄ መንገዶች በቂ እውቀት ያግኙ።
-firefox-accounts-learn-everything-you = ማወቅ የሚገባዎትን ሁሉ ይማሩ(እስካሁን ካላወቁ) እንዴት ኢንተርኔትን በጥንቃቄ መጠቀም እንዳለብዎት፤ በመስኩ የላቀ እውቀት ካላቸው ምሁራን ይማሩ።
-firefox-accounts-and-be-part-of-protecting = ለሚቀጥለዉ ትውልድ የኢንተርኔት ደህንነት የተጠበቀ እንዲሆን የራስዎን ድርሻ ይወጡ።
-firefox-accounts-help-us-build-a-better = የተሻለ የ{ -brand-name-firefox } አገልግሎት ለሁሉም እንዲዳረስ ያግዙን።
-firefox-accounts-get-into-the-open = በቅርቡ ለሙከራ የሚለቀቁ ምርቶችን በመጠቀም በመርሀ-ግብሩ ላይ ይሳተፉ።
-# "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
-firefox-accounts-help-us-keep-big-tech = ከፍተኛ የኢንፎርሜሽን ቴክኖሎጂን ለማረጋገጥ ያግዙን።
-firefox-accounts-we-support-communities = በመላው አለም ያሉ ህዝቦች አስተማማኝ የኢንተርኔት አገልግሎት እንዲያገኙ ለማድረግ እንሠራለን። እርስዎም ከጎናችን ይቁሙ።
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
-# Obsolete string
-firefox-accounts-firefox-send = { -brand-name-firefox-send }
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }

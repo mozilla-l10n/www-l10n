@@ -62,6 +62,7 @@ footer-file-a-bug = ሳንካ ያስመዝግቡ
 footer-community-participation-guidelines = የማህበረሰብ ተሳትፎ መመሪያዎች
 footer-websites-privacy-notice = የድረ-ገፅ ግላዊነት ማስታወቂያ
 footer-websites-cookies = ተሸጓጭ
+footer-websites-legal = ሕግ ነክ
 footer-language = ቋንቋ
 footer-go = ሂድ
 footer-donate = ይለግሱ
