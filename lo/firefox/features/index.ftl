@@ -21,6 +21,7 @@ features-index-get-an-account = ເອົາ { -brand-name-firefox-account }
 features-index-use-the-bookmark = ໃຊ້ໄອຄອນດາວບຸກມາກເພື່ອຈັດລະບຽບ ແລະເພີ່ມຊື່ ແລະໂຟນເດີ້ແບບກຳນົດເອງໄດ້ໄວ.
 features-index-from-the-company = ຈາກບໍລິສັດທີ່ເຮັດໃຫ້ຄົນກ່ອນກໍາໄລ
 features-index-private-browsing-mode = ໂໝດການຊອກຫາສ່ວນຕົວຈະລຶບຂໍ້ມູນຄຸກກີ້ ແລະປະຫວັດການທ່ອງເວັບຂອງທ່ານທຸກຄັ້ງທີ່ທ່ານປິດມັນ.
+features-index-firefox-automatically = { -brand-name-firefox } ອັດຕະໂນມັດບລັອກ 2000+ ຕົວຕິດຕາມການໂຄສະນາຈາກການຕິດຕາມທ່ານໃນທົ່ວອິນເຕີເນັດ.
 features-index-open-source-minds = ແຫຼ່ງເປີດ. ເປີດໃຈ.
 features-index-see-what-makes-us-different = ເບິ່ງສິ່ງທີ່ເຮັດໃຫ້ພວກເຮົາແຕກຕ່າງ
 features-index-by-non-profit-mozilla = ໂດຍບໍ່ຫວັງຜົນກຳໄລ, { -brand-name-mozilla }
