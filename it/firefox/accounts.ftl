@@ -18,11 +18,23 @@ firefox-accounts-manage = Gestisci il tuo account
 firefox-accounts-sign-in-to = Accedi al tuo { -brand-name-firefox-account } per:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Scopri la nostra linea di prodotti per la difesa della privacy.
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = <a href="{ $send }">Inviare una scheda</a> a un altro dispositivo
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Salvare e sincronizzare le password</a>
+firefox-accounts-get-email-alerts = Ricevere una notifica via email quando i tuoi dati vengono coinvolti in una violazione di dati conosciuta
 # Obsolete string
 firefox-accounts-see-if-youve-been = Controlla se sei stato coinvolto in una violazione di dati online.
+firefox-accounts-protect-your-identity = Proteggere la tua identità con alias sicuri per numeri di telefono e posta elettronica
 firefox-accounts-keep-your-passwords = Mantieni le tue password al sicuro e portale sempre con te.
 firefox-accounts-get-a-lookout-for = Tieni sotto controllo le violazioni di dati.
 firefox-accounts-travel-the-internet = Viaggia in sicurezza su Internet, da qualsiasi dispositivo.
+firefox-accounts-encrypt-your = Crittare la tua attività di rete e nascondere il tuo indirizzo IP
+firefox-accounts-we-never = Non registriamo, tracciamo o condividiamo i tuoi dati di rete
+firefox-accounts-save-articles = Salvare articoli da tutto il Web.
+firefox-accounts-read-in-a = Leggere in uno spazio tranquillo e privato
 firefox-accounts-get-it-all-on-every = Tutto ciò che ti serve sempre disponibile su ogni dispositivo, senza rimanere incatenato a un solo sistema operativo.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
