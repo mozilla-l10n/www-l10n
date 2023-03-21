@@ -11,11 +11,32 @@ firefox-home-the-browser-is-just = ຕົວທ່ອງເວັບແມ່ນ
 firefox-home-meet-our-family-of = ພົບກັບກຸ່ມຜະລິດຕະພັນຂອງພວກເຮົາ
 firefox-home-get-trackers-off = ເອົາ 2,000+ ຕົວຕິດຕາມອອກຈາກເສັ້ນທາງຂອງທ່ານ — ລວມທັງ { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = ຮູ້ເວລາທີ່ແຮກເກີໂຈມຕີ — ແລະສືບຕໍ່ເດີນໜ້າ
+firefox-home-start-getting-breach = ເລີ່ມຮັບລາຍງານການລະເມີດ
+firefox-home-un-spam-your-life = ຍົກເລີກການສະແປມຊີວິດຂອງເຈົ້າດ້ວຍ { -brand-name-relay }
+firefox-home-try-relay = ລອງ { -brand-name-relay }
+# Obsolete string
+firefox-home-keep-your-passwords = ຮັກສາລະຫັດຜ່ານຂອງທ່ານໃຫ້ປອດໄພໃນທຸກອຸປະກອນ
 # Obsolete string
 firefox-home-learn-more-about-lockwise = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ { -brand-name-lockwise }
+# The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-get-the-respect-you = ໄດ້ຮັບ <strong>ຄວາມເຄົາລົບ</strong> ທີ່ເຈົ້າສົມຄວນໄດ້ຮັບ
+# Obsolete string
+firefox-home-share-large-files-without = ແບ່ງປັນໄຟລ໌ຂະຫນາດໃຫຍ່ໂດຍບໍ່ມີການຕາ prying
+# Obsolete string
+firefox-home-start-sending-files = ເລີ່ມການສົ່ງໄຟລ໌ຢ່າງປອດໄພ
+firefox-home-trade-clickbait-for = ການຄ້າ clickbait ສໍາລັບເນື້ອໃນທີ່ມີຄຸນນະພາບ
+firefox-home-learn-more-about-pocket = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ { -brand-name-pocket }
+firefox-home-protection-for-your-whole = ການປົກປ້ອງອຸປະກອນທັງໝົດຂອງເຈົ້າ, ໃນທຸກອຸປະກອນ.
+# The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-one-login-all-your = ຫນຶ່ງເຂົ້າສູ່ລະບົບ. ອຸ​ປະ​ກອນ​ທັງ​ຫມົດ​ຂອງ​ທ່ານ​. ຄອບຄົວຂອງຜະລິດຕະພັນທີ່ເຄົາລົບ <strong>ຄວາມເປັນສ່ວນຕົວ</strong> ຂອງທ່ານ.
 firefox-home-join-firefox = ເຂົ້າຮ່ວມ { -brand-name-firefox }
 firefox-home-learn-more-about-joining = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການເຂົ້າຮ່ວມ { -brand-name-firefox }
 firefox-home-get-the-browser-extension = ຮັບສ່ວນຂະຫຍາຍຂອງຕົວທ່ອງເວັບ
+firefox-home-get-the-facebook-container = ຮັບສ່ວນຂະຫຍາຍ { -brand-name-facebook-container }
+firefox-home-download-the-browser = ດາວໂຫລດຕົວທ່ອງເວັບ
+firefox-home-download-the-app = ດາວໂຫຼດແອັບ
+firefox-home-get-mozilla-vpn = ເອົາ { -brand-name-mozilla-vpn }
+firefox-home-desktop = ເດັສທັອບ
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }

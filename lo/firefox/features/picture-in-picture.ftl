@@ -7,3 +7,6 @@
 
 features-pip-3-more-ways-to-use-picture = ອີກ 3 ວິທີໃຊ້ຮູບພາບໃນຮູບ
 features-pip-3-ways-to-use-picture = 3 ວິທີໃຊ້ Picture-in-Picture
+features-pip-watch-a-lecture-or-meeting = ເບິ່ງການບັນຍາຍ ຫຼືການປະຊຸມໃນຂະນະທີ່ເຈົ້າບັນທຶກ
+features-pip-keep-a-tutorial-video-open = ຮັກສາວິດີໂອສອນໃຫ້ເປີດພ້ອມກັບສູດອາຫານໃນຂະນະທີ່ເຈົ້າແຕ່ງກິນ
+features-pip-entertain-cats-dogs-and-kids = ບັນເທີງແມວ, ໝາ ແລະເດັກນ້ອຍ ໃນຂະນະທີ່ເຈົ້າເຮັດວຽກໃຫ້ສຳເລັດ

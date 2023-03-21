@@ -14,6 +14,7 @@ firefox-enterprise-unmatched-data-protection = ການ​ປົກ​ປ້ອ
 firefox-enterprise-your-data-stays-your-business = ຂໍ້ມູນຂອງທ່ານຍັງຄົງຢູ່ກັບທຸລະກິດຂອງທ່ານ
 firefox-enterprise-deploy-when-and-how-you-want = ນຳໃຊ້ເວລາ ແລະວິທີທີ່ທ່ານຕ້ອງການ
 firefox-enterprise-choose-your-release-cadence = ເລືອກຈັງຫວະການປ່ອຍຕົວຂອງເຈົ້າ
+firefox-enterprise-get-rapid-releases-to-make = ໄດ້ຮັບການປ່ອຍອອກມາຢ່າງໄວວາເພື່ອໃຫ້ແນ່ໃຈວ່າທ່ານໄດ້ຮັບຄຸນສົມບັດຫຼ້າສຸດໄວຂຶ້ນ, ຫຼືຂະຫຍາຍອອກໄປເພື່ອຮັບປະກັນປະສົບການທີ່ຫມັ້ນຄົງສູງ.
 firefox-enterprise-enterprise-downloads = ດາວໂຫຼດ { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
@@ -35,3 +36,6 @@ firefox-enterprise-documentation-and-community = ເອກະສານ ແລະ
 firefox-enterprise-sample-plist-for-configuration = ຕົວຢ່າງ <a href="{ $url }">plist ສໍາລັບໂປຣໄຟລ໌ການຕັ້ງຄ່າ</a>
 firefox-enterprise-pkg-installer = ຕົວຕິດຕັ້ງ PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-ບິດ
+# Variables:
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+firefox-enterprise-download-firefox-esr-or-rapid = ດາວໂຫລດ { -brand-name-firefox-esr } ຫຼື Rapid Release ສໍາລັບ<br> <a href="{ $firefox_all }">ພາສາອື່ນ ຫຼືເວທີ.</a>

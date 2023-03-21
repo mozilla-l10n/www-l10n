@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } FAQ
+whether-you-searched-privacy = ບໍ່ວ່າທ່ານຈະຊອກຫາຕົວທ່ອງເວັບທີ່ໄວທີ່ປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ, FAQ ນີ້ແມ່ນຢູ່ທີ່ນີ້ເພື່ອຕອບຄໍາຖາມທີ່ກ່ຽວຂ້ອງກັບ { -brand-name-firefox } ທີ່ກົດດັນທີ່ສຸດ.
+whether-you-searched-independant = ບໍ່ວ່າທ່ານຈະຊອກຫາຕົວທ່ອງເວັບທີ່ໄວ, ຫຼືທ່ານກໍາລັງຊອກຫາເຕັກໂນໂລຢີເອກະລາດທີ່ປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ, FAQ ນີ້ແມ່ນຢູ່ທີ່ນີ້ເພື່ອຕອບຄໍາຖາມທີ່ກ່ຽວຂ້ອງກັບ { -brand-name-firefox } ທີ່ກົດດັນທີ່ສຸດ.
 what-is-firefox = { -brand-name-firefox } ແມ່ນຫຍັງ?
 
 # Variables:
