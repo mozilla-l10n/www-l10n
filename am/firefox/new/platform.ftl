@@ -20,6 +20,8 @@ new-platform-need-help = እርዳታ ይፈልጋሉ?
 ## Linux
 
 new-platform-download-mozilla-linux = { -brand-name-mozilla } { -brand-name-firefox }ን ለ { -brand-name-linux } አውርድ
+# /firefox/linux/ HTML page description
+new-platform-download-mozilla-desc-linux = ለ{ -brand-name-linux }፣ ነጻ የድር አሳሽ { -brand-name-mozilla } { -brand-name-firefox }ን አውርድ። { -brand-name-firefox } ግለሰቦች በመስመር ላይ ያላቸውን እንቅስቃሴ እንዲቆጣጠሩ ሆኖ በአለምአቀፍ ለትርፍ ያልተቋቋመ ድርጅት የተፈጠረ ነው። ለ{ -brand-name-linux } ዛሬውኑ { -brand-name-firefox }ን ያግኙ!
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = የምንግዜም ፈጣኑን { -brand-name-firefox } ለ { -brand-name-linux } አውርድ
 # /firefox/linux/ social sharing description
@@ -35,6 +37,8 @@ new-platform-look-under-the-hood = ከመጋረጃው ጀርባ ይመልከቱ�
 ## Mac
 
 new-platform-download-mozilla-firefox-mac = ለ { -brand-name-mac-short } { -brand-name-mozilla } { -brand-name-firefox }ን አውርድ
+# /firefox/mac/ HTML page description
+new-platform-download-mozilla-firefox-desc-mac = ለ{ -brand-name-mac-short } { -brand-name-mozilla } { -brand-name-firefox }ን ነጻ የድር አሳሽ አውርድ። { -brand-name-firefox } ግለሰቦች የመስመር ላይ  እንቅስቃሴያቸውን እንዲቆጣጠሩ ታስቦ፣ ለትርፍ ባልተቋቋመ አለምአቀፍ ድርጅት የተፈጠረ ነው። ዛሬውኑ { -brand-name-firefox }ን ለ{ -brand-name-mac-short } ያግኙ!
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = ለ{ -brand-name-mac-short } የምንግዜም በጣም ፈጣኑን { -brand-name-firefox } ያውርዱ
 # /firefox/mac/ social sharing description

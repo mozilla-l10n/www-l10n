@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = ምንም መለያ አያስፈልግም። ግን አንድ ሊፈልጉ ይችላሉ።
+whatsnew-account-main-lead-in = የ{ -brand-name-firefox } አሳሽ ስለእርስዎ በጣም ትንሽ ውሂብ ይሰበስባል፣ የኢሜይል አድራሻዎን እንኳን አንፈልግም። ነገር ግን የ{ -brand-name-firefox } መለያን ለመፍጠር ሲጠቀሙ በብዙ የመስመር ላይ ህይወትዎ ላይ የእርስዎን ግላዊነት ልንጠብቀው እንችላለን።
 whatsnew-account-main-button = ግባ
 
 ##
