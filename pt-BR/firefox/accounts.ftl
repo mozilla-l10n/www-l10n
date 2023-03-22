@@ -13,6 +13,7 @@ firefox-accounts-enter-your-email-address = Digite seu endereço de email para c
 firefox-accounts-already-have-an-account = Já tem uma conta?
 firefox-accounts-sign-in = Entre
 firefox-accounts-already = Você já tem uma { -brand-name-firefox-account }. Parabéns!
+firefox-accounts-manage = Gerenciar sua conta
 # This is followed by a list of things you can do with your Firefox account
 firefox-accounts-sign-in-to = Entre na sua { -brand-name-firefox-account } para:
 # Obsolete string
