@@ -27,6 +27,7 @@ features-index-see-what-makes-us-different = ເບິ່ງສິ່ງທີ�
 features-index-by-non-profit-mozilla = ໂດຍບໍ່ຫວັງຜົນກຳໄລ, { -brand-name-mozilla }
 features-index-by-not-for-profit-mozilla = ໂດຍບໍ່ຫວັງຜົນກຳໄລ, { -brand-name-mozilla }
 features-index-keep-corporate-power = ຮັກສາອໍານາດຂອງບໍລິສັດໃນການກວດສອບ
+features-index-read-mozillas-mission = ອ່ານພາລະກິດຂອງ { -brand-name-mozilla }
 features-index-choose-independence = ເລືອກຜູ້ເປັນອິດສະລະ
 features-index-read-our-privacy-policy = ອ່ານນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງພວກເຮົາ
 features-index-private-by-default = ສ່ວນຕົວຕາມຄ່າເລີ່ມຕົ້ນ

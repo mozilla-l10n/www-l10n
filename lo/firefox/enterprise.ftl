@@ -19,6 +19,7 @@ firefox-enterprise-unmatched-data-protection = ການ​ປົກ​ປ້ອ
 firefox-enterprise-the-firefox-browser-is-open = ບຣາວເຊີ { -brand-name-firefox } ແມ່ນແຫຼ່ງເປີດ ແລະໃຫ້ການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງດີຂຶ້ນ — ທັງໝົດແມ່ນສ່ວນໜຶ່ງຂອງຄວາມມຸ່ງໝັ້ນອັນຍາວນານຂອງພວກເຮົາໃນການປົກປ້ອງຂໍ້ມູນ.
 firefox-enterprise-your-data-stays-your-business = ຂໍ້ມູນຂອງທ່ານຍັງຄົງຢູ່ກັບທຸລະກິດຂອງທ່ານ
 firefox-enterprise-deploy-when-and-how-you-want = ນຳໃຊ້ເວລາ ແລະວິທີທີ່ທ່ານຕ້ອງການ
+firefox-enterprise-with-install-packages-and = ດ້ວຍການຕິດຕັ້ງແພັກເກັດ ແລະ ການຂະຫຍາຍນະໂຍບາຍ ແລະຄຸນສົມບັດຂອງກຸ່ມຢ່າງກ້ວາງຂວາງ, ການນຳໃຊ້ແມ່ນໄວຂຶ້ນ ແລະ ມີຄວາມຍືດຫຍຸ່ນຫຼາຍກວ່າທີ່ເຄີຍເປັນ — ແລະ ມີລົມແຮງໃນສະພາບແວດລ້ອມ { -brand-name-windows } ແລະ { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = ເລືອກຈັງຫວະການປ່ອຍຕົວຂອງເຈົ້າ
 firefox-enterprise-get-rapid-releases-to-make = ໄດ້ຮັບການປ່ອຍອອກມາຢ່າງໄວວາເພື່ອໃຫ້ແນ່ໃຈວ່າທ່ານໄດ້ຮັບຄຸນສົມບັດຫຼ້າສຸດໄວຂຶ້ນ, ຫຼືຂະຫຍາຍອອກໄປເພື່ອຮັບປະກັນປະສົບການທີ່ຫມັ້ນຄົງສູງ.
 firefox-enterprise-enterprise-downloads = ດາວໂຫຼດ { -brand-name-enterprise }

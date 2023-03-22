@@ -72,6 +72,7 @@ firefox-developer-fonts-panel = ກະດານຕົວອັກສອນ
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ະສົ່ງຜົນຕອບຮັບໄປຍັງ { -brand-name-mozilla } ໂດຍອັດຕະໂນມັດ.
 firefox-developer-download-the-firefox-browser = ດາວໂຫຼດບຣາວເຊີ { -brand-name-firefox } ທີ່ສ້າງຂຶ້ນສຳລັບນັກພັດທະນາ
 firefox-developer-welcome-to-the-all-new = ຍິນດີຕ້ອນຮັບສູ່ { -brand-name-firefox-quantum } ໃໝ່ທັງໝົດ: { -brand-name-developer-edition }
+firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ໄດ້​ຮັບ​ການ​ສ້າງ​ຄືນ​ໃໝ່​ຈາກ​ພື້ນ​ຖານ​ເພື່ອ​ໃຫ້​ໄວ, ລຽບ​ກວ່າ, ແລະ​ມີ​ພະ​ລັງ​ແຮງ​ກວ່າ​ທີ່​ເຄີຍ​ມີ​ມາ.
 firefox-developer-congrats-you-now-have-firefox = ຊົມເຊີຍ. ຕອນນີ້ທ່ານມີ { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-this-isnt-just-an-update = ນີ້ບໍ່ແມ່ນພຽງແຕ່ການປັບປຸງ. ນີ້ແມ່ນ { -brand-name-firefox-quantum }: ຍີ່ຫໍ້ໃໝ່ { -brand-name-firefox } ທີ່ສ້າງຂຶ້ນໃໝ່ຈາກເລີ່ມຕົ້ນເພື່ອໃຫ້ໄວຂຶ້ນ, ເງົາງາມ, ແລະມີປະສິດທິພາບຫຼາຍກວ່າທີ່ເຄີຍມີມາ.
 firefox-developer-welcome-to-firefox-browser = ຍິນດີຕ້ອນຮັບສູ່ { -brand-name-firefox-browser } { -brand-name-developer-edition }
