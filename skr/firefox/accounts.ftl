@@ -19,6 +19,9 @@ firefox-accounts-sign-in-to = آپݨے { -brand-name-firefox-account } نال ا
 # Obsolete string
 firefox-accounts-meet-our-family-of = رازداری ــ پہلے مصنوعات دے ساݙے ٹٻر کوں ملو۔
 # Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = ٻئی ڈیوائس کوں <a href="{ $send }">ہک ٹیب بھیڄو</a>
+# Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">پاس ورڈ محفوظ کرو تے ہم وقت کرو</a>
 # Obsolete string
