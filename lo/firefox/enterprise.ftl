@@ -6,11 +6,17 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = ເອົາ { -brand-name-firefox } ສໍາລັບວິສາຫະກິດຂອງທ່ານດ້ວຍ { -brand-name-esr } ແລະການປ່ອຍໄວ
+firefox-enterprise-get-unmatched-data-protection = ຮັບການປົກປ້ອງຂໍ້ມູນທີ່ບໍ່ກົງກັນໃນການປ່ອຍຕົວທີ່ເໝາະສົມກັບທ່ານກັບ { -brand-name-firefox } ສໍາລັບວິສາຫະກິດ. ດາວໂຫລດ { -brand-name-esr } ແລະການປ່ອຍໄວ.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = ພາບລວມ
 firefox-enterprise-downloads = ດາວໂຫລດ
 firefox-enterprise-get-firefox-for-your-enterprise = ເອົາ { -brand-name-firefox } ສໍາລັບວິສາຫະກິດຂອງທ່ານ
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+firefox-enterprise-get-the-firefox-extended-support = ດາວໂຫລດ <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ຫຼື ເປີດຕົວດ່ວນ</a> ເພື່ອຄວາມປອດໄພຂອງຂໍ້ມູນ ແລະການປົກປ້ອງຂໍ້ມູນທີ່ສົມບູນແບບ.
 firefox-enterprise-unmatched-data-protection = ການ​ປົກ​ປ້ອງ​ຂໍ້​ມູນ​ທີ່​ບໍ່​ກົງ​ກັນ — ໃນ​ໄລ​ຍະ​ການ​ປ່ອຍ​ທີ່​ເຫມາະ​ສົມ​ກັບ​ທ່ານ​
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-enterprise-the-firefox-browser-is-open = ບຣາວເຊີ { -brand-name-firefox } ແມ່ນແຫຼ່ງເປີດ ແລະໃຫ້ການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງດີຂຶ້ນ — ທັງໝົດແມ່ນສ່ວນໜຶ່ງຂອງຄວາມມຸ່ງໝັ້ນອັນຍາວນານຂອງພວກເຮົາໃນການປົກປ້ອງຂໍ້ມູນ.
 firefox-enterprise-your-data-stays-your-business = ຂໍ້ມູນຂອງທ່ານຍັງຄົງຢູ່ກັບທຸລະກິດຂອງທ່ານ
 firefox-enterprise-deploy-when-and-how-you-want = ນຳໃຊ້ເວລາ ແລະວິທີທີ່ທ່ານຕ້ອງການ
 firefox-enterprise-choose-your-release-cadence = ເລືອກຈັງຫວະການປ່ອຍຕົວຂອງເຈົ້າ
