@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = Ymunwch â { -brand-name-firefo
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Eisoes â chyfrif? <a { $fxa_attr }>Mewngofnodwch</a> neu <a { $accounts_attr }> dysgwch ragor</a> am ymuno â { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = Eisoes â chyfrif? <a { $fxa_attr }>Mewngofnodwch</a> neu <a { $accounts_attr }>dysgu rhagor</a> am ymuno â Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

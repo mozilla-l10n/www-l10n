@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -34,6 +34,8 @@ privacy-passwords-a-closed-lock = Mae clo clwt caeedig yn ymddangos ychydig cyn 
 privacy-passwords-the-lock-means = Mae'r clo yn golygu bod y wefan rydych chi'n ei defnyddio wedi'i hamgryptio, felly hyd yn oed os yw rhywun yn gwylio'ch pori ar y rhwydwaith (e.e. rhywun ar WiFi cyhoeddus), fyddan nhw ddim yn gallu gweld eich cyfrinair. Bydd { -brand-name-firefox } yn ceisio'ch rhybuddio pan fyddwch ar fin nodi'ch cyfrinair ar wefan heb ei hamgryptio.
 privacy-passwords-a-padlock-with = Mae clo clwt gyda llinell drwyddo yn dangos nad yw'r cysylltiad yn ddiogel.
 privacy-passwords-your-browser-also = Mae eich porwr hefyd yn helpu i roi'r wybodaeth ddiweddaraf i chi am ba mor ddibynadwy yw gwefannau, er mwyn helpu i'ch cadw'n ddiogel rhag gwe-rwydo. Ar y naill law, pan geisiwch ymweld â gwefan sy'n hysbys fel gwefan gwe-rwydo, bydd { -brand-name-firefox } (ac unrhyw borwr safonol) yn dangos rhybudd sgrin lawn - <strong>talwch sylw a meddyliwch ddwywaith cyn defnyddio'r wefan honno!</strong>
+privacy-passwords-firefox-will-v2 = Bydd { -brand-name-firefox }yn dangos rhybudd yn lle'r wefan os yw'n hysbys ei bod yn wefan gwe-rwydo.
+# Outdated string
 privacy-passwords-firefox-will = Bydd Firefox yn dangos rhybudd yn lle'r wefan os yw'n hysbys ei bod yn wefan gwe-rwydo.
 privacy-passwords-in-general-the = Yn gyffredinol, yr amddiffyniad gorau yn erbyn gwe-rwydo yw <strong>bod yn amheus o'r hyn rydych chi'n ei dderbyn</strong>, p'un a yw'n ymddangos mewn e-bost, neges destun neu ar y ffôn. Yn lle gweithredu ar yr hyn a anfonodd rhywun atoch, ewch i'r wefan yn uniongyrchol. Er enghraifft, os yw e-bost yn dweud bod angen i chi ailosod eich cyfrinair PayPal, peidiwch â chlicio ar y ddolen. Ewch i paypal.com eich hun. Os bydd y banc yn galw, ffoniwch nhw nôl.
 privacy-passwords-strength-in-diversity = Cryfder mewn amrywiaeth
@@ -54,10 +56,14 @@ privacy-passwords-twofactor-authentication-2fa = Dilysu Dau Gam (2FA)
 privacy-passwords-2fa-is-a = Mae 2FA yn ffordd wych o wella'ch diogelwch. Wrth greu cyfrif newydd, bydd rhai gwefannau yn rhoi’r dewis i chi ychwanegu “ail gam” at y broses fewngofnodi. Yn aml, mae hyn yn golygu cysylltu eich rhif ffôn â'ch cyfrif, felly ar ôl i chi nodi'ch cyfrinair, byddwch yn cael eich annog i nodi cod diogel wedi'i anfon mewn neges destun yn uniongyrchol atoch chi. Fel hyn, os yw haciwr wedi llwyddo i gipio'ch cyfrinair, fyddan nhw ddim yn gallu mynd i mewn i'ch cyfrif o hyd, gan nad oes ganddyn nhw eich ffôn.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Er enghraifft, mae modd diogelu eich cyfrif { -brand-name-firefox } gyda 2FA, <a { $url_sumo_2fa }>a gallwch ddarllen rhagor amdano yma</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = Mae 2FA yn darparu llawer gwell diogelwch na chyfrineiriau yn unig, ond nid yw pob gwefan yn ei gefnogi. Gallwch ddod o hyd i restr o wefannau sy'n cefnogi 2FA yn <a { $url_2fa }>https://twofactorauth.org</a>, yn ogystal â rhestr o wefannau nad ydyn nhw'n cefnogi 2FA a ffyrdd y gallwch chi ofyn iddyn nhw ei ychwanegu i'w cefnogaeth.
 privacy-passwords-strong-diverse-and = Cryf, amrywiol, ac aml-gam
 privacy-passwords-for-better-or = Er gwell neu er gwaeth, byddwn yn defnyddio cyfrineiriau i ddiogelu ein cyfrifon ar-lein hyd y mae modd ei ragweld. Defnyddiwch gyfrineiriau sy'n <strong>gryf</strong> a <strong>gwahanol ar gyfer pob gwefan</strong>, a defnyddiwch <strong>reolwr cyfrineiriau</strong> i'ch helpu chi i'w cofio'n ddiogel. Gosodwch <strong>atebion hir, ar hap</strong> ar gyfer cwestiynau diogelwch (hyd yn oed os nad ydyn nhw'n wir). A <strong>defnyddio dilysiad dau gam</strong> ar unrhyw wefan sy'n ei gefnogi.
+#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
+#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
+privacy-passwords-in-todays-internet-v2 = Yn y rhyngrwyd heddiw, lle mae miloedd o gyfrineiriau’n cael eu dwyn bob dydd a chyfrifon yn cael eu masnachu ar y farchnad ddu, mae’n werth yr ymdrech i gadw eich bywyd ar-lein yn ddiogel. Pan ddefnyddiwch gynnyrch { -brand-name-firefox }, mae peth o'r baich yn cael ei ysgafnhau, oherwydd mae ein holl gynnyrch wedi'u hadeiladu i gynnal ein <a { $url_privacy_products }>haddewid o breifatrwydd</a>. Ac mae { -brand-name-firefox } bob amser yn cael ei arwain gan <a { $url_about_manifesto }>genhadaeth { -brand-name-mozilla }</a>, y corff nid-er-elw sy'n ein cefnogi, i adeiladu rhyngrwyd gwell.
+# Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = Yn y rhyngrwyd heddiw, lle mae miloedd o gyfrineiriau’n cael eu dwyn bob dydd a chyfrifon yn cael eu masnachu ar y farchnad ddu, mae’n werth yr ymdrech i gadw eich bywyd ar-lein yn ddiogel. Pan ddefnyddiwch gynnyrch { -brand-name-firefox }, mae peth o'r baich yn cael ei godi oddi arnoch, oherwydd mae ein holl gynnyrch wedi'u hadeiladu i gynnal ein <a { $url_privacy_products }>haddewid o breifatrwydd</a> . Ac mae { -brand-name-firefox } bob amser yn cael ei arwain gan <a { $url_about_manifesto }>genhadaeth Mozilla</a>, y corff nid-er-elw sy'n ein cefnogi, i adeiladu rhyngrwyd gwell.

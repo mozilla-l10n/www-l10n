@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
@@ -26,4 +26,6 @@ features-translate-if-you-are = Os ydych eisoes yn defnyddio { -brand-name-firef
 features-translate-with-the-to = *Gyda'r estyniad To { -brand-name-google } Translate, gallwch gyfieithu <a { $attrs }>yr ieithoedd hyn</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> a mwy!</a>
+features-translate-for-everyone-v2 = Mae { -brand-name-firefox } ar gyfer pawb
+# Outdated string
 features-translate-for-everyone = Mae Firefox i bawb

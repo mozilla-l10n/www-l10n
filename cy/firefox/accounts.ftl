@@ -15,7 +15,7 @@ firefox-accounts-sign-in = Mewngofnodwch
 firefox-accounts-already = Mae gennych chi gyfrif { -brand-name-firefox-account } yn barod. Llongyfarchiadau!
 firefox-accounts-manage = Rheoli eich cyfrif
 # This is followed by a list of things you can do with your Firefox account
-firefox-accounts-sign-in-to = Mewngofnodwch i'ch { -brand-name-firefox-account } i:
+firefox-accounts-sign-in-to = Mewngofnodwch i'ch cyfrif { -brand-name-firefox-account } i:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Dyma'n teulu o gynnyrch sy'n blaenoriaethu preifatrwydd.
 # Variables:
@@ -32,10 +32,15 @@ firefox-accounts-keep-your-passwords = Cadwch eich cyfrineiriau wedi'u diogelu a
 firefox-accounts-get-a-lookout-for = Cadw llygad allan am dor-data.
 firefox-accounts-travel-the-internet = Teithiwch y rhyngrwyd gyda diogelwch, ar bob dyfais.
 firefox-accounts-encrypt-your = Amgryptiwch eich gweithgaredd rhwydwaith a chuddio'ch cyfeiriad IP
+firefox-accounts-we-never = Fyddwn ni byth yn cofnodi, tracio na rhannu eich data rhwydwaith
+firefox-accounts-save-articles = Cadw erthyglau o bob rhan o'r we
+firefox-accounts-read-in-a = Darllenwch mewn man tawel, preifat
 firefox-accounts-get-it-all-on-every = Ar gael ar bob dyfais, heb deimlo'n gaeth i un system weithredu.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }

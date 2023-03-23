@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = Mae gan { -brand-name-firefox } nifer
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = Mae gan { -brand-name-firefox } nifer sylweddol iawn o ddefnyddwyr ymroddedig sy'n gwerthfawrogi ein hymroddiad cadarn i breifatrwydd ar-lein. Er enghraifft, mae'r fersiwn ddiweddaraf o { -brand-name-firefox } yn cynnwys nodwedd o'r enw Diogelu Tracio Uwch (ETP) sy'n cael ei droi ymlaen fel rhagymosodiad ar gyfer pob defnyddiwr drwy'r byd i gyd. Mae ETP yn rhwystro dros 2,000 o dracwyr, gan gynnwys tracwyr cymdeithasol gan gwmnïau fel { -brand-name-facebook }, { -brand-name-twitter }, a LinkedIn. Mae ganddo hefyd nodwedd integredig o'r enw <a { $attrs }>{ -brand-name-firefox-monitor }</a> sy'n eich hysbysu'n awtomatig a yw'ch cyfrinair wedi'i dorri neu a oes angen ei ddiweddaru. Yn ychwanegol at y diogelwch yma. Mae'r Pori Preifat yn { -brand-name-firefox } yn dileu eich manylion pori, fel hanes a chwcis yn awtomatig, heb adael unrhyw ôl ar ôl i chi orffen eich sesiwn.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Rydym hefyd wedi ailddatgan yn ddiweddar ein hymrwymiad i breifatrwydd a thryloywder o ran data defnyddwyr yn ein <a { $attrs }>Hysbysiad Preifatrwydd</a> diweddaraf sy'n nodi, “Yn { -brand-name-mozilla }, credwn fod preifatrwydd yn hanfodol i rhyngrwyd iach.”
+# Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Yn ddiweddar, rydym wedi ailddatgan ein hymrwymiad i breifatrwydd a thryloywder ynghylch data defnyddwyr yn ein <a { $attrs }>Hysbysiad Preifatrwydd</a> diweddaraf sy'n nodi, “Ym Mozilla, rydym yn credu fod preifatrwydd yn sylfaenol i ryngrwyd iach.”
