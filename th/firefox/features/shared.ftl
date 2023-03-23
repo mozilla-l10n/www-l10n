@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -16,4 +16,7 @@ features-shared-password-manager = ตัวจัดการรหัสผ่
 features-shared-customize-your-browser = ปรับแต่งเบราว์เซอร์ของคุณ
 features-shared-sync-between-devices = ซิงค์ระหว่างอุปกรณ์
 features-shared-better-bookmarks = ที่คั่นหน้าที่ดีขึ้น
+features-shared-fingerprinter-blocking = ปิดกั้นลายนิ้วมือดิจิทัล
+features-shared-translate-the-web = แปลเว็บ
+features-shared-picture-in-picture = ภาพที่เล่นควบคู่
 brand-name-firefox = { -brand-name-firefox }

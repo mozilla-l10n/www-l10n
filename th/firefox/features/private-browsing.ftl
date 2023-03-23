@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = เบราว์เซอร์ส่วนตัวพร้อมการป้องกันการติดตามพิเศษ
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } ปกป้องความเป็นส่วนตัวออนไลน์ของคุณและปิดกั้นผู้ติดตามที่ติดตามคุณรอบ ๆ เว็บ
+features-private-browsing-download-firefox = ดาวน์โหลด { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: การปกป้องที่มากขึ้น ความกังวลที่น้อยลง
 features-private-browsing-were-obsessed-with = เราหมกมุ่นในการปกป้องความเป็นส่วนตัวของคุณ ทำให้เราสร้างการท่องเว็บแบบส่วนตัวของ { -brand-name-firefox } ได้มีความสามารถมากกว่าตัวอื่น
 features-private-browsing-browse-without = ท่องเว็บโดยไร้ร่องรอย
