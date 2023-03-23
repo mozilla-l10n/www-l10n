@@ -20,6 +20,7 @@ firefox-home-keep-your-passwords = ຮັກສາລະຫັດຜ່ານຂ
 firefox-home-learn-more-about-lockwise = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = ໄດ້ຮັບ <strong>ຄວາມເຄົາລົບ</strong> ທີ່ເຈົ້າສົມຄວນໄດ້ຮັບ
+firefox-home-every-single-firefox = ທຸກໆຜະລິດຕະພັນ { -brand-name-firefox } ໃຫ້ກຽດຕໍ່ສັນຍາຂໍ້ມູນສ່ວນຕົວຂອງພວກເຮົາ: <strong>ເອົາໜ້ອຍລົງ. ຮັກສາຄວາມປອດໄພ. ບໍ່ມີຄວາມລັບ.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = ແບ່ງປັນໄຟລ໌ຂະຫນາດໃຫຍ່ໂດຍບໍ່ມີການຕາ prying
 # Obsolete string
@@ -37,6 +38,7 @@ firefox-home-download-the-browser = ດາວໂຫລດຕົວທ່ອງ�
 firefox-home-download-the-app = ດາວໂຫຼດແອັບ
 firefox-home-get-mozilla-vpn = ເອົາ { -brand-name-mozilla-vpn }
 firefox-home-desktop = ເດັສທັອບ
+firefox-home-browsers = ຕົວທ່ອງເວັບ
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
