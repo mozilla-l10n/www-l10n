@@ -6,9 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
 features-adblocker-how-to-block-annoying = ວິທີການສະກັດການໂຄສະນາທີ່ຫນ້າລໍາຄານໂດຍໃຊ້ຕົວບລັອກໂຄສະນາ
+features-adblocker-how-to-stop-seeing-too = ວິທີການຢຸດເຊົາການເບິ່ງໂຄສະນາຫຼາຍເກີນໄປແລະບໍ່ໃຫ້ບໍລິສັດຕິດຕາມທ່ານອອນໄລນ໌. ຄູ່ມືການຂັດຂວາງການໂຄສະນາຈາກຕົວທ່ອງເວັບຂອງ { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = ຕົວສະກັດກັ້ນການໂຄສະນາ – ອາວຸດລັບຕໍ່ກັບການໂຄສະນາທີ່ຫນ້າລໍາຄານ.
 features-adblocker-so-many-ads-so-little = ໂຄສະນາຫຼາຍ, ອົດທົນໜ້ອຍໜຶ່ງ… ເຖິງເວລາແລ້ວທີ່ຈະຢຸດຄວາມບ້າ.
 features-adblocker-the-average-person-sees = ຄົນທົ່ວໄປເຫັນການໂຄສະນາໂດຍສະເລ່ຍ 4,000 ຕໍ່ມື້. ຖ້າທ່ານຄິດວ່າມັນຫຼາຍເກີນໄປ, ຕົວບລັອກໂຄສະນາແມ່ນຫມູ່ທີ່ດີທີ່ສຸດໃຫມ່ຂອງເຈົ້າ.
+features-adblocker-an-ad-blocker-is-a-piece = ຕົວບລັອກໂຄສະນາເປັນຊິ້ນສ່ວນຂອງຊອບແວທີ່ສາມາດຖືກນໍາໃຊ້ເພື່ອສະກັດການໂຄສະນາ, ແລະພວກເຂົາເຮັດວຽກໃນສອງທາງ. ວິທີທໍາອິດແມ່ນເມື່ອຕົວສະກັດການໂຄສະນາຂັດຂວາງສັນຍານຈາກເຄື່ອງແມ່ຂ່າຍຂອງຜູ້ໂຄສະນາ, ດັ່ງນັ້ນໂຄສະນາບໍ່ເຄີຍສະແດງຢູ່ໃນຫນ້າຂອງທ່ານ. ອີກວິທີຫນຶ່ງທີ່ຕົວບລັອກໂຄສະນາເຮັດວຽກແມ່ນໂດຍການຂັດຂວາງພາກສ່ວນຂອງເວັບໄຊທ໌ທີ່ອາດຈະເປັນໂຄສະນາ.
 features-adblocker-find-the-right-ad-blocker = ຊອກຫາຕົວສະກັດການໂຄສະນາທີ່ເຫມາະສົມສໍາລັບທ່ານ
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
