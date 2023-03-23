@@ -12,7 +12,7 @@ features-translate-translate-more-than = თარგმნეთ 100-ზე მ
 features-translate-translate-the-web = თარგმნეთ საიტები { -brand-name-firefox }-ით
 features-translate-the-google-translate = To { -brand-name-google } Translate გაფართოება { -brand-name-firefox }-ზე ვებსივრცეს ხელმისაწვდომის ხდის მთელი მსოფლიოსთვის.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = ინტერნეტი სავსეა საოცრებებით, თუმცა ბევრი რამ ინგლისურისგან განსხვავებულ ენებზეა — შედეგად, მსოფლიოში მილიარდობით ხალხს ესაჭიროება მთარგმნელი, უბრალოდ ინტერნეტით სარგებლობისთვისაც კი. შეგიძლიათ <a { $attrs }>ჩამოტვირთოთ { -brand-name-firefox } 100-ზე მეტი ენისთვის</a> და ბრაუზერის მენიუები, შეტყობინებები ან ცნობები გამოჩნდება თქვენს სასურველ ენაზე, თუმცა ეს ვერ გადაწყვეტს ბრაუზერით ნანახი მასალების საკითხს.
+features-translate-the-internet-is = ინტერნეტი სავსეა საოცრებებით, მაგრამ ბევრი რამ ინგლისურისგან განსხვავებულ ენებზეა — შედეგად, მსოფლიოში მილიარდობით ხალხს ესაჭიროება მთარგმნელი ინტერნეტით უბრალო სარგებლობისთვისაც კი. შეგიძლიათ <a { $attrs }>ჩამოტვირთოთ { -brand-name-firefox } 100-ზე მეტი ენისთვის</a> და ბრაუზერის მენიუები, შეტყობინებები ან ცნობები გამოჩნდება თქვენს სასურველ ენაზე, თუმცაღა ეს ვერ გადაწყვეტს ბრაუზერით მოძიებული მასალების საკითხს.
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, გამზადებული 100-ზე მეტი ენისთვის* გამოიყენება მილიონობით ადამიანის მიერ, მთელ მსოფლიოში. თუმცა ყოველ ჯერზე translate.google.com საიტზე შესვლა და გამოსვლა გვერდის წასაკითხად, მეტად მოუხერხებელია. <a { $attrs }>To { -brand-name-google } Translate</a> გაფართოებით კი გვერდის თარგმნა შესაძლებელია აქამდე არნახული სიმარტივით.
@@ -26,4 +26,5 @@ features-translate-if-you-are = თუ უკვე გიყენიათ { -
 features-translate-with-the-to = *To { -brand-name-google } Translate გაფართოებით, შეგიძლიათ თარგმნოთ <a { $attrs }>შემდეგ ენებზე</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> და სხვა!</a>
+# Outdated string
 features-translate-for-everyone = Firefox ყველასთვისაა
