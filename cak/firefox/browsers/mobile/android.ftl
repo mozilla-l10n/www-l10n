@@ -11,5 +11,6 @@ mobile-android-firefox-browser = { -brand-name-firefox-browser }
 mobile-android-get-firefox-for = Tak'ulu' { -brand-name-firefox } richin { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Titaq jun ruximik qasanïk pan awoyonib'al.
 mobile-android-scan-the-qr-code-to-get-started = Tiq'axawachib'ëx ri QR b'itz'ib' richin nitikirisäx
+mobile-android-fast-and-private = Anin chuqa' Ichinel
 mobile-android-pick-up-where = Tasik'a' el akuchi' xya' wi kan
 mobile-android-about-mozilla = Achike ri { -brand-name-mozilla }

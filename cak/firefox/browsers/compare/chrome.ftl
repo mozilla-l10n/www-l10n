@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = Pa { -brand-name-firefox }, k'o k'ïy
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = Pa { -brand-name-firefox }, k'o k'ïy okisanela' ri nikiya' ruq'ij ri ichinanem niqasamajij pa k'amab'ey. Akuchi' ri ruk'isib'äl ruwäch { -brand-name-firefox } ruk'amon pe ri Chajinïk chuwäch Ojqanem (ETP pa q'anchi') ri ruk'amon pe chi kiwa ri okisanela' chi jun ri ruwach'ulew. ETP yeruq'ät jun 2,000 ojqanela', achi'el chuqa' aj winäq ojqanela' kichin ajk'ay moloj achi'el { -brand-name-facebook }, { -brand-name-twitter }, chuqa' LinkedIn. Chuqa' ruk'amon pe jun tz'aqät rub'anikil <a { $attrs }>{ -brand-name-firefox-monitor }</a> rub'i' richin nuya' rutzijol chawe we etaman ruwa ri ewan atzij o k'atzinel chi nik'ex. Achi'el ri taq chajinïk ri ichinan okem pa k'amaya'l richin ri { -brand-name-firefox } pa ruyonil nuyüj ri rutzij awokem pa k'amaya'l, achi'el ri natab'äl chuqa' ri taq cookies, akuchi' majun retal nuya' kan toq nak'ïs amolojri'ïl.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Chuqa' qajikib'an ri qana'oj rik'in ri ichinanem chuqa' ri ch'ajch'ojilal pa kiwi' ri taq kitzij okisanela' pa <a { $attrs }>Rutzijol Ichinanem</a> ri nub'ij, “Pa { -brand-name-mozilla } k'o pa qajolom chi yalan k'atzinel ri ichinanem richin jun raxinäq k'amaya'l.”
+# Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Chuqa' qajikib'an ri qana'oj rik'in ri ichinanem chuqa' ri ch'ajch'ojilal pa kiwi' ri taq kitzij okisanela' pa <a { $attrs }>Rutzijol Ichinanem</a> ri nub'ij, “Pa Mozilla k'o pa qajolom chi yalan k'atzinel ri ichinanem richin jun raxinäq k'amaya'l.”
