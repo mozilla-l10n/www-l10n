@@ -23,5 +23,6 @@ home-common-voice = { -brand-name-common-voice }
 home-extensions = ቅጥያዎች
 home-personalize-firefox-with-your = { -brand-name-firefox }ን እንደ የይለፍ ቃል አስተዳዳሪዎች፣ ማስታወቂያ አጋጆች እና ሌሎች ተወዳጅ ተጨማሪዎች ያብጁ።
 home-careers = ሙያዎች
+home-learn-about-the-benefits-of = በ{ -brand-name-mozilla } ውስጥ መስራት ስላለው ጥቅም ይወቁ እንዲሁም በዓለም ዙሪያ ያሉ ክፍት የስራ መደቦችን ይመልከቱ።
 home-need-help = እገዛ ይፈልጋሉ?
 home-get-answers-to-your-questions = ስለ { -brand-name-firefox } እና ሁሉም { -brand-name-mozilla } ምርቶች ጥያቄዎችዎ መልስ ከድጋፍ ቡድናችን ያግኙ።
