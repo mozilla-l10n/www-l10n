@@ -6,58 +6,36 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-firefox-accounts-there-is-a-way-to = Mae ffordd o ddiogelu eich preifatrwydd. Ymunwch â { -brand-name-firefox }.
-# Old HTML page title
 firefox-accounts-get-a-firefox-account = Defnyddiwch { -brand-name-firefox-account } - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
 # HTML page description
-firefox-accounts-take-your-stand-stay-smart = Gwnewch safiad yn erbyn diwydiant sy'n gwerthu eich data i drydydd partïon. Byddwch yn graff a diogel ar-lein gyda thechnoleg sydd o'ch plaid.
-# Old HTML page description
 firefox-accounts-securely-sync-your = Cydweddwch eich cyfrineiriau, eich nodau tudalen a'ch tabiau yn ddiogel ar draws eich holl ddyfeisiau. Defnyddiwch { -brand-name-firefox-account } nawr - Un mewngofnod - Pŵer a phreifatrwydd ymhob man.
-# The span here is for visual formatting to display the phrase "Join Firefox" in a different color.
-firefox-accounts-there-is-a-way-to-protect = Mae yna ffordd o ddiogelu eich preifatrwydd. <span>Ymunwch â { -brand-name-firefox }.</span>
-# This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
-firefox-accounts-take-your-stand-against = Gwnewch safiad yn erbyn diwydiant sy'n eich troi chi'n gynnyrch.
-# The span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
-firefox-accounts-youre-signed-in-to = Rydych wedi mewngofnodi <br>i { -brand-name-firefox }. <br><span>Nawr rhowch gynnig ar { -brand-name-firefox-monitor }.</span>
-firefox-accounts-see-if-youve-been = Gweld os ydych chi wedi bod yn rhan o dor-data ar-lein.
-firefox-accounts-sign-in-to-monitor = Mewngofnodi i { -brand-name-monitor }
-firefox-accounts-join-firefox = Ymunwch â { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Rhowch eich cyfeiriad e-bost i ddechrau.
 firefox-accounts-already-have-an-account = Oes gennych chi gyfrif y barod?
 firefox-accounts-sign-in = Mewngofnodwch
-firefox-accounts-meet-our-family-of = Dyma'n teulu o gynnyrch sy'n blaenoriaethu preifatrwydd.
-firefox-accounts-firefox-is-technology = Mae { -brand-name-firefox } yn dechnoleg sydd o'ch plaid.
-firefox-accounts-get-technology-that = Defnyddiwch dechnoleg sydd o'ch plaid.
-firefox-accounts-travel-the-internet = Teithiwch y rhyngrwyd gyda diogelwch, ar bob dyfais.
+firefox-accounts-already = Mae gennych chi gyfrif { -brand-name-firefox-account } yn barod. Llongyfarchiadau!
+firefox-accounts-manage = Rheoli eich cyfrif
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = Mewngofnodwch i'ch { -brand-name-firefox-account } i:
 # Obsolete string
+firefox-accounts-meet-our-family-of = Dyma'n teulu o gynnyrch sy'n blaenoriaethu preifatrwydd.
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = <a href="{ $send }">Anfon tab</a> i ddyfais arall
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Cadw a chydweddu cyfrineiriau</a>
+firefox-accounts-get-email-alerts = Derbyn rhybuddion e-bost pan fydd eich manylion yn ymddangos mewn achos hysbys o dor-data
+# Obsolete string
+firefox-accounts-see-if-youve-been = Gweld os ydych chi wedi bod yn rhan o dor-data ar-lein.
+firefox-accounts-protect-your-identity = Diogelwch eich hunaniaeth trwy guddio rhif ffôn ac e-bost diogel
 firefox-accounts-keep-your-passwords = Cadwch eich cyfrineiriau wedi'u diogelu ac yn gludadwy.
 firefox-accounts-get-a-lookout-for = Cadw llygad allan am dor-data.
-# Obsolete string
-firefox-accounts-share-large-files = Rhannwch ffeiliau mawr heb lygaid busneslyd.
+firefox-accounts-travel-the-internet = Teithiwch y rhyngrwyd gyda diogelwch, ar bob dyfais.
+firefox-accounts-encrypt-your = Amgryptiwch eich gweithgaredd rhwydwaith a chuddio'ch cyfeiriad IP
 firefox-accounts-get-it-all-on-every = Ar gael ar bob dyfais, heb deimlo'n gaeth i un system weithredu.
-firefox-accounts-and-get-it-all-on = Ar gael ar bob dyfais, heb deimlo'n gaeth i un system weithredu.
-firefox-accounts-get-the-respect-you = Cael y parch rydych yn ei haeddu.
-firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-accounts-whole-device-protection = Diogelwch dyfais gyfan ar bob dyfais
-# Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
-firefox-accounts-youll-always-get-the = Byddwch bob amser yn cael y gwir oddi wrthym ni. Mae popeth rydym yn ei greu a'i wneud yn cadw'n <a href="{ $promise }">Addewid Data Personol </a>:
-# Line breaks for visual formatting.
-firefox-accounts-take-less-keep-it = Cymerwch lai.<br> Ei gadw'n ddiogel.<br> Dim cyfrinachau.
-firefox-accounts-get-the-knowledge = Cael y wybodaeth i'ch cadw'n ddiogel.
-firefox-accounts-learn-everything-you = Dysgwch bopeth y mae angen i chi ei wybod (ond ddim hyd yma) am aros yn graff ac yn ddiogel ar-lein, gan rai o arbenigwyr mwyaf blaenllaw'r byd.
-firefox-accounts-and-be-part-of-protecting = A bod yn rhan o ddiogelu'r rhyngrwyd ar gyfer cenedlaethau'r dyfodol.
-firefox-accounts-help-us-build-a-better = Helpwch ni i greu { -brand-name-firefox } gwell i bawb.
-firefox-accounts-get-into-the-open = Ymunwch â'r ysbryd cod agored drwy brofi cynnyrch sydd ar y gweill.
-# "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
-firefox-accounts-help-us-keep-big-tech = Helpwch ni i gadw golwg ar y cwmnïau technoleg mawr.
-firefox-accounts-we-support-communities = Rydym yn cefnogi cymunedau ledled y byd sy'n gwneud safiad dros rhyngrwyd iachach. Ychwanegwch eich llais i'r frwydr.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
-# Obsolete string
-firefox-accounts-firefox-send = { -brand-name-firefox-send }
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
