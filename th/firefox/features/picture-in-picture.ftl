@@ -9,7 +9,9 @@
 features-pip-firefox-picture-in-picture-get-more = ภาพที่เล่นควบคู่ใน { -brand-name-firefox }: ทำสิ่งต่าง ๆ ให้เสร็จได้มากขึ้นด้วยวิดีโอแบบป็อปเอาท์
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = มีสิ่งที่อยากทำและสิ่งที่อยากดูพร้อมกันไหม? ทำทั้งสองอย่างโดยใช้ภาพที่เล่นควบคู่ใน { -brand-name-firefox }
+features-pip-new-feature-firefox-multi-picture = คุณลักษณะใหม่: ภาพที่เล่นควบคู่ใน { -brand-name-firefox }
 features-pip-cool-feature-picture-in-picture = คุณลักษณะสุดเจ๋ง: ภาพที่เล่นควบคู่
+features-pip-get-more-done-with-pop-out-videos = ทำสิ่งต่าง ๆ ได้มากขึ้นด้วยวิดีโอแบบป็อปเอาต์
 features-pip-got-things-to-do-do-both-with = มีสิ่งที่อยากทำและสิ่งที่อยากดูพร้อมกันไหม? ทำทั้งสองอย่างโดยใช้ภาพที่เล่นควบคู่ใน { -brand-name-firefox } ซึ่งให้คุณเปิดวิดีโอออกจากหน้าเว็บในหน้าต่างใหม่และปักหมุดเข้ากับหน้าจอของคุณเพื่อให้สามารถดูต่อไปขณะที่คุณเปิดหน้า แท็บ และแอปอื่น ๆ ได้
 features-pip-play-the-video = เล่นวิดีโอ
 features-pip-heres-how-it-works = นี่คือวิธีการทำงาน:
