@@ -25,6 +25,10 @@ misinformation-authors-name = Калі вы сустракаеце імя аўт
 misinformation-images-captions = Ці адпавядаюць подпісу відарысы?
 misinformation-how-firefox-helps-heading = Як { -brand-name-firefox } дапамагае пазбегнуць дэзінфармацыі
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } блакіруе трэкеры:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Як згадвалася раней, сачэнне іграе вялікую ролю ў распаўсюджванні дэзынфармацыі. <a href="{ $firefox }">Выкарыстанне { -brand-name-firefox }</a> з <a href="{ $protection }">узмоцненай аховай ад сачэння</a> дапамагае прадвызначана блакаваць староннія трэкеры многіх рэкламадаўцаў і іншых гульцоў, калі вы праглядаеце вэб-старонкі, каб вы вярнулі кантроль над сваімі звесткамі ў інтэрнэце.
 misinformation-social-media-clean-heading = { -brand-name-firefox } дапамагае падтрымліваць чысціню вашых стужак у сацыяльных сетках:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
