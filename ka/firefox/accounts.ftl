@@ -14,6 +14,8 @@ firefox-accounts-already-have-an-account = უკვე გაქვთ ან�
 firefox-accounts-sign-in = შესვლა
 firefox-accounts-already = თქვენ უკვე გაქვთ { -brand-name-firefox-account }. გილოცავთ!
 firefox-accounts-manage = მართეთ თქვენი ანგარიში
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = შედით თქვენს { -brand-name-firefox-account(case: "ine") }:
 # Obsolete string
 firefox-accounts-meet-our-family-of = გაეცანით, პირადულობის უწინარესობის უზრუნველმყოფი პროდუქტების ჩვენს ნაკრებს.
 # Variables:

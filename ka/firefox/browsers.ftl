@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = შემოუერთდი�
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = უკვე გაქვთ ანგარიში? <a { $fxa_attr }>შედით</a> ან <a { $accounts_attr }>იხილეთ ვრცლად,</a> როგორ შემოუერთდეთ { -brand-name-firefox }-ს.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = უკვე გაქვთ ანგარიში? <a { $fxa_attr }>შედით</a> ან <a { $accounts_attr }>იხილეთ ვრცლად,</a> როგორ შემოუერთდეთ Firefox-ს.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
