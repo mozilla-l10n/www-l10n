@@ -26,5 +26,6 @@ features-translate-if-you-are = თუ უკვე გიყენიათ { -
 features-translate-with-the-to = *To { -brand-name-google } Translate გაფართოებით, შეგიძლიათ თარგმნოთ <a { $attrs }>შემდეგ ენებზე</a>:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> და სხვა!</a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } ყველასთვისაა
 # Outdated string
 features-translate-for-everyone = Firefox ყველასთვისაა
