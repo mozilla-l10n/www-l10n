@@ -12,6 +12,10 @@ firefox-accounts-securely-sync-your = Synchronizujte svá hesla, záložky a pan
 firefox-accounts-enter-your-email-address = Začněte zadáním své e-mailové adresy.
 firefox-accounts-already-have-an-account = Už máte účet?
 firefox-accounts-sign-in = Přihlásit se
+firefox-accounts-already = { -brand-name-firefox-account(case: "acc") } už máte. Gratulujeme!
+firefox-accounts-manage = Správa účtu
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = Přihlaste se do svého { -brand-name-firefox-account(case: "gen") } a:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Seznamte se s naší rodinou produktů zaměřených na soukromí.
 # Obsolete string
