@@ -53,6 +53,7 @@ does-firefox-sell = { -brand-name-firefox } ຂາຍຂໍ້ມູນສ່ວ
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = ບໍ່. ບໍ່ເຄີຍມີ, ບໍ່ເຄີຍຈະ. ແລະພວກເຮົາປົກປ້ອງທ່ານຈາກຜູ້ໂຄສະນາຫຼາຍຄົນທີ່ເຮັດ. ຜະລິດຕະພັນຂອງ { -brand-name-firefox } ຖືກອອກແບບເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ. <a href="{ $url }">ນັ້ນແມ່ນຄຳສັນຍາ.</a>
 why-is-firefox = ເປັນຫຍັງ { -brand-name-firefox } ຈຶ່ງຊ້າ?
 is-firefox-chromium = { -brand-name-firefox } { -brand-name-chromium } ແມ່ນອີງໃສ່ບໍ?
 does-firefox-use = { -brand-name-firefox } ໃຊ້ { -brand-name-google } ບໍ?

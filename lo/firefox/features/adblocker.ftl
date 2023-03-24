@@ -15,6 +15,9 @@ features-adblocker-find-the-right-ad-blocker = ຊອກຫາຕົວສະກ
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = ໂຄສະນາປ໊ອບອັບແມ່ນຮ້າຍແຮງທີ່ສຸດ. ບລັອກພວກມັນດ້ວຍ <a href="{ $url }">ຕົວບລັອກປັອບອັບ</a> ແລະບໍ່ເຄີຍຈັດການກັບປັອບອັບທີ່ໜ້າລຳຄານອີກ.
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
+features-adblocker-one-of-the-most-popular = ໜຶ່ງໃນຕົວບລັອກໂຄສະນາທີ່ນິຍົມທີ່ສຸດສຳລັບ { -brand-name-chrome }, { -brand-name-safari } ແລະ { -brand-name-firefox } ແມ່ນ <a href="{ $url }">AdBlock</a >. ໃຊ້ມັນເພື່ອບລັອກໂຄສະນາໃນ { -brand-name-facebook }, { -brand-name-youtube } ແລະ { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = ສ້າງເຂດທີ່ບໍ່ມີຕົວຕິດຕາມດ້ວຍການບລັອກເນື້ອຫາ
 features-adblocker-choose-your-level-of-protection = ເລືອກລະດັບການປົກປ້ອງຂອງທ່ານ
 features-adblocker-to-start-click-on-the = ເພື່ອເລີ່ມຕົ້ນ, ໃຫ້ຄລິກໃສ່ເມນູ { -brand-name-firefox } ໃນມຸມຂວາເທິງຂອງຫນ້າຈໍຂອງທ່ານ. ມັນຄ້າຍຄືສາມເສັ້ນຊ້ອນກັນຢູ່ເທິງສຸດຂອງກັນແລະກັນ. ໃນເມນູເລື່ອນລົງ, ໃຫ້ຄລິກໃສ່ການສະກັດເນື້ອຫາ. ທ່ານຄວນເຫັນປ໊ອບອັບສີຟ້າທີ່ມີການເລືອກທີ່ແຕກຕ່າງກັນ.
