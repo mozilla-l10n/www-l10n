@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox } má obrovské
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = { -brand-name-firefox } má obrovské množství oddaných uživatelů, kteří si cení naší neochvějné oddanosti myšlence zachování soukromí na internetu. Například nejnovější verze { -brand-name-firefox(case: "gen") } obsahuje funkci rozšířené ochrany proti sledování, která je ve výchozím nastavení zapnutá pro všechny uživatele na celém světě. Tato ochrana blokuje více než 2000 sledovacích prvků, včetně těch od { -brand-name-facebook(case: "gen") }, { -brand-name-twitter(case: "gen") } a LinkedInu. Má také integrovanou funkci nazvanou <a { $attrs }>{ -brand-name-firefox-monitor }</a>, která vás automaticky upozorní, pokud bylo vaše heslo součástí úniku dat nebo je potřeba ho aktualizovat. Navíc, režim anonymního prohlížení ve { -brand-name-firefox(case: "loc") } automaticky odstraní vaše informace o prohlížení, jako je historie či cookies, takže po ukončení relace po vás nezůstanou žádné stopy.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Nedávno jsme také zformulovali náš závazek k ochraně soukromí a transparentnosti ohledně uživatelských dat v našem nejnovějším <a { $attrs }>Prohlášení o ochraně osobních údajů</a>, které uvádí, že „Ve společnosti { -brand-name-mozilla } věříme, že ochrana osobních údajů je základem pro zdravý internet.“
+# Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Nedávno jsme také zformulovali náš závazek k ochraně soukromí a transparentnosti ohledně uživatelských dat v našem nejnovějším <a { $attrs }>Prohlášení o ochraně osobních údajů</a>, které uvádí, že „Ve společnosti Mozilla věříme, že ochrana osobních údajů je základem pro zdravý internet.“

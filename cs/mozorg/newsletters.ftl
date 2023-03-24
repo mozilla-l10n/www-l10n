@@ -184,6 +184,9 @@ newsletters-news-and-information = Novinky a informace týkající se zdravého 
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Zástupci studentů
 # Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program-v2 = Původní univerzitní program z let 2008-2011 byl ukončen. Nyní je znovu spuštěn jako program { -brand-name-firefox } Student Ambassadors.
+# Outdated String
+# Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Původní univerzitní program z let 2008-2011 byl ukončen. Nyní je znovu spuštěn jako program Firefox Student Ambassadors.
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Bojujte za internet
@@ -283,10 +286,6 @@ newsletters-special-accouncements-and-messages = Speciální oznámení a zpráv
 newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
 newsletters-updates-from-our-global = Informace od naší komunity, která pomáhá s učením důležitých dovedností, jako je čtení, psaní a aktivní zapojení v digitálním světe.
-# Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-labs = { -brand-name-mozilla-labs }
-# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
-newsletters-were-building-the-technology = Budujeme technologie budoucnosti. Objevujte je s námi.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)

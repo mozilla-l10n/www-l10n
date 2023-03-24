@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -34,6 +34,8 @@ privacy-passwords-a-closed-lock = Zavřený visací zámek se ve všech hlavníc
 privacy-passwords-the-lock-means = Zámek značí, že daná webová stránka užívá šifrované spojení, takže i kdyby někdo sledoval váš pohyb po síti (například jiná osoba na veřejném Wi-Fi hotspotu), nemůže vidět vaše heslo. Když se budete chystat zadat heslo na webu užívajícím nešifrované spojení, { -brand-name-firefox } se vás pokusí varovat.
 privacy-passwords-a-padlock-with = Červeně přeškrtnutý zámek označuje, že připojení není zabezpečené.
 privacy-passwords-your-browser-also = Prohlížeč vás také průběžně informuje o důvěryhodnosti stránek, aby vám pomohl chránit se před phishingem. Když se totiž pokusíte navštívit webovou stránku, o které je známo, že je phishingová, zobrazí { -brand-name-firefox } (a všechny ostatní hlavní prohlížeče) varování přes celou obrazovku – <strong>zpozorněte a dobře si rozmyslete, zda takovou stránku použijete!</strong>
+privacy-passwords-firefox-will-v2 = Pokud je o webové stránce známo, že je phishingová, { -brand-name-firefox } místo ní zobrazí varování.
+# Outdated string
 privacy-passwords-firefox-will = Pokud je o webové stránce známo, že je phishingová, Firefox místo ní zobrazí varování.
 privacy-passwords-in-general-the = Obecně platí, že nejlepší obranou proti phishingu je <strong>být podezřívavý k tomu, co vám přijde</strong>, ať už v e-mailu, textové zprávě nebo na telefonu. Místo toho, abyste jednali podle toho, co vám někdo poslal, navštivte přímo danou stránku. Pokud se například v e-mailu píše, že je třeba, abyste si obnovili heslo ke službě PayPal, neklikejte na uvedený odkaz. Zadejte adresu paypal.com sami. Pokud vám volá banka, zavolejte jí zpět.
 privacy-passwords-strength-in-diversity = Síla v rozmanitosti
@@ -54,10 +56,14 @@ privacy-passwords-twofactor-authentication-2fa = Dvoufázové ověření
 privacy-passwords-2fa-is-a = Dvoufázové ověření je výborný způsob, jak zvýšit úroveň zabezpečení. Při zakládání nového účtu vám některé weby nabídnou možnost přidat do přihlašovacího procesu „druhou fázi“. Často to znamená, že s účtem propojíte své telefonní číslo, takže po zadání hesla budete vyzváni k zadání bezpečnostního kódu, který vám bude zaslán přímo v SMS. Takže pokud by se hackerovi podařilo získat vaše heslo, přesto se do vašeho účtu nedostane, protože nemá váš telefon.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Například váš účet { -brand-name-firefox(case: "gen") } může být chráněn pomocí dvoufázového ověření, o kterém se více můžete dozvědět <a { $url_sumo_2fa }>zde</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = Dvoufázové ověření poskytuje mnohem lepší zabezpečení než samotná hesla, jenže ne každý web ho podporuje. Seznam webů, které dvoufázové ověření podporují, najdete na adrese <a { $url_2fa }>https://twofactorauth.org</a>, na níž najdete i seznam webů, které ho nepodporují, spolu se způsoby, jak je můžete požádat o jeho implementaci.
 privacy-passwords-strong-diverse-and = Silný, rozmanitý a vícefázový
 privacy-passwords-for-better-or = Ať tak či onak, v dlouhodobém výhledu budeme k ochraně svých internetových účtů používat hesla. Používejte <strong>silná</strong> hesla, která jsou <strong>pro každý web jiná</strong>, a používejte <strong>správce hesel</strong>, jenž vám pomůže si je bezpečně zapamatovat. Na bezpečnostní otázky si nastavte <strong>dlouhé a náhodné odpovědi</strong> (i když nejsou pravdivé). A na všech webech, které to podporují, <strong>používejte dvoufázové ověření</strong>.
+#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
+#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
+privacy-passwords-in-todays-internet-v2 = V dnešní době internetu, kdy jsou denně ukradeny tisíce hesel a s účty se obchoduje na černém trhu, se vyplatí věnovat úsilí tomu, aby byl váš online život v bezpečí. Když používáte produkty { -brand-name-firefox }, část tohoto úsilí vám odpadá, protože všechny naše produkty jsou vytvořeny tak, aby dodržovaly náš <a { $url_privacy_products }>slib o ochraně soukromí</a>. A { -brand-name-firefox } se vždy řídí <a { $url_about_manifesto }>posláním { -brand-name-mozilla(case: "gen") }</a>, neziskové organizace stojící za námi, budovat lepší internet.
+# Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = V dnešní době internetu, kdy jsou denně ukradeny tisíce hesel a s účty se obchoduje na černém trhu, se vyplatí věnovat úsilí tomu, aby byl váš online život v bezpečí. Když používáte produkty { -brand-name-firefox }, část tohoto úsilí vám odpadá, protože všechny naše produkty jsou vytvořeny tak, aby dodržovaly náš <a { $url_privacy_products }>slib o ochraně soukromí</a>. A { -brand-name-firefox } se vždy řídí <a { $url_about_manifesto }>posláním Mozilly</a>, neziskové organizace stojící za námi, budovat lepší internet.
