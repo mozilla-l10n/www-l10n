@@ -25,6 +25,9 @@ features-bookmarks-customize-that-bookmark = ປັບແຕ່ງບຸກມ�
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = ເມື່ອຍກັບບ່ອນຂັ້ນໜ້າ
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = ປະຕິບັດຄວາມຊັດເຈນຂອງທ່ານກັບຕົວຈັດການບຸກມາກທຸກ <a href="{ $url }">ສ່ວນເສີມ</a> ທີ່ເຈົ້າສາມາດຄິດໄດ້, ຈາກພາບຖ່າຍເຕັມໜ້າໄປຫາແຖບດ້ານຂ້າງທີ່ສະຫຼັບໄວໄປເປັນບຸກມາກສ່ວນຕົວທີ່ປິດກັ້ນໄວ້.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
