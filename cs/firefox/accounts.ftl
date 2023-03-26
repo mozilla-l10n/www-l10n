@@ -15,9 +15,16 @@ firefox-accounts-sign-in = Přihlásit se
 firefox-accounts-already = { -brand-name-firefox-account(case: "acc") } už máte. Gratulujeme!
 firefox-accounts-manage = Správa účtu
 # This is followed by a list of things you can do with your Firefox account
-firefox-accounts-sign-in-to = Přihlaste se do svého { -brand-name-firefox-account(case: "gen") } a:
+firefox-accounts-sign-in-to = Přihlaste se do svého { -brand-name-firefox-account(case: "gen") } a budete moci:
 # Obsolete string
-firefox-accounts-meet-our-family-of = Seznamte se s naší rodinou produktů zaměřených na soukromí.
+firefox-accounts-meet-our-family-of = Seznámit se s naší rodinou produktů zaměřených na soukromí.
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = <a href="{ $send }">Odeslat panel</a> do jiného zařízení
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Ukládat si a synchronizovat hesla</a>
+firefox-accounts-get-email-alerts = Nechat se upozornit, jestliže se vaše údaje objeví ve známém úniku dat.
 # Obsolete string
 firefox-accounts-see-if-youve-been = Podívejte se, jestli jste nebyli součástí nějakého internetového úniku dat.
 firefox-accounts-keep-your-passwords = Mějte svá hesla v bezpečí a stále s sebou.
