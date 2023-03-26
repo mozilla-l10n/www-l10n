@@ -26,6 +26,7 @@ firefox-accounts-send-a-tab = ٻئی ڈیوائس کوں <a href="{ $send }">ہ�
 firefox-accounts-save-and-sync = <a href="{ $password }">پاس ورڈ محفوظ کرو تے ہم وقت کرو</a>
 # Obsolete string
 firefox-accounts-see-if-youve-been = ݙیکھو بھلا تساں آن لائن ڈیٹا دی خلاف ورزی وچ ملوث ہو۔
+firefox-accounts-protect-your-identity = محفوظ فون تے ای میل ماسکنگ نال آپݨی سُن٘ڄاݨ دی حفاظت کرو
 firefox-accounts-keep-your-passwords = آپݨے پاس ورڈ حفاظت نال تے پورٹیبل رکھو۔
 firefox-accounts-get-a-lookout-for = ڈیٹا دی خلاف ورزیاں ݙیکھو۔
 firefox-accounts-travel-the-internet = ہر ڈیوائس تے حفاظت نال انٹرنیٹ دا پن٘دھ کرو۔
