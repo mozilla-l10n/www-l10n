@@ -30,6 +30,7 @@ firefox-accounts-protect-your-identity = محفوظ فون تے ای میل ما
 firefox-accounts-keep-your-passwords = آپݨے پاس ورڈ حفاظت نال تے پورٹیبل رکھو۔
 firefox-accounts-get-a-lookout-for = ڈیٹا دی خلاف ورزیاں ݙیکھو۔
 firefox-accounts-travel-the-internet = ہر ڈیوائس تے حفاظت نال انٹرنیٹ دا پن٘دھ کرو۔
+firefox-accounts-save-articles = پوری ویب وچوں آرٹیکل محفوظ کرو
 firefox-accounts-get-it-all-on-every = کہیں ہک آپریٹنگ سسٹم وِچ پھسݨ دے احساس کوں محسوس کیتے بغیر ایہ سبھ کجھ ہر ڈیوائس تے حاصل کرو۔
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
