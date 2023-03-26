@@ -17,20 +17,21 @@ firefox-accounts-manage = Správa účtu
 # This is followed by a list of things you can do with your Firefox account
 firefox-accounts-sign-in-to = Přihlaste se do svého { -brand-name-firefox-account(case: "gen") } a budete moci:
 # Obsolete string
-firefox-accounts-meet-our-family-of = Seznámit se s naší rodinou produktů zaměřených na soukromí.
+firefox-accounts-meet-our-family-of = Seznámit se s naší rodinou produktů zaměřených na soukromí
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Poslat panel</a> do jiného zařízení
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Ukládat si a synchronizovat hesla</a>
-firefox-accounts-get-email-alerts = Nechat se upozornit, jestliže se vaše údaje objeví ve známém úniku dat.
+firefox-accounts-get-email-alerts = Nechat se upozornit, jestliže se vaše údaje objeví ve známém úniku dat
 # Obsolete string
-firefox-accounts-see-if-youve-been = Podívat se, jestli jste nebyli součástí nějakého internetového úniku dat.
+firefox-accounts-see-if-youve-been = Podívat se, jestli jste nebyli součástí nějakého internetového úniku dat
 firefox-accounts-protect-your-identity = Chránit svou identitu pomocí bezpečného maskování telefonu a e-mailu
-firefox-accounts-keep-your-passwords = Mít svá hesla v bezpečí a stále s sebou.
-firefox-accounts-get-a-lookout-for = Zkontrolujte známé úniky dat, jestli se vás také netýkají.
-firefox-accounts-travel-the-internet = Na každém svém zařízení cestujte internetem s ochranou.
+firefox-accounts-keep-your-passwords = Mít svá hesla v bezpečí a stále s sebou
+firefox-accounts-get-a-lookout-for = Být informováni o únicích dat
+firefox-accounts-travel-the-internet = Surfovat po internetu bezpečně na každém svém zařízení
+firefox-accounts-encrypt-your = Šifrovat svou síťovou aktivitu a skrývat svou IP adresu
 firefox-accounts-get-it-all-on-every = Toto vše získejte na každém svém zařízení, bez ohledu na operační systém.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
