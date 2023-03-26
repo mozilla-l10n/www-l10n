@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -34,6 +34,8 @@ privacy-passwords-a-closed-lock = Закрытый замок отображае
 privacy-passwords-the-lock-means = Замок означает, что соединение с веб-сайтом, которым вы пользуетесь, является защищённым, поэтому даже если кто-то наблюдает за вашими действиями в Сети (например, другой человек через общедоступную точку доступа Wi-Fi), они не смогут увидеть ваш пароль. { -brand-name-firefox } попытается предупредить вас, если вы попытаетесь ввести свой пароль на незащищённом сайте.
 privacy-passwords-a-padlock-with = Перечёркнутый замок указывает на то, что соединение не является защищённым.
 privacy-passwords-your-browser-also = Ваш браузер также сообщает вам о надёжности веб-сайтов, чтобы защитить вас от фишинга. С одной стороны, при попытке посетить сайт, который известен как фишинговый, { -brand-name-firefox } (и любой другой популярный браузер) отобразит полноэкранное предупреждение — <strong>обратите внимание и подумайте дважды о посещении этого сайта!</strong>
+privacy-passwords-firefox-will-v2 = { -brand-name-firefox } отобразит предупреждение вместо веб-сайта, если известно, что он является фишинговым.
+# Outdated string
 privacy-passwords-firefox-will = Firefox отобразит предупреждение при попытке посетить сайт, который известен как фишинговый.
 privacy-passwords-in-general-the = Как правило, лучшая защита от фишинга — это <strong>с подозрением относиться к тому, что вы получаете</strong>, независимо от того, является ли оно электронным письмом, текстовым сообщением или звонком. Вместо выполнения каких-либо действий с полученным, посетите веб-сайт напрямую. Например, если в электронном письме указано, что вам нужно сбросить пароль PayPal, не переходите по ссылкам. Введите paypal.com самостоятельно. Если звонит банк, перезвоните ему.
 privacy-passwords-strength-in-diversity = Сила в разнообразии
@@ -54,10 +56,14 @@ privacy-passwords-twofactor-authentication-2fa = Двухфакторная ау
 privacy-passwords-2fa-is-a = Двухфакторная аутентификация — отличный способ повысить уровень вашей безопасности. При создании нового аккаунта некоторые веб-сайты дадут вам возможность добавить «второй фактор» в процесс входа на него. Часто это подразумевает привязку вашего номера телефона к аккаунту, так что после ввода пароля вам будет предложено ввести код безопасности, присланный непосредственно вам. Таким образом, даже если у злоумышленника получится узнать ваш пароль, он всё равно не сможет попасть в аккаунт, поскольку у него не будет доступа к вашему телефону.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Например, ваш Аккаунт { -brand-name-firefox } можно защитить с помощью двухфакторной аутентификации, <a { $url_sumo_2fa }>о чём вы можете узнать подробнее здесь</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = Двухфакторная аутентификация обеспечивает гораздо более лучшую защиту, чем просто пароли, но не каждый сайт её поддерживает. Перечень веб-сайтов, которые её поддерживают, а также список сайтов, которые её не поддерживают, и способы попросить их добавить её поддержку можно найти по адресу <a { $url_2fa }>https://twofactorauth.org</a>.
 privacy-passwords-strong-diverse-and = Сложность, уникальность и многофакторность
 privacy-passwords-for-better-or = Хорошо это или плохо, но в ближайшем будущем мы будем использовать пароли для защиты наших аккаунтов. Используйте <strong>надёжные</strong> и <strong>различные для каждого веб-сайта</strong> пароли и используйте <strong>менеджер паролей</strong>, где вы могли бы безопасно их хранить. Указывайте <strong>длинные, уникальные ответы</strong> на контрольные вопросы (даже если они не соответствуют действительности). И <strong>используйте двухфакторную аутентификацию</strong> на любом веб-сайте, который её поддерживает.
+#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
+#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
+privacy-passwords-in-todays-internet-v2 = В современном Интернете, где каждый день крадут тысячи паролей, а учётные записи продаются на черном рынке, стоит приложить усилия для обеспечения безопасности своей онлайн-жизни. Когда вы используете продукты { -brand-name-firefox }, вам не приходится прикладывать много усилий, потому что все наши продукты созданы для соблюдения нашего <a { $url_privacy_products }>обещания конфиденциальности</a>. И { -brand-name-firefox } всегда руководствуется <a { $url_about_manifesto }>миссией { -brand-name-mozilla }</a>, некоммерческой организации, которая поддерживает нас, по созданию лучшего Интернета.
+# Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = В современном Интернете, где ежедневно похищают тысячи паролей, а аккаунтами торгуют на чёрном рынке, стоит приложить усилия, чтобы защитить в нём свою жизнь. При использовании продуктов { -brand-name-firefox } часть усилий снимается с вас, поскольку все наши продукты следуют нашему <a { $url_privacy_products }>Обещанию по Приватности</a>. А { -brand-name-firefox } всегда руководствуется <a { $url_about_manifesto }>миссией Mozilla</a>, некоммерческой организации, которая поддерживает создание лучшего Интернета.
