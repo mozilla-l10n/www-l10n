@@ -20,4 +20,8 @@ features-fingerprinting-if-you-have = ຖ້າທ່ານມີແລັບທ
 features-fingerprinting-fingerprinting-is-bad = ການພິມລາຍນິ້ວມືແມ່ນບໍ່ດີສໍາລັບເວັບ
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = ຕົວທ່ອງເວັບຂອງ { -brand-name-firefox } ຫຼ້າສຸດຈະປົກປ້ອງທ່ານຈາກການພິມລາຍນິ້ວມືໂດຍການຂັດຂວາງການຮ້ອງຂໍຈາກພາກສ່ວນທີສາມຕໍ່ກັບບໍລິສັດທີ່ຮູ້ວ່າມີສ່ວນຮ່ວມໃນການພິມລາຍນິ້ວມື. ພວກ​ເຮົາ​ໄດ້​ເຮັດ​ວຽກ​ຢ່າງ​ໜັກ​ເພື່ອ​ເປີດ​ໃຊ້​ງານ​ປົກ​ປ້ອງ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ນີ້ ໃນ​ຂະ​ນະ​ທີ່​ບໍ່​ໄດ້​ທຳ​ລາຍ​ເວັບ​ໄຊ​ທ໌​ທີ່​ທ່ານ​ມັກ​ເຂົ້າ​ເບິ່ງ. (ອ່ານເພີ່ມເຕີມທີ່ນີ້, ຖ້າທ່ານຕ້ອງການ <a { $url_details }>ລາຍລະອຽດທາງເທັກນິກ</a>.)
+# $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
+features-fingerprinting-and-its-not = ແລະມັນບໍ່ແມ່ນຄວາມເລິກທີ່ເຈົ້າຕ້ອງຂຸດອ້ອມເພື່ອຊອກຫາ. ໃນໂປຣແກຣມທ່ອງເວັບ { -brand-name-firefox } ຫຼ້າສຸດ, ການປິດກັ້ນລາຍນິ້ວມືແມ່ນມາດຕະຖານ, ການຕັ້ງຄ່າເລີ່ມຕົ້ນ. ເຂົ້າໄປເບິ່ງ <a { $url_protections }>ແຜງໜ້າປັດການປົກປ້ອງຄວາມເປັນສ່ວນຕົວ</a> ເພື່ອເບິ່ງວ່າທ່ານຖືກຕິດຕາມຢູ່ເບື້ອງຫຼັງແນວໃດ ແລະ { -brand-name-firefox } ປ້ອງກັນມັນແນວໃດ.
+# $url_download (string) - link to firefox/new
+features-fingerprinting-you-probably-wouldnt = ທ່ານອາດຈະບໍ່ຮູ້ຈັກຄົນທີ່ຕິດຕາມການເຄື່ອນໄຫວຂອງເຈົ້າໃນຊີວິດຈິງ. ບໍ່ມີເຫດຜົນທີ່ຈະຍອມຮັບມັນອອນໄລນ໌. ຖ້າ​ຫາກ​ວ່າ​ທ່ານ​ຍັງ​ບໍ່​ທັນ​ມີ { -brand-name-firefox }, <a { $url_download }>ດາວ​ນ​໌​ໂຫລດ​ແລະ​ປົກ​ປັກ​ຮັກ​ສາ​ຕົວ​ທ່ານ​ເອງ</a> ຈາກ​ການ​ພິມ​ລາຍ​ມື​ດິ​ຈິ​ຕອນ​.
 features-fingerprinting-protect = ຮັກສາຄວາມເປັນສ່ວນໂຕຂອງທ່ານ

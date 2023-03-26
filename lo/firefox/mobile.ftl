@@ -10,6 +10,7 @@ firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } ສ�
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = ເອົາຕົວທ່ອງເວັບມືຖືທີ່ສ້າງຂຶ້ນສໍາລັບທ່ານ, ບໍ່ແມ່ນຜູ້ໂຄສະນາ
+firefox-mobile-check-out-firefox-again-its = ກວດເບິ່ງ { -brand-name-firefox } ອີກຄັ້ງ. ມັນໄວ, ເປັນສ່ວນຕົວ ແລະຢູ່ຂ້າງເຈົ້າ. ສໍາລັບ { -brand-name-ios } ແລະ { -brand-name-android }.
 firefox-mobile-get-automatic-privacy-on-mobile = ຮັບຄວາມເປັນສ່ວນຕົວອັດຕະໂນມັດໃນມືຖື
 firefox-mobile-super-fast-private-by-default = ໄວທີ່ສຸດ. ສ່ວນຕົວຕາມຄ່າເລີ່ມຕົ້ນ. ຂັດຂວາງ 2000+ ບົບຕິດຕາມລຸດອອນໄລນ໌.
 firefox-mobile-get-firefox-mobile = ເອົາ { -brand-name-firefox } ມືຖື
