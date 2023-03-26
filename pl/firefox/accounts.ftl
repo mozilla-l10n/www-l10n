@@ -14,6 +14,8 @@ firefox-accounts-already-have-an-account = Masz już konto?
 firefox-accounts-sign-in = Zaloguj się
 firefox-accounts-already = Masz już { -brand-name-firefox-account(case: "acc", capitalization: "lower") }. Gratulacje!
 firefox-accounts-manage = Zarządzaj kontem
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = Z { -brand-name-firefox-account(case: "ins", capitalization: "lower") } możesz więcej!
 # Obsolete string
 firefox-accounts-meet-our-family-of = Poznaj naszą rodzinę produktów zapewniających prywatność.
 # Variables:
@@ -30,10 +32,15 @@ firefox-accounts-keep-your-passwords = Korzystaj z chronionych i przenośnych 
 firefox-accounts-get-a-lookout-for = Miej oko na wyciekach danych.
 firefox-accounts-travel-the-internet = Podróżuj po Internecie z ochroną na każdym urządzeniu.
 firefox-accounts-encrypt-your = Zaszyfruj swoje działania w sieci i ukrywaj adres IP
+firefox-accounts-we-never = Nigdy nie rejestrujemy, śledzimy ani nie dzielimy się tym, co robisz w Internecie
+firefox-accounts-save-articles = Zachowuj artykuły z całej sieci
+firefox-accounts-read-in-a = Czytaj w cichym, prywatnym miejscu
 firefox-accounts-get-it-all-on-every = Korzystaj z tego wszystkiego na każdym urządzeniu — zachowaj niezależność od systemów operacyjnych.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }
