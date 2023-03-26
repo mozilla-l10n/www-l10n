@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = Присоединитесь к
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Уже есть аккаунт? <a { $fxa_attr }>Войдите</a> или <a { $accounts_attr }>узнайте больше</a> о присоединении к { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = Уже есть аккаунт? <a { $fxa_attr }>Войдите</a> или <a { $accounts_attr }>узнайте больше</a> о присоединении к Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
