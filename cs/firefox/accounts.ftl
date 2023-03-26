@@ -20,14 +20,15 @@ firefox-accounts-sign-in-to = Přihlaste se do svého { -brand-name-firefox-acco
 firefox-accounts-meet-our-family-of = Seznámit se s naší rodinou produktů zaměřených na soukromí.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
-firefox-accounts-send-a-tab = <a href="{ $send }">Odeslat panel</a> do jiného zařízení
+firefox-accounts-send-a-tab = <a href="{ $send }">Poslat panel</a> do jiného zařízení
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Ukládat si a synchronizovat hesla</a>
 firefox-accounts-get-email-alerts = Nechat se upozornit, jestliže se vaše údaje objeví ve známém úniku dat.
 # Obsolete string
-firefox-accounts-see-if-youve-been = Podívejte se, jestli jste nebyli součástí nějakého internetového úniku dat.
-firefox-accounts-keep-your-passwords = Mějte svá hesla v bezpečí a stále s sebou.
+firefox-accounts-see-if-youve-been = Podívat se, jestli jste nebyli součástí nějakého internetového úniku dat.
+firefox-accounts-protect-your-identity = Chránit svou identitu pomocí bezpečného maskování telefonu a e-mailu
+firefox-accounts-keep-your-passwords = Mít svá hesla v bezpečí a stále s sebou.
 firefox-accounts-get-a-lookout-for = Zkontrolujte známé úniky dat, jestli se vás také netýkají.
 firefox-accounts-travel-the-internet = Na každém svém zařízení cestujte internetem s ochranou.
 firefox-accounts-get-it-all-on-every = Toto vše získejte na každém svém zařízení, bez ohledu na operační systém.
