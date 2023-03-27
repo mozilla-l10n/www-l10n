@@ -358,15 +358,7 @@
         [ins] Firefox Monitorom
     }
     .gender = masculine
--brand-name-firefox-sync =
-    { $case ->
-       *[nom] Firefox Sync
-        [gen] Firefoxu Sync
-        [dat] Firefoxu Sync
-        [acc] Firefox Sync
-        [loc] Firefoxe Sync
-        [ins] Firefoxom Sync
-    }
+-brand-name-firefox-private-network = Firefox Private Network
 -brand-name-firefox-relay =
     { $case ->
        *[nom] Firefox Relay
@@ -376,7 +368,16 @@
         [loc] Firefoxe Relay
         [ins] Firefoxom Relay
     }
--brand-name-firefox-private-network = Firefox Private Network
+-brand-name-firefox-sync =
+    { $case ->
+       *[nom] Firefox Sync
+        [gen] Firefoxu Sync
+        [dat] Firefoxu Sync
+        [acc] Firefox Sync
+        [loc] Firefoxe Sync
+        [ins] Firefoxom Sync
+    }
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
