@@ -12,6 +12,7 @@
 firefox-desktop-download-meta-title = Shkarkoni { -brand-name-firefox-browser } — I shpejtë, Privat & Falas — nga { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Shkarkoni { -brand-name-firefox }-in për Desktop — që nga { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Merrni { -brand-name-firefox }, një shfletues i lirë, që ka pas { -brand-name-mozilla }, një ent jofitimprurës përkushtuar shëndetit të internetit dhe privatësisë. Tanimë i gatshëm për { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } dhe { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Merrni { -brand-name-firefox } për { -brand-name-windows }, { -brand-name-mac-short } ose { -brand-name-linux }. { -brand-name-firefox } është një shfletues i lirë, që pas ka { -brand-name-mozilla }, një ent jofitimprurës kushtuar shëndetit dhe privatësisë së internetit.
 firefox-desktop-download-og-title = Shkarkoni { -brand-name-firefox }-in më të shpejtë se kurrë
 firefox-desktop-download-og-desc = Ngarkim më i shpejtë faqesh, përdorim më i pakët i kujtesës dhe plot me veçori, { -brand-name-firefox }-i i ri erdhi.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
