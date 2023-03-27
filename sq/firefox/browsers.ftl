@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = Bëhuni pjesë e { -brand-name-
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Keni tashmë një llogari? <a { $fxa_attr }>Hyni</a> ose <a { $accounts_attr }>mësoni më tepër</a> rreth pjesëmarrjes në { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = Keni tashmë një llogari? <a { $fxa_attr }>Hyni</a> ose <a { $accounts_attr }>mësoni më tepër</a> rreth pjesëmarrjes në Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
