@@ -69,9 +69,9 @@
 -brand-name-firefox-devtools = أدوات فَيَرفُكس للمطوّرين
 -brand-name-firefox-lockwise = فَيَرفُكس Lockwise
 -brand-name-firefox-monitor = فَيَرفُكس Monitor
--brand-name-firefox-sync = فَيَرفُكس Sync
--brand-name-firefox-relay = فَيَرفُكس Relay
 -brand-name-firefox-private-network = شبكة فَيَرفُكس الخاصة
+-brand-name-firefox-relay = فَيَرفُكس Relay
+-brand-name-firefox-sync = فَيَرفُكس Sync
 
 ## Firefox products (short names)
 
