@@ -57,6 +57,7 @@ does-firefox-sell = { -brand-name-firefox } ขายข้อมูลส่ว
 
 nope-never-have = ไม่เคยขายและไม่มีวันคิดจะขาย และเราจะปกป้องคุณจากผู้ลงโฆษณาจำนวนมากที่ทำแบบนั้น ผลิตภัณฑ์ { -brand-name-firefox } นั้นถูกออกแบบมาเพื่อปกป้องความเป็นส่วนตัวของคุณ <a href="{ $url }">นั่นคือคำมั่นสัญญา</a>
 why-is-firefox = ทำไม { -brand-name-firefox } ถึงช้าจัง
+firefox-isnt-slow = ตอนนี้ { -brand-name-firefox } ไม่ช้า…เหมือนก่อนแล้ว ในปี 2017 เราได้สร้างเบราว์เซอร์เอนจินของเราใหม่ (ชื่อ Quantum) เพื่อให้แน่ใจว่า { -brand-name-firefox } จะแข่งขันกับเบราว์เซอร์หลักๆ ตัวอื่นได้ และตัวปิดกั้นตัวติดตามของเราก็ช่วยให้หน้าต่างๆ โหลดได้เร็วขึ้นกว่าเดิม { -brand-name-firefox } จึงเร็วดังสายฟ้าโดยไม่ลดทอนความเป็นส่วนตัวของคุณ
 is-firefox-chromium = { -brand-name-firefox } ทำงานบน { -brand-name-chromium } หรือไม่
 does-firefox-use = { -brand-name-firefox } ใช้ { -brand-name-google } หรือเปล่า
 
