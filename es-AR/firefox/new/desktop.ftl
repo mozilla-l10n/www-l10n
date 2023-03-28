@@ -46,7 +46,7 @@ firefox-desktop-love-your-life = Amá tu vida en línea
 firefox-desktop-its-your-internet = Es tu internet. Coloreala como te guste con miles de herramientas, temas y extensiones. { -brand-name-firefox } es navegador alternativo original que pone a las personas antes que a las ganancias.
 # Obsolete string
 firefox-desktop-download-master-password = Contraseña maestra
-firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores de oublicidad. Es más rápido en Internet
+firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores de publicidad. Podés explorar Internet más rápido.
 firefox-desktop-download-ads-are-distracting = La publicidad distrae y hace que las páginas web se carguen más lentamente mientras que sus rastreadores observan cada movimiento que usted hace en línea. El { -brand-name-firefox-browser } bloquea la mayoría de los rastreadores automáticamente, por lo que no es necesario profundizar en su configuración de seguridad.
 firefox-desktop-download-see-your-report = Mirá tu informe de protección
 firefox-desktop-download-for-everyone = { -brand-name-firefox } es para todos
