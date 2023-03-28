@@ -26,6 +26,7 @@ vpn-shared-pricing-plan-monthly = Штомесяц
 vpn-shared-platform-cta-headline = Давайце пачнём
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Што такое VPN?
 vpn-subnav-faqs = Пытанні і адказы
 vpn-subnav-get-help = Атрымаць дапамогу
 vpn-subnav-platform-android = { -brand-name-android }
@@ -36,6 +37,8 @@ vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Для мабільнага
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Што такое IP-адрас?
+vpn-subnav-when-to-use-a-vpn = Калі выкарыстоўваць VPN
+vpn-subnav-vpn-vs-proxy = VPN супраць проксі
 
 ## VPN Affiliate cookie notice
 
