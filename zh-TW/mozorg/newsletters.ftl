@@ -184,6 +184,9 @@ newsletters-news-and-information = 與 Web 的生態相關的新聞與資訊。
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program-v2 = 2008-2011 年的 University 專案，已經結束，改為 { -brand-name-firefox } 校園大使專案。
+# Outdated String
+# Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = 2008-2011 年的 University 專案，已經結束，改為 Firefox 校園大使專案。
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = 為網際網路採取行動
@@ -283,10 +286,6 @@ newsletters-special-accouncements-and-messages = 來自致力於保持 Web 自�
 newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
 newsletters-updates-from-our-global = 來自我們的全球社群消息更新，幫助人們了解這個時代最重要的能力: 閱讀、寫作、並參與數位世界的能力。
-# Name for the newsletter in Newsletter subscription page
-newsletters-mozilla-labs = { -brand-name-mozilla-labs }
-# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
-newsletters-were-building-the-technology = 我們正在打造未來科技，快來跟我們一起探索。
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)

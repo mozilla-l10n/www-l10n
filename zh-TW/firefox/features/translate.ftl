@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
@@ -26,4 +26,6 @@ features-translate-if-you-are = 若您已經使用 { -brand-name-firefox }，可
 features-translate-with-the-to = * 您目前可以透過 To { -brand-name-google } Translate 擴充套件翻譯<a { $attrs } >下列語言</a>：
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }>還有更多語言！</a>
+features-translate-for-everyone-v2 = 任何人都能使用 { -brand-name-firefox }
+# Outdated string
 features-translate-for-everyone = 適合任何人的 Firefox
