@@ -12,6 +12,7 @@ home-fast-for-good = መፍጠኑ ለበጎ ነው።
 home-with-2x-the-speed-built-in = በ2x ፍጥነት፣ አብሮ የተሰራ የግላዊነት ጥበቃ እና { -brand-name-mozilla } ከኋላ የሚደግፈው፣ አዲሱ { -brand-name-firefox } ለማሰስ የተሻለው መንገድ ነው።
 home-we-make-the-internet-safer = በይነመረብን በዘላቂነት ደህንነቱ የተጠበቀ፣ ጤናማ እና ፈጣን እናደርገዋለን።
 home-our-impact = የእኛ ተጽዕኖ
+home-when-you-use-firefox-you-help = { -brand-name-firefox }ን ሲጠቀሙ { -brand-name-mozilla } በመስመር ላይ የተሳሳቱ መረጃዎችን ለመዋጋት፣ ዲጂታል ክህሎቶችን ለማስተማር እና የአስተያየቶች ክፍሉን የበለጠ ሰዋዊ እንዲሆን ይረዳሉ። ጤናማ በይነመረብ ለመፍጠር ምን እንደሚረዳ ይመልከቱ።
 home-working-at-the-grassroots-and = በመሠረታዊ እና በመመሪያ ደረጃዎች በመስራት የድር ክህሎትን እናስተምራለን፣ መሳሪያዎችን እናቀርባለን እንዲሁም በፍትሃዊነት፣ በአካታችነት እና በአክብሮት ላይ የተገነባን በይነመረብ ዋጋ ለሚሰጥ እያንዳንዱ ግለሰብ ወክለን እንሟገታለን።
 home-mozilla-information-trust-initiative = { -brand-name-mozilla } የመረጃ እምነት ተነሳሽነት
 home-empowering-women-online = በመስመር ላይ ሴቶችን ማበረታታት
