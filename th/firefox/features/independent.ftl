@@ -1,14 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
 
 # HTML page title
-features-independent-firefox-a-different = { -brand-name-firefox } เบราว์เซอร์ที่แตกต่างสำหรับเวลาที่แตกต่าง ท่องเว็บอย่างอิสระ
+features-independent-firefox-a-different = { -brand-name-firefox } เบราว์เซอร์ที่แตกต่างสำหรับเวลาที่แตกต่างที่ให้คุณท่องเว็บได้อย่างอิสระ
 # HTML page description
-features-independent-browse-the-internet = ท่องเว็บได้แบบที่ควรจะเป็น… ฟรี ปลอดภัยและเข้าถึงได้สำหรับทุกคน ประกาศอิสระภาพออนไลน์ของคุณ
+features-independent-browse-the-internet = ท่องเว็บได้แบบที่ควรจะเป็น… ฟรี ปลอดภัยและเข้าถึงได้สำหรับทุกคน มาประกาศอิสรภาพบนโลกออนไลน์ของคุณกัน
 features-independent-firefox-rebel-with-a = { -brand-name-firefox }: ขัดขืนอย่างมีสาเหตุ
 features-independent-firefox-is-independent = { -brand-name-firefox } เป็นอิสระและเป็นส่วนหนึ่งของ { -brand-name-mozilla } ซึ่งเป็นองค์กรไม่แสวงผลกำไรที่ต่อสู้เพื่อสิทธิออนไลน์ของคุณ ทำให้อำนาจของบรรษัทได้รับการตรวจสอบ และทำให้อินเทอร์เน็ตเข้าถึงได้สำหรับทุกคนทุกที่
 # This phrase means without conditions or restrictions, expecting nothing in return
