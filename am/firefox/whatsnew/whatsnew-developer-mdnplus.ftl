@@ -19,6 +19,7 @@ developer-mdnplus-notifications = ማሳወቂያዎች
 developer-mdnplus-the-web-doesnt-have-a = ድሩ የለውጥ  መዝገብ የለውም፣ ነገርግን { -brand-name-mdn } ሊረዳ ይችላል። ገጾቹን ይከተሉ እና ሰነዶች ሲቀየሩ፣ የCSS ባህሪያት ሲጀመሩ እና APIዎች ሲጓዙ ሊበጁ የሚችሉ ማሳወቂያዎችን ያግኙ።
 developer-mdnplus-collections = ስብስቦች
 developer-mdnplus-build-your-perfect-library = የእርስዎን ፍጹም ቤተ-መተግበሪያ ይገንቡ። ወይም እኛ እንገንባልዎት።
+developer-mdnplus-no-more-haphazard-hunting = በሰፊው ምናባዊ ቤተ-መተግበሪያ ውስጥ ማደን ከአሁን በኋላ አያስፈልግም፡- የውስጥ አስተዳዳሪዎን ይልቀቁ እና የሚወዷቸውን መጣጥፎች ለምክክር እንዲያመች በአንድ ቦታ ይሰብስቡ።
 developer-mdnplus-mdn-offline = { -brand-name-mdn } ከመስመር ውጭ
 developer-mdnplus-mdns-entire-library-at-your = የ{ -brand-name-mdn } መላው ቤተ-መተግበሪያ በመዳፍዎ ላይ፡ ከመስመር ውጭ
 developer-mdnplus-resources-for-developers = ግብዓቶች ለገንቢዎች፣ በገንቢዎች።
