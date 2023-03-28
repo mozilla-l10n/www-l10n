@@ -16,6 +16,7 @@ navigation-v2-close-firefox-browsers-menu = የ{ -brand-name-firefox-browsers } 
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } ለዴስክቶፕ
 navigation-v2-get-the-not-for-profit-backed = ለትርፍ ባልተቋቋመ የሚደገፈውን አሳሽ በ{ -brand-name-windows }፣ { -brand-name-mac-short } ወይም { -brand-name-linux } ላይ ያግኙ።
 navigation-v2-firefox-for-android = { -brand-name-firefox } ለ { -brand-name-android }
+navigation-v2-get-the-customizable-mobile = ለ{ -brand-name-android } ብልህስልኮች ሊበጅ የሚችል የስልክ አሳሽ ያግኙ።
 navigation-v2-firefox-for-ios = { -brand-name-firefox } ለ { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = ለእርስዎ { -brand-name-iphone } ወይም { -brand-name-ipad } የስልክ አሳሽ ያግኙ።
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
