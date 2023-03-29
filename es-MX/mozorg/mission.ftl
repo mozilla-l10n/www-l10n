@@ -12,6 +12,9 @@ mission-our-mission-is-to-promote-openness = Nuestra misión es promover la aper
 # Outdated string
 mission-at-mozilla-were-a-global-community = En Mozilla, somos una comunidad global de tecnólogos, pensadores y constructores que trabajamos juntos para mantener vivo y accesible el Internet, de manera que las personas de todo el mundo puedan ser contribuyentes y creadores informados de la Web.
 mission-we-believe-this-act-of-human-collaboration = Creemos que este acto de colaboración humana en una plataforma abierta es esencial para el crecimiento individual y nuestro futuro colectivo.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+mission-read-the-mozilla-manifesto-to-learn-v2 = Leer el <a href="{ $url }"> Manifiesto de { -brand-name-mozilla }</a> para obtener más detalles sobre los valores y principios que guían el logro de nuestra misión.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
