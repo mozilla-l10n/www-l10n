@@ -12,9 +12,14 @@ firefox-accounts-securely-sync-your = Parolalarını, yer imlerini ve sekmelerin
 firefox-accounts-enter-your-email-address = Başlamak için e-posta adresinizi yazın.
 firefox-accounts-already-have-an-account = Zaten hesabınız var mı?
 firefox-accounts-sign-in = Giriş yapın
+firefox-accounts-already = Zaten bir { -brand-name-firefox-account }nız var. Tebrikler!
 firefox-accounts-manage = Hesabınızı yönetin
 # Obsolete string
 firefox-accounts-meet-our-family-of = Gizliliğe öncelik veren ürünlerimizle tanışın.
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Parolaları kaydedip eşitleyin</a>
+firefox-accounts-get-email-alerts = Bilgileriniz yeni bir veri ihlalinde yer alırsa e-posta uyarıları alın
 # Obsolete string
 firefox-accounts-see-if-youve-been = Çevrimiçi veri ihlallerinde verilerinin çalınıp çalınmadığını öğren.
 firefox-accounts-keep-your-passwords = Parolalarını güvenle yanında taşı.
@@ -26,4 +31,6 @@ firefox-accounts-get-it-all-on-every = Tek bir işletim sistemine takılıp kalm
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }
