@@ -12,9 +12,11 @@
 firefox-desktop-download-meta-title = ດາວໂຫລດ { -brand-name-firefox-browser } — ໄວ, ສ່ວນຕົວ ແລະຟຣີ — ຈາກ { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = ດາວໂຫລດ { -brand-name-firefox } ສໍາລັບ Desktop — ຈາກ { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = ຮັບເອົາ { -brand-name-firefox }, ໂປຣແກຣມທ່ອງເວັບຟຣີທີ່ສະໜັບສະໜູນໂດຍ { -brand-name-mozilla }, ອົງກອນບໍ່ຫວັງຜົນກຳໄລທີ່ອຸທິດຕົນເພື່ອສຸຂະພາບອິນເຕີເນັດ ແລະ ຄວາມເປັນສ່ວນຕົວ. ມີໃຫ້ແລ້ວໃນ { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } ແລະ { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = ເອົາ { -brand-name-firefox } ສໍາລັບ { -brand-name-windows }, { -brand-name-mac-short } ຫຼື { -brand-name-linux }. { -brand-name-firefox } ເປັນເວັບບຣາວເຊີຟຣີທີ່ສະໜັບສະໜຸນໂດຍ { -brand-name-mozilla }, ອົງກອນບໍ່ຫວັງຜົນກຳໄລທີ່ອຸທິດຕົນເພື່ອສຸຂະພາບອິນເຕີເນັດ ແລະຄວາມເປັນສ່ວນຕົວ.
 firefox-desktop-download-og-title = ດາວໂຫຼດ { -brand-name-firefox } ທີ່ໄວທີ່ສຸດເທົ່າທີ່ເຄີຍມີມາ
 firefox-desktop-download-og-desc = ການໂຫຼດຫນ້າເວັບທີ່ໄວ, ໃຊ້ຫນ່ວຍຄວາມຈໍາຫນ້ອຍ ແລະ ບັນຈຸຄຸນນະສົມບັດທີ່ຄັບແໜ້ນ, { -brand-name-firefox } ໃຫມ່ແມ່ນຢູ່ທີ່ນີ້ແລ້ວ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = ເອົາຕົວທ່ອງເວັບທີ່ປົກປ້ອງສິ່ງທີ່ສໍາຄັນ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
