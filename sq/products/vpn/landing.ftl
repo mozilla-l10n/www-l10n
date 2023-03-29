@@ -138,6 +138,8 @@ vpn-landing-faq-link = Shihni më tepër PBR
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Shtohuni te Radha: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Merrni njoftim, kur { -brand-name-mozilla-vpn } të jetë gati për rajonin tuaj.
+# Outdated string
 vpn-landing-invite-page-desc = Merrni njoftim, kur { -brand-name-mozilla-vpn } të jetë gati për pajisjen dhe rajonin tuaj.
 vpn-landing-invite-page-heading = Bëhuni pjesë e Radhës për VPN
 vpn-landing-invite-email-label = Cila është adresa juaj email?
@@ -146,15 +148,6 @@ vpn-landing-invite-required-label = E domosdoshme
 vpn-landing-invite-email-placeholder = emrijuaj@example.com
 vpn-landing-invite-country-label = Në cilin vend jetoni?
 vpn-landing-invite-language-label = Përzgjidhni gjuhën tuaj të parapëlqyer.
-vpn-landing-invite-platform-label = Cilat platforma ju interesojnë?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Duke klikuar mbi “Shtohuni në Radhë”, pajtoheni me <a href="{ $privacy }">Rregullat tona të Privatësisë</a>.
