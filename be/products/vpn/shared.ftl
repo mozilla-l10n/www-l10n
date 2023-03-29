@@ -48,6 +48,9 @@ vpn-shared-affiliate-notification-ok = Добра
 ## VPN + Relay bundle offer
 
 vpn-shared-why-bundle = Чаму пакет?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Зэканомце { $percent }%</span> на гадавым плане { -brand-name-relay-premium }
 
 ##
 
