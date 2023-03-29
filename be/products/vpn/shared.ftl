@@ -47,6 +47,7 @@ vpn-shared-affiliate-notification-ok = Добра
 
 ## VPN + Relay bundle offer
 
+vpn-shared-why-bundle = Чаму пакет?
 
 ##
 
