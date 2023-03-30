@@ -55,6 +55,7 @@ firefox-developer-new-tools = ເຄື່ອງມືໃຫມ່
 firefox-developer-inactive-css = CSS ບໍ່ເຄື່ອນໄຫວ
 firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } ຕອນນີ້ເຮັດໃຫ້ການປະກາດ CSS ເປັນສີຂີ້ເຖົ່າທີ່ບໍ່ມີຜົນຕໍ່ຫນ້າ. ເມື່ອທ່ານເລື່ອນໃສ່ໄອຄອນຂໍ້ມູນ, ທ່ານຈະເຫັນຂໍ້ຄວາມທີ່ເປັນປະໂຫຍດກ່ຽວກັບວ່າເປັນຫຍັງ CSS ຈຶ່ງບໍ່ຖືກນຳໃຊ້, ລວມທັງຄຳແນະນຳກ່ຽວກັບວິທີແກ້ໄຂບັນຫາ.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
+firefox-developer-the-new-firefox-devtools = ໃໝ່ { -brand-name-firefox-devtools } ແມ່ນມີປະສິດທິພາບ, ປ່ຽນແປງໄດ້, ແລະດີທີ່ສຸດ, ສາມາດແຮັກໄດ້. ນີ້ປະກອບມີຕົວດີບັ໊ກ JavaScript ທີ່ດີທີ່ສຸດໃນຫ້ອງຮຽນ, ເຊິ່ງສາມາດຕັ້ງເປົ້າຫມາຍຫຼາຍຕົວທ່ອງເວັບແລະຖືກສ້າງຂຶ້ນໃນ React ແລະ Redux.
 firefox-developer-master-css-grid = Master CSS Grid
 # outdated
 firefox-developer-next-gen-css-engine = CSS Engine ຍຸກໃໝ່
@@ -72,6 +73,7 @@ firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-de
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } ມີຕົວແກ້ໄຂເສັ້ນທາງຮູບຮ່າງອັນໃໝ່ທີ່ເອົາການຄາດເດົາອອກຈາກການປັບແຕ່ງຮູບຊົງເງົາ-ນອກ ແລະຮູບຊົງຂອງຄລິບໂດຍການໃຫ້ທ່ານສາມາດປັບແຕ່ງການປັບຕົວຂອງທ່ານໄດ້ຢ່າງງ່າຍດາຍດ້ວຍຕົວແກ້ໄຂພາບ .
 firefox-developer-faster-innovation = ຂໍ້ມູນໄວຂຶ້ນ
 firefox-developer-fonts-panel = ກະດານຕົວອັກສອນ
+firefox-developer-the-new-fonts-panel = ແຜງຟອນໃໝ່ໃນ { -brand-name-firefox-devtools } ຊ່ວຍໃຫ້ນັກພັດທະນາເຂົ້າເຖິງຂໍ້ມູນທັງໝົດທີ່ພວກເຂົາຕ້ອງການໄດ້ໄວກ່ຽວກັບຕົວອັກສອນທີ່ໃຊ້ໃນອົງປະກອບໃດໜຶ່ງ. ມັນຍັງປະກອບມີຂໍ້ມູນທີ່ມີຄຸນຄ່າເຊັ່ນ: ແຫຼ່ງຕົວອັກສອນ, ນ້ໍາຫນັກ, ຮູບແບບແລະອື່ນໆ.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ະສົ່ງຜົນຕອບຮັບໄປຍັງ { -brand-name-mozilla } ໂດຍອັດຕະໂນມັດ.
 firefox-developer-download-the-firefox-browser = ດາວໂຫຼດບຣາວເຊີ { -brand-name-firefox } ທີ່ສ້າງຂຶ້ນສຳລັບນັກພັດທະນາ
 firefox-developer-welcome-to-the-all-new = ຍິນດີຕ້ອນຮັບສູ່ { -brand-name-firefox-quantum } ໃໝ່ທັງໝົດ: { -brand-name-developer-edition }

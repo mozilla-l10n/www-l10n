@@ -78,3 +78,4 @@ who-owns-firefox = ໃຜເປັນເຈົ້າຂອງ { -brand-name-fire
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+related-questions-who = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ໃຜແມ່ນ { -brand-name-firefox } ເປັນເຈົ້າຂອງ, ໃຜເປັນເຈົ້າຂອງ { -brand-name-firefox-browser }, ແມ່ນ { -brand-name-firefox } ເປັນເຈົ້າຂອງໂດຍ { -brand-name-google }, ແມ່ນ { -brand-name-mozilla } { -brand-name-firefox } ເປັນເຈົ້າຂອງໂດຍ { -brand-name-google }

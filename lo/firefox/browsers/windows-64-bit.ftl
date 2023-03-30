@@ -26,4 +26,7 @@ windows-64-bit-how-do-you-get-64 = ທ່ານໄດ້ຮັບ 64-bit { -bran
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
 windows-64-bit-if-youre-running = ຖ້າ​ຫາກ​ວ່າ​ທ່ານ​ກໍາ​ລັງ​ໃຊ້ 64-bit { -brand-name-windows } (<a href="{ $version }">ນີ້ແມ່ນວິທີກວດສອບ</a>), { -brand-name-firefox } ຂອງທ່ານອາດຈະຢູ່ແລ້ວ. 64-ບິດ. <a href="{ $check }">ກວດເບິ່ງເວີຊັນ { -brand-name-firefox } ຂອງທ່ານ</a> (ຢູ່ໃນປ່ອງຢ້ຽມ “ກ່ຽວກັບ { -brand-name-firefox }”) ແລະຊອກຫາ “(32-bit )” ຫຼື “(64-bit)” ຫຼັງຈາກໝາຍເລກເວີຊັນ:
 windows-64-bit-if-you-see-32-bit-older = ຖ້າທ່ານເຫັນ “(32-bit)” ແລະທ່ານກຳລັງໃຊ້ { -brand-name-firefox } 56.0 ຫຼືສູງກວ່າ, ການອັບເດດເປັນເວີຊັນຫຼ້າສຸດຂອງ { -brand-name-firefox } ຄວນອັບເກຣດທ່ານເປັນ 64-bit ໂດຍອັດຕະໂນມັດ.
+# Variables:
+# $all (url) - link to https://www.mozilla.org/firefox/all/
+windows-64-bit-if-you-need-to-run = ຖ້າ​ຫາກ​ວ່າ​ທ່ານ​ຕ້ອງ​ການ​ທີ່​ຈະ​ດໍາ​ເນີນ​ການ 32-bit { -brand-name-firefox } ຫຼື​ຕິດ​ຕັ້ງ 64-bit ຄູ່​ມື { -brand-name-firefox }​, ທ່ານ​ພຽງ​ແຕ່​ສາ​ມາດ​ດາວ​ນ​໌​ໂຫລດ​ແລະ re-run the { -brand-name-windows } (32 -bit ຫຼື 64-bit) { -brand-name-firefox } ຕົວຕິດຕັ້ງຈາກ <a href="{ $all }">{ -brand-name-firefox } ໜ້າດາວໂຫຼດ ແລະພາສາຕ່າງໆ.</a>
 windows-64-bit-take-control-of-your = ຄວບຄຸມໂປແກຼມທ່ອງເວັບຂອງທ່ານ.
