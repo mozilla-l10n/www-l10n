@@ -6,8 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Lataa { -brand-name-firefox } tietokoneille, mobiililaitteille tai yrityskäyttöön
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Hanki selaimet, jotka asettavat yksityisyytesi etusijalle — nyt ja aina
-# HTML page description
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Hanki ansaitsemasi yksityisyys. Parannettu seurantasuojaus on automaattisesti jokaisessa { -brand-name-firefox }-selaimessa.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Hanki <strong>selaimet</strong>, jotka asettavat yksityisyytesi etusijalle — nyt ja aina
@@ -27,6 +29,7 @@ firefox-browsers-go-beyond-two-dimensions-and = Siirry kahden ulottuvuuden taaks
 firefox-browsers-build-sites-and-refine-your = Luo sivustoja ja tarkenna koodiasi { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong> -työkaluilla
 firefox-browsers-learn-more-about-devtools = Lue lisää { -brand-name-devtools }-työkaluista
 firefox-browsers-join-firefox-and-get-the-most = Liity { -brand-name-firefox }iin ja saat kaiken irti kaikista tuotteista — kaikilla laitteilla.
+# Outdated string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
