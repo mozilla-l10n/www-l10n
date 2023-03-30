@@ -17,6 +17,29 @@ firefox-desktop-download-og-title = ດາວໂຫຼດ { -brand-name-firefox 
 firefox-desktop-download-og-desc = ການໂຫຼດຫນ້າເວັບທີ່ໄວ, ໃຊ້ຫນ່ວຍຄວາມຈໍາຫນ້ອຍ ແລະ ບັນຈຸຄຸນນະສົມບັດທີ່ຄັບແໜ້ນ, { -brand-name-firefox } ໃຫມ່ແມ່ນຢູ່ທີ່ນີ້ແລ້ວ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = ເອົາຕົວທ່ອງເວັບທີ່ປົກປ້ອງສິ່ງທີ່ສໍາຄັນ
+firefox-desktop-download-download-options = ທາງເລືອກໃນການດາວໂຫຼດ ແລະພາສາອື່ນໆ
+firefox-desktop-download-browser-support = ຮອງຮັບ { -brand-name-firefox-browser }
+firefox-desktop-download-how-we-compare = ພວກເຮົາປຽບທຽບກັບຕົວທ່ອງເວັບອື່ນໆແນວໃດ
+firefox-desktop-download-compare-firefox-to = ປຽບທຽບ { -brand-name-firefox } ກັບ:
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = ແມ່ນ
+firefox-desktop-download-no = ບໍ່
+firefox-desktop-download-blocks-third-party = ບລັອກຄຸກກີຕິດຕາມພາກສ່ວນທີສາມ
+firefox-desktop-download-blocks-third-party-default = ບລັອກຄຸກກີ້ການຕິດຕາມພາກສ່ວນທີສາມຕາມຄ່າເລີ່ມຕົ້ນ
+firefox-desktop-download-autoplay-blocking = ການປິດກັ້ນການຫຼິ້ນອັດຕະໂນມັດ
+firefox-desktop-download-blocks-social-trackers = ປິດກັ້ນຜູ້ຕິດຕາມສັງຄົມ
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = ຄວາມພ້ອມຂອງ OS
+firefox-desktop-download-in-browser-screenshot = ເຄື່ອງມື screenshot ໃນຕົວທ່ອງເວັບ
+firefox-desktop-download-primary-password = ລະຫັດຜ່ານຫຼັກ
+# Obsolete string
+firefox-desktop-love-your-life = ຮັກຊີວິດອອນໄລນ໌ຂອງເຈົ້າ
+# Obsolete string
+firefox-desktop-its-your-internet = ມັນແມ່ນອິນເຕີເນັດຂອງເຈົ້າ. ສີມັນຕາມທີ່ທ່ານຕ້ອງການດ້ວຍເຄື່ອງມື, ຮູບແບບສີສັນ ແລະສ່ວນຂະຫຍາຍຫຼາຍພັນອັນ. { -brand-name-firefox } ແມ່ນຕົວທ່ອງເວັບທາງເລືອກຕົ້ນສະບັບທີ່ເຮັດໃຫ້ຄົນມາກ່ອນກໍາໄລ.
+# Obsolete string
+firefox-desktop-download-master-password = ລະຫັດຜ່ານຫຼັກ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 

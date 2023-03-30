@@ -26,6 +26,7 @@ mobile-compare-a-main-ingredient = ສ່ວນປະກອບຫຼັກຂອ
 mobile-compare-syncing-strong = <strong>ກຳລັງຊິ້ງຂໍ້ມູນ</strong>
 mobile-compare-syncing = ກຳລັງ sync
 mobile-compare-does-your-browser = ຕົວທ່ອງເວັບຂອງທ່ານຫຼິ້ນໄດ້ດີກັບອຸປະກອນອື່ນໆບໍ?
+mobile-compare-the-mobile-version = ເວີຊັນມືຖືຂອງ { -brand-name-safari }, ເຊິ່ງຖືກຕິດຕັ້ງໄວ້ລ່ວງໜ້າໃນອຸປະກອນມືຖືຂອງ { -brand-name-apple }, ແມ່ນໃຊ້ໄດ້ກັບອຸປະກອນອື່ນຂອງ { -brand-name-apple } ເຊັ່ນ: { -brand-name-ipad } ແລະ { -brand-name-mac-short } ແລັບທັອບ. { -brand-name-firefox }, { -brand-name-chrome }, ແລະ { -brand-name-opera } ເຮັດວຽກໃນທົ່ວທຸກແພລດຟອມລວມທັງ { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short }, ແລະ { -brand-name-linux }, ຍົກເວັ້ນຕົວທ່ອງເວັບຂອງ { -brand-name-edge } ເຊິ່ງບໍ່ເຂົ້າກັນໄດ້ກັບ ອຸປະກອນທີ່ອີງໃສ່ { -brand-name-linux }.
 mobile-compare-almost-all-of = ເກືອບທັງຫມົດຂອງຕົວທ່ອງເວັບມືຖືເມື່ອປຽບທຽບທີ່ນີ້ອະນຸຍາດໃຫ້ synchronization ສໍາເລັດລະຫວ່າງອຸປະກອນມືຖືແລະ desktop.
 mobile-compare-the-good-news = ຂ່າວດີສໍາລັບຜູ້ໃຊ້ { -brand-name-iphone } ແມ່ນວ່າເມື່ອບໍ່ດົນມານີ້ { -brand-name-apple } ໄດ້ອະນຸຍາດໃຫ້ຜູ້ໃຊ້ { -brand-name-iphone } ເລືອກຕົວທ່ອງເວັບເລີ່ມຕົ້ນຂອງຕົນເອງ, ດັ່ງນັ້ນໃນປັດຈຸບັນຜູ້ໃຊ້ສາມາດ sync ອຸປະກອນຂອງເຂົາເຈົ້າໃນທົ່ວ. ຕົວຢ່າງເຊັ່ນ, ເວທີທີ່ເຂົາເຈົ້າຕິດຕັ້ງ { -brand-name-firefox } ຢູ່ໃນ { -brand-name-iphone } ແລະ { -brand-name-windows } PC ຂອງເຂົາເຈົ້າ.
 mobile-compare-conclusion = ສະຫລຸບ
