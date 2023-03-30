@@ -47,6 +47,13 @@ vpn-shared-affiliate-notification-ok = Добра
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = Павялічце сваю прыватнасць з { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Дадаць <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Маскіроўка электроннай пошты
+vpn-shared-relay-phone-masking = Маскіроўка нумара тэлефона
+vpn-shared-get-vpn-plus-relay = Атрымаць { -brand-name-vpn } + { -brand-name-relay }
 vpn-shared-why-bundle = Чаму пакет?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
