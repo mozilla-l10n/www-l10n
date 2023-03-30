@@ -73,6 +73,10 @@ vpn-shared-pricing-plan-monthly = Kuukausittain
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount } <span>kuukaudessa</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/kuukausi + verot</span>
 # Outdated string
 vpn-shared-pricing-get-6-month = Hanki 6 kuukauden tilaus
 # Outdated string
@@ -93,6 +97,10 @@ vpn-shared-when-you-subscribe = * kun sitoudut 12 kuukauden tilaukseen
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } yhteensä
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = { $amount } yhteensä + verot
 
 # Platform subpage shared strings
 
@@ -135,6 +143,8 @@ vpn-shared-affiliate-notification-ok = OK
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Lisää <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Maski sähköpostiosoittelle
+vpn-shared-relay-phone-masking = Maski puhelinnumerolle
 vpn-shared-get-vpn-plus-relay = Hanki { -brand-name-vpn } + { -brand-name-relay }
 
 ##

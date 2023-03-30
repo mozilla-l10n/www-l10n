@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Turv
 facebook-container-get-the-facebook-container = Hanki { -brand-name-facebook-container } -laajennus
 facebook-container-download-firefox-and-get-the = Lataa { -brand-name-firefox } yhdessä { -brand-name-facebook-container } -laajennuksen kanssa
 facebook-container-only-available-for-desktop = Laajennus { -brand-name-facebook-container } on tällä hetkellä saatavilla vain { -brand-name-firefox }in työpöytäversiolle.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } -laajennusta ei ole saatavilla mobiililaitteille.
 # Outdated string
