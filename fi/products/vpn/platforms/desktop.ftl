@@ -7,6 +7,11 @@
 
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } työpöydälle (PC & kannettava)
+vpn-desktop-wifi-headline = Tunne olosi turvalliseksi käyttäessäsi julkista wifiä
 vpn-desktop-privacy-headline = Yksityisyyttä yhdellä napsautuksella
+vpn-desktop-servers-headline = Yhdistä palvelimiin kaikkialla maailmassa
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = Suojaa jopa { $devices } laitetta
 vpn-desktop-speed-headline = Uskomaton nopeus, ei rajoituksia
 vpn-desktop-log-headline = Yksityisyytesi on etusijalla

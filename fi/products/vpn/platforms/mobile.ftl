@@ -5,5 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+# Meta strings
+vpn-mobile-page-title = { -brand-name-mozilla-vpn } mobiililaitteille (älypuhelimille ja tablet-laitteille)
+vpn-mobile-about-headline = Tietoja { -brand-name-mozilla }sta
 vpn-mobile-privacy-headline = Yksityisyyttä yhdellä napsautuksella
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-devices-headline = Suojaa jopa { $devices } laitetta
 vpn-mobile-speed-headline = Uskomaton nopeus, ei rajoituksia
+vpn-mobile-log-headline = Yksityisyytesi on etusijalla

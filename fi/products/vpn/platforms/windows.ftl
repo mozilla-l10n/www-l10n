@@ -9,5 +9,10 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } { -brand-name-windows } 10:lle
+vpn-windows-wifi-headline = Pysy yksityisenä julkisessa wifissä
+vpn-windows-about-headline = Internet-yksityisyyden johtajalta
 vpn-windows-privacy-headline = Suojausta napin painalluksella
+vpn-windows-servers-headline = Käytä palvelimia ympäri maailmaa
+vpn-windows-devices-headline = Yksi tilaus kaikille laitteillesi
 vpn-windows-speed-headline = Ei kaistanleveysrajoituksia
+vpn-windows-log-headline = Yksityisyytesi on meille etusijalla

@@ -17,4 +17,5 @@ vpn-android-servers-headline = { $servers }+ palvelinta yli { $countries } maass
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Yksi tilaus jopa { $devices } laitteelle
+vpn-android-speed-headline = Erittäin nopea ja rajoittamaton määrä dataa.
 vpn-android-log-headline = Ei lokeja. Ei seurantaa. Ei yksityisyyden loukkauksia.
