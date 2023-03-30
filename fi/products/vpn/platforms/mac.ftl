@@ -9,3 +9,4 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } { -brand-name-mac-short }:lle
+vpn-mac-privacy-headline = Yksityisyyttä käden ulottuvilla
