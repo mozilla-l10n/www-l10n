@@ -10,5 +10,8 @@ developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest = Onnittelut. Sinulla on nyt uusin { -brand-name-firefox-browser } { -brand-name-developer-edition } -versio.
 # CTA button
 developer-mdnplus-get-started = Aloitetaan
+developer-mdnplus-whats-included = Tämä kaikki sisältyy
 developer-mdnplus-notifications = Ilmoitukset
 developer-mdnplus-collections = Kokoelmat
+developer-mdnplus-build-your-perfect-library = Rakenna täydellinen kirjastosi. Tai anna meidän rakentaa se sinulle.
+developer-mdnplus-resources-for-developers = Resursseja kehittäjille - kehittäjiltä.

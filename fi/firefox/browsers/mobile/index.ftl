@@ -5,7 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+# HTML page title
+browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox }-mobiiliselaimet asettavat yksityisytesi etusijalle
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android }ille
+browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Vertaa mobiiliselaimia
 browsers-mobile-compare = Vertaa
 browsers-mobile-download = Lataa

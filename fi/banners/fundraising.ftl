@@ -6,6 +6,9 @@
 ### URL: https://www-dev.allizom.org/
 
 banner-fundraising-title-v2 = Auta { -brand-name-mozilla }a taistelemaan paremman internetin puolesta tänä lomakautena.
+banner-fundraising-title-giving-day = Auta { -brand-name-mozilla }aa taistelemaan paremman internetin puolesta tänä Tekojen tiistaina.
+# Outdated string
+banner-fundraising-title = Tulevaisuudesta päätetään verkossa. Auta { -brand-name-mozilla }a taistelemaan verkon puolesta meitä kaikkia varten.
 banner-fundraising-body-extra = Voitko lahjoittaa tänään?
 banner-fundraising-monthly = Kuukausittain
 banner-fundraising-one-time = Kerran

@@ -1,10 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
+best-browser-find-your-best-browser = Löydä paras selain nopeuden, yksityisyyden ja turvallisuuden takaamiseksi.
 best-browser-privacy-speed-and-security = Yksityisyys, nopeus ja turvallisuus.
 best-browser-how-to-choose-the-best = Näin valitset parhaan selaimen itsellesi.
 best-browser-the-internet-has-become = Internetistä on tullut yhtä oleellinen kuin sähköstä ja juoksevasta vedestä, joten parhaan selaimen valitseminen on tärkeämpää kuin koskaan. Internet on toinen toimistosi, opettaja ja joskus jopa opastajasi terveysasioissa, vaikka oikea lääkärisi ei suosittelisi itsediagnosointia verkossa.
