@@ -24,6 +24,7 @@ vpn-shared-pricing-plan-monthly = Штомесяц
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = Давайце пачнём
+vpn-shared-platform-what-youll-get = Што вы атрымаеце з { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = Што такое VPN?
@@ -39,15 +40,22 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Што такое IP-адрас?
 vpn-subnav-when-to-use-a-vpn = Калі выкарыстоўваць VPN
 vpn-subnav-vpn-vs-proxy = VPN супраць проксі
+vpn-subnav-subscribe = Падпісацца на { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Мы выкарыстоўваем кукі, каб зразумець, які афіліяваны партнёр прывёў вас да { -brand-name-mozilla-vpn }. Мы не перадаём персанальную інфармацыю нашым партнёрам. Прачытайце нашу <a { $attrs }>Палітыку прыватнасці</a>.
 vpn-shared-affiliate-notification-reject = Адхіліць
 vpn-shared-affiliate-notification-ok = Добра
 
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = Павялічце сваю прыватнасць з { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Дадайце { -brand-name-firefox-relay } да сваёй падпіскі, каб абараніць сваю электронную пошту і нумар тэлефона. <a href="{ $url }">Падрабязней</a>.
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Дадаць <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
