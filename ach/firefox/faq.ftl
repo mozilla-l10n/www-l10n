@@ -50,6 +50,7 @@ does-firefox-use = Mono { -brand-name-firefox } tiyo ki { -brand-name-google }?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+who-owns-firefox = Anga ma rwod { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
