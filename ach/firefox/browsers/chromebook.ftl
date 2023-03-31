@@ -15,6 +15,7 @@ browsers-chromebook-x86-based-chromebook = { -brand-name-chromebook } me *x86 ma
 browsers-chromebook-dropdown-copy = Nong { -brand-name-firefox } pi { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Pi ngo myero inong <span>{ -brand-name-firefox }</span> pi { -brand-name-chromebook }?
+browsers-chromebook-while-a-chromebook = Kadi bed ni { -brand-name-chromebook } dong tye ki { -brand-name-chrome } ma kiketo iyie, gamo ki tic ki { -brand-name-firefox } macalo layeny mamegi makwongo miyo ilimo ber ne mogo:
 browsers-chromebook-is-it-hard = Tek me keto { -brand-name-firefox } pi { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Wamito ni onongo omyero obed atir, ento { -brand-name-chromebook } mamegi mito ni twara ki gwok in i kabedo gi me { -brand-name-google-play }. Ento, watamo ni pire tek ki in me keto layeny me { -brand-name-firefox } ii { -brand-name-chromebook } mamegi – ki watye ki jami me konyi kacce imito gi. Tye yoo aryo me nongo { -brand-name-firefox } i nyonyo mamegi.
 
