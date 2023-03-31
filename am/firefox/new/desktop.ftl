@@ -120,12 +120,16 @@ firefox-desktop-download-enhanced-tracking-protection = የተሻሻለ የክ�
 firefox-desktop-download-from-watching-a = የድር አጋዥ ስልጠናን ከመመልከት ጀምሮ የሚወዱትን ቡድን እስከመከታተል፣ የተለያየ ሥራ በሚሰሩበት ጊዜ ተንቀሳቃሽ ምስልዎ ይከተልዎታል።
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = ለ<strong>{ -brand-name-android }</strong> { -brand-name-firefox-browser }ን ያግኙ
+firefox-desktop-download-get-firefox-ios = ለ<strong>{ -brand-name-ios }</strong> { -brand-name-firefox-browser } ያግኙ
 firefox-desktop-download-download-the-mobile = በሁሉም መሳሪያዎችዎ ላይ ለራስ-ሰር ጥበቃ { -brand-name-firefox } የስልክ አሳሽ ያውርዱ።
 firefox-desktop-download-learn-about-the = ከታች ስለ { -brand-name-firefox } ዴስክቶፕ አሳሽ ይወቁ
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = ከደህንነት እስከ ዜና እስከ ጨዋታ፣ ለእያንዳንዱ ሰው የሚሆን <a { $attrs }>ቅጥያ</a> አለ። አሳሽዎ ፍላጎትዎን እስኪሞላ ድረስ የፈለጉትን ያህል ይጨምሩ።
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } የተፈጠረው በ<a { $attrs }>{ -brand-name-mozilla }</a> እንደ ፈጣን እና የበለጠ የግል አሳሾች እንደ { -brand-name-ie }፣ እና አሁን { -brand-name-chrome }። ዛሬ፣ በተልዕኮ የሚመራ ኩባንያችን እና የበጎ ፈቃደኞች ማህበረሰቦች የእርስዎን ግላዊነት ከምንም በላይ ማስቀደማቸውን ቀጥለዋል።
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = በይነመረቡ ሲያድግ እና ሲቀየር { -brand-name-firefox } በእርስዎ የግላዊነት መብት ላይ ማተኮር ይቀጥላል - እኛ <a { $attrs }>የግል ውሂብ ቃል ኪዳን</a> እንለዋን፡- ትንሽ ይውሰዱ። ደህንነቱ የተጠበቀ ያድርጉት። ምንም ሚስጥሮች የሉም። የእርስዎ ውሂብ፣ የእርስዎ የድር እንቅስቃሴ፣ የመስመር ላይ ህይወትዎ በ{ -brand-name-firefox } የተጠበቀ ነው።

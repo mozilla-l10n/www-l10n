@@ -16,6 +16,7 @@ developer-mdnplus-support-mdn-and-make = { -brand-name-mdn } ይደግፉ <em>�
 developer-mdnplus-get-started = ይጀምሩ
 developer-mdnplus-whats-included = ምን ይካተታል
 developer-mdnplus-notifications = ማሳወቂያዎች
+developer-mdnplus-development-in-real-time = በእውነተኛ ጊዜ ልማት፡ ብጁ ማንቂያዎችን ያግኙ
 developer-mdnplus-the-web-doesnt-have-a = ድሩ የለውጥ  መዝገብ የለውም፣ ነገርግን { -brand-name-mdn } ሊረዳ ይችላል። ገጾቹን ይከተሉ እና ሰነዶች ሲቀየሩ፣ የCSS ባህሪያት ሲጀመሩ እና APIዎች ሲጓዙ ሊበጁ የሚችሉ ማሳወቂያዎችን ያግኙ።
 developer-mdnplus-collections = ስብስቦች
 developer-mdnplus-build-your-perfect-library = የእርስዎን ፍጹም ቤተ-መተግበሪያ ይገንቡ። ወይም እኛ እንገንባልዎት።
