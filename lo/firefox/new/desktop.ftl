@@ -53,8 +53,58 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } ແມ່ນສ�
 firefox-desktop-download-available-in-over = ມີຢູ່ໃນຫຼາຍກວ່າ 90 ພາສາ, ແລະເຂົ້າກັນໄດ້ກັບເຄື່ອງ { -brand-name-windows }, { -brand-name-mac-short } ແລະ { -brand-name-linux }, { -brand-name-firefox } ເຮັດວຽກບໍ່ວ່າຈະເປັນ. ເຈົ້າກຳລັງໃຊ້ຫຍັງ ຫຼືຢູ່ໃສ. ໃຫ້ແນ່ໃຈວ່າລະບົບປະຕິບັດການຂອງທ່ານມີຄວາມທັນສະໄຫມສໍາລັບປະສົບການທີ່ດີທີ່ສຸດ.
 firefox-desktop-download-review-system-req = ກວດເບິ່ງຄວາມຕ້ອງການຂອງລະບົບ
 firefox-desktop-download-all-your-devices = ໃສ່ { -brand-name-firefox } ໃນທຸກອຸປະກອນຂອງທ່ານ
+firefox-desktop-download-take-your-privacy = ເອົາຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າໄປກັບເຈົ້າຢູ່ທົ່ວທຸກແຫ່ງ. { -brand-name-firefox-browsers } ສໍາລັບ { -brand-name-ios } ແລະ { -brand-name-android } ມີການຕັ້ງຄ່າຄວາມເປັນສ່ວນຕົວທີ່ເຂັ້ມແຂງຄືກັນເພື່ອບລັອກຜູ້ຕິດຕາມບໍ່ໃຫ້ຕິດຕາມເຈົ້າໄປທົ່ວເວັບ, ບໍ່ວ່າທ່ານຈະຢູ່ໃສກໍຕາມ.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = ເຮັດມັນ <strong>ທັງໝົດ</strong> ດ້ວຍ { -brand-name-firefox }
+firefox-desktop-download-search-smarter = ຊອກຫາທີ່ສະຫຼາດຂຶ້ນ, ໄວກວ່າ
+firefox-desktop-download-search-from-address = ຄົ້ນຫາຈາກແຖບທີ່ຢູ່
+firefox-desktop-download-search-engine-options = ທາງເລືອກຂອງເຄື່ອງຈັກຊອກຫາ
+firefox-desktop-download-smart-search-suggestions = ຄຳແນະນຳການຊອກຫາທີ່ສະຫຼາດ
+firefox-desktop-download-bookmark-history = ບຸກມາກ, ປະຫວັດ ແລະແຖບເປີດຢູ່ໃນຜົນໄດ້ຮັບ
+firefox-desktop-download-boost-your = ເສີມຂະຫຍາຍຜົນຜະລິດຂອງທ່ານ
+firefox-desktop-download-works-with-google = ເຮັດວຽກກັບຜະລິດຕະພັນ { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = ເຄື່ອງມື screenshot ໃນຕົວ
+firefox-desktop-download-bookmarks-manager = ຜູ້ຈັດການບຸກມາກ
+firefox-desktop-download-autosuggest-urls = ແນະນຳອັດຕະໂນມັດ URLs
+firefox-desktop-download-sync-across-devices = Sync ຂ້າມອຸປະກອນ
+firefox-desktop-download-reader-mode = ໂໝດຜູ້ອ່ານ
+firefox-desktop-download-spell-check = ກວດສອບການສະກົດຄໍາ
+firefox-desktop-download-pinned-tabs = ແຖບທີ່ປັກໝຸດໄວ້
+firefox-desktop-download-stream-share-play = ຖ່າຍທອດ, ແບ່ງປັນ ແລະຫຼິ້ນ
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = ຂັດຂວາງການຫຼິ້ນວິດີໂອ ແລະສຽງອັດຕະໂນມັດ
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = ຮູບພາບໃນຮູບ
+firefox-desktop-download-curated-content-on = ເນື້ອຫາທີ່ຄັດສັນມາໃນແຖບໃໝ່
+firefox-desktop-download-share-links = ແບ່ງປັນລິ້ງ
+firefox-desktop-download-protect-your-privacy = ຮັກສາຄວາມເປັນສ່ວນໂຕຂອງທ່ານ
+firefox-desktop-download-third-party-cookie = ການຂັດຂວາງຄຸກກີພາກສ່ວນທີສາມ
+firefox-desktop-download-fingerprinter-blocking = ການຂັດຂວາງລາຍນິ້ວມື
+firefox-desktop-download-cryptominer-blocking = ການຂັດຂວາງ Cryptominer
+firefox-desktop-download-private-browsing-mode = ໂໝດການຊອກຫາສ່ວນຕົວ
+firefox-desktop-download-individual-protections-report = ບົດລາຍງານການປົກປ້ອງສ່ວນບຸກຄົນ
+firefox-desktop-download-secure-your-personal = ຮັບປະກັນຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ
+firefox-desktop-download-breached-website-alerts = ການລະເມີດການແຈ້ງເຕືອນເວັບໄຊທ໌
+firefox-desktop-download-built-in-password = ຕົວຈັດການລະຫັດຜ່ານໃນຕົວ
+firefox-desktop-download-clear-history = ລຶບລ້າງປະຫວັດ
+firefox-desktop-download-form-autofill = ຕື່ມແບບຟອມອັດຕະໂນມັດ
+firefox-desktop-download-automatic-updates = ອັບເດດອັດຕະໂນມັດ
+firefox-desktop-download-customize-your-browser = ປັບແຕ່ງບຣາວເຊີຂອງທ່ານ
+firefox-desktop-download-themes = ຊຸດປັບແຕ່ງ
+firefox-desktop-download-dark-mode = ໂໝດມືດ
+firefox-desktop-download-library-of-extensions = ຫໍສະຫມຸດຂອງການຂະຫຍາຍ
+firefox-desktop-download-adjust-search-bar = ປັບການຕັ້ງຄ່າແຖບຄົ້ນຫາ
+firefox-desktop-download-change-new-tab = ປ່ຽນຮູບແບບແຖບໃໝ່
+firefox-desktop-download-make-firefox-your = ສ້າງ <strong>{ -brand-name-firefox }</strong> ຂອງທ່ານເອງ
+firefox-desktop-download-extensions-for-every = ການຂະຫຍາຍສໍາລັບທຸກໆຄວາມສົນໃຈ
+firefox-desktop-download-change-up-your = ປ່ຽນ​ຮູບ​ລັກ​ສະ​ນະ​ຂອງ​ທ່ານ​
+firefox-desktop-download-go-from-light = ໄປ​ຈາກ​ໂໝດ​ແສງ​ໄປ​ຫາ​ໂໝດ​ມືດ​ໂດຍ​ອີງ​ຕາມ​ໂປຣ​ໄຟລ​ຫຼື​ຄວາມ​ມັກ​ຂອງ​ທ່ານ, ຫຼື​ສິ່ງ​ທີ່​ສົດ​ໃສ​ຂຶ້ນ​ກັບ​ຮູບ​ແບບ​ທີ່​ກໍາ​ນົດ​ເອງ (rainbow unicorn​, ບາງ​ທີ​)​.
+firefox-desktop-download-tweak-your-settings = ປັບການຕັ້ງຄ່າຂອງທ່ານ
+firefox-desktop-download-theres-no-need = ບໍ່ຈໍາເປັນຕ້ອງຕົກລົງ. ປ່ຽນໜ້າແຖບໃໝ່, ແຖບຊອກຫາ, ບຸກມາກ ແລະອື່ນໆອີກເພື່ອສຳຫຼວດອິນເຕີເນັດຕາມທີ່ທ່ານຕ້ອງການ.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = ສະຫນັບສະຫນູນໂດຍ <strong>ບໍ່ຫວັງຜົນກໍາໄລ</strong> ທີ່ເຮັດໃຫ້ຄົນມາກ່ອນເປັນອັນດັບທຳອິດ
+firefox-desktop-download-challenging-the-status = ທ້າ​ທາຍ​ສະ​ຖາ​ນະ​ການ​ທີ່​ເປັນ​ມາ​ຕັ້ງ​ແຕ່​ປີ 1998​
+firefox-desktop-download-your-privacy-comes = ຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າມາກ່ອນ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
