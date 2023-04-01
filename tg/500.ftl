@@ -6,3 +6,4 @@ error-page-mozilla = { -brand-name-mozilla }
 error-page-firefox = { -brand-name-firefox }
 error-page-error-page-internal-server-error = 500: Хатои дохилии сервер
 error-page-something-went-wrong = Чизе нодуруст иҷро шуд
+error-page-its-probably-just-a-server-error = Эҳтимол аст, ки ин танҳо хатои сервер мебошад ва мо барои ислоҳ кардани ин хато кор карда истодаем.
