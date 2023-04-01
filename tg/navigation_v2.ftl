@@ -15,4 +15,6 @@ navigation-v2-get-involved = Ҳамроҳ шавед
 
 ## Innovation menu
 
+navigation-v2-innovation = Навоварӣ
+navigation-v2-close-innovation-menu = Пӯшидани менюи навоварӣ
 navigation-v2-common-voice = { -brand-name-common-voice }
