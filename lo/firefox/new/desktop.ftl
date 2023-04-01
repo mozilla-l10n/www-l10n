@@ -105,6 +105,30 @@ firefox-desktop-download-theres-no-need = ບໍ່ຈໍາເປັນຕ້�
 firefox-desktop-download-backed-by-the = ສະຫນັບສະຫນູນໂດຍ <strong>ບໍ່ຫວັງຜົນກໍາໄລ</strong> ທີ່ເຮັດໃຫ້ຄົນມາກ່ອນເປັນອັນດັບທຳອິດ
 firefox-desktop-download-challenging-the-status = ທ້າ​ທາຍ​ສະ​ຖາ​ນະ​ການ​ທີ່​ເປັນ​ມາ​ຕັ້ງ​ແຕ່​ປີ 1998​
 firefox-desktop-download-your-privacy-comes = ຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າມາກ່ອນ
+firefox-desktop-download-sync-your-devices = Sync ອຸປະກອນຂອງທ່ານ
+firefox-desktop-download-screenshots = ພາບຫນ້າຈໍ
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = ການປັບປຸງການປົກປ້ອງການຕິດຕາມ (ETP)
+firefox-desktop-download-from-watching-a = ຈາກການເບິ່ງການສອນເວັບເພື່ອຕິດຕາມເບິ່ງທີມງານທີ່ທ່ານມັກ, ວິດີໂອຂອງທ່ານຕິດຕາມທ່ານໃນຂະນະທີ່ທ່ານເຮັດຫຼາຍວຽກ.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = ເອົາ { -brand-name-firefox-browser } ສໍາລັບ <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = ເອົາ { -brand-name-firefox-browser } ສໍາລັບ <strong>{ -brand-name-ios } </strong>
+firefox-desktop-download-download-the-mobile = ດາວໂຫລດຕົວທ່ອງເວັບມືຖື { -brand-name-firefox } ສໍາລັບການປົກປ້ອງອັດຕະໂນມັດໃນທຸກອຸປະກອນຂອງທ່ານ.
+firefox-desktop-download-learn-about-the = ສຶກສາກ່ຽວກັບ { -brand-name-firefox } desktop browser ຂ້າງລຸ່ມນີ້
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = ຈາກຄວາມປອດໄພໄປຫາຂ່າວຈົນເຖິງການຫຼິ້ນເກມ, ມີ <a { $attrs }>ສ່ວນຂະຫຍາຍສຳລັບທຸກຄົນ</a>. ເພີ່ມໃຫ້ຫຼາຍເທົ່າທີ່ເຈົ້າຕ້ອງການຈົນກ່ວາຕົວທ່ອງເວັບຂອງເຈົ້າຖືກຕ້ອງ.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ຖືກສ້າງຂື້ນໂດຍ <a { $attrs }>{ -brand-name-mozilla }</a> ເປັນທາງເລືອກທີ່ໄວກວ່າ ແລະເປັນສ່ວນຕົວກວ່າຂອງຕົວທ່ອງເວັບເຊັ່ນ { -brand-name-ie }, ແລະ ດຽວນີ້ { -brand-name-chrome }. ໃນມື້ນີ້, ບໍລິສັດທີ່ຂັບເຄື່ອນພາລະກິດຂອງພວກເຮົາແລະຊຸມຊົນອາສາສະຫມັກຍັງສືບຕໍ່ເຮັດໃຫ້ຄວາມເປັນສ່ວນຕົວຂອງທ່ານເຫນືອສິ່ງອື່ນໃດ.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = ຖ້າ​ຫາກ​ທ່ານ​ເຫັນ​ການ​ກະ​ຕຸ້ນ​ທີ່​ລະ​ບຸ​ວ່າ app ທີ່​ທ່ານ​ພະ​ຍາ​ຍາມ​ຕິດ​ຕັ້ງ​ບໍ່​ແມ່ນ app { -brand-name-microsoft }-verified app, click “Install anyway” ຫຼື <a { $attrs }>ປ່ຽນ​ການ​ຕັ້ງ​ຄ່າ​ການ​ແນະ​ນໍາ app</a >.
+firefox-desktop-download-visit-support-for-more = ເຂົ້າໄປເບິ່ງການຊ່ວຍເຫຼືອສຳລັບລາຍລະອຽດເພີ່ມເຕີມ

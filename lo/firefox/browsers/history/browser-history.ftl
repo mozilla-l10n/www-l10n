@@ -28,6 +28,9 @@ browser-history-by-1993-the-web = ໃນປີ 1993, ເວັບໄຊຕ໌ໄ
 browser-history-ncsa-mosaic-ran = NCSA Mosaic ແລ່ນໃນຄອມພິວເຕີ { -brand-name-windows }, ໃຊ້ງ່າຍ, ແລະໃຫ້ທຸກຄົນທີ່ມີ PC ເຂົ້າເຖິງຫນ້າເວັບ, ຫ້ອງສົນທະນາ, ແລະຫ້ອງສະໝຸດຮູບພາບ. ໃນປີຕໍ່ມາ (1994), Andreessen ກໍ່ຕັ້ງ <a href="{ $netscape }">{ -brand-name-netscape }</a> ແລະປ່ອຍ { -brand-name-netscape } Navigator ສູ່ສາທາລະນະຊົນ. ມັນປະສົບຜົນສໍາເລັດຢ່າງປ່າທໍາມະຊາດ, ແລະຕົວທ່ອງເວັບທໍາອິດສໍາລັບປະຊາຊົນ. ມັນຍັງເປັນການເຄື່ອນໄຫວທໍາອິດໃນສົງຄາມປະເພດໃຫມ່ສໍາລັບຜູ້ໃຊ້ອິນເຕີເນັດ.
 browser-history-the-browser-wars = ສົງຄາມຂອງຕົວທ່ອງເວັບ
 # Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = ໃນປີ 1995, { -brand-name-netscape } Navigator ບໍ່ແມ່ນວິທີດຽວທີ່ຈະອອນໄລນ໌. ຊອບແວຄອມພິວເຕີຍັກໃຫຍ່ { -brand-name-microsoft } ໄດ້ອະນຸຍາດລະຫັດ Mosaic ເກົ່າ ແລະສ້າງໜ້າຕ່າງຂອງຕົນເອງໃຫ້ກັບເວັບ, <a href="{ $ie }">{ -brand-name-ie }</a>. ການປ່ອຍຕົວດັ່ງກ່າວໄດ້ເຮັດໃຫ້ເກີດສົງຄາມ. { -brand-name-netscape } ແລະ { -brand-name-microsoft } ໄດ້ເຮັດວຽກຢ່າງເປັນໄຂ້ເພື່ອສ້າງໂປຣແກມເວີຊັ່ນໃໝ່ຂອງພວກມັນ, ແຕ່ລະຄົນພະຍາຍາມເໜືອກວ່າອີກອັນໜຶ່ງດ້ວຍຜະລິດຕະພັນທີ່ໄວກວ່າ, ດີກວ່າ.
+# Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
 browser-history-netscape-created = { -brand-name-netscape } ສ້າງ ແລະປ່ອຍ JavaScript, ເຊິ່ງເຮັດໃຫ້ເວັບໄຊທ໌ມີຄວາມສາມາດໃນການຄອມພິວເຕີທີ່ມີປະສິດທິພາບທີ່ພວກເຂົາບໍ່ເຄີຍມີມາກ່ອນ. (ພວກເຂົາຍັງໄດ້ສ້າງ <a href="{ $blink }">&lt;blink&gt; tag</a> ທີ່ມີຊື່ສຽງ.) { -brand-name-microsoft } ກົງກັນຂ້າມກັບ Cascading Style Sheets (CSS), ເຊິ່ງກາຍເປັນມາດຕະຖານສໍາລັບ ການອອກແບບຫນ້າເວັບ.
 # Variables:
