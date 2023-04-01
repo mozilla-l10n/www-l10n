@@ -132,3 +132,24 @@ firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = ຖ້າ​ຫາກ​ທ່ານ​ເຫັນ​ການ​ກະ​ຕຸ້ນ​ທີ່​ລະ​ບຸ​ວ່າ app ທີ່​ທ່ານ​ພະ​ຍາ​ຍາມ​ຕິດ​ຕັ້ງ​ບໍ່​ແມ່ນ app { -brand-name-microsoft }-verified app, click “Install anyway” ຫຼື <a { $attrs }>ປ່ຽນ​ການ​ຕັ້ງ​ຄ່າ​ການ​ແນະ​ນໍາ app</a >.
 firefox-desktop-download-visit-support-for-more = ເຂົ້າໄປເບິ່ງການຊ່ວຍເຫຼືອສຳລັບລາຍລະອຽດເພີ່ມເຕີມ
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ບໍ່ມີການອັບເດດຄວາມປອດໄພອີກຕໍ່ໄປ</a> ຢູ່ໃນ { -brand-name-windows } { -brand-name-xp } ຫຼື { -brand-name-vista }, ແຕ່ທ່ານຍັງສາມາດໃຊ້ { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = ທ່ານ​ກຳ​ລັງ​ໃຊ້​ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ​ທີ່​ບໍ່​ປອດ​ໄພ, ລ້າ​ສະ​ໄໝ <a href="{ $url }">ບໍ່​ໄດ້​ຮັບ​ການ​ຮອງ​ຮັບ​ໂດຍ { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = ການດາວໂຫຼດຂອງທ່ານຄວນຈະເລີ່ມຕົ້ນໂດຍອັດຕະໂນມັດ. ບໍ່ໄດ້ຜົນບໍ? <a id="{ $id }" href="{ $fallback_url }">ລອງດາວໂຫລດອີກຄັ້ງ.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ເປັນຫຼາຍກວ່າບຣາວເຊີ.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = ການດາວໂຫຼດຂອງທ່ານຖືກຂັດຈັງຫວະ. ແຕ່ທັງຫມົດບໍ່ໄດ້ສູນເສຍ.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = ກະລຸນາເຮັດຕາມ<a href="{ $url }">ຄຳແນະນຳນີ້</a>ເພື່ອຕິດຕັ້ງ { -brand-name-firefox }
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = ລະບົບຂອງທ່ານອາດຈະບໍ່ຕອບສະໜອງໄດ້ຂໍ້ກຳນົດຂອງ { -brand-name-firefox }, ແຕ່ທ່ານສາມາດລອງໃຊ້ <a href="{ $url }">ເວີຊັນເຫຼົ່ານີ້</a>.
+firefox-desktop-download-taskbar = { -brand-name-firefox } ຈະຖືກປັກໝຸດໃສ່ແຖບໜ້າວຽກ { -brand-name-windows } ຫຼັງຈາກການຕິດຕັ້ງ
