@@ -29,8 +29,27 @@ vpn-shared-privacy-notice = Паведамленне аб прыватнасці
 
 vpn-shared-pricing-variable-sub-heading = Усе нашы планы ўключаюць:
 vpn-shared-pricing-recommended-offer = Рэкамендаваныя
+vpn-shared-pricing-plan-12-month-v2 = План на 12 месяцаў
+# Outdated string
+vpn-shared-pricing-plan-12-month = 12 месяцаў
+vpn-shared-pricing-plan-monthly-v2 = Штомесячны план
 # Outdated string
 vpn-shared-pricing-plan-monthly = Штомесяц
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/месяц</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/месяц + падатак</span>
+# Outdated string
+vpn-shared-pricing-get-6-month = Атрымаць 6-месячны план
+# Outdated string
+vpn-shared-pricing-get-12-month = Атрымаць 12-месячны план
+# Outdated string
+vpn-shared-pricing-get-6-month-v2 = Атрымаць 6-месячны план
+vpn-shared-pricing-get-12-month-v2 = Атрымаць 12-месячны план
+vpn-shared-pricing-get-monthly = Атрымаць штомесячны план
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Зэканомце { $percent }%
