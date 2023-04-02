@@ -7,3 +7,5 @@
 
 # The word ‘hola’ should be in a different language to the rest of the source copy. It could be ‘hello’ for non English locales, as an example.
 whatsnew-112-translate-title = Di 'hola' a { -brand-name-firefox-translations }
+whatsnew-112-translate-tagline = ¿Necesitas una traducción y estás preocupado por tus datos? Prueba la extensión { -brand-name-firefox-translations }: funciona localmente, por lo que todos tus datos permanecen en tu ordenador y privados solo para ti.
+whatsnew-112-translate-cta = Añadir a { -brand-name-firefox }
