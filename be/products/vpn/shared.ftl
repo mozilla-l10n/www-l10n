@@ -53,10 +53,23 @@ vpn-shared-pricing-get-monthly = Атрымаць штомесячны план
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Зэканомце { $percent }%
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = Зэканомце { $percent }% на { -brand-name-mozilla-vpn }*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *пры падпісцы на 12-месячны план
 
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = Давайце пачнём
+vpn-shared-platform-cta-button = Паглядзець цэны і даступнасць
+vpn-shared-platform-privacy-promise = Ваша прыватнасць — гэта наша абяцанне
+vpn-shared-platform-trust-partner-headline = Пра нашага надзейнага партнёра
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } працуе ў глабальнай сетцы сервераў на базе <a href="{ $policy }">{ -brand-name-mullvad }</a>, выкарыстоўваючы пратакол <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } ставіць вашу прыватнасць на першае месца і не вядзе ніякіх журналаў.
 vpn-shared-platform-what-youll-get = Што вы атрымаеце з { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
