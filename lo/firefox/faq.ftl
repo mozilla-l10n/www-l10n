@@ -57,7 +57,9 @@ does-firefox-sell = { -brand-name-firefox } ຂາຍຂໍ້ມູນສ່ວ
 
 nope-never-have = ບໍ່. ບໍ່ເຄີຍມີ, ບໍ່ເຄີຍຈະ. ແລະພວກເຮົາປົກປ້ອງທ່ານຈາກຜູ້ໂຄສະນາຫຼາຍຄົນທີ່ເຮັດ. ຜະລິດຕະພັນຂອງ { -brand-name-firefox } ຖືກອອກແບບເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ. <a href="{ $url }">ນັ້ນແມ່ນຄຳສັນຍາ.</a>
 why-is-firefox = ເປັນຫຍັງ { -brand-name-firefox } ຈຶ່ງຊ້າ?
+firefox-isnt-slow = { -brand-name-firefox } ບໍ່ຊ້າ… ດຽວນີ້. ໃນປີ 2017, ພວກເຮົາໄດ້ສ້າງເຄື່ອງຈັກບຣາວເຊີຂອງພວກເຮົາຄືນໃໝ່ທັງໝົດ (ເອີ້ນວ່າ Quantum), ເພື່ອຮັບປະກັນວ່າ { -brand-name-firefox } ສາມາດແຂ່ງຂັນກັບບຣາວເຊີໃຫຍ່ອື່ນໆໄດ້. ແລະ, ຕົວບລັອກຕົວຕິດຕາມຂອງພວກເຮົາຊ່ວຍໃຫ້ໜ້າເວັບໂຫລດໄວຂຶ້ນ. ດັ່ງນັ້ນ { -brand-name-firefox } ແມ່ນໄວຟ້າຜ່າໂດຍບໍ່ມີການເສຍສະຫຼະຄວາມເປັນສ່ວນຕົວຂອງທ່ານ.
 is-firefox-chromium = { -brand-name-firefox } { -brand-name-chromium } ແມ່ນອີງໃສ່ບໍ?
+firefox-is-not = { -brand-name-firefox } ບໍ່ໄດ້ອີງໃສ່ { -brand-name-chromium } (ໂຄງການບຣາວເຊີທີ່ເປີດຢູ່ໃນຫຼັກຂອງ { -brand-name-google } { -brand-name-chrome }). ໃນຄວາມເປັນຈິງ, ພວກເຮົາເປັນຫນຶ່ງໃນຕົວທ່ອງເວັບທີ່ສໍາຄັນສຸດທ້າຍທີ່ບໍ່ແມ່ນ. { -brand-name-firefox } ແລ່ນຢູ່ໃນເຄື່ອງຈັກບຣາວເຊີ Quantum ຂອງພວກເຮົາທີ່ສ້າງຂຶ້ນໂດຍສະເພາະສໍາລັບ { -brand-name-firefox }, ດັ່ງນັ້ນພວກເຮົາຈຶ່ງສາມາດຮັບປະກັນວ່າຂໍ້ມູນຂອງທ່ານຖືກຈັດການດ້ວຍຄວາມເຄົາລົບ ແລະຮັກສາໄວ້ເປັນສ່ວນຕົວ.
 does-firefox-use = { -brand-name-firefox } ໃຊ້ { -brand-name-google } ບໍ?
 
 # Variables:
@@ -78,4 +80,5 @@ who-owns-firefox = ໃຜເປັນເຈົ້າຂອງ { -brand-name-fire
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } ແມ່ນເຮັດໂດຍ { -brand-name-mozilla-corporation }, ບໍລິສັດຍ່ອຍທີ່ເປັນເຈົ້າຂອງທັງໝົດຂອງອົງການບໍ່ຫວັງຜົນກຳໄລ <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ແລະຖືກແນະນຳໂດຍຫຼັກການຂອງ { -brand-name-mozilla } Manifesto. ສຶກສາເພີ່ມເຕີມກ່ຽວກັບຜູ້ຜະລິດ { -brand-name-firefox } <a href="{ $url2 }">ທີ່ນີ້.</a>
 related-questions-who = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ໃຜແມ່ນ { -brand-name-firefox } ເປັນເຈົ້າຂອງ, ໃຜເປັນເຈົ້າຂອງ { -brand-name-firefox-browser }, ແມ່ນ { -brand-name-firefox } ເປັນເຈົ້າຂອງໂດຍ { -brand-name-google }, ແມ່ນ { -brand-name-mozilla } { -brand-name-firefox } ເປັນເຈົ້າຂອງໂດຍ { -brand-name-google }
