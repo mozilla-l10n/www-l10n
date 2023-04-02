@@ -5,8 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+firefox-desktop-download-compare-chrome = «{ -brand-name-chrome }»
+firefox-desktop-download-compare-edge = «{ -brand-name-edge }»
+firefox-desktop-download-compare-safari = «{ -brand-name-safari }»
+firefox-desktop-download-yes = Ҳа
+firefox-desktop-download-no = Не
+# Obsolete string
 firefox-desktop-love-your-life = Ҳаёти худро дар Интернет дӯст доред
+firefox-desktop-download-clear-history = Пок кардани таърих
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
