@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
@@ -34,6 +34,8 @@ privacy-passwords-a-closed-lock = En los principales navegadores aparece un cand
 privacy-passwords-the-lock-means = El candado significa que el sitio web que estás usando es cifrado, por lo que incluso si alguien está mirando tu navegación en la red (como otra persona en un punto de acceso WiFi público), no podrá ver tu contraseña. { -brand-name-firefox } intentará advertirte cuando estés a punto de enviar tu contraseña a un sitio web no cifrado.
 privacy-passwords-a-padlock-with = Un candado cruzado con una línea indica que la conexión no es segura.
 privacy-passwords-your-browser-also = Tu navegador también te ayuda a mantenerte informado sobre la fiabilidad de los sitios, para ayudarte a mantenerte a salvo del phishing. Por un lado, cuando intentas visitar un sitio web que es un sitio de suplantación de identidad conocido, { -brand-name-firefox } (y cualquier navegador principal) mostrará una advertencia a pantalla completa: <strong>¡Presta atención y piénsalo dos veces antes de ir a ese sitio!</strong>
+privacy-passwords-firefox-will-v2 = { -brand-name-firefox } mostrará una advertencia en lugar del sitio web si es un sitio de phishing conocido.
+# Outdated string
 privacy-passwords-firefox-will = Firefox mostrará una advertencia en lugar del sitio web si es un sitio de phishing conocido.
 privacy-passwords-in-general-the = En general, la mejor defensa contra el phishing es <strong>sospechar de lo que recibes</strong>, ya sea en un correo electrónico, un mensaje de texto o en el teléfono. En lugar de entrar al sitio desde el mensaje que recibiste, visita el sitio directamente. Por ejemplo, si un correo electrónico dice que necesitas restablecer tu contraseña de PayPal, no hagas clic en el enlace. Escribe paypal.com letra por letra. Si el banco te llama, devuélveles la llamada.
 privacy-passwords-strength-in-diversity = La fuerza está en la diversidad
@@ -54,10 +56,14 @@ privacy-passwords-twofactor-authentication-2fa = Autenticación de dos factores 
 privacy-passwords-2fa-is-a = 2FA es una excelente forma de mejorar tu seguridad. Al configurar una nueva cuenta, algunos sitios te darán la opción de añadir un “segundo factor” al proceso de conexión. A menudo, esto significa vincular tu número de teléfono a la cuenta, por lo que después de introducir la contraseña, se te pedirá que introduzcas un código de seguridad enviado por mensaje de texto. De esta manera, si un pirata informático logra obtener tu contraseña, no podrá entrar en tu cuenta ya que no tiene tu teléfono.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Tu cuenta de { -brand-name-firefox }, por ejemplo, puede protegerse con 2FA, <a { $url_sumo_2fa }>de lo que puedes obtener más información aquí</a>.
-#   $url_2fa (string) - link to https://twofactorauth.org with additional attributes for analytics
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA proporciona una seguridad mucho mejor que las contraseñas por sí solas, pero no todos los sitios web lo admiten. Puedes encontrar una lista de sitios web que admiten 2FA en <a { $url_2fa }>https://twofactorauth.org</a>, así como una lista de sitios que no admiten 2FA y las formas en que puede solicitarles que lo hagan.
 privacy-passwords-strong-diverse-and = Fuerte, diversa y multifactorial
 privacy-passwords-for-better-or = Para bien o para mal, utilizaremos contraseñas para proteger nuestras cuentas en línea durante bastante tiempo. Usa contraseñas <strong>seguras</strong> y <strong>distintas para cada sitio</strong>, y utiliza un <strong>administrador de contraseñas</strong> para ayudarte a recordarlas de forma segura. Establece <strong>respuestas largas y aleatorias</strong> para las preguntas de seguridad (incluso si no son la verdad). Y <strong>utiliza la autenticación de dos factores</strong> en cualquier sitio que la admita.
+#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
+#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
+privacy-passwords-in-todays-internet-v2 = En la Internet de hoy, donde se roban miles de contraseñas todos los días y las cuentas se negocian en el mercado negro, vale la pena el esfuerzo para mantener segura tu vida en línea. Cuando usas productos { -brand-name-firefox }, se facilita este esfuerzo, porque todos nuestros productos están diseñados para cumplir con nuestra <a { $url_privacy_products }>promesa de privacidad</a>. Y { -brand-name-firefox } siempre se guía por la <a { $url_about_manifesto }>misión de { -brand-name-mozilla }</a>, la organización sin ánimo de lucro que nos respalda, para construir una mejor Internet.
+# Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = En la Internet de hoy, donde se roban miles de contraseñas todos los días y las cuentas se negocian en el mercado negro, vale la pena el esfuerzo para mantener segura tu vida en línea. Cuando usas productos { -brand-name-firefox }, se facilita este esfuerzo, porque todos nuestros productos están diseñados para cumplir con nuestra <a { $url_privacy_products }>promesa de privacidad</a>. Y { -brand-name-firefox } siempre se guía por la <a { $url_about_manifesto }>misión de Mozilla</a>, la organización sin ánimo de lucro que nos respalda, para construir una mejor Internet.
