@@ -27,6 +27,7 @@
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
+-brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
@@ -70,18 +71,21 @@
 -brand-name-firefox-devtools = Абзорҳои барномарезии Firefox
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-sync = Ҳамоҳангсозии Firefox
--brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-private-network = Firefox Private Network
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-sync = Ҳамоҳангсозии Firefox
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
 -brand-name-devtools = Абзорҳои барномарезӣ (DevTools)
+-brand-name-fpn = FPN
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-sync = Ҳамоҳангсозӣ
 -brand-name-relay = Relay
--brand-name-fpn = FPN
+-brand-name-relay-premium = Relay Premium
+-brand-name-sync = Ҳамоҳангсозӣ
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
