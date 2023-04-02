@@ -105,6 +105,14 @@ firefox-desktop-download-theres-no-need = ບໍ່ຈໍາເປັນຕ້�
 firefox-desktop-download-backed-by-the = ສະຫນັບສະຫນູນໂດຍ <strong>ບໍ່ຫວັງຜົນກໍາໄລ</strong> ທີ່ເຮັດໃຫ້ຄົນມາກ່ອນເປັນອັນດັບທຳອິດ
 firefox-desktop-download-challenging-the-status = ທ້າ​ທາຍ​ສະ​ຖາ​ນະ​ການ​ທີ່​ເປັນ​ມາ​ຕັ້ງ​ແຕ່​ປີ 1998​
 firefox-desktop-download-your-privacy-comes = ຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າມາກ່ອນ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = ຮັກສາຄຸນສົມບັດຂອງຕົວທ່ອງເວັບທີ່ທ່ານມັກທັງໝົດ — ແລະ <strong>ຄົ້ນພົບ</strong> ອັນໃໝ່.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = ເຄື່ອງມື { -brand-name-google } ທີ່ທ່ານມັກທັງໝົດ (ເຊັ່ນ Gmail ແລະ Docs) ເຮັດວຽກໄດ້ຢ່າງບໍ່ຢຸດຢັ້ງໃນ { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >ດາວໂຫຼດສ່ວນຂະຫຍາຍຂອງບຣາວເຊີນີ້</a> ເພື່ອຢຸດ { -brand-name-facebook } (ແລະ { -brand-name-instagram }) ຈາກການຕິດຕາມເຈົ້າທົ່ວເວັບ.
 firefox-desktop-download-sync-your-devices = Sync ອຸປະກອນຂອງທ່ານ
 firefox-desktop-download-screenshots = ພາບຫນ້າຈໍ
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -122,9 +130,30 @@ firefox-desktop-download-from-security-to = ຈາກຄວາມປອດໄພ
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ຖືກສ້າງຂື້ນໂດຍ <a { $attrs }>{ -brand-name-mozilla }</a> ເປັນທາງເລືອກທີ່ໄວກວ່າ ແລະເປັນສ່ວນຕົວກວ່າຂອງຕົວທ່ອງເວັບເຊັ່ນ { -brand-name-ie }, ແລະ ດຽວນີ້ { -brand-name-chrome }. ໃນມື້ນີ້, ບໍລິສັດທີ່ຂັບເຄື່ອນພາລະກິດຂອງພວກເຮົາແລະຊຸມຊົນອາສາສະຫມັກຍັງສືບຕໍ່ເຮັດໃຫ້ຄວາມເປັນສ່ວນຕົວຂອງທ່ານເຫນືອສິ່ງອື່ນໃດ.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = ຄໍາຖາມ? <a { $attrs }>{ -brand-name-mozilla } ສະຫນັບສະຫນູນ</a> ທ່ານໄດ້ກວມເອົາ.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = ທ່ານມີຕົວທ່ອງເວັບແລ້ວ. ຕອນນີ້ໄດ້ຮັບເພີ່ມເຕີມຈາກ { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = ເຝົ້າລະວັງແຮກເກີດ້ວຍ { -brand-name-firefox-monitor }, ປົກປ້ອງທີ່ຢູ່ອີເມວຂອງທ່ານດ້ວຍ { -brand-name-firefox-relay }, ແລະອື່ນໆອີກ.
+# Outdated string
+firefox-desktop-download-watch-for-hackers-with = ເຝົ້າລະວັງແຮກເກີດ້ວຍ { -brand-name-firefox-monitor }, ປົກປ້ອງລະຫັດຜ່ານດ້ວຍ { -brand-name-firefox-lockwise }, ແລະອື່ນໆອີກ.
+firefox-desktop-download-get-more-from-firefox = ຮັບຂໍ້ມູນເພີ່ມເຕີມຈາກ { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = ພຽງແຕ່ດາວໂຫລດບຣາວເຊີ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = ໃກ້ແລ້ວ!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = ຕອນນີ້ສຳເລັດ <strong>ການຕິດຕັ້ງ</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = ດຽວນີ້ <strong>ແລ່ນ</strong> ຕົວຕິດຕັ້ງທີ່ຫາກໍດາວໂຫຼດມາ.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = ດຽວນີ້ <strong>ເປີດ</strong> ໄຟລ໌ທີ່ຫາກໍດາວໂຫຼດມາ.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = ມີບັນຫາບໍ? <a { $attrs }>ຂໍຄວາມຊ່ວຍເຫຼືອໃນການຕິດຕັ້ງຂອງທ່ານ</a>.
+firefox-desktop-download-in-another-language = ດາວໂຫລດເປັນພາສາອື່ນຫຼືສໍາລັບລະບົບປະຕິບັດການອື່ນ.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10

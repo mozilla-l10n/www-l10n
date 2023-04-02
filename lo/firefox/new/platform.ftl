@@ -58,4 +58,8 @@ new-platform-download-mozilla-desc-windows = ດາວໂຫລດ { -brand-name
 new-platform-download-the-fastest-windows = ດາວໂຫຼດ { -brand-name-firefox } ທີ່ໄວທີ່ສຸດສໍາລັບ { -brand-name-windows } ເຄີຍ
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = ການໂຫຼດໜ້າໄວຂຶ້ນ, ການໃຊ້ຄວາມຈຳໜ້ອຍລົງ ແລະເຕັມໄປດ້ວຍຄຸນສົມບັດຕ່າງໆ, { -brand-name-firefox } ໃໝ່ສຳລັບ { -brand-name-windows } ແມ່ນຢູ່ທີ່ນີ້.
+new-platform-firefox-moves-fast = { -brand-name-firefox } ເຄື່ອນທີ່ໄວ ແລະປະຕິບັດຂໍ້ມູນຂອງທ່ານດ້ວຍຄວາມລະມັດລະວັງ - ບໍ່ມີການຕິດຕາມໂຄສະນາ ແລະບໍ່ມີການຊ້າລົງ.
 new-platform-common-sense-privacy = ຄວາມເປັນສ່ວນຕົວອັນເປັນສາມັນສຳນຶກ
+new-platform-live-your-life = ໃຊ້ຊີວິດຂອງເຈົ້າ, { -brand-name-firefox } ບໍ່ໄດ້ເບິ່ງ. ເລືອກສິ່ງທີ່ຈະແບ່ງປັນ ແລະເວລາທີ່ຈະແບ່ງປັນມັນ.
+new-platform-seamless-setup = ການຕິດຕັ້ງແບບບໍ່ມີຮອຍຕໍ່
+new-platform-easy-migration = ການ​ເຄື່ອນ​ຍ້າຍ​ຄວາມ​ມັກ​ແລະ​ບຸກ​ມາກ​ໄດ້​ງ່າຍ​ໃນ​ເວ​ລາ​ທີ່​ທ່ານ​ດາວ​ໂຫລດ { -brand-name-firefox } ສໍາ​ລັບ { -brand-name-windows } .
