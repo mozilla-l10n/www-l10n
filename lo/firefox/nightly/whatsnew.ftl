@@ -25,3 +25,7 @@ nightly-whatsnew-want-to-know-which-v2 = ຢາກຮູ້ວ່າຄຸນສ
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = ຢາກຮູ້ວ່າຄຸນສົມບັດຂອງແພລດຟອມໃດທີ່ເຈົ້າສາມາດທົດສອບໄດ້ໃນ { -brand-name-nightly } ແລະຍັງບໍ່ສາມາດເບິ່ງໄດ້ໃນຊ່ອງ { -brand-name-firefox } ອື່ນບໍ? ຈາກນັ້ນໃຫ້ເຂົ້າໄປເບິ່ງໜ້າ <a href="{ $mdn }">ຄຸນສົມບັດການທົດລອງ</a> ໃນ <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn } </abbr>.
+# Variables:
+#   $bugzilla (url) - link to https://bugzilla.mozilla.org/
+nightly-whatsnew-do-you-experience = ເຈົ້າປະສົບອຸປະຕິເຫດບໍ? ພຶດຕິກໍາທີ່ບໍ່ຄາດຄິດ? ຄວາມເຂົ້າກັນໄດ້ຂອງເວັບ regressions? ພວກເຮົາຕ້ອງການໃຫ້ພວກເຂົາຍື່ນໃນ <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> ເພື່ອຮັບປະກັນວ່າເຂົາເຈົ້າບໍ່ໄດ້ເຮັດໃຫ້ມັນເປັນການປ່ອຍສຸດທ້າຍ (ການເພີ່ມເຕີມ karma ຖ້າທ່ານ ເພີ່ມຄໍາສໍາຄັນ <em>{ -brand-name-nightly }-community</em> ເຂົ້າໃນລາຍງານຂໍ້ຜິດພາດຂອງທ່ານ)!
+nightly-whatsnew-go-community = ໄປຊຸມຊົນ!

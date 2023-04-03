@@ -131,6 +131,15 @@ firefox-desktop-download-from-security-to = ຈາກຄວາມປອດໄພ
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ຖືກສ້າງຂື້ນໂດຍ <a { $attrs }>{ -brand-name-mozilla }</a> ເປັນທາງເລືອກທີ່ໄວກວ່າ ແລະເປັນສ່ວນຕົວກວ່າຂອງຕົວທ່ອງເວັບເຊັ່ນ { -brand-name-ie }, ແລະ ດຽວນີ້ { -brand-name-chrome }. ໃນມື້ນີ້, ບໍລິສັດທີ່ຂັບເຄື່ອນພາລະກິດຂອງພວກເຮົາແລະຊຸມຊົນອາສາສະຫມັກຍັງສືບຕໍ່ເຮັດໃຫ້ຄວາມເປັນສ່ວນຕົວຂອງທ່ານເຫນືອສິ່ງອື່ນໃດ.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ມີຢູ່ໃນທຸກອຸປະກອນຂອງທ່ານ; ເອົາແຖບ, ປະຫວັດ ແລະບຸກມາກຂອງທ່ານໄປນຳ. ທັງໝົດທີ່ທ່ານຕ້ອງການແມ່ນບັນຊີ <a { $attrs }>{ -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = ຈັບພາບຄວາມລະອຽດສູງຂອງທຸກຢ່າງອອນລາຍດ້ວຍເຄື່ອງມື <a { $attrs }>screenshot</a> ຂອງພວກເຮົາທີ່ສ້າງຂຶ້ນໃນ browser
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ອັດຕະໂນມັດ <a { $attrs }>ບລັອກຕົວຕິດຕາມບຸກຄົນທີສາມ</a> ຈາກການເກັບກຳ ແລະຂາຍການເຄື່ອນໄຫວເວັບຂອງທ່ານ.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ຄໍາຖາມ? <a { $attrs }>{ -brand-name-mozilla } ສະຫນັບສະຫນູນ</a> ທ່ານໄດ້ກວມເອົາ.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
