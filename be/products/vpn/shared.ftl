@@ -27,6 +27,8 @@ vpn-shared-privacy-notice = Паведамленне аб прыватнасці
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+# Outdated string
+vpn-shared-pricing-variable-heading = Выберыце план, які вам падыходзіць
 vpn-shared-pricing-variable-sub-heading = Усе нашы планы ўключаюць:
 vpn-shared-pricing-recommended-offer = Рэкамендаваныя
 vpn-shared-pricing-plan-12-month-v2 = План на 12 месяцаў
@@ -59,6 +61,13 @@ vpn-shared-pricing-save-percent = Зэканомце { $percent }%
 vpn-shared-save-percent-on = Зэканомце { $percent }% на { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *пры падпісцы на 12-месячны план
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = { $amount } агулам
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = { $amount } агулам + падатак
 
 # Platform subpage shared strings
 
