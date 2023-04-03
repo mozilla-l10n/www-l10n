@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Zgodovina brskalnikov: Epsko merjenje moči, ki nam je prineslo sodobne brskalnike
+browser-history-the-browser-wars-underdogs-giants = Vojne brskalnikov, bitke pritlikavcev proti velikanom in trenutki, ki so spremenili svet. Spoznajte zgodovino spletnih brskalnikov.
 browser-history-the-history-of-web = Zgodovina spletnih brskalnikov
 browser-history-before-web-era = Doba pred spletom
 browser-history-in-1950-computers = Leta 1950 so računalniki zavzemali celotne sobe, bili pa so neumnejši od današnjih žepnih kalkulatorjev. Toda napredek se je odvijal hitro in leta 1960 so bili že sposobni izvajanja zapletenih programov. Vlade in univerze širom sveta so menile, da bi bilo sijajno, če bi se stroji lahko pogovarjali, gojili sodelovanje in pospešili znanstvene preboje.
