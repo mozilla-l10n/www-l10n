@@ -19,6 +19,7 @@ mobile-android-send-a-download-link-to-your = Pošljite si povezavo za prenos na
 mobile-android-scan-the-qr-code-to-get-started = Skenirajte kodo QR, da začnete
 mobile-android-scan-alt-text = Skenirajte kodo QR za prenos { -brand-name-firefox(sklon: "rodilnik") } za { -brand-name-android }
 mobile-android-fast-and-private = Hiter in zaseben
+mobile-android-firefox-for-android = { -brand-name-firefox } za { -brand-name-android } vam nudi enostavna orodja za zaščito zasebnosti in bliskovito nalaganje strani. izboljšana zaščita pred sledenjem samodejno preprečuje, da bi vas spletni sledilci zasledovali po spletu in vam upočasnjevali strani.
 mobile-android-one-tap-to = En dotik do zasebnega načina
 mobile-android-get-to-private = Preselite se v zasebno brskanje z enim dotikom. In ko zaprete način zasebnega brskanja, se zgodovina brskanja samodejno izbriše z naprave.
 mobile-android-search-your-own = Iščite po svoje
