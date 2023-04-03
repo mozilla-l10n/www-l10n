@@ -38,7 +38,3 @@ vpn-or-proxy-encrypting-your-traffic = 您與 VPN 供應商之間的流量會被
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
 vpn-or-proxy-a-vpn-also = VPN 也能保護開放與公共 Wi-Fi 連線的安全。開放式 Wi-Fi 網路可能會造成您無法確認有網路連線是否有其他人偷聽您的行為。就算您的流量被加密了還是能看到您造訪哪些網站。若您使用的應用程式沒有加密就算在今天許多人還沒有加密那麼他們還是可以看到您在該應用程式當中所做的一切。 { -brand-name-mozilla-vpn } 是一套快速、安全、值得信賴的服務可以幫助您縮小安全性漏洞。 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 也讓您可以選擇從超過 { $countries } 地區的「地點」國家。
 vpn-or-proxy-choose-a-trustworthy = 選擇值得信賴的服務
-# Variables
-#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
-#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
-vpn-or-proxy-the-most-important = 選擇 VPN 或代理伺服器服務時最重要的是要考慮一家值得信賴的公司。請務必了解您要同意的條款。很多網站聲稱自己很棒也很注重隱私權但也有許多人沒有實踐承諾。並非所有 Proxy 與 VPN 服務都安全又有隱私。某些網站<a href="{ $cnet }">會</a> <a href="{ $pcmac }">記錄</a>您的線上行為這樣就可以將您的資料與資訊賣給自己的行銷公司。其他服務會嘗試說服您在裝置安裝惡意軟體。

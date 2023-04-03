@@ -36,10 +36,6 @@ vpn-when-to-use-make-sure-you = 確定您知道 VPN 能做什麼，又不能做�
 vpn-when-to-use-a-vpn-provides = VPN 提供了一道重要的安全鏈結在網際網路中傳播前保護您的私人資料。 VPN 也隱藏您的 IP 地址幫助保護您的個人身分與實際所在地點。但這無法保護您點下可疑的鏈結、下載惡意程式或成為詐騙郵件的受害者。您還是需要先培養 <a href="{ $book }">保持上網安全的好習慣</a>。
 vpn-when-to-use-mozilla-vpn-a = 可靠的 VPN 服務：{ -brand-name-mozilla-vpn }
 # Variables
-#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
-#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
-vpn-when-to-use-the-most-important = 挑選 VPN 時最重要的事情就是要考慮到一家值得信賴的公司。請務必了解您要同意的條款。很多網站聲稱自己很棒也很注重隱私權但也有許多人沒有實踐承諾。並非所有 Proxy 與 VPN 服務都安全又有隱私。某些網站<a href="{ $cnet }">會</a> <a href="{ $pcmac }">記錄</a>您的線上行為這樣就可以將您的資料與資訊賣給自己的行銷公司。其他服務會嘗試說服您在裝置安裝惡意軟體。
-# Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
 #   $mission (url) - https://www.mozilla.org/mission/

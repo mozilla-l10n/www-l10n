@@ -32,11 +32,6 @@ vpn-ip-address-when-the-internet = 剛開始設計網際網路時使用「版本
 vpn-ip-address-we-now-have = 第 6 版我們就有了每個地址長度為 128 位元的 IP 地址。很可惜第 4 版與第 6 版無法直接通訊人們未來將需要使用第 4 版的地址由來已久。
 vpn-ip-address-should-you-hide = 應該要隱藏您的 IP 地址嗎？
 # Variables
-#   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
-#   $doh (url) - https://support.mozilla.org/kb/firefox-dns-over-https
-#   $firefox (url) - https://www.mozilla.org/firefox/new/
-vpn-ip-address-you-dont-need = 您不需要隱藏 IP 地址但某些時候您可能會想要隱藏。最常見的原因是隱私權。在美國，<a href="{ $congress }">國會否決了</a>旨在保護寬頻使用者隱私的隱私權規定。網路服務供應商會知道您的上網習慣、上網目的以及在每個頁面停留的時間。此通訊內容並未加密第三方可看到您正造訪的網站。解決這個問題的一個方法是 <a href="{ $dho }">DNS-over-HTTPS</a> (DoH)。此功能會加密您的 DNS 網域流量讓 ISP 更難看到您開啟的網站。美國的 <a href="{ $firefox }">{ -brand-name-firefox } 使用者</a>預設情況下您的 DoH 查詢將會傳送到受信任的 DNS 伺服器讓您更難偵測到哪些網站造訪。
-# Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = 視情況而定也有隱藏您的 IP 地址的原因。您可能會想要在旅遊時將其隱藏。使用 VPN 也可讓您<a href="{ $url }">更多隱私</a>連線到 Wi-Fi 網路世界時您可以一邊探索世界一邊影音購物。
 vpn-ip-address-how-do-you = 要如何隱藏？

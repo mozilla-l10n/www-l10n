@@ -40,9 +40,6 @@ privacy-passwords-firefox-will = 若已知為釣魚網站，Firefox 將顯示警
 privacy-passwords-in-general-the = 一般來說防止釣魚最好的方式就是<strong>要小心謹慎</strong>不論是在電子郵件、簡訊或電話中。直接造訪網站而不處理其他人寄給您的內容。舉例來說如果郵件當中提到您需要重設 PayPal 密碼就不要點擊其中的鏈結。自己輸入 Paypal.com。如果銀行有來電請再回覆。
 privacy-passwords-strength-in-diversity = 有差異，更安全
 privacy-passwords-the-secret-to = 防止猜測、被盜或重設密碼的秘訣就在於當中的隨機性。當攻擊者嘗試猜測密碼時他們通常會做兩件事: 1) 使用「字典」 — 人們會使用的常見密碼清單以及 2) 進行隨機猜測。 <strong>您的密碼越長、越隨機</strong>這些猜測技巧就越不容易找到您的密碼。
-#   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
-#   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
-privacy-passwords-when-an-attacker = 當攻擊者偷走您使用的網站例如 <a { $url_linkedin }>LinkedIn</a> 或 <a { $url_ahoo }>Yahoo</a> 的密碼資料庫時您只能暫時更改網站密碼。該網站的密碼。不好但若您在其他網站重複使用該密碼登入時損害可能會更嚴重 — 那樣攻擊者也能盜用您在這些網站上的帳號。請<strong>針對不同的網站使用不同的密碼以防止其造成損害。</strong>
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = 使用 <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> 監控與您的帳號相關聯的電子郵件地址。若您的電子郵件地址出現在已知的企業資料外洩事件中我們會通知您並提供相關措施來保護帳號。
 privacy-passwords-security-questions-my = 安全性確認問題：我媽媽的娘家姓氏是「Ff926AKa9j6Q」
