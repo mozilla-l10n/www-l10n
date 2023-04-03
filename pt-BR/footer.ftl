@@ -54,10 +54,10 @@ footer-careers = Carreiras
 footer-test-new-features = Teste novos recursos
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
-footer-tools = Ferramentas
+footer-tools = Ferramentas de desenvolvimento
 footer-resources = Recursos
 footer-contact = Contato
-footer-product-help = Ajuda do produto
+footer-product-help = Ajuda dos produtos
 footer-support = Suporte
 footer-file-a-bug = Registre um bug
 footer-community-participation-guidelines = Diretrizes de participação na comunidade
