@@ -131,6 +131,9 @@ firefox-desktop-download-from-security-to = ຈາກຄວາມປອດໄພ
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ຖືກສ້າງຂື້ນໂດຍ <a { $attrs }>{ -brand-name-mozilla }</a> ເປັນທາງເລືອກທີ່ໄວກວ່າ ແລະເປັນສ່ວນຕົວກວ່າຂອງຕົວທ່ອງເວັບເຊັ່ນ { -brand-name-ie }, ແລະ ດຽວນີ້ { -brand-name-chrome }. ໃນມື້ນີ້, ບໍລິສັດທີ່ຂັບເຄື່ອນພາລະກິດຂອງພວກເຮົາແລະຊຸມຊົນອາສາສະຫມັກຍັງສືບຕໍ່ເຮັດໃຫ້ຄວາມເປັນສ່ວນຕົວຂອງທ່ານເຫນືອສິ່ງອື່ນໃດ.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = ເມື່ອອິນເຕີເນັດເຕີບໃຫຍ່ ແລະປ່ຽນແປງ, { -brand-name-firefox } ຍັງສືບຕໍ່ເນັ້ນໃສ່ສິດທິສ່ວນຕົວຂອງເຈົ້າ - ພວກເຮົາເອີ້ນວ່າ <a { $attrs }>ສັນຍາຂໍ້ມູນສ່ວນຕົວ</a>: ໃຊ້ໜ້ອຍລົງ. ຮັກສາຄວາມປອດໄພ. ບໍ່ມີຄວາມລັບ. ຂໍ້​ມູນ​ຂອງ​ທ່ານ, ກິດ​ຈະ​ກໍາ​ເວັບ​ໄຊ​ຕ​໌​ຂອງ​ທ່ານ, ຊີ​ວິດ​ອອນ​ໄລ​ນ​໌​ຂອງ​ທ່ານ​ໄດ້​ຮັບ​ການ​ປົກ​ປ້ອງ​ດ້ວຍ { -brand-name-firefox }.
+# Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ມີຢູ່ໃນທຸກອຸປະກອນຂອງທ່ານ; ເອົາແຖບ, ປະຫວັດ ແລະບຸກມາກຂອງທ່ານໄປນຳ. ທັງໝົດທີ່ທ່ານຕ້ອງການແມ່ນບັນຊີ <a { $attrs }>{ -brand-name-firefox }</a>.
 # Variables:
