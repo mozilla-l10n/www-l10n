@@ -22,6 +22,7 @@ firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = ሁሉንም አሳሾች ይመልከቱ
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = ደህንነቱ የተጠበቀ የበይነመረብ ግንኙነት ከአዲስ እይታ ጋር ለማግኘት ከ30 በላይ ሀገራት ባሉ አገልጋዮች ላይ አሰሳ፣ ዥረት መልቀቅ እና ስራዎችን ሰራ።
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } ያግኙ
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = የገቢ መልእክት ሳጥንዎን ለመቆጣጠር እንዲረዳዎት ትክክለኛ የኢሜይል አድራሻዎን ይጠብቁ።
