@@ -42,9 +42,49 @@ navigation-v2-help-prevent-facebook-from = { -brand-name-facebook } ውሂብዎ
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = ከአሳሽዎ በተጨማሪ ጥበቃን በሁሉም መሳሪያዎችዎ ላይ ያግኙ።
 navigation-v2-product-promise = የምርት ቃል-ኪዳን
+navigation-v2-learn-how-each-firefox-product = እያንዳንዱ የ{ -brand-name-firefox } ምርት እንዴት የእርስዎን ውሂብ እንደሚጠብቅ እና እንደሚያከብረው ይወቁ።
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (ቤታ)
+navigation-v2-sign-up-for-new-accounts = የኢሜል አድራሻዎን ሳያስረክቡ ለአዲስ መለያዎች ይመዝገቡ።
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (ቤታ)
+navigation-v2-protect-your-browsers-connection = አሳሽዎን ከበይነመረቡ ጋር ያለውን ግንኙነት ይጠብቁ።
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = አዲስ ባህሪያት እና መሳሪያዎች ለግል ብጁ የ{ -brand-name-mdn } ልምድ
+navigation-v2-view-all-products = ሁሉንም ምርቶች ይመልከቱ
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = ሰለ እኛ
+navigation-v2-close-who-we-are-menu = ሰለ እኛ ምናሌን ዝጋ
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla } ማኒፌስቶ
+navigation-v2-learn-about-the-values = ተልእኳችንን ስለሚመሩት እሴቶች እና መርሆዎች ይማሩ።
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = ለተሻለ ድር ከሚቆመው ከ{ -brand-name-firefox } በስተጀርባ ያለውን ለትርፍ ያልተቋቋመ ያግኙ።
+navigation-v2-get-involved = ይሳተፉ
+navigation-v2-join-the-fight-for-a = ጤናማ በይነመረብ ለማግኘት ትግሉን ይቀላቀሉ።
+navigation-v2-leadership = አመራር
+navigation-v2-meet-the-team-thats-building = ለተሻለ በይነመረብ ቴክኖሎጂን እየገነባ ካለው ቡድን ጋር ይገናኙ።
+navigation-v2-careers = ሙያዎች
+navigation-v2-work-for-a-mission-driven-updated = ሰዎች-የመጀመሪያ ምርቶችን ለሚሰራ በተልዕኮ ለሚመራ ድርጅት ይስሩ።
+navigation-v2-mozilla-blog = { -brand-name-mozilla } ጦማር
+navigation-v2-learn-about-mozilla-and = ስለ { -brand-name-mozilla } እና ለእኛ አስፈላጊ ስለሆኑ ጉዳዮች ይወቁ።
+navigation-v2-stories = ትርክቶች
+navigation-v2-stories-about-how = የእኛ ሰዎች እና ምርቶች እንዴት ዓለምን በተሻለ ሁኔታ እንደሚለውጡ የሚያወሱ ትርክቶች።
+navigation-v2-more-about-mozilla = ስለ { -brand-name-mozilla } ተጨማሪ
 
 ## Innovation menu
 
+navigation-v2-innovation = ፈጠራ
+navigation-v2-close-innovation-menu = የፈጠራ ምናሌን ዝጋ
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = በዚህ በይነተገናኝ፣ በመስመር ላይ፣ ባለብዙ-ልኬት ማህበራዊ ቦታ ውስጥ ይሰብስቡ።
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = ለገንቢዎች ብቻ የተሰራውን የ{ -brand-name-firefox } አሳሽ ያግኙ።
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = ለድር ገንቢ ግብዓቶች ቤቱን ይመልከቱ።
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-explore-the-web-with-the = ለምናባዊ እውነታ ድሩን በ{ -brand-name-firefox } አሳሽ ያስሱ።
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = የድሩ የወደፊት ጊዜ ሁሉንም ሰው መስማት እንዲችል ድምጽዎን ይለግሱ።
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = ስለ አዲሱ፣ ዝቅተኛ ደረጃ፣ ስብሰባ መሰል ቋንቋ የበለጠ ይወቁ።
