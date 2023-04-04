@@ -69,3 +69,17 @@ firefox-privacy-hub-send-a-file = ສົ່ງໄຟລ໌
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } ແນະນຳບົດຄວາມຄຸນນະພາບສູງ, ມະນຸດຄັດສັນໂດຍບໍ່ໄດ້ເກັບກຳປະຫວັດການທ່ອງເວັບ ຫຼື ແບ່ງປັນຂໍ້ມູນສ່ວນຕົວຂອງທ່ານກັບຜູ້ໂຄສະນາ.
 firefox-privacy-hub-get-pocket = ເອົາ { -brand-name-pocket }
+firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } ຂອງທ່ານ
+firefox-privacy-hub-all-the-information-synced = ຂໍ້ມູນທັງໝົດທີ່ຊິ້ງຜ່ານ { -brand-name-firefox-account } ຂອງທ່ານ — ຈາກປະຫວັດບຣາວເຊີໄປຫາລະຫັດຜ່ານ — ຖືກເຂົ້າລະຫັດໄວ້. ແລະລະຫັດຜ່ານບັນຊີຂອງທ່ານແມ່ນກຸນແຈອັນດຽວ.
+firefox-privacy-hub-take-your-privacy-and-bookmarks = ເອົາຄວາມເປັນສ່ວນຕົວ ແລະບຸກມາກຂອງທ່ານໄປທຸກບ່ອນດ້ວຍ { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = ມີບັນຊີຢູ່ແລ້ວບໍ? <a { $sign_in } class="{ $class_name }">ເຂົ້າສູ່ລະບົບ</a> ຫຼື <a href="{ $learn_more }">ສຶກສາເພີ່ມເຕີມ</a> ກ່ຽວກັບການເຂົ້າຮ່ວມ { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = ອ່ານ <a href="{ $url }">ປະກາດຄວາມເປັນສ່ວນຕົວ</a> ສໍາລັບຜະລິດຕະພັນຂອງພວກເຮົາ
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = ທ່ອງເວັບ, ຖ່າຍທອດ ແລະເຮັດວຽກໃຫ້ສຳເລັດໃນເຊີບເວີໃນຫຼາຍກວ່າ 30 ປະເທດເພື່ອການເຊື່ອມຕໍ່ອິນເຕີເນັດທີ່ປອດໄພດ້ວຍມຸມມອງໃໝ່.
+firefox-privacy-hub-get-mozilla-vpn = ເອົາ { -brand-name-mozilla-vpn }
