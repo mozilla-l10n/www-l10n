@@ -19,6 +19,10 @@ compare-chrome-at-firefox-we-have-a-huge = በ{ -brand-name-firefox } ላይ፣ 
 compare-chrome-at-firefox-we-have-a-huge-fallback = በ{ -brand-name-firefox } ላይ፣ ለመስመር ላይ ግላዊነት ያለንን ጽኑ ቁርጠኝነት የሚያደንቁ እጅግ በጣም ብዙ የወሰኑ ተጠቃሚዎች አለን። ለምሳሌ፣ የቅርብ ጊዜው የ{ -brand-name-firefox } እትም የተሻሻለ የክትትል ጥበቃ (ETP) በነባሪነት በዓለም ዙሪያ ላሉ ሁሉም ተጠቃሚዎች የበራ ባህሪን ያካትታል። ETP እንደ { -brand-name-facebook }፣ { -brand-name-twitter } እና LinkedIn ያሉ ኩባንያዎች ማህበራዊ መከታተያዎችን ጨምሮ ከ2,000 በላይ ተቆጣጣሪዎችን አግዷል። እንዲሁም <a { $attrs }>{ -brand-name-firefox-monitor }</a> የሚባል የተቀናጀ ባህሪ አለው ይህም የይለፍ ቃልዎ ከተጣሰ ወይም መዘመን ካለበት በራስ-ሰር ያሳውቅዎታል። ከእነዚህ ጥበቃዎች በተጨማሪ በ{ -brand-name-firefox } ውስጥ ያለው የግል አሰሳ ሁነታ እንደ ታሪክ እና ኩኪዎች ያሉ የአሰሳ መረጃዎችን በራስ ሰር ይሰርዛል፣ ክፍለ ጊዜዎን ከጨረሱ በኋላ ምንም ዱካ አይተዉም።
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = እንዲሁም የተጠቃሚ ውሂብን በተመለከተ ለግላዊነት እና ግልጽነት ያለንን ቁርጠኝነት በቅርብ ጊዜ በ<a { $attrs }>የግላዊነት ማስታወቂያ</a> ላይ ደግመን ገልጸናል፣ “በ{ -brand-name-mozilla }፣ ግላዊነት እናምናለን ለጤናማ በይነመረብ መሰረታዊ ነገር ነው።
+# Outdated string
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = እንዲሁም የተጠቃሚ መረጃን በተመለከተ ለግላዊነት እና ግልጽነት ያለንን ቁርጠኝነት በቅርብ ጊዜ <a { $attrs }>የግላዊነት ማስታወቂያ</a> ላይ በድጋሚ ገለጽነው፣ “በሞዚላ፣ ግላዊነት ለጤናማ በይነመረብ መሰረታዊ ነገር ነው። ”
 compare-chrome-google-chrome-is-by-all-accounts = { -brand-name-google } { -brand-name-chrome } በሁሉም መለያዎች ደህንነቱ የተጠበቀ አሳሽ ነው፣እንደ { -brand-name-google } ያሉ ባህሪያት ያለው ደህንነቱ የተጠበቀ አሰሳ ነው፣ ይህም ሊያመልጠው የማይችለውን በማሳየት ተጠቃሚዎችን ወደ አደገኛ ጣቢያዎች ለመሄድ ሲሞክሩ ወይም አደገኛ ፋይሎችን ሲያወርዱ ማስጠንቀቂያ ለመስጠት ይረዳል።
 # To "draw the line" is to establish a boundary that should not be crossed. Alternative: "it's up to you to decide whether or not or where your limit is with sharing things (...)".

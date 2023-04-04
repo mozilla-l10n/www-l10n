@@ -32,10 +32,15 @@ firefox-accounts-keep-your-passwords = የይለፍ ቃልዎን ደህንነቱ
 firefox-accounts-get-a-lookout-for = ከመረጃ መጭበርበር ይጠንቀቁ!
 firefox-accounts-travel-the-internet = በማንኛውም መገልገያ መሳሪያ ኢንተርኔት ላይ በጥንቃቄ ይጓዙ።
 firefox-accounts-encrypt-your = የአውታረ መረብ እንቅስቃሴዎን ያመስጥሩ እና የአውታር አድራሻዎን ይደብቁ
+firefox-accounts-we-never = የእርስዎን የአውታረ መረብ ውሂብ አንመዘግብም፣ አንከታተልም ወይም አናጋራም።
+firefox-accounts-save-articles = ከመላው ድር ላይ ጽሑፎችን ያስቀምጡ
+firefox-accounts-read-in-a = ፀጥ ባለ ፣ የግል ቦታ ውስጥ ያንብቡ
 firefox-accounts-get-it-all-on-every = በማንኛውም መገልገያ መሳሪያ ላይ፤ ምንም አይነት ስጋት ሳያድርብዎ ሁሉንም አገልግሎቶች በአንድ መተግበሪያ መሳሪያ ላይ ያግኙ።
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }

@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox }ን ይ�
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = አስቀድሞ መለያ አለዎት? <a { $fxa_attr }>ይግቡ</a> ወይም { -brand-name-firefox }ን ስለመቀላቀል <a { $accounts_attr }>ተጨማሪ ይወቁ</a>።
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = መለያ አለዎት? <a { $fxa_attr }>ይግቡ</a> ወይም ፋየርፎክስን ስለመቀላቀል <a { $accounts_attr }>ተጨማሪ ይወቁ</a>።
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

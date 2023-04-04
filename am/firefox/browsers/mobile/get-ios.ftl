@@ -11,3 +11,4 @@ get-ios-firefox-for-ios = { -brand-name-firefox-browser } ለ{ -brand-name-ios }
 get-ios-firefox-is-fast = { -brand-name-firefox } ለ { -brand-name-ios } ለመጀመሪያ ጊዜ ከከፈቱት ጀምሮ ፈጣን፣ ደህንነቱ የተጠበቀ እና ሚስጥራዊ ነው።
 get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = { -brand-name-firefox }ን ለ{ -brand-name-ios } አውርድ
+get-ios-firefox-mobile-adapts = { -brand-name-firefox } ስልክ ለእርስዎ ይስማማል እና ሁሉንም ክፍት ትሮችዎን ፣ ያለፉ ፍለጋዎችዎን እና ተወዳጅ ጣቢያዎችዎን ለማየት ከመቼውም ጊዜ በበለጠ ቀላል ያደርገዋል።
