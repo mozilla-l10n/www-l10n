@@ -7,6 +7,10 @@
 
 # HTML page title
 browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox }-mobiiliselaimet asettavat yksityisyytesi etusijalle
+# HTML page description
+browsers-mobile-overview-of-all-mobile = Yleiskatsaus kaikista { -brand-name-firefox }-mobiiliselaimista ({ -brand-name-firefox } { -brand-name-android }ille, { -brand-name-firefox } { -brand-name-ios }:lle , { -brand-name-firefox-focus })
+# Obsolete string
+browsers-mobile-at-home-or-on-the-move = Kotona tai liikkeellä ollessasi ansaitset yksityisyyden kaikilla laitteilla. Parannettu seurannan suojaus on automaattinen kaikissa { -brand-name-firefox }-mobiiliselaimessa.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 # Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = Mobiiliselain, joka asettaa <strong>yksityisyytesi</strong> etusijalle
