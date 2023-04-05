@@ -31,6 +31,7 @@ firefox-accounts-protect-your-identity = Beskytte din identitet med sikker maske
 firefox-accounts-keep-your-passwords = Brug sikre og bærbare adgangskoder.
 firefox-accounts-get-a-lookout-for = Få holdt øje med datalæk.
 firefox-accounts-travel-the-internet = Beskyt dig selv på nettet - på alle dine enheder.
+firefox-accounts-encrypt-your = Kryptere din netværksaktivitet og skjule din IP-adresse
 firefox-accounts-we-never = Vi logger, sporer eller deler aldrig dine netværksdata
 firefox-accounts-save-articles = Gemme artikler fra hele nettet
 firefox-accounts-read-in-a = Læse et stille og privat sted
