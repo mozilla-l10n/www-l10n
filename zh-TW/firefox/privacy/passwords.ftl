@@ -8,7 +8,7 @@
 # HTML page title
 privacy-passwords-security-guide-to = 更安全的登入資訊與密碼指南
 # HTML page description
-privacy-passwords-more-and-more-desc = 生活中越來越多敏感、有價值的東西都透過透過密碼保護的帳號來保護。要如何保護登入資訊
+privacy-passwords-more-and-more-desc = 生活中有越來越多敏感、寶貴的資料都要透過帳號密碼來保護。要如何保護我們的登入資訊呢？
 # page content
 privacy-passwords-a-security-guide = 更安全的登入資訊與密碼指南
 privacy-passwords-protecting-your-accounts = 保護帳號沒有那麼難，讓 { -brand-name-firefox } 來幫忙。
@@ -40,6 +40,9 @@ privacy-passwords-firefox-will = 若已知為釣魚網站，Firefox 將顯示警
 privacy-passwords-in-general-the = 一般來說防止釣魚最好的方式就是<strong>要小心謹慎</strong>不論是在電子郵件、簡訊或電話中。直接造訪網站而不處理其他人寄給您的內容。舉例來說如果郵件當中提到您需要重設 PayPal 密碼就不要點擊其中的鏈結。自己輸入 Paypal.com。如果銀行有來電請再回覆。
 privacy-passwords-strength-in-diversity = 有差異，更安全
 privacy-passwords-the-secret-to = 防止猜測、被盜或重設密碼的秘訣就在於當中的隨機性。當攻擊者嘗試猜測密碼時他們通常會做兩件事: 1) 使用「字典」 — 人們會使用的常見密碼清單以及 2) 進行隨機猜測。 <strong>您的密碼越長、越隨機</strong>這些猜測技巧就越不容易找到您的密碼。
+#   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
+#   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
+privacy-passwords-when-an-attacker = 當攻擊者偷走您使用的網站例如 <a { $url_linkedin }>LinkedIn</a> 或 <a { $url_yahoo }>Yahoo</a> 的密碼資料庫時，您只能更改該網站的密碼。這樣很不好，但若您在其他網站也使用被偷走的密碼登入時，損害會更嚴重：攻擊者就可以透過這些外洩的密碼盜用您在其他網站上的帳號。為了做好損害管控，請務必<strong>針對不同的網站使用不同的密碼。</strong>
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = 使用 <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> 監控與您的帳號相關聯的電子郵件地址。若您的電子郵件地址出現在已知的企業資料外洩事件中我們會通知您並提供相關措施來保護帳號。
 privacy-passwords-security-questions-my = 安全性確認問題：我媽媽的娘家姓氏是「Ff926AKa9j6Q」
@@ -53,8 +56,6 @@ privacy-passwords-twofactor-authentication-2fa = 兩階段身分驗證（2FA）
 privacy-passwords-2fa-is-a = 2FA 是加強安全性的好方法。設定新帳號時某些網站會讓您可以選擇要不要在登入時加入「第二個因素」。這通常代表著要將您的手機號碼與帳號連結起來這樣在輸入密碼後就會收到直接發給您的安全碼。這樣就算駭客想要取得您的密碼也無法登入您的帳號因為他們並不擁有您的手機。
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = 舉例來說，您的 { -brand-name-firefox } 帳號可透過 2FA 再加上一道保護（<a { $url_sumo_2fa }>可在此了解更多資訊</a>。）
-#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
-privacy-passwords-2fa-provides-much = 2FA 的安全性比單純輸入密碼的安全性要好但並不是每個網站都支援。您可到 <a { $url_2fa }>https://2fa.directery</a> 找到一系列支援 2FA 的網站、以及一系列不支援 2FA 的網站您可以要求這些網站支援新增支援。
 privacy-passwords-strong-diverse-and = 更強、更有差異、多因素驗證
 privacy-passwords-for-better-or = 不論好壞在可預見的未來我們都將透過密碼來保護我們的帳號密碼。使用<strong>密碼強度</strong><strong>因網站而異</strong>並有<strong>密碼管理員</strong>幫助您安全地記住這些密碼。為安全問題設定<strong>長而隨機的答案</strong>就算答案不是真的問題。並且對支援的網站<strong>使用雙因素驗證</strong>。
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics

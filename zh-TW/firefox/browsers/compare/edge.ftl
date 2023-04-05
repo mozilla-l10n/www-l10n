@@ -13,7 +13,7 @@ compare-edge-compare-microsoft-edge-to-the = 比較 { -brand-name-microsoft } { 
 compare-edge-comparing-firefox-browser-with = 比較 { -brand-name-firefox-browser }與 { -brand-name-microsoft } { -brand-name-edge }
 compare-edge-here-well-compare-our-firefox = 在此，我們將自家的 { -brand-name-firefox-browser }與使用 { -brand-name-chromium } 技術的 { -brand-name-microsoft } { -brand-name-edge } 在隱私權保護、實用性、可攜性等方面進行比較，幫助您更加了解哪套瀏覽器比較符合需求與偏好。
 # "SmartScreen" and "Windows Hello" are brand names.
-compare-edge-edge-is-integrated-into-the = { -brand-name-edge } 整合於 { -brand-name-windows } 10 平台於沙盒環境中運作代表它會隔離各種程式並防止惡意程式偷看您的電腦。內建的 SmartScreen 會掃描您造訪網站的聲譽紀錄並封鎖可疑網站。為了加強隱私保護{ -brand-name-edge } 允許您在 { -brand-name-windows } Hello 當中不需輸入密碼而是使用生物識別或 PIN 碼來進行線上驗證。
+compare-edge-edge-is-integrated-into-the = { -brand-name-edge } 整合於 { -brand-name-windows } 10 平台，於沙盒環境中運作。它會隔離於其他程式之外，並防止惡意程式窺探您的電腦。內建的 SmartScreen 會掃描您造訪網站的聲譽紀錄並封鎖可疑網站。為了加強保護隱私權，{ -brand-name-edge } 讓您可透過 { -brand-name-windows } Hello，使用生物識別機制或 PIN 碼，不需輸入密碼即可完成線上驗證。
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-edge-at-firefox-we-pride-ourselves = 在 { -brand-name-firefox } 以保護使用者的安全與隱私為榮。我們的<a { $attrs }>隱私權保護政策</a>內容通俗易懂。實際上我們花了很多時間確保它簡單明了、容易閱讀。現在起預設開啟加強型追踪保護後我們就會自動封鎖超過 2000 組追踪器。追踪器就是一些小小的程式碼會嘗試將您在多個網站的所作所為拼湊起來了解您的是誰、損害您的隱私來定向更好的廣告。
