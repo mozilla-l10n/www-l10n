@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = En { -brand-name-firefox }, tenemos u
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = En { -brand-name-firefox }, tenemos una gran cantidad de usuarios dedicados que aprecian nuestra firme dedicación a la privacidad en línea. Por ejemplo, la última versión de { -brand-name-firefox } incluye una función llamada protección contra el rastreo mejorada (ETP, por sus siglas en inglés) que está activada de manera predeterminada para todos los usuarios en todo el mundo. ETP bloquea más de 2.000 rastreadores, incluidos rastreadores sociales de compañías como { -brand-name-facebook }, { -brand-name-twitter } y LinkedIn. También tiene una característica integrada llamada <a { $attrs }>{ -brand-name-firefox-monitor }</a> que te notifica automáticamente si tu contraseña ha sido filtrada o si necesita actualizarse. Además de estas protecciones, el modo de navegación privada de { -brand-name-firefox } elimina automáticamente tu información de navegación, tal como el historial y las cookies, sin dejar rastro tras finalizar tu sesión.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = También hemos reafirmado recientemente nuestro compromiso con la privacidad y la transparencia con respecto a los datos de los usuarios en nuestro <a { $attrs }>Aviso de privacidad</a> más reciente que dice: “En { -brand-name-mozilla }, creemos que la privacidad es fundamental para un internet saludable.”
+# Outdated string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = También hemos reafirmado recientemente nuestro compromiso con la privacidad y la transparencia con respecto a los datos de los usuarios en nuestro <a { $attrs }>Aviso de privacidad</a> más reciente que dice: “En Mozilla, creemos que la privacidad es fundamental para un internet saludable”.
