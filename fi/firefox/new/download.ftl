@@ -55,3 +55,4 @@ firefox-new-download-browser = Lataa { -brand-name-firefox-browser }
 firefox-new-fast = Nopea, yksityinen ja ilmainen
 firefox-new-from-mozilla = { -brand-name-mozilla }lta
 firefox-new-download-a-different = Lataa muille ympäristöille ja kielille
+firefox-new-taskbar = { -brand-name-firefox } kiinnitetään { -brand-name-windows }in tehtäväpalkkiin asennuksen jälkeen
