@@ -9,6 +9,7 @@ mission-were-building-a-better-internet = Estamos construyendo un mejor Internet
 mission-our-mission-is-to-ensure-the-internet = Nuestra misión consiste en asegurarnos de que Internet sea un recurso público, mundial, abierto y accesible para todos. Un Internet que realmente ponga a las personas en primer lugar, donde puedan dar forma a su propia experiencia y estén empoderadas, se sientan seguras y sean independientes.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Nuestra misión es promover la apertura, la innovación y la oportunidad en la Web.
+mission-at-mozilla-were-a-global-community-v2 = En { -brand-name-mozilla }, somos una comunidad global de tecnólogos, pensadores y constructores que trabajamos juntos para mantener vivo y accesible el Internet, de manera que las personas de todo el mundo puedan ser contribuyentes y creadores informados de la Web.
 # Outdated string
 mission-at-mozilla-were-a-global-community = En Mozilla, somos una comunidad global de tecnólogos, pensadores y constructores que trabajamos juntos para mantener vivo y accesible el Internet, de manera que las personas de todo el mundo puedan ser contribuyentes y creadores informados de la Web.
 mission-we-believe-this-act-of-human-collaboration = Creemos que este acto de colaboración humana en una plataforma abierta es esencial para el crecimiento individual y nuestro futuro colectivo.
