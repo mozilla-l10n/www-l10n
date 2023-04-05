@@ -91,12 +91,21 @@ firefox-desktop-download-change-up-your = Muuta ulkoasua
 firefox-desktop-download-tweak-your-settings = Säädä asetuksia
 firefox-desktop-download-challenging-the-status = Status quo haastaen vuodesta 1998 lähtien
 firefox-desktop-download-your-privacy-comes = Yksityisyytesi tulee ensin
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Kaikki { -brand-name-google }-suosikkityökalusi (kuten Gmail ja Docs) toimivat saumattomasti { -brand-name-firefox-browser }issa.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Synkronoi laitteesi
 firefox-desktop-download-screenshots = Kuvakaappaukset
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Tehostettu seurannan suojaus (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Hanki { -brand-name-firefox-browser } <strong>{ -brand-name-android }ille</strong>
 firefox-desktop-download-get-firefox-ios = Hanki { -brand-name-firefox-browser } <strong>{ -brand-name-ios }:lle</strong>
+firefox-desktop-download-learn-about-the = Lisätietoja { -brand-name-firefox }-työpöytäselaimesta alla
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Tietoturvasta uutisten kautta pelaamiseen, löytyy <a { $attrs }>kaikille laajennus</a>. Lisää niin monta kuin haluat tehdäksesi selaimestasi juuri oikeanlaisen.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Kysymyksiä? <a { $attrs }>{ -brand-name-mozilla }-tuki</a> auttaa.
