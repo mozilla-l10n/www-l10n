@@ -30,6 +30,9 @@ sub-navigation-faq = UKK
 sub-navigation-learn-more = Lue lisää
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } mobiililaitteille
+# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
+sub-navigation-android-addons = { -brand-name-android }-lisäosat
+sub-navigation-android-add-ons = { -brand-name-android }-lisäosat
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
