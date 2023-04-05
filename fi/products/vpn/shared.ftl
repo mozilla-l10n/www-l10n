@@ -140,12 +140,20 @@ vpn-shared-affiliate-notification-ok = OK
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = Paranna yksityisyyttäsi käyttämällä { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Lisää { -brand-name-firefox-relay } tilaukseesi suojataksesi sähköpostiosoitteesi ja puhelinnumerosi. <a href="{ $url }">Lisätietoja</a>.
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Lisää <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Maski sähköpostiosoittelle
 vpn-shared-relay-phone-masking = Maski puhelinnumerolle
 vpn-shared-get-vpn-plus-relay = Hanki { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Miksi yhdessä?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Säästä { $percent } %</span> { -brand-name-relay-premium }in vuositilauksella
 
 ##
 
