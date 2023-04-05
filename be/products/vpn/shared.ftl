@@ -14,6 +14,7 @@ vpn-shared-available-countries-v4 = Зараз мы прадстаўляем { -
 vpn-shared-available-countries-v5 = Зараз мы прадстаўляем { -brand-name-mozilla-vpn } у Аўстрыі, Бельгіі, Канадзе, Фінляндыі, Францыі, Германіі, Ірландыі, Італіі, Малайзіі, Нідэрландах, Новай Зеландыі, Сінгапуры, Іспаніі, Швецыі, Швейцарыі, Вялікабрытаніі і ЗША.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-дзённая гарантыя вяртання грошай
+vpn-shared-features-encrypt = Шыфраванне на ўзроўні прылады
 vpn-shared-features-bandwidth = Неабмежаваная прапускная здольнасць
 # Variables:
 #   $countries (number) - number of available countries
