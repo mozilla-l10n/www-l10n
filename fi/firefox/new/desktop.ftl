@@ -19,6 +19,8 @@ firefox-desktop-download-get-the-browser = Hanki tärkeitä asioita suojaava sel
 firefox-desktop-download-no-shady = Ei hämäriä tietosuojakäytäntöjä tai takaovia mainostajille. Vain salamannopea selain, jolle et ole kauppatavaraa.
 firefox-desktop-download-download-options = Latausvalinnat ja muut kielet
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-tuki
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Tee mitä haluat verkossa.<br> { -brand-name-firefox-browser } <strong>ei</strong> tarkkaile.
 firefox-desktop-download-how-firefox-compares = Kuinka { -brand-name-firefox } pärjää muita selaimia vasten
 firefox-desktop-download-how-we-compare = Miten pärjäämme muihin selaimiin verrattuna
 firefox-desktop-download-compare-firefox-to = Vertaa { -brand-name-firefox }ia:
@@ -42,6 +44,7 @@ firefox-desktop-download-master-password = Pääsalasana
 firefox-desktop-download-we-block-the-ad = Mainosseuraimet estetty. Tutkit Internetiä nopeammin.
 firefox-desktop-download-see-your-report = Tarkastele suojausraporttiasi
 firefox-desktop-download-for-everyone = { -brand-name-firefox } on kaikille
+firefox-desktop-download-available-in-over = Saatavilla yli 90 kielellä ja yhteensopiva { -brand-name-windows }-, { -brand-name-mac-short }- ja { -brand-name-linux }-koneiden kanssa, { -brand-name-firefox } toimii riippumatta mitä käytät tai missä olet. Varmista, että käyttöjärjestelmäsi on ajan tasalla parhaan käyttökokemuksen saamiseksi.
 firefox-desktop-download-review-system-req = Tarkista järjestelmävaatimukset
 firefox-desktop-download-all-your-devices = Aseta { -brand-name-firefox } kaikille laitteillesi
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -94,6 +97,9 @@ firefox-desktop-download-your-privacy-comes = Yksityisyytesi tulee ensin
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Kaikki { -brand-name-google }-suosikkityökalusi (kuten Gmail ja Docs) toimivat saumattomasti { -brand-name-firefox-browser }issa.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Lataa tämä selainlaajennus</a> estääksesi { -brand-name-facebook }ia (ja { -brand-name-instagram }ia) seuraamasta sinua verkossa.
 firefox-desktop-download-sync-your-devices = Synkronoi laitteesi
 firefox-desktop-download-screenshots = Kuvakaappaukset
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -107,8 +113,16 @@ firefox-desktop-download-learn-about-the = Lisätietoja { -brand-name-firefox }-
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Tietoturvasta uutisten kautta pelaamiseen, löytyy <a { $attrs }>kaikille laajennus</a>. Lisää niin monta kuin haluat tehdäksesi selaimestasi juuri oikeanlaisen.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } on saatavilla kaikilla laitteillasi; ota välilehdet, historia ja kirjanmerkit mukaasi. Tarvitset vain <a { $attrs }>{ -brand-name-firefox }-tilin</a>.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>estää automaattisesti monia kolmannen osapuolen seuraimia</a> keräämästä ja myymästä verkkotoimintaasi.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Kysymyksiä? <a { $attrs }>{ -brand-name-mozilla }-tuki</a> auttaa.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Sinulla on jo selain. Katso mitä muuta { -brand-name-firefox } tarjoaa.
 firefox-desktop-download-get-more-from-firefox = Lisää { -brand-name-firefox }ilta
 firefox-desktop-download-just-download-the-browser = Lataa vain selain
 
@@ -143,4 +157,7 @@ firefox-desktop-download-interrupted = Lataus keskeytettiin, mutta kaikki ei ole
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = Voit asentaa { -brand-name-firefox }in seuraamalla <a href="{ $url }">näitä ohjeita</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Järjestelmäsi ei ehkä täytä { -brand-name-firefox }in vaatimuksia, mutta voit kokeilla jotakin <a href="{ $url }">näistä versioista</a>.
 firefox-desktop-download-taskbar = { -brand-name-firefox } kiinnitetään { -brand-name-windows }in tehtäväpalkkiin asennuksen jälkeen
