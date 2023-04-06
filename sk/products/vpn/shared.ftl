@@ -60,8 +60,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registrovaná ochr
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Vyberte si plán predplatného, ktorý vám vyhovuje
-# Outdated string
-vpn-shared-pricing-variable-heading = Vyberte si plán, ktorý vám vyhovuje
+vpn-shared-one-subscription-heading = Jedno predplatné pre všetky vaše zariadenia
+vpn-shared-choose-a-plan-sub-heading = Vyberte si plán, ktorý vám vyhovuje
 vpn-shared-pricing-variable-sub-heading = Všetky naše plány zahŕňajú:
 vpn-shared-pricing-recommended-offer = Odporúčané
 vpn-shared-pricing-plan-12-month-v2 = 12-mesačný plán
