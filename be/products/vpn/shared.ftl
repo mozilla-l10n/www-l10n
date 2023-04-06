@@ -16,6 +16,7 @@ vpn-shared-available-countries-v5 = Зараз мы прадстаўляем { -
 vpn-shared-money-back-guarantee = 30-дзённая гарантыя вяртання грошай
 vpn-shared-features-encrypt = Шыфраванне на ўзроўні прылады
 vpn-shared-features-bandwidth = Неабмежаваная прапускная здольнасць
+vpn-shared-features-activity = Без журналявання вашай сеткавай актыўнасці
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Моцныя серверы ў { $countries }+ краінах
@@ -25,6 +26,7 @@ vpn-shared-features-connect = Падключыце да { $devices } прыла�
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-дзённая гарантыя вяртання грошай
 vpn-shared-privacy-notice = Паведамленне аб прыватнасці
+vpn-shared-terms-conditions = Умовы выкарыстання
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
