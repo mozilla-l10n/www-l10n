@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
@@ -13,6 +13,9 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Aatteelline
 features-independent-firefox-is-independent = { -brand-name-firefox } on itsenäinen ja osa voittoa tavoittelematonta { -brand-name-mozilla }a, joka taistelee verkko-oikeuksiesi puolesta, pitää kurissa suuryritysten vallan ja tuo Internetin kaikkien ulottuville - kaikkialla.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Ei sitoumuksia
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox }ia rakennetaan voittoa tavoittelemattoman tahon toimesta. Tämä tarkoittaa, että voimme tehdä asioita, joita muut eivät voi, kuten rakentaa uusia tuotteita ja ominaisuuksia ilman taka-ajatuksia. Puolustamme oikeuttasi yksityisyyteen työkaluilla, kuten yksityisellä selauksella seurannan suojauksen kera.
+# Obsolete string
+features-independent-firefox-is-built-by = { -brand-name-firefox }ia rakennetaan voittoa tavoittelemattoman tahon toimesta. Tämä tarkoittaa, että voimme tehdä asioita, joita muut eivät voi, kuten rakentaa uusia tuotteita ja ominaisuuksia ilman taka-ajatuksia. Puolustamme oikeuttasi yksityisyyteen työkaluilla, kuten yksityisellä selauksella seurannan suojauksen kera. Se on enemmän, mitä { -brand-name-google } { -brand-name-chrome } ja { -brand-name-microsoft } { -brand-name-edge } tarjoavat.
 features-independent-what-you-see-is-what = Saat mitä näet
 features-independent-we-believe-the-internet = Uskomme, että Internet on ihmisiä varten, ei tuottoja varten. Muista toimijoista poiketen me emme myy tietojasi. <em>Sinä</em> päätät siitä, kuka näkee haku- ja selaushistoriasi. Valinta — siitä oikeudenmukaisessa Internetissä on kyse!
 features-independent-a-browser-on-a-mission = Selain, jolla on missio

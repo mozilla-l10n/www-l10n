@@ -23,6 +23,7 @@ how-do-i = Miten { -brand-name-firefox-browser } on mahdollista saada?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Voit ladata { -brand-name-firefox }in työpöytäversion <a href="{ $url }">täältä.</a> { -brand-name-firefox } toimii <a href="{ $url2 }">{ -brand-name-windows }illa,</a> <a href="{ $url3 }">{ -brand-name-mac-short }illa</a> ja <a href="{ $url4 }">{ -brand-name-linux }illa</a>, ja se on saatavana myös <a href="{ $url5 }">{ -brand-name-android }ille ja { -brand-name-ios }:lle.</a> Varmista, että lataat selaimemme joltain luotetuista { -brand-name-mozilla }/{ -brand-name-firefox }-sivuistamme.
 is-firefox-free = Onko { -brand-name-firefox } ilmainen?
 yep-the-firefox = Kyllä! { -brand-name-firefox-browser } on ilmainen. Itse asiassa todella ilmainen. Se ei sisällä piilokuluja. Et maksa mitään sen käytöstä, emmekä myy henkilökohtaisia tietojasi.
 related-questions-free = Aiheeseen liittyviä kysymyksiä: onko { -brand-name-firefox-browser } ilmainen, maksaako { -brand-name-firefox }
@@ -53,6 +54,7 @@ does-firefox-use = Käyttääkö { -brand-name-firefox } { -brand-name-google }a
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } on { -brand-name-firefox }in oletushakukone, mikä tarkoittaa, että voit tehdä hakuja verkosta suoraan osoitepalkista. <a href="{ $url }">Lisätietoja hakukoneasetuksista ja oletusasetusten muuttamisesta.</a>
 does-firefox-have = Onko { -brand-name-firefox }issa sisäänrakennettu VPN?
 
 # Variables:
