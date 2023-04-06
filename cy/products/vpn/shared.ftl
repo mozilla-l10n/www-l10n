@@ -60,8 +60,8 @@ vpn-shared-wireguard-copyright = Mae { -brand-name-wireguard } yn nod masnach co
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Dewiswch gynllun tanysgrifio sy'n gweithio i chi
-# Outdated string
-vpn-shared-pricing-variable-heading = Dewiswch gynllun sy'n gweithio i chi
+vpn-shared-one-subscription-heading = Un tanysgrifiad ar gyfer eich holl ddyfeisiau
+vpn-shared-choose-a-plan-sub-heading = Dewiswch gynllun sy'n gweithio i chi
 vpn-shared-pricing-variable-sub-heading = Mae pob un o'n cynlluniau yn cynnwys:
 vpn-shared-pricing-recommended-offer = Argymhellwn
 vpn-shared-pricing-plan-12-month-v2 = Cynllun 12 mis
