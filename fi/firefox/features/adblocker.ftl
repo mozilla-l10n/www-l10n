@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -8,7 +8,7 @@
 features-adblocker-how-to-block-annoying = Estä ärsyttävät mainokset mainostenestäjällä
 features-adblocker-how-to-stop-seeing-too = Estä liiallisten mainosten näkeminen ja estä yrityksiä seuraamasta verkossa. Mainosteneston opas { -brand-name-firefox }-selaimelle.
 features-adblocker-the-ad-blocker-a-secret = Mainostenesto - salainen ase ärsyttäviä mainoksia vastaan.
-features-adblocker-so-many-ads-so-little = Niin paljon mainoksia, niin lyhyt pinna… On aika lopettaa hulluttelu.
+features-adblocker-so-many-ads-so-little = Niin paljon mainoksia, niin lyhyt pinna… On aika lopettaa hulluus.
 features-adblocker-the-average-person-sees = Keskimääräinen henkilö näkee noin 4000 mainosta päivässä. Jos arvelet sen olevan liikaa, mainosten estäjä on uusi paras ystäväsi.
 features-adblocker-an-ad-blocker-is-a-piece = Mainosten estolla voidaan estää mainoksia, ja se toimii kahdella tavalla. Ensiksi mainosten esto estää signaalin mainostajan palvelimelta, jolloin mainos ei koskaan näy sivulla. Toiseksi mainosten esto piilottaa sellaisia verkkosivuston osia, joita se arvelee mainoksiksi.
 # Variables:
@@ -43,4 +43,5 @@ features-adblocker-the-custom-setting-gives = Mukautettu-asetus antaa sinulle t�
 features-adblocker-cover-your-trail-block = Peitä jälkesi, estä jäljittäjät
 features-adblocker-take-a-bite-out-of-cookies = Evää evästeet
 features-adblocker-send-a-do-not-track-signal = Lähetä Älä seuraa -signaali
+features-adblocker-speed-up-thanks-to-ad = Nopeutusta mainosestäjien ansiosta
 features-adblocker-take-control-of-your-browser = Ota ohjat selaimestasi

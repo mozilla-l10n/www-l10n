@@ -23,6 +23,11 @@ what-is-a-browser-when-the-web-browser = Kun verkkoselain hakee tietoja Internet
 #   $url(url) - link to https://wikipedia.org/wiki/URL
 what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hyperlinkkien</a> avulla käyttäjät voivat seurata polkua muille sivuille tai verkkosivustoille. Jokaisella verkkosivulla, kuvalla ja videolla on oma ainutlaatuinen <a href="{ $url }">Uniform Resource Locator</a> (URL), joka tunnetaan myös verkko-osoitteena. Kun selain vierailee palvelimella hakemassa tietoja, verkko-osoite kertoo selaimelle, mistä etsiä kutakin HTML:ssä kuvattua kohdetta, joka sitten kertoo selaimelle, mihin se verkkosivulla menee.
 what-is-a-browser-cookies-not-the = Evästeet (ei ne syötävät)
+# Variables:
+#   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
+what-is-a-browser-websites-save = Verkkosivustot tallentavat sinuun liittyviä tietoja tiedostoihin, joita kutsutaan <a href="{ $cookies }">evästeiksi</a>. Ne tallennetaan tietokoneellesi seuraavaa kertaa varten, kun vierailet kyseisellä sivustolla. Kun palaat, verkkosivuston koodi lukee evästetiedoston sisällön nähdäkseen, että olet sinä. Kun esimerkiksi siirryt verkkosivustolle, sivu muistaa käyttäjätunnuksesi ja salasanasi – sen mahdollistaa eväste.
 what-is-a-browser-when-you-go-to = Kun siirryt verkkosivustolle ja sivu muistaa käyttäjätunnuksesi ja salasanasi – sen tekee mahdolliseksi eväste.
 what-is-a-browser-understanding = Yksityisyyden ymmärtäminen
+what-is-a-browser-nearly-all-major = Lähes kaikissa yleisimmissä selaimissa on yksityinen selausasetus. Yksityinen selaustila on olemassa selaushistorian piilottamiseksi muilta saman tietokoneen käyttäjiltä. Monet ihmiset ajattelevat, että yksityinen selaus tai incognito-tila piilottaa sekä heidän henkilöytensä että selaushistoriansa Internet-palveluntarjoajilta, viranomaisilta ja mainostajilta. Se ei pidä paikkaansa. Nämä yksityisen selauksen asetukset vain tyhjentävät selaushistorian tietokoneellasi, mikä on hyödyllistä, jos käsittelet arkaluonteisia henkilökohtaisia tietoja jaetulla tai julkisella tietokoneella. { -brand-name-firefox } menee pidemmälle.
+what-is-a-browser-firefox-helps = { -brand-name-firefox } auttaa sinua olemaan aiempaa yksityisempi verkossa sallimalla sinun estää seuraimia seuraamasta sinua verkossa.
 what-is-a-browser-making-your-web = Verkkoselaimen mukauttaminen tarpeisiisi
