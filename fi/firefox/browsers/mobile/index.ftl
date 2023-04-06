@@ -15,6 +15,7 @@ browsers-mobile-at-home-or-on-the-move = Kotona tai liikkeellä ollessasi ansait
 # Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = Mobiiliselain, joka asettaa <strong>yksityisyytesi</strong> etusijalle
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android }ille
+browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }:lle
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Vertaa mobiiliselaimia
 browsers-mobile-compare = Vertaa

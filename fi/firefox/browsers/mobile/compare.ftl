@@ -27,6 +27,7 @@ mobile-compare-syncing-strong = <strong>Synkronointi</strong>
 mobile-compare-syncing = Synkronointi
 mobile-compare-does-your-browser = Toimiiko selaimesi hyvin muiden laitteiden kanssa?
 mobile-compare-almost-all-of = Lähes kaikki tässä verratut mobiiliselaimet mahdollistavat täydellisen synkronoinnin mobiililaitteiden ja pöytätietokoneiden välillä.
+mobile-compare-the-good-news = Hyvä uutinen { -brand-name-iphone }-käyttäjille on, että { -brand-name-apple } on äskettäin sallinut { -brand-name-iphone }-käyttäjien valita oman oletusselaimensa, joten nyt käyttäjät voivat synkronoida laitteensa eri käyttöympäristöihin, jos he esimerkiksi asentavat { -brand-name-firefox }in { -brand-name-iphone }en ja { -brand-name-windows }-tietokoneelle.
 mobile-compare-conclusion = Johtopäätös
 mobile-compare-based-on-the = Esittämiemme kriteerien – yksityisyys, ominaisuudet ja synkronointi – perusteella on olemassa vain yksi mobiiliselain, joka täyttää kaikki kolme kriteeriä, ja se on { -brand-name-firefox }. Vaikka ominaisuudet ja synkronointi ovat samankaltaisia muihin selaimiin verratessa, { -brand-name-firefox } erottuu tietosuojan kohdalla, koska se on mielestämme olennainen osa, jonka avulla voit nauttia internetistä – juuri sellaisena kuin haluat.
 mobile-compare-our-recommendations-aside = Suosituksistamme huolimatta sinulle sopivan selaimen löytäminen riippuu aina yksilöllisistä tarpeistasi ja siitä, mitä arvostat eniten liikkuessasi verkossa.
