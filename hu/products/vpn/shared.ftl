@@ -60,8 +60,8 @@ vpn-shared-wireguard-copyright = A { -brand-name-wireguard } Jason A. Donenfeld 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Válasszon olyan előfizetői csomagot, amely megfelel az Ön számára
-# Outdated string
-vpn-shared-pricing-variable-heading = Válasszon egy csomagot, amely megfelel az Ön számára
+vpn-shared-one-subscription-heading = Egy előfizetés az összes eszközéhez
+vpn-shared-choose-a-plan-sub-heading = Válasszon egy csomagot, amely megfelel az Ön számára
 vpn-shared-pricing-variable-sub-heading = Az összes csomagunk tartalmazza a következőket:
 vpn-shared-pricing-recommended-offer = Ajánlott
 vpn-shared-pricing-plan-12-month-v2 = 12 hónapos előfizetés
