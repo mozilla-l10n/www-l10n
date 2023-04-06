@@ -28,8 +28,9 @@ vpn-shared-privacy-notice = Паведамленне аб прыватнасці
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
-# Outdated string
-vpn-shared-pricing-variable-heading = Выберыце план, які вам падыходзіць
+vpn-shared-pricing-variable-heading-v2 = Выберыце план падпіскі, які вам падыходзіць
+vpn-shared-one-subscription-heading = Адна падпіска для ўсіх вашых прылад
+vpn-shared-choose-a-plan-sub-heading = Выберыце план, які вам падыходзіць
 vpn-shared-pricing-variable-sub-heading = Усе нашы планы ўключаюць:
 vpn-shared-pricing-recommended-offer = Рэкамендаваныя
 vpn-shared-pricing-plan-12-month-v2 = План на 12 месяцаў
