@@ -28,6 +28,7 @@ new-platform-faster-page-loading-linux = Nopeampi sivujen latausaika, pienempi k
 new-platform-firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }ille
 new-platform-privacy-more-than = Yksityisyys - enemmän kuin käytäntö
 new-platform-your-life-your-business = Sinun elämäsi, sinun tapasi. { -brand-name-firefox } estää kolmansien osapuolten seurainevästeet { -brand-name-linux }illa.
+new-platform-speed-meet-security = Nopeus, kohtaa turvallisuus. { -brand-name-firefox } on kaksi kertaa nopeampi ja käyttää 30 prosenttia vähemmän muistia kuin { -brand-name-chrome }.
 new-platform-open-source = Avoin lähdekoodi
 new-platform-look-under-the-hood = Katso konepellin alle. Kuten { -brand-name-linux }, { -brand-name-firefox }in ominaisuudet ovat avointa lähdekoodia.
 
@@ -46,4 +47,5 @@ new-platform-block-trackers = Estä seuraimet
 new-platform-download-mozilla-windows = Lataa { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-windows }ille
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Lataa nopein { -brand-name-firefox } { -brand-name-windows }ille koskaan
+new-platform-firefox-moves-fast = { -brand-name-firefox } liikkuu nopeasti ja käsittelee tietojasi huolellisesti – ei mainosseurantaa eikä hidastelua.
 new-platform-live-your-life = Elä elämääsi, { -brand-name-firefox } ei katso. Valitse, mitä ja milloin haluat jakaa.
