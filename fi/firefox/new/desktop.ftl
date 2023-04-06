@@ -92,8 +92,12 @@ firefox-desktop-download-make-firefox-your = Muokkaa <strong>{ -brand-name-firef
 firefox-desktop-download-extensions-for-every = Laajennukset joka lähtöön
 firefox-desktop-download-change-up-your = Muuta ulkoasua
 firefox-desktop-download-tweak-your-settings = Säädä asetuksia
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Ihmiset etusijalle asettava, <strong>voittoa tavoittelematon</strong> säätiö
 firefox-desktop-download-challenging-the-status = Status quo haastaen vuodesta 1998 lähtien
 firefox-desktop-download-your-privacy-comes = Yksityisyytesi tulee ensin
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Säilytä kaikki selaimesi suosikkiominaisuudet — ja <strong>löydä</strong> uusia ominaisuuksia.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Kaikki { -brand-name-google }-suosikkityökalusi (kuten Gmail ja Docs) toimivat saumattomasti { -brand-name-firefox-browser }issa.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
@@ -107,6 +111,7 @@ firefox-desktop-download-enhanced-tracking-protection = Tehostettu seurannan suo
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Hanki { -brand-name-firefox-browser } <strong>{ -brand-name-android }ille</strong>
 firefox-desktop-download-get-firefox-ios = Hanki { -brand-name-firefox-browser } <strong>{ -brand-name-ios }:lle</strong>
+firefox-desktop-download-download-the-mobile = Lataa { -brand-name-firefox }-mobiiliselain saadaksesi automaattista suojaa kaikilla laitteillasi.
 firefox-desktop-download-learn-about-the = Lisätietoja { -brand-name-firefox }-työpöytäselaimesta alla
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
