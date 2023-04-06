@@ -56,11 +56,19 @@ firefox-privacy-hub-learn-more-about-lockwise = Lisätietoja { -brand-name-lockw
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-send-a-file = Lähetä tiedosto
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } suosittelee korkealaatuisia, ihmisten kuratoimia artikkeleita keräämättä selaushistoriaasi tai jakamatta henkilökohtaisia tietojasi mainostajien kanssa.
 firefox-privacy-hub-get-pocket = Hanki { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Oma { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced = Kaikki { -brand-name-firefox-account }n kautta synkronoidut tiedot - selaushistoriasta salasanoihin - on salattu. Tilisi salasana on ainoa avain salauksen purkamiseksi.
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Vie yksityisyytesi ja kirjanmerkkisi kaikkialle { -brand-name-firefox-account }n avulla.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Onko sinulla jo tili? <a { $sign_in } class="{ $class_name }">Kirjaudu sisään</a> tai <a href="{ $learn_more }">lue lisätietoja</a> { -brand-name-firefox }iin liittymisestä.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Lue tuotteidemme <a href="{ $url }">tietosuojaseloste</a>
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Surffaa, suoratoista ja tee töitä käyttäen palvelimia yli 30 maassa saadaksesi suojatun Internet-yhteyden uudella näkökulmalla.
 firefox-privacy-hub-get-mozilla-vpn = Hanki { -brand-name-mozilla-vpn }

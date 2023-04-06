@@ -8,6 +8,7 @@
 browser-history-browser-history = Selainhistoria: Eeppiset valtataistelut, jotka toivat meille modernit selaimet
 browser-history-the-browser-wars-underdogs-giants = Selainsodat, altavastaajat vastaan jättiläiset ja hetket, jotka muuttivat maailmaa. Lue verkkoselainten historiasta.
 browser-history-the-history-of-web = Verkkoselainten historia
+browser-history-world-history-is = Maailmanhistoria on täynnä suuria valtataisteluja, maailmaa valloittavia tyranneja ja sankarillisia altavastaajia. Verkkoselainten historia ei ole kovin erilainen. Yliopiston pioneerit kirjoittivat yksinkertaisia ohjelmistoja, jotka saivat aikaan tiedon vallankumouksen ja taistelun selainten paremmuudesta ja internetin käyttäjistä.
 browser-history-before-web-era = Ennen verkon aikakautta
 browser-history-web-era = Verkon aikakausi
 browser-history-the-browser-wars = Selainsodat
