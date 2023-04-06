@@ -77,8 +77,6 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } est une marque dépos
 
 vpn-shared-pricing-variable-heading-v2 = Optez pour l’abonnement qui vous convient
 
-# Outdated string
-vpn-shared-pricing-variable-heading = Optez pour l’abonnement qui vous convient
 
 vpn-shared-pricing-variable-sub-heading = Tous nos abonnements comprennent :
 vpn-shared-pricing-recommended-offer = Notre recommandation

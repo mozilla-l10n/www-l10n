@@ -77,8 +77,6 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } adalah merek dagang t
 
 vpn-shared-pricing-variable-heading-v2 = Pilih paket berlangganan yang cocok untuk Anda
 
-# Outdated string
-vpn-shared-pricing-variable-heading = Pilih paket yang sesuai untuk Anda
 
 vpn-shared-pricing-variable-sub-heading = Semua paket kami meliputi:
 vpn-shared-pricing-recommended-offer = Direkomendasikan

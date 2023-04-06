@@ -77,8 +77,6 @@ vpn-shared-wireguard-copyright = يُعتبر { -brand-name-wireguard } علام
 
 vpn-shared-pricing-variable-heading-v2 = اختر خطة اشتراك تُناسبك
 
-# Outdated string
-vpn-shared-pricing-variable-heading = اختر خُطة تناسبك
 
 vpn-shared-pricing-variable-sub-heading = جميع خُططنا تتضمن ما يلي:
 vpn-shared-pricing-recommended-offer = يُنصح به
