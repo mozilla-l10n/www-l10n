@@ -33,6 +33,8 @@ firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ seurainta estet
 firefox-privacy-hub-see-what-firefox-has-blocked = Katso, mitä { -brand-name-firefox } on estänyt puolestasi
 firefox-privacy-hub-download-the-firefox-browser = Lataa { -brand-name-firefox }-selain
 firefox-privacy-hub-update-your-firefox-browser = Päivitä { -brand-name-firefox }-selain
+firefox-privacy-hub-always-in-your-control = Aina hallinnassasi
+firefox-privacy-hub-want-to-customize-what = Haluatko määrittää itse, mitä kaikkea estetään? Asetukset ovat vain yhden napsautuksen päässä.
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-check-for-breaches = Tarkista tietovuotojen varalta
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
@@ -41,5 +43,9 @@ firefox-privacy-hub-send-a-file = Lähetä tiedosto
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Hanki { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Oma { -brand-name-firefox-account }
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Vie yksityisyytesi ja kirjanmerkkisi kaikkialle { -brand-name-firefox-account }n avulla.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Lue tuotteidemme <a href="{ $url }">tietosuojaseloste</a>
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-privacy-hub-get-mozilla-vpn = Hanki { -brand-name-mozilla-vpn }
