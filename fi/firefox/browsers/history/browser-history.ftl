@@ -23,7 +23,19 @@ browser-history-a-year-later-berners = Vuotta myöhemmin Berners-Lee pyysi CERN:
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = Vuoteen 1993 mennessä verkko alkoi kukoistamaan. Yliopistot, hallitukset ja yksityiset yritykset näkivät kaikki mahdollisuuden avoimessa Internetissä. Kaikki tarvitsivat uusia tietokoneohjelmia päästäkseen siihen. Tietojenkäsittelytieteilijä Marc Andreessen loi tuolloin Mosaicin Illinoisin yliopiston Urbana-Champaignin National Center for Supercomputing Applications -keskuksessa (NCSA). Se oli ensimmäinen suosittu verkkoselain ja <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>in varhainen esi-isä.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic toimi { -brand-name-windows }-tietokoneissa. Se oli helppokäyttöinen ja antoi kenelle tahansa, jolla oli PC, pääsyn varhaisiin web-sivuihin, keskusteluhuoneisiin ja kuvakirjastoihin. Seuraavana vuonna (1994) Andreessen perusti <a href="{ $netscape }">{ -brand-name-netscape }</a>n ja julkaisi { -brand-name-netscape } Navigatorin kaikkien saataville. Se oli menestys ja ensimmäinen selain tavallisille ihmisille. Se oli myös ensimmäinen askel uudenlaisessa sodassa internetin käyttäjistä.
 browser-history-the-browser-wars = Selainsodat
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = Vuoteen 1995 mennessä { -brand-name-netscape } Navigator ei ollut ainoa tapa päästä verkkoon. Tietokoneohjelmistojätti { -brand-name-microsoft } lisensoi vanhan Mosaic-koodin ja rakensi oman ikkunan verkkoon, <a href="{ $ie }">{ -brand-name-ie }</a>in. Julkaisu herätti sodan. { -brand-name-netscape } ja { -brand-name-microsoft } työskentelivät kuumeisesti luodakseen uusia versioita ohjelmistaan, ja kumpikin yritti päihittää toisensa nopeammilla ja paremmilla tuotteilla.
+# Variables:
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+browser-history-netscape-created = { -brand-name-netscape } loi ja julkaisi JavaScriptin, joka antoi verkkosivustoille tehokkaita laskentaominaisuuksia, joita ei koskaan aiemmin ollut olemassa. (He tekivät myös pahamaineisen <a href="{ $blink }">&lt;blink&gt;-tagin</a>.) { -brand-name-microsoft } vastasi CSS:llä (Cascading Style Sheets), josta tuli standardi web-sivujen suunnittelussa ja toteutuksessa.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = Asiat riistäytyivät hieman käsistä vuonna 1997, kun { -brand-name-microsoft } julkaisi { -brand-name-ie } 4.0:n. Tiimi rakensi jättiläismäisen "e"-kirjaimen ja vei sen { -brand-name-netscape }-päämajan nurmikolle. { -brand-name-netscape }-tiimi kaatoi jättimäisen "e"-kirjaimen nopeasti ja <a href="{ $dino }">laittoi sen päälle oman { -brand-name-mozilla }-dinosaurusmaskottinsa</a >.
 browser-history-browsing-the-web = Verkon selaaminen nykypäivänä
 browser-history-resources = Resurssit
 browser-history-take-control-of = Ota ohjat selaimestasi.
