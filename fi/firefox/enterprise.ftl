@@ -16,7 +16,7 @@ firefox-enterprise-your-data-stays-your-business = Tietosi pysyvät tietonasi
 firefox-enterprise-deploy-when-and-how-you-want = Ota käyttöön milloin ja miten haluat
 firefox-enterprise-choose-your-release-cadence = Valitse päivitysrytmi
 firefox-enterprise-get-rapid-releases-to-make = Hanki nopeita julkaisuja varmistaaksesi, että saat viimeisimmät ominaisuudet nopeammin, tai valitse laaja, varmistaaksesi erittäin vakaan käyttökokemuksen.
-firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } lataukset
+firefox-enterprise-enterprise-downloads = { -brand-name-enterprise }-lataukset
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bittinen
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Valitse lataus
@@ -29,6 +29,7 @@ firefox-enterprise-msi-installers = MSI-asennusohjelmat
 firefox-enterprise-legacy-browser-support = Vanhan selaimen tuki
 firefox-enterprise-admx-templates = ADMX-mallit
 firefox-enterprise-deployment-guide = Käyttöönotto-opas
+firefox-enterprise-policy-documentation = Käytäntöjen dokumentaatio
 firefox-enterprise-release-notes = Julkaisutiedot
 firefox-enterprise-documentation-and-community = Dokumentaatio ja yhteisön tuki
 # Variables:
