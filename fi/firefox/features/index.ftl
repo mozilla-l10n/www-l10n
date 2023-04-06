@@ -50,6 +50,7 @@ features-index-fingerprinter-blocking = Yksilöijien esto
 features-index-fingerprinting-is-a = Yksilöinti on eräänlaista verkkoseurantaa, joka on tunkeutuvampaa kuin tavallinen evästepohjainen seuranta. Sen vuoksi { -brand-name-firefox-browser } estää sen.
 features-index-block-fingerprinters = Estä yksilöijät
 features-index-translate-the-web = Käännä verkko
+features-index-translate-more-than = Käännä yli 100 kielestä omalle kielellesi käyttäen { -brand-name-firefox-browser } - helpompaa kuin koskaan ennen.
 features-index-translate-to-your = Käännä kielellesi
 features-index-picture-in-picture = Kuva kuvassa
 features-index-got-things-to-do = Onko sinulla tekemistä ja katsottavaa? Tee molemmat käyttämällä  { -brand-name-firefox }in Kuva kuvassa -toimintoa.
