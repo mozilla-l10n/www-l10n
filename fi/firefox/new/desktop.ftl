@@ -11,6 +11,8 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Lataa { -brand-name-firefox-browser } — nopea, turvallinen ja vapaa — { -brand-name-mozilla }lta
 firefox-desktop-download-meta-title-v2 = Lataa { -brand-name-firefox } tietokoneelle — { -brand-name-mozilla }lta
+firefox-desktop-download-meta-desc = Hanki { -brand-name-firefox }, ilmainen verkkoselain, jota tukee { -brand-name-mozilla }, voittoa tavoittelematon internetin terveyteen ja yksityisyyteen keskittynyt säätiö. Saatavilla nyt { -brand-name-windows }ille, { -brand-name-mac-short }ille, { -brand-name-linux }ille, { -brand-name-android }ille ja { -brand-name-ios }:lle.
+firefox-desktop-download-meta-desc-v2 = Hanki { -brand-name-firefox } { -brand-name-windows }ille, { -brand-name-mac-short }ille tai { -brand-name-linux }ille. { -brand-name-firefox } on ilmainen verkkoselain, jota tukee { -brand-name-mozilla }, voittoa tavoittelematon Internetin terveyteen ja yksityisyyteen keskittynyt säätiö.
 firefox-desktop-download-og-title = Lataa nopein { -brand-name-firefox } koskaan
 firefox-desktop-download-og-desc = Nopeampi sivujen latausaika, pienempi keskusmuistin käyttö ja runsaat ominaisuudet – uusi { -brand-name-firefox } on täällä.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -22,6 +24,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-tuki
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Tee mitä haluat verkossa.<br> { -brand-name-firefox-browser } <strong>ei</strong> tarkkaile.
 firefox-desktop-download-how-firefox-compares = Kuinka { -brand-name-firefox } pärjää muita selaimia vasten
+firefox-desktop-download-get-all-the-speed = Saat kaiken nopeuden ja kaikki työkalut ilman uhkaa yksityisyyden loukkauksesta. { -brand-name-firefox-browser } kerää sinusta mahdollisimman vähän tietoja, emme edes vaadi sähköpostiosoitettasi lataamiseen. Tämä johtuu siitä, että toisin kuin muilla selaimilla, meillä ei ole taloudellista intressiä seurata sinua verkossa.
 firefox-desktop-download-how-we-compare = Miten pärjäämme muihin selaimiin verrattuna
 firefox-desktop-download-compare-firefox-to = Vertaa { -brand-name-firefox }ia:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -42,11 +45,13 @@ firefox-desktop-love-your-life = Rakkautta elämää verkossa kohtaan
 # Obsolete string
 firefox-desktop-download-master-password = Pääsalasana
 firefox-desktop-download-we-block-the-ad = Mainosseuraimet estetty. Tutkit Internetiä nopeammin.
+firefox-desktop-download-ads-are-distracting = Mainokset häiritsevät ja niiden vuoksi verkkosivut latautumaan hitaammin, kun niiden seuraimet seuraavat jokaista liikettäsi verkossa. { -brand-name-firefox-browser } estää useimmat seuraimet automaattisesti, joten sinun ei välttämättä tarvitse penkoa turvallisuusasetuksia.
 firefox-desktop-download-see-your-report = Tarkastele suojausraporttiasi
 firefox-desktop-download-for-everyone = { -brand-name-firefox } on kaikille
 firefox-desktop-download-available-in-over = Saatavilla yli 90 kielellä ja yhteensopiva { -brand-name-windows }-, { -brand-name-mac-short }- ja { -brand-name-linux }-koneiden kanssa, { -brand-name-firefox } toimii riippumatta mitä käytät tai missä olet. Varmista, että käyttöjärjestelmäsi on ajan tasalla parhaan käyttökokemuksen saamiseksi.
 firefox-desktop-download-review-system-req = Tarkista järjestelmävaatimukset
 firefox-desktop-download-all-your-devices = Aseta { -brand-name-firefox } kaikille laitteillesi
+firefox-desktop-download-take-your-privacy = Ota yksityisyys mukaasi kaikkialle. { -brand-name-firefox-browsers } { -brand-name-ios }:lle ja { -brand-name-android }ille sisältävät samat vahvat tietosuoja-asetukset, joilla estetään seuraimia seuraamasta sinua verkossa riippumatta siitä, missä olet.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Tee se <strong>kaikki</strong> { -brand-name-firefox }illa
 firefox-desktop-download-search-smarter = Etsi älykkäämmin ja nopeammin
@@ -91,7 +96,9 @@ firefox-desktop-download-change-new-tab = Muuta uuden välilehden asettelua
 firefox-desktop-download-make-firefox-your = Muokkaa <strong>{ -brand-name-firefox }</strong> omaksesi
 firefox-desktop-download-extensions-for-every = Laajennukset joka lähtöön
 firefox-desktop-download-change-up-your = Muuta ulkoasua
+firefox-desktop-download-go-from-light = Siirry vaaleasta tilasta tummaan tilaan mielialasi tai mieltymyksesi mukaan tai elävöitä asioita mukautetulla teemalla (pidätkö sateenkaarenvärisistä yksisarvisista?).
 firefox-desktop-download-tweak-your-settings = Säädä asetuksia
+firefox-desktop-download-theres-no-need = Ei tarvetta sopeutua. Muuta uuden välilehden sivua, hakupalkkia, kirjanmerkkejä ja muuta, jotta voit tutkia Internetiä haluamallasi tavalla.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Ihmiset etusijalle asettava, <strong>voittoa tavoittelematon</strong> säätiö
 firefox-desktop-download-challenging-the-status = Status quo haastaen vuodesta 1998 lähtien
@@ -117,6 +124,9 @@ firefox-desktop-download-learn-about-the = Lisätietoja { -brand-name-firefox }-
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Tietoturvasta uutisten kautta pelaamiseen, löytyy <a { $attrs }>kaikille laajennus</a>. Lisää niin monta kuin haluat tehdäksesi selaimestasi juuri oikeanlaisen.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } on luotu <a { $attrs }>{ -brand-name-mozilla }</a>n toimesta nopeammaksi ja yksityisemmäksi vaihtoehdoksi selaimille, kuten { -brand-name-ie }, ja nyt { -brand-name-chrome }. Tänä päivänä tehtävälähtöinen yrityksemme ja vapaaehtoisyhteisömme asettavat edelleen yksityisyytesi kaiken muun edelle.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } on saatavilla kaikilla laitteillasi; ota välilehdet, historia ja kirjanmerkit mukaasi. Tarvitset vain <a { $attrs }>{ -brand-name-firefox }-tilin</a>.
