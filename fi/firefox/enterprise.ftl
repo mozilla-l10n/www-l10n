@@ -11,9 +11,15 @@ firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Yleiskatsaus
 firefox-enterprise-downloads = Lataukset
 firefox-enterprise-get-firefox-for-your-enterprise = Hanki { -brand-name-firefox } yrityksellesi
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+firefox-enterprise-get-the-firefox-extended-support = Hanki <a href="{ $url }">{ -brand-name-firefox-extended-support-release } tai Rapid Release</a> -selain kattavaa tietoturvaa ja -suojaa varten.
 firefox-enterprise-unmatched-data-protection = Verraton tietosuoja – sinulle sopivassa päivitysrytmissä
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox }-selain on avointa lähdekoodia ja se tarjoaa tehostetun seurannan suojauksen — kaikki osa pitkäaikaista sitoutumistamme tietosuojaan.
 firefox-enterprise-your-data-stays-your-business = Tietosi pysyvät tietonasi
 firefox-enterprise-deploy-when-and-how-you-want = Ota käyttöön milloin ja miten haluat
+firefox-enterprise-with-install-packages-and = Asennuspakettien ja laajojen ryhmäkäytäntöjen ja ominaisuuksien ansiosta käyttöönotto on nopeampaa ja joustavampaa kuin koskaan – ja helppoa { -brand-name-windows }- ja { -brand-name-mac }-ympäristöissä.
 firefox-enterprise-choose-your-release-cadence = Valitse päivitysrytmi
 firefox-enterprise-get-rapid-releases-to-make = Hanki nopeita julkaisuja varmistaaksesi, että saat viimeisimmät ominaisuudet nopeammin, tai valitse laaja, varmistaaksesi erittäin vakaan käyttökokemuksen.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise }-lataukset
@@ -34,6 +40,6 @@ firefox-enterprise-release-notes = Julkaisutiedot
 firefox-enterprise-documentation-and-community = Dokumentaatio ja yhteisön tuki
 # Variables:
 #   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Esimerkki <a href="{ $url }">plist konfiguraatioprofiili</a>
+firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">plist-konfiguraatioprofiilin</a> esimerkki
 firefox-enterprise-pkg-installer = PKG-asentaja
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bittinen
