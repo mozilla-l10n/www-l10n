@@ -43,6 +43,10 @@ manifesto-10 = 10
 manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla }-manifestin lisäys
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Lupaus terveestä internetistä
+manifesto-the-open-global-internet = Avoin, maailmanlaajuinen internet on tehokkain koskaan näkemämme viestintä- ja yhteistyöresurssi. Se ilmentää joitain syvimmistä toiveistamme inhimillisen kehityksen suhteen. Se avaa uusia mahdollisuuksia oppimiseen, yhteisen inhimillisyyden tunteen rakentamiseen ja ihmisten ongelmien ratkaisemiseen.
+manifesto-over-the-last-decade-we = Viime vuosikymmenen aikana olemme nähneet tämän lupauksen täyttyneen monin tavoin. Olemme myös nähneet Internetin voimaa käytettävän eripuraisuuden lisäämiseen, väkivallan lietsomiseen, vihan edistämiseen sekä totuuden ja todellisuuden tarkoitukselliseen manipulointiin. Olemme oppineet, että meidän pitäisi ilmaista selkeämmin pyrkimyksemme ihmisten kokemiseen Internetistä. Teemme niin nyt.
+manifesto-we-are-committed-to-people = Olemme sitoutuneet Internetiin, joka sisältää kaikki maapallon kansat – jossa henkilön väestöryhmään liittyvät ominaisuudet eivät määritä hänen pääsyään verkkoon, mahdollisuuksiaan tai kokemuksen laatua.
+manifesto-we-are-committed-to-discourse = Olemme sitoutuneet Internetiin, joka edistää kohtealiasta ajatustenvaihtoa, ihmisarvoa ja yksilöllistä ilmaisua.
 manifesto-show-your-support = Näytä tukesi
 manifesto-i-support-the-vision-of = Tuen @mozilla'n visiota paremmasta, terveemmästä internetistä. Tuletko mukaan?
 manifesto-share-on-twitter = Jaa { -brand-name-twitter }issä
