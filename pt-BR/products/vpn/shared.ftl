@@ -60,8 +60,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } é uma marca registra
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Escolha um plano de assinatura que sirva para você
-# Outdated string
-vpn-shared-pricing-variable-heading = Escolha um plano que funciona para você
+vpn-shared-one-subscription-heading = Uma única assinatura para todos os seus dispositivos
+vpn-shared-choose-a-plan-sub-heading = Escolha um plano que funciona para você
 vpn-shared-pricing-variable-sub-heading = Todos os nossos planos incluem:
 vpn-shared-pricing-recommended-offer = Recomendado
 vpn-shared-pricing-plan-12-month-v2 = Plano de 12 meses
