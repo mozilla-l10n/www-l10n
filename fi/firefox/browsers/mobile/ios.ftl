@@ -18,9 +18,11 @@ mobile-ios-send-a-download-link-to-your = Lähetä latauslinkki puhelimeesi.
 mobile-ios-scan-the-qr-code-to-get-started = Aloita skannaamalla QR-koodi
 mobile-ios-scan-alt-text = Skannaa QR-koodi saadaksesi { -brand-name-firefox }in { -brand-name-ios }:lle
 mobile-ios-make-firefox-your = Tee { -brand-name-firefox }ista oletusselain
+mobile-ios-now-iphone-and = { -brand-name-iphone }- ja { -brand-name-ipad }-käyttäjät voivat nyt valita oletusselaimensa. Tämä tarkoittaa, että et ole pakotettu käyttämään { -brand-name-safari }a, ja mobiiliselaimesi voi pysyä synkronoituna tietokoneesi suosikkiselaimen kanssa. Lisäksi kun asetat { -brand-name-firefox }in oletusselaimeksi, tuet riippumatonta teknologiayritystä. { -brand-name-firefox } on myös ainoa voittoa tavoittelemattoman tahon tukema merkittävä selain.
 mobile-ios-fast-private-secure = Nopeasti. Yksityinen. Turvallinen
 mobile-ios-keep-whats-personal = Pidä henkilökohtaiset asiat yksityisinä tinkimättä nopeudesta. Lisäksi älykkäät selausominaisuudet antavat sinulle mahdollisuuden ottaa yksityisyytesi, salasanasi ja kirjanmerkkisi turvallisesti mukaasi minne ikinä menetkin, mikä helpottaa elämääsi verkossa.
 mobile-ios-stay-private-online = Pysy yksityisenä verkossa
+mobile-ios-firefox-gives-you = { -brand-name-firefox } suojaa yksityisyyttäsi paremmin, kun olet verkossa. Oletusarvoisesti tehostettu seurannan suojaus estää seuraimet ja komentosarjat, kuten sosiaalisen median seuraimet, sivustojen väliset evästeseuraimet, kryptolouhijat ja yksilöijät.
 mobile-ios-your-browsing-history = Selaushistoriasi on mennyttä
 mobile-ios-if-you-want = Voit hakea yksityisessä selaustilassa helposti. Kun suljet yksityisen selaustilan, selaushistoriasi ja kaikki evästeet poistetaan automaattisesti laitteeltasi.
 mobile-ios-get-more-firefox = Lisää { -brand-name-firefox }ia elämääsi
@@ -28,9 +30,11 @@ mobile-ios-add-firefox-across-v2 = Lisää { -brand-name-firefox } kaikille lait
 mobile-ios-get-to-your-go-to = Pääsy suosituimpiin paikkoihin aiempaa nopeammin { -brand-name-iphone }lla ja { -brand-name-ipad }illa
 mobile-ios-see-your-open-tabs = Näe avoimet välilehdet, viimeisimmät haut ja suosikkisivustot yhdessä paikassa { -brand-name-firefox-browser } { -brand-name-ios }:n avulla.
 mobile-ios-own-your-home = Omista aloitusnäyttösi
+mobile-ios-get-to-the-parts = Pääse tärkeän sisällön pariin entistä nopeammin. Valitse avoimet välilehdet, viimeisimmät haut, kirjanmerkit ja suosikkisivustot esitettäväksi yhteen paikkaan.
 # Obsolete string
 mobile-ios-add-firefox-across = Lisää { -brand-name-firefox } kaikille laitteillesi turvallista ja saumatonta selaamista varten. { -brand-name-sync } laitteesi ja ota suosikkikirjanmerkkisi, tallennetut kirjautumistietosi, salasanasi ja selaushistoriasi mukaan minne ikinä menetkin. Lisäksi voit lähettää avoimia välilehtiä puhelimen ja työpöydän välillä jatkaaksesi siitä, mihin jäit.
 mobile-ios-find-it-all = Löydä nopeammin
+mobile-ios-get-search-suggestions = Vastaanota hakuehdotuksia hakupalkkiin ja siirry nopeasti sivustoille, joilla käyt eniten. Kirjoita hakuehtosi ja saat ehdotuksia ja aiemmin etsittyjä tuloksia suosikkihakukoneistasi.
 # Obsolete string
 mobile-ios-keep-tabs-on = Pidä silmällä kaikkia näitä välilehtiä
 # Obsolete string
