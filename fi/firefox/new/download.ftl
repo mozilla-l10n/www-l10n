@@ -47,6 +47,9 @@ firefox-new-your-system-may-not = Järjestelmäsi ei ehkä täytä { -brand-name
 firefox-new-windows = { -brand-name-windows }
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Jos näet kehotteen, jonka mukaan sovellus, jota yrität asentaa, ei ole { -brand-name-microsoft }-vahvistettu sovellus, napsauta "Asenna silti" tai <a { $attrs }>muuta sovellusten suositusasetuksia</a>.
 firefox-new-visit-support-for-more = Katso lisätietoja tukisivustolta
 
 # Not-Required
@@ -58,5 +61,6 @@ firefox-new-visit-support-for-more = Katso lisätietoja tukisivustolta
 firefox-new-download-browser = Lataa { -brand-name-firefox-browser }
 firefox-new-fast = Nopea, yksityinen ja ilmainen
 firefox-new-from-mozilla = { -brand-name-mozilla }lta
+firefox-new-desc = { -brand-name-firefox-browser } on vapaa ja ilmainen verkkoselain, jossa sivut latautuvat nopeasti, se käyttää vähemmän muistia kuin monet muut selaimet ja se sisältää paljon ominaisuuksia – voittoa tavoittelemattoman { -brand-name-mozilla }n projekti.
 firefox-new-download-a-different = Lataa muille ympäristöille ja kielille
 firefox-new-taskbar = { -brand-name-firefox } kiinnitetään { -brand-name-windows }in tehtäväpalkkiin asennuksen jälkeen
