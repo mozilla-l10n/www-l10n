@@ -60,8 +60,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } är ett registrerat v
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Välj en prenumerationsplan som fungerar för dig
-# Outdated string
-vpn-shared-pricing-variable-heading = Välj en plan som fungerar för dig
+vpn-shared-one-subscription-heading = En prenumeration för alla dina enheter
+vpn-shared-choose-a-plan-sub-heading = Välj en plan som fungerar för dig
 vpn-shared-pricing-variable-sub-heading = Alla våra planer inkluderar:
 vpn-shared-pricing-recommended-offer = Rekommenderad
 vpn-shared-pricing-plan-12-month-v2 = 12-månadersplan
