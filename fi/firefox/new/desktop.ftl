@@ -43,6 +43,8 @@ firefox-desktop-download-primary-password = Pääsalasana
 # Obsolete string
 firefox-desktop-love-your-life = Rakkautta elämää verkossa kohtaan
 # Obsolete string
+firefox-desktop-its-your-internet = Se on sinun internet. Väritä se haluamallasi tavalla tuhansilla työkaluilla, teemoilla ja laajennuksilla. { -brand-name-firefox } on alkuperäinen vaihtoehtoselain, joka asettaa ihmiset tuottojen edelle.
+# Obsolete string
 firefox-desktop-download-master-password = Pääsalasana
 firefox-desktop-download-we-block-the-ad = Mainosseuraimet estetty. Tutkit Internetiä nopeammin.
 firefox-desktop-download-ads-are-distracting = Mainokset häiritsevät ja niiden vuoksi verkkosivut latautumaan hitaammin, kun niiden seuraimet seuraavat jokaista liikettäsi verkossa. { -brand-name-firefox-browser } estää useimmat seuraimet automaattisesti, joten sinun ei välttämättä tarvitse penkoa turvallisuusasetuksia.
@@ -115,6 +117,7 @@ firefox-desktop-download-sync-your-devices = Synkronoi laitteesi
 firefox-desktop-download-screenshots = Kuvakaappaukset
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Tehostettu seurannan suojaus (ETP)
+firefox-desktop-download-from-watching-a = Voit katsoa opetusvideoita tai suosikkijoukkueesi ottelua samalla, kun teet muita asioita.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Hanki { -brand-name-firefox-browser } <strong>{ -brand-name-android }ille</strong>
 firefox-desktop-download-get-firefox-ios = Hanki { -brand-name-firefox-browser } <strong>{ -brand-name-ios }:lle</strong>
@@ -128,8 +131,14 @@ firefox-desktop-download-from-security-to = Tietoturvasta uutisten kautta pelaam
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } on luotu <a { $attrs }>{ -brand-name-mozilla }</a>n toimesta nopeammaksi ja yksityisemmäksi vaihtoehdoksi selaimille, kuten { -brand-name-ie }, ja nyt { -brand-name-chrome }. Tänä päivänä tehtävälähtöinen yrityksemme ja vapaaehtoisyhteisömme asettavat edelleen yksityisyytesi kaiken muun edelle.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Internetin kasvaessa ja muuttuessa { -brand-name-firefox } keskittyy edelleen oikeuteesi yksityisyyteen – kutsumme sitä <a { $attrs }>henkilökohtaisten tietojen lupaukseksi</a>: Ota vähemmän. Pidä se turvassa. Ei salaisuuksia. { -brand-name-firefox } suojaa tietojasi ja toimintaasi verkossa.
+# Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } on saatavilla kaikilla laitteillasi; ota välilehdet, historia ja kirjanmerkit mukaasi. Tarvitset vain <a { $attrs }>{ -brand-name-firefox }-tilin</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Ota korkearesoluutioinen kuva mistä tahansa verkossa suoraan selaimeen rakennetulla <a { $attrs }>kuvakaappauksen työkalulla</a>
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>estää automaattisesti monia kolmannen osapuolen seuraimia</a> keräämästä ja myymästä verkkotoimintaasi.
@@ -158,6 +167,9 @@ firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-desktop-download-visit-support-for-more = Katso lisätietoja tukisivustolta
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ei enää tarjoa tietoturvapäivityksiä</a> { -brand-name-windows } { -brand-name-xp }:lle tai { -brand-name-vista }lle, mutta voit silti käyttää { -brand-name-firefox }ia.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
