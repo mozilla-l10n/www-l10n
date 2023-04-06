@@ -17,8 +17,10 @@ browsers-chromebook-dropdown-copy = Hanki { -brand-name-firefox } { -brand-name-
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Miksi hankkia <span>{ -brand-name-firefox }</span> { -brand-name-chromebook }ille?
 browsers-chromebook-while-a-chromebook = Vaikka { -brand-name-chromebook }iin on { -brand-name-chrome } jo asennettuna, { -brand-name-firefox }in lataaminen ja käyttäminen selaimena tarjoaa muutamia etuja:
+browsers-chromebook-alwayson-tracking-protection = Aina käytössä oleva seurantasuojaus: { -brand-name-firefox }issa on oletusarvoisesti käytössä tehostettu seurannan suojaus (ETP), joka suojaa henkilötietojasi tunnetuilta mainosseuraimilta, sosiaalisilta seuraimilta ja kryptolouhintaan tarkoitetuilta komentosarjoilta, jotka seuraavat sinua verkossa.
 browsers-chromebook-is-it-hard = Onko { -brand-name-firefox }in asentaminen { -brand-name-chromebook }iin vaikeaa?
 browsers-chromebook-we-wish-it = Toivomme, että se olisi yksinkertaisempaa, mutta { -brand-name-chromebook } haluaa pitää sinut { -brand-name-google-play } -ekosysteemissä. Mielestämme on kuitenkin vaivan arvoista asentaa { -brand-name-firefox }-selain { -brand-name-chromebook }iin – ja meillä on resursseja, jotka auttavat sinua tarvittaessa. On kaksi tapaa hankkia { -brand-name-firefox } laitteellesi.
+browsers-chromebook-install-firefox-from = Asenna { -brand-name-firefox } { -brand-name-google-play } Storesta: uudemmilla { -brand-name-chromeos }-laitteilla (x86-pohjaisilla { -brand-name-chromebook }eilla, joissa on { -brand-name-chromeos } 80 tai uudempi), voit asentaa { -brand-name-firefox }in { -brand-name-android }-sovelluksen. Tämä sovellus on kehitetty mobiililaitteille.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
