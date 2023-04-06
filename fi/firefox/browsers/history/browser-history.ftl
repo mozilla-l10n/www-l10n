@@ -20,6 +20,9 @@ browser-history-web-era = Verkon aikakausi
 #   $cern (url) - https://home.cern/topics/birth-web
 browser-history-british-computer = Brittiläinen tietojenkäsittelytieteilijä Tim Berners-Lee loi ensimmäisen verkkopalvelimen ja graafisen verkkoselaimen vuonna 1990 <a href="{ $cern }">työskennellessään CERN:issä</a>, Euroopan ydintutkimusjärjestössä Sveitsissä. Hän kutsui uutta ikkunaansa Internetiin "WorldWideWebiksi". Se oli helppokäyttöinen graafinen käyttöliittymä, joka luotiin NeXT-tietokoneelle. Ensimmäistä kertaa tekstiasiakirjat linkitettiin yhteen julkisen verkon kautta – verkossa sellaisena kuin me sen tunnemme.
 browser-history-a-year-later-berners = Vuotta myöhemmin Berners-Lee pyysi CERN:in matematiikan opiskelija Nicola Pellowia kirjoittamaan Line Mode Browser -selaimen, ohjelman tietokonepäätteitä varten.
+# Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = Vuoteen 1993 mennessä verkko alkoi kukoistamaan. Yliopistot, hallitukset ja yksityiset yritykset näkivät kaikki mahdollisuuden avoimessa Internetissä. Kaikki tarvitsivat uusia tietokoneohjelmia päästäkseen siihen. Tietojenkäsittelytieteilijä Marc Andreessen loi tuolloin Mosaicin Illinoisin yliopiston Urbana-Champaignin National Center for Supercomputing Applications -keskuksessa (NCSA). Se oli ensimmäinen suosittu verkkoselain ja <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>in varhainen esi-isä.
 browser-history-the-browser-wars = Selainsodat
 browser-history-browsing-the-web = Verkon selaaminen nykypäivänä
 browser-history-resources = Resurssit
