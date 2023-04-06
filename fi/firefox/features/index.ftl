@@ -32,6 +32,7 @@ features-index-by-non-profit-mozilla = Voittoa tavoittelemattomalta taholta, { -
 features-index-by-not-for-profit-mozilla = Voittoa tavoittelemattomalta taholta, { -brand-name-mozilla }lta
 features-index-keep-corporate-power = Pidä yritysten valta kurissa
 features-index-independent-browser = { -brand-name-firefox } on ainoa suuri itsenäinen selain.
+features-index-on-a-mission = Tehtävänä pitää internet avoinna ja saatavilla kaikille.
 features-index-read-mozillas-mission = Lue { -brand-name-mozilla }n tehtävästä
 features-index-choose-independence = Valitse riippumattomuus
 features-index-opted-in-to-privacy-so-you = Oletusarvoisesti yksityinen, joten voit selata vapaasti.
