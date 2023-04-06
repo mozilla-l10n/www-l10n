@@ -17,6 +17,7 @@ mobile-android-send-a-download-link-to-your = Lähetä latauslinkki puhelimeesi.
 mobile-android-scan-the-qr-code-to-get-started = Aloita skannaamalla QR-koodi
 mobile-android-scan-alt-text = Skannaa QR-koodi saadaksesi { -brand-name-firefox }in { -brand-name-android }ille
 mobile-android-fast-and-private = Nopea ja yksityinen
+mobile-android-firefox-for-android = { -brand-name-firefox }in { -brand-name-android }-sovellus tarjoaa vaivatonta yksityisyydensuojaa salamannopeilla sivulatauksilla. Tehostettu seurannan suojaus estää automaattisesti verkossa seurantaa harjoittavia seuraamasta sinua ja hidastamasta selaamista.
 mobile-android-one-tap-to = Yksityisyyttä yhdellä napautuksella
 mobile-android-get-to-private = Siirry yksityiseen selaustilaan yhdellä napautuksella. Kun suljet yksityisen selaustilan, selaushistoriasi poistetaan automaattisesti laitteeltasi.
 mobile-android-search-your-own = Hae omalla tavallasi
