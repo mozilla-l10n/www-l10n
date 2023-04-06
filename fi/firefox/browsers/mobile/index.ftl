@@ -20,6 +20,10 @@ browsers-mobile-go-your-own-way = Etene omalla tavallasi { -brand-name-firefox }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Vertaa mobiiliselaimia
 browsers-mobile-compare = Vertaa
+browsers-mobile-see-how-firefox-for-desktop-stacks = Katso, kuinka { -brand-name-firefox }in työpöytäversio pärjää seitsemää muuta selainta vastaan.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Katso, kuinka { -brand-name-firefox }in <strong>työpöytäversio</strong> pärjää seitsemää muuta selainta vastaan.
+browsers-mobile-join-firefox-and-get-the-most = Liity { -brand-name-firefox }iin ja saat kaiken irti kaikista tuotteista — kaikilla laitteilla.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
