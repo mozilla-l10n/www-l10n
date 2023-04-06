@@ -22,15 +22,19 @@ navigation-v2-get-the-mobile-browser = Hanki mobiiliselain { -brand-name-iphone 
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Yksityistä mobiiliselailua yksinkertaisesti.
 navigation-v2-privacy-promise = Tietosuojalupaus
+navigation-v2-learn-how-firefox-treats = Lue kuinka { -brand-name-firefox } kohtelee tietojasi kunnioituksella.
 navigation-v2-firefox-blog = { -brand-name-firefox }-blogi
 navigation-v2-read-about-new-firefox-features = Lue uusista { -brand-name-firefox }-ominaisuuksista ja tavoista pysyä turvassa verkossa.
 navigation-v2-release-notes = Julkaisutiedot
+navigation-v2-get-the-details-on-the = Tiedot uusimmista { -brand-name-firefox }-päivityksistä.
+navigation-v2-view-all-firefox-browsers = Näytä kaikki { -brand-name-firefox-browsers }
 
 ## Products menu
 
 navigation-v2-products = Tuotteet
 navigation-v2-close-products-menu = Sulje Tuotteet-valikko
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Selvitä, onko sähköpostisi paljastunut yritykseen kohdistuneessa tietovuodossa.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Tallenna ja löydä parhaat tarinat verkosta.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
@@ -48,12 +52,16 @@ navigation-v2-view-all-products = Katso kaikki tuotteet
 
 navigation-v2-who-we-are = Keitä olemme
 navigation-v2-close-who-we-are-menu = Sulje Keitä me olemme -valikko
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla }-manifesti
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Tule mukaan
 navigation-v2-leadership = Johtajisto
 navigation-v2-meet-the-team-thats-building = Tapaa tiimi, joka rakentaa teknologiaa parempaa internetiä varten.
 navigation-v2-careers = Työpaikat
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blogi
+navigation-v2-stories = Tarinat
+navigation-v2-stories-about-how = Tarinoita siitä, kuinka ihmiset ja tuotteemme muuttavat maailmaa parempaan suuntaan.
+navigation-v2-more-about-mozilla = Lisätietoja { -brand-name-mozilla }sta
 
 ## Innovation menu
 
