@@ -147,6 +147,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Kysymyksiä? <a { $attrs }>{ -brand-name-mozilla }-tuki</a> auttaa.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Sinulla on jo selain. Katso mitä muuta { -brand-name-firefox } tarjoaa.
+firefox-desktop-download-watch-for-hackers-with-v2 = Varaudu pahoilta hakkereilta { -brand-name-firefox-monitor }in avulla, suojaa sähköpostiosoitettasi { -brand-name-firefox-relay }lla ja paljon muuta.
+# Outdated string
+firefox-desktop-download-watch-for-hackers-with = Varaudu pahoilta hakkereilta { -brand-name-firefox-monitor }in avulla, suojaa salasanasi { -brand-name-firefox-lockwise }llä ja paljon muuta.
 firefox-desktop-download-get-more-from-firefox = Lisää { -brand-name-firefox }ilta
 firefox-desktop-download-just-download-the-browser = Lataa vain selain
 
@@ -166,6 +169,9 @@ firefox-desktop-download-in-another-language = Lataa toisella kielellä tai muul
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Jos näet kehotteen, jonka mukaan sovellus, jota yrität asentaa, ei ole { -brand-name-microsoft }-vahvistettu sovellus, napsauta "Asenna silti" tai <a { $attrs }>muuta sovellusten suositusasetuksia</a>.
 firefox-desktop-download-visit-support-for-more = Katso lisätietoja tukisivustolta
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
