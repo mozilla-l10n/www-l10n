@@ -24,6 +24,9 @@ firefox-new-need-help = Tarvitsetko apua?
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ei enää tarjoa tietoturvapäivityksiä</a> { -brand-name-windows } { -brand-name-xp }:lle tai { -brand-name-vista }lle, mutta voit silti käyttää { -brand-name-firefox }ia.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,6 +47,7 @@ firefox-new-your-system-may-not = Järjestelmäsi ei ehkä täytä { -brand-name
 firefox-new-windows = { -brand-name-windows }
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
+firefox-new-visit-support-for-more = Katso lisätietoja tukisivustolta
 
 # Not-Required
 

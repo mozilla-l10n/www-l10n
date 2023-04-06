@@ -10,6 +10,8 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = { -brand-name-firefox }-selain { -brand-name-android }ille on nopea, turvallinen ja yksityinen ensimmäisestä avaamisesta lähtien.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+mobile-android-go-mobile-go = Siirry mobiiliin. Siirry { -brand-name-firefox }in { -brand-name-android }-versioon
 mobile-android-get-firefox-for = Hanki { -brand-name-firefox } { -brand-name-android }ille
 mobile-android-send-a-download-link-to-your = Lähetä latauslinkki puhelimeesi.
 mobile-android-scan-the-qr-code-to-get-started = Aloita skannaamalla QR-koodi
@@ -28,8 +30,11 @@ mobile-android-addons-are-like = Lisäosat ovat tehokkaita pieniä työkaluja, j
 mobile-android-pick-up-where = Jatka siitä mihin jäit
 mobile-android-go-from-your = Siirry puhelimeltasi kannettavalle tietokoneelle, tabletille ja takaisin menettämättä mitään. Kun { -brand-name-firefox } on kaikilla laitteillasi, voit ottaa kirjanmerkkisi, salasanasi, tallennetut kirjautumistietosi ja selaushistoriasi mukaan minne ikinä menetkin.
 mobile-android-search-from-your = Hae puhelimesi aloitusnäytöltä
+mobile-android-no-need-to = Ei tarvetta avata sovellusta. Lisää { -brand-name-firefox }in hakukenttä aloitusnäytölle ja hae verkosta suoraan avaamatta sovellusta erikseen.
 mobile-android-pin-videos-to = Kiinnitä videoita näytölle
+mobile-android-pop-videos-out = Ponnahduta videot irti verkkosivuista tai soittimista ja kiinnitä ne puhelimen näytön yläosaan katsoaksesi samalla kun surffaat verkossa ja teet muita asioita. Pysy viihteellä, kun teet samalla muita asioita.
 mobile-android-about-mozilla = Tietoja { -brand-name-mozilla }sta
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } on olemassa rakentaakseen Internetiä julkiseksi resurssiksi, joka on kaikkien saatavilla, koska uskomme, että avoin ja vapaa on parempi kuin suljettu ja hallittu. Rakennamme { -brand-name-firefox }in ja { -brand-name-pocket }in kaltaisia tuotteita edistääksemme valinnanvaraa, läpinäkyvyyttä ja hallintamahdollisuuksia.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Pikakuvake Internetiin { -brand-name-firefox }in { -brand-name-android }-sovelluksella
 mobile-android-see-all-your-open-tabs = Näe kaikki avoimet välilehdet, viimeisimmät haut ja suosikkisivustot yhdessä paikassa { -brand-name-firefox }in { -brand-name-android }-sovelluksella.
