@@ -26,9 +26,14 @@ mobile-focus-disappear-your-history = Hävitä historiasi
 mobile-focus-delete-your-history = Poista historia
 mobile-focus-easily-erase-your = Tyhjennä historiasi, salasanasi ja evästeesi helposti, jotta ei-toivotut mainokset eivät seuraa sinua verkossa. Napauta vain poistopainiketta hakukentässä ja se on poissa.
 mobile-focus-take-private-mode = Vie yksityinen tila uudelle tasolle
+# Outdated string
+mobile-focus-private-browsing-on = "Yksityinen selaus" useimmissa selaimissa ei todellakaan ole niin yksityistä. { -brand-name-firefox-focus } on seuraavan tason, aina käytössä oleva yksityisyydensuoja, ja sen takana on { -brand-name-mozilla }, voittoa tavoittelematon taho, joka taistelee oikeuksistasi verkossa.
+mobile-focus-private-browsing-on-v2 = "Yksityinen selaus" useimmissa selaimissa ei todellakaan ole niin yksityistä. { -brand-name-firefox-focus } on seuraavan tason, oletusarvoisesti käytössä oleva yksityisyydensuoja, ja sen takana on { -brand-name-mozilla }, voittoa tavoittelematon taho, joka taistelee oikeuksistasi verkossa.
 mobile-focus-tracking-protection = Seurannan suojaus
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } estää oletuksena laajan valikoiman yleisiä seuraimia, mukaan lukien sosiaaliset seuraimet ja sellaiset ikävän tahmeat, jotka tulevat esimerkiksi { -brand-name-facebook }-mainoksista.
 mobile-focus-see-it-all = Näe kaikki nopeammin
 mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } poistaa seuraimet, joten katsomasi sivut vaativat vähemmän dataa ja latautuvat paljon nopeammin. Kiinnitä jopa neljä pikakuvaketta aloitusnäyttöön ja pääset suosikkisivustollesi entistä nopeammin kirjoittamatta mitään.
+# Outdated string
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } poistaa seuraimet ja ottaa käyttöön mainoseston, joten katsomasi sivut vaativat vähemmän dataa ja latautuvat paljon nopeammin. Kiinnitä jopa neljä pikakuvaketta aloitusnäyttöön ja pääset suosikkisivustollesi entistä nopeammin kirjoittamatta mitään.
 mobile-focus-made-by-mozilla = { -brand-name-mozilla }lta
 mobile-focus-we-believe-everyone = Uskomme, että kaikilla tulisi olla oikeus määrätä omasta elämästään myös verkossa. Tämän puolesta olemme taistelleet jo vuodesta 1998.
