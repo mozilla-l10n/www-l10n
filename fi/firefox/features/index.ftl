@@ -5,11 +5,22 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-protect-your-privacy-and-browse = Suojaa yksityisyyttäsi ja selaa nopeammin { -brand-name-firefox }in ominaisuuksilla
 # Hero title
 features-index-firefox-features = { -brand-name-firefox }-ominaisuudet
+# Hero description
+features-index-firefox-is-fast = { -brand-name-firefox } on nopea, kevyt, yksityisyyteen keskittyvä selain, joka toimii kaikilla laitteillasi.
+features-index-add-powerful-functions = Lisää tehokkaita toiminnallisuuksia, hyödyllisiä ominaisuuksia ja pientä hauskaa { -brand-name-firefox }-selaimeesi.
 features-index-see-all = Selaa kaikkia laajennuksia
 features-index-give-your-browser = Anna selaimellesi haluamasi ulkoasu tuhansien eri teemojen avulla.
 features-index-get-an-account = Hanki { -brand-name-firefox-account }
+features-index-from-the-company = Yritykseltä, joka asettaa ihmiset tuottojen edelle
+features-index-private-browsing-mode = Yksityinen selaustila poistaa evästetiedot ja selaushistoriasi aina, kun suljet sen.
+features-index-firefox-automatically = { -brand-name-firefox } estää automaattisesti yli 2000 mainosseurainta seuraamasta sinua Internetissä.
+features-index-access-all-passwords = { -brand-name-firefox-lockwise } antaa sinun käyttää kaikkia salasanoja, jotka olet tallentanut { -brand-name-firefox }iin – ja se on ilmaista.
+features-index-just-enough = { -brand-name-firefox } käyttää juuri tarpeeksi muistia sujuvan käyttökokemuksen luomiseksi, jolloin tietokoneesi kykenee reagoimaan muihin tehtäviin.
+features-index-use-less-memory = { -brand-name-firefox } käyttää vähemmän muistia kuin { -brand-name-chrome }, joten muut ohjelmasi voivat jatkaa toimintaansa huippunopeudella.
 features-index-open-source-minds = Avoin lähdekoodi. Avoimet mielet.
 features-index-see-what-makes-us-different = Katso, mikä tekee meistä erilaisen
 features-index-keep-corporate-power = Pidä yritysten valta kurissa
