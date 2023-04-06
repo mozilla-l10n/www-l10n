@@ -60,8 +60,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registrirana blago
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Izberite naročnino, ki vam ustreza
-# Outdated string
-vpn-shared-pricing-variable-heading = Izberite načrt, ki vam ustreza
+vpn-shared-one-subscription-heading = Ena naročnina za vse naprave
+vpn-shared-choose-a-plan-sub-heading = Izberite paket, ki vam ustreza
 vpn-shared-pricing-variable-sub-heading = Vse naše naročnine vključujejo:
 vpn-shared-pricing-recommended-offer = Priporočamo
 vpn-shared-pricing-plan-12-month-v2 = 12-mesečna naročnina
