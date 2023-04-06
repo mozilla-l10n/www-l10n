@@ -23,11 +23,17 @@ firefox-privacy-hub-take-less = ເອົາໜ້ອຍລົງ
 firefox-privacy-hub-we-make-a-point-of-knowing = ພວກເຮົາສ້າງຈຸດທີ່ຈະຮູ້ຫນ້ອຍກ່ຽວກັບເຈົ້າ
 firefox-privacy-hub-keep-it-safe = ຮັກສາຄວາມປອດໄພ
 firefox-privacy-hub-we-do-the-hard-work-to-protect = ພວກເຮົາເຮັດວຽກໜັກເພື່ອປົກປ້ອງຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ
+firefox-privacy-hub-data-security-is-complicated = ຄວາມ​ປອດ​ໄພ​ຂໍ້​ມູນ​ແມ່ນ​ສັບ​ສົນ — ຫຼື​ຢ່າງ​ຫນ້ອຍ​ມັນ​ຄວນ​ຈະ​ເປັນ​. ນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຮົາເຮັດຂັ້ນຕອນເພີ່ມເຕີມເພື່ອຈັດປະເພດຂໍ້ມູນທີ່ພວກເຮົາມີ, ຮັກສາກົດລະບຽບສໍາລັບວິທີທີ່ພວກເຮົາເກັບຮັກສາແລະປົກປ້ອງແຕ່ລະປະເພດ, ແລະບໍ່ເຄີຍຢຸດການ iterating ໃນຂະບວນການຂອງພວກເຮົາ. ພວກເຮົາໃຫ້ຄວາມສຳຄັນກັບຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າ. ພວກເຮົາລົງທຶນໃນມັນ. ພວກເຮົາມຸ່ງຫມັ້ນກັບມັນ. ພວກເຮົາຍັງສອນບໍລິສັດອື່ນໃຫ້ເຮັດແນວໃດ.
 firefox-privacy-hub-no-secrets = ບໍ່ມີຄວາມລັບ
 firefox-privacy-hub-youll-always-know-where-you = ເຈົ້າຈະຮູ້ວ່າເຈົ້າຢືນຢູ່ໃສກັບພວກເຮົາສະເໝີ
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = ບໍ່ມີວາລະທີ່ເຊື່ອງໄວ້ຢູ່ທີ່ນີ້. ທຸລະກິດຂອງພວກເຮົາບໍ່ໄດ້ຂຶ້ນກັບການລ່ວງລະເມີດຄວາມໄວ້ວາງໃຈຂອງເຈົ້າຢ່າງລັບໆ. <a href="{ $privacy }">ປະກາດຄວາມເປັນສ່ວນຕົວ</a> ຂອງພວກເຮົາແມ່ນສາມາດອ່ານໄດ້. ຖ້າທ່ານຕ້ອງການຂຸດຄົ້ນທຸກຈຸດຂໍ້ມູນທີ່ພວກເຮົາເກັບກໍາ, ລະຫັດຂອງພວກເຮົາແມ່ນເປີດ. ແລະພວກເຮົາຄືກັນ.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = ບໍ່ມີວາລະທີ່ເຊື່ອງໄວ້ຢູ່ທີ່ນີ້. ທຸລະກິດຂອງພວກເຮົາບໍ່ໄດ້ຂຶ້ນກັບການລ່ວງລະເມີດຄວາມໄວ້ວາງໃຈຂອງເຈົ້າຢ່າງລັບໆ. <a href="{ $privacy }">ປະກາດຄວາມເປັນສ່ວນຕົວ</a> ຂອງພວກເຮົາແມ່ນສາມາດອ່ານໄດ້. ທຸກຄົນໃນໂລກສາມາດເຂົ້າຮ່ວມ <a href="{ $meetings }">ກອງປະຊຸມບໍລິສັດປະຈໍາອາທິດ</a> ຂອງພວກເຮົາ. ຖ້າທ່ານຕ້ອງການຂຸດຄົ້ນທຸກໆຈຸດທີ່ພວກເຮົາເກັບກໍາ, ລະຫັດຂອງພວກເຮົາແມ່ນເປີດ. ແລະພວກເຮົາຄືກັນ.
 firefox-privacy-hub-why-trust-firefox = ປ່ຽນເປັນ { -brand-name-firefox }
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

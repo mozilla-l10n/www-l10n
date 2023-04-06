@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/products/
 
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-see-if-your-personal-information = ເບິ່ງວ່າຂໍ້ມູນສ່ວນຕົວຂອງທ່ານຖືກທໍາລາຍໃນການລະເມີດຂໍ້ມູນຂອງບໍລິສັດ, ແລະລົງທະບຽນສໍາລັບການແຈ້ງເຕືອນໃນອະນາຄົດ.
+firefox-products-check-for-breaches = ກວດເບິ່ງການລະເມີດ
 firefox-products-sign-up-for-breach-alerts = ລົງທະບຽນສໍາລັບການແຈ້ງເຕືອນການລະເມີດ
 firefox-products-firefox-browsers = ຕົວທ່ອງເວັບຂອງ { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = ເອົາຕົວທ່ອງເວັບທີ່ບລັອກ 2000+ ຕົວຕິດຕາມຂໍ້ມູນອັດຕະໂນມັດ. ການ​ປົກ​ປ້ອງ​ການ​ຕິດ​ຕາມ​ທີ່​ປັບ​ປຸງ​ມາ​ເປັນ​ມາດ​ຕະ​ຖານ​ໃນ​ທຸກ​ຕົວ​ທ່ອງ​ເວັບ { -brand-name-firefox }.
