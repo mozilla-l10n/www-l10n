@@ -36,6 +36,11 @@ browser-history-netscape-created = { -brand-name-netscape } loi ja julkaisi Java
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
 browser-history-things-got-a-little = Asiat riistäytyivät hieman käsistä vuonna 1997, kun { -brand-name-microsoft } julkaisi { -brand-name-ie } 4.0:n. Tiimi rakensi jättiläismäisen "e"-kirjaimen ja vei sen { -brand-name-netscape }-päämajan nurmikolle. { -brand-name-netscape }-tiimi kaatoi jättimäisen "e"-kirjaimen nopeasti ja <a href="{ $dino }">laittoi sen päälle oman { -brand-name-mozilla }-dinosaurusmaskottinsa</a >.
+# Variables:
+#   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
+#   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
+browser-history-then-microsoft-began = Sitten { -brand-name-microsoft } sisällytti { -brand-name-ie }in { -brand-name-windows }-käyttöjärjestelmäänsä. Neljässä vuodessa sillä oli 75 prosentin markkinaosuus, ja vuoteen 1999 mennessä markkinaosuus oli kasvanut jo 99 prosenttiin. Yritys joutui selaimen sisällyttämisen vuoksi antitrust-oikeudenkäyntiin, ja { -brand-name-netscape } päätti julkaista koodinsa avoimena lähdekoodina ja loi voittoa tavoittelemattoman <a href="{ $mozilla }">{ -brand-name-mozilla }</a>n, joka loi ja julkaisi { -brand-name-firefox }in vuonna 2002. { -brand-name-firefox } luotiin vaihtoehtojen tarjoamiseksi verkon käyttäjille, kun ymmärrettiin, että selainmonopoli ei ollut käyttäjien ja avoimen verkon etujen mukaista. Vuoteen 2010 mennessä { -brand-name-mozilla } { -brand-name-firefox } ja muut selaimet olivat <a href="{ $marketshare }">laskeneet { -brand-name-ie }in markkinaosuuden 50 prosenttiin</a>.
+browser-history-other-competitors = Muita kilpailijoita ilmaantui 90-luvun lopulla ja 2000-luvun alussa, mukaan lukien { -brand-name-opera }, { -brand-name-safari } ja { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } korvasi { -brand-name-ie }in  { -brand-name-windows } 10:n julkaisun myötä vuonna 2015.
 browser-history-browsing-the-web = Verkon selaaminen nykypäivänä
 browser-history-resources = Resurssit
 browser-history-take-control-of = Ota ohjat selaimestasi.
