@@ -9,6 +9,7 @@ legal-legal = Juridiset asiat
 legal-get-involved = Tule mukaan
 legal-protect-the-fox = Suojaa kettua
 legal-takedown-requests = Poistopyynnöt
+legal-special-thanks-to-all-of-you = Erityiset kiitokset kaikille teille, jotka autatte ilmoittamaan { -brand-name-mozilla }-merkkien väärinkäytöksistä, osallistutte hallintofoorumeihin, annatte palautetta kielikäännöksistä sekä juridisista käyttöehdoista ja tarjoatte taitojanne { -brand-name-mozilla } -projektin onnistumisen eteen.
 legal-terms = Käyttöehdot
 legal-our-websites = Verkkosivustomme
 legal-firefox-services = { -brand-name-firefox }-palvelut

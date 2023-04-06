@@ -24,10 +24,12 @@ contribute-task-translate-heading = Käännä sisältöä
 contribute-task-translate-desc = Internet on maailmanlaajuinen vain, jos se ymmärretään kaikkialla. Auta meitä kääntämään { -brand-name-mozilla }-tuotteita ja -sivustoja paikalliselle kielellesi.
 contribute-task-mozilla-codebase-heading = Osallistu { -brand-name-mozilla }-koodin tekemiseen
 contribute-task-join-heading = Liity yhteisöön
+contribute-task-join-desc = Haluatko osallistua tiiviimmin { -brand-name-mozilla }-yhteisöön? Katso kaikki vapaaehtoistyön mahdollisuudet yhteisöportaalissamme.
 
 ## Mission
 
 contribute-mission-heading = Tehtävästämme
+contribute-mission-desc = Meidän missiomme on varmistaa, että internet on maailmanlaajuinen julkinen resurssi, joka on kaikille avoin ja kaikkien saavutettavissa. Internet, joka todella asettaa ihmiset etusijalle. jossa yksilöt voivat muodostaa omat kokemuksensa, jossa heillä on toiminnanvapaus ja joka on turvallinen ja sitoutumaton.
 contribute-learn = Lue lisää { -brand-name-mozilla }sta
 contribute-read-manifesto = Lue manifestimme
 contribute-find-event = Etsi tapahtuma
@@ -40,6 +42,7 @@ contribute-opportunities = Uutisia ja vapaaehtoistyömahdollisuuksia
 ## Made by
 
 contribute-made-by-heading = Kaltaisesi intohimoisten ihmisten luoma
+contribute-made-by-desc = Kun osallistut { -brand-name-mozilla }n toimintaan, sinusta tulee osa maailmanlaajuista ihmisten yhteisöä, jotka uskovat, että meillä kaikilla on oma roolimme sen varmistamisessa, että internet pysyy hyvän voimana.
 
 ## Newsletter
 
