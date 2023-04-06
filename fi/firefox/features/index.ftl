@@ -7,8 +7,10 @@
 
 # HTML page title
 features-index-protect-your-privacy-and-browse = Suojaa yksityisyyttäsi ja selaa nopeammin { -brand-name-firefox }in ominaisuuksilla
+# HTML page description
+features-index-youre-in-control-with-firefoxs = Sinä olet hallinnassa { -brand-name-firefox }in helppokäyttöisten ominaisuuksien avulla, jotka suojaavat yksityisyyttä ja selausnopeutta.
 # Hero title
-features-index-firefox-features = { -brand-name-firefox }-ominaisuudet
+features-index-firefox-features = { -brand-name-firefox }in ominaisuudet
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox } on nopea, kevyt, yksityisyyteen keskittyvä selain, joka toimii kaikilla laitteillasi.
 features-index-add-powerful-functions = Lisää tehokkaita toiminnallisuuksia, hyödyllisiä ominaisuuksia ja pientä hauskaa { -brand-name-firefox }-selaimeesi.
@@ -26,6 +28,8 @@ features-index-use-less-memory = { -brand-name-firefox } käyttää vähemmän m
 features-index-open-source-minds = Avoin lähdekoodi. Avoimet mielet.
 features-index-mozilla-creates = { -brand-name-mozilla } luo tehokasta verkkoteknologiaa kaikille.
 features-index-see-what-makes-us-different = Katso, mikä tekee meistä erilaisen
+features-index-by-non-profit-mozilla = Voittoa tavoittelemattomalta taholta, { -brand-name-mozilla }lta
+features-index-by-not-for-profit-mozilla = Voittoa tavoittelemattomalta taholta, { -brand-name-mozilla }lta
 features-index-keep-corporate-power = Pidä yritysten valta kurissa
 features-index-independent-browser = { -brand-name-firefox } on ainoa suuri itsenäinen selain.
 features-index-choose-independence = Valitse riippumattomuus
@@ -40,6 +44,7 @@ features-index-compare-browsers = Vertaa selaimia
 features-index-see-themes = Katso suosituimmat teemat
 features-index-download-latest = Lataa uusin { -brand-name-firefox }
 features-index-fingerprinter-blocking = Yksilöijien esto
+features-index-fingerprinting-is-a = Yksilöinti on eräänlaista verkkoseurantaa, joka on tunkeutuvampaa kuin tavallinen evästepohjainen seuranta. Sen vuoksi { -brand-name-firefox-browser } estää sen.
 features-index-block-fingerprinters = Estä yksilöijät
 features-index-translate-the-web = Käännä verkko
 features-index-translate-to-your = Käännä kielellesi
