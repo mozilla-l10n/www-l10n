@@ -26,6 +26,7 @@ mobile-compare-a-main-ingredient = Hyvin tehdyn selaimen tärkein ainesosa on se
 mobile-compare-syncing-strong = <strong>Synkronointi</strong>
 mobile-compare-syncing = Synkronointi
 mobile-compare-does-your-browser = Toimiiko selaimesi hyvin muiden laitteiden kanssa?
+mobile-compare-the-mobile-version = { -brand-name-safari }n mobiiliversio, joka on esiasennettu { -brand-name-apple }n mobiililaitteisiin, on yhteensopiva vain muiden { -brand-name-apple }-laitteiden kanssa, kuten { -brand-name-ipad } ja { -brand-name-mac-short }-tietokoneet. { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-opera } ja { -brand-name-edge } toimivat kaikilla alustoilla, mukaan lukien { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short } ja { -brand-name-linux }.
 mobile-compare-almost-all-of = Lähes kaikki tässä verratut mobiiliselaimet mahdollistavat täydellisen synkronoinnin mobiililaitteiden ja pöytätietokoneiden välillä.
 mobile-compare-the-good-news = Hyvä uutinen { -brand-name-iphone }-käyttäjille on, että { -brand-name-apple } on äskettäin sallinut { -brand-name-iphone }-käyttäjien valita oman oletusselaimensa, joten nyt käyttäjät voivat synkronoida laitteensa eri käyttöympäristöihin, jos he esimerkiksi asentavat { -brand-name-firefox }in { -brand-name-iphone }en ja { -brand-name-windows }-tietokoneelle.
 mobile-compare-conclusion = Johtopäätös
