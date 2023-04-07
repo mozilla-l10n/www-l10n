@@ -13,6 +13,8 @@ vpn-desktop-wifi-headline = Tunne olosi turvalliseksi käyttäessäsi julkista w
 vpn-desktop-about-headline = Tietoja { -brand-name-mozilla }sta
 vpn-desktop-privacy-headline = Yksityisyyttä yhdellä napsautuksella
 vpn-desktop-servers-headline = Yhdistä palvelimiin kaikkialla maailmassa
+# Obsolete string
+vpn-desktop-servers-copy = Selaa Brasiliasta. Pelaa Japanista. Suoratoista Meksikosta. { -brand-name-mozilla-vpn } antaa sinun vaihtaa puhelimesi tai tietokoneesi sijainnin johonkin seuraavista: { $servers }.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Suojaa jopa { $devices } laitetta
