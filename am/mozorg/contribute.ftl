@@ -15,9 +15,9 @@ contribute-how-heading = እንዴት ማበርከት እንደሚችሉ…
 
 ## Contribution tasks
 
-contribute-tag-non-technical = ቴክኒካል ያልሆነ
-contribute-tag-technical = ቴክኒካል
-contribute-tag-technical-non-technical = ቴክኒካዊ እና ቴክኒካዊ ያልሆኑ
+contribute-tag-non-technical = ሙያዊ ያልሆነ
+contribute-tag-technical = ሙያዊ
+contribute-tag-technical-non-technical = ሙያዊ እና ሙያዊ ያልሆኑ
 contribute-tag-individual-event = የግለሰብ እና የክስተት ድርጅት
 contribute-tag-individual = ግለሰብ
 contribute-tag-support = ድጋፍ
@@ -34,13 +34,13 @@ contribute-task-join-desc = በ{ -brand-name-mozilla } ማህበረሰብ ውስ
 contribute-mission-heading = የእኛ ተልዕኮ
 contribute-mission-desc = የእኛ ተልእኮ በይነመረብ ዓለም አቀፍ የህዝብ ሃብት፣ ክፍት እና ለሁሉም ተደራሽ መሆኑን ማረጋገጥ ነው። ሰዎችን በእውነት የሚያስቀድም በይነመረብ ግለሰቦች የራሳቸውን ልምድ የሚቀርጹበት እና ሃይል ያላቸው፣ ደህንነቱ የተጠበቀ እና እራሳቸውን የቻሉበት።
 contribute-learn = ስለ { -brand-name-mozilla } ይወቁ
-contribute-read-manifesto = የእኛን ማኒፌስቶ ያንብቡ
+contribute-read-manifesto = የእኛን የአቋም መግለጫ ያንብቡ
 contribute-find-event = አንድ ክስተት ያግኙ
 contribute-meet-volunteers = ቅን በጎ ፈቃደኞቻችንን ያግኙ
 contribute-donate = ይለግሱ
 contribute-help-fund = ተልእኮአችንን በገንዘብ ይደግፉ
 contribute-follow-mozilla = { -brand-name-mozilla }ን ተከተል
-contribute-opportunities = ዜና እና የፈቃደኝነት እድሎች
+contribute-opportunities = ዜና እና የበጎ-ፈቃድ እድሎች
 
 ## Made by
 
