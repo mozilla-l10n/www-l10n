@@ -9,6 +9,14 @@
 mobile-compare-5-of-the-best = በቀጥታ ንጽጽር ውስጥ 5 ምርጥ የሞባይል አሳሾች
 # HTML description
 mobile-compare-who-makes-the = ምርጡን የሞባይል አሳሽ የሚሰራው ማነው? ለማወቅ የ{ -brand-name-firefox }፣ { -brand-name-chrome }፣ { -brand-name-edge }፣ { -brand-name-safari } እና { -brand-name-opera } የሞባይል ስሪቶችን እናነፃፅራለን።
+mobile-compare-which-mobile-browser = የነገሮችን ሚስጥራዊነት የሚጠብቀው የትኛው የሞባይል አሳሽ ነው?
+mobile-compare-at-a-minimum-v2 = ቢያንስ፣ የሞባይል አሳሽዎ ታሪክዎን እና የፍለጋ ታሪክዎን በራስ-ሰር የሚሰርዝ “የግል አሰሳ ሁነታ” ያለው ስሪት ማቅረብ አለበት። በዚህ ዙሪያ፣ እዚህ ጋ የተነፃፀሩት አምስቱም አሳሾች በሙሉ ነጥብ ያስመዘገቡ ናቸው።
+# Obsolete string
+mobile-compare-at-a-minimum = ቢያንስ፣ የሞባይል አሳሽዎ ታሪክዎን እና የፍለጋ ታሪክዎን በራስ-ሰር የሚሰርዝ “የግል አሰሳ ሁነታ” ያለው ስሪት ማቅረብ አለበት። በዚህ ዙሪያ፣ እዚህ ጋ የተነፃፀሩት ሰባቱም አሳሾች በሙሉ ነጥብ ያስመዘገቡ ናቸው።
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-features-strong = <strong>ባህሪያት</strong>
+mobile-compare-features = ባህሪያት
+mobile-compare-what-can-your = አሳሽዎ ምን ሊጠቅምዎ ይችላል?
 mobile-compare-conclusion = መደምደሚያ
 mobile-compare-search-engine-options = የፍለጋ ፍርግም አማራጮች
 mobile-compare-text-to-speech = ጽሑፍ ወደ ንግግር
