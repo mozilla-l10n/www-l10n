@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+# HTML page title
+mobile-compare-5-of-the-best = በቀጥታ ንጽጽር ውስጥ 5 ምርጥ የሞባይል አሳሾች
+# HTML description
+mobile-compare-who-makes-the = ምርጡን የሞባይል አሳሽ የሚሰራው ማነው? ለማወቅ የ{ -brand-name-firefox }፣ { -brand-name-chrome }፣ { -brand-name-edge }፣ { -brand-name-safari } እና { -brand-name-opera } የሞባይል ስሪቶችን እናነፃፅራለን።
 mobile-compare-conclusion = መደምደሚያ
 mobile-compare-search-engine-options = የፍለጋ ፍርግም አማራጮች
 mobile-compare-text-to-speech = ጽሑፍ ወደ ንግግር
