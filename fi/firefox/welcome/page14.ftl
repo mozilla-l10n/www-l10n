@@ -5,9 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
+welcome-page14-page-title = Tänä kyberturvallisuuskuukautena saat 20 prosentin alennuksen { -brand-name-mozilla-vpn }:stä
+welcome-page14-page-title-alt = On kyberturvallisuuskuukausi — aika parantaa yksityisyyttäsi
 welcome-page14-get-mozilla-vpn = Hanki { -brand-name-mozilla-vpn }
 welcome-page14-copy-code = Kopioi koodi
 welcome-page14-code-copied = Koodi kopioitu!
 welcome-page14-very-fast = Se on nopea, erittäin nopea
+welcome-page14-wireguard-powered = { -brand-name-wireguard }® -pohjaiset palvelimemme on rakennettu nopeutta varten, jotta voit suoratoistaa, ladata ja pelata tavalliseen tapaan.
 welcome-page14-without-trace = Internet ilman jälkiä
 welcome-page14-why-see-this = Miksi näen tämän?
