@@ -24,3 +24,4 @@ welcome-page1-stay-in-the-know = ຢູ່ໃນຄວາມຮູ້
 # Variables:
 #   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
 welcome-page1-were-you-one-of-many = ເຈົ້າເປັນໜຶ່ງໃນຈຳນວນ 100,985,047 ຄົນຖືກເຊີນໃຫ້ເຂົ້າຮ່ວມ <a href="{ $evite_breach }">Evite ການລະເມີດຂໍ້ມູນ “party”</a> ບໍ?
+welcome-page1-why-am-i-seeing-this = ເປັນຫຍັງຂ້ອຍຈຶ່ງເຫັນອັນນີ້?
