@@ -29,10 +29,12 @@ is-firefox-free = Onko { -brand-name-firefox } ilmainen?
 yep-the-firefox = Kyllä! { -brand-name-firefox-browser } on ilmainen. Itse asiassa todella ilmainen. Se ei sisällä piilokuluja. Et maksa mitään sen käytöstä, emmekä myy henkilökohtaisia tietojasi.
 related-questions-free = Aiheeseen liittyviä kysymyksiä: onko { -brand-name-firefox-browser } ilmainen, maksaako { -brand-name-firefox }
 is-chrome-better = Onko { -brand-name-chrome } parempi kuin { -brand-name-firefox }?
+no-we-dont = Ei, emme usko, että { -brand-name-chrome } on parempi kuin { -brand-name-firefox }, ja tässä syy: kun ihmiset kysyvät, mikä selain on parempi, he todella kysyvät, mikä selain on nopeampi ja turvallisempi. { -brand-name-firefox } päivitetään kuukausittain, jotta sinulla olisi nopein selain, joka kunnioittaa automaattisesti yksityisyyttäsi.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Katso, kuinka { -brand-name-firefox } pärjää { -brand-name-chrome }a vastaan.</a>
 is-firefox-safe-download = Onko { -brand-name-firefox }in lataaminen turvallista?
 
 # Variables:
@@ -43,12 +45,15 @@ is-firefox-safe = Onko { -brand-name-firefox } turvallinen?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+related-questions-safe = Aiheeseen liittyviä kysymyksiä: onko { -brand-name-firefox } hyvä yksityisyyden kannalta, onko { -brand-name-firefox } turvallinen, onko { -brand-name-firefox } parempi yksityisyyden kannalta
 does-firefox-sell = Myykö { -brand-name-firefox } henkilökohtaiset tietoni?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Ei. Ei koskaan ole myynyt, eikä koskaan tule myymään. Suojelemme sinua monilta mainostajilta, jotka tekevät niin. { -brand-name-firefox }-tuotteet on suunniteltu suojaamaan yksityisyyttäsi. <a href="{ $url }">Se on lupaus.</a>
 why-is-firefox = Miksi { -brand-name-firefox } on niin hidas?
+firefox-isnt-slow = { -brand-name-firefox } ei ole hidas… nyt. Vuonna 2017 rakensimme kokonaan uudelleen selainmoottorimme (nimeltään Quantum), jotta { -brand-name-firefox } voisi kilpailla muiden suurten selainten kanssa. Seurannan esto auttaa sivuja latautumaan entistä nopeammin. { -brand-name-firefox } on siis salamannopea tinkimättä yksityisyydestäsi.
 is-firefox-chromium = Pohjautuuko { -brand-name-firefox } { -brand-name-chromium }iin?
 does-firefox-use = Käyttääkö { -brand-name-firefox } { -brand-name-google }a?
 

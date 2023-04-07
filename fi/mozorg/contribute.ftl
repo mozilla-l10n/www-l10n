@@ -23,6 +23,7 @@ contribute-tag-support = Tuki
 contribute-task-translate-heading = Käännä sisältöä
 contribute-task-translate-desc = Internet on maailmanlaajuinen vain, jos se ymmärretään kaikkialla. Auta meitä kääntämään { -brand-name-mozilla }-tuotteita ja -sivustoja paikalliselle kielellesi.
 contribute-task-mozilla-codebase-heading = Osallistu { -brand-name-mozilla }-koodin tekemiseen
+contribute-task-mozilla-codebase-desc = Paranna { -brand-name-mozilla }-tuotteita osallistumalla erilaisiin kehitysmahdollisuuksiin.
 contribute-task-join-heading = Liity yhteisöön
 contribute-task-join-desc = Haluatko osallistua tiiviimmin { -brand-name-mozilla }-yhteisöön? Katso kaikki vapaaehtoistyön mahdollisuudet yhteisöportaalissamme.
 
