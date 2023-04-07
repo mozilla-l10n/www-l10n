@@ -27,3 +27,7 @@ set-as-default-thanks-sign-up-for-a-free-account = ለነጻ መለያ ይመዝ
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = መለያ ያግኙ
 set-as-default-thanks-having-trouble = ችግር እያጋጠመዎት ነው?
+# Variables:
+#   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
+#   $desktop (url) - link to https://support.mozilla.org/kb/make-firefox-your-default-browser
+set-as-default-thanks-heres-everything-you-need-android-desktop = ነባሪ አሳሽዎን በ<a href="{ $android }">አንድሮይድ መሳሪያዎች</a> ወይም <a href="{ $desktop }">ዴስክቶፕ ኮምፒውተሮች</a> ላይ ስለማዘጋጀት ማወቅ ያለብዎት ሁሉም ነገር ይኸውና።
