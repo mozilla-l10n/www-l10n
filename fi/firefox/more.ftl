@@ -1,14 +1,16 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+firefox-products-are = { -brand-name-firefox }-tuotteet on suunniteltu suojaamaan yksityisyyttäsi
+learn-more-about-firefox = Lisätietoja { -brand-name-firefox }ista, sen historiasta, ominaisuuksista ja tehtävästä
+learn-more-faq = { -brand-name-firefox }in UKK
 the-history-of = Verkkoselainten historia
 what-is-a = Mikä verkkoselain on?
 firefox-is-more = { -brand-name-firefox } on enemmän kuin selain
-take-your-passwords = Ota salasanasi mukaan kaikkialle
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }ille

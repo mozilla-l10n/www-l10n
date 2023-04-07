@@ -17,3 +17,4 @@ about-shared-software-innovations = Ohjelmia ja muita tehtävämme edistämiseen
 about-shared-get-involved = Osallistu
 about-shared-volunteer = Voit ryhtyä vapaaehtoistukijaksi useilla eri alueilla.
 vision-for-the-web = { -brand-name-mozilla }n visio verkosta
+read-about-our-vision = Lue visiostamme verkon suhteen ja siitä, kuinka aiomme toteuttaa tätä visiota.
