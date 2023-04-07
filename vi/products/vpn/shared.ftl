@@ -60,8 +60,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } là nhãn hiệu đã
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Chọn gói thuê bao phù hợp với bạn
-# Outdated string
-vpn-shared-pricing-variable-heading = Chọn một gói phù hợp với bạn
+vpn-shared-one-subscription-heading = Một gói thuê bao cho tất cả các thiết bị của bạn
+vpn-shared-choose-a-plan-sub-heading = Chọn một gói phù hợp với bạn
 vpn-shared-pricing-variable-sub-heading = Tất cả các gói của chúng tôi bao gồm:
 vpn-shared-pricing-recommended-offer = Được đề xuất
 vpn-shared-pricing-plan-12-month-v2 = Gói 12 tháng
