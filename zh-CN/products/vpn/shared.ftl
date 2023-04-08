@@ -60,8 +60,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } 是 Jason A. Donenfel
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = 选择适合您的订阅方案
-# Outdated string
-vpn-shared-pricing-variable-heading = 选择适合您的方案
+vpn-shared-one-subscription-heading = 一次订阅，全设备可用
+vpn-shared-choose-a-plan-sub-heading = 选择适合您的方案
 vpn-shared-pricing-variable-sub-heading = 我们的所有方案包括：
 vpn-shared-pricing-recommended-offer = 推荐
 vpn-shared-pricing-plan-12-month-v2 = 年付方案
