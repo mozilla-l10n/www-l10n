@@ -8,6 +8,7 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest = Onnittelut. Sinulla on nyt uusin { -brand-name-firefox-browser } { -brand-name-developer-edition } -versio.
+developer-mdnplus-support-mdn-and-make = Tue { -brand-name-mdn }:ää <em>ja</em> tee siitä omasi.
 # CTA button
 developer-mdnplus-get-started = Aloitetaan
 developer-mdnplus-whats-included = Tämä kaikki sisältyy

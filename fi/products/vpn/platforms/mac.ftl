@@ -9,4 +9,9 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } { -brand-name-mac-short }:lle
+vpn-mac-about-headline = Luotettavalta teknologiavalmistajalta
 vpn-mac-privacy-headline = Yksityisyyttä käden ulottuvilla
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Suojaa { $devices } laitetta yhdellä tilauksella
+vpn-mac-speed-headline = Ei tarvetta uhrata nopeutta
