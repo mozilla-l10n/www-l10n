@@ -11,3 +11,5 @@ compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } vai { -br
 compare-edge-compare-microsoft-edge-to-the = Vertaa { -brand-name-microsoft } { -brand-name-edge }ä { -brand-name-firefox-browser }, ja selvitä, kumpi on parempi selain sinulle.
 # Main title.
 compare-edge-comparing-firefox-browser-with = { -brand-name-firefox-browser } vertaaminen { -brand-name-microsoft } { -brand-name-edge }en
+compare-edge-both-browsers-are-relatively = Molemmat selaimet ovat suhteellisen samanlaisia tietojen salauksen suhteen. Jos yksityisyys verkossa ja läpinäkyvyys ovat sinulle tärkeitä asioita, { -brand-name-firefox } on selvästi parempi valinta.
+compare-edge-the-bottom-line-is-that-while = Tärkeintä on, että vaikka suosittelemmekin käyttämään { -brand-name-firefox }ia, paras selain sinulle on viime kädessä se, joka sopii yksilöllisiin tarpeisiisi laajennusten, selaimen mukauttamisen, nopeuden, yksityisyyden ja turvallisuuden puolesta.

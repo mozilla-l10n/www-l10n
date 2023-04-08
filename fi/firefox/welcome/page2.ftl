@@ -7,6 +7,7 @@
 
 # HTML page title
 welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } - Tallenna uutisia, videoita, tarinoita ja paljon muuta
+welcome-page2-your-time-online-is-worth = Aikasi verkossa on suojelemisen arvoista
 welcome-page2-activate-pocket = Aktivoi { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-save-content-from-everywhere = Tallenna sisältöä kaikkialta
