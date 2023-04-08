@@ -60,8 +60,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } جیسن اے۔ ڈو�
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = سبسکرپشن منصوبہ چݨو جہڑا تہاݙے کیتے کم کریندے
-# Outdated string
-vpn-shared-pricing-variable-heading = منصوبہ چݨو جہڑا تہاݙے کیتے کم کریندے
+vpn-shared-one-subscription-heading = تہاݙیاں ساریاں ڈیوائساں کیتے ہک سبسکرپشن
+vpn-shared-choose-a-plan-sub-heading = منصوبہ چݨو جہڑا تہاݙے کیتے کم کریندے
 vpn-shared-pricing-variable-sub-heading = ساݙے سارے منصوبیاں وچ شامل ہن:
 vpn-shared-pricing-recommended-offer = سفارش تھئے ہوئے
 vpn-shared-pricing-plan-12-month-v2 = 12 مہینہ منصوبہ
