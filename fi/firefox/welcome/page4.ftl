@@ -25,5 +25,6 @@ welcome-page4-leave-no-trace = Älä jätä jälkiä
 welcome-page4-automatically-clear-your-history = Tyhjennä historia ja evästeet automaattisesti yksityisen selaustilan avulla.
 welcome-page4-go-faster-do-more = Kulje nopeammin. Tee enemmän.
 welcome-page4-take-it-all-with-you = Pidä kaikki mukanasi
+welcome-page4-more-done-fast-smart = Saa enemmän aikaan salamannopeilla sivulatauksilla ja älykkäillä hakuehdotuksilla.
 welcome-page4-dont-walk-out-the-door-without = Älä kävele ulos ovesta ilman kirjanmerkkejä, välilehtiä, muistiinpanoja ja salasanoja.
 welcome-page4-why-am-i-seeing-this = Miksi näen tämän sivun?

@@ -5,7 +5,9 @@
 navigation-download-firefox = Lataa { -brand-name-firefox }
 navigation-get-a-firefox-account = Hanki { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } tietokoneille
+navigation-get-the-browser-that-respects = Hanki selain, joka kunnioittaa yksityisyyttäsi automaattisesti. { -brand-name-windows }illa, { -brand-name-mac }illa tai { -brand-name-linux }illa.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } mobiililaitteille
+navigation-take-speed-privacy-and = Ota mukaasi nopeus, yksityisyys ja mielenrauha. { -brand-name-android }illa ja { -brand-name-ios }:lla.
 navigation-download-for-ios = Lataa { -brand-name-ios }:ille
 navigation-download-for-android = Lataa { -brand-name-android }ille
 navigation-ios-support = { -brand-name-ios }-tuki
@@ -14,6 +16,9 @@ navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } yrit
 navigation-firefox-for-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }:lle
 navigation-watch-videos-and-browse = Katso videoita ja selaa internetiä { -brand-name-amazon } { -brand-name-fire-tv }:llä.
 navigation-firefox-browsers-put = { -brand-name-firefox }-selaimet asettavat yksityisyytesi etusijalle — nyt ja aina.
+navigation-take-the-passwords-youve = Ota { -brand-name-firefox }iin tallentamasi salasanat mukaasi kaikkialle.
+# Outdated string
+navigation-firefox-is-a-whole-family = { -brand-name-firefox } on kokonainen tuoteperhe, joka on suunniteltu pitämään sinut turvallisempana ja älykkäämpänä verkossa.
 navigation-join-firefox = Liity { -brand-name-firefox }iin
 navigation-meet-the-firefox-family = Tapaa { -brand-name-firefox }-perhe
 navigation-firefox-blog = { -brand-name-firefox }-blogi
@@ -82,6 +87,7 @@ navigation-donate-your-voice-to = Lahjoita äänesi tehdäksesi puheentunnistuks
 navigation-machine-learning = Koneoppiminen
 # Outdated string
 navigation-web-of-things-iot = Esineiden internet (IoT)
+navigation-help-make-deep-learning = Auta tuomaan syväoppimisalgoritmit saataville avoimen lähdekoodin maailmaan.
 # Outdated string
 navigation-make-devices-connected = Tee internetiin yhdistetyistä laitteista turvallisia ja yhteentoimivia.
 navigation-developers = Kehittäjät

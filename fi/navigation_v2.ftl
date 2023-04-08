@@ -48,6 +48,7 @@ navigation-v2-sign-up-for-new-accounts = Rekisteröi uusia tilejä antamatta tod
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beeta)
 navigation-v2-protect-your-browsers-connection = Suojaa selaimesi yhteyttä internetiin.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Uusia ominaisuuksia ja työkaluja mukautettuun { -brand-name-mdn }-kokemukseen
 navigation-v2-view-all-products = Katso kaikki tuotteet
 
 ## Who We Are menu
