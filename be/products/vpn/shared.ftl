@@ -18,6 +18,10 @@ vpn-shared-features-encrypt = Шыфраванне на ўзроўні прыл�
 vpn-shared-features-bandwidth = Неабмежаваная прапускная здольнасць
 vpn-shared-features-activity = Без журналявання вашай сеткавай актыўнасці
 # Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Глядзіце наш поўны спіс <a href="{ $url }" { $attrs }>сервераў</a>.
+# Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Моцныя серверы ў { $countries }+ краінах
 # Variables:
