@@ -60,8 +60,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } является за
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Выберите план подписки, который подходит именно вам
-# Outdated string
-vpn-shared-pricing-variable-heading = Выберите тариф, который вам подходит
+vpn-shared-one-subscription-heading = Одна подписка для всех ваших устройств
+vpn-shared-choose-a-plan-sub-heading = Выберите тариф, который вам подходит
 vpn-shared-pricing-variable-sub-heading = Все наши тарифы включают:
 vpn-shared-pricing-recommended-offer = Рекомендуемые
 vpn-shared-pricing-plan-12-month-v2 = План на 12 месяцев
