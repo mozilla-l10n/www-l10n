@@ -12,7 +12,7 @@ privacy-passwords-more-and-more-desc = 生活中有越來越多敏感、寶貴�
 # page content
 privacy-passwords-a-security-guide = 更安全的登入資訊與密碼指南
 privacy-passwords-protecting-your-accounts = 保護帳號沒有那麼難，讓 { -brand-name-firefox } 來幫忙。
-privacy-passwords-more-and-more = 生活中越來越多敏感、有價值的東西都透過設密碼的帳號來保護 — 情書、醫療紀錄、銀行帳號等等。網站會透過登入流程來保護有價值的東西。一般來說只要對方無法登入您的帳號就無法閱讀您的郵件或從您的銀行轉帳款項。生活在網路上的我們應該如何保護登入資訊
+privacy-passwords-more-and-more = 生活中越來越多敏感、有價值的東西都透過設密碼的帳號來保護 — 情書、醫療紀錄、銀行帳號等等。網站會透過登入流程來保護有價值的東西。一般來說，只要對方無法登入您的帳號，就無法閱讀您的郵件或從將銀行帳戶中的款項轉出。生活在網路上的我們應該如何保護登入資訊呢？
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = 懶人包：
 privacy-passwords-use-random-passwords = 對不同的網站使用不同的隨機密碼
