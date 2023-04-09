@@ -39,14 +39,14 @@ privacy-passwords-firefox-will-v2 = 若已知為釣魚網站，{ -brand-name-fir
 privacy-passwords-firefox-will = 若已知為釣魚網站，Firefox 將顯示警告，不直接開啟。
 privacy-passwords-in-general-the = 要防止被釣魚，最好的方式就是<strong>對任何收到的訊息都要小心謹慎</strong>。不論是在電子郵件、簡訊或電話中。不直接點開其他人提供給您的連結或接聽電話，而是自己另外開啟該網站，或主動向聲稱的來電者確認。例如：如果突然收到一封 PayPal 的密碼重設郵件，不要點擊當中的鏈結，自己另外開啟 paypal.com 確認；或是如果有人聲稱是銀行來電，另外回撥給銀行或者臨櫃確認。
 privacy-passwords-strength-in-diversity = 有差異，更安全
-privacy-passwords-the-secret-to = 防止猜測、被盜或重設密碼的秘訣就在於當中的隨機性。當攻擊者嘗試猜測密碼時他們通常會做兩件事: 1) 使用「字典」 — 人們會使用的常見密碼清單以及 2) 進行隨機猜測。 <strong>您的密碼越長、越隨機</strong>這些猜測技巧就越不容易找到您的密碼。
+privacy-passwords-the-secret-to = 要防止被猜到密碼、帳號被盜或被重設的秘訣在於密碼的隨機性。當攻擊者嘗試猜測密碼時，他們通常會做兩件事：1) 使用「字典」— 人們會使用的常見密碼清單，或是 2) 進行隨機猜測。<strong>只要您的密碼越長、越隨機</strong>，這些技巧就越不容易猜中您的密碼。
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = 當攻擊者偷走您使用的網站例如 <a { $url_linkedin }>LinkedIn</a> 或 <a { $url_yahoo }>Yahoo</a> 的密碼資料庫時，您只能更改該網站的密碼。這樣很不好，但若您在其他網站也使用被偷走的密碼登入時，損害會更嚴重：攻擊者就可以透過這些外洩的密碼盜用您在其他網站上的帳號。為了做好損害管控，請務必<strong>針對不同的網站使用不同的密碼。</strong>
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
-privacy-passwords-use-firefox-monitor = 使用 <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> 監控與您的帳號相關聯的電子郵件地址。若您的電子郵件地址出現在已知的企業資料外洩事件中我們會通知您並提供相關措施來保護帳號。
+privacy-passwords-use-firefox-monitor = 使用 <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> 監控與您的帳號相關聯的電子郵件地址。我們會在您的信箱出現在已知的企業資料外洩事件中時通知您，並提供能保護帳號的相關措施。
 privacy-passwords-security-questions-my = 安全性確認問題：我媽媽的娘家姓氏是「Ff926AKa9j6Q」
-privacy-passwords-finally-most-websites = 最後大部分的網站都會讓您忘記密碼時才找回密碼。通常這些系統會先讓您回答一些「安全性問題」才能重設密碼。 <strong>這些問題的答案必須如同您的密碼一樣保密。</strong>否則攻擊者就可以猜到這些問題的答案並使用您所知道的密碼來破解。
+privacy-passwords-finally-most-websites = 最終，大部分的網站都會讓在忘記密碼時找回密碼。通常這些系統會先詢問您一些「安全性問題」才能重設密碼。<strong>這些問題的答案必須跟密碼一樣保密。</strong>否則攻擊者就可以透過猜測這些問題的答案來更換密碼。
 privacy-passwords-randomness-can-be = 隨機性可能會是個大問題。因為網站當中的安全性問題也可能是人們可能會從出生地、生日、親朋好友或社交媒體等來源收集到的關於您的一些事情。好消息是網站並不在意答案是否真實 — 您可以撒謊有效地撒謊: <strong>輸入一些又長又隨機的安全性問題</strong>就像您的密碼一樣。
 privacy-passwords-get-help-from = 使用密碼管理員協助管理
 privacy-passwords-now-all-of = 現在起這些都聽起來很嚇人。人類的心智不擅長隨機產生一長串的字母更不用說記住它們了。這就是密碼管理器的用處。直接內建於瀏覽器的 { -brand-name-firefox } 會問您是否要產生一組獨特而復雜的密碼然後安全地儲存您的登入資訊讓您可以隨時在下列位置使用大約:登入資訊。
