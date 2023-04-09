@@ -60,8 +60,8 @@ vpn-shared-wireguard-copyright = Το { -brand-name-wireguard } αποτελεί
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Επιλέξτε το πακέτο συνδρομής που σας ταιριάζει
-# Outdated string
-vpn-shared-pricing-variable-heading = Επιλέξτε το πρόγραμμα που σας ταιριάζει
+vpn-shared-one-subscription-heading = Μία συνδρομή για όλες τις συσκευές σας
+vpn-shared-choose-a-plan-sub-heading = Επιλέξτε το πρόγραμμα που σας ταιριάζει
 vpn-shared-pricing-variable-sub-heading = Όλα μας τα πακέτα περιλαμβάνουν:
 vpn-shared-pricing-recommended-offer = Προτείνεται
 vpn-shared-pricing-plan-12-month-v2 = 12μηνο πακέτο
