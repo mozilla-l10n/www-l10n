@@ -12,6 +12,7 @@ privacy-passwords-more-and-more-desc = Yhä enemmän arkaluontoisia, arvokkaita 
 # page content
 privacy-passwords-a-security-guide = Tietoturvaopas turvallisempiin kirjautumisiin ja salasanoihin
 privacy-passwords-protecting-your-accounts = Tilien suojaamisen ei tarvitse olla monimutkaista – { -brand-name-firefox } voi auttaa siinä.
+privacy-passwords-more-and-more = Yhä useammat arkaluontoiset, arvokkaat asiat elämässämme suojataan eri tilien salasanoilla – rakkauskirjeet, potilaskertomukset, pankkitilit ja paljon muuta. Verkkosivustot käyttävät kirjautumismenetelmiä suojatakseen arvokkaita asioita. Yleisesti niin kauan kuin kukaan ei voi kirjautua tilillesi, ei kukaan voi lukea sähköpostiasi tai siirtää rahaa pankkitililtäsi. Kun elämme elämäämme verkossa, kuinka meidän pitäisi suojata kirjautumistietomme?
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = Lyhyesti:
 privacy-passwords-use-random-passwords = Käytä satunnaisia salasanoja ja käytä eri salasanaa jokaiselle sivustolle
@@ -19,6 +20,10 @@ privacy-passwords-pay-attention-to = Kiinnitä huomiota selaimen turvallisuusomi
 privacy-passwords-make-your-answers = Tee turvakysymyksien vastauksista yhtä vahvoja kuin salasanasi
 privacy-passwords-use-a-password = Käytä salasanojen hallintaan tarkoitettua sovellusta tai palvelua helpottaaksesi salasanojen luomista ja muistamista
 privacy-passwords-use-twofactor-authentication = Käytä "kaksivaiheista todennusta" missä vain voit
+privacy-passwords-its-hard-out = Salasanan vaikea rooli
+privacy-passwords-most-logins-today = Nykyään useimmat kirjautumiset on suojattu salasanalla. Jos hyökkääjä saa salasanasi, hän voi käyttää tiliäsi ja tehdä mitä tahansa, mitä sinä itse voit tehdä kyseisellä tilillä. Kun siis kysyt, kuinka turvallinen tilisi on, sinun tulisi miettiä salasanasi turvallisuutta. Tämä tarkoittaa, että sinun on mietittävä kaikkia eri tapoja, joilla hyökkääjä voi päästä käsiksi tilisi salasanaan:
+privacy-passwords-seeing-you-use = Näkemällä kun käytät sitä sivustolla ilman salattua yhteyttä
+privacy-passwords-guessing-it = Arvaamalla sen
 privacy-passwords-look-for-the = Etsi lukkoa selaimestasi
 privacy-passwords-twofactor-authentication-2fa = Kaksivaiheinen todennus (2FA)
 privacy-passwords-strong-diverse-and = Vahva, monipuolinen ja monivaiheinen

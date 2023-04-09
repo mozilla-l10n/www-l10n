@@ -24,8 +24,12 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Haluamme tietää sinusta vähe
 firefox-privacy-hub-all-tech-companies-collect = Kaikki teknologiayritykset keräävät tietoja parantaakseen tuotteitaan, mutta sen ei tarvitse sisältää niin paljon henkilökohtaisia tietojasi. Ainoat tiedot, joita haluamme, ovat tiedot, jotka palvelevat lopulta sinua. Kysymme itseltämme: tarvitsemmeko tätä todella? Mihin me tarvitsemme kyseistä tietoa? Milloin voimme poistaa keräämämme tiedot?
 firefox-privacy-hub-keep-it-safe = Pidä se turvassa
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Me teemme sen vaikean työn suojataksemme henkilökohtaisia tietojasi
+firefox-privacy-hub-data-security-is-complicated = Tietojen turvaaminen on monimutkaista – tai ainakin sen pitäisi olla. Tästä syystä ryhdymme ylimääräisiin toimiin luokitellaksemme meillä olevat tiedot, ylläpitääksemme sääntöjä kunkin tyypin tallentamisesta ja suojaamisesta, emmekä koskaan lopeta prosessiemme iterointia. Asetamme yksityisyytesi etusijalle. Panostamme siihen. Olemme sitoutuneet siihen. Opetamme jopa muita yrityksiä keskittymään yksityisyyteen.
 firefox-privacy-hub-no-secrets = Ei salaisuuksia
 firefox-privacy-hub-youll-always-know-where-you = Tiedät oman merkityksesi
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Ei taka-ajatuksia tai pikkuprinttiä. Liiketoimintamme ei riipu luottamuksesi hyväksikäyttämisestä. <a href="{ $privacy }">Tietosuojailmoituksemme</a> on todella selkokielinen ja ymmärrettävä. Jos haluat kaivautua keräämiimme tietopisteisiin, koodimme on avointa. Ja niin olemme mekin.
 # Obsolete string
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -68,6 +72,7 @@ firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = { -brand-name-firefox-lockwise }en tallentamasi salasanat ja kirjautumistiedot on salattu kaikilla laitteillasi, joten edes me emme näe niitä.
 firefox-privacy-hub-learn-more-about-lockwise = Lisätietoja { -brand-name-lockwise }sta
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
+firefox-privacy-hub-we-cant-see-the-names-or = Emme näe { -brand-name-firefox-send } -palvelun kautta jakamiesi suurten tiedostojen nimiä tai sisältöä, koska ne on päästä päähän -salattuja – voit valita, kuka näkee lähettämäsi tiedostot, ja voit jopa määrittää viimeisen voimassaolopäivän ja salasanan.
 firefox-privacy-hub-send-a-file = Lähetä tiedosto
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } suosittelee korkealaatuisia, ihmisten kuratoimia artikkeleita keräämättä selaushistoriaasi tai jakamatta henkilökohtaisia tietojasi mainostajien kanssa.
