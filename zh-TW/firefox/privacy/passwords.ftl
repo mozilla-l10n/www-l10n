@@ -53,15 +53,15 @@ privacy-passwords-now-all-of = 現在這些都聽起來很複雜，人類不擅�
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = 當您使用 { -brand-name-firefox } 帳號登入 { -brand-name-firefox } 後，就可以在您的所有裝置間同步登入資訊，並在行動版 { -brand-name-firefox } 瀏覽器存取您的密碼。在此了解<a { $url_sumo-manager }>如何使用內建的密碼管理員</a>。
 privacy-passwords-twofactor-authentication-2fa = 兩階段身分驗證（2FA）
-privacy-passwords-2fa-is-a = 兩階段登入（2FA）是加強安全性的好方法。設定新帳號時，某些網站會讓您選擇是否在登入時加入「第二個因素」。通常代表將您的手機號碼與帳號連結起來，輸入密碼登入後還會透過簡訊收到安全代碼。這樣就算駭客已經取得您的密碼，也無法登入您的帳號，因為他們沒拿到您手機當中的安全代碼。
+privacy-passwords-2fa-is-a = 兩階段身分驗證是加強安全性的好方法。設定新帳號時，某些網站會讓您選擇是否在登入時加入「第二個因素」。通常代表將您的手機號碼與帳號連結起來，輸入密碼登入後還會透過簡訊收到安全代碼。這樣就算駭客已經取得您的密碼，也無法登入您的帳號，因為他們沒拿到您手機當中的安全代碼。
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = 舉例來說，您的 { -brand-name-firefox } 帳號可透過 2FA 再加上一道保護（<a { $url_sumo_2fa }>可在此了解更多資訊</a>。）
 privacy-passwords-strong-diverse-and = 更強、更有差異、多因素驗證
-privacy-passwords-for-better-or = 不論好壞在可預見的未來我們都將透過密碼來保護我們的帳號密碼。使用<strong>密碼強度</strong><strong>因網站而異</strong>並有<strong>密碼管理員</strong>幫助您安全地記住這些密碼。為安全問題設定<strong>長而隨機的答案</strong>就算答案不是真的問題。並且對支援的網站<strong>使用雙因素驗證</strong>。
+privacy-passwords-for-better-or = 不論好壞，在可預見的未來，我們都將透過密碼來保護我們的帳號密碼。請使用<strong>強度夠強的密碼</strong>、<strong>不重複使用密碼</strong>、並透過<strong>密碼管理員</strong>幫助您安全地記下這些密碼、為安全問題設定<strong>長而隨機的答案（不是實際的答案也沒關係）</strong>。並且只要網站有支援，就<strong>開啟雙因素驗證</strong>機制。
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
-privacy-passwords-in-todays-internet-v2 = 在網路上每天都有數以千計的密碼被盜走並且帳號在黑市上遭到交易的情況下還是值得花點力氣來確保線上生活的安全。當您使用 { -brand-name-firefox } 產品時會自動省下一些麻煩因為我們所有的產品都在維護我們的<a { $url_privacy_products }>隱私權保護</a>的基礎上打造。而且 { -brand-name-firefox } 也總是遵循 <a { $url_about_manifesto }>{ -brand-name-mozilla } 的使命</a>這個非營利組織來打造更好的網路環境。
+privacy-passwords-in-todays-internet-v2 = 當今的網路世界中，每天都有數以千計的密碼被盜走，並且帳號會在黑市被交易的情況下，還是值得花點力氣來確保線上生活的安全。當您使用 { -brand-name-firefox } 產品時，可以省下一些力氣，因為我們所有的產品都圍繞我們對<a { $url_privacy_products }>保護隱私權的承諾</a>來打造。而且 { -brand-name-firefox } 也一直遵循 <a { $url_about_manifesto }>在背後資助我們的非營利組織 { -brand-name-mozilla } 的使命</a>來打造更好的網路環境。
 # Outdated string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
-privacy-passwords-in-todays-internet = 在網路上每天都有數以千計的密碼被盜走並且帳號在黑市上遭到交易的情況下還是值得花點力氣來確保線上生活的安全。當您使用 { -brand-name-firefox } 產品時會自動省下一些麻煩因為我們所有的產品都在維護我們的<a { $url_privacy_products }>隱私權保護</a>的基礎上打造。而 { -brand-name-firefox } 也一直以非營利組織 <a { $url_about_manifesto }>Mozilla 的使命</a>為後盾想要打造更好的網路環境。
+privacy-passwords-in-todays-internet = 當今的網路世界中，每天都有數以千計的密碼被盜走，並且帳號會在黑市被交易的情況下，還是值得花點力氣來確保線上生活的安全。當您使用 { -brand-name-firefox } 產品時，可以省下一些力氣，因為我們所有的產品都圍繞我們對<a { $url_privacy_products }>保護隱私權的承諾</a>來打造。而且 { -brand-name-firefox } 也一直遵循 <a { $url_about_manifesto }>在背後資助我們的非營利組織 Mozilla 的使命</a>來打造更好的網路環境。
