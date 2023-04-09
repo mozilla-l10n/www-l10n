@@ -20,10 +20,21 @@ firefox-privacy-our-products = Tuotteemme
 firefox-privacy-hub-you-should-be-able-to-decide = Sinun pitäisi pystyä päättämään, kuka näkee henkilökohtaisia tietojasi. Ei vain ystävien kesken, vaan jokaisen Internetin mainostajan ja yrityksen – myös meidän – kanssa.
 firefox-privacy-hub-thats-why-everything-we-make = Sen vuoksi kaikki tekemämme kunnioittaa henkilökohtaisten tietojen lupaustamme
 firefox-privacy-hub-take-less = Ota vähemmän
+firefox-privacy-hub-we-make-a-point-of-knowing = Haluamme tietää sinusta vähemmän
 firefox-privacy-hub-all-tech-companies-collect = Kaikki teknologiayritykset keräävät tietoja parantaakseen tuotteitaan, mutta sen ei tarvitse sisältää niin paljon henkilökohtaisia tietojasi. Ainoat tiedot, joita haluamme, ovat tiedot, jotka palvelevat lopulta sinua. Kysymme itseltämme: tarvitsemmeko tätä todella? Mihin me tarvitsemme kyseistä tietoa? Milloin voimme poistaa keräämämme tiedot?
 firefox-privacy-hub-keep-it-safe = Pidä se turvassa
+firefox-privacy-hub-we-do-the-hard-work-to-protect = Me teemme sen vaikean työn suojataksemme henkilökohtaisia tietojasi
 firefox-privacy-hub-no-secrets = Ei salaisuuksia
+firefox-privacy-hub-youll-always-know-where-you = Tiedät oman merkityksesi
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $meetings (url) - link to https://wiki.mozilla.org/
+firefox-privacy-hub-theres-no-hidden-agenda-here = Ei taka-ajatuksia tai pikkuprinttiä. Liiketoimintamme ei riipu luottamuksesi hyväksikäyttämisestä. <a href="{ $privacy }">Tietosuojailmoituksemme</a> on todella selkokielinen ja ymmärrettävä. Kuka tahansa voi osallistua <a href="{ $meetings }">viikoittaisiin yrityskokouksiin</a>. Jos haluat kaivautua keräämiimme tietopisteisiin, koodimme on avointa. Ja niin olemme mekin.
 firefox-privacy-hub-why-trust-firefox = Miksi luottaa { -brand-name-firefox }iin?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Koska asetamme ihmiset etusijalle. Itse asiassa meitä tukee <a href="{ $foundation }">voittoa tavoittelematon järjestö</a>. Ensimmäisestä päivästä lähtien tehtävämme on suojella Internetiä ja kaikkia sen käyttäjiä.
 firefox-privacy-hub-learn-more-about-our-mission = Lue lisää tehtävästämme
 firefox-privacy-hub-your-privacy-by-the-product = Yksityisyytesi tuotteen toteuttamana
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-tuotteet toimivat eri tavalla, koska ne on suunniteltu asettamaan yksityisyytesi ensisijaiseksi.
@@ -42,13 +53,16 @@ firefox-privacy-hub-get-enhanced-tracking-protection = Hanki tehostettu seuranna
 firefox-privacy-hub-download-the-firefox-browser = Lataa { -brand-name-firefox }-selain
 firefox-privacy-hub-update-your-firefox-browser = Päivitä { -brand-name-firefox }-selain
 firefox-privacy-hub-invisible-to-the-top-trackers = Näkymätön suurimmille jäljittäjille
+firefox-privacy-hub-meet-four-of-the-most-common = Tapaa neljä yleisintä seurainluokkaa – jotka eivät tule tapaamaan sinua.
 firefox-privacy-hub-always-in-your-control = Aina hallinnassasi
 firefox-privacy-hub-want-to-customize-what = Haluatko määrittää itse, mitä kaikkea estetään? Asetukset ovat vain yhden napsautuksen päässä.
+firefox-privacy-hub-protection-beyond-tracking = Enemmän kuin vain suojausta seurannalta
 firefox-privacy-hub-if-you-have-a-firefox-account = Jos sinulla on { -brand-name-firefox-account }, voit nähdä, kuinka autamme sinua suojaamaan henkilökohtaisia tietojasi ja salasanojasi.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Yli { $trackers } seurainta estetty päivittäin { -brand-name-firefox }-käyttäjiltä maailmanlaajuisesti
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Kun kirjoitat sähköpostiosoitteesi { -brand-name-firefox-monitor }iin, unohdamme sen heti, kun olemme tarkastaneet onko se paljastunut tunnetuissa tietovuodoissa – ellet anna meille lupaa jatkaa uusien tietovuotojen seurantaa.
 firefox-privacy-hub-check-for-breaches = Tarkista tietovuotojen varalta
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = { -brand-name-firefox-lockwise }en tallentamasi salasanat ja kirjautumistiedot on salattu kaikilla laitteillasi, joten edes me emme näe niitä.
