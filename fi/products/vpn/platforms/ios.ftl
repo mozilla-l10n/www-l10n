@@ -5,6 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+# Meta strings
+vpn-ios-page-title = { -brand-name-mozilla-vpn } { -brand-name-ios }:lle ({ -brand-name-iphone }lle ja { -brand-name-ipad }ille)
 vpn-ios-about-headline = Miksi luottaisit meihin?
 vpn-ios-privacy-headline = Yhden napsautuksen yhteys
+# Variables:
+#   $servers (number) - number of available servers
+vpn-ios-servers-headline = Yhdistä yli { $servers } palvelimeen maailmanlaajuisesti
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-headline = Käytä { $devices } eri laitteella
+vpn-ios-speed-headline = Huippunopeudet. Rajoittamaton data.
 vpn-ios-log-headline = Tietosi pysyvät yksityisinä. Piste.

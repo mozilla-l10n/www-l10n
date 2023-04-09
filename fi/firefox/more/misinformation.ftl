@@ -14,4 +14,6 @@ misinformation-how-firefox-helps-heading = Kuinka { -brand-name-firefox } auttaa
 misinformation-why-trust-firefox = Miksi luottaa { -brand-name-firefox }iin?
 misinformation-learn-more-about-our-mission = Lue lisää tehtävästämme
 misinformation-your-privacy-by-the-product = Yksityisyytesi tuotteen toteuttamana
+misinformation-firefox-products-work-differently = { -brand-name-firefox }-tuotteet toimivat eri tavalla, koska ne on suunniteltu asettamaan yksityisyytesi ensisijaiseksi.
 misinformation-learn-about-our-products = Tutustu tuotteisiimme
+misinformation-designed-to-protect = Suunniteltu suojelemaan yksityisyyttäsi

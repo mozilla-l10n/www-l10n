@@ -10,4 +10,5 @@ features-fingerprinting-what-is-fingerprinting-title = Mitä on yksilöinti ja m
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } estää yksilöinnin
 features-fingerprinting-download-firefox = Lataa { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Mitä on yksilöinti?
+features-fingerprinting-fingerprinting-is-bad = Yksilöinti on haitallista Internetille
 features-fingerprinting-protect = Suojaa yksityisyyttäsi
