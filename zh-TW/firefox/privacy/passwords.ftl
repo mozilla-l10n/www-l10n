@@ -47,13 +47,13 @@ privacy-passwords-when-an-attacker = 當攻擊者偷走您使用的網站例如 
 privacy-passwords-use-firefox-monitor = 使用 <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> 監控與您的帳號相關聯的電子郵件地址。我們會在您的信箱出現在已知的企業資料外洩事件中時通知您，並提供能保護帳號的相關措施。
 privacy-passwords-security-questions-my = 安全性確認問題：我媽媽的娘家姓氏是「Ff926AKa9j6Q」
 privacy-passwords-finally-most-websites = 最終，大部分的網站都會讓在忘記密碼時找回密碼。通常這些系統會先詢問您一些「安全性問題」才能重設密碼。<strong>這些問題的答案必須跟密碼一樣保密。</strong>否則攻擊者就可以透過猜測這些問題的答案來更換密碼。
-privacy-passwords-randomness-can-be = 隨機性可能會是個大問題。因為網站當中的安全性問題也可能是人們可能會從出生地、生日、親朋好友或社交媒體等來源收集到的關於您的一些事情。好消息是網站並不在意答案是否真實 — 您可以撒謊有效地撒謊: <strong>輸入一些又長又隨機的安全性問題</strong>就像您的密碼一樣。
+privacy-passwords-randomness-can-be = 隨機性可能是個大問題。因為網站的安全性問題通常會是與您有關的問題，例如出生地、生日、國小畢業學校、親屬姓名等等，這些資訊可能別人也會知道，或可以從社交媒體或不同來源收集到。好消息是網站並不在意答案是否真實：可以不給真正的答案！但請有效地撒謊：用跟密碼一樣的標準<strong>指定又長、又隨機的答案</strong>。
 privacy-passwords-get-help-from = 使用密碼管理員協助管理
-privacy-passwords-now-all-of = 現在起這些都聽起來很嚇人。人類的心智不擅長隨機產生一長串的字母更不用說記住它們了。這就是密碼管理器的用處。直接內建於瀏覽器的 { -brand-name-firefox } 會問您是否要產生一組獨特而復雜的密碼然後安全地儲存您的登入資訊讓您可以隨時在下列位置使用大約:登入資訊。
+privacy-passwords-now-all-of = 現在這些都聽起來很複雜，人類不擅長產生一大串隨機字母，更不用說要記住它們了。這就是密碼管理器的用處。直接內建於 { -brand-name-firefox } 瀏覽器的功能會向您詢問是否要產生一組獨特又複雜的密碼，然後安全地將登入資訊儲存下來，讓您可以隨時在 about:logins 查詢使用。
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
-privacy-passwords-when-youre-logged = 當您使用 { -brand-name-firefox } 帳號登入 { -brand-name-firefox } 後就可以在您的所有裝置間同步登入資訊並從 { -brand-name-firefox } 行動瀏覽器存取您的密碼。在此了解<a { $url_sumo-manager }>如何使用內建的密碼管理員</a>。
+privacy-passwords-when-youre-logged = 當您使用 { -brand-name-firefox } 帳號登入 { -brand-name-firefox } 後，就可以在您的所有裝置間同步登入資訊，並在行動版 { -brand-name-firefox } 瀏覽器存取您的密碼。在此了解<a { $url_sumo-manager }>如何使用內建的密碼管理員</a>。
 privacy-passwords-twofactor-authentication-2fa = 兩階段身分驗證（2FA）
-privacy-passwords-2fa-is-a = 2FA 是加強安全性的好方法。設定新帳號時某些網站會讓您可以選擇要不要在登入時加入「第二個因素」。這通常代表著要將您的手機號碼與帳號連結起來這樣在輸入密碼後就會收到直接發給您的安全碼。這樣就算駭客想要取得您的密碼也無法登入您的帳號因為他們並不擁有您的手機。
+privacy-passwords-2fa-is-a = 兩階段登入（2FA）是加強安全性的好方法。設定新帳號時，某些網站會讓您選擇是否在登入時加入「第二個因素」。通常代表將您的手機號碼與帳號連結起來，輸入密碼登入後還會透過簡訊收到安全代碼。這樣就算駭客已經取得您的密碼，也無法登入您的帳號，因為他們沒拿到您手機當中的安全代碼。
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = 舉例來說，您的 { -brand-name-firefox } 帳號可透過 2FA 再加上一道保護（<a { $url_sumo_2fa }>可在此了解更多資訊</a>。）
 privacy-passwords-strong-diverse-and = 更強、更有差異、多因素驗證
