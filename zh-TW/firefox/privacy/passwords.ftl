@@ -31,13 +31,13 @@ privacy-passwords-to-keep-your = 為了確保登入資訊安全，您需要盡�
 privacy-passwords-look-for-the = 尋找瀏覽器中的鎖頭
 privacy-passwords-its-easy-to = 很簡單就能防止攻擊者在您未加密的網站登入時偷走密碼：如果您沒有在網址列看到鎖頭的圖示（像後面那樣），輸入密碼前請三思。
 privacy-passwords-a-closed-lock = 所有主要瀏覽器的網址列當中，網址的前面都會出現一把鎖起來的鎖頭。
-privacy-passwords-the-lock-means = 把鎖頭代表您的網站已加密過這樣就算有人在偷看您在網路上的瀏覽紀錄也不會看到您的密碼。 { -brand-name-firefox } 會在您即將進入未加密網站時嘗試警告您。
+privacy-passwords-the-lock-means = 這把鎖頭代表您與此網站中間的連線有加密，就算有人在竊聽您的上網行為（例如使用公共 Wi-Fi 熱點上網時有其他人竊聽），也看不到您的密碼。{ -brand-name-firefox } 會在您於未加密網站輸入密碼時先警告您。
 privacy-passwords-a-padlock-with = 若鎖頭上畫了一條斜槓，表示連線並不安全。
-privacy-passwords-your-browser-also = 您的瀏覽器也能幫助您隨時了解網站是否可信任讓您遠離釣魚網站。一方面當您嘗試開啟已知為釣魚網站的網站時{ -brand-name-firefox } 及任何主要瀏覽器都會顯示全螢幕警告 — <strong>請注意並三思關於使用該網站的兩倍</strong>
-privacy-passwords-firefox-will-v2 = 若 { -brand-name-firefox } 已知為釣魚網站將顯示警告而非網站。
+privacy-passwords-your-browser-also = 您的瀏覽器也能幫助您隨時了解網站是否可信，來幫助您遠離釣魚網站。一方面當您嘗試開啟已知為釣魚網站的網站時，{ -brand-name-firefox } 及任何主要瀏覽器都會顯示全螢幕警告 — <strong>若要開啟這樣的網站請多加注意，輸入任何資料前都要三思！</strong>
+privacy-passwords-firefox-will-v2 = 若已知為釣魚網站，{ -brand-name-firefox } 將顯示警告，不直接開啟。
 # Outdated string
 privacy-passwords-firefox-will = 若已知為釣魚網站，Firefox 將顯示警告，不直接開啟。
-privacy-passwords-in-general-the = 一般來說防止釣魚最好的方式就是<strong>要小心謹慎</strong>不論是在電子郵件、簡訊或電話中。直接造訪網站而不處理其他人寄給您的內容。舉例來說如果郵件當中提到您需要重設 PayPal 密碼就不要點擊其中的鏈結。自己輸入 Paypal.com。如果銀行有來電請再回覆。
+privacy-passwords-in-general-the = 要防止被釣魚，最好的方式就是<strong>對任何收到的訊息都要小心謹慎</strong>。不論是在電子郵件、簡訊或電話中。不直接點開其他人提供給您的連結或接聽電話，而是自己另外開啟該網站，或主動向聲稱的來電者確認。例如：如果突然收到一封 PayPal 的密碼重設郵件，不要點擊當中的鏈結，自己另外開啟 paypal.com 確認；或是如果有人聲稱是銀行來電，另外回撥給銀行或者臨櫃確認。
 privacy-passwords-strength-in-diversity = 有差異，更安全
 privacy-passwords-the-secret-to = 防止猜測、被盜或重設密碼的秘訣就在於當中的隨機性。當攻擊者嘗試猜測密碼時他們通常會做兩件事: 1) 使用「字典」 — 人們會使用的常見密碼清單以及 2) 進行隨機猜測。 <strong>您的密碼越長、越隨機</strong>這些猜測技巧就越不容易找到您的密碼。
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
