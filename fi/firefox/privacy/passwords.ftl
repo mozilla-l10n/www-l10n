@@ -24,6 +24,19 @@ privacy-passwords-its-hard-out = Salasanan vaikea rooli
 privacy-passwords-most-logins-today = Nykyään useimmat kirjautumiset on suojattu salasanalla. Jos hyökkääjä saa salasanasi, hän voi käyttää tiliäsi ja tehdä mitä tahansa, mitä sinä itse voit tehdä kyseisellä tilillä. Kun siis kysyt, kuinka turvallinen tilisi on, sinun tulisi miettiä salasanasi turvallisuutta. Tämä tarkoittaa, että sinun on mietittävä kaikkia eri tapoja, joilla hyökkääjä voi päästä käsiksi tilisi salasanaan:
 privacy-passwords-seeing-you-use = Näkemällä kun käytät sitä sivustolla ilman salattua yhteyttä
 privacy-passwords-guessing-it = Arvaamalla sen
+privacy-passwords-stealing-a-file = Varastamalla tiedoston, jossa salasanasi on
+privacy-passwords-using-password-recovery = Käyttämällä salasanan palautusta salasanan nollaamiseksi
+privacy-passwords-tricking-you-into = Huijaamalla sinua antamaan salasanasi
+privacy-passwords-to-keep-your = Pitääksesi kirjautumistietosi turvassa, sinun on estettävä mahdollisimman monet näistä eri tavoista. Jokaisella riskillä on vastaava estokeino.
 privacy-passwords-look-for-the = Etsi lukkoa selaimestasi
+privacy-passwords-a-closed-lock = Suljettu riippulukko näkyy ennen verkkosivuston osoitetta osoitepalkissa kaikissa yleisimmissä selaimissa.
+privacy-passwords-a-padlock-with = Riippulukko, jonka läpi kulkee viiva, osoittaa, että yhteys ei ole turvallinen.
+privacy-passwords-firefox-will-v2 = { -brand-name-firefox } näyttää varoituksen verkkosivuston sijaan, jos sivuston tiedetään olevan tietojenkalastelusivusto.
+# Outdated string
+privacy-passwords-firefox-will = Firefox näyttää varoituksen verkkosivuston sijaan, jos sivuston tiedetään olevan tietojenkalastelusivusto.
+privacy-passwords-security-questions-my = Turvakysymykset: Äitini tyttönimi on "Ff926AKa9j6Q"
+privacy-passwords-get-help-from = Tartu salasanojen hallinnan apuun
+#   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged = Kun olet kirjautunut sisään { -brand-name-firefox }iin { -brand-name-firefox }-tililläsi, voit synkronoida kaikki laitteesi ja käyttää salasanojasi { -brand-name-firefox }-mobiiliselaimella. Lisätietoja <a { $url_sumo-manager }>sisäänrakennetun salasananhallinnan käyttämisestä</a>.
 privacy-passwords-twofactor-authentication-2fa = Kaksivaiheinen todennus (2FA)
 privacy-passwords-strong-diverse-and = Vahva, monipuolinen ja monivaiheinen
