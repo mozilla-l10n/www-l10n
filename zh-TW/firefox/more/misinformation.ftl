@@ -7,7 +7,7 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = 避免遇到網路上的錯誤資訊 - { -brand-name-firefox } 在此協助
-misinformation-page-desc = 錯誤資訊很煩人、讓人分心並且成本高昂。 { -brand-name-firefox } 提供了一些避免在上網時看到假資訊的小秘訣。
+misinformation-page-desc = 錯誤資訊很煩人、讓人分心並且成本高昂。 { -brand-name-firefox } 提供一些避免在上網時看到假資訊的小秘訣。
 misinformation-page-subheading = 看看有哪些能夠看到更少假訊息，並且更加專注於對您來說最重要資訊的小秘訣
 misinformation-what-is-heading = 錯誤資訊是什麼？假訊息又是什麼？
 misinformation-disinformation = 錯誤資訊、不實資訊 – 您可能已經聽過這些詞彙並且想知道它們的意思有什麼不同。兩者的不同就是用意: 錯誤資訊是人們可能會上手的任何不實資訊。這段內容可經確認是不正確或有誤導性的但建立或分享時並無欺騙他人的意圖。與此不同的假訊息是用來製造和散佈誤導資訊並達到特定目的。

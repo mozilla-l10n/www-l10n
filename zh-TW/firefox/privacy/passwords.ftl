@@ -56,6 +56,8 @@ privacy-passwords-twofactor-authentication-2fa = 兩階段身分驗證（2FA）
 privacy-passwords-2fa-is-a = 兩階段身分驗證是加強安全性的好方法。設定新帳號時，某些網站會讓您選擇是否在登入時加入「第二個因素」。通常代表將您的手機號碼與帳號連結起來，輸入密碼登入後還會透過簡訊收到安全代碼。這樣就算駭客已經取得您的密碼，也無法登入您的帳號，因為他們沒拿到您手機當中的安全代碼。
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = 舉例來說，您的 { -brand-name-firefox } 帳號可透過 2FA 再加上一道保護（<a { $url_sumo_2fa }>可在此了解更多資訊</a>。）
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
+privacy-passwords-2fa-provides-much = 2FA 的安全性，比單純輸入密碼好上許多，但並不是每個網站都支援。您可以在 <a { $url_2fa }>https://2fa.directory</a> 找到支援 2FA 的網站請單，也有不支援 2FA 的網站的清單，讓您可以要求這些網站加入支援。
 privacy-passwords-strong-diverse-and = 更強、更有差異、多因素驗證
 privacy-passwords-for-better-or = 不論好壞，在可預見的未來，我們都將透過密碼來保護我們的帳號密碼。請使用<strong>強度夠強的密碼</strong>、<strong>不重複使用密碼</strong>、並透過<strong>密碼管理員</strong>幫助您安全地記下這些密碼、為安全問題設定<strong>長而隨機的答案（不是實際的答案也沒關係）</strong>。並且只要網站有支援，就<strong>開啟雙因素驗證</strong>機制。
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
