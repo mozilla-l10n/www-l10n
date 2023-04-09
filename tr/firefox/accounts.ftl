@@ -14,6 +14,8 @@ firefox-accounts-already-have-an-account = Zaten hesabınız var mı?
 firefox-accounts-sign-in = Giriş yapın
 firefox-accounts-already = Zaten bir { -brand-name-firefox-account }nız var. Tebrikler!
 firefox-accounts-manage = Hesabınızı yönetin
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = { -brand-name-firefox-account }nıza giriş yaparak şunları yapabilirsiniz:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Gizliliğe öncelik veren ürünlerimizle tanışın.
 # Variables:
@@ -22,11 +24,11 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Parolaları kaydedip e�
 firefox-accounts-get-email-alerts = Bilgileriniz yeni bir veri ihlalinde yer alırsa e-posta uyarıları alın
 # Obsolete string
 firefox-accounts-see-if-youve-been = Çevrimiçi veri ihlallerinde verilerinin çalınıp çalınmadığını öğren.
-firefox-accounts-keep-your-passwords = Parolalarını güvenle yanında taşı.
+firefox-accounts-keep-your-passwords = Parolalarınızı güvenle yanınızda taşıyın.
 firefox-accounts-get-a-lookout-for = Veri hırsızlıklarından haberin olsun.
 firefox-accounts-travel-the-internet = İnternette gezinirken her cihazda üstün koruma.
 firefox-accounts-encrypt-your = Ağ etkinliğinizi şifreleyin ve IP adresinizi gizleyin
-firefox-accounts-get-it-all-on-every = Tek bir işletim sistemine takılıp kalma. Firefox’u tüm cihazlarında kullanabilirsin.
+firefox-accounts-get-it-all-on-every = Tek bir işletim sistemine takılıp kalmayın. Firefox’u tüm cihazlarınızda kullanabilirsiniz.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
