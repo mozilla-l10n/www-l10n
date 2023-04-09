@@ -17,6 +17,10 @@ compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox }illa on valtav
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated-v2 = Olemme myös hiljattain toistaneet sitoutumisemme käyttäjien tietosuojaan ja avoimuuteen viimeisimmässä <a { $attrs }>tietosuojailmoituksessamme</a>, jossa todetaan: "Me { -brand-name-mozilla }ssa uskomme, että yksityisyys on terveen internetin perusta."
+# Outdated string
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated = Olemme myös hiljattain toistaneet sitoutumisemme tietosuojaan ja avoimuuteen viimeisimmässä <a { $attrs }>tietosuojailmoituksessamme</a>, jossa todetaan: "Me Mozillassa uskomme, että yksityisyys on terveen internetin perusta."
 compare-chrome-google-chrome-is-by-all-accounts = { -brand-name-google } { -brand-name-chrome } on kaikin puolin turvallinen selain, jossa on ominaisuuksia, kuten { -brand-name-google } Safe Browsing, joka pyrkii suojaamaan käyttäjiä näyttämällä huomiota herättävän varoituksen, kun he yrittävät avata vaarallisen sivuston tai ladata vaarallisia tiedostoja.
 # To "draw the line" is to establish a boundary that should not be crossed. Alternative: "it's up to you to decide whether or not or where your limit is with sharing things (...)".
 compare-chrome-ultimately-its-up-to-you = Viime kädessä sinun on päätettävä, mihin asetat rajan tietojen, kuten hakuhistoriasi ja ostoshistoriasi, jakamisessa. Jos olet kuin useimmat ihmiset, olet luultavasti etsinyt Internetistä asioita, jotka pidät mieluusti omana tietonasi.

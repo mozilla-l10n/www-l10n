@@ -7,5 +7,8 @@
 
 # HTML page title
 compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } vastaan { -brand-name-opera }: Kumpi on parempi selain sinulle?
+# HTML page description
+compare-opera-compare-opera-to-the-firefox = Aseta { -brand-name-opera } ja { -brand-name-firefox-browser } vertailuun, ja selvitä, kumpi on parempi selain sinulle.
 # Main title
-compare-opera-comparing-firefox-browser = { -brand-name-firefox-browser } vertaaminen { -brand-name-opera }an
+compare-opera-comparing-firefox-browser = Aseta { -brand-name-firefox-browser } vertailuun { -brand-name-opera }n kanssa
+compare-opera-most-major-browsers-these = Nykyään useimmat yleisimmät selaimet, lukuun ottamatta { -brand-name-safari }a, toimivat saumattomasti eri alustoilla. { -brand-name-opera } ja { -brand-name-firefox } eivät ole poikkeuksia, sillä molemmat selaimet toimivat erinomaisesti eri laitteilla.
