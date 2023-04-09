@@ -21,13 +21,13 @@ vpn-landing-fast-secure-heading = Nopea ja turvallinen verkko
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } toimii maailmanlaajuisessa palvelinverkossa. Käyttämällä edistyneintä <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>-protokollaa salaamme verkkoliikenteesi ja piilotamme IP-osoitteesi. Emme koskaan lokita, seuraa tai jaa tietojasi.
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } toimii maailmanlaajuisessa palvelinverkossa. Käyttämällä edistyneintä <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>-yhteyskäytäntöä salaamme verkkoliikenteesi ja piilotamme IP-osoitteesi. Emme koskaan lokita, seuraa tai jaa verkkoliikennettäsi.
 # Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } toimii maailmanlaajuisessa palvelinverkossa, jonka taustalla on <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Käyttämällä kaikkein edistyneintä <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> -yhteyskäytäntöä salaamme verkkotoimintasi ja piilotamme IP-osoitteesi. Emme koskaan lokita, seuraa tai jaa verkkoliikenteen tietojasi.
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } toimii maailmanlaajuisessa palvelinverkossa, jonka taustalla on <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Käyttämällä kaikkein edistyneintä <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> -yhteyskäytäntöä salaamme verkkotoimintasi ja piilotamme IP-osoitteesi. Emme koskaan lokita, seuraa tai jaa verkkoliikennettäsi.
 vpn-landing-brand-trust-heading = VPN brändiltä, johon voit luottaa
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
@@ -62,7 +62,7 @@ vpn-landing-faq-protected-question-heading = Miten yksityisyyttäni suojataan?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokolla salaa verkkoliikenteesi ja suojaa kaikki yksityiset tietosi. Verrattuna muihin olemassa oleviin VPN-protokolliin, { -brand-name-wireguard }in kevyt koodi on tietoturva-ammattilaisille helpompi tarkistaa ja auditoida, tehden siitä turvallisen vaihtoehdon VPN-ratkaisuksi. Lisäksi toimintasi verkossa pysyy anonyyminä, koska emme koskaan kirjaa, seuraa tai jaa verkkotietojasi.
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokolla salaa verkkoliikenteesi ja suojaa kaikki yksityiset tietosi. Verrattuna muihin olemassa oleviin VPN-protokolliin, { -brand-name-wireguard }in kevyt koodi on tietoturva-ammattilaisille helpompi tarkistaa ja auditoida, tehden siitä turvallisen vaihtoehdon VPN-ratkaisuksi. Lisäksi toimintasi verkossa pysyy anonyyminä, koska emme koskaan lokita, seuraa tai jaa verkkoliikennettäsi.
 vpn-landing-faq-competition-question-heading = Millainen { -brand-name-mozilla-vpn } on verrattuna kilpailijoihin?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
