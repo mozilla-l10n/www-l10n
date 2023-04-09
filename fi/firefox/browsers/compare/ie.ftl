@@ -8,4 +8,4 @@
 # HTML page title
 compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vastaan { -brand-name-ie }: Kumpi on parempi selain sinulle?
 # Main title
-compare-ie-comparing-firefox-browser-with = { -brand-name-firefox-browser } vertaaminen { -brand-name-microsoft } { -brand-name-ie }iin
+compare-ie-comparing-firefox-browser-with = Aseta { -brand-name-firefox-browser } vertailuun { -brand-name-microsoft } { -brand-name-ie }in kanssa
