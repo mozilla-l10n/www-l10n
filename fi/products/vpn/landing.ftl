@@ -22,6 +22,12 @@ vpn-landing-fast-secure-heading = Nopea ja turvallinen verkko
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } toimii maailmanlaajuisessa palvelinverkossa. Käyttämällä edistyneintä <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>-protokollaa salaamme verkkoliikenteesi ja piilotamme IP-osoitteesi. Emme koskaan lokita, seuraa tai jaa tietojasi.
+# Obsolete string
+# Variables:
+#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } toimii maailmanlaajuisessa palvelinverkossa, jonka taustalla on <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Käyttämällä kaikkein edistyneintä <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> -yhteyskäytäntöä salaamme verkkotoimintasi ja piilotamme IP-osoitteesi. Emme koskaan lokita, seuraa tai jaa verkkoliikenteen tietojasi.
 vpn-landing-brand-trust-heading = VPN brändiltä, johon voit luottaa
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
@@ -44,6 +50,10 @@ vpn-landing-faq-uses-encrypt = Salaamalla sinun ja VPN-palveluntarjoajasi välis
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Tutustu <a href="{ $url }">viiteen tosielämän esimerkkiin</a>, joissa saatat haluta käyttää VPN-yhteyttä laitteellasi.
 vpn-landing-faq-info-question-heading = Mitä tietoja { -brand-name-mozilla-vpn } säilyttää?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-landing-faq-info-question-desc-v2 = Noudatamme tiukasti { -brand-name-mozilla }n <a href="{ $principles }">tietosuojaperiaatteita</a> ja keräämme tarvittavat tiedot VPN:n toimivuuden varmistamiseksi ja tuotteen parantamiseksi. Seuraamme mobiilisovelluksessamme kampanja- ja viittaustietoja auttaaksemme { -brand-name-mozilla }a ymmärtämään markkinointikampanjoiden tehokkuutta. Lue lisää <a href="{ $notice }">tietosuojailmoituksestamme</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
