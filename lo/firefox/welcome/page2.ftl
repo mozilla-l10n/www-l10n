@@ -14,3 +14,6 @@ welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-pocket-is-built-right-into = { -brand-name-pocket } ຖືກສ້າງຢູ່ໃນ { -brand-name-firefox }, ດັ່ງນັ້ນທ່ານສາມາດບັນທຶກເລື່ອງລາວໄດ້ງ່າຍຕາມທີ່ເຈົ້າຊອກຫາ, ຈາກນັ້ນອ່ານມັນພາຍຫຼັງໃນທຸກອຸປະກອນ.
 welcome-page2-save-content-from-everywhere = ບັນທຶກເນື້ອຫາຈາກທຸກບ່ອນ
 welcome-page2-grab-articles-videos-and-links = ດຶງເອົາບົດຄວາມ, ວິດີໂອ ແລະລິ້ງຈາກເວັບໄຊທ໌ໃດນຶ່ງໂດຍການຄລິກທີ່ໄອຄອນ { -brand-name-pocket } ໃນແຖບເຄື່ອງມືຂອງບຣາວເຊີຂອງທ່ານ.
+welcome-page2-discover-new-stories = ຄົ້ນພົບເລື່ອງໃໝ່
+welcome-page2-pocket-shows-recommended-stories = { -brand-name-pocket } ສະແດງເລື່ອງທີ່ແນະນຳທຸກຄັ້ງທີ່ທ່ານເປີດແຖບໃໝ່. ບັນທຶກຄົນທີ່ທ່ານສົນໃຈ.
+welcome-page2-why-am-i-seeing-this = ເປັນຫຍັງຂ້ອຍຕ້ອງເຫັນອັນນີ້
