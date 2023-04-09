@@ -76,13 +76,12 @@ vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (sürüm 6 ve üzeri)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ve üstü)
+#   $version (number) - minimum supported version number
+vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } ve üstü)
 # Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 ve üstü)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 ve üzeri)
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ve üstü)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ve üstü)
@@ -101,6 +100,7 @@ vpn-landing-faq-link = Diğer SSS'ler
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Bekleme listesine katılın: { -brand-name-mozilla-vpn }
+# Outdated string
 vpn-landing-invite-page-desc = { -brand-name-mozilla-vpn } cihazınızda ve bölgenizde kullanılabilir hale gelince size haber verelim.
 vpn-landing-invite-page-heading = VPN bekleme listesine katılın
 vpn-landing-invite-email-label = E-posta adresiniz nedir?
@@ -109,17 +109,8 @@ vpn-landing-invite-required-label = Gerekli
 vpn-landing-invite-email-placeholder = kullanici@example.com
 vpn-landing-invite-country-label = Hangi ülkede yaşıyorsunuz?
 vpn-landing-invite-language-label = Tercih ettiğiniz dili seçin.
-vpn-landing-invite-platform-label = Hangi platformları kullanıyorsunuz?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = “Bekleme listesine katılın”ı tıklayarak <a href="{ $privacy }">Gizlilik Politikamızı</a> kabul etmiş olursunuz.
 vpn-landing-invite-your-information = Bilgileriniz yalnızca sizi platform kullanılabilirliği hakkında bilgilendirmek için kullanılacaktır.
 vpn-landing-invite-thanks-heading = Teşekkürler! Listeye eklendiniz
