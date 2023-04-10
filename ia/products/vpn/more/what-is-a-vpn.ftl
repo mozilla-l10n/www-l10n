@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
@@ -54,9 +54,7 @@ vpn-what-is-are-vpns-only = Es VPNs solo pro computatores?
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = VPNs pote esser usate pro proteger tote tu apparatos: computatores, portabiles, tablettas e smartphonos. Si tu accede a internet a transverso de apps autonome ultra le navigator, un VPN es un bon selection pro proteger tu confidentialitate e securitate sur ulle apparato. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> offere un illimitate connexion pro fin a cinque apparatos quando tu te connecte a internet de ulle app o navigator.
-vpn-what-is-mozilla-vpn-fast =
-    { -brand-name-mozilla-vpn }: Fast, secure, trustworthy
-    { -brand-name-mozilla-vpn }: Veloce, secur, digne de fide
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Veloce, secur, digne de fide
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio digne de tu confidentia pro mantener tu connexion a internet secur sur tote tu apparatos. Nos non tene registrate tu activitate in rete e nos non collabora con tertie parte que produce profilos de lo que tu face online. In un mundo ubi le imprevidibilitate ha devenite le “nove normalitate”, nos sape que il es plus importante que mais pro sentir te secur e pro te saper que lo que tu face online es tu proprie negotios.
