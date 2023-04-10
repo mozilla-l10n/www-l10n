@@ -12,6 +12,7 @@ welcome-page8-your-privacy-respected = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰ�
 welcome-page8-view-your-protection-report = ਆਪਣੀ ਸੁਰੱਖਿਆ ਰਿਪੋਰਟ ਵੇਖੋ
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+welcome-page8-automatically-block-sites = ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਆਪਣੇ-ਆਪ ਰੋਕੋ।
 welcome-page8-see-whats-blocked = ਵੇਖੋ ਕਿ ਕਿਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-go-to-monitor = { -brand-name-monitor } ਉੱਤੇ ਜਾਓ
