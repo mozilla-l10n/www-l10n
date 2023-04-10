@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Hent { -brand-name-firefox-browser } — Hurtig, privat og gratis — fra { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Hent { -brand-name-firefox } til computer — fra { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Få { -brand-name-firefox }, en gratis webbrowser støttet af { -brand-name-mozilla }, en nonprofit-organisation dedikeret til internetsundhed og privatliv. Fås nu til { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } og { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Få { -brand-name-firefox } til { -brand-name-windows }, { -brand-name-mac-short } eller { -brand-name-linux }. { -brand-name-firefox } er en gratis webbrowser støttet af { -brand-name-mozilla }, en nonprofit-organisation dedikeret til internetsundhed og privatliv.
 firefox-desktop-download-og-title = Hent den hurtigste { -brand-name-firefox } nogensinde
 firefox-desktop-download-og-desc = Hurtigere indlæsning af sider, mindre brug af hukommelse og proppet med nye funktioner - Den nye { -brand-name-firefox } er her.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = Blokerer sporing via sociale m
 firefox-desktop-download-os-availability = Tilgængelig på alle operativsystemer
 firefox-desktop-download-in-browser-screenshot = Indbygget funktion til at tage skærmbilleder
 firefox-desktop-download-primary-password = Hovedadgangskode
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Gør nettet til dit eget
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Du bestemmer. Vælg de farver, du har lyst til - med tusindvis af forskellige værktøjer, temaer og udvidelser. { -brand-name-firefox } er den oprindelige alternative browser, der sætter mennesker før profit.
 # Obsolete string
 firefox-desktop-download-master-password = Hovedadgangskode

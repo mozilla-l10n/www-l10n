@@ -1,13 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Hent { -brand-name-firefox } til computer, mobil eller virksomheder
+# Outdated string
 firefox-browsers-get-the-browsers-that-put = Få en browser, der sætter beskyttelse af dit privatliv i første række - og altid har gjort det
 # HTML page description
+firefox-browsers-page-desc = Vælg mellem computer, { -brand-name-ios }, { -brand-name-android } eller lad os maile dig et download-link til mobilen.
+# Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Få den beskyttelse af dit privatliv, du fortjener. Udvidet beskyttelse mod sporing er standard i alle { -brand-name-firefox }-browsere.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Få en browser, der sætter beskyttelse af <strong>dit privatliv</strong> i første række - og altid har gjort det
@@ -27,6 +31,7 @@ firefox-browsers-go-beyond-two-dimensions-and = Gå et skridt længere med oplev
 firefox-browsers-build-sites-and-refine-your = Byg websteder og gør din kode endnu bedre med { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Læs mere om { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Slut dig til { -brand-name-firefox } og få mest muligt ud af alle produkterne - på tværs af enheder.
+# Outdated string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
