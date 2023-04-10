@@ -8,7 +8,7 @@
 best-browser-find-your-best-browser = ਗਤੀ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ ਲਈ ਆਪਣਾ ਸਭ ਤੋਂ ਵਧੀਆ ਬਰਾਊਜ਼ਰ ਲੱਭੋ।
 best-browser-privacy-speed-and-security = ਪਰਦੇਦਾਰੀ, ਗਤੀ, ਅਤੇ ਸੁਰੱਖਿਆ।
 best-browser-how-to-choose-the-best = ਤੁਹਾਡੇ ਲਈ ਵਧੀਆ ਬਰਾਊਜ਼ਰ ਦੀ ਚੋਣ ਕਿਵੇਂ ਕਰੀਏ।
-best-browser-a-browser-built-for = ਇੱਕ ਬਰਾਊਜ਼ਰ ਗਤੀ ਲਈ ਬਣਾਇਆ ਗਿਆ।
-best-browser-a-browser-that-puts = ਇੱਕ ਬਰਾਊਜ਼ਰ ਜੋ ਸੁਰੱਖਿਆ ਨੂੰ ਪਹਿਲਾਂ ਰੱਖਦਾ ਹੈ।
-best-browser-a-browser-that-minds = ਇੱਕ ਬਰਾਊਜ਼ਰ ਜੋ ਇਸਦੇ ਕਾਰੋਬਾਰ ਨੂੰ ਧਿਆਨ ਵਿੱਚ ਰੱਖਦਾ ਹੈ।
+best-browser-a-browser-built-for = ਗਤੀ ਲਈ ਬਣਾਇਆ ਗਿਆ ਬਰਾਊਜ਼ਰ।
+best-browser-a-browser-that-puts = ਸੁਰੱਖਿਆ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲਾ ਬਰਾਊਜ਼ਰ।
+best-browser-a-browser-that-minds = ਆਪਣੇ ਮਤਲਬ ਨਾਲ ਮਤਲਬ ਰੱਖਣ ਵਾਲਾ ਬਰਾਊਜ਼ਰ ਹੈ।
 best-browser-take-control-of-your = ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦਾ ਕੰਟਰੋਲ ਆਪਣੇ ਹੱਥ ਲਵੋ।
