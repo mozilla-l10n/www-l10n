@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-a-better-internet-experience = ਬਿਹਤਰੀਨ ਇੰਟਰਨੈੱਟ ਤਜ਼ਰਬਾ
-features-shared-more-firefox-features = ਹੋਰ { -brand-name-firefox } ਬਰਾਉਜ਼ਰ ਫੀਚਰ
-features-shared-browse-faster = ਵੱਧ ਤੇਜ਼ ਬਰਾਉਜ਼ ਕਰੋ
+features-shared-more-firefox-features = ਹੋਰ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਫੀਚਰ
+features-shared-browse-faster = ਵੱਧ ਤੇਜ਼ ਬਰਾਊਜ਼ ਕਰੋ
 features-shared-your-favorite-extensions = ਤੁਹਾਡੀਆਂ ਮਨਪਸੰਦ ਇਕਸਟੈਨਸ਼ਨਾਂ
 features-shared-balanced-memory = ਸੰਤੁਲਿਤ ਮੈਮਰੀ
 features-shared-more-powerful-private-browsing = ਵੱਧ ਮਜ਼ਬੂਤ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ

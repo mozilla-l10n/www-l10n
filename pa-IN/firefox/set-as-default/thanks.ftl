@@ -26,7 +26,7 @@ set-as-default-thanks-join-firefox = { -brand-name-firefox } ਦਾ ਹਿੱਸ
 set-as-default-thanks-sign-up-for-a-free-account = ਮੁਫ਼ਤ ਖਾਤੇ ਲਈ ਸਾਇਨ ਅੱਪ ਕਰੋ ਅਤੇ ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਸਾਰੇ ਪਾਸਵਰਡਾਂ, ਬਰਾਊਜ਼ਰ ਅਤੀਤ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = ਖਾਤਾ ਲਵੋ
-set-as-default-thanks-having-trouble = ਸਮੱਸਿਆ ਹੈ?
+set-as-default-thanks-having-trouble = ਕੋਈ ਸਮੱਸਿਆ ਹੈ?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
 #   $desktop (url) - link to https://support.mozilla.org/kb/make-firefox-your-default-browser
