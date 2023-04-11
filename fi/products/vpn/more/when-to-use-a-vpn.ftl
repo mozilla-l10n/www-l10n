@@ -18,9 +18,21 @@ vpn-when-to-use-having-a-vpn = Mahdollisuus käyttää VPN:ää saattaa tulla ta
 vpn-when-to-use-1-a-walk = 1. Kävely puistossa
 vpn-when-to-use-2-in-the = 2. Naapurustossa
 vpn-when-to-use-3-on-the = 3. Tien päällä
+vpn-when-to-use-4-home-away = 4. Kotona kaukana kotoa
 vpn-when-to-use-5-in-your = 5. Omassa kodissa
+vpn-when-to-use-for-the-most = Useimmiten yllä olevat tilanteet eivät koske kotiverkkoasi, olettaen se on määritetty oikein vahvalla salasanalla ja turvatoimilla. Se ei silti tarkoita, että olet suojassa uteliailta katseilta.
 vpn-when-to-use-make-sure-you = Varmista, että ymmärrät, mitä VPN ei tee
 # Variables
 #   $book (url) - https://www.mozilla.org/firefox/privacy/book/
 vpn-when-to-use-a-vpn-provides = VPN tarjoaa tärkeän tietoturvalinkin suojaamalla yksityisiä tietojasi, ennen kuin ne kulkevat Internetissä, ja se myös piilottaa IP-osoitteesi, mikä auttaa suojaamaan henkilöyttäsi ja sijaintiasi. Se ei kuitenkaan estä sinua napsauttamasta epäilyttäviä linkkejä, lataamasta haittaohjelmia tai joutumasta sähköpostipetosten uhriksi. Sinun on silti harjoitettava <a href="{ $book }">hyviä tapoja pysyäksesi turvassa verkossa</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, luotettava VPN-palvelu
+# Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-when-to-use-the-most-important = Tärkein huomioitava asia VPN:ää valittaessa on luotettavan yrityksen valinta. Varmista, että ymmärrät ehdot, jotka hyväksyt. Monet väittävät olevansa mahtavia ja keskittyvänsä yksityisyyteen, mutta monet eivät täytä lupauksiaan. Kaikki välityspalvelin- ja VPN-palvelut eivät ole turvallisia ja yksityisiä. Jotkin palvelut <a href="{ $cnet }">muodostavat</a> <a href="{ $pcmag }">lokia</a> toimistasi verkossa, jotta tietojasi voidaan myydä markkinointiyrityksille. Jotkin palvelut yrittävät jopa saada sinut asentamaan haittaohjelmia laitteillesi.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-when-to-use-weve-done-the = Olemme tehneet työtä varmistaaksemme, että <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> todella kunnioittaa yksityisyyttäsi, ja olemme valmiita asettamaan maineemme sen varaan. { -brand-name-mozilla } on tunnettu tuotteista, jotka auttavat pitämään tietosi turvassa. Noudatamme selkokielisiä ja ymmärrettäviä <a href="{ $principles }">tietojen suojausperiaatteita</a>, joiden avulla voimme keskittyä vain tietoihin, joita tarvitsemme palvelun tuottamiseen. Ja koska tämän VPN:n tekijöitä tukee <a href="{ $mission }">tehtävälähtöinen</a> yritys, voit luottaa siihen, että tähän tuotteeseen käyttämäsi rahat eivät takaa sinulle vain ensiluokkaista tietoturvaa, vaan tekevät Internetistä myös paremman kaikille.
