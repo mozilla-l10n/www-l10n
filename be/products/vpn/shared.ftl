@@ -15,8 +15,18 @@ vpn-shared-available-countries-v5 = Зараз мы прадстаўляем { -
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-дзённая гарантыя вяртання грошай
 vpn-shared-features-encrypt = Шыфраванне на ўзроўні прылады
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = Больш за { $servers } сервераў у больш чым { $countries } краінах
 vpn-shared-features-bandwidth = Неабмежаваная прапускная здольнасць
 vpn-shared-features-activity = Без журналявання вашай сеткавай актыўнасці
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = Магчымасць падлучэння да { $devices } прылад
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Абарона да { $devices } прылад
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = Даступна ў { $countries } краінах. Хутка з'явяцца іншыя рэгіёны
