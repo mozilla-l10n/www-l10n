@@ -42,3 +42,10 @@ vpn-or-proxy-choose-a-trustworthy = Valitse luotettava palvelu
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
 vpn-or-proxy-the-most-important = Tärkein huomioitava asia VPN:ää tai välityspalvelinta valittaessa on luotettavan yrityksen valinta. Varmista, että ymmärrät ehdot, jotka hyväksyt. Monet väittävät olevansa mahtavia ja keskittyvänsä yksityisyyteen, mutta monet eivät täytä lupauksiaan. Kaikki välityspalvelin- ja VPN-palvelut eivät ole turvallisia ja yksityisiä. Jotkin palvelut <a href="{ $cnet }">muodostavat</a> <a href="{ $pcmag }">lokia</a> toimistasi verkossa, jotta tietojasi voidaan myydä markkinointiyrityksille. Jotkin palvelut yrittävät jopa saada sinut asentamaan haittaohjelmia laitteillesi.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $fpn (url) - https://fpn.firefox.com/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-or-proxy-weve-done-the = Olemme tehneet työtä varmistaaksemme, että <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ja <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> -välityspalvelinlaajennus todella kunnioittavat yksityisyyttäsi, ja olemme valmiita asettamaan maineemme sen varaan. { -brand-name-mozilla } on tunnettu tuotteista, jotka auttavat pitämään tietosi turvassa. Noudatamme selkokielisiä ja ymmärrettäviä <a href="{ $principles }">tietojen suojausperiaatteita</a>, joiden avulla voimme keskittyä vain tietoihin, joita tarvitsemme palvelun tuottamiseen. Ja koska tämän VPN:n tekijöitä tukee <a href="{ $mission }">tehtävälähtöinen</a> yritys, voit luottaa siihen, että tähän tuotteeseen käyttämäsi rahat eivät takaa sinulle vain ensiluokkaista tietoturvaa, vaan tekevät Internetistä myös paremman kaikille.
