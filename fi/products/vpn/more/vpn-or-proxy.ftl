@@ -33,6 +33,10 @@ vpn-or-proxy-vpns-do-more = VPN:t tekevät enemmän kuin välityspalvelimet, sil
 vpn-or-proxy-a-vpn-works = VPN toimii luomalla suojatun "tunnelin" laitteesi ja Internetin välille. Se suojaa yksityisyyttäsi kahdella keskeisellä tavalla:
 vpn-or-proxy-concealing-your-ip = Häivyttämällä todellisen IP-osoitteesi. Tämä suojaa henkilöyttäsi ja peittää sijaintisi.
 vpn-or-proxy-encrypting-your-traffic = Salaamalla sinun ja VPN-palveluntarjoajasi välisen liikenteen, jotta kukaan paikallisessa verkossasi ei voi tulkita tai muokata liikennettä.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = VPN tarjoaa suojan myös avoimissa ja julkisissa WiFi-yhteyksissä. Avoin WiFi voi olla riskialtis, ja on mahdotonta olla varma, että joku muu ei muodosta yhteyttä samaan verkkoon nuuskiakseen mitä teet. Vaikka liikenne on salattua, on silti mahdollista nähdä, millä sivustoilla vierailet. Ja jos käytät sovellusta, jossa ei ole salausta – ja monissa sovelluksissa ei vielä nykyäänkään ole – on mahdollista nähdä, mitä teet kyseisessä sovelluksessa. { -brand-name-mozilla-vpn } on nopea, turvallinen ja luotettava palvelu, joka voi auttaa tietoturvapuutteiden täyttämisessä. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> antaa sinun myös valita “sijaintisi” (josta liikenne näyttää tulevan) yli { $countries } eri maasta.
 vpn-or-proxy-choose-a-trustworthy = Valitse luotettava palvelu
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
