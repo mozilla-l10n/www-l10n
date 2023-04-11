@@ -12,6 +12,7 @@ vpn-desktop-page-description = Saa nopeaa ja helppoa turvallisuutta pöytätieto
 vpn-desktop-hero-headline = Suojaa Internet-yhteytesi { -brand-name-mozilla-vpn }:n työpöytäsovelluksella
 vpn-desktop-maker-of-firefox = { -brand-name-firefox }-selaimen valmistajana ja yhtenä luotettavimmista Internetin yksityisyyden puolustajista { -brand-name-mozilla } on sitoutunut varmistamaan, että tunnet olosi turvalliseksi ja arvostetuksi joka kerta, kun käyt verkossa.
 vpn-desktop-wifi-headline = Tunne olosi turvalliseksi käyttäessäsi julkista wifiä
+vpn-desktop-wifi-copy = VPN-verkkomme suojaa Internet-yhteytesi hakkereilta ja vakoojilta, joten voit tehdä ostoksia kahvilassa, tarkistaa pankkitilisi junasta ja hoitaa verkkoasioitasi missä tahansa ilman turvallisuushuolia.
 vpn-desktop-about-headline = Tietoja { -brand-name-mozilla }sta
 vpn-desktop-privacy-headline = Yksityisyyttä yhdellä napsautuksella
 vpn-desktop-privacy-copy = { -brand-name-mozilla-vpn } -sovellus salaa Internet-yhteytesi ja piilottaa matkapuhelimesi tai tablet-laitteesi IP-osoitteen käyttämällä edistynyttä { -brand-name-wireguard }® -yhteyskäytäntöä.
