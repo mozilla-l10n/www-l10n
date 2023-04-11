@@ -10,6 +10,8 @@
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } { -brand-name-windows } 10:lle
 vpn-windows-page-description = Suojaa koko tietokoneesi virtuaalisella erillisverkolla (VPN), jonka tarjoaa Internet-pioneeri { -brand-name-mozilla }, joka on taistellut digitaalisen yksityisyytesi puolesta vuodesta 1998.
+# Windows strings
+vpn-windows-hero-headline = Pysy yhteydessä ja suojattuna { -brand-name-mozilla-vpn } { -brand-name-windows } 10:lle
 vpn-windows-wifi-headline = Pysy yksityisenä julkisessa wifissä
 vpn-windows-about-headline = Internet-yksityisyyden johtajalta
 vpn-windows-privacy-headline = Suojausta napin painalluksella
