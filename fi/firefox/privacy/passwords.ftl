@@ -34,6 +34,7 @@ privacy-passwords-a-padlock-with = Riippulukko, jonka läpi kulkee viiva, osoitt
 privacy-passwords-firefox-will-v2 = { -brand-name-firefox } näyttää varoituksen verkkosivuston sijaan, jos sivuston tiedetään olevan tietojenkalastelusivusto.
 # Outdated string
 privacy-passwords-firefox-will = Firefox näyttää varoituksen verkkosivuston sijaan, jos sivuston tiedetään olevan tietojenkalastelusivusto.
+privacy-passwords-strength-in-diversity = Vahvuutta monimuotoisuudesta
 privacy-passwords-security-questions-my = Turvakysymykset: Äitini tyttönimi on "Ff926AKa9j6Q"
 privacy-passwords-get-help-from = Tartu salasanojen hallinnan apuun
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics

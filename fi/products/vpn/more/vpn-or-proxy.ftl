@@ -7,5 +7,10 @@
 
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = VPN:n ja välityspalvelimen eroavaisuudet
-vpn-or-proxy-vpns-devicelevel-protection = VPN:t: laitetason suojaa
+# HTML page description and intro
+vpn-or-proxy-vpns-and-proxies-are = VPN:t ja välityspalvelimet ovat ratkaisuja verkossa tarvittavaan yksityisyyteen ja turvallisuuteen. Näin ne suojaavat sinua, ja näin valitset parhaan vaihtoehdon tarpeisiisi.
+vpn-or-proxy-stop-isps-from = Estä Internet-palveluntarjoajia vakoilemasta sinua
+vpn-or-proxy-secure-web-proxy = Suojattu verkkovälityspalvelin: selaintason suojausta
+vpn-or-proxy-vpns-devicelevel-protection = VPN:t: laitetason suojausta
+vpn-or-proxy-encrypting-your-traffic = Salaamalla sinun ja VPN-palveluntarjoajasi välisen liikenteen, jotta kukaan paikallisessa verkossasi ei voi tulkita tai muokata liikennettä.
 vpn-or-proxy-choose-a-trustworthy = Valitse luotettava palvelu
