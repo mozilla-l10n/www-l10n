@@ -18,6 +18,8 @@ vpn-ip-address-does-it-travel = Pysyykö IP-osoite mukanani?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-no-your-ip-v2 = Ei. IP-osoitteesi on liitetty vain yhteen sijaintiin, ellet käytä VPN:ää (käsittelemme tätä lisää myöhemmin). Kun olet kotonasi ja muodostat yhteyden Internetiin, josta maksat, käytät kyseisen yhteyden IP-osoitetta. Jos kuitenkin tarkistat sähköpostisi kotona aamulla, selaat uutiset paikallisessa kahvilassa kahvia odotellessa ja työskentelet sitten toimistolla, olet käyttänyt eri IP-osoitteita kussakin paikassa.
+# Outdated string
+vpn-ip-address-no-your-ip = Ei. IP-osoitteesi on liitetty vain yhteen sijaintiin, ellet <a href="{ $url }">käytä VPN:ää</a> (käsittelemme tätä lisää myöhemmin). Kun olet kotonasi ja muodostat yhteyden Internetiin, josta maksat, käytät kyseisen yhteyden IP-osoitetta. Jos kuitenkin tarkistat sähköpostisi kotona aamulla, selaat uutiset paikallisessa kahvilassa kahvia odotellessa ja työskentelet sitten toimistolla, olet käyttänyt eri IP-osoitteita kussakin paikassa.
 vpn-ip-address-does-your-ip = Muuttuuko IP-osoitteesi?
 vpn-ip-address-yes-even-if = Kyllä. Vaikka käyttäisit Internetiä vain kotona, kotiyhteytesi IP-osoite voi muuttua. Voit ottaa yhteyttä Internet-palveluntarjoajaasi (ISP) muuttaaksesi IP-osoitteesi, mutta jopa modeemin tai reitittimen uudelleenkäynnistäminen Internet-yhteysongelmien vuoksi voi johtaa IP-osoitteen vaihtumiseen.
 vpn-ip-address-can-more-than = Voiko useammalla kuin yhdellä laitteella olla sama IP-osoite?
