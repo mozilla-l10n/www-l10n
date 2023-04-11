@@ -23,9 +23,13 @@ vpn-or-proxy-vpns-and-secure = VPN-verkoilla ja suojatuilla välityspalvelimilla
 vpn-or-proxy-secure-web-proxy = Suojattu verkkovälityspalvelin: selaintason suojausta
 vpn-or-proxy-a-secure-web = Suojattu välityspalvelin toimii silloin, kun teet erilaisia asioita vain selaimessasi. Tämä voi tarkoittaa paljon erilaisia asioita, kuten verkko-ostoksia, laskujen maksamista, sosiaalisen median palveluihin kirjautumista ja sähköpostien lukemista. Suojattu välityspalvelin toimii välittäjänä selaimesi ja Internetin välillä. Selaustietosi kulkevat suojatun tunnelin kautta Internetiin selaimestasi peittäen IP-osoitteesi, joten verkkopalvelin, johon otat yhteyttä, ei tiedä tarkalleen missä päin maailmaa olet. Se tekee sinusta aiempaa vaikeammin jäljitettävän.
 # Variables
+#   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
+vpn-or-proxy-a-proxy-is-useful = Välityspalvelin on hyödyllinen, kun selaat verkkoa julkisella WiFi-yhteydellä. Kun välityspalvelin on käytössä, se estää samassa verkossa mahdollisesti olevia salakuuntelijoita vakoilemasta selaustoimintaasi tai lukemasta tapahtumiasi salaamattomilla sivustoilla. Se kuulostaa harmittomalta, mutta julkiset WiFi-verkot voivat olla kuin takaovia <a href="{ $url }">hakkereille</a>.
+# Variables
 #   $fpn (url) - https://fpn.firefox.com
 vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> on helposti asennettava selainlaajennus, joka tarjoaa turvallisen, salatun tunnelin verkkoon ja suojaa selainyhteyttäsi kaikkialla missä käytät { -brand-name-firefox }ia. Se on nopea ja helppo ottaa käyttöön aina, kun tarvitset lisäsuojausta selaimeesi.
 vpn-or-proxy-vpns-devicelevel-protection = VPN:t: laitetason suojausta
+vpn-or-proxy-vpns-do-more = VPN:t tekevät enemmän kuin välityspalvelimet, sillä välityspalvelin suojaa vain sitä, mitä teet selaimessasi. VPN suojaa kaikkea liikennettä, mukaan lukien selaimen kautta muodostettua liikennettä, missä tahansa sinulla on VPN asennettuna ja käytössä. VPN:t tarjoavat lisäturvaa ja yksityisyyttä kaikkeen toimintaasi verkossa – tämä on tärkeä näkökulma, jos haluat pitää toimintasi omana tietonasi ja vaikeuttaa tietoa tavoittelevien seurainten ja Internet-palveluntarjoajien luoda sinusta profiilin.
 vpn-or-proxy-a-vpn-works = VPN toimii luomalla suojatun "tunnelin" laitteesi ja Internetin välille. Se suojaa yksityisyyttäsi kahdella keskeisellä tavalla:
 vpn-or-proxy-concealing-your-ip = Häivyttämällä todellisen IP-osoitteesi. Tämä suojaa henkilöyttäsi ja peittää sijaintisi.
 vpn-or-proxy-encrypting-your-traffic = Salaamalla sinun ja VPN-palveluntarjoajasi välisen liikenteen, jotta kukaan paikallisessa verkossasi ei voi tulkita tai muokata liikennettä.
