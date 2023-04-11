@@ -7,6 +7,8 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } { -brand-name-android }ille
+# Mobile strings
+vpn-android-hero-headline = { -brand-name-mozilla-vpn } { -brand-name-android }ille antaa suojaa ja yksityisyyttä verkossa
 vpn-android-wifi-headline = Pysy turvassa verkossa, kun olet liikkeellä
 vpn-android-about-headline = { -brand-name-mozilla } on nimi, johon voit luottaa
 vpn-android-privacy-headline = Yhdistä yhdellä napautuksella
