@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
 
 # HTML page title and main title
-vpn-what-is-what-is-a-vpn = Mikä VPN on?
+vpn-what-is-what-is-a-vpn = Mikä on VPN?
 # HTML page description and intro
 vpn-what-is-get-answers-to-nine = Vastauksia yhdeksään yleiseen VPN:ää koskevaan kysymykseen, jotta tiedät, mitä VPN tekee, milloin sellaista kannattaa käyttää ja miksi.
 vpn-what-is-many-of-us = Monet meistä käyttävät Internetiä useita tunteja päivässä tehdäkseen päivittäisiä asioitaan, kuten videoiden katsomista, ostoksia, pelaamista ja laskujen maksamista, aina monimutkaisten työprojektien hallintaan ja luottamuksellisiin videopuheluihin. <strong>Virtual Private Network (VPN)</strong> eli virtuaalinen erillisverkko on yksi parhaista tavoista pysyä yksityisenä ja turvassa verkossa ja pitää henkilökohtaiset tiedot suojattuna.
