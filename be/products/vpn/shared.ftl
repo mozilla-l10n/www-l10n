@@ -18,6 +18,9 @@ vpn-shared-features-encrypt = Шыфраванне на ўзроўні прыл�
 vpn-shared-features-bandwidth = Неабмежаваная прапускная здольнасць
 vpn-shared-features-activity = Без журналявання вашай сеткавай актыўнасці
 # Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Даступна ў { $countries } краінах. Хутка з'явяцца іншыя рэгіёны
+# Variables:
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Глядзіце наш поўны спіс <a href="{ $url }" { $attrs }>сервераў</a>.
@@ -29,8 +32,10 @@ vpn-shared-features-strong-servers = Моцныя серверы ў { $countries
 vpn-shared-features-connect = Падключыце да { $devices } прылад
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-дзённая гарантыя вяртання грошай
+vpn-shared-refund-policy = Палітыка вяртання сродкаў
 vpn-shared-privacy-notice = Паведамленне аб прыватнасці
 vpn-shared-terms-conditions = Умовы выкарыстання
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } — зарэгістраваны таварны знак Джэйсана А. Доненфельда
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
