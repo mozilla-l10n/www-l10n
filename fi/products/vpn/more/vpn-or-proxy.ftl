@@ -9,6 +9,7 @@
 vpn-or-proxy-the-difference-between = VPN:n ja välityspalvelimen eroavaisuudet
 # HTML page description and intro
 vpn-or-proxy-vpns-and-proxies-are = VPN:t ja välityspalvelimet ovat ratkaisuja verkossa tarvittavaan yksityisyyteen ja turvallisuuteen. Näin ne suojaavat sinua, ja näin valitset parhaan vaihtoehdon tarpeisiisi.
+vpn-or-proxy-virtual-private-networks = Virtuaaliset erillisverkot (VPN) ja suojatut välityspalvelimet ovat ratkaisuja parempaan yksityisyyteen ja tietoturvaan verkossa, mutta voi olla hämmentävää määrittää, kumpi niistä sopii tarpeisiisi. Tässä on katsaus siihen, kuinka nämä palvelut suojaavat sinua ja kuinka valita paras vaihtoehto, kun olet verkossa.
 vpn-or-proxy-stop-isps-from = Estä Internet-palveluntarjoajia vakoilemasta sinua
 vpn-or-proxy-secure-web-proxy = Suojattu verkkovälityspalvelin: selaintason suojausta
 vpn-or-proxy-vpns-devicelevel-protection = VPN:t: laitetason suojausta
