@@ -76,7 +76,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/maand</span>
 # Monthly price plus tax (shown in US and Canada).
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
-vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + BTW</span>
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/maand + BTW</span>
 # Outdated string
 vpn-shared-pricing-get-6-month = Abonnement voor 6 maanden afsluiten
 # Outdated string
@@ -149,7 +149,7 @@ vpn-add-relay-to-protect = Voeg { -brand-name-firefox-relay } toe aan uw abonnem
 vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> toevoegen
 vpn-shared-relay-email-masking = E-mailmaskering
 vpn-shared-relay-phone-masking = Telefoonmaskering
-vpn-shared-get-vpn-plus-relay = Download { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-get-vpn-plus-relay = { -brand-name-vpn } + { -brand-name-relay } downloaden
 vpn-shared-why-bundle = Waarom bundelen?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
