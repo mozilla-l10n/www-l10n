@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 syytä käyttää VPN:ää
+vpn-when-to-use-concealing-your-true = Häivyttämällä todellisen IP-osoitteesi. Tämä suojaa henkilöyttäsi ja peittää sijaintisi.
+vpn-when-to-use-encrypting-your-traffic = Salaamalla sinun ja VPN-palveluntarjoajasi välisen liikenteen, jotta kukaan paikallisessa verkossasi ei voi tulkita tai muokata liikennettä.
 vpn-when-to-use-1-a-walk = 1. Kävely puistossa
 vpn-when-to-use-2-in-the = 2. Naapurustossa
 vpn-when-to-use-3-on-the = 3. Tien päällä

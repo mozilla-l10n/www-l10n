@@ -10,6 +10,8 @@ vpn-what-is-what-is-a-vpn = Mikä VPN on?
 # HTML page description and intro
 vpn-what-is-get-answers-to-nine = Vastauksia yhdeksään yleiseen VPN:ää koskevaan kysymykseen, jotta tiedät, mitä VPN tekee, milloin sellaista kannattaa käyttää ja miksi.
 vpn-what-is-how-do-vpns = Miten VPN:t toimivat?
+vpn-what-is-concealing-your-ip = Peittäen IP-osoitteesi, siten henkilöytesi ja sijaintitietosi suojaaminen.
+vpn-what-is-encrypting-your-traffic = Salaamalla sinun ja VPN-palveluntarjoajasi välisen liikenteen, jotta kukaan paikallisessa verkossasi ei voi tulkita tai muokata liikennettä.
 vpn-what-is-when-should-i = Milloin minun pitäisi käyttää VPN:ää?
 vpn-what-is-wait-i-thought = Luulin, että Internet-liikenneni on jo salattu HTTPS:llä…
 vpn-what-is-why-would-i = Miksi käyttäisin VPN:ää?
