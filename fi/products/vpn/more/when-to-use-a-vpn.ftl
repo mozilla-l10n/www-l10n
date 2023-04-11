@@ -16,6 +16,7 @@ vpn-when-to-use-concealing-your-true = Häivyttämällä todellisen IP-osoittees
 vpn-when-to-use-encrypting-your-traffic = Salaamalla sinun ja VPN-palveluntarjoajasi välisen liikenteen, jotta kukaan paikallisessa verkossasi ei voi tulkita tai muokata liikennettä.
 vpn-when-to-use-having-a-vpn = Mahdollisuus käyttää VPN:ää saattaa tulla tarpeeseen. Tässä on muutama tilanne, joita et ehkä ole tiedostanut, kun luotettava VPN voi olla tarpeen.
 vpn-when-to-use-1-a-walk = 1. Kävely puistossa
+vpn-when-to-use-its-a-beautiful = On kaunis lauantaiaamu, ja olet asettunut puiston penkille siemailemaan kahvia ja selailemaan uutissivustoja, katsomaan muutamia videoita ja tekemään verkko-ostoksia samalla kun otat aurinkoa ja hengität raitista ilmaa. Sen sijaan, että käytät käytön mukaan laskutettavaa mobiilidatayhteyttä, käytät kaupungin tuottamaa julkista WiFi-yhteyttä. Se on ilmainen ja kaupungin ylläpitämä, joten sen täytyy olla kunnossa, eikö? Todellisuudessa et voi olla varma, että kunnallinen verkko on turvallinen tai edes todellinen (katso seuraava kohta) ja että se on määritetty suojaamaan sinua pahantahtoisilta tahoilta, kun olet muodostanut yhteyden. VPN:n ottaminen käyttöön voi auttaa suojaamaan laitettasi kaikilta, jotka yrittävät nuuskia vierailemiasi sivustoja tai kaapata arkaluontoisia kirjautumistietojasi, kun olet löytänyt mukavan puiston penkin minä tahansa viikonpäivänä.
 vpn-when-to-use-2-in-the = 2. Naapurustossa
 vpn-when-to-use-3-on-the = 3. Tien päällä
 vpn-when-to-use-4-home-away = 4. Kotona kaukana kotoa
