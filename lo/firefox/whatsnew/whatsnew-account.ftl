@@ -11,5 +11,7 @@
 
 ##
 
+whatsnew-account-signed-in-lead-in = ສົ່ງລິ້ງດາວໂຫລດໄປຫາໂທລະສັບຂອງທ່ານ.
+whatsnew-account-signed-in-qr-title = ດາວໂຫຼດ { -brand-name-firefox } ສຳລັບສະມາດໂຟນ ແລະ ແທັບເລັດຂອງທ່ານ.
 # An accessible label for a QR code image
 whatsnew-account-qr-code-alt = ສະແກນລະຫັດ QR ນີ້
