@@ -45,6 +45,7 @@ is-firefox-safe = Onko { -brand-name-firefox } turvallinen?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = Sen lisäksi, että { -brand-name-firefox } on turvallinen käyttää, se auttaa myös pitämään tietosi ja yksityiset tietosi turvassa. { -brand-name-firefox-browser } estää automaattisesti tunnettuja kolmannen osapuolen seuraimia, sosiaalisen median seuraimia, kryptolouhijoita ja yksilöijiä keräämästä tietojasi. <a href="{ $url }">Lisätietoja tuotteidemme tietosuojasta.</a>
 related-questions-safe = Aiheeseen liittyviä kysymyksiä: onko { -brand-name-firefox } hyvä yksityisyyden kannalta, onko { -brand-name-firefox } turvallinen, onko { -brand-name-firefox } parempi yksityisyyden kannalta
 does-firefox-sell = Myykö { -brand-name-firefox } henkilökohtaiset tietoni?
 
@@ -74,3 +75,4 @@ who-owns-firefox = Kuka omistaa { -brand-name-firefox }in?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+related-questions-who = Aiheeseen liittyviä kysymyksiä: kuka omistaa { -brand-name-firefox }in, kuka omistaa { -brand-name-firefox-browser }, omistaako { -brand-name-google } { -brand-name-firefox }in, omistaako { -brand-name-google } { -brand-name-mozilla } { -brand-name-firefox }in

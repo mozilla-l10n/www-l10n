@@ -23,4 +23,6 @@ vpn-desktop-servers-copy = Selaa Brasiliasta. Pelaa Japanista. Suoratoista Meksi
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Suojaa jopa { $devices } laitetta
 vpn-desktop-speed-headline = Uskomaton nopeus, ei rajoituksia
+vpn-desktop-speed-copy = Suoratoista videoita, pelaa pelejä, tee ostoksia ja selaa salamannopeasti. { -brand-name-mozilla-vpn } ei rajoita kaistanleveyttäsi tai hidasta älypuhelintasi.
 vpn-desktop-log-headline = Yksityisyytesi on etusijalla
+vpn-desktop-log-copy = { -brand-name-mozilla } ei kerää tietoja siitä, kuka olet tai lokita toimintaasi verkossa – emme VPN:n tai minkään muun tuotteemme kautta. Yksityisyytesi suojaaminen on  tärkeimmän tehtävämme ydin.

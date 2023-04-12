@@ -16,3 +16,4 @@ firefox-sync-your-encryption-key = Salausavaimesi pysyy salaisena, jonka tiedät
 firefox-sync-feel-safe = Tunne olosi turvalliseksi
 firefox-sync-we-store-your = Tallennamme tietosi salattuna palvelimillemme, joten edes me emme voi lukea tietojasi.
 firefox-sync-start-syncing-in = Aloita synkronointi neljällä helpolla vaiheella:
+firefox-sync-click-next-to = Napsauta <strong>Seuraava</strong> saadaksesi vahvistuksen sähköpostiisi.
