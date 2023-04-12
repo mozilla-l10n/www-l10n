@@ -18,4 +18,5 @@ vpn-mobile-servers-headline = Yhdistä palvelimiin kaikkialla maailmassa
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Suojaa jopa { $devices } laitetta
 vpn-mobile-speed-headline = Uskomaton nopeus, ei rajoituksia
+vpn-mobile-speed-copy = Suoratoista videoita, pelaa pelejä, tee ostoksia ja selaa salamannopeasti. { -brand-name-mozilla-vpn } ei rajoita kaistanleveyttäsi tai hidasta älypuhelintasi.
 vpn-mobile-log-headline = Yksityisyytesi on etusijalla
