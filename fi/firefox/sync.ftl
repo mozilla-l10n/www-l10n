@@ -17,3 +17,6 @@ firefox-sync-feel-safe = Tunne olosi turvalliseksi
 firefox-sync-we-store-your = Tallennamme tietosi salattuna palvelimillemme, joten edes me emme voi lukea tietojasi.
 firefox-sync-start-syncing-in = Aloita synkronointi neljällä helpolla vaiheella:
 firefox-sync-click-next-to = Napsauta <strong>Seuraava</strong> saadaksesi vahvistuksen sähköpostiisi.
+firefox-sync-after-you-check = Kun olet tarkistanut sähköpostisi ja napsauttanut vahvistuslinkkiä, { -brand-name-firefox } alkaa automaattisesti synkronoida taustalla.
+# https://support.mozilla.org/kb/firefox-accounts-managing-account-data
+firefox-sync-learn-more = Lisää apua { -brand-name-firefox-account }n hallintaan
