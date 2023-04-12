@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } وِچ 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = پہلے کنوں ای کھاتہ ہے؟ { -brand-name-firefox } وِچ شامل تھیوݨ دے بارے وِچ <a { $fxa_attr }> سائن ان تھیوو </a> یا <a { $accounts_attr }> ٻیا سیکھو </a>
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = پہلے کنوں ای اکاؤٹ ہے؟ فائر فاکس وِچ شامل تھیوݨ دے بارے وِچ <a { $fxa_attr }> سائن ان تھیوو </a> یا <a { $accounts_attr }> ٻیا سیکھو </a>
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
