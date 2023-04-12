@@ -15,6 +15,7 @@ vpn-mobile-maker-of-firefox = Varmista, että puhelimesi Internet-yhteys pysyy y
 #   $devices (number) - number of available devices
 vpn-mobile-ability = { -brand-name-mozilla-vpn } estää hakkereita ja vakoojia näkemästä IP-osoitettasi ja peittää sijaintisi verkossa. Edistyksellisellä salauksella ja ilman kaistanleveysrajoituksia se tekee suoratoistosta ja selaamisesta älypuhelimella tai tabletilla erittäin nopeaa ja turvallista. Pienellä kuukausimaksulla voit suojata jopa { $devices } laitetta ja muodostaa yhteyden kymmeniin palvelimiin maailmanlaajuisesti.
 vpn-mobile-wifi-headline = Tunne olosi turvalliseksi käyttäessäsi julkista wifiä
+vpn-mobile-wifi-copy = VPN-verkkomme suojaa Internet-yhteytesi hakkereilta ja vakoojilta, joten voit tehdä ostoksia kahvilassa, tarkistaa pankkitilisi junasta ja hoitaa verkkoasioitasi missä tahansa tietäen, että IP-osoitteesi on suojattu.
 vpn-mobile-about-headline = Tietoja { -brand-name-mozilla }sta
 vpn-mobile-privacy-headline = Yksityisyyttä yhdellä napsautuksella
 vpn-mobile-privacy-copy = { -brand-name-mozilla-vpn } -sovellus salaa Internet-yhteytesi ja piilottaa matkapuhelimesi tai tablet-laitteesi IP-osoitteen käyttämällä edistynyttä { -brand-name-wireguard }® -yhteyskäytäntöä.
