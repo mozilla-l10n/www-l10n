@@ -16,4 +16,5 @@ welcome-page14-code-copied = Koodi kopioitu!
 welcome-page14-very-fast = Se on nopea, erittäin nopea
 welcome-page14-wireguard-powered = { -brand-name-wireguard }® -pohjaiset palvelimemme on rakennettu nopeutta varten, jotta voit suoratoistaa, ladata ja pelata tavalliseen tapaan.
 welcome-page14-without-trace = Internet ilman jälkiä
+welcome-page14-never-log = Emme koskaan lokita, seuraa tai jaa verkkotietojasi – toimintasi verkossa ei jätä jalanjälkiä VPN-palvelimillemme.
 welcome-page14-why-see-this = Miksi näen tämän?

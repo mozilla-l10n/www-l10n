@@ -13,6 +13,7 @@ page7-get-facebook-container = Hanki { -brand-name-facebook-container }
 page7-facebook-container-also-works = { -brand-name-facebook-container } toimii myös muilla { -brand-name-facebook }in omistamilla sivustoilla, kuten { -brand-name-instagram }, { -brand-name-facebook-messenger } ja { -brand-name-workplace }.
 page7-make-them-unfollow-you = Estä niitä seuraamasta sinua
 page7-that-sneaky-little-button = Se katala pieni painike
+page7-those-innocent-looking-f-buttons = Ne viattoman näköiset F-painikkeet { -brand-name-facebook }ilta seuraavat toimintaasi verkossa, vaikka sinulla ei olisi tiliä. { -brand-name-facebook-container } estää ne.
 page7-stay-ahead-of-hackers = Pysy hakkereiden edellä
 page7-get-firefox-monitor = Hanki { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Miksi näen tämän sivun?
