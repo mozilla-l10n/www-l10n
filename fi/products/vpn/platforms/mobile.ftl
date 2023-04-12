@@ -7,8 +7,13 @@
 
 # Meta strings
 vpn-mobile-page-title = { -brand-name-mozilla-vpn } mobiililaitteille (älypuhelimille ja tablet-laitteille)
+vpn-mobile-page-description = Suojaa älypuhelimesi ja tablettisi VPN:llä { -brand-name-mozilla }lta, luotetulta Internet-yksityisyyden pioneerilta.
 # Mobile strings
 vpn-mobile-hero-headline = Suojaa yksityisyytesi mobiililaitteella { -brand-name-mozilla-vpn }:ää käyttäen
+vpn-mobile-maker-of-firefox = Varmista, että puhelimesi Internet-yhteys pysyy yksityisenä riippumatta siitä, missä ikinä liikutkin { -brand-name-mozilla-vpn }:n kanssa,  joka on välttämätön tietosuojatyökalu { -brand-name-firefox }in tekijöiltä.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-ability = { -brand-name-mozilla-vpn } estää hakkereita ja vakoojia näkemästä IP-osoitettasi ja peittää sijaintisi verkossa. Edistyksellisellä salauksella ja ilman kaistanleveysrajoituksia se tekee suoratoistosta ja selaamisesta älypuhelimella tai tabletilla erittäin nopeaa ja turvallista. Pienellä kuukausimaksulla voit suojata jopa { $devices } laitetta ja muodostaa yhteyden kymmeniin palvelimiin maailmanlaajuisesti.
 vpn-mobile-wifi-headline = Tunne olosi turvalliseksi käyttäessäsi julkista wifiä
 vpn-mobile-about-headline = Tietoja { -brand-name-mozilla }sta
 vpn-mobile-privacy-headline = Yksityisyyttä yhdellä napsautuksella
@@ -20,3 +25,4 @@ vpn-mobile-devices-headline = Suojaa jopa { $devices } laitetta
 vpn-mobile-speed-headline = Uskomaton nopeus, ei rajoituksia
 vpn-mobile-speed-copy = Suoratoista videoita, pelaa pelejä, tee ostoksia ja selaa salamannopeasti. { -brand-name-mozilla-vpn } ei rajoita kaistanleveyttäsi tai hidasta älypuhelintasi.
 vpn-mobile-log-headline = Yksityisyytesi on etusijalla
+vpn-mobile-log-copy = { -brand-name-mozilla } ei kerää tietoja siitä, kuka olet tai lokita toimintaasi verkossa – emme VPN:n tai minkään muun tuotteemme kautta. Yksityisyytesi suojaaminen on { -brand-name-mozilla }n tärkeimmän tehtävän ydin.
