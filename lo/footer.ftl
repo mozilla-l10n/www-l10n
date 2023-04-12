@@ -42,7 +42,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } ສໍາລັບ { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } ສໍາລັບ { -brand-name-android }
-footer-visit-mozilla-corporations = ເຂົ້າໄປເບິ່ງ <a { $moco_link }>{ -brand-name-mozilla-corporation }'s</a> non-for-profit parent, the <a { $mofo_link }>{ -brand-name-mozilla-foundation }< /a>.
+footer-visit-mozilla-corporations = ເຂົ້າໄປເບິ່ງ <a { $moco_link }>{ -brand-name-mozilla-corporation }'s</a> non-for-profit parent, the <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = ບາງສ່ວນຂອງເນື້ອຫານີ້ແມ່ນ ©1998–{ $current_year } ໂດຍຜູ້ປະກອບສ່ວນຂອງ mozilla.org ສ່ວນບຸກຄົນ. ເນື້ອຫາສາມາດໃຊ້ໄດ້ພາຍໃຕ້ໃບອະນຸຍາດ <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = ບໍລິສັດ
