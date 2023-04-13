@@ -11,6 +11,7 @@ misinformation-page-desc = Väärä tieto on ärsyttävää, häiritsevää ja k
 misinformation-page-subheading = Katso vinkit, joiden avulla voit nähdä vähemmän väärää tietoa ja keskittyä siihen, mikä on sinulle tärkeää
 misinformation-what-is-heading = Mitä on väärä tieto? Mitä on disinformaatio?
 misinformation-false-info-heading = Missä väärä tieto näkyy?
+misinformation-tracking-advertising = Saatat olla kuullut seurannasta ensisijaisesti mainonnan yhteydessä. Se on kuitenkin tehokas työkalu myös väärän tiedon levittämisessä. Miksi niin? Kun selaat Internetiä tai sosiaalisen verkostosi syötettä, useat osapuolet seuraavat verkkosivustojen kautta käyttäytymistäsi, kiinnostuksen kohteitasi, yhteystietoja joissain tapauksissa ja paljon muuta luodakseen sinusta erittäin yksityiskohtaisen profiilin, jota voi myydä muille tietämättäsi tai ilman suostumustasi. Näitä profiileja käytetään personoituun mainontaan, mutta niitä voidaan käyttää myös kaikenlaisen kohdistetun tiedon esittämiseksi sinulle.
 misinformation-spot-online-heading = Kuinka havaita väärä tieto verkossa ja auttaa estämään sen leviäminen
 misinformation-look-at-url = Katso verkko-osoitetta ja/tai lähdettä.
 misinformation-known-to-br-credible = Pidetäänkö sitä yleisesti uskottavana? Jos et ole varma, yritä saada lisätietoja lähteestä ja sen maineesta Internetissä.
