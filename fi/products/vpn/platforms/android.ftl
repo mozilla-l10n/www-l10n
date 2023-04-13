@@ -12,12 +12,16 @@ vpn-android-page-description = Saa nopeaa ja helppoa turvallisuutta { -brand-nam
 vpn-android-hero-headline = { -brand-name-mozilla-vpn } { -brand-name-android }ille antaa suojaa ja yksityisyyttä verkossa
 vpn-android-wifi-headline = Pysy turvassa verkossa, kun olet liikkeellä
 vpn-android-about-headline = { -brand-name-mozilla } on nimi, johon voit luottaa
+vpn-android-about-copy = Meidät tunnetaan parhaiten verkkoselaimestamme, { -brand-name-firefox }ista, mutta { -brand-name-mozilla }lla on organisaationa ydintehtävä – taistella oikeuksiesi puolesta verkossa. Sitä olemme tehneet koko ajan vuodesta 1998 lähtien. Olemme Internetin puolestapuhujia ja sitoutuneet varmistamaan, että se pysyy avoimena ja vapaana kunnioittaen samalla kaikkien oikeutta yksityisyyteen ja turvallisuuteen.
 vpn-android-privacy-headline = Yhdistä yhdellä napautuksella
 vpn-android-privacy-copy = { -brand-name-mozilla-vpn }:n käyttäminen { -brand-name-android }illa on erittäin helppoa. Napauta painiketta ja yhteytesi salataan automaattisesti edistyneellä { -brand-name-wireguard }® -yhteyskäytännöllä. Se siitä!
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-android-servers-headline = { $servers }+ palvelinta yli { $countries } maassa
+# Variables:
+#   $countries (number) - number of available countries
+vpn-android-servers-copy = { -brand-name-mozilla-vpn }:llä voit asettaa { -brand-name-android }-puhelimesi sijainnin johonkin yli { $countries } maasta. Tämä tarkoittaa, että näet verkon kuin sen maan näkökulmasta, johon olet yhteydessä. Se on hauska ja mielenkiintoinen tapa kokea verkko uudesta näkökulmasta.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Yksi tilaus jopa { $devices } laitteelle
