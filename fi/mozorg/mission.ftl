@@ -9,6 +9,7 @@ mission-were-building-a-better-internet = Rakennamme parempaa internetiä
 mission-our-mission-is-to-ensure-the-internet = Meidän missiomme on varmistaa, että internet on maailmanlaajuinen julkinen resurssi, joka on kaikille avoin ja kaikkien saavutettavissa. Internet, joka todella asettaa ihmiset etusijalle. jossa yksilöt voivat muodostaa omat kokemuksensa, jossa heillä on toiminnanvapaus ja joka on turvallinen ja sitoutumaton.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Missiomme on tukea avoimuutta, innovaatiota ja osallisuutta netissä.
+mission-at-mozilla-were-a-global-community-v2 = { -brand-name-mozilla } on maailmanlaajuinen teknologien, ajattelijoiden ja rakentajien yhteisö, joka tekee työtä pitääkseen Internetin elossa ja kaikille avoimena, jotta ihmiset kautta maailman voivat olla verkon tunnettuja kehittäjiä ja tukijoita.
 # Outdated string
 mission-at-mozilla-were-a-global-community = Mozilla on maailmanlaajuinen teknologien, ajattelijoiden ja rakentajien yhteisö, joka tekee työtä pitääkseen netin elossa ja kaikille avoimena, jotta ihmiset kautta maailman voivat olla netin tunnettuja kehittäjiä ja tukijoita.
 mission-we-believe-this-act-of-human-collaboration = Uskomme, että tämä ihmisten yhteistyön teko avoimella alustalla on välttämätöntä yksilöiden kehittymisen ja yhteisen tulevaisuutemme kannalta.
