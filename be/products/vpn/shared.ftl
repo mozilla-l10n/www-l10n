@@ -34,6 +34,10 @@ vpn-shared-features-devices = Магчымасць падлучэння да { $
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Абарона да { $devices } прылад
 # Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Падключайцеся да больш чым { $servers } сервераў больш чым у { $countries } краінах
+# Variables:
 #   $countries (number) - number of available countries
 vpn-shared-countries-coming-soon = Даступна ў { $countries } краінах. Хутка з'явяцца іншыя рэгіёны
 # Variables:
