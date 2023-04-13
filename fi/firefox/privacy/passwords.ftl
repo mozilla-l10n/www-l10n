@@ -29,6 +29,7 @@ privacy-passwords-using-password-recovery = Käyttämällä salasanan palautusta
 privacy-passwords-tricking-you-into = Huijaamalla sinua antamaan salasanasi
 privacy-passwords-to-keep-your = Pitääksesi kirjautumistietosi turvassa, sinun on estettävä mahdollisimman monet näistä eri tavoista. Jokaisella riskillä on vastaava estokeino.
 privacy-passwords-look-for-the = Etsi lukkoa selaimestasi
+privacy-passwords-its-easy-to = On helppoa estää hyökkääjiä varastamasta salasanaasi, kun kirjaudut sisään verkkosivustoon, joka ei tue salattua yhteyttä: Harkitse kahdesti, ennen kuin kirjoitat salasanasi, jos et näe lukkokuvaketta osoitepalkissa, kuten tässä:
 privacy-passwords-a-closed-lock = Suljettu riippulukko näkyy ennen verkkosivuston osoitetta osoitepalkissa kaikissa yleisimmissä selaimissa.
 privacy-passwords-the-lock-means = Lukon kuva tarkoittaa, että yhteys käyttämääsi verkkosivustoon on salattu, joten vaikka joku seuraisi selaamistasi verkossa (kuten toinen henkilö julkisessa WiFi-verkossa), hän ei näe salasanaasi. { -brand-name-firefox } yrittää varoittaa sinua, kun olet kirjoittamassa salasanaasi sivustolle, johon ei ole muodostettu salattua yhteyttä.
 privacy-passwords-a-padlock-with = Riippulukko, jonka läpi kulkee viiva, osoittaa, että yhteys ei ole turvallinen.
