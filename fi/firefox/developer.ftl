@@ -64,6 +64,7 @@ firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } saa
 firefox-developer-convenient-features = Kätevät ominaisuudet
 firefox-developer-faster-performance = Nopeampi suorituskyky
 firefox-developer-fonts-panel = Fonttipaneeli
+firefox-developer-the-new-fonts-panel = Uusi fonttipaneeli { -brand-name-firefox-devtools }issa antaa kehittäjille nopean pääsyn kaikkiin elementissä käytettäviin kirjasimiin liittyviin tietoihin. Se sisältää myös arvokasta tietoa, kuten fontin lähteen, painon, tyylin ja paljon muuta.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } lähettää palautetta { -brand-name-mozilla }lle automaattisesti.
 firefox-developer-download-the-firefox-browser = Lataa kehittäjille suunnattu { -brand-name-firefox }-selain
 firefox-developer-welcome-to-the-all-new = Tervetuloa, tämä on täysin uusi { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
