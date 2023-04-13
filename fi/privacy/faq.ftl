@@ -26,8 +26,15 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ei myy sinu
 privacy-faq-wait-so-how-do-you-make-money = Hetkinen, miten oikein tienaatte?
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Okei, ensimmäiset kysymykset olivat yksinkertaisia. Mitä tietoa keräätte?
+# Variables:
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } kerää oletusarvoisesti rajoitetun joukon tietoja { -brand-name-firefox }ista, mikä auttaa meitä ymmärtämään, kuinka ihmiset käyttävät selainta. Nämä tiedot on sidottu satunnaiseen tunnisteeseen nimesi tai sähköpostiosoitteesi sijaan. Voit lukea siitä lisää <a href="{ $privacy }">tietosuojailmoituksestamme</a> ja voit lukea <a href="{ $data }">tämän tiedonkeruun täydellisen dokumentaation</a. >.
+privacy-faq-we-make-our-documentation-public = Julkaisemme dokumentaatiomme, jotta kuka tahansa voi varmistaa, että sanomamme on totta, kertoa meille, jos meidän on parannettava, ja luottaa siihen, että emme salaa mitään.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Dokumentaatio on siansaksaa minulle! Voitteko antaa sen minulle selkeällä suomen kielellä?
+privacy-faq-there-are-two-categories-of = Keräämme oletusarvoisesti kahta tietoluokkaa { -brand-name-firefox }in julkaisuversiossa.
+privacy-faq-the-first-is-what-we-call-technical = Ensimmäinen on se, mitä kutsumme “teknisiksi tiedoiksi”. Nämä ovat tietoja selaimeen liittyen, kuten käyttöjärjestelmästä, jossa selain on käynnissä, ja tietoja selaimen virheistä tai kaatumisista.
 privacy-faq-do-you-collect-more-data-in = Keräättekö enemmän tietoa { -brand-name-firefox }in esijulkaisuversioista?
 privacy-faq-but-why-do-you-collect-any-data = Miksi edes keräätte mitään tietoja?
 privacy-faq-data-collection-still-bugs-me = Tietojen keruu häiritsee silti minua. Voinko estää tietojen keruun?
