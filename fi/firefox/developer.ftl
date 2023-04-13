@@ -72,5 +72,6 @@ firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } on rakennet
 firefox-developer-congrats-you-now-have-firefox = Onnittelut. Sinulla on nyt { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-welcome-to-firefox-browser = Tervetuloa { -brand-name-firefox-browser } { -brand-name-developer-edition }iin
 firefox-developer-made-for-developers = Kehittäjille tehty selain
+firefox-developer-a-separate-profile = <strong>Erillinen profiili ja polku</strong>, jotta voit käyttää sitä { -brand-name-firefox }in julkaisu- tai { -brand-name-beta }-version rinnalla.
 firefox-developer-congrats-you-now-have = Onnittelut. Sinulla on nyt { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 firefox-developer-congrats-you-now-have-latest = Onnittelut. Sinulla on nyt uusin { -brand-name-firefox-browser } { -brand-name-developer-edition } -versio.
