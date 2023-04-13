@@ -11,6 +11,7 @@ vpn-android-page-description = Saa nopeaa ja helppoa turvallisuutta { -brand-nam
 # Mobile strings
 vpn-android-hero-headline = { -brand-name-mozilla-vpn } { -brand-name-android }ille antaa suojaa ja yksityisyyttä verkossa
 vpn-android-wifi-headline = Pysy turvassa verkossa, kun olet liikkeellä
+vpn-android-wifi-copy = Joskus mobiilidatayhteys ei ole käytettävissä ja julkinen wifi on ainoa vaihtoehto. { -brand-name-mozilla-vpn }:llä { -brand-name-android }-laitteellasi sinun ei tarvitse koskaan huolehtia salasanan syöttämisestä lentokentän verkossa tai ostosten tekemisestä paikallisessa kahvilassa – yhdistä vain napauttamalla ja tee sitten mitä haluat.
 vpn-android-about-headline = { -brand-name-mozilla } on nimi, johon voit luottaa
 vpn-android-about-copy = Meidät tunnetaan parhaiten verkkoselaimestamme, { -brand-name-firefox }ista, mutta { -brand-name-mozilla }lla on organisaationa ydintehtävä – taistella oikeuksiesi puolesta verkossa. Sitä olemme tehneet koko ajan vuodesta 1998 lähtien. Olemme Internetin puolestapuhujia ja sitoutuneet varmistamaan, että se pysyy avoimena ja vapaana kunnioittaen samalla kaikkien oikeutta yksityisyyteen ja turvallisuuteen.
 vpn-android-privacy-headline = Yhdistä yhdellä napautuksella

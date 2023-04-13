@@ -35,7 +35,10 @@ privacy-passwords-firefox-will-v2 = { -brand-name-firefox } näyttää varoituks
 # Outdated string
 privacy-passwords-firefox-will = Firefox näyttää varoituksen verkkosivuston sijaan, jos sivuston tiedetään olevan tietojenkalastelusivusto.
 privacy-passwords-strength-in-diversity = Vahvuutta monimuotoisuudesta
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-firefox-monitor = Käytä <a { $url_monitor }>{ -brand-name-firefox-monitor }</a>ia pitääksesi silmällä tileihisi liittyviä sähköpostiosoitteita. Jos sähköpostiosoitteesi paljastuu tunnetussa tietovuodossa, saat ilmoituksen ja ohjeita, joita sinun on noudatettava asianomaisen tilin suojaamiseksi.
 privacy-passwords-security-questions-my = Turvakysymykset: Äitini tyttönimi on "Ff926AKa9j6Q"
+privacy-passwords-finally-most-websites = Useimmat verkkosivustot antavat sinun palauttaa salasanasi, jos olet unohtanut sen. Yleensä nämä järjestelmät vaativat sinun vastata joihinkin "turvakysymyksiin", ennen kuin voit nollata salasanasi. <strong>Näihin kysymyksiin annettujen vastausten on oltava yhtä salaisia kuin salasanasi.</strong> Muussa tapauksessa hyökkääjä voi arvata vastaukset ja asettaa salasanasi johonkin, jonka vain hyökkääjä tietää.
 privacy-passwords-get-help-from = Tartu salasanojen hallinnan apuun
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Kun olet kirjautunut sisään { -brand-name-firefox }iin { -brand-name-firefox }-tililläsi, voit synkronoida kaikki laitteesi ja käyttää salasanojasi { -brand-name-firefox }-mobiiliselaimella. Lisätietoja <a { $url_sumo-manager }>sisäänrakennetun salasananhallinnan käyttämisestä</a>.
