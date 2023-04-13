@@ -30,6 +30,7 @@ privacy-passwords-tricking-you-into = Huijaamalla sinua antamaan salasanasi
 privacy-passwords-to-keep-your = Pitääksesi kirjautumistietosi turvassa, sinun on estettävä mahdollisimman monet näistä eri tavoista. Jokaisella riskillä on vastaava estokeino.
 privacy-passwords-look-for-the = Etsi lukkoa selaimestasi
 privacy-passwords-a-closed-lock = Suljettu riippulukko näkyy ennen verkkosivuston osoitetta osoitepalkissa kaikissa yleisimmissä selaimissa.
+privacy-passwords-the-lock-means = Lukon kuva tarkoittaa, että yhteys käyttämääsi verkkosivustoon on salattu, joten vaikka joku seuraisi selaamistasi verkossa (kuten toinen henkilö julkisessa WiFi-verkossa), hän ei näe salasanaasi. { -brand-name-firefox } yrittää varoittaa sinua, kun olet kirjoittamassa salasanaasi sivustolle, johon ei ole muodostettu salattua yhteyttä.
 privacy-passwords-a-padlock-with = Riippulukko, jonka läpi kulkee viiva, osoittaa, että yhteys ei ole turvallinen.
 privacy-passwords-firefox-will-v2 = { -brand-name-firefox } näyttää varoituksen verkkosivuston sijaan, jos sivuston tiedetään olevan tietojenkalastelusivusto.
 # Outdated string
@@ -43,6 +44,7 @@ privacy-passwords-get-help-from = Tartu salasanojen hallinnan apuun
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Kun olet kirjautunut sisään { -brand-name-firefox }iin { -brand-name-firefox }-tililläsi, voit synkronoida kaikki laitteesi ja käyttää salasanojasi { -brand-name-firefox }-mobiiliselaimella. Lisätietoja <a { $url_sumo-manager }>sisäänrakennetun salasananhallinnan käyttämisestä</a>.
 privacy-passwords-twofactor-authentication-2fa = Kaksivaiheinen todennus (2FA)
+privacy-passwords-2fa-is-a = 2FA on loistava tapa parantaa tietoturvaasi. Kun luot uuden tilin, jotkin sivustot antavat sinulle mahdollisuuden lisätä "toisen tekijän" kirjautumisvaiheeseen. Usein tämä tarkoittaa puhelinnumeron yhdistämistä tiliin, joten salasanan antamisen jälkeen sinua pyydetään antamaan suojattu koodi, joka lähetetään suoraan puhelimeesi tekstiviestitse. Tällä tavalla, jos hakkeri on onnistunut saamaan salasanasi, hän ei silti pääse kirjautumaan tilillesi, koska hänellä ei ole puhelintasi.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Esimerkiksi { -brand-name-firefox }-tilisi on mahdollista suojata 2FA:lla, <a { $url_sumo_2fa }>lisätietoja saat täältä</a>.
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
