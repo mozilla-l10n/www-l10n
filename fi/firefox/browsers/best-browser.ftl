@@ -22,6 +22,11 @@ best-browser-a-browser-that-puts = Selain, joka asettaa turvallisuuden etusijall
 best-browser-remember-the-last-massive = Muistatko viimeisimmän massiivisen tietomurron? Jos et, se johtuu luultavasti siitä, että niitä tapahtuu niin usein. Yritykset pitävät hallussaan asiakkaiden tietoja, kuten heidän henkilö- tai taloustietojaan, ja hakkerit varastavat ne. Jos asetat turvallisuuden etusijalle, suojattu internetselain on sinulle paras selain.
 best-browser-there-are-a-few-ways = On olemassa muutamia tapoja, joilla selain voi auttaa käyttäjiään pysymään turvassa. Selain, joka on ajan tasalla uusimmalla tietoturvatekniikalla, voi auttaa suojaamaan tietokonettasi ja verkkosivustojasi ei-toivotuilta vierailijoilta, kuten haittaohjelmilta tai tietokoneviruksilta.
 best-browser-a-browser-that-minds = Selain joka huolehtii omista asioistaan.
+best-browser-trackers-are-all-those = Seuraimet ovat niitä ärsyttäviä evästeitä, joita saat esimerkiksi lentoyhtiöiden sivustoilta. Nämä kolmannen osapuolen seuraimet tietävät, missä napsautat, ja niitä voidaan käyttää käyttäytymisesi analysointiin. Yksityisen selaimen pitäisi antaa käyttäjille mahdollisuus estää kolmannen osapuolen seuraimet, mieluiten estää ne oletusarvoisesti.
+best-browser-another-way-to-stop = Toinen tapa estää seuraimia seuraamasta on käyttää yksityistä tilaa selaamiseen. Jokaisen selaimen, joka väittää olevansa yksityinen, tulisi tarjota yksityisen selauksen tila.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+best-browser-one-easy-way-to-check = Yksi helppo tapa tarkistaa on käydä selaimen sisältöasetussivulla ja tietosuojakäytännössä. Tietosuojasivulla tulee kertoa, jaetaanko tietojasi ja miksi. Tästä syystä <a href="{ $privacy }">{ -brand-name-firefox }in tietosuojailmoitus</a> on helppolukuinen ja helposti löydettävissä.
 best-browser-choosing-the-best-browser = Parhaan selaimen valitseminen on samanlaista kuin kodin valitseminen. Haluat tutkia vaihtoehtojasi, tehdä tutkimusta ja tehdä päätöksen sen perusteella, mikä on sinulle tärkeää.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
