@@ -18,6 +18,7 @@ developer-mdnplus-notifications = ການແຈ້ງເຕືອນ
 developer-mdnplus-development-in-real-time = ການພັດທະນາໃນເວລາຈິງ: ຮັບການແຈ້ງເຕືອນແບບກຳນົດເອງ
 developer-mdnplus-collections = ການສະສົມ
 developer-mdnplus-build-your-perfect-library = ສ້າງຫ້ອງສະຫມຸດທີ່ສົມບູນແບບຂອງທ່ານ. ຫຼືໃຫ້ພວກເຮົາສ້າງມັນສໍາລັບທ່ານ.
+developer-mdnplus-no-more-haphazard-hunting = ບໍ່ມີການລ່າສັດທີ່ຫຍຸ້ງຍາກອີກຕໍ່ໄປຜ່ານຫ້ອງສະໝຸດສະເໝືອນທີ່ກວ້າງໃຫຍ່: ປ່ອຍຕົວຄຸ້ມຄອງພາຍໃນຂອງເຈົ້າ ແລະ ເກັບກຳບົດຄວາມທີ່ເຈົ້າມັກໄວ້ບ່ອນດຽວເພື່ອປຶກສາຫາລືທີ່ສະດວກ.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } ອອບລາຍ
 developer-mdnplus-mdns-entire-library-at-your = ຫ້ອງສະໝຸດທັງໝົດຂອງ { -brand-name-mdn } ຢູ່ປາຍນິ້ວມືຂອງທ່ານ: ອອບລາຍ
 developer-mdnplus-resources-for-developers = ຊັບພະຍາກອນສໍາລັບນັກພັດທະນາ, ໂດຍນັກພັດທະນາ.

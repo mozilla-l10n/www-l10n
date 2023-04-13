@@ -7,8 +7,16 @@
 
 history-history-of-the-mozilla-project = ປະຫວັດຂອງໂຄງການ { -brand-name-mozilla }
 # Variables:
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+#   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
+history-the-mozilla-project-was = ໂປຣເຈັກ { -brand-name-mozilla } ແມ່ນ <a href="{ $coderush }">ສ້າງຂື້ນໃນປີ 1998</a> ດ້ວຍ <a href="{ $sourcerelease }">ການອອກ { -brand-name-netscape } ລະຫັດແຫຼ່ງຊຸດຂອງຕົວທ່ອງເວັບ</a>.
+history-it-was-intended-to-harness = ມັນມີຈຸດປະສົງເພື່ອໃຊ້ພະລັງງານສ້າງສັນຂອງນັກຂຽນໂປລແກລມຫລາຍພັນຄົນໃນອິນເຕີເນັດ ແລະ ຈຸດປະກາຍລະດັບນະວັດຕະກໍາທີ່ບໍ່ເຄີຍມີມາກ່ອນໃນຕະຫຼາດຕົວທ່ອງເວັບ.
+# Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = ໃນປີ 2002, <a href="{ $over90 }">ຫຼາຍກວ່າ 90% ຂອງຜູ້ໃຊ້ອິນເຕີເນັດ</a> ໄດ້ຊອກຫາດ້ວຍ { -brand-name-ie }.
+# Variables:
+#   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
+history-the-renewed-competition = ການແຂ່ງຂັນທີ່ປັບປຸງໃຫມ່ມີ <a href="{ $innovation }">ນະວັດຕະກໍາທີ່ເລັ່ງລັດ</a> ແລະ ປັບປຸງອິນເຕີເນັດສໍາລັບທຸກຄົນ.
 history-mozilla-also-celebrated = { -brand-name-mozilla } ຍັງໄດ້ສະເຫຼີມສະຫຼອງຄົບຮອບ 15 ປີຂອງຕົນໃນປີ 2013.
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
