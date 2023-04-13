@@ -8,6 +8,7 @@
 # HTML page title
 firefox-faq = { -brand-name-firefox }in UKK
 whether-you-searched-privacy = Etsitpä nopeaa selainta, joka suojaa yksityisyyttäsi, nämä usein kysytyt kysymykset ovat esillä täällä, jotta { -brand-name-firefox }iin liittyviin kysymyksiin on tarjolla vastauksia.
+whether-you-searched-independant = Etsitpä nopeaa selainta tai yksityisyyttäsi suojaavaa tekniikkaa, nämä usein kysytyt kysymykset ovat esillä täällä, jotta { -brand-name-firefox }iin liittyviin kysymyksiin on tarjolla vastauksia.
 what-is-firefox = Mikä on { -brand-name-firefox }?
 
 # Variables:
