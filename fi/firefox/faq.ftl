@@ -36,6 +36,7 @@ no-we-dont = Ei, emme usko, että { -brand-name-chrome } on parempi kuin { -bran
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Katso, kuinka { -brand-name-firefox } pärjää { -brand-name-chrome }a vastaan.</a>
+related-questions-better = Aiheeseen liittyviä kysymyksiä: onko { -brand-name-firefox } parempi kuin { -brand-name-chrome }, onko { -brand-name-firefox } parempi kuin { -brand-name-google }, onko { -brand-name-firefox } turvallisempi kuin { -brand-name-chrome }, onko { -brand-name-firefox } yksityisempi kuin { -brand-name-chrome }
 is-firefox-safe-download = Onko { -brand-name-firefox }in lataaminen turvallista?
 
 # Variables:
@@ -57,6 +58,7 @@ nope-never-have = Ei. Ei koskaan ole myynyt, eikä koskaan tule myymään. Suoje
 why-is-firefox = Miksi { -brand-name-firefox } on niin hidas?
 firefox-isnt-slow = { -brand-name-firefox } ei ole hidas… nyt. Vuonna 2017 rakensimme kokonaan uudelleen selainmoottorimme (nimeltään Quantum), jotta { -brand-name-firefox } voisi kilpailla muiden suurten selainten kanssa. Seurannan esto auttaa sivuja latautumaan entistä nopeammin. { -brand-name-firefox } on siis salamannopea tinkimättä yksityisyydestäsi.
 is-firefox-chromium = Pohjautuuko { -brand-name-firefox } { -brand-name-chromium }iin?
+firefox-is-not = { -brand-name-firefox } ei perustu { -brand-name-chromium }iin (avoimen lähdekoodin selainprojekti, joka on { -brand-name-google } { -brand-name-chrome }n ydin). Itse asiassa olemme yksi viimeisistä suurista selaimista, joka ei perustu Chromiumiin. { -brand-name-firefox } toimii Quantum-selainmoottorilla, joka on rakennettu juuri { -brand-name-firefox }ia varten, joten voimme varmistaa, että tietojasi käsitellään kunnioittavasti ja pidetään yksityisinä.
 does-firefox-use = Käyttääkö { -brand-name-firefox } { -brand-name-google }a?
 
 # Variables:
