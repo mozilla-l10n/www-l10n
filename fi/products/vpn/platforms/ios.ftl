@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-ios-page-title = { -brand-name-mozilla-vpn } { -brand-name-ios }:lle ({ -brand-name-iphone }lle ja { -brand-name-ipad }ille)
+vpn-ios-page-description = Saa nopeaa ja helppoa turvallisuutta { -brand-name-iphone }lle ja { -brand-name-ipad }ille { -brand-name-mozilla }n avulla, joka on yksi teknologian luotettavimmista nimistä.
 # Mobile strings
 vpn-ios-hero-headline = { -brand-name-mozilla-vpn } { -brand-name-ios }:lle antaa suojaa ja yksityisyyttä verkossa
 vpn-ios-maker-of-firefox = { -brand-name-firefox }-selaimen valmistajana ja yhtenä luotettavimmista Internetin yksityisyyden puolustajista { -brand-name-mozilla } on sitoutunut varmistamaan, että tunnet olosi turvalliseksi ja arvostetuksi joka kerta, kun käyt verkossa.
