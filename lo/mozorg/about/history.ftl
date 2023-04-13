@@ -12,6 +12,9 @@ history-history-of-the-mozilla-project = ປະຫວັດຂອງໂຄງກ
 history-the-mozilla-project-was = ໂປຣເຈັກ { -brand-name-mozilla } ແມ່ນ <a href="{ $coderush }">ສ້າງຂື້ນໃນປີ 1998</a> ດ້ວຍ <a href="{ $sourcerelease }">ການອອກ { -brand-name-netscape } ລະຫັດແຫຼ່ງຊຸດຂອງຕົວທ່ອງເວັບ</a>.
 history-it-was-intended-to-harness = ມັນມີຈຸດປະສົງເພື່ອໃຊ້ພະລັງງານສ້າງສັນຂອງນັກຂຽນໂປລແກລມຫລາຍພັນຄົນໃນອິນເຕີເນັດ ແລະ ຈຸດປະກາຍລະດັບນະວັດຕະກໍາທີ່ບໍ່ເຄີຍມີມາກ່ອນໃນຕະຫຼາດຕົວທ່ອງເວັບ.
 # Variables:
+#   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
+history-by-creating-an-open-community = ໂດຍການສ້າງຊຸມຊົນເປີດ, ໂຄງການ { -brand-name-mozilla } ໄດ້ກາຍເປັນ <a href="{ $stevecase }">ໃຫຍ່ກວ່າບໍລິສັດໃດນຶ່ງ</a>.
+# Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = ໃນປີ 2002, <a href="{ $over90 }">ຫຼາຍກວ່າ 90% ຂອງຜູ້ໃຊ້ອິນເຕີເນັດ</a> ໄດ້ຊອກຫາດ້ວຍ { -brand-name-ie }.
 # Variables:
