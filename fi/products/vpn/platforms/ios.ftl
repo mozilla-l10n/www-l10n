@@ -9,6 +9,7 @@
 vpn-ios-page-title = { -brand-name-mozilla-vpn } { -brand-name-ios }:lle ({ -brand-name-iphone }lle ja { -brand-name-ipad }ille)
 # Mobile strings
 vpn-ios-hero-headline = { -brand-name-mozilla-vpn } { -brand-name-ios }:lle antaa suojaa ja yksityisyyttä verkossa
+vpn-ios-maker-of-firefox = { -brand-name-firefox }-selaimen valmistajana ja yhtenä luotettavimmista Internetin yksityisyyden puolustajista { -brand-name-mozilla } on sitoutunut varmistamaan, että tunnet olosi turvalliseksi ja arvostetuksi joka kerta, kun käyt verkossa.
 vpn-ios-wifi-headline = Pysy turvassa verkossa, kun olet liikkeellä
 vpn-ios-wifi-copy = Käytätkö julkista wifiä? Ei ongelmaa. { -brand-name-mozilla-vpn } mahdollistaa sinun tarkistaa pankkitilisi kahvilassa, muokata salasanojasi kadun kulmassa – periaatteessa voit tehdä kaiken mitä tavallisesti teet { -brand-name-iphone }lla tai { -brand-name-ipad }illa.
 vpn-ios-about-headline = Miksi luottaisit meihin?
@@ -20,5 +21,8 @@ vpn-ios-servers-headline = Yhdistä yli { $servers } palvelimeen maailmanlaajuis
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Käytä { $devices } eri laitteella
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = Yhdellä tilauksella voit hankkia { -brand-name-mozilla-vpn }:n jopa { $devices } eri laitteeseen, mukaan lukien { -brand-name-ios } { -brand-name-iphone }lle ja { -brand-name-ipad }ille, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } ja { -brand-name-linux }.
 vpn-ios-speed-headline = Huippunopeudet. Rajoittamaton data.
 vpn-ios-log-headline = Tietosi pysyvät yksityisinä. Piste.
