@@ -40,4 +40,8 @@ privacy-passwords-get-help-from = Tartu salasanojen hallinnan apuun
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Kun olet kirjautunut sisään { -brand-name-firefox }iin { -brand-name-firefox }-tililläsi, voit synkronoida kaikki laitteesi ja käyttää salasanojasi { -brand-name-firefox }-mobiiliselaimella. Lisätietoja <a { $url_sumo-manager }>sisäänrakennetun salasananhallinnan käyttämisestä</a>.
 privacy-passwords-twofactor-authentication-2fa = Kaksivaiheinen todennus (2FA)
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-firefox-account = Esimerkiksi { -brand-name-firefox }-tilisi on mahdollista suojata 2FA:lla, <a { $url_sumo_2fa }>lisätietoja saat täältä</a>.
+#   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
+privacy-passwords-2fa-provides-much = 2FA tarjoaa paljon paremman suojauksen kuin pelkät salasanat, mutta kaikki verkkosivustot eivät tue sitä. Löydät luettelon 2FA:ta tukevista verkkosivustoista osoitteesta <a { $url_2fa }>https://2fa.directory</a> sekä luettelon sivustoista, jotka eivät tue 2FA:ta, sekä tapoja, joilla voit pyytää palveluja lisäämään tuen.
 privacy-passwords-strong-diverse-and = Vahva, monipuolinen ja monivaiheinen
