@@ -7,8 +7,10 @@
 
 # Meta strings
 vpn-ios-page-title = { -brand-name-mozilla-vpn } { -brand-name-ios }:lle ({ -brand-name-iphone }lle ja { -brand-name-ipad }ille)
+vpn-ios-wifi-headline = Pysy turvassa verkossa, kun olet liikkeellä
 vpn-ios-about-headline = Miksi luottaisit meihin?
 vpn-ios-privacy-headline = Yhden napsautuksen yhteys
+vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } on todella helppokäyttöinen. Napauttamalla painiketta se salaa yhteytesi ja sumentaa IP-osoitteen { -brand-name-iphone }lla tai { -brand-name-ipad }illa käyttämällä kehittynyttä { -brand-name-wireguard }® -yhteyskäytäntöä.
 # Variables:
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Yhdistä yli { $servers } palvelimeen maailmanlaajuisesti
