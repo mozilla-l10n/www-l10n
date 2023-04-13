@@ -8,7 +8,7 @@
 # HTML page title
 firefox-faq = { -brand-name-firefox }in UKK
 whether-you-searched-privacy = Etsitpä nopeaa selainta, joka suojaa yksityisyyttäsi, nämä usein kysytyt kysymykset ovat esillä täällä, jotta { -brand-name-firefox }iin liittyviin kysymyksiin on tarjolla vastauksia.
-whether-you-searched-independant = Etsitpä nopeaa selainta tai yksityisyyttäsi suojaavaa tekniikkaa, nämä usein kysytyt kysymykset ovat esillä täällä, jotta { -brand-name-firefox }iin liittyviin kysymyksiin on tarjolla vastauksia.
+whether-you-searched-independant = Etsitpä nopeaa selainta tai yksityisyyttäsi suojaavaa tekniikkaa, nämä { -brand-name-firefox }in usein kysytyt kysymykset ovat edessäsi, ja kysymyksiin on tarjolla vastauksia.
 what-is-firefox = Mikä on { -brand-name-firefox }?
 
 # Variables:
@@ -78,4 +78,5 @@ who-owns-firefox = Kuka omistaa { -brand-name-firefox }in?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } on { -brand-name-mozilla-corporation }in valmistama, voittoa tavoittelemattoman <a href="{ $url }">{ -brand-name-mozilla-foundation }in kokonaan omistama tytäryhtiö,</a> ja sitä ohjaavat { -brand-name-mozilla }-manifestin periaatteet. Lue lisää { -brand-name-firefox }in valmistajasta <a href="{ $url2 }">täältä.</a>
 related-questions-who = Aiheeseen liittyviä kysymyksiä: kuka omistaa { -brand-name-firefox }in, kuka omistaa { -brand-name-firefox-browser }, omistaako { -brand-name-google } { -brand-name-firefox }in, omistaako { -brand-name-google } { -brand-name-mozilla } { -brand-name-firefox }in
