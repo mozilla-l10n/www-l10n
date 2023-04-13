@@ -16,6 +16,9 @@ firefox-sync-your-encryption-key = Salausavaimesi pysyy salaisena, jonka tiedät
 firefox-sync-feel-safe = Tunne olosi turvalliseksi
 firefox-sync-we-store-your = Tallennamme tietosi salattuna palvelimillemme, joten edes me emme voi lukea tietojasi.
 firefox-sync-start-syncing-in = Aloita synkronointi neljällä helpolla vaiheella:
+firefox-sync-open-the-menu = Avaa valikko { -brand-name-firefox }in oikeasta yläkulmasta ja valitse <strong>"Kirjaudu { -brand-name-sync }iin"</strong>.
+firefox-sync-click-get-started = Napsauta <strong>“Aloitetaan”</strong> avautuvassa välilehdessä.
+firefox-sync-enter-an-email = Kirjoita sähköpostiosoite ja salasana kohtaan <strong>“Luo { -brand-name-firefox-account }.”</strong>
 firefox-sync-click-next-to = Napsauta <strong>Seuraava</strong> saadaksesi vahvistuksen sähköpostiisi.
 firefox-sync-after-you-check = Kun olet tarkistanut sähköpostisi ja napsauttanut vahvistuslinkkiä, { -brand-name-firefox } alkaa automaattisesti synkronoida taustalla.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data

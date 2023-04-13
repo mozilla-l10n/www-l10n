@@ -11,8 +11,11 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Tervetuloa uuteen suosikkiselaimeesi. Saat uusimmat ominaisuudet, nopean suorituskyvyn ja kehitystyökalut, joita tarvitset avoimen verkon rakentamiseen.
+firefox-developer-speak-up = Puhu
+firefox-developer-feedback-makes-us = Palaute tekee meistä parempia. Kerro meille, kuinka voimme parantaa selainta ja kehittäjätyökaluja.
 firefox-developer-join-the-convo = Liity keskusteluun
 firefox-developer-get-involved = Liity mukaan
+firefox-developer-help-build-the-last = Auta rakentamaan viimeistä itsenäistä selainta. Kirjoita koodia, korjaa bugeja, tee lisäosia ja paljon muuta.
 firefox-developer-start-now = Aloita nyt
 firefox-developer-design-code-test = Suunnittele. Koodaa. Testaa. Kehitä.
 # Line break for visual formatting
@@ -33,11 +36,14 @@ firefox-developer-next-gen-css-engine = Seuraavan sukupolven CSS-koneisto
 firefox-developer-built-for-developers = Rakennettu kehittäjiä varten
 firefox-developer-a-next-generation = Uuden sukupolven CSS-moottori
 firefox-developer-master-innovative-features = Innovatiivisia ominaisuuksia
+firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } saa päivityksiä päivittäin ja antaa sinun käyttää ominaisuuksia kuukausia ennen kuin ne julkaistaan kaikille.
 firefox-developer-convenient-features = Kätevät ominaisuudet
 firefox-developer-faster-performance = Nopeampi suorituskyky
 firefox-developer-fonts-panel = Fonttipaneeli
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } lähettää palautetta { -brand-name-mozilla }lle automaattisesti.
 firefox-developer-download-the-firefox-browser = Lataa kehittäjille suunnattu { -brand-name-firefox }-selain
+firefox-developer-welcome-to-the-all-new = Tervetuloa, tämä on täysin uusi { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
+firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } on rakennettu alusta alkaen nopeammaksi, tyylikkäämmäksi ja tehokkaammaksi kuin koskaan.
 firefox-developer-congrats-you-now-have-firefox = Onnittelut. Sinulla on nyt { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
 firefox-developer-welcome-to-firefox-browser = Tervetuloa { -brand-name-firefox-browser } { -brand-name-developer-edition }iin
 firefox-developer-made-for-developers = Kehittäjille tehty selain
