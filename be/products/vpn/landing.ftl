@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: абараніце ўсю сваю прыладу
+# Obsolete string
+vpn-landing-hero-sub-heading = Бяспека, на якую можна спадзявацца. Імя, якому можна давяраць.
+vpn-landing-hero-desc = Віртуальная прыватная сетка ад вытворцаў { -brand-name-firefox }.
 vpn-landing-privacy-heading = Прыватнасць на адлегласці аднаго дотыку
 vpn-landing-fast-secure-heading = Хуткая і бяспечная сетка
 vpn-landing-brand-trust-heading = VPN ад брэнда, якому вы можаце давяраць
@@ -22,14 +27,6 @@ vpn-landing-faq-download-desc = Наведайце <a { $attrs }>старонк�
 vpn-landing-invite-email-label = Які ў вас адрас электроннай пошты?
 vpn-landing-invite-required-label = Абавязкова
 vpn-landing-invite-country-label = У якой краіне вы жывяце?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 vpn-landing-invite-thanks-heading = Дзякуй! Вы ў спісе
 
 ##
