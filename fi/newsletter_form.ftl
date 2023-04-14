@@ -9,7 +9,7 @@ newsletter-form-we-are-sorry-but-there = Valitettavasti järjestelmässämme ilm
 newsletter-form-please-select-country = Valitse maa tai alue
 newsletter-form-please-select-language = Valitse kieli
 # Only localize "yourname". Do not change "@example.com".
-newsletter-form-yournameexamplecom = nimi@esimerkki.fi
+newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Valitse maa tai alue
 newsletter-form-select-language = Valitse kieli
 newsletter-form-your-email-here = KIRJOITA SÄHKÖPOSTIOSOITTEESI TÄHÄN
@@ -39,5 +39,5 @@ multi-newsletter-form-checkboxes-legend = Haluan tietoa aiheesta:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Valitse ainakin yksi uutiskirjeen vaihtoehdoista.
-multi-newsletter-form-title = Rakasta verkkoa
-multi-newsletter-form-desc = Tilaa { -brand-name-mozilla }n uutiskirjeet ja auta meitä pitämään internet avoimena ja vapaana.
+multi-newsletter-form-title = Rakkautta verkkoa kohtaan
+multi-newsletter-form-desc = Tilaa { -brand-name-mozilla }n uutiskirjeet ja auta meitä pitämään Internet avoimena ja vapaana.
