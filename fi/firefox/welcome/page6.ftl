@@ -18,4 +18,5 @@ welcome-page6-companies-keep-finding-new = Yritykset etsivät jatkuvasti uusia t
 welcome-page6-choose-freedom-on-every-device = Valitse vapaus kaikilla laitteilla
 welcome-page6-firefox-is-fast-and-safe-on = { -brand-name-firefox } on nopea ja helppo käyttää { -brand-name-windows }illa, { -brand-name-ios }:lla, { -brand-name-android }illa, { -brand-name-linux }illa… ja niiden kaikkien välillä. Ansaitset valintoja selaimissa ja laitteissa puolestasi tehtyjen päätösten sijaan.
 welcome-page6-choose-corporate-independence = Valitse yritysriippumattomuus
+welcome-page6-firefox-is-the-only-major = { -brand-name-firefox } on ainoa suuri itsenäinen selain. { -brand-name-chrome }, { -brand-name-edge } ja { -brand-name-brave } perustuvat kaikki { -brand-name-google }n koodiin, mikä tarkoittaa { -brand-name-google }lle entistä enemmän Internetin hallintaa.
 welcome-page6-why-am-i-seeing-this = Miksi näen tämän sivun?
