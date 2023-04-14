@@ -58,7 +58,9 @@ history-the-community-has-shown = Yhteisö on osoittanut, että kaupalliset yrit
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Yhä useampi ihminen kykenee käyttämään Internetiä <a href="{ $all }">omalla kielellään</a>.
+history-the-future-is-full-of-challenges = Tulevaisuus on täynnä haasteita ja mahdollisuuksia, jotka ovat verrattavissa menneisyytemme.
 history-theres-no-guarantee-that = Ei ole takeita siitä, että Internet pysyy avoimena tai nautinnollisena tai turvallisena.
+history-mozilla-will-continue-to = { -brand-name-mozilla } tarjoaa jatkossakin ihmisille mahdollisuuden saada äänensä kuuluviin ja muokata elämäänsä verkossa.
 history-of-course-were-not-alone = Emme tietenkään ole yksin tekemässä tätä kaikkea.
 history-the-mozilla-community-together = { -brand-name-mozilla }-yhteisö yhdessä muiden avoimen lähdekoodin projektien ja muiden yleishyödyllisten organisaatioiden kanssa on olemassa vain ihmisten ansiosta, jotka ovat sitoutuneet toteuttamaan yhteisiä tavoitteitamme.
 # Variables:
@@ -67,6 +69,7 @@ history-if-you-want-to-join-us-in = Jos haluat liittyä tehtäväämme, <a href=
 history-for-more-information-about = Lisätietoja { -brand-name-mozilla }n historiasta:
 history-mozilla-bookmarks = { -brand-name-mozilla }-kirjanmerkit
 history-timeline-of-mozilla-project = { -brand-name-mozilla }-projektin aikajana
+history-mozilla-digital-memory-bank = { -brand-name-mozilla }n digitaalisen muistin pankki
 # Variables:
 #   $link (url) link to https://www.foxkeh.com/downloads/
 history-the-history-of-firefox-and = <a href="{ $link }">{ -brand-name-firefox }in ja { -brand-name-mozilla }n historiaa -julisteet</a> (saatavilla englanniksi ja japaniksi)
