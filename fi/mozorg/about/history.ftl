@@ -58,6 +58,10 @@ history-the-community-has-shown = Yhteisö on osoittanut, että kaupalliset yrit
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Yhä useampi ihminen kykenee käyttämään Internetiä <a href="{ $all }">omalla kielellään</a>.
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = On luotu kestävä organisaatio, joka käyttää markkinamekanismeja tukeakseen yleishyödyllistä tehtävää, ja muut ovat käyttäneet tätä mallia uudelleen luodakseen avoimia, läpinäkyviä ja yhteistyökykyisiä organisaatioita <a href="{ $range }">useilla</a> <a href="{ $areas }">alueilla</a>.
 history-the-future-is-full-of-challenges = Tulevaisuus on täynnä haasteita ja mahdollisuuksia, jotka ovat verrattavissa menneisyytemme.
 history-theres-no-guarantee-that = Ei ole takeita siitä, että Internet pysyy avoimena tai nautinnollisena tai turvallisena.
 history-mozilla-will-continue-to = { -brand-name-mozilla } tarjoaa jatkossakin ihmisille mahdollisuuden saada äänensä kuuluviin ja muokata elämäänsä verkossa.
