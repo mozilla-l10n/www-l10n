@@ -65,6 +65,7 @@ firefox-developer-master-innovative-features = Innovatiivisia ominaisuuksia
 firefox-developer-want-to-be-on-the-cutting-edge = Haluatko pysyä aallonharjalla?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } saa päivityksiä päivittäin ja antaa sinun käyttää ominaisuuksia kuukausia ennen kuin ne julkaistaan kaikille.
 firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } sisältää uuden Rust-kielellä kirjoitetun CSS-moottorin, jossa on huippuluokan innovaatioita ja joka on räjähtävän nopea.
+firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } on ainoa selain, jossa on työkaluja, jotka on suunniteltu erityisesti CSS Gridin rakentamiseen ja suunnitteluun. Näiden työkalujen avulla voit visualisoida ruudukon, näyttää siihen liittyvien alueiden nimet, esikatsella ruudukon muunnoksia ja paljon muuta.
 firefox-developer-convenient-features = Kätevät ominaisuudet
 firefox-developer-faster-performance = Nopeampi suorituskyky
 firefox-developer-fonts-panel = Fonttipaneeli
