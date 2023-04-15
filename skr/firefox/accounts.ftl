@@ -24,13 +24,17 @@ firefox-accounts-send-a-tab = ٻئی ڈیوائس کوں <a href="{ $send }">ہ�
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">پاس ورڈ محفوظ کرو تے ہم وقت کرو</a>
+firefox-accounts-get-email-alerts = ڄݙݨ تہاݙیاں معلومات معلوم ڈیٹا دی خلاف ورزی کریندی ظاہر تھیون تاں ای میل الرٹ گھنو
 # Obsolete string
 firefox-accounts-see-if-youve-been = ݙیکھو بھلا تساں آن لائن ڈیٹا دی خلاف ورزی وچ ملوث ہو۔
 firefox-accounts-protect-your-identity = محفوظ فون تے ای میل ماسکنگ نال آپݨی سُن٘ڄاݨ دی حفاظت کرو
 firefox-accounts-keep-your-passwords = آپݨے پاس ورڈ حفاظت نال تے پورٹیبل رکھو۔
 firefox-accounts-get-a-lookout-for = ڈیٹا دی خلاف ورزیاں ݙیکھو۔
 firefox-accounts-travel-the-internet = ہر ڈیوائس تے حفاظت نال انٹرنیٹ دا پن٘دھ کرو۔
+firefox-accounts-encrypt-your = آپݨی نیٹ ورک سرگرمی کوں خفیہ رکھو تے آپݨاں آئی پی پتہ لکاؤ
+firefox-accounts-we-never = اساں تہاݙے نیٹ ورک ڈیٹا کوں کݙاہیں وی لاگ، ٹریک یا شیئر کائنی کریندے
 firefox-accounts-save-articles = پوری ویب وچوں آرٹیکل محفوظ کرو
+firefox-accounts-read-in-a = پُرسکون تے نجی جاء تے پڑھو
 firefox-accounts-get-it-all-on-every = کہیں ہک آپریٹنگ سسٹم وِچ پھسݨ دے احساس کوں محسوس کیتے بغیر ایہ سبھ کجھ ہر ڈیوائس تے حاصل کرو۔
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
