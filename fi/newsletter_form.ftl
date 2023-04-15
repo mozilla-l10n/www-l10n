@@ -39,5 +39,5 @@ multi-newsletter-form-checkboxes-legend = Haluan tietoa aiheesta:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Valitse ainakin yksi uutiskirjeen vaihtoehdoista.
-multi-newsletter-form-title = Rakkautta verkkoa kohtaan
+multi-newsletter-form-title = Rakkaudesta verkkoa kohtaan
 multi-newsletter-form-desc = Tilaa { -brand-name-mozilla }n uutiskirjeet ja auta meitä pitämään Internet avoimena ja vapaana.
