@@ -37,6 +37,17 @@ compare-safari-like-safari-firefox-encourages = Kuten { -brand-name-safari }, my
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = Kun luot { -brand-name-firefox }-tilin, saat käyttöösi ainutlaatuisia palveluita, kuten <a { $pocket }>{ -brand-name-pocket }</a>in, joka integroituu suoraan selaimeen. { -brand-name-pocket } { -brand-name-firefox }ille -painikkeella voit tallentaa verkkosivuja ja videoita { -brand-name-pocket }iin yhdellä napsautuksella, jotta voit lukea artikkelin siistittyä versiota milloin ja missä haluat – jopa yhteydettömässä tilassa.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $send (string) - link to send.firefox.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for = Also, when you sign up for a { -brand-name-firefox } account you get access to unique services like <a { $pocket }>{ -brand-name-pocket }</a> and <a { $send }>{ -brand-name-send }</a> that integrate directly into the browser. The { -brand-name-pocket } for { -brand-name-firefox } button lets you save web pages and videos to { -brand-name-pocket } in just one click, so you can read a clean, distraction-free version whenever and wherever you want — even offline. With { -brand-name-send } you can share large files with end-to-end encryption with  a variety of security controls, such as the ability to set an expiration time for a file link to expire, the number of downloads, and whether to add an optional password for an extra layer of security.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $send (string) - link to send.firefox.com with additional attributes for analytics
+# "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
+compare-safari-also-when-you-sign-up-for-fallback = Also, when you sign up for a { -brand-name-firefox } account you get access to some unique services like Screenshots, <a { $pocket }>{ -brand-name-pocket }</a> and <a { $send }>{ -brand-name-send }</a> that integrate directly into the browser. Screenshots is a feature built right into the { -brand-name-firefox } browser, allowing you to copy or download any or all part of a web page. When you save the screenshot, you can also choose which folder you want to find it in, instead of cluttering your desktop. The { -brand-name-pocket } for { -brand-name-firefox } button lets you save web pages and videos to { -brand-name-pocket } in just one click, so you can read a clean, distraction-free version whenever and wherever you want — even offline. With { -brand-name-send }, you can share large files with end-to-end encryption and a variety of security controls, such as the ability to set an expiration time for a file link to expire, the number of downloads, and whether to add an optional password for an extra layer of security.
 compare-safari-firefox-is-also-great-for-video = { -brand-name-firefox } sopii myös erinomaisesti videolle ja äänelle. Suoraan selaimeen sisäänrakennetun automaattisen toiston eston ansiosta mikään verkkosivusto ei koskaan huuda tai hauku sinulle yllättäen.
 # Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
