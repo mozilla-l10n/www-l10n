@@ -17,6 +17,7 @@ vpn-landing-brand-trust-heading = VPN ад брэнда, якому вы мож�
 ## FAQ section
 
 vpn-landing-faq-heading = Частыя пытанні
+vpn-langing-faq-uses-question-heading = Што такое VPN і для чаго ён выкарыстоўваецца?
 vpn-landing-faq-download-heading = Як спампаваць { -brand-name-mozilla-vpn }, калі я ўжо падпісаны?
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
