@@ -20,6 +20,8 @@ new-platform-need-help = Tarvitsetko apua?
 ## Linux
 
 new-platform-download-mozilla-linux = Lataa { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }ille
+# /firefox/linux/ HTML page description
+new-platform-download-mozilla-desc-linux = Lataa { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }ille. { -brand-name-firefox } on maailmanlaajuisen voittoa tavoittelemattoman järjestön luoma, jonka tavoite on antaa ihmisten hallita elämäänsä verkossa. Hanki { -brand-name-firefox } { -brand-name-linux }ille jo tänään!
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Lataa nopein { -brand-name-firefox } { -brand-name-linux }ille koskaan
 # /firefox/linux/ social sharing description
@@ -35,6 +37,8 @@ new-platform-look-under-the-hood = Katso konepellin alle. Kuten { -brand-name-li
 ## Mac
 
 new-platform-download-mozilla-firefox-mac = Lataa { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-mac-short }ille
+# /firefox/mac/ HTML page description
+new-platform-download-mozilla-firefox-desc-mac = Lataa { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-mac-short }ille. { -brand-name-firefox } on maailmanlaajuisen voittoa tavoittelemattoman järjestön luoma, jonka tavoite on antaa ihmisten hallita elämäänsä verkossa. Hanki { -brand-name-firefox } { -brand-name-mac-short }ille jo tänään!
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Lataa nopein { -brand-name-firefox } { -brand-name-mac-short }ille koskaan
 # /firefox/mac/ social sharing description
@@ -47,8 +51,12 @@ new-platform-block-trackers = Estä seuraimet
 ## Windows
 
 new-platform-download-mozilla-windows = Lataa { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-windows }ille
+# /firefox/windows/ HTML page description
+new-platform-download-mozilla-desc-windows = Lataa { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-windows }ille. { -brand-name-firefox } on maailmanlaajuisen voittoa tavoittelemattoman järjestön luoma, jonka tavoite on antaa ihmisten hallita elämäänsä verkossa. Hanki { -brand-name-firefox } { -brand-name-windows }ille jo tänään!
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Lataa nopein { -brand-name-firefox } { -brand-name-windows }ille koskaan
+# /firefox/windows/ social sharing description
+new-platform-faster-page-loading-windows = Nopeampi sivujen latausaika, pienempi keskusmuistin käyttö ja runsaat ominaisuudet – uusi { -brand-name-firefox } { -brand-name-windows }ille on täällä.
 new-platform-firefox-moves-fast = { -brand-name-firefox } liikkuu nopeasti ja käsittelee tietojasi huolellisesti – ei mainosseurantaa eikä hidastelua.
 new-platform-common-sense-privacy = Tervejärkistä yksityisyyttä
 new-platform-live-your-life = Elä elämääsi, { -brand-name-firefox } ei katso. Valitse, mitä ja milloin haluat jakaa.
