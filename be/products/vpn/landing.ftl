@@ -18,6 +18,8 @@ vpn-landing-brand-trust-heading = VPN ад брэнда, якому вы мож�
 
 vpn-landing-faq-heading = Частыя пытанні
 vpn-langing-faq-uses-question-heading = Што такое VPN і для чаго ён выкарыстоўваецца?
+vpn-landing-faq-info-question-heading = Якую інфармацыю захоўвае { -brand-name-mozilla-vpn }?
+vpn-landing-faq-compatibility-question-heading = З якімі прыладамі сумяшчальны { -brand-name-mozilla-vpn }?
 vpn-landing-faq-download-heading = Як спампаваць { -brand-name-mozilla-vpn }, калі я ўжо падпісаны?
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
@@ -25,6 +27,7 @@ vpn-landing-faq-download-desc = Наведайце <a { $attrs }>старонк�
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-heading = Далучыцца да спісу чакання VPN
 vpn-landing-invite-email-label = Які ў вас адрас электроннай пошты?
 vpn-landing-invite-required-label = Абавязкова
 vpn-landing-invite-country-label = У якой краіне вы жывяце?
