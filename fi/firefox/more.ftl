@@ -19,6 +19,7 @@ firefox-is-more = { -brand-name-firefox } on enemmän kuin selain
 get-the-browsers = Hanki selaimet, jotka asettavat yksityisyytesi etusijalle — nyt ja aina
 choose-which-firefox = Valitse haluamasi { -brand-name-firefox-browser } haluamallasi kielellä
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } { -brand-name-chromebook }ille
+firefox-more-while-on-chromebook = Vaikka { -brand-name-chromebook }iin on { -brand-name-chrome } jo asennettuna, { -brand-name-firefox }in lataaminen ja käyttäminen selaimena tarjoaa muutamia etuja
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-little-book = Yksityisyyden pieni kirja
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
