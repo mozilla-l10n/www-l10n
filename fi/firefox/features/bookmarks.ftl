@@ -25,6 +25,9 @@ features-bookmarks-customize-that-bookmark = Muokkaa kirjanmerkkiä
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Uppoudu kirjanmerkkiin
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Harjoita tarkkuuttasi minkä tahansa kuviteltavissa olevan kirjanmerkkien hallinnan <a href="{ $url }">lisäosan</a> avulla, koko sivujen tallentamisista pikalinkki-sivupalkkeihin ja tiukasti lukittuihin, yksityisiin kirjanmerkkeihin.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
