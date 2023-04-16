@@ -16,6 +16,7 @@ vpn-windows-ability = Ansaitset tuntea olosi turvalliseksi verkossa missä olet 
 vpn-windows-wifi-headline = Pysy yksityisenä julkisessa wifissä
 vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } suojaa Internet-yhteytesi uteliailta silmiltä, joten voit hoitaa liiketoimintaasi missä tahansa – lentokentällä, asuntolassa, kahvilassa – huolehtimatta yksityisyydestäsi verkossa.
 vpn-windows-about-headline = Internet-yksityisyyden johtajalta
+vpn-windows-about-copy = Voittoa tavoittelematon järjestö { -brand-name-firefox-browser }ta tukemassa, { -brand-name-mozilla } on yhteisö Internetin kansalaisia ympäri maailmaa, joka on sitoutunut pitämään Internetin ilmaisena ja avoimena resurssina kaikille. { -brand-name-mozilla }n tehtävä on asettaa ihmiset voittojen edelle ja varmistaa, että jokainen valmistamamme tuote asettaa sinut etusijalle.
 vpn-windows-privacy-headline = Suojausta napin painalluksella
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } salaa Internet-yhteytesi ja suojaa IP-osoitteesi uteliailta katseilta pöytätietokoneellasi tai kannettavalla tietokoneellasi edistyneellä { -brand-name-wireguard }® -yhteyskäytännöllä.
 vpn-windows-servers-headline = Käytä palvelimia ympäri maailmaa

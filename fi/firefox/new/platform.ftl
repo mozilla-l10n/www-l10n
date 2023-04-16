@@ -47,6 +47,7 @@ new-platform-privacy-comes-first = Yksityisyys tulee ensin
 new-platform-firefox-doesnt-spy = { -brand-name-firefox } ei vakoile hakuja. Estämme kolmansien osapuolten seurainevästeet ja annamme sinulle täyden hallinnan.
 new-platform-get-speed-and-security = Hanki nopeutta ja turvallisuutta. { -brand-name-firefox } on nopea { -brand-name-mac-short }illa, koska emme seuraa liikkeitäsi.
 new-platform-block-trackers = Estä seuraimet
+new-platform-be-the-master-of-your = Ole oman alueesi herra tiukan sisällöneston avulla. Leikkaa pois kaikki evästeet ja seuraimet.
 
 ## Windows
 
@@ -60,3 +61,5 @@ new-platform-faster-page-loading-windows = Nopeampi sivujen latausaika, pienempi
 new-platform-firefox-moves-fast = { -brand-name-firefox } liikkuu nopeasti ja käsittelee tietojasi huolellisesti – ei mainosseurantaa eikä hidastelua.
 new-platform-common-sense-privacy = Tervejärkistä yksityisyyttä
 new-platform-live-your-life = Elä elämääsi, { -brand-name-firefox } ei katso. Valitse, mitä ja milloin haluat jakaa.
+new-platform-seamless-setup = Vaivaton määritys
+new-platform-easy-migration = Asetusten ja kirjanmerkkien siirto on helppoa, kun lataat { -brand-name-firefox }in { -brand-name-windows }ille.
