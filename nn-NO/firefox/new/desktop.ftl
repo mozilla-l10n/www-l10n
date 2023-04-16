@@ -38,10 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Blokkerer sosiale mediesporara
 firefox-desktop-download-os-availability = OS-tilgjengelegheit
 firefox-desktop-download-in-browser-screenshot = Skjermbildeverktøy i nettlesaren
 firefox-desktop-download-primary-password = Hovudpassord
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Lik det du gjer på nettet
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = Det er ditt internett. Fargelegg det som du vil med tusentals verktøy, tema og tillegg. { -brand-name-firefox } er den opphavlege alternative nettlesaren som set menneske over profitt.
 # Obsolete string
 firefox-desktop-download-master-password = Hovudpassord
@@ -146,9 +145,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } blokker
 firefox-desktop-download-questions = Spørsmål? <a { $attrs }>{ -brand-name-mozilla } brukarstøtte</a> kan hjelpe deg.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Du har allereie nettlesaren. Få enno meir ut av { -brand-name-firefox }.
-firefox-desktop-download-watch-for-hackers-with-v2 = Pass på hackarar { -brand-name-firefox-monitor }, beskytt e-postadressa di med { -brand-name-firefox-relay }, med meir.
+firefox-desktop-download-watch-for-hackers-with-v2 = Pass på hackarar med { -brand-name-firefox-monitor }, beskytt e-postadressa di med { -brand-name-firefox-relay }, med meir.
 # Outdated string
-firefox-desktop-download-watch-for-hackers-with = Bruk { -brand-name-firefox-monitor } for å halde eit auge med hackarar, ta vare på passorda med { -brand-name-firefox-lockwise }, og meir.
+firefox-desktop-download-watch-for-hackers-with = Bruk { -brand-name-firefox-monitor } for å halde eit auge med hackarar, beskytt passord med { -brand-name-firefox-lockwise }, og meir.
 firefox-desktop-download-get-more-from-firefox = Få meir ut av { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Berre last ned nettlesaren
 
