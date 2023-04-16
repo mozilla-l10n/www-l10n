@@ -49,6 +49,7 @@ comparing-firefox-opera = { -brand-name-firefox-browser } vertailussa { -brand-n
 the-ad-blocker = Mainostenesto - salainen ase ärsyttäviä mainoksia vastaan.
 so-many-ads = Niin paljon mainoksia, niin lyhyt pinna… On aika lopettaa hulluus.
 firefox-more-protection = { -brand-name-firefox }: enemmän suojaa, vähemmän huolia.
+were-obsessed-with = Yksityisyytesi suojaaminen on meille pakkomielle. Siksi olemme tehneet { -brand-name-firefox }in yksityisestä selauksesta muita vahvemman.
 incognito-browser-what = Incognito-selain: mitä se todella tarkoittaa
 firefox-calls-it = { -brand-name-firefox } kutsuu sitä yksityiseksi selaamiseksi, { -brand-name-chrome } kutsuu sitä incognito-tilaksi. Molempien avulla voit selata verkkoa ilman, että selaushistoriasi tallentuu.
 firefox-more-fingerprinter-blocking = Yksilöijien esto
