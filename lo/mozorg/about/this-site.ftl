@@ -25,3 +25,9 @@ about-this-site-mozilla-protocol = ລະບົບການອອກແບບ <a
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = ລະບົບການແປພາສາ <a href="{ $fluent }">Fluent</a> ຂອງ { -brand-name-mozilla } ສໍາລັບການແປພາສາ.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = ເຄື່ອງມື ແລະ ໄລບາລີຂະໜາດນ້ອຍຫຼາຍອັນ, ທີ່ເຈົ້າສາມາດຊອກຫາໄດ້ໃນ <a href="{ $github }">{ -brand-name-github } repo</a> ຂອງພວກເຮົາ.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = ພວກເຮົາຂໍຂອບໃຈກັບ { -brand-name-mozilla } <a href="{ $credits }">ຜູ້ປະກອບສ່ວນ</a> ທຸກຄົນທີ່ໄດ້ຊ່ວຍເຮັດໃຫ້ເວັບເປັນບ່ອນທີ່ດີກວ່າ.
