@@ -9,6 +9,7 @@ firefox-mobile-download-the-firefox-browser = Lataa { -brand-name-firefox-browse
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } mobiililaitteille estää oletuksena yli 2000 seurainta, tarjoten sinulle ansaitsemasi yksityisyyden ja tarvitsemasi nopeuden yksityisessä mobiiliselaimessa.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-check-out-firefox-again-its = Tutustu { -brand-name-firefox }iin uudelleen. Se on nopea, yksityinen ja sinun puolellasi. { -brand-name-ios }:lle ja { -brand-name-android }ille.
 firefox-mobile-get-automatic-privacy-on-mobile = Automaattista yksityisyyttä mobiililaitteella
 firefox-mobile-super-fast-private-by-default = Todella nopea. Oletuksena yksityinen. Estää yli 2000 verkkoseurainta.
 firefox-mobile-get-firefox-mobile = Hanki { -brand-name-firefox } mobiililaitteille
