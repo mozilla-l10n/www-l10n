@@ -42,6 +42,7 @@ is-firefox-safe-download = Onko { -brand-name-firefox }in lataaminen turvallista
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Yksityisyytesi suojaaminen on tärkein prioriteettimme, ja vakuutamme, että { -brand-name-firefox }in asentaminen laitteillesi on täysin turvallista — lataa aina luotetulta { -brand-name-mozilla }/{ -brand-name-firefox }-sivustolta, kuten <a href="{ $url }">lataussivultamme.</a>
 is-firefox-safe = Onko { -brand-name-firefox } turvallinen?
 
 # Variables:
