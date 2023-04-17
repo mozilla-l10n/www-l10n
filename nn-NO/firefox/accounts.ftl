@@ -12,6 +12,7 @@ firefox-accounts-securely-sync-your = Synkroniser passord, bokmerke og faner mel
 firefox-accounts-enter-your-email-address = Skriv inn e-postadressa di for å kome i gang.
 firefox-accounts-already-have-an-account = Har du allereie ein konto?
 firefox-accounts-sign-in = Logg inn
+firefox-accounts-already = Du har allereie ein { -brand-name-firefox-account }. Gratulerer!
 firefox-accounts-manage = Handsam kontoen din
 # Obsolete string
 firefox-accounts-meet-our-family-of = Møt familien vår av personvernprodukt.
