@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
+data-preferences-page-title = Hallinnoi suoraan asiakkaalta kerättävän tiedon keruuasetuksia
 data-preferences-current-preference = Nykyinen asetus:
 data-preferences-please-enable-javascript = Ota JavaScript käyttöön, jotta voit hallita data-asetuksiasi.
