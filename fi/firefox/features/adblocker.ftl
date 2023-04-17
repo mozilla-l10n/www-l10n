@@ -42,6 +42,13 @@ features-adblocker-do-it-yourself-custom = Mukautettu-tila omiin tarpeisiisi
 features-adblocker-the-custom-setting-gives = Mukautettu-asetus antaa sinulle täyden hallinnan. Voit päättää, mitä estät, mukaan lukien jäljittäjät, evästeet ja muut. Jos sallit evästeet verkkosivustolta, olet automaattisesti mukautetussa tilassa.
 features-adblocker-cover-your-trail-block = Peitä jälkesi, estä jäljittäjät
 features-adblocker-take-a-bite-out-of-cookies = Evää evästeet
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/storage
+features-adblocker-cookies-are-sent-by-websites = Vierailemasi verkkosivustot lähettävät <a href="{ $url }">evästeitä</a>. Ne oleskelevat tietokoneellasi ja seuraavat, mitä olet tehnyt sivustolla. Kun lentoyhtiö nostaa hintojasi, koska olet katsonut lentolippuja kerran aiemmin samana päivänä, se on evästeen seurausta.
+features-adblocker-in-firefox-you-can-block = { -brand-name-firefox }issa voit estää kaikki kolmannen osapuolen evästeet tai vain seurainten asettamat evästeet. Huomioi, että kaikkien evästeiden estäminen voi rikkoa joitakin sivustoja.
 features-adblocker-send-a-do-not-track-signal = Lähetä Älä seuraa -signaali
 features-adblocker-speed-up-thanks-to-ad = Nopeutusta mainosestäjien ansiosta
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more = Jos haluat lisätietoja mainosten estämisestä, { -brand-name-firefox }ille ja monille muille selaimille on saatavilla satoja laajennuksia mainosten estämiseksi. Jos haluat kokeilla { -brand-name-firefox }in mainosten estäjiä, <a href="{ $url }">napsauta tätä ladataksesi</a> selaimen, joka asettaa yksityisyyden etusijalle.
 features-adblocker-take-control-of-your-browser = Ota ohjat selaimestasi

@@ -38,6 +38,7 @@ privacy-faq-the-first-is-what-we-call-technical = Ensimmäinen on se, mitä kuts
 privacy-faq-the-second-is-what-we-call-interaction = Toinen on se, mitä kutsumme “vuorovaikutustiedoksi”. Tämä on tietoa henkilön sitoutumisesta { -brand-name-firefox }iin, kuten avointen välilehtien määrä, käyttäjäasetusten tila tai se, kuinka monta kertaa tiettyjä selaimen ominaisuuksia, kuten kuvakaappauksia tai eristystiloja, on käytetty. Keräämme esimerkiksi tietoa Takaisin-painikkeesta, selaimen vasemmassa yläkulmassa olevasta nuolesta, jonka avulla voit siirtyä takaisin edelliselle verkkosivulle tavalla, joka näyttää meille jonkun käyttäneen Takaisin-painiketta, mutta ei kerro mitä verkkosivuja käytetään.
 privacy-faq-do-you-collect-more-data-in = Keräättekö enemmän tietoa { -brand-name-firefox }in esijulkaisuversioista?
 privacy-faq-but-why-do-you-collect-any-data = Miksi edes keräätte mitään tietoja?
+privacy-faq-if-we-dont-know-how-the-browser = Jos emme tiedä, kuinka selain suoriutuu tai mitä ominaisuuksia ihmiset käyttävät, emme voi parantaa sitä ja tarjota haluamaasi hienoa tuotetta. Olemme investoineet tiedonkeruu- ja analysointityökalujen rakentamiseen, joiden avulla voimme tehdä tuotteesemme liittyviä älykkäitä päätöksiä samalla kunnioittaen ihmisten yksityisyyttä.
 privacy-faq-data-collection-still-bugs-me = Tietojen keruu häiritsee silti minua. Voinko estää tietojen keruun?
 privacy-faq-what-about-my-account-data = Entä tilini tiedot?
 privacy-faq-we-are-big-believers-of-data = Uskomme suuresti datan minimointiin, emmekä kysy mitään mitä emme tarvitse.
