@@ -20,12 +20,17 @@ firefox-mobile-privacy-protection-by-default = Yksityisyyden suoja oletuksena
 #   $promise (url) - link to ttps://www.mozilla.org/firefox/features/private-browsing/
 firefox-mobile-leave-no-trace-with-private = Jälkiä jättämättä <a href="{ $url }">yksityisellä selaustilalla</a>. Kun lopetat, selaushistoriasi ja evästeet poistetaan.
 firefox-mobile-stop-companies-from-following = Estä yrityksiä seuraamasta sinua
+# "Tracking Protection" is a feature name; it should be capitalized
+# Variables:
+#   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+firefox-mobile-stay-off-their-radar-with = Pysy seurannan ulkopuolella <a href="{ $url }">{ -brand-name-firefox }in seurannan suojauksella</a>
 firefox-mobile-discover-products-that-keep = Tutustu tuotteisiin, jotka pitävät sinut turvassa
 firefox-mobile-sync-your-history-passwords = Synkronoi historiasi, salasanasi ja kirjanmerkkisi. Lähetä välilehtiä kaikille laitteillesi.
 firefox-mobile-android-only = Vain { -brand-name-android }ille
 firefox-mobile-make-android-your-own = Tee { -brand-name-android }ista omasi
 firefox-mobile-customize-your-firefox-mobile-truncated = Mukauta { -brand-name-firefox }in mobiiliversiota laajennuksilla.
 firefox-mobile-find-it-fast-with-a-smart = Löydä se nopeasti älykkäällä hakupalkilla
+firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } ennakoi tarpeitasi älykkäillä hakuehdotuksilla ja nopealla pääsyllä eniten vierailemillesi sivustoille.
 firefox-mobile-the-privacy-you-deserve-the = Ansaitsemasi yksityisyys. Tarvitsemasi nopeus.
 firefox-mobile-get-firefox-for-mobile = Hanki { -brand-name-firefox } matkapuhelimelle
 firefox-mobile-send-a-download-link-to-your = Lähetä latauslinkki puhelimeesi.

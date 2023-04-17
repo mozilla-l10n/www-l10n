@@ -29,7 +29,7 @@ privacy-passwords-using-password-recovery = Käyttämällä salasanan palautusta
 privacy-passwords-tricking-you-into = Huijaamalla sinua antamaan salasanasi
 privacy-passwords-to-keep-your = Pitääksesi kirjautumistietosi turvassa, sinun on estettävä mahdollisimman monet näistä eri tavoista. Jokaisella riskillä on vastaava estokeino.
 privacy-passwords-look-for-the = Etsi lukkoa selaimestasi
-privacy-passwords-its-easy-to = On helppoa estää hyökkääjiä varastamasta salasanaasi, kun kirjaudut sisään verkkosivustoon, joka ei tue salattua yhteyttä: Harkitse kahdesti, ennen kuin kirjoitat salasanasi, jos et näe lukkokuvaketta osoitepalkissa, kuten tässä:
+privacy-passwords-its-easy-to = Ei ole helppoa estää hyökkääjiä varastamasta salasanaasi, kun kirjaudut sisään verkkosivustoon, joka ei tue salattua yhteyttä: Harkitse kahdesti, ennen kuin kirjoitat salasanasi, jos et näe lukkokuvaketta osoitepalkissa, kuten tässä:
 privacy-passwords-a-closed-lock = Suljettu riippulukko näkyy ennen verkkosivuston osoitetta osoitepalkissa kaikissa yleisimmissä selaimissa.
 privacy-passwords-the-lock-means = Lukon kuva tarkoittaa, että yhteys käyttämääsi verkkosivustoon on salattu, joten vaikka joku seuraisi selaamistasi verkossa (kuten toinen henkilö julkisessa WiFi-verkossa), hän ei näe salasanaasi. { -brand-name-firefox } yrittää varoittaa sinua, kun olet kirjoittamassa salasanaasi sivustolle, johon ei ole muodostettu salattua yhteyttä.
 privacy-passwords-a-padlock-with = Riippulukko, jonka läpi kulkee viiva, osoittaa, että yhteys ei ole turvallinen.
@@ -44,6 +44,7 @@ privacy-passwords-use-firefox-monitor = Käytä <a { $url_monitor }>{ -brand-nam
 privacy-passwords-security-questions-my = Turvakysymykset: Äitini tyttönimi on "Ff926AKa9j6Q"
 privacy-passwords-finally-most-websites = Useimmat verkkosivustot antavat sinun palauttaa salasanasi, jos olet unohtanut sen. Yleensä nämä järjestelmät vaativat sinun vastata joihinkin "turvakysymyksiin", ennen kuin voit nollata salasanasi. <strong>Näihin kysymyksiin annettujen vastausten on oltava yhtä salaisia kuin salasanasi.</strong> Muussa tapauksessa hyökkääjä voi arvata vastaukset ja asettaa salasanasi johonkin, jonka vain hyökkääjä tietää.
 privacy-passwords-get-help-from = Tartu salasanojen hallinnan apuun
+privacy-passwords-now-all-of = Tämä kaikki kuulostaa aika pelottavalta. Ihmismieli ei ole hyvä keksimään pitkiä satunnaisten kirjainten ja merkkien sarjoja, puhumattakaan niiden muistamisesta. Tässä kohtaa esiin astuu salasanojen hallinta. { -brand-name-firefox }iin sisäänrakennettu toiminnallisuus kysyy, haluatko luoda ainutlaatuisen, monimutkaisen salasanan ja tallentaa turvallisesti kirjautumistietosi, joita voit käyttää kirjautumistietojasi milloin tahansa menemällä sivulle about:logins.
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Kun olet kirjautunut sisään { -brand-name-firefox }iin { -brand-name-firefox }-tililläsi, voit synkronoida kaikki laitteesi ja käyttää salasanojasi { -brand-name-firefox }-mobiiliselaimella. Lisätietoja <a { $url_sumo-manager }>sisäänrakennetun salasananhallinnan käyttämisestä</a>.
 privacy-passwords-twofactor-authentication-2fa = Kaksivaiheinen todennus (2FA)
