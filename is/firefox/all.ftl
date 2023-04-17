@@ -26,10 +26,10 @@ firefox-all-32-bit-installers = 32-bita uppsetningarforrit
 firefox-all-download-the-firefox = Sæktu { -brand-name-firefox-browser } á ensku (US) og meira en 90 öðrum tungumálum
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Allir eiga skilið aðgang að internetinu - tungumálið þitt ætti aldrei að vera hindrun. Þess vegna – með hjálp sjálfboðaliða um allan heim – gerum við { -brand-name-firefox-browser } aðgengilegt á meira en 90 tungumálum.
-firefox-all-choose-which-firefox = Veldu hvaða { -brand-name-firefox-browser } þú vilt sækja á tungumálinu þínu
+firefox-all-choose-which-firefox = Veldu hvaða { -brand-name-firefox-browser }-vafra þú vilt sækja á tungumálinu þínu
 firefox-all-firefox-privacy-notice = Persónuverndarstefna { -brand-name-firefox }
 firefox-all-learn-about-firefox = Lærðu um { -brand-name-firefox } vafrana
-firefox-all-the-standard-firefox = Staðlaði { -brand-name-firefox } vafrinn - hraðvirkur með vörnum fyrir persónulegar upplýsingar. Ef þú ert ekki viss um hvaða { -brand-name-firefox } þú átt að velja, skaltu sækja þessa útgáfu.
+firefox-all-the-standard-firefox = Staðlaði { -brand-name-firefox } vafrinn - hraðvirkur með vörnum fyrir persónulegar upplýsingar. Ef þú ert ekki viss um hvaða { -brand-name-firefox }-vafra þú ættir að velja, skaltu sækja þessa útgáfu.
 firefox-all-get-a-sneak-peek-at = Fáðu innsýn í nýjustu eiginleika { -brand-name-firefox } vafrans áður en þeir eru gefnir út.
 firefox-all-test-your-sites-against = Prófaðu vefsvæðin þín á móti { -brand-name-firefox } vafraeiginleikum sem bráðum verða gefnir út, með öflugum, sveigjanlegum DevTools-forritaratólum sem eru sjálfgefið virk.
 firefox-all-count-on-stability-and = Reiknaðu með stöðugleika og einfalda notkun með þessum { -brand-name-firefox }-vafra sem er hannaður fyrir fyrirtæki.
