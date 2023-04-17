@@ -6,20 +6,20 @@
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Internet ihmisiä, ei tuottoa varten
-home-did-you-know-mozilla-the-maker = Tiesitkö? { -brand-name-mozilla } – { -brand-name-firefox }in tekijä – taistelee pitääkseen internetin globaalina julkisena resurssina, joka on kaikkien käytettävissä.
+home-did-you-know-mozilla-the-maker = Tiesitkö? { -brand-name-mozilla } – { -brand-name-firefox }in tekijä – taistelee pitääkseen Internetin globaalina julkisena resurssina, joka on kaikkien käytettävissä.
 home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Pysyvästi nopea.
 home-with-2x-the-speed-built-in = Tuplasti nopeampana, sisäänrakennetulla yksityisyyssuojalla ja { -brand-name-mozilla } sen tekijänä, uusi { -brand-name-firefox } on parempi tapa selata verkkoa.
-home-we-make-the-internet-safer = Teemme internetistä turvallisemman, terveemmän ja paremman kaikkien tähden.
-home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } on { -brand-name-firefox }ia - aitoa vaihtoehtoselainta - kehittävä voittoa tavoittelematon järjestö. Luomme tuotteita ja käytäntöjä pitääksemme internetin palvelemassa ihmisiä, eikä tuottoa.
+home-we-make-the-internet-safer = Teemme Internetistä turvallisemman, terveemmän ja paremman kaikkien tähden.
+home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } on { -brand-name-firefox }ia - aitoa vaihtoehtoselainta - kehittävä voittoa tavoittelematon järjestö. Luomme tuotteita ja käytäntöjä pitääksemme Internetin palvelemassa ihmisiä, eikä tuottoa.
 home-our-impact = Vaikutuksemme
-home-when-you-use-firefox-you-help = Kun käytät { -brand-name-firefox }ia, autat { -brand-name-mozilla }a kamppailemaan virheellistä tietoa vastaan verkossa, opettamaan digitaalisia taitoja sekä tekemään kommenttialueesta inhimillisemmän. Lue lisää, mikä auttaa tekemään internetistä terveemmän.
-home-working-to-keep-the-internet = Toimimme pitääksemme internetin terveenä, avoimena ja kaikkien käytettävissä. Opetamme verkkolukutaitoa, tarjoamme työkaluja ja ajamme niiden asiaa, jotka arvostavat internetiä globaalina julkisena resurssina.
+home-when-you-use-firefox-you-help = Kun käytät { -brand-name-firefox }ia, autat { -brand-name-mozilla }a kamppailemaan virheellistä tietoa vastaan verkossa, opettamaan digitaalisia taitoja sekä tekemään kommenttialueesta inhimillisemmän. Lue lisää, mikä auttaa tekemään Internetistä terveemmän.
+home-working-to-keep-the-internet = Toimimme pitääksemme Internetin terveenä, avoimena ja kaikkien käytettävissä. Opetamme verkkolukutaitoa, tarjoamme työkaluja ja ajamme niiden asiaa, jotka arvostavat Internetiä globaalina julkisena resurssina.
 home-working-at-the-grassroots-and = Toimimme ruohonjuuritasolla, vaikutamme politiikassa, opetamme verkkolukutaitoa, tarjoamme työkaluja ja ajamme niiden asiaa, jotka arvostavat oikeudenmukaisuuteen, avoimuuteen ja kunnioitukseen perustuvaa internetiä.
 home-mozilla-information-trust-initiative = { -brand-name-mozilla } Information Trust Initiative
 home-empowering-women-online = Naisten voimaannuttaminen verkossa
 home-the-coral-project = The Coral Project
-home-read-our-internet-health-report = Lue internetin terveysraporttimme
+home-read-our-internet-health-report = Lue Internetin terveysraporttimme
 home-our-innovations = Innovaatiomme
 home-using-the-web-as-the-platform = Käyttämällä verkkoa alustana luomme avoimia ja innovatiivisia teknologioita, joiden ansiosta kehittäjät voivat työskennellä vapaana yritysten suljetuista ekosysteemeistä ja luoda nopeamman sekä turvallisemman verkon meille kaikille.
 home-virtual-reality-platform = Alusta virtuaalitodellisuudelle
