@@ -32,7 +32,7 @@ history-after-several-years-of-development = Usean vuoden kehitystyön jälkeen 
 history-by-2002-well-over-90 = Vuoteen 2002 mennessä <a href="{ $over90 }">reilusti yli 90 prosenttia internetin käyttäjistä</a> käytti { -brand-name-ie } -selainta.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
-history-not-many-people-noticed = Kovin moni silloin huomannut, mutta Phoenixin ensimmäinen versio (nimettiin myöhemmin { -brand-name-firefox }iksi) julkaistiin { -brand-name-mozilla }-yhteisön jäsenten toimesta sinä vuonna tavoitteenaan tarjota <a href="{ $charter }">paras mahdollinen selauskokemus</a> mahdollisimman laajalle ihmisjoukolle.
+history-not-many-people-noticed = Kovin moni ei silloin huomannut, mutta Phoenixin ensimmäinen versio (nimettiin myöhemmin { -brand-name-firefox }iksi) julkaistiin { -brand-name-mozilla }-yhteisön jäsenten toimesta sinä vuonna tavoitteenaan tarjota <a href="{ $charter }">paras mahdollinen selauskokemus</a> mahdollisimman laajalle ihmisjoukolle.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = Vuonna 2003 { -brand-name-mozilla }-projekti loi { -brand-name-mozilla-foundation }in, <a href="{ $foundation }">itsenäisen voittoa tavoittelemattoman organisaation</a>, jota yksittäiset henkilöt ja yritykset tukivat lahjoituksin.
