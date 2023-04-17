@@ -11,6 +11,7 @@ home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = ວ່ອງໄວທັນໃຈ.
 home-with-2x-the-speed-built-in = ດ້ວຍຄວາມໄວ 2 ເທົ່າ, ການປົກປ້ອງຄວາມເປັນສ່ວນຕົວໃນຕົວ ແລະ { -brand-name-mozilla } ຢູ່ເບື້ອງຫຼັງມັນ, { -brand-name-firefox } ໃໝ່ແມ່ນວິທີທີ່ດີກວ່າໃນການທ່ອງເວັບ.
 home-we-make-the-internet-safer = ພວກເຮົາເຮັດໃຫ້ອິນເຕີເນັດປອດໄພ, ສຸຂະພາບດີຂຶ້ນ ແລະໄວຂຶ້ນເພື່ອຄວາມດີ.
+home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } ແມ່ນບໍ່ຫວັງຜົນກໍາໄລທີ່ຢູ່ເບື້ອງຫຼັງ { -brand-name-firefox }, ຕົວທ່ອງເວັບທາງເລືອກຕົ້ນສະບັບ. ພວກເຮົາສ້າງຜະລິດຕະພັນແລະນະໂຍບາຍເພື່ອຮັກສາອິນເຕີເນັດໃນການບໍລິການຂອງປະຊາຊົນ, ບໍ່ແມ່ນກໍາໄລ.
 home-our-impact = ຜົນກະທົບຂອງເຮົາ
 home-empowering-women-online = ສ້າງຄວາມເຂັ້ມແຂງໃຫ້ແມ່ຍິງອອນໄລນ໌
 home-the-coral-project = ໂຄງການປະກາລັງ

@@ -81,4 +81,6 @@ manifesto-details-build-and-deliver = ສ້າງແລະສົ່ງຜະລ
 manifesto-details-use-the-mozilla = ໃຊ້ຊັບສິນຂອງ { -brand-name-mozilla } (ຊັບສິນທາງປັນຍາເຊັ່ນ: ລິຂະສິດ ແລະເຄື່ອງໝາຍການຄ້າ, ໂຄງສ້າງພື້ນຖານ, ກອງທຶນ ແລະຊື່ສຽງ) ເພື່ອຮັກສາອິນເຕີເນັດໃຫ້ເປັນເວທີເປີດ;
 manifesto-details-promote-models = ຊຸກຍູ້​ບັນດາ​ຮູບ​ແບບ​ສ້າງ​ຄຸນຄ່າ​ທາງ​ດ້ານ​ເສດຖະກິດ​ເພື່ອ​ຜົນ​ປະ​ໂຫຍ​ດສາທາລະນະ; ແລະ
 manifesto-details-promote-the-mozilla = ສົ່ງເສີມຫຼັກການຂອງ { -brand-name-mozilla } Manifesto ໃນການສົນທະນາສາທາລະນະ ແລະ ພາຍໃນອຸດສາຫະກໍາອິນເຕີເນັດ.
+manifesto-details-some-foundation = ບາງກິດຈະກໍາຂອງມູນນິທິ—ປະຈຸບັນແມ່ນການສ້າງ, ການຈັດສົ່ງ ແລະ ການສົ່ງເສີມຜະລິດຕະພັນຜູ້ບໍລິໂພກ—ແມ່ນດໍາເນີນການຕົ້ນຕໍໂດຍຜ່ານບໍລິສັດຍ່ອຍທີ່ເປັນເຈົ້າຂອງທັງໝົດຂອງ { -brand-name-mozilla-foundation }, the { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = ການເຊື້ອເຊີນ
+manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } ເຊີນຜູ້ອື່ນໆທີ່ສະຫນັບສະຫນູນຫຼັກການຂອງ { -brand-name-mozilla } Manifesto ເຂົ້າຮ່ວມກັບພວກເຮົາ, ແລະຊອກຫາວິທີໃຫມ່ເພື່ອເຮັດໃຫ້ວິໄສທັດຂອງອິນເຕີເນັດນີ້ກາຍເປັນຈິງ.

@@ -48,6 +48,7 @@ contribute-made-by-heading = ສ້າງຂຶ້ນໂດຍຄົນທີ່
 
 contribute-newsletter-heading = ບໍ່ແນ່ໃຈເທື່ອ?
 contribute-newsletter-sub-heading = ໄດ້​ຮັບ​ຂ່າວ​ຊຸມ​ຊົນ​ ແລະ ​ການ​ປະ​ກອບ​ສ່ວນ​ໃນກ່ອງຂໍ້ຄວາມຂອງ​ທ່ານ​
+contribute-newsletter-desc = ຈອງຈົດຫມາຍຂ່າວຂອງພວກເຮົາ, ເຂົ້າຮ່ວມ Mozillians ທົ່ວໂລກ, ແລະຮຽນຮູ້ກ່ຽວກັບໂອກາດທີ່ມີຜົນກະທົບທີ່ຈະສະຫນັບສະຫນູນພາລະກິດຂອງ { -brand-name-mozilla }.
 
 ## Support
 
