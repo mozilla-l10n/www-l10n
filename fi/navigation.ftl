@@ -13,6 +13,7 @@ navigation-download-for-android = Lataa { -brand-name-android }ille
 navigation-ios-support = { -brand-name-ios }-tuki
 navigation-android-support = { -brand-name-android }-tuki
 navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } yrityksille
+navigation-strap-on-your-goggles = Kiinnitä lasit ja astu mukaansatempaavaan verkkoon { -brand-name-firefox-browser } VR:llä.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }:lle
 navigation-watch-videos-and-browse = Katso videoita ja selaa internetiä { -brand-name-amazon } { -brand-name-fire-tv }:llä.
 navigation-firefox-browsers-put = { -brand-name-firefox }-selaimet asettavat yksityisyytesi etusijalle — nyt ja aina.
@@ -38,13 +39,16 @@ navigation-your-firefox-account = Oma { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Ota kaikki irti { -brand-name-firefox }-kokemuksestasi, jokaisella laitteella.
 # Outdated string
 navigation-learn-how-to-customize = Opi, kuinka voit muokata { -brand-name-firefox }in toimintaa.
+navigation-explore-the-immersive = Tutustu mukaansatempaavaan verkkoon virtuaalitodellisuuslaseillasi.
 # Outdated string
 navigation-experience-augmented = Koe laajennettu ja virtuaalinen todellisuus { -brand-name-firefox }in avulla.
 navigation-get-together = Kokoonnu virtuaalitodellisuudessa tämän sosiaalisen tilan avulla.
 # Outdated string
 navigation-meet-people-in-experimental = Tapaa ihmisiä kokeellisissa Mixed Reality -keskusteluhuoneissa { -brand-name-firefox }illa.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } ja yhdistetty todellisuus
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } tuo virtuaalisen ja lisätyn todellisuuden avoimeen verkkoon.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } tuo { -brand-name-firefox }in laajennettuun ja virtuaaliseen todellisuuteen.
 navigation-firefox-built-just-for = { -brand-name-firefox }, joka on rakennettu kehittäjille.
@@ -60,6 +64,7 @@ navigation-download = Lataa
 navigation-extensions = Laajennukset
 navigation-support = Tuki
 navigation-privacy = Tietosuoja
+navigation-get-unmatched-data-protection = Verraton tietosuoja organisaatiollesi sopivassa päivitysrytmissä.
 navigation-made-with-respect = Tehty kunnioituksella
 navigation-close-products-menu = Sulje Tuotteet-valikko
 navigation-see-if-your-personal = Tarkista, onko henkilökohtaisia tietojasi vuotanut verkkoon, ja tilaa hälytys uusista vuodoista.
@@ -67,6 +72,7 @@ navigation-check-for-breaches = Tarkista vuotojen varalta
 navigation-see-breaches = Katso vuodot
 navigation-security-tips = Turvallisuusvinkit
 navigation-share-large-files-safely = Jaa suuria tiedostoja turvallisesti "itsetuhoutuvien" linkkien avulla.
+navigation-save-quality-content = Tallenna laadukasta sisältöä mistä tahansa. Täytä mielesi kaikkialla.
 navigation-sign-up = Rekisteröidy
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Nopea. Yksinkertainen. Yksityinen.
 navigation-protect-your-entire-device = Suojaa koko laitteesi ja kaikki sovellukset. Peitä todellinen sijaintisi ja yhdistä jopa 5 laitetta. Tilaa nyt.
