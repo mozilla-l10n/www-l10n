@@ -9,7 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Účet nie je povinný, ale mohol by sa vám zísť.
-whatsnew-account-main-lead-in = Prehliadač { -brand-name-firefox } o vás zbiera len minimum údajov - nevyžaduje dokonca ani vašu e-mailovú adresu. No ak ho použijete na vytvorenie účtu { -brand-name-firefox }, môžeme chrániť vaše súkromie naprieč internetom.
+whatsnew-account-main-lead-in = Prehliadač { -brand-name-firefox } o vás zbiera len minimum údajov - nevyžaduje dokonca ani vašu e-mailovú adresu. No ak ju použijete na vytvorenie účtu { -brand-name-firefox }, budeme môcť chrániť vaše súkromie naprieč internetom.
 whatsnew-account-main-button = Prihlásiť sa
 
 ##
