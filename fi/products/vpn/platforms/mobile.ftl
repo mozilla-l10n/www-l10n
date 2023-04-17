@@ -17,12 +17,18 @@ vpn-mobile-ability = { -brand-name-mozilla-vpn } estää hakkereita ja vakoojia 
 vpn-mobile-wifi-headline = Tunne olosi turvalliseksi käyttäessäsi julkista wifiä
 vpn-mobile-wifi-copy = VPN-verkkomme suojaa Internet-yhteytesi hakkereilta ja vakoojilta, joten voit tehdä ostoksia kahvilassa, tarkistaa pankkitilisi junasta ja hoitaa verkkoasioitasi missä tahansa tietäen, että IP-osoitteesi on suojattu.
 vpn-mobile-about-headline = Tietoja { -brand-name-mozilla }sta
+vpn-mobile-about-copy = { -brand-name-mozilla }, jonka parhaiten tunnettu tuote lienee { -brand-name-firefox-browser }, on maailmanlaajuinen käyttäjien, avustajien ja kehittäjien yhteisö, joka on omistautunut pitämään Internetin voiman ihmisten käsissä. Olemme vuonna 1998 perustettu ja yksi avoimen verkon edelläkävijöistä – ja tehtävämme on pitää se sellaisena.
 vpn-mobile-privacy-headline = Yksityisyyttä yhdellä napsautuksella
 vpn-mobile-privacy-copy = { -brand-name-mozilla-vpn } -sovellus salaa Internet-yhteytesi ja piilottaa matkapuhelimesi tai tablet-laitteesi IP-osoitteen käyttämällä edistynyttä { -brand-name-wireguard }® -yhteyskäytäntöä.
 vpn-mobile-servers-headline = Yhdistä palvelimiin kaikkialla maailmassa
 # Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-mobile-servers-copy = Selaa Brasiliasta. Pelaa Japanista. Suoratoista Australiasta. { -brand-name-mozilla-vpn } antaa sinun vaihtaa puhelimesi tai tietokoneesi sijainnin johonkin yli { $servers } palvelimeen useammassa kuin { $countries } maassa.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Suojaa jopa { $devices } laitetta
+vpn-mobile-devices-copy = Tilauksesi antaa sinulle rajattoman pääsyn turvalliseen VPN-palveluumme älypuhelimella, tabletilla ja tietokoneella, { -brand-name-ios }:lle, { -brand-name-android }ille, { -brand-name-mac-short }ille, { -brand-name-windows }ille ja { -brand-name-linux }ille.
 vpn-mobile-speed-headline = Uskomaton nopeus, ei rajoituksia
 vpn-mobile-speed-copy = Suoratoista videoita, pelaa pelejä, tee ostoksia ja selaa salamannopeasti. { -brand-name-mozilla-vpn } ei rajoita kaistanleveyttäsi tai hidasta älypuhelintasi.
 vpn-mobile-log-headline = Yksityisyytesi on etusijalla

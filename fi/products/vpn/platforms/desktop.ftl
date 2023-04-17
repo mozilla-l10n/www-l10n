@@ -17,14 +17,19 @@ vpn-desktop-maker-of-firefox = { -brand-name-firefox }-selaimen valmistajana ja 
 vpn-desktop-wifi-headline = Tunne olosi turvalliseksi käyttäessäsi julkista wifiä
 vpn-desktop-wifi-copy = VPN-verkkomme suojaa Internet-yhteytesi hakkereilta ja vakoojilta, joten voit tehdä ostoksia kahvilassa, tarkistaa pankkitilisi junasta ja hoitaa verkkoasioitasi missä tahansa ilman turvallisuushuolia.
 vpn-desktop-about-headline = Tietoja { -brand-name-mozilla }sta
+vpn-desktop-about-copy = { -brand-name-mozilla }, jonka parhaiten tunnettu tuote lienee { -brand-name-firefox-browser }, on maailmanlaajuinen käyttäjien, avustajien ja kehittäjien yhteisö, joka on omistautunut pitämään Internetin voiman ihmisten käsissä. Olemme vuonna 1998 perustettu ja yksi avoimen verkon edelläkävijöistä – ja tehtävämme on pitää se sellaisena.
 vpn-desktop-privacy-headline = Yksityisyyttä yhdellä napsautuksella
 vpn-desktop-privacy-copy = { -brand-name-mozilla-vpn } -sovellus salaa Internet-yhteytesi ja piilottaa matkapuhelimesi tai tablet-laitteesi IP-osoitteen käyttämällä edistynyttä { -brand-name-wireguard }® -yhteyskäytäntöä.
 vpn-desktop-servers-headline = Yhdistä palvelimiin kaikkialla maailmassa
+# Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Selaa Brasiliasta. Pelaa Japanista. Suoratoista Meksikosta. { -brand-name-mozilla-vpn } antaa sinun vaihtaa puhelimesi tai tietokoneesi sijainnin johonkin { $servers } palvelimesta.
 # Obsolete string
 vpn-desktop-servers-copy = Selaa Brasiliasta. Pelaa Japanista. Suoratoista Meksikosta. { -brand-name-mozilla-vpn } antaa sinun vaihtaa puhelimesi tai tietokoneesi sijainnin johonkin seuraavista: { $servers }.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Suojaa jopa { $devices } laitetta
+vpn-desktop-devices-copy = Tilauksesi antaa sinulle rajattoman pääsyn turvalliseen VPN-palveluumme älypuhelimella, tabletilla ja tietokoneella, { -brand-name-ios }:lle, { -brand-name-android }ille, { -brand-name-mac-short }ille, { -brand-name-windows }ille ja { -brand-name-linux }ille.
 vpn-desktop-speed-headline = Uskomaton nopeus, ei rajoituksia
 vpn-desktop-speed-copy = Suoratoista videoita, pelaa pelejä, tee ostoksia ja selaa salamannopeasti. { -brand-name-mozilla-vpn } ei rajoita kaistanleveyttäsi tai hidasta älypuhelintasi.
 vpn-desktop-log-headline = Yksityisyytesi on etusijalla
