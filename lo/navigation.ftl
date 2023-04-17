@@ -15,6 +15,8 @@ navigation-android-support = { -brand-name-android } ຮອງຮັບ
 navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } ສໍາລັບວິສາຫະກິດ
 navigation-strap-on-your-goggles = ໃສ່ແວ່ນຕາຂອງເຈົ້າແລ້ວກ້າວເຂົ້າສູ່ເວັບທີ່ເລິກເຊິ່ງດ້ວຍ { -brand-name-firefox-browser } ສຳລັບ VR.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } ສໍາລັບ { -brand-name-fire-tv }
+navigation-watch-videos-and-browse = ເບິ່ງວິດີໂອ ແລະທ່ອງອິນເຕີເນັດໃນ { -brand-name-amazon } { -brand-name-fire-tv } ຂອງທ່ານ.
+navigation-firefox-browsers-put = ຕົວທ່ອງເວັບຂອງ { -brand-name-firefox } ວາງຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າເປັນອັນດັບທໍາອິດ — ແລະມີຢູ່ສະເໝີ.
 navigation-take-the-passwords-youve = ເອົາລະຫັດຜ່ານທີ່ທ່ານບັນທຶກໄວ້ໃນ { -brand-name-firefox } ໄປນຳທ່ານທຸກບ່ອນ.
 # Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } ແມ່ນກຸ່ມຜະລິດຕະພັນທັງໝົດທີ່ອອກແບບມາເພື່ອໃຫ້ທ່ານປອດໄພ ແລະສະຫຼາດກວ່າອອນລາຍ.
@@ -41,6 +43,8 @@ navigation-explore-the-immersive = ສຳຫຼວດເວັບທີ່ເລ
 # Outdated string
 navigation-experience-augmented = ປະສົບການທີ່ເພີ່ມຂຶ້ນ ແລະ virtual reality ກັບ { -brand-name-firefox }.
 navigation-get-together = ຮ່ວມກັນໃນຄວາມເປັນຈິງ virtual ກັບພື້ນທີ່ສັງຄົມອອນໄລນ໌ນີ້.
+# Outdated string
+navigation-meet-people-in-experimental = ພົບກັບຄົນໃນຫ້ອງສົນທະນາແບບປະສົມແບບທົດລອງກັບ { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } ຄວາມເປັນຈິງປະສົມ
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
@@ -65,6 +69,13 @@ navigation-close-products-menu = ປິດເມນູຜະລິດຕະພ�
 navigation-check-for-breaches = ກວດເບິ່ງການລະເມີດ
 navigation-see-breaches = ເບິ່ງການລະເມີດ
 navigation-security-tips = ເຄັດລັບຄວາມປອດໄພ
+navigation-sign-up = ລົງ​ທະ​ບຽນ
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: ໄວ. ງ່າຍດາຍ. ສ່ວນຕົວ.
+# Outdated string
+navigation-connected-and-protected = ເຊື່ອມຕໍ່ ແລະ ປ້ອງກັນ
+navigation-join = ເຂົ້າຮ່ວມ
+navigation-close-join-menu = ປິດເມນູເຂົ້າຮ່ວມ
+navigation-sign-in = ລົງຊື່ເຂົ້າໃຊ້
 navigation-release-notes = ບັນທຶກປະຈຳລຸ້ນ
 navigation-features = ຄຸນລັກສະນະ
 navigation-products = ຜະລິດຕະພັນ
