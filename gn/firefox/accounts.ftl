@@ -25,6 +25,7 @@ firefox-accounts-see-if-youve-been = Ehecha ejapópara’e mba’ekuaarã ñembo
 firefox-accounts-keep-your-passwords = Eguereko ne ñe’ẽñemi ñemo’ãme ha eraha nendive.
 firefox-accounts-get-a-lookout-for = Ehechakuaáke ára ha ára mba’ekuaarã ñemboguáre.
 firefox-accounts-travel-the-internet = Eikundaha ñandutípe ñemo’ãme opaite mba’e’okápe.
+firefox-accounts-we-never = Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã ñandutípe
 firefox-accounts-save-articles = Eñongatu jehaipyre ñanduti pegua
 firefox-accounts-get-it-all-on-every = Eguerekopa opaite mba’e’okápe, eñeñapytĩ’ỹre avave apopyvusu oku’évare.
 
