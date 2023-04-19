@@ -10,19 +10,36 @@ vpn-download-page-description = Discargar { -brand-name-mozilla-vpn } pro { -bra
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Tu pote discargar { -brand-name-mozilla-vpn } sur usque { $devices } apparatos con un subscription.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } offere protection secur pro tote le major systemas operative.
 vpn-download-not-available-in-country = Desolate, { -brand-name-mozilla-vpn } non es disponibile al discargamento in tu pais.
 vpn-download-button-copy = Discargar
+# Obsolete string
 vpn-download-for-windows = VPN pro { -brand-name-windows } 10/11
+vpn-download-for-windows-v2 = VPN pro { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit solo)
+vpn-download-for-windows-long = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-windows }
 vpn-download-for-mac = VPN pro { -brand-name-mac-short }
+vpn-download-for-mac-long = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-version-requirements = Version { $version } e ultra
 vpn-download-for-linux = VPN pro { -brand-name-linux }
+vpn-download-for-linux-long = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } e ultra
 vpn-download-for-android = VPN pro { -brand-name-android }
+vpn-download-for-android-long = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-android }
 vpn-download-for-ios = VPN pro { -brand-name-ios }
+vpn-download-for-ios-long = Discargar VPN { -brand-name-mozilla-vpn } pro { -brand-name-ios }
 vpn-download-get-on-google-play = Obtene lo per { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Obtener { -brand-name-app-store }
+vpn-download-based-on-your = In base a tu apparato actual
+vpn-download-get-mozilla-vpn = Installar { -brand-name-mozilla-vpn }
+vpn-download-privacy-you-can = Confidentialitate que tu pote fider te
+vpn-download-also-available = Alsi disponibile pro:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = Ab le productor de { -brand-name-firefox }, { -brand-name-mozilla-vpn } usa le protocollo avantiate <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® pro cryptar tu activitate online e celar tu position.
+vpn-download-we-never-log = Nos jammais registra, tracia o comparti tu datos de rete.
