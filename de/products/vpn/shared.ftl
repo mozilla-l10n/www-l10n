@@ -77,6 +77,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } ist ein eingetragenes
 
 vpn-shared-pricing-variable-heading-v2 = Wähle ein Abonnement, das deinen Vorstellungen entspricht
 
+vpn-shared-one-subscription-heading = Ein Abonnement für alle Ihre Geräte
+vpn-shared-choose-a-plan-sub-heading = Wähle den Tarif, der zu dir passt
 
 vpn-shared-pricing-variable-sub-heading = Alle Tarife beinhalten:
 vpn-shared-pricing-recommended-offer = Empfehlung

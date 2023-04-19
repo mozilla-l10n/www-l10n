@@ -77,6 +77,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } は Jason A. Donenfel
 
 vpn-shared-pricing-variable-heading-v2 = ご自身に合ったサブスクリプションプランを選択してください
 
+vpn-shared-one-subscription-heading = 1 つのサブスクリプションですべてのデバイスを保護
+vpn-shared-choose-a-plan-sub-heading = 自分に合ったプランを選択
 
 vpn-shared-pricing-variable-sub-heading = すべてのプランに以下が含まれます。
 vpn-shared-pricing-recommended-offer = おすすめ
