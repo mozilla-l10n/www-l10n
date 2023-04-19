@@ -32,6 +32,16 @@ navigation-v2-view-all-firefox-browsers = ເບິ່ງທັງໝົດ { -b
 ## Products menu
 
 navigation-v2-products = ຜະລິດຕະພັນ
+navigation-v2-close-products-menu = ປິດເມນູຜະລິດຕະພັນ
+navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = ເບິ່ງວ່າອີເມວຂອງທ່ານປາກົດຢູ່ໃນການລະເມີດຂໍ້ມູນຂອງບໍລິສັດ.
+navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = ບັນທຶກ ແລະ ຄົ້ນພົບເລື່ອງລາວທີ່ດີທີ່ສຸດຈາກທົ່ວເວັບ.
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = ຊ່ວຍປ້ອງກັນບໍ່ໃຫ້ { -brand-name-facebook } ເກັບຂໍ້ມູນຂອງທ່ານຢູ່ນອກເວັບໄຊຂອງເຂົາເຈົ້າ.
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = ໄດ້​ຮັບ​ການ​ປົກ​ປ້ອງ​ນອກ​ຈາກ​ຕົວ​ທ່ອງ​ເວັບ​ຂອງ​ທ່ານ​, ໃນ​ທຸກ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​.
+navigation-v2-product-promise = ສັນຍາຜະລິດຕະພັນ
 
 ## Who We Are menu
 
