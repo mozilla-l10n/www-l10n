@@ -305,3 +305,9 @@ knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = Az oldal használatához frissíteni kell a böngészőjét.
+# Name for the newsletter in Newsletter subscription page
+newsletters-security-and-privacy-news = Biztonsági és adatvédelmi hírek
+# Description for the newsletter in Newsletter subscription page (Security & Privacy News)
+newsletters-stay-informed-of-the-latest = Maradjon tájékozott a { -brand-name-mozilla }, a { -brand-name-firefox } készítőinek adatvédelmi és biztonsági termékeinek legújabb trendjeiről.
+# Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
+newsletters-get-security-and-privacy-news-and-tips = Kapjon biztonsági és adatvédelmi híreket, valamint termékfrissítéseket a { -brand-name-mozilla(ending: "accented") }tól, hogy biztonságban legyen, és minden olyasmiről tájékozott legyen, amely egészségesebb hellyé teszi a webet.
