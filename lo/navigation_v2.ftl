@@ -42,9 +42,34 @@ navigation-v2-help-prevent-facebook-from = ຊ່ວຍປ້ອງກັນບ�
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = ໄດ້​ຮັບ​ການ​ປົກ​ປ້ອງ​ນອກ​ຈາກ​ຕົວ​ທ່ອງ​ເວັບ​ຂອງ​ທ່ານ​, ໃນ​ທຸກ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​.
 navigation-v2-product-promise = ສັນຍາຜະລິດຕະພັນ
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (ເບຕ້າ)
+navigation-v2-sign-up-for-new-accounts = ສະໝັກບັນຊີໃໝ່ໂດຍບໍ່ຕ້ອງມອບທີ່ຢູ່ອີເມວຂອງເຈົ້າ.
+navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (ເບຕ້າ)
+navigation-v2-protect-your-browsers-connection = ປົກປ້ອງການເຊື່ອມຕໍ່ຂອງຕົວທ່ອງເວັບຂອງທ່ານກັບອິນເຕີເນັດ.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = ຄຸນສົມບັດ ແລະ ເຄື່ອງມືໃໝ່ສຳລັບປະສົບການ { -brand-name-mdn } ທີ່ປັບແຕ່ງເອງ
+navigation-v2-view-all-products = ເບິ່ງສິນຄ້າທັງໝົດ
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = ພວກ​ເຮົາ​ແມ່ນ​ໃຜ
+navigation-v2-close-who-we-are-menu = ປິດເມນູພວກເຮົາແມ່ນໃຜ
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Manifesto
+navigation-v2-learn-about-the-values = ຮຽນ​ຮູ້​ກ່ຽວ​ກັບ​ຄຸນ​ຄ່າ​ ແລະ ​ຫຼັກ​ການ​ທີ່​ຊີ້​ນໍາ​ພາ​ລະ​ກິດ​ຂອງ​ພວກ​ເຮົາ.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = ພົບກັບການບໍ່ຫວັງຜົນກຳໄລທີ່ຢູ່ເບື້ອງຫຼັງ { -brand-name-firefox } ທີ່ຢືນຢູ່ໃນເວັບທີ່ດີກວ່າ.
+navigation-v2-get-involved = ເຂົ້າມາມີສ່ວນຮ່ວມ
+navigation-v2-join-the-fight-for-a = ເຂົ້າຮ່ວມການຕໍ່ສູ້ເພື່ອສຸຂະພາບອິນເຕີເນັດ.
+navigation-v2-leadership = ຄວາມເປັນຜູ່ນຳ
+navigation-v2-careers = ຕຳແຫນ່ງວຽກ
+navigation-v2-mozilla-blog = { -brand-name-mozilla } ບົດຄວາມ
+navigation-v2-learn-about-mozilla-and = ຮຽນ​ຮູ້​ກ່ຽວ​ກັບ { -brand-name-mozilla } ແລະ ​ບັນ​ຫາ​ທີ່​ສໍາ​ຄັນ​ກັບ​ພວກ​ເຮົາ​.
+navigation-v2-stories = ເລື່ອງລາວ
+navigation-v2-more-about-mozilla = ເພີ່ມເຕີມກ່ຽວກັບ { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = ນະວັດຕະກໍາ
+navigation-v2-close-innovation-menu = ປິດເມນູນະວັດຕະກໍາ
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
