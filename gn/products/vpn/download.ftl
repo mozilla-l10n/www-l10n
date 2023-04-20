@@ -33,4 +33,6 @@ vpn-download-for-ios = VPN { -brand-name-ios } peg̃uerã
 vpn-download-for-ios-long = Emboguejy VPN { -brand-name-mozilla-vpn } { -brand-name-ios } peg̃uarã
 vpn-download-get-on-google-play = Erekokuaa { -brand-name-google-play } Store rupi
 vpn-download-get-on-app-store = Erekokuaa { -brand-name-app-store } rupi
+vpn-download-based-on-your = Ne mba’e’oka ag̃aguáicha
 vpn-download-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
+vpn-download-privacy-you-can = Tekoñemi ejeroviakuaaha
