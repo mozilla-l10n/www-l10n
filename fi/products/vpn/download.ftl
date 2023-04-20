@@ -10,19 +10,31 @@ vpn-download-page-description = Lataa { -brand-name-mozilla-vpn } { -brand-name-
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Voit ladata { -brand-name-mozilla-vpn }:n enintään { $devices } laitteelle yhdellä tilauksella.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } tarjoaa turvallisen suojan kaikille tärkeimmille käyttöjärjestelmille.
 vpn-download-not-available-in-country = Valitettavasti { -brand-name-mozilla-vpn } ei ole ladattavissa maassasi.
 vpn-download-button-copy = Lataa
+# Obsolete string
 vpn-download-for-windows = VPN { -brand-name-windows } 10/11:lle
+vpn-download-for-windows-v2 = VPN { -brand-name-windows }ille
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (vain 64-bit)
+vpn-download-for-windows-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-windows }ille
 vpn-download-for-mac = VPN { -brand-name-mac-short }ille
+vpn-download-for-mac-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-mac-short }ille
 # Variables:
 #   $version (number) - operating system version
 vpn-download-version-requirements = Versio { $version } ja uudempi
 vpn-download-for-linux = VPN { -brand-name-linux }ille
+vpn-download-for-linux-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-linux }ille
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } ja uudempi
 vpn-download-for-android = VPN { -brand-name-android }ille
+vpn-download-for-android-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-android }ille
 vpn-download-for-ios = VPN { -brand-name-ios }ille
+vpn-download-for-ios-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-ios }:lle
 vpn-download-get-on-google-play = Lataa { -brand-name-google-play } Storesta
 vpn-download-get-on-app-store = Hanki { -brand-name-app-store }sta
+vpn-download-based-on-your = Perustuen nykyiseen laitteeseesi
+vpn-download-get-mozilla-vpn = Hanki { -brand-name-mozilla-vpn }
+vpn-download-privacy-you-can = Yksityisyyttä, johon voit luottaa
+vpn-download-also-available = Saatavilla myös:
