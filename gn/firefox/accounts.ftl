@@ -12,6 +12,7 @@ firefox-accounts-securely-sync-your = Embojuehe ñe’ẽñemi, techaukaha ha te
 firefox-accounts-enter-your-email-address = Emoĩ ñanduti veve kundaharape eñepyrũ hag̃ua.
 firefox-accounts-already-have-an-account = ¿Eguerekóma ne mba’ete?
 firefox-accounts-sign-in = Emoñepyrũ tembiapo
+firefox-accounts-already = Eguerekóma peteĩ { -brand-name-firefox-account }. ¡Vy’apavẽ!
 firefox-accounts-manage = Eñangareko mba’etére
 # This is followed by a list of things you can do with your Firefox account
 firefox-accounts-sign-in-to = Emoñepyrũ tembiapo nde { -brand-name-firefox-account } peg̃uarã:
@@ -20,6 +21,10 @@ firefox-accounts-meet-our-family-of = Eikuaa ore apopyre ñemigua aty.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Emondo tendayke</a> mba’e’oka ambuévape
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Eñongatu ha embojuehe ñe’ẽñemi</a>
+firefox-accounts-get-email-alerts = Tog̃uahẽ kyhyjerã ñanduti vevépe ne marandu ojehechávo mba’ekuaarã ñemboguape
 # Obsolete string
 firefox-accounts-see-if-youve-been = Ehecha ejapópara’e mba’ekuaarã ñembogua ñandutípe.
 firefox-accounts-keep-your-passwords = Eguereko ne ñe’ẽñemi ñemo’ãme ha eraha nendive.
