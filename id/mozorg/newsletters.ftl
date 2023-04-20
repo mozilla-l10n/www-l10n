@@ -427,3 +427,12 @@ knowledge-is-power-pocket = { -brand-name-pocket }
 
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = Peramban web Anda harus diperbarui agar dapat menggunakan halaman ini.
+
+# Name for the newsletter in Newsletter subscription page
+newsletters-security-and-privacy-news = Berita Keamanan & Privasi
+
+# Description for the newsletter in Newsletter subscription page (Security & Privacy News)
+newsletters-stay-informed-of-the-latest = Dapatkan selalu informasi tentang tren terbaru dalam produk privasi & keamanan dari { -brand-name-mozilla }, pembuat { -brand-name-firefox }.
+
+# Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
+newsletters-get-security-and-privacy-news-and-tips = Dapatkan berita keamanan dan privasi serta pembaruan produk dari { -brand-name-mozilla } agar tetap aman dan mendapatkan informasi tentang segala hal yang menjadikan web tempat yang lebih sehat.
