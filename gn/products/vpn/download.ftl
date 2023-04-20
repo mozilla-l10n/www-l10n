@@ -36,3 +36,5 @@ vpn-download-get-on-app-store = Erekokuaa { -brand-name-app-store } rupi
 vpn-download-based-on-your = Ne mba’e’oka ag̃aguáicha
 vpn-download-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Tekoñemi ejeroviakuaaha
+vpn-download-also-available = Eipurukuaa avei ko’ãvape:
+vpn-download-we-never-log = Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã ñandutípe
