@@ -17,6 +17,10 @@ mobile-compare-at-a-minimum = ቢያንስ፣ የሞባይል አሳሽዎ ታ�
 mobile-compare-features-strong = <strong>ባህሪያት</strong>
 mobile-compare-features = ባህሪያት
 mobile-compare-what-can-your = አሳሽዎ ምን ሊጠቅምዎ ይችላል?
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>በማመሳሰል ላይ</strong>
+mobile-compare-syncing = በማመሳሰል ላይ
+mobile-compare-does-your-browser = አሳሽዎ ከሌሎች መሳሪያዎች ጋር በደንብ ይሠራል?
 mobile-compare-conclusion = መደምደሚያ
 mobile-compare-search-engine-options = የፍለጋ ፍርግም አማራጮች
 mobile-compare-text-to-speech = ጽሑፍ ወደ ንግግር

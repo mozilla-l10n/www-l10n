@@ -13,6 +13,7 @@ mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } 
 mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } በራስ ሰር የመከታተያ ጥበቃ እና የማስታወቂያ እገዳ ያለው የእርስዎ የግላዊነት አሳሽ ነው።
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = በቀላሉ የግል ተንቀሳቃሽ አሰሳ
+mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } ለሁለቱም የ{ -brand-name-ios } እና { -brand-name-android } መሳሪያዎች ይገኛል።
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus }ን ያግኙ
 mobile-focus-send-a-download-link-to-your = የማውረጃ አገናኝ ወደ ስልክዎ ይላኩ።
 mobile-focus-scan-the-qr-code-to-get-started = ለመጀመር የQR ኮዱን ይቃኙ
