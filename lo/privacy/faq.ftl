@@ -23,5 +23,6 @@ privacy-faq-data-collection-still-bugs-me = ການເກັບກຳຂໍ້
 privacy-faq-what-about-my-account-data = ຈະເປັນແນວໃດກ່ຽວກັບຂໍ້ມູນບັນຊີຂອງຂ້ອຍ?
 privacy-faq-we-are-big-believers-of-data = ພວກເຮົາເປັນຜູ້ເຊື່ອຖືໃຫຍ່ຂອງການຫຼຸດຜ່ອນຂໍ້ມູນ ແລະ ບໍ່ຮ້ອງຂໍສິ່ງທີ່ພວກເຮົາບໍ່ຕ້ອງການ.
 privacy-faq-no-we-do-not-buy-peoples-data = ບໍ່, ພວກເຮົາບໍ່ໄດ້ຊື້ຂໍ້ມູນຂອງປະຊາຊົນເພື່ອເປົ້າຫມາຍການໂຄສະນາ.
+privacy-faq-well-it-seems-like-you-really = ດີ, ມັນເບິ່ງຄືວ່າເຈົ້າມີກັບຄືນໄປບ່ອນຂອງຂ້ອຍກ່ຽວກັບເລື່ອງຄວາມເປັນສ່ວນຕົວນີ້.
 privacy-faq-yes-we-do = ແມ່ນ, ພວກເຮົາເຮັດ.
 privacy-faq-find-out-more-about-how-mozilla = ຊອກຫາເພີ່ມເຕີມກ່ຽວກັບວິທີທີ່ { -brand-name-mozilla } ປົກປ້ອງອິນເຕີເນັດ.

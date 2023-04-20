@@ -9,6 +9,9 @@
 privacy-index-mozilla-privacy = { -brand-name-mozilla } ຄວາມເປັນສ່ວນຕົວ
 privacy-index-contact-mozilla = ຕິດຕໍ່ { -brand-name-mozilla }
 privacy-index-if-you-want-to-make-a-correction = ຖ້າທ່ານຕ້ອງການແກ້ໄຂຂໍ້ມູນຂອງທ່ານຫຼືທ່ານມີຄໍາຖາມກ່ຽວກັບນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງພວກເຮົາ, ກະລຸນາຕິດຕໍ່ກັບ:
+# Variables:
+#   $sumo (url) - link to https://support.mozilla.org/
+privacy-index-for-product-support-requests = ສຳລັບຄຳຮ້ອງຂໍການຊ່ວຍເຫຼືອຜະລິດຕະພັນ, ກະລຸນາ <a href="{ $sumo }">ເຂົ້າໄປທີ່ກະດານສົນທະນາຂອງພວກເຮົາ</a>.
 privacy-index-data-privacy-principles = ຫຼັກການຄວາມເປັນສ່ວນຕົວຂອງຂໍ້ມູນ
 privacy-index-transparency-report = ລາຍງານຄວາມໂປ່ງໃສ
 privacy-index-get-involved = ເຂົ້າມາມີສ່ວນຮ່ວມນຳກັນ!
