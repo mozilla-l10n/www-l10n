@@ -308,6 +308,6 @@ newsletters-update-your-browser = Az oldal használatához frissíteni kell a b�
 # Name for the newsletter in Newsletter subscription page
 newsletters-security-and-privacy-news = Biztonsági és adatvédelmi hírek
 # Description for the newsletter in Newsletter subscription page (Security & Privacy News)
-newsletters-stay-informed-of-the-latest = Maradjon tájékozott a { -brand-name-mozilla }, a { -brand-name-firefox } készítőinek adatvédelmi és biztonsági termékeinek legújabb trendjeiről.
+newsletters-stay-informed-of-the-latest = Maradjon tájékozott a { -brand-name-mozilla }, a { -brand-name-firefox } készítőinek legfrissebb adatvédelmi trendjeiről és a legújabb biztonsági termékeiről.
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
-newsletters-get-security-and-privacy-news-and-tips = Kapjon biztonsági és adatvédelmi híreket, valamint termékfrissítéseket a { -brand-name-mozilla(ending: "accented") }tól, hogy biztonságban legyen, és minden olyasmiről tájékozott legyen, amely egészségesebb hellyé teszi a webet.
+newsletters-get-security-and-privacy-news-and-tips = Kapjon biztonsági és adatvédelmi, valamint termékfrissítéssel kapcsolatos híreket a { -brand-name-mozilla(ending: "accented") }tól, hogy biztonságban legyen, és minden olyasmiről tájékozott legyen, amely egészségesebb hellyé teszi a webet.
