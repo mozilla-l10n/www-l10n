@@ -7,6 +7,7 @@
 
 # HTML page title
 privacy-faq-mozillas-data-privacy-faq = ຄຳຖາມທີ່ຖາມເລື້ອຍໆກ່ຽວກັບຄວາມເປັນສ່ວນຕົວຂອງຂໍ້ມູນຂອງ { -brand-name-mozilla }
+privacy-faq-at-mozilla-we-respect-and-protect-desc = ທີ່ { -brand-name-mozilla }, ພວກເຮົາເຄົາລົບ ແລະ ປົກປ້ອງຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ.
 privacy-faq-we-stand-for-people-over-profit = ພວກເຮົາຢືນຢູ່ສໍາລັບປະຊາຊົນຫຼາຍກວ່າກໍາໄລ.
 privacy-faq-we-only-collect-the-data-we = ພວກເຮົາພຽງແຕ່ເກັບກໍາຂໍ້ມູນທີ່ພວກເຮົາຕ້ອງການເພື່ອເຮັດໃຫ້ຜະລິດຕະພັນທີ່ດີທີ່ສຸດ.
 privacy-faq-we-put-people-in-control-of = ພວກເຮົາເຮັດໃຫ້ຄົນຄວບຄຸມຂໍ້ມູນ ແລະປະສົບການອອນໄລນ໌ຂອງເຂົາເຈົ້າ.
