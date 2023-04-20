@@ -41,5 +41,5 @@ vpn-download-also-available = Ezekhez is elérhető:
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-download-from-the-maker = A { -brand-name-firefox } készítőjétől, a { -brand-name-mozilla-vpn } a fejlett <a href="{ $url }" { $attrs }>{ -brand-name-wireguard } rendszert használja /a>® protokoll az online tevékenység titkosításához és a tartózkodási helyének elrejtéséhez.
+vpn-download-from-the-maker = A { -brand-name-firefox } készítőjétől, a { -brand-name-mozilla-vpn } a fejlett <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protokollt használja az online tevékenysége titkosításához és a tartózkodási helyének elrejtéséhez.
 vpn-download-we-never-log = Sosem naplózzuk, követjük nyomon vagy osztjuk meg a hálózati adatait.
