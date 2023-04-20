@@ -38,3 +38,4 @@ multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundatio
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = ກະລຸນາກວດເບິ່ງຢ່າງໜ້ອຍໜຶ່ງໃນຕົວເລືອກຈົດໝາຍຂ່າວ.
 multi-newsletter-form-title = ຮັກເວັບ
+multi-newsletter-form-desc = ຮັບເອົາຈົດໝາຍຂ່າວຂອງ { -brand-name-mozilla } ແລະ ຊ່ວຍພວກເຮົາຮັກສາເວັບເປີດ ແລະ ບໍ່ເສຍຄ່າ.
