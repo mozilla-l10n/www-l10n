@@ -72,6 +72,7 @@
 -brand-name-firefox-private-network = شبكة فَيَرفُكس الخاصة
 -brand-name-firefox-relay = فَيَرفُكس Relay
 -brand-name-firefox-sync = فَيَرفُكس Sync
+-brand-name-firefox-translations = ترجمات Firefox
 
 ## Firefox products (short names)
 
