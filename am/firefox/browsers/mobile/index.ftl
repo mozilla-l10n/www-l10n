@@ -16,6 +16,8 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } ለ { -brand-name-ios 
 browsers-mobile-go-your-own-way = በተንቀሳቃሽ ስልክ { -brand-name-firefox } በራስዎ መንገድ ይጠቀሙ
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } ለስልክ ከእርስዎ ጋር ይስማማል እና ሁሉንም ክፍት ትሮችዎን ፣ ያለፉ ፍለጋዎችዎን እና ተወዳጅ ድረ-ገጾችዎን ለማየት ከመቼውም ጊዜ በበለጠ ቀላል ያደርገዋል።
 browsers-mobile-the-more-you-use = ብዙ በተጠቀሙበት ቁጥር ብልህ ይሆናል። { -brand-name-firefox } መነሻ ገጽ ለእርስዎ ይስማማል እና ሁልጊዜ ካቆሙበት ለመቀጠል ቀላል ያደርገዋል።
+# "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
+browsers-mobile-get-enhanced-tracking-protection = የተሻሻለ የክትትል ጥበቃን ያግኙ እና { -brand-name-firefox }ን በእርስዎ { -brand-name-iphone } እና { -brand-name-ipad } ላይ በዘላቂነት ነባሪ አሳሽ ያድርጉት።
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = የተንቀሳቃሽ ስልክ አሳሾችን አወዳድር
 browsers-mobile-compare = አወዳድር
