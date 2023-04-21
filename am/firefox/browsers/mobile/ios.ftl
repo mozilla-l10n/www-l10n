@@ -23,7 +23,9 @@ mobile-ios-stay-private-online = በመስመር ላይ ግላዊ ይሁኑ
 mobile-ios-your-browsing-history = የአሰሳ ታሪክዎ ታሪክ ነው
 mobile-ios-get-more-firefox = በህይወትዎ ውስጥ ተጨማሪ { -brand-name-firefox } ያግኙ
 mobile-ios-get-to-your-go-to = በእርስዎ { -brand-name-iphone } እና { -brand-name-ipad } ላይ የሚሄዱባቸውን ቦታዎች በፍጥነት ያግኙ
+mobile-ios-see-your-open-tabs = የእርስዎን ክፍት ትሮች፣ ያለፉ ፍለጋዎች እና ተወዳጅ ድረ-ገጾች ሁሉንም በ{ -brand-name-firefox-browser } ለ{ -brand-name-ios } በአንድ ቦታ ይመልከቱ።
 mobile-ios-own-your-home = የመነሻ ማያዎ ባለቤት ይሁኑ
+mobile-ios-get-to-the-parts = ወደሚፈልጉት የበይነ-መረብ ክፍሎች በፍጥነት ይድረሱ። ሁሉንም ክፍት ትሮችዎን፣ የቅርብ ጊዜ ፍለጋዎችዎን፣ እልባቶችዎን እና ተወዳጅ ድረ-ገፆችዎን ሁሉንም በአንድ ቦታ ለማየት ይምረጡ።
 mobile-ios-find-it-all = ሁሉንም በፍጥነት ያግኙ
 # Obsolete string
 mobile-ios-keep-tabs-on = በእነዚህ ሁሉ ትሮች ላይ ትሮችን አቆይ
