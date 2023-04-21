@@ -5,6 +5,7 @@
 newsletter-form-please-enter-a-valid = ກະລຸນາໃສ່ທີ່ຢູ່ອີເມວທີ່ຖືກຕ້ອງ
 newsletter-form-you-must-agree-to = ທ່ານຕ້ອງຕົກລົງເຫັນດີກັບແຈ້ງການຄວາມເປັນສ່ວນຕົວ
 newsletter-form-your-email-address = ທີ່ຢູ່ອີເມວຂອງທ່ານ
+newsletter-form-we-are-sorry-but-there = ພວກເຮົາຂໍອະໄພ, ແຕ່ມີບັນຫາກັບລະບົບຂອງພວກເຮົາ. ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ!
 newsletter-form-please-select-country = ກະລຸນາເລືອກປະເທດ ຫຼື ພາກພື້ນ
 newsletter-form-please-select-language = ກະລຸນາເລືອກພາສາ
 # Only localize "yourname". Do not change "@example.com".
