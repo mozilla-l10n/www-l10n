@@ -13,6 +13,7 @@ firefox-enterprise-windows-64-bit = 64-ቢት { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI ጫኚ
+firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release }({ -brand-name-esr })- MSI ጫኚ
 firefox-enterprise-support = ድጋፍ
 firefox-enterprise-msi-installers = MSI ጫኚዎች
