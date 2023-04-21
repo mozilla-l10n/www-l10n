@@ -19,8 +19,11 @@ browsers-mobile-the-more-you-use = ብዙ በተጠቀሙበት ቁጥር ብል
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = የተሻሻለ የክትትል ጥበቃን ያግኙ እና { -brand-name-firefox }ን በእርስዎ { -brand-name-iphone } እና { -brand-name-ipad } ላይ በዘላቂነት ነባሪ አሳሽ ያድርጉት።
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = የተስተካከለ፣ እጅግ በጣም ፈጣን የስልክ አሳሽ ከከፍተኛ ደረጃ የግላዊነት ባህሪያት ጋር ይፈልጋሉ? { -brand-name-firefox-focus } አሳሽዎን ከከፈቱበት ጊዜ አንስቶ እስከ ዘጉበት ሴኮንድ ድረስ ሁሉንም የአሰሳ ታሪክዎን በራስ ሰር ያጠፋል።
 browsers-mobile-compare-mobile-browsers = የተንቀሳቃሽ ስልክ አሳሾችን አወዳድር
+browsers-mobile-see-how-firefox-stacks-up = ወደ ትላልቆቹ ሦስቱ ጉዳዮች ግላዊነት፣ ባህሪያት እና ማመሳሰል ሲመጣ { -brand-name-firefox } ከሌሎች ታዋቂ አሳሾች አንፃር እንዴት እንደሚልቅ ይመልከቱ፡ ።
 browsers-mobile-compare = አወዳድር
+browsers-mobile-see-how-firefox-for-desktop-stacks = { -brand-name-firefox } ለዴስክቶፕ እስከ ሰባት ሌሎች አሳሾች እንዴት እንደሚጠቀልል ይመልከቱ።
 browsers-mobile-download = አውርድ
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
