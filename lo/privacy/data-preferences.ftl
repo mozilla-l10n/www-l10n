@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
 data-preferences-page-title = ຈັດການການຕັ້ງຄ່າການເກັບກຳຂໍ້ມູນພາກສ່ວນທີສາມຂອງທ່ານ
+data-preferences-notification-opt-out = ທ່ານໄດ້ເລືອກອອກຈາກການເກັບກຳຂໍ້ມູນຂອງບຸກຄົນທຳອິດ.
 data-preferences-notification-opt-in = ທ່ານໄດ້ເລືອກເຂົ້າໃນການເກັບກຳຂໍ້ມູນຂອງພາກສ່ວນທີສາມ.
 data-preferences-current-preference = ການຕັ້ງຄ່າປັດຈຸບັນ:
 data-preferences-please-enable-javascript = ກະລຸນາເປີດໃຊ້ JavaScript ເພື່ອຈັດການການຕັ້ງຄ່າຂໍ້ມູນຂອງທ່ານ.
