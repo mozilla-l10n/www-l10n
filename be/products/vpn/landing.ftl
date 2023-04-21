@@ -75,7 +75,10 @@ vpn-landing-faq-download-desc = Наведайце <a { $attrs }>старонк�
 vpn-landing-invite-page-heading = Далучыцца да спісу чакання VPN
 vpn-landing-invite-email-label = Які ў вас адрас электроннай пошты?
 vpn-landing-invite-required-label = Абавязкова
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = У якой краіне вы жывяце?
+vpn-landing-invite-language-label = Выберыце пажаданую мову.
 vpn-landing-invite-thanks-heading = Дзякуй! Вы ў спісе
 
 ##
