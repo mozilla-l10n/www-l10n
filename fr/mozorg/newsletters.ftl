@@ -427,3 +427,12 @@ knowledge-is-power-pocket = { -brand-name-pocket }
 
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = Votre navigateur web doit être à jour pour pouvoir utiliser cette page.
+
+# Name for the newsletter in Newsletter subscription page
+newsletters-security-and-privacy-news = Actualités : sécurité et vie privée
+
+# Description for the newsletter in Newsletter subscription page (Security & Privacy News)
+newsletters-stay-informed-of-the-latest = Restez au courant des derniers produits concernant la sécurité et la confidentialité développés par { -brand-name-mozilla }, l’organisation derrière { -brand-name-firefox }.
+
+# Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
+newsletters-get-security-and-privacy-news-and-tips = Recevez des actualités sur la sécurité et la confidentialité, ainsi que des mises à jour sur les produits de { -brand-name-mozilla }, pour assurer votre sécurité et vous informer sur tout ce qui contribue à faire du Web un endroit sain.
