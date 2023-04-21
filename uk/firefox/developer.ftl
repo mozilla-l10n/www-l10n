@@ -9,7 +9,7 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } - блискавично швидкий браузер із найновішими інструментами розробника та можливостями, такими як підтримка CSS-сітки та зневаджувач
+firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } – блискавично швидкий браузер із найновішими інструментами веброзробника, підтримкою CSS Grid, налагодження, а також багатьма іншими можливостями
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Ласкаво просимо до вашого нового улюбленого браузера! Отримайте доступ до найновіших можливостей, швидкодії та інструментів розробки, необхідних для створення відкритого інтернету.
 firefox-developer-speak-up = Висловіться
