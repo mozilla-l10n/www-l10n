@@ -101,6 +101,23 @@ vpn-shared-platform-cta-headline = እንጀምር
 vpn-shared-platform-cta-button = ዋጋን እና ተገኝነትን ይመልከቱ
 vpn-shared-platform-privacy-promise = የእርስዎ ግላዊነት የእኛ ቃል-ኪዳን ነው
 vpn-shared-platform-trust-partner-headline = ስለ ታማኝ አጋራችን
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = የ{ -brand-name-mozilla-vpn } በ<a href="{ $policy }">{ -brand-name-mullvad }</a> በተሰራ <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® ፕሮቶኮልን በመጠቀም ዓለምአቀፍ የአገልጋዮች አውታረ መረብ ላይ ይሰራል። { -brand-name-mullvad } የእርስዎን ግላዊነት ያስቀድማል እና ምንም ዓይነት ማስታወሻዎችን መዝገቦ አያስቀምጥም።
+vpn-shared-platform-what-youll-get = በ{ -brand-name-mozilla-vpn } ምን ያገኛሉ፡-
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = ቪፒኤን ምንድን ነው?
+vpn-subnav-faqs = (ተየጥ) ተደጋግሞ የሚጠየቁ ጥያቄዎች
+vpn-subnav-get-help = እገዛ ያግኙ
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = ዴስክቶፕ
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = ተንቀሳቃሽ ስልክ
+vpn-subnav-platform-windows = { -brand-name-windows }
 
 ## VPN Affiliate cookie notice
 
