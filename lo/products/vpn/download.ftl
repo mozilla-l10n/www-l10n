@@ -6,6 +6,9 @@
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
 vpn-download-page-title = ດາວໂຫລດ { -brand-name-mozilla-vpn }
+vpn-download-button-copy = ດາວໂຫລດ
+# Obsolete string
+vpn-download-for-windows = VPN ສຳລັບ { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN ສໍາລັບ { -brand-name-windows }
 vpn-download-for-mac = VPN ສໍາລັບ { -brand-name-mac-short }
 vpn-download-for-ios = VPN ສໍາລັບ { -brand-name-ios }
