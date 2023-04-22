@@ -141,6 +141,11 @@ vpn-add-relay-to-protect = የእርስዎን ኢሜይል እና ስልክ ቁ�
 vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> አክል
 vpn-shared-relay-email-masking = የኢሜል ጭንብል
 vpn-shared-relay-phone-masking = የስልክ ጭንብል
+vpn-shared-get-vpn-plus-relay = ያግኙ { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = ጥቅል ለምን?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = በ{ -brand-name-relay-premium } ዓመታዊ ዕቅድ ላይ <span>{ $percent }% ይቆጥቡ</span>
 
 ##
 
