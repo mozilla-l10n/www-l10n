@@ -9,6 +9,9 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } ያግኙ
 vpn-shared-waitlist-link = የተጠባባቂ ዝርዝሩን ይቀላቀሉ
 vpn-shared-sign-in-link = አስቀድመው ተመዝጋቢ ነዎት?
+# Outdated string
+vpn-shared-available-countries-v4 = በአሁኑ ጊዜ { -brand-name-mozilla-vpn }ን በኦስትሪያ፣ ቤልጂየም፣ ካናዳ፣ ፈረንሳይ፣ ጀርመን፣ አየርላንድ፣ ጣሊያን፣ ማሌዥያ፣ ኔዘርላንድስ፣ ኒውዚላንድ፣ ሲንጋፖር፣ ስፔን፣ ስዊዘርላንድ፣ ዩናይትድ ኪንግደም እና ዩኤስ ውስጥ እናቀርባለን።
+vpn-shared-available-countries-v5 = በአሁኑ ጊዜ { -brand-name-mozilla-vpn }ን በኦስትሪያ፣ ቤልጂየም፣ ካናዳ፣ ፈረንሳይ፣ ጀርመን፣ አየርላንድ፣ ጣሊያን፣ ማሌዥያ፣ ኔዘርላንድስ፣ ኒውዚላንድ፣ ሲንጋፖር፣ ስፔን፣ ስዊዘርላንድ፣ ዩናይትድ ኪንግደም እና ዩኤስ ውስጥ እናቀርባለን።
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = ውስጥ ተለይቶ ቀርቧል
 vpn-shared-features-encrypt = በመሣሪያ ደረጃ ምስጠራ
