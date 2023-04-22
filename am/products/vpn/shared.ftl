@@ -53,6 +53,27 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } የJason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-one-subscription-heading = ለሁሉም የእርስዎ መሣሪያዎች አንድ ምዝገባ
+vpn-shared-choose-a-plan-sub-heading = ለእርስዎ የሚስማማውን እቅድ ይምረጡ
+vpn-shared-pricing-variable-sub-heading = ሁሉም እቅዶቻችን የሚከተሉትን ያካትታሉ:-
+vpn-shared-pricing-recommended-offer = የሚመከር
+vpn-shared-pricing-plan-12-month-v2 = የ 12 ወር እቅድ
+# Outdated string
+vpn-shared-pricing-plan-12-month = 12 ወር
+vpn-shared-pricing-plan-monthly-v2 = ወርሃዊ እቅድ
+# Outdated string
+vpn-shared-pricing-plan-monthly = ወርሃዊ
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span> /በወር</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span> /በወር+ ግብር</span>
+# Outdated string
+vpn-shared-pricing-get-6-month = የ6 ወር እቅድ ያግኙ
+# Outdated string
+vpn-shared-pricing-get-12-month = የ 12 ወር እቅድ ያግኙ
 
 # Platform subpage shared strings
 
