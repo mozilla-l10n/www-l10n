@@ -20,6 +20,7 @@ vpn-shared-features-encrypt = በመሣሪያ ደረጃ ምስጠራ
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = { $servers }+ አገልጋዮች በ{ $countries }+ አገሮች
 vpn-shared-features-activity = የአውታረ መረብ እንቅስቃሴዎ አይመዘገብም
+vpn-shared-features-activity-logs = ምንም የመስመር ላይ የእንቅስቃሴ መዝገብ ማስታወሻዎች አሁን ወይም በጭራሽ የሉም
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
