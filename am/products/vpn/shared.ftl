@@ -74,9 +74,33 @@ vpn-shared-pricing-monthly-plus-tax = { $amount }<span> /በወር+ ግብር</s
 vpn-shared-pricing-get-6-month = የ6 ወር እቅድ ያግኙ
 # Outdated string
 vpn-shared-pricing-get-12-month = የ 12 ወር እቅድ ያግኙ
+# Outdated string
+vpn-shared-pricing-get-6-month-v2 = የ6 ወር እቅድ ያግኙ
+vpn-shared-pricing-get-12-month-v2 = የ12 ወራት እቅድ ያግኙ
+vpn-shared-pricing-get-monthly = ወርሃዊ እቅድ ያግኙ
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = { $percent }% ይቆጥቡ
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = { -brand-name-mozilla-vpn }* ላይ { $percent }% ይቆጥቡ
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = * ለ12 ወራት እቅድ ሲመዘገቡ
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = { $amount } ጠቅላላ
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = { $amount } ጠቅላላ + ግብር
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = እንጀምር
+vpn-shared-platform-cta-button = ዋጋን እና ተገኝነትን ይመልከቱ
+vpn-shared-platform-privacy-promise = የእርስዎ ግላዊነት የእኛ ቃል-ኪዳን ነው
+vpn-shared-platform-trust-partner-headline = ስለ ታማኝ አጋራችን
 
 ## VPN Affiliate cookie notice
 
