@@ -118,12 +118,29 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = ተንቀሳቃሽ ስልክ
 vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = አይፒ አድራሻ ምንድን ነው?
+vpn-subnav-when-to-use-a-vpn = ቪፒኤን መቼ መጠቀም አለብን
+vpn-subnav-subscribe = ለ{ -brand-name-mozilla-vpn } ይመዝገቡ
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = የትኛው የእኛ አጋር ወደ { -brand-name-mozilla-vpn } እንደመራዎ ለማወቅ ኩኪዎችን እንጠቀማለን። የግል መለያ መረጃን ከአጋሮቻችን ጋር አንጋራም። የእኛን <a { $attrs }>የግላዊነት መመሪያ</a> ያንብቡ።
+vpn-shared-affiliate-notification-reject = ውድቅ አድርግ
+vpn-shared-affiliate-notification-ok = ይሁን
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = በ{ -brand-name-vpn } + { -brand-name-relay } ግላዊነትዎን ያሳድጉ
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = የእርስዎን ኢሜይል እና ስልክ ቁጥር ለመጠበቅ { -brand-name-firefox-relay }ን ወደ ምዝገባዎ ያክሉ። <a href="{ $url }">የበለጠ ለመረዳት</a>።
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> አክል
+vpn-shared-relay-email-masking = የኢሜል ጭንብል
+vpn-shared-relay-phone-masking = የስልክ ጭንብል
 
 ##
 
