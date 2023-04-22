@@ -41,13 +41,18 @@ features-adblocker-if-seeing-too-many-ads = Jos liian runsas mainosten näkemine
 features-adblocker-do-it-yourself-custom = Mukautettu-tila omiin tarpeisiisi
 features-adblocker-the-custom-setting-gives = Mukautettu-asetus antaa sinulle täyden hallinnan. Voit päättää, mitä estät, mukaan lukien jäljittäjät, evästeet ja muut. Jos sallit evästeet verkkosivustolta, olet automaattisesti mukautetussa tilassa.
 features-adblocker-cover-your-trail-block = Peitä jälkesi, estä jäljittäjät
+features-adblocker-click-on-the-trackers = Napsauta Seurantaan tarkoitettu sisältö -valintaa, jonka myötä voit estää seuraimet kahdella tavalla. Yksi tapa estää seuraimet on tehdä se vain yksityisen selauksen tilassa. Toinen tapa on estää seuraimet kaikissa ikkunoissa. Huomioi, että jos päätät estää seuraimet aina, jotkin sivut eivät välttämättä lataudu oikein.
 features-adblocker-take-a-bite-out-of-cookies = Evää evästeet
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = Vierailemasi verkkosivustot lähettävät <a href="{ $url }">evästeitä</a>. Ne oleskelevat tietokoneellasi ja seuraavat, mitä olet tehnyt sivustolla. Kun lentoyhtiö nostaa hintojasi, koska olet katsonut lentolippuja kerran aiemmin samana päivänä, se on evästeen seurausta.
 features-adblocker-in-firefox-you-can-block = { -brand-name-firefox }issa voit estää kaikki kolmannen osapuolen evästeet tai vain seurainten asettamat evästeet. Huomioi, että kaikkien evästeiden estäminen voi rikkoa joitakin sivustoja.
 features-adblocker-send-a-do-not-track-signal = Lähetä Älä seuraa -signaali
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
+features-adblocker-if-you-dont-want-your = Jos et halua, että toimintaasi verkossa käytetään mainonnan kohdistamiseen, voit lähettää verkkosivustoille kohteliaasti "kiitos, mutta ei kiitos"-kirjeen valitsemalla <a href="{ $url }">Älä seuraa</a> -vaihtoehdon { -brand-name-firefox }issa. Osallistuminen on vapaaehtoista, mutta osallistuvat verkkosivustot lopettavat seuraamisen välittömästi.
 features-adblocker-speed-up-thanks-to-ad = Nopeutusta mainosestäjien ansiosta
+features-adblocker-in-some-cases-an-ad-blocker = Joissakin tapauksissa mainosten esto voi auttaa selainta toimimaan aiempaa nopeammin. Kun mainos latautuu, se voi hidastaa verkkosivustoa. Etsimäsi löytäminen kestää kauemmin, kun joudut sulkea silmien eteen ilmestyviä mainoksia.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more = Jos haluat lisätietoja mainosten estämisestä, { -brand-name-firefox }ille ja monille muille selaimille on saatavilla satoja laajennuksia mainosten estämiseksi. Jos haluat kokeilla { -brand-name-firefox }in mainosten estäjiä, <a href="{ $url }">napsauta tätä ladataksesi</a> selaimen, joka asettaa yksityisyyden etusijalle.
