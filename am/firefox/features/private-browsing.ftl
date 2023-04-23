@@ -12,3 +12,5 @@ features-private-browsing-firefox-protects = { -brand-name-firefox } የእር�
 features-private-browsing-download-firefox = { -brand-name-firefox }ን አውርድ
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }፡ ተጨማሪ ጥበቃ። ያነሰ ጭንቀት።
 features-private-browsing-were-obsessed-with = የእርስዎን ግላዊነት በመጠበቅ አባዜ ተጠምደናል። ለዚህ ነው { -brand-name-firefox } የግል አሰሳን ከሌሎቹ የበለጠ ኃይለኛ ያደረግነው።
+features-private-browsing-browse-without = ያለ ዱካ ያስሱ
+features-private-browsing-sharing-is-caring = መጋራት አሳቢነት ነው፣ ግን ያ የእርስዎ ምርጫ መሆን አለበት። { -brand-name-firefox } የግል አሰሳ እንደ የይለፍ ቃሎች፣ ኩኪዎች እና ታሪክ ያሉ የመስመር ላይ መረጃዎችን ከኮምፒዩተርዎ ላይ በራስ ሰር ይሰርዘዋል። ስለዚህ ሲዘጉ ምንም ዱካ እንዳይተው ማለት ነው።
