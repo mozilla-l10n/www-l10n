@@ -10,19 +10,32 @@ vpn-download-page-description = Загрузите { -brand-name-mozilla-vpn } �
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = С одной подпиской вы можете загрузить { -brand-name-mozilla-vpn } на { $devices } устройств.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } предлагает надежную и безопасную защиту для всех основных операционных систем.
 vpn-download-not-available-in-country = К сожалению, { -brand-name-mozilla-vpn } недоступен для загрузки в вашей стране.
 vpn-download-button-copy = Загрузить
+# Obsolete string
 vpn-download-for-windows = VPN для { -brand-name-windows } 10/11
+vpn-download-for-windows-v2 = VPN для { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (только 64-битная версия)
+vpn-download-for-windows-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-windows }
 vpn-download-for-mac = VPN для { -brand-name-mac-short }
+vpn-download-for-mac-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-mac-short }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-version-requirements = Версия { $version } и выше
 vpn-download-for-linux = VPN для { -brand-name-linux }
+vpn-download-for-linux-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } и выше
 vpn-download-for-android = VPN для { -brand-name-android }
+vpn-download-for-android-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-android }
 vpn-download-for-ios = VPN для { -brand-name-ios }
+vpn-download-for-ios-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-ios }
 vpn-download-get-on-google-play = Получить в магазине { -brand-name-google-play }
 vpn-download-get-on-app-store = Получить в { -brand-name-app-store }
+vpn-download-based-on-your = На основе вашего текущего устройства
+vpn-download-get-mozilla-vpn = Получить { -brand-name-mozilla-vpn }
+vpn-download-privacy-you-can = Приватность, которой вы можете доверять
+vpn-download-also-available = Также доступен для:
+vpn-download-we-never-log = Мы никогда не регистрируем, не отслеживаем и не передаем ваши сетевые данные.
