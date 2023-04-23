@@ -6,6 +6,12 @@
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
 vpn-download-page-title = ດາວໂຫລດ { -brand-name-mozilla-vpn }
+vpn-download-page-description = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android }, ແລະ { -brand-name-ios }.
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-download-sub-heading = ທ່ານສາມາດດາວໂຫຼດ { -brand-name-mozilla-vpn } ໄດ້ສູງສຸດ { $devices } ອຸປະກອນດ້ວຍການສະໝັກສະມາຊິກດຽວ.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ສະຫນອງການປົກປ້ອງທີ່ປອດໄພແລະປອດໄພສໍາລັບທຸກລະບົບປະຕິບັດການທີ່ສໍາຄັນ.
+vpn-download-not-available-in-country = ຂໍອະໄພ, { -brand-name-mozilla-vpn } ບໍ່ສາມາດດາວໂຫລດໄດ້ໃນປະເທດຂອງທ່ານ.
 vpn-download-button-copy = ດາວໂຫລດ
 # Obsolete string
 vpn-download-for-windows = VPN ສຳລັບ { -brand-name-windows } 10/11
@@ -18,6 +24,7 @@ vpn-download-for-mac-long = ດາວໂຫລດ { -brand-name-mozilla-vpn } �
 #   $version (number) - operating system version
 vpn-download-version-requirements = ເວີຊັນ { $version } ຂຶ້ນໄປ
 vpn-download-for-linux = VPN ສໍາລັບ { -brand-name-linux }
+vpn-download-for-linux-long = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } ຂຶ້ນໄປ

@@ -16,6 +16,7 @@ privacy-index-data-privacy-principles = ຫຼັກການຄວາມເປ�
 privacy-index-transparency-report = ລາຍງານຄວາມໂປ່ງໃສ
 privacy-index-get-involved = ເຂົ້າມາມີສ່ວນຮ່ວມນຳກັນ!
 privacy-index-outdated-policies = ນະໂຍບາຍທີ່ໝົດກຳນົດແລ້ວ
+privacy-index-mozilla-websites-communications = { -brand-name-mozilla } ເວັບໄຊທ໌, ການສື່ສານ ແລະ ຄຸກກີ້
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
