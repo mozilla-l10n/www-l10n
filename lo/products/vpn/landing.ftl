@@ -17,15 +17,66 @@ vpn-landing-brand-trust-heading = VPN ຈາກຍີ່ຫໍ້ທີ່ທ່
 
 vpn-landing-faq-heading = FAQs
 vpn-langing-faq-uses-question-heading = VPN ແມ່ນຫຍັງ ແລະ ມັນໃຊ້ຫຍັງແດ່?
+# Obsolete string
+vpn-landing-faq-uses-conceal = ການປິດບັງທີ່ຢູ່ IP ທີ່ແທ້ຈິງຂອງເຈົ້າ. ອັນນີ້ປົກປ້ອງຕົວຕົນຂອງເຈົ້າ ແລະ ປິດບັງສະຖານທີ່ຂອງເຈົ້າ.
 vpn-landing-faq-protected-question-heading = ຄວາມເປັນສ່ວນຕົວຂອງຂ້ອຍຖືກປົກປ້ອງແນວໃດ?
+vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } ປຽບທຽບກັບການແຂ່ງຂັນແນວໃດ?
+vpn-landing-faq-compatibility-question-heading = ອຸປະກອນໃດທີ່ { -brand-name-mozilla-vpn } ເຂົ້າກັນໄດ້ກັບ?
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } ແມ່ນເຂົ້າກັນໄດ້ກັບ:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-bit ເທົ່ານັ້ນ)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-bit ເທົ່ານັ້ນ)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ຂຶ້ນໄປ)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 ຂຶ້ນໄປ)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ຂຶ້ນໄປ)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (ລຸ້ນ 8 ຂຶ້ນໄປ)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (ລຸ້ນ 6 ຂຶ້ນໄປ)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (ຮຸ່ນ 6 ຂຶ້ນໄປ)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+#   $version (number) - minimum supported version number
+vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } ຂຶ້ນໄປ)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ຂຶ້ນໄປ)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ຂຶ້ນໄປ)
+# Outdated string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu }-ເທົ່ານັ້ນ)
+# Outdated string
+vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-ເທົ່ານັ້ນ)
+vpn-landing-faq-refund-question-heading = ນະໂຍບາຍການຄືນເງິນຂອງ { -brand-name-mozilla-vpn } ແມ່ນຫຍັງ?
+vpn-landing-faq-manage-subscription-question-heading = ຂ້ອຍຈະຈັດການການສະໝັກໃຊ້ຂອງຂ້ອຍໄດ້ແນວໃດ?
+vpn-landing-faq-link = ເບິ່ງ FAQs ເພີ່ມເຕີມ
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = ເຂົ້າຮ່ວມບັນຊີລາຍຊື່ລໍຖ້າ: { -brand-name-mozilla-vpn }
+vpn-landing-invite-required-label = ຕ້ອງການ
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = yourname@example.com
+vpn-landing-invite-country-label = ເຈົ້າອາໄສຢູ່ປະເທດໃດ?
 
 ##
 
