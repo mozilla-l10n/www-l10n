@@ -31,9 +31,22 @@ misinformation-images-captions = Vastaavatko kuvat ja kuvatekstit toisiaan?
 misinformation-images-are-powerful = Kuvat ovat erittäin tehokas työkalu kohdistettuun disinformaatioon. Kuvatekstistä riippuen havainto voi kääntyä täysin päinvastaiseksi. Jos olet epävarma, suorita käänteinen kuvahaku saadaksesi selville, miten kuvaa on luonnehdittu muilla sivustoilla.
 misinformation-how-firefox-helps-heading = Kuinka { -brand-name-firefox } auttaa sinua välttämään väärää tietoa
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } pitää seuraimet kurissa:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Kuten aiemmin mainittiin, seurannalla on suuri rooli väärän tiedon leviämisessä. <a href="{ $firefox }">Käyttämällä { -brand-name-firefox }ia</a> <a href="{ $protection }">tehostetun seurannan suojauksen</a> kanssa auttaa estämällä kolmannen osapuolen seuraimet oletusarvoisesti monilta mainostajilta ja muilta toimijoilta, kun selaat verkkoa, jotta kykenet taas hallita tietojasi verkossa.
 misinformation-social-media-clean-heading = { -brand-name-firefox } auttaa pitämään sosiaalisen median syötteet puhtaina:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Sosiaaliset verkostot tietävät sinusta paljon. Lisäksi ne voivat seurata sinua alustojensa ulkopuolella Jaa- ja Tykkää-painikkeillaan seurantasuojauksesta huolimatta – vaikka sinulla ei olisi tiliä kyseisissä palveluissa. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox }ille varmistaa, että { -brand-name-facebook } ja { -brand-name-instagram } eivät voi tehdä tätä aivan niin helposti, mikä taas vähentää huomattavasti todennäköisyyttä nähdä väärää tietoa mainoksissa ja maksetussa sisällössä.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } auttaa tuomaan esiin aikasi arvoista sisältöä:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+# Variables:
+#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
+#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
+#   $pocket (url) - link to https://getpocket.com/
+misinformation-surface-content-desc = Kun avaat uuden välilehden { -brand-name-firefox }-selaimessa, näet </a> <a href="{ $recommended }">{ -brand-name-pocket }in suosittelemia artikkeleita</a>. { -brand-name-pocket } ei käytä henkilökohtaisia tietojasi suositusten muodostamiseen. Sen sijaan artikkelit ovat oikeiden ihmisten kuratoimia, jotka käyttävät samaa sovellusta. Kyky löytää uusia tarinoita, näkökulmia ja mielipiteitä on yksi tapa torjua väärän tiedon leviämistä. Saat entistä enemmän suosituksia tilaamalla <a href="{ $pocket_hits }">{ -brand-name-pocket }-uutiskirjeen</a> ja lataamalla <a href="{ $pocket }">{ -brand-name-pocket }-sovelluksen</a>.
 misinformation-why-trust-firefox = Miksi luottaa { -brand-name-firefox }iin?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
