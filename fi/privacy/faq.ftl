@@ -44,9 +44,17 @@ privacy-faq-the-first-is-what-we-call-technical = Ensimmäinen on se, mitä kuts
 privacy-faq-the-second-is-what-we-call-interaction = Toinen on se, mitä kutsumme “vuorovaikutustiedoksi”. Tämä on tietoa henkilön sitoutumisesta { -brand-name-firefox }iin, kuten avointen välilehtien määrä, käyttäjäasetusten tila tai se, kuinka monta kertaa tiettyjä selaimen ominaisuuksia, kuten kuvakaappauksia tai eristystiloja, on käytetty. Keräämme esimerkiksi tietoa Takaisin-painikkeesta, selaimen vasemmassa yläkulmassa olevasta nuolesta, jonka avulla voit siirtyä takaisin edelliselle verkkosivulle tavalla, joka näyttää meille jonkun käyttäneen Takaisin-painiketta, mutta ei kerro mitä verkkosivuja käytetään.
 privacy-faq-do-you-collect-more-data-in = Keräättekö enemmän tietoa { -brand-name-firefox }in esijulkaisuversioista?
 privacy-faq-sort-of-in-addition-to-the-data = Tavallaan. Yllä kuvattujen tietojen lisäksi saamme oletusarvoisesti kaatumis- ja virheraportteja { -brand-name-firefox }in esijulkaisuversiosta.
+# Variables:
+#   $link (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-we-may-also-collect-additional = Saatamme myös kerätä lisätietoja esijulkaisusta <a href="{ $link }">tutkimuksia</a> varten. Esimerkiksi jotkin tutkimukset vaativat niin kutsuttuja "verkkoaktiviteettitietoja", jotka voivat sisältää URL-osoitteita ja muita tietoja tietyistä verkkosivustoista. Tämä auttaa meitä vastaamaan tiettyihin kysymyksiin { -brand-name-firefox }in parantamisen osalta, esimerkiksi kuinka integroida suosittuja verkkosivustoja tietyillä maa-asetustoilla.
+privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla }n { -brand-name-firefox }-esijulkaisuversiot ovat kehitysalustoja, joita päivitetään säännöllisesti kokeellisilla ominaisuuksilla. Keräämme esijulkaisuversioista enemmän tietoja, kuin mitä teemme varsinaisen julkaisun jälkeen ymmärtääksemme, miten nämä kokeelliset ominaisuudet toimivat. Voit kieltäytyä näiden tietojen keräämisestä asetuksia muuttamalla.
 privacy-faq-but-why-do-you-collect-any-data = Miksi edes keräätte mitään tietoja?
 privacy-faq-if-we-dont-know-how-the-browser = Jos emme tiedä, kuinka selain suoriutuu tai mitä ominaisuuksia ihmiset käyttävät, emme voi parantaa sitä ja tarjota haluamaasi hienoa tuotetta. Olemme investoineet tiedonkeruu- ja analysointityökalujen rakentamiseen, joiden avulla voimme tehdä tuotteesemme liittyviä älykkäitä päätöksiä samalla kunnioittaen ihmisten yksityisyyttä.
 privacy-faq-data-collection-still-bugs-me = Tietojen keruu häiritsee silti minua. Voinko estää tietojen keruun?
+# Variables:
+#   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
+privacy-faq-yes-user-control-is-one-of-our = Kyllä. Käyttäjän mahdollisuus hallita on yksi tietosuojaperiaatteistamme. Toteutamme sen käytännössä { -brand-name-firefox }in <a href="{ $settings }">yksityisyysasetusten sivulla</a>, joka toimii keskitettynä paikkana kaikille, jotka haluavat hallita yksityisyysasetuksiaan { -brand-name-firefox }issa. Voit <a href="{ $data }">poistaa tiedonkeruun käytöstä</a> siellä.
 privacy-faq-what-about-my-account-data = Entä tilini tiedot?
 privacy-faq-we-are-big-believers-of-data = Uskomme suuresti datan minimointiin, emmekä kysy mitään mitä emme tarvitse.
 # Variables:
