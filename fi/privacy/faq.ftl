@@ -21,9 +21,15 @@ privacy-faq-the-following-questions-and = Seuraavien kysymysten ja vastausten pi
 privacy-faq-i-use-firefox-for-almost-everything = Käytän { -brand-name-firefox }ia melkein kaikkeen verkossa. Te { -brand-name-mozilla }lla taidatte tietää minusta paljon, eikö vain?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, laitteellasi tai tietokoneellasi toimiva selainohjelma, on porttisi internetiin. Selain hallinnoi lukuisia tietoja sivustoista, joilla vierailet internetissä, mutta nuo tiedot pysyvät laitteellasi. { -brand-name-mozilla }, { -brand-name-firefox }in tehnyt yritys, ei kerää tietojasi (ellet erityisesti pyydä meitä tekemään sitä).
 privacy-faq-really-you-dont-collect-my-browsing = Ettekö todella kerää selaushistoriaani?
+# Variables:
+#   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
+privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } ei tiedä niin paljon kuin voisit olettaa, kuinka ihmiset selaavat verkkoa. Selainvalmistajana se on itse asiassa meille suuri haaste. Siksi olemme rakentaneet valinnaisia työkaluja, kuten <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, joiden avulla kiinnostuneet käyttäjät voivat halutessaan antaa meille tietoa heidän selauksestaan. Jos synkronoit selaushistoriasi { -brand-name-firefox }-asennusten välillä, emme tiedä historian sisältöä, koska laitteesi on salannut sen.
 privacy-faq-it-seems-like-every-company = Vaikuttaa siltä, että kaikki verkossa toimivat yritykset myyvät ja ostavat käyttäjiin liittyviä tietoja. Ette taida erota muista yrityksistä.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ei myy sinuun liittyviä tietoja, emmekä osta sinuun liittyviä tietoja.
 privacy-faq-wait-so-how-do-you-make-money = Hetkinen, miten oikein tienaatte?
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } ei ole mikä tahansa organisaatio. Yhteisön avoimen lähdekoodin projektina vuonna 1998 perustettu { -brand-name-mozilla } on tehtävävetoinen organisaatio, joka pyrkii rakentamaan terveellisempää Internetiä. Suurin osa { -brand-name-mozilla-corporation }in tuloista tulee rojalteista, jotka on ansaittu { -brand-name-firefox }-selainhakukumppanuuksien ja jakelusopimusten kautta ympäri maailmaa. Saat lisätietoja siitä, kuinka ansaitsemme rahaa <a href="{ $link }">vuosittaisesta talousraportistamme</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Okei, ensimmäiset kysymykset olivat yksinkertaisia. Mitä tietoa keräätte?
 # Variables:
@@ -37,6 +43,7 @@ privacy-faq-there-are-two-categories-of = Keräämme oletusarvoisesti kahta tiet
 privacy-faq-the-first-is-what-we-call-technical = Ensimmäinen on se, mitä kutsumme “teknisiksi tiedoiksi”. Nämä ovat tietoja selaimeen liittyen, kuten käyttöjärjestelmästä, jossa selain on käynnissä, ja tietoja selaimen virheistä tai kaatumisista.
 privacy-faq-the-second-is-what-we-call-interaction = Toinen on se, mitä kutsumme “vuorovaikutustiedoksi”. Tämä on tietoa henkilön sitoutumisesta { -brand-name-firefox }iin, kuten avointen välilehtien määrä, käyttäjäasetusten tila tai se, kuinka monta kertaa tiettyjä selaimen ominaisuuksia, kuten kuvakaappauksia tai eristystiloja, on käytetty. Keräämme esimerkiksi tietoa Takaisin-painikkeesta, selaimen vasemmassa yläkulmassa olevasta nuolesta, jonka avulla voit siirtyä takaisin edelliselle verkkosivulle tavalla, joka näyttää meille jonkun käyttäneen Takaisin-painiketta, mutta ei kerro mitä verkkosivuja käytetään.
 privacy-faq-do-you-collect-more-data-in = Keräättekö enemmän tietoa { -brand-name-firefox }in esijulkaisuversioista?
+privacy-faq-sort-of-in-addition-to-the-data = Tavallaan. Yllä kuvattujen tietojen lisäksi saamme oletusarvoisesti kaatumis- ja virheraportteja { -brand-name-firefox }in esijulkaisuversiosta.
 privacy-faq-but-why-do-you-collect-any-data = Miksi edes keräätte mitään tietoja?
 privacy-faq-if-we-dont-know-how-the-browser = Jos emme tiedä, kuinka selain suoriutuu tai mitä ominaisuuksia ihmiset käyttävät, emme voi parantaa sitä ja tarjota haluamaasi hienoa tuotetta. Olemme investoineet tiedonkeruu- ja analysointityökalujen rakentamiseen, joiden avulla voimme tehdä tuotteesemme liittyviä älykkäitä päätöksiä samalla kunnioittaen ihmisten yksityisyyttä.
 privacy-faq-data-collection-still-bugs-me = Tietojen keruu häiritsee silti minua. Voinko estää tietojen keruun?
