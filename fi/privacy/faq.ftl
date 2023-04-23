@@ -62,6 +62,7 @@ privacy-faq-we-are-big-believers-of-data = Uskomme suuresti datan minimointiin, 
 privacy-faq-you-dont-need-an-account-to = Et tarvitse tiliä käyttääksesi { -brand-name-firefox }ia. <a href="{ $accounts }">Tilit</a> ovat tarkoitettu tietojen synkronointiin laitteiden välillä, mutta kysymme sinulta vain sähköpostiosoitetta. Emme halua tietää esimerkiksi nimeäsi, osoitettasi, syntymäpäivääsi tai puhelinnumeroasi.
 privacy-faq-you-use-digital-advertising = Käytätte digitaalista mainontaa osana markkinointianne. Taidatte ostaa ihmisten tietoja kohdentaaksenne verkkomainontaanne, eikö vain?
 privacy-faq-no-we-do-not-buy-peoples-data = Ei, emme osta henkilöihin liittyviä tietoja kohdentaaksemme mainontaamme.
+privacy-faq-we-do-ask-our-advertising-partners = Pyydämme mainontakumppaneitamme käyttämään vain suoraan käyttäjältä saatuja tietoja, jotka verkkosivustot ja julkaisijat tietävät kaikista käyttäjistä, kuten käyttämäsi selaimen ja laitteen.
 privacy-faq-well-it-seems-like-you-really = Vaikuttaa siltä, että taidatte todella kunnioittaa ihmisten yksityisyyttä.
 privacy-faq-yes-we-do = Kyllä, niin kunnioitamme.
 privacy-faq-find-out-more-about-how-mozilla = Ota selvää, kuinka { -brand-name-mozilla } suojelee internetiä.
