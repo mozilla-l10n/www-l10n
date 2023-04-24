@@ -17,21 +17,21 @@ vpn-download-button-copy = Llwytho i Lawr
 vpn-download-for-windows = VPN ar gyfer { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN ar gyfer { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-did yn unig)
-vpn-download-for-windows-long = Lawrlwythwch { -brand-name-mozilla-vpn } ar gyfer { -brand-name-windows }
+vpn-download-for-windows-long = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-windows }
 vpn-download-for-mac = VPN ar gyfer { -brand-name-mac-short }
-vpn-download-for-mac-long = Lawrlwythwch { -brand-name-mozilla-vpn } ar gyfer { -brand-name-mac-short }
+vpn-download-for-mac-long = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-mac-short }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-version-requirements = Fersiwn { $version } ac uwch
 vpn-download-for-linux = VPN ar gyfer { -brand-name-linux }
-vpn-download-for-linux-long = Lawrlwythwch { -brand-name-mozilla-vpn } ar gyfer { -brand-name-linux }
+vpn-download-for-linux-long = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } ac uwch
 vpn-download-for-android = VPN ar gyfer { -brand-name-android }
-vpn-download-for-android-long = Lawrlwythwch { -brand-name-mozilla-vpn } ar gyfer { -brand-name-android }
+vpn-download-for-android-long = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-android }
 vpn-download-for-ios = VPN ar gyfer { -brand-name-ios }
-vpn-download-for-ios-long = Lawrlwythwch VPN { -brand-name-mozilla-vpn } ar gyfer { -brand-name-ios }
+vpn-download-for-ios-long = Llwythwch VPN { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-ios }
 vpn-download-get-on-google-play = Ei gael ar { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Ei gael ar { -brand-name-app-store }
 vpn-download-based-on-your = Yn seiliedig ar eich dyfais gyfredol
@@ -42,5 +42,5 @@ vpn-download-also-available = Ar gael hefyd ar gyfer:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = O'r gwneuthurwr { -brand-name-firefox } , mae { -brand-name-mozilla-vpn } yn defnyddio'r uwch <a href = " { $url } " { $attrs }> { -brand-name-wireguard }</a>® protocol i amgryptio eich gweithgaredd ar-lein a chuddio'ch lleoliad.
-vpn-download-we-never-log = Nid ydym byth yn logio, olrhain na rhannu eich data rhwydwaith.
-vpn-download-previous-versions = Lawrlwythwch fersiynau blaenorol ar gyfer { -brand-name-windows } a { -brand-name-mac-short }
+vpn-download-we-never-log = Nid ydym byth yn cofnodi, olrhain na rhannu eich data rhwydwaith.
+vpn-download-previous-versions = Llwythwch i lawr fersiynau blaenorol ar gyfer { -brand-name-windows } a { -brand-name-mac-short }
