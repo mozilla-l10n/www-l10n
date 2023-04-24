@@ -16,15 +16,24 @@ vpn-download-button-copy = ڈاؤن لوڈ
 vpn-download-for-windows = { -brand-name-windows } 10/11 کیتے وی پی این
 vpn-download-for-windows-v2 = { -brand-name-windows } کیتے وی پی این
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-بٹ صرف)
+vpn-download-for-windows-long = { -brand-name-windows } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 vpn-download-for-mac = { -brand-name-mac-short } کیتے وی پی این
+vpn-download-for-mac-long = { -brand-name-mac-short } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 # Variables:
 #   $version (number) - operating system version
 vpn-download-version-requirements = ورشن { $version } تے ودھ
 vpn-download-for-linux = { -brand-name-linux } کیتے وی پی این
+vpn-download-for-linux-long = { -brand-name-linux } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = اوبنٹو { $version } تے ودھ
 vpn-download-for-android = { -brand-name-android } کیتے وی پی این
+vpn-download-for-android-long = { -brand-name-android } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 vpn-download-for-ios = { -brand-name-ios } کیتے وی پی این
+vpn-download-for-ios-long = { -brand-name-ios } کیتے وی پی این { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 vpn-download-get-on-google-play = { -brand-name-google-play } سٹور توں گھنو
 vpn-download-get-on-app-store = { -brand-name-app-store } توں گھنو
+vpn-download-based-on-your = تہاݙی موجودہ ڈیوائس دی بݨیاد تے
+vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو
+vpn-download-privacy-you-can = رازداری جیندے تے تساں بھروسہ کر سڳدے ہو
+vpn-download-also-available = ایں کیتے وی دستیاب ہے:
