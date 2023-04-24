@@ -43,3 +43,4 @@ vpn-download-also-available = 也可用于：
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = { -brand-name-firefox } 出品，{ -brand-name-mozilla-vpn } 使用高级 <a href="{ $url }" { $attrs }>{ -brand-name-wireguard } /a>® 协议加密您的在线活动并隐藏您的位置。
 vpn-download-we-never-log = 我们从不记录、跟踪或共享您的网络数据。
+vpn-download-previous-versions = 下载 { -brand-name-windows } 和 { -brand-name-mac-short } 上的历史版本
