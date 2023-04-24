@@ -68,6 +68,7 @@ navigation-v2-careers = Powołanja
 navigation-v2-work-for-a-mission-driven-updated = Dźěłajće za organizaciju z misiju, za kotrejež produkty ludźo na prěnim městnje steja.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Zhońće wjace wo { -brand-name-mozilla } a problemach, kotrež su nam wažne.
+navigation-v2-stories = Stawiznički
 navigation-v2-more-about-mozilla = Wjace wo { -brand-name-mozilla }
 
 ## Innovation menu
@@ -86,4 +87,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Darće swój hłós, zo by přichod weba móže na kóždeho słuchać.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Zhońće wjace wo nowej rěči podobnej na Assembler na niskej runinje.
-navigation-v2-more-mozilla-innovation = Wjace inowacijow { -brand-name-mozilla }

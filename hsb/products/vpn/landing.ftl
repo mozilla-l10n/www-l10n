@@ -103,6 +103,8 @@ vpn-landing-faq-link = Hlejće dalše husto stajene prašenja
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Přistupće čakanskej lisćinje: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Dajće wam informować, hdyž { -brand-name-mozilla-vpn } je za waš region k dispoziciji.
+# Outdated string
 vpn-landing-invite-page-desc = Dajće wam informować, hdyž { -brand-name-mozilla-vpn } je za waš grat a region k dispoziciji.
 vpn-landing-invite-page-heading = Přistupće čakanskej lisćinje VPN
 vpn-landing-invite-email-label = Kotra je waša e-mejlowa adresa?
@@ -111,17 +113,8 @@ vpn-landing-invite-required-label = Trěbny
 vpn-landing-invite-email-placeholder = wašemjeno@example.com
 vpn-landing-invite-country-label = W kotrym kraju bydliće?
 vpn-landing-invite-language-label = Wubjerće swoju preferowanu rěč.
-vpn-landing-invite-platform-label = Na kotre platformy sće zajimowany?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Z kliknjenjom na „Čakanskej lisćinje přistupić“ zwoliće do našich <a href="{ $privacy }">prawidłow priwatnosće</a>.
 vpn-landing-invite-your-information = Waše informacije so jenož wužiwaja, zo bychu was wo disponujomnosći platformy informowali.
 vpn-landing-invite-thanks-heading = Wulki dźak! Sće na lisćinje
