@@ -12,7 +12,7 @@ jobs:
   notify-of-updates:
     runs-on: ubuntu-latest
     steps:
-      - name: "Trigger webhook"
+      - name: Trigger webhook
         shell: bash
         run: >
           curl -X POST
