@@ -10,6 +10,7 @@ vpn-download-page-description = Emboguejy { -brand-name-mozilla-vpn } { -brand-n
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Emboguejykuaa { -brand-name-mozilla-vpn } pe { $devices } peve mba’e’okápe peteĩ ñemboheraguapýpe.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ome’ẽse ñemo’ã hekorosãva opavavete apopyvusu omba’apóvape.
 vpn-download-not-available-in-country = Rombyasy, { -brand-name-mozilla-vpn } neremboguejykuaamo’ãi ko’ag̃aite ne retãme.
 vpn-download-button-copy = Mboguejy
 # Obsolete string
@@ -38,3 +39,4 @@ vpn-download-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Tekoñemi ejeroviakuaaha
 vpn-download-also-available = Eipurukuaa avei ko’ãvape:
 vpn-download-we-never-log = Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã ñandutípe
+vpn-download-previous-versions = Emboguejy apopyre itujavéva { -brand-name-windows } ha { -brand-name-mac-short }
