@@ -8,7 +8,7 @@
 # HTML page title
 browsers-mobile-firefox-mobile-browsers-put = V mobilných prehliadačoch { -brand-name-firefox(case: "gen") } je vaše súkromie na prvom mieste
 # HTML page description
-browsers-mobile-overview-of-all-mobile = Prehľad všetkých mobilných prehliadačov { -brand-name-firefox(case: "gen") } ({ -brand-name-firefox } pre { -brand-name-android }, { -brand-name-firefox } pre { -brand-name-ios } , { -brand-name-firefox-focus })
+browsers-mobile-overview-of-all-mobile = Prehľad všetkých mobilných prehliadačov { -brand-name-firefox(case: "gen") } ({ -brand-name-firefox } pre { -brand-name-android }, { -brand-name-firefox } pre { -brand-name-ios }, { -brand-name-firefox-focus })
 # Obsolete string
 browsers-mobile-at-home-or-on-the-move = Či doma alebo na cestách, na každom zariadení si zaslúžite súkromie. Vylepšená ochrana pred sledovaním je automatická v každom mobilnom prehliadači { -brand-name-firefox(case: "gen") }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
