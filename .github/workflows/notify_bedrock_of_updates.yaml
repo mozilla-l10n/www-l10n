@@ -8,6 +8,10 @@ on:
       - master
   workflow_dispatch: # For manual runs, if needed
 
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
 jobs:
   notify-of-updates:
     runs-on: ubuntu-latest
