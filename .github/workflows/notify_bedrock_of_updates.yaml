@@ -1,0 +1,24 @@
+# Notify Bedrock that l10n files have updated, by pinging Bedrock's Fluent-files
+# update pipeline at mozmeao/www-fluent-update
+
+name: Ping mozmeao/www-fluent-update when master changes
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch: # For manual runs, if needed
+
+jobs:
+  notify-of-updates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Trigger webhook"
+        shell: bash
+        run: >
+          curl -X POST
+          https://api.github.com/repos/mozmeao/www-fluent-update/actions/workflows/run-fluent-updates.yml/dispatches
+          --header "Accept: application/vnd.github+json"
+          --header "Authorization: Bearer ${{ secrets.WWW_FLUENT_UPDATE_PAT }}"
+          --header "Content-Type: application/json"
+          -d '{"ref":"main"}'
+        # 'main' as the ref above refers to the branch on the www-fluent-update repo
