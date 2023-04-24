@@ -43,3 +43,4 @@ vpn-download-also-available = Такође доступно за:
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = Од произвођача { -brand-name-firefox } прегледача, { -brand-name-mozilla-vpn } користи напредни <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® протокол да шифрује ваше активности на мрежи и сакрије вашу локацију.
 vpn-download-we-never-log = Не бележимо, не пратимо нити делимо ваше мрежне податке
+vpn-download-previous-versions = Преузмите претходне верзије за { -brand-name-windows } и { -brand-name-mac-short }
