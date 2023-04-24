@@ -46,7 +46,7 @@ misinformation-surface-content-heading = { -brand-name-firefox } auttaa tuomaan 
 #   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
 #   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
 #   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Kun avaat uuden välilehden { -brand-name-firefox }-selaimessa, näet </a> <a href="{ $recommended }">{ -brand-name-pocket }in suosittelemia artikkeleita</a>. { -brand-name-pocket } ei käytä henkilökohtaisia tietojasi suositusten muodostamiseen. Sen sijaan artikkelit ovat oikeiden ihmisten kuratoimia, jotka käyttävät samaa sovellusta. Kyky löytää uusia tarinoita, näkökulmia ja mielipiteitä on yksi tapa torjua väärän tiedon leviämistä. Saat entistä enemmän suosituksia tilaamalla <a href="{ $pocket_hits }">{ -brand-name-pocket }-uutiskirjeen</a> ja lataamalla <a href="{ $pocket }">{ -brand-name-pocket }-sovelluksen</a>.
+misinformation-surface-content-desc = Kun avaat uuden välilehden { -brand-name-firefox }-selaimessa, näet <a href="{ $recommended }">{ -brand-name-pocket }in suosittelemia artikkeleita</a>. { -brand-name-pocket } ei käytä henkilökohtaisia tietojasi suositusten muodostamiseen. Sen sijaan artikkelit ovat oikeiden ihmisten kuratoimia, jotka käyttävät samaa sovellusta. Kyky löytää uusia tarinoita, näkökulmia ja mielipiteitä on yksi tapa torjua väärän tiedon leviämistä. Saat entistä enemmän suosituksia tilaamalla <a href="{ $pocket_hits }">{ -brand-name-pocket }-uutiskirjeen</a> ja lataamalla <a href="{ $pocket }">{ -brand-name-pocket }-sovelluksen</a>.
 misinformation-why-trust-firefox = Miksi luottaa { -brand-name-firefox }iin?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
