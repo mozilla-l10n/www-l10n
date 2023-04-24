@@ -52,3 +52,4 @@ vpn-download-also-available = Également disponible pour :
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = Développé par les créateurs de { -brand-name-firefox }, { -brand-name-mozilla-vpn } utilise le protocole de pointe <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® pour chiffrer vos activités en ligne et masquer votre localisation.
 vpn-download-we-never-log = Jamais nous n’enregistrons, ne suivons ni ne partageons les données échangées via votre réseau.
+

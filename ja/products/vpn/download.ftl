@@ -52,3 +52,4 @@ vpn-download-also-available = こちらにも対応しています。
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = { -brand-name-firefox } の運営元が開発した { -brand-name-mozilla-vpn } は、高度な <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® プロトコルを使用して、あなたのオンラインアクティビティを暗号化し、現在地を秘匿します。
 vpn-download-we-never-log = Mozilla がユーザーのネットワークデータを記録、追跡、共有することはありません。
+

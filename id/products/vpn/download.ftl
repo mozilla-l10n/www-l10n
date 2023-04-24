@@ -52,3 +52,4 @@ vpn-download-also-available = Juga tersedia untuk:
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = Dari pembuat { -brand-name-firefox }, { -brand-name-mozilla-vpn } menggunakan protokol <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® mutakhir untuk mengenkripsi aktivitas online dan menyembunyikan lokasi Anda.
 vpn-download-we-never-log = Kami tidak pernah mencatat, melacak, atau membagikan data jaringan Anda.
+
