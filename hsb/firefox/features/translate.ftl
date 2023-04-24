@@ -21,4 +21,6 @@ features-translate-if-you-are = Jeli { -brand-name-firefox } hižo wužiwaće, m
 features-translate-with-the-to = *Z rozšěrjenjom { -brand-name-google } Translate, móžeće tuchwilu <a { $attrs }>tute rěče</a> přełožić:
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-and-more = <a { $attrs }> a wjace!</a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } je za wšěch
+# Outdated string
 features-translate-for-everyone = Firefox je za wšěch
