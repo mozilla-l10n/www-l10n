@@ -12,3 +12,4 @@ vpn-ip-address-does-it-travel = ມັນເດີນທາງໄປກັບເ
 vpn-ip-address-can-more-than = ຫຼາຍກວ່າຫນຶ່ງອຸປະກອນສາມາດມີທີ່ຢູ່ IP ດຽວກັນບໍ?
 vpn-ip-address-can-we-run = ພວກເຮົາສາມາດແລ່ນອອກຈາກພວກມັນໄດ້ບໍ?
 vpn-ip-address-should-you-hide = ທ່ານຄວນເຊື່ອງທີ່ຢູ່ IP ຂອງທ່ານບໍ?
+vpn-ip-address-how-do-you = ເຈົ້າເຊື່ອງມັນແນວໃດ?
