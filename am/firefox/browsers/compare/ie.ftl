@@ -12,3 +12,4 @@ compare-ie-compare-internet-explorer-to = ለእርስዎ የተሻለው አሳ
 # Main title
 compare-ie-comparing-firefox-browser-with = { -brand-name-firefox-browser }ን ከ{ -brand-name-microsoft } { -brand-name-ie } ጋር በማወዳደር ላይ
 compare-ie-while-microsofts-internet-explorer = የ{ -brand-name-microsoft } { -brand-name-ie } አሁንም በአብዛኛዎቹ ዊንዶውስ ላይ በተመሰረቱ ፒሲዎች ላይ አስቀድሞ ተጭኖ ይመጣል፣ { -brand-name-microsoft } በግልፅ የእነርሱን { -brand-name-edge } አሳሽ እንዲጠቀሙ ይመርጣል፤ ይህም ሲገዙ እንደ ነባሪ የተዘጋጀ ነው።
+compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } ለ{ -brand-name-windows } 10 ዘምኖ የቀረበውን { -brand-name-edge } አሳሽ ለማላመድ ሲባል፣ ከበርካታ አመታት በፊት የ{ -brand-name-ie } የምርት ስሙን አቁሟል፤ ሆኖም የ{ -brand-name-edge } ዝግ ያለ ቅቡልነት ለ{ -brand-name-ie } እንዲቀጥል ከፍተት ፈጥሯል፣ በዋናነት በንግድ ሥራ ተኳሃኝነት።
