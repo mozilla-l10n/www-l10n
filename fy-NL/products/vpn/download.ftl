@@ -41,5 +41,5 @@ vpn-download-also-available = Ek beskikber foar:
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-download-from-the-maker = Fan de makker fan { -brand-name-firefox }, { -brand-name-mozilla-vpn } brûkt it avansearre <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }< /a>®-protokol om jo online aktiviteiten te fersiferjen en jo lokaasje te ferstopjen.
+vpn-download-from-the-maker = Fan de makker fan { -brand-name-firefox }, { -brand-name-mozilla-vpn } brûkt it avansearre <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokol om jo online aktiviteiten te fersiferjen en jo lokaasje te ferstopjen.
 vpn-download-we-never-log = Wy logge, folgje of diele jo netwurkgegevens nea.
