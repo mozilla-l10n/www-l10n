@@ -43,3 +43,4 @@ vpn-download-also-available = Finns även för:
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = Från tillverkaren av { -brand-name-firefox } använder { -brand-name-mozilla-vpn } det avancerade <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokollet för att kryptera din onlineaktivitet och dölja din plats.
 vpn-download-we-never-log = Vi loggar, spårar eller delar aldrig dina nätverksdata.
+vpn-download-previous-versions = Ladda ner tidigare versioner för { -brand-name-windows } och { -brand-name-mac-short }
