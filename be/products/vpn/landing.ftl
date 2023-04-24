@@ -20,6 +20,10 @@ vpn-landing-faq-heading = Частыя пытанні
 vpn-langing-faq-uses-question-heading = Што такое VPN і для чаго ён выкарыстоўваецца?
 vpn-landing-faq-info-question-heading = Якую інфармацыю захоўвае { -brand-name-mozilla-vpn }?
 vpn-landing-faq-compatibility-question-heading = З якімі прыладамі сумяшчальны { -brand-name-mozilla-vpn }?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } сумяшчальны з <a href="{ $mobile }">мабільнымі</a>, планшэтамі і <a href="{ $desktop }">настольнымі камп'ютарамі</a> на:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } сумяшчальны з:
 # Variables:
