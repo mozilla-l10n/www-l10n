@@ -17,8 +17,12 @@ vpn-landing-brand-trust-heading = VPN ຈາກຍີ່ຫໍ້ທີ່ທ່
 
 vpn-landing-faq-heading = FAQs
 vpn-langing-faq-uses-question-heading = VPN ແມ່ນຫຍັງ ແລະ ມັນໃຊ້ຫຍັງແດ່?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = ການປິດບັງ <a href="{ $url }">ທີ່ຢູ່ IP</a> ທີ່ແທ້ຈິງຂອງທ່ານ. ອັນນີ້ປົກປ້ອງຕົວຕົນຂອງເຈົ້າ ແລະປິດບັງສະຖານທີ່ຂອງເຈົ້າ.
 # Obsolete string
 vpn-landing-faq-uses-conceal = ການປິດບັງທີ່ຢູ່ IP ທີ່ແທ້ຈິງຂອງເຈົ້າ. ອັນນີ້ປົກປ້ອງຕົວຕົນຂອງເຈົ້າ ແລະ ປິດບັງສະຖານທີ່ຂອງເຈົ້າ.
+vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } ເກັບຮັກສາຂໍ້ມູນຫຍັງແດ່?
 vpn-landing-faq-protected-question-heading = ຄວາມເປັນສ່ວນຕົວຂອງຂ້ອຍຖືກປົກປ້ອງແນວໃດ?
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } ປຽບທຽບກັບການແຂ່ງຂັນແນວໃດ?
 vpn-landing-faq-compatibility-question-heading = ອຸປະກອນໃດທີ່ { -brand-name-mozilla-vpn } ເຂົ້າກັນໄດ້ກັບ?
@@ -68,15 +72,21 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-ເທົ່ານັ້ນ)
 vpn-landing-faq-refund-question-heading = ນະໂຍບາຍການຄືນເງິນຂອງ { -brand-name-mozilla-vpn } ແມ່ນຫຍັງ?
 vpn-landing-faq-manage-subscription-question-heading = ຂ້ອຍຈະຈັດການການສະໝັກໃຊ້ຂອງຂ້ອຍໄດ້ແນວໃດ?
+vpn-landing-faq-download-heading = ຂ້ອຍຈະດາວໂຫຼດ { -brand-name-mozilla-vpn } ໄດ້ແນວໃດເມື່ອຂ້ອຍສະໝັກແລ້ວ?
 vpn-landing-faq-link = ເບິ່ງ FAQs ເພີ່ມເຕີມ
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = ເຂົ້າຮ່ວມບັນຊີລາຍຊື່ລໍຖ້າ: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-heading = ເຂົ້າຮ່ວມບັນຊີລາຍຊື່ລໍຖ້າ VPN
+vpn-landing-invite-email-label = ທີ່ຢູ່ອີເມວຂອງເຈົ້າແມ່ນຫຍັງ?
 vpn-landing-invite-required-label = ຕ້ອງການ
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com
 vpn-landing-invite-country-label = ເຈົ້າອາໄສຢູ່ປະເທດໃດ?
+vpn-landing-invite-language-label = ເລືອກພາສາທີ່ທ່ານຕ້ອງການ.
+vpn-landing-invite-thanks-heading = ຂອບໃຈ! ທ່ານຢູ່ໃນບັນຊີລາຍຊື່
+vpn-landing-invite-thanks-desc = ເມື່ອ { -brand-name-mozilla-vpn } ສາມາດໃຊ້ໄດ້ກັບພາກພື້ນຂອງເຈົ້າ, ພວກເຮົາຈະສົ່ງອີເມວຫາເຈົ້າ.
 
 ##
 
