@@ -12,6 +12,7 @@ firefox-accounts-securely-sync-your = Synchronizujće swoje hesła, zapołožki 
 firefox-accounts-enter-your-email-address = Zapodajće tu swoju e-mejlowu adresu, zo byšće započał.
 firefox-accounts-already-have-an-account = Maće hižo konto?
 firefox-accounts-sign-in = Přizjewić
+firefox-accounts-already = Maće hižo { -brand-name-firefox-account }. Zbožopřeće!
 firefox-accounts-manage = Rjadujće sowje konto
 # Obsolete string
 firefox-accounts-meet-our-family-of = Zeznajće so z našej swójbu produktow, za kotruž priwatnosć je na prěnim městnje.
