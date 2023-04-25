@@ -10,19 +10,32 @@ vpn-download-page-description = Scarica { -brand-name-mozilla-vpn } per { -brand
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = È possibile installare { -brand-name-mozilla-vpn } su un massimo di { $devices } dispositivi con un abbonamento.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } offre una protezione sicura per tutti i principali sistemi operativi.
 vpn-download-not-available-in-country = Siamo spiacenti, non è possibile scaricare { -brand-name-mozilla-vpn } nel tuo Paese.
 vpn-download-button-copy = Scarica
+# Obsolete string
 vpn-download-for-windows = VPN per { -brand-name-windows } 10/11
+vpn-download-for-windows-v2 = VPN per { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (solo 64 bit)
+vpn-download-for-windows-long = Scarica { -brand-name-mozilla-vpn } per { -brand-name-windows }
 vpn-download-for-mac = VPN per { -brand-name-mac-short }
+vpn-download-for-mac-long = Scarica { -brand-name-mozilla-vpn } per { -brand-name-mac-short }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-version-requirements = Versione { $version } e successive
 vpn-download-for-linux = VPN per { -brand-name-linux }
+vpn-download-for-linux-long = Scarica { -brand-name-mozilla-vpn } per { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } e versioni successive
 vpn-download-for-android = VPN per { -brand-name-android }
+vpn-download-for-android-long = Scarica { -brand-name-mozilla-vpn } per { -brand-name-android }
 vpn-download-for-ios = VPN per { -brand-name-ios }
 vpn-download-get-on-google-play = Ottieni su { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Ottieni su { -brand-name-app-store }
+vpn-download-based-on-your = In base al dispositivo in uso
+vpn-download-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }
+vpn-download-privacy-you-can = Privacy di cui ti puoi fidare
+vpn-download-also-available = Disponibile anche per:
+vpn-download-we-never-log = Non registriamo, tracciamo o condividiamo i tuoi dati di rete.
+vpn-download-previous-versions = Scarica le versioni precedenti per { -brand-name-windows } e { -brand-name-mac-short }
