@@ -19,6 +19,8 @@ vpn-landing-brand-trust-heading = VPN ад брэнда, якому вы мож�
 vpn-landing-faq-heading = Частыя пытанні
 vpn-langing-faq-uses-question-heading = Што такое VPN і для чаго ён выкарыстоўваецца?
 vpn-landing-faq-info-question-heading = Якую інфармацыю захоўвае { -brand-name-mozilla-vpn }?
+vpn-landing-faq-protected-question-heading = Як абаронена мая прыватнасць?
+vpn-landing-faq-competition-question-heading = Чым { -brand-name-mozilla-vpn } адрозніваецца ад канкурэнтаў?
 vpn-landing-faq-compatibility-question-heading = З якімі прыладамі сумяшчальны { -brand-name-mozilla-vpn }?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
@@ -69,6 +71,10 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (толькі { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Якая палітыка вяртання сродкаў { -brand-name-mozilla-vpn }?
+vpn-landing-faq-manage-subscription-question-heading = Як мне кіраваць падпіскай?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Калі вы ўжо падпісаны на { -brand-name-mozilla-vpn }, вы можаце змяніць план або <a href="{ $url }">кіраваць сваёй падпіскай</a> у любы час.
 vpn-landing-faq-download-heading = Як спампаваць { -brand-name-mozilla-vpn }, калі я ўжо падпісаны?
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
