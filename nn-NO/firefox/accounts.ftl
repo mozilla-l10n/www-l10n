@@ -14,8 +14,13 @@ firefox-accounts-already-have-an-account = Har du allereie ein konto?
 firefox-accounts-sign-in = Logg inn
 firefox-accounts-already = Du har allereie ein { -brand-name-firefox-account }. Gratulerer!
 firefox-accounts-manage = Handsam kontoen din
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = Logg inn på { -brand-name-firefox-account }en din for å:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Møt familien vår av personvernprodukt.
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = <a href="{ $send }">Send ei fane</a> til ei anna eining
 # Obsolete string
 firefox-accounts-see-if-youve-been = Sjå om du har vore involvert i ein datalekkasje på nettet.
 firefox-accounts-keep-your-passwords = Hald passorda dine trygge og ta dei med overalt.
