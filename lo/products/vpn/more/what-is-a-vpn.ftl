@@ -8,6 +8,7 @@
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = VPN ແມ່ນຫຍັງ?
 vpn-what-is-how-do-vpns = VPNs ເຮັດວຽກແນວໃດ?
+vpn-what-is-concealing-your-ip = ການປິດບັງທີ່ຢູ່ IP ຂອງທ່ານ, ປົກປ້ອງຕົວຕົນແລະສະຖານທີ່ຂອງທ່ານ.
 vpn-what-is-when-should-i = ຂ້ອຍຄວນໃຊ້ VPN ເມື່ອໃດ?
 vpn-what-is-why-would-i = ເປັນຫຍັງຂ້ອຍຈະໃຊ້ VPN?
 vpn-what-is-keeping-your-online = ຮັກສາກິດຈະກໍາອອນໄລນ໌ຂອງເຈົ້າເປັນສ່ວນຕົວ.
