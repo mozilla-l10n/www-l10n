@@ -17,6 +17,8 @@ features-translate-the-internet-is = Internet es plenate de contentos stupende, 
 features-translate-firefox-translations = { -brand-name-firefox-translations }
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-the-firefox-translations-extension-provides = Le extension <a { $attrs }>{ -brand-name-firefox-translations }</a> pote automaticamente traducer le contento del paginas web que tu visita. Diversemente de alcun alternativas basate sur nube, iste extension traduce le texto localmente in { -brand-name-firefox }, assi le contento que tu traduce non exi de tu machina.
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = Installar { -brand-name-firefox-translations }
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, con ultra 100 linguas* preste, es usate per milliones de personas de tote le mundo. Ma mover retro e avante inter translate.google.com e le pagina que tu tenta leger non es un experientia ideal.  Le extension <a { $attrs }>To { -brand-name-google } Translate</a> traduce le pagina sur le qual tu es plus facilemente que mais.
