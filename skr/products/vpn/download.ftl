@@ -37,3 +37,5 @@ vpn-download-based-on-your = تہاݙی موجودہ ڈیوائس دی بݨیا�
 vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو
 vpn-download-privacy-you-can = رازداری جیندے تے تساں بھروسہ کر سڳدے ہو
 vpn-download-also-available = ایں کیتے وی دستیاب ہے:
+vpn-download-we-never-log = اساں تہاݙے نیٹ ورک ڈیٹا کوں کݙاہیں وی لاگ، ٹریک یا شیئر کائنی کریندے۔
+vpn-download-previous-versions = { -brand-name-windows } تے { -brand-name-mac-short } کیتے پچھلے ورژن ڈاؤن لوڈ کرو
