@@ -7,7 +7,7 @@
 
 facebook-container-facebook-container-for-firefox = { -brand-name-firefox } کیتے { -brand-name-facebook-container } |جہڑیاں ویب سائٹاں تے تساں دورہ کریندے ہو انہاں کوں { -brand-name-facebook } کوں ݙکھاوݨ کنوں بچاؤ۔
 facebook-container-millions-of-people-around = لکھاں لوک پوری دنیا وچ { -brand-name-android }، { -brand-name-ios }، تے ڈیسک ٹاپ کمپیوٹراں تے { -brand-name-firefox } ویب براؤزراں تے بھروسہ کریندے ہن۔  تکھا۔ نجی۔ ہݨ ڈاؤن لوڈ کرو!
-facebook-container-facebook-well-contained-keep = { -brand-name-facebook }۔ چنڳی طراں موجود، باقی آہݨی زندگی اپݨے کول رکھو۔
+facebook-container-facebook-well-contained-keep = { -brand-name-facebook }۔ چنڳی طراں موجود، باقی آپݨی زندگی آپݨے کول رکھو۔
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container }دی ایکسٹینشن گھنو
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ڈاون لوڈ کرو تے { -brand-name-facebook-container }  ایکسٹینشن گھنو
 facebook-container-only-available-for-desktop = { -brand-name-facebook-container } ایکسٹنشن حالیہ صرف ڈیسک ٹاپ کیتے { -brand-name-firefox } کیتے دستیاب ہے۔
