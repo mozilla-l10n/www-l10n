@@ -12,6 +12,8 @@ vpn-shared-sign-in-link = አስቀድመው ተመዝጋቢ ነዎት?
 # Outdated string
 vpn-shared-available-countries-v4 = በአሁኑ ጊዜ { -brand-name-mozilla-vpn }ን በኦስትሪያ፣ ቤልጂየም፣ ካናዳ፣ ፈረንሳይ፣ ጀርመን፣ አየርላንድ፣ ጣሊያን፣ ማሌዥያ፣ ኔዘርላንድስ፣ ኒውዚላንድ፣ ሲንጋፖር፣ ስፔን፣ ስዊዘርላንድ፣ ዩናይትድ ኪንግደም እና ዩኤስ ውስጥ እናቀርባለን።
 vpn-shared-available-countries-v5 = በአሁኑ ጊዜ { -brand-name-mozilla-vpn }ን በኦስትሪያ፣ ቤልጂየም፣ ካናዳ፣ ፈረንሳይ፣ ጀርመን፣ አየርላንድ፣ ጣሊያን፣ ማሌዥያ፣ ኔዘርላንድስ፣ ኒውዚላንድ፣ ሲንጋፖር፣ ስፔን፣ ስዊዘርላንድ፣ ዩናይትድ ኪንግደም እና ዩኤስ ውስጥ እናቀርባለን።
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
+vpn-shared-money-back-guarantee = የ 30 ቀን ገንዘብ ተመላሽ ዋስትና
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = ውስጥ ተለይቶ ቀርቧል
 vpn-shared-features-encrypt = በመሣሪያ ደረጃ ምስጠራ
@@ -19,6 +21,7 @@ vpn-shared-features-encrypt = በመሣሪያ ደረጃ ምስጠራ
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = { $servers }+ አገልጋዮች በ{ $countries }+ አገሮች
+vpn-shared-features-bandwidth = የመተላለፊያ ይዘት ገደቦች የሉም
 vpn-shared-features-activity = የአውታረ መረብ እንቅስቃሴዎ አይመዘገብም
 vpn-shared-features-activity-logs = ምንም የመስመር ላይ የእንቅስቃሴ መዝገብ ማስታወሻዎች አሁን ወይም በጭራሽ የሉም
 # Variables:
@@ -47,12 +50,16 @@ vpn-shared-features-strong-servers = በ{ $countries }+ አገሮች ውስጥ �
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = እስከ { $devices } መሳሪያዎች ድረስ ያገናኙ
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = የ 30 ቀን ገንዘብ ተመላሽ ዋስትና
 vpn-shared-refund-policy = የተመላሽ ገንዘብ ፖሊሲ
 vpn-shared-privacy-notice = የግላዊነት ማስታወቂያ
+vpn-shared-terms-conditions = አተገባበር እና መመሪያ
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } የJason A. Donenfeld የንግድ ምልክት ነው
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = ለእርስዎ የሚስማማውን የአባልነት ምዝገባ እቅድ ይምረጡ
 vpn-shared-one-subscription-heading = ለሁሉም የእርስዎ መሣሪያዎች አንድ ምዝገባ
 vpn-shared-choose-a-plan-sub-heading = ለእርስዎ የሚስማማውን እቅድ ይምረጡ
 vpn-shared-pricing-variable-sub-heading = ሁሉም እቅዶቻችን የሚከተሉትን ያካትታሉ:-
@@ -120,6 +127,7 @@ vpn-subnav-platform-mobile = ተንቀሳቃሽ ስልክ
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = አይፒ አድራሻ ምንድን ነው?
 vpn-subnav-when-to-use-a-vpn = ቪፒኤን መቼ መጠቀም አለብን
+vpn-subnav-vpn-vs-proxy = ቪፒኤን ከ ተኪ ንፅፅር
 vpn-subnav-subscribe = ለ{ -brand-name-mozilla-vpn } ይመዝገቡ
 
 ## VPN Affiliate cookie notice
