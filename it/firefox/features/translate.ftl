@@ -10,13 +10,21 @@ features-translate-translate-the-web-title = Traduci il Web direttamente nel tuo
 # page description
 features-translate-translate-more-than = Traduci da più di 100 lingue nella tua lingua direttamente nel { -brand-name-firefox-browser }. Non è mai stato così facile.
 features-translate-translate-the-web = Traduci il Web con { -brand-name-firefox }
+# Obsolete string
 features-translate-the-google-translate = L’estensione To { -brand-name-google } Translate per { -brand-name-firefox } rende il Web accessibile al mondo.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Internet è ricco di contenuti incredibili, ma molti non sono disponibili nella tua lingua: miliardi di persone in tutto il mondo hanno bisogno di un traduttore solo per accedere a Internet. Puoi <a { $attrs }>scaricare { -brand-name-firefox } in più di 100 lingue</a>, in modo da avere i menu, le notifiche e i messaggi del browser nella tua lingua preferita. Questo però non risolve il problema di tutti quei fantastici contenuti che cerchi tramite il browser.
+features-translate-firefox-translations = { -brand-name-firefox-translations }
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = L’estensione <a { $attrs }>{ -brand-name-firefox-translations }</a> è in grado di tradurre automaticamente le pagine web che visiti. A differenza di alternative basate sul cloud, questa estensione traduce il testo in locale direttamente in { -brand-name-firefox }. In questo modo, i contenuti che stai traducendo non lasciano il tuo dispositivo.
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = Ottieni { -brand-name-firefox-translations }
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Traduttore, con oltre 100 lingue* supportate, è utilizzato da milioni di persone in tutto il mondo. Ma spostarsi avanti e indietro tra translate.google.com e la pagina che stai cercando di leggere non è il massimo. L’estensione <a { $attrs }>To { -brand-name-google } Translate</a> rende la traduzione della pagina in cui ti trovi più facile che mai.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = Vai a { -brand-name-google } Traduttore
+# Obsolete string
 features-translate-get-the-extension = Scarica l’estensione
 features-translate-once-installed-simply = Una volta installata, seleziona semplicemente il testo che vuoi tradurre e fai clic con il tasto destro del mouse per aprire un menu con due opzioni: 1) “Traduci” ti porta alla pagina translate.google.com dove trovi il campo di traduzione compilato automaticamente con il testo che hai selezionato; o 2) “Ascolta” per ascoltare la pronuncia audio della frase (basato su { -brand-name-google } Text-to-Speech), utile se stai cercando di imparare una nuova lingua.
 features-translate-switch-languages-in = Cambia lingua in { -brand-name-firefox }
