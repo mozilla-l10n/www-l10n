@@ -10,16 +10,23 @@ features-translate-translate-the-web-title = Terjemahkan web - langsung di Peram
 # page description
 features-translate-translate-more-than = Terjemahkan lebih dari 100 bahasa ke bahasa Anda langsung di { -brand-name-firefox-browser } - lebih mudah dari sebelumnya.
 features-translate-translate-the-web = Terjemahkan web dengan { -brand-name-firefox }
+
+# Obsolete string
 features-translate-the-google-translate = Ekstensi { -brand-name-google } Terjemahan untuk { -brand-name-firefox } memungkinkan internet dapat diakses oleh pengguna di seluruh dunia.
 
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Internet penuh dengan berbagai hal luar biasa, tetapi tidak semuanya tersedia dalam bahasa Inggris — sehingga miliaran orang di seluruh dunia membutuhkan penerjemah hanya untuk menggunakan internet. Anda dapat <a { $attrs }>mengunduh { -brand-name-firefox } dalam lebih dari 100 bahasa</a>, sehingga menu peramban, notifikasi, dan pesan Anda tersedia dalam bahasa pilihan Anda, tetapi itu belum menyelesaikan masalah peramban yang digunakan untuk mencari semua konten menakjubkan itu.
+
+
+
+
 features-translate-to-google-translate = Ke { -brand-name-google } Terjemahan
 
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Terjemahan, dengan lebih dari 100 bahasa* yang tersedia saat ini, digunakan oleh jutaan orang di seluruh dunia. Tapi berpindah-pindah antara translate.google.com dan halaman yang akan Anda baca bukan cara yang ideal. <a { $attrs }>Ekstensi Ke { -brand-name-google } Terjemahan</a> sangat memudahkan Anda dalam menerjemahkan laman web yang Anda kunjungi.
 
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+
+# Obsolete string
 features-translate-get-the-extension = Dapatkan Ekstensi
 features-translate-once-installed-simply = Setelah diinstal, cukup sorot teks yang ingin Anda terjemahkan dan klik kanan untuk menampilkan menu dengan dua opsi: 1) Membawa Anda ke translate.google.com dengan teks yang Anda pilih secara otomatis telah dimasukkan ke dalam kolom terjemahan; atau 2) Mendengarkan pelafalan audio dari frasa yang diterjemahkan (didukung oleh { -brand-name-google } Text-to-Speech, yang berguna jika Anda ingin mempelajari bahasa baru.
 features-translate-switch-languages-in = Ganti Bahasa di { -brand-name-firefox }

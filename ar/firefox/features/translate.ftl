@@ -10,16 +10,23 @@ features-translate-translate-the-web-title = ترجم محتوى الويب - م
 # page description
 features-translate-translate-more-than = ترجِمْ من أكثر من 100 لغة إلى لغتك مباشرةً في { -brand-name-firefox-browser } - بشكل أسهل من ذي قبل.
 features-translate-translate-the-web = ترجِمْ محتوى الويب باستخدام متصفح { -brand-name-firefox }
+
+# Obsolete string
 features-translate-the-google-translate = يعمل ملحق "ترجمة { -brand-name-google }" في متصفح { -brand-name-firefox } على إتاحة الإنترنت للجميع.
 
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = يعُج الإنترنت بأشياء مذهلة، لكن الكثير منها غير مكتوب باللغة الإنجليزية — مما يجعل مليارات الأشخاص حول العالم بحاجة إلى ترجمة لاستخدام الإنترنت فقط. ومع أنه يمكنك <a { $attrs }>تنزيل { -brand-name-firefox } بأكثر من 100 لغة</a>، لتتمكن من استخدام قوائمه وإشعاراته ورسائله بلغتك المفضلة، إلا أن هذا الأمر لا يحل مشكلة هذا الكم المُذهل من المحتوى الذي تستخدم متصفحك للبحث عنه.
+
+
+
+
 features-translate-to-google-translate = ترجمة { -brand-name-google }
 
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = يستخدم ملايين الأشخاص حول العالم ترجمة { -brand-name-google }، التي تضُم أكثر من 100 لغة*. لكن التنقل بين موقع translate.google.com والصفحة التي تحاول قراءتها ليس بالتجربة المثالية. أما مُلحق &quot;<a { $attrs }>ترجمة { -brand-name-google }</a>&quot;، فإنه يجعل ترجمة الصفحة التي تتصفحها أسهل من أي وقت مضى.
 
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+
+# Obsolete string
 features-translate-get-the-extension = نزِّل الملحق
 features-translate-once-installed-simply = بمجرد تثبيت المُلحق، ما عليك سوى تحديد النص الذي تريد ترجمته والنقر بزر الماوس الأيمن للحصول على قائمة بخيارين: 1) الانتقال إلى موقع translate.google.com وإدخال النص المحدد تلقائيًا في حقل الترجمة؛ أو 2) الاستماع إلى النطق الصوتي للعبارة (من خلال ميزة تحويل النص إلى كلام من { -brand-name-google })، وهذا أمر مُفيد إذا كنت تحاول تعلم لغة جديدة.
 features-translate-switch-languages-in = تغيير اللغة في متصفح { -brand-name-firefox }
