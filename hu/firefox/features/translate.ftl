@@ -10,13 +10,21 @@ features-translate-translate-the-web-title = Fordítsa le a webet – közvetlen
 # page description
 features-translate-translate-more-than = Fordítson több mint 100 nyelvről magyarra közvetlenül a { -brand-name-firefox-browser }ben – könnyebben, mint valaha.
 features-translate-translate-the-web = Fordítsa le a webet a { -brand-name-firefox(case: "instrumental") }
+# Obsolete string
 features-translate-the-google-translate = A „To { -brand-name-google } Translate” { -brand-name-firefox }-kiegészítő az egész világ számára elérhetővé teszi a webet.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Az internet tele van csodálatos dolgokkal, de a nagy része nem magyarul íródott – így sokaknak fordítóra van szükségük, hogy az internetet használják. A <a { $attrs }>{ -brand-name-firefox(case: "accusative") } több mint 100 nyelven töltheti le</a>, így a böngészőmenük, értesítések és üzenetek az Ön által választott nyelven jelennek meg, de ez nem oldja meg a böngészővel talált nagyszerű tartalmak problémáját.
+features-translate-firefox-translations = { -brand-name-firefox-translations }
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = A <a { $attrs }>{ -brand-name-firefox-translations } kiegészítő</a> automatikusan le tudja fordítani a felkeresett weboldalak tartalmát. Néhány felhő-alapú alternatívától eltérően, ez a kiegészítő helyben fordítja le a szöveget a { -brand-name-firefox }ban, így a lefordítandó tartalom nem hagyja el a gépét.
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = A { -brand-name-firefox-translations } beszerzése
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = A { -brand-name-google } Fordító, több mint 100 nyelven* áll a rendelkezésére, és emberek milliói használják világszerte. De a translate.google.com és az elolvasandó lap közti váltás nem nyújt ideális felhasználói élményt. A <a { $attrs }>To { -brand-name-google } Translate</a> kiegészítő könnyebbé teszi a jelenlegi oldal lefordítását, mint valaha.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = A To { -brand-name-google } Translate beszerzése
+# Obsolete string
 features-translate-get-the-extension = Kiegészítő beszerzése
 features-translate-once-installed-simply = A telepítés után egyszerűen jelölje ki a lefordítani kívánt szöveget, kattintson a jobb gombos menü megjelenítéséhez, amelyben két lehetőség közül választhat: 1) Átirányítás a translate.google.com webhelyre, ahol a kiválasztott szöveg automatikusan bekerül a fordítási mezőbe; vagy 2) A kifejezés kiejtésének meghallgatása (a { -brand-name-google } Text-to-Speech szolgáltatja), ami akkor hasznos, ha új nyelvet tanul.
 features-translate-switch-languages-in = Nyelvváltás a { -brand-name-firefox }ban
