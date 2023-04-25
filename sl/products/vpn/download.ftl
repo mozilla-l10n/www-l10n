@@ -10,6 +10,7 @@ vpn-download-page-description = Prenesite { -brand-name-mozilla-vpn } za { -bran
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Z eno naročnino lahko prenesete { -brand-name-mozilla-vpn } na do { $devices } naprav.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ponuja varno zaščito za vse glavne operacijske sisteme.
 vpn-download-not-available-in-country = Oprostite, { -brand-name-mozilla-vpn } ni na voljo za prenos v vaši državi.
 vpn-download-button-copy = Prenesi
 # Obsolete string
@@ -33,7 +34,9 @@ vpn-download-for-ios = VPN za { -brand-name-ios }
 vpn-download-for-ios-long = Prenesite VPN { -brand-name-mozilla-vpn } za { -brand-name-ios }
 vpn-download-get-on-google-play = Prenesite z { -brand-name-google-play }
 vpn-download-get-on-app-store = Prenesite z { -brand-name-app-store }
+vpn-download-based-on-your = Na podlagi vaše trenutne naprave
 vpn-download-get-mozilla-vpn = Namestite { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Zasebnost, ki ji lahko zaupate
 vpn-download-also-available = Na voljo tudi za:
 vpn-download-we-never-log = Vaših omrežnih podatkov nikoli ne beležimo, sledimo ali delimo naprej.
+vpn-download-previous-versions = Prenos starejših različic za { -brand-name-windows } in { -brand-name-mac-short }
