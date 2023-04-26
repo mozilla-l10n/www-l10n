@@ -57,6 +57,7 @@ manifesto-get-the-mozilla-newsletter = ຮັບຈົດໝາຍຂ່າວ {
 manifesto-details-the-mozilla-manifesto = ຖະແຫຼງການ { -brand-name-mozilla }
 manifesto-details-introduction = ແນະນຳ
 manifesto-details-the-internet-is-becoming = ອິນເຕີເນັດກຳລັງກາຍມາເປັນສ່ວນໜຶ່ງທີ່ສຳຄັນໃນຊີວິດຂອງເຮົາ.
+manifesto-details-as-a-result-of = ຜົນຂອງຄວາມພະຍາຍາມເຫຼົ່ານີ້, ພວກເຮົາໄດ້ກັ່ນເອົາຫຼັກການອັນໜຶ່ງທີ່ພວກເຮົາເຊື່ອວ່າມີຄວາມສຳຄັນຕໍ່ອິນເຕີເນັດເພື່ອສືບຕໍ່ສ້າງຜົນປະໂຫຍດໃຫ້ແກ່ສາທາລະນະຊົນ ກໍ່ຄືດ້ານການຄ້າຂອງຊີວິດ. ພວກເຮົາກໍານົດຫຼັກການເຫຼົ່ານີ້ຂ້າງລຸ່ມນີ້.
 manifesto-details-the-goals-for = ເປົ້າໝາຍສຳລັບ Manifesto ແມ່ນເພື່ອ:
 manifesto-details-articulate-a-vision = ປະກາດວິໄສທັດສໍາລັບອິນເຕີເນັດທີ່ຜູ້ເຂົ້າຮ່ວມ { -brand-name-mozilla } ຕ້ອງການ { -brand-name-mozilla-foundation } ດໍາເນີນການ;
 manifesto-details-speak-to-people = ເວົ້າກັບຄົນບໍ່ວ່າຈະມີພື້ນຖານດ້ານວິຊາການ ຫຼື ບໍ່;
