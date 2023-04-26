@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = ທີ່ຢູ່ IP ແມ່ນຫຍັງ?
+# Used as an accessible text alternative for an image
+vpn-ip-address-an-example-of-an-ip = ຕົວຢ່າງຂອງທີ່ຢູ່ IP ທີ່ເປັນລໍາດັບຂອງສີ່ຕົວເລກ, ແຍກດ້ວຍເລກທົດສະນິຍົມ: 123.45.67.89.
 vpn-ip-address-if-you-look-up-your = ຖ້າທ່ານຊອກຫາທີ່ຢູ່ IP ຂອງເຈົ້າ, ມັນຈະມີລັກສະນະແບບນີ້.
 vpn-ip-address-does-it-travel = ມັນເດີນທາງໄປກັບເຈົ້າບໍ?
 vpn-ip-address-does-your-ip = ທີ່ຢູ່ IP ຂອງທ່ານມີການປ່ຽນແປງບໍ?

@@ -9,6 +9,7 @@
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: ປົກປ້ອງອຸປະກອນທັງໝົດຂອງເຈົ້າ
 # Obsolete string
 vpn-landing-hero-sub-heading = ຄວາມປອດໄພທີ່ທ່ານສາມາດອີງໃສ່. ຊື່ທີ່ທ່ານສາມາດໄວ້ວາງໃຈໄດ້.
+vpn-landing-hero-desc = ເຄືອຂ່າຍສ່ວນຕົວສະເໝືອນຈິງຈາກຜູ້ຜະລິດຂອງ { -brand-name-firefox }.
 vpn-landing-privacy-heading = ແຕະຄັ້ງດຽວເພື່ອຄວາມເປັນສ່ວນຕົວ
 vpn-landing-fast-secure-heading = ເຄືອຂ່າຍໄວ ແລະ ປອດໄພ
 vpn-landing-brand-trust-heading = VPN ຈາກຍີ່ຫໍ້ທີ່ທ່ານສາມາດເຊື່ອຖືໄດ້
