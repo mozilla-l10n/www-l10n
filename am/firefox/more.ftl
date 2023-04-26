@@ -8,3 +8,6 @@
 firefox-products-are = { -brand-name-firefox } ምርቶች የእርስዎን ግላዊነት ለመጠበቅ የተነደፉ ናቸው
 learn-more-about-firefox = ስለ { -brand-name-firefox }፣ ታሪኩ፣ ባህሪያቱ እና ተልዕኮው የበለጠ ይወቁ
 learn-more-about = ውሂብዎን በአክብሮት ስለሚያስተናግዱ እና መስመር ላይ በሄዱበት በማንኛውም ቦታ ለግላዊነት ስለተገነቡ ስለ { -brand-name-firefox } አሳሾች እና ምርቶች የበለጠ ይወቁ።
+learn-more-faq = { -brand-name-firefox } ተየጥ (ተደጋግመው የሚጠየቁ ጥያቄዎች)
+the-history-of = የድር አሳሾች ታሪክ
+firefox-has-been = { -brand-name-firefox } ገና ከመጀመሪያው ጀምሮ የነበረ ማለት ይቻላል።
