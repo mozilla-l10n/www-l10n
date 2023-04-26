@@ -10,13 +10,16 @@ features-translate-translate-the-web-title = Emoñe’ẽasa ñanduti ne mohenda
 # page description
 features-translate-translate-more-than = Emoñe’ẽasa hetave 100 ñe’ẽgui nemba’épe nde { -brand-name-firefox-browser } guive - ndahasyive ko’ág̃a rupi ijapo.
 features-translate-translate-the-web = Emoñe’ẽasa ñanduti { -brand-name-firefox } ndive
+# Obsolete string
 features-translate-the-google-translate = Jepysokue To { -brand-name-google } Translate { -brand-name-firefox } ombojuruja ñanduti ojepuru hag̃ua arapy tuichakue.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Ñanduti henyhẽ mba’eita porãgui, hákatu hetaiterei mba’e oĩ’ỹva España ñe’ẽme — upévare hetaiterei yvypóra arapy tuichakue oikotevẽ ñe’ẽasahára oipuru hag̃ua ñanduti. Ikatu <a { $attrs }>omboguejy { -brand-name-firefox } hetave 100 ñe’ẽme</a>, eguereko hag̃uáicha poravorã, marandu’i ha ñe’ẽmondo ne kundahára oĩ hag̃ua ne ñe’ẽme, hákatu péva ndoipe’apái apañuãi opaite tetepy eguerovia’ỹva ehekáva ne kundahára ndive.
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = Erekóke { -brand-name-firefox-translations }
 features-translate-to-google-translate = Emoñe’ẽasa hag̃ua { -brand-name-google }
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, eipurukuaáva hetave 100 ñe’ẽmegui*, oikundahahápe hetaitereirasa tapicha arapy tuichakue. Hákatu eku’évo translate.google.com pa’ũme ha pe kuatiarogue emoñe’ẽséva ndaha’éi oikoporãmbáva. Pe jepysokue <a { $attrs }>To { -brand-name-google } Translate</a> nombohasyive umi kuatiarogue emoñe’ẽasa hag̃ua.
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# Obsolete string
 features-translate-get-the-extension = Erekóke Jepysokue
 features-translate-once-installed-simply = Emohendapa vove, embosa’ýnte pe moñe’ẽrã emoñe’ẽasaséva ha eikutu akatúa gotyo embojuruja hag̃ua poravorã mokõi jeporavorãme: 1) Nde gueraháta translate.google.com pe moñe’ẽrã eiporavóva oikéva ijehegui ñe’ẽasa renda gotyo; térã 2) Ehendu mba’éichapa oñemoñe’ẽ pe mba’epu ñe’ẽrysýi ({ -brand-name-google } Text-to-Speech) rembipuru pyahu ndive, iporãva eikuaasevéramo peteĩ ñe’ẽ pyahu.
 features-translate-switch-languages-in = Emoambue ñe’ẽ { -brand-name-firefox }-pe
