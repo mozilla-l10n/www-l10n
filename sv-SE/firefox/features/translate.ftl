@@ -10,13 +10,21 @@ features-translate-translate-the-web-title = Översätt webben - direkt i din we
 # page description
 features-translate-translate-more-than = Översätt från mer än 100 språk till ditt språk direkt i din { -brand-name-firefox-browser } - enklare än någonsin.
 features-translate-translate-the-web = Översätt webben med { -brand-name-firefox }
+# Obsolete string
 features-translate-the-google-translate = Tillägget { -brand-name-google } Translate för { -brand-name-firefox } gör internet tillgängligt för hela världen.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Internet är fyllt med fantastiska grejer, men mycket av det är inte skrivet på engelska — vilket gör att miljarder människor runt om i världen behöver en översättare bara för att använda internet. Du kan <a { $attrs }>ladda ner { -brand-name-firefox } på över 100 språk</a>, så att din webbläsares menyer, aviseringar och meddelanden finns på ditt språk, men det löser inte problemet med allt det fantastiska innehållet du använder din webbläsare för att hitta.
+features-translate-firefox-translations = { -brand-name-firefox-translations }
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations }-tillägget</a> kan automatiskt översätta innehåll från webbsidorna du besöker. Till skillnad från vissa molnbaserade alternativ översätter denna tillägg text lokalt i { -brand-name-firefox }, så att innehållet du översätter inte lämnar din dator.
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = Hämta { -brand-name-firefox-translations }
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, med över 100 språk*, används av miljontals människor runt om i världen. Men att flytta fram och tillbaka mellan translate.google.com och sidan du försöker läsa är inte en perfekt upplevelse. Med tillägget <a { $attrs }>To { -brand-name-google } Translate</a> kan du översätta sidan du är på lättare än någonsin.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = Gå till { -brand-name-google } Translate
+# Obsolete string
 features-translate-get-the-extension = Hämta tillägget
 features-translate-once-installed-simply = När du har installerat, markerar du bara texten du vill översätta och högerklickar för att öppna en meny med två alternativ: 1) Ta dig till translate.google.com med din markerade text automatiskt angiven i översättningsfältet eller 2) Lyssna på ljuduttalande av frasen (drivs av { -brand-name-google } Text-to-Speech), vilket är användbart om du försöker lära dig ett nytt språk.
 features-translate-switch-languages-in = Byt språk i { -brand-name-firefox }
