@@ -36,3 +36,6 @@ easy-migration-of = { -brand-name-firefox }ን ለ{ -brand-name-windows } ሲያ
 firefox-respects-your = { -brand-name-firefox } በ{ -brand-name-mac-short } ላይ የእርስዎን ግላዊነት ያከብራል።
 firefox-doesnt-spy = { -brand-name-firefox } ፍለጋዎችን አይሰልል። የታወቁ የሶስተኛ ወገን መከታተያ ኩኪዎችን አቁመን ሙሉ ቁጥጥር እንሰጥዎታለን።
 firefox-for-linux = { -brand-name-firefox } ለ { -brand-name-linux }
+firefox-for-windows = { -brand-name-firefox } ለ{ -brand-name-windows } 64-ቢት
+we-worry-about = እርስዎ ሊጨነቁ አይገባም ለውሂብዎ ደህንነት እንጨነቃለን።
+seven-of-the = በቀጥታ ንጽጽር ውስጥ ሰባት ምርጥ አሳሾች
