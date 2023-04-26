@@ -22,6 +22,8 @@ features-translate-get-firefox-translations = Installar { -brand-name-firefox-tr
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, con ultra 100 linguas* preste, es usate per milliones de personas de tote le mundo. Ma mover retro e avante inter translate.google.com e le pagina que tu tenta leger non es un experientia ideal.  Le extension <a { $attrs }>To { -brand-name-google } Translate</a> traduce le pagina sur le qual tu es plus facilemente que mais.
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = Installar { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Installa le extension
 features-translate-once-installed-simply = Un vice installate, simplemente evidentia le texto que tu desira traducer e clicca dextre pro tirar supra un menu con duo optiones: 1) Prende pro te translate.google.com con tu texto seligite automaticamente inserite in le campo de traduction; o 2) Ascolta le pronunciation audio del phrase (supportate per { -brand-name-google } Text-to-Speech), qual es utile si tu tenta apprender un nove lingua.
