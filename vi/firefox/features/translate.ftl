@@ -10,13 +10,21 @@ features-translate-translate-the-web-title = Dịch trang web - trực tiếp tr
 # page description
 features-translate-translate-more-than = Dịch từ hơn 100 ngôn ngữ sang ngôn ngữ của bạn trực tiếp trong { -brand-name-firefox-browser } của bạn - dễ dàng hơn bao giờ hết.
 features-translate-translate-the-web = Dịch trang web với { -brand-name-firefox }
+# Obsolete string
 features-translate-the-google-translate = Tiện ích To { -brand-name-google } Translate dành cho { -brand-name-firefox } làm cho trang web có thể tiếp cận với mọi người dễ dàng hơn.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Internet có rất nhiều thứ tuyệt vời, nhưng rất nhiều thứ không được viết bằng tiếng Anh — khiến hàng tỷ người trên toàn cầu cần một phiên dịch chỉ để sử dụng Internet. Bạn có thể <a { $attrs }>tải xuống { -brand-name-firefox } trong hơn 100 ngôn ngữ</a>, vì vậy menu, thông báo và tin nhắn của trình duyệt ở ngôn ngữ ưa thích của bạn, nhưng điều đó không giải quyết được vấn đề của tất cả nội dung thú vị mà bạn sử dụng trình duyệt của mình để tìm.
+features-translate-firefox-translations = { -brand-name-firefox-translations }
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = <a { $attrs }>Tiện ích { -brand-name-firefox-translations }</a> có thể tự động dịch nội dung từ các trang web bạn truy cập. Không giống như một số lựa chọn thay thế dựa trên đám mây, tiện ích mở rộng này dịch văn bản cục bộ trong { -brand-name-firefox }, để nội dung bạn cần dịch không rời khỏi máy của bạn.
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = Tải xuống { -brand-name-firefox-translations }
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, với hơn 100 ngôn ngữ* đã sẵn sàng, được hàng triệu người trên thế giới sử dụng. Nhưng di chuyển qua lại giữa translate.google.com và trang bạn đang cố đọc không phải là trải nghiệm lý tưởng. Tiện ích <a { $attrs }>To { -brand-name-google } Translate</a> giúp việc dịch trang bạn đang truy cập dễ dàng hơn bao giờ hết.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = Tải xuống To { -brand-name-google } Translate
+# Obsolete string
 features-translate-get-the-extension = Nhận tiện ích mở rộng
 features-translate-once-installed-simply = Sau khi cài đặt, chỉ cần đánh dấu văn bản bạn muốn dịch và nhấp chuột phải để kéo lên menu có hai tùy chọn: 1) Đưa đến bạn translate.google.com với văn bản đã chọn của bạn tự động được nhập vào trường dịch; hoặc 2) Nghe cách phát âm của cụm từ (được hỗ trợ bởi { -brand-name-google } Text-to-Speech), điều này rất hữu ích nếu bạn đang cố gắng học một ngôn ngữ mới.
 features-translate-switch-languages-in = Chuyển đổi ngôn ngữ trong { -brand-name-firefox }
