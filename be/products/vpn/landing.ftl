@@ -18,6 +18,12 @@ vpn-landing-brand-trust-heading = VPN ад брэнда, якому вы мож�
 
 vpn-landing-faq-heading = Частыя пытанні
 vpn-langing-faq-uses-question-heading = Што такое VPN і для чаго ён выкарыстоўваецца?
+# Obsolete string
+vpn-landing-faq-uses-conceal = Утойванне вашага сапраўднага IP-адраса. Гэта абараняе вашу асобу і хавае ваша месцазнаходжанне.
+vpn-landing-faq-uses-encrypt = Шыфраванне трафіку паміж вамі і вашым правайдарам VPN, каб ніхто ў вашай лакальнай сетцы не мог расшыфраваць або змяніць яго.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Азнаёмцеся з <a href="{ $url }">пяццю прыкладамі з жыцця</a>, у якіх вы хацелі б мець VPN на сваёй прыладзе.
 vpn-landing-faq-info-question-heading = Якую інфармацыю захоўвае { -brand-name-mozilla-vpn }?
 vpn-landing-faq-protected-question-heading = Як абаронена мая прыватнасць?
 vpn-landing-faq-competition-question-heading = Чым { -brand-name-mozilla-vpn } адрозніваецца ад канкурэнтаў?
