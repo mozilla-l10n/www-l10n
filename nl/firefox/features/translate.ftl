@@ -15,6 +15,8 @@ features-translate-the-google-translate = De { -brand-name-google } Translate-ex
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Het internet is vol met geweldige dingen, maar veel ervan is niet in het Engels geschreven – waardoor miljarden mensen op de wereld een vertaler nodig hebben om alleen het internet te gebruiken. U kunt <a { $attrs }>{ -brand-name-firefox } downloaden in meer dan 100 talen</a>, zodat uw browsermenu’s, notificaties en berichten in uw voorkeurstaal worden weergegeven, maar dat lost het probleem van al die geweldige inhoud die u met uw browser opzoekt niet op.
 features-translate-firefox-translations = { -brand-name-firefox-translations }
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = De <a { $attrs }>{ -brand-name-firefox-translations }-extensie</a> kan automatisch inhoud van de webpagina’s die u bezoekt vertalen. In tegenstelling tot sommige op de cloud gebaseerde alternatieven, vertaalt deze extensie tekst lokaal in { -brand-name-firefox }, zodat de inhoud die u vertaalt uw apparaat niet verlaat.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Download { -brand-name-firefox-translations }
 features-translate-to-google-translate = To { -brand-name-google } Translate
