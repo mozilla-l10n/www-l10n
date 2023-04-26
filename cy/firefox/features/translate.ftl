@@ -23,7 +23,7 @@ features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = Mae miliynau o bobl ledled y byd yn defnyddio To { -brand-name-google } Translate, gyda dros 100 o ieithoedd* yn barod. Ond nid yw symud yn ôl ac ymlaen rhwng translate.google.com a'r dudalen rydych chi'n ceisio ei darllen yn brofiad delfrydol. Mae'r estyniad <a { $attrs }>{ -brand-name-google } Translate</a> yn golygu bod cyfieithu'r dudalen rydych chi arni yn haws nag erioed.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-get-to-google-translate = Mynd i { -brand-name-google } Translate
+features-translate-get-to-google-translate = Cael To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Cael yr Estyniad
 features-translate-once-installed-simply = Ar ôl ei osod, amlygwch y testun rydych chi am ei gyfieithu a chliciwch ar y dde i dynnu dewislen gyda dau opsiwn: 1) Yn mynd â chi i translate.google.com gyda'ch testun dethol yn cael ei osod yn awtomatig yn y maes cyfieithu; neu 2) Gwrandewch ar ynganiad sain yr ymadrodd (wedi'i bweru gan { -brand-name-google } Testun i Leferydd), sy'n ddefnyddiol os ydych chi'n ceisio dysgu iaith newydd.
