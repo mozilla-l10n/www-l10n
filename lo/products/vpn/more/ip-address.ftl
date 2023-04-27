@@ -7,6 +7,9 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = ທີ່ຢູ່ IP ແມ່ນຫຍັງ?
+# HTML page description and intro
+vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } ຕອບທຸກຄຳຖາມຂອງເຈົ້າກ່ຽວກັບທີ່ຢູ່ IP ຈາກສິ່ງທີ່ເປັນທີ່ຢູ່ IP, ວິທີການເຮັດວຽກ, ແລະ ຖ້າທ່ານຄວນເຊື່ອງມັນ.
+vpn-ip-address-every-time-you = ທຸກໆຄັ້ງທີ່ທ່ານຢູ່ໃນອິນເຕີເນັດ, ທີ່ຢູ່ IP ແມ່ນມີບົດບາດສໍາຄັນໃນການແລກປ່ຽນຂໍ້ມູນເພື່ອຊ່ວຍໃຫ້ທ່ານເຫັນສະຖານທີ່ທີ່ທ່ານກໍາລັງຮ້ອງຂໍ. ຢ່າງໃດກໍຕາມ, ມີໂອກາດທີ່ທ່ານບໍ່ຮູ້ວ່າອັນໃດແມ່ນ, ດັ່ງນັ້ນພວກເຮົາຈຶ່ງແບ່ງອອກຄໍາຖາມທີ່ຖືກຖາມຫຼາຍທີ່ສຸດຂ້າງລຸ່ມນີ້.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = ຕົວຢ່າງຂອງທີ່ຢູ່ IP ທີ່ເປັນລໍາດັບຂອງສີ່ຕົວເລກ, ແຍກດ້ວຍເລກທົດສະນິຍົມ: 123.45.67.89.
 vpn-ip-address-if-you-look-up-your = ຖ້າທ່ານຊອກຫາທີ່ຢູ່ IP ຂອງເຈົ້າ, ມັນຈະມີລັກສະນະແບບນີ້.
