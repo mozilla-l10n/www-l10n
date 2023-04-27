@@ -23,4 +23,5 @@ developer-mdnplus-build-your-perfect-library = Byggðu upp þitt fullkomna safn.
 developer-mdnplus-no-more-haphazard-hunting = Nú þarf ekki lengur tilviljunarkennda leit í gegnum hið umfangsmikla sýndarsafn: slepptu lausum þessum innri safnara í þér og smalaðu eftirlætisgreinunum þínum á einn stað til að geta gluggað í þær á einfaldan þægilegan máta.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } án nettengingar
 developer-mdnplus-mdns-entire-library-at-your = Allt safn { -brand-name-mdn } innan seilingar: án nettengingar
+developer-mdnplus-taking-your-projects-beyond = Ferðu með verkefnin þín út fyrir merki næsta Wi-Fi nets? Segðu skilið við óaðgengilegar síður eða óskipulagða flipa. Með { -brand-name-mdn-plus }, hefurðu fullt vafur um { -brand-name-mdn } til taks, líka þegar þú ert án nettengingar.
 developer-mdnplus-resources-for-developers = Tilföng fyrir hönnuði, eftir hönnuði.
