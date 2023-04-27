@@ -22,6 +22,8 @@ features-translate-get-firefox-translations = Отримати { -brand-name-fir
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } перекладач із понад 100 мовами* використовується мільйонами людей по всьому світу. Але перемикання між translate.google.com та сторінкою, яку ви намагаєтесь прочитати — це не зручно. Розширення <a { $attrs }>To { -brand-name-google } Translate</a> робить переклад сторінки, на якій ви перебуваєте, простішим, ніж будь-коли.
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = Отримати To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Отримати розширення
 features-translate-once-installed-simply = Після встановлення просто виділіть текст, який потрібно перекласти та клацніть правою кнопкою миші, щоб відкрити меню з двома варіантами: 1) Перейти до translate.google.com із вибраним текстом, автоматично введеним у поле перекладу; або 2) Прослухати звукову вимову фрази (від { -brand-name-google } Text-to-Speech), що корисно, якщо ви намагаєтесь вивчити нову мову.
