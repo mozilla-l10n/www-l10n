@@ -14,5 +14,8 @@ vpn-android-privacy-headline = ແຕະຄັ້ງດຽວເພື່ອເ�
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-android-servers-headline = { $servers }+ ເຊີບເວີໃນຫຼາຍກວ່າ { $countries } ປະເທດ
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-headline = ການສະໝັກສະມາຊິກໜຶ່ງອັນສຳລັບອຸປະກອນສູງສຸດ { $devices }
 vpn-android-speed-headline = ຄວາມໄວສູງສຸດ. ຂໍ້ມູນບໍ່ຈໍາກັດ.
 vpn-android-log-headline = ບໍ່ມີບັນທຶກ. ບໍ່ມີການຕິດຕາມ. ບໍ່ມີການບຸກລຸກຂອງຄວາມເປັນສ່ວນຕົວ.

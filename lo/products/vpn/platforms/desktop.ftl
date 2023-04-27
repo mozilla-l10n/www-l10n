@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Desktop strings
+vpn-desktop-hero-headline = ຮັບປະກັນການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານດ້ວຍ { -brand-name-mozilla-vpn } ສໍາລັບເດັສທັອບ
 vpn-desktop-wifi-headline = ຮູ້ສຶກປອດໄພດ້ວຍການໃຊ້ wifi ສາທາລະນະ
 vpn-desktop-about-headline = ກ່ຽວກັບ { -brand-name-mozilla }
 vpn-desktop-privacy-headline = ຄວາມເປັນສ່ວນຕົວໃນຄລິກດຽວ
