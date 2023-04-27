@@ -12,6 +12,7 @@
 firefox-desktop-download-meta-title = Sæktu { -brand-name-firefox-browser } - Hraðvirkt, einka og ókeypis - frá { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Sæktu { -brand-name-firefox } fyrir vinnutölvur — frá { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Fáðu þér { -brand-name-firefox }, ókeypis vafra sem studdur er af { -brand-name-mozilla }, sjálfseignarstofnun sem er tileinkuð heilbrigði og friðhelgi internetsins. Er núna í boði fyrir { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } og { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Náðu í { -brand-name-firefox } fyrir { -brand-name-windows }, { -brand-name-mac-short } eða { -brand-name-linux }. { -brand-name-firefox } er ókeypis vafri sem studdur er af { -brand-name-mozilla }, sjálfseignarstofnun sem er tileinkuð heilsu netsins og friðhelgi einkalífsins.
 firefox-desktop-download-og-title = Sæktu hraðasta { -brand-name-firefox } nokkru sinni
 firefox-desktop-download-og-desc = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } er hérna.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }

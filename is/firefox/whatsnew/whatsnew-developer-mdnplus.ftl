@@ -10,6 +10,7 @@ developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest = Til hamingju. Þú ert nú með nýjustu útgáfuna af { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Meira { -brand-name-mdn }. <em>Þitt</em> { -brand-name-mdn }.
+developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } er samvinnuverkefni með opinn grunnkóða sem skráir tækni á vefkerfum, þar á meðal CSS, HTML, JavaScript og API-kerfisviðmótum vefsvæða. Við bjóðum einnig upp á umfangsmikið námsefni fyrir byrjendur í forritun og nemendur.
 developer-mdnplus-support-mdn-and-make = Styddu við { -brand-name-mdn } <em>og</em> gerðu hann að þínum.
 # CTA button
 developer-mdnplus-get-started = Hefjast handa
@@ -19,5 +20,7 @@ developer-mdnplus-development-in-real-time = Þróun í rauntíma: Fáðu sérsn
 developer-mdnplus-the-web-doesnt-have-a = Vefurinn er ekki með neina breytingaskrá en { -brand-name-mdn } getur hjálpað. Fylgstu með síðum og fáðu sérhannaðar tilkynningar þegar hjálparskjöl breytast, CSS eiginleikar bætast við og nýjar API-skipanir koma fram.
 developer-mdnplus-collections = Söfn
 developer-mdnplus-build-your-perfect-library = Byggðu upp þitt fullkomna safn. Eða láttu okkur útbúa það fyrir þig.
+developer-mdnplus-no-more-haphazard-hunting = Nú þarf ekki lengur tilviljunarkennda leit í gegnum hið umfangsmikla sýndarsafn: slepptu lausum þessum innri safnara í þér og smalaðu eftirlætisgreinunum þínum á einn stað til að geta gluggað í þær á einfaldan þægilegan máta.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } án nettengingar
+developer-mdnplus-mdns-entire-library-at-your = Allt safn { -brand-name-mdn } innan seilingar: án nettengingar
 developer-mdnplus-resources-for-developers = Tilföng fyrir hönnuði, eftir hönnuði.
