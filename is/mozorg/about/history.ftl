@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = Saga { -brand-name-mozilla }-verkefnisins
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla } verkefnið var <a href="{ $coderush }">stofnað árið 1998</a> með <a href="{ $sourcerelease }">birtingunni á  grunnkóða { -brand-name-netscape } vafravöndulsins</a>.
 history-it-was-intended-to-harness = Því var ætlað að virkja sköpunarmátt þúsunda forritara á internetinu og kynda undir áður óþekktum stigum nýsköpunar á vaframarkaðnum.
@@ -28,6 +28,11 @@ history-people-contributed-to-mozilla = Fólk lagði sitt af mörkum til { -bran
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Árið 2002 voru <a href="{ $over90 }">vel yfir 90% netnotenda</a> að vafra með { -brand-name-ie }.
 history-mozilla-also-celebrated = { -brand-name-mozilla } fagnaði einnig 15 ára afmæli sínu árið 2013.
+# Variables:
+#   $all (url) link to https://www.mozilla.org/firefox/all/
+history-more-people-than-ever-before = Fleiri en nokkru sinni áður nota internetið og eru að upplifa það <a href="{ $all }">á sínu eigin tungumáli</a>.
+history-theres-no-guarantee-that = Það er ekkert sjálfgefið að internetið verði áfram opið eða skemmtilegt eða öruggt.
+history-mozilla-will-continue-to = { -brand-name-mozilla } mun halda áfram að veita fólki tækifæri til að láta rödd sína heyrast og móta eigið líf á netinu.
 history-of-course-were-not-alone = Auðvitað erum við ekki ein um að gera þetta.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
