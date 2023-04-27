@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = Eñemoirũ { -brand-name-firefo
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = ¿Erekóma mba’ete? <a { $fxa_attr }>eñepyrũ tembiapo</a> térã <a { $accounts_attr }>ehecha</a> mba’éichapa ejuajúta { -brand-name-firefox } rehe.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = ¿Eguerekóma mba’ete? <a { $fxa_attr }>Eñepyrũ tembiapo</a> térã <a { $accounts_attr }>ehecha</a> mba’éichapa ejuajúta Firefox ndive.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
