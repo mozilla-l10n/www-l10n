@@ -25,8 +25,17 @@ history-by-creating-an-open-community = Með því að mynda opið samfélag var
 history-community-members-got-involved = Meðlimir samfélagsins tóku sér frumkvæði og stækkuðu umfang <a href="{ $mission }">upprunalega verkefnisins</a> – í stað þess að vinna bara í næstu útgáfu vafrans { -brand-name-netscape }, fólk byrjaði að búa til <a href="{ $browsers }">ýmis tilbrigði vafra</a>, <a href="{ $bugzilla }">þróunarverkfæri</a> auk fjölda annarra <a href="{ $projects }">verkefna</a>.
 history-people-contributed-to-mozilla = Fólk lagði sitt af mörkum til { -brand-name-mozilla } á mismunandi vegu, en allir höfðu brennandi áhuga á að búa til frjálsan hugbúnað sem myndi gera fólki kleift að velja hvernig það upplifði internetið.
 # Variables:
+#   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
+history-after-several-years-of-development = Eftir nokkurra ára þróun var <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, fyrsta stóra útgáfan, gefin út árið 2002. Þessi útgáfa innihélt margar endurbætur á vafranum, tölvupóstforrit og önnur forrit sem eru innifalin í hugbúnaðarpakkanum, en ekki voru margir að nota þetta.
+# Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Árið 2002 voru <a href="{ $over90 }">vel yfir 90% netnotenda</a> að vafra með { -brand-name-ie }.
+# Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = Ekki tóku margir eftir því á sínum tíma, en fyrsta útgáfan af Phoenix (síðar endurnefnd í { -brand-name-firefox }) var einnig gefin út af meðlimum { -brand-name-mozilla }-samfélagsins það ár með það að markmiði að veita < a href="{ $charter }">bestu mögulegu vafurupplifun</a> fyrir sem breiðastan hóp fólks.
+# Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = Árið 2003 stofnaði { -brand-name-mozilla }-verkefnið { -brand-name-mozilla-foundation }, <a href="{ $foundation }">óháða sjálfseignarstofnun</a> sem fjármögnuð er með styrkjum frá einstaklingum og ýmsum fyrirtækjum.
 history-mozilla-also-celebrated = { -brand-name-mozilla } fagnaði einnig 15 ára afmæli sínu árið 2013.
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
