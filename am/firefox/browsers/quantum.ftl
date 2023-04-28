@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = { -brand-name-firefox-quantum }ን አውርድ
+the-latest-firefox = የቅርብ ጊዜው የ{ -brand-name-firefox } ሞተር፡- { -brand-name-firefox-quantum }
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = ስለ { -brand-name-firefox-quantum } የበለጠ ይወቁ
 privacy-first = ግላዊነት መጀመሪያ
