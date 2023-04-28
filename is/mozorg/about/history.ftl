@@ -32,7 +32,7 @@ history-after-several-years-of-development = Eftir nokkurra ára þróun var <a 
 history-by-2002-well-over-90 = Árið 2002 voru <a href="{ $over90 }">vel yfir 90% netnotenda</a> að vafra með { -brand-name-ie }.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
-history-not-many-people-noticed = Ekki tóku margir eftir því á sínum tíma, en fyrsta útgáfan af Phoenix (síðar endurnefnd í { -brand-name-firefox }) var einnig gefin út af meðlimum { -brand-name-mozilla }-samfélagsins það ár með það að markmiði að veita < a href="{ $charter }">bestu mögulegu vafurupplifun</a> fyrir sem breiðastan hóp fólks.
+history-not-many-people-noticed = Ekki tóku margir eftir því á sínum tíma, en fyrsta útgáfan af Phoenix (síðar endurnefnd í { -brand-name-firefox }) var einnig gefin út af meðlimum { -brand-name-mozilla }-samfélagsins það ár með það að markmiði að veita <a href="{ $charter }">bestu mögulegu vafurupplifun</a> fyrir sem breiðastan hóp fólks.
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = Árið 2003 stofnaði { -brand-name-mozilla }-verkefnið { -brand-name-mozilla-foundation }, <a href="{ $foundation }">óháða sjálfseignarstofnun</a> sem fjármögnuð er með styrkjum frá einstaklingum og ýmsum fyrirtækjum.
