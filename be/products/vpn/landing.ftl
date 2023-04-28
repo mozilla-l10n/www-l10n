@@ -19,6 +19,9 @@ vpn-landing-brand-trust-heading = VPN ад брэнда, якому вы мож�
 vpn-landing-faq-heading = Частыя пытанні
 vpn-langing-faq-uses-question-heading = Што такое VPN і для чаго ён выкарыстоўваецца?
 # Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Паколькі ўсё большая частка паўсядзённага жыцця праходзіць у інтэрнэце, прыватнасць і бяспека ў сеціве становяцца ўсё больш важнымі. VPN, <a href="{ $url }">віртуальная прыватная сетка</a>, можа дапамагчы вам стварыць бяспечнае прыватнае злучэнне з інтэрнэтам. Ён працуе, ствараючы «тунэль» паміж вашай прыладай і інтэрнэтам у цэлым, і абараняе вас двума важнымі спосабамі:
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = Утойванне вашага сапраўднага <a href="{ $url }">IP-адраса</a>. Гэта абараняе вашу асобу і хавае ваша месцазнаходжанне.
 # Obsolete string
@@ -83,7 +86,7 @@ vpn-landing-faq-refund-question-heading = Якая палітыка вяртан
 vpn-landing-faq-manage-subscription-question-heading = Як мне кіраваць падпіскай?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
-vpn-landing-faq-manage-subscription-question-desc = Калі вы ўжо падпісаны на { -brand-name-mozilla-vpn }, вы можаце змяніць план або <a href="{ $url }">кіраваць сваёй падпіскай</a> у любы час.
+vpn-landing-faq-manage-subscription-question-desc = Калі вы ўжо падпісаны на { -brand-name-mozilla-vpn }, вы можаце змяніць план або <a href="{ $url }">кіраваць сваёй падпіскай</a> у любы час.
 vpn-landing-faq-download-heading = Як спампаваць { -brand-name-mozilla-vpn }, калі я ўжо падпісаны?
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
