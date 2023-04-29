@@ -94,6 +94,8 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (толькі { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Якая палітыка вяртання сродкаў { -brand-name-mozilla-vpn }?
+# Outdated string
+vpn-landing-faq-refund-question-desc = Вы можаце вярнуць свае грошы на працягу 30 дзён з моманту пакупкі падпіскі. Звяжыцеся з намі і адпраўце запыт на вяртанне грошай, націснуўшы кнопку «Атрымаць дапамогу» ў наладах вашай праграмы { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Як мне кіраваць падпіскай?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
