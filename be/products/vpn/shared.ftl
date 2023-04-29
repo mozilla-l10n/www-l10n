@@ -10,7 +10,7 @@ vpn-shared-subscribe-link = Атрымаць { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Далучыцца да спісу чакання
 vpn-shared-sign-in-link = Ужо падпісаны?
 # Outdated string
-vpn-shared-available-countries-v4 = Зараз мы прадстаўляем { -brand-name-mozilla-vpn } у Аўстрыі, Бельгіі, Канадзе, Францыі, Германіі, Ірландыі, Італіі, Малайзіі, Нідэрландах, Новай Зеландыі, Сінгапуры, Іспаніі, Швейцарыі, Вялікабрытаніі і ЗША.
+vpn-shared-available-countries-v4 = Зараз мы прадстаўляем { -brand-name-mozilla-vpn } у Аўстрыі, Бельгіі, Вялікабрытаніі, Германіі, ЗША, Ірландыі, Іспаніі, Італіі, Канадзе, Малайзіі, Нідэрландах, Новай Зеландыі, Сінгапуры, Францыі і Швейцарыі.
 vpn-shared-available-countries-v5 = Зараз мы прадстаўляем { -brand-name-mozilla-vpn } у Аўстрыі, Бельгіі, Канадзе, Фінляндыі, Францыі, Германіі, Ірландыі, Італіі, Малайзіі, Нідэрландах, Новай Зеландыі, Сінгапуры, Іспаніі, Швецыі, Швейцарыі, Вялікабрытаніі і ЗША.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-дзённая гарантыя вяртання грошай
