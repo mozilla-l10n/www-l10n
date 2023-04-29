@@ -7,6 +7,7 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: абараніце ўсю сваю прыладу
+vpn-landing-hero-sub-heading-v2 = Бяспека, надзейнасць і хуткасць — на любой прыладзе, куды б вы ні адправіліся.
 # Obsolete string
 vpn-landing-hero-sub-heading = Бяспека, на якую можна спадзявацца. Імя, якому можна давяраць.
 vpn-landing-hero-desc = Віртуальная прыватная сетка ад вытворцаў { -brand-name-firefox }.
