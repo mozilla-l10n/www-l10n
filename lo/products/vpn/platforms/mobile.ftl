@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
 vpn-mobile-privacy-headline = ຄວາມເປັນສ່ວນຕົວໃນຄລິກດຽວ
+vpn-mobile-speed-headline = ຄວາມໄວທີ່ບໍ່ຫນ້າເຊື່ອ, ບໍ່ມີຂໍ້ຈໍາກັດ
 vpn-mobile-log-headline = ຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າມາກ່ອນ
