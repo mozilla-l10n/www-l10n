@@ -13,3 +13,6 @@ vpn-resource-center-start-protecting = ເລີ່ມປົກປ້ອງຕ�
 vpn-resource-center-obsessed-with = Obsessed ກັບຄວາມເປັນສ່ວນຕົວຂອງທ່ານນັບຕັ້ງແຕ່ 1998
 vpn-resource-center-get-mozilla-vpn = ເອົາ { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = ບົດຄວາມນີ້ມີປະໂຫຍດບໍ?
+vpn-resource-center-article-helpful = ບົດຄວາມທີ່ເປັນປະໂຫຍດ
+vpn-resource-center-article-not-helpful = ບົດຄວາມບໍ່ມີປະໂຫຍດ
+vpn-resource-center-related-posts = ຂໍ້ຄວາມທີ່ກ່ຽວຂ້ອງ
