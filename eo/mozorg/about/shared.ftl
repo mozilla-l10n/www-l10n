@@ -16,4 +16,5 @@ about-shared-our-products = Niaj produktoj
 about-shared-software-innovations = Programaro kaj aliaj novaĵoj fasonitaj por antaŭenpuŝi nian mision.
 about-shared-get-involved = Partopreni
 about-shared-volunteer = Kontribui volontule en malsamaj fakoj.
-vision-for-the-web = Bildo de la reto laŭ { -brand-name-mozilla }
+vision-for-the-web = La reto revata de { -brand-name-mozilla }
+read-about-our-vision = Legi pli pri kia devus esti la reto, kiun ni revas, kaj kiel ni planas atingi ĝin.
