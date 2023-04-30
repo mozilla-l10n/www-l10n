@@ -44,6 +44,10 @@ vpn-landing-faq-uses-encrypt = Шыфраванне трафіку паміж в
 vpn-landing-faq-uses-examples = Азнаёмцеся з <a href="{ $url }">пяццю прыкладамі з жыцця</a>, у якіх вы хацелі б мець VPN на сваёй прыладзе.
 vpn-landing-faq-info-question-heading = Якую інфармацыю захоўвае { -brand-name-mozilla-vpn }?
 vpn-landing-faq-protected-question-heading = Як абаронена мая прыватнасць?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = Пратакол <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® шыфруе ваш сеткавы трафік, абараняючы ўсю вашу прыватную інфармацыю. У параўнанні з наяўнымі пратаколамі VPN, просты код { -brand-name-wireguard } лягчэй разглядаць і правяраць спецыялістам па бяспецы, што робіць яго больш бяспечным варыянтам для VPN. Акрамя таго, ваша дзейнасць у сеціве застаецца ананімнай, бо мы ніколі не рэгіструем, не сочым і не дзелімся вашымі сеткавымі дадзенымі.
 vpn-landing-faq-competition-question-heading = Чым { -brand-name-mozilla-vpn } адрозніваецца ад канкурэнтаў?
 vpn-landing-faq-compatibility-question-heading = З якімі прыладамі сумяшчальны { -brand-name-mozilla-vpn }?
 # Variables:
