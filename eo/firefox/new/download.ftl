@@ -41,9 +41,25 @@ firefox-new-download-interrupted = Via elŝuto estis interrompita. Sed ankoraŭ 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Bonvolu sekvi <a href="{ $url }">tiujn ĉi instrukciojn</a> por instali { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Via sistemo ne plenumas la postulojn de { -brand-name-firefox }, sed vi povas provi unu el <a href="{ $url }">la jenaj versioj</a>.
+firefox-new-windows = { -brand-name-windows }
+# Outdated string
+firefox-new-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Se vi vidas dialogon kiu indikas ke la instalota apo ne estas kontrolita de { -brand-name-microsoft }, alklaku “Tamen instalu” aŭ <a { $attrs }>ŝanĝu la agordojn de rekomenditaj apoj</a>.
+firefox-new-visit-support-for-more = Viziti la helpan paĝon por havi pli da informo
 
 # Not-Required
 
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+# The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
+firefox-new-download-browser = Elŝutu { -brand-name-firefox-browser }
+firefox-new-fast = Rapida, privata kaj senpaga
+firefox-new-from-mozilla = el { -brand-name-mozilla }
+firefox-new-desc = { -brand-name-firefox-browser } estas senpaga retumilo kun rapida ŝargado de paĝoj, malpli da memoruzo kaj amaso da trajtoj. Ĝi estas projekto de la neprofitcela organizo { -brand-name-mozilla }.
+firefox-new-download-a-different = Elŝuti por aliaj sistemoj kaj lingvoj
