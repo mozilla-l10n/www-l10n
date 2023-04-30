@@ -31,11 +31,16 @@ vpn-download-for-linux-requirements = Ubuntu { $version } e versioni successive
 vpn-download-for-android = VPN per { -brand-name-android }
 vpn-download-for-android-long = Scarica { -brand-name-mozilla-vpn } per { -brand-name-android }
 vpn-download-for-ios = VPN per { -brand-name-ios }
+vpn-download-for-ios-long = Scarica { -brand-name-mozilla-vpn } per { -brand-name-ios }
 vpn-download-get-on-google-play = Ottieni su { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Ottieni su { -brand-name-app-store }
 vpn-download-based-on-your = In base al dispositivo in uso
 vpn-download-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Privacy di cui ti puoi fidare
 vpn-download-also-available = Disponibile anche per:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = Dai creatori di { -brand-name-firefox }, { -brand-name-mozilla-vpn } utilizza il protocollo avanzato <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® per crittare la tua attività online e nascondere la tua posizione.
 vpn-download-we-never-log = Non registriamo, tracciamo o condividiamo i tuoi dati di rete.
 vpn-download-previous-versions = Scarica le versioni precedenti per { -brand-name-windows } e { -brand-name-mac-short }
