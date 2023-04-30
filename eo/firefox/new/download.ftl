@@ -63,3 +63,4 @@ firefox-new-fast = Rapida, privata kaj senpaga
 firefox-new-from-mozilla = el { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } estas senpaga retumilo kun rapida ŝargado de paĝoj, malpli da memoruzo kaj amaso da trajtoj. Ĝi estas projekto de la neprofitcela organizo { -brand-name-mozilla }.
 firefox-new-download-a-different = Elŝuti por aliaj sistemoj kaj lingvoj
+firefox-new-taskbar = Post instalo, { -brand-name-firefox } estos alpinglita al la { -brand-name-windows } taska strio
