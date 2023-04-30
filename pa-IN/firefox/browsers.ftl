@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } ਦਾ 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ? <a { $fxa_attr }>ਸਾਇਨ ਇਨ ਕਰੋ</a> ਜਾਂ { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣਨ ਲਈ <a { $accounts_attr }>ੁਹੋਰ ਜਾਣੋ</a>।
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ? <a { $fxa_attr }>ਸਾਇਨ ਇਨ ਕਰੋ</a> ਜਾਂ ਫਾਇਰਫਾਕਸ ਦਾ ਹਿੱਸਾ ਬਣਨ ਲਈ <a { $accounts_attr }>ੁਹੋਰ ਜਾਣੋ</a>।
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

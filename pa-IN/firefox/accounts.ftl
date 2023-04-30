@@ -24,6 +24,7 @@ firefox-accounts-send-a-tab = ਵੱਖਰੇ ਡਿਵਾਈਸ ਉੱਤੇ <a
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">ਪਾਸਵਰਡ ਸੰਭਾਲੋ ਅਤੇ ਸਿੰਕ ਕਰੋ</a>
+firefox-accounts-get-email-alerts = ਜਦੋਂ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਕਿਸੇ ਜਾਣੀ-ਪਛਾਣੀ ਸੰਨ੍ਹ ਵਿੱਚ ਹੋਣ ਦਾ ਪਤਾ ਲੱਗੇ ਤਾਂ ਈਮੇਲ ਸੂਚਨਾ ਲਵੋ
 # Obsolete string
 firefox-accounts-see-if-youve-been = ਵੇਖੋ ਕਿ ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਆਨਲਾਈਨ ਡਾਟਾ ਸੰਨ੍ਹ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋ ਚੁੱਕੇ ਹੋ।
 firefox-accounts-protect-your-identity = ਸੁਰੱਖਿਅਤ ਫ਼ੋਨ ਅਤੇ ਈਮੇਲ ਮਾਸਕ ਨਾਲ ਆਪਣੀ ਪਛਾਣ ਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਓ
