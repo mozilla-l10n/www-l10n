@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
@@ -9,6 +9,7 @@
 features-private-browsing-private-browser = Privata retumilo kun ekstra protekto kontraŭ spurado
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } protektas vian privatecon en la reto kaj blokas spurilojn, kiuj sekvas vin tra la teksaĵo.
+features-private-browsing-download-firefox = Elŝuti { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: pli da protekto, malpli da zorgo.
 features-private-browsing-were-obsessed-with = La protekto de via privateco estas nia ĉefĉefa zorgo. Tial la privata retumo de { -brand-name-firefox } estas tiel multe pli pova ol tiu de la aliaj retumiloj.
 features-private-browsing-browse-without = Retumu sen lasi spurojn

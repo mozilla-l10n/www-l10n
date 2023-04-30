@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Elŝuti kaj testi la last
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Testi baldaŭ aperontajn trajtojn en la plej stabila prepara versio.
 firefox-channel-release-notes = Notoj pri liverado
+firefox-channel-previous-nightly-builds = Antaŭaj versioj de { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Konstrui, testi, skaligi kaj pli da aferoj per la ununura retumilo farita specife por programistoj.
 # Variables:
