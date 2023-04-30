@@ -159,7 +159,7 @@ firefox-desktop-download-almost-there = Prawie gotowe!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Teraz dokończ <strong>instalowanie</strong> { -brand-name-firefox(case: "gen") }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-windows = Teraz <strong>uruchom</strong> właśnie pobranego instalatora.
+firefox-desktop-download-now-windows = Teraz <strong>uruchom</strong> właśnie pobrany instalator.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Teraz <strong>otwórz</strong> właśnie pobrany plik.
 # Variables:
