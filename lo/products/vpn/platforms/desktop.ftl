@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Meta strings
+vpn-desktop-page-title = { -brand-name-mozilla-vpn } ສໍາລັບເດັສທັອບ (PC ແລະແລັບທັອບ)
+vpn-desktop-page-description = ໄດ້​ຮັບ​ຄວາມ​ປອດ​ໄພ​ໄວ, ງ່າຍ​ຢູ່​ໃນ​ຄອມ​ພິວ​ເຕີ​ຕັ້ງ​ໂຕະ ແລະ​ແລັບ​ທັອບ​ຂອງ​ທ່ານ​ຜ່ານ { -brand-name-mozilla }, ເປັນ​ໜຶ່ງ​ໃນ​ຊື່​ທີ່​ເຊື່ອ​ຖື​ໄດ້​ທີ່​ສຸດ​ໃນ​ເຕັກ​ໂນ​ໂລ​ຊີ.
 # Desktop strings
 vpn-desktop-hero-headline = ຮັບປະກັນການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານດ້ວຍ { -brand-name-mozilla-vpn } ສໍາລັບເດັສທັອບ
 vpn-desktop-wifi-headline = ຮູ້ສຶກປອດໄພດ້ວຍການໃຊ້ wifi ສາທາລະນະ

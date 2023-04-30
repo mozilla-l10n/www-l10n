@@ -39,3 +39,4 @@ vpn-download-get-mozilla-vpn = ເອົາ { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = ຄວາມເປັນສ່ວນຕົວທີ່ທ່ານສາມາດໄວ້ວາງໃຈໄດ້
 vpn-download-also-available = ຍັງມີໃຫ້ສໍາລັບ:
 vpn-download-we-never-log = ພວກເຮົາບໍ່ເຄີຍບັນທຶກ, ຕິດຕາມ, ຫຼື ແບ່ງປັນຂໍ້ມູນເຄືອຂ່າຍຂອງທ່ານ.
+vpn-download-previous-versions = ດາວໂຫຼດເວີຊັນກ່ອນໜ້ານີ້ສຳລັບ { -brand-name-windows } ແລະ { -brand-name-mac-short }

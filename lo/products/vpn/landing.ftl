@@ -7,6 +7,11 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: ປົກປ້ອງອຸປະກອນທັງໝົດຂອງເຈົ້າ
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = ໃຊ້ { -brand-name-mozilla-vpn } ເພື່ອປ້ອງກັນອຸປະກອນທັງໝົດສຳລັບທຸກແອັບ. ດ້ວຍເຊີບເວີໃນ { $countries }+ ປະເທດ, ທ່ານສາມາດເຊື່ອມຕໍ່ກັບທຸກບ່ອນ, ຈາກທຸກບ່ອນ.
+vpn-landing-hero-sub-heading-v2 = ຄວາມ​ປອດ​ໄພ, ຄວາມ​ເຊື່ອ​ຖື​ ແລະ ​ຄວາມ​ໄວ — ໃນ​ທຸກ​ອຸ​ປະ​ກອນ​, ທຸກ​ບ່ອນ​ທີ່​ທ່ານ​ໄປ​.
 # Obsolete string
 vpn-landing-hero-sub-heading = ຄວາມປອດໄພທີ່ທ່ານສາມາດອີງໃສ່. ຊື່ທີ່ທ່ານສາມາດໄວ້ວາງໃຈໄດ້.
 vpn-landing-hero-desc = ເຄືອຂ່າຍສ່ວນຕົວສະເໝືອນຈິງຈາກຜູ້ຜະລິດຂອງ { -brand-name-firefox }.
