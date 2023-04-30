@@ -17,9 +17,13 @@ features-translate-the-internet-is = Internet jest pełen niesamowitych rzeczy, 
 features-translate-firefox-translations = { -brand-name-firefox-translations }
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-the-firefox-translations-extension-provides = <a { $attrs }>Rozszerzenie { -brand-name-firefox-translations }</a> może automatycznie tłumaczyć treść odwiedzanych stron internetowych. W przeciwieństwie do alternatywnych rozwiązań używających chmury, to rozszerzenie tłumaczy tekst lokalnie w { -brand-name-firefox(case: "loc") }, więc tłumaczona treść nie opuszcza Twojego komputera.
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = Pobierz { -brand-name-firefox-translations }
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = Serwis { -brand-name-google } Translate, obsługujący ponad 100 języków*, jest używany przez miliony osób na całym świecie. Jednak ciągłe przechodzenie między translate.google.com a stroną, którą próbujesz przeczytać, nie jest idealnym rozwiązaniem. Rozszerzenie <a { $attrs }>To { -brand-name-google } Translate</a> sprawia, że tłumaczenie odwiedzanej strony jest łatwiejsze niż kiedykolwiek.
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = Pobierz To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Pobierz rozszerzenie
 features-translate-once-installed-simply = Po zainstalowaniu po prostu zaznacz tekst, który chcesz przetłumaczyć, i kliknij go prawym przyciskiem, aby wyświetlić menu z dwiema opcjami: 1) przeniesie Cię do translate.google.com z zaznaczonym tekstem automatycznie wklejonym w polu tłumaczenia, zaś 2) odtworzy wymowę wyrażenia na głos (za pomocą mechanizmu { -brand-name-google } Text-to-Speech), co jest pomocne, jeśli próbujesz nauczyć się nowego języka.
