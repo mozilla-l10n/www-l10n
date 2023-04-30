@@ -101,10 +101,10 @@ vpn-landing-faq-manage-subscription-question-heading = Як мне кірава�
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Калі вы ўжо падпісаны на { -brand-name-mozilla-vpn }, вы можаце змяніць план або <a href="{ $url }">кіраваць сваёй падпіскай</a> у любы час.
-vpn-landing-faq-download-heading = Як спампаваць { -brand-name-mozilla-vpn }, калі я ўжо падпісаны?
+vpn-landing-faq-download-heading = Як мне сцягнуць { -brand-name-mozilla-vpn }, калі я ўжо падпісаны?
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
-vpn-landing-faq-download-desc = Наведайце <a { $attrs }>старонку спампоўкі</a>, каб усталяваць { -brand-name-mozilla-vpn } на сваю прыладу, а затым увайдзіце, выкарыстоўваючы свой { -brand-name-firefox-account }.
+vpn-landing-faq-download-desc = Наведайце <a { $attrs }>старонку сцягвання</a>, каб усталяваць { -brand-name-mozilla-vpn } на сваю прыладу, а затым увайдзіце, выкарыстоўваючы свой { -brand-name-firefox-account }.
 vpn-landing-faq-link = Глядзець іншыя ЧаПы
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
