@@ -10,6 +10,7 @@ vpn-mobile-page-title = { -brand-name-mozilla-vpn } ສຳລັບມືຖື 
 vpn-mobile-page-description = ປົກປ້ອງໂທລະສັບສະຫຼາດ ແລະ ແທັບເລັດຂອງທ່ານດ້ວຍ VPN ຈາກ { -brand-name-mozilla }, ຜູ້ບຸກເບີກທີ່ເຊື່ອຖືໄດ້ໃນຄວາມເປັນສ່ວນຕົວອິນເຕີເນັດ.
 # Mobile strings
 vpn-mobile-hero-headline = ຮັບປະກັນຄວາມເປັນສ່ວນຕົວຂອງທ່ານໃນມືຖືດ້ວຍ { -brand-name-mozilla-vpn }
+vpn-mobile-wifi-headline = ຮູ້ສຶກປອດໄພດ້ວຍການໃຊ້ wifi ສາທາລະນະ
 vpn-mobile-privacy-headline = ຄວາມເປັນສ່ວນຕົວໃນຄລິກດຽວ
 vpn-mobile-speed-headline = ຄວາມໄວທີ່ບໍ່ຫນ້າເຊື່ອ, ບໍ່ມີຂໍ້ຈໍາກັດ
 vpn-mobile-log-headline = ຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າມາກ່ອນ
