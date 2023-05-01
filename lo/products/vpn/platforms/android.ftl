@@ -7,6 +7,9 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-android }
+vpn-android-page-description = ປອດໄພດ້ວຍການແຕະເທື່ອດຽວຢູ່ໃນໂທລະສັບ { -brand-name-android } ຂອງທ່ານຜ່ານ { -brand-name-mozilla }, ໜຶ່ງໃນຊື່ທີ່ເຊື່ອຖືໄດ້ທີ່ສຸດໃນເທັກໂນໂລຍີ.
+# Mobile strings
+vpn-android-hero-headline = ຮັບການປົກປ້ອງ ແລະ ຄວາມເປັນສ່ວນຕົວທາງອອນລາຍດ້ວຍ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-android }
 vpn-android-wifi-headline = ຢູ່ໃນອອນໄລນ໌ຢ່າງປອດໄພໃນເວລາທີ່ທ່ານຢູ່ໃນການເຄື່ອນໄຫວ
 vpn-android-about-headline = { -brand-name-mozilla } ແມ່ນຊື່ທີ່ທ່ານສາມາດເຊື່ອຖືໄດ້
 vpn-android-privacy-headline = ແຕະຄັ້ງດຽວເພື່ອເຊື່ອມຕໍ່
