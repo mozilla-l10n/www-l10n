@@ -43,3 +43,4 @@ vpn-download-also-available = Διατίθεται επίσης για:
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = Από τους δημιουργούς του { -brand-name-firefox }, το { -brand-name-mozilla-vpn } χρησιμοποιεί το προηγμένο πρωτόκολλο <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® για την κρυπτογράφηση της διαδικτυακής σας δραστηριότητας και την απόκρυψη της τοποθεσίας σας.
 vpn-download-we-never-log = Δεν καταγράφουμε και δεν κοινοποιούμε ποτέ τα δεδομένα δικτύου σας.
+vpn-download-previous-versions = Λήψη προηγούμενων εκδόσεων για { -brand-name-windows } και { -brand-name-mac-short }
