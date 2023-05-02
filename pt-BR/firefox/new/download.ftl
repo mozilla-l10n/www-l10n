@@ -34,7 +34,7 @@ firefox-new-youre-using-an-insecure-outdated = Você está usando um sistema ope
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-new-your-firefox-new-should-begin = Seu download deve começar automaticamente.<br />Não funcionou? <a id="{ $id }" href="{ $fallback_url }">Tente baixar novamente</a>.
+firefox-new-your-firefox-new-should-begin = O download deve começar automaticamente.<br />Não funcionou? <a id="{ $id }" href="{ $fallback_url }">Tente baixar novamente</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } é mais que um navegador.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Seu download foi interrompido, mas nem todo está perdido.

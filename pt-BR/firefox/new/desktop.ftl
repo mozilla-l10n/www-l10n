@@ -164,8 +164,8 @@ firefox-desktop-download-now-windows = Agora <strong>execute</strong> o instalad
 firefox-desktop-download-now-mac = Agora <strong>abra</strong> o arquivo que acabou de baixar.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
-firefox-desktop-download-get-help = Algum problema? <a { $attrs }>Peça ajuda para sua instalação</a>.Algum
-firefox-desktop-download-in-another-language = Baixar de outro idioma ou de outro sistema operacional.
+firefox-desktop-download-get-help = Algum problema? <a { $attrs }>Peça ajuda para sua instalação</a>.
+firefox-desktop-download-in-another-language = Baixar de outro idioma ou outro sistema operacional.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
@@ -183,7 +183,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Você está usando u
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-firefox-new-should-begin = Seu download deve começar automaticamente. Não funcionou? <a id="{ $id }" href="{ $fallback_url }">Tente baixar novamente</a>.
+firefox-desktop-download-your-firefox-new-should-begin = O download deve começar automaticamente. Não funcionou? <a id="{ $id }" href="{ $fallback_url }">Tente baixar novamente</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } é mais que um navegador.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Seu download foi interrompido, mas nem todo está perdido.
