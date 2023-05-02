@@ -19,3 +19,4 @@ mobile-android-save-power-with = Spar straum med mørk modus
 mobile-android-pick-up-where = Fortset der du slutta
 mobile-android-pin-videos-to = Fest videoar på skjermen
 mobile-android-about-mozilla = Om { -brand-name-mozilla }
+mobile-android-own-your-home = Eig startsida di

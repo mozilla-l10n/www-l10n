@@ -7,6 +7,8 @@
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Funksjonar</strong>
+mobile-compare-features = Funksjonar
+mobile-compare-what-can-your = Kva kan nettlesaren gjere for deg?
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Synkronisering</strong>
 mobile-compare-syncing = Synkroniserer

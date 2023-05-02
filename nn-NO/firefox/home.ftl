@@ -26,6 +26,7 @@ firefox-home-share-large-files-without = Del store filer utan nysgjerrige auge
 firefox-home-start-sending-files = Begynn å sende filer trygt
 firefox-home-trade-clickbait-for = Byt ut klikkfang (clickbait) med kvalitetsinnhald
 firefox-home-learn-more-about-pocket = Les meir om { -brand-name-pocket }
+firefox-home-protection-for-your-whole = Vern for heile eininga di, på alle einingar.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Éi innlogging. På alle einingane dine. Ein produktfamilie som tek vare på <strong>personvernet</strong> ditt.
 firefox-home-join-firefox = Bli ein del av { -brand-name-firefox }
