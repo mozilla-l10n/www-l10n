@@ -12,6 +12,7 @@ firefox-home-meet-our-family-of = Møt produktfamilien vår
 firefox-home-get-trackers-off = Blokker meir enn 2000 sporarar — inkludert { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Få greie på når hackarar slår til — og ver eitt steg framom dei
 firefox-home-start-getting-breach = Begynn å få rapportar om datalekkasjar
+firefox-home-try-relay = Prøv { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Hald passorda dine trygge på alle einingar
 # Obsolete string

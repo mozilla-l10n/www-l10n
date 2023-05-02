@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -19,6 +19,7 @@ compare-shared-autoplay-blocking = Blokkering av automatisk avspeling
 compare-shared-tab-browsing = Nettlesing med faner
 compare-shared-bookmark-manager = Bokmerkehandterar
 compare-shared-automatically-fills-out-forms = Fyller ut skjemaer automatisk
+compare-shared-automatically-fills-out-payments = Fyller automatisk ut betalingar
 compare-shared-search-engine-options = Innstillingar for søkjemotor
 compare-shared-text-to-speech = Tekst til tale
 compare-shared-reader-mode = Lesemodus

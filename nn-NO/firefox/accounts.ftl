@@ -21,11 +21,15 @@ firefox-accounts-meet-our-family-of = Møt familien vår av personvernprodukt.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Send ei fane</a> til ei anna eining
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Lagre og synkroniser passord</a>
 # Obsolete string
 firefox-accounts-see-if-youve-been = Sjå om du har vore involvert i ein datalekkasje på nettet.
 firefox-accounts-keep-your-passwords = Hald passorda dine trygge og ta dei med overalt.
 firefox-accounts-get-a-lookout-for = Hald auge med datalekkasjar.
 firefox-accounts-travel-the-internet = Surf på nettet med vern, på alle einingar.
+firefox-accounts-save-articles = Lagre artiklar frå heile nettet
 firefox-accounts-get-it-all-on-every = Få alt på alle einingar, utan å kjenne deg fanga av eitt enkelt operativsystem.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
