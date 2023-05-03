@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } ja uudempi
 vpn-download-for-android = VPN { -brand-name-android }ille
 vpn-download-for-android-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-android }ille
 vpn-download-for-ios = VPN { -brand-name-ios }ille
+vpn-download-for-ios-long-v2 = Lataa { -brand-name-mozilla-vpn } { -brand-name-ios }:lle
+# Obsolete string
 vpn-download-for-ios-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-ios }:lle
 vpn-download-get-on-google-play = Lataa { -brand-name-google-play } Storesta
 vpn-download-get-on-app-store = Hanki { -brand-name-app-store }sta

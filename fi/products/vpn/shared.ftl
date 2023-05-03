@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = Mikä on IP-osoite?
 vpn-subnav-when-to-use-a-vpn = Milloin VPN:ää kannattaa käyttää
 vpn-subnav-vpn-vs-proxy = VPN vs välityspalvelin
 vpn-subnav-subscribe = Tilaa { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Lisätietoja VPN:istä
+vpn-subnav-download-mozilla-vpn = Lataa { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
