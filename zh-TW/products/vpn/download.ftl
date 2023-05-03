@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } 與更新版本
 vpn-download-for-android = VPN for { -brand-name-android }
 vpn-download-for-android-long = 下載 { -brand-name-mozilla-vpn } for { -brand-name-android }
 vpn-download-for-ios = VPN for { -brand-name-ios }
+vpn-download-for-ios-long-v2 = 下載 { -brand-name-mozilla-vpn } for { -brand-name-ios }
+# Obsolete string
 vpn-download-for-ios-long = 下載 VPN { -brand-name-mozilla-vpn } for { -brand-name-ios }
 vpn-download-get-on-google-play = 到 { -brand-name-google-play } 商店下載
 vpn-download-get-on-app-store = 到 { -brand-name-app-store } 下載
