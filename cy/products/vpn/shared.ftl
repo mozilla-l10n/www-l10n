@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = Beth yw cyfeiriad IP?
 vpn-subnav-when-to-use-a-vpn = Pryd i ddefnyddio VPN
 vpn-subnav-vpn-vs-proxy = VPN neu Dirprwy
 vpn-subnav-subscribe = Tanysgrifiwch i { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Dysgwch am VPNs
+vpn-subnav-download-mozilla-vpn = Llwythwch { -brand-name-mozilla-vpn } i Lawr
 
 ## VPN Affiliate cookie notice
 
