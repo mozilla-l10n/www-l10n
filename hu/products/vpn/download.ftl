@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version }-hez vagy újabbhoz
 vpn-download-for-android = VPN { -brand-name-android }ra
 vpn-download-for-android-long = A { -brand-name-mozilla-vpn } letöltése { -brand-name-android }ra
 vpn-download-for-ios = VPN { -brand-name-ios }-re
+vpn-download-for-ios-long-v2 = A { -brand-name-mozilla-vpn } letöltése { -brand-name-ios }-re
+# Obsolete string
 vpn-download-for-ios-long = A { -brand-name-mozilla-vpn } letöltése { -brand-name-ios }-re
 vpn-download-get-on-google-play = Szerezze be a { -brand-name-google-play } Áruházban
 vpn-download-get-on-app-store = Szerezze be az { -brand-name-app-store }-ban

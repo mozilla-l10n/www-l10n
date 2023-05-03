@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = Mi az IP-cím?
 vpn-subnav-when-to-use-a-vpn = Mikor használjon VPN-t
 vpn-subnav-vpn-vs-proxy = VPN kontra Proxy
 vpn-subnav-subscribe = Előfizetés a { -brand-name-mozilla-vpn }-re
+vpn-subnav-learn-about-vpns = Tudjon meg többet a VPN-ekről
+vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } letöltése
 
 ## VPN Affiliate cookie notice
 
