@@ -38,6 +38,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } 以上
 vpn-download-for-android = { -brand-name-android } 用の VPN
 vpn-download-for-android-long = { -brand-name-android } 用 { -brand-name-mozilla-vpn } をダウンロード
 vpn-download-for-ios = { -brand-name-ios } 用の VPN
+
+# Obsolete string
 vpn-download-for-ios-long = { -brand-name-ios } 用 { -brand-name-mozilla-vpn } をダウンロード
 vpn-download-get-on-google-play = { -brand-name-google-play } で入手
 vpn-download-get-on-app-store = { -brand-name-app-store } で入手

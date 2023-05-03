@@ -38,6 +38,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } وأعلى
 vpn-download-for-android = VPN لـ { -brand-name-android }
 vpn-download-for-android-long = نزِّل { -brand-name-mozilla-vpn }<br> لنظام تشغيل { -brand-name-android }
 vpn-download-for-ios = VPN لـ { -brand-name-ios }
+
+# Obsolete string
 vpn-download-for-ios-long = نزّل VPN { -brand-name-mozilla-vpn } لـ { -brand-name-ios }
 vpn-download-get-on-google-play = احصل عليه من متجر { -brand-name-google-play }
 vpn-download-get-on-app-store = احصل عليه من { -brand-name-app-store }

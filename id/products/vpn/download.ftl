@@ -38,6 +38,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } dan lebih tinggi
 vpn-download-for-android = VPN untuk { -brand-name-android }
 vpn-download-for-android-long = Unduh { -brand-name-mozilla-vpn } untuk { -brand-name-android }
 vpn-download-for-ios = VPN untuk { -brand-name-ios }
+
+# Obsolete string
 vpn-download-for-ios-long = Unduh VPN { -brand-name-mozilla-vpn } untuk { -brand-name-ios }
 vpn-download-get-on-google-play = Dapatkan di { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Dapatkan di { -brand-name-app-store }
