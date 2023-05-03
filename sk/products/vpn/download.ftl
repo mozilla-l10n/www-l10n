@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } a vyššie
 vpn-download-for-android = VPN pre { -brand-name-android }
 vpn-download-for-android-long = Stiahnite si { -brand-name-mozilla-vpn } pre { -brand-name-android }
 vpn-download-for-ios = VPN pre { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Stiahnite si { -brand-name-mozilla-vpn } pre { -brand-name-ios }
+# Obsolete string
 vpn-download-for-ios-long = Stiahnite si { -brand-name-mozilla-vpn } pre { -brand-name-ios }
 vpn-download-get-on-google-play = Získať v obchode { -brand-name-google-play }
 vpn-download-get-on-app-store = Získať v obchode { -brand-name-app-store }
