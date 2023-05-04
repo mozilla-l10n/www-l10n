@@ -9,25 +9,25 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition-desc = O { -brand-name-firefox-developer-edition } é o navegador extremamente rápido que oferece ferramentas de desenvolvimento de ponta e recursos mais recentes, como o suporte ao CSS Grid e depuração de framework
+firefox-developer-firefox-developer-edition-desc = O { -brand-name-firefox-developer-edition } é o navegador extremamente rápido que oferece ferramentas de desenvolvimento de ponta e recursos mais recentes, como suporte a CSS Grid e depuração de framework
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Boas-vindas ao seu novo navegador preferido. Tenha os recursos mais recentes, desempenho rápido e as ferramentas de desenvolvimento que você precisa para construir na web aberta.
 firefox-developer-speak-up = Comunique-se
-firefox-developer-feedback-makes-us = Sua opinião nos ajuda a melhorar. Diga-nos como podemos melhorar o Firefox e as Ferramentas de Desenvolvimento.
-firefox-developer-join-the-convo = Entre na conversa
+firefox-developer-feedback-makes-us = Sua opinião nos ajuda a melhorar. Diga como podemos melhorar o Firefox e as ferramentas de desenvolvimento.
+firefox-developer-join-the-convo = Entrar na conversa
 firefox-developer-get-involved = Participe
-firefox-developer-help-build-the-last = Ajude a fazer o último navegador independente. Escreva código, corrija erros, crie extensões e muito mais.
+firefox-developer-help-build-the-last = Ajude no desenvolvimento do último navegador independente. Escreva código, corrija erros, crie extensões e muito mais.
 firefox-developer-start-now = Iniciar agora
-firefox-developer-design-code-test = Desenhe. Programe. Teste. Ajuste.
+firefox-developer-design-code-test = Projetar. Codificar. Testar. Refinar.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Construa e Aperfeiçoe os seus sites<br> com o { -brand-name-firefox-devtools }
+firefox-developer-build-and-perfect = Construa e aperfeiçoe seus sites<br>com o { -brand-name-firefox-devtools }
 firefox-developer-inspector = Inspector
 firefox-developer-inspect-and-refine = Inspecione e refine código para construir layouts perfeitos.
 firefox-developer-learn-about-page-inspector = Saiba mais sobre o inspetor de página
 firefox-developer-console = Console
-firefox-developer-track-css = Rastreie CSS, JavaScript, segurança e problemas de redes.
+firefox-developer-track-css = Acompanhe problemas de CSS, JavaScript, segurança e rede.
 firefox-developer-learn-about-web-console = Saiba mais sobre o console web
-firefox-developer-debugger = Depurador
+firefox-developer-debugger = Debugger
 firefox-developer-powerful-javascript = Um poderoso depurador de JavaScript com suporte ao seu framework.
 firefox-developer-learn-more-about-debugger = Saiba mais sobre o depurador de JavaScript
 firefox-developer-network = Rede
