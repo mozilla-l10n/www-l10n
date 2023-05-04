@@ -17,6 +17,10 @@ history-by-creating-an-open-community = ໂດຍການສ້າງຊຸມ�
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = ໃນປີ 2002, <a href="{ $over90 }">ຫຼາຍກວ່າ 90% ຂອງຜູ້ໃຊ້ອິນເຕີເນັດ</a> ໄດ້ຊອກຫາດ້ວຍ { -brand-name-ie }.
+# Variables:
+#   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
+#   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> ຖືກປ່ອຍອອກມາໃນປີ 2004 ແລະ ກາຍເປັນຜົນສຳເລັດອັນໃຫຍ່ຫຼວງ — ໃນເວລາບໍ່ຮອດໜຶ່ງປີ, ມັນຖືກດາວໂຫຼດ <a href="{ $millions }">ຫຼາຍກວ່າ 100 ລ້ານເທື່ອ</a>.
 history-new-versions-of-firefox = ລຸ້ນໃໝ່ຂອງ { -brand-name-firefox } ໄດ້ອອກມາເປັນປົກກະຕິຕັ້ງແຕ່ນັ້ນມາ ແລະ ສືບຕໍ່ສ້າງສະຖິຕິໃໝ່. ຄວາມນິຍົມຂອງ { -brand-name-firefox } ໄດ້ຊ່ວຍນໍາເອົາທາງເລືອກກັບຄືນສູ່ຜູ້ໃຊ້.
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/

@@ -7,6 +7,9 @@
 
 # HTML page title and main title
 privacy-principles-data-privacy-principles = ຫຼັກການຄວາມເປັນສ່ວນຕົວຂອງຂໍ້ມູນ
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/about/manifesto/
+privacy-principles-the-following-five-principles = ຫ້າຫຼັກການຕໍ່ໄປນີ້ແມ່ນມາຈາກ <a href="{ $link }">{ -brand-name-mozilla } Manifesto</a> ແລະ ແຈ້ງໃຫ້ພວກເຮົາຮູ້ວ່າ:
 privacy-principles-develop-our-products = ພັດທະນາຜະລິດຕະພັນ ແລະ ການບໍລິການຂອງພວກເຮົາ
 privacy-principles-manage-user-data-we-collect = ຈັດການຂໍ້ມູນຜູ້ໃຊ້ທີ່ພວກເຮົາເກັບກໍາ
 privacy-principles-select-and-interact-with = ເລືອກ ແລະ ພົວພັນກັບຄູ່ຄ້າ

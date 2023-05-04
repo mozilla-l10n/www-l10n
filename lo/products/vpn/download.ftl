@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } ຂຶ້ນໄປ
 vpn-download-for-android = VPN ສໍາລັບ { -brand-name-android }
 vpn-download-for-android-long = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-android }
 vpn-download-for-ios = VPN ສໍາລັບ { -brand-name-ios }
+vpn-download-for-ios-long-v2 = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-ios }
+# Obsolete string
 vpn-download-for-ios-long = ດາວໂຫລດ VPN { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-ios }
 vpn-download-get-on-google-play = ເຂົ້າໄປທີ່ { -brand-name-google-play } Store
 vpn-download-get-on-app-store = ເຂົ້າໄປທີ່ { -brand-name-app-store }
@@ -38,5 +40,9 @@ vpn-download-based-on-your = ອີງໃສ່ອຸປະກອນປະຈຸ
 vpn-download-get-mozilla-vpn = ເອົາ { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = ຄວາມເປັນສ່ວນຕົວທີ່ທ່ານສາມາດໄວ້ວາງໃຈໄດ້
 vpn-download-also-available = ຍັງມີໃຫ້ສໍາລັບ:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = ຈາກຜູ້ຜະລິດຂອງ { -brand-name-firefox }, { -brand-name-mozilla-vpn } ໃຊ້ <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }< /a>® ອະນຸສັນຍາເພື່ອເຂົ້າລະຫັດການເຄື່ອນໄຫວອອນໄລນ໌ ແລະ ເຊື່ອງສະຖານທີ່ຂອງທ່ານ.
 vpn-download-we-never-log = ພວກເຮົາບໍ່ເຄີຍບັນທຶກ, ຕິດຕາມ, ຫຼື ແບ່ງປັນຂໍ້ມູນເຄືອຂ່າຍຂອງທ່ານ.
 vpn-download-previous-versions = ດາວໂຫຼດເວີຊັນກ່ອນໜ້ານີ້ສຳລັບ { -brand-name-windows } ແລະ { -brand-name-mac-short }
