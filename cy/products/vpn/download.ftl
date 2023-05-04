@@ -31,7 +31,7 @@ vpn-download-for-linux-requirements = Ubuntu { $version } ac uwch
 vpn-download-for-android = VPN ar gyfer { -brand-name-android }
 vpn-download-for-android-long = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-android }
 vpn-download-for-ios = VPN ar gyfer { -brand-name-ios }
-vpn-download-for-ios-long-v2 = Lawrlwythwch { -brand-name-mozilla-vpn } ar gyfer { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-ios }
 # Obsolete string
 vpn-download-for-ios-long = Llwythwch VPN { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-ios }
 vpn-download-get-on-google-play = Ei gael ar { -brand-name-google-play } Store
