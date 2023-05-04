@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = Τι είναι μια διεύθυνση IP;
 vpn-subnav-when-to-use-a-vpn = Πότε να χρησιμοποιήσετε ένα VPN
 vpn-subnav-vpn-vs-proxy = VPN vs διακομιστή μεσολάβησης
 vpn-subnav-subscribe = Συνδρομή στο { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Μάθετε περισσότερα για τα VPN
+vpn-subnav-download-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 

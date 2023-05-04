@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } και νεότερα
 vpn-download-for-android = VPN για { -brand-name-android }
 vpn-download-for-android-long = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-android }
 vpn-download-for-ios = VPN για { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-ios }
+# Obsolete string
 vpn-download-for-ios-long = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-ios }
 vpn-download-get-on-google-play = Λήψη στο { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Λήψη στο { -brand-name-app-store }
