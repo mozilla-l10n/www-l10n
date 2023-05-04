@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = ¿Qué es una dirección IP?
 vpn-subnav-when-to-use-a-vpn = Cuándo usar un VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 vpn-subnav-subscribe = Suscríbete a { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Aprender sobre VPNs
+vpn-subnav-download-mozilla-vpn = Bajar { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
