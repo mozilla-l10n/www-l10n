@@ -67,7 +67,7 @@ vpn-shared-pricing-recommended-offer = Doporučujeme
 vpn-shared-pricing-plan-12-month-v2 = 12měsíční plán
 # Outdated string
 vpn-shared-pricing-plan-12-month = 12 měsíců
-vpn-shared-pricing-plan-monthly-v2 = Měsíční plán
+vpn-shared-pricing-plan-monthly-v2 = Měsíční předplatné
 # Outdated string
 vpn-shared-pricing-plan-monthly = Měsíčně
 # Variables:
@@ -84,7 +84,7 @@ vpn-shared-pricing-get-12-month = Získat 12měsíční plán
 # Outdated string
 vpn-shared-pricing-get-6-month-v2 = Získat 6měsíční plán
 vpn-shared-pricing-get-12-month-v2 = Získat 12měsíční plán
-vpn-shared-pricing-get-monthly = Získat měsíční plán
+vpn-shared-pricing-get-monthly = Získat měsíční předplatné
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Ušetříte { $percent }%
