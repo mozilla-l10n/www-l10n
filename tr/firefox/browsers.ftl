@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox }’a kat
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Zaten hesabınız var mı? <a { $fxa_attr }>Giriş yapın</a> veya { -brand-name-firefox }’a katılma hakkında <a { $accounts_attr }>bilgi alın</a>.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = Zaten hesabınız var mı? <a { $fxa_attr }>Giriş yapın</a> veya Firefox'a katılma hakkında <a { $accounts_attr }>daha fazla bilgi alın</a>.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
