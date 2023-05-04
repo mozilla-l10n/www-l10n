@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = آئی پی پتہ کیا ہے؟
 vpn-subnav-when-to-use-a-vpn = وی پی این کݙݨ ورتݨے
 vpn-subnav-vpn-vs-proxy = وی پی این  تے پراکسی
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } سب سکرایب کرو
+vpn-subnav-learn-about-vpns = VPNs بارے ڄاݨو
+vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 
 ## VPN Affiliate cookie notice
 

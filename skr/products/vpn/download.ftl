@@ -30,6 +30,8 @@ vpn-download-for-linux-requirements = اوبنٹو { $version } تے ودھ
 vpn-download-for-android = { -brand-name-android } کیتے وی پی این
 vpn-download-for-android-long = { -brand-name-android } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 vpn-download-for-ios = { -brand-name-ios } کیتے وی پی این
+vpn-download-for-ios-long-v2 = { -brand-name-ios } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
+# Obsolete string
 vpn-download-for-ios-long = { -brand-name-ios } کیتے وی پی این { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 vpn-download-get-on-google-play = { -brand-name-google-play } سٹور توں گھنو
 vpn-download-get-on-app-store = { -brand-name-app-store } توں گھنو
