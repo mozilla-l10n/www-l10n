@@ -306,8 +306,8 @@ knowledge-is-power-pocket = { -brand-name-pocket }
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = 必須更新您的瀏覽器才可以使用此頁面。
 # Name for the newsletter in Newsletter subscription page
-newsletters-security-and-privacy-news = 安全與隱私權新聞
+newsletters-security-and-privacy-news = 安全性與隱私權新聞
 # Description for the newsletter in Newsletter subscription page (Security & Privacy News)
-newsletters-stay-informed-of-the-latest = 了解 { -brand-name-firefox } 的開發者 { -brand-name-mozilla } 隱私與安全性產品的最新趨勢。
+newsletters-stay-informed-of-the-latest = 了解 { -brand-name-firefox } 的開發者 { -brand-name-mozilla } 所提供，有關隱私權與安全性產品的最新趨勢。
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
-newsletters-get-security-and-privacy-news-and-tips = 訂閱 { -brand-name-mozilla } 的安全與隱私權新聞與產品更新確保安全並了解能讓網路環境變得更健康的所有事項。
+newsletters-get-security-and-privacy-news-and-tips = 訂閱 { -brand-name-mozilla } 的安全性與隱私權新聞，以及產品更新資訊，來確保安全並了解能讓網路環境變得更健康的所有事項。
