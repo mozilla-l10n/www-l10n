@@ -10,7 +10,7 @@ vpn-download-page-description = 下載 { -brand-name-mozilla-vpn } for { -brand-
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = 只要一次訂閱，您可以在最多 { $devices } 台裝置上下載 { -brand-name-mozilla-vpn }。
-vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } 為所有主要的作業系統提供安全可靠的保護。
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } 為所有主流作業系統提供安全可靠的保護。
 vpn-download-not-available-in-country = 抱歉，{ -brand-name-mozilla-vpn } 尚未於您所在的國家推出。
 vpn-download-button-copy = 下載
 # Obsolete string
@@ -39,10 +39,10 @@ vpn-download-get-on-app-store = 到 { -brand-name-app-store } 下載
 vpn-download-based-on-your = 您目前使用的裝置
 vpn-download-get-mozilla-vpn = 下載 { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = 您可以信任的隱私保護
-vpn-download-also-available = 也可用於:
+vpn-download-also-available = 也提供下列版本：
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = 來自 { -brand-name-firefox } 的開發者 { -brand-name-mozilla-vpn } 使用進階的 <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® 通訊協定來加密您的線上行為並隱藏您的實際所在地點。
-vpn-download-we-never-log = 我們永遠不會記錄、追踪或分享您的網路資料。
-vpn-download-previous-versions = 下載 { -brand-name-windows } 與 { -brand-name-mac-short } 先前版本
+vpn-download-we-never-log = 我們永不記錄、追蹤或分享您的上網資料。
+vpn-download-previous-versions = 下載 { -brand-name-windows } 與 { -brand-name-mac-short } 的先前版本
