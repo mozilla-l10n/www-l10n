@@ -21,7 +21,7 @@ firefox-developer-start-now = Iniciar agora
 firefox-developer-design-code-test = Projetar. Codificar. Testar. Refinar.
 # Line break for visual formatting
 firefox-developer-build-and-perfect = Construa e aperfeiçoe seus sites<br>com o { -brand-name-firefox-devtools }
-firefox-developer-inspector = Inspector
+firefox-developer-inspector = Inspetor
 firefox-developer-inspect-and-refine = Inspecione e refine código para construir layouts perfeitos.
 firefox-developer-learn-about-page-inspector = Saiba mais sobre o inspetor de página
 firefox-developer-console = Console
@@ -50,7 +50,7 @@ firefox-developer-find-memory-leaks = Encontre vazamentos de memória e deixe su
 firefox-developer-learn-more-about-memory = Saiba mais sobre as ferramentas de memória
 firefox-developer-style-editor = Editor de estilos
 firefox-developer-edit-and-manage = Edite e gerencie todas as suas folhas de estilo CSS no seu navegador.
-firefox-developer-learn-more-about-style = Saiba mais sobre o editor de estilo
+firefox-developer-learn-more-about-style = Saiba mais sobre o editor de estilos
 firefox-developer-new-tools = Novas ferramentas
 firefox-developer-inactive-css = CSS inativo
 firefox-developer-firefox-devtools-now-grays-out = Agora o { -brand-name-firefox-devtools } mostra em cinza declarações CSS que não surtem efeito na página. Quando você passa o cursor do mouse sobre o ícone de informações, aparece uma mensagem útil sobre o motivo do CSS não estar sendo aplicado, incluindo uma dica de como corrigir o problema.
