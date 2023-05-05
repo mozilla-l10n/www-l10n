@@ -25,6 +25,9 @@ vpn-shared-choose-a-plan-sub-heading = ເລືອກແຜນການທີ�
 vpn-shared-pricing-variable-sub-heading = ແຜນທັງໝົດຂອງພວກເຮົາລວມມີ:
 vpn-shared-pricing-recommended-offer = ແນະນຳ
 vpn-shared-pricing-plan-12-month-v2 = ແຜນ 12 ເດືອນ
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = { $amount } ທັງໝົດ
 
 # Platform subpage shared strings
 
