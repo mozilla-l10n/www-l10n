@@ -46,6 +46,10 @@ vpn-landing-faq-uses-encrypt = Шыфраванне трафіку паміж в
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Азнаёмцеся з <a href="{ $url }">пяццю прыкладамі з жыцця</a>, у якіх вы хацелі б мець VPN на сваёй прыладзе.
 vpn-landing-faq-info-question-heading = Якую інфармацыю захоўвае { -brand-name-mozilla-vpn }?
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Мы не рэгіструем, не асочваем і не абагульваем вашу сеткавую дзейнасць. Мы строга прытрымліваемся <a href="{ $url }">Прынцыпаў прыватнасці дадзеных</a> { -brand-name-mozilla } і збіраем толькі тыя звесткі, якія неабходны для забеспячэння працаздольнасці VPN і ўдасканалення прадукту з цягам часу.
 vpn-landing-faq-protected-question-heading = Як абаронена мая прыватнасць?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
