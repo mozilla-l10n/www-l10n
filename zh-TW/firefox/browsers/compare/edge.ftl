@@ -26,7 +26,7 @@ compare-edge-your-privacy-protections-shows = 您的<a { $attrs }>隱私權保�
 # "InPrivate" is a brand name.
 compare-edge-in-firefox-private-browsing = 於 { -brand-name-firefox } 關閉瀏覽階段後隱私瀏覽模式會自動清除您的密碼、Cookie、瀏覽紀錄等上網資訊，不留下任何痕跡。而 { -brand-name-edge } 仍然會在隱私瀏覽模式（稱為「InPrivate 模式」）保存瀏覽紀錄，其他人就能夠相對簡單地重建您在一般模式與 InPrivate 模式當中的完整瀏覽紀錄。
 compare-edge-both-browsers-are-relatively = 兩套瀏覽器的資料加密功能相當相同。但若您很看重線上隱私權與透明度那麼 { -brand-name-firefox } 顯然是個更好的選擇。
-compare-edge-firefox-is-a-fast-and-open = { -brand-name-firefox } 是一套快速且開放原始碼的瀏覽器讓使用者可以用各種可能的方式自訂上網體驗。 { -brand-name-firefox } 還允許普通使用者套用不同的佈景主題與工具列設定來自訂介面。由於我們的瀏覽器一直開放原始碼我們有大量的鐵心開發者誰開發了比我們更豐富的附加元件與瀏覽器擴充庫。
+compare-edge-firefox-is-a-fast-and-open = { -brand-name-firefox } 是一套快速且開放原始碼的瀏覽器，讓使用者能透過各種可能的方式來自訂上網體驗。{ -brand-name-firefox } 還讓一般使用者能透過幾種不同方式來套用各種佈景主題或工具列設定，來自訂介面。由於我們的瀏覽器一直開放原始碼，有大量支持我們的開發者，打造了滿滿的附加元件與擴充套件。
 compare-edge-firefox-is-a-fast-and-open-fallback = { -brand-name-firefox } 是一套快速且開放原始碼的瀏覽器讓使用者可以用各種可能的方式自訂上網體驗。 { -brand-name-firefox } 還允許普通使用者套用不同的佈景主題與工具列設定來自訂介面。由於我們的瀏覽器一直以來都是開放原始碼的我們有大量的鐵心開發者誰開發了一系列的附加元件與瀏覽器擴充套件。
 compare-edge-edge-has-some-nice-ui-features = { -brand-name-edge } 有一些很棒的介面功能像是預覽功能讓您可以很簡單就能找到已經開啟的分頁當中的許多分頁。另一個分頁相關功能是讓您可以將所有沒有使用但又不想關閉的分頁放到一邊。
 # Variables:
