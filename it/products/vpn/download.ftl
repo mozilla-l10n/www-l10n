@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } e versioni successive
 vpn-download-for-android = VPN per { -brand-name-android }
 vpn-download-for-android-long = Scarica { -brand-name-mozilla-vpn } per { -brand-name-android }
 vpn-download-for-ios = VPN per { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Scarica { -brand-name-mozilla-vpn } per { -brand-name-ios }
+# Obsolete string
 vpn-download-for-ios-long = Scarica { -brand-name-mozilla-vpn } per { -brand-name-ios }
 vpn-download-get-on-google-play = Ottieni su { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Ottieni su { -brand-name-app-store }
