@@ -55,7 +55,7 @@ firefox-developer-new-tools = Novas ferramentas
 firefox-developer-inactive-css = CSS inativo
 firefox-developer-firefox-devtools-now-grays-out = Agora o { -brand-name-firefox-devtools } mostra em cinza declarações CSS que não surtem efeito na página. Quando você passa o cursor do mouse sobre o ícone de informações, aparece uma mensagem útil sobre o motivo do CSS não estar sendo aplicado, incluindo uma dica de como corrigir o problema.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-the-new-firefox-devtools = O novo { -brand-name-firefox-devtools } é poderoso, flexível e, sobretudo, pode ser modificado com facilidade e rapidez. Isso inclui o melhor depurador de JavaScript, que pode almejar vários navegadores e é construído em React e Redux.
+firefox-developer-the-new-firefox-devtools = O novo { -brand-name-firefox-devtools } é poderoso, flexível e, sobretudo, personalizável. Isso inclui o melhor depurador de JavaScript, que pode ser direcionado para vários navegadores e é construído em React e Redux.
 firefox-developer-master-css-grid = Domine CSS Grid
 # outdated
 firefox-developer-next-gen-css-engine = Mecanismo CSS de próxima geração
