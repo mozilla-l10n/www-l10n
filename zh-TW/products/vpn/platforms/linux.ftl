@@ -34,4 +34,4 @@ vpn-linux-devices-copy = 只要一次訂閱就可以在最多 { $devices } 台�
 vpn-linux-speed-headline = 速度超快，頻寬不設限
 vpn-linux-speed-copy = { -brand-name-mozilla-vpn } 以超快的速度玩遊戲、看電影、看電視、上網沒有頻寬限制。
 vpn-linux-log-headline = 自己的資料屬於自己
-vpn-linux-log-copy = 某些 VPN 會記錄您在其伺服器上的上網行為。 { -brand-name-mozilla-vpn } 不會在線上追踪您 — 實際上這也是我們公司的理念。
+vpn-linux-log-copy = 有些 VPN 會偷偷記錄您的上網行為。{ -brand-name-mozilla-vpn } 不會追蹤您 — 實際上這也是我們公司的理念。

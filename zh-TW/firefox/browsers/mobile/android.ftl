@@ -31,13 +31,13 @@ mobile-android-got-lots-of = 開啟很多分頁嗎？沒問題，使用收藏集
 mobile-android-supercharge-firefox-with = 透過附加元件，加強 { -brand-name-firefox } 的相關功能
 mobile-android-addons-are-like = 附加元件就像是可安裝到瀏覽器中的強大的小工具，可使用它來增加預設隱私權設定、調整使用體驗等等。
 mobile-android-pick-up-where = 從結束的地方繼續
-mobile-android-go-from-your = 在手機、筆記型電腦、平板電腦間來回切換不同節拍。透過在您的所有裝置上安裝 { -brand-name-firefox } 把書籤、密碼、儲存的登入資訊、上網紀錄隨身帶著走。
+mobile-android-go-from-your = 在手機、筆記型電腦、平板電腦間來回切換不漏拍。在您的所有裝置上都安裝 { -brand-name-firefox }，就能把書籤、密碼、儲存的登入資訊、上網紀錄隨身帶著走。
 mobile-android-search-from-your = 從手機主畫面直接進行搜尋
 mobile-android-no-need-to = 無須開啟應用程式。安裝 { -brand-name-firefox } 搜尋小工具，即可直接從裝置主畫面搜尋網頁。
 mobile-android-pin-videos-to = 將影片釘選在螢幕上
 mobile-android-pop-videos-out = 將影片從網站或播放器中彈出來，放在手機畫面最上層播放，讓您可以一邊上網，一邊做其他事。在多工工作時也能同時觀賞娛樂內容。
 mobile-android-about-mozilla = 關於 { -brand-name-mozilla }
-mobile-android-mozilla-exists-to = { -brand-name-mozilla } 致力於將網際網路打造為任何人都可以使用的公共資源因為我們相信開放自由總比封閉受控制好。我們打造 { -brand-name-firefox } 與 { -brand-name-pocket } 等產品來打造選擇、透明、並能自行控制的產品。
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } 致力於將網際網路打造為任何人都可以使用的公共資源，因為我們相信：自由與開放，總比封閉、受控制好。我們打造 { -brand-name-firefox } 與 { -brand-name-pocket } 等產品來推廣不同選擇、透明、並能自行控制的產品。
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = 使用 { -brand-name-firefox } for { -brand-name-android } 抄捷徑，快速上網
 mobile-android-see-all-your-open-tabs = 使用 { -brand-name-firefox } 瀏覽器 for { -brand-name-android } 來一次檢視您所有的分頁、近期搜尋紀錄與最愛網站。
