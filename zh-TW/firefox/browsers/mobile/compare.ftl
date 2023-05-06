@@ -14,7 +14,7 @@ mobile-compare-which-mobile-browser = 哪套行動瀏覽器能保密？
 mobile-compare-at-a-minimum-v2 = 您的行動瀏覽器至少應該提供某個版本的「隱私瀏覽模式」能夠自動清除您的上網紀錄與搜尋紀錄。在這方面五台瀏覽器比較了此處的所有分數。
 # Obsolete string
 mobile-compare-at-a-minimum = 您的行動瀏覽器至少應該提供某個版本的「隱私瀏覽模式」能夠自動清除您的上網紀錄與搜尋紀錄。在此領域中比較了此處的七套瀏覽器的評分。
-mobile-compare-another-mobile-feature = 另一個在行動裝置上應該提供的功能是要防止網站與各個公司在網路上追踪您的上網與購物資料 — 就算沒開隱私瀏覽模式也一樣。
+mobile-compare-another-mobile-feature = 另一個行動瀏覽器應提供的功能是，要防止網站與各個公司在網路上追蹤您的上網與購物資料 — 就算沒開隱私瀏覽模式也一樣。
 mobile-compare-blocking-thirdparty-trackers = 封鎖第三方追踪器不只對隱私保護很重要 — 它也能幫助網頁更快載入讓程式程式碼不會自行連結拖慢瀏覽器。
 mobile-compare-from-the-chart = 從上面的圖表可以明顯看出 { -brand-name-firefox } 提供了五種瀏覽器中最完整的隱私權與安全性工具組合併提供了一個關於您在線上安全性與隱私權的整體儀表板概要。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
