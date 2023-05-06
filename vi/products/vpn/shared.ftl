@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = Địa chỉ IP là gì?
 vpn-subnav-when-to-use-a-vpn = Khi nào nên sử dụng VPN
 vpn-subnav-vpn-vs-proxy = VPN so với Proxy
 vpn-subnav-subscribe = Đăng ký { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Tìm hiểu thêm về VPN
+vpn-subnav-download-mozilla-vpn = Tải xuống { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 

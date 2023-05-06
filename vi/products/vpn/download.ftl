@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } trở lên
 vpn-download-for-android = VPN cho { -brand-name-android }
 vpn-download-for-android-long = Tải xuống { -brand-name-mozilla-vpn } cho { -brand-name-android }
 vpn-download-for-ios = VPN cho { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Tải xuống { -brand-name-mozilla-vpn } cho { -brand-name-ios }
+# Obsolete string
 vpn-download-for-ios-long = Tải xuống VPN { -brand-name-mozilla-vpn } cho { -brand-name-ios }
 vpn-download-get-on-google-play = Tải xuống trên Cửa hàng { -brand-name-google-play }
 vpn-download-get-on-app-store = Nhận trên { -brand-name-app-store }
