@@ -11,6 +11,7 @@ vpn-mobile-page-description = ປົກປ້ອງໂທລະສັບສະ�
 # Mobile strings
 vpn-mobile-hero-headline = ຮັບປະກັນຄວາມເປັນສ່ວນຕົວຂອງທ່ານໃນມືຖືດ້ວຍ { -brand-name-mozilla-vpn }
 vpn-mobile-wifi-headline = ຮູ້ສຶກປອດໄພດ້ວຍການໃຊ້ wifi ສາທາລະນະ
+vpn-mobile-about-headline = ກ່ຽວກັບ { -brand-name-mozilla }
 vpn-mobile-privacy-headline = ຄວາມເປັນສ່ວນຕົວໃນຄລິກດຽວ
 # Variables:
 #   $devices (number) - number of available devices

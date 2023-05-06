@@ -7,6 +7,8 @@
 
 # HTML Page Title
 vpn-resource-center-title = ສູນຊັບພະຍາກອນ VPN
+vpn-resource-center-whats-the-deal = ຂໍ້ຕົກລົງກັບ Virtual Private Networks ແມ່ນຫຍັງ?
+vpn-resource-center-discover-how-they = ຄົ້ນພົບວ່າພວກມັນເຮັດວຽກແນວໃດ, ເປັນຫຍັງພວກມັນຈຶ່ງສຳຄັນ ແລະ ການໃຊ້ VPN ສາມາດເຮັດຫຍັງໄດ້ສຳລັບທ່ານ.
 vpn-resource-center-view-all = ເບິ່ງ​ທັງ​ຫມົດ
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = ເລີ່ມປົກປ້ອງຕົວຕົນຂອງທ່ານໃນມື້ນີ້
