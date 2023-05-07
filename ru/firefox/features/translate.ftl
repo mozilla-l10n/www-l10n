@@ -15,9 +15,15 @@ features-translate-the-google-translate = Расширение To { -brand-name-
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Интернет полон удивительных вещей, но многие из них не написаны на английском языке — миллиардам людей по всему миру нужен переводчик, чтобы просто пользоваться Интернетом. Вы можете <a { $attrs }>загрузить { -brand-name-firefox } более чем на 100 языках</a>, и меню, уведомления и сообщения в вашем браузере будут на вашем языке, но это не решает проблему того, что не все находимые вами сайты будут на вашем языке.
 features-translate-firefox-translations = { -brand-name-firefox-translations }
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = Расширение <a { $attrs }>{ -brand-name-firefox-translations }</a> может автоматически переводить содержимое посещаемых вами веб-страниц. В отличие от некоторых облачных альтернатив, это расширение переводит текст локально в { -brand-name-firefox }, поэтому переводимый контент не покидает ваш компьютер.
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = Загрузить { -brand-name-firefox-translations }
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Переводчик поддерживает более 100 языков* и используется миллионами людей по всему миру. Но постоянное переключение между translate.google.com и страницей, которую вы пытаетесь прочитать — не лучший вариант. Расширение <a { $attrs }>To { -brand-name-google } Translate</a> максимально просто выполняет перевод страницы, на которой вы находитесь.
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = Перейти к { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Загрузить расширение
 features-translate-once-installed-simply = После установки просто выделите текст, который нужно перевести, и щёлкните правой кнопкой мыши, чтобы открыть меню с двумя вариантами: 1) Перейти на translate.google.com, при этом выбранный текст будет автоматически введён в поле перевода; или 2) Прослушать произношение фразы (от { -brand-name-google } Text-to-Speech), что будет полезно, если вы пытаетесь выучить новый язык.
