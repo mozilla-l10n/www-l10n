@@ -36,3 +36,6 @@ vpn-download-for-ios-long = Stáhnout VPN { -brand-name-mozilla-vpn } pro { -bra
 vpn-download-get-on-google-play = Získat v obchodu { -brand-name-google-play }
 vpn-download-get-on-app-store = Získat v { -brand-name-app-store(case: "loc") }
 vpn-download-based-on-your = Na základě vašeho aktuálního zařízení
+vpn-download-get-mozilla-vpn = Získejte { -brand-name-mozilla-vpn(case: "acc") }
+vpn-download-privacy-you-can = Soukromí, kterému můžete věřit
+vpn-download-also-available = K dispozici také pro:
