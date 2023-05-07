@@ -48,7 +48,7 @@ is-firefox-safe = É o { -brand-name-firefox } seguro?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
-not-only-is = Non só é seguro usar o { -brand-name-firefox }, senón que tamén axuda a manter protexidos os teus datos e informacións privativas. O { -brand-name-firefox-browser } bloquea automaticamente rastrexadores de terceiros, rastrexadores de redes sociais, criptomineiros e identificadores de impresións dixitais e evita que recollan os teus datos. <a href="{ $url }">Descubre máis sobre a privacidade dos nosos produtos</a>.
+not-only-is = Usar { -brand-name-firefox } non só é seguro, tamén axuda a protexer a súa información privada. { -brand-name-firefox-browser } bloquea automaticamente rastrexadores de terceiras partes, rastrexadores de redes sociais, mineiros de criptodivisas e identificadores de pegada dixital, e evita que recollan os seus datos. <a href="{ $url }">Descubra máis sobre a privacidade dos nosos produtos</a>.
 related-questions-safe = Preguntas relacionadas: o { -brand-name-firefox } é bo para a privacidade, o { -brand-name-firefox } é seguro, o { -brand-name-firefox } é mellor para a privacidade
 does-firefox-sell = O { -brand-name-firefox } vende os teus datos persoais?
 
