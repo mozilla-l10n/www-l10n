@@ -72,9 +72,25 @@ vpn-shared-pricing-total = { $amount } ທັງໝົດ
 
 ## VPN Affiliate cookie notice
 
+vpn-shared-affiliate-notification-reject = ປະຕິເສດ
+vpn-shared-affiliate-notification-ok = ຕົກລົງ
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = ເພີ່ມຄວາມເປັນສ່ວນຕົວຂອງທ່ານດ້ວຍ { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = ເພີ່ມ { -brand-name-firefox-relay } ເຂົ້າໃນການສະໝັກໃຊ້ຂອງທ່ານເພື່ອປົກປ້ອງອີເມວ ແລະ ເບີໂທລະສັບຂອງທ່ານ. <a href="{ $url }">ສຶກສາເພີ່ມເຕີມ</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = ເພີ່ມ <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = ການປິດບັງອີເມວ
+vpn-shared-relay-phone-masking = ການປິດບັງໂທລະສັບ
+vpn-shared-get-vpn-plus-relay = ເອົາ { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = ເປັນຫຍັງຕ້ອງ bundle?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>ປະຢັດໄດ້ { $percent }%</span> ໃນແຜນການປີ { -brand-name-relay-premium }
 
 ##
 
