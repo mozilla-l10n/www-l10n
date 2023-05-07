@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = IP 地址是什么？
 vpn-subnav-when-to-use-a-vpn = 何时应该使用 VPN
 vpn-subnav-vpn-vs-proxy = VPN VS 代理
 vpn-subnav-subscribe = 订阅 { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = 了解 VPN
+vpn-subnav-download-mozilla-vpn = 下载 { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
