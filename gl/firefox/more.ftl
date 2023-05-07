@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -21,8 +21,6 @@ firefox-is-more = O { -brand-name-firefox } é máis que un simple navegador.
 its-a-lightning = É unha ferramenta que vai a fume de carozo e que abre a porta á mellor experiencia web.
 get-the-browsers = Instala os navegadores que levan primando a túa privacidade desde os inicios
 get-the-privacy = Obtén a privacidade que mereces. A protección mellorada contra o rastrexo torna a privacidade automática cada vez que abres o navegador.
-take-your-passwords = Leva os teus contrasinais a calquera lugar
-securely-access-the = Accede aos contrasinais gardados no { -brand-name-firefox } de forma segura desde calquera lugar, mesmo desde fóra do navegador.
 choose-which-firefox = Escolle o { -brand-name-firefox-browser } que descargar na túa lingua
 firefox-more-firefox-chromebook = O { -brand-name-firefox-browser } para o { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Aínda que o { -brand-name-chromebook } xa ten o { -brand-name-chrome } instalado, descargares e utilizares o { -brand-name-firefox } como o teu navegador predeterminado fornéceche varias vantaxes.
@@ -63,3 +61,4 @@ incognito-browser-what = Navegación anónima: que significa realmente?
 firefox-calls-it = No { -brand-name-firefox } chamámola navegación privada, no { -brand-name-chrome } chámana modo incógnito. Ambos permítenche navegar pola web sen gardar o teu historial.
 take-the-stress = Acaba coa ansiedade de encontrar un navegador seguro.
 building-a-safe = O desenvolvemento dun navegador seguro é arte e ciencia xa que non hai regras preestabelecidas.
+firefox-more-fingerprinter-blocking = Bloqueo de identificadores de pegada dixital

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -45,5 +45,7 @@ features-index-stack-up = Observa a comparación do { -brand-name-firefox } con 
 features-index-compare-browsers = Compara os navegadores
 features-index-see-themes = Mira os temas principais
 features-index-download-latest = Descarga o { -brand-name-firefox } máis recente
+features-index-fingerprinter-blocking = Bloqueo de identificadores de pegada dixital
+features-index-block-fingerprinters = Bloquear os identificadores de pegada dixital
 features-index-translate-the-web = Traduza a Rede
 features-index-translate-to-your = Traduza para o seu idioma
