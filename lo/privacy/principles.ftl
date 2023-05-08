@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 privacy-principles-data-privacy-principles = ຫຼັກການຄວາມເປັນສ່ວນຕົວຂອງຂໍ້ມູນ
+# HTML page description
+privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } ແມ່ນໂຄງການແຫຼ່ງເປີດທີ່ມີພາລະກິດເພື່ອປັບປຸງປະສົບການອິນເຕີເນັດຂອງທ່ານ. ນີ້​ເປັນ​ການ​ຂັບ​ເຄື່ອນ​ທາງ​ຫລັງ​ການ​ປະ​ຕິ​ບັດ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ຂອງ​ພວກ​ເຮົາ.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
 privacy-principles-the-following-five-principles = ຫ້າຫຼັກການຕໍ່ໄປນີ້ແມ່ນມາຈາກ <a href="{ $link }">{ -brand-name-mozilla } Manifesto</a> ແລະ ແຈ້ງໃຫ້ພວກເຮົາຮູ້ວ່າ:

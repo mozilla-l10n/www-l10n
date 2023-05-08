@@ -41,6 +41,10 @@ vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } ເກັບ
 vpn-landing-faq-protected-question-heading = ຄວາມເປັນສ່ວນຕົວຂອງຂ້ອຍຖືກປົກປ້ອງແນວໃດ?
 vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } ປຽບທຽບກັບການແຂ່ງຂັນແນວໃດ?
 vpn-landing-faq-compatibility-question-heading = ອຸປະກອນໃດທີ່ { -brand-name-mozilla-vpn } ເຂົ້າກັນໄດ້ກັບ?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } ແມ່ນເຂົ້າກັນໄດ້ກັບ <a href="{ $mobile }">ມືຖື</a>, ແທັບເລັດ ແລະ <a href="{ $desktop }">ເດັສທັອບ</a> ໃນ :
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } ແມ່ນເຂົ້າກັນໄດ້ກັບ:
 # Variables:
@@ -86,6 +90,10 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-ເທົ່ານັ້ນ)
 vpn-landing-faq-refund-question-heading = ນະໂຍບາຍການຄືນເງິນຂອງ { -brand-name-mozilla-vpn } ແມ່ນຫຍັງ?
+vpn-landing-faq-refund-question-desc-v2 = ຄັ້ງທຳອິດທີ່ທ່ານສະໝັກໃຊ້ { -brand-name-mozilla-vpn } ຜ່ານເວັບໄຊທ໌ຂອງ { -brand-name-mozilla }, ຖ້າທ່ານຍົກເລີກບັນຊີຂອງທ່ານພາຍໃນ 30 ມື້ທໍາອິດ, ທ່ານສາມາດຮ້ອງຂໍເງິນຄືນແລະ { -brand-name-mozilla } ຈະຄືນເງິນໄລຍະການສະໝັກໃຊ້ທຳອິດຂອງທ່ານ.
+vpn-landing-faq-refund-question-additional-desc = ຖ້າທ່ານຊື້ການສະໝັກໃຊ້ຂອງທ່ານຜ່ານການຊື້ໃນແອັບຈາກ { -brand-name-apple } { -brand-name-app-store } ຫຼື { -brand-name-google-play } Store, ການຈ່າຍເງິນຂອງທ່ານແມ່ນຂຶ້ນກັບ ຂໍ້ກຳນົດ ແລະເງື່ອນໄຂຂອງ { -brand-name-app-store }. ທ່ານ​ຕ້ອງ​ຊີ້​ນຳ​ການ​ສອບ​ຖາມ​ການ​ຮຽກ​ເກັບ​ເງິນ​ ແລະ​ ການ​ສົ່ງ​ເງິນ​ຄືນ​ສຳ​ລັບ​ການ​ຊື້​ດັ່ງ​ກ່າວ​ຫາ { -brand-name-apple } ຫຼື { -brand-name-google }, ຕາມ​ຄວາມ​ເໝາະ​ສົມ.
+# Outdated string
+vpn-landing-faq-refund-question-desc = ທ່ານສາມາດໄດ້ຮັບເງິນຄືນພາຍໃນ 30 ມື້ຫຼັງຈາກການຊື້ການສະໝັກໃຊ້ຂອງທ່ານ. ຕິດຕໍ່ພວກເຮົາ ແລະ ສົ່ງຄໍາຮ້ອງຂໍຄືນເງິນໂດຍການແຕະທີ່ປຸ່ມ “ຂໍຄວາມຊ່ວຍເຫຼືອ” ໃນການຕັ້ງຄ່າໃນແອັບ { -brand-name-mozilla-vpn } ຂອງທ່ານ.
 vpn-landing-faq-manage-subscription-question-heading = ຂ້ອຍຈະຈັດການການສະໝັກໃຊ້ຂອງຂ້ອຍໄດ້ແນວໃດ?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
