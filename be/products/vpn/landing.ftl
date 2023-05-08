@@ -49,7 +49,7 @@ vpn-landing-faq-info-question-heading = Якую інфармацыю захоў
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-faq-info-question-desc-v2 = Мы строга прытрымліваемся <a href="{ $url }">прынцыпаў прыватнасці дадзеных</a> { -brand-name-mozilla } і збіраем толькі тыя звесткі, якія неабходны для забеспячэння працаздольнасці VPN і ўдасканалення прадукту з цягам часу. Мы таксама асочваем звесткі кампаній і рэфералаў у нашай мабільнай праграме, каб дапамагчы { -brand-name-mozilla } зразумець эфектыўнасць нашых маркетынгавых кампаній. Чытайце больш у нашым <a href="{ $notice }">паведамленні аб прыватнасці</a>.
+vpn-landing-faq-info-question-desc-v2 = Мы строга прытрымліваемся <a href="{ $principles }">прынцыпаў прыватнасці дадзеных</a> { -brand-name-mozilla } і збіраем толькі тыя звесткі, якія неабходны для забеспячэння працаздольнасці VPN і ўдасканалення прадукту з цягам часу. Мы таксама асочваем звесткі кампаній і рэфералаў у нашай мабільнай праграме, каб дапамагчы { -brand-name-mozilla } зразумець эфектыўнасць нашых маркетынгавых кампаній. Чытайце больш у нашым <a href="{ $notice }">паведамленні аб прыватнасці</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
