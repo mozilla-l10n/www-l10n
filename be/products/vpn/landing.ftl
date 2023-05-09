@@ -7,6 +7,10 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: абараніце ўсю сваю прыладу
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = Выкарыстоўвайце { -brand-name-mozilla-vpn } для поўнай абароны прылады і ўсіх праграм. Дзякуючы серверам у больш за { $countries } краінах, вы можаце падключыцца да любога месца і адусюль.
 vpn-landing-hero-sub-heading-v2 = Бяспека, надзейнасць і хуткасць — на любой прыладзе, куды б вы ні адправіліся.
 # Obsolete string
 vpn-landing-hero-sub-heading = Бяспека, на якую можна спадзявацца. Імя, якому можна давяраць.
@@ -60,6 +64,13 @@ vpn-landing-faq-protected-question-heading = Як абаронена мая пр
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-faq-protected-question-desc = Пратакол <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® шыфруе ваш сеткавы трафік, абараняючы ўсю вашу прыватную інфармацыю. У параўнанні з наяўнымі пратаколамі VPN, просты код { -brand-name-wireguard } лягчэй разглядаць і правяраць спецыялістам па бяспецы, што робіць яго больш бяспечным варыянтам для VPN. Акрамя таго, ваша дзейнасць у сеціве застаецца ананімнай, бо мы ніколі не рэгіструем, не сочым і не дзелімся вашымі сеткавымі дадзенымі.
 vpn-landing-faq-competition-question-heading = Чым { -brand-name-mozilla-vpn } адрозніваецца ад канкурэнтаў?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Хоць бясплатныя VPN выглядаюць прывабна, яны не бяруць на сябе такія ж абавязацельствы ў плане прыватнасці, як { -brand-name-mozilla-vpn }. Іншыя VPN не маюць больш чым 20-гадовага <a href="{ $url }">досведу</a> стварэння прадуктаў { -brand-name-mozilla }, якія ставяць людзей і прыватнасць на першае месца.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc = Хоць бясплатныя VPN выглядаюць прывабна, яны не бяруць на сябе такія ж абавязацельствы ў плане прыватнасці, як { -brand-name-mozilla-vpn }, і могуць прадаваць або захоўваць вашы дадзеныя. Іншыя платныя VPN не маюць больш чым 20-гадовага <a href="{ $url }">досведу</a> стварэння прадуктаў { -brand-name-mozilla }, якія ставяць людзей і прыватнасць на першае месца.
 vpn-landing-faq-compatibility-question-heading = З якімі прыладамі сумяшчальны { -brand-name-mozilla-vpn }?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
@@ -110,6 +121,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (толькі { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Якая палітыка вяртання сродкаў { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = Калі вы ўпершыню падпісваецеся на { -brand-name-mozilla-vpn } праз вэб-сайт { -brand-name-mozilla }, калі вы скасуеце свой уліковы запіс на працягу першых 30 дзён, вы можаце запытаць вяртанне грошай і { -brand-name-mozilla } верне грошы за ваш першы тэрмін падпіскі.
 vpn-landing-faq-refund-question-additional-desc = Калі вы купляеце падпіску ў { -brand-name-apple } { -brand-name-app-store } або ў краме { -brand-name-google-play }, ваша аплата залежыць ад умовы { -brand-name-app-store }. Вы павінны накіроўваць любыя запыты аб выстаўленні рахункаў і вяртанні грошай за такія пакупкі ў { -brand-name-apple } або { -brand-name-google }, у залежнасці ад абставін.
 # Outdated string
 vpn-landing-faq-refund-question-desc = Вы можаце вярнуць свае грошы на працягу 30 дзён з моманту пакупкі падпіскі. Звяжыцеся з намі і адпраўце запыт на вяртанне грошай, націснуўшы кнопку «Атрымаць дапамогу» ў наладах вашай праграмы { -brand-name-mozilla-vpn }.
