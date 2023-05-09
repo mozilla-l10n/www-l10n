@@ -13,3 +13,4 @@ vpn-windows-page-description = ከ1998 ጀምሮ ለዲጂታል ግላዊነት
 # Windows strings
 vpn-windows-hero-headline = በ{ -brand-name-mozilla-vpn } ለ{ -brand-name-windows } 10 እንደተገናኙ እና እንደተጠበቁ ይቆዩ
 vpn-windows-wifi-headline = በይፋዊ wifi ላይ የግል ይሁኑ
+vpn-windows-about-headline = በበይነመረብ ግላዊነት ውስጥ ካለው መሪ
