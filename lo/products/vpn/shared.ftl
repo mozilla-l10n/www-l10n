@@ -58,11 +58,28 @@ vpn-shared-terms-conditions = ຂໍ້ກໍານົດ ແລະ ເງື່
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = ເລືອກແຜນການສະໝັກໃຊ້ທີ່ເໝາະສົມກັບທ່ານ
 vpn-shared-one-subscription-heading = ການສະໝັກໃຊ້ອັນດຽວສຳລັບທຸກອຸປະກອນຂອງທ່ານ
 vpn-shared-choose-a-plan-sub-heading = ເລືອກແຜນການທີ່ເໝາະສົມກັບເຈົ້າ
 vpn-shared-pricing-variable-sub-heading = ແຜນທັງໝົດຂອງພວກເຮົາລວມມີ:
 vpn-shared-pricing-recommended-offer = ແນະນຳ
 vpn-shared-pricing-plan-12-month-v2 = ແຜນ 12 ເດືອນ
+# Outdated string
+vpn-shared-pricing-plan-12-month = 12 ເດືອນ
+vpn-shared-pricing-plan-monthly-v2 = ແຜນປະຈໍາເດືອນ
+# Outdated string
+vpn-shared-pricing-plan-monthly = ລາຍເດືອນ
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + ອາກອນ</span>
+# Outdated string
+vpn-shared-pricing-get-6-month = ໄດ້ຮັບແຜນ 6 ເດືອນ
+# Outdated string
+vpn-shared-pricing-get-12-month = ໄດ້ຮັບແຜນ 12 ເດືອນ
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } ທັງໝົດ
