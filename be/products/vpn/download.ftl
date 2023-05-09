@@ -10,20 +10,33 @@ vpn-download-page-description = Сцягніце { -brand-name-mozilla-vpn } д�
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = З адной падпіскай вы можаце сцягнуць { -brand-name-mozilla-vpn } на { $devices } прылад.
-vpn-download-not-available-in-country = На жаль, { -brand-name-mozilla-vpn } недаступны для спампоўкі ў вашай краіне.
-vpn-download-button-copy = Спампаваць
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } прапануе бяспечную і надзейную ахову для ўсіх асноўных аперацыйных сістэм.
+vpn-download-not-available-in-country = На жаль, { -brand-name-mozilla-vpn } недаступны для сцягвання ў вашай краіне.
+vpn-download-button-copy = Сцягнуць
 # Obsolete string
 vpn-download-for-windows = VPN для { -brand-name-windows } 10/11
+vpn-download-for-windows-v2 = VPN для { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (толькі 64-бітная версія)
+vpn-download-for-windows-long = Сцягнуць { -brand-name-mozilla-vpn } для { -brand-name-windows }
 vpn-download-for-mac = VPN для { -brand-name-mac-short }
+vpn-download-for-mac-long = Сцягнуць { -brand-name-mozilla-vpn } для { -brand-name-mac-short }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-version-requirements = Версія { $version } і вышэй
 vpn-download-for-linux = VPN для { -brand-name-linux }
+vpn-download-for-linux-long = Сцягнуць { -brand-name-mozilla-vpn } для { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } і вышэй
 vpn-download-for-android = VPN для { -brand-name-android }
+vpn-download-for-android-long = Сцягнуць { -brand-name-mozilla-vpn } для { -brand-name-android }
 vpn-download-for-ios = VPN для { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Сцягнуць { -brand-name-mozilla-vpn } для { -brand-name-ios }
+# Obsolete string
+vpn-download-for-ios-long = Сцягнуць VPN { -brand-name-mozilla-vpn } для { -brand-name-ios }
 vpn-download-get-on-google-play = Атрымаць у { -brand-name-google-play }
 vpn-download-get-on-app-store = Атрымаць у { -brand-name-app-store }
+vpn-download-based-on-your = На аснове вашай цяперашняй прылады
+vpn-download-get-mozilla-vpn = Атрымаць { -brand-name-mozilla-vpn }
+vpn-download-privacy-you-can = Прыватнасць, якой можна давяраць
+vpn-download-also-available = Таксама даступна для:
