@@ -22,6 +22,7 @@ newsletter-form-get-firefox-news = ຮັບຂ່າວຈາກ { -brand-name-
 newsletter-form-im-okay-with-mozilla = ຂ້ອຍອະນຸຍາດໃຫ້ { -brand-name-mozilla } ຮອງຮັບຂໍ້ມູນຂອງຂ້ອຍຕາມທີ່ໄດ້ຮ່າງໄວ້ຢູ່ໃນ <a href="{ $url }">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</a>
 newsletter-form-we-will-only-send = ພວກເຮົາຈະສົ່ງສະເພາະຂໍ້ມູນຂ່າວສານທີ່ກ່ຽວຂ້ອງກັບ { -brand-name-mozilla } ເທົ່ານັ້ນ.
 newsletter-form-we-will-only-send-firefox = ພວກເຮົາຈະສົ່ງຂໍ້ມູນທີ່ກ່ຽວຂ້ອງກັບ { -brand-name-firefox } ໃຫ້ທ່ານເທົ່ານັ້ນ.
+newsletter-form-if-you-havent-previously = ຖ້າທ່ານບໍ່ໄດ້ຢືນຢັນການລົງທະບຽນກັບຈົດຫມາຍຂ່າວທີ່ກ່ຽວຂ້ອງກັບ { -brand-name-mozilla }, ທ່ານອາດຈະຕ້ອງເຮັດແບບນີ້. ກະລຸນາກວດເບິ່ງອິນບັອກ ຫຼື ຕົວກອງຂີ້ເຫຍື້ອຂອງເຈົ້າສຳລັບອີເມວຈາກພວກເຮົາ.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ເຈົ້າ
 newsletter-form-get-firefox-tips = ຮັບຄຳແນະນຳ, ເຄັດລັບ, ຂ່າວ ແລະ ອື່ນໆຂອງ { -brand-name-firefox }
 newsletter-form-keep-up-with = ຮັກສາໄວ້ກັບ <br> { -brand-name-firefox } ທຸກຢ່າງ.

@@ -13,6 +13,7 @@ vpn-mobile-hero-headline = ຮັບປະກັນຄວາມເປັນສ�
 vpn-mobile-wifi-headline = ຮູ້ສຶກປອດໄພດ້ວຍການໃຊ້ wifi ສາທາລະນະ
 vpn-mobile-about-headline = ກ່ຽວກັບ { -brand-name-mozilla }
 vpn-mobile-privacy-headline = ຄວາມເປັນສ່ວນຕົວໃນຄລິກດຽວ
+vpn-mobile-servers-headline = ເຊື່ອມຕໍ່ກັບເຄື່ອງແມ່ຂ່າຍທົ່ວໂລກ
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = ປົກປ້ອງອຸປະກອນສູງສຸດ { $devices }
