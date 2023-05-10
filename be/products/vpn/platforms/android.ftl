@@ -7,3 +7,6 @@
 
 # Meta strings
 vpn-android-page-title = { -brand-name-mozilla-vpn } для { -brand-name-android }
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-headline = Адна падпіска для { $devices } прылад
