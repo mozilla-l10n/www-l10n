@@ -43,3 +43,7 @@ sub-navigation-windows-64-bit = { -brand-name-windows } 64-bit
 sub-navigation-mac = { -brand-name-mac-short }
 sub-navigation-linux = { -brand-name-linux }
 sub-navigation-enterprise = { -brand-name-enterprise }
+sub-navigation-nightly-and-beta = { -brand-name-nightly } ແລະ { -brand-name-beta }
+sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } ແລະ { -brand-name-beta }
+sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
+sub-navigation-firefox-features = ຄຸນສົມບັດຂອງ { -brand-name-firefox }
