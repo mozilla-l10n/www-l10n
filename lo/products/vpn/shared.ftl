@@ -86,6 +86,29 @@ vpn-shared-pricing-total = { $amount } ທັງໝົດ
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = ມາເລີ່ມກັນເທາະ
+vpn-shared-platform-cta-button = ເບິ່ງລາຄາ & ສິ່ງທີ່ມີ
+vpn-shared-platform-privacy-promise = ຄວາມເປັນສ່ວນຕົວຂອງທ່ານແມ່ນສັນຍາຂອງພວກເຮົາ
+vpn-shared-platform-trust-partner-headline = ກ່ຽວກັບຄູ່ຮ່ວມງານທີ່ເຊື່ອຖືໄດ້ຂອງພວກເຮົາ
+vpn-shared-platform-what-youll-get = ສິ່ງທີ່ທ່ານຈະໄດ້ຮັບກັບ { -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = VPN ແມ່ນຫຍັງ?
+vpn-subnav-faqs = FAQs
+vpn-subnav-get-help = ຂໍຄວາມຊ່ວຍເຫລືອ
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = ເດສກ໌ທັອບ
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = ໂທລະສັບມືຖື
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = ທີ່ຢູ່ IP ແມ່ນຫຍັງ?
+vpn-subnav-when-to-use-a-vpn = ເມື່ອໃດທີ່ຈະໃຊ້ VPN
+vpn-subnav-vpn-vs-proxy = VPN ທຽບກັບພຣັອກຊີ
+vpn-subnav-subscribe = ສະໝັກໃຊ້ { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = ຮຽນຮູ້ກ່ຽວກັບ VPNs
+vpn-subnav-download-mozilla-vpn = ດາວໂຫລດ { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
