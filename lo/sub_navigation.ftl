@@ -48,3 +48,4 @@ sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
 sub-navigation-firefox-features = ຄຸນສົມບັດຂອງ { -brand-name-firefox }
 sub-navigation-ad-tracker-blocking = ບັອກການຕິດຕາມຈາກໂຄສະນາ
+sub-navigation-private-browsing = ການທ່ອງເວັບແບບສ່ວນຕົວ
