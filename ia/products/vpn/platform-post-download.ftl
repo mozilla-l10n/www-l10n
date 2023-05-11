@@ -9,6 +9,7 @@
 
 ## Windows download page
 
+vpn-windows-download-page-title = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = Discargante { -brand-name-mozilla-vpn } pro { -brand-name-windows }…
 
 ## Mac download page
