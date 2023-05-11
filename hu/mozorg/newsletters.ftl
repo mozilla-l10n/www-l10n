@@ -311,3 +311,4 @@ newsletters-security-and-privacy-news = Biztonsági és adatvédelmi hírek
 newsletters-stay-informed-of-the-latest = Maradjon tájékozott a { -brand-name-mozilla }, a { -brand-name-firefox } készítőinek legfrissebb adatvédelmi trendjeiről és a legújabb biztonsági termékeiről.
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = Kapjon biztonsági és adatvédelmi, valamint termékfrissítéssel kapcsolatos híreket a { -brand-name-mozilla(ending: "accented") }tól, hogy biztonságban legyen, és minden olyasmiről tájékozott legyen, amely egészségesebb hellyé teszi a webet.
+newsletters-opt-out-delay = A leiratkozási kérés feldolgozása 1-2 munkanapot is igénybe vehet, ez idő alatt még kaphat egy további levelet.
