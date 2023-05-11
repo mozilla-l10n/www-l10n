@@ -436,3 +436,4 @@ newsletters-stay-informed-of-the-latest = ابق على عِلم بكل ما ه�
 
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = احصل على أخبار الأمان والخصوصية وتحديثات المنتجات من { -brand-name-mozilla } لتبقى آمنًا وعلى معرفة بكل شيء يجعل الويب مكانًا أكثر أمانًا.
+

@@ -436,3 +436,4 @@ newsletters-stay-informed-of-the-latest = Kekal bermaklumat dalam trend terkini 
 
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = Dapatkan berita keselamatan dan privasi terkini daripada { -brand-name-mozilla } untuk kekal selamat dan bermaklumat tentang segalanya yang menjadikan internet ini platform yang lebih sihat.
+

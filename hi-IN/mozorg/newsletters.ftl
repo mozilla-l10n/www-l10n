@@ -436,3 +436,4 @@ newsletters-stay-informed-of-the-latest = { -brand-name-mozilla }, जो कि
 
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = { -brand-name-mozilla } से सुरक्षा और निजता संबंधी समाचार और उत्पाद अपडेट प्राप्त करें ताकि आप सुरक्षित बने रहें और इंटरनेट को एक बेहतर स्वस्थ जगह बनाने में मददगार हर चीज़ के बारे में जानकारी पाते रहें।
+
