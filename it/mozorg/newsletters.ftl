@@ -311,3 +311,4 @@ newsletters-security-and-privacy-news = Notizie su sicurezza e privacy
 newsletters-stay-informed-of-the-latest = Ricevi aggiornamenti sulle ultime tendenze in materia di prodotti per la privacy e la sicurezza da { -brand-name-mozilla }, i creatori di { -brand-name-firefox }.
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = Ricevi da { -brand-name-mozilla } informazioni sulla privacy e aggiornamenti sui prodotti per rimanere al sicuro e informato su tutto ciò che rende il Web un luogo più sano.
+newsletters-opt-out-delay = Potrebbero essere necessari 1-2 giorni lavorativi per elaborare la tua richiesta, durante i quali potresti comunque ricevere un’altra email.
