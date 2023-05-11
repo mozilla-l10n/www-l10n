@@ -1,0 +1,37 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/products/vpn/download/mac/thanks
+### URL: https://www-dev.allizom.org/products/vpn/download/windows/thanks
+
+
+## Windows download page
+
+vpn-windows-download-page-title = Lataa { -brand-name-mozilla-vpn } { -brand-name-windows }ille
+vpn-windows-downloading-mozilla-vpn = Ladataan { -brand-name-mozilla-vpn } { -brand-name-windows }ille…
+vpn-windows-go-to-your-downloads = Siirry latauskansioon ja kaksoisnapsauta .msi-tiedostoa
+vpn-windows-a-progress-bar = Edistymispalkki ilmestyy näkyviin ja asennus alkaa
+
+## Mac download page
+
+vpn-mac-download-page-title = Lataa { -brand-name-mozilla-vpn } { -brand-name-mac-short }ille
+vpn-mac-go-to-your-downloads = Siirry latauskansioon ja kaksoisnapsauta .pkg-tiedostoa
+
+## Shared strings
+
+vpn-download-unable-to-download = Ei voida ladata { -brand-name-mozilla-vpn }:ää
+vpn-download-not-in-country = Valitettavasti { -brand-name-mozilla-vpn } ei ole saatavilla maassasi.
+vpn-open-the-file = 1. Avaa tiedosto
+vpn-launch-the-app = 2. Käynnistä sovellus
+vpn-login-or-signup = 3. Kirjaudu sisään tai rekisteröidy
+
+## FAQ Strings
+
+vpn-download-faq-need-help = Tarvitsetko apua aloittamisen kanssa?
+vpn-download-faq-why-use = Miksi minun pitäisi käyttää { -brand-name-mozilla-vpn }:ää
+vpn-download-faq-working = Mistä tiedän, että VPN toimii?
+vpn-download-faq-add-device = Miten lisään toisen laitteen?
+vpn-download-faq-best-practices = Mitkä ovat VPN:n parhaat käytännöt?
+vpn-download-faq-need-more = Tarvitsetko hieman lisää apua?
