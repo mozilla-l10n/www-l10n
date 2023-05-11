@@ -14,6 +14,8 @@ vpn-windows-downloading-mozilla-vpn = Discargante { -brand-name-mozilla-vpn } pr
 
 ## Mac download page
 
+vpn-mac-download-page-title = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }
+vpn-mac-downloading-mozilla-vpn = Discargante { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }…
 
 ## Shared strings
 
