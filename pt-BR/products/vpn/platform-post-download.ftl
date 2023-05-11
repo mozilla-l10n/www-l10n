@@ -33,6 +33,12 @@ vpn-your-download-should-start = O download do { -brand-name-mozilla-vpn } deve 
 vpn-open-the-file = 1. Abra o arquivo
 vpn-launch-the-app = 2. Inicie o aplicativo
 vpn-login-or-signup = 3. Entre na conta ou cadastre-se
+vpn-enter-your-email = Digite seu endereço de email para entrar na conta ou cadastre-se
+vpn-turn-on-vpn = 4. Ative a VPN
+vpn-pick-a-recommended = Escolha um local recomendado para ter uma conexão rápida e estável ou escolha um local manualmente, depois mude o botão para ATIVADO
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = Precisa de ajuda para começar?
+vpn-download-faq-here-are-some = Veja algumas das dúvidas mais comuns sobre como configurar o { -brand-name-mozilla-vpn }
+vpn-download-faq-why-use = Por que devo usar o { -brand-name-mozilla-vpn }
