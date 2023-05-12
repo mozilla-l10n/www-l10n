@@ -11,12 +11,14 @@
 
 vpn-windows-download-page-title = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = Загрузка { -brand-name-mozilla-vpn } для { -brand-name-windows }…
-vpn-windows-go-to-your-downloads = Перейдите в папку загрузок и совершите двойное нажатие на файле .msi.
+vpn-windows-go-to-your-downloads = Перейдите в папку загрузок и совершите двойное нажатие на файле .msi
+vpn-windows-a-progress-bar = Появится индикатор выполнения, и начнется процесс установки.
 
 ## Mac download page
 
 vpn-mac-download-page-title = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = Загрузка { -brand-name-mozilla-vpn } для { -brand-name-mac-short }…
+vpn-mac-go-to-your-downloads = Перейдите в папку загрузок и совершите двойное нажатие на файле .pkg
 
 ## Shared strings
 
