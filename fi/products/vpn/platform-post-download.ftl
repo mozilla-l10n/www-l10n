@@ -17,6 +17,7 @@ vpn-windows-a-progress-bar = Edistymispalkki ilmestyy näkyviin ja asennus alkaa
 ## Mac download page
 
 vpn-mac-download-page-title = Lataa { -brand-name-mozilla-vpn } { -brand-name-mac-short }ille
+vpn-mac-downloading-mozilla-vpn = Ladataan { -brand-name-mozilla-vpn } { -brand-name-mac-short }ille…
 vpn-mac-go-to-your-downloads = Siirry latauskansioon ja kaksoisnapsauta .pkg-tiedostoa
 
 ## Shared strings
@@ -26,12 +27,16 @@ vpn-download-not-in-country = Valitettavasti { -brand-name-mozilla-vpn } ei ole 
 vpn-open-the-file = 1. Avaa tiedosto
 vpn-launch-the-app = 2. Käynnistä sovellus
 vpn-login-or-signup = 3. Kirjaudu sisään tai rekisteröidy
+vpn-enter-your-email = Kirjoita sähköpostiosoitteesi kirjautuaksesi sisään tai rekisteröityäksesi ja aloittaaksesi
+vpn-turn-on-vpn = 4. Ota VPN käyttöön
 
 ## FAQ Strings
 
 vpn-download-faq-need-help = Tarvitsetko apua aloittamisen kanssa?
+vpn-download-faq-here-are-some = Tässä on joitain yleisimpiä kysymyksiä { -brand-name-mozilla-vpn }:n määrittämiseen liittyen
 vpn-download-faq-why-use = Miksi minun pitäisi käyttää { -brand-name-mozilla-vpn }:ää
 vpn-download-faq-working = Mistä tiedän, että VPN toimii?
 vpn-download-faq-add-device = Miten lisään toisen laitteen?
 vpn-download-faq-best-practices = Mitkä ovat VPN:n parhaat käytännöt?
+vpn-download-faq-lastly = Lopuksi, tuetuilla laitteilla voit tehdä VPN:stä vieläkin älykkäämmän asettamalla tietyt sovellukset (esim. Netflix) VPN-yhteyden ulkopuolelle.
 vpn-download-faq-need-more = Tarvitsetko hieman lisää apua?
