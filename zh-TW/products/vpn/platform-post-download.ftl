@@ -18,13 +18,13 @@ vpn-windows-a-progress-bar = 安裝過程中將會出現進度列
 
 vpn-mac-download-page-title = 下載 { -brand-name-mozilla-vpn } for { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = 正在下載 { -brand-name-mozilla-vpn } for { -brand-name-mac-short }…
-vpn-mac-go-to-your-downloads = 前往下載資料夾雙擊 .pgg 檔案
-vpn-mac-follow-the-steps = 請依照 { -brand-name-mozilla-vpn } 安裝程式當中列出的步驟開啟應用程式
+vpn-mac-go-to-your-downloads = 前往下載資料夾雙擊 .pkg 檔案
+vpn-mac-follow-the-steps = 請依照 { -brand-name-mozilla-vpn } 安裝程式的步驟，開啟應用程式
 
 ## Shared strings
 
 vpn-download-unable-to-download = 無法下載 { -brand-name-mozilla-vpn }
-vpn-download-not-in-country = 抱歉{ -brand-name-mozilla-vpn } 尚未在您的國家推出。
+vpn-download-not-in-country = 抱歉，{ -brand-name-mozilla-vpn } 尚未在您的國家推出。
 # The <br> tag is a line break for the HTML text
 # Variables:
 #   $url (url) - link for either Windows or Mac download, depending on user platform
@@ -33,15 +33,15 @@ vpn-your-download-should-start = 應該會自動開始下載 { -brand-name-mozil
 vpn-open-the-file = 1. 開啟檔案
 vpn-launch-the-app = 2. 執行程式
 vpn-login-or-signup = 3. 登入或註冊
-vpn-enter-your-email = 請輸入您的電子郵件地址登入或註冊開始使用
+vpn-enter-your-email = 請輸入您的電子郵件地址來登入或註冊，即可開始使用
 vpn-turn-on-vpn = 4. 開啟 VPN
 vpn-pick-a-recommended = 請選擇一個推薦的位置以獲得快速、穩定的連線或手動選擇想要的位置然後開啟
 
 ## FAQ Strings
 
-vpn-download-faq-need-help = 需要幫忙嗎
+vpn-download-faq-need-help = 需要幫忙嗎？
 vpn-download-faq-here-are-some = 以下是 { -brand-name-mozilla-vpn } 設定過程中最常見的問題
-vpn-download-faq-why-use = 為什麼我該使用 { -brand-name-mozilla-vpn }
+vpn-download-faq-why-use = 為什麼我該使用 { -brand-name-mozilla-vpn }？
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 vpn-download-faq-as-more-daily = 隨著我們的日常生活更常透過網際網路進行、線上隱私與安全性也越發重要。 VPN<a href="{ $faq }">虛擬私人網路</a>會在您的裝置與網際網路之間建立加密通道確保您的連線安全與私密同時從兩個方面保護您:
@@ -63,7 +63,7 @@ vpn-download-faq-traffic = 若您的目標是要保護您的網路流量同時�
 vpn-download-faq-experience = 若您的目標是讓網際網路能有彷彿身處世界其他地方的體驗您可以選擇該伺服器的位置這樣所有您造訪的網站就會顯示得彷彿您真的在世界各地。
 vpn-download-faq-protect = 若您想更加保護自己可以到設定 > 隱私功能開啟廣告、廣告追踪器與惡意軟體騷擾的保護功能。請注意這可能會造成某些網站無法正常運作或無法載入。所以您在遇到此問題時可能需要暫時停用這些保護機制。
 vpn-download-faq-lastly = 最後在支援的裝置上您可以讓 VPN 變得更聰明從 VPN 排除某些應用程式例如 奈飛。
-vpn-download-faq-need-more = 需要更多說明嗎
+vpn-download-faq-need-more = 需要更多說明嗎？
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
 vpn-download-faq-support = 您可以在 { -brand-name-mozilla-vpn } 應用程式點擊設定 > 取得說明 > 聯絡支援團隊直接聯絡我們的技術支援團隊。您也可以<a href="{ $support }">在技術支援頁面</a>聯絡我們。
