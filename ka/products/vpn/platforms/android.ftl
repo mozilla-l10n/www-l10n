@@ -30,7 +30,7 @@ vpn-android-servers-copy = { -brand-name-mozilla-vpn }-ის მეშვეო
 vpn-android-devices-headline = ერთი ხელშეკრულებით { $devices } მოწყობილობამდე
 # Variables:
 #   $devices (number) - number of available devices
-vpn-android-devices-copy = { -brand-name-mozilla-vpn } გაძლევთ შესაძლებლობას, დაუკავშიროთ სხვადასხვა სისტემის მქონე { $devices } მოწყობილობა, მათ შორის { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } და { -brand-name-linux }. გამოიყენეთ თქვენს ტელეფონზე, კომპიუტერზე, ლეპტოპზე, პლანშეტზე და ა. შ.
+vpn-android-devices-copy = { -brand-name-mozilla-vpn } გაძლევთ შესაძლებლობას, დაუკავშიროთ სხვადასხვა სისტემის მქონე { $devices } მოწყობილობა, მათ შორის { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } და { -brand-name-linux }. გამოიყენეთ თქვენს ტელეფონზე, კომპიუტერზე, ნოუთბუქზე, პლანშეტზე და ა. შ.
 vpn-android-speed-headline = უსწრაფესი სიჩქარეები. შეუზღუდავი კავშირი.
 vpn-android-speed-copy = ითამაშეთ ინტერნეტში, გაუშვით ფილმები ქსელით და იმოგზაურეთ ვებსივრცეში უსწრაფესი სიჩქარით თქვენს { -brand-name-android }-მოწყობილობაზე — შეუზღუდავი გამტარუნარიანობის მეშვეობით.
 vpn-android-log-headline = აღრიცხვების გარეშე. თვალთვალის გარეშე. პირადულობაში ჩარევის გარეშე.

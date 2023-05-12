@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 # Meta strings
-vpn-desktop-page-title = { -brand-name-mozilla-vpn } კომპიუტერზე (სამაგიდოზე ან ლეპტოპზე)
-vpn-desktop-page-description = სწრაფი და მარტივი დაცვა თქვენს სამაგიდო კომპიუტერზე ან ლეპტოპზე, რომელსაც გთავაზობთ { -brand-name-mozilla }, ერთ-ერთი ყველაზე სანდო სახელი, ტექნოლოგიურ სამყაროში.
+vpn-desktop-page-title = { -brand-name-mozilla-vpn } კომპიუტერზე (სამაგიდოზე ან ნოუთბუქზე)
+vpn-desktop-page-description = სწრაფი და მარტივი დაცვა თქვენს სამაგიდო კომპიუტერზე ან ნოუთბუქზე, რომელსაც გთავაზობთ { -brand-name-mozilla }, ერთ-ერთი ყველაზე სანდო სახელი, ტექნოლოგიურ სამყაროში.
 # Desktop strings
 vpn-desktop-hero-headline = ინტერნეტის უსაფრთხოებისთვის გამოიყენეთ { -brand-name-mozilla-vpn } კომპიუტერზე.
 # Variables:
