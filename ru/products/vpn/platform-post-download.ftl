@@ -11,6 +11,7 @@
 
 vpn-windows-download-page-title = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = Загрузка { -brand-name-mozilla-vpn } для { -brand-name-windows }…
+vpn-windows-go-to-your-downloads = Перейдите в папку загрузок и совершите двойное нажатие на файле .msi.
 
 ## Mac download page
 
