@@ -61,9 +61,9 @@ vpn-download-faq-adding-another = Mae ychwanegu dyfais arall mor syml â llwytho
 vpn-download-faq-best-practices = Beth yw rhai arferion gorau VPN?
 vpn-download-faq-traffic = Os mai'ch nod yw diogelu eich traffig rhyngrwyd wrth gadw cyflymder cyflym, yna mae bob amser yn well dewis lleoliad gweinydd sydd mor agos â phosibl at eich lleoliad ffisegol. Bydd hyn yn cynyddu dibynadwyedd a chyflymder eich cysylltiad gan na fydd angen i'ch traffig rhyngrwyd wyro'n sylweddol cyn cyrraedd ei gyrchfan arfaethedig ar y we.
 vpn-download-faq-experience = Os mai'ch nod yw profi'r rhyngrwyd fel petaech mewn rhan arall o'r byd, gallwch ddewis lleoliad gweinydd yno a bydd pob gwefan y byddwch yn ymweld â hi yn dangos fel petaech yno.
-vpn-download-faq-protect = Os ydych chi am amddiffyn eich hun hyd yn oed yn fwy, gallwch chi actifadu amddiffyniadau yn erbyn Hysbysebion, Tracwyr Hysbysebion a Malware trwy fynd i Gosodiadau> Nodweddion Preifatrwydd. Sylwch y gallai hyn achosi i rai gwefannau dorri neu beidio â llwytho, felly efallai y bydd angen i chi analluogi'r amddiffyniadau hyn dros dro os byddwch chi'n taro i mewn i'r mater hwn.
-vpn-download-faq-lastly = Yn olaf, ar ddyfeisiau a gefnogir, gallwch wneud y VPN hyd yn oed yn ddoethach trwy eithrio rhai apiau (ex. Netflix) o'r VPN.
+vpn-download-faq-protect = Os ydych chi am amddiffyn eich hun hyd yn oed yn fwy, gallwch chi actifadu amddiffyniadau yn erbyn Hysbysebion, Tracwyr Hysbysebion a Drwgwar trwy fynd i Gosodiadau> Nodweddion Preifatrwydd. Sylwch y gallai hyn achosi i rai gwefannau dorri neu beidio â llwytho, felly efallai y bydd angen i chi analluogi'r digelwch hwn dros dro os byddwch chi'n taro i mewn i'r mater hwn.
+vpn-download-faq-lastly = Yn olaf, ar ddyfeisiau sy'n cael eu cefnogi, gallwch wneud y VPN hyd yn oed yn glyfrach trwy eithrio rhai apiau (ex. Netflix) o'r VPN.
 vpn-download-faq-need-more = Angen ychydig mwy o help?
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
-vpn-download-faq-support = Gallwch gysylltu â'n tîm cymorth yn syth o'r Cais { -brand-name-mozilla-vpn } trwy glicio Gosodiadau > Cael Cymorth > Cymorth Cyswllt. Gallwch hefyd gysylltu â ni <a href="{ $support }">ar ein tudalen cymorth</a>.
+vpn-download-faq-support = Gallwch gysylltu â'n tîm cymorth yn syth o'r Ap { -brand-name-mozilla-vpn } trwy glicio Gosodiadau > Cael Cymorth > Cymorth Cyswllt. Gallwch hefyd gysylltu â ni <a href="{ $support }">ar ein tudalen cymorth</a>.
