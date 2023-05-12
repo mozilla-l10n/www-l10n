@@ -10,15 +10,15 @@
 ## Windows download page
 
 vpn-windows-download-page-title = A { -brand-name-mozilla-vpn } letöltése { -brand-name-windows }ra
-vpn-windows-downloading-mozilla-vpn = { -brand-name-mozilla-vpn } letöltése { -brand-name-windows }ra…
+vpn-windows-downloading-mozilla-vpn = A { -brand-name-mozilla-vpn } letöltése { -brand-name-windows }ra…
 vpn-windows-go-to-your-downloads = Ugorjon a letöltések mappához és kattintson duplán az .msi fájlra
 vpn-windows-a-progress-bar = Megjelenik egy folyamatjelző sáv, és elindul a telepítési folyamat
 
 ## Mac download page
 
 vpn-mac-download-page-title = A { -brand-name-mozilla-vpn } letöltése { -brand-name-mac-short }re
-vpn-mac-downloading-mozilla-vpn = { -brand-name-mozilla-vpn } letöltése { -brand-name-mac-short }re…
-vpn-mac-go-to-your-downloads = Ugorjon a letöltések mappához és kattintson duplán a .pkg fájlra
+vpn-mac-downloading-mozilla-vpn = A { -brand-name-mozilla-vpn } letöltése { -brand-name-mac-short }re…
+vpn-mac-go-to-your-downloads = Ugorjon a letöltések mappához és kattintson duplán az .pkg fájlra
 vpn-mac-follow-the-steps = Az alkalmazás elindításához kövesse a { -brand-name-mozilla-vpn } telepítőjében vázolt lépéseket
 
 ## Shared strings
