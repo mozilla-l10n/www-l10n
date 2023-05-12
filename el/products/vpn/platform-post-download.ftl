@@ -19,9 +19,30 @@ vpn-windows-a-progress-bar = Θα εμφανιστεί μια γραμμή πρ�
 vpn-mac-download-page-title = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-mac-short }…
 vpn-mac-go-to-your-downloads = Μεταβείτε στον φάκελο λήψεών σας και κάντε διπλό κλικ στο αρχείο .pkg
+vpn-mac-follow-the-steps = Ακολουθήστε τα βήματα που περιγράφονται στο πρόγραμμα εγκατάστασης του { -brand-name-mozilla-vpn } για να ξεκινήσετε την εφαρμογή
 
 ## Shared strings
 
+vpn-download-unable-to-download = Δεν είναι δυνατή η λήψη του { -brand-name-mozilla-vpn }
+vpn-download-not-in-country = Δυστυχώς, το { -brand-name-mozilla-vpn } δεν είναι διαθέσιμο στη χώρα σας.
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = Η λήψη του { -brand-name-mozilla-vpn } θα πρέπει να ξεκινήσει αυτόματα. Εάν όχι, <br> <a href="{ $url }" id="{ $id }">επανεκκινήστε τη λήψη</a> ή επιστρέψτε στη λήψη για κάποια άλλη συσκευή.
+vpn-open-the-file = 1. Ανοίξτε το αρχείο
+vpn-launch-the-app = 2. Εκκινήστε την εφαρμογή
+vpn-login-or-signup = 3. Συνδεθείτε ή εγγραφείτε
+vpn-enter-your-email = Εισαγάγετε τη διεύθυνση email σας για να συνδεθείτε ή να εγγραφείτε και να ξεκινήσετε
+vpn-turn-on-vpn = 4. Ενεργοποιήστε το VPN
+vpn-pick-a-recommended = Επιλέξτε μια προτεινόμενη τοποθεσία για γρήγορη, σταθερή σύνδεση ή επιλέξτε χειροκίνητα την επιθυμητή σας τοποθεσία και ενεργοποιήστε τον διακόπτη
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = Χρειάζεστε βοήθεια για να ξεκινήσετε;
+vpn-download-faq-here-are-some = Ακολουθούν μερικές από τις πιο συνηθισμένες ερωτήσεις σχετικά με τη ρύθμιση του { -brand-name-mozilla-vpn }
+vpn-download-faq-why-use = Γιατί να χρησιμοποιήσω το { -brand-name-mozilla-vpn }
+vpn-download-faq-working = Πώς καταλαβαίνω ότι το VPN λειτουργεί;
+vpn-download-faq-add-device = Πώς προσθέτω άλλη συσκευή;
+vpn-download-faq-best-practices = Ποιες είναι μερικές βέλτιστες πρακτικές VPN;
+vpn-download-faq-need-more = Χρειάζεστε λίγη ακόμα βοήθεια;
