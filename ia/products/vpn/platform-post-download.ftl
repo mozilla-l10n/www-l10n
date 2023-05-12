@@ -48,3 +48,22 @@ vpn-download-faq-as-more-daily = Quanto plus le vita quotidian ha loco per inter
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Occultante tu ver <a href="{ $ip }">adresse IP</a>: isto adjuta a proteger tu identitate e obscura tu position ab le sitos web que tu visita.
+vpn-download-faq-encrypting = Cryptante tu traffico internet: assi nemo sur le filo pote spiar sur tu activitate online.
+vpn-download-faq-working = Como sape io si le VPN functiona?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } monstra indicatores visual de su stato actual, sia in le barra del instrumentos que in le pagina initial del application, rendente facile saper si tu activitate online es protegite o non. Iste indicatores te permitte de confirmar quando tu navigation es private e secur. In addition, per le connexion, tu pote visitar <a href="{ $monitor }">https://monitor.firefox.com/</a> pro confirmar si tu adresse IP es disguisate. Pro altere detalios, vide <a href="{ $connected }">Como pote io dicer si { -brand-name-mozilla-vpn } es connectite?</a>.
+vpn-download-faq-add-device = Como adde io un altere apparato?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another = Adder un altere apparato es tanto simple como discargar e installar le software de { -brand-name-mozilla-vpn } e pois acceder in tu conto { -brand-name-firefox } existente sur le nove apparato. Pro altere detalios, vide <a href="{ $subscription }">Como adder apparatos a tu abonamento { -brand-name-mozilla-vpn }</a>.
+vpn-download-faq-best-practices = Qual es alcun melior practicas de VPN?
+vpn-download-faq-traffic = Si tu objectivo es de proteger tu traffico internet mantenente un alte velocitate, alora il es sempre melio eliger un position de servitor que es quanto plus possibile proxime a tu position physic. Isto accrescera le fidibilitate e velocitate de tu connexion, nam tu traffico internet non besoniara de prender un significante deviation ante arrivar a su destination desirate sur le Web.
+vpn-download-faq-experience = Si tu objectivo es de experimentar internet como si tu era in alcun altere parte del mundo, tu pote eliger illac un position de servitor, e tote le sitos web que tu visita apparera como si tu era illac.
+vpn-download-faq-protect = Si tu desira proteger te ancora plus, tu pote activar protectiones contra le avisos publicitari, le traciatores del avisos publicitari, e le malware per vader a Parametros > Functiones de confidentialitate. Nota que isto pote causar a alcun sitos web de collaber o non cargar, assi tu poterea besoniar de temporarimente disactivar iste protectiones si tu impinge contra iste problema.
+vpn-download-faq-lastly = Al fin, sur apparatos supportate, tu pote render le VPN mesmo plus intelligente per excluder certe apps (ex. Netflix) ab le VPN.
+vpn-download-faq-need-more = Besonia tu un poco de adjuta ulterior?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Tu pote continger nostre equipa de assistentia justo ab le application { -brand-name-mozilla-vpn } cliccante: Parametros > Obtener auxilio > Continger supporto. Tu alsi pote continger nos <a href="{ $support }">sur nostre pagina de supporto</a>.
