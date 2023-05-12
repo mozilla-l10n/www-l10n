@@ -29,18 +29,18 @@ vpn-download-not-in-country = Sajnáljuk, a { -brand-name-mozilla-vpn } nem érh
 # Variables:
 #   $url (url) - link for either Windows or Mac download, depending on user platform
 #   $id (string) - unique ID for the anchor tag
-vpn-your-download-should-start = A { -brand-name-mozilla-vpn } letöltésének automatikusan el kell indulnia. Ha nem, akkor <br> <a href="{ $url }" id="{ $id }">indítsa újra a letöltést</a>, vagy térjen vissza letöltéshez másik eszközön.
+vpn-your-download-should-start = A { -brand-name-mozilla-vpn } letöltésének automatikusan el kell indulnia. Ha nem indul el, akkor <br> <a href="{ $url }" id="{ $id }">indítsa újra a letöltést</a>, vagy térjen vissza, hogy letöltse egy másik eszközre.
 vpn-open-the-file = 1. Nyissa meg a fájlt
 vpn-launch-the-app = 2. Indítsa el az alkalmazást
 vpn-login-or-signup = 3. Jelentkezzen be vagy regisztráljon
-vpn-enter-your-email = Adja meg az e-mail címét a bejelentkezéshez vagy regisztrációhoz és a kezdéshez
+vpn-enter-your-email = A kezdéshez adja meg az e-mail-címét a bejelentkezéshez vagy regisztrációhoz
 vpn-turn-on-vpn = 4. Kapcsolja be a VPN-t
 vpn-pick-a-recommended = Válasszon egy ajánlott helyet a gyors, stabil kapcsolathoz, vagy válassza ki kézzel a kívánt helyet, majd kapcsolja BE a kapcsolót
 
 ## FAQ Strings
 
 vpn-download-faq-need-help = Segítségre van szüksége az induláshoz?
-vpn-download-faq-here-are-some = Íme néhány a { -brand-name-mozilla-vpn } beállításával kapcsolatos leggyakoribb kérdés
+vpn-download-faq-here-are-some = Íme néhány a { -brand-name-mozilla-vpn } beállításával kapcsolatos leggyakoribb kérdés közül
 vpn-download-faq-why-use = Miért érdemes a { -brand-name-mozilla-vpn }-t használnom?
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
@@ -53,7 +53,7 @@ vpn-download-faq-working = Honnan tudhatom, hogy működik-e a VPN?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = A { -brand-name-mozilla-vpn } vizuális jelzőket jelenít meg a jelenlegi állapotáról mind az eszköztárban, mind az alkalmazás kezdőképernyőjén, így könnyen lehet tudni, hogy az online tevékenysége védett-e vagy sem. Ezek a jelzők lehetővé teszik annak megerősítését, hogy a navigációja privát és biztonságos-e. Továbbá, ha csatlakozik, felkeresheti a <a href="{ $monitor }">https://monitor.firefox.com/</a> oldalt, hogy megerősítse, hogy az IP-címe rejtve van-e. További részletekért lásd: <a href="{ $connected }">Honnan állapíthatom meg, hogy a { -brand-name-mozilla-vpn } csatlakozik-e?</a>
+vpn-download-faq-visual-indicators = A { -brand-name-mozilla-vpn } vizuális jelzőket jelenít meg a jelenlegi állapotáról mind az eszköztárban, mind az alkalmazás kezdőképernyőjén, így könnyen lehet tudni, hogy az online tevékenysége védett-e vagy sem. Ezek a jelzők lehetővé teszik annak ellenőrzését, hogy a böngészése privát és biztonságos-e. Továbbá, ha csatlakozik, felkeresheti a <a href="{ $monitor }">https://monitor.firefox.com/</a> oldalt, hogy megbizonyosodjon arról, hogy az IP-címe rejtve van-e. További részletekért lásd: <a href="{ $connected }">Honnan állapíthatom meg, hogy csatlakozik-e a { -brand-name-mozilla-vpn }?</a>
 vpn-download-faq-add-device = Hogyan adhatok hozzá további eszközt?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
