@@ -311,3 +311,4 @@ newsletters-security-and-privacy-news = Beveiligings- en privacynieuws
 newsletters-stay-informed-of-the-latest = Blijf op de hoogte van de laatste trends op het gebied van privacy- en beveiligingsproducten van { -brand-name-mozilla }, de makers van { -brand-name-firefox }.
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = Ontvang beveiligings- en provacynieuws en productupdates van { -brand-name-mozilla } om veilig en geïnformeerd te blijven over alles wat het internet gezonder maakt.
+newsletters-opt-out-delay = Het kan 1 tot 2 werkdagen duren om uw afmeldingsverzoek te verwerken, gedurende welke tijd u nog een e-mailbericht kunt ontvangen.
