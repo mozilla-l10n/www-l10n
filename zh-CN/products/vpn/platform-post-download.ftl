@@ -22,6 +22,10 @@ vpn-mac-go-to-your-downloads = 打开下载文件夹并双击已下载的 .pkg �
 
 vpn-download-unable-to-download = 无法下载 { -brand-name-mozilla-vpn }
 vpn-download-not-in-country = 抱歉，{ -brand-name-mozilla-vpn } 在您所处的国家/地区不可用。
+vpn-login-or-signup = 3. 登录或注册
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = 需要帮助？
+vpn-download-faq-why-use = 为什么要使用 { -brand-name-mozilla-vpn }
+vpn-download-faq-working = 如何知道 VPN 是否正常工作？
