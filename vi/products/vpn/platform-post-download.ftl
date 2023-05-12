@@ -42,6 +42,26 @@ vpn-pick-a-recommended = Chọn một vị trí được đề xuất để có 
 vpn-download-faq-need-help = Cần giúp đỡ để bắt đầu?
 vpn-download-faq-here-are-some = Dưới đây là một số câu hỏi phổ biến nhất về việc thiết lập { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Tại sao tôi nên sử dụng { -brand-name-mozilla-vpn }
+# Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = Khi cuộc sống hàng ngày diễn ra nhiều hơn thông qua internet, quyền riêng tư và bảo mật trực tuyến càng trở nên quan trọng hơn. VPN, <a href="{ $faq }">Mạng riêng ảo</a>, tạo một đường hầm được mã hóa giữa thiết bị của bạn và Internet, đảm bảo kết nối của bạn luôn an toàn và riêng tư đồng thời bảo vệ bạn theo hai cách quan trọng:
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Giấu <a href="{ $ip }">địa chỉ IP</a> thực của bạn: điều này giúp bảo vệ danh tính của bạn và che giấu vị trí của bạn khỏi các trang web bạn truy cập.
+vpn-download-faq-encrypting = Mã hóa lưu lượng truy cập internet của bạn: để không ai trên mạng có thể theo dõi hoạt động trực tuyến của bạn.
+vpn-download-faq-working = Làm cách nào để biết VPN đang hoạt động?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } hiển thị các chỉ số trực quan về trạng thái hiện tại của nó cả trên thanh công cụ và màn hình chính của ứng dụng, giúp bạn dễ dàng biết liệu hoạt động trực tuyến của mình có được bảo vệ hay không. Các chỉ báo này cho phép bạn xác nhận khi điều hướng của bạn ở chế độ riêng tư và an toàn. Ngoài ra, khi được kết nối, bạn có thể truy cập <a href="{ $monitor }">https://monitor.firefox.com/</a> để xác nhận xem địa chỉ IP của bạn có bị ẩn hay không. Để biết thêm chi tiết, vui lòng xem <a href="{ $connected }">Làm cách nào để biết { -brand-name-mozilla-vpn } đã được kết nối hay chưa?</a>.
+vpn-download-faq-add-device = Làm thế nào để tôi thêm thiết bị khác?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another = Thêm một thiết bị khác đơn giản như tải xuống và cài đặt phần mềm { -brand-name-mozilla-vpn }, sau đó đăng nhập vào tài khoản { -brand-name-firefox } hiện có của bạn trên thiết bị mới. Để biết thêm chi tiết, vui lòng xem <a href="{ $subscription }">Cách thêm thiết bị vào thuê bao { -brand-name-mozilla-vpn } của bạn</a>.
+vpn-download-faq-best-practices = Một số thực tiễn tốt nhất về VPN là gì?
+vpn-download-faq-traffic = Nếu mục tiêu của bạn là bảo vệ lưu lượng truy cập internet trong khi vẫn giữ tốc độ nhanh, thì tốt nhất bạn nên chọn vị trí máy chủ càng gần vị trí thực của bạn càng tốt. Điều này sẽ tăng độ tin cậy và tốc độ kết nối của bạn vì lưu lượng truy cập internet của bạn sẽ không cần phải đi đường vòng đáng kể trước khi đến đích trên web.
+vpn-download-faq-experience = Nếu mục tiêu của bạn là trải nghiệm internet như bạn đang ở một nơi nào khác trên thế giới, bạn có thể chọn một vị trí máy chủ ở đó và tất cả các trang web bạn truy cập sẽ hiển thị như bạn đang ở đó.
+vpn-download-faq-protect = Nếu bạn muốn tự bảo vệ mình hơn nữa, bạn có thể kích hoạt các biện pháp bảo vệ chống lại quảng cáo, trình theo dõi quảng cáo và phần mềm độc hại bằng cách đi tới Cài đặt > Tính năng bảo mật. Xin lưu ý rằng điều này có thể khiến một số trang web bị hỏng hoặc không tải được, vì vậy bạn có thể cần tạm thời vô hiệu hóa các biện pháp bảo vệ này nếu gặp sự cố này.
 vpn-download-faq-lastly = Cuối cùng, trên các thiết bị được hỗ trợ, bạn có thể làm cho VPN thông minh hơn nữa bằng cách loại trừ một số ứng dụng nhất định (ví dụ như Netflix) khỏi VPN.
 vpn-download-faq-need-more = Cần thêm một chút trợ giúp?
 # Variables
