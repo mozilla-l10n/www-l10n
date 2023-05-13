@@ -9,6 +9,8 @@
 
 ## Windows download page
 
+vpn-windows-download-page-title = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-windows }
+vpn-windows-downloading-mozilla-vpn = ກຳລັງດາວໂຫຼດ { -brand-name-mozilla-vpn } ສຳລັບ { -brand-name-windows }…
 
 ## Mac download page
 
@@ -31,3 +33,4 @@ vpn-turn-on-vpn = 4. ເປີດ VPN
 ## FAQ Strings
 
 vpn-download-faq-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນການເລີ່ມຕົ້ນບໍ?
+vpn-download-faq-need-more = ຕ້ອງການຄວາມຊ່ວຍເຫຼືອອີກໜ້ອຍໜຶ່ງບໍ?

@@ -55,6 +55,7 @@ vpn-shared-features-guarantee = ຮັບປະກັນການຄືນເງ
 vpn-shared-refund-policy = ນະໂຍບາຍການຄືນເງິນ
 vpn-shared-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 vpn-shared-terms-conditions = ຂໍ້ກໍານົດ ແລະ ເງື່ອນໄຂ
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } ແມ່ນເຄື່ອງໝາຍການຄ້າຈົດທະບຽນຂອງ Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
@@ -80,9 +81,26 @@ vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + ອາກອນ<
 vpn-shared-pricing-get-6-month = ໄດ້ຮັບແຜນ 6 ເດືອນ
 # Outdated string
 vpn-shared-pricing-get-12-month = ໄດ້ຮັບແຜນ 12 ເດືອນ
+# Outdated string
+vpn-shared-pricing-get-6-month-v2 = ຮັບແຜນການ 6 ເດືອນ
+vpn-shared-pricing-get-12-month-v2 = ຮັບແຜນການ 12 ເດືອນ
+vpn-shared-pricing-get-monthly = ຮັບແຜນລາຍເດືອນ
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = ປະຢັດໄດ້ { $percent }%
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = ປະຢັດໄດ້ { $percent }% ໃນ { -brand-name-mozilla-vpn }*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *ເມື່ອທ່ານສະໝັກໃຊ້ແຜນ 12 ເດືອນ
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } ທັງໝົດ
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = { $amount } ທັງໝົດ + ອາກອນ
 
 # Platform subpage shared strings
 

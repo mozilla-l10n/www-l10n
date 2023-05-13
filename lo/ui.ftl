@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ## Common user interface (ui) strings used in global templates and shared widgets.
@@ -14,8 +14,10 @@ ui-watch-the-video = ເບິງວິດີໂອ
 ui-replay = ຫຼິ້ນຊໍ້າ
 ui-share = ແບ່ງປັນ
 ui-menu = ເມນູ
+ui-please-turn-on-javascript = ກະລຸນາເປີດໃຊ້ JavaScript ເພື່ອສະແດງໜ້ານີ້ຢ່າງຖືກຕ້ອງ.
 ui-show-more = ສະແດງຕື່ມ
 ui-show-less = ສະແດງໜ້ອຍ
 ui-show-all = ສະແດງທັງໝົດ
 ui-hide-all = ເຊື່ອງທັງໝົດ
 ui-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+ui-view = ມູມມອງ
