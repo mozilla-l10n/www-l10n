@@ -28,6 +28,7 @@ vpn-open-the-file = 1. 打开文件
 vpn-launch-the-app = 2. 启动应用
 vpn-login-or-signup = 3. 登录或注册
 vpn-turn-on-vpn = 4. 开启 VPN
+vpn-pick-a-recommended = 选择一个推荐的服务器位置并打开 VPN 开关，即可享受高速稳定的网络连接。您也可按实际需要，自行选择服务器位置。
 
 ## FAQ Strings
 
