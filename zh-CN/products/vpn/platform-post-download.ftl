@@ -16,13 +16,18 @@ vpn-windows-go-to-your-downloads = 打开下载文件夹并双击已下载的 .m
 ## Mac download page
 
 vpn-mac-download-page-title = 下载  { -brand-name-mac-short } 版 { -brand-name-mozilla-vpn }
+vpn-mac-downloading-mozilla-vpn = 正在下载 { -brand-name-mac-short } 版 { -brand-name-mozilla-vpn }
 vpn-mac-go-to-your-downloads = 打开下载文件夹并双击已下载的 .pkg 文件
+vpn-mac-follow-the-steps = 根据 { -brand-name-mozilla-vpn } 安装程序中的步骤操作以启动应用
 
 ## Shared strings
 
 vpn-download-unable-to-download = 无法下载 { -brand-name-mozilla-vpn }
 vpn-download-not-in-country = 抱歉，{ -brand-name-mozilla-vpn } 在您所处的国家/地区不可用。
+vpn-open-the-file = 1. 打开文件
+vpn-launch-the-app = 2. 启动应用
 vpn-login-or-signup = 3. 登录或注册
+vpn-turn-on-vpn = 4. 开启 VPN
 
 ## FAQ Strings
 
