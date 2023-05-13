@@ -45,3 +45,25 @@ vpn-download-faq-why-use = Varför ska jag använda { -brand-name-mozilla-vpn }
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 vpn-download-faq-as-more-daily = När mer av det dagliga livet sker via internet, blir integritet och säkerhet på nätet ännu viktigare. Ett VPN, <a href="{ $faq }">Virtuellt privat nätverk</a>, skapar en krypterad tunnel mellan dina enheter och internet, vilket säkerställer att din anslutning förblir säker och privat samtidigt som du skyddar dig på två viktiga sätt:
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Att dölja din sanna <a href="{ $ip }">IP-adress</a>: detta hjälper till att skydda din identitet och döljer din plats från webbplatserna du besöker.
+vpn-download-faq-encrypting = Kryptera din internettrafik: så att ingen på nätet kan spionera på din onlineaktivitet.
+vpn-download-faq-working = Hur vet jag att VPN fungerar?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } visar visuella indikatorer för dess aktuella status både i verktygsfältet och på programmets startskärm, vilket gör det enkelt att veta om din onlineaktivitet är skyddad eller inte. Dessa indikatorer låter dig bekräfta när din navigering är privat och säker. När du är ansluten kan du dessutom besöka <a href="{ $monitor }">https://monitor.firefox.com/</a> för att bekräfta om din IP-adress är maskerad. För mer information, se <a href="{ $connected }">Hur vet jag om { -brand-name-mozilla-vpn } är ansluten?</a>.
+vpn-download-faq-add-device = Hur lägger jag till en annan enhet?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another = Att lägga till ytterligare en enhet är lika enkelt som att ladda ner och installera programvaran { -brand-name-mozilla-vpn } och sedan logga in på ditt befintliga { -brand-name-firefox }-konto på den nya enheten. För mer information, se <a href="{ $subscription }">Hur du lägger till enheter till din { -brand-name-mozilla-vpn }-prenumeration</a>.
+vpn-download-faq-best-practices = Vilka är några bästa metoder för VPN?
+vpn-download-faq-traffic = Om ditt mål är att skydda din internettrafik samtidigt som du håller en hög hastighet, är det alltid bäst att välja en serverplats som är så nära din fysiska plats som möjligt. Detta kommer att öka tillförlitligheten och hastigheten för din anslutning eftersom din internettrafik inte behöver ta en betydande omväg innan den kommer fram till den avsedda destinationen på webben.
+vpn-download-faq-experience = Om ditt mål är att uppleva internet som om du befann dig i någon annan del av världen kan du välja en serverplats där och alla webbplatser du besöker kommer att visas som om du vore där.
+vpn-download-faq-protect = Om du vill skydda dig själv ännu mer kan du aktivera skydd mot annonser, annonsspårare och skadlig programvara genom att gå till Inställningar > Sekretessfunktioner. Observera att detta kan göra att vissa webbplatser inte fungerar korrekt eller inte laddas, så du kan behöva tillfälligt inaktivera dessa skydd om du stöter på det här problemet.
+vpn-download-faq-lastly = Slutligen, på enheter som stöds, kan du göra VPN ännu smartare genom att utesluta vissa appar (ex. Netflix) från VPN.
+vpn-download-faq-need-more = Behöver du lite mer hjälp?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Du kan kontakta vårt supportteam direkt från appen { -brand-name-mozilla-vpn } genom att klicka på Inställningar > Få hjälp > Kontakta support. Du kan också kontakta oss <a href="{ $support }">på vår supportsida</a>.
