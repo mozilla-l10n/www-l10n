@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### Please read the trademarks localization guide
@@ -20,8 +20,14 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Fundación Mozilla
+-brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
+-brand-name-wireguard = WireGuard
+-brand-name-linkedin = LinkedIn
+-brand-name-tiktok = TikTok
+-brand-name-spotify = Spotify
+-brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
@@ -65,25 +71,29 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-send = Firefox Send
--brand-name-firefox-sync = Firefox Sync
--brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-private-network = Rede privada do Firefox
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
+-brand-name-fpn = FPN
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
--brand-name-send = Send
--brand-name-sync = Sync
 -brand-name-relay = Relay
--brand-name-fpn = FPN
+-brand-name-relay-premium = Relay Premium
+-brand-name-sync = Sync
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
+-brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-send = Firefox Send
+-brand-name-send = Send
 
 ## Pocket
 
@@ -92,6 +102,7 @@
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-glean = Glean
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-festival = Mozilla Festival
@@ -99,6 +110,7 @@
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mdn-plus = MDN Plus
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -109,6 +121,8 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-lightbeam = Lightbeam
+-brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
@@ -131,14 +145,15 @@
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
--brand-name-vista = Vista
--brand-name-chromeos = Chrome OS
 
 ## Apple products
 
