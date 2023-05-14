@@ -11,6 +11,7 @@ what-is-a = 웹 브라우저란 무엇인가요?
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-little-book = 개인 정보 보호의 작은 책
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
+firefox-respects-your = { -brand-name-firefox }는 { -brand-name-mac-short }의 개인 정보를 존중합니다.
 firefox-for-linux = { -brand-name-linux } 용 { -brand-name-firefox }
 firefox-for-windows = 64비트 { -brand-name-windows } 용 { -brand-name-firefox }
 we-worry-about = 우리는 사용자의 데이터 안전에 대해 걱정하므로 그럴 필요는 없습니다.
