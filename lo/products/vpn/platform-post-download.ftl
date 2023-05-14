@@ -11,9 +11,14 @@
 
 vpn-windows-download-page-title = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = ກຳລັງດາວໂຫຼດ { -brand-name-mozilla-vpn } ສຳລັບ { -brand-name-windows }…
+vpn-windows-go-to-your-downloads = ໄປ​ທີ່​ໂຟນ​ເດີ​ດາວ​ໂຫຼດ​ຂອງ​ທ່ານ​ ແລະ​ ສອງ​ຄັ້ງ​ຄລິກ​ໃສ່​ໄຟລ​໌ .msi​
+vpn-windows-a-progress-bar = ແຖບຄວາມຄືບຫນ້າຈະປາກົດ ແລະ ຂະບວນການຕິດຕັ້ງຈະເລີ່ມຕົ້ນ
 
 ## Mac download page
 
+vpn-mac-download-page-title = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-mac-short }
+vpn-mac-downloading-mozilla-vpn = ກຳລັງດາວໂຫຼດ { -brand-name-mozilla-vpn } ສຳລັບ { -brand-name-mac-short }…
+vpn-mac-go-to-your-downloads = ໄປທີ່ໂຟນເດີການດາວໂຫຼດຂອງທ່ານ ແລະ ຄລິກສອງຄັ້ງທີ່ໄຟລ໌ .pkg
 
 ## Shared strings
 
