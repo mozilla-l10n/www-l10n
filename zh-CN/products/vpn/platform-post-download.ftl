@@ -28,6 +28,7 @@ vpn-download-not-in-country = 抱歉，{ -brand-name-mozilla-vpn } 在您所处�
 vpn-open-the-file = 1. 打开文件
 vpn-launch-the-app = 2. 启动应用
 vpn-login-or-signup = 3. 登录或注册
+vpn-enter-your-email = 输入电子邮件地址以登录或注册
 vpn-turn-on-vpn = 4. 开启 VPN
 vpn-pick-a-recommended = 选择一个推荐的服务器位置并打开 VPN 开关，即可享受高速稳定的网络连接。您也可按实际需要，自行选择服务器位置。
 
@@ -42,3 +43,6 @@ vpn-download-faq-as-more-daily = 随着互联网的普及，线上隐私和安�
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = 隐藏您的真实<a href="{ $ip }">IP 地址</a>，这有助于保护您的身份信息并向网站掩藏您的位置。
 vpn-download-faq-working = 如何知道 VPN 是否正常工作？
+vpn-download-faq-add-device = 如何添加其他设备？
+vpn-download-faq-lastly = 最后，在可用设备上，您可以通过从 VPN 中排除某些应用程序（例如 Netflix）来使 VPN 更加智能。
+vpn-download-faq-need-more = 需要更多帮助？
