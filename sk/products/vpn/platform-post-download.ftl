@@ -48,3 +48,22 @@ vpn-download-faq-as-more-daily = Keďže sa čoraz viac každodenného života o
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Skrýva vašu skutočnú <a href="{ $ip }">adresu IP</a>: tým pomáha chrániť vašu identitu a skrýva vašu polohu pred webovými stránkami, ktoré navštevujete.
+vpn-download-faq-encrypting = Šifruje váš internetový prenos: takže nikto nemôže špehovať vašu online aktivitu.
+vpn-download-faq-working = Ako zistím, že VPN funguje?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } zobrazuje vizuálne indikátory svojho aktuálneho stavu na paneli s nástrojmi aj na domovskej obrazovke aplikácie, čo uľahčuje zistenie, či je vaša online aktivita chránená alebo nie. Tieto indikátory vám umožňujú potvrdiť, či je vaša navigácia súkromná a zabezpečená. Okrem toho, keď ste pripojení, môžete navštíviť stránku <a href="{ $monitor }">https://monitor.firefox.com/</a> a overiť si, či je vaša IP adresa maskovaná. Ďalšie podrobnosti nájdete v časti <a href="{ $connected }">Ako zistím, či je { -brand-name-mozilla-vpn } pripojená?</a>.
+vpn-download-faq-add-device = Ako pridám ďalšie zariadenie?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another = Pridanie ďalšieho zariadenia je jednoduché. Stačí si stiahnuť a nainštalovať softvér { -brand-name-mozilla-vpn } a potom sa prihlásiť do svojho existujúceho účtu { -brand-name-firefox } na novom zariadení. Ďalšie podrobnosti nájdete v časti <a href="{ $subscription }">Ako pridať zariadenia do svojho predplatného { -brand-name-mozilla-vpn }</a>.
+vpn-download-faq-best-practices = Aké sú niektoré osvedčené postupy pri používaní VPN?
+vpn-download-faq-traffic = Ak je vaším cieľom chrániť váš internetový prenos pri zachovaní vysokej rýchlosti, potom je vždy najlepšie zvoliť umiestnenie servera, ktoré je čo najbližšie k vašej fyzickej polohe. Zvýši sa tým spoľahlivosť a rýchlosť vášho pripojenia, pretože váš internetový prenos nebude musieť pred príchodom do zamýšľaného cieľa na webe robiť výraznú obchádzku.
+vpn-download-faq-experience = Ak je vaším cieľom zažiť internet, ako keby ste boli v inej časti sveta, môžete si tam vybrať umiestnenie servera a všetky webové stránky, ktoré navštívite, sa zobrazia, ako keby ste tam boli.
+vpn-download-faq-protect = Ak sa chcete ešte viac chrániť, môžete si aktivovať ochranu pred reklamami, nástrojmi na sledovanie reklám a malvérom v časti Nastavenia > Funkcie ochrany osobných údajov. Upozorňujeme, že to môže spôsobiť prerušenie alebo nenačítanie niektorých webových stránok, takže ak narazíte na tento problém, možno budete musieť tieto ochrany dočasne vypnúť.
+vpn-download-faq-lastly = Nakoniec, na podporovaných zariadeniach môžete VPN urobiť ešte inteligentnejšou vylúčením určitých aplikácií (napr. Netflix) z VPN.
+vpn-download-faq-need-more = Potrebujete trochu viac pomoci?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Náš tím podpory môžete kontaktovať priamo z aplikácie { -brand-name-mozilla-vpn } kliknutím na Nastavenia > Získať pomoc > Kontaktovať podporu. Môžete nás tiež kontaktovať <a href="{ $support }">na našej stránke podpory</a>.
