@@ -41,7 +41,7 @@ vpn-pick-a-recommended = Zvoľte odporúčané miesto pre rýchle a stabilné pr
 
 vpn-download-faq-need-help = Potrebujete pomôcť?
 vpn-download-faq-here-are-some = Tu sú niektoré z najčastejších otázok o nastavení { -brand-name-mozilla-vpn }
-vpn-download-faq-why-use = Prečo by som mal používať { -brand-name-mozilla-vpn }
+vpn-download-faq-why-use = Prečo by som mal používať { -brand-name-mozilla-vpn }?
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 vpn-download-faq-as-more-daily = Keďže sa čoraz viac každodenného života odohráva prostredníctvom internetu, súkromie a bezpečnosť online sa stávajú ešte dôležitejšími. VPN, <a href="{ $faq }">virtuálna súkromná sieť</a>, vytvára šifrovaný tunel medzi vašimi zariadeniami a internetom, čím zaisťuje, že vaše pripojenie zostane bezpečné a súkromné, pričom vás chráni dvoma dôležitými spôsobmi:
