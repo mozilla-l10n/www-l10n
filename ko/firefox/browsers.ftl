@@ -34,6 +34,11 @@ firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox }에 가�
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = 이미 계정이 있습니까? <a { $fxa_attr }>로그인</a>하거나 { -brand-name-firefox } 가입에 대해  <a { $accounts_attr }>더 알아보세요</a>.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign = 이미 계정이 있습니까? Firefox에 가입에 대해 <a { $accounts_attr }>자세히 알아보기</a> 또는  <a { $fxa_attr }>로그인</a>하세요.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

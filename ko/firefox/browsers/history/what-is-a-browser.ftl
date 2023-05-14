@@ -27,6 +27,9 @@ what-is-a-browser-when-the-web-browser = 웹 브라우저가 인터넷에 연결
 #   $url(url) - link to https://wikipedia.org/wiki/URL
 what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">하이퍼링크</a>는 웹에 있는 다른 페이지나 사이트로 가는 경로를 따라갈 수 있도록 해줍니다. 모든 웹페이지, 그림 및 동영상은 웹 주소라고 알려진 고유한 <a href="{ $url }">Uniform Resource Locator</a>(URL)가 있습니다. 브라우저가 정보를 얻기 위해 서버를 방문하면 웹 주소는 브라우저에 html에 설명된 각 항목을 찾을 위치를 알려준 다음 웹 페이지에서 어디로 가야하는지 알려줍니다.
 what-is-a-browser-cookies-not-the = 쿠키(먹는 쿠키가 아님)
+# Variables:
+#   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
+what-is-a-browser-websites-save = 웹사이트는 <a href="{ $cookies }">쿠키</a>라는 파일에 사용자의 정보를 저장합니다. 사용자의 다음 방문을 위해 로컬 컴퓨터에 저장이 됩니다. 해당 사이트를 다음에 다시 방문할 때 웹사이트 코드가 해당 파일을 읽고 본인임을 확인합니다. 예를 들어 웹사이트 재 방문시 홈페이지에서 사용자 이름과 비밀번호를 기억합니다. 이는 쿠키를 통해 가능합니다.
 what-is-a-browser-understanding = 개인 정보 보호 이해하기
 what-is-a-browser-firefox-helps = { -brand-name-firefox }는 웹에서 여러분을 따라다니는 추적기를 차단하여 온라인에서 개인 정보를 더 잘 보호하도록 도와줍니다.
 what-is-a-browser-making-your-web = 사용자를 위한 웹 브라우저 만들기
