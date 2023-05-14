@@ -45,3 +45,25 @@ vpn-download-faq-why-use = ¿Por qué debería usar { -brand-name-mozilla-vpn }?
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 vpn-download-faq-as-more-daily = A medida que más aspectos de la vida cotidiana se llevan a cabo a través de Internet, la privacidad y la seguridad en línea se vuelven aún más importantes. Una VPN, <a href="{ $faq }">red privada virtual</a>, crea un túnel cifrado entre tus dispositivos e Internet, asegurando que tu conexión permanece segura y privada mientras te protege de dos formas importantes:
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Ocultando tu verdadera <a href="{ $ip }">dirección IP</a>. Esto ayuda a proteger tu identidad y oculta tu ubicación a los sitios web que visitas.
+vpn-download-faq-encrypting = Cifrando tu tráfico de Internet: para que nadie en línea pueda espiar tu actividad en línea.
+vpn-download-faq-working = ¿Cómo sé que la VPN está funcionando?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } muestra indicadores visuales de su estado actual tanto en la barra de herramientas como en la pantalla de inicio de la aplicación, lo que facilita saber si tu actividad en línea está protegida o no. Estos indicadores te permiten confirmar cuándo tu navegación es privada y segura. Además, mientras estás conectado, puedes visitar <a href="{ $monitor }">https://monitor.firefox.com/</a> para confirmar si tu dirección IP está enmascarada. Para más detalles, consulta <a href="{ $connected }">¿Cómo puedo saber si { -brand-name-mozilla-vpn } está conectado?</a>
+vpn-download-faq-add-device = ¿Cómo añado otro dispositivo?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another = Añadir otro dispositivo es tan simple como descargar e instalar el software { -brand-name-mozilla-vpn } y luego iniciar sesión en tu cuenta de { -brand-name-firefox } en el nuevo dispositivo. Para obtener más detalles, consulta <a href="{ $subscription }">Cómo añadir dispositivos a tu suscripción a { -brand-name-mozilla-vpn }</a>.
+vpn-download-faq-best-practices = ¿Cuáles son algunas de las mejores prácticas de VPN?
+vpn-download-faq-traffic = Si tu objetivo es proteger el tráfico de Internet manteniendo una velocidad rápida, siempre es mejor elegir una ubicación de servidor lo más cerca posible de tu ubicación física. Esto aumentará la fiabilidad y velocidad de tu conexión, ya que el tráfico de Internet no necesitará desviarse mucho antes de llegar al destino previsto en la web.
+vpn-download-faq-experience = Si tu objetivo es experimentar Internet como si estuvieras en otra parte del mundo, puedes elegir ahí una ubicación de servidor y todos los sitios web que visites se mostrarán como si estuvieras allí.
+vpn-download-faq-protect = Si quieres protegerte aún más, puedes activar las protecciones contra publicidad, rastreadores de anuncios y malware yendo a Configuración > Funciones de privacidad. Ten en cuenta que esto puede causar que algunos sitios web se carguen mal o no se carguen, por lo que es posible que tengas que desactivar temporalmente estas protecciones si te encuentras con este problema.
+vpn-download-faq-lastly = Por último, en los dispositivos compatibles, puedes hacer que la VPN sea aún más inteligente excluyendo ciertas aplicaciones (por ejemplo, Netflix).
+vpn-download-faq-need-more = ¿Necesitas un poco más de ayuda?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Puedes ponerte en contacto con nuestro equipo de ayuda directamente desde la aplicación { -brand-name-mozilla-vpn } haciendo clic en Configuración > Obtener ayuda > Contactar con soporte. También puedes comunicarte con nosotros <a href="{ $support }">en nuestra página de ayuda</a>.
