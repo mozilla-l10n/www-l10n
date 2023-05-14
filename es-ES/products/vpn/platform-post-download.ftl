@@ -11,6 +11,7 @@
 
 vpn-windows-download-page-title = Descargar { -brand-name-mozilla-vpn } para { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = Descargando { -brand-name-mozilla-vpn } para { -brand-name-windows }…
+vpn-windows-go-to-your-downloads = Abre tu carpeta de descargas y haz doble clic en el archivo .msi
 
 ## Mac download page
 
