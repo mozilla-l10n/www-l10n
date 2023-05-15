@@ -17,7 +17,7 @@ vpn-windows-a-progress-bar = En förloppsindikator kommer att visas och installa
 ## Mac download page
 
 vpn-mac-download-page-title = Ladda ner { -brand-name-mozilla-vpn } för { -brand-name-mac-short }
-vpn-mac-downloading-mozilla-vpn = Laddar ned { -brand-name-mozilla-vpn } för { -brand-name-mac-short }...
+vpn-mac-downloading-mozilla-vpn = Laddar ned { -brand-name-mozilla-vpn } för { -brand-name-mac-short }…
 vpn-mac-go-to-your-downloads = Gå till din nedladdningsmapp och dubbelklicka på .pkg-filen
 vpn-mac-follow-the-steps = Följ stegen som beskrivs i installationsprogrammet för { -brand-name-mozilla-vpn } för att starta appen
 
