@@ -17,7 +17,7 @@ vpn-windows-a-progress-bar = 即将出现进度条，并开始安装
 ## Mac download page
 
 vpn-mac-download-page-title = 下载  { -brand-name-mac-short } 版 { -brand-name-mozilla-vpn }
-vpn-mac-downloading-mozilla-vpn = 正在下载 { -brand-name-mac-short } 版 { -brand-name-mozilla-vpn }
+vpn-mac-downloading-mozilla-vpn = 正在下载 { -brand-name-mac-short } 版 { -brand-name-mozilla-vpn }…
 vpn-mac-go-to-your-downloads = 打开下载文件夹并双击已下载的 .pkg 文件
 vpn-mac-follow-the-steps = 根据 { -brand-name-mozilla-vpn } 安装程序中的步骤操作以启动应用
 
