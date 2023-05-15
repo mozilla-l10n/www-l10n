@@ -42,3 +42,6 @@ vpn-pick-a-recommended = Kies in oanrekommandearre lokaasje foar in flugge, stab
 vpn-download-faq-need-help = Help nedich om te begjinnen?
 vpn-download-faq-here-are-some = Hjir folgje inkelde fan de meast stelde fragen oer it ynstellen fan { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Wêrom soe ik { -brand-name-mozilla-vpn } brûke
+# Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = Omdat mear fan it deistich libben fia ynternet bart, wurde online privacy en befeiliging hieltyd wichtiger. In VPN, <a href="{ $faq }">Virtual Private Network</a>, makket in fersifere tunnel tusken jo apparaten en it ynternet, wêrtroch jo ferbining befeilige en privee bliuwt wylst jo op twa wichtige manieren beskerme wurde:
