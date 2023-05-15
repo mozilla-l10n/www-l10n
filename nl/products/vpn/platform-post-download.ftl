@@ -44,7 +44,7 @@ vpn-download-faq-here-are-some = Hier volgen enkele van de meest gestelde vragen
 vpn-download-faq-why-use = Waarom zou ik { -brand-name-mozilla-vpn } gebruiken
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
-vpn-download-faq-as-more-daily = Naarmate meer van het dagelijkse leven via internet plaatsvindt, worden online privacy en beveiliging steeds belangrijker. Een VPN, <a href="{ $faq }">Virtual Private Network</a>,creëert een versleutelde tunnel tussen uw apparaten en het internet, waardoor uw verbinding beveiligd en privé blijft terwijl u op twee belangrijke manieren wordt beschermd:
+vpn-download-faq-as-more-daily = Naarmate meer van het dagelijkse leven via internet plaatsvindt, worden online privacy en beveiliging steeds belangrijker. Een VPN, <a href="{ $faq }">Virtual Private Network</a>, creëert een versleutelde tunnel tussen uw apparaten en het internet, waardoor uw verbinding beveiligd en privé blijft terwijl u op twee belangrijke manieren wordt beschermd:
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Verbergen van uw werkelijke <a href="{ $ip }">IP-adres</a>: dit helpt uw identiteit te beschermen en uw locatie te verhullen voor de door u bezochte websites.
