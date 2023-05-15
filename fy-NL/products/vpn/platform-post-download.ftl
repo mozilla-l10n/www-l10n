@@ -25,6 +25,20 @@ vpn-mac-follow-the-steps = Folgje de stappen yn it { -brand-name-mozilla-vpn }-y
 
 vpn-download-unable-to-download = Kin { -brand-name-mozilla-vpn } net downloade
 vpn-download-not-in-country = Sorry, { -brand-name-mozilla-vpn } is yn jo lân net beskikber.
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = Jo { -brand-name-mozilla-vpn }-download soe automatysk starte moatte. As dat net it gefal is, <br> <a href="{ $url }" id="{ $id }">start de download dan opnij</a> of gean werom om te downloaden foar in oar apparaat.
+vpn-open-the-file = 1. Iepenje it bestân
+vpn-launch-the-app = 2. Start de app
+vpn-login-or-signup = 3. Meld jo oan of registrearje
+vpn-enter-your-email = Fier jo e-mailadres yn om oan te melden of te registrearjen en te begjinnen
+vpn-turn-on-vpn = 4. Skeakelje VPN yn
+vpn-pick-a-recommended = Kies in oanrekommandearre lokaasje foar in flugge, stabile ferbining of kies hânmjittich de winske lokaasje en skeakelje dernei de skeakeler yn
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = Help nedich om te begjinnen?
+vpn-download-faq-here-are-some = Hjir folgje inkelde fan de meast stelde fragen oer it ynstellen fan { -brand-name-mozilla-vpn }
+vpn-download-faq-why-use = Wêrom soe ik { -brand-name-mozilla-vpn } brûke
