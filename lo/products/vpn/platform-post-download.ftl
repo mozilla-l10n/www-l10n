@@ -38,4 +38,8 @@ vpn-turn-on-vpn = 4. ເປີດ VPN
 ## FAQ Strings
 
 vpn-download-faq-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນການເລີ່ມຕົ້ນບໍ?
+vpn-download-faq-lastly = ສຸດທ້າຍ, ໃນອຸປະກອນທີ່ຮອງຮັບ, ທ່ານສາມາດເຮັດໃຫ້ VPN ສະຫຼາດຂຶ້ນໄດ້ໂດຍການຍົກເວັ້ນບາງແອັບ (ເຊັ່ນ: Netflix) ຈາກ VPN.
 vpn-download-faq-need-more = ຕ້ອງການຄວາມຊ່ວຍເຫຼືອອີກໜ້ອຍໜຶ່ງບໍ?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = ທ່ານ​ສາ​ມາດ​ຕິດ​ຕໍ່​ຫາ​ທີມ​ງານ​ສະ​ຫນັບ​ສະ​ຫນູນ​ຂອງ​ພວກ​ເຮົາ​ໄດ້​ທັນ​ທີ​ຈາກ​ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ { -brand-name-mozilla-vpn } ໂດຍ​ການ​ຄລິກ​ໃສ່​ການ​ຕັ້ງ​ຄ່າ​> ຂໍ​ຄວາມ​ຊ່ວຍ​ເຫຼືອ​> ຕິດ​ຕໍ່​ຫາ​ສະ​ຫນັບ​ສະ​ຫນູນ​. ທ່ານຍັງສາມາດຕິດຕໍ່ພວກເຮົາ <a href="{ $support }">ຢູ່ໜ້າຊ່ວຍເຫຼືອຂອງພວກເຮົາ</a>.
