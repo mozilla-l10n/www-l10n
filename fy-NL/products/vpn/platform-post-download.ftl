@@ -61,3 +61,9 @@ vpn-download-faq-adding-another = Noch in apparaat tafoegje is krekt sa ienfâld
 vpn-download-faq-best-practices = Wat binne inkelde beste praktiken foar VPN?
 vpn-download-faq-traffic = As it jo doel is om jo ynternetferkear te beskermjen en tagelyk in hege snelheid te behâlden, dan is it altyd it beste om in serverlokaasje te kiezen dy’t sa ticht mooglik by jo fysike lokaasje leit. Dit ferheget de betrouberheid en snelheid fan jo ferbining, omdat jo ynternetferkear gjin grutte omwei hoecht te meitsjen eardat it op de beëage bestimming op ynternet oankomt.
 vpn-download-faq-experience = As it jo doel is om ynternet te ûnderfinen as oft jo jo yn in oar part fan de wrâld binne, kinne jo dêr in serverlokaasje kieze, en alle websites dy’t jo besykje toand wurde as oft jo dêr binne.
+vpn-download-faq-protect = As jo josels noch mear beskermje wolle, kinne jo beskerming tsjin advertinsjes, advertinsjetrackers en malware aktivearje troch nei Ynstellingen > Privacyfunksjes te gean. Hâld der rekkening mei dat dit der ta liede kin dat guon websites net goed wurkje of net laden wurde, dus mooglik moatte jo dizze befeiligingen tydlik útskeakelje as jo dit probleem tsjinkomme.
+vpn-download-faq-lastly = Ta beslút kinne jo op ûndersteande apparaten de VPN noch tûker meitsjen troch bepaalde apps (byg. Netflix) út te sluten fan de VPN.
+vpn-download-faq-need-more = Noch wat mear help nedich?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Jo kinne streekrjocht fan de { -brand-name-mozilla-vpn }-tapassing út kontakt opnimme mei ús stipeteam troch te klikken op Ynstellingen > Help krije > Kontakt opnimme. Jo kinne ek kontakt mei ús opnimme <a href="{ $support }">op ús stipeside</a>.
