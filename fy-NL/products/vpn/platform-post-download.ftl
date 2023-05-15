@@ -50,3 +50,12 @@ vpn-download-faq-as-more-daily = Omdat mear fan it deistich libben fia ynternet 
 vpn-download-faq-concealing-ip = Ferbergjen fan jo wiere <a href="{ $ip }">IP-adres</a>. Dit helpt jo identiteit te beskermjen en jo lokaasje fertsjusteret foar de troch jo besochte websites.
 vpn-download-faq-encrypting = Jo ynternetferkear fersiferje: sadat gjinien op it net jo online aktiviteit bespionearje kin.
 vpn-download-faq-working = Hoe wit ik dat de VPN wurket?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } toant fisuele yndikatoaren fan de aktuele steat, sawol yn de arkbalke as yn it startskerm fan de tapassing, sadat jo maklik sjen kinne of jo online aktiviteiten beskerme binne of net. Mei dizze yndikatoaren kinne jo befêstigje oft jo navigaasje privee en feilich is. Boppedat kinne jo, wylst jo ferbûn binne, nei <a href="{ $monitor }">https://monitor.firefox.com/</a> gean om te befêstigjen oft jo IP-adres maskearre is. Gean foar mear details nei <a href="{ $connected }">Hoe kin ik sjen oft { -brand-name-mozilla-vpn } ferbûn is?</a>.
+vpn-download-faq-add-device = Hoe foegje ik noch in apparaat ta?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another = Noch in apparaat tafoegje is krekt sa ienfâldich as it downloaden en ynstallearjen fan de { -brand-name-mozilla-vpn }-software en dernei oanmelde by jo besteande { -brand-name-firefox }-account op it nije apparaat. Gean foar mear details nei <a href="{ $subscription }">Apparaten oan jo { -brand-name-mozilla-vpn }-abonnemint tafoegje</a>.
+vpn-download-faq-best-practices = Wat binne inkelde beste praktiken foar VPN?
