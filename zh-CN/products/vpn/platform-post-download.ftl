@@ -12,7 +12,7 @@
 vpn-windows-download-page-title = 下载 { -brand-name-windows } 版 { -brand-name-mozilla-vpn }
 vpn-windows-downloading-mozilla-vpn = 正在下载 { -brand-name-windows } 版 { -brand-name-mozilla-vpn }…
 vpn-windows-go-to-your-downloads = 打开下载文件夹并双击已下载的 .msi 文件
-vpn-windows-a-progress-bar = 即将出现进度条，并开始安装
+vpn-windows-a-progress-bar = 出现进度条并开始安装
 
 ## Mac download page
 
