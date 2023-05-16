@@ -19,6 +19,7 @@ vpn-windows-a-progress-bar = ແຖບຄວາມຄືບຫນ້າຈະປ
 vpn-mac-download-page-title = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = ກຳລັງດາວໂຫຼດ { -brand-name-mozilla-vpn } ສຳລັບ { -brand-name-mac-short }…
 vpn-mac-go-to-your-downloads = ໄປທີ່ໂຟນເດີການດາວໂຫຼດຂອງທ່ານ ແລະ ຄລິກສອງຄັ້ງທີ່ໄຟລ໌ .pkg
+vpn-mac-follow-the-steps = ປະຕິບັດຕາມຂັ້ນຕອນທີ່ລະບຸໄວ້ໃນຕົວຕິດຕັ້ງ { -brand-name-mozilla-vpn } ເພື່ອເລີ່ມຕົ້ນແອັບ
 
 ## Shared strings
 
@@ -38,6 +39,12 @@ vpn-turn-on-vpn = 4. ເປີດ VPN
 ## FAQ Strings
 
 vpn-download-faq-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນການເລີ່ມຕົ້ນບໍ?
+vpn-download-faq-here-are-some = ນີ້ແມ່ນບາງຄຳຖາມທົ່ວໄປທີ່ສຸດກ່ຽວກັບການຕັ້ງ { -brand-name-mozilla-vpn }
+vpn-download-faq-why-use = ເປັນຫຍັງຂ້ອຍຄວນໃຊ້ { -brand-name-mozilla-vpn }
+vpn-download-faq-encrypting = ການເຂົ້າລະຫັດການຈາລະຈອນອິນເຕີເນັດຂອງທ່ານ: ດັ່ງນັ້ນບໍ່ມີໃຜຢູ່ໃນສາຍສາມາດ spy ກ່ຽວກັບກິດຈະກໍາອອນໄລນ໌ຂອງທ່ານ.
+vpn-download-faq-working = ຂ້ອຍຈະຮູ້ໄດ້ແນວໃດວ່າ VPN ເຮັດວຽກຢູ່?
+vpn-download-faq-add-device = ຂ້ອຍຈະເພີ່ມອຸປະກອນອື່ນໄດ້ແນວໃດ?
+vpn-download-faq-best-practices = ການປະຕິບັດທີ່ດີທີ່ສຸດ VPN ແມ່ນຫຍັງ?
 vpn-download-faq-lastly = ສຸດທ້າຍ, ໃນອຸປະກອນທີ່ຮອງຮັບ, ທ່ານສາມາດເຮັດໃຫ້ VPN ສະຫຼາດຂຶ້ນໄດ້ໂດຍການຍົກເວັ້ນບາງແອັບ (ເຊັ່ນ: Netflix) ຈາກ VPN.
 vpn-download-faq-need-more = ຕ້ອງການຄວາມຊ່ວຍເຫຼືອອີກໜ້ອຍໜຶ່ງບໍ?
 # Variables

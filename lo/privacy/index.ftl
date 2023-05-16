@@ -15,6 +15,12 @@ privacy-index-for-product-support-requests = ສຳລັບຄຳຮ້ອງ�
 privacy-index-data-privacy-principles = ຫຼັກການຄວາມເປັນສ່ວນຕົວຂອງຂໍ້ມູນ
 privacy-index-transparency-report = ລາຍງານຄວາມໂປ່ງໃສ
 privacy-index-get-involved = ເຂົ້າມາມີສ່ວນຮ່ວມນຳກັນ!
+# Variables:
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
+privacy-index-to-review-and-comment-on-proposed = ເພື່ອທົບທວນ ແລະ ໃຫ້ຄຳເຫັນຕໍ່ການປ່ຽນແປງທີ່ສະເໜີຕໍ່ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງພວກເຮົາ, <a href="{ $group }"> ສະໝັກສະມາຊິກກຸ່ມບໍລິຫານຂອງ { -brand-name-mozilla }</a>.
+# Variables:
+#   $blog (url) - link to https://blog.mozilla.org/privacy/
+privacy-index-read-more-about-our-ongoing = ອ່ານ​ເພີ່ມ​ເຕີມ​ກ່ຽວ​ກັບ​ວຽກ​ງານ​ນະ​ໂຍ​ບາຍ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ ແລະ ​ຄວາມ​ປອດ​ໄພ​ຂອງ​ພວກ​ເຮົາ​ຢູ່​ໃນ <a href="{ $blog }"> { -brand-name-mozilla }'s Open Policy and Advocacy Blog</a>.
 privacy-index-outdated-policies = ນະໂຍບາຍທີ່ໝົດກຳນົດແລ້ວ
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } ເວັບໄຊທ໌, ການສື່ສານ ແລະ ຄຸກກີ້
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
