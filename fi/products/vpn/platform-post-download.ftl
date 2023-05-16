@@ -19,11 +19,17 @@ vpn-windows-a-progress-bar = Edistymispalkki ilmestyy näkyviin ja asennus alkaa
 vpn-mac-download-page-title = Lataa { -brand-name-mozilla-vpn } { -brand-name-mac-short }ille
 vpn-mac-downloading-mozilla-vpn = Ladataan { -brand-name-mozilla-vpn } { -brand-name-mac-short }ille…
 vpn-mac-go-to-your-downloads = Siirry latauskansioon ja kaksoisnapsauta .pkg-tiedostoa
+vpn-mac-follow-the-steps = Käynnistä sovellus seuraamalla { -brand-name-mozilla-vpn }:n asennusohjelman ohjeita.
 
 ## Shared strings
 
 vpn-download-unable-to-download = Ei voida ladata { -brand-name-mozilla-vpn }:ää
 vpn-download-not-in-country = Valitettavasti { -brand-name-mozilla-vpn } ei ole saatavilla maassasi.
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = { -brand-name-mozilla-vpn }:n lataus pitäisi alkaa automaattisesti. Jos näin ei tapahdu, <br> <a href="{ $url }" id="{ $id }">käynnistä lataus uudelleen</a> tai palaa valitsemaan latausta toista laitetta varten.
 vpn-open-the-file = 1. Avaa tiedosto
 vpn-launch-the-app = 2. Käynnistä sovellus
 vpn-login-or-signup = 3. Kirjaudu sisään tai rekisteröidy
