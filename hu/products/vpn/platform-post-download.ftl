@@ -57,8 +57,8 @@ vpn-download-faq-visual-indicators = A { -brand-name-mozilla-vpn } vizuális jel
 vpn-download-faq-add-device = Hogyan adhatok hozzá további eszközt?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Újabb eszköz hozzáadása olyan egyszerű, hogy letölti és telepíti a { -brand-name-mozilla-vpn } szoftvert, majd az új eszközön bejelentkezik a meglévő { -brand-name-firefox }-fiókjába. További részletekért lásd a <a href="{ $subscription }">Hogyan adjon eszközöket a { -brand-name-mozilla-vpn } előfizetéséhez</a> leírást.
-vpn-download-faq-best-practices = Mik a bevált VPN gyakorlatok?
+vpn-download-faq-adding-another = Egy újabb eszköz hozzáadása rendkívül egyszerű: töltse le és telepítse a { -brand-name-mozilla-vpn } szoftvert, majd az új eszközön jelentkezzen be a meglévő { -brand-name-firefox }-fiókjába. További részletekért lásd a <a href="{ $subscription }">Hogyan adjon eszközöket a { -brand-name-mozilla-vpn } előfizetéséhez</a> leírást.
+vpn-download-faq-best-practices = Mik a bevált gyakorlatok a VPN-nél?
 vpn-download-faq-traffic = Ha a cél az internetes forgalom védelme a nagy sebesség megtartása mellett, akkor mindig a legjobb, ha olyan kiszolgálót választana, amely a lehető legközelebb van a fizikai helyéhez. Ez növeli a kapcsolata megbízhatóságát és sebességét, mivel az internetes forgalmának nem kell jelentős kerülőt tennie, mielőtt megérkezik a rendeltetési helyéhez a weben.
 vpn-download-faq-experience = Ha a cél az, hogy megtapasztalja az internetet, mintha a világ más pontján lenne, akkor ott kiválaszthatja egy kiszolgáló helyét, és az összes felkeresett webhely úgy fog megjelenni, mintha ott lenne.
 vpn-download-faq-protect = Ha még jobban meg akarja védeni magát, akkor a Beállítások > Adatvédelmi funkciók alatt aktiválhatja a hirdetések, reklámkövetők és rosszindulatú programok elleni védelmet. Vegye figyelembe, hogy ez azt okozhatja, hogy egyes webhelyek nem fognak működni vagy nem fognak betöltődni, így lehet hogy ideiglenesen le kell kapcsolnia ezeket a védelmeket, ha ezzel a problémával találkozik.
