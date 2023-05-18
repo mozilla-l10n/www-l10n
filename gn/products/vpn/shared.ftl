@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = ¿Mba’épa IP kundaharape?
 vpn-subnav-when-to-use-a-vpn = Araka’épa eipurúta VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 vpn-subnav-subscribe = Eñemboheraguapy { -brand-name-mozilla-vpn } ndive
+vpn-subnav-learn-about-vpns = Eikuaave VPNs rehegua
+vpn-subnav-download-mozilla-vpn = Emboguejy { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
