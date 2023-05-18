@@ -42,3 +42,7 @@ vpn-download-faq-here-are-some = Ecco alcune delle domande più frequenti sulla 
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Nascondendo il tuo <a href="{ $ip }">indirizzo IP</a> reale. Questo aiuta a proteggere la tua identità e a nascondere la tua posizione ai siti web che visiti.
+vpn-download-faq-working = Come faccio a sapere se la VPN sta funzionando correttamente?
+vpn-download-faq-experience = Se il tuo obiettivo è vivere Internet come se ti trovassi in un’altra parte del mondo, puoi scegliere la posizione del server nel luogo desiderato e tutti i siti web che visiti verranno visualizzati come se fossi lì.
+vpn-download-faq-lastly = Infine, su dispositivi compatibili, puoi rendere la VPN ancora più intelligente escludendo alcune app (ad esempio Netflix) dalla VPN stessa.
+vpn-download-faq-need-more = Hai ancora bisogno di aiuto?
