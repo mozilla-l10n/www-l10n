@@ -7,6 +7,17 @@
 
 about-this-site-title = ກ່ຽວກັບເວັບໄຊນີ້
 about-this-site-desc = ກ່ຽວກັບເວັບໄຊທ໌ www.mozilla.org ແລະ ເຄື່ອງມືແຫຼ່ງເປີດນໍາໃຊ້ເພື່ອເຮັດໃຫ້ມັນ.
+# Variables:
+#   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
+#   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+about-this-site-this-website = ເວັບໄຊທ໌ www.mozilla.org ໄດ້ອອນໄລນ໌ເປັນເວລາຫຼາຍກວ່າສອງທົດສະວັດ. ນັ້ນແມ່ນຕັ້ງແຕ່ <a href="{ $archive }">ເວລາໄດໂນເສົາ</a> ໃນປີອິນເຕີເນັດ. ດັ່ງນັ້ນ, www.mozilla.org ເປັນຫີນແຈຂອງເວັບ, ໂດຍມີຮາກຝັງຢູ່ໃນການເຄື່ອນໄຫວແຫຼ່ງເປີດທີ່ເຫັນ <a href="{ $coderush }">ການສ້າງ { -brand-name-mozilla }</ a>.
+# Variables:
+#   $firefox (url) link to https://www.mozilla.org/firefox/new/
+#   $vpn (url) link to https://www.mozilla.org/products/vpn/
+#   $mozilla (url) link to https://www.mozilla.org/about/
+#   $book (url) link to https://www.mozilla.org/book/
+#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+about-this-site-today = ມື້ນີ້, ນີ້ແມ່ນເວັບໄຊທີ່ຄົນມາດາວໂຫຼດ <a href="{ $firefox }">{ -brand-name-firefox }</a>, ລອງ <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, ແລະ ຮຽນຮູ້ເພີ່ມເຕີມ <a href="{ $mozilla }">ກ່ຽວກັບ { -brand-name-mozilla }</a>. ທ່ານຍັງສາມາດຄົ້ນພົບ <a href="{ $book }">ໄຂ່ອີສເຕີ</a> ຈຳນວນໜຶ່ງໄດ້ຕາມທາງ.
 about-this-site-like-many = ເຊັ່ນດຽວກັນກັບຜະລິດຕະພັນຂອງພວກເຮົາຈໍານວນຫຼາຍ, ເວັບໄຊທ໌ນີ້ແມ່ນແຫຼ່ງເປີດ:
 about-this-site-view-source = ເບິ່ງລະຫັດແຫຼ່ງໃນ { -brand-name-github }
 about-this-site-report-a-bug = ລາຍງານຂໍ້ຜິດພາດ
