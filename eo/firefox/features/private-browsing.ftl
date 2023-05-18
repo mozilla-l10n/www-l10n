@@ -17,4 +17,4 @@ features-private-browsing-sharing-is-caring = Dividi estas bona ago, sed vi devu
 features-private-browsing-catch-those-hidden = Kaptu tiujn kaŝitajn spurilojn
 features-private-browsing-some-websites-and = Kelkaj retejoj kaj reklamoj aldonas kaŝitajn spurilojn, kiuj kolektas vian retuman informon longe post via foriro. Nur la privata retumo de { -brand-name-firefox } havas protekton kontraŭ spurado por bloki ilin aŭtomate.
 features-private-browsing-shake-off-tracking = Forskuu la pezon de la spurado
-features-private-browsing-not-only-do-trackers = Spuriloj ne nur kolektas informon, ili ankaŭ povas malrapidigi vian retumon. Nur la privata retumo de { -brand-name-firefox } blokas reklamojn kun kaŝitaj spuriloj, tiel ke vi povas abandoni ilin kaj libere retumi.
+features-private-browsing-not-only-do-trackers = Spuriloj ne nur kolektas informon, ili ankaŭ povas malrapidigi vian retumon. Nur la privata retumo de { -brand-name-firefox } blokas reklamojn kun kaŝitaj spuriloj, tiel ke vi povas ignori ilin kaj libere retumi.
