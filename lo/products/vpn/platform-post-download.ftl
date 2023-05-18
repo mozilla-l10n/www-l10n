@@ -35,12 +35,19 @@ vpn-launch-the-app = 2. ເປີດໃຊ້ແອັບ
 vpn-login-or-signup = 3. ເຂົ້າສູ່ລະບົບ ຫຼື ລົງທະບຽນ
 vpn-enter-your-email = ໃສ່ທີ່ຢູ່ອີເມວຂອງທ່ານເພື່ອເຂົ້າສູ່ລະບົບ ຫຼືລົງທະບຽນ ແລະ ເລີ່ມຕົ້ນ
 vpn-turn-on-vpn = 4. ເປີດ VPN
+vpn-pick-a-recommended = ເລືອກສະຖານທີ່ທີ່ແນະນຳສຳລັບການເຊື່ອມຕໍ່ທີ່ໄວ, ໝັ້ນຄົງ ຫຼື ເລືອກສະຖານທີ່ທີ່ທ່ານຕ້ອງການດ້ວຍຕົນເອງ, ຈາກນັ້ນສະຫຼັບປຸ່ມເປີດ
 
 ## FAQ Strings
 
 vpn-download-faq-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນການເລີ່ມຕົ້ນບໍ?
 vpn-download-faq-here-are-some = ນີ້ແມ່ນບາງຄຳຖາມທົ່ວໄປທີ່ສຸດກ່ຽວກັບການຕັ້ງ { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = ເປັນຫຍັງຂ້ອຍຄວນໃຊ້ { -brand-name-mozilla-vpn }
+# Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = ເມື່ອຊີວິດປະຈຳວັນເກີດຂຶ້ນຜ່ານອິນເຕີເນັດຫຼາຍຂຶ້ນ, ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພທາງອິນເຕີເນັດກໍຍິ່ງມີຄວາມສຳຄັນຫຼາຍຂຶ້ນ. VPN, <a href="{ $faq }">ເຄືອ​ຂ່າຍ​ເອ​ກະ​ຊົນ Virtual</a>, ສ້າງ​ອຸ​ໂມງ​ເຂົ້າ​ລະ​ຫັດ​ລະ​ຫວ່າງ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ ແລະ​ ອິນ​ເຕີ​ເນັດ, ການ​ຮັບ​ປະ​ກັນ​ການ​ເຊື່ອມ​ຕໍ່​ຂອງ​ທ່ານ​ຍັງ​ປອດ​ໄພ​ ແລະ ​ເປັນ​ສ່ວນ​ຕົວ​ໃນ​ຂະ​ນະ​ທີ່​ປົກ​ປ້ອງ​ທ່ານ​ໃນ​ສອງ​ວິ​ທີ​ທີ່​ສໍາ​ຄັນ​:
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = ການປິດບັງ <a href="{ $ip }">ທີ່ຢູ່ IP</a> ທີ່ແທ້ຈິງຂອງທ່ານ: ນີ້ຈະຊ່ວຍປົກປ້ອງຕົວຕົນຂອງທ່ານ ແລະ ປິດບັງສະຖານທີ່ຂອງທ່ານຈາກເວັບໄຊທີ່ທ່ານເຂົ້າເບິ່ງ.
 vpn-download-faq-encrypting = ການເຂົ້າລະຫັດການຈາລະຈອນອິນເຕີເນັດຂອງທ່ານ: ດັ່ງນັ້ນບໍ່ມີໃຜຢູ່ໃນສາຍສາມາດ spy ກ່ຽວກັບກິດຈະກໍາອອນໄລນ໌ຂອງທ່ານ.
 vpn-download-faq-working = ຂ້ອຍຈະຮູ້ໄດ້ແນວໃດວ່າ VPN ເຮັດວຽກຢູ່?
 vpn-download-faq-add-device = ຂ້ອຍຈະເພີ່ມອຸປະກອນອື່ນໄດ້ແນວໃດ?

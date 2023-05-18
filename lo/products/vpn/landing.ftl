@@ -29,11 +29,17 @@ vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } ແລ່ນຢູ
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } ແລ່ນຢູ່ໃນເຄືອຂ່າຍທົ່ວໂລກຂອງເຊີບເວີທີ່ຂັບເຄື່ອນໂດຍ <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. ໂດຍໃຊ້ໂປຣໂຕຄໍ <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, ພວກເຮົາເຂົ້າລະຫັດການເຄື່ອນໄຫວເຄືອຂ່າຍຂອງເຈົ້າ ແລະ ເຊື່ອງທີ່ຢູ່ IP ຂອງທ່ານ. ພວກເຮົາບໍ່ເຄີຍບັນທຶກ, ຕິດຕາມ, ຫຼືແບ່ງປັນຂໍ້ມູນເຄືອຂ່າຍຂອງທ່ານ.
 vpn-landing-brand-trust-heading = VPN ຈາກຍີ່ຫໍ້ທີ່ທ່ານສາມາດເຊື່ອຖືໄດ້
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = ເປັນເວລາຫຼາຍກວ່າ 20 ປີ, { -brand-name-mozilla } ມີບັນທຶກການຕິດຕາມການວາງຄົນທໍາອິດ ແລະ ຕໍ່ສູ້ເພື່ອຄວາມເປັນສ່ວນຕົວທາງອອນລາຍ. ສະຫນັບສະຫນູນໂດຍອົງການບໍ່ຫວັງຜົນກໍາໄລ, ພວກເຮົາມຸ່ງຫມັ້ນທີ່ຈະສ້າງອິນເຕີເນັດ ແລະ ສຸຂະພາບທີ່ດີກວ່າສໍາລັບທຸກຄົນ. ທຸກຢ່າງທີ່ພວກເຮົາເຮັດແມ່ນສ່ວນໜຶ່ງຂອງພາລະກິດຂອງພວກເຮົາ ແລະ ປະຕິບັດຕາມ <a href="{ $url }">ຫຼັກການ</a> ຂອງພວກເຮົາ.
 
 ## FAQ section
 
 vpn-landing-faq-heading = FAQs
 vpn-langing-faq-uses-question-heading = VPN ແມ່ນຫຍັງ ແລະ ມັນໃຊ້ຫຍັງແດ່?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = ເມື່ອຊີວິດປະຈຳວັນເກີດຂຶ້ນຜ່ານອິນເຕີເນັດຫຼາຍຂຶ້ນ, ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພທາງອິນເຕີເນັດກໍຍິ່ງມີຄວາມສຳຄັນຫຼາຍຂຶ້ນ. VPN, <a href="{ $url }">ເຄືອ​ຂ່າຍ​ເອ​ກະ​ຊົນ Virtual</a> ສາ​ມາດ​ຊ່ວຍ​ໃຫ້​ທ່ານ​ສ້າງ​ຄວາມ​ປອດ​ໄພ​, ການ​ເຊື່ອມ​ຕໍ່​ສ່ວນ​ຕົວ​ກັບ​ອິນ​ເຕີ​ເນັດ​ໄດ້​. ມັນເຮັດວຽກໂດຍການສ້າງ "tunnel" ລະຫວ່າງອຸປະກອນຂອງທ່ານ ແລະ ອິນເຕີເນັດຂະຫນາດໃຫຍ່, ແລະ ມັນປົກປ້ອງທ່ານໃນສອງວິທີທີ່ສໍາຄັນ:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = ການປິດບັງ <a href="{ $url }">ທີ່ຢູ່ IP</a> ທີ່ແທ້ຈິງຂອງທ່ານ. ອັນນີ້ປົກປ້ອງຕົວຕົນຂອງເຈົ້າ ແລະປິດບັງສະຖານທີ່ຂອງເຈົ້າ.
