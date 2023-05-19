@@ -35,6 +35,10 @@ vpn-launch-the-app = 2. გაუშვით პროგრამა
 vpn-login-or-signup = 3. შედით ან შექმენით ანგარიში
 vpn-enter-your-email = შეიყვანეთ თქვენი ელფოსტის მისამართი შესასვლელად ან ანგარიშის შექმნისთვის გამოყენების დასაწყებად
 vpn-turn-on-vpn = 4. ჩართეთ VPN
+vpn-pick-a-recommended = აირჩიეთ შემოთავაზებული მდებარეობა სწრაფი, მდგრადი კავშირისთვის ან აირჩიეთ სასურველი მდებარეობა ხელით, შემდეგ კი გადამრთველი დააყენეთ „ჩართულზე“
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = გჭირდებათ დახმარება დასაწყებად?
+vpn-download-faq-here-are-some = აქაა რამდენიმე ხშირად დასმული შეკითხვა, როგორ უნდა გაიმართოს { -brand-name-mozilla-vpn }
+vpn-download-faq-why-use = რატომ უნდა გამოვიყენო { -brand-name-mozilla-vpn }
