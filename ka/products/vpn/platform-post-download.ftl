@@ -42,3 +42,15 @@ vpn-pick-a-recommended = აირჩიეთ შემოთავაზებ
 vpn-download-faq-need-help = გჭირდებათ დახმარება დასაწყებად?
 vpn-download-faq-here-are-some = აქაა რამდენიმე ხშირად დასმული შეკითხვა, როგორ უნდა გაიმართოს { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = რატომ უნდა გამოვიყენო { -brand-name-mozilla-vpn }
+# Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = ყოველდღიური საქმიანობა რაც მეტად ინაცვლებს ინტერნეტში, მით მეტად მნიშვნელოვანი ხდება პირადი მონაცემების ხელშეუხებლობა და უსაფრთხოება ვებსივრცეში. VPN, <a href="{ $faq }">Virtual Private Network</a> ანუ „წარმოსახვითი კერძო ქსელი“ ქმნის დაშიფრულ გვირაბს თქვენს მოწყობილობებსა და ინტერნეტს შორის, რომ კავშირი დარჩეს შეუვალი და პირადი ორმაგი დაცვით:
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = თქვენი ნამდვილი <a href="{ $ip }">IP-მისამართის</a> დაფარვით: შედეგად, თქვენი ვინაობა და ადგილმდებარეობა გაურკვეველი დარჩება ვებსაიტებისთვის, რომელთაც ეწვევით.
+vpn-download-faq-encrypting = ინტერნეტით მიმოცვლილი მონაცემების დაშიფვრით: რომ ქსელში მყოფმა ვერცერთმა მსურველმა ვერ მიადევნოს თქვენს მოქმედებებს თვალყური.
+vpn-download-faq-working = როგორ გავიგო, რომ VPN მუშაობს?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } გამოიტანს გარეგნულ მაჩვენებლებს მისი მდგომარეობის შესახებ როგორც ხელსაწყოთა ზოლზე, ასევე პროგრამის მთავარ ეკრანზე, რომ ადვილად დაადგინოთ, თქვენი მოქმედებები ქსელში დაცულია თუ არა. ამ მაჩვენებლებით ზუსტად გეცოდინებათ, პირადულობის ხელშეუხებლად და უსაფრთხოდ გადაადგილდებით თუ არა. გარდა ამისა, როცა მიერთებული იქნებით, შეგიძლიათ ინახულოთ <a href="{ $monitor }">https://monitor.firefox.com/</a> და გაარკვიოთ, შენიღბულია თუ არა თქვენი IP-მისამართი. ვრცლად იხილეთ <a href="{ $connected }">როგორ დავადგინო, რომ { -brand-name-mozilla-vpn } დაკავშირებულია?</a>.
