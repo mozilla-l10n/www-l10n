@@ -25,4 +25,6 @@ vpn-linux-servers-headline = ເຊື່ອມຕໍ່ຫາ { $servers }+ ເ
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = ເຊື່ອມຕໍ່ໄດ້ເຖິງ { $devices } ອຸປະກອນ
 vpn-linux-speed-headline = ໄວສຸດທີ່ມີຂໍ້ມູນບໍ່ຈໍາກັດ
+vpn-linux-speed-copy = ຫຼິ້ນເກມ, ຖ່າຍທອດຮູບເງົາ ແລະ ລາຍການຕ່າງໆ, ແລະ ທ່ອງເວັບດ້ວຍຄວາມໄວສູງສຸດ ແລະ ບໍ່ຈຳກັດແບນວິດ — { -brand-name-mozilla-vpn } ແມ່ນບໍ່ຈຳກັດ.
 vpn-linux-log-headline = ຂໍ້ມູນຂອງທ່ານເປັນຂອງເຈົ້າ
+vpn-linux-log-copy = ບາງ VPNs ບັນທຶກການເຄື່ອນໄຫວຂອງທ່ານໃນເຊີບເວີຂອງພວກເຂົາ. { -brand-name-mozilla-vpn } ບໍ່ໄດ້ຕິດຕາມທ່ານອອນໄລນ໌ - ໃນຄວາມເປັນຈິງ, ນັ້ນແມ່ນສ່ວນໃຫຍ່ຂອງສິ່ງທີ່ພວກເຮົາຢືນຢູ່ໃນບໍລິສັດ.
