@@ -19,5 +19,6 @@ vpn-android-servers-headline = { $servers }+ сервераў у больш ч�
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Адна падпіска для { $devices } прылад
+vpn-android-log-headline = Без журналаў. Без сачэння. Без уварвання ў прыватнасць.
 # "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
 vpn-android-log-copy = Многія правайдары VPN рэгіструюць вашу дзейнасць на сваіх серверах. Мы так не робім. { -brand-name-mozilla-vpn } ніколі не асочвае вашу дзейнасць у інтэрнэце — гэта супярэчыць усяму, што мы адстойваем як кампанія. Мы ставім вашу прыватнасць і бяспеку вышэй за ўсё.
