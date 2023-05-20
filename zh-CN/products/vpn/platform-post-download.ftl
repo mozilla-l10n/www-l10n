@@ -25,6 +25,11 @@ vpn-mac-follow-the-steps = 根据 { -brand-name-mozilla-vpn } 安装程序中的
 
 vpn-download-unable-to-download = 无法下载 { -brand-name-mozilla-vpn }
 vpn-download-not-in-country = 抱歉，{ -brand-name-mozilla-vpn } 在您所处的国家/地区不可用。
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = { -brand-name-mozilla-vpn } 下载会自动开始。如果没有，请<br> <a href="{ $url }" id="{ $id }">重新尝试下载</a>，或使用另一台设备下载。
 vpn-open-the-file = 1. 打开文件
 vpn-launch-the-app = 2. 启动应用
 vpn-login-or-signup = 3. 登录或注册
@@ -35,6 +40,7 @@ vpn-pick-a-recommended = 选择一个推荐的服务器位置并打开 VPN 开�
 ## FAQ Strings
 
 vpn-download-faq-need-help = 需要帮助？
+vpn-download-faq-here-are-some = 以下是一些有关设置 { -brand-name-mozilla-vpn } 的最常见问题
 vpn-download-faq-why-use = 为什么要使用 { -brand-name-mozilla-vpn }
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
@@ -42,6 +48,7 @@ vpn-download-faq-as-more-daily = 随着互联网的普及，线上隐私和安�
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = 隐藏您的真实<a href="{ $ip }">IP 地址</a>，这有助于保护您的身份信息并向网站掩藏您的位置。
+vpn-download-faq-encrypting = 加密您的互联网流量：这样任何人都无法监视您的在线活动。
 vpn-download-faq-working = 如何知道 VPN 是否正常工作？
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
