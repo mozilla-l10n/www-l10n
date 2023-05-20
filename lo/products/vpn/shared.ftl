@@ -108,6 +108,10 @@ vpn-shared-platform-cta-headline = ມາເລີ່ມກັນເທາະ
 vpn-shared-platform-cta-button = ເບິ່ງລາຄາ & ສິ່ງທີ່ມີ
 vpn-shared-platform-privacy-promise = ຄວາມເປັນສ່ວນຕົວຂອງທ່ານແມ່ນສັນຍາຂອງພວກເຮົາ
 vpn-shared-platform-trust-partner-headline = ກ່ຽວກັບຄູ່ຮ່ວມງານທີ່ເຊື່ອຖືໄດ້ຂອງພວກເຮົາ
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } ເຮັດວຽກຢູ່ໃນເຄືອຂ່າຍທົ່ວໂລກຂອງເຊີບເວີທີ່ຂັບເຄື່ອນໂດຍ <a href="{ $policy }">{ -brand-name-mullvad }</a> ໂດຍໃຊ້ <a href=" { $wireguard }">{ -brand-name-wireguard }</a>® protocol. { -brand-name-mullvad } ວາງຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າໄວ້ກ່ອນ ແລະບໍ່ໄດ້ຮັກສາບັນທຶກປະເພດໃດໆ.
 vpn-shared-platform-what-youll-get = ສິ່ງທີ່ທ່ານຈະໄດ້ຮັບກັບ { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
@@ -130,6 +134,9 @@ vpn-subnav-download-mozilla-vpn = ດາວໂຫລດ { -brand-name-mozilla-vp
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = ພວກເຮົາໃຊ້ຄຸກກີ້ເພື່ອເຂົ້າໃຈວ່າຄູ່ຮ່ວມສາຂາໃດນໍາທ່ານໄປຫາ { -brand-name-mozilla-vpn }. ພວກເຮົາບໍ່ໄດ້ແບ່ງປັນຂໍ້ມູນການລະບຸຕົວຕົນສ່ວນຕົວກັບຄູ່ຮ່ວມງານຂອງພວກເຮົາ. ອ່ານ <a { $attrs }>ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</a> ຂອງພວກເຮົາ.
 vpn-shared-affiliate-notification-reject = ປະຕິເສດ
 vpn-shared-affiliate-notification-ok = ຕົກລົງ
 

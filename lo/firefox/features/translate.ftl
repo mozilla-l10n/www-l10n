@@ -15,6 +15,8 @@ features-translate-the-google-translate = The To { -brand-name-google } Translat
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = ອິນ​ເຕີ​ເນັດ​ເຕັມ​ໄປ​ດ້ວຍ​ສິ່ງ​ທີ່​ໜ້າ​ອັດ​ສະ​ຈັນ​ໃຈ, ແຕ່​ມັນ​ບໍ່​ໄດ້​ຂຽນ​ເປັນ​ພາ​ສາ​ອັງ​ກິດ — ເຮັດ​ໃຫ້​ຫລາຍ​ລ້ານ​ຄົນ​ໃນ​ທົ່ວ​ໂລກ​ຕ້ອງ​ການ​ຜູ້​ແປ​ເພື່ອ​ໃຊ້​ອິນ​ເຕີ​ເນັດ. ເຈົ້າສາມາດ <a { $attrs }>ດາວໂຫລດ { -brand-name-firefox } ໃນຫຼາຍກວ່າ 100 ພາສາ</a>, ດັ່ງນັ້ນເມນູ, ການແຈ້ງເຕືອນ ແລະຂໍ້ຄວາມໃນບຼາວເຊີຂອງເຈົ້າເປັນພາສາທີ່ທ່ານຕ້ອງການ, ແຕ່ນັ້ນບໍ່ໄດ້ແກ້ໄຂບັນຫາຂອງ ເນື້ອໃນທີ່ຫນ້າປະຫລາດໃຈທັງຫມົດທີ່ທ່ານໃຊ້ຕົວທ່ອງເວັບຂອງທ່ານເພື່ອຊອກຫາ.
 features-translate-firefox-translations = { -brand-name-firefox-translations }
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = ສ່ວນຂະຫຍາຍ <a { $attrs }>{ -brand-name-firefox-translations }</a> ສາມາດແປເນື້ອຫາຈາກໜ້າເວັບທີ່ທ່ານເຂົ້າເບິ່ງໄດ້ໂດຍອັດຕະໂນມັດ. ບໍ່ຄືກັບບາງທາງເລືອກທີ່ອີງໃສ່ຄລາວ, ສ່ວນຂະຫຍາຍນີ້ແປຂໍ້ຄວາມຢູ່ໃນທ້ອງຖິ່ນໃນ { -brand-name-firefox }, ດັ່ງນັ້ນເນື້ອຫາທີ່ທ່ານກໍາລັງແປບໍ່ໄດ້ອອກຈາກເຄື່ອງຂອງທ່ານ.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = ເອົາ { -brand-name-firefox-translations }
 features-translate-to-google-translate = ເພື່ອ { -brand-name-google } ແປພາສາ
