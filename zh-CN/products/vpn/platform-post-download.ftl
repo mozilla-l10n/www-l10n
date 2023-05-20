@@ -55,5 +55,9 @@ vpn-download-faq-working = 如何知道 VPN 是否正常工作？
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } 会在通知栏和应用主页中显示当前状态，让您轻松了解当前在线活动是否受到保护、网上浏览是否私密及安全。此外，在连接后，您可以访问 <a href="{ $monitor }">https://monitor.firefox.com/</a> 来确认您的 IP 地址是否已掩藏。有关详细信息，请参阅<a href="{ $connected }">如何判断 { -brand-name-mozilla-vpn } 是否已连接</a>。
 vpn-download-faq-add-device = 如何添加其他设备？
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another = 添加另一台设备非常简单，只需下载并安装 { -brand-name-mozilla-vpn } 软件，然后在新设备上登录您的 { -brand-name-firefox } 账户即可。有关详细信息，请参阅<a href="{ $subscription }">如何为 { -brand-name-mozilla-vpn } 订阅添加设备</a>。
+vpn-download-faq-best-practices = 什么是 VPN 最佳实践？
 vpn-download-faq-lastly = 最后，在可用设备上，您可以通过从 VPN 中排除某些应用程序（例如 Netflix）来使 VPN 更加智能。
 vpn-download-faq-need-more = 需要更多帮助？
