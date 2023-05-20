@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = Co je to IP adresa?
 vpn-subnav-when-to-use-a-vpn = Kdy používat síť VPN
 vpn-subnav-vpn-vs-proxy = Síť VPN vs. proxy server
 vpn-subnav-subscribe = Předplaťte si síť { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Další informace o sítích VPN
+vpn-subnav-download-mozilla-vpn = Stažení aplikace { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
