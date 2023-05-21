@@ -44,7 +44,7 @@ vpn-download-faq-here-are-some = აქაა რამდენიმე ხშ
 vpn-download-faq-why-use = რატომ უნდა გამოვიყენო { -brand-name-mozilla-vpn }
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
-vpn-download-faq-as-more-daily = ყოველდღიური საქმიანობა რაც მეტად ინაცვლებს ინტერნეტში, მით მეტად მნიშვნელოვანი ხდება პირადი მონაცემების ხელშეუხებლობა და უსაფრთხოება ვებსივრცეში. VPN, <a href="{ $faq }">Virtual Private Network</a> ანუ „წარმოსახვითი კერძო ქსელი“ ქმნის დაშიფრულ გვირაბს თქვენს მოწყობილობებსა და ინტერნეტს შორის, რომ კავშირი დარჩეს შეუვალი და პირადი ორმაგი დაცვით:
+vpn-download-faq-as-more-daily = ყოველდღიური საქმიანობა რაც მეტად ინაცვლებს ინტერნეტში, მით მეტად მნიშვნელოვანი ხდება პირადი მონაცემების ხელშეუხებლობა და უსაფრთხოება ვებსივრცეში. VPN, <a href="{ $faq }">Virtual Private Network</a>, ანუ „წარმოსახვითი კერძო ქსელი“ ქმნის დაშიფრულ გვირაბს თქვენს მოწყობილობებსა და ინტერნეტს შორის, რომ კავშირი დარჩეს შეუვალი და პირადი აღნიშნული ორი გზით:
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = თქვენი ნამდვილი <a href="{ $ip }">IP-მისამართის</a> დაფარვით: შედეგად, თქვენი ვინაობა და ადგილმდებარეობა გაურკვეველი დარჩება ვებსაიტებისთვის, რომელთაც ეწვევით.
@@ -55,3 +55,6 @@ vpn-download-faq-working = როგორ გავიგო, რომ VPN მ
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } გამოიტანს გარეგნულ მაჩვენებლებს მისი მდგომარეობის შესახებ როგორც ხელსაწყოთა ზოლზე, ასევე პროგრამის მთავარ ეკრანზე, რომ ადვილად დაადგინოთ, თქვენი მოქმედებები ქსელში დაცულია თუ არა. ამ მაჩვენებლებით ზუსტად გეცოდინებათ, პირადულობის ხელშეუხებლად და უსაფრთხოდ გადაადგილდებით თუ არა. გარდა ამისა, როცა მიერთებული იქნებით, შეგიძლიათ ინახულოთ <a href="{ $monitor }">https://monitor.firefox.com/</a> და გაარკვიოთ, შენიღბულია თუ არა თქვენი IP-მისამართი. ვრცლად იხილეთ <a href="{ $connected }">როგორ დავადგინო, რომ { -brand-name-mozilla-vpn } დაკავშირებულია?</a>.
 vpn-download-faq-add-device = როგორ დავამატო სხვა მოწყობილობა?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another = სხვა მოწყობილობის დამატება ისეთივე ადვილია, როგორიც { -brand-name-mozilla-vpn }-ის პროგრამული უზრუნველყოფის ჩამოტვირთვა და დაყენება, შემდეგ კი ახალ მოწყობილობაზე არსებული { -brand-name-firefox }-ანგარიშით შესვლა. ვრცლად იხილეთ <a href="{ $subscription }">როგორ უნდა დაემატოს მოწყობილობები თქვენს { -brand-name-mozilla-vpn }-გამოწერას</a>.
