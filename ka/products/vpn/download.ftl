@@ -36,3 +36,13 @@ vpn-download-for-ios-long-v2 = ჩამოტვირთეთ { -brand-name-m
 vpn-download-for-ios-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-ios }-ზე
 vpn-download-get-on-google-play = იხილეთ { -brand-name-google-play } Store
 vpn-download-get-on-app-store = იხილეთ { -brand-name-app-store }
+vpn-download-based-on-your = თქვენი მოწყობილობის მიხედვით
+vpn-download-get-mozilla-vpn = გამოიყენეთ { -brand-name-mozilla-vpn }
+vpn-download-privacy-you-can = პირადულობა, რომელსაც შეგიძლიათ ენდოთ
+vpn-download-also-available = ასევე ხელმისაწვდომი:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = { -brand-name-firefox }-ის შემქმნელისგან, { -brand-name-mozilla-vpn } იყენებს გაუმჯობესებულ <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }< /a>® ოქმს ინტერნეტში თქვენი საქმიანობის დასაშიფრად და თქვენი ადგილმდებარეობის დასაფარად.
+vpn-download-we-never-log = ჩვენ არასდროს არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ გავაზიარებთ თქვენი ქსელის მონაცემებს.
+vpn-download-previous-versions = ჩამოტვირთეთ ადრინდელი ვერსიები { -brand-name-windows }-სა და { -brand-name-mac-short }-ზე
