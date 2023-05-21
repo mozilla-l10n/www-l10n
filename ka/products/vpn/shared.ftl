@@ -55,7 +55,7 @@ vpn-shared-features-guarantee = 30-დღიანი ვადით თან�
 vpn-shared-refund-policy = ანაზღაურების დებულება
 vpn-shared-privacy-notice = პირადულობის განაცხადი
 vpn-shared-terms-conditions = პირობები და ვადები
-vpn-shared-wireguard-copyright = { -brand-name-wireguard } დარეგისტრებული სავაჭრო ნიშანია, ჯეისონ ა. დონენფილდის კუთვნილი
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } დარეგისტრებული სავაჭრო ნიშანია ჯეისონ ა. დონენფილდის საკუთრებაში
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = რა არის IP-მისამართ
 vpn-subnav-when-to-use-a-vpn = როდის გამოვიყენოთ VPN
 vpn-subnav-vpn-vs-proxy = VPN თუ პროქსი
 vpn-subnav-subscribe = გამოიწერეთ { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = ვრცლად VPN-ების შესახებ
+vpn-subnav-download-mozilla-vpn = ჩამოტვირთეთ { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 

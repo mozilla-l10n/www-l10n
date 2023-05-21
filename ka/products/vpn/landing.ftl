@@ -75,7 +75,7 @@ vpn-landing-faq-compatibility-question-heading = რომელ მოწყო
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
-vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } თავსებადია <a href="{ $mobile }">მობილურთან</a>, პლანშეტსა თუ <a href="{ $desktop }">კომპიუტერთან</a>, სისტემებზე:
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } თავსებადია <a href="{ $mobile }">მობილურთან</a>, პლანშეტსა თუ <a href="{ $desktop }">კომპიუტერთან</a> სისტემებზე:
 # Outdated string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } თავსებადი სისტემებია:
 # Variables:
@@ -128,7 +128,7 @@ vpn-landing-faq-refund-question-desc = თანხის დაბრუნე�
 vpn-landing-faq-manage-subscription-question-heading = როგორ ვმართო გამოწერილი მომსახურება?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
-vpn-landing-faq-manage-subscription-question-desc = თუ უკვე გამოწერილი გაქვთ { -brand-name-mozilla-vpn }, გეგმის შეცვლა ან <a href="{ $url }">გამოწერის მართვა</a> ნებისმიერ დროს შეგიძლიათ.
+vpn-landing-faq-manage-subscription-question-desc = თუ უკვე გამოწერილი გაქვთ { -brand-name-mozilla-vpn }, საგადასახადო გეგმის შეცვლა ან <a href="{ $url }">გამოწერის მართვა</a> ნებისმიერ დროს შეგიძლიათ.
 vpn-landing-faq-download-heading = როგორ ჩამოვტვირთო { -brand-name-mozilla-vpn }, თუ უკვე გამოწერილი მაქვს?
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
