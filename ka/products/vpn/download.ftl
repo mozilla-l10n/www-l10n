@@ -19,14 +19,20 @@ vpn-download-for-windows-v2 = VPN { -brand-name-windows }-ზე
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-ბიტიანზე მხოლოდ)
 vpn-download-for-windows-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-windows }-ზე
 vpn-download-for-mac = VPN { -brand-name-mac-short }-ზე
+vpn-download-for-mac-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-mac-short }-ზე
 # Variables:
 #   $version (number) - operating system version
 vpn-download-version-requirements = { $version } ვერსია და უფრო ახალი
 vpn-download-for-linux = VPN { -brand-name-linux }-ზე
+vpn-download-for-linux-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-linux }-ზე
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } და უფრო ახალი
 vpn-download-for-android = VPN { -brand-name-android }-ზე
+vpn-download-for-android-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-android }-ზე
 vpn-download-for-ios = VPN { -brand-name-ios }-ზე
+vpn-download-for-ios-long-v2 = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-ios }-ზე
+# Obsolete string
+vpn-download-for-ios-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-ios }-ზე
 vpn-download-get-on-google-play = იხილეთ { -brand-name-google-play } Store
 vpn-download-get-on-app-store = იხილეთ { -brand-name-app-store }
