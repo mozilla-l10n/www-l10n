@@ -53,7 +53,7 @@ vpn-landing-faq-info-question-heading = რა მონაცემებს �
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-faq-info-question-desc-v2 = ჩვენ მკაცრად მივყვებით { -brand-name-mozilla }-ს <a href="{ $principles }">მონაცემების პირადულობის დებულებებს</a> და ვაგროვებთ მხოლოდ იმ ინფორმაციას, რომელიც აუცილებელია VPN-ის გამართულად მუშაობისთვის და დროდადრო გასაუმჯობესებლად. ჩვენ, აგრეთვე თვალს ვადევნებთ სარეკლამო კამპანიას და მასთან დაკავშირებულ მონაცემებს, მობილური აპლიკაციით, რომ { -brand-name-mozilla }-მ შეძლოს გაწეული სამუშაოების სარგებლიანობის განსაზღვრა. ვრცლად იხილეთ <a href="{ $notice }">პირადულობის ჩვენი განაცხადი</a>.
+vpn-landing-faq-info-question-desc-v2 = ჩვენ მკაცრად მივყვებით { -brand-name-mozilla }-ს <a href="{ $principles }">მონაცემების პირადულობის დებულებებს</a> და ვაგროვებთ მხოლოდ იმ ინფორმაციას, რომელიც აუცილებელია VPN-ის გამართულად მუშაობისთვის და დროდადრო გასაუმჯობესებლად. ჩვენ, აგრეთვე თვალს ვადევნებთ სარეკლამო კამპანიას და მასთან დაკავშირებულ მონაცემებს ჩვენს მობილურ პროგრამაში, რომ { -brand-name-mozilla }-მ შეძლოს გაწეული სამუშაოების სარგებლიანობის განსაზღვრა. ვრცლად იხილეთ <a href="{ $notice }">პირადულობის ჩვენი განაცხადი</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
@@ -66,11 +66,11 @@ vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand
 vpn-landing-faq-competition-question-heading = რით გამოირჩევა { -brand-name-mozilla-vpn } მეტოქეებისგან?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc-v2 = მართალია უფასო VPN-ები მიმზიდველად გამოიყურება, თუმცა პირადულობაზე ისე არავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn }. ამასთანავე, სხვა VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a>, პირადი მონაცემების დაცვის საქმეში.
+vpn-landing-faq-competition-question-desc-v2 = მართალია უფასო VPN-ები მიმზიდველად გამოიყურება, თუმცა პირადულობაზე ისე არავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn }. ამასთანავე, სხვა VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a> პირადი მონაცემების დაცვის კუთხით.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc = მართალია უფასო VPN-ებიც არსებობს, რომლებიც მიმზიდველი ჩანს, თუმცა პირადულობაზე ისე ვერავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn } და შესაძლოა თქვენი მონაცემები აღირიცხოს ან გაიყიდოს. არც სხვა ფასიან VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a>, პირადი მონაცემების დაცვის საქმეში.
+vpn-landing-faq-competition-question-desc = მართალია უფასო VPN-ებიც არსებობს, რომლებიც მიმზიდველი ჩანს, თუმცა პირადულობაზე ისე ვერავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn } და შესაძლოა თქვენი მონაცემები აღირიცხოს ან გაიყიდოს. არც სხვა ფასიან VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a> პირადი მონაცემების დაცვის კუთხით.
 vpn-landing-faq-compatibility-question-heading = რომელ მოწყობილობებთანაა { -brand-name-mozilla-vpn } თავსებადი?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
