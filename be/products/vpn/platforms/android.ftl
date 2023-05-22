@@ -19,6 +19,7 @@ vpn-android-servers-headline = { $servers }+ сервераў у больш ч�
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Адна падпіска для { $devices } прылад
+vpn-android-speed-headline = Звышвысокая хуткасць. Неабмежаваныя дадзеныя.
 vpn-android-speed-copy = Гуляйце ў інтэрнэце, транслюйце фільмы і аглядайце сеціва на звышвысокіх хуткасцях на сваёй прыладзе { -brand-name-android } — усё з неабмежаванай прапускной здольнасцю.
 vpn-android-log-headline = Без журналаў. Без сачэння. Без уварвання ў прыватнасць.
 # "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
