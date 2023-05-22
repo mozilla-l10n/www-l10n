@@ -67,12 +67,9 @@ does-firefox-use = { -brand-name-firefox } იყენებს { -brand-name-g
 
 firefoxs-default-search = { -brand-name-google } ნაგულისხმევი საძიებო სისტემაა { -brand-name-firefox }-ში, რაც ნიშნავს, რომ მისით გვერდების მოძიება, პირდაპირ მისამართების ველიდან შეიძლება. <a href="{ $url }">იხილეთ ვრცლად საძიებოს სისტემის პარამეტრებისა და მისი ჩანაცვლების შესახებ.</a>
 does-firefox-have = { -brand-name-firefox }-ს მოჰყვება VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox }-ს არ მოჰყვება VPN (წარმოსახვითი კერძო ქსელი), თუმცა არის ორი პროდუქტი, რომელსაც ქმნის { -brand-name-mozilla }/{ -brand-name-firefox } და შეგიძლიათ დამატებით გამოიყენოთ პირად { -brand-name-firefox-browser(case: "add") } ერთად, რომ დაიცვათ ან თქვენი ბრაუზერის (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ან მოწყობილობის (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) WiFi-კავშირი, ისევე როგორც თქვენი IP-მისამართი.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox }-ს თან არ მოჰყვება VPN (წარმოსახვითი კერძო ქსელი), მაგრამ { -brand-name-mozilla } ცალკე ქმნის პროდუქტს, სახელწოდებით <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, რომელიც შეგიძლიათ გამოიყენოთ პირად { -brand-name-firefox-browser(case: "add") } ერთად და დაიცვათ როგორც თქვენი WiFi-კავშირი, აგრეთვე თქვენი IP-მისამართი.
 related-questions-ip = მსგავსი კითხვები: ფარავს { -brand-name-firefox } თქვენს IP-მისამართს
 who-owns-firefox = ვის ეკუთვნის { -brand-name-firefox }?
 
