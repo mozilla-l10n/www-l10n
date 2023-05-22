@@ -21,6 +21,10 @@ vpn-mac-downloading-mozilla-vpn = Descargando { -brand-name-mozilla-vpn } para {
 
 vpn-download-unable-to-download = No se pudo descargar { -brand-name-mozilla-vpn }
 vpn-download-not-in-country = Lo sentimos, { -brand-name-mozilla-vpn } no está disponible en tu país.
+vpn-open-the-file = 1. Abre el archivo
+vpn-launch-the-app = 2. Inicia la aplicación
+vpn-login-or-signup = 3. Conéctate o regístrate
+vpn-enter-your-email = Ingresa tu dirección de correo electrónico para conectarte o registrarte y empezar
 
 ## FAQ Strings
 
