@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -67,12 +67,9 @@ does-firefox-use = { -brand-name-firefox } 使用 { -brand-name-google } 产品�
 
 firefoxs-default-search = { -brand-name-google } 是 { -brand-name-firefox } 中的默认搜索引擎，即您可以直接从地址栏在网上搜索。可<a href="{ $url }">在此</a>详细了解搜索引擎首选项，以及如何更改默认设置。
 does-firefox-have = { -brand-name-firefox } 是否内置 VPN？
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
-
-firefox-does-not = { -brand-name-firefox } 并未内置 VPN （虚拟专用网络）的功能，但 { -brand-name-mozilla } / { -brand-name-firefox } 已推出另两款产品，可在 WI-FI 环境下，保护 { -brand-name-firefox-browser }（<a href="{ $url }">{ -brand-name-firefox-private-network }</a>）或设备（<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>）的隐私和 IP 地址。
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } 没有内置 VPN（虚拟专用网络），但 { -brand-name-mozilla } 有一个名为 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> 的产品，您可以在使用 { -brand-name-firefox-browser } 时用它来保护您的 WiFi 连接和 IP 地址。
 related-questions-ip = 相关问题：{ -brand-name-firefox } 能否隐藏您的 IP 地址
 who-owns-firefox = 谁掌舵着 { -brand-name-firefox }？
 
