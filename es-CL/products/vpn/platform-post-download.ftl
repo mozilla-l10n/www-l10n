@@ -25,9 +25,12 @@ vpn-open-the-file = 1. Abre el archivo
 vpn-launch-the-app = 2. Inicia la aplicación
 vpn-login-or-signup = 3. Conéctate o regístrate
 vpn-enter-your-email = Ingresa tu dirección de correo electrónico para conectarte o registrarte y empezar
+vpn-turn-on-vpn = 4. Activa el VPN
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = ¿Necesita ayuda para comenzar?
+vpn-download-faq-here-are-some = Estas son algunas de las preguntas más comunes acerca de configurar { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = ¿Por qué debería usar { -brand-name-mozilla-vpn }?
 vpn-download-faq-working = ¿Cómo sé que el VPN está funcionando?
 vpn-download-faq-need-more = ¿Necesitas un poco más de ayuda?
