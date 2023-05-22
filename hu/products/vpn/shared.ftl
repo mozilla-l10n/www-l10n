@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } beszerzése
 vpn-shared-waitlist-link = Csatlakozzon a várólistához
 vpn-shared-sign-in-link = Már előfizető?
 # Outdated string
-vpn-shared-available-countries-v4 = A { -brand-name-mozilla-vpn }-t jelenleg Ausztriában, Belgiumban, Kanadában, Franciaországban, Németországban, Írországban, Malajziában, Hollandiában, Új-Zélandon, Szingapúrban, Spanyolországban, Svájcban, az Egyesült Királyságban és az Amerikai Egyesült Államokban kínáljuk.
 vpn-shared-available-countries-v5 = A { -brand-name-mozilla-vpn }-t jelenleg Ausztriában, Belgiumban, Kanadában, Finnországban, Franciaországban, Németországban, Írországban, Malajziában, Hollandiában, Új-Zélandon, Szingapúrban, Spanyolországban, Svédországban, Svájcban, az Egyesült Királyságban és az Amerikai Egyesült Államokban kínáljuk.
+vpn-shared-available-countries-v6 = Jelenleg a { -brand-name-mozilla-vpn }-t Ausztriában, Belgiumban, Bulgáriában, Kanadában, Horvátországban, Cipruson, a Cseh Köztársaságban, Dániában, Észtországban, Finnországban, Franciaországban, Németországban, Magyarországon, Írországban, Olaszországban, Lettországban, Litvániában kínáljuk, Luxemburg, Malajzia, Málta, Hollandia, Új-Zéland, Lengyelország, Portugália, Románia, Szingapúr, Szlovénia, Szlovákia, Spanyolország, Svédország, Svájc, az Egyesült Királyság és az USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 napos pénzvisszafizetési garancia
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
