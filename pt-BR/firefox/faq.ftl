@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -67,12 +67,9 @@ does-firefox-use = O { -brand-name-firefox } usa o { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } é o mecanismo de pesquisa padrão no { -brand-name-firefox }, o que significa que você pode pesquisar na web diretamente na barra de endereços. <a href="{ $url }">Saiba mais sobre as preferências de mecanismos de pesquisa e como alterar a configuração padrão.</a>
 does-firefox-have = O { -brand-name-firefox } tem uma VPN integrada?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = O { -brand-name-firefox } não tem uma VPN (rede privada virtual) integrada, mas existem dois produtos feitos pela { -brand-name-mozilla }/{ -brand-name-firefox }, que você pode usar junto com o { -brand-name-firefox-browser } privativo, que podem proteger seu navegador (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ou a conexão do dispositivo em WiFi (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>), bem como seu endereço IP.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = O { -brand-name-firefox } não tem uma VPN integrada, mas a { -brand-name-mozilla } faz um produto chamado <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> que você pode usar junto com o { -brand-name-firefox-browser }, protegendo sua conexão WiFi, bem como seu endereço IP.
 related-questions-ip = Questões relacionadas: o { -brand-name-firefox } oculta seu endereço IP
 who-owns-firefox = A quem pertence o { -brand-name-firefox }?
 
