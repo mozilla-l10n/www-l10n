@@ -43,6 +43,6 @@ vpn-download-also-available = ასევე ხელმისაწვდო�
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-download-from-the-maker = { -brand-name-firefox }-ის შემქმნელისგან, { -brand-name-mozilla-vpn } იყენებს გაუმჯობესებულ <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }< /a>® ოქმს ინტერნეტში თქვენი საქმიანობის დასაშიფრად და თქვენი ადგილმდებარეობის დასაფარად.
+vpn-download-from-the-maker = { -brand-name-firefox }-ის შემქმნელისგან, { -brand-name-mozilla-vpn } იყენებს გაუმჯობესებულ <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ოქმს ინტერნეტში თქვენი საქმიანობის დასაშიფრად და თქვენი ადგილმდებარეობის დასაფარად.
 vpn-download-we-never-log = ჩვენ არასდროს არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ გავაზიარებთ თქვენი ქსელის მონაცემებს.
 vpn-download-previous-versions = ჩამოტვირთეთ ადრინდელი ვერსიები { -brand-name-windows }-სა და { -brand-name-mac-short }-ზე
