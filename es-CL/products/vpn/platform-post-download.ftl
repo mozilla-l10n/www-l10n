@@ -24,3 +24,6 @@ vpn-download-not-in-country = Lo sentimos, { -brand-name-mozilla-vpn } no está 
 
 ## FAQ Strings
 
+vpn-download-faq-why-use = ¿Por qué debería usar { -brand-name-mozilla-vpn }?
+vpn-download-faq-working = ¿Cómo sé que el VPN está funcionando?
+vpn-download-faq-need-more = ¿Necesitas un poco más de ayuda?
