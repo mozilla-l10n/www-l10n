@@ -50,3 +50,5 @@ firefox-products-join-firefox-and-get-the-most = เข้าร่วม { -bra
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = มีบัญชีอยู่แล้ว? <a { $fxa_attr }>ลงชื่อเข้า</a>หรือ<a { $accounts_attr }>เรียนรู้เพิ่มเติม</a>เกี่ยวกับการเข้าร่วม { -brand-name-firefox }
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = เบราว์เซอร์ที่เน้นเรื่องความเป็นส่วนตัวโดยเฉพาะซึ่งมาพร้อมการป้องกันการติดตามและการปิดกั้นโฆษณาอัตโนมัติ
