@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -67,12 +67,9 @@ does-firefox-use = Использует ли { -brand-name-firefox } { -brand-na
 
 firefoxs-default-search = { -brand-name-google } — поисковая система по умолчанию в { -brand-name-firefox }, что означает, что вы можете искать в Интернете прямо из адресной строки. <a href="{ $url }">Подробнее о настройке поисковой системы по умолчанию и её изменении</a>.
 does-firefox-have = Есть ли в { -brand-name-firefox } встроенный VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
-
-firefox-does-not = В { -brand-name-firefox } нет встроенной службы VPN (виртуальной частной сети), но существуют два продукта, созданные { -brand-name-mozilla }/{ -brand-name-firefox }, которыми вы можете воспользоваться в дополнение к приватному { -brand-name-firefox-browser(case: "dative") }, и которые могут защитить любой ваш браузер (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) или устройство (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>), подключенное к Wi-Fi, а также ваш IP-адрес.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } не имеет встроенного VPN (виртуальной частной сети), но { -brand-name-mozilla } создает продукт под названием <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, который вы можете использовать в дополнение к частному { -brand-name-firefox-browser }, который может защитить ваше соединение по WiFi, а также ваш IP-адрес.
 related-questions-ip = Связанные вопросы: скрывает ли { -brand-name-firefox } мой IP-адрес?
 who-owns-firefox = Кому принадлежит { -brand-name-firefox }?
 
