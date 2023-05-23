@@ -10,9 +10,9 @@ vpn-shared-waitlist-link = انضم إلى قائمة الانتظار
 vpn-shared-sign-in-link = هل أنت مشترك بالفعل؟
 
 # Outdated string
-vpn-shared-available-countries-v4 = نُوفّر مُتصفّح { -brand-name-mozilla-vpn } حاليًا في النمسا وبلجيكا وكندا وفرنسا وألمانيا وأيرلندا وإيطاليا وماليزيا وهولندا ونيوزيلندا وسنغافورة وإسبانيا وسويسرا والمملكة المتحدة والولايات المتحدة.
-
 vpn-shared-available-countries-v5 = نُوفّر مُتصفّح { -brand-name-mozilla-vpn } حاليًا في النمسا وبلجيكا وكندا وفنلندا وفرنسا وألمانيا وأيرلندا وإيطاليا وماليزيا وهولندا ونيوزيلندا وسنغافورة وإسبانيا والسويد وسويسرا والمملكة المتحدة والولايات المتحدة.
+
+vpn-shared-available-countries-v6 = نوفّر { -brand-name-mozilla-vpn } حاليًا في النمسا وبلجيكا وبلغاريا وكندا وكرواتيا وقبرص وجمهورية التشيك والدنمارك وإستونيا وفنلندا وفرنسا وألمانيا والمجر وأيرلندا وإيطاليا ولاتفيا وليتوانيا ولوكسمبورغ وماليزيا ومالطا وهولندا ونيوزيلندا وبولندا والبرتغال ورومانيا وسنغافورة وسلوفينيا وسلوفاكيا وإسبانيا والسويد وسويسرا والمملكة المتحدة والولايات المتحدة.
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = ضمان استرداد الأموال لمدة 30 يومًا
@@ -165,6 +165,8 @@ vpn-subnav-whats-an-ip-address = ما هو عنوان IP؟
 vpn-subnav-when-to-use-a-vpn = متى تستخدم VPN
 vpn-subnav-vpn-vs-proxy = VPN مقابل Proxy
 vpn-subnav-subscribe = اشترك في { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = تعرّف على المزيد عن شبكات VPN
+vpn-subnav-download-mozilla-vpn = تحميل { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
