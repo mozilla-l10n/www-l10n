@@ -67,12 +67,9 @@ does-firefox-use = A { -brand-name-firefox } a { -brand-name-google }-t használ
 
 firefoxs-default-search = A { -brand-name-google } az alapértelmezett keresőszolgáltatás a { -brand-name-firefox }ban, ami azt jelenti, hogy közvetlenül a címsávban kereshet a világhálón. <a href="{ $url }">Tudjon meg többet a keresőszolgáltatás-beállításokról és az alapértelmezések módosításáról.</a>
 does-firefox-have = A { -brand-name-firefox } rendelkezik beépített VPN-nel?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = A { -brand-name-firefox }ban nincs beépített VPN (virtuális magánhálózat), de van két { -brand-name-mozilla } / { -brand-name-firefox } termék, amellyel a privát { -brand-name-firefox-browser } mellett megvédheti a böngészője (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) vagy az eszköze (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) kapcsolatát WiFin, illetve elrejtheti az IP-címét.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = A { -brand-name-firefox } nem rendelkezik beépített VPN-nel (virtuális magánhálózattal), de a { -brand-name-mozilla } létrehozta a <a href="{ $url }">{ -brand-name-mozilla-vpn }-t</a>, amelyet a privát { -brand-name-firefox-browser } mellett használhat, és megvédi a WiFi-kapcsolatát, valamint az IP-címét is.
 related-questions-ip = Kapcsolódó kérdések: a { -brand-name-firefox } elrejti-e az IP-címét
 who-owns-firefox = Kié a { -brand-name-firefox }?
 
