@@ -43,3 +43,4 @@ privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } สำหรับ { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-hubs = { -brand-name-mozilla-hubs }
+privacy-index-mozilla-subscription-services = บริการสมัครสมาชิกของ { -brand-name-mozilla }
