@@ -67,12 +67,9 @@ does-firefox-use = An { -brand-name-firefox } usa { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } es le motor de recerca predefinite in { -brand-name-firefox }, isto significa que tu pote cercar le Web directemente del barra de adresse. <a href="{ $url }">Saper plus re preferentias del motor de recerca e cambiar le valores predefinite.</a>
 does-firefox-have = An { -brand-name-firefox } ha un VPN integrate?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = "{ -brand-name-firefox } non ha un VPN (rete virtual private) integrate, ma il ha duo productos producite per { -brand-name-mozilla }/{ -brand-name-firefox } que tu pote usar ultra al private { -brand-name-firefox-browser } que pote proteger sia tu navigator (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) sia le connexion wifi (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) de tu apparato, e tu adresse IP.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } non ha un VPN (rete virtual private) integrate, ma { -brand-name-mozilla } crea un producto appellate <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> que tu pote usar ultra al { -brand-name-firefox-browser } private, que pote proteger tu connexion sur wi-fi, e tu adresse IP.
 related-questions-ip = Questiones similar: { -brand-name-firefox } cela tu adresse IP?
 who-owns-firefox = Qui es proprietario de { -brand-name-firefox }?
 
