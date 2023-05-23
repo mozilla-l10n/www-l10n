@@ -38,6 +38,7 @@ vpn-download-for-linux-requirements = Ubuntu { $version } وأعلى
 vpn-download-for-android = VPN لـ { -brand-name-android }
 vpn-download-for-android-long = نزِّل { -brand-name-mozilla-vpn }<br> لنظام تشغيل { -brand-name-android }
 vpn-download-for-ios = VPN لـ { -brand-name-ios }
+vpn-download-for-ios-long-v2 = نزِّل { -brand-name-mozilla-vpn }<br> لنظام تشغيل { -brand-name-ios }
 
 # Obsolete string
 vpn-download-for-ios-long = نزّل VPN { -brand-name-mozilla-vpn } لـ { -brand-name-ios }
@@ -55,3 +56,4 @@ vpn-download-also-available = متوفر أيضًا لـ:
 vpn-download-from-the-maker = من صانع { -brand-name-firefox }، تستخدم { -brand-name-mozilla-vpn } بروتوكول <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® المتطوّر لتشفير نشاطك على الإنترنت وإخفاء مكانك.
 vpn-download-we-never-log = كما أننا لا نُسجِّل بياناتك المحفوظة على الشبكة ولا نتعقبها ولا نُشاركها<br />.
 
+vpn-download-previous-versions = حمّل الإصدارات السابقة لـ { -brand-name-windows } و { -brand-name-mac-short }
