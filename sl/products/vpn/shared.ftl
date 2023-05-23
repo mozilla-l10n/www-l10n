@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = Namestite { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Vpišite se na čakalni seznam
 vpn-shared-sign-in-link = Ste že naročnik?
 # Outdated string
-vpn-shared-available-countries-v4 = { -brand-name-mozilla-vpn } trenutno ponujamo v Avstriji, Belgiji, Franciji, na Irskem, v Italiji, Kanadi, Maleziji, Nemčiji, na Nizozemskem, Novi Zelandiji, v Singapurju, Španiji, Švici, ZDA in Združenem kraljestvu.
 vpn-shared-available-countries-v5 = { -brand-name-mozilla-vpn } trenutno ponujamo v Avstriji, Belgiji, na Finskem, v Franciji, na Irskem, v Italiji, Kanadi, Maleziji, Nemčiji, na Nizozemskem, Novi Zelandiji, v Singapurju, Španiji, na Švedskem, v Švici, ZDA in Združenem kraljestvu.
+vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } trenutno ponujamo v Avstriji, Belgiji, Bolgariji, na Cipru, Češkem, Danskem, v Estoniji, na Finskem, v Franciji, na Hrvaškem, Irskem, v Italiji, Kanadi, Latviji, Litvi, Luksemburgu, na Madžarskem, v Maleziji, na Malti, v Nemčiji, na Nizozemskem, Novi Zelandiji, Poljskem, Portugalskem, v Romuniji, Singapurju, na Slovaškem, v Sloveniji, Španiji, na Švedskem, v Švici, ZDA in Združenem kraljestvu.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnevno vračilo denarja
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -129,6 +129,8 @@ vpn-subnav-whats-an-ip-address = Kaj je naslov IP?
 vpn-subnav-when-to-use-a-vpn = Kdaj uporabiti VPN
 vpn-subnav-vpn-vs-proxy = VPN ali posredniški strežnik?
 vpn-subnav-subscribe = Naročite se na { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Preberite več o VPN-jih
+vpn-subnav-download-mozilla-vpn = Prenesite { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 

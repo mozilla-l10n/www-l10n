@@ -104,6 +104,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -bra
 vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (samo { -brand-name-ubuntu })
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (samo { -brand-name-ubuntu })
+vpn-landing-faq-refund-question-heading = Kakšna je politika { -brand-name-mozilla-vpn } glede vračil kupnine?
 # Outdated string
 vpn-landing-faq-refund-question-desc = You can get your money back within 30 days of purchasing your subscription. Contact us and submit the refund request by tapping the “Get Help” button in Settings on your { -brand-name-mozilla-vpn } app.
 vpn-landing-faq-manage-subscription-question-heading = Kako lahko upravljam svojo naročnino?

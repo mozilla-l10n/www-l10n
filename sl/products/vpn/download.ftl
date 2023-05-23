@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } in novejši
 vpn-download-for-android = VPN za { -brand-name-android }
 vpn-download-for-android-long = Prenesite { -brand-name-mozilla-vpn } za { -brand-name-android }
 vpn-download-for-ios = VPN za { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Prenesite { -brand-name-mozilla-vpn } za { -brand-name-ios }
+# Obsolete string
 vpn-download-for-ios-long = Prenesite VPN { -brand-name-mozilla-vpn } za { -brand-name-ios }
 vpn-download-get-on-google-play = Prenesite z { -brand-name-google-play }
 vpn-download-get-on-app-store = Prenesite z { -brand-name-app-store }
