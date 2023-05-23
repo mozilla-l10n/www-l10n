@@ -10,9 +10,9 @@ vpn-shared-waitlist-link = Der Warteliste beitreten
 vpn-shared-sign-in-link = Bereits Kunde?
 
 # Outdated string
-vpn-shared-available-countries-v4 = Derzeit bieten wir { -brand-name-mozilla-vpn } in Österreich, Belgien, Kanada, Frankreich, Deutschland, Irland, Italien, Malaysia, den Niederlanden, Neuseeland, Singapur, Spanien, der Schweiz, dem Vereinigten Königreich und den USA an.
-
 vpn-shared-available-countries-v5 = Derzeit bieten wir { -brand-name-mozilla-vpn } in Belgien, Deutschland, Finnland, Frankreich, Irland, Italien, Kanada, Malaysia, Neuseeland, den Niederlanden, Schweden, der Schweiz, Singapur, Spanien, dem Vereinigten Königreich, den USA und Österreich an.
+
+vpn-shared-available-countries-v6 = Derzeit bieten wir { -brand-name-mozilla-vpn } in Belgien, Bulgarien, Deutschland, Dänemark, Estland, Finnland, Frankreich, Irland, Italien, Kanada, Kroatien, Lettland, Litauen, Luxemburg, Malaysia, Malta, Neuseeland, den Niederlanden, Polen, Portugal, Rumänien, Schweden, der Schweiz, Singapur, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, den USA, dem Vereinigten Königreich, Zypern und Österreich an.
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 Tage Geld-zurück-Garantie
@@ -165,6 +165,8 @@ vpn-subnav-whats-an-ip-address = Was ist eine IP-Adresse?
 vpn-subnav-when-to-use-a-vpn = Wann Sie ein VPN verwenden sollten
 vpn-subnav-vpn-vs-proxy = VPN vs. Proxy
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } abonnieren
+vpn-subnav-learn-about-vpns = Mehr zum Thema VPNs
+vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } herunterladen
 
 ## VPN Affiliate cookie notice
 
