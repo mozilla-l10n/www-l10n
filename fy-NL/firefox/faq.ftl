@@ -67,12 +67,9 @@ does-firefox-use = Brûkt { -brand-name-firefox } { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } is de standertsykmasine yn { -brand-name-firefox }, wat betsjut dat jo it web streekrjocht fan de adresbalke út trochsykje kinne. <a href="{ $url }">Mear ynfo oer sykmasinefoarkarren en it wizigjen fan de standertynstellingen.</a>
 does-firefox-have = Hat { -brand-name-firefox } in ynboude VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } hat gjin ynboude VPN (virtual private network), mar der binne twa produkten dy’t makke binne troch { -brand-name-mozilla }/{ -brand-name-firefox } dy’t jo brûke kinne yn oanfolling op de privee { -brand-name-firefox-browser }, dy’t de ferbining fan jo browser (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) of jo apparaat (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) op wifi beskermje, krekt as jo IP-adres.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } hat gjin ynboude VPN (virtual private network), mar { -brand-name-mozilla } makket in produkt mei de namme (<a href="{ $url }">{ -brand-name-mozilla-vpn }</a>),  dat jo brûke kinne njonken de privee{ -brand-name-firefox-browser }en jo ferbining op wifi beskermje kin, krekt as jo IP-adres.
 related-questions-ip = Besibbe fragen: ferstoppet { -brand-name-firefox } jo IP-adres
 who-owns-firefox = Wa is de eigener fan { -brand-name-firefox }?
 
