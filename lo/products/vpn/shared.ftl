@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = ເອົາ { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = ເຂົ້າຮ່ວມບັນຊີລາຍຊື່ລໍຖ້າ
 vpn-shared-sign-in-link = ເປັນຜູ້ສະໝັກໃຊ້ບໍ?
 # Outdated string
-vpn-shared-available-countries-v4 = ໃນປັດຈຸບັນພວກເຮົາສະເຫນີໃຫ້ { -brand-name-mozilla-vpn } ໃນອອສເຕຍ, ແບນຊິກ, ການາດາ, ຝຣັ່ງ, ເຢຍລະມັນ, ໄອແລນ, ອີຕາລີ, ມາເລເຊຍ, ເນເທີແລນ, ນິວຊີແລນ, ສິງກະໂປ, ສະເປນ, ສະວິດເຊີແລນ, ອັງກິດ, ແລະ ສະຫະລັດ.
 vpn-shared-available-countries-v5 = ປະຈຸບັນພວກເຮົາສະເໜີໃຫ້ { -brand-name-mozilla-vpn } ໃນອອສເຕຍ, ແບນຊິກ, ການາດາ, ຟິນແລນ, ຝຣັ່ງ, ເຢຍລະມັນ, ໄອແລນ, ອີຕາລີ, ມາເລເຊຍ, ເນເທີແລນ, ນິວຊີແລນ, ສິງກະໂປ, ສະເປນ, ສວີເດນ, ສະວິດເຊີແລນ, ອັງກິດ, ແລະ ສະຫະລັດ.
+vpn-shared-available-countries-v6 = ໃນປັດຈຸບັນພວກເຮົາສະເຫນີ { -brand-name-mozilla-vpn } ໃນອອສເຕີຍ, ແບນຊິກ, Bulgaria, ການາດາ, Croatia, Cyprus, ສາທາລະນະລັດເຊັກ, ເດນມາກ, Estonia, ຟິນແລນ, ຝຣັ່ງ, ເຢຍລະມັນ, ຮັງກາຣີ, ໄອແລນ, ອິຕາລີ, ລັດເວຍ, ລິທົວເນຍ, Luxembourg, ມາເລເຊຍ, Malta, ເນເທີແລນ, ນິວຊີແລນ, ໂປແລນ, ປອກຕຸຍການ, ໂຣມາເນຍ, ສິງກະໂປ, ສະໂລເວເນຍ, ສະໂລວາເກຍ, ສະເປນ, ສວີເດນ, ສະວິດເຊີແລນ, ອັງກິດ, ແລະ ສະຫະລັດ.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = ຮັບປະກັນການຄືນເງິນ 30 ວັນ
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
