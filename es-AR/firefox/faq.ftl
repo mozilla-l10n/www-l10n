@@ -67,12 +67,9 @@ does-firefox-use = ¿{ -brand-name-firefox } usa { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } es el motor de búsqueda predeterminado en { -brand-name-firefox }, lo que significa que podés buscar en la web directamente desde la barra de direcciones. <a href="{ $url }">Conocer más sobre las preferencias del motor de búsqueda y cambiar los predeterminados.</a>
 does-firefox-have = ¿{ -brand-name-firefox } tiene una VPN integrada?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } no tiene un VPN integrado (red privada virtual), pero hay dos productos fabricados por { -brand-name-mozilla }/{ -brand-name-firefox } que podés usar además del { -brand-name-firefox-browser } que puede proteger el navegador (<a href="{ $url }"> { -brand-name-firefox-private-network }</a>) o la conexión del dispositivo (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) con WiFi, así como tu dirección IP.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } no tiene una VPN (red privada virtual) incorporada, pero { -brand-name-mozilla } crea un producto llamado <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> que podés usar además del { -brand-name-firefox-browser } privado que puede proteger tu conexión en WiFi, así como tu dirección IP.
 related-questions-ip = Preguntas relacionadas: ¿{ -brand-name-firefox } oculta tu IP?
 who-owns-firefox = ¿Quién es el dueño de { -brand-name-firefox }?
 
