@@ -67,12 +67,9 @@ does-firefox-use = Používa { -brand-name-firefox } vyhľadávač { -brand-name
 
 firefoxs-default-search = { -brand-name-google } je predvoleným vyhľadávacím nástrojom vo { -brand-name-firefox(case: "loc") }, čo znamená, že môžete vyhľadávať na webe priamo z panela s adresou. <a href="{ $url }">Ďalšie informácie o nastaveniach vyhľadávacieho nástroja a zmene predvolených nastavení.</a>
 does-firefox-have = Má { -brand-name-firefox } vstavanú sieť VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } nemá vstavanú VPN (virtuálnu súkromnú sieť), ale existujú dva produkty od { -brand-name-mozilla(case: "gen") }/{ -brand-name-firefox(case: "gen") }, ktoré môžete použiť spolu so súkromným { -brand-name-firefox-browser(case: "ins", capitalization: "lower") } a ktoré môžu chrániť buď pripojenie prehliadača (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) alebo zariadenia (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) k sieti Wi-Fi, ako aj vašu IP adresu.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } nemá vstavanú VPN (virtuálnu súkromnú sieť), ale { -brand-name-mozilla } vytvára produkt s názvom <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, ktorý môžete použiť ako doplnok k súkromnému { -brand-name-firefox-browser(case: "dat", capitalization: "lower") }, ktorý môže chrániť vaše pripojenie na WiFi, ako aj vašu IP adresu.
 related-questions-ip = Súvisiace otázky: skrýva { -brand-name-firefox } vašu IP adresu
 who-owns-firefox = Kto vlastní { -brand-name-firefox }?
 
