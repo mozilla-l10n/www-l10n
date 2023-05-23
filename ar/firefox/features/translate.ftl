@@ -17,14 +17,21 @@ features-translate-the-google-translate = يعمل ملحق "ترجمة { -brand
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = يعُج الإنترنت بأشياء مذهلة، لكن الكثير منها غير مكتوب باللغة الإنجليزية — مما يجعل مليارات الأشخاص حول العالم بحاجة إلى ترجمة لاستخدام الإنترنت فقط. ومع أنه يمكنك <a { $attrs }>تنزيل { -brand-name-firefox } بأكثر من 100 لغة</a>، لتتمكن من استخدام قوائمه وإشعاراته ورسائله بلغتك المفضلة، إلا أن هذا الأمر لا يحل مشكلة هذا الكم المُذهل من المحتوى الذي تستخدم متصفحك للبحث عنه.
 
+features-translate-firefox-translations = { -brand-name-firefox-translations }
 
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = يُمكن للملحق <a { $attrs }>{ -brand-name-firefox-translations }</a> ترجمة المحتوى من صفحات الويب التي تزورها بشكل تلقائي. على عكس بعض البدائل السحابية، يعمل هذا الملحق على ترجمة النص محليًا في { -brand-name-firefox }، ولذلك فإن المحتوى الذي تترجمه لا يُغادر جهازك.
 
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = نزِّل متصفح { -brand-name-firefox-translations }
 
 features-translate-to-google-translate = ترجمة { -brand-name-google }
 
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = يستخدم ملايين الأشخاص حول العالم ترجمة { -brand-name-google }، التي تضُم أكثر من 100 لغة*. لكن التنقل بين موقع translate.google.com والصفحة التي تحاول قراءتها ليس بالتجربة المثالية. أما مُلحق &quot;<a { $attrs }>ترجمة { -brand-name-google }</a>&quot;، فإنه يجعل ترجمة الصفحة التي تتصفحها أسهل من أي وقت مضى.
 
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = احصل على ترجمة { -brand-name-google }
 
 # Obsolete string
 features-translate-get-the-extension = نزِّل الملحق
