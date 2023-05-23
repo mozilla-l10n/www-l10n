@@ -437,3 +437,4 @@ newsletters-stay-informed-of-the-latest = Bleiben Sie über die neuesten Trends 
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = Holen Sie sich Neuigkeiten zu Sicherheit und Datenschutz und Produkt-Updates von { -brand-name-mozilla }, um über alles informiert zu werden, was das Internet zu einem gesünderen Ort macht.
 
+newsletters-opt-out-delay = Es kann 1–2 Arbeitstage dauern, bis Ihre Abmeldung bearbeitet wird. Bis dahin kann es sein, dass Sie eine weitere E-Mail erhalten.
