@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = Nhận { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Tham gia danh sách chờ
 vpn-shared-sign-in-link = Đã là một người đăng ký?
 # Outdated string
-vpn-shared-available-countries-v4 = Chúng tôi hiện cung cấp { -brand-name-mozilla-vpn } ở Áo, Bỉ, Canada, Pháp, Đức, Ireland, Ý, Malaysia, Hà Lan, New Zealand, Singapore, Tây Ban Nha, Thụy Sĩ, Vương quốc Anh và Hoa Kỳ.
 vpn-shared-available-countries-v5 = Chúng tôi hiện cung cấp { -brand-name-mozilla-vpn } ở Áo, Bỉ, Canada, Phần Lan, Pháp, Đức, Ireland, Ý, Malaysia, Hà Lan, New Zealand, Singapore, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Vương quốc Anh và Hoa Kỳ.
+vpn-shared-available-countries-v6 = Chúng tôi hiện đang cung cấp { -brand-name-mozilla-vpn } tại Áo, Bỉ, Bulgaria, Canada, Croatia, Síp, Cộng hòa Séc, Đan Mạch, Estonia, Phần Lan, Pháp, Đức, Hungary, Ireland, Ý, Latvia, Litva, Luxembourg, Malaysia, Malta, Hà Lan, New Zealand, Ba Lan, Bồ Đào Nha, Romania, Singapore, Slovenia, Slovakia, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Vương quốc Anh và Hoa Kỳ.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Đảm bảo hoàn tiền trong 30 ngày
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.

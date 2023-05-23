@@ -67,12 +67,9 @@ does-firefox-use = { -brand-name-firefox } có sử dụng { -brand-name-google 
 
 firefoxs-default-search = { -brand-name-google } là công cụ tìm kiếm mặc định trong { -brand-name-firefox }, có nghĩa là bạn có thể tìm kiếm trên web trực tiếp từ thanh địa chỉ. <a href="{ $url }">Tìm hiểu thêm về các tùy chọn công cụ tìm kiếm và thay đổi các giá trị mặc định.</a>
 does-firefox-have = { -brand-name-firefox } có VPN tích hợp sẵn không?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } không có VPN tích hợp sẵn (mạng riêng ảo), nhưng có hai sản phẩm của { -brand-name-mozilla }/{ -brand-name-firefox } mà bạn có thể sử dụng ngoài { -brand-name-firefox-browser } riêng tư có thể bảo vệ trình duyệt của bạn (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) hoặc kết nối thiết bị (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) trên WiFi, cũng như địa chỉ IP của bạn.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } không có VPN (mạng riêng ảo) tích hợp sẵn, nhưng { -brand-name-mozilla } đã tạo ra sản phẩm có tên <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> mà bạn có thể sử dụng ngoài { -brand-name-firefox-browser } riêng tư để có thể bảo vệ kết nối của bạn trên WiFi, cũng như địa chỉ IP của bạn.
 related-questions-ip = Câu hỏi liên quan: { -brand-name-firefox } có ẩn địa chỉ IP của bạn không
 who-owns-firefox = Ai sở hữu { -brand-name-firefox }?
 
