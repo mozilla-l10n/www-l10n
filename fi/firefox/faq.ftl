@@ -67,12 +67,9 @@ does-firefox-use = Käyttääkö { -brand-name-firefox } { -brand-name-google }a
 
 firefoxs-default-search = { -brand-name-google } on { -brand-name-firefox }in oletushakukone, mikä tarkoittaa, että voit tehdä hakuja verkosta suoraan osoitepalkista. <a href="{ $url }">Lisätietoja hakukoneasetuksista ja oletusasetusten muuttamisesta.</a>
 does-firefox-have = Onko { -brand-name-firefox }issa sisäänrakennettu VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox }issa ei ole sisäänrakennettua virtuaalista erillisverkkoa (VPN), mutta { -brand-name-mozilla }/{ -brand-name-firefox } tarjoaa kaksi erillistä tuotetta, jotka toimivat { -brand-name-firefox-browser }ta käyttäessä suojaten joko selaintasi (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) tai laitteesi (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) yhteyttä sekä piilottaen IP-osoitteesi.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox }issa ei ole sisäänrakennettua VPN:ää (virtuaalista erillisverkkoa), mutta { -brand-name-mozilla } tarjoaa tuotetta nimeltä <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>. { -brand-name-firefox-browser } ja sen kanssa VPN voivat suojata WiFi-yhteyksiäsi sekä IP-osoitettasi.
 related-questions-ip = Aiheeseen liittyviä kysymyksiä: piilottaako { -brand-name-firefox } IP-osoitteesi
 who-owns-firefox = Kuka omistaa { -brand-name-firefox }in?
 
