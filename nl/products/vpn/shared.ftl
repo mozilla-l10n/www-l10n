@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } downloaden
 vpn-shared-waitlist-link = Op de wachtlijst plaatsen
 vpn-shared-sign-in-link = Bent u al abonnee?
 # Outdated string
-vpn-shared-available-countries-v4 = We bieden { -brand-name-mozilla-vpn } momenteel aan in Oostenrijk, België, Canada, Frankrijk, Duitsland, Ierland, Italië, Maleisië, Nederland, Nieuw-Zeeland, Singapore, Spanje, Zwitserland, het VK en de VS.
 vpn-shared-available-countries-v5 = We bieden { -brand-name-mozilla-vpn } momenteel aan in Oostenrijk, België, Canada, Finland, Frankrijk, Duitsland, Ierland, Italië, Maleisië, Nederland, Nieuw-Zeeland, Singapore, Spanje, Zweden, Zwitserland, het VK en de VS.
+vpn-shared-available-countries-v6 = We bieden { -brand-name-mozilla-vpn } momenteel aan in Oostenrijk, België, Bulgarije, Canada, Kroatië, Cyprus, Tsjechië, Denemarken, Estland, Finland, Frankrijk, Duitsland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Maleisië, Malta, Nederland, Nieuw-Zeeland, Polen, Portugal, Roemenië, Singapore, Slovenië, Slowakije, Spanje, Zweden, Zwitserland, het VK en de VS.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dagen-geldteruggarantie
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
