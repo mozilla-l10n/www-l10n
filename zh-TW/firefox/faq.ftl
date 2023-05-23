@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -67,12 +67,9 @@ does-firefox-use = { -brand-name-firefox } 使用 { -brand-name-google } 產品�
 
 firefoxs-default-search = { -brand-name-firefox } 瀏覽器預設使用 { -brand-name-google } 搜尋引擎，代表您可以直接從網址列輸入關鍵字，使用 { -brand-name-google } 進行搜尋。<a href="{ $url }">可在此了解搜尋引擎偏好設定的相關資訊，以及要如何更改預設瀏覽器。</a>
 does-firefox-have = { -brand-name-firefox } 內建 VPN 嗎？
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
-
-firefox-does-not = { -brand-name-firefox } 並沒有內建 VPN （虛擬私人網路）的功能，但 { -brand-name-mozilla }/{ -brand-name-firefox } 有推出另兩套產品，讓您可以在使用 { -brand-name-firefox-browser }（<a href="{ $url }">{ -brand-name-firefox-private-network }</a>）或是使用裝置於 Wi-Fi 上網（<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>）時保護隱私與 IP 位置。
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } 沒有內建 VPN（虛擬私人網路），但 { -brand-name-mozilla } 有提供 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> 這套產品，讓您可以搭配能保護隱私的 { -brand-name-firefox-browser }使用，以保護您的 Wi-Fi 連線以及 IP 地址。
 related-questions-ip = 相關問題: { -brand-name-firefox } 會隱藏您的 IP 地址嗎？
 who-owns-firefox = 誰擁有 { -brand-name-firefox }？
 
