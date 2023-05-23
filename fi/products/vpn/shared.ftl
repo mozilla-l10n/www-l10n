@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = Hanki { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Liity odotuslistalle
 vpn-shared-sign-in-link = Oletko jo tilaaja?
 # Outdated string
-vpn-shared-available-countries-v4 = Tarjoamme tällä hetkellä { -brand-name-mozilla-vpn }:ää Alankomaissa, Belgiassa, Espanjassa, Irlannissa, Isossa-Britanniassa, Italiassa, Itävallassa, Kanadassa, Malesiassa, Ranskassa, Saksassa, Ruotsissa, Singaporessa, Sveitsissä, Uudessa-Seelannissa ja Yhdysvalloissa.
 vpn-shared-available-countries-v5 = Tarjoamme tällä hetkellä { -brand-name-mozilla-vpn }:ää Alankomaissa, Belgiassa, Espanjassa, Irlannissa, Isossa-Britanniassa, Italiassa, Itävallassa, Kanadassa, Malesiassa, Ranskassa, Saksassa, Ruotsissa, Singaporessa, Suomessa, Sveitsissä, Uudessa-Seelannissa ja Yhdysvalloissa.
+vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } on tällä hetkellä saatavilla Alankomaissa, Belgiassa, Bulgariassa, Espanjassa, Irlannissa, Iso-Britanniassa, Italiassa, Itävallassa, Kanadassa, Kroatiassa, Kyproksella, Latviassa, Liettuassa, Luxemburgissa, Malesiassa, Maltalla, Puolassa, Portugalissa, Ranskassa, Ruotsissa, Romaniassa, Saksassa, Singaporessa, Sloveniassa, Slovakiassa, Suomessa, Sveitsissä, Tanskassa, Tšekissä, Uudessa-Seelannissa, Unkarissa, Virossa ja Yhdysvalloissa.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 päivän rahat takaisin -takuu
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
