@@ -80,10 +80,8 @@ firefoxs-default-search = { -brand-name-google } ليس محرك البحث ال
 does-firefox-have = هل لدى { -brand-name-firefox } VPN مدمج؟
 
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } ليس به VPN (شبكة افتراضية خاصة) مُدمج، ولكن هناك منتجان من صنع { -brand-name-mozilla }/{ -brand-name-firefox } يمكنك استخدامهما إضافة إلى { -brand-name-firefox-browser } الخاص الذي يُمكن أن يحمي إما متصفّحك (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) أو اتصال الجهاز (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) على الشبكة اللاسلكية وأيضًا عنوان IP.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = لا يحتوي { -brand-name-firefox } على VPN (شبكة افتراضية خاصة) مدمجة، ولكن { -brand-name-mozilla } تُقدّم منتجًا يُسمى <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> ويمكنك استخدامه بالإضافة إلى { -brand-name-firefox-browser } الخاص الذي يمكنه حماية اتصالك على شبكة WiFi، بالإضافة إلى عنوان IP الخاص بك.
 
 related-questions-ip = الأسئلة المتعلقة: هل يُخفي { -brand-name-firefox } عنوان IP الخاص بك
 
