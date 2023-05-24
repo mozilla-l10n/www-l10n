@@ -38,6 +38,7 @@ vpn-download-for-linux-requirements = Ubuntu { $version } et plus
 vpn-download-for-android = VPN pour { -brand-name-android }
 vpn-download-for-android-long = Téléchargez { -brand-name-mozilla-vpn } pour { -brand-name-android }
 vpn-download-for-ios = VPN pour { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Téléchargez { -brand-name-mozilla-vpn } pour { -brand-name-ios }
 
 # Obsolete string
 vpn-download-for-ios-long = Télécharger le VPN { -brand-name-mozilla-vpn } pour { -brand-name-ios }
@@ -55,3 +56,4 @@ vpn-download-also-available = Également disponible pour :
 vpn-download-from-the-maker = Développé par les créateurs de { -brand-name-firefox }, { -brand-name-mozilla-vpn } utilise le protocole de pointe <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® pour chiffrer vos activités en ligne et masquer votre localisation.
 vpn-download-we-never-log = Jamais nous n’enregistrons, ne suivons ni ne partageons les données échangées via votre réseau.
 
+vpn-download-previous-versions = Télécharger les versions précédentes pour { -brand-name-windows } et { -brand-name-mac-short }

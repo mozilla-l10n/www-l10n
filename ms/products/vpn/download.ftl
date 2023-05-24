@@ -38,6 +38,7 @@ vpn-download-for-linux-requirements = Ubuntu { $version } dan ke atas
 vpn-download-for-android = VPN untuk { -brand-name-android }
 vpn-download-for-android-long = Muat turun { -brand-name-mozilla-vpn } untuk { -brand-name-android }
 vpn-download-for-ios = VPN untuk { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Muat turun { -brand-name-mozilla-vpn } untuk { -brand-name-ios }
 
 # Obsolete string
 vpn-download-for-ios-long = Muat turun { -brand-name-mozilla-vpn } VPN untuk { -brand-name-ios }
@@ -55,3 +56,4 @@ vpn-download-also-available = Juga boleh didapati untuk:
 vpn-download-from-the-maker = Daripada pembangun { -brand-name-firefox }, { -brand-name-mozilla-vpn } menggunakan protokol termaju bergelar <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® untuk mengenkripsi aktiviti dalam talian dan menyembunyikan lokasi anda.
 vpn-download-we-never-log = Kami tidak merekod, menjejak atau berkongsi data rangkaian anda.
 
+vpn-download-previous-versions = Muat turun versi sebelumnya untuk { -brand-name-windows } dan { -brand-name-mac-short }
