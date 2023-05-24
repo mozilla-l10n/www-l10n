@@ -100,6 +100,7 @@ vpn-landing-faq-link = Diğer SSS'ler
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Bekleme listesine katılın: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = { -brand-name-mozilla-vpn } bölgenizde kullanılabilir hale gelince size haber verelim.
 # Outdated string
 vpn-landing-invite-page-desc = { -brand-name-mozilla-vpn } cihazınızda ve bölgenizde kullanılabilir hale gelince size haber verelim.
 vpn-landing-invite-page-heading = VPN bekleme listesine katılın
