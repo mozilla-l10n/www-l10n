@@ -17,14 +17,21 @@ features-translate-the-google-translate = { -brand-name-firefox } 用の拡張�
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = インターネットは素晴らしいコンテンツでいっぱいですが、日本語で書かれているものばかりでなく、世界の数十億という人がインターネットを使うためだけに翻訳者を必要としています。<a { $attrs }>{ -brand-name-firefox } は 100 か国語以上でダウンロード</a>できるため、ブラウザーのメニューや通知、メッセージはお好みの言語で表示されます。それでも、ブラウザーで検索できる素晴らしいコンテンツを読めないという問題は解決できません。
 
+features-translate-firefox-translations = { -brand-name-firefox-translations }
 
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations } 拡張機能</a>は、アクセスした Web ページのコンテンツを自動的に翻訳できます。一部のクラウドベースの代替製品とは異なり、この拡張機能はテキストを { -brand-name-firefox } 内でローカルに翻訳するので、翻訳しているコンテンツがコンピューターから発信されることはありません。
 
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = { -brand-name-firefox-translations } をダウンロード
 
 features-translate-to-google-translate = To { -brand-name-google } Translate
 
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = To { -brand-name-google } Translate は、100 か国語以上*に対応し、世界中で数百万人のユーザーに利用されています。ただ、読みたいページと translate.google.com を行き来することは、快適とはいえません。拡張機能「<a { $attrs }>To { -brand-name-google } Translate</a>」なら、閲覧しているページの翻訳がもっと簡単になります。
 
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = To { -brand-name-google } Translate をダウンロード
 
 # Obsolete string
 features-translate-get-the-extension = 拡張機能をインストール
