@@ -10,9 +10,9 @@ vpn-shared-waitlist-link = Sertai Senarai Menunggu
 vpn-shared-sign-in-link = Sudah melanggan?
 
 # Outdated string
-vpn-shared-available-countries-v4 = Kami kini menawarkan { -brand-name-mozilla-vpn } di Austria, Belgium, Kanada, Perancis, Jerman, Ireland, Itali, Malaysia, Belanda, New Zealand, Singapura, Sepanyol, Switzerland, UK, dan AS.
-
 vpn-shared-available-countries-v5 = Pada ketika ini, kami menawarkan { -brand-name-mozilla-vpn } di Austria, Belgium, Kanada, Finland, Perancis, Jerman, Ireland, Itali, Malaysia, Belanda, New Zealand, Singapura, Sepanyol, Sweden, Switzerland, UK dan AS.
+
+vpn-shared-available-countries-v6 = Kami menawarkan { -brand-name-mozilla-vpn } di Austria, Belgium, Bulgaria, Kanada, Croatia, Cyprus, Republik Czech, Denmark, Estonia, Finland, Perancis, Jerman, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Netherlands, New Zealand, Poland, Portugal, Romania, Singapura, Slovenia, Slovakia, Spain, Sweden, Switzerland, UK dan AS.
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Jaminan wang dikembalikan dalam masa 30 hari
@@ -165,6 +165,8 @@ vpn-subnav-whats-an-ip-address = Apa itu alamat IP?
 vpn-subnav-when-to-use-a-vpn = Bila perlu menggunakan VPN?
 vpn-subnav-vpn-vs-proxy = VPN lwn Proksi
 vpn-subnav-subscribe = Langgani { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Ketahui tentang VPN
+vpn-subnav-download-mozilla-vpn = Muat turun { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
