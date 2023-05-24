@@ -35,6 +35,10 @@ vpn-launch-the-app = 2. Покрените апликацију
 vpn-login-or-signup = 3. Пријавите се или се региструјте
 vpn-enter-your-email = Унесите вашу адресу е-поште да се пријавите или региструјете и почнете
 vpn-turn-on-vpn = 4. Укључите VPN
+vpn-pick-a-recommended = Изаберите препоручену локацију за брзу, стабилну везу или ручно изаберите жељену локацију, а затим укључите прекидач
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = Треба ли вам помоћ?
+vpn-download-faq-here-are-some = Ево неких од најчешћих питања о подешавању { -brand-name-mozilla-vpn }-а
+vpn-download-faq-why-use = Зашто да користим { -brand-name-mozilla-vpn }
