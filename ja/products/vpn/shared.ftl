@@ -10,9 +10,9 @@ vpn-shared-waitlist-link = ウェイトリストに登録
 vpn-shared-sign-in-link = 既にサブスクリプションをご契約の場合
 
 # Outdated string
-vpn-shared-available-countries-v4 = 現在、{ -brand-name-mozilla-vpn } はアイルランド、イタリア、オーストリア、オランダ、カナダ、シンガポール、スイス、スペイン、ドイツ、ニュージーランド、フランス、ベルギー、マレーシア、英国、米国で提供しています。
-
 vpn-shared-available-countries-v5 = 現在、{ -brand-name-mozilla-vpn } はアイルランド、イタリア、オーストリア、オランダ、カナダ、シンガポール、スイス、スウェーデン、スペイン、ドイツ、ニュージーランド、フィンランド、フランス、ベルギー、マレーシア、英国、米国で提供しています。
+
+vpn-shared-available-countries-v6 = 現在 { -brand-name-mozilla-vpn } を提供している国は、オーストリア、ベルギー、ブルガリア、カナダ、クロアチア、キプロス、チェコ共和国、デンマーク、エストニア、フィンランド、フランス、ドイツ、ハンガリー、アイルランド、イタリア、ラトビア、リトアニア、ルクセンブルク、マレーシア、マルタ、オランダ、ニュージーランド、ポーランド、ポルトガル、ルーマニア、シンガポール、スロベニア、スロバキア、スペイン、スウェーデン、スイス、英国、米国です。
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 日間の返金保証
@@ -165,6 +165,8 @@ vpn-subnav-whats-an-ip-address = IP アドレスとは？
 vpn-subnav-when-to-use-a-vpn = VPN を使うべき場面
 vpn-subnav-vpn-vs-proxy = VPN とプロキシの比較
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } をサブスクライブ
+vpn-subnav-learn-about-vpns = VPN の詳細を見る
+vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } をダウンロード
 
 ## VPN Affiliate cookie notice
 
