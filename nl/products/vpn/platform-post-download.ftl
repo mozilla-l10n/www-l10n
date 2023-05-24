@@ -57,7 +57,7 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } toont visuele i
 vpn-download-faq-add-device = Hoe voeg ik nog een apparaat toe?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Nog een apparaat toevoegen is net zo eenvoudig als het downloaden en installeren van de { -brand-name-mozilla-vpn }-software en vervolgens aanmelden bij uw bestaande { -brand-name-firefox }-account op het nieuwe apparaat. Ga voor meer details naar <a href="{ $subscription }">Apparaten aan uw { -brand-name-mozilla-vpn }-abonnement toevoegen</a>.
+vpn-download-faq-adding-another = Nog een apparaat toevoegen is net zo eenvoudig als het downloaden en installeren van de { -brand-name-mozilla-vpn }-software en vervolgens aanmelden bij uw bestaande { -brand-name-firefox-account } op het nieuwe apparaat. Ga voor meer details naar <a href="{ $subscription }">Apparaten aan uw { -brand-name-mozilla-vpn }-abonnement toevoegen</a>.
 vpn-download-faq-best-practices = Wat zijn enkele beste praktijken voor VPN?
 vpn-download-faq-traffic = Als het uw doel is om uw internetverkeer te beschermen en tegelijkertijd een hoge snelheid te behouden, dan is het altijd het beste om een serverlocatie te kiezen die zo dicht mogelijk bij uw fysieke locatie ligt. Dit verhoogt de betrouwbaarheid en snelheid van uw verbinding, aangezien uw internetverkeer geen grote omweg hoeft te maken voordat het op de beoogde bestemming op internet aankomt.
 vpn-download-faq-experience = Als het uw doel is om internet te ervaren alsof u zich in een ander deel van de wereld bevindt, kunt u daar een serverlocatie kiezen, en alle websites die u bezoekt worden getoond alsof u daar bent.
