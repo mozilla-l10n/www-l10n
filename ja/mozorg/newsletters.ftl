@@ -437,3 +437,4 @@ newsletters-stay-informed-of-the-latest = { -brand-name-firefox } を開発し�
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = { -brand-name-mozilla } からセキュリティとプライバシーのニュースや製品情報を受け取って、ウェブをより健全な場所にするものについて情報を入手しましょう。
 
+newsletters-opt-out-delay = オプトアウトリクエストの処理には 1~2 営業日かかる場合があり、その間に別のメールが届く場合があります。

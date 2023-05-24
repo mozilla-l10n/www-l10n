@@ -437,3 +437,4 @@ newsletters-stay-informed-of-the-latest = Dapatkan selalu informasi tentang tren
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = Dapatkan berita keamanan dan privasi serta pembaruan produk dari { -brand-name-mozilla } agar tetap aman dan mendapatkan informasi tentang segala hal yang menjadikan web tempat yang lebih sehat.
 
+newsletters-opt-out-delay = Perlu waktu 1-2 hari kerja untuk memproses permintaan pembatalan Anda, selama itu Anda mungkin masih menerima email lain.
