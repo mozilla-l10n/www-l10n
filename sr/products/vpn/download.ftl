@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } и новије
 vpn-download-for-android = VPN за { -brand-name-android }
 vpn-download-for-android-long = Преузмите { -brand-name-mozilla-vpn } за { -brand-name-android }
 vpn-download-for-ios = VPN за { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Преузмите { -brand-name-mozilla-vpn } за { -brand-name-ios }
+# Obsolete string
 vpn-download-for-ios-long = Преузмите VPN { -brand-name-mozilla-vpn } за { -brand-name-ios }
 vpn-download-get-on-google-play = Преузмите на { -brand-name-google-play } Store-у
 vpn-download-get-on-app-store = Преузмите на { -brand-name-app-store }-у
