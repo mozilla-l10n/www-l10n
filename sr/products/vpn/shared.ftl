@@ -11,6 +11,7 @@ vpn-shared-waitlist-link = Придружите се листи чекања
 vpn-shared-sign-in-link = Већ сте претплаћени?
 # Outdated string
 vpn-shared-available-countries-v5 = Тренутно нудимо { -brand-name-mozilla-vpn } у Аустрији, Белгији, Канади, Финској, Француској, Немачкој, Ирској, Италији, Малезији, Холандији, Новом Зеланду, Сингапуру, Шпанији, Шведској, Швајцарској, Уједињеном Краљевству и Сједињеним Америчким Државама.
+vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } је тренутно доступан у Аустрији, Белгији, Бугарској, Канади, Хрватској, Кипру, Чешкој, Данској, Естонији, Финској, Француској, Немачкој, Мађарској, Ирској, Италији, Летонији, Литванији, Луксембургу, Малезији, Малти, Холандији, Новом Зеланду, Пољској, Португалу, Румунији, Сингапуру, Словенији, Словачкој, Шпанији, Шведској, Швајцарској, Великој Британији и Сједињеним Америчким Државама.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-дневна гаранција поврата новца
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
