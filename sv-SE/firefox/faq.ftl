@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -67,12 +67,9 @@ does-firefox-use = Använder { -brand-name-firefox } { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } är standardsökmotorn i { -brand-name-firefox }, vilket innebär att du kan söka på webben direkt från adressfältet. <a href="{ $url }">Läs mer om sökmotorinställningar och ändra standardinställningar</a>.
 does-firefox-have = Har { -brand-name-firefox } ett inbyggt VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
-
-firefox-does-not = { -brand-name-firefox } har inte ett inbyggt VPN (virtuellt privat nätverk), men det finns två produkter gjorda av { -brand-name-mozilla }/{ -brand-name-firefox } som du kan använda förutom den privata { -brand-name-firefox-browser } som kan skydda antingen din webbläsare (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) eller enhet (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) anslutning på WiFi, samt din IP-adress.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } har inget inbyggt VPN (virtuellt privat nätverk), men { -brand-name-mozilla } skapar en produkt som heter <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> som du kan använda förutom den privata { -brand-name-firefox-browser } som kan skydda din anslutning på WiFi, såväl som din IP-adress.
 related-questions-ip = Relaterade frågor: döljer { -brand-name-firefox } din IP-adress
 who-owns-firefox = Vem äger { -brand-name-firefox }?
 
