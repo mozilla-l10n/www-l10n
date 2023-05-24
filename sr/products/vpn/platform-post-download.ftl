@@ -11,16 +11,20 @@
 
 vpn-windows-download-page-title = Преузмите { -brand-name-mozilla-vpn } за { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = Преузмите { -brand-name-mozilla-vpn } за { -brand-name-windows }…
-vpn-windows-go-to-your-downloads = Идите у фасциклу за преузимање и двапут кликните на .msi датотеку
+vpn-windows-go-to-your-downloads = Идите у фасциклу за преузимање и двапут кликните .msi датотеку
 vpn-windows-a-progress-bar = Појавиће се трака напретка и почеће процес инсталације
 
 ## Mac download page
 
 vpn-mac-download-page-title = Преузмите { -brand-name-mozilla-vpn } за { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = Преузмите { -brand-name-mozilla-vpn } за { -brand-name-mac-short }…
+vpn-mac-go-to-your-downloads = Идите у фасциклу за преузимање и двапут кликните .pkg датотеку
+vpn-mac-follow-the-steps = Пратите кораке за { -brand-name-mozilla-vpn } инсталацију да покренете апликацију
 
 ## Shared strings
 
+vpn-download-unable-to-download = Није могуће преузети { -brand-name-mozilla-vpn }
+vpn-download-not-in-country = Жао нам је, { -brand-name-mozilla-vpn } није доступан у вашој земљи.
 
 ## FAQ Strings
 
