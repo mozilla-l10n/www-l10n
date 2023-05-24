@@ -437,3 +437,4 @@ newsletters-stay-informed-of-the-latest = Restez au courant des derniers produit
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = Recevez des actualités sur la sécurité et la confidentialité, ainsi que des mises à jour sur les produits de { -brand-name-mozilla }, pour assurer votre sécurité et vous informer sur tout ce qui contribue à faire du Web un endroit sain.
 
+newsletters-opt-out-delay = Un à deux jours ouvrables peuvent être nécessaires pour traiter votre demande de désinscription, au cours desquels vous pourriez recevoir un autre e-mail.
