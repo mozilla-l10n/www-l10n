@@ -17,14 +17,21 @@ features-translate-the-google-translate = Sambungan Ke { -brand-name-google } Tr
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Internet mengandungi pelbagai benda-benda menarik namun banyak yang tidak disediakan dalam Bahasa Inggeris — menjadikan berbilion orang di seluruh dunia memerlukan penterjemah hanya untuk menggunakan internet. Anda boleh <a { $attrs }>memuat turun { -brand-name-firefox } dalam lebih daripada 100 bahasa</a>, jadi menu pelayar, pemberitahuan dan mesej anda akan dipaparkan dalam bahasa pilihan anda. Akan tetapi itu tidak menyelesaikan masalah semua kandungan menarik yang anda cari menggunakan pelayar anda.
 
+features-translate-firefox-translations = { -brand-name-firefox-translations }
 
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = <a { $attrs }>Ekstensi { -brand-name-firefox-translations }</a> mampu menterjemahkan kandungan laman web yang anda layari. Tidak seperti alternatif cloud yang lain, ekstensi ini menterjemahkan teks secara tempatan di { -brand-name-firefox } agar kandungan yang anda terjemah itu tidak meninggalkan peranti anda.
 
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = Dapatkan { -brand-name-firefox-translations }
 
 features-translate-to-google-translate = Ke { -brand-name-google } Translate
 
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, dengan lebih daripada 100 bahasa* tersedia, digunakan oleh berjuta orang di seluruh dunia. Namun berulang-alik antara translate.google.com dengan halaman yang ingin anda baca bukanlah pengalaman yang menarik. Sambungan <a { $attrs }>Ke { -brand-name-google } Translate</a> memudahkan lagi penterjemahan halaman yang anda buka.
 
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = Pergi ke { -brand-name-google } Translate
 
 # Obsolete string
 features-translate-get-the-extension = Dapatkan Sambungan
