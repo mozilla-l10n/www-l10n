@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -67,12 +67,9 @@ does-firefox-use = A yw { -brand-name-firefox } yn defnyddio { -brand-name-googl
 
 firefoxs-default-search = { -brand-name-google } yw'r peiriant chwilio rhagosodedig { -brand-name-firefox }, sy'n golygu y gallwch chi chwilio'r we yn syth o'r bar cyfeiriad. <a href="{ $url }">Dysgu rhagor am ddewisiadau peiriannau chwilio a newid y rhagosodiad. </a>
 does-firefox-have = A yw { -brand-name-firefox } yn cynnig VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = Nid oes gan { -brand-name-firefox } VPN (rhwydwaith preifat rhithwir) mewnol, ond mae yna ddau gynnyrch sy'n cael eu darparu gan { -brand-name-mozilla }/{ -brand-name-firefox } y gallwch eu defnyddio yn ychwanegol at y porwr preifat { -brand-name-firefox-browser } sy'n gallu diogelu naill ai'ch porwr (<a href="{ $url }">{ -brand-name-firefox-private-network } </a>) neu gysylltiad eich dyfais (<a href="{ $url2 }">{ -brand-name-mozilla-vpn } </a>) ar WiFi, yn ogystal â'ch cyfeiriad IP.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = Nid oes gan { -brand-name-firefox } VPN (rhwydwaith preifat rhithwir) fel rhan ohono, ond mae { -brand-name-mozilla } yn creu cynnyrch o'r enw <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> y gallwch ei ddefnyddio yn ogystal â'r { -brand-name-firefox-browser } preifat sy'n gallu diogeu eich cysylltiad ar WiFi, yn ogystal â'ch cyfeiriad IP.
 related-questions-ip = Cwestiynau cysylltiedig: a yw { -brand-name-firefox } yn cuddio'ch cyfeiriad IP
 who-owns-firefox = Pwy sydd bia { -brand-name-firefox }?
 
