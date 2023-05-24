@@ -80,10 +80,8 @@ firefoxs-default-search = { -brand-name-google } は { -brand-name-firefox } の
 does-firefox-have = { -brand-name-firefox } には VPN が内蔵されていますか？
 
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } には VPN (仮想プライベートネットワーク) が内蔵されていませんが、プライベート { -brand-name-firefox-browser } に加え、ブラウザー (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) やデバイス (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) の WiFi 接続と IP アドレスを保護するために使用できる { -brand-name-mozilla }・{ -brand-name-firefox } の製品が 2 つあります。
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } には VPN (仮想プライベートネットワーク) は組み込まれていませんが、{ -brand-name-mozilla } は、Wi-Fi 接続と IP アドレスを保護できるプライベートな { -brand-name-firefox-browser } に加えて利用できる <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> という製品を開発しています。
 
 related-questions-ip = 関連する質問: { -brand-name-firefox } は IP アドレスを隠しますか？
 

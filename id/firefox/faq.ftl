@@ -80,10 +80,8 @@ firefoxs-default-search = { -brand-name-google } merupakan mesin pencari bawaan 
 does-firefox-have = Apakah { -brand-name-firefox } memiliki VPN bawaan?
 
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } tidak memiliki VPN bawaan (jaringan pribadi virtual), tetapi terdapat dua produk yang dibuat oleh { -brand-name-mozilla }/{ -brand-name-firefox } yang dapat Anda gunakan sebagai tambahan ke { -brand-name-firefox-browser } pribadi yang dapat melindungi peramban (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) Anda atau perangkat penyambung (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) di WiFi, serta alamat IP Anda.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } tidak memiliki VPN bawaan (jaringan pribadi virtual), tetapi { -brand-name-mozilla } membuat produk yang bernama <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> yang dapat Anda gunakan sebagai tambahan ke { -brand-name-firefox-browser } pribadi yang dapat melindungi koneksi Anda di WiFi, serta alamat IP Anda.
 
 related-questions-ip = Pertanyaan terkait: apakah { -brand-name-firefox } menyembunyikan alamat IP Anda
 
