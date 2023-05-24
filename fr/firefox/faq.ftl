@@ -80,10 +80,8 @@ firefoxs-default-search = { -brand-name-google } est le moteur de recherche par 
 does-firefox-have = { -brand-name-firefox } dispose-t-il d’un VPN intégré ?
 
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } ne dispose pas d’un VPN (réseau privé virtuel) intégré, mais il existe deux produits fabriqués par { -brand-name-mozilla }/{ -brand-name-firefox } que vous pouvez utiliser en plus du navigateur { -brand-name-firefox-browser } privé et qui peuvent protéger la connexion de votre navigateur (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ou de votre appareil (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) au Wi-Fi, ainsi que votre adresse IP.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } ne propose pas de VPN intégré, mais { -brand-name-mozilla } a conçu un produit appelé <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, que vous pouvez utiliser en complément du { -brand-name-firefox-browser } privé pour protéger votre connexion en Wi-Fi ainsi que votre adresse IP.
 
 related-questions-ip = Questions connexes : { -brand-name-firefox } masque-t-il votre adresse IP ?
 
