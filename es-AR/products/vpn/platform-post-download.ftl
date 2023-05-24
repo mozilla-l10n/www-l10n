@@ -57,7 +57,7 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } muestra indicad
 vpn-download-faq-add-device = ¿Cómo agrego otro dispositivo?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Agregar otro dispositivo es tan simple como descargar e instalar el software { -brand-name-mozilla-vpn } y luego iniciar sesión en tu cuenta de { -brand-name-firefox } existente en el nuevo dispositivo. Para más detalles, consultá <a href="{ $subscription }">Cómo agregar dispositivos a tu suscripción de { -brand-name-mozilla-vpn }</a>.
+vpn-download-faq-adding-another = Agregar otro dispositivo es tan simple como descargar e instalar el software { -brand-name-mozilla-vpn } y luego iniciar sesión en tu { -brand-name-firefox-account } existente en el nuevo dispositivo. Para más detalles, consultá <a href="{ $subscription }">Cómo agregar dispositivos a tu suscripción de { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = ¿Cuáles son algunas de las mejores prácticas de VPN?
 vpn-download-faq-traffic = Si tu objetivo es proteger el tráfico de Internet manteniendo una velocidad rápida, siempre es mejor elegir una ubicación de servidor lo más cerca posible de tu ubicación física. Esto aumentará la confiabilidad y velocidad de tu conexión, ya que el tráfico de Internet no necesitará desviarse mucho antes de llegar al destino previsto en la web.
 vpn-download-faq-experience = Si tu objetivo es experimentar Internet como si estuvieras en otra parte del mundo, podés elegir ahí una ubicación de servidor y todos los sitios web que visités se mostrarán como si estuvieras allá.
