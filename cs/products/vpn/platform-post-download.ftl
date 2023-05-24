@@ -10,14 +10,18 @@
 ## Windows download page
 
 vpn-windows-downloading-mozilla-vpn = Stahuje se { -brand-name-mozilla-vpn } pro { -brand-name-windows }…
+vpn-windows-go-to-your-downloads = Přejděte do složky se staženými soubory a dvakrát klepněte na soubor .msi
+vpn-windows-a-progress-bar = Zobrazí se indikátor průběhu a zahájí se proces instalace
 
 ## Mac download page
 
 vpn-mac-download-page-title = Stáhnout { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = Stahuje se { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }…
+vpn-mac-go-to-your-downloads = Přejděte do složky se staženými soubory a dvakrát klepněte na soubor .pkg
 
 ## Shared strings
 
+vpn-download-unable-to-download = Stažení { -brand-name-mozilla-vpn } se nezdařilo
 vpn-download-not-in-country = Je nám líto, ale aplikace { -brand-name-mozilla-vpn } není ve vaší zemi k dispozici.
 vpn-open-the-file = 1. Otevřete soubor
 vpn-launch-the-app = 2. Spusťte aplikaci
