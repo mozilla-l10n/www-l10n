@@ -17,6 +17,7 @@ vpn-linux-wifi-headline = ຢູ່ໃນອອນໄລນ໌ຢ່າງປອ
 vpn-linux-wifi-copy = ບາງຄັ້ງ wifi ສາທາລະນະແມ່ນທາງເລືອກທີ່ດີທີ່ສຸດ ແລະ ທາງເລືອກດຽວຂອງທ່ານ. { -brand-name-mozilla-vpn } ໃຫ້ທ່ານຮູ້ສຶກສະບາຍໃຈໃນການເຂົ້າສູ່ລະບົບອີເມວຂອງທ່ານຈາກສະຫນາມບິນ, ແກ້ໄຂລະຫັດຜ່ານຂອງທ່ານຢູ່ຮ້ານກາເຟ — ທຸກຢ່າງທີ່ທ່ານເຮັດຢູ່ເຮືອນເປັນປົກກະຕິດ້ວຍຄວາມສະຫງົບສຸກຂອງຈິດໃຈ.
 vpn-linux-about-headline = ຊື່ທີ່ເຊື່ອຖືໄດ້ຕັ້ງແຕ່ປີ 1998
 vpn-linux-privacy-headline = ຄວາມປອດໄພພຽງແຕ່ 1 ຄລິກທັນທີ
+vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } ແມ່ນໃຊ້ງ່າຍຫຼາຍ. ແຕະປຸ່ມໃດໜຶ່ງ ແລະ ມັນຈະເຂົ້າລະຫັດການເຊື່ອມຕໍ່ຂອງເຈົ້າ ແລະມົວທີ່ຢູ່ IP ຢູ່ໃນ { -brand-name-iphone } ຫຼື { -brand-name-ipad } ຂອງທ່ານໂດຍໃຊ້ໂປຣໂຕຄໍ { -brand-name-wireguard }® ຂັ້ນສູງ.
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
