@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = Pořiďte si síť { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Přidat se na čekací listinu
 vpn-shared-sign-in-link = Už máte předplatné?
 # Outdated string
-vpn-shared-available-countries-v4 = Síť { -brand-name-mozilla-vpn } v současnosti nabízíme v Belgii, Francii, Irsku, Itálii, Kanadě, Malajsii, Německu, Nizozemsku, na Novém Zélandu, v Rakousku, Singapuru, Španělsku, Švýcarsku, USA a Velké Británii.
 vpn-shared-available-countries-v5 = Síť { -brand-name-mozilla-vpn } v současnosti nabízíme v Belgii, Finsku, Francii, Irsku, Itálii, Kanadě, Malajsii, Německu, Nizozemsku, na Novém Zélandu, v Rakousku, Singapuru, Španělsku, Švédsku, Švýcarsku, USA a Velké Británii.
+vpn-shared-available-countries-v6 = V současné době nabízíme { -brand-name-mozilla-vpn } v Rakousku, Belgii, Bulharsku, Kanadě, Chorvatsku, Kypru, České republice, Dánsku, Estonsku, Finsku, Francii, Německu, Maďarsku, Irsku, Itálii, Lotyšsku, Litvě, Lucembursku, Malajsii, Maltě, Nizozemsku, Novém Zélandu, Polsku, Portugalsku, Rumunsku, Singapuru, Slovinsku, Slovensku, Španělsku, Švédsku, Švýcarsku, Velké Británii a USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30denní záruka vrácení peněz
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.

@@ -18,6 +18,7 @@ vpn-mac-downloading-mozilla-vpn = Stahuje se { -brand-name-mozilla-vpn } pro { -
 
 ## Shared strings
 
+vpn-download-not-in-country = Je nám líto, ale aplikace { -brand-name-mozilla-vpn } není ve vaší zemi k dispozici.
 vpn-open-the-file = 1. Otevřete soubor
 vpn-launch-the-app = 2. Spusťte aplikaci
 vpn-login-or-signup = 3. Přihlaste se nebo zaregistrujte
@@ -31,3 +32,5 @@ vpn-download-faq-here-are-some = Zde jsou některé z nejčastějších otázek 
 vpn-download-faq-why-use = Proč bych měl(a) používat { -brand-name-mozilla-vpn }?
 vpn-download-faq-working = Jak poznám, že VPN funguje?
 vpn-download-faq-add-device = Jak přidám další zařízení?
+vpn-download-faq-best-practices = Jaké jsou některé osvědčené postupy při používání VPN?
+vpn-download-faq-need-more = Potřebujete další pomoc?

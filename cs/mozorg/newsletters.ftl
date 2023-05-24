@@ -305,3 +305,5 @@ knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
 knowledge-is-power-pocket = { -brand-name-pocket }
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = Pro použití tuto stránky prosím aktualizujte svůj prohlížeč.
+# Name for the newsletter in Newsletter subscription page
+newsletters-security-and-privacy-news = Novinky o bezpečnosti a soukromí
