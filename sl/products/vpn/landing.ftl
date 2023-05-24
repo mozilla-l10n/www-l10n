@@ -7,6 +7,10 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Zaščitite svojo celotno napravo
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-page-desc = { -brand-name-mozilla-vpn } lahko ščiti celotno napravo in katerikoli program na njej. Strežniki v preko { $countries } državah vam omogočajo, da se od koderkoli povežete kamorkoli.
 vpn-landing-hero-sub-heading-v2 = Varnost, zanesljivost in hitrost – na vsaki napravi, kjerkoli ste.
 # Obsolete string
 vpn-landing-hero-sub-heading = Varnost, na katero se lahko zanesete. Ime, ki mu lahko zaupate.

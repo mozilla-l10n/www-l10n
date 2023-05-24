@@ -63,12 +63,9 @@ does-firefox-use = Ali { -brand-name-firefox } uporablja { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } je privzet iskalnik v { -brand-name-firefox }u, kar pomeni, da lahko iščete po spletu naravnost iz naslovne vrstice. <a href="{ $url }">Več o nastavitvah iskalnika in spreminjanju privzetih vrednosti.</a>
 does-firefox-have = Ali ima { -brand-name-firefox } vgrajen VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } nima vgrajenega VPN (navideznega zasebnega omrežja), vendar { -brand-name-mozilla } in { -brand-name-firefox } ponujata dva dodatka zasebnemu { -brand-name-firefox-browser(sklon: "dajalnik") }, ki lahko zaščitita povezavo vašega brskalnika (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ali naprave (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) na WiFi, kot tudi vaš naslov IP.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } nima vgrajenega VPN (navideznega zasebnega omrežja), vendar { -brand-name-mozilla } ponuja program <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, ki ga lahko kombinirate z zasebnim { -brand-name-firefox-browser(sklon: "orodnik") }. Tako boste zaščitili ne le svoje podatke na omrežju WiFi, temveč tudi svoj naslov IP.
 related-questions-ip = Povezana vprašanja: ali { -brand-name-firefox } skrije vaš naslov IP
 who-owns-firefox = Kdo je lastnik { -brand-name-firefox }a?
 
