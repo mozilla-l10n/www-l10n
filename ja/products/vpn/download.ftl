@@ -38,6 +38,7 @@ vpn-download-for-linux-requirements = Ubuntu { $version } 以上
 vpn-download-for-android = { -brand-name-android } 用の VPN
 vpn-download-for-android-long = { -brand-name-android } 用 { -brand-name-mozilla-vpn } をダウンロード
 vpn-download-for-ios = { -brand-name-ios } 用の VPN
+vpn-download-for-ios-long-v2 = { -brand-name-ios } 用 { -brand-name-mozilla-vpn } をダウンロード
 
 # Obsolete string
 vpn-download-for-ios-long = { -brand-name-ios } 用 { -brand-name-mozilla-vpn } をダウンロード
@@ -55,3 +56,4 @@ vpn-download-also-available = こちらにも対応しています。
 vpn-download-from-the-maker = { -brand-name-firefox } の運営元が開発した { -brand-name-mozilla-vpn } は、高度な <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® プロトコルを使用して、あなたのオンラインアクティビティを暗号化し、現在地を秘匿します。
 vpn-download-we-never-log = Mozilla がユーザーのネットワークデータを記録、追跡、共有することはありません。
 
+vpn-download-previous-versions = { -brand-name-windows } 用および { -brand-name-mac-short } 用の以前のバージョンをダウンロードする
