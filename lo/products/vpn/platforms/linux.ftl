@@ -23,6 +23,9 @@ vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } ແມ່ນໃຊ້ງ່
 #   $servers (number) - number of available servers
 vpn-linux-servers-headline = ເຊື່ອມຕໍ່ຫາ { $servers }+ ເຊີບເວີໃນ { $countries } ປະເທດຕ່າງໆ
 # Variables:
+#   $countries (number) - number of available countries
+vpn-linux-servers-copy = { -brand-name-mozilla-vpn } ໃຫ້ທ່ານສາມາດຕັ້ງສະຖານທີ່ຄອມພິວເຕີທີ່ອີງໃສ່ { -brand-name-linux } ຂອງທ່ານເປັນໜຶ່ງໃນ { $countries }+ ປະເທດ, ເປີດໃຫ້ທ່ານເຂົ້າເຖິງເນື້ອຫາໃໝ່ທີ່ໜ້າຕື່ນເຕັ້ນຈາກທົ່ວໂລກ. .
+# Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = ເຊື່ອມຕໍ່ໄດ້ເຖິງ { $devices } ອຸປະກອນ
 vpn-linux-speed-headline = ໄວສຸດທີ່ມີຂໍ້ມູນບໍ່ຈໍາກັດ
