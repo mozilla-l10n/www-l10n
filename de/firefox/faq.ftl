@@ -79,9 +79,6 @@ firefoxs-default-search = { -brand-name-google } ist die Standardsuchmaschine in
 
 does-firefox-have = Hat { -brand-name-firefox } ein integriertes VPN?
 
-# Variables:
-# $url (url) - link to https://www.mozilla.org/products/vpn/
-firefox-does-not-v2 = { -brand-name-firefox } hat kein integriertes VPN (Virtual Private Network), aber { -brand-name-mozilla } bietet ein Produkt namens <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> an, das Sie zusätzlich zum privaten { -brand-name-firefox-browser } nutzen können und das Ihre Verbindung im WLAN sowie Ihre IP-Adresse schützen kann.
 
 related-questions-ip = Verwandte Fragen: Versteckt { -brand-name-firefox } Ihre IP-Adresse?
 
