@@ -59,9 +59,8 @@ vpn-download-faq-working = Bagaimana saya tahu VPN tersebut berfungsi?
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } menampilkan indikator visual pada statusnya saat ini di bilah alat dan layar beranda aplikasi, sehingga memudahkan Anda untuk mengetahui apakah aktivitas daring Anda terlindungi atau tidak. Dengan indikator tersebut, Anda dapat mengonfirmasi kapan navigasi Anda bersifat pribadi dan aman. Selain itu, saat terhubung, Anda dapat mengunjungi <a href="{ $monitor }">https://monitor.firefox.com/</a> untuk mengonfirmasi apakah alamat IP Anda telah disamarkan. Untuk informasi lebih lanjut, silakan lihat <a href="{ $connected }">Bagaimana cara mengetahui { -brand-name-mozilla-vpn } sudah terhubung?</a>.
 vpn-download-faq-add-device = Bagaimana cara menambahkan perangkat lain?
 
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Menambahkan perangkat lain itu semudah mengunduh dan menginstal perangkat lunak { -brand-name-mozilla-vpn } lalu masuk ke { -brand-name-firefox-account } Anda yang sudah ada di perangkat baru. Untuk informasi lebih lanjut, silakan lihat <a href="{ $subscription }">Cara menambahkan perangkat ke langganan { -brand-name-mozilla-vpn } Anda</a>.
+
+
 vpn-download-faq-best-practices = Apa saja praktik terbaik menggunakan VPN?
 vpn-download-faq-traffic = Jika tujuan Anda adalah untuk melindungi trafik internet sembari mempertahankan kecepatan yang tinggi, maka sebaiknya pilih lokasi server yang sedekat mungkin dengan lokasi fisik Anda. Upaya ini akan meningkatkan keandalan dan kecepatan koneksi Anda karena trafik internet Anda tidak perlu mengambil jalan memutar sebelum tiba di tujuan yang diinginkan di web.
 vpn-download-faq-experience = Jika tujuan Anda adalah menggunakan internet seolah-olah Anda berada di belahan dunia lain, Anda dapat memilih lokasi server di lokasi tersebut dan semua situs web yang Anda kunjungi akan ditampilkan seolah-olah Anda berada di sana.

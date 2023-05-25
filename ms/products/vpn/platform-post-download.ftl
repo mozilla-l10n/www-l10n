@@ -59,9 +59,8 @@ vpn-download-faq-working = Bagaimana hendak saya pastikan VPN ini berfungsi?
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } memaparkan petunjuk status terkini di toolbar dan laman utama aplikasi ini, menjadikannya mudah untuk memastikan adakah aktiviti atas talian anda dilindungi atau sebaliknya. Petunjuk ini membenarkan anda mengesahkan pelayaran anda di internet kekal peribadi dan dilindungi. Tambahan lagi, semasa di internet, anda boleh layari <a href="{ $monitor }">https://monitor.firefox.com/</a> untuk mengesahkan adakah alamat IP anda dilindungi. Untuk butiran lanjut, lihat <a href="{ $connected }">Bagaimana untuk saya tahu jika { -brand-name-mozilla-vpn } ini berfungsi?</a>
 vpn-download-faq-add-device = Bagaimana untuk menambah peranti?
 
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Menambah peranti adalah semudah muat turun dan memasang perisian { -brand-name-mozilla-vpn } dan kemudian log masuk { -brand-name-firefox-account } sedia ada pada peranti baru itu. Untuk butiran lanjut, lihat <a href="{ $subscription }">Cara untuk menambah peranti bagi langganan { -brand-name-mozilla-vpn } anda</a>.
+
+
 vpn-download-faq-best-practices = Apakah amalan VPN yang terbaik?
 vpn-download-faq-traffic = Jika matlamat anda adalah melindungi trafik internet sambil memastikan kelajuan, pilihan terbaik adalah memilih lokasi pelayan yang terdekat dengan lokasi fizikal anda. Ini mampu meningkatkan kebolehpercayaan dan kelajuan sambungan anda kerana trafik internet anda tidak perlu bergerak jauh sebelum tiba ke destinasi yang dikehendaki.
 vpn-download-faq-experience = Jika matlamat anda ialah melayari internet seolah-olah anda berada di lokasi lain di dunia, anda boleh memilih lokasi pelayan anda di mana jua, maka semua laman web yang anda layari akan memaparkan lokasi samaran anda.

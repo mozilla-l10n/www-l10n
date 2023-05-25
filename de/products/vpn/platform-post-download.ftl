@@ -59,9 +59,8 @@ vpn-download-faq-working = Woher weiß ich, dass das VPN funktioniert?
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } zeigt den aktuellen Status sowohl in der Symbolleiste als auch auf dem Home-Screen der App an. So haben Sie immer im Blick, ob Ihre Online-Aktivitäten geschützt sind oder nicht. So können Sie jederzeit prüfen, ob Ihre Navigation privat und sicher ist. Zusätzlich können Sie, während Sie online sind, <a href="{ $monitor }">https://monitor.firefox.com/</a> besuchen, um sicherzugehen, dass Ihre IP-Adresse maskiert ist. Für weitere Informationen lesen Sie bitte <a href="{ $connected }">Woher weiß ich, ob { -brand-name-mozilla-vpn } verbunden ist?</a>
 vpn-download-faq-add-device = Wie kann ich ein weiteres Gerät hinzufügen?
 
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Um ein neues Gerät hinzuzufügen, laden Sie einfach die { -brand-name-mozilla-vpn }-Software herunter, installieren sie und melden sich anschließend auf dem neuen Gerät bei Ihrem bestehenden { -brand-name-firefox-account } an. Für weitere Informationen, lesen Sie bitte <a href="{ $subscription }">Wie Sie Geräte zu Ihrem { -brand-name-mozilla-vpn }-Abo hinzufügen</a>.
+
+
 vpn-download-faq-best-practices = Welche VPN Best Practices gibt es?
 vpn-download-faq-traffic = Wenn Sie Ihren Datenverkehr schützen möchten und trotzdem schnell im Internet unterwegs sein wollen, sollten Sie einen Server-Standort wählen, der so nah wie möglich an Ihrem tatsächlichen Standort liegt. Dadurch erhöht sich die Zuverlässigkeit und Geschwindigkeit Ihrer Verbindung und Ihr Datenverkehr muss nicht erst einen großen Umweg nehmen, bevor er an seiner Zieladresse ankommt.
 vpn-download-faq-experience = Wenn Sie das Internet erleben möchten, als wären Sie an einem anderen Ort auf der Welt, können Sie einen beliebigen Server-Standort wählen. Sämtliche Websites, die Sie besuchen, sehen dann aus, als befänden Sie sich vor Ort.
