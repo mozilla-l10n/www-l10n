@@ -20,7 +20,7 @@ vpn-mac-downloading-mozilla-vpn = { -brand-name-mac-short } için { -brand-name-
 
 ## Shared strings
 
-vpn-download-unable-to-download = { -brand-name-mozilla-vpn }indirilemiyor
+vpn-download-unable-to-download = { -brand-name-mozilla-vpn } indirilemiyor
 vpn-download-not-in-country = Maalesef { -brand-name-mozilla-vpn } ülkenizde kullanılamıyor.
 vpn-open-the-file = 1. Dosyayı açın
 vpn-launch-the-app = 2. Uygulamayı başlatın

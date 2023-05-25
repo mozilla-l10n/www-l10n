@@ -15,6 +15,8 @@ features-translate-the-google-translate = { -brand-name-firefox } için { -brand
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = İnternet harika içeriklerle dolu ama çoğu Türkçe değil. Dünyanın her yanındaki milyarlarca interneti kullanmak için çevirmene ihtiyacı duyuyor. <a { $attrs }>{ -brand-name-firefox } tarayıcısını 100'den fazla dilde indirebilirsiniz</a>. Böylece tarayıcı menüleriniz, bildirimleriniz ve mesajlarınız anadilinizde olur ama bu, tarayıcınızı kullanarak eriştiğiniz içeriklerin dil problemini çözmez.
 features-translate-firefox-translations = { -brand-name-firefox-translations }
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations } uzantısı</a>, ziyaret ettiğiniz web sayfalarındaki içerikleri otomatik olarak çevirebilir. Bu uzantı, bazı bulut tabanlı alternatiflerin aksine, metinleri { -brand-name-firefox } içinde yerel olarak çevirir; yani çevirdiğiniz içerikler başka bir sunucuya gönderilmez.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = { -brand-name-firefox-translations }’ı indir
 features-translate-to-google-translate = To { -brand-name-google } Translate
