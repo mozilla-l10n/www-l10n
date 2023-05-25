@@ -57,6 +57,10 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } 會在工具列
 vpn-download-faq-add-device = 我要如何新增裝置
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v2 = 新增裝置很簡單只要下載安裝 { -brand-name-mozilla-vpn } 軟體然後在新裝置上登入現有的 { -brand-name-firefox-account }。若需更多資訊請參考<a href="{ $subscription }">如何將裝置加入您的 { -brand-name-mozilla-vpn } 訂閱</a>。
+# Outdated string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another = 新增裝置很簡單只要下載安裝 { -brand-name-mozilla-vpn } 軟體然後在新裝置上登入現有的 { -brand-name-firefox-account }。若需更多資訊請參考<a href="{ $subscription }">如何將裝置加入您的 { -brand-name-mozilla-vpn } 訂閱</a>。
 vpn-download-faq-best-practices = VPN 有哪些最佳做法
 vpn-download-faq-traffic = 若您的目標是要保護您的網路流量同時又能保持較快的上網速度那麼最好的伺服器位置離您的實際所在地點越近越好。這將增加連線的可靠度與速度因為您的網際網路流量不需經過多少折返點就能到達預期的目的地。
