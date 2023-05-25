@@ -49,12 +49,12 @@ vpn-download-faq-as-more-daily = 隨著我們的日常生活更常透過網際�
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = 隱藏您實際的 <a href="{ $ip }">IP 地址</a>: 如此可幫助保護您的個人身分並隱藏您的實際所在地點讓您造訪的網站。
 vpn-download-faq-encrypting = 加密您的網路流量這樣就沒有人可以窺探您的線上行為。
-vpn-download-faq-working = 我怎麼知道 VPN 正常運作
+vpn-download-faq-working = 我要如何知道 VPN 有正常運作？
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } 會在工具列與應用程式主畫面視覺化顯示目前狀態讓您很簡單就能知道您的線上行為是否受到保護。這些指示器讓您可以確認自己的網頁瀏覽模式是否安全。另外在連線時您可以到 <a href="{ $monitor }">https://monitor.firefox.com/</a> 確認 IP 地址是否被隱藏。若需更多資訊請參考<a href="{ $connected }">我要如何知道 { -brand-name-mozilla-vpn } 是否已連線</a>。
-vpn-download-faq-add-device = 我要如何新增裝置
+vpn-download-faq-add-device = 我要如何加入另一台裝置？
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v2 = 新增裝置很簡單只要下載安裝 { -brand-name-mozilla-vpn } 軟體然後在新裝置上登入現有的 { -brand-name-firefox-account }。若需更多資訊請參考<a href="{ $subscription }">如何將裝置加入您的 { -brand-name-mozilla-vpn } 訂閱</a>。
