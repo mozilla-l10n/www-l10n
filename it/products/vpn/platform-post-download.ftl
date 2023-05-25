@@ -57,6 +57,10 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } mostra indicato
 vpn-download-faq-add-device = Come posso aggiungere un altro dispositivo?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v2 = Per aggiungere un altro dispositivo, scarica e installa { -brand-name-mozilla-vpn }, poi accedi dal nuovo dispositivo al tuo { -brand-name-firefox-account } esistente. Per ulteriori dettagli, consulta <a href="{ $subscription }">Come aggiungere dispositivi al proprio abbonamento Mozilla VPN { -brand-name-mozilla-vpn }</a>.
+# Outdated string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another = Per aggiungere un altro dispositivo, scarica e installa { -brand-name-mozilla-vpn }, poi accedi dal nuovo dispositivo al tuo { -brand-name-firefox-account } esistente. Per ulteriori dettagli, consulta <a href="{ $subscription }">Come aggiungere dispositivi al proprio abbonamento Mozilla VPN { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Quali sono alcune delle procedure consigliate quando si utilizza la VPN?
 vpn-download-faq-traffic = Se il tuo obiettivo è proteggere il tuo traffico internet mantenendo una velocità di connessione elevata, allora è sempre meglio scegliere un server il più vicino possibile alla tua posizione fisica. Questo aumenterà l’affidabilità e la velocità della connessione poiché il tuo traffico Internet non dovrà deviare in modo significativo prima di arrivare alla destinazione prevista sul Web.
