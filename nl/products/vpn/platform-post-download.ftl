@@ -55,6 +55,9 @@ vpn-download-faq-working = Hoe weet ik of de VPN werkt?
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } toont visuele indicatoren van de huidige status, zowel in de werkbalk als in het startscherm van de toepassing, zodat u gemakkelijk kunt zien of uw online activiteiten beschermd zijn of niet. Met deze indicatoren kunt u bevestigen of uw navigatie privé en veilig is. Bovendien kunt u, terwijl u verbonden bent, naar <a href="{ $monitor }">https://monitor.firefox.com/</a> gaan om te bevestigen of uw IP-adres gemaskeerd is. Ga voor meer details naar <a href="{ $connected }">Hoe kan ik zien of { -brand-name-mozilla-vpn } is verbonden?</a>.
 vpn-download-faq-add-device = Hoe voeg ik nog een apparaat toe?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v2 = Nog een apparaat toevoegen is net zo eenvoudig als het downloaden en installeren van de { -brand-name-mozilla-vpn }-software en vervolgens aanmelden bij uw bestaande { -brand-name-firefox-account } op het nieuwe apparaat. Ga voor meer details naar <a href="{ $subscription }">Apparaten aan uw { -brand-name-mozilla-vpn }-abonnement toevoegen</a>.
 # Outdated string
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
