@@ -57,6 +57,10 @@ vpn-download-faq-visual-indicators = Mae { -brand-name-mozilla-vpn } yn dangos d
 vpn-download-faq-add-device = Sut i ychwanegu dyfais arall?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v2 = Mae ychwanegu dyfais arall mor syml â llwytho i lawr a gosod y meddalwedd { -brand-name-mozilla-vpn } ac yna mewngofnodi i'ch { -brand-name-firefox-account } presennol ar y ddyfais newydd. Am ragor o fanylion, ewch i <a href="{ $subscription }">Sut i ychwanegu dyfeisiau at eich tanysgrifiad { -brand-name-mozilla-vpn }</a>.
+# Outdated string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another = Mae ychwanegu dyfais arall mor syml â llwytho i lawr a gosod y meddalwedd { -brand-name-mozilla-vpn } ac yna mewngofnodi i'ch { -brand-name-firefox-account } presennol ar y ddyfais newydd. Am ragor o fanylion, ewch i <a href="{ $subscription }">Sut i ychwanegu dyfeisiau at eich tanysgrifiad { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Beth yw rhai arferion gorau VPN?
 vpn-download-faq-traffic = Os mai'ch nod yw diogelu eich traffig rhyngrwyd wrth gadw cyflymder cyflym, yna mae bob amser yn well dewis lleoliad gweinydd sydd mor agos â phosibl at eich lleoliad ffisegol. Bydd hyn yn cynyddu dibynadwyedd a chyflymder eich cysylltiad gan na fydd angen i'ch traffig rhyngrwyd wyro'n sylweddol cyn cyrraedd ei gyrchfan arfaethedig ar y we.
