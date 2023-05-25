@@ -17,6 +17,9 @@ vpn-android-privacy-headline = Адзін дотык для падлучэння
 #   $countries (number) - number of available countries
 vpn-android-servers-headline = { $servers }+ сервераў у больш чым { $countries } краінах
 # Variables:
+#   $countries (number) - number of available countries
+vpn-android-servers-copy = З дапамогай { -brand-name-mozilla-vpn } вы можаце прызначыць месцазнаходжанне свайго тэлефона { -brand-name-android } у адной з { $countries }+ краін. Гэта азначае, што вы будзеце бачыць сеціва як мясцовы жыхар краіны, праз якую вы падключаны. Гэта вясёлы і цікавы спосаб пазнаёміцца з сецівам з новага ракурсу.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Адна падпіска для { $devices } прылад
 # Variables:
