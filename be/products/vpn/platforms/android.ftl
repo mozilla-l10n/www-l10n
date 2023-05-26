@@ -11,7 +11,9 @@ vpn-android-page-description = Абараніцеся адным дотыкам 
 # Mobile strings
 vpn-android-hero-headline = Атрымайце ахову і прыватнасць у інтэрнэце з { -brand-name-mozilla-vpn } для { -brand-name-android }
 vpn-android-wifi-headline = Заставайцеся ў бяспецы ў Інтэрнэце, калі вы ў дарозе
+vpn-android-about-headline = { -brand-name-mozilla } — імя, якому можна давяраць
 vpn-android-privacy-headline = Адзін дотык для падлучэння
+vpn-android-privacy-copy = Выкарыстоўваць { -brand-name-mozilla-vpn } для { -brand-name-android } вельмі проста. Націсніце кнопку, і ваша злучэнне будзе аўтаматычна зашыфравана перадавым пратаколам { -brand-name-wireguard }®. Вось і ўсё!
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
