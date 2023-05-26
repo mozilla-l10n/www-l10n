@@ -57,6 +57,10 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } visar visuella 
 vpn-download-faq-add-device = Hur lägger jag till en annan enhet?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v2 = Att lägga till ytterligare en enhet är lika enkelt som att ladda ner och installera programvaran { -brand-name-mozilla-vpn } och sedan logga in på ditt befintliga { -brand-name-firefox-account } på den nya enheten. För mer information, se <a href="{ $subscription }">Hur du lägger till enheter till din { -brand-name-mozilla-vpn }-prenumeration</a>.
+# Outdated string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another = Att lägga till ytterligare en enhet är lika enkelt som att ladda ner och installera programvaran { -brand-name-mozilla-vpn } och sedan logga in på ditt befintliga { -brand-name-firefox-account } på den nya enheten. För mer information, se <a href="{ $subscription }">Hur du lägger till enheter till din { -brand-name-mozilla-vpn }-prenumeration</a>.
 vpn-download-faq-best-practices = Vilka är några bästa metoder för VPN?
 vpn-download-faq-traffic = Om ditt mål är att skydda din internettrafik samtidigt som du håller en hög hastighet, är det alltid bäst att välja en serverplats som är så nära din fysiska plats som möjligt. Detta kommer att öka tillförlitligheten och hastigheten för din anslutning eftersom din internettrafik inte behöver ta en betydande omväg innan den kommer fram till den avsedda destinationen på webben.
