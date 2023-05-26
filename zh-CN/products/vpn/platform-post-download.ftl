@@ -57,6 +57,10 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } 会在通知栏
 vpn-download-faq-add-device = 如何添加其他设备？
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v2 = 新增设备很简单，只需下载并安装 { -brand-name-mozilla-vpn } 软件，然后在新设备上登录您的 { -brand-name-firefox-account }即可。详见<a href="{ $subscription }">如何为 { -brand-name-mozilla-vpn } 订阅添加设备</a>。
+# Outdated string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another = 添加另一台设备非常简单，只需下载并安装 { -brand-name-mozilla-vpn } 软件，然后在新设备上登录您的 { -brand-name-firefox-account }即可。有关详细信息，请参阅<a href="{ $subscription }">如何为 { -brand-name-mozilla-vpn } 订阅添加设备</a>。
 vpn-download-faq-best-practices = 什么是 VPN 最佳实践？
 vpn-download-faq-traffic = 如果您想要在保持高速访问的同时保护您的数据，那么您最好选择一个物理位置离您最近的服务器。这会使您的连接更快更稳定，因为您的数据包不需要走太远的路。
