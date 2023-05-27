@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -31,7 +31,7 @@ best-browser-last-but-not-least = 最后同样重要的是，一款安全的浏�
 best-browser-firefox-is-offering = { -brand-name-firefox } 提供能让您确保安全的新功能：<a href="{ $monitor }">{ -brand-name-firefox-monitor } </a>。这是一个可在与您相关的数据外泄事件公开时，向您发出警报的免费服务。你也可以使用此服务检查您在各个网站账号是否曾经遭窃。另一个很棒的功能是“小绿锁”，它出现于浏览器窗口的左上角。当您使用 { -brand-name-firefox } 时若看到这把锁，就代表与该网站间的连接经过加密，可以确保安全。若小锁是灰色的，那么在输入任何敏感信息前最好三思。
 best-browser-we-visit-hundreds-or = 我们每天都会访问成百上千的网站，您不能指望用户为每个网站做出兼顾安全隐私的决定，这就是为什么提供更多控制权的浏览器非常重要：因为它提供了真正有意义的保护。
 best-browser-a-browser-that-minds = 一心做自己的浏览器。
-best-browser-privacy-on-the-web = 网络隐私是个很热门的议题。。若隐私对您来说是最重要的，那您就该使用会严肃看待用户隐私的浏览器。当选择最适合您的浏览器时，检查它的跟踪政策，以及如何处理您的数据。这听起来是很技术性的问题，但它们也是一些浏览器比其它浏览器更能保护隐私的原因。
+best-browser-privacy-on-the-web = 网络隐私是个很热门的议题。。若隐私对您来说是最重要的，那您就该使用会严肃看待用户隐私的浏览器。当选择最适合您的浏览器时，检查它的跟踪政策，以及如何处理您的数据。这听起来是很技术性的问题，但它们也是一些浏览器比其他浏览器更能保护隐私的原因。
 best-browser-trackers-are-all-those = 跟踪器就是你在航空公司网站订票时会看到的“Cookie”相关信息。这些第三方跟踪器会知道您点击了哪些链接、按钮，并分析您的行为。一款隐私浏览器应该给予用户选项关闭第三方跟踪器，更理想的是，默认关掉这些跟踪器。
 best-browser-another-way-to-stop = 另一个可阻止跟踪器跟踪的方法就是使用隐私模式浏览。任何宣称保护用户隐私的浏览器，都应提供该模式。
 # Variables:
