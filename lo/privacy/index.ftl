@@ -10,9 +10,16 @@ privacy-index-mozilla-privacy = { -brand-name-mozilla } ຄວາມເປັນ
 privacy-index-contact-mozilla = ຕິດຕໍ່ { -brand-name-mozilla }
 privacy-index-if-you-want-to-make-a-correction = ຖ້າທ່ານຕ້ອງການແກ້ໄຂຂໍ້ມູນຂອງທ່ານຫຼືທ່ານມີຄໍາຖາມກ່ຽວກັບນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງພວກເຮົາ, ກະລຸນາຕິດຕໍ່ກັບ:
 # Variables:
+#   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
+privacy-index-see-here-for-data-subject = <a href="{ $dsar }">ເບິ່ງບ່ອນນີ້ສຳລັບຄຳຮ້ອງຂໍການເຂົ້າເຖິງຂໍ້ມູນ.</a> ຖ້າເຈົ້າອາຍຸຕ່ຳກວ່າ 13 ປີ, ພວກເຮົາບໍ່ຕ້ອງການຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ, ແລະເຈົ້າຕ້ອງບໍ່ໃຫ້ມັນໃຫ້ພວກເຮົາ. ຖ້າທ່ານເປັນພໍ່ແມ່ ແລະເຊື່ອວ່າລູກຂອງທ່ານທີ່ມີອາຍຸຕ່ຳກວ່າ 13 ປີໄດ້ໃຫ້ຂໍ້ມູນສ່ວນຕົວແກ່ພວກເຮົາ, ກະລຸນາຕິດຕໍ່ພວກເຮົາເພື່ອເອົາຂໍ້ມູນລູກຂອງທ່ານອອກ.
+# Variables:
 #   $sumo (url) - link to https://support.mozilla.org/
 privacy-index-for-product-support-requests = ສຳລັບຄຳຮ້ອງຂໍການຊ່ວຍເຫຼືອຜະລິດຕະພັນ, ກະລຸນາ <a href="{ $sumo }">ເຂົ້າໄປທີ່ກະດານສົນທະນາຂອງພວກເຮົາ</a>.
 privacy-index-data-privacy-principles = ຫຼັກການຄວາມເປັນສ່ວນຕົວຂອງຂໍ້ມູນ
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $faq (url) - link to https://www.mozilla.org/privacy/faq/
+privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">ຫຼັກການຄວາມເປັນສ່ວນຕົວຂອງຂໍ້ມູນ</a> ຂອງ { -brand-name-mozilla } ເປັນແຮງບັນດານໃຈໃນການປະຕິບັດຂອງພວກເຮົາທີ່ເຄົາລົບ ແລະປົກປ້ອງຜູ້ທີ່ໃຊ້ອິນເຕີເນັດ. ສຶກສາວິທີການເຫຼົ່ານີ້ເປັນຮູບຮ່າງຂອງ { -brand-name-firefox } ແລະຜະລິດຕະພັນທັງຫມົດຂອງພວກເຮົາໃນ <a href="{ $faq }">FAQ</a> ນີ້
 privacy-index-transparency-report = ລາຍງານຄວາມໂປ່ງໃສ
 privacy-index-get-involved = ເຂົ້າມາມີສ່ວນຮ່ວມນຳກັນ!
 # Variables:

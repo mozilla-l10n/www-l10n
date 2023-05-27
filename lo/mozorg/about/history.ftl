@@ -17,9 +17,19 @@ history-within-the-first-year-new = ພາຍໃນ <a href="{ $firstyear }">ປ
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = ໂດຍການສ້າງຊຸມຊົນເປີດ, ໂຄງການ { -brand-name-mozilla } ໄດ້ກາຍເປັນ <a href="{ $stevecase }">ໃຫຍ່ກວ່າບໍລິສັດໃດນຶ່ງ</a>.
+history-people-contributed-to-mozilla = ຜູ້ຄົນໄດ້ປະກອບສ່ວນໃຫ້ກັບ { -brand-name-mozilla } ດ້ວຍວິທີທີ່ແຕກຕ່າງກັນ, ແຕ່ທຸກຄົນມີຄວາມກະຕືລືລົ້ນໃນການສ້າງຊອບແວຟຣີທີ່ຈະຊ່ວຍໃຫ້ຄົນມີທາງເລືອກໃນປະສົບການຂອງອິນເຕີເນັດ.
+# Variables:
+#   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
+history-after-several-years-of-development = ຫຼັງຈາກການພັດທະນາຫຼາຍປີ, <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, ຮຸ່ນໃຫຍ່ທໍາອິດ, ໄດ້ຖືກປ່ອຍອອກມາໃນປີ 2002. ສະບັບນີ້ມີການປັບປຸງຫຼາຍຢ່າງຕໍ່ກັບຕົວທ່ອງເວັບ, ລູກຄ້າອີເມລ໌ແລະແອັບພລິເຄຊັນອື່ນໆທີ່ລວມຢູ່ໃນຊຸດ, ແຕ່ບໍ່ມີຫຼາຍຄົນໃຊ້ມັນ.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = ໃນປີ 2002, <a href="{ $over90 }">ຫຼາຍກວ່າ 90% ຂອງຜູ້ໃຊ້ອິນເຕີເນັດ</a> ໄດ້ຊອກຫາດ້ວຍ { -brand-name-ie }.
+# Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = ບໍ່ມີໃຜສັງເກດເຫັນໃນເວລານັ້ນ, ແຕ່ສະບັບທໍາອິດຂອງ Phoenix (ຕໍ່ມາປ່ຽນຊື່ເປັນ { -brand-name-firefox }) ຍັງຖືກປ່ອຍອອກມາໂດຍສະມາຊິກຊຸມຊົນຂອງ { -brand-name-mozilla } ໃນປີນັ້ນດ້ວຍເປົ້າຫມາຍຂອງການສະຫນອງ < a href="{ $charter }">ປະສົບການການຊອກຫາທີ່ດີທີ່ສຸດທີ່ເປັນໄປໄດ້</a> ໄປຫາກຸ່ມຄົນທີ່ກວ້າງທີ່ສຸດເທົ່າທີ່ເປັນໄປໄດ້.
+# Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = ໃນປີ 2003, ໂຄງການ { -brand-name-mozilla } ໄດ້ສ້າງ { -brand-name-mozilla-foundation }, ເປັນ <a href="{ $foundation }">ອົງການເອກະລາດທີ່ບໍ່ຫວັງຜົນກຳໄລ</a> ສະໜັບສະໜູນໂດຍບຸກຄົນ. ຜູ້ໃຫ້ທຶນແລະບໍລິສັດຫຼາກຫຼາຍຊະນິດ.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
 history-the-new-mozilla-foundation = ໃໝ່ { -brand-name-mozilla-foundation } ສືບຕໍ່ບົດບາດໃນການຄຸ້ມຄອງການດຳເນີນງານປະຈຳວັນຂອງໂຄງການ ແລະ ຍັງມີບົດບາດໃນການສົ່ງເສີມ <a href="{ $manifesto }">ການເປີດ, ນະວັດຕະກໍາ ແລະ ໂອກາດ</a> a> ໃນ​ອິນ​ເຕີ​ເນັດ​.
