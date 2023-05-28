@@ -10,6 +10,7 @@ vpn-android-page-title = { -brand-name-mozilla-vpn } для { -brand-name-androi
 vpn-android-page-description = Абараніцеся адным дотыкам на сваім тэлефоне на { -brand-name-android } з дапамогай { -brand-name-mozilla }, аднаго з самых надзейных імёнаў у галіне тэхналогій.
 # Mobile strings
 vpn-android-hero-headline = Атрымайце ахову і прыватнасць у інтэрнэце з { -brand-name-mozilla-vpn } для { -brand-name-android }
+vpn-android-maker-of-firefox = Як стваральнік вэб-браўзера { -brand-name-firefox } і адзін з самых жорсткіх абаронцаў прыватнасці ў Інтэрнэце, { -brand-name-mozilla } глыбока клапоціцца аб вашай прыватнасці і бяспецы кожны раз, калі вы выходзіце ў Інтэрнэт.
 vpn-android-wifi-headline = Заставайцеся ў бяспецы ў Інтэрнэце, калі вы ў дарозе
 vpn-android-wifi-copy = Часам бесправадная перадача дадзеных недаступная, і ваш адзіны варыянт — агульнадаступны Wi-Fi. З { -brand-name-mozilla-vpn } на вашай прыладзе { -brand-name-android } не турбуйцеся аб уводзе пароля ў аэрапорце або пакупках праз інтэрнэт у кавярні на рагу — проста падключыцеся адным дотыкам і зрабіце сваю справу.
 vpn-android-about-headline = { -brand-name-mozilla } — імя, якому можна давяраць
