@@ -57,6 +57,10 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } hiển thị c�
 vpn-download-faq-add-device = Làm thế nào để tôi thêm thiết bị khác?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v2 = Thêm một thiết bị khác đơn giản như tải xuống và cài đặt phần mềm { -brand-name-mozilla-vpn }, sau đó đăng nhập vào { -brand-name-firefox-account } hiện có của bạn trên thiết bị mới. Để biết thêm chi tiết, vui lòng xem <a href="{ $subscription }">Cách thêm thiết bị vào thuê bao { -brand-name-mozilla-vpn } của bạn</a>.
+# Outdated string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another = Thêm một thiết bị khác đơn giản như tải xuống và cài đặt phần mềm { -brand-name-mozilla-vpn }, sau đó đăng nhập vào { -brand-name-firefox-account } hiện có của bạn trên thiết bị mới. Để biết thêm chi tiết, vui lòng xem <a href="{ $subscription }">Cách thêm thiết bị vào thuê bao { -brand-name-mozilla-vpn } của bạn</a>.
 vpn-download-faq-best-practices = Một số thực tiễn tốt nhất về VPN là gì?
 vpn-download-faq-traffic = Nếu mục tiêu của bạn là bảo vệ lưu lượng truy cập internet trong khi vẫn giữ tốc độ nhanh, thì tốt nhất bạn nên chọn vị trí máy chủ càng gần vị trí thực của bạn càng tốt. Điều này sẽ tăng độ tin cậy và tốc độ kết nối của bạn vì lưu lượng truy cập internet của bạn sẽ không cần phải đi đường vòng đáng kể trước khi đến đích trên web.
