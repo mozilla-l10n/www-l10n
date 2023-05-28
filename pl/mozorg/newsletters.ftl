@@ -311,3 +311,4 @@ newsletters-security-and-privacy-news = Aktualności na temat bezpieczeństwa i�
 newsletters-stay-informed-of-the-latest = Bądź na bieżąco z najnowszymi trendami w dziedzinie produktów do ochrony prywatności i bezpieczeństwa od { -brand-name-mozilla(case: "gen") }, twórców { -brand-name-firefox(case: "gen") }.
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = Otrzymuj aktualności na temat bezpieczeństwa i prywatności oraz aktualizacje produktów od { -brand-name-mozilla(case: "gen") }, aby zachować bezpieczeństwo i być na bieżąco ze wszystkim, co sprawia, że Internet jest zdrowszym miejscem.
+newsletters-opt-out-delay = Przetworzenie prośby o rezygnację może zająć 1-2 dni robocze. W tym czasie możesz otrzymać kolejną wiadomość.
