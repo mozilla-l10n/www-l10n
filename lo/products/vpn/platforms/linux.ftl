@@ -28,6 +28,7 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } ໃຫ້ທ່ານສາ
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = ເຊື່ອມຕໍ່ໄດ້ເຖິງ { $devices } ອຸປະກອນ
+vpn-linux-devices-copy = ດ້ວຍ​ການ​ສະ​ໝັກ​ໃຊ້​ຄັ້ງ​ດຽວ, ທ່ານ​ສາ​ມາດ​ໄດ້​ຮັບ { -brand-name-mozilla-vpn } ໃນ​ອຸ​ປະ​ກອນ​ທີ່​ແຕກ​ຕ່າງ​ກັນ​ເຖິງ { $devices } ໃນ​ທົ່ວ​ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ, ລວມ​ທັງ { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short }, ແລະ { -brand-name-ios } ສໍາລັບ { -brand-name-iphone } ແລະ { -brand-name-ipad }.
 vpn-linux-speed-headline = ໄວສຸດທີ່ມີຂໍ້ມູນບໍ່ຈໍາກັດ
 vpn-linux-speed-copy = ຫຼິ້ນເກມ, ຖ່າຍທອດຮູບເງົາ ແລະ ລາຍການຕ່າງໆ, ແລະ ທ່ອງເວັບດ້ວຍຄວາມໄວສູງສຸດ ແລະ ບໍ່ຈຳກັດແບນວິດ — { -brand-name-mozilla-vpn } ແມ່ນບໍ່ຈຳກັດ.
 vpn-linux-log-headline = ຂໍ້ມູນຂອງທ່ານເປັນຂອງເຈົ້າ
