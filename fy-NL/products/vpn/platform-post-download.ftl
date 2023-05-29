@@ -61,7 +61,7 @@ vpn-download-faq-adding-another-v2 = Noch in apparaat tafoegje is krekt sa ienf�
 # Outdated string
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Noch in apparaat tafoegje is krekt sa ienfâldich as it downloaden en ynstallearjen fan de { -brand-name-mozilla-vpn }-software en dernei oanmelde by jo besteande { -brand-name-firefox-account } op it nije apparaat. Gean foar mear details nei <a href="{ $subscription }">Apparaten oan jo { -brand-name-mozilla-vpn }-abonnemint tafoegje</a>.
+vpn-download-faq-adding-another = Noch in apparaat tafoegje is krekt sa ienfâldich as it downloaden en ynstallearjen fan de { -brand-name-mozilla-vpn }-software en dernei oanmelde by jo besteande { -brand-name-firefox }-account op it nije apparaat. Gean foar mear details nei <a href="{ $subscription }">Apparaten oan jo { -brand-name-mozilla-vpn }-abonnemint tafoegje</a>.
 vpn-download-faq-best-practices = Wat binne inkelde beste praktiken foar VPN?
 vpn-download-faq-traffic = As it jo doel is om jo ynternetferkear te beskermjen en tagelyk in hege snelheid te behâlden, dan is it altyd it beste om in serverlokaasje te kiezen dy’t sa ticht mooglik by jo fysike lokaasje leit. Dit ferheget de betrouberheid en snelheid fan jo ferbining, omdat jo ynternetferkear gjin grutte omwei hoecht te meitsjen eardat it op de beëage bestimming op ynternet oankomt.
 vpn-download-faq-experience = As it jo doel is om ynternet te ûnderfinen as oft jo jo yn in oar part fan de wrâld binne, kinne jo dêr in serverlokaasje kieze, en alle websites dy’t jo besykje toand wurde as oft jo dêr binne.
