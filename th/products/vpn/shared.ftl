@@ -12,6 +12,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-button = ดูราคาและพื้นที่ให้บริการ
 
 ## VPN Affiliate cookie notice
 
