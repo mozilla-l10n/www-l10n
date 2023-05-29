@@ -61,7 +61,7 @@ vpn-download-faq-adding-another-v2 = Pridanie ďalšieho zariadenia je jednoduch
 # Outdated string
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Pridanie ďalšieho zariadenia je jednoduché. Stačí si stiahnuť a nainštalovať softvér { -brand-name-mozilla-vpn } a potom sa prihlásiť do svojho existujúceho { -brand-name-firefox-account(case: "gen", capitalization: "lower") } na novom zariadení. Ďalšie podrobnosti nájdete v časti <a href="{ $subscription }">Ako pridať zariadenia do svojho predplatného { -brand-name-mozilla-vpn }</a>.
+vpn-download-faq-adding-another = Pridanie ďalšieho zariadenia je jednoduché. Stačí si stiahnuť a nainštalovať softvér { -brand-name-mozilla-vpn } a potom sa prihlásiť do svojho existujúceho účtu { -brand-name-firefox } na novom zariadení. Ďalšie podrobnosti nájdete v časti <a href="{ $subscription }">Ako pridať zariadenia do svojho predplatného { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Aké sú niektoré osvedčené postupy pri používaní VPN?
 vpn-download-faq-traffic = Ak je vaším cieľom chrániť váš internetový prenos pri zachovaní vysokej rýchlosti, potom je vždy najlepšie zvoliť umiestnenie servera, ktoré je čo najbližšie k vašej fyzickej polohe. Zvýši sa tým spoľahlivosť a rýchlosť vášho pripojenia, pretože váš internetový prenos nebude musieť pred príchodom do zamýšľaného cieľa na webe robiť výraznú obchádzku.
 vpn-download-faq-experience = Ak je vaším cieľom zažiť internet, ako keby ste boli v inej časti sveta, môžete si tam vybrať umiestnenie servera a všetky webové stránky, ktoré navštívite, sa zobrazia, ako keby ste tam boli.
