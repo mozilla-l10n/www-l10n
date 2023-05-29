@@ -10,6 +10,7 @@ vpn-ios-page-title = { -brand-name-mozilla-vpn } для { -brand-name-ios } ({ -
 vpn-ios-page-description = Атрымайце хуткую і простую бяспеку свайго { -brand-name-iphone } або { -brand-name-ipad } з дапамогаю { -brand-name-mozilla }, аднаго з самых надзейных брэндаў у галіне тэхналогій.
 # Mobile strings
 vpn-ios-hero-headline = Абараніце сябе ў Інтэрнэце з дапамогай { -brand-name-mozilla-vpn } для { -brand-name-ios }
+vpn-ios-ability = Адчувайце сябе абароненымі ад хакераў і старонніх вачэй, калі вы ў сеціве — як дома, так і на вуліцы — з { -brand-name-mozilla-vpn }. За нізкую штомесячную плату ён выкарыстоўвае перадавы пратакол { -brand-name-wireguard }® для шыфравання асабістых дадзеных на вашым { -brand-name-iphone }, { -brand-name-ipad } і большасці іншых прылад, што дазваляе трансляваць шоу, гуляць у гульні, рабіць пакупкі і займацца паўсядзённым жыццём у Інтэрнэце, ведаючы, што вы ў бяспецы.
 vpn-ios-wifi-headline = Заставайцеся ў бяспецы ў Інтэрнэце, нават калі вы ў дарозе
 vpn-ios-about-headline = Чаму нам давяраюць?
 vpn-ios-privacy-headline = Злучэнне ў 1 націск
