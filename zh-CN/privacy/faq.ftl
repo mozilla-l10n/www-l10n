@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } 不会出�
 privacy-faq-wait-so-how-do-you-make-money = 等等，那你们这样要如何赚钱呢？
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } 绝非寻常组织。自从 1998 年组建为众志开源项目，{ -brand-name-mozilla } 一直由使命驱动，致力于协力打造更健康的互联网。{ -brand-name-mozilla-corporation }的大部份收入由 { -brand-name-firefox } Web 浏览器的搜索合作与遍布世界的各类交易而来。您可以看看我们的<a href="{ $link }">年度财报</a>，详细了解我们的营收从何而来。
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } 绝非寻常组织。自从 1998 年组建为众志开源项目，{ -brand-name-mozilla } 一直由使命驱动，致力于协力打造更健康的互联网。{ -brand-name-mozilla-corporation }的大部分收入由 { -brand-name-firefox } Web 浏览器的搜索合作与遍布世界的各类交易而来。您可以看看我们的<a href="{ $link }">年度财报</a>，详细了解我们的营收从何而来。
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = 好吧，说重点。你们收集了哪些数据？
 # Variables:
