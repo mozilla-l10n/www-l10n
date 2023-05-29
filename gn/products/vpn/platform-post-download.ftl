@@ -17,6 +17,14 @@ vpn-windows-downloading-mozilla-vpn = Emboguejyhína { -brand-name-mozilla-vpn }
 
 ## Shared strings
 
+vpn-open-the-file = 1. Embojuruja marandurenda
+vpn-launch-the-app = 2. Emoñepyrũ tembipuru’i
+vpn-login-or-signup = 3. Emoñepyrũ tembiapo térã eñemboheraguapy
+vpn-turn-on-vpn = 4. Emyandy VPN
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = Eikotevẽpa ñepytyvõ eñepyrũ hag̃ua
+vpn-download-faq-why-use = Mba’érepa eipuruva’erã { -brand-name-mozilla-vpn }
+vpn-download-faq-working = Mba’éichapa aikuaáta VPN oikoporãha
+vpn-download-faq-add-device = Mba’éichapa ambojuajúta ambue mba’e’oka
