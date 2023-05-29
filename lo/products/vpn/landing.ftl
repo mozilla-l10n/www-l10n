@@ -53,11 +53,11 @@ vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } ເກັບ
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-faq-info-question-desc-v2 = ພວກເຮົາປະຕິບັດຕາມຢ່າງເຂັ້ມງວດຕໍ່ <a href="{ $principles }">ຫຼັກການຄວາມເປັນສ່ວນຕົວຂອງຂໍ້ມູນຂອງ { -brand-name-mozilla } ແລະພວກເຮົາເກັບກຳຂໍ້ມູນທີ່ຕ້ອງການເພື່ອຮັກສາ VPN ເຮັດວຽກ ແລະປັບປຸງຜະລິດຕະພັນຕາມເວລາ. . ພວກເຮົາຍັງຕິດຕາມແຄມເປນ ແລະຂໍ້ມູນການສົ່ງຕໍ່ໃນແອັບຯມືຖືຂອງພວກເຮົາ ເພື່ອຊ່ວຍໃຫ້ { -brand-name-mozilla } ເຂົ້າໃຈປະສິດທິພາບຂອງແຄມເປນການຕະຫຼາດຂອງພວກເຮົາ. ອ່ານເພີ່ມເຕີມໃນ <a href="{ $notice }">ປະກາດຄວາມເປັນສ່ວນຕົວ</a> ຂອງພວກເຮົາ.
+vpn-landing-faq-info-question-desc-v2 = ພວກເຮົາປະຕິບັດຕາມຢ່າງເຂັ້ມງວດຕໍ່ <a href="{ $principles }">ຫຼັກການຄວາມເປັນສ່ວນຕົວຂອງຂໍ້ມູນຂອງ</a> { -brand-name-mozilla } ແລະພວກເຮົາເກັບກຳຂໍ້ມູນທີ່ຕ້ອງການເພື່ອຮັກສາ VPN ເຮັດວຽກ ແລະປັບປຸງຜະລິດຕະພັນຕາມເວລາ. . ພວກເຮົາຍັງຕິດຕາມແຄມເປນ ແລະຂໍ້ມູນການສົ່ງຕໍ່ໃນແອັບຯມືຖືຂອງພວກເຮົາ ເພື່ອຊ່ວຍໃຫ້ { -brand-name-mozilla } ເຂົ້າໃຈປະສິດທິພາບຂອງແຄມເປນການຕະຫຼາດຂອງພວກເຮົາ. ອ່ານເພີ່ມເຕີມໃນ <a href="{ $notice }">ປະກາດຄວາມເປັນສ່ວນຕົວ</a> ຂອງພວກເຮົາ.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = ພວກເຮົາບໍ່ໄດ້ບັນທຶກ, ຕິດຕາມ, ຫຼືແບ່ງປັນກິດຈະກໍາເຄືອຂ່າຍຂອງທ່ານ. ພວກເຮົາປະຕິບັດຕາມຢ່າງເຂັ້ມງວດຕໍ່ <a href="{ $url }">ຫຼັກການຄວາມເປັນສ່ວນຕົວຂອງຂໍ້ມູນຂອງ { -brand-name-mozilla } ແລະພວກເຮົາເກັບກຳຂໍ້ມູນທີ່ຕ້ອງການເພື່ອຮັກສາ VPN ແລະປັບປຸງຜະລິດຕະພັນຕາມເວລາ. .
+vpn-landing-faq-info-question-desc = ພວກເຮົາບໍ່ໄດ້ບັນທຶກ, ຕິດຕາມ, ຫຼືແບ່ງປັນກິດຈະກໍາເຄືອຂ່າຍຂອງທ່ານ. ພວກເຮົາປະຕິບັດຕາມຢ່າງເຂັ້ມງວດຕໍ່ <a href="{ $url }">ຫຼັກການຄວາມເປັນສ່ວນຕົວຂອງຂໍ້ມູນຂອງ</a> { -brand-name-mozilla } ແລະພວກເຮົາເກັບກຳຂໍ້ມູນທີ່ຕ້ອງການເພື່ອຮັກສາ VPN ແລະປັບປຸງຜະລິດຕະພັນຕາມເວລາ.
 vpn-landing-faq-protected-question-heading = ຄວາມເປັນສ່ວນຕົວຂອງຂ້ອຍຖືກປົກປ້ອງແນວໃດ?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
