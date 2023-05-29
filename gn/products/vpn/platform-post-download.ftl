@@ -28,3 +28,5 @@ vpn-download-faq-need-help = Eikotevẽpa ñepytyvõ eñepyrũ hag̃ua
 vpn-download-faq-why-use = Mba’érepa eipuruva’erã { -brand-name-mozilla-vpn }
 vpn-download-faq-working = Mba’éichapa aikuaáta VPN oikoporãha
 vpn-download-faq-add-device = Mba’éichapa ambojuajúta ambue mba’e’oka
+vpn-download-faq-best-practices = Mba’épa umi iporãvéva VPN rembiapo
+vpn-download-faq-need-more = Eikotevẽvépa reñepytyvõ
