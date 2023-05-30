@@ -65,5 +65,9 @@ vpn-download-faq-adding-another = 添加另一台设备非常简单，只需下�
 vpn-download-faq-best-practices = 什么是 VPN 最佳实践？
 vpn-download-faq-traffic = 如果您想要在保持高速访问的同时保护您的数据，那么您最好选择一个物理位置离您最近的服务器。这会使您的连接更快更稳定，因为您的数据包不需要走太远的路。
 vpn-download-faq-experience = 如果您想像在目标地点一样体验互联网，您可以在那里选择一个服务器，随后您的浏览就会像您在那里一样。
+vpn-download-faq-protect = 如果您想进一步保护自己，您可以在“设置”>“隐私功能”中打开针对广告、广告追踪器和恶意软件的保护。请注意，这可能会导致某些网站出现故障或无法加载，如果遇到这种情况，您可能需要暂时关闭这些保护。
 vpn-download-faq-lastly = 最后，在可用设备上，您可以通过从 VPN 中排除某些应用程序（例如 Netflix）来使 VPN 更加智能。
 vpn-download-faq-need-more = 需要更多帮助？
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = 您可以直接在 { -brand-name-mozilla-vpn } 应用中联系支持团队，前往“设置”>“获取帮助”>“联系支持”即可开始联系，也可通过<a href="{ $support }">支持专页</a>联系我们。
