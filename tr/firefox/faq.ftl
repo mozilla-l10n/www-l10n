@@ -69,7 +69,7 @@ firefoxs-default-search = { -brand-name-google }, { -brand-name-firefox }'taki v
 does-firefox-have = { -brand-name-firefox }'ta yerleşik bir VPN var mı?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
-firefox-does-not-v2 = { -brand-name-firefox } yerleşik bir VPN (sanal özel ağ) özelliği içermiyor ama { -brand-name-mozilla }, gizlilik yanlısı { -brand-name-firefox-browser }na ek olarak kullanabileceğiniz, Wi-Fi bağlantınızı koruyan ve IP adresinizi gizleyen { -brand-name-mozilla-vpn }</a> adlı bir ürün sunuyor.
+firefox-does-not-v2 = { -brand-name-firefox } yerleşik bir VPN (sanal özel ağ) özelliği içermiyor ama { -brand-name-mozilla }, gizlilik yanlısı { -brand-name-firefox-browser }na ek olarak kullanabileceğiniz, Wi-Fi bağlantınızı koruyan ve IP adresinizi gizleyen <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> adlı bir ürün sunuyor.
 related-questions-ip = İlgili sorular: { -brand-name-firefox } IP adresinizi gizler mi
 who-owns-firefox = { -brand-name-firefox }'un sahibi kim?
 
