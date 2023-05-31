@@ -50,6 +50,10 @@ vpn-download-faq-as-more-daily = A medida que más aspectos de la vida diaria se
 vpn-download-faq-concealing-ip = Ocultando tu verdadera <a href="{ $ip }">dirección IP</a>: Esto ayuda a proteger tu identidad y oculta su ubicación de los sitios que visitas.
 vpn-download-faq-encrypting = Cifrando tu tráfico de Internet: para que nadie en el cable pueda espiar tu actividad en línea.
 vpn-download-faq-working = ¿Cómo sé que el VPN está funcionando?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } muestra indicadores visuales de su estado actual tanto en la barra de herramientas como en la pantalla de inicio de la aplicación, lo que facilita saber si tu actividad en línea está siendo protegida o no. Estos indicadores te permiten confirmar cuando tu navegación es privada y segura. Además, mientras estás conectado, puedes visitar <a href="{ $monitor }">https://monitor.firefox.com/</a> para confirmar si tu dirección IP está enmascarada. Para obtener más detalles, consulta <a href="{ $connected }">¿Cómo puedo saber si { -brand-name-mozilla-vpn } está conectado?</a>.
 vpn-download-faq-add-device = ¿Cómo añado otro dispositivo?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
