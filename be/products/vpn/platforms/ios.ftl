@@ -21,6 +21,10 @@ vpn-ios-servers-headline = Падлучайцеся да больш чым { $se
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Атрымайце доступ для { $devices } прылад
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = З адной падпіскай вы можаце атрымаць { -brand-name-mozilla-vpn } на { $devices } розных прыладах, у тым ліку { -brand-name-ios } для { -brand-name-iphone } і { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } і { -brand-name-linux }.
 vpn-ios-speed-headline = Максімальная хуткасць. Неабмежаваная колькасць даных.
+vpn-ios-speed-copy = Гуляйце ў гульні ў Інтэрнэце, трансліруйце свае любімыя шоу і здзяйсняйце круізы па сеціве на звышвысокіх хуткасцях. Не турбуйцеся аб сваёй прапускной здольнасці на { -brand-name-mozilla-vpn } — яна неабмежаваная.
 vpn-ios-log-headline = Вашы даныя застаюцца прыватнымі. Кропка.
 vpn-ios-log-copy = Некаторыя правайдары VPN рэгіструюць вашу актыўнасць на сваіх серверах. { -brand-name-mozilla-vpn } не толькі не адсочвае вас у Інтэрнэце — мы рашуча супраць гэтага. Гэта вялізная частка таго, за што мы выступаем як кампанія.
