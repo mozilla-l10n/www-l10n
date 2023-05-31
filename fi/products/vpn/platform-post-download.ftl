@@ -41,6 +41,13 @@ vpn-turn-on-vpn = 4. Ota VPN käyttöön
 vpn-download-faq-need-help = Tarvitsetko apua aloittamisen kanssa?
 vpn-download-faq-here-are-some = Tässä on joitain yleisimpiä kysymyksiä { -brand-name-mozilla-vpn }:n määrittämiseen liittyen
 vpn-download-faq-why-use = Miksi minun pitäisi käyttää { -brand-name-mozilla-vpn }:ää
+# Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = Kun yhä enemmän päivittäistä elämää tapahtuu Internetin kautta, yksityisyys ja turvallisuus verkossa tulevat entistä tärkeämmiksi. VPN, <a href="{ $faq }">Virtual Private Network</a>, luo salatun tunnelin laitteidesi ja internetin välille, mikä varmistaa, että yhteytesi pysyy turvallisena ja yksityisenä, ja samalla suojaa sinua kahdella tärkeällä tavalla:
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Häivyttämällä todellisen <a href="{ $ip }">IP-osoitteesi</a>: tämä auttaa suojaamaan henkilöyttäsi ja peittää sijaintisi vierailemiesi verkkosivustojen ulottuvilta.
+vpn-download-faq-encrypting = Salaamalla Internet-liikenteesi: näin kukaan ei voi vakoilla verkkotoimintaasi.
 vpn-download-faq-working = Mistä tiedän, että VPN toimii?
 vpn-download-faq-add-device = Miten lisään toisen laitteen?
 vpn-download-faq-best-practices = Mitkä ovat VPN:n parhaat käytännöt?
