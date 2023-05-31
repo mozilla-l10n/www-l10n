@@ -46,3 +46,6 @@ vpn-download-faq-add-device = Miten lisään toisen laitteen?
 vpn-download-faq-best-practices = Mitkä ovat VPN:n parhaat käytännöt?
 vpn-download-faq-lastly = Lopuksi, tuetuilla laitteilla voit tehdä VPN:stä vieläkin älykkäämmän asettamalla tietyt sovellukset (esim. Netflix) VPN-yhteyden ulkopuolelle.
 vpn-download-faq-need-more = Tarvitsetko hieman lisää apua?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Voit ottaa yhteyttä tukitiimiimme suoraan { -brand-name-mozilla-vpn } -sovelluksesta napsauttamalla Asetukset > Tuki > Ota yhteys tukeen. Voit ottaa meihin yhteyden myös <a href="{ $support }">tukisivumme</a> kautta.
