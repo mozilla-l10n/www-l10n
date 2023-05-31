@@ -43,6 +43,9 @@ vpn-download-faq-need-help = ¿Necesita ayuda para comenzar?
 vpn-download-faq-here-are-some = Estas son algunas de las preguntas más comunes acerca de configurar { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = ¿Por qué debería usar { -brand-name-mozilla-vpn }?
 # Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = A medida que más aspectos de la vida diaria se llevan a cabo a través de Internet, la privacidad y la seguridad en línea se vuelven aún más importantes. Una VPN, <a href="{ $faq }">red privada virtual</a>, crea un túnel cifrado entre tus dispositivos e internet, asegurando que tu conexión permanezca segura y privada mientras te protege de dos formas importantes:
+# Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Ocultando tu verdadera <a href="{ $ip }">dirección IP</a>: Esto ayuda a proteger tu identidad y oculta su ubicación de los sitios que visitas.
 vpn-download-faq-encrypting = Cifrando tu tráfico de Internet: para que nadie en el cable pueda espiar tu actividad en línea.
@@ -56,4 +59,5 @@ vpn-download-faq-adding-another-v2 = Añadir otro dispositivo es tan simple como
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another = Añadir otro dispositivo es tan simple como descargar e instalar el software { -brand-name-mozilla-vpn } y conectarte a tu cuenta de { -brand-name-firefox } existente en el nuevo dispositivo. Para obtener más detalles, consulta <a href="{ $subscription }">Cómo añadir dispositivos a su suscripción a { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = ¿Cuáles son algunas de las mejores prácticas de VPN?
+vpn-download-faq-experience = Si tu objetivo es experimentar Internet como si estuvieras en otra parte del mundo, puedes elegir una ubicación de servidor allí y todos los sitios web que visites se mostrarán como si estuvieras allí.
 vpn-download-faq-need-more = ¿Necesitas un poco más de ayuda?
