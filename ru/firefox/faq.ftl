@@ -69,7 +69,7 @@ firefoxs-default-search = { -brand-name-google } — поисковая сист
 does-firefox-have = Есть ли в { -brand-name-firefox } встроенный VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
-firefox-does-not-v2 = { -brand-name-firefox } не имеет встроенного VPN (виртуальной частной сети), но { -brand-name-mozilla } создает продукт под названием <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, который вы можете использовать в дополнение к частному { -brand-name-firefox-browser }, который может защитить ваше соединение по WiFi, а также ваш IP-адрес.
+firefox-does-not-v2 = { -brand-name-firefox } не имеет встроенного VPN (виртуальной частной сети), но { -brand-name-mozilla } создала продукт под названием <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, который можно использовать в дополнение к приватному { -brand-name-firefox-browser }, защищающего ваше соединение по WiFi, а также ваш IP-адрес.
 related-questions-ip = Связанные вопросы: скрывает ли { -brand-name-firefox } мой IP-адрес?
 who-owns-firefox = Кому принадлежит { -brand-name-firefox }?
 
