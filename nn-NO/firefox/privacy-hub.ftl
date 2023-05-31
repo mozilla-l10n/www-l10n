@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -19,7 +19,7 @@ firefox-privacy-our-promise = Løftet vårt
 firefox-privacy-our-products = Produkta våre
 firefox-privacy-hub-you-should-be-able-to-decide = Du skal kunne bestemme kven som ser den personlege informasjonen din. Ikkje berre blant vennane dine, men med alle annonsørar og firma på nettet — inkludert oss.
 firefox-privacy-hub-thats-why-everything-we-make = Det er grunnen til at alt vi lagar og gjer, respekterer løftet vårt om personopplysningar
-firefox-privacy-hub-take-less = Ta mindre
+firefox-privacy-hub-take-less = Samle mindre
 firefox-privacy-hub-we-make-a-point-of-knowing = Vi gjer eit poeng ut av å vite mindre om deg
 firefox-privacy-hub-all-tech-companies-collect = Alle teknologiselskaper samlar inn data for å forbetre produkta sine. Men det treng ikkje å inkludere så mykje av den personlege informasjonen din. Dei einaste dataa vi ønskjer er dei dataa som tener deg til slutt. Vi spør oss sjølve: treng vi eigentleg dette? Kva treng vi det til? Og når kan vi slette det?
 firefox-privacy-hub-keep-it-safe = Hald det trygt
@@ -27,6 +27,7 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Vi gjer det vanskelege arbe
 firefox-privacy-hub-data-security-is-complicated = Datasikkerheit er komplisert — eller i det minste skal det vere det. Derfor tar vi dei ekstra stega for å klassifisere dataa vi har, held fast på reglar for korleis vi lagrar og tek vare på kvar type data, og sluttar aldri å gjenta prosessane våre. Vi prioriterer personvernet ditt. Vi investerer i det. Vi er opptatt av det. Vi lærer sjølv andre selskap korleis dei skal gjere det.
 firefox-privacy-hub-no-secrets = Ingen hemmelegheiter
 firefox-privacy-hub-youll-always-know-where-you = Du vil alltid vite kvar du står hos oss
+# Obsolete string
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
