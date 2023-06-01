@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
@@ -27,7 +27,7 @@ features-fingerprinting-fingerprinting-is-bad = Сбор цифровых отп
 # $url_has (string) - link to https://www.cosic.esat.kuleuven.be/fpdetective/#paper
 # $url_steadily (string) - link to https://webtransparency.cs.princeton.edu/webcensus/
 # $url_increased (string) - link to https://sensor-js.xyz/
-features-fingerprinting-the-practice-of = Применение сбора цифровых отпечатков позволяет <a { $url_tracked }>отслеживать вас месяцами</a>, даже после того, как вы очищаете кэш браузера или используете режим приватного просмотра — пренебрегая чётким указанием на то, что вы не хотите, чтобы вас отслеживали. Несмотря на почти полную договоренность между всеми <a { $url_bodies }>центрами</a> <a { $url_standards }>стандартизации</a> и <a { $url_vendors }>поставщиками</a> <a { $url_browser }>браузеров</a>, что сбор цифровых отпечатков <a { $url_harmful }>вреден</a>, их использование в Интернете <a { $url_steadily }>стабильно</a> <a { $url_has }>набирает</a> <a { $url_increased }>обороты</a> в последнее десятилетие.
+features-fingerprinting-the-practice-of = Применение сбора цифровых отпечатков позволяет <a { $url_tracked }>отслеживать вас месяцами</a>, даже после того, как вы очищаете кеш браузера или используете режим приватного просмотра — пренебрегая чётким указанием на то, что вы не хотите, чтобы вас отслеживали. Несмотря на почти полную договоренность между всеми <a { $url_bodies }>центрами</a> <a { $url_standards }>стандартизации</a> и <a { $url_vendors }>поставщиками</a> <a { $url_browser }>браузеров</a>, что сбор цифровых отпечатков <a { $url_harmful }>вреден</a>, их использование в Интернете <a { $url_steadily }>стабильно</a> <a { $url_has }>набирает</a> <a { $url_increased }>обороты</a> в последнее десятилетие.
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = Последняя версия браузера { -brand-name-firefox } защищает вас от сбора цифровых отпечатков, блокируя межсайтовые запросы к серверам компаний, которые известны своим участием в подобной деятельности. Мы приложили немало усилий, чтобы при защите вашей приватности не нарушать работу веб-сайтов, которые вам нравятся посещать. (Подробнее можно почитать здесь, если вам интересны <a { $url_details }>технические детали</a>.)
 # $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
