@@ -19,6 +19,11 @@ vpn-mac-downloading-mozilla-vpn = { -brand-name-mac-short } کیتے { -brand-na
 
 ## Shared strings
 
+vpn-open-the-file = 1۔ فائل کھولو
+vpn-launch-the-app = 2۔ ایپ لانچ کرو
+vpn-login-or-signup = 3۔ لاگ ان یا سائن اپ
+vpn-turn-on-vpn = 4۔ وی پی این چالو کرو
 
 ## FAQ Strings
 
+vpn-download-faq-why-use = میں { -brand-name-mozilla-vpn } کیوں ورتاں؟
