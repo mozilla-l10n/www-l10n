@@ -58,7 +58,14 @@ vpn-download-faq-add-device = Miten lisään toisen laitteen?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v2 = Toisen laitteen lisääminen on helppoa, lataa ja asenna { -brand-name-mozilla-vpn } -ohjelmisto ja kirjaudu sitten olemassa olevaan { -brand-name-firefox-account }in uudella laitteella. Lisätietoja tukiartikkelissa <a href="{ $subscription }">Laitteiden lisääminen { -brand-name-mozilla-vpn } -tilaukseen</a>.
+# Outdated string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another = Toisen laitteen lisääminen on helppoa, lataa ja asenna { -brand-name-mozilla-vpn } -ohjelmisto ja kirjaudu sitten olemassa olevaan { -brand-name-firefox }-tiliin uudella laitteella. Lisätietoja tukiartikkelissa <a href="{ $subscription }">Laitteiden lisääminen { -brand-name-mozilla-vpn } -tilaukseen</a>.
 vpn-download-faq-best-practices = Mitkä ovat VPN:n parhaat käytännöt?
+vpn-download-faq-traffic = Jos tavoitteesi on suojata Internet-liikennettäsi ja säilyttää samalla suorituskykyinen nopeus, on parasta valita palvelimen sijainti, joka on mahdollisimman lähellä fyysistä sijaintiasi. Tämä lisää yhteytesi luotettavuutta ja nopeutta, koska Internet-liikenteesi ei tarvitse tehdä merkittävää kiertotietä, ennen kuin se saapuu aiottuun määränpäähän verkossa.
+vpn-download-faq-experience = Jos tavoitteesi on kokea Internet kuin olisit jossain toisessa maassa, voit valita palvelimen sijainnin haluamastasi maasta ja kaikki vierailemasi verkkosivustot näkevät liikenteesi tulevan valitsemastasi maasta.
+vpn-download-faq-protect = Jos haluat suojata itseäsi vieläkin paremmin, voit aktivoida suojaukset mainoksilta, mainosseuraimilta ja haittaohjelmilta menemällä kohtaan Asetukset > Yksityisyysominaisuudet. Huomaa, että tämä saattaa aiheuttaa joidenkin verkkosivustojen rikkoutumisen tai että sivut jäävät latautumatta, joten sinun on ehkä poistettava nämä suojaukset tilapäisesti käytöstä, jos törmäät mainittuihin ongelmiin.
 vpn-download-faq-lastly = Lopuksi, tuetuilla laitteilla voit tehdä VPN:stä vieläkin älykkäämmän asettamalla tietyt sovellukset (esim. Netflix) VPN-yhteyden ulkopuolelle.
 vpn-download-faq-need-more = Tarvitsetko hieman lisää apua?
 # Variables
