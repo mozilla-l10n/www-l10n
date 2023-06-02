@@ -60,6 +60,7 @@ footer-contact = Kapcsolat
 footer-product-help = Termék súgó
 footer-support = Támogatás
 footer-file-a-bug = Hiba bejelentése
+footer-localize-mozilla = A { -brand-name-mozilla } honosítása
 footer-community-participation-guidelines = Közösségi részvételi irányelvek
 footer-websites-privacy-notice = Webhely adatvédelmi nyilatkozata
 footer-websites-cookies = Sütik
