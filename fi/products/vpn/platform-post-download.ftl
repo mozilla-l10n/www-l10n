@@ -35,6 +35,7 @@ vpn-launch-the-app = 2. Käynnistä sovellus
 vpn-login-or-signup = 3. Kirjaudu sisään tai rekisteröidy
 vpn-enter-your-email = Kirjoita sähköpostiosoitteesi kirjautuaksesi sisään tai rekisteröityäksesi ja aloittaaksesi
 vpn-turn-on-vpn = 4. Ota VPN käyttöön
+vpn-pick-a-recommended = Valitse suositeltu sijainti nopeaa ja vakaata yhteyttä varten tai valitse haluamasi sijainti itse ja kytke sitten VPN-yhteys päälle
 
 ## FAQ Strings
 
@@ -49,7 +50,14 @@ vpn-download-faq-as-more-daily = Kun yhä enemmän päivittäistä elämää tap
 vpn-download-faq-concealing-ip = Häivyttämällä todellisen <a href="{ $ip }">IP-osoitteesi</a>: tämä auttaa suojaamaan henkilöyttäsi ja peittää sijaintisi vierailemiesi verkkosivustojen ulottuvilta.
 vpn-download-faq-encrypting = Salaamalla Internet-liikenteesi: näin kukaan ei voi vakoilla verkkotoimintaasi.
 vpn-download-faq-working = Mistä tiedän, että VPN toimii?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } näyttää visuaalisia ilmaisimia VPN-yhteyden tilasta sekä työkalupalkissa että sovelluksen aloitusnäkymässä, joten on helppo tietää, onko verkkotoimintasi suojattu vai ei. Näiden ilmaisimien avulla voit varmistua, milloin liikkuminen on yksityistä ja turvallista. Kun olet yhteydessä, voit myös käydä osoitteessa <a href="{ $monitor }">https://monitor.firefox.com/</a> varmistaaksesi, onko IP-osoitteesi peitetty. Lisätietoja on tukiartikkelissa <a href="{ $connected }">Kuinka tiedän, onko { -brand-name-mozilla-vpn } yhdistetty?</a>.
 vpn-download-faq-add-device = Miten lisään toisen laitteen?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v2 = Toisen laitteen lisääminen on helppoa, lataa ja asenna { -brand-name-mozilla-vpn } -ohjelmisto ja kirjaudu sitten olemassa olevaan { -brand-name-firefox-account }in uudella laitteella. Lisätietoja tukiartikkelissa <a href="{ $subscription }">Laitteiden lisääminen { -brand-name-mozilla-vpn } -tilaukseen</a>.
 vpn-download-faq-best-practices = Mitkä ovat VPN:n parhaat käytännöt?
 vpn-download-faq-lastly = Lopuksi, tuetuilla laitteilla voit tehdä VPN:stä vieläkin älykkäämmän asettamalla tietyt sovellukset (esim. Netflix) VPN-yhteyden ulkopuolelle.
 vpn-download-faq-need-more = Tarvitsetko hieman lisää apua?
