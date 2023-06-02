@@ -60,6 +60,7 @@ footer-contact = Hafa samband
 footer-product-help = Aðstoð með hugbúnað
 footer-support = Aðstoð
 footer-file-a-bug = Skrá villu
+footer-localize-mozilla = Staðfæra { -brand-name-mozilla }
 footer-community-participation-guidelines = Leiðbeiningar um þátttöku í samfélaginu
 footer-websites-privacy-notice = Persónuverndarstefna vefsvæðis
 footer-websites-cookies = Vefkökur
