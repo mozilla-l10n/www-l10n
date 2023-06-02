@@ -39,3 +39,4 @@ vpn-download-based-on-your = Na základě vašeho aktuálního zařízení
 vpn-download-get-mozilla-vpn = Získejte { -brand-name-mozilla-vpn(case: "acc") }
 vpn-download-privacy-you-can = Soukromí, kterému můžete věřit
 vpn-download-also-available = K dispozici také pro:
+vpn-download-we-never-log = Nikdy si nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data.

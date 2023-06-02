@@ -20,6 +20,8 @@ features-translate-get-firefox-translations = Získat { -brand-name-firefox-tran
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = Překladač { -brand-name-google } s více než 100 dostupnými jazyky* používají miliony lidí na celém světě. Neustálé přecházení sem a tam mezi stránkou translate.google.com a stránkou, kterou se snažíte přečíst, ovšem není zrovna ideální. Rozšíření <a { $attrs }>To { -brand-name-google } Translate</a> umožňuje překládat stránku, na které se nacházíte, snadněji než kdykoli předtím.
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+features-translate-get-to-google-translate = Získat To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Získat toto rozšíření
 features-translate-once-installed-simply = Po jeho instalaci jednoduše zvýrazněte text, který chcete přeložit, a klikněte pravým tlačítkem myši, čímž se zobrazí nabídka se dvěma možnostmi: první vás přenese na stránku translate.google.com, na níž se vybraný text automaticky vloží do překladového pole, druhá vám umožní si poslechnout výslovnost dané fráze (pomocí funkce { -brand-name-google } Text-to-Speech), což je užitečné, pokud se snažíte naučit nový jazyk.

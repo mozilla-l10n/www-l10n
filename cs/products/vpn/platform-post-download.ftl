@@ -9,6 +9,7 @@
 
 ## Windows download page
 
+vpn-windows-download-page-title = Stáhnout { -brand-name-mozilla-vpn } pro { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = Stahuje se { -brand-name-mozilla-vpn } pro { -brand-name-windows }…
 vpn-windows-go-to-your-downloads = Přejděte do složky se staženými soubory a dvakrát klepněte na soubor .msi
 vpn-windows-a-progress-bar = Zobrazí se indikátor průběhu a zahájí se proces instalace
