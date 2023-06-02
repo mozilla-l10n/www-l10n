@@ -25,6 +25,7 @@ firefox-developer-network = አውታረ መረብ
 firefox-developer-monitor-network-requests = ድረ-ገጽዎን ሊያዘገዩ ወይም ሊያግዱ የሚችሉ የአውታረ መረብ ጥያቄዎችን ይቆጣጠሩ።
 firefox-developer-learn-more-about-newtork-monitor = ስለአውታረ መረብ መቆጣጠሪያ የበለጠ ይወቁ
 firefox-developer-storage-panel = የማጠራቀሚያ ፓነል
+firefox-developer-learn-more-about-storage = ስለ ማከማቻ ፓነል የበለጠ ይወቁ
 firefox-developer-responsive-design-mode = ምላሽ ሰጪ ንድፍ ሁነታ
 firefox-developer-visual-editing = ምስላዊ አርትዖት
 firefox-developer-learn-more-about-visual-editing = ስለ ምስላዊ አርትዖት የበለጠ ይወቁ
