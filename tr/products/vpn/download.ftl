@@ -12,17 +12,32 @@ vpn-download-page-description = { -brand-name-windows }, { -brand-name-mac }, { 
 vpn-download-sub-heading = Tek bir abonelikle { -brand-name-mozilla-vpn }’i { $devices } cihaza indirebilirsiniz.
 vpn-download-not-available-in-country = Maalesef { -brand-name-mozilla-vpn } ülkenizden indirilemiyor.
 vpn-download-button-copy = İndir
+# Obsolete string
 vpn-download-for-windows = { -brand-name-windows } 10/11 için VPN
+vpn-download-for-windows-v2 = { -brand-name-windows } için VPN
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (yalnızca 64 bit)
+vpn-download-for-windows-long = { -brand-name-windows } için { -brand-name-mozilla-vpn }’i indir
 vpn-download-for-mac = { -brand-name-mac-short } için VPN
+vpn-download-for-mac-long = { -brand-name-mac-short } için { -brand-name-mozilla-vpn }’i indir
 # Variables:
 #   $version (number) - operating system version
 vpn-download-version-requirements = Sürüm { $version } ve üstü
 vpn-download-for-linux = { -brand-name-linux } için VPN
+vpn-download-for-linux-long = { -brand-name-linux } için { -brand-name-mozilla-vpn }’i indir
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } ve üstü
 vpn-download-for-android = { -brand-name-android } için VPN
+vpn-download-for-android-long = { -brand-name-android } için { -brand-name-mozilla-vpn }’i indir
 vpn-download-for-ios = { -brand-name-ios } için VPN
+vpn-download-for-ios-long-v2 = { -brand-name-ios } için { -brand-name-mozilla-vpn }’i indir
 vpn-download-get-on-google-play = { -brand-name-google-play } Store’dan indir
 vpn-download-get-on-app-store = { -brand-name-app-store }’dan indir
+vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin
+vpn-download-privacy-you-can = Güvenebileceğiniz gizlilik
+vpn-download-also-available = Bunun için de var:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = { -brand-name-firefox } uygulamasının yapımcısı olan { -brand-name-mozilla-vpn }, çevrimiçi etkinliğinizi şifrelemek ve konumunuzu gizlemek için gelişmiş <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protokolünü kullanır.
+vpn-download-we-never-log = Ağ trafiğinizi asla kaydetmiyor, izlemiyor ve paylaşmıyoruz

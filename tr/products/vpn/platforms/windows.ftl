@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-windows } 10 için { -brand-name-mozilla-vpn }
+vpn-windows-page-description = 1998'den beri dijital gizliliğiniz için savaşan bir internet öncüsü olan { -brand-name-mozilla } tarafından sunulan bir sanal özel ağ (VPN) ile tüm bilgisayarınızı koruyun.
 # Windows strings
 vpn-windows-hero-headline = { -brand-name-windows } 10 için { -brand-name-mozilla-vpn } ile bağlı ve güvende kalın
 vpn-windows-wifi-headline = Herkese açık kablosuz ağlarda gizli kalın
