@@ -18,3 +18,6 @@ compare-opera-the-firefox-browser-and-opera = የ{ -brand-name-firefox-browser }
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-opera-firefoxs-privacy-policy-is = የ{ -brand-name-firefox } <a { $attrs }>የግላዊነት መመሪያ</a> በመስመር ላይ በሚያጋሩት መረጃ ላይ የበለጠ ቁጥጥር ለማድረግ ብቸኛው የመጨረሻ ግብ ምን አይነት የግል መረጃ እንደምንሰበስብ ለመግለፅ በጣም ግልፅ ነው። .
 compare-opera-as-far-as-actual-privacy-protections = በ{ -brand-name-opera } አሳሽ ውስጥ ያሉ ትክክለኛ የግላዊነት ጥበቃዎች፣ አሳሹ እንቅስቃሴዎን ሳይከታተል ድሩን እንዲያንሸራትቱ የሚያስችል ጠንካራ የግል ሁነታን ይሰጣል። እንዲሁም በተለመደው የአሰሳ ሁነታ የማስታወቂያ ማገጃውን ለማንቃት እና ሌሎች የደህንነት ባህሪያትን ለማስተካከል ወደ ቅንጅቶቹ ውስጥ በመግባት አንዳንድ የውሂብ መሰብሰቢያ ባህሪያትን ማጥፋት ይችላሉ።
+# Variables:
+#   $attrs (string) - link to https://blog.mozilla.org/blog/2019/09/03/todays-firefox-blocks-third-party-tracking-cookies-and-cryptomining-by-default/ with additional attributes for analytics
+compare-opera-with-the-latest-version-of = በአዲሱ የ{ -brand-name-firefox } ስሪት፣ <a { $attrs }>የተሻሻለ የመከታተያ ጥበቃ</a> በመደበኛ የአሰሳ ሁነታ በነባሪነት በርቷል፣ ስለዚህ ራስዎን ከመከታተያዎች ለመጠበቅ ሲባል ብቻ ቅንብሮችን በማስተካከል መጨናነቅ የለብዎትም። የተሻሻለ የመከታተያ ጥበቃ ጋር { -brand-name-firefox } በድር ዙሪያ እርስዎን ለመከተል የሚሞክሩ በሺዎች የሚቆጠሩ የሶስተኛ ወገን መከታተያዎችን በንቃት ያግዳል። ድሩን በሚያስሱበት ጊዜ { -brand-name-firefox } ምን ያህል ጊዜ የሶስተኛ ወገን ኩኪዎችን፣ ማህበራዊ ሚዲያ መከታተያዎችን፣ የጣት አሻራ መሳሪያዎችን እና ስነ ስውር ቆፋሪዎች እንደታገዱ የሚያሳይ ለግል የተበጀ የጥበቃ ሪፖርት ቀርቦልዎታል።
