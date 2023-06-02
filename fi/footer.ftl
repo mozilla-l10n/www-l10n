@@ -60,6 +60,7 @@ footer-contact = Yhteystiedot
 footer-product-help = Tuotetuki
 footer-support = Tuki
 footer-file-a-bug = Ilmoita virheestä
+footer-localize-mozilla = Lokalisoi { -brand-name-mozilla }
 footer-community-participation-guidelines = Yhteisöön osallistumisen periaatteet
 footer-websites-privacy-notice = Sivuston yksityisyyskäytäntö
 footer-websites-cookies = Evästeet
