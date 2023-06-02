@@ -25,5 +25,10 @@ vpn-windows-servers-headline = Dünyanın her yerindeki sunuculara erişin
 #   $servers (number) - number of available servers
 vpn-windows-servers-copy = { $countries } üzerindeki ülkeden { $servers } üzerindeki sunucu ile çevrimiçi olarak yapmanız gereken her şeyi yapabilirsiniz. Cihazınızın konumunu dünyanın neredeyse her yerine ayarlayarak göz atın, alışveriş yapın ve haberleri takip edin.
 vpn-windows-devices-headline = Tüm cihazlarınız için tek abonelik
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = { -brand-name-mozilla-vpn } aboneliği, { -brand-name-windows } için ({ -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ve { -brand-name-ios } dahil) { $devices } cihaza kadar güvenli VPN hizmetimize sınırsız erişim olanağı sağlar.
 vpn-windows-speed-headline = Bant genişliği kısıtlaması yok
+vpn-windows-speed-copy = Yüksek hızda yayın yapın, oyun oynayın, alışveriş yapın ve interneti keşfedin. Sınırsız veri ve bant genişliği kısıtlaması yoktur; { -brand-name-mozilla-vpn } önünüzü kesmez.
 vpn-windows-log-headline = Gizliliğiniz önceliğimizdir
+vpn-windows-log-copy = { -brand-name-mozilla } gizliliğinize öncelik veren daha iyi bir internet için çalışmaktan asla vazgeçmeyecek. Bu nedenle { -brand-name-mozilla-vpn } sizin hakkınızda herhangi bir veri toplamaz veya çevrimiçi etkinliğinizi kaydetmez. Ürünlerimizin hiçbiri bunu yapmaz.
