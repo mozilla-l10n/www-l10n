@@ -19,6 +19,8 @@ vpn-mac-downloading-mozilla-vpn = { -brand-name-mac-short } کیتے { -brand-na
 
 ## Shared strings
 
+vpn-download-unable-to-download = { -brand-name-mozilla-vpn } کوں ڈاؤن لوڈ کرݨ دے قابل کائنی
+vpn-download-not-in-country = افسوس، تہاݙے ملک وچ { -brand-name-mozilla-vpn } دستیاب کائنی۔
 vpn-open-the-file = 1۔ فائل کھولو
 vpn-launch-the-app = 2۔ ایپ لانچ کرو
 vpn-login-or-signup = 3۔ لاگ ان یا سائن اپ
@@ -27,3 +29,4 @@ vpn-turn-on-vpn = 4۔ وی پی این چالو کرو
 ## FAQ Strings
 
 vpn-download-faq-why-use = میں { -brand-name-mozilla-vpn } کیوں ورتاں؟
+vpn-download-faq-need-more = بھلا کجھ ٻئی مدد دی لوڑ ہے؟
