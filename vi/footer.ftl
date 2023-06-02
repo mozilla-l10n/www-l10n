@@ -60,6 +60,7 @@ footer-contact = Liên hệ
 footer-product-help = Trợ giúp sản phẩm
 footer-support = Hỗ trợ
 footer-file-a-bug = Báo cáo lỗi
+footer-localize-mozilla = Bản địa hóa { -brand-name-mozilla }
 footer-community-participation-guidelines = Nguyên tắc tham gia của cộng đồng
 footer-websites-privacy-notice = Thông báo bảo mật trang web
 footer-websites-cookies = Cookie
