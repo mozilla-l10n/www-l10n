@@ -60,6 +60,7 @@ footer-contact = 聯絡我們
 footer-product-help = 產品說明
 footer-support = 技術支援
 footer-file-a-bug = 回報 Bug
+footer-localize-mozilla = 在地化 { -brand-name-mozilla }
 footer-community-participation-guidelines = 社群參與準則
 footer-websites-privacy-notice = 網站隱私權保護政策
 footer-websites-cookies = Cookie
