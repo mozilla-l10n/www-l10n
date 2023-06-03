@@ -60,6 +60,7 @@ footer-contact = 联系我们
 footer-product-help = 产品帮助
 footer-support = 用户支持
 footer-file-a-bug = 提交 Bug
+footer-localize-mozilla = 本地化 { -brand-name-mozilla }
 footer-community-participation-guidelines = 社区参与准则
 footer-websites-privacy-notice = 隐私
 footer-websites-cookies = Cookie
