@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -67,12 +67,9 @@ does-firefox-use = Používá { -brand-name-firefox } vyhledávač { -brand-name
 
 firefoxs-default-search = { -brand-name-google } je ve { -brand-name-firefox(case: "loc") } jako výchozí vyhledávač, což znamená, že pomocí něj můžete na webu vyhledávat přímo z adresního řádku. Zjistěte více o <a href="{ $url }">nastavení a změně výchozího vyhledávače</a>.
 does-firefox-have = Má { -brand-name-firefox } vestavěnou VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } nemá vestavěnou VPN (virtuální privátní síť), ale existují dva produkty společnosti { -brand-name-mozilla }, které můžete používat společně se soukromým { -brand-name-firefox-browser(case: "ins", capitalization: "lower") } a které mohou chránit buď připojení prohlížeče (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) nebo zařízení (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) k síti WiFi, jakož i vaši IP adresu.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } neobsahuje zabudovanou VPN (virtuální privátní síť), ale { -brand-name-mozilla } vytváří produkt s názvem <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, který můžete použít jako doplněk k soukromému { -brand-name-firefox-browser(case: "dat", capitalization: "lower") } , který může chránit vaše připojení na Wi-Fi, stejně jako vaši IP adresu.
 related-questions-ip = A s tím souvisí: skryje { -brand-name-firefox } mou IP adresu?
 who-owns-firefox = Kdo vlastní { -brand-name-firefox(case: "acc") }?
 

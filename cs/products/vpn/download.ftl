@@ -10,6 +10,7 @@ vpn-download-page-description = Stáhněte si aplikaci { -brand-name-mozilla-vpn
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = S jedním předplatným si můžete stáhnout aplikaci { -brand-name-mozilla-vpn } až pro { $devices } zařízení.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } nabízí bezpečí a ochranu pro všechny hlavní operační systémy.
 vpn-download-not-available-in-country = Je nám líto, ale aplikace { -brand-name-mozilla-vpn } není ve vaší zemi k dispozici ke stažení.
 vpn-download-button-copy = Stáhnout
 # Obsolete string
@@ -40,3 +41,4 @@ vpn-download-get-mozilla-vpn = Získejte { -brand-name-mozilla-vpn(case: "acc") 
 vpn-download-privacy-you-can = Soukromí, kterému můžete věřit
 vpn-download-also-available = K dispozici také pro:
 vpn-download-we-never-log = Nikdy si nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data.
+vpn-download-previous-versions = Stáhněte si předchozí verze pro { -brand-name-windows } a { -brand-name-mac-short }

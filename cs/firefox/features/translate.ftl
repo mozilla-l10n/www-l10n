@@ -15,6 +15,8 @@ features-translate-the-google-translate = Rozšíření To { -brand-name-google 
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Internet je plný úžasných věcí, ale velká část z nich není napsána v potřebném jazyce, takže miliardy lidí na celém světě potřebují překladač, aby vůbec mohli internet používat. { -brand-name-firefox(case: "acc") } si sice můžete <a { $attrs }>stáhnout ve více než 100 jazycích</a>, takže nabídky, oznámení a dialogy prohlížeče se zobrazují ve vámi preferovaném jazyce, jenže to neřeší problém se vším tím úžasným obsahem, který pomocí prohlížeče vyhledáváte.
 features-translate-firefox-translations = { -brand-name-firefox-translations }
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = Rozšíření <a { $attrs }>{ -brand-name-firefox-translations }</a> dokáže automaticky přeložit obsah webových stránek, které navštívíte. Na rozdíl od některých cloudových alternativ toto rozšíření překládá text lokálně ve { -brand-name-firefox(case: "loc") }, takže obsah, který překládáte, neopustí váš počítač.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Získat { -brand-name-firefox-translations }
 features-translate-to-google-translate = To { -brand-name-google } Translate

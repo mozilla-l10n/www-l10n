@@ -19,6 +19,7 @@ vpn-windows-a-progress-bar = Zobrazí se indikátor průběhu a zahájí se proc
 vpn-mac-download-page-title = Stáhnout { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = Stahuje se { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }…
 vpn-mac-go-to-your-downloads = Přejděte do složky se staženými soubory a dvakrát klepněte na soubor .pkg
+vpn-mac-follow-the-steps = Postupujte podle kroků uvedených v instalačním programu { -brand-name-mozilla-vpn }
 
 ## Shared strings
 
