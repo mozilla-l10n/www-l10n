@@ -25,6 +25,11 @@ vpn-mac-follow-the-steps = Postupujte podle kroků uvedených v instalačním pr
 
 vpn-download-unable-to-download = Stažení { -brand-name-mozilla-vpn } se nezdařilo
 vpn-download-not-in-country = Je nám líto, ale aplikace { -brand-name-mozilla-vpn } není ve vaší zemi k dispozici.
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = Stahování { -brand-name-mozilla-vpn } by se mělo spustit automaticky. Pokud se tak nestane, <br><a href="{ $url }" id="{ $id }">restartujte stahování</a> nebo přejděte zpět pro stažení pro jiné zařízení.
 vpn-open-the-file = 1. Otevřete soubor
 vpn-launch-the-app = 2. Spusťte aplikaci
 vpn-login-or-signup = 3. Přihlaste se nebo zaregistrujte
