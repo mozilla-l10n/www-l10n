@@ -21,6 +21,9 @@ vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } вельмі просты ў 
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Падлучайцеся да больш чым { $servers } сервераў па ўсім свеце
 # Variables:
+#   $countries (number) - number of available countries
+vpn-ios-servers-copy = Купляйце з Швейцарыі. Стрымьце з Канады. Катайцеся на хвалі з Аўстраліі. З дапамогай { -brand-name-mozilla-vpn } вы можаце прызначыць месцазнаходжанне вашага { -brand-name-iphone } або { -brand-name-ipad } у адной з { $countries }+ краін, адкрываючы доступ да свету захапляльнага змесціва.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Атрымайце доступ для { $devices } прылад
 # Variables:
