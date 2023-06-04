@@ -67,12 +67,9 @@ does-firefox-use = Да ли { -brand-name-firefox } користи { -brand-nam
 
 firefoxs-default-search = { -brand-name-google } је подразумевани претраживач у { -brand-name-firefox }-у, што значи да можете претраживати веб директно из адресне траке. <a href="{ $url }">Сазнајте више о подешавањима и промени подразумеваног претраживача.</a>
 does-firefox-have = Да ли { -brand-name-firefox } има уграђени VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } нема уграђен VPN (виртуелну приватну мрежу), али постоје два { -brand-name-mozilla }/{ -brand-name-firefox } производа која можете да користите паралелно уз приватни { -brand-name-firefox-browser } и који могу да заштитите везу прегледача (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) или уређаја (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) на WiFi мрежи, као и вашу IP адресу.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } нема уграђен VPN (виртуелну приватну мрежу), али { -brand-name-mozilla } има <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> који можете да користите уз приватни { -brand-name-firefox-browser } да заштитите вашу Wi-Fi везу, као и IP адресу.
 related-questions-ip = Повезана питања: да ли { -brand-name-firefox } сакрива вашу IP адресу
 who-owns-firefox = Чији је { -brand-name-firefox }?
 

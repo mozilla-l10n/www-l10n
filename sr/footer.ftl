@@ -60,6 +60,7 @@ footer-contact = Контакт
 footer-product-help = Помоћ за производ
 footer-support = Подршка
 footer-file-a-bug = Пријавите грешку
+footer-localize-mozilla = Преведите { -brand-name-mozilla }-у
 footer-community-participation-guidelines = Смернице за учешће у заједници
 footer-websites-privacy-notice = Напомена о заштити приватности странице
 footer-websites-cookies = Колачићи
