@@ -60,6 +60,7 @@ footer-contact = Kontakt
 footer-product-help = Pomocník
 footer-support = Podpora
 footer-file-a-bug = Nahláste chybu
+footer-localize-mozilla = Lokalizácia { -brand-name-mozilla(case: "gen") }
 footer-community-participation-guidelines = Pravidlá pre prispievanie
 footer-websites-privacy-notice = Vyhlásenie o ochrane osobných údajov webovej stránky
 footer-websites-cookies = Cookies
