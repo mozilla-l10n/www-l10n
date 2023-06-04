@@ -50,3 +50,8 @@ vpn-download-faq-as-more-daily = Како се све већи део нашег
 vpn-download-faq-concealing-ip = Сакривањем ваше праве <a href="{ $ip }">IP адресе</a>: ово помаже у заштити вашег идентитета и прикривању ваше локације од сајтова које посећујете.
 vpn-download-faq-encrypting = Шифровањем вашег интернет саобраћаја: тако да нико не може да шпијунира ваше активности на мрежи.
 vpn-download-faq-working = Како да знам да VPN ради исправно?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } приказује визуелне индикаторе тренутног статуса и на траци са алаткама и на почетном екрану апликације, што олакшава да видите јесу ли ваше активности на мрежи заштићене или не. Ови индикатори вам омогућавају да проверите је ли ваше прегледање приватно и безбедно. Такође, када се повежете, можете посетити <a href="{ $monitor }">https://monitor.firefox.com/</a> да видите да ли је ваша IP адреса маскирана. Погледајте <a href="{ $connected }">Како да знам да је { -brand-name-mozilla-vpn } повезан?</a> за више детаља.
+vpn-download-faq-add-device = Како да додам још један уређај?
