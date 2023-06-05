@@ -28,5 +28,7 @@ vpn-turn-on-vpn = 4۔ وی پی این چالو کرو
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = بھلا شروع کرݨ کیتے مدد دی لوڑ ہے؟
 vpn-download-faq-why-use = میں { -brand-name-mozilla-vpn } کیوں ورتاں؟
+vpn-download-faq-add-device = میں ہک ٻئی ڈیوائس کین٘ویں شامل کر سڳداں؟
 vpn-download-faq-need-more = بھلا کجھ ٻئی مدد دی لوڑ ہے؟
