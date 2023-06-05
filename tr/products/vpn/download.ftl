@@ -10,6 +10,7 @@ vpn-download-page-description = { -brand-name-windows }, { -brand-name-mac }, { 
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Tek bir abonelikle { -brand-name-mozilla-vpn }’i { $devices } cihaza indirebilirsiniz.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn }, başlıca tüm işletim sistemleri için güvenli koruma sunar.
 vpn-download-not-available-in-country = Maalesef { -brand-name-mozilla-vpn } ülkenizden indirilemiyor.
 vpn-download-button-copy = İndir
 # Obsolete string
@@ -31,8 +32,11 @@ vpn-download-for-android = { -brand-name-android } için VPN
 vpn-download-for-android-long = { -brand-name-android } için { -brand-name-mozilla-vpn }’i indir
 vpn-download-for-ios = { -brand-name-ios } için VPN
 vpn-download-for-ios-long-v2 = { -brand-name-ios } için { -brand-name-mozilla-vpn }’i indir
+# Obsolete string
+vpn-download-for-ios-long = { -brand-name-ios } için { -brand-name-mozilla-vpn } VPN indir
 vpn-download-get-on-google-play = { -brand-name-google-play } Store’dan indir
 vpn-download-get-on-app-store = { -brand-name-app-store }’dan indir
+vpn-download-based-on-your = Mevcut cihazınıza uygun sürüm
 vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin
 vpn-download-privacy-you-can = Güvenebileceğiniz gizlilik
 vpn-download-also-available = Bunun için de var:
@@ -41,3 +45,4 @@ vpn-download-also-available = Bunun için de var:
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = { -brand-name-firefox } uygulamasının yapımcısı olan { -brand-name-mozilla-vpn }, çevrimiçi etkinliğinizi şifrelemek ve konumunuzu gizlemek için gelişmiş <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protokolünü kullanır.
 vpn-download-we-never-log = Ağ trafiğinizi asla kaydetmiyor, izlemiyor ve paylaşmıyoruz
+vpn-download-previous-versions = { -brand-name-windows } ve { -brand-name-mac-short } için önceki sürümleri indirin

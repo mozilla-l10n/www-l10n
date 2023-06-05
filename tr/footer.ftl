@@ -60,6 +60,7 @@ footer-contact = İletişim
 footer-product-help = Ürün Yardımı
 footer-support = Destek
 footer-file-a-bug = Hata Bildirin
+footer-localize-mozilla = { -brand-name-mozilla }’yı yerelleştirin
 footer-community-participation-guidelines = Topluluk Katılım Kuralları
 footer-websites-privacy-notice = Web Sitesi Gizlilik Bildirimi
 footer-websites-cookies = Çerezler
