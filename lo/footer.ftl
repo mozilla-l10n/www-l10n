@@ -60,6 +60,7 @@ footer-contact = ຕິດຕໍ່
 footer-product-help = ການຊ່ວຍເຫຼືອຜະລິດຕະພັນ
 footer-support = ສະຫນັບສະຫນູນ
 footer-file-a-bug = ລາຍງານບັກ
+footer-localize-mozilla = ແປ { -brand-name-mozilla }
 footer-community-participation-guidelines = ຂໍ້ແນະນຳການມີສ່ວນຮ່ວມຂອງຊຸມຊົນ
 footer-websites-privacy-notice = ປະກາດຄວາມເປັນສ່ວນຕົວຂອງເວັບໄຊທ໌
 footer-websites-cookies = ຄຸກກີ
