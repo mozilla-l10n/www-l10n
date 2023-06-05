@@ -15,6 +15,7 @@ vpn-windows-downloading-mozilla-vpn = Emboguejyhína { -brand-name-mozilla-vpn }
 ## Mac download page
 
 vpn-mac-download-page-title = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-mac-short } peg̃uarã
+vpn-mac-downloading-mozilla-vpn = Emboguejyhína { -brand-name-mozilla-vpn } { -brand-name-mac-short }… peg̃uarã
 
 ## Shared strings
 
