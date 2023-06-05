@@ -23,6 +23,10 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 
 ## VPN Affiliate cookie notice
 
+vpn-shared-affiliate-notification-reject = ප්‍රතික්‍ෂේප
+
+## VPN + Relay bundle offer
+
 
 ##
 
