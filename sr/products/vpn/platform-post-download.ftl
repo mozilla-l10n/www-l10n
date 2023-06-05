@@ -55,3 +55,10 @@ vpn-download-faq-working = Како да знам да VPN ради исправ
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } приказује визуелне индикаторе тренутног статуса и на траци са алаткама и на почетном екрану апликације, што олакшава да видите јесу ли ваше активности на мрежи заштићене или не. Ови индикатори вам омогућавају да проверите је ли ваше прегледање приватно и безбедно. Такође, када се повежете, можете посетити <a href="{ $monitor }">https://monitor.firefox.com/</a> да видите да ли је ваша IP адреса маскирана. Погледајте <a href="{ $connected }">Како да знам да је { -brand-name-mozilla-vpn } повезан?</a> за више детаља.
 vpn-download-faq-add-device = Како да додам још један уређај?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v2 = Додавање новог уређаја је једноставно као преузимање и инсталирање { -brand-name-mozilla-vpn } софтвера, а потом пријављивање на ваш постојећи { -brand-name-firefox-account } на новом уређају. Погледајте <a href="{ $subscription }">Како да додам уређаје у { -brand-name-mozilla-vpn } претплату</a> за више детаља.
+# Outdated string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another = Додавање новог уређаја је једноставно као преузимање и инсталирање { -brand-name-mozilla-vpn } софтвера, а потом пријављивање на ваш постојећи { -brand-name-firefox } налог на новом уређају. Погледајте <a href="{ $subscription }">Како да додам уређаје у { -brand-name-mozilla-vpn } претплату</a> за више детаља.
