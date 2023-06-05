@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } ha oikovéva
 vpn-download-for-android = VPN { -brand-name-android } peg̃uarã
 vpn-download-for-android-long = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-android } peg̃uarã
 vpn-download-for-ios = VPN { -brand-name-ios } peg̃uerã
+vpn-download-for-ios-long-v2 = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-ios } peg̃uarã
+# Obsolete string
 vpn-download-for-ios-long = Emboguejy VPN { -brand-name-mozilla-vpn } { -brand-name-ios } peg̃uarã
 vpn-download-get-on-google-play = Erekokuaa { -brand-name-google-play } Store rupi
 vpn-download-get-on-app-store = Erekokuaa { -brand-name-app-store } rupi

@@ -60,6 +60,7 @@ footer-contact = Ñe’ẽha
 footer-product-help = Mba’e ñepytyvõ
 footer-support = Ñepytyvõ
 footer-file-a-bug = Emomarandu jejavy
+footer-localize-mozilla = Emoñe’ẽasa { -brand-name-mozilla }
 footer-community-participation-guidelines = Mba’éichapa eikekuaa tekohápe
 footer-websites-privacy-notice = Ñekundaha
 footer-websites-cookies = Kookie
