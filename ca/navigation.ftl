@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Baixa el { -brand-name-firefox }
 navigation-get-a-firefox-account = Crea un { -brand-name-firefox-account }
@@ -18,10 +18,11 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } per al { -brand-name-fi
 navigation-watch-videos-and-browse = Vegeu vídeos i navegueu per Internet des de la plataforma { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Els navegadors { -brand-name-firefox } posen la vostra privadesa per sobre de tot, des de sempre.
 navigation-take-the-passwords-youve = Accediu a les contrasenyes que heu desat en el { -brand-name-firefox } des de qualsevol lloc.
+# Outdated string
 navigation-firefox-is-a-whole-family = La família de productes { -brand-name-firefox } està dissenyada per a navegar per Internet de forma més intel·ligent i segura.
 navigation-join-firefox = Uniu-vos al { -brand-name-firefox }
 navigation-access-all-of-firefox = Accediu a tots els productes { -brand-name-firefox } amb un únic inici de sessió per a aprofitar-los al màxim.
-navigation-meet-the-firefox-family = Coneixeu la família { -brand-name-firefox }
+navigation-meet-the-firefox-family = Descobriu la família { -brand-name-firefox }
 navigation-firefox-blog = Blog del { -brand-name-firefox }
 navigation-read-about-new-firefox = Descobriu les noves funcions del { -brand-name-firefox } i consells per a navegar per Internet amb més seguretat.
 navigation-the-non-profit-behind = L'organització sense ànim de lucre darrere del { -brand-name-firefox } lluita per mantenir la bona salut d'Internet per a tothom.
@@ -36,10 +37,15 @@ navigation-get-firefox-focus = Baixa el { -brand-name-firefox-focus }
 navigation-android-extensions = Extensions de l'{ -brand-name-android }
 navigation-your-firefox-account = El vostre { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Aprofiteu al màxim la vostra experiència amb el { -brand-name-firefox } en tots els dispositius.
+# Outdated string
 navigation-learn-how-to-customize = Apreneu a personalitzar el funcionament del { -brand-name-firefox }.
+# Outdated string
 navigation-experience-augmented = Proveu la realitat augmentada i virtual amb el { -brand-name-firefox }.
+# Outdated string
 navigation-meet-people-in-experimental = Coneixeu gent en sales de xat de realitat mixta experimentals amb el { -brand-name-firefox }.
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } obre el { -brand-name-firefox } a la realitat augmentada i virtual.
 navigation-firefox-built-just-for = El { -brand-name-firefox } redissenyat per als desenvolupadors.
 navigation-preview-the-latest-build = Proveu la versió més recent del { -brand-name-firefox } i ajudeu-nos a fer que sigui la millor.
@@ -64,6 +70,7 @@ navigation-security-tips = Consells de seguretat
 navigation-share-large-files-safely = Compartiu fitxers grans de manera segura amb enllaços que s'«autodestrueixen».
 navigation-save-quality-content = Deseu contingut de qualitat des de qualsevol lloc. Alimenteu la vostra ment a tot arreu.
 navigation-sign-up = Registre
+# Outdated string
 navigation-connected-and-protected = Connectat i protegit
 navigation-join = Uniu-vos-hi
 navigation-close-join-menu = Tanca el menú Uniu-vos-hi
@@ -76,11 +83,14 @@ navigation-meet-the-technology-company = Descobriu l'empresa de tecnologia que p
 navigation-new-features = Novetats
 navigation-save-content-absorb-knowledge = Deseu contingut. Adquiriu coneixement.
 navigation-same-speed-and-safety = La mateixa velocitat i seguretat en què confieu, amb un disseny enfocat a les empeses.
+# Outdated string
 navigation-add-ons = Complements
 navigation-projects = Projectes
 navigation-close-projects-menu = Tanca el menú Projectes
 navigation-donate-your-voice-to = Doneu la vostra veu per ajudar a fer que el reconeixement de veu sigui obert a tothom.
+# Outdated string
 navigation-web-of-things-iot = Internet de les coses (IoT)
+# Outdated string
 navigation-make-devices-connected = Feu que els dispositius connectats a Internet siguin més segurs i interoperables.
 navigation-developers = Desenvolupadors
 navigation-close-developers-menu = Tanca el menú Desenvolupadors

@@ -7,7 +7,7 @@
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
 # Meet our family of products
-firefox-sticky-promo-meet-our-family-of = Coneixeu la nostra família de productes
+firefox-sticky-promo-meet-our-family-of = Descobriu la nostra família de productes
 firefox-sticky-promo-get-the-latest-firefox = Obteniu l'última versió del navegador { -brand-name-firefox }.
 # Products List
 firefox-sticky-promo-browsers = Navegadors

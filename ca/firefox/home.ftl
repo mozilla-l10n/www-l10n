@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/
@@ -8,7 +8,7 @@
 firefox-home-firefox-protect-your = { -brand-name-firefox }: Protegiu la vostra vida en línia amb productes que posen la privadesa per sobre de tot
 firefox-home-firefox-is-more-than = El { -brand-name-firefox } és més que un navegador. Obteniu més informació sobre els productes { -brand-name-firefox } que gestionen les vostres dades amb respecte i que s'han dissenyat per a la privadesa arreu on navegueu.
 firefox-home-the-browser-is-just = El navegador tan sols és el començament
-firefox-home-meet-our-family-of = Coneixeu la nostra família de productes
+firefox-home-meet-our-family-of = Descobriu la nostra família de productes
 firefox-home-get-trackers-off = Desempallegueu-vos de més de 2.000 elements de seguiment, inclús del { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Esteu al cas de quan ataquen els furoners i anticipeu-vos-hi
 firefox-home-start-getting-breach = Comenceu a rebre informes de filtracions de dades

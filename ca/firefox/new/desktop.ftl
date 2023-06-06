@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Baixeu el { -brand-name-firefox-browser } —ràpid, privat, gratuït— de { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Baixeu el { -brand-name-firefox } per a l'escriptori — de { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Instal·leu el { -brand-name-firefox }, un navegador web gratuït que té el suport de { -brand-name-mozilla }, l'organització sense ànim de lucre que defensa la salut d'Internet i la vostra privadesa. Disponible per al { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } i { -brand-name-ios }.
 firefox-desktop-download-og-title = Baixeu el { -brand-name-firefox } més ràpid que mai
 firefox-desktop-download-og-desc = El nou { -brand-name-firefox } ja és aquí: carrega les pàgines més ràpid, consumeix menys memòria i està farcit de noves funcions.
@@ -141,6 +142,7 @@ firefox-desktop-download-firefox-automatically = El { -brand-name-firefox } auto
 firefox-desktop-download-questions = Dubtes? L'<a { $attrs }>assistència de { -brand-name-mozilla }</a> us els resol.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Ja teniu el navegador. Ara traieu encara més profit del { -brand-name-firefox }.
+# Outdated string
 firefox-desktop-download-watch-for-hackers-with = Estigueu a l'aguait dels furoners amb el { -brand-name-firefox-monitor }, protegiu les contrasenyes amb el { -brand-name-firefox-lockwise } i molt més.
 firefox-desktop-download-get-more-from-firefox = Traieu més profit del { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Simplement, baixeu el navegador
@@ -158,7 +160,12 @@ firefox-desktop-download-now-mac = Ara <strong>obriu</strong> l'instal·lador qu
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Teniu problemes? <a { $attrs }>Obteniu ajuda per a la instal·lació</a>.
 firefox-desktop-download-in-another-language = Baixeu la versió per a una altra llengua o sistema operatiu.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }"> ja no ofereix cap actualització de seguretat</a> per al { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, però encara podeu utilitzar el { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -168,6 +175,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = El sistema operatiu 
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = La baixada s'iniciarà automàticament. No funciona? <a id="{ $id }" href="{ $fallback_url }">Proveu de baixar-lo de nou</a>.
 firefox-new-firefox-is-more-than-a-browser = El { -brand-name-firefox } és més que un navegador.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = La baixada s'ha interromput. Però no està tot perdut.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux

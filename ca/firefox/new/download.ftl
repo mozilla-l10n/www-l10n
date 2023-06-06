@@ -3,10 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Baixa el { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Baixeu el { -brand-name-firefox } més ràpid que mai
@@ -14,15 +14,15 @@ firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = El nou { -brand-name-firefox } ja és aquí: carrega les pàgines més ràpid, consumeix menys memòria i està farcit de noves funcions.
 firefox-new-get-the-latest-firefox = Obteniu l'última versió del navegador { -brand-name-firefox }.
 # span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Baixa el { -brand-name-firefox }<br>per al { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Baixa el { -brand-name-firefox }<br>per al { -brand-name-mac }
-firefox-new-download-firefox-for-linux = Baixa el { -brand-name-firefox }<br>per al { -brand-name-linux }
+firefox-new-download-firefox-for-windows = Baixeu el { -brand-name-firefox } <br>per al { -brand-name-windows }
+firefox-new-download-firefox-for-macos = Baixeu el { -brand-name-firefox } <br>per al { -brand-name-mac }
+firefox-new-download-firefox-for-linux = Baixeu el { -brand-name-firefox } <br>per al { -brand-name-linux }
 firefox-new-free-web-browser = Navegador web gratuït
 firefox-new-advanced-install-options = Opcions avançades d'instal·lació i altres plataformes
 firefox-new-download-in-another-language = Baixeu-lo en una altra llengua
 firefox-new-need-help = Necessiteu ajuda?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -44,16 +44,17 @@ firefox-new-please-follow = Seguiu <a href="{ $url }">aquestes instruccions</a> 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = El vostre sistema no compleix els requisits per al { -brand-name-firefox }, però podeu provar alguna d'<a href="{ $url }">aquestes versions</a>.
+# Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Si veieu un missatge que indica que l'aplicació que intenteu instal·lar no és una aplicació verificada per { -brand-name-microsoft }, feu clic a «Instal·la de totes maneres» o <a { $attrs }>canvia la configuració recomanada de l'aplicació</a >.
 firefox-new-visit-support-for-more = Visiteu l'assistència per a més detalls
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Baixa el { -brand-name-firefox-browser }
