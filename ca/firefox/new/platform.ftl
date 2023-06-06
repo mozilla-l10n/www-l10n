@@ -26,6 +26,7 @@ new-platform-open-source = Codi obert
 
 ## Mac
 
+new-platform-download-mozilla-firefox-mac = Baixeu el { -brand-name-mozilla } { -brand-name-firefox } per al { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
 new-platform-download-mozilla-firefox-desc-mac = Baixeu el { -brand-name-mozilla } { -brand-name-firefox } per al { -brand-name-mac-short }, un navegador web lliure i gratuït. El { -brand-name-firefox } està creat per una organització global sense ànim de lucre dedicada a donar el control als usuaris. Instal·leu ara el { -brand-name-firefox } per al { -brand-name-mac-short }!
 new-platform-privacy-comes-first = La privadesa està per sobre de tot
