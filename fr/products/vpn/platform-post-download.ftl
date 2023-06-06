@@ -60,7 +60,6 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } affiche des ind
 vpn-download-faq-add-device = Comment ajouter un appareil supplémentaire ?
 
 
-
 vpn-download-faq-best-practices = Quelles sont les bonnes pratiques en matière de VPN ?
 vpn-download-faq-traffic = Si votre objectif est de protéger votre trafic Internet tout en conservant une vitesse de connexion rapide, il vaut mieux choisir un serveur aussi proche que possible de votre véritable emplacement. La fiabilité et la vitesse de votre connexion seront meilleures, car votre trafic Internet ne devra pas effectuer un long détour avant d’arriver à sa destination prévue sur le Web.
 vpn-download-faq-experience = Si votre objectif est de profiter d’Internet comme si vous étiez dans une autre partie du monde, vous pouvez choisir un emplacement de serveur à l’endroit que vous voulez et tous les sites que vous visiterez seront affichés comme si vous y étiez.

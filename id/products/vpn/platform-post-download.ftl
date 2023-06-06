@@ -60,7 +60,6 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } menampilkan ind
 vpn-download-faq-add-device = Bagaimana cara menambahkan perangkat lain?
 
 
-
 vpn-download-faq-best-practices = Apa saja praktik terbaik menggunakan VPN?
 vpn-download-faq-traffic = Jika tujuan Anda adalah untuk melindungi trafik internet sembari mempertahankan kecepatan yang tinggi, maka sebaiknya pilih lokasi server yang sedekat mungkin dengan lokasi fisik Anda. Upaya ini akan meningkatkan keandalan dan kecepatan koneksi Anda karena trafik internet Anda tidak perlu mengambil jalan memutar sebelum tiba di tujuan yang diinginkan di web.
 vpn-download-faq-experience = Jika tujuan Anda adalah menggunakan internet seolah-olah Anda berada di belahan dunia lain, Anda dapat memilih lokasi server di lokasi tersebut dan semua situs web yang Anda kunjungi akan ditampilkan seolah-olah Anda berada di sana.

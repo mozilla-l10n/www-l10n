@@ -60,7 +60,6 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } は、ツール
 vpn-download-faq-add-device = 他のデバイスを追加するには？
 
 
-
 vpn-download-faq-best-practices = VPN の推奨する使い方は？
 vpn-download-faq-traffic = 高速の回線を維持しながらインターネットトラフィックを保護することが目標である場合は、物理的な場所にできるだけ近いサーバーの場所を選択することが最善です。これにより、インターネットトラフィックがウェブ上のアクセス先に到着する前に大きな迂回する必要がなくなるため、接続の安定性と速度が向上します。
 vpn-download-faq-experience = 世界の他地域に所在しているかのように見せてブラウズすることが目標である場合は、その場所のサーバーを選択すると、アクセスするすべてのサイトには、ユーザーがその場所からアクセスしているかのように表示されます。

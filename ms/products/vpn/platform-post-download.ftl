@@ -60,7 +60,6 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } memaparkan petu
 vpn-download-faq-add-device = Bagaimana untuk menambah peranti?
 
 
-
 vpn-download-faq-best-practices = Apakah amalan VPN yang terbaik?
 vpn-download-faq-traffic = Jika matlamat anda adalah melindungi trafik internet sambil memastikan kelajuan, pilihan terbaik adalah memilih lokasi pelayan yang terdekat dengan lokasi fizikal anda. Ini mampu meningkatkan kebolehpercayaan dan kelajuan sambungan anda kerana trafik internet anda tidak perlu bergerak jauh sebelum tiba ke destinasi yang dikehendaki.
 vpn-download-faq-experience = Jika matlamat anda ialah melayari internet seolah-olah anda berada di lokasi lain di dunia, anda boleh memilih lokasi pelayan anda di mana jua, maka semua laman web yang anda layari akan memaparkan lokasi samaran anda.

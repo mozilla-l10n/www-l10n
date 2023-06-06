@@ -60,7 +60,6 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } zeigt den aktue
 vpn-download-faq-add-device = Wie kann ich ein weiteres Gerät hinzufügen?
 
 
-
 vpn-download-faq-best-practices = Welche VPN Best Practices gibt es?
 vpn-download-faq-traffic = Wenn Sie Ihren Datenverkehr schützen möchten und trotzdem schnell im Internet unterwegs sein wollen, sollten Sie einen Server-Standort wählen, der so nah wie möglich an Ihrem tatsächlichen Standort liegt. Dadurch erhöht sich die Zuverlässigkeit und Geschwindigkeit Ihrer Verbindung und Ihr Datenverkehr muss nicht erst einen großen Umweg nehmen, bevor er an seiner Zieladresse ankommt.
 vpn-download-faq-experience = Wenn Sie das Internet erleben möchten, als wären Sie an einem anderen Ort auf der Welt, können Sie einen beliebigen Server-Standort wählen. Sämtliche Websites, die Sie besuchen, sehen dann aus, als befänden Sie sich vor Ort.
