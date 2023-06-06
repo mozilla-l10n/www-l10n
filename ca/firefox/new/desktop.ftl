@@ -173,7 +173,7 @@ firefox-desktop-download-youre-using-an-insecure-outdated = El sistema operatiu 
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-firefox-new-should-begin = La baixada s'iniciarà automàticament. No funciona? <a id="{ $id }" href="{ $fallback_url }">Proveu de baixar-lo de nou</a>.
+firefox-desktop-download-your-firefox-new-should-begin = La baixada s'iniciarà automàticament. No funciona? <a id="{ $id }" href="{ $fallback_url }">Proveu de baixar-lo de nou-.</a>
 firefox-new-firefox-is-more-than-a-browser = El { -brand-name-firefox } és més que un navegador.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = La baixada s'ha interromput. Però no està tot perdut.
