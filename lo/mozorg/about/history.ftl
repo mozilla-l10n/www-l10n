@@ -17,6 +17,12 @@ history-within-the-first-year-new = ພາຍໃນ <a href="{ $firstyear }">ປ
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = ໂດຍການສ້າງຊຸມຊົນເປີດ, ໂຄງການ { -brand-name-mozilla } ໄດ້ກາຍເປັນ <a href="{ $stevecase }">ໃຫຍ່ກວ່າບໍລິສັດໃດນຶ່ງ</a>.
+# Variables:
+#   $mission (url) link to https://www-archive.mozilla.org/mission.html
+#   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
+#   $bugzilla (url) link to https://www.bugzilla.org
+#   $projects (url) link to https://www.mozilla.org/firefox/
+history-community-members-got-involved = ສະມາຊິກຊຸມຊົນໄດ້ມີສ່ວນຮ່ວມ ແລະຂະຫຍາຍຂອບເຂດຂອງ <a href="{ $mission }">ພາລະກິດຕົ້ນສະບັບ</a> ຂອງໂຄງການ — ແທນທີ່ຈະພຽງແຕ່ເຮັດວຽກຢູ່ໃນຕົວທ່ອງເວັບຕໍ່ໄປຂອງ { -brand-name-netscape }, ຜູ້ຄົນເລີ່ມສ້າງ <a href="{ $browsers }">ຫຼາກຫຼາຍຂອງບຣາວເຊີ</a>, <a href="{ $bugzilla }">ເຄື່ອງມືພັດທະນາ</a> ແລະຫຼາກຫຼາຍ <a href="{ $projects }">ໂຄງການ</a>.
 history-people-contributed-to-mozilla = ຜູ້ຄົນໄດ້ປະກອບສ່ວນໃຫ້ກັບ { -brand-name-mozilla } ດ້ວຍວິທີທີ່ແຕກຕ່າງກັນ, ແຕ່ທຸກຄົນມີຄວາມກະຕືລືລົ້ນໃນການສ້າງຊອບແວຟຣີທີ່ຈະຊ່ວຍໃຫ້ຄົນມີທາງເລືອກໃນປະສົບການຂອງອິນເຕີເນັດ.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
