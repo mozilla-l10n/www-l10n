@@ -11,14 +11,19 @@
 
 vpn-windows-download-page-title = Emboguejy { -brand-name-mozilla-vpn }  { -brand-name-windows } peg̃uarã
 vpn-windows-downloading-mozilla-vpn = Emboguejyhína { -brand-name-mozilla-vpn } { -brand-name-windows }… peg̃uarã
+vpn-windows-go-to-your-downloads = Embojuruja ñemboguejyha ñongatuha ha eikutu mokõijey .msi marandurendápe
+vpn-windows-a-progress-bar = Ojekuaáta tenyhẽha renda ha oñepyrũta ñemohenda rape
 
 ## Mac download page
 
 vpn-mac-download-page-title = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-mac-short } peg̃uarã
 vpn-mac-downloading-mozilla-vpn = Emboguejyhína { -brand-name-mozilla-vpn } { -brand-name-mac-short }… peg̃uarã
+vpn-mac-go-to-your-downloads = Embojuruja ñemboguejyha ñongatuha ha eikutu mokõijey .pkg marandurendápe
+vpn-mac-follow-the-steps = Ehecha mba’épa he’i { -brand-name-mozilla-vpn } ñemohendaha emoñepyrũ hag̃ua tembipuru’i
 
 ## Shared strings
 
+vpn-download-unable-to-download = Neremboguejykuaái { -brand-name-mozilla-vpn }
 vpn-open-the-file = 1. Embojuruja marandurenda
 vpn-launch-the-app = 2. Emoñepyrũ tembipuru’i
 vpn-login-or-signup = 3. Emoñepyrũ tembiapo térã eñemboheraguapy
