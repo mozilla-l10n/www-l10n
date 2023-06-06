@@ -24,6 +24,7 @@ vpn-mac-follow-the-steps = Ehecha mba’épa he’i { -brand-name-mozilla-vpn } 
 ## Shared strings
 
 vpn-download-unable-to-download = Neremboguejykuaái { -brand-name-mozilla-vpn }
+vpn-download-not-in-country = Rombyasy, { -brand-name-mozilla-vpn } nereipurukuaamo’ãi ne retãme.
 vpn-open-the-file = 1. Embojuruja marandurenda
 vpn-launch-the-app = 2. Emoñepyrũ tembipuru’i
 vpn-login-or-signup = 3. Emoñepyrũ tembiapo térã eñemboheraguapy
