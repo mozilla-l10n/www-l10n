@@ -10,6 +10,7 @@
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } для { -brand-name-windows } 10
 vpn-windows-wifi-headline = Заставайцеся прыватнымі ў грамадскім Wi-Fi
+vpn-windows-servers-headline = Доступ да сервераў па ўсім свеце
 vpn-windows-devices-headline = Адна падпіска для ўсіх вашых прылад
 vpn-windows-speed-headline = Неабмежаваная прапускная здольнасць
 vpn-windows-log-headline = Ваша прыватнасць — наш прыярытэт
