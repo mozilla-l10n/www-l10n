@@ -13,4 +13,5 @@ vpn-windows-wifi-headline = Заставайцеся прыватнымі ў г
 vpn-windows-servers-headline = Доступ да сервераў па ўсім свеце
 vpn-windows-devices-headline = Адна падпіска для ўсіх вашых прылад
 vpn-windows-speed-headline = Неабмежаваная прапускная здольнасць
+vpn-windows-speed-copy = Транслюйце, гуляйце, рабіце пакупкі і даследуйце Інтэрнэт на бліскавічных хуткасцях. З неабмежаваным трафікам і адсутнасцю абмежаванняў па прапускной здольнасці, { -brand-name-mozilla-vpn } вас не запаволіць.
 vpn-windows-log-headline = Ваша прыватнасць — наш прыярытэт
