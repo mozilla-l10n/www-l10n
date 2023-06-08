@@ -60,6 +60,7 @@ footer-contact = Επικοινωνία
 footer-product-help = Βοήθεια προϊόντος
 footer-support = Υποστήριξη
 footer-file-a-bug = Αναφορά σφάλματος
+footer-localize-mozilla = Μετάφραση στη { -brand-name-mozilla }
 footer-community-participation-guidelines = Κανόνες συμμετοχής κοινότητας
 footer-websites-privacy-notice = Σημείωση απορρήτου ιστοτόπου
 footer-websites-cookies = Cookies

@@ -42,7 +42,11 @@ vpn-pick-a-recommended = Επιλέξτε μια προτεινόμενη τοπ
 vpn-download-faq-need-help = Χρειάζεστε βοήθεια για να ξεκινήσετε;
 vpn-download-faq-here-are-some = Ακολουθούν μερικές από τις πιο συνηθισμένες ερωτήσεις σχετικά με τη ρύθμιση του { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Γιατί να χρησιμοποιήσω το { -brand-name-mozilla-vpn }
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Απόκρυψη πραγματικής <a href="{ $ip }">διεύθυνσης IP</a>: προστατεύει την ταυτότητά σας και αποκρύπτει την τοποθεσία σας από τους ιστοτόπους που επισκέπτεστε.
 vpn-download-faq-working = Πώς καταλαβαίνω ότι το VPN λειτουργεί;
 vpn-download-faq-add-device = Πώς προσθέτω άλλη συσκευή;
 vpn-download-faq-best-practices = Ποιες είναι μερικές βέλτιστες πρακτικές VPN;
+vpn-download-faq-lastly = Τέλος, στις υποστηριζόμενες συσκευές, μπορείτε να κάνετε το VPN ακόμα πιο έξυπνο εξαιρώντας ορισμένες εφαρμογές (π.χ. Netflix).
 vpn-download-faq-need-more = Χρειάζεστε λίγη ακόμα βοήθεια;
