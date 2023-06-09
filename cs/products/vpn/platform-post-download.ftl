@@ -41,6 +41,7 @@ vpn-turn-on-vpn = 4. Zapněte VPN
 vpn-download-faq-need-help = Potřebujete pomoci?
 vpn-download-faq-here-are-some = Zde jsou některé z nejčastějších otázek k nastavení { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Proč bych měl(a) používat { -brand-name-mozilla-vpn }?
+vpn-download-faq-encrypting = Šifrování vašeho internetového provozu: takže nikdo nemůže špehovat vaši online aktivitu.
 vpn-download-faq-working = Jak poznám, že VPN funguje?
 vpn-download-faq-add-device = Jak přidám další zařízení?
 vpn-download-faq-best-practices = Jaké jsou některé osvědčené postupy při používání VPN?
