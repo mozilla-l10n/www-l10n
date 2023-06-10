@@ -12,6 +12,9 @@ vpn-windows-page-title = { -brand-name-mozilla-vpn } для { -brand-name-window
 vpn-windows-wifi-headline = Заставайцеся прыватнымі ў грамадскім Wi-Fi
 vpn-windows-servers-headline = Доступ да сервераў па ўсім свеце
 vpn-windows-devices-headline = Адна падпіска для ўсіх вашых прылад
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = Падпіска на { -brand-name-mozilla-vpn } дае вам неабмежаваны доступ да нашага бяспечнага сэрвісу VPN на { $devices } прыладах для { -brand-name-windows } (у тым ліку { -brand-name-windows } 10) , { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } і { -brand-name-ios }.
 vpn-windows-speed-headline = Неабмежаваная прапускная здольнасць
 vpn-windows-speed-copy = Транслюйце, гуляйце, рабіце пакупкі і даследуйце Інтэрнэт на бліскавічных хуткасцях. З неабмежаваным трафікам і адсутнасцю абмежаванняў па прапускной здольнасці, { -brand-name-mozilla-vpn } вас не запаволіць.
 vpn-windows-log-headline = Ваша прыватнасць — наш прыярытэт
