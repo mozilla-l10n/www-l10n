@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/115.0/whatsnew/
 
 whatsnew-115-vpn-very-fast = Είναι γρήγορο, πολύ γρήγορο
+whatsnew-115-vpn-without-trace = Διαδίκτυο χωρίς ίχνη
