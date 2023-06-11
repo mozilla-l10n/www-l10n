@@ -11,6 +11,10 @@
 vpn-windows-page-title = { -brand-name-mozilla-vpn } для { -brand-name-windows } 10
 vpn-windows-wifi-headline = Заставайцеся прыватнымі ў грамадскім Wi-Fi
 vpn-windows-servers-headline = Доступ да сервераў па ўсім свеце
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-windows-servers-copy = Дзякуючы { $servers }+ серверам у больш за { $countries } краінах, вы можаце рабіць усё, што вам трэба зрабіць у інтэрнэце — аглядаць, рабіць пакупкі, чытаць навіны — прызначыўшы месцазнаходжанне сваёй прылады практычна ў любой кропцы свету.
 vpn-windows-devices-headline = Адна падпіска для ўсіх вашых прылад
 # Variables:
 #   $devices (number) - number of available devices
