@@ -60,6 +60,7 @@ footer-contact = დაკავშირება
 footer-product-help = დახმარების მიღება
 footer-support = მხარდაჭერა
 footer-file-a-bug = ხარვეზის მოხსენება
+footer-localize-mozilla = თარგმნეთ { -brand-name-mozilla }
 footer-community-participation-guidelines = ერთობაში მონაწილეობის წესები
 footer-websites-privacy-notice = საიტის პირადულობის განაცხადი
 footer-websites-cookies = ფუნთუშები
