@@ -18,7 +18,7 @@ vpn-windows-a-progress-bar = Megjelenik egy folyamatjelző sáv, és elindul a t
 
 vpn-mac-download-page-title = A { -brand-name-mozilla-vpn } letöltése { -brand-name-mac-short }re
 vpn-mac-downloading-mozilla-vpn = A { -brand-name-mozilla-vpn } letöltése { -brand-name-mac-short }re…
-vpn-mac-go-to-your-downloads = Ugorjon a letöltések mappához és kattintson duplán az .pkg fájlra
+vpn-mac-go-to-your-downloads = Ugorjon a letöltések mappához és kattintson duplán a .pkg fájlra
 vpn-mac-follow-the-steps = Az alkalmazás elindításához kövesse a { -brand-name-mozilla-vpn } telepítőjében vázolt lépéseket
 
 ## Shared strings
@@ -58,10 +58,6 @@ vpn-download-faq-add-device = Hogyan adhatok hozzá további eszközt?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v2 = Egy újabb eszköz hozzáadása rendkívül egyszerű: töltse le és telepítse a { -brand-name-mozilla-vpn } szoftvert, majd az új eszközön jelentkezzen be a meglévő { -brand-name-firefox-account }jába. További részletekért lásd a <a href="{ $subscription }">Hogyan adjon eszközöket a { -brand-name-mozilla-vpn } előfizetéséhez</a> leírást.
-# Outdated string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Egy újabb eszköz hozzáadása rendkívül egyszerű: töltse le és telepítse a { -brand-name-mozilla-vpn } szoftvert, majd az új eszközön jelentkezzen be a meglévő { -brand-name-firefox }-fiókjába. További részletekért lásd a <a href="{ $subscription }">Hogyan adjon eszközöket a { -brand-name-mozilla-vpn } előfizetéséhez</a> leírást.
 vpn-download-faq-best-practices = Mik a bevált gyakorlatok a VPN-nél?
 vpn-download-faq-traffic = Ha a célja az internetes forgalom védelme a nagy sebesség megtartása mellett, akkor mindig az a legjobb, ha olyan kiszolgálót választ, amely a lehető legközelebb van a fizikai helyéhez. Ez növeli a kapcsolata megbízhatóságát és sebességét, mivel az internetes forgalmának nem kell jelentős kerülőt tennie, mielőtt megérkezik a rendeltetési helyéhez a weben.
 vpn-download-faq-experience = Ha a cél az, hogy úgy tapasztalja meg az internetet, mintha a világ más pontján lenne, akkor válassza az ott lévő kiszolgálót, és az összes felkeresett webhely úgy fog megjelenni, mintha ott lenne.
