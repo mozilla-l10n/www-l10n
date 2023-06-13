@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
@@ -8,7 +8,7 @@
 # HTML page title
 features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: Marcaje mai bune oriunde ai merge
 # HTML page description
-features-bookmarks-easily-organize-your-bookmarks = Organizează ușor marcajele într-un dosar și accesează-le de pe toate dispozitivele desktop și mobile.
+features-bookmarks-easily-organize-your-bookmarks = Organizează cu ușurință marcajele într-un dosar și accesează-le de pe toate dispozitivele, de pe desktop pe mobil.
 features-bookmarks-better-bookmarks = Marcaje mai bune
 features-bookmarks-dont-agonize-lovers-of = Nu vă faceți griji, iubitori ai marcajelor. Organizați-le cu { -brand-name-firefox }.
 # File means to save (that bookmark).

@@ -43,3 +43,7 @@ firefox-desktop-download-now-windows = Acum <strong>rulează</strong> programul 
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Ai probleme? <a { $attrs }>Obține ajutor cu privire la instalare</a>.
 firefox-desktop-download-in-another-language = Descarcă în altă limbă sau pentru alt sistem de operare.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Descărcarea ar trebui să înceapă automat. Nu a mers? <a id="{ $id }" href="{ $fallback_url }">Încearcă să descarci din nou.</a>

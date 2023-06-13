@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -23,7 +23,7 @@ compare-index-what-has-your-browser-done = Ce a făcut browserul pentru tine în
 compare-index-in-addition-to-privacy-protection = Pe lângă protecția vieții private, care are loc în mare parte în fundalul browserului, un alt ingredient-cheie al unui browser bine făcut este interfața propriu-zisă pentru utilizator și funcționalitatea. Aproape toate cele șapte browsere sunt pe poziții egale în ceea ce privește navigarea prin file, gestionarea marcajelor, completarea automată, corectarea ortografică și extensiile. { -brand-name-firefox }, { -brand-name-edge } și { -brand-name-opera } oferă și o funcție de captură rapidă de ecran, care se dovedește a fi destul de utilă și cu siguranță ai observat că lipsește ceva când ai folosit un browser care nu are această funcționalitate.
 compare-index-in-addition-to-privacy-protection-fallback = Pe lângă protecția vieții private, care are loc în mare parte în fundalul browserului, un alt ingredient-cheie al unui browser bine făcut este interfața propriu-zisă pentru utilizator și funcționalitatea. Aproape toate cele șase browsere sunt pe poziții egale în ceea ce privește navigarea prin file, gestionarea marcajelor, completarea automată, corectarea ortografică și extensiile. { -brand-name-firefox }, { -brand-name-edge } și { -brand-name-opera } oferă și o funcție de captură rapidă de ecran, care se dovedește a fi destul de utilă și cu siguranță ai observat că lipsește ceva când ai folosit un browser care nu are această funcționalitate.
 compare-index-how-well-does-your-browser = Cât de bine funcționează browserul pe dispozitivele tale?
-compare-index-almost-all-of-the-browsers = Aproape toate browserele comparate aici permit sincronizarea între calculatorul de birou și dispozitive mobile. Pentru aceasta, vei avea nevoie de un cont pe care îl poți utiliza pentru a te autentifica în browserul de pe toate dispozitivele și pentru a sincroniza parole, istoricul de navigare, marcaje și setări.
+compare-index-almost-all-of-the-browsers = Aproape toate browserele comparate aici permit sincronizarea între desktop și dispozitive mobile. Pentru aceasta, vei avea nevoie de un cont pe care îl poți utiliza pentru a te autentifica în browserul de pe toate dispozitivele și pentru a sincroniza parole, istoricul de navigare, marcaje și setări.
 compare-index-conclusion = Concluzie:
 compare-index-and-the-winner-is = Și câștigătorul este…
 compare-index-find-out-how-firefox-chrome = Află cum { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } și { -brand-name-ie } diferă în ceea ce privește confidențialitatea, utilitatea și portabilitatea.

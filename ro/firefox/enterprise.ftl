@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -23,7 +23,7 @@ firefox-enterprise-with-install-packages-and = Cu pachete de instalare și o ext
 firefox-enterprise-choose-your-release-cadence = Alege cadența de lansare
 firefox-enterprise-get-rapid-releases-to-make = Instalează versiunile cu actualizări rapide pentru a obține mai repede cele mai noi funcționalități sau optează pentru cele cu suport extins pentru a-ți asigura o experiență super stabilă.
 firefox-enterprise-enterprise-downloads = Descărcări { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
+firefox-enterprise-windows-64-bit = { -brand-name-windows } pe 64 de biți
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Selectează descărcarea
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
@@ -42,7 +42,7 @@ firefox-enterprise-documentation-and-community = Documentație și asistență d
 #   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Exemplu de <a href="{ $url }">plistă pentru profilul de configurare</a>
 firefox-enterprise-pkg-installer = Instalator PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+firefox-enterprise-windows-32-bit = { -brand-name-windows } pe 32 de biți
 # Variables:
 #   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Descarcă { -brand-name-firefox-esr } sau Rapid Release pentru<br> <a href="{ $firefox_all }">altă limbă sau platformă.</a>
