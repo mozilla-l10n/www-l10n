@@ -12,6 +12,8 @@ firefox-home-meet-our-family-of = Fă cunoștință cu familia noastră de produ
 firefox-home-get-trackers-off = Elimină 2.000 de elemente de urmărire pe urma ta - inclusiv { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Știi când atacă hackerii - și ești cu un pas înaintea lor
 firefox-home-start-getting-breach = Începe să primești rapoarte privind încălcările securității datelor
+firefox-home-un-spam-your-life = Elimină spamul din viața ta cu { -brand-name-relay }
+firefox-home-try-relay = Încearcă { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Ține-ți parolele în siguranță pe fiecare dispozitiv
 # Obsolete string
