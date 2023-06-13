@@ -10,6 +10,7 @@
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } для { -brand-name-windows } 10
 vpn-windows-wifi-headline = Заставайцеся прыватнымі ў грамадскім Wi-Fi
+vpn-windows-privacy-headline = Абарона націскам адной кнопкі
 vpn-windows-servers-headline = Доступ да сервераў па ўсім свеце
 # Variables:
 #   $countries (number) - number of available countries

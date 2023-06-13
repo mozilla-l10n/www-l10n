@@ -36,7 +36,7 @@ footer-sign-up = Зарэгістравацца
 footer-sign-in = Увайсці
 # Outdated string
 footer-benefits = Перавагі
-footer-developers = Распрацоўшчыкі
+footer-developers = Распрацоўшчыкам
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
