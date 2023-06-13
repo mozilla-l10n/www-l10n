@@ -60,6 +60,7 @@ footer-contact = Кантакт
 footer-product-help = Даведка пра прадукт
 footer-support = Падтрымка
 footer-file-a-bug = Паведаміць пра памылку
+footer-localize-mozilla = Лакалізаваць { -brand-name-mozilla }
 footer-community-participation-guidelines = Правілы ўдзелу ў супольнасці
 footer-websites-privacy-notice = Паведамленні аб прыватнасці сайта
 footer-websites-cookies = Кукі
