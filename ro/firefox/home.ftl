@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/
@@ -33,7 +33,7 @@ firefox-home-get-the-browser-extension = Obține extensia pentru browser
 firefox-home-get-the-facebook-container = Obține extensia { -brand-name-facebook-container }
 firefox-home-download-the-browser = Descarcă browserul
 firefox-home-download-the-app = Descarcă aplicația
-firefox-home-desktop = Calculator
+firefox-home-desktop = Desktop
 firefox-home-browsers = Browsere
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
