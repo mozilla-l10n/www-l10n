@@ -9,8 +9,12 @@
 # Meta strings
 
 vpn-windows-page-title = { -brand-name-mozilla-vpn } для { -brand-name-windows } 10
+vpn-windows-page-description = Абараніце ўвесь свой ПК з дапамогай віртуальнай прыватнай сеткі (VPN) ад { -brand-name-mozilla }, піянера інтэрнэту, які змагаецца за вашу лічбавую прыватнасць з 1998 года.
+# Windows strings
+vpn-windows-hero-headline = Заставайцеся на сувязі і пад аховай з дапамогай { -brand-name-mozilla-vpn } для { -brand-name-windows } 10
 vpn-windows-wifi-headline = Заставайцеся прыватнымі ў грамадскім Wi-Fi
 vpn-windows-privacy-headline = Абарона націскам адной кнопкі
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } шыфруе ваша злучэнне з інтэрнэтам і абараняе ваш IP-адрас ад старонніх вачэй на вашым камп'ютары або ноўтбуку з дапамогай перадавога пратакола { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Доступ да сервераў па ўсім свеце
 # Variables:
 #   $countries (number) - number of available countries
