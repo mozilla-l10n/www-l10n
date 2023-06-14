@@ -13,6 +13,8 @@ vpn-windows-page-description = Абараніце ўвесь свой ПК з д
 # Windows strings
 vpn-windows-hero-headline = Заставайцеся на сувязі і пад аховай з дапамогай { -brand-name-mozilla-vpn } для { -brand-name-windows } 10
 vpn-windows-wifi-headline = Заставайцеся прыватнымі ў грамадскім Wi-Fi
+vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } абараняе ваша падключэнне да Інтэрнэту ад пільных вачэй, так што вы можаце займацца сваімі справамі ўсюды — у аэрапорце, інтэрнаце, кавярні — не турбуючыся аб сваёй прыватнасці ў Інтэрнэце.
+vpn-windows-about-headline = Ад лідара ў галіне прыватнасці ў Інтэрнэце
 vpn-windows-privacy-headline = Абарона націскам адной кнопкі
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } шыфруе ваша злучэнне з інтэрнэтам і абараняе ваш IP-адрас ад старонніх вачэй на вашым камп'ютары або ноўтбуку з дапамогай перадавога пратакола { -brand-name-wireguard }®.
 vpn-windows-servers-headline = Доступ да сервераў па ўсім свеце
