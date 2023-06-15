@@ -5,5 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+# Meta strings
+vpn-mobile-page-title = { -brand-name-mozilla-vpn } для мабільных прылад (смартфонаў і планшэтаў)
+vpn-mobile-page-description = Абараніце свой смартфон ці планшэт з дапамогай VPN ад { -brand-name-mozilla }, надзейнага наватара ў галіне прыватнасці ў Інтэрнэце.
 vpn-mobile-about-headline = Пра { -brand-name-mozilla }
 vpn-mobile-log-headline = Ваша прыватнасць на першым месцы
