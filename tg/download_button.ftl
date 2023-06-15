@@ -12,6 +12,9 @@ download-button-supported-devices = Дастгоҳҳои дастгиришав�
 download-button-whats-new = Чӣ нав аст
 download-button-systems-languages = Низомҳо ва забонҳо
 download-button-recommended = Тавсия дода мешавад
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
+download-button-your-system-does-not = Низоми шумо ба <a href="{ $url }">талаботи</a> иҷро кардани «{ -brand-name-firefox }» ҷавобгӯ намебошад.
 download-button-firefox-other-platforms = Гунаи «{ -brand-name-firefox }» барои платформаҳо ва забонҳои дигар
 download-button-update-your-firefox = «{ -brand-name-firefox }»-и худро навсозӣ кунед
 download-button-get-firefox-android = Ба даст овардани «{ -brand-name-firefox }» дар «{ -brand-name-android }»
