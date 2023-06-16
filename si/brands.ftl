@@ -27,6 +27,7 @@
 -brand-name-linkedin = ලින්ක්ඩින්
 -brand-name-tiktok = ටික්ටොක්
 -brand-name-spotify = ස්පොටිෆයි
+-brand-name-mastodon = මාස්ටඩන්
 
 ## Firefox browsers
 
@@ -66,16 +67,17 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-private-network = Firefox පෞද්ගලික ජාලය
+-brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
+-brand-name-fpn = FPN
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-sync = Sync
--brand-name-fpn = FPN
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 

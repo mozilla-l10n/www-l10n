@@ -8,6 +8,7 @@
 
 # HTML page title
 
+browsers-chromebook-browsers-chromebook-get-firefox-for = { -brand-name-android } සඳහා { -brand-name-firefox } ගන්න
 browsers-chromebook-get-firefox-desktop = { -brand-name-chromebook } සඳහා { -brand-name-firefox } ගන්න
 
 # Variables:
