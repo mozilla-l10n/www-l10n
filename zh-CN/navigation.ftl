@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = 下载 { -brand-name-firefox }
 navigation-get-a-firefox-account = 获取 { -brand-name-firefox-account }
@@ -85,7 +85,7 @@ navigation-benefits = 好处
 navigation-protect-your-life-online = 使用全系列隐私至上的产品，来保护您的网络生活。
 navigation-about = 关于
 navigation-close-about-menu = 关闭关于菜单
-navigation-meet-the-technology-company = 认识这家非营利的科技公司。
+navigation-meet-the-technology-company = 认识这家以人为本的科技公司。
 navigation-new-features = 新功能
 navigation-save-content-absorb-knowledge = 保存内容，汲取知识。
 navigation-same-speed-and-safety = 一样可信赖的安全性与速度，专为商业环境设计。
