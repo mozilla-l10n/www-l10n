@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 vpn-android-vpn-for-android = VPN Androidra a { -brand-name-mozilla(ending: "accented") }tól
+vpn-android-ease-security = Enyhítse a biztonsággal kapcsolatos félelmeket a { -brand-name-mozilla-vpn } for Android segítségével
