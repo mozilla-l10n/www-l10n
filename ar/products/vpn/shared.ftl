@@ -142,6 +142,7 @@ vpn-shared-platform-cta-button = تعرَّف على الأسعار والتوا
 vpn-shared-platform-privacy-promise = خصوصيتك وَعدٌ منّا
 
 vpn-shared-platform-trust-partner-headline = معلومات عن شريكنا الموثوق به
+
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/

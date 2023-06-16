@@ -142,6 +142,7 @@ vpn-shared-platform-cta-button = 料金と利用可否を確認
 vpn-shared-platform-privacy-promise = あなたのプライバシーは、私たちの約束です
 
 vpn-shared-platform-trust-partner-headline = Mozilla が信頼するパートナーについて
+
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/

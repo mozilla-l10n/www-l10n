@@ -142,6 +142,7 @@ vpn-shared-platform-cta-button = Preise & Verfügbarkeit ansehen
 vpn-shared-platform-privacy-promise = Ihre Privatsphäre ist unser Versprechen
 
 vpn-shared-platform-trust-partner-headline = Über unseren vertrauenswürdigen Partner
+
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
