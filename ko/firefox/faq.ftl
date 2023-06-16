@@ -55,7 +55,7 @@ does-firefox-sell = { -brand-name-firefox }가 개인 데이터를 판매하나�
 
 nope-never-have = 아니요. 지금까지 그런 적이 없었고, 앞으로도 절대 하지 않을 겁니다. 또한 우리는 개인 데이터를 판매하는 많은 광고주들로부터 사용자를 보호합니다. { -brand-name-firefox } 제품은 사용자의 개인 정보를 보호하도록 만들어집니다. <a href="{ $url }">약속합니다.</a>
 why-is-firefox = { -brand-name-firefox }가 왜 느린가요?
-firefox-isnt-slow = { -brand-name-firefox }는 느리지 않습니다...지금은요. 다른 주요 브라우저들에 대한 { -brand-name-firefox }의 경쟁력을 확보하고자 2017년 Quantum이라는 이름과 함께 브라우저 엔진을 완전히 개편했습니다. 또한, 추적기 차단 기능으로 웹 페이지가 더욱 빠르게 표시되죠. 그래서 { -brand-name-firefox }가 사용자의 개인 정보를 지키면서도 매우 빠른 속도를 자랑하는 것입니다.
+firefox-isnt-slow = { -brand-name-firefox }는 느리지 않습니다…지금은요. 다른 주요 브라우저들에 대한 { -brand-name-firefox }의 경쟁력을 확보하고자 2017년 Quantum이라는 이름과 함께 브라우저 엔진을 완전히 개편했습니다. 또한, 추적기 차단 기능으로 웹 페이지가 더욱 빠르게 표시되죠. 그래서 { -brand-name-firefox }가 사용자의 개인 정보를 지키면서도 매우 빠른 속도를 자랑하는 것입니다.
 is-firefox-chromium = { -brand-name-firefox }는 { -brand-name-chromium } 기반인가요?
 firefox-is-not = { -brand-name-firefox }는 주요 브라우저들 가운데 몇 남지 않은, { -brand-name-chromium } ({ -brand-name-google } { -brand-name-chrome }의 핵심 역할을 하는 오픈 소스 브라우저 프로젝트)에 기반을 두지 않는 브라우저입니다. { -brand-name-firefox }를 위해 특별히 제작된 퀀텀(Quantum) 브라우저 엔진이 { -brand-name-firefox }의 기반을 이루며, 사용자의 데이터를 소중히 다루고 유출을 방지할 수 있게 해줍니다.
 does-firefox-use = { -brand-name-firefox }는 { -brand-name-google }을 사용하나요?
