@@ -4,8 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
-# Meta strings
-
+# Obsolete Strings
 vpn-windows-page-title = { -brand-name-windows } 10 के लिए { -brand-name-mozilla-vpn }
 vpn-windows-page-description = { -brand-name-mozilla } के वर्चुअल प्राइवेट नेटवर्क (VPN) से अपने पूरे पीसी को सुरक्षित करें। यह ऑर्गनाइजेशन इंटरनेट सुरक्षा के मामलों में अग्रणी है और 1998 से आपकी डिजिटल निजता के अधिकार के लिए आवाज़ उठाता रहा है।
 

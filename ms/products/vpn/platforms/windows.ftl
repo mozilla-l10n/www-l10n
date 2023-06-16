@@ -4,8 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
-# Meta strings
-
+# Obsolete Strings
 vpn-windows-page-title = { -brand-name-mozilla-vpn } untuk { -brand-name-windows } 10
 vpn-windows-page-description = Lindungi keseluruhan PC anda dengan rangkaian peribadi maya (VPN) dari { -brand-name-mozilla }, pelopor internet yang memperjuangkan privasi digital anda sejak 1998.
 
