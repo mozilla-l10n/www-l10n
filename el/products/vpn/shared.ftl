@@ -10,7 +10,6 @@ vpn-shared-subscribe-link = Λήψη του { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Εγγραφή στη λίστα αναμονής
 vpn-shared-sign-in-link = Είστε ήδη συνδρομητής;
 # Outdated string
-vpn-shared-available-countries-v4 = Προς το παρόν, προσφέρουμε το { -brand-name-mozilla-vpn } στην Αυστρία, το Βέλγιο, τον Καναδά, τη Γαλλία, τη Γερμανία, την Ιρλανδία, την Ιταλία, τη Μαλαισία, την Ολλανδία, τη Νέα Ζηλανδία, τη Σιγκαπούρη, την Ισπανία, την Ελβετία, το Ηνωμένο Βασίλειο και τις ΗΠΑ.
 vpn-shared-available-countries-v5 = Προς το παρόν, προσφέρουμε το { -brand-name-mozilla-vpn } στην Αυστρία, το Βέλγιο, τη Γαλλία, τη Γερμανία, την Ελβετία, το Ηνωμένο Βασίλειο, τις ΗΠΑ, την Ιρλανδία, την Ισπανία, την Ιταλία, τον Καναδά, τη Μαλαισία, τη Νέα Ζηλανδία, την Ολλανδία, τη Σιγκαπούρη, τη Σουηδία και τη Φινλανδία.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Εγγύηση επιστροφής χρημάτων εντός 30 ημερών
@@ -108,6 +107,8 @@ vpn-shared-platform-cta-headline = Ας ξεκινήσουμε
 vpn-shared-platform-cta-button = Προβολή τιμών & διαθεσιμότητας
 vpn-shared-platform-privacy-promise = Το απόρρητό σας είναι η υπόσχεσή μας
 vpn-shared-platform-trust-partner-headline = Σχετικά με τον έμπιστο συνεργάτη μας
+vpn-shared-platform-what-is = Τι είναι το { -brand-name-mozilla-vpn };
+vpn-shared-platfrom-why-choose = Γιατί να επιλέξω το { -brand-name-mozilla-vpn };
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
