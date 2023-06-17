@@ -32,7 +32,7 @@ privacy-index-to-review-and-comment-on-proposed = Για να αξιολογήσ
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Μάθετε περισσότερα σχετικά με την εξελισσόμενη εργασία μας στη δημόσια πολιτική απορρήτου και ασφάλειας στο <a href="{ $blog }">Open Policy and Advocacy Blog της { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Παρωχημένες Πολιτικές
-privacy-index-mozilla-websites-communications = Ιστότοποι { -brand-name-mozilla }, επικοινωνίες & cookies
+privacy-index-mozilla-websites-communications = Ιστότοποι { -brand-name-mozilla }, επικοινωνίες και cookies
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-private-network = { -brand-name-firefox-private-network }

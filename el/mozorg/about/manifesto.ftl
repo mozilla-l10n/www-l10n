@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -8,7 +8,7 @@
 # HTML page title
 manifesto-the-mozilla-manifesto = Η Διακήρυξη της { -brand-name-mozilla }
 # HTML page description
-manifesto-these-are-the-principles = Αυτές είναι οι αρχές που διέπουν την αποστολή μας για την προώθηση της διαφάνειας, της καινοτομίας & της ευκαιρίας στο διαδίκτυο.
+manifesto-these-are-the-principles = Αυτές είναι οι αρχές που διέπουν την αποστολή μας για την προώθηση της διαφάνειας, της καινοτομίας και της ευκαιρίας στο διαδίκτυο.
 manifesto-the-internet-is-an-integral = Το διαδίκτυο είναι αναπόσπαστο κομμάτι της σύγχρονης ζωής—ένα βασικό συστατικό της εκπαίδευσης, της επικοινωνίας, της συνεργασίας, της επιχειρηματικότητας, της ψυχαγωγίας και της κοινωνίας σαν σύνολο.
 manifesto-the-internet-is-a-global = Το διαδίκτυο είναι ένας παγκόσμιος, δημόσιος πόρος που πρέπει να παραμείνει ανοικτός και προσβάσιμος.
 manifesto-the-internet-must-enrich = Το διαδίκτυο πρέπει να εμπλουτίζει τις ζωές των ανθρώπων.

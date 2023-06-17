@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
 # HTML page title
-mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
+mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } και { -brand-name-ipad })
 # HTML description
 # Obsolete string
 mobile-ios-firefox-browser-for = Το { -brand-name-firefox } για { -brand-name-ios } είναι γρήγορο, ασφαλές και ιδιωτικό από την πρώτη εκκίνηση.

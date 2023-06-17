@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Λήψη τώρα
 download-button-free-download = Δωρεάν λήψη
@@ -10,7 +10,7 @@ download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span>
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Υποστηριζόμενες συσκευές
 download-button-whats-new = Τι νέο υπάρχει
-download-button-systems-languages = Συστήματα &amp; γλώσσες
+download-button-systems-languages = Συστήματα και γλώσσες
 download-button-recommended = Προτεινόμενα
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -21,7 +21,7 @@ download-button-please-follow-these = Παρακαλούμε ακολουθήσ�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Το σύστημά σας δεν πληροί τις <a href="{ $url }">απαιτήσεις</a> για την εκτέλεση του { -brand-name-firefox }.
-download-button-firefox-other-platforms = { -brand-name-firefox } για άλλες πλατφόρμες & γλώσσες
+download-button-firefox-other-platforms = { -brand-name-firefox } για άλλες πλατφόρμες και γλώσσες
 download-button-update-your-firefox = Ενημερώστε το { -brand-name-firefox } σας
 download-button-get-firefox-android = Λήψη του { -brand-name-firefox } για { -brand-name-android }
 download-button-get-firefox-ios = Λήψη του { -brand-name-firefox } για { -brand-name-ios }

@@ -6,7 +6,12 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } για Linux
+vpn-linux-why-choose = Γιατί να επιλέξω το { -brand-name-mozilla-vpn } για Linux;
 vpn-linux-how-to-install = Εγκατάσταση του { -brand-name-mozilla-vpn } στο Linux
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use = Εάν χρησιμοποιείτε κάποια από τις υποστηριζόμενες εκδόσεις του Ubuntu, υπάρχουν δύο τρόποι εγκατάστασης των επίσημων πακέτων mozillavpn που φιλοξενούνται στο <a { $attrs }>launchpad</a>:
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Λειτουργία γραμμής εντολών στο Ubuntu:</strong> Για λεπτομερείς οδηγίες σχετικά με την εγκατάσταση του { -brand-name-mozilla-vpn } με εργαλεία της λειτουργίας γραμμής εντολών, δείτε το <a { $attrs }>Εγκατάσταση του { -brand-name-mozilla-vpn } σε υπολογιστή με Linux</a>.

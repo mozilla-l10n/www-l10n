@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Όλες οι γλώσσες
 sub-navigation-firefox = { -brand-name-firefox }
@@ -20,7 +20,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = Υποστήριξη { -brand-name-ios }
 sub-navigation-android-support = Υποστήριξη { -brand-name-android }
 sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
-sub-navigation-desktop-beta-and-developer = { -brand-name-beta } & { -brand-name-developer-edition } για υπολογιστές
+sub-navigation-desktop-beta-and-developer = { -brand-name-beta } και { -brand-name-developer-edition } για υπολογιστές
 sub-navigation-desktop-nightly = { -brand-name-nightly } για υπολογιστές
 sub-navigation-features = Χαρακτηριστικά
 sub-navigation-support = Υποστήριξη

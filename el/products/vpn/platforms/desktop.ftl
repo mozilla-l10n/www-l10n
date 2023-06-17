@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 # Meta strings
-vpn-desktop-page-title = { -brand-name-mozilla-vpn } για υπολογιστές (PC & Laptop)
+vpn-desktop-page-title = { -brand-name-mozilla-vpn } για υπολογιστές (επιτραπέζιους και φορητούς)
 vpn-desktop-page-description = Λάβετε προστασία στον υπολογιστή σας από τη { -brand-name-mozilla }, μία από τις πιο αξιόπιστες επωνυμίες στον χώρο της τεχνολογίας.
 # Desktop strings
 vpn-desktop-hero-headline = Προφυλάξτε τη σύνδεσή σας στο διαδίκτυο με το { -brand-name-mozilla-vpn } για υπολογιστές

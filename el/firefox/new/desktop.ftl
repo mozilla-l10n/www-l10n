@@ -9,7 +9,7 @@
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
-firefox-desktop-download-meta-title = Λήψη του { -brand-name-firefox-browser } — Γρήγορο, ιδιωτικό & δωρεάν — από τη { -brand-name-mozilla }
+firefox-desktop-download-meta-title = Λήψη του { -brand-name-firefox-browser } — Γρήγορο, ιδιωτικό και δωρεάν — από τη { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Λήψη του { -brand-name-firefox } για υπολογιστές — από τη { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Αποκτήστε το { -brand-name-firefox }, ένα δωρεάν πρόγραμμα περιήγησης από τη { -brand-name-mozilla }, μια μη κερδοσκοπική οργάνωση αφιερωμένη στην υγεία και το απόρρητο του διαδικτύου. Διαθέσιμο σε { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } και { -brand-name-ios }.
 firefox-desktop-download-meta-desc-v2 = Αποκτήστε το { -brand-name-firefox } για { -brand-name-windows }, { -brand-name-mac-short } ή { -brand-name-linux }. Το { -brand-name-firefox } είναι ένα δωρεάν πρόγραμμα περιήγησης από τη { -brand-name-mozilla }, έναν μη κερδοσκοπικό οργανισμό που έχει αφοσιωθεί στην υγεία και το απόρρητο στο διαδίκτυο.
@@ -72,7 +72,7 @@ firefox-desktop-download-spell-check = Ορθογραφικός έλεγχος
 firefox-desktop-download-pinned-tabs = Καρφιτσωμένες καρτέλες
 firefox-desktop-download-stream-share-play = Κοινή χρήση και αναπαραγωγή
 # Autoplay is a feature names and so is capitalized in English
-firefox-desktop-download-block-autoplay-of = Φραγή αυτόματης αναπαραγωγής βίντεο & ήχου
+firefox-desktop-download-block-autoplay-of = Φραγή αυτόματης αναπαραγωγής βίντεο και ήχου
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Εικόνα εντός εικόνας
 firefox-desktop-download-curated-content-on = Επιλεγμένο περιεχόμενο νέας καρτέλας

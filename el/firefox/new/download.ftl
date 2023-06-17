@@ -18,7 +18,7 @@ firefox-new-download-firefox-for-windows = Λήψη του { -brand-name-firefox
 firefox-new-download-firefox-for-macos = Λήψη του { -brand-name-firefox } <br>για { -brand-name-mac }
 firefox-new-download-firefox-for-linux = Λήψη του { -brand-name-firefox } <br>για { -brand-name-linux }
 firefox-new-free-web-browser = Δωρεάν πρόγραμμα περιήγησης ιστού
-firefox-new-advanced-install-options = Σύνθετες επιλογές εγκατάστασης & άλλες πλατφόρμες
+firefox-new-advanced-install-options = Σύνθετες επιλογές εγκατάστασης και άλλες πλατφόρμες
 firefox-new-download-in-another-language = Λήψη σε άλλη γλώσσα
 firefox-new-need-help = Χρειάζεστε βοήθεια;
 
@@ -59,7 +59,7 @@ firefox-new-visit-support-for-more = Επίσκεψη υποστήριξης γ�
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Λήψη του { -brand-name-firefox-browser }
-firefox-new-fast = Γρήγορο, ιδιωτικό & δωρεάν
+firefox-new-fast = Γρήγορο, ιδιωτικό και δωρεάν
 firefox-new-from-mozilla = από τη { -brand-name-mozilla }
 firefox-new-desc = Το { -brand-name-firefox-browser } είναι ένα δωρεάν πρόγραμμα περιήγησης ιστού για γρήγορη φόρτωση σελίδων, με λιγότερη χρήση μνήμης και πολλές άλλες λειτουργίες - ένα έργο της μη κερδοσκοπικής { -brand-name-mozilla }.
 firefox-new-download-a-different = Λήψη για διαφορετική πλατφόρμα ή γλώσσα
