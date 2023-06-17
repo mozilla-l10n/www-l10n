@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
 
+vpn-mac-get-a-vpn = Hanki VPN macOS:lle { -brand-name-mozilla }lta
 vpn-mac-protect-your-mac = Suojaa Mac-tietokonettasi { -brand-name-mozilla-vpn }:llä
