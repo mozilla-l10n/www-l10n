@@ -31,6 +31,8 @@ navigation-get-firefox = Fáðu þér { -brand-name-firefox }
 navigation-get-firefox-focus = Fáðu þér { -brand-name-firefox-focus }
 navigation-android-extensions = Forritsaukar { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account }-reikningurinn þinn
+# Outdated string
+navigation-learn-how-to-customize = Lærðu leiðir til að sérsníða hvernig { -brand-name-firefox } virkar.
 navigation-get-together = Komum saman í sýndarveruleika með þessu samfélagsrými á netinu.
 navigation-mozilla-mixed-reality = Blandaður veruleiki { -brand-name-mozilla }
 # Outdated string
@@ -39,6 +41,7 @@ navigation-mozilla-brings-virtual = { -brand-name-mozilla } færir sýndarverule
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } færir { -brand-name-firefox } í aukinn veruleika og sýndarveruleika.
 navigation-firefox-built-just-for = { -brand-name-firefox }, smíðað beinlínis fyrir forritara.
+navigation-preview-the-latest-build = Forskoðaðu nýjustu smíðina á { -brand-name-firefox } og hjálpaðu okkur að gera hana sem besta.
 navigation-firefox-playground = { -brand-name-firefox }-leikvöllurinn
 navigation-mozilla-open-source-support = { -brand-name-mozilla } opinn hugbúnaður (MOSS)
 navigation-mozilla-manifesto = Stefnuskrá { -brand-name-mozilla }
