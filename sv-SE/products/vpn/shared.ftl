@@ -108,6 +108,8 @@ vpn-shared-platform-cta-headline = Låt oss börja
 vpn-shared-platform-cta-button = Se pris och tillgänglighet
 vpn-shared-platform-privacy-promise = Din integritet är vårt löfte
 vpn-shared-platform-trust-partner-headline = Om vår pålitliga partner
+vpn-shared-platform-what-is = Vad är { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Varför { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
