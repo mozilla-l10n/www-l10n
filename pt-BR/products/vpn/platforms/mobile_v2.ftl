@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
 vpn-mobile-vpn-for-mobile = VPN para dispositivos móveis da { -brand-name-mozilla }
+vpn-mobile-why-do-i = Por que preciso de uma VPN para celular?
