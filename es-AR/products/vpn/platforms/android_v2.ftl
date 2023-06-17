@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 vpn-android-vpn-for-android = VPN para Android de { -brand-name-mozilla }
+vpn-android-why-should-i = ¿Por qué debería descargar { -brand-name-mozilla-vpn } para Android?
