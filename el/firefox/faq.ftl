@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -67,12 +67,9 @@ does-firefox-use = Το { -brand-name-firefox } χρησιμοποιεί το { 
 
 firefoxs-default-search = Το { -brand-name-google } είναι η προεπιλεγμένη μηχανή αναζήτησης του { -brand-name-firefox }, που σημαίνει ότι μπορείτε να κάνετε αναζήτηση στο διαδίκτυο από τη γραμμή διευθύνσεων. <a href="{ $url }">Μάθετε περισσότερα σχετικά με τις προτιμήσεις μηχανής αναζήτησης και την αλλαγή των προεπιλογών.</a>
 does-firefox-have = Διαθέτει το { -brand-name-firefox } ενσωματωμένο VPN;
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = Το { -brand-name-firefox } δεν ενσωματώνει VPN (εικονικό ιδιωτικό δίκτυο), αλλά υπάρχουν δύο προϊόντα από τη { -brand-name-mozilla }/{ -brand-name-firefox } που μπορείτε να χρησιμοποιήσετε μαζί με το ιδιωτικό { -brand-name-firefox-browser } και μπορούν να προστατέψουν τη σύνδεση WiFi, καθώς και τη διεύθυνση IP, είτε του προγράμματος περιήγησής σας (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>), είτε της συσκευής σας (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) .
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = Το { -brand-name-firefox } δεν διαθέτει ενσωματωμένο VPN (εικονικό ιδιωτικό δίκτυο), αλλά η { -brand-name-mozilla } δημιούργησε το <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> που μπορείτε να χρησιμοποιήσετε σε συνδυασμό με το ιδιωτικό πρόγραμμα περιήγησης { -brand-name-firefox-browser }, το οποίο μπορεί να προστατεύσει τη σύνδεσή σας στο Wi-Fi, καθώς και τη διεύθυνση IP σας.
 related-questions-ip = Σχετικές ερωτήσεις: κρύβει το { -brand-name-firefox } τη διεύθυνση IP σας
 who-owns-firefox = Σε ποια εταιρεία ανήκει το { -brand-name-firefox };
 
