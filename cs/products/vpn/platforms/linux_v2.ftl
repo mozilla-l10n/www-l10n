@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
+vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } na Linuxu
 vpn-linux-why-choose = Proč zvolit { -brand-name-mozilla-vpn } pro Linux?
+vpn-linux-how-to-install = Jak nainstalovat { -brand-name-mozilla-vpn } na Linuxu
