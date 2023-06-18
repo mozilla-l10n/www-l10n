@@ -5,7 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
+vpn-linux-mozilla-vpn = GNU/Linux 上的 { -brand-name-mozilla-vpn }
 vpn-linux-looking-for = 在寻找 VPN 来保护您的 GNU/Linux 设备吗？{ -brand-name-mozilla-vpn } 由非营利公司提供，是您的不二之选。来了解 VPN 将如何保护您，以及 { -brand-name-mozilla } 为何能不负所托，捍卫您的隐私与安全。
+vpn-linux-mozilla-vpn-on-linux = GNU/Linux 用上 { -brand-name-mozilla-vpn } 让互联网体验更私密安全
+vpn-linux-linux-is-free = GNU/Linux 自由、开源、可定制性高，但也不能免受在线安全与隐私方面的影响。GNU/Linux 用户也和其他操作系统用户一样，会面临审查、监视和骇客攻击的威胁
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } 是一项虚拟专用网络服务，采用先进且开源的加密技术，不会记录、跟踪、共享您的网络活动。您可以借助 { -brand-name-mozilla-vpn } 连接至 30 余个国家和地区的 500 多台服务器。
 vpn-linux-why-choose = 为什么要下载为 GNU/Linux 量身打造的 { -brand-name-mozilla-vpn }？
 vpn-linux-fast-and = <strong>连接高速可靠：</strong>{ -brand-name-mozilla-vpn } 采用 { -brand-name-wireguard }® 协议，相较其他 VPN 协议更高效、更稳定。
