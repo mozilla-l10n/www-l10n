@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
+vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } ໃນ Linux
+vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } ໃນ Linux ສໍາລັບອິນເຕີເນັດສ່ວນຕົວ ແລະ ປອດໄພກວ່າ
 vpn-linux-why-choose = ເປັນຫຍັງເລືອກ { -brand-name-mozilla-vpn } ສໍາລັບ Linux?

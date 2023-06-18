@@ -7,8 +7,13 @@
 
 vpn-android-vpn-for-android = VPN ສໍາລັບ Android ຈາກ { -brand-name-mozilla }
 vpn-android-ease-security = ຜ່ອນຄາຍຄວາມຢ້ານກົວດ້ານຄວາມປອດໄພດ້ວຍ { -brand-name-mozilla-vpn } ສໍາລັບ Android
+vpn-android-looking-for-a = ຊອກຫາ VPN ເພື່ອປົກປ້ອງອຸປະກອນ Android ຂອງທ່ານບໍ? { -brand-name-mozilla-vpn } ໄດ້ຮັບການສະໜັບສະໜູນໂດຍບໍລິສັດທີ່ບໍ່ຫວັງຜົນກຳໄລ. ສຶກສາກ່ຽວກັບວິທີທີ່ VPN ປົກປ້ອງທ່ານ ແລະ ເປັນຫຍັງທ່ານຄວນໄວ້ວາງໃຈ { -brand-name-mozilla } ກັບຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພຂອງທ່ານ.
 vpn-android-how-does-a = VPN ປົກປ້ອງອຸປະກອນ Android ຂອງຂ້ອຍແນວໃດ?
 vpn-android-vpns-help = VPNs ຊ່ວຍປ້ອງກັນ:
 vpn-android-your-internet-activity = ກິດ​ຈະ​ກໍາ​ອິນ​ເຕີ​ເນັດ​ຂອງ​ທ່ານ​ຈາກ​ການ​ເບິ່ງ​ໄດ້​, ແລ ະ​ຫຼັງ​ຈາກ​ນັ້ນ​ຂາຍ ​ຫຼື ​ແບ່ງ​ປັນ​ກັບ​ຜູ້​ໂຄ​ສະ​ນາ​.
+vpn-android-low-video = ຄຸນ​ນະ​ພາບ​ການ​ສະ​ຕ​ຣີມ​ວິ​ດີ​ໂອ​ຕ​່​ໍ​າ​ເນື່ອງ​ຈາກ​ການ​ຊ້າ​ ແລະ ​ຈໍາ​ກັດ​ແບນ​ວິດ​ຈາກ​ຜູ້​ໃຫ້​ບໍ​ລິ​ການ​ອິນ​ເຕີ​ເນັດ (ISP​) ຂອງ​ທ່ານ
+vpn-android-your-personal = ຂໍ້ມູນສ່ວນຕົວຂອງທ່ານຖືກລັກເມື່ອໃຊ້ເຄືອຂ່າຍ Wi-Fi ສາທາລະນະ.
 vpn-android-why-should-i = ເປັນຫຍັງຂ້ອຍຄວນດາວໂຫຼດ { -brand-name-mozilla-vpn } ສໍາລັບ Android?
 vpn-android-browse-the-internet = ຄົ້ນຫາອິນເຕີເນັດໂດຍບໍ່ມີການໃຫ້ສະຖານທີ່ຂອງທ່ານ.
+vpn-android-be-more-comfortable = ສະດວກສະບາຍໃນການໃຊ້ Wi-Fi ສາທາລະນະໃນຮ້ານກາເຟ, ສະໜາມບິນ ແລະ ອື່ນໆອີກ.
+vpn-android-avoid-intrusive = ຫຼີກ​ລ້ຽງ​ການ​ໂຄ​ສະ​ນາ​ສະ​ຖານ​ທີ່ intrusive​.
