@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
+# New strings for updated page
+vpn-windows-get-a-vpn = ຮັບ VPN ສໍາລັບ Windows ຈາກ { -brand-name-mozilla }
 vpn-windows-what-are-the-benefits = ຜົນປະໂຫຍດຂອງການດາວໂຫຼດ { -brand-name-mozilla-vpn } ໃນອຸປະກອນ Windows ຂອງຂ້ອຍແມ່ນຫຍັງ?
