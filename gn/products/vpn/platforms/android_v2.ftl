@@ -12,3 +12,5 @@ vpn-android-vpns-help = Umi VPN oipytyvõ oñembyai mboyve:
 vpn-android-your-internet-activity = Ne rembiapo ñandutípe tojehecha ha tojehepyme’ẽ térã toñemoherakuã moñemuhára ndive.
 vpn-android-why-should-i = Mba’érepa emboguejyva’erã { -brand-name-mozilla-vpn } Android-pe g̃uarã
 vpn-android-browse-the-internet = Eikundaha ñandutípe ehechauka’ỹre ne rendaite.
+vpn-android-be-more-comfortable = Eñeñanduporãve eipurúvo Wi-Fi opavavegua kafe, aviõguejyha ha hetave.
+vpn-android-avoid-intrusive = Emboyke ñemurã kañygua ne rendaite reheguáva.
