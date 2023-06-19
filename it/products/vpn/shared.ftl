@@ -108,7 +108,7 @@ vpn-shared-platform-cta-headline = Cominciamo
 vpn-shared-platform-cta-button = Vedi prezzi e disponibilità
 vpn-shared-platform-privacy-promise = Il nostro impegno è per la tua privacy
 vpn-shared-platform-trust-partner-headline = Informazioni sui nostri partner di fiducia
-vpn-shared-platform-what-is = Che cos'è { -brand-name-mozilla-vpn }?
+vpn-shared-platform-what-is = Che cos’è { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Perché { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
