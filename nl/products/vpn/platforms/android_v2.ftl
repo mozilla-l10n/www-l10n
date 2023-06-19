@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 vpn-android-vpn-for-android = VPN voor Android van { -brand-name-mozilla }
+vpn-android-how-does-a = Hoe beschermt een VPN mijn Android-apparaat?
