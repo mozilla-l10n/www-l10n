@@ -10,7 +10,6 @@ vpn-shared-subscribe-link = Ereko { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Ejuaju tysýi oha’ãrõvare
 vpn-shared-sign-in-link = ¿Eñemboheraguapýma?
 # Outdated string
-vpn-shared-available-countries-v4 = Ko’ág̃a romba’apo { -brand-name-mozilla-vpn } ndive Austria, Bélgica, Canadá, Francia, Alemania, Irlanda, Italia, Malasia, Países Bajos, Nueva Zelanda, Singapur, España, Suiza, Reino Unido ha Estados Unidos-pe.
 vpn-shared-available-countries-v5 = Ko’ág̃a romba’apo { -brand-name-mozilla-vpn } ndive Austria, Bélgica, Canadá, Francia, Alemania, Irlanda, Italia, Malasia, Países Bajos, Nueva Zelanda, Singapur, España, Suiza, Reino Unido ha Estados Unidos retãme.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ára haguépe ome’ẽkuaajey viru
@@ -108,6 +107,8 @@ vpn-shared-platform-cta-headline = Ñañepyrũkatu
 vpn-shared-platform-cta-button = Ehecha hepy ha joguakuaa
 vpn-shared-platform-privacy-promise = Ne ñemigua ha’e ore me’ẽmbyrã
 vpn-shared-platform-trust-partner-headline = Ore irũ jeroviaha rehegua
+vpn-shared-platform-what-is = Mba’épa { -brand-name-mozilla-vpn }
+vpn-shared-platfrom-why-choose = Mba’érepa { -brand-name-mozilla-vpn }
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
