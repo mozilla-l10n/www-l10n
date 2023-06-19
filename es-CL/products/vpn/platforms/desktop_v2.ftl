@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 vpn-desktop-vpn-for-pc = VPN para computadores de { -brand-name-mozilla }
+vpn-desktop-how-does-a = ¿Cómo protege un VPN mi computador portátil o PC?

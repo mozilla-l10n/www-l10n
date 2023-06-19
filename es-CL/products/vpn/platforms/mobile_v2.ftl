@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+vpn-mobile-vpn-for-mobile = VPN para móviles de { -brand-name-mozilla }
+vpn-mobile-why-do-i = ¿Por qué necesito un VPN para móviles?
 vpn-mobile-hackers-can-steal = Los hackers pueden robar tus dastos personales cuando utilizas Wi-Fi públicos, como en cafés o aeropuertos.

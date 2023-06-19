@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
+# New strings for updated page
+vpn-windows-get-a-vpn = Obtén un VPN para Windows de { -brand-name-mozilla }
+vpn-windows-protect-your-windows = Protege tu dispositivo Windows con un VPN. { -brand-name-mozilla } está respaldado por una empresa sin fines de lucro. Obtén información sobre cómo te protege un VPN y por qué deberías confiar en { -brand-name-mozilla } para tu privacidad y seguridad.
 vpn-windows-what-are-the-benefits = ¿Cuáles son los beneficios de bajar { -brand-name-mozilla-vpn } en mi dispositivo Windows?
 vpn-windows-avoid-your-online = Evita que tu actividad en línea sea recopilada y compartida con terceros o anunciantes.
 vpn-windows-if-youre = Si eres un gran usuario de videos en línea o de streaming de música, puedes evitar que tu proveedor de servicios de Internet restrinja o reduzca tu ancho de banda mediante el uso de un VPN.
