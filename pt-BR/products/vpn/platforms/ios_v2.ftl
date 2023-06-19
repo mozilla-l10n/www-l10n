@@ -5,4 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios/
 
-vpn-ios-vpn-for-iphone = VPN para iPhone da { -brand-name-mozilla }
+vpn-ios-vpn-for-iphone = VPN da { -brand-name-mozilla } para iPhone
