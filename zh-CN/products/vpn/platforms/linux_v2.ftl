@@ -21,3 +21,10 @@ vpn-linux-it-helps-restore = <strong>恢复网络中立：</strong>{ -brand-name
 vpn-linux-gui-client = <strong>图形化客户端：</strong>一些 VPN 提供商仅提供命令行客户端，而 { -brand-name-mozilla-vpn } 除命令行客户端外，还提供图形化客户端。
 vpn-linux-by-using = { -brand-name-mozilla-vpn } 可助您重新掌握对在线活动的控制权，保护个人隐私及数据。立即下载 { -brand-name-mozilla-vpn }，可享 30 天退款保证。网络活动零记录，不繁琐，无风险。
 vpn-linux-how-to-install = 在 GNU/Linux 上安装 { -brand-name-mozilla-vpn }
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use = 如果您使用的是受支持的 Ubuntu 版本，则有两种方式来安装托管在 <a { $attrs }>Launchpad</a> 上的 mozillavpn 官方软件包 ：
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Ubuntu 图形用户界面：</strong>请参阅<a { $attrs }>这篇文章</a>，按照 Adding Personal Package Archives 段落的指引操作。
