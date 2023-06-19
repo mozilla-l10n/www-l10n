@@ -13,3 +13,9 @@ vpn-mac-but-finding = Maar het vinden van een goede VPN kan lastig zijn. Sommige
 vpn-mac-with-mozilla-vpn = Met { -brand-name-mozilla-vpn } kunt u:
 vpn-mac-get-one-click = Ontvang privacy met één klik met een eenvoudige en gebruiksvriendelijke interface.
 vpn-mac-connect-up-to = Verbind tot wel 5 verschillende apparaten met één abonnement, inclusief Mac, maar ook iOS, Windows, Linux en Android.
+# “Cap” means putting a limit to
+vpn-mac-use-our-vpn = Gebruik onze VPN zoveel u wilt. In tegenstelling tot sommige VPN’s, die slechts een bepaalde hoeveelheid gegevens per maand beschermen, beperken we uw verkeer niet. Het maakt niet uit hoeveel gegevens u gebruikt, deze zijn altijd beschermd.
+vpn-mac-get-device-level = Ontvang versleuteling op apparaatniveau voor uw verkeer. In tegenstelling tot andere oplossingen, die alleen uw browserverkeer versleutelen, versleutelt { -brand-name-mozilla-vpn } alles, waardoor uw internetverkeer wordt beschermd, ongeacht welke toepassing erbij betrokken is.
+vpn-mac-prevent-internet = Voorkom dat internetproviders websites of services die ze niet leuk vinden of die concurreren met hun eigen aanbod afknijpen of blokkeren. Voor meer informatie kunt u lezen over Netneutraliteit.
+vpn-mac-mozilla-is-an = { -brand-name-mozilla } is een organisatie die zich inzet om het internet voor iedereen open en toegankelijk te houden, en we worden ondersteund door een non-profitorganisatie. Wanneer u { -brand-name-mozilla-vpn } gebruikt, beschermt u niet alleen uzelf online, maar ondersteunt u ook de missie van { -brand-name-mozilla }. { -brand-name-mozilla-vpn } is veilig, opensource en is ontwikkeld door de beveiligingsexperts en makers van { -brand-name-firefox }.
+vpn-mac-mozilla-doesnt-log = { -brand-name-mozilla } registreert niet welke websites u bezoekt en inspecteert uw communicatie niet. We hebben ook een 30-dagen-geld-terug-garantie: geen gedoe, geen risico.
