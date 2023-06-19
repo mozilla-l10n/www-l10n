@@ -7,3 +7,4 @@
 
 vpn-mobile-get-a-vpn = Ereko VPN pumbyrýpe g̃uarã { -brand-name-mozilla } rehegua
 vpn-mobile-vpn-for-mobile = VPN pumbyrýpe g̃uarã { -brand-name-mozilla } rehegua
+vpn-mobile-why-do-i = Mba’érepa aikotevẽ VPN pumbyrýpe
