@@ -7,3 +7,4 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Conseguí una VPN para Windows de { -brand-name-mozilla }
+vpn-windows-what-are-the-benefits = ¿Cuáles son los beneficios de descargar { -brand-name-mozilla-vpn } en mi dispositivo Windows?
