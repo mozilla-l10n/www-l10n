@@ -5,10 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
-
-# Meta strings
-
-vpn-windows-page-title = { -brand-name-windows } ਲਈ { -brand-name-mozilla-vpn }
+# Obsolete Strings
+vpn-windows-page-title = { -brand-name-windows } 10 ਲਈ { -brand-name-mozilla-vpn }
 # Windows strings
 vpn-windows-hero-headline = { -brand-name-windows } 10 ਲਈ { -brand-name-mozilla-vpn } ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਜੁੜੇ ਰਹੋ
 vpn-windows-wifi-headline = ਜਨਤਕ ਵਾਈ-ਫ਼ਾਈ ਉੱਤੇ ਪ੍ਰਾਈਵੇਟ ਰਹੋ
