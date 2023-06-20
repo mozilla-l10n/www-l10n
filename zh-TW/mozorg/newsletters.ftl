@@ -290,6 +290,14 @@ newsletters-updates-from-our-global = 來自我們的全球社群消息更新，
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = 幫助您熟悉 { -brand-name-webmaker } 的特殊公告。
+# Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-firefox-accounts = { -brand-name-firefox-accounts }
+# Description for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-get-tips-from-mozilla = 從 { -brand-name-mozilla } 獲得如何讓您的帳號發揮最大威力的小秘訣。
+# Name for the newsletter in Newsletter subscription page (Welcome emails)
+newsletters-welcome-emails = 歡迎郵件
+# Description for the newsletter in Newsletter subscription page (Welcome emails)
+newsletter-welcome-emails-that-get-you = 可讓您開始使用我們的產品與服務的歡迎郵件。
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
