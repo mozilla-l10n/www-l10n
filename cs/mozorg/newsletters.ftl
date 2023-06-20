@@ -290,6 +290,10 @@ newsletters-updates-from-our-global = Informace od naší komunity, která pomá
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Zvláštní oznámení, která vám pomohou využívat { -brand-name-webmaker(case: "acc") } naplno.
+# Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-firefox-accounts = { -brand-name-firefox-accounts }
+# Description for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-get-tips-from-mozilla = Získejte tipy od { -brand-name-mozilla(case: "gen") }, jak ze svého účtu vytěžit maximum.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
