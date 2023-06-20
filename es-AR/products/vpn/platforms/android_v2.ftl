@@ -14,3 +14,6 @@ vpn-android-your-internet-activity = Tu actividad en Internet sea visible y lueg
 vpn-android-low-video = Baja calidad de streaming de video debido a un ancho de banda más lento y restringido de tu proveedor de servicios de Internet (ISP)
 vpn-android-your-personal = Tus datos personales sean robados al usar una red Wi-Fi pública.
 vpn-android-why-should-i = ¿Por qué debería descargar { -brand-name-mozilla-vpn } para Android?
+vpn-android-browse-the-internet = Navegá por Internet sin revelar tu ubicación.
+vpn-android-be-more-comfortable = Sentite más confortable usando Wi-Fi público en cafés, aeropuertos y más.
+vpn-android-avoid-intrusive = Evitá publicidad intrusiva basada en la ubicación.
