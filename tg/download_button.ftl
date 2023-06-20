@@ -16,6 +16,9 @@ download-button-recommended = Тавсия дода мешавад
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } дигар навсозиҳои амниятиро барои «{ -brand-name-firefox }» дар { -brand-name-windows } «{ -brand-name-xp }» ё «{ -brand-name-vista }»</a> таъмин намекунад, аммо шумо ба ҳар ҳол метавонед гунаи ниҳоии «{ -brand-name-windows } 32-бит»-ро дар зер боргирӣ намоед.
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+download-button-please-follow-these = Барои насб кардани «{ -brand-name-firefox }», лутфан, <a href="{ $url }">ин қадамҳоро</a> иҷро намоед.
+# Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Низоми шумо ба <a href="{ $url }">талаботи</a> иҷро кардани «{ -brand-name-firefox }» ҷавобгӯ намебошад.
 download-button-firefox-other-platforms = Гунаи «{ -brand-name-firefox }» барои платформаҳо ва забонҳои дигар
