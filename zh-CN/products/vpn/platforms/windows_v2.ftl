@@ -19,4 +19,4 @@ vpn-windows-using-a-windows = 将 Windows 设备连接到公共且不安全的 W
 vpn-windows-the-mozilla = { -brand-name-mozilla-vpn } 应用内存占用小，对设备速度和续航的影响也小。
 # Variables:
 #   $url (string) - url('products.vpn.landing')
-vpn-windows-mozilla-vpn = { -brand-name-mozilla-vpn } 支持 Windows 10 和 Windows 11，可保护多达 5 台设备。在 mozilla.org <a href="{ $url }">订阅</a>并下载后，即可开始享用。
+vpn-windows-mozilla-vpn = { -brand-name-mozilla-vpn } 支持 Windows 10 和 Windows 11，可保护多达 5 台设备。<a href="{ $url }">在 mozilla.org 订阅</a>并下载后，即可开始享用。
