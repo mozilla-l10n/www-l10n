@@ -31,3 +31,6 @@ vpn-linux-ubuntu-command = <strong>Ubuntu 命令行模式：</strong>有关使�
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
 vpn-linux-ubuntu-graphical = <strong>Ubuntu 图形用户界面：</strong>请参阅<a { $attrs }>这篇文章</a>，按照 Adding Personal Package Archives 段落的指引操作。
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = 此外，如果您使用的是未受支持的 Linux 发行版，则可以从<a { $attrs }>官方 GitHub 仓库</a>下载源代码并编译。

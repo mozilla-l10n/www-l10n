@@ -12,6 +12,7 @@ vpn-mac-a-vpn-is = 骇客和互联网提供商可以监视您的在线活动、�
 vpn-mac-but-finding = 但想要找到优质的的 VPN 却并不容易。在众多 VPN 服务中，有的速度慢，有的不稳定，有的甚至会记录您的在线活动。有鉴于此，我们开发了 { -brand-name-mozilla-vpn }，它由 { -brand-name-firefox } 的开发商打造，高速、安全、值得信赖。
 vpn-mac-with-mozilla-vpn = 借助 { -brand-name-mozilla-vpn }，您可以：
 vpn-mac-get-one-click = 通过简单易用的界面，一键开启隐私保护
+vpn-mac-connect-up-to = 一次订阅即可连接多达 5 台设备。除 Mac 外，iOS、Windows、Linux 和 Android 设备也能用
 # “Cap” means putting a limit to
 vpn-mac-use-our-vpn = 无拘束地使用我们的 VPN 服务。有些 VPN 会限制每月的数据保护量，而我们不会对此设限。无论您使用了多少数据，都能得到保护。
 vpn-mac-get-device-level = 将您的流量在设备端进行加密。一些 VPN 只会加密浏览器的流量，而 { -brand-name-mozilla-vpn } 能够加密整部设备的流量，让各路应用程序都能得到保护。
