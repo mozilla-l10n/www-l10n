@@ -18,7 +18,7 @@ browser-history-that-sparked-a-revolution = That sparked a revolution in compute
 browser-history-web-era = Web Era
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
-browser-history-british-computer = British computer scientist Tim Berners-Lee created the first web server and graphical web browser in 1990 while <a href="{ $cern }">working at CERN</a>, the European Organization for Nuclear Research, in Switzerland. He called his new window into the internet “WorldWideWeb.” It was an easy-to-use graphical interface created for the NeXT computer. For the first time, text documents were linked together over a public network—the web as we know it.
+browser-history-british-computer = British computer scientist Tim Berners-Lee created the first web server and graphical web browser in 1990 while <a href="{ $cern }">working at CERN</a>, the European Organisation for Nuclear Research, in Switzerland. He called his new window into the internet “WorldWideWeb.” It was an easy-to-use graphical interface created for the NeXT computer. For the first time, text documents were linked together over a public network—the web as we know it.
 browser-history-a-year-later-berners = A year later, Berners-Lee asked CERN math student Nicola Pellow to write the Line Mode Browser, a program for basic computer terminals.
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
