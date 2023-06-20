@@ -409,6 +409,10 @@ newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Des annonces spéciales pour que vous puissiez tirer le meilleur parti de { -brand-name-webmaker }.
 
+
+
+
+
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
 
