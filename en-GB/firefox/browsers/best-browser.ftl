@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -20,7 +20,7 @@ best-browser-a-browser-is-still = A browser is still a tool, so it makes sense t
 best-browser-this-is-one-of-the = This is one of the many reasons to choose the { -brand-name-firefox } browser: { -brand-name-firefox } blocks third-party trackers by default. We have other reasons and we’ll get into those later.
 best-browser-a-browser-that-puts = A browser that puts safety first.
 best-browser-remember-the-last-massive = Remember the last massive data breach? If not, it’s probably because it happens so often. Companies hold on to customer data, like their personal or financial information, and hackers steal it. If you’re making safety a priority, then a secure internet browser is the best browser for you.
-best-browser-there-are-a-few-ways = There are a few ways a browser can help its users stay secure. A browser that is up to date with the latest security tech can help protect your computer and websites from unwanted visitors, such as malware or computer viruses.
+best-browser-there-are-a-few-ways = There are a few ways a browser can help its users stay secure. A browser that is up to date with the latest security tech can help protect your computer and web sites from unwanted visitors, such as malware or computer viruses.
 # Variables:
 # $data (url) - link to https://www.mozilla.org/privacy/firefox/
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/

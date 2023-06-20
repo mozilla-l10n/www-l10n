@@ -47,7 +47,7 @@ vpn-download-faq-why-use = Why should I use { -brand-name-mozilla-vpn }
 vpn-download-faq-as-more-daily = As more of daily life takes place through the internet, online privacy and security become even more important. A VPN, <a href="{ $faq }">Virtual Private Network</a>, creates an encrypted tunnel between your devices and the internet, ensuring your connection remains secure and private while protecting you in two important ways:
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
-vpn-download-faq-concealing-ip = Concealing your true <a href="{ $ip }">IP address</a>: this helps protect your identity and obscures your location from the websites you visit.
+vpn-download-faq-concealing-ip = Concealing your true <a href="{ $ip }">IP address</a>: this helps protect your identity and obscures your location from the web sites you visit.
 vpn-download-faq-encrypting = Encrypting your internet traffic: so no one on the wire can spy on your online activity.
 vpn-download-faq-working = How do I know the VPN is working?
 # Variables:
@@ -58,14 +58,10 @@ vpn-download-faq-add-device = How do I add another device?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v2 = Adding another device is as simple as downloading and installing the { -brand-name-mozilla-vpn } software and then signing into your existing { -brand-name-firefox-account } on the new device. For more details, please see <a href="{ $subscription }">How to add devices to your { -brand-name-mozilla-vpn } subscription</a>.
-# Outdated string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Adding another device is as simple as downloading and installing the { -brand-name-mozilla-vpn } software and then signing into your existing { -brand-name-firefox } account on the new device. For more details, please see <a href="{ $subscription }">How to add devices to your { -brand-name-mozilla-vpn } subscription</a>.
 vpn-download-faq-best-practices = What are some VPN best practices?
 vpn-download-faq-traffic = If your goal is to protect your internet traffic while keeping a fast speed, then it’s always best to choose a server location that is as close as possible to your physical location. This will increase the reliability and speed of your connection as your internet traffic will not need to take a significant detour before arriving at its intended destination on the web.
 vpn-download-faq-experience = If your goal is to experience the internet as if you were in some other part of the world, you can choose a server location there and all web sites you visit will display as if you were there.
-vpn-download-faq-protect = If you want to protect yourself even more, you can activate protections against Ads, Ad Trackers and Malware by going to Settings > Privacy features. Please note that this may cause some websites to break or not load, so you might need to temporarily disable these protections if you bump into this issue.
+vpn-download-faq-protect = If you want to protect yourself even more, you can activate protections against Ads, Ad Trackers and Malware by going to Settings > Privacy features. Please note that this may cause some web sites to break or not load, so you might need to temporarily disable these protections if you bump into this issue.
 vpn-download-faq-lastly = Lastly, on supported devices, you can make the VPN even smarter by excluding certain apps (ex. Netflix) from the VPN.
 vpn-download-faq-need-more = Need a little more help?
 # Variables
