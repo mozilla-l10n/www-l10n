@@ -26,5 +26,8 @@ vpn-linux-how-to-install = 在 GNU/Linux 上安装 { -brand-name-mozilla-vpn }
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use = 如果您使用的是受支持的 Ubuntu 版本，则有两种方式来安装托管在 <a { $attrs }>Launchpad</a> 上的 mozillavpn 官方软件包 ：
 # Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Ubuntu 命令行模式：</strong>有关使用命令行安装 { -brand-name-mozilla-vpn } 的详细指引，请见<a { $attrs }>在 Linux 计算机上安装 { -brand-name-mozilla-vpn }</a>。
+# Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
 vpn-linux-ubuntu-graphical = <strong>Ubuntu 图形用户界面：</strong>请参阅<a { $attrs }>这篇文章</a>，按照 Adding Personal Package Archives 段落的指引操作。
