@@ -12,6 +12,7 @@
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-country-label = Шумо дар кадом кишвар зиндагӣ мекунед?
+vpn-landing-invite-language-label = Забони дилхоҳи худро интихоб намоед.
 
 ##
 
