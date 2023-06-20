@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 vpn-android-vpn-for-android = VPN pro Android per { -brand-name-mozilla }
+vpn-android-vpns-help = VPNs adjuta impedir:
