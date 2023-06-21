@@ -10,6 +10,8 @@ compare-shared-yes = Ҳа
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Не
 compare-shared-private-browsing-mode = Реҷаи «Тамошокунии хусусӣ»
+compare-shared-text-to-speech = Матн ба нутқ
+compare-shared-spell-checking = Санҷиши имло
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
