@@ -14,4 +14,6 @@ firefox-accounts-manage = Идоракунии ҳисоби худ
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }
