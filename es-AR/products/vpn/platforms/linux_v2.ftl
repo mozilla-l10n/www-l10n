@@ -18,4 +18,18 @@ vpn-linux-device-level = <strong>Cifrado a nivel de dispositivo:</strong> A dife
 vpn-linux-simple-and = <strong>Interfaz simple e intuitiva:</strong> Conectate a un servidor con un solo clic. También podés personalizar tu configuración y preferencias según tus necesidades.
 vpn-linux-it-helps-restore = <strong>Ayuda a restaurar la neutralidad de la red:</strong> { -brand-name-mozilla-vpn } te ayuda a recuperar el control de tus actividades en línea al evitar que los proveedores de Internet limiten su ancho de banda o bloqueen sitios web o servicios que no no les gustan, o que compiten con sus propias ofertas.
 vpn-linux-gui-client = <strong>Cliente GUI:</strong>{ -brand-name-mozilla-vpn } tiene un cliente GUI (interfaz gráfica de usuario), mientras que algunos proveedores de VPN solo ofrecen una versión CLI (línea de comandos).
+vpn-linux-by-using = Al usar { -brand-name-mozilla-vpn }, podés recuperar el control de tus actividades en línea y proteger tu privacidad y datos. Descargá { -brand-name-mozilla-vpn } hoy y disfrutá de una garantía de devolución de dinero de 30 días sin registros, sin problemas y sin riesgos.
 vpn-linux-how-to-install = Cómo instalar { -brand-name-mozilla-vpn } en Linux
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use = Si usás una de las versiones compatibles de Ubuntu, hay dos formas de instalar los paquetes oficiales de mozillavpn alojados en <a { $attrs }>launchpad:</a>
+# Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Modo de línea de comandos de Ubuntu:</strong> Para obtener instrucciones detalladas sobre cómo instalar { -brand-name-mozilla-vpn } con las herramientas del modo de línea de comandos, consultá <a { $attrs }>Cómo instalar { -brand-name-mozilla-vpn } en una computadora con Linux</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Interfaz gráfica de usuario de Ubuntu:</strong> Visitá <a { $attrs }>este artículo</a> y seguí las instrucciones en la sección Agregar archivos de paquetes personales.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Además, para las distribuciones de Linux no compatibles, podés descargar y compilar el código fuente del <a { $attrs }>repositorio oficial de GitHub</a>.
