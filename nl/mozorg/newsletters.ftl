@@ -290,6 +290,8 @@ newsletters-updates-from-our-global = Updates van onze wereldwijde gemeenschap d
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Speciale aankondigingen helpen u het meeste uit { -brand-name-webmaker } te halen.
+# Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
