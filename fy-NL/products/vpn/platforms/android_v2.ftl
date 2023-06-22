@@ -19,3 +19,4 @@ vpn-android-browse-the-internet = Surf op ynternet sûnder jo lokaasje priis te 
 vpn-android-be-more-comfortable = Wês nofliker mei it brûken fan iepenbiere wifi yn kafees, fleanfjilden en mear.
 vpn-android-avoid-intrusive = Foarkom optwingerige lokaasjebasearre reklame.
 vpn-android-the-mozilla-vpn-mobile = De mobile { -brand-name-mozilla-vpn }-app is lyts, dus hy brûkt net in protte fan jo ûnthâld en fertraget jo telefoan net of ferbrûkt jo batterij net.
+vpn-android-unlike-free = Yn tsjinstelling ta fergeze VPN’s of proxywebsites, dy’t foar harren servers betelje kinne troch jo te bespionearjen en jo ynformaasje te ferkeapjen, hâldt { -brand-name-mozilla } gjin gegevens by fan wat jo besykte en wat jo dogge.
