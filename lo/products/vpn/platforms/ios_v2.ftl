@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios/
 
 vpn-ios-vpn-for-iphone = VPN ສໍາລັບ iPhone ຈາກ { -brand-name-mozilla }
+vpn-ios-there-are-many = ມີຫຼາຍເຫດຜົນວ່າເປັນຫຍັງທ່ານອາດຈະຕ້ອງການໃຊ້ { -brand-name-mozilla-vpn } ສໍາລັບ iPhone, ເຊັ່ນ:

@@ -7,3 +7,4 @@
 
 vpn-desktop-vpn-for-pc = VPN ສໍາລັບ PC ຫຼື laptop ຈາກ { -brand-name-mozilla }
 vpn-desktop-how-does-a = VPN ປົກປ້ອງແລັບທັອບ ຫຼື PC ຂອງຂ້ອຍແນວໃດ?
+vpn-desktop-there-are-several = ມີຫຼາຍເຫດຜົນວ່າເປັນຫຍັງທ່ານຄວນໃຊ້ VPN ເພື່ອປົກປ້ອງຕົນເອງໃນເວລາໃຊ້ແລັບທັອບ ຫຼື PC ຂອງທ່ານ:
