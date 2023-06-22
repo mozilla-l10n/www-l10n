@@ -7,6 +7,17 @@
 
 about-this-site-title = Bu Site Hakkında
 about-this-site-desc = www.mozilla.org web sitesi ve sitenin yapımında kullanılan açık kaynak araçlar hakkında.
+# Variables:
+#   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
+#   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+about-this-site-this-website = www.mozilla.org web sitesi yirmi yılı aşkın süredir yayında. İnternet yaşıyla düşünürsek <a href="{ $archive }">dinozorlar çağından</a> beri buradayız. www.mozilla.org, web’in köşe taşlarından biridir ve kökleri <a href="{ $coderush }">{ -brand-name-mozilla }</a>’nın yaratılışına tanıklık eden açık kaynak hareketine dayanır.
+# Variables:
+#   $firefox (url) link to https://www.mozilla.org/firefox/new/
+#   $vpn (url) link to https://www.mozilla.org/products/vpn/
+#   $mozilla (url) link to https://www.mozilla.org/about/
+#   $book (url) link to https://www.mozilla.org/book/
+#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+about-this-site-today = Günümüzde insanlar <a href="{ $firefox }">{ -brand-name-firefox }</a>’u indirmek,  <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>’i denemek ve <a href="{ $mozilla }">{ -brand-name-mozilla } hakkında</a> bilgi almak için bu siteye geliyor. Yolda birkaç <a href="{ $book }">Paskalya yumurtası</a> da keşfedebilirsiniz.
 about-this-site-like-many = Ürünlerimizin çoğu gibi bu web sitesi de açık kaynaktır:
 about-this-site-view-source = Kaynak kodlarını { -brand-name-github }'da görün
 about-this-site-report-a-bug = Hata bildirin
