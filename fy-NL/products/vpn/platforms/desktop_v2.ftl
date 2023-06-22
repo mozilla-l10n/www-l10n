@@ -11,3 +11,4 @@ vpn-desktop-vpns-can-provide = VPN’s kinne in ekstra befeiligingslaach foar jo
 vpn-desktop-how-does-a = Hoe beskermet in VPN myn laptop of PC?
 vpn-desktop-there-are-several = Der binne ferskate redenen wêrom’t jo in VPN brûke soene moatte om josels te beskermjen by it brûken fan jo laptop of PC:
 vpn-desktop-stronger-privacy = <strong>Sterkere privacy:</strong> omdat in VPN jo IP-adres maskearret, kinne jo mear privee op it ynternet sneupe, wittende dat jo aktiviteit net gearfoege wurde kin troch gegevenssamlers dy’t jo IP brûke as in unike identifikaasje.
+vpn-desktop-safer-against-spying = <strong>Feiliger tsjin spionaazje:</strong> it fersiferjen fan jo gegevens fia in VPN makket it praktysk ûnmooglik foar ien dy’t op jo netwurkferbining bespionearret om te witten wat en mei wa’t jo kommunisearje.
