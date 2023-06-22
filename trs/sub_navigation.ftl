@@ -10,3 +10,4 @@ sub-navigation-ie = { -brand-name-ie }
 sub-navigation-opera = { -brand-name-opera }
 sub-navigation-safari = { -brand-name-safari }
 sub-navigation-brave = { -brand-name-brave }
+sub-navigation-compare-browsers = Gīni’hiāj dàj hua nej sa nana’hui’i
