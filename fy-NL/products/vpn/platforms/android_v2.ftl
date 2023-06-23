@@ -9,6 +9,7 @@ vpn-android-vpn-for-android = VPN foar Android fan { -brand-name-mozilla }
 vpn-android-ease-security = Meitsje befeiligenseangsten ljochter mei { -brand-name-mozilla-vpn } foar Android
 vpn-android-looking-for-a = Op syk nei in VPN om jo Android-apparaat te beskermjen? { -brand-name-mozilla-vpn } wurdt stipe troch in bedriuw sûnder winsteachmerk. Lês mear oer hoe’t in VPN jo beskermet en wêrom’t jo jo privacy en feilichheid oan { -brand-name-mozilla } tafertrouwe kinne.
 vpn-android-whether-youre = Oft jo no thús binne, op it wurk, of in grappige namme foar jo kofjebestelling meitsje by de kassa, it beskermjen fan jo online feilichheid is in topprioriteit foar { -brand-name-mozilla }. Lykas in protte produkten foar tûke technology, hawwe Android-apparaten ynboude beskermingsfunksjes dy’t jo apparaat beskermje. Mei VPN foar Android fan { -brand-name-mozilla } kinne jo befeiliging fierder nimme mei mar ien fan jo fingertik.
+vpn-android-using-the-fast = Mei help fan it flugge en feilige { -brand-name-wireguard }-VPN-protokol kin ús VPN it ynternetferkear tusken jo apparaat en it VPN-netwurk fan servers fersiferje. Dit helpt ús om jo ynternetferkear te beskermjen wannear’t jo ûnderweis binne. It is lykas it deksel dat jo griene tee mei huning beskermet tsjin de mich dy’t rûnom de tafel gûnzet.
 vpn-android-how-does-a = Hoe beskermet in VPN myn Android-apparaat?
 vpn-android-vpns-help = VPN’s helpe foar te kommen:
 vpn-android-your-internet-activity = Dat jo ynternetaktiviteit sichtber is en dan ferkocht of dield wurdt mei advertearders.
