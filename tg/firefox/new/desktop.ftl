@@ -11,13 +11,21 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Браузери «{ -brand-name-firefox-browser }»-ро боргирӣ намоед — Зудкор, хусусӣ ва ройгон — аз ширкати «{ -brand-name-mozilla }»
 firefox-desktop-download-meta-title-v2 = Браузери «{ -brand-name-firefox }»-ро барои мизи корӣ боргирӣ намоед — аз ширкати «{ -brand-name-mozilla }»
+firefox-desktop-download-og-title = Аз ҳама зудтарин браузери «{ -brand-name-firefox }»-ро боргирӣ намоед
+firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = Браузереро боргирӣ намоед, ки чизҳои муҳими шуморо муҳофизат мекунад
+firefox-desktop-download-download-options = Имконоти боргирӣ ва забонҳои дигар
+firefox-desktop-download-browser-support = Дастгирии «{ -brand-name-firefox-browser }»
 firefox-desktop-download-compare-chrome = «{ -brand-name-chrome }»
 firefox-desktop-download-compare-edge = «{ -brand-name-edge }»
 firefox-desktop-download-compare-safari = «{ -brand-name-safari }»
 firefox-desktop-download-yes = Ҳа
 firefox-desktop-download-no = Не
+firefox-desktop-download-primary-password = Ниҳонвожаи асосӣ
 # Obsolete string
 firefox-desktop-love-your-life = Ҳаёти худро дар Интернет дӯст доред
+# Obsolete string
+firefox-desktop-download-master-password = Ниҳонвожаи хусусӣ
 firefox-desktop-download-search-from-address = Ҷустуҷӯ аз навори нишонӣ
 firefox-desktop-download-search-engine-options = Имконоти низоми ҷустуҷӯӣ
 firefox-desktop-download-smart-search-suggestions = Пешниҳодҳои ҷустуҷӯии ҳушманд
