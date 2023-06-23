@@ -26,6 +26,7 @@ firefox-desktop-download-primary-password = Ниҳонвожаи асосӣ
 firefox-desktop-love-your-life = Ҳаёти худро дар Интернет дӯст доред
 # Obsolete string
 firefox-desktop-download-master-password = Ниҳонвожаи хусусӣ
+firefox-desktop-download-for-everyone = Браузери «{ -brand-name-firefox }» барои ҳамаи мо
 firefox-desktop-download-search-from-address = Ҷустуҷӯ аз навори нишонӣ
 firefox-desktop-download-search-engine-options = Имконоти низоми ҷустуҷӯӣ
 firefox-desktop-download-smart-search-suggestions = Пешниҳодҳои ҷустуҷӯии ҳушманд
@@ -43,6 +44,8 @@ firefox-desktop-download-screenshots = Аксҳои экран
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Муҳофизати такмилёфта аз пайгирӣ (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Ба даст овардани «{ -brand-name-firefox-browser }» барои <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Ба даст овардани «{ -brand-name-firefox-browser }» барои <strong>{ -brand-name-ios }</strong>
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
