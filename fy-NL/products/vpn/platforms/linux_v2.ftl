@@ -25,3 +25,12 @@ vpn-linux-how-to-install = { -brand-name-mozilla-vpn } ynstallearje op Linux
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use = As jo ien fan de stipe Ubuntu-releases brûke, binne der twa manieren om mozillavpn-pakketten te ynstallearjen dy’t host wurde op <a { $attrs }>launchpad:</a>
+# Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Ubuntu kommandorigelmodus:</strong> gean foar detaillearre ynstruksjes oer hoe’t jo { -brand-name-mozilla-vpn } ynstallearje mei helpmiddels foar kommandorigelmodus, nei <a { $attrs }>Hoe kinne jo { -brand-name-mozilla-vpn } op in Linux-kompjûter ynstallearje</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Ubuntu’s grafyske brûkersinterface:</strong> lês dit <a { $attrs }>dit artikel</a> en folgje de ynstruksjes yn de seksje Persoanlike pakketargiven tafoegje.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Derneist kinne jo foar net-stipe Linux-distribúsjes de boarnekoade nimme en kompilearje fan it <a { $attrs }>offisjele GitHub-repository</a> út.
