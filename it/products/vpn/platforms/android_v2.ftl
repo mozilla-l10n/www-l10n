@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 vpn-android-vpn-for-android = VPN per Android da { -brand-name-mozilla }
+vpn-android-ease-security = Dimentica le tue preoccupazioni in materia di sicurezza con { -brand-name-mozilla-vpn } per Android
 vpn-android-looking-for-a = Cerchi una VPN per proteggere il tuo dispositivo Android? { -brand-name-mozilla-vpn } è realizzata da un’organizzazione senza fini di lucro. Scopri come una VPN ti protegge e perché dovresti fidarti di { -brand-name-mozilla } per la tua privacy e sicurezza.
 vpn-android-whether-youre = Non importa se ti trovi a casa, al lavoro o ti stai inventando un nome per il caffè da ordinare alla cassa, proteggere la tua sicurezza online è una priorità assoluta per { -brand-name-mozilla }. Come molti prodotti con tecnologie avanzate, i dispositivi Android hanno funzionalità di protezione integrate che salvaguardano il tuo dispositivo. Con la VPN per Android di { -brand-name-mozilla } puoi aumentare ulteriormente la sicurezza con un semplice tocco.
 vpn-android-using-the-fast = Utilizzando il sicuro e veloce protocollo { -brand-name-wireguard }, la nostra VPN è in grado di crittare il traffico internet tra il tuo dispositivo e la rete di server della VPN. Questo ci aiuta a mantenere il tuo traffico web protetto quando sei in movimento. È come il coperchio che protegge il tuo tè con miele dalla mosca che ronza attorno al tavolo.
