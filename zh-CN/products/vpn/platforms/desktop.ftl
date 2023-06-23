@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 # Meta strings
-vpn-desktop-page-title = 适用于桌面系统（PC 和笔记本电脑）的 { -brand-name-mozilla-vpn }
+vpn-desktop-page-title = 适用于桌面操作系统的 { -brand-name-mozilla-vpn }
 vpn-desktop-page-description = 科技界值得信赖的品牌之一，{ -brand-name-mozilla } 助您在台式机或笔记本电脑上获得快速、便捷的安全保护。
 # Desktop strings
 vpn-desktop-hero-headline = { -brand-name-mozilla-vpn } 桌面版可保护您的网络连接
