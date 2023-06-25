@@ -28,3 +28,9 @@ vpn-linux-if-you-use = Om du använder en av de Ubuntu-utgåvor som stöds, finn
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Ubuntu kommandoradsläge:</strong> För detaljerade instruktioner om hur du installerar { -brand-name-mozilla-vpn } med kommandoradsverktyg, kolla in <a { $attrs }>Hur du installerar { -brand-name-mozilla-vpn } på en Linux-dator</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Ubuntu grafiska användargränssnitt:</strong> Besök <a { $attrs }>denna artikel</a> och följ instruktionerna i avsnittet Lägga till personliga paketarkiv.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Dessutom, för Linux-distributioner som inte stöds, kan du ta och kompilera källkoden från det <a { $attrs }>officiella GitHub-förrådet</a>.
