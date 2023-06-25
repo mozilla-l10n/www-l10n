@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } на Linux
-vpn-linux-looking-for = Ищете VPN для защиты вашего компьютера с Linux? { -brand-name-mozilla-vpn } единственная предлагает услугу от некоммерческой компании. Узнайте, как VPN защищает вас и почему вы должны доверять { -brand-name-mozilla } в вопросах конфиденциальности и безопасности.
+vpn-linux-looking-for = Ищете VPN для защиты вашего компьютера с Linux? { -brand-name-mozilla-vpn } единственная предлагает услугу от некоммерческой компании. Узнайте, как VPN защищает вас и почему вы можете доверять { -brand-name-mozilla } в вопросах конфиденциальности и безопасности.
 vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } на Linux для более конфиденциального и безопасного доступа в интернет
 vpn-linux-linux-is-free = Linux бесплатен, имеет открытый исходный код и настраивается, но он не застрахован от проблем с онлайн-безопасностью и конфиденциальностью. Как и пользователи других операционных систем, пользователи Linux сталкиваются с цензурой, слежкой и взломом.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } – это сервис виртуальной частной сети, которая использует современное шифрование с открытым исходным кодом и не регистрирует, не отслеживает и не передает какую-либо вашу сетевую активность. Он позволяет подключаться к более чем 500 серверам в более чем 30 странах.
@@ -27,7 +27,7 @@ vpn-linux-how-to-install = Как установить { -brand-name-mozilla-vpn
 vpn-linux-if-you-use = Если вы используете один из поддерживаемых выпусков Ubuntu, есть два способа установить официальные пакеты mozillavpn, размещенные на <a { $attrs }>launchpad:</a>
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
-vpn-linux-ubuntu-command = <strong>Режим командной строки Ubuntu:</strong> Подробные инструкции по установке { -brand-name-mozilla-vpn } с помощью инструментов режима командной строки читайте в статье <a { $attrs }>Как установить { -brand-name-mozilla-vpn } на компьютере с Linux</a>.
+vpn-linux-ubuntu-command = <strong>Режим командной строки Ubuntu:</strong> Подробные инструкции по установке { -brand-name-mozilla-vpn } с помощью инструментов режима командной строки приведены в статье <a { $attrs }>Как установить { -brand-name-mozilla-vpn } на компьютере с Linux</a>.
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
 vpn-linux-ubuntu-graphical = <strong>Графический пользовательский интерфейс Ubuntu:</strong> Прочитайте <a { $attrs }>эту статью</a> и следуйте инструкциям в разделе Добавление персональных архивов пакетов.
