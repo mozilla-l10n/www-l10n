@@ -143,6 +143,8 @@ vpn-shared-platform-privacy-promise = Privasi Anda adalah janji kami
 
 vpn-shared-platform-trust-partner-headline = Tentang mitra tepercaya kami
 
+vpn-shared-platform-what-is = Apakah { -brand-name-mozilla-vpn } itu?
+vpn-shared-platfrom-why-choose = Mengapa { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
