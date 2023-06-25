@@ -30,8 +30,16 @@ firefox-desktop-download-for-everyone = Браузери «{ -brand-name-firefox
 firefox-desktop-download-search-from-address = Ҷустуҷӯ аз навори нишонӣ
 firefox-desktop-download-search-engine-options = Имконоти низоми ҷустуҷӯӣ
 firefox-desktop-download-smart-search-suggestions = Пешниҳодҳои ҷустуҷӯии ҳушманд
+firefox-desktop-download-works-with-google = Бо маҳсулоти «{ -brand-name-google }» кор мекунад
 firefox-desktop-download-bookmarks-manager = Мудири хатбаракҳо
+firefox-desktop-download-sync-across-devices = Ҳамоҳангсозӣ байни дастгоҳҳо
+firefox-desktop-download-reader-mode = Реҷаи хонанда
 firefox-desktop-download-spell-check = Санҷиши имло
+firefox-desktop-download-pinned-tabs = Варақаҳои васлшуда
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Расм-дар-расм
+firefox-desktop-download-share-links = Пайвандҳоро мубодила намоед
+firefox-desktop-download-protect-your-privacy = Махфияти худро муҳофизат намоед
 firefox-desktop-download-clear-history = Пок кардани таърих
 firefox-desktop-download-form-autofill = Пуркунии худкори шакл
 firefox-desktop-download-automatic-updates = Навсозиҳои худкор
