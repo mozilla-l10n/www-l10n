@@ -20,3 +20,4 @@ vpn-android-browse-the-internet = Navega por Internet sin revelar tu ubicación.
 vpn-android-be-more-comfortable = Siéntete más cómodo usando Wi-Fi público en cafés, aeropuertos y más.
 vpn-android-avoid-intrusive = Evita la publicidad intrusiva basada en la ubicación.
 vpn-android-the-mozilla-vpn-mobile = La aplicación móvil { -brand-name-mozilla-vpn } es pequeña, por lo que no consume demasiada memoria y no ralentizará el teléfono ni agotará la batería.
+vpn-android-unlike-free = A diferencia de las VPN gratuitas o los sitios proxy, que pueden pagar sus servidores espiándote y vendiendo tu información, { -brand-name-mozilla } no mantiene registros de dónde vas y qué haces.
