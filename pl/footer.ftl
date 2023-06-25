@@ -60,6 +60,7 @@ footer-contact = Kontakt
 footer-product-help = Pomoc
 footer-support = Wsparcie
 footer-file-a-bug = Zgłoś błąd
+footer-localize-mozilla = Tłumacz { -brand-name-mozilla(case: "acc") }
 footer-community-participation-guidelines = Wytyczne uczestnictwa społeczności
 footer-websites-privacy-notice = Zasady ochrony prywatności
 footer-websites-cookies = Ciasteczka
