@@ -11,6 +11,12 @@ vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } Linuxille entistä 
 vpn-linux-linux-is-free = Linux on vapaa, ilmainen, avointa lähdekoodia ja muokattavissa, mutta se ei ole immuuni verkon tietoturva- ja yksityisyysongelmille. Aivan kuten muiden käyttöjärjestelmien käyttäjät, Linux-käyttäjät kohtaavat sensuuria, valvontaa ja hakkerointia.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } on virtuaalinen erillisverkkopalvelu, joka käyttää avoimen lähdekoodin huippuluokan salausta eikä lokita, seuraa tai jaa toimintaasi verkossa. Sen avulla voit muodostaa yhteyden yli 500 palvelimeen yli 30 maassa.
 vpn-linux-why-choose = Miksi valita { -brand-name-mozilla-vpn } Linuxille?
+vpn-linux-fast-and = <strong>Nopea ja luotettava:</strong> { -brand-name-mozilla-vpn } käyttää { -brand-name-wireguard }®-yhteyskäytäntöä, joka tarjoaa paremman suorituskyvyn ja vakauden kuin muut VPN-yhteyskäytännöt
+vpn-linux-no-logs = <strong>Ei lokeja:</strong> { -brand-name-mozilla-vpn } ei säilytä lokeja verkkotoiminnastasi; emme tallenna millä verkkosivustoilla käyt tai tutki liikennettäsi.
+vpn-linux-additional-security = <strong>Lisäturvaominaisuudet:</strong> Käytämme DNS-estoa estääksemme mainoksia, seuraimia ja haittaohjelmia. Selain voi estää vain verkkosivustoja tarjoamasta sinulle haittaohjelmia ja seuraamasta sinua.
+vpn-linux-device-level = <strong>Laitetason salaus:</strong> Toisin kuin VPN-verkot, jotka salaavat vain selainliikennettäsi, { -brand-name-mozilla-vpn } salaa kaiken laitteesi liikenteen, mukaan lukien kaikki sovellukset ja pelit.
+vpn-linux-gui-client = <strong>Graafinen käyttöliittymä:</strong>{ -brand-name-mozilla-vpn } sisältää GUI-asiakasohjelman (graafinen käyttöliittymä), kun taas jotkin VPN-palveluntarjoajat tarjoavat vain CLI-version (komentorivi).
+vpn-linux-by-using = Käyttämällä { -brand-name-mozilla-vpn }:ää voit ottaa takaisin hallinnan toiminnastasi verkossa ja suojata yksityisyyttäsi sekä tietojasi. Lataa { -brand-name-mozilla-vpn } tänään ja nauti 30 päivän rahat takaisin -takuusta ilman lokeja, vaivaa ja riskiä.
 vpn-linux-how-to-install = Miten asentaa { -brand-name-mozilla-vpn } Linuxiin
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
