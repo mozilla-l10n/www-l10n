@@ -7,3 +7,5 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Hanki VPN Windowsille { -brand-name-mozilla }lta
+vpn-windows-stay-safe = Pysy turvassa Windows-laitteellasi VPN:n avulla
+vpn-windows-what-are-the-benefits = Mitä hyötyä on { -brand-name-mozilla-vpn }:n lataamisesta Windows-laitteeseeni?

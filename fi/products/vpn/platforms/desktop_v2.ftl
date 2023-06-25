@@ -7,3 +7,5 @@
 
 vpn-desktop-vpn-for-pc = VPN PC:lle tai kannettavalle tietokoneelle { -brand-name-mozilla }lta
 vpn-desktop-how-does-a = Miten VPN suojaa PC:täni tai kannettavaa tietokonettani?
+vpn-desktop-there-are-several = On useita syitä, miksi sinun tulisi käyttää VPN:ää suojataksesi itsesi, kun käytät tietokonettasi:
+vpn-desktop-stronger-privacy = <strong>Vahvempi yksityisyys:</strong> Koska VPN peittää IP-osoitteesi, voit selata Internetiä aiempaa yksityisemmin tietäen, että IP-osoitettasi yksilöivänä tunnisteena käyttävät tiedonkerääjät eivät voi yhdistää osoitettasi toimintaasi.

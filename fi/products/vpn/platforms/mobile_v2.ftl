@@ -8,3 +8,5 @@
 vpn-mobile-get-a-vpn = Hanki VPN mobiililaitteille { -brand-name-mozilla }lta
 vpn-mobile-vpn-for-mobile = VPN mobiililaitteille { -brand-name-mozilla }lta
 vpn-mobile-why-do-i = Miksi tarvitsen VPN:n mobiililaitteille?
+vpn-mobile-your-isp = Internet-palveluntarjoajasi saattaa estää verkkosivustoja tai palveluita, joista he eivät pidä tai jotka kilpailevat heidän omien palvelujensa kanssa
+vpn-mobile-hackers-can-steal = Hakkerit voivat varastaa henkilökohtaisia tietojasi, kun käytät julkista Wi-Fi-yhteyttä, kuten kahviloissa tai lentokentillä
