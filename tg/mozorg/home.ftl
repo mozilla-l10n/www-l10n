@@ -8,6 +8,7 @@
 home-internet-for-people-not-profit = Интернет барои мардум, на барои даромад
 home-firefox-browser = { -brand-name-firefox-browser }
 home-our-innovations = Навигариҳои мо
+home-virtual-reality-platform = Платформаи ҳақиқати виртуалӣ
 home-common-voice = { -brand-name-common-voice }
 home-extensions = Васеъшавиҳо
 home-need-help = Кумак лозим аст?

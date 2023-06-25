@@ -12,5 +12,6 @@ whatsnew-account-main-button = Ворид шудан
 
 ##
 
+whatsnew-account-signed-in-lead-in = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер.
 # An accessible label for a QR code image
 whatsnew-account-qr-code-alt = Ин рамзи QR-ро тасвирбардорӣ намоед
