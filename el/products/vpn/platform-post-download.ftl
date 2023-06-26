@@ -43,6 +43,9 @@ vpn-download-faq-need-help = Χρειάζεστε βοήθεια για να ξ�
 vpn-download-faq-here-are-some = Ακολουθούν μερικές από τις πιο συνηθισμένες ερωτήσεις σχετικά με τη ρύθμιση του { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Γιατί να χρησιμοποιήσω το { -brand-name-mozilla-vpn }
 # Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = Καθώς οι περισσότερες καθημερινές εργασίες σας πραγματοποιούνται μέσω του διαδικτύου, το απόρρητο και η ασφάλεια έχουν γίνει ακόμα πιο σημαντικά. Ένα VPN (<a href="{ $faq }">εικονικό ιδιωτικό δίκτυο</a>) δημιουργεί μια κρυπτογραφημένη δίοδο μεταξύ των συσκευών σας και του διαδικτύου, εξασφαλίζοντας ότι η σύνδεσή σας θα παραμείνει ασφαλής και ιδιωτική, ενώ σας προστατεύει με δύο σημαντικούς τρόπους:
+# Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Απόκρυψη πραγματικής <a href="{ $ip }">διεύθυνσης IP</a>: προστατεύει την ταυτότητά σας και αποκρύπτει την τοποθεσία σας από τους ιστοτόπους που επισκέπτεστε.
 vpn-download-faq-working = Πώς καταλαβαίνω ότι το VPN λειτουργεί;

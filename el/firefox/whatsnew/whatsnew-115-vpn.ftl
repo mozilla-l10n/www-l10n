@@ -8,6 +8,7 @@
 # Line break for visual formatting
 whatsnew-115-vpn-title = Καλά νέα!<br> Το { -brand-name-mozilla-vpn } επιτέλους έφτασε
 whatsnew-115-vpn-mozilla-vpn-is-now-available = Το { -brand-name-mozilla-vpn } είναι πλέον διαθέσιμο στη χώρα σας και σας προσκαλούμε να το δοκιμάσετε.
+whatsnew-115-vpn-surfing-streaming-gaming-and = Η περιήγηση, το streaming, το gaming και ολοκλήρωση εργασιών μόλις έγιναν πολύ πιο ασφαλή. Προστατέψτε το απόρρητό σας στα ταξίδια, κατά τη χρήση δημόσιων Wi-Fi ή γενικά, όποτε συνδέεστε στο διαδίκτυο.
 whatsnew-115-vpn-take-20-off-12-months-of = Λάβετε έκπτωση 20% για 12μηνη συνδρομή στο { -brand-name-mozilla-vpn } με αυτόν τον εκπτωτικό κωδικό:
 whatsnew-115-vpn-copy-code = αντιγραφή κωδικού
 whatsnew-115-vpn-code-copied = Ο κωδικός αντιγράφηκε!
