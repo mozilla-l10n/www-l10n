@@ -47,4 +47,28 @@ footer-company = Ширкат
 # Outdated string
 footer-about = Дар бораи барнома
 footer-press-center = Маркази матбуот
+# Outdated string
+footer-test-new-features = Вазифаҳои навро биозмоед
+# Outdated string
+footer-mdn-web-docs = { -brand-name-mdn-web-docs }
+footer-tools = Абзорҳо
+footer-resources = Манбаъҳо
+footer-contact = Тамoс
+footer-product-help = Кумак барои маҳсулот
+footer-support = Дастгирӣ
+footer-localize-mozilla = Маҳаллисозии «{ -brand-name-mozilla }»
+footer-websites-cookies = Кукиҳо
+footer-websites-legal = Маълумоти ҳуқуқӣ
+footer-language = Забон
+footer-go = Гузариш
 footer-donate = Саҳм гузоштан
+footer-twitter = { -brand-name-twitter }
+footer-mastodon = { -brand-name-mastodon }
+footer-instagram = { -brand-name-instagram }
+footer-youtube = { -brand-name-youtube }
+footer-linkedin = { -brand-name-linkedin }
+footer-tiktok = { -brand-name-tiktok }
+footer-spotify = { -brand-name-spotify }
+footer-follow-mozilla = Пайгирӣ кардани @{ -brand-name-mozilla }
+footer-follow-firefox = Пайгирӣ кардани @{ -brand-name-firefox }
+footer-about-this-site = Дар бораи ин сомона
