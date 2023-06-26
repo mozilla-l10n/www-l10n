@@ -27,15 +27,20 @@ firefox-desktop-love-your-life = Ҳаёти худро дар Интернет �
 # Obsolete string
 firefox-desktop-download-master-password = Ниҳонвожаи хусусӣ
 firefox-desktop-download-for-everyone = Браузери «{ -brand-name-firefox }» барои ҳамаи мо
+firefox-desktop-download-search-smarter = Зудтар ва оқилонатар ҷустуҷӯ намоед
 firefox-desktop-download-search-from-address = Ҷустуҷӯ аз навори нишонӣ
 firefox-desktop-download-search-engine-options = Имконоти низоми ҷустуҷӯӣ
 firefox-desktop-download-smart-search-suggestions = Пешниҳодҳои ҷустуҷӯии ҳушманд
+firefox-desktop-download-bookmark-history = Хатбаракҳо, таърих ва варақаҳои кушода дар натиҷаҳо
 firefox-desktop-download-works-with-google = Бо маҳсулоти «{ -brand-name-google }» кор мекунад
+firefox-desktop-download-built-in-screenshot = Абзори дарунсохт барои гирифтани аксҳои экран
 firefox-desktop-download-bookmarks-manager = Мудири хатбаракҳо
+firefox-desktop-download-autosuggest-urls = Пешниҳодҳои худкор барои нишониҳои URL
 firefox-desktop-download-sync-across-devices = Ҳамоҳангсозӣ байни дастгоҳҳо
 firefox-desktop-download-reader-mode = Реҷаи хонанда
 firefox-desktop-download-spell-check = Санҷиши имло
 firefox-desktop-download-pinned-tabs = Варақаҳои васлшуда
+firefox-desktop-download-stream-share-play = Пахши мустақим, мубодила ва иҷро
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Расм-дар-расм
 firefox-desktop-download-share-links = Пайвандҳоро мубодила намоед
