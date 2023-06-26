@@ -47,12 +47,16 @@ firefox-desktop-download-share-links = Пайвандҳоро мубодила �
 firefox-desktop-download-protect-your-privacy = Махфияти худро муҳофизат намоед
 firefox-desktop-download-private-browsing-mode = Реҷаи «Тамошокунии хусусӣ»
 firefox-desktop-download-secure-your-personal = Маълумоти шахсии худро ҳифз намоед
+firefox-desktop-download-built-in-password = Мудири ниҳонвожаҳои дарунсохт
 firefox-desktop-download-clear-history = Пок кардани таърих
 firefox-desktop-download-form-autofill = Пуркунии худкори шакл
 firefox-desktop-download-automatic-updates = Навсозиҳои худкор
+firefox-desktop-download-customize-your-browser = Браузери худро шахсӣ созед
 firefox-desktop-download-themes = Мавзуъҳо
 firefox-desktop-download-dark-mode = Реҷаи торик
 firefox-desktop-download-library-of-extensions = Китобхонаи васеъшавиҳо
+firefox-desktop-download-adjust-search-bar = Дуруст кардани танзимоти навори ҷустуҷӯ
+firefox-desktop-download-tweak-your-settings = Беҳтар кардани танзимоти шахсӣ
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Дастгоҳҳои худро ҳамоҳанг созед
 firefox-desktop-download-screenshots = Аксҳои экран
@@ -61,6 +65,10 @@ firefox-desktop-download-enhanced-tracking-protection = Муҳофизати т�
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Ба даст овардани «{ -brand-name-firefox-browser }» барои <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Ба даст овардани «{ -brand-name-firefox-browser }» барои <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-learn-about-the = Маълумоти бештар дар бораи браузери «{ -brand-name-firefox }» барои мизи корӣ
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Савол дошта бошед? <a { $attrs }>Хадамоти дастгирии «{ -brand-name-mozilla }» </a> ба саволҳои шумо ҷавоб медиҳад.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
