@@ -27,6 +27,8 @@ firefox-desktop-love-your-life = Ҳаёти худро дар Интернет �
 # Obsolete string
 firefox-desktop-download-master-password = Ниҳонвожаи хусусӣ
 firefox-desktop-download-for-everyone = Браузери «{ -brand-name-firefox }» барои ҳамаи мо
+firefox-desktop-download-review-system-req = Талаботи низомро баррасӣ намоед
+firefox-desktop-download-all-your-devices = Браузери «{ -brand-name-firefox }»-ро ба ҳамаи дастгоҳҳои худ гузоред
 firefox-desktop-download-search-smarter = Зудтар ва оқилонатар ҷустуҷӯ намоед
 firefox-desktop-download-search-from-address = Ҷустуҷӯ аз навори нишонӣ
 firefox-desktop-download-search-engine-options = Имконоти низоми ҷустуҷӯӣ
