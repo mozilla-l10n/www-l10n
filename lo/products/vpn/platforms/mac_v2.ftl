@@ -9,3 +9,4 @@ vpn-mac-get-a-vpn = ຮັບ VPN ສໍາລັບ macOS ຈາກ { -brand-na
 vpn-mac-protect-your-mac = ປົກປ້ອງ Mac ຂອງທ່ານດ້ວຍ { -brand-name-mozilla-vpn }
 vpn-mac-with-mozilla-vpn = ດ້ວຍ { -brand-name-mozilla-vpn } ທ່ານສາມາດ:
 vpn-mac-get-one-click = ຮັບຄວາມເປັນສ່ວນຕົວດ້ວຍການຄລິກດຽວດ້ວຍການໂຕ້ຕອບທີ່ງ່າຍດາຍ ແລະ ເປັນມິດກັບຜູ້ໃຊ້.
+vpn-mac-connect-up-to = ເຊື່ອມຕໍ່ໄດ້ເຖິງ 5 ອຸປະກອນທີ່ແຕກຕ່າງກັນດ້ວຍການສະໝັກສະມາຊິກດຽວ, ລວມທັງ Mac, ແຕ່ຍັງ iOS, Windows, Linux, ແລະ Android.
