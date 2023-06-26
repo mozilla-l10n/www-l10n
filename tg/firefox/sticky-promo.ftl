@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/new
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
+firefox-sticky-promo-get-the-latest-firefox = Браузери навтарини «{ -brand-name-firefox }»-ро ба даст оред.
 # Products List
 firefox-sticky-promo-browsers = Браузерҳо
 firefox-sticky-promo-monitor = { -brand-name-monitor }

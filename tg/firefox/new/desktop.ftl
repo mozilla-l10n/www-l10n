@@ -59,6 +59,8 @@ firefox-desktop-download-dark-mode = Реҷаи торик
 firefox-desktop-download-library-of-extensions = Китобхонаи васеъшавиҳо
 firefox-desktop-download-adjust-search-bar = Дуруст кардани танзимоти навори ҷустуҷӯ
 firefox-desktop-download-tweak-your-settings = Беҳтар кардани танзимоти шахсӣ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Ҳамаи хусусиятҳои дӯстдоштаи худро дар браузер нигоҳ доред — ва хусусиятҳои навро <strong>пайдо намоед</strong>.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Дастгоҳҳои худро ҳамоҳанг созед
 firefox-desktop-download-screenshots = Аксҳои экран
