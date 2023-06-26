@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/115.0/whatsnew/
 
+# Line break for visual formatting
+whatsnew-115-vpn-title = Καλά νέα!<br> Το { -brand-name-mozilla-vpn } επιτέλους έφτασε
+whatsnew-115-vpn-mozilla-vpn-is-now-available = Το { -brand-name-mozilla-vpn } είναι πλέον διαθέσιμο στη χώρα σας και σας προσκαλούμε να το δοκιμάσετε.
 whatsnew-115-vpn-copy-code = αντιγραφή κωδικού
 whatsnew-115-vpn-cta = Δοκιμή του { -brand-name-mozilla-vpn }
 whatsnew-115-vpn-very-fast = Είναι γρήγορο, πολύ γρήγορο
