@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+vpn-mobile-get-a-vpn = Λάβετε ένα VPN για κινητές συσκευές από τη { -brand-name-mozilla }
 vpn-mobile-vpn-for-mobile = VPN για κινητές συσκευές από τη { -brand-name-mozilla }
 vpn-mobile-why-do-i = Γιατί χρειάζομαι VPN στις κινητές συσκευές μου;
