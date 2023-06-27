@@ -79,6 +79,9 @@ firefoxs-default-search = { -brand-name-google } ialah enjin carian lalai di { -
 
 does-firefox-have = Adakah { -brand-name-firefox } mempunyai VPN terbina dalam?
 
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } tidak mempunyai VPN (rangkaian persendirian maya) terbina dalam, tetapi { -brand-name-mozilla } membina produk yang dipanggil <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> yang boleh anda gunakan selain { -brand-name-firefox-browser } yang boleh melindungi sambungan ke Wifi, serta alamat IP anda.
 
 related-questions-ip = Soalan berkaitan: adakah { -brand-name-firefox } menyembunyikan alamat IP anda
 
