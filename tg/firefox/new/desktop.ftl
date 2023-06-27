@@ -26,6 +26,7 @@ firefox-desktop-download-primary-password = Ниҳонвожаи асосӣ
 firefox-desktop-love-your-life = Ҳаёти худро дар Интернет дӯст доред
 # Obsolete string
 firefox-desktop-download-master-password = Ниҳонвожаи хусусӣ
+firefox-desktop-download-see-your-report = Гузоришро дар бораи муҳофизати худ аз назар гузаронед
 firefox-desktop-download-for-everyone = Браузери «{ -brand-name-firefox }» барои ҳамаи мо
 firefox-desktop-download-review-system-req = Талаботи низомро баррасӣ намоед
 firefox-desktop-download-all-your-devices = Браузери «{ -brand-name-firefox }»-ро ба ҳамаи дастгоҳҳои худ гузоред
@@ -76,6 +77,7 @@ firefox-desktop-download-questions = Савол дошта бошед? <a { $att
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-in-another-language = Бо забони дигар ё барои низоми амалкунандаи дигар боргирӣ намоед.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
