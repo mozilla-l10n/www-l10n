@@ -143,6 +143,8 @@ vpn-shared-platform-privacy-promise = あなたのプライバシーは、私た
 
 vpn-shared-platform-trust-partner-headline = Mozilla が信頼するパートナーについて
 
+vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } とは？
+vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } を使う理由
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
