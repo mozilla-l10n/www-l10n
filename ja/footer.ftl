@@ -75,6 +75,7 @@ footer-contact = お問い合わせ
 footer-product-help = 製品ヘルプ
 footer-support = サポート
 footer-file-a-bug = バグを報告
+footer-localize-mozilla = { -brand-name-mozilla } をローカライズ
 footer-community-participation-guidelines = コミュニティ参加ガイドライン
 footer-websites-privacy-notice = ウェブサイトのプライバシーに関する通知
 footer-websites-cookies = Cookie
