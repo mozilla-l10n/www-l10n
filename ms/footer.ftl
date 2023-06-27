@@ -75,6 +75,7 @@ footer-contact = Hubungan
 footer-product-help = Bantuan Produk
 footer-support = Bantuan
 footer-file-a-bug = Laporkan Pepijat
+footer-localize-mozilla = Lokalisasikan { -brand-name-mozilla }
 footer-community-participation-guidelines = Garis Panduan Penyertaan Komuniti
 footer-websites-privacy-notice = Notis Privasi Laman Web
 footer-websites-cookies = Kuki
