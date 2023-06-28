@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios/
 
+vpn-ios-vpn-for-iphone = VPN pro iPhone per { -brand-name-mozilla }
 vpn-ios-looking-for-a = Cerca tu un VPN pro tu iPhone? Le servicios VPN de { -brand-name-mozilla } te assecurar esser protegite online cata vice tu accede a tu apparato. Continua a leger pro saper plus re como mantener tu iPhone protegite contra cyber-attaccos con { -brand-name-mozilla-vpn } pro iPhone.
