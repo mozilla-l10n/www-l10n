@@ -7,3 +7,4 @@
 
 vpn-ios-vpn-for-iphone = VPN pro iPhone per { -brand-name-mozilla }
 vpn-ios-looking-for-a = Cerca tu un VPN pro tu iPhone? Le servicios VPN de { -brand-name-mozilla } te assecurar esser protegite online cata vice tu accede a tu apparato. Continua a leger pro saper plus re como mantener tu iPhone protegite contra cyber-attaccos con { -brand-name-mozilla-vpn } pro iPhone.
+vpn-ios-iphones-are-great = Le iPhones es grande pro proteger tu confidentialitate, ma illos non pote proteger te de tote le periculos online. Ecce perque te besonia { -brand-name-mozilla-vpn }, un servicio pro iPhone que crypta tu traffico internet e cela tu position. In iste articulo, nos explicara in qual maniera usar { -brand-name-mozilla-vpn } pro iPhone, que beneficios illo offere, e como illo se compara a altere VPNs.

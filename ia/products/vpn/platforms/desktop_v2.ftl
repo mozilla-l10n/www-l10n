@@ -11,3 +11,4 @@ vpn-desktop-vpns-can-provide = VPNs pote fornir un ulterior strato de securitate
 vpn-desktop-how-does-a = Como protege un VPN mi portabile o PC?
 vpn-desktop-there-are-several = Il ha plure rationes perque tu deberea usar un VPN pro proteger te mesme quando tu usa tu portabile o PC:
 vpn-desktop-stronger-privacy = <strong>Plus forte confidentialitate:</strong> Pois que un VPN masca tu adresse IP, tu pote navigar per internet plus reservatemente, sapiente que tu activitate non pote esser reconstruite per le collectores de datos usante tu adresses IP como identificator unic.
+vpn-desktop-safer-against-spying = <strong>Plus secur contra le spionage:</strong> Cryptar tu datos per un VPN rende virtualmente impossibile pro alicuno reguardar furtive sur tu connexion de rete pro saper que e con qui tu communica.
