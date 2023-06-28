@@ -28,3 +28,9 @@ vpn-linux-if-you-use = Si tu usa uno del versiones de Ubuntu supportate, il ha d
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Le modo linea de commando de Ubuntu:</strong> Pro instructiones detaliate sur como installar { -brand-name-mozilla-vpn } per utensiles in modo linea de commando, discoperi <a { $attrs }>Como installar { -brand-name-mozilla-vpn } sur un computator Linux</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Interfacie graphic de usator Ubuntu:</strong> Visita <a { $attrs }>iste articulo</a> e seque le instructiones in le section Adder archivos de pacchettos personal.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = In addition, pro distributiones Linux non supportate, tu pote haber e compilar le codification fonte ab le <a { $attrs }>repositorio GitHub official</a>.
