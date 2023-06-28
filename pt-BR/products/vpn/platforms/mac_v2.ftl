@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
 
+vpn-mac-get-a-vpn = Tenha uma VPN da { -brand-name-mozilla } para macOS
 vpn-mac-protect-your-mac = Proteja seu Mac com o { -brand-name-mozilla-vpn }
 vpn-mac-with-mozilla-vpn = Com o { -brand-name-mozilla-vpn } você pode:

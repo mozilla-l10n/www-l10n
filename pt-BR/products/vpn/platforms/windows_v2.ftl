@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
 vpn-windows-stay-safe = Fique seguro e protegido em seu dispositivo Windows com uma VPN
+vpn-windows-what-are-the-benefits = Quais são os benefícios de usar o { -brand-name-mozilla-vpn } em meu dispositivo Windows?

@@ -7,3 +7,4 @@
 
 vpn-mobile-vpn-for-mobile = VPN para dispositivos móveis da { -brand-name-mozilla }
 vpn-mobile-why-do-i = Por que preciso de uma VPN para celular?
+vpn-mobile-hackers-can-steal = Hackers podem roubar seus dados pessoais quando você estiver usando uma rede pública de WiFi, como em cafeterias ou aeroportos.
