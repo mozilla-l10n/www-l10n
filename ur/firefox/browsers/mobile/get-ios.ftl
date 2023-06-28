@@ -6,5 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/get-ios/
 
 # HTML page title
-get-ios-firefox-for-ios = { -brand-name-ios }  کے لیے { -brand-name-firefox }
+get-ios-firefox-for-ios = { -brand-name-ios }  کے لیے { -brand-name-firefox-browser }
 get-ios-firefox-browser = { -brand-name-firefox }{ -brand-name-firefox }
