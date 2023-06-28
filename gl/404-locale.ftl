@@ -8,3 +8,4 @@
 not-found-locale-title = Escolla o seu idioma ou configuración rexional para navegar por Mozilla.org
 not-found-locale-desc = Seleccione o seu país ou rexión para indicar o seu idioma preferido.
 not-found-locale-not-yet-translated = Esta páxina aínda non está traducida
+not-found-locale-available = Está dispoñible nos seguintes idiomas:
