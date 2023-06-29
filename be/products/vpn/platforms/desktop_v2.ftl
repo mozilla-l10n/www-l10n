@@ -7,3 +7,4 @@
 
 vpn-desktop-vpn-for-pc = VPN для ПК або ноўтбука ад { -brand-name-mozilla }
 vpn-desktop-how-does-a = Як VPN абараняе мой ноўтбук або ПК?
+vpn-desktop-there-are-several = Ёсць некалькі прычын, па якіх вам варта выкарыстоўваць VPN, каб абараніць сябе пры выкарыстанні ноўтбука або ПК:
