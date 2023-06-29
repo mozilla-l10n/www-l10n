@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -21,8 +21,6 @@ firefox-is-more = Το { -brand-name-firefox } είναι κάτι παραπά�
 its-a-lightning = Είναι μια πόρτα προς την καλύτερη εμπειρία διαδικτύου.
 get-the-browsers = Προγράμματα περιήγησης με έμφαση στο απόρρητο — όπως πάντα
 get-the-privacy = Αποκτήστε το απόρρητο που σας αξίζει. Η Ενισχυμένη προστασία από καταγραφή θωρακίζει αυτόματα το απόρρητό σας, κάθε φορά που ανοίγετε το πρόγραμμα περιήγησής σας.
-take-your-passwords = Πάρτε τους κωδικούς πρόσβασής σας παντού
-securely-access-the = Ασφαλής προσπέλαση στους κωδικούς πρόσβασης που αποθηκεύετε στο { -brand-name-firefox } από παντού — ακόμη κι εκτός του προγράμματος περιήγησης.
 choose-which-firefox = Επιλέξτε ποιο { -brand-name-firefox-browser } θέλετε στη γλώσσα σας
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } για { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Αν και τα { -brand-name-chromebook } διαθέτουν ήδη το { -brand-name-chrome }, η λήψη και χρήση του { -brand-name-firefox } ως του κύριου φυλλομετρητή σας παρέχει ορισμένα οφέλη:
@@ -40,7 +38,7 @@ firefox-doesnt-spy = Το { -brand-name-firefox } δεν κατασκοπεύε�
 firefox-for-linux = { -brand-name-firefox } για { -brand-name-linux }
 new-school-meets = Το νέο συναντά το παλιό στο πιο γρήγορο πρόγραμμα περιήγησης.
 firefox-for-windows = { -brand-name-firefox } για { -brand-name-windows } 64-bit
-we-worry-about = Ανησυχούμε για την ασφάλεια των δεδομένων σας, ώστε να μην χρειάζεται να το κάνετε εσείς.
+we-worry-about = Ανησυχούμε για την ασφάλεια των δεδομένων σας, ώστε να μη χρειάζεται να το κάνετε εσείς.
 seven-of-the = Τα επτά καλύτερα προγράμματα περιήγησης σε άμεση σύγκριση
 we-compare-firefox = Συγκρίνουμε το { -brand-name-firefox } με τα { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } and { -brand-name-ie } για να σας βοηθήσουμε να αποφασίσετε.
 comparing-firefox-chrome = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-google } { -brand-name-chrome }
@@ -54,7 +52,7 @@ old-habits-that = Οι παλιές συνήθειες δύσκολα κόβον
 comparing-firefox-safari = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-apple } { -brand-name-safari }
 you-dont-have = Δεν χρειάζεται να μείνετε στο αρχικό σας πρόγραμμα περιήγησης.
 comparing-firefox-opera = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-opera }
-be-free-to = Μην διστάσετε να διαδώσετε τις αρετές του { -brand-name-firefox } όποτε θέλετε.
+be-free-to = Μη διστάσετε να διαδώσετε τις αρετές του { -brand-name-firefox } όποτε θέλετε.
 the-ad-blocker = Πρόσθετα φραγής – ένα μυστικό όπλο κατά των διαφημίσεων.
 so-many-ads = Πολλές διαφημίσεις, λίγη υπομονή… Καιρός να σταματήσει αυτή η τρέλα.
 firefox-more-protection = { -brand-name-firefox }: Περισσότερη προστασία. Λιγότερη ανησυχία.

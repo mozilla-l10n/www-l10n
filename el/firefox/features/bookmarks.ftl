@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
@@ -14,7 +14,7 @@ features-bookmarks-dont-agonize-lovers-of = Μην αγχώνεστε, λάτρ�
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = Αποθηκεύστε τους σελιδοδείκτες σας
 # Dial in means to access/use (the bookmarks).
-features-bookmarks-get-your-faves-all-sorted = Ξεχωρίστε τα αγαπημένα σας με το εικονίδιο-αστέρι, που σας επιτρέπει να προσθέσετε γρήγορα προσαρμοσμένα ονόματα και φακέλους. Έπειτα, χρησιμοποιήστε τη γραμμή σελιδοδεικτών για να μην χάσετε ποτέ τους αγαπημένους σας συνδέσμους από τα μάτια σας.
+features-bookmarks-get-your-faves-all-sorted = Ξεχωρίστε τα αγαπημένα σας με το εικονίδιο-αστέρι, που σας επιτρέπει να προσθέσετε γρήγορα προσαρμοσμένα ονόματα και φακέλους. Έπειτα, χρησιμοποιήστε τη γραμμή σελιδοδεικτών για να μη χάσετε ποτέ τους αγαπημένους σας συνδέσμους από τα μάτια σας.
 # Fly here means to have your bookmark go wherever you go.
 features-bookmarks-fly-with-that-bookmark = Πάρτε μαζί σας τους σελιδοδείκτες σας
 # Variables:
