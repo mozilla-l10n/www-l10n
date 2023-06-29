@@ -8,7 +8,7 @@
 whatsnew-115-vpn-title = お待たせしました！<br>{ -brand-name-mozilla-vpn } の登場です
 whatsnew-115-vpn-mozilla-vpn-is-now-available = { -brand-name-mozilla-vpn } のサービスをあなたの国でも開始しました。ぜひお試しください。
 whatsnew-115-vpn-surfing-streaming-gaming-and = ネットサーフィン、ストリーミング、ゲーム、仕事も、もっと安全にできるようになりました。旅行中やパブリック Wi-Fi を利用するときなど、いつでもネットを利用するときにプライバシーを保護できます。
-whatsnew-115-vpn-take-20-off-12-months-of = こちらの割引コードで、{ -brand-name-mozilla-vpn } を 12 か月間 20% OFF でご利用いただけます: { "" }
+whatsnew-115-vpn-take-20-off-12-months-of = こちらの割引コードで、{ -brand-name-mozilla-vpn } を 12 か月間 20% OFF でご利用いただけます:
 whatsnew-115-vpn-copy-code = コードをコピー
 whatsnew-115-vpn-code-copied = コードをコピーしました
 whatsnew-115-vpn-apply-at-checkout = チェックアウト時に適用されます
