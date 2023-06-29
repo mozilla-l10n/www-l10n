@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -15,8 +15,8 @@ compare-shared-blocks-third-party-tracking-default = Varsayılan olarak üçünc
 compare-shared-blocks-third-party-tracking = Üçüncü taraf takip çerezlerini engeller
 compare-shared-blocks-cryptomining-scripts = Kripto madencilik betiklerini engeller
 compare-shared-blocks-fingerprinting-scripts = Parmak izi toplayıcıları engeller
-compare-shared-blocks-social-trackers = Sosyal takipçileri engeller
-compare-shared-dashboard-to-review = Engellenen takipçileri görebileceğiniz kontrol paneli
+compare-shared-blocks-social-trackers = Sosyal takip kodlarını engeller
+compare-shared-dashboard-to-review = Engellenen takip kodlarını görebileceğiniz kontrol paneli
 compare-shared-autoplay-blocking = Otomatik oynatma engelleme
 compare-shared-tab-browsing = Sekmeli gezinti
 compare-shared-bookmark-manager = Yer imi yöneticisi

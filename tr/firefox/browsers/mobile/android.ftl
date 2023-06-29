@@ -19,7 +19,7 @@ mobile-android-send-a-download-link-to-your = İndirme bağlantısını telefonu
 mobile-android-scan-the-qr-code-to-get-started = Başlamak için QR kodunu okutun
 mobile-android-scan-alt-text = { -brand-name-android } için { -brand-name-firefox }’u indirmek için QR kodunu tarayın
 mobile-android-fast-and-private = Hızlı ve gizlilik yanlısı
-mobile-android-firefox-for-android = { -brand-name-android } için { -brand-name-firefox }, sayfaları ışık hızında yüklerken zahmetsiz bir gizlilik koruması da sağlar. Gelişmiş izlenme koruması, çevrimiçi takipçilerin web’de sizi takip etmesini ve sayfalarınızı yavaşlatmasını otomatik olarak engeller.
+mobile-android-firefox-for-android = { -brand-name-android } için { -brand-name-firefox }, sayfaları ışık hızında yüklerken zahmetsiz bir gizlilik koruması da sağlar. Gelişmiş izlenme koruması, çevrimiçi takip kodlarının web’de sizi takip etmesini ve sayfalarınızı yavaşlatmasını otomatik olarak engeller.
 mobile-android-one-tap-to = Tek dokunuşla gizli mod
 mobile-android-get-to-private = Tek bir dokunuşla gizli gezinti moduna geçebilirsiniz. Gizli gezinti modunu kapattığınızda gezinti geçmişiniz cihazınızdan otomatik olarak silinir.
 mobile-android-search-your-own = Dilediğiniz gibi arayın
@@ -40,7 +40,6 @@ mobile-android-about-mozilla = { -brand-name-mozilla } hakkında
 mobile-android-mozilla-exists-to = { -brand-name-mozilla }, interneti herkesin erişebildiği kamusal bir kaynağa dönüştürmek için var. Çünkü biz, açık ve özgür olan şeylerin kapalı ve kontrol altında tutulanlardan daha güzel olduğuna inanıyoruz. Tercih hakkını, şeffaflığı ve kontrolü kendi eline alma hakkını savunan { -brand-name-firefox } ve { -brand-name-pocket } gibi ürünler geliştiriyoruz.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = { -brand-name-android } için { -brand-name-firefox } ile hedefine daha hızlı ulaş
-mobile-android-get-there-faster = { -brand-name-android } için { -brand-name-firefox } ile hedefine daha hızlı ulaş
 mobile-android-see-all-your-open-tabs = { -brand-name-android } için { -brand-name-firefox } tarayıcısıyla tüm açık sekmelerinizi, son aramalarınızı ve sık kullandığınız siteleri tek bir yerde görebilirsiniz.
 mobile-android-own-your-home = Size özel giriş ekranı
 mobile-android-get-to-the-parts = İnternette sizin için en önemli yerlere daha çabuk ulaşın. Tüm açık sekmelerinizi, son aramalarınızı, yer imlerinizi ve sık kullandığınız siteleri tek bir yerde topladık.

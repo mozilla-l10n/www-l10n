@@ -16,7 +16,7 @@ firefox-browsers-get-the-privacy-you-deserve = Hak ettiğiniz gizliliği alın. 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Gizliliğiniz Firefox için <strong>hep</strong> ilk sıradaydı ve hep öyle kalacak
 firefox-browsers-desktop = Bilgisayar
-firefox-browsers-seriously-private-browsing = Cidden gizli gezinti. { -brand-name-firefox }, 2000’den fazla çevrimiçi takipçinin internette yaptıklarınızla ilgili bilgi toplamasını otomatik olarak engeller.
+firefox-browsers-seriously-private-browsing = Cidden gizli gezinti. { -brand-name-firefox }, 2000’den fazla çevrimiçi takip kodunun internette yaptıklarınızla ilgili bilgi toplamasını otomatik olarak engeller.
 firefox-browsers-download-for-desktop = Bilgisayar sürümünü indirin
 firefox-browsers-mobile = Mobil
 firefox-browsers-take-the-same-level-of-privacy = Aynı gizlilik düzeyini ve parolalarınızı, arama geçmişinizi, açık sekmelerinizi yanınızda taşıyın.
