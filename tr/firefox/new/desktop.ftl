@@ -35,7 +35,7 @@ firefox-desktop-download-no = Hayır
 firefox-desktop-download-blocks-third-party = Üçüncü taraf takip çerezlerini engeller
 firefox-desktop-download-blocks-third-party-default = Varsayılan olarak üçüncü taraf takip çerezlerini engeller
 firefox-desktop-download-autoplay-blocking = Otomatik oynatma engelleme
-firefox-desktop-download-blocks-social-trackers = Sosyal takipçileri engeller
+firefox-desktop-download-blocks-social-trackers = Sosyal takip kodlarını engeller
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Farklı işletim sistemleri desteği
 firefox-desktop-download-in-browser-screenshot = Tarayıcı içi ekran görüntüsü aracı
@@ -46,8 +46,8 @@ firefox-desktop-love-your-life = İnterneti seviyoruz
 firefox-desktop-its-your-internet = Bu internet senin. Binlerce araç, tema ve uzantıyla istediğin gibi özelleştir. { -brand-name-firefox }, insanlığı paraya yeğleyen ilk alternatif tarayıcı.
 # Obsolete string
 firefox-desktop-download-master-password = Ana parola
-firefox-desktop-download-we-block-the-ad = Biz reklam takipçilerini engelliyoruz, siz daha hızlı geziniyorsunuz
-firefox-desktop-download-ads-are-distracting = Reklamlar hem dikkatinizi dağıtıyor hem de web sayfalarını yavaşlatıyor, üstelik internette yaptığınız her hareketi izliyorlar. { -brand-name-firefox-browser } çoğu reklam takipçisini otomatik olarak engelliyor. Güvenlik ayarlarına girmenize bile gerek yok.
+firefox-desktop-download-we-block-the-ad = Biz reklam takip kodlarını engelliyoruz, siz daha hızlı geziniyorsunuz
+firefox-desktop-download-ads-are-distracting = Reklamlar hem dikkatinizi dağıtıyor hem de web sayfalarını yavaşlatıyor, üstelik internette yaptığınız her hareketi izliyorlar. { -brand-name-firefox-browser } çoğu reklam takip kodunu otomatik olarak engelliyor. Güvenlik ayarlarına girmenize bile gerek yok.
 firefox-desktop-download-see-your-report = Koruma raporunuza bakın
 firefox-desktop-download-for-everyone = { -brand-name-firefox } herkes için
 firefox-desktop-download-available-in-over = { -brand-name-firefox } 90 dili destekliyor ve { -brand-name-windows }, { -brand-name-mac-short } ve { -brand-name-linux } ile uyumlu. En iyi deneyim için işletim sisteminizin güncel olması yeterli.
@@ -141,7 +141,7 @@ firefox-desktop-download-firefox-is-available = { -brand-name-firefox }’u tüm
 firefox-desktop-download-grab-a-high = Tarayıcıda yerleşik bulunan <a { $attrs }>ekran görüntüsü</a> aracımızla internetteki her şeyin yüksek çözünürlüklü görüntüsünü kaydedebilirsiniz
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-firefox-automatically = { -brand-name-firefox }, web etkinliklerinizi toplayıp satan <a { $attrs }>üçün taraf takipçilerin çoğunu</a> otomatik olarak engeller.
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox }, web etkinliklerinizi toplayıp satan <a { $attrs }>üçün taraf takip kodlarının çoğunu</a> otomatik olarak engeller.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Sorularınız mı var? <a { $attrs }>{ -brand-name-mozilla } Destek</a>’e danışabilirsiniz.
