@@ -9,7 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = { -brand-name-chromebook } için { -brand-name-firefox-browser }nı indir
-browsers-chromebook-so-youve-got = Demek bir { -brand-name-chromebook } sahibi oluyorsunuz. Artık kişisel verilerinizi korumak için bağımsız, kendiliğinden gizli { -brand-name-firefox-browser } tarayıcısını indirme vakti.
+browsers-chromebook-so-youve-got = Demek bir { -brand-name-chromebook } sahibi oluyorsunuz. Artık kişisel verilerinizi korumak için bağımsız, kendiliğinden gizli { -brand-name-firefox-browser }nı indirme vakti.
 browsers-chromebook-browsers-chromebook-get-firefox-for = { -brand-name-android } için { -brand-name-firefox }’u indir
 browsers-chromebook-get-firefox-desktop = { -brand-name-chromebook } için masaüstü { -brand-name-firefox }’u indir
 browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromeos } 80 veya üzeri sürümleri çalıştıran x86 tabanlı { -brand-name-chromebook }

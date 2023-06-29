@@ -78,4 +78,4 @@ who-owns-firefox = { -brand-name-firefox }'un sahibi kim?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox }, kâr amacı gütmeyen <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>'nın yan kuruluşu { -brand-name-mozilla-corporation } tarafından { -brand-name-mozilla } Manifestosu'nun prensiplerine göre geliştiriliyor. { -brand-name-firefox }'un geliştiricisi hakkında <a href="{ $url2 }">buradan</a> daha fazla bilgi alabilirsiniz.
-related-questions-who = İlgili sorular: { -brand-name-firefox } kime ait, { -brand-name-firefox-browser }'un sahibi kim, { -brand-name-firefox }'un sahibi { -brand-name-google } mı, { -brand-name-mozilla } { -brand-name-firefox }'un sahibi { -brand-name-google } mu
+related-questions-who = İlgili sorular: { -brand-name-firefox } kime ait, { -brand-name-firefox-browser }nın sahibi kim, { -brand-name-firefox }'un sahibi { -brand-name-google } mı, { -brand-name-mozilla } { -brand-name-firefox }'un sahibi { -brand-name-google } mu

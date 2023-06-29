@@ -56,7 +56,7 @@ firefox-privacy-hub-see-what-firefox-has-blocked = { -brand-name-firefox }’un 
 firefox-privacy-hub-get-enhanced-tracking-protection = Gelişmiş İzlenme Koruması’nı edinin
 firefox-privacy-hub-download-the-firefox-browser = { -brand-name-firefox } tarayıcısını indirin
 firefox-privacy-hub-update-your-firefox-browser = { -brand-name-firefox } tarayıcınızı güncelleyin
-firefox-privacy-hub-invisible-to-the-top-trackers = Takipçiler bizi göremez
+firefox-privacy-hub-invisible-to-the-top-trackers = Takip kodları bizi göremez
 firefox-privacy-hub-meet-four-of-the-most-common = Sizi takip edemeyecek dört takipçi kategorisiyle tanışın.
 firefox-privacy-hub-always-in-your-control = Her zaman kontrolünüz altında
 firefox-privacy-hub-want-to-customize-what = Engellenenleri özelleştirmek mi istiyorsunuz? Ayarlarınız yalnızca bir tık uzağınızda.
@@ -64,7 +64,7 @@ firefox-privacy-hub-protection-beyond-tracking = İzlemenin ötesinde koruma
 firefox-privacy-hub-if-you-have-a-firefox-account = { -brand-name-firefox-account }nız varsa kişisel bilgilerinizi ve parolalarınızı korumanıza nasıl yardımcı olduğumuzu da görebilirsiniz.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
-firefox-privacy-hub-more-than-s-trackers-blocked = { -brand-name-firefox } kullanıcıları için her gün en az { $trackers } takipçiyi engelliyoruz
+firefox-privacy-hub-more-than-s-trackers-blocked = { -brand-name-firefox } kullanıcıları için her gün en az { $trackers } takip kodunu engelliyoruz
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = E-posta adresinizi { -brand-name-firefox-monitor }'e girdiğinizde, bilinen veri ihlallerini kontrol ettikten sonra e-posta adresinizi anında siliyoruz. Sadece yeni ihlalleri takip etmemize izin verirseniz e-posta adresinizi saklıyoruz.
 firefox-privacy-hub-check-for-breaches = İhlalleri kontrol edin

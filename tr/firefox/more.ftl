@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -21,18 +21,16 @@ firefox-is-more = { -brand-name-firefox } yalnızca bir tarayıcı değil
 its-a-lightning = En iyi web deneyimine giden ışık hızında bir kapı.
 get-the-browsers = Gizliliğinizi her zaman ilk sıraya koyan tarayıcıları indirin
 get-the-privacy = Hak ettiğiniz gizliliği alın. Gelişmiş İzlenme Koruması tarayıcınızı her açtığınızda otomatik olarak gizliliğinizi korur.
-take-your-passwords = Parolalarınızı yanınızda taşıyın
-securely-access-the = { -brand-name-firefox }’a kaydettiğiniz parolalara her yerden güvenle erişin: tarayıcı dışından bile.
 choose-which-firefox = İstediğiniz { -brand-name-firefox-browser }nı istediğiniz dilde indirin
 firefox-more-firefox-chromebook = { -brand-name-chromebook } için { -brand-name-firefox-browser }
 firefox-more-while-on-chromebook = { -brand-name-chromebook }’ta halihazırda { -brand-name-chrome } yüklü olsa da { -brand-name-firefox }’u indirip kullanmak size birkaç avantaj sağlar
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum }, { -brand-name-firefox } geliştirme sürecinde bir devrimdi. 2017’de sürekli geliştirilen, yeni, ışık hızında bir tarayıcı yarattık. { -brand-name-firefox-quantum }, { -brand-name-firefox-browser }ın diğer adıdır.
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum }, { -brand-name-firefox } geliştirme sürecinde bir devrimdi. 2017’de sürekli geliştirilen, yeni, ışık hızında bir tarayıcı yarattık. { -brand-name-firefox-quantum }, { -brand-name-firefox-browser }nın diğer adıdır.
 firefox-more-little-book = Gizlilik Kitapçığı
 firefox-more-you-can-reclaim = Gizliliğinizi geri alabilir, internet deneyiminizin kontrolünü yeniden ele geçirebilirsiniz! Aslında hiç de zor değil. Herkes yapabilir.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-more-access-your-sync = Yer imlerinizi, parolalarınızı ve daha fazlasını { -brand-name-firefox } kullandığınız her yerde senkronize edin ve onlara erişin.
-we-believe-everyone = Bizce internete herkes erişebilmeli. Bu yüzden dünyanın dört bir yanındaki gönüllülerimizin desteğiyle { -brand-name-firefox-browser }’u 90’dan fazla dile çevirdik.
+we-believe-everyone = Bizce internete herkes erişebilmeli. Bu yüzden dünyanın dört bir yanındaki gönüllülerimizin desteğiyle { -brand-name-firefox-browser }nı 90’dan fazla dile çevirdik.
 firefox-fights-for = { -brand-name-firefox }, { -brand-name-windows }’ta sizin için savaşır
 easy-migration-of = { -brand-name-firefox }’un { -brand-name-windows } sürümünü indirdikten sonra tercihlerinizi ve yer imlerinizi kolayca taşıyabilirsiniz.
 firefox-respects-your = { -brand-name-firefox }, { -brand-name-mac-short }’te gizliliğinize saygı gösterir.

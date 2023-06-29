@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Tüm Diller
 sub-navigation-firefox = { -brand-name-firefox }
@@ -47,7 +47,7 @@ sub-navigation-nightly-and-beta = { -brand-name-nightly } ve { -brand-name-beta 
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } ve { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
 sub-navigation-firefox-features = { -brand-name-firefox } Özellikleri
-sub-navigation-ad-tracker-blocking = Reklam Takipçilerini Engelleme
+sub-navigation-ad-tracker-blocking = Reklam Takip Kodlarını Engelleme
 sub-navigation-private-browsing = Gizli Gezinti
 sub-navigation-what-is-a-browser = Tarayıcı Nedir?
 sub-navigation-browsing-history = Tarayıcıların Tarihi

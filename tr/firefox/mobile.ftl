@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = { -brand-name-ios } ve { -brand-name-android } cihazınıza { -brand-name-firefox-browser }'ı indirin
+firefox-mobile-download-the-firefox-browser = { -brand-name-ios } ve { -brand-name-android } cihazınıza { -brand-name-firefox-browser }nı indirin
 firefox-mobile-firefox-browser-for-mobile = Mobil cihazlar için { -brand-name-firefox-browser } 2.000’den fazla takip kodunu varsayılan olarak engeller, hak ettiğiniz gizliliği ve ihtiyacınız olan hızı sağlar.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
