@@ -12,3 +12,6 @@ vpn-ipad-thats-why-you = Proto potřebujete { -brand-name-mozilla-vpn }, rychlou
 vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn } je virtuální privátní síť, která šifruje váš internetový provoz a skrývá vaši IP adresu.
 vpn-ipad-with-mozilla-vpn = S pomocí { -brand-name-mozilla-vpn } získáte:
 vpn-ipad-protection-for-up-to = <strong>Ochrana až pro 5 zařízení:</strong> Použijte { -brand-name-mozilla-vpn } na svém iPadu a až čtyřech dalších zařízeních s jedním předplatným. Můžete jej také použít na Windows, MacOS, Linux, iPhone a Android.
+vpn-ipad-access-to-servers = <strong>Přístup k serverům ve více než 30 zemích:</strong> Pro připojení k internetu si můžete vybrat z více než 500 serverů ve více než 30 zemích světa. To vám dává více možností a flexibility pro přístup k požadovanému obsahu.
+vpn-ipad-device-level = <strong>Šifrování provozu na úrovni zařízení:</strong> { -brand-name-mozilla-vpn } zašifruje veškerý váš provoz dříve, než opustí vaše zařízení, nejen váš prohlížeč, ale také aplikace, hry a streamovací služby. Můžete také použít { -brand-name-mozilla-vpn } k blokování reklam a sledovacích prvků, které mohou ohrozit vaše soukromí.
+vpn-ipad-no-online = <strong>Žádné protokoly online aktivit:</strong> { -brand-name-mozilla } nezaznamenává, které webové stránky navštěvujete, ani nekontroluje vaši komunikaci.
