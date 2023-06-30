@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 vpn-android-vpn-for-android = VPN pro Android od { -brand-name-mozilla(case: "gen") }
+vpn-android-ease-security = Zbavte se obav o bezpečnost pomocí { -brand-name-mozilla-vpn } pro Android
 vpn-android-how-does-a = Jak VPN chrání mé zařízení s Androidem?
 vpn-android-vpns-help = VPN pomáhají předcházet:
 vpn-android-your-internet-activity = Vaše internetová aktivita nebude viditelná a poté prodaná nebo sdílená s inzerenty.
