@@ -146,7 +146,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }, web et
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Sorularınız mı var? <a { $attrs }>{ -brand-name-mozilla } Destek</a>’e danışabilirsiniz.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Tarayıcıyı zaten kullanıyorsunuz, ama { -brand-name-firefox } yalnızca bir tarayıcı değil.
+firefox-desktop-download-youve-already-got-the-browser = Tarayıcınızı indirmeye hazırsınız. Diğer { -brand-name-firefox } ürünlerine de bakmaya ne dersiniz?
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-relay } ile e-posta adresinizi koruyabilir ve çok daha fazlasını yapabilirsiniz.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-lockwise } ile parolalarınızı koruyabilir ve çok daha fazlasını yapabilirsiniz.

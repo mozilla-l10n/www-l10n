@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -8,7 +8,7 @@
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = { -brand-name-firefox }’u seçtiğiniz için teşekkürler
 set-as-default-thanks-success-your-default-browser = Tebrikler! Varsayılan tarayıcınız { -brand-name-firefox } olarak ayarlandı.
-set-as-default-thanks-looks-like-youre-using-a = Görünüşe göre şu anda farklı bir tarayıcı kullanıyorsunuz. Cihazınıza { -brand-name-firefox }'u indirdiğinizden emin olun.
+set-as-default-thanks-looks-like-youre-using-a = Şu anda farklı bir tarayıcı kullanıyorsunuz. Cihazınıza { -brand-name-firefox }’u indirdiğinizden emin olun.
 # When a visitor sees this message a system dialog will also open on screen.
 set-as-default-thanks-youre-almost-done-just-change = İşimiz bitmek üzere… Ekranınızdaki Ayarlar panelinden varsayılan tarayıcınızı { -brand-name-firefox } olarak değiştirmeniz yeterli.
 set-as-default-thanks-having-trouble-setting-your = Varsayılan tarayıcınızı ayarlamakta sorun mu yaşıyorsunuz?
