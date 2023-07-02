@@ -33,6 +33,7 @@ mobile-android-addons-are-like = එක්කහු යනු පෙරනිම
 mobile-android-pick-up-where = ඔබ නතර කළ තැනින් අරඹන්න
 mobile-android-go-from-your = දුරකථනයෙන් ඔබගේ වැඩතලයට, අත්ල පරිගණකයට යන්න. ඔබගේ සියළුම උපාංගවල { -brand-name-firefox } තිබේ නම්, ඔබ යන ඕනෑම තැනකට ඔබගේ පොත්යොමු, මුරපද, සුරකින ලද පිවිසුම් සහ පිරික්සුම් ඉතිහාසය රැගෙන යාමට හැකිය.
 mobile-android-search-from-your = දුරකථනයෙහි මුල් තිරයෙන් සොයන්න
+mobile-android-no-need-to = යෙදුම අරින්න වුවමනා නැහැ. ප්‍රධාන සෙවුමට { -brand-name-firefox } එක් කර ඔබගේ උපාංගයෙහි මුල් තිරයෙන් කෙලින්ම අන්තර්ජාලයෙහි සොයන්න.
 mobile-android-pin-videos-to = ඔබගේ තිරයට දෘශ්‍යක අමුණන්න
 mobile-android-pop-videos-out = ඔබ වියමනෙහි සැරිසරන විට සහ වෙනත් දෑ සිදු කරන විට නැරඹීම සඳහා අඩවිවලින් හෝ වාදක වලින් දෘශ්‍යක පිටතට ගෙන ඒවා දුරකථනයෙහි තිරයේ මුදුනට අමුණන්න. කාර්ය කිහිපයක් අතරතුර විනෝදයෙන් සිටින්න.
 mobile-android-about-mozilla = { -brand-name-mozilla } ගැන
