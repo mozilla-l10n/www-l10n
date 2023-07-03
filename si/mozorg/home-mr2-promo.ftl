@@ -5,6 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/
 
-home-mr2-promo-title = හොඳ අදහස් වෙත – වේගයෙන්
+home-mr2-promo-title = වේගයෙන් – හොඳ අදහස් වෙත
 # CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 home-mr2-promo-cta = අළුත් { -brand-name-firefox } ගන්න
