@@ -23,6 +23,12 @@ firefox-new-need-help = Кумак лозим аст?
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
+firefox-new-firefox-is-more-than-a-browser = Браузери «{ -brand-name-firefox }» — зиёда аз браузер мебошад.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-new-download-interrupted = Боргирии шумо қатъ шуд. Аммо ҳеҷ чиз гум нашудааст.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-new-please-follow = Барои насб кардани «{ -brand-name-firefox }», лутфан, <a href="{ $url }">ин қадамҳоро</a> иҷро намоед.
 firefox-new-windows = { -brand-name-windows }
 # Outdated string
 firefox-new-windows-10 = { -brand-name-windows } 10

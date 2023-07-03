@@ -13,5 +13,6 @@ whatsnew-account-main-button = Ворид шудан
 ##
 
 whatsnew-account-signed-in-lead-in = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер.
+whatsnew-account-signed-in-qr-title = Браузери «{ -brand-name-firefox }»-ро барои смартфон ва планшети худ боргирӣ намоед.
 # An accessible label for a QR code image
 whatsnew-account-qr-code-alt = Ин рамзи QR-ро тасвирбардорӣ намоед

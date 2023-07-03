@@ -11,4 +11,5 @@ home-our-innovations = Навигариҳои мо
 home-virtual-reality-platform = Платформаи ҳақиқати виртуалӣ
 home-common-voice = { -brand-name-common-voice }
 home-extensions = Васеъшавиҳо
+home-careers = Мансабҳо
 home-need-help = Кумак лозим аст?
