@@ -81,3 +81,4 @@ firefox-desktop-download-in-another-language = Бо забони дигар ё �
 firefox-desktop-download-windows = { -brand-name-windows }
 # Outdated string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-new-firefox-is-more-than-a-browser = Браузери «{ -brand-name-firefox }» — зиёда аз браузер мебошад.
