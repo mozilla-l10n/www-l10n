@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
@@ -33,6 +33,6 @@ vpn-android-devices-headline = Un singolo abbonamento per un massimo di { $devic
 vpn-android-devices-copy = { -brand-name-mozilla-vpn } ti permette di connettere { $devices } differenti dispositivi inclusi { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }. Usalo sul tuo telefono, desktop, portatile, tablet e altro ancora.
 vpn-android-speed-headline = Velocità incredibile. Dati illimitati.
 vpn-android-speed-copy = Gioca online, guarda film in streaming e naviga sul Web a velocità incredibile sul tuo dispositivo { -brand-name-android }, il tutto senza limitazioni di banda.
-vpn-android-log-headline = Nessun registro. Nessun tracciamento. Nessuna violazione della privacy.
+vpn-android-log-headline = Nessuna registrazione delle tue attività. Nessun tracciamento. Nessuna violazione della privacy.
 # "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
 vpn-android-log-copy = Molti gestori di VPN registrano la tua attività sui loro server. Noi non operiamo in questa maniera. { -brand-name-mozilla-vpn } non traccia mai la tua attività online, sarebbe contro tutto ciò che rappresentiamo come azienda. Noi mettiamo la tua privacy e la tua sicurezza al primo posto, prima di ogni altra cosa.
