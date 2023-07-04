@@ -5,10 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
-
-# Meta strings
-
+# Obsolete Strings
 vpn-windows-page-title = { -brand-name-mozilla-vpn } for { -brand-name-windows } 10
+vpn-windows-page-description = 使用來自 { -brand-name-mozilla } 的虛擬私人網路VPN保護您的整台電腦。從 1998 年起就一直為您的數位隱私而戰的網路先鋒 { -brand-name-mozilla }
 # Windows strings
 vpn-windows-hero-headline = 使用 { -brand-name-windows } 10 上的 { -brand-name-mozilla-vpn }，讓您安全與網路世界保持聯繫。
 vpn-windows-ability = 不論您身在何處、不論身在何處都能有安全的網路環境。透過 { -brand-name-mozilla-vpn }讓您可以使用公共 Wi-Fi並且保護您的連線不受駭客與網路業者管家的騷擾。我們的 VPN 簡單易用、可在 { -brand-name-windows } 10 以及您的任何其他裝置啟用而且不會拖慢您的上網速度。最重要的是這是 { -brand-name-mozilla } 推出的 { -brand-name-wireguard }® 通訊協定所提供的 VPN所以您知道您的資料都經過加密而您的行為也不會被記錄。這只是一套簡潔而強大的 VPN 保護您。
