@@ -8,6 +8,8 @@
 # Meta strings
 vpn-mobile-page-title = { -brand-name-mozilla-vpn } для мабільных прылад (смартфонаў і планшэтаў)
 vpn-mobile-page-description = Абараніце свой смартфон ці планшэт з дапамогай VPN ад { -brand-name-mozilla }, надзейнага наватара ў галіне прыватнасці ў Інтэрнэце.
+# Mobile strings
+vpn-mobile-hero-headline = Абараніце сваю прыватнасць на мабільнай прыладзе з дапамогай { -brand-name-mozilla-vpn }
 vpn-mobile-about-headline = Пра { -brand-name-mozilla }
 vpn-mobile-privacy-headline = Прыватнасць адным націскам
 vpn-mobile-servers-headline = Падключайцеся да сервераў па ўсім свеце

@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
 
 vpn-mac-get-a-vpn = Атрымайце VPN для macOS ад { -brand-name-mozilla }
+vpn-mac-looking-for = Шукаеце VPN для аховы свайго Mac? { -brand-name-mozilla-vpn } падтрымліваецца некамерцыйнай кампаніяй. Даведайцеся, як VPN абараняе вас і чаму вы можаце давяраць { -brand-name-mozilla } сваю прыватнасць і бяспеку.
 vpn-mac-protect-your-mac = Абараніце свой Mac з дапамогай { -brand-name-mozilla-vpn }
