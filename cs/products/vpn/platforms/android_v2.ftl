@@ -14,3 +14,4 @@ vpn-android-low-video = Nízká kvalita streamování videa kvůli pomalejší a
 vpn-android-your-personal = Vaše osobní údaje jsou odcizeny při používání veřejné Wi-Fi sítě.
 vpn-android-why-should-i = Proč bych si měl(a) stáhnout { -brand-name-mozilla-vpn } pro Android?
 vpn-android-browse-the-internet = Procházejte internet, aniž byste prozradili svou polohu.
+vpn-android-avoid-intrusive = Vyhněte se vtíravé reklamě založené na vaší poloze.
