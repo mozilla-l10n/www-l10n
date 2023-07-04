@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pre { -brand-
 download-button-firefox-privacy = Ochrana súkromia vo { -brand-name-firefox(case: "loc") }
 download-button-firefox-privacy-notice = Vyhlásenie o ochrane osobných údajov { -brand-name-firefox(case: "gen") }
 download-button-download = Stiahnuť
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">už nie je podporovaný</a> na { $os_version } a nižších.
+download-button-please-download-esr = Ak chcete používať { -brand-name-firefox }, stiahnite si { -brand-name-firefox-esr } (vydanie s rozšírenou podporou).
+download-firefox-esr = Stiahnuť { -brand-name-firefox-esr }
+download-firefox-esr-32 = Stiahnite si { -brand-name-firefox-esr } (32-bitová verzia)
+download-firefox-esr-64 = Stiahnite si { -brand-name-firefox-esr } (64-bitová verzia)
