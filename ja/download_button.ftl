@@ -43,3 +43,5 @@ download-button-firefox-ios = { -brand-name-ios } 用 <span>{ -brand-name-firefo
 download-button-firefox-privacy = { -brand-name-firefox } のプライバシー
 download-button-firefox-privacy-notice = { -brand-name-firefox } プライバシーに関する通知
 download-button-download = ダウンロード
+
+

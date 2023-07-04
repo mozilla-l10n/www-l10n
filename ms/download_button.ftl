@@ -43,3 +43,5 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> untuk { -bran
 download-button-firefox-privacy = Privasi { -brand-name-firefox }
 download-button-firefox-privacy-notice = Notis Privasi { -brand-name-firefox }
 download-button-download = Muat turun
+
+

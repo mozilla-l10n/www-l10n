@@ -43,3 +43,5 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> لنظام ت
 download-button-firefox-privacy = خصوصية { -brand-name-firefox }
 download-button-firefox-privacy-notice = إشعار خصوصية { -brand-name-firefox }
 download-button-download = تنزيل
+
+
