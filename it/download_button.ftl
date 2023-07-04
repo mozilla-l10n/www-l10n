@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Scarica ora
 download-button-free-download = Download gratuito
@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> per { -brand-
 download-button-firefox-privacy = Informativa sulla privacy di { -brand-name-firefox }
 download-button-firefox-privacy-notice = Informativa sulla privacy di { -brand-name-firefox }
 download-button-download = Scarica
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">non è più supportato</a> su { $os_version } e versioni precedenti.
+download-button-please-download-esr = Scarica { -brand-name-firefox-esr } (Extended Support Release) per continuare a utilizzare { -brand-name-firefox }.
+download-firefox-esr = Scarica { -brand-name-firefox-esr }
+download-firefox-esr-32 = Scarica { -brand-name-firefox-esr } a 32 bit
+download-firefox-esr-64 = Scarica { -brand-name-firefox-esr } a 64 bit
