@@ -37,7 +37,7 @@ vpn-linux-if-you-use = Ak používate jedno z podporovaných vydaní Ubuntu, exi
 vpn-linux-ubuntu-command = <strong>Režim príkazového riadka Ubuntu:</strong> podrobné pokyny na inštaláciu { -brand-name-mozilla-vpn } pomocou nástrojov režimu príkazového riadka nájdete v časti <a { $attrs }>Ako nainštalovať { -brand-name-mozilla-vpn } na počítači so systémom Linux</a>.
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
-vpn-linux-ubuntu-graphical = <strong>Grafické používateľské rozhranie Ubuntu:</strong> navštívte <a { $attrs }>túto stránku</a> a postupujte podľa pokynov v časti Pridanie archívov osobných balíkov.
+vpn-linux-ubuntu-graphical = <strong>Grafické používateľské rozhranie Ubuntu:</strong> navštívte <a { $attrs }>túto stránku</a> a postupujte podľa pokynov v časti Adding Personal Package Archives (PPAs).
 # Variables:
 #   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
 vpn-linux-additionally = Navyše, pre nepodporované distribúcie Linuxu môžete prevziať a skompilovať zdrojový kód z <a { $attrs }>oficiálneho úložiska GitHubu</a>.
