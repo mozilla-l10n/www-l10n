@@ -108,6 +108,8 @@ vpn-shared-platform-cta-headline = Cychwyn arni
 vpn-shared-platform-cta-button = Gweld y prisio a'r argaeledd
 vpn-shared-platform-privacy-promise = Eich preifatrwydd yw ein haddewid
 vpn-shared-platform-trust-partner-headline = Ynglŷn â'n partner dibynadwy
+vpn-shared-platform-what-is = Beth yw { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Pam { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
