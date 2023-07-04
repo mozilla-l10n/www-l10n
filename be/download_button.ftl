@@ -39,4 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> для { -bra
 download-button-firefox-privacy = Прыватнасць { -brand-name-firefox }
 download-button-firefox-privacy-notice = Паведамленне аб прыватнасці { -brand-name-firefox }
 download-button-download = Сцягнуць
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">больш не падтрымліваецца</a> на { $os_version } і ніжэй.
+download-button-please-download-esr = Калі ласка, сцягніце { -brand-name-firefox-esr } (выпуск з пашыранай падтрымкай), каб выкарыстоўваць { -brand-name-firefox }.
 download-firefox-esr = Сцягнуць { -brand-name-firefox-esr }
+download-firefox-esr-32 = Сцягнуць { -brand-name-firefox-esr } (32-біт)
+download-firefox-esr-64 = Сцягнуць { -brand-name-firefox-esr } (64-біт)
