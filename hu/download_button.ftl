@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Letöltés most
 download-button-free-download = Ingyenes letöltés
@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> for { -brand-
 download-button-firefox-privacy = { -brand-name-firefox } adatvédelem
 download-button-firefox-privacy-notice = { -brand-name-firefox } adatvédelmi nyilatkozat
 download-button-download = Letöltés
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = A(z) { $channel_name } csatorna <a href="{ $help_url }">már nem támogatott</a> { $os_version } és régebbi rendszereken.
+download-button-please-download-esr = A { -brand-name-firefox } használatához töltse le a { -brand-name-firefox-esr }-t (kiterjesztett támogatású kiadás).
+download-firefox-esr = { -brand-name-firefox-esr } letöltése
+download-firefox-esr-32 = A { -brand-name-firefox-esr } 32 bites verziójának letöltése
+download-firefox-esr-64 = A { -brand-name-firefox-esr } 64 bites verziójának letöltése
