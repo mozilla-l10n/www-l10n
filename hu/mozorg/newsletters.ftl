@@ -293,7 +293,7 @@ newsletters-special-announcements-helping-you = Különleges közlemények, mely
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
-newsletters-get-tips-from-mozilla = Kapjon tippeket a { -brand-name-mozilla }tól arról, hogyan hozhatja ki a legtöbbet fiókjából.
+newsletters-get-tips-from-mozilla = Kapjon tippeket a { -brand-name-mozilla(ending: "accented") }tól arról, hogyan hozhatja ki a legtöbbet fiókjából.
 # Name for the newsletter in Newsletter subscription page (Welcome emails)
 newsletters-welcome-emails = Üdvözlő levelek
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
