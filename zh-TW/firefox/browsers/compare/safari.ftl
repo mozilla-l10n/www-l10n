@@ -36,11 +36,6 @@ compare-safari-like-safari-firefox-encourages = 與 { -brand-name-safari } 一�
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = 另外當您註冊 { -brand-name-firefox } 帳號後即可使用諸如 <a { $pocket }>{ -brand-name-pocket }</a> 等直接整合到瀏覽器中的服務的更多資訊。 { -brand-name-pocket } for { -brand-name-firefox } 按鈕讓您只要點一下即可將網頁與影片儲存到 { -brand-name-pocket }隨時隨地您想要的版本 — 離線也沒問題。
-# Obsolete string
-# Variables:
-#   $pocket (string) - link to getpocket.com with additional attributes for analytics
-#   $send (string) - link to send.firefox.com with additional attributes for analytics
-compare-safari-also-when-you-sign-up-for = 另外註冊 { -brand-name-firefox } 帳號還可以使用 <a { $pocket }>{ -brand-name-pocket }</a> 或 <a { $send } 等獨特服務>{ -brand-name-send }</a> 直接整合到瀏覽器中。 { -brand-name-pocket } for { -brand-name-firefox } 按鈕讓您只要點一下即可將網頁與影片儲存到 { -brand-name-pocket }隨時隨地您想要的版本 — 離線也沒問題。透過 { -brand-name-send }您可以分享大檔案並以端到端加密的方式還有不同的安全性控制例如檔案鏈結的到期時間、下載次數等安全性控制功能。是否要新增密碼非必填以多加一道安全保護。
 compare-safari-firefox-is-also-great-for-video = { -brand-name-firefox } 播放影音內容也很棒。透過直接在瀏覽器中內建的「自動播放封鎖」功能讓任何網站都不會在您不請自來時對您大喊大叫。
 # Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics

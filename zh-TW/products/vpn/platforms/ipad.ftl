@@ -13,7 +13,6 @@ vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn } 是一個可加密您的�
 vpn-ipad-with-mozilla-vpn = 透過 { -brand-name-mozilla-vpn }您可以獲得
 vpn-ipad-protection-for-up-to = <strong>保護同時保護最多 5 台裝置</strong>在您的 iPad 與其他最多 4 台裝置上使用 { -brand-name-mozilla-vpn } 一次訂閱。您也可以在 Windows、macOS、Linux、iPhone 及 Android 平台使用它。
 vpn-ipad-access-to-servers = <strong>使用超過 30 個國家的伺服器</strong>讓您可以選擇全球超過 30 個國家超過 500 台的伺服器來連線到網際網路。讓您可有更多選項更靈活地存取想要的內容。
-vpn-ipad-device-level = <strong>裝置層級的流量加密</strong></strong> { -brand-name-mozilla-vpn } 會在流量流出裝置前加密不只是瀏覽器的裝置還加密應用程式、遊戲、串流服務。您也可以使用 { -brand-name-mozilla-vpn } 來封鎖可能洩露隱私的廣告與追踪器。
 vpn-ipad-no-online = <strong>沒有線上活動紀錄</strong>{ -brand-name-mozilla } 不會記錄您造訪哪些網站或檢查您傳來的通訊錄。
 vpn-ipad-feel-safe = <strong>使用公用 Wi-Fi 時感到安全</strong>當您在咖啡店或機場連線到公共 Wi-Fi 時您的資料可能會被駭客或惡意人士攔截。透過 { -brand-name-mozilla-vpn } 即可加密您的資料防止任何人偷聽您的線上行為。
 vpn-ipad-mozilla-vpn-is-backed = { -brand-name-mozilla-vpn } 是由非營利組織 { -brand-name-mozilla-foundation } 所打造的 { -brand-name-firefox } 是最知名且最注重隱私的瀏覽器之一在世界上。選擇 { -brand-name-mozilla-vpn } 就代表您支持我們讓網際網路保持開放讓任何人都能隨意使用的使命。
