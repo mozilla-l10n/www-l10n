@@ -14,13 +14,13 @@ vpn-linux-why-choose = Prečo zvoliť { -brand-name-mozilla-vpn } pre Linux?
 vpn-linux-fast-and-v2 = <strong>Rýchla a spoľahlivá:</strong> { -brand-name-mozilla-vpn } používa protokol { -brand-name-wireguard }®, ktorý ponúka lepší výkon a stabilitu ako iné protokoly VPN.
 # Obsolete string
 vpn-linux-fast-and = <strong>Rýchla a spoľahlivá:</strong> { -brand-name-mozilla-vpn } používa protokol { -brand-name-wireguard }®, ktorý ponúka lepší výkon a stabilitu ako iné protokoly VPN.
-vpn-linux-no-logs = <strong>Žiadne protokoly:</strong> { -brand-name-mozilla-vpn } neuchováva žiadne protokoly o vašej sieťovej aktivite; nezaznamenávame, ktoré webové stránky navštevujete, ani nekontrolujeme vašu návštevnosť.
+vpn-linux-no-logs = <strong>Žiadne protokoly:</strong> { -brand-name-mozilla-vpn } neuchováva žiadne protokoly o vašej sieťovej aktivite; nezaznamenávame, ktoré webové stránky navštevujete, ani nekontrolujeme obsah vašej aktivity.
 vpn-linux-additional-security = <strong>Ďalšie funkcie zabezpečenia:</strong> pomocou blokovania DNS blokujeme reklamy, sledovacie prvky a škodlivý softvér. Prehliadač môže zabrániť len webovým stránkam, aby vám poskytovali malvér a sledovali vás.
-vpn-linux-device-level = <strong>Šifrovanie na úrovni zariadenia:</strong> na rozdiel od sietí VPN, ktoré šifrujú iba návštevnosť pomocou vášho prehliadača, { -brand-name-mozilla-vpn } šifruje všetku návštevnosť vášho zariadenia vrátane všetkých aplikácií a hier.
+vpn-linux-device-level = <strong>Šifrovanie na úrovni zariadenia:</strong> na rozdiel od sietí VPN, ktoré šifrujú iba aktivitu vo vašom prehliadači, { -brand-name-mozilla-vpn } šifruje všetku aktivitu vášho zariadenia vrátane všetkých aplikácií a hier.
 vpn-linux-multi-hop = <strong>Multi-hop smerovanie:</strong> pre zvýšenú ochranu môže { -brand-name-mozilla-vpn } zašifrovať vašu premávku a smerovať ju cez dve miesta namiesto jedného, takže bude pre každého ťažšie sledovať vašu online aktivitu.
 vpn-linux-simple-and = <strong>Jednoduché a intuitívne rozhranie:</strong> pripojte sa k serveru jediným kliknutím. Svoje nastavenia a preferencie si tiež môžete prispôsobiť podľa svojich potrieb.
 vpn-linux-it-helps-restore = <strong>Pomáha obnoviť neutralitu siete:</strong> { -brand-name-mozilla-vpn } vám pomáha získať späť kontrolu nad vašimi online aktivitami tým, že bráni poskytovateľom internetu obmedzovať vašu šírku pásma alebo blokovať webové stránky alebo služby, ktoré sa im nepáčia, alebo ktoré konkurujú ich vlastným ponukám.
-vpn-linux-gui-client = <strong>Klient s GUI:</strong>{ -brand-name-mozilla-vpn } má klienta s GUI (grafické používateľské rozhranie), zatiaľ čo niektorí poskytovatelia VPN poskytujú iba verziu CLI (príkazový riadok).
+vpn-linux-gui-client = <strong>Klient s GUI:</strong> { -brand-name-mozilla-vpn } má klienta s GUI (grafické používateľské rozhranie), zatiaľ čo niektorí poskytovatelia VPN poskytujú iba verziu CLI (príkazový riadok).
 vpn-linux-by-using = Pomocou { -brand-name-mozilla-vpn } môžete získať späť kontrolu nad svojimi online aktivitami a chrániť svoje súkromie a údaje. Stiahnite si { -brand-name-mozilla-vpn } ešte dnes a užite si 30-dňovú záruku vrátenia peňazí bez sledovania, problémov a rizika.
 vpn-linux-how-to-install = Ako nainštalovať { -brand-name-mozilla-vpn } v systéme Linux
 # Variables:
