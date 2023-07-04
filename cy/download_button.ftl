@@ -39,11 +39,6 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name
 download-button-firefox-privacy = Preifatrwydd { -brand-name-firefox }
 download-button-firefox-privacy-notice = Hysbysiad Preifatrwydd { -brand-name-firefox }
 download-button-download = Llwytho i Lawr
-# Variables:
-#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
-#   $help_url (url) - link to https://support.mozilla.org/
-#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
-download-button-unsupported-platform = Nid yw { $channel_name } <a href = " { $help_url } " yn cael ei gynnal bellach</ a> ar { $os_version } ac is.
 download-button-please-download-esr = Lawrlwythwch { -brand-name-firefox-esr } ( Datganiad Cymorth Estynedig ) i ddefnyddio { -brand-name-firefox }.
 download-firefox-esr = Lawrlwythwch { -brand-name-firefox-esr }
 download-firefox-esr-32 = Lawrlwythwch { -brand-name-firefox-esr } 32-bit
