@@ -10,6 +10,7 @@ vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } untuk Linux bagi in
 vpn-linux-linux-is-free = Linux adalah sistem operasi berasaskan sumber terbuka, percuma dan boleh disesuaikan, namun ia tidak lali daripada isu keselamatan dan privasi dalam talian. Seperti mana pengguna sistem operasi yang lain, pengguna Linux juga menghadapi isu tapisan, pengawasan dan penggodaman.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } adalah perkhidmatan jaringan peribadi maya yang menggunakan inkripsi sumber terbuka yang terkini dan tidak mengelog, menjejak atau berkongsi sebarang aktiviti jaringan anda. Ia membolehkan anda bersambung dengan lebih 500 pelayan di lebih 30 buah negara.
 vpn-linux-why-choose = Kenapa perlu memilih { -brand-name-mozilla-vpn } untuk Linux?
+# Obsolete string
 vpn-linux-fast-and = <strong>Pantas dan boleh dipercayai:</strong> { -brand-name-mozilla-vpn } menggunakan protokol { -brand-name-wireguard }®, yang menawarkan prestasi dan kestabilan yang lebih baik berbanding protokol VPN yang lain
 vpn-linux-no-logs = <strong>Tidak mengelog:</strong> { -brand-name-mozilla-vpn } tidak menyimpan log aktiviti anda; kami tidak merakam laman web yang anda layari atau menyiasat aliran trafik anda.
 vpn-linux-additional-security = <strong>Ciri keselamatan tambahan:</strong> Kami menggunakan penghalang DNS untuk menghalang iklan, penjejak dan malware. Sedangkan pelayar internet hanya mampu menghalang laman web daripada menjejak dan menjangkiti anda dengan malware.
@@ -21,6 +22,8 @@ vpn-linux-gui-client = <strong>Klien GUI:</strong> { -brand-name-mozilla-vpn } m
 vpn-linux-by-using = Dengan menggunakan { -brand-name-mozilla-vpn }, anda boleh mengambil alih kawalan aktiviti dalam talian dan melindungi privasi serta data anda. Muat turun { -brand-name-mozilla-vpn } hari ini dan nikmati jaminan wang dikembalikan dalam masa 30 hari tanpa log, tiada kelecehan dan tanpa risiko.
 vpn-linux-how-to-install = Bagaimana memasang { -brand-name-mozilla-vpn } pada Linux
 
+
+# Obsolete string
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package

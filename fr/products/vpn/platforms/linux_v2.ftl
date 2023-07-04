@@ -10,6 +10,7 @@ vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } sur Linux, pour un 
 vpn-linux-linux-is-free = Linux est gratuit, open source et personnalisable, mais il n’est pas immunisé contre les problèmes de sécurité en ligne et de confidentialité. Tout comme avec les autres systèmes d’exploitation, les utilisateurs et utilisatrices de Linux sont confrontés à la censure, à la surveillance et au piratage.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } est un réseau privé virtuel qui utilise un chiffrement open source à la pointe de la technologie et qui n’enregistre, ne traque ni ne partage aucune de vos activités en réseau. Il vous permet de vous connecter à plus de 500 serveurs dans plus de 30 pays.
 vpn-linux-why-choose = Pourquoi choisir { -brand-name-mozilla-vpn } pour Linux ?
+# Obsolete string
 vpn-linux-fast-and = <strong>Rapidité et fiabilité :</strong> { -brand-name-mozilla-vpn } utilise le protocole { -brand-name-wireguard }®, qui offre des performances et une stabilité améliorées par rapport à d’autres protocoles VPN.
 vpn-linux-no-logs = <strong>Pas de traces :</strong> { -brand-name-mozilla-vpn } ne garde aucune trace de vos activités sur le réseau. Nous n’enregistrons pas les sites que vous visitez et n’inspectons pas votre trafic.
 vpn-linux-additional-security = <strong>Des fonctionnalités de sécurité supplémentaires :</strong> Nous utilisons le blocage DNS pour bloquer les publicités, les traqueurs et les logiciels malveillants. Un navigateur peut uniquement empêcher les sites web d’installer des logiciels malveillants ou de vous pister.
@@ -21,6 +22,8 @@ vpn-linux-gui-client = <strong>Interface graphique :</strong> { -brand-name-moz
 vpn-linux-by-using = En utilisant { -brand-name-mozilla-vpn }, vous pouvez reprendre le contrôle de vos activités en ligne et protéger votre vie privée et vos données. Téléchargez { -brand-name-mozilla-vpn } aujourd’hui et profitez d’une garantie de remboursement de 30 jours. Aucune trace, aucun problème, aucun risque.
 vpn-linux-how-to-install = Comment installer { -brand-name-mozilla-vpn } sur Linux
 
+
+# Obsolete string
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package

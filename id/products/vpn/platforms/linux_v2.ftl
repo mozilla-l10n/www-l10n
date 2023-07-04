@@ -10,6 +10,7 @@ vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } di Linux untuk inte
 vpn-linux-linux-is-free = Linux itu gratis, sumber terbuka, dan dapat disesuaikan, tetapi masih rentan terhadap masalah keamanan dan privasi daring. Sama seperti pengguna sistem operasi lain, pengguna Linux menghadapi masalah penyensoran, penyadapan, dan peretasan.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } adalah layanan jaringan pribadi virtual yang menggunakan enkripsi canggih sumber terbuka dan tidak mencatat, melacak, atau membagikan aktivitas jaringan Anda. Memungkinkan Anda terhubung ke lebih dari 500 server di 30+ negara.
 vpn-linux-why-choose = Mengapa memilih { -brand-name-mozilla-vpn } untuk Linux?
+# Obsolete string
 vpn-linux-fast-and = <strong>Cepat dan andal:</strong> { -brand-name-mozilla-vpn } menggunakan protokol { -brand-name-wireguard }® yang menawarkan kinerja dan stabilitas yang lebih baik dibandingkan protokol VPN lain
 vpn-linux-no-logs = <strong>Tanpa log aktivitas:</strong> { -brand-name-mozilla-vpn } tidak menyimpan log apa pun dari aktivitas jaringan Anda; kami tidak mencatat situs web mana saja yang Anda kunjungi atau menginspeksi trafik Anda.
 vpn-linux-additional-security = <strong>Fitur keamanan tambahan:</strong> Kami menggunakan pemblokiran DNS untuk memblokir iklan, pelacak, dan malware. Sementara peramban hanya dapat mencegah situs web untuk menyebarkan malware dan melacak Anda.
@@ -21,6 +22,8 @@ vpn-linux-gui-client = <strong>GUI client:</strong>{ -brand-name-mozilla-vpn } m
 vpn-linux-by-using = Dengan menggunakan { -brand-name-mozilla-vpn }, Anda dapat mengambil kembali kendali atas aktivitas daring serta melindungi privasi dan data Anda. Unduh { -brand-name-mozilla-vpn } sekarang dan dapatkan jaminan uang kembali 30 hari tanpa log aktivitas, tanpa ribet, dan tanpa risiko.
 vpn-linux-how-to-install = Cara menginstal { -brand-name-mozilla-vpn } di Linux
 
+
+# Obsolete string
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
