@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Hämta nu
 download-button-free-download = Hämta gratis
@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> för { -brand
 download-button-firefox-privacy = { -brand-name-firefox } sekretess
 download-button-firefox-privacy-notice = { -brand-name-firefox } sekretesspolicy
 download-button-download = Hämta
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">stöds inte längre</a> på { $os_version } och lägre.
+download-button-please-download-esr = Ladda ner { -brand-name-firefox-esr } (Utökad supportversion) för att använda { -brand-name-firefox }.
+download-firefox-esr = Ladda ner { -brand-name-firefox-esr }
+download-firefox-esr-32 = Ladda ner { -brand-name-firefox-esr } 32-bitars
+download-firefox-esr-64 = Ladda ner { -brand-name-firefox-esr } 64-bitars

@@ -11,6 +11,8 @@ vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } på Linux för ett 
 vpn-linux-linux-is-free = Linux är gratis, öppen källkod och anpassningsbart, men det är inte immunt mot onlinesäkerhet och integritetsproblem. Precis som användare av andra operativsystem, möter Linux-användare censur, övervakning och hacking.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } är en virtuell privat nätverkstjänst som använder avancerad kryptering med öppen källkod och inte loggar, spårar eller delar någon av dina nätverksaktiviteter. Det låter dig ansluta till över 500 servrar i över 30 länder.
 vpn-linux-why-choose = Varför ska man välja { -brand-name-mozilla-vpn } för Linux?
+vpn-linux-fast-and-v2 = <strong>Snabbt och pålitligt:</strong> { -brand-name-mozilla-vpn } använder protokollet { -brand-name-wireguard }®, som erbjuder bättre prestanda och stabilitet än andra VPN-protokoll.
+# Obsolete string
 vpn-linux-fast-and = <strong>Snabbt och pålitligt:</strong> { -brand-name-mozilla-vpn } använder protokollet { -brand-name-wireguard }®, vilket ger bättre prestanda och stabilitet än andra VPN-protokoll
 vpn-linux-no-logs = <strong>Inga loggar:</strong> { -brand-name-mozilla-vpn } sparar inga loggar över din nätverksaktivitet; vi registrerar inte vilka webbplatser du besöker eller inspekterar din trafik.
 vpn-linux-additional-security = <strong>Ytterligare säkerhetsfunktioner:</strong> Vi använder DNS-blockering för att blockera annonser, spårare och skadlig programvara. Medan en webbläsare kan förhindra att endast webbplatser ger dig skadlig programvara och spårar dig.
@@ -21,6 +23,11 @@ vpn-linux-it-helps-restore = <strong>Det hjälper till att återställa nätneut
 vpn-linux-gui-client = <strong>GUI-klient:</strong>{ -brand-name-mozilla-vpn } har en GUI-klient (grafiskt användargränssnitt), medan vissa VPN-leverantörer bara tillhandahåller en CLI-version (kommandorad).
 vpn-linux-by-using = Genom att använda { -brand-name-mozilla-vpn } kan du ta tillbaka kontrollen över dina onlineaktiviteter och skydda din integritet och data. Ladda ner { -brand-name-mozilla-vpn } idag och njut av en 30-dagars pengarna-tillbaka-garanti utan loggar, inget krångel och utan risk.
 vpn-linux-how-to-install = Hur man installerar { -brand-name-mozilla-vpn } på Linux
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Om du använder en av de Ubuntu-utgåvor som stöds, finns det två sätt att installera mozillavpn officiella paket som finns på <a { $attrs }>Launchpad:</a>
+# Obsolete string
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
