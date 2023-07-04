@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
 vpn-mobile-get-a-vpn = Získejte VPN pro mobily od { -brand-name-mozilla(case: "gen") }
+vpn-mobile-vpn-for-mobile = VPN pro mobilní zařízení od { -brand-name-mozilla(case: "gen") }
 vpn-mobile-why-do-i = Proč potřebuji VPN na mobilním zařízení?
