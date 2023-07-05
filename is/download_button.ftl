@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> fyrir { -bran
 download-button-firefox-privacy = { -brand-name-firefox } friðhelgi
 download-button-firefox-privacy-notice = Persónuverndarstefna { -brand-name-firefox }
 download-button-download = Niðurhal
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } er <a href="{ $help_url }">ekki lengur stutt</a> á { $os_version } og eldra.
+download-button-please-download-esr = Sæktu { -brand-name-firefox-esr } (Extended Support Release) til að nota { -brand-name-firefox }.
+download-firefox-esr = Sækja { -brand-name-firefox-esr }
+download-firefox-esr-32 = Sækja { -brand-name-firefox-esr } 32-bita
+download-firefox-esr-64 = Sækja { -brand-name-firefox-esr } 64-bita
