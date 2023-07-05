@@ -43,8 +43,8 @@ download-button-download = Descarga
 #   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
-download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }"> ya no es compatible </a> en { $os_version } y versiones anteriores.
-download-button-please-download-esr = Descargue { -brand-name-firefox-esr } (versión de soporte extendido) para usar { -brand-name-firefox }.
+download-button-unsupported-platform = { $channel_name } ya <a href="{ $help_url }">no está soportado</a> por { $os_version } y versiones anteriores.
+download-button-please-download-esr = Descargá { -brand-name-firefox-esr } (versión de soporte extendido) para usar { -brand-name-firefox }.
 download-firefox-esr = Descargar { -brand-name-firefox-esr }
-download-firefox-esr-32 = Descargar { -brand-name-firefox-esr } 32-bit
-download-firefox-esr-64 = Descargar { -brand-name-firefox-esr } 64-bit
+download-firefox-esr-32 = Descargar { -brand-name-firefox-esr } 32-bits
+download-firefox-esr-64 = Descargar { -brand-name-firefox-esr } 64-bits
