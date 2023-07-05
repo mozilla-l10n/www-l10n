@@ -17,6 +17,7 @@ vpn-mobile-your-internet = Your internet service provider (ISP) may throttle you
 vpn-mobile-your-isp-v2 = Your ISP may block web sites or services that they don’t like or which compete with their own.
 # Obsolete string
 vpn-mobile-your-isp = Your ISP may block web sites or services that they don’t like or which compete with their own
+vpn-mobile-hackers-can-steal-v2 = Hackers can steal your personal data when you are using public Wi-Fi, such as in cafes or airports.
 # Obsolete string
 vpn-mobile-hackers-can-steal = Hackers can steal your personal data when you are using public Wi-Fi, such as in cafes or airports
 vpn-mobile-a-vpn-works = A VPN works across your device, not just your browser, therefore across your mobile apps too. And unlike free VPNs or proxy sites, which may pay for their servers by spying on you and selling your information, { -brand-name-mozilla } does not keep records of where you go and what you do.
