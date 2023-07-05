@@ -19,3 +19,4 @@ vpn-mobile-your-isp = Seu provedor de serviços de internet pode bloquear sites 
 vpn-mobile-hackers-can-steal-v2 = Hackers podem roubar seus dados pessoais quando você estiver usando uma rede pública de WiFi, como em cafeterias ou aeroportos.
 # Obsolete string
 vpn-mobile-hackers-can-steal = Hackers podem roubar seus dados pessoais quando você estiver usando uma rede pública de WiFi, como em cafeterias ou aeroportos.
+vpn-mobile-a-vpn-works = Uma VPN funciona em seu dispositivo todo, não apenas no navegador, mas também em outros aplicativos móveis. Diferente de VPNs gratuitas ou sites de proxy, que podem pagar por seus servidores espionando você e vendendo suas informações, a { -brand-name-mozilla } não mantém registros de onde você vai nem do que você faz.
