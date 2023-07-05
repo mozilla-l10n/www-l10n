@@ -10,4 +10,11 @@ vpn-mobile-looking-for-a = ¿Buscas un VPN para proteger tu dispositivo móvil? 
 vpn-mobile-vpn-for-mobile = VPN para móviles de { -brand-name-mozilla }
 vpn-mobile-in-todays = En el mundo actual, centrado en los dispositivos móviles, confiamos en nuestros teléfonos y dispositivos móviles para la comunicación, el entretenimiento y el trabajo. Sin embargo, sin un VPN, tu información personal puede ser vulnerable a varios riesgos de seguridad y privacidad.
 vpn-mobile-why-do-i = ¿Por qué necesito un VPN para móviles?
-vpn-mobile-hackers-can-steal = Los hackers pueden robar tus dastos personales cuando utilizas Wi-Fi públicos, como en cafés o aeropuertos.
+vpn-mobile-the-mozilla-vpn = La aplicación móvil { -brand-name-mozilla-vpn } es pequeña, por lo que no utiliza demasiada memoria y no ralentizará el teléfono ni drenará la batería.
+vpn-mobile-your-isp-v2 = Tu ISP puede bloquear sitios web o servicios que no le gustan o que compiten con los suyos.
+# Obsolete string
+vpn-mobile-your-isp = Tu ISP puede bloquear sitios web o servicios que no le gustan o que compiten con los suyos
+vpn-mobile-hackers-can-steal-v2 = Los hackers pueden robar tus datos personales cuando utilizas Wi-Fi públicos, como en cafés o aeropuertos
+# Obsolete string
+vpn-mobile-hackers-can-steal = Los hackers pueden robar tus datos personales cuando utilizas Wi-Fi públicos, como en cafés o aeropuertos.
+vpn-mobile-a-vpn-works = Un VPN funciona en tu dispositivo, no solo en tu navegador, por lo tanto, también en tus aplicaciones móviles. Y a diferencia de los VPN gratuitos o los sitios proxy, que pueden pagar por sus servidores espiándote y vendiendo tu información, { -brand-name-mozilla } no mantiene registros de a dónde vas y qué haces.
