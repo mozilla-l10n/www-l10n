@@ -13,3 +13,7 @@ vpn-mac-but-finding = Pero encontrar un buen VPN puede ser complicado. Algunos s
 vpn-mac-with-mozilla-vpn = Con { -brand-name-mozilla-vpn } puedes:
 vpn-mac-get-one-click = Obtén privacidad con un solo clic con una interfaz simple y fácil de usar.
 vpn-mac-connect-up-to = Conecta hasta 5 dispositivos diferentes con una suscripción, incluidos Mac, pero también iOS, Windows, Linux y Android.
+# “Cap” means putting a limit to
+vpn-mac-use-our-vpn = Usa nuestro VPN tanto como quieras. A diferencia de algunos VPN que solo protegen una cierta cantidad de datos por mes, no limitamos tu tráfico. No importa cuántos datos uses, siempre estarán protegidos.
+vpn-mac-get-device-level = Obtén cifrado a nivel de dispositivo para tu tráfico. A diferencia de otras soluciones, que solo encriptan el tráfico de tu navegador, { -brand-name-mozilla-vpn } lo encripta todo, protegiendo tu tráfico de Internet sin importar qué aplicación esté involucrada.
+vpn-mac-prevent-internet = Evita que los proveedores de Internet limiten o bloqueen sitios web o servicios que no les gustan o que compiten con sus propias ofertas. Para obtener más información, puedes leer acerca de la neutralidad en la red.
