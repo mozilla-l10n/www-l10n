@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = 立即下载
 download-button-free-download = 免费下载
@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name
 download-button-firefox-privacy = { -brand-name-firefox } 隐私声明
 download-button-firefox-privacy-notice = { -brand-name-firefox } 隐私声明
 download-button-download = 下载
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } 已<a href="{ $help_url }">停止支持</a> { $os_version } 及更低版本。
+download-button-please-download-esr = 请下载 { -brand-name-firefox-esr }（延长支持版）来使用 { -brand-name-firefox }。
+download-firefox-esr = 下载 { -brand-name-firefox-esr }
+download-firefox-esr-32 = 下载 { -brand-name-firefox-esr }（32 位）
+download-firefox-esr-64 = 下载 { -brand-name-firefox-esr }（64 位）
