@@ -39,6 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pro { -brand-
 download-button-firefox-privacy = Confidentialitate de { -brand-name-firefox }
 download-button-firefox-privacy-notice = Aviso de confidentialitate de { -brand-name-firefox }
 download-button-download = Discarga
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } es <a href="{ $help_url }">non plus supportate</a> sur { $os_version } e infra.
+download-button-please-download-esr = Discarga { -brand-name-firefox-esr } (Extended Support Release) pro usar { -brand-name-firefox }.
 download-firefox-esr = Discargar { -brand-name-firefox-esr }
 download-firefox-esr-32 = Discargar { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Discargar { -brand-name-firefox-esr } 64-bit
