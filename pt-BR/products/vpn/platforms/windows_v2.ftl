@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
+# New strings for updated page
+vpn-windows-get-a-vpn = Tenha uma VPN da { -brand-name-mozilla } para Windows
 vpn-windows-stay-safe = Fique seguro e protegido em seu dispositivo Windows com uma VPN
 vpn-windows-what-are-the-benefits = Quais são os benefícios de usar o { -brand-name-mozilla-vpn } em meu dispositivo Windows?
