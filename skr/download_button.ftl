@@ -39,3 +39,6 @@ download-button-firefox-ios = { -brand-name-ios } کیتے <span>{ -brand-name-f
 download-button-firefox-privacy = { -brand-name-firefox } رازداری
 download-button-firefox-privacy-notice = { -brand-name-firefox } رازداری  نوٹس
 download-button-download = ڈاؤن لوڈ
+download-firefox-esr = { -brand-name-firefox-esr } ڈاؤن لوڈ کرو
+download-firefox-esr-32 = { -brand-name-firefox-esr } 32 ــ بٹ ڈاؤن کرو
+download-firefox-esr-64 = { -brand-name-firefox-esr } 64 ــ بٹ ڈاؤن کرو

@@ -60,6 +60,7 @@ footer-contact = رابطہ
 footer-product-help = مصنوعات دی مدد
 footer-support = سہارا
 footer-file-a-bug = بگ فائل کرو
+footer-localize-mozilla = { -brand-name-mozilla } مقامی بݨاؤ
 footer-community-participation-guidelines = برادری وچ شرکت دی رہنمائی
 footer-websites-privacy-notice = ویب سائٹ رازداری نوٹس
 footer-websites-cookies = کوکیاں
