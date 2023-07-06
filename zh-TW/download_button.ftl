@@ -43,8 +43,8 @@ download-button-download = 下載
 #   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
-download-button-unsupported-platform = { $os_version } 及更低版本 <a href="{ $help_url }">不再支援</a> { $channel_name }。
-download-button-please-download-esr = 請下載 { -brand-name-firefox-esr }Extended Support Release 以使用 { -brand-name-firefox }。
+download-button-unsupported-platform = { $os_version } 及更低版本<a href="{ $help_url }">不再支援</a> { $channel_name }。
+download-button-please-download-esr = 請下載 { -brand-name-firefox-esr }（Extended Support Release）以使用 { -brand-name-firefox }。
 download-firefox-esr = 下載 { -brand-name-firefox-esr }
 download-firefox-esr-32 = 下載 { -brand-name-firefox-esr } 32 位元版本
-download-firefox-esr-64 = 下載 { -brand-name-firefox-esr } 64 位元版
+download-firefox-esr-64 = 下載 { -brand-name-firefox-esr } 64 位元版本
