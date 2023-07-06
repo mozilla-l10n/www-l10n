@@ -10,7 +10,6 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } گھنو
 vpn-shared-waitlist-link = تانگھ تندیر نال رلت کرو
 vpn-shared-sign-in-link = بھلا پہلے ہی سبسکرائبر ہو؟
 # Outdated string
-vpn-shared-available-countries-v4 = اساں فی الحال آسٹریا، بیلجیم، کینیڈا، فرانس، جرمنی، آئرلینڈ، اٹلی، ملائیشیا، ہالینڈ، نیوزی لینڈ، سنگاپور، اسپین، سوئٹزر لینڈ، برطانیہ تے امریکہ وِچ { -brand-name-mozilla-vpn } پیش کریندے ہیں۔
 vpn-shared-available-countries-v5 = اساں فی الحال { -brand-name-mozilla-vpn } آسٹریا، بیلجیم، کینیڈا، فن لینڈ، فرانس، جرمنی، آئرلینڈ، اٹلی، ملائیشیا، ہالینڈ، نیوزی لینڈ، سنگاپور، اسپین، سویڈن، سوئٹزرلینڈ، برطانیہ، تے امریکہ وِچ پیش کریندے پئے ہیں۔
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
@@ -108,6 +107,8 @@ vpn-shared-platform-cta-headline = آؤ شروع کروں
 vpn-shared-platform-cta-button = قیمتاں تے دستیابی ݙیکھو
 vpn-shared-platform-privacy-promise = تہاݙی رازداری ساݙا وعدہ ہے
 vpn-shared-platform-trust-partner-headline = ساݙے قابل اعتماد بھائیوال بارے
+vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } کیا ہے؟
+vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } کیوں؟
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
