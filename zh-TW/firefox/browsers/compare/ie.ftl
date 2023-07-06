@@ -38,6 +38,7 @@ compare-ie-on-the-other-end-of-the-spectrum = 另一方面{ -brand-name-firefox 
 compare-ie-on-the-other-end-of-the-spectrum-fallback = 另一方面{ -brand-name-firefox }是最容易更新的瀏覽器之一也開啟了許多好用又有趣的功能像是 <a { $pocket }> { -brand-name-pocket }</a> 功能在開啟新分頁時自動為您推薦有趣的內容。我們統一的搜尋與網址列<em>Awesome Bar</em>也會根據您現有的書籤與標籤、瀏覽紀錄、開啟的分頁以及熱門搜尋提供建議。而透過免費的{ -brand-name-firefox }帳號您還可以在任何裝置上存取您的所有設定與<a { $products }>我們其他的 { -brand-name-firefox }產品</a>只要簽署知道您的瀏覽器正在主動保護您的個人資料也可以放心使用。
 # "sunset" here means Microsoft is officially ending production of Internet Explorer. Alternative: "retire"
 compare-ie-as-microsoft-has-made-the-move = 由於{ -brand-name-microsoft }已逐漸停用{ -brand-name-ie }瀏覽器它不再支援任何版本的{ -brand-name-ios }也不再提供{ -brand-name-android }.這代表除非您使用 Windows 系統的筆電或桌機否則無法存取您的書籤、上網紀錄、儲存的密碼以及其他由瀏覽器同步至不同裝置的資訊。
+compare-ie-firefox-works-on-any-platform = { -brand-name-firefox } 可在任何平台使用，包含 { -brand-name-windows }、{ -brand-name-mac }、{ -brand-name-linux }、{ -brand-name-android } 以及 { -brand-name-ios }。這也代表您可以在不同平台間同步所有資訊。因此，若您在 { -brand-name-windows } 的筆電上網，可以隨時切換到 { -brand-name-iphone } 或 { -brand-name-android }，繼續上網。現代的網頁瀏覽器都應該具備這種方便的功能，而 { -brand-name-ie } 則完全沒有此功能。
 compare-ie-there-was-a-time-not-so-long = 就在不久前{ -brand-name-ie } 還是世界上最知名、使用最廣泛的瀏覽器。時代在變科技也很可惜 { -brand-name-ie } 幾乎沒變。 { -brand-name-microsoft } 本身就公開請求使用者停止使用 { -brand-name-ie } 改用基於 { -brand-name-chromium } 技術的更新版 { -brand-name-edge } 瀏覽器。
 # Variables:
 #   $attrs (string) - link to /firefox/download/thanks/ with additional attributes for analytics
