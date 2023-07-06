@@ -38,7 +38,7 @@
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
--brand-name-firefox-extended-support-release = Firefox Extended Support Release
+-brand-name-firefox-extended-support-release = Bản phát hành hỗ trợ mở rộng của Firefox
 -brand-name-firefox-focus = Firefox Focus
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly

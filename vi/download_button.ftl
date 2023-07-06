@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Tải xuống ngay
 download-button-free-download = Tải xuống miễn phí
@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> cho { -brand-
 download-button-firefox-privacy = Quyền riêng tư trên { -brand-name-firefox }
 download-button-firefox-privacy-notice = Thông báo bảo mật { -brand-name-firefox }
 download-button-download = Tải xuống
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">không còn được hỗ trợ</a> trên { $os_version } hoặc cũ hơn.
+download-button-please-download-esr = Vui lòng tải xuống { -brand-name-firefox-esr } (bản phát hành hỗ trợ mở rộng) để sử dụng { -brand-name-firefox }.
+download-firefox-esr = Tải xuống { -brand-name-firefox-esr }
+download-firefox-esr-32 = Tải xuống { -brand-name-firefox-esr } 32-bit
+download-firefox-esr-64 = Tải xuống { -brand-name-firefox-esr } 64-bit
