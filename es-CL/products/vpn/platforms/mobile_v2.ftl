@@ -11,6 +11,9 @@ vpn-mobile-vpn-for-mobile = VPN para móviles de { -brand-name-mozilla }
 vpn-mobile-in-todays = En el mundo actual, centrado en los dispositivos móviles, confiamos en nuestros teléfonos y dispositivos móviles para la comunicación, el entretenimiento y el trabajo. Sin embargo, sin un VPN, tu información personal puede ser vulnerable a varios riesgos de seguridad y privacidad.
 vpn-mobile-why-do-i = ¿Por qué necesito un VPN para móviles?
 vpn-mobile-the-mozilla-vpn = La aplicación móvil { -brand-name-mozilla-vpn } es pequeña, por lo que no utiliza demasiada memoria y no ralentizará el teléfono ni drenará la batería.
+vpn-mobile-your-internet-v2 = Tu proveedor de servicios de Internet (ISP) puede disminuir tu ancho de banda si sabe que estás viendo películas, escuchando música o transmitiendo.
+# Obsolete string
+vpn-mobile-your-internet = Tu proveedor de servicios de Internet (ISP) puede disminuir tu ancho de banda si sabe que estás viendo películas, escuchando música o transmitiendo
 vpn-mobile-your-isp-v2 = Tu ISP puede bloquear sitios web o servicios que no le gustan o que compiten con los suyos.
 # Obsolete string
 vpn-mobile-your-isp = Tu ISP puede bloquear sitios web o servicios que no le gustan o que compiten con los suyos
