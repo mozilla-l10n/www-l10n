@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> για { -bra
 download-button-firefox-privacy = Απόρρητο { -brand-name-firefox }
 download-button-firefox-privacy-notice = Σημείωση απορρήτου { -brand-name-firefox }
 download-button-download = Λήψη
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = Το { $channel_name } <a href="{ $help_url }">δεν υποστηρίζεται πλέον</a> στο λειτουργικό σύστημα { $os_version } και παλαιότερα.
+download-button-please-download-esr = Παρακαλούμε κάντε λήψη του { -brand-name-firefox-esr } (έκδοση εκτεταμένης υποστήριξης) για να χρησιμοποιήσετε το { -brand-name-firefox }.
+download-firefox-esr = Λήψη του { -brand-name-firefox-esr }
+download-firefox-esr-32 = Λήψη του { -brand-name-firefox-esr } 32-bit
+download-firefox-esr-64 = Λήψη του { -brand-name-firefox-esr } 64-bit
