@@ -44,4 +44,13 @@ download-button-firefox-privacy = خصوصية { -brand-name-firefox }
 download-button-firefox-privacy-notice = إشعار خصوصية { -brand-name-firefox }
 download-button-download = تنزيل
 
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = لم يُعد { $channel_name } <a href="{ $help_url }">مدعومًا</a> على { $os_version } والإصدارات الأقدم.
 
+download-button-please-download-esr = يُرجى تنزيل { -brand-name-firefox-esr } (إصدار الدعم المُمتد) لاستخدام { -brand-name-firefox }.
+download-firefox-esr = تحميل { -brand-name-firefox-esr }
+download-firefox-esr-32 = تنزيل { -brand-name-firefox-esr } 32-بت
+download-firefox-esr-64 = تنزيل { -brand-name-firefox-esr } 64-بت
