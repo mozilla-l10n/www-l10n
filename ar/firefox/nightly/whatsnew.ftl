@@ -19,9 +19,8 @@ nightly-whatsnew-every-6-to-8-weeks = كل 6 إلى 8 أسابيع، يتم إط
 
 nightly-whatsnew-this-is-a-good = هذا هو الوقت المُناسب لأشكرك على مساعدتنا في جعل { -brand-name-firefox } أفضل وإعطائك بعض المؤشرات عن المستندات وقنوات الاتصال والمواقع الإخبارية ذات الصلة بـ { -brand-name-nightly } والتي قد تهُمك.
 
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
+
+# Obsolete
 nightly-whatsnew-if-you-want-to = إذا كنت تريد معرفة ما يحدث بخصوص { -brand-name-nightly } والمجتمع الخاص به، ستكون قراءة <a href="{ $blog }">المدونة الخاصة بنا</a> ومتابعتنا على قنوات <a href="{ $twitter }">{ -brand-name-twitter }</a> مناسبة لذلك.
 
 # Variables:

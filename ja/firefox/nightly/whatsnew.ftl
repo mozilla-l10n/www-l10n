@@ -19,9 +19,8 @@ nightly-whatsnew-every-6-to-8-weeks = { -brand-name-firefox } の新しいメジ
 
 nightly-whatsnew-this-is-a-good = この機会に、皆さんに { -brand-name-firefox } の改善支援に感謝の意を述べるとともに、{ -brand-name-nightly } 関連のドキュメント、連絡チャンネル、ニュースウェブサイトをいくつかご紹介しますので、ご関心のある方はご覧ください。
 
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
+
+# Obsolete
 nightly-whatsnew-if-you-want-to = { -brand-name-nightly } とそのコミュニティ関連のニュースについては、まず Mozilla の<a href="{ $blog }">ブログ</a>をご覧いただくか、<a href="{ $twitter }">{ -brand-name-twitter }</a> で Mozilla をフォローしていただくとよいでしょう。
 
 # Variables:
