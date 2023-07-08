@@ -16,7 +16,10 @@ nightly-whatsnew-every-6-to-8-weeks = 6-8 hetente megjelenik a { -brand-name-fir
 nightly-whatsnew-this-is-a-good = Ez egy remek alkalom arra, hogy megköszönjük, hogy segít jobbá tenni a { -brand-name-firefox(case: "accusative") }és javasoljunk néhány dokumentációt, kommunikációs csatornát és híroldalt, melyek kapcsolódnak a { -brand-name-nightly }hoz, és érdekelhetik Önt.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to-v2 = Ha szeretné tudni, hogy mi történik a { -brand-name-nightly } és közössége körül, akkor olvassa el <a href="{ $blog }">blogunkat</a> és kövessen minket <a href="{ $mastodon }">Mastodon</a> vagy <a href="{ $twitter }">Twitter</a> jó kiindulási pont!
+# Obsolete
 nightly-whatsnew-if-you-want-to = Ha tudni akarja, hogy mi történik a { -brand-name-nightly }val és a közösséggel, akkor a <a href="{ $blog }">blogunk</a> olvasása és a <a href="{ $twitter }">{ -brand-name-twitter }</a> oldalunk követése jó kiindulópont.
 # Variables:
 #   $attrs (string) - link href and additional attributes
