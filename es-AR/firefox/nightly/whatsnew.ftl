@@ -18,7 +18,7 @@ nightly-whatsnew-this-is-a-good = Es un buen momento para agradecerte que nos ay
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Si querés saber qué está pasando alrededor de { -brand-name-nightly } y su comunidad, leyendo nuestro <a href="{ $blog }"> blog </a> y síguenos en <a href = "{ $mastodon }"> Mastodon </a> o <a href="{ $twitter }"> Twitter </a> son buenos puntos de partida.
+nightly-whatsnew-if-you-want-to-v2 = Si querés saber qué está pasando alrededor de { -brand-name-nightly } y su comunidad, leer nuestro <a href="{ $blog }">blog</a> y seguirnos en <a href = "{ $mastodon }">Mastodon</a> o <a href="{ $twitter }">Twitter</a> son buenos puntos de partida.
 # Obsolete
 nightly-whatsnew-if-you-want-to = Si querés saber que pasa alrededeor de { -brand-name-nightly } y su comunidad, leer nuestro <a href="{ $blog }">blog</a> y seguirnos en <a href="{ $twitter }">{ -brand-name-twitter }</a> son buenos puntos de inicio.
 # Variables:
