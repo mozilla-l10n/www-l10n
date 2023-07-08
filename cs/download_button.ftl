@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Stáhnout nyní
 download-button-free-download = Stáhnout zdarma
@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pro { -brand-
 download-button-firefox-privacy = { -brand-name-firefox } a soukromí
 download-button-firefox-privacy-notice = { -brand-name-firefox } a soukromí
 download-button-download = Stáhnout
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } již <a href="{ $help_url }">není podporován</a> na { $os_version } a nižších.
+download-button-please-download-esr = Pokud chcete používat { -brand-name-firefox }, stáhněte si { -brand-name-firefox-esr } (vydání s rozšířenou podporou).
+download-firefox-esr = Stáhnout { -brand-name-firefox-esr }
+download-firefox-esr-32 = Stáhnout { -brand-name-firefox-esr } (32-bitová verze)
+download-firefox-esr-64 = Stáhnout { -brand-name-firefox-esr } (64-bitová verze)
