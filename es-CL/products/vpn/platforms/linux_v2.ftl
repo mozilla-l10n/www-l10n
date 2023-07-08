@@ -6,8 +6,10 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } en Linux
+vpn-linux-looking-for = ¿Buscas un VPN para proteger tu equipo con Linux? { -brand-name-mozilla-vpn } ofrece el único servicio de una empresa sin fines de lucro. Aprende cómo te protege un VPN y por qué deberías confiar en { -brand-name-mozilla } para tu privacidad y seguridad.
 vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } en Linux para un Internet más privado y seguro
 vpn-linux-linux-is-free = Linux es gratuito, de código abierto y personalizable, pero no es inmune a los problemas de seguridad y privacidad en línea. Al igual que los usuarios de otros sistemas operativos, los usuarios de Linux enfrentan censura, vigilancia y hackeos.
+vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } es un servicio de red privada virtual que utiliza encriptación de última generación de código abierto y no registra, rastrea ni comparte ninguna actividad de tu red. Te permite conectarte a más de 500 servidores en más de 30 países.
 vpn-linux-why-choose = ¿Por qué elegir { -brand-name-mozilla-vpn } para Linux?
 vpn-linux-fast-and-v2 = <strong>Rápido y confiable:</strong> { -brand-name-mozilla-vpn } utiliza el protocolo { -brand-name-wireguard }®, que ofrece mejor rendimiento y estabilidad que otros protocolos VPN.
 # Obsolete string
