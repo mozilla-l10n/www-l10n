@@ -44,4 +44,13 @@ download-button-firefox-privacy = Privasi { -brand-name-firefox }
 download-button-firefox-privacy-notice = Pemberitahuan Privasi { -brand-name-firefox }
 download-button-download = Unduh
 
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">tidak lagi didukung</a> di { $os_version } ke bawah.
 
+download-button-please-download-esr = Unduh { -brand-name-firefox-esr } (Extended Support Release) untuk menggunakan { -brand-name-firefox }.
+download-firefox-esr = Unduh { -brand-name-firefox-esr }
+download-firefox-esr-32 = Unduh { -brand-name-firefox-esr } 32-bit
+download-firefox-esr-64 = Unduh { -brand-name-firefox-esr } 64-bit
