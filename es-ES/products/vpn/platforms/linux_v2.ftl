@@ -32,3 +32,12 @@ vpn-linux-if-you-use-v2 = Si usas una de las versiones compatibles de Ubuntu, ha
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use = Si usas una de las versiones compatibles de Ubuntu, hay dos formas de instalar los paquetes oficiales de mozillavpn alojados en <a { $attrs }>Launchpad:</a>
+# Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Modo de línea de comandos de Ubuntu:</strong> para obtener instrucciones detalladas sobre cómo instalar { -brand-name-mozilla-vpn } con las herramientas del modo de línea de comandos, consulta <a { $attrs }>Cómo instalar { -brand-name-mozilla-vpn } en un ordenador con Linux</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Interfaz gráfica de usuario de Ubuntu:</strong> Visita <a { $attrs }>este artículo</a> y sigue las instrucciones en la sección Añadir archivos de paquetes personales.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Además, para las distribuciones de Linux no compatibles, puedes descargar y compilar el código fuente del <a { $attrs }>repositorio oficial de GitHub</a>.
