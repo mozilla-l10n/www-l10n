@@ -16,7 +16,10 @@ nightly-whatsnew-every-6-to-8-weeks = Každých 6 až 8 týždňov vychádza nov
 nightly-whatsnew-this-is-a-good = Teraz je správny čas na to, aby sme vám poďakovali za pomoc s vylepšovaním { -brand-name-firefox(case: "gen") } a ponúkli vám pár odkazov na dokumentáciu, komunikačné kanály a spravodajské stránky týkajúce sa { -brand-name-firefox(case: "gen") } { -brand-name-nightly }.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to-v2 = Ak chcete vedieť, čo sa deje okolo { -brand-name-nightly } a našej komunity, môžete si prečítať náš <a href="{ $blog }">blog</a> a začať nás sledovať na <a href="{ $mastodon }">Mastodone</a> alebo <a href="{ $twitter }">Twitteri</a>.
+# Obsolete
 nightly-whatsnew-if-you-want-to = Ak chcete vedieť, čo sa deje okolo { -brand-name-nightly } a našej komunity, môžete si prečítať náš <a href="{ $blog }">blog</a> a začať nás sledovať na <a href="{ $twitter }">{ -brand-name-twitter(case: "loc") }</a>.
 # Variables:
 #   $attrs (string) - link href and additional attributes
