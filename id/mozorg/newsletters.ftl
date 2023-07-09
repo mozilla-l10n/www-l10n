@@ -409,9 +409,17 @@ newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Pengumuman khusus membantu Anda mendapatkan hasil maksimal dari { -brand-name-webmaker }.
 
+# Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 
+# Description for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-get-tips-from-mozilla = Dapatkan tip dari { -brand-name-mozilla } tentang cara memaksimalkan manfaat akun Anda.
 
+# Name for the newsletter in Newsletter subscription page (Welcome emails)
+newsletters-welcome-emails = Email sambutan
 
+# Description for the newsletter in Newsletter subscription page (Welcome emails)
+newsletter-welcome-emails-that-get-you = Email sambutan agar Anda dapat mulai menggunakan produk dan layanan kami.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
