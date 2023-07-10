@@ -15,7 +15,7 @@ vpn-windows-what-are-the-benefits = Aké sú výhody stiahnutia { -brand-name-mo
 vpn-windows-avoid-your-online = Zabráňte zhromažďovaniu a zdieľaniu vašej online aktivity s tretími stranami alebo inzerentmi.
 vpn-windows-if-youre = Ak ste náročným používateľom online streamovania videa alebo hudby, môžete sa potenciálne vyhnúť tomu, aby váš poskytovateľ internetových služieb obmedzil alebo obmedzil vašu šírku pásma pomocou siete VPN.
 vpn-windows-you-can-exclude = Pomocou funkcie rozdeleného tunelovania môžete vylúčiť určité aplikácie. To vám umožní spustiť niektoré aplikácie cez VPN, zatiaľ čo ostatné ponecháte mimo tunela.
-vpn-windows-using-a-windows = Používanie zariadenia so systémom Windows vo verejnej, nezabezpečenej sieti Wi-Fi robí vaše informácie o návštevnosti internetu zraniteľnejšími voči sieťovým špiónom a sieť VPN vám môže pomôcť udržať vaše údaje v súkromí pridaním silnej vrstvy ochrany.
+vpn-windows-using-a-windows = Používanie zariadenia so systémom Windows vo verejnej, nezabezpečenej sieti Wi‑Fi robí vaše informácie o návštevnosti internetu zraniteľnejšími voči sieťovým špiónom a sieť VPN vám môže pomôcť udržať vaše údaje v súkromí pridaním silnej vrstvy ochrany.
 vpn-windows-the-mozilla = Aplikácia { -brand-name-mozilla-vpn } nezaberie príliš veľa pamäte zariadenia so systémom Windows, nespomalí váš počítač ani neplytvá výdržou batérie.
 # Variables:
 #   $url (string) - url('products.vpn.landing')
