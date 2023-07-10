@@ -43,8 +43,8 @@ download-button-download = Letöltés
 #   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
-download-button-unsupported-platform = A(z) { $channel_name } csatorna <a href="{ $help_url }">már nem támogatott</a> { $os_version } és régebbi rendszereken.
+download-button-unsupported-platform = A(z) { $channel_name } <a href="{ $help_url }">már nem támogatott</a> { $os_version } és régebbi rendszereken.
 download-button-please-download-esr = A { -brand-name-firefox } használatához töltse le a { -brand-name-firefox-esr }-t (kiterjesztett támogatású kiadás).
-download-firefox-esr = { -brand-name-firefox-esr } letöltése
+download-firefox-esr = A { -brand-name-firefox-esr } letöltése
 download-firefox-esr-32 = A { -brand-name-firefox-esr } 32 bites verziójának letöltése
 download-firefox-esr-64 = A { -brand-name-firefox-esr } 64 bites verziójának letöltése

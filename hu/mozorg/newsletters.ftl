@@ -297,7 +297,7 @@ newsletters-get-tips-from-mozilla = Kapjon tippeket a { -brand-name-mozilla(endi
 # Name for the newsletter in Newsletter subscription page (Welcome emails)
 newsletters-welcome-emails = Üdvözlő levelek
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
-newsletter-welcome-emails-that-get-you = Üdvözlő e-mailek, melyek bemutatják termékeink és szolgáltatásaink használatának elkezdését.
+newsletter-welcome-emails-that-get-you = Üdvözlő e-mailek, melyek segítenek a termékeink és szolgáltatásaink használatának elkezdésében.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
