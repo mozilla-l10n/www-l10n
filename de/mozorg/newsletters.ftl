@@ -409,9 +409,17 @@ newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Besondere Ankündigungen, mit denen Sie das Beste aus { -brand-name-webmaker } machen können.
 
+# Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 
+# Description for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-get-tips-from-mozilla = Holen Sie sich Tipps von { -brand-name-mozilla }, wie Sie Ihr Konto voll ausschöpfen können.
 
+# Name for the newsletter in Newsletter subscription page (Welcome emails)
+newsletters-welcome-emails = Willkommens-E-Mails
 
+# Description for the newsletter in Newsletter subscription page (Welcome emails)
+newsletter-welcome-emails-that-get-you = Willkommens-E-Mails für den Einstieg in unsere Produkte und Dienste.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
