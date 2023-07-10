@@ -409,9 +409,17 @@ newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = { -brand-name-webmaker } を最大限に活用する上で役立つ情報。
 
+# Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 
+# Description for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-get-tips-from-mozilla = アカウントを活用する方法について、{ -brand-name-mozilla } からのアドバイスをご覧ください。
 
+# Name for the newsletter in Newsletter subscription page (Welcome emails)
+newsletters-welcome-emails = ウェルカムメール
 
+# Description for the newsletter in Newsletter subscription page (Welcome emails)
+newsletter-welcome-emails-that-get-you = Mozilla の製品とサービスを使い始めるためのウェルカムメールです。
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
