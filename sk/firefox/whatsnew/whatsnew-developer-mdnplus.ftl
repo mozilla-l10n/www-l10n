@@ -23,5 +23,5 @@ developer-mdnplus-build-your-perfect-library = Zostavte si svoju dokonalú kniž
 developer-mdnplus-no-more-haphazard-hunting = Už žiadne náhodné prenasledovanie cez rozsiahlu virtuálnu knižnicu: pustite uzdu svojmu vnútornému kurátorovi a zhromažďujte svoje obľúbené články na jednom mieste, aby ste si mohli pohodlne poradiť.
 developer-mdnplus-mdn-offline = Offline verzia { -brand-name-mdn }
 developer-mdnplus-mdns-entire-library-at-your = Celá knižnica { -brand-name-mdn } na dosah ruky: offline
-developer-mdnplus-taking-your-projects-beyond = Posúvate svoje projekty za najbližší signál Wi-Fi? Rozlúčte sa s neprístupnými stránkami alebo preplnenými kartami. S { -brand-name-mdn-plus } máte k dispozícii plne prehliadateľné zdroje { -brand-name-mdn }, aj keď ste offline.
+developer-mdnplus-taking-your-projects-beyond = Posúvate svoje projekty za najbližší signál Wi‑Fi? Rozlúčte sa s neprístupnými stránkami alebo preplnenými kartami. S { -brand-name-mdn-plus } máte k dispozícii plne prehliadateľné zdroje { -brand-name-mdn }, aj keď ste offline.
 developer-mdnplus-resources-for-developers = Zdroje pre vývojárov, od vývojárov.

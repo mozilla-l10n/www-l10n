@@ -69,7 +69,7 @@ firefoxs-default-search = { -brand-name-google } je predvoleným vyhľadávacím
 does-firefox-have = Má { -brand-name-firefox } vstavanú sieť VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
-firefox-does-not-v2 = { -brand-name-firefox } nemá vstavanú VPN (virtuálnu súkromnú sieť), ale { -brand-name-mozilla } vytvára produkt s názvom <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, ktorý môžete použiť ako doplnok k súkromnému { -brand-name-firefox-browser(case: "dat", capitalization: "lower") }, ktorý môže chrániť vaše pripojenie na WiFi, ako aj vašu IP adresu.
+firefox-does-not-v2 = { -brand-name-firefox } nemá vstavanú VPN (virtuálnu súkromnú sieť), ale { -brand-name-mozilla } vytvára produkt s názvom <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, ktorý môžete použiť ako doplnok k súkromnému { -brand-name-firefox-browser(case: "dat", capitalization: "lower") }, ktorý môže chrániť vaše pripojenie na Wi‑Fi, ako aj vašu IP adresu.
 related-questions-ip = Súvisiace otázky: skrýva { -brand-name-firefox } vašu IP adresu
 who-owns-firefox = Kto vlastní { -brand-name-firefox }?
 

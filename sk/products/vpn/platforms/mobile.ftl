@@ -14,7 +14,7 @@ vpn-mobile-maker-of-firefox = Zaistite, aby internetové pripojenie vášho tele
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-ability = { -brand-name-mozilla-vpn } bráni hackerom a špiónom vidieť vašu IP adresu a skrýva vašu polohu online. Vďaka pokročilému šifrovaniu a žiadnym obmedzeniam šírky pásma je streamovanie a prehliadanie na vašom telefóne či tablete ultrarýchle a spoľahlivo bezpečné. Za malý mesačný poplatok môžete chrániť až { $devices } zariadení a pripájať sa k desiatkam serverov po celom svete.
-vpn-mobile-wifi-headline = Cíťte sa bezpečne pri používaní verejnej siete Wi-Fi
+vpn-mobile-wifi-headline = Cíťte sa bezpečne pri používaní verejnej siete Wi‑Fi
 vpn-mobile-wifi-copy = Naša VPN chráni vaše internetové pripojenie pred hackermi a špiónmi, takže môžete nakupovať v kaviarni, kontrolovať svoj bankový účet z vlaku a podnikať online s vedomím, že vaša IP adresa je chránená.
 vpn-mobile-about-headline = O { -brand-name-mozilla(case: "loc") }
 vpn-mobile-about-copy = { -brand-name-mozilla }, známa najmä ako tvorca { -brand-name-firefox-browser(case: "gen") }, je globálna komunita používateľov, prispievateľov a vývojárov, ktorí sa venujú tomu, aby bola moc internetu v rukách ľudí. Spoločnosť bola založená v roku 1998 a sme jedným z priekopníkov slobodného a otvoreného webu – a naším poslaním je, aby to tak zostalo.

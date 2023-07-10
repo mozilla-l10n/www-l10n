@@ -17,7 +17,7 @@ vpn-mobile-your-internet = Váš poskytovateľ internetových služieb (ISP) mô
 vpn-mobile-your-isp-v2 = Váš ISP môže blokovať webové stránky alebo služby, ktoré sa mu nepáčia alebo ktoré konkurujú jeho vlastným.
 # Obsolete string
 vpn-mobile-your-isp = Váš ISP môže blokovať webové stránky alebo služby, ktoré sa mu nepáčia alebo ktoré konkurujú jeho vlastným.
-vpn-mobile-hackers-can-steal-v2 = Hackeri môžu ukradnúť vaše osobné údaje, keď používate verejné Wi-Fi, napríklad v kaviarňach alebo na letiskách.
+vpn-mobile-hackers-can-steal-v2 = Hackeri môžu ukradnúť vaše osobné údaje, keď používate verejné Wi‑Fi, napríklad v kaviarňach alebo na letiskách.
 # Obsolete string
 vpn-mobile-hackers-can-steal = Hackeri môžu ukradnúť vaše osobné údaje, keď používate verejné siete Wi‑Fi, napríklad v kaviarňach alebo na letiskách.
 vpn-mobile-a-vpn-works = Sieť VPN funguje vo vašom zariadení, nielen vo vašom prehliadači, teda aj vo vašich mobilných aplikáciách. A na rozdiel od bezplatných sietí VPN alebo serverov proxy, ktoré môžu platiť za svoje servery tým, že vás špehujú a predávajú vaše informácie, { -brand-name-mozilla } nevedie záznamy o tom, kam chodíte a čo robíte.
