@@ -10,6 +10,7 @@ vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } auf Linux für ein 
 vpn-linux-linux-is-free = Linux ist kostenlos, Open-Source und anpassbar, aber es ist nicht immun gegen Probleme mit der Online-Sicherheit und dem Datenschutz. Genau wie Nutzer*innen anderer Betriebssysteme sind Linux-Nutzer*innen Zensur, Überwachung und Hacking ausgesetzt.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } ist ein Virtual-Private-Network-Dienst, der quelloffene Verschlüsselung auf dem neusten Stand der Technik nutzt und Ihre Netzwerkaktivitäten weder protokolliert, noch trackt oder weitergibt. Sie erhalten damit Zugriff auf über 500 Server in mehr als 30 Ländern.
 vpn-linux-why-choose = Warum { -brand-name-mozilla-vpn } für Linux?
+vpn-linux-fast-and-v2 = <strong>Schnell und zuverlässig:</strong> { -brand-name-mozilla-vpn } verwendet das { -brand-name-wireguard }®-Protokoll, das bessere Performance und Stabilität bietet als andere VPN-Protokolle.
 # Obsolete string
 vpn-linux-fast-and = <strong>Schnell und zuverlässig:</strong> { -brand-name-mozilla-vpn } verwendet das { -brand-name-wireguard }®-Protokoll, das bessere Performance und Stabilität bietet als andere VPN-Protokolle.
 vpn-linux-no-logs = <strong>Keine Protokollierung:</strong> { -brand-name-mozilla-vpn } protokolliert Ihre Netzwerkaktivitäten nicht; wir speichern nicht, welche Websites Sie besuchen und prüfen auch nicht Ihren Datenverkehr.
@@ -22,6 +23,10 @@ vpn-linux-gui-client = <strong>GUI-Client:</strong>{ -brand-name-mozilla-vpn } v
 vpn-linux-by-using = Indem Sie sich für { -brand-name-mozilla-vpn } entscheiden, können Sie die Kontrolle über Ihre Online-Aktivitäten zurückgewinnen und Ihre Daten schützen. Laden Sie heute { -brand-name-mozilla-vpn } herunter und profitieren Sie von einer 30-Tage-Geld-zurück-Garantie ohne Protokolle, ohne Probleme, ohne Risiko.
 vpn-linux-how-to-install = So funktioniert die Installation von { -brand-name-mozilla-vpn } auf Linux
 
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Wenn Sie eine der unterstützten Ubuntu-Versionen nutzen, gibt es zwei Wege, offizielle Mozilla-VPN-Pakete zu installieren, die auf <a { $attrs }>Launchpad</a> gehostet werden:
 
 # Obsolete string
 # Variables:
