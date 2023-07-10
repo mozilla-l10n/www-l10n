@@ -44,4 +44,13 @@ download-button-firefox-privacy = { -brand-name-firefox } निजता
 download-button-firefox-privacy-notice = { -brand-name-firefox } गोपनीयता सूचना
 download-button-download = डाउनलोड करें
 
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } को { $os_version } और इससे पिछले वर्ज़न पर <a href="{ $help_url }">अब सपोर्ट हासिल नहीं है</a>।
 
+download-button-please-download-esr = कृपया { -brand-name-firefox-esr } (विस्तारित सपोर्ट रिलीज़) डाउनलोड करें ताकि आप { -brand-name-firefox } का उपयोग कर सकें।
+download-firefox-esr = { -brand-name-firefox-esr } डाउनलोड करें
+download-firefox-esr-32 = { -brand-name-firefox-esr } 32-बिट डाउनलोड करें
+download-firefox-esr-64 = { -brand-name-firefox-esr } 64-बिट डाउनलोड करें

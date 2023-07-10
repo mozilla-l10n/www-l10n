@@ -44,4 +44,13 @@ download-button-firefox-privacy = { -brand-name-firefox } のプライバシー
 download-button-firefox-privacy-notice = { -brand-name-firefox } プライバシーに関する通知
 download-button-download = ダウンロード
 
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } は、{ $os_version } 以前での<a href="{ $help_url }">サポートを終了しました</a>。
 
+download-button-please-download-esr = { -brand-name-firefox } を利用するには、{ -brand-name-firefox-esr } (拡張サポートリリース) をダウンロードしてください。
+download-firefox-esr = { -brand-name-firefox-esr } をダウンロード
+download-firefox-esr-32 = { -brand-name-firefox-esr } 32 ビット版をダウンロード
+download-firefox-esr-64 = { -brand-name-firefox-esr } 64 ビット版をダウンロード
