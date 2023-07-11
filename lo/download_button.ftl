@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> ສຳລັ�
 download-button-firefox-privacy = ຄວາມເປັນສ່ວນໂຕໃນ { -brand-name-firefox }
 download-button-firefox-privacy-notice = ຄວາມເປັນສ່ວນໂຕໃນ { -brand-name-firefox }
 download-button-download = ດາວໂຫລດ
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } ແມ່ນ <a href="{ $help_url }">ບໍ່ຮອງຮັບແລ້ວ</a> ໃນ { $os_version } ແລະ ຂ້າງລຸ່ມນີ້.
+download-button-please-download-esr = ກະລຸນາດາວໂຫຼດ { -brand-name-firefox-esr } (ຂະຫຍາຍການຮອງຮັບ) ເພື່ອໃຊ້ { -brand-name-firefox }.
+download-firefox-esr = ດາວໂຫລດ { -brand-name-firefox-esr }
+download-firefox-esr-32 = ດາວໂຫລດ { -brand-name-firefox-esr } 32-bit
+download-firefox-esr-64 = ດາວໂຫລດ { -brand-name-firefox-esr } 64-bit
