@@ -7,6 +7,7 @@
 
 vpn-desktop-vpn-for-pc = VPN da { -brand-name-mozilla } para computador
 vpn-desktop-if-you-are = Se você está procurando uma VPN para proteger seu notebook ou computador de mesa, experimente o { -brand-name-mozilla-vpn }. Ele é respaldado por uma empresa sem fins lucrativos. Saiba como uma VPN protege você e por que deve confiar na { -brand-name-mozilla } para sua privacidade e segurança.
+vpn-desktop-vpns-can-provide = VPNs podem fornecer uma camada adicional de segurança para seu computador e ajudar a proteger você de ataques de hackers, como phishing e outras ameaças na internet. VPNs criptografam seus dados e sua localização, criando um "túnel" entre seu computador e a internet. Se seu computador não está usando uma VPN, hackers e terceiros podem conseguir interceptar seu tráfego de rede, colocando sua privacidade em risco.
 vpn-desktop-how-does-a = Como uma VPN protege meu computador?
 vpn-desktop-there-are-several = Existem várias razões pelas quais você deve usar uma VPN para se proteger ao usar seu computador:
 vpn-desktop-stronger-privacy = <strong>Privacidade mais forte:</strong> Como uma VPN mascara seu endereço IP, você pode navegar na internet com mais privacidade, sabendo que sua atividade não pode ser reunida por coletores de dados usando seu IP como identificador exclusivo.
