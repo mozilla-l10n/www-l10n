@@ -60,6 +60,7 @@ footer-contact = Kontakt
 footer-product-help = Hjælp til produkter
 footer-support = Support
 footer-file-a-bug = Rapporter en fejl
+footer-localize-mozilla = Oversæt { -brand-name-mozilla }
 footer-community-participation-guidelines = Retningslinjer for deltagelse i fællesskabet
 footer-websites-privacy-notice = Privatlivserklæring
 footer-websites-cookies = Cookies
