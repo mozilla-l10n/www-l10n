@@ -8,7 +8,7 @@
 vpn-mobile-get-a-vpn = Tenha uma VPN da { -brand-name-mozilla } para celular
 vpn-mobile-looking-for-a = Procura uma VPN para proteger seu dispositivo móvel? O { -brand-name-mozilla-vpn } é respaldado por uma empresa sem fins lucrativos. Saiba como uma VPN protege você e por que deve confiar na { -brand-name-mozilla } para sua privacidade e segurança.
 vpn-mobile-vpn-for-mobile = VPN para dispositivos móveis da { -brand-name-mozilla }
-vpn-mobile-why-do-i = Por que preciso de uma VPN para celular?
+vpn-mobile-why-do-i = Por que preciso de uma VPN no celular?
 vpn-mobile-the-mozilla-vpn = O aplicativo para dispositivos móveis { -brand-name-mozilla-vpn } é leve, não consome muita memória e não deixa o celular mais lento nem esgota a bateria.
 vpn-mobile-your-internet-v2 = Seu provedor de serviços de internet pode limitar sua largura de banda se souber que você está assistindo a filmes, ouvindo música ou fazendo streaming.
 # Obsolete string
