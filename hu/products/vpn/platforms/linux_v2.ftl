@@ -34,7 +34,7 @@ vpn-linux-if-you-use-v2 = Ha a támogatott Ubuntu kiadások egyikét használja,
 vpn-linux-if-you-use = Ha a támogatott Ubuntu kiadások egyikét használja, akkor két módja van az <a { $attrs }>launchpaden található hivatalos mozillavpn csomagok telepítésének:</a>
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
-vpn-linux-ubuntu-command = <strong>Ubuntu parancssori mód:</strong> A { -brand-name-mozilla-vpn } parancssori eszközökkel történő telepítéséhez <a ${ $attrs }>A { -brand-name-mozilla-vpn } telepítése linuxos számítógépen</a> leírásban talál részletes utasításokat.
+vpn-linux-ubuntu-command = <strong>Ubuntu parancssori mód:</strong> A { -brand-name-mozilla-vpn } parancssori eszközökkel történő telepítéséhez <a { $attrs }>A { -brand-name-mozilla-vpn } telepítése linuxos számítógépen</a> leírásban talál részletes utasításokat.
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
 vpn-linux-ubuntu-graphical = <strong>Ubuntu grafikus felhasználói felület:</strong> Olvassa el <a { $attrs }>ezt a cikket</a>, és kövesse a Személyes csomagarchívumok hozzáadása szakaszban leírt utasításokat.
