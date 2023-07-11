@@ -39,4 +39,12 @@ download-button-firefox-ios = { -brand-name-ios } için <span>{ -brand-name-fire
 download-button-firefox-privacy = { -brand-name-firefox }’ta gizlilik
 download-button-firefox-privacy-notice = { -brand-name-firefox } Gizlilik Bildirimi
 download-button-download = İndir
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name }, { $os_version } ve daha eski sürümlerde <a href="{ $help_url }">artık desteklenmemektedir</a>.
+download-button-please-download-esr = { -brand-name-firefox }’u kullanabilmek için lütfen { -brand-name-firefox-esr }’yi (Genişletilmiş Destek Sürümü) indirin.
 download-firefox-esr = { -brand-name-firefox-esr }’yi indir
+download-firefox-esr-32 = { -brand-name-firefox-esr } 32 bit sürümünü indir
+download-firefox-esr-64 = { -brand-name-firefox-esr } 64 bit sürümünü indir
