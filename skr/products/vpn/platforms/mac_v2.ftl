@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
 
+vpn-mac-get-a-vpn = { -brand-name-mozilla } کنوں macOS کیتے وی پی این گھنو
 vpn-mac-protect-your-mac = { -brand-name-mozilla-vpn } نال آپݨے  Mac دی حفاظت کرو
 vpn-mac-with-mozilla-vpn = { -brand-name-mozilla-vpn } نال تساں کر سڳدے ہو:
