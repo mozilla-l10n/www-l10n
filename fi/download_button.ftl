@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Lataa nyt
 download-button-free-download = Lataa ilmaiseksi
@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name
 download-button-firefox-privacy = { -brand-name-firefox }in tietosuoja
 download-button-firefox-privacy-notice = { -brand-name-firefox(case: "genitive") } tietosuojaseloste
 download-button-download = Lataa
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = Kanava { $channel_name } <a href="{ $help_url }">ei ole enää tuettu</a> käyttöjärjestelmällä { $os_version } ja sitä aiemmilla versioilla.
+download-button-please-download-esr = Lataa { -brand-name-firefox-esr } (Extended Support Release eli laajennettu tukijulkaisu) käyttääksesi { -brand-name-firefox }ia.
+download-firefox-esr = Lataa { -brand-name-firefox-esr }
+download-firefox-esr-32 = Lataa { -brand-name-firefox-esr } 32-bit
+download-firefox-esr-64 = Lataa { -brand-name-firefox-esr } 64-bit
