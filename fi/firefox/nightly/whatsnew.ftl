@@ -16,7 +16,10 @@ nightly-whatsnew-every-6-to-8-weeks = 6–8 viikkon välein julkaistaan uusi pä
 nightly-whatsnew-this-is-a-good = Nyt on hyvä hetki kiittää sinua siitä, että autat meitä parantamaan { -brand-name-firefox }ia, ja antaa sinulle vinkkejä { -brand-name-nightly }n dokumentaatioon, viestintäkanaviin ja uutissivustoihin, jotka voivat olla kiinnostavia.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to-v2 = Jos haluat tietää, mitä { -brand-name-nightly }n ja sen yhteisön ympärillä tapahtuu, lue <a href="{ $blog }">blogi</a> ja seuraa meitä <a href="{ $mastodon }">Mastodonissa</a> tai <a href="{ $twitter }">Twitterissä</a>!
+# Obsolete
 nightly-whatsnew-if-you-want-to = Jos haluat tietää, mitä { -brand-name-nightly }n ja sen yhteisön ympärillä tapahtuu, lue <a href="{ $blog }">blogi</a> ja seuraa meitä <a href="{ $twitter }">{ -brand-name-twitter }</a>issä!
 # Variables:
 #   $attrs (string) - link href and additional attributes
