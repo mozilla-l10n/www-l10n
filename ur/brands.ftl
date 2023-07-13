@@ -84,6 +84,7 @@
 -brand-name-monitor = Monitor
 -brand-name-relay = Relay
 -brand-name-sync = Sync
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
