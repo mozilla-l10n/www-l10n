@@ -12,6 +12,7 @@ firefox-accounts-securely-sync-your = اپنے پاسورڈز، بک مارکس 
 firefox-accounts-enter-your-email-address = شروع کرنے کے لئے اپنا ای میل ایڈریس درج کریں۔
 firefox-accounts-already-have-an-account = کیا پہلے سے ہی ایک اکاؤنٹ ہے؟
 firefox-accounts-sign-in = سائن ان کریں
+firefox-accounts-manage = اپنا اکاؤنٹ منظم کریں
 # Obsolete string
 firefox-accounts-meet-our-family-of = رازداری کی پہلی مصنوعات کے خاندان سے ملیں۔
 # Obsolete string

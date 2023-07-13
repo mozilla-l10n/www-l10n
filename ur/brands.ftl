@@ -83,6 +83,7 @@
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-relay = Relay
+-brand-name-relay-premium = ریلے پریمیم
 -brand-name-sync = Sync
 -brand-name-vpn = VPN
 
@@ -101,6 +102,7 @@
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-glean = Glean
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla ڈویلپر نیٹ ورک
 -brand-name-mozilla-festival = Mozilla فیسٹیول
@@ -108,6 +110,7 @@
 -brand-name-mozilla-labs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mdn-plus = MDN پلس
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
