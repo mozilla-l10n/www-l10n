@@ -46,8 +46,6 @@ navigation-v2-learn-how-each-firefox-product = Ve a savair co mintga product da 
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Creescha novs contos senza tradir tia adressa d'e-mail.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Protegia la connexiun cun l'internet da tes navigatur.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Novas funcziuns e novs utensils per ina experientscha { -brand-name-mdn } persunalisada
 navigation-v2-view-all-products = Vesair tut ils products
@@ -68,6 +66,8 @@ navigation-v2-careers = Lavura cun nus
 navigation-v2-work-for-a-mission-driven-updated = Lavura per ina organisaziun fidaivla a ses princips cun products che correspundan als basegns dals utilisaders.
 navigation-v2-mozilla-blog = Blog da { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Ve a savair dapli davart { -brand-name-mozilla } ed ils temas ch'ans stattan a cor.
+navigation-v2-stories = Istorgias
+navigation-v2-stories-about-how = Istorgias che mussan co nossa glieud e noss products fan dal mund in meglier lieu.
 navigation-v2-more-about-mozilla = Dapli davart { -brand-name-mozilla }
 
 ## Innovation menu
@@ -86,4 +86,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Dà tia vusch per ch'il web da l'avegnir possia udir e chapir ina e mintgin.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Ve a savair dapli dal nov linguatg da nivel bass en stil assembly.
-navigation-v2-more-mozilla-innovation = Dapli innovaziun da { -brand-name-mozilla }

@@ -35,3 +35,6 @@ legal-mozilla-vpn-terms = Cundiziuns d'utilisaziun da { -brand-name-mozilla-vpn 
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Cundiziuns d'utilisaziun da { -brand-name-mdn-plus }
 legal-report-copyright = Annunziar violaziuns dal dretg d'autur e dal dretg da marcas
+legal-hubs = { -brand-name-mozilla-hubs }
+legal-hubs-terms = Cundiziuns d'utilisaziun da { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = Servetschs da { -brand-name-mozilla } sco abunament

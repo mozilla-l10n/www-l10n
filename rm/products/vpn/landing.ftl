@@ -52,7 +52,7 @@ vpn-landing-faq-uses-examples = Dà in'egliada a <a href="{ $url }">tschintg exe
 vpn-landing-faq-info-question-heading = Tge infurmaziuns arcuna { -brand-name-mozilla-vpn }?
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Nus observain strictamain ils <a href="{ $principles }">princips da la protecziun da datas</a> da { -brand-name-mozilla } e nus ramassain las datas necessarias per garantir il funcziunament dal VPN e per optimar cuntinuadamain il product. Nus registrain era datas da campagnas e da recumandaziuns en nossa applicaziun mobila per gidar { -brand-name-mozilla } da chapir l'effect da nossas campagnas da marketing. Ve a savair dapli en nossa <a href="{ $notice }">decleraziun davart la protecziun da datas</a>.
 # Obsolete string
 # Variables:
@@ -105,13 +105,12 @@ vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versiun 6 e versiuns pli actualas)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 e versiuns pli actualas)
+#   $version (number) - minimum supported version number
+vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } e pli nov)
 # Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v2 = <a href="{ $url }">{ -brand-name-ios }</a> (13.0 e versiuns pli actualas)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-ios = { -brand-name-ios } (13.0 e versiuns pli actualas)
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 e versiuns pli actualas)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 e versiuns pli actualas)
@@ -130,11 +129,17 @@ vpn-landing-faq-manage-subscription-question-heading = Co poss jau administrar m
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
 vpn-landing-faq-manage-subscription-question-desc = Sche ti utiliseschas gia { -brand-name-mozilla-vpn } pos ti midar tes plan u <a href="{ $url }">administrar tes abunament</a> da tut temp.
+vpn-landing-faq-download-heading = Co poss jau telechargiar { -brand-name-mozilla-vpn } sche jau hai gia in abunament?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Visita la <a { $attrs }>pagina da telechargiada</a> per installar { -brand-name-mozilla-vpn } sin tes apparat e t'annunzia lura cun agid da tes { -brand-name-firefox-account }.
 vpn-landing-faq-link = Ulteriuras dumondas frequentas
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = T'inscriva en la glista da spetga: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Lascha t'infurmar cura che { -brand-name-mozilla-vpn } stat a disposiziun per tia regiun.
+# Outdated string
 vpn-landing-invite-page-desc = Lascha t'infurmar cura che { -brand-name-mozilla-vpn } stat a disposiziun per tes apparat e per tia regiun.
 vpn-landing-invite-page-heading = T'inscriva en la glista da spetga per VPN
 vpn-landing-invite-email-label = Tgenina è tia adressa dad e-mail?
@@ -143,17 +148,8 @@ vpn-landing-invite-required-label = Obligatoric
 vpn-landing-invite-email-placeholder = tes.num@example.com
 vpn-landing-invite-country-label = En tge pajais vivas ti?
 vpn-landing-invite-language-label = Tscherna tia lingua preferida.
-vpn-landing-invite-platform-label = Tge plattafurmas t'interesseschan?
-vpn-landing-invite-platform-windows = { -brand-name-windows } 10/11
-# Outdated string
-vpn-landing-invite-platform-windows-10 = { -brand-name-windows } 10
-vpn-landing-invite-platform-ios = { -brand-name-ios }
-vpn-landing-invite-platform-android = { -brand-name-android }
-vpn-landing-invite-platform-mac = { -brand-name-mac-short }
-vpn-landing-invite-platform-chromebook = { -brand-name-chromebook }
-vpn-landing-invite-platform-linux = { -brand-name-linux }
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-invite-privacy-policy = Cun cliccar sin «S'inscriver en la glista da spetga» acceptas ti nossa <a href="{ $privacy }">decleraziun davart la protecziun da datas</a>.
 vpn-landing-invite-your-information = Tias datas vegnan sulettamain utilisadas per t'infurmar davart la disponibilitad da la plattafurma.
 vpn-landing-invite-thanks-heading = Grazia fitg! Ti es sin la glista

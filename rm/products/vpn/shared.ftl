@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = Installar { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = T'inscriva en la glista da spetga
 vpn-shared-sign-in-link = Gia abunent?
 # Outdated string
-vpn-shared-available-countries-v4 = Nus purschain { -brand-name-mozilla-vpn } actualmain en l'Austria, en la Belgia, en il Canada, en Frantscha, en Germania, en l'Irlanda, en l'Italia, en la Malaisia, en ils Pajais Bass, en la Nova Zelanda, en il Singapur, en Spagna, en Svizra, en il Reginavel Unì ed en ils Stadis Unids da l'America.
 vpn-shared-available-countries-v5 = Nus purschain { -brand-name-mozilla-vpn } actualmain en l'Austria, en la Belgia, en il Canada, en la Finlanda, en Frantscha, en Germania, en l'Irlanda, en l'Italia, en la Malaisia, en ils Pajais Bass, en la Nova Zelanda, en il Singapur, en Spagna, en Svezia, en Svizra, en il Reginavel Unì ed en ils Stadis Unids da l'America.
+vpn-shared-available-countries-v6 = Nus purschain actualmain { -brand-name-mozilla-vpn } en: Austria, Belgia, Bulgaria, Canada, Croazia, Cipra, Republica Tscheca, Danemarc, Estonia, Finlanda, Frantscha, Germania, Ungaria, Irlanda, Italia, Lettonia, Lituania, Luxemburg, Malaisia, Malta, Pajais Bass, Nova Zelanda, Pologna, Portugal, Rumenia, Singapur, Slovenia, Slovachia, Spagna, Svezia, Svizra, Gronda Britannia ed USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Garanzia da restituziun da 30 dis
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -60,20 +60,28 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } è ina marca registra
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Tscherna l'abunament il pli adattà per tai
-# Outdated string
-vpn-shared-pricing-variable-heading = Tscherna il plan il pli adattà per tai
+vpn-shared-one-subscription-heading = In abunament per tuts tes apparats
+vpn-shared-choose-a-plan-sub-heading = Tscherna il plan il pli adattà per tai
 vpn-shared-pricing-variable-sub-heading = Tut noss plans includan:
 vpn-shared-pricing-recommended-offer = Recumandà
-vpn-shared-pricing-plan-6-month = 6 mais
+vpn-shared-pricing-plan-12-month-v2 = Plan annual
+# Outdated string
 vpn-shared-pricing-plan-12-month = 12 mais
+vpn-shared-pricing-plan-monthly-v2 = Plan mensil
+# Outdated string
 vpn-shared-pricing-plan-monthly = Mensil
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/mais</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mais + taglia</span>
 # Outdated string
 vpn-shared-pricing-get-6-month = Tscherner il plan da 6 mais
 # Outdated string
 vpn-shared-pricing-get-12-month = Tscherner il plan da 12 mais
+# Outdated string
 vpn-shared-pricing-get-6-month-v2 = Tscherner il plan da 6 mais
 vpn-shared-pricing-get-12-month-v2 = Tscherner il plan da 12 mais
 vpn-shared-pricing-get-monthly = Tscherner il plan mensil
@@ -89,6 +97,10 @@ vpn-shared-when-you-subscribe = *sche ti abuneschas per in onn
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } en total
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = { $amount } en total + taglia
 
 # Platform subpage shared strings
 
@@ -116,6 +128,9 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Tge è in'adressa IP?
 vpn-subnav-when-to-use-a-vpn = Cura utilisar in VPN
 vpn-subnav-vpn-vs-proxy = Cumparegliaziun da VPN e proxy
+vpn-subnav-subscribe = Abunescha { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Ulteriuras infurmaziuns davart VPNs
+vpn-subnav-download-mozilla-vpn = Telechargiar { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
@@ -124,6 +139,23 @@ vpn-subnav-vpn-vs-proxy = Cumparegliaziun da VPN e proxy
 vpn-shared-affiliate-notification-message = Nus utilisain cookies per intervegnir tge partenari affilià che ha manà tai tar { -brand-name-mozilla-vpn }. Nus na cundividain naginas infurmaziuns che pon t'identifitgar persunalmain cun noss partenaris. Legia nossas <a { $attrs }>directivas davart la protecziun da datas</a>.
 vpn-shared-affiliate-notification-reject = Refusar
 vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Augmenta la protecziun da tias datas cun { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Agiuntescha { -brand-name-firefox-relay } a tes abunament per proteger tia adressa dad e-mail e tes numer da telefon. <a href="{ $url }">Ulteriuras infurmaziuns</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Agiuntar <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Alias dad e-mail
+vpn-shared-relay-phone-masking = Alias per numers da telefon
+vpn-shared-get-vpn-plus-relay = Ir per { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Pertge omadus?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Spargna { $percent }%</span> sin l'abunament annual da { -brand-name-relay-premium }
 
 ##
 

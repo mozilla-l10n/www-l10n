@@ -5,9 +5,13 @@
 newsletter-form-please-enter-a-valid = Endatescha p.pl. ina adressa d'e-mail valida
 newsletter-form-you-must-agree-to = Ti stos acceptar las directivas da la protecziun da datas
 newsletter-form-your-email-address = Tia adressa d'e-mail
+newsletter-form-we-are-sorry-but-there = Quai ans displascha, ma igl ha dà in problem cun noss sistem. Emprova per plaschair pli tard anc ina giada.
+newsletter-form-please-select-country = Tscherna p.pl. in pajais u ina regiun
+newsletter-form-please-select-language = Tscherna p.pl. ina lingua
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = tes_num@example.com
 newsletter-form-select-country-or-region = Tscherner il pajais u la regiun
+newsletter-form-select-language = Tscherner la lingua
 newsletter-form-your-email-here = ENDATAR TIA ADRESSA D'E-MAIL
 newsletter-form-format = Format
 newsletter-form-html = HTML
