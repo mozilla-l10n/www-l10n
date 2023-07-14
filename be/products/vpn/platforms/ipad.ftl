@@ -8,3 +8,4 @@
 vpn-ipad-vpn-for = VPN для iOS/iPad ад { -brand-name-mozilla }
 vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn } — гэта сэрвіс віртуальнай прыватнай сеткі, які шыфруе ваш інтэрнэт-трафік і хавае ваш IP-адрас.
 vpn-ipad-with-mozilla-vpn = З { -brand-name-mozilla-vpn } вы можаце атрымаць:
+vpn-ipad-protection-for-up-to = <strong>Ахову да 5 прылад:</strong> выкарыстоўвайце { -brand-name-mozilla-vpn } на сваім iPad і да чатырох іншых прылад з адной падпіскай. Вы таксама можаце выкарыстоўваць яго ў Windows, macOS, Linux, iPhone і Android.
