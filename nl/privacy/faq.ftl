@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = De volgende vragen en antwoorden zoude
 privacy-faq-i-use-firefox-for-almost-everything = Ik gebruik { -brand-name-firefox } voor bijna alles op het web. Jullie bij { -brand-name-mozilla } moeten wel heel veel over mij weten, nietwaar?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, de webbrowser die op uw apparaat of computer werkt, is uw toegangspoort naar het internet. Uw browser beheert veel informatie over de websites die u bezoekt, maar die informatie blijft op uw apparaat. { -brand-name-mozilla }, het bedrijf dat { -brand-name-firefox } maakt, verzamelt deze informatie niet (tenzij u ons vraagt dit te doen).
 privacy-faq-really-you-dont-collect-my-browsing = Verzamelen jullie mijn browsergeschiedenis echt niet?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } weet niet zo veel over hoe mensen op het web surfen als u zou verwachten. Als browsermaker is dat eigenlijk een grote uitdaging voor ons. Daarom hebben we optionele hulpmiddelen gebouwd, waarmee geïnteresseerde gebruikers ons inzichten over hun surfgedrag kunnen geven. Als u uw browsergeschiedenis tussen { -brand-name-firefox }-installaties synchroniseert, weten we niet wat die geschiedenis is – omdat deze door uw apparaat wordt versleuteld.
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } weet niet zo veel over hoe mensen op het web surfen als dat u zou verwachten. Als browsermaker is dat eigenlijk een grote uitdaging voor ons. Daarom hebben we optionele hulpmiddelen gebouwd, zoals <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, waarmee geïnteresseerde gebruikers ons inzichten over hun surfgedrag kunnen geven. Als u uw browsergeschiedenis tussen { -brand-name-firefox }-installaties synchroniseert, weten we niet wat die geschiedenis is - omdat deze door uw apparaat wordt versleuteld.
@@ -30,6 +32,7 @@ privacy-faq-wait-so-how-do-you-make-money = Wacht, hoe verdienen jullie dan geld
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } is geen gemiddelde organisatie. { -brand-name-mozilla } is in 1998 opgericht als een door de gemeenschap onderhouden opensourceproject en een door een missie gedreven organisatie die naar een gezonder internet toewerkt. De meerderheid van de inkomsten van de { -brand-name-mozilla-corporation } is afkomstig van royalty’s die via partnerverbanden met zoekmachines in de { -brand-name-firefox }-browser en distributieovereenkomsten over de hele wereld worden verkregen. Meer informatie over hoe we geld verdienen kunt u vinden in ons <a href="{ $link }">financieel jaarverslag</a>.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Goed, de eerste vragen waren gemakkelijk. Welke gegevens verzamelen jullie?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
