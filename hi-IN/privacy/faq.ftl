@@ -23,6 +23,7 @@ privacy-faq-i-use-firefox-for-almost-everything = वेब पर लगभग 
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, वेब ब्राउज़र जो आपके डिवाइस या कंप्यूटर पर चलता है, इंटरनेट तक पहुँचने के लिए आपका साधन है। आपका ब्राउज़र जिस वेबसाइट को आप देखते हैं उसकी काफ़ी सारी जानकारियाँ संभालता है, पर वो जानकारियाँ आपकी डिवाइस पर ही रहती हैं। { -brand-name-firefox } बनाने वाली कंपनी { -brand-name-mozilla } यह जानकारियाँ इकट्ठा नहीं करती (जब तक आप हमसे ऐसा करने को ना कहें)।
 privacy-faq-really-you-dont-collect-my-browsing = सचमुच, आप मेरे ब्राउज़िंग इतिहास को इकट्ठा नहीं करते?
 
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } वेब ब्राउज़ करने वाले लोगों के बारे में उतना नहीं जानता जितना कि उम्मीद की जाती है। एक ब्राउज़र बनाने वाली कंपनी के रूप में, हमारे लिए यह काफ़ी कठिन है। इसीलिए हमने <a href="{ $link }">{ -brand-name-firefox } पायनियर</a> जैसे ऑप्ट-इन टूल बनाए हैं, जो इच्छुक उपयोगकर्ताओं को अपने वेब ब्राउज़िंग के व्यवहार के बारे में अंदरूनी बातें बताने की अनुमति देता है। यदि आप अपने ब्राउज़िंग इतिहास को { -brand-name-firefox } इंस्टॉलेशन में सिंक करते हैं, तो हमें नहीं पता कि वह इतिहास क्या है — क्योंकि यह आपके डिवाइस द्वारा एन्क्रिप्ट किया गया है।

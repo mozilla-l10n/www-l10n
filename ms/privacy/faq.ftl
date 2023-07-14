@@ -23,6 +23,7 @@ privacy-faq-i-use-firefox-for-almost-everything = Saya menggunakan { -brand-name
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, pelayar web yang berjalan pada peranti atau komputer anda adalah gerbang anda ke internet. Pelayar anda akan menguruskan banyak maklumat tentang laman web yang anda kunjungi, tapi maklumat itu kekal di dalam peranti anda. { -brand-name-mozilla }, syarikat yang membangunkan { -brand-name-firefox }, tidak mengumpulnya (melainkan jika anda yang memintanya).
 privacy-faq-really-you-dont-collect-my-browsing = Betul ke, awak tidak mengumpulkan sejarah pelayaran saya?
 
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } tidak tahu sebanyak yang anda jangkakan tentang bagaimana pengguna melayari internet. Sebagai pembangun pelayar, ia adalah sesuatu yang mencabar bagi kami. Sebab itulah kami membangunkan alatan-pilih-masuk, seperti <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, yang membenarkan pengguna yang berminat untuk memberikan kami wawasan ke dalam pelayaran internet mereka. Jika anda menyelaraskan sejarah pelayaran anda pada keseluruhan pemasangan { -brand-name-firefox }, kami tidak tahu sejarahnya — kerana ia dienkripsi oleh peranti anda.

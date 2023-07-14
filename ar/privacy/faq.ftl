@@ -23,6 +23,7 @@ privacy-faq-i-use-firefox-for-almost-everything = استخدم { -brand-name-fir
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }، متصفح الويب الذي يعمل على جهازك أو جهاز الكمبيوتر الخاص بك، هو بوابتك إلى الإنترنت. سيُدير مُتصفحك الكثير من المعلومات حول مواقع الويب التي تزورها، لكن هذه المعلومات تبقى على جهازك. شركة { -brand-name-mozilla }، وهي الشركة التي تطور { -brand-name-firefox }، لا تجمع أي معلومات (ما لم تأذن لنا بذلك).
 privacy-faq-really-you-dont-collect-my-browsing = أتمزح معي، أحقا لا تجمعون محفوظات تصفُّحي على الشبكة؟
 
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } لا يعرف قدر ما تتوقعه حول كيفية تصفّح الأشخاص للويب. بصفتنا الجهة المُطورة للمُتصفح، فإن هذا في الواقع يُمثل تحديًا كبيرًا لنا. لهذا السبب قُمنا ببناء أدوات الاختيار، مثل <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>، والتي تسمح للمستخدمين المُهتمين بإعطائنا نظرة ثاقبة على تصفح الويب الخاص بهم. إذا قُمت بمُزامنة سِجل التصفح الخاص بك من خلال عمليات تثبيت { -brand-name-firefox }، نحن لا نعرف ما هي هذه المحفوظات — لأنها مُشفرة بواسطة جهازك.

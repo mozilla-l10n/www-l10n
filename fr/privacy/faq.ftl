@@ -23,6 +23,7 @@ privacy-faq-i-use-firefox-for-almost-everything = J’utilise { -brand-name-fire
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, le navigateur web que vous utilisez sur votre appareil ou ordinateur, est ce qui vous permet de surfer sur Internet. Votre navigateur gère de nombreuses informations sur les sites que vous visitez, mais ces informations restent sur vos appareils. { -brand-name-mozilla }, l’entreprise qui développe { -brand-name-firefox }, ne collecte pas ces données (à moins que vous nous le demandiez).
 privacy-faq-really-you-dont-collect-my-browsing = Vous ne récupérez vraiment pas mon historique de navigation ?
 
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } n’en sait pas autant que vous le pensez sur les habitudes de navigation des internautes. À vrai dire, en tant qu’éditeur de navigateur, c’est un défi majeur pour nous. C’est pourquoi nous avons conçu des outils basés sur le choix volontaire, tels que <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, qui permettent aux utilisateurs et utilisatrices qui le souhaitent de nous donner un aperçu de leurs habitudes de navigation. Lorsque vous synchronisez votre historique de navigation entre différentes installations { -brand-name-firefox }, nous n’y avons pas accès, car il est chiffré sur votre appareil.

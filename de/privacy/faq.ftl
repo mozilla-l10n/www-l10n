@@ -23,6 +23,7 @@ privacy-faq-i-use-firefox-for-almost-everything = Ich nutze { -brand-name-firefo
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, der Browser, der auf Ihrem Geräte oder Computer läuft, ist Ihr Tor ins Internet. Ihr Browser verwaltet eine Menge Informationen über die Websites, die Sie besuchen, aber diese Informationen bleiben auf Ihrem Gerät. { -brand-name-mozilla }, das Unternehmen, das { -brand-name-firefox } entwickelt, sammelt diese Daten nicht (es sei denn, Sie möchten das).
 privacy-faq-really-you-dont-collect-my-browsing = Sie sammeln meine Surf-Chronik wirklich nicht?
 
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } weiß nicht so viel darüber, wie Menschen durch das Internet browsen, wie Sie vielleicht denken. Als Entwickler eines Browsers ist das tatsächlich eine große Herausforderung für uns. Deshalb haben wir Tools entwickelt, mit denen Sie bestimmte Funktionen aktivieren können, wie z. B. <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>. Das Tool ermöglicht es interessierten Nutzern, uns Einblicke in Ihr Browsingverhalten zu geben. Wenn Sie Ihren Browserverlauf über { -brand-name-firefox }-Installationen hinweg synchronisieren, kennen wir diesen Verlauf nicht – er wird von Ihrem Gerät verschlüsselt.
