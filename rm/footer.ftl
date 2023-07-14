@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Il manifest da { -brand-name-mozilla }
@@ -68,7 +68,9 @@ footer-language = Lingua
 footer-go = Dai
 footer-donate = Far ina donaziun
 footer-twitter = { -brand-name-twitter }
+footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-linkedin = { -brand-name-linkedin }
 footer-follow-mozilla = Suandar @{ -brand-name-mozilla }
 footer-follow-firefox = Suandar @{ -brand-name-firefox }
