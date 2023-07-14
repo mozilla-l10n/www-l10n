@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = Las preguntas y respuestas siguientes 
 privacy-faq-i-use-firefox-for-almost-everything = Uso { -brand-name-firefox } para casi todo lo que hago en la web. En { -brand-name-mozilla } deben saber un montón sobre mi, ¿cierto?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, el navegador que funciona en tu dispositivo o computadora, es tu puerta de salida a internet. Tu navegador manejará mucha información acerca de los sitios que visitás, pero esa información queda en tu dispositivo. { -brand-name-mozilla }, la compañía que hace { -brand-name-firefox }, no la guarda (salvo que vos nos lo pidas).
 privacy-faq-really-you-dont-collect-my-browsing = ¿En serio?¿Ustedes no guardan mi historial de navegación?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } no sabe todo lo que cabría esperar sobre cómo la gente navega la web. Como creadores de navegadores, eso es realmente un gran desafío para nosotros. Es por eso que hemos creado herramientas de inclusión voluntaria, que permiten a los usuarios interesados darnos información sobre su navegación web. Si sincronizás tu historial de navegación entre las instalaciones de { -brand-name-firefox }, no sabemos cuál es ese historial porque está cifrado por tu dispositivo.
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } no conoce tanto como podrías esperar acerca de cómo las personas navegan la web. Como una organización que hace un navegador, ese es un gran desafío para nosotros. Es por eso que creamos herramientas que tenés que decidir utilizar, como <a href="{ $link }">{ -brand-name-firefox } Pionner</a>, que permite que los usuarios interesados nos den pistas sobre su navegación web. Si sincronizás tu historial de navegación entre diferentes instalaciones de { -brand-name-firefox }, nosotros no conocemos ese historial, porque fue cifrado por tu dispositivo.
@@ -30,6 +32,7 @@ privacy-faq-wait-so-how-do-you-make-money = Un momento, ¿entonces cómo es que 
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } no es una organización corriente. Fundada como un proyecto de comunidad de comunidad de código abierto en 1998, { -brand-name-mozilla } es una organización guiada por una misión que trabaja por una Internet más saludable. La mayor parte de los ingresos de la { -brand-name-mozilla-corporation } proviene de las regalías ganadas a través de sociedades con buscadores usados por { -brand-name-firefox } y acuerdos de distribución en todo el mundo. Podés saber más acerca de cómo hacemos nuestro dinero en nuestro informe anual de finanzas <a href="{ $link }"></a>.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Muy bien, las primeras fueron fáciles. ¿Qué datos recolectan?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
