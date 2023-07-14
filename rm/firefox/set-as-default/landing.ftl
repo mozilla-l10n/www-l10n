@@ -14,6 +14,7 @@ set-as-default-landing-thanks-for-using-the = Grazia che ti utiliseschas il navi
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = Fa la segira che ti es protegì, adina cura che ti es en l'internet
 set-as-default-landing-you-should-get = Ti duessas pudair cundecider sch'i va per tia moda da navigar
+set-as-default-landing-if-you-recently = Sche ti has dacurt actualisà tes computer, èn tes parameters eventualmain sa midads. Sustegna in internet liber ed avert – mintga giada che ti es online cun { -brand-name-firefox }.
 set-as-default-landing-choose-automatic-privacy = Tscherna la protecziun da datas automatica
 set-as-default-landing-companies-keep-finding = Firmas chattan adina novas vias per vegnir a tias datas persunalas. { -brand-name-firefox } è il navigatur che dat tut per chattar novas vias per ta proteger.
 set-as-default-landing-choose-freedom-on-every = Ta decida per la libertad sin tuts tes apparats

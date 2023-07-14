@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = Nagins secrets
 firefox-privacy-hub-youll-always-know-where-you = Da nus ta pos ti fidar, nus essan adina transparents
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Nus n'avain naginas intenziuns zuppadas. Noss model da fatschenta na sa basa betg sin l'abus da tia confidenza. Nossas <a href="{ $privacy }">Infurmaziuns davart la protecziun da datas</a> è formulada cler e net. Sche ti vulessas vegnir a savair mintga detagl davart las datas che nus ramassain – noss code è avert. E nus era.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Nus n'avain naginas intenziuns zuppadas. Noss model da fatschenta na sa basa betg sin l'abus da tia confidenza. Nossa <a href="{ $privacy }">decleraziun da la protecziun da datas</a> è formulada cler e net. Mintgin en tut il mund ha la pussaivladad da sa participar a nossas <a href="{ $meetings }">sesidas da fatschenta emnilas</a>. Sche ti vulessas vegnir a savair tut davart las datas che nus ramassain – noss code è uschè avert sco nus.
 firefox-privacy-hub-why-trust-firefox = Pertge pos ti sa fidar da { -brand-name-firefox }?

@@ -67,12 +67,9 @@ does-firefox-use = Utilisescha { -brand-name-firefox } { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } è la maschina da tschertgar da standard en { -brand-name-firefox }. Quai munta che ti pos far retschertgas en il web directamain via la trav d'adressas. <a href="{ $url }">T'infurmescha davart las preferenzas da la maschina da tschertgar e la modificaziun da configuraziuns predefinidas.</a>
 does-firefox-have = Ha { -brand-name-firefox } ina VPN integrada?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } na dispona betg dad in VPN (virtual private network) integrà, ma i dat dus products da { -brand-name-mozilla }/{ -brand-name-firefox } che ti pos utilisar supplementarmain cun il navigatur { -brand-name-firefox-browser } per proteger ubain tes navigatur (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) u tia colliaziun da WLAN (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) da tes apparat, sco era tia adressa IP.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } na dispona betg dad in VPN (virtual private network) integrà, ma { -brand-name-mozilla } porscha in product cun il num <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> che ti pos utilisar supplementarmain sper il navigatur discret { -brand-name-firefox-browser }. Questa purschida protegia tia connexiun via WLAN, sco era tia adressa IP.
 related-questions-ip = Dumondas sumegliantas: Zuppenta { -brand-name-firefox } tia adressa IP?
 who-owns-firefox = Tgi è il proprietari da { -brand-name-firefox }?
 
