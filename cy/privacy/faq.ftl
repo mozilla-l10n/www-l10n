@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = Dylai'r cwestiynau a'r atebion canlyno
 privacy-faq-i-use-firefox-for-almost-everything = Rwy'n defnyddio { -brand-name-firefox } ar gyfer bron pob peth ar y We. Rhaid eich bod chi ym { -brand-name-mozilla }'n gwybod y cyfan amdana i?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, y porwr gwe sy'n rhedeg ar eich dyfais neu gyfrifiadur, yw eich porth i'r rhyngrwyd. Bydd eich porwr yn rheoli llawer o wybodaeth am y gwefannau fyddwch chi'n mynd iddyn nhw, ond mae'r wybodaeth yna'n aros ar eich dyfais. Nid yw { -brand-name-mozilla }, y cwmni sy'n gwneud { -brand-name-firefox }, yn ei gasglu (oni bai eich bod wedi gofyn i ni wneud hynny).
 privacy-faq-really-you-dont-collect-my-browsing = Wir, ddim hyd yn oed casglu fy hanes pori?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = Nid yw { -brand-name-mozilla } yn gwybod cymaint ag y byddech yn ei ddisgwyl am sut mae pobl yn pori'r we. Fel gwneuthurwr porwr, mae hynny mewn gwirionedd yn her fawr i ni. Dyna pam rydyn ni wedi adeiladu offer optio i mewn, sy'n caniatáu i ddefnyddwyr sydd â diddordeb roi cipolwg i ni ar eu pori gwe. Os ydych yn cysoni eich hanes pori ar draws gosodiadau { -brand-name-firefox }, nid ydym yn gwybod beth yw'r hanes hwnnw - oherwydd ei fod wedi'i amgryptio gan eich dyfais.
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = Dyw { -brand-name-mozilla } ddim yn gwybod gymaint ag y byddech chi'n ei ddisgwyl am sut mae pobl yn pori'r we. Fel gwneuthurwyr porwyr, dyna mewn gwirionedd yn her fawr i ni. Dyna pam rydym wedi adeiladu offer optio i mewn, fel <a href="{ $link }">Arloeswr { -brand-name-firefox }</a>, sy'n caniatáu i ddefnyddwyr sydd â diddordeb i roi cipolwg i ni o'u pori ar y we. Os ydych yn cydweddu eich hanes pori ar draws pob gosodiadau { -brand-name-firefox }, fyddwn ni ddim yn gwybod beth yw'r hanes hwnnw - gan ei fod wedi'i hamgryptio gan eich dyfais.
