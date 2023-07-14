@@ -15,3 +15,6 @@ welcome-page14-copy-code = Copiar il code
 welcome-page14-code-copied = Copià il code!
 welcome-page14-very-fast = Igl è spert, fitg spert!
 welcome-page14-wireguard-powered = Noss servers cun tecnologia { -brand-name-wireguard }® èn concepids per esser svelts. Uschia pos ti streamar, telechargiar e giugar sco usità.
+welcome-page14-without-trace = Navighescha senza laschar fastizs
+welcome-page14-never-log = Nus ni registrain ni fastizain ni cundividain tias datas da rait – tias activitads online na laschan naginas improntas sin noss servers VPN.
+welcome-page14-why-see-this = Pertge ves jau quai?
