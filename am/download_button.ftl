@@ -39,3 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> ለ{ -brand-n
 download-button-firefox-privacy = { -brand-name-firefox } ግላዊነት
 download-button-firefox-privacy-notice = { -brand-name-firefox } የግላዊነት ማስታወቂያ
 download-button-download = አውርድ
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } በ{ $os_version } እና በታች ላይ <a href="{ $help_url }">ከአሁን በኋላ አይደገፍም</a>።
+download-button-please-download-esr = { -brand-name-firefox }ን ለመጠቀም እባክዎ { -brand-name-firefox-esr }ን (የተራዘመ የድጋፍ ልቀትን) ያውርዱ።
+download-firefox-esr = { -brand-name-firefox-esr }ን አውርድ
+download-firefox-esr-32 = { -brand-name-firefox-esr } 32-ቢት አውርድ
+download-firefox-esr-64 = { -brand-name-firefox-esr } 64-ቢት አውርድ
