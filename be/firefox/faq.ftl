@@ -67,12 +67,9 @@ does-firefox-use = Ці выкарыстоўвае { -brand-name-firefox } { -br
 
 firefoxs-default-search = { -brand-name-google } — прадвызначаная пошукавая сістэма ў { -brand-name-firefox }, што азначае, што вы можаце шукаць у Інтэрнэце наўпрост з адраснага радка. <a href="{ $url }">Падрабязней пра налады пошукавых сістэм і змяненне прадвызначаных налад.</a>
 does-firefox-have = Ці мае { -brand-name-firefox } убудаваны VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } не мае ўбудаванага VPN (віртуальнай прыватнай сеткі), але ёсць два прадукты, зробленыя { -brand-name-mozilla }/{ -brand-name-firefox }, якія вы можаце выкарыстоўваць у дадатак да прыватнага { -brand-name-firefox-browser }, якія могуць абараніць як ваш браўзер (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>), так і падключэнне прылады (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) праз Wi-Fi, а таксама ваш IP-адрас.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } не мае ўбудаванага VPN (віртуальнай прыватнай сеткі), але { -brand-name-mozilla } стварае прадукт пад назвай <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, які вы можаце выкарыстоўваць у дадатак да прыватнага { -brand-name-firefox-browser }, які можа абараніць ваша падключэнне праз Wi-Fi, а таксама ваш IP-адрас.
 related-questions-ip = Звязаныя пытанні: ці хавае { -brand-name-firefox } ваш IP-адрас
 who-owns-firefox = Каму належыць { -brand-name-firefox }?
 
