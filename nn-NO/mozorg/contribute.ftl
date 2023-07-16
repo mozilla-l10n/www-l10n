@@ -44,7 +44,7 @@ contribute-opportunities = Nyheiter og frivillige moglegheiter
 
 ## Made by
 
-contribute-made-by-heading = Laga av eldfulle folk som deg
+contribute-made-by-heading = Laga av eldsjeler som deg
 contribute-made-by-desc = Når du bidrar til { -brand-name-mozilla } blir du ein del av eit verdsomspennande fellesskap av folk frå heile verda som trur at vi alle har ei rolle i å sikre at internett blir verande ein styrke for godt.
 contribute-made-by-desc-cont = Vi trur at fellessamarbeid er avgjerende for å skape eit internett som er mangfaldig, innovativt og ansvarleg for dei folka som treng det mest. Anten du har ein bakgrunn i teknikk, fellesskapsorganisering, eller berre har ei datamaskin og litt ledig tid, kan du hjelpe oss med å gjere internett til ein betre stad.
 
