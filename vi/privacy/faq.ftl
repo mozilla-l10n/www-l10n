@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = Các câu hỏi và câu trả lời s
 privacy-faq-i-use-firefox-for-almost-everything = Tôi sử dụng { -brand-name-firefox } cho hầu hết mọi thứ trên Web. Các bạn ở { -brand-name-mozilla } phải biết rất nhiều thứ về tôi, phải không?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, trình duyệt web chạy trên thiết bị hoặc máy tính của bạn, là cổng vào internet của bạn. Trình duyệt của bạn sẽ quản lý rất nhiều thông tin về các trang web bạn truy cập, nhưng thông tin đó vẫn còn trên thiết bị của bạn. { -brand-name-mozilla }, công ty sản xuất { -brand-name-firefox }, sẽ không thu thập nó (trừ khi bạn yêu cầu chúng tôi).
 privacy-faq-really-you-dont-collect-my-browsing = Thực sự, bạn không thu thập lịch sử duyệt web của tôi?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } không biết nhiều như bạn mong đợi về cách mọi người duyệt web. Là một nhà sản xuất trình duyệt, đó thực sự là một thách thức lớn đối với chúng tôi. Đó là lý do tại sao chúng tôi đã xây dựng các công cụ chọn tham gia, cho phép người dùng quan tâm cung cấp cho chúng tôi cái nhìn sâu sắc về trình duyệt web của họ. Nếu bạn đồng bộ hóa lịch sử duyệt web của mình trên các bản cài đặt { -brand-name-firefox }, chúng tôi sẽ không biết lịch sử đó là gì — bởi vì nó được mã hóa bởi thiết bị của bạn.
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } không biết nhiều như bạn mong đợi về cách mọi người duyệt web. Là một nhà sản xuất trình duyệt, đó thực sự là một thách thức lớn đối với chúng tôi. Đó là lý do tại sao chúng tôi đã xây dựng các công cụ chọn tham gia, chẳng hạn như <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, cho phép người dùng quan tâm cung cấp cho chúng tôi cái nhìn sâu sắc về trình duyệt web của họ. Nếu bạn đồng bộ hóa lịch sử duyệt web của mình trên các bản cài đặt { -brand-name-firefox }, chúng tôi sẽ không biết lịch sử đó là gì - bởi vì nó được mã hóa bởi thiết bị của bạn.
