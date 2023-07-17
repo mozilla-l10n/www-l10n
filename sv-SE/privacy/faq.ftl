@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = Följande frågor och svar ska hjälpa
 privacy-faq-i-use-firefox-for-almost-everything = Jag använder { -brand-name-firefox } för nästan allt på webben. Ni på { -brand-name-mozilla } måste veta en hel del om mig, eller hur?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, webbläsaren som körs på din enhet eller dator, är din gateway till internet. Din webbläsare hanterar mycket information om de webbplatser du besöker, men den informationen finns kvar på din enhet. { -brand-name-mozilla }, företaget som gör { -brand-name-firefox }, samlar inte in denna information (om du inte begär det).
 privacy-faq-really-you-dont-collect-my-browsing = Verkligen, sparar ni inte min surfhistorik?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } vet inte så mycket som du kan förvänta dig om hur människor surfar på nätet. Som webbläsartillverkare är det faktiskt en stor utmaning för oss. Det är därför vi har inbyggda verktyg som gör att intresserade användare kan ge oss inblick i deras webbsurfning. Om du synkroniserar din webbhistorik mellan flera { -brand-name-firefox }-installationer vet vi inte vad den historiken är — eftersom den är krypterad av din enhet.
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } vet inte så mycket som du kan förvänta dig om hur människor surfar på webben. Som utvecklare av en webbläsare är det faktiskt en stor utmaning för oss. Därför har vi byggt ett opt-in verktyg, som <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, vilket gör det möjligt för intresserade användare att ge oss inblick i deras webbsurfning. Om du synkroniserar din surfhistorik mellan { -brand-name-firefox }-installationer, vet vi inte vad den här historiken innehåller - eftersom den är krypterad av din enhet.
@@ -30,6 +32,7 @@ privacy-faq-wait-so-how-do-you-make-money = Vänta, så hur tjänar ni pengar?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } är inget vanligt företag. { -brand-name-mozilla } grundades 1998 som ett open source-projekt och är ett uppdragsinriktat företag som arbetar mot ett mer hälsosamt internet. De flesta av { -brand-name-mozilla-corporation }s intäkter är från royalties som erhålls genom { -brand-name-firefox }-webbläsares sökpartnerskap och distributionsavtal runt om i världen. Du kan lära dig mer om hur vi tjänar pengar i vår <a href="{ $link }">årsredovisning</a>.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ok, det var de enkla frågorna. Vilka uppgifter samlar ni in?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
