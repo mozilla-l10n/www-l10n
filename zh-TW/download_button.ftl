@@ -48,3 +48,4 @@ download-button-please-download-esr = 請下載 { -brand-name-firefox-esr }（Ex
 download-firefox-esr = 下載 { -brand-name-firefox-esr }
 download-firefox-esr-32 = 下載 { -brand-name-firefox-esr } 32 位元版本
 download-firefox-esr-64 = 下載 { -brand-name-firefox-esr } 64 位元版本
+download-a-different-build = 下載不同的編譯版本
