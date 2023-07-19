@@ -48,3 +48,4 @@ download-button-please-download-esr = Lawrlwythwch { -brand-name-firefox-esr } (
 download-firefox-esr = Lawrlwythwch { -brand-name-firefox-esr }
 download-firefox-esr-32 = Lawrlwythwch { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Lawrlwythwch { -brand-name-firefox-esr } 64-bit
+download-a-different-build = Lawrlwythwch adeiladwaith gwahanol
