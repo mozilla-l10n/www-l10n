@@ -48,3 +48,4 @@ download-button-please-download-esr = A { -brand-name-firefox } használatához 
 download-firefox-esr = A { -brand-name-firefox-esr } letöltése
 download-firefox-esr-32 = A { -brand-name-firefox-esr } 32 bites verziójának letöltése
 download-firefox-esr-64 = A { -brand-name-firefox-esr } 64 bites verziójának letöltése
+download-a-different-build = Töltsön le egy másik verziót
