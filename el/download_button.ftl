@@ -48,3 +48,4 @@ download-button-please-download-esr = Παρακαλούμε κάντε λήψη
 download-firefox-esr = Λήψη του { -brand-name-firefox-esr }
 download-firefox-esr-32 = Λήψη του { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Λήψη του { -brand-name-firefox-esr } 64-bit
+download-a-different-build = Λήψη διαφορετικής έκδοσης
