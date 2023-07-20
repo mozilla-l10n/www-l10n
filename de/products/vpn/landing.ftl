@@ -51,7 +51,7 @@ vpn-landing-faq-uses-question-desc = Da sich immer mehr des täglichen Lebens im
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
-vpn-landing-faq-uses-conceal-v2 = Es verbirgt Ihre <a href="{ $url }">IP-Adresse</a>. So wird deine Identität geschützt und dein Standort unkenntlich gemacht.
+vpn-landing-faq-uses-conceal-v2 = Es verbirgt deine <a href="{ $url }">IP-Adresse</a>. So wird deine Identität geschützt und dein Standort unkenntlich gemacht.
 
 # Obsolete string
 vpn-landing-faq-uses-conceal = Es verbirgt deine IP-Adresse. So wird deine Identität geschützt und dein Standort unkenntlich gemacht.
