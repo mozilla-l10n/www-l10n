@@ -48,3 +48,4 @@ download-button-please-download-esr = Калі ласка, сцягніце { -b
 download-firefox-esr = Сцягнуць { -brand-name-firefox-esr }
 download-firefox-esr-32 = Сцягнуць { -brand-name-firefox-esr } (32-біт)
 download-firefox-esr-64 = Сцягнуць { -brand-name-firefox-esr } (64-біт)
+download-a-different-build = Сцягнуць іншую зборку
