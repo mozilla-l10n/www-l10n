@@ -48,3 +48,4 @@ download-button-please-download-esr = Ladda ner { -brand-name-firefox-esr } (Ut√
 download-firefox-esr = Ladda ner { -brand-name-firefox-esr }
 download-firefox-esr-32 = Ladda ner { -brand-name-firefox-esr } 32-bitars
 download-firefox-esr-64 = Ladda ner { -brand-name-firefox-esr } 64-bitars
+download-a-different-build = Ladda ner en annan version
