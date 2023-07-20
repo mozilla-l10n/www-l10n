@@ -48,3 +48,4 @@ download-button-please-download-esr = Scarica { -brand-name-firefox-esr } (Exten
 download-firefox-esr = Scarica { -brand-name-firefox-esr }
 download-firefox-esr-32 = Scarica { -brand-name-firefox-esr } a 32 bit
 download-firefox-esr-64 = Scarica { -brand-name-firefox-esr } a 64 bit
+download-a-different-build = Scarica un’altra versione
