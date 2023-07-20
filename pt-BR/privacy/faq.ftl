@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = As seguintes perguntas e respostas dev
 privacy-faq-i-use-firefox-for-almost-everything = Uso o { -brand-name-firefox } para quase tudo na web. Vocês da { -brand-name-mozilla } devem ter uma tonelada de informações sobre mim, não é?
 privacy-faq-firefox-the-web-browser-that = O { -brand-name-firefox }, navegador executado no seu dispositivo ou computador, é a sua porta de acesso à Internet. Seu navegador gerenciará muitas informações sobre os sites que você visita, no entanto, tais informações permanecem no seu dispositivo. A { -brand-name-mozilla }, empresa que faz o { -brand-name-firefox }, não as coleta ─ a menos que você nos peça.
 privacy-faq-really-you-dont-collect-my-browsing = Sério? Meu histórico de navegação não é coletado?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = A { -brand-name-mozilla } não conhece tanto quando você poderia esperar sobre como as pessoas navegam pela internet. Este é um grande desafio para nós como criadores de navegador. É por isso que criamos ferramentas opcionais, que permitem que usuários interessados nos concedam percepção de sua navegação na internet. Se você o sincroniza o histórico de navegação entre instalações do { -brand-name-firefox }, não tomamos conhecimento dele, porque é criptografado em seu dispositivo.
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = A { -brand-name-mozilla } não conhece tanto quando você poderia esperar sobre como as pessoas navegam pela internet. Este é um grande desafio para nós como criadores de navegador. É por isso que criamos ferramentas opcionais como o <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, que permite que usuários interessados nos concedam percepção de sua navegação na internet. Se você o sincroniza o histórico de navegação entre instalações do { -brand-name-firefox }, não tomamos conhecimento dele, porque é criptografado em seu dispositivo.
