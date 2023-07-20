@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = Naslednja vprašanja in odgovori vam b
 privacy-faq-i-use-firefox-for-almost-everything = { -brand-name-firefox } uporabljam za skoraj vse, kar počnem na spletu. Pri { -brand-name-mozilla(sklon: "mestnik") } morate o meni vedeti cel kup stvari, kajne?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, spletni brskalnik, ki teče na vaši napravi ali računalniku, je vaša vstopna točka na internet. Vaš brskalnik bo obdelal ogromno podatkov o spletnih straneh, ki jih obiščete, vendar ti podatki ostanejo na vaši napravi. { -brand-name-mozilla }, podjetje, ki razvija { -brand-name-firefox }, jih ne zbira (razen če nas za to prosite).
 privacy-faq-really-you-dont-collect-my-browsing = Resno, ne zbirate moje zgodovine brskanja?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } o navadah brskanja svojih uporabnikov sploh ne ve toliko, kot bi lahko pričakovali. Za nas kot za razvijalca brskalnikov je to dejansko velik izziv. Zato smo ustvarili orodja za prostovoljno deljenje podatkov, ki uporabnikom omogoča, da nam ponudijo vpogled v svoje brskanje. Tudi če { -brand-name-firefox }ovo zgodovino brskanja sinhronizirate med napravami, je mi ne vidimo, saj jo vaša naprava šifrira.
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } o navadah brskanja svojih uporabnikov sploh ne ve toliko, kot bi lahko pričakovali. Za nas kot za razvijalca brskalnikov je to dejansko velik izziv. Zato smo ustvarili orodja za prostovoljno deljenje podatkov, kot je <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, ki uporabnikom omogoča, da nam ponudijo vpogled v svoje brskanje. Tudi če svojo zgodovino brskanja sinhronizirate med napravami, je mi ne vidimo, saj jo vaša naprava šifrira.
