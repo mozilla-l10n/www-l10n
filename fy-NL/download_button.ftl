@@ -48,3 +48,4 @@ download-button-please-download-esr = Download { -brand-name-firefox-esr } (Exte
 download-firefox-esr = { -brand-name-firefox-esr } downloade
 download-firefox-esr-32 = 32-bits { -brand-name-firefox-esr } downloade
 download-firefox-esr-64 = 64-bits { -brand-name-firefox-esr } downloade
+download-a-different-build = Download in oare build
