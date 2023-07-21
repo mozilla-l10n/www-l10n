@@ -60,6 +60,7 @@ footer-contact = ਸੰਪਰਕ
 footer-product-help = ਉਤਪਾਦ ਮਦਦ
 footer-support = ਸਹਿਯੋਗ
 footer-file-a-bug = ਬੱਗ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ
+footer-localize-mozilla = { -brand-name-mozilla } ਦਾ ਅਨੁਵਾਦ ਕਰੋ
 footer-community-participation-guidelines = ਕਮਿਊਨਟੀ ਹਿੱਸਾ ਲੈਣ ਲਈ ਸੇਧਾਂ
 footer-websites-privacy-notice = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ
 footer-websites-cookies = ਕੂਕੀਜ਼

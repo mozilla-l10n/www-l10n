@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ
 download-button-free-download = ਮੁਫ਼ਤ ਡਾਊਨਲੋਡ
@@ -39,3 +39,13 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name
 download-button-firefox-privacy = { -brand-name-firefox } ਪਰਦੇਦਾਰੀ
 download-button-firefox-privacy-notice = { -brand-name-firefox } ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ
 download-button-download = ਡਾਊਨਲੋਡ
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } { $os_version } ਜਾਂ ਪੁਰਾਣੇ ਲਈ <a href="{ $help_url }"> ਹੁਣ ਸਹਾਇਕ ਨਹੀਂ</a> ਹੈ।
+download-button-please-download-esr = { -brand-name-firefox } ਵਰਤਣ ਲਈ { -brand-name-firefox-esr } (ਇਕਸਟੈਂਡਡ ਸਪੋਰਟ ਰੀਲਿਜ਼ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
+download-firefox-esr = { -brand-name-firefox-esr } ਡਾਊਨਲੋਡ ਕਰੋ
+download-firefox-esr-32 = { -brand-name-firefox-esr } 32-ਬਿੱਟ ਡਾਊਨਲੋਡ ਕਰੋ
+download-firefox-esr-64 = { -brand-name-firefox-esr } 64-ਬਿੱਟ ਡਾਊਨਲੋਡ ਕਰੋ
+download-a-different-build = ਵੱਖਰਾ ਬਿਲਡ ਡਾਊਨਲੋਡ ਕਰੋ

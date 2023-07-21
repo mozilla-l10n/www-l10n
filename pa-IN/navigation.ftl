@@ -61,6 +61,7 @@ navigation-check-for-breaches = ਸੰਨ੍ਹ ਲੱਗਣ ਲਈ ਜਾਂਚ
 navigation-see-breaches = ਸੰਨ੍ਹਾਂ ਨੂੰ ਵੇਖੋ
 navigation-security-tips = ਸੁਰੱਖਿਆ ਸੁਝਾਅ
 navigation-share-large-files-safely = ਵੱਡੀਆਂ ਫ਼ਾਇਲਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ‘ਖੁਦ-ਮਿਟਾਉ’ ਲਿੰਕ ਨਾਲ ਸਾਂਝਾ ਕਰੋ
+navigation-save-quality-content = ਕਿਤੋਂ ਵੀ ਕੁਆਲਟੀ ਸਮੱਗਰੀ ਨੂੰ ਸੰਭਾਲੋ। ਆਪਣੇ ਦਿਮਾਗ ਨੂੰ ਤਰੋ-ਤਾਜ਼ਾ ਕਰੋ।
 navigation-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: ਤੇਜ਼। ਸਰਲ। ਪ੍ਰਾਈਵੇਟ।
 # Outdated string

@@ -36,3 +36,4 @@ legal-mdn-plus-terms = { -brand-name-mdn-plus } ਸੇਵਾ ਦੀਆਂ ਸ਼ਰ
 legal-report-copyright = ਕਾਪੀਰਾਈਟ ਜਾਂ ਮਾਰਕੇ ਦੀ ਉਲੰਘਣਾ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ
+legal-mozilla-subscription-services = { -brand-name-mozilla } ਮੈਂਬਰੀ ਸੇਵਾਵਾਂ

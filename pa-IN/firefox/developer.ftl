@@ -52,6 +52,7 @@ firefox-developer-style-editor = ਸਟਾਈਲ ਐਡੀਟਰ
 firefox-developer-edit-and-manage = ਆਪਣੇ ਬ੍ਰਾਊਜ਼ਰ ਵਿਚ ਆਪਣੀਆਂ ਸਾਰੀਆਂ CSS ਸਟਾਇਲਸ਼ੀਟਾਂ ਨੂੰ ਸੰਪਾਦਿਤ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ।
 firefox-developer-learn-more-about-style = ਸਟਾਈਲ ਐਡੀਟਰ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 firefox-developer-new-tools = ਨਵੇਂ ਟੂਲ
+firefox-developer-inactive-css = ਨਾ-ਸਰਗਰਮ CSS
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = ਨਵਾਂ{ -brand-name-firefox-devtools } ਮਜ਼ਬੂਤ, ਲਚਕੀਲਾ ਅਤੇ ਸਭ ਤੋਂ ਵਧੀਆ, ਢਾਲਣਯੋਗ ਹੈ, ਇਸ ਵਿੱਚ ਸਭ ਤੋਂ ਵਧੀਆ ਕਲਾਸ JavaScript ਡੀਬੱਗਰ ਸ਼ਾਮਲ ਹੈ, ਜਿਸਨੂੰ ਬਹੁਤ ਸਾਰੇ ਬਰਾਉਜ਼ਰਾਂ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ ਅਤੇ ਰੀਐਕਟ ਅਤੇ ਰੀਡਕਸ ਵਿੱਚ ਬਣਾਇਆ ਗਿਆ ਹੈ।
 firefox-developer-master-css-grid = ਮਾਸਟਰ CSS ਗਰਿੱਡ
