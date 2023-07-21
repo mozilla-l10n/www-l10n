@@ -195,6 +195,8 @@ newsletters-add-your-voice = Поддержите петиции, меропри
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Тестирование новых продуктов
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better-v2 = Помогите сделать { -brand-name-mozilla } ещё лучше, тестируя наши новые продукты и функции.
+# Obsolete string
 newsletters-help-us-make-a-better = Помогите сделать { -brand-name-firefox } ещё лучше, тестируя наши новые продукты и функции.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Сообщество { -brand-name-mozilla }
