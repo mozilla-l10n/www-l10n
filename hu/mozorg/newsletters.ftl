@@ -195,6 +195,8 @@ newsletters-add-your-voice = Adja hozzá a hangját azon petíciókhoz, esemény
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Új termékek tesztelése
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better-v2 = Segítsen nekünk, hogy a legújabb termékeink és funkcióink tesztelésével egy jobb { -brand-name-mozilla(ending: "accented") }t készítsünk az Ön számára.
+# Obsolete string
 newsletters-help-us-make-a-better = Segítsen nekünk abban, hogy jobb { -brand-name-firefox(case: "accusative") } készítsünk, azáltal hogy teszteli a legújabb termékeinket és funkcióinkat.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } közösség
