@@ -265,7 +265,8 @@ newsletters-add-your-voice = أضف صوتك إلى الالتماسات وال�
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = اختبار منتج جديد
 
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
+
+# Obsolete string
 newsletters-help-us-make-a-better = ساعدنا في جعل { -brand-name-firefox } أفضل لك من خلال اختبار أحدث منتجاتنا وميزاتنا.
 
 # Name for the newsletter in Newsletter subscription page

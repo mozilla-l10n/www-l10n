@@ -265,7 +265,8 @@ newsletters-add-your-voice = वेब के भविष्य के लि�
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = नया उत्पाद परीक्षण
 
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
+
+# Obsolete string
 newsletters-help-us-make-a-better = हमारे नवीनतम उत्पादों और सुविधाओं का परीक्षण करके, आपके लिए बेहतर { -brand-name-firefox } बनाने में हमारी सहायता करें।
 
 # Name for the newsletter in Newsletter subscription page

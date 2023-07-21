@@ -265,7 +265,8 @@ newsletters-add-your-voice = Beteiligen Sie sich an zu Petitionen, Veranstaltung
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Testen neuer Produkte
 
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
+
+# Obsolete string
 newsletters-help-us-make-a-better = Helfen Sie uns, { -brand-name-firefox } in Ihrem Sinne zu verbessern, indem Sie unsere neuesten Produkte und Funktionen testen.
 
 # Name for the newsletter in Newsletter subscription page

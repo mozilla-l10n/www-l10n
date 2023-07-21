@@ -265,7 +265,8 @@ newsletters-add-your-voice = ウェブの将来のために闘う申立てやイ
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = New Product Testing
 
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
+
+# Obsolete string
 newsletters-help-us-make-a-better = 最新の製品や機能を試用して { -brand-name-firefox } の改善を支援してください。
 
 # Name for the newsletter in Newsletter subscription page
