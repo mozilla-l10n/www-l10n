@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Prenesi zdaj
 download-button-free-download = Brezplačen prenos
@@ -39,3 +39,13 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> za { -brand-n
 download-button-firefox-privacy = Zasebnost { -brand-name-firefox }a
 download-button-firefox-privacy-notice = Obvestilo o zasebnosti za { -brand-name-firefox }
 download-button-download = Prenesi
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">ne podpira več</a> sistema { $os_version } in starejših različic.
+download-button-please-download-esr = Če želite uporabljati { -brand-name-firefox }, vam je na voljo { -brand-name-firefox-esr } (različica z razširjeno podporo).
+download-firefox-esr = Prenesi { -brand-name-firefox-esr }
+download-firefox-esr-32 = Prenesi { -brand-name-firefox-esr } (32-bitni)
+download-firefox-esr-64 = Prenesi { -brand-name-firefox-esr } (64-bitni)
+download-a-different-build = Prenesi drugo graditev
