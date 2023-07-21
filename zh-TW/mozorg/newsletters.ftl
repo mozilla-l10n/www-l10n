@@ -195,6 +195,8 @@ newsletters-add-your-voice = 在我們為網際網路的未來而戰的請願、
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = 新產品測試報
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better-v2 = 透過測試最新的產品與功能來協助我們為您打造更好的 { -brand-name-mozilla }。
+# Obsolete string
 newsletters-help-us-make-a-better = 透過測試最新的產品與功能，來協助我們為您打造更好的 { -brand-name-firefox }。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } 社群
