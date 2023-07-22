@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
-features-index-enhanced-tracking = Gwarez heuliañ araoket
-features-index-download-latest = Pellgargañ stumm diwezhañ { -brand-name-firefox }
+mobile-android-send-a-download-link-to-your = Kas ul liamm pellgargadur d'ho pellgomzer.

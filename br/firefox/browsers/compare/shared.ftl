@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -21,6 +21,7 @@ compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
 compare-shared-download-firefox = Pellgargañ { -brand-name-firefox }
 compare-shared-download-firefox-browser = Pellgargañ { -brand-name-firefox-browser }
+compare-shared-download-the-app = Pellgargañ an arload
 compare-shared-desktop = Burev
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }

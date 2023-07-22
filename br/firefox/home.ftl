@@ -9,6 +9,8 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - Gwarezit ho puhez 
 # Obsolete string
 firefox-home-learn-more-about-lockwise = Gouzout hiroc’h diwar-benn { -brand-name-lockwise }
 firefox-home-learn-more-about-pocket = Gouzout hiroc’h diwar-benn { -brand-name-pocket }
+firefox-home-download-the-browser = Pellgargañ ar merdeer
+firefox-home-download-the-app = Pellgargañ an arload
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }

@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
-features-index-enhanced-tracking = Gwarez heuliañ araoket
-features-index-download-latest = Pellgargañ stumm diwezhañ { -brand-name-firefox }
+mobile-focus-send-a-download-link-to-your = Kas ul liamm pellgargañ d'ho pellgomzer.

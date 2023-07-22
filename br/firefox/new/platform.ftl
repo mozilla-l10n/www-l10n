@@ -1,20 +1,26 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/windows/
 
+
+## Shared between Linux, Mac and Windows
+
 new-platform-free-web-browser = Merdeer web digoust
 new-platform-download-firefox = Pellgargañ { -brand-name-firefox }
-new-platform-the-new-firefox = Ar <strong>{ -brand-name-firefox }</strong> nevez
+new-platform-download-the-fastest = Pellgargit ar merdeer { -brand-name-firefox } buanañ n'eus bet morse
 new-platform-2x-faster = 2x Buanoc'h
-new-platform-the-best-firefox-ever = Ar { -brand-name-firefox } gwellañ n'eus bet morse
-new-platform-lightweight = Skañv-mat
+new-platform-download-in-another = Pellgargañ en ur yezh all
 new-platform-need-help = Ezhomm skoazell?
-# span is for visual formatting and line break
-new-platform-download-firefox-for-windows = Pellgargañ { -brand-name-firefox } <br>evit { -brand-name-windows }
-# span is for visual formatting and line break
-new-platform-download-firefox-for-macos = Pellgargañ { -brand-name-firefox } <br>evit { -brand-name-mac }
-# span is for visual formatting and line break
-new-platform-download-firefox-for-linux = Pellgargañ { -brand-name-firefox } <br>evit { -brand-name-linux }
+
+## Linux
+
+new-platform-download-mozilla-linux = Pellgargañ { -brand-name-mozilla } { -brand-name-firefox } evit { -brand-name-linux }
+
+## Mac
+
+
+## Windows
+

@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 firefox-browsers-desktop = Urzhiataer burev
+firefox-browsers-download-for-desktop = Pellgargañ evit an urzhiataer
 firefox-browsers-mobile = Hezougell
+firefox-browsers-download-for-mobile = Pellgargañ evit ar pellgomz
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-learn-more-about-devtools = Gouzout hiroc’h diwar-benn { -brand-name-devtools }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -12,6 +12,7 @@ firefox-all-need-help = Ezhomm sikour?
 firefox-all-which-browser-would = Peseurt merdeer a fell deoc'h pellgargañ?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Kaout skoazell
+firefox-all-you-are-about-to-download = O vont da bellgargañ emaoc'h:
 firefox-all-browser = Merdeer:
 firefox-all-platform = Saveenn:
 firefox-all-language = Yezh:
@@ -26,6 +27,7 @@ firefox-all-choose-which-firefox = Dibabit peseurt { -brand-name-firefox-browser
 firefox-all-firefox-privacy-notice = Politikerezh prevezded { -brand-name-firefox }
 firefox-all-learn-about-firefox = Gouzout hiroc'h diwar-benn merdeerioù { -brand-name-firefox }
 firefox-all-arm64-installers = Stalierioù ARM64/AArch64
+firefox-all-product-send-link = Kas ul liamm pellgargañ d'ho pellgomzer
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux

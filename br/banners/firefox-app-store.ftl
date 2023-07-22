@@ -7,3 +7,6 @@
 
 banner-firefox-app-store-title = { -brand-name-firefox }: merdeer prevez ha suraet
 banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Merdeer ar brevezded
+banner-firefox-app-store-mozilla = { -brand-name-mozilla }
+banner-firefox-app-store-free-google-play = Digoust war { -brand-name-google-play }
+banner-firefox-app-store-free-app-store = Digoust en { -brand-name-app-store }
