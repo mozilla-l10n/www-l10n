@@ -48,3 +48,4 @@ download-button-please-download-esr = Lataa { -brand-name-firefox-esr } (Extende
 download-firefox-esr = Lataa { -brand-name-firefox-esr }
 download-firefox-esr-32 = Lataa { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Lataa { -brand-name-firefox-esr } 64-bit
+download-a-different-build = Lataa toinen build-kooste
