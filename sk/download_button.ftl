@@ -48,3 +48,4 @@ download-button-please-download-esr = Ak chcete používať { -brand-name-firefo
 download-firefox-esr = Stiahnuť { -brand-name-firefox-esr }
 download-firefox-esr-32 = Stiahnite si { -brand-name-firefox-esr } (32-bitová verzia)
 download-firefox-esr-64 = Stiahnite si { -brand-name-firefox-esr } (64-bitová verzia)
+download-a-different-build = Stiahnuť iné zostavenie
