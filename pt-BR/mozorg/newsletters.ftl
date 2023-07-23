@@ -195,6 +195,8 @@ newsletters-add-your-voice = Adicione sua voz a petições, eventos e iniciativa
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Teste de novos produtos
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better-v2 = Ajude-nos a criar uma { -brand-name-mozilla } melhor para você, sendo piloto de teste de nossos produtos e recursos mais recentes.
+# Obsolete string
 newsletters-help-us-make-a-better = Ajude-nos a criar um { -brand-name-firefox } melhor para você, sendo piloto de teste de nossos produtos e recursos mais recentes.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Comunidade { -brand-name-mozilla }

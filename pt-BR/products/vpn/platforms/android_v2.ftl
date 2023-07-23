@@ -8,6 +8,7 @@
 vpn-android-vpn-for-android = VPN da { -brand-name-mozilla } para Android
 vpn-android-ease-security = Amenize preocupações com segurança usando o { -brand-name-mozilla-vpn } para Android
 vpn-android-looking-for-a = Procura uma VPN para proteger seu dispositivo Android? O { -brand-name-mozilla-vpn } é respaldado por uma empresa sem fins lucrativos. Saiba como uma VPN protege você e por que deve confiar na { -brand-name-mozilla } para sua privacidade e segurança.
+vpn-android-whether-youre = Esteja você em casa, no trabalho ou inventando um nome engraçado para seu pedido de café no caixa, proteger sua segurança online tem alta prioridade para a { -brand-name-mozilla }. Como muitos produtos de tecnologia inteligente, os dispositivos Android têm recursos de proteção integrados que protegem seu dispositivo. Com a VPN para Android da { -brand-name-mozilla }, você pode aumentar ainda mais a segurança com apenas um toque na tela.
 vpn-android-how-does-a = Como uma VPN protege meu dispositivo Android?
 vpn-android-vpns-help = VPNs ajudam a evitar que:
 vpn-android-your-internet-activity = Sua atividade na internet seja vista e depois vendida ou compartilhada com anunciantes.
