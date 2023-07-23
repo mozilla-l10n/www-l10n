@@ -48,3 +48,4 @@ download-button-please-download-esr = Vui lòng tải xuống { -brand-name-fire
 download-firefox-esr = Tải xuống { -brand-name-firefox-esr }
 download-firefox-esr-32 = Tải xuống { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Tải xuống { -brand-name-firefox-esr } 64-bit
+download-a-different-build = Tải xuống bản dựng khác
