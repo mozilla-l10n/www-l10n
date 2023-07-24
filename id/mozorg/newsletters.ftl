@@ -265,6 +265,8 @@ newsletters-add-your-voice = Tambahkan suara Anda ke petisi, acara, dan inisiati
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Pengujian Produk Baru
 
+# Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better-v2 = Bantu kami menjadikan { -brand-name-mozilla } lebih baik untuk Anda dengan menguji coba produk dan fitur terbaru kami.
 
 # Obsolete string
 newsletters-help-us-make-a-better = Bantu kami menjadikan { -brand-name-firefox } lebih baik untuk Anda dengan menguji coba produk dan fitur terbaru kami.
