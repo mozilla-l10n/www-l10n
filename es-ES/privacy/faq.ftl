@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = Las siguientes preguntas y respuestas 
 privacy-faq-i-use-firefox-for-almost-everything = Uso { -brand-name-firefox } para casi todo lo que hago en la web. En { -brand-name-mozilla } deben de saber un montón sobre mi, ¿no?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, el navegador que funciona en tu ordenador o dispositivo, es tu ventana a Internet. Tu navegador manejará mucha información sobre los sitios que visitas, pero esa información se queda en tu dispositivo. { -brand-name-mozilla }, la compañía que hace { -brand-name-firefox }, no la guarda (salvo que nos lo pidas).
 privacy-faq-really-you-dont-collect-my-browsing = ¿De verdad no guardáis mi historial de navegación?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } no conoce tanto como podrías esperar sobre cómo navegan las personas por la web. Somos los creadores de un navegador, lo que supone ya un gran desafío para nosotros. Por eso creamos herramientas que tienes que decidir utilizar, que permite que los usuarios interesados nos den pistas sobre su navegación web. Si sincronizas tu historial de navegación entre diferentes instalaciones de { -brand-name-firefox }, nosotros no tenemos acceso a él, porque tu dispositivo lo cifró.
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } no conoce tanto como podrías esperar sobre cómo navegan las personas por la web. Somos los creadores de un navegador, lo que supone ya un gran desafío para nosotros. Por eso creamos herramientas que tienes que decidir utilizar, como <a href="{ $link }">{ -brand-name-firefox } Pionner</a>, que permite que los usuarios interesados nos den pistas sobre su navegación web. Si sincronizas tu historial de navegación entre diferentes instalaciones de { -brand-name-firefox }, nosotros no tenemos acceso a él, porque tu dispositivo lo cifró.
