@@ -5,14 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
-vpn-android-vpn-for-android = VPN ar gyfer Android o { -brand-name-mozilla }
-vpn-android-ease-security = Hwyluso Ofnau Diogelwch gyda { -brand-name-mozilla-vpn } ar gyfer Android
-vpn-android-looking-for-a = Chwilio am VPN i amddiffyn eich dyfais Android? Mae { -brand-name-mozilla-vpn } yn cael ei gefnogi gan gwmni di-elw. Dysgwch sut mae VPN yn eich amddiffyn a pham y dylech ymddiried yn { -brand-name-mozilla } gyda'ch preifatrwydd a'ch diogelwch.
-vpn-android-whether-youre = P'un a ydych gartref, yn y gwaith, neu'n gwneud enw doniol ar eich archeb coffi ar y gofrestr, mae diogelu eich diogelwch ar-lein yn brif flaenoriaeth i { -brand-name-mozilla }. Fel llawer o gynhyrchion technoleg glyfar, mae gan ddyfeisiau Android nodweddion amddiffyn integredig sy'n diogelu'ch dyfais. Gyda VPN ar gyfer Android o { -brand-name-mozilla }, gallwch fynd â diogelwch ymhellach gyda dim ond tap o'ch bys.
-vpn-android-using-the-fast = Gan ddefnyddio'r protocol VPN cyflym a diogel { -brand-name-wireguard }, mae ein VPN yn gallu amgryptio'r traffig rhyngrwyd rhwng eich dyfais a rhwydwaith gweinyddwyr VPN. Mae hyn yn ein helpu i ddiogelu eich traffig gwe pan fyddwch ar y ffordd. Mae fel y caead yn amddiffyn eich te gwyrdd gyda mêl rhag y pryf yn suo o amgylch y bwrdd.
-vpn-android-how-does-a = Sut mae VPN yn amddiffyn fy nyfais Android?
+vpn-android-vpn-for-android = VPN ar gyfer Android gan { -brand-name-mozilla }
+vpn-android-ease-security = Lleddfwch eich Pryderon Diogelwch gyda { -brand-name-mozilla-vpn } ar gyfer Android
+vpn-android-looking-for-a = Yn chwilio am VPN i ddiogelu eich dyfais Android? Mae { -brand-name-mozilla-vpn } yn cael ei gefnogi gan gwmni dim-er-elw. Dysgwch sut mae VPN yn eich diogelu a pham y dylech ymddiried eich preifatrwydd a'ch diogelwch i { -brand-name-mozilla }.
+vpn-android-whether-youre = P'un a ydych gartref, yn y gwaith, neu'n dychmygu enw doniol ar gyfer eich archeb coffi wrth dalu, diogelu eich diogelwch ar-lein yw prif flaenoriaeth { -brand-name-mozilla }. Fel llawer o gynnyrch technoleg glyfar, mae gan ddyfeisiau Android nodweddion diogelwch integredig sy'n amddiffyn eich dyfais. Gyda VPN ar gyfer Android gan { -brand-name-mozilla }, gallwch gymryd eich diogelwch ymhellach gyda dim ond tap o'ch bys.
+vpn-android-using-the-fast = Gan ddefnyddio'r protocol VPN cyflym a diogel { -brand-name-wireguard }, mae ein VPN yn gallu amgryptio'r traffig rhyngrwyd rhwng eich dyfais a rhwydwaith gweinyddwyr VPN. Mae hyn yn ein helpu i ddiogelu eich traffig gwe pan fyddwch ar daith. Mae fel y  caead sy'n amddiffyn eich te gwyrdd gyda mêl rhag y pryf sy'n hedfano amgylch y bwrdd.
+vpn-android-how-does-a = Sut mae VPN yn diogelu fy nyfais Android?
 vpn-android-vpns-help = Mae VPNs yn helpu i atal:
-vpn-android-your-internet-activity = Eich gweithgaredd rhyngrwyd o fod yn weladwy, ac yna ei werthu neu ei rannu gyda hysbysebwyr.
+vpn-android-your-internet-activity = Eich gweithgaredd rhyngrwyd rhag bod yn weladwy, ac yna ei werthu neu ei rannu gyda hysbysebwyr.
 vpn-android-low-video = Ansawdd ffrydio fideo isel oherwydd lled band arafach a chyfyngedig gan eich darparwr gwasanaeth rhyngrwyd (ISP)
 vpn-android-your-personal = Eich data personol yn cael ei ddwyn wrth ddefnyddio rhwydwaith Wi-Fi cyhoeddus.
 vpn-android-why-should-i = Pam ddylwn i lawrlwytho { -brand-name-mozilla-vpn } ar gyfer Android?
