@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
-vpn-desktop-vpn-for-pc = VPN ar gyfer cyfrifiadur personol neu liniadur o { -brand-name-mozilla }
-vpn-desktop-if-you-are = Os ydych chi'n chwilio am VPN i amddiffyn eich gliniadur neu'ch cyfrifiadur personol, edrychwch ar { -brand-name-mozilla-vpn }. Mae { -brand-name-mozilla-vpn } yn cael ei gefnogi gan gwmni di-elw. Dysgwch sut mae VPN yn eich amddiffyn a pham y dylech ymddiried yn { -brand-name-mozilla } gyda'ch preifatrwydd a'ch diogelwch.
+vpn-desktop-vpn-for-pc = VPN ar gyfer cyfrifiadur personol neu liniadur gan { -brand-name-mozilla }
+vpn-desktop-if-you-are = Os ydych chi'n chwilio am VPN i ddiogelu eich gliniadur neu'ch cyfrifiadur personol, ystyriwch { -brand-name-mozilla-vpn }. Mae { -brand-name-mozilla-vpn } yn cael ei gefnogi gan gwmni dim-er-elw. Dysgwch sut mae VPN yn eich amddiffyn a pham y dylech ymddiried yn { -brand-name-mozilla } gyda'ch preifatrwydd a'ch diogelwch.
 vpn-desktop-vpns-can-provide = Gall VPNs ddarparu haen ychwanegol o ddiogelwch ar gyfer eich gliniadur neu gyfrifiadur personol a helpu i'ch amddiffyn rhag ymdrechion hacio, ymosodiadau gwe-rwydo, a bygythiadau ar-lein eraill. Mae VPNs yn amgryptio'ch data a'ch lleoliad trwy greu “twnnel” rhwng eich cyfrifiadur a'r rhyngrwyd. Os nad yw'ch gliniadur neu'ch cyfrifiadur personol yn defnyddio VPN, efallai y bydd hacwyr a thrydydd partïon yn gallu rhyng-gipio'ch traffig, gan roi eich preifatrwydd mewn perygl.
 vpn-desktop-how-does-a = Sut mae VPN yn amddiffyn fy ngliniadur neu gyfrifiadur personol?
 vpn-desktop-there-are-several = Mae yna sawl rheswm pam y dylech chi ddefnyddio VPN i amddiffyn eich hun wrth ddefnyddio'ch gliniadur neu'ch cyfrifiadur personol:
