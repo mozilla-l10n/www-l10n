@@ -54,3 +54,4 @@ download-button-please-download-esr = يُرجى تنزيل { -brand-name-firefo
 download-firefox-esr = تحميل { -brand-name-firefox-esr }
 download-firefox-esr-32 = تنزيل { -brand-name-firefox-esr } 32-بت
 download-firefox-esr-64 = تنزيل { -brand-name-firefox-esr } 64-بت
+download-a-different-build = تنزيل بنية مختلفة
