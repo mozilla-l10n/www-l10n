@@ -44,8 +44,8 @@ download-button-download = Llwytho i Lawr
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = Nid yw { $channel_name } <a href="{ $help_url }">yn cael ei gynnal bellach</a> ar { $os_version } ac is.
-download-button-please-download-esr = Lawrlwythwch { -brand-name-firefox-esr } ( Datganiad Cymorth Estynedig ) i ddefnyddio { -brand-name-firefox }.
-download-firefox-esr = Lawrlwythwch { -brand-name-firefox-esr }
-download-firefox-esr-32 = Lawrlwythwch { -brand-name-firefox-esr } 32-bit
-download-firefox-esr-64 = Lawrlwythwch { -brand-name-firefox-esr } 64-bit
-download-a-different-build = Lawrlwythwch adeiladwaith gwahanol
+download-button-please-download-esr = Llwythwch i lawr { -brand-name-firefox-esr } ( Fersiwn Cymorth Estynedig ) er mwyn defnyddio { -brand-name-firefox }.
+download-firefox-esr = Llwythwch { -brand-name-firefox-esr } i Lawr
+download-firefox-esr-32 = Llwythwch { -brand-name-firefox-esr } 32-did i Lawr
+download-firefox-esr-64 = Llwythwch { -brand-name-firefox-esr } 64-did i Lawr
+download-a-different-build = Llwythwch i lawr fersiwn gwahanol
