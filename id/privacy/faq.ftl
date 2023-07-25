@@ -22,6 +22,7 @@ privacy-faq-the-following-questions-and = Pertanyaan dan jawaban berikut akan me
 privacy-faq-i-use-firefox-for-almost-everything = Saya menggunakan { -brand-name-firefox } untuk hampir semua hal di web. Kalian di { -brand-name-mozilla } pasti tahu banyak mengenai saya, bukan?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, peramban web yang bekerja di perangkat atau komputer Anda, merupakan gerbang Anda ke internet. Peramban Anda akan mengelola banyak informasi mengenai situs web yang Anda kunjungi, tetapi informasi tersebut tetap berada di perangkat Anda. { -brand-name-mozilla }, perusahaan yang membuat { -brand-name-firefox }, tidak mengambilnya (kecuali jika Anda memintanya).
 privacy-faq-really-you-dont-collect-my-browsing = Sungguh, Anda tidak mengambil riwayat penjelajahan saya?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } tidak mengetahui sebanyak yang Anda kira mengenai bagaimana orang menjelajahi web. Sebagai pembuat peramban, itu sebenarnya tantangan besar bagi kami. Itulah alasannya kami membuat alat pilihan, yang memungkinkan pengguna yang tertarik untuk memberikan kami wawasan mengenai penjelajahan web mereka. Jika Anda menyinkronkan riwayat penjelajahan Anda di seluruh pemasangan { -brand-name-firefox }, kami tidak mengetahui apa riwayat itu — karena itu dienkripsikan oleh perangkat Anda.
 
 # Outdated string
 # Variables:
