@@ -14,7 +14,9 @@ compare-shared-blocks-third-party-tracking-default = Blokkerer tredjeparts spori
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Blokkerer tredjeparts sporingsinfokapslar
 compare-shared-blocks-cryptomining-scripts = Blokkerer kryptoutvinningsskript
+compare-shared-blocks-fingerprinting-scripts = Blokkerer fingeravtrykkskript
 compare-shared-blocks-social-trackers = Blokkerer sosiale mediesporarar
+compare-shared-dashboard-to-review = Instrumentbord for vurdering av blokkerte sporarar
 compare-shared-autoplay-blocking = Blokkering av automatisk avspeling
 compare-shared-tab-browsing = Nettlesing med faner
 compare-shared-bookmark-manager = Bokmerkehandterar

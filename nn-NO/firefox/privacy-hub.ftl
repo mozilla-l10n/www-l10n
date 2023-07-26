@@ -85,3 +85,5 @@ firefox-privacy-hub-already-have-an-account = Har du allereie ein konto? <a { $s
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = Les <a href="{ $url }">personvernerklæringa</a> for produkta våre
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-get-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }
