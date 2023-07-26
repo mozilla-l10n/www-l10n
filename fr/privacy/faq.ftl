@@ -22,6 +22,7 @@ privacy-faq-the-following-questions-and = Les questions et réponses qui suivent
 privacy-faq-i-use-firefox-for-almost-everything = J’utilise { -brand-name-firefox } pour tout et n’importe quoi sur le Web. Chez { -brand-name-mozilla }, vous devez en savoir beaucoup sur moi, non ?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, le navigateur web que vous utilisez sur votre appareil ou ordinateur, est ce qui vous permet de surfer sur Internet. Votre navigateur gère de nombreuses informations sur les sites que vous visitez, mais ces informations restent sur vos appareils. { -brand-name-mozilla }, l’entreprise qui développe { -brand-name-firefox }, ne collecte pas ces données (à moins que vous nous le demandiez).
 privacy-faq-really-you-dont-collect-my-browsing = Vous ne récupérez vraiment pas mon historique de navigation ?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } n’en sait pas autant que vous le pensez sur les habitudes de navigation des internautes. À vrai dire, en tant qu’éditeur de navigateur, c’est un défi majeur pour nous. C’est pourquoi nous avons conçu des outils basés sur le choix volontaire, qui permettent aux utilisateurs et utilisatrices qui le souhaitent de nous donner un aperçu de leurs habitudes de navigation. Lorsque vous synchronisez votre historique de navigation entre différentes installations de { -brand-name-firefox }, nous n’y avons pas accès, car il est chiffré sur votre appareil.
 
 # Outdated string
 # Variables:

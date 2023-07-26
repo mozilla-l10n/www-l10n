@@ -22,6 +22,7 @@ privacy-faq-the-following-questions-and = Die folgenden Fragen und Antworten sol
 privacy-faq-i-use-firefox-for-almost-everything = Ich nutze { -brand-name-firefox } für fast alles im Internet. Also weiß { -brand-name-mozilla } eine Menge über mich, richtig?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, der Browser, der auf Ihrem Geräte oder Computer läuft, ist Ihr Tor ins Internet. Ihr Browser verwaltet eine Menge Informationen über die Websites, die Sie besuchen, aber diese Informationen bleiben auf Ihrem Gerät. { -brand-name-mozilla }, das Unternehmen, das { -brand-name-firefox } entwickelt, sammelt diese Daten nicht (es sei denn, Sie möchten das).
 privacy-faq-really-you-dont-collect-my-browsing = Sie sammeln meine Surf-Chronik wirklich nicht?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } weiß nicht so viel darüber, wie Menschen durch das Internet browsen, wie Sie vielleicht denken. Als Entwickler eines Browsers ist das tatsächlich eine große Herausforderung für uns. Deshalb haben wir Tools zur Aktivierung von bestimmten Funktionen entwickelt, die es interessierten Nutzer*innen ermöglichen, uns Einblicke in ihr Browsingverhalten zu geben. Wenn Sie Ihren Browserverlauf über { -brand-name-firefox }-Installationen hinweg synchronisieren, kennen wir diesen Verlauf nicht – er wird von Ihrem Gerät verschlüsselt.
 
 # Outdated string
 # Variables:
