@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/ipad/
 
 vpn-ipad-vpn-for = VPN iOS/iPadre a { -brand-name-mozilla(ending: "accented") }tól
-vpn-ipad-looking-for = VPN-t keres az iPadje védelmére? A { -brand-name-mozilla-vpn }-t egy non-profit cég támogatja. Tudja meg, hogyan védi meg Önt egy VPN, és hogy miért bízzon meg a { -brand-name-mozilla }ban az adatvédelme és biztonsága szempontjából.
+vpn-ipad-looking-for = VPN-t keres az iPadje védelmére? A { -brand-name-mozilla-vpn }-t egy nonprofit cég támogatja. Tudja meg, hogyan védi meg Önt egy VPN, és hogy miért bízzon meg a { -brand-name-mozilla(ending: "accented") }ban, ha az adatvédelemről és biztonságról van szó.
 vpn-ipad-if-you-own = Ha van egy iPadje, akkor valószínűleg sok mindenre használja: webböngészésre, videónézésre, játékra, könyvolvasásra, és egyebekre. De akár otthon van, akár útközben van, az internetkapcsolata kiszolgáltathatja személyes adatait és tartózkodási helyét a hackerek, hirdetők és más harmadik felek számára, akik sütiket használhatnak, és az IP-címét is használhatják az Ön követéséhez.
 vpn-ipad-thats-why-you = Ezért van szüksége a { -brand-name-mozilla-vpn }-re, egy gyors, megbízható és könnyen használható VPN-szolgáltatásra, amely távol tartja az online tevékenységét a kíváncsi tekintetektől.
 vpn-ipad-mozilla-vpn-is = A { -brand-name-mozilla-vpn } egy virtuális magánhálózati szolgáltatás, amely titkosítja az internetes forgalmat, és elrejti az IP-címét.
