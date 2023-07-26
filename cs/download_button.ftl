@@ -48,3 +48,4 @@ download-button-please-download-esr = Pokud chcete používat { -brand-name-fire
 download-firefox-esr = Stáhnout { -brand-name-firefox-esr }
 download-firefox-esr-32 = Stáhnout { -brand-name-firefox-esr } (32-bitová verze)
 download-firefox-esr-64 = Stáhnout { -brand-name-firefox-esr } (64-bitová verze)
+download-a-different-build = Stáhnout jiné sestavení
