@@ -12,6 +12,7 @@
 firefox-desktop-download-meta-title = Last ned { -brand-name-firefox-browser } frå { -brand-name-mozilla } — rask, privat og gratis
 firefox-desktop-download-meta-title-v2 = Last ned { -brand-name-firefox } for datamaskiner — frå { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Få { -brand-name-firefox }, ein gratis nettleser støtta av { -brand-name-mozilla }, ein ideell organisasjon dedikert til internetthelse og personvern. Tilgjengeleg no på { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } og { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Last ned { -brand-name-firefox } for { -brand-name-windows }, { -brand-name-mac-short } eller { -brand-name-linux }. { -brand-name-firefox } er ein gratis nettlesar støtta av { -brand-name-mozilla }, ein ideell organisasjon dedikert til internetthelse og personvern.
 firefox-desktop-download-og-title = Last ned den raskaste { -brand-name-firefox } nokon gong
 firefox-desktop-download-og-desc = Raskare sidelasting, mindre minnebruk og fullstappa med funksjonarr, nye { -brand-name-firefox } er her.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
