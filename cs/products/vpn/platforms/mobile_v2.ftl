@@ -7,6 +7,7 @@
 
 vpn-mobile-get-a-vpn = Získejte VPN pro mobily od { -brand-name-mozilla(case: "gen") }
 vpn-mobile-vpn-for-mobile = VPN pro mobilní zařízení od { -brand-name-mozilla(case: "gen") }
+vpn-mobile-in-todays = V dnešním mobilním světě se při komunikaci, zábavě a práci spoléháme na naše mobilní telefony a zařízení. Bez sítě VPN však můžou být vaše osobní údaje zranitelné vůči několika rizikům zabezpečení a ochrany soukromí.
 vpn-mobile-why-do-i = Proč potřebuji VPN na mobilním zařízení?
 vpn-mobile-your-internet-v2 = Poskytovatel internetových služeb (ISP) může omezit šířku pásma, pokud ví, že sledujete filmy, posloucháte hudbu nebo streamujete.
 # Obsolete string
