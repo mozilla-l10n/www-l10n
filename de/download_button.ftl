@@ -54,3 +54,4 @@ download-button-please-download-esr = Bitte laden Sie { -brand-name-firefox-esr 
 download-firefox-esr = { -brand-name-firefox-esr } herunterladen
 download-firefox-esr-32 = { -brand-name-firefox-esr } 32-Bit herunterladen
 download-firefox-esr-64 = { -brand-name-firefox-esr } 64-Bit herunterladen
+download-a-different-build = Andere Version herunterladen
