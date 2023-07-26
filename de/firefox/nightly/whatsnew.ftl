@@ -19,6 +19,11 @@ nightly-whatsnew-every-6-to-8-weeks = Alle sechs bis acht Wochen erscheint eine 
 
 nightly-whatsnew-this-is-a-good = Bei dieser Gelegenheit danken wir Ihnen für Ihre Hilfe bei der Verbesserung von { -brand-name-firefox } und weisen Sie auf Dokumentation, Kommunikationskanäle und Websites für Neuigkeiten zu { -brand-name-nightly } hin, die Sie interessieren könnten.
 
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to-v2 = Sie möchten wissen, was rund um { -brand-name-nightly } und der Community passiert? Dann fangen Sie am besten damit an, unseren <a href="{ $blog }">Blog</a> zu lesen und uns auf <a href="{ $mastodon }">Mastodon</a> oder <a href="{ $twitter }">Twitter</a> zu folgen!
 
 # Obsolete
 nightly-whatsnew-if-you-want-to = Wenn Sie wissen möchten, was sich im Umfeld von { -brand-name-nightly } und der Gemeinschaft tut, lesen Sie für den Einstieg unser <a href="{ $blog }">Blog</a> und folgen Sie uns auf <a href="{ $twitter }">{ -brand-name-twitter }</a>!
