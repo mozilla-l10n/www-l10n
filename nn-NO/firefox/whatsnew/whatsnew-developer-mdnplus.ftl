@@ -18,4 +18,5 @@ developer-mdnplus-notifications = Varsel
 developer-mdnplus-development-in-real-time = Utvikling i realtid: Få tilpassa varsel
 developer-mdnplus-collections = Samlingar
 developer-mdnplus-build-your-perfect-library = Bygg ditt perfekte bibliotek. Eller la oss gjere det for deg.
+developer-mdnplus-mdn-offline = { -brand-name-mdn } offline
 developer-mdnplus-resources-for-developers = Resursar for utviklarar, av utviklarar.
