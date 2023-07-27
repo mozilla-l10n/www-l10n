@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
 vpn-mobile-get-a-vpn = { -brand-name-mozilla } کنوں موبائل کیتے وی پی این گھنو
+vpn-mobile-vpn-for-mobile = { -brand-name-mozilla } کنوں موبائل کیتے وی پی این
