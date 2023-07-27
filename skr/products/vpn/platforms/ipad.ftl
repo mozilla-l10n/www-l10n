@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/ipad/
 
+vpn-ipad-vpn-for = { -brand-name-mozilla } کنوں iOS/iPad کیتے وی پی این
 vpn-ipad-with-mozilla-vpn = { -brand-name-mozilla-vpn } نال تساں گھن سڳدے ہو:
