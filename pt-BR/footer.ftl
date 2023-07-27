@@ -36,7 +36,7 @@ footer-sign-up = Criar uma conta
 footer-sign-in = Entrar
 # Outdated string
 footer-benefits = Benefícios
-footer-developers = Desenvolvedores
+footer-developers = Desenvolvimento
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
