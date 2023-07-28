@@ -7,4 +7,5 @@
 
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } на Linux
 vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } на Linux для больш прыватнага і бяспечнага інтэрнэту
+vpn-linux-linux-is-free = Linux бясплатны, мае адкрыты зыходны код і наладжваецца, але ён не застрахаваны ад праблем з бяспекай і прыватнасцю ў інтэрнэце. Як і карыстальнікі іншых аперацыйных сістэм, карыстальнікі Linux сутыкаюцца з цэнзурай, сачэннем і хакерамі.
 vpn-linux-why-choose = Чаму варта выбраць { -brand-name-mozilla-vpn } для Linux?
