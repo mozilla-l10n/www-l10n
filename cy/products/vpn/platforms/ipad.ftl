@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/ipad/
 
-vpn-ipad-vpn-for = VPN ar gyfer iOS/iPad o { -brand-name-mozilla }
+vpn-ipad-vpn-for = VPN ar gyfer iOS/iPad gan { -brand-name-mozilla }
 vpn-ipad-looking-for = Chwilio am VPN i amddiffyn eich iPad? Mae { -brand-name-mozilla-vpn } yn cael ei gefnogi gan gwmni di-elw. Dysgwch sut mae VPN yn eich amddiffyn a pham y dylech ymddiried yn { -brand-name-mozilla } am eich preifatrwydd a'ch diogelwch.
 vpn-ipad-if-you-own = Os ydych chi'n berchen ar iPad, mae'n debyg eich bod chi'n ei ddefnyddio ar gyfer llawer o bethau: pori'r we, gwylio fideos, chwarae gemau, darllen llyfrau, a mwy. Ond p'un a ydych gartref neu wrth fynd, gall eich cysylltiad rhyngrwyd ddatgelu'ch data personol a'ch lleoliad i hacwyr, hysbysebwyr, a thrydydd partïon eraill a all ddefnyddio cwcis a'ch IP i'ch olrhain.
 vpn-ipad-thats-why-you = Dyna pam mae angen { -brand-name-mozilla-vpn }, gwasanaeth VPN cyflym, dibynadwy a hawdd ei ddefnyddio sy'n cadw'ch gweithgaredd ar-lein i ffwrdd o lygaid busneslyd.

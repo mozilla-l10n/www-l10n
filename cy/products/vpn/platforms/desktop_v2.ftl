@@ -11,4 +11,4 @@ vpn-desktop-vpns-can-provide = Gall VPNs ddarparu haen ychwanegol o ddiogelwch a
 vpn-desktop-how-does-a = Sut mae VPN yn diogelu fy ngliniadur neu gyfrifiadur personol?
 vpn-desktop-there-are-several = Mae yna sawl rheswm pam y dylech chi ddefnyddio VPN i ddiogelu eich hun wrth ddefnyddio'ch gliniadur neu'ch cyfrifiadur personol:
 vpn-desktop-stronger-privacy = <strong>Preifatrwydd cryfach:</strong> Gan fod VPN yn cuddio'ch cyfeiriad IP, gallwch bori'r rhyngrwyd yn fwy preifat, gan wybod na all casglwyr data pwytho'ch gweithgaredd sy'n defnyddio'ch IP fel dynodwr unigryw.
-vpn-desktop-safer-against-spying = <strong>Yn fwy diogel rhag ysbïo:</strong> Mae amgryptio'ch data trwy VPN yn ei gwneud bron yn amhosibl i unrhyw un sy'n snooping ar eich cysylltiad rhwydwaith wybod beth rydych chi'n cyfathrebu â nhw a gyda phwy.
+vpn-desktop-safer-against-spying = <strong>Yn fwy diogel rhag ysbïo:</strong> Mae amgryptio'ch data trwy VPN yn ei gwneud bron yn amhosibl i unrhyw un sy'n ceisio gwrando ar eich cysylltiad rhwydwaith wybod beth rydych chi'n cyfathrebu a gyda phwy.
