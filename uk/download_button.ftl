@@ -41,4 +41,6 @@ download-button-firefox-privacy-notice = Повідомлення про при�
 download-button-download = Завантажити
 download-button-please-download-esr = Завантажте { -brand-name-firefox-esr } (випуск розширеної підтримки), щоб використовувати { -brand-name-firefox }.
 download-firefox-esr = Завантажити { -brand-name-firefox-esr }
+download-firefox-esr-32 = Завантажити 32-розрядий { -brand-name-firefox-esr }
+download-firefox-esr-64 = Завантажити 64-розрядий { -brand-name-firefox-esr }
 download-a-different-build = Завантажити іншу збірку
