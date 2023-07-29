@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Завантажити зараз
 download-button-free-download = Завантажити
@@ -39,3 +39,6 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> для { -bra
 download-button-firefox-privacy = Приватність { -brand-name-firefox }
 download-button-firefox-privacy-notice = Повідомлення про приватність { -brand-name-firefox }
 download-button-download = Завантажити
+download-button-please-download-esr = Завантажте { -brand-name-firefox-esr } (випуск розширеної підтримки), щоб використовувати { -brand-name-firefox }.
+download-firefox-esr = Завантажити { -brand-name-firefox-esr }
+download-a-different-build = Завантажити іншу збірку
