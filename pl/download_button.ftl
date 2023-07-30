@@ -44,3 +44,8 @@ download-button-download = Pobierz
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">nie jest już wspierany</a> w systemach { $os_version } i starszych.
+download-button-please-download-esr = Pobierz { -brand-name-firefox-esr(case: "acc") } (Extended Support Release), aby używać { -brand-name-firefox(case: "acc") }.
+download-firefox-esr = Pobierz { -brand-name-firefox-esr(case: "acc") }
+download-firefox-esr-32 = Pobierz 32-bitowego { -brand-name-firefox-esr(case: "acc") }
+download-firefox-esr-64 = Pobierz 64-bitowego { -brand-name-firefox-esr(case: "acc") }
+download-a-different-build = Pobierz inną wersję
