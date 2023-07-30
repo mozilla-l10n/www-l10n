@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/about/legal/
 
 legal-get-involved = Ver med
+legal-thunderbird = { -brand-name-thunderbird }
+legal-thunderbird-rights = { -brand-name-thunderbird }: Om rettane dine
