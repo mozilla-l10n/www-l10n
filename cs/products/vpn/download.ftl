@@ -40,5 +40,9 @@ vpn-download-based-on-your = Na základě vašeho aktuálního zařízení
 vpn-download-get-mozilla-vpn = Získat { -brand-name-mozilla-vpn(case: "acc") }
 vpn-download-privacy-you-can = Soukromí, kterému můžete věřit
 vpn-download-also-available = K dispozici také pro:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = Od tvůrce { -brand-name-firefox(case: "gen") }, { -brand-name-mozilla-vpn } používá pokročilý protokol <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® s šifrováním vaší online aktivity a skrytím vašeho umístění.
 vpn-download-we-never-log = Nikdy si nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data.
 vpn-download-previous-versions = Stáhněte si předchozí verze pro { -brand-name-windows } a { -brand-name-mac-short }
