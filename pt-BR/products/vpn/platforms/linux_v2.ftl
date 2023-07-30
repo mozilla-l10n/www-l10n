@@ -17,6 +17,7 @@ vpn-linux-fast-and = <strong>Rápido e confiável:</strong> O { -brand-name-mozi
 vpn-linux-no-logs = <strong>Sem registros:</strong> O { -brand-name-mozilla-vpn } não mantém nenhum registro de sua atividade de rede. Não registramos quais sites você visita nem inspecionamos seu tráfego de rede.
 vpn-linux-additional-security = <strong>Recursos adicionais de segurança:</strong> Usamos bloqueio de DNS para bloquear anúncios, rastreadores e malware. Em vez disso, um navegador só pode impedir que sites forneçam malware e rastreiem você.
 vpn-linux-device-level = <strong>Criptografia a nível de dispositivo:</strong> Diferente de VPNs que só criptografam o tráfego de rede do seu navegador, o { -brand-name-mozilla-vpn } criptografa todo o tráfego de rede do seu dispositivo, inclusive de todos os seus aplicativos e jogos.
+vpn-linux-multi-hop = <strong>Roteamento de saltos múltiplos:</strong> Para proteção adicional, o { -brand-name-mozilla-vpn } pode criptografar seu tráfego de rede e rotear através de dois locais, em vez de um, dificultando para qualquer um rastrear sua atividade online.
 vpn-linux-simple-and = <strong>Interface simples e intuitiva:</strong> Conecte-se a um servidor com um único clique. Você também pode personalizar suas configurações e preferências de acordo com suas necessidades.
 vpn-linux-it-helps-restore = <strong>Ajuda a restaurar a neutralidade da rede:</strong> O { -brand-name-mozilla-vpn } ajuda a retomar o controle sobre suas atividades online, ao impedir que provedores de internet limitem sua largura de banda ou bloqueiem sites ou serviços que eles usam não gostam, ou que competem com suas próprias ofertas.
 vpn-linux-gui-client = <strong>Cliente de interface gráfica do usuário:</strong> O { -brand-name-mozilla-vpn } tem um cliente de interface gráfica do usuário, enquanto alguns provedores de VPN fornecem apenas uma versão de linha de comando.
@@ -34,3 +35,9 @@ vpn-linux-if-you-use = Se você usa uma das versões suportadas do Ubuntu, há d
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Modo de linha de comando do Ubuntu:</strong> Para obter instruções detalhadas de como instalar o { -brand-name-mozilla-vpn } usando ferramentas do modo de linha de comando, consulte <a { $attrs }>Como instalar o { -brand-name-mozilla-vpn } em um computador Linux</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Interface gráfica do usuário do Ubuntu:</strong> Consulte <a { $attrs }>este artigo</a> e siga as instruções na seção “Como adicionar arquivos de pacotes pessoais”.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Além disso, para distribuições Linux sem suporte, você pode obter e compilar o código-fonte do <a { $attrs }>repositório oficial do GitHub</a>.
