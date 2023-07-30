@@ -21,6 +21,12 @@ privacy-faq-the-following-questions-and = Následující otázky a odpovědi vá
 privacy-faq-i-use-firefox-for-almost-everything = Používám { -brand-name-firefox } téměř pořád. To o mně musíte v { -brand-name-mozilla(case: "loc") } vědět spoustu věcí, že?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, který běží na vašem zařízení, je skutečnou vaší bránou do internetu. Může spravovat mnoho informací o navštívených stránkách, ale všechny zůstávají na vašem zařízení. My, { -brand-name-mozilla }, společnost, která { -brand-name-firefox(case: "acc") } vytváří, tato data nesbíráme (pokud nás o to sami nepožádáte).
 privacy-faq-really-you-dont-collect-my-browsing = Opravdu nevidíte nic z mé historie prohlížení?
+privacy-faq-mozilla-doesnt-know-as-much-v2 =
+    { -brand-name-mozilla.case-status ->
+        [with-cases] { -brand-name-mozilla } toho o tom, jak lidé prohází web, neví zdaleka tolik, kolik byste očekávali. Pro nás jako autory prohlížeče je to velká výzva. Proto máme zabudované volitelné nástroje, která povolují zapojeným uživatelům dát nám vzhled do toho, jak prohlížejí web. Pokud synchronizujete historii prohlížení napříč instalacemi { -brand-name-firefox(case: "gen") }, nevíme o této historii nic — jednoduše proto, že je šifrována již na vašem zařízení.
+       *[no-cases] { -brand-name-mozilla } toho o tom, jak lidé prohází web, neví zdaleka tolik, kolik byste očekávali. Pro nás jako autory prohlížeče je to velká výzva. Proto máme zabudované volitelné nástroje, která povolují zapojeným uživatelům dát nám vzhled do toho, jak prohlížejí web. Pokud synchronizujete historii prohlížení napříč instalacemi aplikace { -brand-name-firefox }, nevíme o této historii nic — jednoduše proto, že je šifrována již na vašem zařízení.
+    }
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } o vás opravdu neví zdaleka tolik, kolik byste mohli očekávat. Pro nás jako autory prohlížeče to může být složité, a proto nabízíme volitelné nástroje jako <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, které dovolují posílat nám informace o tom, jak prohlížíte internet. Pokud synchronizujete svou historii prohlížení mezi různými instalacemi { -brand-name-firefox(case: "gen") }, nic z ní nevidíme. Je totiž zašifrovaná už na vašem zařízení tak, že jen zase u vás se může dešifrovat.
