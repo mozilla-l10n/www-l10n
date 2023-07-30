@@ -7,6 +7,7 @@
 
 vpn-android-vpn-for-android = VPN pro Android od { -brand-name-mozilla(case: "gen") }
 vpn-android-ease-security = Zbavte se obav o bezpečnost pomocí { -brand-name-mozilla-vpn } pro Android
+vpn-android-looking-for-a = Hledáte VPN pro ochranu svého zařízení se systémem Android? { -brand-name-mozilla-vpn } je podporována neziskovou společností. Přečtěte si, jak vás VPN chrání a proč byste měli svěřit společnosti { -brand-name-mozilla } své soukromí a bezpečnost.
 vpn-android-how-does-a = Jak VPN chrání mé zařízení s Androidem?
 vpn-android-vpns-help = VPN pomáhají předcházet:
 vpn-android-your-internet-activity = Vaše internetová aktivita nebude viditelná a poté prodaná nebo sdílená s inzerenty.
