@@ -11,5 +11,12 @@ vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } em Linux para ter u
 vpn-linux-linux-is-free = Linux é livre, de código aberto e personalizável, mas não é imune a problemas de segurança e privacidade online. Assim como usuários de outros sistemas operacionais, usuários do Linux enfrentam censura, vigilância e invasão de hackers.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } é um serviço de rede privada virtual que usa criptografia de ponta de código aberto e não registra, não rastreia nem compartilha qualquer atividade sua de rede. Ele permite que você se conecte a mais de 500 servidores em mais de 30 países.
 vpn-linux-why-choose = Por que escolher o { -brand-name-mozilla-vpn } para Linux?
+vpn-linux-fast-and-v2 = <strong>Rápido e confiável:</strong> O { -brand-name-mozilla-vpn } usa o protocolo { -brand-name-wireguard }®, que oferece melhor desempenho e estabilidade do que outros protocolos VPN.
+# Obsolete string
+vpn-linux-fast-and = <strong>Rápido e confiável:</strong> O { -brand-name-mozilla-vpn } usa o protocolo { -brand-name-wireguard }®, que oferece melhor desempenho e estabilidade do que outros protocolos VPN
+vpn-linux-no-logs = <strong>Sem registros:</strong> O { -brand-name-mozilla-vpn } não mantém nenhum registro de sua atividade de rede. Não registramos quais sites você visita nem inspecionamos seu tráfego de rede.
 vpn-linux-additional-security = <strong>Recursos adicionais de segurança:</strong> Usamos bloqueio de DNS para bloquear anúncios, rastreadores e malware. Em vez disso, um navegador só pode impedir que sites forneçam malware e rastreiem você.
+vpn-linux-device-level = <strong>Criptografia a nível de dispositivo:</strong> Diferente de VPNs que só criptografam o tráfego de rede do seu navegador, o { -brand-name-mozilla-vpn } criptografa todo o tráfego de rede do seu dispositivo, inclusive de todos os seus aplicativos e jogos.
+vpn-linux-simple-and = <strong>Interface simples e intuitiva:</strong> Conecte-se a um servidor com um único clique. Você também pode personalizar suas configurações e preferências de acordo com suas necessidades.
+vpn-linux-it-helps-restore = <strong>Ajuda a restaurar a neutralidade da rede:</strong> O { -brand-name-mozilla-vpn } ajuda a retomar o controle sobre suas atividades online, ao impedir que provedores de internet limitem sua largura de banda ou bloqueiem sites ou serviços que eles usam não gostam, ou que competem com suas próprias ofertas.
 vpn-linux-how-to-install = Como instalar o { -brand-name-mozilla-vpn } em Linux
