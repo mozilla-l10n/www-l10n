@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
 
 vpn-mac-get-a-vpn = Tenha uma VPN da { -brand-name-mozilla } para macOS
+vpn-mac-looking-for = Procura uma VPN para proteger seu Mac? O { -brand-name-mozilla-vpn } é respaldado por uma empresa sem fins lucrativos. Saiba como uma VPN te protege e por que você deve confiar na { -brand-name-mozilla } para sua privacidade e segurança ao usar seu macOS
 vpn-mac-protect-your-mac = Proteja seu Mac com o { -brand-name-mozilla-vpn }
+vpn-mac-a-vpn-is = Uma VPN (virtual private network) é essencial para sua privacidade e segurança online quando você usa seu Mac. Hackers e provedores de serviço de internet podem espionar sua atividade online ou roubar suas informações pessoais.
 vpn-mac-with-mozilla-vpn = Com o { -brand-name-mozilla-vpn } você pode:
 vpn-mac-get-one-click = Tenha privacidade com um único clique em uma interface simples e amigável.
 vpn-mac-connect-up-to = Conecte até 5 dispositivos diferentes com uma única assinatura, inclusive Mac, mas também iOS, Windows, Linux e Android.
