@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Pobierz teraz
 download-button-free-download = Pobierz za darmo
@@ -39,3 +39,8 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> na { -brand-n
 download-button-firefox-privacy = { -brand-name-firefox } a prywatność
 download-button-firefox-privacy-notice = Zasady ochrony prywatności { -brand-name-firefox(case: "gen") }
 download-button-download = Pobierz
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">nie jest już wspierany</a> w systemach { $os_version } i starszych.
