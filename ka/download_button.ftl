@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = ჩამოტვირთვა
 download-button-free-download = უფასო ჩამოტვირთვა
@@ -39,3 +39,13 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name
 download-button-firefox-privacy = { -brand-name-firefox } პირადულობის განაცხადი
 download-button-firefox-privacy-notice = { -brand-name-firefox } პირადულობის განაცხადი
 download-button-download = ჩამოტვირთვა
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">აღარაა მხარდაჭერილი</a> { $os_version } და უფრო ძველზე.
+download-button-please-download-esr = გთხოვთ ჩამოტვირთოთ { -brand-name-firefox-esr } (გამოშვება გაფართოებული მხარდაჭერით), რომ გამოიყენოთ { -brand-name-firefox }.
+download-firefox-esr = ჩამოტვირთეთ { -brand-name-firefox-esr }
+download-firefox-esr-32 = ჩამოტვირთეთ { -brand-name-firefox-esr } 32-ბიტიანი
+download-firefox-esr-64 = ჩამოტვირთეთ { -brand-name-firefox-esr } 64-ბიტიანი
+download-a-different-build = ჩამოტვირთეთ სხვა ანაწყობი
