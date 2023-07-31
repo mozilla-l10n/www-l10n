@@ -12,5 +12,9 @@ vpn-linux-linux-is-free = Linux je svobodný, má otevřený zdrojový kód, lze
 vpn-linux-why-choose = Proč zvolit { -brand-name-mozilla-vpn } pro Linux?
 vpn-linux-how-to-install = Jak nainstalovat { -brand-name-mozilla-vpn } na Linuxu
 # Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Pokud používáte jedno z podporovaných vydání Ubuntu, existují dva způsoby, jak nainstalovat oficiální balíčky mozillavpn hostované na <a { $attrs }>Launchpadu:</a>
+# Variables:
 #   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
 vpn-linux-additionally = Navíc pro nepodporované distribuce Linuxu můžete vzít a zkompilovat zdrojový kód z <a { $attrs }>oficiálního úložiště na GitHubu</a>.

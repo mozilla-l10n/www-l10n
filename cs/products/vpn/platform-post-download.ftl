@@ -45,6 +45,7 @@ vpn-download-faq-encrypting = Šifrování vašeho internetového provozu: takž
 vpn-download-faq-working = Jak poznám, že VPN funguje?
 vpn-download-faq-add-device = Jak přidám další zařízení?
 vpn-download-faq-best-practices = Jaké jsou některé osvědčené postupy při používání VPN?
+vpn-download-faq-traffic = Pokud je vaším cílem chránit internetový provoz a zároveň zachovat vysokou rychlost, je vždy nejlepší zvolit umístění serveru co nejblíže vaší fyzické poloze. Tím se zvýší spolehlivost a rychlost vašeho připojení, protože váš internetový provoz nebude muset absolvovat značnou okliku, než dorazí na místo určení na webu.
 vpn-download-faq-experience = Pokud je vaším cílem zažít internet tak, jako byste byli v jiné části světa, můžete si zvolit umístění serveru a všechny webové stránky, které navštívíte, se zobrazí, jako byste tam byli.
 vpn-download-faq-lastly = A konečně, na podporovaných zařízeních můžete udělat VPN ještě chytřejší vyloučením určitých aplikací (např. Netflix) z VPN.
 vpn-download-faq-need-more = Potřebujete další pomoc?
