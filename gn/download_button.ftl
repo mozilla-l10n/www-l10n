@@ -44,3 +44,8 @@ download-button-download = Mboguejy
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">ndojokupytyvéima</a> { $os_version }-pe ha umi itujavéva ndive.
+download-button-please-download-esr = Ikatúrõ, emboguejy { -brand-name-firefox-esr } (pytyvõha iñasãiva rehegua) eipuru hag̃ua { -brand-name-firefox }.
+download-firefox-esr = Emboguejy { -brand-name-firefox-esr }
+download-firefox-esr-32 = Emboguejy { -brand-name-firefox-esr } 32-bits
+download-firefox-esr-64 = Emboguejy { -brand-name-firefox-esr } 64-bits
+download-a-different-build = Emboguejy itujavevaichagua
