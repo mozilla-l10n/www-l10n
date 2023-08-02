@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Emboguejy ko’ág̃a
 download-button-free-download = Ñemboguejy reigua
@@ -39,3 +39,8 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name
 download-button-firefox-privacy = { -brand-name-firefox } Mba’eñemi
 download-button-firefox-privacy-notice = { -brand-name-firefox } Marandu’i Ñemigua
 download-button-download = Mboguejy
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">ndojokupytyvéima</a> { $os_version }-pe ha umi itujavéva ndive.
