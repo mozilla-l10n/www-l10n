@@ -28,6 +28,7 @@ vpn-download-not-in-country = Rombyasy, { -brand-name-mozilla-vpn } nereipurukua
 vpn-open-the-file = 1. Embojuruja marandurenda
 vpn-launch-the-app = 2. Emoñepyrũ tembipuru’i
 vpn-login-or-signup = 3. Emoñepyrũ tembiapo térã eñemboheraguapy
+vpn-enter-your-email = Ehai ne ñanduti veve kundaharape eñepyrũ hag̃ua tembiapo térã eñemboheraguapy ha eku’éma
 vpn-turn-on-vpn = 4. Emyandy VPN
 
 ## FAQ Strings
