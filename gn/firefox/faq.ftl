@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -67,12 +67,9 @@ does-firefox-use = ¿{ -brand-name-firefox } oipuru { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } ha’e kundahára ijypykuéva { -brand-name-firefox } pegua, he’iséva ikatuha eheka ñandutípe pe kundaharape renda guive. <a href="{ $url }">Eikuaave jehekaha eguerohoryvéva ha emoambue pe ñemboheko ijypykuéva.</a>
 does-firefox-have = ¿{ -brand-name-firefox } oguereko VPN ojuajúva?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } ndoguerekói VPN (red privada virtual) ojuajupáva, hákatu oĩ mokõi apopyre { -brand-name-mozilla }/{ -brand-name-firefox } eipurukuaáva avei { -brand-name-firefox-browser } ndive omo’ãkuaáva (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) térã pe mba’e’okápe jeike (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) WiFi ndive, péicha avei nde IP kundaharape.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } ndoguerekói VPN (red privada virtual) ojuajupáva, hákatu { -brand-name-mozilla } omoheñói apopyre hérava <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> eipurukuaáva avei { -brand-name-firefox-browser } ndive omo’ãkuaáva nde jeike WiFi ndive, péicha avei nde IP kundaharape.
 related-questions-ip = Porandu ojuehegua: ¿{ -brand-name-firefox } oñomi nde IP?
 who-owns-firefox = ¿Mávapa { -brand-name-firefox } jára?
 
