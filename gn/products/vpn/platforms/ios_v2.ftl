@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios/
 
 vpn-ios-vpn-for-iphone = VPN iPhone-pe g̃uarã { -brand-name-mozilla } rehegua
+vpn-ios-there-are-many = Heta mba’e rupi eipuruva’erã { -brand-name-mozilla-vpn } iPhone peg̃uarã, mba’éicha:
