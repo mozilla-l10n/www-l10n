@@ -34,6 +34,7 @@ vpn-turn-on-vpn = 4. Emyandy VPN
 ## FAQ Strings
 
 vpn-download-faq-need-help = Eikotevẽpa ñepytyvõ eñepyrũ hag̃ua
+vpn-download-faq-here-are-some = Ko’ãvahína umi mba’e oñeporanduvéva { -brand-name-mozilla-vpn } ñemboheko rehegua
 vpn-download-faq-why-use = Mba’érepa eipuruva’erã { -brand-name-mozilla-vpn }
 vpn-download-faq-working = Mba’éichapa aikuaáta VPN oikoporãha
 vpn-download-faq-add-device = Mba’éichapa ambojuajúta ambue mba’e’oka
