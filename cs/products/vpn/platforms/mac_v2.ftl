@@ -15,4 +15,5 @@ vpn-mac-get-one-click = Získejte soukromí na jedno klepnutí s jednoduchým a 
 vpn-mac-connect-up-to = K jednomu předplatnému můžete připojit až 5 různých zařízení, včetně Macu, ale také iOS, Windows, Linuxu a Androidu.
 # “Cap” means putting a limit to
 vpn-mac-use-our-vpn = Používejte naši VPN, jak často chcete. Na rozdíl od některých VPN, které chrání pouze určitý objem dat za měsíc, my váš provoz neomezujeme. Bez ohledu na to, kolik dat používáte, budou vždy chráněna.
+vpn-mac-get-device-level = Získejte šifrování provozu na úrovni zařízení. Na rozdíl od jiných řešení, která šifrují pouze provoz v prohlížeči, { -brand-name-mozilla-vpn } šifruje veškerý provoz a chrání tak váš internetový provoz bez ohledu na to, o jakou aplikaci se jedná.
 vpn-mac-prevent-internet = Zabránit poskytovatelům internetu v omezování nebo blokování webových stránek nebo služeb, které se jim nelíbí nebo které konkurují jejich vlastní nabídce. Další informace o síťové neutralitě naleznete v článku Síťová neutralita.
