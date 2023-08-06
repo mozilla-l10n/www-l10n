@@ -35,18 +35,33 @@ vpn-launch-the-app = 2. Spusťte aplikaci
 vpn-login-or-signup = 3. Přihlaste se nebo zaregistrujte
 vpn-enter-your-email = Pro přihlášení zadejte svou e-mailovou adresu nebo se zaregistrujte a začněte
 vpn-turn-on-vpn = 4. Zapněte VPN
+vpn-pick-a-recommended = Vyberte doporučené umístění pro rychlé a stabilní připojení nebo zvolte požadované umístění ručně, a poté přepínač zapněte.
 
 ## FAQ Strings
 
 vpn-download-faq-need-help = Potřebujete pomoci?
 vpn-download-faq-here-are-some = Zde jsou některé z nejčastějších otázek k nastavení { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Proč bych měl(a) používat { -brand-name-mozilla-vpn }?
+# Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = S tím, jak se stále více každodenního života odehrává prostřednictvím internetu, nabývají soukromí a bezpečnost online ještě většího významu. VPN, <a href="{ $faq }">Virtuální privátní síť</a>, vytváří šifrovaný tunel mezi vašimi zařízeními a internetem, čímž zajišťuje, že vaše připojení zůstane bezpečné a soukromé, a zároveň vás chrání dvěma důležitými způsoby:
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Skrytí vaší skutečné <a href="{ $ip }">IP adresy</a>: pomáhá chránit vaši identitu a skrývá vaši polohu před navštívenými webovými stránkami.
 vpn-download-faq-encrypting = Šifrování vašeho internetového provozu: takže nikdo nemůže špehovat vaši online aktivitu.
 vpn-download-faq-working = Jak poznám, že VPN funguje?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } zobrazuje vizuální indikátory aktuálního stavu na panelu nástrojů i na domovské obrazovce aplikace, takže snadno zjistíte, zda je vaše online aktivita chráněna, či nikoli. Tyto indikátory umožňují potvrdit, kdy je vaše komunikace soukromá a bezpečná. Kromě toho můžete během připojení navštívit <a href="{ $monitor }">https://monitor.firefox.com/</a> a potvrdit, zda je vaše IP adresa maskována. Další podrobnosti naleznete v části <a href="{ $connected }">Jak zjistím, zda je { -brand-name-mozilla-vpn } připojena?</a>.
 vpn-download-faq-add-device = Jak přidám další zařízení?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v2 = Přidání dalšího zařízení je stejně jednoduché jako stažení a instalace softwaru { -brand-name-mozilla-vpn }, a následné přihlášení ke stávajícímu { -brand-name-firefox-account } na novém zařízení. Další podrobnosti naleznete v <a href="{ $subscription }">Jak přidat zařízení k vašemu předplatnému { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Jaké jsou některé osvědčené postupy při používání VPN?
 vpn-download-faq-traffic = Pokud je vaším cílem chránit internetový provoz a zároveň zachovat vysokou rychlost, je vždy nejlepší zvolit umístění serveru co nejblíže vaší fyzické poloze. Tím se zvýší spolehlivost a rychlost vašeho připojení, protože váš internetový provoz nebude muset absolvovat značnou okliku, než dorazí na místo určení na webu.
 vpn-download-faq-experience = Pokud je vaším cílem zažít internet tak, jako byste byli v jiné části světa, můžete si zvolit umístění serveru a všechny webové stránky, které navštívíte, se zobrazí, jako byste tam byli.
+vpn-download-faq-protect = Pokud se chcete chránit ještě více, můžete si aktivovat ochranu proti reklamám, sledovací a malwaru v Nastavení > Funkce ochrany soukromí. Upozorňujeme, že to může způsobit, že se některé webové stránky budou rozbité nebo se nebudou načítat, takže pokud na tento problém narazíte, možná budete muset tyto ochrany dočasně deaktivovat.
 vpn-download-faq-lastly = A konečně, na podporovaných zařízeních můžete udělat VPN ještě chytřejší vyloučením určitých aplikací (např. Netflix) z VPN.
 vpn-download-faq-need-more = Potřebujete další pomoc?
 # Variables
