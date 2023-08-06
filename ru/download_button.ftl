@@ -48,4 +48,4 @@ download-button-please-download-esr = Пожалуйста, загрузите {
 download-firefox-esr = Загрузить { -brand-name-firefox-esr }
 download-firefox-esr-32 = Загрузить { -brand-name-firefox-esr } (32-разрядная версия)
 download-firefox-esr-64 = Загрузить { -brand-name-firefox-esr } (64-разрядная версия)
-download-a-different-build = Скачать другую сборку
+download-a-different-build = Загрузить другую сборку
