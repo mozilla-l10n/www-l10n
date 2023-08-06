@@ -195,6 +195,8 @@ newsletters-add-your-voice = Připojte se k peticím, událostem a iniciativám,
 # Name for the newsletter in Newsletter subscription page
 newsletters-new-product-testing = Testování nových produktů
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
+newsletters-help-us-make-a-better-v2 = Pomozte nám vytvořit lepší { -brand-name-mozilla(case: "acc") } pro vás tím, že vyzkoušíte naše nejnovější produkty a funkce.
+# Obsolete string
 newsletters-help-us-make-a-better = Pomozte nám vylepšovat { -brand-name-firefox(case: "acc") } testováním nejnovějších produktů a funkcí.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Komunita { -brand-name-mozilla(case: "gen") }
@@ -294,6 +296,10 @@ newsletters-special-announcements-helping-you = Zvláštní oznámení, která v
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Získejte tipy od { -brand-name-mozilla(case: "gen") }, jak ze svého účtu vytěžit maximum.
+# Name for the newsletter in Newsletter subscription page (Welcome emails)
+newsletters-welcome-emails = Welcome emails
+# Description for the newsletter in Newsletter subscription page (Welcome emails)
+newsletter-welcome-emails-that-get-you = Welcome emails je zpravodaj, které vám pomůže začít používat naše produkty a služby.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
@@ -311,3 +317,8 @@ knowledge-is-power-pocket = { -brand-name-pocket }
 newsletters-update-your-browser = Pro použití tuto stránky prosím aktualizujte svůj prohlížeč.
 # Name for the newsletter in Newsletter subscription page
 newsletters-security-and-privacy-news = Novinky o bezpečnosti a soukromí
+# Description for the newsletter in Newsletter subscription page (Security & Privacy News)
+newsletters-stay-informed-of-the-latest = Buďte informováni o nejnovějších trendech v oblasti ochrany soukromí a zabezpečení od { -brand-name-mozilla(case: "acc") }, tvůrců { -brand-name-firefox("case:gen") }.
+# Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
+newsletters-get-security-and-privacy-news-and-tips = Získávejte novinky a aktualizace produktů z oblasti zabezpečení a ochrany osobních údajů od společnosti { -brand-name-mozilla } a buďte v bezpečí a informováni o všem, co dělá web zdravějším místem.
+newsletters-opt-out-delay = Zpracování vaší žádosti o odhlášení může trvat 1-2 pracovní dny, během nichž můžete obdržet další e-mail.

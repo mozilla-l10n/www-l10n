@@ -19,11 +19,25 @@ vpn-linux-additional-security = <strong>Další bezpečnostní funkce:</strong> 
 vpn-linux-device-level = <strong>Šifrování na úrovni zařízení:</strong> Na rozdíl od sítí VPN, které šifrují pouze provoz v prohlížeči, { -brand-name-mozilla-vpn } šifruje veškerý provoz vašeho zařízení, včetně všech aplikací a her.
 vpn-linux-multi-hop = <strong>Multi-hop směrování:</strong> Pro zvýšení ochrany může { -brand-name-mozilla-vpn } šifrovat váš provoz a směrovat jej přes dvě místa místo jednoho, takže je pro kohokoli obtížnější sledovat vaši online aktivitu.
 vpn-linux-simple-and = <strong>Jednoduché a intuitivní rozhraní:</strong> K serveru se připojíte jedním klepnutím. Můžete si také přizpůsobit nastavení a preference podle svých potřeb.
+vpn-linux-it-helps-restore = <strong>Pomáhá obnovit síťovou neutralitu:</strong> { -brand-name-mozilla-vpn } vám pomáhá získat zpět kontrolu nad vašimi online aktivitami tím, že zabraňuje poskytovatelům internetu omezovat šířku pásma nebo blokovat webové stránky či služby, které se jim nelíbí nebo které konkurují jejich vlastní nabídce.
+vpn-linux-gui-client = <strong>GUI klient:</strong>{ -brand-name-mozilla-vpn } má GUI klienta (grafické uživatelské rozhraní), zatímco někteří poskytovatelé VPN poskytují pouze verzi CLI (příkazový řádek).
+vpn-linux-by-using = Pomocí { -brand-name-mozilla-vpn } můžete získat zpět kontrolu nad svými online aktivitami a chránit své soukromí a data. Stáhněte si { -brand-name-mozilla-vpn } ještě dnes a využijte 30denní záruku vrácení peněz bez protokolů, bez problémů a bez rizika.
 vpn-linux-how-to-install = Jak nainstalovat { -brand-name-mozilla-vpn } na Linuxu
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Pokud používáte jedno z podporovaných vydání Ubuntu, existují dva způsoby, jak nainstalovat oficiální balíčky mozillavpn hostované na <a { $attrs }>Launchpadu:</a>
+# Obsolete string
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use = Pokud používáte jedno z podporovaných vydání Ubuntu, existují dva způsoby, jak nainstalovat oficiální balíčky mozillavpn hostované na <a { $attrs }>launchpadu:</a>.
+# Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Režim příkazového řádku Ubuntu:</strong> Podrobné pokyny k instalaci { -brand-name-mozilla-vpn } pomocí nástrojů v režimu příkazového řádku naleznete v <a { $attrs }>Jak nainstalovat { -brand-name-mozilla-vpn } na počítač s Linuxem</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Grafické uživatelské rozhraní Ubuntu:</strong> Navštivte <a { $attrs }>tento článek</a> a postupujte podle pokynů v části Přidání osobních archivů balíčků.
 # Variables:
 #   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
 vpn-linux-additionally = Navíc pro nepodporované distribuce Linuxu můžete vzít a zkompilovat zdrojový kód z <a { $attrs }>oficiálního úložiště na GitHubu</a>.
