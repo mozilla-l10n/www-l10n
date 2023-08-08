@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -16,12 +16,12 @@ firefox-enterprise-get-firefox-for-your-enterprise = { -brand-name-firefox } თ
 firefox-enterprise-get-the-firefox-extended-support = გადმოწერეთ <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ან სწრაფი გამოშვების</a> ბრაუზერი მონაცემთა უსაფრთხოების სრული და ყოველმხრივი დაცვით.
 firefox-enterprise-unmatched-data-protection = მონაცემთა უბადლო დაცვა — გამოშვებები თქვენზე მორგებული სიხშირით
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox }-ბრაუზერი ღია წყაროს მქონეა და გთავაზობთ თვალთვალისგან გაძლიერებულ დაცვას — შემადგენელ ნაწილს, უსაფრთხოების დაცვისადმი ჩვენი ხანგრძლივი და მტკიცე ერთგულების.
+firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox }-ბრაუზერი ღია წყაროს მქონეა და გთავაზობთ თვალთვალისგან გაძლიერებულ დაცვას — შემადგენელ ნაწილს, უსაფრთხოების დაცვისადმი ჩვენი ხანგრძლივი და მტკიცე ერთგულებისა.
 firefox-enterprise-your-data-stays-your-business = თქვენი მონაცემები, თქვენი საქმეა
 firefox-enterprise-deploy-when-and-how-you-want = გამართეთ, როცა და როგორც გნებავთ
-firefox-enterprise-with-install-packages-and = დასაყენებელი კრებულებით, ასევე ფართო გამოყენების დებულებებითა და შესაძლებლობებით, გამართვა არნახულად სწრაფი და მოქნილია — ერთი ამოსუნთქვით მუშაობს { -brand-name-windows } და { -brand-name-mac }-გარემოში.
+firefox-enterprise-with-install-packages-and = დასაყენებელი კრებულებით, ასევე ფართო გამოყენების დებულებებითა და შესაძლებლობებით გამართვა არნახულად სწრაფი და მოქნილია — ერთი ამოსუნთქვით მუშაობს { -brand-name-windows }- და { -brand-name-mac }-გარემოში.
 firefox-enterprise-choose-your-release-cadence = გამოშვების სასურველი სიხშირე
-firefox-enterprise-get-rapid-releases-to-make = გამოიყენეთ სწრაფი გამოშვებები, უახლესი შესაძლებლობების მალე მისაღებად ან გადადით გაფართოებულ გამოშვებაზე, მდგრადობის უზრუნველსაყოფად.
+firefox-enterprise-get-rapid-releases-to-make = გამოიყენეთ სწრაფი გამოშვებები უახლესი შესაძლებლობების მალე მისაღებად ან გადადით გაფართოებულ გამოშვებაზე მდგრადობის უზრუნველსაყოფად.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } – ჩამოტვირთვები
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-ბიტიანი
 firefox-enterprise-macos = { -brand-name-mac }
