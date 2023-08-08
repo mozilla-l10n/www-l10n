@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Gam kombedi
 download-button-free-download = Kwanyo me Nono
@@ -39,3 +39,4 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pi { -brand-n
 download-button-firefox-privacy = Mung me { -brand-name-firefox }
 download-button-firefox-privacy-notice = Ngec me Mung pa { -brand-name-firefox }
 download-button-download = Kwany
+download-firefox-esr = Gam { -brand-name-firefox-esr }
