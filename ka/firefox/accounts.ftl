@@ -17,7 +17,7 @@ firefox-accounts-manage = მართეთ თქვენი ანგარ�
 # This is followed by a list of things you can do with your Firefox account
 firefox-accounts-sign-in-to = შედით თქვენს { -brand-name-firefox-account(case: "ine") }:
 # Obsolete string
-firefox-accounts-meet-our-family-of = გაეცანით, პირადულობის უწინარესობის უზრუნველმყოფი პროდუქტების ჩვენს ნაკრებს.
+firefox-accounts-meet-our-family-of = გაეცანით პირადულობის უწინარესობის უზრუნველმყოფი პროდუქტების ჩვენს ნაკრებს.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">გაგზავნეთ ჩანართი</a> სხვა მოწყობილობაზე
