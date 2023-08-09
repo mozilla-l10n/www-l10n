@@ -39,3 +39,13 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> za { -brand-n
 download-button-firefox-privacy = { -brand-name-firefox } privatnost
 download-button-firefox-privacy-notice = { -brand-name-firefox } obavijest o privatnosti
 download-button-download = Preuzmi
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">više nije podržan</a> na { $os_version } i niže.
+download-button-please-download-esr = Molimo preuzmite { -brand-name-firefox-esr } (izdanje proširene podrške) da koristite { -brand-name-firefox }.
+download-firefox-esr = Preuzmite { -brand-name-firefox-esr }
+download-firefox-esr-32 = Preuzmite { -brand-name-firefox-esr } 32-bit
+download-firefox-esr-64 = Preuzmite { -brand-name-firefox-esr } 64-bit
+download-a-different-build = Preuzmite drugu verziju
