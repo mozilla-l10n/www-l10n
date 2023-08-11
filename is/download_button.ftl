@@ -48,3 +48,4 @@ download-button-please-download-esr = Sæktu { -brand-name-firefox-esr } (Extend
 download-firefox-esr = Sækja { -brand-name-firefox-esr }
 download-firefox-esr-32 = Sækja { -brand-name-firefox-esr } 32-bita
 download-firefox-esr-64 = Sækja { -brand-name-firefox-esr } 64-bita
+download-a-different-build = Sækja aðra byggingarútgáfu
