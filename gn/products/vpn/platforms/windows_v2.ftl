@@ -8,3 +8,4 @@
 # New strings for updated page
 vpn-windows-get-a-vpn = Ereko VPN Windows-pe g̃uarã { -brand-name-mozilla } rehegua
 vpn-windows-stay-safe = Eiko tekorosã ha ñemo’ãme ne Windows mba’e’okápe VPN ndive
+vpn-windows-what-are-the-benefits = ¿Mba’épa ome’ẽkua amboguejývo { -brand-name-mozilla-vpn } che mba’e’okápe Windows?
