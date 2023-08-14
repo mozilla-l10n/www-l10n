@@ -11,7 +11,7 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } არის უსწრაფესი ბრაუზერი, რომელიც გთავაზობთ შემმუშავებლის უახლეს ხელსაწყოებსა და შესაძლებლობებს, როგორიცაა CSS-ბადის მხარდაჭერა და სამუშაო გარსის გამმართველი
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
-firefox-developer-welcome-to-your-new-favorite = მოგესალმებათ თქვენი ახალი რჩეული ბრაუზერი. ისარგებლეთ უახლესი შესაძლებლობებით, წარმადობითა და შემმუშავებლის ხელსაწყოებით, ღია და გახსნილი ვებპროექტების შესაქმნელად.
+firefox-developer-welcome-to-your-new-favorite = მოგესალმებათ თქვენი ახალი რჩეული ბრაუზერი. ისარგებლეთ უახლესი შესაძლებლობებით, გაზრდილი წარმადობითა და შემმუშავებლის ხელსაწყოებით ღია და გახსნილი ვებპროექტების შესაქმნელად.
 firefox-developer-speak-up = გამოთქვით მოსაზრება
 firefox-developer-feedback-makes-us = გამოხმაურებები გვეხმარება გაუმჯობესებაში. მოგვახსენეთ თქვენი აზრი, თუ როგორ შეიძლება გავხადოთ ბრაუზერი და შემმუშავებლის ხელსაწყოები, მეტად მოსახერხებელი.
 firefox-developer-join-the-convo = შემოუერთდით განხილვას
