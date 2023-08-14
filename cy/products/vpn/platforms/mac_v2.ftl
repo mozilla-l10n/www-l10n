@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
 
-vpn-mac-get-a-vpn = Sicrhewch VPN ar gyfer macOS gan { -brand-name-mozilla }
-vpn-mac-looking-for = Chwilio am VPN i amddiffyn eich Mac? Mae { -brand-name-mozilla-vpn } yn cael ei gefnogi gan gwmni di-elw. Dysgwch sut mae VPN yn eich amddiffyn a pham y dylech ymddiried yn { -brand-name-mozilla } gyda'ch preifatrwydd a'ch diogelwch wrth ddefnyddio'ch macOS
+vpn-mac-get-a-vpn = Cael VPN ar gyfer macOS gan { -brand-name-mozilla }
+vpn-mac-looking-for = Chwilio am VPN i ddiogelu eich Mac? Mae { -brand-name-mozilla-vpn } yn cael ei gefnogi gan gwmni dim-er-elw. Dysgwch sut mae VPN yn eich diogelu a pham y dylech ymddiried yn { -brand-name-mozilla } gyda'ch preifatrwydd a'ch diogelwch wrth ddefnyddio'ch macOS
 vpn-mac-protect-your-mac = Amddiffyn eich Mac gyda { -brand-name-mozilla-vpn }
 vpn-mac-a-vpn-is = Mae VPN (rhwydwaith preifat rhithwir) yn hanfodol ar gyfer eich preifatrwydd a diogelwch ar-lein pan fyddwch chi'n defnyddio'ch Mac. Gall hacwyr, a darparwyr rhyngrwyd ysbïo ar eich gweithgaredd ar-lein, neu ddwyn eich data personol.
 vpn-mac-but-finding = Ond gall dod o hyd i VPN da fod yn anodd. Mae rhai yn araf, yn annibynadwy, a hyd yn oed yn cadw logiau o'ch gweithgaredd ar-lein. Dyna pam y gwnaethom adeiladu { -brand-name-mozilla-vpn }, sef VPN cyflym, diogel a dibynadwy gan y bobl a ddaeth â { -brand-name-firefox } i chi.
