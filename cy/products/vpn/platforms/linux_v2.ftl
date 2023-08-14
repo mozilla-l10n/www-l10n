@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } ar Linux
-vpn-linux-looking-for = Chwilio am VPN i amddiffyn eich peiriant Linux? Mae { -brand-name-mozilla-vpn } yn cynnig yr unig wasanaeth gan gwmni di-elw. Dysgwch sut mae VPN yn eich amddiffyn a pham y dylech ymddiried yn { -brand-name-mozilla } am eich preifatrwydd a'ch diogelwch.
+vpn-linux-looking-for = Chwilio am VPN i ddiogelu eich peiriant Linux? Mae { -brand-name-mozilla-vpn } yn cynnig yr unig wasanaeth gan gwmni dim-er-elw. Dysgwch sut mae VPN yn eich diogelu a pham y dylech ymddiried yn { -brand-name-mozilla } am eich preifatrwydd a'ch diogelwch.
 vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } ar Linux i gael rhyngrwyd mwy preifat a diogel
 vpn-linux-linux-is-free = Mae Linux yn rhad ac am ddim, yn ffynhonnell agored, ac yn addasadwy, ond nid yw'n imiwn i faterion diogelwch a phreifatrwydd ar-lein. Yn union fel defnyddwyr systemau gweithredu eraill, mae defnyddwyr Linux yn wynebu sensoriaeth, gwyliadwriaeth a hacio.
 vpn-linux-mozilla-vpn-is-a = Mae { -brand-name-mozilla-vpn } yn wasanaeth rhwydwaith preifat rhithwir sy'n defnyddio amgryptio ffynhonnell agored o'r radd flaenaf ac nid yw'n logio, olrhain na rhannu unrhyw un o'ch gweithgarwch rhwydwaith. Mae'n caniatáu ichi gysylltu â dros 500 o weinyddion mewn 30+ o wledydd.
