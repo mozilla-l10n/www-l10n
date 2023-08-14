@@ -28,5 +28,5 @@ privacy-index-to-review-and-comment-on-proposed = Za pregled i komentar na predl
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Pročitajte više o našoj tekućoj polici privatnosti i sigurnosti na <a href="{ $blog }">{ -brand-name-mozilla }'s Open Policy and Advocacy Blog</a>.
 privacy-index-outdated-policies = Zastarjele police
-privacy-index-mozilla-websites-communications = { -brand-name-mozilla } web stranice, komunijacije i kolačići
+privacy-index-mozilla-websites-communications = { -brand-name-mozilla } web stranice, komunikacija i kolačići
 privacy-index-firefox-fire-tv = { -brand-name-firefox } za { -brand-name-fire-tv }

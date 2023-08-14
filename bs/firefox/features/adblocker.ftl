@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -47,7 +47,7 @@ features-adblocker-take-a-bite-out-of-cookies = Zaustavi kolačiće
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Kolačići</a> šalju web stranice koje posjetite. Oni žive na vašem računaru i prate šta ste radili na nekom web mjestu. Kad aviokompanija povisi cijene, jer ste tog dana pogledali avionske karte, to je djelo kolačića.
 features-adblocker-in-firefox-you-can-block = U { -brand-name-firefox }u možete blokirati sve kolačiće treće strane ili samo one koje su odredili pratioci. Imajte na umu da blokiranje svih kolačića može pokvariti neke web stranice.
-features-adblocker-send-a-do-not-track-signal = Pošalji signal za ne praćenje
+features-adblocker-send-a-do-not-track-signal = Pošaljite signal Ne pratite me
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Ako ne želite da se vaše internetsko ponašanje koristi za oglase, web stranicama možete poslati ljubazno pismo “hvala, ali ne i hvala”, provjerom { -brand-name-firefox } opcije <a href="{ $url }">Ne prati</a>. Učešće je dobrovoljno, ali web stranice koje sudjeluju prestat će vas pratiti odmah.
