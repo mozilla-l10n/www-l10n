@@ -6,11 +6,11 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
 vpn-mobile-get-a-vpn = Cael VPN ar gyfer Symudol o { -brand-name-mozilla }
-vpn-mobile-looking-for-a = Chwilio am VPN i amddiffyn eich dyfais symudol? Mae { -brand-name-mozilla-vpn } yn cael ei gefnogi gan gwmni di-elw. Dysgwch sut mae VPN yn eich amddiffyn a pham y dylech ymddiried yn { -brand-name-mozilla } gyda'ch preifatrwydd a'ch diogelwch.
-vpn-mobile-vpn-for-mobile = VPN ar gyfer Symudol o { -brand-name-mozilla }
-vpn-mobile-in-todays = Yn y byd sy’n canolbwyntio ar ffonau symudol heddiw, rydym yn dibynnu ar ein ffonau symudol a’n dyfeisiau ar gyfer cyfathrebu, adloniant a gwaith. Fodd bynnag, heb VPN, gall eich gwybodaeth bersonol fod yn agored i nifer o risgiau diogelwch a phreifatrwydd.
+vpn-mobile-looking-for-a = Chwilio am VPN i ddiogelu eich dyfais symudol? Mae { -brand-name-mozilla-vpn } yn cael ei gefnogi gan gwmni dim-er-elw. Dysgwch sut mae VPN yn eich diogelu a pham y dylech ymddiried yn { -brand-name-mozilla } gyda'ch preifatrwydd a'ch diogelwch.
+vpn-mobile-vpn-for-mobile = VPN ar gyfer Symudol gan { -brand-name-mozilla }
+vpn-mobile-in-todays = Yn y byd sy’n canolbwyntio ar ffonau symudol heddiw, rydym yn dibynnu ar ein ffonau symudol a’n dyfeisiau ar gyfer cyfathrebu, adloniant a gwaith. Fodd bynnag, heb VPN, gall eich manylion personol fod yn agored i nifer o risgiau diogelwch a phreifatrwydd.
 vpn-mobile-why-do-i = Pam fod angen VPN arnaf ar gyfer Symudol?
-vpn-mobile-the-mozilla-vpn = Mae ap symudol { -brand-name-mozilla-vpn } yn fach, felly nid yw'n defnyddio gormod o'ch cof, ac ni fydd yn arafu'ch ffôn nac yn llosgi trwy'ch batri.
+vpn-mobile-the-mozilla-vpn = Mae ap symudol { -brand-name-mozilla-vpn } yn fach, felly nid yw'n defnyddio gormod o'ch cof, ac ni fydd yn arafu'ch ffôn nac yn treulio'ch batri.
 vpn-mobile-your-internet-v2 = Efallai y bydd eich darparwr gwasanaeth rhyngrwyd (ISP) yn sbarduno'ch lled band os yw'n gwybod eich bod chi'n gwylio ffilmiau, yn gwrando ar gerddoriaeth, neu'n ffrydio.
 # Obsolete string
 vpn-mobile-your-internet = Efallai y bydd eich darparwr gwasanaeth rhyngrwyd (ISP) yn sbarduno eich lled band os yw'n gwybod eich bod yn gwylio ffilmiau, yn gwrando ar gerddoriaeth neu'n ffrydio
