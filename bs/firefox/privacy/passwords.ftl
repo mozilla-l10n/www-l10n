@@ -25,3 +25,4 @@ privacy-passwords-most-logins-today = Većina današnjih prijava zaštićena je 
 privacy-passwords-seeing-you-use = Tako što vidi kako je koristite na nešifrovanoj stranici
 privacy-passwords-guessing-it = Pukim pogađanjem
 privacy-passwords-stealing-a-file = Krađom datoteke koja sadrži vašu lozinku
+privacy-passwords-using-password-recovery = Korištenjem oporavka lozinke za resetovanje iste
