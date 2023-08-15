@@ -126,7 +126,7 @@ firefox-desktop-download-learn-about-the = ვრცლად იხილეთ
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
-firefox-desktop-download-from-security-to = უსაფრთხოებისთვის, ახალი ამბებისთვის, თამაშებისთვის, – <a { $attrs }>გაფართოებები ყველაფრისთვისაა</a>. დაამატეთ რამდენიც მოგესურვებათ.
+firefox-desktop-download-from-security-to = უსაფრთხოებისთვის ახალი ამბებისთვის, თამაშებისთვის, – <a { $attrs }>გაფართოებები ყველაფრისთვისაა</a>. დაამატეთ რამდენიც მოგესურვებათ.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a>-მ შექმნა { -brand-name-firefox }, როგორც სწრაფი, მეტად პირადული შემნაცვლებელი { -brand-name-ie } ბრაუზერისა, ახლა უკვე { -brand-name-chrome }-ისაც. დღესაც განაგრძობს მიზნისკენ სვლას ჩვენი კომპანია და მოხალისეთა ერთობა, რომ უზრუნველვყოთ თქვენი პირადულობის უწინარესობა.

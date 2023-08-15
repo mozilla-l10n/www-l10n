@@ -89,5 +89,5 @@ firefox-privacy-hub-already-have-an-account = უკვე გაქვთ ა�
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = გაეცანით <a href="{ $url }">პირადულობის განაცხადს</a> ჩვენი პროდუქტებისთვის
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-privacy-hub-surf-stream-and-get-work = მოინახულეთ, გაუშვით პირდაპირ ეთერში და აკეთეთ საქმე, 30 ქვეყანაში განთავსებული სერვერებიდან, ინტერნეტკავშირის უსაფრთხოებისთვის, ახლებური შესაძლებლობებით.
+firefox-privacy-hub-surf-stream-and-get-work = მოინახულეთ, გაუშვით პირდაპირ ეთერში და აკეთეთ საქმე, 30 ქვეყანაში განთავსებული სერვერებიდან, ინტერნეტკავშირის უსაფრთხოებისთვის ახლებური შესაძლებლობებით.
 firefox-privacy-hub-get-mozilla-vpn = გამოიყენეთ { -brand-name-mozilla-vpn }
