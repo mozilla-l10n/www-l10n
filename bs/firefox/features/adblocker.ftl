@@ -52,3 +52,8 @@ features-adblocker-send-a-do-not-track-signal = Pošaljite signal Ne pratite me
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 features-adblocker-if-you-dont-want-your = Ako ne želite da se vaše internetsko ponašanje koristi za oglase, web stranicama možete poslati ljubazno pismo “hvala, ali ne i hvala”, provjerom { -brand-name-firefox } opcije <a href="{ $url }">Ne prati</a>. Učešće je dobrovoljno, ali web stranice koje sudjeluju prestat će vas pratiti odmah.
 features-adblocker-speed-up-thanks-to-ad = Ubrzaj zahvaljujući blokerima oglasa
+features-adblocker-in-some-cases-an-ad-blocker = U nekim slučajevima, blokator oglasa može pomoći vašem pretraživaču da radi brže. Kada se oglas učitava, može usporiti web stranicu. U isto vrijeme, potrebno je više vremena da pronađete ono što tražite ako ste previše zauzeti zatvaranjem još jednog oglasa.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more = Ako želite saznati više o blokiranju oglasa, na raspolaganju su stotine ekstenzija za blokiranje oglasa za { -brand-name-firefox } i druge pretraživače. Ako želite isprobati blokatore oglasa koje { -brand-name-firefox } koristi, <a href="{ $url }">kliknite ovdje da preuzmete</a> pretraživač koji stavlja privatnost na prvo mjesto.
+features-adblocker-take-control-of-your-browser = Preuzmite kontrolu nad vašim pretraživačem.
