@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/ipad/
 
 vpn-ipad-vpn-for = VPN для iOS/iPad від { -brand-name-mozilla }
+vpn-ipad-with-mozilla-vpn = З { -brand-name-mozilla-vpn } ви можете отримати:

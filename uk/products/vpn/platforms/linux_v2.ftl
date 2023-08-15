@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } на Linux
+vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } на Linux для більш приватного і безпечного інтернету
