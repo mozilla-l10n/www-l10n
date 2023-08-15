@@ -10,7 +10,7 @@ firefox-browsers-page-title = Завантажте { -brand-name-firefox } дл�
 # Outdated string
 firefox-browsers-get-the-browsers-that-put = Отримайте браузер, який цінує вашу приватність понад усе — зараз та завжди
 # HTML page description
-firefox-browsers-page-desc = Оберіть серед версій для комп’ютера, { -brand-name-ios }, { -brand-name-android }, або дозвольте нам надіслати вам електронною поштою посилання для завантаження на мобільний пристрій.
+firefox-browsers-page-desc = Оберіть серед версій для комп'ютера, { -brand-name-ios }, { -brand-name-android }, або дозвольте нам надіслати вам електронною поштою посилання для завантаження на мобільний пристрій.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Отримайте приватність, на яку ви заслуговуєте. Розширений захист від стеження працює автоматично в { -brand-name-firefox } на всіх пристроях.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
