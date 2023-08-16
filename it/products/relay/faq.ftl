@@ -15,6 +15,9 @@ faq-question-missing-emails-question-2 = Non ricevo messaggi dai miei alias
 faq-question-missing-emails-answer-a-2 = Ci sono alcuni motivi per cui potresti non ricevere le email inoltrate tramite i tuoi alias. Questi motivi includono:
 faq-question-missing-emails-answer-reason-spam = I messaggi finiscono nella posta indesiderata (spam)
 faq-question-missing-emails-answer-reason-blocked-2 = Il tuo fornitore di posta elettronica sta bloccando il tuo alias
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = L’email inoltrata ha un allegato più grande di { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = Il sito non accetta alias
 faq-question-missing-emails-answer-reason-turned-off-2 = L’inoltro per l’alias potrebbe essere stato disattivato
 faq-question-missing-emails-answer-reason-delay = È possibile che { -brand-name-relay } stia richiedendo più tempo del solito per inoltrare i tuoi messaggi
