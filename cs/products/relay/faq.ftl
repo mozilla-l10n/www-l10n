@@ -128,3 +128,5 @@ phone-masking-faq-answer-can-i-see = Ano, můžete si zobrazit číslo, které v
 phone-masking-faq-question-can-i-block = Mohu zablokovat hovor nebo textovou zprávu?
 phone-masking-faq-answer-can-i-block = Můžete zablokovat všechna přesměrování z jednoho čísla.
 phone-masking-faq-question-spam = Co když mi začne do telefonní masky chodit spam?
+phone-masking-faq-answer-spam = Pokud začnete dostávat spam, můžete zablokovat čísla, která vám spam posílají.
+phone-masking-faq-question-disable-logging = Mohu zakázat zaznamenávání volajících nebo odesílatelů textových zpráv?
