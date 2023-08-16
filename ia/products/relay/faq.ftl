@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -42,7 +44,7 @@ faq-question-subdomain-characters-question = Que characteres pote io usar pro cr
 faq-question-subdomain-characters-answer-v2 = Tu pote solo usar litteras minuscule anglese, numeros, e lineettas pro crear un sub-dominio.
 faq-question-browser-support-question = Pote io usar { -brand-name-relay } sur altere navigatores o sur mi apparato mobile?
 faq-question-browser-support-answer-2 = Si, tu pote generar mascas { -brand-name-relay } sur altere navigatores o apparatos mobile simplemente per le accesso a in tu pannello de controlo de { -brand-name-relay }.
-faq-question-longevity-question = Que eveni si Mozilla claude le servicio { -brand-name-firefox-relay }?
+faq-question-longevity-question = Que eveni si { -brand-name-mozilla } claude le servicio { -brand-name-firefox-relay }?
 faq-question-longevity-answer-2 = Nos in avantia te dara aviso que tu debe cambiar le adresse email de ulle contos que usa mascas email de { -brand-name-relay }.
 faq-question-mozmail-question-2 = Perque mi mascas email comenciava usar le dominio “mozmail.com?”
 faq-question-mozmail-answer-2 = Nos passava de “relay.firefox.com” a “mozmail.com” pro render possibile obtener un subdominio email personal, tal como mask@yourdomain.mozmail.com. Le subdominios email personal, disponibile pro le subscriptores de { -brand-name-relay-premium }, te permitte de generar mascas email plus facile a rememorar.
