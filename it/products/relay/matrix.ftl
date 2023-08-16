@@ -12,7 +12,7 @@ plan-matrix-title = Prezzi
 plan-matrix-offer-title = Scegli il livello di protezione più adatto a te
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } protegge la tua identità e la tua casella di posta con alias univoci. Per una sicurezza ancora maggiore, aggiungi gli alias { -brand-name-relay } per numeri di telefono e risparmia il { $savings } % aggiungendo anche la protezione { -brand-name-mozilla-vpn }.
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } protegge la tua identità e la tua casella di posta con alias univoci. Per una sicurezza ancora maggiore, aggiungi gli alias { -brand-name-relay } per numeri di telefono e risparmia il { $savings }% aggiungendo anche la protezione { -brand-name-mozilla-vpn }.
 
 ## Top Row Labels
 
@@ -65,7 +65,7 @@ plan-matrix-price-period-yearly-footnote-1 = Fatturazione annuale
 plan-matrix-price-period-monthly-footnote-1 = Fatturazione mensile
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-price-vpn-discount-promo-v2 = <span>Risparmia { $savings } %</span> sul normale prezzo della VPN
+plan-matrix-price-vpn-discount-promo-v2 = <span>Risparmia { $savings }%</span> sul normale prezzo della VPN
 
 ## Plan CTAs
 
