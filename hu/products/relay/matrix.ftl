@@ -63,6 +63,9 @@ plan-matrix-price-period-yearly = Évente
 plan-matrix-price-period-monthly = Havi
 plan-matrix-price-period-yearly-footnote-1 = Éves számlázás
 plan-matrix-price-period-monthly-footnote-1 = Havi számlázás
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>{ $savings }%</span> megtakarítása a VPN szokásos árához képest
 
 ## Plan CTAs
 
