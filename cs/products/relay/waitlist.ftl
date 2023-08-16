@@ -7,6 +7,7 @@
 
 waitlist-premium-name = { -brand-name-relay-premium }
 waitlist-bundle-name = Balíček { -brand-name-relay } + { -brand-name-vpn }
+waitlist-phone-name = Maskování telefonu službou { -brand-name-relay }
 waitlist-heading-2 = Přidat se na čekací listinu služby { -brand-name-relay-premium }
 waitlist-heading-phone = Přidat se na čekací listinu pro maskování telefonu službou { -brand-name-relay }
 waitlist-heading-bundle = Přidat se na čekací listinu pro balík služeb { -brand-name-relay } + { -brand-name-vpn }
@@ -26,4 +27,16 @@ waitlist-privacy-policy-agree-2 = Klepnutím na tlačítko „{ waitlist-submit-
 waitlist-privacy-policy-use = Vaše údaje budou použity pouze na informování o dostupnosti služby { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Vaše údaje budou použity pouze na informování o dostupnosti maskování telefonu ve vaší oblasti.
 waitlist-privacy-policy-use-bundle = Vaše údaje budou použity pouze na informování o dostupnosti balíku služeb { -brand-name-relay } + { -brand-name-vpn }
+waitlist-subscribe-success-title = Díky! Jste na seznamu
+# Variables:
+#   $product (string) one of the following three options:
+#      - { -brand-name-relay-premium }
+#      - { waitlist-bundle-name }
+#      - { waitlist-phone-name }
+waitlist-subscribe-success-email-desc = Jakmile bude { -brand-name-relay-premium } pro vaši oblast k dispozici, zašleme vám e-mail.
+waitlist-subscribe-success-phone-desc = Jakmile bude maskování telefonu službou { -brand-name-relay } k dispozici pro vaši oblast, zašleme vám e-mail.
+waitlist-subscribe-success-bundle-desc = Jakmile bude { -brand-name-relay } + { -brand-name-vpn } pro váš region k dispozici, pošleme vám e-mail.
+waitlist-subscribe-please-enter-a-valid = Zadejte prosím platnou e-mailovou adresu
+waitlist-subscribe-please-select-country = Vyberte prosím zemi nebo oblast
+waitlist-subscribe-please-select-language = Vyberte prosím jazyk
 waitlist-subscribe-error-unknown = Při pokusu o vaše přidání na čekací listinu došlo k chybě. Zkuste to prosím znovu.
