@@ -11,4 +11,6 @@ vpn-linux-linux-is-free = Linux бясплатны, мае адкрыты зых
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } — гэта сэрвіс віртуальнай прыватнай сеткі, які выкарыстоўвае сучаснае шыфраванне з адкрытым зыходным кодам і не рэгіструе, не асочвае і не дзеліцца звесткамі пра любую вашу сеткавую дзейнасць. Ён дазваляе падключацца да больш чым 500 сервераў у 30+ краінах.
 vpn-linux-why-choose = Чаму варта выбраць { -brand-name-mozilla-vpn } для Linux?
 vpn-linux-fast-and-v2 = <strong>Хуткі і надзейны:</strong> { -brand-name-mozilla-vpn } выкарыстоўвае пратакол { -brand-name-wireguard }®, які прапануе лепшую прадукцыйнасць і стабільнасць, чым іншыя пратаколы VPN.
+# Obsolete string
+vpn-linux-fast-and = <strong>Хуткі і надзейны:</strong> { -brand-name-mozilla-vpn } выкарыстоўвае пратакол { -brand-name-wireguard }®, які прапануе лепшую прадукцыйнасць і стабільнасць, чым іншыя пратаколы VPN
 vpn-linux-how-to-install = Як усталяваць { -brand-name-mozilla-vpn } на Linux
