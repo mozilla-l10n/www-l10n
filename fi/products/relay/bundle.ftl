@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 # Variables:
@@ -15,4 +16,18 @@ bundle-banner-cta = Hanki { -brand-name-mozilla-vpn } + { -brand-name-relay }
 # Variables:
 #   $days_guarantee (string) - the number of days for money-back guarantee. Examples: 30, 90
 bundle-banner-money-back-guarantee-2 = { $days_guarantee } päivän rahat takaisin -takuu ensimmäistä kertaa tilaavalle
+# Variables:
+#   $num_vpn_servers (string) - the number of VPN servers. Examples: 400, 500, 600
+bundle-feature-more-than-servers =
+    { $num_vpn_servers ->
+        [one] Yli { $num_vpn_servers } palvelinta
+       *[other] Yli { $num_vpn_servers } palvelinta
+    }
+# Variables:
+#   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
+bundle-feature-more-than-countries =
+    { $num_vpn_countries ->
+        [one] Yli { $num_vpn_countries } maata
+       *[other] Yli { $num_vpn_countries } maata
+    }
 bundle-feature-three = Nopea ja turvallinen verkko

@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
+
+plan-matrix-title = Hinnoittelu
 
 ## PRICING MATRIX SECTION
 
@@ -16,6 +19,7 @@ plan-matrix-heading-features = Ominaisuudet
 plan-matrix-heading-plan-free = Rajoitettu sähköpostisuojaus
 plan-matrix-heading-plan-premium = Sähköpostin suojaus
 plan-matrix-heading-plan-phones = Sähköpostin ja puhelimen suojaus
+plan-matrix-heading-plan-bundle-v2 = Lisää VPN-suojaus
 
 ## Feature Breakdowns
 
@@ -26,6 +30,7 @@ plan-matrix-feature-promo-email-blocking = Estä mainossähköpostit
 plan-matrix-feature-email-subdomain = { -brand-name-relay }n sähköpostiverkkotunnus luodaksesi maskeja milloin tahansa
 plan-matrix-feature-email-reply = Vastaa sähköposteihin anonyymisti
 plan-matrix-feature-phone-mask = Puhelinnumeron peittäminen todellisen puhelinnumerosi suojaamiseksi
+plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
@@ -36,6 +41,7 @@ plan-matrix-feature-mobile-promo-email-blocking = Estä mainossähköpostit
 plan-matrix-feature-mobile-email-subdomain = Yksilöllinen { -brand-name-relay }-verkkotunnus sähköpostille
 plan-matrix-feature-mobile-email-reply = Vastaa sähköposteihin anonyymisti
 plan-matrix-feature-mobile-phone-mask = Suojaa todellista puhelinnumeroasi
+plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 

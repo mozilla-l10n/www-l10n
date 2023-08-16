@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
+waitlist-premium-name = { -brand-name-relay-premium }
 waitlist-heading-2 = Liity { -brand-name-relay-premium } -odotuslistalle
 waitlist-heading-phone = Liity { -brand-name-relay }-puhelinmaskin odotuslistalle
 waitlist-heading-bundle = Liity { -brand-name-relay } + { -brand-name-vpn } -paketin jonotuslistalle
@@ -23,4 +25,8 @@ waitlist-privacy-policy-agree-2 = Napsauttamalla “{ waitlist-submit-label-2 }�
 waitlist-privacy-policy-use = Tietojasi käytetään vain { -brand-name-firefox-relay-premium }in saatavuudesta ilmoittamiseen.
 waitlist-privacy-policy-use-phone = Tietojasi käytetään vain ilmoitukseen, kun puhelinnumeron maski on saatavilla alueellasi.
 waitlist-privacy-policy-use-bundle = Tietojasi käytetään vain { -brand-name-relay } + { -brand-name-vpn } -paketin saatavuudesta ilmoittamiseen.
+waitlist-subscribe-success-title = Kiitos! Olet listalla
+waitlist-subscribe-please-enter-a-valid = Kirjoita kelvollinen sähköpostiosoite
+waitlist-subscribe-please-select-country = Valitse maa tai alue
+waitlist-subscribe-please-select-language = Valitse kieli
 waitlist-subscribe-error-unknown = Jonotuslistalle lisättäessä tapahtui virhe. Yritä uudelleen.
