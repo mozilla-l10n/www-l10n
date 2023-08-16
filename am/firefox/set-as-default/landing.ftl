@@ -13,3 +13,6 @@ set-as-default-landing-choose-the-browser = የእርስዎን ግላዊነት �
 set-as-default-landing-thanks-for-using-the = የቅርብ ጊዜውን { -brand-name-firefox } አሳሽ ስለተጠቀሙ እናመሰግናለን። { -brand-name-firefox }ን ሲመርጡ ለእርስዎ እና ለሌሎች ሰዎች ሁሉ የተሻለ ድርን ይደግፋሉ። አሁን እራስዎን ለመጠበቅ ቀጣዩን እርምጃ ይውሰዱ።
 # Obsolete string
 set-as-default-landing-make-sure-youre-protected = መስመር ላይ በገቡ ቁጥር ፣ የተጠበቁ መሆንዎን ያረጋግጡ
+set-as-default-landing-choose-automatic-privacy = ራስ-ሰር ግላዊነትን ይምረጡ
+set-as-default-landing-choose-freedom-on-every = በእያንዳንዱ መሳሪያ ላይ ነፃነትን ይምረጡ
+set-as-default-landing-choose-corporate-independence = የድርጅት ነፃነትን ይምረጡ
