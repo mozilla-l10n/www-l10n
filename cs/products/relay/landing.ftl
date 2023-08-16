@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -18,18 +19,16 @@ hero-section-social-proof = Jak se objevilo v
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Jak funguje maskování e-mailů a telefonů službou { -brand-name-relay }
-
 how-it-works-section-extension-headline = Používejte e-mailové masky a maskování telefonního čísla službou { -brand-name-relay } kdekoliv
 how-it-works-section-extension-body = Získejte bezpečné, náhodné e-mailové masky a jedinečné maskované telefonní číslo, které můžete použít, kdykoli vás web, aplikace, obchod nebo restaurace požádá o vaše informace.
-
 how-it-works-section-forward-headline = Budeme vám přeposílat e-maily, telefonní hovory a textové zprávy.
 how-it-works-section-forward-body = Ujišťujeme vás, že odesílatelé nikdy nezjistí vaši skutečnou e-mailovou adresu nebo skutečné číslo. Můžete dokonce odpovídat na SMS a e-maily, aniž byste sdíleli svou skutečnou identitu.
-
 how-it-works-section-manage-headline = Spravujte své masky z nástěnky { -brand-name-relay }
 how-it-works-section-manage-body = Přihlaste se do nástěnky služby { -brand-name-relay } a vytvářejte nové masky, označujte stávající masky a blokujte hovory, zprávy nebo e-maily z masek, které dostávají příliš mnoho spamu.
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Recenze
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Doplňky
 # Do not localize addons.mozilla.org

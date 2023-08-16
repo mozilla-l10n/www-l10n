@@ -2,8 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
+waitlist-premium-name = { -brand-name-relay-premium }
+waitlist-bundle-name = Balíček { -brand-name-relay } + { -brand-name-vpn }
 waitlist-heading-2 = Přidat se na čekací listinu služby { -brand-name-relay-premium }
 waitlist-heading-phone = Přidat se na čekací listinu pro maskování telefonu službou { -brand-name-relay }
 waitlist-heading-bundle = Přidat se na čekací listinu pro balík služeb { -brand-name-relay } + { -brand-name-vpn }

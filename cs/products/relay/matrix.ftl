@@ -2,11 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
+
+plan-matrix-title = Ceny
 
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = Vyberte si úroveň ochrany, která vám vyhovuje
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } chrání vaši identitu a doručenou poštu pomocí jedinečných e-mailových masek. Přidejte ještě větší zabezpečení pomocí maskování telefonu službou { -brand-name-relay }  a ušetřete { $savings } % přidáním ochrany { -brand-name-mozilla-vpn }.
 
 ## Top Row Labels
 
@@ -16,6 +22,7 @@ plan-matrix-heading-features = Vlastnosti
 plan-matrix-heading-plan-free = Omezená ochrana e-mailu
 plan-matrix-heading-plan-premium = Ochrana e-mailu
 plan-matrix-heading-plan-phones = Ochrana e-mailu a telefonu
+plan-matrix-heading-plan-bundle-v2 = Přidat ochranu sítí VPN
 
 ## Feature Breakdowns
 
@@ -26,6 +33,7 @@ plan-matrix-feature-promo-email-blocking = Blokování reklamních e-mailů
 plan-matrix-feature-email-subdomain = E-mailová doména { -brand-name-relay } pro vytváření masek kdekoliv se nacházíte
 plan-matrix-feature-email-reply = Anonymní odpovědi na e-maily
 plan-matrix-feature-phone-mask = Telefonní maska pro ochranu vašeho skutečného telefonního čísla
+plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
@@ -36,6 +44,7 @@ plan-matrix-feature-mobile-promo-email-blocking = Blokování reklamních e-mail
 plan-matrix-feature-mobile-email-subdomain = Jedinečná e-mailová doména { -brand-name-relay }
 plan-matrix-feature-mobile-email-reply = Anonymní odpovědi na e-maily
 plan-matrix-feature-mobile-phone-mask = Ochrana vašeho skutečného telefonního čísla
+plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 
@@ -54,6 +63,9 @@ plan-matrix-price-period-yearly = Ročně
 plan-matrix-price-period-monthly = Měsíčně
 plan-matrix-price-period-yearly-footnote-1 = Účtováno ročně
 plan-matrix-price-period-monthly-footnote-1 = Účtováno měsíčně
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>Ušetřete { $savings }%</span> z běžné ceny VPN
 
 ## Plan CTAs
 

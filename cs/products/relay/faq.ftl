@@ -138,3 +138,6 @@ phone-masking-faq-answer-how-i-save-card = Po upgradu na maskování telefonníc
 phone-masking-faq-question-install-app = Musím si nainstalovat aplikaci, abych mohl používat maskování telefonu službou { -brand-name-relay }?
 phone-masking-faq-answer-install-app = Ne, maskování telefonu službou { -brand-name-relay } funguje pomocí standardních aplikací pro zasílání textových zpráv a volání v zařízení.
 phone-masking-faq-question-data = Jaké druhy dat ukládá služba { -brand-name-relay } o maskování telefonu?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Podívejte se prosím na <a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay }zásady ochrany osobních údajů</a>.
