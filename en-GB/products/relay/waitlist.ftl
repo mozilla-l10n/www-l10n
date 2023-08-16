@@ -2,8 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
+waitlist-premium-name = { -brand-name-relay-premium }
+waitlist-bundle-name = { -brand-name-relay } + { -brand-name-vpn } bundle
+waitlist-phone-name = { -brand-name-relay } phone masking
 waitlist-heading-2 = Join the { -brand-name-relay-premium } waiting list
 waitlist-heading-phone = Join the { -brand-name-relay } phone masking waitlist 
 waitlist-heading-bundle = Join the waitlist for the { -brand-name-relay } + { -brand-name-vpn } bundle
@@ -23,4 +27,16 @@ waitlist-privacy-policy-agree-2 = By clicking “{ waitlist-submit-label-2 }”,
 waitlist-privacy-policy-use = Your information will only be used to notify you about { -brand-name-firefox-relay-premium } availability.
 waitlist-privacy-policy-use-phone = Your information will only be used to notify you when phone masking is available in your area.
 waitlist-privacy-policy-use-bundle = Your information will only be used to notify you about { -brand-name-relay } + { -brand-name-vpn } bundle availability.
+waitlist-subscribe-success-title = Thanks! You’re on the list
+# Variables:
+#   $product (string) one of the following three options:
+#      - { -brand-name-relay-premium }
+#      - { waitlist-bundle-name }
+#      - { waitlist-phone-name }
+waitlist-subscribe-success-email-desc = Once { -brand-name-relay-premium } becomes available for your region, we’ll email you.
+waitlist-subscribe-success-phone-desc = Once { -brand-name-relay } phone masking becomes available for your region, we’ll email you.
+waitlist-subscribe-success-bundle-desc = Once { -brand-name-relay } + { -brand-name-vpn } becomes available for your region, we’ll email you.
+waitlist-subscribe-please-enter-a-valid = Please enter a valid email address
+waitlist-subscribe-please-select-country = Please select a country or region
+waitlist-subscribe-please-select-language = Please select a language
 waitlist-subscribe-error-unknown = There was an error adding you to the waiting list. Please try again.

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -21,22 +22,28 @@ hero-section-social-proof = As seen in
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = How { -brand-name-relay } email & phone masking works
-
 how-it-works-section-extension-headline = Use { -brand-name-relay } email masks and phone masks everywhere
 how-it-works-section-extension-body = Get secure, random email masks and a unique, masked phone number to use any time a web site, app, store, or restaurant asks for your information.
-
 how-it-works-section-forward-headline = We’ll forward emails, phone calls, and texts to you
 how-it-works-section-forward-body = Rest assured, senders will never know your real email address or real number. You can even reply to texts and emails without sharing your real identity.
-
 how-it-works-section-manage-headline = Manage your masks from your { -brand-name-relay } dashboard
 how-it-works-section-manage-body = Sign in to your { -brand-name-relay } dashboard to create new masks, label existing masks, and  block calls, texts, or emails from masks that get too much spam.
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Reviews
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Add-ons
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Source: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+       *[other] out of 5 ({ $review_count } reviews)
+    }
 landing-reviews-show-next-button = show next review
 landing-reviews-show-previous-button = show previous review
 landing-review-anonymous-user = { -brand-name-firefox } user { $user_id }
