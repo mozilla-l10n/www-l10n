@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -42,7 +44,7 @@ faq-question-subdomain-characters-question = Quali caratteri si possono utilizza
 faq-question-subdomain-characters-answer-v2 = Per creare un sottodominio puoi utilizzare solo lettere latine minuscole, numeri e trattini.
 faq-question-browser-support-question = Posso utilizzare { -brand-name-relay } con altri browser o sul mio dispositivo mobile?
 faq-question-browser-support-answer-2 = Sì, puoi generare alias { -brand-name-relay } con altri browser o dispositivi mobili semplicemente accedendo alla tua dashboard { -brand-name-relay }.
-faq-question-longevity-question = Che cosa succede se Mozilla interrompe il servizio { -brand-name-firefox-relay }?
+faq-question-longevity-question = Che cosa succede se { -brand-name-mozilla } interrompe il servizio { -brand-name-firefox-relay }?
 faq-question-longevity-answer-2 = Ti avviseremo in anticipo della necessità di cambiare l’indirizzo di posta elettronica di tutti gli account che utilizzano alias { -brand-name-relay }.
 faq-question-mozmail-question-2 = Perché i miei alias hanno iniziato a utilizzare il dominio “mozmail.com”?
 faq-question-mozmail-answer-2 = Abbiamo effettuato il passaggio da “relay.firefox.com” a “mozmail.com” per rendere possibile l’utilizzo di un sottodominio di posta elettronica personalizzato, come alias@miodominio.mozmail.com. I sottodomini di posta elettronica personalizzati, disponibili per gli abbonati { -brand-name-relay-premium }, permettono di generare alias email più facili da ricordare.

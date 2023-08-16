@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -20,22 +21,29 @@ hero-section-social-proof = Come visto in
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Come funzionano gli alias { -brand-name-relay } per numeri di telefono e posta elettronica
-
 how-it-works-section-extension-headline = Utilizza gli alias { -brand-name-relay } per numeri di telefono e posta elettronica ovunque
 how-it-works-section-extension-body = Ottieni alias di posta elettronica sicuri e casuali e un alias univoco per il tuo numero di telefono da utilizzare ogni volta che siti web, app, negozi o ristoranti richiedono le tue informazioni,
-
 how-it-works-section-forward-headline = Ti inoltreremo email, telefonate e SMS
 how-it-works-section-forward-body = Ti garantiamo che i mittenti non conosceranno mai il tuo indirizzo email o il tuo numero di telefono reali. Puoi persino rispondere agli SMS e alle email senza condividere la tua vera identità.
-
 how-it-works-section-manage-headline = Gestisci i tuoi alias dalla dashboard di { -brand-name-relay }
 how-it-works-section-manage-body = Accedi alla dashboard di { -brand-name-relay } per creare nuovi alias, contrassegnare gli alias già esistenti e bloccare chiamate, SMS o email provenienti per gli alias che ricevono troppo spam.
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Recensioni
 landing-reviews-logo-title = { -brand-name-firefox-browser(capitalization: "uppercase") }
 landing-reviews-add-ons = Componenti aggiuntivi
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Fonte: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+        [one] su 5 ({ $review_count } recensione)
+       *[other] su 5 ({ $review_count } recensioni)
+    }
 landing-reviews-show-next-button = Mostra recensione successiva
 landing-reviews-show-previous-button = Mostra recensione precedente
 landing-review-anonymous-user = Utente { -brand-name-firefox } { $user_id }
