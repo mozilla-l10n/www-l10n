@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -13,6 +15,9 @@ faq-question-missing-emails-question-2 = Nedostávám zprávy ze svých e-mailov
 faq-question-missing-emails-answer-a-2 = Existuje několik důvodů, proč možná nedostáváte e-maily přeposílané přes vaše masky. Mezi tyto důvody patří:
 faq-question-missing-emails-answer-reason-spam = Zprávy se dostávají do spamu
 faq-question-missing-emails-answer-reason-blocked-2 = Váš poskytovatel e-mailu blokuje vaše e-mailové masky
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = Přeposlaný e-mail má přílohu větší než { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = Stránka nepřijímá e-mailové masky
 faq-question-missing-emails-answer-reason-turned-off-2 = Maska může mít vypnuté přeposílání
 faq-question-missing-emails-answer-reason-delay = { -brand-name-relay(case: "dat") } může přeposílání vašich zpráv trvat déle než obvykle
@@ -59,6 +64,9 @@ faq-question-longevity-answer-2 = S předstihem vás upozorníme, že je třeba 
 faq-question-mozmail-question-2 = Proč moje e-mailové masky začaly používat doménu „mozmail.com?“
 faq-question-mozmail-answer-2 = Přešli jsme z domény „relay.firefox.com“ na doménu „mozmail.com“, abychom uživateli umožnili získat vlastní e-mailovou subdoménu, například maska@vase-domena.mozmail.com. Vlastní e-mailové subdomény, které jsou k dispozici předplatitelům { -brand-name-relay-premium(case: "gen") }, umožňují vytvářet snadněji zapamatovatelné e-mailové masky.
 faq-question-attachments-question = Bude { -brand-name-firefox-relay } přeposílat e-maily s přílohami?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Nyní podporujeme přeposílání příloh. Pro přeposílání e-mailů pomocí služby { -brand-name-relay } však existuje limit { $size } MB. Libovolný e-mail větší než { $size } MB nebude přeposlán.
 faq-question-unsubscribe-domain-question-2 = Co se stane s mou vlastní subdoménou, když se odhlásím z { -brand-name-relay-premium(case: "gen") }?
 faq-question-unsubscribe-domain-answer-2 = Pokud přejdete z placené varianty { -brand-name-relay-premium } zpět na neplacenou, budete nadále dostávat e-maily přeposílané prostřednictvím vlastních e-mailových masek, ale nebudete již moci vytvářet nové masky s použitím této subdomény. Jestliže máte celkově vytvořeno více než pět masek, nebudete moci vytvářet další. Ztratíte také možnost odpovídat na přeposlané zprávy. Můžete si ale znovu předplatit variantu { -brand-name-relay-premium(case: "acc") } a opět k těmto funkcím získat přístup.
 faq-question-8-question = Jaké údaje { -brand-name-firefox-relay } shromažďuje?
@@ -91,3 +99,4 @@ faq-question-trackerremoval-breakage-answer-2 = Občas může odstranění sledo
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = Co je maska telefonního čísla?
