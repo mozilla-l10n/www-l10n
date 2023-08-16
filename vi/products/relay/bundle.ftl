@@ -22,3 +22,10 @@ bundle-banner-money-back-guarantee-2 = { $days_guarantee } ngày đảm bảo ho
 # Variables:
 #   $num_vpn_servers (string) - the number of VPN servers. Examples: 400, 500, 600
 bundle-feature-more-than-servers = Hơn { $num_vpn_servers } máy chủ
+# Variables:
+#   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
+bundle-feature-more-than-countries =
+    { $num_vpn_countries ->
+       *[other] Hơn { $num_vpn_countries } quốc gia
+    }
+bundle-feature-three = Mạng nhanh và an toàn
