@@ -48,3 +48,4 @@ download-button-please-download-esr = { -brand-name-firefox }ን ለመጠቀም
 download-firefox-esr = { -brand-name-firefox-esr }ን አውርድ
 download-firefox-esr-32 = { -brand-name-firefox-esr } 32-ቢት አውርድ
 download-firefox-esr-64 = { -brand-name-firefox-esr } 64-ቢት አውርድ
+download-a-different-build = የተለየ ግንባታ ያውርዱ
