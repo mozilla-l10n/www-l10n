@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Last ned no
 download-button-free-download = Gratis nedlasting
@@ -39,3 +39,7 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> for { -brand-
 download-button-firefox-privacy = { -brand-name-firefox } personvern
 download-button-firefox-privacy-notice = { -brand-name-firefox } personvernerklæring
 download-button-download = Last ned
+download-firefox-esr = Last ned { -brand-name-firefox-esr }
+download-firefox-esr-32 = Last ned { -brand-name-firefox-esr } 32-bit
+download-firefox-esr-64 = Last ned { -brand-name-firefox-esr } 64-bit
+download-a-different-build = Last ned ein annan versjon
