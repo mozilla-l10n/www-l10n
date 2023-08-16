@@ -130,3 +130,6 @@ phone-masking-faq-answer-can-i-block = Můžete zablokovat všechna přesměrov�
 phone-masking-faq-question-spam = Co když mi začne do telefonní masky chodit spam?
 phone-masking-faq-answer-spam = Pokud začnete dostávat spam, můžete zablokovat čísla, která vám spam posílají.
 phone-masking-faq-question-disable-logging = Mohu zakázat zaznamenávání volajících nebo odesílatelů textových zpráv?
+phone-masking-faq-answer-disable-logging = Ano, protokolování čísel můžete zakázat na nástěnce služby { -brand-name-relay }. Nebudete však již moci odpovídat na textové zprávy ani blokovat konkrétní čísla, protože pomocí protokolu můžeme sledovat, kdo vám textovou zprávu poslal.
+phone-masking-faq-question-can-i-share = Mohu sdílet číslo, které mi přeposílá textové zprávy?
+phone-masking-faq-answer-can-i-share = Pokud toto číslo sdílíte, nic se nestane — toto číslo není maskou vašeho telefonního čísla. Je to pouze kontaktní číslo, ze kterého bude sluýba { -brand-name-relay } předávat vaše zprávy a hovory.
