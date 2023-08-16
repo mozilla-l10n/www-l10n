@@ -13,4 +13,5 @@ vpn-linux-why-choose = Чаму варта выбраць { -brand-name-mozilla-
 vpn-linux-fast-and-v2 = <strong>Хуткі і надзейны:</strong> { -brand-name-mozilla-vpn } выкарыстоўвае пратакол { -brand-name-wireguard }®, які прапануе лепшую прадукцыйнасць і стабільнасць, чым іншыя пратаколы VPN.
 # Obsolete string
 vpn-linux-fast-and = <strong>Хуткі і надзейны:</strong> { -brand-name-mozilla-vpn } выкарыстоўвае пратакол { -brand-name-wireguard }®, які прапануе лепшую прадукцыйнасць і стабільнасць, чым іншыя пратаколы VPN
+vpn-linux-no-logs = <strong>Ніякіх журналаў:</strong> { -brand-name-mozilla-vpn } не вядзе журналы вашай сеткавай актыўнасці; мы не запісваем, якія сайты вы наведваеце, і не даследуем ваш трафік.
 vpn-linux-how-to-install = Як усталяваць { -brand-name-mozilla-vpn } на Linux
