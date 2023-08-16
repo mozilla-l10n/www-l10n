@@ -41,5 +41,11 @@ faq-question-1-answer-b-2-html = Nếu bạn thấy vấn đề rộng hơn về
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-change-phone-mask = Tôi có thể thay đổi mặt nạ điện thoại của mình không?
+phone-masking-faq-answer-change-phone-mask = Không, bạn không thể thay đổi mặt nạ số điện thoại của mình sau khi đã chọn. Chúng tôi đang xem xét tùy chọn này.
+phone-masking-faq-question-can-reply = Tôi có thể trả lời tin nhắn không?
+phone-masking-faq-answer-can-reply = Có, bạn có thể trả lời tin nhắn cuối cùng bạn nhận được. Chỉ cần trả lời như bạn sẽ làm cho bất kỳ tin nhắn văn bản nào.
+phone-masking-faq-question-forwarded-texts = Những loại văn bản sẽ được chuyển tiếp?
+phone-masking-faq-answer-forwarded-texts = Chỉ có thể chuyển tiếp tin nhắn văn bản SMS. Tin nhắn MMS bao gồm ảnh, video, v.v. sẽ không được chuyển tiếp.
 phone-masking-faq-question-pictures = Tôi có thể gửi hoặc nhận ảnh qua văn bản không?
 phone-masking-faq-answer-pictures = Không, chỉ có thể chuyển tiếp hoặc gửi tin nhắn văn bản SMS dưới dạng trả lời.

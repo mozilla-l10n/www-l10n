@@ -33,3 +33,4 @@ landing-review-anonymous-user = Người dùng { -brand-name-firefox } { $user_i
 
 ## FAQ SECTION
 
+landing-faq-cta = Xem thêm câu hỏi thường gặp về { -brand-name-firefox-relay }

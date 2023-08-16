@@ -10,6 +10,10 @@ waitlist-bundle-name = Gói { -brand-name-relay } + { -brand-name-vpn }
 waitlist-phone-name = Mặt nạ điện thoại của { -brand-name-relay }
 waitlist-heading-2 = Tham gia vào danh sách chờ { -brand-name-relay-premium }
 waitlist-heading-phone = Tham gia vào danh sách chờ mặt nạ điện thoại { -brand-name-relay }
+waitlist-heading-bundle = Tham gia danh sách chờ gói { -brand-name-relay } + { -brand-name-vpn }
+waitlist-lead-2 = Chúng tôi sẽ cho bạn biết khi nào { -brand-name-relay-premium } có sẵn trong khu vực của bạn.
+waitlist-lead-phone = Chúng tôi sẽ cho bạn biết khi có mặt nạ điện thoại trong khu vực của bạn.
+waitlist-lead-bundle = Chúng tôi sẽ cho bạn biết khi bạn có thể nhận được { -brand-name-relay-premium } và { -brand-name-mozilla-vpn } được giảm giá trong khu vực của bạn.
 waitlist-control-required = Bắt buộc
 waitlist-control-email-label = Địa chỉ email của bạn là gì?
 # Please only translate `yourname`; example.com is an actual example domain that is safe to use.
