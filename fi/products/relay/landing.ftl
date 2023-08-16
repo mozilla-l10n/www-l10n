@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -21,22 +22,29 @@ hero-section-social-proof = Valokeilassa
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Miten { -brand-name-relay }n sähköposti- ja puhelinmaskit toimivat
-
 how-it-works-section-extension-headline = Käytä { -brand-name-relay }-maskeja sähköpostiosoitteille ja puhelinnumeroille missä tahansa
 how-it-works-section-extension-body = Hanki turvalliset, satunnaiset sähköpostimaskit ja yksilöllinen, peitetty puhelinnumero, jota voit käyttää aina, kun verkkosivusto, sovellus, kauppa tai ravintola pyytää tietojasi.
-
 how-it-works-section-forward-headline = Välitämme sinulle sähköpostit, puhelut ja tekstiviestit
 how-it-works-section-forward-body = Voit olla varma, että lähettäjät eivät koskaan tiedä oikeaa sähköpostiosoitettasi tai oikeaa numeroasi. Voit jopa vastata tekstiviesteihin ja sähköposteihin jakamatta todellista henkilöyttäsi.
-
 how-it-works-section-manage-headline = Hallitse maskeja { -brand-name-relay }-hallintapaneelista
 how-it-works-section-manage-body = Kirjaudu { -brand-name-relay }-hallintapaneeliin luodaksesi uusia maskeja, nimetäksesi olemassa olevia maskeja ja estääksesi puhelut, tekstiviestit tai sähköpostit maskeista, jotka saavat liikaa roskapostia.
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Arvostelut
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Lisäosat
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Lähde: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+        [one] /5 ({ $review_count } arvio)
+       *[other] /5 ({ $review_count } arviota)
+    }
 landing-reviews-show-next-button = näytä seuraava arvio
 landing-reviews-show-previous-button = näytä edellinen arvio
 landing-review-anonymous-user = { -brand-name-firefox }-käyttäjä { $user_id }

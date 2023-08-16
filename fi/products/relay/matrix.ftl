@@ -60,6 +60,9 @@ plan-matrix-price-period-yearly = Vuosittain
 plan-matrix-price-period-monthly = Kuukausittain
 plan-matrix-price-period-yearly-footnote-1 = Laskutetaan vuosittain
 plan-matrix-price-period-monthly-footnote-1 = Laskutetaan kuukausittain
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>Säästä { $savings } %</span> normaalista VPN-hinnasta
 
 ## Plan CTAs
 
