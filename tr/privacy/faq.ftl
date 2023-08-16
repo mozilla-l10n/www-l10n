@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = Aşağıdaki sorular ve yanıtları, {
 privacy-faq-i-use-firefox-for-almost-everything = Web’deki hemen hemen her şey için { -brand-name-firefox }’u kullanıyorum. { -brand-name-mozilla } benim hakkımda bir sürü şey biliyordur, değil mi?
 privacy-faq-firefox-the-web-browser-that = Mobil cihazınızda veya bilgisayarınızda çalışan { -brand-name-firefox } web tarayıcısı, internete açılan bir kapıdır. Tarayıcınız, ziyaret ettiğiniz web siteleriyle ilgili birçok bilgiyi yönetir ama bu bilgiler cihazınızda kalır. { -brand-name-firefox }’u geliştiren { -brand-name-mozilla } bu bilgileri (siz izin vermediğiniz sürece) toplamaz.
 privacy-faq-really-you-dont-collect-my-browsing = Gezinti geçmişimi gerçekten toplamıyor musunuz?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla }, kullanıcıların web’de nasıl gezindiğiyle ilgili hiç de sandığınız kadar bilgi sahibi değil. Bir tarayıcı yapımcısı olarak, aslında bu bizim için büyük bir sorun. Bu nedenle, gönüllü kullanıcıların web’de gezinme alışkanlıklarına ilişkin bize bilgi vermelerini sağlayan isteğe bağlı araçlar geliştirdik. Gezinti geçmişinizi { -brand-name-firefox } cihazlarınız arasında eşitleseniz bile verileriniz cihazınızdan çıkmadan şifrelendiği için geçmişinizi kesinlikle göremeyiz.
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla }, kullanıcıların web’de nasıl gezindiğiyle ilgili hiç de sandığınız kadar bilgi sahibi değil. Bir tarayıcı yapımcısı olarak, aslında bu bizim için büyük bir sorun. Bu nedenle, gönüllü kullanıcıların web’de gezinme alışkanlıklarına ilişkin bize bilgi vermelerini sağlayan <a href="{ $link }">{ -brand-name-firefox } Pioneer</a> gibi isteğe bağlı araçlar geliştirdik. Gezinti geçmişinizi { -brand-name-firefox } cihazlarınız arasında eşitleseniz bile verileriniz cihazınızdan çıkmadan şifrelendiği için geçmişinizi kesinlikle göremeyiz.
@@ -30,6 +32,7 @@ privacy-faq-wait-so-how-do-you-make-money = Peki nasıl para kazanıyorsunuz?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } öteki şirketlere benzemez. 1998 yılında topluluk temelli bir açık kaynak projesi olarak kurulan { -brand-name-mozilla }, daha sağlıklı bir internet için çalışan, misyon odaklı bir kuruluştur. { -brand-name-mozilla-corporation }’ın gelirinin büyük kısmını { -brand-name-firefox } web tarayıcısının arama ortaklıkları ve dünya çapındaki dağıtım anlaşmaları aracılığıyla kazanılan gelirler oluşturur. Nasıl para kazandığımıza dair daha fazla bilgiyi <a href="{ $link }">yıllık mali raporumuzda</a> bulabilirsiniz.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Tamam, ilk birkaç soru kolaydı. Hangi verileri topluyorsunuz?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
