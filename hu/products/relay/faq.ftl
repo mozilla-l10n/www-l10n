@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -13,6 +15,9 @@ faq-question-missing-emails-question-2 = Nem kapok üzeneteket az e-mail-maszkja
 faq-question-missing-emails-answer-a-2 = Számos oka lehet annak, hogy miért nem kapja meg a maszkokon keresztül továbbított leveleket. Pár lehetséges ok:
 faq-question-missing-emails-answer-reason-spam = Az üzenetek levélszemétbe kerülnek
 faq-question-missing-emails-answer-reason-blocked-2 = Az e-mail-szolgáltatója blokkolja az e-mail-maszkjait
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = A továbbított e-mail melléklete nagyobb, mint { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = Az oldal nem fogad el e-mail-maszkokat
 faq-question-missing-emails-answer-reason-turned-off-2 = Lehet, hogy a maszk továbbítása ki van kapcsolva
 faq-question-missing-emails-answer-reason-delay = A { -brand-name-relay }nek a szokásosnál tovább tarthat az üzenetei továbbítása
@@ -47,6 +52,9 @@ faq-question-longevity-answer-2 = Előzetesen értesíteni fogjuk, hogy meg kell
 faq-question-mozmail-question-2 = Miért kezdték el az e-mail-maszkjaim a „mozmail.com” domaint használni?
 faq-question-mozmail-answer-2 = Azért váltottunk a „relay.firefox.com”-ról a „mozmail.com”-ra, hogy lehetőség legyen egyéni email aldomain használatára, például erre: maszk@sajatdomain.mozmail.com. Az egyéni e-mail aldomainekkel, melyek a { -brand-name-relay-premium } előfizetők számára érhetők el, könnyebben megjegyezhető e-mail-maszkok állíthatók elő.
 faq-question-attachments-question = A { -brand-name-firefox-relay } továbbítja a mellékletekkel rendelkező leveleket?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Most már támogatjuk a mellékletek továbbítását. Azonban van egy { $size } MB-os korlát az e-mailek a { -brand-name-relay } használatával történő továbbításakor. Az { $size } MB-nál nagyobb e-mailek nem lesznek továbbítva.
 faq-question-unsubscribe-domain-question-2 = Mi történik az egyéni aldomainemmel, ha lemondom a { -brand-name-relay-premium } szolgáltatást?
 faq-question-unsubscribe-domain-answer-2 = Ha visszavált a { -brand-name-relay-premium }ról, akkor továbbra is meg fogja kapni az egyéni domainról továbbított leveleit, de új maszkokat már nem fog tudni felvenni annál az aldomainnál. Ha összesen több mint öt maszkja van, akkor többet már nem fog tudni létrehozni. Elveszti azt a lehetőséget is, hogy válaszoljon a továbbított levelekre. Újra előfizethet a { -brand-name-relay-premium }ra, hogy visszakapja ezeket a funkciókat.
 faq-question-8-question = Milyen adatokat gyűjt a { -brand-name-firefox-relay }?
@@ -79,3 +87,20 @@ faq-question-trackerremoval-breakage-answer-2 = Néha a követők eltávolítás
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = Mi az a telefonszámmaszk?
+phone-masking-faq-question-where-is = Hol érhető el a telefonmaszkolás?
+phone-masking-faq-answer-where-is = Jelenleg a telefonszám-maszkolás csak az Egyesült Államokban és Kanadában érhető el. Ez azt jelenti, hogy csak amerikai vagy kanadai számokról lehet átirányított hívásokat és SMS-eket fogadni. Dolgozunk azon, hogy megtaláljuk a módját, hogy a telefonszám-maszkolás e két országon kívül is elérhető legyen.
+phone-masking-faq-question-how-many = Hány telefonmaszkot kapok?
+phone-masking-faq-question-change-phone-mask = Lecserélhetem a telefonmaszkomat?
+phone-masking-faq-answer-change-phone-mask = Nem, nem módosíthatja a telefonszámmaszkot, ha egyszer kiválasztotta. Ezt a lehetőséget vizsgáljuk.
+phone-masking-faq-question-can-reply = Válaszolhatok az SMS-ekre?
+phone-masking-faq-answer-can-reply = Igen, válaszolhat a legutóbb kapott SMS-ekre. Csak válaszoljon, ahogy az SMS-ekre szokott.
+phone-masking-faq-question-forwarded-texts = Milyen típusú üzenetek lesznek továbbítva?
+phone-masking-faq-answer-forwarded-texts = Csak az SMS üzenetek továbbíthatók. A fényképeket, videókat stb. tartalmazó MMS-ek nem kerülnek továbbításra.
+phone-masking-faq-question-pictures = Küldhetek vagy kaphatok képeket?
+phone-masking-faq-answer-pictures = Nem, csak SMS-ek továbbíthatók vagy küldhetők el válaszként.
+phone-masking-faq-question-historical = Válaszolhatok a korábbi SMS-ekre?
+phone-masking-faq-answer-historical = Jelenleg nem tud válaszolni a korábban kapott SMS-ekre, bár ez a funkció hamarosan elérhető lesz.
+phone-masking-faq-question-can-i-send = Küldhetek üzenetet anélkül, hogy válaszolnék egyre?
+phone-masking-faq-answer-can-i-send = Nem, még nem küldhet el olyan SMS-eket, amelyek nem válaszok. Válaszolni csak a továbbított SMS-ekre lehet.
+phone-masking-faq-question-limit = Van korlátozás hogy hány SMS-t kapok?

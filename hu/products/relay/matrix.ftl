@@ -2,11 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
+
+plan-matrix-title = Árképzés
 
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = Válassza ki az Önnek megfelelő védelmi szintet
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = A { -brand-name-firefox-relay } egyedi e-mail-maszkokkal védi személyazonosságát és a postaládáját. Növelje tovább a biztonságot a { -brand-name-relay } telefonmaszkolás segítségével, és takarítson meg { $savings }%-ot a { -brand-name-mozilla-vpn } védelem hozzáadásával.
 
 ## Top Row Labels
 
@@ -16,6 +22,7 @@ plan-matrix-heading-features = Funkciók
 plan-matrix-heading-plan-free = Korlátozott e-mail-védelem
 plan-matrix-heading-plan-premium = E-mail-védelem
 plan-matrix-heading-plan-phones = E-mail- és telefonvédelem
+plan-matrix-heading-plan-bundle-v2 = VPN-védelem hozzáadása
 
 ## Feature Breakdowns
 
@@ -26,6 +33,7 @@ plan-matrix-feature-promo-email-blocking = Promóciós e-mailek blokkolása
 plan-matrix-feature-email-subdomain = { -brand-name-relay } e-mail-domain maszkok létrehozása útközben
 plan-matrix-feature-email-reply = Válasz a levelekre névtelenül
 plan-matrix-feature-phone-mask = Telefonmaszk a valódi telefonszámának védelmére
+plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
@@ -36,6 +44,7 @@ plan-matrix-feature-mobile-promo-email-blocking = Promóciós e-mailek blokkolá
 plan-matrix-feature-mobile-email-subdomain = Egyedi { -brand-name-relay } e-mail-domain
 plan-matrix-feature-mobile-email-reply = Válasz a levelekre névtelenül
 plan-matrix-feature-mobile-phone-mask = Védje valódi telefonszámát
+plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 
