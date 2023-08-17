@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
 waitlist-heading-2 = Ynskriuwe foar de { -brand-name-relay-premium }-wachtlist
@@ -19,7 +20,7 @@ waitlist-control-locale-label = Selektearje jo foarkartaal
 waitlist-submit-label-2 = Op de wachtlist pleatse
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = Troch op ‘{ waitlist-submit-label-2 }’ te klikken, geane jo akkoard mei ús <a>Privacybelied</a>.
+waitlist-privacy-policy-agree-2 = Troch op ‘{ waitlist-submit-label-2 }’ te klikken, geane jo akkoard mei ús <a href="{ $url }">Privacybelied</a>.
 waitlist-privacy-policy-use = Jo gegevens wurde allinnich brûkt om jo te berjochtsjen oer beskikberheid fan { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Jo gegevens wurde allinnich brûkt om jo te berjochtsjen as telefoanmaskearing beskikber is yn jo regio.
 waitlist-privacy-policy-use-bundle = Jo gegevens wurde allinnich brûkt om jo te berjochtsjen oer beskikberheid fan { -brand-name-relay } + { -brand-name-vpn }-bondel.
