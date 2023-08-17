@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/
 
+# Variables:
+#   $monthly_price (string) - the monthly cost (including currency symbol) for a given plan. Examples: $0.99, 0,99 €
+bundle-banner-header-2 = Ndahi’aremo’ãi: { -brand-name-relay-premium } + { -brand-name-mozilla-vpn } { $monthly_price } jasyguápe
 bundle-banner-plan-header-2 = Ne ñehepyme’ẽrã 1 arygua ogueroike:
 bundle-banner-plan-modules-email-masking = Ñanduti veve rovamo’ãha
 bundle-banner-plan-modules-phone-masking = Pumbyry rovamo’ãha

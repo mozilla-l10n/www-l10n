@@ -10,7 +10,9 @@
 
 faq-headline = Porandu py’ỹiguáva
 faq-question-what-is-question-2 = ¿Mba’épa ñandutiveve rovamo’ãha { -brand-name-relay } rehegua?
+faq-question-missing-emails-question-2 = Namog̃uahẽi ñe’ẽmondo ñanduti veve rovamo’ãhágui
 faq-question-missing-emails-answer-reason-spam = Ñe’ẽmondo og̃uahẽ spam ramo
+faq-question-missing-emails-answer-reason-blocked-2 = Ne ñanduti veve me’ẽhára ojoko ñandutiveve rovamo’ãha
 faq-question-use-cases-question-2 = Araka’épa reipurúta { -brand-name-relay } rovamo’ãha
 faq-question-1-question = Mba’épa oiko spam-gui
 faq-question-availability-question = Moõpa reipurukuaa { -brand-name-relay }
