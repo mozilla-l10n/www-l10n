@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
+
 
 ## PRICING MATRIX SECTION
 
@@ -26,6 +28,7 @@ plan-matrix-feature-promo-email-blocking = Blockera e-postreklam
 plan-matrix-feature-email-subdomain = { -brand-name-relay } e-postdomän för att skapa alias på språng
 plan-matrix-feature-email-reply = Svara anonymt på mejl
 plan-matrix-feature-phone-mask = Telefonalias för att skydda ditt riktiga telefonnummer
+plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
@@ -36,6 +39,7 @@ plan-matrix-feature-mobile-promo-email-blocking = Blockera e-postreklam
 plan-matrix-feature-mobile-email-subdomain = Unik { -brand-name-relay } e-postdomän
 plan-matrix-feature-mobile-email-reply = Svara anonymt på mejl
 plan-matrix-feature-mobile-phone-mask = Skydda ditt riktiga telefonnummer
+plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 

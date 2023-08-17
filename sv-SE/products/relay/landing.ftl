@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -21,18 +22,16 @@ hero-section-social-proof = Som setts i
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Hur { -brand-name-relay } e-post- och telefonalias fungerar
-
 how-it-works-section-extension-headline = Använd { -brand-name-relay } e-postalias och telefonalias överallt
 how-it-works-section-extension-body = Få säkra, slumpmässiga e-postalias och ett unikt, maskerat telefonnummer att använda varje gång en webbplats, app, butik eller restaurang ber om din information.
-
 how-it-works-section-forward-headline = Vi vidarebefordrar e-post, telefonsamtal och sms till dig
 how-it-works-section-forward-body = Var säker, avsändare kommer aldrig att veta din riktiga e-postadress eller riktiga nummer. Du kan till och med svara på sms och e-postmeddelanden utan att dela din riktiga identitet.
-
 how-it-works-section-manage-headline = Hantera dina alias från din { -brand-name-relay } instrumentpanel
 how-it-works-section-manage-body = Logga in på din { -brand-name-relay } instrumentpanel för att skapa nya alias, märka befintliga alias och blockera samtal, sms eller e-postmeddelanden från alias som får för mycket skräppost.
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Recensioner
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Tillägg
 # Do not localize addons.mozilla.org
