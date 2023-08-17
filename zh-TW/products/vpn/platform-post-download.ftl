@@ -44,22 +44,22 @@ vpn-download-faq-here-are-some = 以下是 { -brand-name-mozilla-vpn } 設定過
 vpn-download-faq-why-use = 為什麼我該使用 { -brand-name-mozilla-vpn }？
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
-vpn-download-faq-as-more-daily = 隨著我們的日常生活更常透過網際網路進行、線上隱私與安全性也越發重要。 VPN<a href="{ $faq }">虛擬私人網路</a>會在您的裝置與網際網路之間建立加密通道確保您的連線安全與私密同時從兩個方面保護您:
+vpn-download-faq-as-more-daily = 隨著我們的日常生活更常發生在網際網路上，在網路上的隱私與安全性也越發重要。VPN（<a href="{ $faq }">虛擬私人網路</a>）可謂您的裝置建立加密過網際網路連線通道，確保您的連線安全與隱私，以達到下列兩道防護：
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
-vpn-download-faq-concealing-ip = 隱藏您實際的 <a href="{ $ip }">IP 地址</a>: 如此可幫助保護您的個人身分並隱藏您的實際所在地點讓您造訪的網站。
-vpn-download-faq-encrypting = 加密您的網路流量這樣就沒有人可以窺探您的線上行為。
+vpn-download-faq-concealing-ip = 隱藏您實際的 <a href="{ $ip }">IP 地址</a>：保護您的個人身分並在您開啟網頁時，不讓網站得知實際所在地點。
+vpn-download-faq-encrypting = 加密您的網路流量：這樣就沒有人可以窺探您的線上行為。
 vpn-download-faq-working = 我要如何知道 VPN 有正常運作？
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } 會在工具列與應用程式主畫面視覺化顯示目前狀態讓您很簡單就能知道您的線上行為是否受到保護。這些指示器讓您可以確認自己的網頁瀏覽模式是否安全。另外在連線時您可以到 <a href="{ $monitor }">https://monitor.firefox.com/</a> 確認 IP 地址是否被隱藏。若需更多資訊請參考<a href="{ $connected }">我要如何知道 { -brand-name-mozilla-vpn } 是否已連線</a>。
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } 會在工具列與應用程式主畫面當中以顯示目前狀態，讓您很簡單就能知道線上行為是否受到保護。這些標示讓您可以確認目前的上網連線是否安全。另外在連線時，您可以到 <a href="{ $monitor }">https://monitor.firefox.com/</a> 確認 IP 地址是否被隱藏。若需更多資訊，請參考<a href="{ $connected }">我要如何知道 { -brand-name-mozilla-vpn } 是否已連線？</a>。
 vpn-download-faq-add-device = 我要如何加入另一台裝置？
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v2 = 新增裝置很簡單，只要下載安裝 { -brand-name-mozilla-vpn } 軟體，然後登入現有的 { -brand-name-firefox-account }。若需更多資訊，請參考<a href="{ $subscription }">如何將裝置加入您的 { -brand-name-mozilla-vpn } 訂閱</a>。
 vpn-download-faq-best-practices = 有哪些 VPN 的最佳做法？
-vpn-download-faq-traffic = 若您的目標是要保護您的網路流量同時又能保持較快的上網速度那麼最好的伺服器位置離您的實際所在地點越近越好。這將增加連線的可靠度與速度因為您的網際網路流量不需經過多少折返點就能到達預期的目的地。
+vpn-download-faq-traffic = 若您的目標是要保護網路流量，同時又能保持較快的上網速度，那麼最好的方式就是選擇與您實際所在地點越近越好的伺服器。如此可以讓流量減少經過的節點就抵達目的地，以增加連線的穩定度與速度。
 vpn-download-faq-experience = 若您的目標是讓網際網路能有彷彿身處世界其他地方的體驗您可以選擇該伺服器的位置這樣所有您造訪的網站就會顯示得彷彿您真的在世界各地。
 vpn-download-faq-protect = 若您想更加保護自己可以到設定 > 隱私功能開啟廣告、廣告追踪器與惡意軟體騷擾的保護功能。請注意這可能會造成某些網站無法正常運作或無法載入。所以您在遇到此問題時可能需要暫時停用這些保護機制。
 vpn-download-faq-lastly = 最後在支援的裝置上您可以讓 VPN 變得更聰明從 VPN 排除某些應用程式例如 奈飛。
