@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 e versioni successive)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 e versioni successive)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 e versioni successive)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (solo { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (solo { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 e versioni successive)
 vpn-landing-faq-refund-question-heading = Quali sono i criteri di rimborso di { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = La prima volta che ti abboni a { -brand-name-mozilla-vpn } tramite il sito web di { -brand-name-mozilla }, puoi richiedere un rimborso se cancelli il tuo account entro i primi 30 giorni. { -brand-name-mozilla } rimborserà il tuo primo periodo di abbonamento.
 vpn-landing-faq-refund-question-additional-desc = Se sottoscrivi il tuo abbonamento tramite acquisto in-app dall’{ -brand-name-app-store } { -brand-name-apple } o da { -brand-name-google-play } Store, il pagamento è soggetto al termini e condizioni dell’{ -brand-name-app-store }. Devi indirizzare qualsiasi richiesta di fatturazione e rimborso per tali acquisti a { -brand-name-apple } o { -brand-name-google }.
