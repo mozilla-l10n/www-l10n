@@ -122,6 +122,7 @@ phone-masking-faq-answer-disable-logging = 可以。您可以在 { -brand-name-r
 phone-masking-faq-question-can-i-share = 我可以將轉寄簡訊給我的號碼分享出去嗎？
 phone-masking-faq-answer-can-i-share = 若您分享該號碼，不會發生任何事情 — 此號碼不是您的虛擬門號，只是 { -brand-name-relay } 單純用來將簡訊與來電轉寄給您的門號。
 phone-masking-faq-question-how-i-save-card = 我要如何儲存 { -brand-name-relay } 聯絡人卡片嗎？
+phone-masking-faq-answer-how-i-save-card = 當您升級使用 { -brand-name-relay } 轉接門號功能，我們會傳送一封包含要使用哪個門號來收發來電與簡訊的聯絡卡資訊給您，內容類似一般的聯絡人卡片。在大部分裝置中，可以直接選擇該卡片將此資訊儲存到手機通訊錄中。
 phone-masking-faq-question-install-app = 我要安裝程式才可以使用 { -brand-name-relay } 的手機門號轉接功能嗎？
 phone-masking-faq-answer-install-app = 不用，{ -brand-name-relay } 手機門號轉接功能使用您裝置標準的簡訊與通話應用程式。
 phone-masking-faq-question-data = { -brand-name-relay } 的電話轉接門號會保存哪些資料？
