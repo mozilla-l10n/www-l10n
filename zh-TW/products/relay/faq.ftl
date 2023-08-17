@@ -120,6 +120,7 @@ phone-masking-faq-answer-spam = 若您收到垃圾簡訊，可以封鎖傳送給
 phone-masking-faq-question-disable-logging = 可以不要紀錄來電者或簡訊寄件者嗎？
 phone-masking-faq-answer-disable-logging = 可以。您可以在 { -brand-name-relay } 儀錶板關閉紀錄來電或簡訊寄件號碼，然而若不記錄號碼，就無法再封鎖特定電話號碼，因為我們必須使用此號碼來追蹤此簡訊是由誰所寄出。
 phone-masking-faq-question-can-i-share = 我可以將轉寄簡訊給我的號碼分享出去嗎？
+phone-masking-faq-answer-can-i-share = 若您分享該號碼，不會發生任何事情 — 此號碼不是您的虛擬門號，只是 { -brand-name-relay } 單純用來將簡訊與來電轉寄給您的門號。
 phone-masking-faq-question-how-i-save-card = 我要如何儲存 { -brand-name-relay } 聯絡人卡片嗎？
 phone-masking-faq-question-install-app = 我要安裝程式才可以使用 { -brand-name-relay } 的手機門號轉接功能嗎？
 phone-masking-faq-answer-install-app = 不用，{ -brand-name-relay } 手機門號轉接功能使用您裝置標準的簡訊與通話應用程式。
