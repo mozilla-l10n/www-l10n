@@ -115,3 +115,6 @@ phone-masking-faq-question-can-i-see = 我可以看到是誰傳送簡訊或播�
 phone-masking-faq-answer-can-i-see = 可以，您可以看到傳送簡訊或撥打電話給您的號碼。您也可以選擇關閉，不保留此紀錄，但如此就無法回覆或封鎖來電或簡訊來訊者。
 phone-masking-faq-question-can-i-block = 我可以封鎖來電或簡訊嗎？
 phone-masking-faq-answer-can-i-block = 您可以封鎖來自任一號碼的轉接。
+phone-masking-faq-question-spam = 萬一我的手機轉接門號收到垃圾簡訊怎麼辦？
+phone-masking-faq-answer-spam = 若您收到垃圾簡訊，可以封鎖傳送給您的號碼。
+phone-masking-faq-question-disable-logging = 可以不要紀錄來電者或簡訊寄件者嗎？
