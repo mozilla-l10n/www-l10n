@@ -36,7 +36,7 @@ mobile-ios-add-firefox-across = 安裝 { -brand-name-firefox } 在您的裝置�
 mobile-ios-find-it-all = 搜尋更快
 mobile-ios-get-search-suggestions = 在搜尋列取得搜尋建議并快速開啟您最常造訪的網站。輸入您想搜尋的問題然後開始透過您最愛的搜尋引擎搜尋建議結果或搜尋結果。
 # Obsolete string
-mobile-ios-keep-tabs-on = 在所有這些分頁上保留分頁
+mobile-ios-keep-tabs-on = 保留所有分頁
 # Obsolete string
 mobile-ios-create-as-many = 可隨意建立分頁而不會讓您忘記分頁。 { -brand-name-firefox } 會將您開啟的分頁顯示為縮圖讓您快速找到想要的內容。
 mobile-ios-discover-more-of = 探索更多您喜愛的內容

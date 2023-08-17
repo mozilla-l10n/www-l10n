@@ -7,10 +7,10 @@
 
 vpn-linux-mozilla-vpn = Linux 上的 { -brand-name-mozilla-vpn }
 vpn-linux-looking-for = 正在尋找一種 VPN 來保護您的 Linux 電腦嗎{ -brand-name-mozilla-vpn } 是唯一來自非營利組織的服務。了解 VPN 如何保護您以及為什麼您應該相信 { -brand-name-mozilla } 的隱私與安全。
-vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } 在 Linux 上打造更隱私、更安全的網路環境
+vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } 在 Linux 上打造更有隱私、更安全的網路環境
 vpn-linux-linux-is-free = Linux 是免費的、開放原始碼的、可以自訂的但也難免會遇到線上安全與隱私問題。 Linux 使用者與使用其他作業系統的使用者一樣也會面臨審查、監控與駭客攻擊的風險。
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } 是一種虛擬私人網路服務並使用開放原始碼的最先進加密功能不會記錄、追踪或分享您的任何網路活動。它讓您可以連線到超過 30 個國家超過 500 台伺服器。
-vpn-linux-why-choose = 為什麼選擇 { -brand-name-mozilla-vpn } for Linux
+vpn-linux-why-choose = 為什麼要選擇 { -brand-name-mozilla-vpn } for Linux？
 vpn-linux-fast-and-v2 = <strong>快速而可靠</strong>{ -brand-name-mozilla-vpn } 使用 { -brand-name-wireguard }® 通訊協定比起其他 VPN 通訊協定可提供更好的效能與穩定性。
 # Obsolete string
 vpn-linux-fast-and = <strong>快速而可靠</strong>{ -brand-name-mozilla-vpn } 使用 { -brand-name-wireguard }® 通訊協定比起其他 VPN 通訊協定可提供更好的效能與穩定性
