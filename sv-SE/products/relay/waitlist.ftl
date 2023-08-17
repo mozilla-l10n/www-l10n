@@ -21,7 +21,7 @@ waitlist-control-locale-label = Välj ditt önskade språk.
 waitlist-submit-label-2 = Ställ dig i väntelistan
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = Genom att klicka på "{ waitlist-submit-label-2 }" godkänner du vår <a>sekretesspolicy</a>.
+waitlist-privacy-policy-agree-2 = Genom att klicka på "{ waitlist-submit-label-2 }" godkänner du vår <a href="{ $url }">sekretesspolicy</a>.
 waitlist-privacy-policy-use = Din information kommer endast att användas för att meddela dig om tillgänglighet för { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Din information kommer endast att användas för att meddela dig när telefonmaskering är tillgänglig i ditt område.
 waitlist-privacy-policy-use-bundle = Din information kommer endast att användas för att meddela dig om tillgänglighet för paketet { -brand-name-relay } + { -brand-name-vpn }.
