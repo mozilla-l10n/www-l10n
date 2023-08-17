@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -41,7 +43,7 @@ faq-question-subdomain-characters-question = ¿Qué caracteres puedo usar para c
 faq-question-subdomain-characters-answer-v2 = Solo puedes usar letras minúsculas, números y guiones en inglés para crear un subdominio.
 faq-question-browser-support-question = ¿Puedo usar { -brand-name-relay } en otros navegadores o en mi dispositivo móvil?
 faq-question-browser-support-answer-2 = Sí, puedes generar máscaras de { -brand-name-relay } en otros navegadores o dispositivos móviles simplemente al iniciar sesión en tu tablero de { -brand-name-relay }.
-faq-question-longevity-question = ¿Qué sucede si Mozilla cierra el servicio { -brand-name-firefox-relay }?
+faq-question-longevity-question = ¿Qué sucede si { -brand-name-mozilla } cierra el servicio { -brand-name-firefox-relay }?
 faq-question-longevity-answer-2 = Te avisaremos con anticipación que necesitas cambiar la dirección de correo electrónico de cualquier cuenta que esté usando máscaras de correo de { -brand-name-relay }.
 faq-question-mozmail-question-2 = ¿Por qué mis correos enmascarados comenzaron a usar el dominio “mozmail.com?”
 faq-question-mozmail-answer-2 = Hicimos el cambio de “relay.firefox.com” a “mozmail.com” para poder obtener un subdominio de correo electrónico personalizado, como mascara@tudominio.mozmail.com. Los subdominios de correo electrónico personalizados, disponibles para los suscriptores de { -brand-name-relay-premium }, te permiten generar fácilmente más correos enmascarados.
@@ -75,29 +77,18 @@ faq-question-trackerremoval-breakage-answer-2 = A veces, la eliminación de rast
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = ¿Qué es una máscara de número de teléfono?
-
 phone-masking-faq-question-where-is = ¿Dónde está disponible el enmascaramiento de teléfono?
-
 phone-masking-faq-question-change-phone-mask = ¿Puedo cambiar la máscara de mi numero de teléfono?
-
 phone-masking-faq-question-can-reply = ¿Puedo responder a los mensajes de texto?
-
 phone-masking-faq-question-pictures = ¿Puedo enviar o recibir imágenes por mensaje de texto?
-
 phone-masking-faq-answer-historical = Actualmente no puedes responder a los mensajes de texto que recibiste anteriormente, aunque esta función está en camino.
-
 phone-masking-faq-question-can-i-send = ¿Puedo enviar un mensaje de texto sin responder a uno?
 phone-masking-faq-answer-can-i-send = No, aún no puedes enviar mensajes de texto que no sean respuestas. Solo puedes responder a los mensajes de texto reenviados.
-
 phone-masking-faq-question-limit = ¿Hay un límite para la cantidad de mensajes de texto que recibo?
-
 phone-masking-faq-question-call-length = ¿Cuánto tiempo puedo hablar cuando recibo una llamada?
-
 phone-masking-faq-question-can-i-call = ¿Puedo llamar a alguien con mi máscara de teléfono?
 phone-masking-faq-answer-can-i-call = No, solo puedes atender una llamada reenviada.
-
 phone-masking-faq-question-can-i-see = ¿Puedo ver quién me envió un mensaje de texto o me llamó?
-
 phone-masking-faq-question-data = ¿Qué tipo de datos almacena el enmascaramiento del teléfono { -brand-name-relay }?
 #   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
