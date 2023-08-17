@@ -89,6 +89,8 @@ faq-question-trackerremoval-breakage-answer-2 = 有的時候，移除郵件追�
 
 phone-masking-faq-question-what-is = 手機轉接號碼是什麼？
 phone-masking-faq-answer-what-is = 與郵件轉寄信箱功能類似，手機轉接門號是一組能夠將傳送到此門號的簡訊與來電，轉接到您的實際手機門號的電話號碼，讓您不需要揭露實際門號給對方。
+phone-masking-faq-question-where-is = 手機轉接門號功能已在哪些國家推出？
+phone-masking-faq-answer-where-is = 目前手機轉接門號功能僅在美國、加拿大推出。這代表您僅能使用美國、加拿大的號碼來接收轉接的來電或簡訊。我們仍在尋找提供此兩國以外門號的方式。
 phone-masking-faq-question-how-many = 我可以設定幾組手機轉接門號？
 phone-masking-faq-answer-how-many = 目前您只能獲得一組轉接門號，當您決定好門號號碼後，就無法再更改。
 phone-masking-faq-question-change-phone-mask = 我可以更改手機轉接門號嗎？
@@ -104,6 +106,7 @@ phone-masking-faq-answer-historical = 您目前無法回覆先前收到過的簡
 phone-masking-faq-question-can-i-send = 我可以不回覆簡訊，單純傳送簡訊嗎？
 phone-masking-faq-answer-can-i-send = 不可以，您不可以單純傳送簡訊，而非回覆簡訊。您只能回覆轉寄給您的簡訊。
 phone-masking-faq-question-limit = 有限制我能收到多少簡訊嗎？
+phone-masking-faq-question-call-length = 我接到電話的時候，可以講多久？
 phone-masking-faq-question-can-i-call = 我可以用轉接門號打給任何人嗎？
 phone-masking-faq-answer-can-i-call = 不可以，您只能接聽轉接的電話。
 phone-masking-faq-question-can-i-see = 我可以看到是誰傳送簡訊或播打電話給我嗎？
