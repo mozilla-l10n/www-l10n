@@ -15,6 +15,9 @@ faq-question-missing-emails-question-2 = 我沒有收到從轉寄信箱轉來的
 faq-question-missing-emails-answer-a-2 = 下列原因可能會造成信件無法轉寄給您：
 faq-question-missing-emails-answer-reason-spam = 訊息掉進垃圾信件匣
 faq-question-missing-emails-answer-reason-blocked-2 = 您的電子郵件業者封鎖您的轉寄信箱
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = 轉寄的郵件附件超過 { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = 網站不接受使用轉寄信箱
 faq-question-missing-emails-answer-reason-turned-off-2 = 轉寄信箱的轉寄功能可能被關閉了
 faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } 可能需花比較久的時間轉寄這封信
@@ -49,6 +52,9 @@ faq-question-longevity-answer-2 = 我們會提前通知您，讓您可到使用 
 faq-question-mozmail-question-2 = 為什麼我產生的轉寄信箱開始使用「mozmail.com」網域？
 faq-question-mozmail-answer-2 = 為了讓您可以自訂郵件子網域，我們將別名網域從「relay.firefox.com」更改為「mozmail.com」，例如 mask@yourdomain.mozmail.com。自訂郵件網域功能僅提供給 { -brand-name-relay-premium } 訂閱者，讓您可產生更好記的轉寄信箱。
 faq-question-attachments-question = { -brand-name-firefox-relay } 會轉寄含有附件的郵件嗎？
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = 我們現在也支援附件轉寄功能，但有郵件大小限制。{ -brand-name-relay } 不會轉寄超過 { $size } MB 的郵件。
 faq-question-unsubscribe-domain-question-2 = 如果我取消訂閱 { -brand-name-relay-premium }，我的自訂子網域會發生什麼事？
 faq-question-unsubscribe-domain-answer-2 = 若您從 { -brand-name-relay-premium } 降級回免費版，還是會收到透過自訂轉寄信箱轉寄的郵件，但無法再使用該子網域來建立新轉寄信箱。若您已有超過五組轉寄信箱，將無法再建立新的轉寄信箱。您也將無法再直接回覆收到的轉寄郵件。再次訂閱 { -brand-name-relay-premium } 即可重新獲得這些功能。
 faq-question-8-question = { -brand-name-firefox-relay } 會收集哪些資料？
@@ -81,3 +87,4 @@ faq-question-trackerremoval-breakage-answer-2 = 有的時候，移除郵件追�
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = 手機轉接號碼是什麼？
