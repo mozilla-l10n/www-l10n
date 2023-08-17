@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -13,6 +15,9 @@ faq-question-missing-emails-question-2 = Nid wyf yn derbyn negeseuon gan fy e-bo
 faq-question-missing-emails-answer-a-2 = Mae yna rai rhesymau efallai pam nad ydych chi'n derbyn e-byst sy'n cael eu hanfon ymlaen trwy eich e-byst arallenwau. Mae'r rhesymau hyn yn cynnwys:
 faq-question-missing-emails-answer-reason-spam = Mae negeseuon yn mynd i'r sbam
 faq-question-missing-emails-answer-reason-blocked-2 = Mae eich darparwr e-bost yn rhwystro'ch e-byst arallenwau
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = Mae gan yr e-bost a anfonwyd ymlaen atodiad sy'n fwy na { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = Nid yw'r wefan yn derbyn e-byst arallenwau
 faq-question-missing-emails-answer-reason-turned-off-2 = Efallai bod yr e-byst arallenwau wedi diffodd anfon ymlaen
 faq-question-missing-emails-answer-reason-delay = Efallai y bydd { -brand-name-relay } yn cymryd mwy o amser na'r arfer i anfon eich negeseuon ymlaen
@@ -47,6 +52,9 @@ faq-question-longevity-answer-2 = Byddwn yn rhoi rhybudd ymlaen llaw i chi bod a
 faq-question-mozmail-question-2 = Pam mae fy arallenwau wedi dechrau ddefnyddio'r parth “mozmail.com?”
 faq-question-mozmail-answer-2 = Rydym wedi newid o “relay.firefox.com” i “mozmail.com” er mwyn ei gwneud hi'n bosibl cael parth e-bost personol, fel alias@yourdomain.mozmail.com. Mae parthau e-bost personol, sydd ar gael i danysgrifwyr { -brand-name-relay-premium }, hefyd yn gwneud hi'n haws cynhyrchu e-bost arallenwau sy'n hawdd eu cofio nag arallenwau.
 faq-question-attachments-question = A fydd { -brand-name-firefox-relay } yn anfon ymlaen e-byst gydag atodiadau?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Rydym nawr yn cefnogi anfon atodiadau ymlaen. Fodd bynnag, mae terfyn { $size } MB ar gyfer anfon e-byst ymlaen gan ddefnyddio { -brand-name-relay }. Ni fydd unrhyw e-byst sy'n fwy na { $size } MB yn cael eu hanfon ymlaen.
 faq-question-unsubscribe-domain-question-2 = Beth sy'n digwydd i'm is-barth personol os byddaf yn dad-danysgrifio o { -brand-name-relay-premium }?
 faq-question-unsubscribe-domain-answer-2 = Os ydych chi'n israddio o { -brand-name-relay-premium }, byddwch chi'n dal i dderbyn e-byst sy'n cael eu hanfon ymlaen trwy'ch e-bost arallenw personol, ond ni fyddwch yn gallu creu arallenwau newydd gan ddefnyddio'r is-barth hwnnw mwyach. Os oes gennych fwy na phum arallenw i gyd, ni fydd modd i chi greu rhagor. Byddwch hefyd yn colli'r gallu i ateb i negeseuon a fydd yn cael eu hanfon ymlaen. Gallwch ail-danysgrifio i { -brand-name-relay-premium } ac adennill mynediad i'r nodweddion hyn.
 faq-question-8-question = Pa ddata mae { -brand-name-firefox-relay } yn ei gasglu?
@@ -79,3 +87,45 @@ faq-question-trackerremoval-breakage-answer-2 = Weithiau gall cael gwared ar dra
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = Beth yw mwgwd rhif ffôn?
+phone-masking-faq-answer-what-is = Yn debyg i fwgwd e-bost, mae mwgwd rhif ffôn yn rhif ffôn a all anfon negeseuon testun a galwadau ymlaen at eich gwir rif ffôn heb ddatgelu beth yw eich gwir rif i'r sawl sy'n eich ffonio neu'n anfon neges destun atoch.
+phone-masking-faq-question-where-is = Ble mae masgio ffôn ar gael?
+phone-masking-faq-answer-where-is = Ar yr adeg hon, dim ond yn yr Unol Daleithiau a Chanada y mae masgio rhifau ffôn ar gael. Mae hyn yn golygu mai dim ond o rifau UDA neu Ganada y gallwch dderbyn galwadau a negeseuon testun ymlaen. Rydyn ni'n gweithio ar ddod o hyd i ffordd i gynnig masgio rhifau ffôn y tu allan i'r ddwy wlad hyn.
+phone-masking-faq-question-how-many = Sawl masg ffôn ydw i'n ei gael?
+phone-masking-faq-answer-how-many = Dim ond un mwgwd rhif ffôn rydych chi'n ei gael ar yr adeg hon. Unwaith y byddwch yn dewis eich mwgwd rhif ffôn, ni allwch ei newid yn nes ymlaen.
+phone-masking-faq-question-change-phone-mask = A allaf newid mwgwd fy ffôn?
+phone-masking-faq-answer-change-phone-mask = Na, ni allwch newid mwgwd eich rhif ffôn ar ôl i chi ei ddewis. Rydym yn archwilio'r opsiwn hwn.
+phone-masking-faq-question-can-reply = A allaf ymateb i negeseuon testun?
+phone-masking-faq-answer-can-reply = Gallwch, gallwch ateb y testun diwethaf a gawsoch. Atebwch fel y byddech ar gyfer unrhyw neges destun.
+phone-masking-faq-question-forwarded-texts = Pa fath o destunau fydd yn cael eu hanfon ymlaen?
+phone-masking-faq-answer-forwarded-texts = Dim ond negeseuon testun SMS y gellir eu hanfon ymlaen. Ni fydd testunau MMS sy'n cynnwys lluniau, fideos, ac ati yn cael eu hanfon ymlaen.
+phone-masking-faq-question-pictures = A allaf anfon neu dderbyn lluniau trwy neges destun?
+phone-masking-faq-answer-pictures = Na, dim ond negeseuon testun SMS y gellir eu hanfon ymlaen neu eu hanfon fel atebion.
+phone-masking-faq-question-historical = A allaf ymateb i negeseuon testun hanesyddol?
+phone-masking-faq-answer-historical = Ni allwch ymateb i destunau a gawsoch yn flaenorol ar hyn o bryd, er bod y nodwedd hon ar y ffordd.
+phone-masking-faq-question-can-i-send = A allaf anfon neges destun heb ateb un?
+phone-masking-faq-answer-can-i-send = Na, ni allwch anfon negeseuon testun nad ydynt yn atebion eto. Dim ond i negeseuon testun a anfonwyd ymlaen y gallwch chi ymateb.
+phone-masking-faq-question-limit = A oes cyfyngiad ar faint o negeseuon testun a gaf?
+phone-masking-faq-answer-limit = Gallwch dderbyn ac ateb hyd at 75 o negeseuon testun y mis. Ni fydd unrhyw negeseuon testun ychwanegol a anfonir at eich mwgwd rhif ffôn yn cael eu hanfon ymlaen at eich gwir rif. Ni fydd unrhyw atebion ychwanegol yn cael eu darparu. Mae'r mis yn troi drosodd ar eich dyddiad bilio, nid y dyddiad calendr. Unwaith y bydd eich mis bilio wedi troi drosodd, byddwch yn dechrau derbyn negeseuon testun eto.
+phone-masking-faq-question-call-length = Pa mor hir y gallaf siarad pan fyddaf yn cael galwad?
+phone-masking-faq-answer-call-length = Bob mis byddwch yn cael 50 munud o siarad. Unwaith y bydd y cofnodion hyn wedi dod i ben, ni fyddwch yn gallu derbyn galwadau a anfonwyd ymlaen tan y mis nesaf ar eich cylch bilio.
+phone-masking-faq-question-can-i-call = A allaf ffonio rhywun gyda mwgwd fy ffôn?
+phone-masking-faq-answer-can-i-call = Na, dim ond galwad a anfonwyd ymlaen y gallwch chi ei dderbyn.
+phone-masking-faq-question-can-i-see = A allaf weld pwy anfonodd neges destun neu ffonio fi?
+phone-masking-faq-answer-can-i-see = Gallwch, gallwch weld y rhif a anfonodd neges destun neu eich ffonio. Gallwch hefyd analluogi storio'r cofnodion hyn, ond byddwch yn colli'r gallu i ateb neu rwystro galwyr unigol a tecstwyr.
+phone-masking-faq-question-can-i-block = A allaf rwystro galwad neu neges destun?
+phone-masking-faq-answer-can-i-block = Gallwch rwystro'r holl anfon ymlaen o un rhif.
+phone-masking-faq-question-spam = Beth os bydd mwgwd fy ffôn yn dechrau cael sbam?
+phone-masking-faq-answer-spam = Os byddwch chi'n dechrau cael sbam, gallwch chi rwystro'r niferoedd sy'n anfon sbam atoch.
+phone-masking-faq-question-disable-logging = A allaf analluogi logio galwyr neu anfonwyr testun?
+phone-masking-faq-answer-disable-logging = Gallwch, gallwch analluogi logio rhifau o ddangosfwrdd { -brand-name-relay }. Fodd bynnag, ni fyddwch bellach yn gallu ymateb i negeseuon testun na rhwystro rhifau penodol, oherwydd y log yw sut y gallwn olrhain pwy anfonodd neges destun atoch.
+phone-masking-faq-question-can-i-share = A allaf rannu'r rhif sy'n anfon negeseuon testun ataf?
+phone-masking-faq-answer-can-i-share = Os rhannwch y rhif hwn, ni fydd dim yn digwydd - nid mwgwd eich rhif ffôn yw'r rhif hwn. Dyma'r rhif cyswllt yn unig y bydd { -brand-name-relay } yn anfon eich negeseuon testun a'ch galwadau ymlaen ohono.
+phone-masking-faq-question-how-i-save-card = Sut mae cadw'r cerdyn cyswllt { -brand-name-relay }?
+phone-masking-faq-answer-how-i-save-card = Unwaith y byddwch yn uwchraddio i fasgio rhif ffôn { -brand-name-relay }, byddwn yn anfon neges destun at gerdyn cyswllt sy'n cynnwys y rhif y byddwch yn derbyn galwadau a negeseuon testun a anfonwyd ymlaen ohono, yn debyg i unrhyw gerdyn cyswllt sy'n storio rhif ffôn y bobl sy'n cysylltu â chi. Ar y rhan fwyaf o ddyfeisiau, gallwch ddewis y cerdyn cyswllt hwnnw a'i gadw fel unrhyw gyswllt arall ar eich ffôn.
+phone-masking-faq-question-install-app = Oes angen i mi osod ap i ddefnyddio masgio ffôn { -brand-name-relay }?
+phone-masking-faq-answer-install-app = Na, mae masgio ffôn { -brand-name-relay } yn gweithio gan ddefnyddio apiau negeseuon testun a galw safonol eich dyfais.
+phone-masking-faq-question-data = Pa fathau o ddata y mae { -brand-name-relay } masgio ffôn yn ei storio?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Gweler y <a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay } Polisi Preifatrwydd</a>.

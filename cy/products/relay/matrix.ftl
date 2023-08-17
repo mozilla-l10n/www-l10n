@@ -2,11 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
+
+plan-matrix-title = Prisio
 
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = Dewiswch lefel o ddiogelwch sy'n iawn i chi
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = Mae { -brand-name-firefox-relay } yn diogelu eich hunaniaeth a'ch mewnflwch gyda masgiau e-bost unigryw. Ychwanegu hyd yn oed mwy o ddiogelwch gyda masgio ffôn { -brand-name-relay }, ac arbed { $savings }% drwy ychwanegu amddiffyniad { -brand-name-mozilla-vpn }.
 
 ## Top Row Labels
 
@@ -16,6 +22,7 @@ plan-matrix-heading-features = Nodweddion
 plan-matrix-heading-plan-free = Diogelwch e-bost cyfyngedig
 plan-matrix-heading-plan-premium = Diogelwch e-bost
 plan-matrix-heading-plan-phones = Diogelwch e-bost a ffôn
+plan-matrix-heading-plan-bundle-v2 = Ychwanegwch ddiogelwch VPN
 
 ## Feature Breakdowns
 
@@ -26,6 +33,7 @@ plan-matrix-feature-promo-email-blocking = Rhwystro e-byst hyrwyddo
 plan-matrix-feature-email-subdomain = Parth e-bost { -brand-name-relay } i greu arallenwau ar daith
 plan-matrix-feature-email-reply = Ateb e-byst yn ddienw
 plan-matrix-feature-phone-mask = Cuddio rhif ffôn i ddiogelu eich gwir rif ffôn
+plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
@@ -36,6 +44,7 @@ plan-matrix-feature-mobile-promo-email-blocking = Rhwystro e-byst hyrwyddo
 plan-matrix-feature-mobile-email-subdomain = Parth e-bost { -brand-name-relay } unigryw
 plan-matrix-feature-mobile-email-reply = Ateb e-byst yn ddienw
 plan-matrix-feature-mobile-phone-mask = Diogelwch eich rhif ffôn go iawn
+plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 
@@ -54,6 +63,9 @@ plan-matrix-price-period-yearly = Blynyddol
 plan-matrix-price-period-monthly = Yn fisol
 plan-matrix-price-period-yearly-footnote-1 = Bilio blynyddol
 plan-matrix-price-period-monthly-footnote-1 = Bilio misol
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>Cadw { $savings }%</span> ar bris VPN arferol
 
 ## Plan CTAs
 

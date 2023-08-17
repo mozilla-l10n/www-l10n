@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -21,22 +22,33 @@ hero-section-social-proof = Fel wedi'i weld yn
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Sut mae cuddio e-bost a ffôn { -brand-name-relay } yn gweithio
-
 how-it-works-section-extension-headline = Defnyddiwch arallenwau e-byst { -brand-name-relay } a chuddio rhif ffôn ym mhob man
 how-it-works-section-extension-body = Sicrhewch arallenwau e-bost diogel ar hap a rhifau ffôn unigryw wedi'i guddio i'w defnyddio unrhyw bryd y bydd gwefan, ap, siop neu fwyty yn gofyn am eich manylion.
-
 how-it-works-section-forward-headline = Byddwn yn anfon e-byst, galwadau ffôn a negeseuon testun ymlaen atoch
 how-it-works-section-forward-body = Gallwch fod yn dawel eich meddwl, na fydd anfonwyr byth yn gwybod eich cyfeiriad e-bost na'ch rhif ffôn go iawn. Gallwch hyd yn oed ymateb i negeseuon testun ac e-byst heb rannu eich hunaniaeth go iawn.
-
 how-it-works-section-manage-headline = Rheoliwch eich arallenwau a'ch rhifau ffôn cudd o'ch bwrdd rheoli { -brand-name-relay }
 how-it-works-section-manage-body = Mewngofnodwch i'ch bwrdd rheoli { -brand-name-relay } i greu arallenwau newydd, labelu arallenwau cyfredol a  rhwystro galwadau, negeseuon testun neu e-byst o arallenwau sy'n derbyn gormod o sbam.
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Adolygiadau
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Ychwanegion
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Ffynhonnell: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+        [zero] allan o 5 ( { $review_count } adolygiad)
+        [one] allan o 5 ( { $review_count } adolygiad)
+        [two] allan o 5 ( { $review_count } adolygiad)
+        [few] allan o 5 ( { $review_count } adolygiad)
+        [many] allan o 5 ( { $review_count } adolygiad)
+       *[other] allan o 5 ( { $review_count } adolygiad)
+    }
 landing-reviews-show-next-button = dangos yr adolygiad nesaf
 landing-reviews-show-previous-button = dangos yr adolygiad blaenorol
 landing-review-anonymous-user = Defnyddiwr { -brand-name-firefox } { $user_id }
