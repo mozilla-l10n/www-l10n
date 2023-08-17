@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -42,7 +44,7 @@ faq-question-subdomain-characters-question = Que caracteres posso usar para cria
 faq-question-subdomain-characters-answer-v2 = Você só pode usar letras minúsculas sem acentos, números e hifens para criar um subdomínio.
 faq-question-browser-support-question = Posso usar o { -brand-name-relay } em outros navegadores ou em meu dispositivo móvel?
 faq-question-browser-support-answer-2 = Sim, você pode gerar máscaras do { -brand-name-relay } em outros navegadores ou dispositivos móveis simplesmente entrando na sua conta no painel do { -brand-name-relay }.
-faq-question-longevity-question = O que acontece se a Mozilla encerrar o serviço { -brand-name-firefox-relay }?
+faq-question-longevity-question = O que acontece se a { -brand-name-mozilla } encerrar o serviço { -brand-name-firefox-relay }?
 faq-question-longevity-answer-2 = Avisaremos com antecedência que você precisará alterar o endereço de email de todas as contas em que esteja usando máscaras de email do { -brand-name-relay }.
 faq-question-mozmail-question-2 = Por que minhas máscaras de email passaram a usar o domínio “mozmail.com”?
 faq-question-mozmail-answer-2 = Mudamos de “relay.firefox.com” para “mozmail.com” para possibilitar a obtenção de um subdomínio de emails personalizado, como mascara@seusubdominio.mozmail.com. Subdomínios personalizados de emails, disponíveis para assinantes do { -brand-name-relay-premium }, permitem gerar máscaras de email mais fáceis de lembrar.
