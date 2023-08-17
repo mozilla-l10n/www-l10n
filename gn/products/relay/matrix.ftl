@@ -5,12 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
 
+plan-matrix-title = Tepy
 
 ## PRICING MATRIX SECTION
 
 
 ## Top Row Labels
 
+# Variables:
+#   $savings (string) - the percentage saved (including % symbol) for a given plan. Examples: 50%, 70%
+plan-matrix-heading-features = Reheguáva
+plan-matrix-heading-plan-free = Ñanduti veve ñemo’ã hu’ãva
 
 ## Feature Breakdowns
 

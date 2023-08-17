@@ -17,6 +17,7 @@ faq-question-availability-question = Moõpa reipurukuaa { -brand-name-relay }
 faq-question-8-question = Mba’e mba’ekuaarãpa ombyaty { -brand-name-firefox-relay }
 faq-question-email-storage-question = ¿{ -brand-name-relay } ombyaty che ñanduti veve?
 faq-question-acceptable-use-question = Mba’épa jeipuru { -brand-name-relay } omoneĩva
+faq-question-disable-trackerremoval-question = Ajokokuaápa ñandutu veve rapykuehoha mbogueha
 
 ## Frequently Asked Questions about Phone plans
 
