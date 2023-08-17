@@ -24,6 +24,8 @@ landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Moĩmbaha
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Teñoiha: addons.mozilla.org
+landing-reviews-show-next-button = ehechauka marandu’i oútava
+landing-reviews-show-previous-button = ehechauka marandu’i mboyveguáva
 landing-review-anonymous-user = { -brand-name-firefox } oipuru { $user_id }
 
 ## FAQ SECTION

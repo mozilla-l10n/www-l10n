@@ -16,13 +16,22 @@ plan-matrix-title = Tepy
 #   $savings (string) - the percentage saved (including % symbol) for a given plan. Examples: 50%, 70%
 plan-matrix-heading-features = Reheguáva
 plan-matrix-heading-plan-free = Ñanduti veve ñemo’ã hu’ãva
+plan-matrix-heading-plan-premium = Ñanduti veve ñemo’ãha
+plan-matrix-heading-plan-phones = Ñanduti veve ha pumbyry ñemo’ã
+plan-matrix-heading-plan-bundle-v2 = Embojuaju ñemo’ã VPN ndive
 
 ## Feature Breakdowns
 
+plan-matrix-feature-email-tracker-removal = Embogue ñanduti veve rapykuehoha
+plan-matrix-feature-promo-email-blocking = Ejoko ñanduti veve jopoigua
 plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
+plan-matrix-feature-mobile-email-masks = Ñanduti veve rovamo’ãha
+plan-matrix-feature-mobile-browser-extension = Kundahára jepysokue
+plan-matrix-feature-mobile-email-tracker-removal = Embogue ñanduti veve rapykuehoha
+plan-matrix-feature-mobile-promo-email-blocking = Ejoko ñanduti veve jopoigua
 plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
