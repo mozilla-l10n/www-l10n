@@ -16,11 +16,17 @@ faq-question-missing-emails-answer-reason-blocked-2 = Ne ñanduti veve me’ẽh
 # Variables:
 #  $size (number): maximum size for attachments in MB
 faq-question-missing-emails-answer-reason-size = Pe ñanduti veve mondojeypyre oreko marandurenda ijehegua hetave { $size } MB-gui
+faq-question-missing-emails-answer-reason-not-accepted-2 = Ko tenda nomoneĩri ñanduti veve rovamo’ãha
 faq-question-missing-emails-answer-reason-turned-off-2 = Ikatu pe tovamo’ãha ñemondojeyha oñembogue
+faq-question-missing-emails-answer-reason-delay = Ikatu { -brand-name-relay } hi’areve jepiguágui omondojey hag̃ua ne ñe’ẽmondo
+#   $url (url) - link to the support site
+#   $attrs (string) - specific attributes added to external links
+faq-question-missing-emails-answer-support-site-html = Neapañuãiramo, ikatuhína <a href="{ $url }" { $attrs }>eike ore pytyvõha rendápe</a>.
 faq-question-use-cases-question-2 = Araka’épa reipurúta { -brand-name-relay } rovamo’ãha
 faq-question-2-question-2 = Mba’érepa tenda nomoneĩmo’ãi { -brand-name-relay } ñandutiveve rovamo’ãha
 faq-question-1-question = Mba’épa oiko spam-gui
 faq-question-availability-question = Moõpa reipurukuaa { -brand-name-relay }
+faq-question-4-question-2 = Ambohovaikuaápa ñe’ẽmondo aipurúvo { -brand-name-relay } ñanduti veve rovamo’ãha
 faq-question-subdomain-characters-question = Mba’e taípa aipurukuaa amoheñói hag̃ua tendatee’i
 faq-question-8-question = Mba’e mba’ekuaarãpa ombyaty { -brand-name-firefox-relay }
 faq-question-email-storage-question = ¿{ -brand-name-relay } ombyaty che ñanduti veve?
