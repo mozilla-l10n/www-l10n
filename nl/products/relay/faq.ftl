@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -42,7 +44,7 @@ faq-question-subdomain-characters-question = Welke tekens kan ik gebruiken om ee
 faq-question-subdomain-characters-answer-v2 = U kunt alleen kleine Nederlandse letters, cijfers en koppeltekens gebruiken om een subdomein te maken.
 faq-question-browser-support-question = Kan ik { -brand-name-relay } gebruiken in andere browsers of mijn mobiele apparaat?
 faq-question-browser-support-answer-2 = Ja, u kunt { -brand-name-relay }-e-mailmaskers aanmaken in andere browsers of mobiele apparaten door u simpelweg aan te melden op uw { -brand-name-relay }-dashboard.
-faq-question-longevity-question = Wat gebeurt er als Mozilla de { -brand-name-firefox-relay }-service beëindigt?
+faq-question-longevity-question = Wat gebeurt er als { -brand-name-mozilla } de { -brand-name-firefox-relay }-service beëindigt?
 faq-question-longevity-answer-2 = We laten u van tevoren weten dat u het e-mailadres van accounts die gebruikmaken van { -brand-name-relay }-e-mailmaskers moet wijzigen.
 faq-question-mozmail-question-2 = Waarom zijn mijn e-mailmaskers begonnen het domein ‘mozmail.com’ te gebruiken?
 faq-question-mozmail-answer-2 = We zijn overgestapt van ‘relay.firefox.com’ naar ‘mozmail.com’ om het mogelijk te maken een aangepast e-mailsubdomein te krijgen, zoals masker@uwdomein.mozmail.com. Aangepaste e-mailsubdomeinen, beschikbaar voor { -brand-name-relay-premium }-abonnees, maken uw e-mailmaskers ook veel gemakkelijker te onthouden dan willekeurige e-mailmaskers.
