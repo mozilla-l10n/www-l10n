@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
 waitlist-heading-2 = Únete a la lista de espera de { -brand-name-relay-premium }
@@ -19,7 +20,7 @@ waitlist-control-locale-label = Selecciona tu idioma preferido.
 waitlist-submit-label-2 = Únete a la lista de espera
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = Al hacer clic en “{ waitlist-submit-label-2 }”, aceptas nuestra <a>política de privacidad</a>.
+waitlist-privacy-policy-agree-2 = Al hacer clic en “{ waitlist-submit-label-2 }”, aceptas nuestra <a href="{ $url }">política de privacidad</a>.
 waitlist-privacy-policy-use = Tu información será utilizada solamente para avisarte de la disponibilidad de { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Tu información será utilizada solo para avisarte cuando el enmascaramiento de teléfonos esté disponible en tu área.
 waitlist-privacy-policy-use-bundle = Tu información será utilizada solo para avisarte de la disponibilidad del paquete { -brand-name-relay } + { -brand-name-vpn }
