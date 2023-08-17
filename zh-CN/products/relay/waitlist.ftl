@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
 waitlist-heading-2 = 欢迎加入 { -brand-name-relay-premium } 预约名单
@@ -19,7 +20,7 @@ waitlist-control-locale-label = 选择您的首选语言。
 waitlist-submit-label-2 = 加入预约名单
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = 点击“{ waitlist-submit-label-2 }”，即表示您同意我们的<a>隐私政策</a>。
+waitlist-privacy-policy-agree-2 = 点击“{ waitlist-submit-label-2 }”，即表示您同意我们的<a href="{ $url }">隐私政策</a>。
 waitlist-privacy-policy-use = 您的信息将仅用于向您通知 { -brand-name-firefox-relay-premium } 的可用性。
 waitlist-privacy-policy-use-phone = 您的信息将仅用于在您所在地区提供电话马甲功能时通知您。
 waitlist-privacy-policy-use-bundle = 您的信息将仅用于通知您有关 { -brand-name-relay } + { -brand-name-vpn } 捆绑包可用性的消息。
