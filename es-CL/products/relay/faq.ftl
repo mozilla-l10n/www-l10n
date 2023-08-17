@@ -26,7 +26,13 @@ faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } podría 
 faq-question-missing-emails-answer-support-site-html = Si presentas alguno de estos problemas, <a href="{ $url }" { $attrs }>visita nuestro sitio de asistencia</a>.
 faq-question-use-cases-question-2 = ¿Cuándo debiera usar máscaras de correo electrónico de { -brand-name-relay }?
 faq-question-use-cases-answer-part1-2 = Puedes usar máscaras de correo electrónico de { -brand-name-relay } en la mayoría de los lugares donde usarías tu dirección de correo electrónico habitual. Recomendamos usarlas cuando te registre para recibir correos electrónicos de marketing/informativos en los que desees controlar si quieres recibir o no correos electrónicos en el futuro.
+faq-question-2-question-2 = ¿Por qué un sitio no aceptaría mi máscara de correo electrónico de { -brand-name-relay }?
+# Variables:
+#   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-2-answer-v4 = Es posible que algunos sitios no acepten una dirección de correo electrónico que incluya un subdominio (@subdominio.mozmail.com) y otros han dejado de aceptar todas las direcciones excepto aquellas de cuentas de Gmail, Hotmail o Yahoo.
 faq-question-1-question = ¿Qué pasa con el correo no deseado?
+faq-question-1-answer-a-2 = Si bien { -brand-name-relay } no filtra el spam, nuestro socio de correo electrónico Amazon SES bloquea el spam y el malware. Si { -brand-name-relay } reenvía mensajes que no deseas, puedes actualizar tu configuración de { -brand-name-relay } para bloquear los mensajes de la máscara que los reenvía.
 
 ## Frequently Asked Questions about Phone plans
 
