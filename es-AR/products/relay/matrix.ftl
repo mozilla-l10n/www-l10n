@@ -31,15 +31,43 @@ plan-matrix-feature-browser-extension = Extensión de navegador para usar { -bra
 plan-matrix-feature-email-tracker-removal = Eliminar rastreadores de correo electrónico
 plan-matrix-feature-promo-email-blocking = Bloquear correos electrónicos promocionales
 plan-matrix-feature-email-reply = Responder correos electrónicos de forma anónima
+plan-matrix-feature-phone-mask = Enmascaramiento de teléfono para proteger tu número real
+plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
+plan-matrix-feature-mobile-email-masks = Máscaras de correo electrónico
+plan-matrix-feature-mobile-browser-extension = Extensión del navegador
+plan-matrix-feature-mobile-email-tracker-removal = Eliminar rastreadores de correo electrónico
+plan-matrix-feature-mobile-promo-email-blocking = Bloquear correos electrónicos promocionales
+plan-matrix-feature-mobile-email-reply = Responder correos electrónicos de forma anónima
+plan-matrix-feature-mobile-phone-mask = Protegé tu número de teléfono real
+plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 
+plan-matrix-heading-price = Precio
+plan-matrix-feature-count-unlimited = Ilimitado
+plan-matrix-feature-included = Incluido
+plan-matrix-feature-not-included = No incluido
+plan-matrix-price-free = Gratis
 
 ## Plan Price
 
+# Variables:
+#   $monthly_price (string) - the monthly cost (including currency symbol) for a given plan. Examples: $0.99, 0,99 €
+plan-matrix-price-monthly-calculated = { $monthly_price }/mes.
+plan-matrix-price-period-yearly = Anualmente
+plan-matrix-price-period-monthly = Mensualmente
+plan-matrix-price-period-yearly-footnote-1 = Facturado anualmente
+plan-matrix-price-period-monthly-footnote-1 = Facturado mensualmente
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>Ahorrá { $savings }%</span> en el precio de lista de la VPN
 
 ## Plan CTAs
 
+plan-matrix-upgrade = Actualizar
+plan-matrix-sign-up = Registrate
+plan-matrix-get-relay-cta = Conseguí { -brand-name-relay }
+plan-matrix-join-waitlist = Unite a la lista de espera
