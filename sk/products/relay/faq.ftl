@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -42,7 +44,7 @@ faq-question-subdomain-characters-question = Aké znaky môžem použiť na vytv
 faq-question-subdomain-characters-answer-v2 = Na vytvorenie subdomény môžete použiť iba malé anglické písmená, čísla a pomlčky.
 faq-question-browser-support-question = Môžem použiť { -brand-name-relay } v iných prehliadačoch alebo na svojom mobilnom zariadení?
 faq-question-browser-support-answer-2 = Áno, masky služby { -brand-name-relay } môžete vygenerovať v iných prehliadačoch alebo mobilných zariadeniach jednoduchým prihlásením sa do vašej Nástenky služby { -brand-name-relay }.
-faq-question-longevity-question = Čo sa stane, ak { -brand-name-firefox-relay } vypne službu { -brand-name-firefox-relay }?
+faq-question-longevity-question = Čo sa stane, ak { -brand-name-mozilla } vypne službu { -brand-name-firefox-relay }?
 faq-question-longevity-answer-2 = Vopred vás upozorníme, že musíte zmeniť e-mailovú adresu vo všetkých účtoch, ktoré používajú masky služby { -brand-name-relay }.
 faq-question-mozmail-question-2 = Prečo moje masky začali používať doménu “mozmail.com?”
 faq-question-mozmail-answer-2 = Prešli sme z “relay.firefox.com“ na “mozmail.com”, aby bolo možné získať vlastnú e-mailovú subdoménu, ako napríklad maska@vasadomena.mozmail.com. Vlastné e-mailové subdomény, dostupné pre predplatiteľov služby { -brand-name-relay-premium }, vám umožňujú vytvárať ľahšie zapamätateľné e-mailové masky.
