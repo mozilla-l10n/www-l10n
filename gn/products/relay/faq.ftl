@@ -11,6 +11,7 @@
 faq-headline = Porandu py’ỹiguáva
 faq-question-what-is-question-2 = ¿Mba’épa ñandutiveve rovamo’ãha { -brand-name-relay } rehegua?
 faq-question-missing-emails-question-2 = Namog̃uahẽi ñe’ẽmondo ñanduti veve rovamo’ãhágui
+faq-question-missing-emails-answer-a-2 = Ikatuhína nog̃uahẽi ndéve ñanduti veve oñemboujeýva ne rovamo’ãha rupive. Ko’ãva pa’ũme oĩkuaa:
 faq-question-missing-emails-answer-reason-spam = Ñe’ẽmondo og̃uahẽ spam ramo
 faq-question-missing-emails-answer-reason-blocked-2 = Ne ñanduti veve me’ẽhára ojoko ñandutiveve rovamo’ãha
 # Variables:
@@ -28,6 +29,8 @@ faq-question-1-question = Mba’épa oiko spam-gui
 faq-question-availability-question = Moõpa reipurukuaa { -brand-name-relay }
 faq-question-4-question-2 = Ambohovaikuaápa ñe’ẽmondo aipurúvo { -brand-name-relay } ñanduti veve rovamo’ãha
 faq-question-subdomain-characters-question = Mba’e taípa aipurukuaa amoheñói hag̃ua tendatee’i
+faq-question-subdomain-characters-answer-v2 = Eipurukuaa tai inglés michĩva rehegua añoite, papapy ha taiky emoheñói hag̃ua tendatee’i.
+faq-question-browser-support-question = Aipurukuaápa { -brand-name-relay } ambue kundahára térã che pumbyrýpe
 faq-question-8-question = Mba’e mba’ekuaarãpa ombyaty { -brand-name-firefox-relay }
 faq-question-email-storage-question = ¿{ -brand-name-relay } ombyaty che ñanduti veve?
 faq-question-acceptable-use-question = Mba’épa jeipuru { -brand-name-relay } omoneĩva
