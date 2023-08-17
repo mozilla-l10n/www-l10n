@@ -88,11 +88,13 @@ faq-question-trackerremoval-breakage-answer-2 = 有的時候，移除郵件追�
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = 手機轉接號碼是什麼？
+phone-masking-faq-answer-what-is = 與郵件轉寄信箱功能類似，手機轉接門號是一組能夠將傳送到此門號的簡訊與來電，轉接到您的實際手機門號的電話號碼，讓您不需要揭露實際門號給對方。
 phone-masking-faq-question-how-many = 我可以設定幾組手機轉接門號？
 phone-masking-faq-answer-how-many = 目前您只能獲得一組轉接門號，當您決定好門號號碼後，就無法再更改。
 phone-masking-faq-question-change-phone-mask = 我可以更改手機轉接門號嗎？
 phone-masking-faq-answer-change-phone-mask = 目前一旦選擇門號後就無法再更改。我們還在研究如何提拱此選項。
 phone-masking-faq-question-can-reply = 我可以回覆簡訊嗎？
+phone-masking-faq-answer-can-reply = 可以，您可以回覆上一封收到的簡訊。只要與一般回覆簡訊的方式相同即可。
 phone-masking-faq-question-forwarded-texts = 會轉寄哪些類型的簡訊？
 phone-masking-faq-answer-forwarded-texts = 只會轉寄一般純文字簡訊，不會轉寄含有影音圖片等內容的 MMS 多媒體簡訊。
 phone-masking-faq-question-pictures = 我可以用簡訊方式收發圖片嗎？
@@ -100,6 +102,8 @@ phone-masking-faq-answer-pictures = 不可以，僅能轉寄或回覆文字簡�
 phone-masking-faq-question-historical = 我可以回覆過去的簡訊嗎？
 phone-masking-faq-answer-historical = 您目前無法回覆先前收到過的簡訊，但此功能即將到來。
 phone-masking-faq-question-can-i-send = 我可以不回覆簡訊，單純傳送簡訊嗎？
+phone-masking-faq-answer-can-i-send = 不可以，您不可以單純傳送簡訊，而非回覆簡訊。您只能回覆轉寄給您的簡訊。
+phone-masking-faq-question-limit = 有限制我能收到多少簡訊嗎？
 phone-masking-faq-question-can-i-call = 我可以用轉接門號打給任何人嗎？
 phone-masking-faq-answer-can-i-call = 不可以，您只能接聽轉接的電話。
 phone-masking-faq-question-can-i-see = 我可以看到是誰傳送簡訊或播打電話給我嗎？
