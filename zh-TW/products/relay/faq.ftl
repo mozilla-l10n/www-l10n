@@ -119,6 +119,8 @@ phone-masking-faq-question-spam = 萬一我的手機轉接門號收到垃圾簡�
 phone-masking-faq-answer-spam = 若您收到垃圾簡訊，可以封鎖傳送給您的號碼。
 phone-masking-faq-question-disable-logging = 可以不要紀錄來電者或簡訊寄件者嗎？
 phone-masking-faq-answer-disable-logging = 可以。您可以在 { -brand-name-relay } 儀錶板關閉紀錄來電或簡訊寄件號碼，然而若不記錄號碼，就無法再封鎖特定電話號碼，因為我們必須使用此號碼來追蹤此簡訊是由誰所寄出。
+phone-masking-faq-question-how-i-save-card = 我要如何儲存 { -brand-name-relay } 聯絡人卡片嗎？
+phone-masking-faq-question-install-app = 我要安裝程式才可以使用 { -brand-name-relay } 的手機門號轉接功能嗎？
 #   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
 phone-masking-faq-answer-data = 請參考 <a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay } 隱私權保護政策</a>。
