@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
 waitlist-heading-2 = تانگھ تندیر { -brand-name-relay-premium } نال رلت کرو
@@ -19,7 +20,7 @@ waitlist-control-locale-label = آپݨی ترجیحی زبان چݨو۔
 waitlist-submit-label-2 = تانگھ تندیر نال رلت کرو
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = ”{ waitlist-submit-label-2 }“ تے کلک کرݨ نال، تساں ساݙی <a>رازداری پالیسی</a> نال متفق ہوسو۔
+waitlist-privacy-policy-agree-2 = ”{ waitlist-submit-label-2 }“ تے کلک کرݨ نال، تساں ساݙی <a href="{ $url }">رازداری پالیسی</a> نال متفق ہوسو۔
 waitlist-privacy-policy-use = تہاݙی معلومات صرف تہاکوں { -brand-name-firefox-relay-premium } دی دستیابی بارے اطلاع ݙیوݨ کیتے ورتیا ویسی۔
 waitlist-privacy-policy-use-phone = تہاݙی معلومات کوں صرف تہاکوں تہاݙے علاقے وچ  فون ماسکنگ دی دستیابی بارے اطلاع ݙیوݨ کیتے ورتیا ویسی۔
 waitlist-privacy-policy-use-bundle = تہاݙی معلومات کوں صرف تہاکوں { -brand-name-relay } + { -brand-name-vpn } ٻنڈل دی دستیابی بارے اطلاع ݙیوݨ کیتے ورتیا ویسی۔
