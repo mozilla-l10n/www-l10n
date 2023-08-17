@@ -35,3 +35,4 @@ phone-masking-faq-question-how-many = Mboy pumbyry rovamo’ãhápa areko
 phone-masking-faq-question-change-phone-mask = Amoambuekuaápa che pumbyry papapy rovamo’ãha
 phone-masking-faq-question-can-reply = Ambohovaikuaápa ñe’ẽmondo
 phone-masking-faq-question-forwarded-texts = Mba’eichagua moñe’ẽrãpa oñemondojeýta
+phone-masking-faq-question-pictures = Amondo térã og̃uahẽkuaápa ta’ãnga ñe’ẽmondo rupive
