@@ -9,15 +9,21 @@ meta-title = { -brand-name-firefox-relay }
 
 ## HERO SECTION
 
+# Context: This lists the various websites and magazines who have mentioned Firefox Relay.
+# Example: "As seen in: FORBES magainze and LifeHacker"
+hero-section-social-proof = Ojehechaháicha:
 
 ## HOW IT WORKS SECTION
 
+how-it-works-section-title = Mba’éichapa oku’e { -brand-name-relay } ñanduti veve rovamo’ãha ha pumbyry
 
 ## REVIEWS SECTION
 
 landing-reviews-title = Hechajey
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Moĩmbaha
+# Do not localize addons.mozilla.org
+landing-reviews-details-source = Teñoiha: addons.mozilla.org
 landing-review-anonymous-user = { -brand-name-firefox } oipuru { $user_id }
 
 ## FAQ SECTION

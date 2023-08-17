@@ -9,3 +9,6 @@
 ## HIGHLIGHTED FEATURES SECTION
 
 highlighted-features-section-bottom-cta = Eñepyrũ
+highlighted-features-section-masks-on-the-go-headline = Emoheñói pya’e tovamo’ãha
+highlighted-features-section-block-promotions-headline = Ejoko ñanduti veve jopoigua
+highlighted-features-section-remove-trackers-headline = Embogue ñanduti veve rapykuehoha
