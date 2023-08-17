@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -42,7 +44,7 @@ faq-question-subdomain-characters-question = 我可以使用哪些字符创建�
 faq-question-subdomain-characters-answer-v2 = 您只能使用小写英文字母、数字、连字符（-）来创建子域名。
 faq-question-browser-support-question = 我可以在其他浏览器或移动设备上使用 { -brand-name-relay } 吗？
 faq-question-browser-support-answer-2 = 可以，登录 { -brand-name-relay } 面板即可在其他浏览器或移动设备上生成 { -brand-name-relay } 马甲。
-faq-question-longevity-question = Mozilla 关闭 { -brand-name-firefox-relay } 服务的话怎么办？
+faq-question-longevity-question = { -brand-name-mozilla } 关闭 { -brand-name-firefox-relay } 服务的话怎么办？
 faq-question-longevity-answer-2 = 我们会提前通知您，您需要到所有使用 { -brand-name-relay } 马甲邮箱的网站完成换绑。
 faq-question-mozmail-question-2 = 为何我的马甲域名变成“mozmail.com”了？
 faq-question-mozmail-answer-2 = 之所以从“relay.firefox.com”切换到“mozmail.com”，是为了自定义邮箱子域名这一特性，如 mask@yourdomain.mozmail.com。{ -brand-name-relay-premium } 订阅者可使用自定义子域名生成更好记的马甲。
