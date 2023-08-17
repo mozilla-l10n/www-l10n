@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -18,22 +19,25 @@ hero-section-social-proof = 出現於
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = { -brand-name-relay } 轉寄信箱與虛擬電話號碼的原理是什麼
-
 how-it-works-section-extension-headline = 隨時隨地都能使用 { -brand-name-relay } 轉寄信箱與虛擬轉接門號
 how-it-works-section-extension-body = 獲得安全、隨機的轉寄信箱與獨特的手機虛擬轉接門號，讓您隨時隨地能提供給任何網站、應用程式、商店或餐廳。
-
 how-it-works-section-forward-headline = 我們會將收到的電子郵件、來電、簡訊轉寄給您
 how-it-works-section-forward-body = 請放心，寄件者永遠不會知道您的實際電子郵件地址或電話號碼。您甚至還可以不用透露實際身分，就能回覆簡訊與郵件。
-
 how-it-works-section-manage-headline = 在 { -brand-name-relay } 儀錶板管理您的轉寄信箱
 how-it-works-section-manage-body = 登入您的 { -brand-name-relay } 儀表板即可建立新的轉寄信箱、為現有的轉寄信箱加上標籤、如果轉寄信箱收到太多垃圾電話、簡訊或郵件，也可以直接封鎖。
 
 ## REVIEWS SECTION
 
+landing-reviews-title = 評論
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = 附加元件
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = 來源：addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 = 星，滿分 5 星（共 { $review_count } 筆評論）
 landing-reviews-show-next-button = 顯示下一筆評論
 landing-reviews-show-previous-button = 顯示下一筆評論
 landing-review-anonymous-user = { -brand-name-firefox } 使用者 { $user_id }
