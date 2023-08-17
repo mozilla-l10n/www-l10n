@@ -23,7 +23,7 @@ waitlist-control-locale-label = 選擇想使用的語言。
 waitlist-submit-label-2 = 加入候補名單
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = 點擊「{ waitlist-submit-label-2 }」，代表您同意我們的<a>隱私權保護政策</a>。
+waitlist-privacy-policy-agree-2 = 點擊「{ waitlist-submit-label-2 }」，代表您同意我們的<a href="{ $url }">隱私權保護政策</a>。
 waitlist-privacy-policy-use = 您提供的資訊，只會用來向您通知 { -brand-name-firefox-relay-premium } 產品推出資訊。
 waitlist-privacy-policy-use-phone = 您提供的資訊，將只會在虛擬手機號碼轉接功能於您所在地區推出時用來通知您。
 waitlist-privacy-policy-use-bundle = 您提供的資訊，將只會在 { -brand-name-relay } + { -brand-name-vpn } 套裝於您所在地區推出時用來通知您。
