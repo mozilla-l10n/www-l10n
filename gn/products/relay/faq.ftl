@@ -13,6 +13,9 @@ faq-question-what-is-question-2 = ¿Mba’épa ñandutiveve rovamo’ãha { -bra
 faq-question-missing-emails-question-2 = Namog̃uahẽi ñe’ẽmondo ñanduti veve rovamo’ãhágui
 faq-question-missing-emails-answer-reason-spam = Ñe’ẽmondo og̃uahẽ spam ramo
 faq-question-missing-emails-answer-reason-blocked-2 = Ne ñanduti veve me’ẽhára ojoko ñandutiveve rovamo’ãha
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = Pe ñanduti veve mondojeypyre oreko marandurenda ijehegua hetave { $size } MB-gui
 faq-question-missing-emails-answer-reason-turned-off-2 = Ikatu pe tovamo’ãha ñemondojeyha oñembogue
 faq-question-use-cases-question-2 = Araka’épa reipurúta { -brand-name-relay } rovamo’ãha
 faq-question-2-question-2 = Mba’érepa tenda nomoneĩmo’ãi { -brand-name-relay } ñandutiveve rovamo’ãha

@@ -14,6 +14,9 @@ bundle-banner-plan-modules-phone-masking = Pumbyry rovamo’ãha
 bundle-banner-plan-modules-mozilla-vpn = { -brand-name-mozilla-vpn }
 bundle-banner-cta = Ereko { -brand-name-mozilla-vpn } + { -brand-name-relay }
 # Variables:
+#   $days_guarantee (string) - the number of days for money-back guarantee. Examples: 30, 90
+bundle-banner-money-back-guarantee-2 = { $days_guarantee } ára ombojevytaha ñehepyme’ẽ oñemboheraguapy pyahúvape
+# Variables:
 #   $num_vpn_servers (string) - the number of VPN servers. Examples: 400, 500, 600
 bundle-feature-more-than-servers =
     { $num_vpn_servers ->

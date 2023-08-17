@@ -15,6 +15,8 @@ features-translate-the-google-translate = Jepysokue To { -brand-name-google } Tr
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Ñanduti henyhẽ mba’eita porãgui, hákatu hetaiterei mba’e oĩ’ỹva España ñe’ẽme — upévare hetaiterei yvypóra arapy tuichakue oikotevẽ ñe’ẽasahára oipuru hag̃ua ñanduti. Ikatu <a { $attrs }>omboguejy { -brand-name-firefox } hetave 100 ñe’ẽme</a>, eguereko hag̃uáicha poravorã, marandu’i ha ñe’ẽmondo ne kundahára oĩ hag̃ua ne ñe’ẽme, hákatu péva ndoipe’apái apañuãi opaite tetepy eguerovia’ỹva ehekáva ne kundahára ndive.
 features-translate-firefox-translations = { -brand-name-firefox-translations }
+# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-the-firefox-translations-extension-provides = Pe jepysokue <a { $attrs }>{ -brand-name-firefox-translations }</a> omoñe’ẽasakuaa ijehegui ñanduti kuatiarogue eikehague retepy. Oike’ỹhápe umi araípe hupipyre, ko jepysokue omoñe’ẽasa moñe’ẽrã { -brand-name-firefox } rupive, upévare pe tetepy omoñe’ẽasáva nosẽi ne mohendahágui.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Erekóke { -brand-name-firefox-translations }
 features-translate-to-google-translate = Emoñe’ẽasa hag̃ua { -brand-name-google }
