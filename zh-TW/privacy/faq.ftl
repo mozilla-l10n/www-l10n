@@ -21,7 +21,7 @@ privacy-faq-the-following-questions-and = 下面的常見問題可協助您了�
 privacy-faq-i-use-firefox-for-almost-everything = 我的主力瀏覽器是 { -brand-name-firefox }，幾乎用它上網做任何事。你們這群 { -brand-name-mozilla } 的人一定都知道我在做什麼了，對吧？
 privacy-faq-firefox-the-web-browser-that = 您的手機或電腦上的 { -brand-name-firefox } 網頁瀏覽器，是您上網的入口。您的瀏覽器會管理您造訪過網站的許多資訊，但該資訊會保留在您的裝置上。至於打造 { -brand-name-firefox } 的公司 － { -brand-name-mozilla }，並不會主動收集您的資料（除非您要求我們這樣做）。
 privacy-faq-really-you-dont-collect-my-browsing = 你們不會收集我的上網紀錄嗎？真的？
-privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } 並沒有如您預期的那麼了解人們如何上網。作為瀏覽器製造商這對我們來說是很大的挑戰。這也是為什麼我們要打造選擇性加入工具讓有興趣的使用者能夠讓我們了解他們的上網行為。若您在不同的 { -brand-name-firefox } 間同步上網紀錄我們就不會知道您的哪些瀏覽紀錄 — 因為這些紀錄是在您的裝置中加密過的。
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } 並沒有如您所預期的那麼了解人們如何上網。作為瀏覽器的開發商，這是一個很大的挑戰。這就是為什麼我們要開發主動加入的工具，讓有興趣的使用者主動提供他們如何上網的相關資訊給我們。若您在多台電腦的 { -brand-name-firefox } 之間同步瀏覽紀錄，由於資料是先在您的電腦上加密過才進行同步，我們還是不會知道您曾經上過哪些網站。
 # Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/

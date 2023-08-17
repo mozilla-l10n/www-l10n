@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
+waitlist-premium-name = { -brand-name-relay-premium }
 waitlist-heading-2 = 加入 { -brand-name-relay-premium } 候補名單
 waitlist-heading-phone = 加入 { -brand-name-relay } 虛擬手機號碼轉接功能候補名單
 waitlist-heading-bundle = 加入 { -brand-name-relay } + { -brand-name-vpn } 套裝候補名單

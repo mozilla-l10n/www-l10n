@@ -321,4 +321,4 @@ newsletters-security-and-privacy-news = 安全性與隱私權新聞
 newsletters-stay-informed-of-the-latest = 了解 { -brand-name-firefox } 的開發者 { -brand-name-mozilla } 所提供，有關隱私權與安全性產品的最新趨勢。
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = 訂閱 { -brand-name-mozilla } 的安全性與隱私權新聞，以及產品更新資訊，來確保安全並了解能讓網路環境變得更健康的所有事項。
-newsletters-opt-out-delay = 我們需要 1-2 個工作天來處理您的退訂要求在期間您可能還是會收到其他郵件。
+newsletters-opt-out-delay = 我們需要 1-2 個工作天來處理您的退訂要求，在此期間您可能還是會收到其他郵件。
