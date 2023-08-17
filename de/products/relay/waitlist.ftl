@@ -19,7 +19,7 @@ waitlist-control-locale-label = Wählen Sie Ihre bevorzugte Sprache aus.
 waitlist-submit-label-2 = Auf Warteliste setzen
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = Indem Sie auf „{ waitlist-submit-label-2 }“ klicken, stimmen Sie unserer <a>Datenschutzerklärung</a> zu.
+waitlist-privacy-policy-agree-2 = Indem Sie auf „{ waitlist-submit-label-2 }“ klicken, stimmen Sie unserer <a href="{ $url }">Datenschutzerklärung</a> zu.
 waitlist-privacy-policy-use = Ihre Daten werden nur verwendet, um Sie über die Verfügbarkeit von { -brand-name-firefox-relay-premium } zu informieren.
 waitlist-privacy-policy-use-phone = Ihre Daten werden nur verwendet, um Sie zu benachrichtigen, wenn Telefonnummer-Masken in Ihrem Land verfügbar sind.
 waitlist-privacy-policy-use-bundle = Ihre Daten werden nur verwendet, um Sie über die Verfügbarkeit des Pakets { -brand-name-relay } + { -brand-name-vpn } zu informieren.

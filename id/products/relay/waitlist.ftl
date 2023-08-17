@@ -19,7 +19,7 @@ waitlist-control-locale-label = Pilih bahasa yang Anda inginkan.
 waitlist-submit-label-2 = Bergabunglah dalam daftar tunggu
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = Dengan mengeklik “{ waitlist-submit-label-2 }”, Anda menyetujui <a>Kebijakan Privasi</a> kami.
+waitlist-privacy-policy-agree-2 = Dengan mengeklik “{ waitlist-submit-label-2 }”, Anda menyetujui <a href="{ $url }">Kebijakan Privasi</a> kami.
 waitlist-privacy-policy-use = Informasi Anda hanya akan digunakan untuk memberitahukan tentang ketersediaan { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Informasi Anda hanya akan digunakan untuk memberi tahu saat penyamaran telepon tersedia di wilayah Anda.
 waitlist-privacy-policy-use-bundle = Informasi Anda hanya akan digunakan untuk memberi tahu tentang ketersediaan bundel { -brand-name-relay } + { -brand-name-vpn }.
