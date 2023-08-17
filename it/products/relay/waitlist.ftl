@@ -10,7 +10,7 @@ waitlist-bundle-name = Pacchetto { -brand-name-relay } + { -brand-name-vpn }
 waitlist-phone-name = Alias per numeri di telefono { -brand-name-relay }
 waitlist-heading-2 = Iscriviti alla lista d’attesa per { -brand-name-relay-premium }
 waitlist-heading-phone = Iscriviti alla lista d’attesa di { -brand-name-relay } per la funzione di alias per numeri di telefono
-waitlist-heading-bundle = Iscriviti alla lista d’attesa per il bundle { -brand-name-relay } + { -brand-name-vpn }
+waitlist-heading-bundle = Iscriviti alla lista d’attesa per il pacchetto { -brand-name-relay } + { -brand-name-vpn }
 waitlist-lead-2 = Ti avviseremo quando { -brand-name-relay-premium } sarà disponibile nella tua zona.
 waitlist-lead-phone = Ti avviseremo quando gli alias per numeri di telefono saranno disponibili nella tua zona.
 waitlist-lead-bundle = Ti faremo sapere quando potrai acquistare { -brand-name-relay-premium } e { -brand-name-mozilla-vpn } insieme a un prezzo scontato nella tua zona.
@@ -26,7 +26,7 @@ waitlist-submit-label-2 = Iscriviti alla lista d’attesa
 waitlist-privacy-policy-agree-2 = Facendo clic su “{ waitlist-submit-label-2 }”, accetti la nostra <a>Informativa sulla privacy</a>.
 waitlist-privacy-policy-use = Le tue informazioni saranno utilizzate solo per avvisarti della disponibilità di { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Le tue informazioni saranno utilizzate solo per avvisarti della disponibilità degli alias per numeri di telefono nella tua zona.
-waitlist-privacy-policy-use-bundle = Le tue informazioni saranno utilizzate solo per avvisarti della disponibilità del bundle { -brand-name-relay } + { -brand-name-vpn }.
+waitlist-privacy-policy-use-bundle = Le tue informazioni saranno utilizzate solo per avvisarti della disponibilità del pacchetto { -brand-name-relay } + { -brand-name-vpn }.
 waitlist-subscribe-success-title = Grazie! Sei sulla lista!
 # Variables:
 #   $product (string) one of the following three options:
