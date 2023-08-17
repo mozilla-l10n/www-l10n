@@ -60,10 +60,10 @@ vpn-download-faq-add-device = 我要如何加入另一台裝置？
 vpn-download-faq-adding-another-v2 = 新增裝置很簡單，只要下載安裝 { -brand-name-mozilla-vpn } 軟體，然後登入現有的 { -brand-name-firefox-account }。若需更多資訊，請參考<a href="{ $subscription }">如何將裝置加入您的 { -brand-name-mozilla-vpn } 訂閱</a>。
 vpn-download-faq-best-practices = 有哪些 VPN 的最佳做法？
 vpn-download-faq-traffic = 若您的目標是要保護網路流量，同時又能保持較快的上網速度，那麼最好的方式就是選擇與您實際所在地點越近越好的伺服器。如此可以讓流量減少經過的節點就抵達目的地，以增加連線的穩定度與速度。
-vpn-download-faq-experience = 若您的目標是讓網際網路能有彷彿身處世界其他地方的體驗您可以選擇該伺服器的位置這樣所有您造訪的網站就會顯示得彷彿您真的在世界各地。
-vpn-download-faq-protect = 若您想更加保護自己可以到設定 > 隱私功能開啟廣告、廣告追踪器與惡意軟體騷擾的保護功能。請注意這可能會造成某些網站無法正常運作或無法載入。所以您在遇到此問題時可能需要暫時停用這些保護機制。
-vpn-download-faq-lastly = 最後在支援的裝置上您可以讓 VPN 變得更聰明從 VPN 排除某些應用程式例如 奈飛。
+vpn-download-faq-experience = 若您的目標是要有能在世界其他地點的上網體驗，可以在此選擇不同伺服器位置，這樣當您開啟網站時，就會如同以身處該處的方式顯示網站內容。
+vpn-download-faq-protect = 若您想更加保護自己，可以到設定 > 隱私功能開啟對廣告、廣告追踪器與惡意軟體的保護。請注意：開啟此功能可能會造成某些網站無法正常運作或無法載入。若您遇到問題，可能會想要暫時停用這些保護機制。
+vpn-download-faq-lastly = 最後，在支援的裝置上，您可以排除某些應用程式（例如 Netflix），不讓它們經過 VPN，使 VPN 變得更聰明。
 vpn-download-faq-need-more = 需要更多說明嗎？
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
-vpn-download-faq-support = 您可以在 { -brand-name-mozilla-vpn } 應用程式點擊設定 > 取得說明 > 聯絡支援團隊直接聯絡我們的技術支援團隊。您也可以<a href="{ $support }">在技術支援頁面</a>聯絡我們。
+vpn-download-faq-support = 您可以在 { -brand-name-mozilla-vpn } 應用程式當中點擊設定 > 取得協助 > 聯絡支援團隊，直接聯絡我們的技術支援團隊。也可以在<a href="{ $support }">技術支援頁面</a>聯絡我們。
