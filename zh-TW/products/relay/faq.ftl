@@ -88,3 +88,12 @@ faq-question-trackerremoval-breakage-answer-2 = 有的時候，移除郵件追�
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = 手機轉接號碼是什麼？
+phone-masking-faq-question-how-many = 我可以設定幾組手機轉接門號？
+phone-masking-faq-answer-how-many = 目前您只能獲得一組轉接門號，當您決定好門號號碼後，就無法再更改。
+phone-masking-faq-question-change-phone-mask = 我可以更改手機轉接門號嗎？
+phone-masking-faq-answer-change-phone-mask = 目前一旦選擇門號後就無法再更改。我們還在研究如何提拱此選項。
+phone-masking-faq-question-can-reply = 我可以回覆簡訊嗎？
+phone-masking-faq-question-forwarded-texts = 會轉寄哪些類型的簡訊？
+phone-masking-faq-answer-forwarded-texts = 只會轉寄一般純文字簡訊，不會轉寄含有影音圖片等內容的 MMS 多媒體簡訊。
+phone-masking-faq-question-can-i-call = 我可以用轉接門號打給任何人嗎？
+phone-masking-faq-answer-can-i-call = 不可以，您只能接聽轉接的電話。
