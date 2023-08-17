@@ -17,4 +17,11 @@ bundle-feature-more-than-servers =
         [one] Hetave { $num_vpn_servers } mba’e’oka
        *[other] Hetave { $num_vpn_servers } mba’e’okakuéra
     }
+# Variables:
+#   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
+bundle-feature-more-than-countries =
+    { $num_vpn_countries ->
+        [one] Hetave { $num_vpn_countries } tetã
+       *[other] Hetave { $num_vpn_countries } tetãnguéra
+    }
 bundle-feature-three = Ñanduti ipya’e ha hekorosãva
