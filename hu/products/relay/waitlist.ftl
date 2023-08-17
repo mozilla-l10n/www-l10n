@@ -23,7 +23,7 @@ waitlist-control-locale-label = Válassza ki az előnyben részesített nyelvét
 waitlist-submit-label-2 = Csatlakozás a várólistához
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = A „{ waitlist-submit-label-2 }” gombra kattintással elfogadja az <a>Adatvédelmi irányelveinket</a>.
+waitlist-privacy-policy-agree-2 = A „{ waitlist-submit-label-2 }” gombra kattintással elfogadja az <a href="{ $url }">Adatvédelmi irányelveinket</a>.
 waitlist-privacy-policy-use = Adatait csak arra használjuk, hogy értesítsük a { -brand-name-firefox-relay-premium } elérhetőségéről.
 waitlist-privacy-policy-use-phone = Adatait csak arra használjuk, hogy értesítsük a telefonmaszkolás elérhetőségéről az Ön területén.
 waitlist-privacy-policy-use-bundle = Adatait csak arra használjuk, hogy értesítsük a { -brand-name-relay } + { -brand-name-vpn } csomag elérhetőségéről.
