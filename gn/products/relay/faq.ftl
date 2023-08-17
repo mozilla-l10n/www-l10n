@@ -18,10 +18,14 @@ faq-question-use-cases-question-2 = Araka’épa reipurúta { -brand-name-relay 
 faq-question-2-question-2 = Mba’érepa tenda nomoneĩmo’ãi { -brand-name-relay } ñandutiveve rovamo’ãha
 faq-question-1-question = Mba’épa oiko spam-gui
 faq-question-availability-question = Moõpa reipurukuaa { -brand-name-relay }
+faq-question-subdomain-characters-question = Mba’e taípa aipurukuaa amoheñói hag̃ua tendatee’i
 faq-question-8-question = Mba’e mba’ekuaarãpa ombyaty { -brand-name-firefox-relay }
 faq-question-email-storage-question = ¿{ -brand-name-relay } ombyaty che ñanduti veve?
 faq-question-acceptable-use-question = Mba’épa jeipuru { -brand-name-relay } omoneĩva
+faq-question-acceptable-use-answer-measure-account = Reikotevẽ { -brand-name-firefox-account } ñanduti veve kundaharape ojehechajeýva reheve
+faq-question-promotional-email-blocking-question = Mba’épa ñanduti veve jejoko jopoiguáva
 faq-question-disable-trackerremoval-question = Ajokokuaápa ñandutu veve rapykuehoha mbogueha
+faq-question-trackerremoval-breakage-question = Mba’érepa che ñanduti veve ndojekuaaporãi
 
 ## Frequently Asked Questions about Phone plans
 
