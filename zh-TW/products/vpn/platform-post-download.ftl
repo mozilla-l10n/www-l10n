@@ -29,13 +29,13 @@ vpn-download-not-in-country = 抱歉，{ -brand-name-mozilla-vpn } 尚未在您�
 # Variables:
 #   $url (url) - link for either Windows or Mac download, depending on user platform
 #   $id (string) - unique ID for the anchor tag
-vpn-your-download-should-start = 應該會自動開始下載 { -brand-name-mozilla-vpn }。若還是不行<br><a href="{ $url }" id="{ $id }">重新開始下載</a>或者還是回到其他裝置下載。
+vpn-your-download-should-start = 應該會自動開始下載 { -brand-name-mozilla-vpn }。若還是不行，<br><a href="{ $url }" id="{ $id }">可重新開始下載</a>或者回到上一步，下載其他裝置版本。
 vpn-open-the-file = 1. 開啟檔案
 vpn-launch-the-app = 2. 執行程式
 vpn-login-or-signup = 3. 登入或註冊
 vpn-enter-your-email = 請輸入您的電子郵件地址來登入或註冊，即可開始使用
 vpn-turn-on-vpn = 4. 開啟 VPN
-vpn-pick-a-recommended = 請選擇一個推薦的位置以獲得快速、穩定的連線或手動選擇想要的位置然後開啟
+vpn-pick-a-recommended = 請挑選推薦的位置以獲得快速、穩定的連線，也可以手動選擇想要的位置，然後開啟連線
 
 ## FAQ Strings
 
@@ -57,12 +57,8 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } 會在工具列
 vpn-download-faq-add-device = 我要如何加入另一台裝置？
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = 新增裝置很簡單只要下載安裝 { -brand-name-mozilla-vpn } 軟體然後在新裝置上登入現有的 { -brand-name-firefox-account }。若需更多資訊請參考<a href="{ $subscription }">如何將裝置加入您的 { -brand-name-mozilla-vpn } 訂閱</a>。
-# Outdated string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = 新增裝置很簡單只要下載安裝 { -brand-name-mozilla-vpn } 軟體然後在新裝置上登入現有的 { -brand-name-firefox } 帳號。若需更多資訊請參考<a href="{ $subscription }">如何將裝置加入您的 { -brand-name-mozilla-vpn } 訂閱</a>。
-vpn-download-faq-best-practices = VPN 有哪些最佳做法
+vpn-download-faq-adding-another-v2 = 新增裝置很簡單，只要下載安裝 { -brand-name-mozilla-vpn } 軟體，然後登入現有的 { -brand-name-firefox-account }。若需更多資訊，請參考<a href="{ $subscription }">如何將裝置加入您的 { -brand-name-mozilla-vpn } 訂閱</a>。
+vpn-download-faq-best-practices = 有哪些 VPN 的最佳做法？
 vpn-download-faq-traffic = 若您的目標是要保護您的網路流量同時又能保持較快的上網速度那麼最好的伺服器位置離您的實際所在地點越近越好。這將增加連線的可靠度與速度因為您的網際網路流量不需經過多少折返點就能到達預期的目的地。
 vpn-download-faq-experience = 若您的目標是讓網際網路能有彷彿身處世界其他地方的體驗您可以選擇該伺服器的位置這樣所有您造訪的網站就會顯示得彷彿您真的在世界各地。
 vpn-download-faq-protect = 若您想更加保護自己可以到設定 > 隱私功能開啟廣告、廣告追踪器與惡意軟體騷擾的保護功能。請注意這可能會造成某些網站無法正常運作或無法載入。所以您在遇到此問題時可能需要暫時停用這些保護機制。
