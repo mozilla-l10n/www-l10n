@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
 waitlist-heading-2 = Εγγραφείτε στη λίστα αναμονής για το { -brand-name-relay-premium }
@@ -19,7 +20,7 @@ waitlist-control-locale-label = Επιλέξτε την προτιμώμενη �
 waitlist-submit-label-2 = Εγγραφή στη λίστα αναμονής
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = Κάνοντας κλικ στο «{ waitlist-submit-label-2 }», συμφωνείτε με την <a>Πολιτική απορρήτου</a> μας.
+waitlist-privacy-policy-agree-2 = Κάνοντας κλικ στο «{ waitlist-submit-label-2 }», συμφωνείτε με την <a href="{ $url }">Πολιτική απορρήτου</a> μας.
 waitlist-privacy-policy-use = Τα στοιχεία σας θα χρησιμοποιηθούν αποκλειστικά για την ενημέρωσή σας σχετικά με τη διαθεσιμότητα του { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Τα στοιχεία σας θα χρησιμοποιηθούν αποκλειστικά για να ειδοποιηθείτε όταν η απόκρυψη τηλεφώνουν είναι διαθέσιμη στην περιοχή σας.
 waitlist-privacy-policy-use-bundle = Τα στοιχεία σας θα χρησιμοποιηθούν αποκλειστικά για την ενημέρωσή σας σχετικά με τη διαθεσιμότητα του πακέτου { -brand-name-relay } + { -brand-name-vpn }.
