@@ -23,7 +23,7 @@ waitlist-control-locale-label = Dewiswch eich iaith.
 waitlist-submit-label-2 = Ymunwch â'r rhestr aros
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = Drwy glicio “{ waitlist-submit-label-2 }”, rydych yn cytuno i'n <a>Polisi Preifatrwydd</a>.
+waitlist-privacy-policy-agree-2 = Drwy glicio “{ waitlist-submit-label-2 }”, rydych yn cytuno i'n <a href="{ $url }">Polisi Preifatrwydd</a>.
 waitlist-privacy-policy-use = Dim ond i'ch hysbysu am argaeledd { -brand-name-firefox-relay-premium } y bydd eich manylion yn cael eu defnyddio.
 waitlist-privacy-policy-use-phone = Dim ond i roi gwybod i chi pan fydd cuddio ffôn ar gael yn eich ardal y caiff eich manylion ei ddefnyddio.
 waitlist-privacy-policy-use-bundle = Dim ond i roi gwybod i chi am argaeledd pecyn { -brand-name-relay } + { -brand-name-vpn } y bydd eich manylion yn cael ei ddefnyddio.
