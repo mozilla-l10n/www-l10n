@@ -19,4 +19,18 @@ bundle-banner-cta = Conseguí { -brand-name-mozilla-vpn } + { -brand-name-relay 
 # Variables:
 #   $days_guarantee (string) - the number of days for money-back guarantee. Examples: 30, 90
 bundle-banner-money-back-guarantee-2 = { $days_guarantee } días de garantía de reembolso para nuevos suscriptores
+# Variables:
+#   $num_vpn_servers (string) - the number of VPN servers. Examples: 400, 500, 600
+bundle-feature-more-than-servers =
+    { $num_vpn_servers ->
+        [one] Más de { $num_vpn_servers }
+       *[other] Más de { $num_vpn_servers }
+    }
+# Variables:
+#   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
+bundle-feature-more-than-countries =
+    { $num_vpn_countries ->
+        [one] Más de { $num_vpn_countries } países
+       *[other] Más de { $num_vpn_countries } países
+    }
 bundle-feature-three = Red rápida y segura
