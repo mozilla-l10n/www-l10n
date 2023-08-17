@@ -77,7 +77,7 @@ faq-question-disable-trackerremoval-answer = 可以。如果您發現收到的�
 faq-question-bulk-trackerremoval-question = 我可以只刪除部分轉寄信箱收到的追蹤器嗎？
 faq-question-bulk-trackerremoval-answer = 您只能於帳號層級開關「移除追蹤器」功能，必須將所有收到的郵件當中的追蹤器都移除，或是都保留。
 faq-question-trackerremoval-breakage-question = 為什麼我收到的郵件內容看來怪怪的？
-faq-question-trackerremoval-breakage-answer-2 = 有的時候，移除郵件追蹤器可能會造成您的郵件內容看起來不正常，因為通常追蹤器是埋藏於圖片或鏈結中，當圖片被移除後就會讓郵件內容跑版，或者險是不正常。若您已經收到郵件，這個情況就無法再修正，若這個行為造成您無法正確閱讀郵件，可關閉追蹤器移除功能。
+faq-question-trackerremoval-breakage-answer-2 = 有的時候，移除郵件追蹤器可能會造成您的郵件內容看起來不正常，因為通常追蹤器是埋藏於圖片或鏈結中，當圖片被移除後就會讓郵件內容跑版，或者顯示不正常。若您已經收到郵件，這個情況就無法再修正，若這個行為造成您無法正確閱讀郵件，可關閉追蹤器移除功能。
 
 ## Frequently Asked Questions about Phone plans
 
