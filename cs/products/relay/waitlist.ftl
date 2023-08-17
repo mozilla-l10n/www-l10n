@@ -23,7 +23,7 @@ waitlist-control-locale-label = Vyberte svůj preferovaný jazyk.
 waitlist-submit-label-2 = Přidat se na čekací listinu
 # Variables:
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = Klepnutím na tlačítko „{ waitlist-submit-label-2 }“ souhlasíte s našimi <a>zásadami ochrany osobních údajů</a>.
+waitlist-privacy-policy-agree-2 = Klepnutím na tlačítko „{ waitlist-submit-label-2 }“ souhlasíte s našimi <a href="{ $url }">zásadami ochrany osobních údajů</a>.
 waitlist-privacy-policy-use = Vaše údaje budou použity pouze na informování o dostupnosti služby { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Vaše údaje budou použity pouze na informování o dostupnosti maskování telefonu ve vaší oblasti.
 waitlist-privacy-policy-use-bundle = Vaše údaje budou použity pouze na informování o dostupnosti balíku služeb { -brand-name-relay } + { -brand-name-vpn }

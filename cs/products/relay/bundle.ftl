@@ -31,7 +31,7 @@ bundle-feature-more-than-servers =
 # Variables:
 #   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
 bundle-feature-more-than-countries =
-    { $num_vpn_countries ->
+    { $num_vpn_servers ->
         [one] Více než { $num_vpn_servers } země
         [few] Více než { $num_vpn_servers } země
         [many] Více než { $num_vpn_servers } zemí
