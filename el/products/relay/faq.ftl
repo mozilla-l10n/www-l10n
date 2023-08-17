@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -42,7 +44,7 @@ faq-question-subdomain-characters-question = Τι χαρακτήρες μπορ�
 faq-question-subdomain-characters-answer-v2 = Μπορείτε να χρησιμοποιήσετε μόνο πεζά αγγλικά γράμματα, αριθμούς και παύλες για τον υποτομέα.
 faq-question-browser-support-question = Μπορώ να χρησιμοποιώ το { -brand-name-relay } σε άλλους φυλλομετρητές ή σε κινητές συσκευές;
 faq-question-browser-support-answer-2 = Ναι, μπορείτε να δημιουργήσετε μάσκες { -brand-name-relay } σε άλλα προγράμματα περιήγησης ή κινητές συσκευές κάνοντας απλά σύνδεση στον πίνακα ελέγχου σας στο { -brand-name-relay }.
-faq-question-longevity-question = Τι θα γίνει εάν η Mozilla τερματίσει την υπηρεσία { -brand-name-firefox-relay };
+faq-question-longevity-question = Τι θα γίνει εάν η { -brand-name-mozilla } τερματίσει την υπηρεσία { -brand-name-firefox-relay };
 faq-question-longevity-answer-2 = Θα σας ενημερώσουμε εκ των προτέρων ότι πρέπει να αλλάξετε τη διεύθυνση email όλων των λογαριασμών που χρησιμοποιούν μάσκες email του { -brand-name-relay }.
 faq-question-mozmail-question-2 = Γιατί οι μάσκες email μου άρχισαν να χρησιμοποιούν τον τομέα «mozmail.com»;
 faq-question-mozmail-answer-2 = Αλλάξαμε το «relay.firefox.com» σε «mozmail.com» για να καταστήσουμε δυνατή την απόκτηση προσαρμοσμένων υποτομέων email, όπως το maska@otomeassas.mozmail.com. Οι προσαρμοσμένοι υποτομείς email, που διατίθενται στους συνδρομητές του { -brand-name-relay-premium }, επιτρέπουν την πιο εύκολη την απομνημόνευση των μασκών email σας σε σχέση με τις τυχαίες μάσκες.
