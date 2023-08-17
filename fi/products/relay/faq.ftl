@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/faq/
+
 
 ## FAQ Page
 
@@ -35,7 +37,7 @@ faq-question-subdomain-characters-question = Mitä merkkejä voin käyttää ali
 faq-question-subdomain-characters-answer-v2 = Voit käyttää aliverkkotunnuksen luomiseen vain pieniä englanninkielessä esiintyviä kirjaimia (a-z), numeroita ja tavuviivoja.
 faq-question-browser-support-question = Voinko käyttää { -brand-name-relay }-palvelua muilla selaimilla tai mobiililaitteellani?
 faq-question-browser-support-answer-2 = Kyllä, voit luoda { -brand-name-relay }-maskeja muissa selaimissa tai mobiililaitteissa kirjautumalla sisään { -brand-name-relay }-hallintapaneeliin.
-faq-question-longevity-question = Mitä tapahtuu, jos Mozilla sulkee { -brand-name-firefox-relay } -palvelun?
+faq-question-longevity-question = Mitä tapahtuu, jos { -brand-name-mozilla } sulkee { -brand-name-firefox-relay } -palvelun?
 faq-question-longevity-answer-2 = Ilmoitamme sinulle etukäteen, että sinun on vaihdettava kaikkien { -brand-name-relay }-sähköpostimaskeja käyttävien tilien sähköpostiosoitteet.
 faq-question-mozmail-question-2 = Miksi sähköpostimaskini alkoivat käyttää verkkotunnusta “mozmail.com”?
 faq-question-attachments-question = Välittääkö { -brand-name-firefox-relay } sähköpostit liitteineen?
