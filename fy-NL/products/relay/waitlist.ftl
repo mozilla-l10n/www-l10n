@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
+waitlist-premium-name = { -brand-name-relay-premium }
+waitlist-bundle-name = { -brand-name-relay } + { -brand-name-vpn }-bondel
+waitlist-phone-name = { -brand-name-relay }-telefoanmaskearing
 waitlist-heading-2 = Ynskriuwe foar de { -brand-name-relay-premium }-wachtlist
 waitlist-heading-phone = Ynskriuwe foar de { -brand-name-relay }-telefoanmaskearingswachtlist
 waitlist-heading-bundle = Ynskriuwe foar de { -brand-name-relay } + { -brand-name-vpn }-bondel
@@ -24,4 +27,5 @@ waitlist-privacy-policy-agree-2 = Troch op ‘{ waitlist-submit-label-2 }’ te 
 waitlist-privacy-policy-use = Jo gegevens wurde allinnich brûkt om jo te berjochtsjen oer beskikberheid fan { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Jo gegevens wurde allinnich brûkt om jo te berjochtsjen as telefoanmaskearing beskikber is yn jo regio.
 waitlist-privacy-policy-use-bundle = Jo gegevens wurde allinnich brûkt om jo te berjochtsjen oer beskikberheid fan { -brand-name-relay } + { -brand-name-vpn }-bondel.
+waitlist-subscribe-success-title = Tank! Jo steane op de list
 waitlist-subscribe-error-unknown = Der is in flater bard by it pleatsen op de wachtlist. Probearje it nochris.
