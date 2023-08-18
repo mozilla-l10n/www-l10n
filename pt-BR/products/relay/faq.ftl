@@ -15,6 +15,9 @@ faq-question-missing-emails-question-2 = Não estou recebendo mensagens de minha
 faq-question-missing-emails-answer-a-2 = Existem alguns motivos de você não estar recebendo emails encaminhados através de suas máscaras. Pode ser:
 faq-question-missing-emails-answer-reason-spam = As mensagens estão indo para a pasta de spam
 faq-question-missing-emails-answer-reason-blocked-2 = Seu provedor de email está bloqueando suas máscaras de email
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = O email encaminhado tem um anexo maior que { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = O site não aceita máscaras de email
 faq-question-missing-emails-answer-reason-turned-off-2 = A máscara pode estar com encaminhamento desativado
 faq-question-missing-emails-answer-reason-delay = O { -brand-name-relay } pode estar demorando mais do que o normal para encaminhar suas mensagens
@@ -49,6 +52,9 @@ faq-question-longevity-answer-2 = Avisaremos com antecedência que você precisa
 faq-question-mozmail-question-2 = Por que minhas máscaras de email passaram a usar o domínio “mozmail.com”?
 faq-question-mozmail-answer-2 = Mudamos de “relay.firefox.com” para “mozmail.com” para possibilitar a obtenção de um subdomínio de emails personalizado, como mascara@seusubdominio.mozmail.com. Subdomínios personalizados de emails, disponíveis para assinantes do { -brand-name-relay-premium }, permitem gerar máscaras de email mais fáceis de lembrar.
 faq-question-attachments-question = O { -brand-name-firefox-relay } encaminha emails com anexos?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Agora oferecemos suporte ao encaminhamento de anexos. No entanto, há um limite de { $size } MB no encaminhamento de emails usando o { -brand-name-relay }. Quaisquer emails maiores que { $size } MB não são encaminhados.
 faq-question-unsubscribe-domain-question-2 = O que acontece com meu subdomínio personalizado se eu cancelar a assinatura do { -brand-name-relay-premium }?
 faq-question-unsubscribe-domain-answer-2 = Se você cancelar o { -brand-name-relay-premium }, ainda receberá emails encaminhados através de suas máscaras de email personalizadas, mas não poderá mais criar novas máscaras usando esse subdomínio. Se tiver mais de cinco máscaras no total, não poderá criar mais nenhuma. Também não poderá mais responder às mensagens encaminhadas. Você pode assinar novamente o { -brand-name-relay-premium } e recuperar o acesso a esses recursos.
 faq-question-8-question = Que dados o { -brand-name-firefox-relay } coleta?
@@ -81,3 +87,4 @@ faq-question-trackerremoval-breakage-answer-2 = Às vezes, a remoção de rastre
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = O que é uma máscara de número de celular?

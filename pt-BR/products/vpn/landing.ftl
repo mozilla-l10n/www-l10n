@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 em diante)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 em diante)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 em diante)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (somente { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (apenas { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 em diante)
 vpn-landing-faq-refund-question-heading = Qual é a política de reembolso do { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Na primeira vez que fizer uma assinatura do { -brand-name-mozilla-vpn } pelo site da { -brand-name-mozilla }, se você cancelar sua conta nos primeiros 30 dias poderá pedir um reembolso e a { -brand-name-mozilla } reembolsará seu primeiro período de assinatura.
 vpn-landing-faq-refund-question-additional-desc = Se você fizer uma assinatura através de compra no aplicativo usando { -brand-name-app-store } da { -brand-name-apple } ou { -brand-name-google-play } Store, seu pagamento estará sujeito aos termos e condições da { -brand-name-app-store }. Quaisquer dúvidas sobre cobrança ou reembolso de compras como essa devem ser direcionadas à { -brand-name-apple } ou ao { -brand-name-google }, conforme o caso.

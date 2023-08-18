@@ -2,11 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
+
+plan-matrix-title = Preços
 
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = Escolha um nível de proteção adequado para você
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = O { -brand-name-firefox-relay } protege sua identidade e sua caixa de entrada com máscaras de email exclusivas. Adicione ainda mais segurança com máscara de celular do { -brand-name-relay } e economize { $savings }% adicionando a proteção do { -brand-name-mozilla-vpn }.
 
 ## Top Row Labels
 
@@ -16,6 +22,7 @@ plan-matrix-heading-features = Recursos
 plan-matrix-heading-plan-free = Proteção limitada de email
 plan-matrix-heading-plan-premium = Proteção de email
 plan-matrix-heading-plan-phones = Proteção de email e celular
+plan-matrix-heading-plan-bundle-v2 = Adicionar proteção VPN
 
 ## Feature Breakdowns
 
@@ -26,6 +33,7 @@ plan-matrix-feature-promo-email-blocking = Bloqueio de emails promocionais
 plan-matrix-feature-email-subdomain = Domínio de email do { -brand-name-relay } para criar máscaras em qualquer lugar
 plan-matrix-feature-email-reply = Responda a emails anonimamente
 plan-matrix-feature-phone-mask = Máscara de celular para proteger seu número real
+plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
@@ -36,6 +44,7 @@ plan-matrix-feature-mobile-promo-email-blocking = Bloqueio de emails promocionai
 plan-matrix-feature-mobile-email-subdomain = Domínio exclusivo de emails do { -brand-name-relay }
 plan-matrix-feature-mobile-email-reply = Responder a emails anonimamente
 plan-matrix-feature-mobile-phone-mask = Proteja seu número de celular real
+plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 
