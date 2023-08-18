@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
+waitlist-premium-name = { -brand-name-relay-premium }
+waitlist-bundle-name = { -brand-name-relay } + { -brand-name-vpn }-bundel
+waitlist-phone-name = { -brand-name-relay }-telefoonmaskering
 waitlist-heading-2 = Inschrijven voor de { -brand-name-relay-premium }-wachtlijst
 waitlist-heading-phone = Inschrijven voor de { -brand-name-relay }-telefoonmaskeringswachtlijst
 waitlist-heading-bundle = Inschrijven voor de { -brand-name-relay } + { -brand-name-vpn }-bundel
@@ -24,4 +27,16 @@ waitlist-privacy-policy-agree-2 = Door op ‘{ waitlist-submit-label-2 }’ te k
 waitlist-privacy-policy-use = Uw gegevens worden alleen gebruikt om u te berichten over beschikbaarheid van { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Uw gegevens worden alleen gebruikt om u te berichten als telefoonmaskering beschikbaar is in uw regio.
 waitlist-privacy-policy-use-bundle = Uw gegevens worden alleen gebruikt om u te berichten over beschikbaarheid van de { -brand-name-relay } + { -brand-name-vpn }-bundel.
+waitlist-subscribe-success-title = Bedankt! U staat op de lijst
+# Variables:
+#   $product (string) one of the following three options:
+#      - { -brand-name-relay-premium }
+#      - { waitlist-bundle-name }
+#      - { waitlist-phone-name }
+waitlist-subscribe-success-email-desc = Zodra { -brand-name-relay-premium } beschikbaar komt voor uw regio, sturen we u een e-mailbericht.
+waitlist-subscribe-success-phone-desc = Zodra { -brand-name-relay }-telefoonmaskering beschikbaar komt voor uw regio, sturen we u een e-mailbericht.
+waitlist-subscribe-success-bundle-desc = Zodra { -brand-name-relay } + { -brand-name-vpn } beschikbaar komt voor uw regio, sturen we u een e-mailbericht.
+waitlist-subscribe-please-enter-a-valid = Voer een geldig e-mailadres in
+waitlist-subscribe-please-select-country = Selecteer een land of regio
+waitlist-subscribe-please-select-language = Selecteer een taal
 waitlist-subscribe-error-unknown = Er is een fout opgetreden bij het plaatsen op de wachtlijst. Probeer het nog eens.

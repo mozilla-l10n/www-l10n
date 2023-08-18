@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -21,22 +22,29 @@ hero-section-social-proof = Zoals gezien in
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Hoe e-mail- en telefoonmaskering door { -brand-name-relay } werkt
-
 how-it-works-section-extension-headline = Gebruik e-mail- en telefoonmaskers van { -brand-name-relay } overal
 how-it-works-section-extension-body = Ontvang veilige, willekeurige e-mailmaskers en een uniek, gemaskeerd telefoonnummer dat u kunt gebruiken wanneer een website, app, winkel of restaurant om uw gegevens vraagt.
-
 how-it-works-section-forward-headline = We sturen e-mailberichten, telefoontjes en sms’jes naar u door
 how-it-works-section-forward-body = Wees gerust, afzenders zullen nooit uw echte e-mailadres of echte nummer weten. U kunt zelfs sms’jes en e-mailberichten beantwoorden zonder uw echte identiteit te delen.
-
 how-it-works-section-manage-headline = Beheer uw maskers vanaf uw { -brand-name-relay }-dashboard
 how-it-works-section-manage-body = Meld u aan bij uw { -brand-name-relay }-dashboard om nieuwe maskers aan te maken, bestaande maskers te labelen en oproepen, sms’jes of e-mailberichten te blokkeren van maskers die te veel spam ontvangen.
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Beoordelingen
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Add-ons
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Bron: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+        [one] van de 5 ({ $review_count } beoordeling)
+       *[other] van de 5 ({ $review_count } beoordelingen)
+    }
 landing-reviews-show-next-button = volgende beoordeling tonen
 landing-reviews-show-previous-button = vorige beoordeling tonen
 landing-review-anonymous-user = { -brand-name-firefox }-gebruiker { $user_id }

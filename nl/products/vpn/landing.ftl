@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 en hoger)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 en hoger)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 en hoger)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (alleen { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (alleen { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 en hoger)
 vpn-landing-faq-refund-question-heading = Wat is het restitutiebeleid van { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Als u zich voor het eerst abonneert op { -brand-name-mozilla-vpn } via de website van { -brand-name-mozilla }, en als u uw account binnen de eerste 30 dagen annuleert, kunt u om restitutie vragen en betaalt { -brand-name-mozilla } uw eerste abonnementsperiode terug.
 vpn-landing-faq-refund-question-additional-desc = Als u uw abonnement aanschaft via in-app-aankopen bij de { -brand-name-apple } { -brand-name-app-store } of de { -brand-name-google-play } Store, valt uw betaling onder de algemene voorwaarden van de { -brand-name-app-store }. U dient alle verzoeken om facturering en teruggave voor dergelijke aankopen te richten aan { -brand-name-apple } of { -brand-name-google }, afhankelijk van de situatie.
