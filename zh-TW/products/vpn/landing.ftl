@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a>（12.0 或更新版本）
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a>（僅 { -brand-name-ubuntu } 18.04 或更新版本）
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a>（Ubuntu 20.04 或更新版本）
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a>（僅 { -brand-name-ubuntu }）
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux }（僅 { -brand-name-ubuntu } 平台）
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a>（僅 { -brand-name-ubuntu } 18.04 或更新版本）
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } 的退款政策是什麼？
 vpn-landing-faq-refund-question-desc-v2 = 當您第一次在 { -brand-name-mozilla } 網站訂閱 { -brand-name-mozilla-vpn } 時，若您在一開始的 30 天內取消帳號，可以要求全額退款，{ -brand-name-mozilla } 將會退還您的第一期訂閱費用。
 vpn-landing-faq-refund-question-additional-desc = 若您透過應用程式內購的方式購買（{ -brand-name-apple } { -brand-name-app-store } 或 { -brand-name-google-play } 商店）付款方式受各該商店的的條款所約束。您需直接連絡 { -brand-name-apple } 或 { -brand-name-google } 要求退款。
