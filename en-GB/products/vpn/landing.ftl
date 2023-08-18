@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 and up)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 and up)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 and up)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu }-only)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-only)
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 and up)
 vpn-landing-faq-refund-question-heading = What is { -brand-name-mozilla-vpn }’s refund policy?
 vpn-landing-faq-refund-question-desc-v2 = The first time you subscribe to { -brand-name-mozilla-vpn } through { -brand-name-mozilla }’s web site, if you cancel your account within the first 30 days, you may request a refund and { -brand-name-mozilla } will refund your first subscription term.
 vpn-landing-faq-refund-question-additional-desc = If you purchase your subscription through in-app purchase from the { -brand-name-apple } { -brand-name-app-store } or the { -brand-name-google-play } Store, your payment is subject to the terms and conditions of the { -brand-name-app-store }. You must direct any billing and refund inquiries for such purchases to { -brand-name-apple } or { -brand-name-google }, as appropriate.
