@@ -16,3 +16,4 @@ about-shared-our-products = ਸਾਡੇ ਪ੍ਰੋਡੱਕਟ
 about-shared-software-innovations = ਸਾਫਟਵੇਅਰ ਅਤੇ ਹੋਰ ਖੋਜਾਂ ਸਾਡੇ ਮਕਸਦ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤੀਆਂ ਹਨ।
 about-shared-get-involved = ਸਾਥ ਦਿਓ
 about-shared-volunteer = ਵੱਖ-ਵੱਖ ਖੇਤਰਾਂ ਵਿੱਚ ਵਲੰਟੀਅਰ ਯੋਗਦਾਨੀ ਬਣੋ।
+vision-for-the-web = ਵੈੱਬ ਲਈ { -brand-name-mozilla } ਦਾ ਨਜ਼ਰੀਆ

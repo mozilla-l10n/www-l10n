@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -12,6 +12,7 @@ about-read-our-mission = ਸਾਡਾ ਮਕਸਦ ਪੜ੍ਹੋ
 about-our-mission-in-action = ਸਾਡਾ ਮਕਸਦ ਜਾਰੀ ਹੈ
 about-pioneers-of-the-open-web = ਆਜ਼ਾਦ ਵੈੱਬ ਦੇ ਮੋਢੀ
 about-firefox-fast-for-good = { -brand-name-firefox }: ਚੰਗੇ ਲਈ ਤੇਜ਼ ਹੈ
+about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 about-a-global-view = ਗਲੋਬਲ ਝਲਕ
 about-berlin = ਬਰਲਿਨ
 about-toronto = ਟੋਰਾਂਟੋ
