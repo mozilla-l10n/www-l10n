@@ -8,7 +8,7 @@
 
 ## FAQ Page
 
-faq-headline = Perguntas frequentes
+faq-headline = Dúvidas frequentes
 faq-question-what-is-question-2 = O que é uma máscara de email do { -brand-name-relay }?
 faq-question-what-is-answer-2 = Máscaras de email são endereços de email mascarados, ou privativos, que encaminham mensagens para seu endereço de email verdadeiro. Essas máscaras permitem que você compartilhe com terceiros um endereço que oculta seu endereço de email verdadeiro e encaminha mensagens para ele.
 faq-question-missing-emails-question-2 = Não estou recebendo mensagens de minhas máscaras de email
@@ -88,3 +88,27 @@ faq-question-trackerremoval-breakage-answer-2 = Às vezes, a remoção de rastre
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = O que é uma máscara de número de celular?
+phone-masking-faq-question-how-many = Quantas máscaras de celular eu recebo?
+phone-masking-faq-answer-how-many = No momento, você só recebe uma máscara de número de celular. Após escolher uma máscara de número de celular, você não pode mais alterar.
+phone-masking-faq-question-change-phone-mask = Posso mudar minha máscara de celular?
+phone-masking-faq-answer-change-phone-mask = Não, você não pode alterar sua máscara de número de celular após escolher. Estamos investigando esta opção.
+phone-masking-faq-question-can-reply = Posso responder mensagens de texto?
+phone-masking-faq-answer-can-reply = Sim, você pode responder o último texto que recebeu. Basta responder normalmente como faria com qualquer mensagem de texto.
+phone-masking-faq-question-forwarded-texts = Que tipos de textos são encaminhados?
+phone-masking-faq-answer-forwarded-texts = Somente mensagens de texto SMS podem ser encaminhadas. Textos MMS que incluam fotos, vídeos, etc. não são encaminhados.
+phone-masking-faq-question-pictures = Posso enviar ou receber fotos via texto?
+phone-masking-faq-answer-pictures = Não, apenas mensagens de texto SMS podem ser encaminhadas ou enviadas como resposta.
+phone-masking-faq-question-historical = Posso responder mensagens de texto anteriores?
+phone-masking-faq-answer-historical = No momento, você não pode responder textos recebidos anteriormente, mas este recurso está a caminho.
+phone-masking-faq-question-can-i-send = Posso enviar um texto que não seja resposta a outro?
+phone-masking-faq-answer-can-i-send = Não, você ainda não pode enviar mensagens de texto que não sejam respostas. Você só pode responder a mensagens de texto encaminhadas.
+phone-masking-faq-question-limit = Existe um limite de quantas mensagens de texto eu recebo?
+phone-masking-faq-answer-limit = Você pode receber e responder até 75 mensagens de texto por mês. Quaisquer textos adicionais enviados para sua máscara de número de celular não são encaminhados para seu número verdadeiro. Quaisquer respostas adicionais não são entregues. O mês vira na data de cobrança da sua assinatura, não na data do calendário. Após o mês de cobrança terminar, você começa a receber mensagens de texto novamente.
+phone-masking-faq-question-call-length = Por quanto tempo posso conversar quando recebo uma chamada?
+phone-masking-faq-answer-call-length = Cada mês você tem 50 minutos de conversa. Após usar esses minutos, você não pode receber chamadas encaminhadas, até chegar o próximo mês do ciclo de cobrança da sua assinatura.
+phone-masking-faq-question-can-i-call = Posso ligar para alguém usando minha máscara de celular?
+phone-masking-faq-answer-can-i-call = Não, você só pode atender chamadas encaminhadas.
+phone-masking-faq-question-can-i-see = Posso ver quem me mandou mensagem ou me ligou?
+phone-masking-faq-answer-can-i-see = Sim, você pode ver o número que mandou uma mensagem ou ligou para você. Também pode desativar o armazenamento desses registros, mas perde a capacidade de responder ou bloquear chamadas e mensagens de texto individuais.
+phone-masking-faq-question-can-i-block = Posso bloquear uma chamada ou mensagem de texto?
+phone-masking-faq-answer-can-i-block = Você pode bloquear todos os encaminhamentos de um mesmo número.

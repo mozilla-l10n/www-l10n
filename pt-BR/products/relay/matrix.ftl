@@ -63,6 +63,9 @@ plan-matrix-price-period-yearly = Anualmente
 plan-matrix-price-period-monthly = Mensalmente
 plan-matrix-price-period-yearly-footnote-1 = Cobrado anualmente
 plan-matrix-price-period-monthly-footnote-1 = Cobrado mensalmente
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>Economize { $savings }%</span> do preço normal da VPN
 
 ## Plan CTAs
 
