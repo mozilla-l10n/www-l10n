@@ -27,7 +27,9 @@ plan-matrix-feature-email-masks = Ñanduti veve rovamo’ãha emo’ã hag̃ua n
 plan-matrix-feature-browser-extension = Kundahára jepysokue eipuru hag̃ua { -brand-name-relay } oimehápe
 plan-matrix-feature-email-tracker-removal = Embogue ñanduti veve rapykuehoha
 plan-matrix-feature-promo-email-blocking = Ejoko ñanduti veve jopoigua
+plan-matrix-feature-email-subdomain = Ñanduti veve rendatee { -brand-name-relay } emoheñói hag̃ua tovamo’ãha pya’e
 plan-matrix-feature-email-reply = Embohovái ñanduti veve nde réra jekuaa’ỹre
+plan-matrix-feature-phone-mask = Ñanduti veve pumbyry rovamo’ãha emo’ã hag̃ua nde papapytee
 plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
@@ -58,6 +60,9 @@ plan-matrix-price-period-yearly = Aryguáva
 plan-matrix-price-period-monthly = Jasyguáva
 plan-matrix-price-period-yearly-footnote-1 = Ikuatia aryguáva
 plan-matrix-price-period-monthly-footnote-1 = Ikuatia jasyguáva
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>Ehepyme’ẽ’ive { $ahorros }%</span> VPN repy tapiagua
 
 ## Plan CTAs
 
