@@ -31,6 +31,7 @@ faq-question-4-question-2 = Ambohovaikuaápa ñe’ẽmondo aipurúvo { -brand-n
 faq-question-subdomain-characters-question = Mba’e taípa aipurukuaa amoheñói hag̃ua tendatee’i
 faq-question-subdomain-characters-answer-v2 = Eipurukuaa tai inglés michĩva rehegua añoite, papapy ha taiky emoheñói hag̃ua tendatee’i.
 faq-question-browser-support-question = Aipurukuaápa { -brand-name-relay } ambue kundahára térã che pumbyrýpe
+faq-question-browser-support-answer-2 = Hẽe, emoheñoikuaa { -brand-name-relay } rovamo’ãha ambue kundahára térã pumbyry mba’e’okápe emoñepyrũvo tembiapo  nde { -brand-name-relay } rupápe.
 faq-question-longevity-question = Mba’épa oiko { -brand-name-mozilla } ombotýramo { -brand-name-firefox-relay } mba’epuru
 faq-question-mozmail-question-2 = Mba’érepa ñandutiveve rovamo’ãha oipurúma “mozmail.com?” rendatee
 faq-question-attachments-question = Ikatúpa { -brand-name-firefox-relay } omondojey ñanduti veve marandurenda ijeheguáva reheve
@@ -40,6 +41,10 @@ faq-question-email-storage-question = ¿{ -brand-name-relay } ombyaty che ñandu
 faq-question-acceptable-use-question = Mba’épa jeipuru { -brand-name-relay } omoneĩva
 faq-question-acceptable-use-answer-measure-account = Reikotevẽ { -brand-name-firefox-account } ñanduti veve kundaharape ojehechajeýva reheve
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Emoheñóivo po tovamo’ãha ehepyme’ẽmava’erã
+faq-question-acceptable-use-answer-measure-rate-limit-2 = Mboy tovamo’ãha pevépa emoheñoikuaa peteĩ ára pukukue
+#   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-acceptable-use-answer-b-html = Ikatúpa emoñe’ẽ ore <a href="{ $url }" { $attrs }>Mba’epururã rehegua</a> eikuaave hag̃ua.
 faq-question-promotional-email-blocking-question = Mba’épa ñanduti veve jejoko jopoiguáva
 faq-question-disable-trackerremoval-question = Ajokokuaápa ñandutu veve rapykuehoha mbogueha
 faq-question-bulk-trackerremoval-question = Amboguekuaápa tapykuehoha ndahetái ñanduti veve rovamo’ãhápe añoite

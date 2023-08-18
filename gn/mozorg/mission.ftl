@@ -9,9 +9,13 @@ mission-were-building-a-better-internet = Rojaporoína Ñanduti iporãvéva
 mission-our-mission-is-to-ensure-the-internet = Ñanduti ha’eva’erã tapichakuéra rembipuruete, peteĩteĩva ikatuhápe omba’apo ha ohechauka ikatupyry, oguerekohápe tekorasã ha jeheguiete.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Ore rembipota ha’e juruja ñemoherakuã, ñembopyahu ha pa’ũ Ñandutípe.
+mission-at-mozilla-were-a-global-community-v2 = { -brand-name-mozilla } ha’e atyguasu tembipurupyahugua, oñakãngetáva ha mboguatahára romba’apóva Ñanduti oikove ha ijeike hasy’ỹ hag̃uáicha, opavave pytyvõharakuéra imaranduporãva ha avei Ñanduti moheñoihára.
 # Outdated string
 mission-at-mozilla-were-a-global-community = Mozilla ha’e atyguasu tembipurupyahuguáva, akãngetahára ha mboguatahára romba’apóva Ñanduti oikove ha ijeike hasy’ỹ hag̃ua, opavave ñandekuéra pytyvõhára momarandupyréva ha Ñanduti moheñoihára.
 mission-we-believe-this-act-of-human-collaboration = Roguerovia ko tembiapo pytyvõrã ijurujáva rehegua rupi iporãiterei omombarete hag̃ua tapicha peteĩ teĩme ha opavave renonderã.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+mission-read-the-mozilla-manifesto-to-learn-v2 = Emoñe’ẽ <a href="{ $url }">{ -brand-name-mozilla } Mombe’upy</a> embopypuku hag̃ua tekokatu ha tekoypy ombohapéva ore rembipota ñemoañete.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/

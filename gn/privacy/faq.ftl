@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = Umi porandu ha mbohovái upeigua ne py
 privacy-faq-i-use-firefox-for-almost-everything = Aipuru { -brand-name-firefox } ajapo hag̃ua opamba’e ñandutípe. { -brand-name-mozilla } oikuaáne heta mba’e cherehegua, ¿ajépa?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, pe kundaha omba’apóva ne mba’e’oka térã ne mohendahápe, ha’éta esẽkuaaha ñandutígui. Ne kundaha oguerekóta heta marandu umi tenda eikeha rehegua, hákatu umi marandu opytáta ne mba’e’okápe. { -brand-name-mozilla }, mba’apoha { -brand-name-firefox } apohare noñongatúi (ndete mba’e nderejeruéiramo chupe).
 privacy-faq-really-you-dont-collect-my-browsing = ¿Peichaite? ¿Peẽ napeñongatúi kundaha rembiasakue?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ndoikuaái nde eha’arõháicha mba’éichapa tapichakuéra oikundaha ñandutípe. Peteĩ atyguasu kundaha apoháramo, upéva ha’e tembiaporã tuicha mba’eva oréve. Upévare romoheñói tembipuru nde eiporavokuaáva, omoneĩva puruhárape tape porã ñeikundaha rehegua. Embojuehérõ ne kundaha rembiasakue opaite { -brand-name-firefox } ñemohendapyrére, ore ndoroikuaái tapykuere, ombopapapy rupi ne mba’e’oka.
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } ndoikuaapái nde eha’arõháicha mba’eichaitépa tapichakuéra oikundaha ñandutípe. Peteĩ atyguasu kundaha apoháramo, upéva ha’e tembiaporã tuicha mba’eva oréve. Upévare romoheñói tembipuru nde eiporavokuaáva, ha’éva <a href="{ $link }">{ -brand-name-firefox } Pionner</a>, omoneĩva puruhárape tape porã ñanduti kundaha rehegua. Embojuehéramo ne kundaha rembiasakue opaite { -brand-name-firefox } ñemohendapyrére, ore ndoroikuaái pe tembiasakue, oñembopapapy rupi ne mba’e’oka guive.
