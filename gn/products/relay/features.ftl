@@ -8,7 +8,10 @@
 
 ## HIGHLIGHTED FEATURES SECTION
 
+highlighted-features-section-title = Tembiapoite hekorosã ha hasy’ỹva ne pytyvõ emo’ã hag̃ua nde reraite
 highlighted-features-section-bottom-cta = Eñepyrũ
+highlighted-features-section-unlimited-masks-headline = Emoheñói ñanduti veve rovamo’ãha ijapyra’ỹva
 highlighted-features-section-masks-on-the-go-headline = Emoheñói pya’e tovamo’ãha
+highlighted-features-section-replying-headline = Embohovái ñanduti veve ha ñe’ẽmondo nde réra jekuaa’ỹre
 highlighted-features-section-block-promotions-headline = Ejoko ñanduti veve jopoigua
 highlighted-features-section-remove-trackers-headline = Embogue ñanduti veve rapykuehoha

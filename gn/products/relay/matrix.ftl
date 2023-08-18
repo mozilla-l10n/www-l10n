@@ -9,6 +9,7 @@ plan-matrix-title = Tepy
 
 ## PRICING MATRIX SECTION
 
+plan-matrix-offer-title = Eiporavo pe ñemo’ã oikoporãvétava ndéve
 
 ## Top Row Labels
 
@@ -22,8 +23,11 @@ plan-matrix-heading-plan-bundle-v2 = Embojuaju ñemo’ã VPN ndive
 
 ## Feature Breakdowns
 
+plan-matrix-feature-email-masks = Ñanduti veve rovamo’ãha emo’ã hag̃ua ne ñanduti vevete
+plan-matrix-feature-browser-extension = Kundahára jepysokue eipuru hag̃ua { -brand-name-relay } oimehápe
 plan-matrix-feature-email-tracker-removal = Embogue ñanduti veve rapykuehoha
 plan-matrix-feature-promo-email-blocking = Ejoko ñanduti veve jopoigua
+plan-matrix-feature-email-reply = Embohovái ñanduti veve nde réra jekuaa’ỹre
 plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
@@ -32,6 +36,9 @@ plan-matrix-feature-mobile-email-masks = Ñanduti veve rovamo’ãha
 plan-matrix-feature-mobile-browser-extension = Kundahára jepysokue
 plan-matrix-feature-mobile-email-tracker-removal = Embogue ñanduti veve rapykuehoha
 plan-matrix-feature-mobile-promo-email-blocking = Ejoko ñanduti veve jopoigua
+plan-matrix-feature-mobile-email-subdomain = { -brand-name-relay } ñanduti veve rendateetéva
+plan-matrix-feature-mobile-email-reply = Embohovái ñanduti veve nde réra jekuaa’ỹre
+plan-matrix-feature-mobile-phone-mask = Emo’ã ne pumbyry papapyetéva
 plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details

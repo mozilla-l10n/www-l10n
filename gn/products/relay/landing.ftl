@@ -24,9 +24,20 @@ landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Moĩmbaha
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Teñoiha: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+       *[other] po ({ $review_count } jehechapyre)
+    }
 landing-reviews-show-next-button = ehechauka marandu’i oútava
 landing-reviews-show-previous-button = ehechauka marandu’i mboyveguáva
 landing-review-anonymous-user = { -brand-name-firefox } oipuru { $user_id }
+landing-review-user-four-review-list-4 = { -brand-name-firefox-relay } oiko porã, ¡eipurúkatu!
 
 ## FAQ SECTION
 
+landing-faq-headline = Ñeporanduve { -brand-name-firefox-relay } rehegua
+landing-faq-cta = Ehecha oñeporanduvéva { -brand-name-firefox-relay } rehegua

@@ -46,6 +46,7 @@ faq-question-acceptable-use-answer-measure-rate-limit-2 = Mboy tovamo’ãha pev
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-b-html = Ikatúpa emoñe’ẽ ore <a href="{ $url }" { $attrs }>Mba’epururã rehegua</a> eikuaave hag̃ua.
 faq-question-promotional-email-blocking-question = Mba’épa ñanduti veve jejoko jopoiguáva
+faq-question-detect-promotional-question = Mba’éichapa { -brand-name-relay } oikuaa ñanduti veve ha’eha jeikuaarãva
 faq-question-disable-trackerremoval-question = Ajokokuaápa ñandutu veve rapykuehoha mbogueha
 faq-question-bulk-trackerremoval-question = Amboguekuaápa tapykuehoha ndahetái ñanduti veve rovamo’ãhápe añoite
 faq-question-trackerremoval-breakage-question = Mba’érepa che ñanduti veve ndojekuaaporãi
