@@ -88,6 +88,9 @@ faq-question-trackerremoval-breakage-answer-2 = Às vezes, a remoção de rastre
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = O que é uma máscara de número de celular?
+phone-masking-faq-answer-what-is = Semelhante a uma máscara de email, uma máscara de número de celular é um número de celular que pode encaminhar mensagens de texto e chamadas para o seu número de telefone verdadeiro, sem revelar seu número verdadeiro para as pessoas que ligam ou enviam mensagens de texto para você.
+phone-masking-faq-question-where-is = Onde estão disponíveis máscaras de celular?
+phone-masking-faq-answer-where-is = No momento, máscaras de número de celular estão disponíveis somente nos Estados Unidos e no Canadá. Significa que você só pode receber chamadas e textos encaminhados de números dos EUA ou do Canadá. Estamos trabalhando para encontrar uma maneira de oferecer máscaras de número de celular fora desses dois países.
 phone-masking-faq-question-how-many = Quantas máscaras de celular eu recebo?
 phone-masking-faq-answer-how-many = No momento, você só recebe uma máscara de número de celular. Após escolher uma máscara de número de celular, você não pode mais alterar.
 phone-masking-faq-question-change-phone-mask = Posso mudar minha máscara de celular?
@@ -112,3 +115,17 @@ phone-masking-faq-question-can-i-see = Posso ver quem me mandou mensagem ou me l
 phone-masking-faq-answer-can-i-see = Sim, você pode ver o número que mandou uma mensagem ou ligou para você. Também pode desativar o armazenamento desses registros, mas perde a capacidade de responder ou bloquear chamadas e mensagens de texto individuais.
 phone-masking-faq-question-can-i-block = Posso bloquear uma chamada ou mensagem de texto?
 phone-masking-faq-answer-can-i-block = Você pode bloquear todos os encaminhamentos de um mesmo número.
+phone-masking-faq-question-spam = E se minha máscara de celular começar a receber spam?
+phone-masking-faq-answer-spam = Se você começar a receber spam, pode bloquear os números que enviam spam.
+phone-masking-faq-question-disable-logging = Posso desativar o registro de quem chama ou envia texto?
+phone-masking-faq-answer-disable-logging = Sim, você pode desativar o registro de números no painel do { -brand-name-relay }. No entanto, não poderá mais responder mensagens de texto ou bloquear números específicos, porque é através deste registro que podemos acompanhar quem te envia mensagens de texto.
+phone-masking-faq-question-can-i-share = Posso compartilhar o número que me encaminha mensagens de texto?
+phone-masking-faq-answer-can-i-share = Se você compartilhar esse número, nada acontecerá. O número não é sua máscara de número de celular, é apenas o número de contato usado pelo { -brand-name-relay } para encaminhar seus textos e chamadas.
+phone-masking-faq-question-how-i-save-card = Como faço para salvar o cartão de contato do { -brand-name-relay }?
+phone-masking-faq-answer-how-i-save-card = Após mudar para máscara de número de celular do { -brand-name-relay }, enviamos uma mensagem de texto com um cartão de contato que contém o número do qual você receberá chamadas e textos encaminhados, semelhante a qualquer cartão de contato que armazena o número de celular de pessoas que entram em contato com você. Na maioria dos dispositivos, você pode selecionar esse cartão de contato e salvar como qualquer outro contato em seu celular.
+phone-masking-faq-question-install-app = Preciso instalar um aplicativo para usar a máscara de celular do { -brand-name-relay }?
+phone-masking-faq-answer-install-app = Não, a máscara de celular do { -brand-name-relay } funciona usando os aplicativos padrão de mensagens de texto e chamadas do seu dispositivo.
+phone-masking-faq-question-data = Que tipos de dados a máscara de celular do { -brand-name-relay } armazena?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Consulte a <a href="{ $url }" { $attrs }>política de privacidade do { -brand-name-firefox-relay }</a>.
