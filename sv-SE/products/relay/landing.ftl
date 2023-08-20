@@ -36,6 +36,15 @@ landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Tillägg
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Källa: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+        [one] av 5 ({ $review_count } recension)
+       *[other] av 5 ({ $review_count } recensioner)
+    }
 landing-reviews-show-next-button = visa nästa recension
 landing-reviews-show-previous-button = visa föregående recension
 landing-review-anonymous-user = { -brand-name-firefox } användare { $user_id }

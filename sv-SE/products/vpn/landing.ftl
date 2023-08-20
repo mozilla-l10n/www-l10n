@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 och senare)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 och senare)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 och senare)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = { -brand-name-linux }<a href="{ $url }">{ -brand-name-linux }</a>(endast { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (endast { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 och senare)
 vpn-landing-faq-refund-question-heading = Vad är { -brand-name-mozilla-vpn }:s återbetalningspolicy?
 vpn-landing-faq-refund-question-desc-v2 = Första gången du prenumererar på { -brand-name-mozilla-vpn }via { -brand-name-mozilla }s webbplats, om du avslutar ditt konto inom de första 30 dagarna, kan du begära en återbetalning och { -brand-name-mozilla } kommer att återbetala din första prenumerationsperiod.
 vpn-landing-faq-refund-question-additional-desc = Om du köper din prenumeration via köp i appen från { -brand-name-apple } { -brand-name-app-store } eller { -brand-name-google-play } Butik, är din betalning föremål för villkoren för { -brand-name-app-store }. Du måste skicka alla fakturerings- och återbetalningsförfrågningar för sådana köp till { -brand-name-apple } eller { -brand-name-google }, beroende på vad som passar.

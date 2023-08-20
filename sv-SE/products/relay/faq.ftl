@@ -15,6 +15,9 @@ faq-question-missing-emails-question-2 = Jag får inga meddelanden från mina e-
 faq-question-missing-emails-answer-a-2 = Det finns några anledningar till att du inte får e-postmeddelanden som vidarebefordras via dina alias. Dessa skäl inkluderar:
 faq-question-missing-emails-answer-reason-spam = Meddelanden kommer till spam
 faq-question-missing-emails-answer-reason-blocked-2 = Din e-postleverantör blockerar dina e-postalias
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = E-postmeddelandet som vidarebefordras har en bilaga som är större än { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = Webbplatsen accepterar inte e-postalias
 faq-question-missing-emails-answer-reason-turned-off-2 = Alias kan ha vidarebefordran avstängt
 faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } kan ta längre tid än vanligt att vidarebefordra dina meddelanden
@@ -49,6 +52,9 @@ faq-question-longevity-answer-2 = Vi kommer att meddela dig i förväg att du m�
 faq-question-mozmail-question-2 = Varför började mina e-postalias använda domänen "mozmail.com?"
 faq-question-mozmail-answer-2 = Vi bytte från “relay.firefox.com” till “mozmail.com” för att göra det möjligt att få en anpassad e-postunderdomän, till exempel alias@dindomän.mozmail.com. Anpassade e-postunderdomäner, tillgängliga för { -brand-name-relay-premium }-abonnenter, låter dig skapa e-postalias som är enkla att komma ihåg.
 faq-question-attachments-question = Kommer { -brand-name-firefox-relay } att vidarebefordra e-postmeddelanden med bilagor?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Vi stöder nu vidarebefordran av bilagor. Det finns dock en gräns på { $size } MB för vidarebefordran av e-post med { -brand-name-relay }. E-postmeddelanden som är större än { $size } MB kommer inte att vidarebefordras.
 faq-question-unsubscribe-domain-question-2 = Vad händer med min anpassade underdomän om jag avslutar prenumerationen på { -brand-name-relay-premium }?
 faq-question-unsubscribe-domain-answer-2 = Om du nedgraderar från { -brand-name-relay-premium } får du fortfarande e-postmeddelanden som vidarebefordras via dina anpassade e-postalias, men du kan inte längre skapa nya alias med den underdomänen. Om du har mer än fem alias totalt kommer du inte att kunna skapa fler. Du förlorar också möjligheten att svara på vidarebefordrade meddelanden. Du kan återuppta prenumerationen på { -brand-name-relay-premium } och återfå åtkomst till dessa funktioner.
 faq-question-8-question = Vilka data samlar { -brand-name-firefox-relay } in?
@@ -81,3 +87,45 @@ faq-question-trackerremoval-breakage-answer-2 = Ibland kan borttagning av spåra
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = Vad är telefonnummermaskering?
+phone-masking-faq-answer-what-is = I likhet med ett e-postalias är en telefonmaskering ett telefonnummer som kan vidarebefordra sms och samtal till ditt riktiga telefonnummer utan att avslöja vad ditt riktiga nummer är för personen som ringer eller sms:ar dig.
+phone-masking-faq-question-where-is = Var finns telefonmaskering tillgänglig?
+phone-masking-faq-answer-where-is = För närvarande är maskering av telefonnummer endast tillgängligt i USA och Kanada. Det betyder att du bara kan ta emot vidarekopplade samtal och sms från amerikanska eller kanadensiska nummer. Vi arbetar på att hitta ett sätt att erbjuda telefonnummermaskering utanför dessa två länder.
+phone-masking-faq-question-how-many = Hur många telefonalias får jag?
+phone-masking-faq-answer-how-many = Du får bara ett telefonalias för tillfället. När du väl har valt ditt telefonnummer kan du inte ändra det senare.
+phone-masking-faq-question-change-phone-mask = Kan jag ändra mitt telefonalias?
+phone-masking-faq-answer-change-phone-mask = Nej, du kan inte ändra ditt telefonalias när du väl har valt det. Vi undersöker detta alternativ.
+phone-masking-faq-question-can-reply = Kan jag svara på sms?
+phone-masking-faq-answer-can-reply = Ja, du kan svara på det senaste sms:et du fick. Svara bara som du brukar för textmeddelanden.
+phone-masking-faq-question-forwarded-texts = Vilka typer av sms kommer att vidarebefordras?
+phone-masking-faq-answer-forwarded-texts = Endast SMS-meddelanden kan vidarebefordras. MMS-texter som innehåller bilder, videor etc. kommer inte att vidarebefordras.
+phone-masking-faq-question-pictures = Kan jag skicka eller ta emot bilder via sms?
+phone-masking-faq-answer-pictures = Nej, endast SMS-meddelanden kan vidarebefordras eller skickas som svar.
+phone-masking-faq-question-historical = Kan jag svara på historiska SMS-meddelanden?
+phone-masking-faq-answer-historical = Du kan för närvarande inte svara på sms som du fått tidigare, även om den här funktionen är på väg.
+phone-masking-faq-question-can-i-send = Kan jag skicka ett sms utan att svara på ett?
+phone-masking-faq-answer-can-i-send = Nej, du kan ännu inte skicka sms som inte är svar. Du kan bara svara på vidarebefordrade sms.
+phone-masking-faq-question-limit = Finns det en gräns för hur många sms jag får?
+phone-masking-faq-answer-limit = Du kan ta emot och svara på upp till 75 textmeddelanden per månad totalt. Eventuella ytterligare sms som skickas till din telefonalias kommer inte att vidarebefordras till ditt riktiga nummer. Ytterligare svar kommer inte att levereras. Månaden övergår på ditt faktureringsdatum, inte kalenderdatumet. När din faktureringsmånad har övergått kommer du att börja få textmeddelanden igen.
+phone-masking-faq-question-call-length = Hur länge kan jag prata när jag får ett samtal?
+phone-masking-faq-answer-call-length = Varje månad får du 50 minuters prat. När dessa minuter är förbrukade kommer du inte att kunna ta emot vidarekopplade samtal förrän nästa månad i din faktureringscykel.
+phone-masking-faq-question-can-i-call = Kan jag ringa någon med min telefonalias?
+phone-masking-faq-answer-can-i-call = Nej, du kan bara svara på ett vidarekopplat samtal.
+phone-masking-faq-question-can-i-see = Kan jag se vem som har sms:at eller ringt mig?
+phone-masking-faq-answer-can-i-see = Ja, du kan se numret som sms:ade eller ringde dig. Du kan också inaktivera lagringen av dessa poster, men du kommer att förlora möjligheten att svara på eller blockera enskilda uppringare och sms:are.
+phone-masking-faq-question-can-i-block = Kan jag blockera ett samtal eller sms?
+phone-masking-faq-answer-can-i-block = Du kan blockera all vidarekoppling från ett enda nummer.
+phone-masking-faq-question-spam = Vad händer om min telefonalias börjar få skräppost?
+phone-masking-faq-answer-spam = Om du börjar få skräppost kan du blockera numren som skickar skräppost till dig.
+phone-masking-faq-question-disable-logging = Kan jag inaktivera loggning av uppringare eller textavsändare?
+phone-masking-faq-answer-disable-logging = Ja, du kan inaktivera loggning av nummer från översikten i { -brand-name-relay }. Du kommer dock inte längre att kunna svara på sms eller blockera specifika nummer, eftersom loggen är hur vi kan spåra vem som skickat ett sms till dig.
+phone-masking-faq-question-can-i-share = Kan jag dela numret som vidarebefordrar mig sms?
+phone-masking-faq-answer-can-i-share = Om du delar det här numret kommer ingenting att hända — det här numret är inte din telefonalias. Det är bara kontaktnumret från vilket { -brand-name-relay } vidarekopplar dina sms och samtal.
+phone-masking-faq-question-how-i-save-card = Hur sparar jag kontaktkortet { -brand-name-relay }?
+phone-masking-faq-answer-how-i-save-card = När du uppgraderar till { -brand-name-relay } telefonnummermaskering skickar vi ett sms till dig, från ett kontaktkort som innehåller numret från vilket du kommer att ta emot vidarekopplade samtal och sms, liknande alla kontaktkort som lagrar telefonnumret till personer som kontaktar dig. På de flesta enheter kan du välja det kontaktkortet och spara det som alla andra kontakter på din telefon.
+phone-masking-faq-question-install-app = Behöver jag installera en app för att använda { -brand-name-relay } telefonmaskering?
+phone-masking-faq-answer-install-app = Nej, { -brand-name-relay } telefonmaskering fungerar med enhetens standardappar för sms och samtal.
+phone-masking-faq-question-data = Vilken typ av data lagrar { -brand-name-relay } telefonmaskering?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Se <a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay } sekretesspolicy</a>.
