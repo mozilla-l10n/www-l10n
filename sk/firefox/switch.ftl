@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
@@ -26,4 +26,4 @@ switch-share-to-facebook-updated = Zdieľať na { -brand-name-facebook(case: "lo
 switch-send-a-tweet = Odošlite tweet
 switch-hey = Zdravím,
 switch-check-it-out = Vyskúšajte ho a povedzte mi váš názor:
-switch-send-an-email = Odošlite e-mail
+switch-send-an-email = Odošlite e‑mail

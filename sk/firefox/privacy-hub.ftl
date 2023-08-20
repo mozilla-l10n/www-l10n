@@ -66,7 +66,7 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Ak máte { -brand-name-firef
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Každý deň je pre používateľov { -brand-name-firefox(case: "gen") } na celom svete zablokovaných viac ako { $trackers } sledovacích prvkov
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email = Keď zadáte svoju e-mailovú adresu do služby { -brand-name-firefox-monitor }, zabudneme ju ihneď po tom, ako skontrolujeme zhodu so známymi únikmi údajov – pokiaľ nám nedáte oprávnenie pokračovať v monitorovaní nových porušení ochrany vašich osobných údajov.
+firefox-privacy-hub-when-you-enter-your-email = Keď zadáte svoju e‑mailovú adresu do služby { -brand-name-firefox-monitor }, zabudneme ju ihneď po tom, ako skontrolujeme zhodu so známymi únikmi údajov – pokiaľ nám nedáte oprávnenie pokračovať v monitorovaní nových porušení ochrany vašich osobných údajov.
 firefox-privacy-hub-check-for-breaches = Skontrolovať úniky
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Heslá a prihlasovacie údaje, ktoré uložíte cez službu { -brand-name-firefox-lockwise }, sú zašifrované na všetkých vašich zariadeniach, takže ich nevidíme ani my.

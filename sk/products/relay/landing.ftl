@@ -28,10 +28,22 @@ how-it-works-section-manage-body = Prihláste sa do Nástenky služby { -brand-n
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Recenzie
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Doplnky
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Zdroj: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+        [one] z 5 ({ $review_count } recenzia)
+        [few] z 5 ({ $review_count } recenzie)
+        [many] z 5 ({ $review_count } recenzií)
+       *[other] z 5 ({ $review_count } recenzií)
+    }
 landing-reviews-show-next-button = zobraziť ďalšiu recenziu
 landing-reviews-show-previous-button = zobraziť predchádzajúcu recenziu
 landing-review-anonymous-user = Používateľ { -brand-name-firefox(case: "gen") }  { $user_id }

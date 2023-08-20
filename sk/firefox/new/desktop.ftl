@@ -24,7 +24,7 @@ firefox-desktop-download-browser-support = Podpora pre { -brand-name-firefox-bro
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Robte to, čo robíte online.<br> { -brand-name-firefox-browser } sa <strong>nepozerá</strong>.
 firefox-desktop-download-how-firefox-compares = Aký je { -brand-name-firefox } v porovnaní s inými prehliadačmi
-firefox-desktop-download-get-all-the-speed = Získajte všetku rýchlosť a nástroje bez narušenia súkromia. { -brand-name-firefox-browser } o vás zhromažďuje tak málo údajov, že na stiahnutie nepotrebujeme ani vašu e-mailovú adresu. Je to preto, že na rozdiel od iných prehliadačov nemáme žiadny finančný záujem na tom, aby sme vás sledovali na webe.
+firefox-desktop-download-get-all-the-speed = Získajte všetku rýchlosť a nástroje bez narušenia súkromia. { -brand-name-firefox-browser } o vás zhromažďuje tak málo údajov, že na stiahnutie nepotrebujeme ani vašu e‑mailovú adresu. Je to preto, že na rozdiel od iných prehliadačov nemáme žiadny finančný záujem na tom, aby sme vás sledovali na webe.
 firefox-desktop-download-how-we-compare = Ako sme na tom v porovnaní s inými prehliadačmi
 firefox-desktop-download-compare-firefox-to = Porovnať { -brand-name-firefox } s:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -147,7 +147,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Stránky podpory pre produkty { -brand-name-mozilla(gen: "gen") }</a> vám pomôžu.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Prehliadač { -brand-name-firefox } už máte. No to nie je jediná vec so značkou { -brand-name-firefox }.
-firefox-desktop-download-watch-for-hackers-with-v2 = Sledujte hackerov pomocou služby { -brand-name-firefox-monitor }, chráňte svoju e-mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
+firefox-desktop-download-watch-for-hackers-with-v2 = Sledujte hackerov pomocou služby { -brand-name-firefox-monitor }, chráňte svoju e‑mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Sledujte hackerov pomocou { -brand-name-firefox-monitor(case: "gen") }, chráňte svoje heslá pomocou { -brand-name-firefox-lockwise } a omnoho viac.
 firefox-desktop-download-get-more-from-firefox = Využívajte { -brand-name-firefox } naplno

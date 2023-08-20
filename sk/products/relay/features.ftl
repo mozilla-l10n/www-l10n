@@ -12,6 +12,15 @@ highlighted-features-section-title = Bezpečné a jednoduché funkcie na ochranu
 highlighted-features-section-bottom-title = Chráňte svoju identitu (a svoju e‑mailovú schránku) pomocou { -brand-name-firefox-relay }
 highlighted-features-section-bottom-cta = Začíname
 highlighted-features-section-unlimited-masks-headline = Vytvárajte neobmedzený počet e-mailových masiek
+# Variables:
+#   $mask_limit (number) - the number of masks included with a particular plan
+highlighted-features-section-unlimited-masks-body-v2 =
+    { $mask_limit ->
+        [one] Každý dostane { $mask_limit } e‑mailovú masku zadarmo. Avšak vďaka { -brand-name-relay-premium } môžete vygenerovať toľko masiek, koľko potrebujete, aby ste ochránili svoju e‑mailovú schránku pred spamermi, hackermi a online sledovačmi.
+        [few] Každý dostane { $mask_limit } e‑mailové masky zadarmo. Avšak vďaka { -brand-name-relay-premium } môžete vygenerovať toľko masiek, koľko potrebujete, aby ste ochránili svoju e‑mailovú schránku pred spamermi, hackermi a online sledovačmi.
+        [many] Každý dostane { $mask_limit } e‑mailových masiek zadarmo. Avšak vďaka { -brand-name-relay-premium } môžete vygenerovať toľko masiek, koľko potrebujete, aby ste ochránili svoju e‑mailovú schránku pred spamermi, hackermi a online sledovačmi.
+       *[other] Každý dostane { $mask_limit } e‑mailových masiek zadarmo. Avšak vďaka { -brand-name-relay-premium } môžete vygenerovať toľko masiek, koľko potrebujete, aby ste ochránili svoju e‑mailovú schránku pred spamermi, hackermi a online sledovačmi.
+    }
 highlighted-features-section-masks-on-the-go-headline = Okamžité vytváranie masiek nech ste kdekoľvek
 # Variables:
 #   $mozmail (string): domain used by Relay masks (mozmail.com)
