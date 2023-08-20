@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 და ზემოთ)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 და ზემოთ)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 და ზემოთ)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (მხოლოდ { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-მხოლოდ)
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 და ზემოთ)
 vpn-landing-faq-refund-question-heading = რა არის { -brand-name-mozilla-vpn }-ის ანაზღაურების დებულება?
 vpn-landing-faq-refund-question-desc-v2 = { -brand-name-mozilla-vpn } მომსახურების პირველად შეძენისას { -brand-name-mozilla }-ს საიტიდან, თუ 30 დღეში გააუქმებთ, საშუალება გექნებათ, მოითხოვოთ თანხის ანაზღაურება და { -brand-name-mozilla } უკან დაგიბრუნებთ პირველი ხელშეკრულების საფასურს.
 vpn-landing-faq-refund-question-additional-desc = თუ ხელშეკრულებისთვის აპლიკაციის შიდა შენაძენით ისარგებლებთ, { -brand-name-apple } { -brand-name-app-store } ან { -brand-name-google-play } მაღაზიაში, ანგარიშსწორება მოხდება იმ პირობებით, რომელთაც { -brand-name-app-store } აწესებს. თანხის ასანაზღაურებლად ნებისმიერი სახის მოთხოვნით, შესაბამისად უნდა მიმართოთ პირდაპირ { -brand-name-apple }-ს ან { -brand-name-google }-ს.
