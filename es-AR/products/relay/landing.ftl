@@ -44,6 +44,7 @@ landing-reviews-out-of-5 =
     }
 landing-reviews-show-next-button = mostrar la siguiente valoración
 landing-reviews-show-previous-button = mostrar valoración anterior
+landing-review-anonymous-user = Usuario de { -brand-name-firefox } { $user_id }
 landing-review-user-one-review = Realmente aprecio al equipo de { -brand-name-mozilla } por ser tan creativo y simplificar el anonimato de mi dirección de correo electrónico. Esta es una gran extensión, ¡se la recomiendo a los amantes de la privacidad!
 landing-review-user-two-review = Herramienta sencilla para eliminar o evitar el spam en tu ID de correo electrónico.
 landing-review-user-three-review = ¡Me encanta esta extensión! Muy simple pero poderoso y la integración con el navegador es maravillosa.

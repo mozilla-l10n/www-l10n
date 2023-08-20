@@ -30,7 +30,7 @@ bundle-feature-more-than-servers =
 #   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
 bundle-feature-more-than-countries =
     { $num_vpn_countries ->
-        [one] Más de { $num_vpn_countries } países
+        [one] Más de { $num_vpn_countries } país
        *[other] Más de { $num_vpn_countries } países
     }
 bundle-feature-three = Red rápida y segura

@@ -13,7 +13,7 @@ faq-question-what-is-question-2 = ¿Qué es una máscara de correo electrónico 
 faq-question-what-is-answer-2 = Las máscaras de correo electrónico son direcciones de correo electrónico enmascaradas o privadas que reenvían los mensajes a tu verdadera dirección de correo electrónico. Estas máscaras te permiten compartir una dirección con terceros que enmascararán tu verdadera dirección de correo electrónico y te reenviarán los mensajes a la misma.
 faq-question-missing-emails-question-2 = No estoy reci8biendo los mensajes de mis máscaras de correo electrónico
 faq-question-missing-emails-answer-a-2 = Hay algunas razones porque las que podrías no estar recibiendo correos electrónicos reenviados a tus máscaras. Estas razones incluyen:
-faq-question-missing-emails-answer-reason-spam = Los mensajes se van a convertir en spam
+faq-question-missing-emails-answer-reason-spam = Los mensajes van a ir a spam
 faq-question-missing-emails-answer-reason-blocked-2 = Tu proveedor de correo electrónico está bloqueando tus máscaras de correo electrónico
 # Variables:
 #  $size (number): maximum size for attachments in MB
@@ -23,17 +23,17 @@ faq-question-missing-emails-answer-reason-turned-off-2 = La máscara puede tener
 faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } puede estar tardando más de lo habitual en reenviar sus mensajes
 #   $url (url) - link to the support site
 #   $attrs (string) - specific attributes added to external links
-faq-question-missing-emails-answer-support-site-html = Si estás luchando con alguno de estos problemas, <a href="{ $url }" { $attrs }> visita nuestro sitio de ayuda </a>.
-faq-question-use-cases-question-2 = ¿Cuándo debería usar las máscaras de correo electrónico { -brand-name-relay }?
-faq-question-use-cases-answer-part1-2 = Puedes usar las máscaras de correo electrónico de { -brand-name-relay } en la mayoría de los lugares donde usarías tu dirección de correo electrónico habitual. Te recomendamos que los uses al registrarte para recibir correos electrónicos de marketing / información en los que quieras controlar si recibirás o no correos en el futuro.
-faq-question-use-cases-answer-part2-2 = No recomendamos el uso de máscaras cuando necesites verificar tu identidad o para correos electrónicos muy importantes o en los que tengas que recibir adjuntos. Por ejemplo, querés compartir tu verdadera dirección de correo electrónico con tu banco, tu doctor y tu abogado, así como cuando recibas pases de abordar para un concierto o un avión.
-faq-question-2-question-2 = ¿Por qué un sitio no acepta mi máscara de correo electrónico { -brand-name-relay }?
+faq-question-missing-emails-answer-support-site-html = Si estás luchando con alguno de estos problemas, <a href="{ $url }" { $attrs }>visitá nuestro sitio de ayuda</a>.
+faq-question-use-cases-question-2 = ¿Cuándo debería usar las máscaras de correo electrónico de { -brand-name-relay }?
+faq-question-use-cases-answer-part1-2 = Podés usar las máscaras de correo electrónico de { -brand-name-relay } en la mayoría de los lugares donde usarías tu dirección de correo electrónico habitual. Te recomendamos que las uses al registrarte para recibir correos electrónicos de marketing/información en los que quieras controlar si recibirás o no correos en el futuro.
+faq-question-use-cases-answer-part2-2 = No recomendamos el uso de máscaras cuando necesités verificar tu identidad, para correos electrónicos muy importantes o en los que tengas que recibir adjuntos. Por ejemplo, querés compartir tu verdadera dirección de correo electrónico con tu banco, tu doctor y tu abogado, así como cuando recibás entradas para un concierto o tarjetas de embarque de un avión.
+faq-question-2-question-2 = ¿Por qué un sitio no acepta mi máscara de correo electrónico de { -brand-name-relay }?
 # Variables:
 #   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
 #   $attrs (string) - specific attributes added to external links
-faq-question-2-answer-v4 = Algunos sitios pueden no aceptar una dirección de correo electrónico que incluya un subdominio (@ subdomain.mozmail.com) y otros han dejado de aceptar todas las direcciones excepto las de cuentas de Gmail, Hotmail o Yahoo.
+faq-question-2-answer-v4 = Algunos sitios pueden no aceptar una dirección de correo electrónico que incluya un subdominio (@subdominio.mozmail.com) y otros han dejado de aceptar todas las direcciones excepto las de cuentas de Gmail, Hotmail o Yahoo.
 faq-question-1-question = ¿Y el spam?
-faq-question-1-answer-a-2 = Si bien { -brand-name-relay } no filtra el spam, nuestro socio de correo electrónico Amazon SES bloquea el spam y el malware. Si { -brand-name-relay } reenvía mensajes que no desea, puede actualizar la configuración de { -brand-name-relay } para bloquear mensajes de la máscara que los reenvía.
+faq-question-1-answer-a-2 = Si bien { -brand-name-relay } no filtra el spam, nuestro socio de correo electrónico Amazon SES bloquea el spam y el malware. Si { -brand-name-relay } reenvía mensajes que no querés, podés actualizar la configuración de { -brand-name-relay } para bloquear mensajes de la máscara que los reenvía.
 # Variables:
 #   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
 #   $attrs (string) - specific attributes added to external links
@@ -71,9 +71,6 @@ faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } tiene 
 faq-question-acceptable-use-answer-measure-account = Requerir una { -brand-name-firefox-account } con una dirección de correo electrónico verificada
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Requerir un pago para que un usuario cree más de cinco máscaras
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Tasa de limitar el número de máscaras que se pueden generar en un día
-#   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/
-#   $attrs (string) - specific attributes added to external links
-faq-question-acceptable-use-answer-b-html = Para obtener más información, revisa nuestros <a href="{ $url }" { $attrs }> Términos de servicio </a>.
 faq-question-promotional-email-blocking-question = ¿Qué es el bloqueo de correos electrónicos promocionales?
 faq-question-promotional-email-blocking-answer = Los suscriptores de { -brand-name-relay-premium } pueden habilitar el bloqueo de correo electrónico promocional. Esta función te reenviará correos electrónicos importantes, como recibos, restablecimientos de contraseñas y confirmaciones, mientras bloquea los mensajes de marketing. Existe un ligero riesgo de que un mensaje importante aún se bloquee, por lo que te recomendamos que no uses esta función para lugares muy importantes como tu banco. Si un correo electrónico está bloqueado, no podrá recuperarse.
 faq-question-detect-promotional-question = ¿Cómo detecta { -brand-name-relay } si un correo electrónico es promocional o no?
