@@ -139,7 +139,7 @@ vpn-landing-invite-page-desc-v2 = Dáme vám vedieť, keď bude { -brand-name-mo
 # Outdated string
 vpn-landing-invite-page-desc = Dáme vám vedieť, keď bude { -brand-name-mozilla-vpn } k dispozícii pre vaše zariadenie a región.
 vpn-landing-invite-page-heading = Pridajte sa na zoznam čakateľov na VPN
-vpn-landing-invite-email-label = Aká je vaša e-mailová adresa?
+vpn-landing-invite-email-label = Aká je vaša e‑mailová adresa?
 vpn-landing-invite-required-label = Požadované
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = vasa_adresa@example.com
@@ -150,7 +150,7 @@ vpn-landing-invite-language-label = Vyberte si vami požadovaný jazyk.
 vpn-landing-invite-privacy-policy = Kliknutím na tlačidlo „Pridať sa na zoznam čakateľov“ súhlasíte s našimi <a href="{ $privacy }">Zásadami ochrany osobných údajov</a>.
 vpn-landing-invite-your-information = Vaše informácie budú použité iba na informovanie o dostupnosti.
 vpn-landing-invite-thanks-heading = Vďaka! Ste na zozname
-vpn-landing-invite-thanks-desc = Hneď ako bude { -brand-name-mozilla-vpn } k dispozícii pre váš región, pošleme vám e-mail.
+vpn-landing-invite-thanks-desc = Hneď ako bude { -brand-name-mozilla-vpn } k dispozícii pre váš región, pošleme vám e‑mail.
 
 ##
 

@@ -12,7 +12,7 @@ waitlist-lead-2 = Dáme vám vedieť, keď bude { -brand-name-relay-premium } vo
 waitlist-lead-phone = Dáme vám vedieť, keď bude maskovanie telefónneho čísla dostupné vo vašej oblasti.
 waitlist-lead-bundle = Dáme vám vedieť, keď budete môcť získať { -brand-name-relay-premium } a { -brand-name-mozilla-vpn } so zľavou vo vašej oblasti.
 waitlist-control-required = Vyžadované
-waitlist-control-email-label = Aká je vaša e-mailová adresa?
+waitlist-control-email-label = Aká je vaša e‑mailová adresa?
 # Please only translate `yourname`; example.com is an actual example domain that is safe to use.
 waitlist-control-email-placeholder = vasemeno@example.com
 waitlist-control-country-label-2 = V ktorej krajine alebo regióne žijete?
