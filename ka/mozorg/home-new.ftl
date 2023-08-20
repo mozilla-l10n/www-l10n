@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
+home-internet-for-people-not-profit = ინტერნეტი ხალხისთვის და არა მოგებისთვის
+home-did-you-know-mozilla-the-maker = იცოდით თუ არა, რომ { -brand-name-mozilla } — { -brand-name-firefox }-ის შემქმნელი — იბრძვის იმისთვის, რომ ინტერნეტი დარჩეს საერთაშორისო, საჯარო და საყოველთაო ხელმისაწვდომ რესურსად.
 home-mission-driven = მუდამ მიზნისკენ მავალი. ხალხის ძალით მართული.
 home-were-not-normal = ჩვენ არ ვართ რიგითი ტექკომპანია. ჩვენი ქმნილებებისთვის უპირატესია ხალხი, მათი პირადულობა, ნაცვლად მოგების მიღებისა. ჩვენ ვარსებობთ იმისთვის, რომ ინტერნეტი გავხადოთ მეტად ჯანსაღი და ხელსაყრელი ყველასთვის.
 # Quotes around string to represent it being a quote by Mitchell Baker
