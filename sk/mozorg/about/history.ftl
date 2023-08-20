@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = História projektu { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Projekt { -brand-name-mozilla } <a href="{ $coderush }">vznikol v&nbsp;roku 1998</a> spolu s <a href="{ $sourcerelease }">vydaním sady otvoreného zdrojového kódu prehliadača { -brand-name-netscape }</a>.
 history-it-was-intended-to-harness = Bol určený na využitie tvorivej sily tisícov programátorov na internete a ako palivo bezprecedentných úrovní inovácie na trhu prehliadačov.
@@ -26,7 +26,7 @@ history-community-members-got-involved = Členovia komunity sa zapojili a rozš�
 history-people-contributed-to-mozilla = Ľudia prispievali do { -brand-name-mozilla(case: "gen") } rôznymi spôsobmi, ale každý bol nadšený z vytvárania voľného softvéru, ktorý by umožnil ľuďom mať možnosť voľby v tom, ako zažívajú internet.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
-history-after-several-years-of-development = Po niekoľkých rokoch vývoja bola v&nbsp;roku 2002 vydaná <a href="{ $mozilla1 }">{ -brand-name-mozilla }&nbsp;1.0</a>, prvá významná verzia. Táto verzia uviedla veľa vylepšení do prehliadača, e-mailového klienta a ďalších aplikácií zahrnutých v sade programov, ale nevyužívalo ich veľa ľudí.
+history-after-several-years-of-development = Po niekoľkých rokoch vývoja bola v&nbsp;roku 2002 vydaná <a href="{ $mozilla1 }">{ -brand-name-mozilla }&nbsp;1.0</a>, prvá významná verzia. Táto verzia uviedla veľa vylepšení do prehliadača, e‑mailového klienta a ďalších aplikácií zahrnutých v sade programov, ale nevyužívalo ich veľa ľudí.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = V roku 2002 <a href="{ $over90 }">viac ako 90% internetových používateľov</a> používalo pri prehliadaní webu { -brand-name-ie }.

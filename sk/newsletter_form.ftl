@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-newsletter-form-please-enter-a-valid = Zadajte platnú e-mailovú adresu
+newsletter-form-please-enter-a-valid = Zadajte platnú e‑mailovú adresu
 newsletter-form-you-must-agree-to = Musíte súhlasiť s Vyhlásením o ochrane osobných údajov
-newsletter-form-your-email-address = Vaša e-mailová adresa
+newsletter-form-your-email-address = Vaša e‑mailová adresa
 newsletter-form-we-are-sorry-but-there = Ospravedlňujeme sa, ale v našom systéme sa vyskytol problém. Skúste neskôr prosím!
 newsletter-form-please-select-country = Zvoľte krajinu alebo oblasť
 newsletter-form-please-select-language = Zvoľte jazyk
@@ -12,7 +12,7 @@ newsletter-form-please-select-language = Zvoľte jazyk
 newsletter-form-yournameexamplecom = vasa_adresa@example.com
 newsletter-form-select-country-or-region = Vyberte krajinu alebo oblasť
 newsletter-form-select-language = Zvoľte si jazyk
-newsletter-form-your-email-here = VAŠA E-MAILOVÁ ADRESA
+newsletter-form-your-email-here = VAŠA E‑MAILOVÁ ADRESA
 newsletter-form-format = Formát
 newsletter-form-html = HTML
 newsletter-form-text = Text
@@ -22,7 +22,7 @@ newsletter-form-get-firefox-news = Získajte novinky o { -brand-name-firefox(cas
 newsletter-form-im-okay-with-mozilla = Beriem na vedomie, že { -brand-name-mozilla } spracuje tieto údaje v súlade s <a href="{ $url }">Vyhlásením o ochrane osobných údajov</a>
 newsletter-form-we-will-only-send = Zasielať Vám budeme len informácie týkajúce sa { -brand-name-mozilla(case: "gen") }.
 newsletter-form-we-will-only-send-firefox = Zasielať Vám budeme len informácie týkajúce sa { -brand-name-firefox(case: "gen") }.
-newsletter-form-if-you-havent-previously = Ak ste v minulosti nepotvrdili odber noviniek { -brand-name-mozilla(case: "gen") }, budete to musieť urobiť teraz. Pozrite sa, prosím, do vašej e-mailovej schránky, prípadne i do priečinku s nevyžiadanou poštou, či sa tam nenachádza e-mail od nás.
+newsletter-form-if-you-havent-previously = Ak ste v minulosti nepotvrdili odber noviniek { -brand-name-mozilla(case: "gen") }, budete to musieť urobiť teraz. Pozrite sa, prosím, do vašej e‑mailovej schránky, prípadne i do priečinku s nevyžiadanou poštou, či sa tam nenachádza e‑mail od nás.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> a vy
 newsletter-form-get-firefox-tips = Získajte tipy, triky a novinky o { -brand-name-firefox(case: "loc") }
 newsletter-form-keep-up-with = Zostaňte v spojení<br> s { -brand-name-firefox(case: "ins") }.

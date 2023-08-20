@@ -9,22 +9,22 @@
 ## FAQ Page
 
 faq-headline = Často kladené otázky
-faq-question-what-is-question-2 = Čo je e-mailová maska služby { -brand-name-relay }?
-faq-question-what-is-answer-2 = E-mailové masky sú maskované e-mailové adresy, ktoré preposielajú správy na vašu skutočnú e-mailovú adresu. Tieto masky vám umožňujú s tretími stranami zdieľať vygenerovanú adresu, čím zamaskujete vašu skutočnú e-mailovú adresu.
-faq-question-missing-emails-question-2 = Nedostávam správy z mojich e-mailových masiek
-faq-question-missing-emails-answer-a-2 = Existuje niekoľko dôvodov, prečo nemusíte nedostávať e-maily preposielané cez vaše masky. Medzi tieto dôvody patria:
+faq-question-what-is-question-2 = Čo je e‑mailová maska služby { -brand-name-relay }?
+faq-question-what-is-answer-2 = E‑mailové masky sú maskované e‑mailové adresy, ktoré preposielajú správy na vašu skutočnú e‑mailovú adresu. Tieto masky vám umožňujú s tretími stranami zdieľať vygenerovanú adresu, čím zamaskujete vašu skutočnú e‑mailovú adresu.
+faq-question-missing-emails-question-2 = Nedostávam správy z mojich e‑mailových masiek
+faq-question-missing-emails-answer-a-2 = Existuje niekoľko dôvodov, prečo nemusíte nedostávať e‑maily preposielané cez vaše masky. Medzi tieto dôvody patria:
 faq-question-missing-emails-answer-reason-spam = Správy sa dostávajú do spamu
-faq-question-missing-emails-answer-reason-blocked-2 = Váš poskytovateľ e-mailu blokuje vaše e-mailové masky
-faq-question-missing-emails-answer-reason-not-accepted-2 = Stránka neprijíma e-mailové masky
+faq-question-missing-emails-answer-reason-blocked-2 = Váš poskytovateľ e‑mailu blokuje vaše e‑mailové masky
+faq-question-missing-emails-answer-reason-not-accepted-2 = Stránka neprijíma e‑mailové masky
 faq-question-missing-emails-answer-reason-turned-off-2 = Maska môže mať vypnuté preposielanie správ
 faq-question-missing-emails-answer-reason-delay = Službe { -brand-name-relay } môže preposielanie vašich správ trvať dlhšie ako zvyčajne
 #   $url (url) - link to the support site
 #   $attrs (string) - specific attributes added to external links
 faq-question-missing-emails-answer-support-site-html = Ak ste narazili na ktorýkoľvek z týchto problémov, <a href="{ $url }" { $attrs }>navštívte našu stránku podpory</a>.
-faq-question-use-cases-question-2 = Kedy by som mal použiť e-mailové masky služby { -brand-name-relay }?
-faq-question-use-cases-answer-part1-2 = Masky služby { -brand-name-relay } môžete použiť na väčšine miest, kde by ste použili svoju bežnú e-mailovú adresu. Odporúčame ich používať pri registrácii na odber marketingových/informačných e-mailov, kde možno budete chcieť kontrolovať, či budete v budúcnosti dostávať e-maily alebo nie.
-faq-question-use-cases-answer-part2-2 = Neodporúčame používať masky, keď potrebujete overiť svoju identitu alebo pre veľmi dôležité e-maily alebo tie, kde musíte dostávať prílohy. Napríklad by ste chceli zdieľať svoju skutočnú e-mailovú adresu so svojou bankou, lekárom a právnikom, ako aj pri objednávaní lístkov na koncert či palubných lístkov na váš let.
-faq-question-2-question-2 = Prečo stránka neprijme moju e-mailovú masku { -brand-name-relay }?
+faq-question-use-cases-question-2 = Kedy by som mal použiť e‑mailové masky služby { -brand-name-relay }?
+faq-question-use-cases-answer-part1-2 = Masky služby { -brand-name-relay } môžete použiť na väčšine miest, kde by ste použili svoju bežnú e‑mailovú adresu. Odporúčame ich používať pri registrácii na odber marketingových/informačných e‑mailov, kde možno budete chcieť kontrolovať, či budete v budúcnosti dostávať e‑maily alebo nie.
+faq-question-use-cases-answer-part2-2 = Neodporúčame používať masky, keď potrebujete overiť svoju identitu alebo pre veľmi dôležité e‑maily alebo tie, kde musíte dostávať prílohy. Napríklad by ste chceli zdieľať svoju skutočnú e‑mailovú adresu so svojou bankou, lekárom a právnikom, ako aj pri objednávaní lístkov na koncert či palubných lístkov na váš let.
+faq-question-2-question-2 = Prečo stránka neprijme moju e‑mailovú masku { -brand-name-relay }?
 # Variables:
 #   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
 #   $attrs (string) - specific attributes added to external links

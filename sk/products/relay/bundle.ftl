@@ -12,7 +12,7 @@ bundle-banner-header-2 = Len časovo obmedzené: { -brand-name-relay-premium } +
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
 bundle-banner-body-v2 = { -brand-name-mozilla-vpn } vás chráni pred sledovaním pri hraní hier, online bankovníctve alebo pri vykonávaní práce. Pridajte si ju k službe { -brand-name-firefox-relay } a získajte zľavu { $savings } %.
 bundle-banner-plan-header-2 = Váš 1-ročný plán zahŕňa:
-bundle-banner-plan-modules-email-masking = Maskovanie e-mailov
+bundle-banner-plan-modules-email-masking = Maskovanie e‑mailov
 bundle-banner-plan-modules-phone-masking = Maskovanie telefónneho čísla
 bundle-banner-plan-modules-mozilla-vpn = { -brand-name-mozilla-vpn }
 bundle-banner-cta = Získajte { -brand-name-mozilla-vpn } + { -brand-name-relay }
