@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
+waitlist-premium-name = { -brand-name-relay-premium }
+waitlist-bundle-name = Pacchetto { -brand-name-relay } + { -brand-name-vpn }
 waitlist-heading-2 = Junge te al lista de attendentia de { -brand-name-relay-premium }
 waitlist-heading-phone = Inscribe te al lista de attender pro mascas de telephono de < { -brand-name-relay }
 waitlist-heading-bundle = Inscribe te al lista de attender pro le pacchetto { -brand-name-relay } + { -brand-name-vpn }
@@ -24,4 +26,15 @@ waitlist-privacy-policy-agree-2 = Cliccante sur â€œ{ waitlist-submit-label-2 }â€
 waitlist-privacy-policy-use = Tu informationes solo sera usate pro notificar te re le disponibilitate de { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Tu informationes sera solo usate pro notificar te quando le mascas pro telephono sera disponibile in tu area.
 waitlist-privacy-policy-use-bundle = Tu informationes sera solo usate pro allertar te re le disponibilitate del pacchetto { -brand-name-relay } + { -brand-name-vpn }.
+waitlist-subscribe-success-title = Gratias! Tu es in le lista
+# Variables:
+#   $product (string) one of the following three options:
+#      - { -brand-name-relay-premium }
+#      - { waitlist-bundle-name }
+#      - { waitlist-phone-name }
+waitlist-subscribe-success-email-desc = Quando { -brand-name-relay-premium } sera disponibile pro tu region, nos te inviara un email.
+waitlist-subscribe-success-bundle-desc = Quando { -brand-name-relay } + { -brand-name-vpn } sera disponibile pro tu region, nos te inviara un email.
+waitlist-subscribe-please-enter-a-valid = Insere un adresse email valide
+waitlist-subscribe-please-select-country = Elige un pais o region
+waitlist-subscribe-please-select-language = Elige un lingua
 waitlist-subscribe-error-unknown = Un error occurreva addente te al lista de attendentia. Reproba per favor.
