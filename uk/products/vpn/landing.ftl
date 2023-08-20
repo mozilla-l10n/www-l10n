@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 та новіші)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 та новіші)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 і новіші)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (лише { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (лише { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 та новіші)
 vpn-landing-faq-refund-question-heading = Яка політика відшкодування { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Якщо ви вперше передплачуєте { -brand-name-mozilla-vpn } через вебсайт { -brand-name-mozilla }, а потім скасуєте передплату протягом перших 30 днів, ви можете подати запит на відшкодування і { -brand-name-mozilla } поверне гроші за ваш перший термін передплати.
 vpn-landing-faq-refund-question-additional-desc = Якщо ви здійснюєте передплату через { -brand-name-apple } { -brand-name-app-store } або { -brand-name-google-play } Маркет, ваш платіж підлягає під положення та умови { -brand-name-app-store }. Будь-які запити щодо виставлення рахунків та відшкодування таких покупок необхідно направити на адресу { -brand-name-apple } або { -brand-name-google }, залежно від обставин.
