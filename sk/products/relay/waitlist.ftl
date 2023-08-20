@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
+waitlist-premium-name = { -brand-name-relay-premium }
+waitlist-bundle-name = Balík { -brand-name-relay } + { -brand-name-vpn }
+waitlist-phone-name = Maskovanie telefónu službou { -brand-name-relay }
 waitlist-heading-2 = Pridajte sa do zoznamu čakateľov na { -brand-name-relay-premium }
 waitlist-heading-phone = Pridajte sa do zoznamu čakateľov na maskovanie telefónneho čísla pomocou { -brand-name-relay }
 waitlist-heading-bundle = Pridajte sa do zoznamu čakateľov na balík { -brand-name-relay } + { -brand-name-vpn }
@@ -24,4 +27,14 @@ waitlist-privacy-policy-agree-2 = Kliknutím na “{ waitlist-submit-label-2 }�
 waitlist-privacy-policy-use = Vaše informácie budú použité iba na to, aby sme vás informovali o dostupnosti služby { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Vaše informácie sa použijú iba na to, aby sme vás upozornili, keď bude vo vašej oblasti k dispozícii maskovanie telefónneho čísla.
 waitlist-privacy-policy-use-bundle = Vaše informácie budú použité iba na to, aby sme vás informovali o dostupnosti balíka { -brand-name-relay } + { -brand-name-vpn }.
+waitlist-subscribe-success-title = Vďaka! Ste na zozname
+# Variables:
+#   $product (string) one of the following three options:
+#      - { -brand-name-relay-premium }
+#      - { waitlist-bundle-name }
+#      - { waitlist-phone-name }
+waitlist-subscribe-success-email-desc = Hneď ako bude { -brand-name-relay-premium } k dispozícii pre váš región, pošleme vám e‑mail.
+waitlist-subscribe-success-phone-desc = Hneď ako bude maskovanie telefónu službou { -brand-name-relay } k dispozícii pre váš región, pošleme vám e‑mail.
+waitlist-subscribe-success-bundle-desc = Hneď ako bude balík { -brand-name-relay } + { -brand-name-vpn } k dispozícii pre váš región, pošleme vám e‑mail.
+waitlist-subscribe-please-enter-a-valid = Zadajte platnú e‑mailovú adresu
 waitlist-subscribe-error-unknown = Pri pridávaní vás do zoznamu čakateľov sa vyskytla chyba. Prosím skúste znova.
