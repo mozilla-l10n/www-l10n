@@ -37,7 +37,7 @@ faq-question-1-answer-a-2 = Aj keď { -brand-name-relay } nefiltruje nevyžiadan
 # Variables:
 #   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
 #   $attrs (string) - specific attributes added to external links
-faq-question-1-answer-b-2-html = Ak vidíte širší problém s nevyžiadanou poštou zo všetkých vašich masiek, <a href="{ $url }" { $attrs }> nahláste nám to </a>, aby sme mohli zvážiť úpravu nastavení filtrov nevyžiadanej pošty SES pre túto službu. Ak totiž tieto správy nahlásite ako nevyžiadanú poštu priamo vášmu poskytovateľovi e‑mailovej schránky, tento uvidí ako zdroj spamu službu { -brand-name-relay }, nie pôvodného odosielateľa.
+faq-question-1-answer-b-2-html = Ak vidíte širší problém s nevyžiadanou poštou zo všetkých vašich masiek, <a href="{ $url }" { $attrs }> nahláste nám to</a>, aby sme mohli zvážiť úpravu nastavení filtrov nevyžiadanej pošty SES pre túto službu. Ak totiž tieto správy nahlásite ako nevyžiadanú poštu priamo vášmu poskytovateľovi e‑mailovej schránky, tento uvidí ako zdroj spamu službu { -brand-name-relay }, nie pôvodného odosielateľa.
 faq-question-availability-question = Kde je služba { -brand-name-relay } k dispozícii?
 faq-question-availability-answer-v3 = Bezplatná verzia { -brand-name-relay } je dostupná vo väčšine krajín. { -brand-name-relay-premium } je k dispozícii v Rakúsku, Belgicku, Kanade, na Cypre, Estónsku, Fínsku, Francúzsku, Nemecku, Grécku, Írsku, Taliansku, Lotyšsku, Litve, Luxembursku, Malajzii, Malte, Holandsku, Novom Zélande, Portugalsku, Singapure, Slovensku, Slovinsku, Španielsku, Švédsku, Švajčiarsku, Veľkej Británii a USA.
 faq-question-landing-page-availability = Bezplatná služba { -brand-name-relay } je dostupná vo väčšine krajín. Maskovanie e‑mailov službou { -brand-name-relay-premium } je dostupné v USA, Nemecku, Veľkej Británii, Kanade, Singapure, Malajzii, Novom Zélande, Francúzsku, Belgicku, Rakúsku, Španielsku, Taliansku, Švajčiarsku, Holandsku a Írsku. Maskovanie telefónu službou { -brand-name-relay-premium } je dostupné iba v USA a Kanade.
@@ -114,3 +114,18 @@ phone-masking-faq-answer-can-i-call = Nie, môžete zdvihnúť iba presmerovaný
 phone-masking-faq-question-can-i-see = Môžem vidieť, kto mi písal alebo volal?
 phone-masking-faq-answer-can-i-see = Áno, vidíte číslo, ktoré vám poslalo SMS alebo zavolalo. Môžete tiež zakázať ukladanie týchto záznamov, ale stratíte možnosť odpovedať alebo blokovať jednotlivých volajúcich a odosielateľov SMS.
 phone-masking-faq-question-can-i-block = Môžem zablokovať hovor alebo SMS?
+phone-masking-faq-answer-can-i-block = Môžete zablokovať všetky presmerovania z konkrétneho čísla.
+phone-masking-faq-question-spam = Čo ak moja maska telefónu začne dostávať spam?
+phone-masking-faq-answer-spam = Ak začnete dostávať spam, môžete zablokovať čísla, ktoré vám posielajú spam.
+phone-masking-faq-question-disable-logging = Môžem zakázať zaznamenávanie volajúcich alebo odosielateľov textových správ?
+phone-masking-faq-answer-disable-logging = Áno, môžete zakázať zaznamenávanie čísel na Nástenke služby { -brand-name-relay }. Už však nebudete môcť odpovedať na textové správy ani blokovať konkrétne čísla, pretože pomocou denníka dokážeme sledovať, kto vám poslal textovú správu.
+phone-masking-faq-question-can-i-share = Môžem zdieľať číslo, ktoré mi preposiela textové správy?
+phone-masking-faq-answer-can-i-share = Ak toto číslo zdieľate, nič sa nestane – toto číslo nie je maskou vášho telefónneho čísla. Je to len kontaktné číslo, z ktorého bude { -brand-name-relay } preposielať vaše SMS a hovory.
+phone-masking-faq-question-how-i-save-card = Ako uložím vizitku kontaktu { -brand-name-relay }?
+phone-masking-faq-answer-how-i-save-card = Po inovácii na maskovanie telefónneho čísla službou { -brand-name-relay } vám pošleme textovú správu s vizitkou kontaktu, ktorá obsahuje číslo, z ktorého budete dostávať presmerované hovory a textové správy, podobne ako každá iná vizitka, na ktorej sú uložené telefónne čísla ľudí, ktorí vás kontaktujú. Na väčšine zariadení si môžete vizitku uložiť ako ktorýkoľvek iný kontakt v telefóne.
+phone-masking-faq-question-install-app = Musím si nainštalovať aplikáciu, aby som mohol používať maskovanie telefónu { -brand-name-relay }?
+phone-masking-faq-answer-install-app = Nie, maskovanie telefónu službou { -brand-name-relay } funguje pomocou štandardných aplikácií na odosielanie textových správ a volaní vášho zariadenia.
+phone-masking-faq-question-data = Aké druhy údajov ukladá maskovanie telefónu službou { -brand-name-relay }?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Prečítajte si <a href="{ $url }" { $attrs }>Zásady ochrany osobných údajov služby { -brand-name-firefox-relay }</a>.
