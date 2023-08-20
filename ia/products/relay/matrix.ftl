@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
+
 
 ## PRICING MATRIX SECTION
 
@@ -16,6 +18,7 @@ plan-matrix-heading-features = Functiones
 plan-matrix-heading-plan-free = Protection de email limitate
 plan-matrix-heading-plan-premium = Protection email
 plan-matrix-heading-plan-phones = Protection email e telephono
+plan-matrix-heading-plan-bundle-v2 = Adder protection VPN
 
 ## Feature Breakdowns
 
@@ -26,6 +29,7 @@ plan-matrix-feature-promo-email-blocking = Blocar e-mails promotional
 plan-matrix-feature-email-subdomain = Dominio email { -brand-name-relay } pro crear mascas al volo
 plan-matrix-feature-email-reply = Responder anonymemente al emails
 plan-matrix-feature-phone-mask = Masca de telephono pro proteger tu real numero de telephono
+plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
@@ -36,6 +40,7 @@ plan-matrix-feature-mobile-promo-email-blocking = Blocar e-mails promotional
 plan-matrix-feature-mobile-email-subdomain = Domino email unic { -brand-name-relay }
 plan-matrix-feature-mobile-email-reply = Responde anonymemente al emails
 plan-matrix-feature-mobile-phone-mask = Proteger tu numero de telephono real
+plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 
