@@ -71,6 +71,9 @@ faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } tiene 
 faq-question-acceptable-use-answer-measure-account = Requerir una { -brand-name-firefox-account } con una dirección de correo electrónico verificada
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Requerir un pago para que un usuario cree más de cinco máscaras
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Tasa de limitar el número de máscaras que se pueden generar en un día
+#   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-acceptable-use-answer-b-html = Para obtener más información, revisa nuestros <a href="{ $url }" { $attrs }> Términos de servicio </a>.
 faq-question-promotional-email-blocking-question = ¿Qué es el bloqueo de correos electrónicos promocionales?
 faq-question-promotional-email-blocking-answer = Los suscriptores de { -brand-name-relay-premium } pueden habilitar el bloqueo de correo electrónico promocional. Esta función te reenviará correos electrónicos importantes, como recibos, restablecimientos de contraseñas y confirmaciones, mientras bloquea los mensajes de marketing. Existe un ligero riesgo de que un mensaje importante aún se bloquee, por lo que te recomendamos que no uses esta función para lugares muy importantes como tu banco. Si un correo electrónico está bloqueado, no podrá recuperarse.
 faq-question-detect-promotional-question = ¿Cómo detecta { -brand-name-relay } si un correo electrónico es promocional o no?
