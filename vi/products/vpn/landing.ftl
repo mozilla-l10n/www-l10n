@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 trở lên)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 trở lên)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 trở lên)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (chỉ { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (chỉ phiên bản { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 trở lên)
 vpn-landing-faq-refund-question-heading = Chính sách hoàn lại tiền của { -brand-name-mozilla-vpn } là gì?
 vpn-landing-faq-refund-question-desc-v2 = Lần đầu tiên bạn đăng ký { -brand-name-mozilla-vpn } thông qua trang web của { -brand-name-mozilla }, nếu bạn hủy tài khoản của mình trong vòng 30 ngày đầu tiên, bạn có thể yêu cầu hoàn lại tiền và { -brand-name-mozilla } sẽ hoàn lại tiền cho thời hạn thuê bao đầu tiên của bạn.
 vpn-landing-faq-refund-question-additional-desc = Nếu bạn mua đăng ký của mình thông qua mua hàng trong ứng dụng từ { -brand-name-apple } { -brand-name-app-store } hoặc Cửa hàng { -brand-name-google-play }, thì khoản thanh toán của bạn phải tuân theo các điều khoản và điều kiện của { -brand-name-app-store }. Bạn phải chuyển mọi yêu cầu thanh toán và hoàn tiền cho các giao dịch mua đó đến { -brand-name-apple } hoặc { -brand-name-google }, nếu thích hợp.

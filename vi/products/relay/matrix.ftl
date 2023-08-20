@@ -5,16 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
 
+plan-matrix-title = Bảng giá
 
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = Chọn mức độ bảo vệ phù hợp với bạn
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } bảo vệ danh tính và hộp thư đến của bạn bằng các mặt nạ email độc đáo. Thêm vào bảo mật hơn nữa với mặt nạ điện thoại của { -brand-name-relay }, và tiết kiệm { $savings }% bằng cách thêm bảo vệ với { -brand-name-mozilla-vpn }.
 
 ## Top Row Labels
 
 # Variables:
 #   $savings (string) - the percentage saved (including % symbol) for a given plan. Examples: 50%, 70%
 plan-matrix-heading-features = Tính năng
+plan-matrix-heading-plan-free = Bảo vệ email với hạn chế
 plan-matrix-heading-plan-premium = Bảo vệ email
 plan-matrix-heading-plan-phones = Bảo vệ email & điện thoại
 plan-matrix-heading-plan-bundle-v2 = Thêm bảo vệ với VPN

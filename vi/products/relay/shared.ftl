@@ -11,4 +11,6 @@ relay-shared-subnav-title = { -brand-name-firefox-relay }
 relay-shared-subnav-premium = { -brand-name-relay-premium }
 relay-shared-subnav-faq = Câu hỏi thường gặp { -brand-name-relay }
 nav-profile-sign-in = Đăng nhập
+# Page description
+meta-description-2 = { -brand-name-firefox-relay } giúp bạn dễ dàng tạo mặt nạ email để chuyển tiếp thư đến hộp thư đến thực sự của mình. Sử dụng chúng để bảo vệ tài khoản trực tuyến của bạn khỏi tin tặc và các thư không mong muốn.
 hero-section-cta = Bắt đầu
