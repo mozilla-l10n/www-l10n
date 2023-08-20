@@ -7,6 +7,8 @@
 
 home-internet-for-people-not-profit = Internet pro personas, non pro ganio
 home-did-you-know-mozilla-the-maker = Sape tu? { -brand-name-mozilla } — le fabricante del { -brand-name-firefox } — lucta pro mantener Internet un global public ressource, aperte e accessibile a omnes.
+home-mission-driven = Ducite per mission. Supportate per personas.
+home-were-not-normal = Nos non es un normal compania technologic. Le cosas que nos crea confere prioritate al gente e a lor confidentialitate super le profitos.
 home-cta-get-firefox = Discarga { -brand-name-firefox }
 home-cta-get-pocket = Obtene { -brand-name-pocket }
 home-cta-get-relay = Obtene { -brand-name-relay }
