@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (verzia 12.0 a novšia)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } verzia 18.04 a novšia)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 a vyššie)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (len { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (len { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } verzia 18.04 a novšia)
 vpn-landing-faq-refund-question-heading = Aké sú pri { -brand-name-mozilla-vpn } podmienky vrátenia peňazí?
 vpn-landing-faq-refund-question-desc-v2 = Ak pri prvom prihlásení na odber predplatného { -brand-name-mozilla-vpn } prostredníctvom webovej stránky { -brand-name-mozilla } zrušíte svoj účet do 30 dní, môžete požiadať o vrátenie peňazí a { -brand-name-mozilla } vám vráti peniaze za prvé predplatné.
 vpn-landing-faq-refund-question-additional-desc = Ak si predplatné zakúpite prostredníctvom nákupu v aplikácii v { -brand-name-apple } { -brand-name-app-store } alebo v obchode { -brand-name-google-play }, vaša platba podlieha zmluvným podmienkam obchodu { -brand-name-app-store }. Všetky otázky týkajúce sa fakturácie a vrátenia peňazí za takéto nákupy musíte podľa potreby smerovať na { -brand-name-apple } alebo { -brand-name-google }.
