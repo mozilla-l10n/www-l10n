@@ -30,3 +30,4 @@ home-learn-about-mofo = გაიცანით უკეთ { -brand-name-mozi
 home-join-the-fight = ჩაერთეთ ინტერნეტის სიჯანსაღისთვის ბრძოლაში
 home-your-voice-your-code = თქვენი ხმა. თქვენი კოდი. თქვენი მოსაზრებები. პირდაპირი გაგებით, წვლილის შეტანის ათასობით საშუალება არსებობს, რომ განავითაროთ { -brand-name-mozilla }.
 home-volunteer-with-mozilla = გახდით { -brand-name-mozilla }-ს მოხალისე
+home-that-one-time = ერთხელ ჩვენ გავეცით ჩვენი პირველწყარო-კოდი…
