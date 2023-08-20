@@ -88,7 +88,7 @@ faq-question-trackerremoval-breakage-answer-2 = Néha a követők eltávolítás
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = Mi az a telefonszámmaszk?
-phone-masking-faq-answer-what-is = Az e-mail-maszkhoz hasonlóan a telefonszámmaszk is egy olyan telefonszám, amely a valódi telefonszámára továbbíthatja az SMS-eket és a hívásokat, anélkül hogy felfedné az Önt hívó vagy SMS-t küldő személy számára.
+phone-masking-faq-answer-what-is = Az e-mail-maszkhoz hasonlóan a telefonszámmaszk egy olyan telefonszám, amely a valódi telefonszámára továbbíthatja az SMS-eket és a hívásokat, anélkül hogy felfedné az Önt hívó vagy Önnek SMS-t küldő személy számára.
 phone-masking-faq-question-where-is = Hol érhető el a telefonmaszkolás?
 phone-masking-faq-answer-where-is = Jelenleg a telefonszám-maszkolás csak az Egyesült Államokban és Kanadában érhető el. Ez azt jelenti, hogy csak amerikai vagy kanadai számokról lehet átirányított hívásokat és SMS-eket fogadni. Dolgozunk azon, hogy megtaláljuk a módját, hogy a telefonszám-maszkolás e két országon kívül is elérhető legyen.
 phone-masking-faq-question-how-many = Hány telefonmaszkot kapok?
@@ -106,10 +106,10 @@ phone-masking-faq-answer-historical = Jelenleg nem tud válaszolni a korábban k
 phone-masking-faq-question-can-i-send = Küldhetek üzenetet anélkül, hogy válaszolnék egyre?
 phone-masking-faq-answer-can-i-send = Nem, még nem küldhet el olyan SMS-eket, amelyek nem válaszok. Válaszolni csak a továbbított SMS-ekre lehet.
 phone-masking-faq-question-limit = Van korlátozás hogy hány SMS-t kapok?
-phone-masking-faq-answer-limit = Összesen havonta 75 SMS-t fogadhat és válaszolhat meg. A telefonszámmaszkjára küldött további SMS-ek nem a valódi telefonszámra lesznek továbbítva. A további válaszok nem lesznek kézbesítve. A számlázási időszak hónapja számít, nem a naptári dátummal. Amint a számlázási hónap véget ért, újra kapni fog szöveges üzeneteket.
+phone-masking-faq-answer-limit = Összesen havonta 75 SMS-t fogadhat és válaszolhat meg. A telefonszámmaszkjára küldött további SMS-ek nem lesznek a valódi telefonszámra továbbítva. A további válaszok nem lesznek kézbesítve. A számlázási időszak hónapja számít, nem a naptári dátum. Amint a számlázási hónap véget ért, újra megkapja a szöveges üzeneteket.
 phone-masking-faq-question-call-length = Meddig beszélhetek hívás érkezésekor?
-phone-masking-faq-answer-call-length = Minden hónapban kap 50 percet a beszélgetésre. Ha ezek a percek elfogynak, csak a számlázási ciklusának következő hónapjában fogja tudni átirányított hívásokat fogadni.
-phone-masking-faq-question-can-i-call = Hívhatok valakit a telefonmaszkommal?
+phone-masking-faq-answer-call-length = Minden hónapban 50 percet kap a beszélgetésre. Ha ezek a percek elfogynak, csak a számlázási ciklusának következő hónapjában fog tudni átirányított hívásokat fogadni.
+phone-masking-faq-question-can-i-call = Felhívhatok valakit a telefonmaszkommal?
 phone-masking-faq-answer-can-i-call = Nem, csak átirányított hívást fogadhat.
 phone-masking-faq-question-can-i-see = Láthatom, hogy ki küldött SMS-t vagy hívott?
 phone-masking-faq-answer-can-i-see = Igen, látja az SMS-t küldött vagy hívó számot. Ezen rekordok tárolását is letilthatja, de elveszti a válaszadás lehetőségét, illetve az egyes hívók és SMS-küldők blokkolásának lehetőségét.
