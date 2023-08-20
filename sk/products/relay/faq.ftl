@@ -15,6 +15,9 @@ faq-question-missing-emails-question-2 = Nedostávam správy z mojich e‑mailov
 faq-question-missing-emails-answer-a-2 = Existuje niekoľko dôvodov, prečo nemusíte nedostávať e‑maily preposielané cez vaše masky. Medzi tieto dôvody patria:
 faq-question-missing-emails-answer-reason-spam = Správy sa dostávajú do spamu
 faq-question-missing-emails-answer-reason-blocked-2 = Váš poskytovateľ e‑mailu blokuje vaše e‑mailové masky
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = Preposlaný e‑mail má prílohu väčšiu ako { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = Stránka neprijíma e‑mailové masky
 faq-question-missing-emails-answer-reason-turned-off-2 = Maska môže mať vypnuté preposielanie správ
 faq-question-missing-emails-answer-reason-delay = Službe { -brand-name-relay } môže preposielanie vašich správ trvať dlhšie ako zvyčajne
@@ -49,6 +52,9 @@ faq-question-longevity-answer-2 = Vopred vás upozorníme, že musíte zmeniť e
 faq-question-mozmail-question-2 = Prečo moje masky začali používať doménu “mozmail.com?”
 faq-question-mozmail-answer-2 = Prešli sme z “relay.firefox.com“ na “mozmail.com”, aby bolo možné získať vlastnú e‑mailovú subdoménu, ako napríklad maska@vasadomena.mozmail.com. Vlastné e‑mailové subdomény, dostupné pre predplatiteľov služby { -brand-name-relay-premium }, vám umožňujú vytvárať ľahšie zapamätateľné e‑mailové masky.
 faq-question-attachments-question = Bude { -brand-name-firefox-relay } preposielať e‑maily s prílohami?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Preposielanie príloh je podporované. Avšak, pre preposielanie e‑mailov pomocou služby { -brand-name-relay } existuje veľkostný limit { $size } MB. E‑maily väčšie ako { $size } MB nebudú preposlané.
 faq-question-unsubscribe-domain-question-2 = Čo sa stane s mojou vlastnou subdoménou, ak zruším službu { -brand-name-relay-premium }?
 faq-question-unsubscribe-domain-answer-2 = Ak prejdete na nižšiu verziu z { -brand-name-relay-premium }, budete stále dostávať e‑maily preposielané prostredníctvom vlastných e‑mailových masiek, ale pomocou tejto subdomény už nebudete môcť vytvárať nové masky. Ak máte celkovo viac ako päť masiek, ďalšie už nebudete môcť vytvoriť. Stratíte tiež možnosť odpovedať na preposlané správy. Ak znova prejdete na { -brand-name-relay-premium }, opätovne získate prístup k týmto funkciám.
 faq-question-8-question = Aké údaje služba { -brand-name-firefox-relay } zhromažďuje?
@@ -81,3 +87,30 @@ faq-question-trackerremoval-breakage-answer-2 = Odstránenie sledovacích prvkov
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = Čo je maska telefónneho čísla?
+phone-masking-faq-answer-what-is = Podobne ako e‑mailová maska, aj maska telefónneho čísla je telefónne číslo, ktoré môže presmerovať textové správy a hovory na vaše skutočné telefónne číslo bez toho, aby osobe, ktorá vám volá alebo píše, prezradila, aké je vaše skutočné číslo.
+phone-masking-faq-question-where-is = Kde je maskovanie telefónu dostupné?
+phone-masking-faq-answer-where-is = V súčasnosti je maskovanie telefónnych čísel k dispozícii iba v USA a Kanade. To znamená, že môžete prijímať presmerované hovory a textové správy iba z amerických alebo kanadských čísel. Pracujeme na hľadaní spôsobu, ako ponúknuť maskovanie telefónnych čísel mimo týchto dvoch krajín.
+phone-masking-faq-question-how-many = Koľko masiek na telefón dostanem?
+phone-masking-faq-answer-how-many = V tejto chvíli získate iba jednu masku telefónneho čísla. Keď si vyberiete masku telefónneho čísla, nebudete ju môcť neskôr zmeniť.
+phone-masking-faq-question-change-phone-mask = Môžem si zmeniť masku telefónu?
+phone-masking-faq-answer-change-phone-mask = Nie, po výbere masky telefónneho čísla ju nemôžete zmeniť. Túto možnosť skúmame.
+phone-masking-faq-question-can-reply = Môžem odpovedať na textové správy?
+phone-masking-faq-answer-can-reply = Áno, môžete odpovedať na poslednú textovú správu, ktorý ste dostali. Odpovedzte tak, ako by ste odpovedali na akúkoľvek inú textovú správu.
+phone-masking-faq-question-forwarded-texts = Aké druhy textových správ sa budú preposielať?
+phone-masking-faq-answer-forwarded-texts = Preposielať je možné iba textové správy SMS. Správy MMS, ktoré obsahujú fotografie, videá atď., sa nepreposielajú.
+phone-masking-faq-question-pictures = Môžem odosielať alebo prijímať obrázky prostredníctvom textových správ?
+phone-masking-faq-answer-pictures = Nie, preposlať alebo odoslať ako odpoveď je možné iba textové správy SMS.
+phone-masking-faq-question-historical = Môžem odpovedať na staršie textové správy?
+phone-masking-faq-answer-historical = Momentálne nemôžete odpovedať na textové správy, ktoré ste dostali predtým, aj keď táto funkcia je na ceste.
+phone-masking-faq-question-can-i-send = Môžem poslať textovú správu ako novú správu?
+phone-masking-faq-answer-can-i-send = Nie, zatiaľ nemôžete odosielať textové správy, ktoré nie sú odpoveďami. Odpovedať môžete iba na preposlané textové správy.
+phone-masking-faq-question-limit = Existuje nejaký limit na počet prijatých textových správ?
+phone-masking-faq-answer-limit = Mesačne môžete prijať celkovo až 75 textových správ a odpovedať na ne. Akékoľvek ďalšie textové správy odoslané na masku vášho telefónneho čísla nebudú preposlané na vaše skutočné číslo. Akékoľvek dodatočné odpovede nebudú doručené. Mesiac sa mení podľa dátumu fakturácie, nie podľa dátumu kalendára. Keď sa váš fakturačný mesiac preklopí, znova začnete dostávať textové správy.
+phone-masking-faq-question-call-length = Ako dlho môžem hovoriť, keď mi niekto zavolá?
+phone-masking-faq-answer-call-length = Každý mesiac dostanete 50 minút rozhovoru. Po vyčerpaní týchto minút nebudete môcť prijímať presmerované hovory až do nasledujúceho mesiaca fakturačného cyklu.
+phone-masking-faq-question-can-i-call = Môžem niekomu zavolať s maskou telefónu?
+phone-masking-faq-answer-can-i-call = Nie, môžete zdvihnúť iba presmerovaný hovor.
+phone-masking-faq-question-can-i-see = Môžem vidieť, kto mi písal alebo volal?
+phone-masking-faq-answer-can-i-see = Áno, vidíte číslo, ktoré vám poslalo SMS alebo zavolalo. Môžete tiež zakázať ukladanie týchto záznamov, ale stratíte možnosť odpovedať alebo blokovať jednotlivých volajúcich a odosielateľov SMS.
+phone-masking-faq-question-can-i-block = Môžem zablokovať hovor alebo SMS?

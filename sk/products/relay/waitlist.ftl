@@ -37,4 +37,6 @@ waitlist-subscribe-success-email-desc = Hneď ako bude { -brand-name-relay-premi
 waitlist-subscribe-success-phone-desc = Hneď ako bude maskovanie telefónu službou { -brand-name-relay } k dispozícii pre váš región, pošleme vám e‑mail.
 waitlist-subscribe-success-bundle-desc = Hneď ako bude balík { -brand-name-relay } + { -brand-name-vpn } k dispozícii pre váš región, pošleme vám e‑mail.
 waitlist-subscribe-please-enter-a-valid = Zadajte platnú e‑mailovú adresu
+waitlist-subscribe-please-select-country = Zvoľte krajinu alebo oblasť
+waitlist-subscribe-please-select-language = Zvoľte jazyk
 waitlist-subscribe-error-unknown = Pri pridávaní vás do zoznamu čakateľov sa vyskytla chyba. Prosím skúste znova.
