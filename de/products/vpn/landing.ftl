@@ -146,15 +146,11 @@ vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 und höher)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 und höher)
 
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (nur { -brand-name-ubuntu })
-
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (nur { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 und höher)
 
 vpn-landing-faq-refund-question-heading = Welche Richtlinien gelten für die Rückerstattung von { -brand-name-mozilla-vpn }?
 
