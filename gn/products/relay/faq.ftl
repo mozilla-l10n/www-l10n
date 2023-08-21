@@ -74,3 +74,6 @@ phone-masking-faq-answer-can-i-call = Nahániri, eñe’ẽkuaa ñehenói mboyke
 phone-masking-faq-question-can-i-see = Ahechakuaápa mávapa ombou ñe’ẽmondo térã cherenói
 phone-masking-faq-question-can-i-block = Ajokokuaápa ñehenói térã ñe’ẽmondo
 phone-masking-faq-answer-can-i-block = Ejokokuaa opaichagua papapy ñemboyke.
+phone-masking-faq-question-spam = Mba’épa ajapóta che pumbyry rovamo’ãhape og̃uahẽrõ spam
+phone-masking-faq-answer-spam = Og̃uahẽramo ndéve spam, ejokokuaa umi papapy omboúva pe spam.
+phone-masking-faq-question-disable-logging = Amboykekuaá tapicha ñemboheraguapy ohenói térã oñe’ẽmondóva
