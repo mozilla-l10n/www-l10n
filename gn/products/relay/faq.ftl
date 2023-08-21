@@ -73,3 +73,4 @@ phone-masking-faq-question-can-i-call = Aporohenoikuaápa che pumbyry rovamo’�
 phone-masking-faq-answer-can-i-call = Nahániri, eñe’ẽkuaa ñehenói mboykepyre.
 phone-masking-faq-question-can-i-see = Ahechakuaápa mávapa ombou ñe’ẽmondo térã cherenói
 phone-masking-faq-question-can-i-block = Ajokokuaápa ñehenói térã ñe’ẽmondo
+phone-masking-faq-answer-can-i-block = Ejokokuaa opaichagua papapy ñemboyke.
