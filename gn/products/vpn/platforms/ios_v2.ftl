@@ -7,3 +7,4 @@
 
 vpn-ios-vpn-for-iphone = VPN iPhone-pe g̃uarã { -brand-name-mozilla } rehegua
 vpn-ios-there-are-many = Heta mba’e rupi eipuruva’erã { -brand-name-mozilla-vpn } iPhone peg̃uarã, mba’éicha:
+vpn-ios-ready-to-try = Aiméma aipuru hag̃uáicha { -brand-name-mozilla-vpn } che iPhone-pe. Emboguejy ha eipuru 30 ára pukukue. Eñemboheraguapy’ỹre, apañuãi’ỹre, kyhyje’ỹre.
