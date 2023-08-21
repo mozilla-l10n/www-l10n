@@ -30,12 +30,17 @@ vpn-launch-the-app = 2. Emoñepyrũ tembipuru’i
 vpn-login-or-signup = 3. Emoñepyrũ tembiapo térã eñemboheraguapy
 vpn-enter-your-email = Ehai ne ñanduti veve kundaharape eñepyrũ hag̃ua tembiapo térã eñemboheraguapy ha eku’éma
 vpn-turn-on-vpn = 4. Emyandy VPN
+vpn-pick-a-recommended = Eiporavo tendatee jeroviaha jeike pya’erã ha hekopytáva térã eiporavo tendatee eipotáva nde poite rupive, upéi EMYANDY pe kytĩha
 
 ## FAQ Strings
 
 vpn-download-faq-need-help = Eikotevẽpa ñepytyvõ eñepyrũ hag̃ua
 vpn-download-faq-here-are-some = Ko’ãvahína umi mba’e oñeporanduvéva { -brand-name-mozilla-vpn } ñemboheko rehegua
 vpn-download-faq-why-use = Mba’érepa eipuruva’erã { -brand-name-mozilla-vpn }
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Emokañýta nde mba’etéva <a href="{ $ip }">IP kundaharape</a>. Kóva oipytyvõta omo’ã hag̃ua nde reratee ha oñomíta ne rendaite eikehaguépe.
+vpn-download-faq-encrypting = Ombopapapy ne rembiapo ñandutípe: ani hag̃ua avavete nde rapykueho eikundahávo ñandutípe.
 vpn-download-faq-working = Mba’éichapa aikuaáta VPN oikoporãha
 vpn-download-faq-add-device = Mba’éichapa ambojuajúta ambue mba’e’oka
 vpn-download-faq-best-practices = Mba’épa umi iporãvéva VPN rembiapo

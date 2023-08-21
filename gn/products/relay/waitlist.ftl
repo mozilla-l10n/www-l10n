@@ -39,3 +39,4 @@ waitlist-subscribe-success-bundle-desc = Ikatúvo { -brand-name-relay } +{ -bran
 waitlist-subscribe-please-enter-a-valid = Ikatúpa ehai ñanduti veve kundaharape oikóva
 waitlist-subscribe-please-select-country = Eiporavomína tetã térã tendaguasu
 waitlist-subscribe-please-select-language = Eiporavomína peteĩ ñe’ẽ
+waitlist-subscribe-error-unknown = Iñapañuãi embojuajukuévo tysýire. Eha’ãjey ag̃amieve.
