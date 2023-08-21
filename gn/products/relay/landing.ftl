@@ -16,6 +16,7 @@ hero-section-social-proof = Ojehechaháicha:
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Mba’éichapa oku’e { -brand-name-relay } ñanduti veve rovamo’ãha ha pumbyry
+how-it-works-section-forward-headline = Romondojey ñanduti veve, pumbyry ñehenói ha ñe’ẽmondo
 
 ## REVIEWS SECTION
 

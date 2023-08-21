@@ -9,6 +9,7 @@
 ## HIGHLIGHTED FEATURES SECTION
 
 highlighted-features-section-title = Tembiapoite hekorosã ha hasy’ỹva ne pytyvõ emo’ã hag̃ua nde reraite
+highlighted-features-section-bottom-title = Emo’ã nde reratee (ha ne ñe’ẽmondo g̃uahẽha) { -brand-name-firefox-relay } ndive
 highlighted-features-section-bottom-cta = Eñepyrũ
 highlighted-features-section-unlimited-masks-headline = Emoheñói ñanduti veve rovamo’ãha ijapyra’ỹva
 highlighted-features-section-masks-on-the-go-headline = Emoheñói pya’e tovamo’ãha
