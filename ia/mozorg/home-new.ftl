@@ -21,6 +21,14 @@ home-product-relay-masks = Mascas de email e telephono facile a usar
 home-cta-get-relay = Obtene { -brand-name-relay }
 home-product-vpn-trust = Un VPN del qual tu pote fider te
 home-cta-get-vpn = Installa { -brand-name-mozilla-vpn }
+home-mozilla-takes-bets = “{ -brand-name-mozilla } sponde pro monstrar al mundo que on pote facer negotios con intelligentia artificial digne de fide. Isto include poner al corde de como iste systemas complexe labora cosas como: derectos human, protection de datos e transparentia.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-is-mozilla-a-corporation = Es { -brand-name-mozilla } un corporation o un organisation non-lucrative?
+home-mozilla-consists-of = { -brand-name-mozilla } consiste de duo interprisas. Le { -brand-name-mozilla-corporation } es totalmente de proprietate del organisation non-lucrative 501(c) { -brand-name-mozilla-foundation }.
 home-learn-about-mofo = Apprender re { -brand-name-mozilla-foundation }
+home-join-the-fight = Junge te al lucta pro un internet san.
+home-your-voice-your-code = Tu voce. Tu codification. Tu ideas. Il ha litteralmente milles de manieras pro collaborar con { -brand-name-mozilla }.
+home-volunteer-with-mozilla = Voluntario con { -brand-name-mozilla }
+home-that-one-time = In ille tempore nos dava via nostre codification fonte…
+home-the-mozilla-project = Le projecto { -brand-name-mozilla } era fundate in San Francisco in 1998, quando le navigator { -brand-name-netscape } prendeva le radical decision de donar al publico le codification de su programma, pro construer super illo e meliorar lo. In ille tempore, un singule compania habeva un monopolio virtual sur como le personas experimentava internet.
