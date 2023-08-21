@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/relay/premium/
 
 premium-promo-hero-headline = Embohasy’ỹve ñe’ẽmondo g̃uahẽha ñemo’ã { -brand-name-firefox-relay-premium } ndive
+premium-promo-hero-body-3 = { -brand-name-firefox-relay-premium } ndive, erekóta ñanduti veve rovamo’ãhaite ijapyra’ỹva omondojeýva ñanduti veve eipotaváva añoite ne ñanduti veve kundaharaépe.
