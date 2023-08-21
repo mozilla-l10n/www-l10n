@@ -65,6 +65,7 @@ phone-masking-faq-answer-forwarded-texts = Ndaikatúi embojevyjey ñe’ẽmondo
 phone-masking-faq-question-pictures = Amondo térã og̃uahẽkuaápa ta’ãnga ñe’ẽmondo rupive
 phone-masking-faq-answer-pictures = Nahániri, embojevykuaajey térã embohovái ñe’ẽmondóramo.
 phone-masking-faq-question-historical = Ambohovaikuaápa ñe’ẽmondo ymaguaréva
+phone-masking-faq-answer-historical = Ko’ag̃a ndaikatúi embohovái ñe’ẽmondo og̃uahẽ arevémava, péicha ko tambiapoitére oñemba’apohína.
 phone-masking-faq-question-can-i-send = Amondokuaápa ñe’ẽmondo ambohovai’ỹre peteĩ
 phone-masking-faq-question-limit = Mboy pevépa og̃uahẽkuaa chéve ñe’ẽmondo
 phone-masking-faq-question-call-length = Mboy aravópa añe’ẽkuaa añehenóiramo

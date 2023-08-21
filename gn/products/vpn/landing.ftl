@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ha tuichave)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ha tuichave)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 ha hetave)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu }-añoite)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-añoite)
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ha tuichave)
 vpn-landing-faq-refund-question-heading = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia purureko?
 vpn-landing-faq-refund-question-desc-v2 = Eñemboheraguapyramóme { -brand-name-mozilla-vpn } ndive ñanduti renda { -brand-name-mozilla } rupive, embotývo ne mba’ete 30 ára haguépe, ejerurejeykuaa nde viru ha { -brand-name-mozilla } ome’ẽjeyva’erã ne ñemboheraguapy ñepyrũhapeguare.
 vpn-landing-faq-refund-question-additional-desc = Ejoguárõ ne ñemboheraguapy tembipuru’i ryepy guive { -brand-name-apple } ñemuha { -brand-name-app-store } térã { -brand-name-google-play } Store, ne ñehepyme’ẽ ojokupyty pe { -brand-name-app-store } he’iháicha rehe. Embohapeva’erã ne ñeporandu kuatia ñemuhague ha viru ñembojevy ejoguahaguégui { -brand-name-apple } térã { -brand-name-google }, oikotevẽháicha.
