@@ -70,6 +70,7 @@
 -brand-name-firefox-lockwise = فَيَرفُكس Lockwise
 -brand-name-firefox-monitor = فَيَرفُكس Monitor
 -brand-name-firefox-private-network = شبكة فَيَرفُكس الخاصة
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = فَيَرفُكس Relay
 -brand-name-firefox-sync = فَيَرفُكس Sync
 -brand-name-firefox-translations = ترجمات Firefox
