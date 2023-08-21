@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Ajude a { -brand-name-mozilla } a lutar por uma internet melhor neste final de ano.
+banner-fundraising-title-v2 = Ajude a { -brand-name-mozilla } a lutar por uma internet melhor.
 banner-fundraising-title-giving-day = Ajude a { -brand-name-mozilla } a lutar por uma internet melhor nesta terça-feira após o Dia de Ação de Graças.
 # Outdated string
 banner-fundraising-title = O futuro está sendo decidido online. Ajude a { -brand-name-mozilla } a lutar por uma web para todos nós.
