@@ -22,3 +22,7 @@ home-politico-cite = Politico
 home-is-mozilla-a-corporation = ¿Es { -brand-name-mozilla } una corporación o una organización sin fines de lucro? En realidad, ambas.
 home-learn-about-mofo = Aprende acerca de la { -brand-name-mozilla-foundation }
 home-join-the-fight = Únete a la lucha por un internet saludable
+home-volunteer-with-mozilla = Colabora con { -brand-name-mozilla }
+home-that-one-time = Esa vez que regalamos nuestro código fuente…
+# VPN Feature
+home-featured-product = Producto destacado
