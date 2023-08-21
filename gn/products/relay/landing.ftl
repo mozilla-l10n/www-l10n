@@ -9,6 +9,7 @@ meta-title = { -brand-name-firefox-relay }
 
 ## HERO SECTION
 
+hero-section-title = Emo’ã nde reratee tovamo’ãha ñanduti veve ha pumbyry hekorosãva ndive
 # Context: This lists the various websites and magazines who have mentioned Firefox Relay.
 # Example: "As seen in: FORBES magainze and LifeHacker"
 hero-section-social-proof = Ojehechaháicha:
@@ -16,6 +17,7 @@ hero-section-social-proof = Ojehechaháicha:
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Mba’éichapa oku’e { -brand-name-relay } ñanduti veve rovamo’ãha ha pumbyry
+how-it-works-section-extension-headline = Eipuru { -brand-name-relay } ñanduti veve rovamo’ãha ha pumbyry rovamo’ãha oimehápe
 how-it-works-section-forward-headline = Romondojey ñanduti veve, pumbyry ñehenói ha ñe’ẽmondo
 
 ## REVIEWS SECTION
