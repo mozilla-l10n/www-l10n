@@ -18,6 +18,7 @@ hero-section-social-proof = Ojehechaháicha:
 
 how-it-works-section-title = Mba’éichapa oku’e { -brand-name-relay } ñanduti veve rovamo’ãha ha pumbyry
 how-it-works-section-extension-headline = Eipuru { -brand-name-relay } ñanduti veve rovamo’ãha ha pumbyry rovamo’ãha oimehápe
+how-it-works-section-extension-body = Ereko ñanduti veve rovamo’ãha hekorosã has ijereguáva ha pumbyry papapy hovañemo’ãva eipuru hag̃ua ñanduti renda, tembipuru’i, ñemuha térã jekaruha ojerurévo marandu.
 how-it-works-section-forward-headline = Romondojey ñanduti veve, pumbyry ñehenói ha ñe’ẽmondo
 how-it-works-section-forward-body = Ehecháta mba’embouha ndoikuaamo’ãiha ne ñanduti veve kundaharenda térã nde papapyete. Avei embohovaikuaa ñe’ẽmondo ha ñanduti veve emoherakuã’ỹre nde reraite.
 how-it-works-section-manage-headline = Eñangareko nde rovamo’ãháre nde { -brand-name-relay } rupa guive
