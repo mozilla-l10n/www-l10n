@@ -42,3 +42,4 @@ download-button-download = Боргирӣ кардан
 download-firefox-esr = Боргирӣ кардани «{ -brand-name-firefox-esr }»
 download-firefox-esr-32 = Боргирӣ кардани «{ -brand-name-firefox-esr }» 32-бит
 download-firefox-esr-64 = Боргирӣ кардани «{ -brand-name-firefox-esr }» 64-бит
+download-a-different-build = Сохти дигареро боргирӣ намоед

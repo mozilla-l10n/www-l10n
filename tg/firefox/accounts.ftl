@@ -9,6 +9,9 @@ firefox-accounts-enter-your-email-address = Барои оғози кор ниш�
 firefox-accounts-already-have-an-account = Аллакай ҳисобе доред?
 firefox-accounts-sign-in = Ворид шудан
 firefox-accounts-manage = Идоракунии ҳисоби худ
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Нигоҳдорӣ ва ҳамоҳангсозии ниҳонвожаҳо</a>
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
