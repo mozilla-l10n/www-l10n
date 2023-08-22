@@ -31,6 +31,7 @@ home-that-one-time = Pe rome’ẽramoguare ore ayvu reñoiha…
 home-eventually-the-open = Heta ára rire, pe ayvu ijurujáva apopyrã { -brand-name-mozilla } oiko chugui ojehayhu añetéva { -brand-name-firefox }.
 home-learn-more-about-mozilla = Eikuaave { -brand-name-mozilla } rehegua
 home-get-good-news = Tog̃uahẽ (porã) { -brand-name-mozilla } marandu
+home-get-news-and-tips = Og̃uahẽ marandu ha ñemoñe’ẽ { -brand-name-mozilla } guive ne rekorosã ha eñemomarandu hag̃ua oikóva guive ñandutíre hekoresãive rekávo.
 # VPN Feature
 home-featured-product = Apopyre iporãva
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
