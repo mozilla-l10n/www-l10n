@@ -31,3 +31,6 @@ vpn-linux-if-you-use-v2 = Калі вы выкарыстоўваеце адну 
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use = Калі вы выкарыстоўваеце адну з падтрыманых версій Ubuntu, ёсць два спосабы ўсталяваць афіцыйныя пакеты mozillavpn, размешчаныя на <a { $attrs }>launchpad:</a>
+# Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Рэжым каманднага радка Ubuntu:</strong> для падрабязных інструкцый, як усталяваць { -brand-name-mozilla-vpn } з дапамогай інструментаў каманднага радка, паглядзіце <a { $attrs }>Як усталяваць { -brand-name-mozilla-vpn } на камп'ютары з Linux</a>.
