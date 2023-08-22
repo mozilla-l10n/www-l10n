@@ -87,6 +87,7 @@ phone-masking-faq-question-disable-logging = Amboykekuaá tapicha ñemboheraguap
 phone-masking-faq-question-can-i-share = Amoherãkuãkuaápa pe papapy omboujeýva ñe’ẽmondo
 phone-masking-faq-question-how-i-save-card = Mba’éichapa añongatúta { -brand-name-relay } kuatia’atã ñe’ẽkuaarã
 phone-masking-faq-question-install-app = Amohendátapa tembipuru’i aipuru hag̃ua { -brand-name-relay } pumbyry rovamo’ãha
+phone-masking-faq-answer-install-app = Nahániri, { -brand-name-relay } pumbyry rovamo’ãha oiko tembipuru’i ñehenoirã ha ñe’ẽmondo ypyguáva ne mba’e’okápe.
 phone-masking-faq-question-data = Mba’eichagua mba’ekuaarãpa ombyaty { -brand-name-relay } pumbyry rovamo’ãha
 #   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
