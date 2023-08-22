@@ -62,7 +62,7 @@ plan-matrix-price-period-yearly-footnote-1 = Ikuatia aryguáva
 plan-matrix-price-period-monthly-footnote-1 = Ikuatia jasyguáva
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-price-vpn-discount-promo-v2 = <span>Ehepyme’ẽ’ive { $ahorros }%</span> VPN repy tapiagua
+plan-matrix-price-vpn-discount-promo-v2 = <span>Ehepyme’ẽ’ive { $savings }%</span> VPN repy tapiagua
 
 ## Plan CTAs
 
