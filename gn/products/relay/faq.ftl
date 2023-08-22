@@ -33,6 +33,7 @@ faq-question-subdomain-characters-answer-v2 = Eipurukuaa tai inglés michĩva re
 faq-question-browser-support-question = Aipurukuaápa { -brand-name-relay } ambue kundahára térã che pumbyrýpe
 faq-question-browser-support-answer-2 = Hẽe, emoheñoikuaa { -brand-name-relay } rovamo’ãha ambue kundahára térã pumbyry mba’e’okápe emoñepyrũvo tembiapo  nde { -brand-name-relay } rupápe.
 faq-question-longevity-question = Mba’épa oiko { -brand-name-mozilla } ombotýramo { -brand-name-firefox-relay } mba’epuru
+faq-question-longevity-answer-2 = Romomarandúta eikotevẽtaramo emoambue ñanduti veve kundaharape oimeraẽva mba’ete oipurúva { -brand-name-relay } ñanduti veve rovamo’ãha.
 faq-question-mozmail-question-2 = Mba’érepa ñandutiveve rovamo’ãha oipurúma “mozmail.com?” rendatee
 faq-question-attachments-question = Ikatúpa { -brand-name-firefox-relay } omondojey ñanduti veve marandurenda ijeheguáva reheve
 faq-question-unsubscribe-domain-question-2 = Mba’épa oikóta tendatee’i mboavapyréva amboguérõ ñemboheraguapy { -brand-name-relay-premium } pegua
