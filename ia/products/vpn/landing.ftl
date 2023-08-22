@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 e ultra)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 e ultra)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu de 20.04 in avante)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (solo { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-solo)
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 e ultra)
 vpn-landing-faq-refund-question-heading = Que es le regulamento de reimbursamento de { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Le prime vice que tu te abona a { -brand-name-mozilla-vpn } per le sito web de { -brand-name-mozilla }, si tu cancella tu conto intra le prime 30 dies, tu pote requirer un reimbursamento e { -brand-name-mozilla } reimbursara tu prime termino de subscription.
 vpn-landing-faq-refund-question-additional-desc = Si tu acquire tu abonamento per compra de in-app ab { -brand-name-apple } { -brand-name-app-store } o ab le boteca { -brand-name-google-play }, tu pagamento es subjecte al terminos e conditiones del { -brand-name-app-store }. Tu debe diriger ulle inquestas de facturation e reimbursamento pro simile compras a { -brand-name-apple } o { -brand-name-google }, como appropriate.
