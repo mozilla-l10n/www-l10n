@@ -38,4 +38,4 @@ waitlist-subscribe-success-bundle-desc = Begitu { -brand-name-relay } + { -brand
 waitlist-subscribe-please-enter-a-valid = Silakan masukkan alamat email yang sah
 waitlist-subscribe-please-select-country = Pilih negara atau wilayah
 waitlist-subscribe-please-select-language = Pilih bahasa
-waitlist-subscribe-error-unknown = Terjadi kesalahan saat menambahkan Anda ke daftar tunggu.Silakan coba lagi. { "" }
+waitlist-subscribe-error-unknown = Terjadi kesalahan saat menambahkan Anda ke daftar tunggu. Silakan coba lagi.
