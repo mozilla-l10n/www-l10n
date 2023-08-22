@@ -25,4 +25,9 @@ vpn-linux-how-to-install = Як усталяваць { -brand-name-mozilla-vpn }
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use-v2 = Калі вы выкарыстоўваеце адну з падтрыманых версій Ubuntu, ёсць два спосабы ўсталявання афіцыйных пакетаў mozillavpn, размешчаных на <a { $attrs }>Launchpad:</a>
+vpn-linux-if-you-use-v2 = Калі вы выкарыстоўваеце адну з падтрыманых версій Ubuntu, ёсць два спосабы ўсталяваць афіцыйныя пакеты mozillavpn, размешчаныя на <a { $attrs }>Launchpad:</a>
+# Obsolete string
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use = Калі вы выкарыстоўваеце адну з падтрыманых версій Ubuntu, ёсць два спосабы ўсталяваць афіцыйныя пакеты mozillavpn, размешчаныя на <a { $attrs }>launchpad:</a>
