@@ -49,7 +49,9 @@ faq-question-acceptable-use-answer-b-html = Ikatúpa emoñe’ẽ ore <a href="{
 faq-question-promotional-email-blocking-question = Mba’épa ñanduti veve jejoko jopoiguáva
 faq-question-detect-promotional-question = Mba’éichapa { -brand-name-relay } oikuaa ñanduti veve ha’eha jeikuaarãva
 faq-question-disable-trackerremoval-question = Ajokokuaápa ñandutu veve rapykuehoha mbogueha
+faq-question-disable-trackerremoval-answer = Hẽe. Neapañuãiramo ñanduti veve ndive ha’etégui noĩmbáiva térã nerembogueséi tapykuehoha, emboguekuaa ñemboheko rembiapoite.
 faq-question-bulk-trackerremoval-question = Amboguekuaápa tapykuehoha ndahetái ñanduti veve rovamo’ãhápe añoite
+faq-question-bulk-trackerremoval-answer = Emyandykuaa tapykuehoha ñemboguete mba’ete rehegua — emboguete tapykuehoha opaite ne ñanduti vevégui térã ani mavavete.
 faq-question-trackerremoval-breakage-question = Mba’érepa che ñanduti veve ndojekuaaporãi
 
 ## Frequently Asked Questions about Phone plans
@@ -57,6 +59,7 @@ faq-question-trackerremoval-breakage-question = Mba’érepa che ñanduti veve n
 phone-masking-faq-question-what-is = Mba’épa pumbyry papapy rovamo’ãha
 phone-masking-faq-question-where-is = Moõpa eipurukuaa pumbyry rovamo’ãha
 phone-masking-faq-question-how-many = Mboy pumbyry rovamo’ãhápa areko
+phone-masking-faq-answer-how-many = Ko’ág̃a rupi rome’ẽta peteĩ pumbyry papapy rovamo’ãha. Eiporavo rire pumbyry papapy rovamo’ãha, ndaikatuvéima emoambue.
 phone-masking-faq-question-change-phone-mask = Amoambuekuaápa che pumbyry papapy rovamo’ãha
 phone-masking-faq-answer-change-phone-mask = Nahániri, neremoambuekuaái ne pumbyry papapy rovamo’ãha eiporavo riréma. Rohechahína ko jeporavorã.
 phone-masking-faq-question-can-reply = Ambohovaikuaápa ñe’ẽmondo
@@ -68,6 +71,7 @@ phone-masking-faq-answer-pictures = Nahániri, embojevykuaajey térã embohovái
 phone-masking-faq-question-historical = Ambohovaikuaápa ñe’ẽmondo ymaguaréva
 phone-masking-faq-answer-historical = Ko’ag̃a ndaikatúi embohovái ñe’ẽmondo og̃uahẽ arevémava, péicha ko tambiapoitére oñemba’apohína.
 phone-masking-faq-question-can-i-send = Amondokuaápa ñe’ẽmondo ambohovai’ỹre peteĩ
+phone-masking-faq-answer-can-i-send = Nahániri, ndereguerahaukakuaái ñe’ẽmondo mbohovai’ỹva. Embohovaikuaa ñe’ẽmondo mboupyre año.
 phone-masking-faq-question-limit = Mboy pevépa og̃uahẽkuaa chéve ñe’ẽmondo
 phone-masking-faq-question-call-length = Mboy aravópa añe’ẽkuaa añehenóiramo
 phone-masking-faq-question-can-i-call = Aporohenoikuaápa che pumbyry rovamo’ãha rupive
