@@ -54,7 +54,7 @@ faq-question-mozmail-answer-2 = Rydym wedi newid o “relay.firefox.com” i “
 faq-question-attachments-question = A fydd { -brand-name-firefox-relay } yn anfon ymlaen e-byst gydag atodiadau?
 # Variables:
 #  $size (number): maximum size for attachments in MB
-faq-question-attachments-answer-v2 = Rydym nawr yn cefnogi anfon atodiadau ymlaen. Fodd bynnag, mae terfyn { $size } MB ar gyfer anfon e-byst ymlaen gan ddefnyddio { -brand-name-relay }. Ni fydd unrhyw e-byst sy'n fwy na { $size } MB yn cael eu hanfon ymlaen.
+faq-question-attachments-answer-v2 = Rydym nawr yn cefnogi anfon atodiadau anfon ymlaen. Fodd bynnag, mae terfyn o { $size } MB ar gyfer anfon e-byst anfon ymlaen gan ddefnyddio { -brand-name-relay }. Ni fydd unrhyw e-byst sy'n fwy na { $size } MB yn cael eu hanfon ymlaen.
 faq-question-unsubscribe-domain-question-2 = Beth sy'n digwydd i'm is-barth personol os byddaf yn dad-danysgrifio o { -brand-name-relay-premium }?
 faq-question-unsubscribe-domain-answer-2 = Os ydych chi'n israddio o { -brand-name-relay-premium }, byddwch chi'n dal i dderbyn e-byst sy'n cael eu hanfon ymlaen trwy'ch e-bost arallenw personol, ond ni fyddwch yn gallu creu arallenwau newydd gan ddefnyddio'r is-barth hwnnw mwyach. Os oes gennych fwy na phum arallenw i gyd, ni fydd modd i chi greu rhagor. Byddwch hefyd yn colli'r gallu i ateb i negeseuon a fydd yn cael eu hanfon ymlaen. Gallwch ail-danysgrifio i { -brand-name-relay-premium } ac adennill mynediad i'r nodweddion hyn.
 faq-question-8-question = Pa ddata mae { -brand-name-firefox-relay } yn ei gasglu?
@@ -87,24 +87,24 @@ faq-question-trackerremoval-breakage-answer-2 = Weithiau gall cael gwared ar dra
 
 ## Frequently Asked Questions about Phone plans
 
-phone-masking-faq-question-what-is = Beth yw mwgwd rhif ffôn?
-phone-masking-faq-answer-what-is = Yn debyg i fwgwd e-bost, mae mwgwd rhif ffôn yn rhif ffôn a all anfon negeseuon testun a galwadau ymlaen at eich gwir rif ffôn heb ddatgelu beth yw eich gwir rif i'r sawl sy'n eich ffonio neu'n anfon neges destun atoch.
-phone-masking-faq-question-where-is = Ble mae masgio ffôn ar gael?
-phone-masking-faq-answer-where-is = Ar yr adeg hon, dim ond yn yr Unol Daleithiau a Chanada y mae masgio rhifau ffôn ar gael. Mae hyn yn golygu mai dim ond o rifau UDA neu Ganada y gallwch dderbyn galwadau a negeseuon testun ymlaen. Rydyn ni'n gweithio ar ddod o hyd i ffordd i gynnig masgio rhifau ffôn y tu allan i'r ddwy wlad hyn.
-phone-masking-faq-question-how-many = Sawl masg ffôn ydw i'n ei gael?
-phone-masking-faq-answer-how-many = Dim ond un mwgwd rhif ffôn rydych chi'n ei gael ar yr adeg hon. Unwaith y byddwch yn dewis eich mwgwd rhif ffôn, ni allwch ei newid yn nes ymlaen.
-phone-masking-faq-question-change-phone-mask = A allaf newid mwgwd fy ffôn?
-phone-masking-faq-answer-change-phone-mask = Na, ni allwch newid mwgwd eich rhif ffôn ar ôl i chi ei ddewis. Rydym yn archwilio'r opsiwn hwn.
+phone-masking-faq-question-what-is = Beth yw cuddio rhif ffôn?
+phone-masking-faq-answer-what-is = Yn debyg i arallenw e-bost, mae cuddio rhif ffôn yn rhif ffôn a all anfon negeseuon testun a galwadau ymlaen at eich gwir rif ffôn heb ddatgelu beth yw eich gwir rif i'r sawl sy'n eich ffonio neu'n anfon neges destun atoch.
+phone-masking-faq-question-where-is = Ble mae cuddio ffôn ar gael?
+phone-masking-faq-answer-where-is = Ar hyn o bryd, dim ond yn yr Unol Daleithiau a Chanada y mae cuddio rhifau ffôn ar gael. Mae hyn yn golygu mai dim ond o rifau UDA neu Ganada y gallwch dderbyn galwadau a negeseuon testun a anfonwyd ymlaen. Rydyn yn gweithio ar ddod o hyd i ffordd i gynnig cuddio rhifau ffôn y tu allan i'r ddwy wlad hyn.
+phone-masking-faq-question-how-many = Sawl rhif ffôn cudd ydw i'n ei gael?
+phone-masking-faq-answer-how-many = Dim ond un rhif ffôn cudd rydych chi'n ei gael ar hyn o bryd. Unwaith y byddwch yn dewis eich rhif ffôn cudd, allwch ddim ei newid yn nes ymlaen.
+phone-masking-faq-question-change-phone-mask = A allaf newid fy rhif ffôn cudd?
+phone-masking-faq-answer-change-phone-mask = Na, allwch chi ddim newid eich rhif ffôn cudd ar ôl i chi ei ddewis. Rydym yn archwilio'r opsiwn hwn.
 phone-masking-faq-question-can-reply = A allaf ymateb i negeseuon testun?
 phone-masking-faq-answer-can-reply = Gallwch, gallwch ateb y testun diwethaf a gawsoch. Atebwch fel y byddech ar gyfer unrhyw neges destun.
-phone-masking-faq-question-forwarded-texts = Pa fath o destunau fydd yn cael eu hanfon ymlaen?
-phone-masking-faq-answer-forwarded-texts = Dim ond negeseuon testun SMS y gellir eu hanfon ymlaen. Ni fydd testunau MMS sy'n cynnwys lluniau, fideos, ac ati yn cael eu hanfon ymlaen.
+phone-masking-faq-question-forwarded-texts = Pa fath o negeseuon testun fydd yn cael eu hanfon ymlaen?
+phone-masking-faq-answer-forwarded-texts = Dim ond negeseuon testun SMS y mae modd eu hanfon ymlaen. Ni fydd testunau MMS sy'n cynnwys lluniau, fideos, ac ati yn cael eu hanfon ymlaen.
 phone-masking-faq-question-pictures = A allaf anfon neu dderbyn lluniau trwy neges destun?
-phone-masking-faq-answer-pictures = Na, dim ond negeseuon testun SMS y gellir eu hanfon ymlaen neu eu hanfon fel atebion.
+phone-masking-faq-answer-pictures = Na, dim ond negeseuon testun SMS y mae modd eu hanfon ymlaen neu eu hanfon fel atebion.
 phone-masking-faq-question-historical = A allaf ymateb i negeseuon testun hanesyddol?
-phone-masking-faq-answer-historical = Ni allwch ymateb i destunau a gawsoch yn flaenorol ar hyn o bryd, er bod y nodwedd hon ar y ffordd.
+phone-masking-faq-answer-historical = Na nid oes modd i chi ymateb i negeseuon testun a gawsoch yn flaenorol ar hyn o bryd, er bod y nodwedd hon ar y gorwel.
 phone-masking-faq-question-can-i-send = A allaf anfon neges destun heb ateb un?
-phone-masking-faq-answer-can-i-send = Na, ni allwch anfon negeseuon testun nad ydynt yn atebion eto. Dim ond i negeseuon testun a anfonwyd ymlaen y gallwch chi ymateb.
+phone-masking-faq-answer-can-i-send = Na, allwch chi ddim anfon negeseuon testun nad ydyn nhw'n atebion eto. Dim ond i negeseuon testun a anfonwyd ymlaen y gallwch chi ymateb.
 phone-masking-faq-question-limit = A oes cyfyngiad ar faint o negeseuon testun a gaf?
 phone-masking-faq-answer-limit = Gallwch dderbyn ac ateb hyd at 75 o negeseuon testun y mis. Ni fydd unrhyw negeseuon testun ychwanegol a anfonir at eich mwgwd rhif ffôn yn cael eu hanfon ymlaen at eich gwir rif. Ni fydd unrhyw atebion ychwanegol yn cael eu darparu. Mae'r mis yn troi drosodd ar eich dyddiad bilio, nid y dyddiad calendr. Unwaith y bydd eich mis bilio wedi troi drosodd, byddwch yn dechrau derbyn negeseuon testun eto.
 phone-masking-faq-question-call-length = Pa mor hir y gallaf siarad pan fyddaf yn cael galwad?

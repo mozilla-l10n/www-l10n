@@ -10,7 +10,7 @@
 bundle-banner-header-2 = Am amser cyfyngedig yn unig: { -brand-name-relay-premium } + { -brand-name-mozilla-vpn } am { $monthly_price }/month*
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-bundle-banner-body-v2 = Mae { -brand-name-mozilla-vpn } yn eich amddiffyn rhag olrhain a gwyliadwriaeth tra byddwch yn hapchwarae, yn bancio ar-lein, neu'n gwneud gwaith. Ychwanegwch ef at { -brand-name-firefox-relay } am { $savings }% i ffwrdd.
+bundle-banner-body-v2 = Mae { -brand-name-mozilla-vpn } yn eich dio rhag tracio a gwyliadwriaeth tra byddwch yn hapchwarae, yn bancio ar-lein, neu'n gweithio. Ychwanegwch ef at { -brand-name-firefox-relay } am arbediad o{ $savings }%.
 bundle-banner-plan-header-2 = Mae eich cynllun 1 flwyddyn yn cynnwys:
 bundle-banner-plan-modules-email-masking = Arallenwau e-byst
 bundle-banner-plan-modules-phone-masking = Cuddio ffôn
@@ -25,7 +25,7 @@ bundle-feature-more-than-servers =
     { $num_vpn_servers ->
         [zero] Mwy na { $num_vpn_servers } gweinydd
         [one] Mwy na { $num_vpn_servers } gweinydd
-        [two] Mwy na { $num_vpn_servers } gweinydd
+        [two] Mwy na { $num_vpn_servers } weinydd
         [few] Mwy na { $num_vpn_servers } gweinydd
         [many] Mwy na { $num_vpn_servers } gweinydd
        *[other] Mwy na { $num_vpn_servers } gweinydd
@@ -36,7 +36,7 @@ bundle-feature-more-than-countries =
     { $num_vpn_countries ->
         [zero] Mwy na { $num_vpn_countries } gwlad
         [one] Mwy na { $num_vpn_countries } gwlad
-        [two] Mwy na { $num_vpn_countries } gwlad
+        [two] Mwy na { $num_vpn_countries } wlad
         [few] Mwy na { $num_vpn_countries } gwlad
         [many] Mwy na { $num_vpn_countries } gwlad
        *[other] Mwy na { $num_vpn_countries } gwlad

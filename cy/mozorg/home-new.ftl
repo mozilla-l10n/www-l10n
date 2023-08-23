@@ -33,11 +33,11 @@ home-volunteer-with-mozilla = Gwirfoddoli gyda { -brand-name-mozilla }
 home-that-one-time = Y tro hwnnw fe wnaethon ni roi ein cod ffynhonnell i ffwrdd …
 home-the-mozilla-project = Sefydlwyd y project { -brand-name-mozilla } yn San Francisco yn 1998, pan wnaeth porwr { -brand-name-netscape } y penderfyniad radical i roi cod ei raglen i'r cyhoedd i adeiladu arno a'i wella. Bryd hynny, roedd gan un cwmni fonopoli llawn ar brofiad pobl o'r rhyngrwyd.
 home-eventually-the-open = Yn y pen draw, trawsnewidiodd y prosiect cod agored { -brand-name-mozilla } i'r fersiwn gyntaf hynod boblogaidd o { -brand-name-firefox }.
-home-today-mozilla-continues = Heddiw, mae { -brand-name-mozilla } yn parhau â'i symudiad tuag at well rhyngrwyd gyda miliynau o aelodau gweithgar o'r gymuned ar draws y byd, gan eiriol dros dechnoleg foesegol, AI dibynadwy a chynhyrchu cynhyrchion preifatrwydd yn gyntaf sy'n rhoi mwy o bŵer i'r bobl.
-home-learn-more-about-mozilla = Dysgwch fwy am { -brand-name-mozilla }
-home-get-good-news = Cael (da) { -brand-name-mozilla } newyddion
-home-get-news-and-tips = Mynnwch newyddion ac awgrymiadau gan { -brand-name-mozilla } i aros yn ddiogel a chael gwybod am bopeth sy'n gwneud y we yn lle iachach.
+home-today-mozilla-continues = Heddiw, mae { -brand-name-mozilla } yn parhau â'i symudiad tuag at well rhyngrwyd gyda miliynau o aelodau gweithgar o'r gymuned ar draws y byd, gan eiriol dros dechnoleg foesegol, AI dibynadwy a chynhyrchu cynnyrch preifatrwydd yn gyntaf sy'n rhoi mwy o bŵer i'r bobl.
+home-learn-more-about-mozilla = Rhagor am { -brand-name-mozilla }
+home-get-good-news = Cael  newyddion (da) { -brand-name-mozilla }
+home-get-news-and-tips = Cael newyddion ac awgrymiadau gan { -brand-name-mozilla } i gadw'n ddiogel a chael gwybod am bopeth sy'n gwneud y we yn lle iachach.
 # VPN Feature
-home-featured-product = Cynnyrch dan sylw
+home-featured-product = Cynnyrch
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
-home-feature-blur-your-location = Niwliwch eich lleoliad a gweithgarwch gan ddefnyddio <span>{ -brand-name-mozilla-vpn }</span>
+home-feature-blur-your-location = Cuddiwch eich lleoliad a gweithgarwch gan ddefnyddio <span>{ -brand-name-mozilla-vpn }</span>
