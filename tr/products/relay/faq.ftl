@@ -18,6 +18,11 @@ faq-question-longevity-question = { -brand-name-mozilla }, { -brand-name-firefox
 faq-question-longevity-answer-2 = { -brand-name-relay } e-posta maskesi kullanan tüm hesapların e-posta adresini değiştirmeniz gerektiğini size önceden bildireceğiz.
 faq-question-mozmail-question-2 = E-posta maskelerim neden “mozmail.com” alan adını kullanmaya başladı?
 faq-question-attachments-question = { -brand-name-firefox-relay } ekleri olan e-postaları iletir mi?
+faq-question-unsubscribe-domain-question-2 = { -brand-name-relay-premium } aboneliğimi iptal edersem özel alt alan adıma ne olacak?
+faq-question-8-question = { -brand-name-firefox-relay } hangi verileri topluyor?
+faq-question-email-storage-question = { -brand-name-relay } e-postalarımı saklıyor mu?
+faq-question-email-storage-answer = Hizmetin çalışmadığı ender durumlarda e-postalarınızı gönderene kadar geçici olarak saklayabiliriz. E-postalarınızı asla üç günden fazla saklamayız.
+faq-question-acceptable-use-answer-measure-account = Doğrulanmış bir e-posta adresine sahip bir { -brand-name-firefox-account } gereklidir
 
 ## Frequently Asked Questions about Phone plans
 
