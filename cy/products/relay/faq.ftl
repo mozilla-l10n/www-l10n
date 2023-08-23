@@ -118,14 +118,14 @@ phone-masking-faq-answer-can-i-block = Gallwch rwystro'r holl anfon ymlaen o un 
 phone-masking-faq-question-spam = Beth os bydd fy rhif ffôn cudd yn dechrau cael sbam?
 phone-masking-faq-answer-spam = Os byddwch chi'n dechrau cael sbam, gallwch chi rwystro'r rhifau sy'n anfon sbam atoch.
 phone-masking-faq-question-disable-logging = A allaf analluogi cofnodi galwyr neu anfonwyr testun?
-phone-masking-faq-answer-disable-logging = Gallwch, gallwch analluogi logio rhifau o ddangosfwrdd { -brand-name-relay }. Fodd bynnag, ni fyddwch bellach yn gallu ymateb i negeseuon testun na rhwystro rhifau penodol, oherwydd y log yw sut y gallwn olrhain pwy anfonodd neges destun atoch.
+phone-masking-faq-answer-disable-logging = Gallwch, gallwch analluogi cofnodi rhifau o fwrdd rheoli { -brand-name-relay }. Fodd bynnag, fyddwch chi ddim bellach yn gallu ymateb i negeseuon testun na rhwystro rhifau penodol, oherwydd y cofnod  sy'n caniatáu i ni olrhain pwy anfonodd y neges destun atoch.
 phone-masking-faq-question-can-i-share = A allaf rannu'r rhif sy'n anfon negeseuon testun ataf?
-phone-masking-faq-answer-can-i-share = Os rhannwch y rhif hwn, ni fydd dim yn digwydd - nid mwgwd eich rhif ffôn yw'r rhif hwn. Dyma'r rhif cyswllt yn unig y bydd { -brand-name-relay } yn anfon eich negeseuon testun a'ch galwadau ymlaen ohono.
+phone-masking-faq-answer-can-i-share = Os rhannwch y rhif hwn, bydd dim yn digwydd - nid eich rhif ffôn cudd yw'r rhif hwn. Dyma'r rhif cyswllt yn unig y bydd { -brand-name-relay } yn anfon eich negeseuon testun a'ch galwadau ymlaen ohono.
 phone-masking-faq-question-how-i-save-card = Sut mae cadw'r cerdyn cyswllt { -brand-name-relay }?
-phone-masking-faq-answer-how-i-save-card = Unwaith y byddwch yn uwchraddio i fasgio rhif ffôn { -brand-name-relay }, byddwn yn anfon neges destun at gerdyn cyswllt sy'n cynnwys y rhif y byddwch yn derbyn galwadau a negeseuon testun a anfonwyd ymlaen ohono, yn debyg i unrhyw gerdyn cyswllt sy'n storio rhif ffôn y bobl sy'n cysylltu â chi. Ar y rhan fwyaf o ddyfeisiau, gallwch ddewis y cerdyn cyswllt hwnnw a'i gadw fel unrhyw gyswllt arall ar eich ffôn.
-phone-masking-faq-question-install-app = Oes angen i mi osod ap i ddefnyddio masgio ffôn { -brand-name-relay }?
-phone-masking-faq-answer-install-app = Na, mae masgio ffôn { -brand-name-relay } yn gweithio gan ddefnyddio apiau negeseuon testun a galw safonol eich dyfais.
-phone-masking-faq-question-data = Pa fathau o ddata y mae { -brand-name-relay } masgio ffôn yn ei storio?
+phone-masking-faq-answer-how-i-save-card = Unwaith y byddwch yn uwchraddio i guddio rhif ffôn { -brand-name-relay }, byddwn yn anfon neges destun at gerdyn cyswllt sy'n cynnwys y rhif y byddwch yn derbyn galwadau a negeseuon testun a anfonwyd ymlaen ohono, yn debyg i unrhyw gerdyn cyswllt sy'n storio rhif ffôn y bobl sy'n cysylltu â chi. Ar y rhan fwyaf o ddyfeisiau, gallwch ddewis y cerdyn cyswllt hwnnw a'i gadw fel unrhyw gyswllt arall ar eich ffôn.
+phone-masking-faq-question-install-app = Oes angen i mi osod ap i ddefnyddio cuddio rhif ffôn { -brand-name-relay }?
+phone-masking-faq-answer-install-app = Na, mae cuddio rhif ffôn { -brand-name-relay } yn gweithio gan ddefnyddio apiau negeseuon testun a galw safonol eich dyfais.
+phone-masking-faq-question-data = Pa fathau o ddata y mae cuddio rhif ffôn { -brand-name-relay } yn ei gadw?
 #   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
-phone-masking-faq-answer-data = Gweler y <a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay } Polisi Preifatrwydd</a>.
+phone-masking-faq-answer-data = Darllenwch y <a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay } Polisi Preifatrwydd</a>.

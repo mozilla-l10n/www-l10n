@@ -16,12 +16,12 @@ highlighted-features-section-unlimited-masks-headline = Crëwch e-byst arallenwa
 #   $mask_limit (number) - the number of masks included with a particular plan
 highlighted-features-section-unlimited-masks-body-v2 =
     { $mask_limit ->
-        [zero] Mae pawb yn cael { $mask_limit } masgiau e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i amddiffyn eich mewnflwch e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
-        [one] Mae pawb yn cael { $mask_limit } mwgwd e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i amddiffyn eich mewnflwch e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
-        [two] Mae pawb yn cael { $mask_limit } masgiau e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i amddiffyn eich mewnflwch e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
-        [few] Mae pawb yn cael { $mask_limit } masgiau e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i amddiffyn eich mewnflwch e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
-        [many] Mae pawb yn cael { $mask_limit } masgiau e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i amddiffyn eich mewnflwch e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
-       *[other] Mae pawb yn cael { $mask_limit } masgiau e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i amddiffyn eich mewnflwch e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
+        [zero] Mae pawb yn cael { $mask_limit } arallenwau e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i ddiogelu eich blwch derbyn e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
+        [one] Mae pawb yn cael { $mask_limit } arallenw e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i ddiogelu eich blwch derbyn e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
+        [two] Mae pawb yn cael { $mask_limit } arallenw e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i ddiogelu eich blwch derbyn e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
+        [few] Mae pawb yn cael { $mask_limit } arallenw e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i ddiogelu eich blwch derbyn e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
+        [many] Mae pawb yn cael { $mask_limit } arallenw e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i ddiogelu eich blwch derbyn e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
+       *[other] Mae pawb yn cael { $mask_limit } arallenw e-bost am ddim. Ond gyda { -brand-name-relay-premium }, gallwch gynhyrchu cymaint o fasgiau ag sydd eu hangen arnoch i helpu i ddiogelu eich blwch derbyn e-bost rhag sbamwyr, hacwyr a thracwyr ar-lein.
     }
 highlighted-features-section-masks-on-the-go-headline = Crëwch arallenwau e-bost ar daith, yn syth
 # Variables:

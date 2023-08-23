@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
 waitlist-premium-name = { -brand-name-relay-premium }
-waitlist-bundle-name = { -brand-name-relay } + { -brand-name-vpn } bwndel
-waitlist-phone-name = { -brand-name-relay } masgio ffôn
+waitlist-bundle-name = Bwndel { -brand-name-relay } + { -brand-name-vpn }
+waitlist-phone-name = Cuddio rhif ffôn { -brand-name-relay }
 waitlist-heading-2 = Ymunwch â rhestr aros { -brand-name-relay-premium }
 waitlist-heading-phone = Ymunwch â rhestr aros cuddio ffôn { -brand-name-relay }
 waitlist-heading-bundle = Ymunwch â'r rhestr aros ar gyfer pecyn { -brand-name-relay } + { -brand-name-vpn }
@@ -33,7 +33,7 @@ waitlist-subscribe-success-title = Diolch! Rydych chi ar y rhestr
 #      - { -brand-name-relay-premium }
 #      - { waitlist-bundle-name }
 #      - { waitlist-phone-name }
-waitlist-subscribe-success-email-desc = Unwaith y bydd { -brand-name-relay-premium } ar gael ar gyfer eich rhanbarth, byddwn yn anfon e-bost atoch.
+waitlist-subscribe-success-email-desc = Unwaith y bydd { -brand-name-relay-premium } ar gael ar gyfer eich ardal, byddwn yn anfon e-bost atoch.
 waitlist-subscribe-success-phone-desc = Unwaith y bydd masgio ffôn { -brand-name-relay } ar gael ar gyfer eich rhanbarth, byddwn yn anfon e-bost atoch.
 waitlist-subscribe-success-bundle-desc = Unwaith y bydd { -brand-name-relay } + { -brand-name-vpn } ar gael ar gyfer eich rhanbarth, byddwn yn anfon e-bost atoch.
 waitlist-subscribe-please-enter-a-valid = Rhowch gyfeiriad e-bost dilys.

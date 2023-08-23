@@ -12,7 +12,7 @@ plan-matrix-title = Prisio
 plan-matrix-offer-title = Dewiswch lefel o ddiogelwch sy'n iawn i chi
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-offer-body-v2 = Mae { -brand-name-firefox-relay } yn diogelu eich hunaniaeth a'ch mewnflwch gyda masgiau e-bost unigryw. Ychwanegu hyd yn oed mwy o ddiogelwch gyda masgio ffôn { -brand-name-relay }, ac arbed { $savings }% drwy ychwanegu amddiffyniad { -brand-name-mozilla-vpn }.
+plan-matrix-offer-body-v2 = Mae { -brand-name-firefox-relay } yn diogelu eich hunaniaeth a'ch blwch derbyn gydag arallenwau e-bost unigryw. Ychwanegwch mwy fyth o ddiogelwch gyda chuddio rhif ffôn { -brand-name-relay } ac arbed { $savings }% drwy ychwanegu diogelwch { -brand-name-mozilla-vpn }.
 
 ## Top Row Labels
 
@@ -65,7 +65,7 @@ plan-matrix-price-period-yearly-footnote-1 = Bilio blynyddol
 plan-matrix-price-period-monthly-footnote-1 = Bilio misol
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-price-vpn-discount-promo-v2 = <span>Cadw { $savings }%</span> ar bris VPN arferol
+plan-matrix-price-vpn-discount-promo-v2 = <span>Arbedwch { $savings }%</span> ar bris VPN arferol
 
 ## Plan CTAs
 
