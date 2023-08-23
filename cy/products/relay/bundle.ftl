@@ -10,7 +10,7 @@
 bundle-banner-header-2 = Am amser cyfyngedig yn unig: { -brand-name-relay-premium } + { -brand-name-mozilla-vpn } am { $monthly_price }/month*
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-bundle-banner-body-v2 = Mae { -brand-name-mozilla-vpn } yn eich dio rhag tracio a gwyliadwriaeth tra byddwch yn hapchwarae, yn bancio ar-lein, neu'n gweithio. Ychwanegwch ef at { -brand-name-firefox-relay } am arbediad o{ $savings }%.
+bundle-banner-body-v2 = Mae { -brand-name-mozilla-vpn } yn eich cuddio rhag tracio a gwyliadwriaeth tra byddwch yn hapchwarae, yn bancio ar-lein, neu'n gweithio. Ychwanegwch ef at { -brand-name-firefox-relay } am arbediad o { $savings }%.
 bundle-banner-plan-header-2 = Mae eich cynllun 1 flwyddyn yn cynnwys:
 bundle-banner-plan-modules-email-masking = Arallenwau e-byst
 bundle-banner-plan-modules-phone-masking = Cuddio ffôn
@@ -23,7 +23,7 @@ bundle-banner-money-back-guarantee-2 = { $days_guarantee }-diwrnod o warant aria
 #   $num_vpn_servers (string) - the number of VPN servers. Examples: 400, 500, 600
 bundle-feature-more-than-servers =
     { $num_vpn_servers ->
-        [zero] Mwy na { $num_vpn_servers } gweinydd
+        [zero] Does { $num_vpn_servers } gweinyddion
         [one] Mwy na { $num_vpn_servers } gweinydd
         [two] Mwy na { $num_vpn_servers } weinydd
         [few] Mwy na { $num_vpn_servers } gweinydd
@@ -34,7 +34,7 @@ bundle-feature-more-than-servers =
 #   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
 bundle-feature-more-than-countries =
     { $num_vpn_countries ->
-        [zero] Mwy na { $num_vpn_countries } gwlad
+        [zero] Does dim { $num_vpn_countries } gwledydd
         [one] Mwy na { $num_vpn_countries } gwlad
         [two] Mwy na { $num_vpn_countries } wlad
         [few] Mwy na { $num_vpn_countries } gwlad

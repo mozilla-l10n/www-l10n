@@ -33,9 +33,9 @@ waitlist-subscribe-success-title = Diolch! Rydych chi ar y rhestr
 #      - { -brand-name-relay-premium }
 #      - { waitlist-bundle-name }
 #      - { waitlist-phone-name }
-waitlist-subscribe-success-email-desc = Unwaith y bydd { -brand-name-relay-premium } ar gael ar gyfer eich ardal, byddwn yn anfon e-bost atoch.
-waitlist-subscribe-success-phone-desc = Unwaith y bydd masgio ffôn { -brand-name-relay } ar gael ar gyfer eich rhanbarth, byddwn yn anfon e-bost atoch.
-waitlist-subscribe-success-bundle-desc = Unwaith y bydd { -brand-name-relay } + { -brand-name-vpn } ar gael ar gyfer eich rhanbarth, byddwn yn anfon e-bost atoch.
+waitlist-subscribe-success-email-desc = Unwaith y bydd { -brand-name-relay-premium } ar gael yn eich ardal, byddwn yn anfon e-bost atoch.
+waitlist-subscribe-success-phone-desc = Unwaith y bydd cuddio rhifau ffôn { -brand-name-relay } ar gael yn eich ardal, byddwn yn anfon e-bost atoch.
+waitlist-subscribe-success-bundle-desc = Unwaith y bydd { -brand-name-relay } + { -brand-name-vpn } ar gael yn eich ardal, byddwn yn anfon e-bost atoch.
 waitlist-subscribe-please-enter-a-valid = Rhowch gyfeiriad e-bost dilys.
 waitlist-subscribe-please-select-country = Dewiswch wlad neu ardal
 waitlist-subscribe-please-select-language = Dewiswch iaith.
