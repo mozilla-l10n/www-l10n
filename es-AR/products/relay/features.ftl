@@ -16,8 +16,8 @@ highlighted-features-section-unlimited-masks-headline = Crear máscaras de corre
 #   $mask_limit (number) - the number of masks included with a particular plan
 highlighted-features-section-unlimited-masks-body-v2 =
     { $mask_limit ->
-        [one] Todos obtienen { $mask_limit } máscara de correo electrónico gratis. Pero con { -brand-name-relay-premium }, puede generar tantas máscaras como necesite para ayudar a proteger la bandeja de entrada de su correo electrónico de spammers, piratas informáticos y rastreadores en línea.
-       *[other] Todos obtienen { $mask_limit } máscaras de correo electrónico gratis. Pero con { -brand-name-relay-premium }, puede generar tantas máscaras como necesite para ayudar a proteger la bandeja de entrada de su correo electrónico de spammers, piratas informáticos y rastreadores en línea.
+        [one] Todos obtienen { $mask_limit } máscara de correo electrónico gratis. Pero con { -brand-name-relay-premium }, podés generar tantas máscaras como necesités para ayudar a proteger la bandeja de entrada de tu correo electrónico de spammers, piratas informáticos y rastreadores en línea.
+       *[other] Todos obtienen { $mask_limit } máscaras de correo electrónico gratis. Pero con { -brand-name-relay-premium }, podés generar tantas máscaras como necesités para ayudar a proteger la bandeja de entrada de tu correo electrónico de spammers, piratas informáticos y rastreadores en línea.
     }
 highlighted-features-section-masks-on-the-go-headline = Crea máscaras al instante sobre la marcha
 # Variables:
