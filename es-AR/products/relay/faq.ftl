@@ -9,11 +9,11 @@
 ## FAQ Page
 
 faq-headline = Preguntas frecuentes
-faq-question-what-is-question-2 = ¿Qué es una máscara de correo electrónico { -brand-name-relay }?
+faq-question-what-is-question-2 = ¿Qué es una máscara de correo electrónico de { -brand-name-relay }?
 faq-question-what-is-answer-2 = Las máscaras de correo electrónico son direcciones de correo electrónico enmascaradas o privadas que reenvían los mensajes a tu verdadera dirección de correo electrónico. Estas máscaras te permiten compartir una dirección con terceros que enmascararán tu verdadera dirección de correo electrónico y te reenviarán los mensajes a la misma.
-faq-question-missing-emails-question-2 = No estoy reci8biendo los mensajes de mis máscaras de correo electrónico
+faq-question-missing-emails-question-2 = No estoy recibiendo los mensajes de mis máscaras de correo electrónico
 faq-question-missing-emails-answer-a-2 = Hay algunas razones porque las que podrías no estar recibiendo correos electrónicos reenviados a tus máscaras. Estas razones incluyen:
-faq-question-missing-emails-answer-reason-spam = Los mensajes van a ir a spam
+faq-question-missing-emails-answer-reason-spam = Los mensajes están yendo a spam
 faq-question-missing-emails-answer-reason-blocked-2 = Tu proveedor de correo electrónico está bloqueando tus máscaras de correo electrónico
 # Variables:
 #  $size (number): maximum size for attachments in MB
@@ -37,12 +37,12 @@ faq-question-1-answer-a-2 = Si bien { -brand-name-relay } no filtra el spam, nue
 # Variables:
 #   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
 #   $attrs (string) - specific attributes added to external links
-faq-question-1-answer-b-2-html = Si ves un problema más amplio de correos electrónicos no deseados con todas tus máscaras, <a href="{ $url }" { $attrs }> infórmanos </a> para que consideremos ajustar los límites de spam de SES para esto. servicio Si los informa como spam, su proveedor de correo electrónico verá { -brand-name-relay } como la fuente del spam, no el remitente original.
+faq-question-1-answer-b-2-html = Si ves un problema más amplio de correos electrónicos no deseados con todas tus máscaras, <a href="{ $url }" { $attrs }>informanos</a> para que consideremos ajustar los límites de spam de SES para este servicio. Si los informás como spam, tu proveedor de correo electrónico verá a { -brand-name-relay } como la fuente del spam, no al remitente original.
 faq-question-availability-question = ¿Dónde está disponible { -brand-name-relay }?
 faq-question-availability-answer-v3 = { -brand-name-relay } gratuito está disponible en la mayoría de los países. { -brand-name-relay-premium } está disponible en Austria, Bélgica, Canadá, Chipre, Estonia, Finlandia, Francia, Alemania, Grecia, Irlanda, Italia, Letonia, Lituania, Luxemburgo, Malasia, Malta, Países Bajos, Nueva Zelanda, Portugal, Singapur, Eslovaquia, Eslovenia, España, Suecia, Suiza, Reino Unido y Estados Unidos.
 faq-question-landing-page-availability = { -brand-name-relay } gratuito está disponible en la mayoría de los países. El enmascaramiento de correo electrónico de { -brand-name-relay-premium } está disponible en Estados Unidos, Alemania, Reino Unido, Canadá, Singapur, Malasia, Nueva Zelanda, Francia, Bélgica, Austria, España, Italia, Suiza, Países Bajos e Irlanda. El enmascaramiento de teléfono { -brand-name-relay-premium } solo está disponible en EE. UU. y Canadá.
 faq-question-4-question-2 = ¿Puedo responder mensajes usando mi máscara de correo electrónico de { -brand-name-relay }?
-faq-question-4-answer-v4 = Los usuarios de { -brand-name-relay-premium } pueden responder un correo electrónico reenviado dentro de los 3 meses posteriores a la recepción del correo electrónico. Si agregás CC o CCO al responder un correo electrónico, su dirección de correo electrónico original será expuesta al destinatario y a las copiadas en el correo electrónico. Si no querés que se muestre tu dirección de correo electrónico original, no agregués CC o CCO al responder.
+faq-question-4-answer-v4 = Los usuarios de { -brand-name-relay-premium } pueden responder un correo electrónico reenviado dentro de los 3 meses posteriores a la recepción del correo electrónico. Si agregás CC o CCO al responder un correo electrónico, tu dirección de correo electrónico original será expuesta al destinatario y a las copiadas en el correo electrónico. Si no querés que se muestre tu dirección de correo electrónico original, no agregués CC o CCO al responder.
 faq-question-subdomain-characters-question = ¿Qué caracteres puedo usar para crear un subdominio?
 faq-question-subdomain-characters-answer-v2 = Solo podés usar letras minúsculas, números y guiones para crear un subdominio.
 faq-question-browser-support-question = ¿Puedo usar { -brand-name-relay } en otros navegadores o en mi dispositivo móvil?
@@ -56,12 +56,12 @@ faq-question-attachments-question = ¿{ -brand-name-firefox-relay } reenviará c
 #  $size (number): maximum size for attachments in MB
 faq-question-attachments-answer-v2 = Ahora admitimos el reenvío de adjuntos. Sin embargo, hay un límite de { $size } MB para el reenvío de correo electrónico usando { -brand-name-relay }. Los correos electrónicos de más de { $size } MB no serán reenviados.
 faq-question-unsubscribe-domain-question-2 = ¿Qué le pasa a mi subdominio personalizado si cancelo la suscripción a { -brand-name-relay-premium }?
-faq-question-unsubscribe-domain-answer-2 = Si cambias a una versión anterior de { -brand-name-relay-premium }, seguirás recibiendo correos electrónicos reenviados a través de tus máscaras de correo electrónico personalizadas, pero ya no podrás crear nuevas máscaras usando ese subdominio. Si tienes más de cinco máscaras en total, no podrás crear más. También perderás la capacidad de responder a los mensajes reenviados. Puede volver a suscribirse a { -brand-name-relay-premium } y recuperar el acceso a estas funciones.
+faq-question-unsubscribe-domain-answer-2 = Si volvés a la versión gratis de { -brand-name-relay-premium }, seguirás recibiendo correos electrónicos reenviados a través de tus máscaras de correo electrónico personalizadas, pero ya no podrás crear nuevas máscaras usando ese subdominio. Si tenés más de cinco máscaras en total, no podrás crear más. También perderás la capacidad de responder a los mensajes reenviados. Podés volver a suscribirte a { -brand-name-relay-premium } y recuperar el acceso a estas funciones.
 faq-question-8-question = ¿Qué datos recopila { -brand-name-firefox-relay }?
 # Variables:
 #   $url (url) - https://www.mozilla.org/privacy/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
-faq-question-8-answer-3-html = { -brand-name-firefox-relay } recopila los sitios web en los que usaste máscaras de correo electrónico y etiqueta esas máscaras con esos sitios para que podás identificarlos fácilmente. Podés optar por no hacerlo en la página de Configuración, en Privacidad. Pero tené en cuenta que desactivar esa configuración significa que no podrás ver dónde has usado cada máscara y los nombres de tus cuentas ya no se sincronizarán entre dispositivos. Podé ver más información sobre los datos que { -brand-name-firefox-relay } recopila en nuestra <a href="{ $url }" { $attrs }>Nota de privacidad</a>.
+faq-question-8-answer-3-html = { -brand-name-firefox-relay } recopila los sitios web en los que usaste máscaras de correo electrónico y etiqueta esas máscaras con esos sitios para que podás identificarlos fácilmente. Podés optar por no hacerlo en la página de Configuración, en Privacidad. Pero tené en cuenta que desactivar esa configuración significa que no podrás ver dónde has usado cada máscara y los nombres de tus cuentas ya no se sincronizarán entre dispositivos. Podés ver más información sobre los datos que { -brand-name-firefox-relay } recopila en nuestra <a href="{ $url }" { $attrs }>Nota de privacidad</a>.
 faq-question-email-storage-question = ¿{ -brand-name-relay } guarda mis correos electrónicos?
 faq-question-email-storage-answer = En las raras circunstancias en que el servicio no funcione, podemos almacenar temporalmente tus correos electrónicos hasta que podamos enviarlos. Nunca guardaremos tu correo electrónico por más de tres días.
 faq-question-acceptable-use-question = ¿Cuáles son los usos aceptables de { -brand-name-relay }?
