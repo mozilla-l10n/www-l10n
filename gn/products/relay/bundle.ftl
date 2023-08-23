@@ -8,6 +8,9 @@
 # Variables:
 #   $monthly_price (string) - the monthly cost (including currency symbol) for a given plan. Examples: $0.99, 0,99 €
 bundle-banner-header-2 = Ndahi’aremo’ãi: { -brand-name-relay-premium } + { -brand-name-mozilla-vpn } { $monthly_price } jasyguápe
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+bundle-banner-body-v2 = { -brand-name-mozilla-vpn } nemo’ã jehapykueho ha ñema’ẽgui eñembosarái aja, emongu’évo viru ñanduti rupi banco-pe térã emba’apóvo. Embojuaju { -brand-name-firefox-relay } { $savings }% tepyguejýpe g̃uarã.
 bundle-banner-plan-header-2 = Ne ñehepyme’ẽrã 1 arygua ogueroike:
 bundle-banner-plan-modules-email-masking = Ñanduti veve rovamo’ãha
 bundle-banner-plan-modules-phone-masking = Pumbyry rovamo’ãha
