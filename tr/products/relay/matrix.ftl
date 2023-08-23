@@ -39,6 +39,15 @@ plan-matrix-price-free = Ücretsiz
 
 ## Plan Price
 
+# Variables:
+#   $monthly_price (string) - the monthly cost (including currency symbol) for a given plan. Examples: $0.99, 0,99 €
+plan-matrix-price-monthly-calculated = Aylık { $monthly_price }
+plan-matrix-price-period-yearly = Yıllık
+plan-matrix-price-period-monthly = Aylık
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = Normal VPN fiyatından <span>%{ $savings } tasarruf edin</span>
 
 ## Plan CTAs
 
+plan-matrix-join-waitlist = Bekleme listesine katılın
