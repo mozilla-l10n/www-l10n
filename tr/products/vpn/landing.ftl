@@ -84,13 +84,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ve üstü)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ve üstü)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 ve üzeri)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (yalnızca { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (yalnızca { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ve üstü)
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn }’in iade politikası nasıl?
 # Outdated string
 vpn-landing-faq-refund-question-desc = Aboneliğinizi başlattıktan sonraki 30 gün içinde para iadesi alabilirsiniz. İade talebinde bulunmak için { -brand-name-mozilla-vpn } uygulamanızın Ayarlar kısmındaki “Yardım Al” düğmesine dokunarak bizimle iletişime geçebilirsiniz.

@@ -26,6 +26,8 @@ privacy-passwords-tricking-you-into = Parolanızı onlara vermeniz için sizi ka
 privacy-passwords-look-for-the = Tarayıcınızdaki asma kilide dikkat edin
 privacy-passwords-a-closed-lock = Tüm büyük tarayıcılarda adres çubuğundaki web sitesi adresinin hemen önünde kapalı bir asma kilit görünür.
 privacy-passwords-a-padlock-with = Kırmızı çapraz çizgili asma kilit, bağlantının güvenli olmadığını gösterir.
+privacy-passwords-firefox-will-v2 = Sitenin kimlik avı sitesi olduğu biliniyorsa { -brand-name-firefox } web sitesi yerine bir uyarı görüntüleyecektir.
+# Outdated string
 privacy-passwords-firefox-will = Sitenin kimlik avı sitesi olduğu biliniyorsa Firefox web sitesi yerine bir uyarı görüntüleyecektir.
 privacy-passwords-strength-in-diversity = Farklılıktan gelen güç
 privacy-passwords-security-questions-my = Güvenlik Soruları: Annemin kızlık soyadı “Ff926AKa9j6Q”
