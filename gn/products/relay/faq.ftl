@@ -26,6 +26,7 @@ faq-question-missing-emails-answer-support-site-html = Neapañuãiramo, ikatuhí
 faq-question-use-cases-question-2 = Araka’épa reipurúta { -brand-name-relay } rovamo’ãha
 faq-question-2-question-2 = Mba’érepa tenda nomoneĩmo’ãi { -brand-name-relay } ñandutiveve rovamo’ãha
 faq-question-1-question = Mba’épa oiko spam-gui
+faq-question-1-answer-a-2 = Ojekuaahápe { -brand-name-relay } nomboguaiha spam, ore irũ Amazon SES ñanduti veve ojoko spam ha malware. Hẽe { -brand-name-relay } ombojevyjey ñe’ẽmondo eipota’ỹva, embohekopyahukuaa nde { -brand-name-relay } ñemboheko ejoko hag̃ua umi tovamo’ãha ñe’ẽmondo ombojevyjeýva.
 faq-question-availability-question = Moõpa reipurukuaa { -brand-name-relay }
 faq-question-4-question-2 = Ambohovaikuaápa ñe’ẽmondo aipurúvo { -brand-name-relay } ñanduti veve rovamo’ãha
 faq-question-subdomain-characters-question = Mba’e taípa aipurukuaa amoheñói hag̃ua tendatee’i
