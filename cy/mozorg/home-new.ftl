@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
 home-internet-for-people-not-profit = Rhyngrwyd ar gyfer pobl, nid elw
-home-did-you-know-mozilla-the-maker = A wyddoch chi? Mae { -brand-name-mozilla } — gwneuthurwr { -brand-name-firefox } — yn ymladd i gadw'r Rhyngrwyd yn adnodd cyhoeddus byd eang ar gael ac agored i bawb.
-home-mission-driven = Cenhadol a yrrir. Wedi'i bweru gan bobl.
+home-did-you-know-mozilla-the-maker = A wyddoch chi? Mae { -brand-name-mozilla } — gwneuthurwr { -brand-name-firefox } — yn brwydro i gadw'r Rhyngrwyd yn adnodd cyhoeddus byd eang ar gael ac yn agored i bawb.
+home-mission-driven = Cenhadaeth Rymus. Pŵer pobl.
 home-were-not-normal = Nid ydym yn gwmni technoleg arferol. Mae'r pethau rydyn ni'n eu creu yn blaenoriaethu pobl a'u preifatrwydd dros elw. Rydym yn bodoli i wneud y rhyngrwyd yn lle iachach, hapusach i bawb.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Iechyd y rhyngrwyd a bywyd ar-lein yw pam rydyn ni’n bodoli.”
