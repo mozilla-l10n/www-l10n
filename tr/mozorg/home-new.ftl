@@ -22,3 +22,5 @@ home-politico-cite = Politico
 home-join-the-fight = Sağlıklı bir internet için verdiğimiz mücadeleye katılın
 # VPN Feature
 home-featured-product = Mutlaka deneyin
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = <span>{ -brand-name-mozilla-vpn }</span> ile konumunuzu ve internetteki etkinliklerinizi gizleyin
