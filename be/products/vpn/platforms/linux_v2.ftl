@@ -38,3 +38,6 @@ vpn-linux-ubuntu-command = <strong>Рэжым каманднага радка Ub
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
 vpn-linux-ubuntu-graphical = <strong>Графічны інтэрфейс карыстальніка Ubuntu:</strong> наведайце <a { $attrs }>гэты артыкул</a> і выконвайце інструкцыі ў раздзеле «Даданне асабістых архіваў пакетаў».
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Акрамя таго, для дыстрыбутываў Linux, якія не падтрымліваюцца, вы можаце ўзяць і скампіляваць зыходны код з <a { $attrs }>афіцыйнага рэпазіторыя GitHub</a>.
