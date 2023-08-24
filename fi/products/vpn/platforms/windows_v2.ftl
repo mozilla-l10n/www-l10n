@@ -14,6 +14,7 @@ vpn-windows-a-vpn-creates = VPN luo salatun "tunnelin" Internet-liikennettäsi v
 vpn-windows-what-are-the-benefits = Mitä hyötyä on { -brand-name-mozilla-vpn }:n lataamisesta Windows-laitteeseeni?
 vpn-windows-avoid-your-online = Vältä verkkotoimintasi keräämistä ja jakamista kolmansille osapuolille tai mainostajille.
 vpn-windows-if-youre = Jos olet ahkera verkkovideoiden tai musiikin suoratoiston käyttäjä, voit mahdollisesti välttää kaistanleveyden rajoittamisen Internet-palveluntarjoajasi toimesta käyttämällä VPN:ää.
+vpn-windows-you-can-exclude = Voit sulkea pois tietyt sovellukset jaetun tunneloinnin ominaisuuden avulla. Tämän ansiosta jotkin sovellukset toimivat VPN:n kautta, kun taas muut sovellukset jäävät tunnelin ulkopuolelle.
 vpn-windows-using-a-windows = Windows-laitteen käyttäminen julkisessa, suojaamattomassa Wi-Fi-verkossa tekee Internet-liikenteestäsi alttiimpaa verkon vakoojille, ja VPN voi auttaa sinua pitämään tietosi yksityisinä lisäämällä vahvan suojakerroksen.
 vpn-windows-the-mozilla = { -brand-name-mozilla-vpn } -sovellus ei kuluta liikaa Windows-laitteesi muistia, hidasta tietokonettasi tai tuhlaa arvokasta akkuvarausta.
 # Variables:

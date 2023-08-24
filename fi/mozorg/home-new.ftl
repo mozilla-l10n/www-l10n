@@ -24,6 +24,7 @@ home-cta-get-vpn = Hanki { -brand-name-mozilla-vpn }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-is-mozilla-a-corporation = Onko { -brand-name-mozilla } yritys vai voittoa tavoittelematon järjestö? Itse asiassa molempia.
+home-learn-about-mofo = Lue lisää { -brand-name-mozilla-foundation }ista
 home-join-the-fight = Liity taisteluun terveen internetin puolesta
 home-your-voice-your-code = Äänesi. Koodisi. Ideasi. Voit osallistua { -brand-name-mozilla }an kirjaimellisesti tuhansilla eri tavoilla.
 home-volunteer-with-mozilla = Tee vapaaehtoistyötä { -brand-name-mozilla }n kanssa
