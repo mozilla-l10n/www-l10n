@@ -15,6 +15,9 @@ faq-question-missing-emails-question-2 = Io non recipe messages ab mi mascas ema
 faq-question-missing-emails-answer-a-2 = Il ha alcun rationes perque tu pote non reciper emails inultrate per tu mascas. Iste rationes include:
 faq-question-missing-emails-answer-reason-spam = Messages que vade in SPAM
 faq-question-missing-emails-answer-reason-blocked-2 = Tu fornitor de servicios email bloca tu mascas email
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = Le e-mail inultrate ha un annexo major de { $size }
 faq-question-missing-emails-answer-reason-not-accepted-2 = Le sito non accepta mascas email
 faq-question-missing-emails-answer-reason-turned-off-2 = Le mascas pote haber le function de inultrar disactivate
 faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } pote star plus longemente que usual pro inultrar tu messages

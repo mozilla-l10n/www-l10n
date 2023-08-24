@@ -8,6 +8,9 @@
 # Variables:
 #   $monthly_price (string) - the monthly cost (including currency symbol) for a given plan. Examples: $0.99, 0,99 €
 bundle-banner-header-2 = Solo pro tempore limitate: { -brand-name-relay-premium } + { -brand-name-mozilla-vpn } pro { $monthly_price }/mense
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+bundle-banner-body-v2 = { -brand-name-mozilla-vpn } te protege del traciamento e del surveliantia dum tu joca, gere tu banca, o labora online. Adde lo a { -brand-name-firefox-relay } pro sparniar { $savings }%.
 bundle-banner-plan-header-2 = Tu plano de un anno include:
 bundle-banner-plan-modules-email-masking = Mascas email
 bundle-banner-plan-modules-phone-masking = Mascas de telephono
@@ -21,5 +24,11 @@ bundle-banner-money-back-guarantee-2 = Reimbursamento garantite pro { $days_guar
 bundle-feature-more-than-servers =
     { $num_vpn_servers ->
        *[other] Plus que { $num_vpn_servers } servitores
+    }
+# Variables:
+#   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
+bundle-feature-more-than-countries =
+    { $num_vpn_countries ->
+       *[other] Plus que { $num_vpn_countries } paises
     }
 bundle-feature-three = Rete veloce e secur
