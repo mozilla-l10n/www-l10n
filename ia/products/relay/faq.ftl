@@ -52,6 +52,9 @@ faq-question-longevity-answer-2 = Nos in avantia te dara aviso que tu debe cambi
 faq-question-mozmail-question-2 = Perque mi mascas email comenciava usar le dominio “mozmail.com?”
 faq-question-mozmail-answer-2 = Nos passava de “relay.firefox.com” a “mozmail.com” pro render possibile obtener un subdominio email personal, tal como mask@yourdomain.mozmail.com. Le subdominios email personal, disponibile pro le subscriptores de { -brand-name-relay-premium }, te permitte de generar mascas email plus facile a rememorar.
 faq-question-attachments-question = Inultrara { -brand-name-firefox-relay } e-mails con annexos?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Nos ora supporta le inultramento de annexos. Comocunque, il ha un limite de { $size } MB pro inultrar email per { -brand-name-relay }.
 faq-question-unsubscribe-domain-question-2 = Que eveni a mi subdominio personal si io me remove del abonamento de { -brand-name-relay-premium }?
 faq-question-unsubscribe-domain-answer-2 = Si tu degrada de { -brand-name-relay-premium }, tu recipera ancora emails inultrate a transverso de tu mascas email personal, ma tu non plus potera crear nove mascas per ille subdominio. Si tu ha plus que cinque mascas in total, tu non potera crear ulle plus. Tu alsi perdera le capacitate de replica a messages inultrate. Tu pote re-abonar te a { -brand-name-relay-premium } e reganiar accesso a iste functionalitates.
 faq-question-8-question = Que datos collige { -brand-name-firefox-relay }?
@@ -85,4 +88,30 @@ faq-question-trackerremoval-breakage-answer-2 = Aliquando le remotion de traciat
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = Que es un masca del numero de telephono?
+phone-masking-faq-answer-what-is = Similemente a un masca email, un masca del numero de telephono es un numero de telephono que pote inultrar textos e appellos a tu ver numero de telephono sin revelar qual es tu ver numero al persona qui te appella o scribe SMS.
+phone-masking-faq-question-where-is = Ubi es disponibile le mascas de telephono?
+phone-masking-faq-answer-where-is = A iste tempore, le mascas de numero de telephono es solo disponibile in le Statos Unite e Canada. Isto significa tu pote solo reciper appellos e textos inultrate de ab le numeros de SUA o Canada. Nos labora pro trovar un maniera de offerer mascas de numero de telephono alsi foras de iste duo paises.
+phone-masking-faq-question-how-many = Quante mascas de telephono ha io?
+phone-masking-faq-answer-how-many = Tu ha un sol masca del numero de telephono a iste tempore. Un vice que tu elige tu masca del numero de telephono, tu non pote cambiar lo plus tarde.
+phone-masking-faq-question-change-phone-mask = Pote io cambiar mi masca de telephono?
+phone-masking-faq-answer-change-phone-mask = No, tu non pote cambiar tu masca del numero de telephono, un vice que tu lo ha eligite.
 phone-masking-faq-question-can-reply = Pote io responder a textos?
+phone-masking-faq-answer-can-reply = Si, tu pote replicar al ultime texto SMS que tu ha recipite. Justo responde como tu vole a ulle message SMS.
+phone-masking-faq-question-forwarded-texts = Que sorta de textos sera inultrate?
+phone-masking-faq-answer-forwarded-texts = Solo messages de texto SMS pote esser inultrate.
+phone-masking-faq-question-pictures = Pote io inviar o reciper imagines via SMS?
+phone-masking-faq-answer-pictures = No, solo messages de texto SMS pote esser inultrate o inviate como responsas.
+phone-masking-faq-question-historical = Pote io responder a messages de texto historic?
+phone-masking-faq-answer-historical = Tu non pote actualmente responder a textos que tu ha recipite previemente, ben que iste function es in cammino.
+phone-masking-faq-question-can-i-send = Pote io inviar un texto sin responder a uno?
+phone-masking-faq-answer-can-i-send = No, tu non pote ancora inviar textos que non es responsas. Tu pote solo responder a textos inultrate.
+phone-masking-faq-question-limit = Ha il un limite a quante messages de texto io pote obtener?
+phone-masking-faq-answer-limit = Tu pote reciper e responder usque a 75 messages de texto cata mense total. Ulle altere textos inviate a tu masca del numero de telephono non sera inultrate a tu ver numero. Ulle altere responsas non sera livrate. Le mense muta a tu data de facturation, non al data de calendario. Un vice que tu mense de facturation ha mutate, tu recomenciara a reciper le messages de texto.
+phone-masking-faq-question-call-length = Per quante tempore pote io parlar quando io obtene un appello?
+phone-masking-faq-answer-call-length = Cata mense tu ha 50 minutas de conversation. Un vice iste minutas es usate, tu non potera reciper appellos inultrate usque le mense successive a tu termino de facturation.
+phone-masking-faq-question-can-i-call = Pote io appellar alcuno con mi masca de telephono?
+phone-masking-faq-answer-can-i-call = No, tu pote solo reprender un appello inultrate.
+phone-masking-faq-question-can-i-see = Pote io vider qui me ha scribite o vocate?
+phone-masking-faq-answer-can-i-see = Si, tu pote vider le numero que te scribeva SMS o appellava. Tu alsi pote disactivar le immagazinage de iste registrationes, ma tu perdera le capacitate de responder e blocar singule appellatores e scriptores de SMS.
+phone-masking-faq-answer-can-i-block = Tu pote blocar toto lo que es inultrate ab un singule numero.
+phone-masking-faq-question-spam = Que occurre si mi masca de telephono comencia a obtener spam?

@@ -33,6 +33,10 @@ home-volunteer-with-mozilla = Voluntario con { -brand-name-mozilla }
 home-that-one-time = In ille tempore nos dava via nostre codification fonte…
 home-the-mozilla-project = Le projecto { -brand-name-mozilla } era fundate in San Francisco in 1998, quando le navigator { -brand-name-netscape } prendeva le radical decision de donar al publico le codification de su programma, pro construer super illo e meliorar lo. In ille tempore, un singule compania habeva un monopolio virtual sur como le personas experimentava internet.
 home-eventually-the-open = Finalmente, le projecto open source { -brand-name-mozilla } mutava in le enthusiastic popular prime version de { -brand-name-firefox }.
+home-today-mozilla-continues = Hodie, { -brand-name-mozilla } continua su movimento verso un internet melior con milliones de active membros del communitate que se extende per le globo, favorante un technologia ethic, un intelligentia artificial digne de fide e creante productos de maxime discretion que dona plus poter al personas.
 home-learn-more-about-mozilla = Pro saper plus re { -brand-name-mozilla }
+home-get-good-news = Recipe (bon) novas de { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Producto consiliate
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Confunde tu position e activitate per <span>{ -brand-name-mozilla-vpn }</span>
