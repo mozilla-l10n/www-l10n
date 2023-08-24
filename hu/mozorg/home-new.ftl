@@ -12,7 +12,7 @@ home-were-not-normal = Nem egy szokványos technológiai vállalat vagyunk. Az �
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = „Az internet és az online élet egészsége a létünk.”
 home-mitchell-baker = Mitchell Baker, a { -brand-name-mozilla } vezérigazgatója
-home-mozilla-makes-privacy = A { -brand-name-mozilla } az adatvédelmet tiszteletben tartó termékeket készít
+home-mozilla-makes-privacy = A { -brand-name-mozilla } az adatvédelmet szem előtt tartó termékeket készít
 home-product-firefox-browsing = Privát és biztonságos böngészés
 home-cta-get-firefox = { -brand-name-firefox } beszerzése
 home-product-pocket-articles = A web legérdekesebb cikkei
@@ -21,6 +21,7 @@ home-product-relay-masks = Egyszerűen használható e-mail- és telefonmaszkok
 home-cta-get-relay = { -brand-name-relay } beszerzése
 home-product-vpn-trust = Egy VPN, amelyben megbízhat
 home-cta-get-vpn = { -brand-name-mozilla-vpn } beszerzése
+home-mozilla-takes-bets = „A { -brand-name-mozilla } arra fogad, hogy megmutatja a világnak, hogy van jövője a megbízható MI-t használó üzletnek. Ebbe beletartozik az is, hogy az emberi jogokat, adatvédelmet és az átláthatóságot helyezzük ezen összetett rendszerek működésének középpontjába.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-is-mozilla-a-corporation = A { -brand-name-mozilla } egy vállalat vagy egy nonprofit szervezet? Valójában mindkettő.
