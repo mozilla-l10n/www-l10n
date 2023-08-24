@@ -23,6 +23,7 @@ home-cta-get-vpn = Erekóke { -brand-name-mozilla-vpn }
 # Politico is a brand name for a news organization
 home-politico-cite = Político
 home-is-mozilla-a-corporation = { -brand-name-mozilla } ha’épa mba’apoha terã tendaguasu oku’eva viru’ỹre. Peichaite, mokõivéva.
+home-mozilla-consists-of = { -brand-name-mozilla } oguereko mokõi tendaguasu. { -brand-name-mozilla-corporation } ha’e { -brand-name-mozilla-foundation } mba’eteete omba’apóva viru ñembyatyrã’ỹre 501 (c). He’iséva ndojedeveiha mavavetépe —  hembiaporãme añoite.
 home-learn-about-mofo = Eikuaave { -brand-name-mozilla-foundation } rehegua
 home-join-the-fight = Eipytyvõke ñanduti hekoresãi hag̃ua
 home-your-voice-your-code = Ne ñe’ẽ. Nde ayvu. Ne remimo’ã. Oĩ hetaiterei hendáicha eipytyvõkuaaha { -brand-name-mozilla } ndive.

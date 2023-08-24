@@ -37,6 +37,9 @@ faq-question-longevity-question = Mba’épa oiko { -brand-name-mozilla } ombot�
 faq-question-longevity-answer-2 = Romomarandúta eikotevẽtaramo emoambue ñanduti veve kundaharape oimeraẽva mba’ete oipurúva { -brand-name-relay } ñanduti veve rovamo’ãha.
 faq-question-mozmail-question-2 = Mba’érepa ñandutiveve rovamo’ãha oipurúma “mozmail.com?” rendatee
 faq-question-attachments-question = Ikatúpa { -brand-name-firefox-relay } omondojey ñanduti veve marandurenda ijeheguáva reheve
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Ko’ág̃a romoneĩma jehegua ñemondojey. Upéicharõ jepe, hu’ãkuaa { $size } MB emondojey hag̃ua ñanduti veve eipurúvo { -brand-name-relay }. Umi ñanduti veve hetave { $size } MB noñemondojeymo’ãvéima.
 faq-question-unsubscribe-domain-question-2 = Mba’épa oikóta tendatee’i mboavapyréva amboguérõ ñemboheraguapy { -brand-name-relay-premium } pegua
 faq-question-8-question = Mba’e mba’ekuaarãpa ombyaty { -brand-name-firefox-relay }
 faq-question-email-storage-question = ¿{ -brand-name-relay } ombyaty che ñanduti veve?
