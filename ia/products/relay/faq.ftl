@@ -113,5 +113,19 @@ phone-masking-faq-question-can-i-call = Pote io appellar alcuno con mi masca de 
 phone-masking-faq-answer-can-i-call = No, tu pote solo reprender un appello inultrate.
 phone-masking-faq-question-can-i-see = Pote io vider qui me ha scribite o vocate?
 phone-masking-faq-answer-can-i-see = Si, tu pote vider le numero que te scribeva SMS o appellava. Tu alsi pote disactivar le immagazinage de iste registrationes, ma tu perdera le capacitate de responder e blocar singule appellatores e scriptores de SMS.
+phone-masking-faq-question-can-i-block = Pote io blocar un appello o texto SMS?
 phone-masking-faq-answer-can-i-block = Tu pote blocar toto lo que es inultrate ab un singule numero.
-phone-masking-faq-question-spam = Que occurre si mi masca de telephono comencia a obtener spam?
+phone-masking-faq-question-spam = Que occurre si mi masca de telephono comencia a reciper spam?
+phone-masking-faq-answer-spam = Si tu comencia a reciper spam, tu pote blocar le numeros que te lo invia.
+phone-masking-faq-question-disable-logging = Pote io disactivar le registration de appellatores o expeditores de SMS?
+phone-masking-faq-answer-disable-logging = Si, tu pote disactivar le registration de numeros ab le pannello de controlo de { -brand-name-relay }. Comocunque, tu non potera plus responder a textos o blocar specific numeros, perque le registro es nostre modo de poter traciar qui te ha inviate un message SMS.
+phone-masking-faq-question-can-i-share = Pote io compartir le numero que me inultra messages de texto SMS?
+phone-masking-faq-answer-can-i-share = Si tu comparti iste numero, nihil evenira, iste numero non es tu masca del numero de telephono. Illo es justo le numero de contacto per le qual { -brand-name-relay } inultrara tu textos e appellos.
+phone-masking-faq-question-how-i-save-card = Como pote io salvar le scheda de contacto de { -brand-name-relay }?
+phone-masking-faq-answer-how-i-save-card = Un vice que tu promove a { -brand-name-relay } le mascas de numero de telephono, nos te inviara un SMS con un scheda de contacto que contine le numero per le qual tu recipera appellos e textos inultrate, simile a ulle scheda de contacto que immagazina le numero de telephono de illes qui te continge. Sur le major parte del apparatos, tu pote seliger ille scheda de contacto e salvar lo como omne altere contacto sur tu telephono.
+phone-masking-faq-question-install-app = Debe io installar un app pro usar le mascas pro telephono de { -brand-name-relay }?
+phone-masking-faq-answer-install-app = No, le mascas pro telephono { -brand-name-relay } functiona per le messages SMS standard e per le apps pro appellar de tu apparato.
+phone-masking-faq-question-data = Que sorta de datos immagazina le mascas pro telephono de { -brand-name-relay }?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Vide le <a href="{ $url }" { $attrs }>Politica de confidentialitate de { -brand-name-firefox-relay }</a>.

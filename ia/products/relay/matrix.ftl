@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
 
+plan-matrix-title = Precios
 
 ## PRICING MATRIX SECTION
 

@@ -36,6 +36,7 @@ home-eventually-the-open = Finalmente, le projecto open source { -brand-name-moz
 home-today-mozilla-continues = Hodie, { -brand-name-mozilla } continua su movimento verso un internet melior con milliones de active membros del communitate que se extende per le globo, favorante un technologia ethic, un intelligentia artificial digne de fide e creante productos de maxime discretion que dona plus poter al personas.
 home-learn-more-about-mozilla = Pro saper plus re { -brand-name-mozilla }
 home-get-good-news = Recipe (bon) novas de { -brand-name-mozilla }
+home-get-news-and-tips = Recipe novas e consilios per { -brand-name-mozilla } pro remaner secur e informate re omne cosa que rende le web un loco plus san.
 # VPN Feature
 home-featured-product = Producto consiliate
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.

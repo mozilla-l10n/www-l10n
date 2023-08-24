@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -21,22 +22,29 @@ hero-section-social-proof = Como vidite in
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Como functiona le mascas email e pro telephono de { -brand-name-relay }
-
 how-it-works-section-extension-headline = Usa ubique le mascas email e pro telephono de { -brand-name-relay }
 how-it-works-section-extension-body = Recipe mascas email secur e aleatori, e un unic numero de telephono mascate a usar quandocunque un sito web, un app, un boteca, o un restaurante te demanda informationes.
-
 how-it-works-section-forward-headline = Nos inultrara emails, appellos telephonic, e SMS pro te
 how-it-works-section-forward-body = Sta secur, le expeditores jammais sapera tu real adresse email o tu real numero. Tu pote mesmo responder a SMS e emails sin compartir tu real identitate.
-
 how-it-works-section-manage-headline = Gere tu mascas ab le pannello de controlo de tu { -brand-name-relay }
 how-it-works-section-manage-body = Accede a tu pannello de controlo de { -brand-name-relay } pro crear nove mascas, mascas de etiquettas existente, e  blocar appellos, SMS, o emails de mascas que te genera troppo spam.
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Recensiones
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Additivos
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Fonte: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+        [one] ex 5 ({ $review_count } recensiones)
+       *[other] ex 5 ({ $review_count } recensiones)
+    }
 landing-reviews-show-next-button = monstrar le revision successive
 landing-reviews-show-previous-button = Monstrar le revision previe
 landing-review-anonymous-user = { -brand-name-firefox } usator { $user_id }
