@@ -85,3 +85,4 @@ faq-question-trackerremoval-breakage-answer-2 = Aliquando le remotion de traciat
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = Que es un masca del numero de telephono?
+phone-masking-faq-question-can-reply = Pote io responder a textos?
