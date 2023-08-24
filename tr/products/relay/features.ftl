@@ -8,4 +8,5 @@
 
 ## HIGHLIGHTED FEATURES SECTION
 
+highlighted-features-section-bottom-cta = Kullanmaya başlayın
 highlighted-features-section-unlimited-masks-headline = Sınırsız e-posta maskesi oluşturun
