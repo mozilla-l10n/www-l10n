@@ -19,25 +19,25 @@ vpn-linux-additional-security = <strong>További biztonsági funkciók:</strong>
 vpn-linux-device-level = <strong>Eszközszintű titkosítás:</strong> Azokkal VPN-ekkel ellentétben, amelyek csak a böngésző forgalmát titkosítják, a { -brand-name-mozilla-vpn } titkosítja az eszközének teljes forgalmát, beleértve az alkalmazásait és játékait is.
 vpn-linux-multi-hop = <strong>Többugrásos továbbítás:</strong> A nagyobb védelem érdekében a { -brand-name-mozilla-vpn } titkosíthatja a forgalmat, és egy helyett két helyen keresztül vezeti át, így nehezebb lesz nyomon követni az online tevékenységét.
 vpn-linux-simple-and = <strong>Egyszerű és intuitív felület:</strong> Csatlakozzon egy kiszolgálóhoz egyetlen kattintással. Testre is szabhatja a beállításait az Ön igényei szerint.
-vpn-linux-it-helps-restore = <strong>Segítsen a hálózatsemlegesség helyreállításában:</strong> A { -brand-name-mozilla-vpn } segít visszaszerezni az online tevékenységét azáltal, hogy megakadályozza, hogy a szolgáltatók korlátozzák a sávszélességet, vagy hogy blokkolják az általuk nem engedélyezett webhelyeket vagy szolgáltatásokat ' nem tetszik, vagy versenyeznek a saját kínálatukkal.
-vpn-linux-gui-client = <strong>GUI kliens:</strong> A { -brand-name-mozilla-vpn } rendelkezik GUI klienssel (grafikus felhasználói felülettel), míg egyes VPN szolgáltatók csak CLI verziót (parancssor) biztosítanak.
-vpn-linux-by-using = A { -brand-name-mozilla-vpn } használatával visszaveheti az online tevékenységei irányítását, és megvédi magánszféráját. Töltse le még ma a { -brand-name-mozilla-vpn } , és élvezze a 30 napos pénzvisszafizetési garanciát naplózás, szóváltás és kockázat nélkül.
+vpn-linux-it-helps-restore = <strong>Segítsen a hálózatsemlegesség helyreállításában:</strong> A { -brand-name-mozilla-vpn } segít visszaszerezni az online tevékenysége feletti irányítást azáltal, hogy megakadályozza, hogy a szolgáltatók korlátozzák a sávszélességét, vagy hogy blokkolják az olyan, általuk nem engedélyezett webhelyeket vagy szolgáltatásokat, amelyek nekik nem tetszenek, vagy a saját szolgáltatásukkal versengenek.
+vpn-linux-gui-client = <strong>Grafikus kliens:</strong> A { -brand-name-mozilla-vpn } rendelkezik grafikus felhasználói felületű klienssel, míg egyes VPN szolgáltatók csak parancssoros verziót biztosítanak.
+vpn-linux-by-using = A { -brand-name-mozilla-vpn } használatával visszaszerezheti az online tevékenysége feletti irányítását, és megvédheti a magánszféráját. Töltse le még ma a { -brand-name-mozilla-vpn }-t, és élvezze a 30 napos pénzvisszafizetési garanciát naplózás, macera és kockázat nélkül.
 vpn-linux-how-to-install = A { -brand-name-mozilla-vpn } telepítése Linuxra
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use-v2 = Ha a támogatott Ubuntu kiadások egyikét használja, akkor két módja van a <a { $attrs }>Launchpaden</a> kiszolgáló hivatalos mozillavpn csomagok telepítésének:
+vpn-linux-if-you-use-v2 = Ha a támogatott Ubuntu kiadások egyikét használja, akkor két módja van a <a { $attrs }>Launchpaden</a> kiszolgált hivatalos mozillavpn csomagok telepítésének:
 # Obsolete string
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = Ha a támogatott Ubuntu kiadások egyikét használja, akkor két módja van az <a { $attrs }>launchpaden található hivatalos mozillavpn csomagok telepítésének:</a>
+vpn-linux-if-you-use = Ha a támogatott Ubuntu kiadások egyikét használja, akkor két módja van az <a { $attrs }>Launchpaden található hivatalos mozillavpn csomagok telepítésének:</a>
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Ubuntu parancssori mód:</strong> A { -brand-name-mozilla-vpn } parancssori eszközökkel történő telepítéséhez <a { $attrs }>A { -brand-name-mozilla-vpn } telepítése linuxos számítógépen</a> leírásban talál részletes utasításokat.
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
-vpn-linux-ubuntu-graphical = <strong>Ubuntu grafikus felhasználói felület:</strong> Olvassa el <a { $attrs }>ezt a cikket</a>, és kövesse a Személyes csomagarchívumok hozzáadása szakaszban leírt utasításokat.
+vpn-linux-ubuntu-graphical = <strong>Az Ubuntu grafikus felhasználói felülete:</strong> Olvassa el <a { $attrs }>ezt a leírást</a>, és kövesse a „Adding personal package archives” szakaszban leírt utasításokat.
 # Variables:
 #   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
-vpn-linux-additionally = Továbbá, a nem támogatott Linux disztribúciók esetén lekérheti és lefordíthatja a forráskódot a <a { $attrs }>hivatalos GitHub tárolóból</a>.
+vpn-linux-additionally = Továbbá, a nem támogatott Linux disztribúciók esetén letöltheti és lefordíthatja a forráskódot a <a { $attrs }>hivatalos GitHub-tárolóból</a>.

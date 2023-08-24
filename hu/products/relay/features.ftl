@@ -16,8 +16,8 @@ highlighted-features-section-unlimited-masks-headline = Korlátlan számú e-mai
 #   $mask_limit (number) - the number of masks included with a particular plan
 highlighted-features-section-unlimited-masks-body-v2 =
     { $mask_limit ->
-        [one] Mindenki ingyenesen kap egy { $mask_limit } e-mail-maszkot. A { -brand-name-relay-premium } segítségével azonban annyi maszkot állíthat elő, amennyire csak szüksége van, hogy megvédje a postaládáját a spammerektől, a hackerektől és az online nyomkövetőktől.
-       *[other] Mindenki ingyenesen kap { $mask_limit } e-mail-maszkot. A { -brand-name-relay-premium } segítségével azonban annyi maszkot állíthat elő, amennyire csak szüksége van, hogy megvédje a postaládáját a spammerektől, a hackerektől és az online nyomkövetőktől.
+        [one] Mindenki ingyenesen kap egy { $mask_limit } e-mail-maszkot. A { -brand-name-relay-premium } segítségével azonban annyi maszkot állíthat elő, amennyire csak szüksége van, hogy megvédje a postaládáját a kéretlen tartalmakat küldőktől, a hackerektől és az online nyomkövetőktől.
+       *[other] Mindenki ingyenesen kap egy { $mask_limit } e-mail-maszkot. A { -brand-name-relay-premium } segítségével azonban annyi maszkot állíthat elő, amennyire csak szüksége van, hogy megvédje a postaládáját a kéretlen tartalmakat küldőktől, a hackerektől és az online nyomkövetőktől.
     }
 highlighted-features-section-masks-on-the-go-headline = Maszkok azonnali készítése útközben
 # Variables:
