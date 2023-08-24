@@ -19,6 +19,7 @@ waitlist-control-email-label = E-posta adresiniz nedir?
 waitlist-control-email-placeholder = kullanici@example.com
 waitlist-control-country-label-2 = Hangi ülke veya bölgede yaşıyorsunuz?
 waitlist-control-locale-label = Tercih ettiğiniz dili seçin.
+waitlist-submit-label-2 = Bekleme listesine katıl
 waitlist-privacy-policy-use = Bilgileriniz yalnızca sizi { -brand-name-firefox-relay-premium }’un kullanılabilirliği hakkında bilgilendirmek için kullanılacaktır.
 waitlist-subscribe-success-title = Teşekkürler! Listeye eklendiniz
 # Variables:

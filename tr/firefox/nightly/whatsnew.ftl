@@ -16,7 +16,10 @@ nightly-whatsnew-every-6-to-8-weeks = 6-8 haftada bir { -brand-name-firefox }’
 nightly-whatsnew-this-is-a-good = Hem { -brand-name-firefox } tarayıcısını geliştirmemize yardım ettiğiniz için size teşekkür etmek hem de { -brand-name-nightly } ile ilgili ilginizi çekebilecek belgeler, iletişim kanalları ve haber sitelerini sizinle paylaşmak istedik.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to-v2 = { -brand-name-nightly } tarayıcısında ve topluluğunda neler olup bittiğini merak ediyorsanız <a href="{ $blog }">blogumuzu</a> okuyabilir ve bizi <a href="{ $mastodon }">Mastodon</a> veya <a href="{ $twitter }">Twitter</a>’da takip edebilirsiniz.
+# Obsolete
 nightly-whatsnew-if-you-want-to = { -brand-name-nightly } tarayıcısında ve topluluğunda neler olup bittiğini merak ediyorsanız <a href="{ $blog }">blogumuzu</a> okuyabilir ve bizi <a href="{ $twitter }">{ -brand-name-twitter }</a>’da takip edebilirsiniz.
 # Variables:
 #   $attrs (string) - link href and additional attributes
