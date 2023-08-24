@@ -29,6 +29,7 @@ home-join-the-fight = Liity taisteluun terveen internetin puolesta
 home-your-voice-your-code = Äänesi. Koodisi. Ideasi. Voit osallistua { -brand-name-mozilla }an kirjaimellisesti tuhansilla eri tavoilla.
 home-volunteer-with-mozilla = Tee vapaaehtoistyötä { -brand-name-mozilla }n kanssa
 home-that-one-time = Kun kerran avasimme lähdekoodimme…
+home-the-mozilla-project = { -brand-name-mozilla }-projekti perustettiin San Franciscossa vuonna 1998, kun { -brand-name-netscape }-selain teki radikaalin päätöksen julkaista ohjelmakoodinsa sen kehittämiseksi ja parantamiseksi. Tuolloin yhdellä yrityksellä oli virtuaalinen monopoli siihen, miten ihmiset kokivat Internetin.
 home-eventually-the-open = Lopulta avoimen lähdekoodin { -brand-name-mozilla }-projekti muuttui hurjan suosituksi { -brand-name-firefox }in ensimmäiseksi versioksi.
 home-today-mozilla-continues = Nykyään { -brand-name-mozilla } jatkaa liikettä kohti parempaa Internetiä miljoonien aktiivisten yhteisön jäsenten kanssa ympäri maailmaa, puolustaen eettistä tekniikkaa, luotettavaa tekoälyä ja tuottaen yksityisyyden etusijalle asettavia tuotteita, jotka antavat enemmän valtaa ihmisille.
 home-learn-more-about-mozilla = Lue lisää { -brand-name-mozilla }sta
