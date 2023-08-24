@@ -7,6 +7,7 @@
 
 waitlist-premium-name = { -brand-name-relay-premium }
 waitlist-bundle-name = Pacchetto { -brand-name-relay } + { -brand-name-vpn }
+waitlist-phone-name = Mascas pro telephono { -brand-name-relay }
 waitlist-heading-2 = Junge te al lista de attendentia de { -brand-name-relay-premium }
 waitlist-heading-phone = Inscribe te al lista de attender pro mascas de telephono de < { -brand-name-relay }
 waitlist-heading-bundle = Inscribe te al lista de attender pro le pacchetto { -brand-name-relay } + { -brand-name-vpn }
@@ -33,6 +34,7 @@ waitlist-subscribe-success-title = Gratias! Tu es in le lista
 #      - { waitlist-bundle-name }
 #      - { waitlist-phone-name }
 waitlist-subscribe-success-email-desc = Quando { -brand-name-relay-premium } sera disponibile pro tu region, nos te inviara un email.
+waitlist-subscribe-success-phone-desc = Un vice que le mascas pro telephono de { -brand-name-relay } devenira disponibile pro tu region, nos te inviara un email.
 waitlist-subscribe-success-bundle-desc = Quando { -brand-name-relay } + { -brand-name-vpn } sera disponibile pro tu region, nos te inviara un email.
 waitlist-subscribe-please-enter-a-valid = Insere un adresse email valide
 waitlist-subscribe-please-select-country = Elige un pais o region

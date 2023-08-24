@@ -10,6 +10,9 @@ plan-matrix-title = Precios
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = Elige un nivello de protection que es justo pro te
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } protege tu identitate e tu cassa de ingresso con mascas email unic. Adde ancora plus securitate con mascas pro telephono { -brand-name-relay }, e sparnia { $savings }% addente le protection de { -brand-name-mozilla-vpn } protection.
 
 ## Top Row Labels
 
@@ -60,6 +63,9 @@ plan-matrix-price-period-yearly = Annual
 plan-matrix-price-period-monthly = Mensual
 plan-matrix-price-period-yearly-footnote-1 = Facturate annualmente
 plan-matrix-price-period-monthly-footnote-1 = Facturate mensualmente
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>Sparnia { $savings }%</span> sur le precio regular de VPN
 
 ## Plan CTAs
 
