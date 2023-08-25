@@ -22,7 +22,7 @@ vpn-shared-features-encrypt = Ipapapýva mba’e’okápe
 vpn-shared-features-servers = { $servers }+ apopyvusu { $countries }-pe+ tetãnguéra
 vpn-shared-features-bandwidth = Ancho de banda jejoko’ỹ
 vpn-shared-features-activity = Ndopytái nde rapykuere ne ñandutípe
-vpn-shared-features-activity-logs = Ndaipóri tembiapo rapykuere ñandutípe ko’ága ni araka’eve
+vpn-shared-features-activity-logs = Ndaipóri tapykuere ñandutípe ko’ág̃a ni araka’eve
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Eikekuaa mohendahavusu  heta { $countries } tetãnguérape
