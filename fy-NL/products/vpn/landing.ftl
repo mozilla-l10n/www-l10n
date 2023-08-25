@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 en heger)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 en heger)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 en heger)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (allinnich { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (allinnich { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 en heger)
 vpn-landing-faq-refund-question-heading = Wat is it restitúsjebelied fan { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = As jo jo foar it earst abonnearje op { -brand-name-mozilla-vpn } fia de website fan { -brand-name-mozilla }, en as jo jo account binnen de earste 30 dagen annulearje, kinne jo om restitúsje freegje en betellet { -brand-name-mozilla } jo earste abonnemintsperioade werom.
 vpn-landing-faq-refund-question-additional-desc = As jo jo abonnemint oanskaffe fia yn-app-oankeapen by de { -brand-name-apple } { -brand-name-app-store } of de { -brand-name-google-play } Store, falt jo betelling ûnder de algemiene betingsten fan de { -brand-name-app-store }. Jo moatte alle fersiken om fakturearjen en weromjefte foar sokke oankeapen rjochtsje oan { -brand-name-apple } of { -brand-name-google }, ôfhinklik fan de situaasje.

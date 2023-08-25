@@ -28,4 +28,7 @@ waitlist-privacy-policy-use = Jo gegevens wurde allinnich brûkt om jo te berjoc
 waitlist-privacy-policy-use-phone = Jo gegevens wurde allinnich brûkt om jo te berjochtsjen as telefoanmaskearing beskikber is yn jo regio.
 waitlist-privacy-policy-use-bundle = Jo gegevens wurde allinnich brûkt om jo te berjochtsjen oer beskikberheid fan { -brand-name-relay } + { -brand-name-vpn }-bondel.
 waitlist-subscribe-success-title = Tank! Jo steane op de list
+waitlist-subscribe-please-enter-a-valid = Fier in jildich e-mailadres yn
+waitlist-subscribe-please-select-country = Selektearje in lân of regio
+waitlist-subscribe-please-select-language = Selektearje in taal
 waitlist-subscribe-error-unknown = Der is in flater bard by it pleatsen op de wachtlist. Probearje it nochris.

@@ -14,3 +14,5 @@ home-cta-get-pocket = { -brand-name-pocket } brûke
 home-cta-get-relay = { -brand-name-relay } downloade
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-learn-more-about-mozilla = Mear ynfo oer { -brand-name-mozilla }
+home-get-good-news = Untfang (goed) { -brand-name-mozilla }-nijs

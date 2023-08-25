@@ -15,6 +15,9 @@ faq-question-missing-emails-question-2 = Ik ûntfang gjin berjochten fan myn mas
 faq-question-missing-emails-answer-a-2 = Der kinne in pear redenen wêze wêrom jo gjin e-mailberjochten ûntfange dy’t fia jo maskers trochstjoerd binne, wêrûnder:
 faq-question-missing-emails-answer-reason-spam = Berjochten wurde as net-winske sjoen
 faq-question-missing-emails-answer-reason-blocked-2 = Jo e-mailprovider blokkearret jo e-mailmaskers
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = It trochstjoerde e-mailberjocht hat in bylage dy’t grutter is as { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = De website akseptearret gjin e-mailmaskers
 faq-question-missing-emails-answer-reason-turned-off-2 = Mooglik is trochstjoeren útskeakele foar it masker
 faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } kin der langer as normaal oer dwaan om jo berjochten troch te stjoeren
@@ -49,6 +52,9 @@ faq-question-longevity-answer-2 = Wy litte jo yn it foar witte dat jo it e-maila
 faq-question-mozmail-question-2 = Wêrom binne myn maskers begûn it domein ‘mozmail.com’ te brûken?
 faq-question-mozmail-answer-2 = Wy binne oerstapt fan ‘relay.firefox.com’ nei ‘mozmail.com’ om it mooglik te meitsjen in oanpast e-mailsubdomein te krijen, lykas masker@jodomein.mozmail.com. Oanpaste e-mailsubdomeinen, beskikber foar { -brand-name-relay-premium }-abonnees, meitsje jo e-mailmaskers ek folle makliker te ûnthâlden as eigenwillige e-mailmaskers.
 faq-question-attachments-question = Stjoert { -brand-name-firefox-relay } e-mailberjochten mei bylagen troch?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Wy stypje no it trochstjoeren fan bylagen. Der is echter in limyt fan { $size } MB foar it trochstjoeren fan e-mailberjochten mei { -brand-name-relay }. E-mailberjochten dy’t grutter binne as { $size } MB wurde net trochstjoerd.
 faq-question-unsubscribe-domain-question-2 = Wat bart der mei myn oanpaste subdomein as ik myn abonnemint by { -brand-name-relay-premium } opsis?
 faq-question-unsubscribe-domain-answer-2 = As jo delwurdearje fan { -brand-name-relay-premium }, ûntfange jo noch hieltyd e-mailberjochten dy’t trochstjoerd wurde fia jo oanpaste subdomein, mar kinne jo gjin nije e-mailmaskers mear meitsje mei dat domein. As jo yn totaal mear as fiif maskers hawwe, kinne jo der net mear meitsje. Jo ferlieze ek de mooglikheid om trochstjoerde berjochten te beäntwurdzjen. Jo kinne jo opnij abonnearje op { -brand-name-relay-premium } en wer tagong krije ta dizze funksjes.
 faq-question-8-question = Hokker gegevens sammelet { -brand-name-firefox-relay }?
@@ -81,3 +87,4 @@ faq-question-trackerremoval-breakage-answer-2 = Somtiden kin it ferwiderjen fan 
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = Wat is in telefoannûmermasker?
