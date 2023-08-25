@@ -28,5 +28,10 @@ home-join-the-fight = Únete a la lucha por un internet saludable
 home-your-voice-your-code = Tu voz. Tu código. Tus ideas. Hay literalmente miles de formas en las que puedes contribuir a { -brand-name-mozilla }.
 home-volunteer-with-mozilla = Colabora con { -brand-name-mozilla }
 home-that-one-time = Esa vez que regalamos nuestro código fuente…
+home-learn-more-about-mozilla = Aprender más sobre { -brand-name-mozilla }
+home-get-good-news = Recibe (buenas) noticias de { -brand-name-mozilla }
+home-get-news-and-tips = Recibe noticias y consejos de { -brand-name-mozilla } para mantenerte seguro e informado sobre todo lo que hace de la Web un lugar más saludable.
 # VPN Feature
 home-featured-product = Producto destacado
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Difumina tu ubicación y actividad usando <span>{ -brand-name-mozilla-vpn }</span>

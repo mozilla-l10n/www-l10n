@@ -30,9 +30,25 @@ plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 
+plan-matrix-heading-price = Precio
+plan-matrix-feature-count-unlimited = ilimitado
+plan-matrix-feature-included = Incluido
+plan-matrix-feature-not-included = No incluido
+plan-matrix-price-free = Gratis
 
 ## Plan Price
 
+# Variables:
+#   $monthly_price (string) - the monthly cost (including currency symbol) for a given plan. Examples: $0.99, 0,99 €
+plan-matrix-price-monthly-calculated = { $monthly_price }/mo.
+plan-matrix-price-period-yearly = Anual
+plan-matrix-price-period-monthly = Mensualmente
+plan-matrix-price-period-yearly-footnote-1 = Facturado anualmente
+plan-matrix-price-period-monthly-footnote-1 = Facturado mensualmente
 
 ## Plan CTAs
 
+plan-matrix-upgrade = Mejorar
+plan-matrix-sign-up = Registrarse
+plan-matrix-get-relay-cta = Obtener { -brand-name-relay }
+plan-matrix-join-waitlist = Únete a la lista de espera de VPN
