@@ -33,6 +33,23 @@ faq-question-2-question-2 = ¿Por qué un sitio no aceptaría mi máscara de cor
 faq-question-2-answer-v4 = Es posible que algunos sitios no acepten una dirección de correo electrónico que incluya un subdominio (@subdominio.mozmail.com) y otros han dejado de aceptar todas las direcciones excepto aquellas de cuentas de Gmail, Hotmail o Yahoo.
 faq-question-1-question = ¿Qué pasa con el correo no deseado?
 faq-question-1-answer-a-2 = Si bien { -brand-name-relay } no filtra el spam, nuestro socio de correo electrónico Amazon SES bloquea el spam y el malware. Si { -brand-name-relay } reenvía mensajes que no deseas, puedes actualizar tu configuración de { -brand-name-relay } para bloquear los mensajes de la máscara que los reenvía.
+faq-question-acceptable-use-question = ¿Cuáles son los usos aceptables de { -brand-name-relay }?
+faq-question-acceptable-use-answer-measure-account = Requerir una { -brand-name-firefox-account } con una dirección de correo electrónico verificada
+faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Requerir un pago para que un usuario cree más de cinco máscaras
+faq-question-acceptable-use-answer-measure-rate-limit-2 = Limitar el número de máscaras que se pueden generar en un día
+#   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-acceptable-use-answer-b-html = Por favor, revisa nuestros <a href="{ $url }" { $attrs }>Términos de servicio</a> para obtener más información.
+faq-question-promotional-email-blocking-question = ¿Qué es el bloqueo de correo electrónico promocional?
+faq-question-disable-trackerremoval-question = ¿Puedo dejar de eliminar rastreadores de correo electrónico?
+faq-question-disable-trackerremoval-answer = Sí. Si tienes problemas con los correos electrónicos que parecen corrompidos o deseas dejar de eliminar rastreadores, puede desactivar la función en la configuración.
+faq-question-bulk-trackerremoval-question = ¿Puedo eliminar rastreadores solo en algunas de mis máscaras de correo electrónico?
+faq-question-bulk-trackerremoval-answer = Solo puedes activar la eliminación de rastreadores a nivel de cuenta — esto elimina los rastreadores de todos tus correos electrónicos o de ninguno de ellos.
+faq-question-trackerremoval-breakage-question = ¿Por qué mis correos electrónicos parecen corrompidos?
+faq-question-trackerremoval-breakage-answer-2 = A veces, eliminar los rastreadores puede hacer que tu correo electrónico parezca corrompido porque los rastreadores a menudo están contenidos en imágenes y enlaces. Cuando se elimina el rastreador, el correo electrónico pareciera tener un formato incorrecto porque faltan imágenes. Esto no se puede solucionar para los correos electrónicos que ya recibiste. Si esto te impide leer tus correos electrónicos correctamente, desactiva la eliminación del rastreador.
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = ¿Qué es una máscara de número de teléfono?
+phone-masking-faq-answer-what-is = Similar a una máscara de correo electrónico, una máscara de número de teléfono es un número de teléfono que puede reenviar mensajes de texto y llamadas a tu número de teléfono verdadero sin revelar cuál es tu número verdadero a la persona que te llama o te envía mensajes de texto.
+phone-masking-faq-question-where-is = ¿Dónde está disponible el enmascaramiento telefónico?
