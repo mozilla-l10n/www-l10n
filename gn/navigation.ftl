@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Emboguejy { -brand-name-firefox }
 navigation-get-a-firefox-account = Eguereko { -brand-name-firefox-account }
@@ -26,7 +26,7 @@ navigation-meet-the-firefox-family = Eikuaa { -brand-name-firefox } pehẽngue
 navigation-firefox-blog = { -brand-name-firefox } Blog
 navigation-read-about-new-firefox = Emoñe’ẽ { -brand-name-firefox } rembiapoite ipyahuvéva ha eikuaáta mba’éichapa ne rekorosãvéta ñandutípe.
 navigation-the-non-profit-behind = Atyguasu reiguáva { -brand-name-firefox } rapykuerigua omba’apo ñanduti resãirã opavavépe g̃uarã.
-navigation-learn-how-firefox-treats = Eikuaa mba’échapa { -brand-name-firefox } oreko ne mba’ekuaarã.
+navigation-learn-how-firefox-treats = Eikuaa mba’éichapa { -brand-name-firefox } oreko ne mba’ekuaarã.
 navigation-mozilla-careers = Jejupi { -brand-name-mozilla }-pe
 navigation-approach-your-career = Emoma’ẽ ne renonderã eipotahápe. Ejuhúta mba’apo iporãva { -brand-name-mozilla }-pe.
 navigation-close-firefox-menu = Emboty { -brand-name-firefox } poravorã

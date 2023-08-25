@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
 vpn-mobile-get-a-vpn = Ereko VPN pumbyrýpe g̃uarã { -brand-name-mozilla } rehegua
-vpn-mobile-looking-for-a = Ehekápa peteĩ VPN emo’ã hag̃ua ne pumbyry. { -brand-name-mozilla-vpn } oykeko chupe mba’apohaguasu viru’ỹgua. Eñemomaranduve mba’échapa nemo’ãta VPN ha mba’érepa ejeroviáta { -brand-name-mozilla } rehe tekoñemi ha tekorosãrã.
+vpn-mobile-looking-for-a = Ehekápa peteĩ VPN emo’ã hag̃ua ne pumbyry. { -brand-name-mozilla-vpn } oykeko chupe mba’apohaguasu viru’ỹgua. Eñemomaranduve mba’éichapa nemo’ãta VPN ha mba’érepa ejeroviáta { -brand-name-mozilla } rehe tekoñemi ha tekorosãrã.
 vpn-mobile-vpn-for-mobile = VPN pumbyrýpe g̃uarã { -brand-name-mozilla } rehegua
 vpn-mobile-why-do-i = Mba’érepa aikotevẽ VPN pumbyrýpe
 vpn-mobile-the-mozilla-vpn = Pe tembipuru’i pumbyrygua { -brand-name-mozilla-vpn } michĩ, upévare sa’i oipuru marandurenda ha nomombeguemo’ãi ne pumbyry ha avei hi’arevéta nde batería.
