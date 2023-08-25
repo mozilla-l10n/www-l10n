@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
+meta-description-2 = { -brand-name-firefox-relay } oipytyvõ heñói hag̃ua ñanduti veve rovamo’ãha oujeýva ne ñe’ẽmondo g̃uahẽhápe. Eipuru emo’ã hag̃ua ne mba’ete eikundahávo mba’evaiapoha rovake ha ñe’ẽmondo eipota’ỹva.
 
 ## HERO SECTION
 
@@ -22,6 +23,7 @@ how-it-works-section-extension-body = Ereko ñanduti veve rovamo’ãha hekoros�
 how-it-works-section-forward-headline = Romondojey ñanduti veve, pumbyry ñehenói ha ñe’ẽmondo
 how-it-works-section-forward-body = Ehecháta mba’embouha ndoikuaamo’ãiha ne ñanduti veve kundaharenda térã nde papapyete. Avei embohovaikuaa ñe’ẽmondo ha ñanduti veve emoherakuã’ỹre nde reraite.
 how-it-works-section-manage-headline = Eñangareko nde rovamo’ãháre nde { -brand-name-relay } rupa guive
+how-it-works-section-manage-body = Eñepyrũ tembiapo { -brand-name-relay } rupápe emoheñói hag̃ua tovamo’ãha pyahu, oĩmavavoi ñembohéra ha ñehenói jejoko, ñe’ẽmondo térã ñanduti veve rovamo’ãha og̃uahẽhápe spam.
 
 ## REVIEWS SECTION
 
