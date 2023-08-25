@@ -62,6 +62,7 @@ faq-question-trackerremoval-breakage-question = Mba’érepa che ñanduti veve n
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = Mba’épa pumbyry papapy rovamo’ãha
+phone-masking-faq-answer-what-is = Ñanduti veve rovamo’ãháicha, pe pumbyry papapy rovamo’ãha ha’e pumbyry papapy ombojevykuaajeýva umi ñe’ẽmondo ha ñehenói nde papapyetépe ohechauka’ỹre oporohenói térã oñe’ẽmondóva réraite.
 phone-masking-faq-question-where-is = Moõpa eipurukuaa pumbyry rovamo’ãha
 phone-masking-faq-question-how-many = Mboy pumbyry rovamo’ãhápa areko
 phone-masking-faq-answer-how-many = Ko’ág̃a rupi rome’ẽta peteĩ pumbyry papapy rovamo’ãha. Eiporavo rire pumbyry papapy rovamo’ãha, ndaikatuvéima emoambue.
