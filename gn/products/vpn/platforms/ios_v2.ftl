@@ -6,5 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios/
 
 vpn-ios-vpn-for-iphone = VPN iPhone-pe g̃uarã { -brand-name-mozilla } rehegua
+vpn-ios-mozilla-vpn-is = { -brand-name-mozilla-vpn } ha’e mba’epuru red privada virtual ombopapapýva nde jeike ñandutípe ha oñomi nde IP kundaharape oma’ẽvaívagui.
 vpn-ios-there-are-many = Heta mba’e rupi eipuruva’erã { -brand-name-mozilla-vpn } iPhone peg̃uarã, mba’éicha:
 vpn-ios-ready-to-try = Aiméma aipuru hag̃uáicha { -brand-name-mozilla-vpn } che iPhone-pe. Emboguejy ha eipuru 30 ára pukukue. Eñemboheraguapy’ỹre, apañuãi’ỹre, kyhyje’ỹre.

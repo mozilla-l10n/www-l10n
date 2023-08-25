@@ -54,3 +54,6 @@ vpn-download-faq-add-device = Mba’éichapa ambojuajúta ambue mba’e’oka
 vpn-download-faq-best-practices = Mba’épa umi iporãvéva VPN rembiapo
 vpn-download-faq-lastly = Ipahápe, umi mba’e’oka ojokupytývape, ejapokuaa VPN katupyryve emboykévo peteĩva tembipuru’i (techapyrã, Netflix).
 vpn-download-faq-need-more = Eikotevẽvépa reñepytyvõ
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Eñe’ẽkuaa ore aty pytyvõha ndivevoi { -brand-name-mozilla-vpn } rembipuru’i guive eikutúvo Ñemboheko > Eñepytyvõuka > Eñe’ẽ pytyvõha ndive. Avei orerenoikuaa <a href="{ $support }">ore kuatiarogue pytyvõhápe</a>.

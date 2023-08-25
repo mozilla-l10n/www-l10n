@@ -7,6 +7,7 @@
 
 vpn-android-vpn-for-android = VPN Android-pe g̃uarã { -brand-name-mozilla } rehegua
 vpn-android-ease-security = Ekyhyje’ive tekorosã’ỹgui { -brand-name-mozilla-vpn } Android-pe g̃uarã ndive
+vpn-android-looking-for-a = Ehekápa peteĩ VPN emo’ã hag̃ua ne Android mba’e’oka. { -brand-name-mozilla-vpn } oykeko chupe mba’apohaguasu viru’ỹgua. Eñemomarandu mba’éichapa nemo’ãta VPN ha mba’érepa ejeroviáta { -brand-name-mozilla } rehe tekoñemi ha tekorosãrã.
 vpn-android-how-does-a = Mba’éichapa omo’ã VPN che Android mba’e’oka
 vpn-android-vpns-help = Umi VPN oipytyvõ oñembyai mboyve:
 vpn-android-your-internet-activity = Ne rembiapo ñandutípe tojehecha ha tojehepyme’ẽ térã toñemoherakuã moñemuhára ndive.
