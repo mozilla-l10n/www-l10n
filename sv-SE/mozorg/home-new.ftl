@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
+home-internet-for-people-not-profit = Internet för människor, inte vinst
 home-product-firefox-browsing = Privat och säker surfning
 home-cta-get-firefox = Hämta { -brand-name-firefox }
 home-product-pocket-articles = Webbens mest spännande artiklar
