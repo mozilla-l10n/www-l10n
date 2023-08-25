@@ -15,4 +15,10 @@ highlighted-features-section-unlimited-masks-headline = Emoheñói ñanduti veve
 highlighted-features-section-masks-on-the-go-headline = Emoheñói pya’e tovamo’ãha
 highlighted-features-section-replying-headline = Embohovái ñanduti veve ha ñe’ẽmondo nde réra jekuaa’ỹre
 highlighted-features-section-block-promotions-headline = Ejoko ñanduti veve jopoigua
+highlighted-features-section-block-promotions-body =
+    { -brand-name-relay-premium } ndive, ejokokuaa ñanduti veve moherakuãha ani hag̃ua og̃uahẽ
+    ñe’ẽmondo g̃uahẽhápe oikeve aja umi ñanduti veve ikatúva kuatiaite térã jejoguakue.
 highlighted-features-section-remove-trackers-headline = Embogue ñanduti veve rapykuehoha
+highlighted-features-section-remove-trackers-body =
+    { -brand-name-relay } omboguekuaa tapykuehoha ñanduti veve rehegua umi ñe’ẽmondo oñemboujeýva, ikatúva
+    nde rechauka tapykuehoha ha oñemusévape.
