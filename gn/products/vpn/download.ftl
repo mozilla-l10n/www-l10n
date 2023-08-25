@@ -40,5 +40,9 @@ vpn-download-based-on-your = Ne mba’e’oka ag̃aguáicha
 vpn-download-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Tekoñemi ejeroviakuaaha
 vpn-download-also-available = Eipurukuaa avei ko’ãvape:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = { -brand-name-firefox } moheñoihára, { -brand-name-mozilla-vpn } oipuru pe tapereko iporãva <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ombopapapy hag̃ua ne rembiapo ñandutípe ha oñomi ne rendaite.
 vpn-download-we-never-log = Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã ñandutípe
 vpn-download-previous-versions = Emboguejy apopyre itujavéva { -brand-name-windows } ha { -brand-name-mac-short }

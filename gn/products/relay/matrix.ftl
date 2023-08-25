@@ -10,6 +10,9 @@ plan-matrix-title = Tepy
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = Eiporavo pe ñemo’ã oikoporãvétava ndéve
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } omo’ã nde reratee ha ñe’ẽmondo g̃uahẽha ñanduti veve rovamo’ãha ndive. Embojuaju tekorosãve { -brand-name-relay } pumbyry rovamo’ãha ndive ha eipuru’ive { $savings }% embojuajúvo { -brand-name-mozilla-vpn } ñemo’ã.
 
 ## Top Row Labels
 
