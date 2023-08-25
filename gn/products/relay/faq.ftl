@@ -92,6 +92,7 @@ phone-masking-faq-answer-spam = Og̃uahẽramo ndéve spam, ejokokuaa umi papapy
 phone-masking-faq-question-disable-logging = Amboykekuaá tapicha ñemboheraguapy ohenói térã oñe’ẽmondóva
 phone-masking-faq-answer-disable-logging = Añete, ikatu eipe’a papapy mboheraguapy ne { -brand-name-relay } rupa guive. Upéicharamo, ndaikatumo’ãvéima embohovái ñe’ẽmondo avei ejokóvo papapy ha’etéva, pe mboheraguapy ore pytyvõ rupi rohapykueho hag̃ua mávapa ñe’ẽmondo mbouhare.
 phone-masking-faq-question-can-i-share = Amoherãkuãkuaápa pe papapy omboujeýva ñe’ẽmondo
+phone-masking-faq-answer-can-i-share = Emoherakuãrõ ko papapy, ndoikomo’ãi mba’eve; ko papapy ndaha’éi ne pumbyry papapy rovamo’ãha. Ha’e nde papapy eñe’ẽha { -brand-name-relay } oipurúva omondojey hag̃ua ñe’ẽmondo ha nehenói.
 phone-masking-faq-question-how-i-save-card = Mba’éichapa añongatúta { -brand-name-relay } kuatia’atã ñe’ẽkuaarã
 phone-masking-faq-question-install-app = Amohendátapa tembipuru’i aipuru hag̃ua { -brand-name-relay } pumbyry rovamo’ãha
 phone-masking-faq-answer-install-app = Nahániri, { -brand-name-relay } pumbyry rovamo’ãha oiko tembipuru’i ñehenoirã ha ñe’ẽmondo ypyguáva ne mba’e’okápe.
