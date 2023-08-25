@@ -52,6 +52,7 @@ faq-question-acceptable-use-answer-measure-rate-limit-2 = Mboy tovamo’ãha pev
 faq-question-acceptable-use-answer-b-html = Ikatúpa emoñe’ẽ ore <a href="{ $url }" { $attrs }>Mba’epururã rehegua</a> eikuaave hag̃ua.
 faq-question-promotional-email-blocking-question = Mba’épa ñanduti veve jejoko jopoiguáva
 faq-question-detect-promotional-question = Mba’éichapa { -brand-name-relay } oikuaa ñanduti veve ha’eha jeikuaarãva
+faq-question-detect-promotional-answer = Heta ñanduti veve oñemondo metadato “myakãha” ndive ohechauka hag̃ua ouha tembipuru ijeheguíva hekóva tysýi rupive. { -brand-name-firefox-relay } ohecha ko’ã mba’ekuaarã myakãháva ojoko hag̃ua ko’ã ñanduti veve.
 faq-question-disable-trackerremoval-question = Ajokokuaápa ñandutu veve rapykuehoha mbogueha
 faq-question-disable-trackerremoval-answer = Hẽe. Neapañuãiramo ñanduti veve ndive ha’etégui noĩmbáiva térã nerembogueséi tapykuehoha, emboguekuaa ñemboheko rembiapoite.
 faq-question-bulk-trackerremoval-question = Amboguekuaápa tapykuehoha ndahetái ñanduti veve rovamo’ãhápe añoite
