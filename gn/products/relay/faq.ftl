@@ -43,6 +43,7 @@ faq-question-attachments-answer-v2 = Ko’ág̃a romoneĩma jehegua ñemondojey.
 faq-question-unsubscribe-domain-question-2 = Mba’épa oikóta tendatee’i mboavapyréva amboguérõ ñemboheraguapy { -brand-name-relay-premium } pegua
 faq-question-8-question = Mba’e mba’ekuaarãpa ombyaty { -brand-name-firefox-relay }
 faq-question-email-storage-question = ¿{ -brand-name-relay } ombyaty che ñanduti veve?
+faq-question-email-storage-answer = Peichahágui ndoikói mba’éramo ore mba’epuru, rombyatykuaa sapy’ami ne ñanduti veve romondokuaajey peve. Araka’eve norombyatymo’ãi hetave mbohapy áragui.
 faq-question-acceptable-use-question = Mba’épa jeipuru { -brand-name-relay } omoneĩva
 faq-question-acceptable-use-answer-measure-account = Reikotevẽ { -brand-name-firefox-account } ñanduti veve kundaharape ojehechajeýva reheve
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Emoheñóivo po tovamo’ãha ehepyme’ẽmava’erã
