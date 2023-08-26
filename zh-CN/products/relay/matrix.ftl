@@ -60,6 +60,9 @@ plan-matrix-price-period-yearly = 每年
 plan-matrix-price-period-monthly = 每月
 plan-matrix-price-period-yearly-footnote-1 = 按年收费
 plan-matrix-price-period-monthly-footnote-1 = 按月收费
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>比常规VPN的价格优惠 { $savings }%</span>
 
 ## Plan CTAs
 

@@ -33,6 +33,11 @@ landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = 附加组件
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = 来源：addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 = 最多五（{ $review_count } ）条评价
 landing-reviews-show-next-button = 显示下一条评价
 landing-reviews-show-previous-button = 显示上一条评价
 landing-review-anonymous-user = { -brand-name-firefox } 用户 { $user_id }

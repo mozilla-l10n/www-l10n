@@ -15,6 +15,9 @@ faq-question-missing-emails-question-2 = 我收不到来自马甲邮箱的消息
 faq-question-missing-emails-answer-a-2 = 收不到马甲邮箱所转发的电子邮件，可能的原因包括：
 faq-question-missing-emails-answer-reason-spam = 消息被归入垃圾邮件文件夹
 faq-question-missing-emails-answer-reason-blocked-2 = 邮件服务商屏蔽了您的马甲邮箱
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = 转发的电子邮件的附件大于 { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = 该网站不允许使用马甲邮箱
 faq-question-missing-emails-answer-reason-turned-off-2 = 马甲邮箱的转发功能可能已被关闭
 faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } 转发消息可能需要比平时更长的时间
@@ -49,6 +52,9 @@ faq-question-longevity-answer-2 = 我们会提前通知您，您需要到所有�
 faq-question-mozmail-question-2 = 为何我的马甲域名变成“mozmail.com”了？
 faq-question-mozmail-answer-2 = 之所以从“relay.firefox.com”切换到“mozmail.com”，是为了自定义邮箱子域名这一特性，如 mask@yourdomain.mozmail.com。{ -brand-name-relay-premium } 订阅者可使用自定义子域名生成更好记的马甲。
 faq-question-attachments-question = { -brand-name-firefox-relay } 可以转发含附件的电子邮件吗？
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = 我们现在支持附件转发。但是，使用 { -brand-name-relay } 转发电子邮件有 { $size } MB 限制。无法转发大于 { $size } MB 的电子邮件。
 faq-question-unsubscribe-domain-question-2 = 若取消订阅 { -brand-name-relay-premium }，我的自定义子域会怎样？
 faq-question-unsubscribe-domain-answer-2 = 若不再续订 { -brand-name-relay-premium }，您仍能收到之前自定义马甲邮箱转发的电子邮件，但无法再使用该子域名新建马甲。若已有五个以上马甲，则无法创建更多马甲。您也将无法回复转发的消息。重新订阅 { -brand-name-relay-premium } 才可重获这些功能的使用权。
 faq-question-8-question = { -brand-name-firefox-relay } 会收集哪些数据？
@@ -81,7 +87,33 @@ faq-question-trackerremoval-breakage-answer-2 = 有时移除跟踪器可能会�
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = 什么是电话号码马甲？
+phone-masking-faq-answer-what-is = 与邮箱马甲类似，电话号码马甲是一种可以将短信和电话转发到您的真实电话号码的电话号码，而不会向给您打电话或发短信的人透露您真实号码的方法。
+phone-masking-faq-question-where-is = 在哪里可以获得手机号码马甲？
+phone-masking-faq-answer-where-is = 目前，电话号码马甲仅适用于美国和加拿大。这意味着您只能接收来自美国或加拿大号码的转接电话和短信。我们正在努力寻找一种在这两个国家/地区之外提供电话号码马甲的方法。
+phone-masking-faq-question-how-many = 我可以有多少个手机马甲？
+phone-masking-faq-answer-how-many = 现在，您只能有一个电话号码马甲。一旦您选定了电话号码马甲，以后就无法更改。
 phone-masking-faq-question-change-phone-mask = 我可以更改我的手机马甲吗？
+phone-masking-faq-answer-change-phone-mask = 不可以，一旦选定电话号码马甲，您就无法更改。我们正在研究其他可能性。
+phone-masking-faq-question-can-reply = 我可以回复短信吗？
+phone-masking-faq-answer-can-reply = 是的，您可以回复您收到的最后一条短信，就像回复其他短信一样。
+phone-masking-faq-question-forwarded-texts = 将哪些类型的短信会被转发？
+phone-masking-faq-answer-forwarded-texts = 只能转发 SMS 文本消息。包含照片、视频等的彩信将不会被转发。
+phone-masking-faq-question-pictures = 我可以通过短信发送或接收图片吗？
+phone-masking-faq-answer-pictures = 不可以，只能转发或回复文本短信。
+phone-masking-faq-question-historical = 我可以回复以前的短信吗？
+phone-masking-faq-answer-historical = 您目前无法回复之前收到的短信，但此功能即将推出。
+phone-masking-faq-question-can-i-send = 我可以直接发送而不是回复短信吗？
+phone-masking-faq-answer-can-i-send = 不，您还不能发送非回复短信。您只能回复转发的短信。
+phone-masking-faq-question-limit = 我收到的短信数量有限制吗？
+phone-masking-faq-answer-limit = 您每月最多可以接收和回复 75 条短信。发送到您的电话号码马甲的任何其他短信都不会转发到您的真实号码。任何额外的回复将不会被发送。月份计算以您的账单日期而非日历日期为周期。一旦您的帐单月份结束，您将再次开始接收短信。
+phone-masking-faq-question-call-length = 接到电话时我可以通话多长时间？
+phone-masking-faq-answer-call-length = 每个月你有 50 分钟的谈话时间。一旦时长用完，在下个计费月份开始前，您将无法接收转接的呼叫。
+phone-masking-faq-question-can-i-call = 我可以用手机马甲给别人打电话吗？
+phone-masking-faq-answer-can-i-call = 不可以，您只能接听转接的呼叫。
+phone-masking-faq-question-can-i-see = 我可以看到谁给我发短信或打电话吗？
+phone-masking-faq-answer-can-i-see = 是的，您可以看到给您发短信或打电话的号码。您还可以不存储这些记录，但您将无法再回复或阻止个别来电者和发短信者。
+phone-masking-faq-question-can-i-block = 我可以阻止电话或短信吗？
 phone-masking-faq-answer-can-i-block = 您可以阻止来自某一个号码的所有转发。
 phone-masking-faq-question-spam = 如果我的手机马甲收到垃圾电话或短信怎么办？
 phone-masking-faq-answer-spam = 如果您收到垃圾电话或短信，您可以阻止向您发送垃圾的号码。
