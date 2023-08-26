@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -21,22 +22,30 @@ hero-section-social-proof = Как видно из
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Как работают { -brand-name-relay } псевдонимы электронной почты и маскирование телефона
-
 how-it-works-section-extension-headline = Используйте псевдонимы электронной почты и маскирование телефона { -brand-name-relay } где угодно
 how-it-works-section-extension-body = Получите безопасные случайные маски электронной почты и уникальный замаскированный номер телефона, которые можно использовать каждый раз, когда веб-сайт, приложение, магазин или ресторан запрашивает вашу личную информацию.
-
 how-it-works-section-forward-headline = Мы будем перенаправлять вам электронные письма, телефонные звонки и текстовые сообщения
 how-it-works-section-forward-body = Будьте уверены, адресаты никогда не узнают ваш настоящий адрес электронной почты или настоящий номер. Вы даже можете отвечать на сообщения и электронные письма, не раскрывая свою настоящую личность.
-
 how-it-works-section-manage-headline = Управляйте своими масками на панели { -brand-name-relay }
 how-it-works-section-manage-body = Войдите в свою панель управления { -brand-name-relay }, чтобы создавать новые псевдонимы, маркировать существующие псевдонимы и блокировать вызовы, текстовые сообщения или электронные письма от псевдонимов, которые получают слишком много спама.
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Отзывы
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Дополнения
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Источник: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+        [one] из 5 ({ $review_count } отзыв)
+        [few] из 5 ({ $review_count } отзыва)
+       *[many] из 5 ({ $review_count } отзывов)
+    }
 landing-reviews-show-next-button = показать следующий отзыв
 landing-reviews-show-previous-button = показать предыдущий отзыв
 landing-review-anonymous-user = Пользователь { -brand-name-firefox } { $user_id }

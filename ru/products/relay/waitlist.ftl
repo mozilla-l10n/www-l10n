@@ -34,4 +34,9 @@ waitlist-subscribe-success-title = Спасибо! Теперь вы в спис
 #      - { waitlist-bundle-name }
 #      - { waitlist-phone-name }
 waitlist-subscribe-success-email-desc = Как только { -brand-name-relay-premium } станет доступен в вашем регионе, мы сообщим вам об этом по почте.
+waitlist-subscribe-success-phone-desc = Как только маскировка телефона от { -brand-name-relay } станет доступна в вашем регионе, мы сообщим вам об этом по почте.
+waitlist-subscribe-success-bundle-desc = Как только { -brand-name-relay } + { -brand-name-vpn } станут доступны в вашем регионе, мы сообщим вам об этом по почте.
+waitlist-subscribe-please-enter-a-valid = Пожалуйста, введите корректный адрес электронной почты
+waitlist-subscribe-please-select-country = Пожалуйста, выберите страну или регион
+waitlist-subscribe-please-select-language = Пожалуйста, выберите язык
 waitlist-subscribe-error-unknown = При добавлении вас в список ожидания произошла ошибка. Пожалуйста, попробуйте ещё раз.
