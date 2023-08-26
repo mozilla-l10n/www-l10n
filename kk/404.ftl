@@ -7,4 +7,5 @@
 
 not-found-page-not-found-page-page-not-found = 404: Бет табылмады
 not-found-page-sorry-we-cant-find-that-page = Кешіріңіз, біз бұл бетті таба алмадық
+not-found-page-were-all-about-a-healthy-internet = Біз бәріміз сау Интернетті қолдаймыз, бірақ кейде бұзылған URL адрестері кездеседі.
 not-found-page-go-back = Артқа
