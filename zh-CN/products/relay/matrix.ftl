@@ -19,6 +19,7 @@ plan-matrix-heading-features = 功能
 plan-matrix-heading-plan-free = 有限的电子邮件保护
 plan-matrix-heading-plan-premium = 电子邮件保护
 plan-matrix-heading-plan-phones = 电子邮件和电话保护
+plan-matrix-heading-plan-bundle-v2 = 添加 VPN 保护
 
 ## Feature Breakdowns
 
@@ -29,6 +30,7 @@ plan-matrix-feature-promo-email-blocking = 屏蔽营销邮件
 plan-matrix-feature-email-subdomain = 使用 { -brand-name-relay } 邮箱域名随时创建马甲
 plan-matrix-feature-email-reply = 匿名回复邮件
 plan-matrix-feature-phone-mask = 可保护您的真实号码的虚拟手机号
+plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
@@ -39,6 +41,7 @@ plan-matrix-feature-mobile-promo-email-blocking = 屏蔽营销邮件
 plan-matrix-feature-mobile-email-subdomain = 专属的 { -brand-name-relay } 邮箱域名
 plan-matrix-feature-mobile-email-reply = 匿名回复邮件
 plan-matrix-feature-mobile-phone-mask = 保护您的真实电话号码
+plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 

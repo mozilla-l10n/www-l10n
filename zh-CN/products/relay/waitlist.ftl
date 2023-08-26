@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
+waitlist-premium-name = { -brand-name-relay-premium }
+waitlist-bundle-name = { -brand-name-relay } + { -brand-name-vpn } 组合包
 waitlist-heading-2 = 欢迎加入 { -brand-name-relay-premium } 预约名单
 waitlist-heading-phone = 加入 { -brand-name-relay } 电话马甲预约名单
 waitlist-heading-bundle = 加入 { -brand-name-relay } + { -brand-name-vpn } 捆绑包的预约名单
@@ -24,4 +26,7 @@ waitlist-privacy-policy-agree-2 = 点击“{ waitlist-submit-label-2 }”，即�
 waitlist-privacy-policy-use = 您的信息将仅用于向您通知 { -brand-name-firefox-relay-premium } 的可用性。
 waitlist-privacy-policy-use-phone = 您的信息将仅用于在您所在地区提供电话马甲功能时通知您。
 waitlist-privacy-policy-use-bundle = 您的信息将仅用于通知您有关 { -brand-name-relay } + { -brand-name-vpn } 捆绑包可用性的消息。
+waitlist-subscribe-please-enter-a-valid = 请输入有效的电子邮件地址
+waitlist-subscribe-please-select-country = 请选择国家或地区
+waitlist-subscribe-please-select-language = 请选择语言
 waitlist-subscribe-error-unknown = 加入预约名单时出错，请重试。
