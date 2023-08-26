@@ -82,3 +82,18 @@ faq-question-trackerremoval-breakage-answer-2 = 有时移除跟踪器可能会�
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-change-phone-mask = 我可以更改我的手机马甲吗？
+phone-masking-faq-answer-can-i-block = 您可以阻止来自某一个号码的所有转发。
+phone-masking-faq-question-spam = 如果我的手机马甲收到垃圾电话或短信怎么办？
+phone-masking-faq-answer-spam = 如果您收到垃圾电话或短信，您可以阻止向您发送垃圾的号码。
+phone-masking-faq-question-disable-logging = 我可以不记录来电人或短信发送人日志吗？
+phone-masking-faq-answer-disable-logging = 是的，您可以从 { -brand-name-relay } 仪表板禁用号码记录日志。但是，您将无法再回复短信或阻止特定号码，因为日志是我们跟踪谁向您发送短信的方式。
+phone-masking-faq-question-can-i-share = 我可以分享给我转发短信的号码吗？
+phone-masking-faq-answer-can-i-share = 即使您分享此号码，也不会有什么作用 - 该号码不是您的电话号码马甲。这只是 { -brand-name-relay } 转发您的短信和电话的联系号码。
+phone-masking-faq-question-how-i-save-card = 如何保存 { -brand-name-relay } 联系人？
+phone-masking-faq-answer-how-i-save-card = 升级到 { -brand-name-relay } 电话号码马甲后，我们将向您发送一张联系人卡片，其中包含您将接收转接电话和短信的号码，像存储其他人联系人卡片一样，你可以在手机上将它保存为一个联系人。
+phone-masking-faq-question-install-app = 我需要安装应用程序才能使用 { -brand-name-relay } 手机马甲吗？
+phone-masking-faq-answer-install-app = 不需要，{ -brand-name-relay } 电话马甲可使用设备的标准短信和通话应用程序进行工作。
+phone-masking-faq-question-data = { -brand-name-relay } 电话马甲会存储什么类型的数据？
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = 请参阅<a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay }隐私政策</a>。

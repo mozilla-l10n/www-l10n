@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -18,18 +19,16 @@ hero-section-social-proof = 曾受媒体推介
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = { -brand-name-relay } 马甲邮箱和虚拟手机号的使用方式
-
 how-it-works-section-extension-headline = 随时随地使用 { -brand-name-relay } 马甲邮箱和虚拟手机号
 how-it-works-section-extension-body = 获取安全、随机的马甲邮箱及独一无二的虚拟手机号，随时在网站、应用、商店、餐厅要求您提供个人信息时使用。
-
 how-it-works-section-forward-headline = 我们会将邮件、电话和短信转发或转移给您
 how-it-works-section-forward-body = 请放心，发送消息的人永远不会知道您的真实邮件地址和电话号码，您也可以在不透露真实身份的情况下回复短信和邮件。
-
 how-it-works-section-manage-headline = 在 { -brand-name-relay } 面板管理您的马甲
 how-it-works-section-manage-body = 登录您的 { -brand-name-relay } 面板即可创建新马甲和虚拟手机号、为现有马甲和虚拟手机号添加备注，也可以在某个马甲或虚拟手机号收到太多骚扰电话、垃圾信息和邮件时将其关闭。
 
 ## REVIEWS SECTION
 
+landing-reviews-title = 评价
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = 附加组件
 # Do not localize addons.mozilla.org
