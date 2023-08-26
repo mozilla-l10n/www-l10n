@@ -81,3 +81,4 @@ faq-question-trackerremoval-breakage-answer-2 = 有时移除跟踪器可能会�
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-change-phone-mask = 我可以更改我的手机马甲吗？
