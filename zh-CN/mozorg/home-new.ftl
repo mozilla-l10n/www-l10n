@@ -24,7 +24,7 @@ home-cta-get-vpn = 下载 { -brand-name-mozilla-vpn }
 home-mozilla-takes-bets = “{ -brand-name-mozilla }正致力于向世界展示一种由可信的人工智能创造的商业模式。其中包括将人权、数据保护和透明度等问题作为此复杂系统的核心运作机制。”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
-home-is-mozilla-a-corporation = { -brand-name-mozilla } 是公司还是非营利组织？是两者兼备。
+home-is-mozilla-a-corporation = { -brand-name-mozilla } 是公司还是非营利组织？两者兼备。
 home-mozilla-consists-of = { -brand-name-mozilla } 由两个组织组成。 { -brand-name-mozilla-corporation } 由非营利组织 501(c) { -brand-name-mozilla-foundation } 全资拥有。这意味着我们不依赖于任何股东，只依赖于我们的使命。
 home-learn-about-mofo = 了解 { -brand-name-mozilla-foundation }
 home-join-the-fight = 加入争取互联网健康的行列。
