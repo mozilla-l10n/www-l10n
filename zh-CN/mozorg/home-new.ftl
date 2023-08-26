@@ -20,3 +20,6 @@ home-product-relay-masks = 简单易用的邮箱与手机号马甲
 home-cta-get-relay = 获取 { -brand-name-relay }
 home-product-vpn-trust = 值得信赖的 VPN
 home-cta-get-vpn = 下载 { -brand-name-mozilla-vpn }
+# Politico is a brand name for a news organization
+home-politico-cite = Politico
+home-is-mozilla-a-corporation = { -brand-name-mozilla } 是公司还是非营利组织？是两者兼备。
