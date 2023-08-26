@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 и выше)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 и выше)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 и выше)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (только { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (только { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 и выше)
 vpn-landing-faq-refund-question-heading = Какова политика возврата средств { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = При первой подписке на { -brand-name-mozilla-vpn } через веб-сайт { -brand-name-mozilla }, если вы аннулируете свою учетную запись в течение первых 30 дней, вы можете запросить возмещение и { -brand-name-mozilla } возместит ваш первый срок подписки.
 vpn-landing-faq-refund-question-additional-desc = Если вы приобретаете подписку через покупку в { -brand-name-apple } { -brand-name-app-store } или магазине { -brand-name-google-play }, ваш платёж регулируется условиями { -brand-name-app-store }. Вы должны направлять любые запросы на выставление счетов и возврат средств за такие покупки по адресу { -brand-name-apple } или { -brand-name-google }, в зависимости от ситуации.
