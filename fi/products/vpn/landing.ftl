@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ja uudemmat)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ja uudemmat)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 ja uudemmat)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (vain { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (vain { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ja uudemmat)
 vpn-landing-faq-refund-question-heading = Mikä on { -brand-name-mozilla-vpn }:n hyvityskäytäntö?
 vpn-landing-faq-refund-question-desc-v2 = Jos perut tilisi 30 päivän kuluessa, kun tilaat { -brand-name-mozilla-vpn } -palvelun ensimmäistä kertaa { -brand-name-mozilla }n sivuston kautta, voit pyytää hyvitystä ja { -brand-name-mozilla } hyvittää ensimmäisen tilausjaksosi.
 vpn-landing-faq-refund-question-additional-desc = Jos maksat tilauksesi sovelluksen sisäisellä ostoksella { -brand-name-apple } { -brand-name-app-store }n tai { -brand-name-google-play } Storen kautta, maksuun sovelletaan { -brand-name-app-store }n käyttöehtoja. Sinun on ohjattava tällaisia ostoksia koskevat laskutus- ja hyvityskyselyt { -brand-name-apple }lle tai { -brand-name-google }lle.
