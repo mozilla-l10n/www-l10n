@@ -88,3 +88,7 @@ faq-question-trackerremoval-breakage-answer-2 = Удаление трекеро�
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = Что такое маскирование номера телефона?
+phone-masking-faq-question-where-is = Где доступно маскирование телефона?
+phone-masking-faq-question-how-many = Сколько телефонных масок я получу?
+phone-masking-faq-question-change-phone-mask = Могу ли я сменить маску телефона?
+phone-masking-faq-question-can-i-block = Могу ли я заблокировать звонок или сообщение?
