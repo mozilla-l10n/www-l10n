@@ -34,10 +34,10 @@ home-that-one-time = 那年，我们公开了我们的源代码......
 home-the-mozilla-project = { -brand-name-mozilla } 项目于 1998 年在旧金山启动。那时，有家公司几乎垄断了人们体验互联网的方式，而 { -brand-name-netscape } 浏览器却做出了大胆的决定，将其程序代码公开给大众开发和改进。
 home-eventually-the-open = 最终，开源的 { -brand-name-mozilla } 项目演变成广受欢迎的 { -brand-name-firefox } 第一个版本。
 home-today-mozilla-continues = 如今，{ -brand-name-mozilla } 继续与全球数百万活跃社区成员一起迈向更好的互联网，倡导注重道德的技术、可信人工智能，并创造隐私优先的产品，为人们争取更大权力。
-home-learn-more-about-mozilla = 了解有关 { -brand-name-mozilla } 的更多信息
+home-learn-more-about-mozilla = 深入了解 { -brand-name-mozilla }
 home-get-good-news = 获取（优质）{ -brand-name-mozilla } 新闻
 home-get-news-and-tips = 从 { -brand-name-mozilla } 获取新闻和提示，以确保安全并了解一切使网络变得更健康的信息。
 # VPN Feature
 home-featured-product = 精选产品
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
-home-feature-blur-your-location = 使用 <span>{ -brand-name-mozilla-vpn }</span> 虚化您的位置和活动
+home-feature-blur-your-location = 使用 <span>{ -brand-name-mozilla-vpn }</span> 掩藏您的位置和活动
