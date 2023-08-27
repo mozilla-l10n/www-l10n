@@ -25,4 +25,19 @@ home-mozilla-takes-bets = "{ -brand-name-mozilla } satsar för att visa världen
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-is-mozilla-a-corporation = Är { -brand-name-mozilla } ett företag eller en ideell organisation? Egentligen båda.
+home-mozilla-consists-of = { -brand-name-mozilla } består av två organisationer. { -brand-name-mozilla-corporation } är helägt av den ideella 501(c) { -brand-name-mozilla-foundation }. Vilket innebär att vi inte har några skyldigheter till några aktieägare — enbart till vårt uppdrag.
+home-learn-about-mofo = Lär dig mer om { -brand-name-mozilla-foundation }
+home-join-the-fight = Gå med i kampen för ett hälsosamt internet
+home-your-voice-your-code = Din röst. Din kod. Dina idéer. Det finns bokstavligen tusentals sätt du kan bidra till { -brand-name-mozilla }.
+home-volunteer-with-mozilla = Volontär med { -brand-name-mozilla }
+home-that-one-time = Den där gången gav vi bort vår källkod…
+home-the-mozilla-project = Projektet { -brand-name-mozilla } grundades i San Francisco 1998, när webbläsaren { -brand-name-netscape } tog det radikala beslutet att ge bort sin programkod till allmänheten för att bygga vidare på och förbättra. På den tiden hade ett företag ett virtuellt monopol på hur människor upplevde internet.
+home-eventually-the-open = Så småningom förvandlades { -brand-name-mozilla }-projektet med öppen källkod till den mycket populära första versionen av { -brand-name-firefox }.
+home-today-mozilla-continues = Idag fortsätter { -brand-name-mozilla } sin rörelse mot ett bättre internet med miljontals aktiva communitymedlemmar över hela världen, som förespråkar etisk teknik, pålitlig AI och producerar integritetsbaserade produkter som ger mer makt till folket.
 home-learn-more-about-mozilla = Läs mer om { -brand-name-mozilla }
+home-get-good-news = Få (bra) { -brand-name-mozilla }-nyheter
+home-get-news-and-tips = Få nyheter och tips från { -brand-name-mozilla } för att vara säker och informerad om allt som gör webben till en hälsosammare plats.
+# VPN Feature
+home-featured-product = Utvald produkt
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Dölj din plats och aktivitet med <span>{ -brand-name-mozilla-vpn }</span>
