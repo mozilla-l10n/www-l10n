@@ -21,7 +21,7 @@ home-product-relay-masks = 简单易用的马甲邮箱与虚拟手机号
 home-cta-get-relay = 获取 { -brand-name-relay }
 home-product-vpn-trust = 值得信赖的 VPN
 home-cta-get-vpn = 下载 { -brand-name-mozilla-vpn }
-home-mozilla-takes-bets = “{ -brand-name-mozilla } 正致力于向世界展示一种由可信人工智能创造的商业模式。其中包括将人权、数据保护、透明度等加入到此复杂系统的核心运作机制当中。”
+home-mozilla-takes-bets = “{ -brand-name-mozilla } 正致力于向世界展示一种由可信人工智能创造的商业模式，包括将人权、数据保护、透明度等作为这套复杂系统运作机制的核心要素。”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-is-mozilla-a-corporation = { -brand-name-mozilla } 是公司还是非营利组织？两者兼备。
