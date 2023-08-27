@@ -27,7 +27,7 @@ waitlist-privacy-policy-agree-2 = 点击“{ waitlist-submit-label-2 }”，即�
 waitlist-privacy-policy-use = 您的信息将仅用于向您通知 { -brand-name-firefox-relay-premium } 的可用性。
 waitlist-privacy-policy-use-phone = 您的信息将仅用于在您所在地区提供电话马甲功能时通知您。
 waitlist-privacy-policy-use-bundle = 您的信息将仅用于通知您有关 { -brand-name-relay } + { -brand-name-vpn } 捆绑包可用性的消息。
-waitlist-subscribe-success-title = 谢谢！你在名单上
+waitlist-subscribe-success-title = 感谢！您已成功预约
 # Variables:
 #   $product (string) one of the following three options:
 #      - { -brand-name-relay-premium }
@@ -35,7 +35,7 @@ waitlist-subscribe-success-title = 谢谢！你在名单上
 #      - { waitlist-phone-name }
 waitlist-subscribe-success-email-desc = 一旦 { -brand-name-relay-premium } 在您所在的地区推出，我们就会向您发送电子邮件。
 waitlist-subscribe-success-phone-desc = 一旦您所在地区推出了 { -brand-name-relay } 电话马甲功能，我们就会向您发送电子邮件。
-waitlist-subscribe-success-bundle-desc = 一旦 { -brand-name-relay } + { -brand-name-vpn } 在您所在的地区可用，我们就会向您发送电子邮件。
+waitlist-subscribe-success-bundle-desc = 若 { -brand-name-relay } + { -brand-name-vpn } 在您所在的地区推出，我们会向您发送邮件。
 waitlist-subscribe-please-enter-a-valid = 请输入有效的电子邮件地址
 waitlist-subscribe-please-select-country = 请选择国家或地区
 waitlist-subscribe-please-select-language = 请选择语言

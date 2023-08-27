@@ -113,7 +113,7 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a>（12.0 及更高版本）
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">GNU/Linux</a>（Ubuntu 20.04 及更高版本）
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a>（Ubuntu 20.04 及更高版本）
 # Outdated string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a>（{ -brand-name-ubuntu } 18.04 及更高版本）
