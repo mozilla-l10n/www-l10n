@@ -72,4 +72,4 @@ plan-matrix-price-vpn-discount-promo-v2 = <span>比单独购买 VPN 优惠 { $sa
 plan-matrix-upgrade = 升级
 plan-matrix-sign-up = 注册
 plan-matrix-get-relay-cta = 获取 { -brand-name-relay }
-plan-matrix-join-waitlist = 加入预约名单
+plan-matrix-join-waitlist = 预约

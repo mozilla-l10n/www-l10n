@@ -29,6 +29,6 @@ vpn-mac-servers-copy = 将您 { -brand-name-mac-short } 的“位置”在 { $co
 vpn-mac-devices-headline = 一次订阅即可保护 { $devices } 台设备
 vpn-mac-devices-copy = 您的计算机、平板电脑和智能手机都应受到保护。使用 { -brand-name-mozilla-vpn } 最多可同时保护 { $devices } 台 { -brand-name-mac-short } 或 { -brand-name-ios } 设备（也支持 { -brand-name-windows }、{ -brand-name-linux } 和 { -brand-name-android } 平台）。
 vpn-mac-speed-headline = 不用牺牲速度
-vpn-mac-speed-copy = 不限流量﹠无带宽限制。您可以像往常一样遨游互联网，且更多一层保护。
+vpn-mac-speed-copy = 不限流量＆无带宽限制。您可以像往常一样遨游互联网，且更多一层保护。
 vpn-mac-log-headline = 您的网络活动，他人无权知晓
 vpn-mac-log-copy = 请放心使用 { -brand-name-mozilla-vpn }。您的数据是加密的，且在线活动不会被记录，您的隐私将始终受到保护。这是我们对您的承诺。
