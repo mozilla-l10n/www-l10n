@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -26,8 +26,8 @@ compare-shared-search-engine-options = Poravorã Jehekaha
 compare-shared-text-to-speech = Moñe’ẽrã ñe’ẽme
 compare-shared-reader-mode = Moñe’ẽrã reko
 compare-shared-spell-checking = Jehaipy ñemoĩporã
-compare-shared-web-extensionsadd-ons = Jepysokue ñanduti/Tembipuru’i
-compare-shared-in-browser-screenshot-tool = Tembipuru mba’erecha japyhyha kundahárape
+compare-shared-web-extensionsadd-ons = Jepysokue ñanduti/Tembiporu’i
+compare-shared-in-browser-screenshot-tool = Tembiporu mba’erecha japyhyha kundahárape
 compare-shared-os-availability = Ojepurukuaa apopyvusúpe g̃uarã
 compare-shared-mobile-os-availability = Ojepurukuaa pumbyry apopyvusúpe g̃uarã
 compare-shared-syncs-with-mobile = Oñembojuehe pumbyry ndive
@@ -58,7 +58,7 @@ compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
 compare-shared-download-firefox = Emboguejy { -brand-name-firefox }
 compare-shared-download-firefox-browser = Emboguejy { -brand-name-firefox-browser }
-compare-shared-download-the-app = Emboguejy tembipuru’i
+compare-shared-download-the-app = Emboguejy tembiporu’i
 compare-shared-desktop = Mesa arigua
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }

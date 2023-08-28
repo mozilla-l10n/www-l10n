@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -16,10 +16,10 @@ compare-safari-if-you-use-a-mac-or-have-updated = Eipurúramo { -brand-name-mac-
 # "Mac" is a brand name, used here as informal shorthand for "macOS computer".
 compare-safari-if-you-use-a-mac-or-have = Eipurúrõ Mac térã ereko { -brand-name-iphone }, eikuaa porã mba’éichapa ojepuru kundahára { -brand-name-safari }. Pe mba’e oumavoi henyhẽmbyre kundahára ijypykuévarõ opaite puruhára { -brand-name-apple } apopyre katuete ome’ẽ mba’eporã, hákatu { -brand-name-firefox } oreko imba’eteéva tembiapoite aty ojapóva chugui jepurukuaa. Ko’ápe jaikuaáta mba’épepa ojuavy ore kundahára ha { -brand-name-safari } ñemigua, jepuru ha ijeku’ekuaa mba’e’oka pa’ũme.
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
-compare-safari-privacy-has-become-a-white = Ñemiguágui oiko téma ñomongetaha mba’apohaguasu tembipurupyahuguápe, ohechakuaávo ko’ẽreíre hetave tapicha okyhyje oñembyaíramo g̃uarã imba’ekuaarã, ñemurã rapykuehoha ha mba’evaiapoha ñandutípe. Hákatu oñeñe’ẽvo tembipuru rehe opavave oipuru oikundaha hag̃ua ñandutiete, ¿oñe’ẽnte térã ohecha mba’éichapa omohekorosãta imba’ekuaarã?
+compare-safari-privacy-has-become-a-white = Ñemiguágui oiko téma ñomongetaha mba’apohaguasu tembiporupyahuguápe, ohechakuaávo ko’ẽreíre hetave tapicha okyhyje oñembyaíramo g̃uarã imba’ekuaarã, ñemurã rapykuehoha ha mba’evaiapoha ñandutípe. Hákatu oñeñe’ẽvo tembipuru rehe opavave oipuru oikundaha hag̃ua ñandutiete, ¿oñe’ẽnte térã ohecha mba’éichapa omohekorosãta imba’ekuaarã?
 compare-safari-as-alluded-to-before-apple-fallback = Oje’e haguéicha, { -brand-name-apple } ha’e pe atyguasu ramoite omoingeve hague ñembosarái ñemiguáva. Nda’areiete, { -brand-name-apple } ombotuicha tapykueho rug̃uaitĩ tendakuéra { -brand-name-safari } peguápe, omboykéva ñemurãnguéra oikóva nde rapykuéri ñandutípe. { -brand-name-safari } avei ome’ẽ ñe’ẽñemi imbaretéva mba’ete pyahúpe g̃uarã oimeraẽva ñanduti rendápe. Ha pe iCloud ryepýpe, ombojuehéma pe ñe’ẽñemi tekorosãme ambue mba’e’oka ndive.
 # "Standing on the soap box" means trying to spread a persuasive message to the masses. Alternative: "We've been spreading the message about privacy for a long time." Soap used to come in wooden crates, and this idiom refers to activists or preachers who would stand on an empty soap box on a street corner to speak to a crowd.
-compare-safari-like-safari-we-at-firefox = { -brand-name-safari }-cha, { -brand-name-firefox }-pe roma’ẽ tapiaite ñemigua ha tekorosãre. Hákatu ojuavy { -brand-name-safari }-gui, romotenonde ñemigua areterei guivéma. Péicha rupi, { -brand-name-mozilla } (ore rogaguasu ypykue) ha’é kuri omoñepyrũva’ekue ñe’ẽnguéra tembipurupyahu rekohápe omongyhyje ñepyrũva’ekue ñemigua ñandutípe.
+compare-safari-like-safari-we-at-firefox = { -brand-name-safari }-cha, { -brand-name-firefox }-pe roma’ẽ tapiaite ñemigua ha tekorosãre. Hákatu ojuavy { -brand-name-safari }-gui, romotenonde ñemigua areterei guivéma. Péicha rupi, { -brand-name-mozilla } (ore rogaguasu ypykue) ha’é kuri omoñepyrũva’ekue ñe’ẽnguéra tembiporupyahu rekohápe omongyhyje ñepyrũva’ekue ñemigua ñandutípe.
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/facebook-container/ with additional attributes for analytics
 # "WebMD" is a brand name.
