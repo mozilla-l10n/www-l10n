@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
@@ -16,12 +16,12 @@ mobile-compare-at-a-minimum-v2 = Michĩveháramo, ne kundahára pumbyrygua ome�
 mobile-compare-at-a-minimum = Michĩveháramo, ne kundahára pumbyrygua ome’ẽva’erã pe “kundahára ñemigua reko”, omboguétava ijeheguiete ne rembiasakue ha nde jeheka rapykuere. Ko’ápe, umi pokõi kundahára mbojuehepyre oguereko kyta.
 mobile-compare-another-mobile-feature = Ambue mba’e pumbyry orekova’erã ha’e katupyry omboykekuaávo ñanduti renda ha atyguasu ohapykuehóva ñeikundaha mba’ekuaarã ha mba’ejogua — eimérõ jepe ñeikundaha tapiaguávape.
 mobile-compare-blocking-thirdparty-trackers = Ejokóvo mbohapyháva tapykuehoha ndaha’éi iporãva tekoñemirã añónte, avei oipytyvõkuaa kuatiarogue henyhẽ pya’eve hag̃ua, umi ayvu vore omombegue’ỹre ne kundahára.
-mobile-compare-from-the-chart = Pe kora mboyvegua guive, { -brand-name-firefox } ome’ẽkuaa tembipuruita ñemigua ha hekorosãva oiko porãvéva umi po kundahára pa’ũme ha ome’ẽta ñema’ẽ guasu tekorosã ha ñemigua rehegua ñandutípe.
+mobile-compare-from-the-chart = Pe kora mboyvegua guive, { -brand-name-firefox } ome’ẽkuaa tembiporuita ñemigua ha hekorosãva oiko porãvéva umi po kundahára pa’ũme ha ome’ẽta ñema’ẽ guasu tekorosã ha ñemigua rehegua ñandutípe.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>Mboja’opy</strong>
 mobile-compare-features = Mboja’opy
 mobile-compare-what-can-your = ¿Mba’e ojapokuaa kundahára nderehe?
-mobile-compare-a-main-ingredient = Mba’e tuicháva kundahára oikoporãvape ha’e pe hembiapoite. ¿Mba’e pe ojapokuaáva? Umi po kundahára ojueheguapanunga tendayke, techaukaha ha kora myanyhẽ ijeheguívape, hákatu { -brand-name-firefox } ha { -brand-name-safari } añoite ome’ẽkuaa moĩmbaha/jepysokue, ha’etéva tembipuru’i kundahárape g̃uarã hekoñemive hag̃ua, imbarete térã hekoretia’evégui.
+mobile-compare-a-main-ingredient = Mba’e tuicháva kundahára oikoporãvape ha’e pe hembiapoite. ¿Mba’e pe ojapokuaáva? Umi po kundahára ojueheguapanunga tendayke, techaukaha ha kora myanyhẽ ijeheguívape, hákatu { -brand-name-firefox } ha { -brand-name-safari } añoite ome’ẽkuaa moĩmbaha/jepysokue, ha’etéva tembiporu’i kundahárape g̃uarã hekoñemive hag̃ua, imbarete térã hekoretia’evégui.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Mbojuehepyre</strong>
 mobile-compare-syncing = Mbojuehepyre
@@ -46,10 +46,10 @@ mobile-compare-add-to-homescreen = Embojuaju mba’erechaha guasúre
 mobile-compare-read-text-aloud = Emoñe’ẽ Moñe’ẽ Ayvúpe
 mobile-compare-news-feed = Marandu
 mobile-compare-collections = Ñembyatyha
-mobile-compare-inapp-vpn = VPN tembipuru’ípe
+mobile-compare-inapp-vpn = VPN tembiporu’ípe
 mobile-compare-shopping = Ñemuhaguasu
 mobile-compare-mobile-os-availability = Eipurukuaa pumbyry apopyvusúpe g̃uarã
-mobile-compare-syncs-with-desktopmobile = Oñembojuehe tembipuru’i mesa arigua/pumbyry
+mobile-compare-syncs-with-desktopmobile = Oñembojuehe tembiporu’i mesa arigua/pumbyry
 mobile-compare-password-management = Ñe’ẽñemi ñemoheñói
 mobile-compare-primary-password = Ñe’ẽñemi ñepyrũgua
 mobile-compare-get-firefox-for-mobile = Erekóke { -brand-name-firefox } pumbyrýpe g̃uarã
