@@ -89,7 +89,7 @@ faq-question-trackerremoval-breakage-answer-2 = 有时移除跟踪器可能会�
 
 phone-masking-faq-question-what-is = 什么是虚拟手机号？
 phone-masking-faq-answer-what-is = 与马甲邮箱类似，虚拟手机号可以将短信和电话转移给您的真实手机号，不让给您打电话及发短信的人得知您的真实号码。
-phone-masking-faq-question-where-is = 在哪里可以获得手机号码马甲？
+phone-masking-faq-question-where-is = 哪些地区可以使用虚拟手机号？
 phone-masking-faq-answer-where-is = 目前，电话号码马甲仅适用于美国和加拿大。这意味着您只能接收来自美国或加拿大号码的转接电话和短信。我们正在努力寻找一种在这两个国家/地区之外提供电话号码马甲的方法。
 phone-masking-faq-question-how-many = 我可以有多少个手机马甲？
 phone-masking-faq-answer-how-many = 现在，您只能有一个电话号码马甲。一旦您选定了电话号码马甲，以后就无法更改。
