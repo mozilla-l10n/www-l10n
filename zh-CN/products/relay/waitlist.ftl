@@ -33,10 +33,10 @@ waitlist-subscribe-success-title = 感谢！您已成功预约
 #      - { -brand-name-relay-premium }
 #      - { waitlist-bundle-name }
 #      - { waitlist-phone-name }
-waitlist-subscribe-success-email-desc = 一旦 { -brand-name-relay-premium } 在您所在的地区推出，我们就会向您发送电子邮件。
-waitlist-subscribe-success-phone-desc = 一旦您所在地区推出了 { -brand-name-relay } 电话马甲功能，我们就会向您发送电子邮件。
-waitlist-subscribe-success-bundle-desc = 若 { -brand-name-relay } + { -brand-name-vpn } 在您所在的地区推出，我们会向您发送邮件。
-waitlist-subscribe-please-enter-a-valid = 请输入有效的电子邮件地址
+waitlist-subscribe-success-email-desc = 若 { -brand-name-relay-premium } 在您所在的地区推出，我们会邮件通知您。
+waitlist-subscribe-success-phone-desc = 若 { -brand-name-relay } 虚拟手机号功能在您所在的地区推出，我们会邮件通知您。
+waitlist-subscribe-success-bundle-desc = 若 { -brand-name-relay } + { -brand-name-vpn } 在您所在的地区推出，我们会邮件通知您。
+waitlist-subscribe-please-enter-a-valid = 请输入有效的邮箱地址
 waitlist-subscribe-please-select-country = 请选择国家或地区
 waitlist-subscribe-please-select-language = 请选择语言
 waitlist-subscribe-error-unknown = 加入预约名单时出错，请重试。
