@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
@@ -20,7 +20,7 @@ compare-opera-firefoxs-privacy-policy-is = Ko <a { $attrs }>temiñemi purureko</
 compare-opera-as-far-as-actual-privacy-protections = Ñemigua ñemo’ã rehegua { -brand-name-opera } kundahára ome’ẽ ayvu ñemi oikóva omoneĩva ñeikundaha ñandutípe pe kundahára ohapykueho’ỹre ne rembiapo. Pe ñeikundaha tapiagua, avei ikatu oipe’a heta tembiapoite mba’ekuaarã mbyatyha ombopypukúvo ñemboheko ombojuruja hag̃ua ñemurã jokoha ha omoĩporã ambue tembiapoite tekorosãgua.
 # Variables:
 #   $attrs (string) - link to https://blog.mozilla.org/blog/2019/09/03/todays-firefox-blocks-third-party-tracking-cookies-and-cryptomining-by-default/ with additional attributes for analytics
-compare-opera-with-the-latest-version-of = { -brand-name-firefox } rembiapokue ipyahuvéva ndive, <a { $attrs }>ñemo’ã tapykuehoha iporãvéva rovake</a> hendy ijypykue rupíva ñeikundaha tapiaguávape, upévare ani ohasa nde rehe aravo ñemboheko ndive eñemo’ã hag̃ua año tapykuehohágui. Pe ñemo’ã tapykuehoha iporãvéva rovake, { -brand-name-firefox } ojokóma hetaiterei tapykuehohakuéra mbohapyháva nde rapykuehoséva ñandutípe. Oñeme’ẽ peteĩ marandu’i ñemo’ã nemba’etéva ohechaukáva mboy jeýpa { -brand-name-firefox } ojoko umi kookie mbohapyháva, tapykuehoha ava ñandutietáva, tembipuru ñemokuãhũha ha umi criptominero eikundahakuévo ñandutípe.
+compare-opera-with-the-latest-version-of = { -brand-name-firefox } rembiapokue ipyahuvéva ndive, <a { $attrs }>ñemo’ã tapykuehoha iporãvéva rovake</a> hendy ijypykue rupíva ñeikundaha tapiaguávape, upévare ani ohasa nde rehe aravo ñemboheko ndive eñemo’ã hag̃ua año tapykuehohágui. Pe ñemo’ã tapykuehoha iporãvéva rovake, { -brand-name-firefox } ojokóma hetaiterei tapykuehohakuéra mbohapyháva nde rapykuehoséva ñandutípe. Oñeme’ẽ peteĩ marandu’i ñemo’ã nemba’etéva ohechaukáva mboy jeýpa { -brand-name-firefox } ojoko umi kookie mbohapyháva, tapykuehoha ava ñandutietáva, tembiporu ñemokuãhũha ha umi criptominero eikundahakuévo ñandutípe.
 compare-opera-we-make-firefox-for-people = Rojapo { -brand-name-firefox } ndéve g̃uarãicha, ojepy’apýva ñemigua ha tekorosã peteĩteĩvare. Upévare rombyaty sa’imi marandu puruhára rehegua ha ore reko hesakã pe marandu jepuru rehegua. Hasy eikuaa hag̃ua mba’éichapa omba’apo { -brand-name-opera } ñemigua ñema’ẽguivo. Oĩramo jepe ñemigua rehegua imbaretéva, pe mba’éichapa ombyaty ha omoherakuã imba’ekuaarã nahesakãmbái. { -brand-name-firefox } opyta ro’e haguéicha ha rojapo romo’ã hag̃ua ne ñemigua.
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics

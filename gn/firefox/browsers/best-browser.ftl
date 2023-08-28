@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -16,16 +16,16 @@ best-browser-when-you-use-a-browser = Eipurúvo kundaha, eikotevẽ ipya’e. Ha
 best-browser-marshall-erwin-senior = Marshall Erwin, Director Senior Confianza ha Seguridad { -brand-name-mozilla } pegua
 best-browser-if-youre-wondering = Eporandúramo mba’épa kundaha ipya’e ha hekoñemíva, ko’ápe rohechauka mbohapy mba’e oguerekova’erã kundaha.
 best-browser-a-browser-built-for = Kundaha ojejapóva pya’everã.
-best-browser-a-browser-is-still = Peteĩ kundaha ha’e tembipuru, upéicharamo eiporavokuaa iporãvéva. Ehoséramo, eikotevẽ jet privado. Ehekuaava’erã kundaha omoneĩva tapykuehoha mbohapyháva ikatu imbegueve umi kundaha ojapo’ỹvagui. Umi tapykuehoha mbohapyháva ha’e kookie, nderehecháiramo jepe, omba’apohína kañyhápe, oipurúvo aravo iporãva. Hetavévo tapykuehoha mbohapyháva ikatúva kundaha ojoko, ipya’evéta.
+best-browser-a-browser-is-still = Peteĩ kundaha ha’e tembiporu, upéicharamo eiporavokuaa iporãvéva. Ehoséramo, eikotevẽ jet privado. Ehekuaava’erã kundaha omoneĩva tapykuehoha mbohapyháva ikatu imbegueve umi kundaha ojapo’ỹvagui. Umi tapykuehoha mbohapyháva ha’e kookie, nderehecháiramo jepe, omba’apohína kañyhápe, oipurúvo aravo iporãva. Hetavévo tapykuehoha mbohapyháva ikatúva kundaha ojoko, ipya’evéta.
 best-browser-this-is-one-of-the = Kóva ha’e eiporavo hag̃ua { -brand-name-firefox } kundaha: { -brand-name-firefox } ojoko tapykuehoha mbohapyháva ijypykue rupi. Avei oĩve ambue mba’e ha jaháta upépe ag̃ave.
 best-browser-a-browser-that-puts = Kundaha omotenondéva tekorosã.
 best-browser-remember-the-last-massive = ¿Nemandu’ápa mba’ekuaarã ñembyai ramovegua? Peicha’ỹramo, ikatu oiko tapiágui. Umi mba’apohaguasu oñongatu puruhára mba’ekuaarã, imarandu tee térã virureko, ha umi mondaha ogueraha. Emotenondéramo tekorosã, upéicharamo kundaha hetekorosãva ha’e iporãvéva ndéve g̃uarã.
-best-browser-there-are-a-few-ways = Oĩ heta mba’e kundaha ikatuhápe oipytyvõ puruhárape hekorosã hag̃ua. Kundaha hekopyahúva tekorosãme ikatu oipytyvõ omo’ã hag̃ua ne mohendaha ha ñanduti renda oikéva eipota’ỹre, tembiaporape imarãva térã mba’echu’i tembipurupyahu rehegua.
+best-browser-there-are-a-few-ways = Oĩ heta mba’e kundaha ikatuhápe oipytyvõ puruhárape hekorosã hag̃ua. Kundaha hekopyahúva tekorosãme ikatu oipytyvõ omo’ã hag̃ua ne mohendaha ha ñanduti renda oikéva eipota’ỹre, tembiaporape imarãva térã mba’echu’i tembiporupyahu rehegua.
 # Variables:
 # $data (url) - link to https://www.mozilla.org/privacy/firefox/
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Ambue hendáicha katu ani embyaty heta puruhára mba’ekuaarã. Umi mondaha ndaikatúi ogueraha oĩ’ỹva pépe, upévare { -brand-name-firefox } oguereko marandu michĩmi puruhára rehegua. <a href="{ $data }">{ -brand-name-firefox } oikuaa</a> eipurúpa kundaha ha ne rendaite tuichaháicha <a href="{ $privacy }">hákatu ndaha’éi ne rymba réra ne mitãmeguare ha avei sa’y ehayhuvéva.</a>
-best-browser-last-but-not-least = Ipahápe, hákatu tuichamba’e avei, kundaha hetekorosãva oguerekova’erã tembipuru ne pytyvõtava ema’ẽag̃ui hag̃ua ne mba’etére. Ehecha kyhyjerã oikéva ne ñanduti vevépe ne mba’ete peteĩva imarãrõ térã ta’ãnga’i he’íva ndéve ñanduti renda oĩramo encriptado (ja’étavo, iporãpa emoinge nde papapy ñemurãva tenda joguahápe).
+best-browser-last-but-not-least = Ipahápe, hákatu tuichamba’e avei, kundaha hetekorosãva oguerekova’erã tembiporu ne pytyvõtava ema’ẽag̃ui hag̃ua ne mba’etére. Ehecha kyhyjerã oikéva ne ñanduti vevépe ne mba’ete peteĩva imarãrõ térã ta’ãnga’i he’íva ndéve ñanduti renda oĩramo encriptado (ja’étavo, iporãpa emoinge nde papapy ñemurãva tenda joguahápe).
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } ome’ẽ mba’e pyahu ne rekorosã hag̃ua: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Purupyrã reigua nemombáytava oĩramo mondaha ne mba’etépe ha nemomarandúta umi ne mba’ete oñemondápara’e ymave. Ambue hembiapoite ha’e Candado verde. Ojehecha peteĩ ta’ãnga’í hovyũvaramo kundaha rovetã yvate asu gotyo. Eikéramo { -brand-name-firefox }-pe ha ehecha pe candado verde, he’ise pe ñanduti renda oĩha encriptado ha hekorosã. Pe candado iñapatĩramo, ikatu eñamindu’uve emoinge hag̃ua marandu ñemiguaitéva.

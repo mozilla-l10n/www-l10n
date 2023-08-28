@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -20,7 +20,7 @@ firefox-all-lang-multi = Hetaiterei ñe’ẽ
 firefox-all-sorry-we-couldnt-find = Rombyasy, ndaikatúi rojuhu ñemboguejyrã ehekáva. Ikatúpa eha’ãjey térã eiporavo ñemboguejyrã tysýi yvy gotyoguápe.
 firefox-all-the-pre-alpha-version = Pe pre-alfa puruhára katupyrýpe g̃uarã ohekaséva jejavy ha péicha ojuhu tembiapoite pyahu ombopapapykuévo.
 firefox-all-64-bit-installers = Mohendaha 64-bit
-firefox-all-choose-a-64-bit-installer = Eiporavo ñemohendaha 64-bit ne mohendahápe g̃uarã orekóva procesador 64-bit avei, ome’ẽ hetave RAM tembiaporape ha’eñóva, eñembosarái hag̃ua ha ambue tembipuru’i imbaretéva.
+firefox-all-choose-a-64-bit-installer = Eiporavo ñemohendaha 64-bit ne mohendahápe g̃uarã orekóva procesador 64-bit avei, ome’ẽ hetave RAM tembiaporape ha’eñóva, eñembosarái hag̃ua ha ambue tembiporu’i imbaretéva.
 firefox-all-32-bit-installers = Mohendaha 32-bit
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Emboguejy { -brand-name-firefox-browser } guaraníme (GN) ha avei hetaiteve 90 ñe’ẽme oĩva
