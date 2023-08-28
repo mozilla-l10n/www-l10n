@@ -10,6 +10,9 @@ plan-matrix-title = 定价
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = 选择适合您的保护级别
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay }提供了虚拟马甲邮箱来保护您的真实邮箱地址。{ -brand-name-relay }则是提供虚拟手机号码转接让安全更上一层楼，同时购买{ -brand-name-mozilla-vpn }服务还可享受{ $savings }%折扣。
 
 ## Top Row Labels
 
