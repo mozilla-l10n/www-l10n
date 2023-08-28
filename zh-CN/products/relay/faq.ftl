@@ -123,7 +123,7 @@ phone-masking-faq-question-can-i-share = 我可以分享给我转发短信的号
 phone-masking-faq-answer-can-i-share = 即使您分享此号码，也不会有什么作用。该号码不是您的虚拟手机号，只是 { -brand-name-relay } 转移您的短信和通话时所用的号码。
 phone-masking-faq-question-how-i-save-card = 如何保存 { -brand-name-relay } 联系人？
 phone-masking-faq-answer-how-i-save-card = 升级到 { -brand-name-relay } 电话号码马甲后，我们将向您发送一张联系人卡片，其中包含您将接收转接电话和短信的号码，像存储其他人联系人卡片一样，你可以在手机上将它保存为一个联系人。
-phone-masking-faq-question-install-app = 我需要安装应用程序才能使用 { -brand-name-relay } 手机马甲吗？
+phone-masking-faq-question-install-app = 我需要安装应用才能使用 { -brand-name-relay } 虚拟手机号吗？
 phone-masking-faq-answer-install-app = 不需要，{ -brand-name-relay } 电话马甲可使用设备的标准短信和通话应用程序进行工作。
 phone-masking-faq-question-data = { -brand-name-relay } 电话马甲会存储什么类型的数据？
 #   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
