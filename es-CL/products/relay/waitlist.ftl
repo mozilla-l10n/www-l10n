@@ -25,6 +25,7 @@ waitlist-submit-label-2 = Únete a la lista de espera
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
 waitlist-privacy-policy-agree-2 = Al hacer clic en "{ waitlist-submit-label-2 }", aceptas nuestra <a href="{ $url }">Política de privacidad</a>.
 waitlist-privacy-policy-use = Tu información será utilizada solo para notificarte de la disponibilidad de { -brand-name-firefox-relay-premium }.
+waitlist-privacy-policy-use-bundle = Tu información será utilizada solo para notificarte de la disponibilidad del paquete { -brand-name-relay } + { -brand-name-vpn }.
 waitlist-subscribe-success-title = ¡Gracias! Estás en la lista
 # Variables:
 #   $product (string) one of the following three options:
@@ -32,6 +33,9 @@ waitlist-subscribe-success-title = ¡Gracias! Estás en la lista
 #      - { waitlist-bundle-name }
 #      - { waitlist-phone-name }
 waitlist-subscribe-success-email-desc = Una vez que { -brand-name-relay-premium } esté disponible para tu región, te enviaremos un correo electrónico.
+waitlist-subscribe-success-phone-desc = Una vez que { -brand-name-relay } esté disponible para tu región, te enviaremos un correo electrónico.
+waitlist-subscribe-success-bundle-desc = Una vez que { -brand-name-relay } + { -brand-name-vpn } estén disponible para tu región, te enviaremos un correo electrónico.
 waitlist-subscribe-please-enter-a-valid = Escribe una dirección de correo válida
 waitlist-subscribe-please-select-country = Por favor, selecciona un país o región
 waitlist-subscribe-please-select-language = Por favor, selecciona un idioma
+waitlist-subscribe-error-unknown = Hubo un error al añadirte a la lista de espera. Por favor, vuelve a intentarlo.
