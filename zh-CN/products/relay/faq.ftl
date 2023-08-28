@@ -124,8 +124,8 @@ phone-masking-faq-answer-can-i-share = 即使您分享此号码，也不会有�
 phone-masking-faq-question-how-i-save-card = 如何保存 { -brand-name-relay } 联系人？
 phone-masking-faq-answer-how-i-save-card = 升级到 { -brand-name-relay } 电话号码马甲后，我们将向您发送一张联系人卡片，其中包含您将接收转接电话和短信的号码，像存储其他人联系人卡片一样，你可以在手机上将它保存为一个联系人。
 phone-masking-faq-question-install-app = 我需要安装应用才能使用 { -brand-name-relay } 虚拟手机号吗？
-phone-masking-faq-answer-install-app = 不需要，{ -brand-name-relay } 电话马甲可使用设备的标准短信和通话应用程序进行工作。
-phone-masking-faq-question-data = { -brand-name-relay } 电话马甲会存储什么类型的数据？
+phone-masking-faq-answer-install-app = 不需要，{ -brand-name-relay } 虚拟手机号只需使用设备的标准短信和通话应用。
+phone-masking-faq-question-data = { -brand-name-relay } 虚拟手机号会存储什么类型的数据？
 #   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
 phone-masking-faq-answer-data = 请参阅<a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay }隐私政策</a>。
