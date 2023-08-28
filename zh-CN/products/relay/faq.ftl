@@ -54,7 +54,7 @@ faq-question-mozmail-answer-2 = 之所以从“relay.firefox.com”切换到“m
 faq-question-attachments-question = { -brand-name-firefox-relay } 可以转发含附件的电子邮件吗？
 # Variables:
 #  $size (number): maximum size for attachments in MB
-faq-question-attachments-answer-v2 = 我们现在支持附件转发。但是，使用 { -brand-name-relay } 转发电子邮件有 { $size } MB 限制。无法转发大于 { $size } MB 的电子邮件。
+faq-question-attachments-answer-v2 = 我们现在支持转发附件。但是，使用 { -brand-name-relay } 转发电子邮件有 { $size } MB 限制。无法转发大于 { $size } MB 的电子邮件。
 faq-question-unsubscribe-domain-question-2 = 若取消订阅 { -brand-name-relay-premium }，我的自定义子域会怎样？
 faq-question-unsubscribe-domain-answer-2 = 若不再续订 { -brand-name-relay-premium }，您仍能收到之前自定义马甲邮箱转发的电子邮件，但无法再使用该子域名新建马甲。若已有五个以上马甲，则无法创建更多马甲。您也将无法回复转发的消息。重新订阅 { -brand-name-relay-premium } 才可重获这些功能的使用权。
 faq-question-8-question = { -brand-name-firefox-relay } 会收集哪些数据？
