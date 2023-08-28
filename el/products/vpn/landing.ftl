@@ -113,13 +113,10 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 και νεότερο)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 και νεότερο)
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 και νεότερο)
 # Outdated string
-# Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (μόνο για { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (Μόνο για { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 και νεότερο)
 vpn-landing-faq-refund-question-heading = Ποια είναι η πολιτική επιστροφής χρημάτων του { -brand-name-mozilla-vpn };
 vpn-landing-faq-refund-question-desc-v2 = Την πρώτη φορά που θα εγγραφείτε στο { -brand-name-mozilla-vpn } μέσω του ιστοτόπου της { -brand-name-mozilla }, εάν ακυρώσετε τον λογαριασμό σας εντός των πρώτων 30 ημερών, μπορείτε να ζητήσετε επιστροφή χρημάτων και η { -brand-name-mozilla } θα σας επιστρέψει το ποσό της πρώτης σας συνδρομής.
 vpn-landing-faq-refund-question-additional-desc = Αν αγοράσετε τη συνδρομή σας εντός της εφαρμογής από το { -brand-name-apple } { -brand-name-app-store } ή το { -brand-name-google-play } Store, η πληρωμή σας υπόκειται στους όρους και τις προϋποθέσεις του { -brand-name-app-store }. Θα πρέπει να απευθυνθείτε, αναλόγως, στην { -brand-name-apple } ή την { -brand-name-google } για τυχόν απορίες σχετικά με τη χρέωση και την επιστροφή χρημάτων.
