@@ -10,7 +10,7 @@
 bundle-banner-header-2 = 限时特惠：{ -brand-name-relay-premium } + { -brand-name-mozilla-vpn } 仅售 { $monthly_price } 每月
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-bundle-banner-body-v2 = { -brand-name-mozilla-vpn } 可在您畅玩游戏、办理业务、完成工作时，保护您免受跟踪和监视。与 { -brand-name-firefox-relay } 一同订阅，立享 { $savings } 折扣。
+bundle-banner-body-v2 = { -brand-name-mozilla-vpn } 可在您畅玩游戏、办理业务、完成工作时，保护您免受跟踪和监视。与 { -brand-name-firefox-relay } 一同订阅，立享 { $savings }% 折扣。
 bundle-banner-plan-header-2 = 您的 1 年方案包含：
 bundle-banner-plan-modules-email-masking = 马甲邮箱
 bundle-banner-plan-modules-phone-masking = 虚拟手机号
