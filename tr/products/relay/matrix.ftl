@@ -5,9 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
 
+plan-matrix-title = Fiyatlar
 
 ## PRICING MATRIX SECTION
 
+plan-matrix-offer-title = Size en uygun koruma düzeyini seçin
 
 ## Top Row Labels
 
@@ -17,9 +19,13 @@ plan-matrix-heading-features = Özellikler
 plan-matrix-heading-plan-free = Sınırlı e-posta koruması
 plan-matrix-heading-plan-premium = E-posta koruması
 plan-matrix-heading-plan-phones = E-posta ve telefon koruması
+plan-matrix-heading-plan-bundle-v2 = VPN koruması ekle
 
 ## Feature Breakdowns
 
+plan-matrix-feature-email-masks = Gerçek e-posta adresinizi koruyan e-posta maskeleri
+plan-matrix-feature-email-tracker-removal = E-posta takip kodlarını kaldırma
+plan-matrix-feature-email-reply = E-postaları anonim olarak yanıtlama
 plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)

@@ -8,12 +8,29 @@
 
 ## FAQ Page
 
+faq-headline = Sıkça Sorulan Sorular
+faq-question-what-is-question-2 = { -brand-name-relay } e-posta maskesi nedir?
 faq-question-missing-emails-question-2 = E-posta maskelerimden ileti alamıyorum
+faq-question-missing-emails-answer-a-2 = Maskeleriniz aracılığıyla iletilen e-postaları alamamanızın birkaç nedeni olabilir. Bu nedenler şunlar olabilir:
+faq-question-missing-emails-answer-reason-spam = İletilerin spam klasörüne gitmesi
+faq-question-missing-emails-answer-reason-blocked-2 = E-posta sağlayıcınızın e-posta maskelerinizi engellemesi
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = İletilen e-postanın { $size } MB’den büyük bir ekinin olması
+faq-question-missing-emails-answer-reason-not-accepted-2 = Sitenin e-posta maskelerini kabul etmemesi
+faq-question-missing-emails-answer-reason-turned-off-2 = Maske iletmenin kapalı olması
 #   $url (url) - link to the support site
 #   $attrs (string) - specific attributes added to external links
 faq-question-missing-emails-answer-support-site-html = Bu sorunlardan herhangi birini yaşıyorsanız lütfen <a href="{ $url }" { $attrs }>destek sitemizi ziyaret edin</a>.
+faq-question-use-cases-question-2 = { -brand-name-relay } e-posta maskelerini ne zaman kullanmalıyım?
 faq-question-2-question-2 = Bir site neden { -brand-name-relay } e-posta maskemi kabul etmiyor?
 faq-question-1-question = Spam e-postalara ne olacak?
+faq-question-availability-question = { -brand-name-relay } hangi ülkelerde kullanılabilir?
+faq-question-4-question-2 = { -brand-name-relay } e-posta maskemi kullanarak e-postalara cevap verebilir miyim?
+faq-question-subdomain-characters-question = Alt alan adı oluştururken hangi karakterleri kullanabilirim?
+faq-question-subdomain-characters-answer-v2 = Alt alan adı oluştururken yalnızca küçük İngilizce harfleri, rakamları ve kısa çizgiyi kullanabilirsiniz.
+faq-question-browser-support-question = { -brand-name-relay }’i diğer tarayıcılarda veya mobil cihazımda kullanabilir miyim?
+faq-question-browser-support-answer-2 = Evet, { -brand-name-relay } kontrol panelinize giriş yaparak diğer tarayıcılarda veya mobil cihazlarda { -brand-name-relay } maskeleri oluşturabilirsiniz.
 faq-question-longevity-question = { -brand-name-mozilla }, { -brand-name-firefox-relay } hizmetini kapatırsa ne olacak?
 faq-question-longevity-answer-2 = { -brand-name-relay } e-posta maskesi kullanan tüm hesapların e-posta adresini değiştirmeniz gerektiğini size önceden bildireceğiz.
 faq-question-mozmail-question-2 = E-posta maskelerim neden “mozmail.com” alan adını kullanmaya başladı?
