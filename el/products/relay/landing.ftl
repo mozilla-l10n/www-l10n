@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -14,26 +15,35 @@ hero-section-body =
     Οι ασφαλείς, εύχρηστές μας μάσκες email και τηλεφώνου διατηρούν απόρρητη την ταυτότητά σας, 
     ώστε να δημιουργείτε ανώνυμα νέους λογαριασμούς, να εμποδίζετε ανεπιθύμητα μηνύματα και κλήσεις, 
     καθώς και να λαμβάνετε μόνο τα email που θέλετε στα εισερχόμενά σας.
+# Context: This lists the various websites and magazines who have mentioned Firefox Relay.
+# Example: "As seen in: FORBES magainze and LifeHacker"
+hero-section-social-proof = Όπως φαίνεται στα:
 
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Πώς λειτουργεί η απόκρυψη email και τηλεφώνου του { -brand-name-relay }
-
 how-it-works-section-extension-headline = Χρησιμοποιήστε τις μάσκες email και τηλεφώνου του { -brand-name-relay } παντού
 how-it-works-section-extension-body = Λάβετε ασφαλείς, τυχαίες μάσκες email και έναν μοναδικό, κρυφό αριθμό τηλεφώνου για χρήση κάθε φορά που ένας ιστότοπος, μια εφαρμογή, ένα κατάστημα ή ένα εστιατόριο ζητά τα στοιχεία σας.
-
 how-it-works-section-forward-headline = Θα προωθούμε τα email, τις κλήσεις και τα μηνύματα σε εσάς
 how-it-works-section-forward-body = Μείνετε ήσυχοι, οι αποστολείς δεν θα μάθουν ποτέ την πραγματική διεύθυνση email ή τον αριθμό σας. Μπορείτε ακόμα και να απαντήσετε σε μηνύματα και email χωρίς να αποκαλυφθεί η πραγματική σας ταυτότητα.
-
 how-it-works-section-manage-headline = Διαχειριστείτε τις μάσκες σας από τον πίνακα ελέγχου του { -brand-name-relay }
 how-it-works-section-manage-body = Συνδεθείτε στον πίνακα ελέγχου του { -brand-name-relay } για να δημιουργήσετε νέες μάσκες, να προσθέσετε ετικέτες σε υπάρχουσες μάσκες και να αποκλείσετε κλήσεις, μηνύματα ή email από μάσκες που λαμβάνουν πολλά ανεπιθύμητα μηνύματα.
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Κριτικές
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = - Προσθετα
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Πηγή: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+       *[other] από 5 ({ $review_count } κριτικές)
+    }
 landing-reviews-show-next-button = εμφάνιση επόμενης κριτικής
 landing-reviews-show-previous-button = εμφάνιση προηγούμενης κριτικής
 landing-review-anonymous-user = Χρήστης { -brand-name-firefox } { $user_id }
