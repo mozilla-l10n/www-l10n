@@ -24,15 +24,20 @@ plan-matrix-heading-plan-bundle-v2 = VPN koruması ekle
 ## Feature Breakdowns
 
 plan-matrix-feature-email-masks = Gerçek e-posta adresinizi koruyan e-posta maskeleri
+plan-matrix-feature-browser-extension = Her sitede { -brand-name-relay }’i kullanmanızı sağlayan tarayıcı uzantısı
 plan-matrix-feature-email-tracker-removal = E-posta takip kodlarını kaldırma
 plan-matrix-feature-email-reply = E-postaları anonim olarak yanıtlama
+plan-matrix-feature-phone-mask = Gerçek telefon numaranızı koruyan telefon maskesi
 plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
 plan-matrix-feature-mobile-email-masks = E-posta maskeleri
 plan-matrix-feature-mobile-browser-extension = Tarayıcı uzantısı
+plan-matrix-feature-mobile-email-tracker-removal = E-posta takip kodlarını kaldırma
 plan-matrix-feature-mobile-email-subdomain = Benzersiz { -brand-name-relay } e-posta alan adı
+plan-matrix-feature-mobile-email-reply = E-postaları anonim olarak yanıtlama
+plan-matrix-feature-mobile-phone-mask = Gerçek telefon numaranızı koruma
 plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
@@ -56,4 +61,5 @@ plan-matrix-price-vpn-discount-promo-v2 = Normal VPN fiyatından <span>%{ $savin
 
 ## Plan CTAs
 
+plan-matrix-get-relay-cta = { -brand-name-relay }’i edinin
 plan-matrix-join-waitlist = Bekleme listesine katılın

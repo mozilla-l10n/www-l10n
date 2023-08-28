@@ -7,3 +7,5 @@
 
 vpn-mobile-vpn-for-mobile = { -brand-name-mozilla }’dan mobil cihazlar için VPN
 vpn-mobile-why-do-i = Mobil cihazlarımda neden VPN’e ihtiyacım olsun?
+# Obsolete string
+vpn-mobile-hackers-can-steal = Kafeler veya havalimanları gibi halka açık yerlerdeki Wi-Fi ağlarını kullanırken bilgisayar korsanları kişisel verilerinizi çalabilir.
