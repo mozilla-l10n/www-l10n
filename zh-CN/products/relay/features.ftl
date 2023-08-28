@@ -14,7 +14,7 @@ highlighted-features-section-bottom-cta = 开始使用
 highlighted-features-section-unlimited-masks-headline = 创建无限数量马甲
 # Variables:
 #   $mask_limit (number) - the number of masks included with a particular plan
-highlighted-features-section-unlimited-masks-body-v2 = 每个人都可以免费获得 { $mask_limit } 个邮箱马甲。但升级到 { -brand-name-relay-premium } 后，您可以根据需要生成无限量的马甲，以帮助保护您的收件箱免受垃圾邮件、黑客和在线跟踪器的侵扰。
+highlighted-features-section-unlimited-masks-body-v2 = 每个人都可以免费获得 { $mask_limit } 个邮箱马甲。但升级到 { -brand-name-relay-premium } 后，您可以根据需要生成无限量的马甲，帮助保护您的收件箱免受垃圾邮件、黑客和在线跟踪器的侵扰。
 highlighted-features-section-masks-on-the-go-headline = 随时随地创建马甲
 # Variables:
 #   $mozmail (string): domain used by Relay masks (mozmail.com)
