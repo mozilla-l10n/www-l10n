@@ -39,7 +39,7 @@ landing-reviews-details-source = Fuente: addons.mozilla.org
 #   $review_count (number): total number of reviews
 landing-reviews-out-of-5 =
     { $review_count ->
-        [one] de 5 ({ $review_count } revisiones)
+        [one] de 5 ({ $review_count } revisión)
        *[other] de 5 ({ $review_count } revisiones)
     }
 landing-reviews-show-next-button = mostrar la siguiente valoración
