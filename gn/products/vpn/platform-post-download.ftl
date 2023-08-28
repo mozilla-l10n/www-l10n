@@ -44,7 +44,7 @@ vpn-download-faq-here-are-some = Ko’ãvahína umi mba’e oñeporanduvéva { -
 vpn-download-faq-why-use = Mba’érepa eipuruva’erã { -brand-name-mozilla-vpn }
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
-vpn-download-faq-as-more-daily = Ko’ẽreíre hetave mba’e ojejapo ñanduti ñeikundahápe, tekoñemi ha tekorosã ñandutípe ha’e umi mba’e ojehecharamovéva. Peteĩ VPN, <a href="{ $url }">Ñanduti mba’eñemiguáva</a>, omoheñói peteĩ tape ipapapýva ne mba’e’oka ha ñanduti pa’ũme, nde jeike hekorosã ha hekoñemívo nde rekomo’ã aja mokõi hendáicha:
+vpn-download-faq-as-more-daily = Ko’ẽreíre hetave mba’e ojejapo ñanduti ñeikundahápe, tekoñemi ha tekorosã ñandutípe ha’e umi mba’e ojehecharamovéva. Peteĩ VPN, <a href="{ $faq }">Ñanduti mba’eñemiguáva</a>, omoheñói peteĩ tape ipapapýva ne mba’e’oka ha ñanduti pa’ũme, nde jeike hekorosã ha hekoñemívo nde rekomo’ã aja mokõi hendáicha:
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Emokañýta nde mba’etéva <a href="{ $ip }">IP kundaharape</a>. Kóva oipytyvõta omo’ã hag̃ua nde reratee ha oñomíta ne rendaite eikehaguépe.
