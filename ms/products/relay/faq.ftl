@@ -61,7 +61,7 @@ faq-question-8-question = Apakah jenis data yang dikumpul oleh { -brand-name-fir
 #   $attrs (string) - specific attributes added to external links
 faq-question-8-answer-3-html = { -brand-name-firefox-relay } mengumpul laman web di mana anda telah menggunakan e-mel samaran, dan melabelkan samaran anda dengan laman web itu agar mudah untuk anda mengenal pastinya. Anda boleh pilih untuk keluar melalui laman Tetapan, terletak di bawah Privasi. Sila ambil perhatian, sekiranya tetapan ini ditutup, bermakna anda tidak dapat melihat di mana anda menggunakan samaran ini dan nama akaun anda tidak lagi diselaras di antara peranti-peranti anda. Anda boleh mengetahui lebih lanjut tentang data yang dikumpul oleh { -brand-name-firefox-relay } di dalam <a href="{ $url }" { $attrs }>Notis Privasi</a> kami.
 faq-question-email-storage-question = Adakah { -brand-name-relay } menyimpan e-mel saya?
-faq-question-email-storage-answer = Di dalam situasi di mana khidmat ini tergendala, kami akan menyimpan e-mel anda untuk sementara waktu sehingga kami boleh menghantarnya semula. Kami tidak akan menyimpan e-mel anda untuk lebih dari tiga hari. { "" }
+faq-question-email-storage-answer = Di dalam situasi di mana khidmat ini tergendala, kami akan menyimpan e-mel anda untuk sementara waktu sehingga kami boleh menghantarnya semula. Kami tidak akan menyimpan e-mel anda untuk lebih dari tiga hari.
 faq-question-acceptable-use-question = Apakah amalan yang boleh diterima oleh { -brand-name-relay }?
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
