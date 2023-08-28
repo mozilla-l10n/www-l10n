@@ -9,15 +9,24 @@ plan-matrix-title = Precios
 
 ## PRICING MATRIX SECTION
 
+plan-matrix-offer-title = Elige un nivel de protección adecuado para ti
 
 ## Top Row Labels
 
 # Variables:
 #   $savings (string) - the percentage saved (including % symbol) for a given plan. Examples: 50%, 70%
 plan-matrix-heading-features = Características
+plan-matrix-heading-plan-free = Protección de correo electrónico limitada
+plan-matrix-heading-plan-premium = Protección de correo electrónico
+plan-matrix-heading-plan-phones = Protección de correo electrónico y teléfono
+plan-matrix-heading-plan-bundle-v2 = Añadir protección VPN
 
 ## Feature Breakdowns
 
+plan-matrix-feature-email-masks = Máscaras de correo electrónico para proteger tu dirección de correo electrónico real
+plan-matrix-feature-browser-extension = Extensión del navegador para usar { -brand-name-relay } en cualquier sitio
+plan-matrix-feature-email-tracker-removal = Eliminar rastreadores de correo electrónico
+plan-matrix-feature-promo-email-blocking = Bloquear correos electrónicos promocionales
 plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)

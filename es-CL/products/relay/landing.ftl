@@ -44,7 +44,9 @@ landing-review-user-three-review = ¡Me encanta esta extensión! Muy simple pero
 landing-review-user-four-review-list-1 = Da tranquilidad al navegar por Internet.
 landing-review-user-four-review-list-2 = Protege la identidad de uno de los rastreadores mediante la generación de alias donde no se desea compartir la dirección de correo electrónico real por diversos motivos.
 landing-review-user-four-review-list-3 = Los datos de la bandeja de entrada del correo electrónico están seguros en las manos de { -brand-name-firefox-relay }.
+landing-review-user-four-review-list-4 = { -brand-name-firefox-relay } funciona de maravilla, ¡pruébalo!
 
 ## FAQ SECTION
 
 landing-faq-headline = Principales preguntas acerca de { -brand-name-firefox-relay }
+landing-faq-cta = Ver más preguntas frecuentes acerca de { -brand-name-firefox-relay }
