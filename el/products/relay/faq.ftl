@@ -81,3 +81,22 @@ faq-question-trackerremoval-breakage-answer-2 = Μερικές φορές, η α
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = Τι είναι η μάσκα αριθμού τηλεφώνου;
+phone-masking-faq-question-where-is = Πού είναι διαθέσιμη η απόκρυψη τηλεφώνου;
+phone-masking-faq-question-how-many = Πόσες μάσκες τηλεφώνου μπορώ να έχω;
+phone-masking-faq-question-change-phone-mask = Μπορώ να αλλάξω τη μάσκα του τηλεφώνου μου;
+phone-masking-faq-question-can-reply = Μπορώ να απαντήσω σε μηνύματα;
+phone-masking-faq-question-forwarded-texts = Τι είδους μηνύματα θα προωθούνται;
+phone-masking-faq-question-pictures = Μπορώ να στείλω ή να λάβω φωτογραφίες μέσω μηνυμάτων;
+phone-masking-faq-question-historical = Μπορώ να απαντήσω σε παλαιότερα μηνύματα κειμένου;
+phone-masking-faq-question-can-i-send = Μπορώ να στείλω ένα μήνυμα που δεν είναι απάντηση;
+phone-masking-faq-question-limit = Υπάρχει όριο στο πόσα μηνύματα κειμένου μπορώ να λαμβάνω;
+phone-masking-faq-answer-can-i-call = Όχι, μπορείτε μόνο να λάβετε προωθημένη κλήση.
+phone-masking-faq-question-can-i-see = Μπορώ να δω ποιος μου έστειλε μήνυμα ή μου τηλεφώνησε;
+phone-masking-faq-question-can-i-block = Μπορώ να αποκλείσω μια κλήση ή ένα μήνυμα κειμένου;
+phone-masking-faq-question-install-app = Πρέπει να εγκαταστήσω εφαρμογή για να χρησιμοποιήσω την απόκρυψη τηλεφώνου του { -brand-name-relay };
+phone-masking-faq-answer-install-app = Όχι, η απόκρυψη τηλεφώνου του { -brand-name-relay } λειτουργεί με τις τυπικές εφαρμογές ανταλλαγής μηνυμάτων κειμένου και κλήσεων της συσκευής σας.
+phone-masking-faq-question-data = Τι είδους δεδομένα αποθηκεύει η απόκρυψη τηλεφώνου του { -brand-name-relay };
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Παρακαλούμε δείτε την <a href="{ $url }" { $attrs }>Πολιτική απορρήτου του { -brand-name-firefox-relay }</a>.

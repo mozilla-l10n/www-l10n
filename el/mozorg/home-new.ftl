@@ -8,6 +8,7 @@
 home-internet-for-people-not-profit = Διαδίκτυο για τους ανθρώπους, όχι το κέρδος
 home-did-you-know-mozilla-the-maker = Το γνωρίζατε; Η { -brand-name-mozilla } — δημιουργός του { -brand-name-firefox } — μάχεται για να διατηρήσει το διαδίκτυο μια παγκόσμια δημόσια πηγή, ανοικτή και προσβάσιμη από όλους.
 home-mitchell-baker = Mitchell Baker, CEO της { -brand-name-mozilla }
+home-mozilla-makes-privacy = Η { -brand-name-mozilla } δημιουργεί προϊόντα που σέβονται το απόρρητο
 home-product-firefox-browsing = Ιδιωτική και ασφαλής περιήγηση
 home-cta-get-firefox = Λήψη του { -brand-name-firefox }
 home-product-pocket-articles = Τα πιο ενδιαφέροντα άρθρα του διαδικτύου

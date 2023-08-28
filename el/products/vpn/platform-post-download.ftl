@@ -48,6 +48,7 @@ vpn-download-faq-as-more-daily = Καθώς οι περισσότερες καθ
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Απόκρυψη πραγματικής <a href="{ $ip }">διεύθυνσης IP</a>: προστατεύει την ταυτότητά σας και αποκρύπτει την τοποθεσία σας από τους ιστοτόπους που επισκέπτεστε.
+vpn-download-faq-encrypting = Κρυπτογράφηση διαδικτυακής κίνησης: ώστε κανείς στη σύνδεσή σας να μην μπορεί να κατασκοπεύσει τη διαδικτυακή σας δραστηριότητα.
 vpn-download-faq-working = Πώς καταλαβαίνω ότι το VPN λειτουργεί;
 vpn-download-faq-add-device = Πώς προσθέτω άλλη συσκευή;
 vpn-download-faq-best-practices = Ποιες είναι μερικές βέλτιστες πρακτικές VPN;
