@@ -7,6 +7,10 @@
 
 home-internet-for-people-not-profit = Internet pro lidi, ne pro peníze
 home-did-you-know-mozilla-the-maker = Věděli jste, že { -brand-name-mozilla } – tvůrce { -brand-name-firefox(case: "gen") } – bojuje za to, aby Internet zůstal veřejným zdrojem, který je dostupný pro všechny?
+home-mission-driven = Řízeno posláním. Poháněno lidmi.
+home-were-not-normal = Nejsme běžná technologická společnost. Věci, které vytváříme, upřednostňují lidi a jejich soukromí před ziskem. Existujeme proto, abychom z internetu udělali zdravější a šťastnější místo pro všechny.
+# Quotes around string to represent it being a quote by Mitchell Baker
+home-the-health-of = „Zdraví internetu a online života je důvodem, proč existujeme.“
 home-cta-get-firefox = Získejte { -brand-name-firefox(case: "acc") }
 home-cta-get-pocket = Získejte { -brand-name-pocket(case: "acc") }
 home-cta-get-relay = Získat { -brand-name-relay }
