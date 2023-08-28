@@ -12,7 +12,7 @@ plan-matrix-title = 定价
 plan-matrix-offer-title = 选择适合您的保护级别
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } 通过专属于您的马甲邮箱来保护您的身份信息和收件箱，还可使用 { -brand-name-relay } 虚拟手机号让安全性更上一层楼。与 { -brand-name-mozilla-vpn } 保护一同订阅，立享 { $savings }% 折扣。
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } 通过专属于您的马甲邮箱来保护您的身份信息和收件箱。另可使用 { -brand-name-relay } 虚拟手机号，隐私保护更上一层楼。与 { -brand-name-mozilla-vpn } 保护一同订阅立享 { $savings }% 折扣。
 
 ## Top Row Labels
 
@@ -65,7 +65,7 @@ plan-matrix-price-period-yearly-footnote-1 = 按年收费
 plan-matrix-price-period-monthly-footnote-1 = 按月收费
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-price-vpn-discount-promo-v2 = <span>比常规VPN的价格优惠 { $savings }%</span>
+plan-matrix-price-vpn-discount-promo-v2 = <span>比单独购买 VPN 优惠 { $savings }%</span>
 
 ## Plan CTAs
 
