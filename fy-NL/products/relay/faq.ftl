@@ -88,3 +88,5 @@ faq-question-trackerremoval-breakage-answer-2 = Somtiden kin it ferwiderjen fan 
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = Wat is in telefoannûmermasker?
+phone-masking-faq-answer-what-is = Fergelykber mei in e-mailmasker is in telefoannûmermasker in telefoannûmer dat sms-berjochten en oproppen trochstjoere kin nei jo wiere telefoannûmer sûnder te iepenbierjen wat jo wiere nûmer is oan de persoan dy’t jo bellet of sms’t.
+phone-masking-faq-question-where-is = Wêr is telefoanmaskearing beskikber?
