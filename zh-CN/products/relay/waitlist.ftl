@@ -7,7 +7,7 @@
 
 waitlist-premium-name = { -brand-name-relay-premium }
 waitlist-bundle-name = { -brand-name-relay } + { -brand-name-vpn } 组合包
-waitlist-phone-name = { -brand-name-relay } 电话马甲
+waitlist-phone-name = { -brand-name-relay } 虚拟手机号
 waitlist-heading-2 = 欢迎加入 { -brand-name-relay-premium } 预约名单
 waitlist-heading-phone = 加入 { -brand-name-relay } 电话马甲预约名单
 waitlist-heading-bundle = 加入 { -brand-name-relay } + { -brand-name-vpn } 捆绑包的预约名单
