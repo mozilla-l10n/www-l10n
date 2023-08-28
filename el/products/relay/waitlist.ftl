@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
+waitlist-premium-name = { -brand-name-relay-premium }
+waitlist-bundle-name = Πακέτο { -brand-name-relay } + { -brand-name-vpn }
+waitlist-phone-name = Απόκρυψη τηλεφώνου { -brand-name-relay }
 waitlist-heading-2 = Εγγραφείτε στη λίστα αναμονής για το { -brand-name-relay-premium }
 waitlist-heading-phone = Εγγραφείτε στη λίστα αναμονής για την απόκρυψη τηλεφώνου { -brand-name-relay }
 waitlist-heading-bundle = Εγγραφείτε στη λίστα αναμονής για το πακέτο { -brand-name-relay } + { -brand-name-vpn }
@@ -24,4 +27,16 @@ waitlist-privacy-policy-agree-2 = Κάνοντας κλικ στο «{ waitlist-
 waitlist-privacy-policy-use = Τα στοιχεία σας θα χρησιμοποιηθούν αποκλειστικά για την ενημέρωσή σας σχετικά με τη διαθεσιμότητα του { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Τα στοιχεία σας θα χρησιμοποιηθούν αποκλειστικά για να ειδοποιηθείτε όταν η απόκρυψη τηλεφώνουν είναι διαθέσιμη στην περιοχή σας.
 waitlist-privacy-policy-use-bundle = Τα στοιχεία σας θα χρησιμοποιηθούν αποκλειστικά για την ενημέρωσή σας σχετικά με τη διαθεσιμότητα του πακέτου { -brand-name-relay } + { -brand-name-vpn }.
+waitlist-subscribe-success-title = Ευχαριστούμε! Είστε στη λίστα
+# Variables:
+#   $product (string) one of the following three options:
+#      - { -brand-name-relay-premium }
+#      - { waitlist-bundle-name }
+#      - { waitlist-phone-name }
+waitlist-subscribe-success-email-desc = Μόλις το { -brand-name-relay-premium } γίνει διαθέσιμο στην περιοχή σας, θα σας ειδοποιήσουμε μέσω email.
+waitlist-subscribe-success-phone-desc = Μόλις η απόκρυψη τηλεφώνου του { -brand-name-relay } γίνει διαθέσιμη στην περιοχή σας, θα σας ειδοποιήσουμε μέσω email.
+waitlist-subscribe-success-bundle-desc = Μόλις τα { -brand-name-relay } + { -brand-name-vpn } γίνουν διαθέσιμα στην περιοχή σας, θα σας ειδοποιήσουμε μέσω email.
+waitlist-subscribe-please-enter-a-valid = Παρακαλούμε εισαγάγετε μια έγκυρη διεύθυνση email
+waitlist-subscribe-please-select-country = Παρακαλούμε επιλέξτε μια χώρα ή περιοχή
+waitlist-subscribe-please-select-language = Παρακαλούμε επιλέξτε μια γλώσσα
 waitlist-subscribe-error-unknown = Προέκυψε σφάλμα κατά την προσθήκη σας στη λίστα αναμονής. Παρακαλώ δοκιμάστε ξανά.

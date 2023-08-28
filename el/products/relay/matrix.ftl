@@ -10,6 +10,9 @@ plan-matrix-title = Τιμολόγηση
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = Επιλέξτε το κατάλληλο επίπεδο προστασίας για εσάς
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = Το { -brand-name-firefox-relay } προστατεύει την ταυτότητα και τα εισερχόμενά σας με μοναδικές μάσκες email. Προσθέστε ακόμα περισσότερη ασφάλεια με την απόκρυψη τηλεφώνου του { -brand-name-relay } και εξοικονομήστε { $savings }% προσθέτοντας την προστασία του { -brand-name-mozilla-vpn }.
 
 ## Top Row Labels
 
@@ -19,6 +22,7 @@ plan-matrix-heading-features = Δυνατότητες
 plan-matrix-heading-plan-free = Περιορισμένη προστασία email
 plan-matrix-heading-plan-premium = Προστασία email
 plan-matrix-heading-plan-phones = Προστασία email και τηλεφώνου
+plan-matrix-heading-plan-bundle-v2 = Προσθήκη προστασίας VPN
 
 ## Feature Breakdowns
 
@@ -29,6 +33,7 @@ plan-matrix-feature-promo-email-blocking = Φραγή διαφημιστικών
 plan-matrix-feature-email-subdomain = Τομέας email { -brand-name-relay } για τη δημιουργία μασκών εν κινήσει
 plan-matrix-feature-email-reply = Απάντηση σε email ανώνυμα
 plan-matrix-feature-phone-mask = Μάσκα τηλεφώνου για την προστασία του πραγματικού αριθμού τηλεφώνου σας
+plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
@@ -39,6 +44,7 @@ plan-matrix-feature-mobile-promo-email-blocking = Φραγή διαφημιστ�
 plan-matrix-feature-mobile-email-subdomain = Μοναδικός τομέας email { -brand-name-relay }
 plan-matrix-feature-mobile-email-reply = Απάντηση σε email ανώνυμα
 plan-matrix-feature-mobile-phone-mask = Προστασία του πραγματικού σας αριθμού τηλεφώνου
+plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 
@@ -57,6 +63,9 @@ plan-matrix-price-period-yearly = Ετησίως
 plan-matrix-price-period-monthly = Μηνιαία
 plan-matrix-price-period-yearly-footnote-1 = Ετήσια χρέωση
 plan-matrix-price-period-monthly-footnote-1 = Μηνιαία χρέωση
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>Εξοικονομήστε { $savings }%</span> από την κανονική τιμή του VPN
 
 ## Plan CTAs
 
