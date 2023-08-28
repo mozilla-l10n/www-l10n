@@ -120,3 +120,5 @@ phone-masking-faq-answer-spam = As jo spam begjinne te krijen, kinne jo de nûme
 phone-masking-faq-question-disable-logging = Kin ik it loggen fan bellers of sms-ôftstjoerders útskeakelje?
 phone-masking-faq-answer-disable-logging = Ja, jo kinne logging fan nûmers útskeakelje fan it { -brand-name-relay }-dashboerd. Jo sille lykwols net mear antwurdzje kinne op sms’kes of spesifike nûmers blokkearje, omdat it log is hoe’t wy folgje kinne wa’t jo in sms-berjocht stjoerd hat.
 phone-masking-faq-question-can-i-share = Kin ik it nûmer diele dat my sms-berjochten trochstjoert?
+phone-masking-faq-answer-can-i-share = As jo dit nûmer diele, sil der neat barre – dit nûmer is net jo telefoannûmermasker. It is gewoan it kontaktnûmer wêrfan { -brand-name-relay } út jo sms’kes en oproppen trochstjoere sil.
+phone-masking-faq-question-how-i-save-card = Hoe bewarje ik de { -brand-name-relay }-kontaktkaart?
