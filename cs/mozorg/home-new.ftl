@@ -31,4 +31,13 @@ home-join-the-fight = Připojte se k boji za zdravý internet
 home-your-voice-your-code = Váš hlas. Váš kód. Vaše nápady. Existují doslova tisíce způsobů, jak můžete přispět do { -brand-name-mozilla(case: "dat") }.
 home-volunteer-with-mozilla = Staňte se dobrovolníkem v { -brand-name-mozilla(case: "loc") }
 home-that-one-time = Jednoho dne jsme zpřístupnili nás zdrojový kód…
+home-the-mozilla-project = Projekt { -brand-name-mozilla } byl založen v San Franciscu v roce 1998, kdy prohlížeč { -brand-name-netscape } učinil radikální rozhodnutí předat svůj zdrojový kód veřejnosti, aby na něm mohla stavět a vylepšovat jej. V té době měla jedna společnost prakticky monopol na to, jak lidé využívají internet.
+home-eventually-the-open = Nakonec se projekt s otevřeným zdrojovým kódem { -brand-name-mozilla } přetvořil v nesmírně populární první verzi prohlížeče { -brand-name-firefox }.
+home-today-mozilla-continues = Dnes { -brand-name-mozilla } pokračuje ve své snaze za lepší internet s miliony aktivních členů komunity po celém světě, kteří se zasazují o etické technologie, důvěryhodnou umělou inteligenci a tvorbu produktů, které se zaměřují na ochranu soukromí a dávají lidem více kontroly.
 home-learn-more-about-mozilla = Další informace o { -brand-name-mozilla(case: "loc") }
+home-get-good-news = Získat (dobré) novinky od { -brand-name-mozilla(case: "gen") }
+home-get-news-and-tips = Nechte si od { -brand-name-mozilla(case: "gen") } posílat novinky, bezpečnosti tipy a informace o všem, co dělá web zdravějším.
+# VPN Feature
+home-featured-product = Doporučený produkt
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Rozmažte svou polohu a aktivitu pomocí <span>{ -brand-name-mozilla-vpn }</span>
