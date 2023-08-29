@@ -19,7 +19,10 @@ home-product-vpn-trust = Ένα VPN που μπορείτε να εμπιστε�
 home-cta-get-vpn = Λήψη του { -brand-name-mozilla-vpn }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-is-mozilla-a-corporation = Είναι η { -brand-name-mozilla } εταιρεία ή μη κερδοσκοπικός οργανισμός; Βασικά, και τα δύο.
+home-mozilla-consists-of = Η { -brand-name-mozilla } αποτελείται από δύο οργανισμούς. Η { -brand-name-mozilla-corporation } ανήκει εξ ολοκλήρου στον μη κερδοσκοπικό οργανισμό 501(c) { -brand-name-mozilla-foundation }. Αυτό σημαίνει ότι δεν υπηρετούμε κανέναν μέτοχο, παρά μόνο την αποστολή μας.
 home-learn-about-mofo = Μάθετε για το { -brand-name-mozilla-foundation }
+home-your-voice-your-code = Η φωνή σας, Ο κώδικάς σας. Οι ιδέες σας. Υπάρχουν κυριολεκτικά χιλιάδες τρόποι με τους οποίους μπορείτε να συνεισφέρετε στη { -brand-name-mozilla }.
 home-volunteer-with-mozilla = Εθελοντισμός στη { -brand-name-mozilla }
 home-that-one-time = Εκείνη τη φορά που δώσαμε τον πηγαίο μας κώδικα…
 home-learn-more-about-mozilla = Μάθετε περισσότερα για τη { -brand-name-mozilla }

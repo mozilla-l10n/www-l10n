@@ -15,6 +15,9 @@ faq-question-missing-emails-question-2 = Δεν λαμβάνω μηνύματα 
 faq-question-missing-emails-answer-a-2 = Ακολουθούν μερικοί λόγοι για τους οποίους ενδέχεται να μη λαμβάνετε προωθημένα email από τις μάσκες σας:
 faq-question-missing-emails-answer-reason-spam = Τα μηνύματα πηγαίνουν στα ανεπιθύμητα
 faq-question-missing-emails-answer-reason-blocked-2 = Ο πάροχος email σας αποκλείει τις μάσκες email σας
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = Το προωθημένο email έχει ένα συνημμένο μεγαλύτερο από { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = Ο ιστότοπος δεν δέχεται μάσκες email
 faq-question-missing-emails-answer-reason-turned-off-2 = Ενδέχεται να μην έχει ενεργοποιηθεί η προώθηση για τη μάσκα
 faq-question-missing-emails-answer-reason-delay = Το { -brand-name-relay } ίσως καθυστερεί περισσότερο απ' ότι συνήθως με την προώθηση των μηνυμάτων σας
@@ -91,6 +94,7 @@ phone-masking-faq-question-pictures = Μπορώ να στείλω ή να λά�
 phone-masking-faq-question-historical = Μπορώ να απαντήσω σε παλαιότερα μηνύματα κειμένου;
 phone-masking-faq-question-can-i-send = Μπορώ να στείλω ένα μήνυμα που δεν είναι απάντηση;
 phone-masking-faq-question-limit = Υπάρχει όριο στο πόσα μηνύματα κειμένου μπορώ να λαμβάνω;
+phone-masking-faq-question-can-i-call = Μπορώ να καλέσω κάποιον με τη μάσκα τηλεφώνου μου;
 phone-masking-faq-answer-can-i-call = Όχι, μπορείτε μόνο να λάβετε προωθημένη κλήση.
 phone-masking-faq-question-can-i-see = Μπορώ να δω ποιος μου έστειλε μήνυμα ή μου τηλεφώνησε;
 phone-masking-faq-question-can-i-block = Μπορώ να αποκλείσω μια κλήση ή ένα μήνυμα κειμένου;

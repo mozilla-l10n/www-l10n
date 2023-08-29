@@ -54,3 +54,6 @@ vpn-download-faq-add-device = Πώς προσθέτω άλλη συσκευή;
 vpn-download-faq-best-practices = Ποιες είναι μερικές βέλτιστες πρακτικές VPN;
 vpn-download-faq-lastly = Τέλος, στις υποστηριζόμενες συσκευές, μπορείτε να κάνετε το VPN ακόμα πιο έξυπνο εξαιρώντας ορισμένες εφαρμογές (π.χ. Netflix).
 vpn-download-faq-need-more = Χρειάζεστε λίγη ακόμα βοήθεια;
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Μπορείτε να επικοινωνήσετε με την ομάδα υποστήριξής μας απευθείας από την εφαρμογή του { -brand-name-mozilla-vpn }, κάνοντας κλικ στις Ρυθμίσεις > Λήψη βοήθειας > Επικοινωνία με την υποστήριξη. Μπορείτε επίσης να επικοινωνήσετε μαζί μας <a href="{ $support }">από τη σελίδα υποστήριξης</a>.
