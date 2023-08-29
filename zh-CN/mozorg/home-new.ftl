@@ -7,7 +7,7 @@
 
 home-internet-for-people-not-profit = 不为营利、造福人民的互联网
 home-did-you-know-mozilla-the-maker = 您知道吗？打造了 { -brand-name-firefox } 的 { -brand-name-mozilla } 正奋力捍卫互联网的全球公共资源地位，让互联网保持开放且人人可用。
-home-mission-driven = 使命驱动，共济群力
+home-mission-driven = 以使命为动力，共济群力
 home-were-not-normal = 我们不是普通的科技公司。我们的产品以人为本，隐私至上。我们的存在是为了让互联网更健康，让每个人都能乐在其中。
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “我们为互联网与在线生活的健康而战。”
