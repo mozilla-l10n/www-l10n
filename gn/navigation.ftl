@@ -75,7 +75,7 @@ navigation-share-large-files-safely = Emoherakuã marandurenda guasu tekorosãme
 navigation-save-quality-content = Eñongatu tetepy porã oimeraẽva tenda guive. Emombarete ne akã opágotyo.
 navigation-sign-up = Eñemboheraguapy
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Ipya’e. Ndahasýi. Iñemi.
-navigation-protect-your-entire-device = Emo’ãmbaite ne mba’e’oka ha tembipuru’i. Eñomi ne rendaite ha embojuaju po mba’e’oka peve. Eñemboheraguapy ko’ág̃a.
+navigation-protect-your-entire-device = Emo’ãmbaite ne mba’e’oka ha tembiporu’i. Eñomi ne rendaite ha embojuaju po mba’e’oka peve. Eñemboheraguapy ko’ág̃a.
 # Outdated string
 navigation-connected-and-protected = Eikepyre ha mo’ãmbyre
 navigation-join = Jejuaju
@@ -85,7 +85,7 @@ navigation-benefits = Jopoiguasu
 navigation-protect-your-life-online = Emo’ã nde rekove ñandutípe opaite apopyre pehẽngue omotenondéva ñemigua ndive.
 navigation-about = Péva rehegua
 navigation-close-about-menu = Emboty poravorã Péva rehegua
-navigation-meet-the-technology-company = Eikuaa tembipurupyahu mba’apoha omotenondéva ava viru renondépe.
+navigation-meet-the-technology-company = Eikuaa tembiporupyahu mba’apoha omotenondéva ava viru renondépe.
 navigation-new-features = Tembiapoite pyahu
 navigation-save-content-absorb-knowledge = Eñongatu tetepy. Ejapyhy kuaaita.
 navigation-same-speed-and-safety = Peteĩcha pya’ekue ha tekorosã ejeroviaha, ojejapóva mba’apohaguasúpe g̃uarã añoite.

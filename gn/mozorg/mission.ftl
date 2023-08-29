@@ -9,9 +9,9 @@ mission-were-building-a-better-internet = Rojaporoína Ñanduti iporãvéva
 mission-our-mission-is-to-ensure-the-internet = Ñanduti ha’eva’erã tapichakuéra rembipuruete, peteĩteĩva ikatuhápe omba’apo ha ohechauka ikatupyry, oguerekohápe tekorasã ha jeheguiete.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Ore rembipota ha’e juruja ñemoherakuã, ñembopyahu ha pa’ũ Ñandutípe.
-mission-at-mozilla-were-a-global-community-v2 = { -brand-name-mozilla } ha’e atyguasu tembipurupyahugua, oñakãngetáva ha mboguatahára romba’apóva Ñanduti oikove ha ijeike hasy’ỹ hag̃uáicha, opavave pytyvõharakuéra imaranduporãva ha avei Ñanduti moheñoihára.
+mission-at-mozilla-were-a-global-community-v2 = { -brand-name-mozilla } ha’e atyguasu tembiporupyahugua, oñakãngetáva ha mboguatahára romba’apóva Ñanduti oikove ha ijeike hasy’ỹ hag̃uáicha, opavave pytyvõharakuéra imaranduporãva ha avei Ñanduti moheñoihára.
 # Outdated string
-mission-at-mozilla-were-a-global-community = Mozilla ha’e atyguasu tembipurupyahuguáva, akãngetahára ha mboguatahára romba’apóva Ñanduti oikove ha ijeike hasy’ỹ hag̃ua, opavave ñandekuéra pytyvõhára momarandupyréva ha Ñanduti moheñoihára.
+mission-at-mozilla-were-a-global-community = Mozilla ha’e atyguasu tembiporupyahuguáva, akãngetahára ha mboguatahára romba’apóva Ñanduti oikove ha ijeike hasy’ỹ hag̃ua, opavave ñandekuéra pytyvõhára momarandupyréva ha Ñanduti moheñoihára.
 mission-we-believe-this-act-of-human-collaboration = Roguerovia ko tembiapo pytyvõrã ijurujáva rehegua rupi iporãiterei omombarete hag̃ua tapicha peteĩ teĩme ha opavave renonderã.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
@@ -26,7 +26,7 @@ mission-volunteer-opportunities-in-a-number = Pa’ũ oipytyvõsévape g̃uarã 
 mission-history = Tembiasakue
 mission-where-we-come-from-and-how-we-got = Moõguipa roju ha mba’éichapa rog̃uahẽ ko roimehápe
 mission-forums = Ñomongetajere
-mission-topics-include-support-products = Umi mbo’epyrã ogueroike pytyvõ, apopyre ha tembipurupyahu
+mission-topics-include-support-products = Umi mbo’epyrã ogueroike pytyvõ, apopyre ha tembiporupyahu
 mission-governance = Sãmbyhyrã
 mission-our-structure-organization-and-the-v2 = Ore mba’etee, atyguasu ha apavavete { -brand-name-mozilla } atyguáva
 # Outdated string

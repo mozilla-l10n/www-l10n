@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
@@ -15,7 +15,7 @@ vpn-mac-hero-headline = Emo’ã nde jeike ñandutípe { -brand-name-mozilla-vpn
 vpn-mac-ability = Eñeñandúke tekorosãme ñandutípe ehecharamo’ỹre eraháva upépe, taha’e tekorei ýrõ tembiapo. { -brand-name-mozilla-vpn } nepytyvõta eipuru hag̃ua Wi-Fi opavave mba’éva hekopete emo’ãvo nde jeike ñandutípe mba’evaiapoha ha ñanduti me’ẽhára ombyatyséva ne mba’ekuaarã. Ne rekoñemi peteĩ jekutúpe eipurukuaa { -brand-name-mac-short } ndive ha { -brand-name-ios }, (avei { -brand-name-windows } 10, { -brand-name-linux } ha { -brand-name-android }), ha nomboykekuaái nde pya’ekue. Ha, ha’évo VPN { -brand-name-mozilla } mba’éva { -brand-name-wireguard }® raperekoite ndive, ejeroviakuaa ne rembiapo noñeñongatumo’ãi ha ne tus mba’ekuaarã nemba’éta, opa ára.
 vpn-mac-wifi-headline = Eñeñandu tekorosãme wifi jerovia’ỹhápe
 vpn-mac-wifi-copy = Eike py’aguapýpe wifi mba’etee’ỹvape { -brand-name-mozilla-vpn } rupive omo’ã añetéva nde jeike ñandutípe ne mba’ekuaarã teéva oĩ hag̃ua kañyhápe mba’evaiapoha ha oma’ẽ ñañávagui.
-vpn-mac-about-headline = Peteĩ tembipurupyahu apohára jeroviaha
+vpn-mac-about-headline = Peteĩ tembiporupyahu apohára jeroviaha
 vpn-mac-about-copy = 1998 guive { -brand-name-mozilla }, oheka’ỹva viru, omboguata hembipota ñanduti iporãvéva rekávo. Ko apopyre { -brand-name-firefox-browser } guive tembiapo arapy tuichakue peve, pe { -brand-name-mozilla } rembiapo omombarete ñanduti hekosãso ha ijuruja hag̃ua opavavépe g̃uarã.
 vpn-mac-privacy-headline = Tekoñemi ne kuã rehe
 vpn-mac-privacy-copy = { -brand-name-mozilla-vpn } ndive, nde jeike ñandutípe ipapapýta ha nde IP kundaharape oñemo’ãta mba’evaiapoha ha ñanduti me’ẽhára oikereívagui pe { -brand-name-wireguard }® raperekoite rupive.

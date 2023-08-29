@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
@@ -13,7 +13,7 @@ vpn-linux-page-description = { -brand-name-linux } { -brand-name-ubuntu } rayhuh
 # Linux strings
 vpn-linux-hero-headline = { -brand-name-mozilla-vpn } { -brand-name-ubuntu } peg̃uarã { -brand-name-linux } — mokõi mba’e teetéva
 vpn-linux-ability = Eñemohekorosãvéke eike rire ñandutípe — eiméramo jepe nde róga térã okápe — { -brand-name-mozilla-vpn } ndive. Ndahepyiete jehepyme’ẽ jasyguáva, eipuru taperekoite oikóva { -brand-name-wireguard }® mba’éva embopapapy hag̃ua nde jeike ñandutípe ne mohendaha { -brand-name-linux } reheguávape avei ambue mba’e’okaichagua, ikatúva omyandy ta’ãngamýi, ñembosarái, jejogua ha emboguata nde rekove ñandutípe eikuaahápe ne rekorosãha.
-vpn-linux-maker-of-firefox = Peteĩva umi téra ojejeroviaveha tembipurupyahu reheguápe, { -brand-name-mozilla } omba’apo tapiaite eñeñandu hag̃ua tekorosãme eike vove.
+vpn-linux-maker-of-firefox = Peteĩva umi téra ojejeroviaveha tembiporupyahu reheguápe, { -brand-name-mozilla } omba’apo tapiaite eñeñandu hag̃ua tekorosãme eike vove.
 vpn-linux-wifi-headline = Eiko tekorosãme eipuruse vove wifi
 vpn-linux-wifi-copy = Heta jey, wifi opavavegua añoite pe eipurukuaáva. { -brand-name-mozilla-vpn } omoneĩ eikévo ne ñanduti vevépe pepoatãguejyha guive, embosako’i ne ñe’ẽñemi taperyva’uhápe — ejapovavoínte nde róga guive py’aguapýpe.
 vpn-linux-about-headline = Téra jeroviaha 1998 guive

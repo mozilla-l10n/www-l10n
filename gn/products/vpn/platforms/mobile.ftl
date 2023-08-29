@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
@@ -10,7 +10,7 @@ vpn-mobile-page-title = { -brand-name-mozilla-vpn } pumbyry mba’e’okápe g̃
 vpn-mobile-page-description = Emo’ã ne pumbyry ha’evéva ha tabléta VPN { -brand-name-mozilla } mba’éva ndive, omoñepyrũva jerovia tekoñemíre ñandutípe.
 # Mobile strings
 vpn-mobile-hero-headline = Emo’ã ne rekoñemi pumbyry mba’e’okápe { -brand-name-mozilla-vpn } ndive
-vpn-mobile-maker-of-firefox = Eikuaáke ñandutípe jeike pumbyry rupi hekoñemi hag̃ua, eikuaa'ỹre mamoitépa ndererahakuaa { -brand-name-mozilla-vpn } ndive, tembipuru hekoñemi añetéva { -brand-name-firefox } moheñoiha mba’éva.
+vpn-mobile-maker-of-firefox = Eikuaáke ñandutípe jeike pumbyry rupi hekoñemi hag̃ua, eikuaa'ỹre mamoitépa ndererahakuaa { -brand-name-mozilla-vpn } ndive, tembiporu hekoñemi añetéva { -brand-name-firefox } moheñoiha mba’éva.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-ability = { -brand-name-mozilla-vpn } omboyke mba’evaiapoha ha hekomarãva ani hag̃ua ohecha nde IP kundaharape ha oñomi ne rendaite ñandutípe. Papapy oikóva ndive ha ancho de banda hu’ã’ỹvare, ojapo ta’ãngamýi jehecha ha eikundaha hag̃ua pumbyry ha’evéva térã tabléta ipya’e ha ijeroviaháva. Ehepyme’ẽ’mi jasy pukukue, emo’ãkuaa { $devices } mba’e’oka peve ha eikekuaa heta mba’e’okápe arapy tuichakue.
