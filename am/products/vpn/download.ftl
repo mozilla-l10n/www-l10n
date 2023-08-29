@@ -31,6 +31,8 @@ vpn-download-for-linux-requirements = ኡቡንቱ { $version } እና በላይ
 vpn-download-for-android = ቪፒኤን ለ{ -brand-name-android }
 vpn-download-for-android-long = { -brand-name-mozilla-vpn }ን ለ{ -brand-name-android } አውርድ
 vpn-download-for-ios = ቪፒኤን ለ{ -brand-name-ios }
+vpn-download-for-ios-long-v2 = { -brand-name-mozilla-vpn }ን ለ { -brand-name-ios } አውርድ
+# Obsolete string
 vpn-download-for-ios-long = { -brand-name-mozilla-vpn }ን ለ{ -brand-name-ios } አውርድ
 vpn-download-get-on-google-play = በ{ -brand-name-google-play } መደብር ላይ ያግኙ
 vpn-download-get-on-app-store = በ{ -brand-name-app-store } ላይ ያግኙ
@@ -43,3 +45,4 @@ vpn-download-also-available = እንዲሁም ለ:
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = ከ{ -brand-name-firefox } ፈጣሪ፣ { -brand-name-mozilla-vpn } የመስመር ላይ እንቅስቃሴዎን ለማመስጠር እና አካባቢዎን ለመደበቅ የላቀውን <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ፕሮቶኮል ይጠቀማል።
 vpn-download-we-never-log = የእርስዎን የአውታረ መረብ ውሂብ አንመዘግብም፣ አንከታተልም ወይም አናጋራም።
+vpn-download-previous-versions = ለ{ -brand-name-windows } እና { -brand-name-mac-short } የቀድሞ ስሪቶችን አውርድ

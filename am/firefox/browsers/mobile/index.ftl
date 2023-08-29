@@ -7,6 +7,8 @@
 
 # HTML page title
 browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } የተንቀሳቃሽ ስልክ አሳሾች የእርስዎን ግላዊነት ያስቀድማሉ
+# HTML page description
+browsers-mobile-overview-of-all-mobile = የሁሉም { -brand-name-firefox } የሞባይል አሳሾች አጠቃላይ እይታ ({ -brand-name-firefox } ለ{ -brand-name-android }፣ { -brand-name-firefox } ለ{ -brand-name-ios } ፣ { -brand-name-firefox-focus })
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 # Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = የእርስዎን <strong>ግላዊነት</strong> የሚያስቀድመውን የተንቀሳቃሽ ስልክ አሳሽ ያግኙ
