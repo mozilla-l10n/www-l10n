@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
@@ -27,9 +27,9 @@ features-bookmarks-customize-that-bookmark = Eñemomba’e pe techaukaháre
 features-bookmarks-futz-with-that-bookmark = Ema’ẽte pe techaukaha rehe
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
-features-bookmarks-practice-your-precision = Ejapomeme ne rembiapo opavave <a href="{ $url }">tembipuru’i</a> eñangareko hag̃ua techaukaha nde reipotáva, tenda japyhy tuichakue guive, ehasávo tenda yke emoambue pya’e hag̃ua techaukaha ñemigua peve.
+features-bookmarks-practice-your-precision = Ejapomeme ne rembiapo opavave <a href="{ $url }">tembiporu’i</a> eñangareko hag̃ua techaukaha nde reipotáva, tenda japyhy tuichakue guive, ehasávo tenda yke emoambue pya’e hag̃ua techaukaha ñemigua peve.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
 # "Exactitude" means precision.
-features-bookmarks-practice-your-exactitude = Ejapomeme ne rembiapo opavave <a href="{ $url }">tembipuru’i</a> eñangareko hag̃ua techaukaha nde reipotáva, tenda japyhy tuichakue guive, ehasávo tenda yke emoambue pya’e hag̃ua techaukaha ñemigua peve.
+features-bookmarks-practice-your-exactitude = Ejapomeme ne rembiapo opavave <a href="{ $url }">tembiporu’i</a> eñangareko hag̃ua techaukaha nde reipotáva, tenda japyhy tuichakue guive, ehasávo tenda yke emoambue pya’e hag̃ua techaukaha ñemigua peve.

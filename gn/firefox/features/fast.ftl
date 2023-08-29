@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
@@ -18,4 +18,4 @@ features-fast-get-all-the-tabs-without-lags = Eguereko tendayke pya’e
 features-fast-multi-tasking-with-multiple = Ndahasyive ñamba’apo ojojapa heta tendayke ndive. { -brand-name-firefox } ha’e ko’ág̃a kundaha hembiapo hetáva, he’iséva ne tendaykekuéra heko ro’ysã ha ndahi’aremo’ãi henyhẽ hag̃ua. 86% sa’ve eipurúta aravo, emoambue pya’e tendayke pa’ũme térã eikeve ambuépe.
 features-fast-level-up-browser-gameplay = Rombopya’e ñembosarái kundahakuérape
 # Native speed refers to operating speed for games written for platforms such as macOS or Windows.
-features-fast-we-led-the-tech-to-run-3d-games = Romotenonde tembipuru pyahu omoneĩva ñembosarái 3D ipya’eve hag̃ua, ha ko’ág̃a { -brand-name-firefox } omoneĩ ñembosarái oiko porãvetaha ñandutípe. Ore kundaha imbarete omomichĩ ñeha’arõ, ombopya’e pings ha ombohetia’e ñembosarái peteĩ kundaha ipya’e ha evevúiva rupi.
+features-fast-we-led-the-tech-to-run-3d-games = Romotenonde tembiporu pyahu omoneĩva ñembosarái 3D ipya’eve hag̃ua, ha ko’ág̃a { -brand-name-firefox } omoneĩ ñembosarái oiko porãvetaha ñandutípe. Ore kundaha imbarete omomichĩ ñeha’arõ, ombopya’e pings ha ombohetia’e ñembosarái peteĩ kundaha ipya’e ha evevúiva rupi.

@@ -8,7 +8,7 @@
 # HTML page title
 firefox-faq = { -brand-name-firefox } FAQ
 whether-you-searched-privacy = Ehekávo kundahára ipya’e ha omo’ãva ne ñemigua, ko’ã porandu py’ỹigua oĩ ko’ápe ombohovái hag̃ua umi mba’e oikovéva ojokupytýva { -brand-name-firefox } ndive.
-whether-you-searched-independant = Ehekávo peteĩ kundahára ipya’e ha tembipurupyahu isãso omo’ãva ne ñemigua, ko’ã porandu py’ỹigua oĩ ko’ápe ombohovái hag̃ua umi mba’e oikovéva ha ojokupytýva { -brand-name-firefox } ndive.
+whether-you-searched-independant = Ehekávo peteĩ kundahára ipya’e ha tembiporupyahu isãso omo’ãva ne ñemigua, ko’ã porandu py’ỹigua oĩ ko’ápe ombohovái hag̃ua umi mba’e oikovéva ha ojokupytýva { -brand-name-firefox } ndive.
 what-is-firefox = ¿Mba’épa { -brand-name-firefox }?
 
 # Variables:

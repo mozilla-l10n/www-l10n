@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
@@ -12,7 +12,7 @@ features-pip-got-things-to-do-and-things-to-watch = ¿Ereko ejapo ha ehecháva? 
 features-pip-new-feature-firefox-multi-picture = Tembiapoite pyahu: { -brand-name-firefox } hekoetáva Picture-in-Picture
 features-pip-cool-feature-picture-in-picture = Tembiapoite ha’evéva: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Emba’apove ta’ãngamýi iñapysẽva ndive
-features-pip-got-things-to-do-do-both-with = ¿Ereko ejapo ha ehechava’erã? Ejapo mokõivéva eipurúvo Picture-in-Picture { -brand-name-firefox }-pe. Omoneĩ eipe’ávo ojuehegui ta’ãngamýi ne ñanduti kuatiaroguégui ha embojávo mba’erechaha ikatu hag̃ua ehecha eimérõ jepe ambue kuatiarogue, tendayke ha tembipuru’ípe.
+features-pip-got-things-to-do-do-both-with = ¿Ereko ejapo ha ehechava’erã? Ejapo mokõivéva eipurúvo Picture-in-Picture { -brand-name-firefox }-pe. Omoneĩ eipe’ávo ojuehegui ta’ãngamýi ne ñanduti kuatiaroguégui ha embojávo mba’erechaha ikatu hag̃ua ehecha eimérõ jepe ambue kuatiarogue, tendayke ha tembiporu’ípe.
 features-pip-play-the-video = Ehecha ta’ãngamýi
 features-pip-heres-how-it-works = Ehecha mba’éicha omba’apo:
 features-pip-play-any-video-in-your-updated = <strong>Embopu oimeraẽva ta’ãngamýi</strong> { -brand-name-firefox } kundahára koichaguápe.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/independent/
@@ -13,12 +13,12 @@ features-independent-firefox-rebel-with-a = { -brand-name-firefox }: Oñemoaña 
 features-independent-firefox-is-independent = { -brand-name-firefox } ijehegui ha omoheñói { -brand-name-mozilla }, atyguasu reiguáva oñangarekóva nde derécho rehe ñandutípe, oma’ẽag̃ui ambue atyguasu rehe ha ojapo ñandutígui opavavépe g̃uarã, opaite hendápe.
 # This phrase means without conditions or restrictions, expecting nothing in return
 features-independent-no-strings-attached = Oñe’ẽme’ẽ’ỹre
-features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } omoheñói peteĩ atyguasu virupota’ỹva rehegua. Kóva he’ise rojapokuaaha ambue ojapo’ỹva, umi mba’e ñemoheñói ha tembiapoite heko kañy’ỹva. Romo’ã nde derécho ñemiguáva tembipuru kundahára ñemigua rapykuere mo’ãha ndive.
+features-independent-firefox-is-built-by-v2 = { -brand-name-firefox } omoheñói peteĩ atyguasu virupota’ỹva rehegua. Kóva he’ise rojapokuaaha ambue ojapo’ỹva, umi mba’e ñemoheñói ha tembiapoite heko kañy’ỹva. Romo’ã nde derécho ñemiguáva tembiporu kundahára ñemigua rapykuere mo’ãha ndive.
 # Obsolete string
-features-independent-firefox-is-built-by = { -brand-name-firefox } omoheñói peteĩ atyguasu viru’ỹva rehegua. Kóva he’ise rojapokuaaha ambue ojapokuaa’ỹva, umi mba’e ñemoheñói ha tembiapoite heko kañy’ỹva. Romo’ã nde derécho ñemiguáva tembipuru kundahára ñemigua rapykuere mo’ãha ome’ẽkuaáva { -brand-name-google } { -brand-name-chrome } ha { -brand-name-microsoft } { -brand-name-edge }.
+features-independent-firefox-is-built-by = { -brand-name-firefox } omoheñói peteĩ atyguasu viru’ỹva rehegua. Kóva he’ise rojapokuaaha ambue ojapokuaa’ỹva, umi mba’e ñemoheñói ha tembiapoite heko kañy’ỹva. Romo’ã nde derécho ñemiguáva tembiporu kundahára ñemigua rapykuere mo’ãha ome’ẽkuaáva { -brand-name-google } { -brand-name-chrome } ha { -brand-name-microsoft } { -brand-name-edge }.
 features-independent-what-you-see-is-what = Eguerekóta ehecháva
 features-independent-we-believe-the-internet = Roguerovia ñanduti ha’eha opavavépe g̃uarã, ndaha’éi virurã añogua. Ojapo’ỹva ambue atyguasu, norohepyme’ẽi nde mba’ekuaarã. <em>Ndete</em> ema’ẽta mávapa ohecha nde jeheka ha ne kundaha rembiasakue. ¡Jeporavo, kóva hína ha’e ñanduti hesãiva!
 features-independent-a-browser-on-a-mission = Peteĩ kundaha tembipotápe
 features-independent-in-addition-to-fighting = Romomba’e rire nde derécho ñandutípe, avei roma’ẽ ag̃ui umi atyguasu rehe romba’apokuévo jokupytýpe arapy tuichakue jave rohechauka hag̃ua tembiapo porã ñandutípe g̃uarã. Upévare, eiporavóvo { -brand-name-firefox } ore avei roiporavóma ndéve.
 # Obsolete string
-features-independent-firefox-is-a-browser = { -brand-name-firefox } ha’e kundaha ñe’ãguáva. { -brand-name-mozilla } ryepy pegua, atyguasu tembipurupyahugua viru’ỹ reheguáva, roñeha’ã nde derécho ñanduti pegua rehe, roma’ẽ ag̃ui umi atyguasu rehe ha roipytyvõ rombo’e ñanduti resãi opaite tetã itenondevévape. Upévare, eiporavóvo { -brand-name-firefox } ore avei roiporavóma ndéve.
+features-independent-firefox-is-a-browser = { -brand-name-firefox } ha’e kundaha ñe’ãguáva. { -brand-name-mozilla } ryepy pegua, atyguasu tembiporupyahugua viru’ỹ reheguáva, roñeha’ã nde derécho ñanduti pegua rehe, roma’ẽ ag̃ui umi atyguasu rehe ha roipytyvõ rombo’e ñanduti resãi opaite tetã itenondevévape. Upévare, eiporavóvo { -brand-name-firefox } ore avei roiporavóma ndéve.

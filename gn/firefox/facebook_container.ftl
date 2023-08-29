@@ -33,5 +33,5 @@ facebook-container-installing-the-extension-is = Oguejyhína <a href="{ $fbconta
 facebook-container-about-firefox-and-mozilla = { -brand-name-firefox } ha { -brand-name-mozilla } rehegua
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
-facebook-container-were-backed-by-mozilla-the = Ore pytyvõ <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, atyguasu viru’ỹ rehegua oguerekóva yvypórape viru ári ha ome’ẽ opavavéve pokatu ñandutípe g̃uarã. Romoheñói ko jepysokue roguerovia rupi eguerekosetaha tembipuru asy’ỹva ijepuru neipytyvõtava nde ñemigua ha tekorosãrãme.
+facebook-container-were-backed-by-mozilla-the = Ore pytyvõ <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, atyguasu viru’ỹ rehegua oguerekóva yvypórape viru ári ha ome’ẽ opavavéve pokatu ñandutípe g̃uarã. Romoheñói ko jepysokue roguerovia rupi eguerekosetaha tembiporu asy’ỹva ijepuru neipytyvõtava nde ñemigua ha tekorosãrãme.
 facebook-container-browse-freely-with-firefox = Eikundaha sã’ỹre { -brand-name-firefox } ndive ko árape

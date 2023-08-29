@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
@@ -36,4 +36,4 @@ password-manager-password-master = Ñe’ẽñemi mbo’ehára
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = Aguereko mokõiha sínto hũ tekorasãrã oikoitéva { -brand-name-firefox } ñe’ẽñemíme g̃uarã <a href="{ $addons }">tembipuru</a>. Eiporavo peteĩ eguerohoryvéva térã ejuhu ehayhuvéva eme’ẽvo aguyje opavave ikatupyrýva atyguasuguápe.
+password-manager-earn-your-second = Aguereko mokõiha sínto hũ tekorasãrã oikoitéva { -brand-name-firefox } ñe’ẽñemíme g̃uarã <a href="{ $addons }">tembiporu</a>. Eiporavo peteĩ eguerohoryvéva térã ejuhu ehayhuvéva eme’ẽvo aguyje opavave ikatupyrýva atyguasuguápe.
