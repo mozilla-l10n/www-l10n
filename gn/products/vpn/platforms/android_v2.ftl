@@ -17,4 +17,4 @@ vpn-android-why-should-i = Mba’érepa emboguejyva’erã { -brand-name-mozilla
 vpn-android-browse-the-internet = Eikundaha ñandutípe ehechauka’ỹre ne rendaite.
 vpn-android-be-more-comfortable = Eñeñanduporãve eipurúvo Wi-Fi opavavegua kafe, aviõguejyha ha hetave.
 vpn-android-avoid-intrusive = Emboyke ñemurã kañygua ne rendaite reheguáva.
-vpn-android-the-mozilla-vpn-mobile = Pe tembipuru’i pumbyrygua { -brand-name-mozilla-vpn } michĩ, upévare sa’i oipuru marandurenda ha nomombeguemo’ãi ne pumbyry ha avei hi’arevéta nde batería.
+vpn-android-the-mozilla-vpn-mobile = Pe tembiporu’i pumbyrygua { -brand-name-mozilla-vpn } michĩ, upévare sa’i oipuru marandurenda ha nomombeguemo’ãi ne pumbyry ha avei hi’arevéta nde batería.

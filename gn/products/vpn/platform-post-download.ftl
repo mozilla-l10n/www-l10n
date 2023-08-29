@@ -19,7 +19,7 @@ vpn-windows-a-progress-bar = Ojekuaáta tenyhẽha renda ha oñepyrũta ñemohen
 vpn-mac-download-page-title = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-mac-short } peg̃uarã
 vpn-mac-downloading-mozilla-vpn = Emboguejyhína { -brand-name-mozilla-vpn } { -brand-name-mac-short }… peg̃uarã
 vpn-mac-go-to-your-downloads = Embojuruja ñemboguejyha ñongatuha ha eikutu mokõijey .pkg marandurendápe
-vpn-mac-follow-the-steps = Ehecha mba’épa he’i { -brand-name-mozilla-vpn } ñemohendaha emoñepyrũ hag̃ua tembipuru’i
+vpn-mac-follow-the-steps = Ehecha mba’épa he’i { -brand-name-mozilla-vpn } ñemohendaha emoñepyrũ hag̃ua tembiporu’i
 
 ## Shared strings
 
@@ -31,7 +31,7 @@ vpn-download-not-in-country = Rombyasy, { -brand-name-mozilla-vpn } nereipurukua
 #   $id (string) - unique ID for the anchor tag
 vpn-your-download-should-start = { -brand-name-mozilla-vpn } ñemboguejy oñepyrũta ijehegui. Nderejapóiramo, <br> <a href="{ $url }" id="{ $id }">oñepyrũjey ñemboguejy</a> térã emboguevi emboguejy hag̃ua ambue mba’e’okápe.
 vpn-open-the-file = 1. Embojuruja marandurenda
-vpn-launch-the-app = 2. Emoñepyrũ tembipuru’i
+vpn-launch-the-app = 2. Emoñepyrũ tembiporu’i
 vpn-login-or-signup = 3. Emoñepyrũ tembiapo térã eñemboheraguapy
 vpn-enter-your-email = Ehai ne ñanduti veve kundaharape eñepyrũ hag̃ua tembiapo térã eñemboheraguapy ha eku’éma
 vpn-turn-on-vpn = 4. Emyandy VPN
@@ -52,7 +52,7 @@ vpn-download-faq-encrypting = Ombopapapy ne rembiapo ñandutípe: ani hag̃ua av
 vpn-download-faq-working = Mba’éichapa aikuaáta VPN oikoporãha
 vpn-download-faq-add-device = Mba’éichapa ambojuajúta ambue mba’e’oka
 vpn-download-faq-best-practices = Mba’épa umi iporãvéva VPN rembiapo
-vpn-download-faq-lastly = Ipahápe, umi mba’e’oka ojokupytývape, ejapokuaa VPN katupyryve emboykévo peteĩva tembipuru’i (techapyrã, Netflix).
+vpn-download-faq-lastly = Ipahápe, umi mba’e’oka ojokupytývape, ejapokuaa VPN katupyryve emboykévo peteĩva tembiporu’i (techapyrã, Netflix).
 vpn-download-faq-need-more = Eikotevẽvépa reñepytyvõ
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn

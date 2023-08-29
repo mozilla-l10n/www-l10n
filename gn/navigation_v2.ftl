@@ -47,7 +47,7 @@ navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Eñemboheraguapy ereko hag̃ua mba’ete pyahu eme’ẽ’ỹre ne ñanduti veve.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
-navigation-v2-new-features-and-tools = Tembiapoite pyahu ha tembipuru eike hag̃ua { -brand-name-mdn } mba’erãteévape
+navigation-v2-new-features-and-tools = Tembiapoite pyahu ha tembiporu eike hag̃ua { -brand-name-mdn } mba’erãteévape
 navigation-v2-view-all-products = Ehechapaite Apopyre
 
 ## Who We Are menu
