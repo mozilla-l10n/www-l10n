@@ -88,8 +88,10 @@ faq-question-trackerremoval-breakage-answer-2 = Μερικές φορές, η α
 ## Frequently Asked Questions about Phone plans
 
 phone-masking-faq-question-what-is = Τι είναι η μάσκα αριθμού τηλεφώνου;
+phone-masking-faq-answer-what-is = Παρόμοια με μια μάσκα email, η μάσκα αριθμού τηλεφώνου είναι ένας αριθμός τηλεφώνου που μπορεί να προωθήσει μηνύματα και κλήσεις στον πραγματικό αριθμό τηλεφώνου σας, χωρίς να αποκαλύψει ποιος είναι ο πραγματικός σας αριθμός στο άτομο που σας καλεί ή σας στέλνει μηνύματα.
 phone-masking-faq-question-where-is = Πού είναι διαθέσιμη η απόκρυψη τηλεφώνου;
 phone-masking-faq-question-how-many = Πόσες μάσκες τηλεφώνου μπορώ να έχω;
+phone-masking-faq-answer-how-many = Αυτή τη στιγμή, μπορείτε να έχετε μόνο μία μάσκα αριθμού τηλεφώνου. Αφού επιλέξετε τη μάσκα αριθμού τηλεφώνου σας, δεν μπορείτε να την αλλάξετε αργότερα.
 phone-masking-faq-question-change-phone-mask = Μπορώ να αλλάξω τη μάσκα του τηλεφώνου μου;
 phone-masking-faq-answer-change-phone-mask = Όχι, δεν μπορείτε να αλλάξετε τη μάσκα του αριθμού τηλεφώνου σας αφού την επιλέξετε. Εξετάζουμε αυτό το ενδεχόμενο.
 phone-masking-faq-question-can-reply = Μπορώ να απαντήσω σε μηνύματα;
