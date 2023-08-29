@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -21,7 +21,7 @@ set-as-default-thanks-heres-everything-you-need-ios = Ápe ejuhúta opaite eikua
 set-as-default-thanks-youre-all-set = Oĩmbaitéma.
 set-as-default-thanks-get-firefox-for-mobile = Eguereko { -brand-name-firefox } pumbyrýpe g̃uarã
 set-as-default-thanks-travel-the-internet-with = Eikundaha ñandutípe ñemo’ãme opaite ne mba’e’okápe.
-set-as-default-thanks-download-the-app = Emboguejy tembipuru’i
+set-as-default-thanks-download-the-app = Emboguejy tembiporu’i
 set-as-default-thanks-join-firefox = Ejuaju { -brand-name-firefox } rehe
 set-as-default-thanks-sign-up-for-a-free-account = Eñemboheraguapy ereko hag̃ua mba’ete reíva ha embojuehe ñe’ẽñemíre, kundaha rembiasakue ha eguerohoryvéva opaite ne mba’e’okápe.
 # Account here refers to a Firefox Account

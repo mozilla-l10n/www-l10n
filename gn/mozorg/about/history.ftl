@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla } apopyrã rembiasakue
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Ko apopyrã { -brand-name-mozilla } ha’ékuri <a href="{ $coderush }">heñóiva 1998 jave</a> <a href="{ $sourcerelease }">isãsóvo pe kundahára reñoihágui { -brand-name-netscape } ndive</a>.
 history-it-was-intended-to-harness = Pe roipotáva ha’e umi pokatu moheheñoigua hetaiterei ñanduti mboguatahára ha mba’epyahu moakãrapu’ã oiko’ỹva araka’eve kundaharakuéra apytépe.
@@ -26,7 +26,7 @@ history-community-members-got-involved = Tekoha pegua tapichakuéra oike ha isar
 history-people-contributed-to-mozilla = Tapichakuéra oipytyvõ { -brand-name-mozilla } ndive heta hendáicha, hákatu opavavete omoheñoise software ijurujáva omoneĩva yvypórape oiporavokuaávo mba’éichapa oipurúta ñanduti.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
-history-after-several-years-of-development = Heta ary oñemboguata rire, <a href="{ $mozilla1 }">{ -brand-name-mozilla }1.0</a>, tembiapo ñepyrũgua, osẽypy ary 2002 jave. Ko tembiapo oguereko heta mba’epyahu porã kundahárape, ñanduti veve puruhára ha ambue tembipuru’i oĩva ipype, hákatu ndahetái tapicha oipurúva kuri.
+history-after-several-years-of-development = Heta ary oñemboguata rire, <a href="{ $mozilla1 }">{ -brand-name-mozilla }1.0</a>, tembiapo ñepyrũgua, osẽypy ary 2002 jave. Ko tembiapo oguereko heta mba’epyahu porã kundahárape, ñanduti veve puruhára ha ambue tembiporu’i oĩva ipype, hákatu ndahetái tapicha oipurúva kuri.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Pe 2002 jave, <a href="{ $over90 }">hetave 90% ñanduti puruhára </a> oikundaha { -brand-name-ie } ndive.

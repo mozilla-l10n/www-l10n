@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 fxa-form-enter-your-email = <strong>Emoinge ne ñandutiveve</strong> eikekuaa hag̃ua { -brand-name-firefox-accounts }-pe.
 # Variables:
@@ -10,4 +10,4 @@ fxa-form-by-proceeding = Eku’ejeývo, emoneĩma umi <a href="{ $url1 }">Mba’
 fxa-form-email-address = Ñanduti veve kundaharape
 fxa-form-continue = Eku’ejey
 fxa-form-create-account = Emoheñói mba’ete
-fxa-form-get-the-app = Egueru tembipuru’i
+fxa-form-get-the-app = Egueru tembiporu’i

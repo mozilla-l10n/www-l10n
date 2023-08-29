@@ -49,7 +49,7 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-new-if-you-see-a-prompt = Ehecháramo ñe’ẽmondo erévo tembipuru’i emohendaséva ndaha’éi tembipuru’i { -brand-name-microsoft } ohechapyréva, eikutu “Mohenda opaicharei” térã <a { $attrs }>ñemboheko moambue tembipuru’i ñe’ẽporãhague</a>.
+firefox-new-if-you-see-a-prompt = Ehecháramo ñe’ẽmondo erévo tembiporu’i emohendaséva ndaha’éi tembiporu’i { -brand-name-microsoft } ohechapyréva, eikutu “Mohenda opaicharei” térã <a { $attrs }>ñemboheko moambue tembiporu’i ñe’ẽporãhague</a>.
 firefox-new-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
 
 # Not-Required

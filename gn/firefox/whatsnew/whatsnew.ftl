@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
 whatsnew-page-title = Mba’épa ipyahumíva { -brand-name-firefox }-pe - Tekoñemive, ñemo’ãve.
-whatsnew-page-description = Eñemohatã apoharaguasu rovake ohepyme’ẽ ne mba’ekuaarã mbohapyhávape. Eiko nde jehegui ha tekorosãme ñandutípe tembipurupyahu ndeykeregua ndive.
+whatsnew-page-description = Eñemohatã apoharaguasu rovake ohepyme’ẽ ne mba’ekuaarã mbohapyhávape. Eiko nde jehegui ha tekorosãme ñandutípe tembiporupyahu ndeykeregua ndive.
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }

@@ -54,7 +54,7 @@ footer-careers = Ñeñani
 footer-test-new-features = Eipuru tembiapoite pyahu
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
-footer-tools = Tembipuru
+footer-tools = Tembiporu
 footer-resources = Mba’eita
 footer-contact = Ñe’ẽha
 footer-product-help = Mba’e ñepytyvõ

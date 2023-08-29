@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/this-site/
 
 about-this-site-title = Ko tenda rehegua
-about-this-site-desc = Ñanduti renda www.mozilla.org rehegua ha tembipuru ijayvu jurujáva jepurupyre.
+about-this-site-desc = Ñanduti renda www.mozilla.org rehegua ha tembiporu ijayvu jurujáva jepurupyre.
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y

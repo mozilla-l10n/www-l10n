@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -8,9 +8,9 @@
 # HTML Page title
 about-learn-about-mozilla = Eikuaa { -brand-name-mozilla } rehegua
 # HTML page description
-about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } omoheñói kundaha, tembipuru’i, ayvu ha tembipuru omomba’evéva ava viru renondépe. Ore rembipota: ñanduti ijurujáva ha opavavépe g̃uarãva
+about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } omoheñói kundaha, tembiporu’i, ayvu ha tembiporu omomba’evéva ava viru renondépe. Ore rembipota: ñanduti ijurujáva ha opavavépe g̃uarãva
 # Main heading
-about-mozilla-makes-browsers-apps = { -brand-name-mozilla } omoheñói kundaha, tembipuru’i, ayvu ha tembipuru omomba’evéva ava viru renondépe.
+about-mozilla-makes-browsers-apps = { -brand-name-mozilla } omoheñói kundaha, tembiporu’i, ayvu ha tembiporu omomba’evéva ava viru renondépe.
 # Main sub-heading
 about-our-mission-keep-the-internet = Ore rembipota: ñanduti ijurujáva ha opavavépe g̃uarãva.
 # Main call to action
