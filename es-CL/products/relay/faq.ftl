@@ -26,6 +26,7 @@ faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } podría 
 faq-question-missing-emails-answer-support-site-html = Si presentas alguno de estos problemas, <a href="{ $url }" { $attrs }>visita nuestro sitio de asistencia</a>.
 faq-question-use-cases-question-2 = ¿Cuándo debiera usar máscaras de correo electrónico de { -brand-name-relay }?
 faq-question-use-cases-answer-part1-2 = Puedes usar máscaras de correo electrónico de { -brand-name-relay } en la mayoría de los lugares donde usarías tu dirección de correo electrónico habitual. Recomendamos usarlas cuando te registre para recibir correos electrónicos de marketing/informativos en los que desees controlar si quieres recibir o no correos electrónicos en el futuro.
+faq-question-use-cases-answer-part2-2 = No recomendamos el uso de máscaras cuando necesites verificar tu identidad o para correos electrónicos muy importantes o aquellos en los que debas recibir archivos adjuntos. Por ejemplo, querrás compartir tu verdadera dirección de correo electrónico con tu banco, tu médico y tu abogado, así como cuando recibas tarjetas de embarque para vuelos o tickets de conciertos.
 faq-question-2-question-2 = ¿Por qué un sitio no aceptaría mi máscara de correo electrónico de { -brand-name-relay }?
 # Variables:
 #   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/

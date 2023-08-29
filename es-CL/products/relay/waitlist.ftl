@@ -25,6 +25,7 @@ waitlist-submit-label-2 = Únete a la lista de espera
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
 waitlist-privacy-policy-agree-2 = Al hacer clic en "{ waitlist-submit-label-2 }", aceptas nuestra <a href="{ $url }">Política de privacidad</a>.
 waitlist-privacy-policy-use = Tu información será utilizada solo para notificarte de la disponibilidad de { -brand-name-firefox-relay-premium }.
+waitlist-privacy-policy-use-phone = Tu información solo se utilizará para notificarte cuando el enmascaramiento telefónico esté disponible en tu área.
 waitlist-privacy-policy-use-bundle = Tu información será utilizada solo para notificarte de la disponibilidad del paquete { -brand-name-relay } + { -brand-name-vpn }.
 waitlist-subscribe-success-title = ¡Gracias! Estás en la lista
 # Variables:
