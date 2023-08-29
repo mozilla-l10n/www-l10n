@@ -20,3 +20,11 @@ compare-edge-edge-is-integrated-into-the = { -brand-name-edge } je integrisan u 
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-edge-at-firefox-we-pride-ourselves = U { -brand-name-firefox }-u, ponosimo se time što štitimo sigurnost i privatnost naših korisnika. Naša <a { $attrs }>politika privatnosti</a> je transparentna i jednostavna za razumijevanje. Štaviše, uložili smo mnogo truda da bude jasna i lahka za čitanje. Sa poboljšanom zaštitom od praćenja, koja je podrazumijevano omogućena, automatski se blokira preko 2000 elemenata za praćenje. To su mali dijelovi koda koji pokušavaju da agreriraju vašu aktivnost sa više web stranica, kako bi napravili detaljan profil o vama i ugrozili vašu privatnost, a sve u svrhu ciljanog oglašavanja.
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-edge-at-firefox-our-privacy-fallback = U { -brand-name-firefox }-u, naša <a { $attrs }>politika privatnosti</a> je transparentna i jednostavna za razumijevanje. Štaviše, uložili smo mnogo truda da bude jasna i lahka za čitanje. Sa poboljšanom zaštitom od praćenja, koja je zadano omogućena, automatski se blokira preko 2000 elemenata za praćenje. To su mali dijelovi koda koji pokušavaju da agreriraju vašu aktivnost sa više web stranica, kako bi napravili detaljan profil o vama i ugrozili vašu privatnost, a sve u svrhu ciljanog oglašavanja.
+# Variables:
+#   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
+compare-edge-your-privacy-protections-shows = Vaša <a { $attrs }>Zaštita privatnosti</a> pokazuje broj elemenata za praćenje i kolačića koje su stranice pokušale da postave koje je { -brand-name-firefox } blokirao.
+# "InPrivate" is a brand name.
+compare-edge-in-firefox-private-browsing = { -brand-name-firefox } režim privatnog pretraživanja automatski briše vaše podatke o pretraživanju, uključujući lozinke, kolačiće i historiju. Na ovaj način ne ostavljate trag kada zatvorite sesiju. S druge strane, { -brand-name-edge } zapravo bilježi historiju pretraživanja čak i u privatnom režimu, koji se zove “InPrivate”. Tako da nije važno da li ste koristili InPrivate režim ili ne, jer vaše aktivnosti mogu da se prate bez mnogo muke.
