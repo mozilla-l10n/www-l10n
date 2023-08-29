@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } ያግኙ
 vpn-shared-waitlist-link = የተጠባባቂ ዝርዝሩን ይቀላቀሉ
 vpn-shared-sign-in-link = አስቀድመው ተመዝጋቢ ነዎት?
 # Outdated string
-vpn-shared-available-countries-v4 = በአሁኑ ጊዜ { -brand-name-mozilla-vpn }ን በኦስትሪያ፣ ቤልጂየም፣ ካናዳ፣ ፈረንሳይ፣ ጀርመን፣ አየርላንድ፣ ጣሊያን፣ ማሌዥያ፣ ኔዘርላንድስ፣ ኒውዚላንድ፣ ሲንጋፖር፣ ስፔን፣ ስዊዘርላንድ፣ ዩናይትድ ኪንግደም እና ዩኤስ ውስጥ እናቀርባለን።
 vpn-shared-available-countries-v5 = በአሁኑ ጊዜ { -brand-name-mozilla-vpn }ን በኦስትሪያ፣ ቤልጂየም፣ ካናዳ፣ ፈረንሳይ፣ ጀርመን፣ አየርላንድ፣ ጣሊያን፣ ማሌዥያ፣ ኔዘርላንድስ፣ ኒውዚላንድ፣ ሲንጋፖር፣ ስፔን፣ ስዊዘርላንድ፣ ዩናይትድ ኪንግደም እና ዩኤስ ውስጥ እናቀርባለን።
+vpn-shared-available-countries-v6 = በአሁኑ ጊዜ { -brand-name-mozilla-vpn } በኦስትሪያ፣ ቤልጂየም፣ ቡልጋሪያ፣ ካናዳ፣ ክሮኤሺያ፣ ቆጵሮስ፣ ቼክ ሪፐብሊክ፣ ዴንማርክ፣ ኢስቶኒያ፣ ፊንላንድ፣ ፈረንሳይ፣ ጀርመን፣ ሃንጋሪ፣ አየርላንድ፣ ጣሊያን፣ ላቲቪያ፣ ሊቱዌኒያ እናቀርባለን ሉክሰምበርግ፣ ማሌዢያ፣ ማልታ፣ ኔዘርላንድስ፣ ኒውዚላንድ፣ ፖላንድ፣ ፖርቱጋል፣ ሮማኒያ፣ ሲንጋፖር፣ ስሎቬንያ፣ ስሎቫኪያ፣ ስፔን፣ ስዊድን፣ ስዊዘርላንድ፣ እንግሊዝ እና አሜሪካ እናቀርባለን።
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = የ 30 ቀን ገንዘብ ተመላሽ ዋስትና
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -108,6 +108,8 @@ vpn-shared-platform-cta-headline = እንጀምር
 vpn-shared-platform-cta-button = ዋጋን እና ተገኝነትን ይመልከቱ
 vpn-shared-platform-privacy-promise = የእርስዎ ግላዊነት የእኛ ቃል-ኪዳን ነው
 vpn-shared-platform-trust-partner-headline = ስለ ታማኝ አጋራችን
+vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } ምንድን ነው?
+vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } ለምን?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
@@ -129,6 +131,8 @@ vpn-subnav-whats-an-ip-address = አይፒ አድራሻ ምንድን ነው?
 vpn-subnav-when-to-use-a-vpn = ቪፒኤን መቼ መጠቀም አለብን
 vpn-subnav-vpn-vs-proxy = ቪፒኤን ከ ተኪ ንፅፅር
 vpn-subnav-subscribe = ለ{ -brand-name-mozilla-vpn } ይመዝገቡ
+vpn-subnav-learn-about-vpns = ስለ VPNs ይወቁ
+vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn }ን አውርድ
 
 ## VPN Affiliate cookie notice
 

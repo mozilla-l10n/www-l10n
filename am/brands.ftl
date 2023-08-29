@@ -72,6 +72,7 @@
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = የፋየርፎክስ የግል አውታረ መረብ
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = ፋየርፎክስ ቅብብል
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-translations = የፋየርፎክስ ትርጉሞች

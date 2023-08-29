@@ -60,6 +60,7 @@ footer-contact = ያግኙን
 footer-product-help = የምርት እገዛ
 footer-support = ድጋፍ
 footer-file-a-bug = ሳንካ ያስመዝግቡ
+footer-localize-mozilla = { -brand-name-mozilla }ን አካባቢያዊ አድርግ
 footer-community-participation-guidelines = የማህበረሰብ ተሳትፎ መመሪያዎች
 footer-websites-privacy-notice = የድረ-ገፅ ግላዊነት ማስታወቂያ
 footer-websites-cookies = ተሸጓጭ
