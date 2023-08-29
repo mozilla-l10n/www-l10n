@@ -7,6 +7,9 @@
 
 home-internet-for-people-not-profit = Διαδίκτυο για τους ανθρώπους, όχι το κέρδος
 home-did-you-know-mozilla-the-maker = Το γνωρίζατε; Η { -brand-name-mozilla } — δημιουργός του { -brand-name-firefox } — μάχεται για να διατηρήσει το διαδίκτυο μια παγκόσμια δημόσια πηγή, ανοικτή και προσβάσιμη από όλους.
+home-were-not-normal = Δεν είμαστε μια απλή εταιρεία τεχνολογίας. Τα προϊόντα μας δίνουν προτεραιότητα στους ανθρώπους και το απόρρητό τους, όχι στα κέρδη. Υπάρχουμε για να κάνουμε το διαδίκτυο ένα πιο υγιές και χαρούμενο μέρος για όλους.
+# Quotes around string to represent it being a quote by Mitchell Baker
+home-the-health-of = «Η υγεία του διαδικτύου και της διαδικτυακής ζωής είναι ο λόγος που υπάρχουμε.»
 home-mitchell-baker = Mitchell Baker, CEO της { -brand-name-mozilla }
 home-mozilla-makes-privacy = Η { -brand-name-mozilla } δημιουργεί προϊόντα που σέβονται το απόρρητο
 home-product-firefox-browsing = Ιδιωτική και ασφαλής περιήγηση
