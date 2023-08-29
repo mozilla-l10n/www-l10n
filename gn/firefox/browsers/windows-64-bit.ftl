@@ -8,13 +8,13 @@
 # HTML page title
 windows-64-bit-firefox-for-windows = { -brand-name-firefox } { -brand-name-windows } peg̃uarã 64 bits
 # HTML page description
-windows-64-bit-users-on-64-bit-windows = Puruharakuéra { -brand-name-windows } 64 bits pegua omboguejýva { -brand-name-firefox } ikatu oguereko 64 bits ijypykuévaramo. He’ise eguerekoha { -brand-name-firefox } rembiapokue hekorosãva.
+windows-64-bit-users-on-64-bit-windows = Poruharakuéra { -brand-name-windows } 64 bits pegua omboguejýva { -brand-name-firefox } ikatu oguereko 64 bits ijypykuévaramo. He’ise eguerekoha { -brand-name-firefox } rembiapokue hekorosãva.
 windows-64-bit-64-bit = 64-bit
 # Main title
 windows-64-bit-a-more-secure-firefox = { -brand-name-firefox } hekorosãvéva.
 # Variables:
 # $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
-windows-64-bit-users-on-64-bit-windows-crashes = Puruharakuéra { -brand-name-windows } 64 bits pegua omboguejýva { -brand-name-firefox } ikatu oguereko 64 bits ijypykuévaramo. He’ise eguerekoha { -brand-name-firefox } rembiapokue hekorosãva, peteĩ avei <a href="{ $crashes }">oñembyai sa’ivéva</a>. ¿Michĩvehaáicha? Ore ñeha’ã rupi ko’ág̃a peve, { -brand-name-firefox } 64 bits omomichĩ jejavy 39% máquina  4 GB RAM térã hetave.
+windows-64-bit-users-on-64-bit-windows-crashes = Poruharakuéra { -brand-name-windows } 64 bits pegua omboguejýva { -brand-name-firefox } ikatu oguereko 64 bits ijypykuévaramo. He’ise eguerekoha { -brand-name-firefox } rembiapokue hekorosãva, peteĩ avei <a href="{ $crashes }">oñembyai sa’ivéva</a>. ¿Michĩvehaáicha? Ore ñeha’ã rupi ko’ág̃a peve, { -brand-name-firefox } 64 bits omomichĩ jejavy 39% máquina  4 GB RAM térã hetave.
 windows-64-bit-whats-the-difference = ¿Mba’épe iñambue 32-bit ha 64-bit?
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
