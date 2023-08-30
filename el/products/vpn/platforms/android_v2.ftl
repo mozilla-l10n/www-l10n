@@ -11,3 +11,6 @@ vpn-android-looking-for-a = Ψάχνετε ένα VPN για την προστα
 vpn-android-how-does-a = Πώς προστατεύει ένα VPN τη συσκευή μου με Android;
 vpn-android-vpns-help = Τα VPN συμβάλλουν στην αποτροπή:
 vpn-android-why-should-i = Γιατί να κάνω λήψη του { -brand-name-mozilla-vpn } για Android;
+vpn-android-browse-the-internet = Περιηγηθείτε στο διαδίκτυο χωρίς να δημοσιεύετε την τοποθεσία σας.
+vpn-android-be-more-comfortable = Νιώστε περισσότερη ασφάλεια σε δημόσια Wi-Fi καφετεριών, αεροδρομίων και άλλων.
+vpn-android-avoid-intrusive = Αποφύγετε τις περεμβατικές διαφημίσεις που βασίζονται στην τοποθεσία σας.
