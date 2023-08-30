@@ -24,6 +24,7 @@ how-it-works-section-extension-body = Obtén máscaras de correo electrónico al
 how-it-works-section-forward-headline = Te reenviaremos correos electrónicos, llamadas telefónicas y mensajes de texto.
 how-it-works-section-forward-body = Ten la seguridad de que los remitentes nunca sabrán tu dirección de correo electrónico real o tu número real. Incluso puedes responder mensajes de texto y correos electrónicos sin compartir tu identidad real.
 how-it-works-section-manage-headline = Gestiona tus máscaras desde tu panel de { -brand-name-relay }
+how-it-works-section-manage-body = Conéctate a tu panel de { -brand-name-relay } para crear nuevas máscaras, etiquetar máscaras existentes y bloquear llamadas, mensajes de texto o correos electrónicos de máscaras que reciban demasiado spam.
 
 ## REVIEWS SECTION
 
@@ -44,6 +45,7 @@ landing-reviews-out-of-5 =
 landing-reviews-show-next-button = mostrar la siguiente reseña
 landing-reviews-show-previous-button = mostrar la reseña anterior
 landing-review-anonymous-user = Usuario { $user_id } de { -brand-name-firefox }
+landing-review-user-one-review = Realmente aprecio al equipo de { -brand-name-mozilla } por ser tan creativo y simplificar la anonimización de mi dirección de correo electrónico. Esta es una gran extensión, ¡la recomiendo encarecidamente a quienes se preocupan por la privacidad!
 landing-review-user-two-review = Herramienta sencilla para deshacerse o evitar el spam de tu ID de correo electrónico.
 landing-review-user-three-review = ¡Me encanta esta extensión! Muy simple pero potente y la integración con el navegador es maravillosa.
 landing-review-user-four-review-list-1 = Da tranquilidad al navegar por Internet.
