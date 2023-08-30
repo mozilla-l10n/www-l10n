@@ -6,8 +6,19 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } για Linux
+vpn-linux-looking-for = Ψάχνετε ένα VPN για να προστατεύσετε τη συσκευή σας με Linux; Το { -brand-name-mozilla-vpn } είναι η μοναδική υπηρεσία από μια μη κερδοσκοπική εταιρεία. Μάθετε πώς σας προστατεύει ένα VPN και γιατί πρέπει να εμπιστευθείτε το απόρρητο και την ασφάλειά σας στη { -brand-name-mozilla }.
+vpn-linux-mozilla-vpn-on-linux = Εγκαταστήστε το { -brand-name-mozilla-vpn } σε συσκευές με Linux για ένα πιο ιδιωτικό και ασφαλές διαδίκτυο
+vpn-linux-linux-is-free = Το Linux είναι δωρεάν λογισμικό ανοικτού κώδικα και πολύ προσαρμόσιμο, αλλά δεν είναι απρόσβλητο σε ζητήματα ασφάλειας και απορρήτου στο διαδίκτυο. Όπως και οι χρήστες άλλων λειτουργικών συστημάτων, οι χρήστες του Linux αντιμετωπίζουν λογοκρισία, παρακολούθηση και hacking.
 vpn-linux-why-choose = Γιατί να επιλέξω το { -brand-name-mozilla-vpn } για Linux;
+vpn-linux-fast-and-v2 = <strong>Γρήγορο και αξιόπιστο:</strong> Το { -brand-name-mozilla-vpn } χρησιμοποιεί το πρωτόκολλο { -brand-name-wireguard }®, το οποίο προσφέρει καλύτερες επιδόσεις και σταθερότητα από άλλα πρωτόκολλα VPN.
+# Obsolete string
+vpn-linux-fast-and = <strong>Γρήγορο και αξιόπιστο:</strong> Το { -brand-name-mozilla-vpn } χρησιμοποιεί το πρωτόκολλο { -brand-name-wireguard }®, το οποίο προσφέρει καλύτερες επιδόσεις και σταθερότητα από άλλα πρωτόκολλα VPN
 vpn-linux-how-to-install = Εγκατάσταση του { -brand-name-mozilla-vpn } στο Linux
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Εάν χρησιμοποιείτε κάποια από τις υποστηριζόμενες εκδόσεις του Ubuntu, υπάρχουν δύο τρόποι εγκατάστασης των επίσημων πακέτων mozillavpn που φιλοξενούνται στο <a { $attrs }>Launchpad</a>:
+# Obsolete string
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
