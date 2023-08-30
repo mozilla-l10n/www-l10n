@@ -10,6 +10,9 @@ plan-matrix-title = Prizen
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = Kies in beskermingnivo dat by jo past
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } beskermet jo identiteit en jo Postfek YN mei unike e-mailmaskers. Foegje noch mear befeiliging ta mei { -brand-name-relay }-telefoanmaskearring, en besparje { $savings }% troch { -brand-name-mozilla-vpn }-beskerming ta te foegjen.
 
 ## Top Row Labels
 
@@ -60,6 +63,9 @@ plan-matrix-price-period-yearly = Jierliks
 plan-matrix-price-period-monthly = Moanliks
 plan-matrix-price-period-yearly-footnote-1 = Jierliks fakturearre
 plan-matrix-price-period-monthly-footnote-1 = Moanlikse fakturearre
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>Besparje { $savings }%</span> op gewoane VPN-priis
 
 ## Plan CTAs
 

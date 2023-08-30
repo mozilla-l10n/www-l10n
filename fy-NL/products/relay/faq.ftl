@@ -122,3 +122,10 @@ phone-masking-faq-answer-disable-logging = Ja, jo kinne logging fan nûmers úts
 phone-masking-faq-question-can-i-share = Kin ik it nûmer diele dat my sms-berjochten trochstjoert?
 phone-masking-faq-answer-can-i-share = As jo dit nûmer diele, sil der neat barre – dit nûmer is net jo telefoannûmermasker. It is gewoan it kontaktnûmer wêrfan { -brand-name-relay } út jo sms’kes en oproppen trochstjoere sil.
 phone-masking-faq-question-how-i-save-card = Hoe bewarje ik de { -brand-name-relay }-kontaktkaart?
+phone-masking-faq-answer-how-i-save-card = Sa gau as jo opwurdearje nei { -brand-name-relay }-telefoannûmermaskearing, stjoere wy jo in sms-berjocht dy’t it nûmer befettet wêrfan jo trochstjoerde oproppen en sms-berjochten ûntfange sille, fergelykber mei in kontaktkaart mei it telefoannûmer fan minsken dy’t kontakt mei jo opnimme. Op de measte apparaten kinne jo dizze kontaktkaart selektearje en bewarje lykas elk oar kontakt op jo telefoan.
+phone-masking-faq-question-install-app = Moat ik in app ynstallearje om { -brand-name-relay }-telefoanmaskearing te brûken?
+phone-masking-faq-answer-install-app = Nee, { -brand-name-relay } telefoanmaskearing wurket mei de standert sms- en telefoanapps fan jo apparaat.
+phone-masking-faq-question-data = Hokker soarten gegevens bewarret { -brand-name-relay }-telefoanmaskearing?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Lês it <a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay }-privacybelied</a>.
