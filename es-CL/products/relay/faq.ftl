@@ -53,7 +53,11 @@ faq-question-unsubscribe-domain-question-2 = ¿Qué sucede con mi subdominio per
 faq-question-unsubscribe-domain-answer-2 = Si te sales de { -brand-name-relay-premium }, seguirás recibiendo correos electrónicos reenviados a través de tus máscaras de correo electrónico personalizadas, pero ya no podrás crear nuevas máscaras usando ese subdominio. Si tienes más de cinco máscaras en total, no podrás crear ninguna más. También perderás la posibilidad de responder a los mensajes reenviados. Puede volver a suscribirse a { -brand-name-relay-premium } y recuperar el acceso a estas funciones.
 faq-question-8-question = ¿Qué datos recopila { -brand-name-firefox-relay }?
 faq-question-email-storage-question = ¿Almacena { -brand-name-relay } mis correos electrónicos?
+faq-question-email-storage-answer = En el raro caso de que el servicio no funcione, podemos almacenar temporalmente tus correos electrónicos hasta que podamos enviarlos. Nunca almacenaremos tus correos electrónicos por más de tres días.
 faq-question-acceptable-use-question = ¿Cuáles son los usos aceptables de { -brand-name-relay }?
+#   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
+#   $attrs (string) - specific attributes added to external links
+faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } tiene las mismas <a href="{ $url }" { $attrs }>condiciones de uso de todos los productos de { -brand-name-mozilla }</a>. Tenemos una política de tolerancia cero cuando se trata de usar { -brand-name-relay } con fines maliciosos como spam, lo que resulta en la cancelación de la cuenta del usuario. Tomamos medidas para evitar que los usuarios violen nuestras condiciones al:
 faq-question-acceptable-use-answer-measure-account = Requerir una { -brand-name-firefox-account } con una dirección de correo electrónico verificada
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Requerir un pago para que un usuario cree más de cinco máscaras
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Limitar el número de máscaras que se pueden generar en un día
@@ -61,6 +65,9 @@ faq-question-acceptable-use-answer-measure-rate-limit-2 = Limitar el número de 
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-b-html = Por favor, revisa nuestros <a href="{ $url }" { $attrs }>Términos de servicio</a> para obtener más información.
 faq-question-promotional-email-blocking-question = ¿Qué es el bloqueo de correo electrónico promocional?
+faq-question-promotional-email-blocking-answer = Los suscriptores de { -brand-name-relay-premium } pueden habilitar el bloqueo de correo electrónico promocional. Esta función te reenviará correos electrónicos importantes, como recibos, restablecimientos de contraseña y confirmaciones, mientras bloquea los mensajes de marketing. Existe un ligero riesgo de que se bloquee algún mensaje importante, por lo que te recomendamos que no utilices esta función para sitios muy importantes como tu banco. Si un correo es bloqueado, no puede ser recuperado.
+faq-question-detect-promotional-question = ¿Cómo detecta { -brand-name-relay } si un correo electrónico es promocional o no?
+faq-question-detect-promotional-answer = Muchos correos electrónicos se envían con metadatos en el "encabezado" para indicar que provienen de herramientas automatizadas basadas en listas. { -brand-name-firefox-relay } detecta los datos de este encabezado para poder bloquear estos correos electrónicos.
 faq-question-disable-trackerremoval-question = ¿Puedo dejar de eliminar rastreadores de correo electrónico?
 faq-question-disable-trackerremoval-answer = Sí. Si tienes problemas con los correos electrónicos que parecen corrompidos o deseas dejar de eliminar rastreadores, puede desactivar la función en la configuración.
 faq-question-bulk-trackerremoval-question = ¿Puedo eliminar rastreadores solo en algunas de mis máscaras de correo electrónico?
@@ -104,6 +111,8 @@ phone-masking-faq-question-disable-logging = ¿Puedo desactivar el registro de p
 phone-masking-faq-answer-disable-logging = Sí, puedes desactivar el registro de números desde el panel de { -brand-name-relay }. Sin embargo, ya no podrás responder mensajes de texto ni bloquear números específicos, porque el registro es la forma en que podemos rastrear quién te envió un mensaje de texto.
 phone-masking-faq-question-can-i-share = ¿Puedo compartir el número que me reenvía mensajes de texto?
 phone-masking-faq-answer-can-i-share = Si compartes este número, no pasará nada: este número no es tu máscara de número de teléfono — es solo el número de contacto desde el cual { -brand-name-relay } reenviará tus mensajes de texto y llamadas.
+phone-masking-faq-question-how-i-save-card = ¿Cómo guardo la tarjeta de contacto de { -brand-name-relay }?
+phone-masking-faq-answer-how-i-save-card = Una vez que actualices al enmascaramiento de número de teléfono de { -brand-name-relay }, te enviaremos por mensaje de texto una tarjeta de contacto que contiene el número desde el cual recibirás llamadas y mensajes de texto redirigidos, similar a cualquier tarjeta de contacto que almacena el número de teléfono de las personas que te contactan. En la mayoría de los dispositivos, puedes seleccionar esa tarjeta de contacto y guardarla como cualquier otro contacto en tu teléfono.
 phone-masking-faq-question-install-app = ¿Necesito instalar una aplicación para usar el enmascaramiento telefónico de { -brand-name-relay }?
 phone-masking-faq-answer-install-app = No, el enmascaramiento de teléfono { -brand-name-relay } funciona usando las aplicaciones de llamadas y mensajes de texto estándar de tu dispositivo.
 phone-masking-faq-question-data = ¿Qué tipo de datos almacena el enmascaramiento telefónico de { -brand-name-relay }?
