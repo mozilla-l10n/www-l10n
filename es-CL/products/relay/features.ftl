@@ -8,6 +8,8 @@
 
 ## HIGHLIGHTED FEATURES SECTION
 
+highlighted-features-section-title = Funcionalidades seguras y sencillas para ayudar a proteger tu identidad
+highlighted-features-section-bottom-title = Proteger tu identidad (y tu bandeja de entrada) con { -brand-name-firefox-relay }
 highlighted-features-section-bottom-cta = Empezar
 highlighted-features-section-unlimited-masks-headline = Crea máscaras de correo electrónico ilimitadas
 # Variables:

@@ -6,9 +6,12 @@
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
+meta-description-2 = { -brand-name-firefox-relay } facilita la creación de máscaras de correo electrónico que reenvían tus mensajes a tu verdadera bandeja de entrada. Úsalos para proteger tus cuentas en línea de piratas informáticos y mensajes no deseados.
 
 ## HERO SECTION
 
+hero-section-title = Proteger tu identidad con enmascaramiento seguro de correo electrónico y teléfono
+hero-section-body = Nuestras máscaras de teléfono y correo electrónico seguras y fáciles de usar te ayudan a mantener tu identidad privada para que puedas crear nuevas cuentas de forma anónima, detener mensajes de texto no deseados y llamadas basura, y recibir solo los correos electrónicos que desees en tu bandeja de entrada.
 # Context: This lists the various websites and magazines who have mentioned Firefox Relay.
 # Example: "As seen in: FORBES magainze and LifeHacker"
 hero-section-social-proof = Como se vio en:
@@ -19,6 +22,8 @@ how-it-works-section-title = Cómo funciona el enmascaramiento de correo electr�
 how-it-works-section-extension-headline = Utiliza las máscaras de correo electrónico y máscaras de teléfono de { -brand-name-relay } en todas partes
 how-it-works-section-extension-body = Obtén máscaras de correo electrónico aleatorias y seguras y un número de teléfono enmascarado único para usar cada vez que un sitio web, aplicación, tienda o restaurante solicite tu información.
 how-it-works-section-forward-headline = Te reenviaremos correos electrónicos, llamadas telefónicas y mensajes de texto.
+how-it-works-section-forward-body = Ten la seguridad de que los remitentes nunca sabrán tu dirección de correo electrónico real o tu número real. Incluso puedes responder mensajes de texto y correos electrónicos sin compartir tu identidad real.
+how-it-works-section-manage-headline = Gestiona tus máscaras desde tu panel de { -brand-name-relay }
 
 ## REVIEWS SECTION
 

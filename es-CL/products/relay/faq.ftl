@@ -46,6 +46,13 @@ faq-question-longevity-answer-2 = Te avisaremos con antelación de que debes cam
 faq-question-mozmail-question-2 = ¿Por qué mis máscaras de correo electrónico empezaron a utilizar el dominio “mozmail.com”?
 faq-question-mozmail-answer-2 = Hicimos el cambio de “relay.firefox.com” a “mozmail.com” para que fuera posible obtener un subdominio de correo electrónico personalizado, como mask@yourdomain.mozmail.com. Los subdominios de correo electrónico personalizados, disponibles para los suscriptores de { -brand-name-relay-premium }, te permiten generar máscaras de correo electrónico más fáciles de recordar.
 faq-question-attachments-question = ¿{ -brand-name-firefox-relay } reenviará correos electrónicos con archivos adjuntos?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Ahora admitimos el reenvío de archivos adjuntos. Sin embargo, existe un límite de { $size } MB para el reenvío de correo electrónico mediante { -brand-name-relay }. Todo correo de más de { $size } MB no será reenviado.
+faq-question-unsubscribe-domain-question-2 = ¿Qué sucede con mi subdominio personalizado si me doy de baja de { -brand-name-relay-premium }?
+faq-question-unsubscribe-domain-answer-2 = Si te sales de { -brand-name-relay-premium }, seguirás recibiendo correos electrónicos reenviados a través de tus máscaras de correo electrónico personalizadas, pero ya no podrás crear nuevas máscaras usando ese subdominio. Si tienes más de cinco máscaras en total, no podrás crear ninguna más. También perderás la posibilidad de responder a los mensajes reenviados. Puede volver a suscribirse a { -brand-name-relay-premium } y recuperar el acceso a estas funciones.
+faq-question-8-question = ¿Qué datos recopila { -brand-name-firefox-relay }?
+faq-question-email-storage-question = ¿Almacena { -brand-name-relay } mis correos electrónicos?
 faq-question-acceptable-use-question = ¿Cuáles son los usos aceptables de { -brand-name-relay }?
 faq-question-acceptable-use-answer-measure-account = Requerir una { -brand-name-firefox-account } con una dirección de correo electrónico verificada
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Requerir un pago para que un usuario cree más de cinco máscaras
@@ -97,3 +104,9 @@ phone-masking-faq-question-disable-logging = ¿Puedo desactivar el registro de p
 phone-masking-faq-answer-disable-logging = Sí, puedes desactivar el registro de números desde el panel de { -brand-name-relay }. Sin embargo, ya no podrás responder mensajes de texto ni bloquear números específicos, porque el registro es la forma en que podemos rastrear quién te envió un mensaje de texto.
 phone-masking-faq-question-can-i-share = ¿Puedo compartir el número que me reenvía mensajes de texto?
 phone-masking-faq-answer-can-i-share = Si compartes este número, no pasará nada: este número no es tu máscara de número de teléfono — es solo el número de contacto desde el cual { -brand-name-relay } reenviará tus mensajes de texto y llamadas.
+phone-masking-faq-question-install-app = ¿Necesito instalar una aplicación para usar el enmascaramiento telefónico de { -brand-name-relay }?
+phone-masking-faq-answer-install-app = No, el enmascaramiento de teléfono { -brand-name-relay } funciona usando las aplicaciones de llamadas y mensajes de texto estándar de tu dispositivo.
+phone-masking-faq-question-data = ¿Qué tipo de datos almacena el enmascaramiento telefónico de { -brand-name-relay }?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Por favor, consulta la <a href="{ $url }" { $attrs }>Política de privacidad de { -brand-name-firefox-relay }</a>.
