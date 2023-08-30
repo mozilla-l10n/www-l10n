@@ -10,6 +10,7 @@ vpn-android-ease-security = Ξεχάστε τους κινδύνους ασφα�
 vpn-android-looking-for-a = Ψάχνετε ένα VPN για την προστασία της συσκευής σας με Android; Το { -brand-name-mozilla-vpn } υποστηρίζεται από μια μη κερδοσκοπική εταιρεία. Μάθετε πώς σας προστατεύει ένα VPN και γιατί να εμπιστευτείτε το απόρρητο και την ασφάλειά σας στη { -brand-name-mozilla }.
 vpn-android-how-does-a = Πώς προστατεύει ένα VPN τη συσκευή μου με Android;
 vpn-android-vpns-help = Τα VPN συμβάλλουν στην αποτροπή:
+vpn-android-your-internet-activity = Της προβολής της διαδικτυακής σας δραστηριότητας, της πώλησης και της κοινοποίησής της σε διαφημιστές.
 vpn-android-why-should-i = Γιατί να κάνω λήψη του { -brand-name-mozilla-vpn } για Android;
 vpn-android-browse-the-internet = Περιηγηθείτε στο διαδίκτυο χωρίς να δημοσιεύετε την τοποθεσία σας.
 vpn-android-be-more-comfortable = Νιώστε περισσότερη ασφάλεια σε δημόσια Wi-Fi καφετεριών, αεροδρομίων και άλλων.
