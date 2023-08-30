@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 # Meta strings
 vpn-desktop-page-title = { -brand-name-mozilla-vpn } mesa arigua (PC ha laptop)
-vpn-desktop-page-description = Eguereko tekorosã ipya’e ha hasy’ỹva ne mohendaha ha guerahakuaáva { -brand-name-mozilla } rupive, ojejeroviaveha tembipurupyahúpe.
+vpn-desktop-page-description = Eguereko tekorosã ipya’e ha hasy’ỹva ne mohendaha ha guerahakuaáva { -brand-name-mozilla } rupive, ojejeroviaveha tembiporupyahúpe.
 # Desktop strings
 vpn-desktop-hero-headline = Eike ñandutípe tekorosãme { -brand-name-mozilla-vpn } mesa arigua ndive
 # Variables:
