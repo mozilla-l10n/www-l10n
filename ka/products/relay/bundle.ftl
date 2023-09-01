@@ -17,9 +17,6 @@ bundle-banner-plan-modules-phone-masking = ტელეფონის შენ
 bundle-banner-plan-modules-mozilla-vpn = { -brand-name-mozilla-vpn }
 bundle-banner-cta = გამოიყენეთ { -brand-name-mozilla-vpn } + { -brand-name-relay }
 # Variables:
-#   $days_guarantee (string) - the number of days for money-back guarantee. Examples: 30, 90
-bundle-banner-money-back-guarantee-2 = { $days_guaratee }-დღიანი თანხის დაბრუნების გარანტია მომხმარებლისთვის
-# Variables:
 #   $num_vpn_servers (string) - the number of VPN servers. Examples: 400, 500, 600
 bundle-feature-more-than-servers =
     { $num_vpn_servers ->
