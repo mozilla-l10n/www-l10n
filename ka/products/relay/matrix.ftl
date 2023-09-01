@@ -29,9 +29,9 @@ plan-matrix-heading-plan-bundle-v2 = დაამატეთ VPN-დაცვ�
 plan-matrix-feature-email-masks = ელფოსტის ნიღბები თქვენი ნამდვილი ელფოსტის დასაცავად
 plan-matrix-feature-browser-extension = ბრაუზერის გაფართოება { -brand-name-relay }-ის გამოსაყენებლად ნებისმიერ საიტზე
 plan-matrix-feature-email-tracker-removal = ელფოსტის მეთვალყურეების მოცილება
-plan-matrix-feature-promo-email-blocking = შეზღუდეთ სარეკლამო წერილები
+plan-matrix-feature-promo-email-blocking = სარეკლამო წერილების შეზღუდვა
 plan-matrix-feature-email-subdomain = { -brand-name-relay }-ის ელფოსტის დომენი მუდმივი ნიღბების შესაქმნელად
-plan-matrix-feature-email-reply = უპასუხეთ წერილებს ანონიმურად
+plan-matrix-feature-email-reply = წერილებზე ანონიმური პასუხი
 plan-matrix-feature-phone-mask = ტელეფონის ნიღაბი თქვენი ნამდვილი ტელეფონის ნომრის დასაცავად
 plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
@@ -40,9 +40,9 @@ plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 plan-matrix-feature-mobile-email-masks = ელფოსტის ნიღბები
 plan-matrix-feature-mobile-browser-extension = ბრაუზერის გაფართოება
 plan-matrix-feature-mobile-email-tracker-removal = ელფოსტის მეთვალყურეების მოცილება
-plan-matrix-feature-mobile-promo-email-blocking = შეზღუდეთ სარეკლამო წერილები
+plan-matrix-feature-mobile-promo-email-blocking = სარეკლამო წერილების შეზღუდვა
 plan-matrix-feature-mobile-email-subdomain = { -brand-name-relay }-ის უნიკალური ელფოსტის დომენი
-plan-matrix-feature-mobile-email-reply = უპასუხეთ წერილებს ანონიმურად
+plan-matrix-feature-mobile-email-reply = წერილებზე ანონიმური პასუხი
 plan-matrix-feature-mobile-phone-mask = დაიცავით თქვენი ნამდვილი ტელეფონის ნომერი
 plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
