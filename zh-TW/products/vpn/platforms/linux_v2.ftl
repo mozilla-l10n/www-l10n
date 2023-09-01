@@ -26,18 +26,18 @@ vpn-linux-how-to-install = 如何在 Linux 安裝 { -brand-name-mozilla-vpn }
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use-v2 = 若您使用支援的 Ubuntu 有兩種方式mozillavpn 官方套件安裝在<a { $attrs }>Launchpad</a>
+vpn-linux-if-you-use-v2 = 若您使用支援的 Ubuntu 發行版，有兩種方式能夠安裝代管於 <a { $attrs }>Launchpad</a> 的 mozillavpn 官方套件：
 # Obsolete string
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = 若您使用任一支援的 Ubuntu有兩種方式可以安裝到<a { $attrs }>launchpad</a>上的 mozillavpn 官方套件
+vpn-linux-if-you-use = 若您使用支援的 Ubuntu 發行版，有兩種方式能夠安裝代管於 <a { $attrs }>launchpad</a> 的 mozillavpn 官方套件：
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Ubuntu 命令列模式：</strong>若需如何使用命令列模式工具安裝 { -brand-name-mozilla-vpn } 的詳細資訊，請參考<a { $attrs }>How to install { -brand-name-mozilla-vpn } on a Linux computer</a> 一文。
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
-vpn-linux-ubuntu-graphical = <strong>Ubuntu 圖形使用者介面:</strong> 請參考<a { $attrs }>此文件</a>並依照「新增個人封裝檔」部分中的步驟操作。
+vpn-linux-ubuntu-graphical = <strong>Ubuntu 圖形化介面：</strong>請參考<a { $attrs }>此文件</a>，依照「新增個人套件」段落中的步驟操作。
 # Variables:
 #   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
-vpn-linux-additionally = 此外對於不支援的 Linux 發行版您可以到 <a { $attrs }>官方 GitHub 儲存庫</a> 取得併編譯原始碼。
+vpn-linux-additionally = 此外，對於未受支援的 Linux 發行版，您可以從 <a { $attrs }>官方 GitHub 儲存庫</a>直接取得原始碼自行編譯。

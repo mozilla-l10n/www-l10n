@@ -16,7 +16,7 @@ vpn-windows-avoid-your-online = 避免您的線上活動被收集或提供給第
 vpn-windows-if-youre = 若您是影音或網路音樂的重度使用者使用 VPN 可以避免電信業者限製或限制您的頻寬。
 vpn-windows-you-can-exclude = 您可以透過分割通道功能排除某些應用程式。如此一來您就可以讓某些應用程式透過 VPN 執行而讓其他應用程式在通道外執行。
 vpn-windows-using-a-windows = 在公開、不安全的 Wi-Fi 網路使用 Windows 會讓您的網路流量資訊更容易被網路間諜追踪。而 VPN 可透過加入更強大的保護層幫助您確保資料的隱私。
-vpn-windows-the-mozilla = { -brand-name-mozilla-vpn } 應用程式不會用盡 Windows 裝置太多記憶體、拖慢電腦速度或浪費電池使用時間。
+vpn-windows-the-mozilla = { -brand-name-mozilla-vpn } 應用程式不會在您 Windows 裝置消耗太多記憶體、拖慢電腦速度或浪費電池使用時間。
 # Variables:
 #   $url (string) - url('products.vpn.landing')
 vpn-windows-mozilla-vpn = { -brand-name-mozilla-vpn } 在 Windows 10 與 Windows 11 都支援您最多可以在五台裝置上使用 { -brand-name-mozilla-vpn }。首先您可以<a href="{ $url }">到 mozilla.org 訂閱</a> 並在您的 Windows 裝置下載此應用程式。
