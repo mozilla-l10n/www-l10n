@@ -25,9 +25,9 @@ how-it-works-section-title = როგორ მუშაობს { -brand-name
 how-it-works-section-extension-headline = გამოიყენეთ { -brand-name-relay } ელფოსტისა და ტელეფონის შესანიღბად ყველგან
 how-it-works-section-extension-body = მიიღეთ ელფოსტის უსაფრთხო, შემთხვევითი ნიღბები და ტელეფონის უნიკალური, შენიღბული ნომერი ნებისმიერ დროს, ვებსაიტის, აპლიკაციის, მაღაზიის ან რესტორნის მიერ ინფორმაციის მოთხოვნისას.
 how-it-works-section-forward-headline = გადმოგიმისამართებთ ელფოსტას, ზარებსა და მონაწერებს
-how-it-works-section-forward-body = დარწმუნებული იყავით, გამომგზავნები ვერასდროს გაიგებენ თქვენს ნამდვილ ელფოსტას და ვერც ნამდვილ ნომერს. შეგიძლიათ უპასუხოთ ტექსტებსა და წერილებსაც თქვენი ნამდვილი ვინაობის გაუმჟღავნებლად.
+how-it-works-section-forward-body = დარწმუნებული იყავით, გამომგზავნები ვერასდროს გაიგებენ თქვენს ნამდვილ ელფოსტასა და ნამდვილ ნომერს. შეგიძლიათ უპასუხოთ ტექსტებსა და წერილებსაც თქვენი ვინაობის გაუმჟღავნებლად.
 how-it-works-section-manage-headline = მართეთ თქვენი ნიღბები { -brand-name-relay }-ის ხელსაწყოთა დაფიდან
-how-it-works-section-manage-body = შედით თქვენს { -brand-name-relay }-ის ხელსაწყოთა დაფაზე, რომ შექმნათ ახალი ნიღბები, მოინიშნოთ არსებული ნიღბები და შეზღუდოთ ზარები, ტექსტი ან ელფოსტა ნიღბებისგან, ზედმეტად ბევრ სპამს.
+how-it-works-section-manage-body = შედით თქვენი { -brand-name-relay }-ის ხელსაწყოთა გვერდზე, რომ შექმნათ ახალი ნიღბები, დანიშნოთ არსებულნი და შეზღუდოთ ზარები, მონაწერები ან ელფოსტა ნიღბებიდან, რომლებიც მეტად ივსება უსარგებლო მასალით.
 
 ## REVIEWS SECTION
 
@@ -42,8 +42,8 @@ landing-reviews-details-source = წყარო: addons.mozilla.org
 #   $review_count (number): total number of reviews
 landing-reviews-out-of-5 =
     { $review_count ->
-        [one] 5-დან ({ $review_count } მიმოხილვა)
-       *[other] 5-დან ({ $review_count } მიმოხილვა)
+        [one] 5-იდან ({ $review_count } მიმოხილვა)
+       *[other] 5-იდან ({ $review_count } მიმოხილვა)
     }
 landing-reviews-show-next-button = შემდეგი მიმოხილვის ჩვენება
 landing-reviews-show-previous-button = წინა მიმოხილვის ჩვენება
