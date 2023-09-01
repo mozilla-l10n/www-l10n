@@ -19,13 +19,13 @@ highlighted-features-section-unlimited-masks-body-v2 =
         [one] ყველა მიიღებს { $mask_limit } ელფოსტის ნიღაბს უფასოდ. მაგრამ { -brand-name-relay-premium }-ით შეგიძლიათ იმდენი ნიღბის შექმნა, რამდენიც დაგჭირდებათ ელფოსტის საფოსტო ყუთის დაცვისთვის ჯართისგან, ჰაკერებისა და ინტერნეტმეთვალყურეებისგან.
        *[other] ყველა მიიღებს { $mask_limit } ელფოსტის ნიღაბს უფასოდ. მაგრამ { -brand-name-relay-premium }-ით შეგიძლიათ იმდენი ნიღბის შექმნა, რამდენიც დაგჭირდებათ ელფოსტის საფოსტო ყუთის დაცვისთვის ჯართისგან, ჰაკერებისა და ინტერნეტმეთვალყურეებისგან.
     }
-highlighted-features-section-masks-on-the-go-headline = მყისიერად შექმენით ნიღბები გზაში
+highlighted-features-section-masks-on-the-go-headline = მყისიერად შექმენით ნიღბები გზადაგზა
 # Variables:
 #   $mozmail (string): domain used by Relay masks (mozmail.com)
-highlighted-features-section-masks-on-the-go-body = { -brand-name-relay-premium } გაძლევთ უნიკალურ { -brand-name-relay } ელფოსტის დომენს, ასე რომ თქვენ შეგიძლიათ მყისიერად შექმნათ ახალი ნიღბები სადაც არ უნდა იყოთ. უბრალოდ დაამატეთ ნებისმიერი სიტყვა ან ფრაზა @ სიმბოლოს წინ. რესტორანში? გამოიყენეთ restore@yourdomain.{ $mozmail }. საყიდლები? სცადეთ shop@yourdomain.{ $mozmail }.
+highlighted-features-section-masks-on-the-go-body = { -brand-name-relay-premium } გაძლევთ { -brand-name-relay }-ელფოსტის უნიკალურ დომენს, ასე რომ შეგიძლიათ მყისიერად შექმნათ ახალი ნიღბები, სადაც არ უნდა იყოთ. მხოლოდ დაამატეთ ნებისმიერი სიტყვა ან ფრაზა @-სიმბოლოს წინ. რესტორანში? გამოიყენეთ restaurant@yourdomain.{ $mozmail }. საყიდლებზე? სცადეთ shop@yourdomain.{ $mozmail }.
 highlighted-features-section-replying-headline = უპასუხეთ ელფოსტას და ტექსტს ანონიმურად
 highlighted-features-section-replying-body = { -brand-name-relay-premium } საშუალებას გაძლევთ უპასუხოთ წერილებს თქვენი შენიღბული ელფოსტის ანგარიშიდან, ასე რომ გამომგზავნი ვერასდროს გაიგებს თქვენს ნამდვილ მისამართს. ტელეფონის შენიღბვით, შეგიძლიათ უპასუხოთ შეტყობინებას თქვენი შენიღბული ტელეფონის ნომრიდან, ნამდვილი ნომრის დასაცავად.
 highlighted-features-section-block-promotions-headline = სარეკლამო წერილების შეზღუდვა
 highlighted-features-section-block-promotions-body = { -brand-name-relay-premium }-ით, შეგიძლიათ შეზღუდოთ სარეკლამო წერილებისთვის თქვენს საფოსტო ყუთთან წვდომა, მაგრამ მაინც მიიღოთ წერილები, ქვითრები და მიწოდების შესახებ ინფორმაცია.
 highlighted-features-section-remove-trackers-headline = ელფოსტის მეთვალყურეების მოცილება
-highlighted-features-section-remove-trackers-body = { -brand-name-relay }-ს შეუძლია თქვენთვის გადაგზავნილი წერილებიდან ჩვეულებრივი ელფოსტის მეთვალყურეების მოცილება, რაც დაგეხმარებათ, დარჩეთ უხილავი მეთვალყურეებისა და რეკლამის განმთავსებლებისთვის.
+highlighted-features-section-remove-trackers-body = { -brand-name-relay }-ს შეუძლია თქვენთვის გადაგზავნილი წერილებიდან ელფოსტის ცნობილი მეთვალყურეების მოცილება, რაც დაგეხმარებათ, დარჩეთ უხილავი მეთვალყურეებისა და რეკლამის განმთავსებლებისთვის.
