@@ -19,7 +19,7 @@ plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } იცავს თქ
 # Variables:
 #   $savings (string) - the percentage saved (including % symbol) for a given plan. Examples: 50%, 70%
 plan-matrix-heading-features = შესაძლებლობები
-plan-matrix-heading-plan-free = ელფოსტის დაცვა შეზღუდულია
+plan-matrix-heading-plan-free = ელფოსტის შეზღუდული დაცვა
 plan-matrix-heading-plan-premium = ელფოსტის დაცვა
 plan-matrix-heading-plan-phones = ელფოსტისა და ტელეფონის დაცვა
 plan-matrix-heading-plan-bundle-v2 = დაამატეთ VPN-დაცვა
@@ -28,7 +28,7 @@ plan-matrix-heading-plan-bundle-v2 = დაამატეთ VPN-დაცვ�
 
 plan-matrix-feature-email-masks = ელფოსტის ნიღბები თქვენი ნამდვილი ელფოსტის დასაცავად
 plan-matrix-feature-browser-extension = ბრაუზერის გაფართოება { -brand-name-relay }-ის გამოსაყენებლად ნებისმიერ საიტზე
-plan-matrix-feature-email-tracker-removal = მოაცილეთ ელფოსტის მეთვალყურეები
+plan-matrix-feature-email-tracker-removal = ელფოსტის მეთვალყურეების მოცილება
 plan-matrix-feature-promo-email-blocking = შეზღუდეთ სარეკლამო წერილები
 plan-matrix-feature-email-subdomain = { -brand-name-relay }-ის ელფოსტის დომენი მუდმივი ნიღბების შესაქმნელად
 plan-matrix-feature-email-reply = უპასუხეთ წერილებს ანონიმურად
@@ -39,7 +39,7 @@ plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 plan-matrix-feature-mobile-email-masks = ელფოსტის ნიღბები
 plan-matrix-feature-mobile-browser-extension = ბრაუზერის გაფართოება
-plan-matrix-feature-mobile-email-tracker-removal = მოაცილეთ ელფოსტის მეთვალყურეები
+plan-matrix-feature-mobile-email-tracker-removal = ელფოსტის მეთვალყურეების მოცილება
 plan-matrix-feature-mobile-promo-email-blocking = შეზღუდეთ სარეკლამო წერილები
 plan-matrix-feature-mobile-email-subdomain = { -brand-name-relay }-ის უნიკალური ელფოსტის დომენი
 plan-matrix-feature-mobile-email-reply = უპასუხეთ წერილებს ანონიმურად

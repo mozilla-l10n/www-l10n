@@ -27,5 +27,5 @@ highlighted-features-section-replying-headline = უპასუხეთ ელ
 highlighted-features-section-replying-body = { -brand-name-relay-premium } საშუალებას გაძლევთ უპასუხოთ წერილებს თქვენი შენიღბული ელფოსტის ანგარიშიდან, ასე რომ გამომგზავნი ვერასდროს გაიგებს თქვენს ნამდვილ მისამართს. ტელეფონის შენიღბვით, შეგიძლიათ უპასუხოთ შეტყობინებას თქვენი შენიღბული ტელეფონის ნომრიდან, ნამდვილი ნომრის დასაცავად.
 highlighted-features-section-block-promotions-headline = შეზღუდეთ სარეკლამო წერილები
 highlighted-features-section-block-promotions-body = { -brand-name-relay-premium }-ით, შეგიძლიათ შეზღუდოთ სარეკლამო წერილებისთვის თქვენს საფოსტო ყუთთან წვდომა, მაგრამ მაინც მიიღოთ წერილები, ქვითრები და მიწოდების შესახებ ინფორმაცია.
-highlighted-features-section-remove-trackers-headline = მოაცილეთ ელფოსტის მეთვალყურეები
+highlighted-features-section-remove-trackers-headline = ელფოსტის მეთვალყურეების მოცილება
 highlighted-features-section-remove-trackers-body = { -brand-name-relay }-ს შეუძლია თქვენთვის გადაგზავნილი წერილებიდან ჩვეულებრივი ელფოსტის მეთვალყურეების მოცილება, რაც დაგეხმარებათ, დარჩეთ უხილავი მეთვალყურეებისა და რეკლამის განმთავსებლებისთვის.
