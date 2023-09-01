@@ -21,8 +21,11 @@ home-product-relay-masks = Kullanımı kolay e-posta ve telefon maskeleri
 home-cta-get-relay = { -brand-name-relay }’i deneyin
 home-product-vpn-trust = Güvenebileceğiniz bir VPN
 home-cta-get-vpn = { -brand-name-mozilla-vpn }’i edinin
+home-mozilla-takes-bets = “{ -brand-name-mozilla }, güvenilir yapay zekâ ile de iş yapılabileceğini dünyaya göstermekle kararlı. Bu amaçla, bu karmaşık sistemlerin işleyişinin merkezine insan hakları, veri gizliliği ve şeffaflık gibi konuları koymak istiyor.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-is-mozilla-a-corporation = { -brand-name-mozilla } şirket mi yoksa kâr amacı gütmeyen bir kuruluş mu? Aslında ikisi de.
+home-mozilla-consists-of = { -brand-name-mozilla } iki kuruluştan oluşuyor. Ticari işletmemiz { -brand-name-mozilla-corporation }’ın tamamı kâr amacı gütmeyen { -brand-name-mozilla-foundation }’a ait. Yani hiçbir hissedarımız yok ve bizi bağlayan tek şey misyonumuz.
 home-learn-about-mofo = { -brand-name-mozilla-foundation } hakkında bilgi alın
 home-join-the-fight = Sağlıklı bir internet için verdiğimiz mücadeleye katılın
 home-your-voice-your-code = Sesinizle, kodunuzla, fikirlerinizle… { -brand-name-mozilla }’ya katkıda bulunmanızın pek çok yolu var.
