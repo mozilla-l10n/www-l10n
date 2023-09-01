@@ -22,7 +22,7 @@ hero-section-social-proof = როგორც ჩანს:
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = როგორ მუშაობს { -brand-name-relay }, ელფოსტისა და ტელეფონის შენიღბვა
-how-it-works-section-extension-headline = გამოიყენეთ { -brand-name-relay } ყველგან
+how-it-works-section-extension-headline = გამოიყენეთ { -brand-name-relay } ელფოსტისა და ტელეფონის შესანიღბად ყველგან
 how-it-works-section-extension-body = მიიღეთ ელფოსტის უსაფრთხო, შემთხვევითი ნიღბები და ტელეფონის უნიკალური, შენიღბული ნომერი, ვებსაიტის, აპლიკაციის, მაღაზიის ან რესტორნის მიერ ინფორმაციის მიწოდების დროს ნებისმიერ დროს.
 how-it-works-section-forward-headline = ჩვენ გადაგიგზავნით ელფოსტაზე, სატელეფონო ზარებსა და ტექსტებს
 how-it-works-section-forward-body = დარწმუნებული იყავით, გამომგზავნიები ვერასდროს გაიგებენ თქვენს ნამდვილ ელფოსტის მისამართს და არც ნამდვილ ნომერს. თქვენ შეგიძლიათ უპასუხოთ ტექსტებსა და წერილებსაც, თქვენი ვინაობის გაზიარების გარეშე.
