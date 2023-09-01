@@ -61,7 +61,7 @@ faq-question-8-question = { -brand-name-firefox-relay } 会收集哪些数据？
 # Variables:
 #   $url (url) - https://www.mozilla.org/privacy/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
-faq-question-8-answer-3-html = { -brand-name-firefox-relay } 收集您使用过电子邮件马甲的网站，并用这些网站标记您的马甲，以便您轻松识别它们。您可以在“设置”页面的“隐私”下选择退出此功能。但请注意，关闭该设置意味着您将无法看到每个马甲的使用情况，并且您的帐户名称将不再在设备之间同步。您可以在我们的<a href="{ $url }" { $attrs }>隐私声明</a>中了解有关 { -brand-name-firefox-relay } 收集的数据的更多信息。
+faq-question-8-answer-3-html = { -brand-name-firefox-relay } 收集您使用过电子邮件马甲的网站，并用这些网站标记您的马甲，以便您轻松识别它们。您可以在“设置”页面的“隐私”下选择退出此功能。但请注意，关闭该设置意味着您将无法看到每个马甲的使用情况，并且您的账户名称将不再在设备之间同步。您可以在我们的<a href="{ $url }" { $attrs }>隐私声明</a>中了解有关 { -brand-name-firefox-relay } 收集的数据的更多信息。
 faq-question-email-storage-question = { -brand-name-relay } 会存储我的邮件吗？
 faq-question-email-storage-answer = 在服务中断的罕见情况下，我们会暂存收到的邮件直到转发成功，但不会超过三天。
 faq-question-acceptable-use-question = { -brand-name-relay } 的可接受用途有哪些？
