@@ -8,16 +8,16 @@
 
 ## HIGHLIGHTED FEATURES SECTION
 
-highlighted-features-section-title = დაცული, მარტივი შესაძლებლობები, თქვენი ვინაობის დასაცავად
+highlighted-features-section-title = უსაფრთხო, მარტივი შესაძლებლობები თქვენი ვინაობის დასაცავად
 highlighted-features-section-bottom-title = დაიცავით თქვენი ვინაობა (და საფოსტო ყუთი) { -brand-name-firefox-relay }-ით
 highlighted-features-section-bottom-cta = დაიწყეთ
-highlighted-features-section-unlimited-masks-headline = შექმენით ელფოსტის შეუზღუდავი ნიღბები
+highlighted-features-section-unlimited-masks-headline = შექმენით ელფოსტის ნიღბები შეუზღუდავად
 # Variables:
 #   $mask_limit (number) - the number of masks included with a particular plan
 highlighted-features-section-unlimited-masks-body-v2 =
     { $mask_limit ->
-        [one] ყველა მიიღებს { $mask_limit } ელფოსტის ნიღაბს უფასოდ. მაგრამ { -brand-name-relay-premium }-ით, შეგიძლიათ იმდენი ნიღბის შექმნა, რამდენიც დაგჭირდებათ, ელფოსტის საფოსტო ყუთის დაცვაში სპამისგან, ჰაკერებისა და ინტერნეტმეთვალყურეებისგან.
-       *[other] ყველა მიიღებს { $mask_limit } ელფოსტის ნიღაბს უფასოდ. მაგრამ { -brand-name-relay-premium }-ით, შეგიძლიათ იმდენი ნიღბის შექმნა, რამდენიც დაგჭირდებათ, ელფოსტის საფოსტო ყუთის დაცვაში სპამისგან, ჰაკერებისა და ინტერნეტმეთვალყურეებისგან.
+        [one] ყველა მიიღებს { $mask_limit } ელფოსტის ნიღაბს უფასოდ. მაგრამ { -brand-name-relay-premium }-ით შეგიძლიათ იმდენი ნიღბის შექმნა, რამდენიც დაგჭირდებათ ელფოსტის საფოსტო ყუთის დაცვისთვის ჯართისგან, ჰაკერებისა და ინტერნეტმეთვალყურეებისგან.
+       *[other] ყველა მიიღებს { $mask_limit } ელფოსტის ნიღაბს უფასოდ. მაგრამ { -brand-name-relay-premium }-ით შეგიძლიათ იმდენი ნიღბის შექმნა, რამდენიც დაგჭირდებათ ელფოსტის საფოსტო ყუთის დაცვისთვის ჯართისგან, ჰაკერებისა და ინტერნეტმეთვალყურეებისგან.
     }
 highlighted-features-section-masks-on-the-go-headline = მყისიერად შექმენით ნიღბები გზაში
 # Variables:
