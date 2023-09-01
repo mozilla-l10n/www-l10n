@@ -20,8 +20,8 @@ bundle-banner-cta = გამოიყენეთ { -brand-name-mozilla-vpn } +
 #   $num_vpn_servers (string) - the number of VPN servers. Examples: 400, 500, 600
 bundle-feature-more-than-servers =
     { $num_vpn_servers ->
-        [one] მეტი { $num_vpn_servers } სერვერი
-       *[other] მეტი { $num_vpn_servers } სერვერი
+        [one] { $num_vpn_servers }-ზე მეტი სერვერი
+       *[other] { $num_vpn_servers }-ზე მეტი სერვერი
     }
 # Variables:
 #   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
