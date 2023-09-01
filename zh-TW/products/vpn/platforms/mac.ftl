@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-mac-page-title = { -brand-name-mozilla-vpn } for { -brand-name-mac-short }
+vpn-mac-page-description = 不論是在 { -brand-name-mac-short } 桌機、筆電、{ -brand-name-ipad } 或 { -brand-name-iphone } 上，都可透過自 1998 年起就成為網際網路安全性的先鋒 { -brand-name-mozilla } 提供的 VPN 服務，保護您的整台裝置不被駭客攻擊與窺探。
 # Mac strings
 vpn-mac-hero-headline = 使用 { -brand-name-mozilla-vpn } for { -brand-name-mac-short } 保護您的網路連線
 vpn-mac-ability = 不論是商務或閒適的上網體驗都應該能確保您上網時的安全。 { -brand-name-mozilla-vpn } 保護您的網路連線不受想要收集您資料的駭客或網路業者的影響幫助您更聰明地使用公共 Wi-Fi。 { -brand-name-mac-short } 及 { -brand-name-ios } (以及 { -brand-name-windows } 10、{ -brand-name-linux } 即可點擊隱私保護及 { -brand-name-android }) 且不會影響上網速度。而且由於這是 { -brand-name-mozilla } 推出的使用 { -brand-name-wireguard }® 通訊協定的 VPN您可以相信您的上網行為不會被記錄 — 永遠由您自己掌握。

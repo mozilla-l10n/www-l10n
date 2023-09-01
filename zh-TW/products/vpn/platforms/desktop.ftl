@@ -29,6 +29,7 @@ vpn-desktop-servers-copy = 從巴西瀏覽。日本的遊戲。從墨西哥直�
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = 同時保護最多 { $devices } 台裝置連線
+vpn-desktop-devices-copy = 您的訂閱內容讓您可在智慧型手機、平板電腦、桌上型電腦當中的 { -brand-name-ios }、{ -brand-name-android }、{ -brand-name-mac-short }、{ -brand-name-windows } 以及 { -brand-name-linux } 等平台無限量存取我們安全的 VPN 服務。
 vpn-desktop-speed-headline = 高速連線不受限
 vpn-desktop-speed-copy = 以閃電般的速度播放影片、玩遊戲、購物和瀏覽。 { -brand-name-mozilla-vpn } 不會限制您的頻寬或減慢您的智慧型手機的速度。
 vpn-desktop-log-headline = 將您的隱私擺在第一位
