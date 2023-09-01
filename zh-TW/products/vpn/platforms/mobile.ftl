@@ -28,6 +28,7 @@ vpn-mobile-servers-copy = 從巴西瀏覽。日本的遊戲。從澳大利亞直
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = 同時保護最多 { $devices } 台裝置連線
+vpn-mobile-devices-copy = 您的訂閱內容讓您可在智慧型手機、平板電腦、桌上型電腦當中的 { -brand-name-ios }、{ -brand-name-android }、{ -brand-name-mac-short }、{ -brand-name-windows } 以及 { -brand-name-linux } 等平台無限量存取我們安全的 VPN 服務。
 vpn-mobile-speed-headline = 高速連線不受限
 vpn-mobile-speed-copy = 以閃電般的速度播放影片、玩遊戲、購物和瀏覽。 { -brand-name-mozilla-vpn } 不會限制您的頻寬或減慢您的智慧型手機的速度。
 vpn-mobile-log-headline = 將您的隱私擺在第一位
