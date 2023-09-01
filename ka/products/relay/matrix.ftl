@@ -12,7 +12,7 @@ plan-matrix-title = ფასები
 plan-matrix-offer-title = აირჩიეთ უსაფრთხოების დონე, რომელიც თქვენთვისაა შესაფერისი
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } იცავს თქვენს ვინაობასა და საფოსტო ყუთს, უნიკალური ნიღბებით. კიდევ უფრო მეტად გაზარდეთ უსაფრთხოება { -brand-name-relay }-ის ტელეფონის შენიღბვით და დაზოგეთ { $savings }% { -brand-name-mozilla-vpn }-დაცვით.
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } იცავს თქვენს ვინაობასა და საფოსტო ყუთს უნიკალური ნიღბებით. კიდევ უფრო მეტად გაზარდეთ უსაფრთხოება { -brand-name-relay }-ის ტელეფონის შენიღბვით და დაზოგეთ { $savings }% { -brand-name-mozilla-vpn }-დაცვასთან ერთად.
 
 ## Top Row Labels
 
