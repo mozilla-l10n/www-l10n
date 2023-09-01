@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+vpn-mobile-get-a-vpn = { -brand-name-mozilla }’dan mobil cihazlar için VPN
 vpn-mobile-vpn-for-mobile = { -brand-name-mozilla }’dan mobil cihazlar için VPN
 vpn-mobile-why-do-i = Mobil cihazlarımda neden VPN’e ihtiyacım olsun?
 # Obsolete string

@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
 
+vpn-mac-get-a-vpn = { -brand-name-mozilla }’dan macOS için VPN
 vpn-mac-protect-your-mac = { -brand-name-mozilla-vpn } ile Mac’inizi koruyun
 vpn-mac-with-mozilla-vpn = { -brand-name-mozilla-vpn } ile şunları yapabilirsiniz:
 vpn-mac-get-one-click = Basit ve kullanıcı dostu bir arayüzle tek tıkla gizlilik elde edin.

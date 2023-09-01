@@ -61,5 +61,7 @@ plan-matrix-price-vpn-discount-promo-v2 = Normal VPN fiyatından <span>%{ $savin
 
 ## Plan CTAs
 
+plan-matrix-upgrade = Yükselt
+plan-matrix-sign-up = Kaydolun
 plan-matrix-get-relay-cta = { -brand-name-relay }’i edinin
 plan-matrix-join-waitlist = Bekleme listesine katılın

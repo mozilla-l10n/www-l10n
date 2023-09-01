@@ -11,3 +11,4 @@ relay-shared-subnav-title = { -brand-name-firefox-relay }
 relay-shared-subnav-premium = { -brand-name-relay-premium }
 relay-shared-subnav-faq = { -brand-name-relay } SSS
 nav-profile-sign-in = Giriş yap
+hero-section-cta = Kullanmaya başlayın

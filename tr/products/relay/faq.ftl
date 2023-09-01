@@ -19,6 +19,7 @@ faq-question-missing-emails-answer-reason-blocked-2 = E-posta sağlayıcınızı
 faq-question-missing-emails-answer-reason-size = İletilen e-postanın { $size } MB’den büyük bir ekinin olması
 faq-question-missing-emails-answer-reason-not-accepted-2 = Sitenin e-posta maskelerini kabul etmemesi
 faq-question-missing-emails-answer-reason-turned-off-2 = Maske iletmenin kapalı olması
+faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } iletilerinizin iletilmesinin normalden uzun sürmesi
 #   $url (url) - link to the support site
 #   $attrs (string) - specific attributes added to external links
 faq-question-missing-emails-answer-support-site-html = Bu sorunlardan herhangi birini yaşıyorsanız lütfen <a href="{ $url }" { $attrs }>destek sitemizi ziyaret edin</a>.
@@ -39,6 +40,7 @@ faq-question-unsubscribe-domain-question-2 = { -brand-name-relay-premium } abone
 faq-question-8-question = { -brand-name-firefox-relay } hangi verileri topluyor?
 faq-question-email-storage-question = { -brand-name-relay } e-postalarımı saklıyor mu?
 faq-question-email-storage-answer = Hizmetin çalışmadığı ender durumlarda e-postalarınızı gönderene kadar geçici olarak saklayabiliriz. E-postalarınızı asla üç günden fazla saklamayız.
+faq-question-acceptable-use-question = { -brand-name-relay }’in kabul edilebilir kullanım alanları nelerdir?
 faq-question-acceptable-use-answer-measure-account = Doğrulanmış bir e-posta adresine sahip bir { -brand-name-firefox-account } gereklidir
 
 ## Frequently Asked Questions about Phone plans

@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 vpn-desktop-vpn-for-pc = { -brand-name-mozilla }’dan bilgisayarlar için VPN
+vpn-desktop-how-does-a = VPN bilgisayarımı nasıl korur?
