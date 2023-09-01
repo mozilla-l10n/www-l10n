@@ -30,8 +30,13 @@ home-learn-about-mofo = { -brand-name-mozilla-foundation } hakkında bilgi alın
 home-join-the-fight = Sağlıklı bir internet için verdiğimiz mücadeleye katılın
 home-your-voice-your-code = Sesinizle, kodunuzla, fikirlerinizle… { -brand-name-mozilla }’ya katkıda bulunmanızın pek çok yolu var.
 home-volunteer-with-mozilla = { -brand-name-mozilla } gönüllüsü olun
+home-that-one-time = Bir keresinde kaynak kodlarımızı tüm dünyaya açmıştık…
+home-the-mozilla-project = 1998 yılında insanların interneti nasıl kullanacağını hemen hemen tekel konumundaki bir şirket belirliyordu. Bu şartlar altında, San Francisco merkezli rakip { -brand-name-netscape } tarayıcısı radikal bir karar kaldı: Program kodlarını halka açacak, böylece herkes programı geliştirebilecek ve onu temel alan başka şeyler inşa edebilecekti. Böylece  { -brand-name-mozilla } projesi doğdu.
+home-eventually-the-open = Açık kaynaklı { -brand-name-mozilla } projesi zaman içinde { -brand-name-firefox }’un ilk sürümüne dönüştü ve son derece popüler hale geldi.
+home-today-mozilla-continues = Günümüzde { -brand-name-mozilla }, dünya çapındaki milyonlarca aktif gönüllüsüyle daha iyi bir internete öncülük ediyor; etik teknolojileri ve güvenilir yapay zekâyı savunuyor; insanlara daha fazla güç veren, gizliliği ön planda tutan ürünler geliştiriyor.
 home-learn-more-about-mozilla = { -brand-name-mozilla } hakkında bilgi alın
 home-get-good-news = { -brand-name-mozilla } haberlerini alın
+home-get-news-and-tips = İnternette güvende kalmak ve web’i daha sağlıklı bir yer haline getiren her konuda bilgi sahibi olmak için { -brand-name-mozilla }’dan haberler ve ipuçları alın.
 # VPN Feature
 home-featured-product = Mutlaka deneyin
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
