@@ -31,6 +31,7 @@ compare-edge-in-firefox-private-browsing = 於 { -brand-name-firefox } 關閉瀏
 compare-edge-both-browsers-are-relatively = 兩套瀏覽器的資料加密功能相當相同。但若您很看重線上隱私權與透明度那麼 { -brand-name-firefox } 顯然是個更好的選擇。
 compare-edge-firefox-is-a-fast-and-open = { -brand-name-firefox } 是一套快速且開放原始碼的瀏覽器，讓使用者能透過各種可能的方式來自訂上網體驗。{ -brand-name-firefox } 還讓一般使用者能透過幾種不同方式來套用各種佈景主題或工具列設定，來自訂介面。由於我們的瀏覽器一直開放原始碼，有大量支持我們的開發者，打造了滿滿的附加元件與擴充套件。
 compare-edge-firefox-is-a-fast-and-open-fallback = { -brand-name-firefox } 是一套快速且開放原始碼的瀏覽器，讓使用者能透過各種可能的方式來自訂上網體驗。{ -brand-name-firefox } 還讓一般使用者能透過幾種不同方式來套用各種佈景主題或工具列設定，來自訂介面。由於我們的瀏覽器一直開放原始碼，有大量支持我們的開發者，打造了滿滿的附加元件與擴充套件。
+compare-edge-since-edge-has-moved-to-the = 由於 { -brand-name-edge } 已改為占用處理器資源較多的 { -brand-name-chromium } 平台，您可以預期使用時會跑得更慢，尤其是電腦中同時執行多套軟體時。但 { -brand-name-chromium } 平台也帶來了大量的擴充套件，以及 { -brand-name-edge } 移至 { -brand-name-chromium } 平台前所沒有的豐富使用者介面客製功能。
 compare-edge-edge-has-some-nice-ui-features = { -brand-name-edge } 有一些很棒的介面功能像是預覽功能讓您可以很簡單就能找到已經開啟的分頁當中的許多分頁。另一個分頁相關功能是讓您可以將所有沒有使用但又不想關閉的分頁放到一邊。
 # Variables:
 #   $attrs (string) - link to /firefox/pocket/ with additional attributes for analytics
@@ -42,6 +43,7 @@ compare-edge-firefox-and-edge-both-offer-fallback = { -brand-name-firefox } 與 
 compare-edge-firefox-also-includes-lots = { -brand-name-firefox } 也包含許多好用的內建功能，例如<a { $attrs }>加強型追蹤保護</a>、畫面擷圖工具、大檔案傳送功能等等。
 # "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
 compare-edge-out-of-the-gate-firefox-has = 一開始{ -brand-name-firefox } 就內建了更多瀏覽器內的下載功能。雖然兩套瀏覽器都有大量可用的附加元件與擴充套件{ -brand-name-edge } 仍與 { -brand-name-google } 的 { -brand-name-chromium } 平台相容於有數量上的絕對優勢。
+compare-edge-with-internet-explorer-microsoft = { -brand-name-microsoft } 吸取了 { -brand-name-ie } 未於不同平台推出的教訓，直接於 { -brand-name-ios }、{ -brand-name-android }、{ -brand-name-windows }、{ -brand-name-mac } 等平台一同推出 { -brand-name-edge }（{ -brand-name-linux } 即將推出）。
 compare-edge-edge-also-allows-you-to-connect = { -brand-name-edge } 也讓您可以連線關聯的 { -brand-name-microsoft } 帳號並登入以在您的電腦與 { -brand-name-ios } 之間同步最愛、瀏覽紀錄、密碼等資訊或 { -brand-name-android } 裝置。
 compare-edge-edge-also-allows-you-to-fallback = { -brand-name-edge } 也讓您可以連線關聯的 { -brand-name-microsoft } 帳號並登入以在您的電腦與 { -brand-name-ios } 之間同步最愛、瀏覽紀錄、密碼等資訊或 { -brand-name-android } 裝置但目前不支援某些 { -brand-name-android } 平板電腦。
 # Variables:
