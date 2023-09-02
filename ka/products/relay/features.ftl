@@ -23,7 +23,7 @@ highlighted-features-section-masks-on-the-go-headline = მყისიერა
 # Variables:
 #   $mozmail (string): domain used by Relay masks (mozmail.com)
 highlighted-features-section-masks-on-the-go-body = { -brand-name-relay-premium } გაძლევთ { -brand-name-relay }-ელფოსტის უნიკალურ დომენს, ასე რომ შეგიძლიათ მყისიერად შექმნათ ახალი ნიღბები, სადაც არ უნდა იყოთ. მხოლოდ დაამატეთ ნებისმიერი სიტყვა ან ფრაზა @-სიმბოლოს წინ. რესტორანში? გამოიყენეთ restaurant@yourdomain.{ $mozmail }. საყიდლებზე? სცადეთ shop@yourdomain.{ $mozmail }.
-highlighted-features-section-replying-headline = უპასუხეთ ელფოსტას და ტექსტს ანონიმურად
+highlighted-features-section-replying-headline = უპასუხეთ ელფოსტასა და შეტყობინებებს ვინაობის გაუმხელად
 highlighted-features-section-replying-body = { -brand-name-relay-premium } საშუალებას გაძლევთ უპასუხოთ წერილებს თქვენი შენიღბული ელფოსტის ანგარიშიდან, ასე რომ გამომგზავნი ვერასდროს გაიგებს თქვენს ნამდვილ მისამართს. ტელეფონის შენიღბვით, შეგიძლიათ უპასუხოთ შეტყობინებას თქვენი შენიღბული ტელეფონის ნომრიდან, ნამდვილი ნომრის დასაცავად.
 highlighted-features-section-block-promotions-headline = სარეკლამო წერილების შეზღუდვა
 highlighted-features-section-block-promotions-body = { -brand-name-relay-premium }-ით, შეგიძლიათ შეზღუდოთ სარეკლამო წერილებისთვის თქვენს საფოსტო ყუთთან წვდომა, მაგრამ მაინც მიიღოთ წერილები, ქვითრები და მიწოდების შესახებ ინფორმაცია.

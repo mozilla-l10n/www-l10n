@@ -17,7 +17,7 @@ hero-section-body =
     საფოსტო ყუთში მხოლოდ სასურველი წერილების მისაღებად.
 # Context: This lists the various websites and magazines who have mentioned Firefox Relay.
 # Example: "As seen in: FORBES magainze and LifeHacker"
-hero-section-social-proof = როგორც ჩანს:
+hero-section-social-proof = როგორც აღნიშნავს:
 
 ## HOW IT WORKS SECTION
 
