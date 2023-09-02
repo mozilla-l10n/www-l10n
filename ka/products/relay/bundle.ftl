@@ -10,7 +10,7 @@
 bundle-banner-header-2 = მხოლოდ შეზღუდული დროით: { -brand-name-relay-premium } + { -brand-name-mozilla-vpn } { $monthly_price }/თვეში
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-bundle-banner-body-v2 = { -brand-name-mozilla-vpn } გიცავთ თვალთვალისა და მეთვალყურეობისგან, თამაშების, ინტერნეტბანკის ან საქმის შესრულებისას. დაამატეთ { -brand-name-firefox-relay }-ს { $savings }%-იანი ფასდაკლებით.
+bundle-banner-body-v2 = { -brand-name-mozilla-vpn } გიცავთ თვალთვალისა და მეთვალყურეობისგან თამაშისას, ინტერნეტბანკით სარგებლობისას ან სხვა საქმიანობისას. დაამატეთ { -brand-name-firefox-relay }-ს { $savings }%-იანი ფასდაკლებით.
 bundle-banner-plan-header-2 = თქვენი 1-წლიანი გეგმა მოიცავს:
 bundle-banner-plan-modules-email-masking = ელფოსტის შენიღბვა
 bundle-banner-plan-modules-phone-masking = ტელეფონის შენიღბვა
