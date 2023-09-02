@@ -36,6 +36,9 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } 會封�
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = 如同之前提到的追踪行為在錯誤資訊的傳播當中扮演了重要角色。 <a href="{ $firefox }">使用 { -brand-name-firefox }</a> 與<a href="{ $protection }">追踪保護加強</a>可幫助封鎖第三方追踪器上網時預設不會被許多廣告商與其他玩家騷擾讓您拿回對自己線上資料的控制權。
 misinformation-social-media-clean-heading = { -brand-name-firefox } 會幫助讓您的社群網路河道保持乾淨：
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = 社群網路非常了解您。就算您不註冊帳號使用，還是可以透過平台外的「分享」與「讚」按鈕來追蹤您，不受追蹤保護的影響。<a href="{ $container }">{ -brand-name-facebook-container }</a> for { -brand-name-firefox } 可讓 { -brand-name-facebook } 及 { -brand-name-instagram } 沒那麼簡單就能追蹤到您，大幅降低在廣告或贊助內容當中看到錯誤資訊的機會。
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } 會幫助您閱讀值得閱讀的內容：
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
