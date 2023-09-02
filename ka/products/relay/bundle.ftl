@@ -7,7 +7,7 @@
 
 # Variables:
 #   $monthly_price (string) - the monthly cost (including currency symbol) for a given plan. Examples: $0.99, 0,99 €
-bundle-banner-header-2 = მხოლოდ შეზღუდული დრო: { -brand-name-relay-premium } + { -brand-name-mozilla-vpn } { $monthly_price }/თვეში
+bundle-banner-header-2 = მხოლოდ შეზღუდული დროით: { -brand-name-relay-premium } + { -brand-name-mozilla-vpn } { $monthly_price }/თვეში
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
 bundle-banner-body-v2 = { -brand-name-mozilla-vpn } გიცავთ თვალთვალისა და მეთვალყურეობისგან, თამაშების, ინტერნეტბანკის ან საქმის შესრულებისას. დაამატეთ { -brand-name-firefox-relay }-ს { $savings }%-იანი ფასდაკლებით.
@@ -16,6 +16,9 @@ bundle-banner-plan-modules-email-masking = ელფოსტის შენი
 bundle-banner-plan-modules-phone-masking = ტელეფონის შენიღბვა
 bundle-banner-plan-modules-mozilla-vpn = { -brand-name-mozilla-vpn }
 bundle-banner-cta = გამოიყენეთ { -brand-name-mozilla-vpn } + { -brand-name-relay }
+# Variables:
+#   $days_guarantee (string) - the number of days for money-back guarantee. Examples: 30, 90
+bundle-banner-money-back-guarantee-2 = { $days_guarantee }-დღიანი ვადა თანხის დასაბრუნებლად პირველი გამოწერისას
 # Variables:
 #   $num_vpn_servers (string) - the number of VPN servers. Examples: 400, 500, 600
 bundle-feature-more-than-servers =
