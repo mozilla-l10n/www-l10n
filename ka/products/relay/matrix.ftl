@@ -50,8 +50,8 @@ plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 plan-matrix-heading-price = ფასი
 plan-matrix-feature-count-unlimited = შეუზღუდავი
-plan-matrix-feature-included = მოყვება
-plan-matrix-feature-not-included = არ მოყვება
+plan-matrix-feature-included = მოჰყვება
+plan-matrix-feature-not-included = არ მოჰყვება
 plan-matrix-price-free = უფასო
 
 ## Plan Price
