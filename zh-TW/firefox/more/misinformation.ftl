@@ -34,7 +34,7 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } 會封�
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
-misinformation-firefox-keeps-trackers-desc = 如同之前提到的追踪行為在錯誤資訊的傳播當中扮演了重要角色。 <a href="{ $firefox }">使用 { -brand-name-firefox }</a> 與<a href="{ $protection }">追踪保護加強</a>可幫助封鎖第三方追踪器上網時預設不會被許多廣告商與其他玩家騷擾讓您拿回對自己線上資料的控制權。
+misinformation-firefox-keeps-trackers-desc = 如同先前提到的，追蹤行為在錯誤資訊的傳播當中扮演了重要角色。<a href="{ $firefox }">使用 { -brand-name-firefox }</a> 當中的<a href="{ $protection }">加強型追蹤保護</a>功能，可預設直接封鎖許多廣告商與其他業者的第三方追蹤器，讓您拿回對自己的線上資料的控制權。
 misinformation-social-media-clean-heading = { -brand-name-firefox } 會幫助讓您的社群網路河道保持乾淨：
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
