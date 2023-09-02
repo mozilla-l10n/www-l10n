@@ -23,6 +23,10 @@ what-is-a-browser-sadly-not-all = 很可惜不是所有的瀏覽器製造商都�
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = 網頁瀏覽器自網路連線的伺服器取得資料時會使用一套稱為「繪圖引擎」的軟體將資料翻譯成文字與圖片。這些資料是使用 <a href="{ $html }">超文字標記語言</a> (HTML) 寫成讓網頁瀏覽器讀取這段程式碼就可以在網路上看到、聽到、體驗到什麼。
+# Variables:
+#   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
+#   $url(url) - link to https://wikipedia.org/wiki/URL
+what-is-a-browser-hyperlinks-allow = <a href="{ $yperlink }">超鏈結</a>讓使用者可以循路前往網路上的其他網頁或網站。每張網頁、圖片、影片都有專屬的<a href="{ $url }">網址</a>（Uniform Resource Locator）。當瀏覽器造訪伺服器取得資料時，瀏覽器可依循網址找到 HTML 檔案中的所有內容。
 what-is-a-browser-cookies-not-the = Cookie（不是好吃的那種餅乾）
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
