@@ -65,11 +65,11 @@ plan-matrix-price-period-yearly-footnote-1 = ანგარიშსწორ�
 plan-matrix-price-period-monthly-footnote-1 = ანგარიშდება ყოველთვიურად
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-price-vpn-discount-promo-v2 = <span>დაზოგეთ { $savings }%</span> ჩვეულებრივ VPN-ის ფასად
+plan-matrix-price-vpn-discount-promo-v2 = <span>დაზოგეთ { $savings }%</span> VPN-ის ღირებულებიდან
 
 ## Plan CTAs
 
-plan-matrix-upgrade = განახლება
+plan-matrix-upgrade = გადასვლა
 plan-matrix-sign-up = ანგარიშის შექმნა
 plan-matrix-get-relay-cta = გამოცადეთ { -brand-name-relay }
 plan-matrix-join-waitlist = შეუერთდით მსურველებს

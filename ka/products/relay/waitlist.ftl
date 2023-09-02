@@ -8,9 +8,9 @@
 waitlist-premium-name = { -brand-name-relay-premium }
 waitlist-bundle-name = { -brand-name-relay } + { -brand-name-vpn } ნაკრები
 waitlist-phone-name = { -brand-name-relay }-ს ტელეფონის შენიღბვა
-waitlist-heading-2 = შემოუერთდით { -brand-name-relay-premium }-ის მცდელობებს
-waitlist-heading-phone = შემოუერთდით { -brand-name-relay }-ის ტელეფონის შენიღბვის მცდელობებს
-waitlist-heading-bundle = შემოუერთდით { -brand-name-relay } + { -brand-name-vpn }-კრებულს
+waitlist-heading-2 = შემოუერთდით { -brand-name-relay-premium }-ის მსურველებს
+waitlist-heading-phone = შემოუერთდით { -brand-name-relay }-ის ტელეფონის შენიღბვის მსურველებს
+waitlist-heading-bundle = შემოუერთდით { -brand-name-relay } + { -brand-name-vpn }-კრებულის მსურველებს
 waitlist-lead-2 = ჩვენ გაცნობებთ, როცა { -brand-name-relay-premium } ხელმისაწვდომი გახდება თქვენს მხარეში.
 waitlist-lead-phone = ჩვენ გაცნობებთ, როცა ტელეფონის შენიღბვა თქვენს მხარეში იქნება ხელმისაწვდომი.
 waitlist-lead-bundle = ჩვენ გაცნობებთ, როცა შეძლებთ { -brand-name-relay-premium }-ისა და { -brand-name-mozilla-vpn }-ის ფასდაკლებით შეძენას თქვენს მხარეში.
