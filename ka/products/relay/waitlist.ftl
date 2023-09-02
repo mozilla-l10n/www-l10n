@@ -25,7 +25,7 @@ waitlist-submit-label-2 = შემოუერთდით მსურვე�
 #   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
 waitlist-privacy-policy-agree-2 = „{ waitlist-submit-label-2 }“ დაწკაპებით, ეთანხმებით ჩვენი <a href="{ $url }">პირადულობის დებულებას</a>.
 waitlist-privacy-policy-use = თქვენი მონაცემები მხოლოდ { -brand-name-firefox-relay-premium }-ის ხელმისაწვდომობის შესატყობინებლად იქნება გამოყენებული.
-waitlist-privacy-policy-use-phone = თქვენი ინფორმაცია მხოლოდ მაშინ იქნება გამოყენებული, შესატყობინებლად, როცა თქვენს უბანში ტელეფონის შენიღბვა იქნება ხელმისაწვდომი.
+waitlist-privacy-policy-use-phone = თქვენი მონაცემები მხოლოდ შესატყობინებლად იქნება გამოყენებული, როცა თქვენს მხარეში სატელეფონო შენიღბვა გახდება ხელმისაწვდომი.
 waitlist-privacy-policy-use-bundle = თქვენი მონაცემები გამოყენებული იქნება მხოლოდ იმისთვის, რომ გეცნობოთ { -brand-name-relay } + { -brand-name-vpn } ნაკრების ხელმისაწვდომობის შესახებ.
 waitlist-subscribe-success-title = გმადლობთ! ჩაწერილი ხართ
 # Variables:
