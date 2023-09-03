@@ -9,7 +9,7 @@
 what-is-a-browser-what-is-a-web = 網頁瀏覽器是什麼？
 # HTML page description
 what-is-a-browser-a-web-browser = 網頁瀏覽器能帶您暢遊網際網路，讓您看到來自世界各地的文字、影音圖片內容。
-what-is-a-browser-the-web-is-a-vast = 網路是一個巨大而強大的工具。在過去的十年裡網際網路已經改變了我們工作、娛樂以及彼此互動的方式。視乎如何被使用的表情表情包成為國家、商業、關係、未來的創新引擎等國家的紐帶。
+what-is-a-browser-the-web-is-a-vast = 網路是一套強大的工具。過去數十年來，網際網路已經改變了我們工作、玩樂以及彼此互動的方式。視使用方式而訂，它連結起世界上的不同國家、促進商業發展、加強彼此的關係、成為未來的創新引擎，並且創造出無數的迷因。
 # Variables:
 #   $tools (url) - link to https://blog.mozilla.org/firefox/internet-search-engine-browser/
 what-is-a-browser-its-important = 讓每個人都能夠上網相當重要，但能夠<a href="{ $tools }">了解有哪些能用來上網的工具</a>也很重要。我們每天都使用 { -brand-name-mozilla } { -brand-name-firefox }、 { -brand-name-google } { -brand-name-chrome }、{ -brand-name-microsoft } { -brand-name-edge } 以及 { -brand-name-apple } { -brand-name-safari } 等網頁瀏覽器，但我們了解它們是什麼，以及是如何運作的嗎？
