@@ -24,3 +24,8 @@ home-learn-about-mofo = Scopri { -brand-name-mozilla-foundation }
 home-join-the-fight = Unisciti alla lotta per un Internet in salute
 home-volunteer-with-mozilla = Collabora con { -brand-name-mozilla }
 home-eventually-the-open = Alla fine, il progetto open source { -brand-name-mozilla } si trasformò nella prima popolare versione di { -brand-name-firefox }.
+home-learn-more-about-mozilla = Scopri di più su { -brand-name-mozilla }
+home-get-good-news = Ricevi (buone) notizie da { -brand-name-mozilla }
+home-get-news-and-tips = Ricevi da { -brand-name-mozilla } notizie e suggerimenti su come rimanere al sicuro e informato su tutto ciò che rende il Web un luogo più sano.
+# VPN Feature
+home-featured-product = Prodotti consigliati
