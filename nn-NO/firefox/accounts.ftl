@@ -32,6 +32,7 @@ firefox-accounts-keep-your-passwords = Hald passorda dine trygge og ta dei med o
 firefox-accounts-get-a-lookout-for = Hald auge med datalekkasjar.
 firefox-accounts-travel-the-internet = Surf på nettet med vern, på alle einingar.
 firefox-accounts-encrypt-your = Krypter nettverksaktiviteten din og gøym IP-adressa di
+firefox-accounts-we-never = Vi loggar, sporar, eller deler aldri dine nettverksdata
 firefox-accounts-save-articles = Lagre artiklar frå heile nettet
 firefox-accounts-get-it-all-on-every = Få alt på alle einingar, utan å kjenne deg fanga av eitt enkelt operativsystem.
 
