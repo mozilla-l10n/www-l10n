@@ -52,6 +52,9 @@ faq-question-longevity-answer-2 = Ti avviseremo in anticipo della necessità di 
 faq-question-mozmail-question-2 = Perché i miei alias hanno iniziato a utilizzare il dominio “mozmail.com”?
 faq-question-mozmail-answer-2 = Abbiamo effettuato il passaggio da “relay.firefox.com” a “mozmail.com” per rendere possibile l’utilizzo di un sottodominio di posta elettronica personalizzato, come alias@miodominio.mozmail.com. I sottodomini di posta elettronica personalizzati, disponibili per gli abbonati { -brand-name-relay-premium }, permettono di generare alias email più facili da ricordare.
 faq-question-attachments-question = Con { -brand-name-firefox-relay } si possono inoltrare email con allegati?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Ora supportiamo anche l’inoltro degli allegati, tuttavia c’è un limite alle dimensioni: { -brand-name-relay } non inoltrerà i messaggi più grandi di { $size } MB.
 faq-question-unsubscribe-domain-question-2 = Che cosa succede al mio sottodominio personalizzato se disdico l’abbonamento a { -brand-name-relay-premium }?
 faq-question-unsubscribe-domain-answer-2 = Se esegui il downgrade da { -brand-name-relay-premium }, continuerai a ricevere email inoltrate tramite i tuoi alias personalizzati, ma non potrai più creare nuovi alias utilizzando quel sottodominio. Se hai più di cinque alias in totale, non potrai crearne altri. Perderai anche la possibilità di rispondere ai messaggi inoltrati. Puoi iscriverti nuovamente a { -brand-name-relay-premium } e riottenere l’accesso a queste funzioni.
 faq-question-8-question = Quali dati vengono raccolti da { -brand-name-firefox-relay }?
@@ -84,3 +87,7 @@ faq-question-trackerremoval-breakage-answer-2 = A volte la rimozione degli eleme
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = Che cos’è un alias per numeri di telefono?
+phone-masking-faq-answer-what-is = Molto simile a un alias di posta elettronica, un alias per numeri di telefono ti consente di inoltrare messaggi e chiamate al tuo numero di telefono reale senza doverlo rivelare alla persona che ti chiama o ti invia un messaggio.
+phone-masking-faq-question-where-is = Dov’è disponibile l’alias per numeri di telefono?
+phone-masking-faq-answer-where-is = Al momento, l’alias per numeri di telefono è disponibile solo negli Stati Uniti e in Canada. Ciò significa che è possibile ricevere chiamate e messaggi inoltrati solo da numeri statunitensi o canadesi. Stiamo lavorando per rendere disponibile questa tipologia di alias in altri Paesi.
