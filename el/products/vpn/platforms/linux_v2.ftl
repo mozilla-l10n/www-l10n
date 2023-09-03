@@ -13,6 +13,7 @@ vpn-linux-why-choose = Γιατί να επιλέξω το { -brand-name-mozilla
 vpn-linux-fast-and-v2 = <strong>Γρήγορο και αξιόπιστο:</strong> Το { -brand-name-mozilla-vpn } χρησιμοποιεί το πρωτόκολλο { -brand-name-wireguard }®, το οποίο προσφέρει καλύτερες επιδόσεις και σταθερότητα από άλλα πρωτόκολλα VPN.
 # Obsolete string
 vpn-linux-fast-and = <strong>Γρήγορο και αξιόπιστο:</strong> Το { -brand-name-mozilla-vpn } χρησιμοποιεί το πρωτόκολλο { -brand-name-wireguard }®, το οποίο προσφέρει καλύτερες επιδόσεις και σταθερότητα από άλλα πρωτόκολλα VPN
+vpn-linux-simple-and = <strong>Απλή και εύχρηστο περιβάλλον χρήστη:</strong> Συνδεθείτε σε έναν διακομιστή με ένα κλικ. Μπορείτε επίσης να προσαρμόσετε τις ρυθμίσεις και τις προτιμήσεις σας σύμφωνα με τις ανάγκες σας.
 vpn-linux-how-to-install = Εγκατάσταση του { -brand-name-mozilla-vpn } στο Linux
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
