@@ -24,11 +24,14 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Send ei fane</a> til ei anna e
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Lagre og synkroniser passord</a>
+firefox-accounts-get-email-alerts = Få e-postvarsel når dine data er involverte i ein kjend datalekkasje
 # Obsolete string
 firefox-accounts-see-if-youve-been = Sjå om du har vore involvert i ein datalekkasje på nettet.
+firefox-accounts-protect-your-identity = Vern identiteten din med sikker maskering av telefonnummer og e-postadresse
 firefox-accounts-keep-your-passwords = Hald passorda dine trygge og ta dei med overalt.
 firefox-accounts-get-a-lookout-for = Hald auge med datalekkasjar.
 firefox-accounts-travel-the-internet = Surf på nettet med vern, på alle einingar.
+firefox-accounts-encrypt-your = Krypter nettverksaktiviteten din og gøym IP-adressa di
 firefox-accounts-save-articles = Lagre artiklar frå heile nettet
 firefox-accounts-get-it-all-on-every = Få alt på alle einingar, utan å kjenne deg fanga av eitt enkelt operativsystem.
 
