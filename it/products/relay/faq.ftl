@@ -91,3 +91,35 @@ phone-masking-faq-question-what-is = Che cos’è un alias per numeri di telefon
 phone-masking-faq-answer-what-is = Molto simile a un alias di posta elettronica, un alias per numeri di telefono ti consente di inoltrare messaggi e chiamate al tuo numero di telefono reale senza doverlo rivelare alla persona che ti chiama o ti invia un messaggio.
 phone-masking-faq-question-where-is = Dov’è disponibile l’alias per numeri di telefono?
 phone-masking-faq-answer-where-is = Al momento, l’alias per numeri di telefono è disponibile solo negli Stati Uniti e in Canada. Ciò significa che è possibile ricevere chiamate e messaggi inoltrati solo da numeri statunitensi o canadesi. Stiamo lavorando per rendere disponibile questa tipologia di alias in altri Paesi.
+phone-masking-faq-question-change-phone-mask = Posso cambiare l’alias per numeri di telefono?
+phone-masking-faq-answer-change-phone-mask = No, non è possibile modificare l’alias per numeri di telefono dopo averlo scelto. Stiamo prendendo in considerazione questa opzione.
+phone-masking-faq-question-can-reply = Posso rispondere ai messaggi?
+phone-masking-faq-answer-can-reply = Sì, puoi rispondere all’ultimo messaggio ricevuto. Rispondi come faresti per qualsiasi messaggio di testo.
+phone-masking-faq-question-forwarded-texts = Che tipo di messaggi verranno inoltrati?
+phone-masking-faq-answer-forwarded-texts = È possibile inoltrare solo SMS. I messaggi MMS che includono foto, video, ecc. non verranno inoltrati.
+phone-masking-faq-question-pictures = Posso inviare o ricevere immagini tramite messaggio di testo?
+phone-masking-faq-question-historical = Posso rispondere ai messaggi di testo ricevuti precedentemente?
+phone-masking-faq-answer-historical = Al momento non è possibile rispondere ai messaggi ricevuti in precedenza, anche se questa funzione è in arrivo.
+phone-masking-faq-question-limit = C’è un limite al numero di messaggi di testo che ricevo?
+phone-masking-faq-question-call-length = Per quanto tempo posso parlare quando ricevo una chiamata?
+phone-masking-faq-answer-call-length = Ogni mese hai 50 minuti di conversazione. Una volta esauriti questi minuti, non potrai ricevere chiamate inoltrate fino al mese successivo del ciclo di fatturazione.
+phone-masking-faq-question-can-i-call = Posso fare una chiamata con il mio alias per numeri di telefono?
+phone-masking-faq-answer-can-i-call = No, puoi solamente rispondere a una chiamata inoltrata.
+phone-masking-faq-question-can-i-see = Posso vedere chi mi ha scritto o chiamato?
+phone-masking-faq-answer-can-i-see = Sì, puoi vedere il numero di chi ti ha scritto o chiamato. Puoi anche disattivare la registrazione di questi dati, ma perderai la possibilità di bloccare o rispondere al numero che ti ha chiamato o scritto.
+phone-masking-faq-question-can-i-block = Posso bloccare una chiamata o un messaggio?
+phone-masking-faq-answer-can-i-block = Puoi bloccare tutti gli inoltri da un singolo numero.
+phone-masking-faq-question-spam = E se inizio a ricevere spam al mio alias per numeri di telefono?
+phone-masking-faq-answer-spam = Se inizi a ricevere spam, puoi bloccare i numeri che te lo inviano.
+phone-masking-faq-question-disable-logging = Posso disattivare la registrazione dei numeri che mi hanno chiamato o scritto?
+phone-masking-faq-answer-disable-logging = Sì, puoi disattivare la registrazione dei numeri dalla dashboard di { -brand-name-relay }. Tuttavia, non potrai più rispondere ai messaggi o bloccare specifici numeri, perché è attraverso il registro che possiamo tracciare chi ti ha inviato un SMS.
+phone-masking-faq-question-can-i-share = Posso condividere il numero dal quale mi vengono inoltrati gli SMS?
+phone-masking-faq-answer-can-i-share = Non succede nulla se condividi questo numero: non è l’alias per il tuo numero di telefono. È solo il numero di contatto da cui { -brand-name-relay } inoltra gli SMS e le chiamate.
+phone-masking-faq-question-how-i-save-card = Come posso salvare la scheda dei contatti di { -brand-name-relay }?
+phone-masking-faq-answer-how-i-save-card = Una volta eseguito l’aggiornamento a { -brand-name-relay } con gli alias per numeri di telefono, ti invieremo un messaggio con una scheda di contatto che contiene il numero da cui riceverai le chiamate inoltrate e gli SMS, simile alle schede di contatto in cui è registrato il numero di telefono delle persone che ti contattano. Sulla maggior parte dei dispositivi è possibile selezionare la scheda di contatto e salvarla come qualsiasi altro contatto sul telefono.
+phone-masking-faq-question-install-app = Devo installare un’app per utilizzare gli alias { -brand-name-relay } per numeri di telefono?
+phone-masking-faq-answer-install-app = No, gli alias { -brand-name-relay } per numeri di telefono funzionano con le normali app per SMS e chiamate del tuo dispositivo.
+phone-masking-faq-question-data = Quali dati vengono salvati dagli alias { -brand-name-relay } per numeri di telefono?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Consulta l’<a href="{ $url }" { $attrs }>Informativa sulla privacy di { -brand-name-firefox-relay }</a>
