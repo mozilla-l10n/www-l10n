@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios/
 
-vpn-ios-vpn-for-iphone = VPN iPhone-ზე { -brand-name-mozilla }-ზე
-vpn-ios-looking-for-a = VPN-ს ეძებთ თქვენი iPhone-ისთვის? { -brand-name-mozilla }-ს VPN-მომსახურება უზრუნველყოფს თქვენს დაცულობას ინტერნეტში ყოველი შესვლისას თქვენს მოწყობილობაში. განაგრძეთ კითხვა და შეიტყვეთ, თუ როგორ უნდა დაიცვათ iPhone კიბერშეტევებისგან, { -brand-name-mozilla-vpn }-ით iPhone-ზე.
+vpn-ios-vpn-for-iphone = VPN iPhone-ზე { -brand-name-mozilla }-სგან
+vpn-ios-looking-for-a = VPN-ს ეძებთ თქვენი iPhone-ისთვის? { -brand-name-mozilla }-ს VPN-მომსახურება უზრუნველყოფს უსაფრთხოებას ინტერნეტში თქვენი მოწყობილობის ყოველი გამოყენებისას. განაგრძეთ კითხვა და შეიტყვეთ, თუ როგორ უნდა დაიცვათ iPhone კიბერშეტევებისგან { -brand-name-mozilla-vpn }-ით iPhone-ისთვის.
 vpn-ios-iphones-are-great = iPhone-ებს მშვენივრად შეუძლია თქვენი პირადი მონაცემების უსაფრთხოება, მაგრამ ვერ დაგიცავთ ყველანაირი საფრთხისგან, ინტერნეტში. სწორედ ამიტომ გესაჭიროებათ { -brand-name-mozilla-vpn }, მომსახურება iPhone-ისთვის, რომელიც დაშიფრავს თქვენს ინტერნეტტრაფიკს და მალავს თქვენს მდებარეობას. ამ სტატიაში ჩვენ აგიხსნით, თუ როგორ უნდა გამოვიყენოთ { -brand-name-mozilla-vpn } iPhone-ზე, რა უპირატესობებით გთავაზობთ და რითია შედარებული სხვა VPN-ებთან.
 vpn-ios-mozilla-vpn-is = { -brand-name-mozilla-vpn } არის ვირტუალური კერძო ქსელის მომსახურება, რომელიც შიფრავს თქვენს ინტერნეტტრაფიკს და მალავს თქვენს IP-მისამართს ცნობისმოყვარეებისგან.
 vpn-ios-there-are-many = მრავალი მიზეზი არსებობს, თუ რატომ გსურთ გამოიყენოთ { -brand-name-mozilla-vpn } iPhone-ზე, მაგალითად:
