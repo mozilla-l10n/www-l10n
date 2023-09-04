@@ -58,10 +58,6 @@ vpn-download-faq-add-device = Como adde io un altere apparato?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v2 = Adder un altere apparato es tanto simple como discargar e installar le software de { -brand-name-mozilla-vpn } e pois acceder in tu { -brand-name-firefox-account } existente sur le nove apparato. Pro altere detalios, vide <a href="{ $subscription }">Como adder apparatos a tu abonamento { -brand-name-mozilla-vpn }</a>.
-# Outdated string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Adder un altere apparato es tanto simple como discargar e installar le software de { -brand-name-mozilla-vpn } e pois acceder in tu conto { -brand-name-firefox } existente sur le nove apparato. Pro altere detalios, vide <a href="{ $subscription }">Como adder apparatos a tu abonamento { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Qual es alcun melior practicas de VPN?
 vpn-download-faq-traffic = Si tu objectivo es de proteger tu traffico internet mantenente un alte velocitate, alora il es sempre melio eliger un position de servitor que es quanto plus possibile proxime a tu position physic. Isto accrescera le fidibilitate e velocitate de tu connexion, nam tu traffico internet non besoniara de prender un significante deviation ante arrivar a su destination desirate sur le Web.
 vpn-download-faq-experience = Si tu objectivo es de experimentar internet como si tu era in alcun altere parte del mundo, tu pote eliger illac un position de servitor, e tote le sitos web que tu visita apparera como si tu era illac.
@@ -70,4 +66,4 @@ vpn-download-faq-lastly = Al fin, sur apparatos supportate, tu pote render le VP
 vpn-download-faq-need-more = Besonia tu un poco de adjuta ulterior?
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
-vpn-download-faq-support = Tu pote continger nostre equipa de assistentia justo ab le application { -brand-name-mozilla-vpn } cliccante: Parametros > Obtener auxilio > Continger supporto. Tu alsi pote continger nos <a href="{ $support }">sur nostre pagina de supporto</a>.
+vpn-download-faq-support = Tu pote contactar nostre equipa de assistentia directemente ab le application { -brand-name-mozilla-vpn } cliccante: Parametros > Obtener auxilio > Contactar assistentia. Tu pote equalmente contactar nos <a href="{ $support }">sur nostre pagina de assistentia</a>.
