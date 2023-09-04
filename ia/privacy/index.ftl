@@ -7,8 +7,8 @@
 
 # HTML page title
 privacy-index-mozilla-privacy = Confidentialitate de { -brand-name-mozilla }
-privacy-index-contact-mozilla = Continger { -brand-name-mozilla }
-privacy-index-if-you-want-to-make-a-correction = Si tu desira apportar un correction a tu informationes, o si tu ha questiones sur nostre politicas de confidentialitate, continge:
+privacy-index-contact-mozilla = Contactar { -brand-name-mozilla }
+privacy-index-if-you-want-to-make-a-correction = Si tu vole apportar un correction a tu informationes, o si tu ha questiones sur nostre politicas de confidentialitate, entra in contacta con:
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
 privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Cliccar ci pro le demandas de accesso al datos personal.</a>
