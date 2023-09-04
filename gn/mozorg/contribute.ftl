@@ -10,7 +10,7 @@
 
 contribute-page-title = { -brand-name-mozilla } oikuava’ẽ pa’ũ poropytyvõrã
 contribute-page-heading = Oñeikotevẽ ne mba’ekuaáre ñanduti hekoporãve hag̃ua
-contribute-page-intro = { -brand-name-mozilla } ha’e atyguasu viru’ỹgua omba’apóva ñanduti ijuruja ha opavave oipurukuaa hag̃ua. Ha roikotevẽ ne ñepytyvõ. Eikévo ore rekohápe, ikatu eipytyvõ emoakãrapu’ã mba’epyahu, emoañete arigua ha ejapo ñandutígui tenda iporãvéva opavavépe g̃uarã.
+contribute-page-intro = { -brand-name-mozilla } ha’e atyguasu viru’ỹgua omba’apóva ñanduti ijuruja ha opavave oiporukuaa hag̃ua. Ha roikotevẽ ne ñepytyvõ. Eikévo ore rekohápe, ikatu eipytyvõ emoakãrapu’ã mba’epyahu, emoañete arigua ha ejapo ñandutígui tenda iporãvéva opavavépe g̃uarã.
 contribute-how-heading = Mba’éichapa eipytyvõkuaa…
 
 ## Contribution tasks

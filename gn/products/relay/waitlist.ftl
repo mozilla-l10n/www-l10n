@@ -26,7 +26,7 @@ waitlist-submit-label-2 = Eike oha’ãrõva ndive
 waitlist-privacy-policy-agree-2 = Eikutúvo “{ waitlist-submit-label-2 }”, emoneĩma ore <a href="{ $url }">Ñemigua Purureko</a>.
 waitlist-privacy-policy-use = Ne marandu ojepurúta ojeguerahauka hag̃ua marandu’i eikekuaamaha { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Ne marandu ojepurúta ojeguerahauka hag̃ua pumbyry rovamo’ãha og̃uahẽ vove reimeha gotyo.
-waitlist-privacy-policy-use-bundle = Ne marandu ojepurúta ojeguerahauka eipurukuaa hag̃uáicha { -brand-name-relay } + { -brand-name-vpn }.
+waitlist-privacy-policy-use-bundle = Ne marandu ojepurúta ojeguerahauka eiporukuaa hag̃uáicha { -brand-name-relay } + { -brand-name-vpn }.
 waitlist-subscribe-success-title = ¡Aguyje! Eiméma tysýipe
 # Variables:
 #   $product (string) one of the following three options:

@@ -38,7 +38,7 @@ vpn-shared-features-protection = Ñemo’ã { $devices } mba’e’oka pevépe g
 vpn-shared-features-server-countries = Eike hetave { $servers } mba’e’okakuéra hetave { $countries } tetãnguérape
 # Variables:
 #   $countries (number) - number of available countries
-vpn-shared-countries-coming-soon = Eipurukuaa { $countries } tetãnguérape ko’ág̃a. Vokóinte hetave tendápe
+vpn-shared-countries-coming-soon = Eiporukuaa { $countries } tetãnguérape ko’ág̃a. Vokóinte hetave tendápe
 # Variables:
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links

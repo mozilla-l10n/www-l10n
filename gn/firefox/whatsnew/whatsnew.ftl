@@ -15,9 +15,9 @@ whatsnew-up-to-date-notification-v2 = ¡Rombovy’apavẽ! Eipuruhína { -brand-
 whatsnew-up-to-date-notification = ¡Ipoãitépa! Eipuruhína { -brand-name-firefox-browser } ipyahuvéva.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = Eipurukuaa ore rembiapokue osẽramóva { -brand-name-firefox }. <a href="{ $url }">Embohekopyahu osẽramóvape</a>
+whatsnew-out-of-date-notification-v3 = Eiporukuaa ore rembiapokue osẽramóva { -brand-name-firefox }. <a href="{ $url }">Embohekopyahu osẽramóvape</a>
 # Obsolete string
-whatsnew-out-of-date-notification-v2 = Eipurukuaa { -brand-name-firefox } ipyahuvéva. Eñepyrũjey hekopyahu hag̃ua.
+whatsnew-out-of-date-notification-v2 = Eiporukuaa { -brand-name-firefox } ipyahuvéva. Eñepyrũjey hekopyahu hag̃ua.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Emoñe’ẽ <a href="{ $url }">Jehaipy rehegua</a> ereko hag̃ua marandu pyahu kundahára { -brand-name-firefox } rehegua.

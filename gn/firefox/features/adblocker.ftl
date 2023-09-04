@@ -35,7 +35,7 @@ features-adblocker-to-start-click-on-the = Eñepyrũ hag̃ua, eikutu { -brand-na
 features-adblocker-go-easy-with-standard = Tereho py’aguapýpe Standard reko ndive
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
-features-adblocker-if-ads-dont-bother-you = Ehechaitereíramo ñemurã ojapovai nderehe ha nandepy’apýi tapykuehoha ha kookie mbohapyháva nde rapykuehóramo, upéicharõ pe Estándar reko ha’eva’erã pe eikotevẽva. Emboyke hag̃ua Estándar reko, eipurukuaa ovetã <a href="{ $url }">Kundaha ñemíme</a>.
+features-adblocker-if-ads-dont-bother-you = Ehechaitereíramo ñemurã ojapovai nderehe ha nandepy’apýi tapykuehoha ha kookie mbohapyháva nde rapykuehóramo, upéicharõ pe Estándar reko ha’eva’erã pe eikotevẽva. Emboyke hag̃ua Estándar reko, eiporukuaa ovetã <a href="{ $url }">Kundaha ñemíme</a>.
 features-adblocker-get-tough-with-strict = Eñemohatã pe ijayvu mbaretéva ndive
 features-adblocker-if-seeing-too-many-ads = Ehechaitereíramo ñemurã ojapovai nderehe, upéicharõ pe Estricto reko ouporãta ndéve. Ko teko ojoko tapykuehoha ha kookie mbohapyháva oĩva opaite { -brand-name-firefox } rovẽtáme.
 features-adblocker-do-it-yourself-custom = Ejapo ndete ayvu nemba’etepyrépe

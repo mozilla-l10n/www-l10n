@@ -25,7 +25,7 @@ firefox-all-32-bit-installers = Mohendaha 32-bit
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Emboguejy { -brand-name-firefox-browser } guaraníme (GN) ha avei hetaiteve 90 ñe’ẽme oĩva
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Opavave oikekuaava’erã ñandutípe — pe neñe’ẽ ndaha’eiva’erã jokoha. Upévare — opaite pytyvõharakuéra arapygua ndive — rojapo { -brand-name-firefox-browser } ojepurukuaa hag̃ua hetave 90 ñe’ẽme.
+firefox-all-everyone-deserves-access = Opavave oikekuaava’erã ñandutípe — pe neñe’ẽ ndaha’eiva’erã jokoha. Upévare — opaite pytyvõharakuéra arapygua ndive — rojapo { -brand-name-firefox-browser } ojeporukuaa hag̃ua hetave 90 ñe’ẽme.
 firefox-all-choose-which-firefox = Eiporavo mba’e { -brand-name-firefox-browser } emboguejýta ne ñe’ẽme
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } Marandu ñemigua
 firefox-all-learn-about-firefox = Eikuaáke { -brand-name-firefox } kundaha rehegua

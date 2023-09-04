@@ -39,7 +39,7 @@ vpn-download-get-on-app-store = Erekokuaa { -brand-name-app-store } rupi
 vpn-download-based-on-your = Ne mba’e’oka ag̃aguáicha
 vpn-download-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Tekoñemi ejeroviakuaaha
-vpn-download-also-available = Eipurukuaa avei ko’ãvape:
+vpn-download-also-available = Eiporukuaa avei ko’ãvape:
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links

@@ -24,7 +24,7 @@ vpn-mac-follow-the-steps = Ehecha mba’épa he’i { -brand-name-mozilla-vpn } 
 ## Shared strings
 
 vpn-download-unable-to-download = Neremboguejykuaái { -brand-name-mozilla-vpn }
-vpn-download-not-in-country = Rombyasy, { -brand-name-mozilla-vpn } nereipurukuaamo’ãi ne retãme.
+vpn-download-not-in-country = Rombyasy, { -brand-name-mozilla-vpn } nereiporukuaamo’ãi ne retãme.
 # The <br> tag is a line break for the HTML text
 # Variables:
 #   $url (url) - link for either Windows or Mac download, depending on user platform

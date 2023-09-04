@@ -135,9 +135,9 @@ vpn-landing-faq-link = Ehechave FAQs
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Ejuaju tysýi oha’ãrõvare: { -brand-name-mozilla-vpn }
-vpn-landing-invite-page-desc-v2 = Og̃uahẽta marandu’i { -brand-name-mozilla-vpn } reipurukuaa vove reikohápe.
+vpn-landing-invite-page-desc-v2 = Og̃uahẽta marandu’i { -brand-name-mozilla-vpn } reiporukuaa vove reikohápe.
 # Outdated string
-vpn-landing-invite-page-desc = Og̃uahẽta marandu’i { -brand-name-mozilla-vpn } eipurukuaa vove ne mba’e’oka ha eikohápe.
+vpn-landing-invite-page-desc = Og̃uahẽta marandu’i { -brand-name-mozilla-vpn } eiporukuaa vove ne mba’e’oka ha eikohápe.
 vpn-landing-invite-page-heading = Ejuaju VPN rysýi oha’ãrõvare
 vpn-landing-invite-email-label = ¿Máva ne ñanduti veve kundaharape?
 vpn-landing-invite-required-label = Tekotevẽva

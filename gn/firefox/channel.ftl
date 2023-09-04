@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -15,10 +15,10 @@ firefox-channel-file-a-bug-now = Eñongatu peteĩ jejavy ko’ág̃a
 firefox-channel-tips-for-filing-a-bug = Ñe’ẽporã eñongatu hag̃ua peteĩ jejavy
 firefox-channel-try-new-features-in-a-pre = Eipurumína umi tembiapoite pyahu peteĩchagua kundaha { -brand-name-android } | { -brand-name-firefox } rehegua
 firefox-channel-download-and-test-future = Emboguejy ha eipurumi rembiapokue pyahu { -brand-name-firefox } mesa arigua, { -brand-name-android } ha { -brand-name-ios } rehegua.
-firefox-channel-experience-cutting-edge-android-updated = Ehechakuaa umi kundaha rembiapoite ipyahúva { -brand-name-android } rehegua oipurukuaa’ỹre opavave: { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Emboguejýna!
+firefox-channel-experience-cutting-edge-android-updated = Ehechakuaa umi kundaha rembiapoite ipyahúva { -brand-name-android } rehegua oiporukuaa’ỹre opavave: { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Emboguejýna!
 firefox-channel-experience-cutting-edge-android = Ehechakuaa umi kundaha rembiapoite ipyahúva { -brand-name-android } rehegua ko’ã purupyrã reheve: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } y { -brand-name-firefox-nightly }. ¡Emboguejýna!
 firefox-channel-download-and-test-the-latest-android = Emboguejy ha eipuru umi mba’eta ipyahuvéva { -brand-name-firefox } mba’éva { -brand-name-android }-pe g̃uarãva, { -brand-name-aurora }, { -brand-name-beta } ha { -brand-name-nightly } rehegua.
-firefox-channel-try-the-latest-android-features = Eipuru umi tembiapokue ipyahuetéva { -brand-name-android } pegua ojepurukuaa mboyve arapy tuichakue jave.
+firefox-channel-try-the-latest-android-features = Eipuru umi tembiapokue ipyahuetéva { -brand-name-android } pegua ojeporukuaa mboyve arapy tuichakue jave.
 firefox-channel-all-languages-and-platforms = Opavavete ñe’ẽ ha jehechaukaha
 firefox-channel-all-languages-and-builds = Oĩvéva ñe’ẽ ha peteĩchaguáva
 # Variables:
