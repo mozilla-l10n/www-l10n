@@ -39,3 +39,5 @@ home-get-good-news = Получайте (хорошие) новости { -brand
 home-get-news-and-tips = Получайте новости и советы от { -brand-name-mozilla }, чтобы оставаться в безопасности и быть в курсе всего, что делает Интернет лучше.
 # VPN Feature
 home-featured-product = Рекомендуемый продукт
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Размытие вашего местоположения и активност с помощью <span>{ -brand-name-mozilla-vpn } </span>
