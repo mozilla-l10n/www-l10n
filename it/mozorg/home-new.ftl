@@ -10,7 +10,7 @@ home-did-you-know-mozilla-the-maker = Lo sapevi che { -brand-name-mozilla }, la 
 home-mission-driven = Guidato da una missione. Sostenuto dalle persone.
 home-were-not-normal = Non siamo la tipica azienda tecnologica. Ciò che creiamo antepone le persone e la loro privacy al profitto. Esistiamo per rendere Internet un luogo migliore e più sano per tutti.
 # Quotes around string to represent it being a quote by Mitchell Baker
-home-the-health-of = “La nostra ragione d‘essere è la salute di Internet e della vita online”.
+home-the-health-of = “La nostra ragione d’essere è la salute di Internet e della vita online.”
 home-mitchell-baker = Mitchell Baker, CEO di { -brand-name-mozilla }
 home-mozilla-makes-privacy = { -brand-name-mozilla } realizza prodotti che rispettano la privacy
 home-product-firefox-browsing = Navigazione riservata e sicura
