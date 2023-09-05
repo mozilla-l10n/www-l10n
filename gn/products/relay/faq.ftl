@@ -34,7 +34,7 @@ faq-question-subdomain-characters-answer-v2 = Eiporukuaa tai inglés michĩva re
 faq-question-browser-support-question = Aipurukuaápa { -brand-name-relay } ambue kundahára térã che pumbyrýpe
 faq-question-browser-support-answer-2 = Hẽe, emoheñoikuaa { -brand-name-relay } rovamo’ãha ambue kundahára térã pumbyry mba’e’okápe emoñepyrũvo tembiapo  nde { -brand-name-relay } rupápe.
 faq-question-longevity-question = Mba’épa oiko { -brand-name-mozilla } ombotýramo { -brand-name-firefox-relay } mba’epuru
-faq-question-longevity-answer-2 = Romomarandúta eikotevẽtaramo emoambue ñanduti veve kundaharape oimeraẽva mba’ete oipurúva { -brand-name-relay } ñanduti veve rovamo’ãha.
+faq-question-longevity-answer-2 = Romomarandúta eikotevẽtaramo emoambue ñanduti veve kundaharape oimeraẽva mba’ete oiporúva { -brand-name-relay } ñanduti veve rovamo’ãha.
 faq-question-mozmail-question-2 = Mba’érepa ñandutiveve rovamo’ãha oipurúma “mozmail.com?” rendatee
 faq-question-attachments-question = Ikatúpa { -brand-name-firefox-relay } omondojey ñanduti veve marandurenda ijeheguáva reheve
 # Variables:
@@ -93,7 +93,7 @@ phone-masking-faq-answer-spam = Og̃uahẽramo ndéve spam, ejokokuaa umi papapy
 phone-masking-faq-question-disable-logging = Amboykekuaá tapicha ñemboheraguapy ohenói térã oñe’ẽmondóva
 phone-masking-faq-answer-disable-logging = Añete, ikatu eipe’a papapy mboheraguapy ne { -brand-name-relay } rupa guive. Upéicharamo, ndaikatumo’ãvéima embohovái ñe’ẽmondo avei ejokóvo papapy ha’etéva, pe mboheraguapy ore pytyvõ rupi rohapykueho hag̃ua mávapa ñe’ẽmondo mbouhare.
 phone-masking-faq-question-can-i-share = Amoherãkuãkuaápa pe papapy omboujeýva ñe’ẽmondo
-phone-masking-faq-answer-can-i-share = Emoherakuãrõ ko papapy, ndoikomo’ãi mba’eve; ko papapy ndaha’éi ne pumbyry papapy rovamo’ãha. Ha’e nde papapy eñe’ẽha { -brand-name-relay } oipurúva omondojey hag̃ua ñe’ẽmondo ha nehenói.
+phone-masking-faq-answer-can-i-share = Emoherakuãrõ ko papapy, ndoikomo’ãi mba’eve; ko papapy ndaha’éi ne pumbyry papapy rovamo’ãha. Ha’e nde papapy eñe’ẽha { -brand-name-relay } oiporúva omondojey hag̃ua ñe’ẽmondo ha nehenói.
 phone-masking-faq-question-how-i-save-card = Mba’éichapa añongatúta { -brand-name-relay } kuatia’atã ñe’ẽkuaarã
 phone-masking-faq-question-install-app = Amohendátapa tembiporu’i aipuru hag̃ua { -brand-name-relay } pumbyry rovamo’ãha
 phone-masking-faq-answer-install-app = Nahániri, { -brand-name-relay } pumbyry rovamo’ãha oiko tembiporu’i ñehenoirã ha ñe’ẽmondo ypyguáva ne mba’e’okápe.

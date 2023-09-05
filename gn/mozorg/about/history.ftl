@@ -26,7 +26,7 @@ history-community-members-got-involved = Tekoha pegua tapichakuéra oike ha isar
 history-people-contributed-to-mozilla = Tapichakuéra oipytyvõ { -brand-name-mozilla } ndive heta hendáicha, hákatu opavavete omoheñoise software ijurujáva omoneĩva yvypórape oiporavokuaávo mba’éichapa oipurúta ñanduti.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
-history-after-several-years-of-development = Heta ary oñemboguata rire, <a href="{ $mozilla1 }">{ -brand-name-mozilla }1.0</a>, tembiapo ñepyrũgua, osẽypy ary 2002 jave. Ko tembiapo oguereko heta mba’epyahu porã kundahárape, ñanduti veve puruhára ha ambue tembiporu’i oĩva ipype, hákatu ndahetái tapicha oipurúva kuri.
+history-after-several-years-of-development = Heta ary oñemboguata rire, <a href="{ $mozilla1 }">{ -brand-name-mozilla }1.0</a>, tembiapo ñepyrũgua, osẽypy ary 2002 jave. Ko tembiapo oguereko heta mba’epyahu porã kundahárape, ñanduti veve puruhára ha ambue tembiporu’i oĩva ipype, hákatu ndahetái tapicha oiporúva kuri.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Pe 2002 jave, <a href="{ $over90 }">hetave 90% ñanduti puruhára </a> oikundaha { -brand-name-ie } ndive.
@@ -61,7 +61,7 @@ history-more-people-than-ever-before = Hetaiteve yvypóra ko’ág̃a rupi oipor
 # Variables:
 #   $range (url) link to https://www.wikipedia.org
 #   $areas (url) link to https://creativecommons.org/
-history-a-sustainable-organization = Oñemoheñói peteĩ atyguasu oipurúva ñemuhaguasu oipytyvõ hag̃ua opavave tapichakuéra rembipota ha koichagua oipurujey ambuéva omoheñói hag̃ua atyguasu ijurujáva, hekosakãva ha ñeipytyvõgua <a href="{ $range }">hekoetáva</a> <a href="{ $areas }">koragua</a>.
+history-a-sustainable-organization = Oñemoheñói peteĩ atyguasu oiporúva ñemuhaguasu oipytyvõ hag̃ua opavave tapichakuéra rembipota ha koichagua oipurujey ambuéva omoheñói hag̃ua atyguasu ijurujáva, hekosakãva ha ñeipytyvõgua <a href="{ $range }">hekoetáva</a> <a href="{ $areas }">koragua</a>.
 history-the-future-is-full-of-challenges = Tenondevépe oĩ heta mba’eaporã ha pa’ũ peteĩchagua opavavetépe g̃uarã.
 history-theres-no-guarantee-that = Ndaikatúi ja’e Ñanduti oiko aretaha juruja, vy’a térã tekorosãme.
 history-mozilla-will-continue-to = { -brand-name-mozilla } ome’ẽvéta pa’ũ opaite yvypóra ohenduka hag̃ua iñe’ẽ ha avei oikoporãvo oikundahakuévo.
