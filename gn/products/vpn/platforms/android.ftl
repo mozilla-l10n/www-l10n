@@ -24,7 +24,7 @@ vpn-android-privacy-copy = Eipuru { -brand-name-mozilla-vpn } { -brand-name-andr
 vpn-android-servers-headline = Oĩve { $servers } mohendahavusu hetave { $countries } tetãme
 # Variables:
 #   $countries (number) - number of available countries
-vpn-android-servers-copy = { -brand-name-mozilla-vpn } ndive, ikatu emoĩ ne pumbyry rendaite { -brand-name-android } peteĩva umi { $countries } tetãnguérape. Kóva he’ise ehechataha tetãygua ñanduti puruharaitéicha pe reike haguéicha. Vy’apópe ikatu eipuru ñanduti peteĩ ñema’ẽ añóguinte.
+vpn-android-servers-copy = { -brand-name-mozilla-vpn } ndive, ikatu emoĩ ne pumbyry rendaite { -brand-name-android } peteĩva umi { $countries } tetãnguérape. Kóva he’ise ehechataha tetãygua ñanduti poruharaitéicha pe reike haguéicha. Vy’apópe ikatu eipuru ñanduti peteĩ ñema’ẽ añóguinte.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Ñemboheraguapy { $devices } mba’e’okápe g̃uarã
