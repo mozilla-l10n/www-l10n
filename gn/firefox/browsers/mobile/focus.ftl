@@ -34,6 +34,6 @@ mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } ojoko hetáich
 mobile-focus-see-it-all = Ehechapaite pya’eve
 mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } ombogue tapykuehoha kuatiarogue ehecháva oipuru’ive hag̃ua mba’ekuaarã ha henyhẽ pya’eve rekávo. Avei, embojakuaa irundy jeike pya’eha mba’erechaha ñepyrũguápe ha eike tenda ehechavévape pya’eve ehai’ỹre.
 # Outdated string
-mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } ombogue tapykuehoha ha ombojuruja ñemurã jokoha ikatu hag̃ua kuatiarogue ehecháva oipuru’ive mba’ekuaarã ha henyhẽ pya’eve. Avei, embojakuaa irundy jeike pya’eha mba’erechaha ñepyrũguápe ha eike tenda ehechavévape pya’eve ehai’ỹre.
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } ombogue tapykuehoha ha ombojuruja ñemurã jokoha ikatu hag̃ua kuatiarogue ehecháva oiporu’ive mba’ekuaarã ha henyhẽ pya’eve. Avei, embojakuaa irundy jeike pya’eha mba’erechaha ñepyrũguápe ha eike tenda ehechavévape pya’eve ehai’ỹre.
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } ojapopyre
 mobile-focus-we-believe-everyone = Roguerovia opavave ohechava’erã tapiaite iñeikundaha ñandutípe. Ha’e umi roñorairõha ary 1998 guive.

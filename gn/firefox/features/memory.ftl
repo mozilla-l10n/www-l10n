@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
@@ -8,7 +8,7 @@
 # HTML page title
 features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Eipuru mandu’arenda michĩve, embopya’eve
 # HTML page description
-features-memory-is-your-computer-slow-your = ¿Ne mohendaha imbegue? Ne kundaha ikatu hína oipurueterei mandu’arenda. Eipuru { -brand-name-firefox } ipya’eve hag̃ua ndéve.
+features-memory-is-your-computer-slow-your = ¿Ne mohendaha imbegue? Ne kundaha ikatu hína oipurueterei mandu’arenda. Eiporu { -brand-name-firefox } ipya’eve hag̃ua ndéve.
 features-memory-less-memory-usage-than-chrome = Oipuru sa’ive mandu’arenda { -brand-name-chrome }-gui
 features-memory-if-your-web-browser-uses = Ne ñanduti kundaha oipurueterei mandu’arenda, eipuru { -brand-name-firefox }.
 features-memory-speed-up-your-computer = Embopya’e ne mohendaha

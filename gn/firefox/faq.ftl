@@ -60,7 +60,7 @@ why-is-firefox = ¿Mba’ére { -brand-name-firefox } imbeguete?
 firefox-isnt-slow = { -brand-name-firefox } naimbeguéi… ko’ág̃a. Ary 2017-pe, rojapojey pe kundahára mongu’eha (hérava Quantum) ikatu hag̃uáicha { -brand-name-firefox } oñorairõ ambue kundahára ndive. Ha ore jokoha rapykuehoha oipytyvõ kuatiaroguekuérape henyhẽvo pya’eve. Péicha { -brand-name-firefox } ipya’eterei omboyke’ỹre ne rekoñemi.
 is-firefox-chromium = ¿{ -brand-name-firefox } ojeko { -brand-name-chromium } rehe?
 firefox-is-not = { -brand-name-firefox } noñemopyendái { -brand-name-chromium } rehe (pe kundahára apopyrã ijayvu jurujáva { -brand-name-google } mbytépe { -brand-name-chrome }). Upévare, ore hína peteĩva umi kundahára tuicháva oreko’ỹva. { -brand-name-firefox } oku’e ore kundahára mongu’eha Quantum oñemoheñóiva { -brand-name-firefox } peg̃uarã, roguerekotaha ne mba’ekuaarã poyhu ha tekoñemíme.
-does-firefox-use = ¿{ -brand-name-firefox } oipuru { -brand-name-google }?
+does-firefox-use = ¿{ -brand-name-firefox } oiporu { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
