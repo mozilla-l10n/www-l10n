@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -26,7 +26,7 @@ features-index-access-all-passwords = { -brand-name-firefox-lockwise } omoneĩ e
 features-index-just-enough = { -brand-name-firefox } oipuru mandu’arenda omoheñói hag̃uáicha tembiapo iporãva ne mohendaha ojapokuaa hag̃ua ambue mba’e.
 features-index-use-less-memory = { -brand-name-firefox } oipuru’ive mandu’arenda { -brand-name-chrome }-gui, upéicha ambue tembiaporape ikatu omba’apo pya’e.
 features-index-open-source-minds = Ayvu ijurujáva. Temiandu ijurujáva.
-features-index-mozilla-creates = { -brand-name-mozilla } omoheñói ñanduti rembipurupyahu imbaretéva opavavépe g̃uarã.
+features-index-mozilla-creates = { -brand-name-mozilla } omoheñói ñanduti rembiporupyahu imbaretéva opavavépe g̃uarã.
 features-index-see-what-makes-us-different = Ehechamína mba’épa oremoambuéva
 features-index-by-non-profit-mozilla = { -brand-name-mozilla }, viru’ỹ rehegua
 features-index-by-not-for-profit-mozilla = Viru’ỹ rehegua, { -brand-name-mozilla }

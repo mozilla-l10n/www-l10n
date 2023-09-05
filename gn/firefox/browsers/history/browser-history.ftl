@@ -13,7 +13,7 @@ browser-history-before-web-era = Ñanduti mboyveguare
 browser-history-in-1950-computers = 1950-pe, umi mohendaha omyanyhẽva’ekue peteĩ koty ha ivyrove umi jepapaha ag̃aguágui. Hákatu pyaeterei oñakãrapu’ã ha péicha 1960-pe oñemoheñóima tembiaporape ikatupyrýva. Tekuái ha mbo’ehaovusu arapy tuichakue jave oñamindu’u iporãvetaha pe mohendaha oñe’ẽramo, oipytyvõtava mba’ekuaa pyahu iñapysẽtava.
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
-browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> ha’e apopyrã ñandutigua peteĩha oikoitéva ha 1969 jave oñemondo pe ñe’ẽmondo peteĩha Universidad de California, Los Ángeles (UCLA) rembipurupyahu rekohatee guive Instituto de Investigación de Stanford (SRI)-pe, avei California-gua.
+browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> ha’e apopyrã ñandutigua peteĩha oikoitéva ha 1969 jave oñemondo pe ñe’ẽmondo peteĩha Universidad de California, Los Ángeles (UCLA) rembiporupyahu rekohatee guive Instituto de Investigación de Stanford (SRI)-pe, avei California-gua.
 browser-history-that-sparked-a-revolution = Péva omoñepyrũ ñorairõ tembiporupyahu pyhápe. Oñemoheñói pyha pyahu ombojuajúva mbo’ehaovusu ha aty ohaperekáva arapy tuichakue jave. Hákatu 20 ary pukukue, Ñanduti ndaha’éi kuri opavavépe g̃uarã. Kóva ikatu kuri oipuru taperekaha mbo’ehaovu ha tekuaiguánte, temimbo’e ha tendaguasu tetã mba’e’ỹva. Oĩkuri heta tembiaporape ikatuhápe ou ha oho marandu pumbyry rupive, hákatu opavavete hasyeterei ijepuru. Pe Ñanduti ha’etéva ijurujáva ha ñanduti kundahára noñomoheñói kuri ary 1990 mboyve.
 browser-history-web-era = Ñanduti oĩ rire
 # Variables:
