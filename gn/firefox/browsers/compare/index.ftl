@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -13,8 +13,8 @@ compare-index-privacy-utility-portability = Ñemigua. Jepurúva. Jeguerahakuaa.
 # HTML page description
 compare-index-a-great-internet-browser-should = Kundahára iporãva ñanduti pegua oguerekopava’erã eikotevẽva, eguerahakuaava’erã mba’ekuaarã pa’ũme ha pe ñemigua eipotáva.
 compare-index-which-browser-is-best-at-keeping = ¿Mba’e kundahára iporãvéva opamba’e ereko hag̃ua ñemíme?
-compare-index-its-not-unreasonable-to-expect = Eha’arõke mba’ekuaarã ñemo’ã ha apopyre hekoñemíva ojeipurúva tapiaite ñandutípe. Michĩvéramo, peteĩ kundahára ome’ẽva’erã peteĩchagua “kundahára ñemigua ayvu” omboguéva ijehegui ne kundahára rembiasakue ha jeheka ambue puruhára oipurúva pe mohendaha ani hag̃ua ohecha. Ko korápe, umi poteĩ kundahára oñemoñondivéva ko’ápe orekóma kyta.
-compare-index-its-not-unreasonable-to-expect-fallback = Eha’arõke mba’ekuaarã ñemo’ã ha apopyre hekoñemíva ojepurúva tapiaite ñandutípe. Michĩvéramo, peteĩ kundahára ome’ẽva’erã peteĩchagua “kundahára ñemigua ayvu” (ojekuaáva avei ayvu jekuaa’ỹvaramo) omboguéva ijehegui ne kundahára rembiasakue ha jeheka, péicha ambue puruhára oipurúva pe mohendaha ani hag̃ua ohecha. Ko korápe, opavave kundahára oñemoñondivéva ko’ápe orekovéma kyta.
+compare-index-its-not-unreasonable-to-expect = Eha’arõke mba’ekuaarã ñemo’ã ha apopyre hekoñemíva ojeipurúva tapiaite ñandutípe. Michĩvéramo, peteĩ kundahára ome’ẽva’erã peteĩchagua “kundahára ñemigua ayvu” omboguéva ijehegui ne kundahára rembiasakue ha jeheka ambue puruhára oiporúva pe mohendaha ani hag̃ua ohecha. Ko korápe, umi poteĩ kundahára oñemoñondivéva ko’ápe orekóma kyta.
+compare-index-its-not-unreasonable-to-expect-fallback = Eha’arõke mba’ekuaarã ñemo’ã ha apopyre hekoñemíva ojepurúva tapiaite ñandutípe. Michĩvéramo, peteĩ kundahára ome’ẽva’erã peteĩchagua “kundahára ñemigua ayvu” (ojekuaáva avei ayvu jekuaa’ỹvaramo) omboguéva ijehegui ne kundahára rembiasakue ha jeheka, péicha ambue puruhára oiporúva pe mohendaha ani hag̃ua ohecha. Ko korápe, opavave kundahára oñemoñondivéva ko’ápe orekovéma kyta.
 compare-index-what-you-do-online-literally = Rejapóva ñandutípe avavetépe nomyangekoiva’erã.
 compare-index-another-browser-feature-that = Ambue mba’e orekova’erã kundahára ha’e pe katupyry omboykekuaávo ñanduti renda ha atyguasu ohapykuehóvo ñeikundaha mba’ekuaarã ha mba’ejogua — eimérõ jepe ñeikundaha tapiagua ayvúpe.
 compare-index-another-browser-feature-fallback = Ambue mba’e tekotevẽva oreko kundaha omboykeva’erã ñanduti renda ha mba’apohaguasu ohapykuehóvo ne ñeikundaha mba’ekuaarã ha ñemugua, avei eimérõ kundaha opavave oipurúvape. Hákatu kóva ndaha’éi péicha: oikóva, peteĩva kundahára ojokóva umi jehapykuehoha mbohapyháva kookie ijypykue rupi ha’e { -brand-name-firefox } ha { -brand-name-safari }.
