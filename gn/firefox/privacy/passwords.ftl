@@ -15,14 +15,14 @@ privacy-passwords-protecting-your-accounts = Ne mba’ete ñemo’ã natekotev�
 privacy-passwords-more-and-more = Ára ha ára hetave mba’e ha tuichavéva ñande rekovépe ñamo’ã ñe’ẽñemi mba’etekuéra ñanduti peguápe — jehaipy mborayhugua, ñepohano rehegua, viru ñongatuha ha hetave. Umi ñanduti renda oipuru tembiapo ñepyrũ rape emo’ã hag̃ua mba’e ehayhuvéva. Hetajey, mavave ndoikéi aja ne mba’etépe, ndaikatumo’ãi omoñe’ẽ ne ñandutiveve térã oguenohẽvo viru ne mba’etégui. Ñande rekove oguata ñanduti rupive, ¿mba’éicha ñamo’ãkuaa ñande rerachaukaha?
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = tl;dr:
-privacy-passwords-use-random-passwords = Oipuru ñe’ẽñemi jereguáva ha iñambuéva peteĩteĩva tendápe g̃uarã
+privacy-passwords-use-random-passwords = Oiporu ñe’ẽñemi jereguáva ha iñambuéva peteĩteĩva tendápe g̃uarã
 privacy-passwords-pay-attention-to = Ema’ẽag̃ui kundahára tekorosãre ñesẽre ha aníke ejeroviaiterei
 privacy-passwords-make-your-answers = Ejapo ne porandu ñembohovái tekorosãgua oikoporãva ne ñe’ẽñemícha
 privacy-passwords-use-a-password = Eipuru ñe’ẽñemi ñangarekohára hasy’ỹ hag̃ua imoheñói ha ñe’ẽñemi ñemomandu’a
 privacy-passwords-use-twofactor-authentication = Eipuru “ñemoneĩ mokõi reheguáva” ikatúma guive
 privacy-passwords-its-hard-out = Pe ñe’ẽñemi jeiko asy
 privacy-passwords-most-logins-today = Hetave mba’ete ko ára rupi oñemo’ã ñe’ẽñemi rupive. Peteĩ mba’evaiapoha omondáramo ne ñe’ẽñemi, oikekuaa ne mba’etápe ha ojapokuaa oimeraẽva mba’e péva rupive. Upévare, oñeporandúvo ne mba’ete rekorosãre, añetehápe eñamindu’umi ne ñe’ẽñemi mbaretekuére. Ha upéva he’ise eñamindu’uva’erãha opaite hendáicha umi mba’evaiapoha omondakuaaháicha ne mba’ete ñe’ẽñemi:
-privacy-passwords-seeing-you-use = Ehecha mba’éichapa oipuru tenda ipapapy’ỹva
+privacy-passwords-seeing-you-use = Ehecha mba’éichapa oiporu tenda ipapapy’ỹva
 privacy-passwords-guessing-it = Ijurupyasy
 privacy-passwords-stealing-a-file = Amonda ne marandurenda orekóva ne ñe’ẽñemi
 privacy-passwords-using-password-recovery = Aipuru ñe’ẽñemi guerujeyrã oĩporãjey hag̃ua

@@ -18,4 +18,4 @@ vpn-mobile-your-isp-v2 = Nde ISP ojokokuaa umi ñanduti renda térã mba’epuru
 vpn-mobile-your-isp = Nde ISP ojokokuaa umi ñanduti renda térã mba’epuru eipota’ỹva térã emboykekuaáva.
 vpn-mobile-hackers-can-steal-v2 = Umi hacker omondakuaa ne mba’ekuaarãite eikévo Wi-Fi opavave oipurukuávape, ñemuha térã aviõguejyha.
 # Obsolete string
-vpn-mobile-hackers-can-steal = Umi hacker omondakuaa ne mba’ekuaarãite eikévo Wi-Fi opavave oipurukuávape, ñemuha térã aviõguejyha.
+vpn-mobile-hackers-can-steal = Umi hacker omondakuaa ne mba’ekuaarãite eikévo Wi-Fi opavave oiporukuávape, ñemuha térã aviõguejyha.

@@ -42,7 +42,7 @@ landing-reviews-out-of-5 =
     }
 landing-reviews-show-next-button = ehechauka marandu’i oútava
 landing-reviews-show-previous-button = ehechauka marandu’i mboyveguáva
-landing-review-anonymous-user = { -brand-name-firefox } oipuru { $user_id }
+landing-review-anonymous-user = { -brand-name-firefox } oiporu { $user_id }
 landing-review-user-one-review = Amboaguyjeveme’ẽ { -brand-name-mozilla } atýpe ikatupyry añete rehe ha oñomi haguére che ñanduti veve kundaharape. Kóva ha’e jepysokue, ¡roikuave’ẽ opavavete ohecharamóva tekoñemíme!
 landing-review-user-two-review = Tembiporu emombo térã emboyke spam ñemondo nde ID ñanduti vevegua.
 landing-review-user-three-review = ¡Ahayhu ko jepysikue! Ndahasýi hákatu imbarete ha ojuajúvo kundahára ndive iporãvéntema.
