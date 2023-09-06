@@ -30,6 +30,7 @@ compare-opera-like-firefox-opera-delivers = 與 { -brand-name-firefox } 一樣{ 
 #   $attrs (string) - link to /firefox/pocket/ with additional attributes for analytics
 # "Facebook Messenger" is a brand name.
 compare-opera-opera-provides-a-lot-of-hidden = { -brand-name-opera } 簡單易用的介面當中提供了許多隱藏的實用工具。舉例來說它內建了對 { -brand-name-facebook } Messenger 的訊息應用程式的支援。還有一個新聞閱讀器可以收集您選擇的網站和新聞媒體的文章。 { -brand-name-firefox } 上有一個與此相對應的功能 <a { $attrs }>{ -brand-name-pocket }</a>。 { -brand-name-pocket } 是開放給 { -brand-name-firefox } 帳號註冊的免費服務。讓您可以簡單地在網路上找到並儲存有興趣的文章與影片。此外它還推薦各種能擴充您知識庫的文章。這些文章由實際而有想法的人所策展。
+compare-opera-in-terms-of-head-to-head-utility = 就實用性來比較，{ -brand-name-opera } 與 { -brand-name-firefox } 表現相當接近。{ -brand-name-opera } 可能在就相容於 { -brand-name-chrome } 擴充套件這一方面較有優勢。但另一個需要考慮的重要因素則是因為 { -brand-name-opera } 是使用 { -brand-name-chromium } 技術的瀏覽器，此技術與 { -brand-name-chrome } 相同，皆以高 CPU 與記憶體使用量著稱。
 # "Ex" is a former partner or spouse, as in "ex-boyfriend" or "ex-wife." Alternative: "former partner"
 compare-opera-both-firefox-and-opera-are = { -brand-name-firefox } 與 { -brand-name-opera } 都相容於所有平台包含 { -brand-name-windows }、{ -brand-name-mac }、{ -brand-name-linux } 、{ -brand-name-android } 及 { -brand-name-ios }。擁有 { -brand-name-firefox } 帳號的人可以很簡單地在所有登入的裝置間同步書籤、密碼、開啟的分頁、上網紀錄。有帳號的 { -brand-name-opera } 使用者也是如此。然而許多網站尤其是多年未更新的舊版網站仍然會完全封鎖最新版的 { -brand-name-opera }。如果您使用的是 { -brand-name-opera } 的話若需要前往前夫的舊部落格這樣的地方很重要請注意一點。
 # "Touch" and "Mini" are brand names.
