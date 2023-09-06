@@ -25,6 +25,13 @@ vpn-mac-follow-the-steps = Sledite korakom, opisanim v namestitvenem programu za
 
 vpn-download-unable-to-download = { -brand-name-mozilla-vpn } ni mogoče prevesti
 vpn-download-not-in-country = Oprostite, { -brand-name-mozilla-vpn } ni na voljo v vaši državi.
+vpn-open-the-file = 1. Odprite datoteko
+vpn-launch-the-app = 2. Zaženite aplikacijo
+vpn-login-or-signup = 3. Prijavite se ali ustvarite račun
+vpn-enter-your-email = Vnesite svoj e-poštni naslov za prijavo ali registracijo in začnite
+vpn-turn-on-vpn = 4. Vključite VPN
+vpn-pick-a-recommended = Izberite eno izmed priporočenih mest za hitro in stabilno povezavo ali ročno izberite želeno mesto in vklopite stikalo
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = Potrebujete pomoč pri prvih korakih?
