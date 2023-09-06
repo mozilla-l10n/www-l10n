@@ -25,6 +25,11 @@ vpn-mac-follow-the-steps = Sledite korakom, opisanim v namestitvenem programu za
 
 vpn-download-unable-to-download = { -brand-name-mozilla-vpn } ni mogoče prevesti
 vpn-download-not-in-country = Oprostite, { -brand-name-mozilla-vpn } ni na voljo v vaši državi.
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = Prenos { -brand-name-mozilla-vpn } bi se moral začeti samodejno. Če se ne, <br> <a href="{ $url }" id="{ $id }">ga znova zaženite</a> ali se vrnite na prenos za drugo napravo.
 vpn-open-the-file = 1. Odprite datoteko
 vpn-launch-the-app = 2. Zaženite aplikacijo
 vpn-login-or-signup = 3. Prijavite se ali ustvarite račun
@@ -35,3 +40,5 @@ vpn-pick-a-recommended = Izberite eno izmed priporočenih mest za hitro in stabi
 ## FAQ Strings
 
 vpn-download-faq-need-help = Potrebujete pomoč pri prvih korakih?
+vpn-download-faq-why-use = Zakaj naj bi uporabljal { -brand-name-mozilla-vpn }
+vpn-download-faq-need-more = Potrebujete še malo pomoči?
