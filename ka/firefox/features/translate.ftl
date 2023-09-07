@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = თარგმნეთ საი�
 # page description
 features-translate-translate-more-than = თარგმნეთ 100-ზე მეტი ენიდან თქვენს ენაზე პირდაპირ { -brand-name-firefox-browser }-ში – ჯერ არნახული სიმარტივით.
 features-translate-translate-the-web = თარგმნეთ საიტები { -brand-name-firefox }-ით
+# Shorter title used in subnav
+features-translate-translate-the-web-short = გვერდების თარგმნა
 # Obsolete string
 features-translate-the-google-translate = To { -brand-name-google } Translate გაფართოება { -brand-name-firefox }-ზე ვებსივრცეს ხელმისაწვდომის ხდის მთელი მსოფლიოსთვის.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = ამ <a { $attrs }>{ -brand-name-firefox-translations }გაფართოებით</a> შესაძლებელია შიგთავსის ავტომატურად თარგმნა ვებგვერდებზე, რომელთაც ეწვევით. ღრუბლოვან მომსახურებებზე დაფუძნებული სხვა შემცვლელებისგან განსხვავებით, აღნიშნული გაფართოება ნაწერს თარგმნის ადგილობრივად, პირდაპირ { -brand-name-firefox }-ში, შესაბამისად, შიგთავსი არ დატოვებს თქვენს მოწყობილობას.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = გადმოწერეთ { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, გამზადებული 100-ზე მეტი ენისთვის* გამოიყენება მილიონობით ადამიანის მიერ, მთელ მსოფლიოში. თუმცა ყოველ ჯერზე translate.google.com საიტზე შესვლა და გამოსვლა გვერდის წასაკითხად, მეტად მოუხერხებელია. <a { $attrs }>To { -brand-name-google } Translate</a> გაფართოებით კი გვერდის თარგმნა შესაძლებელია აქამდე არნახული სიმარტივით.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = გადმოწერეთ To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = გადმოწერეთ გაფართოება

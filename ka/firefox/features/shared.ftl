@@ -1,22 +1,25 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = ინტერნეტით უკეთ სარგებლობა
-features-shared-more-firefox-features = { -brand-name-firefox }-ბრაუზერის მეტი შესაძლებლობები
-features-shared-browse-faster = გვერდების სწრაფი მოძიება
-features-shared-your-favorite-extensions = თქვენი რჩეული გაფართოებები
-features-shared-balanced-memory = წონასწორული მეხსიერება
-features-shared-more-powerful-private-browsing = მეტად მძლავრი პირადი რეჟიმი
-features-shared-ad-tracker-blocking = სარეკლამო მეთვალყურეების არიდება
-features-shared-password-manager = პაროლების მმართველი
-features-shared-customize-your-browser = თქვენზე მორგებული ბრაუზერი
-features-shared-sync-between-devices = მოწყობილობების დასინქრონება
-features-shared-better-bookmarks = გაუმჯობესებული სანიშნები
+features-shared-firefox-features = { -brand-name-firefox } შესაძლებლობები
+features-shared-footer-cta-title = გააკეთეთ მეტი { -brand-name-firefox }-ით
+features-shared-footer-cta-desc = გამოიყენეთ სწრაფი, მსუბუქი, პირადულობაზე ორიენტირებული ბრაუზერი, რომელიც არამომგებიანი დაწესებულების მხარდაჭერაა და მუშაობს ყველა თქვენს მოწყობილობაზე.
+features-shared-footer-cta-button = ჩამოტვირთეთ { -brand-name-firefox }
+features-shared-is-firefox-a-fast-browser = { -brand-name-firefox } სწრაფი ბრაუზერია?
+features-shared-is-firefox-a-private-browser = { -brand-name-firefox } პირადი ბრაუზერია?
+features-shared-free-password-manager = პაროლების მმართველი
+features-shared-customize-your-firefox-browser = მოირგეთ თქვენი { -brand-name-firefox }-ბრაუზერი
+features-shared-firefox-browser-sync = { -brand-name-firefox }-ბრაუზერის სინქრონიზაცია
+features-shared-bookmark-manager = სანიშნების მმართველი
+features-shared-private-browsing-mode = პირადი დათვალიერების რეჟიმი
+features-shared-firefox-add-ons-and-browser-extensions = { -brand-name-firefox }-ის დამატებები და ბრაუზერის გაფართოებები
+features-shared-pinned-browser-tabs = მიმაგრებული ბრაუზერის ჩანართები
+features-shared-eyedropper-tool = სათვალე ხელსაწყო
+features-shared-pdf-editor = PDF რედაქტორი
 features-shared-fingerprinter-blocking = ამოცნობის შეზღუდვა
 features-shared-translate-the-web = გვერდების თარგმნა
 features-shared-picture-in-picture = ეკრანი-ეკრანში
-brand-name-firefox = { -brand-name-firefox }
