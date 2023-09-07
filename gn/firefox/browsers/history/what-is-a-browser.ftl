@@ -26,7 +26,7 @@ what-is-a-browser-when-the-web-browser = Pe ñanduti kundahára orekóvo apopyvu
 # Variables:
 #   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
 #   $url(url) - link to https://wikipedia.org/wiki/URL
-what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Umi hipervínculo</a> omoneĩ puruhárape oguatávo ambue kuatiaroguépe térã ñanduti renda. Peteĩteĩva ñanduti kuatiarogue, ta’ãnga ha ta’ãngamýi oreko imba’etee <a href="{ $url }">Localizador Uniforme de Recursos</a> (URL), ojeheróva avei ñanduti kundaharape. Kundahára oipurúrõ mohendahavusu ohekávo mba’ekuaarã, ñanduti kundaharape he’i kundahárape moõpa ohekáta umi mba’epuru oĩva html-pe, he’íva kundahárape mba’e ñanduti kuatiaroguépepa oĩta.
+what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Umi hipervínculo</a> omoneĩ poruhárape oguatávo ambue kuatiaroguépe térã ñanduti renda. Peteĩteĩva ñanduti kuatiarogue, ta’ãnga ha ta’ãngamýi oreko imba’etee <a href="{ $url }">Localizador Uniforme de Recursos</a> (URL), ojeheróva avei ñanduti kundaharape. Kundahára oipurúrõ mohendahavusu ohekávo mba’ekuaarã, ñanduti kundaharape he’i kundahárape moõpa ohekáta umi mba’epuru oĩva html-pe, he’íva kundahárape mba’e ñanduti kuatiaroguépepa oĩta.
 what-is-a-browser-cookies-not-the = Kookie (ndaha’éi oje’úva)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
