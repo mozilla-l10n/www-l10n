@@ -11,6 +11,10 @@ meta-description-2 = { -brand-name-firefox-relay } oipytyvõ heñói hag̃ua ña
 ## HERO SECTION
 
 hero-section-title = Emo’ã nde reratee tovamo’ãha ñanduti veve ha pumbyry hekorosãva ndive
+hero-section-body =
+    Ore pumbyry rovamo’ãha ha ñanduti veve hekorosã ha hasy’ỹva ipuru oipytyvõ nde reratee erekóvo ñemíme
+    ikatu hag̃ua eñemboheraguapy mba’ete pyahúpe, ejokóvo ñehenói ha ñe’ẽmondo eipota’ỹva, ha
+    og̃uahẽ ñanduti veve eipotávante ne ñanduti veve g̃uahẽhápe.
 # Context: This lists the various websites and magazines who have mentioned Firefox Relay.
 # Example: "As seen in: FORBES magainze and LifeHacker"
 hero-section-social-proof = Ojehechaháicha:
