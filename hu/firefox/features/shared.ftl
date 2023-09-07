@@ -1,22 +1,25 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = Jobb internetes élmény
-features-shared-more-firefox-features = Több { -brand-name-firefox } böngészőfunkciók
-features-shared-browse-faster = Böngésszen gyorsabban
-features-shared-your-favorite-extensions = A kedvenc kiegészítői
-features-shared-balanced-memory = Kiegyensúlyozott memória
-features-shared-more-powerful-private-browsing = Még hatékonyabb privát böngészés
-features-shared-ad-tracker-blocking = Reklámkövető-blokkolás
-features-shared-password-manager = Jelszókezelő
-features-shared-customize-your-browser = Szabja testre a böngészőjét
-features-shared-sync-between-devices = Szinkronizáljon az eszközök közt
-features-shared-better-bookmarks = Jobb könyvjelzők
+features-shared-firefox-features = { -brand-name-firefox } funkciók
+features-shared-footer-cta-title = Végezzen el több mindent a { -brand-name-firefox }dal
+features-shared-footer-cta-desc = Szerezze be a gyors, könnyű, adatvédelem-központú böngészőt, amelyet egy nonprofit szervezet támogat, és az összes eszközén működik.
+features-shared-footer-cta-button = { -brand-name-firefox } letöltése
+features-shared-is-firefox-a-fast-browser = A { -brand-name-firefox } gyors böngésző?
+features-shared-is-firefox-a-private-browser = A { -brand-name-firefox } privát böngésző?
+features-shared-free-password-manager = Jelszókezelő
+features-shared-customize-your-firefox-browser = Szabja testre a { -brand-name-firefox } böngészőjét
+features-shared-firefox-browser-sync = { -brand-name-firefox } böngészőszinkronizálás
+features-shared-bookmark-manager = Könyvjelzőkezelő
+features-shared-private-browsing-mode = Privát böngészési mód
+features-shared-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } kiegészítők és böngészőkiegészítők
+features-shared-pinned-browser-tabs = Rögzített böngészőlapok
+features-shared-eyedropper-tool = Pipetta eszköz
+features-shared-pdf-editor = PDF szerkesztő
 features-shared-fingerprinter-blocking = Ujjlenyomat-készítők blokkolása
 features-shared-translate-the-web = A web lefordítása
 features-shared-picture-in-picture = Kép a képben
-brand-name-firefox = { -brand-name-firefox }

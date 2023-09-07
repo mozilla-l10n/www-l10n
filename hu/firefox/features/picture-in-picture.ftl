@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } kép a képben: Végezzen el több mindent a kiugró videókkal
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Dolga van, de nézne valamit? Tegye mindkettőt a { -brand-name-firefox } kép a képben funkciójával.
+features-pip-picture-in-picture = Kép a képben
 features-pip-new-feature-firefox-multi-picture = Új funkció: { -brand-name-firefox } egyszerre több Kép a képben
 features-pip-cool-feature-picture-in-picture = Remek funkció: Kép a képben
 features-pip-get-more-done-with-pop-out-videos = Végezzen el több mindent a kiugró videókkal

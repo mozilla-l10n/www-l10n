@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = Mi az ujjlenyomat-készítés, és miért érdemes blokkolnia
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Az ujjlenyomat-készítés egy olyan online nyomkövetés, amely tolakodóbb mint a szokásos süti-alapú követés – ezért blokkolja őket a { -brand-name-firefox-browser }.
+features-fingerprinting-fingerprint-blocking = Ujjlenyomat-blokkolás
 features-fingerprinting-firefox-blocks-fingerprinting = A { -brand-name-firefox } blokkolja az ujjlenyomat-készítést
 features-fingerprinting-ditch-the-sticky = Rázza le az Önt követő ragadós hirdetéseket a { -brand-name-firefox } böngésző beépített ujjlenyomat-készítő blokkolóival.
 # description for the header image

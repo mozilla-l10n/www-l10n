@@ -11,7 +11,9 @@ learn-more-about = Tudjon meg többet a { -brand-name-firefox } böngészőkről
 learn-more-faq = { -brand-name-firefox } GYIK
 the-history-of = A böngészők története
 firefox-has-been = A { -brand-name-firefox } szinte a kezdetek óta ott van.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: lázadó, aminek célja van
+# Obsolete string
 firefox-is-independent = A { -brand-name-firefox } független, és a nonprofit { -brand-name-mozilla } támogatja, amely az online jogaiért küzd, ellenőrzés alatt tartja a vállalatbirodalmakat, és mindenki számára elérhetővé teszi az internetet, mindenhol.
 what-is-a = Mi az a webböngésző?
 a-web-browser = Egy webböngészővel bárhová eljuthat az interneten, lehetővé téve, hogy szöveget, képeket és videókat tekintsen meg a világ bármely pontjáról.
@@ -59,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: több védelem. Kevesebb aggo
 were-obsessed-with = Megszállottam védjük a magánszféráját. Ezért tettük a { -brand-name-firefox } privát böngészést még nagyobb tudásúvá, mint mások.
 incognito-browser-what = Inkognitó böngésző: Mit is jelent valójában
 firefox-calls-it = A { -brand-name-firefox } privát böngészésnek, a { -brand-name-chrome } inkognitó módnak hívja. Mindkettővel az előzmények mentése nélkül böngészheti a világhálót.
+# Obsolete string
 take-the-stress = Tegye stresszmentessé a biztonságos böngésző megtalálását.
+# Obsolete string
 building-a-safe = Egy biztonságos böngésző készítése legalább annyira művészet, mint tudomány, mert nincsenek előre meghatározott szabályok.
 firefox-more-fingerprinter-blocking = Ujjlenyomat-készítők blokkolása
 firefox-more-fingerprinting-is-a = Az ujjlenyomat-készítés egy olyan online nyomkövetés, amely tolakodóbb mint a szokásos süti-alapú követés – ezért blokkolja őket a { -brand-name-firefox-browser }.
@@ -69,3 +73,5 @@ firefox-more-a-guide-to = Útmutató a biztonságosabb bejelentkezésekhez és j
 firefox-more-more-and-more = Egyre több érzékeny és értékes dolgot őriznek jelszavak az életünkben.
 firefox-more-avoid-misinformation-heading = Kerülje az online félretájékoztatást – a { -brand-name-firefox } segítségére van
 firefox-more-avoid-misinformation-desc = Nézzen meg tippeket, hogy kevesebb téves információt láthasson, és arra koncentrálhasson, ami fontos Önnek.
+firefox-more-is-firefox-a-private-browser = A { -brand-name-firefox } privát böngésző?
+firefox-more-were-focused-on-your-right-to = Az adatvédelemhez való jogára összpontosítunk. Az adatait, webes tevékenységét, az online életét a { -brand-name-firefox } védi.

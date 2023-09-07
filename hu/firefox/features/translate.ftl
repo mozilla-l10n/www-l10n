@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Fordítsa le a webet – közvetlen
 # page description
 features-translate-translate-more-than = Fordítson több mint 100 nyelvről magyarra közvetlenül a { -brand-name-firefox-browser }ben – könnyebben, mint valaha.
 features-translate-translate-the-web = Fordítsa le a webet a { -brand-name-firefox(case: "instrumental") }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = A web lefordítása
 # Obsolete string
 features-translate-the-google-translate = A „To { -brand-name-google } Translate” { -brand-name-firefox }-kiegészítő az egész világ számára elérhetővé teszi a webet.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = A <a { $attrs }>{ -brand-name-firefox-translations } kiegészítő</a> automatikusan le tudja fordítani a felkeresett weboldalak tartalmát. Néhány felhő-alapú alternatívától eltérően, ez a kiegészítő helyben fordítja le a szöveget a { -brand-name-firefox }ban, így a lefordítandó tartalom nem hagyja el a gépét.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = A { -brand-name-firefox-translations } beszerzése
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = A { -brand-name-google } Fordító, több mint 100 nyelven* áll a rendelkezésére, és emberek milliói használják világszerte. De a translate.google.com és az elolvasandó lap közti váltás nem nyújt ideális felhasználói élményt. A <a { $attrs }>To { -brand-name-google } Translate</a> kiegészítő könnyebbé teszi a jelenlegi oldal lefordítását, mint valaha.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = A To { -brand-name-google } Translate beszerzése
 # Obsolete string
 features-translate-get-the-extension = Kiegészítő beszerzése
