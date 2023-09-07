@@ -11,7 +11,9 @@ learn-more-about = Dysgwch ragor am gynnyrch { -brand-name-firefox } sy'n trin e
 learn-more-faq = Cwestiynau Cyffredin { -brand-name-firefox }
 the-history-of = Hanes porwyr gwe
 firefox-has-been = Mae { -brand-name-firefox } wedi bod yno ers bron y dechrau.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Rebel gydag achos
+# Obsolete string
 firefox-is-independent = Mae { -brand-name-firefox } yn annibynnol ac yn rhan o { -brand-name-mozilla } nid-er-elw, sy'n brwydro dros eich hawliau ar-lein ac yn gwneud y Rhyngrwyd yn agored ar gyfer pawb, ymhob man.
 what-is-a = Beth yw porwr gwe?
 a-web-browser = Mae porwr gwe yn mynd â chi unrhyw le ar y rhyngrwyd, gan adael i chi weld testun, delweddau a fideo o unrhyw le yn y byd.
@@ -59,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: Mwy diogel. Llai o boen.
 were-obsessed-with = Mae gennym obsesiwn am ddiogelu eich preifatrwydd. Dyna pam rydym wedi gwneud Pori Preifat yn { -brand-name-firefox } yn fwy pwerus na'r lleill.
 incognito-browser-what = Porwr Incognito: Beth mae'n ei olygu mewn gwirionedd
 firefox-calls-it = Mae { -brand-name-firefox } yn ei alw'n bori preifat, mae { -brand-name-chrome } yn ei alw'n fodd incognito. Mae'r ddau yn gadael i chi bori'r we heb gadw'ch hanes pori.
+# Obsolete string
 take-the-stress = Tynnwch y straen o ddod o hyd i borwr diogel.
+# Obsolete string
 building-a-safe = Mae adeiladu porwr diogel yn gelfyddid ac yn wyddoniaeth oherwydd nad oes unrhyw reolau penodol.
 firefox-more-fingerprinter-blocking = Rhwystro Bysbrintwyr
 firefox-more-fingerprinting-is-a = Mae bysbrintio'n fath o dracio ar-lein sy'n fwy ymledol na thracio cyffredin sy'n seiliedig ar gwcis - dyna pam mae { -brand-name-firefox-browser } yn ei rwystro.
@@ -69,3 +73,5 @@ firefox-more-a-guide-to = Canllaw i fewngofnodion a chyfrineiriau mwy diogel
 firefox-more-more-and-more = Mae mwy a mwy o'r pethau sensitif, gwerthfawr yn ein bywyd yn cael eu gwarchod gan gyfrineiriau.
 firefox-more-avoid-misinformation-heading = Osgoi camwybodaeth ar-lein - mae { -brand-name-firefox } yma i'ch helpu
 firefox-more-avoid-misinformation-desc = Dyma awgrymiadau ar gyfer gweld llai o gamwybodaeth a chanolbwyntio ar yr hyn sy'n bwysig i chi.
+firefox-more-is-firefox-a-private-browser = A yw { -brand-name-firefox } yn borwr preifat?
+firefox-more-were-focused-on-your-right-to = Rydym yn canolbwyntio ar eich hawl i breifatrwydd. Mae eich data, eich gweithgarwch gwe, eich bywyd ar-lein wedi'i ddiogelu gyda { -brand-name-firefox }.

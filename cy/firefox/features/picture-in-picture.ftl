@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = Llun-mewn-Llun { -brand-name-firefox }: Gwnewch fwy gyda fideos sy'n popio allan
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Oes gennych chi bethau i'w gwneud a phethau i'w gwylio? Gwnewch y ddau gan ddefnyddio Llun-mewn-Llun yn { -brand-name-firefox }.
+features-pip-picture-in-picture = Llun mewn Llun
 features-pip-new-feature-firefox-multi-picture = Nodwedd newydd: { -brand-name-firefox } Llun-mewn-Llun lluosog
 features-pip-cool-feature-picture-in-picture = Nodwedd ddefnyddiol: Llun-mewn-Llun
 features-pip-get-more-done-with-pop-out-videos = Gwnewch ragor gyda fideos popio allan

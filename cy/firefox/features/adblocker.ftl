@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Creu parth dim tracio gyda Rhwystro C
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Ar { -brand-name-firefox }, gallwch ddefnyddio'r gosodiadau <a href="{ $privacy }">Preifatrwydd</a> neu <a href="{ $blocking }">Rhwystro Cynnwys</a> i gael hyd yn oed mwy o reolaeth dros tracwyr hysbysebion sy'n gweinyddu'r hysbysebion i chi.
 features-adblocker-choose-your-level-of-protection = Dewiswch eich lefel o ddiogelwch
+features-adblocker-to-start-click-on-the-v2 = I ddechrau, cliciwch ar y darian i'r chwith o'r bar cyfeiriad ar unrhyw dudalen we a dewis "Gosodiadau Amddiffyn." Bydd hyn yn agor y panel Gosodiadau Preifatrwydd a Diogelwch { -brand-name-firefox } mewn tab newydd. Dylech weld naidlen las gyda gwahanol ddewisiadau.
+# Obsolete string
 features-adblocker-to-start-click-on-the = I gychwyn, cliciwch ar y ddewislen { -brand-name-firefox } yng nghornel dde uchaf eich sgrin. Mae'n edrych fel tair llinell wedi'u pentyrru ar ben ei gilydd. Yn y gwymplen, cliciwch ar Rhwystro Cynnwys. Dylech weld llamlen las gyda gwahanol ddewisiadau.
 features-adblocker-go-easy-with-standard = Cymryd hi'n hawdd gyda'r modd Safonol
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Cyflymu diolch i rwystryddion hysbyse
 features-adblocker-in-some-cases-an-ad-blocker = Mewn rhai achosion, gall rhwystrydd hysbysebion helpu'ch porwr i fynd yn gyflymach. Pan fydd hysbyseb yn llwytho, gall arafu gwefan. Ar yr un pryd, mae'n cymryd mwy o amser i ddod o hyd i'r hyn rydych chi'n chwilio amdano os ydych chi'n rhy brysur yn cau hysbysebion.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Os ydych chi eisiau dysgu mwy am rwystro hysbysebion, mae cannoedd o estyniadau atalyddion hysbysebion ar gael ar gyfer { -brand-name-firefox } a phorwyr eraill. Os ydych am roi cynnig ar y defnydd atalyddion hysbysebion { -brand-name-firefox }, <a href=" { $url }">cliciwch yma i lawrlwytho</a> porwr sy'n rhoi preifatrwydd yn gyntaf.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Os hoffech chi ddysgu rhagor am rhwystro hysbysebion, mae cannoedd o estyniadau rhwystryddion hysbysebion ar gael ar gyfer { -brand-name-firefox } a phorwyr eraill. Os ydych chi am roi cynnig ar yr rhwystrydd hysbysebion mae { -brand-name-firefox } yn ei ddefnyddio, <a href="{ $url }">cliciwch yma i lwytho i lawr</a> porwr sy'n rhoi preifatrwydd yn gyntaf.
-features-adblocker-take-control-of-your-browser = Cymerwch reolaeth o'ch porwr.
