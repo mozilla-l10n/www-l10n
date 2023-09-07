@@ -4,6 +4,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+
+# Obsolete string
 whatsnew-page-title = Was ist neu in { -brand-name-firefox }? – Mehr Privatsphäre, mehr Schutz.
 whatsnew-page-description = Stell dich gegen eine Branche, die deine Daten an Dritte verkauft. Nutze Technologien, die sich für dich einsetzen und schütze dich online noch besser.
 whatsnew-firefox = { -brand-name-firefox }
@@ -25,3 +27,4 @@ whatsnew-out-of-date-notification-v2 = Es gibt eine neuere Version von { -brand-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Lies die <a href="{ $url }">Versionshinweise</a>, um mehr über die Neuerungen in deinem { -brand-name-firefox } zu erfahren.
+
