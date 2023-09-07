@@ -4,19 +4,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = Ein besseres Interneterlebnis
-features-shared-more-firefox-features = Weitere Funktionen des { -brand-name-firefox }-Browsers
-
-features-shared-browse-faster = Schneller surfen
-features-shared-your-favorite-extensions = Ihre Lieblingserweiterungen
-features-shared-balanced-memory = Ausgeglichener Speicherverbrauch
-features-shared-more-powerful-private-browsing = Ihr Privater Modus
-features-shared-ad-tracker-blocking = Ihr Werbe-Tracker-Blocker
-features-shared-password-manager = Passwort-Manager
-features-shared-customize-your-browser = Ihre Themes
-features-shared-sync-between-devices = Synchron auf allen Geräten
-features-shared-better-bookmarks = Macht Lesezeichen-Liebhaber glücklich
-features-shared-fingerprinter-blocking = Blockierung von Identifizierern (Fingerprintern)
-features-shared-translate-the-web = Das Web übersetzen
 features-shared-picture-in-picture = Bild-im-Bild (PiP)
-brand-name-firefox = { -brand-name-firefox }

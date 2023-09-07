@@ -4,19 +4,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = Pengalaman internet yang lebih baik
-features-shared-more-firefox-features = Fitur peramban { -brand-name-firefox } lainnya
-
-features-shared-browse-faster = Menjelajah lebih cepat
-features-shared-your-favorite-extensions = Ekstensi favorit Anda
-features-shared-balanced-memory = Memori yang berimbang
-features-shared-more-powerful-private-browsing = Penjelajahan Pribadi yang lebih bertenaga
-features-shared-ad-tracker-blocking = Pemblokiran iklan pelacak
-features-shared-password-manager = Pengelola sandi
-features-shared-customize-your-browser = Ubahsuaikan peramban Anda
-features-shared-sync-between-devices = Sinkronisasi antar perangkat
-features-shared-better-bookmarks = Markah lebih baik
-features-shared-fingerprinter-blocking = Pemblokiran Fingerprinting
-features-shared-translate-the-web = Terjemahkan web
 features-shared-picture-in-picture = Gambar-dalam-Gambar
-brand-name-firefox = { -brand-name-firefox }

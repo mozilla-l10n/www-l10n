@@ -4,19 +4,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = より良いインターネット体験
-features-shared-more-firefox-features = { -brand-name-firefox } ブラウザーの他の機能
-
-features-shared-browse-faster = より高速にブラウズ
-features-shared-your-favorite-extensions = お気に入りの拡張機能
-features-shared-balanced-memory = バランスの取れたメモリ
-features-shared-more-powerful-private-browsing = より強力なプライベートブラウジング
-features-shared-ad-tracker-blocking = 広告トラッカーのブロック
-features-shared-password-manager = パスワードマネージャー
-features-shared-customize-your-browser = ブラウザーをカスタマイズ
-features-shared-sync-between-devices = デバイス間で同期
-features-shared-better-bookmarks = より高機能なブックマーク
-features-shared-fingerprinter-blocking = フィンガープリント採取をブロック
-features-shared-translate-the-web = ウェブを翻訳
 features-shared-picture-in-picture = ピクチャーインピクチャー
-brand-name-firefox = { -brand-name-firefox }
