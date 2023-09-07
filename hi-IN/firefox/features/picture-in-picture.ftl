@@ -9,6 +9,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } प�
 
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = काम भी करना है और वीडियो भी देखना है? { -brand-name-firefox } में पिक्चर-इन-पिक्चर से दोनों काम करें।
+
+
 features-pip-new-feature-firefox-multi-picture = नया फ़ीचर: { -brand-name-firefox } मल्टी पिक्चर-इन-पिक्चर
 features-pip-cool-feature-picture-in-picture = शानदार फ़ीचर: पिक्चर-इन-पिक्चर
 features-pip-get-more-done-with-pop-out-videos = पॉप-आउट वीडियो की सुविधा से और भी ज़्यादा काम करें

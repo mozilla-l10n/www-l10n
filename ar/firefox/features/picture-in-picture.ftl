@@ -9,6 +9,8 @@ features-pip-firefox-picture-in-picture-get-more = الفيديوهات المع
 
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = هل تريد إنجاز بعض المهام ومُشاهدة بعض الفيديوهات؟ افعل كِلا الأمرين باستخدام ميزة الفيديوهات صورة-في-صورة (PiP) في مُتصفح { -brand-name-firefox }.
+
+
 features-pip-new-feature-firefox-multi-picture = ميزة جديدة: الفيديوهات المعترِضة المتعددة في متصفح { -brand-name-firefox }
 features-pip-cool-feature-picture-in-picture = ميزة رائعة: فيديوهات صورة-في-صورة (PiP)
 features-pip-get-more-done-with-pop-out-videos = أَنْجِزْ المزيد من المهام وأنت تُشاهد الفيديوهات المنبثقة
