@@ -38,7 +38,7 @@ firefox-privacy-hub-theres-no-hidden-agenda-here = Ndoroguerekói mokõigua roja
 firefox-privacy-hub-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
-firefox-privacy-hub-because-we-put-people-first = Mba’ére, oréve g̃uarã, yvypóra romohenda tenondete. Upévare, oreykeko <a href="{ $foundation }">oku’éva ndaha’éi viru rapykuéri</a>. Ñepyrũha guive, rohupytyséva ha’e ñanduti ñemo’ã ha opavave puruhárape.
+firefox-privacy-hub-because-we-put-people-first = Mba’ére, oréve g̃uarã, yvypóra romohenda tenondete. Upévare, oreykeko <a href="{ $foundation }">oku’éva ndaha’éi viru rapykuéri</a>. Ñepyrũha guive, rohupytyséva ha’e ñanduti ñemo’ã ha opavave poruhárape.
 firefox-privacy-hub-learn-more-about-our-mission = Eñemomaranduve ore rembipotáre
 firefox-privacy-hub-your-privacy-by-the-product = Ne ñemigua, apopyre oĩháicha
 firefox-privacy-hub-firefox-products-work-differently = Umi apopyre { -brand-name-firefox } omba’apo ambueháicha ojejapo rupi omo’ã hag̃ua ne ñemigua ñepyrũrã.
@@ -64,7 +64,7 @@ firefox-privacy-hub-protection-beyond-tracking = Ñemo’ã amo gotyove jehapyku
 firefox-privacy-hub-if-you-have-a-firefox-account = Erekóramo { -brand-name-firefox-account }, avei ikatu ehecha mba’éichapa roipytyvõ emo’ã hag̃ua ne maranduete ha ne ñe’ẽñemi.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
-firefox-privacy-hub-more-than-s-trackers-blocked = Hetave { $trackers } tapykuehoha jokopyre ko’ẽreíre { -brand-name-firefox } puruhárape g̃uarã
+firefox-privacy-hub-more-than-s-trackers-blocked = Hetave { $trackers } tapykuehoha jokopyre ko’ẽreíre { -brand-name-firefox } poruhárape g̃uarã
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email = Ehaívo ne ñanduti veve kundaharape { -brand-name-firefox-monitor }-pe, ore resaráima sapy’aitépe rohechajeývo oĩpa mba’ekuaarã ñembyai ojekuaáva, neremoneĩri mba’éramo rohechajeývo ñembyai ipyahúva ne maranduete rehegua.
 firefox-privacy-hub-check-for-breaches = Ehechajey oĩpa ñembyai

@@ -26,10 +26,10 @@ history-community-members-got-involved = Tekoha pegua tapichakuéra oike ha isar
 history-people-contributed-to-mozilla = Tapichakuéra oipytyvõ { -brand-name-mozilla } ndive heta hendáicha, hákatu opavavete omoheñoise software ijurujáva omoneĩva yvypórape oiporavokuaávo mba’éichapa oipurúta ñanduti.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
-history-after-several-years-of-development = Heta ary oñemboguata rire, <a href="{ $mozilla1 }">{ -brand-name-mozilla }1.0</a>, tembiapo ñepyrũgua, osẽypy ary 2002 jave. Ko tembiapo oguereko heta mba’epyahu porã kundahárape, ñanduti veve puruhára ha ambue tembiporu’i oĩva ipype, hákatu ndahetái tapicha oiporúva kuri.
+history-after-several-years-of-development = Heta ary oñemboguata rire, <a href="{ $mozilla1 }">{ -brand-name-mozilla }1.0</a>, tembiapo ñepyrũgua, osẽypy ary 2002 jave. Ko tembiapo oguereko heta mba’epyahu porã kundahárape, ñanduti veve poruhára ha ambue tembiporu’i oĩva ipype, hákatu ndahetái tapicha oiporúva kuri.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
-history-by-2002-well-over-90 = Pe 2002 jave, <a href="{ $over90 }">hetave 90% ñanduti puruhára </a> oikundaha { -brand-name-ie } ndive.
+history-by-2002-well-over-90 = Pe 2002 jave, <a href="{ $over90 }">hetave 90% ñanduti poruhára </a> oikundaha { -brand-name-ie } ndive.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = Ndahetái tapicha ohechakuaa upéramo, hákatu pe Phoenix ñepyrũguáva (uperire ojeheróva kuri { -brand-name-firefox }) avei ogueñohẽ kuri { -brand-name-mozilla } atygua upe arýpe ome’ẽkuaa hag̃uáicha <a href="{ $charter }">ñeikundaha porãve rekávo</a> hetaiteve tapichápe g̃uarã.
@@ -46,15 +46,15 @@ history-it-did-this-by-continuing = Ojapo omoherakuã memévo software, { -brand
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> osẽ ñepyrũ ary 2004 jave ha ojepurueterei; peteĩ ary mboyve, oñemboguejy <a href="{ $millions }">hetaiteve 100 suágui </a>.
-history-new-versions-of-firefox = Upete guive, oñemyasãi memete { -brand-name-firefox } hekopyahúva ha ko’ẽreíre osẽ tenondete. Pe { -brand-name-firefox } ojekuaa rupive oipypytyvõ puruhárape oiporavojey hag̃ua.
+history-new-versions-of-firefox = Upete guive, oñemyasãi memete { -brand-name-firefox } hekopyahúva ha ko’ẽreíre osẽ tenondete. Pe { -brand-name-firefox } ojekuaa rupive oipypytyvõ poruhárape oiporavojey hag̃ua.
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Pe ñeñani ipyahúva <a href="{ $innovation }">ombopya’eve mba’epyahu</a> ha omboha’eve Ñanduti opavavetépe g̃uarã.
 # Variables:
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
-history-in-2013-we-launched-firefox = Ary 2013 jave, rogueñohẽ <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> hekosasõ ñanduti pokatu pumbyry ha’evévape ha ome’ẽ hag̃ua ñangarekoha ha jeporavokuaa puruhára pyahu og̃uahẽramóva ñandutípe g̃uarã.
+history-in-2013-we-launched-firefox = Ary 2013 jave, rogueñohẽ <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> hekosasõ ñanduti pokatu pumbyry ha’evévape ha ome’ẽ hag̃ua ñangarekoha ha jeporavokuaa poruhára pyahu og̃uahẽramóva ñandutípe g̃uarã.
 history-mozilla-also-celebrated = { -brand-name-mozilla } avei omomora 15 ary ñemboty 2013-pe.
-history-the-community-has-shown = Tekoha ohechauka umi ñemuha guasu ikatuha oipytyvõ apopyrã ayvu ijurujávape ojejapokuaahápe apopyre tuicháva puruhára pahápe g̃uara ha’éva software ijayvu jurujáva.
+history-the-community-has-shown = Tekoha ohechauka umi ñemuha guasu ikatuha oipytyvõ apopyrã ayvu ijurujávape ojejapokuaahápe apopyre tuicháva poruhára pahápe g̃uara ha’éva software ijayvu jurujáva.
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Hetaiteve yvypóra ko’ág̃a rupi oiporu Ñanduti ha ojapokuaa <a href="{ $all }">iñe’ẽtépe</a>.

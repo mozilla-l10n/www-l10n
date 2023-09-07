@@ -10,7 +10,7 @@ privacy-passwords-security-guide-to = Tembiapo ñepyrũ rapépe g̃uarã ha ñe�
 # HTML page description
 privacy-passwords-more-and-more-desc = Ko’ẽreíre hetave mba’e ñande rekovépe omo’ã ñe’ẽñemi mba’etekuéra ñandutípe. ¿Mba’éichapa oñemo’ãkuaa ñande rérachaukaha?
 # page content
-privacy-passwords-a-security-guide = Tekorosã rape puruhárape g̃uarã ha ñe’ẽñemi hekosãva
+privacy-passwords-a-security-guide = Tekorosã rape poruhárape g̃uarã ha ñe’ẽñemi hekosãva
 privacy-passwords-protecting-your-accounts = Ne mba’ete ñemo’ã natekotevẽi hasývo ijejapo — ha { -brand-name-firefox } ne pytyvõkuaa upevarã.
 privacy-passwords-more-and-more = Ára ha ára hetave mba’e ha tuichavéva ñande rekovépe ñamo’ã ñe’ẽñemi mba’etekuéra ñanduti peguápe — jehaipy mborayhugua, ñepohano rehegua, viru ñongatuha ha hetave. Umi ñanduti renda oipuru tembiapo ñepyrũ rape emo’ã hag̃ua mba’e ehayhuvéva. Hetajey, mavave ndoikéi aja ne mba’etépe, ndaikatumo’ãi omoñe’ẽ ne ñandutiveve térã oguenohẽvo viru ne mba’etégui. Ñande rekove oguata ñanduti rupive, ¿mba’éicha ñamo’ãkuaa ñande rerachaukaha?
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
