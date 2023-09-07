@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = { -brand-name-firefox } 有什麼新鮮事？
+# Obsolete string
 whatsnew-page-title = { -brand-name-firefox } 有什麼新鮮事：更有隱私、更多保護。
 whatsnew-page-description = 採取行動，反對產業中將您的資料賣給第三方的行為。使用為您而戰的技術，在網路上確保聰明與安全。
 whatsnew-firefox = { -brand-name-firefox }
@@ -21,3 +23,4 @@ whatsnew-out-of-date-notification-v2 = 還有更新版的 { -brand-name-firefox 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = 請閱讀<a href="{ $url }">發行公告</a>來了解您的 { -brand-name-firefox } 瀏覽器還有哪些新鮮事。
+whatsnew-signoff = <strong>由 { -brand-name-mozilla } 提供技術支持。</strong>自 1998 年起將人看得比利益更重要。

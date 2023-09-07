@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } 子母畫面功能：把影片彈出視窗，同時完成更多事
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = 想要一邊做事情又一邊看影片嗎？使用 { -brand-name-firefox } 的子母畫面功能同時做兩件事。
+features-pip-picture-in-picture = 子母畫面
 features-pip-new-feature-firefox-multi-picture = 全新功能：{ -brand-name-firefox } 多重子母畫面
 features-pip-cool-feature-picture-in-picture = 酷炫功能：子母畫面
 features-pip-get-more-done-with-pop-out-videos = 把影片彈出視窗，同時完成更多事

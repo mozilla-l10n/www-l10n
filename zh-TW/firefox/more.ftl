@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = 了解更多會在處理資料時尊重您，並且為了保�
 learn-more-faq = { -brand-name-firefox } 常見問題 FAQ
 the-history-of = 網頁瀏覽器簡史
 firefox-has-been = { -brand-name-firefox } 從一開始就與您同行。
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }：有理由的反抗軍
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } 是一套獨立的瀏覽器，由為您在網路上的權利而戰，並且致力讓網際網路隨時隨地、任何人都能平等使用的非營利組織 { -brand-name-mozilla } 在背後全力相挺。
 what-is-a = 網頁瀏覽器是什麼？
 a-web-browser = 網頁瀏覽器能帶您暢遊網際網路，讓您看到來自世界各地的文字、影音圖片內容。
@@ -21,8 +23,6 @@ firefox-is-more = { -brand-name-firefox } 不只是瀏覽器
 its-a-lightning = 這是讓您能有最佳上網體驗的光速之門。
 get-the-browsers = 下載一直以來，都將您的隱私擺在第一位的瀏覽器
 get-the-privacy = 加強型追蹤保護功能在每次使用瀏覽器時都自動開啟，讓您獲得應有的尊重。
-take-your-passwords = 密碼隨身帶著走
-securely-access-the = 在任何地方使用儲存到 { -brand-name-firefox } 的密碼 — 瀏覽器之外也沒問題。
 choose-which-firefox = 用您的語言下載 { -brand-name-firefox-browser }
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } for { -brand-name-chromebook }
 firefox-more-while-on-chromebook = 雖然 { -brand-name-chromebook } 已經內建了 { -brand-name-chrome }，下載使用 { -brand-name-firefox } 做為您日常使用的瀏覽器還是有下列好處：
@@ -61,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }：保護更多、擔心更少�
 were-obsessed-with = 我們超．級．注．重於保護您的隱私。這也是我們讓 { -brand-name-firefox } 的隱私瀏覽功能比其他瀏覽器威力更強大的原因。
 incognito-browser-what = 瀏覽器的無痕模式：到底是什麼？
 firefox-calls-it = { -brand-name-firefox } 把這個功能叫做「隱私瀏覽」，而 { -brand-name-chrome } 把這個功能稱為「無痕模式」；兩個功能都可以讓您上網不留下瀏覽紀錄。
+# Obsolete string
 take-the-stress = 讓尋找安全瀏覽器的過程變得更輕鬆。
+# Obsolete string
 building-a-safe = 要打造安全的瀏覽器不是簡單的事，這是一門藝術，又是一門科學。
 firefox-more-fingerprinter-blocking = 封鎖數位指紋追蹤程式
 firefox-more-fingerprinting-is-a = 「數位指紋追蹤」是一種比使用 Cookie 還更有侵入性的追蹤方式，這也是 { -brand-name-firefox-browser } 要封鎖它的原因。
@@ -71,3 +73,5 @@ firefox-more-a-guide-to = 更安全的登入資訊與密碼指南
 firefox-more-more-and-more = 我們的生活中有更多敏感、有價值的東西需透過密碼來保護。
 firefox-more-avoid-misinformation-heading = 避免遇到網路上的假訊息 - { -brand-name-firefox } 在此協助
 firefox-more-avoid-misinformation-desc = 看看有哪些能夠看到更少假訊息，並且更加專注於對您來說最重要資訊的小秘訣。
+firefox-more-is-firefox-a-private-browser = { -brand-name-firefox } 是隱私瀏覽器嗎
+firefox-more-were-focused-on-your-right-to = 我們聚焦於您的隱私權。您的資料、上網行為、您的線上生活都受到 { -brand-name-firefox } 的保護。

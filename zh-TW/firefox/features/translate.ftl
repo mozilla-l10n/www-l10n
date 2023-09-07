@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = 直接在瀏覽器中翻譯網頁�
 # page description
 features-translate-translate-more-than = 直接在 { -brand-name-firefox-browser }中翻譯超過 100 種語言的網頁，比以往更方便。
 features-translate-translate-the-web = 使用 { -brand-name-firefox } 翻譯網頁內容
+# Shorter title used in subnav
+features-translate-translate-the-web-short = 翻譯網頁內容
 # Obsolete string
 features-translate-the-google-translate = { -brand-name-firefox } 的 To { -brand-name-google } Translate 擴充套件，讓網頁更能被世界上任何角落的人使用。
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations } 擴充套件</a>可自動翻譯網頁中的內容。與其他類似的雲端套件不同的是，此套件在您的 { -brand-name-firefox } 本基上進行翻譯，所以翻譯的內容不會離開您的電腦。
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = 下載 { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = 全球有數以百萬計的人們使用支援超過 100 種語言* 的 { -brand-name-google } 翻譯，但動不動要在 translate.google.com 與您正瀏覽中的網頁之間切換的使用體驗並不完美。<a { $attrs }>To { -brand-name-google } Translate</a> 擴充套件讓翻譯網頁變得更簡單。
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = 前往 { -brand-name-google } 翻譯
 # Obsolete string
 features-translate-get-the-extension = 安裝擴充套件
