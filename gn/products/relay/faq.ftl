@@ -25,6 +25,10 @@ faq-question-missing-emails-answer-reason-delay = Ikatu { -brand-name-relay } hi
 faq-question-missing-emails-answer-support-site-html = Neapañuãiramo, ikatuhína <a href="{ $url }" { $attrs }>eike ore pytyvõha rendápe</a>.
 faq-question-use-cases-question-2 = Araka’épa reipurúta { -brand-name-relay } rovamo’ãha
 faq-question-2-question-2 = Mba’érepa tenda nomoneĩmo’ãi { -brand-name-relay } ñandutiveve rovamo’ãha
+# Variables:
+#   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-2-answer-v4 = Ikatuhína heta tenda nomoneĩri ñanduti veve kundaharape oikehápe tendatee’i (@subdominio.mozmail.com) ha ambue nomoneĩvéima opaite kundaharape ndaha’éiva Gmail, Hotmail térã Yahoo mba’ete.
 faq-question-1-question = Mba’épa oiko spam-gui
 faq-question-1-answer-a-2 = Ojekuaahápe { -brand-name-relay } nomboguaiha spam, ore irũ Amazon SES ñanduti veve ojoko spam ha malware. Hẽe { -brand-name-relay } ombojevyjey ñe’ẽmondo eipota’ỹva, embohekopyahukuaa nde { -brand-name-relay } ñemboheko ejoko hag̃ua umi tovamo’ãha ñe’ẽmondo ombojevyjeýva.
 faq-question-availability-question = Moõpa reiporukuaa { -brand-name-relay }
