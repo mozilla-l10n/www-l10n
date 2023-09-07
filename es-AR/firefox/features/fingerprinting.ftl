@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = ¿Qué son los detectores de huellas digitales y por qué debería bloquearos?
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = La detección de huellas digitales es un tipo de rastreo en línea que es más invasivo que el rastreo  basado en cookies; por eso, { -brand-name-firefox-browser } lo bloquea.
+features-fingerprinting-fingerprint-blocking = Bloqueo de huellas digitales
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } bloquea la detección de huellas digitales
 features-fingerprinting-ditch-the-sticky = Deshacete de los anuncios pegajosos que te siguen con los bloqueadores de detectores huellas digitales integrados del navegador { -brand-name-firefox }.
 # description for the header image
