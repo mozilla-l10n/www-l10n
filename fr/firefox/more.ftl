@@ -10,7 +10,11 @@ learn-more-about = Découvrez les navigateurs et les produits { -brand-name-fire
 learn-more-faq = FAQ de { -brand-name-firefox }
 the-history-of = L’histoire des navigateurs Web
 firefox-has-been = { -brand-name-firefox } est là depuis le début.
+
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox } : un rebelle avec une cause
+
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } est un navigateur indépendant, développé par { -brand-name-mozilla }, une organisation à but non lucratif qui lutte pour vos droits numériques et l’accessibilité d’Internet par le plus grand nombre, partout dans le monde.
 what-is-a = Qu’est-ce qu’un navigateur web ?
 a-web-browser = Un navigateur web vous emmène partout sur Internet, vous permettant de voir des textes, des images et des vidéos provenant du monde entier.
@@ -58,7 +62,11 @@ firefox-more-protection = { -brand-name-firefox } : plus de protection et moins
 were-obsessed-with = Notre obsession c’est de protéger votre vie privée. Voilà pourquoi nous avons rendu la navigation privée avec { -brand-name-firefox } plus robuste que celle des autres navigateurs.
 incognito-browser-what = Navigateur incognito : ce que cela signifie vraiment
 firefox-calls-it = { -brand-name-firefox } et { -brand-name-chrome } l’appellent navigation privée. Tous deux vous permettent de surfer sur le Web sans enregistrer votre historique de navigation.
+
+# Obsolete string
 take-the-stress = Trouver un navigateur sécurisé n’a jamais été aussi simple.
+
+# Obsolete string
 building-a-safe = Le développement d’un navigateur sûr est à la fois un art et une science, car il n’existe pas de règles fixes en la matière.
 firefox-more-fingerprinter-blocking = Blocage des détecteurs d’empreinte numérique
 firefox-more-fingerprinting-is-a = La détection d’empreinte numérique est une forme de suivi en ligne plus invasive que le suivi ordinaire basé sur les cookies. C’est pour cette raison que { -brand-name-firefox-browser } la bloque.
@@ -68,3 +76,4 @@ firefox-more-a-guide-to = Un guide pour des identifiants et des mots de passe pl
 firefox-more-more-and-more = Un volume toujours plus important de données sensibles et précieuses sont protégées par mot de passe.
 firefox-more-avoid-misinformation-heading = Évitez la mésinformation en ligne : { -brand-name-firefox } est là pour vous aider
 firefox-more-avoid-misinformation-desc = Découvrez nos conseils pour voir moins de mésinformation et vous concentrer sur ce qui compte vraiment pour vous.
+

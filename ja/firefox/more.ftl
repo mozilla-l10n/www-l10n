@@ -10,7 +10,11 @@ learn-more-about = ユーザーのデータを尊重し、どこでもオンラ�
 learn-more-faq = { -brand-name-firefox } のよくあるご質問
 the-history-of = ウェブブラウザーの歴史
 firefox-has-been = { -brand-name-firefox } はウェブブラウザーが登場した当時から存在しています。
+
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: 正しいもののために立ち上がる
+
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } は非営利法人 { -brand-name-mozilla } の傘下にある独立団体で、ユーザーのオンライン権のために闘い、インターネットを誰もがどこからでもアクセスできるものにしています。
 what-is-a = ブラウザーとは？
 a-web-browser = ブラウザーは、インターネット上のあらゆるサイトを訪問し、世界各地からのテキストや画像、ビデオを閲覧することを可能にします。
@@ -58,7 +62,11 @@ firefox-more-protection = { -brand-name-firefox }: 保護を強化して、不�
 were-obsessed-with = Mozilla は、プライバシー保護を何より大事にしています。そこで、{ -brand-name-firefox } のプライベートブラウジングを他のブラウザーよりも強化しました。
 incognito-browser-what = 真のシークレットブラウザー
 firefox-calls-it = { -brand-name-firefox } では、プライベートブラウジング、{ -brand-name-chrome } ではシークレットモードと呼ばれています。いずれも閲覧履歴を保存せずにウェブをブラウジング可能になります。
+
+# Obsolete string
 take-the-stress = 安全なブラウザーを探す面倒な作業を解消。
+
+# Obsolete string
 building-a-safe = 安全なブラウザーの構築に一定のルールは無く、様々な専門知識が必要とされます。
 firefox-more-fingerprinter-blocking = フィンガープリント採取をブロック
 firefox-more-fingerprinting-is-a = フィンガープリント採取とは、オンライントラッキングの一種で、通常の Cookie ベースのトラッキングよりも侵入度が高くなります。そのため、{ -brand-name-firefox-browser } はこれをブロックします。
@@ -68,3 +76,4 @@ firefox-more-a-guide-to = ログインとパスワードのセキュリティ強
 firefox-more-more-and-more = 医療記録や銀行口座、ラブレター (!?) など、取扱に注意を要する貴重なデータがパスワードで保護されるケースは増え続ける一方です。
 firefox-more-avoid-misinformation-heading = オンラインの誤報を回避 – { -brand-name-firefox } がお手伝いします
 firefox-more-avoid-misinformation-desc = 表示される誤報を減らし、重要な情報に焦点を当てるヒントを紹介します。
+

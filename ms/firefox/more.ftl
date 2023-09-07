@@ -10,7 +10,11 @@ learn-more-about = Ketahui lebih lanjut tentang pelayar dan produk { -brand-name
 learn-more-faq = Soalan Lazim { -brand-name-firefox }
 the-history-of = Sejarah pelayar web
 firefox-has-been = { -brand-name-firefox } telah wujud hampir sejak mula lagi.
+
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Pemberontakan bersebab
+
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } bebas dan disokong oleh { -brand-name-mozilla } bukan untuk keuntungan, yang memperjuangkan hak dalam talian anda dan menjadikan internet dapat diakses oleh sesiapa sahaja, di mana sahaja.
 what-is-a = Apa itu pelayar web?
 a-web-browser = Pelayar web membawa anda ke mana sahaja di Internet, yang membolehkan anda melihat teks, imej dan video dari seluruh pelosok dunia.
@@ -58,7 +62,11 @@ firefox-more-protection = { -brand-name-firefox }: Lebih perlindungan. Kurang ke
 were-obsessed-with = Melindungi privasi anda menjadi obsesi kami. Itulah sebabnya kami menjadikan Pelayaran Peribadi { -brand-name-firefox } lebih berkuasa daripada yang lain.
 incognito-browser-what = Pelayar penyamaran: Apakah maksudnya
 firefox-calls-it = { -brand-name-firefox } memanggilnya pelayaran peribadi, { -brand-name-chrome } memanggilnya mod penyamaran. Kedua-duanya membolehkan anda melayari web tanpa menyimpan sejarah pelayaran anda.
+
+# Obsolete string
 take-the-stress = Tak perlu stres untuk mencari pelayar yang selamat.
+
+# Obsolete string
 building-a-safe = Membina pelayar yang selamat ialah seni dan sains kerana tidak ada peraturan yang ditetapkan.
 firefox-more-fingerprinter-blocking = Menyekat Pengecap Jari
 firefox-more-fingerprinting-is-a = Pengecapan jari ialah sejenis penjejakan dalam talian yang lebih menceroboh berbanding dengan penjejakan berasaskan kuki yang biasa — itulah sebab { -brand-name-firefox-browser } menyekatnya.
@@ -68,3 +76,4 @@ firefox-more-a-guide-to = Panduan log masuk dan kata laluan yang lebih selamat
 firefox-more-more-and-more = Kian lama kian banyak perkara sensitif dan berharga dalam hidup kita dilindungi oleh kata laluan.
 firefox-more-avoid-misinformation-heading = Elakkan maklumat salah dalam talian – { -brand-name-firefox } sedia membantu
 firefox-more-avoid-misinformation-desc = Lihat tip untuk kurang melihat maklumat salah dan fokus pada perkara yang penting bagi anda.
+

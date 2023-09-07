@@ -10,7 +10,11 @@ learn-more-about = تعرّف على المزيد عن متصفحات { -brand-n
 learn-more-faq = الأسئلة الشائعة عن { -brand-name-firefox }
 the-history-of = تاريخ متصفحات الويب
 firefox-has-been = كان متصفّح { -brand-name-firefox } حاضرًا منذ البداية.
+
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: متمرد بسبب
+
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } هو متصفح مستقل ومدعوم من قبل مؤسسة غير هادفة للربح { -brand-name-mozilla }، والتي تحارب من أجل حقوقك على الإنترنت وتجعل الإنترنت في متناول الجميع في كل مكان.
 what-is-a = ما المقصود بمتصفح الويب؟
 a-web-browser = يَصطحبك متصفح الويب إلى أي مكان على الإنترنت، مما يُتيح لك رؤية النصوص والصور ومقاطع الفيديو من أي مكان في العالم.
@@ -58,7 +62,11 @@ firefox-more-protection = { -brand-name-firefox }: حماية أكثر. مخاو
 were-obsessed-with = إننا ملتزمون بحماية خصوصيتك على الإنترنت. ومن ثمّ فإننا قد طوَّرنا ميزة التصفح الخاص في { -brand-name-firefox } وجعلناها أكثر قوة وفاعلية من غيرها.
 incognito-browser-what = متصفّح Incognito: ما المقصود
 firefox-calls-it = يسميه { -brand-name-firefox } التصفح الخاص، ويسميه { -brand-name-chrome } وضع incognito كلاهما يتيح لك تصفح الويب دون حفظ محفوظات الاستعراض الخاصة بك.
+
+# Obsolete string
 take-the-stress = تخلّص من التوتر بالعثور على مُتصفح آمن.
+
+# Obsolete string
 building-a-safe = يُعد بناء متصفح آمن فنًا وعلمًا لأنه لا توجد قواعد محددة.
 firefox-more-fingerprinter-blocking = حجب بصمات الأصابع
 firefox-more-fingerprinting-is-a = البصمات هي نوع من التتبع عبر الإنترنت وهو أكثر تغلغلًا من التتبع العادي المستند إلى ملفات تعريف الارتباط — ولهذا السبب يعمل { -brand-name-firefox-browser } على حظرها.
@@ -68,3 +76,4 @@ firefox-more-a-guide-to = دليل لعمليات تسجيل دخول وكلما
 firefox-more-more-and-more = المزيد والمزيد من الأشياء الحسّاسة والقيمة في حياتنا محمية بكلمات مرور.
 firefox-more-avoid-misinformation-heading = تجنّب المعلومات المغلوطة عبر الإنترنت – { -brand-name-firefox } هنا لمساعدتك.
 firefox-more-avoid-misinformation-desc = راجع التلميحات لرؤية معلومات مغلوطة أقل والتركيز على ما هو مُهم بالنسبة لك.
+
