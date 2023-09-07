@@ -56,7 +56,7 @@ privacy-faq-data-collection-still-bugs-me = Ko mba’ekuaarã ñembyaty ndaipot�
 # Variables:
 #   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
-privacy-faq-yes-user-control-is-one-of-our = Añete. Puruhára oguerekórõ ñangarekoha ha’e pe mba’ekuaarã ñemigua ñepyrũha. Romboheko péva { -brand-name-firefox } ryepýpe ore <a href="{ $settings }">kuatiarogue ñemigua moĩporã</a>, roguerekóva mba’e tuichavévaramo umi oguerekoséva ñangarekoha { -brand-name-firefox } ñemigua ryepýpe. Ikatu <a href="{ $data }">eipe’a mba’ekuaarã ñembyaty</a> ápe.
+privacy-faq-yes-user-control-is-one-of-our = Añete. Poruhára oguerekórõ ñangarekoha ha’e pe mba’ekuaarã ñemigua ñepyrũha. Romboheko péva { -brand-name-firefox } ryepýpe ore <a href="{ $settings }">kuatiarogue ñemigua moĩporã</a>, roguerekóva mba’e tuichavévaramo umi oguerekoséva ñangarekoha { -brand-name-firefox } ñemigua ryepýpe. Ikatu <a href="{ $data }">eipe’a mba’ekuaarã ñembyaty</a> ápe.
 privacy-faq-what-about-my-account-data = ¿Mba’e oĩ umi mba’ekuaarã che mba’ete rehegua?
 privacy-faq-we-are-big-believers-of-data = Roguerovia umi mba’ekuaarã ñemomichĩ rehegua ha avei ndorojeruremo’ãi roikotevẽ’ỹva.
 # Variables:
@@ -64,7 +64,7 @@ privacy-faq-we-are-big-believers-of-data = Roguerovia umi mba’ekuaarã ñemomi
 privacy-faq-you-dont-need-an-account-to = Nereikotevẽi peteĩ mba’ete eipuru hag̃ua { -brand-name-firefox }. Umi <a href="{ $accounts }">mba’ete</a> eikotevẽva embojuehe hag̃ua mba’ekuaarã mba’e’okakuéra ndive, hákatu rojeruréta ndéve ñandutiveve kundaharape. Ndoroikuaaséi nde réra, ogarenda, aramboty térã pumbyry papapy.
 privacy-faq-you-use-digital-advertising = Oiporu ñemurã ñandutiguáva omba’evende hag̃ua. ¿Ojogua umi tapicha mba’ekuaarã omoma’ẽ porãve hag̃ua iñemurã ñandutípe?
 privacy-faq-no-we-do-not-buy-peoples-data = Nahániri, ndorojoguái yvypóra mba’ekuaarã omyakã hag̃ua ñemurã.
-privacy-faq-we-do-ask-our-advertising-partners = Rojeruréramo oreirũ ñemurãguávape oipuru hag̃ua mba’ekuaarã ha’etéva umi ñanduti renda ha avei mbohetaha oikuaáva puruhára rehegua mba’e kundaha térã mba’e’okápa oipuru.
+privacy-faq-we-do-ask-our-advertising-partners = Rojeruréramo oreirũ ñemurãguávape oipuru hag̃ua mba’ekuaarã ha’etéva umi ñanduti renda ha avei mbohetaha oikuaáva poruhára rehegua mba’e kundaha térã mba’e’okápa oipuru.
 privacy-faq-well-it-seems-like-you-really = Ajépa, hi’ã chéve pemo’ã añetehápe ñeniguáva.
 privacy-faq-yes-we-do = Heẽ, rojapo.
 privacy-faq-find-out-more-about-how-mozilla = Eikuaave mba’éichapa { -brand-name-mozilla } omo’ã ñanduti.
