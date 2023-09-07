@@ -25,6 +25,7 @@ faq-question-missing-emails-answer-reason-delay = Ikatu { -brand-name-relay } hi
 #   $attrs (string) - specific attributes added to external links
 faq-question-missing-emails-answer-support-site-html = Neapañuãiramo, ikatuhína <a href="{ $url }" { $attrs }>eike ore pytyvõha rendápe</a>.
 faq-question-use-cases-question-2 = Araka’épa reipurúta { -brand-name-relay } rovamo’ãha
+faq-question-use-cases-answer-part1-2 = Eipurukuaa { -brand-name-relay } rovamo’ãha heta tenda eipurumemehápe ne ñanduti vevete. Romoakãraku eipurúvo eñemboheraguapývo marketing/información ñanduti vevépe, ha péicha ehecháta og̃uahẽpa térã nahániri ñanduti veve tenondeve gotyo.
 faq-question-2-question-2 = Mba’érepa tenda nomoneĩmo’ãi { -brand-name-relay } ñandutiveve rovamo’ãha
 # Variables:
 #   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
