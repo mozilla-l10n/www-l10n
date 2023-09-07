@@ -1,22 +1,25 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = 更好的上网体验
-features-shared-more-firefox-features = { -brand-name-firefox } 浏览器的更多特色
-features-shared-browse-faster = 浏览更快
-features-shared-your-favorite-extensions = 您最喜爱的扩展
-features-shared-balanced-memory = 平衡的内存占用
-features-shared-more-powerful-private-browsing = 更强大的隐私浏览模式
-features-shared-ad-tracker-blocking = 拦截广告跟踪器
-features-shared-password-manager = 密码管理器
-features-shared-customize-your-browser = 定制您的浏览器
-features-shared-sync-between-devices = 设备之间同步
-features-shared-better-bookmarks = 更好的书签
+features-shared-firefox-features = { -brand-name-firefox } 特色
+features-shared-footer-cta-title = { -brand-name-firefox }做更多事
+features-shared-footer-cta-desc = 下载由非营利组织支持并支持您的所有设备的快速、轻量、注重隐私的浏览器。
+features-shared-footer-cta-button = 下载 { -brand-name-firefox }
+features-shared-is-firefox-a-fast-browser = { -brand-name-firefox } 速度快吗
+features-shared-is-firefox-a-private-browser = { -brand-name-firefox } 是隐私浏览器吗
+features-shared-free-password-manager = 密码管理器
+features-shared-customize-your-firefox-browser = 定制您的 { -brand-name-firefox } 浏览器
+features-shared-firefox-browser-sync = { -brand-name-firefox } 浏览器同步
+features-shared-bookmark-manager = 书签管理器
+features-shared-private-browsing-mode = 隐私浏览模式
+features-shared-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } 附加组件和浏览器扩展
+features-shared-pinned-browser-tabs = 固定的浏览器标签页
+features-shared-eyedropper-tool = 取色器工具
+features-shared-pdf-editor = PDF 编辑器
 features-shared-fingerprinter-blocking = 拦截数字指纹跟踪程序
 features-shared-translate-the-web = 翻译网页
 features-shared-picture-in-picture = 画中画
-brand-name-firefox = { -brand-name-firefox }

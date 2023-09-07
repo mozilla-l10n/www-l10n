@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = { -brand-name-firefox } 的新变化
+# Obsolete string
 whatsnew-page-title = { -brand-name-firefox } 最新更新 - 更多隐私，更多保护。
 whatsnew-page-description = 抵制向第三方销售您数据的行业。使用为您提供保护的技术，保证您的在线活动高效且安全。
 whatsnew-firefox = { -brand-name-firefox }
@@ -21,3 +23,4 @@ whatsnew-out-of-date-notification-v2 = { -brand-name-firefox } 有新版可用�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = 阅读<a href="{ $url }">发行说明</a>，详细了解 { -brand-name-firefox } 浏览器的更新内容。
+whatsnew-signoff = <strong>由 { -brand-name-mozilla } 提供。</strong>自 1998 年以来以人为本。

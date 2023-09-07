@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } 画中画：弹出式视频助您事半功倍
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = 想在做其他事的同时观看视频？请使用 { -brand-name-firefox } 的画中画。
+features-pip-picture-in-picture = 画中画
 features-pip-new-feature-firefox-multi-picture = 新功能：{ -brand-name-firefox } 画中画多开
 features-pip-cool-feature-picture-in-picture = 炫酷功能：画中画
 features-pip-get-more-done-with-pop-out-videos = 弹出式视频助您事半功倍
