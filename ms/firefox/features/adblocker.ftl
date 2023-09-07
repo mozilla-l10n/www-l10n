@@ -38,6 +38,8 @@ features-adblocker-create-a-tracker-free = Cipta zon bebas penjejak dengan Sekat
 features-adblocker-on-firefox-you-can-use = Pada { -brand-name-firefox }, anda boleh gunakan tetapan <a href="{ $privacy }">Privasi</a> atau <a href="{ $blocking }">Sekatan Kandungan</a> untuk mendapatkan lebih kawalan terhadap penjejak iklan yang menghantar iklan kepada anda.
 
 features-adblocker-choose-your-level-of-protection = Pilih tahap perlindungan anda
+
+# Obsolete string
 features-adblocker-to-start-click-on-the = Untuk memulakan, klik pada menu { -brand-name-firefox } di sudut kanan atas skrin anda. Ia kelihatan seperti tiga garisan yang bertindan di atas satu sama lain. Dalam menu ke bawah, klik pada Sekatan Kandungan. Anda akan melihat pop timbul berwarna biru dengan pilihan yang berlainan.
 features-adblocker-go-easy-with-standard = Mudah dengan mod Standard
 
@@ -67,8 +69,6 @@ features-adblocker-if-you-dont-want-your = Jika anda tidak mahu tingkah laku dal
 features-adblocker-speed-up-thanks-to-ad = Segera ucapkan terima kasih kepada penyekat iklan
 features-adblocker-in-some-cases-an-ad-blocker = Dalam sesetengah keadaan, penyekat iklan boleh membantu pelayar anda bergerak lebih pantas. Ketika iklan dimuatkan, ia boleh melambatkan laman web. Pada masa yang sama, mendapatkan sesuatu yang ingin dicari akan mengambil masa yang lebih lama kerana anda terlalu sibuk menutup iklan demi iklan.
 
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = Jika anda ingin mengetahui lebih lanjut tentang sekatan iklan, terdapat ratusan sambungan penyekat iklan yang tersedia untuk { -brand-name-firefox } dan pelayar lain. Jika anda ingin mencuba penyekat iklan yang digunakan oleh { -brand-name-firefox }, <a href="{ $url }">klik di sini untuk memuat turun</a> pelayar yang mengutamakan privasi.
 
-features-adblocker-take-control-of-your-browser = Kendalikan pelayar anda.
+# Obsolete string
+features-adblocker-if-you-want-to-learn-more = Jika anda ingin mengetahui lebih lanjut tentang sekatan iklan, terdapat ratusan sambungan penyekat iklan yang tersedia untuk { -brand-name-firefox } dan pelayar lain. Jika anda ingin mencuba penyekat iklan yang digunakan oleh { -brand-name-firefox }, <a href="{ $url }">klik di sini untuk memuat turun</a> pelayar yang mengutamakan privasi.

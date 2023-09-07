@@ -38,6 +38,8 @@ features-adblocker-create-a-tracker-free = コンテンツブロッキングで�
 features-adblocker-on-firefox-you-can-use = { -brand-name-firefox } では、[<a href="{ $privacy }">プライバシー</a>] または [<a href="{ $blocking }">コンテンツブロッキング</a>] の設定を使用して、広告を配信する広告トラッカーをより詳細に制御できます。
 
 features-adblocker-choose-your-level-of-protection = 保護のレベルを選ぶ
+
+# Obsolete string
 features-adblocker-to-start-click-on-the = 始めるには、画面右上の { -brand-name-firefox } メニューをクリックします。3 本の線が積み重なった形です。ドロップダウンメニューから [コンテンツブロッキング] をクリックします。いろいろな選択肢のある青色のポップアップが表示されます。
 features-adblocker-go-easy-with-standard = スタンダードモードで簡単に
 
@@ -67,8 +69,6 @@ features-adblocker-if-you-dont-want-your = オンラインでの操作を広告�
 features-adblocker-speed-up-thanks-to-ad = 広告ブロッカーで高速化
 features-adblocker-in-some-cases-an-ad-blocker = 広告ブロッカーによってブラウザーが高速化することがあります。広告が読み込まれている間、ウェブサイトが重くなる可能性があります。同時に、広告を閉じる作業で忙しくなれば、探し物を見つけるのに時間がかかります。
 
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = 広告ブロックについて詳しく知りたい場合は、{ -brand-name-firefox } などのブラウザーで利用できる広告ブロッカー拡張機能をチェックしてみてください。数百という種類があります。{ -brand-name-firefox } が利用している広告ブロッカーを試す場合は、プライバシー第一を掲げるブラウザーを、<a href="{ $url }">ここをクリックしてダウンロード</a>してください。
 
-features-adblocker-take-control-of-your-browser = ブラウザーを制御する
+# Obsolete string
+features-adblocker-if-you-want-to-learn-more = 広告ブロックについて詳しく知りたい場合は、{ -brand-name-firefox } などのブラウザーで利用できる広告ブロッカー拡張機能をチェックしてみてください。数百という種類があります。{ -brand-name-firefox } が利用している広告ブロッカーを試す場合は、プライバシー第一を掲げるブラウザーを、<a href="{ $url }">ここをクリックしてダウンロード</a>してください。

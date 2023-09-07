@@ -38,6 +38,8 @@ features-adblocker-create-a-tracker-free = Erstellen Sie mit Inhaltsblockierung 
 features-adblocker-on-firefox-you-can-use = In { -brand-name-firefox } können Sie die Einstellungen <a href="{ $privacy }">Datenschutz</a> oder <a href="{ $blocking }">Inhaltsblockierung</a> verwenden, um noch mehr Kontrolle über die Werbe-Tracker zu erhalten, die Ihnen die Anzeigen übermitteln.
 
 features-adblocker-choose-your-level-of-protection = Wählen Sie Ihre Schutzstufe
+
+# Obsolete string
 features-adblocker-to-start-click-on-the = Klicken Sie zuerst auf das { -brand-name-firefox }-Menü in der oberen rechten Ecke Ihres Bildschirms. Es sieht aus wie drei übereinander gestapelte Linien. Klicken Sie im Dropdown-Menü auf Inhaltsblockierung. Sie sollten ein blaues Pop-up mit verschiedenen Auswahlmöglichkeiten sehen.
 features-adblocker-go-easy-with-standard = Der Standard-Modus ist recht locker
 
@@ -67,8 +69,6 @@ features-adblocker-if-you-dont-want-your = Wenn Sie nicht möchten, dass Ihr Onl
 features-adblocker-speed-up-thanks-to-ad = Mehr Tempo dank Werbeblockern
 features-adblocker-in-some-cases-an-ad-blocker = In einigen Fällen kann ein Werbeblocker dazu beitragen, dass Ihr Browser schneller wird. Wenn eine Anzeige geladen wird, kann dies eine Website verlangsamen. Gleichzeitig dauert es länger, das Gesuchte zu finden, wenn Sie zu beschäftigt sind, eine weitere Anzeige zu schließen.
 
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = Wenn Sie mehr über das Blockieren von Werbung erfahren möchten, stehen für { -brand-name-firefox } und andere Browser Hunderte von Werbeblocker-Erweiterungen zur Verfügung. Wenn Sie die von { -brand-name-firefox } verwendeten Werbeblocker ausprobieren möchten, <a href="{ $url }">klicken Sie hier, um einen Browser herunterzuladen,</a> bei dem der Datenschutz an erster Stelle steht.
 
-features-adblocker-take-control-of-your-browser = Übernehmen Sie die Kontrolle über Ihren Browser.
+# Obsolete string
+features-adblocker-if-you-want-to-learn-more = Wenn Sie mehr über das Blockieren von Werbung erfahren möchten, stehen für { -brand-name-firefox } und andere Browser Hunderte von Werbeblocker-Erweiterungen zur Verfügung. Wenn Sie die von { -brand-name-firefox } verwendeten Werbeblocker ausprobieren möchten, <a href="{ $url }">klicken Sie hier, um einen Browser herunterzuladen,</a> bei dem der Datenschutz an erster Stelle steht.
