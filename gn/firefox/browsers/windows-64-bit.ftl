@@ -19,7 +19,7 @@ windows-64-bit-whats-the-difference = ¿Mba’épe iñambue 32-bit ha 64-bit?
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
 # The term "fret not" can be translated as "not to worry", or "don’t worry".
-windows-64-bit-heres-the-key-thing = Ápe oĩ mba’eñemi: tembiporu’ikuéra 64 bits ikatu oguerekove mandu’arenda ha sa’ive oñembyaikuaáva tembiporukuéra 32 bits-vagui. Avei, opóvo 32 gui 64 bits-pe, peteĩ tekorosã rehegua <a href="{ $ASLR }">jeregua renda kundaharape pa’ũ(ASLR)</a> oikoporãve eñemo’ã hag̃ua tapicha ñañágui. { -brand-name-linux } ha { -brand-name-mac } puruhára, ani peñemyangekói, emba’apomahína { -brand-name-firefox } oikoporãvéva 64 bits peg̃uarã.
+windows-64-bit-heres-the-key-thing = Ápe oĩ mba’eñemi: tembiporu’ikuéra 64 bits ikatu oguerekove mandu’arenda ha sa’ive oñembyaikuaáva tembiporukuéra 32 bits-vagui. Avei, opóvo 32 gui 64 bits-pe, peteĩ tekorosã rehegua <a href="{ $ASLR }">jeregua renda kundaharape pa’ũ(ASLR)</a> oikoporãve eñemo’ã hag̃ua tapicha ñañágui. { -brand-name-linux } ha { -brand-name-mac } poruhára, ani peñemyangekói, emba’apomahína { -brand-name-firefox } oikoporãvéva 64 bits peg̃uarã.
 windows-64-bit-how-do-you-get-64 = ¿Mba’éicha erekokuaa { -brand-name-firefox } 64 -bits?
 # Variables:
 # $version (url) - link to https://support.microsoft.com/help/13443/windows-which-operating-system
