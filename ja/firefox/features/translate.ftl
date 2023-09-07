@@ -11,6 +11,7 @@ features-translate-translate-the-web-title = ウェブをブラウザーで直�
 features-translate-translate-more-than = { -brand-name-firefox-browser } が 100 か国以上から日本語などに直接翻訳、さらに簡単になりました。
 features-translate-translate-the-web = { -brand-name-firefox } でウェブを翻訳する
 
+
 # Obsolete string
 features-translate-the-google-translate = { -brand-name-firefox } 用の拡張機能「To { -brand-name-google } Translate」を使うと、世界中のウェブにアクセスできるようになります。
 
@@ -25,12 +26,13 @@ features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = { -brand-name-firefox-translations } をダウンロード
 
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
-
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = To { -brand-name-google } Translate は、100 か国語以上*に対応し、世界中で数百万人のユーザーに利用されています。ただ、読みたいページと translate.google.com を行き来することは、快適とはいえません。拡張機能「<a { $attrs }>To { -brand-name-google } Translate</a>」なら、閲覧しているページの翻訳がもっと簡単になります。
 
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = To { -brand-name-google } Translate をダウンロード
 
 # Obsolete string

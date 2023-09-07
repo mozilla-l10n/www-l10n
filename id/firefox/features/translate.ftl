@@ -11,6 +11,7 @@ features-translate-translate-the-web-title = Terjemahkan web - langsung di Peram
 features-translate-translate-more-than = Terjemahkan lebih dari 100 bahasa ke bahasa Anda langsung di { -brand-name-firefox-browser } - lebih mudah dari sebelumnya.
 features-translate-translate-the-web = Terjemahkan web dengan { -brand-name-firefox }
 
+
 # Obsolete string
 features-translate-the-google-translate = Ekstensi { -brand-name-google } Terjemahan untuk { -brand-name-firefox } memungkinkan internet dapat diakses oleh pengguna di seluruh dunia.
 
@@ -25,12 +26,13 @@ features-translate-the-firefox-translations-extension-provides = <a { $attrs }>E
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Dapatkan { -brand-name-firefox-translations }
 
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = Ke { -brand-name-google } Terjemahan
-
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Terjemahan, dengan lebih dari 100 bahasa* yang tersedia saat ini, digunakan oleh jutaan orang di seluruh dunia. Tapi berpindah-pindah antara translate.google.com dan halaman yang akan Anda baca bukan cara yang ideal. <a { $attrs }>Ekstensi Ke { -brand-name-google } Terjemahan</a> sangat memudahkan Anda dalam menerjemahkan laman web yang Anda kunjungi.
 
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Kunjungi { -brand-name-google } Terjemahan
 
 # Obsolete string

@@ -11,6 +11,7 @@ features-translate-translate-the-web-title = ترجم محتوى الويب - م
 features-translate-translate-more-than = ترجِمْ من أكثر من 100 لغة إلى لغتك مباشرةً في { -brand-name-firefox-browser } - بشكل أسهل من ذي قبل.
 features-translate-translate-the-web = ترجِمْ محتوى الويب باستخدام متصفح { -brand-name-firefox }
 
+
 # Obsolete string
 features-translate-the-google-translate = يعمل ملحق "ترجمة { -brand-name-google }" في متصفح { -brand-name-firefox } على إتاحة الإنترنت للجميع.
 
@@ -25,12 +26,13 @@ features-translate-the-firefox-translations-extension-provides = يُمكن لل
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = نزِّل متصفح { -brand-name-firefox-translations }
 
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = ترجمة { -brand-name-google }
-
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = يستخدم ملايين الأشخاص حول العالم ترجمة { -brand-name-google }، التي تضُم أكثر من 100 لغة*. لكن التنقل بين موقع translate.google.com والصفحة التي تحاول قراءتها ليس بالتجربة المثالية. أما مُلحق &quot;<a { $attrs }>ترجمة { -brand-name-google }</a>&quot;، فإنه يجعل ترجمة الصفحة التي تتصفحها أسهل من أي وقت مضى.
 
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = احصل على ترجمة { -brand-name-google }
 
 # Obsolete string
