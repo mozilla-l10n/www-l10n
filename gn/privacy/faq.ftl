@@ -31,7 +31,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } novendéi h
 privacy-faq-wait-so-how-do-you-make-money = Eha’arõmi, ¿upéicharõ mba’éicha peguerekóta viru?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } ha’e atyguasu oimeraẽvachagua. Heñóiva tekoha apopyrã ijayvu jurujávaramo ary 1998-pe, { -brand-name-mozilla } ha’e atyguasu oma’ẽ ha omba’apóva ñanduti resãirãre. Hetave virurepy og̃uahẽ { -brand-name-mozilla-corporation } jopói ambue hekaha oipurúva { -brand-name-firefox } ha ñe’ẽme’ẽ ñemyasãi rehegua arapy tuichakue jave. Ikatu eikuaave mba’éichapa rojapo pirapire <a href="{ $link }">temimombe’u viru reheguáva ary paha og̃uahẽvo</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } ha’e atyguasu oimeraẽvachagua. Heñóiva tekoha apopyrã ijayvu jurujávaramo ary 1998-pe, { -brand-name-mozilla } ha’e atyguasu oma’ẽ ha omba’apóva ñanduti resãirãre. Hetave virurepy og̃uahẽ { -brand-name-mozilla-corporation } jopói ambue hekaha oiporúva { -brand-name-firefox } ha ñe’ẽme’ẽ ñemyasãi rehegua arapy tuichakue jave. Ikatu eikuaave mba’éichapa rojapo pirapire <a href="{ $link }">temimombe’u viru reheguáva ary paha og̃uahẽvo</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Iporã, umi ñepyrũgua ndahasýi kuri. ¿Mba’eichagua mba’ekuaarã pembyaty?
 # Variables:
