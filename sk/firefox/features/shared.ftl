@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-firefox-features = { -brand-name-firefox } a jeho funkcie
+features-shared-footer-cta-title = Urobte viac s { -brand-name-firefox(case: "ins") }
 features-shared-footer-cta-desc = Získajte rýchly, ľahký prehliadač zameraný na ochranu osobných údajov, ktorý je podporovaný neziskovou organizáciou a funguje na všetkých vašich zariadeniach.
+features-shared-footer-cta-button = Stiahnite si { -brand-name-firefox }
 features-shared-is-firefox-a-fast-browser = Je { -brand-name-firefox } rýchlym prehliadačom?
 features-shared-is-firefox-a-private-browser = Je { -brand-name-firefox } súkromným prehliadačom?
 features-shared-free-password-manager = Správca hesiel
