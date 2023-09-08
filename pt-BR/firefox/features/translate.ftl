@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Traduza a web, diretamente no seu n
 # page description
 features-translate-translate-more-than = Traduza de mais de 100 idiomas para o seu idioma diretamente no seu { -brand-name-firefox-browser }, mais fácil que nunca.
 features-translate-translate-the-web = Traduza a web com o { -brand-name-firefox }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Traduza a web
 # Obsolete string
 features-translate-the-google-translate = A extensão <i>Para o { -brand-name-google } Tradutor</i> para { -brand-name-firefox } torna a web acessível ao mundo.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = A <a { $attrs }>extensão { -brand-name-firefox-translations }</a> pode traduzir automaticamente o conteúdo de páginas web que você visita. Ao contrário de algumas alternativas baseadas na nuvem, esta extensão traduz texto localmente no { -brand-name-firefox }, assim o conteúdo que é traduzido não sai de sua máquina.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Instale o { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = Para o { -brand-name-google } Tradutor
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = O { -brand-name-google } Tradutor, com mais de 100 idiomas* disponíveis, é usado por milhões de pessoas no mundo todo. Mas ficar trocando entre o site translate.google.com e a página que você está lendo não é o ideal. A extensão <a { $attrs }>Para o { -brand-name-google } Tradutor</a> torna a tradução da página onde você está mais fácil do que nunca.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Instale o Para o { -brand-name-google } Tradutor
 # Obsolete string
 features-translate-get-the-extension = Instale a extensão
