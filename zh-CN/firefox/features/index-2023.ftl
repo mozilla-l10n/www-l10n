@@ -5,8 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-# HTML page title
-features-index-firefox-browser-features = { -brand-name-firefox } 浏览器特色
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } 是一款快速、轻量、注重隐私的浏览器，全平台可用。
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } 速度快吗
