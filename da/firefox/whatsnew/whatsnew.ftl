@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Nyheder i { -brand-name-firefox }
+# Obsolete string
 whatsnew-page-title = Nyhed i { -brand-name-firefox }: Bedre beskyttelse af dit privatliv.
 whatsnew-page-description = Tag kampen op mod en branche, der sælger dine data til andre. Vær fornuftig og sikker på nettet ved at bruge teknologi, der kæmper for dig.
 whatsnew-firefox = { -brand-name-firefox }
