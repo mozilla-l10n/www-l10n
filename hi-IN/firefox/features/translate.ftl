@@ -11,6 +11,8 @@ features-translate-translate-the-web-title = वेब पर मौजूद �
 features-translate-translate-more-than = सीधे { -brand-name-firefox-browser } के ज़रिए, 100 से भी ज़्यादा भाषाओं से अपनी भाषा में अनुवाद करें – पहले से बहुत आसान।
 features-translate-translate-the-web = { -brand-name-firefox } के ज़रिए, वेब पेज अनुवाद करें
 
+# Shorter title used in subnav
+features-translate-translate-the-web-short = वेब का अनुवाद करें
 
 # Obsolete string
 features-translate-the-google-translate = { -brand-name-firefox } के लिए { -brand-name-google } Translate एक्सटेंशन, पूरी दुनिया के लिए वेब को सुलभ बनाता है।

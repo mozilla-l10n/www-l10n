@@ -11,6 +11,8 @@ features-translate-translate-the-web-title = Terjemahkan web - langsung di Peram
 features-translate-translate-more-than = Terjemahkan lebih dari 100 bahasa ke bahasa Anda langsung di { -brand-name-firefox-browser } - lebih mudah dari sebelumnya.
 features-translate-translate-the-web = Terjemahkan web dengan { -brand-name-firefox }
 
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Terjemahkan web
 
 # Obsolete string
 features-translate-the-google-translate = Ekstensi { -brand-name-google } Terjemahan untuk { -brand-name-firefox } memungkinkan internet dapat diakses oleh pengguna di seluruh dunia.

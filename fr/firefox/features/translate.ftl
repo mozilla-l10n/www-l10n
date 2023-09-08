@@ -11,6 +11,8 @@ features-translate-translate-the-web-title = Traduisez le Web directement dans v
 features-translate-translate-more-than = Traduisez à partir de plus de 100 langues vers votre langue directement dans le { -brand-name-firefox-browser }, plus facilement que jamais.
 features-translate-translate-the-web = Traduisez le Web avec { -brand-name-firefox }
 
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Traduisez le Web
 
 # Obsolete string
 features-translate-the-google-translate = L’extension { -brand-name-google } Traduction pour { -brand-name-firefox } rend le Web accessible au monde entier.

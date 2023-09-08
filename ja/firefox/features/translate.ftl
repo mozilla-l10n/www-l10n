@@ -11,6 +11,8 @@ features-translate-translate-the-web-title = ウェブをブラウザーで直�
 features-translate-translate-more-than = { -brand-name-firefox-browser } が 100 か国以上から日本語などに直接翻訳、さらに簡単になりました。
 features-translate-translate-the-web = { -brand-name-firefox } でウェブを翻訳する
 
+# Shorter title used in subnav
+features-translate-translate-the-web-short = ウェブを翻訳
 
 # Obsolete string
 features-translate-the-google-translate = { -brand-name-firefox } 用の拡張機能「To { -brand-name-google } Translate」を使うと、世界中のウェブにアクセスできるようになります。

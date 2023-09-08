@@ -11,6 +11,8 @@ features-translate-translate-the-web-title = ترجم محتوى الويب - م
 features-translate-translate-more-than = ترجِمْ من أكثر من 100 لغة إلى لغتك مباشرةً في { -brand-name-firefox-browser } - بشكل أسهل من ذي قبل.
 features-translate-translate-the-web = ترجِمْ محتوى الويب باستخدام متصفح { -brand-name-firefox }
 
+# Shorter title used in subnav
+features-translate-translate-the-web-short = ترجمة محتوى الويب
 
 # Obsolete string
 features-translate-the-google-translate = يعمل ملحق "ترجمة { -brand-name-google }" في متصفح { -brand-name-firefox } على إتاحة الإنترنت للجميع.
