@@ -48,3 +48,4 @@ download-button-please-download-esr = Hent { -brand-name-firefox-esr } (Extended
 download-firefox-esr = Hent { -brand-name-firefox-esr }
 download-firefox-esr-32 = Hent { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Hent { -brand-name-firefox-esr } 64-bit
+download-a-different-build = Hent en anden version
