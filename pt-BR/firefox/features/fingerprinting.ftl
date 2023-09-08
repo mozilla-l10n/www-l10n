@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = O que é rastreamento de identidade digital (fingerprinting) e por que você deve bloquear
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Rastreamento de identidade digital é um tipo de rastreamento online que é mais invasivo do que o rastreamento comum baseado em cookies — é por isso que o { -brand-name-firefox-browser } bloqueia.
+features-fingerprinting-fingerprint-blocking = Bloqueio de rastreamento de identidade digital (fingerprint)
 features-fingerprinting-firefox-blocks-fingerprinting = O { -brand-name-firefox } bloqueia rastreadores de identidade digital
 features-fingerprinting-ditch-the-sticky = Livre-se dos anúncios pegajosos que te seguem por aí com os bloqueadores de rastreamento de identidade digital integrados no navegador { -brand-name-firefox }.
 # description for the header image
