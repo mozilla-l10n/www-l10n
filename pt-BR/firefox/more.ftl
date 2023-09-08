@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Saiba mais sobre os navegadores e produtos { -brand-name-fire
 learn-more-faq = Perguntas frequentes sobre o { -brand-name-firefox }
 the-history-of = A história dos navegadores web
 firefox-has-been = O { -brand-name-firefox } está aí desde quase o início.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Rebelde com uma causa
+# Obsolete string
 firefox-is-independent = O { -brand-name-firefox } é independente e respaldado pela organização sem fins lucrativos { -brand-name-mozilla }, que luta por seus direitos online e torna a internet acessível a todos, em qualquer lugar.
 what-is-a = O que é um navegador web?
 a-web-browser = Um navegador web leva você a qualquer lugar na internet, permitindo ver textos, imagens e vídeos de qualquer lugar do mundo.
@@ -59,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: Mais proteção. Menos preocu
 were-obsessed-with = Somos obcecados em proteger sua privacidade. É por isso que fizemos a navegação privativa do { -brand-name-firefox } ser mais poderosa que a dos outros.
 incognito-browser-what = Navegação anônima: o que realmente significa
 firefox-calls-it = O { -brand-name-firefox } chama de navegação privativa, o { -brand-name-chrome } chama de modo anônimo. Ambos permitem que você navegue na web sem salvar o histórico de navegação.
+# Obsolete string
 take-the-stress = Acabe com o estresse de encontrar um navegador seguro.
+# Obsolete string
 building-a-safe = Construir um navegador seguro é uma arte e uma ciência, porque não existem regras definidas.
 firefox-more-fingerprinter-blocking = Bloqueio de rastreamento de identidade digital
 firefox-more-fingerprinting-is-a = <i>Fingerprinting</i> (rastreamento de identidade digital) é um tipo de rastreamento online mais invasivo do que o rastreamento comum baseado em cookies. É por isso que o { -brand-name-firefox-browser } bloqueia.
@@ -69,3 +73,4 @@ firefox-more-a-guide-to = Um guia de contas e senhas mais protegidas
 firefox-more-more-and-more = Cada vez mais coisas valiosas e sensíveis em nossas vidas são protegidas por senhas.
 firefox-more-avoid-misinformation-heading = Evite desinformação online, o { -brand-name-firefox } está aqui para ajudar
 firefox-more-avoid-misinformation-desc = Confira nossas dicas de como ver menos desinformação e se concentrar no que é importante para você.
+firefox-more-is-firefox-a-private-browser = { -brand-name-firefox } é um navegador privativo?
