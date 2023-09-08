@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Hvað er nýtt í { -brand-name-firefox }
+# Obsolete string
 whatsnew-page-title = Hvað er nýtt með { -brand-name-firefox } - Meira næði, meiri vernd.
 whatsnew-page-description = Taktu stöðu gegn iðnaði sem selur gögnin þín til utanaðkomandi aðila. Vertu klár og örugg/ur á netinu með tækni sem vinnur fyrir þig.
 whatsnew-firefox = { -brand-name-firefox }
@@ -21,3 +23,4 @@ whatsnew-out-of-date-notification-v2 = Enn nýrri { -brand-name-firefox } er fá
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Lestu <a href="{ $url }">útgáfuupplýsingarnar</a> til að vita betur hvað sé nýtt í { -brand-name-firefox } vafranum þínum.
+whatsnew-signoff = <strong>Knúið af { -brand-name-mozilla }.</strong> Höfum sett fólk fram fyrir hagnað síðan 1998.
