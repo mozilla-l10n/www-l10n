@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Создайте зону без тр
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = В { -brand-name-firefox } вы можете использовать настройки <a href="{ $privacy }">приватности</a> и <a href="{ $blocking }">блокировки содержимого</a>, чтобы ещё лучше контролировать трекеры, показывающие вам рекламу.
 features-adblocker-choose-your-level-of-protection = Выберите свой уровень защиты
+features-adblocker-to-start-click-on-the-v2 = Для начала нажмите на щит слева от адресной строки на любой веб-странице и выберите «Настройки защиты». На новой вкладке откроется панель настроек { -brand-name-firefox } «Приватность и защита». Вы должны увидеть синее всплывающее окно с различными вариантами выбора.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Чтобы начать, откройте меню { -brand-name-firefox } в правом верхнем углу вашего браузера, нажав на элемент в виде трёх горизонтальных линий. После этого выберите Блокировка содержимого. Должна появиться вкладка с соответствующим разделом настроек с подсвеченными голубым цветом элементами для выбора.
 features-adblocker-go-easy-with-standard = Спокойный просмотр в стандартном режиме
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Ускорьте Интернет с 
 features-adblocker-in-some-cases-an-ad-blocker = В некоторых случаях блокировщик рекламы может помочь вашему браузеру работать быстрее. Когда реклама загружается, она может замедлить работу сайта. В то же время, поиск того, что вы ищете, занимает больше времени, если вы слишком заняты закрытием ещё одного объявления.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Если вы хотите узнать больше о блокировке рекламы, существуют сотни расширений для её блокировки, доступные для { -brand-name-firefox } и других браузеров. Если вы хотите опробовать блокировщики рекламы, которые использует { -brand-name-firefox }, <a href="{ $url }">нажмите здесь, чтобы загрузить</a> браузер, в котором конфиденциальность превыше всего.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Если вы хотите узнать больше о блокировке рекламы, для { -brand-name-firefox } и других браузеров доступны сотни расширений для блокировки рекламы. Если вы хотите опробовать блокировщики рекламы для { -brand-name-firefox }, <a href="{ $url }">нажмите здесь, чтобы загрузить</a> браузер, который ставит приватность на первое место.
-features-adblocker-take-control-of-your-browser = Возьмите свой браузер под контроль.
