@@ -21,3 +21,15 @@ home-product-relay-masks = Easy-to-use email & phone masks
 home-cta-get-relay = Get { -brand-name-relay }
 home-product-vpn-trust = A VPN you can trust
 home-cta-get-vpn = Get { -brand-name-mozilla-vpn }
+home-mozilla-takes-bets = “{ -brand-name-mozilla } is taking bets to show the world there’s a business to be made with trustworthy AI. That includes putting things like human rights, data protection and transparency at the core of how these complex systems work.”
+# Politico is a brand name for a news organization
+home-politico-cite = Politico
+home-is-mozilla-a-corporation = Is { -brand-name-mozilla } a corporation or a non-profit? Actually, both.
+home-mozilla-consists-of = { -brand-name-mozilla } consists of two organizations. The { -brand-name-mozilla-corporation } is wholly owned by the non-profit 501(c) { -brand-name-mozilla-foundation }. Which means we aren’t beholden to any shareholders — only to our mission.
+home-learn-about-mofo = Learn about the { -brand-name-mozilla-foundation }
+home-join-the-fight = Join the fight for a healthy internet
+home-your-voice-your-code = Your voice. Your code. Your ideas. There are literally thousands of ways you can contribute to { -brand-name-mozilla }.
+home-volunteer-with-mozilla = Volunteer with { -brand-name-mozilla }
+home-that-one-time = That one time we gave away our source-code…
+home-the-mozilla-project = The { -brand-name-mozilla } project was founded in San Francisco in 1998, when the { -brand-name-netscape } browser made the radical decision to give away its program code to the public to build on and improve. At that time, one company had a virtual monopoly on how people experienced the internet.
+home-eventually-the-open = Eventually, the open-source { -brand-name-mozilla } project morphed into the wildly popular first version of { -brand-name-firefox }.
