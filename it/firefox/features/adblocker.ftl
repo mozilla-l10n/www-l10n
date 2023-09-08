@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Crea una zona franca da elementi trac
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Su { -brand-name-firefox }, puoi usare le configurazioni di <a href="{ $privacy }">Privacy</a> o <a href="{ $blocking }">Blocco contenuti</a> per esercitare un controllo ancora più stretto sugli elementi traccianti che ti somministrano le pubblicità.
 features-adblocker-choose-your-level-of-protection = Scegli il tuo livello di protezione
+features-adblocker-to-start-click-on-the-v2 = Per iniziare, fai clic sullo scudo a sinistra della barra degli indirizzi in qualsiasi pagina web e seleziona “Impostazioni protezione”. Il pannello Privacy e sicurezza delle impostazioni di { -brand-name-firefox } verrà aperto in una nuova scheda. Dovresti vedere una sezione evidenziata in blu con diverse opzioni.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Per iniziare fai clic sul menu di { -brand-name-firefox } nell’angolo in alto a destra della pagina. È un’icona che raffigura tre linee orizzontali parallele. Dal menu a tendina fai clic su Blocco contenuti. Si aprirà un pop-up blu con diverse opzioni.
 features-adblocker-go-easy-with-standard = Naviga tranquillo con il livello Normale
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Più veloce grazie al blocco pubblici
 features-adblocker-in-some-cases-an-ad-blocker = In alcuni casi un’applicazione di blocco pubblicità aiuta il browser ad andare più veloce: infatti il caricamento degli annunci pubblicitari può rallentare un sito web. Senza contare che impieghi di più a trovare ciò che ti interessa se prima di dedicarti al sito devi chiudere l’ennesimo pop-up pubblicitario.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Se vuoi saperne di più sul blocco degli annunci, puoi scegliere tra centinaia di estensioni dedicate disponibili su { -brand-name-firefox } e altri browser. Se vuoi provare il blocco pubblicità integrato in { -brand-name-firefox }, <a href="{ $url }">scarica qui</a> il browser che mette la privacy al primo posto.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Se vuoi saperne di più sul blocco degli annunci, puoi scegliere tra centinaia di estensioni dedicate disponibili su { -brand-name-firefox } e altri browser. Se vuoi provare il blocco pubblicità integrato in { -brand-name-firefox }, <a href="{ $url }">scarica qui</a> il browser che mette la privacy al primo posto.
-features-adblocker-take-control-of-your-browser = Prendi il controllo del browser.

@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Scopri di più sui browser e i prodotti { -brand-name-firefox
 learn-more-faq = FAQ di { -brand-name-firefox }
 the-history-of = La storia dei browser web
 firefox-has-been = { -brand-name-firefox } c’è stato fin dagli inizi.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: l’idealista ribelle
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } è un browser indipendente ed è sostenuto da { -brand-name-mozilla }, l’organizzazione senza fini di lucro che si batte per i diritti degli utenti online e mira a rendere Internet accessibile a tutti, ovunque.
 what-is-a = Che cos’è un browser web?
 a-web-browser = Un browser web ti conduce ovunque su Internet, permettendoti di visualizzare testi, immagini e video provenienti da qualsiasi parte del mondo.
@@ -21,8 +23,6 @@ firefox-is-more = { -brand-name-firefox } è molto più di un browser
 its-a-lightning = È una porta di accesso veloce alla migliore esperienza web
 get-the-browsers = Usa i browser che mettono la tua privacy al primo posto, da sempre
 get-the-privacy = Ottieni la privacy che meriti. Tutela automaticamente la tua privacy ogni volta che apri il browser con la protezione antitracciamento avanzata.
-take-your-passwords = Porta le tue password sempre con te
-securely-access-the = Accedi in tutta sicurezza alle password salvate in { -brand-name-firefox } dovunque, anche all’esterno del browser.
 choose-which-firefox = Scegli quale { -brand-name-firefox-browser } scaricare nella tua lingua
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser(capitalization: "uppercase") } per { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Anche se trovi { -brand-name-chrome } già preinstallato sul tuo { -brand-name-chromebook }, scaricare e utilizzare { -brand-name-firefox } come browser di riferimento offre diversi vantaggi
@@ -61,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: più protezione, meno preoccu
 were-obsessed-with = Proteggere la privacy degli utenti è il nostro chiodo fisso. Ecco perché abbiamo implementato in { -brand-name-firefox } la Navigazione anonima più completa sul mercato.
 incognito-browser-what = Browser in incognito: cosa significa davvero
 firefox-calls-it = { -brand-name-firefox } la chiama navigazione anonima, { -brand-name-chrome } la chiama modalità incognita. Entrambe ti permettono di navigare nel Web senza salvare la tua cronologia di navigazione.
+# Obsolete string
 take-the-stress = Basta stressarti per cercare un un browser sicuro.
+# Obsolete string
 building-a-safe = Costruire un browser sicuro è un’arte e una scienza poiché non ci sono regole predefinite.
 firefox-more-fingerprinter-blocking = Blocco dei fingerprinter
 firefox-more-fingerprinting-is-a = Il fingerprinting è un tipo di tracciamento online che risulta molto più invasivo dei metodi comuni basati sui cookie: ecco perché { -brand-name-firefox-browser } permette di bloccarlo.
@@ -71,3 +73,5 @@ firefox-more-a-guide-to = Una guida per credenziali di accesso più sicure
 firefox-more-more-and-more = Sempre più dati sensibili e parti significative della nostra vita sono protetti da password.
 firefox-more-avoid-misinformation-heading = Evita la cattiva informazione online – { -brand-name-firefox } è qui per aiutarti
 firefox-more-avoid-misinformation-desc = Dai un’occhiata ai suggerimenti per vedere meno cattiva informazione e concentrarti su ciò che è importante per te.
+firefox-more-is-firefox-a-private-browser = { -brand-name-firefox } è un browser riservato?
+firefox-more-were-focused-on-your-right-to = Abbiamo a cuore il tuo diritto alla privacy. I tuoi dati, le tue attività sul Web, la tua vita online sono al sicuro con { -brand-name-firefox }.
