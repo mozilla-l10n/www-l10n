@@ -11,6 +11,9 @@ features-sync-firefox-browser-sync = { -brand-name-firefox } 瀏覽器同步
 features-sync-access-your-firefox-bookmarks = 在任何裝置存取您的 { -brand-name-firefox } 書籤、密碼、開啟分頁與更多資料。
 features-sync-with-firefox-you-can-pick-up-where = 透過 { -brand-name-firefox }從桌機切換到手機切換到平板電腦時可以從中斷的地方繼續上網。 { -brand-name-firefox } 讓您不論使用的是哪台裝置都能看到書籤、上網紀錄、儲存的密碼等資訊。
 # Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">註冊免費的 { -brand-name-firefox-account }</a>，即可在所有使用 { -brand-name-firefox } 瀏覽器的地方之間同步資料。
+# Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = 您的所有資料在我們的伺服器中都經過加密無法讀取只有您可以存取。我們不會將您的資訊賣給廣告商因為這會違反我們的<a href="{ $privacy }">隱私資料承諾</a>。
 features-sync-send-tabs-from-one-device-to-another = 將分頁從一台裝置傳送到另一台裝置
