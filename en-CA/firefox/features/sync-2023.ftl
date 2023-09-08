@@ -13,3 +13,10 @@ features-sync-with-firefox-you-can-pick-up-where = With { -brand-name-firefox },
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Sign up for a free { -brand-name-firefox-account }</a> and you’ll be able to sync your data everywhere you use your { -brand-name-firefox } browser.
+# Variables:
+#   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
+features-sync-all-your-data-is-encrypted-on-our = All your data is encrypted on our servers so we can’t read it – only you can access it. We don’t sell your info to advertisers because that would go against our <a href="{ $privacy }">data privacy promise</a>.
+features-sync-send-tabs-from-one-device-to-another = Send tabs from one device to another
+features-sync-the-send-tab-feature-in-firefox = The Send Tab feature in { -brand-name-firefox } lets you send pages from { -brand-name-firefox } on one device to other devices (such as an iPhone, iPad or Android device). Did you find an article while browsing on your phone that you want to read when you get back to your desk? Or an important document from work that you want to save when you get home? Maybe you found a recipe on your laptop that you want to send to your tablet in the kitchen. Send that tab!
+# Used as accessible alternative text for an image
+features-sync-an-image-of-a-firefox-application = An image of a { -brand-name-firefox } application menu highlighting the “Send Tab to Device” option.
