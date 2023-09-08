@@ -10,8 +10,8 @@ vpn-shared-subscribe-link = Get { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Join the Waitlist
 vpn-shared-sign-in-link = Already a subscriber?
 # Outdated string
-vpn-shared-available-countries-v4 = We currently offer { -brand-name-mozilla-vpn } in Austria, Belgium, Canada, France, Germany, Ireland, Italy, Malaysia, the Netherlands, New Zealand, Singapore, Spain, Switzerland, the UK, and the US.
 vpn-shared-available-countries-v5 = We currently offer { -brand-name-mozilla-vpn } in Austria, Belgium, Canada, Finland, France, Germany, Ireland, Italy, Malaysia, the Netherlands, New Zealand, Singapore, Spain, Sweden, Switzerland, the UK, and the US.
+vpn-shared-available-countries-v6 = We currently offer { -brand-name-mozilla-vpn } in Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malaysia, Malta, the Netherlands, New Zealand, Poland, Portugal, Romania, Singapore, Slovenia, Slovakia, Spain, Sweden, Switzerland, the UK, and the US.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-day money-back guarantee
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -108,6 +108,8 @@ vpn-shared-platform-cta-headline = Let’s get started
 vpn-shared-platform-cta-button = See pricing & availability
 vpn-shared-platform-privacy-promise = Your privacy is our promise
 vpn-shared-platform-trust-partner-headline = About our trusted partner
+vpn-shared-platform-what-is = What is { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Why { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
@@ -129,11 +131,13 @@ vpn-subnav-whats-an-ip-address = What’s an IP address?
 vpn-subnav-when-to-use-a-vpn = When to use a VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 vpn-subnav-subscribe = Subscribe to { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Learn about VPNs
+vpn-subnav-download-mozilla-vpn = Download { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = We use cookies to understand which affiliate partner led you to { -brand-name-mozilla-vpn }. We do not share personally identifying information with our partners. Read our <a { $attrs }>Privacy Policy</a>.
 vpn-shared-affiliate-notification-reject = Reject
 vpn-shared-affiliate-notification-ok = OK
