@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # page title
-bookmark-manager-bookmark-manager = Bookmark manager
+bookmark-manager-bookmark-manager = Správca záložiek
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Usporiadajte si záložky pomocou priečinkov a značiek.
 # Variables:

@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/customize/
 
-features-customize-customize-your-firefox = Customize your { -brand-name-firefox } browser
+features-customize-customize-your-firefox = Prispôsobte si prehliadač { -brand-name-firefox }
 # HTML page description
 features-customize-choose-how-your-browser-looks = Vyberte si, ako bude váš prehliadač vyzerať s tisíckami bezplatných tém.
 features-customize-firefox-themes-let-you-change = Témy prehliadača { -brand-name-firefox } vám umožňujú zmeniť vzhľad prehliadača. Nastavujú farebnú schému pre ponuky prehliadača a interné stránku { -brand-name-firefox(case: "gen") } a môžu dokonca pridať obrázok pozadia na panel s nástrojmi prehliadača { -brand-name-firefox }.
