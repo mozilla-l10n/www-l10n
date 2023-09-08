@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = ¿Mba’e umi kuãhũ ñandutigua juhuha (fingerprinting) ha mba’érepa ejokova’erã?
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Pe ñemokuãhũ (fingerprinting) ñemoheñói ha’e peteĩchagua tapykuehoha ñandutípe imbaretevéva pe tapykuehoha oĩvagui kookie rehegua; upévare { -brand-name-firefox-browser } ojokóma.
+features-fingerprinting-fingerprint-blocking = Ñemokuãhũ jejoko
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } ojoko kuãhũ ñandutigua rapykuehoha (fingerprinting)
 features-fingerprinting-ditch-the-sticky = Ejei umi maranduñemurã nderapykuehóvagui ñemokuãhũ (fingerprinting) jokoha ndive oĩva { -brand-name-firefox } kundahárape.
 # description for the header image
