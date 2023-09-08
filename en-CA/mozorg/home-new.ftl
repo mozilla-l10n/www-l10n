@@ -33,3 +33,11 @@ home-volunteer-with-mozilla = Volunteer with { -brand-name-mozilla }
 home-that-one-time = That one time we gave away our source-code…
 home-the-mozilla-project = The { -brand-name-mozilla } project was founded in San Francisco in 1998, when the { -brand-name-netscape } browser made the radical decision to give away its program code to the public to build on and improve. At that time, one company had a virtual monopoly on how people experienced the internet.
 home-eventually-the-open = Eventually, the open-source { -brand-name-mozilla } project morphed into the wildly popular first version of { -brand-name-firefox }.
+home-today-mozilla-continues = Today, { -brand-name-mozilla } continues its movement toward a better internet with millions of active community members spanning the globe, advocating for ethical tech, trustworthy AI and producing privacy-first products that give more power to the people.
+home-learn-more-about-mozilla = Learn more about { -brand-name-mozilla }
+home-get-good-news = Get (good) { -brand-name-mozilla } news
+home-get-news-and-tips = Get news and tips from { -brand-name-mozilla } to stay safe and informed on everything that makes the web a healthier place.
+# VPN Feature
+home-featured-product = Featured product
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Blur your location & activity using <span>{ -brand-name-mozilla-vpn }</span>

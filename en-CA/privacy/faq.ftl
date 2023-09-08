@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = The following questions and answers sh
 privacy-faq-i-use-firefox-for-almost-everything = I use { -brand-name-firefox } for almost everything on the Web. You folks at { -brand-name-mozilla } must know a ton of stuff about me, right?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. { -brand-name-mozilla }, the company that makes { -brand-name-firefox }, doesn’t collect it (unless you ask us to).
 privacy-faq-really-you-dont-collect-my-browsing = Really, you don’t collect my browsing history?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, which allow interested users to give us insight into their web browsing. If you sync your browsing history across { -brand-name-firefox } installations, we don’t know what that history is — because it’s encrypted by your device.
+# Outdated string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across { -brand-name-firefox } installations, we don’t know what that history is - because it’s encrypted by your device.
@@ -30,6 +32,7 @@ privacy-faq-wait-so-how-do-you-make-money = Wait, so how do you make money?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } is not your average organization. Founded as a community open source project in 1998, { -brand-name-mozilla } is a mission-driven organization working towards a more healthy internet. The majority of { -brand-name-mozilla-corporation }’s revenue is from royalties earned through { -brand-name-firefox } web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="{ $link }">annual financial report</a>.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Okay, those first few were softballs. What data do you collect?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
