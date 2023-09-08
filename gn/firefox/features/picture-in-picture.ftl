@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Picture-in-Picture: ejapo hetave mba’e ta’ãngamýi iñapysẽva ndive
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = ¿Ereko ejapo ha ehecháva? Ejapo mokõivéva eipurúvo Picture-in-Picture { -brand-name-firefox } rupive.
+features-pip-picture-in-picture = Picture-in-picture
 features-pip-new-feature-firefox-multi-picture = Tembiapoite pyahu: { -brand-name-firefox } hekoetáva Picture-in-Picture
 features-pip-cool-feature-picture-in-picture = Tembiapoite ha’evéva: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Emba’apove ta’ãngamýi iñapysẽva ndive
