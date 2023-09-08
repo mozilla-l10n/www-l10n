@@ -32,9 +32,6 @@ features-index-view-and-edit-pdf-files = 在 { -brand-name-firefox } 中查看�
 features-index-fingerprint-blocking = 拦截指纹
 features-index-ad-tracker-blocking = 拦截广告跟踪器
 features-index-firefox-automatically-blocks = { -brand-name-firefox } 可自动拦截超过 2000 种广告跟踪器。
-# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
-features-index-ditch-the-sticky-ads = 使用 { -brand-name-firefox } 内置的数字指纹跟踪拦截器赶走烦人的广告。
 features-index-translate-the-web = 翻译网页
 features-index-translate-more-than = 直接在 { -brand-name-firefox } 浏览器中将 100 多种语言翻译为您的语言——前所未有的容易。
 features-index-picture-in-picture = 画中画
-features-index-got-things-to-do = 想在做其他事的同时观看视频？请使用 { -brand-name-firefox } 的画中画。
