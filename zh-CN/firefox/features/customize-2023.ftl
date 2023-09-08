@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/customize/
 
-features-customize-customize-your-firefox = 定制您的 { -brand-name-firefox } 浏览器
 # HTML page description
 features-customize-choose-how-your-browser-looks = 选择浏览器外观与成千上万的免费主题。
 features-customize-firefox-themes-let-you-change = { -brand-name-firefox } 主题可让您更改浏览器的外观。它们设置浏览器菜单和 { -brand-name-firefox } 系统页面的配色方案它们甚至可以为您的 { -brand-name-firefox } 工具栏添加背景图像。
