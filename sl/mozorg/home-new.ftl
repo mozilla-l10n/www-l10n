@@ -10,8 +10,11 @@ home-did-you-know-mozilla-the-maker = Ali ste vedeli? { -brand-name-mozilla } ‚Ä
 home-mitchell-baker = Mitchell Baker, izvr≈°na direktorica { -brand-name-mozilla(sklon: "rodilnik") }
 home-product-firefox-browsing = Zasebno in varno brskanje
 home-cta-get-firefox = Prenesite { -brand-name-firefox }
+home-cta-get-pocket = Pridobite { -brand-name-pocket }
 home-cta-get-relay = Pridobite { -brand-name-relay }
 home-product-vpn-trust = VPN, ki mu lahko zaupate
 home-cta-get-vpn = Prenesite { -brand-name-mozilla-vpn }
+# Politico is a brand name for a news organization
+home-politico-cite = Politico
 home-volunteer-with-mozilla = Postanite prostovoljec { -brand-name-mozilla(sklon: "rodilnik") }
 home-learn-more-about-mozilla = Spoznajte { -brand-name-mozilla(sklon: "tozilnik") }
