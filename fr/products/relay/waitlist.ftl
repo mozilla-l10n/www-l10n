@@ -21,7 +21,7 @@ waitlist-control-country-label-2 = Dans quel(le) pays ou région habitez-vous ?
 waitlist-control-locale-label = Sélectionnez votre langue préférée.
 waitlist-submit-label-2 = Rejoindre la liste d’attente
 # Variables:
-#   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
+#   $url (url) - https://www.mozilla.org/privacy/subscription-services/
 waitlist-privacy-policy-agree-2 = En cliquant sur « { waitlist-submit-label-2 } », vous acceptez notre <a href="{ $url }">Politique de confidentialité</a>.
 waitlist-privacy-policy-use = Vos informations ne seront utilisées que pour vous informer de la disponibilité de { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Vos informations ne seront utilisées que pour vous informer de la disponibilité des alias de numéro de téléphone.

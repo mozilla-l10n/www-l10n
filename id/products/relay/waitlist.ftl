@@ -21,7 +21,7 @@ waitlist-control-country-label-2 = Di negara atau wilayah mana Anda tinggal?
 waitlist-control-locale-label = Pilih bahasa pilihan Anda.
 waitlist-submit-label-2 = Bergabunglah ke Daftar Tunggu
 # Variables:
-#   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
+#   $url (url) - https://www.mozilla.org/privacy/subscription-services/
 waitlist-privacy-policy-agree-2 = Dengan mengeklik “{ waitlist-submit-label-2 }”, Anda menyetujui <a href="{ $url }">Kebijakan Privasi</a> kami.
 waitlist-privacy-policy-use = Informasi Anda hanya akan digunakan untuk memberi tahu Anda tentang ketersediaan { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Informasi Anda hanya akan digunakan untuk memberi tahu saat penyamaran telepon tersedia di wilayah Anda.

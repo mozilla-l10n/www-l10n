@@ -21,7 +21,7 @@ waitlist-control-country-label-2 = お住まいの国または地域はどこで
 waitlist-control-locale-label = ご希望の言語を選択してください。
 waitlist-submit-label-2 = ウェイトリストに登録
 # Variables:
-#   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
+#   $url (url) - https://www.mozilla.org/privacy/subscription-services/
 waitlist-privacy-policy-agree-2 = [{ waitlist-submit-label-2 }] をクリックすると、Mozilla の<a href="{ $url }">個人情報保護方針</a>に同意していただいたことになります。
 waitlist-privacy-policy-use = あなたの情報は、{ -brand-name-firefox-relay-premium } が利用可能になったことを通知する目的でのみ使用します。
 waitlist-privacy-policy-use-phone = あなたの情報は、お住まいの地域で電話マスキングが利用可能になったことを通知する目的でのみ使用します。

@@ -21,7 +21,7 @@ waitlist-control-country-label-2 = في أي بلد أو منطقة تعيش؟
 waitlist-control-locale-label = اختر اللغة التي تريد
 waitlist-submit-label-2 = انضم إلى قائمة الانتظار
 # Variables:
-#   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
+#   $url (url) - https://www.mozilla.org/privacy/subscription-services/
 waitlist-privacy-policy-agree-2 = عند الضغط على &quot;{ waitlist-submit-label-2 }&quot;، فإنك توافق على <a href="{ $url }">سياسة خصوصيتنا</a>.
 waitlist-privacy-policy-use = لن تُستخدم معلوماتك إلا لإبلاغك بتوفُّر { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = لن تُستخدم معلوماتك إلا لإبلاغك عند توفُّر قناع الهاتف في منطقتك.
