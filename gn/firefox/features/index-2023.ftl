@@ -7,3 +7,9 @@
 
 # HTML page title
 features-index-firefox-browser-features = { -brand-name-firefox } kundahára reheguaite
+# HTML page description
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } ha’e kundahára ipya’e, ivevúi ha hekoñemíva ojepurukuaáva opaite mba’e’oka ndive.
+features-index-is-firefox-a-fast-browser = { -brand-name-firefox } kundahára ipya’éva
+features-index-bookmark-manager = Techaukaha ñangarekoha
+features-index-picture-in-picture = Picture-in-picture
+features-index-got-things-to-do = ¿Ereko ejapo ha ehecháva? Ejapo mokõivéva Picture-in-Picture ndive { -brand-name-firefox } rupive.
