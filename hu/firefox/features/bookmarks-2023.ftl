@@ -17,10 +17,10 @@ bookmark-manager-collect-your-bookmarks-in-folders = Gyűjtse össze a könyvjel
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-bookmark-manager = A könyvjelzőkezelő ablak képe a { -brand-name-firefox }ban.
 bookmark-manager-easily-import-bookmarks = Könyvjelzők egyszerű importálása
-bookmark-manager-you-can-import-your-bookmarks = A { -brand-name-firefox } importáló varázslójával importálhatja a könyvjelzőit a Chrome-ból, Safariból vagy az Edge-ből. Csak kattintson a Könyvjelzők > Könyvjelzők kezelése, majd válassza az „Importálás és biztonsági mentés” lehetőséget.
+bookmark-manager-you-can-import-your-bookmarks = A { -brand-name-firefox } importáló varázslójával áthozhatja a könyvjelzőit a Chrome-ból, Safariból vagy az Edge-ből. Csak kattintson a Könyvjelzők > Könyvjelzők kezelése lehetőségre, majd válassza az „Importálás és biztonsági mentés” lehetőséget.
 # Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-firefox-import-wizard = A { -brand-name-firefox } importáló varázslójának képe, amely bemutatja a más böngészőkből történő beállítások és adatok importálását
-bookmark-manager-bookmarks-toolbar = Könyvjelzők eszköztár
-bookmark-manager-get-quick-access-to-your = Kapja meg gyorsan a kedvenc könyvjelzőit a { -brand-name-firefox } tetején található menüben, vagy rögzítse őket az eszköztárra.
+bookmark-manager-image-of-the-firefox-import-wizard = Kép a { -brand-name-firefox } importáló varázslójáról, amely bemutatja a más böngészőkből történő beállítás- és adatimportálást.
+bookmark-manager-bookmarks-toolbar = Könyvjelző eszköztár
+bookmark-manager-get-quick-access-to-your = Érje le gyorsan a kedvenc könyvjelzőit a { -brand-name-firefox } tetején található menüből, vagy rögzítse őket az eszköztárra.
 # Used as an accessible text alternative for an image
-bookmark-manager-image-of-firefox-showing-a-collection = A { -brand-name-firefox } képe, amely egy könyvjelzőgyűjteményt mutat egy eszköztárban, a böngészőablak tetején.
+bookmark-manager-image-of-firefox-showing-a-collection = Kép a { -brand-name-firefox }ról, amely egy könyvjelzőgyűjteményt mutat az eszköztáron, a böngészőablak tetején.
