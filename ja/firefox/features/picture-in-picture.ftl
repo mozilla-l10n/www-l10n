@@ -10,6 +10,7 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } ピ�
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = 用事と動画視聴を一緒にこなしたいとき、{ -brand-name-firefox } のピクチャーインピクチャーなら両方できます。
 
+features-pip-picture-in-picture = ピクチャーインピクチャー
 
 features-pip-new-feature-firefox-multi-picture = 新機能: { -brand-name-firefox } マルチピクチャーインピクチャー
 features-pip-cool-feature-picture-in-picture = 注目の機能: ピクチャーインピクチャー

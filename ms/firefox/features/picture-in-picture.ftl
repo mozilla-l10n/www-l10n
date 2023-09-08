@@ -10,6 +10,7 @@ features-pip-firefox-picture-in-picture-get-more = Gambar-dalam-Gambar { -brand-
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Ada benda yang hendak dibuat dan ada benda yang hendak ditonton? Buat kedua-duanya sekali dengan Gambar-dalam-Gambar dalam { -brand-name-firefox }.
 
+features-pip-picture-in-picture = Gambar-dalam-Gambar
 
 features-pip-new-feature-firefox-multi-picture = Ciri baru: Berbilang Gambar-dalam-Gambar { -brand-name-firefox }
 features-pip-cool-feature-picture-in-picture = Ciri hebat: Gambar-dalam-Gambar

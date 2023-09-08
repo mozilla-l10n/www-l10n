@@ -10,6 +10,7 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Bild-
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Sie haben einiges zu erledigen, aber die vielen Online-Videos wollen auch geguckt werden? Bringen Sie Ihr Multitasking aufs nächste Level mit dem Bild-im-Bild-Feature. von { -brand-name-firefox }.
 
+features-pip-picture-in-picture = Bild-im-Bild (PiP)
 
 features-pip-new-feature-firefox-multi-picture = Neue Funktion: Multi-Bild-im-Bild von { -brand-name-firefox }
 features-pip-cool-feature-picture-in-picture = Coole Funktion: Bild-im-Bild

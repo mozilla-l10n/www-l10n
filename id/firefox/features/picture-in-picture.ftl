@@ -10,6 +10,7 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Pictu
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Ada yang harus dilakukan saat menonton sesuatu? Lakukan keduanya dengan menggunakan fitur Picture-in-Picture di { -brand-name-firefox }.
 
+features-pip-picture-in-picture = Gambar-dalam-Gambar
 
 features-pip-new-feature-firefox-multi-picture = Fitur baru: { -brand-name-firefox } multi Picture-in-Picture
 features-pip-cool-feature-picture-in-picture = Fitur keren: Picture-in-Picture
