@@ -50,6 +50,13 @@ faq-question-browser-support-answer-2 = Yes, you can generate { -brand-name-rela
 faq-question-longevity-question = What happens if { -brand-name-mozilla } shuts down the { -brand-name-firefox-relay } service?
 faq-question-longevity-answer-2 = We will give you advance notice that you need to change the email address of any accounts that are using { -brand-name-relay } email masks.
 faq-question-mozmail-question-2 = Why did my email masks start to use the domain “mozmail.com?”
+faq-question-mozmail-answer-2 = We made the switch from “relay.firefox.com” to “mozmail.com” in order to make it possible to get a custom email subdomain, such as mask@yourdomain.mozmail.com. Custom email subdomains, available to { -brand-name-relay-premium } subscribers, allow you to generate easier-to-remember email masks.
+faq-question-attachments-question = Will { -brand-name-firefox-relay } forward emails with attachments?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = We now support attachment forwarding. However, there is a { $size } MB limit for email forwarding using { -brand-name-relay }. Any emails larger than { $size } MB will not be forwarded.
+faq-question-unsubscribe-domain-question-2 = What happens to my custom subdomain if I unsubscribe from { -brand-name-relay-premium }?
+faq-question-unsubscribe-domain-answer-2 = If you downgrade from { -brand-name-relay-premium }, you’ll still receive emails forwarded through your custom email masks, but you’ll no longer be able to create new masks using that subdomain. If you have more than five masks in total, you will not be able to create any more. You’ll also lose the ability to reply to forwarded messages. You can resubscribe to { -brand-name-relay-premium } and regain access to these features.
 
 ## Frequently Asked Questions about Phone plans
 
