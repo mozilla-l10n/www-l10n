@@ -28,3 +28,9 @@ password-manager-have-firefox-create-a-strong-unique = Nechajte { -brand-name-fi
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Obrázok registračného formulára webovej stránky s { -brand-name-firefox(case: "ins") }, ktorý navrhuje silné heslo, ktoré sa automaticky uloží pre budúce použitie.
 password-manager-password-security-alerts = Upozornenia na zabezpečenie hesla
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>vás upozorní, ak bolo heslo prezradené</a> pri úniku osobných údajov, aby ste ho mohli zmeniť skôr, ako hackeri dostanú príležitosť prenajať si Lambo použitím vašej kreditnej karty.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-password-manager = Obrázok správcu hesiel vo { -brand-name-firefox(case: "loc") }, ktorý zobrazuje výstražnú správu s textom „Toto heslo bolo použité na inom účte, ktorý bol pravdepodobne súčasťou úniku dát. Opakované používanie hesiel ohrozuje všetky vaše účty. Zmeňte toto heslo."
