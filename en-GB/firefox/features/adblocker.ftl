@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Create a tracker-free zone with Conte
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = On { -brand-name-firefox }, you can use <a href="{ $privacy }">Privacy</a> or <a href="{ $blocking }">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
 features-adblocker-choose-your-level-of-protection = Choose your level of protection
+features-adblocker-to-start-click-on-the-v2 = To start, click the shield to the left of the address bar on any web page and select “Protection Settings.” This will open the { -brand-name-firefox } Settings Privacy & Security panel in a new tab. You should see a blue pop-up with different selections.
+# Obsolete string
 features-adblocker-to-start-click-on-the = To start, click on the { -brand-name-firefox } menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
 features-adblocker-go-easy-with-standard = Go easy with Standard mode
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Speed up thanks to ad blockers
 features-adblocker-in-some-cases-an-ad-blocker = In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a web site. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for { -brand-name-firefox } and other browsers. If you want to try out the ad blockers { -brand-name-firefox } uses, <a href="{ $url }">click here to download</a> a browser that puts privacy first.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for { -brand-name-firefox } and other browsers. If want to try out the ad blockers { -brand-name-firefox } uses, <a href="{ $url }">click here to download</a> a browser that puts privacy first.
-features-adblocker-take-control-of-your-browser = Take control of your browser.
