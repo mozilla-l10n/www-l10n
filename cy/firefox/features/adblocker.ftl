@@ -55,8 +55,5 @@ features-adblocker-send-a-do-not-track-signal = Anfon signal Dim Tracio
 features-adblocker-if-you-dont-want-your = Os nad ydych chi am i'ch ymddygiad ar-lein gael ei ddefnyddio ar gyfer hysbysebion, gallwch anfon llythyr cwrtais at wefannau “diolch ond dim diolch” drwy dicio'r dewis <a href="{ $url }">Peidiwch â Thracio</a> yn { -brand-name-firefox }. Mae cyfranogiad yn wirfoddol, ond bydd y gwefannau sy'n cymryd rhan yn rhoi'r gorau i'ch tracio ar unwaith.
 features-adblocker-speed-up-thanks-to-ad = Cyflymu diolch i rwystryddion hysbysebion
 features-adblocker-in-some-cases-an-ad-blocker = Mewn rhai achosion, gall rhwystrydd hysbysebion helpu'ch porwr i fynd yn gyflymach. Pan fydd hysbyseb yn llwytho, gall arafu gwefan. Ar yr un pryd, mae'n cymryd mwy o amser i ddod o hyd i'r hyn rydych chi'n chwilio amdano os ydych chi'n rhy brysur yn cau hysbysebion.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more-v2 = Os ydych chi eisiau dysgu mwy am rwystro hysbysebion, mae cannoedd o estyniadau atalyddion hysbysebion ar gael ar gyfer { -brand-name-firefox } a phorwyr eraill. Os ydych am roi cynnig ar y defnydd atalyddion hysbysebion { -brand-name-firefox }, <a href=" { $url }">cliciwch yma i lawrlwytho</a> porwr sy'n rhoi preifatrwydd yn gyntaf.
 # Obsolete string
 features-adblocker-if-you-want-to-learn-more = Os hoffech chi ddysgu rhagor am rhwystro hysbysebion, mae cannoedd o estyniadau rhwystryddion hysbysebion ar gael ar gyfer { -brand-name-firefox } a phorwyr eraill. Os ydych chi am roi cynnig ar yr rhwystrydd hysbysebion mae { -brand-name-firefox } yn ei ddefnyddio, <a href="{ $url }">cliciwch yma i lwytho i lawr</a> porwr sy'n rhoi preifatrwydd yn gyntaf.
