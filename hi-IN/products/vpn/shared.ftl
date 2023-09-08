@@ -174,7 +174,7 @@ vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } डाउनलो
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = हम कुकीज़ का उपयोग यह जानने के लिए करते हैं कि किस संबद्ध पार्टनर ने आपको { -brand-name-mozilla-vpn } तक पहुंचाया है। हम व्यक्ति की पहचान कराने वाली जानकारियां अपने पार्टनरों के साथ साझा नहीं करते हैं। हमारी <a { $attrs }>निजता नीति</a> पढ़ें।
 
 vpn-shared-affiliate-notification-reject = अस्वीकृत करें
