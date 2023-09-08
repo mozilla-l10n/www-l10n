@@ -74,4 +74,4 @@ firefox-more-more-and-more = Čoraz viac citlivých a hodnotných vecí v našom
 firefox-more-avoid-misinformation-heading = Vyhnite sa dezinformáciám online – { -brand-name-firefox } je tu, aby vám pomohol
 firefox-more-avoid-misinformation-desc = Pozrite si tipy, ako vidieť menej dezinformácií a zamerať sa na to, čo je pre vás dôležité.
 firefox-more-is-firefox-a-private-browser = Je { -brand-name-firefox } súkromným prehliadačom?
-firefox-more-were-focused-on-your-right-to = Zameriavame sa na vaše právo na súkromie. Vaše údaje, vaša webová aktivita, váš život online sú pri používaní  { -brand-name-firefox(case: "gen") } chránené.
+firefox-more-were-focused-on-your-right-to = Zameriavame sa na vaše právo na súkromie. Vaše údaje, vaša webová aktivita, váš život online sú pri používaní { -brand-name-firefox(case: "gen") } chránené.
