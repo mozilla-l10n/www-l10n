@@ -17,4 +17,10 @@ bookmark-manager-collect-your-bookmarks-in-folders = Reúna seus favoritos em pa
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-bookmark-manager = Imagem da janela do gerenciador de favoritos do { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Importe favoritos com facilidade
+bookmark-manager-you-can-import-your-bookmarks = Você pode importar seus favoritos do Chrome, Safari ou Edge com o assistente de importação do { -brand-name-firefox }. Basta clicar em Favoritos > Gerenciar favoritos e selecionar “Importar e backup”.
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-the-firefox-import-wizard = Imagem do diálogo do assistente de importação do { -brand-name-firefox }, mostrando opções de importar configurações e dados de outros navegadores.
 bookmark-manager-bookmarks-toolbar = Barra de favoritos
+bookmark-manager-get-quick-access-to-your = Tenha acesso rápido a seus principais favoritos no menu no alto do { -brand-name-firefox }, ou fixe na barra de ferramentas.
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-firefox-showing-a-collection = Imagem do { -brand-name-firefox } mostrando uma coleção de favoritos em uma barra de ferramentas no alto da janela do navegador.
