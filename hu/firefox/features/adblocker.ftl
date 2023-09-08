@@ -31,7 +31,7 @@ features-adblocker-create-a-tracker-free = Hozzon létre egy követőmentes zón
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = A { -brand-name-firefox }ban használhatja az <a href="{ $privacy }">adatvédelmi</a> vagy <a href="{ $blocking }">tartalomblokkolási</a> beállításokat, hogy még nagyobb irányítása legyen a hirdetéseket kiszolgáló reklámkövetők felett.
 features-adblocker-choose-your-level-of-protection = Válassza ki a védelem szintjét
-features-adblocker-to-start-click-on-the-v2 = A kezdéshez kattintson a pajzsra bármely weboldal címsorától balra, és válassza a „Védelmi beállítások” lehetőséget. Ez egy új lapon nyitja meg a { -brand-name-firefox } Beállítások Adatvédelem és biztonság panelt. Egy kék felugró ablakot kell látnia, különböző kijelölésekkel.
+features-adblocker-to-start-click-on-the-v2 = A kezdéshez kattintson a pajzsra bármely weboldal címsorától balra, és válassza a „Védelmi beállítások” lehetőséget. Ez egy új lapon nyitja meg a { -brand-name-firefox } Beállítások – Adatvédelem és biztonság paneljét. Egy kék felugró ablakot kell látnia, különböző választási lehetőségekkel.
 # Obsolete string
 features-adblocker-to-start-click-on-the = A kezdéshez kattintson a képernyő jobb felső sarkában található { -brand-name-firefox } menüre. Úgy néz ki, mint három egymásra helyezett vonal. A legördülő menüben kattintson a Tartalomblokkolásra. Egy kék felugró ablakot kell látnia, amely különböző választási lehetőségeket tartalmaz.
 features-adblocker-go-easy-with-standard = Legyen engedékeny a Szokásos móddal
@@ -57,6 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Gyorsítson fel a reklámblokkolókna
 features-adblocker-in-some-cases-an-ad-blocker = Bizonyos esetekben egy reklámblokkoló segíthet a böngésző felgyorsításában. Ha egy hirdetés betöltődik, az lassíthatja a webhelyet. Ezzel egyidejűleg hosszabb időt vesz igénybe, hogy megkeresse azt, amit keres, ha a reklámok bezárásával tölti az idejét.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more-v2 = Ha többet szeretne megtudni a reklámblokkolásról, akkor több száz reklámblokkoló kiegészítő áll rendelkezésre { -brand-name-firefox }hoz és más böngészőkhöz. Ha szeretné kipróbálni a { -brand-name-firefox } által használt reklámblokkolókat, <a href="{ $url }">kattintson ide, hogy letöltse</a> egy böngészőt, amely az adatvédelmet helyezi előtérbe.
+features-adblocker-if-you-want-to-learn-more-v2 = Ha többet szeretne megtudni a reklámblokkolásról, akkor több száz reklámblokkoló kiegészítő áll rendelkezésre a { -brand-name-firefox }hoz és más böngészőkhöz. Ha szeretné kipróbálni a { -brand-name-firefox } által használt reklámblokkolókat, <a href="{ $url }">kattintson ide, hogy letöltse</a> egy olyan böngészőt, amely az adatvédelmet helyezi az első helyre.
 # Obsolete string
 features-adblocker-if-you-want-to-learn-more = Ha többet szeretne megtudni a reklámblokkolásról, akkor több száz reklámblokkoló kiegészítő áll rendelkezésre a { -brand-name-firefox }hoz és más böngészőkhz. Ha szeretné kipróbálni azokat a reklámblokkolókat, melyet a { -brand-name-firefox } használ, akkor <a href="{ $url }">kattintson ide, hogy letöltse</a> azt a böngészőt, amely az adatvédelmet helyezi előtérbe.

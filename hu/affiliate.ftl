@@ -10,8 +10,8 @@
 
 # Variables:
 #   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-affiliate-notification-message = Sütiket használunk, hogy megértsük, melyik partner vezette Önt ide. Személyazonosításra alkalmas adatokat nem osztunk meg partnereinkkel. Olvassa el az <a { $attrs }>Adatvédelmi irányelveinket</a>.
+affiliate-notification-message = Sütiket használunk annak megértésére, hogy melyik partnerünk vezette ide. Személyazonosításra alkalmas adatokat nem osztunk meg partnereinkkel. Olvassa el <a { $attrs }>Adatvédelmi irányelveinket</a>.
 # label for the button that rejects cookie use
-affiliate-notification-reject = Visszautasítás
+affiliate-notification-reject = Elutasítás
 # label for the button that okays cookie use
 affiliate-notification-ok = OK
