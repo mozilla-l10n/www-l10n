@@ -43,6 +43,6 @@ vpn-download-also-available = Eiporukuaa avei ko’ãvape:
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-download-from-the-maker = { -brand-name-firefox } moheñoihára, { -brand-name-mozilla-vpn } oipuru pe tapereko iporãva <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ombopapapy hag̃ua ne rembiapo ñandutípe ha oñomi ne rendaite.
+vpn-download-from-the-maker = { -brand-name-firefox } moheñoihára, { -brand-name-mozilla-vpn } oiporu pe tapereko iporãva <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ombopapapy hag̃ua ne rembiapo ñandutípe ha oñomi ne rendaite.
 vpn-download-we-never-log = Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã ñandutípe
 vpn-download-previous-versions = Emboguejy apopyre itujavéva { -brand-name-windows } ha { -brand-name-mac-short }

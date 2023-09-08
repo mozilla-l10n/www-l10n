@@ -136,8 +136,8 @@ vpn-subnav-download-mozilla-vpn = Emboguejy { -brand-name-mozilla-vpn }
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = Roipuru umi kookie roikuaa hag̃ua mavaitévapa ndegueraha { -brand-name-mozilla-vpn } gotyo. Noromoherakuãi mba’evéichagua marandu ndeikuaaukátava ore irũnguéra ndive. Emoñe’ẽ ore <a { $attrs }>ñemigua purureko</a>.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Roiporu umi kookie roikuaa hag̃ua mavaitévapa ndegueraha { -brand-name-mozilla-vpn } gotyo. Noromoherakuãi mba’evéichagua marandu ndeikuaaukátava ore irũnguéra ndive. Emoñe’ẽ ore <a { $attrs }>ñemigua purureko</a>.
 vpn-shared-affiliate-notification-reject = Hejarei
 vpn-shared-affiliate-notification-ok = MONEĨ
 

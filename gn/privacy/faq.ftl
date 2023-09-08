@@ -37,7 +37,7 @@ privacy-faq-okay-those-first-few-were-softballs = Iporã, umi ñepyrũgua ndahas
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } ombyaty mba’ekuaarã { -brand-name-firefox } ypykue rupi orepytyvõva roikumby hag̃ua mba’éichapa opavave oipuru kundaha. Ko’ã mba’ekuaarã oguereko kuaaukaha peichaguánte nde réra térã ñanduti veve kundahára rendápe. Emoñe’ẽve ãva rehegua marandu ñemigua reheguápe <a href="{ $privacy }">ñemigua</a> ha avei emoñe’ẽkuaa <a href="{ $data }">kuatiaita mba’ekuaarã ñembyatyguáva ko’ápe</a>.
+privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } ombyaty mba’ekuaarã { -brand-name-firefox } ypykue rupi orepytyvõva roikumby hag̃ua mba’éichapa opavave oiporu kundaha. Ko’ã mba’ekuaarã oguereko kuaaukaha peichaguánte nde réra térã ñanduti veve kundahára rendápe. Emoñe’ẽve ãva rehegua marandu ñemigua reheguápe <a href="{ $privacy }">ñemigua</a> ha avei emoñe’ẽkuaa <a href="{ $data }">kuatiaita mba’ekuaarã ñembyatyguáva ko’ápe</a>.
 privacy-faq-we-make-our-documentation-public = Ore kuatiakuéra opavave omoñe’ẽkuaa ha péicha ikatu ohechakuaa ro’éva guive añeteha, tomombe’u oréve oikotevẽva iporãve ha ani romokañy mba’eve.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = ¡Ko kuatia ijetu’u chéve g̃uarã! ¿Ikatúpa ere chéve hasy’ỹ hag̃uáicha guaraníme?
@@ -64,7 +64,7 @@ privacy-faq-we-are-big-believers-of-data = Roguerovia umi mba’ekuaarã ñemomi
 privacy-faq-you-dont-need-an-account-to = Nereikotevẽi peteĩ mba’ete eipuru hag̃ua { -brand-name-firefox }. Umi <a href="{ $accounts }">mba’ete</a> eikotevẽva embojuehe hag̃ua mba’ekuaarã mba’e’okakuéra ndive, hákatu rojeruréta ndéve ñandutiveve kundaharape. Ndoroikuaaséi nde réra, ogarenda, aramboty térã pumbyry papapy.
 privacy-faq-you-use-digital-advertising = Oiporu ñemurã ñandutiguáva omba’evende hag̃ua. ¿Ojogua umi tapicha mba’ekuaarã omoma’ẽ porãve hag̃ua iñemurã ñandutípe?
 privacy-faq-no-we-do-not-buy-peoples-data = Nahániri, ndorojoguái yvypóra mba’ekuaarã omyakã hag̃ua ñemurã.
-privacy-faq-we-do-ask-our-advertising-partners = Rojeruréramo oreirũ ñemurãguávape oipuru hag̃ua mba’ekuaarã ha’etéva umi ñanduti renda ha avei mbohetaha oikuaáva poruhára rehegua mba’e kundaha térã mba’e’okápa oipuru.
+privacy-faq-we-do-ask-our-advertising-partners = Rojeruréramo oreirũ ñemurãguávape oiporu hag̃ua mba’ekuaarã ha’etéva umi ñanduti renda ha avei mbohetaha oikuaáva poruhára rehegua mba’e kundaha térã mba’e’okápa oiporu.
 privacy-faq-well-it-seems-like-you-really = Ajépa, hi’ã chéve pemo’ã añetehápe ñeniguáva.
 privacy-faq-yes-we-do = Heẽ, rojapo.
 privacy-faq-find-out-more-about-how-mozilla = Eikuaave mba’éichapa { -brand-name-mozilla } omo’ã ñanduti.

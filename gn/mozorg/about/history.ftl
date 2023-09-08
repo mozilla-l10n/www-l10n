@@ -61,7 +61,7 @@ history-more-people-than-ever-before = Hetaiteve yvypóra ko’ág̃a rupi oipor
 # Variables:
 #   $range (url) link to https://www.wikipedia.org
 #   $areas (url) link to https://creativecommons.org/
-history-a-sustainable-organization = Oñemoheñói peteĩ atyguasu oiporúva ñemuhaguasu oipytyvõ hag̃ua opavave tapichakuéra rembipota ha koichagua oipurujey ambuéva omoheñói hag̃ua atyguasu ijurujáva, hekosakãva ha ñeipytyvõgua <a href="{ $range }">hekoetáva</a> <a href="{ $areas }">koragua</a>.
+history-a-sustainable-organization = Oñemoheñói peteĩ atyguasu oiporúva ñemuhaguasu oipytyvõ hag̃ua opavave tapichakuéra rembipota ha koichagua oiporujey ambuéva omoheñói hag̃ua atyguasu ijurujáva, hekosakãva ha ñeipytyvõgua <a href="{ $range }">hekoetáva</a> <a href="{ $areas }">koragua</a>.
 history-the-future-is-full-of-challenges = Tenondevépe oĩ heta mba’eaporã ha pa’ũ peteĩchagua opavavetépe g̃uarã.
 history-theres-no-guarantee-that = Ndaikatúi ja’e Ñanduti oiko aretaha juruja, vy’a térã tekorosãme.
 history-mozilla-will-continue-to = { -brand-name-mozilla } ome’ẽvéta pa’ũ opaite yvypóra ohenduka hag̃ua iñe’ẽ ha avei oikoporãvo oikundahakuévo.

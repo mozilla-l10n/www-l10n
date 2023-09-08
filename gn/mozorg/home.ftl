@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
 
 home-internet-for-people-not-profit = Ñanduti avápe g̃uarã, ndaha’éi virurã añogua
-home-did-you-know-mozilla-the-maker = ¿Eikuaápa? { -brand-name-mozilla } — atyguasu { -brand-name-firefox } apoharé — oñorairõ peteĩ ñanduti opavavépe g̃uarãva rehe, ijuruja ha oipurukuaáva mayma tapicha.
+home-did-you-know-mozilla-the-maker = ¿Eikuaápa? { -brand-name-mozilla } — atyguasu { -brand-name-firefox } apoharé — oñorairõ peteĩ ñanduti opavavépe g̃uarãva rehe, ijuruja ha oiporukuaáva mayma tapicha.
 home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Ipya’éta tapiaite.
 home-with-2x-the-speed-built-in = Ipya’eve, ñemigua mo’ãha reheve ha { -brand-name-mozilla } hapykuéri, { -brand-name-firefox } ipyahúva ha’e kundaha iporãvéva ñandutípe.
@@ -21,7 +21,7 @@ home-empowering-women-online = Romomba’eguasu kuñanguéra ñandutípe
 home-the-coral-project = Coral Project
 home-read-our-internet-health-report = Emoñe’ẽ ore marandu’i ñanduti resãi rehegua
 home-our-innovations = Ore mba’epyahu
-home-using-the-web-as-the-platform = Roipuru ñanduti jehechaukaha, romoheñói jurujápe tembiporupyahu oipytytyvõtava mboguataharakuérape omba’apo hag̃ua sã’ỹre atyguasúgui ha oñembotýva omoheñói potávo ñanduti ipya’éva ha hekorosãva opavavépe g̃uarã.
+home-using-the-web-as-the-platform = Roiporu ñanduti jehechaukaha, romoheñói jurujápe tembiporupyahu oipytytyvõtava mboguataharakuérape omba’apo hag̃ua sã’ỹre atyguasúgui ha oñembotýva omoheñói potávo ñanduti ipya’éva ha hekorosãva opavavépe g̃uarã.
 home-virtual-reality-platform = Añetegua jehecha rechaukaha
 home-common-voice = { -brand-name-common-voice }
 home-extensions = Moĩmbaha
