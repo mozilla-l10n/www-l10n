@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Prekladajte web – priamo vo svojo
 # page description
 features-translate-translate-more-than = Prekladajte z viac ako 100 jazykov do svojho jazyka priamo v { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } – jednoduchšie než kedykoľvek predtým.
 features-translate-translate-the-web = Prekladajte web pomocou { -brand-name-firefox(case: "gen") }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Prekladanie webových stránok
 # Obsolete string
 features-translate-the-google-translate = Rozšírenie To { -brand-name-google } Translate pre { -brand-name-firefox } sprístupňuje web celému svetu.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = Rozšírenie <a { $attrs }>{ -brand-name-firefox-translations }</a> dokáže automaticky preložiť obsah z webových stránok, ktoré navštívite. Na rozdiel od niektorých cloudových alternatív toto rozšírenie prekladá text lokálne vo { -brand-name-firefox(case: "loc") }, takže obsah, ktorý prekladáte, neopustí váš počítač.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Získať { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = Rozšírenie To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Prekladač s pripravenými viac ako 100 jazykmi* používajú milióny ľudí na celom svete. Ale prepínanie sa tam a späť medzi translate.google.com a stránkou, ktorú sa pokúšate prečítať, nie je ideálnym zážitkom. Preto je tu rozšírenie <a { $attrs }>To { -brand-name-google } Translate</a>, ktoré uľahčuje preklad stránky, na ktorej sa nachádzate.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Získať To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Získať rozšírenie

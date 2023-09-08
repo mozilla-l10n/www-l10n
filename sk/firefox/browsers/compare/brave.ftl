@@ -24,7 +24,7 @@ compare-brave-the-internet-as-a-whole-is = Internet ako celok je z veľkej čast
 compare-brave-whether-this-sounds-complicated = Či to znie komplikovane alebo ako skvelý nápad, pravdepodobne závisí od vašej úrovne pohŕdania grafickou reklamou na internete. Väčšina používateľov internetu chápe, že dobrý obsah stojí peniaze, a súhlasí s tým, že peniaze pochádzajú z reklamy.
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
-compare-brave-on-the-other-side-of-the-coin = Na druhej strane, s prehliadačom { -brand-name-firefox } dávame prednosť jednoduchosti. { -brand-name-firefox } v predvolenom nastavení blokuje sledovanie mnohých tretích strán, ťažbu kryptomien a snímanie odtlačkov prehliadača. { -brand-name-firefox } však mimo režimu súkromného prehliadania rozhodne neblokuje zobrazovanie grafických reklám. Teda pokiaľ nenainštalujete <a { $attrs }>jedno z rozšírení špeciálne navrhnutých na tento účel</a>.
+compare-brave-on-the-other-side-of-the-coin = Na druhej strane, s prehliadačom { -brand-name-firefox } dávame prednosť jednoduchosti. { -brand-name-firefox } v predvolenom nastavení blokuje sledovanie mnohých tretích strán, ťažbu kryptomien a snímanie digitálnych odtlačkov. { -brand-name-firefox } však mimo režimu súkromného prehliadania rozhodne neblokuje zobrazovanie grafických reklám. Teda pokiaľ nenainštalujete <a { $attrs }>jedno z rozšírení špeciálne navrhnutých na tento účel</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
 #   $extension (string) - link to https://addons.mozilla.org/addon/https-everywhere/ with additional attributes for analytics

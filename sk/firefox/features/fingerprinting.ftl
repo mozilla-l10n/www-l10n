@@ -6,18 +6,19 @@
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
 # page title
-features-fingerprinting-what-is-fingerprinting-title = Čo sú to odtlačky prehliadačov a prečo by ste ich mali blokovať
+features-fingerprinting-what-is-fingerprinting-title = Čo je to snímanie digitálnych odtlačkov a prečo by ste ich mali blokovať
 # page description
-features-fingerprinting-fingerprinting-is-a-desc = Snímanie odtlačkov prehliadača je typ online sledovania, ktorý je invazívnejší ako bežné sledovanie založené na súboroch cookie – preto ho { -brand-name-firefox-browser(capitalization: "lower") } blokuje.
-features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokuje snímanie odtlačkov prehliadača
-features-fingerprinting-ditch-the-sticky = Zbavte sa lepkavých reklám, ktoré vás sledujú, pomocou blokovačov snímania odtlačkov prehliadača vstavaných priamo vo { -brand-name-firefox(case: "loc") }.
+features-fingerprinting-fingerprinting-is-a-desc = Snímanie digitálnych odtlačkov je typ online sledovania, ktorý je invazívnejší ako bežné sledovanie založené na súboroch cookie – preto ho { -brand-name-firefox-browser(capitalization: "lower") } blokuje.
+features-fingerprinting-fingerprint-blocking = Blokovanie snímania digitálnych odtlačkov
+features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokuje snímanie digitálnych odtlačkov
+features-fingerprinting-ditch-the-sticky = Zbavte sa lepkavých reklám, ktoré vás sledujú, pomocou blokovania snímania digitálnych odtlačkov vstavaných priamo vo { -brand-name-firefox(case: "loc") }.
 # description for the header image
-features-fingerprinting-every-fingerprint = Každý odtlačok prehliadača je jedinečný.
+features-fingerprinting-every-fingerprint = Každý digitálny odtlačok je jedinečný.
 features-fingerprinting-download-firefox = Stiahnuť { -brand-name-firefox }
-features-fingerprinting-what-is-fingerprinting-body = Čo je to snímanie odtlačkov prehliadača?
-features-fingerprinting-fingerprinting-is-a = Snímanie odtlačkov prehliadača je typ online sledovania, ktorý je invazívnejší ako bežné sledovanie založené na súboroch cookie. Digitálny odtlačok prehliadača sa vytvorí, keď spoločnosť vytvorí váš jedinečný profil na základe hardvéru, softvéru, doplnkov a dokonca nastavení vášho počítača. Na vytvorenie odtlačku prehliadača možno použiť vaše nastavenia, ako je obrazovka, ktorú používate, písma nainštalované v počítači a zvolený webový prehliadač.
-features-fingerprinting-if-you-have = Ak máte bežne používaný notebook, počítač alebo smartfón, môže byť ťažšie jednoznačne identifikovať vaše zariadenie pomocou odtlačkov prehliadača. Čím viac jedinečných doplnkov, písiem a nastavení však máte, tým ľahšie je vás identifikovať. Spoločnosti môžu použiť túto jedinečnú kombináciu informácií na vytvorenie vášho odtlačku prehliadača. To je dôvod, prečo { -brand-name-firefox } blokuje známe prvky snímajúce odtlačky, takže stále môžete používať svoje obľúbené rozšírenia, motívy a prispôsobenia bez toho, aby vás nasledovali reklamy.
-features-fingerprinting-fingerprinting-is-bad = Snímanie odtlačkov je pre web zlé
+features-fingerprinting-what-is-fingerprinting-body = Čo je to snímanie digitálnych odtlačkov?
+features-fingerprinting-fingerprinting-is-a = Snímanie digitálnych odtlačkov je typ online sledovania, ktorý je invazívnejší ako bežné sledovanie založené na súboroch cookie. Digitálny odtlačok sa vytvorí, keď spoločnosť vytvorí váš jedinečný profil na základe hardvéru, softvéru, doplnkov a dokonca nastavení vášho počítača. Na vytvorenie digitálneho odtlačku možno použiť vaše nastavenia, ako je obrazovka, ktorú používate, písma nainštalované v počítači a zvolený webový prehliadač.
+features-fingerprinting-if-you-have = Ak máte bežne používaný notebook, počítač alebo smartfón, môže byť ťažšie jednoznačne identifikovať vaše zariadenie pomocou digitálneho odtlačku. Čím viac jedinečných doplnkov, písiem a nastavení však máte, tým ľahšie je vás identifikovať. Spoločnosti môžu použiť túto jedinečnú kombináciu informácií na vytvorenie vášho digitálneho odtlačku. To je dôvod, prečo { -brand-name-firefox } blokuje známe prvky snímajúce digitálne odtlačky, takže stále môžete používať svoje obľúbené rozšírenia, motívy a prispôsobenia bez toho, aby vás nasledovali reklamy.
+features-fingerprinting-fingerprinting-is-bad = Snímanie digitálnych odtlačkov je pre web zlé
 # $url_tracked (string) - link to https://hal.inria.fr/hal-01652021/document
 # $url_standards (string) - link to https://w3c.github.io/fingerprinting-guidance/
 # $url_bodies (string) - link to https://w3ctag.github.io/unsanctioned-tracking/
