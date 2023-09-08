@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Vytvorte si zónu bez sledovacích pr
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Vo { -brand-name-firefox(case: "loc") } môžete použiť nastavenia <a href="{ $privacy }">ochrany súkromia</a> alebo <a href="{ $blocking }">blokovania obsahu</a> a získať ešte väčšiu kontrolu nad nástrojmi na sledovanie reklám, ktoré vám zobrazujú reklamy.
 features-adblocker-choose-your-level-of-protection = Zvoľte si svoju úroveň ochrany
+features-adblocker-to-start-click-on-the-v2 = Ak chcete začať, kliknite na štít naľavo od panela s adresou na ľubovoľnej webovej stránke a vyberte položku “Nastavenia ochrany”. Tým sa na novej karte otvoria Nastavenia { -brand-name-firefox(case: "gen") }, panel Súkromie a bezpečnosť. Tam by ste mali vidieť modré okno s rôznymi voľbami.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Ak chcete začať, kliknite na ponuku { -brand-name-firefox(case: "gen") } v pravom hornom rohu obrazovky. Vyzerá to ako tri riadky naukladané na seba. V rozbaľovacej ponuke kliknite na Blokovanie obsahu. Mali by ste vidieť modré vyskakovacie okno s rôznymi výbermi.
 features-adblocker-go-easy-with-standard = Jednoducho so štandardnou ochranou
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Zrýchlite vďaka blokovačom reklám
 features-adblocker-in-some-cases-an-ad-blocker = V niektorých prípadoch môže blokovanie reklám pomôcť vášmu prehliadaču zrýchliť. Keď sa reklama načítava, môže spomaliť web. Ak ste príliš zaneprázdnení zatváraním ďalšej reklamy, hľadanie toho, čo skutočne hľadáte, trvá dlhšie.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Ak sa chcete dozvedieť viac o blokovaní reklám, pre prehliadač { -brand-name-firefox } ako aj ďalšie prehliadače sú k dispozícii stovky rozšírení na blokovanie reklám. Ak chcete vyskúšať blokovače reklám pre { -brand-name-firefox }, <a href="{ $url }">kliknutím sem</a> si stiahnete prehliadač, ktorý kladie súkromie na prvé miesto.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Ak sa chcete dozvedieť viac o blokovaní reklám, pre prehliadač { -brand-name-firefox } ako aj ďalšie prehliadače sú k dispozícii stovky rozšírení na blokovanie reklám. Ak chcete vyskúšať blokovače reklám pre { -brand-name-firefox }, <a href="{ $url }">kliknutím sem</a> si stiahnete prehliadač, ktorý kladie súkromie na prvé miesto.
-features-adblocker-take-control-of-your-browser = Prevezmite kontrolu nad svojim prehliadačom
