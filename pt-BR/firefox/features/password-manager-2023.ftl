@@ -19,3 +19,4 @@ password-manager-firefox-can-automatically-fill-in = O { -brand-name-firefox } p
 password-manager-image-of-a-websites-login-form = Imagem do formulário de entrar na conta de um site, com o { -brand-name-firefox } mostrando várias contas salvas para você escolher ao entrar.
 password-manager-import-passwords = Importe senhas
 password-manager-no-more-reusing-your-passwords = Chega de reusar suas senhas
+password-manager-password-security-alerts = Alertas de segurança de senha
