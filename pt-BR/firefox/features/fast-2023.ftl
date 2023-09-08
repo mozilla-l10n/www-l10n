@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+features-fast-is-firefox-the-fastest-browser = { -brand-name-firefox } é o navegador mais rápido?
 features-fast-browse-faster = Navegue mais rápido
 features-fast-multi-tasking-with-multiple-tabs = Multitarefa com várias abas
 features-fast-faster-gaming = Jogos mais rápidos
