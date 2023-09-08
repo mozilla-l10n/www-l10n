@@ -65,8 +65,8 @@ firefox-calls-it = { -brand-name-firefox } to nazýva súkromné prehliadanie, {
 take-the-stress = Zbavte sa stresu pri hľadaní bezpečného prehliadača
 # Obsolete string
 building-a-safe = Vytvorenie bezpečného prehliadača je umenie a veda, pretože neexistujú žiadne stanovené pravidlá.
-firefox-more-fingerprinter-blocking = Blokovanie vytvárania odtlačkov prehliadača
-firefox-more-fingerprinting-is-a = Snímanie odtlačkov prehliadača je typ online sledovania, ktorý je invazívnejší ako bežné sledovanie založené na súboroch cookie – preto ho { -brand-name-firefox-browser(capitalization: "lower") } blokuje.
+firefox-more-fingerprinter-blocking = Blokovanie snímania digitálnych odtlačkov
+firefox-more-fingerprinting-is-a = Snímanie digitálnych odtlačkov je typ online sledovania, ktorý je invazívnejší ako bežné sledovanie založené na súboroch cookie – preto ho { -brand-name-firefox-browser(capitalization: "lower") } blokuje.
 firefox-more-translate-the-web = Prekladanie webových stránok
 firefox-more-translate-more-than = Prekladajte z viac ako 100 jazykov do svojho jazyka priamo v { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } – jednoduchšie než kedykoľvek predtým.
 firefox-more-a-guide-to = Sprievodca bezpečnejšími prihlasovacími údajmi a heslami
