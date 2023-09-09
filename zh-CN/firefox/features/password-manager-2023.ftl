@@ -16,7 +16,7 @@ password-manager-with-a-free-firefox-account = 您可以使用<a href="{ $fxa }"
 password-manager-password-autofill-for-easy-logins = 自动填写密码，让登录更轻松
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } 可以自动填写您保存的用户名和密码。如果您在一个网站上有多个登录信息，那么只需选择您想要使用的账户，即可填写对应账户的登录信息。
 # Used as an accessible text alternative for an image
-password-manager-image-of-a-websites-login-form = { -brand-name-firefox } 网站的登录表单图片显示了登录时可供选择的多个已保存账户。
+password-manager-image-of-a-websites-login-form = { -brand-name-firefox } 显示网站登录表单的图片，显示着登录时可供选择的多个已保存账户。
 password-manager-import-passwords = 导入密码
 password-manager-you-can-use-the-import-wizard = 您可以使用导入向导轻松、便捷地导入 Chrome、Edge、Safari 等浏览器上存储的用户名和密码。从菜单中选择“密码”然后点击“登录信息”页面底部的“将密码导入 { -brand-name-firefox }”。
 # Used as an accessible text alternative for an image
