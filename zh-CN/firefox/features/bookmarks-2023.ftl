@@ -19,7 +19,7 @@ bookmark-manager-image-of-the-bookmark-manager = { -brand-name-firefox } 书签�
 bookmark-manager-easily-import-bookmarks = 轻松导入书签
 bookmark-manager-you-can-import-your-bookmarks = 您可以使用 { -brand-name-firefox } 的导入向导，从 Chrome、Safari 和 Edge 导入书签。只需前往“书签”>“管理书签”，选择“导入和备份”即可导入。
 # Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } 导入向导对话框的图片显示了用于从其他浏览器导入设置和数据的选项。
+bookmark-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } 导入向导对话框的图片，显示了用于从其他浏览器导入设置和数据的选项。
 bookmark-manager-bookmarks-toolbar = 书签工具栏
 bookmark-manager-get-quick-access-to-your = 从 { -brand-name-firefox } 顶部的菜单或固定到工具栏快速访问您喜爱的书签。
 # Used as an accessible text alternative for an image
