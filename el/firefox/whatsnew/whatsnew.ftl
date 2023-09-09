@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Τι νέο υπάρχει στο { -brand-name-firefox }
+# Obsolete string
 whatsnew-page-title = Τι νέο υπάρχει στο { -brand-name-firefox } - Περισσότερο απόρρητο και προστασία
 whatsnew-page-description = Αντισταθείτε σε μια βιομηχανία που πουλά τα δεδομένα σας σε τρίτους. Παραμείνετε ασφαλείς στο διαδίκτυο με την τεχνολογία που μάχεται για εσάς.
 whatsnew-firefox = { -brand-name-firefox }
@@ -21,3 +23,4 @@ whatsnew-out-of-date-notification-v2 = Ένα ακόμη νεότερο { -brand
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Διαβάστε τις <a href="{ $url }">Σημειώσεις έκδοσης</a> για να μάθετε περισσότερα σχετικά με το τι νέο υπάρχει στο πρόγραμμα περιήγησης { -brand-name-firefox } σας.
+whatsnew-signoff = <strong>Με την υποστήριξη της { -brand-name-mozilla }.</strong> Από το 1998, βάζουμε τους ανθρώπους πάνω από τα κέρδη.
