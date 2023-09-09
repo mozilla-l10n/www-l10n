@@ -5,20 +5,22 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-firefox-browser-features = { -brand-name-firefox } 浏览器特色
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } 是一款快速、轻量、注重隐私的浏览器，全平台可用。
-features-index-is-firefox-a-fast-browser = { -brand-name-firefox } 速度快吗
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } 占用内存比 Chrome 更少让您的其他程序能够保持全速运行。
-features-index-is-firefox-a-private-browser = { -brand-name-firefox } 是隐私浏览器吗
-features-index-were-focused-on-your-right-to = 我们关注您的隐私权。 { -brand-name-firefox } 保护您的数据、网络活动及在线生活。
+features-index-is-firefox-a-fast-browser = { -brand-name-firefox } 速度快吗？
+features-index-firefox-uses-less-memory-than = { -brand-name-firefox } 的内存占用优于 Chrome，让您的其他程序能够保持全速运行。
+features-index-is-firefox-a-private-browser = { -brand-name-firefox } 能守护隐私吗？
+features-index-were-focused-on-your-right-to = 我们十分重视您的隐私权。 { -brand-name-firefox } 能够保护您的数据、网络活动及在线生活。
 features-index-free-password-manager = 免费的密码管理器
-features-index-get-help-creating-new-passwords = 获取创建新密码的帮助、自动填写在线表单并自动登录。
+features-index-get-help-creating-new-passwords = 帮助您轻松创建新密码、自动填写在线表单并登录。
 features-index-customize-your-firefox-browser = 定制您的 { -brand-name-firefox } 浏览器
-features-index-choose-how-your-browser-looks = 选择浏览器外观与成千上万的免费主题。
+features-index-choose-how-your-browser-looks = 通过数千款免费主题，焕新浏览器外观。
 features-index-firefox-browser-sync = { -brand-name-firefox } 浏览器同步
 features-index-access-your-firefox-bookmarks = 随时随地访问您的 { -brand-name-firefox } 书签、密码、打开的标签页等数据。
 features-index-bookmark-manager = 书签管理器
-features-index-organize-your-bookmarks-with = 使用文件夹和标签管理您的书签。
+features-index-organize-your-bookmarks-with = 使用文件夹和标签来整理您的书签。
 features-index-private-browsing-mode = 隐私浏览模式
 features-index-automatically-delete-cookies = 关闭浏览器时自动删除 Cookie 并清除浏览历史。
 features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } 附加组件和浏览器扩展
