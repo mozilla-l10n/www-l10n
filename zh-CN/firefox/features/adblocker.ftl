@@ -31,7 +31,7 @@ features-adblocker-create-a-tracker-free = 使用内容拦截，创造无跟踪�
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = 您可以在 { -brand-name-firefox } 使用<a href="{ $privacy }">隐私</a>或<a href="{ $blocking }">内容拦截</a>设置来更有效地控制广告跟踪器。
 features-adblocker-choose-your-level-of-protection = 选择您的保护级别
-features-adblocker-to-start-click-on-the-v2 = 首先请点击网页地址栏左侧的盾牌然后选择“保护设置”。将在新标签页中打开 { -brand-name-firefox } 设置“隐私与安全”面板。您应该看到一个带有不同选择的蓝色窗口。
+features-adblocker-to-start-click-on-the-v2 = 首先请点击地址栏左侧的盾牌，然后选择“保护设置”，这会在新标签页中打开 { -brand-name-firefox } 设置“隐私与安全”面板，您将看到一个提供各种选择的蓝色窗口。
 # Obsolete string
 features-adblocker-to-start-click-on-the = 首先，请点击屏幕右上角的 { -brand-name-firefox } 菜单按钮，它看起来像是三条线堆叠在一起。在下拉菜单中单击“内容拦截”。您应该会看到有不同选项的蓝色窗口。
 features-adblocker-go-easy-with-standard = 使用标准模式轻松完成
@@ -57,6 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = 使用广告拦截器加速上网
 features-adblocker-in-some-cases-an-ad-blocker = 某些情况下，广告拦截器可加快您的浏览速度。加载广告时可能会拖慢网站。同时可能也会让您花更多时间才能找到想找的东西。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more-v2 = 如果您想详细了解广告拦截器这里有数百款适用于 { -brand-name-firefox } 和其他浏览器的广告拦截扩展可用。若您想试用 { -brand-name-firefox } 所使用的广告拦截器请<a href="{ $url }">点击此处下载</a>一款隐私优先的浏览器。
+features-adblocker-if-you-want-to-learn-more-v2 = 若需详细了解广告拦截器，这里有数百款适用于 { -brand-name-firefox } 和其他浏览器的广告拦截扩展可用。若您想在 { -brand-name-firefox } 中试用广告拦截器，请<a href="{ $url }">点击此处下载</a>隐私为先的浏览器。
 # Obsolete string
 features-adblocker-if-you-want-to-learn-more = 若您想详细了解广告拦截器，这里有数百款适用于 { -brand-name-firefox } 和其他浏览器的广告拦截扩展可用。若您想在 { -brand-name-firefox } 中试用广告拦截器，请<a href="{ $url }">点击此处下载</a>隐私优先的浏览器。
