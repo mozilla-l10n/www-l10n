@@ -18,7 +18,7 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } 可
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = { -brand-name-firefox } 显示网站登录表单的图片，显示着登录时可供选择的多个已保存账户。
 password-manager-import-passwords = 导入密码
-password-manager-you-can-use-the-import-wizard = 您可以使用导入向导轻松、便捷地导入 Chrome、Edge、Safari 等浏览器上存储的用户名和密码。从菜单中选择“密码”然后点击“登录信息”页面底部的“将密码导入 { -brand-name-firefox }”。
+password-manager-you-can-use-the-import-wizard = 您可以使用导入向导，轻松而奇妙地导入 Chrome、Edge、Safari 等浏览器中存储的用户名和密码。从菜单中选择“密码”，然后点击“登录信息”页面底部的“导入 { -brand-name-firefox }”即可导入。
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } 导入向导对话框的图片显示了用于从其他浏览器导入设置和数据的选项。
 password-manager-no-more-reusing-your-passwords = 不再重复使用您的密码
