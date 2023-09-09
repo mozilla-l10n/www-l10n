@@ -8,7 +8,7 @@
 # page title
 bookmark-manager-bookmark-manager = 书签管理器
 # HTML page description
-bookmark-manager-organize-your-bookmarks-with = 使用文件夹和标签管理您的书签。
+bookmark-manager-organize-your-bookmarks-with = 使用文件夹和标签来整理您的书签。
 # Variables:
 #   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = 书签是您保存在浏览器中的链接有了它您可以快速、轻松地回到您喜欢的地方。 { -brand-name-firefox } 内含方便的书签管理器借助它来管理、搜索、更新和<a { $sync }>在各种设备间同步您已保存的链接</a>。
