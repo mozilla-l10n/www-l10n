@@ -21,6 +21,6 @@ bookmark-manager-you-can-import-your-bookmarks = 您可以使用 { -brand-name-f
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } 导入向导对话框的图片，显示了用于从其他浏览器导入设置和数据的选项。
 bookmark-manager-bookmarks-toolbar = 书签工具栏
-bookmark-manager-get-quick-access-to-your = 从 { -brand-name-firefox } 顶部的菜单或固定到工具栏快速访问您喜爱的书签。
+bookmark-manager-get-quick-access-to-your = 通过 { -brand-name-firefox } 顶部的菜单快速访问您的常用书签，或者固定到书签工具栏。
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-firefox-showing-a-collection = { -brand-name-firefox } 的图像显示浏览器窗口顶部工具栏中的一组书签。

@@ -5,12 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/customize/
 
+features-customize-customize-your-firefox = 定制您的 { -brand-name-firefox } 浏览器
 # HTML page description
-features-customize-choose-how-your-browser-looks = 选择浏览器外观与成千上万的免费主题。
-features-customize-firefox-themes-let-you-change = { -brand-name-firefox } 主题可让您更改浏览器的外观。它们设置浏览器菜单和 { -brand-name-firefox } 系统页面的配色方案它们甚至可以为您的 { -brand-name-firefox } 工具栏添加背景图像。
-features-customize-firefox-comes-with-a-default = { -brand-name-firefox } 预装默认系统主题并预加载 light、dark 和 colorful 变体。
+features-customize-choose-how-your-browser-looks = 通过数千款免费主题，焕新浏览器外观。
+features-customize-firefox-themes-let-you-change = 您可以通过 { -brand-name-firefox } 主题来更改浏览器外观。这些主题会为浏览器菜单及 { -brand-name-firefox } 系统页面设置配色方案，您还可以为 { -brand-name-firefox } 工具栏添加背景图片。
+features-customize-firefox-comes-with-a-default = { -brand-name-firefox } 默认采用系统主题，并附带明亮、深邃和多彩主题。
 # Used as accessible alternative text for an image
-features-customize-image-of-the-default-themes = { -brand-name-firefox } 附带的默认主题的图片显示了明亮、深邃和多彩的变化。
+features-customize-image-of-the-default-themes = { -brand-name-firefox } 所附带主题的图片，展示了明亮、深邃和多彩主题。
 # Variables:
 #   $amo (url) - link to https://addons.mozilla.org/firefox/themes/
 #   $top (url) - link to https://addons.mozilla.org/firefox/search/?sort=rating&type=statictheme
