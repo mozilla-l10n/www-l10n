@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = Εικόνας εντός εικόνας { -brand-name-firefox }: Κάντε περισσότερα με αναδυόμενα βίντεο
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Έχετε δουλειές, αλλά θέλετε να δείτε βίντεο; Κάντε τα ταυτόχρονα με τη λειτουργία "Εικόνα εντός εικόνας" στο { -brand-name-firefox }.
+features-pip-picture-in-picture = Εικόνα εντός εικόνας
 features-pip-new-feature-firefox-multi-picture = Νέα λειτουργία: Πολλαπλά βίντεο σε Εικόνα εντός εικόνας στο { -brand-name-firefox }
 features-pip-cool-feature-picture-in-picture = Φοβερή λειτουργία: Εικόνα εντός εικόνας
 features-pip-get-more-done-with-pop-out-videos = Κάντε περισσότερα με τα αναδυόμενα βίντεο

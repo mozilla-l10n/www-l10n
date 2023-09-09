@@ -9,5 +9,7 @@
 bookmark-manager-bookmark-manager = Διαχείριση σελιδοδεικτών
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Οργανώστε τους σελιδοδείκτες σας με φακέλους και ετικέτες.
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-the-bookmark-manager = Εικόνα του παραθύρου διαχείρισης σελιδοδεικτών στο { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Εύκολη εισαγωγή σελιδοδεικτών
 bookmark-manager-bookmarks-toolbar = Γραμμή σελιδοδεικτών
