@@ -11,7 +11,9 @@ learn-more-about = Μάθετε περισσότερα σχετικά με τα 
 learn-more-faq = Συχνές ερωτήσεις για το { -brand-name-firefox }
 the-history-of = Η ιστορία των προγραμμάτων περιήγησης
 firefox-has-been = Το { -brand-name-firefox } ήταν εκεί σχεδόν από την αρχή.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Επανάσταση με ιδανικά
+# Obsolete string
 firefox-is-independent = Το { -brand-name-firefox } είναι ανεξάρτητο και υποστηρίζεται από τη μη κερδοσκοπική { -brand-name-mozilla }, η οποία μάχεται για τα διαδικτυακά σας δικαιώματα και κάνει το διαδίκτυο διαθέσιμο σε οποιονδήποτε, οπουδήποτε.
 what-is-a = Τι είναι ένα πρόγραμμα περιήγησης ιστού;
 a-web-browser = Ένα πρόγραμμα περιήγησης σας μεταφέρει οπουδήποτε στο διαδίκτυο, προβάλλοντας κείμενο, εικόνες και βίντεο από όλο τον κόσμο.
@@ -59,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: Περισσότερη προ
 were-obsessed-with = Έχουμε εμμονή με την προστασία του απορρήτου σας. Γι' αυτό κάναμε την Ιδιωτική περιήγηση του { -brand-name-firefox } ισχυρότερη έναντι των άλλων.
 incognito-browser-what = Ιδιωτική περιήγηση: Μάθετε τι σημαίνει πραγματικά
 firefox-calls-it = Το { -brand-name-firefox } το ονομάζει ιδιωτική περιήγηση, το { -brand-name-chrome } ανώνυμη περιήγηση. Και τα δύο σας επιτρέπουν να περιηγηθείτε στο διαδίκτυο χωρίς αποθήκευση ιστορικού περιήγησης.
+# Obsolete string
 take-the-stress = Βρείτε ένα ασφαλές πρόγραμμα περιήγησης χωρίς άγχος.
+# Obsolete string
 building-a-safe = Η ανάπτυξη ενός ασφαλούς προγράμματος περιήγησης είναι τέχνη και επιστήμη, επειδή δεν υπάρχουν κανόνες.
 firefox-more-fingerprinter-blocking = Αποκλεισμός fingerprinter
 firefox-more-fingerprinting-is-a = Το fingerprinting είναι ένας τύπος online καταγραφής και είναι πιο επεμβατικό από την καταγραφή βάσει cookie — γι' αυτό, αποκλείεται από το { -brand-name-firefox-browser }.
@@ -69,3 +73,4 @@ firefox-more-a-guide-to = Ένας οδηγός για πιο ασφαλείς �
 firefox-more-more-and-more = Όλο και περισσότερα ευαίσθητα δεδομένα μας φυλάσσονται από κωδικούς πρόσβασης.
 firefox-more-avoid-misinformation-heading = Αποφύγετε την παραπληροφόρηση – το { -brand-name-firefox } είναι εδώ για εσάς
 firefox-more-avoid-misinformation-desc = Δείτε τις συμβουλές μας για λιγότερη παραπληροφόρηση και εστίαση σε ό,τι είναι σημαντικό για εσάς.
+firefox-more-is-firefox-a-private-browser = Είναι το { -brand-name-firefox } ιδιωτικό πρόγραμμα περιήγησης;
