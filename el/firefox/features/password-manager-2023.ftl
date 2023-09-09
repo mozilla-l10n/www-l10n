@@ -9,5 +9,6 @@
 password-manager-free-password-manager = Δωρεάν διαχείριση κωδικών πρόσβασης
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Η Διαχείριση κωδικών πρόσβασης του { -brand-name-firefox } αποθηκεύει όλους τους κωδικούς πρόσβασης σας σε ένα μέρος κι έτσι, μπορείτε να συνδέεστε σε ιστοτόπους αυτόματα ή να ανακτάτε αποθηκευμένους κωδικούς.
+password-manager-password-autofill-for-easy-logins = Αυτόματη συμπλήρωση κωδικών πρόσβασης για εύκολη σύνδεση
 password-manager-import-passwords = Εισαγωγή κωδικών πρόσβασης
 password-manager-password-security-alerts = Ειδοποιήσεις ασφαλείας κωδικών πρόσβασης

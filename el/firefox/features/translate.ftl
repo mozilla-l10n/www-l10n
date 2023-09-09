@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Μετάφραση ιστού - α�
 # page description
 features-translate-translate-more-than = Μετάφραση από περισσότερες από 100 γλώσσες στη δική σας, απευθείας στο { -brand-name-firefox-browser } - πιο εύκολα από ποτέ.
 features-translate-translate-the-web = Μετάφραση ιστού με το { -brand-name-firefox }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Μετάφραση διαδικτύου
 # Obsolete string
 features-translate-the-google-translate = Η επέκταση To { -brand-name-google } Translate για { -brand-name-firefox } κάνει το διαδίκτυο προσβάσιμο στον κόσμο.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = H <a { $attrs }>επέκταση { -brand-name-firefox-translations }</a> μπορεί να μεταφράζει αυτόματα περιεχόμενο από τις ιστοσελίδες που επισκέπτεστε. Σε αντίθεση με ορισμένες εναλλακτικές λύσεις που βασίζονται στο cloud, αυτή η επέκταση μεταφράζει το κείμενο τοπικά στο { -brand-name-firefox }, επομένως το περιεχόμενο που μεταφράζετε δεν φεύγει από τη συσκευή σας.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Λήψη του { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = Η Μετάφραση { -brand-name-google }, με πάνω από 100 διαθέσιμες γλώσσες*, χρησιμοποιείται από εκατομμύρια άτομα σε όλο τον κόσμο. Όμως η εναλλαγή μεταξύ του translate.google.com και της σελίδας που προσπαθείτε να διαβάσετε δεν αποτελεί την ιδανική εμπειρία. Η επέκταση <a { $attrs }>To { -brand-name-google } Translate</a> κάνει τη μετάφραση σελίδων πιο εύκολη από ποτέ.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Λήψη του To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Λήψη επέκτασης
