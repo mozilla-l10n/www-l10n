@@ -10,3 +10,5 @@ features-private-browsing-private-browsing-mode = Modo de navegação privativa
 features-private-browsing-firefox-private-browsing-mode = Modo de navegação privativa do { -brand-name-firefox }
 # HTML page description
 features-private-browsing-firefox-protects = O { -brand-name-firefox } protege sua privacidade online e bloqueia rastreadores que tentam te seguir pela web.
+# Used as an accessible text alternative for an image
+features-private-browsing-a-firefox-window-in-private = Uma janela do navegador { -brand-name-firefox } no modo de navegação privativa.

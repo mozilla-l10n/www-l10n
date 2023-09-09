@@ -23,6 +23,8 @@ features-index-bookmark-manager = Gerenciador de favoritos
 features-index-organize-your-bookmarks-with = Organize seus favoritos com pastas e etiquetas.
 features-index-private-browsing-mode = Modo de navegação privativa
 features-index-automatically-delete-cookies = Exclua cookies automaticamente e apague o histórico do navegador ao fechar.
+features-index-pinned-browser-tabs = Abas do navegador fixadas
+features-index-keep-your-favorite-pages-open = Mantenha suas páginas preferidas abertas e a apenas um clique de distância. Use abas fixadas para ficar de olho em seus aplicativos de email ou mensagem.
 features-index-eyedropper-tool = Ferramenta de seleção de cores
 features-index-identify-the-exact-color-on-a = Identifique a cor exata em uma página e copie seu código hexadecimal.
 features-index-pdf-editor = Editor de PDF
@@ -30,6 +32,8 @@ features-index-view-and-edit-pdf-files = Veja e edite arquivos PDF direto no { -
 features-index-fingerprint-blocking = Bloqueio de rastreamento de identidade digital (fingerprint)
 features-index-ad-tracker-blocking = Bloqueio de rastreadores de anúncios
 features-index-firefox-automatically-blocks = O { -brand-name-firefox } bloqueia automaticamente mais de 2000 rastreadores de anúncios, impedindo que sigam você pela internet.
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = Livre-se de anúncios pegajosos que te seguem por aí com bloqueadores de rastreamento de identidade digital integrados no navegador { -brand-name-firefox }.
 features-index-translate-the-web = Traduza a web
 features-index-translate-more-than = Traduza de mais de 100 idiomas para seu idioma, direto no navegador { -brand-name-firefox }, mais fácil do que nunca.
 features-index-picture-in-picture = Picture-in-Picture
