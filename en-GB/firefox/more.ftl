@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Learn more about { -brand-name-firefox } browsers and product
 learn-more-faq = { -brand-name-firefox } FAQ
 the-history-of = The history of web browsers
 firefox-has-been = { -brand-name-firefox } has been there since almost the beginning.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Rebel with a cause
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } is independent and backed by the not-for-profit { -brand-name-mozilla }, which fights for your online rights and makes the internet accessible to everyone, everywhere.
 what-is-a = What is a web browser?
 a-web-browser = A web browser takes you anywhere on the internet, letting you see text, images and video from anywhere in the world.
@@ -21,8 +23,6 @@ firefox-is-more = { -brand-name-firefox } is more than a browser
 its-a-lightning = It’s a lightning fast door to the best web experience.
 get-the-browsers = Get the browsers that put your privacy first — and always have
 get-the-privacy = Get the privacy you deserve. Enhanced Tracking Protection makes privacy automatic, every time you open your browser.
-take-your-passwords = Take your passwords everywhere
-securely-access-the = Securely access the passwords you’ve saved in { -brand-name-firefox } from anywhere — even outside of the browser.
 choose-which-firefox = Choose which { -brand-name-firefox-browser } to download in your language
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } for { -brand-name-chromebook }
 firefox-more-while-on-chromebook = While a { -brand-name-chromebook } already has { -brand-name-chrome } installed, downloading and using { -brand-name-firefox } as your go-to browser provides you with a few benefits
@@ -61,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: More protection. Less worry.
 were-obsessed-with = We’re obsessed with protecting your privacy. That’s why we’ve made { -brand-name-firefox } Private Browsing more powerful than the others.
 incognito-browser-what = Incognito browser: What it really means
 firefox-calls-it = { -brand-name-firefox } calls it private browsing, { -brand-name-chrome } calls it incognito mode. Both let you browse the web without saving your browsing history.
+# Obsolete string
 take-the-stress = Take the stress out of finding a safe browser.
+# Obsolete string
 building-a-safe = Building a safe browser is an art and a science because there are no set rules.
 firefox-more-fingerprinter-blocking = Fingerprinter Blocking
 firefox-more-fingerprinting-is-a = Fingerprinting is a type of online tracking that’s more invasive than ordinary cookie-based tracking — that’s why { -brand-name-firefox-browser } blocks it.
@@ -71,3 +73,5 @@ firefox-more-a-guide-to = A guide to safer logins and passwords
 firefox-more-more-and-more = More and more of the sensitive, valuable things in our life are guarded by passwords.
 firefox-more-avoid-misinformation-heading = Avoid misinformation online – { -brand-name-firefox } is here to help
 firefox-more-avoid-misinformation-desc = Check out tips for seeing less misinformation and focusing on what’s important to you.
+firefox-more-is-firefox-a-private-browser = Is { -brand-name-firefox } a private browser?
+firefox-more-were-focused-on-your-right-to = We’re focused on your right to privacy. Your data, your web activity, your life online is protected with { -brand-name-firefox }.
