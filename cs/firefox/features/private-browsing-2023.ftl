@@ -8,3 +8,5 @@
 features-private-browsing-private-browsing-mode = Režim anonymního prohlížení
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Režim anonymního prohlížení { -brand-name-firefox(case: "gen") }
+# HTML page description
+features-private-browsing-firefox-protects = { -brand-name-firefox } chrání vaše soukromí na internetu a blokuje prvky, které se vás snaží sledovat.

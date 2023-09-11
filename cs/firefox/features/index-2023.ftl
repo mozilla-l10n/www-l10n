@@ -8,6 +8,7 @@
 features-index-free-password-manager = Bezplatný správce hesel
 features-index-bookmark-manager = Správce záložek
 features-index-private-browsing-mode = Režim anonymního prohlížení
+features-index-firefox-add-ons-and-browser-extensions = Doplňky a rozšíření prohlížeče { -brand-name-firefox }
 features-index-pdf-editor = Editor PDF
 features-index-translate-the-web = Překládání webových stránek
 features-index-picture-in-picture = Obraz v obraze
