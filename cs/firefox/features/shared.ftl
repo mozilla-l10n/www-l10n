@@ -5,18 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = Lepší prožitek z internetu
-features-shared-more-firefox-features = Další funkce prohlížeče { -brand-name-firefox }
-features-shared-browse-faster = Rychlejší prohlížení
-features-shared-your-favorite-extensions = Vaše oblíbená rozšíření
-features-shared-balanced-memory = Vyvážená paměť
-features-shared-more-powerful-private-browsing = Schopnější anonymní prohlížení
-features-shared-ad-tracker-blocking = Blokování sledujících reklam
-features-shared-password-manager = Správce hesel
-features-shared-customize-your-browser = Přizpůsobení vašeho prohlížeče
-features-shared-sync-between-devices = Synchronizace mezi zařízeními
-features-shared-better-bookmarks = Lepší záložky
+features-shared-firefox-features = { -brand-name-firefox } a jeho funkce
+features-shared-footer-cta-button = Stáhnout { -brand-name-firefox(case: "acc") }
+features-shared-is-firefox-a-fast-browser = Je { -brand-name-firefox } rychlým prohlížečem?
+features-shared-free-password-manager = Správce hesel
+features-shared-bookmark-manager = Správce záložek
+features-shared-private-browsing-mode = Režim anonymního prohlížení
+features-shared-pdf-editor = Editor PDF
 features-shared-fingerprinter-blocking = Blokování vytváření otisku prohlížeče
 features-shared-translate-the-web = Překládání webových stránek
 features-shared-picture-in-picture = Obraz v obraze
-brand-name-firefox = { -brand-name-firefox }
