@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Co je ve { -brand-name-firefox(case: "loc") } nového
+# Obsolete string
 whatsnew-page-title = Co je nového ve { -brand-name-firefox(case: "loc") } - ještě více soukromí a ochrany.
 whatsnew-page-description = Postavte se proti průmyslu, který prodává vaše data třetím stranám. Buďte na internetu prozíraví a v bezpečí pomocí technologie, která za vás bojuje.
 whatsnew-firefox = { -brand-name-firefox }
