@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Tłumacz Internet — bezpośrednio
 # page description
 features-translate-translate-more-than = Tłumacz z ponad 100 języków na swój język bezpośrednio w { -brand-name-firefox-browser(case: "dat", capitalization: "lower") } — łatwiej niż kiedykolwiek.
 features-translate-translate-the-web = Tłumacz Internet za pomocą { -brand-name-firefox(case: "gen") }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Tłumacz Internet
 # Obsolete string
 features-translate-the-google-translate = Rozszerzenie To { -brand-name-google } Translate do { -brand-name-firefox(case: "gen") } sprawia, że Internet jest dostępny dla całego świata.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = <a { $attrs }>Rozszerzenie { -brand-name-firefox-translations }</a> może automatycznie tłumaczyć treść odwiedzanych stron internetowych. W przeciwieństwie do alternatywnych rozwiązań używających chmury, to rozszerzenie tłumaczy tekst lokalnie w { -brand-name-firefox(case: "loc") }, więc tłumaczona treść nie opuszcza Twojego komputera.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Pobierz { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = Serwis { -brand-name-google } Translate, obsługujący ponad 100 języków*, jest używany przez miliony osób na całym świecie. Jednak ciągłe przechodzenie między translate.google.com a stroną, którą próbujesz przeczytać, nie jest idealnym rozwiązaniem. Rozszerzenie <a { $attrs }>To { -brand-name-google } Translate</a> sprawia, że tłumaczenie odwiedzanej strony jest łatwiejsze niż kiedykolwiek.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Pobierz To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Pobierz rozszerzenie

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = Obraz w obrazie w { -brand-name-firefox(case: "loc") }: zrób więcej dzięki wyskakującym filmom
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Masz coś do zrobienia i coś do obejrzenia? Skorzystaj z funkcji „Obraz w obrazie” w { -brand-name-firefox(case: "loc") }!
+features-pip-picture-in-picture = Obraz w obrazie
 features-pip-new-feature-firefox-multi-picture = Nowa funkcja: wiele obrazów w obrazie w { -brand-name-firefox(case: "loc") }
 features-pip-cool-feature-picture-in-picture = Fajna funkcja: obraz w obrazie
 features-pip-get-more-done-with-pop-out-videos = Zrób więcej dzięki wyskakującym filmom
