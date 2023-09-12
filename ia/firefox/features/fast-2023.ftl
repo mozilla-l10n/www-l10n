@@ -7,3 +7,5 @@
 
 features-fast-is-firefox-the-fastest-browser = Es { -brand-name-firefox } le navigator plus rapide?
 features-fast-browse-faster = Naviga plus rapidemente
+features-fast-multi-tasking-with-multiple-tabs = Multi-activitates con plure schedas
+features-fast-faster-gaming = Jocos plus rapide

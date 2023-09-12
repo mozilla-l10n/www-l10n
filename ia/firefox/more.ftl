@@ -74,3 +74,4 @@ firefox-more-more-and-more = Sempre plus del sensibile, preciose cosas in nostre
 firefox-more-avoid-misinformation-heading = Evitar le information errate online – { -brand-name-firefox } es hic pro adjutar
 firefox-more-avoid-misinformation-desc = Discoperi le suggestiones pro vider minus information errate e concentrar te sur lo que es importante pro te.
 firefox-more-is-firefox-a-private-browser = Es { -brand-name-firefox } un navigator private?
+firefox-more-were-focused-on-your-right-to = Nos es attente a tu derecto al confidentialitate. Tu datos, tu activitate web, tu vita online es protegite con { -brand-name-firefox }.

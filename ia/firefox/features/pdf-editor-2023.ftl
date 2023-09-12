@@ -7,4 +7,7 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Editor de files PDF
+# HTML page description
+pdf-editor-view-and-edit-pdf-files-right-in = Vider e rediger Files PDF justo in { -brand-name-firefox }.
+pdf-editor-fill-in-forms-online-without = Plena formularios online sin imprimer o  scander
 pdf-editor-add-text = Adder texto

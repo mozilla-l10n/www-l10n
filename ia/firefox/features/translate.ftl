@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Traduce le web - directemente in tu
 # page description
 features-translate-translate-more-than = Traduce de plus de 100 linguas a tu lingua directemente in tu { -brand-name-firefox-browser }: plus facile que mais.
 features-translate-translate-the-web = Traduce le web con { -brand-name-firefox }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Traducer le web
 # Obsolete string
 features-translate-the-google-translate = Le extensiones  To { -brand-name-google } Translate pro { -brand-name-firefox } rende le web accessibile al mundo.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = Le extension <a { $attrs }>{ -brand-name-firefox-translations }</a> pote automaticamente traducer le contento del paginas web que tu visita. Diversemente de alcun alternativas basate sur nube, iste extension traduce le texto localmente in { -brand-name-firefox }, assi le contento que tu traduce non exi de tu machina.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Installar { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, con ultra 100 linguas* preste, es usate per milliones de personas de tote le mundo. Ma mover retro e avante inter translate.google.com e le pagina que tu tenta leger non es un experientia ideal.  Le extension <a { $attrs }>To { -brand-name-google } Translate</a> traduce le pagina sur le qual tu es plus facilemente que mais.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Installar { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Installa le extension
