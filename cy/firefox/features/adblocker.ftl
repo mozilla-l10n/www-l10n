@@ -31,7 +31,7 @@ features-adblocker-create-a-tracker-free = Creu parth dim tracio gyda Rhwystro C
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Ar { -brand-name-firefox }, gallwch ddefnyddio'r gosodiadau <a href="{ $privacy }">Preifatrwydd</a> neu <a href="{ $blocking }">Rhwystro Cynnwys</a> i gael hyd yn oed mwy o reolaeth dros tracwyr hysbysebion sy'n gweinyddu'r hysbysebion i chi.
 features-adblocker-choose-your-level-of-protection = Dewiswch eich lefel o ddiogelwch
-features-adblocker-to-start-click-on-the-v2 = I ddechrau, cliciwch ar y darian i'r chwith o'r bar cyfeiriad ar unrhyw dudalen we a dewis "Gosodiadau Amddiffyn." Bydd hyn yn agor y panel Gosodiadau Preifatrwydd a Diogelwch { -brand-name-firefox } mewn tab newydd. Dylech weld naidlen las gyda gwahanol ddewisiadau.
+features-adblocker-to-start-click-on-the-v2 = I ddechrau, cliciwch ar y darian i'r chwith o'r bar cyfeiriad ar unrhyw dudalen we a dewis "Gosodiadau Diogelu." Bydd hyn yn agor y panel Gosodiadau Preifatrwydd a Diogelwch { -brand-name-firefox } mewn tab newydd. Dylech weld llamlen las gyda gwahanol ddewisiadau.
 # Obsolete string
 features-adblocker-to-start-click-on-the = I gychwyn, cliciwch ar y ddewislen { -brand-name-firefox } yng nghornel dde uchaf eich sgrin. Mae'n edrych fel tair llinell wedi'u pentyrru ar ben ei gilydd. Yn y gwymplen, cliciwch ar Rhwystro Cynnwys. Dylech weld llamlen las gyda gwahanol ddewisiadau.
 features-adblocker-go-easy-with-standard = Cymryd hi'n hawdd gyda'r modd Safonol
@@ -55,5 +55,8 @@ features-adblocker-send-a-do-not-track-signal = Anfon signal Dim Tracio
 features-adblocker-if-you-dont-want-your = Os nad ydych chi am i'ch ymddygiad ar-lein gael ei ddefnyddio ar gyfer hysbysebion, gallwch anfon llythyr cwrtais at wefannau “diolch ond dim diolch” drwy dicio'r dewis <a href="{ $url }">Peidiwch â Thracio</a> yn { -brand-name-firefox }. Mae cyfranogiad yn wirfoddol, ond bydd y gwefannau sy'n cymryd rhan yn rhoi'r gorau i'ch tracio ar unwaith.
 features-adblocker-speed-up-thanks-to-ad = Cyflymu diolch i rwystryddion hysbysebion
 features-adblocker-in-some-cases-an-ad-blocker = Mewn rhai achosion, gall rhwystrydd hysbysebion helpu'ch porwr i fynd yn gyflymach. Pan fydd hysbyseb yn llwytho, gall arafu gwefan. Ar yr un pryd, mae'n cymryd mwy o amser i ddod o hyd i'r hyn rydych chi'n chwilio amdano os ydych chi'n rhy brysur yn cau hysbysebion.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Os hoffech chi ddysgu rhagor am rhwystro hysbysebion, mae cannoedd o estyniadau atal hysbysebion ar gael ar gyfer { -brand-name-firefox } a phorwyr eraill. Os ydych chi am roi cynnig ar yr atalwyr hysbysebion mae { -brand-name-firefox } yn ei ddefnyddio, <a href="{ $url }">cliciwch yma i lwytho i lawr</a> porwr sy'n rhoi preifatrwydd yn gyntaf.
 # Obsolete string
 features-adblocker-if-you-want-to-learn-more = Os hoffech chi ddysgu rhagor am rhwystro hysbysebion, mae cannoedd o estyniadau rhwystryddion hysbysebion ar gael ar gyfer { -brand-name-firefox } a phorwyr eraill. Os ydych chi am roi cynnig ar yr rhwystrydd hysbysebion mae { -brand-name-firefox } yn ei ddefnyddio, <a href="{ $url }">cliciwch yma i lwytho i lawr</a> porwr sy'n rhoi preifatrwydd yn gyntaf.

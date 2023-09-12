@@ -10,7 +10,7 @@
 
 # Variables:
 #   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-affiliate-notification-message = Rydym yn defnyddio cwcis i ddeall pa bartner cyswllt a'ch arweiniodd yma. Nid ydym yn rhannu gwybodaeth sy'n dynodi pwy ydych yn bersonol gyda'n partneriaid. Darllenwch ein <a { $attrs }>Polisi Preifatrwydd</a>.
+affiliate-notification-message = Rydym yn defnyddio cwcis i ddeall pa bartner cyswllt a'ch arweiniodd yma. Nid ydym yn rhannu gwybodaeth sy'n dweud pwy ydych chi gyda'n partneriaid. Darllenwch ein <a { $attrs }>Polisi Preifatrwydd</a>.
 # label for the button that rejects cookie use
 affiliate-notification-reject = Gwrthod
 # label for the button that okays cookie use
