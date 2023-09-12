@@ -31,7 +31,7 @@ features-index-eyedropper-tool = Herramienta gotero
 features-index-identify-the-exact-color-on-a = Identificá el color exacto en una página y copiá su código hexadecimal.
 features-index-pdf-editor = Editor de PDF
 features-index-view-and-edit-pdf-files = Mirá y editá archivos PDF directamente en { -brand-name-firefox }.
-features-index-fingerprint-blocking = Bloqueo de huellas digitales
+features-index-fingerprint-blocking = Bloqueo del detector de huellas digitales
 features-index-ad-tracker-blocking = Bloqueo de rastreo de publicidad
 features-index-firefox-automatically-blocks = { -brand-name-firefox } bloquea automáticamente más de 2000 rastreadores de publicidad para que no te sigan por Internet.
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."

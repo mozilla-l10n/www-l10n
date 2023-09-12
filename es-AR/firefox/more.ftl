@@ -73,5 +73,5 @@ firefox-more-a-guide-to = Una guía para inicios de sesión y contraseñas más 
 firefox-more-more-and-more = Cada vez más de lo privado y valioso de nuestra vida está protegido por contraseñas.
 firefox-more-avoid-misinformation-heading = Evitá la desinformación en línea, { -brand-name-firefox } está aquí para ayudar
 firefox-more-avoid-misinformation-desc = Revisá los consejos para ver menos información errónea y centrarte en lo que es importante para vos.
-firefox-more-is-firefox-a-private-browser = ¿ { -brand-name-firefox } es un navegador privado?
+firefox-more-is-firefox-a-private-browser = ¿{ -brand-name-firefox } es un navegador privado?
 firefox-more-were-focused-on-your-right-to = Nos enfocamos en tu derecho a la privacidad. Tus datos, tu actividad web, tu vida en línea están protegidos con { -brand-name-firefox }.
