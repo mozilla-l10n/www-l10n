@@ -13,6 +13,9 @@ features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox }-ი�
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">შექმენით უფასო { -brand-name-firefox-account }</a> და შეგეძლებათ თქვენი მონაცემების დასინქრონება ყველგან, სადაც { -brand-name-firefox } ბრაუზერი.
+# Variables:
+#   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
+features-sync-all-your-data-is-encrypted-on-our = თქვენი ყველა მონაცემი დაშიფრულია ჩვენს სერვერებზე, ასე რომ მათ ვერ ვიხილავთ – მხოლოდ თქვენ გაქვთ წვდომა. ჩვენ არ ვყიდით თქვენს მონაცემებს რეკლამის განმთავსებლებზე, რადგან ეს ეწინააღმდეგება ჩვენს <a href="{ $privacy }">მონაცემების პირადულობის პირობას</a>.
 features-sync-send-tabs-from-one-device-to-another = გაგზავნეთ ჩანართები ერთი მოწყობილობიდან მეორეზე
 features-sync-the-send-tab-feature-in-firefox = ჩანართის გაგზავნის შესაძლებლობა { -brand-name-firefox }-ში საშუალებას გაძლევთ გააგზავნოთ გვერდები { -brand-name-firefox }-იდან ერთ მოწყობილობაზე სხვა მოწყობილობებზე (მაგალითად iPhone, iPad ან Android მოწყობილობაზე). ტელეფონში თვალიერებისას აღმოაჩინეთ სტატია, რომლის წაკითხვაც გსურთ, სამუშაო მაგიდასთან დაბრუნებისას? ან მნიშვნელოვანი დოკუმენტი სამსახურიდან, რომლის შენახვასაც გსურთ სახლში მისვლისას? შესაძლოა, ლეპტოპზე გიპოვოთ რეცეპტი, რომელიც თქვენს პლანშეტზე სამზარეულოში გადაგზავნას გსურთ. გაგზავნეთ ჩანართი!
 # Used as accessible alternative text for an image
