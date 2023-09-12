@@ -8,6 +8,9 @@
 
 ## CJMS Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
+affiliate-notification-message = Nos usa le cookies pro comprender qual socio affiliate te duceva ci. Nos non comparti informationes de identification personal con nostre socios. Lege nostre <a { $attrs }>Politica de confidentialitate</a>.
 # label for the button that rejects cookie use
 affiliate-notification-reject = Rejectar
 # label for the button that okays cookie use

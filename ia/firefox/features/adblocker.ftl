@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Crea un zona libere de traciatores co
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Sur { -brand-name-firefox }, tu pote usar le parametros de <a href="{ $privacy }">vita private</a> o <a href="{ $blocking }">blocage de contento</a> pro exequer un controlo ancora plus stricte sur le traciatores publicitari que te administra le annuncios.
 features-adblocker-choose-your-level-of-protection = Elige tu nivello de protection
+features-adblocker-to-start-click-on-the-v2 = Pro initiar, clicca le escudo al sinistra del barra de adresse sur ulle pagina web e elige “Parametros de protection.” Isto aperira le quadro del parametros de confidentialitate e securitate de { -brand-name-firefox } in un nove scheda. Tu deberea vider un message emergente con plure electiones.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Pro comenciar, clicca sur le menu { -brand-name-firefox } in alto a dextra de tu schermo. Illo appare como tres lineas horizontal superponite. In le menu disrolante, clicca sur Blocage de contento. Alora apparera un fenestra blau con varie selectiones.
 features-adblocker-go-easy-with-standard = Naviga tranquillemente con le modo standard
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Acceleration gratias al blocatores de
 features-adblocker-in-some-cases-an-ad-blocker = In alcun casos, un blocator de publicitate pote accelerar tu navigation. Le cargamento de un annuncio pote relentar un sito web. In ultra, il prende plus tempore trovar lo que tu cerca si tu continuemente debe clauder annuncios.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Si tu desira saper plus re le blocada del avisos publicitari, il ha centenas de extensiones blocator de avisos publicitari disponibile pro { -brand-name-firefox } e altere navigatores. Si tu desira provar le blocatores de avisos publicitari que { -brand-name-firefox } usa, <a href="{ $url }">clicca ci pro discargar</a> un navigator que pone le confidentialitate in prime loco.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Si tu vole saper plus sur le blocage de publicitate, il ha centenas de extensiones pro blocar publicitate disponibile pro { -brand-name-firefox } e altere navigatores. Si tu vole provar le blocatores de publicitate que { -brand-name-firefox } usa, <a href="{ $url }">clicca hic pro discargar</a> un navigator que defende tu vita private.
-features-adblocker-take-control-of-your-browser = Prende controlo de tu navigator.
