@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = Que es le detectiones de dactylogrammas e perque tu debe blocar los
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Dactylogrammatores es un typo de traciamento online plus invasive que le ordinari traciamento basate sur cookie: pro isto { -brand-name-firefox-browser } lo bloca.
+features-fingerprinting-fingerprint-blocking = Blocada de dactylogrammas
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } bloca le dactylogrammatores
 features-fingerprinting-ditch-the-sticky = Abandona le enoiose avisos publicitari que seque tu movimentos con le blocatores de dactylogrammatores integrate del navigator { -brand-name-firefox }.
 # description for the header image

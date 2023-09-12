@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-firefox-browser-features = Functiones del navigator { -brand-name-firefox }
+# HTML page description
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } es le navigator veloce, legier, attente al confidentialitate, que functiona inter tote tu apparatos.
+features-index-is-firefox-a-fast-browser = Es { -brand-name-firefox } un navigator veloce?
+features-index-is-firefox-a-private-browser = Es { -brand-name-firefox } un navigator private?
 features-index-free-password-manager = Gestor de contrasigno gratuite
 features-index-bookmark-manager = Gestor de marcapaginas
 features-index-organize-your-bookmarks-with = Organisa tu marcapaginas con plicas e etiquettas.
