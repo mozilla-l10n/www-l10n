@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Seznamte se s prohlížeči a produkty z rodiny { -brand-name
 learn-more-faq = Časté dotazy ohledně { -brand-name-firefox(case: "gen") }
 the-history-of = Historie webových prohlížečů
 firefox-has-been = { -brand-name-firefox } je tu téměř od samého počátku.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Rebel s posláním
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } je nezávislý a zaštiťuje ho nezisková organizace { -brand-name-mozilla }, která bojuje za vaše práva na internetu a ten zpřístupňuje všem a všude.
 what-is-a = Co je to webový prohlížeč?
 a-web-browser = Webový prohlížeč vás přenese na libovolné místo internetu a umožní prohlížet text, obrázky a videa odkudkoli na světě.
@@ -59,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: Více ochrany. Méně starost
 were-obsessed-with = Ochranou vašeho soukromí jsme posedlí. Proto je anonymní prohlížení ve { -brand-name-firefox(case: "loc") } dokonalejší než u konkurence.
 incognito-browser-what = Inkognito prohlížeč: Co to vlastně znamená
 firefox-calls-it = { -brand-name-firefox } tomu říká anonymní prohlížení, { -brand-name-chrome } anonymní režim. V obou případech můžete procházet web bez ukládání historie prohlížení.
+# Obsolete string
 take-the-stress = Zbavte se stresu z hledání bezpečného prohlížeče
+# Obsolete string
 building-a-safe = Vytvořit bezpečný prohlížeč je umění i věda, protože neexistují žádná pevně daná pravidla.
 firefox-more-fingerprinter-blocking = Blokování vytváření otisku prohlížeče
 firefox-more-fingerprinting-is-a = Vytváření otisku prohlížeče je invazivní technika vašeho sledování bez použití běžných cookies – proto ji { -brand-name-firefox-browser(capitalization: "lower") } blokuje.
@@ -69,3 +73,5 @@ firefox-more-a-guide-to = Průvodce bezpečnějšími přihlašovacími jmény a
 firefox-more-more-and-more = Stále více citlivých a cenných věcí v našem životě je chráněno hesly.
 firefox-more-avoid-misinformation-heading = Vyvarujte se na internetu dezinformací – { -brand-name-firefox } je tu, aby vám pomohl
 firefox-more-avoid-misinformation-desc = Podívejte se na tipy, jak se vyhnout dezinformacím a věnovat se tomu, co je pro vás důležité.
+firefox-more-is-firefox-a-private-browser = Je { -brand-name-firefox } důvěryhodný prohlížeč?
+firefox-more-were-focused-on-your-right-to = Zaměřujeme se na vaše právo na soukromí. Vaše data, vaše webové aktivity a váš život online jsou  pomocí { -brand-name-firefox(case: "gen") } chráněny.
