@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Crea una zona libre de rastreos graci
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = En { -brand-name-firefox }, puedes usar los ajustes de <a href="{ $privacy }">Privacidad</a> o <a href="{ $blocking }">Bloqueo de contenido</a> para obtener más control sobre los rastreadores de publicidad.
 features-adblocker-choose-your-level-of-protection = Elige tu nivel de protección
+features-adblocker-to-start-click-on-the-v2 = Para comenzar, haz clic en el escudo a la izquierda de la barra de direcciones en cualquier página web y selecciona “Configuración de protección”. Esto abrirá el panel de Configuración de privacidad y seguridad de { -brand-name-firefox } en una nueva pestaña. Deberías ver una ventana emergente azul con diferentes selecciones.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Para empezar, haz clic en el menú de { -brand-name-firefox }, en la esquina superior derecha de la pantalla: son tres líneas horizontales. En el menú desplegable, haz clic en Bloqueo de contenido. Te debería aparecer una ventana emergente azul con distintas opciones.
 features-adblocker-go-easy-with-standard = Empieza con calma con el modo Estándar
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Más velocidad gracias a los bloquead
 features-adblocker-in-some-cases-an-ad-blocker = A veces, un bloqueador de anuncios puede ayudar a que su navegador funcione más rápido. Mientras se carga un anuncio, la página web puede ir más lenta. Además, tardas más en encontrar lo que estás buscando si tienes que cerrar un anuncio tras otro.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Si quieres obtener más información sobre cómo bloquear anuncios, hay cientos de complementos de bloqueadores de anuncios disponibles para { -brand-name-firefox } y otros navegadores. Si te gustaría probar los bloqueadores de anuncios que usa { -brand-name-firefox }, <a href="{ $url }"> haz clic aquí para descargar </a> un navegador que prioriza tu privacidad.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Si quieres obtener más información sobre cómo bloquear anuncios, hay cientos de complementos de bloqueadores de anuncios disponibles para { -brand-name-firefox } y otros navegadores. Si te gustaría probar los bloqueadores de anuncios que usa { -brand-name-firefox }, <a href="{ $url }"> haz clic aquí para descargar </a> un navegador que prioriza tu privacidad.
-features-adblocker-take-control-of-your-browser = Toma el control de tu navegador.
