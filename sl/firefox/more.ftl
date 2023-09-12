@@ -11,7 +11,9 @@ learn-more-about = Spoznajte { -brand-name-firefox }ove brskalnike in izdelke, k
 learn-more-faq = Pogosta vprašanja o { -brand-name-firefox }u
 the-history-of = Zgodovina spletnih brskalnikov
 firefox-has-been = { -brand-name-firefox } obstaja že skoraj od samega začetka.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: upornik z razlogom
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } je neodvisen in pod okriljem neprofitne organizacije { -brand-name-mozilla }, ki se bori za vaše pravice na spletu in dela internet dostopen vsakomur, povsod.
 what-is-a = Kaj je spletni brskalnik?
 a-web-browser = Spletni brskalnik je program, ki vas ponese po internetu in vam omogoča ogled besedil, slik in videoposnetkov od koderkoli na svetu.
@@ -59,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: Več zaščite. Manj skrbi.
 were-obsessed-with = Varovanje vaše zasebnosti nam je zelo pomembno. Zato je { -brand-name-firefox }ovo zasebno brskanje zmogljivejše od kateregakoli drugega.
 incognito-browser-what = Inkognito brskalnik: kaj to v resnici pomeni
 firefox-calls-it = { -brand-name-firefox } to imenuje zasebno brskanje, { -brand-name-chrome } pa način brez beleženja zgodovine. Oba vam omogočata brskanje po spletu brez shranjevanja zgodovine brskanja.
+# Obsolete string
 take-the-stress = Brez stresa poiščite varen brskalnik.
+# Obsolete string
 building-a-safe = Razvoj varnega brskalnika je umetnost in znanost, ker ni določenih pravil.
 firefox-more-fingerprinter-blocking = Zavračanje sledilcev prstnih odtisov
 firefox-more-fingerprinting-is-a = Sledenje prstnim odtisom brskalnikov ("fingerprinting") je način sledenja na spletu, ki je invazivnejši od običajnega sledenja s piškotki – zato ga { -brand-name-firefox-browser } preprečuje.
@@ -69,3 +73,5 @@ firefox-more-a-guide-to = Vodnik za varnejše prijave in gesla
 firefox-more-more-and-more = Vedno več občutljivih in dragocenih stvari v naših življenjih varujejo gesla.
 firefox-more-avoid-misinformation-heading = Izogibajte se napačnim informacijam na spletu – { -brand-name-firefox } je tu, da vam pomaga
 firefox-more-avoid-misinformation-desc = Oglejte si nasvete, kako se izogniti napačnim informacijam in se osredotočiti na tisto, kar vam je pomembno.
+firefox-more-is-firefox-a-private-browser = Ali je { -brand-name-firefox } zaseben brskalnik?
+firefox-more-were-focused-on-your-right-to = Osredotočeni smo na vašo pravico do zasebnosti. Vaši podatki, spletna dejavnost in življenje na internetu so v { -brand-name-firefox(sklon: "mestnik") } varni.
