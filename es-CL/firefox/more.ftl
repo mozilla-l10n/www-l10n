@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Aprende más sobre los productos y navegador { -brand-name-fi
 learn-more-faq = Preguntas frecuentes sobre { -brand-name-firefox }
 the-history-of = La historia de los navegadores web
 firefox-has-been = { -brand-name-firefox } ha estado ahí desde casi el principio.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Rebelde con causa
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } es independiente y respaldado por { -brand-name-mozilla }, organización sin fines de lucro que lucha por tus derechos en línea y hace Internet accesible para todos, en todas partes.
 what-is-a = ¿Qué es un navegador web?
 a-web-browser = Un navegador web te lleva a cualquier lugar de Internet, permitiéndote ver texto, imágenes y video de cualquier parte del mundo.
@@ -21,8 +23,6 @@ firefox-is-more = { -brand-name-firefox } es más que un navegador
 its-a-lightning = Es una puerta ultrarrápida a la mejor experiencia web.
 get-the-browsers = Obtén los navegadores que ponen tu privacidad en primer lugar — y siempre lo han hecho
 get-the-privacy = Obtén la privacidad que mereces. La protección de seguimiento mejorada hace que la privacidad sea automática, cada vez que abres tu navegador.
-take-your-passwords = Lleva tus contraseñas a todas partes
-securely-access-the = Accede de forma segura a contraseñas que has guardado en { -brand-name-firefox } desde cualquier parte — incluso fuera del navegador.
 choose-which-firefox = Elige qué { -brand-name-firefox-browser } descargar en tu idioma
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } para { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Mientras que un { -brand-name-chromebook } ya tiene { -brand-name-chrome } instalado, descargar y usar { -brand-name-firefox } como tu navegador para todo te proporciona algunos beneficios
@@ -61,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: Más protección. Menos preoc
 were-obsessed-with = Nos obsesionamos con proteger tu privacidad. Es por ello que hemos hecho la navegación privada de { -brand-name-firefox } más potente que la del resto.
 incognito-browser-what = Navegador incógnito: lo que realmente significa
 firefox-calls-it = { -brand-name-firefox } lo llama navegación privada, { -brand-name-chrome } lo llama modo incógnito. Ambos te permiten navegar por la web sin guardar tu historial de navegación.
+# Obsolete string
 take-the-stress = Quita ese estrés de encontrar un navegador seguro.
+# Obsolete string
 building-a-safe = Construir un navegador seguro es un arte y una ciencia porque no hay reglas establecidas.
 firefox-more-fingerprinter-blocking = Bloqueo de creadores de huellas (fingerprinters)
 firefox-more-fingerprinting-is-a = La creación de huellas digitales (fingerprinting) es un tipo de seguimiento en línea que es más invasivo que el seguimiento ordinario basado en cookies; por eso, { -brand-name-firefox-browser } lo bloquea.
@@ -71,3 +73,5 @@ firefox-more-a-guide-to = Una guía para credenciales y contraseñas más segura
 firefox-more-more-and-more = Cada vez más cosas sensibles y valiosas en nuestra vida están resguardadas por las contraseñas.
 firefox-more-avoid-misinformation-heading = Evita la desinformación en línea - { -brand-name-firefox } está aquí para ayudar
 firefox-more-avoid-misinformation-desc = Echa un vistazo a los consejos para ver menos información errónea y centrarte en lo que es importante para ti.
+firefox-more-is-firefox-a-private-browser = ¿Es { -brand-name-firefox } un navegador privado?
+firefox-more-were-focused-on-your-right-to = Nos centramos en tu derecho a la privacidad. Tus datos, tu actividad web, tu vida en línea están protegidos con { -brand-name-firefox }.
