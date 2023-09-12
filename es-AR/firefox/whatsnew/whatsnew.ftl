@@ -23,4 +23,4 @@ whatsnew-out-of-date-notification-v2 = Está disponible un { -brand-name-firefox
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Leé las <a href="{ $url }"> Notas de la versión </a> para obtener más información sobre las novedades de tu navegador { -brand-name-firefox }.
-whatsnew-signoff = <strong> Con la tecnología de { -brand-name-mozilla }. </strong> Anteponer las personas a las ganancias desde 1998.
+whatsnew-signoff = <strong>Con la tecnología de { -brand-name-mozilla }.</strong> Poniendo a las personas antes que a las ganancias desde 1998.
