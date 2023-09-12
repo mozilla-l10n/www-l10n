@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ## Common user interface (ui) strings used in global templates and shared widgets.
@@ -19,5 +19,5 @@ ui-show-more = 显示更多
 ui-show-less = 显示更少
 ui-show-all = 全部显示
 ui-hide-all = 全部隐藏
-ui-learn-more = 了解更多
+ui-learn-more = 详细了解
 ui-view = 查看

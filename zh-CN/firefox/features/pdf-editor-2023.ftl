@@ -8,14 +8,14 @@
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF 编辑器
 # page title
-pdf-editor-add-text-to-pdfs = 使用 { -brand-name-firefox } PDF 编辑器将文本添加到 PDF
+pdf-editor-add-text-to-pdfs = 使用 { -brand-name-firefox } PDF 编辑器向 PDF 文档添加文本
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = 在 { -brand-name-firefox } 中查看和编辑 PDF 文件。
-pdf-editor-if-you-need-to-add-stuff-to-a-pdf = 如果您需要向 PDF 文档添加内容现在用 { -brand-name-firefox } 在线就可以了。在 { -brand-name-firefox } 中打开 PDF 点击右上角的 文本 或 绘图 按钮即可对您的文档进行修改。下载文件以保存您的更改。
-pdf-editor-fill-in-forms-online-without = 无需打印和扫描在线填写表单
-pdf-editor-weve-all-faced-this-you-need-to = 我们都遇到过这样的情况您需要填写一个 PDF 表单但该表单不可编辑。过去你唯一的选择就是在纸上打印用墨迹添加东西然后扫描回计算机。
-pdf-editor-no-more-now-all-you-need-to-do = 没有了现在您只需在 { -brand-name-firefox } 上在线编辑 PDF 并保存即可在计算机上通过电子邮件发送。
-pdf-editor-add-text = 添加文字
-pdf-editor-open-the-pdf-in-firefox-click-text = 在 { -brand-name-firefox } 中打开 PDF。在选择在文档中您想要添加文本的位置之前请点击“文本”按钮选择一种颜色和文字大小。就是这么简单
-pdf-editor-add-drawings-or-your-signature = 添加图画或您的签名
-pdf-editor-open-the-pdf-in-firefox-click-draw = 在 { -brand-name-firefox } 中打开 PDF。点击绘制图标选择颜色、粗细和不透明度即可在文档上绘制。它可能不会比您通常的签名更混乱
+pdf-editor-if-you-need-to-add-stuff-to-a-pdf = 如需向 PDF 文档添加内容，现在用 { -brand-name-firefox } 即可在线完成。在 { -brand-name-firefox } 中打开 PDF 文档，然后点击右上角的“文本”或“绘图”按钮修改文档，最后下载文件即可保存您的更改。
+pdf-editor-fill-in-forms-online-without = 在线填写表单，免去打印和扫描的麻烦
+pdf-editor-weve-all-faced-this-you-need-to = 我们都遇到过这样的情况：有时需要填写一份 PDF 表单，却发现无法直接编辑。在过去，您只能先打印到纸上，用笔墨填写好，再扫描回计算机。
+pdf-editor-no-more-now-all-you-need-to-do = 不过这种烦恼再也不会有了！现在，您只需借助 { -brand-name-firefox } 就能在线编辑 PDF，完成后直接保存并发送即可。
+pdf-editor-add-text = 添加文本
+pdf-editor-open-the-pdf-in-firefox-click-text = 在 { -brand-name-firefox } 中打开 PDF 文件，点击“文本”按钮，选择颜色和文字大小，然后在文档上选择您想要添加文本的位置即可。就是这么简单！
+pdf-editor-add-drawings-or-your-signature = 绘制图案或签名
+pdf-editor-open-the-pdf-in-firefox-click-draw = 在 { -brand-name-firefox } 中打开 PDF 文件，点击“绘图”图标，选择颜色、粗细、不透明度后，即可在文档上绘图。操作起来大概不比您的签名复杂！

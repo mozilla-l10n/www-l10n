@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/features/pinned-tabs/
 
 # page title
-pinned-tabs-pinned-browser-tabs = 固定的浏览器标签页
+pinned-tabs-pinned-browser-tabs = 固定标签页
 # HTML page description
-pinned-tabs-keep-your-favorite-pages-open = 常用的网页只需轻轻一点。使用固定标签页随时处理您的电子邮件或短信应用。
-pinned-tabs-pinning-a-tab-in-firefox-allows = 在 { -brand-name-firefox } 中固定标签页后您可随时打开您喜爱的网站。将在您启动 { -brand-name-firefox } 时自动打开。我们发现它们特别适合用来处理电子邮件和日历网站。
-pinned-tabs-theyre-small-and-you-cant-close = 它们很小而且您不会因为没有关闭按钮而无意中关闭了它们。您只需取消固定它们。
-pinned-tabs-you-can-see-when-your-pinned-tabs = 您可以看到固定的标签页有更新例如收到新的电子邮件或私信。
-pinned-tabs-if-you-click-on-a-link-within = 若您从固定标签页中点击一个链接{ -brand-name-firefox } 会自动在一个单独的新标签页中打开该链接这样您固定的标签页就会永远存在直到您取消固定。
+pinned-tabs-keep-your-favorite-pages-open = 轻轻一点即可直达常用网页，便于随时留意邮件或短信应用。
+pinned-tabs-pinning-a-tab-in-firefox-allows = 在 { -brand-name-firefox } 中固定的标签页将永远保持打开，您只需轻轻一点即可直达常用网站。固定的标签页会随 { -brand-name-firefox } 打开。这一功能特别适用于邮箱、日历等网站，便于时刻掌握动态。
+pinned-tabs-theyre-small-and-you-cant-close = 它们占用面积很小，且不可能被误关，因为上面根本没有关闭按钮，必须取消固定后才能关闭。
+pinned-tabs-you-can-see-when-your-pinned-tabs = 当固定的标签页有更新（例如有新邮件或私信）时，您可以看到提醒。
+pinned-tabs-if-you-click-on-a-link-within = 在固定的标签页中点击链接后，{ -brand-name-firefox } 将自动在新标签页中打开链接。这样，您所固定的标签页就永远不会消失，直到您将其取消固定。

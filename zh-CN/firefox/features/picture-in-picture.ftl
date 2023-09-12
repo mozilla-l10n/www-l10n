@@ -23,6 +23,6 @@ features-pip-cruise-around-to-other = <strong>浏览其他标签页</strong>，�
 features-pip-repeat-steps-1-3-to-have = <strong>重复步骤 1-3</strong>，开启更多画中画视频。
 features-pip-3-more-ways-to-use-picture = 3 种使用画中画的场景
 features-pip-3-ways-to-use-picture = 3 种使用画中画的场景
-features-pip-watch-a-lecture-or-meeting = 一边上课或开会，一边作笔记
+features-pip-watch-a-lecture-or-meeting = 一边上课或开会，一边做笔记
 features-pip-keep-a-tutorial-video-open = 烹煮或烘焙时，播放教学视频的同时翻看食谱
 features-pip-entertain-cats-dogs-and-kids = 工作间隙，看看萌宠萌娃视频放松心情

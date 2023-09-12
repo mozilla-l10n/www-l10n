@@ -14,4 +14,4 @@ features-add-ons-extensions-also-known-as-add-ons = 扩展（也称 { -brand-nam
 #   $language (url) - link to https://addons.mozilla.org/firefox/addon/languagetool/
 #   $customize (url) - link to https://www.mozilla.org/firefox/features/customize/
 #   $amo (url) - link to https://addons.mozilla.org
-features-add-ons-there-are-firefox-add-ons-that = { -brand-name-firefox } 附加组件中有的能够<a { $fbcontainer }>阻止 Facebook 在网络上跟踪您</a>，有的能够<a { $translate }>将文本翻译成其他语言</a>，有的能够<a { $language }>检查拼写和语法</a>，有的能够<a { $customize }>让浏览器外观焕然一新</a>。您可以在 a { $amo }>addons.mozilla.org</a> 上找到包含以上扩展在内的数千款扩展，并且全部免费。
+features-add-ons-there-are-firefox-add-ons-that = { -brand-name-firefox } 附加组件中有的能够<a { $fbcontainer }>阻止 Facebook 在网络上跟踪您</a>，有的能够<a { $translate }>将文本翻译成其他语言</a>，有的能够<a { $language }>检查拼写和语法</a>，有的能够<a { $customize }>让浏览器外观焕然一新</a>。您可以在 <a { $amo }>addons.mozilla.org</a> 上找到包含以上扩展在内的数千款扩展，并且全部免费。
