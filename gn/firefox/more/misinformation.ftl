@@ -11,7 +11,7 @@ misinformation-page-desc = Pe marandu’ỹ neko’õ, nemboyke ha avei hepy. { 
 misinformation-page-subheading = Ema’ẽ ko’ã ñemoñe’ẽre ehecha hag̃ua sa’ive maranduvai ha ehechakuaa mba’épa erohoryvéva
 misinformation-what-is-heading = ¿Mba’épa marandu javygua? ¿Mba’épa maranduvai?
 misinformation-disinformation = Marandu ojavýva, marandu’ỹ. Ikatúkuri ehendu ko’ã ñe’ẽ ymave ha eñeporandu mba’épepa ojuavy he’isévape. Pe ombojuavýva ha’e ije’ekue: Pe marandu ojavýva ha’e oimehaichagua marandu japu oimeraẽva yvypóra ikatuhápe ho’a. Ojehechajeykuaa oĩvai térã oporombotavykuaávaramo, hákatu noñemoheñói ha ñoñemoherakuãi nembotavy hag̃ua katuete. Ambue hendáicha, pe marandu’ỹ oñemoheñói ha oñemoherakuã ani hag̃ua eñemomarandu ha péva rupi ohupyty umi mba’e oipotáva.
-misinformation-ultimately-harmful = Ohasaramóva, marandu vai avei marandu’ỹicha oporombyaikuaa. Ndaha’éi oñemoheñóiva marandu vai añónte, avei pe marandu japuguáva oipuru hetaiterei viru arapy tuichakue ha ikatu ombyai tekojoja reko ha ñemboguata porã. Ha hasyeterei ijejoko pe marandu japuguáva, iñasãi pya’etereive rupi umi marandu iporãvagui.
+misinformation-ultimately-harmful = Ohasaramóva, marandu vai avei marandu’ỹicha oporombyaikuaa. Ndaha’éi oñemoheñóiva marandu vai añónte, avei pe marandu japuguáva oiporu hetaiterei viru arapy tuichakue ha ikatu ombyai tekojoja reko ha ñemboguata porã. Ha hasyeterei ijejoko pe marandu japuguáva, iñasãi pya’etereive rupi umi marandu iporãvagui.
 misinformation-false-info-heading = ¿Moõpa osẽ marandu ijapúva?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
@@ -22,7 +22,7 @@ misinformation-spot-online-heading = Mba’éichapa eikuaáta marandu japugua ñ
 misinformation-look-at-url = Ema’ẽ pe URL ha/térã heñoihague.
 misinformation-known-to-br-credible = ¿Ojeguerovia chupe? Nderegueroviáiramo, eñeha’ã eheka marandu teñoiha rehegua ha rerakuãporã ñandutípe.
 misinformation-overly-sensational = ¿Pe maranduguasu ombotuichaiterei?
-misinformation-check-out-websites = Ehecha umi ñanduti renda ha marandu me’ẽha ejeroviaha ehecha hag̃ua mba’éicha omomarandu pe téma ha mba’éichapa ojapo. Pe tetepy oñemoambuéva py’ỹinte oho ijapýrape ha oipuru ñembotuicha noĩrihápe mba’etépa oiko, ha ndaikatúi ojehechajey ñomongetakue ikutiaporãva.
+misinformation-check-out-websites = Ehecha umi ñanduti renda ha marandu me’ẽha ejeroviaha ehecha hag̃ua mba’éicha omomarandu pe téma ha mba’éichapa ojapo. Pe tetepy oñemoambuéva py’ỹinte oho ijapýrape ha oiporu ñembotuicha noĩrihápe mba’etépa oiko, ha ndaikatúi ojehechajey ñomongetakue ikutiaporãva.
 misinformation-content-up-to-date = ¿Pe hetepy hekopyahúma?
 misinformation-outdated-information = Pe marandu ndahekopyahúi ndaha’éi katuete noporomaranduséiva, hákatu ikatu hína noĩporãmbái.
 misinformation-credible-publication = ¿Ohechauka apohára ambue jehaipyre térã guenohẽmbyre, ikatu haguéicha tenda ojekuaávape?

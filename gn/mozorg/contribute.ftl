@@ -25,14 +25,14 @@ contribute-task-translate-heading = Tetepy moñe’ẽasa
 contribute-task-translate-desc = Ñanduti heko mbaretéta oñeikumbýrõ opa hendápe. Orepytyvõna opopyre ñe’ẽasápe ha ñanduti renda { -brand-name-mozilla } rehe ne ñe’ẽme g̃uarã.
 contribute-task-mozilla-codebase-heading = Eipytyvõ { -brand-name-mozilla } ayvúpe
 contribute-task-mozilla-codebase-desc = Emoporãve opaite { -brand-name-mozilla } apopyre eipytyvõvo heta pa’ũ mboguatapyre reheguáva.
-contribute-task-support-desc = Eipytyvõ oikóvo { -brand-name-mozilla } apopyrégui ijepurureíva. Embohovái porandu “ñepytyvõ” avakueragua ha’éva aty tekohagua pytyvõrã { -brand-name-mozilla } mba’e.
+contribute-task-support-desc = Eipytyvõ oikóvo { -brand-name-mozilla } apopyrégui ijeporureíva. Embohovái porandu “ñepytyvõ” avakueragua ha’éva aty tekohagua pytyvõrã { -brand-name-mozilla } mba’e.
 contribute-task-join-heading = Ejuaju tekoháre
 contribute-task-join-desc = ¿Emba’aposevépa ore rekohápe { -brand-name-mozilla }? Eporandu opaite pa’ũ emba’apokuaa hag̃ua ore ñandutiroguépe.
 
 ## Mission
 
 contribute-mission-heading = Ore rembipota
-contribute-mission-desc = Ore rembipota ha’e Ñanduti ha’eva’erãha avakuéra rembipuruete, ijuruja ha oikekuaahápe opavave. Peteĩ Ñanduti añetete omoĩva avakuérape tenondete, tapicha orekohápe pokatu, tekorasã ha sãso ohechauka hag̃ua hembiapo rapykuere.
+contribute-mission-desc = Ore rembipota ha’e Ñanduti ha’eva’erãha avakuéra rembiporuete, ijuruja ha oikekuaahápe opavave. Peteĩ Ñanduti añetete omoĩva avakuérape tenondete, tapicha orekohápe pokatu, tekorasã ha sãso ohechauka hag̃ua hembiapo rapykuere.
 contribute-learn = Eikuaave { -brand-name-mozilla } rehegua
 contribute-read-manifesto = Emoñe’ẽ Mozilla he’ipyre
 contribute-find-event = Ejuhu tembiaporã

@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+features-fast-is-firefox-the-fastest-browser = { -brand-name-firefox } ha’e kundahára ipya’éva
 features-fast-browse-faster = Eikundaha pya’eve
 features-fast-faster-gaming = Ñembosarái pya’evéva

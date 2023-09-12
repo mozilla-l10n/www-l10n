@@ -8,7 +8,7 @@
 # HTML page title
 features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }: Eipuru mandu’arenda michĩve, embopya’eve
 # HTML page description
-features-memory-is-your-computer-slow-your = ¿Ne mohendaha imbegue? Ne kundaha ikatu hína oipurueterei mandu’arenda. Eiporu { -brand-name-firefox } ipya’eve hag̃ua ndéve.
+features-memory-is-your-computer-slow-your = ¿Ne mohendaha imbegue? Ne kundaha ikatu hína oiporueterei mandu’arenda. Eiporu { -brand-name-firefox } ipya’eve hag̃ua ndéve.
 features-memory-less-memory-usage-than-chrome = Oiporu sa’ive mandu’arenda { -brand-name-chrome }-gui
 features-memory-if-your-web-browser-uses = Ne ñanduti kundaha oiporueterei mandu’arenda, eipuru { -brand-name-firefox }.
 features-memory-speed-up-your-computer = Embopya’e ne mohendaha
@@ -16,7 +16,7 @@ features-memory-every-computer-program-you = Opavave mohendaha pegua tembiaporap
 features-memory-stop-running-out-of-memory = Anive epyta mandu’arenda’ỹre
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/fx54memorytest/
-features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">{ -brand-name-chrome } oipuruve 1.77 jey mandu’arenda { -brand-name-firefox }-gui</a>. Ne mohendaha imandu’arenda sa’ímarõ, ikatu omombegueterei chupe. Eipuru { -brand-name-firefox } rembiapo ipyahuvéva taperekoeta ndive ikatúva ombotuicha mandu’arenda eipurukuaáva ne rembiaporape erohoryvévape.
+features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">{ -brand-name-chrome } oiporuve 1.77 jey mandu’arenda { -brand-name-firefox }-gui</a>. Ne mohendaha imandu’arenda sa’ímarõ, ikatu omombegueterei chupe. Eipuru { -brand-name-firefox } rembiapo ipyahuvéva taperekoeta ndive ikatúva ombotuicha mandu’arenda eipurukuaáva ne rembiaporape erohoryvévape.
 features-memory-browse-faster-privately = Eikundaha pya’eve ha ñemiguávape
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/

@@ -7,4 +7,5 @@
 
 # page title
 bookmark-manager-bookmark-manager = Techaukaha ñangarekoha
+bookmark-manager-easily-import-bookmarks = Techaukaha jegueru hasy’ỹre
 bookmark-manager-bookmarks-toolbar = Techaukaha rembiporu renda

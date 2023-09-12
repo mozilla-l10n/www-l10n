@@ -24,7 +24,7 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Roikuaase sa’ive mba’emimi 
 firefox-privacy-hub-all-tech-companies-collect = Opavave mba’apohaguasu tembiporupyahugua ombyaty mba’ekuaarã omoporãve hag̃ua ijapopyre. Hákatu upéva nomoingeiva’erã mba’emimi tapicha rehegua. Mba’ekuaarã roipotáva ha’e umi ore pytyvõkuaáva. Roporandu: ¿Roikotevẽpiko ko’ã mba’ekuaarã? ¿Ma’erã roikotevẽ? ¿Ha araka’e romboguekuaa?
 firefox-privacy-hub-keep-it-safe = Eñemo’ãke
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Roñeha’ãmbaite romo’ã hag̃ua ne maranduete
-firefox-privacy-hub-data-security-is-complicated = Umi mba’ekuaarã rekorosã ijetu’u, térã peichava’erãvoi. Upéicha rupi, roñeha’ãve roiporavo hag̃ua mba’ekuaarã, roreko tapeguatarã mba’éichapa oñembyaty ha oñemo’ãta peteĩteĩchagua mba’ekuaarã ha araka’eve ndorohejái jejapojey. Nde rekoñemi pe roipotavéva. Roipuru viru upevarã. Roñeha’ãmbaite. Péicha rombo’e ambue mba’apohaguasúpe ijeku’erã.
+firefox-privacy-hub-data-security-is-complicated = Umi mba’ekuaarã rekorosã ijetu’u, térã peichava’erãvoi. Upéicha rupi, roñeha’ãve roiporavo hag̃ua mba’ekuaarã, roreko tapeguatarã mba’éichapa oñembyaty ha oñemo’ãta peteĩteĩchagua mba’ekuaarã ha araka’eve ndorohejái jejapojey. Nde rekoñemi pe roipotavéva. Roiporu viru upevarã. Roñeha’ãmbaite. Péicha rombo’e ambue mba’apohaguasúpe ijeku’erã.
 firefox-privacy-hub-no-secrets = Kañymby’ỹre
 firefox-privacy-hub-youll-always-know-where-you = Ejerovia tapiáke ore reko resakãre
 # Variables:

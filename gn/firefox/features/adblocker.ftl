@@ -14,7 +14,7 @@ features-adblocker-an-ad-blocker-is-a-piece = Peteĩ maranduñemurã jokoha ha�
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-these-ads-might-be-loud = Ko’ã ñemurã ikatu ha’e ta’ãngamýi ryapu maranduñemurãva, ñemurã nderapykuehóva ñandutípe, tapykuehoha, kookie mbohapyháva ha hetave. Eipuru hag̃ua maranduñemurã jokoha, ikatu eheka maranduñemurã rembipuru’i jokoha eipurukuaáva ne kundahápe. <a href="{ $firefox }">{ -brand-name-firefox }</a>, techapyrã, oguereko <a href="{ $addons }">ko tembiporu’i rysýi ñemurã jokoha moneĩmbyre</a>. Eikutu ko tysýi ( térã maranduñemurã jokoha moneĩmbyre ne kundahápe g̃uarã) ha ehecha mba’etépa pe eikotevẽva.
+features-adblocker-these-ads-might-be-loud = Ko’ã ñemurã ikatu ha’e ta’ãngamýi ryapu maranduñemurãva, ñemurã nderapykuehóva ñandutípe, tapykuehoha, kookie mbohapyháva ha hetave. Eipuru hag̃ua maranduñemurã jokoha, ikatu eheka maranduñemurã rembiporu’i jokoha eipurukuaáva ne kundahápe. <a href="{ $firefox }">{ -brand-name-firefox }</a>, techapyrã, oguereko <a href="{ $addons }">ko tembiporu’i rysýi ñemurã jokoha moneĩmbyre</a>. Eikutu ko tysýi ( térã maranduñemurã jokoha moneĩmbyre ne kundahápe g̃uarã) ha ehecha mba’etépa pe eikotevẽva.
 features-adblocker-find-the-right-ad-blocker = Eheka ñemurã jokoha ndéve g̃uarãite
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
@@ -31,6 +31,7 @@ features-adblocker-create-a-tracker-free = Emoheñói tenda ijehapykuehokuaa’�
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = { -brand-name-firefox }-pe ikatu eipuru ko ñemboheko <a href="{ $privacy }">Ñemigua</a> térã <a href="{ $blocking }">Tetepy jokoha</a> eñangarekove hag̃ua jehapykuehoha oikuave’ẽva ñemurã.
 features-adblocker-choose-your-level-of-protection = Eiporavo ne ñemo’ã ra’ãha
+# Obsolete string
 features-adblocker-to-start-click-on-the = Eñepyrũ hag̃ua, eikutu { -brand-name-firefox } poravorãme yvate akatúa gotyo mba’erechahápe. Ojehecha mbohapy tairenda ojo’áripa. Pe poravorã ojepysóvape, eikutu Tetepy jejoko. Ehecháta ovetã apysẽ hovýva heta jeporavopyrã ndive.
 features-adblocker-go-easy-with-standard = Tereho py’aguapýpe Standard reko ndive
 # Variables:
@@ -53,7 +54,5 @@ features-adblocker-send-a-do-not-track-signal = Send ejehapykueho’ỹ hag̃ua
 features-adblocker-if-you-dont-want-your = Ndereipotáiramo nde reko ñandutípe ojepuru ñemurã, ikatu eguerahauka tendakuérape ñe’ẽmondo he’íva ndereipotaiha jehapykueho eikutúvo jeporavorã <a href="{ $url }">Tapykueho’ỹ</a> { -brand-name-firefox } guive. Ejapo ndejehegui, hákatu umi ñanduti renda ohechakuaáta kóva, nanderapykuehomo’ãvéima upe rire.
 features-adblocker-speed-up-thanks-to-ad = Embopya’eve maranduñemurã rupive
 features-adblocker-in-some-cases-an-ad-blocker = Heta jey, maranduñemurã jokoha ikatu nepytyvõ ne kundaha ipya’eve hag̃ua. Henyhẽkuévo ñemurã, ikatu omombegueve ñanduti renda. Upéicha avei, nemombegueve ejuhu hag̃ua umi ehekáva ehecháramo ambue ñemurã emboty hag̃ua.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Eikuasevéramo mba’éichapa ejokóta ñemurã, oĩ heta moimbaha ejoko hag̃ua maranduñemurã { -brand-name-firefox } peg̃uarã ha ambue kundahápe, eipuruséramo heta mba’e ome’ẽva { -brand-name-firefox } ejoko hag̃ua maranduñemurã, <a href="{ $url }">eikutu ápe emboguejy hag̃ua</a> kundaha omotenondéva ñemigua.
-features-adblocker-take-control-of-your-browser = Ejapyhy ne kundaha jepuru.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/6/
@@ -9,7 +9,7 @@
 welcome-page6-make-firefox-your-default = Ejapo { -brand-name-firefox }-gui kundahára ijypykuéva
 welcome-page6-make-sure-youre-protected = Eñeha’ãke eñemo’ã eikekuévo ñandutípe
 welcome-page6-when-you-choose-firefox-you = Eiporavóvo { -brand-name-firefox }, emoneĩma ñanduti iporãvéva ndéve g̃uarã ha opavavépe avei. Ko’ág̃a eñemongu’e eñemo’ãve hag̃ua.
-welcome-page6-get-the-firefox-app = Ereko { -brand-name-firefox } rembipuru’i
+welcome-page6-get-the-firefox-app = Ereko { -brand-name-firefox } rembiporu’i
 welcome-page6-get-firefox-on-your-phone = Ereko { -brand-name-firefox } ne pumbyrýpe
 welcome-page6-scan-the-qr-code-to-get-started = Emoha’ãnga ayvu QR eñepyrũ hag̃ua
 welcome-page6-qr-code-to-scan-for-firefox = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-name-firefox }

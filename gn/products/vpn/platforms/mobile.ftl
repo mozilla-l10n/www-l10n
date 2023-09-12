@@ -19,7 +19,7 @@ vpn-mobile-wifi-copy = Ore VPN omo’ã nde jeike ñandutípe mba’evaiapoha ha
 vpn-mobile-about-headline = { -brand-name-mozilla } rehegua
 vpn-mobile-about-copy = Ore rojekuaave { -brand-name-firefox-browser } rupive, { -brand-name-mozilla } ha’e poruhára arapygua rekoha, pytyvõhára ha mboguatahára oñeha’ãvo Ñanduti ojejuhu hag̃ua yvypóra pópe. Heñóiva ary 1998 jave, ore ha’e romoñepyrũva’ekue ñanduti sãso ha ijuruja hag̃ua, ha roipota péicha oiko tapiaite.
 vpn-mobile-privacy-headline = Tekoñemi peteĩ jeikutúpe
-vpn-mobile-privacy-copy = { -brand-name-mozilla-vpn } rembipuru’i ombopapapy ñandutípe jeike ha oñomi pe ne pumbyry IP kundaharape terã tabléta oipurúvo pe taperekoite oikóva { -brand-name-wireguard }®.
+vpn-mobile-privacy-copy = { -brand-name-mozilla-vpn } rembiporu’i ombopapapy ñandutípe jeike ha oñomi pe ne pumbyry IP kundaharape terã tabléta oipurúvo pe taperekoite oikóva { -brand-name-wireguard }®.
 vpn-mobile-servers-headline = Eike a mohendahavusu arapyguávape
 # Variables:
 #   $servers (number) - number of available servers

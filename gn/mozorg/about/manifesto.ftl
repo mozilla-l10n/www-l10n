@@ -10,7 +10,7 @@ manifesto-the-mozilla-manifesto = { -brand-name-mozilla } he’ipyre
 # HTML page description
 manifesto-these-are-the-principles = Ko’ãva ha’e tape ohechaukáva ore rembipota herakuã hag̃ua, mba’epyahu ha juruja ñandutípe.
 manifesto-the-internet-is-an-integral = Ñanduti ha’e tekotevẽpy tuicháva teko ko’ag̃aguápe — tekotevẽtereíva kuaapýpe g̃uarã, ñomongetarã, ñepytyvõrã, ñemũrã, ñembosarairã ha ava’aty opavavete oikehápe.
-manifesto-the-internet-is-a-global = Ñanduti ha’e peteĩ mba’e ava rembipuru arapyguápe g̃uarã ijurujáva ha jeikekuaaha.
+manifesto-the-internet-is-a-global = Ñanduti ha’e peteĩ mba’e ava rembiporu arapyguápe g̃uarã ijurujáva ha jeikekuaaha.
 manifesto-the-internet-must-enrich = Ñanduti oipytyvõva’erã opavave yvypóra rekove.
 manifesto-individuals-security-and = Pe tekorosã ha ñemigua avakuéra ñanduti pegua tekotevẽterei ha ndojehecháivaerã ikatúronte.
 manifesto-individuals-must-have = Avakuéra oguerekova’erã omohendaha ñanduti ha avei imba’ekuaa pe ñandutípe.
@@ -71,7 +71,7 @@ manifesto-details-provide-a-framework = eme’ẽ kyta ñepyrũha ambue tapicha 
 manifesto-details-these-principles = Ko’ã ypygua ndoikomo’ãi ha’eñorei. Oñeikotevẽ tapicháre oiko hag̃ua ñandutígui pa’ũ ijurujáva ha ojeikekuaahápe, ava omba’apóva ha’eño ha heta ndive, ha tapicha myakãhára. Ko { -brand-name-mozilla-foundation } oñeha’ãta oku’e tenonde gotyo he’ihácha { -brand-name-mozilla } je’epyre. Roipepirũ opavave oikesévape guive orendive ha, péicha, jajapo hag̃ua ñandutígui tenda iporãvéva tapichakuérape g̃uarã.
 manifesto-details-principles = Ñepyrũgua
 manifesto-details-the-internet-is-integral = Ñanduti ha’e tekotevẽpy tuicháva teko ko’ag̃aguápe — tekotevẽtereíva kuaapýpe g̃uarã, ñomongetarã, ñepytyvõrã, ñemũrã, ñembosarairã ha ava’aty opavavete oikehápe.
-manifesto-details-the-internet-is-global = Ñanduti ha’e peteĩ mba’e ava rembipuru arapyguápe g̃uarã ijurujáva ha jeikekuaaha.
+manifesto-details-the-internet-is-global = Ñanduti ha’e peteĩ mba’e ava rembiporu arapyguápe g̃uarã ijurujáva ha jeikekuaaha.
 manifesto-details-the-internet-must = Ñanduti oipytyvõva’erã opavave yvypóra rekove.
 manifesto-details-individuals-security = Pe tekorosã ha ñemo’ã poruhára mba’ekuaarã ñanduti pegua ha’e tekotevẽtéva ha ndojehecháiva’erã peteĩ ikatúrõnte.
 manifesto-details-individuals-must = Poruharakuéra ijeheguiva’erã omboheko hag̃ua ñanduti ha ijehasakue pype.

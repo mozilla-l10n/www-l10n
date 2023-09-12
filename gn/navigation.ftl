@@ -99,7 +99,7 @@ navigation-machine-learning = Machine Learning
 navigation-web-of-things-iot = Ñanduti mba’eguáva (IoT)
 navigation-help-make-deep-learning = Eipytyvõ umi algoritmo mbokatupyryha tojepuru arapýpe ayvu ijurujáva rekópe.
 # Outdated string
-navigation-make-devices-connected = Ejapo umi mba’e’oka ñandutiguáva hekorosã, jeroviaha ha ambuépe hasyvetaha ijepuruse.
+navigation-make-devices-connected = Ejapo umi mba’e’oka ñandutiguáva hekorosã, jeroviaha ha ambuépe hasyvetaha ijeporuse.
 navigation-developers = Mboguataharakuéra
 navigation-close-developers-menu = Emboty mboguatahára poravorã
 navigation-test-soon-to-be-released = Eipuru tembiapoite oikétamava peteĩchagua hekopytavétavape.

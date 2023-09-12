@@ -19,7 +19,7 @@ vpn-desktop-wifi-copy = Ore VPN omo’ã nde jeike ñandutípe mba’evaiapoha h
 vpn-desktop-about-headline = { -brand-name-mozilla } rehegua
 vpn-desktop-about-copy = Ore rojekuaave { -brand-name-firefox-browser } rupive, { -brand-name-mozilla } ha’e poruhára arapygua rekoha, pytyvõhára ha mboguatahára oñeha’ãvo Ñanduti ojejuhu hag̃ua yvypóra pópe. Heñóiva ary 1998 jave, ore ha’e romoñepyrũva’ekue ñanduti sãso ha ijuruja hag̃ua, ha roipota péicha oiko tapiaite.
 vpn-desktop-privacy-headline = Tekoñemi peteĩ jeikutúpe
-vpn-desktop-privacy-copy = { -brand-name-mozilla-vpn } rembipuru’i ombopapapy ñandutípe jeike ha oñomi pe ne pumbyry IP kundaharape terã tabléta oipurúvo pe taperekoite oikóva { -brand-name-wireguard }®.
+vpn-desktop-privacy-copy = { -brand-name-mozilla-vpn } rembiporu’i ombopapapy ñandutípe jeike ha oñomi pe ne pumbyry IP kundaharape terã tabléta oipurúvo pe taperekoite oikóva { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Eike a mohendahavusu arapyguávape
 # Variables:
 #   $servers (number) - number of available servers

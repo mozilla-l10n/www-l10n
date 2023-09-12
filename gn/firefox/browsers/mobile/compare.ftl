@@ -9,7 +9,7 @@
 mobile-compare-5-of-the-best = Emoñondive umi 5 kundahára pumbyrygua
 # HTML description
 mobile-compare-who-makes-the = ¿Mávapa ojapo kundahára pumbyrygua oikovéva? Ñamoñondivéta opáichagua { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } ha { -brand-name-opera } jaikuaa hag̃ua.
-mobile-compare-since-your-mobile = Reikuaápupe ne kundahára pumbyrygua ha’eha ne marandurã eime eimehápe, pya’ekue, tekorosã, tekoñemi ha ndahasýire ijepuru tuicha mba’e ñandutípe. Upévare, ¿mávapa kundahára iporãvéva? Ñambojoja umi ojepuruvéva ha jahecha mávapa ojokupyty ne remikotevẽre.
+mobile-compare-since-your-mobile = Reikuaápupe ne kundahára pumbyrygua ha’eha ne marandurã eime eimehápe, pya’ekue, tekorosã, tekoñemi ha ndahasýire ijeporu tuicha mba’e ñandutípe. Upévare, ¿mávapa kundahára iporãvéva? Ñambojoja umi ojepuruvéva ha jahecha mávapa ojokupyty ne remikotevẽre.
 mobile-compare-which-mobile-browser = ¿Mba’e kundahára pumbyrygua oreko imba’e kañyhápe?
 mobile-compare-at-a-minimum-v2 = Michĩveháramo, ne kundahára pumbyrygua ome’ẽva’erã pe “kundahára ñemigua reko”, omboguétava ijeheguiete ne rembiasakue ha nde jeheka rapykuere. Ko’ápe, umi po kundahára mbojuehepyre oguereko kyta.
 # Obsolete string
