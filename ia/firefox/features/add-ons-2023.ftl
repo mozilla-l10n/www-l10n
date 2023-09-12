@@ -7,3 +7,4 @@
 
 features-add-ons-firefox-add-ons = Additivos de { -brand-name-firefox }
 features-add-ons-firefox-add-ons-and-browser-extensions = Additivos e extensiones de navigator de { -brand-name-firefox }
+features-add-ons-extensions-also-known-as-add-ons = Le extensiones, alsi appellate additivos de { -brand-name-firefox }, es functiones extra que tu pote discargar e installar pro adder altere functionalitate e utensiles a tu navigator. Le additivos te permitte de personalisar tu navigator { -brand-name-firefox } e meliorar le maniera que tu usa le web.
