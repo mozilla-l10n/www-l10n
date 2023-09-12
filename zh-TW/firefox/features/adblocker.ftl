@@ -31,7 +31,7 @@ features-adblocker-create-a-tracker-free = 使用內容封鎖功能，建立無�
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = 您可以在 { -brand-name-firefox } 使用<a href="{ $privacy }">隱私權</a>或<a href="{ $blocking }">內容封鎖</a>設定來更細緻地調整如何對待廣告追蹤器。
 features-adblocker-choose-your-level-of-protection = 選擇保護等級
-features-adblocker-to-start-click-on-the-v2 = 首先請點擊網頁中網址列左邊的盾牌並選擇「保護設定」。將在新分頁中開啟 { -brand-name-firefox } 的「隱私與安全性」面板。您應該會看到有不同選項的藍色視窗。
+features-adblocker-to-start-click-on-the-v2 = 首先，請點擊網址列左邊的盾牌，然後選擇「保護設定」。將在新分頁中開啟 { -brand-name-firefox } 的「隱私權與安全性」面板。您會看到有不同選項的藍色視窗。
 # Obsolete string
 features-adblocker-to-start-click-on-the = 請點擊畫面右上角的 { -brand-name-firefox } 選單按鈕。看起來像是三條平行線組合而成的漢堡選單。然後在下拉選單中點擊「內容封鎖」。您應該會看到有幾個選項的藍色視窗。
 features-adblocker-go-easy-with-standard = 使用簡單輕鬆的標準模式
@@ -57,6 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = 使用廣告封鎖器加速上網
 features-adblocker-in-some-cases-an-ad-blocker = 某些情況下，廣告封鎖器可加速您的上網速度。廣告載入時可能會拖慢網站的運作。同時可能也會讓您花更多時間才能找到想找的東西。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more-v2 = 若您想了解廣告封鎖器的更多資訊在 { -brand-name-firefox } 與其他瀏覽器中有上百套的廣告封鎖擴充套件可供使用。若您想試用 { -brand-name-firefox } 的廣告封鎖器 <a href="{ $url }">點擊此處下載</a>將您的隱私權看得最重要的瀏覽器。
+features-adblocker-if-you-want-to-learn-more-v2 = 若您想了解廣告封鎖器的更多資訊，在 { -brand-name-firefox } 與其他瀏覽器中有上百套的廣告封鎖擴充套件可以使用。如果想試用 { -brand-name-firefox } 提供的廣告封鎖器，可以<a href="{ $url }">點擊此處下載</a>將隱私權看得最重要的瀏覽器。
 # Obsolete string
 features-adblocker-if-you-want-to-learn-more = 若您想了解廣告封鎖器的更多資訊，在 { -brand-name-firefox } 與其他瀏覽器中有上百套的廣告封鎖擴充套件可以使用。若您想在 { -brand-name-firefox } 試用看看，可以<a href="{ $url }">點擊此處下載</a>將您的隱私權看得最重要的瀏覽器。

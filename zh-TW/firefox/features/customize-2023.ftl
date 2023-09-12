@@ -7,7 +7,7 @@
 
 features-customize-customize-your-firefox = 自訂您的 { -brand-name-firefox } 瀏覽器
 # HTML page description
-features-customize-choose-how-your-browser-looks = 自選瀏覽器外觀有數以千計的免費佈景主題。
+features-customize-choose-how-your-browser-looks = 透過數以千計的免費佈景主題來挑選瀏覽器的外觀。
 features-customize-firefox-themes-let-you-change = { -brand-name-firefox } 佈景主題可讓您修改瀏覽器的外觀。他們可以設定瀏覽器選單與 { -brand-name-firefox } 系統頁面的色彩配置甚至可以新增背景圖片到您的 { -brand-name-firefox } 工具列。
 features-customize-firefox-comes-with-a-default = { -brand-name-firefox } 內建預設系統佈景主題並預設了亮、暗、色彩繽紛的佈景主題。
 # Used as accessible alternative text for an image

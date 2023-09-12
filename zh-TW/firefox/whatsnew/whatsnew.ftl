@@ -23,4 +23,4 @@ whatsnew-out-of-date-notification-v2 = 還有更新版的 { -brand-name-firefox 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = 請閱讀<a href="{ $url }">發行公告</a>來了解您的 { -brand-name-firefox } 瀏覽器還有哪些新鮮事。
-whatsnew-signoff = <strong>由 { -brand-name-mozilla } 提供技術支持。</strong>自 1998 年起將人看得比利益更重要。
+whatsnew-signoff = <strong>由 { -brand-name-mozilla } 提供。</strong>自 1998 年起，就將人們看得比利益更重要。

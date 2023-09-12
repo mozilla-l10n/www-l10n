@@ -73,5 +73,5 @@ firefox-more-a-guide-to = 更安全的登入資訊與密碼指南
 firefox-more-more-and-more = 我們的生活中有更多敏感、有價值的東西需透過密碼來保護。
 firefox-more-avoid-misinformation-heading = 避免遇到網路上的假訊息 - { -brand-name-firefox } 在此協助
 firefox-more-avoid-misinformation-desc = 看看有哪些能夠看到更少假訊息，並且更加專注於對您來說最重要資訊的小秘訣。
-firefox-more-is-firefox-a-private-browser = { -brand-name-firefox } 是隱私瀏覽器嗎
-firefox-more-were-focused-on-your-right-to = 我們聚焦於您的隱私權。您的資料、上網行為、您的線上生活都受到 { -brand-name-firefox } 的保護。
+firefox-more-is-firefox-a-private-browser = { -brand-name-firefox } 是有隱私的瀏覽器嗎？
+firefox-more-were-focused-on-your-right-to = 我們專注於您的隱私權。您的資料、您的上網行為、您的線上生活，全部都受到 { -brand-name-firefox } 保護。

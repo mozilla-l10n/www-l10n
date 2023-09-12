@@ -6,11 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-firefox-features = { -brand-name-firefox } 產品功能
-features-shared-footer-cta-title = 用 { -brand-name-firefox } 做更多事
-features-shared-footer-cta-desc = 獲得快速、輕量級、保護隱私的瀏覽器由非營利組織所打造支援在您的所有裝置上使用。
+features-shared-footer-cta-title = 使用 { -brand-name-firefox } 做到更多事
+features-shared-footer-cta-desc = 獲得由非營利組織所打造，快速、輕量級、保護隱私的瀏覽器，且能在您的所有裝置上使用。
 features-shared-footer-cta-button = 下載 { -brand-name-firefox }
-features-shared-is-firefox-a-fast-browser = { -brand-name-firefox } 的瀏覽器速度很快嗎
-features-shared-is-firefox-a-private-browser = { -brand-name-firefox } 是隱私瀏覽器嗎
+features-shared-is-firefox-a-fast-browser = { -brand-name-firefox } 是一套快速的瀏覽器嗎？
+features-shared-is-firefox-a-private-browser = { -brand-name-firefox } 是一套能保護隱私的瀏覽器嗎？
 features-shared-free-password-manager = 密碼管理員
 features-shared-customize-your-firefox-browser = 自訂您的 { -brand-name-firefox } 瀏覽器
 features-shared-firefox-browser-sync = { -brand-name-firefox } 瀏覽器同步

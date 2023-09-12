@@ -13,7 +13,7 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } 安全�
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = 透過<a href="{ $fxa }">免費的 { -brand-name-firefox-account }</a>您可以安全地在所有裝置間同步密碼。
-password-manager-password-autofill-for-easy-logins = 自動填寫密碼讓您輕鬆登入
+password-manager-password-autofill-for-easy-logins = 自動填寫密碼，讓您輕鬆登入
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } 可自動填寫您儲存的帳號與密碼。若您對一個網站有超過一組的登入資訊您可以直接選擇要使用的帳號我們就會把該帳號登入。
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = 某網站使用 { -brand-name-firefox } 的登入表單圖片顯示多個儲存的帳號供您在登入時選擇。
