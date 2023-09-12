@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-firefox-features = { -brand-name-firefox } შესაძლებლობები
-features-shared-footer-cta-title = გააკეთეთ მეტი { -brand-name-firefox }-ით
-features-shared-footer-cta-desc = გამოიყენეთ სწრაფი, მსუბუქი, პირადულობაზე ორიენტირებული ბრაუზერი, რომელიც არამომგებიანი დაწესებულების მხარდაჭერაა და მუშაობს ყველა თქვენს მოწყობილობაზე.
+features-shared-footer-cta-title = უკეთ გამოიყენეთ { -brand-name-firefox }
+features-shared-footer-cta-desc = მიიღეთ სწრაფი, მსუბუქი, პირადულობის უზრუნველმყოფი ბრაუზერი, რომელიც არამომგებიანი დაწესებულებისგანაა და იმუშავებს ყველა თქვენს მოწყობილობაზე.
 features-shared-footer-cta-button = ჩამოტვირთეთ { -brand-name-firefox }
 features-shared-is-firefox-a-fast-browser = { -brand-name-firefox } სწრაფი ბრაუზერია?
 features-shared-is-firefox-a-private-browser = { -brand-name-firefox } პირადი ბრაუზერია?
@@ -17,7 +17,7 @@ features-shared-firefox-browser-sync = { -brand-name-firefox }-ბრაუზ�
 features-shared-bookmark-manager = სანიშნების მმართველი
 features-shared-private-browsing-mode = პირადი დათვალიერების რეჟიმი
 features-shared-firefox-add-ons-and-browser-extensions = { -brand-name-firefox }-ის დამატებები და ბრაუზერის გაფართოებები
-features-shared-pinned-browser-tabs = მიმაგრებული ბრაუზერის ჩანართები
+features-shared-pinned-browser-tabs = ბრაუზერის მიმაგრებული ჩანართები
 features-shared-eyedropper-tool = სათვალე ხელსაწყო
 features-shared-pdf-editor = PDF რედაქტორი
 features-shared-fingerprinter-blocking = ამოცნობის შეზღუდვა

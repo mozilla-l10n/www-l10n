@@ -9,7 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = რა არის ანაბეჭდით ამოცნობა და რატომ ჯობია შეზღუდოთ
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = ანაბეჭდით ამოცნობა, ინტერნეტში თვალის დევნების სახეა, მეტად მძლავრი ვიდრე ფუნთუშებით მეთვალყურეობა — სწორედ ამიტომაც ზღუდავს { -brand-name-firefox-browser }.
-features-fingerprinting-fingerprint-blocking = თითის ანაბეჭდის დაბლოკვა
+features-fingerprinting-fingerprint-blocking = ამოცნობის შეზღუდვა
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } ზღუდავს ამოცნობას
 features-fingerprinting-ditch-the-sticky = მოიცილეთ ადევნებული რეკლამები რომლებიც  მუდამ თან დაგყვებათ, { -brand-name-firefox }-ბრაუზერის ჩაშენებული შემზღუდავით, ამოცნობის წინააღმდეგ.
 # description for the header image
