@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Vertaal het internet – rechtstree
 # page description
 features-translate-translate-more-than = Vertaal uit meer dan 100 talen rechtstreeks in uw { -brand-name-firefox-browser } naar uw eigen taal – eenvoudiger dan ooit.
 features-translate-translate-the-web = Vertaal het internet met { -brand-name-firefox }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Het internet vertalen
 # Obsolete string
 features-translate-the-google-translate = De { -brand-name-google } Translate-extensie voor { -brand-name-firefox } maakt het internet toegankelijk voor de wereld.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = De <a { $attrs }>{ -brand-name-firefox-translations }-extensie</a> kan automatisch inhoud van de webpagina’s die u bezoekt vertalen. In tegenstelling tot sommige op de cloud gebaseerde alternatieven, vertaalt deze extensie tekst lokaal in { -brand-name-firefox }, zodat de inhoud die u vertaalt uw apparaat niet verlaat.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Download { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate wordt, met meer dan 100 talen* beschikbaar, gebruikt door miljoenen mensen wereldwijd. Maar heen en weer springen tussen translate.google.com en de pagina die u probeert te lezen is geen ideale ervaring. De extensie <a { $attrs }>To { -brand-name-google } Translate</a> maakt het vertalen van de bezochte pagina eenvoudiger dan ooit.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Ga naar { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = De extensie downloaden

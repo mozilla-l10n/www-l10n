@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Lees meer over { -brand-name-firefox }-browsers en -producten
 learn-more-faq = Veelgestelde vragen over { -brand-name-firefox }
 the-history-of = De geschiedenis van webbrowsers
 firefox-has-been = { -brand-name-firefox } is er al bijna vanaf het begin.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: rebel met een doel
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } is onafhankelijk en wordt gesteund door de not-for-profitorganisatie { -brand-name-mozilla }, die voor uw online rechten vecht en het internet voor iedereen en overal toegankelijk maakt.
 what-is-a = Wat is een webbrowser?
 a-web-browser = Een webbrowser brengt u overal op internet, zodat u overal ter wereld tekst, afbeeldingen en video kunt bekijken.
@@ -21,8 +23,6 @@ firefox-is-more = { -brand-name-firefox } is meer dan een browser
 its-a-lightning = Het is een bliksemsnelle toegang tot de beste webervaring.
 get-the-browsers = Download de browsers die uw privacy voorop stellen – en dat altijd hebben gedaan
 get-the-privacy = Krijg de privacy die u verdient. Verbeterde beveiliging tegen volgen maakt privacy een automatisme, elke keer dat u uw browser start.
-take-your-passwords = Neem uw wachtwoorden overal mee naartoe
-securely-access-the = Krijg overal veilig toegang tot wachtwoorden die u in { -brand-name-firefox } hebt opgeslagen – zelfs buiten de browser.
 choose-which-firefox = Kies de { -brand-name-firefox-browser } die u in uw taal wilt downloaden
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } voor { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Hoewel een { -brand-name-chromebook } al met { -brand-name-chrome } wordt geleverd, biedt het downloaden en gebruiken van { -brand-name-firefox } als uw standaardbrowser u de volgende voordelen:
@@ -61,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: meer bescherming. Minder zorg
 were-obsessed-with = We zijn geobsedeerd door het beschermen van uw privacy. Daarom hebben we Privénavigatie van { -brand-name-firefox } krachtiger gemaakt dan de andere.
 incognito-browser-what = Incognitobrowser: wat het werkelijk betekent
 firefox-calls-it = { -brand-name-firefox } noemt het privénavigatie, { -brand-name-chrome } noemt het de incognitomodus. Met beide kunt u op internet surfen zonder uw navigatiegeschiedenis op te slaan.
+# Obsolete string
 take-the-stress = Haal de stress uit het zoeken naar een veilige browser.
+# Obsolete string
 building-a-safe = Het bouwen van een veilige browser is een kunst en een wetenschap, omdat er geen vaste regels zijn.
 firefox-more-fingerprinter-blocking = Blokkeren van fingerprinters
 firefox-more-fingerprinting-is-a = Fingerprinting is een soort online volgen die invasiever is dan het gewone op cookies gebaseerde volgen. Daarom blokkeert { -brand-name-firefox-browser } het.
@@ -71,3 +73,5 @@ firefox-more-a-guide-to = Een gids voor veiligere aanmeldingen en wachtwoorden
 firefox-more-more-and-more = Steeds meer van de gevoelige, waardevolle dingen in ons leven worden beschermd door wachtwoorden.
 firefox-more-avoid-misinformation-heading = Vermijd online misinformatie – { -brand-name-firefox } is er om te helpen
 firefox-more-avoid-misinformation-desc = Bekijk tips voor het zien van minder misinformatie en het focussen op wat voor u belangrijk is.
+firefox-more-is-firefox-a-private-browser = Is { -brand-name-firefox } een privébrowser?
+firefox-more-were-focused-on-your-right-to = Wij concentreren ons op uw recht op privacy. Uw gegevens, uw webactiviteit en uw online leven worden beschermd met { -brand-name-firefox }.

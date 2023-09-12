@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Creëer een trackervrije zone met inh
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = In { -brand-name-firefox } kunt u de instellingen voor <a href="{ $privacy }">Privacy</a> of <a href="{ $blocking }">Inhoudsblokkering</a> gebruiken voor nog meer controle over adtrackers die u de advertenties laten zien.
 features-adblocker-choose-your-level-of-protection = Kies uw beschermingsniveau
+features-adblocker-to-start-click-on-the-v2 = Klik om te beginnen op het schild links van de adresbalk op een willekeurige webpagina en selecteer ‘Beschermingsinstellingen’. Dit opent het paneel Privacy & Beveiliging van uw { -brand-name-firefox }-instellingen in een nieuw tabblad. U zou een blauw pop-upvenster moeten zien met verschillende selecties.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Klik om te beginnen op het { -brand-name-firefox }-menu rechts bovenin uw scherm. Dit ziet eruit als drie op elkaar gestapelde lijnen. Klik in het dropdownmenu op Inhoudsblokkering. U zou nu een blauw pop-upscherm met verschillende selecties moeten zien.
 features-adblocker-go-easy-with-standard = Doe rustig aan met de modus Standaard
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Surf sneller dankzij adblockers
 features-adblocker-in-some-cases-an-ad-blocker = In sommige gevallen kan een adblocker uw browser sneller laten gaan. Wanneer een advertentie wordt geladen, dan kan dit een website vertragen. Tegelijkertijd duurt het langer om te vinden waar u naar zoekt als u te druk bent met sluiten van weer een advertentie.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Als u meer wilt weten over advertenties blokkeren, dan zijn er honderden adblockerextensies beschikbaar voor { -brand-name-firefox } en andere browsers. Als u de adblockers die { -brand-name-firefox } gebruikt wilt uitproberen, <a href="{ $url }">klik dan hier om een browser die privacy voorop stelt te downloaden</a>.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Als u meer wilt weten over advertenties blokkeren, dan zijn er honderden adblockerextensies beschikbaar voor { -brand-name-firefox } en andere browsers. Als u de adblockers die { -brand-name-firefox } gebruikt wilt uitproberen, <a href="{ $url }">klik dan hier om een browser die privacy voorop stelt te downloaden</a>.
-features-adblocker-take-control-of-your-browser = Neem de controle over uw browser.
