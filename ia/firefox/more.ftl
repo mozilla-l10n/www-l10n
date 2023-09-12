@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Saper plus re navigatores e productos { -brand-name-firefox }
 learn-more-faq = Folio a questiones re { -brand-name-firefox }
 the-history-of = Le historia de navigatores del Web
 firefox-has-been = { -brand-name-firefox } ha essite illac depost quasi le initio.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: rebelle con causa
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } es independente e supportate per le organisation non lucrative { -brand-name-mozilla }, que lucta pro tu derectos online e rende internet accessibile a totes, ubique.
 what-is-a = Que es un navigator del Web?
 a-web-browser = Un navigator del Web te porta ubique sur internet, te consenti vider texto, imagines e video non importa ubi tu es in le mundo.
@@ -59,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: major protection. Minor preoc
 were-obsessed-with = Nos es maniac con le protection de tu confidentialitate. Pro isto nos ha facite le Navigation private de { -brand-name-firefox } plus potente que le alteres.
 incognito-browser-what = Navigator in incognito: que significa vermente?
 firefox-calls-it = { -brand-name-firefox } lo appella navigation private, { -brand-name-chrome } lo appella modo in incognito. Ambes te permitte de navigar le Web sin salvar tu chronologia de navigation.
+# Obsolete string
 take-the-stress = Sparnia te le stress de cercar un navigator secur.
+# Obsolete string
 building-a-safe = Producer un navigator secur es un arte e un scientia perque il non ha alcun regulas preconfigurate.
 firefox-more-fingerprinter-blocking = Blocada de dactylogrammatores
 firefox-more-fingerprinting-is-a = Dactylogrammatores es un typo de traciamento online plus invasive que ordinari traciamento basate sur cookie: pro isto { -brand-name-firefox-browser } lo bloca.
@@ -69,3 +73,4 @@ firefox-more-a-guide-to = Guida pro credentiales e contrasignos plus secur
 firefox-more-more-and-more = Sempre plus del sensibile, preciose cosas in nostre vita es custodiate per contrasignos.
 firefox-more-avoid-misinformation-heading = Evitar le information errate online – { -brand-name-firefox } es hic pro adjutar
 firefox-more-avoid-misinformation-desc = Discoperi le suggestiones pro vider minus information errate e concentrar te sur lo que es importante pro te.
+firefox-more-is-firefox-a-private-browser = Es { -brand-name-firefox } un navigator private?

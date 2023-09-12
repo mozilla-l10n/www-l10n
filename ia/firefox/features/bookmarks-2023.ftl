@@ -22,3 +22,5 @@ bookmark-manager-you-can-import-your-bookmarks = Tu pote importar tu marcapagina
 bookmark-manager-image-of-the-firefox-import-wizard = Imagine del fenestra de dialogo del assistente de importation de { -brand-name-firefox }, monstrante optiones pro importar parametros e datos ab altere navigatores.
 bookmark-manager-bookmarks-toolbar = Barra del marcapaginas
 bookmark-manager-get-quick-access-to-your = Personalisa tu navigator { -brand-name-firefox }
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-firefox-showing-a-collection = Imagine de { -brand-name-firefox } monstrante un collection de marcapaginas in un barra del instrumentos al culmine del fenestra de navigator.
