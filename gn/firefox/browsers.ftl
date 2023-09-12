@@ -30,7 +30,7 @@ firefox-browsers-go-beyond-two-dimensions-and = Ehecha pukuve mokõi tendaguasú
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Emoheñói tenda ha emboha’eve nde ayvu { -brand-name-firefox } ndive <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Eikuaave { -brand-name-devtools } rehegua
-firefox-browsers-join-firefox-and-get-the-most = Eñemoirũ { -brand-name-firefox } ndive ha eipuru opaite ijapopyre — opavave ne mba’e’okápe.
+firefox-browsers-join-firefox-and-get-the-most = Eñemoirũ { -brand-name-firefox } ndive ha eiporu opaite ijapopyre — opavave ne mba’e’okápe.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

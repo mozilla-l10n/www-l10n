@@ -20,7 +20,7 @@ download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mo
 download-button-please-follow-these = Ejapomína <a href="{ $url }">ko’ã mba’e</a> emohendávo { -brand-name-firefox } mohendahápe.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = Nde apopyvusu ndoguerekopái <a href="{ $url }">tekotevẽmby</a> eipuru hag̃ua { -brand-name-firefox }.
+download-button-your-system-does-not = Nde apopyvusu ndoguerekopái <a href="{ $url }">tekotevẽmby</a> eiporu hag̃ua { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } ambue plataforma ha ñe’ẽme g̃uarã
 download-button-update-your-firefox = Embohekopyahu { -brand-name-firefox }
 download-button-get-firefox-android = Eguereko { -brand-name-firefox } { -brand-name-android } peg̃uarã
@@ -44,7 +44,7 @@ download-button-download = Mboguejy
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">ndojokupytyvéima</a> { $os_version }-pe ha umi itujavéva ndive.
-download-button-please-download-esr = Ikatúrõ, emboguejy { -brand-name-firefox-esr } (pytyvõha iñasãiva rehegua) eipuru hag̃ua { -brand-name-firefox }.
+download-button-please-download-esr = Ikatúrõ, emboguejy { -brand-name-firefox-esr } (pytyvõha iñasãiva rehegua) eiporu hag̃ua { -brand-name-firefox }.
 download-firefox-esr = Emboguejy { -brand-name-firefox-esr }
 download-firefox-esr-32 = Emboguejy { -brand-name-firefox-esr } 32-bits
 download-firefox-esr-64 = Emboguejy { -brand-name-firefox-esr } 64-bits

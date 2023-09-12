@@ -31,15 +31,15 @@ firefox-all-firefox-privacy-notice = { -brand-name-firefox } Marandu ñemigua
 firefox-all-learn-about-firefox = Eikuaáke { -brand-name-firefox } kundaha rehegua
 firefox-all-the-standard-firefox = { -brand-name-firefox } ypykue kundaha — ipya’e ha iñemi. Ndereikuaáirõ mba’e { -brand-name-firefox } eiporavóta, eiporavo kóva.
 firefox-all-get-a-sneak-peek-at = Ema’ẽ umi { -brand-name-firefox } kundaha ipyahuvéva rehe osẽ mboyve opavavépe g̃uarã.
-firefox-all-test-your-sites-against = Eipuru tenda emoñondivévo umi { -brand-name-firefox } kundaha osẽtava DevTools ndive, imbarete ha hekohu’ũva hendýva ijypykue rupi.
-firefox-all-count-on-stability-and = Ereko tekopyta ha ndahasýi ipuru ko { -brand-name-firefox } kundaha ndive heñóiva mba’apohaguasúpe g̃uarã.
+firefox-all-test-your-sites-against = Eiporu tenda emoñondivévo umi { -brand-name-firefox } kundaha osẽtava DevTools ndive, imbarete ha hekohu’ũva hendýva ijypykue rupi.
+firefox-all-count-on-stability-and = Ereko tekopyta ha ndahasýi iporu ko { -brand-name-firefox } kundaha ndive heñóiva mba’apohaguasúpe g̃uarã.
 firefox-all-windows-installers-for = Umi Windows ñemohendaha hetápe g̃uarãva nombohasýiva ñemboheko, ñemyasãi ha { -brand-name-firefox-browser } ñangareko.
 firefox-all-arm64-installers = ARM64/AArch64 ñemohenda
 firefox-all-arm64-installers-optimized = Mohendaha ARM64/AArch64 oikóva PCs { -brand-name-windows } peg̃uarã Snapdragon ndive.
 firefox-all-product-send-link = Emondo juajuha mboguejyrã ne pumbyrýpe
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Eiporavo ñemohendaha 32-bit ne mohendahápe g̃uarã orekóva procesador 32-bit térã mohendaha itujavévape g̃uarã térã ikangyvéva. <a href="{ $url }">Ndereikuaáiramo</a> eipurútapa 64-bit térã 32-bit, ro’e ndéve eipuru hag̃ua 32-bit.
+firefox-all-choose-a-32-bit-installer = Eiporavo ñemohendaha 32-bit ne mohendahápe g̃uarã orekóva procesador 32-bit térã mohendaha itujavévape g̃uarã térã ikangyvéva. <a href="{ $url }">Ndereikuaáiramo</a> eipurútapa 64-bit térã 32-bit, ro’e ndéve eiporu hag̃ua 32-bit.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux

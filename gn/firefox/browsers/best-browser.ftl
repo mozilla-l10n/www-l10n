@@ -33,7 +33,7 @@ best-browser-we-visit-hundreds-or = Ojeike hetaiterei ñanduti rendápe ára ha 
 best-browser-a-browser-that-minds = Kundaha oipytyvõva ne ñemuhape.
 best-browser-privacy-on-the-web = Ñemigua ñandutípe ha’e mba’e tuicháva. Pe ñemigua oĩ tenondete tysýipe, ehekava’erã kundaha hekoporãva. Eiporavóvo kundaha ñemigua iporãvéva ndéve g̃uarã, eporandu tapykueho pururekóre ha mba’éichapa pe kundaha omboguata mba’ekuaarã. Ko’ãva ha’e porandu aporekoguáva, hákatu upéicha rupi heta kundaha iñemive ambuégui.
 best-browser-trackers-are-all-those = Umi tapykuehoha ha’e “kookie” oporomyangekóiva og̃uahẽ tenda mba’yruveveguávape. Ko’ã tapykuehoha mbohapyháva oikuaa moõpa eikutúta ha ikatu oiporu ohesa’ỹjo hag̃ua nde reko. Peteĩ kundaha ñemigua orekova’erã poruhárape g̃uarã mba’éichapa ikatu oipe’a tapykuehohakuéra mbohapyháva, hákatu iporãveva’erã oipe’áramo ijehegui.
-best-browser-another-way-to-stop = Ambue mba’e emboyke hag̃ua tapykuehoha eipuruva’erã kundaha heko ñemíva. Oimeraẽva kundaha he’íva heko ñemiha ombojurujava’erã kundaha ñemiguáva.
+best-browser-another-way-to-stop = Ambue mba’e emboyke hag̃ua tapykuehoha eiporuva’erã kundaha heko ñemíva. Oimeraẽva kundaha he’íva heko ñemiha ombojurujava’erã kundaha ñemiguáva.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-one-easy-way-to-check = Ndahasýi ehechajeývo eike rire tetepy ñemboheko kuatiaroguépe ha kundaha remiñemi pururekópe. Pe ñanduti kuatiarogue ñemigua omoha’angava’erã ne mba’ekuaarã oñemoherakuã ha mba’érepa. Upévare <a href="{ $privacy }">{ -brand-name-firefox } ñemurã ñemigua</a> ndahasýi emoñe’ẽ ha ejuhu.
