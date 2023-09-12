@@ -3,8 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/pdf-editor/
+### URL: https://www-dev.allizom.org/firefox/features/private/
 
-# Short title used in the subnav
-pdf-editor-pdf-editor = Editor de files PDF
-pdf-editor-add-text = Adder texto
+features-private-is-firefox-a-private-browser = Es { -brand-name-firefox } un navigator private?
