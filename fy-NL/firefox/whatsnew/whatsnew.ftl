@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Wat is der nij yn { -brand-name-firefox }
+# Obsolete string
 whatsnew-page-title = Wat is der nij yn { -brand-name-firefox } – Mear privacy, mear beskerming.
 whatsnew-page-description = Kom yn aksje tsjin in yndustry dy’t jo gegevens oan oare partijen ferkeapet. Tûk en feilich online mei technology dy’t oan jo kant stiet.
 whatsnew-firefox = { -brand-name-firefox }
@@ -21,3 +23,4 @@ whatsnew-out-of-date-notification-v2 = Der is in noch nijere ferzje fan { -brand
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Lês de <a href="{ $url }">Ferzje-notysjes</a> foar mear ynformaasje oer wat der nij is yn jo { -brand-name-firefox }-browser.
+whatsnew-signoff = <strong>Mooglik makke troch { -brand-name-mozilla }.</strong> Minsken foar winst sûnt 1998.

@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Set it ynternet oer – streekrjoch
 # page description
 features-translate-translate-more-than = Set út mear as 100 talen streekrjocht yn jo { -brand-name-firefox-browser } oer nei jo eigen taal – ienfâldiger as ea.
 features-translate-translate-the-web = Set it ynternet oer mei { -brand-name-firefox }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = It ynternet oersette
 # Obsolete string
 features-translate-the-google-translate = De { -brand-name-google } Translate-útwreiding foar { -brand-name-firefox } makket it ynternet tagonklik foar de wrâld.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = De <a { $attrs }>{ -brand-name-firefox-translations }-útwreiding</a> kin automatysk ynhâld fan de websiden dy’t jo besykje oersette. Oars as guon cloud basearre alternativen, fertaalt dizze útwreiding tekst lokaal yn { -brand-name-firefox }, sadat de ynhâld dy’t jo oersette jo apparaat net ferlit.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Download { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate wurdt, mei mear as 100 talen* beskikber, brûkt troch miljoenen minsken wrâldwiid. Mar hin en wer springe tusken translate.google.com en de side dy’t jo probearje te lêzen is gjin ideale ûnderfining. De útwreiding <a { $attrs }>To { -brand-name-google } Translate</a> makket it oersetten fan de besochte side ienfâldiger as ea.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Gean nei { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = De útwreiding downloade

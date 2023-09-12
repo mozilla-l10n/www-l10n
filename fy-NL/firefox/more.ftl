@@ -11,7 +11,9 @@ learn-more-about = Lês mear oer { -brand-name-firefox }-browsers en -produkten 
 learn-more-faq = Faaks stelde fragen oer { -brand-name-firefox }
 the-history-of = De skiednis fan webbrowsers
 firefox-has-been = { -brand-name-firefox } is der sûnt hast it begjin.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: rebel mei in doel
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } is ûnôfhinklik en wurdt stipe troch de not-for-profitorganisaasje { -brand-name-mozilla }, dy’t foar jo online rjochten fjochtet en it ynternet foar elkenien en oeral tagonklik makket.
 what-is-a = Wat is in webbrowser?
 a-web-browser = In webbrowser bringt jo oeral op it ynternet, sadat jo oeral op de wrâld tekst, ôfbyldingen en fideo besjen kinne.
@@ -59,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: mear beskerming. Minder soarg
 were-obsessed-with = Wy binne obsedearre troch it beskermjen fan jo privacy. Dêrom hawwe wy Priveenavigaasje fan { -brand-name-firefox } krêftiger makke as de oare.
 incognito-browser-what = Incognitobrowser: Wat it echt betsjut
 firefox-calls-it = { -brand-name-firefox } neamt it priveenavigaasje, { -brand-name-chrome } neamt it de incognitomodus. Mei beide kinne jo op ynternet sneupe sûnder jo navigaasjeskiednis te bewarjen.
+# Obsolete string
 take-the-stress = Helje de stress út it sykjen nei in feilige browser.
+# Obsolete string
 building-a-safe = It bouwen fan in feilige browser is in keunst en in wittenskip, omdat der gjin fêste regels binne.
 firefox-more-fingerprinter-blocking = Blokkearjen fan fingerprinters
 firefox-more-fingerprinting-is-a = Fingerprinting is in soarte fan online folgjen dat mear ynvasyf is as gewoan op cookies basearre folgjen. Dêrom blokkearret { -brand-name-firefox-browser } it.
@@ -69,3 +73,5 @@ firefox-more-a-guide-to = In gids foar feiligere oanmeldingen en wachtwurden
 firefox-more-more-and-more = Hieltyd mear fan de gefoelige, weardefolle dingen yn ús libben wurde beskerme troch wachtwurden.
 firefox-more-avoid-misinformation-heading = Mij online misynformaasje – { -brand-name-firefox } is hjir om te helpen
 firefox-more-avoid-misinformation-desc = Besjoch tips om minder misynformaasje te sjen en te rjochtsjen op wat wichtich foar jo is.
+firefox-more-is-firefox-a-private-browser = Is { -brand-name-firefox } in priveebrowser?
+firefox-more-were-focused-on-your-right-to = Wy konsintrearje ús op jo rjocht op privacy. Jo gegevens, jo webaktiviteit en jo online libben wurde beskerme me { -brand-name-firefox }.

@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Picture-in-Picture: krij mear dien mei pop-outfideo’s
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Hawwe jo dingen te dwaan en dingen om te besjen? Doch it tagelyk mei Picture-in-Picture yn { -brand-name-firefox }.
+features-pip-picture-in-picture = Picture-in-Picture
 features-pip-new-feature-firefox-multi-picture = Nije funksje: { -brand-name-firefox } multi-Picture-in-Picture
 features-pip-cool-feature-picture-in-picture = Coole funksje: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Krij mear dien mei pop-outfideo’s

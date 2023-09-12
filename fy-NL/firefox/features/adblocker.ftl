@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Meitsje in trackerfrije sône mei ynh
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Yn { -brand-name-firefox } kinne jo de ynstellingen foar <a href="{ $privacy }">Privacy</a> of <a href="{ $blocking }">Ynhâldsblokkearring</a> brûke foar noch mear kontrôle oer adtrackers dy’t jo de advertinsjes sjen litte.
 features-adblocker-choose-your-level-of-protection = Kies jo beskermingsnivo
+features-adblocker-to-start-click-on-the-v2 = Klik om te begjinnen op it skyld links fan de adresbalke op in willekeurige webside en selektearje ‘Beskermingsynstellingen’. Dit iepenet it paniel Privacy & Befeiliging fan jo { -brand-name-firefox }-ynstellingen yn in nij ljepblêd. Jo soene in blau pop-upfinster sjen moatte mei ferskate seleksjes.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Klik om te begjinnen op it { -brand-name-firefox }-menu rjochts boppeyn jo skerm. Dit sjocht der út as trije op inoar steapele linen. Klik yn it dropdownmenu op Ynhâldsblokkearring. Jo soene no in blau pop-upskerm mei ferskate seleksjes sjen moatte.
 features-adblocker-go-easy-with-standard = Doch rêstich oan mei de modus Standert
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Sneup flugger mei tank oan adblockers
 features-adblocker-in-some-cases-an-ad-blocker = Yn guon gefallen kin in adblocker jo browser flugger gean litte. Wannear in advertinsje laden wurdt, dan kin dit in website fertraagje. Tagelyk duorret it langer om te finen wêr jo nei sochten as jo te drok binne mei sluten fan wer in advertinsje.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = As jo mear witte wolle oer advertinsjes blokkearje, dan binne der hûnderten adblocker-útwreidingen beskikber foar { -brand-name-firefox } en oare browsers. As jo de adblockers dy’t { -brand-name-firefox } brûkt probearje wolle, <a href="{ $url }">klik dan hjir om in browser dy’t privacy foarop stelt te downloaden</a>.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = As jo mear witte wolle oer advertinsjes blokkearje, dan binne der hûnderten adblocker-útwreidingen beskikber foar { -brand-name-firefox } en oare browsers. Al jo de adblockers dy’t { -brand-name-firefox } brûkt probearje wolle, <a href="{ $url }">klik dan hjir om in browser dy’t privacy foarop stelt te downloaden</a>.
-features-adblocker-take-control-of-your-browser = Nim de kontrôle oer jo browser.
