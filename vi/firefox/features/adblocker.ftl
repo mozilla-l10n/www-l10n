@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Tạo vùng không theo dõi với tr
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Trên { -brand-name-firefox }, bạn có thể sử dụng các cài đặt <a href="{ $privacy }">Riêng tư</a> hoặc <a href="{ $blocking }">Chặn nội dung</a> để có thêm quyền kiểm soát quảng cáo trình theo dõi hiện cho bạn quảng cáo.
 features-adblocker-choose-your-level-of-protection = Chọn mức độ bảo vệ của bạn
+features-adblocker-to-start-click-on-the-v2 = Để bắt đầu, hãy nhấp vào khiên ở bên trái thanh địa chỉ trên bất kỳ trang web nào và chọn “Cài đặt bảo vệ”. Thao tác này sẽ mở bảng điều khiển Cài đặt Riêng tư & Bảo mật { -brand-name-firefox } trong thẻ mới. Bạn sẽ thấy một cửa sổ bật lên màu xanh lam với các lựa chọn khác nhau.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Để bắt đầu, nhấp vào menu { -brand-name-firefox } ở góc trên bên phải màn hình của bạn. Có vẻ như ba dòng xếp chồng lên nhau. Trong menu thả xuống, nhấp vào Chặn nội dung. Bạn sẽ thấy một cửa sổ bật lên màu xanh với các lựa chọn khác nhau.
 features-adblocker-go-easy-with-standard = Dễ dàng với chế độ Tiêu chuẩn
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Tăng tốc nhờ trình chặn quả
 features-adblocker-in-some-cases-an-ad-blocker = Trong một số trường hợp, trình chặn quảng cáo có thể giúp trình duyệt của bạn chạy nhanh hơn. Khi một quảng cáo đang tải, nó có thể làm chậm một trang web. Đồng thời, sẽ mất nhiều thời gian hơn để tìm thấy những gì bạn đang tìm kiếm nếu bạn quá bận rộn khi đóng một quảng cáo khác.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Nếu bạn muốn tìm hiểu thêm về chặn quảng cáo, có hàng trăm tiện ích mở rộng trình chặn quảng cáo có sẵn cho { -brand-name-firefox } và các trình duyệt khác. Nếu bạn muốn dùng thử trình chặn quảng cáo mà { -brand-name-firefox } sử dụng, hãy <a href="{ $url }">nhấp vào đây để tải xuống</a> một trình duyệt đặt quyền riêng tư lên hàng đầu.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Nếu bạn muốn tìm hiểu thêm về chặn quảng cáo, có hàng trăm tiện ích mở rộng trình chặn quảng cáo có sẵn cho { -brand-name-firefox } và các trình duyệt khác. Nếu muốn dùng thử trình chặn quảng cáo mà { -brand-name-firefox } sử dụng, hãy <a href="{ $url }">nhấp vào đây để tải xuống</a> một trình duyệt đặt quyền riêng tư lên hàng đầu.
-features-adblocker-take-control-of-your-browser = Kiểm soát trình duyệt của bạn.

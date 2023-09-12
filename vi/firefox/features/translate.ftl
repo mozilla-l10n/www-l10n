@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Dịch trang web - trực tiếp tr
 # page description
 features-translate-translate-more-than = Dịch từ hơn 100 ngôn ngữ sang ngôn ngữ của bạn trực tiếp trong { -brand-name-firefox-browser } của bạn - dễ dàng hơn bao giờ hết.
 features-translate-translate-the-web = Dịch trang web với { -brand-name-firefox }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Dịch trang web
 # Obsolete string
 features-translate-the-google-translate = Tiện ích To { -brand-name-google } Translate dành cho { -brand-name-firefox } làm cho trang web có thể tiếp cận với mọi người dễ dàng hơn.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = <a { $attrs }>Tiện ích { -brand-name-firefox-translations }</a> có thể tự động dịch nội dung từ các trang web bạn truy cập. Không giống như một số lựa chọn thay thế dựa trên đám mây, tiện ích mở rộng này dịch văn bản cục bộ trong { -brand-name-firefox }, để nội dung bạn cần dịch không rời khỏi máy của bạn.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Tải xuống { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, với hơn 100 ngôn ngữ* đã sẵn sàng, được hàng triệu người trên thế giới sử dụng. Nhưng di chuyển qua lại giữa translate.google.com và trang bạn đang cố đọc không phải là trải nghiệm lý tưởng. Tiện ích <a { $attrs }>To { -brand-name-google } Translate</a> giúp việc dịch trang bạn đang truy cập dễ dàng hơn bao giờ hết.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Tải xuống To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Nhận tiện ích mở rộng

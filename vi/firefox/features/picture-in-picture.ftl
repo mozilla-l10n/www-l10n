@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = Hình trong hình trong { -brand-name-firefox }: Hoàn thành nhiều việc hơn với video bật ra
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Bạn có những việc cần làm và những việc cần xem? Thực hiện cả hai bằng cách sử dụng Hình trong hình trong { -brand-name-firefox }.
+features-pip-picture-in-picture = Hình trong hình
 features-pip-new-feature-firefox-multi-picture = Tính năng mới: Đa cửa sổ hình-trong-hình trong { -brand-name-firefox }
 features-pip-cool-feature-picture-in-picture = Tính năng thú vị: Hình trong hình
 features-pip-get-more-done-with-pop-out-videos = Hoàn thành nhiều việc hơn với video bật ra

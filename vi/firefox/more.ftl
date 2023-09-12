@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Tìm hiểu thêm về các trình duyệt và sản phẩm c
 learn-more-faq = Câu hỏi thường gặp về { -brand-name-firefox }
 the-history-of = Lịch sử của các trình duyệt web
 firefox-has-been = { -brand-name-firefox } đã ở đó gần như ngay từ đầu.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Nổi loạn với một lý do
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } độc lập và được hỗ trợ bởi tổ chức phi lợi nhuận { -brand-name-mozilla }, tổ chức đấu tranh vì quyền trực tuyến của bạn và giúp mọi người ở mọi nơi có thể truy cập Internet.
 what-is-a = Trình duyệt web là gì?
 a-web-browser = Trình duyệt web đưa bạn đến mọi nơi trên internet, cho phép bạn xem văn bản, hình ảnh và video từ mọi nơi trên thế giới.
@@ -21,8 +23,6 @@ firefox-is-more = { -brand-name-firefox } không chỉ là một trình duyệt
 its-a-lightning = Đó là cánh cửa nhanh như chớp dẫn đến trải nghiệm web tốt nhất.
 get-the-browsers = Nhận các trình duyệt đặt quyền riêng tư của bạn lên hàng đầu — và luôn có
 get-the-privacy = Nhận được sự riêng tư mà bạn xứng đáng. Trình chống theo dõi nâng cao làm cho quyền riêng tư tự động, mỗi khi bạn mở trình duyệt của mình.
-take-your-passwords = Mang mật khẩu của bạn đi khắp mọi nơi
-securely-access-the = Truy cập an toàn các mật khẩu mà bạn đã lưu trong { -brand-name-firefox } từ mọi nơi — ngay cả bên ngoài trình duyệt.
 choose-which-firefox = Chọn { -brand-name-firefox-browser } để tải xuống bằng ngôn ngữ của bạn
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } dành cho { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Mặc dù { -brand-name-chromebook } đã được cài đặt { -brand-name-chrome }, việc tải xuống và sử dụng { -brand-name-firefox } làm trình duyệt truy cập sẽ cung cấp cho bạn một số lợi ích
@@ -61,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: Bảo vệ nhiều hơn, lo l
 were-obsessed-with = Chúng tôi bị ám ảnh bởi việc bảo vệ sự riêng tư của bạn. Đó là lý do tại sao chúng tôi tạo ra chế độ duyệt web riêng tư { -brand-name-firefox } mạnh hơn các trình duyệt khác.
 incognito-browser-what = Trình duyệt ẩn danh: Ý nghĩa thực sự của nó
 firefox-calls-it = { -brand-name-firefox } gọi nó là duyệt web riêng tư, { -brand-name-chrome } gọi nó là chế độ ẩn danh. Cả hai đều cho phép bạn duyệt web mà không cần lưu lịch sử duyệt web của bạn.
+# Obsolete string
 take-the-stress = Đừng căng thẳng khi tìm kiếm một trình duyệt an toàn.
+# Obsolete string
 building-a-safe = Xây dựng một trình duyệt an toàn là một nghệ thuật và khoa học vì không có quy tắc nào được thiết lập.
 firefox-more-fingerprinter-blocking = Chặn dấu vết (Fingerprinter)
 firefox-more-fingerprinting-is-a = Dấu vết là một loại theo dõi trực tuyến xâm lấn hơn so với theo dõi dựa trên cookie thông thường — đó là lý do tại sao { -brand-name-firefox-browser } chặn nó.
@@ -71,3 +73,5 @@ firefox-more-a-guide-to = Hướng dẫn đăng nhập và mật khẩu an toàn
 firefox-more-more-and-more = Ngày càng có nhiều thứ nhạy cảm, có giá trị trong cuộc sống của chúng ta được bảo vệ bằng mật khẩu.
 firefox-more-avoid-misinformation-heading = Tránh thông tin sai lệch trực tuyến – { -brand-name-firefox } sẵn sàng trợ giúp
 firefox-more-avoid-misinformation-desc = Xem các mẹo để biết ít thông tin sai lệch hơn và tập trung vào những gì quan trọng đối với bạn.
+firefox-more-is-firefox-a-private-browser = { -brand-name-firefox } có phải là trình duyệt riêng tư?
+firefox-more-were-focused-on-your-right-to = Chúng tôi tập trung vào quyền riêng tư của bạn. Dữ liệu của bạn, hoạt động trên web của bạn, cuộc sống trực tuyến của bạn được bảo vệ với { -brand-name-firefox }.

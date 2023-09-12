@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = Dấu vân tay là gì và tại sao bạn nên chặn nó
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Dấu vân tay là một loại theo dõi trực tuyến xâm lấn hơn so với theo dõi dựa trên cookie thông thường — đó là lý do tại sao { -brand-name-firefox-browser } chặn nó.
+features-fingerprinting-fingerprint-blocking = Chặn dấu vết (Fingerprint)
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } chặn dấu vân tay
 features-fingerprinting-ditch-the-sticky = Loại bỏ những quảng cáo dính theo dõi bạn bằng trình chặn dấu vân tay tích hợp của trình duyệt { -brand-name-firefox }.
 # description for the header image
