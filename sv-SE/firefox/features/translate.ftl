@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Översätt webben - direkt i din we
 # page description
 features-translate-translate-more-than = Översätt från mer än 100 språk till ditt språk direkt i din { -brand-name-firefox-browser } - enklare än någonsin.
 features-translate-translate-the-web = Översätt webben med { -brand-name-firefox }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Översätt webben
 # Obsolete string
 features-translate-the-google-translate = Tillägget { -brand-name-google } Translate för { -brand-name-firefox } gör internet tillgängligt för hela världen.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations }-tillägget</a> kan automatiskt översätta innehåll från webbsidorna du besöker. Till skillnad från vissa molnbaserade alternativ översätter denna tillägg text lokalt i { -brand-name-firefox }, så att innehållet du översätter inte lämnar din dator.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Hämta { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate, med över 100 språk*, används av miljontals människor runt om i världen. Men att flytta fram och tillbaka mellan translate.google.com och sidan du försöker läsa är inte en perfekt upplevelse. Med tillägget <a { $attrs }>To { -brand-name-google } Translate</a> kan du översätta sidan du är på lättare än någonsin.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Gå till { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Hämta tillägget

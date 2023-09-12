@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Skapa en spårningsfri zon med inneh�
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = På { -brand-name-firefox } kan du använda inställningar för <a href="{ $privacy }">Sekretess</a> eller <a href="{ $blocking }">Innehållsblockering</a> för att få ännu mer kontroll över annonsspårare som visar annonserna.
 features-adblocker-choose-your-level-of-protection = Välj din skyddsnivå
+features-adblocker-to-start-click-on-the-v2 = För att börja, klicka på skölden till vänster om adressfältet på valfri webbsida och välj "Skyddsinställningar." Detta öppnar panelen { -brand-name-firefox } Inställningar Sekretess & säkerhet på en ny flik. Du bör se en blå popup med olika val.
+# Obsolete string
 features-adblocker-to-start-click-on-the = För att starta, klicka på { -brand-name-firefox }-menyn i det övre högra hörnet på skärmen. Det ser ut som tre rader staplade ovanpå varandra. Klicka på innehållsblockering i rullgardinsmenyn. Du bör se en blå pop-up med olika val.
 features-adblocker-go-easy-with-standard = Ta det lungt med standardläget
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Högre hastighet tack vare annonsbloc
 features-adblocker-in-some-cases-an-ad-blocker = I vissa fall kan en annonsblockerare hjälpa din webbläsare att gå snabbare. När en annons laddas kan den bromsa en webbplats. Samtidigt tar det längre tid att hitta det du letar efter om du är för upptagen med att stänga ännu en annons.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Om du vill lära dig mer om annonsblockering finns det hundratals annonsblockeringstillägg tillgängliga för { -brand-name-firefox } och andra webbläsare. Om du vill prova de annonsblockerare som { -brand-name-firefox } använder, <a href="{ $url }">klicka här för att ladda ner</a> en webbläsare som sätter integritet främst.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Om du vill lära dig mer om annonsblockering finns det hundratals tillägg för annonsblockering tillgängliga för { -brand-name-firefox } och andra webbläsare. Om du vill testa de annonsblockerare som { -brand-name-firefox } använder, <a href="{ $url }">klicka här för att ladda ner</a> en webbläsare som sätter integriteten först.
-features-adblocker-take-control-of-your-browser = Ta kontroll över din webbläsare.

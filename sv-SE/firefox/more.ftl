@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Läs mer om { -brand-name-firefox } webbläsare och produkter
 learn-more-faq = Vanliga frågor om { -brand-name-firefox }
 the-history-of = Webbläsarens historia
 firefox-has-been = { -brand-name-firefox } har nästan funnits sedan början.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: En rebell med en anledning
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } är oberoende och stöds av den ideella organisationen { -brand-name-mozilla }, som kämpar för dina online-rättigheter och gör internet tillgängligt för alla, överallt.
 what-is-a = Vad är en webbläsare?
 a-web-browser = En webbläsare tar dig var som helst på internet så att du kan se text, bilder och video var som helst i världen.
@@ -21,8 +23,6 @@ firefox-is-more = { -brand-name-firefox } är mer än en webbläsare
 its-a-lightning = Det är en blixtsnabb dörr till den bästa webbupplevelsen.
 get-the-browsers = Hämta webbläsarna som sätter din integritet först — och har alltid gjort det
 get-the-privacy = Få den integritet du förtjänar. Förbättrat spårningsskydd ger automatiskt integritet varje gång du öppnar din webbläsare.
-take-your-passwords = Ta med dina lösenord överallt
-securely-access-the = Få säkert åtkomst till lösenorden du har sparat i { -brand-name-firefox } var som helst — även utanför webbläsaren.
 choose-which-firefox = Välj vilken { -brand-name-firefox-browser } du vill ladda ner på ditt språk
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } för { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Eftersom en { -brand-name-chromebook } redan har installerat { -brand-name-chrome }, kan du hämta och använda { -brand-name-firefox } som din webbläsare ger dig några fördelar
@@ -61,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: Mer skydd. Mindre oro.
 were-obsessed-with = Vi är besatta att skydda din integritet. Det är därför vi har gjort { -brand-name-firefox }privat surfning kraftigare än andra.
 incognito-browser-what = Incognito-webbläsare: Vad det egentligen betyder
 firefox-calls-it = { -brand-name-firefox } kallar det privat surfning, { -brand-name-chrome } kallar det inkognitoläge. Båda låter dig surfa på nätet utan att spara din webbhistorik.
+# Obsolete string
 take-the-stress = Ta bort stressen att hitta en säker webbläsare.
+# Obsolete string
 building-a-safe = Att bygga en säker webbläsare är en konst och en vetenskap eftersom det inte finns några fastställda regler.
 firefox-more-fingerprinter-blocking = Blockering av fingeravtrycksspårare
 firefox-more-fingerprinting-is-a = Fingerprinting är en typ av onlinespårning som är mer invasiv än vanlig kakbaserad spårning — det är därför { -brand-name-firefox-browser } blockerar den.
@@ -71,3 +73,5 @@ firefox-more-a-guide-to = En guide till säkrare inloggningar och lösenord
 firefox-more-more-and-more = Fler och fler av de känsliga, värdefulla sakerna i vårt liv skyddas av lösenord.
 firefox-more-avoid-misinformation-heading = Undvik felinformation på nätet – { -brand-name-firefox } är här för att hjälpa dig
 firefox-more-avoid-misinformation-desc = Kolla in tips för att se mindre felinformation och fokusera på vad som är viktigt för dig.
+firefox-more-is-firefox-a-private-browser = Är { -brand-name-firefox } en privat webbläsare?
+firefox-more-were-focused-on-your-right-to = Vi fokuserar på din rätt till integritet. Din data, din webbaktivitet, ditt liv online skyddas med { -brand-name-firefox }.
