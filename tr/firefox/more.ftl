@@ -11,7 +11,9 @@ learn-more-about = Verilerinize saygı gösteren, internette gittiğiniz her yer
 learn-more-faq = { -brand-name-firefox } Hakkında SSS
 the-history-of = Web tarayıcılarının tarihi
 firefox-has-been = { -brand-name-firefox } neredeyse tarayıcı tarihinin başlangıcından beri var.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Asil değil, asi
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } bağımsız ve { -brand-name-mozilla } tarafından destekleniyor. { -brand-name-mozilla }, internetteki haklarınız için savaşan ve interneti her yerde herkes için erişilebilir kılan, kâr amacı gütmeyen bir kuruluş.
 what-is-a = Web tarayıcısı nedir?
 a-web-browser = Web tarayıcıları, internetin her yerine ulaşarak dünyanın dört bir yanından gelen metinleri, resimleri ve videoları görmenizi sağlar.
@@ -59,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: Daha fazla koruma, daha az de
 were-obsessed-with = Gizliliğini korumaya kafayı taktık. O yüzden { -brand-name-firefox }’un Gizli Gezinti özelliğini tüm rakiplerimizden daha güçlü hale getirdik.
 incognito-browser-what = Gizli tarayıcı: Gerçekte ne anlama geliyor?
 firefox-calls-it = { -brand-name-firefox }’ta gizli gezinti, { -brand-name-chrome }’da gizli mod. Her ikisi de gezinti geçmişinizi kaydetmeden web'de dolaşmanızı sağlıyor.
+# Obsolete string
 take-the-stress = Güvenli bir tarayıcı aramanın stresinden kurtulun.
+# Obsolete string
 building-a-safe = Güvenli bir tarayıcı yapmanın belli kuralları yok. Biz bunu hem sanat hem de bilim olarak görüyoruz.
 firefox-more-fingerprinter-blocking = Parmak izi toplayıcı engelleme
 firefox-more-fingerprinting-is-a = Parmak izi toplama, sıradan çerez tabanlı izlemeden daha istilacı bir çevrimiçi izleme türü. Neyse ki { -brand-name-firefox-browser } bunları engelliyor.
@@ -69,3 +73,4 @@ firefox-more-a-guide-to = Daha güvenli hesaplar ve parolalar için bir kılavuz
 firefox-more-more-and-more = Hayatımızdaki hassas ve değerli şeylerin çoğu parolalarla korunuyor.
 firefox-more-avoid-misinformation-heading = İnternette dezenformasyondan kaçının: { -brand-name-firefox } yanınızda
 firefox-more-avoid-misinformation-desc = Daha az dezefenformasyon görmek ve sizin için önemli olan şeylere odaklanmak için ipuçlarımıza göz atın.
+firefox-more-is-firefox-a-private-browser = { -brand-name-firefox } gizlilik odaklı bir tarayıcı mı?

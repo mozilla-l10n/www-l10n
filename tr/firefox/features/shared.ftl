@@ -5,18 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = Daha iyi bir internet deneyimi
-features-shared-more-firefox-features = Diğer { -brand-name-firefox } tarayıcı özellikleri
-features-shared-browse-faster = Daha hızlı gezinti
-features-shared-your-favorite-extensions = En sevdiğiniz eklentiler
-features-shared-balanced-memory = Dengeli bellek tüketimi
-features-shared-more-powerful-private-browsing = Daha güçlü Gizli Gezinti
-features-shared-ad-tracker-blocking = Reklam takip kodlarını engelleme
-features-shared-password-manager = Parola yöneticisi
-features-shared-customize-your-browser = Tarayıcınızı özelleştirin
-features-shared-sync-between-devices = Farklı cihazları eşitleyin
-features-shared-better-bookmarks = Daha iyi yer imleri
+features-shared-firefox-features = { -brand-name-firefox } Özellikleri
+features-shared-footer-cta-title = { -brand-name-firefox } ile daha fazlasını yapın
+features-shared-footer-cta-button = { -brand-name-firefox }’u indir
+features-shared-is-firefox-a-fast-browser = { -brand-name-firefox } hızlı bir tarayıcı mı?
+features-shared-is-firefox-a-private-browser = { -brand-name-firefox } gizlilik odaklı bir tarayıcı mı?
+features-shared-free-password-manager = Parola yöneticisi
+features-shared-customize-your-firefox-browser = { -brand-name-firefox } tarayıcınızı özelleştirin
+features-shared-bookmark-manager = Yer imi yöneticisi
+features-shared-private-browsing-mode = Gizli gezinti modu
+features-shared-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } eklentileri ve tarayıcı uzantıları
+features-shared-pinned-browser-tabs = Sabitlenmiş tarayıcı sekmeleri
+features-shared-eyedropper-tool = Damlalık aracı
+features-shared-pdf-editor = PDF düzenleyicisi
 features-shared-fingerprinter-blocking = Parmak izi toplayıcı engelleme
 features-shared-translate-the-web = Web’i çevirin
 features-shared-picture-in-picture = Görüntü içinde görüntü
-brand-name-firefox = { -brand-name-firefox }

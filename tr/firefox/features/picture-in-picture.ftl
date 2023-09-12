@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } görüntü içinde görüntü: Sayfadan ayrılan videolarla hayatınız kolaylaştırın
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Hem yapmanız gereken işler hem de izlemek istediğiniz şeyler mi var? { -brand-name-firefox }’ta görüntü içinde görüntü ile ikisini birden yapın.
+features-pip-picture-in-picture = Görüntü içinde görüntü
 features-pip-new-feature-firefox-multi-picture = Yeni özellik: { -brand-name-firefox } çoklu görüntü içinde görüntü
 features-pip-cool-feature-picture-in-picture = Harika özellik: Görüntü içinde görüntü
 features-pip-get-more-done-with-pop-out-videos = Açılır videolarla daha fazlasını yapın

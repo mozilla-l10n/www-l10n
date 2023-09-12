@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = { -brand-name-firefox }’taki yenilikler
+# Obsolete string
 whatsnew-page-title = { -brand-name-firefox } ile ilgili yenilikler: Daha fazla gizlilik, daha fazla koruma.
 whatsnew-page-description = Verilerinizi üçüncü taraflara satan bir sektörün karşısında durun. Sizin adınıza savaşan bir teknoloji sayesinde internette akıllıca ve güvenle dolaşın.
 whatsnew-firefox = { -brand-name-firefox }
