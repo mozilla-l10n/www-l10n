@@ -14,4 +14,4 @@ features-add-ons-extensions-also-known-as-add-ons = 您可以下載安裝擴充�
 #   $language (url) - link to https://addons.mozilla.org/firefox/addon/languagetool/
 #   $customize (url) - link to https://www.mozilla.org/firefox/features/customize/
 #   $amo (url) - link to https://addons.mozilla.org
-features-add-ons-there-are-firefox-add-ons-that = 有一些 { -brand-name-firefox } 附加元件可<a { $fbcontainer }>防止 Facebook 在網路上追蹤您</a、<a { $translate }>將文字翻譯成其他語言</a>、<a { $language }>檢查拼字或文法</a>或<a { $customize }>修改瀏覽器的外觀</a>。您可以在 <a { $amo }>addons.mozilla.org</a> 找到這些以及其他數以千計的免費擴充套件。
+features-add-ons-there-are-firefox-add-ons-that = 有一些 { -brand-name-firefox } 附加元件可<a { $fbcontainer }>防止 Facebook 在網路上追蹤您</a、<a { $translate }>將文字翻譯成其他語言</a>、<a { $language }>檢查拼字或文法</a>或<a { $customize }>修改瀏覽器的外觀</a>。您可以在<a { $amo }>addons.mozilla.org</a> 找到這些以及其他數以千計的免費擴充套件。
