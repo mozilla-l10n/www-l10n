@@ -9,3 +9,6 @@ features-fast-is-firefox-the-fastest-browser = { -brand-name-firefox } en hızl�
 # HTML description
 features-fast-firefox-uses-less-memory-than = { -brand-name-firefox } Chrome’dan daha az bellek tüketir, böylece diğer programlarınız da daha hızlı çalışabilir.
 features-fast-browse-faster = Daha hızlı gezinti
+features-fast-faster-gaming = Daha hızlı oyunlar
+# Native speed refers to operating speed for games written for platforms such as macOS or Windows.
+features-fast-we-led-the-tech-to-run-3d-games = 3B oyunları doğala yakın hızlarda çalıştıran teknolojiye öncülük etmiştik. { -brand-name-firefox } şimdi online oyunların performansını daha da artırıyor. Güçlü tarayıcımız lag ve ping sürelerini azaltıyor, genel oyun deneyimini daha da iyileştiriyor.

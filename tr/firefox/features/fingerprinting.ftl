@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = Parmak izi toplama nedir ve neden engellemelisiniz?
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Parmak izi toplama, sıradan çerez tabanlı izlemeden daha istilacı bir çevrimiçi izleme türüdür. Bu nedenle { -brand-name-firefox-browser } bunu engeller.
+features-fingerprinting-fingerprint-blocking = Parmak izi engelleme
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox }, parmak izi toplamayı engeller
 features-fingerprinting-ditch-the-sticky = { -brand-name-firefox } tarayıcısının yerleşik parmak izi engelleyicileri ile sizi takip eden yapışkan reklamlardan kurtulun.
 # description for the header image
