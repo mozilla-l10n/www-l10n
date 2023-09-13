@@ -48,6 +48,9 @@ monitor-faq-what-is-a-data-breach-answer = Een datalek vindt plaats wanneer pers
 monitor-faq-what-do-i-do-question = Ik kwam er net achter dat ik in een datalek voor kom. Wat moet ik doen?
 monitor-faq-what-do-i-do-answer = Bezoek { -brand-name-mozilla-monitor } voor info over wat u moet doen na een datalek en voor begeleide stappen om de openbaarmaking van uw persoonlijke gegevens op te lossen. Hackers zijn ervan afhankelijk dat mensen wachtwoorden hergebruiken, dus het is belangrijk om sterke, unieke wachtwoorden voor al uw accounts te maken. Bewaar uw wachtwoorden op een veilige plaats waar alleen u toegang toe hebt; dit kan dezelfde plaats zijn waar u belangrijke documenten opslaat of een wachtwoordenbeheerder.
 monitor-faq-what-gets-exposed-question = Welke gegevens worden gelekt bij datalekken?
+monitor-faq-whats-gets-exposed-answer = Niet alle lekken onthullen allemaal dezelfde informatie. Het hangt er maar vanaf waar hackers toegang toe hebben. Veel datalekken onthullen e-mailadressen en wachtwoorden. Andere geven meer gevoelige informatie vrij, zoals creditcardnummers, paspoortnummers en burgerservicenummers.
 
 ##
 
+monitor-take-back-control = Neem uw gegevens weer onder controle.
+monitor-breach-data-provided-by = Datalekgegevens verstrekt door <strong>Have I Been Pwned</strong>
