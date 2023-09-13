@@ -15,13 +15,13 @@ monitor-hero-tagline = ჩვენ ვამოწმებთ, ხომ ა�
 ## Get free scan form
 
 monitor-form-enter-email-to-scan = შეიყვანეთ ელფოსტა გადასამოწმებლად
-monitor-form-get-free-scan = ისარგებლეთ უფასო შემოწმებით
+monitor-form-get-free-scan = შეამოწმეთ უფასოდ
 monitor-form-enter-your-email-address = მიუთითეთ თქვენი ელფოსტის მისამართი გამოვლენილ მიტაცებულ მონაცემებში გადასამოწმებლად.
 
 ##
 
 monitor-data-breaches-happen-every = <strong>მონაცემებს იტაცებენ</strong> ყოველ 11 წუთში, შედეგად მჟღავნდება თქვენი პირადი ინფორმაცია — მაგრამ ნუ იღელვებთ, ჩვენ დაგეხმარებით.
-monitor-help-fix-exposures = დაგეხმარებით გამჟღავნების შედეგების აღმოფხვრაში
+monitor-help-fix-exposures = მოგეხმარებით გამჟღავნების შედეგების აღმოფხვრაში
 # Variables:
 #   $privacy (url) - https://www.mozilla.org/privacy/
 monitor-our-mission-is = ჩვენი მიზანია, დაგიბრუნოთ თქვენი პირადი მონაცემების მართვის სადავეები. დაგეხმარებით მიტაცებულის დაბრუნებასა და პირადი მონაცემების დაცვაში — ამავდროულად <a href="{ $privacy }">ვითვალისწინებთ თქვენი პირადულობის</a> ხელშეუხებლობას.
