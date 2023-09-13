@@ -8,10 +8,10 @@
 # page title
 bookmark-manager-bookmark-manager = სანიშნების მმართველი
 # HTML page description
-bookmark-manager-organize-your-bookmarks-with = დაალაგეთ თქვენი სანიშნეები საქაღალდეებითა და ჭდეებით.
+bookmark-manager-organize-your-bookmarks-with = დაალაგეთ თქვენი სანიშნები საქაღალდეებითა და ჭდეებით.
 # Variables:
 #   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
-bookmark-manager-bookmarks-are-links-you-save = სანიშნები არის ბმულები, რომელთაც ინახავთ ბრაუზერში, ასე რომ სწრაფად და მარტივად შეგეძლებათ დაუბრუნდეთ ინტერნეტში სასურველ ადგილებს. { -brand-name-firefox } აღჭურვილია სანიშნების მოსახერხებელ სამართავთან, რომლის მეშვეობითაც შეგიძლიათ დაალაგოთ, მოძებნოთ, განაახლოთ და <a { $sync }>ყველა ბმული დაასინქრონოთ ყველა მოწყობილობაზე</a>.
+bookmark-manager-bookmarks-are-links-you-save = სანიშნები არის ბმულები, რომელთაც ინახავთ ბრაუზერში, რომ სწრაფად და მარტივად შეგეძლოთ დაუბრუნდეთ რჩეულ გვერდებს ვებსივრცეში. { -brand-name-firefox } აღჭურვილია სანიშნების მოსახერხებელი სამართავით, რომლის მეშვეობითაც შეგიძლიათ დაალაგოთ, მოძებნოთ, განაახლოთ და <a { $sync }>დაასინქრონოთ ყველა შენახული ბმული თქვენს თითოეულ მოწყობილობაზე</a>.
 bookmark-manager-organize-your-boomarks-into = დაალაგეთ თქვენი სანიშნები საძიებო საქაღალდეებში
 bookmark-manager-collect-your-bookmarks-in-folders = შეკრიბეთ თქვენი სანიშნეები საქაღალდეებში და მონიშნეთ დამატებითი მონაცემებით. თქვენ ასევე შეგიძლიათ დაალაგოთ თქვენი სანიშნები, სწრაფად მოიძიოთ საჭიროები.
 # Used as an accessible text alternative for an image
