@@ -14,4 +14,4 @@ features-add-ons-extensions-also-known-as-add-ons = Extensies – ook bekend als
 #   $language (url) - link to https://addons.mozilla.org/firefox/addon/languagetool/
 #   $customize (url) - link to https://www.mozilla.org/firefox/features/customize/
 #   $amo (url) - link to https://addons.mozilla.org
-features-add-ons-there-are-firefox-add-ons-that = Er zijn { -brand-name-firefox }-add-ons die <a { $fbcontainer }>voorkomen dat Facebook u volgt op internet</a>, <a { $translate }>tekst in andere talen vertalen</a> , <a { $taal }>uw spelling of grammatica controleren</a>, of <a { $customize }>het uiterlijk van uw browser aanpassen</a>. U vindt deze en duizenden andere gratis extensies op <a { $amo }>addons.mozilla.org</a>.
+features-add-ons-there-are-firefox-add-ons-that = Er zijn { -brand-name-firefox }-add-ons die <a { $fbcontainer }>voorkomen dat Facebook u volgt op internet</a>, <a { $translate }>tekst in andere talen vertalen</a> , <a { $language }>uw spelling of grammatica controleren</a>, of <a { $customize }>het uiterlijk van uw browser aanpassen</a>. U vindt deze en duizenden andere gratis extensies op <a { $amo }>addons.mozilla.org</a>.
