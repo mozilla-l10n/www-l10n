@@ -12,7 +12,7 @@ data-preferences-notification-opt-in = Tu optava pro le re-compilation del datos
 # Variables:
 #   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
 #   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
-data-preferences-your-privacy = Tu confidentialitate es multo importante pro { -brand-name-mozilla }. Nostre platteforma proprietari de telemetria e analyse datos, appellate <a href="{ $glean }">{ -brand-name-glean }</a>, seque nostre proprie alte standardos de <a href="{ $lean_data }">practicas del datos magre</a>.
+data-preferences-your-privacy = Tu confidentialitate es multo importante pro { -brand-name-mozilla }. Nostre platteforma proprietari de telemetria e analyse datos, appellate <a href="{ $glean }">{ -brand-name-glean }</a>, seque nostre proprie alte standards de <a href="{ $lean_data }">practicas del datos magre</a>.
 # Variables:
 #   $dictionary (url) - link to https://dictionary.telemetry.mozilla.org/
 #   $privacy_notice (url) - link to https://www.mozilla.org/privacy/websites/
