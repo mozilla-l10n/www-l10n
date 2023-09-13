@@ -17,7 +17,7 @@ about-this-site-this-website = Pe ñanduti renda www.mozilla.org ojepuru ojapóm
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-about-this-site-today = Ko árape, kóva tenda tapichakuéra oikeha omboguejy hag̃ua <a href="{ $firefox }">{ -brand-name-firefox }</a>, eipuru <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> ha eikuaave <a href="{ $mozilla }"> rehegua { -brand-name-mozilla }</a>. Ikatu avei ejuhu heta <a href="{ $book }">Pascua rupi’a</a> tape pukukue.
+about-this-site-today = Ko árape, kóva tenda tapichakuéra oikeha omboguejy hag̃ua <a href="{ $firefox }">{ -brand-name-firefox }</a>, eiporu <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> ha eikuaave <a href="{ $mozilla }"> rehegua { -brand-name-mozilla }</a>. Ikatu avei ejuhu heta <a href="{ $book }">Pascua rupi’a</a> tape pukukue.
 about-this-site-like-many = Heta ore rembiapokuéicha, ko ñanduti renda avei ijayvu juruja:
 about-this-site-view-source = Ehecha ayvu reñoiha { -brand-name-github }-pe
 about-this-site-report-a-bug = Emomarandu jejavy

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
@@ -8,7 +8,7 @@
 # HTML page title
 page7-make-it-harder-for-facebook = Aníke eheja { -brand-name-facebook } nde rapykueho
 page7-its-okay-to-like-facebook = Che ahayhukua { -brand-name-facebook }
-page7-if-you-still-kinda-like-facebook = Eipurusérõ gueteri { -brand-name-facebook } ha nderegueroviái chupekuéra, upevarã eipuru { -brand-name-facebook-container } { -brand-name-firefox } mba’éva jepysokue ha hasyvéta rejehapykueho hag̃ua.
+page7-if-you-still-kinda-like-facebook = Eiporusérõ gueteri { -brand-name-facebook } ha nderegueroviái chupekuéra, upevarã eiporu { -brand-name-facebook-container } { -brand-name-firefox } mba’éva jepysokue ha hasyvéta rejehapykueho hag̃ua.
 page7-get-facebook-container = Ereko { -brand-name-facebook-container }
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 page7-do-it-for-the-gram = Ejapo ’Gramo rehe

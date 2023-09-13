@@ -25,7 +25,7 @@ faq-question-missing-emails-answer-reason-delay = Ikatu { -brand-name-relay } hi
 #   $attrs (string) - specific attributes added to external links
 faq-question-missing-emails-answer-support-site-html = Neapañuãiramo, ikatuhína <a href="{ $url }" { $attrs }>eike ore pytyvõha rendápe</a>.
 faq-question-use-cases-question-2 = Araka’épa reipurúta { -brand-name-relay } rovamo’ãha
-faq-question-use-cases-answer-part1-2 = Eipurukuaa { -brand-name-relay } rovamo’ãha heta tenda eipurumemehápe ne ñanduti vevete. Romoakãraku eipurúvo eñemboheraguapývo marketing/información ñanduti vevépe, ha péicha ehecháta og̃uahẽpa térã nahániri ñanduti veve tenondeve gotyo.
+faq-question-use-cases-answer-part1-2 = Eiporukuaa { -brand-name-relay } rovamo’ãha heta tenda eiporumemehápe ne ñanduti vevete. Romoakãraku eipurúvo eñemboheraguapývo marketing/información ñanduti vevépe, ha péicha ehecháta og̃uahẽpa térã nahániri ñanduti veve tenondeve gotyo.
 faq-question-2-question-2 = Mba’érepa tenda nomoneĩmo’ãi { -brand-name-relay } ñandutiveve rovamo’ãha
 # Variables:
 #   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
@@ -37,7 +37,7 @@ faq-question-availability-question = Moõpa reiporukuaa { -brand-name-relay }
 faq-question-4-question-2 = Ambohovaikuaápa ñe’ẽmondo aipurúvo { -brand-name-relay } ñanduti veve rovamo’ãha
 faq-question-subdomain-characters-question = Mba’e taípa aiporukuaa amoheñói hag̃ua tendatee’i
 faq-question-subdomain-characters-answer-v2 = Eiporukuaa tai inglés michĩva rehegua añoite, papapy ha taiky emoheñói hag̃ua tendatee’i.
-faq-question-browser-support-question = Aipurukuaápa { -brand-name-relay } ambue kundahára térã che pumbyrýpe
+faq-question-browser-support-question = Aiporukuaápa { -brand-name-relay } ambue kundahára térã che pumbyrýpe
 faq-question-browser-support-answer-2 = Hẽe, emoheñoikuaa { -brand-name-relay } rovamo’ãha ambue kundahára térã pumbyry mba’e’okápe emoñepyrũvo tembiapo  nde { -brand-name-relay } rupápe.
 faq-question-longevity-question = Mba’épa oiko { -brand-name-mozilla } ombotýramo { -brand-name-firefox-relay } mba’epuru
 faq-question-longevity-answer-2 = Romomarandúta eikotevẽtaramo emoambue ñanduti veve kundaharape oimeraẽva mba’ete oiporúva { -brand-name-relay } ñanduti veve rovamo’ãha.
@@ -50,7 +50,7 @@ faq-question-unsubscribe-domain-question-2 = Mba’épa oikóta tendatee’i mbo
 faq-question-8-question = Mba’e mba’ekuaarãpa ombyaty { -brand-name-firefox-relay }
 faq-question-email-storage-question = ¿{ -brand-name-relay } ombyaty che ñanduti veve?
 faq-question-email-storage-answer = Peichahágui ndoikói mba’éramo ore mba’epuru, rombyatykuaa sapy’ami ne ñanduti veve romondokuaajey peve. Araka’eve norombyatymo’ãi hetave mbohapy áragui.
-faq-question-acceptable-use-question = Mba’épa jeipuru { -brand-name-relay } omoneĩva
+faq-question-acceptable-use-question = Mba’épa jeiporu { -brand-name-relay } omoneĩva
 faq-question-acceptable-use-answer-measure-account = Reikotevẽ { -brand-name-firefox-account } ñanduti veve kundaharape ojehechajeýva reheve
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Emoheñóivo po tovamo’ãha ehepyme’ẽmava’erã
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Mboy tovamo’ãha pevépa emoheñoikuaa peteĩ ára pukukue
@@ -101,7 +101,7 @@ phone-masking-faq-answer-disable-logging = Añete, ikatu eipe’a papapy mbohera
 phone-masking-faq-question-can-i-share = Amoherãkuãkuaápa pe papapy omboujeýva ñe’ẽmondo
 phone-masking-faq-answer-can-i-share = Emoherakuãrõ ko papapy, ndoikomo’ãi mba’eve; ko papapy ndaha’éi ne pumbyry papapy rovamo’ãha. Ha’e nde papapy eñe’ẽha { -brand-name-relay } oiporúva omondojey hag̃ua ñe’ẽmondo ha nehenói.
 phone-masking-faq-question-how-i-save-card = Mba’éichapa añongatúta { -brand-name-relay } kuatia’atã ñe’ẽkuaarã
-phone-masking-faq-question-install-app = Amohendátapa tembiporu’i aipuru hag̃ua { -brand-name-relay } pumbyry rovamo’ãha
+phone-masking-faq-question-install-app = Amohendátapa tembiporu’i aiporu hag̃ua { -brand-name-relay } pumbyry rovamo’ãha
 phone-masking-faq-answer-install-app = Nahániri, { -brand-name-relay } pumbyry rovamo’ãha oiko tembiporu’i ñehenoirã ha ñe’ẽmondo ypyguáva ne mba’e’okápe.
 phone-masking-faq-question-data = Mba’eichagua mba’ekuaarãpa ombyaty { -brand-name-relay } pumbyry rovamo’ãha
 #   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/

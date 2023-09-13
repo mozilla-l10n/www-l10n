@@ -12,7 +12,7 @@ plan-matrix-title = Tepy
 plan-matrix-offer-title = Eiporavo pe ñemo’ã oikoporãvétava ndéve
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } omo’ã nde reratee ha ñe’ẽmondo g̃uahẽha ñanduti veve rovamo’ãha ndive. Embojuaju tekorosãve { -brand-name-relay } pumbyry rovamo’ãha ndive ha eipuru’ive { $savings }% embojuajúvo { -brand-name-mozilla-vpn } ñemo’ã.
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } omo’ã nde reratee ha ñe’ẽmondo g̃uahẽha ñanduti veve rovamo’ãha ndive. Embojuaju tekorosãve { -brand-name-relay } pumbyry rovamo’ãha ndive ha eiporu’ive { $savings }% embojuajúvo { -brand-name-mozilla-vpn } ñemo’ã.
 
 ## Top Row Labels
 
@@ -27,7 +27,7 @@ plan-matrix-heading-plan-bundle-v2 = Embojuaju ñemo’ã VPN ndive
 ## Feature Breakdowns
 
 plan-matrix-feature-email-masks = Ñanduti veve rovamo’ãha emo’ã hag̃ua ne ñanduti vevete
-plan-matrix-feature-browser-extension = Kundahára jepysokue eipuru hag̃ua { -brand-name-relay } oimehápe
+plan-matrix-feature-browser-extension = Kundahára jepysokue eiporu hag̃ua { -brand-name-relay } oimehápe
 plan-matrix-feature-email-tracker-removal = Embogue ñanduti veve rapykuehoha
 plan-matrix-feature-promo-email-blocking = Ejoko ñanduti veve jopoigua
 plan-matrix-feature-email-subdomain = Ñanduti veve rendatee { -brand-name-relay } emoheñói hag̃ua tovamo’ãha pya’e

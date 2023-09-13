@@ -7,4 +7,4 @@
 
 vpn-desktop-vpn-for-pc = VPN { -brand-name-mozilla } rehegua mohendaha mesa arigua térã okuévape g̃uarã
 vpn-desktop-how-does-a = Mba’éichapa omo’ã VPN che mohendaha okuéva térã mesa arigua
-vpn-desktop-there-are-several = Heta mba’e rupi eipuruva’erã VPN eñemo’ã hag̃ua eipuru vove mohendaha’i térã mohendaha mesa arigua:
+vpn-desktop-there-are-several = Heta mba’e rupi eiporuva’erã VPN eñemo’ã hag̃ua eiporu vove mohendaha’i térã mohendaha mesa arigua:

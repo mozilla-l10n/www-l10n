@@ -6,13 +6,13 @@
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
-meta-description-2 = { -brand-name-firefox-relay } oipytyvõ heñói hag̃ua ñanduti veve rovamo’ãha oujeýva ne ñe’ẽmondo g̃uahẽhápe. Eipuru emo’ã hag̃ua ne mba’ete eikundahávo mba’evaiapoha rovake ha ñe’ẽmondo eipota’ỹva.
+meta-description-2 = { -brand-name-firefox-relay } oipytyvõ heñói hag̃ua ñanduti veve rovamo’ãha oujeýva ne ñe’ẽmondo g̃uahẽhápe. Eiporu emo’ã hag̃ua ne mba’ete eikundahávo mba’evaiapoha rovake ha ñe’ẽmondo eipota’ỹva.
 
 ## HERO SECTION
 
 hero-section-title = Emo’ã nde reratee tovamo’ãha ñanduti veve ha pumbyry hekorosãva ndive
 hero-section-body =
-    Ore pumbyry rovamo’ãha ha ñanduti veve hekorosã ha hasy’ỹva ipuru oipytyvõ nde reratee erekóvo ñemíme
+    Ore pumbyry rovamo’ãha ha ñanduti veve hekorosã ha hasy’ỹva iporu oipytyvõ nde reratee erekóvo ñemíme
     ikatu hag̃ua eñemboheraguapy mba’ete pyahúpe, ejokóvo ñehenói ha ñe’ẽmondo eipota’ỹva, ha
     og̃uahẽ ñanduti veve eipotávante ne ñanduti veve g̃uahẽhápe.
 # Context: This lists the various websites and magazines who have mentioned Firefox Relay.
@@ -22,8 +22,8 @@ hero-section-social-proof = Ojehechaháicha:
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Mba’éichapa oku’e { -brand-name-relay } ñanduti veve rovamo’ãha ha pumbyry
-how-it-works-section-extension-headline = Eipuru { -brand-name-relay } ñanduti veve rovamo’ãha ha pumbyry rovamo’ãha oimehápe
-how-it-works-section-extension-body = Ereko ñanduti veve rovamo’ãha hekorosã has ijereguáva ha pumbyry papapy hovañemo’ãva eipuru hag̃ua ñanduti renda, tembiporu’i, ñemuha térã jekaruha ojerurévo marandu.
+how-it-works-section-extension-headline = Eiporu { -brand-name-relay } ñanduti veve rovamo’ãha ha pumbyry rovamo’ãha oimehápe
+how-it-works-section-extension-body = Ereko ñanduti veve rovamo’ãha hekorosã has ijereguáva ha pumbyry papapy hovañemo’ãva eiporu hag̃ua ñanduti renda, tembiporu’i, ñemuha térã jekaruha ojerurévo marandu.
 how-it-works-section-forward-headline = Romondojey ñanduti veve, pumbyry ñehenói ha ñe’ẽmondo
 how-it-works-section-forward-body = Ehecháta mba’embouha ndoikuaamo’ãiha ne ñanduti veve kundaharenda térã nde papapyete. Avei embohovaikuaa ñe’ẽmondo ha ñanduti veve emoherakuã’ỹre nde reraite.
 how-it-works-section-manage-headline = Eñangareko nde rovamo’ãháre nde { -brand-name-relay } rupa guive

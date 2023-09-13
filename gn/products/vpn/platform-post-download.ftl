@@ -41,7 +41,7 @@ vpn-pick-a-recommended = Eiporavo tendatee jeroviaha jeike pya’erã ha hekopyt
 
 vpn-download-faq-need-help = Eikotevẽpa ñepytyvõ eñepyrũ hag̃ua
 vpn-download-faq-here-are-some = Ko’ãvahína umi mba’e oñeporanduvéva { -brand-name-mozilla-vpn } ñemboheko rehegua
-vpn-download-faq-why-use = Mba’érepa eipuruva’erã { -brand-name-mozilla-vpn }
+vpn-download-faq-why-use = Mba’érepa eiporuva’erã { -brand-name-mozilla-vpn }
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 vpn-download-faq-as-more-daily = Ko’ẽreíre hetave mba’e ojejapo ñanduti ñeikundahápe, tekoñemi ha tekorosã ñandutípe ha’e umi mba’e ojehecharamovéva. Peteĩ VPN, <a href="{ $faq }">Ñanduti mba’eñemiguáva</a>, omoheñói peteĩ tape ipapapýva ne mba’e’oka ha ñanduti pa’ũme, nde jeike hekorosã ha hekoñemívo nde rekomo’ã aja mokõi hendáicha:

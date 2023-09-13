@@ -18,7 +18,7 @@ privacy-faq-we-only-collect-the-data-we = Roñongatúnte marandu roikotevẽva r
 privacy-faq-we-put-people-in-control-of = Romoĩ yvypórape oma’ẽ hag̃ua imarandu ha hembiasakue ñanduti pegua rehe.
 privacy-faq-we-adhere-to-no-surprises-principle = Roike ñepyrũrãme “mba’etuicha’ỹre”, he’iséva romba’apo hetaha ikatu hag̃uáicha pe oikumbýva opavave { -brand-name-firefox } rehegua ha’eha pe oikovavoi.
 privacy-faq-the-following-questions-and = Umi porandu ha mbohovái upeigua ne pytyvõta eikumby hag̃ua mba’etépa eha’arõta { -brand-name-mozilla } ha { -brand-name-firefox }-gui:
-privacy-faq-i-use-firefox-for-almost-everything = Aipuru { -brand-name-firefox } ajapo hag̃ua opamba’e ñandutípe. { -brand-name-mozilla } oikuaáne heta mba’e cherehegua, ¿ajépa?
+privacy-faq-i-use-firefox-for-almost-everything = Aiporu { -brand-name-firefox } ajapo hag̃ua opamba’e ñandutípe. { -brand-name-mozilla } oikuaáne heta mba’e cherehegua, ¿ajépa?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, pe kundaha omba’apóva ne mba’e’oka térã ne mohendahápe, ha’éta esẽkuaaha ñandutígui. Ne kundaha oguerekóta heta marandu umi tenda eikeha rehegua, hákatu umi marandu opytáta ne mba’e’okápe. { -brand-name-mozilla }, mba’apoha { -brand-name-firefox } apohare noñongatúi (ndete mba’e nderejeruéiramo chupe).
 privacy-faq-really-you-dont-collect-my-browsing = ¿Peichaite? ¿Peẽ napeñongatúi kundaha rembiasakue?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ndoikuaái nde eha’arõháicha mba’éichapa tapichakuéra oikundaha ñandutípe. Peteĩ atyguasu kundaha apoháramo, upéva ha’e tembiaporã tuicha mba’eva oréve. Upévare romoheñói tembiporu nde eiporavokuaáva, omoneĩva poruhárape tape porã ñeikundaha rehegua. Embojuehérõ ne kundaha rembiasakue opaite { -brand-name-firefox } ñemohendapyrére, ore ndoroikuaái tapykuere, ombopapapy rupi ne mba’e’oka.
@@ -61,7 +61,7 @@ privacy-faq-what-about-my-account-data = ¿Mba’e oĩ umi mba’ekuaarã che mb
 privacy-faq-we-are-big-believers-of-data = Roguerovia umi mba’ekuaarã ñemomichĩ rehegua ha avei ndorojeruremo’ãi roikotevẽ’ỹva.
 # Variables:
 #   $accounts (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
-privacy-faq-you-dont-need-an-account-to = Nereikotevẽi peteĩ mba’ete eipuru hag̃ua { -brand-name-firefox }. Umi <a href="{ $accounts }">mba’ete</a> eikotevẽva embojuehe hag̃ua mba’ekuaarã mba’e’okakuéra ndive, hákatu rojeruréta ndéve ñandutiveve kundaharape. Ndoroikuaaséi nde réra, ogarenda, aramboty térã pumbyry papapy.
+privacy-faq-you-dont-need-an-account-to = Nereikotevẽi peteĩ mba’ete eiporu hag̃ua { -brand-name-firefox }. Umi <a href="{ $accounts }">mba’ete</a> eikotevẽva embojuehe hag̃ua mba’ekuaarã mba’e’okakuéra ndive, hákatu rojeruréta ndéve ñandutiveve kundaharape. Ndoroikuaaséi nde réra, ogarenda, aramboty térã pumbyry papapy.
 privacy-faq-you-use-digital-advertising = Oiporu ñemurã ñandutiguáva omba’evende hag̃ua. ¿Ojogua umi tapicha mba’ekuaarã omoma’ẽ porãve hag̃ua iñemurã ñandutípe?
 privacy-faq-no-we-do-not-buy-peoples-data = Nahániri, ndorojoguái yvypóra mba’ekuaarã omyakã hag̃ua ñemurã.
 privacy-faq-we-do-ask-our-advertising-partners = Rojeruréramo oreirũ ñemurãguávape oiporu hag̃ua mba’ekuaarã ha’etéva umi ñanduti renda ha avei mbohetaha oikuaáva poruhára rehegua mba’e kundaha térã mba’e’okápa oiporu.

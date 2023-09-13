@@ -51,7 +51,7 @@ footer-about = Rehegua
 footer-press-center = Kuatiahaiha rendaite
 footer-careers = Ñeñani
 # Outdated string
-footer-test-new-features = Eipuru tembiapoite pyahu
+footer-test-new-features = Eiporu tembiapoite pyahu
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Tembiporu

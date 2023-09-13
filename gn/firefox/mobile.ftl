@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -10,7 +10,7 @@ firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } pumb
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Emohenda kundahára pumbyryguáva ndéve g̃uarãva, ñemurã’ỹre
-firefox-mobile-check-out-firefox-again-its = Eipurujey { -brand-name-firefox }. Ipya’e, iñemi ha oĩ nde ykére. { -brand-name-ios } ha { -brand-name-android } peg̃uarã.
+firefox-mobile-check-out-firefox-again-its = Eiporujey { -brand-name-firefox }. Ipya’e, iñemi ha oĩ nde ykére. { -brand-name-ios } ha { -brand-name-android } peg̃uarã.
 firefox-mobile-get-automatic-privacy-on-mobile = Eguereko ñemigua ijeheguíva mba’e’oka pumbyryguávape
 firefox-mobile-super-fast-private-by-default = Ipya’e. Ñemigua ijeheguíva. Ojoko hetave 2000 tapykuehoha ñandutípe.
 firefox-mobile-get-firefox-mobile = Eguereko { -brand-name-firefox } Pumbyrygua

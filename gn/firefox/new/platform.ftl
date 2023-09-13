@@ -25,7 +25,7 @@ new-platform-download-mozilla-desc-linux = Emboguejy { -brand-name-mozilla } { -
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Emboguejy { -brand-name-firefox } { -brand-name-linux } peg̃uarã, ipya’evéva opavavégui
 # /firefox/linux/ social sharing description
-new-platform-faster-page-loading-linux = Emyenehẽ pya’eve kuatiarogue, eipuru sa’ive mandu’arenda ha oikehápe heta tembiapoite: og̃uahẽma { -brand-name-firefox } pyahu { -brand-name-linux } peg̃uarã.
+new-platform-faster-page-loading-linux = Emyenehẽ pya’eve kuatiarogue, eiporu sa’ive mandu’arenda ha oikehápe heta tembiapoite: og̃uahẽma { -brand-name-firefox } pyahu { -brand-name-linux } peg̃uarã.
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } { -brand-name-linux } peg̃uarã
 new-platform-privacy-more-than = Ñemiguáva: ndaha’éi purureko año
@@ -42,12 +42,12 @@ new-platform-download-mozilla-firefox-desc-mac = Emboguejy { -brand-name-mozilla
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Emboguejy { -brand-name-firefox } { -brand-name-mac-short } peg̃uarã, ipya’evéva opavavégui
 # /firefox/mac/ social sharing description
-new-platform-faster-page-loading-mac = Emyenehẽ pya’eve kuatiarogue, eipuru sa’ive mandu’arenda ha oikehápe heta tembiapoite: og̃uahẽma { -brand-name-firefox } pyahu { -brand-name-mac-short } peg̃uarã.
+new-platform-faster-page-loading-mac = Emyenehẽ pya’eve kuatiarogue, eiporu sa’ive mandu’arenda ha oikehápe heta tembiapoite: og̃uahẽma { -brand-name-firefox } pyahu { -brand-name-mac-short } peg̃uarã.
 new-platform-privacy-comes-first = Ñemiguáva oĩ ñepyrũhápe
 new-platform-firefox-doesnt-spy = { -brand-name-firefox } noma’ẽñemíri nde jehekapýre. Romboyke umi kookie rapykuehoha mbohapyháva ha rome’ẽ ndéve pokatu ndete hag̃ua.
 new-platform-get-speed-and-security = Eguereko ipya’e ha hekorosãva. { -brand-name-firefox } ipya’e { -brand-name-mac-short } ndive ndohapykuehói rupi ne kundaha.
 new-platform-block-trackers = Ejoko jehekaha
-new-platform-be-the-master-of-your = Eipurukuaáke ne rendatee tetepy jejoko oikóvape. Eikytĩ opaite kookie ha tapykuehoha.
+new-platform-be-the-master-of-your = Eiporukuaáke ne rendatee tetepy jejoko oikóvape. Eikytĩ opaite kookie ha tapykuehoha.
 
 ## Windows
 
@@ -57,7 +57,7 @@ new-platform-download-mozilla-desc-windows = Emboguejy { -brand-name-mozilla } {
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Emboguejy { -brand-name-firefox } { -brand-name-windows } peg̃uarã, ipya’evéva opavavégui
 # /firefox/windows/ social sharing description
-new-platform-faster-page-loading-windows = Emyenehẽ pya’eve kuatiarogue, eipuru sa’ive mandu’arenda ha oikehápe heta tembiapoite: og̃uahẽma { -brand-name-firefox } pyahu { -brand-name-windows } peg̃uarã.
+new-platform-faster-page-loading-windows = Emyenehẽ pya’eve kuatiarogue, eiporu sa’ive mandu’arenda ha oikehápe heta tembiapoite: og̃uahẽma { -brand-name-firefox } pyahu { -brand-name-windows } peg̃uarã.
 new-platform-firefox-moves-fast = { -brand-name-firefox } oku’e pya’e ha oma’ẽag̃ui ne mba’ekuaarã rehe; ñemurã rapykueho’ỹre, avei naimbeguéi.
 new-platform-common-sense-privacy = Ñemigua rekoitépe
 new-platform-live-your-life = Nde rekove nemba’e, { -brand-name-firefox } nanderapykuehói. Eiporavo mba’épa emoharakuãta ha araka’épa.

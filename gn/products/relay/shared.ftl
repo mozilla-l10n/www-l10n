@@ -12,5 +12,5 @@ relay-shared-subnav-premium = { -brand-name-relay-premium }
 relay-shared-subnav-faq = { -brand-name-relay } FAQs
 nav-profile-sign-in = Eñemboheraguapy
 # Page description
-meta-description-2 = { -brand-name-firefox-relay } oipytyvõ heñói hag̃ua ñanduti veve rovamo’ãha oujeýva ne ñe’ẽmondo g̃uahẽhápe. Eipuru emo’ã hag̃ua ne mba’ete eikundahávo mba’evaiapoha rovake ha ñe’ẽmondo eipota’ỹva.
+meta-description-2 = { -brand-name-firefox-relay } oipytyvõ heñói hag̃ua ñanduti veve rovamo’ãha oujeýva ne ñe’ẽmondo g̃uahẽhápe. Eiporu emo’ã hag̃ua ne mba’ete eikundahávo mba’evaiapoha rovake ha ñe’ẽmondo eipota’ỹva.
 hero-section-cta = Eñepyrũ

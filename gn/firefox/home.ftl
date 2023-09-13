@@ -13,7 +13,7 @@ firefox-home-get-trackers-off = Hetave 2,000 tapykuehoha osẽ nde rapégui — 
 firefox-home-know-when-hackers-strike = Eikuaa mba’evaiapoha jeju — eime chugui tenondeve
 firefox-home-start-getting-breach = Og̃uahẽta ndéve marandu ñembyai rehegua
 firefox-home-un-spam-your-life = Embogue spam nde rekovégui { -brand-name-relay } ndive
-firefox-home-try-relay = Eipuru { -brand-name-relay }
+firefox-home-try-relay = Eiporu { -brand-name-relay }
 # Obsolete string
 firefox-home-keep-your-passwords = Emohekorosã ne ñe’ẽñemi peteĩteĩva mba’e’okápe
 # Obsolete string

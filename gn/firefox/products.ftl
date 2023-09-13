@@ -45,7 +45,7 @@ firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Ehecha pe ñanduti retepy iporãvéva  — ha emoñe’ẽ ejaposehápe.
 firefox-products-get-pocket = Eguereko { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Maranduve { -brand-name-pocket } rehegua
-firefox-products-join-firefox-and-get-the-most = Eñemoirũ { -brand-name-firefox } ndive ha eipuru opaite ijapopyre — opavave ne mba’e’okápe.
+firefox-products-join-firefox-and-get-the-most = Eñemoirũ { -brand-name-firefox } ndive ha eiporu opaite ijapopyre — opavave ne mba’e’okápe.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

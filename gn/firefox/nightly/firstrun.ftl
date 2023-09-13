@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
 nightly-firstrun-firefox-nightly = { -brand-name-firefox-nightly } kuatiarogue jepuru ñepyrũha
-nightly-firstrun-thank-you-for-using = Aguyje eipuru haguére { -brand-name-firefox-nightly }
+nightly-firstrun-thank-you-for-using = Aguyje eiporu haguére { -brand-name-firefox-nightly }
 nightly-firstrun-choose-an-area = Eiporavo peteĩ tendavore emba’apo hag̃ua ha eipytyvõ { -brand-name-firefox } kundaha oikoporãvévo
 nightly-firstrun-test = Ñeha’ã
 nightly-firstrun-find-and-file-bugs = Ejuhu apañuãi ha eñeha’ã toikoporãma akói.
