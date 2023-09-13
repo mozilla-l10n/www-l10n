@@ -5,7 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-index-is-firefox-a-fast-browser = Je { -brand-name-firefox } rychlým prohlížečem?
+features-index-firefox-uses-less-memory-than = { -brand-name-firefox } využívá méně paměti než Chrome, takže ostatní programy mohou běžet maximální rychlostí.
+features-index-is-firefox-a-private-browser = Je { -brand-name-firefox } důvěryhodný prohlížeč?
+features-index-were-focused-on-your-right-to = Zaměřujeme se na vaše právo na soukromí. Vaše data, vaše webové aktivity a váš život online jsou  pomocí { -brand-name-firefox(case: "gen") } chráněny.
 features-index-free-password-manager = Bezplatný správce hesel
+features-index-customize-your-firefox-browser = Přizpůsobení prohlížeče { -brand-name-firefox }
+features-index-choose-how-your-browser-looks = Vyberte si vzhled svého prohlížeče z tisíců bezplatných motivů.
+features-index-firefox-browser-sync = Synchronizace { -brand-name-firefox(case: "gen") }
+features-index-access-your-firefox-bookmarks = Přístup k vašim záložkám, heslům, otevřeným panelům a dalším položkám { -brand-name-firefox(case: "gen") } z jakéhokoliv zařízení.
 features-index-bookmark-manager = Správce záložek
 features-index-private-browsing-mode = Režim anonymního prohlížení
 features-index-firefox-add-ons-and-browser-extensions = Doplňky a rozšíření prohlížeče { -brand-name-firefox }
