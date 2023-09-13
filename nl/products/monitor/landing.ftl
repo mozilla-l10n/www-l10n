@@ -46,6 +46,8 @@ monitor-all-faq-link = Alle veelgestelde vragen bekijken
 monitor-faq-what-is-a-data-breach-question = Wat is een datalek precies?
 monitor-faq-what-is-a-data-breach-answer = Een datalek vindt plaats wanneer persoonlijke of privégegevens zonder toestemming worden onthuld, gestolen of gekopieerd. Deze beveiligingsincidenten kunnen het gevolg zijn van cyberaanvallen op websites, apps of een database waar de persoonlijke gegevens van mensen zich bevinden. Een datalek kan ook per ongeluk gebeuren, bijvoorbeeld als iemands aanmeldgegevens openbaar worden gemaakt.
 monitor-faq-what-do-i-do-question = Ik kwam er net achter dat ik in een datalek voor kom. Wat moet ik doen?
+monitor-faq-what-do-i-do-answer = Bezoek { -brand-name-mozilla-monitor } voor info over wat u moet doen na een datalek en voor begeleide stappen om de openbaarmaking van uw persoonlijke gegevens op te lossen. Hackers zijn ervan afhankelijk dat mensen wachtwoorden hergebruiken, dus het is belangrijk om sterke, unieke wachtwoorden voor al uw accounts te maken. Bewaar uw wachtwoorden op een veilige plaats waar alleen u toegang toe hebt; dit kan dezelfde plaats zijn waar u belangrijke documenten opslaat of een wachtwoordenbeheerder.
+monitor-faq-what-gets-exposed-question = Welke gegevens worden gelekt bij datalekken?
 
 ##
 
