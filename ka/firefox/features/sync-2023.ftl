@@ -19,4 +19,4 @@ features-sync-all-your-data-is-encrypted-on-our = თქვენი ყვე�
 features-sync-send-tabs-from-one-device-to-another = გაგზავნეთ ჩანართები ერთი მოწყობილობიდან მეორეზე
 features-sync-the-send-tab-feature-in-firefox = ჩანართის გაგზავნის შესაძლებლობა { -brand-name-firefox }-ში საშუალებას გაძლევთ, გააგზავნოთ გვერდები ერთი მოწყობილობის { -brand-name-firefox }-იდან სხვა მოწყობილობებზე (მაგალითად iPhone-ზე, iPad-ზე ან Android-ზე). ტელეფონში თვალიერებისას აღმოაჩინეთ სტატია, რომლის წაკითხვაც გსურთ სამუშაო მაგიდასთან დაბრუნებისას? ან სამსახურში მიღებული მნიშვნელოვანი მასალა გსურთ შეინახოთ სახლში მისვლისას? ანდა, ნოუთბუქზე წააწყდით მომზადების წესს, რომლის გადატანაც გსურთ სამზარეულოს პლანშეტზე. გაგზავნეთ ჩანართი!
 # Used as accessible alternative text for an image
-features-sync-an-image-of-a-firefox-application = { -brand-name-firefox }-ის პროგრამის მენიუს გამოსახულება, პარამეტრის "ჩანართის მოწყობილობაზე გაგზავნა".
+features-sync-an-image-of-a-firefox-application = { -brand-name-firefox }-პროგრამის მენიუს გამოსახულება, რომელშიც გამორჩეულად ჩანს „ჩანართის მოწყობილობაზე გაგზავნა“.
