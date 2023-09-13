@@ -74,4 +74,4 @@ firefox-more-more-and-more = თანდათან მეტ მნიშვ�
 firefox-more-avoid-misinformation-heading = აირიდეთ ყალბი ამბები ინტერნეტში – { -brand-name-firefox } მზადაა დაგეხმაროთ
 firefox-more-avoid-misinformation-desc = გაეცანით რჩევებს, როგორ იხილოთ ნაკლები ყალბი ამბავი და როგორ გაამახვილოთ ყურადღება, თქვენთვის მნიშვნელოვანზე.
 firefox-more-is-firefox-a-private-browser = { -brand-name-firefox } პირადი ბრაუზერია?
-firefox-more-were-focused-on-your-right-to = ჩვენ ორიენტირებული ვართ თქვენი პირადი მონაცემების ხელშეუხებლობის უფლებაზე. თქვენს მონაცემებს, ინტერნეტში მოქმედებებს, ინტერნეტცხოვრებას დაცულია { -brand-name-firefox }-ით.
+firefox-more-were-focused-on-your-right-to = ჩვენი საქმიანობა მიმართულია თქვენი პირადულობის ხელშეუხებლობის უფლების დაცვისკენ. თქვენი მონაცემების, ვებსივრცეში მოქმედებებისა და ინტერნეტცხოვრების უსაფრთხოებას უზრუნველყოფს { -brand-name-firefox }.
