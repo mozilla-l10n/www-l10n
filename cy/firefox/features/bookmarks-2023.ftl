@@ -17,10 +17,10 @@ bookmark-manager-collect-your-bookmarks-in-folders = Casglwch eich nodau tudalen
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-bookmark-manager = Delwedd o ffenestr y rheolwr nodau tudalen yn { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Mewnforio nodau tudalen yn hawdd
-bookmark-manager-you-can-import-your-bookmarks = Gallwch fewnforio eich nodau tudalen o Chrome, Safari neu Edge gyda dewin mewnforio { -brand-name-firefox }. Cliciwch ar Nodau Tudalen > Rheoli Nodau Tudalen ac yna dewiswch “Mewnforio a Gwneud copi wrth gefn”.
+bookmark-manager-you-can-import-your-bookmarks = Gallwch fewnforio eich nodau tudalen o Chrome, Safari neu Edge gyda dewin mewnforio { -brand-name-firefox }. Cliciwch ar Nodau Tudalen > Rheoli nodau tudalen ac yna dewiswch “Mewnforio a Chadw”.
 # Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-firefox-import-wizard = Delwedd o ddeialog dewin mewnforio { -brand-name-firefox }, yn dangos opsiynau i fewnforio gosodiadau a data o borwyr eraill.
-bookmark-manager-bookmarks-toolbar = Bar offer Llyfrnodau
+bookmark-manager-image-of-the-firefox-import-wizard = Delwedd o ddeialog dewin mewnforio { -brand-name-firefox }, yn dangos y dewisiadau i fewnforio gosodiadau a data o borwyr eraill.
+bookmark-manager-bookmarks-toolbar = Bar offer nodau tudalen
 bookmark-manager-get-quick-access-to-your = Sicrhewch fynediad cyflym i'ch hoff nodau tudalen yn y ddewislen ar frig { -brand-name-firefox } neu piniwch nhw i'ch bar offer.
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-firefox-showing-a-collection = Delwedd o { -brand-name-firefox } yn dangos casgliad o nodau tudalen mewn bar offer ar frig ffenestr y porwr.

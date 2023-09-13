@@ -5,11 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/customize/
 
-features-customize-customize-your-firefox = Addaswch eich porwr { -brand-name-firefox }
+features-customize-customize-your-firefox = Cyfaddaswch eich porwr { -brand-name-firefox }
 # HTML page description
 features-customize-choose-how-your-browser-looks = Dewiswch sut olwg sydd ar eich porwr gyda miloedd o themâu rhad ac am ddim.
-features-customize-firefox-themes-let-you-change = Mae themâu { -brand-name-firefox } yn gadael ichi newid golwg eich porwr. Maent yn gosod y cynllun lliwiau ar gyfer dewislenni porwr a thudalennau system { -brand-name-firefox }, a gallant hyd yn oed ychwanegu delwedd gefndir i'ch bar offer { -brand-name-firefox }.
-features-customize-firefox-comes-with-a-default = Daw { -brand-name-firefox } â thema system ddiofyn ac mae wedi'i rhaglwytho ag amrywiadau golau, tywyll a lliwgar.
+features-customize-firefox-themes-let-you-change = Mae themâu { -brand-name-firefox } yn gadael i chi newid golwg eich porwr. Maen nhw'n gosod y cynllun lliwiau ar gyfer dewislenni porwr a thudalennau system { -brand-name-firefox }, a gallan nhw hefyd ychwanegu delwedd gefndir i'ch bar offer { -brand-name-firefox }.
+features-customize-firefox-comes-with-a-default = Daw { -brand-name-firefox } â thema system rhagosodedig ac mae wedi'i lwytho'n barod ag amrywiadau golau, tywyll a lliwgar.
 # Used as accessible alternative text for an image
 features-customize-image-of-the-default-themes = Delwedd o'r themâu rhagosodedig sy'n dod gyda { -brand-name-firefox }, yn dangos amrywiadau golau, tywyll a lliwgar.
 # Variables:
