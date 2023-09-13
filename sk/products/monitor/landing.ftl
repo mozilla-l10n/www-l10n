@@ -15,13 +15,13 @@ monitor-hero-tagline = Skenujeme úniky údajov, aby sme zistili, či vaše úda
 ## Get free scan form
 
 monitor-form-enter-email-to-scan = Tu zadajte e‑mailovú adresu, ktorú chcete skenovať
-monitor-form-get-free-scan = Získajte bezplatné skenovanie
+monitor-form-get-free-scan = Skontrolovať
 monitor-form-enter-your-email-address = Zadajte svoju e‑mailovú adresu a skontrolujte, či nedošlo k úniku údajov.
 
 ##
 
 monitor-data-breaches-happen-every = <strong>Úniky údajov</strong> sa vyskytujú každých 11 minút a odhaľujú vaše súkromné informácie – ale nebojte sa, môžeme vám pomôcť.
-monitor-help-fix-exposures = Pomôžeme vám opraviť vaše úniky
+monitor-help-fix-exposures = Pomôžeme vám vyriešiť nájdené úniky
 # Variables:
 #   $privacy (url) - https://www.mozilla.org/privacy/
 monitor-our-mission-is = Naším poslaním je vrátiť kontrolu nad osobnými údajmi späť do vašich rúk. Pomôžeme vám vyriešiť úniky údajov a zachovať súkromie vašich informácií – a počas tohto procesu budeme <a href="{ $privacy }">rešpektovať vaše súkromie</a>.
@@ -52,5 +52,5 @@ monitor-faq-whats-gets-exposed-answer = Nie všetky úniky odhaľujú rovnaké i
 
 ##
 
-monitor-take-back-control = Získajte opäť kontrolu nad svojimi údajmi
+monitor-take-back-control = Získajte späť kontrolu nad svojimi údajmi
 monitor-breach-data-provided-by = Údaje o únikoch poskytuje služba <strong>Have I Been Pwned</strong>
