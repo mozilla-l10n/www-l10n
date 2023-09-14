@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = { -brand-name-firefox } の新機能
 
 # Obsolete string
 whatsnew-page-title = { -brand-name-firefox }-の新機能 - プライバシーと保護がさらに充実。
@@ -28,3 +29,4 @@ whatsnew-out-of-date-notification-v2 = もっと新しい { -brand-name-firefox 
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = { -brand-name-firefox } ブラウザーの新機能について詳しくは、<a href="{ $url }">リリースノート</a>をご覧ください。
 
+whatsnew-signoff = <strong>{ -brand-name-mozilla } が開発</strong>。1998 年より、利益よりもユーザーを守ってきました。

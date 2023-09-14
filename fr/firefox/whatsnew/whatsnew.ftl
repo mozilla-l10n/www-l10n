@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Nouveautés de { -brand-name-firefox }
 
 # Obsolete string
 whatsnew-page-title = Les nouveautés de { -brand-name-firefox } : encore plus de respect de la vie privée et de protection.
@@ -28,3 +29,4 @@ whatsnew-out-of-date-notification-v2 = Une version encore plus récente du { -br
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Consultez les <a href="{ $url }">notes de version</a> pour en savoir plus sur les nouveautés de votre navigateur { -brand-name-firefox }.
 
+whatsnew-signoff = <strong>Conçu par { -brand-name-mozilla }.</strong> Nous plaçons les personnes avant le profit depuis 1998.

@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = { -brand-name-firefox } में क्या नया है
 
 # Obsolete string
 whatsnew-page-title = { -brand-name-firefox } में नया क्या है - अधिक गोपनीयता, अधिक सुरक्षा।
@@ -28,3 +29,4 @@ whatsnew-out-of-date-notification-v2 = एक और नवीनतम { -brand
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = <a href="{ $url }">रिलीज़ नोट्स</a> पढ़कर अधिक जानकारी पाएँ कि आपके { -brand-name-firefox } ब्राउज़र में क्या कुछ नया है।
 
+whatsnew-signoff = <strong>{ -brand-name-mozilla } द्वारा संचालित।</strong> वर्ष 1998 से ही मुनाफ़े से ज़्यादा लोगों को तरजीह।

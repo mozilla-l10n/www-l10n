@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Apa yang baru di { -brand-name-firefox }
 
 # Obsolete string
 whatsnew-page-title = Apa yang baru di { -brand-name-firefox } - Lebih banyak privasi, lebih banyak perlindungan.
@@ -28,3 +29,4 @@ whatsnew-out-of-date-notification-v2 = { -brand-name-firefox } yang lebih baru b
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Baca <a href="{ $url }">Catatan Rilis</a> untuk mengetahui selengkapnya tentang informasi terbaru peramban { -brand-name-firefox }.
 
+whatsnew-signoff = <strong>Didukung oleh { -brand-name-mozilla }.</strong> Mengutamakan pengguna daripada keuntungan sejak 1998.
