@@ -40,6 +40,7 @@ firefox-channel-download-and-test-the-latest-desktop = Preuzmite i testirajte po
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Isprobajte funkcije prije izdavanja u najstabilnijem beta izdanju.
 firefox-channel-release-notes = Napomene o izdanju
+firefox-channel-previous-nightly-builds = Prethodne { -brand-name-nightly } verzije
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Pravite, testirajte, poredajte i mnogo više sa jedinim pretraživačem napravljenim samo za programere.
 # Variables:
