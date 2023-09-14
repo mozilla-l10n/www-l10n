@@ -19,7 +19,7 @@ vpn-linux-wifi-copy = Heta jey, wifi opavavegua añoite pe eiporukuaáva. { -bra
 vpn-linux-about-headline = Téra jeroviaha 1998 guive
 vpn-linux-about-copy = Ñanduti kundahára moheñoiháraramo { -brand-name-firefox }, { -brand-name-mozilla } oñorairõkuri nde derécho ñandutigua rehe heta ary pukukue. Ko’ãva umi rojapóva. Mba’apohaguasu rãngue mba’ekuaarã mbyatyháraramo, roheka tapiaite mba’éichapa roipota ñanduti ijuruja ha hekorosã, ombopoyhúvo opaite derécho tekoñemi rehegua.
 vpn-linux-privacy-headline = Tekorosã 1 jekutúpe añoite
-vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } ndahasýi ijepuru. Eikutu peteĩ jey ha embopapapýta nde jeike omokañyháicha nde IP kundaharape { -brand-name-iphone } térã { -brand-name-ipad } oipurúvo pe taperekoite { -brand-name-wireguard }® mba’éva.
+vpn-linux-privacy-copy = { -brand-name-mozilla-vpn } ndahasýi ijeporu. Eikutu peteĩ jey ha embopapapýta nde jeike omokañyháicha nde IP kundaharape { -brand-name-iphone } térã { -brand-name-ipad } oipurúvo pe taperekoite { -brand-name-wireguard }® mba’éva.
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers

@@ -24,7 +24,7 @@ windows-64-bit-how-do-you-get-64 = ¿Mba’éicha erekokuaa { -brand-name-firefo
 # Variables:
 # $version (url) - link to https://support.microsoft.com/help/13443/windows-which-operating-system
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
-windows-64-bit-if-youre-running = Eipururamohína { -brand-name-windows } 64 bits (<a href="{ $version }">ápe rohechauka mba’éichapa ojehechajeýta</a>), nde { -brand-name-firefox } ikatúma ha’e 64 bits. <a href="{ $check }">ehechajey { -brand-name-firefox } pyahu</a> (ovetã “{ -brand-name-firefox } Rehegua”) ha oheka “(32-bit)” térã “(64-bit)” tembiapo papapy rehegua:
+windows-64-bit-if-youre-running = Eiporuramohína { -brand-name-windows } 64 bits (<a href="{ $version }">ápe rohechauka mba’éichapa ojehechajeýta</a>), nde { -brand-name-firefox } ikatúma ha’e 64 bits. <a href="{ $check }">ehechajey { -brand-name-firefox } pyahu</a> (ovetã “{ -brand-name-firefox } Rehegua”) ha oheka “(32-bit)” térã “(64-bit)” tembiapo papapy rehegua:
 windows-64-bit-if-you-see-32-bit-older = Ehecháramo “(32-bit)” ha emohembiapórõ { -brand-name-firefox } 56.0 térã itujavéva, ñembohekopyahu { -brand-name-firefox } ipyahuvévape hekopyhuva’erã ijehegui 64 bits-pe.
 windows-64-bit-if-you-see-32-bit-newer = Ehecháramo “(32-bit)” ha emohembiapórõ { -brand-name-firefox } 56.0.1 térã upeigua, ikatu ne mohendaha ndorekói mandu’arenda 64-bits (3 GB de RAM peg̃uarã térã hetave). Eipotáramo, ikatu emohenda nde pópe { -brand-name-firefox } 64-bits orekóva.
 # Variables:

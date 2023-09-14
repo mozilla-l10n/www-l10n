@@ -36,7 +36,7 @@ vpn-landing-brand-trust-desc = Hetave 20 arýgui, { -brand-name-mozilla } omoĩ 
 ## FAQ section
 
 vpn-landing-faq-heading = FAQs
-vpn-langing-faq-uses-question-heading = ¿Mba’épa VPN ha mba’éicha ijepuru?
+vpn-langing-faq-uses-question-heading = ¿Mba’épa VPN ha mba’éicha ijeporu?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
 vpn-landing-faq-uses-question-desc = Ára ha ára hetave mba’e ojejapo ñanduti ñeikundahápe, tekoñemi ha tekorosã ñandutípe ha’e umi ojehecharamovéva. Peteĩ VPN, <a href="{ $url }">Ñanduti mba’eñemiguáva</a>, ikatu nepytyvõ emoheñói hag̃ua jeikerã ñanduti ñemigua hekorosãvape. Ojehu omoheñóivo peteĩ “tapeyvyguy” hekorosãva ne mba’e’oka ha ñanduti tuichaháicha, ha nemo’ãta mokõi hendáicha:
