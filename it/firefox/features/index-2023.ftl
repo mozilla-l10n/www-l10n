@@ -25,3 +25,15 @@ features-index-automatically-delete-cookies = Elimina automaticamente i cookie e
 features-index-firefox-add-ons-and-browser-extensions = Componenti aggiuntivi ed estensioni del browser { -brand-name-firefox }
 features-index-add-new-tools-capabilities-and = Aggiungi nuovi strumenti, funzionalità e contenuti divertenti al tuo browser.
 features-index-pinned-browser-tabs = Schede del browser appuntate
+features-index-keep-your-favorite-pages-open = Tieni aperte le tue pagine preferite a portata di clic. Utilizza le schede appuntate per tenere d’occhio le tue app di posta elettronica o di messaggistica.
+features-index-identify-the-exact-color-on-a = Identifica il colore esatto di una pagina e copia il codice esadecimale.
+features-index-pdf-editor = Editor PDF
+features-index-view-and-edit-pdf-files = Visualizza e modifica i file PDF direttamente in { -brand-name-firefox }.
+features-index-fingerprint-blocking = Blocco dei fingerprinter
+features-index-ad-tracker-blocking = Blocco delle pubblicità traccianti
+features-index-firefox-automatically-blocks = { -brand-name-firefox } impedisce automaticamente a oltre 2000 pubblicità traccianti di seguire le tue attività online.
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = Sbarazzati di quegli annunci che ti seguono senza tregua grazie al blocco anti-fingerprinting integrato in { -brand-name-firefox }.
+features-index-translate-the-web = Traduci il Web
+features-index-picture-in-picture = Picture-in-Picture
+features-index-got-things-to-do = Vuoi fare una cosa mentre ne guardi un’altra? Utilizza Picture-in-Picture in { -brand-name-firefox }.
