@@ -10,18 +10,18 @@ facebook-container-millions-of-people-around = Hetaiterei tapicha arapy tuichaku
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Ñema’ẽme. Eguereko tapiaite nde reko ñemigua.
 facebook-container-get-the-facebook-container = Eguereko "{ -brand-name-facebook-container }" jepysokue
 facebook-container-download-firefox-and-get-the = Emboguejy { -brand-name-firefox } eguereko hag̃ua "{ -brand-name-facebook-container }" jepysokue
-facebook-container-only-available-for-desktop = Ko { -brand-name-facebook-container } jepysokue ikatu eipuru { -brand-name-firefox } mohendahápe añoite.
+facebook-container-only-available-for-desktop = Ko { -brand-name-facebook-container } jepysokue ikatu eiporu { -brand-name-firefox } mohendahápe añoite.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Eike <a href="{ $url }">{ $link_copy }</a> ereko hag̃ua { -brand-name-firefox } mohendahápe g̃uarã.
 # Outdated string
-facebook-container-the-facebook-container-extension = "{ -brand-name-facebook-container }" jepysokue ndaikatúi eipuru pumbyry oku’évape.
+facebook-container-the-facebook-container-extension = "{ -brand-name-facebook-container }" jepysokue ndaikatúi eiporu pumbyry oku’évape.
 facebook-container-get-firefox-android-ios = Emboguejy { -brand-name-firefox } { -brand-name-android } peg̃uarã ha { -brand-name-ios } ko’ág̃a.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Eipuru <strong>{ -brand-name-firefox-focus }</strong>, kundaha ñemigua { -brand-name-android } ha { -brand-name-ios } peg̃uarã.
+facebook-container-try-firefox-focus-the-privacy = Eiporu <strong>{ -brand-name-firefox-focus }</strong>, kundaha ñemigua { -brand-name-android } ha { -brand-name-ios } peg̃uarã.
 facebook-container-opt-out-on-your-terms = Eñemo’ã nemba’ete guýpe
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -29,7 +29,7 @@ facebook-container-facebook-can-track-almost = { -brand-name-facebook } ikatu oh
 facebook-container-install-and-contain = Emboguejy ha ema’ẽag̃ui
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-installing-the-extension-is = Oguejyhína <a href="{ $fbcontainer }">jepysokue</a> ndahasýi ha, hendy vove, ijurujáta { -brand-name-facebook } peteĩ tendayke hovývape eipuru vove. Eipuru ha evy’a { -brand-name-facebook } ndive opa ára. { -brand-name-facebook } ikatúta gueteri omondo ndéve ñemurã ha ñe’ẽporã henda rupi, hákatu ndahasyivéta chupe oipurúramo ne rembiapokue ñembyatypyre <strong>{ -brand-name-facebook }-gui okápe</strong> omondo hag̃ua ndéve ñemurã ha ambue ñe’ẽmondo.
+facebook-container-installing-the-extension-is = Oguejyhína <a href="{ $fbcontainer }">jepysokue</a> ndahasýi ha, hendy vove, ijurujáta { -brand-name-facebook } peteĩ tendayke hovývape eiporu vove. Eiporu ha evy’a { -brand-name-facebook } ndive opa ára. { -brand-name-facebook } ikatúta gueteri omondo ndéve ñemurã ha ñe’ẽporã henda rupi, hákatu ndahasyivéta chupe oipurúramo ne rembiapokue ñembyatypyre <strong>{ -brand-name-facebook }-gui okápe</strong> omondo hag̃ua ndéve ñemurã ha ambue ñe’ẽmondo.
 facebook-container-about-firefox-and-mozilla = { -brand-name-firefox } ha { -brand-name-mozilla } rehegua
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/

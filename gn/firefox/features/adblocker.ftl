@@ -14,7 +14,7 @@ features-adblocker-an-ad-blocker-is-a-piece = Peteĩ maranduñemurã jokoha ha�
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-these-ads-might-be-loud = Ko’ã ñemurã ikatu ha’e ta’ãngamýi ryapu maranduñemurãva, ñemurã nderapykuehóva ñandutípe, tapykuehoha, kookie mbohapyháva ha hetave. Eipuru hag̃ua maranduñemurã jokoha, ikatu eheka maranduñemurã rembiporu’i jokoha eipurukuaáva ne kundahápe. <a href="{ $firefox }">{ -brand-name-firefox }</a>, techapyrã, oguereko <a href="{ $addons }">ko tembiporu’i rysýi ñemurã jokoha moneĩmbyre</a>. Eikutu ko tysýi ( térã maranduñemurã jokoha moneĩmbyre ne kundahápe g̃uarã) ha ehecha mba’etépa pe eikotevẽva.
+features-adblocker-these-ads-might-be-loud = Ko’ã ñemurã ikatu ha’e ta’ãngamýi ryapu maranduñemurãva, ñemurã nderapykuehóva ñandutípe, tapykuehoha, kookie mbohapyháva ha hetave. Eiporu hag̃ua maranduñemurã jokoha, ikatu eheka maranduñemurã rembiporu’i jokoha eiporukuaáva ne kundahápe. <a href="{ $firefox }">{ -brand-name-firefox }</a>, techapyrã, oguereko <a href="{ $addons }">ko tembiporu’i rysýi ñemurã jokoha moneĩmbyre</a>. Eikutu ko tysýi ( térã maranduñemurã jokoha moneĩmbyre ne kundahápe g̃uarã) ha ehecha mba’etépa pe eikotevẽva.
 features-adblocker-find-the-right-ad-blocker = Eheka ñemurã jokoha ndéve g̃uarãite
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/

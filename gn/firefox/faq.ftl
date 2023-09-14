@@ -27,7 +27,7 @@ how-do-i = ¿Mba’éicha arekokuaa { -brand-name-firefox-browser }?
 
 you-can-easily = Emboguejykuaa pya’e kundahára mohendahápe g̃uarã { -brand-name-firefox } <a href="{ $url }">ápe.</a> { -brand-name-firefox } Oiko <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> ha <a href="{ $url4 }">{ -brand-name-linux }</a> mba’e’okápe, ha avei eiporukuaa <a href="{ $url5 }">{ -brand-name-android } ha { -brand-name-ios }.</a> Ehecháke emboguejyha ore kundahára peteĩva ore kuatiarogue rojeroviaha { -brand-name-mozilla }/{ -brand-name-firefox } guive.
 is-firefox-free = ¿Reiguápa{ -brand-name-firefox }?
-yep-the-firefox = ¡Héẽ! { -brand-name-firefox-browser } noñehepyme’ẽi. Reietegua. Ndaipóri jehepyme’ẽ kañymby. Nerejehepyme’ẽi eipuru hag̃ua, ha norohepyme’ẽi ne mba’ekuaarã teéva.
+yep-the-firefox = ¡Héẽ! { -brand-name-firefox-browser } noñehepyme’ẽi. Reietegua. Ndaipóri jehepyme’ẽ kañymby. Nerejehepyme’ẽi eiporu hag̃ua, ha norohepyme’ẽi ne mba’ekuaarã teéva.
 related-questions-free = Porandu ojuehegua: ¿{ -brand-name-firefox-browser } reigua, ¿{ -brand-name-firefox } hepýpa?
 is-chrome-better = ¿{ -brand-name-chrome } iporãvépa { -brand-name-firefox }-gui?
 no-we-dont = Nahániri, ndoro’éi { -brand-name-chrome } iporãveha { -brand-name-firefox }-gui, ha kóva rupive: tapichakuéra oporandu vove mba’e kundahárapa iporãve, avei oñeporandu mba’e kundahárapa ipya’e ha hekorosãve. { -brand-name-firefox } hekopyahu ñavõ jasýpe eikuaa hag̃ua erekoha kundahára ipya’evéva ha omomba’éva ne rekoñemi ijehegui.
@@ -69,7 +69,7 @@ firefoxs-default-search = { -brand-name-google } ha’e kundahára ijypykuéva {
 does-firefox-have = ¿{ -brand-name-firefox } oguereko VPN ojuajúva?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
-firefox-does-not-v2 = { -brand-name-firefox } ndoguerekói VPN (red privada virtual) ojuajupáva, hákatu { -brand-name-mozilla } omoheñói apopyre hérava <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> eipurukuaáva avei { -brand-name-firefox-browser } ndive omo’ãkuaáva nde jeike WiFi ndive, péicha avei nde IP kundaharape.
+firefox-does-not-v2 = { -brand-name-firefox } ndoguerekói VPN (red privada virtual) ojuajupáva, hákatu { -brand-name-mozilla } omoheñói apopyre hérava <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> eiporukuaáva avei { -brand-name-firefox-browser } ndive omo’ãkuaáva nde jeike WiFi ndive, péicha avei nde IP kundaharape.
 related-questions-ip = Porandu ojuehegua: ¿{ -brand-name-firefox } oñomi nde IP?
 who-owns-firefox = ¿Mávapa { -brand-name-firefox } jára?
 
