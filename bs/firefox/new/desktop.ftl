@@ -47,6 +47,9 @@ firefox-desktop-its-your-internet = Ovo je vaš internet. Obojite ga onako kako 
 # Obsolete string
 firefox-desktop-download-master-password = Glavna lozinka
 firefox-desktop-download-we-block-the-ad = Blokiramo oglase za praćenje. Brže istražujete internet.
+firefox-desktop-download-ads-are-distracting = Oglasi odvlače pažnju i usporavaju učitavanje web stranica, dok njihovi pratioci prate svaki vaš pokret na mreži. { -brand-name-firefox-browser } automatski blokira većinu pratilaca, tako da nema potrebe da kopate po vašim sigurnosnim postavkama.
+firefox-desktop-download-see-your-report = Pogledajte svoj izvještaj o zaštiti
+firefox-desktop-download-for-everyone = { -brand-name-firefox } je za svakoga
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
