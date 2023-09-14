@@ -21,4 +21,4 @@ features-private-browsing-what-private-browsing-doesnt-do = 隐私浏览不会�
 features-private-browsing-private-browsing-mode-will-not = 隐私浏览模式不会删除您在隐私浏览窗口中新建的任何书签、阻止您访问的网站查看您的地理位置，也无法保护您免受恶意软件或病毒的侵扰、阻止互联网服务提供商记录您的活动。如有这些方面的需要，请使用<a href="{ $vpn }">可信赖的 VPN</a>。
 # Variables:
 #   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
-features-private-browsing-compare-firefoxs-private-browsing = 比较 { -brand-name-firefox } 的隐私浏览与 <a href="{ $chrome }">Chrome 的无痕模式</a>。
+features-private-browsing-compare-firefoxs-private-browsing = 比比看 { -brand-name-firefox } 的隐私浏览与 <a href="{ $chrome }">Chrome 的无痕模式</a>有何不同。
