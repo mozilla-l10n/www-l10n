@@ -13,3 +13,8 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } lagrar s
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = Med ett <a href="{ $fxa }">gratis { -brand-name-firefox-account }</a> kan du säkert synkronisera dina lösenord på alla dina enheter.
+password-manager-password-autofill-for-easy-logins = Autofyll lösenord för enkla inloggningar
+password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } kan automatiskt fylla i ditt sparade användarnamn och lösenord. Om du har mer än en inloggning för en webbplats kan du bara välja det konto du vill ha så tar vi det därifrån.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-login-form = Bild på en webbplats inloggningsformulär med { -brand-name-firefox } som visar flera sparade konton att välja mellan när du loggar in.
+password-manager-import-passwords = Importera lösenord
