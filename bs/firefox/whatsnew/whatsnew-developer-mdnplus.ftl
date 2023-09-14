@@ -19,3 +19,4 @@ developer-mdnplus-notifications = Obavijesti
 developer-mdnplus-development-in-real-time = Razvoj u realnom vremenu: Primajte prilagođena upozorenja
 developer-mdnplus-the-web-doesnt-have-a = Internet nema dnevnik promjena, ali { -brand-name-mdn } može da pomogne. Pratite stranice da biste primali prilagodljive obavijesti o promjenama dokumentacije, predstavljanju CSS funkcija i isporukama API-ja.
 developer-mdnplus-collections = Kolekcije
+developer-mdnplus-build-your-perfect-library = Napravite svoju savršenu biblioteku. Ili prepustite nama da to uradimo za vas.
