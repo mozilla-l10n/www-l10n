@@ -16,3 +16,9 @@ features-private-yes-firefox-protects-your = Ja. { -brand-name-firefox } skyddar
 features-private-firefox-also-protects-your = { -brand-name-firefox } skyddar också din integritet med <a href="{ $url }">Förbättrat spårningsskydd</a> för att blockera spårare som följer dig från webbplats till webbplats och samlar in information om dina surfvanor. Den innehåller också skydd mot skadliga skript och skadlig programvara.
 features-private-sidenote-we-are-not-big-tech = <em>Notera:</em> Vi är inte stora tekniker. Vi gör saker annorlunda. Genom att vara oberoende (inga aktieägare) kan vi sätta människor först, före vinst. Till skillnad från andra företag säljer vi inte åtkomst till din data.
 features-private-what-information-does-firefox = Vilken information samlar { -brand-name-firefox } in?
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (tillverkaren av { -brand-name-firefox }) tar integritet på största allvar. <strong>Mycket allvarligt</strong>. Faktum är att varje { -brand-name-firefox }-produkt vi gör hedrar vårt <a href="{ $url }">löfte om personliga uppgifter</a>: Ta mindre. Förvara det säkert. Inga hemligheter.
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/firefox/
+features-private-read-firefoxs-privacy-notice = Läs <a href="{ $url }">{ -brand-name-firefox }s sekretessmeddelande</a> för mer information. Seriöst, kolla upp det. Den är i normalstor typsnitt och allt.
