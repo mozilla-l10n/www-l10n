@@ -28,5 +28,9 @@ password-manager-have-firefox-create-a-strong-unique = 让 { -brand-name-firefox
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = { -brand-name-firefox } 注册表单的图片，显示着建议生成强密码并自动存储以备将来使用。
 password-manager-password-security-alerts = 密码安全警报
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } 会<a { $attrs }>在您的密码出现数据外泄事件中时警告您</a>，这样您就可以在黑客用您的信用卡去租兰博基尼（或做诸如此类的事情）前及时更改密码。
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-password-manager = { -brand-name-firefox } 密码管理器的图片，显示着“此密码已用于另一个可能已遭外泄的账号。重复使用登录信息会使您的所有账号面临风险。请更改此密码。”字样的警报消息。
