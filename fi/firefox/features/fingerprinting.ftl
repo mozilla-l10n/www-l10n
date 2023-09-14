@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = Mitä on yksilöinti ja miksi sinun pitäisi estää se
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Yksilöinti on eräänlaista verkkoseurantaa, joka on tunkeutuvampaa kuin tavallinen evästepohjainen seuranta. Sen vuoksi { -brand-name-firefox-browser } estää sen.
+features-fingerprinting-fingerprint-blocking = Yksilöijien esto
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } estää yksilöinnin
 features-fingerprinting-ditch-the-sticky = Hylkää seurantaa tekevät mainokset { -brand-name-firefox }-selaimen sisäänrakennetuilla yksilöinnin estotoiminnoilla.
 # description for the header image

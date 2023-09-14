@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Käännä verkko - suoraan selaimes
 # page description
 features-translate-translate-more-than = Käännä yli 100 kielestä omalle kielellesi käyttäen { -brand-name-firefox-browser }ta - helpompaa kuin koskaan ennen.
 features-translate-translate-the-web = Käännä verkko { -brand-name-firefox }illa
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Käännä verkko
 # Obsolete string
 features-translate-the-google-translate = To { -brand-name-google } Translate -laajennus { -brand-name-firefox }ille tuo verkon kaikkien ulottuville.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations } -laajennus</a> voi kääntää automaattisesti sisältöä verkkosivuilta, joilla käyt. Toisin kuin jotkin pilvipohjaiset vaihtoehdot, tämä laajennus kääntää tekstin paikallisesti { -brand-name-firefox }issa, joten kääntämäsi sisältö ei lähde mihinkään koneeltasi.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Hanki { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Kääntäjä, jossa on valmiina yli 100 kieltä*, on miljoonien ihmisten käytössä ympäri maailmaa. Jatkuva vaihtaminen translate.google.comin ja lukemasi sivun välillä ei ole ihanteellinen kokemus. <a { $attrs }>To { -brand-name-google } Translate</a> -laajennus tekee käyttämäsi sivun kääntämisestä helpompaa kuin koskaan.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Hanki To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Hanki laajennus

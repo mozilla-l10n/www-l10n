@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Kuva kuvassa: saa enemmän aikaan ponnahdettavilla videoilla
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Onko sinulla tekemistä ja katsottavaa? Tee molemmat käyttämällä  { -brand-name-firefox }in Kuva kuvassa -toimintoa.
+features-pip-picture-in-picture = Kuva kuvassa
 features-pip-new-feature-firefox-multi-picture = Uusi ominaisuus: { -brand-name-firefox }in kuva kuvassa
 features-pip-cool-feature-picture-in-picture = Hieno ominaisuus: Kuva kuvassa
 features-pip-get-more-done-with-pop-out-videos = Saa enemmän aikaan ponnahdusvideoilla
