@@ -37,9 +37,20 @@ monitor-we-believe-in-your-right = Wy leauwe yn jo rjocht op privacy, dus besker
 monitor-we-will-search-for-you = Wy gean foar jo op syk yn alle bekende datalekken
 monitor-we-will-guide-you = Wy liede jo troch de stappen om elk lek op te lossen
 monitor-we-will-continuously = Wy monitoarje hieltyd en stjoere jo warskôgingen by nije lekken
+monitor-sign-up-for-breach-alerts = Ynskriuwe foar warskôgingen oer datalekken
 
 ## FAQ section
 
+monitor-faq-heading = Faak stelde fragen
+monitor-all-faq-link = Alle faak stelde fragen besjen
+monitor-faq-what-is-a-data-breach-question = Wat is in datalek krekt?
+monitor-faq-what-is-a-data-breach-answer = In datalek fynt plak wannear’t persoanlike of priveegegevens sûnder tastimming bleatsteld, stellen of kopiearre wurde. Dizze befeiligingsynsidinten kinne it gefolch wêze fan cyberoanfallen op websites, apps of in database wêr’t de persoanlike gegevens fan minsken yn stean. In datalek kin ek troch fersin barre, bygelyks as oanmeldgegevens fan ien troch fersin iepenbier makke wurde.
+monitor-faq-what-do-i-do-question = Ik kaam der krekt efter dat ik yn in datalek foar kom. Wat moat ik dwaan?
+monitor-faq-what-do-i-do-answer = Besykje { -brand-name-mozilla-monitor } om te sjen wat jo dwaan moatte nei in datalek en krij begeliede stappen om bleatstellingen fan jo persoanlike ynformaasje op te lossen. Hackers fertrouwe op minsken dy’t wachtwurden opnij brûke, dus it is wichtich om sterke, unike wachtwurden te meitsjen foar al jo accounts. Hâld jo wachtwurden op in feilich plak dêr’t allinnich jo tagong ta hawwe; dit kin itselde plak wêze as wêr't jo wichtige dokuminten bewarje of in wachtwurdbehearder.
+monitor-faq-what-gets-exposed-question = Hokker gegevens wurde lekt by datalekken?
+monitor-faq-whats-gets-exposed-answer = Net alle lekken litte allegearre deselde ynformaasje sjen. It hinget der mar fan ôf wêr’t hackers tagong ta hawwe. In protte datalekken litte e-mailadressen en wachtwurden sjen. Oare jouwe mear gefoelige ynformaasje frij, lykas creditcardnûmers, paspoartnûmers en burgerservicenûmers.
 
 ##
 
+monitor-take-back-control = Nim jo gegevens wer ûnder kontrôle.
+monitor-breach-data-provided-by = Datalekgegevens ferstrekt troch <strong>Have I Been Pwned</strong>
