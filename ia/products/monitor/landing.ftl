@@ -8,6 +8,9 @@
 
 ## Get free scan form
 
+monitor-form-enter-email-to-scan = Insere hic le email a scander
+monitor-form-get-free-scan = Recipe scansion gratuite
+monitor-form-enter-your-email-address = Insere tu adresse email pro controlar pro exposition a violation de datos.
 
 ##
 
