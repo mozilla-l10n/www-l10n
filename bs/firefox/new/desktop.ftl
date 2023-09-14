@@ -24,6 +24,29 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } podr�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Radite ono što želite online.<br> { -brand-name-firefox-browser } <strong>ne</strong> gleda.
 firefox-desktop-download-how-firefox-compares = Kakav je { -brand-name-firefox } u poređenju sa drugim pretraživačima
+firefox-desktop-download-get-all-the-speed = Dobijte svu brzinu i alate bez žrtvovanja privatnosti. { -brand-name-firefox-browser } prikuplja tako malo podataka o vama da nam čak nije potrebna vaša email adresa za preuzimanje. Za razliku od drugih pretraživača, mi nemamo finansijski interes da pratimo vaše aktivnosti na internetu.
+firefox-desktop-download-how-we-compare = Kako stojimo u poređenju sa drugim pretraživačima
+firefox-desktop-download-compare-firefox-to = Uporedite { -brand-name-firefox } sa:
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Da
+firefox-desktop-download-no = Ne
+firefox-desktop-download-blocks-third-party = Blokira kolačiće trećih strana
+firefox-desktop-download-blocks-third-party-default = Podrazumjevano blokira kolačiće trećih strana
+firefox-desktop-download-autoplay-blocking = Blokira automatske reprodukcije
+firefox-desktop-download-blocks-social-trackers = Blokira društvene pratioce
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Dostupnost na operativnim sistemima
+firefox-desktop-download-in-browser-screenshot = Alat za snimanje ekrana u pretraživaču
+firefox-desktop-download-primary-password = Primarna lozinka
+# Obsolete string
+firefox-desktop-love-your-life = Volite svoj online život
+# Obsolete string
+firefox-desktop-its-your-internet = Ovo je vaš internet. Obojite ga onako kako želite sa hiljadama alata, tema i proširenja. { -brand-name-firefox } je originalni alternativni pretraživač koji ljude stavlja ispred profita.
+# Obsolete string
+firefox-desktop-download-master-password = Glavna lozinka
+firefox-desktop-download-we-block-the-ad = Blokiramo oglase za praćenje. Brže istražujete internet.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
