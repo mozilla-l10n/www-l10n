@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/monitor/
 
+monitor-shared-mozilla-monitor = { -brand-name-mozilla-monitor }
 
 ## Sub navigation
 

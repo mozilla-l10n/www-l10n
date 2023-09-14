@@ -7,6 +7,7 @@
 
 features-shared-firefox-features = Functionalitates de { -brand-name-firefox }
 features-shared-footer-cta-title = Face plus con { -brand-name-firefox }
+features-shared-footer-cta-desc = Obtene le navigator veloce, legier, attente al confidentialitate que es supportate per un organisation non-lucrative e functiona inter tote tu apparatos.
 features-shared-footer-cta-button = Discargar { -brand-name-firefox }
 features-shared-is-firefox-a-fast-browser = Es { -brand-name-firefox } un navigator veloce?
 features-shared-is-firefox-a-private-browser = Es { -brand-name-firefox } un navigator private?
