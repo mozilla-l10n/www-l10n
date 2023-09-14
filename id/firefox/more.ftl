@@ -77,3 +77,5 @@ firefox-more-more-and-more = Semakin banyak hal sensitif dan berharga dalam hidu
 firefox-more-avoid-misinformation-heading = Hindari misinformasi daring – { -brand-name-firefox } hadir untuk membantu
 firefox-more-avoid-misinformation-desc = Lihat kiat-kiat bagaimana melihat lebih sedikit misinformasi dan fokus pada apa yang penting bagi Anda.
 
+firefox-more-is-firefox-a-private-browser = Apakah { -brand-name-firefox } peramban yang pribadi?
+firefox-more-were-focused-on-your-right-to = Kami berfokus pada hak Anda akan privasi. Data Anda, aktivitas web Anda, kehidupan daring Anda dilindungi dengan { -brand-name-firefox }.

@@ -77,3 +77,5 @@ firefox-more-more-and-more = 医療記録や銀行口座、ラブレター (!?) 
 firefox-more-avoid-misinformation-heading = オンラインの誤報を回避 – { -brand-name-firefox } がお手伝いします
 firefox-more-avoid-misinformation-desc = 表示される誤報を減らし、重要な情報に焦点を当てるヒントを紹介します。
 
+firefox-more-is-firefox-a-private-browser = { -brand-name-firefox } はプライバシーを守るブラウザーですか？
+firefox-more-were-focused-on-your-right-to = Mozilla は、あなたのプライバシーの権利を尊重します。ユーザーのデータ、ウェブ上の活動、オンライン生活は、{ -brand-name-firefox } が保護します。

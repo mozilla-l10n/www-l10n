@@ -77,3 +77,5 @@ firefox-more-more-and-more = Kian lama kian banyak perkara sensitif dan berharga
 firefox-more-avoid-misinformation-heading = Elakkan maklumat salah dalam talian – { -brand-name-firefox } sedia membantu
 firefox-more-avoid-misinformation-desc = Lihat tip untuk kurang melihat maklumat salah dan fokus pada perkara yang penting bagi anda.
 
+firefox-more-is-firefox-a-private-browser = Adakah { -brand-name-firefox } pelayar peribadi?
+firefox-more-were-focused-on-your-right-to = Kami memberi fokus terhadap hak privasi anda. Data, aktiviti, dan kehidupan anda dalam talian dilindungi dengan { -brand-name-firefox }.
