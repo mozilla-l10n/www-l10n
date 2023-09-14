@@ -10,7 +10,7 @@ features-adblocker-how-to-stop-seeing-too = Mba’éicha ikatu nderehachavéi ñ
 features-adblocker-the-ad-blocker-a-secret = Ñemurã jokoha – ñemurã echa’e’ỹha rovake.
 features-adblocker-so-many-ads-so-little = Hetaiterei ñemurã, sa’i py’aguapy… Ejokohápema pe tavyraireko.
 features-adblocker-the-average-person-sees = Tapicha ohecha 4,000 ñemurã peteĩ árape. Hetaireímarõ ndéve, ñemurã jokoha ha’éta ne irũ.
-features-adblocker-an-ad-blocker-is-a-piece = Peteĩ maranduñemurã jokoha ha’e tembiaporape ojepurukuaáva ani hag̃ua ojehecha maranduñemurã, ha omba’apo mokõi hendáicha. Peteĩhápe maranduñemurã jokoha omboyke jehecha apopyvusúgui, péicha pe ñemurã nosẽi nde kuatiaroguépe. Ambue hendáicha umi maranduñemurã jokoha ndohechaukái ñanduti renda vore ikatúva ha’e ñemurã.
+features-adblocker-an-ad-blocker-is-a-piece = Peteĩ maranduñemurã jokoha ha’e tembiaporape ojeporukuaáva ani hag̃ua ojehecha maranduñemurã, ha omba’apo mokõi hendáicha. Peteĩhápe maranduñemurã jokoha omboyke jehecha apopyvusúgui, péicha pe ñemurã nosẽi nde kuatiaroguépe. Ambue hendáicha umi maranduñemurã jokoha ndohechaukái ñanduti renda vore ikatúva ha’e ñemurã.
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
@@ -24,7 +24,7 @@ features-adblocker-theres-adblocker-ultimate = Oĩ <a href="{ $url }">AdBlocker 
 features-adblocker-popup-ads-are-the-worst = Maranduñemurã iñapysẽva, umi ivaivéva. Ejoko <a href="{ $url }">Popup Blocker</a> ndive ha araka’eve nderehechamo’ãi ambue mba’epuru iñapysẽva.
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Peteĩ ñemurã jokoha ojepuruvéva { -brand-name-chrome }, { -brand-name-safari } ha { -brand-name-firefox }-pe ha’e <a href="{ $url }">AdBlock</a>. Eiporu ejoko hag̃ua ñemurã { -brand-name-facebook }, { -brand-name-youtube } ha { -brand-name-hulu }-pe.
+features-adblocker-one-of-the-most-popular = Peteĩ ñemurã jokoha ojeporuvéva { -brand-name-chrome }, { -brand-name-safari } ha { -brand-name-firefox }-pe ha’e <a href="{ $url }">AdBlock</a>. Eiporu ejoko hag̃ua ñemurã { -brand-name-facebook }, { -brand-name-youtube } ha { -brand-name-hulu }-pe.
 features-adblocker-create-a-tracker-free = Emoheñói tenda ijehapykuehokuaa’ỹva tetepy jokoha ndive
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

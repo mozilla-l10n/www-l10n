@@ -37,7 +37,7 @@ firefox-desktop-download-blocks-third-party-default = Ejoko kookie tapykuehoha m
 firefox-desktop-download-autoplay-blocking = Ejoko ñemboheta ijeheguíva
 firefox-desktop-download-blocks-social-trackers = Ejoko tapykuehoha atyguáva
 # OS is short for "Operating System"
-firefox-desktop-download-os-availability = OS jepurukuaáva
+firefox-desktop-download-os-availability = OS jeporukuaáva
 firefox-desktop-download-in-browser-screenshot = Mba’erecha japyhyha kundahárape rembiporu
 firefox-desktop-download-primary-password = Ñe’ẽñemi ha’etéva
 # Obsolete string
