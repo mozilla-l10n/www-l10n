@@ -10,6 +10,7 @@ features-fingerprinting-what-is-fingerprinting-title = تعريف البصمة �
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = البصمات هي نوع من التتبع عبر الإنترنت وهو أكثر تغلغلًا من التتبع العادي المستند إلى ملفات تعريف الارتباط — ولهذا السبب يعمل { -brand-name-firefox-browser } على حظرها.
 
+features-fingerprinting-fingerprint-blocking = حجب تسجيل البصمات
 features-fingerprinting-firefox-blocks-fingerprinting = مُتصفح { -brand-name-firefox } يحجب بصمات المُتصفح
 features-fingerprinting-ditch-the-sticky = تخلَّص من الإعلانات المُملة التي تتبعك باستخدام أدوات حجب البصمة المضمنة في متصفح { -brand-name-firefox }.
 

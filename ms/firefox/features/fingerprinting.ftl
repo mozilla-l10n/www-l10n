@@ -10,6 +10,7 @@ features-fingerprinting-what-is-fingerprinting-title = Apakah pengecapan jari da
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Pengecapan jari ialah sejenis penjejakan dalam talian yang lebih menceroboh berbanding dengan penjejakan berasaskan kuki yang biasa — itulah sebab { -brand-name-firefox-browser } menyekatnya.
 
+features-fingerprinting-fingerprint-blocking = Menyekat Pengecap Jari
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } menyekat pengecapan jari
 features-fingerprinting-ditch-the-sticky = Buang iklan yang mengekori anda ke sana ke mari dengan penyekat pengecapan jari terbina dalam pelayar { -brand-name-firefox }.
 

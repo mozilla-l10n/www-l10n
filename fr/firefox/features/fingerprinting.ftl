@@ -10,6 +10,7 @@ features-fingerprinting-what-is-fingerprinting-title = Qu’est-ce que la détec
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = La détection d’empreinte numérique est une forme de suivi en ligne plus invasive que le suivi ordinaire basé sur les cookies. C’est pour cette raison que { -brand-name-firefox-browser } la bloque.
 
+features-fingerprinting-fingerprint-blocking = Blocage de l’empreinte numérique
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } bloque la détection d’empreinte numérique
 features-fingerprinting-ditch-the-sticky = Débarrassez-vous des publicités qui vous suivent partout grâce aux bloqueurs de détecteurs d’empreintes numériques intégrés au navigateur { -brand-name-firefox }.
 

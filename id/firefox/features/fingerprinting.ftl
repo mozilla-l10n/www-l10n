@@ -10,6 +10,7 @@ features-fingerprinting-what-is-fingerprinting-title = Apa itu pengumpulan sidik
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Pengumpulan sidik jari (fingerprinting) adalah jenis pelacakan daring yang lebih invasif dibanding pelacakan berbasis cookie biasa — itulah sebabnya { -brand-name-firefox-browser } memblokirnya.
 
+features-fingerprinting-fingerprint-blocking = Pemblokiran Fingerprinting
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } memblokir pengumpulan sidik jari (fingerprinting)
 features-fingerprinting-ditch-the-sticky = Singkirkan iklan melekat yang mengikuti Anda dengan pemblokir fingerprinting yang tersemat di peramban { -brand-name-firefox }.
 

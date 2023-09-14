@@ -10,6 +10,7 @@ features-fingerprinting-what-is-fingerprinting-title = フィンガープリン�
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = フィンガープリント採取とは、オンライントラッキングの一種で、通常の Cookie ベースのトラッキングよりも侵入度が高くなります。そのため、{ -brand-name-firefox-browser } はこれをブロックします。
 
+features-fingerprinting-fingerprint-blocking = フィンガープリント採取をブロック
 features-fingerprinting-firefox-blocks-fingerprinting = フィンガープリント採取をブロックする { -brand-name-firefox }
 features-fingerprinting-ditch-the-sticky = { -brand-name-firefox } ブラウザーの内蔵フィンガープリント採取ブロッカーで、しつこい広告につきまとわれなくなります。
 
