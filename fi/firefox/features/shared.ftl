@@ -5,18 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = Parempi internetkokemus
-features-shared-more-firefox-features = Lisää { -brand-name-firefox }-selaimen ominaisuuksia
-features-shared-browse-faster = Selaa nopeammin
-features-shared-your-favorite-extensions = Suosikkilaajennuksesi
-features-shared-balanced-memory = Tasapainoinen muisti
-features-shared-more-powerful-private-browsing = Aiempaa tehokkaampi yksityinen selaus
-features-shared-ad-tracker-blocking = Mainosseurannan esto
-features-shared-password-manager = Salasanojen hallinta
-features-shared-customize-your-browser = Mukauta selaintasi
-features-shared-sync-between-devices = Synkronoi laitteiden välillä
-features-shared-better-bookmarks = Paremmat kirjanmerkit
+features-shared-firefox-features = { -brand-name-firefox }-ominaisuudet
+features-shared-footer-cta-title = Tee enemmän { -brand-name-firefox }illa
+features-shared-footer-cta-button = Lataa { -brand-name-firefox }
+features-shared-is-firefox-a-fast-browser = Onko { -brand-name-firefox } nopea selain?
+features-shared-is-firefox-a-private-browser = Onko { -brand-name-firefox } yksityinen selain?
+features-shared-free-password-manager = Salasanojen hallinta
+features-shared-customize-your-firefox-browser = Mukauta { -brand-name-firefox }-selainta
+features-shared-pdf-editor = PDF-muokkain
 features-shared-fingerprinter-blocking = Yksilöijien esto
 features-shared-translate-the-web = Käännä verkko
 features-shared-picture-in-picture = Kuva kuvassa
-brand-name-firefox = { -brand-name-firefox }
