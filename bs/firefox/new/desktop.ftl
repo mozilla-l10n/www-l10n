@@ -50,6 +50,9 @@ firefox-desktop-download-we-block-the-ad = Blokiramo oglase za praćenje. Brže 
 firefox-desktop-download-ads-are-distracting = Oglasi odvlače pažnju i usporavaju učitavanje web stranica, dok njihovi pratioci prate svaki vaš pokret na mreži. { -brand-name-firefox-browser } automatski blokira većinu pratilaca, tako da nema potrebe da kopate po vašim sigurnosnim postavkama.
 firefox-desktop-download-see-your-report = Pogledajte svoj izvještaj o zaštiti
 firefox-desktop-download-for-everyone = { -brand-name-firefox } je za svakoga
+firefox-desktop-download-available-in-over = Dostupan na preko 90 jezika i kompatibilan sa { -brand-name-windows }, { -brand-name-mac-short } i { -brand-name-linux } mašinama, { -brand-name-firefox } radi bez obzira šta koristite ili gdje se nalazite. Ipak, za najbolje iskustvo ažurirajte vaš operativni sistem.
+firefox-desktop-download-review-system-req = Provjerite sistemske zahtjeve
+firefox-desktop-download-all-your-devices = Instalirajte { -brand-name-firefox } na sve svoje uređaje
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
