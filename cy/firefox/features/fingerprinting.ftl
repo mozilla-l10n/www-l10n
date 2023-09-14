@@ -9,7 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = Beth yw bysbrintio a pham y dylech ei rwystro
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Mae bysbrintio'n fath o dracio ar-lein sy'n fwy ymledol na thracio cyffredin sy'n seiliedig ar gwcis - dyna pam mae { -brand-name-firefox-browser } yn ei rwystro.
-features-fingerprinting-fingerprint-blocking = Blocio olion bysedd
+features-fingerprinting-fingerprint-blocking = Rhwystro bysbrintio
 features-fingerprinting-firefox-blocks-fingerprinting = Mae { -brand-name-firefox } yn rhwystro bysbrintio
 features-fingerprinting-ditch-the-sticky = Osgowch yr hysbysebion gludiog sy'n eich dilyn o gwmpas gyda'r rhwystrwr bysbrintwyr sy'n rhan o borwr { -brand-name-firefox }.
 # description for the header image
