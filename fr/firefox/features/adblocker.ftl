@@ -38,6 +38,7 @@ features-adblocker-create-a-tracker-free = Créer un espace de navigation sans p
 features-adblocker-on-firefox-you-can-use = Dans { -brand-name-firefox }, vous pouvez régler les paramètres de <a href="{ $privacy }">Vie privée et sécurité</a> ou bien de <a href="{ $blocking }">Blocage de contenu</a> pour avoir plus de contrôle sur les traqueurs qui vous envoient des publicités.
 
 features-adblocker-choose-your-level-of-protection = Choisissez votre niveau de protection
+features-adblocker-to-start-click-on-the-v2 = Pour commencer, cliquez sur le bouclier à gauche de la barre d’adresse sur n’importe quelle page web, et sélectionnez « Paramètres de protection ». Les paramètres de Vie privée et sécurité de { -brand-name-firefox } s’ouvriront dans un nouvel onglet. Vous devriez voir une fenêtre popup bleue avec différentes sélections.
 
 # Obsolete string
 features-adblocker-to-start-click-on-the = Pour démarrer, cliquez sur le menu { -brand-name-firefox } en haut à droite de votre fenêtre de navigateur. Ce sont trois lignes horizontales superposées. Dans le menu déroulant, cliquez sur Blocage de contenu. Vous devriez voir une fenêtre popup bleue avec un choix de propositions.
@@ -69,6 +70,9 @@ features-adblocker-if-you-dont-want-your = Si vous ne souhaitez pas que votre co
 features-adblocker-speed-up-thanks-to-ad = Navigation accélérée grâce aux bloqueurs de pub
 features-adblocker-in-some-cases-an-ad-blocker = Dans certains cas, un bloqueur de publicités peut aider votre navigateur à aller plus vite. Lorsqu’une annonce se charge, elle peut ralentir un site web. En outre, vous irez moins vite pour trouver ce que vous cherchez si vous passez votre temps à fermer annonce sur annonce.
 
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Si vous voulez en savoir plus sur le blocage des publicités, des centaines d’extensions sont disponibles pour { -brand-name-firefox } et d’autres navigateurs. Si vous voulez essayer les bloqueurs que { -brand-name-firefox } utilise, <a href="{ $url }">cliquez ici pour télécharger</a> un navigateur qui fait passer la confidentialité de ses utilisateurs et utilisatrices avant tout le reste.
 
 # Obsolete string
 features-adblocker-if-you-want-to-learn-more = Si vous voulez en savoir plus sur le blocage des publicités, des centaines d’extensions sont disponibles pour { -brand-name-firefox } et d’autres navigateurs. Si vous voulez essayer les bloqueurs que { -brand-name-firefox } utilise, <a href="{ $url }">cliquez ici pour télécharger</a> un navigateur qui fait passer la confidentialité de ses utilisateurs et utilisatrices avant tout le reste.
