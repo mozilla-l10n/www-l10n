@@ -17,3 +17,6 @@ features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Registrati
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Tutti i tuoi dati sono crittati sui nostri server: noi non possiamo leggerli, solo tu puoi accedervi. Non vendiamo le tue informazioni agli inserzionisti perché ciò violerebbe il nostro <a href="{ $privacy }">impegno per la privacy dei dati</a>.
 features-sync-send-tabs-from-one-device-to-another = Invia schede da un dispositivo all’altro
+features-sync-the-send-tab-feature-in-firefox = La funzione Invia scheda di { -brand-name-firefox } ti consente di inviare pagine da { -brand-name-firefox } da un dispositivo a un altro (come un iPhone, iPad o un dispositivo Android). Durante la navigazione sul telefono hai trovato un articolo che desideri leggere quando torni alla tua scrivania? Un documento importante di lavoro che vuoi salvare quando torni a casa? Forse hai trovato una ricetta sul tuo portatile che vuoi inviare al tuo tablet in cucina. Invia quella scheda!
+# Used as accessible alternative text for an image
+features-sync-an-image-of-a-firefox-application = L’immagine del menu applicazione di { -brand-name-firefox } che evidenzia l’opzione “Invia scheda a dispositivo”.
