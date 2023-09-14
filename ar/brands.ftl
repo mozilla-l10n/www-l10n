@@ -102,14 +102,14 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = Glean
+-brand-name-mdn-plus = MDN Plus
+-brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = شبكة Mozilla للتطوير
 -brand-name-mozilla-festival = مهرجان موزيلا
 -brand-name-mozilla-hubs = مراكز موزيلا
 -brand-name-mozilla-labs = موزيلا لابز
 -brand-name-mozilla-vpn = موزيلا VPN
--brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mdn-plus = MDN Plus
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
