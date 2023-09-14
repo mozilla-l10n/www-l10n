@@ -22,7 +22,7 @@ features-translate-get-firefox-translations = Erekóke { -brand-name-firefox-tra
 # "To Google Translate" is a brand name
 features-translate-to-google-translate = Emoñe’ẽasa hag̃ua { -brand-name-google }
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = { -brand-name-google } Translate, eipurukuaáva hetave 100 ñe’ẽmegui*, oikundahahápe hetaitereirasa tapicha arapy tuichakue. Hákatu eku’évo translate.google.com pa’ũme ha pe kuatiarogue emoñe’ẽséva ndaha’éi oikoporãmbáva. Pe jepysokue <a { $attrs }>To { -brand-name-google } Translate</a> nombohasyive umi kuatiarogue emoñe’ẽasa hag̃ua.
+features-translate-google-translate-with = { -brand-name-google } Translate, eiporukuaáva hetave 100 ñe’ẽmegui*, oikundahahápe hetaitereirasa tapicha arapy tuichakue. Hákatu eku’évo translate.google.com pa’ũme ha pe kuatiarogue emoñe’ẽséva ndaha’éi oikoporãmbáva. Pe jepysokue <a { $attrs }>To { -brand-name-google } Translate</a> nombohasyive umi kuatiarogue emoñe’ẽasa hag̃ua.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
 # "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Eike { -brand-name-google } Ñe’ẽmbohasa

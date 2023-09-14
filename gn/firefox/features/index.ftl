@@ -8,17 +8,17 @@
 # HTML page title
 features-index-protect-your-privacy-and-browse = Emo’ã ne ñemigua ha eikundaha pya’eve { -brand-name-firefox } rembiapoite ndive
 # HTML page description
-features-index-youre-in-control-with-firefoxs = { -brand-name-firefox } rembiapoite hasy’ỹva ipuru ndive omo’ãva ne ñemigua ha kundahára pya’ekue, nde eñangarekóva.
+features-index-youre-in-control-with-firefoxs = { -brand-name-firefox } rembiapoite hasy’ỹva iporu ndive omo’ãva ne ñemigua ha kundahára pya’ekue, nde eñangarekóva.
 # Hero title
 features-index-firefox-features = { -brand-name-firefox } rembiapoite
 # Hero description
 features-index-firefox-is-fast = { -brand-name-firefox } ha’e kundahára ipya’e, ivevúi ha heko ñemíva ojepurukuaáva opaite mba’e’oka ndive.
-features-index-add-powerful-functions = Embojuaju tembiapoite oiko ha eipurukuaáva, ikatúva ombovy’a ne kundahára { -brand-name-firefox }.
+features-index-add-powerful-functions = Embojuaju tembiapoite oiko ha eiporukuaáva, ikatúva ombovy’a ne kundahára { -brand-name-firefox }.
 features-index-see-all = Ehecha opaite jepysokue
 features-index-give-your-browser = Eme’ẽ ne kundahárape eipotaháicha hetaiterei téma iñambuéva.
 features-index-important-stuff = Eñeha’ã opaite mba’e ehayhúva (ñandutípe jeheka, ñe’ẽñemi, tendayke ijurujáva) ejuhúvo eipotahápe peteĩteĩva mba’e’okápe.
 features-index-get-an-account = Eguereko { -brand-name-firefox-account }
-features-index-use-the-bookmark = Eipuru techaukaha mbyja ra’ãnga’i eikoporã hag̃ua ha embojuaju téra ha ñongatuha nemba’eteévare.
+features-index-use-the-bookmark = Eiporu techaukaha mbyja ra’ãnga’i eikoporã hag̃ua ha embojuaju téra ha ñongatuha nemba’eteévare.
 features-index-from-the-company = Mba’apohaguasu omotenondéva tapicha viru rovake
 features-index-private-browsing-mode = Pe kundahára ñemigua reko ombogue umi kookie mba’ekuaarã ha kundahára rembiasakue embotývo.
 features-index-firefox-automatically = { -brand-name-firefox } ojoko ijehegui hetave 2000 tapykuehoha ñemurãva ani hag̃ua nemyangekói ñandutípe.

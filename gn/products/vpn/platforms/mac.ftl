@@ -31,4 +31,4 @@ vpn-mac-devices-copy = Ne mohendaha, tabléta ha pumbyry hekorosãva’erã. Oip
 vpn-mac-speed-headline = Natekotevẽi ehekojopy pya’ekue
 vpn-mac-speed-copy = Mba’ekuaarã hu’ã’ỹva ha mba’evéichagua ancho de banda jejoko he’ise ikatuha ejeporeka ñanduti tuichakuépe ejapoháicha tapiaite — tekorosã jo’a reheve.
 vpn-mac-log-headline = Ejapóva ñandutípe ha’e nemba’ete
-vpn-mac-log-copy = Eime porã eipuruhápe { -brand-name-mozilla-vpn }. Umi mba’ekuaarã oñembopapapýma, ne rembiapo araka’eve noñeñongatúi ha nde rekoñemi oñemo’ã tapiaite. Péva ha’e ore ñe’ẽme’ẽ.
+vpn-mac-log-copy = Eime porã eiporuhápe { -brand-name-mozilla-vpn }. Umi mba’ekuaarã oñembopapapýma, ne rembiapo araka’eve noñeñongatúi ha nde rekoñemi oñemo’ã tapiaite. Péva ha’e ore ñe’ẽme’ẽ.

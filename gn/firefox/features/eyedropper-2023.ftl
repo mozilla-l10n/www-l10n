@@ -5,4 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
 
-features-eyedropper-eyedropper-tool = Tembipuru mondykyha
+features-eyedropper-eyedropper-tool = Tembiporu mondykyha
