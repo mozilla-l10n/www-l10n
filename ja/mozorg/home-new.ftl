@@ -37,7 +37,7 @@ home-join-the-fight = 共に健全なインターネットを作りましょう
 home-your-voice-your-code = 意見やコード、アイデアを共有してください。{ -brand-name-mozilla } に貢献する方法は、文字通り何千もあります。
 home-volunteer-with-mozilla = { -brand-name-mozilla } でのボランティア
 
-home-that-one-time = Mozilla は、ソースコードを公開している時期がありました
+home-that-one-time = Mozilla が初めてソースコードを公開したあの頃は…
 home-the-mozilla-project = { -brand-name-mozilla } プロジェクトは 1998 年にサンフランシスコで始まりました。{ -brand-name-netscape } ブラウザーは、発展と改善を重ねるために、そのプログラムコードを一般に公開するという大胆な決定をしました。その当時、人々のインターネット体験を実質的に独占していたのは、ある 1 つの会社でした。
 home-eventually-the-open = やがて、オープンソースの { -brand-name-mozilla } プロジェクトは、{ -brand-name-firefox } の最初のバージョンとして広く普及しました。
 home-today-mozilla-continues = 現在、{ -brand-name-mozilla } は、世界中の何百万人ものコミュニティメンバーとともに、より良いインターネットを目指す活動を続けてており、倫理的なテクノロジーや信頼できる AI を支持し、より大きな力を人々に与えるプライバシー第一の製品を生産しています。
