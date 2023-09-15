@@ -77,3 +77,5 @@ firefox-more-more-and-more = Immer mehr der sensiblen, wertvollen Dinge in unser
 firefox-more-avoid-misinformation-heading = Falschinformationen im Internet vermeiden – { -brand-name-firefox } hilft Ihnen dabei
 firefox-more-avoid-misinformation-desc = Sehen Sie sich Tipps an, wie Sie weniger Falschinformationen sehen und sich auf das konzentrieren, was Ihnen wichtig ist.
 
+firefox-more-is-firefox-a-private-browser = Ist { -brand-name-firefox } ein privater Browser?
+firefox-more-were-focused-on-your-right-to = Wir stellen Ihr Recht auf Datenschutz in den Mittelpunkt.Ihre Daten, Ihre Webaktivitäten, Ihr Online-Leben sind mit { -brand-name-firefox } geschützt.
