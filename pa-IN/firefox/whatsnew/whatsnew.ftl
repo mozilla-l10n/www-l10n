@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = { -brand-name-firefox } ਨਾਲ ਨਵਾਂ ਕੀ ਹੈ
+# Obsolete string
 whatsnew-page-title = { -brand-name-firefox } ਵਿੱਚ ਨਵਾਂ ਕੀ ਹੈ - ਵੱਧ ਪਰਦੇਦਾਰੀ, ਵੱਧ ਸੁਰੱਖਿਆ।
 whatsnew-page-description = ਉਸ ਉਦਯੋਗ ਦੇ ਵਿਰੁਧ ਡਟ ਜਾਓ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਹੋਰ ਧਿਰਾਂ ਨੂੰ ਵੇਚ ਦਿੰਦਾ ਹੈ। ਆਨਲਾਈਨ ਜਾਗਰੂਕ ਅਤੇ ਸੁਰੱਖਿਅਤ ਐਸੀ ਤਕਨੀਕ ਨਾਲ ਰਹੋ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਨਾਲ ਖੜ੍ਹਦੀ ਹੈ।
 whatsnew-firefox = { -brand-name-firefox }
@@ -23,3 +25,4 @@ whatsnew-out-of-date-notification-v2 =
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = ਤੁਹਾਡੇ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਨਵਾਂ ਕੀ ਹੈ, ਦੇ ਬਾਰੇ ਜਾਣਨ ਲਈ <a href="{ $url }">ਰੀਲਿਜ਼ ਨੋਟਿਸ (ਅੰਗਰੇਜ਼ੀ)</a> ਨੂੰ ਪੜ੍ਹੋ।
+whatsnew-signoff = <strong>{ -brand-name-mozilla } ਵਲੋਂ ਤਿਆਰ।</strong> 1998 ਤੋਂ ਲੈ ਕੇ ਫ਼ਾਇਦੇ ਨਾਲੋਂ ਲੋਕਾਂ ਨੂੰ ਪਹਿਲ।
