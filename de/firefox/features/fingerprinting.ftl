@@ -10,6 +10,7 @@ features-fingerprinting-what-is-fingerprinting-title = Was ist Fingerprinting un
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting ist eine Art von Online-Tracking, das invasiver ist als gewöhnliches Cookie-basiertes Tracking. Deshalb wird es von { -brand-name-firefox-browser } blockiert.
 
+features-fingerprinting-fingerprint-blocking = Blockierung von Identifizierern (Fingerprintern)
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blockiert Fingerprinting
 features-fingerprinting-ditch-the-sticky = Lassen Sie die störenden Werbeanzeigen, die Sie verfolgen, mit dem integrierten Fingerprinting-Blocker des Browsers { -brand-name-firefox } hinter sich.
 
