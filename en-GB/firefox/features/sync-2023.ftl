@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/sync/
 
+# page title
+features-sync-firefox-browser-sync = { -brand-name-firefox } browser Sync
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Access your { -brand-name-firefox } bookmarks, passwords, and open tabs and more from any device.
 features-sync-with-firefox-you-can-pick-up-where = With { -brand-name-firefox }, you can pick up where you left off when you switch from your desktop computer to your mobile phone to your tablet. { -brand-name-firefox } lets you see your bookmarks, your browsing history, your saved passwords and more, no matter which device you’re using.

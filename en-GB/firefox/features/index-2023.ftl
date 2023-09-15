@@ -17,6 +17,7 @@ features-index-free-password-manager = Free password manager
 features-index-get-help-creating-new-passwords = Get help creating new passwords, auto-fill online forms and log in automatically.
 features-index-customize-your-firefox-browser = Customise your { -brand-name-firefox } browser
 features-index-choose-how-your-browser-looks = Choose how your browser looks with thousands of free themes.
+features-index-firefox-browser-sync = { -brand-name-firefox } browser Sync
 features-index-access-your-firefox-bookmarks = Access your { -brand-name-firefox } bookmarks, passwords, open tabs and more from any device.
 features-index-bookmark-manager = Bookmark manager
 features-index-organize-your-bookmarks-with = Organise your bookmarks with folders and tags.

@@ -13,6 +13,7 @@ features-shared-is-firefox-a-fast-browser = Is { -brand-name-firefox } a fast br
 features-shared-is-firefox-a-private-browser = Is { -brand-name-firefox } a private browser?
 features-shared-free-password-manager = Password manager
 features-shared-customize-your-firefox-browser = Customise your { -brand-name-firefox } browser
+features-shared-firefox-browser-sync = { -brand-name-firefox } browser Sync
 features-shared-bookmark-manager = Bookmark manager
 features-shared-private-browsing-mode = Private browsing mode
 features-shared-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } add-ons and browser extensions
