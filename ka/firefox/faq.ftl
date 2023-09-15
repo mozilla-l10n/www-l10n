@@ -8,7 +8,7 @@
 # HTML page title
 firefox-faq = { -brand-name-firefox } ხ.დ.კ.
 whether-you-searched-privacy = თუ ეძებთ სწრაფ და პირადულობის დამცველ ბრაუზერს, ეს ხ.დ.კ. გაგცემთ პასუხს { -brand-name-firefox }-თან დაკავშირებულ ყველა მწვავე კითხვაზე.
-whether-you-searched-independant = თუ ეძებთ სწრაფ ბრაუზერს ან დამოუკიდებელ საშუალებას, თქვენი პირადულობის დასაცავად, ეს ხ.დ.კ. გაგცემთ პასუხს { -brand-name-firefox }-თან დაკავშირებულ ყველა მწვავე კითხვაზე.
+whether-you-searched-independant = თუ ეძებთ სწრაფ ბრაუზერს ან დამოუკიდებელ საშუალებას თქვენი პირადულობის დასაცავად, ეს ხ.დ.კ. გაგცემთ პასუხს { -brand-name-firefox }-თან დაკავშირებულ ყველა მწვავე კითხვაზე.
 what-is-firefox = რა არის { -brand-name-firefox }?
 
 # Variables:
@@ -25,9 +25,9 @@ how-do-i = როგორ გადმოვწერო { -brand-name-firefox-
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
-you-can-easily = მარტივად შეგიძლიათ ჩამოტვირთოთ { -brand-name-firefox } კომპიუტერისთვის <a href="{ $url }">აქედან.</a> { -brand-name-firefox } მუშაობს <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> და <a href="{ $url4 }">{ -brand-name-linux }</a>-მოწყობილობებზე, აგრეთვე ხელმისაწვდომია <a href="{ $url5 }">{ -brand-name-android } და { -brand-name-ios }-ზე.</a> გადაამოწმეთ, რომ ბრაუზერს ნამდვილად ჩვენი სანდო და უსაფრთხო { -brand-name-mozilla }/{ -brand-name-firefox }-გვერდებიდან იწერთ.
+you-can-easily = მარტივად შეგიძლიათ ჩამოტვირთოთ { -brand-name-firefox } კომპიუტერისთვის <a href="{ $url }">აქედან.</a> { -brand-name-firefox } მუშაობს <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> და <a href="{ $url4 }">{ -brand-name-linux }</a>-მოწყობილობებზე, აგრეთვე ხელმისაწვდომია <a href="{ $url5 }">{ -brand-name-android }-სა და { -brand-name-ios }-ზე.</a> გადაამოწმეთ, რომ ბრაუზერს ნამდვილად ჩვენი სანდო და უსაფრთხო { -brand-name-mozilla }/{ -brand-name-firefox }-გვერდებიდან იწერთ.
 is-firefox-free = { -brand-name-firefox } უფასოა?
-yep-the-firefox = დიახ! { -brand-name-firefox-browser } უფასოა. უუფასოესი. ფარული გადასახადების გარეშე. სარგებლობთ ყოველგვარი ხარჯების გარეშე და არც თქვენს პირად მონაცემებს არ ვყიდით.
+yep-the-firefox = დიახ! { -brand-name-firefox-browser } უფასოა. უუფასოესი. ყოველგვარი ფარული გადასახადების გარეშეა. სარგებლობთ ხარჯების გარეშე და თქვენს პირად მონაცემებსაც არავინ გაყიდის.
 related-questions-free = მსგავსი კითხვები: არის { -brand-name-firefox-browser } უფასო, რა ღირს { -brand-name-firefox }
 is-chrome-better = { -brand-name-chrome } უკეთესია ვიდრე { -brand-name-firefox }?
 no-we-dont = არა, ჩვენ არ მიგვაჩნია რომ { -brand-name-chrome } უკეთესია, ვიდრე { -brand-name-firefox }, ვინაიდან: როცა ხალხი კითხულობს რომელია უკეთესი, გულისხმობენ თუ რომელია სწრაფი და უსაფრთხო. { -brand-name-firefox } ახლდება ყოველთვიურად, სისწრაფისა და თქვენი პირადულობის თავისთავად უზრუნველყოფისთვის.
