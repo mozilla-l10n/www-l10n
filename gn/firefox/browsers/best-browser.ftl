@@ -10,7 +10,7 @@ best-browser-so-many-browser-options = Heta jeporavorã kundahápe g̃uarã, há
 best-browser-privacy-speed-and-security = Ñemigua, pya’ekue ha tekorosã.
 best-browser-how-to-choose-the-best = Mba’éicha eiporavokuaa iporãvéva kundaha ndéve g̃uara.
 best-browser-the-internet-has-become = Ñandutígui oiko mba’e tuichapajepéva, ha’eháicha electricida ha y ogaháre, upéicharamo eiporavóke kundaha iporãvéva ndéve g̃uarã. Ñanduti ha’e nerembiapo renda mokõiha, peteĩ mbo’ehára ha avei neresãirã, jepémo ne pohanohára oipotáta ndereikéi eikuaave hag̃ua ne mba’asy rehegua.
-best-browser-in-the-mid-nineties = Ary 90 mbyte rupi, { -brand-name-netscape }, { -brand-name-ie } ha AOL ha’ekuri umi ojepuruvéva. Uperamoguare opamba’e ivevuive ipuhápe mbeguemi dial-up arapy tuichakue jave. Eikuaa kuri mba’épa he’ise py’aguapy eha’arõhápe mba’éicha pe ñanduti kuatiarogue henyhẽ. Upéramo, pe kundaha pya’ekue ha’e mba’e oñeha’arõvéva.
+best-browser-in-the-mid-nineties = Ary 90 mbyte rupi, { -brand-name-netscape }, { -brand-name-ie } ha AOL ha’ekuri umi ojeporuvéva. Uperamoguare opamba’e ivevuive ipuhápe mbeguemi dial-up arapy tuichakue jave. Eikuaa kuri mba’épa he’ise py’aguapy eha’arõhápe mba’éicha pe ñanduti kuatiarogue henyhẽ. Upéramo, pe kundaha pya’ekue ha’e mba’e oñeha’arõvéva.
 best-browser-today-is-a-different = Ko’ág̃a rupi ndaha’evéima péicha. Maranduñemurã, hackeo ñemiguápe, ñemigua ñembyai ha marandu ijapúva ikatu ohechauka ambue kundaha rekome’ẽ. ¿Mba’éichapa omo’ã kundaha me ñemigua? ¿Omoneĩ tapykuehohápe nde rapykuehóvo ñandutípe? ¿Oñemoheñói omba’apo hag̃ua heta hendáicha?
 best-browser-when-you-use-a-browser = Eipurúvo kundaha, eikotevẽ ipya’e. Ha péicha avei, hekoñemiva’erã. Pe kundaha oikekuaa opaite mba’e ejapova’ekue ñandutípe, upévare ani emba’apo omo’ã’ỹva ne rembiapo ndive.
 best-browser-marshall-erwin-senior = Marshall Erwin, Director Senior Confianza ha Seguridad { -brand-name-mozilla } pegua
@@ -41,4 +41,4 @@ best-browser-choosing-the-best-browser = Eiporavóvo kundaha iporãvéva ha’et
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = <a href="{ $firefox }">{ -brand-name-firefox }</a>-pe, romba’apo mbarete rojapo hag̃ua kundaha ipya’e añetéva ha ome’ẽva poruhárape pokatu ijeikekue ñandutípe rehegua.
-best-browser-take-control-of-your = Ejapyhy ne kundaha jepuru.
+best-browser-take-control-of-your = Ejapyhy ne kundaha jeporu.

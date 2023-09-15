@@ -8,7 +8,7 @@
 # HTML Page Title
 vpn-resource-center-title = VPN renda guasu
 vpn-resource-center-whats-the-deal = ¿Mba’e pe téma red privada virtual rehegua?
-vpn-resource-center-discover-how-they = Ehecha mba’éicha oku’e, mba’ére ojepuruete ha mba’e ojapokuaa VPN jepuru ndéve g̃uarã.
+vpn-resource-center-discover-how-they = Ehecha mba’éicha oku’e, mba’ére ojeporuete ha mba’e ojapokuaa VPN jeporu ndéve g̃uarã.
 vpn-resource-center-view-all = Ehechapa
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Emo’ã ñepyrũ nde reraite ko ára guive

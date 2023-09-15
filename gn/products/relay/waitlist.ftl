@@ -22,7 +22,7 @@ waitlist-control-country-label-2 = Mba’e tetã térã tendaguasúpepa reiko
 waitlist-control-locale-label = Eiporavo ñe’ẽ eguerohoryvéva.
 waitlist-submit-label-2 = Eike oha’ãrõva ndive
 # Variables:
-#   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
+#   $url (url) - https://www.mozilla.org/privacy/subscription-services/
 waitlist-privacy-policy-agree-2 = Eikutúvo “{ waitlist-submit-label-2 }”, emoneĩma ore <a href="{ $url }">Ñemigua Purureko</a>.
 waitlist-privacy-policy-use = Ne marandu ojepurúta ojeguerahauka hag̃ua marandu’i eikekuaamaha { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Ne marandu ojepurúta ojeguerahauka hag̃ua pumbyry rovamo’ãha og̃uahẽ vove reimeha gotyo.
@@ -35,7 +35,7 @@ waitlist-subscribe-success-title = ¡Aguyje! Eiméma tysýipe
 #      - { waitlist-phone-name }
 waitlist-subscribe-success-email-desc = Ikatúvo { -brand-name-relay-premium } ojepuru reikohápe, romondóta ndéve ñanduti veve.
 waitlist-subscribe-success-phone-desc = Ikatúvo { -brand-name-relay } pumbyry rovamo’ãha ojepuru reikohápe, romondóta ndéve ñanduti veve.
-waitlist-subscribe-success-bundle-desc = Ikatúvo { -brand-name-relay } +{ -brand-name-vpn } ojepuru reikohápe, romondóta ndéve ñanduti veve.
+waitlist-subscribe-success-bundle-desc = Ikatúvo { -brand-name-relay } +{ -brand-name-vpn } ojeporu reikohápe, romondóta ndéve ñanduti veve.
 waitlist-subscribe-please-enter-a-valid = Ikatúpa ehai ñanduti veve kundaharape oikóva
 waitlist-subscribe-please-select-country = Eiporavomína tetã térã tendaguasu
 waitlist-subscribe-please-select-language = Eiporavomína peteĩ ñe’ẽ

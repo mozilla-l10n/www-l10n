@@ -150,7 +150,7 @@ vpn-landing-invite-language-label = Eiporavo ñe’ẽ eguerohoryvéva.
 vpn-landing-invite-privacy-policy = Eikutúvo “Ejuaju tysýi oha’ãrõva”, emoneĩma ore   <a href="{ $privacy }">Ñemigua purureko</a>.
 vpn-landing-invite-your-information = Ne marandu ojepurúta ojeguerahauka hag̃ua marandu’i eikekuaamaha pype.
 vpn-landing-invite-thanks-heading = ¡Aguyje! Eiméma tysýipe
-vpn-landing-invite-thanks-desc = Ikatúvo { -brand-name-mozilla-vpn } ojepuru reikohápe, romondóta ndéve ñanduti veve.
+vpn-landing-invite-thanks-desc = Ikatúvo { -brand-name-mozilla-vpn } ojeporu reikohápe, romondóta ndéve ñanduti veve.
 
 ##
 
