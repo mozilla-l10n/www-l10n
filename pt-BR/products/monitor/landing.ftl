@@ -11,6 +11,8 @@
 
 ##
 
+monitor-trusted-by-10-million = Aprovado por 10 milhões de pessoas no mundo todo
+monitor-since-2018-we-have-helped = Desde 2018, ajudamos pessoas em 237 países a evitar que suas informações pessoais caiam em mãos erradas.
 # This string is followed by a list of media outlets
 monitor-as-seen-in = Como visto em
 monitor-here-is-how-we-help = Veja como ajudamos a proteger você
