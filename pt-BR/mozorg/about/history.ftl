@@ -9,7 +9,7 @@ history-history-of-the-mozilla-project = História do Projeto { -brand-name-mozi
 # Variables:
 #   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
-history-the-mozilla-project-was = O projeto { -brand-name-mozilla } foi <a href="{ $coderush }">criado em 1998</a> com o <a href="{ $sourcerelease }">lançamento do código fonte da suite do navedador { -brand-name-netscape }</a>.
+history-the-mozilla-project-was = O projeto { -brand-name-mozilla } foi <a href="{ $coderush }">criado em 1998</a> com o <a href="{ $sourcerelease }">lançamento do código fonte da suíte do navegador { -brand-name-netscape }</a>.
 history-it-was-intended-to-harness = Ele tinha a intenção de aproveitar o poder criativo de milhares de programadores na internet e os altos níveis sem precedentes de inovação no mercado de navegadores.
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
