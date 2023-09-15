@@ -52,3 +52,5 @@ monitor-faq-whats-gets-exposed-answer = Non tote le violationes expone le mesme 
 
 ##
 
+monitor-take-back-control = Reprende le controlo de tu datos
+monitor-breach-data-provided-by = Violation datos fornite per <strong>Have I Been Pwned</strong>
