@@ -8,7 +8,7 @@
 # HTML page title
 compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } vs { -brand-name-chrome }: ¿máva iporãve?
 # HTML page description
-compare-chrome-we-compare-mozilla-firefox = Ore romoñondive { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-google } { -brand-name-chrome } ndive ñemigua, jepurukue ha iñemongu’épe
+compare-chrome-we-compare-mozilla-firefox = Ore romoñondive { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-google } { -brand-name-chrome } ndive ñemigua, jeporukue ha iñemongu’épe
 # Main title.
 compare-chrome-comparing-firefox-browser = Romoñondive { -brand-name-firefox-browser } { -brand-name-google } { -brand-name-chrome } ndive
 # Variables:
@@ -39,7 +39,7 @@ compare-chrome-while-chrome-proves-to-be = { -brand-name-chrome } ohechauka ha�
 # "Gmail" and "Google Docs" are brand names.
 compare-chrome-in-terms-of-features-both = Peteĩchaguávape, { -brand-name-firefox } ha { -brand-name-chrome } oreko arandukarenda guasu ijepysokue ha imoĩmbaháva, { -brand-name-chrome } mba’erysýi ohasa tuicha papapýpe oimeraẽva ambue kundahárape avei oikekuaa ambue mohendahavusu { -brand-name-google } mba’epururãme ha’éva Gmail ha { -brand-name-google } Docs.
 compare-chrome-firefox-also-has-a-sync-feature = { -brand-name-firefox } oreko ñembojuehe rembiapoite ehecha hag̃ua opaite ne mba’e’okápe ne rendayke ijuruja ha ipyahuvéva, kundahára rembiasakue ha techukahára.
-compare-chrome-while-chrome-gets-the-nod = { -brand-name-chrome } itenondeve aja moĩmbaha ha jepysokuépe, { -brand-name-firefox } oreko hetaichagua ojokuapegua ijaty ha ñangarekopyréva ha ãva hína mba’erechaha japyhyha rembiporu, ojepuruetéva, ha moñe’ẽrã ayvu rembiapoite omboguéva opaite kuatiarogue omboykéva ko moñe’ẽrã jehaipyre emoñe’ẽvahína.
+compare-chrome-while-chrome-gets-the-nod = { -brand-name-chrome } itenondeve aja moĩmbaha ha jepysokuépe, { -brand-name-firefox } oreko hetaichagua ojokuapegua ijaty ha ñangarekopyréva ha ãva hína mba’erechaha japyhyha rembiporu, ojeporuetéva, ha moñe’ẽrã ayvu rembiapoite omboguéva opaite kuatiarogue omboykéva ko moñe’ẽrã jehaipyre emoñe’ẽvahína.
 compare-chrome-although-not-as-extensive = Ndaipukuetéiramo jepe { -brand-name-chrome } ha { -brand-name-firefox } rembiporu’i arandukarendáicha software ijayvu jurujávaicha hetaiterei pytyvõhára oku’éva ndive, avei oguereko heta jepysokue iporã añetéva.
 compare-chrome-if-having-tons-of-open-tabs = Eipotáramo heta tendayke ijurujáva, upéicharõ opavave oñyñýita eguerohoryvévape jehechaha poruhára mba’éva. { -brand-name-firefox } oreko ñemongu’e yvyregua opaite tendayke ijurujáva, omomichĩrangue mbeguekatu, eikejeývo ipyahúvape. { -brand-name-google } { -brand-name-chrome } omomichĩseve ojehecha hag̃ua ta’ãnga’i kuatiarogue rehegua. Apañuãi oĩva eguerekóvo heta tendayke ijurujáva pe ñanduti veve guive, tapiaite ehecháta ta’ãnga’i kuatiarogue opaite tendayképe.
 compare-chrome-almost-needless-to-say-versions = Haimete ndoje’éi { -brand-name-firefox } ha { -brand-name-chrome } eiporukuaamaha opaite mohendahavusu mesa arigua oku’évape g̃uarã ha pumbyry ojepuruvéva ({ -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } ha { -brand-name-ios }).
