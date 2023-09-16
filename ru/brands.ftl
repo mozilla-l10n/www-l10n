@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
+
 
 ## Company names
 
@@ -185,12 +187,7 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = Glean
--brand-name-mozilla-common-voice = Mozilla Common Voice
--brand-name-mozilla-developer-network = Сеть разработчиков Mozilla
--brand-name-mozilla-festival = Фестиваль Mozilla
--brand-name-mozilla-hubs = Клубы Mozilla
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs =
     { $case ->
        *[nominative] Веб-документация MDN
@@ -200,7 +197,13 @@
         [instrumental] Веб-документацией MDN
         [prepositional] Веб-документации MDN
     }
--brand-name-mdn-plus = MDN Plus
+-brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-developer-network = Сеть разработчиков Mozilla
+-brand-name-mozilla-festival = Фестиваль Mozilla
+-brand-name-mozilla-hubs = Клубы Mozilla
+-brand-name-mozilla-labs = Mozilla Labs
+-brand-name-mozilla-monitor = Mozilla Monitor
+-brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -235,7 +238,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-
 # Outdated string
 -brand-name-web-assembly = Web Assembly
 
