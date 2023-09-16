@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Зображення в зображенні: Робіть більше з відкріпленими відео
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Необхідно виконувати роботу і щось переглядати? Робіть це одночасно з функцією { -brand-name-firefox } Зображення в зображенні.
+features-pip-picture-in-picture = Зображення в зображенні
 features-pip-new-feature-firefox-multi-picture = Нова функція: кілька вікон зображення в зображенні { -brand-name-firefox }
 features-pip-cool-feature-picture-in-picture = Чудова функція: Зображення в зображенні
 features-pip-get-more-done-with-pop-out-videos = Робіть більше з відкріпленими відео

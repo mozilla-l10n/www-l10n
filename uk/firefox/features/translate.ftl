@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Перекладіть Мережу
 # page description
 features-translate-translate-more-than = Перекладайте з понад 100 мов своєю мовою безпосередньо у { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } — простіше, ніж будь-коли.
 features-translate-translate-the-web = Перекладайте Мережу за допомогою { -brand-name-firefox }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Перекладіть Мережу
 # Obsolete string
 features-translate-the-google-translate = Розширення { -brand-name-google } Translate для { -brand-name-firefox } робить Інтернет доступним для всього світу.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = <a { $attrs }>Розширення { -brand-name-firefox-translations }</a> може автоматично перекладати вміст вебсторінок, які ви відвідуєте. На відміну від інших хмарних альтернатив, це розширення перекладає текст локально в браузері { -brand-name-firefox }, тому текст, який ви перекладаєте, залишається тільки на вашому комп'ютері.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Отримати { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } перекладач із понад 100 мовами* використовується мільйонами людей по всьому світу. Але перемикання між translate.google.com та сторінкою, яку ви намагаєтесь прочитати — це не зручно. Розширення <a { $attrs }>To { -brand-name-google } Translate</a> робить переклад сторінки, на якій ви перебуваєте, простішим, ніж будь-коли.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Отримати To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Отримати розширення
