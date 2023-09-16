@@ -40,4 +40,4 @@ home-get-news-and-tips = Получайте новости и советы от 
 # VPN Feature
 home-featured-product = Рекомендуемый продукт
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
-home-feature-blur-your-location = Размытие вашего местоположения и активност с помощью <span>{ -brand-name-mozilla-vpn } </span>
+home-feature-blur-your-location = Размытие вашего местоположения и активности с помощью <span>{ -brand-name-mozilla-vpn } </span>
