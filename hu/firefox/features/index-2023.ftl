@@ -26,13 +26,13 @@ features-index-automatically-delete-cookies = Törölje automatikusan a sütiket
 features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } kiegészítők
 features-index-add-new-tools-capabilities-and = Adjon új eszközöket, funkciókat és szórakoztató dolgokat a böngészőjéhez.
 features-index-pinned-browser-tabs = Rögzített böngészőlapok
-features-index-keep-your-favorite-pages-open = Tartsa nyitva kedvenc oldalait és tartsa csak egy kattintásnyira. Használja a Rögzített lapokat, hogy a levelező és az üzenetküldő alkalmazásait tartsa szemmel.
+features-index-keep-your-favorite-pages-open = Tartsa nyitva kedvenc oldalait, egyetlen kattintásnyira. Használja a Rögzített lapokat, hogy szemmel tartsa a levelező és az üzenetküldő alkalmazásait.
 features-index-eyedropper-tool = Pipetta eszköz
-features-index-identify-the-exact-color-on-a = Azonosítsa a pontos színt az oldalon, és másolja le a hexa kódját.
+features-index-identify-the-exact-color-on-a = Azonosítsa a pontos színt egy oldalon, és másolja a hexa kódját.
 features-index-pdf-editor = PDF szerkesztő
-features-index-view-and-edit-pdf-files = PDF fájlok megtekintése és szerkesztése közvetlenül a { -brand-name-firefox }ban.
+features-index-view-and-edit-pdf-files = Tekintsen még és szerkesszen PDF-fájlokat közvetlenül a { -brand-name-firefox }ban.
 features-index-fingerprint-blocking = Ujjlenyomat-blokkolás
-features-index-ad-tracker-blocking = Reklámkövető blokkolás
+features-index-ad-tracker-blocking = Reklámkövető-blokkolás
 features-index-firefox-automatically-blocks = A { -brand-name-firefox } automatikusan blokkol több mint 2000 hirdetéskövetőt, hogy ne kövessék Önt az interneten.
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Rázza le az Önt követő ragadós hirdetéseket a { -brand-name-firefox } beépített ujjlenyomat-készítő blokkolóival.
