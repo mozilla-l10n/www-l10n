@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 # HTML page title
-features-index-firefox-browser-features = A { -brand-name-firefox } böngészőfunkciók
+features-index-firefox-browser-features = A { -brand-name-firefox } böngészőfunkciói
 # HTML page description
-features-index-firefox-is-the-fast-lightweight = A { -brand-name-firefox } a gyors, könnyű, adatvédelem-központú böngésző, amely minden eszközén működik.
+features-index-firefox-is-the-fast-lightweight = A { -brand-name-firefox } a gyors, könnyűsúlyú és adatvédelem-központú böngésző, amely minden eszközén működik.
 features-index-is-firefox-a-fast-browser = A { -brand-name-firefox } gyors böngésző?
 features-index-firefox-uses-less-memory-than = A { -brand-name-firefox } kevesebb memóriát használ, mint a Chrome, így más programjai is maximális sebességgel futhatnak.
 features-index-is-firefox-a-private-browser = A { -brand-name-firefox } privát böngésző?
@@ -16,14 +16,14 @@ features-index-were-focused-on-your-right-to = Az adatvédelemhez való jogára 
 features-index-free-password-manager = Ingyenes jelszókezelő
 features-index-get-help-creating-new-passwords = Kapjon segítséget az új jelszavak létrehozásához, az online űrlapok automatikus kitöltéséhez és az automatikus bejelentkezéshez.
 features-index-customize-your-firefox-browser = Szabja testre a { -brand-name-firefox } böngészőjét
-features-index-choose-how-your-browser-looks = Válassza ki, hogyan néz ki a böngészője a több ezer ingyenes témával.
+features-index-choose-how-your-browser-looks = Válassza ki, hogyan nézzen ki a böngészője a több ezer ingyenes témával.
 features-index-firefox-browser-sync = { -brand-name-firefox } böngészőszinkronizálás
 features-index-access-your-firefox-bookmarks = Érje el a { -brand-name-firefox } könyvjelzőit, jelszavait, nyitott lapjait és egyebeit bármely eszközről.
 features-index-bookmark-manager = Könyvjelzőkezelő
 features-index-organize-your-bookmarks-with = Rendszerezze a könyvjelzőit mappák és címkék segítségével.
 features-index-private-browsing-mode = Privát böngészési mód
-features-index-automatically-delete-cookies = Automatikusan törölje a sütiket, és törli a böngésző előzményeit, ha bezárja.
-features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } kiegészítők és böngészőkiegészítők
+features-index-automatically-delete-cookies = Törölje automatikusan a sütiket és az előzményeket, amikor bezárja.
+features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } kiegészítők
 features-index-add-new-tools-capabilities-and = Adjon új eszközöket, funkciókat és szórakoztató dolgokat a böngészőjéhez.
 features-index-pinned-browser-tabs = Rögzített böngészőlapok
 features-index-keep-your-favorite-pages-open = Tartsa nyitva kedvenc oldalait és tartsa csak egy kattintásnyira. Használja a Rögzített lapokat, hogy a levelező és az üzenetküldő alkalmazásait tartsa szemmel.
