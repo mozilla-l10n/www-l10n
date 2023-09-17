@@ -21,6 +21,7 @@ monitor-form-enter-your-email-address = 输入邮箱地址即可检查数据外�
 ##
 
 monitor-data-breaches-happen-every = <strong>数据外泄事件</strong>每 11 分钟就会发生一次，将隐私信息暴露在光天化日之下。不过别担心，我们能帮忙。
+monitor-help-fix-exposures = 补救数据外泄问题，我们来帮忙
 
 ## FAQ section
 
