@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Переводите Интерне
 # page description
 features-translate-translate-more-than = Переводите с более 100 языков на свой язык прямо в { -brand-name-firefox-browser(case: "prepositional") } — проще, чем когда-либо раньше.
 features-translate-translate-the-web = Переводите Интернет с помощью { -brand-name-firefox }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Переводите Интернет
 # Obsolete string
 features-translate-the-google-translate = Расширение To { -brand-name-google } Translate для { -brand-name-firefox } делает Интернет доступным на любом языке.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = Расширение <a { $attrs }>{ -brand-name-firefox-translations }</a> может автоматически переводить содержимое посещаемых вами веб-страниц. В отличие от некоторых облачных альтернатив, это расширение переводит текст локально в { -brand-name-firefox }, поэтому переводимый контент не покидает ваш компьютер.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Загрузить { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Переводчик поддерживает более 100 языков* и используется миллионами людей по всему миру. Но постоянное переключение между translate.google.com и страницей, которую вы пытаетесь прочитать — не лучший вариант. Расширение <a { $attrs }>To { -brand-name-google } Translate</a> максимально просто выполняет перевод страницы, на которой вы находитесь.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = Перейти к { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Загрузить расширение
