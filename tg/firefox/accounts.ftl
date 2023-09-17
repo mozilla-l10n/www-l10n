@@ -9,6 +9,8 @@ firefox-accounts-enter-your-email-address = Барои оғози кор ниш�
 firefox-accounts-already-have-an-account = Аллакай ҳисобе доред?
 firefox-accounts-sign-in = Ворид шудан
 firefox-accounts-manage = Идоракунии ҳисоби худ
+# This is followed by a list of things you can do with your Firefox account
+firefox-accounts-sign-in-to = Ба ҳисоби худ дар «{ -brand-name-firefox-account }» ворид шавед:
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Нигоҳдорӣ ва ҳамоҳангсозии ниҳонвожаҳо</a>
