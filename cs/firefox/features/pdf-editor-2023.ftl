@@ -7,3 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Editor PDF
+pdf-editor-fill-in-forms-online-without = Vyplňování formulářů online bez tisku a skenování
+pdf-editor-add-text = Přidání textu
+pdf-editor-open-the-pdf-in-firefox-click-text = Otevřete PDF ve { -brand-name-firefox(case: "loca") }. Klepněte na tlačítko Text a vyberte barvu a velikost textu, než vyberete, kam v dokumentu chcete přidat text. Je to tak snadné!

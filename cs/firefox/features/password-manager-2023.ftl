@@ -18,3 +18,7 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } mů
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Obrázek přihlašovacího formuláře webové stránky s { -brand-name-firefox(case: "loc") } zobrazující několik uložených účtů, z nichž si můžete vybrat při přihlašování.
 password-manager-import-passwords = Import hesel
+password-manager-you-can-use-the-import-wizard = Pomocí průvodce importem můžete snadno (zázračně) importovat uživatelská jména a hesla uložená v prohlížečích Chrome, Edge, Safari nebo jiných prohlížečích. V nabídce vyberte položku Hesla a poté klepněte na tlačítko "Importovat je do { -brand-name-firefox(case: "gen") }" ve spodní části stránky Přihlašovací údaje.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-import-wizard = Obrázek dialogového okna průvodce importem ve { -brand-name-firefox(case: "loc") }, který zobrazuje možnosti importu nastavení a dat z jiných prohlížečů.
+password-manager-no-more-reusing-your-passwords = Už žádné opakované používání hesel
