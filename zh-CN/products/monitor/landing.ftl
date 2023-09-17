@@ -21,10 +21,11 @@ monitor-form-enter-your-email-address = 输入邮箱地址即可检查数据外�
 ##
 
 monitor-data-breaches-happen-every = <strong>数据外泄事件</strong>每 11 分钟就会发生一次，将隐私信息暴露到光天化日之下。不过别担心，我们能帮忙。
-monitor-help-fix-exposures = 补救数据外泄问题，我们来帮忙
+monitor-help-fix-exposures = 补救数据外泄，我们来帮忙
 # Variables:
 #   $privacy (url) - https://www.mozilla.org/privacy/
 monitor-our-mission-is = 我们致力于让您重获个人数据的控制权，帮助您解决外泄事件问题、保持信息私密，并且全程<a href="{ $privacy }">尊重您的隐私</a>。
+monitor-what-info-could-be = 哪些信息有外泄风险？
 
 ## FAQ section
 
