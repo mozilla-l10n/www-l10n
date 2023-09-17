@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = Что такое сбор цифровых отпечатков и почему его следует заблокировать
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Сбор цифровых отпечатков — это более агрессивный вид онлайн-отслеживания, чем обычное отслеживание с помощью кук, поэтому { -brand-name-firefox-browser } блокирует его.
+features-fingerprinting-fingerprint-blocking = Блокировка цифровых отпечатков
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } блокирует сборщики цифровых отпечатков
 features-fingerprinting-ditch-the-sticky = Избавьтесь от надоедливой рекламы, отслеживающей вас, с помощью встроенной в { -brand-name-firefox } блокировки сборщиков цифровых отпечатков.
 # description for the header image
