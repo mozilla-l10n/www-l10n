@@ -18,3 +18,4 @@ pdf-editor-no-more-now-all-you-need-to-do = Больше не надо! Тепе
 pdf-editor-add-text = Добавить текст
 pdf-editor-open-the-pdf-in-firefox-click-text = Откройте PDF-файл в { -brand-name-firefox }. Нажмите кнопку «Текст», чтобы выбрать цвет и размер текста, прежде чем выбирать, где вы хотите добавить текст в документе. Это так просто!
 pdf-editor-add-drawings-or-your-signature = Добавьте рисунки (или свою подпись)
+pdf-editor-open-the-pdf-in-firefox-click-draw = Откройте PDF-файл в { -brand-name-firefox }. Нажмите значок «Рисовать», чтобы выбрать цвет, толщину и непрозрачность, прежде чем можно будет рисовать в документе. Вероятно, это будет не сильно хуже, чем ваша обычная подпись!
