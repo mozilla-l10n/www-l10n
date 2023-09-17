@@ -9,7 +9,7 @@
 monitor-landing-page-title = { -brand-name-mozilla-monitor } - 保护您的个人数据不受外泄
 # HTML page description
 monitor-landing-page-desc = 看看您的电话号码、家庭地址等信息是否已外泄到网上。与全球一千万用户一道，拿回属于自己的隐私。免费扫描，一探究竟。
-monitor-hero-heading = 查找数据外泄，拿回您的隐私
+monitor-hero-heading = 查找隐私信息外泄，拿回属于您的隐私
 
 ## Get free scan form
 
